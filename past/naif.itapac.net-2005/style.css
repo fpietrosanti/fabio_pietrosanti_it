@@ -1,0 +1,232 @@
+all {
+	font-family: verdana,arial,sans-serif;
+}
+
+body {
+ background-color: #DDDDE8;
+ color: #333333;
+}
+
+A:link {
+	color: #DAA520;
+	text-decoration: underline;
+}
+A:visited {
+	color: #DAA520;
+	text-decoration: underline;
+}
+A:hover {
+	color: #FC6;
+	text-decoration: underline;
+}
+
+.bookmarks a:link {
+	text-decoration: none;
+	color: #222222;
+}
+
+.bookmarks a:visited  {
+	text-decoration: none;
+	color: #666688;
+}
+
+.bookmarks a:hover {
+	text-decoration: underline;
+}
+
+
+.bookmarks .copyright a:link, .bookmarks .copyright a:visited {
+	color: #DAA520;
+	text-decoration: underline;
+}
+
+/** Nav stuff **/
+
+TD.NAVOff {
+	font-family: verdana,arial,sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666633;
+	background-color: #BDB76B;
+	cursor: default;
+}
+
+TD.NAVOff A:link, TD.NAVOff A:visited  {
+	color: #666633;
+	text-decoration: none;
+}
+
+TD.NAVOff A:hover  { 
+	color: #000; 
+	text-decoration: none;
+}
+
+TD.NAVOn {
+	color: #663;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: verdana, arial, sans-serif;
+	background-color: white;
+	cursor: default;
+}
+
+p.sig {
+	margin-left: 25%;
+	margin-top: 0;
+	margin-bottom: 2em;
+	text-align: right;
+	font-style: italic;
+}
+
+p.testi {
+	margin-bottom: 0;
+}
+
+p.copyright {
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+.more   { font-style: italic; font-weight: bold; padding-left: 2em }
+  
+
+.bookmarks p.copyright {
+	font-size: 62%;
+}
+
+.bookmarks dd {
+	font-style: italic;
+}
+
+.bookmarks dt {
+	margin-top: 0.5em;
+}
+
+/** Body **/
+
+/* Needed since inheritence doesn't work inside tables */
+.TXTBody P, .TXTBody UL, .TXTBody OL, .TXTBody DL {
+	color: #333;
+	font-weight: normal;
+	font-size: 11px;
+	font-family: verdana, arial, sans-serif;
+	margin-top: 0px;
+}
+
+.TXTBody A:visited {
+	color: #FC6;
+	text-decoration: underline;
+	}
+
+.TXTDate {
+	font-family: verdana,arial,sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFFFCC;
+}
+
+.TXTDate A:link,A:visited  {
+        color:white ;
+        text-decoration: none;
+}      
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: verdana,arial,sans-serif;
+	font-weight: bold;
+}
+
+H1 {
+	font-size: 17px;
+	color: white;
+	background: #daa520;
+}
+
+H2 {
+	font-size: 17px;
+	color: #666633;
+}
+
+H3 {
+	color: #996;
+	font-size: 13px;
+	margin-bottom: 0.5em;
+}
+
+H4 {
+	color: #996;
+	font-style: italic;
+	font-size: 12px;
+	margin-top: 0em;
+	margin-bottom: 0.5em;
+}
+
+ul, dl {
+	padding-left: 1em;
+	margin: 0 0 0 0px;
+}
+
+li {
+  list-style-type: square; 
+  list-style-position: outside; 
+  margin-left: 0px;  
+}
+
+TD.TDQuote P  {
+  color: #a0522d;
+  font-style: italic;
+  font-size: 23px;
+  font-family: georgia, times new roman, times, serif }
+
+img.book {
+	margin-left: 1em;
+    clear: right;
+}
+
+
+/* Stuff for news feeds from rawdog. */
+div.rawdog  {}
+
+.rawdog p, dl {
+    color: #333;
+    font-weight: normal;
+    font-size: 10px;
+    font-family: verdana, arial, sans-serif;
+    margin-top: 0px;
+}
+
+.rawdog dd {
+    font-style: italic;
+}
+
+.rawdog dt {
+    margin-top: 0.1em;
+}
+
+.rawdog h3 {
+	margin-bottom: 0;
+	padding: 0;
+}
+
+.rawdog h4 {
+	font-style: normal;
+	margin: 0; 
+	padding: 0;
+	font-size: 60%;
+}
+
+/* Same as bookmarks */
+.rawdog a:link {
+	text-decoration: none;
+	color: #222222;
+}
+
+.rawdog a:visited  {
+	text-decoration: none;
+	color: #666688;
+}
+
+.rawdog a:hover {
+    text-decoration: underline;
+}

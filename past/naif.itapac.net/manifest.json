@@ -1,0 +1,315 @@
+{
+ "name": "naif",
+ "start": "http://naif.itapac.net/index.shtml",
+ "timestamp": "20030628055837",
+ "scope": "http://naif.itapac.net/",
+ "title": "naif.itapac.net (2003)",
+ "pages": [
+  {
+   "url": "http://naif.itapac.net/contacts.shtml",
+   "status": 200,
+   "capture": "20030810192159",
+   "type": "text/html",
+   "local": "contacts.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/curriculum.shtml",
+   "status": 200,
+   "capture": "20030628054912",
+   "type": "text/html",
+   "local": "curriculum.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/img/fabbbio.gif",
+   "status": "html-instead-of-binary",
+   "capture": "20060524095543",
+   "type": "text/html",
+   "local": null
+  },
+  {
+   "url": "http://naif.itapac.net/index.shtml",
+   "status": 200,
+   "capture": "20030628055837",
+   "type": "text/html",
+   "local": "index.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/links.shtml",
+   "status": 200,
+   "capture": "20030628060612",
+   "type": "text/html",
+   "local": "links.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/naif.asc",
+   "status": 200,
+   "capture": "20030608103457",
+   "type": "text/plain",
+   "local": "naif.asc",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/parole.shtml",
+   "status": 200,
+   "capture": "20030628061031",
+   "type": "text/html",
+   "local": "parole.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/photo/photogallery.php",
+   "status": 200,
+   "capture": "20030810201730",
+   "type": "text/html",
+   "local": "photo/photogallery.php.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/photo/photogallery.php?action=full&picture=wlan_sec_analisys.jpg&lang=en",
+   "status": 200,
+   "capture": "20030629174515",
+   "type": "text/html",
+   "local": "photo/photogallery__action_full_picture_wlan_sec_analisys.jpg_lang_en.php.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/photo/photogallery.php?action=gallery&pagenum=2&number=9&lang=en",
+   "status": 200,
+   "capture": "20031209044151",
+   "type": "text/html",
+   "local": "photo/photogallery__action_gallery_pagenum_2_number_9_lang_en.php.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/photo/pics/thumbnails/wlan_sec_analisys.jpg",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://naif.itapac.net/server.shtml",
+   "status": 200,
+   "capture": "20030628061659",
+   "type": "text/html",
+   "local": "server.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/tech.shtml",
+   "status": 200,
+   "capture": "20030412031239",
+   "type": "text/html",
+   "local": "tech.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/tech/adv/bind_8_dos.txt",
+   "status": 200,
+   "capture": "20030811033542",
+   "type": "text/plain",
+   "local": "tech/adv/bind_8_dos.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/adv/cisco_pix_ftp.txt",
+   "status": 200,
+   "capture": "20030811034416",
+   "type": "text/plain",
+   "local": "tech/adv/cisco_pix_ftp.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/adv/cisco_pix_notes.txt",
+   "status": 200,
+   "capture": "20030629133512",
+   "type": "text/plain",
+   "local": "tech/adv/cisco_pix_notes.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/adv/cisco_pix_smtp.txt",
+   "status": 200,
+   "capture": "20030629175741",
+   "type": "text/plain",
+   "local": "tech/adv/cisco_pix_smtp.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/adv/mailstudio2000.txt",
+   "status": 200,
+   "capture": "20030930070855",
+   "type": "text/plain",
+   "local": "tech/adv/mailstudio2000.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/code/chrooted.tgz",
+   "status": 200,
+   "capture": "20030629180844",
+   "type": "application/x-tar",
+   "local": "tech/code/chrooted.tgz",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/code/naif_fw_script.tgz",
+   "status": 200,
+   "capture": "20030629181618",
+   "type": "application/x-tar",
+   "local": "tech/code/naif_fw_script.tgz",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/code/sendmailcftrojan.tgz",
+   "status": 200,
+   "capture": "20030412065438",
+   "type": "application/x-tar",
+   "local": "tech/code/sendmailcftrojan.tgz",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/code/sirc.tar.gz",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://naif.itapac.net/tech/old/dte2221.txt",
+   "status": 200,
+   "capture": "20030522133429",
+   "type": "text/plain",
+   "local": "tech/old/dte2221.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/old/dte2222.txt",
+   "status": 200,
+   "capture": "20030715062644",
+   "type": "text/plain",
+   "local": "tech/old/dte2222.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/old/sex.8",
+   "status": 200,
+   "capture": "20030716081320",
+   "type": "text/plain",
+   "local": "tech/old/sex.8",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/astaro.txt",
+   "status": 200,
+   "capture": "20030716123537",
+   "type": "text/plain",
+   "local": "tech/post/astaro.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/certificazioni.txt",
+   "status": 200,
+   "capture": "20030716231806",
+   "type": "text/plain",
+   "local": "tech/post/certificazioni.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/chrooted.txt",
+   "status": 200,
+   "capture": "20030717053141",
+   "type": "text/plain",
+   "local": "tech/post/chrooted.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/criminalita.txt",
+   "status": 200,
+   "capture": "20030717093806",
+   "type": "text/plain",
+   "local": "tech/post/criminalita.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/denunciareono.txt",
+   "status": 200,
+   "capture": "20030530073101",
+   "type": "text/plain",
+   "local": "tech/post/denunciareono.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/exploit.txt",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/firewallpiercing.txt",
+   "status": 200,
+   "capture": "20030718122215",
+   "type": "text/plain",
+   "local": "tech/post/firewallpiercing.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/firewallvlan.txt",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/idseval.txt",
+   "status": 200,
+   "capture": "20030719070928",
+   "type": "text/plain",
+   "local": "tech/post/idseval.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/marketing.txt",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/mpls.txt",
+   "status": 200,
+   "capture": "20030720151935",
+   "type": "text/plain",
+   "local": "tech/post/mpls.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/riflessioni2001.txt",
+   "status": 200,
+   "capture": "20030722114452",
+   "type": "text/plain",
+   "local": "tech/post/riflessioni2001.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/synflood.txt",
+   "status": 200,
+   "capture": "20030722145924",
+   "type": "text/plain",
+   "local": "tech/post/synflood.txt",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/tech/post/tcpoverlap.txt",
+   "status": 200,
+   "capture": "20030723193628",
+   "type": "text/plain",
+   "local": "tech/post/tcpoverlap.txt",
+   "html": false
+  }
+ ]
+}

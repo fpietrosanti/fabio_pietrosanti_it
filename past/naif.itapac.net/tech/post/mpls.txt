@@ -1,0 +1,88 @@
+Archivio: Novembre 2001 ml@sikurezza.org
+Soggetto: Re: Telecom e MPLS
+Mittente: Fabio Pietrosanti (naif)
+Data: 23 Nov 2001 19:52:52 -0000
+In una rete che implementa VPN tramite la tecnologia MPLS identifichiamo dei
+SERI problemi di sicurezza in quanto:
+
+- la compromissione di uno dei qualsiasi Provider Edge Router ( il peer che
+  sta' in casa dell'isp su cui termina la nostra cdn/adsl/framerelay/x25 e che
+  si occupa di "appiccicare" il label MPLS fra l'header layer2 e l'header layer
+3 )
+  consentendone la riconfigurazione comporta la compromissione dell'intera
+  infrastruttura NON SOLO del tuo singolo collegamento, ma di quello di TUTTA
+  l'infrastruttura MPLS  e conoscendo come la nostra amatissima telecomo
+  approccia al problema della sicurezza dei router mi viene da ridere.
+
+- Ci sono rischi dovuti alla relativamente giovane implementazione del
+  protocollo, nonche' difficolta' di gestione da parte dell'ISP come
+  dall'articolo:
+  http://www.zdnet.com/zdnn/stories/news/0,4586,2805408,00.html
+
+- Come risolviamo il problema della "riservatezza" dato che i dati che
+  transitano fra i due peer della VPN MPLS viaggiano attraverso la rete
+  dell' ISP in CHIARO?
+
+- Potrei presupporre, ma non ci scommetto 100 lire, che l'annunciamento di
+  particolari reti in BGP ( sul cui protocollo sono basate parecchie
+  infrastrutture MPLS ), o il labeling MPLS effettuato da un qualsiasi router
+  in casa di un qualsiasi cliente anziche' farlo effettuare dall'Edge Router,
+  possa consentire di avere accesso completo a qualsiasi rete collegata in
+  VPN attraverso questo ISP.
+  Ma ribadisco, posso solo "presupporre" questo.
+
+Credo che l'impiego di questa tecnologia comporta numerosi vantaggi per l'isp
+quali il  management centralizzato sugli Edge Router e l'abbattimento dei
+costi in termini di apparecchiature ( pensate a non dovere piu' avere unita'
+cifranti con grossa potenza di calcolo per fare svariati MBit in 3DES )
+ma NON PUO' garantire la stessa sicurezza di tunnel IPSec che collegano i vari
+peer
+della VPN, fra l'altro autenticati tramite l'impiego di certificati digitali,
+preshared key + xauth .
+
+Questo e' il mio punto di vista per la conoscenza "teorica" che ho dell'MPLS,
+rapportandolo alle VPN.
+
+Qualche link di riferimento:
+
+http://www.cisco.com/pcgi-bin/Support/PSP/psp_view.pl?p=Internetworking:MPLS
+http://www.cisco.com/univercd/cc/td/doc/product/software/ios120/120newft/120t/1
+20t5/vpn.htm
+http://www.iec.org/online/tutorials/mpls/topic01.html?Next.x=36&Next.y=13
+
+Una domanda da porsi: Vi fidate del vostro ISP ?
+
+On Fri, Nov 23, 2001 at 04:52:22PM +0100, Luca Berlinghieri wrote:
+> Ciao a tutti,
+>
+> In questi giorni sto vagliando offerte da vari carrier per la fornitura di
+> una VPN geografica, una delle proposte che mi hanno fatto e' quella relativa
+> ad una VPN che utilizza la tecnologia MPLS dicendomi che anche senza
+> attivare il 3DES sulle connessioni ottengo la stessa sicurezza che avrei con
+> delle CDN dedicate.
+> Onestamente la cosa mi ha lasciato abbastanza perplesso, anche perche' non
+> sono riuscito a trovare materiale tecnico relativo a tale tecnologia al di
+> la del fatto che utilizza un meccanismo di label-switching.
+>
+> Sapete mica dove posso trovare questo materiale e/o potete darmi due dritte
+> su cosa si tratta di preciso?
+>
+> Grazie a tutti in anticipo.
+> Luca.
+>
+>
+>
+> ________________________________________________________
+> http://www.sikurezza.org - Italian Security Mailing List
+
+--
+
+Fabio Pietrosanti ( naif )
+E-mail: naif@sikurezza.org - naif@blackhats.it
+PGP Key (DSS) http://naif.itapac.net/naif.asc
+--
+ "Hacking is the future of security research" R.Power, CSI
+Free advertising: www.openbsd.org Multiplatform Ultra-secure OS
+
+________________________________________________________
+http://www.sikurezza.org - Italian Security Mailing List

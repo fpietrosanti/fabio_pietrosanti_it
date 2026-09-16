@@ -1,0 +1,151 @@
+{
+ "name": "naif2005",
+ "start": "http://naif.itapac.net/index.shtml",
+ "timestamp": "20050828180513",
+ "scope": "http://naif.itapac.net/",
+ "title": "naif.itapac.net (2005)",
+ "pages": [
+  {
+   "url": "http://naif.itapac.net/competence-en.shtml",
+   "status": 200,
+   "capture": "20050829012227",
+   "type": "text/html",
+   "local": "competence-en.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/competence-it.shtml",
+   "status": 200,
+   "capture": "20050828180513",
+   "type": "text/html",
+   "local": "competence-it.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/contact-en.shtml",
+   "status": 200,
+   "capture": "20050404220852",
+   "type": "text/html",
+   "local": "contact-en.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/contact-it.shtml",
+   "status": 200,
+   "capture": "20050404203413",
+   "type": "text/html",
+   "local": "contact-it.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/fabio_pietrosanti_new_pub_pgp.asc",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://naif.itapac.net/fabio_pietrosanti_old_pub_pgp.asc",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://naif.itapac.net/favicon.ico",
+   "status": 200,
+   "capture": "20060524094738",
+   "type": "image/x-icon",
+   "local": "favicon.ico",
+   "html": false
+  },
+  {
+   "url": "http://naif.itapac.net/index-en.shtml",
+   "status": 200,
+   "capture": "20050404201111",
+   "type": "text/html",
+   "local": "index-en.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/index.shtml",
+   "status": 200,
+   "capture": "20050829042130",
+   "type": "text/html",
+   "local": "index.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/link-en.shtml",
+   "status": 200,
+   "capture": "20050831072645",
+   "type": "text/html",
+   "local": "link-en.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/link-it.shtml",
+   "status": 200,
+   "capture": "20050404201923",
+   "type": "text/html",
+   "local": "link-it.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/media-en.shtml",
+   "status": 200,
+   "capture": "20050830200711",
+   "type": "text/html",
+   "local": "media-en.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/media-it.shtml",
+   "status": 200,
+   "capture": "20050828045603",
+   "type": "text/html",
+   "local": "media-it.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/reference-en.shtml",
+   "status": 200,
+   "capture": "20050824140442",
+   "type": "text/html",
+   "local": "reference-en.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/reference-it.shtml",
+   "status": 200,
+   "capture": "20050825032512",
+   "type": "text/html",
+   "local": "reference-it.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/services-en.shtml",
+   "status": 200,
+   "capture": "20050829100045",
+   "type": "text/html",
+   "local": "services-en.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/services-it.shtml",
+   "status": 200,
+   "capture": "20050404203601",
+   "type": "text/html",
+   "local": "services-it.shtml.html",
+   "html": true
+  },
+  {
+   "url": "http://naif.itapac.net/style.css",
+   "status": 200,
+   "capture": "20060524094729",
+   "type": "text/css",
+   "local": "style.css",
+   "html": false
+  }
+ ]
+}

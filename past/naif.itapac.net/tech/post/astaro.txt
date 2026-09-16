@@ -1,0 +1,54 @@
+Archivio: Agosto 2001 ml@sikurezza.org
+Soggetto: Re: Astaro Security Linux
+Mittente: Fabio Pietrosanti (naif)
+Data: 30 Aug 2001 11:41:45 -0000
+On Wed, Aug 29, 2001 at 10:53:37AM +0200, Antonio Stano wrote:
+> Una Societa' tedesca, la Astaro Ag procude un prodotto interessante:
+> Astaro security Linux
+> si tratta di una versione di linux basata su kernel 2.4.x hardenizzata,
+> contiente un firewall stateful,con nat e masquerading
+> application proxy e content filter, smtp antivirus gateway
+> VPN
+> IPSec with IKE
+> TripleDES, MD5, SHA-1
+> e un webadmin per facilitare le operazioni.
+> L'interfaccia dello stateful ricorda molto da vicino quella di fw-1
+> Lo ho trovato un prodotto interessante per chi vuole avere una soluzione
+> bella e pronta che si adatti alle sue esigenze con poco sforzo...
+
+Questa distribuzione di linux la ho esplorata un pochino dall'interno e devo
+dire che e' veramente ben fatta ma mal si adatta al mondo enterprise non
+disponendo di soluzioni ridondate per la sua funzione.
+
+Risulta inoltre poco flessibile nella gestione, e personalmente sono contro
+al concetto che un UNICO dispositivi svolga le decine di funzioni che questa
+distribuzione, pronta per la creazione di appliance, offre.
+
+Ogni daemon ( dhcpd, pptpd, squid, qmail, etc) che gira al suo interno e'
+chrootato in un suo ambiente con un suo uid e un suo gid, supporta la
+scansione antivirus con un qmail e script abbastanza intelligenti.
+
+La gestione interna dei permessi e' molto paranoica .
+
+Il tutto rigorosamente con software OpenSource, tranne alcune
+CGI proprietarie Astaro.
+
+Unica limitazione e' che si e' OBBLIGATI ad utilizzare l'interfaccia via web
+fatta con un webadmin e alcuni moduli in piu', e se si vanno a modificare
+configurazioni e/o rules a mano a causa delle limitazioni tipiche di un
+sistema di gestione via web , eppoi si torna all'interfaccia grafica si
+possono ottenere risultati "spiacevoli" .
+
+Saluti
+
+--
+
+Fabio Pietrosanti ( naif )
+E-mail: naif@sikurezza.org - naif@blackhats.it
+PGP Key (DSS) http://naif.itapac.net/naif.asc
+--
+Free advertising: www.openbsd.org Multiplatform Ultra-secure OS
+Free Flame: IPFilter sucks !
+
+________________________________________________________
+http://www.sikurezza.org - Italian Security Mailing List

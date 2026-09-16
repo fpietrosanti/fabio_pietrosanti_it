@@ -1,0 +1,116 @@
+Archivio: Ottobre 2000 ml@sikurezza.org
+Soggetto: Re: 'DoS' against net protected by Watchguard Firebox (fwd)
+Mittente: Fabio Pietrosanti (naif)
+Data: 9 Oct 2000 08:41:28 -0000
+Con Cisco PIX Firewall, dalla 5.2(1) e' stata introdotta la feature di
+"tcp intercept" gia' presente su IOS/IPFW che dovrebbe proteggere la reti
+dietro a tali sistemi  da synflood.
+Adesso da test da me effettuati:
+
+Cisco PIX Firewall 5.2(1) con dietro un webserver, se SynFloodato
+pesantemente si comporta come il " Watchguard Firebox II " descritto da
+raptor.( Bello schifo vero?)
+
+Cisco IOS IPFW 12.1(4) con dietro un webserver e "ip tcp
+intercept" abilitato in tutti i modi possibili (watch mode, drop mode,
+etc) sembra continuare a funzionare, ma al salire del carico del router,
+ogni tanto manda un RST anche a connessioni stabilite.
+
+Cisco IOS IPFW 12.1(4) con dietro un webserver e "ip  audit" e ip inspect
+attivato:
+ip audit signature 3050 list 99 (Signature del SynFlood)
+ip audit name bloccasyn attack list 99 action alarm drop reset
+access-list 99 permit any
+e
+ip inspect audit-trail
+ip inspect max-incomplete low 10
+ip inspect max-incomplete high 20
+ip inspect one-minute low 10
+ip inspect one-minute high 20
+ip inspect tcp idle-time 300
+
+Funziona a meraviglia, gestendo il synflood in modo eccellente, anche con
+una macchina davanti al Router ( un 3600 con 8mb di flash, e 32mb di
+ram) . Il WebServer risponde sempre a non si ritrova una valanga di
+SYN_RECV facendo netstat -na .
+
+Sarei curioso di sapere i risultati di test fatti synflooddando servizi
+nelle service network, utilizzando altri tipi di Firewall.
+
+naif
+
+
+On Mon, 9 Oct 2000, Igor Falcomata' wrote:
+
+>
+> From: raptor <raptor@antifork.org>
+> To: ml@sikurezza.org
+> Date: 07 Oct 2000, 11:05:31 AM
+> Subject: 'DoS' against net protected by Watchguard Firebox (fwd)
+>
+> Vi fwardo una mail che avevo spedito qualche gg fa a
+> bugtraq: evidentemente ultimamente sto sul ***** al vecchio aleph, che non
+> me l'ha fatta passare :) Mi rendo conto che non e' un 'bug' nel senso vero
+> del termine: il DoS dipende dalla struttura stessa dei protocolli del
+> TCP/IP e molto probabilmente e' applicabile ad altri firewall o device che
+> hanno feature simili. Pero' non e' bello lo stesso: mi dite che ne
+> pensate?
+>
+> cheers,
+> :raptor
+>
+>
+> ---------- Forwarded message ----------
+> Date: Fri, 5 Oct 2000 12:52:44 +0200 (CEST)
+> From: raptor <raptor@antifork.org>
+> To: bugtraq@securityfocus.com
+> Subject: 'DoS' against net protected by Watchguard Firebox
+>
+> Hi,
+> Watchguard Firebox is a series of hw firewalls providing a lot of nice
+> features and protection for small offices and so on. I've made all my
+> tests on a Watchguard Firebox II, but i think this DoS is effective with
+> Firebox SOHO too. Learn more about Watchguard products at
+> http://www.watchguard.com.
+> The problem comes with the "flooding/scanning detection and port blocking"
+> feature. The firewall detects a lot of common port scanning techniques,
+> along with floods, and temporarily prohibit access to his network from the
+> IP address source of the scan/flood. Now, what happens if we perform a
+> carefully crafted spoofed syn-flood? Simple, we can deny traffic to the
+> network protected by Watchguard Firebox, from any IP we want.
+> Let's look at the following example (IP addresses were censored to
+> protect the innocent:):
+>
+> Our boxes:
+> * narcissism (the attacker - we obviosly need root privs to send spoofed
+>   packets)
+> * web, xxx.xx.28.3 (protected by Watchguard Firebox II)
+> * dns, xxx.xxx.87.2 (our test machine, connecting to the web)
+>
+> dns$ telnet xxx.xx.28.3 80
+> Trying xxx.xx.28.3...
+> Connected to xxx.xxxxx.xx.
+> Escape character is '^]'.
+>
+> [ok, we can access the web server... let's trying the DoS from narcissism]
+> narcissism# ./syn-flood -s xxx.xxx.87.2 -t xxx.xx.28.3.111 -a 1000
+>
+> [after the syn flood, on the xxx.xxx.87.2 box]
+> dns$ telnet xxx.xx.28.3 80
+> Trying xxx.xx.28.3...
+>
+> [no way, we can't connect]
+>
+> As you can see, we can deny access to the Firebox-protected network from
+> any IP we want. Definitely not good :\ I don't see an immediate
+> workaround, any suggestions?
+>
+> :raptor
+> Antifork Research
+> http://raptor.antifork.org
+>
+> --------------------------------------------------------------------------
+> informazioni sui comandi supportati da questa ml: http://www.sikurezza.org
+>
+
+

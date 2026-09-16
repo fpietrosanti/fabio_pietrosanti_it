@@ -1,0 +1,57 @@
+Archivio: Novembre 2002 ml@sikurezza.org
+Soggetto: Dati dell'osservatorio sulla criminalita' ICT 2002
+Mittente: Fabio Pietrosanti (naif)
+Data: 29 Nov 2002 09:05:41 -0000
+Interessanti i dati anche se mi domando se un campione di 200 aziende non sia
+troppo basso per avere delle stime veritiere.
+
+http://www.repubblica.it/online/scienza_e_tecnologia/hacker/rapporto/rapporto.h
+tml
+
+[snip]
+Sono in aumento anche l'uso non autorizzato di risorse e sistemi altrui, che
+colpisce il 12% degli enti (contro il 5% precedente); il vandalismo (dal 36,6
+al 47,4); le azioni dimostrative (26,3); le frodi informatiche (18,4%). In
+generale, comunque, prevalgono nettamente gli attacchi esterni rispetto ai
+"sabotaggi" interni, cioe` compiuti da un dipendente dell'ente o dell'azienda.
+[snip]
+
+Mi fa' molto pensare anche quest'ultima frase...
+
+Se e' vero che aumentano il numero di attacchi da internet ( innegabile, non
+si contano piu' i mass scan ogni giorno ) e' altrettanto vero che le aziende ne
+lla
+stramaggioranza dei casi pensano solo alla difesa perimetrale tralasciando
+l'implementazione di opportune misure di sicurezza la' dove risiedono i veri
+dati sensibili ( vedi x25, gateway IP-SNA verso gli HOST, etc ) .
+
+Aggiungeri a questo che *praticamente sempre* manca una cultura della sicurezza
+ interna
+alla azienda ( security awareness ).
+
+Questo binomio mi fa' pensare che i veri crimini informatici rimangano quelli
+perpetrati dall'interno, con mosse veloci e studiate che non vengono neanche no
+tati
+dai responsabili IT e che quindi molto difficilmente, se non andando a
+lavorare su campioni di migliaia di aziende, si possano ottenere risultati
+concreti.
+
+Sono comunque felice che degli enti autorevoli come FTI e l'Universita'
+Bocconi si impegnino per analizzare il fenomeno cybercrime e sopratutto diffond
+ere i
+risultati delle loro analisi al grande pubblico solitamente confuso da
+eclatanti arresti di "pericolose bande di hacker"...
+
+Saluti
+
+--
+
+Fabio Pietrosanti ( naif )
+E-mail: naif@blackhats.it - naif@sikurezza.org - naif@s0ftpj.org
+PGP Key (DSS) http://www.s0ftpj.org/misc/naif.asc
+--
+Ethical Hacking is not a joke - http://www.blackhats.it/
+--
+
+________________________________________________________
+http://www.sikurezza.org - Italian Security Mailing List

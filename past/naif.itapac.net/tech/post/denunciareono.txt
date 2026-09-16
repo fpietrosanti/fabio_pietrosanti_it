@@ -1,0 +1,144 @@
+
+                         Re: denunciare le intrusioni?
+
+   From: Fabio Pietrosanti (naif) (naif@blackhats.it)
+   Date: Thu 05 Dec 2002 - 19:19:36 CET
+
+     _________________________________________________________________
+
+   Ciao ,
+
+   da quanto posso leggere sembrerebbe che l'hacker ( se proprio vogliamo
+   (ab)usare di questo termine ) in questione non sia proprio un asso ma
+   piu'
+   probabilmente il
+   tipico script kiddie che, come da tua citazione, "si e' divertito a
+   entrare
+   ed installare un po' di applicazione da hacker" ( probabilmente i
+   soliti
+   trojan,
+   i soliti programmini che gli consentono di andare su irc, di fare mass
+   scan,
+   etc... il 90% dei sistemi compromessi che analizzo han tutti la stessa
+   robba) .
+
+   Denunciare o meno e' una questione spinosa e, come puoi anche vedere
+   dalla
+   nota
+   del moderatore, sarebbe buona regola farlo al fine di consentire alle
+   forze
+   dell'ordine di fare correlazioni con altre denuncie, raccogliere
+   sufficienti
+   casi per chiedere "al loro management" di investire in questo campo (
+   formazione, altro personale, etc, etc ) .
+
+   Proprio la settimana scorsa mi hanno aperto la mia povera e piccola
+   punto
+   diesel 1700 senza turbo per la terza volta e per la terza volta ho
+   sporto
+   denuncia. A che pro? Al fine di consentire alle forze dell'ordine di
+   avere
+   delle stime veritiere sul tasso di criminalita' della mia zona e
+   quindi di
+   mettere piu' auto di pattuglia la notte.
+
+   Purtroppo questo paragone, quando si parla di informatica e sopratutto
+   di
+   business, non puo' reggere perche' entrano in gioco molte altre
+   variabili.
+
+   Innanzitutto di solito le aziende evitano di sporgere denuncia per i
+   rischi
+   correlati ai possibili danni all'immagine che quest'ultima potrebbe
+   subire
+   per una anche piccola fuga di notizie .
+   La fiducia che i suoi clienti hanno sicuramente scenderebbe per non
+   parlare
+   delle ripercussioni qualora si tratti di una azienda quotata...
+
+   Come tu dici non hai subito grossi danni economici quindi
+   probabilmente non
+   avresti intenzione di buttarla sul civile per avere dei risarcimento
+   danni
+   ma solo sul penale, da cui non trarresti alcun vantaggio (che e' poi
+   uno
+   degli
+   altri principali fattori per cui l'amministratore delegato si guarda
+   in
+   faccia
+   con l'it manager e gli dice "ma che ci guadagnamo?" e chiudono la
+   faccenda
+   con una reinstallazione della macchina ) .
+
+   Ovviamente nel decidere se denunciare o meno entrano in gioco molti
+   altri
+   fattori ( ci potrebbe essere un tuo competitor interessato ai tuoi
+   dati? Ci
+   potrebbe essere qualche organizzazione che per i piu' vari motivi ha
+   interesse
+   nel portare avanti una azione di sabotaggio nei tuoi confronti? etc,
+   etc ) e
+   quindi la valutazione va' fatta di volta in volta in base alla realta'
+   e al
+   tipo di attacco di cui si sta' parlando.
+
+   Tendenzialmente un modo molto cauto di procedere puo' essere quello
+   di:
+
+   - Svolgere le solite procedure di incident handling ( ti consiglio di
+   partire da qui http://rr.sans.org/incident/ leggendo attentamente i
+   vari paper
+   prima di mettere mano sulla tastiera del sistema compromesso )
+
+   - Effettuare una analisi forense privatamente( anche fatta in casa..
+     un'occasione per imparare :> ) sul sistema ( occhio a non
+   "intaccare" i
+     dati... lavora sempre e solo su delle copie dei dischi e documenta
+   con
+     who/where/why qualsiasi azione)
+
+   - in base ai risultati dell'analisi saprai se si tratta del solito
+   script
+     kiddie un po' pirla che fa' "mass scan" alla ricerca di qualsiasi
+   cosa
+     da bucare o se sotto c'e' dell'altro per cui ti conviene
+   effettivamente
+     sporgere denuncia.
+
+   Tutti questi ragionamenti valgono per il mondo privato ma non
+   altrettanto
+   per
+   la pubblica amministrazione in cui il system manager, nel momento in
+   cui
+   rileva
+   una intrusione *deve* ( imho giustamente! ) sporgere denuncia o corre
+   il
+   rischio di trovarsi nei guai .
+
+   Saluti
+
+   On Thu, Dec 05, 2002 at 01:36:46PM +0000, dmelpi@tiscali.it wrote:
+   > Salve a tutti, 
+   > abbiamo scoperto qui da noi una intrusione in una nostra macchina
+   pubblica, 
+   > riuscendo a tracciare tutte le attivita' dell'hacker di turno. 
+   > Per fortuna era solo una macchina sperimentale che usavamo per test.
+   > Il gentleman di turno si e' divertito a entrare ed installare un po'
+   di 
+   > applicazioni da hacker, cercando di nascondere la propria attivita',
+   senza 
+   > influire sui servizi disponibili sulla macchina, che quindi sembrava
+   > perfettamente funzionante. 
+   > Vorrei un vostro consiglio sui passi da intraprendere: occorre
+   denunciare 
+   > l'intrusione? A chi? 
+   > 
+   > Grazie fin d'ora per il supporto. 
+
+--
+Fabio Pietrosanti ( naif )
+E-mail: naif@blackhats.it - naif@sikurezza.org - naif@s0ftpj.org
+PGP Key (DSS) http://www.s0ftpj.org/misc/naif.asc
+--
+Ethical Hacking is not a joke - http://www.blackhats.it/
+--

@@ -1,0 +1,143 @@
+Archivio: Febbraio 2002 ml@sikurezza.org
+Soggetto: Re: Certificazioni
+Mittente: Fabio Pietrosanti (naif)
+Data: 2 Feb 2002 02:33:05 -0000
+Siccome non ho niente da fare e devo aspettare una mezzoretta prima di uscire
+stresso tutta la mailing list con i miei scleri...
+
+On Fri, Feb 01, 2002 at 01:44:23PM +0100, Andrea Ghirardini wrote:
+
+[+] Conferenze security ( Le vogliamo + tecniche!!! )
+
+ok, ok, che le conferenze sulla "security" sono principalmente
+marketing-oriented ed e' giusto lasciare il marketing al marketing...
+Noi, come blackhats.it, stiamo cercando di organizzare una serie di conferenze
+tecniche gratuite ( o quasi ) di alto livello in cui non si parli del solito
+baco di IIS, del solito firewall, o dei soliti trend di attacco e protezione,
+ma qualcosa che sia dedicata a chi gia' ne sa' abbastanza.
+Vediamo cosa riusciremo a fare....
+
+[+] Societa' che vendono aria fritta
+
+Ok, ok, che ci sono una miriade di piccole e medie societa' di security la cui
+professionalita' puo' essere messa in dubbio e' vero, ma non ci si puo' fare
+niente ( o vuoi dire peste e corna di tutti quelli che consideri
+"venditori di fumo" con le conseguenti querele che ti prenderesti ? ;> ) ...
+
+[+] Certificazioni ( Bufala o realta'? )
+
+Le certificazioni nell'ambito della security possono essere di due tipi, e
+ogniuna di esse con le sue caratteristiche:
+
+- Certificazioni di un vendor di software
+- Certificazioni indipendenti
+
+e su quest'ultima dobbiamo fare una ulteriore distinzione in
+  - Certificazioni indipendenti conseguite SOLO dopo la frequentazione di un
+    corso specifico
+  - Certificazioni indipendenti per cui non e' necessario seguire un corso
+
+Partiamo con quelle dei vendor di software...
+
+Le certificazioni sui prodotti ( o su una gamma di essi) di un singolo vendor
+( microsoft, checkpoint, cisco, etc, etc ) hanno come unico scopo quello di gar
+antire che chi
+passa gli esami sappia configurare per bene il software su cui ha studiato.
+Questo tipo di certificazioni vengono troppo spesso proposte, a causa di una
+cattiva gestione marketing delle societa' certificatrici, come garanzia che
+chi detiene il pezzo di carta in questione e' un mago della sicurezza ( con la
+sola imposizione delle mani ti proteggo tutta la rete!!!AEEEEE'! zik!zak!
+tagliato il cavo di rete :P )
+Diciamo un secco NO!
+Chi ha questo tipo di pezzo di carta e' certificato che sappia utilizzare lo
+specifico strumento per cui si e' certificato e niente altro.
+
+Al contrario sono molto piu' interessanti certificazioni indipendenti che
+puntano a valutare realmente le conoscenze di una persona e fra queste
+troviamo essenzialmente la CISSP e la GIAC .
+
+La CISSP sicuramente e' una certificazione interessante per cui non esiste un
+"libro" da leggere, e basa tutto sulla esperienza personale di chi va' a
+fare l'esame ed e' quindi totalmente indipendente dal detenere una
+certificazione Cisco Security Specialist, Checkpoint Certified Engineer o
+altro.
+
+Un certificato CISSP dimostra di avere buone competenze tecniche,
+legali e organizzative, anche se devo dire che ho avuto modo di scambiare
+alcune e-mail con fantomatici certificati CISSP "tutti da ridere" .
+La CISSP divide la security in 10 domini, spaziando alla crittografia alla
+legge in materia di privacy e cyber-crime, e la vedo orientata molto a
+certificare Security Manager [a] ( Scusate l'appendice ma c'e' confusione sul
+termine security manager e ringrazio Marco Gatti per avere organizzato a
+infosecurity una tavola rotonda sulla formazione e le figure professionali nel
+campo della sicurezza informatica ) .
+
+Altra certificazione molto interessante, ma esclusivamente tecnica, e' la
+GIAC che, offerta dal SANS, si compone di varie sottocertificazioni e nello
+specifico:
+   SANS Security Essentials Certification (GSEC) Graduates
+   GIAC Certified Intrusion Analysts (GCIA)
+   GIAC Certified Firewall Analysts (GCFW)
+   GIAC Certified Advanced Incident Handling Analysts (GCIH)
+   GIAC Certified Windows Security Administrator (GCNT)
+   GIAC Certified UNIX Security Administrator (GCUX)
+   GIAC Systems and Network Auditor (GSNA)
+   GIAC Information Security Officer (GISO)
+
+Le competenze richieste non sono acquisibili studiando soltanto sui libri e
+anche qui richiedono esperienza sul campo ma, al contrario della CISSP, e'
+piu' dedicata ai Network Security Manager [b] .
+
+Una nota di demerito va' a quelle certificazioni indipendenti che possono
+venire conseguite solo dopo avere seguito uno specifico corso, che nella
+maggior parte dei casi vengono create solo per fare i corsi necessari al suo
+conseguimento.
+Senza togliere nulla al merito formativo di questi corsi, che comunque
+consentono di imparare varie cose, bisogna stare molto attenti a dare
+retta ai messaggi pubblicitari e a come questi corsi e certifiche vengono prese
+ntati...
+
+Non esiste nessun corso che ti fa' diventare "security manager" .
+
+[+] Formazione ( E allora come imparo a fare security ? )
+
+Il mercato della security richiede sempre piu' persone, e chi si affaccia in
+questo mercato spesso proviene da mondi differenti con un background di
+competenze estremamente vario.
+
+Ooopsss, e' tardi ( 22.10 ) e devo andare a una festa di compleanno, per cui
+evito di stressarvi ancora con le mie scritture digestive e vado via.
+
+
+[+] Pseudo Appendice
+
+[a] Security Manager
+    Il security manager e' tradizionalmente una persona che se ne intende
+    di sicurezza a livello manageriale, che conosce la legge, che ha
+    competenze tecniche accettabili( ma tanto il suo lavoro NON e' tecnico ),
+    e che di solito parla direttamente con l'amm. delegato della societa' .
+
+[b] Network Security Manager
+    Il termine network security manager sta' iniziando ad essere utilizzato
+    per descrivere l'Engineer che si occupa della gestione della sicurezza
+    informatica, e che non richiede particolari competenze legali e
+    manageriali. Essenzialmente e' un tecnico molto skillato, ma troppo spesso
+    gli viene attribuito erroneamente il nome di Security Manager.
+
+> Alla fine solo una sembra essere riconosciuta come tale ovvero la cissp
+> (http://www.cissp.com). Mi sono iscritto all'esame anche se in Europa viene
+> tenuto a Francoforte e ha un costo che GULP! è davvero alto.
+>
+> In Italia però pare ci sa solo una persona che ha superato l'esame.
+Gia' vedo i certificati CISSP italiani salire, e gli MSS italiani fare a lotta
+a chi ha + certificati per dimostrare di non vendere aria fritta ( hahahah ) :P
+
+> Voi sapete consigliarmi qualcosa d'altro o avete suggerimenti da darmi?
+Lascia stare le certificazioni... servono solo a spendere soldi e le aziende
+italiane sono abbastanza stupide da considerare di + un semplice
+certificato CCSE visto che c'e' scritto Checkpoint nel titolo che una CISSP o
+GIAC .
+
+Saluti
+
+

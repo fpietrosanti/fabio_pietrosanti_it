@@ -1,0 +1,61 @@
+Archivio: Aprile 2002 ml@sikurezza.org
+Soggetto: Re: Bypassare firewall aziendali con tunnel HTTP/HTTPS
+Mittente: Fabio Pietrosanti (naif)
+Data: 8 Apr 2002 11:03:19 -0000
+On Fri, Apr 05, 2002 at 09:52:54AM +0200, Mimmus wrote:
+> Salve a tutti,
+> dopo aver letto l'articolo:
+>  http://e-zine.nluug.nl/hold.html?cid=196
+> ed esaminato prodotti come:
+>  http://www.nocrew.org/software/httptunnel.html (free)
+>  http://www.http-tunnel.com/HT_Products_HTTPTunnelClient.asp (commerciale)
+> mi/vi chiedo: che si puo' fare per proteggere una rete aziendale da questo
+> tipo di strumenti?
+Io credo che semplicemente "non si puo'" .
+
+Utilizzando appositi proxy applicativi dotati di funzionalita' di url e
+content filtering ( normalmente interoperanti con i firewall ) potresti
+arrivare a rendere piu' difficile la possibilita' di effettuare questo tipo di
+tunnel ma non puoi impedirlo, sempre che tu non voglia utilizzare delle
+politiche molto + restrittive e non permettere "to any" su nessun firewall.
+
+Questo perche' anche se tu imponessi l'utilizzo di proxy ssl ai tuoi utenti e
+andassi di conseguenza a fare l'inspection di tutta la sessione alla ricerca
+di tutto cio' che non e' html/jpeg/gif potresti comunque trovare un bell'header
+JPEG a cui seguito c'e' una connessione ssh o telnet che viene poi validata.
+
+Crittografia e steganografia spicciola ci frega a tutti :)
+
+E' possibile andare a incapsulare protocolli su protocolli in tantissimi modi,
+e spesso e' difficile se non impossibile bloccarne l'utilizzo quando si
+consente accesso "to any" a internet ai propri utenti.
+
+Qualche esempio pratico:
+IP-over-DNS:
+        http://slashdot.org/articles/00/09/10/2230242.shtml
+        http://nstx.dereference.de/
+
+Esempio teorico e standard:
+Internet draft su: IP over MIME
+        http://www.ietf.org/internet-drafts/draft-eastlake-ip-mime-06.txt
+
+
+Esiste addirittura un howto che spiega un paio di modi
+su come usare telnet e ssh per fare vpn bypassando i
+firewall:
+        http://www.linuxdoc.org/HOWTO/mini/Firewall-Piercing/index.html
+
+
+Saluti
+
+--
+
+Fabio Pietrosanti ( naif )
+E-mail: naif@sikurezza.org - naif@blackhats.it
+PGP Key (DSS) http://naif.itapac.net/naif.asc
+--
+ "Hacking is the future of security research" R.Power, CSI
+Free advertising: www.openbsd.org Multiplatform Ultra-secure OS
+
+________________________________________________________
+http://www.sikurezza.org - Italian Security Mailing List

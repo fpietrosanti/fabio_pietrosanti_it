@@ -1,0 +1,64 @@
+Archivio: Gennaio 2002 ml@sikurezza.org
+Soggetto: Re: Tcp Overlap Data
+Mittente: Fabio Pietrosanti (naif)
+Data: 30 Jan 2002 22:18:17 -0000
+On Tue, Jan 29, 2002 at 03:05:09PM +0100, Caris Ruben wrote:
+> "TCP segments with overlapping data that did not match (TCP_Overlap_Data)".
+>
+> Questo messaggi si cerca di associare a due cose:
+> 1) apparecchiature di rete che non funzionano bene;
+> 2) tentativi di attacco.
+>
+> Quando vi trovate adavanti ad questo errore su di un IDS, come vi
+> comportate?
+
+Direi che la soluzione migliore e' analizzare esattamente le caratteristiche
+dei pacchetti che hanno causato questo alert, verificando quale e' l'ip
+sorgente ( ed eventualmente facendogli uno scan con nmap controllandone il sist
+ema
+operativo... magari e' un sistema embedded di qualche tipo con uno stack
+TCP/IP particolarmente sfigato ), ma sopratutto andare a cercare cosa c'e'
+nel "payload" del pacchetto.
+
+Questo tipo di attaccho e' mirato ad evadere sistemi di NIDS confondendo i
+moduli di session tracking con frammenti inviati in modo disordinato.
+
+Ad esempio per effettuare un attacco tramite una richiesta HTTP ed eludere l'ID
+S
+potrei, anziche' inviare un pacchetto contente la mia stringa
+"GET /blahblah" potrei inviarla sotto forma di  frammenti in "disordine".
+
+1 frammento "G"
+2 frammento "T"
+3 frammento "E"
+4 frammento "/"
+5 frammento " "
+
+che verrebbero visualizzati dall'NIDS come "GTE/ " e quindi NON interpretati
+come attacco, e invece verrebbero accettati dal sistema attaccato il cui
+stack tcp/ip li riassemblera' e si trovera' la stringa "GET /" .
+
+Ovviamente i sistemi di NIDS moderni hanno dei motori di deframmentazione e
+statefull inspection che gli consentono di ovviare a questa tipologia di
+attacco.
+
+Avendo un sensore perimetrale e uno interno, e disponendo di firewall
+che si occupano del riassemblaggio dei frammenti passando ai sistemi protetti
+solo connessioni tcp "pulite" e' molto facile capire se si tratta di una
+False Positive o di un attacco, alternativamente l'unica soluzione e', come ho
+detto prima, guardare il contenuto del pacchetto.
+
+
+Saluti
+
+--
+
+Fabio Pietrosanti ( naif )
+E-mail: naif@sikurezza.org - naif@blackhats.it
+PGP Key (DSS) http://naif.itapac.net/naif.asc
+--
+ "Hacking is the future of security research" R.Power, CSI
+Free advertising: www.openbsd.org Multiplatform Ultra-secure OS
+
+________________________________________________________
+http://www.sikurezza.org - Italian Security Mailing List

@@ -1,0 +1,69 @@
+Archivio: Settembre 2002 ml@sikurezza.org
+Soggetto: Re: Comparazione NIDS
+Mittente: Fabio Pietrosanti (naif)
+Data: 11 Sep 2002 16:56:11 -0000
+Ciao,
+
+inizierei col dire che personalmente ritengo NFR il miglior prodotto di
+network intrusion detection che vi sia in commercio dal punto di vista
+dell'engine( il detection degli eventi fatto con l'N-code e' ineguagliabile),
+mentre sicuramente uno dei piu' scadenti dal punto di vista del management
+( richiede personale dedicato e con skill veramente elevati ) .
+
+ISS Realsecure dalla versione 7.0 ha puntato molto sorpatutto sulla componente
+di management( anche se c'e' da dire che supporta addirittura le rules di
+snort da questa version) e lo ritengo l'*unica* soluzione per il deployment di
+sistemi di Intrusion detection ( sia host che network based ) ove la base di in
+stallazione
+e' molto ampia.
+
+Il fatto che la management sia interamente su piattaforma microsoft vuol dire
+molto, sopratutto in termini di facilita' d'uso, mentre i sensori ( sia host
+che network based ) esistono per moltissimi sistemi operativi ( da AIX a Nokia
+IPSO a linux fino a Windows ) .
+
+Per il testing degli IDS e' inutile dire che se c'e' "mancanza di tempo",
+questo sara' completamente inutile e non ti consentira' di valutare i prodotti
+per quello che essi sono.
+
+Se nel tuo testing intendi valutare solo l'engine allora ecco qualche link:
+
+http://www.hsc.fr/ressources/outils/idswakeup/
+http://www.monkey.org/~dugsong/fragroute/
+http://www-iepm.slac.stanford.edu/monitoring/voip/ttcp.html
+http://www.snort.org/docs/idspaper/
+http://www.tlsecurity.net/cgi-bin/download.cgi?unix/Assesement/idstesting/fragr
+outer-1.6.tar.gz
+
+Se al contrario intendi valutare l'ids in tutti i suoi aspetti ( in alcune
+situazioni il management centralizzato o il meccanismo di reportistica sono
+iu' importanti dell'engine stesso ) allora inizia col leggere i report dell'NSS
+ group
+( http://www.nss.co.uk/ids/index.htm ) e a crearti una metodologia di testing t
+utta tua .
+
+Purtroppo questo ti porterebbe via qualche settimana...
+
+Saluti
+
+On Tue, Sep 10, 2002 at 07:44:29PM +0200, _/CaT_ wrote:
+> Ciao *,
+> Qualcuno a notizie o esperienze personali sui prodotti NFR? magari nello
+> specifico dell'appliance NID-320, dato che
+> domani inizier? un test comparativo tra lui e la nuova versione di ISS
+> 7.0, potete consigliarmi dei pentest da effettuare per trovare gli
+> eventuali limiti di tutte e due le piattaforme.
+[snip]
+> Il vincitore che ne uscira fuori se la dovr? vedere con SNORT....
+
+--
+
+Fabio Pietrosanti ( naif )
+E-mail: naif@blackhats.it - naif@sikurezza.org - naif@s0ftpj.org
+PGP Key (DSS) http://www.s0ftpj.org/misc/naif.asc
+--
+ "Hacking is the future of security research" R.Power, CSI
+Free advertising: www.openbsd.org Multiplatform Ultra-secure OS
+
+________________________________________________________
+http://www.sikurezza.org - Italian Security Mailing List

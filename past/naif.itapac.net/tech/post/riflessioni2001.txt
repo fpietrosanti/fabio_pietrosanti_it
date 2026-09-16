@@ -1,0 +1,73 @@
+Archivio: Dicembre 2001 ml@sikurezza.org
+Soggetto: Re: Questo ? quello che le aziende pensano della sicurezza.
+Mittente: Fabio Pietrosanti (naif)
+Data: 11 Dec 2001 17:29:26 -0000
+Siccome sono alle cozze e torno ora da una lunghissimaaaa ( vero raistlin? )
+conferenza, per sfogarmi vorrei commentare la notizia con una serie di sentenze
+alla come mi vengono, alcune piene di buone speranze per il futuro:
+
+
+Gli MSP che fanno sicurezza ( + o - seria ) spuntano come funghi e
+endono tanto.
+
+Il business della security, sia dei prodotti che dei servizi, sta' decollando.
+
+Di conferenze ( + o -  commerciali ) sulla sicurezza informatica
+ne' fanno + di 1 alla settimana .
+
+Infosecurity 2002 ha quasi il doppio delle aziende dell'anno scorso come
+esposi tori.
+
+Dicono che Bin Laden usa internet, quindi internet fa' paura, e questo e' un
+forte strumento di marketing e sensibilizzazione .
+
+Telecom continua a insistere che con i loro firewall le nostre reti
+saranno inviolabili.
+
+Il colonnello Rapetto, se pur con contenuti alle volte discutibili,
+sensibilizza la popolazione non tecnica con articoli e interviste giorno
+dopo g iorno.
+
+Gli strumenti OpenSource iniziano ad entrare nella mentalita' dei manager
+eliminando la necessita' di investire in esose licenze per software comm.li,
+spendendo di piu' su formazione e knowledge-management.
+
+I sistemi di controllo accessi MAC iniziano ad affacciarsi sul mercato  ( HP
+Secure Linux, SELinux, Argus/Pitbull LX, TrustedBSD, RSBAC ), ed enti come
+NSA, IBM e HP iniziano a creare framework per rendere + facile la vita a
+sysadmin di sistemi in MAC .
+
+Gli hacker italiani iniziano sempre piu' a legare con il mondo NON-cyberpunk,
+e anche questo e' un'ottimo strumento di sensibilizzazione.
+
+I worm raggiungono uomini, donne e bambini, mettendoli davanti al problema
+della sicurezza informatica.
+
+La microsoft dopo le figuracce fatte nei secoli dei secoli ha preso in mano il
+problema della sicurezza, segando la full-disclosure e 'costringendo'
+commercialmente grosse aziende ( vedasi ISS, e @Stake ) a sottostare alle loro
+regole per il rilascio di advisor .
+
+Io ho sonno anche se sono le 18.30 e quindi me ne vado a dormire.
+
+On Mon, Dec 10, 2001 at 01:35:55PM +0100, ---Antonio Di Maria---[LordZe]---> wr
+ote:
+> Sicurezza: occorre più impegno
+> Il mercato della sicurezza informatica rappresenta solo l'1% della spesa IT
+> mondiale dedicata a prodotti e servizi. Il dato emerge da uno studio IDC e ED
+S
+> http://www.nwi.it/idg/networkworld/news.nsf/sub/9EAEDAF28070864CC1256AFD0052
+F3FA
+[snip]
+
+--
+
+Fabio Pietrosanti ( naif )
+E-mail: naif@sikurezza.org - naif@blackhats.it
+PGP Key (DSS) http://naif.itapac.net/naif.asc
+--
+ "Hacking is the future of security research" R.Power, CSI
+Free advertising: www.openbsd.org Multiplatform Ultra-secure OS
+
+________________________________________________________
+http://www.sikurezza.org - Italian Security Mailing List

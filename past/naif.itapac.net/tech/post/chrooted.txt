@@ -1,0 +1,62 @@
+Archivio: Febbraio 2001 ml@sikurezza.org
+Soggetto: Re: shell chrooted
+Mittente: Fabio Pietrosanti
+Data: 16 Feb 2001 14:58:13 -0000
+Ho avuto modo di creare un ambiente chrootato su una macchina da cui
+vengono gestiti alcuni server e firewall, permettendo ai tecnici di
+lavorare da li', collegandosi in ssh e da' li in ssh verso i device da
+gestire ma senza avere reale accesso alla macchina.
+
+Ho preso la directory del chroot, l'ho ripulita degli account esistenti,
+delle nostre utilities, dei log, hostname vari e ho messo il tutto
+prelevabile qui:
+
+http://users.telemail.it/fabio_ml/chrooted.tgz
+
+decomprimendolo in /home/chrooted basta fare un:
+
+chroot /home/chrooted /bin/sshd
+
+per avere un sshd chrootato con
+ username: pippo
+ password: pippo123  ( w la fantasia vero? )
+
+
+Il tutto e' stato predisposto su Linux 2.2.18, Slackware 7.1 in libc6 .
+
+p.s. non ci sono licenze gpl, bsd ne' niente, chi se lo vuole prendere se
+     lo prende e ci fa' quel che vuole.
+
+naif
+naif@sikurezza.org
+
+
+
+On Fri, 16 Feb 2001 sysadmin@metropol.it wrote:
+
+>
+> Avete news circa shells chrooted sotto linux ?
+> Progetti analoghi a http://www.aarongifford.com/computers/chrsh.html o
+> ad una shell chrooted commerciale di nome ctsh ?
+> Occorre per forza crearsi un pikkolo zoo per un ambiente jailled ?
+>
+>
+> Saluti a tutti in particolare a Go|em
+>
+> Joy e demone allegato
+>
+> ----------------------------------
+> E-Mail: sysadmin@metropol.it
+> Date: 16-Feb-2001
+> Time: 12:50:05
+>
+> This message was sent by XFMail
+> ----------------------------------
+>
+> ________________________________________________________
+> http://www.sikurezza.org - Italian Security Mailing List
+>
+
+
+________________________________________________________
+http://www.sikurezza.org - Italian Security Mailing List

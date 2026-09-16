@@ -1,0 +1,187 @@
+{
+ "name": "madoka",
+ "start": "http://www.panservice.it/people/madoka/",
+ "timestamp": "19991021223801",
+ "scope": "http://www.panservice.it/people/madoka/",
+ "title": "madoka su panservice.it (1999)",
+ "pages": [
+  {
+   "url": "http://www.panservice.it/people/madoka/",
+   "status": 200,
+   "capture": "19991021223801",
+   "type": "text/html",
+   "local": "people/madoka/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/ai.jpg",
+   "status": "html-instead-of-binary",
+   "capture": "20110926083754",
+   "type": "text/html",
+   "local": null
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/annunci.htm",
+   "status": 200,
+   "capture": "19991021234950",
+   "type": "text/html",
+   "local": "people/madoka/annunci.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/anonimo.htm",
+   "status": 200,
+   "capture": "19991022004120",
+   "type": "text/html",
+   "local": "people/madoka/anonimo.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/back15.gif",
+   "status": 200,
+   "capture": "20000906090330",
+   "type": "image/gif",
+   "local": "people/madoka/back15.gif",
+   "html": false
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/backpa.gif",
+   "status": 200,
+   "capture": "20000930115916",
+   "type": "image/gif",
+   "local": "people/madoka/backpa.gif",
+   "html": false
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/bg9.jpg",
+   "status": "html-instead-of-binary",
+   "capture": "20051103143955",
+   "type": "text/html",
+   "local": null
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/dio.htm",
+   "status": 200,
+   "capture": "19991022020421",
+   "type": "text/html",
+   "local": "people/madoka/dio.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/franko1.htm",
+   "status": 200,
+   "capture": "19991022033455",
+   "type": "text/html",
+   "local": "people/madoka/franko1.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/giggi.txt",
+   "status": 200,
+   "capture": "20000907053647",
+   "type": "text/plain",
+   "local": "people/madoka/giggi.txt",
+   "html": false
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/laspezia.htm",
+   "status": 200,
+   "capture": "19991022044813",
+   "type": "text/html",
+   "local": "people/madoka/laspezia.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/latin.txt",
+   "status": 200,
+   "capture": "19991022060244",
+   "type": "text/plain",
+   "local": "people/madoka/latin.txt",
+   "html": false
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/letteratura.htm",
+   "status": 200,
+   "capture": "19991022063633",
+   "type": "text/html",
+   "local": "people/madoka/letteratura.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/lo_spermatozoo_solitario_.htm",
+   "status": 200,
+   "capture": "19991022221326",
+   "type": "text/html",
+   "local": "people/madoka/lo_spermatozoo_solitario_.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/lo_spermatozoo_solitario_.zip",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/miz.htm",
+   "status": 200,
+   "capture": "19991022232405",
+   "type": "text/html",
+   "local": "people/madoka/miz.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/miz.jpg",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/noise.mp3",
+   "status": "html-instead-of-binary",
+   "capture": "20130917103422",
+   "type": "text/html",
+   "local": null
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/pornorrorwestern.htm",
+   "status": 200,
+   "capture": "19991023002733",
+   "type": "text/html",
+   "local": "people/madoka/pornorrorwestern.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/pornorrorwestern.zip",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/religione.htm",
+   "status": 200,
+   "capture": "19991023013818",
+   "type": "text/html",
+   "local": "people/madoka/religione.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/vip.htm",
+   "status": 200,
+   "capture": "19991023022337",
+   "type": "text/html",
+   "local": "people/madoka/vip.htm",
+   "html": true
+  },
+  {
+   "url": "http://www.panservice.it/people/madoka/x.wri",
+   "status": 200,
+   "capture": "20001018220449",
+   "type": "text/plain",
+   "local": "people/madoka/x.wri",
+   "html": false
+  }
+ ]
+}
