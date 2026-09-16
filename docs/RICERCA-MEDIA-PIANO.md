@@ -56,8 +56,8 @@ Paper svedese ricordato da Fabio: **trovato** — Winter & Lindskog (Karlstad Un
   Sole 24 Ore, L'Espresso), copertura GlobaLeaks 2011 (anche estera), Security Summit 2010/2011,
   HAR2009, ESC, blog PrivateWave, VOIPSA, Infosec Island.
 - **2012–2015**: grandi testate italiane (Repubblica, Corriere, La Stampa, Il Fatto, L'Espresso),
-  Vice/Motherboard, archivi video CCC (media.ccc.de), Hacking Team 2015, tutti i 146 post tor-talk,
-  liberationtech, pagine 2+ del press archive Hermes Center, Sky TG24 / Corriere Datagate 2013.
+  Vice/Motherboard, archivi video CCC (media.ccc.de), Hacking Team 2015, articoli che riprendono
+  i suoi post (Tor Weekly News e simili), pagine 2+ del press archive Hermes Center, Sky TG24 / Corriere Datagate 2013.
 - **2016–2020**: Ethic Whispers, Ethic Alliance, Info.nodes, SignalSwarm, Advanced Knowledge
   Ventures, Haulersense, LESS.green, GLS Latina, Copernicani, Italian Hacker Camp 2018,
   audizioni parlamentari, Sole 24 Ore/Repubblica/Corriere, direttiva UE whistleblowing,
@@ -75,8 +75,8 @@ Paper svedese ricordato da Fabio: **trovato** — Winter & Lindskog (Karlstad Un
 - YouTube/Vimeo (scansione per canale: IJF, e-privacy, Nexa, TI Italia, Matteo Flora, CCC), podcast.
 - Google Scholar, Semantic Scholar, DiVA, tesi italiane, Google Books — citazioni di GlobaLeaks,
   Tor2web, ZRTP con il suo nome.
-- Tutti i post mailing list per autore: bugtraq, full-disclosure, tor-talk, tor-relays, tor-dev,
-  liberationtech, osmocom, VOIPSEC.
+- Advisory di sicurezza pubblicati (bugtraq, full-disclosure, SecurityFocus, CVE): solo quelli, non i
+  normali post in lista.
 - **infosecurity.ch**: import completo dei post appena il restauro (repo `fpietrosanti/infosecurity-ch`,
   locale `Claude/infosecurity-ch`) avrà la copia Wayback.
 
