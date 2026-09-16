@@ -29,7 +29,7 @@ TYPE_LABEL = {
     "research": "Ricerca", "paper": "Paper", "book": "Libro", "tv": "TV", "radio": "Radio",
     "video": "Video", "podcast": "Podcast", "slides": "Slide", "project": "Progetto",
     "press_release": "Comunicato", "hearing": "Audizione", "wiki": "Wiki", "other": "Altro",
-    "mentioned": "Menzionato", "thesis": "Tesi", "report": "Report", "book_chapter": "Capitolo di libro",
+    "mentioned": "Menzionato", "blog_post": "Post sul blog infosecurity.ch", "thesis": "Tesi", "report": "Report", "book_chapter": "Capitolo di libro",
 }
 
 
@@ -107,6 +107,22 @@ def year_of(item):
 # (kept in the private linkedin-i18n repo, archive/held-from-public-site/).
 HELD_HOSTS = {"rapamycin.news"}
 
+# Individual forum and mailing-list posts are NOT publications (Fabio, 2026-09-16: "otherwise I have
+# thousands of posts on mailing list archives"). Security advisories stay: they are research.
+POST_HOSTS = {
+    "seclists.org", "marc.info", "archive.torproject.org", "mailman.stanford.edu", "mail-archive.com",
+    "groups.google.com", "forum.italia.it",
+}
+POST_PATHS = ("voipsa.org/pipermail",)
+
+
+def is_list_or_forum_post(item):
+    u = norm_url(item.get("url"))
+    host = u.split("/")[0]
+    if item.get("type") == "research":
+        return False
+    return host in POST_HOSTS or host.startswith("lists.") or u.startswith(POST_PATHS)
+
 
 def merge(files):
     raw = []
@@ -117,8 +133,10 @@ def merge(files):
             print(f"SKIP {f}: {exc}")
             continue
         for it in data:
-            if norm_url(it.get("url")).split("/")[0] in HELD_HOSTS:
+            if norm_url(it.get("url")).split("/")[0] in HELD_HOSTS or is_list_or_forum_post(it):
                 continue
+            if norm_url(it.get("url")).startswith("infosecurity.ch") and it.get("type") == "article_by":
+                it["type"] = "blog_post"
             it["_slice"] = Path(f).stem
             raw.append(it)
     by_key = {}

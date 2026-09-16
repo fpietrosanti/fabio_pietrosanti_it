@@ -5,6 +5,15 @@ menzione, intervista, citazione, articolo scritto, talk, apparizione TV/radio/vi
 paper o tesi che lo cita, in qualsiasi lingua e media. **La completezza è il criterio principale,
 non la velocità.** Ogni anno dal 1995 deve avere voci.
 
+## Cosa conta e cosa no
+
+- **Conta:** articoli pubblicati (scritti da lui, su di lui, che lo citano o lo menzionano),
+  interviste, talk e panel, TV/radio/video/podcast, audizioni, paper/tesi/report/libri che lo citano
+  o lo ringraziano, advisory di sicurezza, i post del suo blog infosecurity.ch (categoria a parte).
+- **Non conta:** singoli post su forum e mailing list (Fabio: «altrimenti ho migliaia di post negli
+  archivi delle mailing list»). Fanno eccezione gli advisory di sicurezza. Un articolo che *parla*
+  di un suo post (es. Tor Weekly News) invece conta. Il filtro è in `tools/merge_media.py`.
+
 ## Come si lavora
 
 - Risultati grezzi per fetta in `data/research/raw/slice*.json` (formato sotto). Non si cancellano:
@@ -32,7 +41,7 @@ non la velocità.** Ogni anno dal 1995 deve avere voci.
 | slice4 2016–2020 | 44 | 31 | budget esaurito presto |
 | slice5 2021–2026 | 46 (+9 trattenute) | ~35 | budget esaurito; 2023–2025 scarsi |
 | slice6 media/archivi | 153 | 128 | Radio Radicale, IJF, e-privacy, SlideShare, podcast |
-| slice7 accademico | — | — | in corso a fine sessione |
+| slice7 accademico | 17 | 14 | Google Scholar/Books bloccati da CAPTCHA: da ripassare |
 
 Paper svedese ricordato da Fabio: **trovato** — Winter & Lindskog (Karlstad University),
 "How China Is Blocking Tor", arXiv aprile 2012 / USENIX FOCI '12 (lo cita e lo ringrazia).
@@ -71,7 +80,6 @@ Paper svedese ricordato da Fabio: **trovato** — Winter & Lindskog (Karlstad Un
 - **infosecurity.ch**: import completo dei post appena il restauro (repo `fpietrosanti/infosecurity-ch`,
   locale `Claude/infosecurity-ch`) avrà la copia Wayback.
 
-## Da decidere con Fabio
+## Deciso
 
-- 9 post sul forum Rapamycin News (2024–2025, account @Hackingbiology.com, temi di salute/longevità):
-  trattenuti fuori dal repo pubblico. Pubblicarli o no?
+- Post su forum (Rapamycin News) e mailing list: esclusi, non sono pubblicazioni.

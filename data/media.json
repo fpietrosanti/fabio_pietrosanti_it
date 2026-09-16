@@ -1,107 +1,5 @@
 [
  {
-  "date": "2000-07-06",
-  "year": 2000,
-  "type": "other",
-  "outlet": "Bugtraq mailing list (seclists.org)",
-  "title": "Secure IRC",
-  "url": "https://seclists.org/bugtraq/2000/Jul/69",
-  "language": "en",
-  "role": "author",
-  "note": "Bugtraq mailing-list post by Fabio Pietrosanti (naif); URL from seclists.org author index",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2000-10-03",
-  "year": 2000,
-  "type": "other",
-  "outlet": "Bugtraq mailing list (seclists.org)",
-  "title": "Cisco PIX Firewall allow external users to discover internal IPs",
-  "url": "https://seclists.org/bugtraq/2000/Oct/46",
-  "language": "en",
-  "role": "author",
-  "note": "Bugtraq mailing-list post by Fabio Pietrosanti (naif); URL from seclists.org author index",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2000-11-09",
-  "year": 2000,
-  "type": "other",
-  "outlet": "Bugtraq mailing list (seclists.org)",
-  "title": "BIND 8.2.2-P5 Possible DOS",
-  "url": "https://seclists.org/bugtraq/2000/Nov/115",
-  "language": "en",
-  "role": "author",
-  "note": "Bugtraq mailing-list post by Fabio Pietrosanti (naif); URL from seclists.org author index",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2000-11-29",
-  "year": 2000,
-  "type": "other",
-  "outlet": "pen-test mailing list (seclists.org)",
-  "title": "[PEN-TEST] Attacking Cisco using SNMP",
-  "url": "https://seclists.org/pen-test/2000/Nov/409",
-  "language": "en",
-  "role": "author",
-  "note": "pen-test mailing-list post by Fabio Pietrosanti (naif); URL from seclists.org author index",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2001-03-11",
-  "year": 2001,
-  "type": "other",
-  "outlet": "Bugtraq mailing list (seclists.org)",
-  "title": "Cisco PIX Security Notes",
-  "url": "https://seclists.org/bugtraq/2001/Mar/148",
-  "language": "en",
-  "role": "author",
-  "note": "Bugtraq mailing-list post by Fabio Pietrosanti (naif); URL from seclists.org author index",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice6_media_archives"
-  ],
-  "on_old_site": true
- },
- {
-  "date": "2001-09-25",
-  "year": 2001,
-  "type": "other",
-  "outlet": "vuln-dev mailing list (seclists.org)",
-  "title": "Cisco PIX Firewall MailGuard Vulnerability",
-  "url": "https://seclists.org/vuln-dev/2001/Sep/305",
-  "language": "en",
-  "role": "author",
-  "note": "vuln-dev mailing-list post by Fabio Pietrosanti (naif); URL from seclists.org author index",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice6_media_archives"
-  ],
-  "on_old_site": true
- },
- {
   "date": "2001-10-13",
   "year": 2001,
   "type": "talk",
@@ -289,21 +187,21 @@
   "on_old_site": true
  },
  {
-  "date": "2006-10-27",
-  "year": 2006,
-  "type": "other",
-  "outlet": "Full Disclosure mailing list (seclists.org)",
-  "title": "parallels Desktop file permission notice",
-  "url": "https://seclists.org/fulldisclosure/2006/Oct/581",
-  "language": "en",
-  "role": "author",
-  "note": "Full Disclosure mailing-list post by Fabio Pietrosanti (naif); URL from seclists.org author index",
+  "date": "2007",
+  "year": 2007,
+  "type": "book",
+  "outlet": "Apogeo (Milano), collana Apogeo Saggi",
+  "title": "Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking",
+  "url": "https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/",
+  "language": "it",
+  "role": "acknowledged",
+  "note": "Raoul Chiesa, Silvio Ciappi. Italian original of 'Profiling Hackers' (2009). Acknowledgement of Pietrosanti is verified only in the English edition; assumed but NOT checked in this Italian edition.",
   "verified": false,
   "known": false,
   "_slices": [
-   "slice6_media_archives"
+   "slice7_academic"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2007-02-06",
@@ -326,150 +224,13 @@
  {
   "date": "2007-02-10",
   "year": 2007,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Uno sguardo a…",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20070210/uno-sguardo-a/",
   "language": "it",
   "role": "author",
   "note": "Post on his personal blog (site offline; Wayback copy)",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2007-07-01",
-  "year": 2007,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Re: iPhone Security Settings",
-  "url": "https://seclists.org/fulldisclosure/2007/Jul/14",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2007-07-24",
-  "year": 2007,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "On the vulnerabilities of web services",
-  "url": "https://seclists.org/fulldisclosure/2007/Jul/504",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2007-08-29",
-  "year": 2007,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Re: informative...",
-  "url": "https://seclists.org/fulldisclosure/2007/Aug/482",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2007-10-09",
-  "year": 2007,
-  "type": "project",
-  "outlet": "OSXCrypt / Full Disclosure",
-  "title": "Who still trust filevault? Finally TrueCrypt for Mac OS X!",
-  "url": "https://seclists.org/fulldisclosure/2007/Oct/188",
-  "language": "en",
-  "role": "author",
-  "note": "Starts fundraising (osxcrypt.org) to port TrueCrypt to Mac OS X",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2007-10-10",
-  "year": 2007,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Getting TrueCrypt ported to Mac Os X!",
-  "url": "https://seclists.org/fulldisclosure/2007/Oct/247",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2007-10-10",
-  "year": 2007,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "[Fwd: Google Groups: No such group]",
-  "url": "https://seclists.org/fulldisclosure/2007/Oct/248",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2007-10-20",
-  "year": 2007,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Come on, let's do funding for Mac OS TrueCrypt porting !",
-  "url": "https://seclists.org/fulldisclosure/2007/Oct/607",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2007-11-17",
-  "year": 2007,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Re: How to become a Computer Security Professional ?",
-  "url": "https://seclists.org/fulldisclosure/2007/Nov/404",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
   "verified": true,
   "known": false,
   "_slices": [
@@ -507,196 +268,24 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2008-06-03",
-  "year": 2008,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Anyone had ever got in contact with Symbian and Nokia security?",
-  "url": "https://seclists.org/fulldisclosure/2008/Jun/19",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
    "slice2_2007_2011"
   ],
   "on_old_site": false
  },
  {
-  "date": "2008-06-06",
-  "year": 2008,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Microsoft RT Audio Codec, anyone has reversed it?",
-  "url": "https://seclists.org/fulldisclosure/2008/Jun/79",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2008-06-18",
-  "year": 2008,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Skype chat encryption with OTR",
-  "url": "https://seclists.org/fulldisclosure/2008/Jun/223",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2008-06-20",
-  "year": 2008,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "How to encrypt voice skype calls?",
-  "url": "https://seclists.org/fulldisclosure/2008/Jun/284",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2008-08-11",
-  "year": 2008,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "anyone developing a secure telephony application for GSM CSD?",
-  "url": "https://seclists.org/fulldisclosure/2008/Aug/216",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2008-09",
-  "year": 2008,
-  "type": "article_by",
-  "outlet": "VOIPSEC mailing list (VOIPSA)",
-  "title": "[VOIPSEC] VoIP Sniffer",
-  "url": "http://voipsa.org/pipermail/voipsec_voipsa.org/2008-September/002765.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2008-10-14",
-  "year": 2008,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Circuit Switched Data in the US?",
-  "url": "https://seclists.org/fulldisclosure/2008/Oct/249",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2008-12",
-  "year": 2008,
-  "type": "article_by",
-  "outlet": "VOIPSEC mailing list (VOIPSA)",
-  "title": "[VOIPSEC] Mass scan in search of Open SIP devices for Telephone fraud?",
-  "url": "http://voipsa.org/pipermail/voipsec_voipsa.org/2008-December/002835.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2009-01-02",
+  "date": "2009",
   "year": 2009,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Re: The war in Palestine",
-  "url": "https://seclists.org/fulldisclosure/2009/Jan/24",
+  "type": "book",
+  "outlet": "Auerbach Publications / CRC Press (Boca Raton)",
+  "title": "Profiling Hackers: The Science of Criminal Profiling as Applied to the World of Hacking",
+  "url": "https://archive.org/details/profilinghackers0000chie",
   "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
+  "role": "acknowledged",
+  "note": "Raoul Chiesa, Stefania Ducci, Silvio Ciappi (Hackers Profiling Project, UNICRI). Acknowledgements list 'Fabio “Naif” Pietrosanti' among contributors. Confirmed via Internet Archive full-text search snippet of the scanned book.",
   "verified": true,
   "known": false,
   "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2009-01-04",
-  "year": 2009,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Re: The (net)war in Palestine",
-  "url": "https://seclists.org/fulldisclosure/2009/Jan/62",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2009-03-03",
-  "year": 2009,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Re: Judge orders defendant to decrypt PGP-protected laptop",
-  "url": "https://seclists.org/fulldisclosure/2009/Mar/66",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
+   "slice7_academic"
   ],
   "on_old_site": false
  },
@@ -791,7 +380,7 @@
  {
   "date": "2009-07-06",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Hackers hired from UK Office of Cyber Security",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090706/hackers-hired-from-uk-office-of-cyber-security/",
@@ -808,7 +397,7 @@
  {
   "date": "2009-07-06",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "How the various audio compression codec sounds?",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090706/how-the-various-audio-compression-codec-sounds/",
@@ -825,7 +414,7 @@
  {
   "date": "2009-07-06",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Product Management",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090706/product-management-the-unknown-strategic-role/",
@@ -842,7 +431,7 @@
  {
   "date": "2009-07-06",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Voice Security and Privacy slides",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090706/untitled-2/",
@@ -859,7 +448,7 @@
  {
   "date": "2009-07-06",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Voice encryption in government sectors",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090706/voice-encryption-in-government-sectors/",
@@ -876,7 +465,7 @@
  {
   "date": "2009-07-06",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Women as agents of future geopolitical changes",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090706/women-as-agents-of-future-geopolitical-changes/",
@@ -893,7 +482,7 @@
  {
   "date": "2009-07-07",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Mobile platform hacking: worms and botnet from phones?",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090707/mobile-platform-hacking-worms-and-botnet-from-phones/",
@@ -910,7 +499,7 @@
  {
   "date": "2009-07-07",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "The real goal of online marketing: lead generation",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090707/the-real-goal-of-online-marketing-lead-generation/",
@@ -927,7 +516,7 @@
  {
   "date": "2009-07-10",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Best advices by world leaders",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090710/best-advices-collection-by-world-leaders/",
@@ -944,7 +533,7 @@
  {
   "date": "2009-07-10",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Saas: is the end of the myth?",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090710/saas-is-the-end-of-the-myth/",
@@ -961,7 +550,7 @@
  {
   "date": "2009-07-11",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Nokia World in Stuttgard 2-3 September",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090711/nokia-world-in-stuttgard-2-3-september/",
@@ -978,7 +567,7 @@
  {
   "date": "2009-07-12",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Chinese Spying NSA/USA buying Cryptographic Equipment on Ebay",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090712/chinese-spying-nsausa-buying-cryptographic-equipment-on-ebay/",
@@ -995,7 +584,7 @@
  {
   "date": "2009-07-21",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "1st august 2009: Switzerland start realtime internet interception",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090721/1st-august-2009-switzerland-start-realtime-internet-interception/",
@@ -1012,7 +601,7 @@
  {
   "date": "2009-07-21",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "UAE government placing backdoors into Blackberry devices",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090721/uae-government-placing-backdoors-into-blackberry-devices/",
@@ -1029,7 +618,7 @@
  {
   "date": "2009-07-27",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Criminal business model: Somali pirate case study",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090727/criminal-business-model-somali-pirate-case-study/",
@@ -1046,7 +635,7 @@
  {
   "date": "2009-07-27",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Letter from a suicide hackers",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090727/letter-from-a-suicide-hackers/",
@@ -1063,7 +652,7 @@
  {
   "date": "2009-07-27",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "chinese espionage: the worst and more silent threat for western countries",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090727/chinese-espionage-the-worst-and-more-silent-threat-for-westerncountries/",
@@ -1080,7 +669,7 @@
  {
   "date": "2009-07-30",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Iphone jailbreaking crashing towers? FUD!",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090730/iphone-jailbreaking-crashing-towers-fud/",
@@ -1097,25 +686,7 @@
  {
   "date": "2009-07-30",
   "year": 2009,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Nova Spyfactory: who financed that crap?",
-  "url": "https://seclists.org/fulldisclosure/2009/Jul/528",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2009-07-30",
-  "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Russia: the best worldwide place for cybercrime business",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090730/russia-the-best-worldwide-place-for-cybercrime-business/",
@@ -1132,7 +703,7 @@
  {
   "date": "2009-07-31",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "This is big business, this is the American way",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090731/this-is-big-business-this-is-the-american-way/",
@@ -1149,7 +720,7 @@
  {
   "date": "2009-08-03",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Hackers Hacking Hackers",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090803/hacking-hackers/",
@@ -1166,7 +737,7 @@
  {
   "date": "2009-08-06",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Conventionality is not morality.",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20090806/conventionality-is-not-morality/",
@@ -1183,7 +754,7 @@
  {
   "date": "2009-11-07",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Brazilian Electrical Blackout: preview of cyberwar",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20091107/brazilian-electrical-blackout-preview-of-cyberwar/",
@@ -1200,7 +771,7 @@
  {
   "date": "2009-11-07",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Come back to blogging",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20091107/come-back-to-blogging/",
@@ -1217,7 +788,7 @@
  {
   "date": "2009-11-07",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Political conflict in Turkey between Prosecutors and Wiretappers",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20091107/political-conflict-in-turkey-between-prosecutors-and-wiretappers/",
@@ -1234,7 +805,7 @@
  {
   "date": "2009-11-09",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Disk encryption sometimes ‘works’",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20091109/disk-encryption-sometimes-works/",
@@ -1251,7 +822,7 @@
  {
   "date": "2009-11-10",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Military contractors going commercial",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20091110/military-contractors-going-commercial/",
@@ -1268,7 +839,7 @@
  {
   "date": "2009-11-12",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Recuva: Nice windows data recovery tool",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20091112/recuva-nice-windows-data-recovery-tool/",
@@ -1285,7 +856,7 @@
  {
   "date": "2009-11-25",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Gold-Lock Security Encryption Contest: be careful!",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20091125/gold-lock-security-encryption-contest-be-careful/",
@@ -1302,7 +873,7 @@
  {
   "date": "2009-12-01",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Location Based Services: the big brother thanks you ;-)",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20091201/location-based-services-the-big-brother-thanks-you/",
@@ -1319,7 +890,7 @@
  {
   "date": "2009-12-21",
   "year": 2009,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Index of economic freedom",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20091221/index-of-economic-freedom/",
@@ -1351,26 +922,9 @@
   "on_old_site": false
  },
  {
-  "date": "2010-01",
-  "year": 2010,
-  "type": "article_by",
-  "outlet": "VOIPSEC mailing list (VOIPSA)",
-  "title": "[VOIPSEC] Evaluation of voice cracking analysis",
-  "url": "http://voipsa.org/pipermail/voipsec_voipsa.org/2010-January/003092.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2010-01-26",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "O3B Networks: a new satellite broadband approach",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100126/o3b-networks-a-new-satellite-broadband-approach/",
@@ -1387,7 +941,7 @@
  {
   "date": "2010-01-29",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Licensed by Israel Ministry of Defense? How things really works!",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100129/licensed-by-israel-ministry-of-defense-how-things-really-works/",
@@ -1404,7 +958,7 @@
  {
   "date": "2010-01-30",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "About the SecurStar GmbH Phonecrypt voice encryption analysis (criteria, errors and different results)",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100130/about-the-voice-encryption-analysis-phonecrypt-can-be-intercepted-serious-security-evaluation-criteria/",
@@ -1419,62 +973,9 @@
   "on_old_site": true
  },
  {
-  "date": "2010-01-30",
-  "year": 2010,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "On voice crypto product cracking: a nice story",
-  "url": "https://seclists.org/fulldisclosure/2010/Jan/621",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2010-01-31",
-  "year": 2010,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Evidence of fake security research from SecurStar GmbH",
-  "url": "https://seclists.org/fulldisclosure/2010/Jan/634",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2010-01-31",
-  "year": 2010,
-  "type": "mentioned",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Re: Evidence of fake security research from SecurStar GmbH",
-  "url": "https://seclists.org/fulldisclosure/2010/Jan/635",
-  "language": "en",
-  "role": "subject",
-  "note": "Reply by 'Thor (Hammer of God)' doubting Pietrosanti's SecurStar allegations",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2010-02-01",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Dishonest security: The SecurStart GmbH Phonecrypt case",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100201/dishonest-security-the-securstart-gmbh-case/",
@@ -1491,7 +992,7 @@
  {
   "date": "2010-02-01",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Evidence that infosecurityguard.com/notrax is SecurStar GmbH Phonecrypt – A fake independent research on voice crypto",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100201/evidence-that-infosecurityguard-comnotrax-is-securstar-gmbh-a-fake-independent-research-on-voice-crypto/",
@@ -1508,7 +1009,7 @@
  {
   "date": "2010-02-01",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "SecurStar GmbH Phonecrypt answers on the Infosecurityguard/Notrax case: absolutely unreasonable!  :-)",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100201/answer-of-securstar-gmbh-on-the-infosecurityguardnotrax-case-absolutely-unreasonable/",
@@ -1584,7 +1085,7 @@
  {
   "date": "2010-04-20",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Encryption is not scrambling: be aware of scrambler!",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100420/encryption-is-not-scrambling-be-aware-of-scrambler/",
@@ -1601,7 +1102,7 @@
  {
   "date": "2010-04-20",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "great point of view",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100420/great-point-of-view/",
@@ -1618,7 +1119,7 @@
  {
   "date": "2010-05-18",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "FUN! Infosecurity consideration on some well known films",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100518/fun-infosecurity-consideration-on-some-well-known-films/",
@@ -1635,7 +1136,7 @@
  {
   "date": "2010-05-20",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Quantum cryptography broken",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100520/quantum-cryptography-broken/",
@@ -1670,7 +1171,7 @@
  {
   "date": "2010-05-25",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Exploit code against SecurStar DriveCrypt published",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100525/hackers-doesnt-like-securstar-products-exploit-code-against-drivecrypt-published/",
@@ -1687,7 +1188,7 @@
  {
   "date": "2010-06-01",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Who extract Oil in Iran? Business and UN sanction together",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100601/who-extract-oil-in-iran-business-and-un-sanction-together/",
@@ -1704,7 +1205,7 @@
  {
   "date": "2010-06-01",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "iPhone PIN: useless encryption",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100601/iphone-pin-useless-encryption/",
@@ -1721,7 +1222,7 @@
  {
   "date": "2010-06-02",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Mobile Security talk at WHYMCA conference",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100602/mobile-security-talk-at-whymca-conference/",
@@ -1738,7 +1239,7 @@
  {
   "date": "2010-06-07",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Missiles against cyber attacks?",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100607/missiles-against-cyber-attacks/",
@@ -1755,7 +1256,7 @@
  {
   "date": "2010-06-07",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "The (old) Crypto AG case and some thinking about it",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100607/the-old-crypto-ag-case-and-some-thinking-about-it/",
@@ -1772,7 +1273,7 @@
  {
   "date": "2010-06-13",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "IOScat – a Port of Netcat to Cisco IOS",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100613/ioscat-a-port-of-netcat-to-cisco-ios/",
@@ -1789,7 +1290,7 @@
  {
   "date": "2010-06-16",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "China Encryption Regulations",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100616/china-encryption-regulations/",
@@ -1806,7 +1307,7 @@
  {
   "date": "2010-06-27",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Patent rights and opensource: can they co-exist?",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100627/patent-rights-and-opensource-can-they-co-exist/",
@@ -1823,7 +1324,7 @@
  {
   "date": "2010-06-30",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Botnet for RSA cracking?",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100630/botnet-for-rsa-cracking/",
@@ -1840,7 +1341,7 @@
  {
   "date": "2010-07-01",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Celebrating “Hackers” after 25 years",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100701/celebrating-hackers-after-25-years/",
@@ -1857,7 +1358,7 @@
  {
   "date": "2010-07-07",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Blackberry Security and Encryption: Devil or Angel?",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100707/blackberry-security-and-encryption-devil-or-angel/",
@@ -1874,7 +1375,7 @@
  {
   "date": "2010-07-08",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "AES algorithm selected for use in space",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100708/aes-algorithm-selected-for-use-in-space/",
@@ -1891,7 +1392,7 @@
  {
   "date": "2010-07-17",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Web2.0 privacy leak in Mobile apps",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100717/web2-0-privacy-leak-in-mobile-apps/",
@@ -1908,7 +1409,7 @@
  {
   "date": "2010-07-19",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Snake-oil security claims on crypto security product",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100719/snake-oil-security-claims-on-crypto-security-product/",
@@ -1925,7 +1426,7 @@
  {
   "date": "2010-07-23",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "GSM cracking in penetration test methodologies (OSSTMM) ?",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100723/gsm-cracking-in-penetration-test-methodologies-osstmm/",
@@ -1942,7 +1443,7 @@
  {
   "date": "2010-08-15",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "27C3 – CCC Congress CFP: We come in peace",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100815/27c3-ccc-congress-cfp-we-come-in-peace/",
@@ -1977,7 +1478,7 @@
  {
   "date": "2010-08-26",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Voice communication security workshop",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100826/voice-communication-security-workshop/",
@@ -1990,23 +1491,6 @@
    "slice2_2007_2011"
   ],
   "on_old_site": true
- },
- {
-  "date": "2010-09",
-  "year": 2010,
-  "type": "article_by",
-  "outlet": "OsmocomBB baseband-devel mailing list",
-  "title": "osmocom with USRP1 as a sw-only MS?",
-  "url": "https://lists.osmocom.org/pipermail/baseband-devel/2010-September/000755.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
  },
  {
   "date": "2010-09-01",
@@ -2029,7 +1513,7 @@
  {
   "date": "2010-09-10",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Remotely intercepting snom VoIP phones",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100910/remotely-intercepting-snom-voip-phones/",
@@ -2046,7 +1530,7 @@
  {
   "date": "2010-09-12",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Product management and organization",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100912/product-management-and-organization/",
@@ -2063,7 +1547,7 @@
  {
   "date": "2010-09-25",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "ESSOR, European Secure Software Defined Radio (SDR)",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100925/essor-european-secure-software-defined-radio-sdr/",
@@ -2080,7 +1564,7 @@
  {
   "date": "2010-09-26",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Not every elliptic curve is the same trough on ecc security",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20100926/not-every-elliptic-curve-is-the-same-trough-on-ecc-security/",
@@ -2114,7 +1598,7 @@
  {
   "date": "2010-10-17",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "A couple of nice VPN provider",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20101017/a-couple-of-nice-vpn-provider/",
@@ -2165,7 +1649,7 @@
  {
   "date": "2010-10-19",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "PrivateGSM: Blackberry/iPhone/Nokia mobile voice encryption with ZRTP or SRTP/SDES",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20101019/privategsm-blackberryiphonenokia-mobile-voice-encryption-with-zrtp-or-srtpsdes/",
@@ -2182,7 +1666,7 @@
  {
   "date": "2010-10-21",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Eight Epic Failure of Regulating Cryptography",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20101021/eight-epic-failure-of-regulating-cryptography/",
@@ -2199,7 +1683,7 @@
  {
   "date": "2010-10-25",
   "year": 2010,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Encrypted mobile to landline phone calls with Asterisk 1.8",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20101025/encrypted-mobile-to-landline-phone-calls-with-asterisk-1-8/",
@@ -2212,75 +1696,6 @@
    "slice2_2007_2011"
   ],
   "on_old_site": true
- },
- {
-  "date": "2010-11",
-  "year": 2010,
-  "type": "article_by",
-  "outlet": "OsmocomBB baseband-devel mailing list",
-  "title": "Announcing Osmocom SIMtrace",
-  "url": "https://lists.osmocom.org/pipermail/baseband-devel/2010-November/000955.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2010-12",
-  "year": 2010,
-  "type": "article_by",
-  "outlet": "OsmocomBB baseband-devel mailing list",
-  "title": "On the gsm positioning faking",
-  "url": "https://lists.osmocom.org/pipermail/baseband-devel/2010-December/001072.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2010-12",
-  "year": 2010,
-  "type": "article_by",
-  "outlet": "VOIPSEC mailing list (VOIPSA)",
-  "title": "[VOIPSEC] What % of voip apps or devices actually use SRTP or ZRTP to encrypt audio calls",
-  "url": "http://voipsa.org/pipermail/voipsec_voipsa.org/2010-December/003225.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2010-12-15",
-  "year": 2010,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "An idea of leaking alternative to wikileaks",
-  "url": "https://seclists.org/fulldisclosure/2010/Dec/340",
-  "language": "en",
-  "role": "author",
-  "note": "First public GlobaLeaks concept ('openleak'); Wikipedia cites it as GlobaLeaks' origin",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
  },
  {
   "date": "2011",
@@ -2357,74 +1772,6 @@
   "on_old_site": false
  },
  {
-  "date": "2011-01",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "OsmocomBB baseband-devel mailing list",
-  "title": "GSM Codes with Osmocombb",
-  "url": "https://lists.osmocom.org/pipermail/baseband-devel/2011-January/001141.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-01",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "OpenBSC mailing list",
-  "title": "Relicensing OpenBSC under AGPLv3",
-  "url": "https://lists.osmocom.org/pipermail/openbsc/2011-January/002732.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-01",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "OsmocomBB baseband-devel mailing list",
-  "title": "USB fetmocell: What's about the sofware?",
-  "url": "https://lists.osmocom.org/pipermail/baseband-devel/2011-January/001224.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-01",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "OsmocomBB baseband-devel mailing list",
-  "title": "running voice data/encryption on compal?",
-  "url": "https://lists.osmocom.org/pipermail/baseband-devel/2011-January/001174.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2011-01-12",
   "year": 2011,
   "type": "research",
@@ -2437,15 +1784,14 @@
   "verified": true,
   "known": true,
   "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
+   "slice2_2007_2011"
   ],
   "on_old_site": true
  },
  {
   "date": "2011-01-12",
   "year": 2011,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "ZORG, new C++ and Java ZRTP implementation public release",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20110112/zorg-new-c-and-java-zrtp-implementation-public-release/",
@@ -2462,7 +1808,7 @@
  {
   "date": "2011-01-15",
   "year": 2011,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Government 2.0, Open Data and WikiLeaks",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20110115/government-2-0-open-data-and-wikileaks/",
@@ -2479,7 +1825,7 @@
  {
   "date": "2011-01-23",
   "year": 2011,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "TETRA hacking is coming: OsmocomTETRA",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20110123/tetra-hacking-is-coming-osmocomtetra/",
@@ -2496,7 +1842,7 @@
  {
   "date": "2011-01-24",
   "year": 2011,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "My TOR exit node experience trying to filter out noisy traffic",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20110124/my-tor-exit-node-experience-trying-to-filter-out-noisy-traffic/",
@@ -2547,7 +1893,7 @@
  {
   "date": "2011-02-23",
   "year": 2011,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "Progress for GSM cracking in Freiburg university",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20110223/progress-for-gsm-cracking-in-freiburg-university/",
@@ -2562,167 +1908,9 @@
   "on_old_site": false
  },
  {
-  "date": "2011-03",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-relays mailing list (Tor Project)",
-  "title": "[tor-relays] Filtering at Exit Node [was: Network Scan through Tor Exit Node (Port 80)]",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-relays/2011-March/000616.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-03",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-relays mailing list (Tor Project)",
-  "title": "[tor-relays] Network Scan through Tor Exit Node (Port 80)",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-relays/2011-March/000612.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-03",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-relays mailing list (Tor Project)",
-  "title": "[tor-relays] first using bridge then become bridge",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-relays/2011-March/000646.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-03",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Any iranian linux server for testing anti-anti-censorship tool?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-March/019877.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-03",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Making TOR exit-node IP address configurable",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-March/019765.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-04",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "OsmocomBB baseband-devel mailing list",
-  "title": "Any plan to fork OpenBTS and/or merge with Osmocom code?",
-  "url": "https://lists.osmocom.org/pipermail/baseband-devel/2011-April/001793.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "mirrors": [
-   "https://lists.osmocom.org/pipermail/openbsc/2011-April/003804.html"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-04",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "OsmocomBB baseband-devel mailing list",
-  "title": "Transmitting voice with Osmocom",
-  "url": "https://lists.osmocom.org/pipermail/baseband-devel/2011-April/001875.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-04",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "VOIPSEC mailing list (VOIPSA)",
-  "title": "[VOIPSEC] RFC 6189: ZRTP is finally a standard!",
-  "url": "http://voipsa.org/pipermail/voipsec_voipsa.org/2011-April/003272.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-04",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] built-in tor2web functionalities into TOR?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-April/020140.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": true
- },
- {
   "date": "2011-04-11",
   "year": 2011,
-  "type": "article_by",
+  "type": "blog_post",
   "outlet": "infosecurity.ch (blog)",
   "title": "RFC 6189: ZRTP is finally a standard!",
   "url": "https://web.archive.org/web/2012/http://infosecurity.ch/20110411/rfc-6189-zrtp-is-finally-a-standard/",
@@ -2772,182 +1960,6 @@
   "on_old_site": false
  },
  {
-  "date": "2011-05",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "OsmocomBB baseband-devel mailing list",
-  "title": "Invitation",
-  "url": "https://lists.osmocom.org/pipermail/baseband-devel/2011-May/002173.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-05",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] anonymous surveys via Tor? (about tor2web)",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-May/020299.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": true
- },
- {
-  "date": "2011-05",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] passive analysis of encrypted traffic and traffic obfuscation",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-May/020373.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-05",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] tor-resolve for hidden service: is the right behaviour?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-May/020323.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-05-01",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Re: psnhack - playstation network hack",
-  "url": "https://seclists.org/fulldisclosure/2011/May/36",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-05-05",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Leakdirectory: call for contribution",
-  "url": "https://seclists.org/fulldisclosure/2011/May/124",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-06-19",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Lulzsec as irc warrior 2.0?",
-  "url": "https://seclists.org/fulldisclosure/2011/Jun/388",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-07",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "OsmocomBB baseband-devel mailing list",
-  "title": "Telecommunication and Wireless Hacking at CCC CAMP 2011",
-  "url": "https://lists.osmocom.org/pipermail/baseband-devel/2011-July/002335.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "mirrors": [
-   "https://lists.osmocom.org/pipermail/openbsc/2011-July/004155.html"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-08",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Hijacking Advertising to give a Tor Exit node economic sustainability?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-August/020960.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-08",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Torbrowser in Java",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-August/021124.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2011-08-10",
   "year": 2011,
   "type": "project",
@@ -2982,210 +1994,6 @@
   "on_old_site": false
  },
  {
-  "date": "2011-08-21",
-  "year": 2011,
-  "type": "project",
-  "outlet": "Tor2web / Full Disclosure",
-  "title": "Tor2web 2.0 is live!",
-  "url": "https://seclists.org/fulldisclosure/2011/Aug/184",
-  "language": "en",
-  "role": "co-author",
-  "note": "Tor2web 2.0 announcement (posted by Arturo Filastò); his involvement per bios",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-09",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] How to verify the authenticity of the Torbutton xpi file",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-September/021468.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-09",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Idiotical abuses against Tor-servers",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-September/021454.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-09",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Tor as a sort of \"library/dependancy\" for third party software",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-September/021527.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-09-06",
-  "year": 2011,
-  "type": "project",
-  "outlet": "GlobaLeaks / Full Disclosure",
-  "title": "Globaleaks demo of the Prototype online! $ /etc/init.d/globaleaks start",
-  "url": "https://seclists.org/fulldisclosure/2011/Sep/38",
-  "language": "en",
-  "role": "co-author",
-  "note": "First GlobaLeaks prototype announcement (posted by Arturo Filastò for the team)",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-10",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Freedom Hosting admin revealed by Anonymous - Tor finally cracked?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-October/021926.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-10",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Ideas to securely implement PGP encryption/decryption",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-October/021642.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-10",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Tor Browser Bundle: PGP encryption built-in?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-October/021627.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-10",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Tor Browser Bundle: Usability Improvement Proposal (windows)",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-October/021639.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-10",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Tor Reject Exit Policy to Syria, Iran, Belarus, Saudi Arabia, Moldavia, Qatar, etc?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-October/021558.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-10",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] [announce] MAT 0.1 is out",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-October/021952.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-10-08",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Re: Verizon Wireless DNS Tunneling",
-  "url": "https://seclists.org/fulldisclosure/2011/Oct/400",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2011-10-30",
   "year": 2011,
   "type": "video",
@@ -3199,280 +2007,6 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-11",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-dev mailing list (Tor Project)",
-  "title": "[tor-dev] Periodic alert to outdated Tor operators?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-dev/2011-November/003093.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-11",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-dev mailing list (Tor Project)",
-  "title": "[tor-dev] Tor on TV (hemm, on WDTV!)",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-dev/2011-November/003081.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-11",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Implement JSONP interface for check.torproject.org",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-November/022031.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-11",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Tor and big files",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-November/022099.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-11",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Vidalia for Iphone 3g - Covertbrowser",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-November/022193.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-11",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] What happen if one create 2000 exit nodes for 6 hours?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-November/022213.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-dev mailing list (Tor Project)",
-  "title": "[tor-dev] Python SSL/TLS Security enhancement",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-dev/2011-December/003129.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-dev mailing list (Tor Project)",
-  "title": "[tor-dev] Reduce TBB/OSX from 32MB to 23MB",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-dev/2011-December/003103.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-dev mailing list (Tor Project)",
-  "title": "[tor-dev] [tor-announce] Tor 0.2.2.35 is released (security patches)",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-dev/2011-December/003122.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Automatic vulnerability scanning of Tor Network?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-December/022414.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011",
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Increase tor HS reachability",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-December/022307.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] On verifying security of Tor Routers idea",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-December/022450.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] TBB, iptables, and seperation of concerns",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-December/022334.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Tor HS load balancing",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-December/022306.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list (Tor Project)",
-  "title": "[tor-talk] Tor on TV (hemm, on WDTV!) - TorTV",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2011-December/022368.html",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12-01",
-  "year": 2011,
-  "type": "article_by",
-  "outlet": "Full Disclosure mailing list",
-  "title": "Re: Large password list",
-  "url": "https://seclists.org/fulldisclosure/2011/Dec/15",
-  "language": "en",
-  "role": "author",
-  "note": "Mailing-list post by Fabio Pietrosanti (naif); one entry per thread",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
   ],
   "on_old_site": false
  },
@@ -3563,23 +2097,6 @@
   "on_old_site": false
  },
  {
-  "date": "2012-02",
-  "year": 2012,
-  "type": "article_by",
-  "outlet": "liberationtech mailing list (Stanford)",
-  "title": "Concept for takedown-resistant publishing",
-  "url": "https://mailman.stanford.edu/pipermail/liberationtech/2012-February/002894.html",
-  "language": "en",
-  "role": "author",
-  "note": "Thread contribution on takedown-resistant publishing (surfaced via search; page returns 403)",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2012-04-02",
   "year": 2012,
   "type": "paper",
@@ -3593,7 +2110,8 @@
   "known": false,
   "_slices": [
    "slice2_2007_2011",
-   "slice3_2012_2015"
+   "slice3_2012_2015",
+   "slice7_academic"
   ],
   "on_old_site": false
  },
@@ -3736,23 +2254,6 @@
   "on_old_site": false
  },
  {
-  "date": "2012-07-01",
-  "year": 2012,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Anonymous Publishing Is Dead.",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2012-July/024658.html",
-  "language": "en",
-  "role": "author",
-  "note": "Post on future scenarios for anonymous publishing and leaking",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2012-08-06",
   "year": 2012,
   "type": "paper",
@@ -3765,24 +2266,42 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "slice2_2007_2011"
+   "slice2_2007_2011",
+   "slice7_academic"
   ],
   "on_old_site": false
  },
  {
-  "date": "2012-09-19",
+  "date": "2012-09",
   "year": 2012,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Italy - third highest number users",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2012-September/025602.html",
+  "type": "paper",
+  "outlet": "arXiv:1209.6398",
+  "title": "The Hidden Internet of Iran: Private Address Allocations on a National Network",
+  "url": "https://arxiv.org/pdf/1209.6398",
   "language": "en",
-  "role": "author",
-  "note": "Comment on Italy's surge in Tor users",
+  "role": "acknowledged",
+  "note": "Collin Anderson. Acknowledgements: 'it is possible to recognize Fabio Pietrosanti and Arturo Filastò for their valuable insight on applied network research methods'.",
   "verified": true,
   "known": false,
   "_slices": [
-   "slice3_2012_2015"
+   "slice7_academic"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2012-09-13",
+  "year": 2012,
+  "type": "book",
+  "outlet": "Dutton (Penguin), New York",
+  "title": "This Machine Kills Secrets: How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information",
+  "url": "https://archive.org/details/thismachinekills0000gree",
+  "language": "en",
+  "role": "subject",
+  "note": "Andy Greenberg (Forbes). Portrays 'Fabio Pietrosanti and Arturo Filastò, the cofounders of GlobaLeaks' and their 'worldwide, distributed leak amplification network'; describes Pietrosanti as a thirty-year-old security engineer and quotes him on expanding the leaking movement. Confirmed via Internet Archive full-text snippets.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
   ],
   "on_old_site": false
  },
@@ -3805,57 +2324,6 @@
   "on_old_site": false
  },
  {
-  "date": "2012-11-24",
-  "year": 2012,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Optimizing Tor Client Settings for Tor2web?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2012-November/026580.html",
-  "language": "en",
-  "role": "author",
-  "note": "Asks how to tune torrc for Tor2web nodes",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2012-12",
-  "year": 2012,
-  "type": "article_by",
-  "outlet": "liberationtech mailing list (Stanford)",
-  "title": "Let's talk about ZRTP",
-  "url": "https://mailman.stanford.edu/pipermail/liberationtech/2012-December/005865.html",
-  "language": "en",
-  "role": "author",
-  "note": "Discussion of ZRTP-enabled VoIP (surfaced via search; page returns 403)",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2012-12",
-  "year": 2012,
-  "type": "article_by",
-  "outlet": "liberationtech mailing list (Stanford)",
-  "title": "Mailvelope: OpenPGP Encryption for Webmail",
-  "url": "https://mailman.stanford.edu/pipermail/liberationtech/2012-December/005959.html",
-  "language": "en",
-  "role": "author",
-  "note": "Post on the Mailvelope OpenPGP webmail plugin (surfaced via search; page returns 403)",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2013",
   "year": 2013,
   "type": "other",
@@ -3869,23 +2337,6 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-01-23",
-  "year": 2013,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Fun Tor-Art from Italian HackMeeting",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2013-January/027105.html",
-  "language": "en",
-  "role": "author",
-  "note": "Forwards Tor protocol fan art from the Italian Hackmeeting list",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
   ],
   "on_old_site": false
  },
@@ -3920,23 +2371,6 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-04-12",
-  "year": 2013,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Tor communities at OHM2013 Hacker Camp",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2013-April/027817.html",
-  "language": "en",
-  "role": "author",
-  "note": "Proposes a Tor community gathering at OHM2013",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
   ],
   "on_old_site": false
  },
@@ -3993,23 +2427,6 @@
   "on_old_site": false
  },
  {
-  "date": "2013-05-31",
-  "year": 2013,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Anonymity of Leaking Servers (Was Re: Trawling for Tor Hidden Services)",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2013-May/028349.html",
-  "language": "en",
-  "role": "author",
-  "note": "Explains GlobaLeaks' threat model for hidden-service leak sites",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2013-06-07",
   "year": 2013,
   "type": "video",
@@ -4057,7 +2474,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "slice3_2012_2015"
+   "slice3_2012_2015",
+   "slice7_academic"
   ],
   "mirrors": [
    "https://arxiv.org/abs/1306.5156"
@@ -4092,23 +2510,6 @@
   "role": "subject",
   "note": "Datagate video report by Antonella Cignarale listed on the Hermes Center press page; his presence not confirmed",
   "verified": false,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-07-05",
-  "year": 2013,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Speculation: Next 10 years of Tor?",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2013-July/028811.html",
-  "language": "en",
-  "role": "author",
-  "note": "Reply with his outlook on Tor's future",
-  "verified": true,
   "known": false,
   "_slices": [
    "slice3_2012_2015"
@@ -4151,23 +2552,6 @@
   "on_old_site": false
  },
  {
-  "date": "2013-07-28",
-  "year": 2013,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Tor2web meeting at OHM2013",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2013-July/029116.html",
-  "language": "en",
-  "role": "author",
-  "note": "Announces the Tor2web meeting at Noisy Square, OHM2013",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2013-07-31",
   "year": 2013,
   "type": "mentioned",
@@ -4203,23 +2587,6 @@
   "on_old_site": false
  },
  {
-  "date": "2013-09-10",
-  "year": 2013,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Improvement of SSL Ciphers of Tor2web",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2013-September/030003.html",
-  "language": "en",
-  "role": "author",
-  "note": "Announces ECDHE/GCM cipher hardening on tor2web.org",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2013-09-18",
   "year": 2013,
   "type": "mentioned",
@@ -4229,40 +2596,6 @@
   "language": "en",
   "role": "subject",
   "note": "Reports his announcement of stronger cipher suites for tor2web.org",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-10",
-  "year": 2013,
-  "type": "article_by",
-  "outlet": "liberationtech mailing list (Stanford)",
-  "title": "GlobaLeaks - SecureDrop comparison & Security improvements",
-  "url": "https://mailman.stanford.edu/pipermail/liberationtech/2013-October/012029.html",
-  "language": "en",
-  "role": "author",
-  "note": "Preliminary GlobaLeaks vs SecureDrop comparison and security improvement proposals (surfaced via search; page returns 403)",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-10-05",
-  "year": 2013,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Tor2web's Tor experimental performance tuning",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2013-October/030405.html",
-  "language": "en",
-  "role": "author",
-  "note": "Asks for review of Tor performance tuning for Tor2web nodes",
   "verified": true,
   "known": false,
   "_slices": [
@@ -4355,6 +2688,23 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2014-03-27",
+  "year": 2014,
+  "type": "report",
+  "outlet": "The Tor Project, Tor proposals (torspec) no. 233",
+  "title": "Making Tor2Web mode faster (Tor Proposal 233)",
+  "url": "https://spec.torproject.org/proposals/233-quicken-tor2web-mode.html",
+  "language": "en",
+  "role": "co-author",
+  "note": "Authors: Virgil Griffith, Fabio Pietrosanti, Giovanni Pellerano. Created 2014-03-27; status later 'Rejected'. Technical design proposal for Tor's Tor2web mode.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
   ],
   "on_old_site": false
  },
@@ -4567,23 +2917,6 @@
   "on_old_site": false
  },
  {
-  "date": "2014-09-12",
-  "year": 2014,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Someone is crawling TorHS Directories: Honeypot",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2014-September/034751.html",
-  "language": "en",
-  "role": "author",
-  "note": "Reports his experiment with 30 secret hidden services showing someone enumerates HSDir descriptors",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2014-09-17",
   "year": 2014,
   "type": "mentioned",
@@ -4604,23 +2937,6 @@
   "on_old_site": false
  },
  {
-  "date": "2014-10-25",
-  "year": 2014,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "OnionTravel: supporting Tor Network while traveling!",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2014-October/035346.html",
-  "language": "en",
-  "role": "author",
-  "note": "Proposes an affiliate travel-booking site to fund Tor relays",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2014-12",
   "year": 2014,
   "type": "project",
@@ -4630,23 +2946,6 @@
   "language": "en",
   "role": "subject",
   "note": "GlobaLeaks 2 project page at NoisySquare listing Naif as the person working on it",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2014-12-18",
-  "year": 2014,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Tor can be used to save VAT money in EU",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2014-December/036034.html",
-  "language": "en",
-  "role": "author",
-  "note": "Notes how new EU VAT rules on e-services interact with Tor",
   "verified": true,
   "known": false,
   "_slices": [
@@ -4675,23 +2974,6 @@
   "on_old_site": false
  },
  {
-  "date": "2014-12-25",
-  "year": 2014,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Wikileaks II running over Tor",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2014-December/036127.html",
-  "language": "en",
-  "role": "author",
-  "note": "Criticises leak-selling/blackmail models such as slur.io",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2014-12-28",
   "year": 2014,
   "type": "other",
@@ -4701,23 +2983,6 @@
   "language": "en",
   "role": "author",
   "note": "Tweet from 31C3 sharing the Snowden document on PRISM Skype collection",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2015-01-05",
-  "year": 2015,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Promote Tor and Hidden Services as an anti-corruption tool for law enforcement agencies and others",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2015-January/036384.html",
-  "language": "en",
-  "role": "author",
-  "note": "Reply on promoting hidden services for anti-corruption reporting",
   "verified": true,
   "known": false,
   "_slices": [
@@ -4752,23 +3017,6 @@
   "language": "it",
   "role": "quoted",
   "note": "Carola Frediani piece; he explains that 30,000 hidden services are more like IP addresses than websites",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2015-03-02",
-  "year": 2015,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Fixing the problem of sending email from Tor: Proof of Work based system",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2015-March/037041.html",
-  "language": "en",
-  "role": "author",
-  "note": "Proposal prompted by GlobaLeaks' email-notification problems behind Tor",
   "verified": true,
   "known": false,
   "_slices": [
@@ -5071,6 +3319,23 @@
   "on_old_site": false
  },
  {
+  "date": "2015-04-28",
+  "year": 2015,
+  "type": "report",
+  "outlet": "Tor Tech Report 2015-04-001 (The Tor Project); also DTIC ADA623038",
+  "title": "Hidden-service statistics reported by relays",
+  "url": "https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "David Goulet (Tor Project), Aaron Johnson (U.S. Naval Research Laboratory), George Kadianakis, Karsten Loesing (Tor Project). Ref. [12]: 'Virgil Griffith, Fabio Pietrosanti, and Giovanni Pellerano. Making tor2web mode faster' (Tor proposal 233). Same text republished by DTIC as ADA623038 (https://archive.org/details/DTIC_ADA623038).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2015-06-20",
   "year": 2015,
   "type": "project",
@@ -5141,40 +3406,6 @@
   "on_old_site": false
  },
  {
-  "date": "2015-08-19",
-  "year": 2015,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Letsencrypt and Tor Hidden Services",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2015-August/038804.html",
-  "language": "en",
-  "role": "author",
-  "note": "Asks whether Let's Encrypt could work with Tor hidden services",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2015-08-23",
-  "year": 2015,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Open Call for GlobaLeaks Developers",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2015-August/038835.html",
-  "language": "en",
-  "role": "author",
-  "note": "Recruiting call for GlobaLeaks developers",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2015-10-20",
   "year": 2015,
   "type": "podcast",
@@ -5189,40 +3420,6 @@
   "_slices": [
    "slice3_2012_2015",
    "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2015-12-15",
-  "year": 2015,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Ordering a .onion EV certificate from Digitcert",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2015-December/039729.html",
-  "language": "en",
-  "role": "author",
-  "note": "Shares DigiCert's guide on EV TLS certificates for .onion addresses",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2015-12-16",
-  "year": 2015,
-  "type": "article_by",
-  "outlet": "tor-talk mailing list",
-  "title": "Tor Historical Consensus Analytic",
-  "url": "https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2015-December/039743.html",
-  "language": "en",
-  "role": "author",
-  "note": "Asks how to query historical consensus data for Italian relay operators",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
   ],
   "on_old_site": false
  },
@@ -5417,6 +3614,23 @@
   "on_old_site": false
  },
  {
+  "date": "2017",
+  "year": 2017,
+  "type": "thesis",
+  "outlet": "University of California, Berkeley, PhD dissertation (Computer Science)",
+  "title": "Threat modeling and circumvention of Internet censorship",
+  "url": "https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "David Fifield. Ref. [41] cites Tor bug #4185 'Bridge easily detected by GFW' (Oct. 2011) with Fabio Pietrosanti among its listed authors (denverroot, Roger Dingledine, ... Mike Perry, Fabio Pietrosanti, quick-dudley), in the discussion of China's Great Firewall detecting Tor.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2017-01-31",
   "year": 2017,
   "type": "project",
@@ -5482,6 +3696,40 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-03",
+  "year": 2017,
+  "type": "paper",
+  "outlet": "Internet Policy Review, Vol. 6, Issue 1 (Alexander von Humboldt Institute for Internet and Society), doi:10.14763/2017.1.457",
+  "title": "Australian internet policy",
+  "url": "https://policyreview.info/node/457/pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "Angela Daly & Julian Thomas (special-issue editorial). Mentions 'new plans to regulate the use of CNOs in Italy (Pietrosanti and Aterno, 2017)' and lists 'Pietrosanti, F. & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing' in references.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-03-02",
+  "year": 2017,
+  "type": "report",
+  "outlet": "Citizen Lab, Munk School of Global Affairs, University of Toronto",
+  "title": "Who's Watching Little Brother? A Checklist for Accountability in the Industry Behind Government Hacking",
+  "url": "https://citizenlab.ca/wp-content/uploads/2017/03/citizenlab_whos-watching-little-brother.pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "Sarah McKune & Ron Deibert. Footnote 1 cites 'Fabio Pietrosanti and Stefano Aterno, “Italy unveils a legal proposal to regulate government hacking,” Boing Boing, February 15, 2017' for discussion of human rights and government hacking.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
   ],
   "on_old_site": false
  },
@@ -5640,6 +3888,40 @@
   "on_old_site": false
  },
  {
+  "date": "2017-11",
+  "year": 2017,
+  "type": "thesis",
+  "outlet": "Tampere University of Technology (Finland), MSc thesis",
+  "title": "TorSNIP: Hidden Service Proxy with End-to-End Security",
+  "url": "https://trepo.tuni.fi/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&isAllowed=y",
+  "language": "en",
+  "role": "cited",
+  "note": "Shoaib Kiyani. OpenAlex full-text index matches both 'Pietrosanti' and 'GlobaLeaks'/'Tor2web' in this thesis (likely a citation of Tor2web/GlobaLeaks work). PDF is behind a bot-check wall, so the exact mention could not be read; Fabio Pietrosanti identity NOT confirmed.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-11-15",
+  "year": 2017,
+  "type": "report",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights (Progetto Winston Smith / Cassandra), Italy",
+  "title": "Guida Hermes al voto digitale",
+  "url": "https://archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale",
+  "language": "it",
+  "role": "acknowledged",
+  "note": "Marco A.L. Calamari. Colophon 'Si ringrazia: Fabio “naif” Pietrosanti (Hermes Center), ...'. Confirmed via Internet Archive full-text snippet.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2017-11-29",
   "year": 2017,
   "type": "article_by",
@@ -5794,23 +4076,6 @@
   "on_old_site": false
  },
  {
-  "date": "2018-02-27",
-  "year": 2018,
-  "type": "article_by",
-  "outlet": "Forum Italia (Developers Italia)",
-  "title": "Software Whistleblowing Anticorruzione di ANAC o GlobaLeaks per legge 179/2017?",
-  "url": "https://forum.italia.it/t/software-whistleblowing-anticorruzione-di-anac-o-globaleaks-per-legge-179-2017/2558",
-  "language": "it",
-  "role": "author",
-  "note": "Thread started by Univ. Genova IT manager; Pietrosanti recommends GlobaLeaks with ANAC questionnaire (Barcelona model)",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2018-03-24",
   "year": 2018,
   "type": "talk",
@@ -5923,23 +4188,6 @@
   "role": "subject",
   "note": "Hermes Center becomes full EDRi member; organisation-level, no name mention",
   "verified": false,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2018-05-05",
-  "year": 2018,
-  "type": "article_by",
-  "outlet": "Forum Italia (Developers Italia)",
-  "title": "App Whistleblowing Anticorruzione nel Cloud per la PA: Come portarla?",
-  "url": "https://forum.italia.it/t/app-whistleblowing-anticorruzione-nel-cloud-per-la-pa-come-portarla/3200",
-  "language": "it",
-  "role": "author",
-  "note": "His question on hosting GlobaLeaks on AgID-qualified cloud; answered by AgID's Paolo De Rosa",
-  "verified": true,
   "known": false,
   "_slices": [
    "slice4_2016_2020"
@@ -6304,6 +4552,40 @@
   "on_old_site": false
  },
  {
+  "date": "2020",
+  "year": 2020,
+  "type": "book",
+  "outlet": "Palgrave Macmillan (Springer Nature), London",
+  "title": "Digital Whistleblowing Platforms in Journalism: Encrypting Leaks",
+  "url": "https://link.springer.com/book/10.1007/978-3-030-38505-7",
+  "language": "en",
+  "role": "acknowledged",
+  "note": "Philip Di Salvo (USI Lugano), based on his PhD research (USI, 2018) on GlobaLeaks/SecureDrop in 15 countries. A web-search snippet (from a text copy of the book) says the acknowledgements credit Fabio 'Naif' Pietrosanti and the Hermes Center with connecting 'many dots' that led to the book. Full text not fetched.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-02",
+  "year": 2020,
+  "type": "book_chapter",
+  "outlet": "Springer, The International Library of Ethics, Law and Technology vol. 21: 'The Ethics of Cybersecurity' (eds. M. Christen, B. Gordijn, M. Loi), open access",
+  "title": "Cybersecurity and the State",
+  "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "Eva Schlehahn (ULD Schleswig-Holstein), Chapter 10. Cites '(e.g. Pietrosanti and Aterno 2017)' on states allowing surveillance-oriented security technologies; reference: 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice7_academic"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-03-27",
   "year": 2020,
   "type": "podcast",
@@ -6330,23 +4612,6 @@
   "language": "it",
   "role": "speaker",
   "note": "COVID-19 webinar on contact-tracing apps (Immuni era); his talk from 00:40:00",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-05-16",
-  "year": 2020,
-  "type": "article_by",
-  "outlet": "Forum Italia (Developers Italia)",
-  "title": "Requisiti normativi su riuso App di Contact Tracing (post n.8)",
-  "url": "https://forum.italia.it/t/requisiti-normativi-su-riuso-app-di-contact-tracing/14284/8",
-  "language": "it",
-  "role": "author",
-  "note": "Reports Immuni switching from MPL2 to AGPLv3 after open-source community advice",
   "verified": true,
   "known": false,
   "_slices": [
@@ -6386,23 +4651,6 @@
   "_slices": [
    "slice4_2016_2020",
    "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-10-19",
-  "year": 2020,
-  "type": "press_release",
-  "outlet": "Forum Italia (Developers Italia)",
-  "title": "ANAC e Hermes Center risolvono una controversia sull'applicazione della licenza AGPL al software OpenWhistleblowing basato su GlobaLeaks",
-  "url": "https://forum.italia.it/t/anac-e-hermes-center-risolvono-una-controversia-sull-applicazione-della-licenza-agpl-al-software-openwhistleblowing-basato-su-globaleaks/17137",
-  "language": "it",
-  "role": "subject",
-  "note": "Settlement (signed 2020-09-11) between ANAC and Hermes Center restoring AGPLv3; posted by Pellerano",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
   ],
   "on_old_site": false
  },
@@ -7293,23 +5541,6 @@
   "language": "it",
   "role": "author",
   "note": "Hugo static site for a Latina logistics consortium",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice5_2021_2026"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2026-06-18",
-  "year": 2026,
-  "type": "article_by",
-  "outlet": "Forum Italia (Developers Italia)",
-  "title": "BETA: Osservatorio Nazionale Sovranità Digitale della Pubblica Amministrazione (MXMap Italia)",
-  "url": "https://forum.italia.it/t/beta-osservatorio-nazionale-sovranita-digitale-della-pubblica-amministrazione-mxmap-italia/49033",
-  "language": "it",
-  "role": "author",
-  "note": "Public beta announcement of mxmap.it by fpietrosanti",
   "verified": true,
   "known": false,
   "_slices": [
