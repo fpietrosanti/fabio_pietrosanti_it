@@ -1,0 +1,338 @@
+[
+ {
+  "date": "2001-10-19",
+  "year": 2001,
+  "type": "talk",
+  "title": "SMAU/Sicurmatica, Milano - Sicurezza, il punto di vista del NASP",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2001-10-20",
+  "year": 2001,
+  "type": "talk",
+  "title": "SMAU/Tavola Rotonda sul fenomeno Hacking, Milano",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2001-10-13",
+  "year": 2001,
+  "type": "talk",
+  "title": "AntiKrimen Expo, Area Sicurezza Informatica - Storia e psicologia Hacker",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2001-12-10",
+  "year": 2001,
+  "type": "talk",
+  "title": "IBM Forum, Milano \"CONFERENZA LINUX\" - OpenSource e Sicurezza",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2002-01-24",
+  "year": 2002,
+  "type": "talk",
+  "title": "Infosecurity Italia 2002, Italian Black Hats Speech",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2002-03-17",
+  "year": 2002,
+  "type": "talk",
+  "title": "Rivoluzione Connettiva e Sicurezza, Centro Alti Studi Lotta al terrorismo: Il ruolo dei carrier nella network securit",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2003-05-05",
+  "year": 2003,
+  "type": "talk",
+  "title": "University LIUC (Varese, Italy) : Wireless (in)Security: Sicurezza delle reti wireless",
+  "urls": [
+   "http://www.liuc.it/"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2003-05-05",
+  "year": 2003,
+  "type": "talk",
+  "title": "University LIUC (Varese, Italy) Percezione della sicurezza informatica: miti e leggende",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2003-10-15",
+  "year": 2003,
+  "type": "talk",
+  "title": "Università di Firenze, Sicurezza, full-disclosure e software: Sicurezza informatica: la percezione e la realtà",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2003-10-28",
+  "year": 2003,
+  "type": "talk",
+  "title": "Wireless Forum, Milano: Wireless Network Security Training",
+  "urls": [
+   "http://www.wirelessforum.it/seminari/security.htm"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2003-11-05",
+  "year": 2003,
+  "type": "talk",
+  "title": "Comitato di gestione della infrastruttura nazionale di rete del CNR e la TaskForce sulla sicurezza,Technical Security Training: Wireless (in)Security: problemi di (in)sicurezza dell’802.11b",
+  "urls": [
+   "http://www.slideshare.net/fpietrosanti/2003-cnr-security-task-force-wireless-insecurity",
+   "http://www.slideshare.net/fpietrosanti/2003-cnr-security-task-force-wireless-insecurity"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2004-05-07",
+  "year": 2004,
+  "type": "talk",
+  "title": "Webbit 04, Padova: Wireless (in)Security: problemi di (in)sicurezza Tecnologie dell’802.11b",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2005-05-28",
+  "year": 2005,
+  "type": "talk",
+  "title": "E-Privacy 2005, Firenze: PGP luci e ombre. Storia e evoluzione dello strumento per la privacy più usato al mondo",
+  "urls": [
+   "http://www.slideshare.net/fpietrosanti/eprivacy-2005-pgp-luci-e-ombre",
+   "http://www.slideshare.net/fpietrosanti/eprivacy-2005-pgp-luci-e-ombre"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2006-02-08",
+  "year": 2006,
+  "type": "talk",
+  "title": "LRA Posta Elettronica Certifica, Firma digitale e Archiviazione ottica Documentale, Milano: sicurezza e riservatezza delle tecnologie di firma digitale",
+  "urls": [
+   "http://www.slideshare.net/fpietrosanti/infosecurity-06-tecnologie-di-firma-digitale-e-tutela-della-riservatezza"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2006-02-09",
+  "year": 2006,
+  "type": "talk",
+  "title": "Infosecurity 2006, Milano: Hardening della configurazione di PHP: limitare il danno",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2006-10-20",
+  "year": 2006,
+  "type": "talk",
+  "title": "Hack.lu 2006, Luxembourg: Exploiting hidden services to setup anonymous communication infrastructure",
+  "urls": [
+   "http://www.slideshare.net/fpietrosanti/hacklu-2006-anonymous-communication",
+   "http://www.slideshare.net/fpietrosanti/hacklu-2006-anonymous-communication"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2007-02-06",
+  "year": 2007,
+  "type": "talk",
+  "title": "Infosecurity 2007, Milano: Voice Security & Privacy flash talk",
+  "urls": [
+   "http://www.slideshare.net/fpietrosanti/infosec-07-voice-privacy-security-flash-talk"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2009-03-29",
+  "year": 2009,
+  "type": "talk",
+  "title": "Security Summit 2009, Milano: Voice Security & Privacy: confidentiality protection, upcoming technologies and standards",
+  "urls": [
+   "http://www.slideshare.net/fpietrosanti/2009-voice-security-and-privacy-security-summit-milan"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2010-03-17",
+  "year": 2010,
+  "type": "talk",
+  "title": "Security Summit 2010, Mobile Security: Intense overview of mobile security threat",
+  "urls": [
+   "http://www.slideshare.net/fpietrosanti/mobile-security-intense-overview-3799661"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2010-05-21",
+  "year": 2010,
+  "type": "talk",
+  "title": "WHYMCA, Mobile Security: Intense overview of mobile security threat",
+  "urls": [
+   "http://www.slideshare.net/fpietrosanti/2010-mobile-security-whymca-developer-conference"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2010-08-24",
+  "year": 2010,
+  "type": "talk",
+  "title": "University of Trento, Cryptolab, Voice communication security",
+  "urls": [
+   "http://www.slideshare.net/fpietrosanti/voice-communication-security"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2010-09-06",
+  "year": 2010,
+  "type": "talk",
+  "title": "ESC 2010, Venice: Workshop on GSM Security (demonstration and hacking GSM networks)",
+  "urls": [],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2010-02",
+  "year": 2010,
+  "type": "article_by",
+  "title": "Social News Special WikiLeaks: ITALIAN article on WikiLeaks and Government 2.0 program (page 36)",
+  "urls": [
+   "http://www.socialnews.it/social_news_pdf/2011febbraio.pdf"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2000-06-09",
+  "year": 2000,
+  "type": "research",
+  "title": "3R soft Mailstudio 2000 multiple vulnerabilities",
+  "urls": [
+   "http://www.securityfocus.com/bid/1335"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2000-06-14",
+  "year": 2000,
+  "type": "research",
+  "title": "A sendmail.cf backdoor",
+  "urls": [
+   "http://packetstormsecurity.org/files/22123/sendmailcftrojan.tar.gz.html"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2001-09-03",
+  "year": 2001,
+  "type": "research",
+  "title": "Cisco PIX multiple vulnerabilities (Cisco Pix Notes)",
+  "urls": [
+   "http://www.cisco.com/en/US/products/hw/vpndevc/ps2030/products_security_notice09186a0080265e37.html"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2001-09-26",
+  "year": 2001,
+  "type": "research",
+  "title": "Cisco PIX SMTP Mailguard bypass",
+  "urls": [
+   "http://www.securityfocus.com/bid/1698"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2001-10-03",
+  "year": 2001,
+  "type": "research",
+  "title": "Cisco PIX allow external user to discover internal ip address",
+  "urls": [
+   "http://marc.info/?l=bugtraq&m=97059440000367&w=2"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2001-11-01",
+  "year": 2001,
+  "type": "research",
+  "title": "ISC BIND 8.2.2-P5 Denial of service vulnerability",
+  "urls": [
+   "http://www.securityfocus.com/bid/1923"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2006-11-16",
+  "year": 2006,
+  "type": "research",
+  "title": "Parallels Desktop for Mac Insecure File Permission",
+  "urls": [
+   "http://secunia.com/advisories/22634/"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2010-02-01",
+  "year": 2010,
+  "type": "research",
+  "title": "Debunking Informationsecurityguard.com fake SecureStar independent security blog identity (theregister article)",
+  "urls": [
+   "http://infosecurity.ch/20100201/evidence-that-infosecurityguard-comnotrax-is-securstar-gmbh-a-fake-independent-research-on-voice-crypto/",
+   "http://www.theregister.co.uk/2010/02/01/voice_crypto_test_row_phreak_out/"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2011-01-12",
+  "year": 2011,
+  "type": "research",
+  "title": "Organized the PrivateWave's open source release of ZORG ZRTP voice encryption protocol implementation integrated with PJSIP opensource stack",
+  "urls": [
+   "http://www.privatewave.com/",
+   "http://seclists.org/fulldisclosure/2011/Jan/139",
+   "http://www.zrtp.org/",
+   "http://en.wikipedia.org/wiki/ZRTP",
+   "http://www.pjsip.org/"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2011-01-24",
+  "year": 2011,
+  "type": "research",
+  "title": "Running my first Tor Exit Node with noisy traffic reduction",
+  "urls": [
+   "http://infosecurity.ch/20110124/my-tor-exit-node-experience-trying-to-filter-out-noisy-traffic/"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2011-01-26",
+  "year": 2011,
+  "type": "research",
+  "title": "GlobaLeaks project",
+  "urls": [
+   "http://www.globaleaks.org/"
+  ],
+  "source": "blogger-2013"
+ },
+ {
+  "date": "2011-03",
+  "year": 2011,
+  "type": "research",
+  "title": "Tor2web Project",
+  "urls": [
+   "http://tor2web.org/"
+  ],
+  "source": "blogger-2013"
+ }
+]
