@@ -1,85 +1,616 @@
 [
  {
-  "date": "2001-10-13",
-  "year": 2001,
-  "type": "talk",
-  "outlet": "AntiKrimen Expo",
-  "title": "Area Sicurezza Informatica - Storia e psicologia Hacker",
-  "url": "http://fabio.pietrosanti.it/",
+  "date": "1998-12",
+  "year": 1998,
+  "type": "article_by",
+  "outlet": "BFi (Butchered From Inside) n.4",
+  "title": "\"leggeteve questa\" by Naif (reader letter)",
+  "url": "https://www.s0ftpj.org/bfi/bfi4.tar.gz",
   "language": "it",
-  "role": "speaker",
-  "note": "Listed in his self-published CV/talk list at fabio.pietrosanti.it",
+  "role": "author",
+  "note": "Letter signed 'Naif' in the BFi 4 mail section (net-cafe time-control software); nick matches, attribution likely but not certain",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "1999-12-25",
+  "year": 1999,
+  "type": "mentioned",
+  "outlet": "BFi n.7",
+  "title": "L'hacker e il magistrato: commenti a lato (BlackBerry & \\sPIRIT\\)",
+  "url": "https://www.s0ftpj.org/bfi/online/bfi7/bfi07-20.html",
+  "language": "it",
+  "role": "subject",
+  "note": "Naif thanked among the Italian underground crew",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2000-06-09",
+  "year": 2000,
+  "type": "research",
+  "outlet": "Bugtraq",
+  "title": "Mailstudio2000 CGI Vulnerabilities [S0ftPj.4]",
+  "url": "https://seclists.org/bugtraq/2000/Jun/164",
+  "language": "en",
+  "role": "co-author",
+  "note": "S0ftPj advisory by FuSyS, Naif and vecna; the mailview file-viewing bug is credited to Naif (CVE-2000-0526)",
   "verified": true,
   "known": true,
   "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-06-09",
+  "year": 2000,
+  "type": "research",
+  "outlet": "SecurityFocus BID 1335",
+  "title": "3R Soft MailStudio 2000 vulnerabilities (BID 1335, CVE-2000-0526)",
+  "url": "https://www.securityfocus.com/bid/1335",
+  "language": "en",
+  "role": "co-author",
+  "note": "BID linked from his site; his name isn't shown on the BID summary page",
+  "verified": false,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-06-14",
+  "year": 2000,
+  "type": "research",
+  "outlet": "Packet Storm",
+  "title": "sendmail.cf trojan (A sendmail.cf backdoor)",
+  "url": "https://packetstormsecurity.com/files/22123/sendmailcftrojan.tar.gz.html",
+  "language": "en",
+  "role": "author",
+  "note": "Linked from his site; page now behind an anti-bot redirect, name not confirmed",
+  "verified": false,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-09",
+  "year": 2000,
+  "type": "research",
+  "outlet": "SecurityFocus BID 1698",
+  "title": "Cisco PIX Firewall SMTP content filtering evasion (BID 1698, CVE-2000-1022)",
+  "url": "https://www.securityfocus.com/bid/1698",
+  "language": "en",
+  "role": "author",
+  "note": "BID linked from his site; his name isn't shown on the BID summary page",
+  "verified": false,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-09-19",
+  "year": 2000,
+  "type": "research",
+  "outlet": "Bugtraq",
+  "title": "Cisco PIX Firewall (smtp content filtering hack)",
+  "url": "https://seclists.org/bugtraq/2000/Sep/360",
+  "language": "en",
+  "role": "author",
+  "note": "Original PIX MailGuard/SMTP fixup bypass advisory from naif@inet.it (CVE-2000-1022)",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-09-20",
+  "year": 2000,
+  "type": "research",
+  "outlet": "Bugtraq",
+  "title": "Re: Cisco PIX Firewall (smtp content filtering hack) - Version 4.2(1) not exploitable",
+  "url": "https://seclists.org/bugtraq/2000/Sep/378",
+  "language": "en",
+  "role": "author",
+  "note": "Follow-up on affected PIX versions",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-10-03",
+  "year": 2000,
+  "type": "research",
+  "outlet": "Bugtraq",
+  "title": "Cisco PIX Firewall allow external users to discover internal IPs",
+  "url": "https://seclists.org/bugtraq/2000/Oct/46",
+  "language": "en",
+  "role": "author",
+  "note": "MARC copy: https://marc.info/?l=bugtraq&m=97059440000367&w=2",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-10-03",
+  "year": 2000,
+  "type": "research",
+  "outlet": "Bugtraq",
+  "title": "Re: Cisco PIX Firewall (smtp content filtering hack) [Finally resolved]",
+  "url": "https://seclists.org/bugtraq/2000/Oct/52",
+  "language": "en",
+  "role": "author",
+  "note": "Closing update on the PIX SMTP issue",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-11",
+  "year": 2000,
+  "type": "research",
+  "outlet": "SecurityFocus BID 1923",
+  "title": "ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)",
+  "url": "https://www.securityfocus.com/bid/1923",
+  "language": "en",
+  "role": "author",
+  "note": "BID linked from his site; his name isn't shown on the BID summary page",
+  "verified": false,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-11-03",
+  "year": 2000,
+  "type": "mentioned",
+  "outlet": "BFi n.9",
+  "title": "Intercettazione delle password inserite senza terminal echo via KLD (vecna)",
+  "url": "https://www.s0ftpj.org/bfi/online/bfi9/BFi09-08",
+  "language": "it",
+  "role": "subject",
+  "note": "vecna thanks naif for help with the FreeBSD 4.0 kernel module",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2000-11-03",
+  "year": 2000,
+  "type": "mentioned",
+  "outlet": "BFi n.9",
+  "title": "LibVSK - librerie per il controllo del traffico a userlevel (vecna)",
+  "url": "https://www.s0ftpj.org/bfi/online/bfi9/BFi09-11",
+  "language": "it",
+  "role": "subject",
+  "note": "naif listed in greetings",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2000-11-07",
+  "year": 2000,
+  "type": "research",
+  "outlet": "Bugtraq",
+  "title": "BIND 8.2.2-P5 Possible DOS",
+  "url": "https://seclists.org/bugtraq/2000/Nov/115",
+  "language": "en",
+  "role": "author",
+  "note": "Denial of service in ISC BIND 8.2.2-P5 (CVE-2000-0887)",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-11-08",
+  "year": 2000,
+  "type": "research",
+  "outlet": "vuln-dev",
+  "title": "Possible DOS in Bind 8.2.2-P5",
+  "url": "https://seclists.org/vuln-dev/2000/Nov/82",
+  "language": "en",
+  "role": "author",
+  "note": "Same BIND DoS, first posted to vuln-dev",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2000-11-09",
+  "year": 2000,
+  "type": "research",
+  "outlet": "vuln-dev",
+  "title": "Re: Possible DOS in Bind 8.2.2-P5",
+  "url": "https://seclists.org/vuln-dev/2000/Nov/95",
+  "language": "en",
+  "role": "author",
+  "note": "Follow-up in the BIND DoS thread",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2001",
+  "year": 2001,
+  "type": "project",
+  "outlet": "Italian BlackHats Association",
+  "title": "blackhats.it (co-founded 2001)",
+  "url": "http://www.blackhats.it/",
+  "language": "it",
+  "role": "co-author",
+  "note": "Association he co-founded; site offline and the Wayback Machine was down during this research",
+  "verified": false,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2001-03-09",
+  "year": 2001,
+  "type": "research",
+  "outlet": "Bugtraq",
+  "title": "Cisco PIX Security Notes",
+  "url": "https://seclists.org/bugtraq/2001/Mar/148",
+  "language": "en",
+  "role": "author",
+  "note": "Multiple PIX security notes, signed I.NET SpA Security Staff; MARC: https://marc.info/?l=bugtraq&m=98433390918280&w=2",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2001-03-19",
+  "year": 2001,
+  "type": "research",
+  "outlet": "firewall-wizards",
+  "title": "Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response*",
+  "url": "https://seclists.org/firewall-wizards/2001/Mar/120",
+  "language": "en",
+  "role": "author",
+  "note": "Discussion of Cisco's response to his PIX notes",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2001-09-25",
+  "year": 2001,
+  "type": "research",
+  "outlet": "vuln-dev",
+  "title": "Cisco PIX Firewall MailGuard Vulnerability",
+  "url": "https://seclists.org/vuln-dev/2001/Sep/305",
+  "language": "en",
+  "role": "author",
+  "note": "New PIX MailGuard bypass",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2001-09-26",
+  "year": 2001,
+  "type": "research",
+  "outlet": "vuln-dev",
+  "title": "Re: Cisco PIX Firewall MailGuard Vulnerability",
+  "url": "https://seclists.org/vuln-dev/2001/Sep/311",
+  "language": "en",
+  "role": "author",
+  "note": "Follow-up",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2001-09-30",
+  "year": 2001,
+  "type": "article_by",
+  "outlet": "BFi n.10",
+  "title": "i0 FASTWEB E TU?",
+  "url": "http://www.s0ftpj.org/bfi/online/bfi10/BFi10-13.html",
+  "language": "it",
+  "role": "author",
+  "note": "Article by naif <naif@blackhats.it> on the security of Fastweb's broadband network",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2001-09-30",
+  "year": 2001,
+  "type": "mentioned",
+  "outlet": "BFi n.10",
+  "title": "TCP congestion control e dintorni (vecna)",
+  "url": "http://www.s0ftpj.org/bfi/online/bfi10/BFi10-08.html",
+  "language": "it",
+  "role": "subject",
+  "note": "naif in greetings; also credited among BFi 10 contributors",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2001-10-13",
+  "year": 2001,
+  "type": "talk",
+  "outlet": "AntiKrimen Expo 2001 - Area Sicurezza Informatica",
+  "title": "Storia e psicologia Hacker",
+  "url": "http://fabio.pietrosanti.it/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Listed on his personal site",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006",
    "slice6_media_archives"
   ],
   "on_old_site": true
  },
  {
-  "date": "2002",
-  "year": 2002,
-  "type": "slides",
-  "outlet": "SlideShare (SMAU ITBH 2002)",
-  "title": "2002: SMAU ITBH: Wireless (in)security",
-  "url": "https://www.slideshare.net/slideshow/smau-itbh-wireless-insecurity/1669215",
+  "date": "2001-10-25",
+  "year": 2001,
+  "type": "quoted",
+  "outlet": "Punto Informatico",
+  "title": "Un raggio di luce su SMAU?",
+  "url": "https://www.punto-informatico.it/un-raggio-di-luce-su-smau/",
   "language": "it",
-  "role": "author",
-  "note": "Italian Black Hats talk at SMAU",
+  "role": "panelist",
+  "note": "Raoul Chiesa's report on the SMAU hacking/ICT security roundtable; names 'Fabio Pietrosanti aka Naif di I.NET' as a panelist",
   "verified": true,
   "known": false,
   "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2001-10-29",
+  "year": 2001,
+  "type": "mentioned",
+  "outlet": "Apogeonline",
+  "title": "Un raggio di luce su SMAU",
+  "url": "https://www.apogeonline.com/articoli/un-raggio-di-luce-su-smau-raoul-chiesa/",
+  "language": "it",
+  "role": "subject",
+  "note": "Same Raoul Chiesa report republished on Apogeonline",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2002-01-17",
+  "year": 2002,
+  "type": "mentioned",
+  "outlet": "BFi 11-dev file 03",
+  "title": "[HaCkmEeTiNg] Re: hacking is NOT politics? (vecna, mail thread)",
+  "url": "https://www.s0ftpj.org/bfi/dev/BFi11-dev-03",
+  "language": "it",
+  "role": "subject",
+  "note": "vecna answers the hackmeeting 'hacking is NOT politics' debate 'after talking only with naif'",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2002-01-17",
+  "year": 2002,
+  "type": "mentioned",
+  "outlet": "BFi 11-dev file 04",
+  "title": "Drivers e SEH in Win NT/2000 (valv`0)",
+  "url": "https://www.s0ftpj.org/bfi/dev/BFi11-dev-04",
+  "language": "it",
+  "role": "subject",
+  "note": "naif in credits/greetings",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2002-06",
+  "year": 2002,
+  "type": "other",
+  "outlet": "Hackmeeting 2002 (Bologna)",
+  "title": "Hackit02 - who (participants list)",
+  "url": "https://www.hackmeeting.org/hackit02/who.html",
+  "language": "it",
+  "role": "subject",
+  "note": "'naif' listed among registered participants of Hackmeeting 2002",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2002-09-24",
+  "year": 2002,
+  "type": "mentioned",
+  "outlet": "Apogeonline",
+  "title": "Smau e Ict Security: i Black Hats tornano a dire la loro",
+  "url": "https://www.apogeonline.com/articoli/smau-e-ict-security-i-black-hats-tornano-a-dire-la-loro-raoul-chiesa/",
+  "language": "it",
+  "role": "subject",
+  "note": "Announces the Italian Blackhats Ethical Hacker's Speech at SMAU 2002, including the wireless war-walking survey he presented; his name is not on the page",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2002-10",
+  "year": 2002,
+  "type": "talk",
+  "outlet": "SMAU 2002 - Italian Blackhats Ethical Hacker's Speech",
+  "title": "2002: SMAU ITBH: Wireless (in)security",
+  "url": "https://www.slideshare.net/slideshow/smau-itbh-wireless-insecurity/1669215",
+  "language": "it",
+  "role": "speaker",
+  "note": "Slides including the war-walking survey at SMAU 2002 (80 wireless networks found); missing from the known list",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006",
    "slice6_media_archives"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2002-10-10",
+  "year": 2002,
+  "type": "interview",
+  "outlet": "Apogeonline (Portel survey)",
+  "title": "A caccia di reti wireless insicure",
+  "url": "https://www.apogeonline.com/articoli/a-caccia-di-reti-wireless-insicure-redazione-apogeonline/",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Portel wardriving survey in Milan with experts 'naif' (Fabio Pietrosanti, Network Security Manager, Italian Blackhats) and 'vodka'; wireless security decalogue",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2002-10-30",
+  "year": 2002,
+  "type": "mentioned",
+  "outlet": "Apogeonline",
+  "title": "Ethical Hacker's Speech II",
+  "url": "https://www.apogeonline.com/articoli/ethical-hackers-speech-ii-associazione-italian-blackhats/",
+  "language": "it",
+  "role": "subject",
+  "note": "Programme of the Italian Blackhats speech at SMAU 2002 (the association he co-founded); his name is not on the page",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
   ],
   "on_old_site": true
  },
  {
   "date": "2003-11-05",
   "year": 2003,
-  "type": "slides",
-  "outlet": "SlideShare (CNR Security Task Force)",
+  "type": "talk",
+  "outlet": "CNR - Comitato di gestione infrastruttura nazionale di rete / Task Force sicurezza",
   "title": "2003 CNR Security Task Force: Wireless (In)security",
   "url": "https://www.slideshare.net/slideshow/2003-cnr-security-task-force-wireless-insecurity/1669313",
   "language": "it",
-  "role": "author",
-  "note": "Technical training for CNR national network security task force",
+  "role": "speaker",
+  "note": "Technical training on 802.11b insecurity (slides)",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "slice1_1995_2006",
    "slice6_media_archives"
   ],
   "on_old_site": true
  },
  {
-  "date": "2004",
+  "date": "2004-03-14",
   "year": 2004,
-  "type": "book",
-  "outlet": "The free software in Italy (Il software libero in Italia)",
-  "title": "Security chapter",
-  "url": "http://www.shake.it/index.php?id=51&productID=541",
-  "language": "it",
-  "role": "author",
-  "note": "Book chapter on security, cited in his CV (year approximate)",
-  "verified": false,
-  "known": true,
+  "type": "mentioned",
+  "outlet": "BFi 12-dev file 10",
+  "title": "Steganography applied on network sessions and neighbourhood (vecna)",
+  "url": "https://www.s0ftpj.org/bfi/dev/en/BFi12-dev-10-en",
+  "language": "en",
+  "role": "cited",
+  "note": "vecna recalls a question naif asked at his e-privacy 2003 steganography talk and answers it in the paper",
+  "verified": true,
+  "known": false,
   "_slices": [
-   "slice6_media_archives"
+   "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2004-05",
   "year": 2004,
-  "type": "slides",
-  "outlet": "SlideShare (Webbit 04 Padova)",
+  "type": "talk",
+  "outlet": "Webbit 04, Padova",
   "title": "2004: Webbit Padova 04: Presentazione Sikurezza.Org",
   "url": "https://www.slideshare.net/slideshow/webbit-04-presentazione-sikurezzaorg/1669242",
   "language": "it",
-  "role": "author",
-  "note": "Presentation of the Sikurezza.org community",
+  "role": "speaker",
+  "note": "Presentation of the sikurezza.org community and mailing lists; missing from the known list",
   "verified": true,
   "known": false,
   "_slices": [
+   "slice1_1995_2006",
    "slice6_media_archives"
   ],
   "on_old_site": false
@@ -87,16 +618,17 @@
  {
   "date": "2004-05-07",
   "year": 2004,
-  "type": "slides",
-  "outlet": "SlideShare (Webbit 04 Padova)",
+  "type": "talk",
+  "outlet": "Webbit 04, Padova",
   "title": "2004: Webbit Padova 04: Wireless (in)security",
   "url": "https://www.slideshare.net/slideshow/webbit-04-wireless-insecurity/1669209",
   "language": "it",
-  "role": "author",
-  "note": "Webbit 2004",
+  "role": "speaker",
+  "note": "802.11/WEP insecurity (slides)",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "slice1_1995_2006",
    "slice6_media_archives"
   ],
   "on_old_site": true
@@ -105,18 +637,71 @@
   "date": "2005-05-28",
   "year": 2005,
   "type": "talk",
-  "outlet": "e-privacy 2005 (Firenze)",
-  "title": "PGP luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo",
-  "url": "https://e-privacy.winstonsmith.org/e-privacy-IV.html",
+  "outlet": "E-Privacy 2005, Firenze",
+  "title": "PGP luci e ombre. Storia e evoluzione dello strumento per la privacy più usato al mondo",
+  "url": "https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259",
   "language": "it",
   "role": "speaker",
-  "note": "e-privacy IV 'Data retention: da regola ad eccezione'; affiliation Softpj.org",
+  "note": "Slides",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "slice1_1995_2006",
    "slice6_media_archives"
   ],
   "on_old_site": true
+ },
+ {
+  "date": "2005-05-28",
+  "year": 2005,
+  "type": "talk",
+  "outlet": "E-Privacy 2005 - edition page (Winston Smith Project)",
+  "title": "PGP luci e ombre (Fabio Pietrosanti - Softpj.org)",
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-IV.html",
+  "language": "it",
+  "role": "speaker",
+  "note": "Official edition page lists the talk with PDF/PPT/audio links; affiliation Softpj.org",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006",
+   "slice6_media_archives"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2005-05-28",
+  "year": 2005,
+  "type": "paper",
+  "outlet": "E-Privacy 2005 proceedings (atti)",
+  "title": "Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf",
+  "url": "http://urna.winstonsmith.org/materiali/2005/atti/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf",
+  "language": "it",
+  "role": "author",
+  "note": "Proceedings PDF linked from the e-privacy site (link seen, file not fetched)",
+  "verified": false,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2005-05-28",
+  "year": 2005,
+  "type": "podcast",
+  "outlet": "E-Privacy 2005 audio recording",
+  "title": "Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg",
+  "url": "http://urna.winstonsmith.org/materiali/2005/audio/Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg",
+  "language": "it",
+  "role": "speaker",
+  "note": "Audio recording of the talk (link seen on the e-privacy site, file not fetched)",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2005-05-28",
@@ -136,21 +721,22 @@
   "on_old_site": true
  },
  {
-  "date": "2005-05-28",
-  "year": 2005,
-  "type": "slides",
-  "outlet": "SlideShare (e-privacy 2005)",
-  "title": "2005: E-privacy 2005: Pgp Luci E Ombre",
-  "url": "https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259",
+  "date": "2006",
+  "year": 2006,
+  "type": "book",
+  "outlet": "Shake Edizioni",
+  "title": "Il software libero in Italia (a cura di Andrea Glorioso) - contributo di Fabio \"naif\" Pietrosanti",
+  "url": "http://www.shake.it/index.php?id=51&productID=541",
   "language": "it",
-  "role": "author",
-  "note": "PGP history and evolution",
+  "role": "co-author",
+  "note": "Security chapter; publisher page confirms him as a contributor but doesn't show the publication year (ISBN 9788888865768) - check the year",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "slice1_1995_2006",
    "slice6_media_archives"
   ],
-  "on_old_site": false
+  "on_old_site": true
  },
  {
   "date": "2006-02-08",
@@ -165,6 +751,7 @@
   "verified": true,
   "known": false,
   "_slices": [
+   "slice1_1995_2006",
    "slice6_media_archives"
   ],
   "on_old_site": false
@@ -172,17 +759,52 @@
  {
   "date": "2006-10-20",
   "year": 2006,
-  "type": "slides",
-  "outlet": "SlideShare (Hack.lu 2006 Luxembourg)",
-  "title": "2006: Hack.lu Luxembourg 2006: Anonymous Communication",
+  "type": "talk",
+  "outlet": "Hack.lu 2006, Luxembourg",
+  "title": "Exploiting hidden services to setup anonymous communication infrastructure",
   "url": "https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208",
   "language": "en",
-  "role": "author",
-  "note": "Exploiting hidden services to set up anonymous communication infrastructure",
+  "role": "speaker",
+  "note": "Slides (dated 21 Oct 2006) on Tor hidden services",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "slice1_1995_2006",
    "slice6_media_archives"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2006-10-27",
+  "year": 2006,
+  "type": "research",
+  "outlet": "Full-Disclosure",
+  "title": "parallels Desktop file permission notice",
+  "url": "https://seclists.org/fulldisclosure/2006/Oct/581",
+  "language": "en",
+  "role": "author",
+  "note": "Insecure file permissions in Parallels Desktop for Mac; MARC: https://marc.info/?l=full-disclosure&m=116196531422830&w=2",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2006-11",
+  "year": 2006,
+  "type": "research",
+  "outlet": "Secunia",
+  "title": "Parallels Desktop for Mac insecure file permissions (SA22634)",
+  "url": "https://secunia.com/advisories/22634/",
+  "language": "en",
+  "role": "author",
+  "note": "Linked from his site; now redirects to Flexera, credit not confirmable",
+  "verified": false,
+  "known": true,
+  "_slices": [
+   "slice1_1995_2006"
   ],
   "on_old_site": true
  },

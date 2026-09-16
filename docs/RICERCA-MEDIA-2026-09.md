@@ -5,24 +5,26 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **399**; dopo deduplica: **326**
-- Già presenti sul vecchio sito: **30** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 296**
-- Verificati aprendo la pagina: **290**; solo da risultato di ricerca: **36**
+- Risultati grezzi dalle ricerche: **457**; dopo deduplica: **362**
+- Già presenti sul vecchio sito: **53** (su 35 voci elencate lì)
+- **Nuovi rispetto al vecchio sito: 309**
+- Verificati aprendo la pagina: **317**; solo da risultato di ricerca: **45**
 
-Per tipo (nuovi): Post sul blog infosecurity.ch 63, Talk 53, Video 41, Menzionato 24, Progetto 22, Citato 17, Altro 12, Podcast 10, Articolo scritto 9, Paper 8, Radio 6, Slide 5, Comunicato 5, Libro 4, Ricerca 4, Report 4, Intervista 3, TV 2, Tesi 2, Wiki 1, Capitolo di libro 1
+Per tipo (nuovi): Post sul blog infosecurity.ch 63, Talk 54, Video 41, Menzionato 32, Progetto 22, Citato 18, Altro 13, Articolo scritto 11, Podcast 11, Paper 8, Radio 6, Ricerca 5, Comunicato 5, Libro 4, Report 4, Slide 3, Intervista 3, TV 2, Tesi 2, Wiki 1, Capitolo di libro 1
 
 ### Copertura per anno
 
 | Anno | Vecchio sito | Trovati | di cui nuovi |
 |---|---:|---:|---:|
-| 2000 | 2 | 0 | 0 |
-| 2001 | 8 | 1 | 0 |
-| 2002 | 2 | 1 | 0 |
+| 1998 | 0 | 1 | 1 |
+| 1999 | 0 | 1 | 1 |
+| 2000 | 2 | 14 | 3 |
+| 2001 | 8 | 10 | 4 |
+| 2002 | 2 | 7 | 3 |
 | 2003 | 5 | 1 | 0 |
-| 2004 | 1 | 3 | 1 |
-| 2005 | 1 | 3 | 1 |
-| 2006 | 4 | 2 | 1 |
+| 2004 | 1 | 3 | 2 |
+| 2005 | 1 | 5 | 1 |
+| 2006 | 4 | 5 | 1 |
 | 2007 | 1 | 3 | 2 |
 | 2008 | 0 | 2 | 2 |
 | 2009 | 1 | 37 | 34 |
@@ -44,7 +46,7 @@ Per tipo (nuovi): Post sul blog infosecurity.ch 63, Talk 53, Video 41, Menzionat
 | 2025 | 0 | 1 | 1 |
 | 2026 | 0 | 10 | 10 |
 
-Anni senza nessun risultato: 2000, 2024
+Anni senza nessun risultato: 2024
 
 ## 2026 — 10 voci, 10 nuove
 
@@ -733,45 +735,126 @@ Anni senza nessun risultato: 2000, 2024
 - 🆕 **2007** · Libro · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) _(non verificato)_  
   Raoul Chiesa, Silvio Ciappi. Italian original of 'Profiling Hackers' (2009). Acknowledgement of Pietrosanti is verified only in the English edition; assumed but NOT checked in this Italian edition.
 
-## 2006 — 2 voci, 1 nuove
+## 2006 — 5 voci, 1 nuove
 
-- ↺ **2006-10-20** · Slide · SlideShare (Hack.lu 2006 Luxembourg) — [2006: Hack.lu Luxembourg 2006: Anonymous Communication](https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208)  
-  Exploiting hidden services to set up anonymous communication infrastructure
+- ↺ **2006-11** · Ricerca · Secunia — [Parallels Desktop for Mac insecure file permissions (SA22634)](https://secunia.com/advisories/22634/) _(non verificato)_  
+  Linked from his site; now redirects to Flexera, credit not confirmable
+- ↺ **2006-10-27** · Ricerca · Full-Disclosure — [parallels Desktop file permission notice](https://seclists.org/fulldisclosure/2006/Oct/581)  
+  Insecure file permissions in Parallels Desktop for Mac; MARC: https://marc.info/?l=full-disclosure&m=116196531422830&w=2
+- ↺ **2006-10-20** · Talk · Hack.lu 2006, Luxembourg — [Exploiting hidden services to setup anonymous communication infrastructure](https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208)  
+  Slides (dated 21 Oct 2006) on Tor hidden services
 - 🆕 **2006-02-08** · Slide · SlideShare (Infosecurity Italy 2006) — [2006: Infosecurity Italy: Tecnologie di Firma Digitale e Tutela della Riservatezza](https://www.slideshare.net/slideshow/infosecurity-06-tecnologie-di-firma-digitale-e-tutela-della-riservatezza/1669276)  
   Digital signature technologies and confidentiality
+- ↺ **2006** · Libro · Shake Edizioni — [Il software libero in Italia (a cura di Andrea Glorioso) - contributo di Fabio "naif" Pietrosanti](http://www.shake.it/index.php?id=51&productID=541)  
+  Security chapter; publisher page confirms him as a contributor but doesn't show the publication year (ISBN 9788888865768) - check the year
 
-## 2005 — 3 voci, 1 nuove
+## 2005 — 5 voci, 1 nuove
 
-- ↺ **2005-05-28** · Talk · e-privacy 2005 (Firenze) — [PGP luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo](https://e-privacy.winstonsmith.org/e-privacy-IV.html)  
-  e-privacy IV 'Data retention: da regola ad eccezione'; affiliation Softpj.org
+- ↺ **2005-05-28** · Talk · E-Privacy 2005, Firenze — [PGP luci e ombre. Storia e evoluzione dello strumento per la privacy più usato al mondo](https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259)  
+  Slides
+- ↺ **2005-05-28** · Talk · E-Privacy 2005 - edition page (Winston Smith Project) — [PGP luci e ombre (Fabio Pietrosanti - Softpj.org)](https://e-privacy.winstonsmith.org/e-privacy-IV.html)  
+  Official edition page lists the talk with PDF/PPT/audio links; affiliation Softpj.org
+- ↺ **2005-05-28** · Paper · E-Privacy 2005 proceedings (atti) — [Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf](http://urna.winstonsmith.org/materiali/2005/atti/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf) _(non verificato)_  
+  Proceedings PDF linked from the e-privacy site (link seen, file not fetched)
+- 🆕 **2005-05-28** · Podcast · E-Privacy 2005 audio recording — [Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg](http://urna.winstonsmith.org/materiali/2005/audio/Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg) _(non verificato)_  
+  Audio recording of the talk (link seen on the e-privacy site, file not fetched)
 - ↺ **2005-05-28** · Slide · Internet Archive (PWS e-privacy archive) — [PGP luci e ombre: storia e evoluzione dello strumento per la privacy piu' usato al mondo](https://archive.org/details/pws_e-privacy_2005_2m02_pietrosanti_pgp-luci-e-ombre-storia-e-evoluzione-dello-strumento)  
   Archived slides of e-privacy 2005 talk
-- 🆕 **2005-05-28** · Slide · SlideShare (e-privacy 2005) — [2005: E-privacy 2005: Pgp Luci E Ombre](https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259)  
-  PGP history and evolution
 
-## 2004 — 3 voci, 1 nuove
+## 2004 — 3 voci, 2 nuove
 
-- ↺ **2004-05-07** · Slide · SlideShare (Webbit 04 Padova) — [2004: Webbit Padova 04: Wireless (in)security](https://www.slideshare.net/slideshow/webbit-04-wireless-insecurity/1669209)  
-  Webbit 2004
-- 🆕 **2004-05** · Slide · SlideShare (Webbit 04 Padova) — [2004: Webbit Padova 04: Presentazione Sikurezza.Org](https://www.slideshare.net/slideshow/webbit-04-presentazione-sikurezzaorg/1669242)  
-  Presentation of the Sikurezza.org community
-- ↺ **2004** · Libro · The free software in Italy (Il software libero in Italia) — [Security chapter](http://www.shake.it/index.php?id=51&productID=541) _(non verificato)_  
-  Book chapter on security, cited in his CV (year approximate)
+- ↺ **2004-05-07** · Talk · Webbit 04, Padova — [2004: Webbit Padova 04: Wireless (in)security](https://www.slideshare.net/slideshow/webbit-04-wireless-insecurity/1669209)  
+  802.11/WEP insecurity (slides)
+- 🆕 **2004-05** · Talk · Webbit 04, Padova — [2004: Webbit Padova 04: Presentazione Sikurezza.Org](https://www.slideshare.net/slideshow/webbit-04-presentazione-sikurezzaorg/1669242)  
+  Presentation of the sikurezza.org community and mailing lists; missing from the known list
+- 🆕 **2004-03-14** · Menzionato · BFi 12-dev file 10 — [Steganography applied on network sessions and neighbourhood (vecna)](https://www.s0ftpj.org/bfi/dev/en/BFi12-dev-10-en)  
+  vecna recalls a question naif asked at his e-privacy 2003 steganography talk and answers it in the paper
 
 ## 2003 — 1 voci, 0 nuove
 
-- ↺ **2003-11-05** · Slide · SlideShare (CNR Security Task Force) — [2003 CNR Security Task Force: Wireless (In)security](https://www.slideshare.net/slideshow/2003-cnr-security-task-force-wireless-insecurity/1669313)  
-  Technical training for CNR national network security task force
+- ↺ **2003-11-05** · Talk · CNR - Comitato di gestione infrastruttura nazionale di rete / Task Force sicurezza — [2003 CNR Security Task Force: Wireless (In)security](https://www.slideshare.net/slideshow/2003-cnr-security-task-force-wireless-insecurity/1669313)  
+  Technical training on 802.11b insecurity (slides)
 
-## 2002 — 1 voci, 0 nuove
+## 2002 — 7 voci, 3 nuove
 
-- ↺ **2002** · Slide · SlideShare (SMAU ITBH 2002) — [2002: SMAU ITBH: Wireless (in)security](https://www.slideshare.net/slideshow/smau-itbh-wireless-insecurity/1669215)  
-  Italian Black Hats talk at SMAU
+- ↺ **2002-10-30** · Menzionato · Apogeonline — [Ethical Hacker's Speech II](https://www.apogeonline.com/articoli/ethical-hackers-speech-ii-associazione-italian-blackhats/) _(non verificato)_  
+  Programme of the Italian Blackhats speech at SMAU 2002 (the association he co-founded); his name is not on the page
+- ↺ **2002-10-10** · Intervista · Apogeonline (Portel survey) — [A caccia di reti wireless insicure](https://www.apogeonline.com/articoli/a-caccia-di-reti-wireless-insicure-redazione-apogeonline/)  
+  Portel wardriving survey in Milan with experts 'naif' (Fabio Pietrosanti, Network Security Manager, Italian Blackhats) and 'vodka'; wireless security decalogue
+- ↺ **2002-10** · Talk · SMAU 2002 - Italian Blackhats Ethical Hacker's Speech — [2002: SMAU ITBH: Wireless (in)security](https://www.slideshare.net/slideshow/smau-itbh-wireless-insecurity/1669215)  
+  Slides including the war-walking survey at SMAU 2002 (80 wireless networks found); missing from the known list
+- ↺ **2002-09-24** · Menzionato · Apogeonline — [Smau e Ict Security: i Black Hats tornano a dire la loro](https://www.apogeonline.com/articoli/smau-e-ict-security-i-black-hats-tornano-a-dire-la-loro-raoul-chiesa/) _(non verificato)_  
+  Announces the Italian Blackhats Ethical Hacker's Speech at SMAU 2002, including the wireless war-walking survey he presented; his name is not on the page
+- 🆕 **2002-06** · Altro · Hackmeeting 2002 (Bologna) — [Hackit02 - who (participants list)](https://www.hackmeeting.org/hackit02/who.html)  
+  'naif' listed among registered participants of Hackmeeting 2002
+- 🆕 **2002-01-17** · Menzionato · BFi 11-dev file 03 — [[HaCkmEeTiNg] Re: hacking is NOT politics? (vecna, mail thread)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-03)  
+  vecna answers the hackmeeting 'hacking is NOT politics' debate 'after talking only with naif'
+- 🆕 **2002-01-17** · Menzionato · BFi 11-dev file 04 — [Drivers e SEH in Win NT/2000 (valv`0)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-04)  
+  naif in credits/greetings
 
-## 2001 — 1 voci, 0 nuove
+## 2001 — 10 voci, 4 nuove
 
-- ↺ **2001-10-13** · Talk · AntiKrimen Expo — [Area Sicurezza Informatica - Storia e psicologia Hacker](http://fabio.pietrosanti.it/)  
-  Listed in his self-published CV/talk list at fabio.pietrosanti.it
+- 🆕 **2001-10-29** · Menzionato · Apogeonline — [Un raggio di luce su SMAU](https://www.apogeonline.com/articoli/un-raggio-di-luce-su-smau-raoul-chiesa/)  
+  Same Raoul Chiesa report republished on Apogeonline
+- 🆕 **2001-10-25** · Citato · Punto Informatico — [Un raggio di luce su SMAU?](https://www.punto-informatico.it/un-raggio-di-luce-su-smau/)  
+  Raoul Chiesa's report on the SMAU hacking/ICT security roundtable; names 'Fabio Pietrosanti aka Naif di I.NET' as a panelist
+- ↺ **2001-10-13** · Talk · AntiKrimen Expo 2001 - Area Sicurezza Informatica — [Storia e psicologia Hacker](http://fabio.pietrosanti.it/)  
+  Listed on his personal site
+- 🆕 **2001-09-30** · Articolo scritto · BFi n.10 — [i0 FASTWEB E TU?](http://www.s0ftpj.org/bfi/online/bfi10/BFi10-13.html)  
+  Article by naif <naif@blackhats.it> on the security of Fastweb's broadband network
+- 🆕 **2001-09-30** · Menzionato · BFi n.10 — [TCP congestion control e dintorni (vecna)](http://www.s0ftpj.org/bfi/online/bfi10/BFi10-08.html)  
+  naif in greetings; also credited among BFi 10 contributors
+- ↺ **2001-09-26** · Ricerca · vuln-dev — [Re: Cisco PIX Firewall MailGuard Vulnerability](https://seclists.org/vuln-dev/2001/Sep/311)  
+  Follow-up
+- ↺ **2001-09-25** · Ricerca · vuln-dev — [Cisco PIX Firewall MailGuard Vulnerability](https://seclists.org/vuln-dev/2001/Sep/305)  
+  New PIX MailGuard bypass
+- ↺ **2001-03-19** · Ricerca · firewall-wizards — [Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response*](https://seclists.org/firewall-wizards/2001/Mar/120)  
+  Discussion of Cisco's response to his PIX notes
+- ↺ **2001-03-09** · Ricerca · Bugtraq — [Cisco PIX Security Notes](https://seclists.org/bugtraq/2001/Mar/148)  
+  Multiple PIX security notes, signed I.NET SpA Security Staff; MARC: https://marc.info/?l=bugtraq&m=98433390918280&w=2
+- ↺ **2001** · Progetto · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) _(non verificato)_  
+  Association he co-founded; site offline and the Wayback Machine was down during this research
+
+## 2000 — 14 voci, 3 nuove
+
+- 🆕 **2000-11-09** · Ricerca · vuln-dev — [Re: Possible DOS in Bind 8.2.2-P5](https://seclists.org/vuln-dev/2000/Nov/95)  
+  Follow-up in the BIND DoS thread
+- ↺ **2000-11-08** · Ricerca · vuln-dev — [Possible DOS in Bind 8.2.2-P5](https://seclists.org/vuln-dev/2000/Nov/82)  
+  Same BIND DoS, first posted to vuln-dev
+- ↺ **2000-11-07** · Ricerca · Bugtraq — [BIND 8.2.2-P5 Possible DOS](https://seclists.org/bugtraq/2000/Nov/115)  
+  Denial of service in ISC BIND 8.2.2-P5 (CVE-2000-0887)
+- 🆕 **2000-11-03** · Menzionato · BFi n.9 — [Intercettazione delle password inserite senza terminal echo via KLD (vecna)](https://www.s0ftpj.org/bfi/online/bfi9/BFi09-08)  
+  vecna thanks naif for help with the FreeBSD 4.0 kernel module
+- 🆕 **2000-11-03** · Menzionato · BFi n.9 — [LibVSK - librerie per il controllo del traffico a userlevel (vecna)](https://www.s0ftpj.org/bfi/online/bfi9/BFi09-11)  
+  naif listed in greetings
+- ↺ **2000-11** · Ricerca · SecurityFocus BID 1923 — [ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)](https://www.securityfocus.com/bid/1923) _(non verificato)_  
+  BID linked from his site; his name isn't shown on the BID summary page
+- ↺ **2000-10-03** · Ricerca · Bugtraq — [Cisco PIX Firewall allow external users to discover internal IPs](https://seclists.org/bugtraq/2000/Oct/46)  
+  MARC copy: https://marc.info/?l=bugtraq&m=97059440000367&w=2
+- ↺ **2000-10-03** · Ricerca · Bugtraq — [Re: Cisco PIX Firewall (smtp content filtering hack) [Finally resolved]](https://seclists.org/bugtraq/2000/Oct/52)  
+  Closing update on the PIX SMTP issue
+- ↺ **2000-09-20** · Ricerca · Bugtraq — [Re: Cisco PIX Firewall (smtp content filtering hack) - Version 4.2(1) not exploitable](https://seclists.org/bugtraq/2000/Sep/378)  
+  Follow-up on affected PIX versions
+- ↺ **2000-09-19** · Ricerca · Bugtraq — [Cisco PIX Firewall (smtp content filtering hack)](https://seclists.org/bugtraq/2000/Sep/360)  
+  Original PIX MailGuard/SMTP fixup bypass advisory from naif@inet.it (CVE-2000-1022)
+- ↺ **2000-09** · Ricerca · SecurityFocus BID 1698 — [Cisco PIX Firewall SMTP content filtering evasion (BID 1698, CVE-2000-1022)](https://www.securityfocus.com/bid/1698) _(non verificato)_  
+  BID linked from his site; his name isn't shown on the BID summary page
+- ↺ **2000-06-14** · Ricerca · Packet Storm — [sendmail.cf trojan (A sendmail.cf backdoor)](https://packetstormsecurity.com/files/22123/sendmailcftrojan.tar.gz.html) _(non verificato)_  
+  Linked from his site; page now behind an anti-bot redirect, name not confirmed
+- ↺ **2000-06-09** · Ricerca · Bugtraq — [Mailstudio2000 CGI Vulnerabilities [S0ftPj.4]](https://seclists.org/bugtraq/2000/Jun/164)  
+  S0ftPj advisory by FuSyS, Naif and vecna; the mailview file-viewing bug is credited to Naif (CVE-2000-0526)
+- ↺ **2000-06-09** · Ricerca · SecurityFocus BID 1335 — [3R Soft MailStudio 2000 vulnerabilities (BID 1335, CVE-2000-0526)](https://www.securityfocus.com/bid/1335) _(non verificato)_  
+  BID linked from his site; his name isn't shown on the BID summary page
+
+## 1999 — 1 voci, 1 nuove
+
+- 🆕 **1999-12-25** · Menzionato · BFi n.7 — [L'hacker e il magistrato: commenti a lato (BlackBerry & \sPIRIT\)](https://www.s0ftpj.org/bfi/online/bfi7/bfi07-20.html)  
+  Naif thanked among the Italian underground crew
+
+## 1998 — 1 voci, 1 nuove
+
+- 🆕 **1998-12** · Articolo scritto · BFi (Butchered From Inside) n.4 — ["leggeteve questa" by Naif (reader letter)](https://www.s0ftpj.org/bfi/bfi4.tar.gz)  
+  Letter signed 'Naif' in the BFi 4 mail section (net-cafe time-control software); nick matches, attribution likely but not certain
 
 ---
 

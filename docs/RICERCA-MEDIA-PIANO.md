@@ -35,7 +35,7 @@ non la velocità.** Ogni anno dal 1995 deve avere voci.
 
 | Fetta | Voci | Verificate | Note |
 |---|---:|---:|---|
-| slice1 1995–2006 | — | — | in corso a fine sessione |
+| slice1 1995–2006 | 146 (88 post in lista, esclusi) | 136 | nessun budget di ricerca; Wayback offline; quasi zero stampa/TV |
 | slice2 2007–2011 | 186 | 176 | 74 post infosecurity.ch (Wayback), ~78 thread mailing list |
 | slice3 2012–2015 | 86 | 74 | 9 IJF Perugia, Wired, Tor Weekly News |
 | slice4 2016–2020 | 44 | 31 | budget esaurito presto |
@@ -49,7 +49,8 @@ Paper svedese ricordato da Fabio: **trovato** — Winter & Lindskog (Karlstad Un
 ## Lacune da coprire nelle prossime sessioni
 
 ### Per periodo
-- **1995–2006**: verificare l'esito di slice1; Punto Informatico, Zeus News, BFi, Sikurezza.org,
+- **1995–2006**: da verificare anno del libro «Il software libero in Italia» (Shake; 2006 è un segnaposto),
+  lettera firmata «Naif» su BFi 4 (1998, da confermare), blackhats.it / naif.itapac.net / lns.it via Wayback; Punto Informatico, Zeus News, BFi, Sikurezza.org,
   Italian Black Hats, hackmeeting, MOCA 2004, SMAU, Infosecurity, rassegne stampa, TG2/Studio
   Aperto/TG3, Radio Montecarlo, libro "Il software libero in Italia".
 - **2007–2011**: stampa italiana su intercettazioni e PrivateGSM (Corriere, Repubblica, Panorama,
