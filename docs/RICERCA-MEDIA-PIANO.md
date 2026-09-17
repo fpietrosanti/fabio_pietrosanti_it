@@ -58,9 +58,28 @@ Paper svedese ricordato da Fabio: **trovato** — Winter & Lindskog (Karlstad Un
 Totale dopo il secondo giro: **453 voci** deduplicate, tutti gli anni dal 1998 al 2026 hanno almeno una voce
 (2024 e 2025 una sola ciascuno).
 
-### Da decidere con Fabio
-- Pagina Monitora PA «1311 nuove PEC» (2022): mostra data di nascita e codice fiscale → trattenuta nel repo privato.
-- Copertura OpenRousseau / M5S (Domani 2020 sull'espulsione, inchiesta Wired su Rousseau): non inserita, questione politica interna.
+### Decisioni di Fabio (2026-09-17)
+- Siti del passato: madoka 1999 pubblicato così com'è; CV 2003 con data di nascita completa: ok. **Pubblicati.**
+- Pagina Monitora PA «1311 nuove PEC» (2022, data di nascita e codice fiscale): **esclusa**.
+- **OpenRousseau / M5S: da documentare**, inclusa l'espulsione (Domani 2020) e l'**articolo di Raffaele Angius**
+  sulla ricerca della doppia iscrizione al M5S.
+
+## Nuovo obiettivo: copia offline di tutto (2026-09-17)
+
+Per ogni fonte (articolo, paper, intervista, video, audio) il sito mostrerà **link alla fonte + copia locale**.
+- Ogni voce di `data/media.json` riceve una copia: pagina originale (live o Web Archive), testo estratto,
+  metadati (da dove, quando, hash, se il nome compare nella copia).
+- Serve un **report sempre aggiornato**: fonti ottenute in locale e fonti **non** ottenute, con il motivo
+  (paywall, solo JavaScript, rimossa e mai archiviata, video/audio non scaricato, bloccata da bot).
+- Tecniche per i siti solo-JavaScript: ricerca mirata `site:dominio "Pietrosanti"` sul motore di ricerca,
+  poi copia dal Web Archive (`/web/<data>id_/<url>`); se la pagina non è archiviata, lettura dal DOM col browser.
+- Tempi: giorni o settimane, finché l'obiettivo è raggiunto.
+
+## TODO futuri
+- **CRVD voto elettronico**: replica dal Web Archive e rimessa online (progetto a parte, da pianificare).
+- **LinkedIn — sezione Progetti** (EN master + zh_CN), testi da proporre a Fabio prima di pubblicarli:
+  - **Monitora PA**: breve indicazione dei risultati ottenuti nella rimozione di Google Analytics dalla PA.
+  - **OpenRousseau**.
 
 ## Lacune da coprire nelle prossime sessioni
 
