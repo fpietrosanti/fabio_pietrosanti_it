@@ -90,7 +90,7 @@ def matches_baseline(item, baseline):
         if item.get("year") == b["year"]:
             bt = norm_title(b["title"])
             words = [w for w in bt.split() if len(w) > 4]
-            if words and sum(w in t or w in norm_title(item.get("outlet", "")) + " " + norm_title(item.get("note", "")) for w in words) >= max(2, len(words) // 2):
+            if words and sum(w in t or w in norm_title(item.get("outlet", "")) + " " + norm_title(item.get("note", "")) for w in words) >= max(3, (len(words) * 3 + 4) // 5):
                 return True
     return False
 
@@ -238,7 +238,7 @@ def main():
     baseline = parse_baseline()
     raw, items = merge(files)
     for i in items:
-        i["on_old_site"] = bool(i.get("known")) or matches_baseline(i, baseline)
+        i["on_old_site"] = matches_baseline(i, baseline)
         i.pop("_slice", None)
     items.sort(key=lambda i: (i["year"] or 0, str(i.get("date") or "")))
     (ROOT / "data").mkdir(exist_ok=True)

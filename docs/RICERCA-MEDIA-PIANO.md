@@ -46,6 +46,22 @@ non la velocità.** Ogni anno dal 1995 deve avere voci.
 Paper svedese ricordato da Fabio: **trovato** — Winter & Lindskog (Karlstad University),
 "How China Is Blocking Tor", arXiv aprile 2012 / USENIX FOCI '12 (lo cita e lo ringrazia).
 
+## Stato secondo giro (2026-09-17)
+
+| Passata | Nuove voci | Note |
+|---|---:|---|
+| pass2_a 1995–2008 | 21 | La Stampa 2002, Win Magazine e PuntoSicuro 2003 (articoli suoi), Hacker Journal, PC Professionale 2008 |
+| pass2_b 2009–2015 | 27 | Data Manager 2010, Repubblica 2015, Motherboard 2014, Wired Italia 2014; ricerca JS dei quotidiani da fare col browser |
+| pass2_c 2016–2026 | 44 (+1 trattenuta) | Radio 24 2018, Euronews 2018, Kaspersky 2022, e-voting Lombardia 2017, WeChat TimePie 2026 |
+| pass2_d accademico | 6 | 2 brevetti Khamsa (2008), studi Parlamento europeo 2017 e 2023 |
+
+Totale dopo il secondo giro: **453 voci** deduplicate, tutti gli anni dal 1998 al 2026 hanno almeno una voce
+(2024 e 2025 una sola ciascuno).
+
+### Da decidere con Fabio
+- Pagina Monitora PA «1311 nuove PEC» (2022): mostra data di nascita e codice fiscale → trattenuta nel repo privato.
+- Copertura OpenRousseau / M5S (Domani 2020 sull'espulsione, inchiesta Wired su Rousseau): non inserita, questione politica interna.
+
 ## Lacune da coprire nelle prossime sessioni
 
 ### Per periodo

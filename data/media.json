@@ -48,7 +48,7 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2000-06-09",
@@ -82,7 +82,24 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
+ },
+ {
+  "date": "2000-08-03",
+  "year": 2000,
+  "type": "paper",
+  "outlet": "SANS GIAC (GSEC practical assignment)",
+  "title": "An Elementary Introduction to Sendmail (Jay Coleson)",
+  "url": "https://web.archive.org/web/20040727111838/http://www.giac.org/practical/Jay_Coleson_GSEC.doc",
+  "language": "en",
+  "role": "cited",
+  "note": "Reference [23] 'Naif. sendmailcftrojan.tar.gz. Packetstorm archives' - GIAC certification paper citing his sendmail.cf trojan (listed on his 2003 Tech page)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2000-09",
@@ -116,7 +133,7 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2000-09-20",
@@ -133,7 +150,7 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2000-10-03",
@@ -150,7 +167,7 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2000-10-03",
@@ -167,7 +184,7 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2000-11",
@@ -235,7 +252,7 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2000-11-08",
@@ -252,7 +269,7 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2000-11-09",
@@ -286,7 +303,24 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
+ },
+ {
+  "date": "2001-01-26",
+  "year": 2001,
+  "type": "quoted",
+  "outlet": "Corriere della Sera (ed. nazionale, p. 25, Cronache)",
+  "title": "Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma pirati'",
+  "url": "https://archivio.corriere.it/Archivio/interface/landing.html",
+  "language": "it",
+  "role": "quoted",
+  "note": "Corriere archive API: this is the only 1995-2012 article matching both 'Pietrosanti' and 'hacker', and it ranks first for 'Fabio Pietrosanti'; subhead cites an unnamed 'esperto' (likely him, then at I.NET). Full text is behind the archive login and was not read - verify manually",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2001-03-09",
@@ -354,7 +388,24 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
+ },
+ {
+  "date": "2001-09-30",
+  "year": 2001,
+  "type": "mentioned",
+  "outlet": "BFi (Butchered From Inside) n.10 - editorial/index file",
+  "title": "BFi numero 10, file 1 di 18: indice e redazione (naif listed in the editorial staff)",
+  "url": "https://www.s0ftpj.org/bfi/online/bfi10/BFi10-01.html",
+  "language": "it",
+  "role": "acknowledged",
+  "note": "naif listed among BFi redazione (Cavallo, CyRaX, Kundera, NeURo, Raistlin, vecna...) and as author of BFi10-13 'i0 FASTWEB E TU?'",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2001-09-30",
@@ -405,6 +456,23 @@
   "_slices": [
    "slice1_1995_2006",
    "slice6_media_archives"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2001-10-22",
+  "year": 2001,
+  "type": "talk",
+  "outlet": "Italian Black Hats (blackhats.it) - SMAU 2001, Fiera di Milano",
+  "title": "Sicurezza & Underground knowledge: le evoluzioni della I.C.T. Security (prima conferenza pubblica di Blackhats.it)",
+  "url": "https://web.archive.org/web/20050908171058/http://www.blackhats.it/it/eventi.html",
+  "language": "it",
+  "role": "speaker",
+  "note": "ITBH launch panel in SMAU Area Security; Naif spoke on 'hacking come fenomeno sociale' (with Raoul Chiesa/Nobody, Raptor, Koba, A. Scartezzini)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
   ],
   "on_old_site": true
  },
@@ -477,6 +545,40 @@
   "on_old_site": false
  },
  {
+  "date": "2002-03-17",
+  "year": 2002,
+  "type": "talk",
+  "outlet": "CeAS - Centro Alti Studi Lotta al Terrorismo, 'Rivoluzione connettiva e sicurezza'",
+  "title": "Il ruolo dei carrier nella security (Fabio Pietrosanti, Network Security Manager I.NET S.p.A.)",
+  "url": "https://web.archive.org/web/2003/http://www.1ceas.org/rel2002/marzo/marzo.htm",
+  "language": "it",
+  "role": "speaker",
+  "note": "Organiser's programme page confirming the talk; improves existing item that pointed only to fabio.pietrosanti.it",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2002-03-30",
+  "year": 2002,
+  "type": "mentioned",
+  "outlet": "BFi 11-dev file 08 (s0ftpj)",
+  "title": "FASTWEB: vorrete dirlo a tutti (round 1) - tHE rECIdjVO",
+  "url": "https://www.s0ftpj.org/bfi/dev/BFi11-dev-08.tar.gz",
+  "language": "it",
+  "role": "cited",
+  "note": "Recommends 'l'articolo di naif su Fastweb [BFi10-13]' as prerequisite; reprinted as BFi11-08 in BFi n.11 (23/12/2003, https://www.s0ftpj.org/bfi/bfi11.tar.gz)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2002-06",
   "year": 2002,
   "type": "other",
@@ -490,6 +592,23 @@
   "known": false,
   "_slices": [
    "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2002-07-05",
+  "year": 2002,
+  "type": "talk",
+  "outlet": "Sikurezza.org @ Webb.it 02, Padova Fiere",
+  "title": "Presentazione sikurezza.org (Fabio Pietrosanti 'naif', Stefano Venturoli)",
+  "url": "https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html",
+  "language": "it",
+  "role": "speaker",
+  "note": "Sikurezza.org space at Webbit 2002 (5-7 July), which he organised; slides sikurezza_org.pdf; also ran the 'Secure Administration' contest",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
   ],
   "on_old_site": false
  },
@@ -529,6 +648,57 @@
   "on_old_site": true
  },
  {
+  "date": "2002-10-09",
+  "year": 2002,
+  "type": "mentioned",
+  "outlet": "La Stampa (archivio storico, ed. 9 ottobre 2002, p. 3)",
+  "title": "Gli «ethical hackers» si ritrovano in Blackhats.it (box 'Le guide III')",
+  "url": "http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,3/articleid,0306_01_2002_0276_0074_2761193/",
+  "language": "it",
+  "role": "subject",
+  "note": "Profile box on Italian Black Hats members: 'Naif, cioe' Fabio Pietrosanti, ha 22 anni...' alongside Raistlin/Stefano Zanero; published in the 'Vivere Milano' section alongside the wardriving inquiry; full-page OCR also at https://archive.org/details/lastampa_2002-10-09 (name OCR'd 'Pietrasanti')",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2002-10-09",
+  "year": 2002,
+  "type": "quoted",
+  "outlet": "La Stampa - Vivere Milano (9 ottobre 2002, p. 3)",
+  "title": "Nelle strade di Milano a caccia di reti da violare (inchiesta sul wardriving, di Alessandro Calderoni)",
+  "url": "http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,3/articleid,0306_01_2002_0276_0074_2761192/",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Journalist tours Milan by car with Raistlin, Naif and Vodka (Italian Black Hats) to test wireless networks; Naif quoted ('L'hacker e' un curioso, innanzitutto...'); verified via IA OCR https://archive.org/details/lastampa_2002-10-09",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2002-10-10",
+  "year": 2002,
+  "type": "mentioned",
+  "outlet": "Hacker Journal n.10 (WLF Publishing)",
+  "title": "HJ ha surfato per voi: blackhats.it",
+  "url": "https://archive.org/details/hackerjournal-10",
+  "language": "it",
+  "role": "subject",
+  "note": "Site review of blackhats.it naming members 'Raoul Chiesa (Nobody) e Alessio Orlandi (Naif)' - nick cited, real name misattributed by the magazine; pages dated 2-10-2002; issue on newsstands ~10-24 Oct 2002 (n.11 is 24 Oct-7 Nov 2002)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2002-10-10",
   "year": 2002,
   "type": "interview",
@@ -544,6 +714,23 @@
    "slice1_1995_2006"
   ],
   "on_old_site": true
+ },
+ {
+  "date": "2002-10-24",
+  "year": 2002,
+  "type": "mentioned",
+  "outlet": "Hacker Journal n.11 (24 ottobre-7 novembre 2002)",
+  "title": "News: reti wireless aperte - indagine sul campo a Milano da Naif e Vodka per conto di Portel; Etica hacker a SMAU02",
+  "url": "https://archive.org/details/hackerjournal-11",
+  "language": "it",
+  "role": "subject",
+  "note": "Reports the Portel wardriving survey by Naif and Vodka (18 access points in one hour, 12 without WEP) and the ITBH Ethical Hackers' Speech at SMAU 2002; pages dated 16-10-2002",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2002-10-30",
@@ -563,6 +750,74 @@
   "on_old_site": true
  },
  {
+  "date": "2003-01",
+  "year": 2003,
+  "type": "article_by",
+  "outlet": "Win Magazine n.48 (Edizioni Master), gennaio 2003",
+  "title": "Caccia alle reti wireless - Lo sviluppo delle reti Wi-Fi cresce giorno dopo giorno, ma emergono nuovi problemi di sicurezza (di Fabio Pietrosanti e Yvette Agostini)",
+  "url": "https://archive.org/details/win-magazine-italia-48",
+  "language": "it",
+  "role": "author",
+  "note": "Co-authored with Yvette Agostini, bylined as members of the Italian Blackhats association; verified in IA OCR text",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2003-02-10",
+  "year": 2003,
+  "type": "article_by",
+  "outlet": "PuntoSicuro",
+  "title": "Wireless Lan, la sicurezza dell'insicurezza",
+  "url": "https://www.puntosicuro.it/security-C-124/sicurezza-informatica-C-90/wireless-lan-la-sicurezza-dell-insicurezza-AR-2853/",
+  "language": "it",
+  "role": "author",
+  "note": "'A cura di Fabio Pietrosanti', GNU/FDL-licensed article on 802.11b WLAN insecurity and countermeasures; PuntoSicuro was one of the outlets listed on his 2003 homepage",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2003-05-10",
+  "year": 2003,
+  "type": "talk",
+  "outlet": "Webbit03, Padova Fiere",
+  "title": "Wireless (in)Security: problemi di sicurezza dell'802.11b",
+  "url": "https://web.archive.org/web/20040209212540/http://fabio.pietrosanti.it/curriculum.shtml",
+  "language": "it",
+  "role": "speaker",
+  "note": "Listed in his 2003 CV conference list (not in media.json; Webbit 04 talks are)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2003-11",
+  "year": 2003,
+  "type": "mentioned",
+  "outlet": "Hacker Journal n.38 (WLF Publishing)",
+  "title": "Fastweb hacking article: 'Il metodo individuato da naif (pubblicato su BFi, Butchered from Inside) si basava sull'utilizzo dell'ftp passivo'",
+  "url": "https://archive.org/details/hackerjournal-38",
+  "language": "it",
+  "role": "cited",
+  "note": "Cites his BFi10-13 Fastweb NAT-bypass technique; same issue has a feature on Italian Black Hats (closed 6 March 2003). Issue date approximate (late 2003). Note: the Harry Potter news item in this issue refers to Paolo Pietrosanti, not Fabio",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2003-11-05",
   "year": 2003,
   "type": "talk",
@@ -579,6 +834,23 @@
    "slice6_media_archives"
   ],
   "on_old_site": true
+ },
+ {
+  "date": "2003-12-23",
+  "year": 2003,
+  "type": "mentioned",
+  "outlet": "BFi (Butchered From Inside) n.11",
+  "title": "BFi numero 11 (collected issue): reprints naif mentions in BFi11-02 (hacking is NOT politics thread), BFi11-08 (Fastweb round 1, cites naif's article), BFi11-15 (greetz)",
+  "url": "https://www.s0ftpj.org/bfi/bfi11.tar.gz",
+  "language": "it",
+  "role": "cited",
+  "note": "Final collected issue of BFi 11 dev articles (dev-03/04/08 already individually tracked); verified in the tarball text",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2004-03-14",
@@ -631,7 +903,7 @@
    "slice1_1995_2006",
    "slice6_media_archives"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2005-05-28",
@@ -667,7 +939,7 @@
    "slice1_1995_2006",
    "slice6_media_archives"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2005-05-28",
@@ -684,7 +956,7 @@
   "_slices": [
    "slice1_1995_2006"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2005-05-28",
@@ -736,7 +1008,7 @@
    "slice1_1995_2006",
    "slice6_media_archives"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2006-02-08",
@@ -861,19 +1133,19 @@
   "on_old_site": false
  },
  {
-  "date": "2008",
-  "year": 2008,
+  "date": "2007-10-04",
+  "year": 2007,
   "type": "mentioned",
-  "outlet": "Punto Informatico (download)",
-  "title": "OSXCrypt | Download e installazione",
-  "url": "https://www.punto-informatico.it/download/osxcrypt/",
+  "outlet": "mgpf.it (Matteo Flora blog)",
+  "title": "Wardriving a Milano - WarBiking nella metropoli",
+  "url": "https://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli.html",
   "language": "it",
-  "role": "subject",
-  "note": "Download page for OSXCrypt naming Pietrosanti among its three Italian developers",
+  "role": "cited",
+  "note": "Warbiking survey of Milan explicitly builds on the 2002 Portel city survey by Yvette Agostini and Fabio Pietrosanti",
   "verified": true,
   "known": false,
   "_slices": [
-   "slice2_2007_2011"
+   "pass2_a_1995_2008"
   ],
   "on_old_site": false
  },
@@ -891,6 +1163,92 @@
   "known": false,
   "_slices": [
    "slice2_2007_2011"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2008-02-05",
+  "year": 2008,
+  "type": "mentioned",
+  "outlet": "Punto Informatico (PI Download review), via mgpf.it",
+  "title": "OsxCrypt review on PI Download (pidownload.it p.aspx?is=2179579)",
+  "url": "https://www.punto-informatico.it/download/osxcrypt/",
+  "language": "it",
+  "role": "subject",
+  "note": "Matteo Flora's post 'OSXCrypt sul Punto Informatico' (05.02.2008, https://mgpf.it/2008/02/05/osxcrypt-sul-punto-informatico.html) dates the PI review naming Flora, Pietrosanti, Bassotto; improves existing (date only)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008",
+   "slice2_2007_2011"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2008-02-05",
+  "year": 2008,
+  "type": "patent",
+  "outlet": "Ufficio Italiano Brevetti e Marchi (Italian patent application ITRM20060425A1, filed 2006-08-04), assignee Khamsa Italia S.r.l.",
+  "title": "Techniques of safe management multi identity for centralized messaging services",
+  "url": "https://patents.google.com/patent/ITRM20060425A1/en",
+  "language": "it",
+  "role": "co-author",
+  "note": "PATENT (not a paper; type set to report for lack of a patent type). Inventors: Lorenzo Boccaccia, Federico Moro, Fabio Pietrosanti; assignee Khamsa Italia S.r.l. (the company later PrivateWave). Priority/filing 2006-08-04, published 2008-02-05. Google Patents page read (inventor list). Title as shown (English machine translation) on Google Patents; original Italian title not seen.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_d_academic"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2008-02-07",
+  "year": 2008,
+  "type": "patent",
+  "outlet": "WIPO PCT patent application WO2008015723 (A2 2008-02-07, A3 2008-04-10); European application EP2057777A2 (published 2009-05-13); assignee Khamsa Italia S.r.l.",
+  "title": "Method of recording a not repudiable digital transmission of information and identifying the participants in the communication",
+  "url": "https://patents.google.com/patent/WO2008015723A2/en",
+  "language": "en",
+  "role": "co-author",
+  "note": "PATENT (type set to report for lack of a patent type). Inventors: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti; assignee Khamsa Italia S.r.l. PCT/IT2007/000565 filed 2007-08-03, priority 2006-08-04. Multimedia protocol with asymmetric keys to verify identity of communication participants. EP family member: https://patents.google.com/patent/EP2057777A2/en (both pages read). Found via OpenAIRE (Lens.org record WO_2008015723_A3).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_d_academic"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2008-06",
+  "year": 2008,
+  "type": "mentioned",
+  "outlet": "PC Professionale n.207 (giugno 2008)",
+  "title": "L'intervista (Philip Zimmermann / Zfone) - box 'Nei Khamsa Labs si studia come rendere sicure le comunicazioni telefoniche'",
+  "url": "https://archive.org/details/pcprofessionale207",
+  "language": "it",
+  "role": "subject",
+  "note": "Box on Khamsa (founded 2005, 'Federico Moro e Fabio Pietrosanti', Politecnico di Milano incubator, 2M euro funding in 2007, Khamsa Labs) accompanying an interview with Phil Zimmermann",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2008-12-15",
+  "year": 2008,
+  "type": "book_chapter",
+  "outlet": "Shake Edizioni (collana Cyberpunkline)",
+  "title": "Il software libero in Italia, a cura di Andrea Glorioso - contributo di Fabio 'naif' Pietrosanti (sicurezza)",
+  "url": "https://shake.it/libri/il-software-libero-in-italia/",
+  "language": "it",
+  "role": "author",
+  "note": "Publisher page lists 'Fabio naif Pietrosanti' among contributors; ISBN 9788888865768, 158-160 pp.; IBS and LibreriaUniversitaria give publication date 15 Dec 2008 - improves existing (placeholder year 2006/2004)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
   ],
   "on_old_site": false
  },
@@ -927,7 +1285,7 @@
    "slice2_2007_2011",
    "slice6_media_archives"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2009-05-22",
@@ -1528,6 +1886,23 @@
  },
  {
   "date": "2010",
+  "type": "radio",
+  "outlet": "Radio Monte Carlo",
+  "title": "FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wave, come funziona tecnicamente l'intercettazione?",
+  "url": "https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Audio interview on how wiretapping works; page now 404, date unknown (PrivateWave era, 2009-2012)",
+  "verified": false,
+  "known": false,
+  "year": 2010,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2010",
   "year": 2010,
   "type": "other",
   "outlet": "SlideShare profile fpietrosanti",
@@ -1592,7 +1967,7 @@
   "_slices": [
    "slice2_2007_2011"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2010-02-01",
@@ -1609,7 +1984,7 @@
   "_slices": [
    "slice2_2007_2011"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2010-02-01",
@@ -1643,7 +2018,7 @@
   "_slices": [
    "slice2_2007_2011"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2010-02-01",
@@ -1663,7 +2038,7 @@
   "mirrors": [
    "https://www.theregister.co.uk/2010/02/01/voice_crypto_test_row_phreak_out/"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2010-02-02",
@@ -1687,6 +2062,23 @@
   "on_old_site": false
  },
  {
+  "date": "2010-02-24",
+  "type": "video",
+  "outlet": "Cellulare Magazine (CMAG)",
+  "title": "PrivateWave di Khamsa contro le intercettazioni",
+  "url": "https://www.youtube.com/watch?v=EJVK8nB7yAM",
+  "language": "it",
+  "role": "subject",
+  "note": "Cellulare-Magazine.it video on PrivateWave voice encryption; his appearance not confirmed",
+  "verified": false,
+  "known": false,
+  "year": 2010,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2010-03-17",
   "year": 2010,
   "type": "slides",
@@ -1703,6 +2095,57 @@
    "slice6_media_archives"
   ],
   "on_old_site": true
+ },
+ {
+  "date": "2010-03-25",
+  "type": "video",
+  "outlet": "TVtech / Hardware Upgrade",
+  "title": "PrivateWave: comunicazioni sicure al cellulare",
+  "url": "https://www.youtube.com/watch?v=L4beB3qQjVw",
+  "language": "it",
+  "role": "interviewee",
+  "note": "TV-tech interview with 'gli esperti di Khamsa' on PrivateWave anti-wiretap solutions; likely Pietrosanti (CTO) but name not in description",
+  "verified": false,
+  "known": false,
+  "year": 2010,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2010-04-12",
+  "type": "article_by",
+  "outlet": "Data Manager Online",
+  "title": "Intercettazioni e molto di più",
+  "url": "https://www.datamanager.it/news/sicurezza/intercettazioni-e-molto-di-pi",
+  "language": "it",
+  "role": "author",
+  "note": "Article on wiretapping and voice-encryption technologies written by Fabio Pietrosanti after his Security Summit Milan talk",
+  "verified": true,
+  "known": false,
+  "year": 2010,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2010-04-20",
+  "type": "quoted",
+  "outlet": "Data Manager (rivista)",
+  "title": "Khamsa: chiamate cifrate tra cellulari",
+  "url": "https://www.datamanager.it/rivista/privategsm/khamsa-chiamate-cifrate-tra-cellulari",
+  "language": "it",
+  "role": "quoted",
+  "note": "PrivateGSM launch; quoted as IT security expert, inventor of the solution, founding partner and technical lead of Khamsa",
+  "verified": true,
+  "known": false,
+  "year": 2010,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2010-04-20",
@@ -1735,6 +2178,23 @@
   "known": false,
   "_slices": [
    "slice2_2007_2011"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2010-05",
+  "type": "mentioned",
+  "outlet": "Cellulare Magazine (print, via SlideShare PrivateWave)",
+  "title": "PrivateGSM e parli con tutti",
+  "url": "https://www.slideshare.net/slideshow/cellulare-magazine-privategsm-e-parli-con-tutti/3920453",
+  "language": "it",
+  "role": "subject",
+  "note": "May 2010 magazine review of encrypted phones incl. PrivateGSM (his product); he is not named",
+  "verified": false,
+  "known": false,
+  "year": 2010,
+  "_slices": [
+   "pass2_b_2009_2015"
   ],
   "on_old_site": false
  },
@@ -2026,7 +2486,7 @@
   "_slices": [
    "slice2_2007_2011"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2010-07-19",
@@ -2112,7 +2572,7 @@
   "_slices": [
    "slice2_2007_2011"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2010-09-01",
@@ -2283,7 +2743,7 @@
   "_slices": [
    "slice2_2007_2011"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2010-10-21",
@@ -2317,7 +2777,24 @@
   "_slices": [
    "slice2_2007_2011"
   ],
-  "on_old_site": true
+  "on_old_site": false
+ },
+ {
+  "date": "2010-11-02",
+  "type": "talk",
+  "outlet": "SlideShare (PrivateWave Italia)",
+  "title": "Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryption AGT)",
+  "url": "https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072",
+  "language": "en",
+  "role": "speaker",
+  "note": "Slides by Fabio Pietrosanti, CTO PrivateWave (PrivateGSM, ZRTP); date from upload",
+  "verified": true,
+  "known": false,
+  "year": 2010,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2011",
@@ -2425,7 +2902,7 @@
   "_slices": [
    "slice2_2007_2011"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2011-01-15",
@@ -2492,6 +2969,23 @@
   "known": false,
   "_slices": [
    "slice2_2007_2011"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2011-01-31",
+  "type": "mentioned",
+  "outlet": "ReadWriteWeb",
+  "title": "Egypt's Communications Crisis: An Update (Update: Noor Down)",
+  "url": "https://readwrite.com/egypts_communications_crisis_an_update/",
+  "language": "en",
+  "role": "cited",
+  "note": "Update on Egypt's internet shutdown cites and links his tweet (@fpietrosanti) as a source that Noor ISP went down; name appears only via the linked handle",
+  "verified": true,
+  "known": false,
+  "year": 2011,
+  "_slices": [
+   "pass2_b_2009_2015"
   ],
   "on_old_site": false
  },
@@ -2582,6 +3076,23 @@
   "on_old_site": false
  },
  {
+  "date": "2011-04-22",
+  "type": "video",
+  "outlet": "La Stampa (YouTube channel)",
+  "title": "globaleaks ok",
+  "url": "https://www.youtube.com/watch?v=V15zXYu5Xgw",
+  "language": "it",
+  "role": "subject",
+  "note": "La Stampa video on GlobaLeaks uploaded right after IJF 2011 (where he spoke); no description, his appearance not confirmed",
+  "verified": false,
+  "known": false,
+  "year": 2011,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2011-08-10",
   "year": 2011,
   "type": "project",
@@ -2596,7 +3107,7 @@
   "_slices": [
    "slice2_2007_2011"
   ],
-  "on_old_site": true
+  "on_old_site": false
  },
  {
   "date": "2011-08-10",
@@ -2738,6 +3249,23 @@
   "on_old_site": false
  },
  {
+  "date": "2012-04-14",
+  "year": 2012,
+  "type": "quoted",
+  "outlet": "Corriere.it (via Hermes Center press archive)",
+  "title": "Il software (democratico) che tutela le fonti",
+  "url": "https://web.archive.org/web/20190823061034/https://www.hermescenter.org/corriere-it-il-software-democratico-che-tutela-le-fonti/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Out of slice (2012); Corriere.it article on GlobaLeaks reproduced on Hermes press page, quotes Pietrosanti; original Corriere URL not found",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2012-04-17",
   "year": 2012,
   "type": "video",
@@ -2786,6 +3314,40 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2012-05-01",
+  "type": "video",
+  "outlet": "Il Fatto Quotidiano",
+  "title": "Festival del Giornalismo 2012, il videodiario",
+  "url": "https://www.ilfattoquotidiano.it/2012/05/01/festival-giornalismo-2012-videodiario/214235/",
+  "language": "it",
+  "role": "interviewee",
+  "note": "IJF 2012 video diary: 'ci siamo fatti mettere in guardia dall'esperto di sicurezza informatica Fabio Pietrosanti'",
+  "verified": true,
+  "known": false,
+  "year": 2012,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2012-06-13",
+  "type": "mentioned",
+  "outlet": "Il Fatto Quotidiano",
+  "title": "Hacks Hackers, nuove tecnologie e giornalismo questa sera a Milano",
+  "url": "https://www.ilfattoquotidiano.it/2012/06/13/hacks-hackers-nuove-tecnologie-e-giornalismo-questa-sera-a-milano/261989/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Announces Hacks/Hackers Milano meetup with Claudio Agosti and Fabio Pietrosanti of GlobaLeaks as guests",
+  "verified": true,
+  "known": false,
+  "year": 2012,
+  "_slices": [
+   "pass2_b_2009_2015"
   ],
   "on_old_site": false
  },
@@ -3209,6 +3771,23 @@
   "on_old_site": false
  },
  {
+  "date": "2013-09-09",
+  "type": "quoted",
+  "outlet": "Punto Informatico",
+  "title": "Publeaks protegge le soffiate dalla Rete",
+  "url": "https://www.punto-informatico.it/publeaks-protegge-le-soffiate-dalla-rete/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Mauro Vecchio on Publeaks NL (GlobaLeaks); Pietrosanti quoted on JavaScript/usability",
+  "verified": true,
+  "known": false,
+  "year": 2013,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2013-09-18",
   "year": 2013,
   "type": "mentioned",
@@ -3314,6 +3893,23 @@
   "on_old_site": false
  },
  {
+  "date": "2014-01-22",
+  "type": "quoted",
+  "outlet": "Wired Italia",
+  "title": "Kiev, se il governo reprime le proteste via sms",
+  "url": "https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Quoted as security and telephony expert on mobile location tracking of protesters",
+  "verified": true,
+  "known": false,
+  "year": 2014,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2014-03-27",
   "year": 2014,
   "type": "report",
@@ -3345,6 +3941,23 @@
   "_slices": [
    "slice3_2012_2015",
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2014-04-23",
+  "type": "mentioned",
+  "outlet": "The Tor Project blog - Tor Weekly News",
+  "title": "Tor Weekly News — April 23rd, 2014",
+  "url": "https://blog.torproject.org/tor-weekly-news-april-23rd-2014/",
+  "language": "en",
+  "role": "subject",
+  "note": "Reports his tor-dev question on starting Tor from Python via ctypes to sandbox apps with AppArmor",
+  "verified": true,
+  "known": false,
+  "year": 2014,
+  "_slices": [
+   "pass2_b_2009_2015"
   ],
   "on_old_site": false
  },
@@ -3504,6 +4117,23 @@
   "on_old_site": false
  },
  {
+  "date": "2014-05-17",
+  "year": 2014,
+  "type": "talk",
+  "outlet": "vicino/lontano - Friuli Future Forum (Udine)",
+  "title": "Workshop #2: Su Facebook, ma non senza privacy",
+  "url": "https://www.vicinolontano.it/eventi/workshop-2-su-facebook-ma-non-senza-privacy/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Out of slice (2014); companion of the already-known Workshop #1, with Claudio Agosti",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2014-06-11",
   "year": 2014,
   "type": "quoted",
@@ -3539,6 +4169,23 @@
   "on_old_site": false
  },
  {
+  "date": "2014-08-27",
+  "type": "quoted",
+  "outlet": "Motherboard (VICE)",
+  "title": "Inside SS7, the Insecure Global Cell Network That's Used to Track Phones",
+  "url": "https://www.vice.com/en/article/inside-ss7-the-insecure-global-cell-network-thats-used-to-track-phones/",
+  "language": "en",
+  "role": "quoted",
+  "note": "Extensively quoted as mobile security expert (Hermes Center) on SS7 location tracking and Verint SkyLock",
+  "verified": true,
+  "known": false,
+  "year": 2014,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2014-09-17",
   "year": 2014,
   "type": "mentioned",
@@ -3555,6 +4202,40 @@
   ],
   "mirrors": [
    "https://lwn.net/Articles/612209/"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2014-10-28",
+  "type": "interview",
+  "outlet": "techPresident (Personal Democracy Media)",
+  "title": "Anti-Corruption Alert, a Secure Platform For Public Servants Willing to Blow the Whistle",
+  "url": "http://techpresident.com/news/25320/anti-corruption-alert-safe-platform-public-servants-willing-blow-whistle",
+  "language": "en",
+  "role": "interviewee",
+  "note": "Antonella Napolitano on Transparency International Italia's ALAC; quoted repeatedly as Hermes Center president and GlobaLeaks creator; verified via Wayback",
+  "verified": true,
+  "known": false,
+  "year": 2014,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2014-11-25",
+  "type": "quoted",
+  "outlet": "Wired Italia",
+  "title": "Tor è ancora anonimo?",
+  "url": "https://www.wired.it/internet/web/2014/11/25/tor-anonimo/",
+  "language": "it",
+  "role": "quoted",
+  "note": "After Operation Onymous and traffic-correlation study; quoted as Hermes Center, works on Tor projects",
+  "verified": true,
+  "known": false,
+  "year": 2014,
+  "_slices": [
+   "pass2_b_2009_2015"
   ],
   "on_old_site": false
  },
@@ -3609,6 +4290,23 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2015-01",
+  "year": 2015,
+  "type": "report",
+  "outlet": "Dyne.org (software manual)",
+  "title": "Jaro Mail 3.2 manual",
+  "url": "https://archive.org/details/manualzilla-id-5679480",
+  "language": "en",
+  "role": "acknowledged",
+  "note": "Denis 'Jaromil' Roio (Dyne.org), manual of the Jaro Mail email client v3.2 (tag v3.2 dated 2015-01-25 on github.com/dyne/JaroMail). Acknowledgements thank '... Anatole Shaw, Francesco Politi and Fabio Pietrosanti for early testing and debugging'. Seen via Internet Archive full-text search snippet (copy uploaded to archive.org from manualzilla); not an academic work, a software documentation acknowledgement. Authorship of manual assumed from project, not read.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_d_academic"
   ],
   "on_old_site": false
  },
@@ -3994,6 +4692,23 @@
   "on_old_site": false
  },
  {
+  "date": "2015-07-16",
+  "type": "quoted",
+  "outlet": "la Repubblica (Repubblica.it Tecnologia)",
+  "title": "Tante aziende e poche regole: il Far West della sorveglianza digitale",
+  "url": "https://www.repubblica.it/tecnologia/sicurezza/2015/07/16/news/tante_aziende_poche_regole_il_far_west_dell_intelligence-119217185/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Rosita Rijtano, post Hacking Team leak; extensively quoted as Hermes Center co-founder on surveillance vendors",
+  "verified": true,
+  "known": false,
+  "year": 2015,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2015-08",
   "year": 2015,
   "type": "project",
@@ -4028,6 +4743,23 @@
   "on_old_site": false
  },
  {
+  "date": "2015-08-30",
+  "type": "mentioned",
+  "outlet": "The Tor Project blog - Tor Weekly News",
+  "title": "Tor Weekly News — August 30th, 2015",
+  "url": "https://blog.torproject.org/tor-weekly-news-august-30th-2015/",
+  "language": "en",
+  "role": "subject",
+  "note": "Reports his open call for GlobaLeaks developers",
+  "verified": true,
+  "known": false,
+  "year": 2015,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2015-10-20",
   "year": 2015,
   "type": "podcast",
@@ -4047,6 +4779,23 @@
  },
  {
   "date": "2016",
+  "type": "talk",
+  "outlet": "OSCE Representative on Freedom of the Media (speaker bios)",
+  "title": "BIOS - conference speaker biographies incl. Fabio Pietrosanti",
+  "url": "https://www.osce.org/sites/default/files/f/documents/4/9/263301_0.pdf",
+  "language": "en",
+  "role": "speaker",
+  "note": "Out of slice/date uncertain: OSCE RFoM event speaker bio document (SEE media/Internet governance event, ~2016); bio of Pietrosanti as Hermes Center president",
+  "verified": true,
+  "known": false,
+  "year": 2016,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2016",
   "year": 2016,
   "type": "project",
   "outlet": "Whistleblowing Solutions Impresa Sociale",
@@ -4059,6 +4808,57 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2016-01-21",
+  "type": "interview",
+  "outlet": "Panorama",
+  "title": "Sicurezza cibernetica nazionale a Carrai, cosa non va a livello tecnico",
+  "url": "https://www.panorama.it/tempo-libero/tecnologia/sicurezza-cibernetica-nazionale-a-carrai-cosa-non-va-a-livello-tecnico",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Out of slice (incidental): exclusive comments as promoter of the experts' open letter against the Carrai cyber-security appointment",
+  "verified": true,
+  "known": false,
+  "year": 2016,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2016-01-21",
+  "type": "mentioned",
+  "outlet": "LineaEDP",
+  "title": "Cyber sicurezza: attacco a Renzi sulla nomina Carrai",
+  "url": "https://www.lineaedp.it/categorie-funzionali/home-page/primo-piano/cyber-sicurezza-attacco-a-renzi-sulla-nomina-carrai/",
+  "language": "it",
+  "role": "cited",
+  "note": "Out of slice (incidental): lists him as signatory of the experts' open letter on Carrai; WP date shows 2016-06-22 (likely re-dated), letter was Jan 2016",
+  "verified": true,
+  "known": false,
+  "year": 2016,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2016-01-21",
+  "year": 2016,
+  "type": "mentioned",
+  "outlet": "Valigia Blu",
+  "title": "Mi chiamo Carrai, Marco Carrai e senza competenze potrei fare il capo della cybersicurezza",
+  "url": "https://www.valigiablu.it/mi-chiamo-carrai-marco-carrai-e-senza-competenze-potrei-fare-il-capo-della-cybersicurezza/",
+  "language": "it",
+  "role": "cited",
+  "note": "Article embeds his tweet on pressure on Italian security influencers (Carrai cybersecurity nomination)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -4322,6 +5122,40 @@
   "on_old_site": false
  },
  {
+  "date": "2017-02-17",
+  "type": "mentioned",
+  "outlet": "Techdirt",
+  "title": "Italy Proposes Astonishingly Sensible Rules To Regulate Government Hacking Using Trojans",
+  "url": "https://www.techdirt.com/2017/02/17/italy-proposes-astonishingly-sensible-rules-to-regulate-government-hacking-using-trojans/",
+  "language": "en",
+  "role": "cited",
+  "note": "Out of slice (incidental): cites Pietrosanti & Aterno's Boing Boing piece on Italian trojan law proposal",
+  "verified": true,
+  "known": false,
+  "year": 2017,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-03",
+  "year": 2017,
+  "type": "report",
+  "outlet": "European Parliament, Policy Department for Citizens' Rights and Constitutional Affairs (study for the LIBE Committee), PE 583.137",
+  "title": "Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison of Practices",
+  "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "Study by Mirja Gutheil, Quentin Liger, Aurélie Heetman, James Eager, Max Crawford (Optimity Advisors) for the European Parliament. The Italy country section on the Quintarelli/Civici e Innovatori government-trojan bill cites 'Pietrosanti, F. and Aterno, S. 2017. Italy unveils a legal proposal to regulate government hacking' (Boing Boing) in at least five footnotes (302, 308, 312, 315, 319) and in the bibliography. PDF text read.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_d_academic"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2017-03",
   "year": 2017,
   "type": "paper",
@@ -4352,6 +5186,40 @@
   "known": false,
   "_slices": [
    "slice7_academic"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-04-11",
+  "year": 2017,
+  "type": "quoted",
+  "outlet": "Wired Italia",
+  "title": "Cybersorveglianza, come le aziende (anche italiane) aiutano Iran e Sud Sudan",
+  "url": "https://www.wired.it/internet/regole/2017/04/11/cybersorveglianza-aziende-italiane-iran/",
+  "language": "it",
+  "role": "quoted",
+  "note": "After Al Jazeera documentary; Pietrosanti (Hermes) explains IMSI catchers vs mass interception systems; CILD/PI/Hermes letter to MISE",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-05-30",
+  "year": 2017,
+  "type": "press_release",
+  "outlet": "Hermes Center",
+  "title": "Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE",
+  "url": "https://web.archive.org/web/20200607012151/https://www.hermescenter.org/sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise/",
+  "language": "it",
+  "role": "subject",
+  "note": "FOIA on surveillance-tech export licences sent by president Fabio Pietrosanti; review request (Wayback; old Hermes site removed)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -4403,6 +5271,23 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-07-23",
+  "year": 2017,
+  "type": "press_release",
+  "outlet": "Hermes Center",
+  "title": "Conservazione indiscriminata dei dati per 6 anni",
+  "url": "https://web.archive.org/web/20170803052501/https://www.hermescenter.org/conservazione-indiscriminata-dei-dati-per-6-anni/",
+  "language": "it",
+  "role": "cited",
+  "note": "Hermes campaign page on 6-year data retention; lists 'Appello di Fabio Pietrosanti' among key resources (Wayback)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -4476,6 +5361,57 @@
   "on_old_site": false
  },
  {
+  "date": "2017-10-19",
+  "year": 2017,
+  "type": "quoted",
+  "outlet": "la Repubblica (Milano)",
+  "title": "Referendum Lombardia, gli ingegneri lanciano l'allarme sicurezza: \"Troppi segreti sul voto elettronico\"",
+  "url": "https://milano.repubblica.it/cronaca/2017/10/19/news/ilcaso_l_associazione_degli_ingegneri_protesta_per_l_accesso_negato_ai_dettagli_tecnici_su_lla_tutela_dei_dati_sensibi-178667938/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Hermes Center FOIA on Smartmatic e-voting denied; Pietrosanti: 'security through obscurity', strategic litigation",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-10-20",
+  "year": 2017,
+  "type": "quoted",
+  "outlet": "Valigia Blu",
+  "title": "Referendum Lombardia e Veneto: cosa si vota, i costi e le critiche al sistema elettronico",
+  "url": "https://www.valigiablu.it/referendum-autonomia-lombardia-veneto/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Quotes Pietrosanti (Hermes) on security through obscurity and embeds his tweet with the FOIA documents",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-10-20",
+  "year": 2017,
+  "type": "mentioned",
+  "outlet": "Matteo Flora (mgpf.it)",
+  "title": "Referendum autonomia Lombardia: hacker trova dati e codici online...",
+  "url": "https://mgpf.it/2017/10/20/referendum-autonomia-lombardia-hacker.html",
+  "language": "it",
+  "role": "cited",
+  "note": "Blog post on exposed Smartmatic data; cites the FOIA refused to Centro Hermes and Fabio Pietrosanti",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2017-10-21",
   "year": 2017,
   "type": "mentioned",
@@ -4489,6 +5425,23 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-10-27",
+  "year": 2017,
+  "type": "talk",
+  "outlet": "DIG Festival 2017 (Riccione) - via Hermes Center",
+  "title": "Il Centro Hermes al DIG Festival per la cybersecurity dei giornalisti (con slide)",
+  "url": "https://web.archive.org/web/20200920224518/https://www.hermescenter.org/centro-hermes-dig-festival-cybersecurity-giornalisti-slide/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Opening course on cybersecurity for journalists by Pietrosanti, Raffaele Angius, Giovanni Civardi (post dated 2017-11-06; Wayback)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -4557,6 +5510,23 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018",
+  "year": 2018,
+  "type": "project",
+  "outlet": "Ethic Whispers (ethicwhispers.io)",
+  "title": "Ethic Whispers - the security token for whistleblowing",
+  "url": "https://web.archive.org/web/20211203145414/http://ethicwhispers.io/",
+  "language": "en",
+  "role": "subject",
+  "note": "Project site lists Fabio Pietrosanti as co-founder & CEO (Wayback 2021 snapshot; date of project approximate)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -4698,6 +5668,23 @@
   "on_old_site": false
  },
  {
+  "date": "2018-03-02",
+  "year": 2018,
+  "type": "radio",
+  "outlet": "Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini",
+  "title": "Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix",
+  "url": "http://www.radio24.ilsole24ore.com/programma/2024/trasmissione-marzo-2018-224932-gSLAjFnabC",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Episode explains Tor with Fabio Pietrosanti (president Centro Hermes); GlobaLeaks, ALAC, ANAC. Verified via Wayback 20180505",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2018-03-24",
   "year": 2018,
   "type": "talk",
@@ -4711,6 +5698,40 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-04-05",
+  "type": "tv",
+  "outlet": "Euronews (in Italiano)",
+  "title": "Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca",
+  "url": "https://www.youtube.com/watch?v=gcROTSHQW4A",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Out of slice (incidental): Euronews interview on Kaspersky in Italian public administration",
+  "verified": true,
+  "known": false,
+  "year": 2018,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-04-06",
+  "year": 2018,
+  "type": "interview",
+  "outlet": "Euronews (italiano)",
+  "title": "Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca",
+  "url": "https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Video interview: 'Kaspersky controlla tutto ma la Russia controlla Kaspersky'; Kaspersky in Italian ministries and police (Hermes)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -4813,6 +5834,23 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-06-08",
+  "year": 2018,
+  "type": "project",
+  "outlet": "Big Brother Awards Italia (Progetto Winston Smith / Centro Hermes)",
+  "title": "Big Brother Awards Italia 2018",
+  "url": "https://bba.winstonsmith.org/",
+  "language": "it",
+  "role": "subject",
+  "note": "Official BBAI 2018 page: award organised by Centro Hermes with Privacy International; Fabio Pietrosanti listed as contact (ceremony at e-privacy Bologna)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -5091,6 +6129,23 @@
  {
   "date": "2019-03-13",
   "year": 2019,
+  "type": "hearing",
+  "outlet": "Dipartimento della Funzione Pubblica - incontro 'FOIA: Che cosa non ha funzionato?' (via Hermes Center)",
+  "title": "Mancanza di una vision tecnologica a supporto del FOIA",
+  "url": "https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/",
+  "language": "it",
+  "role": "author",
+  "note": "Text of Hermes' contribution to the government FOIA review meeting, signed Fabio Pietrosanti (Wayback)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-03-13",
+  "year": 2019,
   "type": "video",
   "outlet": "Ciao Internet - Matteo Flora (YouTube)",
   "title": "511. Voto Online? No, grazie, e ti spiego perché...",
@@ -5208,6 +6263,40 @@
   "on_old_site": false
  },
  {
+  "date": "2020-02-16",
+  "year": 2020,
+  "type": "quoted",
+  "outlet": "Valigia Blu",
+  "title": "Come CIA e servizi segreti tedeschi hanno spiato alleati e avversari vendendo macchine antispionaggio",
+  "url": "https://www.valigiablu.it/cia-germania-spionaggio-alleati/",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Crypto AG affair; Pietrosanti (co-founder Khamsa/PrivateWave) tells Valigia Blu about Italian/German crypto-phone vendors replacing the Swiss",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-03-18",
+  "type": "video",
+  "outlet": "Mojo Italia (YouTube)",
+  "title": "Come difendere il proprio smartphone",
+  "url": "https://www.youtube.com/watch?v=JMxc3mgAO7E",
+  "language": "it",
+  "role": "speaker",
+  "note": "Out of slice (incidental): Mojo Italia seminar for journalists, docenti Raffaele Angius and Fabio Pietrosanti",
+  "verified": true,
+  "known": false,
+  "year": 2020,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-03-27",
   "year": 2020,
   "type": "podcast",
@@ -5259,6 +6348,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-06-23",
+  "type": "quoted",
+  "outlet": "Agenda Digitale",
+  "title": "Software libero \"massacrato\" da Trump: un passo verso la sorveglianza globale",
+  "url": "https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Out of slice (incidental): quoted on OTF funding being decisive for GlobaLeaks",
+  "verified": true,
+  "known": false,
+  "year": 2020,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-09-05",
   "year": 2020,
   "type": "project",
@@ -5296,17 +6402,52 @@
  {
   "date": "2020-11-08",
   "year": 2020,
-  "type": "quoted",
-  "outlet": "Pandora Rivista",
+  "type": "paper",
+  "outlet": "Pandora Rivista (online review of politics and culture, not peer-reviewed)",
   "title": "I trojan di Stato: la nuova legge sulle intercettazioni",
   "url": "https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/",
   "language": "it",
-  "role": "quoted",
-  "note": "By Silvia Cegalin; cites his warning against entrusting citizens' data to barely regulated private interception providers",
+  "role": "mentioned",
+  "note": "Silvia Cegalin. On the Italian interception law and state trojans; mentions 'Fabio Pietrosanti, membro del Centro Hermes per la Trasparenza e i Diritti Umani Digitali' urging the government to revise the law on entrusting citizens' data to unregulated private trojan vendors. Page text read. Borderline: magazine rather than academic journal.",
   "verified": true,
   "known": false,
   "_slices": [
+   "pass2_d_academic",
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-11-19",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "Linkiesta (Nicola Biondo)",
+  "title": "Lo sconosciuto comitato governativo che sta pensando come farci votare con il voto elettronico",
+  "url": "https://www.linkiesta.it/2020/11/comitato-foia-voto-elettronico-italia-news/",
+  "language": "it",
+  "role": "subject",
+  "note": "Inquiry built on Pietrosanti's (Hermes) FOIA request revealing the government e-voting committee",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-11-23",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "Key4biz",
+  "title": "In Italia esiste davvero il comitato \"quantistico\" sul voto elettronico?",
+  "url": "https://www.key4biz.it/in-italia-esiste-davvero-il-comitato-quantistico-sul-voto-elettronico/332220/",
+  "language": "it",
+  "role": "subject",
+  "note": "Commentary on the Linkiesta inquiry; cites FOIA by Fabio Pietrosanti, president of Hermes",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -5324,6 +6465,23 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021",
+  "year": 2021,
+  "type": "project",
+  "outlet": "LESS Impresa Sociale (less.green)",
+  "title": "WHO WE ARE - Less: Fabio Pietrosanti CEO",
+  "url": "https://web.archive.org/web/20221203113453/https://less.green/chi-siamo-less-impresa-sociale/who-we-are/",
+  "language": "en",
+  "role": "subject",
+  "note": "Team page of LESS sustainable last-mile delivery social startup lists him as CEO (Wayback; domain now for sale; snapshots 2022)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -5433,6 +6591,23 @@
   "on_old_site": false
  },
  {
+  "date": "2021-03",
+  "year": 2021,
+  "type": "mentioned",
+  "outlet": "Italia Open Gov (Dipartimento della Funzione Pubblica)",
+  "title": "Il Dipartimento alla Milano Digital week",
+  "url": "https://open.gov.it/notizie/dipartimento-milano-digital-week",
+  "language": "it",
+  "role": "panelist",
+  "note": "Government open-gov news lists Fabio Pietrosanti (OpenRousseau) among e-democracy panel speakers",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2021-03-11",
   "year": 2021,
   "type": "mentioned",
@@ -5503,6 +6678,23 @@
  {
   "date": "2021-03-19",
   "year": 2021,
+  "type": "talk",
+  "outlet": "Comune di Milano - Milano Partecipa / Milano Digital Week (partecipami.it)",
+  "title": "Da Milano Partecipa alla comunità italiana per la e-democracy",
+  "url": "https://www.partecipami.it/calendar/event/1/8691",
+  "language": "it",
+  "role": "panelist",
+  "note": "Event page lists 'Fabio Pietrosanti, OpenRousseau' among speakers (same event as the known Radio Radicale recording)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-03-19",
+  "year": 2021,
   "type": "radio",
   "outlet": "Radio Radicale",
   "title": "Da \"Milano Partecipa\" alla comunità italiana per la e-democracy",
@@ -5515,6 +6707,57 @@
   "_slices": [
    "slice5_2021_2026",
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-04-04",
+  "year": 2021,
+  "type": "talk",
+  "outlet": "GlobaLeaks blog",
+  "title": "Workshop: Building Secure Whistleblowing Systems for Anticorruption with the GlobaLeaks Software",
+  "url": "https://globaleaks.org/2021/04/04/workshop-building-secure-whistleblowing-systems-for-anticorruption-with-the-globaleaks-software/",
+  "language": "en",
+  "role": "panelist",
+  "note": "Workshop speakers include Fabio Pietrosanti (GlobaLeaks) with MexicoLeaks, XNET, Digital Whistleblowing Fund",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-05-26",
+  "year": 2021,
+  "type": "quoted",
+  "outlet": "noyb - European Center for Digital Rights",
+  "title": "Digital Rights alliance file legal complaints against facial recognition company Clearview AI",
+  "url": "https://noyb.eu/en/digital-rights-alliance-file-legal-complaints-against-facial-recognition-company-clearview-ai",
+  "language": "en",
+  "role": "quoted",
+  "note": "Coalition press release (noyb, PI, Hermes, Homo Digitalis); quote by Fabio Pietrosanti, President of the Hermes Center; led to Garante's EUR 20M fine (2022)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-05-27",
+  "year": 2021,
+  "type": "press_release",
+  "outlet": "Hermes Center (with Privacy International, noyb, Homo Digitalis)",
+  "title": "Il Centro Hermes e altre 3 associazioni hanno inviato segnalazioni e reclami contro Clearview AI",
+  "url": "https://web.archive.org/web/20210527054816/https://www.hermescenter.org/centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Complaints to EU DPAs against Clearview AI facial recognition; statement by president Fabio Pietrosanti (Wayback)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -5607,6 +6850,23 @@
  {
   "date": "2022-02-28",
   "year": 2022,
+  "type": "quoted",
+  "outlet": "Startmag",
+  "title": "Anonymous, c'è un caso Kaspersky in Italia?",
+  "url": "https://www.startmag.it/innovazione/anonymous-ce-un-caso-kaspersky-in-italia/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Recalls Pietrosanti's (Centro Hermes) warning that Russian software connects daily to Moscow from Italian security agencies",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-02-28",
+  "year": 2022,
   "type": "interview",
   "outlet": "Il Riformista",
   "title": "\"Ecco come Putin può disconnettere l'Italia\", il rischio dell'antivirus Kaspersky utilizzato dagli enti pubblici",
@@ -5652,6 +6912,57 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-03-07",
+  "year": 2022,
+  "type": "mentioned",
+  "outlet": "Formiche.net",
+  "title": "Dalla Ferrari al Viminale. Se in Italia il software russa (con Kaspersky)",
+  "url": "https://formiche.net/2022/03/ferrari-viminale-software-kaspersky/",
+  "language": "it",
+  "role": "cited",
+  "note": "Cites 'l'analista Fabio Pietrosanti' and his Il Riformista interview on 2,700 Kaspersky-PA contracts",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-03-11",
+  "year": 2022,
+  "type": "quoted",
+  "outlet": "Wall Street Italia",
+  "title": "Kaspersky, in Italia si riapre il caso dell'antivirus russo amato da PA e aziende",
+  "url": "https://www.wallstreetitalia.com/kaspersky-in-italia-si-riapre-il-caso-dellantivirus-russo-amato-da-pa-e-aziende/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Cites his Il Riformista interview (2,700 Kaspersky PA partnerships) and the parliamentary question it triggered (Paolo Romano)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-03-15",
+  "year": 2022,
+  "type": "quoted",
+  "outlet": "Europa Today",
+  "title": "\"Sostituite l'antivirus Kaspersky, può essere usato per attacchi informatici dalla Russia\"",
+  "url": "https://europa.today.it/attualita/kaspersky-attacchi-informatici-russia.html",
+  "language": "it",
+  "role": "quoted",
+  "note": "Quotes the 'digital activist Fabio Pietrosanti' from his Il Riformista interview",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -5704,6 +7015,27 @@
   "_slices": [
    "slice5_2021_2026",
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-03-24",
+  "year": 2022,
+  "type": "quoted",
+  "outlet": "Livornopress",
+  "title": "L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack",
+  "url": "https://livornopress.it/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack",
+  "language": "it",
+  "role": "quoted",
+  "note": "Syndicated piece quoting Pietrosanti (co-founder Hermes) on Kaspersky risk scenario",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "mirrors": [
+   "https://www.confartigianatoimperia.it/notizie/24-03-2022/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack",
+   "https://internet-casa.com/news/antivirus-kaspersky/"
   ],
   "on_old_site": false
  },
@@ -5779,6 +7111,23 @@
   "date": "2022-05-25",
   "year": 2022,
   "type": "quoted",
+  "outlet": "Privacy Italia",
+  "title": "Google Analytics rimosso da 3.400 siti della PA, grazie a MonitoraPa: \"Ora un esposto al Garante Privacy\"",
+  "url": "https://www.privacyitalia.eu/google-analytics-rimosso-da-3-400-siti-della-pa-grazie-a-monitorapa-ora-un-esposto-al-garante-privacy/16760/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Syndicated version of the known Key4biz article (MonitoraPA, Pietrosanti); Cloudflare-blocked, not opened; date assumed from Key4biz",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-05-25",
+  "year": 2022,
+  "type": "quoted",
   "outlet": "Key4biz",
   "title": "Google Analytics in PA. 3.400 siti l'hanno rimosso, grazie a MonitoraPa: \"Ora esposto al Garante Privacy\"",
   "url": "https://www.key4biz.it/google-analytics-in-pa-3-400-siti-lhanno-rimosso-grazie-a-monitorapa-a-fine-mese-faremo-anche-esposto-al-garante-privacy/405043/",
@@ -5806,6 +7155,23 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-06-12",
+  "year": 2022,
+  "type": "press_release",
+  "outlet": "Monitora PA",
+  "title": "Una passeggiata tra i fiori...",
+  "url": "https://monitora-pa.it/2022/06/12/una-passeggiata-tra-i-fiori.html",
+  "language": "it",
+  "role": "subject",
+  "note": "Round-up of PA replies to the Google Analytics PECs, addressed to 'Fabio Pietrosanti - MonitoraPA'",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -5914,6 +7280,23 @@
   "on_old_site": false
  },
  {
+  "date": "2022-08-28",
+  "year": 2022,
+  "type": "press_release",
+  "outlet": "Monitora PA",
+  "title": "Monitora PA: Speciale Elezioni 2022 - Partito Pirata",
+  "url": "https://monitora-pa.it/2022/08/28/replies/PartitoPirata.html",
+  "language": "it",
+  "role": "subject",
+  "note": "Exchange with Partito Pirata on Google services in party sites; letters addressed to Fabio Pietrosanti (complements the known Partito Pirata reply)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2022-09-01",
   "year": 2022,
   "type": "mentioned",
@@ -5927,6 +7310,23 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-09-13",
+  "year": 2022,
+  "type": "press_release",
+  "outlet": "Monitora PA",
+  "title": "Monitora PA: Speciale Elezioni 2022 - Segnalazione al Garante",
+  "url": "https://monitora-pa.it/2022/09/13/Speciale_Elezioni_2022_Segnalazione_al_Garante.html",
+  "language": "it",
+  "role": "subject",
+  "note": "Complaint to the Garante on party websites; quotes PA replies addressed to Fabio Pietrosanti",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -6017,6 +7417,74 @@
   "on_old_site": false
  },
  {
+  "date": "2023-01-16",
+  "year": 2023,
+  "type": "press_release",
+  "outlet": "Monitora PA",
+  "title": "Buon 2023!",
+  "url": "https://monitora-pa.it/2023/01/16/gennaio_2023.html",
+  "language": "it",
+  "role": "cited",
+  "note": "New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2023-02",
+  "year": 2023,
+  "type": "report",
+  "outlet": "European Parliament, Policy Department for Citizens' Rights and Constitutional Affairs (study for the PEGA Committee of Inquiry), PE 740.151",
+  "title": "The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU Member States for the acquisition and use of Pegasus and equivalent surveillance spyware",
+  "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "Quentin Liger & Mirja Gutheil (Asterisk Research and Analysis GmbH); manuscript completed February 2023 (draft presented to PEGA on 2022-12-05: https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/PEGA/DV/2022/12-05/Study_Pegasus_Legalframework_draft_5December_EN.pdf, same citation). Bibliography lists 'Pietrosanti, F. and Aterno, S. 2017. Italy unveils a legal proposal to regulate government hacking' (Boing Boing). PDF text read.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_d_academic"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2023-02-27",
+  "year": 2023,
+  "type": "press_release",
+  "outlet": "Monitora PA",
+  "title": "Come (iniziare a) difendere gli studenti da Google",
+  "url": "https://monitora-pa.it/2023/02/27/come-difendere-gli-studenti-da-google.html",
+  "language": "it",
+  "role": "cited",
+  "note": "Letter for parents; builds on 'il FOIA di Fabio Pietrosanti' showing schools use Google/Microsoft without supplementary measures",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2023-03-01",
+  "year": 2023,
+  "type": "press_release",
+  "outlet": "Monitora PA",
+  "title": "GDPR howto: efficaci misure tecniche supplementari per GMail, Google Drive e Google Workspace",
+  "url": "https://monitora-pa.it/2023/03/01/gdpr-misure-tecniche-supplementari-efficaci-per-gmail-e-gsuite.html",
+  "language": "it",
+  "role": "cited",
+  "note": "Cites the FOIA by Fabio Pietrosanti to all Italian schools",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2023-03-01",
   "year": 2023,
   "type": "press_release",
@@ -6030,6 +7498,23 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2023-03-17",
+  "year": 2023,
+  "type": "mentioned",
+  "outlet": "Easyteam.org (published school reply)",
+  "title": "La risposta alla nuova richiesta di Monitora PA",
+  "url": "https://easyteam.org/2023/03/17/la-risposta-alla-nuova-richiesta-di-monitora-pa",
+  "language": "it",
+  "role": "subject",
+  "note": "Published template reply of a school to MonitoraPA's GMail/GDPR notice, addressed to 'sig. Fabio Pietrosanti'",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -6051,6 +7536,23 @@
   "on_old_site": false
  },
  {
+  "date": "2024-11-14",
+  "type": "quoted",
+  "outlet": "Punto Informatico",
+  "title": "Italia leader mondiale di spyware economici",
+  "url": "https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Out of 2009-2015 slice, found incidentally; quoted as Hermes Center president on spyware prices in Italy",
+  "verified": true,
+  "known": false,
+  "year": 2024,
+  "_slices": [
+   "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2025-06-27",
   "year": 2025,
   "type": "tv",
@@ -6064,6 +7566,23 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026",
+  "year": 2026,
+  "type": "project",
+  "outlet": "GlobaLeaks",
+  "title": "People | GlobaLeaks",
+  "url": "https://globaleaks.org/about/people/",
+  "language": "en",
+  "role": "subject",
+  "note": "Project people page: Fabio Pietrosanti co-founded GlobaLeaks, initial organization (also Italian version /it/about/people/)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -6201,6 +7720,40 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-09",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "Zhihu (知乎专栏) - TimePie 时光派",
+  "title": "倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态",
+  "url": "https://zhuanlan.zhihu.com/p/2075879246317330753",
+  "language": "zh",
+  "role": "speaker",
+  "note": "Chinese forum preview; search snippet lists him as 生物极客、科技创新者 with talk 从自我实验走向科学证据. Page 403 to fetch, not opened",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-09-12",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "时光派 TimePie (WeChat official account)",
+  "title": "高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕",
+  "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0",
+  "language": "zh",
+  "role": "speaker",
+  "note": "Forum day-1 recap: Biogeek closed-door sub-forum guests incl. 开源抗衰数据平台开发者Fabio Pietrosanti. WeChat article; only temporary signed links exist, URL is the Sogou WeChat search that surfaces it",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
