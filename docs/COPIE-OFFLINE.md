@@ -5,13 +5,13 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **473**; già processate: **238**; ancora da processare: **235**
-- Licenza delle copie ottenute: **118** materiale proprio (ripubblicabile), **85** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **170**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **29**
+- Voci in `data/media.json`: **473**; già processate: **453**; ancora da processare: **20**
+- Licenza delle copie ottenute: **168** materiale proprio (ripubblicabile), **199** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **313**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **50**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **4**
-- ⏳ Video/audio: non ancora processato: **29**
-- ❌ Non ottenuta: **6**
+- ⏳ Video/audio: non ancora processato: **79**
+- ❌ Non ottenuta: **7**
 
 ## Per anno
 
@@ -32,8 +32,20 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2010 | 44 | 0 | 4 | 0 | 0 | 2 | 3 |
 | 2011 | 14 | 0 | 4 | 0 | 0 | 4 | 1 |
 | 2012 | 13 | 0 | 2 | 0 | 0 | 3 | 0 |
-| 2013 | 10 | 0 | 3 | 0 | 0 | 5 | 0 |
-| 2015 | 9 | 0 | 0 | 0 | 0 | 7 | 0 |
+| 2013 | 13 | 0 | 3 | 0 | 0 | 6 | 0 |
+| 2014 | 18 | 0 | 0 | 0 | 0 | 5 | 0 |
+| 2015 | 18 | 0 | 1 | 0 | 0 | 9 | 0 |
+| 2016 | 6 | 0 | 1 | 0 | 0 | 7 | 0 |
+| 2017 | 22 | 0 | 2 | 0 | 0 | 5 | 0 |
+| 2018 | 15 | 0 | 5 | 0 | 0 | 12 | 0 |
+| 2019 | 5 | 0 | 0 | 0 | 0 | 4 | 0 |
+| 2020 | 9 | 0 | 3 | 0 | 0 | 3 | 0 |
+| 2021 | 13 | 0 | 1 | 0 | 0 | 5 | 0 |
+| 2022 | 31 | 0 | 0 | 0 | 0 | 5 | 0 |
+| 2023 | 5 | 0 | 2 | 0 | 0 | 0 | 0 |
+| 2024 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2025 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 2026 | 6 | 0 | 6 | 0 | 0 | 0 | 1 |
 
 ## Da completare (non ancora processate)
 
@@ -41,237 +53,22 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 - ⏳ **2009** · vitadigitale.corriere.it — [Hacker al cinema](https://vitadigitale.corriere.it/2009/03/13/hacker_al_cinema/)
 - ⏳ **2012** · corriere.it — [Il software (democratico) che tutela le fonti](https://www.corriere.it/scienze/12_aprile_14/globaleaks-software-condisione-informazioni_45b220fe-863e-11e1-a210-601cc21801c2.shtml)
 - ⏳ **2013** · linkiesta.it — [Di censura, leggi ed altre sciocchezze - Linkiesta.it](https://www.linkiesta.it/blog/2013/05/di-censura-leggi-ed-altre-sciocchezze/)
-- ⏳ **2013** · Global Investigative Journalism Conferen — [Security Workshop: Tor & Globaleaks: Protecting Yourself and Your Sources Online](https://gijc13.sched.com/event/1cntRel/global-security-workshop-tor-globaleaks-protecting-yourself-and-your-sources-online-eng)
-- ⏳ **2013** · YouTube / Cosa Pubblica Libra — [sistema WHISTLEBLOWING](https://www.youtube.com/watch?v=jsPilTzhU5s)
-- ⏳ **2013** · 30C3 Public Wiki (Chaos Communication Co — [Projects:GlobaLeaks](https://events.ccc.de/congress/2013/wiki/Projects:GlobaLeaks)
-- ⏳ **2013** · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/)
-- ⏳ **2014** · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/)
-- ⏳ **2014** · The Tor Project, Tor proposals (torspec) — [Making Tor2Web mode faster (Tor Proposal 233)](https://spec.torproject.org/proposals/233-quicken-tor2web-mode.html)
-- ⏳ **2014** · YouTube / Cosa Pubblica Libra — [Seminario Fabio Pietrosanti](https://www.youtube.com/watch?v=sH38ayPLcmI)
-- ⏳ **2014** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — April 23rd, 2014](https://blog.torproject.org/tor-weekly-news-april-23rd-2014/)
-- ⏳ **2014** · International Journalism Festival (Perug — [Telephone intercepts in the age of NSAGate](https://www.journalismfestival.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate)
-- ⏳ **2014** · International Journalism Festival (Perug — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web)
-- ⏳ **2014** · YouTube / International Journalism Festi — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.youtube.com/watch?v=XNJ2qcu76yI)
-- ⏳ **2014** · International Journalism Festival 2014 — [Intercettazioni telefoniche nell'era dell'NSA Gate](https://www.festivaldelgiornalismo.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate)
-- ⏳ **2014** · International Journalism Festival 2014 — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web)
-- ⏳ **2014** · Wired Italia — [Come proteggere i prossimi Snowden](https://www.wired.it/attualita/media/2014/05/04/come-proteggere-prossimi-snowden/)
-- ⏳ **2014** · International Journalism Festival (YouTu — [Intercettazioni telefoniche nell'era dell'NSA Gate](https://www.youtube.com/watch?v=NzCP8Spwb9I)
-- ⏳ **2014** · International Journalism Festival - news — [How to protect the next Snowden](https://www.journalismfestival.com/news/how-to-protect-the-next-snowden/)
-- ⏳ **2014** · vicino/lontano - Friuli Future Forum (Ud — [Workshop #1: Come sparire da Internet](http://www.vicinolontano.it/eventi/workshop-1-come-sparire-da-internet/)
-- ⏳ **2014** · vicino/lontano - Friuli Future Forum (Ud — [Workshop #2: Su Facebook, ma non senza privacy](https://www.vicinolontano.it/eventi/workshop-2-su-facebook-ma-non-senza-privacy/)
-- ⏳ **2014** · European Journalism Observatory (it.ejo. — [ExpoLeaks, whistleblowing per Expo](https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza)
-- ⏳ **2014** · Free Press Unlimited (YouTube) — [International Whistleblowers Conference 2014 - Part 1: Morning plenary](https://www.youtube.com/watch?v=UVBzF1rB5ZU)
-- ⏳ **2014** · Motherboard (VICE) — [Inside SS7, the Insecure Global Cell Network That's Used to Track Phones](https://www.vice.com/en/article/inside-ss7-the-insecure-global-cell-network-thats-used-to-track-phones/)
-- ⏳ **2014** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — September 17th, 2014](https://blog.torproject.org/tor-weekly-news-september-17th-2014/)
-- ⏳ **2014** · techPresident (Personal Democracy Media) — [Anti-Corruption Alert, a Secure Platform For Public Servants Willing to Blow the Whistle](http://techpresident.com/news/25320/anti-corruption-alert-safe-platform-public-servants-willing-blow-whistle)
-- ⏳ **2014** · Wired Italia — [Tor è ancora anonimo?](https://www.wired.it/internet/web/2014/11/25/tor-anonimo/)
-- ⏳ **2014** · 31C3 Public Wiki (Chaos Communication Co — [Projects:GlobaLeaks](https://events.ccc.de/congress/2014/wiki/Projects:GlobaLeaks)
-- ⏳ **2014** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/429504)
-- ⏳ **2014** · Twitter/X @fpietrosanti — [NSA User's Guide to PRISM Skype Collection (Interception) #31c3](https://x.com/fpietrosanti/status/549294291424903169)
-- ⏳ **2015** · International Journalism Festival 2015 — [Abbi cura delle tue fonti - come potenziare la redazione con GlobaLeaks](https://www.festivaldelgiornalismo.com/programme/2015/take-care-of-your-sources-newsroom-empowering-with-globaleaks)
-- ⏳ **2015** · International Journalism Festival (Perug — [Digital whistleblowing with GlobaLeaks](https://www.journalismfestival.com/programme/2015/digital-whistleblowing-with-globaleaks)
-- ⏳ **2015** · YouTube / International Journalism Festi — [Whistleblowing digitale con GlobaLeaks](https://www.youtube.com/watch?v=CLgioLg7kUE)
-- ⏳ **2015** · International Journalism Festival 2015 — [Whistleblowing digitale con GlobaLeaks](https://www.festivaldelgiornalismo.com/programme/2015/digital-whistleblowing-with-globaleaks)
-- ⏳ **2015** · Tor Tech Report 2015-04-001 (The Tor Pro — [Hidden-service statistics reported by relays](https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf)
-- ⏳ **2015** · CCC Camp 2015 Wiki — [Projects:GlobaLeaks](https://events.ccc.de/camp/2015/wiki/Projects:GlobaLeaks)
-- ⏳ **2015** · e-privacy XVII (Camera dei Deputati, Rom — [Apertura lavori](https://e-privacy.winstonsmith.org/e-privacy-XVII.html)
-- ⏳ **2015** · la Repubblica (Repubblica.it Tecnologia) — [Tante aziende e poche regole: il Far West della sorveglianza digitale](https://www.repubblica.it/tecnologia/sicurezza/2015/07/16/news/tante_aziende_poche_regole_il_far_west_dell_intelligence-119217185/)
-- ⏳ **2015** · Chaos Communication Camp 2015 Wiki — [Village:Italian Embassy](https://events.ccc.de/camp/2015/wiki/Village:Italian_Embassy)
-- ⏳ **2015** · Leo Rugens - Sconfinamenti (blog) — [Hacking Team e Resi Informatica: sassolino nella scarpa dopo sassolino nella scarpa, vuoi ](https://leorugens.wordpress.com/2015/08/09/hacking-team-e-resi-informatica-sassolino-nella-scarpa-dopo-sassolino-nella-scarpa-vuoi-vedere-che-questa-volta-facciamo-piazza-pulita/)
-- ⏳ **2015** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — August 30th, 2015](https://blog.torproject.org/tor-weekly-news-august-30th-2015/)
-- ⏳ **2015** · Pirate's Night Show #5 (YouTube livestre — [Pirate's Night Show #5 - Tor e Privacy con Fabio Pietrosanti (Naif)](https://www.youtube.com/watch?v=P-jGzZwzu3U)
-- ⏳ **2016** · OSCE Representative on Freedom of the Me — [BIOS - conference speaker biographies incl. Fabio Pietrosanti](https://www.osce.org/sites/default/files/f/documents/4/9/263301_0.pdf)
-- ⏳ **2016** · Whistleblowing Solutions Impresa Sociale — [Whistleblowing Solutions Impresa Sociale S.r.l. founded to sustain GlobaLeaks](https://whistleblowing.it/en/about-us/)
 - ⏳ **2016** · repubblica.it — [Cybersicurezza, esperti italiani contro la nomina Carrai](https://www.repubblica.it/tecnologia/sicurezza/2016/01/20/news/sicurezza_informatica_lettera_aperta_renzi-131683869/)
-- ⏳ **2016** · Panorama — [Sicurezza cibernetica nazionale a Carrai, cosa non va a livello tecnico](https://www.panorama.it/tempo-libero/tecnologia/sicurezza-cibernetica-nazionale-a-carrai-cosa-non-va-a-livello-tecnico)
-- ⏳ **2016** · LineaEDP — [Cyber sicurezza: attacco a Renzi sulla nomina Carrai](https://www.lineaedp.it/categorie-funzionali/home-page/primo-piano/cyber-sicurezza-attacco-a-renzi-sulla-nomina-carrai/)
-- ⏳ **2016** · Valigia Blu — [Mi chiamo Carrai, Marco Carrai e senza competenze potrei fare il capo della cybersicurezza](https://www.valigiablu.it/mi-chiamo-carrai-marco-carrai-e-senza-competenze-potrei-fare-il-capo-della-cybersicurezza/)
-- ⏳ **2016** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/464793/)
 - ⏳ **2016** · repubblica.it — [Internet gratis da smartphone, paga lo sponsor. C'è Jana, l'anti Free Basics](https://www.repubblica.it/tecnologia/mobile/2016/03/15/news/internet_gratis_senza_restrizioni_in_cambio_di_pubblicita_c_e_jana_l_anti_free_basics-135554343/)
-- ⏳ **2016** · HackInBo (YouTube) — [Tavola Rotonda con Igor "KOBA" Falcomatà e Fabio "NAIF" Pietrosanti #HackInBo2016](https://www.youtube.com/watch?v=X_zQdg47ZtU)
-- ⏳ **2016** · MOCA 2016 - Metro Olografix Camp (Pescar — [GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani](https://moca2016.olografix.org/it/employees/fabio-naif-pietrosanti/)
 - ⏳ **2016** · repubblica.it — ["Non date colpa all'algoritmo", errore umano alla base della censura social](https://www.repubblica.it/tecnologia/sicurezza/2016/09/12/news/_non_date_colpa_all_algoritmo_errore_umano_alla_base_della_censura_social-147611556/)
-- ⏳ **2016** · e-privacy XX (2016) Roma - Radio Radical — [e-privacy XX (2016) - Privacy ed antiterrorismo (2a giornata) - Tavola Rotonda: Captatori ](https://www.radioradicale.it/scheda/490952/)
-- ⏳ **2016** · Radio Radicale — [e-privacy XX (2016) - Privacy ed antiterrorismo: un equilibrio reale tra obbiettivi appare](https://www.radioradicale.it/scheda/490952/e-privacy-xx-2016-privacy-ed-antiterrorismo-un-equilibrio-reale-tra-obbiettivi)
-- ⏳ **2016** · e-privacy XX 2016 (Roma) — [Tavola Rotonda Captatori Informatici](https://e-privacy.winstonsmith.org/e-privacy-XX.html)
-- ⏳ **2016** · Eunews - How Can We Govern Europe? (3rd  — [Terza edizione di "How Can We Govern Europe?" - Intelligence, privacy e antiterrorismo in ](https://www.radioradicale.it/scheda/492422/)
-- ⏳ **2016** · Radio Radicale — [Terza edizione di "How Can We Govern Europe?"](https://www.radioradicale.it/scheda/492422/terza-edizione-di-how-can-we-govern-europe)
-- ⏳ **2016** · Eunews (YouTube) — [Intelligence, privacy e antiterrorismo in Europa](https://www.youtube.com/watch?v=IEViqE1HxfU)
-- ⏳ **2017** · Agenda Digitale — [Articoli di Fabio Pietrosanti (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)
-- ⏳ **2017** · University of California, Berkeley, PhD  — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf)
 - ⏳ **2017** · repubblica.it — [Privacy, servono regole per le intercettazioni nelle indagini penali](https://www.repubblica.it/tecnologia/2017/01/12/news/privacy_un_progetto_di_legge_per_salvaguardare_i_diritti_costituzionali-302639710/)
 - ⏳ **2017** · repubblica.it — [Più tutele per chi è intercettato dai trojan dagli investigatori, ecco la proposta di legg](https://www.repubblica.it/tecnologia/sicurezza/2017/01/31/news/maggiori_tutele_per_chi_viene_intercettato_con_i_trojan_dagli_investigatori_ecco_la_proposta_di_legge-157306945/)
-- ⏳ **2017** · GitHub / Camera dei Deputati (Civici e I — [Trojans-And-Rule-of-Law: Italian bill proposal to regulate Trojan use by LEA (Proposta di ](https://github.com/fpietrosanti/Trojans-And-Rule-of-Law)
-- ⏳ **2017** · Trojans And Rule of Law — [Trojans And Rule of Law](https://trojansandruleoflaw.org/)
-- ⏳ **2017** · Askanews — [Captatori informatici, proposta di legge di Civici e Innovatori](http://www.askanews.it/cronaca/2017/01/31/captatori-informatici-proposta-di-legge-di-civici-e-innovatori-pn_20170131_00175/)
-- ⏳ **2017** · Boing Boing — [Italy unveils a legal proposal to regulate government hacking](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html)
-- ⏳ **2017** · Techdirt — [Italy Proposes Astonishingly Sensible Rules To Regulate Government Hacking Using Trojans](https://www.techdirt.com/2017/02/17/italy-proposes-astonishingly-sensible-rules-to-regulate-government-hacking-using-trojans/)
-- ⏳ **2017** · European Parliament, Policy Department f — [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf)
-- ⏳ **2017** · Internet Policy Review, Vol. 6, Issue 1  — [Australian internet policy](https://policyreview.info/node/457/pdf)
-- ⏳ **2017** · Citizen Lab, Munk School of Global Affai — [Who's Watching Little Brother? A Checklist for Accountability in the Industry Behind Gover](https://citizenlab.ca/wp-content/uploads/2017/03/citizenlab_whos-watching-little-brother.pdf)
 - ⏳ **2017** · repubblica.it — [Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Clou](https://www.repubblica.it/tecnologia/social-network/2017/03/08/news/wikileaks-cia_la_sicurezza_assoluta_non_esiste_piu_-160075024/)
-- ⏳ **2017** · Wired Italia — [Cybersorveglianza, come le aziende (anche italiane) aiutano Iran e Sud Sudan](https://www.wired.it/internet/regole/2017/04/11/cybersorveglianza-aziende-italiane-iran/)
-- ⏳ **2017** · Hermes Center — [Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE](https://web.archive.org/web/20200607012151/https://www.hermescenter.org/sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise/)
-- ⏳ **2017** · e-privacy 2017 summer edition, Lucca - R — [e-privacy 2017 summer - Parole (ostili) contro la Rete: l'involuzione della percezione del](https://www.radioradicale.it/scheda/512627/)
-- ⏳ **2017** · Radio Radicale — [e-privacy 2017 summer edition - Parole (ostili) contro la Rete: l'involuzione della percez](https://www.radioradicale.it/scheda/512627/e-privacy-2017-summer-edition-parole-ostili-contro-la-rete-linvoluzione-della)
-- ⏳ **2017** · e-privacy 2017 summer (XXI, Lucca) — [Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza](https://e-privacy.winstonsmith.org/e-privacy-XXI.html)
 - ⏳ **2017** · repubblica.it — [Internet, ecco dove si censura e perché](https://www.repubblica.it/tecnologia/2017/06/30/news/internet_ecco_dove_si_censura_e_perche_-302642021/)
-- ⏳ **2017** · Hermes Center — [Conservazione indiscriminata dei dati per 6 anni](https://web.archive.org/web/20170803052501/https://www.hermescenter.org/conservazione-indiscriminata-dei-dati-per-6-anni/)
-- ⏳ **2017** · SHA2017 Wiki — [Village:ItalianEmbassy (Italian Hacker Embassy at SHA2017)](https://wiki.sha2017.org/w/Village:ItalianEmbassy)
-- ⏳ **2017** · Twitter/X @fpietrosanti — [An overview on the #SHA2017 hacker camp from 4th to 8th August @SHA2017Camp /by @interlogi](https://twitter.com/fpietrosanti/status/898831511708983296)
-- ⏳ **2017** · EDRi (European Digital Rights) — [Italy plans to extend telecoms data retention and increase censorship powers](https://edri.org/our-work/italy-plans-extend-telecoms-data-retention-increase-censorship-powers/)
-- ⏳ **2017** · SHA2017 - Still Hacking Anyway (media.cc — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans)
 - ⏳ **2017** · linkiesta.it — [DIG raddoppia e a fine ottobre porta a Milano il meglio del giornalismo investigativo inte](https://www.linkiesta.it/2017/10/dig-raddoppia-e-a-fine-ottobre-porta-a-milano-il-meglio-del-giornalism/)
-- ⏳ **2017** · la Repubblica (Milano) — [Referendum Lombardia, gli ingegneri lanciano l'allarme sicurezza: "Troppi segreti sul voto](https://milano.repubblica.it/cronaca/2017/10/19/news/ilcaso_l_associazione_degli_ingegneri_protesta_per_l_accesso_negato_ai_dettagli_tecnici_su_lla_tutela_dei_dati_sensibi-178667938/)
-- ⏳ **2017** · Valigia Blu — [Referendum Lombardia e Veneto: cosa si vota, i costi e le critiche al sistema elettronico](https://www.valigiablu.it/referendum-autonomia-lombardia-veneto/)
-- ⏳ **2017** · Matteo Flora (mgpf.it) — [Referendum autonomia Lombardia: hacker trova dati e codici online...](https://mgpf.it/2017/10/20/referendum-autonomia-lombardia-hacker.html)
-- ⏳ **2017** · Il Fatto Quotidiano (blog Umberto Rapett — [Referendum Lombardia e voto elettronico, mi fido o no?](https://www.ilfattoquotidiano.it/2017/10/21/referendum-lombardia-e-voto-elettronico-mi-fido-o-no/3927235/)
-- ⏳ **2017** · DIG Festival 2017 (Riccione) - via Herme — [Il Centro Hermes al DIG Festival per la cybersecurity dei giornalisti (con slide)](https://web.archive.org/web/20200920224518/https://www.hermescenter.org/centro-hermes-dig-festival-cybersecurity-giornalisti-slide/)
-- ⏳ **2017** · Metro Olografix (YouTube) — [[MOCA 2016] GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Dir](https://www.youtube.com/watch?v=UokccrS7GBw)
-- ⏳ **2017** · Tampere University of Technology (Finlan — [TorSNIP: Hidden Service Proxy with End-to-End Security](https://trepo.tuni.fi/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&isAllowed=y)
-- ⏳ **2017** · Hermes Center for Transparency and Digit — [Guida Hermes al voto digitale](https://archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale)
-- ⏳ **2017** · EDRi (European Digital Rights) — [Italy extends data retention to six years](https://edri.org/our-work/italy-extends-data-retention-to-six-years/)
 - ⏳ **2017** · st.ilsole24ore.com — [La sfida di coniugare il dettato costituzionale e la ricerca tecnologica](https://st.ilsole24ore.com/art/commenti-e-idee/2017-12-02/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-125656.shtml)
-- ⏳ **2018** · Ethic Whispers (ethicwhispers.io) — [Ethic Whispers - the security token for whistleblowing](https://web.archive.org/web/20211203145414/http://ethicwhispers.io/)
-- ⏳ **2018** · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)
-- ⏳ **2018** · Privacy Camp 2018 / EDPS-Civil Society S — [EDPS-Civil Society Summit 2018](https://privacycamp.eu/2018-edps-civil-society-summit/)
-- ⏳ **2018** · YouTube - Privacy Camp 2018 — [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg)
-- ⏳ **2018** · Motherboard / Vice Italia — [Riutilizzare i 24.400 tablet per il referendum della Lombardia è un casino](https://www.vice.com/it/article/problema-riutilizzo-nelle-scuole-tablet-referendum-lombardia/)
-- ⏳ **2018** · FOSDEM 2018 (Brussels) - Legal and Polic — [Public money, public code, the Italian way: Hacking Italian Administrations to get to the ](https://archive.fosdem.org/2018/schedule/event/public_money_public_code/)
-- ⏳ **2018** · FOSDEM (YouTube) — [Public money, public code, the Italian way Hacking Italian Administrations to get to the c](https://www.youtube.com/watch?v=KizAo_22FYo)
 - ⏳ **2018** · lastampa.it — [La rivolta degli informatici contro Casaleggio - La Stampa](https://www.lastampa.it/politica/2018/02/08/news/la-rivolta-degli-informatici-contro-casaleggio-1.33976791/)
-- ⏳ **2018** · Master Anticorruzione, Universita di Rom — [Societa civile e Whistleblowing - Profili tecnici delle piattaforme di segnalazione, organ](https://www.radioradicale.it/scheda/533637/)
-- ⏳ **2018** · Radio Radicale — [Società civile e Whistleblowing - 2a edizione del Master Anticorruzione dell'Università](https://www.radioradicale.it/scheda/533637/societa-civile-e-whistleblowing-2a-edizione-del-master-anticorruzione-delluniversita)
-- ⏳ **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix](http://www.radio24.ilsole24ore.com/programma/2024/trasmissione-marzo-2018-224932-gSLAjFnabC)
-- ⏳ **2018** · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/)
-- ⏳ **2018** · Euronews (in Italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://www.youtube.com/watch?v=gcROTSHQW4A)
-- ⏳ **2018** · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri)
-- ⏳ **2018** · International Journalism Festival 2018 ( — [Italian privacy nightmare: tales of surveillance](https://www.journalismfestival.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance)
-- ⏳ **2018** · International Journalism Festival 2018 — [Privacy nightmare Italia: storie di sorveglianza](https://www.festivaldelgiornalismo.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance)
-- ⏳ **2018** · International Journalism Festival (YouTu — [Privacy nightmare Italia: storie di sorveglianza](https://www.youtube.com/watch?v=ukpO8e80sQc)
-- ⏳ **2018** · Key4biz — [App per il ciclo mestruale, a rischio la privacy piu intima](https://www.key4biz.it/app-per-il-ciclo-mestruale-a-rischio-la-privacy-piu-intima/218397/)
-- ⏳ **2018** · EDRi (European Digital Rights) — [Hermes Center demands investigation of NAT-related data retention](https://edri.org/hermes-center-demands-investigation-of-nat-related-data-retention/)
-- ⏳ **2018** · EDRi (European Digital Rights) — [Welcoming new EDRi members: FSFE, Hermes Center, NOYB, and Xnet](https://edri.org/welcoming-new-edri-members-fsfe-hermes-center-noyb-and-xnet/)
-- ⏳ **2018** · Big Brother Awards Italia (Progetto Wins — [Big Brother Awards Italia 2018](https://bba.winstonsmith.org/)
-- ⏳ **2018** · e-privacy XXIII, Bologna - Radio Radical — [Singolarita: IoT, A.I., fake news e bolle informative - e-privacy XXIII - Big Brother Awar](https://www.radioradicale.it/scheda/543790/)
-- ⏳ **2018** · Radio Radicale — [Singolarità. Come l'IoT, l'A.I., le fake news e le bolle informative ci obbligano a ripens](https://www.radioradicale.it/scheda/543790/singolarita-come-liot-lai-le-fake-news-e-le-bolle-informative-ci-obbligano-a-ripensare)
-- ⏳ **2018** · e-privacy 2018 (XXIII, Bologna) — [Big Brother Awards Italia 2018](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html)
-- ⏳ **2018** · EDRi (European Digital Rights) — [Member in the Spotlight: Hermes Center](https://edri.org/our-work/member-in-the-spotlight-hermes-center/)
-- ⏳ **2018** · Radio1 Rai (via LinkedIn Pulse, Paola Gu — [A Padova il raduno degli hacker: Pietrosanti: "Non chiamateci pirati, siamo cavalieri del ](https://www.linkedin.com/pulse/padova-il-raduno-degli-hacker-pietrosanti-non-pirati-siamo-guarnieri?trk=public_profile_article_view)
-- ⏳ **2018** · Italian Hacker Camp IHC (YouTube) — [Del Monte, Pietrosanti - La collaborazione tra hackers e attivisti](https://www.youtube.com/watch?v=QZ_jlM4s8eM)
-- ⏳ **2018** · EDRi (European Digital Rights) — [Big Brother Awards 2018 Italy](https://edri.org/big-brother-awards-2018-italy/)
 - ⏳ **2018** · repubblica.it — [Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la password”](https://www.repubblica.it/tecnologia/sicurezza/2018/09/29/news/attacco_a_facebook_il_giorno_dopo_non_c_e_bisogno_di_cambiare_le_password_-207672944/)
-- ⏳ **2018** · AGI — [C'e una nuova risorsa per gli informatori anonimi nella pubblica amministrazione](https://www.agi.it/innovazione/whistleblowing_pa-4433292/news/2018-10-01/)
-- ⏳ **2018** · GlobaLeaks blog — [Nasce WhistleblowingPA](https://globaleaks.org/it/2018/10/01/nasce-whistleblowing-pa/)
-- ⏳ **2018** · marco scialdone (YouTube) — [Global Forum on Modern Direct Democracy 2018 - E-democracy: the dark side (prima parte)](https://www.youtube.com/watch?v=UI16WaavDNA)
-- ⏳ **2018** · e-privacy XXIV, Roma - Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/)
-- ⏳ **2018** · Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/xxiv-edizione-di-e-privacy-gdpr-vs-tecnologie-emergenti-prima-giornata)
-- ⏳ **2019** · MOJO Italia - Festival del giornalismo m — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/)
-- ⏳ **2019** · YouTube (unverified channel) — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg)
-- ⏳ **2019** · GitHub - ANAC anticorruzione/openwhistle — [openwhistleblowing/AUTHORS](https://github.com/anticorruzione/openwhistleblowing/blob/master/AUTHORS)
-- ⏳ **2019** · Forum Italia (Developers Italia) — [Software di Whistleblowing Anticorruzione ANAC e Riuso GlobaLeaks](https://forum.italia.it/t/software-di-whistleblowing-anticorruzione-anac-e-riuso-globaleaks/7114)
-- ⏳ **2019** · Dipartimento della Funzione Pubblica - i — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/)
-- ⏳ **2019** · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE)
-- ⏳ **2019** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Online? No, grazie, e ti spiego perché...](https://www.spreaker.com/episode/voto-online-no-grazie-e-ti-spiego-perche--17308523)
-- ⏳ **2019** · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/)
 - ⏳ **2019** · repubblica.it — [Quando lo smartphone diventa una spia. "In Italia oltre mille vittime di stalkerware"](https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/)
 - ⏳ **2019** · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/)
-- ⏳ **2019** · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397)
-- ⏳ **2020** · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)
-- ⏳ **2020** · Palgrave Macmillan (Springer Nature), Lo — [Digital Whistleblowing Platforms in Journalism: Encrypting Leaks](https://link.springer.com/book/10.1007/978-3-030-38505-7)
-- ⏳ **2020** · Springer, The International Library of E — [Cybersecurity and the State](https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf)
-- ⏳ **2020** · Valigia Blu — [Come CIA e servizi segreti tedeschi hanno spiato alleati e avversari vendendo macchine ant](https://www.valigiablu.it/cia-germania-spionaggio-alleati/)
 - ⏳ **2020** · lastampa.it — [L’emergenza per Casaleggio può far “testare il voto online a marzo”, ecco come gli informa](https://www.lastampa.it/politica/2020/03/04/news/l-emergenza-per-casaleggio-puo-far-testare-il-voto-online-a-marzo-ecco-come-gli-informatici-lo-stroncano-1.38548899/)
-- ⏳ **2020** · Mojo Italia (YouTube) — [Come difendere il proprio smartphone](https://www.youtube.com/watch?v=JMxc3mgAO7E)
-- ⏳ **2020** · Agenda Podcast (Spreaker) — [Coronavirus: cos'è e come funziona il contact tracing?](https://www.spreaker.com/episode/coronavirus-cos-e-e-come-funziona-il-contact-tracing--24430226)
-- ⏳ **2020** · CRS Scuola Critica del Digitale + Forum  — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/)
-- ⏳ **2020** · Ciao, Internet! con Matteo Flora (Spreak — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810)
-- ⏳ **2020** · Agenda Digitale — [Software libero "massacrato" da Trump: un passo verso la sorveglianza globale](https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/)
-- ⏳ **2020** · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR)
 - ⏳ **2020** · corriere.it — [M5S, ritardo nei pagamenti: Rousseau taglia i servizi. Evento del 4 ottobre rinviato](https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml)
-- ⏳ **2020** · Interoperable Europe Portal (European Co — [EUPL for Italian software](https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software)
-- ⏳ **2020** · Pandora Rivista (online review of politi — [I trojan di Stato: la nuova legge sulle intercettazioni](https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/)
-- ⏳ **2020** · Linkiesta (Nicola Biondo) — [Lo sconosciuto comitato governativo che sta pensando come farci votare con il voto elettro](https://www.linkiesta.it/2020/11/comitato-foia-voto-elettronico-italia-news/)
-- ⏳ **2020** · Key4biz — [In Italia esiste davvero il comitato "quantistico" sul voto elettronico?](https://www.key4biz.it/in-italia-esiste-davvero-il-comitato-quantistico-sul-voto-elettronico/332220/)
-- ⏳ **2020** · GitHub fpietrosanti — [ifuriosi](https://github.com/fpietrosanti/ifuriosi)
-- ⏳ **2021** · LESS Impresa Sociale (less.green) — [WHO WE ARE - Less: Fabio Pietrosanti CEO](https://web.archive.org/web/20221203113453/https://less.green/chi-siamo-less-impresa-sociale/who-we-are/)
-- ⏳ **2021** · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license ](https://av.tib.eu/media/13945)
-- ⏳ **2021** · GitHub — [Locandine_TelecomItalia](https://github.com/fpietrosanti/Locandine_TelecomItalia)
-- ⏳ **2021** · GitHub — [projects-and-ideas](https://github.com/fpietrosanti/projects-and-ideas)
-- ⏳ **2021** · FOSDEM 2021 (Legal and Policy Issues dev — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license ](https://archive.fosdem.org/2021/schedule/event/agplcompliance/)
-- ⏳ **2021** · FOSDEM 2021 — [FOSDEM 2021 - Fabio Pietrosanti (naif) speaker page](https://archive.fosdem.org/2021/schedule/speaker/fabio_pietrosanti_naif/)
-- ⏳ **2021** · YouTube - Free Software Foundation Europ — [The first AGPL compliance case settled in an Italian Court - FOSDEM 2021](https://www.youtube.com/watch?v=gm0NKwL5QZw)
-- ⏳ **2021** · Italia Open Gov (Dipartimento della Funz — [Il Dipartimento alla Milano Digital week](https://open.gov.it/notizie/dipartimento-milano-digital-week)
-- ⏳ **2021** · FSFE — [FSFE at FOSDEM 2021](https://fsfe.org/news/2021/news-20210311-01.en.html)
-- ⏳ **2021** · Agenda Digitale — [Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio](https://www.agendadigitale.eu/cittadinanza-digitale/voto-dei-cittadini-allestero-meglio-farlo-tramite-seggi-lo-studio/)
-- ⏳ **2021** · Agenda Digitale — [Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo](https://www.agendadigitale.eu/cittadinanza-digitale/voto-su-blockchain-un-comitato-governativo-fantasma-e-un-decreto-in-arrivo/)
-- ⏳ **2021** · VoidSec (YouTube) — [Pirate's Night Show #5 Tor e Privacy con Fabio Pietrosanti Naif](https://www.youtube.com/watch?v=j5T6loxU25s)
-- ⏳ **2021** · Comune di Milano - Milano Partecipa / Mi — [Da Milano Partecipa alla comunità italiana per la e-democracy](https://www.partecipami.it/calendar/event/1/8691)
-- ⏳ **2021** · Radio Radicale — [Da "Milano Partecipa" alla comunità italiana per la e-democracy](https://www.radioradicale.it/scheda/631935/da-milano-partecipa-alla-comunita-italiana-per-la-e-democracy)
-- ⏳ **2021** · GlobaLeaks blog — [Workshop: Building Secure Whistleblowing Systems for Anticorruption with the GlobaLeaks So](https://globaleaks.org/2021/04/04/workshop-building-secure-whistleblowing-systems-for-anticorruption-with-the-globaleaks-software/)
-- ⏳ **2021** · noyb - European Center for Digital Right — [Digital Rights alliance file legal complaints against facial recognition company Clearview](https://noyb.eu/en/digital-rights-alliance-file-legal-complaints-against-facial-recognition-company-clearview-ai)
-- ⏳ **2021** · Hermes Center (with Privacy Internationa — [Il Centro Hermes e altre 3 associazioni hanno inviato segnalazioni e reclami contro Clearv](https://web.archive.org/web/20210527054816/https://www.hermescenter.org/centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai/)
 - ⏳ **2021** · lespresso.it — [La Francia sperimenta il voto elettronico. E in Italia?](https://www.lespresso.it/c/politica/2021/5/30/la-francia-sperimenta-il-voto-elettronico-e-in-italia/38027)
-- ⏳ **2021** · Radio Radicale — [Riabitiamo i centri storici](https://www.radioradicale.it/scheda/638849/riabitiamo-i-centri-storici)
-- ⏳ **2021** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Elettronico: perché è (ancora) una pessima idea](https://www.spreaker.com/episode/voto-elettronico-perche-e-ancora-una-pessima-idea--45210765)
-- ⏳ **2022** · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)
-- ⏳ **2022** · Il Riformista — [L'ultimo regalo di Conte: voto elettronico manipolabile, a rischio la democrazia](https://www.ilriformista.it/lultimo-regalo-di-conte-voto-elettronico-manipolabile-a-rischio-la-democrazia-271311/)
-- ⏳ **2022** · Il Disinformatico (Paolo Attivissimo) — [Dopo l'invasione russa dell'Ucraina, che si fa con Kaspersky?](https://attivissimo.blogspot.com/2022/02/dopo-linvasione-russa-dellucraina-che.html)
-- ⏳ **2022** · Startmag — [Anonymous, c'è un caso Kaspersky in Italia?](https://www.startmag.it/innovazione/anonymous-ce-un-caso-kaspersky-in-italia/)
-- ⏳ **2022** · Il Riformista — ["Ecco come Putin può disconnettere l'Italia", il rischio dell'antivirus Kaspersky utilizza](https://www.ilriformista.it/ecco-come-putin-puo-disconnettere-litalia-il-rischio-dellantivirus-kaspersky-utilizzato-dagli-enti-pubblici-282811/)
-- ⏳ **2022** · Il Riformista — [La sicurezza italiana in mano a Kaspersky, l'azienda: "Nessun legame con Putin". Ma i cont](https://www.ilriformista.it/la-sicurezza-italiana-in-mano-a-kaspersky-lazienda-nessun-legame-con-putin-ma-i-conti-non-tornano-283463/)
-- ⏳ **2022** · LinkedIn — [Eliminare Kaspersky dalle infrastutture IT in Europa è una priorità](https://www.linkedin.com/posts/activity-6906253703863427072-Xirm)
-- ⏳ **2022** · Formiche.net — [Dalla Ferrari al Viminale. Se in Italia il software russa (con Kaspersky)](https://formiche.net/2022/03/ferrari-viminale-software-kaspersky/)
-- ⏳ **2022** · Wall Street Italia — [Kaspersky, in Italia si riapre il caso dell'antivirus russo amato da PA e aziende](https://www.wallstreetitalia.com/kaspersky-in-italia-si-riapre-il-caso-dellantivirus-russo-amato-da-pa-e-aziende/)
-- ⏳ **2022** · Europa Today — ["Sostituite l'antivirus Kaspersky, può essere usato per attacchi informatici dalla Russia"](https://europa.today.it/attualita/kaspersky-attacchi-informatici-russia.html)
-- ⏳ **2022** · Il Riformista — ["Disinstallate Kaspersky dai PC", i servizi segreti lanciano l'allarme per l'antivirus usa](https://www.ilriformista.it/disinstallate-kaspersky-dai-pc-i-servizi-segreti-lanciano-lallarme-per-lantivirus-usato-da-farnesina-e-viminale-286552/)
-- ⏳ **2022** · Cyber Security 360 — [Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi](https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/)
-- ⏳ **2022** · GitHub — [kaspersky-risks: Risk Evaluation of Kaspersky related Risk, if subject to Coercion by Russ](https://github.com/fpietrosanti/kaspersky-risks)
-- ⏳ **2022** · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://livornopress.it/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack)
-- ⏳ **2022** · Ciao Internet - Matteo Flora (YouTube) — [1010. GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.youtube.com/watch?v=fkChBoDdJxw)
-- ⏳ **2022** · Ciao, Internet! con Matteo Flora (Spreak — [GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.spreaker.com/episode/google-analytics-e-pubbliche-amministrazioni-8-000-pa-sono-fuori-legge-ed-ora--49784871)
-- ⏳ **2022** · Info Data - Il Sole 24 Ore — [La Pubblica amministrazione che usa Google Analytics rispetta le regole della privacy? L'i](https://www.infodata.ilsole24ore.com/2022/05/20/la-pubblica-amministrazione-rispetta-le-regole-della-privacy-cosi-funziona-losservatorio-monitorapa/)
-- ⏳ **2022** · Info Data - Il Sole 24 Ore (#ThinkTallyT — [La Pa che usa Google Analytics rispetta le regole della privacy? #ThinkTallyTalk](https://www.infodata.ilsole24ore.com/2022/05/22/la-pa-usa-google-analytics-rispetta-le-regole-della-privacy-thinktallytalk/)
-- ⏳ **2022** · Privacy Italia — [Google Analytics rimosso da 3.400 siti della PA, grazie a MonitoraPa: "Ora un esposto al G](https://www.privacyitalia.eu/google-analytics-rimosso-da-3-400-siti-della-pa-grazie-a-monitorapa-ora-un-esposto-al-garante-privacy/16760/)
-- ⏳ **2022** · Key4biz — [Google Analytics in PA. 3.400 siti l'hanno rimosso, grazie a MonitoraPa: "Ora esposto al G](https://www.key4biz.it/google-analytics-in-pa-3-400-siti-lhanno-rimosso-grazie-a-monitorapa-a-fine-mese-faremo-anche-esposto-al-garante-privacy/405043/)
-- ⏳ **2022** · Monitora PA — [Ongoing hacks: giugno 2022](https://monitora-pa.it/2022/05/30/ongoing-hacks-202206.html)
-- ⏳ **2022** · Monitora PA — [Una passeggiata tra i fiori...](https://monitora-pa.it/2022/06/12/una-passeggiata-tra-i-fiori.html)
-- ⏳ **2022** · e-privacy XXX 2022 — [MonitoraPA: Attivismo digitale o attacco indiscriminato? (panel)](https://e-privacy.winstonsmith.org/e-privacy-XXX.html)
-- ⏳ **2022** · Il Disinformatico (Paolo Attivissimo) — [Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola?](https://attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html)
-- ⏳ **2022** · Info Data - Il Sole 24 Ore — [Stretta del Garante Privacy italiano su Google Analytics. Aveva ragione MonitoraPa?](https://www.infodata.ilsole24ore.com/2022/06/28/stretta-del-garante-privacy-italiano-google-analytics-ragione-monitorapa/)
-- ⏳ **2022** · GitHub — [monitorapa (fork): Progetto per monitoraggio e notifica di non compliance GDPR alle PA con](https://github.com/fpietrosanti/monitorapa)
-- ⏳ **2022** · Key4biz — [PA, non basta l'addio a Google Analytics: "10mila siti violano privacy cittadini con Googl](https://www.key4biz.it/pa-non-basta-laddio-a-google-analytics-10mila-siti-violano-privacy-cittadini-con-google-fonts/413335/)
-- ⏳ **2022** · Monitora PA — [Google Fonts in vista!](https://monitora-pa.it/2022/08/08/GoogleFonts_in_vista.html)
-- ⏳ **2022** · Monitora PA — [Monitora PA: Speciale Elezioni 2022 - Partito Pirata](https://monitora-pa.it/2022/08/28/replies/PartitoPirata.html)
-- ⏳ **2022** · Partito Pirata — [«Cara MonitoraPA, fammi causa! Saluti, Partito Pirata»](https://www.partito-pirata.it/2022/09/01/il-partito-pirata-risponde-alle-minacce-di-monitorapa-sbagliate-tecnicamente-e-politicamen/)
-- ⏳ **2022** · Monitora PA — [Monitora PA: Speciale Elezioni 2022 - Segnalazione al Garante](https://monitora-pa.it/2022/09/13/Speciale_Elezioni_2022_Segnalazione_al_Garante.html)
-- ⏳ **2022** · Ciao, Internet! con Matteo Flora — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con ](https://podcasts.apple.com/it/podcast/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole/id1046298895?i=1000580095811)
-- ⏳ **2022** · Ciao Internet - Matteo Flora (YouTube) — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con ](https://www.youtube.com/watch?v=0ETCVcF-HIs)
-- ⏳ **2022** · Ciao, Internet! con Matteo Flora (Spreak — [1064. MonitoraPA ha mandato una PEC a 8254 scuole](https://www.spreaker.com/episode/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole-quali-le-domande-e-cosa-rispondere-con-42lf-it--51323447)
-- ⏳ **2022** · Agenda Digitale — [Il FOIA di MonitoraPA: la risposta dell'Avvocatura al Ministero dell'Istruzione](https://www.agendadigitale.eu/sicurezza/privacy/il-foia-di-monitorapa-la-risposta-dellavvocatura-al-ministero-dellistruzione/)
-- ⏳ **2022** · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/)
-- ⏳ **2023** · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)
-- ⏳ **2023** · European Parliament, Policy Department f — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf)
-- ⏳ **2023** · Monitora PA — [Come (iniziare a) difendere gli studenti da Google](https://monitora-pa.it/2023/02/27/come-difendere-gli-studenti-da-google.html)
-- ⏳ **2023** · Monitora PA — [GDPR howto: efficaci misure tecniche supplementari per GMail, Google Drive e Google Worksp](https://monitora-pa.it/2023/03/01/gdpr-misure-tecniche-supplementari-efficaci-per-gmail-e-gsuite.html)
-- ⏳ **2023** · Monitora PA — [3380 richieste di dismettere GMail (& friends)](https://monitora-pa.it/2023/03/01/3380-richieste-di-dismettere-gmail.html)
-- ⏳ **2023** · Easyteam.org (published school reply) — [La risposta alla nuova richiesta di Monitora PA](https://easyteam.org/2023/03/17/la-risposta-alla-nuova-richiesta-di-monitora-pa)
-- ⏳ **2023** · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html)
-- ⏳ **2024** · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/)
-- ⏳ **2025** · Rai - Codice, la vita è digitale (Rai 1) — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.youtube.com/watch?v=Amy7OyM7exo)
-- ⏳ **2026** · GlobaLeaks — [People | GlobaLeaks](https://globaleaks.org/about/people/)
-- ⏳ **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/)
-- ⏳ **2026** · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit)
-- ⏳ **2026** · mxmap.it — [MxMap.it — Sovranità digitale della posta elettronica della PA italiana](https://mxmap.it/)
-- ⏳ **2026** · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/)
-- ⏳ **2026** · GitHub — [whistleblowing-monitor-italia: Monitor Whistleblowing Reporting Channel in Italy (PA & Sto](https://github.com/fpietrosanti/whistleblowing-monitor-italia)
-- ⏳ **2026** · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo)
-- ⏳ **2026** · GitHub — [secassure2026 (fork): Email Provider Dependencies and Email Security in Municipalities Acr](https://github.com/fpietrosanti/secassure2026)
-- ⏳ **2026** · biohack.it — [BIOHACK.IT — White paper & Specification v0.1](https://biohack.it/)
-- ⏳ **2026** · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753)
-- ⏳ **2026** · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0)
-- ⏳ **2026** · 7th TimePie Longevity Forum, Shanghai (B — [Biohack.It - Open Software for Structured Human Self-Experimentation](https://www.timepielongevityforum.com/2026agenda)
-- ⏳ **2026** · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)
 
 ## Fonti NON ottenute o incomplete
 
@@ -321,6 +118,18 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   video/audio platform: download handled separately
 - ⏳ **2013** · YouTube / Transparency International Ita — [Partecipazione e Responsabilità - Fabio Pietrosanti](https://www.youtube.com/watch?v=Uea-94inYkE) · licenza: terzi  
   video/audio platform: download handled separately
+- ⏳ **2013** · YouTube / Cosa Pubblica Libra — [sistema WHISTLEBLOWING](https://www.youtube.com/watch?v=jsPilTzhU5s) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2014** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/429504) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2014** · International Journalism Festival (YouTu — [Intercettazioni telefoniche nell'era dell'NSA Gate](https://www.youtube.com/watch?v=NzCP8Spwb9I) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2014** · Free Press Unlimited (YouTube) — [International Whistleblowers Conference 2014 - Part 1: Morning plenary](https://www.youtube.com/watch?v=UVBzF1rB5ZU) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2014** · YouTube / International Journalism Festi — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.youtube.com/watch?v=XNJ2qcu76yI) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2014** · YouTube / Cosa Pubblica Libra — [Seminario Fabio Pietrosanti](https://www.youtube.com/watch?v=sH38ayPLcmI) · licenza: terzi  
+  video/audio platform: download handled separately
 - ⏳ **2015** · Dyne.org (software manual) — [Jaro Mail 3.2 manual](https://archive.org/details/manualzilla-id-5679480) · licenza: terzi  
   video/audio platform: download handled separately
 - ⏳ **2015** · Conoscenza: Frontiera Digitale Radicale  — [Quello che non devi sapere: Tecnologia e Ragion di Stato](https://www.radioradicale.it/scheda/438714) · licenza: terzi  
@@ -329,11 +138,99 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   video/audio platform: download handled separately
 - ⏳ **2015** · YouTube / International Journalism Festi — [Abbi cura delle tue fonti - come potenziare la redazione con GlobaLeaks](https://www.youtube.com/watch?v=9ghIZk1zcMo) · licenza: terzi  
   video/audio platform: download handled separately
+- ⏳ **2015** · YouTube / International Journalism Festi — [Whistleblowing digitale con GlobaLeaks](https://www.youtube.com/watch?v=CLgioLg7kUE) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2015** · Pirate's Night Show #5 (YouTube livestre — [Pirate's Night Show #5 - Tor e Privacy con Fabio Pietrosanti (Naif)](https://www.youtube.com/watch?v=P-jGzZwzu3U) · licenza: terzi  
+  video/audio platform: download handled separately
 - ⏳ **2015** · International Journalism Festival (YouTu — [Greenwald-in-a-box: un esperimento Hermes](https://www.youtube.com/watch?v=ij4iQbRdkBM) · licenza: terzi  
   video/audio platform: download handled separately
 - ⏳ **2015** · International Journalism Festival (YouTu — [Greenwald-in-a-box: un esperimento Hermes](https://www.youtube.com/watch?v=qAhTIzvV310) · licenza: terzi  
   video/audio platform: download handled separately
 - ⏳ **2015** · YouTube / Nexa Center for Internet & Soc — [73° Mercoledì di Nexa - Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://www.youtube.com/watch?v=xO4m1NDm6qc) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2016** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/464793/) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2016** · e-privacy XX (2016) Roma - Radio Radical — [e-privacy XX (2016) - Privacy ed antiterrorismo (2a giornata) - Tavola Rotonda: Captatori ](https://www.radioradicale.it/scheda/490952/) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2016** · Radio Radicale — [e-privacy XX (2016) - Privacy ed antiterrorismo: un equilibrio reale tra obbiettivi appare](https://www.radioradicale.it/scheda/490952/e-privacy-xx-2016-privacy-ed-antiterrorismo-un-equilibrio-reale-tra-obbiettivi) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2016** · Eunews - How Can We Govern Europe? (3rd  — [Terza edizione di "How Can We Govern Europe?" - Intelligence, privacy e antiterrorismo in ](https://www.radioradicale.it/scheda/492422/) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2016** · Radio Radicale — [Terza edizione di "How Can We Govern Europe?"](https://www.radioradicale.it/scheda/492422/terza-edizione-di-how-can-we-govern-europe) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2016** · Eunews (YouTube) — [Intelligence, privacy e antiterrorismo in Europa](https://www.youtube.com/watch?v=IEViqE1HxfU) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2016** · HackInBo (YouTube) — [Tavola Rotonda con Igor "KOBA" Falcomatà e Fabio "NAIF" Pietrosanti #HackInBo2016](https://www.youtube.com/watch?v=X_zQdg47ZtU) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2017** · Hermes Center for Transparency and Digit — [Guida Hermes al voto digitale](https://archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2017** · SHA2017 - Still Hacking Anyway (media.cc — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2017** · e-privacy 2017 summer edition, Lucca - R — [e-privacy 2017 summer - Parole (ostili) contro la Rete: l'involuzione della percezione del](https://www.radioradicale.it/scheda/512627/) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2017** · Radio Radicale — [e-privacy 2017 summer edition - Parole (ostili) contro la Rete: l'involuzione della percez](https://www.radioradicale.it/scheda/512627/e-privacy-2017-summer-edition-parole-ostili-contro-la-rete-linvoluzione-della) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2017** · Metro Olografix (YouTube) — [[MOCA 2016] GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Dir](https://www.youtube.com/watch?v=UokccrS7GBw) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · Master Anticorruzione, Universita di Rom — [Societa civile e Whistleblowing - Profili tecnici delle piattaforme di segnalazione, organ](https://www.radioradicale.it/scheda/533637/) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · Radio Radicale — [Società civile e Whistleblowing - 2a edizione del Master Anticorruzione dell'Università](https://www.radioradicale.it/scheda/533637/societa-civile-e-whistleblowing-2a-edizione-del-master-anticorruzione-delluniversita) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · e-privacy XXIII, Bologna - Radio Radical — [Singolarita: IoT, A.I., fake news e bolle informative - e-privacy XXIII - Big Brother Awar](https://www.radioradicale.it/scheda/543790/) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · Radio Radicale — [Singolarità. Come l'IoT, l'A.I., le fake news e le bolle informative ci obbligano a ripens](https://www.radioradicale.it/scheda/543790/singolarita-come-liot-lai-le-fake-news-e-le-bolle-informative-ci-obbligano-a-ripensare) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · e-privacy XXIV, Roma - Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/xxiv-edizione-di-e-privacy-gdpr-vs-tecnologie-emergenti-prima-giornata) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · FOSDEM (YouTube) — [Public money, public code, the Italian way Hacking Italian Administrations to get to the c](https://www.youtube.com/watch?v=KizAo_22FYo) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · Italian Hacker Camp IHC (YouTube) — [Del Monte, Pietrosanti - La collaborazione tra hackers e attivisti](https://www.youtube.com/watch?v=QZ_jlM4s8eM) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · marco scialdone (YouTube) — [Global Forum on Modern Direct Democracy 2018 - E-democracy: the dark side (prima parte)](https://www.youtube.com/watch?v=UI16WaavDNA) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · Euronews (in Italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://www.youtube.com/watch?v=gcROTSHQW4A) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · YouTube - Privacy Camp 2018 — [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2018** · International Journalism Festival (YouTu — [Privacy nightmare Italia: storie di sorveglianza](https://www.youtube.com/watch?v=ukpO8e80sQc) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2019** · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2019** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Online? No, grazie, e ti spiego perché...](https://www.spreaker.com/episode/voto-online-no-grazie-e-ti-spiego-perche--17308523) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2019** · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2019** · YouTube (unverified channel) — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2020** · Agenda Podcast (Spreaker) — [Coronavirus: cos'è e come funziona il contact tracing?](https://www.spreaker.com/episode/coronavirus-cos-e-e-come-funziona-il-contact-tracing--24430226) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2020** · Ciao, Internet! con Matteo Flora (Spreak — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2020** · Mojo Italia (YouTube) — [Come difendere il proprio smartphone](https://www.youtube.com/watch?v=JMxc3mgAO7E) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2021** · Radio Radicale — [Da "Milano Partecipa" alla comunità italiana per la e-democracy](https://www.radioradicale.it/scheda/631935/da-milano-partecipa-alla-comunita-italiana-per-la-e-democracy) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2021** · Radio Radicale — [Riabitiamo i centri storici](https://www.radioradicale.it/scheda/638849/riabitiamo-i-centri-storici) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2021** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Elettronico: perché è (ancora) una pessima idea](https://www.spreaker.com/episode/voto-elettronico-perche-e-ancora-una-pessima-idea--45210765) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2021** · YouTube - Free Software Foundation Europ — [The first AGPL compliance case settled in an Italian Court - FOSDEM 2021](https://www.youtube.com/watch?v=gm0NKwL5QZw) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2021** · VoidSec (YouTube) — [Pirate's Night Show #5 Tor e Privacy con Fabio Pietrosanti Naif](https://www.youtube.com/watch?v=j5T6loxU25s) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2022** · Ciao, Internet! con Matteo Flora — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con ](https://podcasts.apple.com/it/podcast/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole/id1046298895?i=1000580095811) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2022** · Ciao, Internet! con Matteo Flora (Spreak — [1064. MonitoraPA ha mandato una PEC a 8254 scuole](https://www.spreaker.com/episode/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole-quali-le-domande-e-cosa-rispondere-con-42lf-it--51323447) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2022** · Ciao, Internet! con Matteo Flora (Spreak — [GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.spreaker.com/episode/google-analytics-e-pubbliche-amministrazioni-8-000-pa-sono-fuori-legge-ed-ora--49784871) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2022** · Ciao Internet - Matteo Flora (YouTube) — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con ](https://www.youtube.com/watch?v=0ETCVcF-HIs) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2022** · Ciao Internet - Matteo Flora (YouTube) — [1010. GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.youtube.com/watch?v=fkChBoDdJxw) · licenza: terzi  
+  video/audio platform: download handled separately
+- ⏳ **2025** · Rai - Codice, la vita è digitale (Rai 1) — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.youtube.com/watch?v=Amy7OyM7exo) · licenza: terzi  
   video/audio platform: download handled separately
 - ❌ **2009** · infosecurity.ch (blog) — [Saas: is the end of the myth?](https://web.archive.org/web/2012/http://infosecurity.ch/20090710/saas-is-the-end-of-the-myth/) · licenza: propria  
   URLError
@@ -347,6 +244,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   http 404
 - ❌ **2011** · Infosec Island — [ZRTP Voice Encryption is Finally a Standard RFC](http://sktguow.infosecisland.com/blogview/12929-ZRTP-Voice-Encryption-is-Finally-a-Standard-RFC.html) · licenza: propria  
   URLError
+- ❌ **2026** · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753) · licenza: terzi  
+  http 403
 - 🟡 **1998** · BFi (Butchered From Inside) n.4 — ["leggeteve questa" by Naif (reader letter)](https://www.s0ftpj.org/bfi/bfi4.tar.gz) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2001** · Corriere della Sera (ed. nazionale, p. 2 — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma p](https://archivio.corriere.it/Archivio/interface/landing.html) · licenza: terzi  
@@ -404,6 +303,48 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🟡 **2013** · Corriere.it (Reportime) — [Quando l'utente non si lascia spiare](http://www.corriere.it/inchieste/reportime/societa/quando-utente-non-si-lascia-spiare/afda7abe-e342-11e2-a1f9-62e4ef08d60d.shtml) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2013** · Hermes Center / Skype open letter — [[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”](https://web.archive.org/web/2015/http://logioshermes.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2015** · CCC Camp 2015 Wiki — [Projects:GlobaLeaks](https://events.ccc.de/camp/2015/wiki/Projects:GlobaLeaks) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2016** · Whistleblowing Solutions Impresa Sociale — [Whistleblowing Solutions Impresa Sociale S.r.l. founded to sustain GlobaLeaks](https://whistleblowing.it/en/about-us/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2017** · Askanews — [Captatori informatici, proposta di legge di Civici e Innovatori](http://www.askanews.it/cronaca/2017/01/31/captatori-informatici-proposta-di-legge-di-civici-e-innovatori-pn_20170131_00175/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2017** · e-privacy 2017 summer (XXI, Lucca) — [Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza](https://e-privacy.winstonsmith.org/e-privacy-XXI.html) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · EDRi (European Digital Rights) — [Big Brother Awards 2018 Italy](https://edri.org/big-brother-awards-2018-italy/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · EDRi (European Digital Rights) — [Hermes Center demands investigation of NAT-related data retention](https://edri.org/hermes-center-demands-investigation-of-nat-related-data-retention/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · EDRi (European Digital Rights) — [Member in the Spotlight: Hermes Center](https://edri.org/our-work/member-in-the-spotlight-hermes-center/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · EDRi (European Digital Rights) — [Welcoming new EDRi members: FSFE, Hermes Center, NOYB, and Xnet](https://edri.org/welcoming-new-edri-members-fsfe-hermes-center-noyb-and-xnet/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · GlobaLeaks blog — [Nasce WhistleblowingPA](https://globaleaks.org/it/2018/10/01/nasce-whistleblowing-pa/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2020** · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2020** · Interoperable Europe Portal (European Co — [EUPL for Italian software](https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2020** · Palgrave Macmillan (Springer Nature), Lo — [Digital Whistleblowing Platforms in Journalism: Encrypting Leaks](https://link.springer.com/book/10.1007/978-3-030-38505-7) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2021** · Comune di Milano - Milano Partecipa / Mi — [Da Milano Partecipa alla comunità italiana per la e-democracy](https://www.partecipami.it/calendar/event/1/8691) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2023** · Monitora PA — [3380 richieste di dismettere GMail (& friends)](https://monitora-pa.it/2023/03/01/3380-richieste-di-dismettere-gmail.html) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2023** · Monitora PA — [GDPR howto: efficaci misure tecniche supplementari per GMail, Google Drive e Google Worksp](https://monitora-pa.it/2023/03/01/gdpr-misure-tecniche-supplementari-efficaci-per-gmail-e-gsuite.html) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · biohack.it — [BIOHACK.IT — White paper & Specification v0.1](https://biohack.it/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · mxmap.it — [MxMap.it — Sovranità digitale della posta elettronica della PA italiana](https://mxmap.it/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · 7th TimePie Longevity Forum, Shanghai (B — [Biohack.It - Open Software for Structured Human Self-Experimentation](https://www.timepielongevityforum.com/2026agenda) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟠 **2000** · SecurityFocus BID 1335 — [3R Soft MailStudio 2000 vulnerabilities (BID 1335, CVE-2000-0526)](https://www.securityfocus.com/bid/1335) · licenza: propria  
   page is a JavaScript shell with almost no text: needs browser capture
@@ -571,18 +512,161 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - **2013** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — July, 31st 2013](https://blog.torproject.org/tor-weekly-news-july-31st-2013/) · copia: `2013/acb3104fa036` (Web Archive 20190131) · licenza: terzi
 - **2013** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — October 9th, 2013](https://blog.torproject.org/tor-weekly-news-october-9th-2013/) · copia: `2013/01c0be7c6b03` (Web Archive 20190131) · licenza: terzi
 - **2013** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — September 18th, 2013](https://blog.torproject.org/tor-weekly-news-september-18th-2013/) · copia: `2013/9be5871abf08` (Web Archive 20190131) · licenza: terzi
+- **2013** · 30C3 Public Wiki (Chaos Communication Co — [Projects:GlobaLeaks](https://events.ccc.de/congress/2013/wiki/Projects:GlobaLeaks) · copia: `2013/516230f88398` (Web Archive 20140222) · licenza: propria
+- **2013** · Global Investigative Journalism Conferen — [Security Workshop: Tor & Globaleaks: Protecting Yourself and Your Sources Online](https://gijc13.sched.com/event/1cntRel/global-security-workshop-tor-globaleaks-protecting-yourself-and-your-sources-online-eng) · copia: `2013/f43791503657` (Web Archive 20190820) · licenza: terzi
 - **2013** · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/) · copia: `2013/2477679443f8` (Web Archive 20240917) · licenza: terzi
 - **2013** · Transparency International Italia - Whis — [Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione](https://web.archive.org/web/2015/http://logioshermes.org/hermes-center-intervento-whistleblowingitalia-congress-milano/) · copia: `2013/7f1c35b6bd0c` (Web Archive 20131019) · licenza: propria
 - **2013** · WikiLeaks - Hacking Team emails (publish — [Re: Microsoft e gli exploit....](https://wikileaks.org/hackingteam/emails/emailid/224431) · copia: `2013/f77f960c1c97` (live) · licenza: terzi
 - **2013** · International Journalism Festival 2013 — [Intercettazioni e comunicazioni confidenziali](https://www.festivaldelgiornalismo.com/programme/2013/intercettazioni-e-comunicazioni-confidenziali) · copia: `2013/b322ba54385b` (Web Archive 20130425) · licenza: terzi
 - **2013** · International Journalism Festival (Perug — [Wiretappings and secure communications (Intercettazioni e comunicazioni confidenziali)](https://www.journalismfestival.com/programme/2013/intercettazioni-e-comunicazioni-confidenziali) · copia: `2013/f7d36ff9a390` (Web Archive 20130604) · licenza: terzi
 - **2013** · Punto Informatico — [Publeaks protegge le soffiate dalla Rete](https://www.punto-informatico.it/publeaks-protegge-le-soffiate-dalla-rete/) · copia: `2013/70a47bb3f216` (Web Archive 20210117) · licenza: terzi
+- **2013** · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/) · copia: `2013/89fd1d936ac5` (Web Archive 20140408) · licenza: terzi
+- **2014** · techPresident (Personal Democracy Media) — [Anti-Corruption Alert, a Secure Platform For Public Servants Willing to Blow the Whistle](http://techpresident.com/news/25320/anti-corruption-alert-safe-platform-public-servants-willing-blow-whistle) · copia: `2014/c8626f287fc5` (Web Archive 20141031) · licenza: terzi
+- **2014** · vicino/lontano - Friuli Future Forum (Ud — [Workshop #1: Come sparire da Internet](http://www.vicinolontano.it/eventi/workshop-1-come-sparire-da-internet/) · copia: `2014/4d7e564c2840` (Web Archive 20140511) · licenza: terzi
+- **2014** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — April 23rd, 2014](https://blog.torproject.org/tor-weekly-news-april-23rd-2014/) · copia: `2014/d091c4258c6c` (Web Archive 20190131) · licenza: terzi
+- **2014** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — September 17th, 2014](https://blog.torproject.org/tor-weekly-news-september-17th-2014/) · copia: `2014/633db027adcb` (Web Archive 20190131) · licenza: terzi
+- **2014** · 31C3 Public Wiki (Chaos Communication Co — [Projects:GlobaLeaks](https://events.ccc.de/congress/2014/wiki/Projects:GlobaLeaks) · copia: `2014/7336a540eb22` (Web Archive 20150512) · licenza: propria
+- **2014** · European Journalism Observatory (it.ejo. — [ExpoLeaks, whistleblowing per Expo](https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza) · copia: `2014/aaae2cfd6c8e` (Web Archive 20160307) · licenza: terzi
+- **2014** · The Tor Project, Tor proposals (torspec) — [Making Tor2Web mode faster (Tor Proposal 233)](https://spec.torproject.org/proposals/233-quicken-tor2web-mode.html) · copia: `2014/109cc7c1d44b` (Web Archive 20240615) · licenza: terzi
+- **2014** · International Journalism Festival 2014 — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `2014/5d059e56be1a` (Web Archive 20140429) · licenza: terzi
+- **2014** · International Journalism Festival 2014 — [Intercettazioni telefoniche nell'era dell'NSA Gate](https://www.festivaldelgiornalismo.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate) · copia: `2014/eda7714af87e` (Web Archive 20140512) · licenza: terzi
+- **2014** · International Journalism Festival - news — [How to protect the next Snowden](https://www.journalismfestival.com/news/how-to-protect-the-next-snowden/) · copia: `2014/87e918067ece` (Web Archive 20140513) · licenza: terzi
+- **2014** · International Journalism Festival (Perug — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `2014/4d9d695006fd` (Web Archive 20140714) · licenza: terzi
+- **2014** · International Journalism Festival (Perug — [Telephone intercepts in the age of NSAGate](https://www.journalismfestival.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate) · copia: `2014/b69196699305` (Web Archive 20140714) · licenza: terzi
+- **2014** · Motherboard (VICE) — [Inside SS7, the Insecure Global Cell Network That's Used to Track Phones](https://www.vice.com/en/article/inside-ss7-the-insecure-global-cell-network-thats-used-to-track-phones/) · copia: `2014/efc9aa845d31` (Web Archive 20201112) · licenza: terzi
+- **2014** · vicino/lontano - Friuli Future Forum (Ud — [Workshop #2: Su Facebook, ma non senza privacy](https://www.vicinolontano.it/eventi/workshop-2-su-facebook-ma-non-senza-privacy/) · copia: `2014/c2ecf4eb2736` (Web Archive 20191019) · licenza: terzi
+- **2014** · Wired Italia — [Come proteggere i prossimi Snowden](https://www.wired.it/attualita/media/2014/05/04/come-proteggere-prossimi-snowden/) · copia: `2014/eb2420eb507e` (Web Archive 20140505) · licenza: terzi
+- **2014** · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/) · copia: `2014/eee8deed8da5` (Web Archive 20140124) · licenza: terzi
+- **2014** · Wired Italia — [Tor è ancora anonimo?](https://www.wired.it/internet/web/2014/11/25/tor-anonimo/) · copia: `2014/a3513e829074` (Web Archive 20141201) · licenza: terzi
+- **2014** · Twitter/X @fpietrosanti — [NSA User's Guide to PRISM Skype Collection (Interception) #31c3](https://x.com/fpietrosanti/status/549294291424903169) · copia: `2014/3e76af7a8ccc` (Web Archive 20190623) · licenza: terzi
+- **2015** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — August 30th, 2015](https://blog.torproject.org/tor-weekly-news-august-30th-2015/) · copia: `2015/72ec91ea27f2` (Web Archive 20190131) · licenza: terzi
+- **2015** · e-privacy XVII (Camera dei Deputati, Rom — [Apertura lavori](https://e-privacy.winstonsmith.org/e-privacy-XVII.html) · copia: `2015/db043732d54b` (Web Archive 20160307) · licenza: terzi
+- **2015** · Chaos Communication Camp 2015 Wiki — [Village:Italian Embassy](https://events.ccc.de/camp/2015/wiki/Village:Italian_Embassy) · copia: `2015/be0a00adc033` (Web Archive 20150710) · licenza: propria
+- **2015** · Leo Rugens - Sconfinamenti (blog) — [Hacking Team e Resi Informatica: sassolino nella scarpa dopo sassolino nella scarpa, vuoi ](https://leorugens.wordpress.com/2015/08/09/hacking-team-e-resi-informatica-sassolino-nella-scarpa-dopo-sassolino-nella-scarpa-vuoi-vedere-che-questa-volta-facciamo-piazza-pulita/) · copia: `2015/a28007ff1dbb` (Web Archive 20191021) · licenza: terzi
 - **2015** · Nexa Center for Internet & Society (Poli — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://nexa.polito.it/mercoledi-73/) · copia: `2015/3ecb72b724bd` (Web Archive 20150305) · licenza: terzi
+- **2015** · Tor Tech Report 2015-04-001 (The Tor Pro — [Hidden-service statistics reported by relays](https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf) · copia: `2015/292d68aabe22` (Web Archive 20151202) · licenza: terzi
 - **2015** · Hermes Center — [Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes](https://web.archive.org/web/2015/http://logioshermes.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/) · copia: `2015/41fa50b57983` (Web Archive 20150806) · licenza: propria
+- **2015** · International Journalism Festival 2015 — [Whistleblowing digitale con GlobaLeaks](https://www.festivaldelgiornalismo.com/programme/2015/digital-whistleblowing-with-globaleaks) · copia: `2015/b63dd0f8e324` (Web Archive 20150426) · licenza: terzi
 - **2015** · International Journalism Festival 2015 — [Greenwald-in-a-box: un esperimento Hermes](https://www.festivaldelgiornalismo.com/programme/2015/greenwald-in-a-box-a-hermes-experiment) · copia: `2015/0ccd4d7d470e` (Web Archive 20150426) · licenza: terzi
+- **2015** · International Journalism Festival 2015 — [Abbi cura delle tue fonti - come potenziare la redazione con GlobaLeaks](https://www.festivaldelgiornalismo.com/programme/2015/take-care-of-your-sources-newsroom-empowering-with-globaleaks) · copia: `2015/648746b6b177` (Web Archive 20150426) · licenza: terzi
 - **2015** · International Journalism Festival - news — [Whistleblowing the world #ijf15](https://www.journalismfestival.com/news/whistleblowing-the-world/) · copia: `2015/ff909b446f44` (Web Archive 20240721) · licenza: terzi
+- **2015** · International Journalism Festival (Perug — [Digital whistleblowing with GlobaLeaks](https://www.journalismfestival.com/programme/2015/digital-whistleblowing-with-globaleaks) · copia: `2015/eea57ded2dbf` (Web Archive 20160709) · licenza: terzi
 - **2015** · International Journalism Festival (Perug — [Greenwald-in-a-box: a Hermes experiment](https://www.journalismfestival.com/programme/2015/greenwald-in-a-box-a-hermes-experiment) · copia: `2015/d12594f0a211` (Web Archive 20160710) · licenza: terzi
 - **2015** · International Journalism Festival (Perug — [Greenwald-in-a-box: a Hermes experiment (second session)](https://www.journalismfestival.com/programme/2015/greenwald-in-a-box-a-hermes-experiment-2) · copia: `2015/4420ff7c0ac5` (Web Archive 20160710) · licenza: terzi
 - **2015** · International Journalism Festival (Perug — [Take care of your sources - newsroom empowering with GlobaLeaks](https://www.journalismfestival.com/programme/2015/take-care-of-your-sources-newsroom-empowering-with-globaleaks) · copia: `2015/9965882f3dd8` (live) · licenza: terzi
+- **2015** · la Repubblica (Repubblica.it Tecnologia) — [Tante aziende e poche regole: il Far West della sorveglianza digitale](https://www.repubblica.it/tecnologia/sicurezza/2015/07/16/news/tante_aziende_poche_regole_il_far_west_dell_intelligence-119217185/) · copia: `2015/71339ffbcc94` (Web Archive 20150719) · licenza: terzi
 - **2015** · Wired Italia — [Slur, la piattaforma che vende le fughe di notizie](https://www.wired.it/attualita/media/2015/01/07/slur-vendita-fughe-notizie/) · copia: `2015/d43ac943c242` (Web Archive 20150110) · licenza: terzi
 - **2015** · Wired Italia — [Gli USA contro il Dark Web. Ma i terroristi preferiscono la Rete normale](https://www.wired.it/internet/web/2015/02/23/gli-usa-contro-il-dark-web-ma-i-terroristi-preferiscono-la-rete-normale/) · copia: `2015/5cd7abc7531d` (Web Archive 20150226) · licenza: terzi
+- **2016** · e-privacy XX 2016 (Roma) — [Tavola Rotonda Captatori Informatici](https://e-privacy.winstonsmith.org/e-privacy-XX.html) · copia: `2016/dfdf9b15aa3a` (Web Archive 20161114) · licenza: terzi
+- **2016** · MOCA 2016 - Metro Olografix Camp (Pescar — [GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani](https://moca2016.olografix.org/it/employees/fabio-naif-pietrosanti/) · copia: `2016/36d536a6070d` (live) · licenza: terzi
+- **2016** · LineaEDP — [Cyber sicurezza: attacco a Renzi sulla nomina Carrai](https://www.lineaedp.it/categorie-funzionali/home-page/primo-piano/cyber-sicurezza-attacco-a-renzi-sulla-nomina-carrai/) · copia: `2016/9436b6f13785` (live) · licenza: terzi
+- **2016** · OSCE Representative on Freedom of the Me — [BIOS - conference speaker biographies incl. Fabio Pietrosanti](https://www.osce.org/sites/default/files/f/documents/4/9/263301_0.pdf) · copia: `2016/08ad988ef917` (live) · licenza: terzi
+- **2016** · Panorama — [Sicurezza cibernetica nazionale a Carrai, cosa non va a livello tecnico](https://www.panorama.it/tempo-libero/tecnologia/sicurezza-cibernetica-nazionale-a-carrai-cosa-non-va-a-livello-tecnico) · copia: `2016/7436bb6ce05d` (Web Archive 20260311) · licenza: terzi
+- **2016** · Valigia Blu — [Mi chiamo Carrai, Marco Carrai e senza competenze potrei fare il capo della cybersicurezza](https://www.valigiablu.it/mi-chiamo-carrai-marco-carrai-e-senza-competenze-potrei-fare-il-capo-della-cybersicurezza/) · copia: `2016/754391ca99e6` (Web Archive 20160122) · licenza: terzi
+- **2017** · Boing Boing — [Italy unveils a legal proposal to regulate government hacking](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html) · copia: `2017/d316cfd30704` (Web Archive 20170215) · licenza: terzi
+- **2017** · Citizen Lab, Munk School of Global Affai — [Who's Watching Little Brother? A Checklist for Accountability in the Industry Behind Gover](https://citizenlab.ca/wp-content/uploads/2017/03/citizenlab_whos-watching-little-brother.pdf) · copia: `2017/8c507215d23b` (Web Archive 20180228) · licenza: terzi
+- **2017** · EDRi (European Digital Rights) — [Italy extends data retention to six years](https://edri.org/our-work/italy-extends-data-retention-to-six-years/) · copia: `2017/dcc7ee25c642` (Web Archive 20200922) · licenza: propria
+- **2017** · EDRi (European Digital Rights) — [Italy plans to extend telecoms data retention and increase censorship powers](https://edri.org/our-work/italy-plans-extend-telecoms-data-retention-increase-censorship-powers/) · copia: `2017/a89b8b021b54` (Web Archive 20200927) · licenza: propria
+- **2017** · GitHub / Camera dei Deputati (Civici e I — [Trojans-And-Rule-of-Law: Italian bill proposal to regulate Trojan use by LEA (Proposta di ](https://github.com/fpietrosanti/Trojans-And-Rule-of-Law) · copia: `2017/3dc34cde44b3` (Web Archive 20200930) · licenza: propria
+- **2017** · Matteo Flora (mgpf.it) — [Referendum autonomia Lombardia: hacker trova dati e codici online...](https://mgpf.it/2017/10/20/referendum-autonomia-lombardia-hacker.html) · copia: `2017/4df6c2948f08` (Web Archive 20171231) · licenza: terzi
+- **2017** · la Repubblica (Milano) — [Referendum Lombardia, gli ingegneri lanciano l'allarme sicurezza: "Troppi segreti sul voto](https://milano.repubblica.it/cronaca/2017/10/19/news/ilcaso_l_associazione_degli_ingegneri_protesta_per_l_accesso_negato_ai_dettagli_tecnici_su_lla_tutela_dei_dati_sensibi-178667938/) · copia: `2017/c7fbfa621deb` (Web Archive 20171019) · licenza: terzi
+- **2017** · Internet Policy Review, Vol. 6, Issue 1  — [Australian internet policy](https://policyreview.info/node/457/pdf) · copia: `2017/2419bfb5cf59` (Web Archive 20180411) · licenza: terzi
+- **2017** · Tampere University of Technology (Finlan — [TorSNIP: Hidden Service Proxy with End-to-End Security](https://trepo.tuni.fi/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&isAllowed=y) · copia: `2017/4ac2264ec0cf` (Web Archive 20241108) · licenza: terzi
+- **2017** · Trojans And Rule of Law — [Trojans And Rule of Law](https://trojansandruleoflaw.org/) · copia: `2017/7542ca8dcc65` (Web Archive 20210516) · licenza: propria
+- **2017** · Twitter/X @fpietrosanti — [An overview on the #SHA2017 hacker camp from 4th to 8th August @SHA2017Camp /by @interlogi](https://twitter.com/fpietrosanti/status/898831511708983296) · copia: `2017/edd84181eac7` (live) · licenza: terzi
+- **2017** · Hermes Center — [Conservazione indiscriminata dei dati per 6 anni](https://web.archive.org/web/20170803052501/https://www.hermescenter.org/conservazione-indiscriminata-dei-dati-per-6-anni/) · copia: `2017/7f12afb8440a` (Web Archive 20170803) · licenza: propria
+- **2017** · Hermes Center — [Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE](https://web.archive.org/web/20200607012151/https://www.hermescenter.org/sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise/) · copia: `2017/dc4b7ec8dd77` (Web Archive 20200607) · licenza: propria
+- **2017** · DIG Festival 2017 (Riccione) - via Herme — [Il Centro Hermes al DIG Festival per la cybersecurity dei giornalisti (con slide)](https://web.archive.org/web/20200920224518/https://www.hermescenter.org/centro-hermes-dig-festival-cybersecurity-giornalisti-slide/) · copia: `2017/11274bcedab3` (Web Archive 20200920) · licenza: propria
+- **2017** · SHA2017 Wiki — [Village:ItalianEmbassy (Italian Hacker Embassy at SHA2017)](https://wiki.sha2017.org/w/Village:ItalianEmbassy) · copia: `2017/519f27acc52b` (Web Archive 20170801) · licenza: propria
+- **2017** · Agenda Digitale — [Articoli di Fabio Pietrosanti (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/) · copia: `2017/264a9bc7d25b` (Web Archive 20200925) · licenza: terzi
+- **2017** · University of California, Berkeley, PhD  — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf) · copia: `2017/07478431c5a6` (Web Archive 20190612) · licenza: terzi
+- **2017** · European Parliament, Policy Department f — [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf) · copia: `2017/114e1a17fa02` (Web Archive 20170419) · licenza: terzi
+- **2017** · Il Fatto Quotidiano (blog Umberto Rapett — [Referendum Lombardia e voto elettronico, mi fido o no?](https://www.ilfattoquotidiano.it/2017/10/21/referendum-lombardia-e-voto-elettronico-mi-fido-o-no/3927235/) · copia: `2017/60a94504eb19` (Web Archive 20171022) · licenza: terzi
+- **2017** · Techdirt — [Italy Proposes Astonishingly Sensible Rules To Regulate Government Hacking Using Trojans](https://www.techdirt.com/2017/02/17/italy-proposes-astonishingly-sensible-rules-to-regulate-government-hacking-using-trojans/) · copia: `2017/45fabcbae3a3` (Web Archive 20220307) · licenza: terzi
+- **2017** · Valigia Blu — [Referendum Lombardia e Veneto: cosa si vota, i costi e le critiche al sistema elettronico](https://www.valigiablu.it/referendum-autonomia-lombardia-veneto/) · copia: `2017/0701a07df0ff` (Web Archive 20171020) · licenza: terzi
+- **2017** · Wired Italia — [Cybersorveglianza, come le aziende (anche italiane) aiutano Iran e Sud Sudan](https://www.wired.it/internet/regole/2017/04/11/cybersorveglianza-aziende-italiane-iran/) · copia: `2017/9e8e5be7a8ad` (Web Archive 20170415) · licenza: terzi
+- **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix](http://www.radio24.ilsole24ore.com/programma/2024/trasmissione-marzo-2018-224932-gSLAjFnabC) · copia: `2018/97dd2bdfc59c` (Web Archive 20180505) · licenza: terzi
+- **2018** · FOSDEM 2018 (Brussels) - Legal and Polic — [Public money, public code, the Italian way: Hacking Italian Administrations to get to the ](https://archive.fosdem.org/2018/schedule/event/public_money_public_code/) · copia: `2018/265f218d2f9a` (Web Archive 20210927) · licenza: terzi
+- **2018** · Big Brother Awards Italia (Progetto Wins — [Big Brother Awards Italia 2018](https://bba.winstonsmith.org/) · copia: `2018/cdebd212568b` (Web Archive 20180621) · licenza: propria
+- **2018** · e-privacy 2018 (XXIII, Bologna) — [Big Brother Awards Italia 2018](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html) · copia: `2018/de6bba8ab6d7` (Web Archive 20181025) · licenza: terzi
+- **2018** · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri) · copia: `2018/961477acc443` (Web Archive 20180409) · licenza: terzi
+- **2018** · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/) · copia: `2018/7e2f69f4b97b` (Web Archive 20250811) · licenza: terzi
+- **2018** · Privacy Camp 2018 / EDPS-Civil Society S — [EDPS-Civil Society Summit 2018](https://privacycamp.eu/2018-edps-civil-society-summit/) · copia: `2018/ab26c076e307` (Web Archive 20180325) · licenza: terzi
+- **2018** · Ethic Whispers (ethicwhispers.io) — [Ethic Whispers - the security token for whistleblowing](https://web.archive.org/web/20211203145414/http://ethicwhispers.io/) · copia: `2018/81904b98c83d` (Web Archive 20211203) · licenza: propria
+- **2018** · AGI — [C'e una nuova risorsa per gli informatori anonimi nella pubblica amministrazione](https://www.agi.it/innovazione/whistleblowing_pa-4433292/news/2018-10-01/) · copia: `2018/df6bbf5495fb` (Web Archive 20181001) · licenza: terzi
+- **2018** · International Journalism Festival 2018 — [Privacy nightmare Italia: storie di sorveglianza](https://www.festivaldelgiornalismo.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/27e62d9ca635` (Web Archive 20180705) · licenza: terzi
+- **2018** · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti) · copia: `2018/f855533e7142` (Web Archive 20190825) · licenza: terzi
+- **2018** · International Journalism Festival 2018 ( — [Italian privacy nightmare: tales of surveillance](https://www.journalismfestival.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/6f8c23954448` (Web Archive 20180620) · licenza: terzi
+- **2018** · Key4biz — [App per il ciclo mestruale, a rischio la privacy piu intima](https://www.key4biz.it/app-per-il-ciclo-mestruale-a-rischio-la-privacy-piu-intima/218397/) · copia: `2018/8d3cbbfb68f2` (Web Archive 20220625) · licenza: terzi
+- **2018** · Radio1 Rai (via LinkedIn Pulse, Paola Gu — [A Padova il raduno degli hacker: Pietrosanti: "Non chiamateci pirati, siamo cavalieri del ](https://www.linkedin.com/pulse/padova-il-raduno-degli-hacker-pietrosanti-non-pirati-siamo-guarnieri?trk=public_profile_article_view) · copia: `2018/88836bbf4796` (live) · licenza: terzi
+- **2018** · Motherboard / Vice Italia — [Riutilizzare i 24.400 tablet per il referendum della Lombardia è un casino](https://www.vice.com/it/article/problema-riutilizzo-nelle-scuole-tablet-referendum-lombardia/) · copia: `2018/e5a56fb780d4` (Web Archive 20250914) · licenza: terzi
+- **2019** · Forum Italia (Developers Italia) — [Software di Whistleblowing Anticorruzione ANAC e Riuso GlobaLeaks](https://forum.italia.it/t/software-di-whistleblowing-anticorruzione-anac-e-riuso-globaleaks/7114) · copia: `2019/f80d52afc3d3` (Web Archive 20231208) · licenza: propria
+- **2019** · GitHub - ANAC anticorruzione/openwhistle — [openwhistleblowing/AUTHORS](https://github.com/anticorruzione/openwhistleblowing/blob/master/AUTHORS) · copia: `2019/5c5b4eed38b7` (live) · licenza: terzi
+- **2019** · MOJO Italia - Festival del giornalismo m — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/) · copia: `2019/42c19040bc86` (live) · licenza: terzi
+- **2019** · Dipartimento della Funzione Pubblica - i — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/) · copia: `2019/fed00e4c6d1e` (Web Archive 20190724) · licenza: propria
+- **2019** · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/) · copia: `2019/b455b7db3090` (Web Archive 20190410) · licenza: propria
+- **2020** · CRS Scuola Critica del Digitale + Forum  — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/) · copia: `2020/423816c0d044` (Web Archive 20210619) · licenza: terzi
+- **2020** · GitHub fpietrosanti — [ifuriosi](https://github.com/fpietrosanti/ifuriosi) · copia: `2020/bc74d92eaf61` (Web Archive 20201205) · licenza: propria
+- **2020** · Springer, The International Library of E — [Cybersecurity and the State](https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf) · copia: `2020/4209544753a4` (Web Archive 20200510) · licenza: terzi
+- **2020** · Agenda Digitale — [Software libero "massacrato" da Trump: un passo verso la sorveglianza globale](https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/) · copia: `2020/d192de242c2d` (Web Archive 20200625) · licenza: terzi
+- **2020** · Key4biz — [In Italia esiste davvero il comitato "quantistico" sul voto elettronico?](https://www.key4biz.it/in-italia-esiste-davvero-il-comitato-quantistico-sul-voto-elettronico/332220/) · copia: `2020/25d4680f2c02` (Web Archive 20201123) · licenza: terzi
+- **2020** · Linkiesta (Nicola Biondo) — [Lo sconosciuto comitato governativo che sta pensando come farci votare con il voto elettro](https://www.linkiesta.it/2020/11/comitato-foia-voto-elettronico-italia-news/) · copia: `2020/37398b4034a9` (Web Archive 20201119) · licenza: terzi
+- **2020** · Pandora Rivista (online review of politi — [I trojan di Stato: la nuova legge sulle intercettazioni](https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/) · copia: `2020/03251fc3f640` (Web Archive 20201205) · licenza: terzi
+- **2020** · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/) · copia: `2020/8e681af68171` (live) · licenza: terzi
+- **2020** · Valigia Blu — [Come CIA e servizi segreti tedeschi hanno spiato alleati e avversari vendendo macchine ant](https://www.valigiablu.it/cia-germania-spionaggio-alleati/) · copia: `2020/3623df8bfee3` (Web Archive 20200327) · licenza: terzi
+- **2021** · FOSDEM 2021 (Legal and Policy Issues dev — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license ](https://archive.fosdem.org/2021/schedule/event/agplcompliance/) · copia: `2021/93a94126c6db` (Web Archive 20211020) · licenza: terzi
+- **2021** · FOSDEM 2021 — [FOSDEM 2021 - Fabio Pietrosanti (naif) speaker page](https://archive.fosdem.org/2021/schedule/speaker/fabio_pietrosanti_naif/) · copia: `2021/b94e84acade8` (Web Archive 20220119) · licenza: terzi
+- **2021** · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license ](https://av.tib.eu/media/13945) · copia: `2021/9b7f16610b2b` (Web Archive 20210729) · licenza: terzi
+- **2021** · FSFE — [FSFE at FOSDEM 2021](https://fsfe.org/news/2021/news-20210311-01.en.html) · copia: `2021/cc58f8f2d867` (Web Archive 20210311) · licenza: terzi
+- **2021** · GitHub — [Locandine_TelecomItalia](https://github.com/fpietrosanti/Locandine_TelecomItalia) · copia: `2021/f865cc63f1d8` (Web Archive 20210101) · licenza: propria
+- **2021** · GitHub — [projects-and-ideas](https://github.com/fpietrosanti/projects-and-ideas) · copia: `2021/1ba4fd005d30` (live) · licenza: propria
+- **2021** · GlobaLeaks blog — [Workshop: Building Secure Whistleblowing Systems for Anticorruption with the GlobaLeaks So](https://globaleaks.org/2021/04/04/workshop-building-secure-whistleblowing-systems-for-anticorruption-with-the-globaleaks-software/) · copia: `2021/888348d89638` (Web Archive 20230328) · licenza: propria
+- **2021** · noyb - European Center for Digital Right — [Digital Rights alliance file legal complaints against facial recognition company Clearview](https://noyb.eu/en/digital-rights-alliance-file-legal-complaints-against-facial-recognition-company-clearview-ai) · copia: `2021/74ecbec33ce2` (Web Archive 20210527) · licenza: terzi
+- **2021** · Italia Open Gov (Dipartimento della Funz — [Il Dipartimento alla Milano Digital week](https://open.gov.it/notizie/dipartimento-milano-digital-week) · copia: `2021/9752c3274f07` (Web Archive 20220804) · licenza: terzi
+- **2021** · Hermes Center (with Privacy Internationa — [Il Centro Hermes e altre 3 associazioni hanno inviato segnalazioni e reclami contro Clearv](https://web.archive.org/web/20210527054816/https://www.hermescenter.org/centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai/) · copia: `2021/4bcb9995c8c9` (Web Archive 20210527) · licenza: propria
+- **2021** · LESS Impresa Sociale (less.green) — [WHO WE ARE - Less: Fabio Pietrosanti CEO](https://web.archive.org/web/20221203113453/https://less.green/chi-siamo-less-impresa-sociale/who-we-are/) · copia: `2021/cb130cde4103` (Web Archive 20220125) · licenza: propria
+- **2021** · Agenda Digitale — [Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio](https://www.agendadigitale.eu/cittadinanza-digitale/voto-dei-cittadini-allestero-meglio-farlo-tramite-seggi-lo-studio/) · copia: `2021/3ba18fe905bc` (Web Archive 20210315) · licenza: terzi
+- **2021** · Agenda Digitale — [Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo](https://www.agendadigitale.eu/cittadinanza-digitale/voto-su-blockchain-un-comitato-governativo-fantasma-e-un-decreto-in-arrivo/) · copia: `2021/0ae98f2b4349` (Web Archive 20210315) · licenza: propria
+- **2022** · Il Disinformatico (Paolo Attivissimo) — [Dopo l'invasione russa dell'Ucraina, che si fa con Kaspersky?](https://attivissimo.blogspot.com/2022/02/dopo-linvasione-russa-dellucraina-che.html) · copia: `2022/1a4808141196` (Web Archive 20220227) · licenza: terzi
+- **2022** · Il Disinformatico (Paolo Attivissimo) — [Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola?](https://attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html) · copia: `2022/8324ffd437c4` (Web Archive 20220627) · licenza: terzi
+- **2022** · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/) · copia: `2022/5203723a3089` (live) · licenza: terzi
+- **2022** · e-privacy XXX 2022 — [MonitoraPA: Attivismo digitale o attacco indiscriminato? (panel)](https://e-privacy.winstonsmith.org/e-privacy-XXX.html) · copia: `2022/63ff21a5c80a` (Web Archive 20220811) · licenza: terzi
+- **2022** · Europa Today — ["Sostituite l'antivirus Kaspersky, può essere usato per attacchi informatici dalla Russia"](https://europa.today.it/attualita/kaspersky-attacchi-informatici-russia.html) · copia: `2022/02c70fb7a12a` (Web Archive 20220315) · licenza: terzi
+- **2022** · Formiche.net — [Dalla Ferrari al Viminale. Se in Italia il software russa (con Kaspersky)](https://formiche.net/2022/03/ferrari-viminale-software-kaspersky/) · copia: `2022/86f3a232191b` (Web Archive 20220307) · licenza: terzi
+- **2022** · GitHub — [kaspersky-risks: Risk Evaluation of Kaspersky related Risk, if subject to Coercion by Russ](https://github.com/fpietrosanti/kaspersky-risks) · copia: `2022/d434e47ccad3` (Web Archive 20230110) · licenza: propria
+- **2022** · GitHub — [monitorapa (fork): Progetto per monitoraggio e notifica di non compliance GDPR alle PA con](https://github.com/fpietrosanti/monitorapa) · copia: `2022/6738a5b0408e` (live) · licenza: propria
+- **2022** · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://livornopress.it/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack) · copia: `2022/fc5039181806` (Web Archive 20220327) · licenza: terzi
+- **2022** · Monitora PA — [Ongoing hacks: giugno 2022](https://monitora-pa.it/2022/05/30/ongoing-hacks-202206.html) · copia: `2022/042c0a02b487` (Web Archive 20220529) · licenza: propria
+- **2022** · Monitora PA — [Una passeggiata tra i fiori...](https://monitora-pa.it/2022/06/12/una-passeggiata-tra-i-fiori.html) · copia: `2022/7f65ec5f8f8b` (Web Archive 20220612) · licenza: propria
+- **2022** · Monitora PA — [Google Fonts in vista!](https://monitora-pa.it/2022/08/08/GoogleFonts_in_vista.html) · copia: `2022/9f3161c533de` (Web Archive 20220808) · licenza: propria
+- **2022** · Monitora PA — [Monitora PA: Speciale Elezioni 2022 - Partito Pirata](https://monitora-pa.it/2022/08/28/replies/PartitoPirata.html) · copia: `2022/71eb491fe388` (Web Archive 20220902) · licenza: propria
+- **2022** · Monitora PA — [Monitora PA: Speciale Elezioni 2022 - Segnalazione al Garante](https://monitora-pa.it/2022/09/13/Speciale_Elezioni_2022_Segnalazione_al_Garante.html) · copia: `2022/0c6ea2aad1e1` (Web Archive 20220913) · licenza: propria
+- **2022** · Agenda Digitale — [Il FOIA di MonitoraPA: la risposta dell'Avvocatura al Ministero dell'Istruzione](https://www.agendadigitale.eu/sicurezza/privacy/il-foia-di-monitorapa-la-risposta-dellavvocatura-al-ministero-dellistruzione/) · copia: `2022/327f4401de7b` (Web Archive 20221026) · licenza: terzi
+- **2022** · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/) · copia: `2022/39ed595e0702` (Web Archive 20221027) · licenza: terzi
+- **2022** · Cyber Security 360 — [Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi](https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/) · copia: `2022/ceddd683ee93` (Web Archive 20220314) · licenza: terzi
+- **2022** · Il Riformista — ["Disinstallate Kaspersky dai PC", i servizi segreti lanciano l'allarme per l'antivirus usa](https://www.ilriformista.it/disinstallate-kaspersky-dai-pc-i-servizi-segreti-lanciano-lallarme-per-lantivirus-usato-da-farnesina-e-viminale-286552/) · copia: `2022/d8829e0278a1` (Web Archive 20220315) · licenza: terzi
+- **2022** · Il Riformista — ["Ecco come Putin può disconnettere l'Italia", il rischio dell'antivirus Kaspersky utilizza](https://www.ilriformista.it/ecco-come-putin-puo-disconnettere-litalia-il-rischio-dellantivirus-kaspersky-utilizzato-dagli-enti-pubblici-282811/) · copia: `2022/e68cb385c0ce` (Web Archive 20220228) · licenza: terzi
+- **2022** · Il Riformista — [La sicurezza italiana in mano a Kaspersky, l'azienda: "Nessun legame con Putin". Ma i cont](https://www.ilriformista.it/la-sicurezza-italiana-in-mano-a-kaspersky-lazienda-nessun-legame-con-putin-ma-i-conti-non-tornano-283463/) · copia: `2022/de194834c010` (Web Archive 20220303) · licenza: terzi
+- **2022** · Il Riformista — [L'ultimo regalo di Conte: voto elettronico manipolabile, a rischio la democrazia](https://www.ilriformista.it/lultimo-regalo-di-conte-voto-elettronico-manipolabile-a-rischio-la-democrazia-271311/) · copia: `2022/c5afe4b60dc8` (Web Archive 20220106) · licenza: terzi
+- **2022** · Info Data - Il Sole 24 Ore — [La Pubblica amministrazione che usa Google Analytics rispetta le regole della privacy? L'i](https://www.infodata.ilsole24ore.com/2022/05/20/la-pubblica-amministrazione-rispetta-le-regole-della-privacy-cosi-funziona-losservatorio-monitorapa/) · copia: `2022/680931488ae9` (Web Archive 20220520) · licenza: terzi
+- **2022** · Info Data - Il Sole 24 Ore (#ThinkTallyT — [La Pa che usa Google Analytics rispetta le regole della privacy? #ThinkTallyTalk](https://www.infodata.ilsole24ore.com/2022/05/22/la-pa-usa-google-analytics-rispetta-le-regole-della-privacy-thinktallytalk/) · copia: `2022/485ab05e07e9` (Web Archive 20220522) · licenza: terzi
+- **2022** · Info Data - Il Sole 24 Ore — [Stretta del Garante Privacy italiano su Google Analytics. Aveva ragione MonitoraPa?](https://www.infodata.ilsole24ore.com/2022/06/28/stretta-del-garante-privacy-italiano-google-analytics-ragione-monitorapa/) · copia: `2022/ee8ad4ccb589` (Web Archive 20220628) · licenza: terzi
+- **2022** · Key4biz — [Google Analytics in PA. 3.400 siti l'hanno rimosso, grazie a MonitoraPa: "Ora esposto al G](https://www.key4biz.it/google-analytics-in-pa-3-400-siti-lhanno-rimosso-grazie-a-monitorapa-a-fine-mese-faremo-anche-esposto-al-garante-privacy/405043/) · copia: `2022/8486ab3178f2` (Web Archive 20220525) · licenza: terzi
+- **2022** · Key4biz — [PA, non basta l'addio a Google Analytics: "10mila siti violano privacy cittadini con Googl](https://www.key4biz.it/pa-non-basta-laddio-a-google-analytics-10mila-siti-violano-privacy-cittadini-con-google-fonts/413335/) · copia: `2022/b7f58f58b496` (Web Archive 20220809) · licenza: terzi
+- **2022** · LinkedIn — [Eliminare Kaspersky dalle infrastutture IT in Europa è una priorità](https://www.linkedin.com/posts/activity-6906253703863427072-Xirm) · copia: `2022/097ed5a7ec4a` (Web Archive 20220306) · licenza: propria
+- **2022** · Partito Pirata — [«Cara MonitoraPA, fammi causa! Saluti, Partito Pirata»](https://www.partito-pirata.it/2022/09/01/il-partito-pirata-risponde-alle-minacce-di-monitorapa-sbagliate-tecnicamente-e-politicamen/) · copia: `2022/80fbfaf1344d` (live) · licenza: terzi
+- **2022** · Privacy Italia — [Google Analytics rimosso da 3.400 siti della PA, grazie a MonitoraPa: "Ora un esposto al G](https://www.privacyitalia.eu/google-analytics-rimosso-da-3-400-siti-della-pa-grazie-a-monitorapa-ora-un-esposto-al-garante-privacy/16760/) · copia: `2022/e2a84062096e` (Web Archive 20220526) · licenza: terzi
+- **2022** · Startmag — [Anonymous, c'è un caso Kaspersky in Italia?](https://www.startmag.it/innovazione/anonymous-ce-un-caso-kaspersky-in-italia/) · copia: `2022/74abfa235c09` (Web Archive 20220228) · licenza: terzi
+- **2022** · Wall Street Italia — [Kaspersky, in Italia si riapre il caso dell'antivirus russo amato da PA e aziende](https://www.wallstreetitalia.com/kaspersky-in-italia-si-riapre-il-caso-dellantivirus-russo-amato-da-pa-e-aziende/) · copia: `2022/dabf21495649` (Web Archive 20220312) · licenza: terzi
+- **2023** · Easyteam.org (published school reply) — [La risposta alla nuova richiesta di Monitora PA](https://easyteam.org/2023/03/17/la-risposta-alla-nuova-richiesta-di-monitora-pa) · copia: `2023/0bec90f52835` (Web Archive 20230321) · licenza: terzi
+- **2023** · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html) · copia: `2023/0010b8d42873` (Web Archive 20230117) · licenza: propria
+- **2023** · Monitora PA — [Come (iniziare a) difendere gli studenti da Google](https://monitora-pa.it/2023/02/27/come-difendere-gli-studenti-da-google.html) · copia: `2023/328e785dd965` (Web Archive 20230330) · licenza: propria
+- **2023** · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html) · copia: `2023/a944c2ac082a` (Web Archive 20230522) · licenza: propria
+- **2023** · European Parliament, Policy Department f — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf) · copia: `2023/26bb7f5f7319` (Web Archive 20230224) · licenza: terzi
+- **2024** · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/) · copia: `2024/f387de6462a9` (Web Archive 20241114) · licenza: terzi
+- **2026** · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo) · copia: `2026/9d2f7f839015` (live) · licenza: propria
+- **2026** · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch) · copia: `2026/60f47f5d7a64` (live) · licenza: propria
+- **2026** · GitHub — [secassure2026 (fork): Email Provider Dependencies and Email Security in Municipalities Acr](https://github.com/fpietrosanti/secassure2026) · copia: `2026/ea283ba1e5b4` (live) · licenza: propria
+- **2026** · GitHub — [whistleblowing-monitor-italia: Monitor Whistleblowing Reporting Channel in Italy (PA & Sto](https://github.com/fpietrosanti/whistleblowing-monitor-italia) · copia: `2026/497cb665997c` (live) · licenza: propria
+- **2026** · GlobaLeaks — [People | GlobaLeaks](https://globaleaks.org/about/people/) · copia: `2026/a2dd5929df8c` (live) · licenza: propria
+- **2026** · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0) · copia: `2026/9a1df4eb5776` (live) · licenza: terzi
