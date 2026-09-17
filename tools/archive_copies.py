@@ -1,0 +1,189 @@
+"""Make an offline copy of every source in data/media.json and report what was obtained.
+
+For each item:
+  1. Web Archive capture nearest to the item's date  (https://web.archive.org/web/<ts>id_/<url>)
+  2. otherwise the live page
+Saves under <out>/<year>/<id>/:
+  original.<ext>   exact bytes (HTML without the Wayback toolbar, or PDF, image, ...)
+  text.txt         extracted text (HTML and plain text only)
+  meta.json        source url, method, capture timestamp, content type, size, sha256, name_found
+Video/audio platforms are not downloaded here: they are recorded as "media-not-downloaded".
+
+Writes <out>/copies.json (status per item) and prints a summary. docs are rendered by
+tools/render_copies_report.py.
+
+Usage: python tools/archive_copies.py <out_dir> [--only YEAR|ID ...] [--limit N] [--retry-failed]
+"""
+import hashlib
+import html
+import io
+import json
+import re
+import sys
+import time
+import urllib.error
+import urllib.request
+from datetime import datetime, timezone
+from pathlib import Path
+from urllib.parse import urlsplit
+
+ROOT = Path(__file__).resolve().parent.parent
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36"
+DELAY = 1.5
+MEDIA_HOSTS = ("youtube.com", "youtu.be", "vimeo.com", "media.ccc.de", "spreaker.com", "open.spotify.com",
+               "podcasts.apple.com", "radioradicale.it", "raiplay.it", "archive.org/details")
+NAME_RE = re.compile(rb"pietrosanti|\bnaif\b|\xe7\x9f\xb3\s?\xe9\xa3\x8e\xe7\xbf\xb1", re.I)  # also 石风翱 in UTF-8
+WAYBACK_ERROR = re.compile(rb"Wayback Machine has not archived that URL|Hrm\.|This URL has been excluded", re.I)
+
+
+def item_id(it):
+    return hashlib.sha1((it.get("url") or it.get("title") or "").encode("utf-8")).hexdigest()[:12]
+
+
+def ts_for(it):
+    d = re.sub(r"[^0-9]", "", str(it.get("date") or it.get("year") or ""))
+    return (d + "0101000000")[:14] if d else "20100101000000"
+
+
+def get(url, timeout=90):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "it,en;q=0.8"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read(), r.headers.get("Content-Type", ""), r.geturl(), r.status
+
+
+def try_fetch(url, attempts=3):
+    last = None
+    for a in range(attempts):
+        try:
+            return get(url) + (None,)
+        except urllib.error.HTTPError as e:
+            if e.code in (403, 404, 410, 451):
+                return None, "", url, e.code, f"http {e.code}"
+            last = f"http {e.code}"
+        except Exception as e:  # timeouts, resets, TLS
+            last = type(e).__name__
+        time.sleep(4 * (a + 1))
+    return None, "", url, None, last
+
+
+def ext_for(ctype, url, data):
+    c = (ctype or "").lower()
+    if "pdf" in c or data[:5] == b"%PDF-":
+        return "pdf"
+    if "html" in c:
+        return "html"
+    if "text/plain" in c:
+        return "txt"
+    m = re.search(r"\.([a-z0-9]{2,5})$", urlsplit(url).path.lower())
+    return m.group(1) if m else "bin"
+
+
+def html_text(data):
+    t = data.decode("utf-8", "replace") if b"charset=utf-8" in data[:3000].lower() or not re.search(rb"charset=(iso-8859|windows-125)", data[:3000], re.I) else data.decode("latin-1")
+    t = re.sub(r"(?is)<(script|style|noscript|svg).*?</\1>", " ", t)
+    t = re.sub(r"(?i)<br\s*/?>|</(p|div|li|h\d|tr)>", "\n", t)
+    t = html.unescape(re.sub(r"<[^>]+>", " ", t))
+    t = re.sub(r"[ \t\r\f\v]+", " ", t)
+    return re.sub(r"\n\s*\n+", "\n\n", t).strip()
+
+
+def copy_item(it, out):
+    url = (it.get("url") or "").strip()
+    rec = {"id": item_id(it), "url": url, "year": it.get("year"), "title": it.get("title"), "type": it.get("type"),
+           "outlet": it.get("outlet"), "status": None, "method": None, "capture": None, "reason": None,
+           "local": None, "name_found": None, "checked_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+    if not url.startswith(("http://", "https://")):
+        rec.update(status="missing", reason="no url")
+        return rec
+    if any(h in url for h in MEDIA_HOSTS):
+        rec.update(status="media-not-downloaded", reason="video/audio platform: download handled separately")
+        return rec
+    target = url
+    m = re.match(r"https?://web\.archive\.org/web/(\d+)[a-z_]*/(.+)$", url)
+    if m:
+        target = m.group(2)
+    # 1) Web Archive
+    wb = f"https://web.archive.org/web/{ts_for(it)}id_/{target}"
+    data, ctype, final, status, err = try_fetch(wb)
+    time.sleep(DELAY)
+    method = None
+    if data and not WAYBACK_ERROR.search(data[:5000]) and "/web/" in final:
+        method = "wayback"
+        rec["capture"] = (re.search(r"/web/(\d{14})", final) or [None, None])[1]
+    else:
+        # 2) live page
+        data, ctype, final, status, err = try_fetch(target)
+        time.sleep(DELAY)
+        if data:
+            method = "live"
+    if not data:
+        rec.update(status="not-obtained", reason=err or f"http {status}")
+        return rec
+    ext = ext_for(ctype, final, data)
+    folder = out / str(it.get("year") or "undated") / rec["id"]
+    folder.mkdir(parents=True, exist_ok=True)
+    (folder / f"original.{ext}").write_bytes(data)
+    text = None
+    if ext == "html":
+        text = html_text(data)
+    elif ext == "txt":
+        text = data.decode("utf-8", "replace")
+    if text is not None:
+        (folder / "text.txt").write_text(text, encoding="utf-8")
+    name_found = bool(NAME_RE.search(data)) if ext != "pdf" else None
+    js_shell = ext == "html" and text is not None and len(text) < 400
+    meta = {"source_url": url, "fetched_url": final, "method": method, "capture": rec["capture"],
+            "content_type": ctype, "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest(),
+            "name_found": name_found, "fetched_at": rec["checked_at"]}
+    (folder / "meta.json").write_text(json.dumps(meta, indent=1, ensure_ascii=False), encoding="utf-8")
+    status = "obtained"
+    reason = None
+    if js_shell:
+        status, reason = "partial", "page is a JavaScript shell with almost no text: needs browser capture"
+    elif name_found is False:
+        status, reason = "obtained-unconfirmed", "copy saved but his name/nick not found in it (paywall, wrong capture or JS)"
+    rec.update(status=status, method=method, reason=reason, local=str(folder.relative_to(out)).replace("\\", "/"),
+               name_found=name_found)
+    return rec
+
+
+def main():
+    args = sys.argv[1:]
+    out = Path(args.pop(0))
+    only, limit, retry = set(), None, False
+    while args:
+        a = args.pop(0)
+        if a == "--only":
+            while args and not args[0].startswith("--"):
+                only.add(args.pop(0))
+        elif a == "--limit":
+            limit = int(args.pop(0))
+        elif a == "--retry-failed":
+            retry = True
+    out.mkdir(parents=True, exist_ok=True)
+    state_path = out / "copies.json"
+    state = {r["id"]: r for r in json.load(io.open(state_path, encoding="utf-8"))} if state_path.exists() else {}
+    items = json.load(io.open(ROOT / "data/media.json", encoding="utf-8"))
+    done = 0
+    for it in items:
+        iid = item_id(it)
+        if only and str(it.get("year")) not in only and iid not in only:
+            continue
+        prev = state.get(iid)
+        if prev and prev["status"] in ("obtained", "media-not-downloaded") and not retry:
+            continue
+        if prev and prev["status"] in ("obtained",) and retry:
+            continue
+        rec = copy_item(it, out)
+        state[iid] = rec
+        print(f"{rec['status']:<22} {rec.get('method') or '':<8} {it.get('year')} {rec['url'][:90]}", flush=True)
+        json.dump(sorted(state.values(), key=lambda r: (r["year"] or 0, r["url"])), io.open(state_path, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+        done += 1
+        if limit and done >= limit:
+            break
+    from collections import Counter
+    print("SUMMARY", dict(Counter(r["status"] for r in state.values())))
+
+
+if __name__ == "__main__":
+    main()

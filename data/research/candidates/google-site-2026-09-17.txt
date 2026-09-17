@@ -1,0 +1,37 @@
+# Candidates from Google site: searches in Fabio's Chrome, 2026-09-17.
+# Query: site:<domain> "Pietrosanti" (GlobaLeaks OR hacker OR Hermes OR whistleblowing OR Rousseau OR Tor OR cifratura
+#        OR intercettazioni OR PrivateWave OR Kaspersky OR "voto elettronico" OR sicurezza)
+# Domains done: corriere.it, repubblica.it, lastampa.it, ilsole24ore.com, ilfattoquotidiano.it, espresso/lespresso,
+#               panorama.it, ilpost.it, linkiesta.it
+# Stopped by Google robot check after ~10 queries (next: ansa.it, agi.it, adnkronos.com, wired.it, punto-informatico.it ...).
+# Unverified: tools/verify_candidates.py checks each page (Web Archive first) for his name.
+https://www.corriere.it/buone-notizie/18_ottobre_01/ecco-l-arma-segreta-contro-corrotti-pubblica-amministrazione-ca341b36-c582-11e8-994e-6382a2ca0409.shtml
+https://www.corriere.it/scienze/12_aprile_14/globaleaks-software-condisione-informazioni_45b220fe-863e-11e1-a210-601cc21801c2.shtml
+https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml
+https://www.corriere.it/salute/disabilita/10_luglio_29/disabile-poste-operazioni-online_58d361c4-9afa-11df-ad9d-00144f02aabe.shtml
+https://vitadigitale.corriere.it/2009/03/13/hacker_al_cinema/
+https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/
+https://www.repubblica.it/tecnologia/social-network/2017/03/08/news/wikileaks-cia_la_sicurezza_assoluta_non_esiste_piu_-160075024/
+https://www.repubblica.it/tecnologia/2017/06/30/news/internet_ecco_dove_si_censura_e_perche_-302642021/
+https://www.repubblica.it/tecnologia/2017/01/12/news/privacy_un_progetto_di_legge_per_salvaguardare_i_diritti_costituzionali-302639710/
+https://www.repubblica.it/tecnologia/sicurezza/2015/07/16/news/tante_aziende_poche_regole_il_far_west_dell_intelligence-119217185/
+https://www.repubblica.it/tecnologia/sicurezza/2017/01/31/news/maggiori_tutele_per_chi_viene_intercettato_con_i_trojan_dagli_investigatori_ecco_la_proposta_di_legge-157306945/
+https://www.repubblica.it/tecnologia/sicurezza/2017/06/30/news/_internet_ecco_dove_si_censura_e_perche_-169618280/
+https://www.repubblica.it/tecnologia/sicurezza/2018/09/29/news/attacco_a_facebook_il_giorno_dopo_non_c_e_bisogno_di_cambiare_le_password_-207672944/
+https://www.lastampa.it/politica/2018/02/08/news/la-rivolta-degli-informatici-contro-casaleggio-1.33976791/
+https://www.lastampa.it/politica/2020/03/04/news/l-emergenza-per-casaleggio-puo-far-testare-il-voto-online-a-marzo-ecco-come-gli-informatici-lo-stroncano-1.38548899/
+https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/
+https://www.infodata.ilsole24ore.com/2022/05/22/la-pa-usa-google-analytics-rispetta-le-regole-della-privacy-thinktallytalk/
+https://www.infodata.ilsole24ore.com/2022/05/20/la-pubblica-amministrazione-rispetta-le-regole-della-privacy-cosi-funziona-losservatorio-monitorapa/
+https://argomenti.ilsole24ore.com/tag/autorita-nazionale-anticorruzione
+https://argomenti.ilsole24ore.com/tag/donato-iacovone
+https://st.ilsole24ore.com/art/commenti-e-idee/2017-12-02/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-125656.shtml
+https://www.ilfattoquotidiano.it/2012/06/13/hacks-hackers-nuove-tecnologie-e-giornalismo-questa-sera-a-milano/261989/
+https://www.ilfattoquotidiano.it/2012/05/01/festival-giornalismo-2012-videodiario/214235/
+https://www.ilfattoquotidiano.it/2017/10/21/referendum-lombardia-e-voto-elettronico-mi-fido-o-no/3927235/
+https://www.lespresso.it/c/politica/2021/5/30/la-francia-sperimenta-il-voto-elettronico-e-in-italia/38027
+https://www.ilpost.it/2021/04/23/bitcoin-criptovalute-tasse/
+https://www.linkiesta.it/2017/10/dig-raddoppia-e-a-fine-ottobre-porta-a-milano-il-meglio-del-giornalism/
+https://www.panorama.it/tempo-libero/tecnologia/sicurezza-cibernetica-nazionale-a-carrai-cosa-non-va-a-livello-tecnico
+https://www.linkiesta.it/blog/2013/05/di-censura-leggi-ed-altre-sciocchezze/
+https://www.linkiesta.it/2020/11/comitato-foia-voto-elettronico-italia-news/

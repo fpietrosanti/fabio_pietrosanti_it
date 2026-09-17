@@ -1,0 +1,80 @@
+[
+ {
+  "date": "2016-03-15",
+  "year": 2016,
+  "type": "mentioned",
+  "outlet": "repubblica.it",
+  "title": "Internet gratis da smartphone, paga lo sponsor. C'è Jana, l'anti Free Basics",
+  "url": "https://www.repubblica.it/tecnologia/mobile/2016/03/15/news/internet_gratis_senza_restrizioni_in_cambio_di_pubblicita_c_e_jana_l_anti_free_basics-135554343/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …ventano sempre più fornitori di contenuti, massimizzando i loro ricavi\", avverte il cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali Fabio Pietrosanti . I vantaggi superano l'imposta? Questione…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2016-01-20",
+  "year": 2016,
+  "type": "mentioned",
+  "outlet": "repubblica.it",
+  "title": "Cybersicurezza, esperti italiani contro la nomina Carrai",
+  "url": "https://www.repubblica.it/tecnologia/sicurezza/2016/01/20/news/sicurezza_informatica_lettera_aperta_renzi-131683869/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …rta pubblicata online firmata da alcuni esponenti italiani della cybersicurezza, nomi conosciuti a livello internazionale, che si può anche sottoscrivere. Come Fabio Pietrosanti , co-creatore del Centro Hermes per la tra…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2016-09-12",
+  "year": 2016,
+  "type": "mentioned",
+  "outlet": "repubblica.it",
+  "title": "\"Non date colpa all'algoritmo\", errore umano alla base della censura social",
+  "url": "https://www.repubblica.it/tecnologia/sicurezza/2016/09/12/news/_non_date_colpa_all_algoritmo_errore_umano_alla_base_della_censura_social-147611556/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …ione. Perché a differenza della pedopornografia, più facilmente identificabile, il concetto di \"estremista\" ricade in uno spettro più ampio. Sulla stessa linea Fabio Pietrosanti , cofondatore del Centro Hermes per la tra…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017-01-31",
+  "year": 2017,
+  "type": "mentioned",
+  "outlet": "repubblica.it",
+  "title": "Più tutele per chi è intercettato dai trojan dagli investigatori, ecco la proposta di legge",
+  "url": "https://www.repubblica.it/tecnologia/sicurezza/2017/01/31/news/maggiori_tutele_per_chi_viene_intercettato_con_i_trojan_dagli_investigatori_ecco_la_proposta_di_legge-157306945/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …pre più frequente man mano che internet verrà cifrata di default, determinando una perdita delle capacità investigative tradizionali\", ha spiegato a Repubblica Fabio Pietrosanti , cofondatore del Centro Hermes per la tra…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-10-03",
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "repubblica.it",
+  "title": "Quando lo smartphone diventa una spia. \"In Italia oltre mille vittime di stalkerware\"",
+  "url": "https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …a e al microfono, quindi scattare foto e ascoltare conversazioni. Come proteggersi Difficile che la vittima si accorga di essere digitalmente pedinata, avverte Fabio Pietrosanti , co-fondatore del Centro Hermes per la tr…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017-03-08",
+  "year": 2017,
+  "type": "mentioned",
+  "outlet": "repubblica.it",
+  "title": "Cia-WikiLeaks, \"siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Cloud\"",
+  "url": "https://www.repubblica.it/tecnologia/social-network/2017/03/08/news/wikileaks-cia_la_sicurezza_assoluta_non_esiste_piu_-160075024/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …agione, in fondo è scontato che nella Cia si lavori a queste cose, come in tutti i centri di ricerca di cyberintelligence. Ma allora dov'è lo scandalo? Secondo Fabio Pietrosanti , giovane esperto di sicurezza ed hacker e…",
+  "verified": true,
+  "known": false
+ }
+]
