@@ -110,6 +110,12 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   testo, metadati e se il nome compare. Stato in `copies.json`, report in `docs/COPIE-OFFLINE.md`
   (`tools/render_copies_report.py`). Cartella copie: `Claude/fabio_pietrosanti_it-copies/` (locale, non pubblicata).
 
+## Progetti: sito + LinkedIn
+Regola di Fabio: **tutto ciò che è un progetto** ha una sezione sul sito e una voce nei Projects di LinkedIn
+(EN + zh_CN) con nome, descrizione e link di approfondimento. Registro: `data/projects.json` (25 candidati,
+stato «da-documentare»). Per ciascuno: raccogliere le fonti da `data/media.json`, scrivere descrizione, proporre a
+Fabio, poi pubblicare (LinkedIn con il metodo in linkedin-i18n/tools).
+
 ## TODO futuri
 - **CRVD voto elettronico**: replica dal Web Archive e rimessa online (progetto a parte, da pianificare).
 - **Progetto AIRE** (voto elettronico / voto degli italiani all'estero iscritti all'AIRE): da documentare bene
