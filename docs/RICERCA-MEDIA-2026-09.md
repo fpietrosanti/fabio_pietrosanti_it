@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **578**; dopo deduplica: **473**
+- Risultati grezzi dalle ricerche: **594**; dopo deduplica: **486**
 - Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 441**
-- Verificati aprendo la pagina: **420**; solo da risultato di ricerca: **53**
+- **Nuovi rispetto al vecchio sito: 454**
+- Verificati aprendo la pagina: **421**; solo da risultato di ricerca: **65**
 
-Per tipo (nuovi): Menzionato 76, Post sul blog infosecurity.ch 71, Talk 64, Video 46, Citato 38, Progetto 28, Articolo scritto 14, Ricerca 14, Comunicato 14, Altro 13, Paper 11, Podcast 11, Radio 8, Report 7, Intervista 6, Libro 5, Slide 4, TV 3, Brevetto 2, Capitolo di libro 2, Tesi 2, Wiki 1, Audizione 1
+Per tipo (nuovi): Menzionato 76, Post sul blog infosecurity.ch 71, Talk 65, Video 47, Citato 38, Progetto 35, Altro 15, Articolo scritto 14, Ricerca 14, Comunicato 14, Paper 11, Podcast 11, Report 9, Radio 8, Intervista 6, Libro 5, Slide 4, TV 3, Brevetto 2, Capitolo di libro 2, Tesi 2, Wiki 1, Audizione 1
 
 ### Copertura per anno
 
@@ -35,7 +35,7 @@ Per tipo (nuovi): Menzionato 76, Post sul blog infosecurity.ch 71, Talk 64, Vide
 | 2014 | 0 | 23 | 23 |
 | 2015 | 0 | 28 | 28 |
 | 2016 | 0 | 17 | 17 |
-| 2017 | 0 | 35 | 35 |
+| 2017 | 0 | 48 | 48 |
 | 2018 | 0 | 34 | 34 |
 | 2019 | 0 | 11 | 11 |
 | 2020 | 0 | 17 | 17 |
@@ -346,16 +346,16 @@ Anni senza nessun risultato: nessuno
   With Giovanni Battista Gallus; using CAD art. 69 to obtain whistleblowing source code from PAs; video on video.fosdem.org
 - 🆕 **2018-01-30** · Citato · Motherboard / Vice Italia — [Riutilizzare i 24.400 tablet per il referendum della Lombardia è un casino](https://www.vice.com/it/article/problema-riutilizzo-nelle-scuole-tablet-referendum-lombardia/)  
   By Federico Martelli; Pietrosanti proposes a hackathon on reuse, says e-voting decisions should have been open from the start
-- 🆕 **2018-01** · Talk · Privacy Camp 2018 / EDPS-Civil Society Summit (Brussels) — [EDPS-Civil Society Summit 2018](https://privacycamp.eu/2018-edps-civil-society-summit/)  
-  Roundtable participant for Hermes Center (IT)
 - 🆕 **2018-01** · Video · YouTube - Privacy Camp 2018 — [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) _(non verificato)_  
   EDRi Privacy Camp round table on government hacking; listed on trojansandruleoflaw.org
+- 🆕 **2018-01** · Talk · Privacy Camp 2018 / EDPS-Civil Society Summit (Brussels) — [EDPS-Civil Society Summit 2018](https://privacycamp.eu/2018-edps-civil-society-summit/)  
+  Roundtable participant for Hermes Center (IT)
 - 🆕 **2018** · Progetto · Ethic Whispers (ethicwhispers.io) — [Ethic Whispers - the security token for whistleblowing](https://web.archive.org/web/20211203145414/http://ethicwhispers.io/)  
   Project site lists Fabio Pietrosanti as co-founder & CEO (Wayback 2021 snapshot; date of project approximate)
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 35 voci, 35 nuove
+## 2017 — 48 voci, 48 nuove
 
 - 🆕 **2017-12-02** · Menzionato · st.ilsole24ore.com — [La sfida di coniugare il dettato costituzionale e la ricerca tecnologica](https://st.ilsole24ore.com/art/commenti-e-idee/2017-12-02/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-125656.shtml)  
   verified via live; context: …e iniziative per introdurre nella normativa nazionale la previsione di un divieto dello sviluppo e della ommercializzazione di sistemi Aws.” Che cosa ne pensi? Fabio Pietrosanti Presidente Centro Hermes per la trasparenz…
@@ -415,14 +415,40 @@ Anni senza nessun risultato: nessuno
   English coverage of the trojan bill he co-authored (listed on trojansandruleoflaw.org; page 403)
 - 🆕 **2017-01-31** · Menzionato · repubblica.it — [Più tutele per chi è intercettato dai trojan dagli investigatori, ecco la proposta di legge](https://www.repubblica.it/tecnologia/sicurezza/2017/01/31/news/maggiori_tutele_per_chi_viene_intercettato_con_i_trojan_dagli_investigatori_ecco_la_proposta_di_legge-157306945/)  
   verified via wayback; context: …pre più frequente man mano che internet verrà cifrata di default, determinando una perdita delle capacità investigative tradizionali", ha spiegato a Repubblica Fabio Pietrosanti , cofondatore del Centro Hermes per la tra…
-- 🆕 **2017-01-31** · Progetto · GitHub / Camera dei Deputati (Civici e Innovatori) — [Trojans-And-Rule-of-Law: Italian bill proposal to regulate Trojan use by LEA (Proposta di legge Captatori Informatici)](https://github.com/fpietrosanti/Trojans-And-Rule-of-Law)  
-  Bill (first signatory Stefano Quintarelli) co-drafted with Aterno and Ghirardini; repo collects bill, technical regulation, press kit, reviews
 - 🆕 **2017-01-31** · Progetto · Trojans And Rule of Law — [Trojans And Rule of Law](https://trojansandruleoflaw.org/)  
   Project site of the Italian trojan-regulation bill; lists press, talks and reviews
+- 🆕 **2017-01-31** · Progetto · GitHub / Camera dei Deputati (Civici e Innovatori) — [Trojans-And-Rule-of-Law: Italian bill proposal to regulate Trojan use by LEA (Proposta di legge Captatori Informatici)](https://github.com/fpietrosanti/Trojans-And-Rule-of-Law)  
+  Bill (first signatory Stefano Quintarelli) co-drafted with Aterno and Ghirardini; repo collects bill, technical regulation, press kit, reviews
 - 🆕 **2017-01-31** · Citato · Askanews — [Captatori informatici, proposta di legge di Civici e Innovatori](http://www.askanews.it/cronaca/2017/01/31/captatori-informatici-proposta-di-legge-di-civici-e-innovatori-pn_20170131_00175/) _(non verificato)_  
   Press coverage of the trojan bill presentation; experts incl. Pietrosanti per search snippet (page redirected, not read)
 - 🆕 **2017-01-12** · Menzionato · repubblica.it — [Privacy, servono regole per le intercettazioni nelle indagini penali](https://www.repubblica.it/tecnologia/2017/01/12/news/privacy_un_progetto_di_legge_per_salvaguardare_i_diritti_costituzionali-302639710/)  
   verified via live; context: …zo che diventerà sempre più frequente man mano che internet verrà cifrata di default, determinando una perdita delle capacità investigative tradizionali", dice Fabio Pietrosanti, cofondatore del Centro Hermes per la tras…
+- 🆕 **2017** · Progetto · GitHub — [trojanregulations — documents of the Italian trojan bill proposal (bill text, technical rules, EN summary, press conference)](https://github.com/fpietrosanti/trojanregulations)  
+  Repository by fpietrosanti linked from trojansandruleoflaw.org
+- 🆕 **2017** · Progetto · github.com — [Proposta-di-Legge-Captatori-Informatici-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Proposta-di-Legge-Captatori-Informatici-IT.pdf) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Progetto · github.com — [Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Progetto · github.com — [Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Progetto · github.com — [Summary-of-bill-proposal-on-trojan-EN.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Summary-of-bill-proposal-on-trojan-EN.pdf) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Progetto · github.com — [Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Progetto · github.com — [Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Report · www.ccc.de — [Stellungnahme_CCC-Staatstrojaner.pdf](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Report · tbinternet.ohchr.org — [INT_CCPR_CSS_ITA_26517_E.pdf](https://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ITA/INT_CCPR_CSS_ITA_26517_E.pdf) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Talk · www.journalismfestival.com — [lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare](https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Video · www.youtube.com — [watch?v=tF_i3X_PcFY](https://www.youtube.com/watch?v=tF_i3X_PcFY) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Altro · docs.google.com — [edit?usp=sharing](https://docs.google.com/document/d/1t6kfUigpBdiI8ECC306QHTL1cawOapvnRSIY0dV5KXA/edit?usp=sharing) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
+- 🆕 **2017** · Altro · docs.google.com — [edit](https://docs.google.com/presentation/d/11-AdcbRlxhWwHhHz54Yp8hNYXAICYBHHfumDO89XFrs/edit) _(non verificato)_  
+  Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
 - 🆕 **2017** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   3 articles: e-voting abroad study, blockchain vote decree, trojan interceptions after Exodus (year approximate)
 - 🆕 **2017** · Tesi · University of California, Berkeley, PhD dissertation (Computer Science) — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf)  

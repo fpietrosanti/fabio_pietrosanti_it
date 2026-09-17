@@ -107,17 +107,37 @@
    "sources": []
   },
   {
-   "name": "Proposta di legge sui trojan di Stato (con Stefano Aterno)",
+   "name": "Trojans and Rule of Law — proposta di legge sui captatori informatici (trojan di Stato)",
    "start_year": "2017",
    "area": "policy",
-   "status": "da-documentare",
+   "status": "fonti-raccolte",
    "description_en": "",
    "description_zh": "",
-   "link": "",
+   "link": "https://trojansandruleoflaw.org/",
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,
-   "sources": []
+   "sources": [
+    "https://trojansandruleoflaw.org/",
+    "https://github.com/fpietrosanti/Trojans-And-Rule-of-Law",
+    "https://github.com/fpietrosanti/trojanregulations",
+    "https://github.com/fpietrosanti/trojanregulations/blob/master/Proposta-di-Legge-Captatori-Informatici-IT.pdf",
+    "https://github.com/fpietrosanti/trojanregulations/blob/master/Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf",
+    "https://github.com/fpietrosanti/trojanregulations/blob/master/Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf",
+    "https://github.com/fpietrosanti/trojanregulations/blob/master/Summary-of-bill-proposal-on-trojan-EN.pdf",
+    "https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf",
+    "https://github.com/fpietrosanti/trojanregulations/blob/master/Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf",
+    "https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html",
+    "https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf",
+    "https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf",
+    "https://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ITA/INT_CCPR_CSS_ITA_26517_E.pdf",
+    "https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare",
+    "https://www.youtube.com/watch?v=tF_i3X_PcFY",
+    "https://www.youtube.com/watch?v=ujWYz4vMWLg",
+    "https://docs.google.com/document/d/1t6kfUigpBdiI8ECC306QHTL1cawOapvnRSIY0dV5KXA/edit?usp=sharing",
+    "https://docs.google.com/presentation/d/11-AdcbRlxhWwHhHz54Yp8hNYXAICYBHHfumDO89XFrs/edit"
+   ],
+   "notes": "Proposta di legge presentata dall'on. Stefano Quintarelli (2017), board di consulenti sotto la supervisione del pres. Luciano Violante; con Stefano Aterno; team interdisciplinare ~2 anni; non discussa per la caduta del governo. Sito e repo GitHub di Fabio con testo di legge, disciplinare tecnico, sintesi EN, commenti Access Now, CCC, EFF, citata in studio Parlamento europeo 2017 e 2023."
   },
   {
    "name": "Guida Hermes al voto digitale",

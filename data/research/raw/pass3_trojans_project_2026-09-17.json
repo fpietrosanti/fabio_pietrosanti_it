@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "project",
+  "outlet": "trojansandruleoflaw.org",
+  "title": "Trojans And Rule of Law — Italian bill proposal to regulate uses of trojans by law enforcement",
+  "url": "https://trojansandruleoflaw.org/",
+  "language": "en",
+  "role": "author",
+  "note": "Project site by Fabio Pietrosanti (GitHub Pages of fpietrosanti/Trojans-And-Rule-of-Law), pointed out by Fabio 2026-09-17",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "project",
+  "outlet": "GitHub",
+  "title": "trojanregulations — documents of the Italian trojan bill proposal (bill text, technical rules, EN summary, press conference)",
+  "url": "https://github.com/fpietrosanti/trojanregulations",
+  "language": "it",
+  "role": "author",
+  "note": "Repository by fpietrosanti linked from trojansandruleoflaw.org",
+  "verified": true,
+  "known": false
+ }
+]

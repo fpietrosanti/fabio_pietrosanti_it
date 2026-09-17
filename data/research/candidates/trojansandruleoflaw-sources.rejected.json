@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ITA/INT_CCPR_CSS_ITA_26517_E.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=tF_i3X_PcFY",
+  "reason": "JavaScript shell or paywall (almost no text)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=ujWYz4vMWLg",
+  "reason": "already in media.json"
+ }
+]

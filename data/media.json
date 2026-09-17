@@ -5140,6 +5140,228 @@
  {
   "date": "2017",
   "year": 2017,
+  "type": "project",
+  "outlet": "GitHub",
+  "title": "trojanregulations — documents of the Italian trojan bill proposal (bill text, technical rules, EN summary, press conference)",
+  "url": "https://github.com/fpietrosanti/trojanregulations",
+  "language": "it",
+  "role": "author",
+  "note": "Repository by fpietrosanti linked from trojansandruleoflaw.org",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_project_2026-09-17",
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "project",
+  "outlet": "github.com",
+  "title": "Proposta-di-Legge-Captatori-Informatici-IT.pdf",
+  "url": "https://github.com/fpietrosanti/trojanregulations/blob/master/Proposta-di-Legge-Captatori-Informatici-IT.pdf",
+  "language": "it",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "project",
+  "outlet": "github.com",
+  "title": "Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf",
+  "url": "https://github.com/fpietrosanti/trojanregulations/blob/master/Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf",
+  "language": "it",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "project",
+  "outlet": "github.com",
+  "title": "Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf",
+  "url": "https://github.com/fpietrosanti/trojanregulations/blob/master/Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf",
+  "language": "it",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "project",
+  "outlet": "github.com",
+  "title": "Summary-of-bill-proposal-on-trojan-EN.pdf",
+  "url": "https://github.com/fpietrosanti/trojanregulations/blob/master/Summary-of-bill-proposal-on-trojan-EN.pdf",
+  "language": "en",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "project",
+  "outlet": "github.com",
+  "title": "Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf",
+  "url": "https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf",
+  "language": "it",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "project",
+  "outlet": "github.com",
+  "title": "Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf",
+  "url": "https://github.com/fpietrosanti/trojanregulations/blob/master/Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf",
+  "language": "en",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "report",
+  "outlet": "www.ccc.de",
+  "title": "Stellungnahme_CCC-Staatstrojaner.pdf",
+  "url": "https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf",
+  "language": "en",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "report",
+  "outlet": "tbinternet.ohchr.org",
+  "title": "INT_CCPR_CSS_ITA_26517_E.pdf",
+  "url": "https://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ITA/INT_CCPR_CSS_ITA_26517_E.pdf",
+  "language": "en",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "talk",
+  "outlet": "www.journalismfestival.com",
+  "title": "lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare",
+  "url": "https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare",
+  "language": "en",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "video",
+  "outlet": "www.youtube.com",
+  "title": "watch?v=tF_i3X_PcFY",
+  "url": "https://www.youtube.com/watch?v=tF_i3X_PcFY",
+  "language": "en",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "other",
+  "outlet": "docs.google.com",
+  "title": "edit?usp=sharing",
+  "url": "https://docs.google.com/document/d/1t6kfUigpBdiI8ECC306QHTL1cawOapvnRSIY0dV5KXA/edit?usp=sharing",
+  "language": "en",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "other",
+  "outlet": "docs.google.com",
+  "title": "edit",
+  "url": "https://docs.google.com/presentation/d/11-AdcbRlxhWwHhHz54Yp8hNYXAICYBHHfumDO89XFrs/edit",
+  "language": "en",
+  "role": "subject",
+  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
   "type": "other",
   "outlet": "Agenda Digitale",
   "title": "Articoli di Fabio Pietrosanti (author page)",
@@ -5210,6 +5432,24 @@
   "date": "2017-01-31",
   "year": 2017,
   "type": "project",
+  "outlet": "Trojans And Rule of Law",
+  "title": "Trojans And Rule of Law",
+  "url": "https://trojansandruleoflaw.org/",
+  "language": "en",
+  "role": "co-author",
+  "note": "Project site of the Italian trojan-regulation bill; lists press, talks and reviews",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_project_2026-09-17",
+   "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-01-31",
+  "year": 2017,
+  "type": "project",
   "outlet": "GitHub / Camera dei Deputati (Civici e Innovatori)",
   "title": "Trojans-And-Rule-of-Law: Italian bill proposal to regulate Trojan use by LEA (Proposta di legge Captatori Informatici)",
   "url": "https://github.com/fpietrosanti/Trojans-And-Rule-of-Law",
@@ -5221,23 +5461,6 @@
   "_slices": [
    "slice4_2016_2020",
    "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-01-31",
-  "year": 2017,
-  "type": "project",
-  "outlet": "Trojans And Rule of Law",
-  "title": "Trojans And Rule of Law",
-  "url": "https://trojansandruleoflaw.org/",
-  "language": "en",
-  "role": "co-author",
-  "note": "Project site of the Italian trojan-regulation bill; lists press, talks and reviews",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
   ],
   "on_old_site": false
  },
@@ -5776,23 +5999,6 @@
  {
   "date": "2018-01",
   "year": 2018,
-  "type": "talk",
-  "outlet": "Privacy Camp 2018 / EDPS-Civil Society Summit (Brussels)",
-  "title": "EDPS-Civil Society Summit 2018",
-  "url": "https://privacycamp.eu/2018-edps-civil-society-summit/",
-  "language": "en",
-  "role": "panelist",
-  "note": "Roundtable participant for Hermes Center (IT)",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2018-01",
-  "year": 2018,
   "type": "video",
   "outlet": "YouTube - Privacy Camp 2018",
   "title": "Round table Government hacking in different national contexts",
@@ -5801,6 +6007,24 @@
   "role": "panelist",
   "note": "EDRi Privacy Camp round table on government hacking; listed on trojansandruleoflaw.org",
   "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_trojans_sources_2026-09-17",
+   "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-01",
+  "year": 2018,
+  "type": "talk",
+  "outlet": "Privacy Camp 2018 / EDPS-Civil Society Summit (Brussels)",
+  "title": "EDPS-Civil Society Summit 2018",
+  "url": "https://privacycamp.eu/2018-edps-civil-society-summit/",
+  "language": "en",
+  "role": "panelist",
+  "note": "Roundtable participant for Hermes Center (IT)",
+  "verified": true,
   "known": false,
   "_slices": [
    "slice4_2016_2020"
