@@ -78,8 +78,9 @@ Paper svedese ricordato da Fabio: **trovato** — Winter & Lindskog (Karlstad Un
   Tor2web, ZRTP con il suo nome.
 - Advisory di sicurezza pubblicati (bugtraq, full-disclosure, SecurityFocus, CVE): solo quelli, non i
   normali post in lista.
-- **infosecurity.ch**: import completo dei post appena il restauro (repo `fpietrosanti/infosecurity-ch`,
-  locale `Claude/infosecurity-ch`) avrà la copia Wayback.
+- **infosecurity.ch**: il restauro lo sta facendo un'altra sessione (repo `fpietrosanti/infosecurity-ch`,
+  locale `Claude/infosecurity-ch`); Fabio: online previsto il 2026-09-18. Poi importare l'elenco completo
+  dei post da `site/` (non duplicare il lavoro di restauro).
 
 ## Deciso
 
