@@ -95,9 +95,7 @@ def copy_item(it, out):
     if not url.startswith(("http://", "https://")):
         rec.update(status="missing", reason="no url")
         return rec
-    if any(h in url for h in MEDIA_HOSTS):
-        rec.update(status="media-not-downloaded", reason="video/audio platform: download handled separately")
-        return rec
+    is_media = any(h in url for h in MEDIA_HOSTS)
     target = url
     m = re.match(r"https?://web\.archive\.org/web/(\d+)[a-z_]*/(.+)$", url)
     if m:
@@ -116,11 +114,18 @@ def copy_item(it, out):
         time.sleep(DELAY)
         if data:
             method = "live"
+    folder = out / str(it.get("year") or "undated") / rec["id"]
+    video = None
+    if is_media:
+        video = download_media(target, folder)
     if not data:
-        rec.update(status="not-obtained", reason=err or f"http {status}")
+        if video and video.get("file"):
+            rec.update(status="video-obtained", method="yt-dlp", reason="video saved, page copy not obtained: " + (err or f"http {status}"),
+                       local=str(folder.relative_to(out)).replace("\\", "/"), video=video)
+        else:
+            rec.update(status="not-obtained", reason=(err or f"http {status}") + (f"; video: {video.get('error')}" if video else ""), video=video)
         return rec
     ext = ext_for(ctype, final, data)
-    folder = out / str(it.get("year") or "undated") / rec["id"]
     folder.mkdir(parents=True, exist_ok=True)
     (folder / f"original.{ext}").write_bytes(data)
     text = None
@@ -142,9 +147,42 @@ def copy_item(it, out):
         status, reason = "partial", "page is a JavaScript shell with almost no text: needs browser capture"
     elif name_found is False:
         status, reason = "obtained-unconfirmed", "copy saved but his name/nick not found in it (paywall, wrong capture or JS)"
+    if is_media:
+        if video and video.get("file"):
+            status, reason = "video-obtained", None
+        else:
+            status = "page-only"
+            reason = "page copy saved; video/audio not downloaded: " + ((video or {}).get("error") or "unknown")
     rec.update(status=status, method=method, reason=reason, local=str(folder.relative_to(out)).replace("\\", "/"),
-               name_found=name_found)
+               name_found=name_found, video=video)
     return rec
+
+
+def download_media(url, folder):
+    """Download video/audio with yt-dlp into folder/media.*; returns {file, bytes, title} or {error}."""
+    import shutil
+    import subprocess
+    folder.mkdir(parents=True, exist_ok=True)
+    import os
+    ffmpeg = shutil.which("ffmpeg")
+    if not ffmpeg:
+        found = sorted((Path(os.environ.get("LOCALAPPDATA", "")) / "Microsoft/WinGet/Packages").glob("Gyan.FFmpeg*/*/bin/ffmpeg.exe"))
+        ffmpeg = str(found[-1]) if found else None
+    fmt = "bv*[height<=720]+ba/b[height<=720]/bv*+ba/b" if ffmpeg else "b[height<=720]/b"
+    extra = ["--ffmpeg-location", ffmpeg, "--merge-output-format", "mp4"] if ffmpeg else []
+    cmd = [sys.executable, "-m", "yt_dlp", "--no-playlist", "--no-progress", "-f", fmt, *extra,
+           "--write-info-json", "--write-description", "--write-subs", "--sub-langs", "it,en",
+           "--write-thumbnail", "-o", str(folder / "media.%(ext)s"), url]
+    try:
+        p = subprocess.run(cmd, capture_output=True, text=True, timeout=3600, encoding="utf-8", errors="replace")
+    except Exception as e:
+        return {"error": f"yt-dlp failed to run: {type(e).__name__}"}
+    files = [f for f in folder.glob("media.*") if f.suffix.lower() not in (".json", ".description", ".vtt", ".srt", ".jpg", ".webp", ".png", ".part")]
+    if p.returncode == 0 and files:
+        f = max(files, key=lambda x: x.stat().st_size)
+        return {"file": f.name, "bytes": f.stat().st_size}
+    err = (p.stderr or p.stdout or "").strip().splitlines()
+    return {"error": (err[-1] if err else f"exit {p.returncode}")[:300]}
 
 
 def main():
@@ -170,9 +208,9 @@ def main():
         if only and str(it.get("year")) not in only and iid not in only:
             continue
         prev = state.get(iid)
-        if prev and prev["status"] in ("obtained", "media-not-downloaded") and not retry:
+        if prev and prev["status"] in ("obtained", "video-obtained"):
             continue
-        if prev and prev["status"] in ("obtained",) and retry:
+        if prev and prev["status"] != "media-not-downloaded" and not retry:
             continue
         rec = copy_item(it, out)
         state[iid] = rec
