@@ -67,6 +67,13 @@ Paper svedese ricordato da Fabio: **trovato** — Winter & Lindskog (Karlstad Un
   2022/2024, MCH2022, CCCamp2023, audizioni D.lgs 24/2023, media cinesi (TimePie Shanghai),
   biohack.it, stampa locale Latina.
 
+### Piste emerse (da verificare)
+- Internet Archive: `win-magazine-italia-48` (articolo di Fabio Pietrosanti e Yvette Agostini),
+  `pcprofessionale207` (2008, fondatori Khamsa), `hackerjournal-38` ("Pietrosanti", forse lui),
+  `GazzettinoFVG2020-10-02`.
+- Google Books API e Semantic Scholar da rilanciare con quota fresca; ringraziamenti nel libro di
+  Di Salvo (2020) e in «Profilo hacker» (2007); libri di Frediani, Maurizi, Di Corinto, Chiesa.
+
 ### Per fonte (enumerazione sistematica, non a campione)
 - Senato e Camera (web TV, resoconti audizioni), Parlamento europeo, ANAC, Garante privacy.
 - RaiPlay, Rai News, RSI, Radio Popolare, Radio3, Radio24, BBC, NPR.

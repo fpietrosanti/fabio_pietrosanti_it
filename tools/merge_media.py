@@ -29,7 +29,7 @@ TYPE_LABEL = {
     "research": "Ricerca", "paper": "Paper", "book": "Libro", "tv": "TV", "radio": "Radio",
     "video": "Video", "podcast": "Podcast", "slides": "Slide", "project": "Progetto",
     "press_release": "Comunicato", "hearing": "Audizione", "wiki": "Wiki", "other": "Altro",
-    "mentioned": "Menzionato", "blog_post": "Post sul blog infosecurity.ch", "thesis": "Tesi", "report": "Report", "book_chapter": "Capitolo di libro",
+    "mentioned": "Menzionato", "blog_post": "Post sul blog infosecurity.ch", "thesis": "Tesi", "report": "Report", "book_chapter": "Capitolo di libro", "patent": "Brevetto",
 }
 
 

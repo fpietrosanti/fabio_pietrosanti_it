@@ -1,0 +1,80 @@
+[
+ {
+  "date": "2017-03",
+  "year": 2017,
+  "type": "report",
+  "outlet": "European Parliament, Policy Department for Citizens' Rights and Constitutional Affairs (study for the LIBE Committee), PE 583.137",
+  "title": "Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison of Practices",
+  "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "Study by Mirja Gutheil, Quentin Liger, Aurélie Heetman, James Eager, Max Crawford (Optimity Advisors) for the European Parliament. The Italy country section on the Quintarelli/Civici e Innovatori government-trojan bill cites 'Pietrosanti, F. and Aterno, S. 2017. Italy unveils a legal proposal to regulate government hacking' (Boing Boing) in at least five footnotes (302, 308, 312, 315, 319) and in the bibliography. PDF text read.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2015-01",
+  "year": 2015,
+  "type": "report",
+  "outlet": "Dyne.org (software manual)",
+  "title": "Jaro Mail 3.2 manual",
+  "url": "https://archive.org/details/manualzilla-id-5679480",
+  "language": "en",
+  "role": "acknowledged",
+  "note": "Denis 'Jaromil' Roio (Dyne.org), manual of the Jaro Mail email client v3.2 (tag v3.2 dated 2015-01-25 on github.com/dyne/JaroMail). Acknowledgements thank '... Anatole Shaw, Francesco Politi and Fabio Pietrosanti for early testing and debugging'. Seen via Internet Archive full-text search snippet (copy uploaded to archive.org from manualzilla); not an academic work, a software documentation acknowledgement. Authorship of manual assumed from project, not read.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2020-11-08",
+  "year": 2020,
+  "type": "paper",
+  "outlet": "Pandora Rivista (online review of politics and culture, not peer-reviewed)",
+  "title": "I trojan di Stato: la nuova legge sulle intercettazioni",
+  "url": "https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Silvia Cegalin. On the Italian interception law and state trojans; mentions 'Fabio Pietrosanti, membro del Centro Hermes per la Trasparenza e i Diritti Umani Digitali' urging the government to revise the law on entrusting citizens' data to unregulated private trojan vendors. Page text read. Borderline: magazine rather than academic journal.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2008-02-05",
+  "year": 2008,
+  "type": "patent",
+  "outlet": "Ufficio Italiano Brevetti e Marchi (Italian patent application ITRM20060425A1, filed 2006-08-04), assignee Khamsa Italia S.r.l.",
+  "title": "Techniques of safe management multi identity for centralized messaging services",
+  "url": "https://patents.google.com/patent/ITRM20060425A1/en",
+  "language": "it",
+  "role": "co-author",
+  "note": "PATENT (not a paper; type set to report for lack of a patent type). Inventors: Lorenzo Boccaccia, Federico Moro, Fabio Pietrosanti; assignee Khamsa Italia S.r.l. (the company later PrivateWave). Priority/filing 2006-08-04, published 2008-02-05. Google Patents page read (inventor list). Title as shown (English machine translation) on Google Patents; original Italian title not seen.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2008-02-07",
+  "year": 2008,
+  "type": "patent",
+  "outlet": "WIPO PCT patent application WO2008015723 (A2 2008-02-07, A3 2008-04-10); European application EP2057777A2 (published 2009-05-13); assignee Khamsa Italia S.r.l.",
+  "title": "Method of recording a not repudiable digital transmission of information and identifying the participants in the communication",
+  "url": "https://patents.google.com/patent/WO2008015723A2/en",
+  "language": "en",
+  "role": "co-author",
+  "note": "PATENT (type set to report for lack of a patent type). Inventors: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti; assignee Khamsa Italia S.r.l. PCT/IT2007/000565 filed 2007-08-03, priority 2006-08-04. Multimedia protocol with asymmetric keys to verify identity of communication participants. EP family member: https://patents.google.com/patent/EP2057777A2/en (both pages read). Found via OpenAIRE (Lens.org record WO_2008015723_A3).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2023-02",
+  "year": 2023,
+  "type": "report",
+  "outlet": "European Parliament, Policy Department for Citizens' Rights and Constitutional Affairs (study for the PEGA Committee of Inquiry), PE 740.151",
+  "title": "The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU Member States for the acquisition and use of Pegasus and equivalent surveillance spyware",
+  "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "Quentin Liger & Mirja Gutheil (Asterisk Research and Analysis GmbH); manuscript completed February 2023 (draft presented to PEGA on 2022-12-05: https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/PEGA/DV/2022/12-05/Study_Pegasus_Legalframework_draft_5December_EN.pdf, same citation). Bibliography lists 'Pietrosanti, F. and Aterno, S. 2017. Italy unveils a legal proposal to regulate government hacking' (Boing Boing). PDF text read.",
+  "verified": true,
+  "known": false
+ }
+]
