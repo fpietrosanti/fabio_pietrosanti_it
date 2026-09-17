@@ -83,7 +83,9 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   «opening play-av tag not found» (aggiornare yt-dlp o estrarre l'URL audio/video dal DOM della scheda), 1 video YouTube
   non più disponibile (cercare copie altrove), pagine «soggetti» di Radio Radicale non scaricabili come video.
   Registrazioni intere di convegni (es. e-privacy 2016, ~3 GB): valutare di ritagliare solo l'intervento di Fabio.
-- [ ] **Backup esterno dei video** (non stanno su GitHub): chiedere a Fabio dove (disco esterno / cloud).
+- [ ] **Video su Google Drive**: Fabio li caricherà su Drive; poi inserire il link Drive di ogni video in
+  `copies.json` (campo `video.drive_url`) e mostrarlo in `docs/COPIE-OFFLINE.md` e nella futura pagina del sito.
+  Finché non c'è il link, i video restano solo in locale (21,6 GB, fuori da GitHub).
 - [ ] Google Books API e Semantic Scholar con quota fresca (libri: Di Salvo 2020, Profilo hacker 2007, Frediani, Maurizi, Di Corinto, Chiesa, Shooting the Messenger, Coding Democracy, Once a Bitcoin Miner).
 - [ ] Corriere della Sera 2001-01-26 p.25: verificare nel testo.
 - [ ] RAI Teche, Mediaset, Radio Monte Carlo, arretrati ICT Security / Wireless / WeekIT.
