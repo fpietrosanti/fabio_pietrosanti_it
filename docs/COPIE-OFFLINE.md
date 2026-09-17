@@ -1,16 +1,16 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-09-17 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-09-18 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **486**; già processate: **473**; ancora da processare: **13**
-- Licenza delle copie ottenute: **171** materiale proprio (ripubblicabile), **294** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **333**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **50**
-- 🟠 Solo guscio JavaScript: serve cattura col browser: **4**
-- 🎬 Video/audio scaricato (+ pagina): **57**
+- Voci in `data/media.json`: **486**; già processate: **486**; ancora da processare: **0**
+- Licenza delle copie ottenute: **178** materiale proprio (ripubblicabile), **300** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **342**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **51**
+- 🟠 Solo guscio JavaScript: serve cattura col browser: **6**
+- 🎬 Video/audio scaricato (+ pagina): **58**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **21**
 - ❌ Non ottenuta: **8**
 
@@ -38,7 +38,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 18 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 18 | 8 | 1 | 0 | 1 | 0 | 0 |
 | 2016 | 9 | 5 | 1 | 0 | 2 | 0 | 0 |
-| 2017 | 28 | 2 | 2 | 0 | 3 | 0 | 0 |
+| 2017 | 37 | 3 | 3 | 2 | 3 | 0 | 0 |
 | 2018 | 17 | 8 | 5 | 0 | 3 | 0 | 1 |
 | 2019 | 7 | 3 | 0 | 0 | 1 | 0 | 0 |
 | 2020 | 11 | 3 | 3 | 0 | 0 | 0 | 0 |
@@ -51,19 +51,6 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Da completare (non ancora processate)
 
-- ⏳ **2017** · GitHub — [trojanregulations — documents of the Italian trojan bill proposal (bill text, technical ru](https://github.com/fpietrosanti/trojanregulations)
-- ⏳ **2017** · github.com — [Proposta-di-Legge-Captatori-Informatici-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Proposta-di-Legge-Captatori-Informatici-IT.pdf)
-- ⏳ **2017** · github.com — [Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf)
-- ⏳ **2017** · github.com — [Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf)
-- ⏳ **2017** · github.com — [Summary-of-bill-proposal-on-trojan-EN.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Summary-of-bill-proposal-on-trojan-EN.pdf)
-- ⏳ **2017** · github.com — [Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf)
-- ⏳ **2017** · github.com — [Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf)
-- ⏳ **2017** · www.ccc.de — [Stellungnahme_CCC-Staatstrojaner.pdf](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf)
-- ⏳ **2017** · tbinternet.ohchr.org — [INT_CCPR_CSS_ITA_26517_E.pdf](https://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ITA/INT_CCPR_CSS_ITA_26517_E.pdf)
-- ⏳ **2017** · www.journalismfestival.com — [lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare](https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare)
-- ⏳ **2017** · www.youtube.com — [watch?v=tF_i3X_PcFY](https://www.youtube.com/watch?v=tF_i3X_PcFY)
-- ⏳ **2017** · docs.google.com — [edit?usp=sharing](https://docs.google.com/document/d/1t6kfUigpBdiI8ECC306QHTL1cawOapvnRSIY0dV5KXA/edit?usp=sharing)
-- ⏳ **2017** · docs.google.com — [edit](https://docs.google.com/presentation/d/11-AdcbRlxhWwHhHz54Yp8hNYXAICYBHHfumDO89XFrs/edit)
 
 ## Fonti NON ottenute o incomplete
 
@@ -151,6 +138,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2017** · e-privacy 2017 summer (XXI, Lucca) — [Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza](https://e-privacy.winstonsmith.org/e-privacy-XXI.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2017** · www.journalismfestival.com — [lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare](https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2018** · EDRi (European Digital Rights) — [Big Brother Awards 2018 Italy](https://edri.org/big-brother-awards-2018-italy/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2018** · EDRi (European Digital Rights) — [Hermes Center demands investigation of NAT-related data retention](https://edri.org/hermes-center-demands-investigation-of-nat-related-data-retention/) · licenza: terzi  
@@ -234,6 +223,10 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🟠 **2000** · SecurityFocus BID 1923 — [ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)](https://www.securityfocus.com/bid/1923) · licenza: propria  
   page is a JavaScript shell with almost no text: needs browser capture
 - 🟠 **2001** · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) · licenza: propria  
+  page is a JavaScript shell with almost no text: needs browser capture
+- 🟠 **2017** · docs.google.com — [edit?usp=sharing](https://docs.google.com/document/d/1t6kfUigpBdiI8ECC306QHTL1cawOapvnRSIY0dV5KXA/edit?usp=sharing) · licenza: terzi  
+  page is a JavaScript shell with almost no text: needs browser capture
+- 🟠 **2017** · docs.google.com — [edit](https://docs.google.com/presentation/d/11-AdcbRlxhWwHhHz54Yp8hNYXAICYBHHfumDO89XFrs/edit) · licenza: terzi  
   page is a JavaScript shell with almost no text: needs browser capture
 
 ## Fonti ottenute in locale
@@ -488,11 +481,19 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - **2017** · EDRi (European Digital Rights) — [Italy extends data retention to six years](https://edri.org/our-work/italy-extends-data-retention-to-six-years/) · copia: `2017/dcc7ee25c642` (Web Archive 20200922) · licenza: propria
 - **2017** · EDRi (European Digital Rights) — [Italy plans to extend telecoms data retention and increase censorship powers](https://edri.org/our-work/italy-plans-extend-telecoms-data-retention-increase-censorship-powers/) · copia: `2017/a89b8b021b54` (Web Archive 20200927) · licenza: propria
 - **2017** · GitHub / Camera dei Deputati (Civici e I — [Trojans-And-Rule-of-Law: Italian bill proposal to regulate Trojan use by LEA (Proposta di ](https://github.com/fpietrosanti/Trojans-And-Rule-of-Law) · copia: `2017/3dc34cde44b3` (Web Archive 20200930) · licenza: propria
+- **2017** · GitHub — [trojanregulations — documents of the Italian trojan bill proposal (bill text, technical ru](https://github.com/fpietrosanti/trojanregulations) · copia: `2017/bacd97152a42` (live) · licenza: propria
+- **2017** · github.com — [Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Access-Now-Comment-on-the-Trojan-Bill-Proposal.pdf) · copia: `2017/5c1ae86ff278` (live) · licenza: propria
+- **2017** · github.com — [Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Conferenza-Stampa-Presentazione-Proposta-di-Legge-IT.pdf) · copia: `2017/cbd053d3c5e0` (live) · licenza: propria
+- **2017** · github.com — [Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Disciplinare-Tecnico-Proposta-di-Legge-Captatori-IT.pdf) · copia: `2017/9793dcef2e10` (live) · licenza: propria
+- **2017** · github.com — [Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Motivazionie-Contenuti-del-Disciplinare-Tecnico-IT.pdf) · copia: `2017/68c4d7b8b535` (live) · licenza: propria
+- **2017** · github.com — [Proposta-di-Legge-Captatori-Informatici-IT.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Proposta-di-Legge-Captatori-Informatici-IT.pdf) · copia: `2017/f5061815272c` (live) · licenza: propria
+- **2017** · github.com — [Summary-of-bill-proposal-on-trojan-EN.pdf](https://github.com/fpietrosanti/trojanregulations/blob/master/Summary-of-bill-proposal-on-trojan-EN.pdf) · copia: `2017/546a52a643ba` (live) · licenza: propria
 - **2017** · SHA2017 - Still Hacking Anyway (media.cc — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans) · copia: `2017/4ca026c3e13b` (Web Archive 20170810 · video locale `media.mp4` (96 MB, da caricare su Drive)) · licenza: terzi
 - **2017** · Matteo Flora (mgpf.it) — [Referendum autonomia Lombardia: hacker trova dati e codici online...](https://mgpf.it/2017/10/20/referendum-autonomia-lombardia-hacker.html) · copia: `2017/4df6c2948f08` (Web Archive 20171231) · licenza: terzi
 - **2017** · la Repubblica (Milano) — [Referendum Lombardia, gli ingegneri lanciano l'allarme sicurezza: "Troppi segreti sul voto](https://milano.repubblica.it/cronaca/2017/10/19/news/ilcaso_l_associazione_degli_ingegneri_protesta_per_l_accesso_negato_ai_dettagli_tecnici_su_lla_tutela_dei_dati_sensibi-178667938/) · copia: `2017/c7fbfa621deb` (Web Archive 20171019) · licenza: terzi
 - **2017** · Internet Policy Review, Vol. 6, Issue 1  — [Australian internet policy](https://policyreview.info/node/457/pdf) · copia: `2017/2419bfb5cf59` (Web Archive 20180411) · licenza: terzi
 - **2017** · st.ilsole24ore.com — [La sfida di coniugare il dettato costituzionale e la ricerca tecnologica](https://st.ilsole24ore.com/art/commenti-e-idee/2017-12-02/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-125656.shtml) · copia: `2017/94351f1f8236` (live) · licenza: terzi
+- **2017** · tbinternet.ohchr.org — [INT_CCPR_CSS_ITA_26517_E.pdf](https://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ITA/INT_CCPR_CSS_ITA_26517_E.pdf) · copia: `2017/e26d538ee4b2` (Web Archive 20211017) · licenza: terzi
 - **2017** · Tampere University of Technology (Finlan — [TorSNIP: Hidden Service Proxy with End-to-End Security](https://trepo.tuni.fi/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&isAllowed=y) · copia: `2017/4ac2264ec0cf` (Web Archive 20241108) · licenza: terzi
 - **2017** · Trojans And Rule of Law — [Trojans And Rule of Law](https://trojansandruleoflaw.org/) · copia: `2017/7542ca8dcc65` (Web Archive 20210516) · licenza: propria
 - **2017** · Twitter/X @fpietrosanti — [An overview on the #SHA2017 hacker camp from 4th to 8th August @SHA2017Camp /by @interlogi](https://twitter.com/fpietrosanti/status/898831511708983296) · copia: `2017/edd84181eac7` (live) · licenza: terzi
@@ -502,6 +503,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - **2017** · SHA2017 Wiki — [Village:ItalianEmbassy (Italian Hacker Embassy at SHA2017)](https://wiki.sha2017.org/w/Village:ItalianEmbassy) · copia: `2017/519f27acc52b` (Web Archive 20170801) · licenza: propria
 - **2017** · Agenda Digitale — [Articoli di Fabio Pietrosanti (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/) · copia: `2017/264a9bc7d25b` (Web Archive 20200925) · licenza: terzi
 - **2017** · University of California, Berkeley, PhD  — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf) · copia: `2017/07478431c5a6` (Web Archive 20190612) · licenza: terzi
+- **2017** · www.ccc.de — [Stellungnahme_CCC-Staatstrojaner.pdf](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) · copia: `2017/0ec817dbfbbc` (Web Archive 20170531) · licenza: terzi
 - **2017** · European Parliament, Policy Department f — [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf) · copia: `2017/114e1a17fa02` (Web Archive 20170419) · licenza: terzi
 - **2017** · Il Fatto Quotidiano (blog Umberto Rapett — [Referendum Lombardia e voto elettronico, mi fido o no?](https://www.ilfattoquotidiano.it/2017/10/21/referendum-lombardia-e-voto-elettronico-mi-fido-o-no/3927235/) · copia: `2017/60a94504eb19` (Web Archive 20171022) · licenza: terzi
 - **2017** · linkiesta.it — [DIG raddoppia e a fine ottobre porta a Milano il meglio del giornalismo investigativo inte](https://www.linkiesta.it/2017/10/dig-raddoppia-e-a-fine-ottobre-porta-a-milano-il-meglio-del-giornalism/) · copia: `2017/a532d3dbf3f6` (Web Archive 20211026) · licenza: terzi
@@ -513,6 +515,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - **2017** · Valigia Blu — [Referendum Lombardia e Veneto: cosa si vota, i costi e le critiche al sistema elettronico](https://www.valigiablu.it/referendum-autonomia-lombardia-veneto/) · copia: `2017/0701a07df0ff` (Web Archive 20171020) · licenza: terzi
 - **2017** · Wired Italia — [Cybersorveglianza, come le aziende (anche italiane) aiutano Iran e Sud Sudan](https://www.wired.it/internet/regole/2017/04/11/cybersorveglianza-aziende-italiane-iran/) · copia: `2017/9e8e5be7a8ad` (Web Archive 20170415) · licenza: terzi
 - **2017** · Metro Olografix (YouTube) — [[MOCA 2016] GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Dir](https://www.youtube.com/watch?v=UokccrS7GBw) · copia: `2017/a0cf359a45a9` (Web Archive 20240922 · video locale `media.mp4` (225 MB, da caricare su Drive)) · licenza: terzi
+- **2017** · www.youtube.com — [watch?v=tF_i3X_PcFY](https://www.youtube.com/watch?v=tF_i3X_PcFY) · copia: `2017/d2494a136f66` (live · video locale `media.mp4` (205 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix](http://www.radio24.ilsole24ore.com/programma/2024/trasmissione-marzo-2018-224932-gSLAjFnabC) · copia: `2018/97dd2bdfc59c` (Web Archive 20180505) · licenza: terzi
 - **2018** · FOSDEM 2018 (Brussels) - Legal and Polic — [Public money, public code, the Italian way: Hacking Italian Administrations to get to the ](https://archive.fosdem.org/2018/schedule/event/public_money_public_code/) · copia: `2018/265f218d2f9a` (Web Archive 20210927) · licenza: terzi
 - **2018** · Big Brother Awards Italia (Progetto Wins — [Big Brother Awards Italia 2018](https://bba.winstonsmith.org/) · copia: `2018/cdebd212568b` (Web Archive 20180621) · licenza: propria
