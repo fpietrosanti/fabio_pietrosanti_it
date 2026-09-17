@@ -79,7 +79,7 @@ def main():
         if v.get("drive_url"):
             via += f" · [video su Drive]({v['drive_url']})"
         elif v.get("file"):
-            via += f" · video locale `{v['file']}` ({v.get('bytes', 0) / 1e6:,.0f} MB, da caricare su Drive)
+            via += f" · video locale `{v['file']}` ({v.get('bytes', 0) / 1e6:,.0f} MB, da caricare su Drive)"
         L.append(f"- **{r['year']}** · {(r.get('outlet') or '')[:40]} — [{(r.get('title') or r['url'])[:90]}]({r['url']}) · copia: `{r['local']}` ({via}) · licenza: {licence(r)}")
     io.open(ROOT / "docs/COPIE-OFFLINE.md", "w", encoding="utf-8").write("\n".join(L) + "\n")
     print("wrote docs/COPIE-OFFLINE.md", dict(st), "pending", len(pending))
