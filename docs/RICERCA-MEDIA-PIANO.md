@@ -75,6 +75,20 @@ Per ogni fonte (articolo, paper, intervista, video, audio) il sito mostrerà **l
   poi copia dal Web Archive (`/web/<data>id_/<url>`); se la pagina non è archiviata, lettura dal DOM col browser.
 - Tempi: giorni o settimane, finché l'obiettivo è raggiunto.
 
+## Coda lavori per le sessioni programmate (non chiudere finché non è tutto fatto)
+Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro, si riprova nella sessione successiva.
+- [ ] Coda Google `data/research/queue.json` (domini + query libere).
+- [ ] Copie offline: tutte le voci di `data/media.json` processate; poi ritentare 🟡/🟠/❌ (browser per JS, altre capture Web Archive).
+- [ ] Video/audio: scaricare (yt-dlp se disponibile) o documentare perché non si può.
+- [ ] Google Books API e Semantic Scholar con quota fresca (libri: Di Salvo 2020, Profilo hacker 2007, Frediani, Maurizi, Di Corinto, Chiesa, Shooting the Messenger, Coding Democracy, Once a Bitcoin Miner).
+- [ ] Corriere della Sera 2001-01-26 p.25: verificare nel testo.
+- [ ] RAI Teche, Mediaset, Radio Monte Carlo, arretrati ICT Security / Wireless / WeekIT.
+- [ ] Audizioni Camera/Senato/Parlamento europeo (ricerca nei resoconti).
+- [ ] OpenRousseau / M5S: espulsione (Domani 2020) e articolo di Raffaele Angius sulla doppia iscrizione.
+- [ ] Bloomberg Businessweek 2020-05-04; Il Gazzettino Friuli 2020-10-02; Radio1 Rai Italian Hacker Camp 2018.
+- [ ] Internet Archive: win-magazine-italia-48, pcprofessionale207, hackerjournal-38, GazzettinoFVG2020-10-02 (copie).
+- [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
+
 ## Tecnica ricerca con browser (validata 2026-09-17)
 - **Google `site:` nel Chrome di Fabio**: funziona, ~10 ricerche poi compare il controllo anti-robot → fermarsi
   (non aggirarlo). Ritmo per le prossime sessioni: blocchi da ~8 ricerche distanziati di ore.
