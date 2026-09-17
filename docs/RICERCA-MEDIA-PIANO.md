@@ -79,7 +79,11 @@ Per ogni fonte (articolo, paper, intervista, video, audio) il sito mostrerà **l
 Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro, si riprova nella sessione successiva.
 - [ ] Coda Google `data/research/queue.json` (domini + query libere).
 - [ ] Copie offline: tutte le voci di `data/media.json` processate; poi ritentare 🟡/🟠/❌ (browser per JS, altre capture Web Archive).
-- [ ] Video/audio: scaricare (yt-dlp se disponibile) o documentare perché non si può.
+- [ ] Video/audio: 57 scaricati il 2026-09-17 (21,6 GB, solo in locale). 21 «solo pagina»: 10 Radio Radicale con errore yt-dlp
+  «opening play-av tag not found» (aggiornare yt-dlp o estrarre l'URL audio/video dal DOM della scheda), 1 video YouTube
+  non più disponibile (cercare copie altrove), pagine «soggetti» di Radio Radicale non scaricabili come video.
+  Registrazioni intere di convegni (es. e-privacy 2016, ~3 GB): valutare di ritagliare solo l'intervento di Fabio.
+- [ ] **Backup esterno dei video** (non stanno su GitHub): chiedere a Fabio dove (disco esterno / cloud).
 - [ ] Google Books API e Semantic Scholar con quota fresca (libri: Di Salvo 2020, Profilo hacker 2007, Frediani, Maurizi, Di Corinto, Chiesa, Shooting the Messenger, Coding Democracy, Once a Bitcoin Miner).
 - [ ] Corriere della Sera 2001-01-26 p.25: verificare nel testo.
 - [ ] RAI Teche, Mediaset, Radio Monte Carlo, arretrati ICT Security / Wireless / WeekIT.
