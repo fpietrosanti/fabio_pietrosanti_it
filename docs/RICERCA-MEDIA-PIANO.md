@@ -84,6 +84,7 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [ ] Corriere della Sera 2001-01-26 p.25: verificare nel testo.
 - [ ] RAI Teche, Mediaset, Radio Monte Carlo, arretrati ICT Security / Wireless / WeekIT.
 - [ ] Audizioni Camera/Senato/Parlamento europeo (ricerca nei resoconti).
+- [ ] Progetto AIRE (voto elettronico, italiani all'estero): raccogliere tutte le fonti e documentarlo.
 - [ ] OpenRousseau / M5S: espulsione (Domani 2020) e articolo di Raffaele Angius sulla doppia iscrizione.
 - [ ] Bloomberg Businessweek 2020-05-04; Il Gazzettino Friuli 2020-10-02; Radio1 Rai Italian Hacker Camp 2018.
 - [ ] Internet Archive: win-magazine-italia-48, pcprofessionale207, hackerjournal-38, GazzettinoFVG2020-10-02 (copie).
@@ -111,6 +112,9 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 
 ## TODO futuri
 - **CRVD voto elettronico**: replica dal Web Archive e rimessa online (progetto a parte, da pianificare).
+- **Progetto AIRE** (voto elettronico / voto degli italiani all'estero iscritti all'AIRE): da documentare bene
+  nell'ambito voto elettronico (fonti, articoli, ruolo di Fabio, risultati). Solo dopo averlo documentato,
+  proporre a Fabio la voce nella sezione Progetti di LinkedIn (EN + zh_CN).
 - **LinkedIn — sezione Progetti** (EN master + zh_CN), testi da proporre a Fabio prima di pubblicarli:
   - **Monitora PA**: breve indicazione dei risultati ottenuti nella rimozione di Google Analytics dalla PA.
   - **OpenRousseau**.

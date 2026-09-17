@@ -529,6 +529,16 @@
  ],
  "queries": [
   {
+   "query": "\"Pietrosanti\" AIRE \"voto elettronico\" OR \"voto all'estero\" OR \"italiani all'estero\"",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Hermes Center\" AIRE voto elettronico italiani estero",
+   "status": "pending",
+   "pages": 2
+  },
+  {
    "query": "\"Fabio Pietrosanti\"",
    "status": "pending",
    "pages": 5
