@@ -178,7 +178,7 @@ def render(items, baseline, raw_count):
     lines = [
         "# Ricerca online — articoli, interviste, ricerche, talk e media su Fabio Pietrosanti",
         "",
-        "Generato da `tools/merge_media.py` il 2026-09-16 unendo 6 ricerche web parallele.",
+        "Generato da `tools/merge_media.py` unendo tutte le passate di ricerca in `data/research/raw/`.",
         "Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).",
         "",
         "## Riepilogo",
@@ -234,7 +234,7 @@ def render(items, baseline, raw_count):
 
 def main():
     src = Path(sys.argv[1])
-    files = sorted(glob.glob(str(src / "slice*.json")))
+    files = sorted(glob.glob(str(src / "*.json")))
     baseline = parse_baseline()
     raw, items = merge(files)
     for i in items:
