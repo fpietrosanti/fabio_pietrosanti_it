@@ -74,6 +74,12 @@ Paper svedese ricordato da Fabio: **trovato** — Winter & Lindskog (Karlstad Un
 - Google Books API e Semantic Scholar da rilanciare con quota fresca; ringraziamenti nel libro di
   Di Salvo (2020) e in «Profilo hacker» (2007); libri di Frediani, Maurizi, Di Corinto, Chiesa.
 
+- Siti con ricerca solo JavaScript (non leggibili da WebFetch): Corriere/Corriere Innovazione, La Stampa,
+  Il Sole 24 Ore, ANSA, AGI, Adnkronos, Internazionale, RaiPlay/RaiNews, La7, Sky TG24, Radio24 →
+  **usare il browser** (Claude in Chrome o browser integrato) per eseguire la ricerca interna e leggere i
+  risultati dal DOM. Guardian: API key rifiutata. L'Espresso: nessuna ricerca utilizzabile.
+- Il web search copre male il periodo pre-2016: per 2009–2015 servono gli archivi dei singoli siti.
+
 ### Per fonte (enumerazione sistematica, non a campione)
 - Senato e Camera (web TV, resoconti audizioni), Parlamento europeo, ANAC, Garante privacy.
 - RaiPlay, Rai News, RSI, Radio Popolare, Radio3, Radio24, BBC, NPR.
