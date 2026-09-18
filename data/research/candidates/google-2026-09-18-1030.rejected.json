@@ -1,0 +1,68 @@
+[
+ {
+  "url": "https://www.ansa.it/sito/notizie/economia/criptovalute/2024/10/18/hogan-lovells-tassa-cripto-compromette-il-mercato-italiano_ccb79c85-93b6-4132-932c-b46c79dfcc38.html",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://eurofocus.adnkronos.com/innovazione/piattaforme-digitali-iva-tax-hogan-lovells/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.wired.it/internet/regole/2017/04/11/cybersorveglianza-aziende-italiane-iran/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.wired.it/galleries/gait103195/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.wired.it/internet/web/2015/02/23/gli-usa-contro-il-dark-web-ma-i-terroristi-preferiscono-la-rete-normale/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.wired.it/internet/web/2014/11/25/tor-anonimo/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.punto-informatico.it/download/osxcrypt/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "http://punto-informatico.it/p.asp?i=56331",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.zeusnews.it/n.php?c=669",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.zeusnews.it/news.php?cod=2541",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.valigiablu.it/referendum-autonomia-lombardia-veneto/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.valigiablu.it/cia-germania-spionaggio-alleati/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.valigiablu.it/mi-chiamo-carrai-marco-carrai-e-senza-competenze-potrei-fare-il-capo-della-cybersicurezza/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.punto-informatico.it/pietrosanti-una-corte-per-internet/",
+  "reason": "false positive: 'Pietrosanti' only in title, topic matched footer 'privacy policy' (likely Paolo Pietrosanti)"
+ }
+]

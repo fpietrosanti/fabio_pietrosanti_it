@@ -75,6 +75,7 @@ def main():
             print("FAIL", u)
             continue
         title, body = text_of(data)
+        body = re.sub(r"(?i)(privacy|cookie)\s+policy|informativa (sulla )?privacy", " ", body)  # footer boilerplate must not count as a topic
         full = re.search(r"Fabio\s+Pietrosanti|Pietrosanti,?\s+Fabio|\bnaif\b", body, re.I)
         near = None
         for m in re.finditer(r"Pietrosanti", body):
