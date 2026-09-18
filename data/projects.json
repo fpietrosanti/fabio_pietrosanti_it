@@ -218,17 +218,20 @@
    "sources": []
   },
   {
-   "name": "Kaspersky nella PA italiana (2018/2022)",
+   "name": "Kaspersky: matrice dei rischi e uso nella PA italiana (2018, 2022)",
    "start_year": "2018",
    "area": "sicurezza nazionale",
    "status": "da-documentare",
    "description_en": "",
    "description_zh": "",
-   "link": "",
+   "link": "https://github.com/fpietrosanti/kaspersky-risks",
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,
-   "sources": []
+   "sources": [
+    "https://github.com/fpietrosanti/kaspersky-risks"
+   ],
+   "notes": "Repo kaspersky-risks (2022-03-20): valutazione dei rischi se Kaspersky fosse costretta a cooperare con il governo russo. Stampa: Euronews 2018 (intervista video) e 2022 (Il Riformista) che contribuì al bando del governo italiano (fonte: Fabio)."
   },
   {
    "name": "mxmap.it / Osservatorio Nazionale Sovranità Digitale",
@@ -306,7 +309,8 @@
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,
-   "sources": []
+   "sources": [],
+   "notes": "Include OpenPUDO: primo software PUDO (punti di ritiro/consegna) open source al mondo (fonte: Fabio), repo lessgreen/OpenPUDO dal 2021-02-25, con openpudo-rest, OpenPudoMobile, quigreen, PUDOResearch, CrowdShip, NetworkPlanner; non ha avuto sviluppo successivo."
   },
   {
    "name": "Haulersense",
@@ -358,8 +362,11 @@
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,
-   "sources": [],
-   "notes": "Canale Telegram e documento di specifica: ritrovare link e anno di pubblicazione."
+   "sources": [
+    "https://forum.italia.it/t/osservatorio-nazionale-sicurezza-cibernetica-italiana/11966",
+    "https://t.me/joinchat/DdiC3klD0NMItWpnMoIqfQ"
+   ],
+   "notes": "Canale Telegram e documento di specifica: ritrovare link e anno di pubblicazione. Trovati 18/09: thread Forum Italia «Osservatorio Nazionale Sicurezza Cibernetica Italiana» e link al gruppo Telegram; il documento di specifica è da ritrovare (probabilmente linkato dal thread)."
   },
   {
    "name": "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)",
@@ -386,8 +393,61 @@
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,
+   "sources": [
+    "http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/"
+   ],
+   "notes": "Analisi delle vulnerabilità dell'applicazione COVID del Lazio con Giovanni Rocca: ritrovare articoli, advisory e date. Trovato 18/09: post di Giovanni Rocca «LAZIOdrCOVID: a 30 minutes audit to blow up the castle»."
+  },
+  {
+   "name": "OpenPUDO — primo software open source per reti PUDO (LESS)",
+   "start_year": "2021",
+   "area": "logistica",
+   "status": "fonti-raccolte",
+   "description_en": "",
+   "description_zh": "",
+   "link": "https://github.com/lessgreen/OpenPUDO",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
+   "sources": [
+    "https://github.com/lessgreen/OpenPUDO",
+    "https://github.com/lessgreen/openpudo-rest",
+    "https://github.com/lessgreen/OpenPudoMobile",
+    "https://github.com/lessgreen/PUDOResearch",
+    "https://github.com/lessgreen/LESSProject"
+   ],
+   "notes": "Primo software PUDO open source al mondo secondo Fabio; progetto di LESS.green, non sviluppato oltre il 2022."
+  },
+  {
+   "name": "ifuriosi.it — archivio delle evidenze e pubblicità Philip Morris ricondotta a Casaleggio Associati",
+   "start_year": "2020",
+   "area": "ricerca / trasparenza",
+   "status": "fonti-raccolte",
+   "description_en": "",
+   "description_zh": "",
+   "link": "https://github.com/fpietrosanti/ifuriosi",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
+   "sources": [
+    "https://github.com/fpietrosanti/ifuriosi",
+    "https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/"
+   ],
+   "notes": "Repo creato 2020-12-03 dopo la cancellazione del sito ifuriosi.it: evidenze web, domini e indirizzi IP condivisi con Casaleggio Associati/Rousseau/M5S; sintesi pubblicata dal Riformista."
+  },
+  {
+   "name": "Docenza LIUC (Varese) sui punti di ritiro PUDO",
+   "start_year": "",
+   "area": "logistica / insegnamento",
+   "status": "da-documentare",
+   "description_en": "",
+   "description_zh": "",
+   "link": "",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
    "sources": [],
-   "notes": "Analisi delle vulnerabilità dell'applicazione COVID del Lazio con Giovanni Rocca: ritrovare articoli, advisory e date."
+   "notes": "Insegnamento alla LIUC sui punti di ritiro (PUDO), segnalato da Fabio: trovare anno, corso, materiali."
   }
  ]
 }

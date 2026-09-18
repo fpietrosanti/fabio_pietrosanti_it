@@ -1,0 +1,80 @@
+[
+ {
+  "date": "2022-03-20",
+  "year": 2022,
+  "type": "research",
+  "outlet": "GitHub",
+  "title": "kaspersky-risks — Risk evaluation of Kaspersky if subject to coercion by the Russian government",
+  "url": "https://github.com/fpietrosanti/kaspersky-risks",
+  "language": "en",
+  "role": "author",
+  "note": "Repository by fpietrosanti; basis for press coverage that contributed to the Italian government ban (Fabio)",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2020-12-03",
+  "year": 2020,
+  "type": "research",
+  "outlet": "GitHub",
+  "title": "ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)",
+  "url": "https://github.com/fpietrosanti/ifuriosi",
+  "language": "it",
+  "role": "author",
+  "note": "Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2020-12",
+  "year": 2020,
+  "type": "quoted",
+  "outlet": "Il Riformista",
+  "title": "Cinquestellopoli, ecco cosa faceva Casaleggio con i soldi di Philip Morris",
+  "url": "https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/",
+  "language": "it",
+  "role": "subject",
+  "note": "Article summarising Fabio's ifuriosi evidence (linked from his repo); to verify his name in text",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2021-02-25",
+  "year": 2021,
+  "type": "project",
+  "outlet": "GitHub — lessgreen",
+  "title": "OpenPUDO — Open PUDO Software Platform",
+  "url": "https://github.com/lessgreen/OpenPUDO",
+  "language": "en",
+  "role": "author",
+  "note": "LESS.green project; first open-source PUDO software (Fabio)",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2020",
+  "year": 2020,
+  "type": "research",
+  "outlet": "giovanni-rocca.com",
+  "title": "LAZIOdrCOVID: a 30 minutes audit to blow up the castle",
+  "url": "http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/",
+  "language": "en",
+  "role": "co-author",
+  "note": "Audit of the Lazio COVID app with Giovanni Rocca (Fabio); check whether Fabio is named",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "",
+  "year": null,
+  "type": "project",
+  "outlet": "Forum Italia",
+  "title": "Osservatorio Nazionale Sicurezza Cibernetica Italiana (OSSCI)",
+  "url": "https://forum.italia.it/t/osservatorio-nazionale-sicurezza-cibernetica-italiana/11966",
+  "language": "it",
+  "role": "author",
+  "note": "Never-launched project; thread with Telegram group; date to determine (forum thread, not a mailing-list post: project announcement)",
+  "verified": false,
+  "known": false
+ }
+]

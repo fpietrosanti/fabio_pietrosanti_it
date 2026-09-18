@@ -551,6 +551,26 @@
  ],
  "queries": [
   {
+   "query": "\"ifuriosi\" Casaleggio \"Philip Morris\" Pietrosanti",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" Kaspersky Euronews",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "OpenPUDO \"open source\" PUDO LESS",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" LIUC PUDO OR \"punti di ritiro\"",
+   "status": "pending",
+   "pages": 2
+  },
+  {
    "query": "\"Lazio\" app covid vulnerabilità \"Rocca\" 2020",
    "status": "pending",
    "pages": 2

@@ -6935,6 +6935,23 @@
  {
   "date": "2020",
   "year": 2020,
+  "type": "research",
+  "outlet": "giovanni-rocca.com",
+  "title": "LAZIOdrCOVID: a 30 minutes audit to blow up the castle",
+  "url": "http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/",
+  "language": "en",
+  "role": "co-author",
+  "note": "Audit of the Lazio COVID app with Giovanni Rocca (Fabio); check whether Fabio is named",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_projects_fabio_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020",
+  "year": 2020,
   "type": "book",
   "outlet": "Maureen Webb, Coding Democracy: How Hackers Are Disrupting Power, Surveillance, and Authoritarianism (MIT Press, 2020), IA copy",
   "title": "Coding Democracy",
@@ -7401,18 +7418,36 @@
   "on_old_site": false
  },
  {
+  "date": "2020-12",
+  "year": 2020,
+  "type": "quoted",
+  "outlet": "Il Riformista",
+  "title": "Cinquestellopoli, ecco cosa faceva Casaleggio con i soldi di Philip Morris",
+  "url": "https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/",
+  "language": "it",
+  "role": "subject",
+  "note": "Article summarising Fabio's ifuriosi evidence (linked from his repo); to verify his name in text",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_projects_fabio_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-12-03",
   "year": 2020,
-  "type": "project",
-  "outlet": "GitHub fpietrosanti",
-  "title": "ifuriosi",
+  "type": "research",
+  "outlet": "GitHub",
+  "title": "ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)",
   "url": "https://github.com/fpietrosanti/ifuriosi",
-  "language": "en",
+  "language": "it",
   "role": "author",
-  "note": "Document archive of the ifuriosi platform",
+  "note": "Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista",
   "verified": true,
   "known": false,
   "_slices": [
+   "pass3_projects_fabio_2026-09-18",
    "slice6_media_archives"
   ],
   "on_old_site": false
@@ -7553,6 +7588,23 @@
   "_slices": [
    "slice5_2021_2026",
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-02-25",
+  "year": 2021,
+  "type": "project",
+  "outlet": "GitHub — lessgreen",
+  "title": "OpenPUDO — Open PUDO Software Platform",
+  "url": "https://github.com/lessgreen/OpenPUDO",
+  "language": "en",
+  "role": "author",
+  "note": "LESS.green project; first open-source PUDO software (Fabio)",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_projects_fabio_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -8022,14 +8074,15 @@
   "year": 2022,
   "type": "research",
   "outlet": "GitHub",
-  "title": "kaspersky-risks: Risk Evaluation of Kaspersky related Risk, if subject to Coercion by Russian Government for Intelligence and Military Purposes",
+  "title": "kaspersky-risks — Risk evaluation of Kaspersky if subject to coercion by the Russian government",
   "url": "https://github.com/fpietrosanti/kaspersky-risks",
   "language": "en",
   "role": "author",
-  "note": "Risk analysis repository published during the Ukraine invasion debate",
+  "note": "Repository by fpietrosanti; basis for press coverage that contributed to the Italian government ban (Fabio)",
   "verified": true,
   "known": false,
   "_slices": [
+   "pass3_projects_fabio_2026-09-18",
    "slice5_2021_2026",
    "slice6_media_archives"
   ],
