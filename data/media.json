@@ -3100,6 +3100,24 @@
  {
   "date": "2011-01-26",
   "year": 2011,
+  "type": "mentioned",
+  "outlet": "Hermes Center — News & Press (sito in ripristino)",
+  "title": "Forbes, GlobaLeaks Wants To Be The Bittorrent To WikiLeaks’ Napster",
+  "url": "https://www.hermescenter.org/26012011-forbes-globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster/",
+  "language": "EN",
+  "role": "subject",
+  "note": "names Fabio: …ators are based in Italy and the Netherlands, has yet to launch and is still hammering out some of its plans. But Fabio Pietrosanti, a spokesperson for the group, tells me it will ultimately invite volunteers around the world to install GlobaLeaks’ so… — restored in hermescenter/hermescenter.org-restoration id 26012011-forbes-globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster",
+  "verified": true,
+  "known": false,
+  "hermes_activity": true,
+  "_slices": [
+   "pass4_hermes_site_named_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2011-01-26",
+  "year": 2011,
   "type": "quoted",
   "outlet": "Forbes (Andy Greenberg)",
   "title": "GlobaLeaks Wants To Be The Bittorrent To WikiLeaks' Napster",
@@ -3271,6 +3289,24 @@
  {
   "date": "2011-10-30",
   "year": 2011,
+  "type": "mentioned",
+  "outlet": "Hermes Center — News & Press (sito in ripristino)",
+  "title": "X Congresso dei Radicali Italiani,  Globaleaks",
+  "url": "https://www.hermescenter.org/x-congresso-radicali-italiani-globaleaks/",
+  "language": "EN",
+  "role": "subject",
+  "note": "names Fabio: …nternet come metodo: dalla mobilitazione, all’organizzazione alla nuova forma partito” (seconda giornata) Talk by Fabio Pietrosanti and Arturo Filastò here. … — restored in hermescenter/hermescenter.org-restoration id x-congresso-radicali-italiani-globaleaks",
+  "verified": true,
+  "known": false,
+  "hermes_activity": true,
+  "_slices": [
+   "pass4_hermes_site_named_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2011-10-30",
+  "year": 2011,
   "type": "video",
   "outlet": "Radio Radicale",
   "title": "4ª Commissione del X Congresso di Radicali Italiani - Internet come metodo: dalla mobilitazione, all'organizzazione alla nuova forma partito (seconda giornata)",
@@ -3334,6 +3370,24 @@
   "_slices": [
    "slice2_2007_2011",
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2011-12-11",
+  "year": 2011,
+  "type": "mentioned",
+  "outlet": "Hermes Center — News & Press (sito in ripristino)",
+  "title": "Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks",
+  "url": "https://www.hermescenter.org/radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks/",
+  "language": "IT",
+  "role": "subject",
+  "note": "names Fabio: … 10/12/2011 Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks. Intervista a Marco Calamari e a Fabio Pietrosanti. di Roberto Spagnoli La “public disclosure”, cioè la pubblicazione di informazioni riservate, che in certi casi può ave… — restored in hermescenter/hermescenter.org-restoration id radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks",
+  "verified": true,
+  "known": false,
+  "hermes_activity": true,
+  "_slices": [
+   "pass4_hermes_site_named_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -3472,7 +3526,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass2_c_2016_2026"
+   "pass2_c_2016_2026",
+   "pass4_hermes_site_named_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -3966,6 +4021,24 @@
  {
   "date": "2013-07-10",
   "year": 2013,
+  "type": "mentioned",
+  "outlet": "Hermes Center — News & Press (sito in ripristino)",
+  "title": "L’ Hermes Center a Milano il 10 Luglio al WhistleBlowing Italia Congress",
+  "url": "https://www.hermescenter.org/hermes-center-intervento-whistleblowingitalia-congress-milano/",
+  "language": "IT",
+  "role": "subject",
+  "note": "names Fabio: …itolo “Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione.” ha avuto come relatore Fabio Pietrosanti . Per maggiori informazioni: La pagina ufficiale dell’evento Scarica le slide dell’intervento … — restored in hermescenter/hermescenter.org-restoration id hermes-center-intervento-whistleblowingitalia-congress-milano",
+  "verified": true,
+  "known": false,
+  "hermes_activity": true,
+  "_slices": [
+   "pass4_hermes_site_named_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-07-10",
+  "year": 2013,
   "type": "talk",
   "outlet": "Transparency International Italia - WhistleblowingItalia Congress (Milano)",
   "title": "Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione",
@@ -4139,6 +4212,23 @@
   "on_old_site": false
  },
  {
+  "date": "2013-12-27",
+  "year": 2013,
+  "type": "village",
+  "outlet": "30C3 Chaos Communication Congress, Hamburg",
+  "title": "Assembly:NoisySquare (30C3 wiki) - member; hosts GlobaLeaks project and Hermes Center",
+  "url": "https://events.ccc.de/congress/2013/wiki/Assembly:NoisySquare",
+  "language": "en",
+  "role": "contact",
+  "note": "Naif listed among NoisySquare assembly members; page lists 'GlobaLeaks Project + Hermes Center' as participating group and his two sessions",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2013-12-29",
   "year": 2013,
   "type": "talk",
@@ -4148,6 +4238,23 @@
   "language": "en",
   "role": "speaker",
   "note": "30-min talk at NoisySquare, 29 Dec 2013 15:00; persons organizing: Naif, Vecna, Hellais",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-12-29",
+  "year": 2013,
+  "type": "other",
+  "outlet": "30C3 Chaos Communication Congress, Hamburg (NoisySquare)",
+  "title": "WE - Whistleblowing Everywhere (self-organized meeting)",
+  "url": "https://events.ccc.de/congress/2013/wiki/Session:WE_-_Whistleblowing_Everywhere",
+  "language": "en",
+  "role": "organiser",
+  "note": "45-min meeting of the Whistle-blowing Everywhere coalition, 29 Dec 2013 12:45 at NoisySquare; person organizing: Naif",
   "verified": true,
   "known": false,
   "_slices": [
@@ -4557,6 +4664,23 @@
   "on_old_site": false
  },
  {
+  "date": "2014-12-27",
+  "year": 2014,
+  "type": "village",
+  "outlet": "31C3 Chaos Communication Congress, Hamburg",
+  "title": "Assembly:Noisy Square (31C3 wiki) - member; Hermes Center as supporting organisation",
+  "url": "https://events.ccc.de/congress/2014/wiki/Assembly:Noisy_Square",
+  "language": "en",
+  "role": "contact",
+  "note": "Naif listed as member (26/12-31/12, 'Will bring love!'); Hermes Center listed as supporting org (whistleblowing workshop, GlobaLeaks/Tor2web stickers, grappa)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2014-12-28",
   "year": 2014,
   "type": "other",
@@ -4674,6 +4798,24 @@
   "_slices": [
    "slice3_2012_2015",
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2015-03-16",
+  "year": 2015,
+  "type": "mentioned",
+  "outlet": "Hermes Center — News & Press (sito in ripristino)",
+  "title": "Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes",
+  "url": "https://www.hermescenter.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/",
+  "language": "IT",
+  "role": "subject",
+  "note": "names Fabio: …ndimenti. Centro Studi Hermes per la Trasparenza e i Diritti Umani Digitali Alessandro Rodolfi - Membro del Board Fabio Pietrosanti - Presidente Marco Calamari - Membro del Board … — restored in hermescenter/hermescenter.org-restoration id consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes",
+  "verified": true,
+  "known": false,
+  "hermes_activity": true,
+  "_slices": [
+   "pass4_hermes_site_named_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -5665,23 +5807,6 @@
  {
   "date": "2017",
   "year": 2017,
-  "type": "other",
-  "outlet": "Agenda Digitale",
-  "title": "Articoli di Fabio Pietrosanti (author page)",
-  "url": "https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/",
-  "language": "it",
-  "role": "author",
-  "note": "3 articles: e-voting abroad study, blockchain vote decree, trojan interceptions after Exodus (year approximate)",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017",
-  "year": 2017,
   "type": "thesis",
   "outlet": "University of California, Berkeley, PhD dissertation (Computer Science)",
   "title": "Threat modeling and circumvention of Internet censorship",
@@ -5918,7 +6043,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass2_c_2016_2026"
+   "pass2_c_2016_2026",
+   "pass4_hermes_site_named_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -6006,7 +6132,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass2_c_2016_2026"
+   "pass2_c_2016_2026",
+   "pass4_hermes_site_named_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -6194,7 +6321,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass2_c_2016_2026"
+   "pass2_c_2016_2026",
+   "pass4_hermes_site_named_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -6280,6 +6408,23 @@
   "known": false,
   "_slices": [
    "pass3_google_site_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-12-28",
+  "year": 2017,
+  "type": "talk",
+  "outlet": "34C3 Chaos Communication Congress, Leipzig (Rights & Freedoms stage, CCL Hall 3)",
+  "title": "Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', 'Digital Anonimity for Whistleblowing', 'Are NAT translations respecting proportionality and data retention principles?', 'How to use public procurement datasets to monitor government surveillance capabilities'",
+  "url": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms",
+  "language": "en",
+  "role": "subject",
+  "note": "Four Hermes Center slots 28-30 Dec 2017; speakers not named on the page - his personal involvement NOT confirmed (NAT/data-retention topic matches Hermes 2017 campaigns)",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -6576,6 +6721,24 @@
   "on_old_site": false
  },
  {
+  "date": "2018-04-09",
+  "year": 2018,
+  "type": "mentioned",
+  "outlet": "Hermes Center — News & Press (sito in ripristino)",
+  "title": "Announcement: Hermes Center members and fellows participate at the International Journalism Festival 2018 #ijf18",
+  "url": "https://www.hermescenter.org/announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18/",
+  "language": "EN",
+  "role": "subject",
+  "note": "names Fabio: …alists - Marco Calamari 15:45 - 17:00 Centro Servizi G. Alessi Italian privacy nightmare: tales of surveillance - Fabio Pietrosanti , Giovanni Pellerano and Riccardo Coluccini Thursday 12 April 2018 09:30 - 10:45 Hotel Brufani - Sala Priori Attacks, d… — restored in hermescenter/hermescenter.org-restoration id announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18",
+  "verified": true,
+  "known": false,
+  "hermes_activity": true,
+  "_slices": [
+   "pass4_hermes_site_named_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2018-04-11",
   "year": 2018,
   "type": "talk",
@@ -6674,6 +6837,40 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-05-18",
+  "year": 2018,
+  "type": "quoted",
+  "outlet": "Copernicani",
+  "title": "Un Ministro per il Digitale: i sostenitori del nostro appello",
+  "url": "https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Listed as supporter of the Copernicani appeal for a Minister for Digital, with a short quote; verified on Wayback capture 20210118 of www.copernicani.it/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_copernicani_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-05-26",
+  "year": 2018,
+  "type": "press_release",
+  "outlet": "Copernicani",
+  "title": "Hermes Center sostiene l'Appello per il Ministro per il digitale!",
+  "url": "https://copernicani.it/blog/2018/05/26/hermes-center-sostiene-lappello-per-il-ministro-per-il-digitale/",
+  "language": "it",
+  "role": "subject",
+  "note": "Hermes Center (his association) endorses the Copernicani appeal; his name not on the captured page (Wayback 20210120 of www. variant)",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_copernicani_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -6967,6 +7164,23 @@
   "on_old_site": false
  },
  {
+  "date": "2018-12-27",
+  "year": 2018,
+  "type": "village",
+  "outlet": "35C3 Chaos Communication Congress, Leipzig",
+  "title": "Assembly:Italian Hacker Embassy (35C3 wiki)",
+  "url": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy",
+  "language": "en",
+  "role": "subject",
+  "note": "Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019",
   "year": 2019,
   "type": "talk",
@@ -7035,6 +7249,23 @@
   "on_old_site": false
  },
  {
+  "date": "2019-02-09",
+  "year": 2019,
+  "type": "report",
+  "outlet": "Copernicani",
+  "title": "Overlay Network Crittografici",
+  "url": "https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/",
+  "language": "it",
+  "role": "co-author",
+  "note": "Copernicani working-group paper on crypto overlay networks / online voting; 'Gruppo di lavoro' lists Fabio Pietrosanti with Bertola, Quintarelli, Telmon, Zanero et al.; published_time 2019-02-09",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_copernicani_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019-03-12",
   "year": 2019,
   "type": "quoted",
@@ -7067,7 +7298,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass2_c_2016_2026"
+   "pass2_c_2016_2026",
+   "pass4_hermes_site_named_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -7131,10 +7363,11 @@
   "url": "https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/",
   "language": "it",
   "role": "co-author",
-  "note": "With Stefano Aterno, after Exodus spyware case: governance, regulation gaps, open-source backend",
+  "note": "With Stefano Aterno; listed on his author page",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_agendadigitale_2026-09-18",
    "slice4_2016_2020"
   ],
   "on_old_site": false
@@ -7567,7 +7800,8 @@
   "known": false,
   "year": 2020,
   "_slices": [
-   "pass2_b_2009_2015"
+   "pass2_b_2009_2015",
+   "pass4_agendadigitale_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -8073,16 +8307,17 @@
  {
   "date": "2021-03-15",
   "year": 2021,
-  "type": "paper",
+  "type": "article_by",
   "outlet": "Agenda Digitale",
-  "title": "Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio",
-  "url": "https://www.agendadigitale.eu/cittadinanza-digitale/voto-dei-cittadini-allestero-meglio-farlo-tramite-seggi-lo-studio/",
+  "title": "Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo",
+  "url": "https://www.agendadigitale.eu/cittadinanza-digitale/voto-su-blockchain-un-comitato-governativo-fantasma-e-un-decreto-in-arrivo/",
   "language": "it",
-  "role": "co-author",
-  "note": "White paper with S. Quintarelli and M. Napolitano: 43 polling cities serve 84% of Italians abroad",
+  "role": "author",
+  "note": "Exact date from article:published_time 2021-03-15T07:59:05Z; sole author; reports his Oct 2020 FOIA on the e-voting committee",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_agendadigitale_2026-09-18",
    "slice5_2021_2026"
   ],
   "on_old_site": false
@@ -8092,15 +8327,34 @@
   "year": 2021,
   "type": "article_by",
   "outlet": "Agenda Digitale",
-  "title": "Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo",
-  "url": "https://www.agendadigitale.eu/cittadinanza-digitale/voto-su-blockchain-un-comitato-governativo-fantasma-e-un-decreto-in-arrivo/",
+  "title": "Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio",
+  "url": "https://www.agendadigitale.eu/cittadinanza-digitale/voto-dei-cittadini-allestero-meglio-farlo-tramite-seggi-lo-studio/",
+  "language": "it",
+  "role": "co-author",
+  "note": "Exact date from article:published_time 2021-03-15T07:59:46Z; with S. Quintarelli and M. Napolitano (AIRE geo-spatial study)",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_agendadigitale_2026-09-18",
+   "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-03-15",
+  "year": 2021,
+  "type": "other",
+  "outlet": "Agenda Digitale",
+  "title": "Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)",
+  "url": "https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/",
   "language": "it",
   "role": "author",
-  "note": "Critique of the opaque inter-ministerial committee on blockchain e-voting",
+  "note": "Author page lists exactly 3 pieces (2019-04-09, 2021-03-15 x2); media.json dates it 2017, which is wrong; only author slug for him in giornalista-sitemap",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
-   "slice5_2021_2026"
+   "pass4_agendadigitale_2026-09-18",
+   "slice6_media_archives"
   ],
   "on_old_site": false
  },
@@ -8203,7 +8457,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass2_c_2016_2026"
+   "pass2_c_2016_2026",
+   "pass4_hermes_site_named_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -8238,6 +8493,23 @@
   "known": false,
   "_slices": [
    "pass3_google_site_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-06-04",
+  "year": 2021,
+  "type": "press_release",
+  "outlet": "Copernicani",
+  "title": "Voto degli italiani fuori sede: la posizione dei copernicani.",
+  "url": "https://www.copernicani.it/voto-degli-italiani-fuori-sede-la-posizione-dei-copernicani/",
+  "language": "it",
+  "role": "subject",
+  "note": "Copernicani position cites the AIRE geo-spatial study (43 cities, 84.35%) he co-authored and links his Agenda Digitale piece; his name not in the text",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_copernicani_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -8489,10 +8761,11 @@
   "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/",
   "language": "it",
   "role": "subject",
-  "note": "Credits him with raising the Kaspersky issue in 2018 (Euronews investigation)",
+  "note": "Re-confirmed; only real hit of cybersecurity360 site search for Pietrosanti besides Ciao Carola",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_agendadigitale_2026-09-18",
    "slice5_2021_2026"
   ],
   "on_old_site": false
@@ -8957,10 +9230,11 @@
   "url": "https://www.agendadigitale.eu/sicurezza/privacy/il-foia-di-monitorapa-la-risposta-dellavvocatura-al-ministero-dellistruzione/",
   "language": "it",
   "role": "subject",
-  "note": "Francesco Macchia on the Avvocatura opinion on his FOIA to 8,254 schools",
+  "note": "Re-confirmed via site search",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_agendadigitale_2026-09-18",
    "slice5_2021_2026"
   ],
   "on_old_site": false
@@ -8974,10 +9248,11 @@
   "url": "https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/",
   "language": "it",
   "role": "subject",
-  "note": "School heads asked the Garante to act against MonitoraPA and Fabio Pietrosanti",
+  "note": "Re-confirmed via site search",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_agendadigitale_2026-09-18",
    "slice5_2021_2026"
   ],
   "on_old_site": false
@@ -9247,10 +9522,11 @@
   "url": "https://www.cybersecurity360.it/cultura-cyber/ciao-carola/",
   "language": "it",
   "role": "co-author",
-  "note": "Collective memorial for journalist Carola Frediani; signed by him (naif) among ~35",
+  "note": "Signatory 'Fabio Pietrosanti (naif)'",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_agendadigitale_2026-09-18",
    "slice5_2021_2026"
   ],
   "on_old_site": false

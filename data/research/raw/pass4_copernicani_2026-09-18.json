@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2018-05-18",
+  "year": 2018,
+  "type": "quoted",
+  "outlet": "Copernicani",
+  "title": "Un Ministro per il Digitale: i sostenitori del nostro appello",
+  "url": "https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Listed as supporter of the Copernicani appeal for a Minister for Digital, with a short quote; verified on Wayback capture 20210118 of www.copernicani.it/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2018-05-26",
+  "year": 2018,
+  "type": "press_release",
+  "outlet": "Copernicani",
+  "title": "Hermes Center sostiene l'Appello per il Ministro per il digitale!",
+  "url": "https://copernicani.it/blog/2018/05/26/hermes-center-sostiene-lappello-per-il-ministro-per-il-digitale/",
+  "language": "it",
+  "role": "subject",
+  "note": "Hermes Center (his association) endorses the Copernicani appeal; his name not on the captured page (Wayback 20210120 of www. variant)",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2019-02-09",
+  "year": 2019,
+  "type": "report",
+  "outlet": "Copernicani",
+  "title": "Overlay Network Crittografici",
+  "url": "https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/",
+  "language": "it",
+  "role": "co-author",
+  "note": "Copernicani working-group paper on crypto overlay networks / online voting; 'Gruppo di lavoro' lists Fabio Pietrosanti with Bertola, Quintarelli, Telmon, Zanero et al.; published_time 2019-02-09",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2021-06-04",
+  "year": 2021,
+  "type": "press_release",
+  "outlet": "Copernicani",
+  "title": "Voto degli italiani fuori sede: la posizione dei copernicani.",
+  "url": "https://www.copernicani.it/voto-degli-italiani-fuori-sede-la-posizione-dei-copernicani/",
+  "language": "it",
+  "role": "subject",
+  "note": "Copernicani position cites the AIRE geo-spatial study (43 cities, 84.35%) he co-authored and links his Agenda Digitale piece; his name not in the text",
+  "verified": false,
+  "known": false
+ }
+]

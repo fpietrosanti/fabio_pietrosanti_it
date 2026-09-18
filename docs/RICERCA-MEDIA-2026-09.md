@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **680**; dopo deduplica: **553**
+- Risultati grezzi dalle ricerche: **710**; dopo deduplica: **568**
 - Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 521**
-- Verificati aprendo la pagina: **479**; solo da risultato di ricerca: **74**
+- **Nuovi rispetto al vecchio sito: 536**
+- Verificati aprendo la pagina: **490**; solo da risultato di ricerca: **78**
 
-Per tipo (nuovi): Menzionato 99, Post sul blog infosecurity.ch 71, Talk 69, Video 50, Citato 45, Progetto 36, Articolo scritto 18, Ricerca 17, Altro 17, Report 15, Comunicato 14, Paper 11, Podcast 11, Libro 11, Radio 9, Intervista 6, Slide 5, Capitolo di libro 4, TV 3, village 2, Brevetto 2, Tesi 2, Wiki 1, workshop 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 105, Post sul blog infosecurity.ch 71, Talk 70, Video 50, Citato 46, Progetto 36, Articolo scritto 19, Altro 18, Ricerca 17, Comunicato 16, Report 16, Podcast 11, Libro 11, Paper 10, Radio 9, Intervista 6, Slide 5, village 5, Capitolo di libro 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, workshop 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -29,17 +29,17 @@ Per tipo (nuovi): Menzionato 99, Post sul blog infosecurity.ch 71, Talk 69, Vide
 | 2008 | 0 | 6 | 6 |
 | 2009 | 1 | 39 | 37 |
 | 2010 | 6 | 53 | 48 |
-| 2011 | 4 | 25 | 22 |
+| 2011 | 4 | 28 | 25 |
 | 2012 | 0 | 22 | 22 |
-| 2013 | 0 | 24 | 24 |
-| 2014 | 0 | 24 | 24 |
-| 2015 | 0 | 29 | 29 |
+| 2013 | 0 | 27 | 27 |
+| 2014 | 0 | 25 | 25 |
+| 2015 | 0 | 30 | 30 |
 | 2016 | 0 | 19 | 19 |
 | 2017 | 0 | 50 | 50 |
-| 2018 | 0 | 40 | 40 |
-| 2019 | 0 | 17 | 17 |
+| 2018 | 0 | 44 | 44 |
+| 2019 | 0 | 18 | 18 |
 | 2020 | 0 | 36 | 36 |
-| 2021 | 0 | 23 | 23 |
+| 2021 | 0 | 25 | 25 |
 | 2022 | 0 | 42 | 42 |
 | 2023 | 0 | 7 | 7 |
 | 2024 | 0 | 2 | 2 |
@@ -83,7 +83,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2026-06-12** · Progetto · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo)  
   Hugo static site for a Latina logistics consortium
 - 🆕 **2026-06-03** · Articolo scritto · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/)  
-  Collective memorial for journalist Carola Frediani; signed by him (naif) among ~35
+  Signatory 'Fabio Pietrosanti (naif)'
 - 🆕 **2026-06** · Progetto · mxmap.it — [MxMap.it — Sovranità digitale della posta elettronica della PA italiana](https://mxmap.it/) _(non verificato)_  
   Map of ~23k Italian public entities' email providers via DNS; his name not on the fetched page
 - 🆕 **2026** · Progetto · GlobaLeaks — [People / GlobaLeaks](https://globaleaks.org/about/people/)  
@@ -127,9 +127,9 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
 - 🆕 **2022-10-26** · Menzionato · Agenda Digitale — [Il FOIA di MonitoraPA: la risposta dell'Avvocatura al Ministero dell'Istruzione](https://www.agendadigitale.eu/sicurezza/privacy/il-foia-di-monitorapa-la-risposta-dellavvocatura-al-ministero-dellistruzione/)  
-  Francesco Macchia on the Avvocatura opinion on his FOIA to 8,254 schools
+  Re-confirmed via site search
 - 🆕 **2022-10-26** · Menzionato · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di FOIA](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/)  
-  School heads asked the Garante to act against MonitoraPA and Fabio Pietrosanti
+  Re-confirmed via site search
 - 🆕 **2022-09-29** · Talk · Università LIUC (Castellanza/Varese) — SOS LOGistica — [Costruire comunità sostenibili. Quale ruolo per la logistica? (Convegno SOS LOGistica 2022)](https://www.liuc.it/eventi/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/)  
   Event page names Fabio Pietrosanti; talk on PUDO / pick-up points (OpenPUDO, LESS); in collaboration with SOS LOGistica – Associazione Logistica Sostenibile
 - 🆕 **2022-09-29** · Slide · Google Slides — [Slides of Fabio's talk at the SOS LOGistica 2022 conference, LIUC](https://docs.google.com/presentation/d/1cFW2EiiS6RLMGVRvyLTLgiOfYzU58XoMJrq7BTd2BZ4/edit)  
@@ -183,7 +183,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022-03-20** · Ricerca · GitHub — [kaspersky-risks — Risk evaluation of Kaspersky if subject to coercion by the Russian government](https://github.com/fpietrosanti/kaspersky-risks)  
   Repository by fpietrosanti; basis for press coverage that contributed to the Italian government ban (Fabio)
 - 🆕 **2022-03-18** · Menzionato · Cyber Security 360 — [Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi](https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/)  
-  Credits him with raising the Kaspersky issue in 2018 (Euronews investigation)
+  Re-confirmed; only real hit of cybersecurity360 site search for Pietrosanti besides Ciao Carola
 - 🆕 **2022-03-15** · Citato · Europa Today — ["Sostituite l'antivirus Kaspersky, può essere usato per attacchi informatici dalla Russia"](https://europa.today.it/attualita/kaspersky-attacchi-informatici-russia.html)  
   Quotes the 'digital activist Fabio Pietrosanti' from his Il Riformista interview
 - 🆕 **2022-03-15** · Citato · Il Riformista — ["Disinstallate Kaspersky dai PC", i servizi segreti lanciano l'allarme per l'antivirus usato da Farnesina e Viminale](https://www.ilriformista.it/disinstallate-kaspersky-dai-pc-i-servizi-segreti-lanciano-lallarme-per-lantivirus-usato-da-farnesina-e-viminale-286552/)  
@@ -209,12 +209,14 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Talk · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)  
   Investigative journalism festival speaker page
 
-## 2021 — 23 voci, 23 nuove
+## 2021 — 25 voci, 25 nuove
 
 - 🆕 **2021-06-08** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [Voto Elettronico: perché è (ancora) una pessima idea](https://www.spreaker.com/episode/voto-elettronico-perche-e-ancora-una-pessima-idea--45210765)  
   Credited among experts who reviewed the script
 - 🆕 **2021-06-05** · Radio · Radio Radicale — [Riabitiamo i centri storici](https://www.radioradicale.it/scheda/638849/riabitiamo-i-centri-storici)  
   Debate in Latina organised by Associazione Restituit ETS; short intervention
+- 🆕 **2021-06-04** · Comunicato · Copernicani — [Voto degli italiani fuori sede: la posizione dei copernicani.](https://www.copernicani.it/voto-degli-italiani-fuori-sede-la-posizione-dei-copernicani/) _(non verificato)_  
+  Copernicani position cites the AIRE geo-spatial study (43 cities, 84.35%) he co-authored and links his Agenda Digitale piece; his name not in the text
 - 🆕 **2021-05-30** · Menzionato · lespresso.it — [La Francia sperimenta il voto elettronico. E in Italia?](https://www.lespresso.it/c/politica/2021/5/30/la-francia-sperimenta-il-voto-elettronico-e-in-italia/38027)  
   verified via live; context: …ià sufficiente potrebbe essere quella di proporre, proprio come i francesi, una pluralità di modalità di voto. A metà marzo è stato pubblicato un whitepaper di Fabio Pietrosanti, Stefano Quintarelli e Maurizio Napolitano…
 - 🆕 **2021-05-27** · Comunicato · Hermes Center (with Privacy International, noyb, Homo Digitalis) — [Il Centro Hermes e altre 3 associazioni hanno inviato segnalazioni e reclami contro Clearview AI](https://web.archive.org/web/20210527054816/https://www.hermescenter.org/centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai/)  
@@ -231,10 +233,12 @@ Anni senza nessun risultato: nessuno
   Comune di Milano conference on Decidim e-participation; introduced as OpenRousseau developer
 - 🆕 **2021-03-17** · Video · VoidSec (YouTube) — [Pirate's Night Show #5 Tor e Privacy con Fabio Pietrosanti Naif](https://www.youtube.com/watch?v=j5T6loxU25s)  
   Re-upload of 2015 Pirate's Night Show episode
-- 🆕 **2021-03-15** · Paper · Agenda Digitale — [Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio](https://www.agendadigitale.eu/cittadinanza-digitale/voto-dei-cittadini-allestero-meglio-farlo-tramite-seggi-lo-studio/)  
-  White paper with S. Quintarelli and M. Napolitano: 43 polling cities serve 84% of Italians abroad
 - 🆕 **2021-03-15** · Articolo scritto · Agenda Digitale — [Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo](https://www.agendadigitale.eu/cittadinanza-digitale/voto-su-blockchain-un-comitato-governativo-fantasma-e-un-decreto-in-arrivo/)  
-  Critique of the opaque inter-ministerial committee on blockchain e-voting
+  Exact date from article:published_time 2021-03-15T07:59:05Z; sole author; reports his Oct 2020 FOIA on the e-voting committee
+- 🆕 **2021-03-15** · Articolo scritto · Agenda Digitale — [Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio](https://www.agendadigitale.eu/cittadinanza-digitale/voto-dei-cittadini-allestero-meglio-farlo-tramite-seggi-lo-studio/)  
+  Exact date from article:published_time 2021-03-15T07:59:46Z; with S. Quintarelli and M. Napolitano (AIRE geo-spatial study)
+- 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
+  Author page lists exactly 3 pieces (2019-04-09, 2021-03-15 x2); media.json dates it 2017, which is wrong; only author slug for him in giornalista-sitemap
 - 🆕 **2021-03-11** · Menzionato · FSFE — [FSFE at FOSDEM 2021](https://fsfe.org/news/2021/news-20210311-01.en.html)  
   FSFE report mentions his panel on the GlobaLeaks AGPL compliance case
 - 🆕 **2021-03** · Menzionato · Italia Open Gov (Dipartimento della Funzione Pubblica) — [Il Dipartimento alla Milano Digital week](https://open.gov.it/notizie/dipartimento-milano-digital-week)  
@@ -333,7 +337,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 17 voci, 17 nuove
+## 2019 — 18 voci, 18 nuove
 
 - 🆕 **2019-12-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come non sprecare un milione di euro](https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/)  
   AIRE project: geolocation analysis by Fabio (Hermes Center) — 80 foreign polling stations would cover 86%+ of AIRE voters; alternative to e-voting for Italians abroad; restored site hermescenter/crvd.org-preservation (2026-09-18)
@@ -350,7 +354,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019-09-03** · Menzionato · The Vision — [Un governo deciso da un sondaggio online è la vergogna della democrazia italiana](https://thevision.com/politica/governo-rousseau-democrazia/)  
   Cites him (Hermes Center) noting Rousseau's Mozilla HTTP Observatory rating F during the Conte II Rousseau vote
 - 🆕 **2019-04-09** · Articolo scritto · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/)  
-  With Stefano Aterno, after Exodus spyware case: governance, regulation gaps, open-source backend
+  With Stefano Aterno; listed on his author page
 - 🆕 **2019-03-13** · Audizione · Dipartimento della Funzione Pubblica - incontro 'FOIA: Che cosa non ha funzionato?' (via Hermes Center) — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/)  
   Text of Hermes' contribution to the government FOIA review meeting, signed Fabio Pietrosanti (Wayback)
 - 🆕 **2019-03-13** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Voto Online? No, grazie, e ti spiego perché…](https://hermescenter.github.io/crvd.org-preservation/voto-online-no-grazie-e-ti-spiego-perche/)  
@@ -361,6 +365,8 @@ Anni senza nessun risultato: nessuno
   Audio version of special episode on e-voting
 - 🆕 **2019-03-12** · Citato · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://hermescenter.github.io/crvd.org-preservation/i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/)  
   Quotes Fabio (director of Hermes, GlobaLeaks co-founder) on Rousseau/blockchain voting; restored site hermescenter/crvd.org-preservation (2026-09-18)
+- 🆕 **2019-02-09** · Report · Copernicani — [Overlay Network Crittografici](https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/)  
+  Copernicani working-group paper on crypto overlay networks / online voting; 'Gruppo di lavoro' lists Fabio Pietrosanti with Bertola, Quintarelli, Telmon, Zanero et al.; published_time 2019-02-09
 - 🆕 **2019-01-15** · Ricerca · Forum Italia (Developers Italia) — [Software di Whistleblowing Anticorruzione ANAC e Riuso GlobaLeaks](https://forum.italia.it/t/software-di-whistleblowing-anticorruzione-anac-e-riuso-globaleaks/7114) _(non verificato)_  
   Hermes developers' technical evaluation of ANAC OpenWhistleblowing (posted by Pellerano; attributed to Pietrosanti in thread 2558)
 - 🆕 **2019-01** · Menzionato · GitHub - ANAC anticorruzione/openwhistleblowing — [openwhistleblowing/AUTHORS](https://github.com/anticorruzione/openwhistleblowing/blob/master/AUTHORS)  
@@ -370,8 +376,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Video · YouTube (unverified channel) — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) _(non verificato)_  
   Seen in search results only; page not retrievable (year approximate)
 
-## 2018 — 40 voci, 40 nuove
+## 2018 — 44 voci, 44 nuove
 
+- 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
+  Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
 - 🆕 **2018-11-30** · Talk · e-privacy XXIV, Roma - Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/)  
   Short interventions introducing and commenting a video on digital transparency
 - 🆕 **2018-11-30** · Video · Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/xxiv-edizione-di-e-privacy-gdpr-vs-tecnologie-emergenti-prima-giornata)  
@@ -406,6 +414,10 @@ Anni senza nessun risultato: nessuno
   e-privacy 2018 Bologna; presented Big Brother Awards Italia 2018
 - 🆕 **2018-06-08** · Talk · e-privacy 2018 (XXIII, Bologna) — [Big Brother Awards Italia 2018](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html)  
   Presented the Big Brother Awards Italia 2018
+- 🆕 **2018-05-26** · Comunicato · Copernicani — [Hermes Center sostiene l'Appello per il Ministro per il digitale!](https://copernicani.it/blog/2018/05/26/hermes-center-sostiene-lappello-per-il-ministro-per-il-digitale/) _(non verificato)_  
+  Hermes Center (his association) endorses the Copernicani appeal; his name not on the captured page (Wayback 20210120 of www. variant)
+- 🆕 **2018-05-18** · Citato · Copernicani — [Un Ministro per il Digitale: i sostenitori del nostro appello](https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/)  
+  Listed as supporter of the Copernicani appeal for a Minister for Digital, with a short quote; verified on Wayback capture 20210118 of www.copernicani.it/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/
 - 🆕 **2018-05-02** · Altro · EDRi (European Digital Rights) — [Welcoming new EDRi members: FSFE, Hermes Center, NOYB, and Xnet](https://edri.org/welcoming-new-edri-members-fsfe-hermes-center-noyb-and-xnet/) _(non verificato)_  
   Hermes Center becomes full EDRi member; organisation-level, no name mention
 - 🆕 **2018-04-18** · Altro · EDRi (European Digital Rights) — [Hermes Center demands investigation of NAT-related data retention](https://edri.org/hermes-center-demands-investigation-of-nat-related-data-retention/) _(non verificato)_  
@@ -418,6 +430,8 @@ Anni senza nessun risultato: nessuno
   On extension of telecom data retention to 6 years; with Calamari, Coluccini, Gallus, Pellerano
 - 🆕 **2018-04-11** · Video · International Journalism Festival (YouTube) — [Privacy nightmare Italia: storie di sorveglianza](https://www.youtube.com/watch?v=ukpO8e80sQc)  
   Video of IJF18 session
+- 🆕 **2018-04-09** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [Announcement: Hermes Center members and fellows participate at the International Journalism Festival 2018 #ijf18](https://www.hermescenter.org/announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18/)  
+  names Fabio: …alists - Marco Calamari 15:45 - 17:00 Centro Servizi G. Alessi Italian privacy nightmare: tales of surveillance - Fabio Pietrosanti , Giovanni Pellerano and Riccardo Coluccini Thursday 12 April 2018 09:30 - 10:45 Hotel Brufani - Sala Priori Attacks, d… — restored in hermescenter/hermescenter.org-restoration id announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18
 - 🆕 **2018-04-06** · Intervista · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri)  
   Video interview: 'Kaspersky controlla tutto ma la Russia controlla Kaspersky'; Kaspersky in Italian ministries and police (Hermes)
 - 🆕 **2018-04-05** · TV · Euronews (in Italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://www.youtube.com/watch?v=gcROTSHQW4A)  
@@ -455,6 +469,8 @@ Anni senza nessun risultato: nessuno
 
 ## 2017 — 50 voci, 50 nuove
 
+- 🆕 **2017-12-28** · Talk · 34C3 Chaos Communication Congress, Leipzig (Rights & Freedoms stage, CCL Hall 3) — [Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', 'Digital Anonimity for Whistleblowing', 'Are NAT translations respecting proportionality and data retention principles?', 'How to use public procurement datasets to monitor government surveillance capabilities'](https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms) _(non verificato)_  
+  Four Hermes Center slots 28-30 Dec 2017; speakers not named on the page - his personal involvement NOT confirmed (NAT/data-retention topic matches Hermes 2017 campaigns)
 - 🆕 **2017-12-02** · Menzionato · st.ilsole24ore.com — [La sfida di coniugare il dettato costituzionale e la ricerca tecnologica](https://st.ilsole24ore.com/art/commenti-e-idee/2017-12-02/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-125656.shtml)  
   verified via live; context: …e iniziative per introdurre nella normativa nazionale la previsione di un divieto dello sviluppo e della ommercializzazione di sistemi Aws.” Che cosa ne pensi? Fabio Pietrosanti Presidente Centro Hermes per la trasparenz…
 - 🆕 **2017-11-29** · Articolo scritto · EDRi (European Digital Rights) — [Italy extends data retention to six years](https://edri.org/our-work/italy-extends-data-retention-to-six-years/)  
@@ -551,8 +567,6 @@ Anni senza nessun risultato: nessuno
   Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file
 - 🆕 **2017** · Tesi · Tampere University of Technology (MSc thesis) — [TorSNIP: Hidden Service Proxy with End-to-End Security](https://trepo.tuni.fi/handle/123456789/25394) _(non verificato)_  
   Author: Shoaib Kiyani. The OpenAlex full-text index matches 'Pietrosanti' together with 'Tor2web' and 'GlobaLeaks' (OpenAlex W2952741402). Repository refused connections, so the text was not opened.
-- 🆕 **2017** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
-  3 articles: e-voting abroad study, blockchain vote decree, trojan interceptions after Exodus (year approximate)
 - 🆕 **2017** · Tesi · University of California, Berkeley, PhD dissertation (Computer Science) — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf)  
   David Fifield. Ref. [41] cites Tor bug #4185 'Bridge easily detected by GFW' (Oct. 2011) with Fabio Pietrosanti among its listed authors (denverroot, Roger Dingledine, ... Mike Perry, Fabio Pietrosanti, quick-dudley), in the discussion of China's Great Firewall detecting Tor.
 
@@ -597,7 +611,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · Progetto · Whistleblowing Solutions Impresa Sociale — [Whistleblowing Solutions Impresa Sociale S.r.l. founded to sustain GlobaLeaks](https://whistleblowing.it/en/about-us/) _(non verificato)_  
   Social enterprise founded in 2016 to give GlobaLeaks economic sustainability; later runs WhistleblowingIT/WhistleblowingPA
 
-## 2015 — 29 voci, 29 nuove
+## 2015 — 30 voci, 30 nuove
 
 - 🆕 **2015-10-20** · Podcast · Pirate's Night Show #5 (YouTube livestream) — [Pirate's Night Show #5 - Tor e Privacy con Fabio Pietrosanti (Naif)](https://www.youtube.com/watch?v=P-jGzZwzu3U)  
   Livestreamed talk show on Tor and privacy
@@ -645,6 +659,8 @@ Anni senza nessun risultato: nessuno
   djvu leaf 12: '[12] Virgil Griffith, Fabio Pietrosanti, and Giovanni Pellerano. Making tor2web mode faster, ... proposals/233-quicken-tor2web-mode.txt'. Also in IA item TorDevelopmentAndDesignPapers. Same report as known research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf.
 - 🆕 **2015-03-18** · Menzionato · International Journalism Festival - news — [Whistleblowing the world #ijf15](https://www.journalismfestival.com/news/whistleblowing-the-world/)  
   Claudio Agosti's festival preview naming him as whistleblowing expert and Hermes president on the Sunday panel
+- 🆕 **2015-03-16** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes](https://www.hermescenter.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/)  
+  names Fabio: …ndimenti. Centro Studi Hermes per la Trasparenza e i Diritti Umani Digitali Alessandro Rodolfi - Membro del Board Fabio Pietrosanti - Presidente Marco Calamari - Membro del Board … — restored in hermescenter/hermescenter.org-restoration id consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes
 - 🆕 **2015-03-16** · Articolo scritto · Hermes Center — [Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes](https://web.archive.org/web/2015/http://logioshermes.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/)  
   Hermes Center response to ANAC's consultation on guidelines for public-sector whistleblowers; names Pietrosanti
 - 🆕 **2015-03-11** · Talk · Nexa Center for Internet & Society (Politecnico di Torino) - 73° Mercoledì di Nexa — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://nexa.polito.it/mercoledi-73/)  
@@ -658,12 +674,14 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2015-01** · Report · Dyne.org (software manual) — [Jaro Mail 3.2 manual](https://archive.org/details/manualzilla-id-5679480)  
   Denis 'Jaromil' Roio (Dyne.org), manual of the Jaro Mail email client v3.2 (tag v3.2 dated 2015-01-25 on github.com/dyne/JaroMail). Acknowledgements thank '... Anatole Shaw, Francesco Politi and Fabio Pietrosanti for early testing and debugging'. Seen via Internet Archive full-text search snippet (copy uploaded to archive.org from manualzilla); not an academic work, a software documentation acknowledgement. Authorship of manual assumed from project, not read.
 
-## 2014 — 24 voci, 24 nuove
+## 2014 — 25 voci, 25 nuove
 
 - 🆕 **2014-12-29** · workshop · 31C3 Chaos Communication Congress, Hamburg (Noisy Square) — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks)  
   60-min GlobaLeaks workshop, 29 Dec 2014 15:00 at Noisy Square; person organizing: Naif (duplicate draft page Session:Practical_Whistleblowing also exists)
 - 🆕 **2014-12-28** · Altro · Twitter/X @fpietrosanti — [NSA User's Guide to PRISM Skype Collection (Interception) #31c3](https://x.com/fpietrosanti/status/549294291424903169)  
   Tweet from 31C3 sharing the Snowden document on PRISM Skype collection
+- 🆕 **2014-12-27** · village · 31C3 Chaos Communication Congress, Hamburg — [Assembly:Noisy Square (31C3 wiki) - member; Hermes Center as supporting organisation](https://events.ccc.de/congress/2014/wiki/Assembly:Noisy_Square)  
+  Naif listed as member (26/12-31/12, 'Will bring love!'); Hermes Center listed as supporting org (whistleblowing workshop, GlobaLeaks/Tor2web stickers, grappa)
 - 🆕 **2014-12-21** · Radio · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/429504)  
   Episode on whistleblowing in Italian public administration with ANAC, M5S, Radicali and TI Italia; he presents GlobaLeaks and web-based reporting
 - 🆕 **2014-12** · Progetto · 31C3 Public Wiki (Chaos Communication Congress, Hamburg) — [Projects:GlobaLeaks](https://events.ccc.de/congress/2014/wiki/Projects:GlobaLeaks)  
@@ -709,12 +727,16 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2014-01-22** · Citato · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/)  
   Quoted as security and telephony expert on mobile location tracking of protesters
 
-## 2013 — 24 voci, 24 nuove
+## 2013 — 27 voci, 27 nuove
 
 - 🆕 **2013-12-30** · Citato · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/)  
   John Borland's 30C3 report; quotes him on GlobaLeaks and on media groups wanting to copy the Dutch Publeaks model; photo with Claudio Agosti
 - 🆕 **2013-12-29** · Talk · 30C3 Chaos Communication Congress, Hamburg (NoisySquare) — [GlobaLeaks Anonymous Whistleblowing Software (self-organized session)](https://events.ccc.de/congress/2013/wiki/Session:GlobaLeaks_Anonymous_Whistleblowing_Software)  
   30-min talk at NoisySquare, 29 Dec 2013 15:00; persons organizing: Naif, Vecna, Hellais
+- 🆕 **2013-12-29** · Altro · 30C3 Chaos Communication Congress, Hamburg (NoisySquare) — [WE - Whistleblowing Everywhere (self-organized meeting)](https://events.ccc.de/congress/2013/wiki/Session:WE_-_Whistleblowing_Everywhere)  
+  45-min meeting of the Whistle-blowing Everywhere coalition, 29 Dec 2013 12:45 at NoisySquare; person organizing: Naif
+- 🆕 **2013-12-27** · village · 30C3 Chaos Communication Congress, Hamburg — [Assembly:NoisySquare (30C3 wiki) - member; hosts GlobaLeaks project and Hermes Center](https://events.ccc.de/congress/2013/wiki/Assembly:NoisySquare)  
+  Naif listed among NoisySquare assembly members; page lists 'GlobaLeaks Project + Hermes Center' as participating group and his two sessions
 - 🆕 **2013-12** · Progetto · 30C3 Public Wiki (Chaos Communication Congress, Hamburg) — [Projects:GlobaLeaks](https://events.ccc.de/congress/2013/wiki/Projects:GlobaLeaks)  
   GlobaLeaks project page at the NoisySquare assembly listing Naif as contact
 - 🆕 **2013-11-14** · Video · YouTube / Cosa Pubblica Libra — [sistema WHISTLEBLOWING](https://www.youtube.com/watch?v=jsPilTzhU5s)  
@@ -733,6 +755,8 @@ Anni senza nessun risultato: nessuno
   Reports his invitation to the Tor2web meeting at OHM2013
 - 🆕 **2013-07-12** · Video · YouTube / Transparency International Italia — [Partecipazione e Responsabilità - Fabio Pietrosanti](https://www.youtube.com/watch?v=Uea-94inYkE)  
   Video of that talk: whistleblowing as an anti-corruption tool, technology as enabler
+- 🆕 **2013-07-10** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [L’ Hermes Center a Milano il 10 Luglio al WhistleBlowing Italia Congress](https://www.hermescenter.org/hermes-center-intervento-whistleblowingitalia-congress-milano/)  
+  names Fabio: …itolo “Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione.” ha avuto come relatore Fabio Pietrosanti . Per maggiori informazioni: La pagina ufficiale dell’evento Scarica le slide dell’intervento … — restored in hermescenter/hermescenter.org-restoration id hermes-center-intervento-whistleblowingitalia-congress-milano
 - 🆕 **2013-07-10** · Talk · Transparency International Italia - WhistleblowingItalia Congress (Milano) — [Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione](https://web.archive.org/web/2015/http://logioshermes.org/hermes-center-intervento-whistleblowingitalia-congress-milano/)  
   Talk at the conference 'Partecipazione e responsabilità. Il whistleblowing come strumento di contrasto alla corruzione negli enti pubblici'
 - 🆕 **2013-07-02** · TV · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) _(non verificato)_  
@@ -807,18 +831,22 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2012** · Talk · International Journalism Festival 2012 — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2012/firewalls)  
   IJF12 Perugia session
 
-## 2011 — 25 voci, 22 nuove
+## 2011 — 28 voci, 25 nuove
 
 - 🆕 **2011-12-28** · Talk · 28C3 Chaos Communication Congress, Berlin — [Tor2web workshop](https://events.ccc.de/congress/2011/wiki/Tor2web) _(non verificato)_  
   Tor2web workshop run by the GlobaLeaks team; his name is not on the page
 - 🆕 **2011-12-28** · Talk · 28C3 Chaos Communication Congress, Berlin — [Workshops/GlobaLeaks](https://events.ccc.de/congress/2011/wiki/Workshops/GlobaLeaks) _(non verificato)_  
   GlobaLeaks team workshop (host User:GlobaLeaks); his name is not on the page
+- 🆕 **2011-12-11** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks](https://www.hermescenter.org/radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks/)  
+  names Fabio: … 10/12/2011 Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks. Intervista a Marco Calamari e a Fabio Pietrosanti. di Roberto Spagnoli La “public disclosure”, cioè la pubblicazione di informazioni riservate, che in certi casi può ave… — restored in hermescenter/hermescenter.org-restoration id radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks
 - 🆕 **2011-12-10** · Radio · Radio Radicale — [Globaleaks, la "public disclosure" oltre Wikileaks. Intervista a Marco Calamari e a Fabio Pietrosanti](https://www.radioradicale.it/scheda/342096/globaleaks-la-public-disclosure-oltre-wikileaks-intervista-a-marco-calamari-e-a-fabio)  
   Interview by Roberto Spagnoli at the 39th Congress of the Transnational Radical Party (19 min)
 - 🆕 **2011-12** · Report · The Tor Project (monthly status report, Nov 2011) — [Tor Project monthly report, November 2011 ('New releases, new hires, new funding')](https://archive.org/details/manualzilla-id-5653552)  
   Under Outreach and Advocacy, verified: '1. Fabio Pietrosanti got Tor working on a WDTV', linking to a tor-dev post from Nov 2011. Mirrored on Internet Archive (manualzilla).
 - 🆕 **2011-11** · Report · The Tor Project, monthly status report November 2011 (IA manualzilla mirror 'New releases, new hires, new funding - archive') — [Tor Project monthly report, November 2011 - Outreach and Advocacy](https://archive.org/details/manualzilla-id-5653552/page/n8)  
   djvu text, leaf 8: 'Outreach and Advocacy 1. Fabio Pietrosanti got Tor working on a WDTV, https://lists.torproject.org/pipermail/tor-dev/2011-November/003081.html'.
+- 🆕 **2011-10-30** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [X Congresso dei Radicali Italiani,  Globaleaks](https://www.hermescenter.org/x-congresso-radicali-italiani-globaleaks/)  
+  names Fabio: …nternet come metodo: dalla mobilitazione, all’organizzazione alla nuova forma partito” (seconda giornata) Talk by Fabio Pietrosanti and Arturo Filastò here. … — restored in hermescenter/hermescenter.org-restoration id x-congresso-radicali-italiani-globaleaks
 - 🆕 **2011-10-30** · Video · Radio Radicale — [4ª Commissione del X Congresso di Radicali Italiani - Internet come metodo: dalla mobilitazione, all'organizzazione alla nuova forma partito (seconda giornata)](https://www.radioradicale.it/scheda/338769/4a-commissione-del-x-congresso-di-radicali-italiani-internet-come-metodo-dalla)  
   Intervention at Radicali Italiani congress commission on Internet as method
 - 🆕 **2011-08-10** · Progetto · Chaos Communication Camp 2011 wiki — [GlobaLeaks (camp project page)](https://events.ccc.de/camp/2011/wiki/GlobaLeaks)  
@@ -839,6 +867,8 @@ Anni senza nessun risultato: nessuno
   Linked from his CV page; CV says Feb 2010 but file is 2011febbraio
 - 🆕 **2011-01-31** · Menzionato · ReadWriteWeb — [Egypt's Communications Crisis: An Update (Update: Noor Down)](https://readwrite.com/egypts_communications_crisis_an_update/)  
   Update on Egypt's internet shutdown cites and links his tweet (@fpietrosanti) as a source that Noor ISP went down; name appears only via the linked handle
+- 🆕 **2011-01-26** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [Forbes, GlobaLeaks Wants To Be The Bittorrent To WikiLeaks’ Napster](https://www.hermescenter.org/26012011-forbes-globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster/)  
+  names Fabio: …ators are based in Italy and the Netherlands, has yet to launch and is still hammering out some of its plans. But Fabio Pietrosanti, a spokesperson for the group, tells me it will ultimately invite volunteers around the world to install GlobaLeaks’ so… — restored in hermescenter/hermescenter.org-restoration id 26012011-forbes-globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster
 - 🆕 **2011-01-26** · Citato · Forbes (Andy Greenberg) — [GlobaLeaks Wants To Be The Bittorrent To WikiLeaks' Napster](https://www.forbes.com/sites/andygreenberg/2011/01/26/globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster/) _(non verificato)_  
   Quotes Pietrosanti as GlobaLeaks spokesperson (per search snippet; Forbes returns 403 to fetcher)
 - ↺ **2011-01-24** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [My TOR exit node experience trying to filter out noisy traffic](https://web.archive.org/web/2012/http://infosecurity.ch/20110124/my-tor-exit-node-experience-trying-to-filter-out-noisy-traffic/) _(non verificato)_  

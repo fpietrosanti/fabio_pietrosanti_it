@@ -63,5 +63,70 @@
   "note": "5-min lightning talk, Day 3 14:55; organizer 'Fabio Pietrosanti (naif)', website hermescenter.org; research on Italian PA/EU robots.txt",
   "verified": true,
   "known": false
+ },
+ {
+  "date": "2013-12-29",
+  "year": 2013,
+  "type": "other",
+  "outlet": "30C3 Chaos Communication Congress, Hamburg (NoisySquare)",
+  "title": "WE - Whistleblowing Everywhere (self-organized meeting)",
+  "url": "https://events.ccc.de/congress/2013/wiki/Session:WE_-_Whistleblowing_Everywhere",
+  "language": "en",
+  "role": "organiser",
+  "note": "45-min meeting of the Whistle-blowing Everywhere coalition, 29 Dec 2013 12:45 at NoisySquare; person organizing: Naif",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2013-12-27",
+  "year": 2013,
+  "type": "village",
+  "outlet": "30C3 Chaos Communication Congress, Hamburg",
+  "title": "Assembly:NoisySquare (30C3 wiki) - member; hosts GlobaLeaks project and Hermes Center",
+  "url": "https://events.ccc.de/congress/2013/wiki/Assembly:NoisySquare",
+  "language": "en",
+  "role": "contact",
+  "note": "Naif listed among NoisySquare assembly members; page lists 'GlobaLeaks Project + Hermes Center' as participating group and his two sessions",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2014-12-27",
+  "year": 2014,
+  "type": "village",
+  "outlet": "31C3 Chaos Communication Congress, Hamburg",
+  "title": "Assembly:Noisy Square (31C3 wiki) - member; Hermes Center as supporting organisation",
+  "url": "https://events.ccc.de/congress/2014/wiki/Assembly:Noisy_Square",
+  "language": "en",
+  "role": "contact",
+  "note": "Naif listed as member (26/12-31/12, 'Will bring love!'); Hermes Center listed as supporting org (whistleblowing workshop, GlobaLeaks/Tor2web stickers, grappa)",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017-12-28",
+  "year": 2017,
+  "type": "talk",
+  "outlet": "34C3 Chaos Communication Congress, Leipzig (Rights & Freedoms stage, CCL Hall 3)",
+  "title": "Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', 'Digital Anonimity for Whistleblowing', 'Are NAT translations respecting proportionality and data retention principles?', 'How to use public procurement datasets to monitor government surveillance capabilities'",
+  "url": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms",
+  "language": "en",
+  "role": "subject",
+  "note": "Four Hermes Center slots 28-30 Dec 2017; speakers not named on the page - his personal involvement NOT confirmed (NAT/data-retention topic matches Hermes 2017 campaigns)",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2018-12-27",
+  "year": 2018,
+  "type": "village",
+  "outlet": "35C3 Chaos Communication Congress, Leipzig",
+  "title": "Assembly:Italian Hacker Embassy (35C3 wiki)",
+  "url": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy",
+  "language": "en",
+  "role": "subject",
+  "note": "Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only",
+  "verified": false,
+  "known": false
  }
 ]
