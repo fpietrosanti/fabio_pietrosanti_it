@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **674**; dopo deduplica: **547**
+- Risultati grezzi dalle ricerche: **680**; dopo deduplica: **553**
 - Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 515**
-- Verificati aprendo la pagina: **472**; solo da risultato di ricerca: **75**
+- **Nuovi rispetto al vecchio sito: 521**
+- Verificati aprendo la pagina: **479**; solo da risultato di ricerca: **74**
 
-Per tipo (nuovi): Menzionato 97, Post sul blog infosecurity.ch 71, Talk 67, Video 50, Citato 46, Progetto 36, Articolo scritto 18, Ricerca 17, Altro 17, Report 15, Comunicato 14, Paper 11, Podcast 11, Libro 11, Radio 9, Intervista 6, Slide 5, Capitolo di libro 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 99, Post sul blog infosecurity.ch 71, Talk 69, Video 50, Citato 45, Progetto 36, Articolo scritto 18, Ricerca 17, Altro 17, Report 15, Comunicato 14, Paper 11, Podcast 11, Libro 11, Radio 9, Intervista 6, Slide 5, Capitolo di libro 4, TV 3, village 2, Brevetto 2, Tesi 2, Wiki 1, workshop 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -25,18 +25,18 @@ Per tipo (nuovi): Menzionato 97, Post sul blog infosecurity.ch 71, Talk 67, Vide
 | 2004 | 1 | 3 | 3 |
 | 2005 | 1 | 5 | 3 |
 | 2006 | 4 | 5 | 2 |
-| 2007 | 1 | 4 | 3 |
+| 2007 | 1 | 5 | 4 |
 | 2008 | 0 | 6 | 6 |
-| 2009 | 1 | 38 | 36 |
+| 2009 | 1 | 39 | 37 |
 | 2010 | 6 | 53 | 48 |
 | 2011 | 4 | 25 | 22 |
 | 2012 | 0 | 22 | 22 |
-| 2013 | 0 | 23 | 23 |
-| 2014 | 0 | 23 | 23 |
+| 2013 | 0 | 24 | 24 |
+| 2014 | 0 | 24 | 24 |
 | 2015 | 0 | 29 | 29 |
-| 2016 | 0 | 18 | 18 |
+| 2016 | 0 | 19 | 19 |
 | 2017 | 0 | 50 | 50 |
-| 2018 | 0 | 39 | 39 |
+| 2018 | 0 | 40 | 40 |
 | 2019 | 0 | 17 | 17 |
 | 2020 | 0 | 36 | 36 |
 | 2021 | 0 | 23 | 23 |
@@ -280,16 +280,16 @@ Anni senza nessun risultato: nessuno
   verified via live; context: …`Jaromil� Roio (hacker che ha dato vita alla comunit� Dyne.org) annuncia la nascita del software libero �Open Rousseau � che, come anticipato all’Adnkronos da Fabio Pietrosanti, uno dei promotori dell’iniziativa, punta a…
 - 🆕 **2020-10-02** · newspaper · Il Gazzettino (Friuli ed.) — [Il Gazzettino-Friuli 2020-10-02 (article on 'Open Rousseau')](https://archive.org/details/GazzettinoFVG2020-10-02)  
   IA full text verified: 'un gruppo di esperti informatici, Sviluppatori tra cui spicca il nome di Fabio Pietrosanti che oggi faranno debuttare ... "Open Rousseau". Un software libero ... basato sulla piattaforma Decidim'.
-- 🆕 **2020-10-02** · Citato · Adnkronos — [M5S, hacker a parlamentari: "Ecco Open Rousseau, così sarete liberi"](https://www.adnkronos.com/fatti/politica/2020/10/02/hacker-parlamentari-ecco-open-rousseau-cosi-sarete-liberi_rqptYFyArlnhnr8BwBKHPP.html) _(non verificato)_  
-  Search snippet names 'Fabio Pietrosanti (known as Naif)' with Denis Roio/Jaromil; URL now 404
+- 🆕 **2020-10-02** · Menzionato · Adnkronos — [M5S, hacker a parlamentari: "Ecco Open Rousseau, così sarete liberi"](https://www.adnkronos.com/fatti/politica/2020/10/02/hacker-parlamentari-ecco-open-rousseau-cosi-sarete-liberi_rqptYFyArlnhnr8BwBKHPP.html)  
+  Jaromil's letter to M5S MPs launching Open Rousseau; names him as one of the promoters; live URL 404, verified via Wayback 2020 snapshot
 - 🆕 **2020-10-01** · Menzionato · open.online — [Gli hacker ci regalano Open Rousseau, l'alternativa libera e gratuita alla piattaforma del M5s - Open](https://www.open.online/2020/10/01/hacker-regalano-open-rousseau-piattaforma-m5s-casaleggio/)  
   verified via wayback; context: …ossa dalla fondazione non-profit Dyne.org nella figura del suo responsabile tecnico Denis Rojo , noto con il nome Jaromil nella comunità del software libero, e Fabio Pietrosanti detto Naif, attivista per i diritti digita…
 - 🆕 **2020-10-01** · Citato · il Giornale — [Hacker sfida Casaleggio: ecco la contro-piattaforma per sostituire Rousseau](https://www.ilgiornale.it/news/politica/m5s-ecco-contro-piattaforma-che-sfida-rousseau-1893743.html)  
   Open Rousseau (Decidim, Comunità Decidiamo!/Dyne); quoted via Adnkronos as one of the developers
 - 🆕 **2020-10-01** · Citato · Il Giornale d'Italia — [Movimento 5 stelle, hacker sfidano Casaleggio: al via Open Rousseau software libero](https://www.ilgiornaleditalia.it/cronaca/2020/10/01/news/movimento-5-stelle-hacker-sfidano-casaleggio-al-via-open-rousseau-software-libero-59083/)  
   Adnkronos-based piece quoting him on Open Rousseau launch before 4 Oct 2020
-- 🆕 **2020-10-01** · Citato · Adnkronos — [M5S, hacker sfidano Casaleggio: arriva software Open Rousseau](https://www.adnkronos.com/fatti/politica/2020/10/01/hacker-sfidano-casaleggio-arriva-software-open-rousseau_xhpY4FGXMdkxXNWyHW75xN.html) _(non verificato)_  
-  Original Adnkronos wire (source of il Giornale quotes); URL now 404, found via search snippet only
+- 🆕 **2020-10-01** · Citato · Adnkronos — [M5S, hacker sfidano Casaleggio: arriva software Open Rousseau](https://www.adnkronos.com/fatti/politica/2020/10/01/hacker-sfidano-casaleggio-arriva-software-open-rousseau_xhpY4FGXMdkxXNWyHW75xN.html)  
+  Original Adnkronos wire quoting him as one of the Open Rousseau developers; live URL 404, verified via Wayback 2020 snapshot
 - 🆕 **2020-09-05** · Progetto · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR)  
   OCR processing of Italian Government COVID Scientific Technical Committee minutes
 - 🆕 **2020-08-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come sono riuscito a votare due volte su Rousseau](https://hermescenter.github.io/crvd.org-preservation/come-sono-riuscito-a-votare-due-volte-su-rousseau/)  
@@ -370,7 +370,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Video · YouTube (unverified channel) — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) _(non verificato)_  
   Seen in search results only; page not retrievable (year approximate)
 
-## 2018 — 39 voci, 39 nuove
+## 2018 — 40 voci, 40 nuove
 
 - 🆕 **2018-11-30** · Talk · e-privacy XXIV, Roma - Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/)  
   Short interventions introducing and commenting a video on digital transparency
@@ -440,6 +440,8 @@ Anni senza nessun risultato: nessuno
   With Giovanni Battista Gallus; using CAD art. 69 to obtain whistleblowing source code from PAs; video on video.fosdem.org
 - 🆕 **2018-01-30** · Citato · Motherboard / Vice Italia — [Riutilizzare i 24.400 tablet per il referendum della Lombardia è un casino](https://www.vice.com/it/article/problema-riutilizzo-nelle-scuole-tablet-referendum-lombardia/)  
   By Federico Martelli; Pietrosanti proposes a hackathon on reuse, says e-voting decisions should have been open from the start
+- 🆕 **2018-01-01** · Menzionato · JEI - Jus e Internet — [Voto elettronico: rilievi giuridici e tecnici. Teorizzazione di un modello sperimentale di votazione mediante uso della tecnologia Blockchain](https://www.jei.it/approfondimenti-giuridici/490-voto-elettronico-rilievi-giuridici-e-tecnici-teorizzazione-di-un-modello-sperimentale-di-votazione-mediante-uso-della-tecnologia-blockchain) _(non verificato)_  
+  Legal paper endorsing the 'security by obscurity' critique of Smartmatic by 'il presidente della Hermes Center' and describing Hermes FOIA requests; names him only by role; date not shown on page (approx. 2018)
 - 🆕 **2018-01** · Video · YouTube - Privacy Camp 2018 — [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) _(non verificato)_  
   EDRi Privacy Camp round table on government hacking; listed on trojansandruleoflaw.org
 - 🆕 **2018-01** · Menzionato · Access Now (event listing), CPDP 2018 Brussels — [Where you can find Access Now at CPDP 2018](https://www.accessnow.org/can-find-access-now-cpdp-2018/)  
@@ -554,8 +556,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2017** · Tesi · University of California, Berkeley, PhD dissertation (Computer Science) — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf)  
   David Fifield. Ref. [41] cites Tor bug #4185 'Bridge easily detected by GFW' (Oct. 2011) with Fabio Pietrosanti among its listed authors (denverroot, Roger Dingledine, ... Mike Perry, Fabio Pietrosanti, quick-dudley), in the discussion of China's Great Firewall detecting Tor.
 
-## 2016 — 18 voci, 18 nuove
+## 2016 — 19 voci, 19 nuove
 
+- 🆕 **2016-12-29** · Talk · 33C3 Chaos Communication Congress, Hamburg (Lightning Talks) — [Robots txt abuses by government agencies against transparency (lightning talk)](https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency)  
+  5-min lightning talk, Day 3 14:55; organizer 'Fabio Pietrosanti (naif)', website hermescenter.org; research on Italian PA/EU robots.txt
 - 🆕 **2016-11-23** · Video · Eunews (YouTube) — [Intelligence, privacy e antiterrorismo in Europa](https://www.youtube.com/watch?v=IEViqE1HxfU)  
   How Can We Govern Europe 2016; with Nello Rossi and Marco Valleri
 - 🆕 **2016-11-18** · Talk · Eunews - How Can We Govern Europe? (3rd edition), Roma - Radio Radicale — [Terza edizione di "How Can We Govern Europe?" - Intelligence, privacy e antiterrorismo in Europa](https://www.radioradicale.it/scheda/492422/)  
@@ -654,8 +658,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2015-01** · Report · Dyne.org (software manual) — [Jaro Mail 3.2 manual](https://archive.org/details/manualzilla-id-5679480)  
   Denis 'Jaromil' Roio (Dyne.org), manual of the Jaro Mail email client v3.2 (tag v3.2 dated 2015-01-25 on github.com/dyne/JaroMail). Acknowledgements thank '... Anatole Shaw, Francesco Politi and Fabio Pietrosanti for early testing and debugging'. Seen via Internet Archive full-text search snippet (copy uploaded to archive.org from manualzilla); not an academic work, a software documentation acknowledgement. Authorship of manual assumed from project, not read.
 
-## 2014 — 23 voci, 23 nuove
+## 2014 — 24 voci, 24 nuove
 
+- 🆕 **2014-12-29** · workshop · 31C3 Chaos Communication Congress, Hamburg (Noisy Square) — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks)  
+  60-min GlobaLeaks workshop, 29 Dec 2014 15:00 at Noisy Square; person organizing: Naif (duplicate draft page Session:Practical_Whistleblowing also exists)
 - 🆕 **2014-12-28** · Altro · Twitter/X @fpietrosanti — [NSA User's Guide to PRISM Skype Collection (Interception) #31c3](https://x.com/fpietrosanti/status/549294291424903169)  
   Tweet from 31C3 sharing the Snowden document on PRISM Skype collection
 - 🆕 **2014-12-21** · Radio · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/429504)  
@@ -703,10 +709,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2014-01-22** · Citato · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/)  
   Quoted as security and telephony expert on mobile location tracking of protesters
 
-## 2013 — 23 voci, 23 nuove
+## 2013 — 24 voci, 24 nuove
 
 - 🆕 **2013-12-30** · Citato · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/)  
   John Borland's 30C3 report; quotes him on GlobaLeaks and on media groups wanting to copy the Dutch Publeaks model; photo with Claudio Agosti
+- 🆕 **2013-12-29** · Talk · 30C3 Chaos Communication Congress, Hamburg (NoisySquare) — [GlobaLeaks Anonymous Whistleblowing Software (self-organized session)](https://events.ccc.de/congress/2013/wiki/Session:GlobaLeaks_Anonymous_Whistleblowing_Software)  
+  30-min talk at NoisySquare, 29 Dec 2013 15:00; persons organizing: Naif, Vecna, Hellais
 - 🆕 **2013-12** · Progetto · 30C3 Public Wiki (Chaos Communication Congress, Hamburg) — [Projects:GlobaLeaks](https://events.ccc.de/congress/2013/wiki/Projects:GlobaLeaks)  
   GlobaLeaks project page at the NoisySquare assembly listing Naif as contact
 - 🆕 **2013-11-14** · Video · YouTube / Cosa Pubblica Libra — [sistema WHISTLEBLOWING](https://www.youtube.com/watch?v=jsPilTzhU5s)  
@@ -961,7 +969,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2010** · Altro · SlideShare profile fpietrosanti — [Fabio Pietrosanti presentations (13 decks)](https://www.slideshare.net/fpietrosanti)  
   Profile from PrivateWave/Khamsa era
 
-## 2009 — 38 voci, 36 nuove
+## 2009 — 39 voci, 37 nuove
 
 - 🆕 **2009-12-21** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Index of economic freedom](https://web.archive.org/web/2012/http://infosecurity.ch/20091221/index-of-economic-freedom/)  
   Post on his personal blog (site offline; Wayback copy)
@@ -981,6 +989,8 @@ Anni senza nessun risultato: nessuno
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2009-11-07** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Political conflict in Turkey between Prosecutors and Wiretappers](https://web.archive.org/web/2012/http://infosecurity.ch/20091107/political-conflict-in-turkey-between-prosecutors-and-wiretappers/)  
   Post on his personal blog (site offline; Wayback copy)
+- 🆕 **2009-08-13** · village · HAR2009 (Hacking at Random, Vierhouten NL) — [HAR-microemb - Italian micro-embassy at HAR2009 (endsummercamp.org wiki)](https://www.endsummercamp.org/index.php?title=HAR-microemb)  
+  Planning/report page of the Italian micro-embassy at HAR2009; lists 'naif + vodka + luz' (flight from Milan, arrival 13/08)
 - 🆕 **2009-08-06** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Conventionality is not morality.](https://web.archive.org/web/2012/http://infosecurity.ch/20090806/conventionality-is-not-morality/)  
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2009-08-03** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Hackers Hacking Hackers](https://web.archive.org/web/2012/http://infosecurity.ch/20090803/hacking-hackers/)  
@@ -1055,10 +1065,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2008-01-23** · Ricerca · OSXCrypt / Full Disclosure — [THIS IS NOT A SCAM: REAL TRUECRYPT FOR MACOS IS HERE!](https://seclists.org/fulldisclosure/2008/Jan/467)  
   OSXCrypt open-source release (Orlando Bassotto, Matteo Flora, Fabio Pietrosanti)
 
-## 2007 — 4 voci, 3 nuove
+## 2007 — 5 voci, 4 nuove
 
 - 🆕 **2007-10-04** · Menzionato · mgpf.it (Matteo Flora blog) — [Wardriving a Milano - WarBiking nella metropoli](https://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli.html)  
   Warbiking survey of Milan explicitly builds on the 2002 Portel city survey by Yvette Agostini and Fabio Pietrosanti
+- 🆕 **2007-08-08** · village · Chaos Communication Camp 2007 (Finowfurt) — [Italia - Italian Embassy village (CCC Camp 2007 wiki)](https://events.ccc.de/camp/2007/Italia/index.html)  
+  First Italian Embassy village at a CCC camp; 'naif' listed among Citizens ('Non mancherei mai al camp estivo del ccc')
 - 🆕 **2007-02-10** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Uno sguardo a…](https://web.archive.org/web/2012/http://infosecurity.ch/20070210/uno-sguardo-a/)  
   Post on his personal blog (site offline; Wayback copy)
 - ↺ **2007-02-06** · Slide · SlideShare (Infosecurity Italy 2007) — [2007: Infosecurity Italy: Voice Privacy Security (flash talk)](https://www.slideshare.net/slideshow/infosec-07-voice-privacy-security-flash-talk/1669302)  

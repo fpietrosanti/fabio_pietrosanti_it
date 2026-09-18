@@ -5,10 +5,10 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **529**; già processate: **538**; ancora da processare: **1**
+- Voci in `data/media.json`: **553**; già processate: **538**; ancora da processare: **25**
 - Licenza delle copie ottenute: **185** materiale proprio (ripubblicabile), **349** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **399**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **64**
+- ✅ Copia locale, nome verificato nella copia: **404**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **59**
 - 🎬 Video/audio scaricato (+ pagina): **70**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
 - ❌ Non ottenuta: **4**
@@ -25,13 +25,13 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2001 | 11 | 0 | 2 | 0 | 0 | 0 | 0 |
 | 2002 | 9 | 0 | 5 | 0 | 0 | 0 | 0 |
 | 2003 | 5 | 0 | 1 | 0 | 0 | 0 | 0 |
-| 2004 | 2 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 2004 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2005 | 3 | 1 | 1 | 0 | 0 | 0 | 0 |
-| 2006 | 4 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 2006 | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2007 | 3 | 0 | 2 | 0 | 0 | 0 | 0 |
 | 2008 | 5 | 0 | 1 | 0 | 0 | 0 | 0 |
 | 2009 | 34 | 1 | 4 | 0 | 0 | 0 | 0 |
-| 2010 | 45 | 2 | 3 | 0 | 0 | 0 | 3 |
+| 2010 | 48 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 17 | 3 | 4 | 0 | 0 | 0 | 1 |
 | 2012 | 19 | 1 | 2 | 0 | 0 | 0 | 0 |
 | 2013 | 14 | 6 | 3 | 0 | 0 | 0 | 0 |
@@ -51,7 +51,31 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Da completare (non ancora processate)
 
+- ⏳ **None** · CRVD — Comitato per i Requisiti del Voto — [Tag: fabio pietrosanti — CRVD](https://hermescenter.github.io/crvd.org-preservation/tag/fabio-pietrosanti/)
+- ⏳ **2007** · Chaos Communication Camp 2007 (Finowfurt — [Italia - Italian Embassy village (CCC Camp 2007 wiki)](https://events.ccc.de/camp/2007/Italia/index.html)
+- ⏳ **2009** · HAR2009 (Hacking at Random, Vierhouten N — [HAR-microemb - Italian micro-embassy at HAR2009 (endsummercamp.org wiki)](https://www.endsummercamp.org/index.php?title=HAR-microemb)
+- ⏳ **2013** · 30C3 Chaos Communication Congress, Hambu — [GlobaLeaks Anonymous Whistleblowing Software (self-organized session)](https://events.ccc.de/congress/2013/wiki/Session:GlobaLeaks_Anonymous_Whistleblowing_Software)
+- ⏳ **2014** · 31C3 Chaos Communication Congress, Hambu — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks)
+- ⏳ **2016** · Tor Project (GitLab, ex Trac) — [Ticket #17975 «Introduce OutboundExitAddress to enable exit-only traffic to go via a diffe](https://gitlab.torproject.org/tpo/core/tor/-/work_items/17975)
+- ⏳ **2016** · 33C3 Chaos Communication Congress, Hambu — [Robots txt abuses by government agencies against transparency (lightning talk)](https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency)
+- ⏳ **2017** · Hermes Center (hermescenter.org) — [Le richieste FOIA sul Voto Elettronico Lombardia 2017](https://www.hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/)
+- ⏳ **2017** · Nova - Il Sole 24 Ore — [Tutte le fragilità dell'evoting](https://nova.ilsole24ore.com/progetti/tutte-le-fragilita-dellevoting/)
+- ⏳ **2018** · JEI - Jus e Internet — [Voto elettronico: rilievi giuridici e tecnici. Teorizzazione di un modello sperimentale di](https://www.jei.it/approfondimenti-giuridici/490-voto-elettronico-rilievi-giuridici-e-tecnici-teorizzazione-di-un-modello-sperimentale-di-votazione-mediante-uso-della-tecnologia-blockchain)
+- ⏳ **2018** · Startmag — [Ecco come Davide Casaleggio divide esperti e tecnici sulla blockchain](https://www.startmag.it/innovazione/come-davide-casaleggio-divide-esperti-e-tecnici-sulla-blockchain/)
+- ⏳ **2018** · Copernicani / P&R Foundation (Rome) — [Presentazione del Libro Bianco della partecipazione politica digitale dei Copernicani](http://www.pr-foundation.org/presentato-roma-libro-bianco-della-partecipazione-politica-digitale-dei-copernicani/)
+- ⏳ **2018** · Radio Radicale — [Presentazione del living-book "Libro Bianco della partecipazione politica digitale" a cura](https://www.radioradicale.it/scheda/555897/presentazione-del-living-book-libro-bianco-della-partecipazione-politica-digitale-a)
+- ⏳ **2019** · CRVD — Comitato per i Requisiti del Voto — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://hermescenter.github.io/crvd.org-preservation/i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/)
+- ⏳ **2019** · CRVD — Comitato per i Requisiti del Voto — [Voto Online? No, grazie, e ti spiego perché…](https://hermescenter.github.io/crvd.org-preservation/voto-online-no-grazie-e-ti-spiego-perche/)
+- ⏳ **2019** · The Vision — [Un governo deciso da un sondaggio online è la vergogna della democrazia italiana](https://thevision.com/politica/governo-rousseau-democrazia/)
 - ⏳ **2019** · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit)
+- ⏳ **2019** · CRVD — Comitato per i Requisiti del Voto — [Come non sprecare un milione di euro](https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/)
+- ⏳ **2020** · CRVD — Comitato per i Requisiti del Voto — [Come sono riuscito a votare due volte su Rousseau](https://hermescenter.github.io/crvd.org-preservation/come-sono-riuscito-a-votare-due-volte-su-rousseau/)
+- ⏳ **2020** · il Giornale — [Hacker sfida Casaleggio: ecco la contro-piattaforma per sostituire Rousseau](https://www.ilgiornale.it/news/politica/m5s-ecco-contro-piattaforma-che-sfida-rousseau-1893743.html)
+- ⏳ **2020** · Il Giornale d'Italia — [Movimento 5 stelle, hacker sfidano Casaleggio: al via Open Rousseau software libero](https://www.ilgiornaleditalia.it/cronaca/2020/10/01/news/movimento-5-stelle-hacker-sfidano-casaleggio-al-via-open-rousseau-software-libero-59083/)
+- ⏳ **2020** · Adnkronos — [M5S, hacker sfidano Casaleggio: arriva software Open Rousseau](https://www.adnkronos.com/fatti/politica/2020/10/01/hacker-sfidano-casaleggio-arriva-software-open-rousseau_xhpY4FGXMdkxXNWyHW75xN.html)
+- ⏳ **2020** · Adnkronos — [M5S, hacker a parlamentari: "Ecco Open Rousseau, così sarete liberi"](https://www.adnkronos.com/fatti/politica/2020/10/02/hacker-parlamentari-ecco-open-rousseau-cosi-sarete-liberi_rqptYFyArlnhnr8BwBKHPP.html)
+- ⏳ **2020** · Giornalettismo — [Voto elettronico in sperimentazione in Italia? La commissione](https://www.giornalettismo.com/voto-elettronico-sperimentazione-italia/)
+- ⏳ **2022** · Il Post — [Il voto degli italiani all'estero ha vari problemi](https://www.ilpost.it/2022/09/14/sicurezza-voto-italiani-estero/)
 
 ## Fonti NON ottenute o incomplete
 
@@ -87,11 +111,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2003** · BFi (Butchered From Inside) n.11 — [BFi numero 11 (collected issue): reprints naif mentions in BFi11-02 (hacking is NOT politi](https://www.s0ftpj.org/bfi/bfi11.tar.gz) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2004** · Webbit 04, Padova — [2004: Webbit Padova 04: Wireless (in)security](https://www.slideshare.net/slideshow/webbit-04-wireless-insecurity/1669209) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2005** · E-Privacy 2005 audio recording — [Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg](http://urna.winstonsmith.org/materiali/2005/audio/Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2006** · Hack.lu 2006, Luxembourg — [Exploiting hidden services to setup anonymous communication infrastructure](https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -106,12 +126,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🟡 **2009** · infosecurity.ch (blog) — [Hackers Hacking Hackers](https://web.archive.org/web/2012/http://infosecurity.ch/20090803/hacking-hackers/) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2009** · infosecurity.ch (blog) — [Conventionality is not morality.](https://web.archive.org/web/2012/http://infosecurity.ch/20090806/conventionality-is-not-morality/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2010** · SlideShare (WHYMCA 2010) — [2010: Mobile Security - WHYMCA Developer Conference](https://www.slideshare.net/slideshow/2010-mobile-security-whymca-developer-conference/4392945) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2010** · SlideShare (PrivateWave Italia) — [Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryp](https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2010** · SlideShare (Security Summit 2010) — [2010: Mobile Security - Intense overview](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3799661/3799661) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2011** · Wikipedia (en) — [GlobaLeaks](https://en.wikipedia.org/wiki/GlobaLeaks) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -272,6 +286,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2003** · CNR - Comitato di gestione infrastruttur — [2003 CNR Security Task Force: Wireless (In)security](https://www.slideshare.net/slideshow/2003-cnr-security-task-force-wireless-insecurity/1669313) · copia: `2003/2f531509603e` (Web Archive 20240714) · licenza: terzi
 - **2004** · BFi 12-dev file 10 — [Steganography applied on network sessions and neighbourhood (vecna)](https://www.s0ftpj.org/bfi/dev/en/BFi12-dev-10-en) · copia: `2004/02a1647d314b` (Web Archive 20041023) · licenza: terzi
 - **2004** · Webbit 04, Padova — [2004: Webbit Padova 04: Presentazione Sikurezza.Org](https://www.slideshare.net/slideshow/webbit-04-presentazione-sikurezzaorg/1669242) · copia: `2004/df31b61c9b25` (live) · licenza: terzi
+- **2004** · Webbit 04, Padova — [2004: Webbit Padova 04: Wireless (in)security](https://www.slideshare.net/slideshow/webbit-04-wireless-insecurity/1669209) · copia: `2004/ec8d254f99b2` (Web Archive 20250917) · licenza: terzi
 - **2005** · E-Privacy 2005 proceedings (atti) — [Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf](http://urna.winstonsmith.org/materiali/2005/atti/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf) · copia: `2005/93c5b04b11e9` (Web Archive 20160526) · licenza: terzi
 - **2005** · Internet Archive (PWS e-privacy archive) — [PGP luci e ombre: storia e evoluzione dello strumento per la privacy piu' usato al mondo](https://archive.org/details/pws_e-privacy_2005_2m02_pietrosanti_pgp-luci-e-ombre-storia-e-evoluzione-dello-strumento) · copia: `2005/2402cea37a20` (live · video locale `media.ogg` (25 MB, da caricare su Drive)) · licenza: propria
 - **2005** · E-Privacy 2005 - edition page (Winston S — [PGP luci e ombre (Fabio Pietrosanti - Softpj.org)](https://e-privacy.winstonsmith.org/e-privacy-IV.html) · copia: `2005/574a769fc571` (Web Archive 20150914) · licenza: terzi
@@ -279,6 +294,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2006** · Shake Edizioni — [Il software libero in Italia (a cura di Andrea Glorioso) - contributo di Fabio "naif" Piet](http://www.shake.it/index.php?id=51&productID=541) · copia: `2006/32ad2b4438ec` (Web Archive 20151106) · licenza: terzi
 - **2006** · Full-Disclosure — [parallels Desktop file permission notice](https://seclists.org/fulldisclosure/2006/Oct/581) · copia: `2006/ceefd39eadff` (Web Archive 20111213) · licenza: propria
 - **2006** · Secunia — [Parallels Desktop for Mac insecure file permissions (SA22634)](https://secunia.com/advisories/22634/) · copia: `2006/3b883128af23` (Web Archive 20070429) · licenza: propria
+- **2006** · Hack.lu 2006, Luxembourg — [Exploiting hidden services to setup anonymous communication infrastructure](https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208) · copia: `2006/096cb67fadf6` (Web Archive 20250622) · licenza: terzi
 - **2006** · SlideShare (Infosecurity Italy 2006) — [2006: Infosecurity Italy: Tecnologie di Firma Digitale e Tutela della Riservatezza](https://www.slideshare.net/slideshow/infosecurity-06-tecnologie-di-firma-digitale-e-tutela-della-riservatezza/1669276) · copia: `2006/ea4fb493abfa` (live) · licenza: propria
 - **2007** · mgpf.it (Matteo Flora blog) — [Wardriving a Milano - WarBiking nella metropoli](https://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli.html) · copia: `2007/505437294caf` (Web Archive 20130527) · licenza: terzi
 - **2007** · infosecurity.ch (blog) — [Uno sguardo a…](https://web.archive.org/web/2012/http://infosecurity.ch/20070210/uno-sguardo-a/) · copia: `2007/f19e39f81adc` (Web Archive 20081223) · licenza: propria
@@ -364,7 +380,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · Data Manager Online — [Intercettazioni e molto di più](https://www.datamanager.it/news/sicurezza/intercettazioni-e-molto-di-pi) · copia: `2010/0f172e809c69` (Web Archive 20240220) · licenza: propria
 - **2010** · Data Manager (rivista) — [Khamsa: chiamate cifrate tra cellulari](https://www.datamanager.it/rivista/privategsm/khamsa-chiamate-cifrate-tra-cellulari) · copia: `2010/1d0ab80daab7` (Web Archive 20100508) · licenza: terzi
 - **2010** · SlideShare profile fpietrosanti — [Fabio Pietrosanti presentations (13 decks)](https://www.slideshare.net/fpietrosanti) · copia: `2010/861f7ed4a4c3` (Web Archive 20111207) · licenza: propria
+- **2010** · SlideShare (WHYMCA 2010) — [2010: Mobile Security - WHYMCA Developer Conference](https://www.slideshare.net/slideshow/2010-mobile-security-whymca-developer-conference/4392945) · copia: `2010/8c7c8628f2e5` (Web Archive 20250129) · licenza: propria
 - **2010** · Cellulare Magazine (print, via SlideShar — [PrivateGSM e parli con tutti](https://www.slideshare.net/slideshow/cellulare-magazine-privategsm-e-parli-con-tutti/3920453) · copia: `2010/034f3c1c9a41` (live) · licenza: terzi
+- **2010** · SlideShare (PrivateWave Italia) — [Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryp](https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072) · copia: `2010/5ed188388ba4` (Web Archive 20250129) · licenza: terzi
+- **2010** · SlideShare (Security Summit 2010) — [2010: Mobile Security - Intense overview](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3799661/3799661) · copia: `2010/fe3619cfed5a` (Web Archive 20260220) · licenza: propria
 - **2010** · SlideShare (University of Trento Cryptol — [Voice communication security](https://www.slideshare.net/slideshow/voice-communication-security/5059251) · copia: `2010/84d6a5c2b983` (Web Archive 20240625) · licenza: propria
 - **2010** · SlideShare — [Voice securityprotocol review](https://www.slideshare.net/slideshow/voice-securityprotocol-review/5106055) · copia: `2010/d53fe93a58d7` (Web Archive 20240810) · licenza: propria
 - **2010** · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.com/2010/02/01/voice_crypto_test_row_phreak_out/) · copia: `2010/f1c45f126d3a` (Web Archive 20200926) · licenza: terzi
