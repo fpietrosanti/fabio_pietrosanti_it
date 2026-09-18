@@ -83,6 +83,27 @@
     "verified": true,
     "note": "Official FNF 2017 timetable (AK Vorrat wiki, linked from freedomnotfear.org 'Wiki / Archive'): Saturday 7 Oct 2017, 15:45–17:00 'late afternoon session', conference room (35+ people): 'Government hacking and trojan • Fabio'. Parallel sessions: Aral Balkan (tracker blocking, Kamilou café), Rejo Zenger/Bits of Freedom (bodycams). Session added on the day by user Padeluun (rev 130127, 2017-10-07T12:36Z, i.e. during the kick-off plenary); permalink https://wiki.vorratsdatenspeicherung.de/index.php?oldid=130129. Only the first name 'Fabio' is given (no surname/org); attribution to Pietrosanti is a strong inference (topic matches his/Hermes' 2017 Italian trojan-law advocacy and his CPDP 2018 Brussels 'Government hacking' roundtable 3 months later), not stated on the page. No other 'Fabio' appears in any FNF 2011–2019 wiki page. — confirmed by Fabio 2026-09-18"
    }
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/2009-voice-security-and-privacy-security-summit-milan/1677364",
+   "set": {
+    "date": "2009-03-26",
+    "note_date": "date corrected from the official programme (2026-09-18)"
+   }
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/mobile-security-intense-overview-3799661/3799661",
+   "set": {
+    "date": "2010-03-18",
+    "note_date": "date corrected from the official programme (2026-09-18)"
+   }
+  },
+  {
+   "url": "https://e-privacy.winstonsmith.org/e-privacy-XXX.html",
+   "set": {
+    "date": "2022-06-17",
+    "note_date": "date corrected from the official programme (2026-09-18)"
+   }
   }
  ],
  "open_questions": [

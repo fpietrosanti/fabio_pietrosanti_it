@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **770**; dopo deduplica: **617**
-- Già presenti sul vecchio sito: **33** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 584**
-- Verificati aprendo la pagina: **530**; solo da risultato di ricerca: **87**
+- Risultati grezzi dalle ricerche: **853**; dopo deduplica: **656**
+- Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
+- **Nuovi rispetto al vecchio sito: 621**
+- Verificati aprendo la pagina: **564**; solo da risultato di ricerca: **92**
 
-Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Video 51, Citato 47, Ricerca 43, Progetto 36, Altro 22, Articolo scritto 18, Comunicato 17, Report 16, Podcast 11, Libro 11, Radio 11, Paper 10, TV 8, Intervista 6, Capitolo di libro 5, Slide 5, village 5, workshop 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 113, Talk 73, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Ricerca 42, Progetto 36, Altro 34, Radio 20, Articolo scritto 18, Comunicato 17, Report 16, Slide 11, Libro 11, Podcast 9, Paper 8, TV 8, Intervista 6, Capitolo di libro 5, village 5, panel 3, workshop 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -18,37 +18,37 @@ Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Vid
 |---|---:|---:|---:|
 | 1998 | 0 | 1 | 1 |
 | 1999 | 0 | 1 | 1 |
-| 2000 | 2 | 15 | 12 |
-| 2001 | 8 | 14 | 9 |
+| 2000 | 2 | 16 | 13 |
+| 2001 | 8 | 15 | 10 |
 | 2002 | 2 | 14 | 6 |
-| 2003 | 5 | 6 | 5 |
-| 2004 | 1 | 3 | 3 |
-| 2005 | 1 | 5 | 3 |
+| 2003 | 5 | 7 | 6 |
+| 2004 | 1 | 2 | 2 |
+| 2005 | 1 | 6 | 5 |
 | 2006 | 4 | 5 | 2 |
 | 2007 | 1 | 5 | 4 |
 | 2008 | 0 | 6 | 6 |
-| 2009 | 1 | 39 | 37 |
-| 2010 | 6 | 53 | 48 |
-| 2011 | 4 | 28 | 25 |
-| 2012 | 0 | 23 | 23 |
-| 2013 | 0 | 32 | 32 |
+| 2009 | 1 | 41 | 39 |
+| 2010 | 6 | 57 | 49 |
+| 2011 | 4 | 27 | 24 |
+| 2012 | 0 | 28 | 28 |
+| 2013 | 0 | 33 | 33 |
 | 2014 | 0 | 25 | 25 |
-| 2015 | 0 | 30 | 30 |
+| 2015 | 0 | 32 | 32 |
 | 2016 | 0 | 20 | 20 |
-| 2017 | 0 | 68 | 68 |
-| 2018 | 0 | 52 | 52 |
-| 2019 | 0 | 21 | 21 |
+| 2017 | 0 | 73 | 73 |
+| 2018 | 0 | 61 | 61 |
+| 2019 | 0 | 24 | 24 |
 | 2020 | 0 | 37 | 37 |
 | 2021 | 0 | 24 | 24 |
-| 2022 | 0 | 46 | 46 |
+| 2022 | 0 | 50 | 50 |
 | 2023 | 0 | 8 | 8 |
 | 2024 | 0 | 2 | 2 |
 | 2025 | 0 | 6 | 6 |
-| 2026 | 0 | 21 | 21 |
+| 2026 | 0 | 23 | 23 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 21 voci, 21 nuove
+## 2026 — 23 voci, 23 nuove
 
 - 🆕 **2026-09-16** · Progetto · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)  
   Old blog of infosecurity.ch (restoration)
@@ -86,8 +86,12 @@ Anni senza nessun risultato: nessuno
   Hugo static site for a Latina logistics consortium
 - 🆕 **2026-06** · Progetto · mxmap.it — [MxMap.it — Sovranità digitale della posta elettronica della PA italiana](https://mxmap.it/) _(non verificato)_  
   Map of ~23k Italian public entities' email providers via DNS; his name not on the fetched page
+- 🆕 **2026-03-18** · Talk · Centro per la Riforma dello Stato, Roma (announced on dicorinto.it) — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Rete)](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/)  
+  'lo presenta Sonia Montegiove ne discutono Stefano Chiccarelli, Arturo Di Corinto, Fabio Pietrosanti coordina Giulio De Petra ... Roma, mercoledì 18 marzo, via della Dogana Vecchia 5' (post dated 2026-03-11)
 - 🆕 **2026** · Progetto · GlobaLeaks — [People / GlobaLeaks](https://globaleaks.org/about/people/)  
   Project people page: Fabio Pietrosanti co-founded GlobaLeaks, initial organization (also Italian version /it/about/people/)
+- 🆕 **2026** · Altro · Radio Radicale - speaker index — [Interventi di Fabio Pietrosanti / Radio Radicale](https://www.radioradicale.it/soggetti/175095/fabio-pietrosanti)  
+  Speaker index lists e-privacy schede 558921, 543790, 512627, 490952 only (plus GlobaLeaks interview 342096, Presi per il Web, etc.): no further e-privacy recordings with him on Radio Radicale.
 - 🆕 **2026** · Progetto · Osservatorio Nazionale Sovranità Digitale — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) _(non verificato)_  
   Observatory site extending MxMap; his name not on the fetched page
 - 🆕 **2026** · Progetto · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit)  
@@ -134,7 +138,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 
-## 2022 — 46 voci, 46 nuove
+## 2022 — 50 voci, 50 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -174,8 +178,14 @@ Anni senza nessun risultato: nessuno
   Republishes his Think Tally Talk interview after the Garante's GA decision
 - 🆕 **2022-06-27** · Menzionato · Il Disinformatico (Paolo Attivissimo) — [Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola?](https://attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html)  
   Refers to the technique he used to document GA non-compliance
-- 🆕 **2022-06-16** · Talk · e-privacy XXX 2022 — [MonitoraPA: Attivismo digitale o attacco indiscriminato? (panel)](https://e-privacy.winstonsmith.org/e-privacy-XXX.html)  
-  With Valentina Longo, Marco Ciurcina, Andrea Lisi, Marco Calamari; moderated by Enrica Priolo
+- 🆕 **2022-06-17** · panel · e-privacy XXX (2022 summer), Firenze + online - Progetto Winston Smith — [MonitoraPA: Attivismo digitale o attacco indiscriminato? (tavola rotonda)](https://e-privacy.winstonsmith.org/e-privacy-XXX.html)  
+  Programme, Venerdì 17 giugno 2022 mattina (NOT 16 June as in media.json): 'Modera: Enrica Priolo Partecipano: Valentina Longo, Marco Ciurcina, Andrea Lisi, Fabio Pietrosanti (Hermes Center) e Marco Calamari'
+- 🆕 **2022-06-17** · Video · YouTube - Progetto Winston Smith — [e-privacy XXX - «Sospendiamo la privacy» - seconda giornata - mattina (MonitoraPA round table from 01:55:40)](https://www.youtube.com/watch?v=S21aHf5LCBc&t=6940s)  
+  Video description: '01:55:40 Tavola Rotonda Modera: Enrica Priolo Partecipano: ... Fabio Pietrosanti (Hermes Center) ... MonitoraPA: Attivismo digitale o attacco indiscriminato?'
+- 🆕 **2022-06-17** · Video · e-privacy XXX (2022 summer), Firenze + online - Progetto Winston Smith — [Self-hosted MKV of the same session (ep2022se_03 ... seconda_giornata_mattina)](https://e-privacy.winstonsmith.org/materiali/2022/video/ep2022se_03_e-privacy%20XXX_Sospendiamo_la_privacy_seconda_giornata_mattina-S21aHf5LCBc.mkv)  
+  HEAD 200, ~1.0 GB; linked from e-privacy-XXX.html; same recording as YouTube S21aHf5LCBc
+- 🆕 **2022-06-17** · Altro · e-privacy XXX (2022 summer), Firenze + online - Progetto Winston Smith — [e-privacy XXX - relatori (bio, anchor #naif)](https://e-privacy.winstonsmith.org/e-privacy-XXX-relatori.html#naif)  
+  Speakers page bio 'Fabio Pietrosanti (Hermes Center) ... soprannome "naif"'
 - 🆕 **2022-06-12** · Comunicato · Monitora PA — [Una passeggiata tra i fiori...](https://monitora-pa.it/2022/06/12/una-passeggiata-tra-i-fiori.html)  
   Round-up of PA replies to the Google Analytics PECs, addressed to 'Fabio Pietrosanti - MonitoraPA'
 - 🆕 **2022-05-30** · Menzionato · Monitora PA — [Ongoing hacks: giugno 2022](https://monitora-pa.it/2022/05/30/ongoing-hacks-202206.html)  
@@ -210,6 +220,8 @@ Anni senza nessun risultato: nessuno
   Cites 'l'analista Fabio Pietrosanti' and his Il Riformista interview on 2,700 Kaspersky-PA contracts
 - 🆕 **2022-03-06** · Articolo scritto · LinkedIn — [Eliminare Kaspersky dalle infrastutture IT in Europa è una priorità](https://www.linkedin.com/posts/activity-6906253703863427072-Xirm)  
   Post urging ACN to mandate Kaspersky replacement; date derived from post ID
+- 🆕 **2022-03-05** · Radio · Rai Radio1 - Eta Beta (listed on dicorinto.it) — [Intervista Arturo Di Corinto a RadioRaiUno - Eta Beta - 5 Marzo 2022](https://dicorinto.it/tipologia/interviste/intervista-arturo-di-corinto-a-radioraiuno-eta-beta-5-marzo-2022/)  
+  'Ospiti: Arturo Di Corinto...; Fabio Pietrosanti, presidente Centro Hermes per i diritti umani digitali; Stefano Mele...'
 - 🆕 **2022-03-05** · Radio · Rai Radio 1 - Eta Beta — [Eta Beta del 05/03/2022 - Guerre di rete, ecco chi sono i soldati del cyberspazio](https://www.raiplaysound.it/audio/2022/03/Eta-Beta-del-05032022-bfe193b3-3441-4fe7-875e-6d26d85e70f0.html)  
   Radio 1 Rai, conducted by Massimo Cerofolini (00:27:22), on cyberwar in the Ukraine war (Anonymous, GRU, Conti). Description: 'Ospiti: Arturo Di Corinto ...; Fabio Pietrosanti, presidente Centro Hermes per i diritti umani digitali; Stefano Mele ...'.
 - 🆕 **2022-03-02** · Menzionato · Il Riformista — [La sicurezza italiana in mano a Kaspersky, l'azienda: "Nessun legame con Putin". Ma i conti non tornano…](https://www.ilriformista.it/la-sicurezza-italiana-in-mano-a-kaspersky-lazienda-nessun-legame-con-putin-ma-i-conti-non-tornano-283463/)  
@@ -357,7 +369,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 21 voci, 21 nuove
+## 2019 — 24 voci, 24 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -375,6 +387,8 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …a e al microfono, quindi scattare foto e ascoltare conversazioni. Come proteggersi Difficile che la vittima si accorga di essere digitalmente pedinata, avverte Fabio Pietrosanti , co-fondatore del Centro Hermes per la tr…
 - 🆕 **2019-09-03** · Menzionato · The Vision — [Un governo deciso da un sondaggio online è la vergogna della democrazia italiana](https://thevision.com/politica/governo-rousseau-democrazia/)  
   Cites him (Hermes Center) noting Rousseau's Mozilla HTTP Observatory rating F during the Conte II Rousseau vote
+- 🆕 **2019-06-07** · Talk · e-privacy XXV (2019 summer), Torino, Cittadella Politecnica - Progetto Winston Smith — [Big Brother Award (slot by Hermes Center)](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) _(non verificato)_  
+  Programme (live and Wayback 2019-04-13): '12:20 0:30 Hermes Center for Transparency and Digital Human Rights - Big Brother Award' - no person named; no video file for this slot, no Radio Radicale entry for him. Presenter unknown.
 - 🆕 **2019-04-09** · Articolo scritto · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/)  
   With Stefano Aterno; listed on his author page
 - 🆕 **2019-03-13** · Audizione · Dipartimento della Funzione Pubblica - incontro 'FOIA: Che cosa non ha funzionato?' (via Hermes Center) — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/)  
@@ -387,6 +401,10 @@ Anni senza nessun risultato: nessuno
   Audio version of special episode on e-voting
 - 🆕 **2019-03-12** · Citato · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://hermescenter.github.io/crvd.org-preservation/i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/)  
   Quotes Fabio (director of Hermes, GlobaLeaks co-founder) on Rousseau/blockchain voting; restored site hermescenter/crvd.org-preservation (2026-09-18)
+- 🆕 **2019-03-09** · Menzionato · AGI (Arturo Di Corinto), mirrored on dicorinto.it — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://dicorinto.it/temi/diritti_digitali/agi-i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/)  
+  'netta è l'opinione di Fabio Pietrosanti, direttore di Hermes ... tra i fondatori di Globaleaks: "Nel caso di Rousseau non è tecnicamente possibile..."'
+- 🆕 **2019-03-09** · Citato · AGI - Agenzia Italia (blog Cybersecurity) — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://www.agi.it/blog-italia/cybersecurity/post/2019-03-09/blockchain_rousseau_voto_elettronico_casaleggio-5117572/)  
+  Original AGI piece (the crvd.org copy is already known); quoted on Rousseau/blockchain integrity and requirements for trustworthy non-electoral e-voting
 - 🆕 **2019-02-09** · Report · Copernicani — [Overlay Network Crittografici](https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/)  
   Copernicani working-group paper on crypto overlay networks / online voting; 'Gruppo di lavoro' lists Fabio Pietrosanti with Bertola, Quintarelli, Telmon, Zanero et al.; published_time 2019-02-09
 - 🆕 **2019-01-22** · Ricerca · code.videolan.org (VideoLAN GitLab, ex trac.videolan.org) — [VLC ticket #21805 «Enable full HTTPS redirecting old-client to an outdated page, explaining how to upgrade the browser»](https://code.videolan.org/videolan/vlc/-/work_items/21805)  
@@ -402,12 +420,14 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Video · YouTube (unverified channel) — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) _(non verificato)_  
   Seen in search results only; page not retrievable (year approximate)
 
-## 2018 — 52 voci, 52 nuove
+## 2018 — 61 voci, 61 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
-- 🆕 **2018-11-30** · Talk · e-privacy XXIV, Roma - Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/)  
-  Short interventions introducing and commenting a video on digital transparency
+- 🆕 **2018-11-30** · Talk · e-privacy XXIV (2018 autumn), Roma - Progetto Winston Smith — [Presentazione Big Brother Awards Italia 2019 (with video)](https://e-privacy.winstonsmith.org/e-privacy-XXIV.html) _(non verificato)_  
+  Programme row: '14:10 0:05 Winston Smith - Presentazione BBA 2019' (does not name him). Radio Radicale scheda 558921 shows 'Fabio Pietrosanti ... 14:24 (2 min 17 s)', 'Proiezione di un video 14:27', 'Fabio Pietrosanti 14:28 (1 min 45 s)' in that slot, so he presented the BBA 2019 launch.
+- 🆕 **2018-11-30** · Radio · Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/)  
+  'Fabio Pietrosanti fondatore del Centro Hermes ... 14:24 Durata: 2 min 17 sec' and '14:28 Durata: 1 min 45 sec'
 - 🆕 **2018-11-30** · Video · Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/xxiv-edizione-di-e-privacy-gdpr-vs-tecnologie-emergenti-prima-giornata)  
   e-privacy XXIV autumn edition
 - 🆕 **2018-10-29** · Talk · Copernicani / P&R Foundation (Rome) — [Presentazione del Libro Bianco della partecipazione politica digitale dei Copernicani](http://www.pr-foundation.org/presentato-roma-libro-bianco-della-partecipazione-politica-digitale-dei-copernicani/)  
@@ -432,14 +452,30 @@ Anni senza nessun risultato: nessuno
   Already known (via LinkedIn Pulse by Paola Guarnieri). The original Radio 1 segment was not found on RaiPlay Sound: GR bulletins are not itemised, and RaiPlay Sound started returning HTTP 403 during the scan.
 - 🆕 **2018-07-25** · Altro · EDRi (European Digital Rights) — [Member in the Spotlight: Hermes Center](https://edri.org/our-work/member-in-the-spotlight-hermes-center/) _(non verificato)_  
   Hermes Center guest profile (his organisation); no name mention
+- 🆕 **2018-07-10** · Menzionato · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://cybersecurity.startupitalia.eu/61414-20180710-cyberchallenge-2018-la-nuova-generazione-hacker-etici)  
+  Report: 'Arturo di Corinto, che, in veste di presentatore ha introdotto Fabio Pietrosanti, hacker etico e cyberdefender professionista'; paraphrases Fabio 'Naif' on hacker ethics and cites hackmeeting, Italian Hacker Camp, RomHack, HackInBo; Roberto Baldoni (vice-director DIS) quoted. Ceremony at Museo di Arte Classica, Sapienza.
+- 🆕 **2018-06-29** · Menzionato · StartupItalia — [Cyberchallenge 2018: la gara finale e la premiazione](https://startupitalia.eu/61355-20180629-cyberchallenge-2018-la-finale) _(non verificato)_  
+  Fetched: does not name Pietrosanti.
+- 🆕 **2018-06-28** · Talk · CyberChallenge.IT 2018 award ceremony, Sapienza Università di Roma, Aula Odeion - Museo dell'Arte Classica (CINI Cybersecurity National Lab) — [Cyberchallenge.IT 2018: cerimonia di premiazione il 28 giugno a Roma (programme announcement)](https://www.consorzio-cini.it/index.php/it/labcs-home/labcs-news/1348-cerimonia-di-premiazione-dei-vincitori-di-cyberchallenge-it)  
+  CINI: 28 June 2018, 9:00-13:15, Aula Odeion, Museo dell'Arte Classica, Città Universitaria, P.le Aldo Moro 5; 'Proseguirà con interventi di Fabio Pietrosanti, Hermes Center, delle aziende sponsor platinum...'
+- 🆕 **2018-06-21** · Menzionato · Askanews — [CyberChallenge, il 28 giugno la premiazione dei vincitori](http://www.askanews.it/cronaca/2018/06/21/cyberchallenge-il-28-giugno-la-premiazione-dei-vincitori-pn_20180621_00117/)  
+  'Seguiranno gli interventi ... di: Camil Demetrescu; Roberto Baldoni (vice direttore DIS); Francesco Vestito (CIOC); Fabio Pietrosanti dell'Hermes Center for Transparency and Digital Human Rights'
+- 🆕 **2018-06-21** · Menzionato · CyberSecurity Italia (cybersecitalia.it) — [CyberChallenge.it, il 28 giugno la premiazione](https://www.cybersecitalia.it/cyberchallenge-it-il-28-giugno-la-premiazione/6486/)  
+  Same speaker list as Askanews, naming 'Fabio Pietrosanti dell'Hermes Center for Transparency and Digital Human Rights'
+- 🆕 **2018-06-13** · Video · YouTube - Università Parthenope — [La premiazione degli studenti protagonisti di 'Cyber Challenge 2018'](https://www.youtube.com/watch?v=IQvqrmG_YE4) _(non verificato)_  
+  Local Naples (Parthenope) ceremony; description does not name him - not his event.
 - 🆕 **2018-06-08** · Progetto · Big Brother Awards Italia (Progetto Winston Smith / Centro Hermes) — [Big Brother Awards Italia 2018](https://bba.winstonsmith.org/)  
   Official BBAI 2018 page: award organised by Centro Hermes with Privacy International; Fabio Pietrosanti listed as contact (ceremony at e-privacy Bologna)
-- 🆕 **2018-06-08** · Talk · e-privacy XXIII, Bologna - Radio Radicale — [Singolarita: IoT, A.I., fake news e bolle informative - e-privacy XXIII - Big Brother Awards](https://www.radioradicale.it/scheda/543790/)  
-  Presented Big Brother Awards Italia 2018 with Marco Calamari and Emmanuele Somma
+- 🆕 **2018-06-08** · Talk · e-privacy XXIII (2018 summer), Bologna, Biblioteca Salaborsa - Progetto Winston Smith — [Big Brother Awards Italia 2018 (assegnazione)](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html)  
+  Programme: '15:00 25 Big Brother Awards Fabio Pietrosanti (HERMES Center)'; BBA 2018 'a cura del Centro HERMES'
+- 🆕 **2018-06-08** · Video · e-privacy XXIII (2018 summer), Bologna, Biblioteca Salaborsa - Progetto Winston Smith — [Big Brother Awards Italia 2018 - video (ep2018se_20_bba_awards.mp4)](https://urna.winstonsmith.org/materiali/2018/video/ep2018se_20_bba_awards.mp4)  
+  HEAD 200, video/mp4, 237 MB; video icon on the BBA row assigned to Fabio Pietrosanti in the XXIII programme
+- 🆕 **2018-06-08** · Altro · e-privacy XXIII (2018 summer), Bologna, Biblioteca Salaborsa - Progetto Winston Smith — [e-privacy XXIII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXIII-relatori.html)  
+  Speakers page bio 'Fabio Pietrosanti (HERMES Center) ... soprannome "naif"'
+- 🆕 **2018-06-08** · Radio · Radio Radicale — [Singolarità ... - XXIII edizione di e-privacy (prima giornata)](https://www.radioradicale.it/scheda/543790/)  
+  'Big Brother Awards - Fabio Pietrosanti fondatore del Centro Hermes ..., Marco Calamari, Emmanuele Somma 15:22'
 - 🆕 **2018-06-08** · Video · Radio Radicale — [Singolarità. Come l'IoT, l'A.I., le fake news e le bolle informative ci obbligano a ripensare il concetto di privacy - XXIII edizione di e-privacy](https://www.radioradicale.it/scheda/543790/singolarita-come-liot-lai-le-fake-news-e-le-bolle-informative-ci-obbligano-a-ripensare)  
   e-privacy 2018 Bologna; presented Big Brother Awards Italia 2018
-- 🆕 **2018-06-08** · Talk · e-privacy 2018 (XXIII, Bologna) — [Big Brother Awards Italia 2018](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html)  
-  Presented the Big Brother Awards Italia 2018
 - 🆕 **2018-05-26** · Comunicato · Copernicani — [Hermes Center sostiene l'Appello per il Ministro per il digitale!](https://copernicani.it/blog/2018/05/26/hermes-center-sostiene-lappello-per-il-ministro-per-il-digitale/) _(non verificato)_  
   Hermes Center (his association) endorses the Copernicani appeal; his name not on the captured page (Wayback 20210120 of www. variant)
 - 🆕 **2018-05-18** · Citato · Copernicani — [Un Ministro per il Digitale: i sostenitori del nostro appello](https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/)  
@@ -509,7 +545,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 68 voci, 68 nuove
+## 2017 — 73 voci, 73 nuove
 
 - 🆕 **2017-12-28** · Talk · 34C3 Chaos Communication Congress, Leipzig (Rights & Freedoms stage, CCL Hall 3) — [Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', 'Digital Anonimity for Whistleblowing', 'Are NAT translations respecting proportionality and data retention principles?', 'How to use public procurement datasets to monitor government surveillance capabilities'](https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms) _(non verificato)_  
   Four Hermes Center slots 28-30 Dec 2017; speakers not named on the page - his personal involvement NOT confirmed (NAT/data-retention topic matches Hermes 2017 campaigns)
@@ -537,6 +573,8 @@ Anni senza nessun risultato: nessuno
   Hermes Center FOIA on Smartmatic e-voting denied; Pietrosanti: 'security through obscurity', strategic litigation
 - 🆕 **2017-10-19** · Report · Hermes Center (hermescenter.org) — [Le richieste FOIA sul Voto Elettronico Lombardia 2017](https://www.hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/) _(non verificato)_  
   Hermes FOIA dossier on Smartmatic voting machines (service agreements with Wincor Nixdorf/BV Tech attached); now 404, archived in Wayback (CDX confirmed) but snapshot not openable during this pass; date approximate
+- 🆕 **2017-10-13** · Menzionato · e-privacy XXII (2017 autumn), Venezia, Tribunale di Rialto - Progetto Winston Smith — [e-privacy XXII - relatori page lists his bio](https://e-privacy.winstonsmith.org/e-privacy-XXII-relatori.html) _(non verificato)_  
+  Speakers page contains the 'Fabio Pietrosanti (HERMES)' bio, but the XXII programme (live page and Wayback 2017-10-07) has no slot for him and Radio Radicale has no XXII entry for him; most likely a bio carried over from the XXI page. Treat as not present.
 - 🆕 **2017-10-07** · workshop · Freedom Not Fear 2017, Brussels (Mundo B) — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule)  
   Official FNF 2017 timetable (AK Vorrat wiki, linked from freedomnotfear.org 'Wiki / Archive'): Saturday 7 Oct 2017, 15:45–17:00 'late afternoon session', conference room (35+ people): 'Government hacking and trojan • Fabio'. Parallel sessions: Aral Balkan (tracker blocking, Kamilou café), Rejo Zenger/Bits of Freedom (bodycams). Session added on the day by user Padeluun (rev 130127, 2017-10-07T12:36Z, i.e. during the kick-off plenary); permalink https://wiki.vorratsdatenspeicherung.de/index.php?oldid=130129. Only the first name 'Fabio' is given (no surname/org); attribution to Pietrosanti is a strong inference (topic matches his/Hermes' 2017 Italian trojan-law advocacy and his CPDP 2018 Brussels 'Government hacking' roundtable 3 months later), not stated on the page. No other 'Fabio' appears in any FNF 2011–2019 wiki page. — confirmed by Fabio 2026-09-18
 - 🆕 **2017-10** · Menzionato · linkiesta.it — [DIG raddoppia e a fine ottobre porta a Milano il meglio del giornalismo investigativo internazionale - Linkiesta.it](https://www.linkiesta.it/2017/10/dig-raddoppia-e-a-fine-ottobre-porta-a-milano-il-meglio-del-giornalism/)  
@@ -583,12 +621,20 @@ Anni senza nessun risultato: nessuno
   Opened by naif; start of the 2017 VideoLAN HTTPS campaign ('trollata sul TLS'); closed as duplicate by J-B Kempf next day after a 26-comment flame (Kempf, etix, Remi Denis-Courmont vs naif). Trac copy on Wayback 20210502015439
 - 🆕 **2017-06-30** · Ricerca · GitHub videolabs/mirrorbits — [mirrorbits #59 «Enforce HTTPS for distribution of software as a security measure against targeted malware attacks»](https://github.com/videolabs/mirrorbits/issues/59)  
   Opened by fpietrosanti; 19 comments with VLC/Kodi devs (etix, jbkempf, Kodi team); ends with etix 'Now that's enough.'
-- 🆕 **2017-06-23** · Talk · e-privacy 2017 summer edition, Lucca - Radio Radicale — [e-privacy 2017 summer - Parole (ostili) contro la Rete: l'involuzione della percezione della Rete (prima giornata)](https://www.radioradicale.it/scheda/512627/)  
-  Interventions on monitoring government surveillance via transparency laws; event co-organized by Hermes
+- 🆕 **2017-06-23** · Talk · e-privacy XXI (2017 summer), Lucca, Real Collegio - Progetto Winston Smith — [Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza (with Riccardo Coluccini)](https://e-privacy.winstonsmith.org/e-privacy-XXI.html)  
+  Programme: '11:00 Riccardo Coluccini e Fabio Pietrosanti (Hermes) Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza'
+- 🆕 **2017-06-23** · Slide · e-privacy XXI (2017 summer), Lucca, Real Collegio - Progetto Winston Smith — [Monitoring Government Surveillance Capabilities by means of Transparency tools (slides PDF)](https://urna.winstonsmith.org/materiali/2017/atti/ep2017se_14_coluccini_pietrosanti_monitorare_sorveglianza_governativa.pdf)  
+  Fetched (3.25 MB). Title slide: 'Riccardo Coluccini @ORARiccardo Fabio Pietrosanti @fpietrosanti e-Privacy XXI 23-24 Giugno 2017'; contact fabio.pietrosanti@logioshermes.org
+- 🆕 **2017-06-23** · Slide · e-privacy XXI (2017 summer), Lucca, Real Collegio - Progetto Winston Smith — [Monitorare la sorveglianza governativa - handout (PDF)](https://urna.winstonsmith.org/materiali/2017/atti/ep2017se_14_coluccini_pietrosanti_monitorare_sorveglianza_governativa_handout.pdf)  
+  HEAD 200, application/pdf, 4.2 MB; handout icon next to his talk; filename names him
+- 🆕 **2017-06-23** · Altro · e-privacy XXI (2017 summer), Lucca, Real Collegio - Progetto Winston Smith — [e-privacy XXI - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXI-relatori.html)  
+  Speakers page bio 'Fabio Pietrosanti (HERMES) Fabio Pietrosanti frequenta, con il soprannome "naif" ...'
+- 🆕 **2017-06-23** · Radio · Radio Radicale — [e-privacy 2017 summer edition - Parole (ostili) contro la Rete (prima giornata)](https://www.radioradicale.it/scheda/512627/)  
+  Interventions: 'Fabio Pietrosanti fondatore del Centro Hermes ... 11:19 Durata: 2 min 34 sec' and '11:23 Durata: 3 min 8 sec' (alternating with Coluccini)
 - 🆕 **2017-06-23** · Video · Radio Radicale — [e-privacy 2017 summer edition - Parole (ostili) contro la Rete: l'involuzione della percezione della Rete (prima giornata)](https://www.radioradicale.it/scheda/512627/e-privacy-2017-summer-edition-parole-ostili-contro-la-rete-linvoluzione-della)  
   Lucca; with Riccardo Coluccini on monitoring government surveillance via transparency laws
-- 🆕 **2017-06-23** · Talk · e-privacy 2017 summer (XXI, Lucca) — [Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza](https://e-privacy.winstonsmith.org/e-privacy-XXI.html)  
-  With Riccardo Coluccini (Hermes)
+- 🆕 **2017-06-08** · Altro · CINI - Laboratorio Nazionale di Cybersecurity — [Il Laboratorio Nazionale di Cybersecurity ... con il CIS Sapienza premia i giovani hacker della Cyberchallenge (2017, first edition)](https://www.consorzio-cini.it/index.php/it/labcs-home/labcs-news/1191-il-laboratorio-nazionale-di-cybersecurity-presenta-a-roma-la-relazione-annuale-delle-attivita-svolte-e-con-il-cis-sapienza-premia-i-giovani-hacker-della-cyberchallenge) _(non verificato)_  
+  2017 (first-edition) ceremony at Sapienza with Baldoni; page does NOT name Pietrosanti - the event he recalls is the 2018 one.
 - 🆕 **2017-05-30** · Comunicato · Hermes Center — [Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE](https://web.archive.org/web/20200607012151/https://www.hermescenter.org/sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise/)  
   FOIA on surveillance-tech export licences sent by president Fabio Pietrosanti; review request (Wayback; old Hermes site removed)
 - 🆕 **2017-04-21** · Ricerca · GitHub ooni/probe — [OONI probe #747 «Introduce support for HTTPS security measurement»](https://github.com/ooni/probe/issues/747)  
@@ -658,12 +704,12 @@ Anni senza nessun risultato: nessuno
   Panel on intelligence, privacy and anti-terrorism; mass surveillance concerns
 - 🆕 **2016-11-18** · Video · Radio Radicale — [Terza edizione di "How Can We Govern Europe?"](https://www.radioradicale.it/scheda/492422/terza-edizione-di-how-can-we-govern-europe)  
   Eunews conference; panel on intelligence, privacy and antiterrorism in Europe
-- 🆕 **2016-11-05** · Talk · e-privacy XX (2016) Roma - Radio Radicale — [e-privacy XX (2016) - Privacy ed antiterrorismo (2a giornata) - Tavola Rotonda: Captatori Informatici](https://www.radioradicale.it/scheda/490952/)  
-  Round table on state trojans (captatori informatici) and their regulation
+- 🆕 **2016-11-05** · panel · e-privacy XX (2016 autumn), Roma, Campidoglio - Sala del Carroccio - Progetto Winston Smith — [Tavola Rotonda Captatori Informatici](https://e-privacy.winstonsmith.org/e-privacy-XX.html)  
+  Programme: 'Tavola Rotonda Captatori Informatici: (Modera: Marco Calamari) Fabio Pietrosanti, Carlo Blengino, Giovanni Battista Gallus, Andrea Ghirardini, Francesco Paolo Micozzi'
+- 🆕 **2016-11-05** · Radio · Radio Radicale — [e-privacy XX (2016) - Privacy ed antiterrorismo (2a ed ultima giornata)](https://www.radioradicale.it/scheda/490952/)  
+  Intervention index: 'Fabio Pietrosanti fondatore del Centro Hermes ... 12:38 Durata: 3 min 50 sec' within the Tavola Rotonda Captatori Informatici
 - 🆕 **2016-11-05** · Video · Radio Radicale — [e-privacy XX (2016) - Privacy ed antiterrorismo: un equilibrio reale tra obbiettivi apparentemente inconciliabili è possibile? (seconda giornata)](https://www.radioradicale.it/scheda/490952/e-privacy-xx-2016-privacy-ed-antiterrorismo-un-equilibrio-reale-tra-obbiettivi)  
   e-privacy XX Rome; roundtable on government trojans (captatori informatici)
-- 🆕 **2016-11-05** · Talk · e-privacy XX 2016 (Roma) — [Tavola Rotonda Captatori Informatici](https://e-privacy.winstonsmith.org/e-privacy-XX.html)  
-  With Blengino, Gallus, Ghirardini, Micozzi; moderated by Marco Calamari
 - 🆕 **2016-09-12** · Menzionato · repubblica.it — ["Non date colpa all'algoritmo", errore umano alla base della censura social](https://www.repubblica.it/tecnologia/sicurezza/2016/09/12/news/_non_date_colpa_all_algoritmo_errore_umano_alla_base_della_censura_social-147611556/)  
   verified via wayback; context: …ione. Perché a differenza della pedopornografia, più facilmente identificabile, il concetto di "estremista" ricade in uno spettro più ampio. Sulla stessa linea Fabio Pietrosanti , cofondatore del Centro Hermes per la tra…
 - 🆕 **2016-08-19** · Talk · MOCA 2016 - Metro Olografix Camp (Pescara) — [GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani](https://moca2016.olografix.org/it/employees/fabio-naif-pietrosanti/)  
@@ -691,7 +737,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · Progetto · Whistleblowing Solutions Impresa Sociale — [Whistleblowing Solutions Impresa Sociale S.r.l. founded to sustain GlobaLeaks](https://whistleblowing.it/en/about-us/) _(non verificato)_  
   Social enterprise founded in 2016 to give GlobaLeaks economic sustainability; later runs WhistleblowingIT/WhistleblowingPA
 
-## 2015 — 30 voci, 30 nuove
+## 2015 — 32 voci, 32 nuove
 
 - 🆕 **2015-10-20** · Podcast · Pirate's Night Show #5 (YouTube livestream) — [Pirate's Night Show #5 - Tor e Privacy con Fabio Pietrosanti (Naif)](https://www.youtube.com/watch?v=P-jGzZwzu3U)  
   Livestreamed talk show on Tor and privacy
@@ -703,8 +749,12 @@ Anni senza nessun risultato: nessuno
   Italian Hacker Embassy village at CCCamp15: Naif listed as member, sponsorship 'C/O Fabio Pietrosanti'
 - 🆕 **2015-07-16** · Citato · la Repubblica (Repubblica.it Tecnologia) — [Tante aziende e poche regole: il Far West della sorveglianza digitale](https://www.repubblica.it/tecnologia/sicurezza/2015/07/16/news/tante_aziende_poche_regole_il_far_west_dell_intelligence-119217185/)  
   Rosita Rijtano, post Hacking Team leak; extensively quoted as Hermes Center co-founder on surveillance vendors
-- 🆕 **2015-07-03** · Talk · e-privacy XVII (Camera dei Deputati, Roma) — [Apertura lavori](https://e-privacy.winstonsmith.org/e-privacy-XVII.html)  
-  Opened the e-privacy 2015 conference 'La trasparenza e la privacy' as president of Hermes Center
+- 🆕 **2015-07-03** · Talk · e-privacy XVII (2015), Roma, Camera dei Deputati - Progetto Winston Smith — [Apertura lavori (seconda giornata)](https://e-privacy.winstonsmith.org/e-privacy-XVII.html)  
+  Programme: 'Venerdì 3 Luglio 2015 ... 9:00 Fabio Pietrosanti Hermes Center for Transparency and Digital Human Rights - Apertura lavori'. CAVEAT: the Radio Radicale recording of that morning (scheda 447017) shows the day opened at 9:05 by Marco Calamari and Emmanuele Somma and does not list Pietrosanti among the speakers - scheduled, delivery not confirmed.
+- 🆕 **2015-07-03** · Altro · e-privacy XVII (2015), Roma, Camera dei Deputati - Progetto Winston Smith — [e-privacy XVII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XVII-relatori.html)  
+  Speakers page has bio 'Fabio Pietrosanti (HERMES) ... frequenta con il soprannome "naif" l'underground ...'
+- 🆕 **2015-07-03** · Radio · Radio Radicale — [XVII edizione di e-privacy 2015 spring edition - seconda e conclusiva giornata (3.07.2015)](https://www.radioradicale.it/scheda/447017/) _(non verificato)_  
+  Recording of the day he was scheduled to open; speaker list (Somma, Calamari, Vieri, Vacca, Del Vecchio, Agosti, ...) does NOT include Pietrosanti. Day 1 (scheda 446735) does not name him either ('Valentina Pietrosanti' there is the Radio Radicale curator, not him).
 - 🆕 **2015-06-20** · Progetto · CCC Camp 2015 Wiki — [Projects:GlobaLeaks](https://events.ccc.de/camp/2015/wiki/Projects:GlobaLeaks)  
   Chaos Communication Camp 2015 project page edited by Fabio Pietrosanti (naif)
 - 🆕 **2015-04-28** · Report · Defense Technical Information Center (DTIC ADA623038) / Tor Project tech report — [Hidden-service Statistics Reported by Relays](https://archive.org/details/DTIC_ADA623038)  
@@ -807,7 +857,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2014-01-22** · Citato · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/)  
   Quoted as security and telephony expert on mobile location tracking of protesters
 
-## 2013 — 32 voci, 32 nuove
+## 2013 — 33 voci, 33 nuove
 
 - 🆕 **2013-12-30** · Citato · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/)  
   John Borland's 30C3 report; quotes him on GlobaLeaks and on media groups wanting to copy the Dutch Publeaks model; photo with Claudio Agosti
@@ -871,13 +921,21 @@ Anni senza nessun risultato: nessuno
   Video of IJF12 session (listed on his IJF speaker page)
 - 🆕 **2013-01-25** · Comunicato · Hermes Center / Skype open letter — [[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”](https://web.archive.org/web/2015/http://logioshermes.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/) _(non verificato)_  
   Hermes Center (which he co-founded) among signatories of the international open letter to Skype/Microsoft; he is not named in the text
+- 🆕 **2013** · Altro · dicorinto.it (Regionali 2013 blog) - 'La notte che bruciammo Chrome' — [Dibattito su Civic Whistleblowing (Agosti, Di Corinto, Filastò, Pietrosanti) + presentazione Lazioleaks](https://dicorinto.it/regionali2013/la-notte-che-bruciammo-chrome/)  
+  Event listing: 'h 20:30 Dibattito su Civic Whistleblowing intervengono: Claudio Agosti, Arturo Di Corinto, Arturo Filastò, Fabio Pietrosanti // Presentazione Lazioleaks'. Exact date not shown on the page (2013 Lazio regional campaign).
 - 🆕 **2013** · Altro · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/)  
   PDF speaker database entry, no sessions listed (year approximate)
 
-## 2012 — 23 voci, 23 nuove
+## 2012 — 28 voci, 28 nuove
 
-- 🆕 **2012-11-19** · Talk · e-privacy XII (Politecnico di Torino) — [Sicurezza e controllo (panel chair)](https://e-privacy.winstonsmith.org/e-privacy-XII.html)  
-  Chaired the security & surveillance panel; also on the scientific committee (Hermes Center)
+- 🆕 **2012-11-19** · panel · e-privacy XII (2012 winter edition), Torino, Politecnico di Torino - Progetto Winston Smith — [Sicurezza e controllo (tavola rotonda) - moderator](https://e-privacy.winstonsmith.org/e-privacy-XII.html)  
+  Programme: '16:20 17:20 Sicurezza e controllo | Fabio Pietrosanti [Chairman column] | Mauro Alovisio / Chiara Fonio / Epto'; 'Fabio Pietrosanti - Hermes center for transparency and digital human rights'
+- 🆕 **2012-11-19** · Altro · e-privacy XII (2012 winter edition), Torino, Politecnico di Torino - Progetto Winston Smith — [Comitato scientifico e-privacy XII (old-site page)](https://e-privacy.winstonsmith.org/materiali/2012we/)  
+  Old-site page: 'Comitato Scientifico ... Fabio Pietrosanti (Progetto Winston Smith)'; also 'Moderatore: Fabio Pietrosanti - Hermes center...' for Sicurezza e controllo
+- 🆕 **2012-11-19** · Altro · e-privacy XII (2012 winter edition), Torino, Politecnico di Torino - Progetto Winston Smith — [Programma e-privacy 2012 winter edition (epwe2012_programma.pdf)](https://e-privacy.winstonsmith.org/materiali/2012we/epwe2012_programma.pdf)  
+  PDF: '16.20-17.20 SICUREZZA E CONTROLLO (tavola rotonda) Moderatore: Fabio Pietrosanti (Hermes center for transparency and digital human rights)'
+- 🆕 **2012-11-19** · Radio · e-privacy XII (2012 winter edition), Torino, Politecnico di Torino - Progetto Winston Smith — [Sicurezza e controllo - audio of the round table (MP3)](https://urna.winstonsmith.org/materiali/2012we/audio/Sicurezza_e_controllo.mp3)  
+  HEAD 200, audio/mpeg, 64 MB; linked from the 'Sicurezza e controllo' session he moderated. Related IA items pws_e-privacy_2012a_1p05_alovisio_... and 1p06_fonio_... contain only the panelists' PDFs and do not name him.
 - 🆕 **2012-09-13** · Libro · Dutton (Penguin), New York — [This Machine Kills Secrets: How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information](https://archive.org/details/thismachinekills0000gree)  
   Andy Greenberg (Forbes). Portrays 'Fabio Pietrosanti and Arturo Filastò, the cofounders of GlobaLeaks' and their 'worldwide, distributed leak amplification network'; describes Pietrosanti as a thirty-year-old security engineer and quotes him on expanding the leaking movement. Confirmed via Internet Archive full-text snippets.
 - 🆕 **2012-09** · Paper · arXiv:1209.6398 — [The Hidden Internet of Iran: Private Address Allocations on a National Network](https://arxiv.org/pdf/1209.6398)  
@@ -886,20 +944,24 @@ Anni senza nessun risultato: nessuno
   Acknowledgments thank 'Fabio Pietrosanti for helping with the experiments'
 - 🆕 **2012-07-01** · Ricerca · Tor Project GitLab (ex trac) — [Tor #6268 «Implement user-defined SSL Ciphers and TLS version»](https://gitlab.torproject.org/tpo/core/tor/-/work_items/6268)  
   Opened by naif: configurable ciphers/TLS versions against TLS-fingerprint censorship
+- 🆕 **2012-06-30** · Talk · Hackmeeting 2012 (HackIt 0x0F), L'Aquila — [GlobaLeaks](https://www.hackmeeting.org/hackit12/seminari.html) _(non verificato)_  
+  Seminari: 'GlobaLeaks', Saturday 30, h19, 1 ora, 'Oratore: some (random globaleaks contributor)'. Pietrosanti not named. On the same day at h18: 'Aquileaks/Santagnese' (boyska, vincent) on local whistleblowing.
 - 🆕 **2012-06-27** · Menzionato · WikiLeaks - Hacking Team emails (published 2015) — [Re: Loccatelli e pietrosanti al festival del giornalismo di perugia](https://wikileaks.org/hackingteam/emails/emailid/577214)  
   Follow-up Hacking Team email forwarding the same discussion of his IJF 2012 panel
 - 🆕 **2012-06-26** · Menzionato · WikiLeaks - Hacking Team emails (published 2015) — [Fwd: Loccatelli e pietrosanti al festival del giornalismo di perugia](https://wikileaks.org/hackingteam/emails/emailid/578178)  
   Leaked Hacking Team thread: CEO Vincenzetti comments on his IJF 2012 panel, calls him a former collaborator at Intesis and 'rather objective'
-- 🆕 **2012-06-21** · Talk · e-privacy XI (Milano, Università degli Studi) — [Tor Hidden Services / Tor2web - session: La privacy nella gestione delle fonti d'informazione critiche: whistleblowing, anonimato, Tor, GlobaLeaks](https://e-privacy.winstonsmith.org/e-privacy-XI.html)  
-  Talk on Tor hidden services and Tor2web at Progetto Winston Smith's e-privacy 2012
-- 🆕 **2012-06-21** · Ricerca · e-privacy XI - proceedings — [Pietrosanti_Tor2web (slides)](http://urna.winstonsmith.org/materiali/2012/atti/Pietrosanti_Tor2web.pdf) _(non verificato)_  
-  Slides of his e-privacy 2012 talk on Tor2web, linked from the programme page (PDF not fetched)
-- 🆕 **2012-06-21** · Slide · Internet Archive (PWS e-privacy archive) — [La privacy nella gestione delle fonti d'informazione critiche: whistleblowing, anonimato, Tor, GlobaLeaks](https://archive.org/details/pws_e-privacy_2012s_1m03_pietrosanti_la-privacy-nella-gestione-delle-fonti-d-informazione)  
-  Archived materials of e-privacy 2012 session
+- 🆕 **2012-06-21** · Talk · e-privacy XI (2012), Milano, Università degli Studi - Progetto Winston Smith — [Tor Hidden Services / Tor2web - in session 'La privacy nella gestione delle fonti d'informazione critiche: whistleblowing, anonimato, Tor, GlobaLeaks'](https://e-privacy.winstonsmith.org/e-privacy-XI.html)  
+  Programme Thu 21 June 09:30-11:00, chair Marco Calamari; 'Claudio Agosti / Arturo Filastò / Fabio Pietrosanti / Stefano Mele / Leonarco Maccari'. BBA Italia 2012 ceremony held at the conference (no role for him found).
+- 🆕 **2012-06-21** · Slide · e-privacy XI (2012), Milano, Università degli Studi - Progetto Winston Smith — [Past, Present, Future of Anonymous Publishing Infrastructure (Pietrosanti_Tor2web.pdf)](https://urna.winstonsmith.org/materiali/2012/atti/Pietrosanti_Tor2web.pdf)  
+  Fetched (538 KB). Title slide: 'Fabio Pietrosanti e-privacy 2012 naif@globaleaks.org Milano 21-06-2012 / Past, Present, Future of Anonymous Publishing Infrastructure'
+- 🆕 **2012-06-21** · Altro · e-privacy XI (2012), Milano, Università degli Studi - Progetto Winston Smith — [Programma E-Privacy 2012 (PDF)](https://e-privacy.winstonsmith.org/materiali/2012/Programma_E-Privacy-2012.pdf)  
+  Programme PDF contains his abstract on Tor hidden services / tor2web under 'Fabio Pietrosanti'
+- 🆕 **2012-06-21** · Altro · e-privacy XI (2012), Milano, Università degli Studi - Progetto Winston Smith — [Flyer E-Privacy 2012 (PDF)](https://e-privacy.winstonsmith.org/materiali/2012/Flyer_E-Privacy-2012.pdf)  
+  Flyer: session chairman Marco Calamari with 'Claudio Agosti Arturo Filastò Fabio Pietrosanti Stefano Mele Leonardo Maccari'
+- 🆕 **2012-06-21** · Slide · Internet Archive (PWS e-privacy archive) — [La privacy nella gestione delle fonti d'informazione critiche (IA item, Pietrosanti_Tor2web.pdf)](https://archive.org/details/pws_e-privacy_2012s_1m03_pietrosanti_la-privacy-nella-gestione-delle-fonti-d-informazione)  
+  IA creator 'Fabio Pietrosanti'; single file Pietrosanti_Tor2web.pdf (no audio/video in the item)
 - 🆕 **2012-06-13** · Menzionato · Il Fatto Quotidiano — [Hacks Hackers, nuove tecnologie e giornalismo questa sera a Milano](https://www.ilfattoquotidiano.it/2012/06/13/hacks-hackers-nuove-tecnologie-e-giornalismo-questa-sera-a-milano/261989/)  
   Announces Hacks/Hackers Milano meetup with Claudio Agosti and Fabio Pietrosanti of GlobaLeaks as guests
-- 🆕 **2012-06** · Altro · e-privacy 2012 conference programme (Progetto Winston Smith), Florence — [Programma e-privacy 2012](https://e-privacy.winstonsmith.org/materiali/2012/Programma_E-Privacy-2012.pdf)  
-  Conference programme PDF listing the talk abstract by 'Fabio Pietrosanti' on Tor hidden services / Tor2web ('I Tor hidden service sono una tecnologia molto flessibile...'). This is the same event as the known atti PDF urna.winstonsmith.org/materiali/2012/atti/Pietrosanti_Tor2web.pdf and the known e-privacy pages, so it may be a duplicate.
 - 🆕 **2012-05-01** · Video · Il Fatto Quotidiano — [Festival del Giornalismo 2012, il videodiario](https://www.ilfattoquotidiano.it/2012/05/01/festival-giornalismo-2012-videodiario/214235/)  
   IJF 2012 video diary: 'ci siamo fatti mettere in guardia dall'esperto di sicurezza informatica Fabio Pietrosanti'
 - 🆕 **2012-04-28** · Talk · International Journalism Festival (Perugia) — [Techniques of dissidence and digital repression](https://www.journalismfestival.com/programme/2012/techniques-of-dissidence-and-digital-repression-2)  
@@ -923,7 +985,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2012** · Talk · International Journalism Festival 2012 — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2012/firewalls)  
   IJF12 Perugia session
 
-## 2011 — 28 voci, 25 nuove
+## 2011 — 27 voci, 24 nuove
 
 - 🆕 **2011-12-28** · Talk · 28C3 Chaos Communication Congress, Berlin — [Tor2web workshop](https://events.ccc.de/congress/2011/wiki/Tor2web) _(non verificato)_  
   Tor2web workshop run by the GlobaLeaks team; his name is not on the page
@@ -973,8 +1035,6 @@ Anni senza nessun risultato: nessuno
   Open-source ZRTP implementation release
 - 🆕 **2011-01-12** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [ZORG, new C++ and Java ZRTP implementation public release](https://web.archive.org/web/2012/http://infosecurity.ch/20110112/zorg-new-c-and-java-zrtp-implementation-public-release/)  
   Post on his personal blog (site offline; Wayback copy)
-- 🆕 **2011** · Altro · Radio Radicale — [Interventi di Fabio Pietrosanti (person archive page)](https://www.radioradicale.it/soggetti/175095/fabio-pietrosanti)  
-  Radio Radicale person index: 21 recordings 2011-2021
 - 🆕 **2011** · Wiki · Wikipedia (en) — [GlobaLeaks](https://en.wikipedia.org/wiki/GlobaLeaks)  
   Named among key figures of first development; cites his 2010 Full Disclosure post
 - 🆕 **2011** · Talk · vicino/lontano festival (Udine) — [Fabio Pietrosanti - ospite](https://www.vicinolontano.it/ospiti/fabio-pietrosanti/)  
@@ -982,7 +1042,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2011** · Progetto · GitHub — [fpietrosanti (Fabio (naif) Pietrosanti)](https://github.com/fpietrosanti)  
   GitHub profile, company Hermes Center
 
-## 2010 — 53 voci, 48 nuove
+## 2010 — 57 voci, 49 nuove
 
 - 🆕 **2010-11-02** · Talk · SlideShare (PrivateWave Italia) — [Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryption AGT)](https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072)  
   Slides by Fabio Pietrosanti, CTO PrivateWave (PrivateGSM, ZRTP); date from upload
@@ -1036,6 +1096,10 @@ Anni senza nessun risultato: nessuno
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2010-06-13** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [IOScat – a Port of Netcat to Cisco IOS](https://web.archive.org/web/2012/http://infosecurity.ch/20100613/ioscat-a-port-of-netcat-to-cisco-ios/)  
   Post on his personal blog (site offline; Wayback copy)
+- ↺ **2010-06-10** · Talk · Security Summit Roma 2010 (Clusit), SGM Conference Center, 9-10 June 2010 — [Percorso professionale tecnico, 5a sessione: "Mobile security, il telefono una naturale estensione della propria vita digitale"](https://clusit.it/wp-content/uploads/newsletter/newsletter_27_05_10.pdf)  
+  Clusit Newsletter 27 maggio 2010, 'PROGRAMMA DEL 10 GIUGNO': '14.45-16.45 PERCORSO PROFESSIONALE TECNICO: 5a sessione Mobile security, il telefono una naturale estensione della propria vita digitale. Docenti: Alessio Pennasilico, Fabio Pietrosanti, Paolo Colombo'. This edition is not in media.json.
+- ↺ **2010-06-10** · Slide · Security Summit Roma 2010 - atti (proceedings) — [Mobile Security - Intense overview of mobile security threat (Roma 2010 proceedings PDF)](https://web.archive.org/web/20101226095759/https://www.securitysummit.it/upload/file/atti%20roma%202010/FABIO%20PIETROSANTI.pdf)  
+  Official proceedings file 'atti roma 2010/FABIO PIETROSANTI.pdf' (72 pages, 5.2 MB) from securitysummit.it, archived 2010-12-26. Title slide: 'Mobile Security - Intense overview of mobile security threat - Fabio Pietrosanti (naif)', CTO & Founder PrivateWAVE. The live URL now redirects (dead).
 - 🆕 **2010-06-07** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Missiles against cyber attacks?](https://web.archive.org/web/2012/http://infosecurity.ch/20100607/missiles-against-cyber-attacks/)  
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2010-06-07** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [The (old) Crypto AG case and some thinking about it](https://web.archive.org/web/2012/http://infosecurity.ch/20100607/the-old-crypto-ag-case-and-some-thinking-about-it/)  
@@ -1066,8 +1130,12 @@ Anni senza nessun risultato: nessuno
   Article on wiretapping and voice-encryption technologies written by Fabio Pietrosanti after his Security Summit Milan talk
 - 🆕 **2010-03-25** · Video · TVtech / Hardware Upgrade — [PrivateWave: comunicazioni sicure al cellulare](https://www.youtube.com/watch?v=L4beB3qQjVw) _(non verificato)_  
   TV-tech interview with 'gli esperti di Khamsa' on PrivateWave anti-wiretap solutions; likely Pietrosanti (CTO) but name not in description
-- ↺ **2010-03-17** · Slide · SlideShare (Security Summit 2010) — [2010: Mobile Security - Intense overview](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3799661/3799661)  
-  Security Summit 2010, mobile security threats
+- ↺ **2010-03-18** · Talk · Security Summit 2010 (Clusit), Milano, 16-18 March 2010 — [Percorso professionale tecnico: "Sicurezza e telefonia mobile"](https://clusit.it/wp-content/uploads/newsletter/newsletter_08_03_10.pdf)  
+  Clusit Newsletter 8 marzo 2010, 'PROGRAMMA DEL 18 MARZO': '14:15-16:00 Percorso professionale tecnico "Sicurezza e telefonia mobile" Docente: Fabio Pietrosanti' (sole speaker). His site says 17 Mar 2010, but the official program says 18 March. The slides are 'Mobile Security - Intense overview'.
+- ↺ **2010-03-18** · Slide · SlideShare (Security Summit 2010) — [2010: Mobile Security - Intense overview](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3799661/3799661)  
+  Already known (media.json date 2010-03-17). The official Milano program puts the session on 18 March 2010 (Clusit newsletter 08-03-2010).
+- 🆕 **2010-03** · Altro · Security Summit 2010 (Clusit), Milano — [PrivateWave among the Silver sponsors of Security Summit 2010](https://clusit.it/wp-content/uploads/newsletter/newsletter_31_03_10.pdf) _(non verificato)_  
+  Clusit Newsletter 31 marzo 2010 thanks sponsors: 'Sponsor Silver: ALBA, CLEVER CONSULTING, @MEDIASERVICE.NET, PRIVATEWAVE, ...'. PrivateWave is his company, but he is not named. A 'sponsor_privatewave.gif' also exists among securitysummit.it static files (archived 2016-01).
 - 🆕 **2010-02-24** · Video · Cellulare Magazine (CMAG) — [PrivateWave di Khamsa contro le intercettazioni](https://www.youtube.com/watch?v=EJVK8nB7yAM) _(non verificato)_  
   Cellulare-Magazine.it video on PrivateWave voice encryption; his appearance not confirmed
 - 🆕 **2010-02-02** · Citato · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.csoonline.com/article/524574/malware-cybercrime-accusations-fly-over-voice-encryption-hack.html)  
@@ -1091,7 +1159,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2010** · Altro · SlideShare profile fpietrosanti — [Fabio Pietrosanti presentations (13 decks)](https://www.slideshare.net/fpietrosanti)  
   Profile from PrivateWave/Khamsa era
 
-## 2009 — 39 voci, 37 nuove
+## 2009 — 41 voci, 39 nuove
 
 - 🆕 **2009-12-21** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Index of economic freedom](https://web.archive.org/web/2012/http://infosecurity.ch/20091221/index-of-economic-freedom/)  
   Post on his personal blog (site offline; Wayback copy)
@@ -1157,16 +1225,20 @@ Anni senza nessun risultato: nessuno
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2009-07-06** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Women as agents of future geopolitical changes](https://web.archive.org/web/2012/http://infosecurity.ch/20090706/women-as-agents-of-future-geopolitical-changes/)  
   Post on his personal blog (site offline; Wayback copy)
-- 🆕 **2009-05-22** · Paper · e-privacy 2009 proceedings (urna.winstonsmith.org) — [Voice security and privacy (atti, PDF)](http://urna.winstonsmith.org/materiali/2009/atti/ep2009_pietrosanti_voice_security_and_privacy.pdf) _(non verificato)_  
-  Proceedings PDF linked from the e-privacy VIII programme page
-- 🆕 **2009-05-22** · Podcast · e-privacy 2009 audio (urna.winstonsmith.org) — [Voice security and privacy (audio MP3)](http://urna.winstonsmith.org/materiali/2009/audio/ep2009_pietrosanti_voice_security_and_privacy.mp3) _(non verificato)_  
-  Audio recording linked from the e-privacy VIII programme page
-- ↺ **2009-05-22** · Talk · e-privacy VIII 2009 (Progetto Winston Smith), Palazzo Vecchio, Firenze — [Voice security and privacy: Confidentiality protection, today solutions and upcoming technologies and standards](https://e-privacy.winstonsmith.org/e-privacy-VIII.html)  
-  Programme lists 'Fabio (naif) Pietrosanti', 22 May 16:30-17:15; slides, audio and video linked
-- ↺ **2009-05-22** · Video · Internet Archive (Progetto Winston Smith) — [Voice security and privacy: Confidentiality protection, today solutions and upcoming technologies and standards](https://archive.org/details/pws_e-privacy_2009_1p04_pietrosanti_voice-security-and-privacy-confidentiality-protection)  
-  Video of the e-privacy 2009 talk (archive item dated 2010-05-22); introduces ZRTP-based protocol work with Phil Zimmermann
-- 🆕 **2009-03-29** · Slide · SlideShare (Security Summit 2009 Milan) — [2009: Voice Security And Privacy (Security Summit - Milan)](https://www.slideshare.net/slideshow/2009-voice-security-and-privacy-security-summit-milan/1677364)  
-  Clusit Security Summit 2009
+- ↺ **2009-05-22** · Talk · e-privacy VIII (2009), Firenze, Palazzo Vecchio - Progetto Winston Smith — [Voice security and privacy: Confidentiality protection, today solutions and upcoming technologies and standards](https://e-privacy.winstonsmith.org/e-privacy-VIII.html)  
+  Programme: Friday 22 May '16:30 17:15 Voice security and privacy - Fabio (naif) Pietrosanti'
+- 🆕 **2009-05-22** · Slide · e-privacy VIII (2009), Firenze, Palazzo Vecchio - Progetto Winston Smith — [Voice security and privacy (atti, PDF)](https://urna.winstonsmith.org/materiali/2009/atti/ep2009_pietrosanti_voice_security_and_privacy.pdf)  
+  HEAD 200, application/pdf, 17 MB
+- 🆕 **2009-05-22** · Radio · e-privacy VIII (2009), Firenze, Palazzo Vecchio - Progetto Winston Smith — [Voice security and privacy (audio MP3)](https://urna.winstonsmith.org/materiali/2009/audio/ep2009_pietrosanti_voice_security_and_privacy.mp3)  
+  HEAD 200, audio/mpeg, 9.6 MB
+- 🆕 **2009-05-22** · Video · e-privacy VIII (2009), Firenze, Palazzo Vecchio - Progetto Winston Smith — [Voice security and privacy (video MOV, eprivacy-2009-11.mov)](https://urna.winstonsmith.org/materiali/2009/video/eprivacy-2009-11.mov)  
+  HEAD 200, 117.8 MB. Attribution: the IA item pws_e-privacy_2009_1p04_pietrosanti_... contains eprivacy-2009-11.mov; old-site staff list materiali/2009/cose_da_non_pubblicare.html also lists 'Pietrosanti' among the 2009 recordings (DVD04 'Nigi, Agosti, Pietrosanti 1', DVD06 'Pietrosanti 2').
+- 🆕 **2009-05-22** · Video · Internet Archive (PWS e-privacy archive) — [Voice security and privacy (IA item: pdf, mp3, mov)](https://archive.org/details/pws_e-privacy_2009_1p04_pietrosanti_voice-security-and-privacy-confidentiality-protection)  
+  IA creator 'Fabio Pietrosanti'; files ep2009_pietrosanti_voice_security_and_privacy.{mp3,pdf} and eprivacy-2009-11.mov (IA date field wrongly 2010-05-22)
+- 🆕 **2009-03-26** · Talk · Security Summit 2009 (Clusit), Milano, 24-26 March 2009 — [Seminario tecnico SiKurezza.org (his part: Voice security and privacy)](https://clusit.it/wp-content/uploads/newsletter/newsletter_15_03_09.pdf)  
+  Clusit Newsletter 15 marzo 2009, 'PROGRAMMA DEL 26 MARZO': '14:00-18:00 Seminario tecnico SiKurezza.org' Docenti: Alessio Pennasilico, Pierluigi Perri, 'Fabio Pietrosanti, cofondatore e CTO di KHAMSA SA', Igor Falcomatà, Marco Calamari, Stefano Zanero, Paolo Perego. His 'Voice security and privacy' deck is dated 'Security Summit 26 Mar 2009', so the 29 Mar 2009 date on his site is wrong.
+- ↺ **2009-03-26** · Slide · SlideShare (Security Summit 2009 Milan) — [2009: Voice Security And Privacy (Security Summit - Milan)](https://www.slideshare.net/slideshow/2009-voice-security-and-privacy-security-summit-milan/1677364)  
+  Title slide: 'Voice security and privacy: Confidentiality protection, today solutions and upcoming technologies and standards - Security Summit 26 Mar 2009 - Fabio Pietrosanti (naif)'. Uploaded 2009-07-03. Already in media.json dated 2009-03-29 (should be 2009-03-26).
 - 🆕 **2009-03-13** · Menzionato · vitadigitale.corriere.it — [Hacker al cinema](https://vitadigitale.corriere.it/2009/03/13/hacker_al_cinema/)  
   verified via wayback; context: …i sono i nomi di Stefano Chiccarelli, Raoul Chiesa, Corrado Giustozzi, Matteo Giacomo Jori, Marco Misitano, Andrea Monti, Alessio Pennasilico, Pierluigi Perri, Fabio Pietrosanti, Andrea Rossetti e Stefano Zanero. La prim…
 - 🆕 **2009** · Libro · R. Chiesa, S. Ducci, S. Ciappi, Profiling Hackers (CRC Press, 2009) - second IA copy — [Profiling hackers: the science of criminal profiling as applied to the world of hacking](https://archive.org/details/profili_chi_2009_00_8384)  
@@ -1213,29 +1285,29 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2006** · Libro · Shake Edizioni — [Il software libero in Italia (a cura di Andrea Glorioso) - contributo di Fabio "naif" Pietrosanti](http://www.shake.it/index.php?id=51&productID=541)  
   Security chapter; publisher page confirms him as a contributor but doesn't show the publication year (ISBN 9788888865768) - check the year
 
-## 2005 — 5 voci, 3 nuove
+## 2005 — 6 voci, 5 nuove
 
-- ↺ **2005-05-28** · Talk · E-Privacy 2005, Firenze — [PGP luci e ombre. Storia e evoluzione dello strumento per la privacy più usato al mondo](https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259)  
-  Slides
-- 🆕 **2005-05-28** · Talk · E-Privacy 2005 - edition page (Winston Smith Project) — [PGP luci e ombre (Fabio Pietrosanti - Softpj.org)](https://e-privacy.winstonsmith.org/e-privacy-IV.html)  
-  Official edition page lists the talk with PDF/PPT/audio links; affiliation Softpj.org
-- 🆕 **2005-05-28** · Paper · E-Privacy 2005 proceedings (atti) — [Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf](http://urna.winstonsmith.org/materiali/2005/atti/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf) _(non verificato)_  
-  Proceedings PDF linked from the e-privacy site (link seen, file not fetched)
-- 🆕 **2005-05-28** · Podcast · E-Privacy 2005 audio recording — [Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg](http://urna.winstonsmith.org/materiali/2005/audio/Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg) _(non verificato)_  
-  Audio recording of the talk (link seen on the e-privacy site, file not fetched)
-- ↺ **2005-05-28** · Slide · Internet Archive (PWS e-privacy archive) — [PGP luci e ombre: storia e evoluzione dello strumento per la privacy piu' usato al mondo](https://archive.org/details/pws_e-privacy_2005_2m02_pietrosanti_pgp-luci-e-ombre-storia-e-evoluzione-dello-strumento)  
-  Archived slides of e-privacy 2005 talk
+- ↺ **2005-05-28** · Talk · e-privacy IV (2005), Firenze, Palazzo Vecchio - Progetto Winston Smith — [PGP luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo](https://e-privacy.winstonsmith.org/e-privacy-IV.html)  
+  Programme: '10:15 11:15 PGP luci e ombre ... Fabio Pietrosanti'; abstract signed 'Fabio Pietrosanti - Softpj.org'. BBA Italia 2005 ceremony held at the same conference (no role for him found).
+- 🆕 **2005-05-28** · Slide · e-privacy IV (2005), Firenze, Palazzo Vecchio - Progetto Winston Smith — [PGP luci e ombre (atti, PDF)](https://urna.winstonsmith.org/materiali/2005/atti/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf)  
+  HEAD 200, application/pdf, 17.6 MB; linked from e-privacy-IV.html
+- 🆕 **2005-05-28** · Slide · e-privacy IV (2005), Firenze, Palazzo Vecchio - Progetto Winston Smith — [PGP luci e ombre (atti, PPT)](https://urna.winstonsmith.org/materiali/2005/atti/Ep2005_PGP_luci_e_ombre_Pietrosanti.ppt)  
+  HEAD 200, application/vnd.ms-powerpoint, 441 KB; linked from e-privacy-IV.html
+- 🆕 **2005-05-28** · Radio · e-privacy IV (2005), Firenze, Palazzo Vecchio - Progetto Winston Smith — [PGP luci e ombre (audio OGG)](https://urna.winstonsmith.org/materiali/2005/audio/Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg)  
+  HEAD 200, audio/ogg, 25 MB; linked from e-privacy-IV.html
+- 🆕 **2005-05-28** · Altro · e-privacy IV (2005), Firenze, Palazzo Vecchio - Progetto Winston Smith — [e-privacy 2005 - old-site programme page (sito storico)](https://e-privacy.winstonsmith.org/materiali/2005/)  
+  Old-site page: 'ore 10:15-11:15 PGP luci e ombre ... Fabio Pietrosanti - Softpj.org'. Note: s0ftpj is also listed as Supporter on the e-privacy II-X pages (organisation, not a personal role).
+- 🆕 **2005-05-28** · Slide · Internet Archive (PWS e-privacy archive) — [PGP luci e ombre (IA item: pdf, ppt, ogg)](https://archive.org/details/pws_e-privacy_2005_2m02_pietrosanti_pgp-luci-e-ombre-storia-e-evoluzione-dello-strumento)  
+  IA metadata creator 'Fabio Pietrosanti'; files Ep2005_PGP_luci_e_ombre_Pietrosanti.{ogg,pdf,ppt}
 
-## 2004 — 3 voci, 3 nuove
+## 2004 — 2 voci, 2 nuove
 
 - 🆕 **2004-05-07** · Talk · Webbit 04, Padova — [2004: Webbit Padova 04: Wireless (in)security](https://www.slideshare.net/slideshow/webbit-04-wireless-insecurity/1669209)  
   802.11/WEP insecurity (slides)
 - 🆕 **2004-05** · Talk · Webbit 04, Padova — [2004: Webbit Padova 04: Presentazione Sikurezza.Org](https://www.slideshare.net/slideshow/webbit-04-presentazione-sikurezzaorg/1669242)  
   Presentation of the sikurezza.org community and mailing lists; missing from the known list
-- 🆕 **2004-03-14** · Menzionato · BFi 12-dev file 10 — [Steganography applied on network sessions and neighbourhood (vecna)](https://www.s0ftpj.org/bfi/dev/en/BFi12-dev-10-en)  
-  vecna recalls a question naif asked at his e-privacy 2003 steganography talk and answers it in the paper
 
-## 2003 — 6 voci, 5 nuove
+## 2003 — 7 voci, 6 nuove
 
 - 🆕 **2003-12-23** · Menzionato · BFi (Butchered From Inside) n.11 — [BFi numero 11 (collected issue): reprints naif mentions in BFi11-02 (hacking is NOT politics thread), BFi11-08 (Fastweb round 1, cites naif's article), BFi11-15 (greetz)](https://www.s0ftpj.org/bfi/bfi11.tar.gz)  
   Final collected issue of BFi 11 dev articles (dev-03/04/08 already individually tracked); verified in the tarball text
@@ -1243,6 +1315,8 @@ Anni senza nessun risultato: nessuno
   Technical training on 802.11b insecurity (slides)
 - 🆕 **2003-11** · Menzionato · Hacker Journal n.38 (WLF Publishing) — [Fastweb hacking article: 'Il metodo individuato da naif (pubblicato su BFi, Butchered from Inside) si basava sull'utilizzo dell'ftp passivo'](https://archive.org/details/hackerjournal-38)  
   Cites his BFi10-13 Fastweb NAT-bypass technique; same issue has a feature on Italian Black Hats (closed 6 March 2003). Issue date approximate (late 2003). Note: the Harry Potter news item in this issue refers to Paolo Pietrosanti, not Fabio
+- 🆕 **2003-06-14** · Menzionato · e-privacy II (2003), Firenze - Progetto Winston Smith — [vecna, 'Steganography applied on network sessions and neighbourhood' (BFi 12-dev) recalls naif's question at e-privacy 2003](https://www.s0ftpj.org/bfi/dev/en/BFi12-dev-10-en)  
+  Per existing media.json entry: vecna answers a question 'naif' asked at his e-privacy 2003 steganography talk (audience member, not speaker). e-privacy-II.html programme does not name him.
 - 🆕 **2003-05-10** · Talk · Webbit03, Padova Fiere — [Wireless (in)Security: problemi di sicurezza dell'802.11b](https://web.archive.org/web/20040209212540/http://fabio.pietrosanti.it/curriculum.shtml)  
   Listed in his 2003 CV conference list (not in media.json; Webbit 04 talks are)
 - 🆕 **2003-02-10** · Articolo scritto · PuntoSicuro — [Wireless Lan, la sicurezza dell'insicurezza](https://www.puntosicuro.it/security-C-124/sicurezza-informatica-C-90/wireless-lan-la-sicurezza-dell-insicurezza-AR-2853/)  
@@ -1269,7 +1343,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2002-07-05** · Talk · Sikurezza.org @ Webb.it 02, Padova Fiere — [Presentazione sikurezza.org (Fabio Pietrosanti 'naif', Stefano Venturoli)](https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html)  
   Sikurezza.org space at Webbit 2002 (5-7 July), which he organised; slides sikurezza_org.pdf; also ran the 'Secure Administration' contest
 - 🆕 **2002-06** · Altro · Hackmeeting 2002 (Bologna) — [Hackit02 - who (participants list)](https://www.hackmeeting.org/hackit02/who.html)  
-  'naif' listed among registered participants of Hackmeeting 2002
+  Re-checked live: 'naif' is in the participants table. Already known.
 - 🆕 **2002-03-30** · Menzionato · BFi 11-dev file 08 (s0ftpj) — [FASTWEB: vorrete dirlo a tutti (round 1) - tHE rECIdjVO](https://www.s0ftpj.org/bfi/dev/BFi11-dev-08.tar.gz)  
   Recommends 'l'articolo di naif su Fastweb [BFi10-13]' as prerequisite; reprinted as BFi11-08 in BFi n.11 (23/12/2003, https://www.s0ftpj.org/bfi/bfi11.tar.gz)
 - ↺ **2002-03-17** · Talk · CeAS - Centro Alti Studi Lotta al Terrorismo, 'Rivoluzione connettiva e sicurezza' — [Il ruolo dei carrier nella security (Fabio Pietrosanti, Network Security Manager I.NET S.p.A.)](https://web.archive.org/web/2003/http://www.1ceas.org/rel2002/marzo/marzo.htm)  
@@ -1281,7 +1355,7 @@ Anni senza nessun risultato: nessuno
 - ↺ **2002** · Articolo scritto · ICT Security (print magazine, Tecna Editrice; today ICT Security Magazine) — [Penetration Testing & Tiger Teams](https://www.slideshare.net/slideshow/ict-security-magazine-penetration-testing-e-tigerteam/1669099)  
   4-page print article (pp. 56-59) scanned and uploaded to SlideShare by Fabio Pietrosanti on 2009-07-01 as 'ICT Security Magazine: Penetration testing e tigerteam' (description: 'Quando il termine tiger team aveva ancora una accezione positiva!'). Author box on last page: 'Gli Autori: Raoul Chiesa aka Nobody ... / Fabio Pietrosanti aka Naif, Network Security Manager presso la I.NET SpA, IT, ITBH (Italian Black Hats Association) Founder Member'. Issue number/date not visible on scanned pages; year inferred (~2002) from I.NET role + ITBH founding; scan filename 'rs010502a'. Also listed as a local copy in fabio_pietrosanti_it-copies/2010/861f7ed4a4c3 (SlideShare profile snapshot).
 
-## 2001 — 14 voci, 9 nuove
+## 2001 — 15 voci, 10 nuove
 
 - 🆕 **2001-10-29** · Menzionato · Apogeonline — [Un raggio di luce su SMAU](https://www.apogeonline.com/articoli/un-raggio-di-luce-su-smau-raoul-chiesa/)  
   Same Raoul Chiesa report republished on Apogeonline
@@ -1305,6 +1379,8 @@ Anni senza nessun risultato: nessuno
   ipchains-based per-service traffic accounting script (HTTP/IMAP/POP3/SMTP); credited to Fabio Pietrosanti in the 'Suggerimenti di...' list
 - 🆕 **2001-08-10** · Menzionato · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 - 'Suggerimenti di...' (hall of fame)](http://www.pluto.it/files/ildp/LDR/ldr21.html)  
   Credit line: 'Fabio Pietrosanti, 2.1.2'; LDR (c) 1999-2001 Gaetano Paolone, GPL; edition 3.0 dated 2001.08.10
+- 🆕 **2001-06** · Altro · Hackmeeting 2001 (Hackit01), Catania (CSA Auro / Freaknet Medialab), 22-24 June 2001 — [Hackit01 - Adesioni (sign-up list)](https://www.hackmeeting.org/hackit01/adesioni.html)  
+  The 'hanno aderito' sign-up list includes the entry 'naif : Hack The World, Fuck The Universe!'. Another entry greets 'NaiF^'.
 - ↺ **2001-03-19** · Ricerca · firewall-wizards — [Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response*](https://seclists.org/firewall-wizards/2001/Mar/120)  
   Discussion of Cisco's response to his PIX notes
 - ↺ **2001-03-09** · Ricerca · Bugtraq — [Cisco PIX Security Notes](https://seclists.org/bugtraq/2001/Mar/148)  
@@ -1312,7 +1388,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2001** · Progetto · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) _(non verificato)_  
   Association he co-founded; site offline and the Wayback Machine was down during this research
 
-## 2000 — 15 voci, 12 nuove
+## 2000 — 16 voci, 13 nuove
 
 - 🆕 **2000-11-09** · Ricerca · vuln-dev — [Re: Possible DOS in Bind 8.2.2-P5](https://seclists.org/vuln-dev/2000/Nov/95)  
   Follow-up in the BIND DoS thread
@@ -1344,6 +1420,8 @@ Anni senza nessun risultato: nessuno
   S0ftPj advisory by FuSyS, Naif and vecna; the mailview file-viewing bug is credited to Naif (CVE-2000-0526)
 - ↺ **2000-06-09** · Ricerca · SecurityFocus BID 1335 — [3R Soft MailStudio 2000 vulnerabilities (BID 1335, CVE-2000-0526)](https://www.securityfocus.com/bid/1335) _(non verificato)_  
   BID linked from his site; his name isn't shown on the BID summary page
+- 🆕 **2000-06** · Talk · Hackmeeting 2000 (Hackit00), Roma, Forte Prenestino — [Letteratura Cyberpunk (seminar proposal)](https://www.hackmeeting.org/hackit00/proposte/letteratura.html) _(non verificato)_  
+  Seminar-proposal page in /hackit00/proposte/: 'Hackmeeting 2000 - Leteratura Cyberpunk - Data proposed by [ NaiF-RooT ]'. The page has no abstract, and no final program confirms that the session took place. The nick variant 'NaiF-RooT' is very probably him (compare 'NaiF^' in Hackit01 adesioni), but no page confirms the identity.
 
 ## 1999 — 1 voci, 1 nuove
 
