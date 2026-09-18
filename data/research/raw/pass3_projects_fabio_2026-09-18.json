@@ -102,5 +102,18 @@
   "note": "Project document reviewed by dozens of engineers and lawyers (Fabio); very early-stage for its time; archived as PDF/TXT/DOCX",
   "verified": true,
   "known": false
+ },
+ {
+  "date": "2016-01-02",
+  "year": 2016,
+  "type": "research",
+  "outlet": "Tor Project (GitLab, ex Trac)",
+  "title": "Ticket #17975 «Introduce OutboundExitAddress to enable exit-only traffic to go via a different IP address» — implemented in Tor 0.3.0 as OutboundBindAddressExit",
+  "url": "https://gitlab.torproject.org/tpo/core/tor/-/work_items/17975",
+  "language": "en",
+  "role": "author",
+  "note": "Opened by naif 2016-01-02, closed 2017-01-27, milestone Tor 0.3.0.x-final; Tor ReleaseNotes: 'Closes ticket 17975'",
+  "verified": true,
+  "known": false
  }
 ]

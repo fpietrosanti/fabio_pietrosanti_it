@@ -58,3 +58,10 @@ cosa tenere come **post** del blog, e come raggruppare.
 2. A2: confermi che OutboundExitAddress è stato implementato grazie al tuo ticket? (cerco il ticket e la versione di Tor)
 3. A3: c'era un documento/paper oltre al post?
 4. C'erano altri blog/post (es. su PrivateWave blog, VOIPSA blog) da trattare allo stesso modo?
+
+## Decisioni di Fabio (2026-09-18)
+- Proposta approvata. SecurStar e snake oil = **due progetti distinti**. ECC = solo il post.
+- OutboundExitAddress: Fabio non ricordava; **verificato**: ticket Tor #17975 aperto da «naif» il 2016-01-02, chiuso il
+  2017-01-27 e implementato in **Tor 0.3.0** come `OutboundBindAddressExit` / `OutboundBindAddressOR` (ReleaseNotes:
+  «Closes ticket 17975», codice di Michael Sonntag).
+- Registrati in `data/projects.json`. Crypto AG 2010 da collegare a Valigia Blu 2020 nella pagina del sito.

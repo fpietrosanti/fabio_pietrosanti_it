@@ -463,6 +463,78 @@
     "https://youtu.be/bPXna2KujUE?t=6898"
    ],
    "notes": "29/09/2022, Università LIUC, in collaborazione con SOS LOGistica – Associazione Logistica Sostenibile; intervento di Fabio da 1:54:58 del video; legato a LESS/OpenPUDO."
+  },
+  {
+   "name": "SecurStar/PhoneCrypt — debunking di una falsa «ricerca indipendente» sulla cifratura voce",
+   "start_year": "2010",
+   "area": "ricerca / sicurezza",
+   "status": "fonti-raccolte",
+   "description_en": "",
+   "description_zh": "",
+   "link": "https://infosecurity.ch/20100201/evidence-that-infosecurityguard-comnotrax-is-securstar-gmbh-a-fake-independent-research-on-voice-crypto/",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
+   "sources": [
+    "https://infosecurity.ch/20100130/",
+    "https://infosecurity.ch/20100201/",
+    "https://www.theregister.co.uk/2010/02/01/voice_crypto_test_row_phreak_out/",
+    "https://infosecurity.ch/20100525/"
+   ],
+   "notes": "Gennaio–maggio 2010: prove che infosecurityguard.com era riconducibile a SecurStar; ripreso da The Register e CSO/Techworld. Progetto distinto dallo snake oil (decisione di Fabio 18/09)."
+  },
+  {
+   "name": "Snake oil nella cifratura voce: marketing e affermazioni di sicurezza non verificabili",
+   "start_year": "2009",
+   "area": "ricerca / sicurezza",
+   "status": "fonti-raccolte",
+   "description_en": "",
+   "description_zh": "",
+   "link": "https://infosecurity.ch/20100719/",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
+   "sources": [
+    "https://infosecurity.ch/20091125/",
+    "https://infosecurity.ch/20100719/",
+    "https://infosecurity.ch/20100420/",
+    "https://infosecurity.ch/20101021/"
+   ],
+   "notes": "Gold-Lock contest (2009-11), snake-oil claims (2010-07), encryption vs scrambling, regolazione crittografia. Separato dal caso SecurStar."
+  },
+  {
+   "name": "Tor exit node a bassa responsabilità (2011–2017) — ticket #17975 implementato in Tor 0.3.0",
+   "start_year": "2011",
+   "area": "anonimato / Tor",
+   "status": "fonti-raccolte",
+   "description_en": "",
+   "description_zh": "",
+   "link": "https://gitlab.torproject.org/tpo/core/tor/-/work_items/17975",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
+   "sources": [
+    "https://infosecurity.ch/20110124/",
+    "https://infosecurity.ch/20170610/",
+    "https://gitlab.torproject.org/tpo/core/tor/-/work_items/17975"
+   ],
+   "notes": "Exit node privacyresearch.infosecurity.ch + Tor2web (2011). Ticket #17975 aperto da naif il 2016-01-02 («Introduce OutboundExitAddress…»), chiuso 2017-01-27: implementato come OutboundBindAddressExit/OutboundBindAddressOR in Tor 0.3.0 (ReleaseNotes: «Closes ticket 17975», codice di Michael Sonntag)."
+  },
+  {
+   "name": "Analisi della sicurezza e della scelta delle curve ellittiche (ECC)",
+   "start_year": "2010",
+   "area": "ricerca / crittografia",
+   "status": "fonti-raccolte",
+   "description_en": "",
+   "description_zh": "",
+   "link": "https://infosecurity.ch/20100926/",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
+   "sources": [
+    "https://infosecurity.ch/20100926/"
+   ],
+   "notes": "Solo il post del blog (conferma di Fabio), 2.208 parole."
   }
  ]
 }
