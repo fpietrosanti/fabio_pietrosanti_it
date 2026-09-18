@@ -81,9 +81,10 @@ def media_items():
             continue
         url = it.get("live_url") or it["url"]
         rec = copies.get(it["url"]) or {}
-        copy = hosted.get(it["url"])
-        if not copy and rec.get("method") == "wayback" and rec.get("capture") and "web.archive.org" not in url:
-            copy = f"https://web.archive.org/web/{rec['capture']}/{it['url']}"
+        copy = hosted.get(it["url"]) or ""
+        wb = ""
+        if rec.get("method") == "wayback" and rec.get("capture") and "web.archive.org" not in url:
+            wb = f"https://web.archive.org/web/{rec['capture']}/{it['url']}"
         out.append({
             "d": it.get("date") or (str(it["year"]) if it.get("year") else ""),
             "y": it.get("year") or 0,
@@ -93,7 +94,8 @@ def media_items():
             "c": cat_of(it["type"]),
             "l": (it.get("language") or "").lower()[:2],
             "u": url,
-            "a": copy or "",
+            "a": copy,
+            "w": wb,
         })
     out.sort(key=lambda x: (x["y"], x["d"]), reverse=True)
     return out

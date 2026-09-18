@@ -6,18 +6,63 @@
   "description": "Fabio \"naif\" Pietrosanti: thirty years of information security, whistleblowing technology (GlobaLeaks, Hermes Center), voice encryption, e-voting, digital rights, logistics, algorithmic finance and biohacking. Complete archive of talks, press and writing since 1998."
  },
  "nav": [
-  ["about", "About"], ["story", "Story"], ["work", "Work"], ["projects", "Projects"],
-  ["archive", "Talks & press"], ["communities", "Communities"], ["past", "Past sites"], ["contact", "Contact"]
+  [
+   "about",
+   "About"
+  ],
+  [
+   "story",
+   "Story"
+  ],
+  [
+   "work",
+   "Work"
+  ],
+  [
+   "projects",
+   "Projects"
+  ],
+  [
+   "archive",
+   "Talks & press"
+  ],
+  [
+   "communities",
+   "Communities"
+  ],
+  [
+   "past",
+   "Past sites"
+  ],
+  [
+   "contact",
+   "Contact"
+  ]
  ],
  "hero": {
   "kicker": "Hacker since 1995 · Milan · Dubai",
   "aka": "naif · 石风翱",
   "links": [
-   ["LinkedIn", "https://www.linkedin.com/in/secret/"],
-   ["GitHub", "https://github.com/fpietrosanti"],
-   ["Hermes Center", "https://www.hermescenter.org"],
-   ["GlobaLeaks", "https://www.globaleaks.org"],
-   ["biohack.it", "https://biohack.it"]
+   [
+    "LinkedIn",
+    "https://www.linkedin.com/in/secret/"
+   ],
+   [
+    "GitHub",
+    "https://github.com/fpietrosanti"
+   ],
+   [
+    "Hermes Center",
+    "https://www.hermescenter.org"
+   ],
+   [
+    "GlobaLeaks",
+    "https://www.globaleaks.org"
+   ],
+   [
+    "biohack.it",
+    "https://biohack.it"
+   ]
   ]
  },
  "stats_labels": {
@@ -28,14 +73,38 @@
   "projects": "projects documented"
  },
  "section_titles": {
-  "about": ["About", "The short version — the same text as on LinkedIn."],
-  "story": ["The long version", "Three decades, told through what was built and what it changed."],
-  "work": ["Work", "Roles and companies. Titles and dates are kept identical to LinkedIn; details are expanded here."],
-  "projects": ["Projects", "Software, research, campaigns and a few projects that never started. Each one links to its sources."],
-  "archive": ["Talks, press & writing", "Every verified source found so far, from 1998 to today: filter, search, open the original or its archived copy."],
-  "communities": ["Communities", "Where most of the work actually happens."],
-  "past": ["Past sites", "Earlier personal pages, rebuilt from the Web Archive."],
-  "contact": ["Contact", "Advisory, board seats and partnerships: welcome."]
+  "about": [
+   "About",
+   "The short version — the same text as on LinkedIn."
+  ],
+  "story": [
+   "The long version",
+   "Three decades, told through what was built and what it changed."
+  ],
+  "work": [
+   "Work",
+   "Roles and companies. Titles and dates are kept identical to LinkedIn; details are expanded here."
+  ],
+  "projects": [
+   "Projects",
+   "Software, research, campaigns and a few projects that never started. Each one links to its sources."
+  ],
+  "archive": [
+   "Talks, press & writing",
+   "Every verified source found so far, from 1998 to today: filter, search, open the original or its archived copy."
+  ],
+  "communities": [
+   "Communities",
+   "Where most of the work actually happens."
+  ],
+  "past": [
+   "Past sites",
+   "Earlier personal pages, rebuilt from the Web Archive."
+  ],
+  "contact": [
+   "Contact",
+   "Advisory, board seats and partnerships: welcome."
+  ]
  },
  "story": [
   {
@@ -61,14 +130,14 @@
    "body": [
     "In 2010 he started <b>GlobaLeaks</b>, free software for secure and anonymous whistleblowing, and in December 2010 built the <b>Hermes Center for Transparency and Digital Human Rights</b> around it; Hermes has been a member of European Digital Rights (EDRi) since 2018. Hermes also rewrote and maintained <b>Tor2web</b>, the gateway that lets ordinary browsers reach Tor onion services.",
     "GlobaLeaks became the base of whistleblowing platforms run by newsrooms, NGOs and public bodies — from Publeaks in the Netherlands and IRPILeaks to anti-corruption channels with Transparency International Italy and, later, the Italian anti-corruption authority. Since 2016 <b>Whistleblowing Solutions</b>, a non-profit social enterprise, turns that technology into a sustainable service.",
-    "In the Tor community he ran exit nodes and Tor2web nodes and opened tickets that changed Tor itself: <code>OutboundBindAddressExit</code>, shipped in Tor 0.3.0, comes from his 2016 proposal for low-liability exit relays."
+    "He has been a regular in the Tor community since 2011: running exit relays and Tor2web nodes, taking part in the international Tor developers' meetings, and opening tickets that changed Tor itself — <code>OutboundBindAddressExit</code>, shipped in Tor 0.3.0, comes from his 2016 proposal for low-liability exit relays."
    ]
   },
   {
    "years": "2016–2022",
    "title": "Policy, surveillance and democracy",
    "body": [
-    "The same method moved into policy. In 2017 he was part of the group behind the Italian bill on state trojans (<i>captatori informatici</i>) presented by Stefano Quintarelli, and he took the topic to e-privacy, Freedom Not Fear in Brussels and the CCC. He ran the 2017 campaign that pushed VideoLAN to serve VLC over HTTPS, mapped the risks of Kaspersky software in the Italian public sector (Euronews 2018, again in 2022) and used FOIA requests to monitor surveillance.",
+    "The same method moved into policy. In 2017 he was one of the proponents of the Italian bill on state trojans (<i>captatori informatici</i>) presented by Stefano Quintarelli, and he took the topic to e-privacy, Freedom Not Fear in Brussels and the CCC. He ran the 2017 campaign that pushed VideoLAN to serve VLC over HTTPS, mapped the risks of Kaspersky software in the Italian public sector (Euronews 2018, again in 2022) and used FOIA requests to monitor surveillance.",
     "On electronic voting he wrote the <i>Guida Hermes al voto digitale</i>, analysed the 2017 Lombardy e-voting referendum, animated the <b>CRVD</b> committee, studied how Italians abroad could vote at polling stations (the AIRE study) and, with <b>OpenRousseau</b>, showed the weaknesses of the Five Star Movement's Rousseau platform — including by voting twice on it.",
     "In 2022 <b>Monitora PA</b>, a civic-hacking project run with Hermes and volunteers, pushed thousands of Italian public administrations to remove Google Analytics."
    ]
@@ -114,42 +183,150 @@
   "covid / sicurezza": "COVID-19"
  },
  "projects": {
-  "GlobaLeaks": ["Free and open-source software for secure, anonymous whistleblowing, started in 2010 and used worldwide by newsrooms, NGOs, companies and public administrations.", "https://www.globaleaks.org"],
-  "Tor2web": ["Gateway that lets ordinary browsers reach Tor onion services. Originally created by Aaron Swartz and Virgil Griffith, rewritten and maintained by the Hermes Center from 2011.", "https://github.com/tor2web/Tor2web"],
-  "Hermes Center for Transparency and Digital Human Rights": ["Non-profit association founded in December 2010 to develop transparency and anonymity technologies and to do digital-rights advocacy. EDRi member since 2018.", "https://www.hermescenter.org"],
-  "Whistleblowing Solutions / WhistleblowingPA": ["Non-profit social enterprise (2016) offering GlobaLeaks as a service; WhistleblowingPA made a free whistleblowing channel available to Italian public administrations.", "https://www.whistleblowingsolutions.it"],
-  "PrivateGSM / PrivateWave (cifratura voce mobile)": ["Mobile voice and messaging encryption for governments and enterprises, built by PrivateWave Italia (2005–2014), with ZRTP-based designs developed with Philip Zimmermann.", ""],
-  "ZORG — implementazione open source di ZRTP": ["Open-source C++ and Java implementation of ZRTP released by PrivateWave in January 2011.", ""],
-  "OSXCrypt": ["2008 open-source release bringing TrueCrypt-compatible disk encryption to macOS, with Orlando Bassotto and Matteo Flora.", ""],
-  "Tor exit node e honeypot sugli hidden service": ["Operating Tor exit and Tor2web nodes from 2011 and studying abuse and noisy traffic on them.", ""],
-  "Trojans and Rule of Law — proposta di legge sui captatori informatici (trojan di Stato)": ["Italian bill on state hacking tools presented by Stefano Quintarelli in 2017, drafted by a group of lawyers and technologists; presented in Italy, at the CCC and in Brussels.", "https://trojansandruleoflaw.org"],
-  "Guida Hermes al voto digitale": ["Hermes Center guide to the risks of digital voting (2017).", ""],
-  "CRVD voto elettronico": ["Committee on the requirements of voting in a democracy: analyses and articles on e-voting (2018–2020). Site preserved in 2026.", "https://hermescenter.github.io/crvd.org-preservation/"],
-  "Progetto AIRE (voto degli italiani all'estero)": ["2019 geolocation study of Italians registered abroad: 80 overseas polling stations would cover more than 86% of voters — an alternative to online voting.", ""],
-  "OpenRousseau": ["Open-source counter-platform (2020) exposing the weaknesses of the Five Star Movement's Rousseau voting system.", ""],
-  "Voto elettronico referendum Lombardia 2017 (analisi)": ["Analysis and FOIA requests on the voting machines used in the 2017 Lombardy autonomy referendum.", ""],
-  "Monitora PA (rimozione Google Analytics dalla PA)": ["Civic-hacking project (2022) that measured Italian public websites and pushed thousands of administrations to remove Google Analytics.", "https://monitora-pa.it"],
-  "Kaspersky: matrice dei rischi e uso nella PA italiana (2018, 2022)": ["Risk matrix of using Kaspersky software in the Italian public sector, if the vendor were forced to cooperate with the Russian government (2018, updated 2022).", "https://github.com/fpietrosanti/kaspersky-risks"],
-  "mxmap.it / Osservatorio Nazionale Sovranità Digitale": ["Map of which providers handle the email of Italian public administrations, and an observatory on digital sovereignty (2026).", "https://mxmap.it"],
-  "Italian Hacker Camp / Italian Hacker Embassy / End Summer Camp": ["The Italian hacker gatherings: End Summer Camp in Venice, the Italian Hacker Camp in Padova and the Italian Hacker Embassy village at the Dutch and German camps (since CCCamp 2007).", "https://www.ihc.camp"],
-  "Sikurezza.org": ["Italian security community and mailing lists, co-founded around 2000; presented at Webbit and Security Summit.", ""],
-  "Italian Black Hats": ["Association of Italian security researchers launched at SMAU 2001; founding member.", ""],
-  "biohack.it / Hacking Biology Foundation": ["Open infrastructure for structured human self-experimentation: protocols, standard-coded biomarkers and shared outcomes (AGPL-3.0, non-profit, since 2023).", "https://biohack.it"],
-  "LESS.green — last mile sostenibile": ["Non-profit tech start-up for low-emission last-mile delivery in e-commerce (2020–2023), publishing its software on GitHub.", "https://github.com/lessgreen"],
-  "Haulersense": ["AI and computer-vision tools for couriers: weight and volume revenue recovery, parcel-machine telemetry and shipping analytics (2019–2023).", ""],
-  "Aeroporto di Latina": ["Civic campaign for Latina airport as the third airport of Lazio (2026).", ""],
-  "Sendmail.cf backdoor, chrooted, firewall script (codice 2000–2002)": ["Early security code and research published 2000–2002.", ""],
-  "OSSCI / OSPCI — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (progetto mai partito)": ["Proposal (2019) for an observatory actively measuring the security of Italy's national cyber perimeter, reviewed by dozens of engineers and lawyers and supported by more than 250 people — years before the national cybersecurity agency existed. It never started.", "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano"],
-  "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)": ["Proposal during the pandemic to map outbreaks from mobile-network cell data. It never started.", ""],
-  "COVID-19: vulnerabilità dell'app COVID della Regione Lazio (con Giovanni Rocca)": ["Security analysis of the Lazio region's COVID app, with Giovanni Rocca (2020).", ""],
-  "OpenPUDO — primo software open source per reti PUDO (LESS)": ["Open-source software for pick-up and drop-off point networks, released by LESS in 2021.", "https://github.com/lessgreen"],
-  "ifuriosi.it — archivio delle evidenze e pubblicità Philip Morris ricondotta a Casaleggio Associati": ["Archive of evidence (2020) linking the ifuriosi.it site and its Philip Morris advertising to infrastructure shared with Casaleggio Associati.", "https://github.com/fpietrosanti/ifuriosi"],
-  "LIUC 2022 — intervento sui punti di ritiro PUDO al convegno SOS LOGistica «Costruire comunità sostenibili»": ["Lecture on pick-up points at LIUC University's conference with SOS LOGistica (29 September 2022).", "https://youtu.be/bPXna2KujUE?t=6898"],
-  "SecurStar/PhoneCrypt — debunking di una falsa «ricerca indipendente» sulla cifratura voce": ["2010 evidence that a supposedly independent review of voice-encryption products was run by one of the vendors; covered by The Register.", ""],
-  "Snake oil nella cifratura voce: marketing e affermazioni di sicurezza non verificabili": ["2009–2010 writing against unverifiable security claims and marketing contests in voice encryption.", ""],
-  "Tor exit node a bassa responsabilità (2011–2017) — ticket #17975 implementato in Tor 0.3.0": ["From running an exit node to changing Tor: the proposal for exit-only outbound addresses became OutboundBindAddressExit in Tor 0.3.0.", "https://gitlab.torproject.org/tpo/core/tor/-/issues/17975"],
-  "Analisi della sicurezza e della scelta delle curve ellittiche (ECC)": ["2010 analysis of elliptic-curve choices in proprietary crypto products.", ""],
-  "VLC over HTTPS — campagna per il download sicuro di VLC e degli eseguibili («la trollata sul TLS»)": ["2017 campaign after the CIA leaks: tickets, a census of 35 HTTPS mirrors and a proof of concept pushed VideoLAN towards HTTPS downloads.", "https://code.videolan.org/videolan/vlc/-/issues/18472"]
+  "GlobaLeaks": [
+   "Free and open-source software for secure, anonymous whistleblowing, started in 2010 and used worldwide by newsrooms, NGOs, companies and public administrations.",
+   "https://www.globaleaks.org"
+  ],
+  "Tor2web": [
+   "Gateway that lets ordinary browsers reach Tor onion services. Originally created by Aaron Swartz and Virgil Griffith, rewritten and maintained by the Hermes Center from 2011.",
+   "https://github.com/tor2web/Tor2web"
+  ],
+  "Hermes Center for Transparency and Digital Human Rights": [
+   "Non-profit association founded in December 2010 to develop transparency and anonymity technologies and to do digital-rights advocacy. EDRi member since 2018.",
+   "https://www.hermescenter.org"
+  ],
+  "Whistleblowing Solutions / WhistleblowingPA": [
+   "Non-profit social enterprise (2016) offering GlobaLeaks as a service; WhistleblowingPA made a free whistleblowing channel available to Italian public administrations.",
+   "https://www.whistleblowingsolutions.it"
+  ],
+  "PrivateGSM / PrivateWave (cifratura voce mobile)": [
+   "Mobile voice and messaging encryption for governments and enterprises, built by PrivateWave Italia (2005–2014), with ZRTP-based designs developed with Philip Zimmermann.",
+   ""
+  ],
+  "ZORG — implementazione open source di ZRTP": [
+   "Open-source C++ and Java implementation of ZRTP released by PrivateWave in January 2011.",
+   ""
+  ],
+  "OSXCrypt": [
+   "2008 open-source release bringing TrueCrypt-compatible disk encryption to macOS, with Orlando Bassotto and Matteo Flora.",
+   "past/osxcrypt.org/"
+  ],
+  "Tor exit node e honeypot sugli hidden service": [
+   "Operating Tor exit and Tor2web nodes from 2011 and studying abuse and noisy traffic on them.",
+   ""
+  ],
+  "Trojans and Rule of Law — proposta di legge sui captatori informatici (trojan di Stato)": [
+   "Italian bill on state hacking tools presented by Stefano Quintarelli in 2017; Fabio was one of its proponents, together with lawyers and technologists. Presented in Italy, at the CCC and at Freedom Not Fear in Brussels.",
+   "https://trojansandruleoflaw.org"
+  ],
+  "Guida Hermes al voto digitale": [
+   "Hermes Center guide to the risks of digital voting (2017).",
+   ""
+  ],
+  "CRVD voto elettronico": [
+   "Committee on the requirements of voting in a democracy: analyses and articles on e-voting (2018–2020). Site preserved in 2026.",
+   "https://hermescenter.github.io/crvd.org-preservation/"
+  ],
+  "Progetto AIRE (voto degli italiani all'estero)": [
+   "2019 geolocation study of Italians registered abroad: 80 overseas polling stations would cover more than 86% of voters — an alternative to online voting.",
+   ""
+  ],
+  "OpenRousseau": [
+   "Open-source counter-platform (2020) exposing the weaknesses of the Five Star Movement's Rousseau voting system.",
+   ""
+  ],
+  "Voto elettronico referendum Lombardia 2017 (analisi)": [
+   "Analysis and FOIA requests on the voting machines used in the 2017 Lombardy autonomy referendum.",
+   ""
+  ],
+  "Monitora PA (rimozione Google Analytics dalla PA)": [
+   "Civic-hacking project (2022) that measured Italian public websites and pushed thousands of administrations to remove Google Analytics.",
+   "https://monitora-pa.it"
+  ],
+  "Kaspersky: matrice dei rischi e uso nella PA italiana (2018, 2022)": [
+   "Risk matrix of using Kaspersky software in the Italian public sector, if the vendor were forced to cooperate with the Russian government (2018, updated 2022).",
+   "https://github.com/fpietrosanti/kaspersky-risks"
+  ],
+  "mxmap.it / Osservatorio Nazionale Sovranità Digitale": [
+   "Map of which providers handle the email of Italian public administrations, and an observatory on digital sovereignty (2026).",
+   "https://mxmap.it"
+  ],
+  "Italian Hacker Camp / Italian Hacker Embassy / End Summer Camp": [
+   "The Italian hacker gatherings: End Summer Camp in Venice, the Italian Hacker Camp in Padova and the Italian Hacker Embassy village at the Dutch and German camps (since CCCamp 2007).",
+   "https://www.ihc.camp"
+  ],
+  "Sikurezza.org": [
+   "Italian security community and mailing lists, co-founded around 2000; presented at Webbit and Security Summit.",
+   ""
+  ],
+  "Italian Black Hats": [
+   "Association of Italian security researchers launched at SMAU 2001; founding member.",
+   ""
+  ],
+  "biohack.it / Hacking Biology Foundation": [
+   "Open infrastructure for structured human self-experimentation: protocols, standard-coded biomarkers and shared outcomes (AGPL-3.0, non-profit, since 2023).",
+   "https://biohack.it"
+  ],
+  "LESS.green — last mile sostenibile": [
+   "Non-profit tech start-up for low-emission last-mile delivery in e-commerce (2020–2023), publishing its software on GitHub.",
+   "https://github.com/lessgreen"
+  ],
+  "Haulersense": [
+   "AI and computer-vision tools for couriers: weight and volume revenue recovery, parcel-machine telemetry and shipping analytics (2019–2023).",
+   ""
+  ],
+  "Aeroporto di Latina": [
+   "Civic campaign for Latina airport as the third airport of Lazio (2026).",
+   ""
+  ],
+  "Sendmail.cf backdoor, chrooted, firewall script (codice 2000–2002)": [
+   "Early security code and research published 2000–2002.",
+   ""
+  ],
+  "OSSCI / OSPCI — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (progetto mai partito)": [
+   "Proposal (2019) for an observatory actively measuring the security of Italy's national cyber perimeter, reviewed by dozens of engineers and lawyers and supported by more than 250 people — years before the national cybersecurity agency existed. It never started.",
+   "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano"
+  ],
+  "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)": [
+   "Proposal during the pandemic to map outbreaks from mobile-network cell data. It never started.",
+   ""
+  ],
+  "COVID-19: vulnerabilità dell'app COVID della Regione Lazio (con Giovanni Rocca)": [
+   "Security analysis of the Lazio region's COVID app, with Giovanni Rocca (2020).",
+   ""
+  ],
+  "OpenPUDO — primo software open source per reti PUDO (LESS)": [
+   "Open-source software for pick-up and drop-off point networks, released by LESS in 2021.",
+   "https://github.com/lessgreen"
+  ],
+  "ifuriosi.it — archivio delle evidenze e pubblicità Philip Morris ricondotta a Casaleggio Associati": [
+   "Archive of evidence (2020) linking the ifuriosi.it site and its Philip Morris advertising to infrastructure shared with Casaleggio Associati.",
+   "https://github.com/fpietrosanti/ifuriosi"
+  ],
+  "LIUC 2022 — intervento sui punti di ritiro PUDO al convegno SOS LOGistica «Costruire comunità sostenibili»": [
+   "Lecture on pick-up points at LIUC University's conference with SOS LOGistica (29 September 2022).",
+   "https://youtu.be/bPXna2KujUE?t=6898"
+  ],
+  "SecurStar/PhoneCrypt — debunking di una falsa «ricerca indipendente» sulla cifratura voce": [
+   "2010 evidence that a supposedly independent review of voice-encryption products was run by one of the vendors; covered by The Register.",
+   ""
+  ],
+  "Snake oil nella cifratura voce: marketing e affermazioni di sicurezza non verificabili": [
+   "2009–2010 writing against unverifiable security claims and marketing contests in voice encryption.",
+   ""
+  ],
+  "Tor exit node a bassa responsabilità (2011–2017) — ticket #17975 implementato in Tor 0.3.0": [
+   "From running an exit node to changing Tor: the proposal for exit-only outbound addresses became OutboundBindAddressExit in Tor 0.3.0.",
+   "https://gitlab.torproject.org/tpo/core/tor/-/issues/17975"
+  ],
+  "Analisi della sicurezza e della scelta delle curve ellittiche (ECC)": [
+   "2010 analysis of elliptic-curve choices in proprietary crypto products.",
+   ""
+  ],
+  "VLC over HTTPS — campagna per il download sicuro di VLC e degli eseguibili («la trollata sul TLS»)": [
+   "2017 campaign after the CIA leaks: tickets, a census of 35 HTTPS mirrors and a proof of concept pushed VideoLAN towards HTTPS downloads.",
+   "https://code.videolan.org/videolan/vlc/-/issues/18472"
+  ]
  },
  "project_titles": {
   "PrivateGSM / PrivateWave (cifratura voce mobile)": "PrivateGSM / PrivateWave",
@@ -184,24 +361,62 @@
  "archive_ui": {
   "search": "Search titles, outlets, notes…",
   "all": "All",
-  "cats": {"talks": "Talks & events", "press": "Press", "av": "TV, radio & video", "writing": "Writing", "research": "Research, reports & code"},
+  "cats": {
+   "talks": "Talks & events",
+   "press": "Press",
+   "av": "TV, radio & video",
+   "writing": "Writing",
+   "research": "Research, reports & code"
+  },
   "source": "source",
-  "copy": "archived copy",
+  "copy": "local copy",
   "count": "items",
-  "none": "Nothing matches."
+  "none": "Nothing matches.",
+  "wayback": "Web Archive"
  },
  "communities": [
-  ["Hermes Center & GlobaLeaks", "Co-founder and president since 2010. EDRi member since 2018."],
-  ["Italian hacker community", "Since 1995: s0ftpj/BFi, Sikurezza.org, Italian Black Hats, Hackmeeting, End Summer Camp, the Italian Hacker Camp and the Italian Hacker Embassy at CCCamp, HAR, OHM, SHA and the Chaos Communication Congress."],
-  ["Tor Project", "Relay and Tor2web operator and contributor, 2011–2019: hundreds of list posts and 28 tickets, two of which shipped in Tor 0.2.6 and 0.3.0."],
-  ["Progetto Winston Smith & e-privacy", "Speaker, moderator and Big Brother Awards presenter at e-privacy since 2005."],
-  ["Transparency International Italy", "Member 2014–2021, bridge with Hermes on whistleblowing."],
-  ["Copernicani", "Member: working group on online voting (2019), dialogues on facial recognition (2020) and privacy coins (2023)."]
+  [
+   "Hermes Center & GlobaLeaks",
+   "Co-founder and president since 2010. EDRi member since 2018."
+  ],
+  [
+   "Italian hacker community",
+   "Since 1995: s0ftpj/BFi, Sikurezza.org, Italian Black Hats, Hackmeeting, End Summer Camp, the Italian Hacker Camp and the Italian Hacker Embassy at CCCamp, HAR, OHM, SHA and the Chaos Communication Congress."
+  ],
+  [
+   "Tor Project",
+   "A regular of the Tor community: Tor exit-relay and Tor2web node operator, participant in the international Tor developers' meetings, contributor of tickets and proposals — two of them shipped in Tor 0.2.6 and 0.3.0."
+  ],
+  [
+   "Progetto Winston Smith & e-privacy",
+   "Speaker, moderator and Big Brother Awards presenter at e-privacy since 2005."
+  ],
+  [
+   "Transparency International Italy",
+   "Member 2014–2021, bridge with Hermes on whistleblowing."
+  ],
+  [
+   "Copernicani",
+   "Member: working group on online voting (2019), dialogues on facial recognition (2020) and privacy coins (2023)."
+  ]
  ],
  "past_sites": [
-  ["madoka — panservice.it (1999)", "past/panservice.it-people-madoka/"],
-  ["naif.itapac.net (2003)", "past/naif.itapac.net/"],
-  ["naif.itapac.net (2005)", "past/naif.itapac.net-2005/"]
+  [
+   "OSXCrypt — osxcrypt.org (2007–2008)",
+   "past/osxcrypt.org/"
+  ],
+  [
+   "madoka — panservice.it (1999)",
+   "past/panservice.it-people-madoka/"
+  ],
+  [
+   "naif.itapac.net (2003)",
+   "past/naif.itapac.net/"
+  ],
+  [
+   "naif.itapac.net (2005)",
+   "past/naif.itapac.net-2005/"
+  ]
  ],
  "footer": {
   "sync": "Headline, About and Work are kept identical to the LinkedIn profile (last sync {date}).",

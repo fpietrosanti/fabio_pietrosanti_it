@@ -230,7 +230,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
       if(i.y!==cur){ flush(); cur=i.y; buf=''; cnt=counts[i.y]; }
       const d=i.d.length>=7? i.d.slice(5).replace('-','/'):'';
       buf+=`<div class="it"><div class="dt">${d}</div><div><div class="tt"><span class="tag ${i.c}">${esc(i.k)}</span><a href="${esc(i.u)}" rel="noopener">${esc(i.t)}</a></div>`+
-           `<div class="ou">${esc(i.o)}${i.l&&i.l!=='en'?`<span class="lg">${i.l.toUpperCase()}</span>`:''}${i.a?`<a class="cp" href="${esc(i.a)}" rel="noopener">↳ ${UI.copy}</a>`:''}</div></div></div>`;
+           `<div class="ou">${esc(i.o)}${i.l&&i.l!=='en'?`<span class="lg">${i.l.toUpperCase()}</span>`:''}${i.a?`<a class="cp" href="${esc(i.a)}">↳ ${UI.copy}</a>`:''}${i.w?`<a class="cp" href="${esc(i.w)}" rel="noopener">↳ ${UI.wayback}</a>`:''}</div></div></div>`;
       n++;
     }
     flush();
