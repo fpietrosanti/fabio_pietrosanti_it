@@ -50,5 +50,70 @@
   "note": "Copernicani position cites the AIRE geo-spatial study (43 cities, 84.35%) he co-authored and links his Agenda Digitale piece; his name not in the text",
   "verified": false,
   "known": false
+ },
+ {
+  "date": "2020-10-20",
+  "year": 2020,
+  "type": "talk",
+  "outlet": "Copernicani (#DialoghiCopernicani, online)",
+  "title": "Martedi 20 ottobre ore 21:00 - Riconoscimento facciale usato dalle forze dell'ordine, strumento o arma?",
+  "url": "https://copernicani.it/blog/2020/10/16/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Online dialogue with artist-activist Paolo Cirio (Capture project) and Carlo Piana; introduced as 'presidente del Centro Hermes' and a Copernicano; announcement published 2020-10-16 (Wayback 20201019; also at www.copernicani.it/martedi-20-ottobre-ore-2100-...)",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2021-03-19",
+  "year": 2021,
+  "type": "talk",
+  "outlet": "Milano Digital Week / Comune di Milano (partecipami.it)",
+  "title": "Da Milano Partecipa alla comunita italiana per la e-democracy",
+  "url": "https://www.partecipami.it/calendar/event/1/8691",
+  "language": "it",
+  "role": "speaker",
+  "note": "He speaks for OpenRousseau; Copernicani represented by Davide Formica (not a Copernicani talk by him)",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2022-01-19",
+  "year": 2022,
+  "type": "mentioned",
+  "outlet": "civile.it (Valentino Spataro)",
+  "title": "Voto elettronico online per le politiche - 5 esperti spiegano perche' e' una disgrazia",
+  "url": "https://www.civile.it/internet/visual.php?num=95819",
+  "language": "it",
+  "role": "subject",
+  "note": "Auto-transcript of a video debate (Piana, Quintarelli et al.) crediting Pietrosanti/Copernicani for the FOIA on the e-voting committee and the AIRE study; transcript garbled",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2022-05-26",
+  "year": 2022,
+  "type": "press_release",
+  "outlet": "Copernicani",
+  "title": "Civic hackers per una Pubblica Amministrazione migliore: un sollecito agli enti pubblici per il rispetto delle normative sulla privacy",
+  "url": "https://copernicani.it/civic-hackers-per-una-pubblica-amministrazione-migliore-un-sollecito-agli-enti-pubblici-per-il-rispetto-delle-normative-sulla-privacy/",
+  "language": "it",
+  "role": "subject",
+  "note": "Copernicani joins Hermes in MonitoraPA (Google Analytics in PA), the project he co-founded; his name not on page (Wayback 20220604)",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2023-05-17",
+  "year": 2023,
+  "type": "talk",
+  "outlet": "Copernicani (in-person event)",
+  "title": "Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins",
+  "url": "https://copernicani.it/privacy-by-design-e-privacy-coins/",
+  "language": "it",
+  "role": "speaker",
+  "note": "He presents/moderates; speakers Rachel-Rose O'Leary (DarkFi) and Daniele Monteleone (Web3 Labs); announcement published 2023-05-01 (Wayback 20230517)",
+  "verified": true,
+  "known": false
  }
 ]

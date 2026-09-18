@@ -128,5 +128,57 @@
   "note": "Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only",
   "verified": false,
   "known": false
+ },
+ {
+  "date": "2013-08-03",
+  "year": 2013,
+  "type": "talk",
+  "outlet": "OHM2013 (Observe. Hack. Make.), Geestmerambacht NL - official program",
+  "title": "Digital Whistleblowing with GlobaLeaks (Day 3, 13:00) - program page",
+  "url": "https://web.archive.org/web/20131022000047/https://program.ohm2013.org/event/255.html",
+  "language": "en",
+  "role": "speaker",
+  "note": "improves existing (OHM2013 YouTube item): official program entry; speaker listed as 'Hermes Center for Transparency and Digital Human Rights', his name not on page; GlobaLeaks 0.2 release",
+  "verified": false,
+  "known": true
+ },
+ {
+  "date": "2013-08-02",
+  "year": 2013,
+  "type": "other",
+  "outlet": "OHM2013 (Observe. Hack. Make.) - Noisy Square",
+  "title": "Tor2web Meeting [N^2] (Day 2, 22:00, Noisy Square 2)",
+  "url": "https://web.archive.org/web/20140227173501/https://program.ohm2013.org/event/256.html",
+  "language": "en",
+  "role": "organiser",
+  "note": "Program entry by Hermes Center; his invitation to this meeting is documented in Tor Weekly News 31 Jul 2013 (already known); name not on this page",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2013-08-03",
+  "year": 2013,
+  "type": "workshop",
+  "outlet": "OHM2013 (Observe. Hack. Make.) - Noisy Square",
+  "title": "Setting up a Whistleblowing or Leaking initiative with GlobaLeaks [N^2] (Day 3, 15:00)",
+  "url": "https://web.archive.org/web/20140222133403/https://program.ohm2013.org/event/396.html",
+  "language": "en",
+  "role": "organiser",
+  "note": "Hermes Center workshop on deploying GlobaLeaks 0.2; his name not on page",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2013-08-03",
+  "year": 2013,
+  "type": "other",
+  "outlet": "OHM2013 (Observe. Hack. Make.) - Noisy Square",
+  "title": "Digital Whistleblowing roundtable [N^2] (Day 3, 16:00)",
+  "url": "https://web.archive.org/web/20130908205034/https://program.ohm2013.org/event/381.html",
+  "language": "en",
+  "role": "subject",
+  "note": "Roundtable with Jurre van Bergen, Hermes Center, Suelette Dreyfus, Thomas Drake, Pedro Noel, Jesselyn Radack, Smari McCarthy; Hermes representative not named",
+  "verified": false,
+  "known": false
  }
 ]

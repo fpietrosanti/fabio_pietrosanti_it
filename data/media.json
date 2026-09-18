@@ -4143,6 +4143,23 @@
  {
   "date": "2013-08-02",
   "year": 2013,
+  "type": "other",
+  "outlet": "OHM2013 (Observe. Hack. Make.) - Noisy Square",
+  "title": "Tor2web Meeting [N^2] (Day 2, 22:00, Noisy Square 2)",
+  "url": "https://web.archive.org/web/20140227173501/https://program.ohm2013.org/event/256.html",
+  "language": "en",
+  "role": "organiser",
+  "note": "Program entry by Hermes Center; his invitation to this meeting is documented in Tor Weekly News 31 Jul 2013 (already known); name not on this page",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-08-02",
+  "year": 2013,
   "type": "talk",
   "outlet": "OHM2013 (Observe. Hack. Make.), Netherlands",
   "title": "Digital Whistleblowing with GlobaLeaks",
@@ -4154,6 +4171,57 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-08-03",
+  "year": 2013,
+  "type": "talk",
+  "outlet": "OHM2013 (Observe. Hack. Make.), Geestmerambacht NL - official program",
+  "title": "Digital Whistleblowing with GlobaLeaks (Day 3, 13:00) - program page",
+  "url": "https://web.archive.org/web/20131022000047/https://program.ohm2013.org/event/255.html",
+  "language": "en",
+  "role": "speaker",
+  "note": "improves existing (OHM2013 YouTube item): official program entry; speaker listed as 'Hermes Center for Transparency and Digital Human Rights', his name not on page; GlobaLeaks 0.2 release",
+  "verified": false,
+  "known": true,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-08-03",
+  "year": 2013,
+  "type": "workshop",
+  "outlet": "OHM2013 (Observe. Hack. Make.) - Noisy Square",
+  "title": "Setting up a Whistleblowing or Leaking initiative with GlobaLeaks [N^2] (Day 3, 15:00)",
+  "url": "https://web.archive.org/web/20140222133403/https://program.ohm2013.org/event/396.html",
+  "language": "en",
+  "role": "organiser",
+  "note": "Hermes Center workshop on deploying GlobaLeaks 0.2; his name not on page",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-08-03",
+  "year": 2013,
+  "type": "other",
+  "outlet": "OHM2013 (Observe. Hack. Make.) - Noisy Square",
+  "title": "Digital Whistleblowing roundtable [N^2] (Day 3, 16:00)",
+  "url": "https://web.archive.org/web/20130908205034/https://program.ohm2013.org/event/381.html",
+  "language": "en",
+  "role": "subject",
+  "note": "Roundtable with Jurre van Bergen, Hermes Center, Suelette Dreyfus, Thomas Drake, Pedro Noel, Jesselyn Radack, Smari McCarthy; Hermes representative not named",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -8504,6 +8572,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-10-20",
+  "year": 2020,
+  "type": "talk",
+  "outlet": "Copernicani (#DialoghiCopernicani, online)",
+  "title": "Martedi 20 ottobre ore 21:00 - Riconoscimento facciale usato dalle forze dell'ordine, strumento o arma?",
+  "url": "https://copernicani.it/blog/2020/10/16/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Online dialogue with artist-activist Paolo Cirio (Capture project) and Carlo Piana; introduced as 'presidente del Centro Hermes' and a Copernicano; announcement published 2020-10-16 (Wayback 20201019; also at www.copernicani.it/martedi-20-ottobre-ore-2100-...)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_copernicani_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-10-23",
   "year": 2020,
   "type": "mentioned",
@@ -8917,7 +9002,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass2_c_2016_2026"
+   "pass2_c_2016_2026",
+   "pass4_copernicani_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -9125,6 +9211,23 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-01-19",
+  "year": 2022,
+  "type": "mentioned",
+  "outlet": "civile.it (Valentino Spataro)",
+  "title": "Voto elettronico online per le politiche - 5 esperti spiegano perche' e' una disgrazia",
+  "url": "https://www.civile.it/internet/visual.php?num=95819",
+  "language": "it",
+  "role": "subject",
+  "note": "Auto-transcript of a video debate (Piana, Quintarelli et al.) crediting Pietrosanti/Copernicani for the FOIA on the e-voting committee and the AIRE study; transcript garbled",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_copernicani_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -9438,6 +9541,23 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-05-26",
+  "year": 2022,
+  "type": "press_release",
+  "outlet": "Copernicani",
+  "title": "Civic hackers per una Pubblica Amministrazione migliore: un sollecito agli enti pubblici per il rispetto delle normative sulla privacy",
+  "url": "https://copernicani.it/civic-hackers-per-una-pubblica-amministrazione-migliore-un-sollecito-agli-enti-pubblici-per-il-rispetto-delle-normative-sulla-privacy/",
+  "language": "it",
+  "role": "subject",
+  "note": "Copernicani joins Hermes in MonitoraPA (Google Analytics in PA), the project he co-founded; his name not on page (Wayback 20220604)",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_copernicani_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -9937,6 +10057,23 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2023-05-17",
+  "year": 2023,
+  "type": "talk",
+  "outlet": "Copernicani (in-person event)",
+  "title": "Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins",
+  "url": "https://copernicani.it/privacy-by-design-e-privacy-coins/",
+  "language": "it",
+  "role": "speaker",
+  "note": "He presents/moderates; speakers Rachel-Rose O'Leary (DarkFi) and Daniele Monteleone (Web3 Labs); announcement published 2023-05-01 (Wayback 20230517)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_copernicani_2026-09-18"
   ],
   "on_old_site": false
  },
