@@ -229,3 +229,16 @@ Richiesta di Fabio 2026-09-18 — da fare **alla fine**, quando non c'è più nu
 ## Deciso
 
 - Post su forum (Rapamycin News) e mailing list: esclusi, non sono pubblicazioni.
+
+### Code aggiunte 2026-09-18 (sera) — da riprendere nel task giornaliero
+- [ ] Ticket VLC (12: #18472 #18484 #18486 #18491 #18492 #18493 #18498 #18500 #18569 #20007 #20008 #21805): code.videolan.org
+      blocca richieste automatiche (418) e i commenti via API richiedono login → copiare le pagine trac.videolan.org/vlc/ticket/N
+      dal Web Archive (con tutti i commenti). Ticket Tor: salvati via API, commenti richiedono login → stessa cosa da trac.torproject.org.
+- [ ] RaiPlay Sound / RaiNews: 403 a metà ricerca → rifare lista puntate Codice Beta e ricerca RaiNews «Pietrosanti».
+- [ ] Web Archive (rifiutava connessioni): pagine Security Summit 2008/2011 (atti, edizioni precedenti), wiki Hackmeeting
+      (_wiki seminari, hackit05, hackit08, genova2004, /wiki), newsletter Clusit dopo il 2016.
+- [ ] e-privacy: cartelle materiali 2015+ chiuse (403) → cercare file per nome dalle pagine edizione; verificare XXV BBA (solo «Hermes Center»).
+- [ ] Freedom Not Fear 2019: programma su calc.digitalcourage.de non recuperabile.
+- [ ] ICT Security (Tecna Editrice) cartaceo anni 2000: nessun indice online → chiedere a Fabio numeri/anni; numero dell'articolo «Penetration Testing & Tiger Teams».
+- [ ] TV: TG2, TG3, Neapolis (Rai 3), Studio Aperto citati nella bio 2013 senza date → chiedere a Fabio anni/argomenti.
+- [ ] Sapienza CyberChallenge.IT 2018: cercare video/foto (YouTube CINI, Sapienza).
