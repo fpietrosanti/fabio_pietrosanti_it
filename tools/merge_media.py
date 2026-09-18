@@ -237,6 +237,15 @@ def main():
     files = sorted(glob.glob(str(src / "*.json")))
     baseline = parse_baseline()
     raw, items = merge(files)
+    dec_path = ROOT / "data/research/decisions.json"
+    if dec_path.exists():
+        dec = json.load(io.open(dec_path, encoding="utf-8"))
+        drop = {norm_url(e["url"]) for e in dec.get("exclude", [])}
+        items = [i for i in items if norm_url(i.get("url")) not in drop]
+        for o in dec.get("override", []):
+            for i in items:
+                if norm_url(i.get("url")) == norm_url(o["url"]):
+                    i.update(o["set"])
     for i in items:
         i["on_old_site"] = matches_baseline(i, baseline)
         i.pop("_slice", None)

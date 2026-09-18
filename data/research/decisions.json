@@ -1,0 +1,51 @@
+{
+ "about": "Decisions by Fabio (2026-09-18) applied by tools/merge_media.py: 'exclude' items are dropped from data/media.json (kept here with the reason); 'override' fields are applied to matching URLs.",
+ "not_me": [
+  "Paolo Pietrosanti (radicale) — any article about him is excluded"
+ ],
+ "exclude": [
+  {
+   "url": "https://archive.org/details/hackerjournal-10",
+   "reason": "Hacker Journal n.10 names 'Alessio Orlandi (Naif)': Alessio Orlandi is 'Nail', not Fabio; no mention of Mozzarella/Fastweb (Fabio: in that case it is not me)"
+  },
+  {
+   "url": "https://archive.org/details/lastampa_1997-10-30",
+   "reason": "La Stampa 1997, Fabio Pietrosanti from Velletri in a prize list: not Fabio"
+  },
+  {
+   "url": "https://archive.org/details/lastampa_1997-10-30/page/n51",
+   "reason": "idem"
+  },
+  {
+   "url": "https://archivio.corriere.it/Archivio/interface/landing.html",
+   "reason": "Corriere 2001-01-26: an unnamed 'esperto'; Fabio's rule: without his name or nick it is not him"
+  },
+  {
+   "url": "https://www.punto-informatico.it/pietrosanti-una-corte-per-internet/",
+   "reason": "Paolo Pietrosanti"
+  }
+ ],
+ "override": [
+  {
+   "url": "https://www.s0ftpj.org/bfi/bfi4.tar.gz",
+   "set": {
+    "verified": true,
+    "note": "Reader letter signed 'Naif' in BFi n.4 (Dec 1998): confirmed by Fabio 2026-09-18"
+   }
+  },
+  {
+   "url": "https://archive.org/details/business-week_2020-05-04",
+   "set": {
+    "title": "Wanna Do Business in Pyongyang? Call North Korea's Guy in Spain (Josh Dean), print edition p.70",
+    "note": "Pyongyang blockchain/cryptocurrency conference and North Korean programmers; confirmed by Fabio 2026-09-18. Online: https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain",
+    "verified": true
+   }
+  }
+ ],
+ "open_questions": [
+  {
+   "item": "Radio Monte Carlo 2010 audio interview",
+   "status": "Fabio does not remember; keep searching (Web Archive of radiomontecarlo.net)"
+  }
+ ]
+}

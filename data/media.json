@@ -3,6 +3,57 @@
   "date": null,
   "year": null,
   "type": "mentioned",
+  "outlet": "techjournalism.medium.com",
+  "title": "No Future for the  North Korea Fixer",
+  "url": "https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …s not to attend. Those who defend Griffith case also see little guilt on Chris Emms´s side, another non-US person next to Benos, now pursued by US authorities. Fabio Pietrosanti attended the controversial conference, too…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_bloomberg_nk_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "thewalrus.ca",
+  "title": "North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus",
+  "url": "https://thewalrus.ca/north-korea-cryptocurrency/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …ose who have already publicly said they attended: Christopher Emms, the organizer, a Brit with a background in finance; Italian information-security specialist Fabio Pietrosanti; and an American living in Singapore, Virg…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_bloomberg_nk_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "taylorsimone.substack.com",
+  "title": "Once a Bitcoin Miner",
+  "url": "https://taylorsimone.substack.com/p/once-a-bitcoin-miner",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …ryptocurrency related topics for Financial Post. His latest book ONCE A BITCOIN MINER is available on October 19th, 2021. You can buy a copy with Bitcoin here. Fabio Pietrosanti is an entrepreneur and technologist based …",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_bloomberg_nk_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
   "outlet": "zeusnews.it",
   "title": "La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori",
   "url": "https://www.zeusnews.it/n.php?c=25616",
@@ -51,40 +102,6 @@
   "on_old_site": false
  },
  {
-  "date": "1997-10-27",
-  "year": 1997,
-  "type": "newspaper",
-  "outlet": "La Stampa",
-  "title": "La Stampa 1997-10-27 / 1997-10-30 / 1997-10-31 (list of names)",
-  "url": "https://archive.org/details/lastampa_1997-10-30",
-  "language": "it",
-  "role": "named (identity uncertain)",
-  "note": "Recurring list in IA full text: '... Gabriella Giacoletto, Milano - Fabio Pietrosanti, Velletri (Roma) - Elio Romani, Malcesine (Vr)', apparently a prize or contest winners list. 'Velletri (Roma)' does not clearly match him (Latina); possible homonym. Kept for review only.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_books_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "1997-10-30",
-  "year": 1997,
-  "type": "other",
-  "outlet": "La Stampa, 27/30/31 October 1997 (contest winners list, repeated on many pages)",
-  "title": "Winners list, prize contest (tickets for Gran Premio di Monza 1998)",
-  "url": "https://archive.org/details/lastampa_1997-10-30/page/n51",
-  "language": "it",
-  "role": "named (possible homonym)",
-  "note": "Text: 'Gabriella Giacoletto, Milano - Fabio Pietrosanti, Velletri (Roma) - Elio Romani, Malcesine'. Name matches but identity NOT confirmed (no hacker context). Also lastampa_1997-10-27 and lastampa_1997-10-31. Probably irrelevant.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_archive_texts_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
   "date": "1998-12",
   "year": 1998,
   "type": "article_by",
@@ -93,7 +110,7 @@
   "url": "https://www.s0ftpj.org/bfi/bfi4.tar.gz",
   "language": "it",
   "role": "author",
-  "note": "Letter signed 'Naif' in the BFi 4 mail section (net-cafe time-control software); nick matches, attribution likely but not certain",
+  "note": "Reader letter signed 'Naif' in BFi n.4 (Dec 1998): confirmed by Fabio 2026-09-18",
   "verified": true,
   "known": false,
   "_slices": [
@@ -387,23 +404,6 @@
   "known": true,
   "_slices": [
    "slice1_1995_2006"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2001-01-26",
-  "year": 2001,
-  "type": "quoted",
-  "outlet": "Corriere della Sera (ed. nazionale, p. 25, Cronache)",
-  "title": "Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma pirati'",
-  "url": "https://archivio.corriere.it/Archivio/interface/landing.html",
-  "language": "it",
-  "role": "quoted",
-  "note": "Corriere archive API: this is the only 1995-2012 article matching both 'Pietrosanti' and 'hacker', and it ranks first for 'Fabio Pietrosanti'; subhead cites an unnamed 'esperto' (likely him, then at I.NET). Full text is behind the archive login and was not read - verify manually",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass2_a_1995_2008"
   ],
   "on_old_site": false
  },
@@ -765,23 +765,6 @@
    "pass2_a_1995_2008"
   ],
   "on_old_site": true
- },
- {
-  "date": "2002-10-10",
-  "year": 2002,
-  "type": "mentioned",
-  "outlet": "Hacker Journal n.10 (WLF Publishing)",
-  "title": "HJ ha surfato per voi: blackhats.it",
-  "url": "https://archive.org/details/hackerjournal-10",
-  "language": "it",
-  "role": "subject",
-  "note": "Site review of blackhats.it naming members 'Raoul Chiesa (Nobody) e Alessio Orlandi (Naif)' - nick cited, real name misattributed by the magazine; pages dated 2-10-2002; issue on newsstands ~10-24 Oct 2002 (n.11 is 24 Oct-7 Nov 2002)",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass2_a_1995_2008"
-  ],
-  "on_old_site": false
  },
  {
   "date": "2002-10-10",
@@ -7178,15 +7161,32 @@
   "on_old_site": false
  },
  {
+  "date": "2020-05-01",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "bloomberg.com",
+  "title": "Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain",
+  "url": "https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …nvitation, except for journalists and residents of South Korea, Japan, and Israel. Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti. He says the two-day event was strange: Th…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_bloomberg_nk_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-05-04",
   "year": 2020,
   "type": "mentioned",
   "outlet": "Bloomberg Businessweek, 2020-05-04 issue",
-  "title": "Article on the 2019 Pyongyang blockchain/cryptocurrency conference (Businessweek)",
+  "title": "Wanna Do Business in Pyongyang? Call North Korea's Guy in Spain (Josh Dean), print edition p.70",
   "url": "https://archive.org/details/business-week_2020-05-04",
   "language": "en",
   "role": "subject (attendee)",
-  "note": "IA full-text (FTS API) snippets: 'including Italian information- security specialist Fabio Pietrosanti. He says the two-day event was strange'; 'Pietrosanti had a more fruitful trip. He'd been looking for cheap technical...'; '[Cao de] Bends helped him set up meetings. Shortly thereafter, Pietrosanti paid EUR 7,100 (about $7,700) for four months of design...'. Item is lending-restricted (text download 403); evidence from IA FTS snippets only; article title not visible.",
+  "note": "Pyongyang blockchain/cryptocurrency conference and North Korean programmers; confirmed by Fabio 2026-09-18. Online: https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain",
   "verified": true,
   "known": false,
   "_slices": [

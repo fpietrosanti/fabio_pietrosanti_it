@@ -8,20 +8,31 @@ Stato generale: **513 voci** trovate; copie processate per tutte quelle esistent
 | # | Problema | Effetto | Proposta |
 |---|---|---|---|
 | A1 | **Google mostra il controllo anti-robot dopo ~10 ricerche** nel Chrome di Fabio | Non si possono fare tutte le 129 testate in un colpo solo | Blocchi da 8 ricerche ogni 4 ore (task programmato). Alternativa più veloce: chiave API di Google Programmable Search (100 query/giorno gratis) o Brave Search API, creata da Fabio |
-| A2 | **Il task delle 4 ore non trova Chrome** («extension disconnected») quando gira in automatico | Stanotte 0 ricerche; coda ferma finché non c'è una sessione manuale | Fabio: tenere Chrome aperto con l'estensione Claude collegata, e premere «Esegui ora» sul task una volta per approvare i tool. Oggi a mano: 8 ricerche, +6 voci |
+| A2 | **Il task delle 4 ore non trovava Chrome** la notte del 17/09 (poi collegato; alcune esecuzioni saltate con computer in sospensione) | Stanotte 0 ricerche; coda ferma finché non c'è una sessione manuale | Fabio: tenere Chrome aperto con l'estensione Claude collegata, e premere «Esegui ora» sul task una volta per approvare i tool. Oggi a mano: 8 ricerche, +6 voci |
 | A3 | Il **web search degli agenti** copre male il periodo pre-2016 e ha 200 ricerche a sessione condivise | Anni 1995–2008 e 2023–2025 ancora scarsi | Si compensa con archivi dei singoli siti, Internet Archive full-text, e con Google site: per testata |
 | A4 | Google Scholar, Google Books (interfaccia web), DuckDuckGo, HAL, theses.fr: **controlli anti-bot** | Citazioni accademiche e libri incompleti | Usiamo le API (Google Books API ha quota giornaliera: 429; Semantic Scholar: 429 senza chiave). Una **chiave API Semantic Scholar** (gratuita, da richiedere) sbloccherebbe molto |
 | A5 | **Siti con ricerca solo JavaScript** (Corriere, Sole 24 Ore, ANSA, RAI, La7, Sky) | La ricerca interna del sito non è leggibile dagli agenti; quella del Corriere è comunque scarsa | Google site: nel Chrome di Fabio (funziona). RAI Teche e Mediaset restano da provare nel browser |
 | A6 | **Omonimi** (Paolo Pietrosanti radicale, Matteo, Roberto, il giornalista calabrese Fabio Pietrosanti…) | Molti falsi candidati; oggi un falso positivo su Punto Informatico corretto | Filtro migliorato (ignora i footer «privacy policy»); casi dubbi elencati sotto per verifica di Fabio |
 | A7 | **Archivi con login** (Corriere archivio storico, Repubblica «Rep» edicola, La Stampa archivio) | Articoli pre-2010 non leggibili | Se Fabio ha un abbonamento, lettura nel suo Chrome; altrimenti restano «da verificare» |
 
-### Voci che solo Fabio può chiarire
-- **Corriere della Sera 2001-01-26 p.25**: un «esperto» anonimo citato su hacker — sei tu? (serve login archivio)
-- **La Stampa 1997-10-30**: «Fabio Pietrosanti, Velletri (Roma)» tra i vincitori di un concorso — sei tu?
-- **Hacker Journal n.10 (2002)**: il nick «Naif» attribuito a «Alessio Orlandi» — refuso o altra persona?
-- **BFi n.4 (1998)**: lettera firmata «Naif» — tua?
-- **Bloomberg Businessweek 2020-05-04 p.70**: ti cita, ma manca il titolo dell'articolo (ricordi il tema?)
-- **Radio Monte Carlo 2010**: intervista «Consulente di sicurezza informatica» — ricordi data e trasmissione?
+### Risposte di Fabio (2026-09-18) — applicate in `data/research/decisions.json`
+- Paolo Pietrosanti non è Fabio. Regola: senza nome o nick «naif» non è lui.
+- Corriere 2001-01-26: esperto senza nome → **escluso**. La Stampa 1997 (Velletri) → **escluso**.
+- Hacker Journal n.10: «Alessio Orlandi (Naif)» = Nail, niente Mozzarella/Fastweb → **escluso**.
+- BFi n.4 (1998), lettera «Naif» → **confermata**.
+- Bloomberg Businessweek 2020 → **confermato e trovato**: «Wanna Do Business in Pyongyang? Call North Korea's Guy in
+  Spain» (Josh Dean, 2020-05-01, conferenza blockchain di Pyongyang e programmatori nordcoreani), più The Walrus,
+  Medium «No Future for the North Korea Fixer», Substack «Once a Bitcoin Miner».
+- Radio Monte Carlo 2010: Fabio non ricorda → si continua a cercare nel Web Archive.
+
+### Cosa serve da Fabio
+- **Brave Search API**: creare la chiave su https://api-dashboard.search.brave.com/ (piano gratuito) e impostarla come
+  variabile d'ambiente utente `BRAVE_API_KEY` (poi riavviare l'app Claude). Lo script `tools/brave_search.py` e il task
+  delle 4 ore la usano da soli. Io non posso creare account.
+- **Controlli anti-robot di Google**: non li posso risolvere io. Se compare, puoi risolverlo tu nella tab dedicata e il
+  task riprende al giro successivo.
+- **Computer acceso e app Claude aperta**: i task delle 02:52 e 06:52 UTC del 18/09 non sono partiti (probabile
+  computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
 

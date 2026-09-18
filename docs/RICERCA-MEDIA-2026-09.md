@@ -5,23 +5,22 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **635**; dopo deduplica: **513**
+- Risultati grezzi dalle ricerche: **639**; dopo deduplica: **513**
 - Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
 - **Nuovi rispetto al vecchio sito: 481**
-- Verificati aprendo la pagina: **445**; solo da risultato di ricerca: **68**
+- Verificati aprendo la pagina: **448**; solo da risultato di ricerca: **65**
 
-Per tipo (nuovi): Menzionato 84, Post sul blog infosecurity.ch 71, Talk 65, Video 47, Citato 39, Progetto 35, Altro 18, Articolo scritto 15, Ricerca 14, Comunicato 14, Report 13, Paper 11, Podcast 11, Libro 11, Radio 8, Intervista 6, Slide 4, Capitolo di libro 4, TV 3, newspaper 2, Brevetto 2, Tesi 2, Wiki 1, Audizione 1
+Per tipo (nuovi): Menzionato 87, Post sul blog infosecurity.ch 71, Talk 65, Video 47, Citato 38, Progetto 35, Altro 17, Articolo scritto 15, Ricerca 14, Comunicato 14, Report 13, Paper 11, Podcast 11, Libro 11, Radio 8, Intervista 6, Slide 4, Capitolo di libro 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
 | Anno | Vecchio sito | Trovati | di cui nuovi |
 |---|---:|---:|---:|
-| 1997 | 0 | 2 | 2 |
 | 1998 | 0 | 1 | 1 |
 | 1999 | 0 | 1 | 1 |
 | 2000 | 2 | 15 | 12 |
-| 2001 | 8 | 13 | 8 |
-| 2002 | 2 | 14 | 7 |
+| 2001 | 8 | 12 | 7 |
+| 2002 | 2 | 13 | 6 |
 | 2003 | 5 | 6 | 5 |
 | 2004 | 1 | 3 | 3 |
 | 2005 | 1 | 5 | 3 |
@@ -39,7 +38,7 @@ Per tipo (nuovi): Menzionato 84, Post sul blog infosecurity.ch 71, Talk 65, Vide
 | 2017 | 0 | 48 | 48 |
 | 2018 | 0 | 36 | 36 |
 | 2019 | 0 | 11 | 11 |
-| 2020 | 0 | 27 | 27 |
+| 2020 | 0 | 28 | 28 |
 | 2021 | 0 | 22 | 22 |
 | 2022 | 0 | 38 | 38 |
 | 2023 | 0 | 7 | 7 |
@@ -233,7 +232,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 27 voci, 27 nuove
+## 2020 — 28 voci, 28 nuove
 
 - 🆕 **2020-12-03** · Progetto · GitHub fpietrosanti — [ifuriosi](https://github.com/fpietrosanti/ifuriosi)  
   Document archive of the ifuriosi platform
@@ -261,8 +260,10 @@ Anni senza nessun risultato: nessuno
   Out of slice (incidental): quoted on OTF funding being decisive for GlobaLeaks
 - 🆕 **2020-06-09** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810)  
   Contribution as GLS network licensee on e-commerce delivery
-- 🆕 **2020-05-04** · Menzionato · Bloomberg Businessweek, 2020-05-04 issue — [Article on the 2019 Pyongyang blockchain/cryptocurrency conference (Businessweek)](https://archive.org/details/business-week_2020-05-04)  
-  IA full-text (FTS API) snippets: 'including Italian information- security specialist Fabio Pietrosanti. He says the two-day event was strange'; 'Pietrosanti had a more fruitful trip. He'd been looking for cheap technical...'; '[Cao de] Bends helped him set up meetings. Shortly thereafter, Pietrosanti paid EUR 7,100 (about $7,700) for four months of design...'. Item is lending-restricted (text download 403); evidence from IA FTS snippets only; article title not visible.
+- 🆕 **2020-05-04** · Menzionato · Bloomberg Businessweek, 2020-05-04 issue — [Wanna Do Business in Pyongyang? Call North Korea's Guy in Spain (Josh Dean), print edition p.70](https://archive.org/details/business-week_2020-05-04)  
+  Pyongyang blockchain/cryptocurrency conference and North Korean programmers; confirmed by Fabio 2026-09-18. Online: https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain
+- 🆕 **2020-05-01** · Menzionato · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain)  
+  verified via wayback; context: …nvitation, except for journalists and residents of South Korea, Japan, and Israel. Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti. He says the two-day event was strange: Th…
 - 🆕 **2020-04-28** · Video · CRS Scuola Critica del Digitale + Forum Disuguaglianze e Diversita (webinar) — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/)  
   COVID-19 webinar on contact-tracing apps (Immuni era); his talk from 00:40:00
 - 🆕 **2020-03-27** · Podcast · Agenda Podcast (Spreaker) — [Coronavirus: cos'è e come funziona il contact tracing?](https://www.spreaker.com/episode/coronavirus-cos-e-e-come-funziona-il-contact-tracing--24430226)  
@@ -1049,14 +1050,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2003-01** · Articolo scritto · Win Magazine n.48 (Edizioni Master), gennaio 2003 — [Caccia alle reti wireless - Lo sviluppo delle reti Wi-Fi cresce giorno dopo giorno, ma emergono nuovi problemi di sicurezza (di Fabio Pietrosanti e Yvette Agostini)](https://archive.org/details/win-magazine-italia-48)  
   Co-authored with Yvette Agostini, bylined as members of the Italian Blackhats association; verified in IA OCR text
 
-## 2002 — 14 voci, 7 nuove
+## 2002 — 13 voci, 6 nuove
 
 - ↺ **2002-10-30** · Menzionato · Apogeonline — [Ethical Hacker's Speech II](https://www.apogeonline.com/articoli/ethical-hackers-speech-ii-associazione-italian-blackhats/) _(non verificato)_  
   Programme of the Italian Blackhats speech at SMAU 2002 (the association he co-founded); his name is not on the page
 - 🆕 **2002-10-24** · Menzionato · Hacker Journal n.11 (24 ottobre-7 novembre 2002) — [News: reti wireless aperte - indagine sul campo a Milano da Naif e Vodka per conto di Portel; Etica hacker a SMAU02](https://archive.org/details/hackerjournal-11)  
   Reports the Portel wardriving survey by Naif and Vodka (18 access points in one hour, 12 without WEP) and the ITBH Ethical Hackers' Speech at SMAU 2002; pages dated 16-10-2002
-- 🆕 **2002-10-10** · Menzionato · Hacker Journal n.10 (WLF Publishing) — [HJ ha surfato per voi: blackhats.it](https://archive.org/details/hackerjournal-10)  
-  Site review of blackhats.it naming members 'Raoul Chiesa (Nobody) e Alessio Orlandi (Naif)' - nick cited, real name misattributed by the magazine; pages dated 2-10-2002; issue on newsstands ~10-24 Oct 2002 (n.11 is 24 Oct-7 Nov 2002)
 - ↺ **2002-10-10** · Intervista · Apogeonline (Portel survey) — [A caccia di reti wireless insicure](https://www.apogeonline.com/articoli/a-caccia-di-reti-wireless-insicure-redazione-apogeonline/)  
   Portel wardriving survey in Milan with experts 'naif' (Fabio Pietrosanti, Network Security Manager, Italian Blackhats) and 'vodka'; wireless security decalogue
 - ↺ **2002-10-09** · Menzionato · La Stampa (archivio storico, ed. 9 ottobre 2002, p. 3) — [Gli «ethical hackers» si ritrovano in Blackhats.it (box 'Le guide III')](http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,3/articleid,0306_01_2002_0276_0074_2761193/)  
@@ -1080,7 +1079,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2002-01-17** · Menzionato · BFi 11-dev file 04 — [Drivers e SEH in Win NT/2000 (valv`0)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-04)  
   naif in credits/greetings
 
-## 2001 — 13 voci, 8 nuove
+## 2001 — 12 voci, 7 nuove
 
 - 🆕 **2001-10-29** · Menzionato · Apogeonline — [Un raggio di luce su SMAU](https://www.apogeonline.com/articoli/un-raggio-di-luce-su-smau-raoul-chiesa/)  
   Same Raoul Chiesa report republished on Apogeonline
@@ -1104,8 +1103,6 @@ Anni senza nessun risultato: nessuno
   Discussion of Cisco's response to his PIX notes
 - ↺ **2001-03-09** · Ricerca · Bugtraq — [Cisco PIX Security Notes](https://seclists.org/bugtraq/2001/Mar/148)  
   Multiple PIX security notes, signed I.NET SpA Security Staff; MARC: https://marc.info/?l=bugtraq&m=98433390918280&w=2
-- 🆕 **2001-01-26** · Citato · Corriere della Sera (ed. nazionale, p. 25, Cronache) — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma pirati'](https://archivio.corriere.it/Archivio/interface/landing.html) _(non verificato)_  
-  Corriere archive API: this is the only 1995-2012 article matching both 'Pietrosanti' and 'hacker', and it ranks first for 'Fabio Pietrosanti'; subhead cites an unnamed 'esperto' (likely him, then at I.NET). Full text is behind the archive login and was not read - verify manually
 - 🆕 **2001** · Progetto · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) _(non verificato)_  
   Association he co-founded; site offline and the Wayback Machine was down during this research
 
@@ -1150,17 +1147,13 @@ Anni senza nessun risultato: nessuno
 ## 1998 — 1 voci, 1 nuove
 
 - 🆕 **1998-12** · Articolo scritto · BFi (Butchered From Inside) n.4 — ["leggeteve questa" by Naif (reader letter)](https://www.s0ftpj.org/bfi/bfi4.tar.gz)  
-  Letter signed 'Naif' in the BFi 4 mail section (net-cafe time-control software); nick matches, attribution likely but not certain
-
-## 1997 — 2 voci, 2 nuove
-
-- 🆕 **1997-10-30** · Altro · La Stampa, 27/30/31 October 1997 (contest winners list, repeated on many pages) — [Winners list, prize contest (tickets for Gran Premio di Monza 1998)](https://archive.org/details/lastampa_1997-10-30/page/n51) _(non verificato)_  
-  Text: 'Gabriella Giacoletto, Milano - Fabio Pietrosanti, Velletri (Roma) - Elio Romani, Malcesine'. Name matches but identity NOT confirmed (no hacker context). Also lastampa_1997-10-27 and lastampa_1997-10-31. Probably irrelevant.
-- 🆕 **1997-10-27** · newspaper · La Stampa — [La Stampa 1997-10-27 / 1997-10-30 / 1997-10-31 (list of names)](https://archive.org/details/lastampa_1997-10-30) _(non verificato)_  
-  Recurring list in IA full text: '... Gabriella Giacoletto, Milano - Fabio Pietrosanti, Velletri (Roma) - Elio Romani, Malcesine (Vr)', apparently a prize or contest winners list. 'Velletri (Roma)' does not clearly match him (Latina); possible homonym. Kept for review only.
+  Reader letter signed 'Naif' in BFi n.4 (Dec 1998): confirmed by Fabio 2026-09-18
 
 ## Senza data
 
+- 🆕 Menzionato · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1)
+- 🆕 Menzionato · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/)
+- 🆕 Menzionato · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner)
 - 🆕 Menzionato · zeusnews.it — [La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori](https://www.zeusnews.it/n.php?c=25616)
 - 🆕 Menzionato · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
