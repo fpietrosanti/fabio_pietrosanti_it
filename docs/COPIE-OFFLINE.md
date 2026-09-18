@@ -5,13 +5,13 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **513**; già processate: **519**; ancora da processare: **0**
-- Licenza delle copie ottenute: **181** materiale proprio (ripubblicabile), **333** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **385**
+- Voci in `data/media.json`: **513**; già processate: **519**; ancora da processare: **4**
+- Licenza delle copie ottenute: **181** materiale proprio (ripubblicabile), **334** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **386**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **59**
 - 🎬 Video/audio scaricato (+ pagina): **69**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
-- ❌ Non ottenuta: **5**
+- ❌ Non ottenuta: **4**
 
 ## Per anno
 
@@ -47,10 +47,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2023 | 5 | 0 | 2 | 0 | 0 | 0 | 0 |
 | 2024 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
 | 2025 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 6 | 0 | 6 | 0 | 0 | 0 | 1 |
+| 2026 | 7 | 0 | 6 | 0 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
+- ⏳ **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1)
+- ⏳ **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/)
+- ⏳ **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner)
+- ⏳ **2020** · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain)
 
 ## Fonti NON ottenute o incomplete
 
@@ -64,8 +68,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   http 404
 - ❌ **2011** · Infosec Island — [ZRTP Voice Encryption is Finally a Standard RFC](http://sktguow.infosecisland.com/blogview/12929-ZRTP-Voice-Encryption-is-Finally-a-Standard-RFC.html) · licenza: propria  
   host gone; not in Web Archive under this host or www.infosecisland.com (CDX 504/empty)
-- ❌ **2026** · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753) · licenza: terzi  
-  http 403
 - 🟡 **1998** · BFi (Butchered From Inside) n.4 — ["leggeteve questa" by Naif (reader letter)](https://www.s0ftpj.org/bfi/bfi4.tar.gz) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2000** · SecurityFocus BID 1335 — [3R Soft MailStudio 2000 vulnerabilities (BID 1335, CVE-2000-0526)](https://www.securityfocus.com/bid/1335) · licenza: propria  
@@ -668,3 +670,4 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · GitHub — [whistleblowing-monitor-italia: Monitor Whistleblowing Reporting Channel in Italy (PA & Sto](https://github.com/fpietrosanti/whistleblowing-monitor-italia) · copia: `2026/497cb665997c` (live) · licenza: propria
 - **2026** · GlobaLeaks — [People | GlobaLeaks](https://globaleaks.org/about/people/) · copia: `2026/a2dd5929df8c` (live) · licenza: propria
 - **2026** · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0) · copia: `2026/9a1df4eb5776` (live) · licenza: terzi
+- **2026** · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753) · copia: `2026/0ce8a2cc2c65` (browser) · licenza: terzi

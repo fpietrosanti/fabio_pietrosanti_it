@@ -43,7 +43,7 @@ Stato generale: **513 voci** trovate; copie processate per tutte quelle esistent
 | 2010 | PrivateWave press release ES (PDF) | idem | idem |
 | 2010 | Radio Monte Carlo, audio intervista | 404, nessuna copia archiviata | Chiedere a RMC o cercare registrazioni personali |
 | 2011 | Infosec Island, «ZRTP Voice Encryption is Finally a Standard» | sito chiuso, non archiviato | Cercare ripubblicazioni del testo (PrivateWave blog, mailing list) |
-| 2026 | Zhihu (cinese) sul TimePie Forum | 403 anti-bot | Aprirlo nel Chrome di Fabio |
+| ~~2026~~ | ~~Zhihu sul TimePie Forum~~ | **Risolto 18/09**: letto nel Chrome di Fabio, salvato l’estratto con il suo intervento | Web Archive «save» ha risposto 500: riprovare |
 
 ### B2. Video non scaricabile (1)
 - YouTube `mAtBH2hkAcg` (2019): «video non disponibile». Pagina salvata. Proposta: cercare lo stesso intervento su altri canali o chiedere all'organizzatore.
