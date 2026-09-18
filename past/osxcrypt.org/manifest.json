@@ -1,0 +1,917 @@
+{
+ "name": "osxcrypt.org",
+ "start": "http://www.osxcrypt.org/",
+ "timestamp": "20080403210410",
+ "scope": "http://www.osxcrypt.org/",
+ "title": "OSXCrypt — TrueCrypt for macOS (2007–2008)",
+ "pages": [
+  {
+   "url": "http://www.osxcrypt.org/",
+   "status": 200,
+   "capture": "20080509081102",
+   "type": "text/html; charset=UTF-8",
+   "local": "index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2007/11/",
+   "status": 200,
+   "capture": "20080329190349",
+   "type": "text/html; charset=UTF-8",
+   "local": "2007/11/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2007/11/26/hello-world/",
+   "status": 200,
+   "capture": "20080329190355",
+   "type": "text/html; charset=UTF-8",
+   "local": "2007/11/26/hello-world/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2007/11/26/hello-world/&quot;&quot;",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/2007/12/",
+   "status": 200,
+   "capture": "20080329190402",
+   "type": "text/html; charset=UTF-8",
+   "local": "2007/12/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2007/12/13/habemus-sourceforge/",
+   "status": "error",
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/2007/12/16/got-success-with-kernel-based-encryption-filter/",
+   "status": 200,
+   "capture": "20080513163251",
+   "type": "text/html; charset=UTF-8",
+   "local": "2007/12/16/got-success-with-kernel-based-encryption-filter/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2007/12/16/got-success-with-kernel-based-encryption-filter/&quot;&quot;",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/01/",
+   "status": 200,
+   "capture": "20080329190414",
+   "type": "text/html; charset=UTF-8",
+   "local": "2008/01/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/01/23/first-alpha-5-public-release-is-coming/",
+   "status": 200,
+   "capture": "20080329190420",
+   "type": "text/html; charset=UTF-8",
+   "local": "2008/01/23/first-alpha-5-public-release-is-coming/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/01/23/first-alpha-5-public-release-is-coming/&quot;&quot;",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/01/23/this-is-not-a-scam-real-truecrypt-for-macos-is-here/",
+   "status": 200,
+   "capture": "20080513141810",
+   "type": "text/html; charset=UTF-8",
+   "local": "2008/01/23/this-is-not-a-scam-real-truecrypt-for-macos-is-here/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/01/23/this-is-not-a-scam-real-truecrypt-for-macos-is-here/&quot;&quot;",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/01/27/osxcrypt-62a-and-source-code-released/",
+   "status": 200,
+   "capture": "20080513141704",
+   "type": "text/html; charset=UTF-8",
+   "local": "2008/01/27/osxcrypt-62a-and-source-code-released/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/01/27/osxcrypt-62a-and-source-code-released/&quot;&quot;",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/01/27/some-clarification-no-spaghetti-code-only-tight-integration-and-beta-quality/",
+   "status": 200,
+   "capture": "20080513163815",
+   "type": "text/html; charset=UTF-8",
+   "local": "2008/01/27/some-clarification-no-spaghetti-code-only-tight-integration-and-beta-quality/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/02/",
+   "status": 200,
+   "capture": "20080403210410",
+   "type": "text/html; charset=UTF-8",
+   "local": "2008/02/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/02/04/they-told-you/",
+   "status": 200,
+   "capture": "20080513141629",
+   "type": "text/html; charset=UTF-8",
+   "local": "2008/02/04/they-told-you/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/02/04/they-told-you/&quot;&quot;",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/02/06/truecrypt-50-is-out/",
+   "status": 200,
+   "capture": "20080315115932",
+   "type": "text/html; charset=UTF-8",
+   "local": "2008/02/06/truecrypt-50-is-out/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/2008/02/06/truecrypt-50-is-out/&quot;&quot;",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/?epl=-q-BXOtB3Ygb4yKjxSugSRCgGE0ICYVTJHfx2_mAjcKH3gKyZUcxCggNDCnjeQcnih5Mlc7JYn70ElZh2jwIL7XYTASClkBQyAkjGQvoKTLMjwxFgjX7nX6ApqGeMI3iKY96itCUGQChpzzpqYcidAAgYNynvwAAoH8BAABggFsIAAABitGEWVMmWUExNmhaQm0AAADw",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/?epl=46hVznDfxIIM7IhEgAawGFyqmPGQUDhFchdf1gQ8YfmyqGD-mqPdDYwVibXzIlJJ1VGa1gvp7L7kI1vDbZyrnDvRwRQ3HCAnBOjawy9Ik8ApJwW9oNo56wzVzKAehfZUJtP0FAEAAAAocgAgYNynvwAA4HwBAABggFsJAABcqpjxWVMmWUExNmhaQmwAAADw",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/?epl=4qEKUUmaAZReb9pJYICvUUC7FGMOEgqnSO6iP3l4LlQsiwnmn_kZpQNjJaXWSN_JkrkfNLzX0eS-6CMZQ53vWw0IYE1bb2kJbxV2WIiAEepq5-UmDtFEa_K9-EI1w6inBvFUTNP0UxEmAGACgDFyACBg3Ke_AADgfwEAAGCAWwgAANqlGHNZUyZZQTE2aFpCbQAAAPA",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/?epl=SCrGMO6xDCquLi6RhXIl3DCj0ssKCYVTJHfx5_zAjdqH4gK6NY9iFBAaGFLO9h2cKHoyVTpHi9mYElah7D5asKaVBclYewVDECjVIiTWuMrgpRx4QJPud_oBgHoyJAzqRxEiYwCipzzpqYcidAAgYNynvwAAoH8BAABAgFsIAAAzKr2sWVMmWUExNmhaQm0AAADw",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/?epl=sVg2Swq960LBGwLFjueQp0C5R_woJBROkdxFf_LwXKhoN1POPzEepRCc0VSrtBFpo5lj_XBuWMh94oMyFjvbW6cMjiGzuNHrGcwNKbssO1ZtTQiJuosa8r34QjUbqCc9EVM81dNP9VMRJgBgAoAxcgAgYNynvwAA4H8BAABggFsIAADlHvGjWVMmWUExNmhaQm0AAADw",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/?epl=sc-O1dCo48i5KQ2T5NR7uwCUKJ1gSCicIrmL_9YHbFQ-9BaQLXoUo4DQwJAypu_gRM2Dic45WayGL2EUotEzmDohpQRBqBEwKkKBSTVfOtMSO3HIyOTwd_tBA6gnRj31pKcmngqRGQCipzzpqYcidAAgYNynvwAA4H0BAABggFsIAAAoUTrBWVMmWUExNmhaQm0AAADw",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/about/",
+   "status": 200,
+   "capture": "20080512062600",
+   "type": "text/html; charset=UTF-8",
+   "local": "about/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/category/administration/",
+   "status": 200,
+   "capture": "20080329190425",
+   "type": "text/html; charset=UTF-8",
+   "local": "category/administration/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/category/notes/",
+   "status": 200,
+   "capture": "20080329190430",
+   "type": "text/html; charset=UTF-8",
+   "local": "category/notes/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/category/release/",
+   "status": 200,
+   "capture": "20080329190435",
+   "type": "text/html; charset=UTF-8",
+   "local": "category/release/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/category/releases/",
+   "status": 200,
+   "capture": "20080329190441",
+   "type": "text/html; charset=UTF-8",
+   "local": "category/releases/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/download.png",
+   "status": "html-instead-of-binary",
+   "capture": "20110618133054",
+   "type": "text/html",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/download/",
+   "status": 200,
+   "capture": "20080515224125",
+   "type": "text/html; charset=UTF-8",
+   "local": "download/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/download/tutorial",
+   "status": 200,
+   "capture": "20080331055835",
+   "type": "text/html; charset=UTF-8",
+   "local": "download/tutorial.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/download/tutorial/",
+   "status": 200,
+   "capture": "20080331055835",
+   "type": "text/html; charset=UTF-8",
+   "local": "download/tutorial/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/feed/",
+   "status": 200,
+   "capture": "20080329190446",
+   "type": "text/xml; charset=UTF-8",
+   "local": "feed/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/feed/atom/",
+   "status": 200,
+   "capture": "20080329190451",
+   "type": "application/atom+xml; charset=UTF-8",
+   "local": "feed/atom/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/feed/rss/",
+   "status": 200,
+   "capture": "20080329190456",
+   "type": "text/xml; charset=UTF-8",
+   "local": "feed/rss/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/",
+   "status": 200,
+   "capture": "20080512062635",
+   "type": "text/html; charset=utf-8",
+   "local": "forum/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/?CategoryID=2",
+   "status": 200,
+   "capture": "20080329171141",
+   "type": "text/html; charset=utf-8",
+   "local": "forum/index__CategoryID_2.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/?CategoryID=3",
+   "status": 200,
+   "capture": "20080224221944",
+   "type": "text/html; charset=utf-8",
+   "local": "forum/index__CategoryID_3.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/?CategoryID=4",
+   "status": 200,
+   "capture": "20080224221950",
+   "type": "text/html; charset=utf-8",
+   "local": "forum/index__CategoryID_4.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=10",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=11",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=13",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=14",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=15",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=16",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=18",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=19",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=20",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=4",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=6",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=7",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=8",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/account.php?u=9",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/categories.php",
+   "status": 200,
+   "capture": "20080209123033",
+   "type": "text/html; charset=utf-8",
+   "local": "forum/categories.php.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=1&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=10",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=10&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=11",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=11&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=12",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=12&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=2",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=2&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=3",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=3&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=4",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=4&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=5",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=5&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=6",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=6&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=7",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=7&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=8",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=8&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=9",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/comments.php?DiscussionID=9&amp;page=1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/js/ac.js",
+   "status": 200,
+   "capture": "20110715154044",
+   "type": "text/html",
+   "local": "forum/js/ac.js.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/js/ajax.js",
+   "status": 200,
+   "capture": "20110715154044",
+   "type": "text/html",
+   "local": "forum/js/ajax.js.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/js/global.js",
+   "status": 200,
+   "capture": "20110715154044",
+   "type": "text/html",
+   "local": "forum/js/global.js.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/js/vanilla.js",
+   "status": 200,
+   "capture": "20110715154058",
+   "type": "text/html",
+   "local": "forum/js/vanilla.js.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/people.php",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/people.php?PostBackAction=ApplyForm",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/people.php?PostBackAction=PasswordRequestForm",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/people.php?ReturnUrl=http://www.osxcrypt.org/forum/",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/people.php?ReturnUrl=http://www.osxcrypt.org/forum/?CategoryID=2",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/people.php?ReturnUrl=http://www.osxcrypt.org/forum/?CategoryID=3",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/people.php?ReturnUrl=http://www.osxcrypt.org/forum/?CategoryID=4",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/people.php?ReturnUrl=http://www.osxcrypt.org/forum/categories.php",
+   "status": 200,
+   "capture": "20080329171145",
+   "type": "text/html; charset=utf-8",
+   "local": "forum/people__ReturnUrl_http_www.osxcrypt.org_forum_categories.php.php.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/people.php?ReturnUrl=http://www.osxcrypt.org/forum/search.php",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/search.php",
+   "status": 200,
+   "capture": "20080703205800",
+   "type": "text/html; charset=utf-8",
+   "local": "forum/search.php.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/themes/vanilla/styles/default/favicon.ico",
+   "status": "html-instead-of-binary",
+   "capture": "20110715154059",
+   "type": "text/html",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/themes/vanilla/styles/default/people.css",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/themes/vanilla/styles/default/vanilla.css",
+   "status": 200,
+   "capture": "20110715154046",
+   "type": "text/html",
+   "local": "forum/themes/vanilla/styles/default/vanilla.css.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/forum/themes/vanilla/styles/default/vanilla.print.css",
+   "status": 200,
+   "capture": "20110715154046",
+   "type": "text/html",
+   "local": "forum/themes/vanilla/styles/default/vanilla.print.css.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/meet-the-funders",
+   "status": 200,
+   "capture": "20080329190502",
+   "type": "text/html; charset=UTF-8",
+   "local": "meet-the-funders.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/meet-the-funders/",
+   "status": 200,
+   "capture": "20080329190502",
+   "type": "text/html; charset=UTF-8",
+   "local": "meet-the-funders/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/release/OSXCrypt-6.2A-ReleaseNotes.txt",
+   "status": 200,
+   "capture": "20080329190506",
+   "type": "text/plain",
+   "local": "release/OSXCrypt-6.2A-ReleaseNotes.txt",
+   "html": false
+  },
+  {
+   "url": "http://www.osxcrypt.org/release/OSXCrypt-6.2A-source.zip",
+   "status": "html-instead-of-binary",
+   "capture": "20110618133202",
+   "type": "text/html",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/release/OSXCrypt-6.2A.mpkg.zip",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/staff",
+   "status": 200,
+   "capture": "20080329190512",
+   "type": "text/html; charset=UTF-8",
+   "local": "staff.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/staff/",
+   "status": 200,
+   "capture": "20080329190512",
+   "type": "text/html; charset=UTF-8",
+   "local": "staff/index.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-admin/wp-admin.css?version=2.3.1",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-comments-post.php",
+   "status": "error",
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-content/themes/silhouette-2column/style.css",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-content/themes/silhouette/images/favicon.ico",
+   "status": "html-instead-of-binary",
+   "capture": "20110618133056",
+   "type": "text/html",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-content/uploads/2007/12/xormediafilterscheme104kext.zip",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-content/uploads/2007/12/xormediafilterscheme105kext.zip",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-includes/images/smilies/icon_razz.gif",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-includes/images/smilies/icon_sad.gif",
+   "status": 404,
+   "capture": null,
+   "type": "",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-includes/images/smilies/icon_smile.gif",
+   "status": "html-instead-of-binary",
+   "capture": "20110618133054",
+   "type": "text/html",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-includes/images/smilies/icon_wink.gif",
+   "status": "html-instead-of-binary",
+   "capture": "20110618133054",
+   "type": "text/html",
+   "local": null
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-includes/wlwmanifest.xml",
+   "status": 200,
+   "capture": "20080512062521",
+   "type": "application/xml",
+   "local": "wp-includes/wlwmanifest.xml",
+   "html": false
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-login.php",
+   "status": 200,
+   "capture": "20080329190517",
+   "type": "text/html; charset=UTF-8",
+   "local": "wp-login.php.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/wp-login.php?action=lostpassword",
+   "status": 200,
+   "capture": "20080403210414",
+   "type": "text/html; charset=UTF-8",
+   "local": "wp-login__action_lostpassword.php.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/xmlrpc.php",
+   "status": 200,
+   "capture": "20080512062442",
+   "type": "text/html; charset=\"UTF-8\"",
+   "local": "xmlrpc.php.html",
+   "html": true
+  },
+  {
+   "url": "http://www.osxcrypt.org/xmlrpc.php?rsd",
+   "status": 200,
+   "capture": "20080206160331",
+   "type": "text/xml; charset=UTF-8",
+   "local": "xmlrpc__rsd.php.html",
+   "html": true
+  }
+ ]
+}

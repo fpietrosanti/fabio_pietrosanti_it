@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-ca">
+	<head>
+		<title>OSXCrypt Forum - Search</title>
+		<link rel="shortcut icon" href="https://web.archive.org/web/20080703205800/http://www.osxcrypt.org/forum/themes/vanilla/styles/default/favicon.ico" />
+				<link rel="stylesheet" type="text/css" href="../forum/themes/vanilla/styles/default/vanilla.css.html" media="screen" />
+				<link rel="stylesheet" type="text/css" href="../forum/themes/vanilla/styles/default/vanilla.print.css.html" media="print" />
+				<script type="text/javascript" src="../forum/js/global.js.html"></script>
+				<script type="text/javascript" src="../forum/js/vanilla.js.html"></script>
+				<script type="text/javascript" src="../forum/js/ajax.js.html"></script>
+				<script type="text/javascript" src="../forum/js/ac.js.html"></script></head>
+	<body id="SearchPage"  onload="Focus('txtKeywords');"><div style="position:sticky;top:0;z-index:99999;background:#111;color:#eee;font:13px/1.4 Arial,sans-serif;padding:6px 10px;border-bottom:2px solid #c90">Archivio &middot; OSXCrypt &#8212; TrueCrypt for macOS (2007&#8211;2008) &middot; copia del 2008-07-03 dal <a style="color:#fc6" href="https://web.archive.org/web/20080703205800/http://www.osxcrypt.org/forum/search.php">Web Archive</a> &middot; <a style="color:#fc6" href="../../index.html">tutti i miei siti del passato</a> &middot; <a style="color:#fc6" href="https://fabio.pietrosanti.it/">fabio.pietrosanti.it</a></div>
+	<div id="SiteContainer"><div id="Session">Not signed in (<a href="https://web.archive.org/web/20080703205800/http://www.osxcrypt.org/forum/people.php?ReturnUrl=http://www.osxcrypt.org/forum/search.php">Sign In</a>)</div><div id="Header">
+			<a name="pgtop"></a>
+			<h1>
+				OSXCrypt Forum
+			</h1>
+
+			<ul><li><a href="../forum/index.html" >Discussions</a></li><li><a href="../forum/categories.php.html" >Categories</a></li><li class="TabOn"><a href="../forum/search.php.html" >Search</a></li></ul>
+	</div><div id="Body"><div id="Panel"><p id="AboutVanilla"><a href="https://web.archive.org/web/20080703205800/http://getvanilla.com">Vanilla 1.1.4</a> is a product of <a href="https://web.archive.org/web/20080703205800/http://lussumo.com">Lussumo</a>. More Information: <a href="https://web.archive.org/web/20080703205800/http://lussumo.com/docs">Documentation</a>, <a href="https://web.archive.org/web/20080703205800/http://lussumo.com/community">Community Support</a>.</p></div>
+<div id="Content"><div id="Form" class="Account Search">
+	<fieldset id="SearchSimpleFields">
+		<legend>Search</legend>
+		<a href="../forum/index.html" onclick="ShowAdvancedSearch(); return false;" class="SearchSwitch">Advanced</a><form id="SearchSimple" method="get" action="../forum/search.php.html"><div><input type="hidden" name="PostBackAction" value="Search" />
+				</div><ul>
+				<li id="MainSearchInput">
+					<label for="txtKeywords">SearchTerms</label>
+					<input id="txtKeywords" type="text" name="Keywords" value="" class="SearchInput" />
+				</li>
+				<li id="SimpleSearchRadios">Search:<input type="radio" name="Type"  id="Radio_Topics" value="Topics" checked="checked" class="SearchRadio" />
+			<label for="Radio_Topics" class="Radio">Topics</label>
+			<input type="radio" name="Type"  id="Radio_Comments" value="Comments" class="SearchRadio" />
+			<label for="Radio_Comments" class="Radio">Comments</label>
+			<input type="radio" name="Type"  id="Radio_Users" value="Users" class="SearchRadio" />
+			<label for="Radio_Users" class="Radio">Users</label>
+			</li>
+				<li>
+					<input type="submit" name="btnSubmit" value="Search" class="Button SearchButton" />
+				</li>
+			</ul>
+		</form>
+	</fieldset><fieldset id="SearchDiscussionFields">
+		<legend>Discussion topic search</legend>
+		<a href="../forum/index.html" onclick="ShowSimpleSearch(); return false;" class="SearchSwitch">Simple</a><form id="SearchDiscussions" method="get" action="../forum/search.php.html"><div><input type="hidden" name="PostBackAction" value="Search" />
+				<input type="hidden" name="Type" value="Discussions" />
+				<input type="hidden" name="Advanced" value="1" />
+				</div><ul>
+				<li>
+					<label for="txtDiscussionKeywords">Find discussion topics containing</label>
+					<input id="txtDiscussionKeywords" type="text" name="Keywords" value="" class="SearchInput AdvancedSearchInput" />
+				</li><li>
+						<label for="ddDiscussionCategories">in the category</label><select name="Categories" class="SearchSelect"  id="ddDiscussionCategories">
+		<option value=""  selected="selected">All categories</option>
+			<option value="Announce" >Announce</option>
+			<option value="Beta Testing" >Beta Testing</option>
+			<option value="All Your Base..." >All Your Base...</option>
+			</select>
+		
+					</li><li>
+					<label for="DiscussionAuthUsername">where the author was</label>
+					<input id="DiscussionAuthUsername" name="AuthUsername" type="text" value="" class="SearchInput AdvancedUserInput" />
+					<script type="text/javascript">
+						var DiscussionAutoComplete = new AutoComplete("DiscussionAuthUsername", false);
+						DiscussionAutoComplete.TableID = "DiscussionAutoCompleteResults";
+						DiscussionAutoComplete.KeywordSourceUrl = "/forum/ajax/getusers.php?Search=";
+					</script>
+				</li>
+				<li>
+					<input type="submit" name="btnSubmit" value="Search" class="Button SearchButton" />
+				</li>
+			</ul>
+		</form>
+	</fieldset><fieldset id="SearchCommentFields">
+		<legend>Discussion comment search</legend><form id="SearchComments" method="get" action="../forum/search.php.html"><div><input type="hidden" name="PostBackAction" value="Search" />
+				<input type="hidden" name="Advanced" value="1" />
+				<input type="hidden" name="Type" value="Comments" />
+				</div><ul>
+				<li>
+					<label for="txtCommentKeywords">Find comments containing</label>
+					<input id="txtCommentKeywords" type="text" name="Keywords" value="" class="SearchInput AdvancedSearchInput" />
+				</li><li>
+						<label for="ddCommentCategories">in the category</label><select name="Categories" class="SearchSelect"  id="ddCommentCategories">
+		<option value=""  selected="selected">All categories</option>
+			<option value="Announce" >Announce</option>
+			<option value="Beta Testing" >Beta Testing</option>
+			<option value="All Your Base..." >All Your Base...</option>
+			</select>
+		
+					</li><li>
+					<label for="CommentAuthUsername">where the author was</label>
+					<input id="CommentAuthUsername" name="AuthUsername" type="text" value="" class="SearchInput AdvancedUserInput" />
+					<script type="text/javascript">
+						var CommentAutoComplete = new AutoComplete("CommentAuthUsername", false);
+						CommentAutoComplete.TableID = "CommentAutoCompleteResults";
+						CommentAutoComplete.KeywordSourceUrl = "/forum/ajax/getusers.php?Search=";
+					</script>
+				</li>
+				<li>
+					<input type="submit" name="btnSubmit" value="Search" class="Button SearchButton" />
+				</li>
+			</ul>
+		</form>
+	</fieldset><fieldset id="SearchUserFields">
+		<legend>User account search</legend><form id="SearchUsers" method="get" action="../forum/search.php.html"><div><input type="hidden" name="PostBackAction" value="Search" />
+				<input type="hidden" name="Advanced" value="1" />
+				<input type="hidden" name="Type" value="Users" />
+				</div><ul>
+				<li>
+					<label for="txtUserKeywords">Find user accounts containing</label>
+					<input id="txtUserKeywords" type="text" name="Keywords" value="" class="SearchInput AdvancedSearchInput" />
+				</li>
+				<li>
+					<label for="ddRoles">in the role</label>
+					<select name="Roles" class="SearchSelect"  id="ddRoles">
+		<option value=""  selected="selected">All roles</option>
+			<option value="Banned" >Banned</option>
+			<option value="Member" >Member</option>
+			<option value="Administrator" >Administrator</option>
+			</select>
+		
+				</li>
+				<li>
+					<label for="ddOrder">sort results by</label>
+					<select name="UserOrder" class="SearchSelect"  id="ddOrder">
+		<option value=""  selected="selected">Username</option>
+			<option value="Date" >Date last active</option>
+			</select>
+		
+				</li>
+				<li>
+					<input type="submit" name="btnSubmit" value="Search" class="Button SearchButton" />
+				</li>
+			</ul>
+		</form>
+	</fieldset>
+</div></div>
+	<a id="pgbottom" name="pgbottom">&nbsp;</a>
+	</div>
+</div></body>
+</html>

@@ -12,6 +12,12 @@ ROOT = Path(__file__).resolve().parent.parent
 PAST = ROOT / "past"
 
 SITES = {
+    "osxcrypt.org": {
+        "order": 4,
+        "title": "OSXCrypt — TrueCrypt for macOS",
+        "host": "osxcrypt.org",
+        "text": "Il sito del progetto OSXCrypt (2007–2008), il porting open source di TrueCrypt per Mac OS X con Orlando Bassotto e Matteo Flora: blog, download, finanziatori e forum. Dal 2016 il dominio è passato ad altri.",
+    },
     "madoka": {
         "order": 1,
         "title": "Comitato Pro Ignoranza e Disinformazione",

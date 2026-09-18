@@ -1,0 +1,554 @@
+
+This release notes applies to: OSXCrypt 1.0.0a6
+-----------------------------------------------
+
+NOTE! This is preliminary release note for OSXCrypt (stage: alpha).
+
+Introduction
+------------
+
+OSXCrypt is a framework, a kernel extension and a command line utility
+that allows the creation, manipulation and attaching of a TrueCrypt
+-compatible volume, and in the near future, any kind of disk-based
+encryption available through a modular architecture.
+
+This product makes use of TrueCrypt, the sources are synced to version
+4.3a, read the end of this document to know more about legal notices.
+
+----------------------------------------------------------------------
+
+We'd like to address some points why this version is retained still
+"alpha".
+
+1. Initially, the request was to write a straight port of TrueCrypt for 
+   the MacOS X platform, in the middle of the development, the request
+   changed to support different encryption schemes, at that time the
+   port was almost complete and functional.
+
+2. The framework has no final API defined yet, due to point 1.
+
+3. Given point 1 and 2, the code in "ocutil" is pretty tightened to 
+   TCrypt framework, that is the reason we had to put it back in "alpha"
+   stage, really this is a "beta" more than "alpha".
+
+4. Given point 3, the code is no spaghetti in the strict sense of
+   the word, it's just spaghetti in terms of final goals. You can see
+   for yourself, this time the source code is public.
+
+5. There may be corner cases (expecially with partition or whole disk
+   encryption) that we and others didn't had the time to test throughly.
+
+   You know, better safe than sorrow.
+
+To summarize: the project is alpha quality in terms of goals but
+              beta quality in terms of functionality.
+
+----------------------------------------------------------------------
+
+NOTE! This product is beta-quality, if you use this product on 
+      physical devices (be either partitions or whole disks), it
+      may destroy its contents!
+
+      If you are concerned, for the time being, we strongly suggest
+      you to use only file-based disk images.
+
+Table of contents
+-----------------
+1. How do install it?
+2. Where is it?
+3. How to run it?
+3.1. Example Usage
+4. Bugs, caveats and missing features.
+5. Uninstalling
+6. How do I report a bug?
+7. Developer Section
+8. Bug fixes
+9. Legal Notices
+
+1. How do install it?
+---------------------
+
+First, the requirements:
+
+- PowerPC-based Macs require MacOS X.3.9 or later.
+- Intel-based Macs require MacOS X.4.0 or later.
+
+Simply double-click on the installer package and follows the usual
+installation steps.
+
+NOTE! Once installed, the kernel service will be loaded at boot time.
+
+2. Where is it?
+---------------
+
+OSXCrypt comes with 3 packages:
+
+- The Command Line Utility (ocutil, located in /usr/local/bin)
+- The OSXCrypt Framework (located in /Library/Frameworks)
+- The OSXCrypt Service Kernel Extension (located in /System/Library/Extensions)
+
+3. How I run it?
+----------------
+
+As a first thing, you should check the kernel extensions and
+ensure the OSXCrypt Service has been correctly started, you
+can do that following these steps:
+
+- Open Terminal.app
+- At prompt, issue: kextstat | grep OSXCrypt
+
+You should read something like:
+
+  130    0 0x34951000 0x42000    0x41000    org.osxcrypt.kext.OSXCryptService (1.0.0) <22 12>
+
+This means the module is ready for servicing, you can also
+check the kernel messages (hint: sudo dmesg) to eventually
+check other messages from the kernel service.
+
+3.1. Example Usage
+==================
+
+- Create a 200M volume, FAT formatted, using Seprent-Twofish-AES:
+
+  $ ocutil create -verbose -fat -algorithm Serpent-Twofish-AES -size 200M MyCryptedVolume.img
+
+- The same, but using also keyfiles:
+
+  $ ocutil create -verbose -fat -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 -algorithm Serpent-Twofish-AES -size 200M MyCryptedVolume.img
+
+- The same, but only using the keyfiles:
+
+  $ ocutil create -verbose -fat -nopass -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 -algorithm Serpent-Twofish-AES -size 200M MyCryptedVolume.img
+
+- Create an hidden volume of 100M, FAT formatted, using Serpent-AES, in a previously created volume:
+
+  $ ocutil create -verbose -hidden -fat -algorithm Serpent-AES -size 100M MyCryptedVolume.img
+ 
+- If the outer volume requires keyfiles you'll have something like:
+
+  $ ocutil create -verbose -hidden -fat -algorithm Serpent-AES -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 -size 100M MyCryptedVolume.img
+
+- If you want to add keyfiles to the hidden volumes to an outer volume with keyfiles, your command will be something like:
+
+  $ ocutil create -verbose -hidden -fat -algorithm Serpent-AES -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 -size 100M -hidden_keyfiles MyHiddenKeyFile MyCryptedVolume.img
+
+- The same as before but only with keyfiles for the hidden volume:
+
+  $ ocutil create -verbose -hidden -fat -algorithm Serpent-AES -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 -size 100M -hidden_nopass -hidden_keyfiles MyHiddenKeyFile MyCryptedVolume.img
+
+- Attaching a volume.
+
+  $ ocutil attach -verbose MyCryptedVolume.img
+
+- If the volume requires keyfiles:
+
+  $ ocutil attach -verbose -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 MyCryptedVolume.img
+
+- The same as before but only with keyfiles:
+
+  $ ocutil attach -verbose -nopass -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 MyCryptedVolume.img
+
+- Attaching an hidden volume:
+
+  $ ocutil attach -hidden -verbose MyCryptedVolume.img
+
+- Attaching a volume protecting its hidden volume:
+
+  $ ocutil attach -protect_hidden -verbose MyCryptedVolume.img
+
+- Detaching a volume.
+
+  $ ocutil detach -verbose MyCryptedVolume.img
+
+  or
+
+  $ ocutil detach -verbose device-name
+
+  The device-name can be either the backing disk or the mounted encrypted
+  disk, the device path or simply the disk name.
+  NOTE! Specifing a partition has the same effect to detach the volume.
+  NOTE! For the time being, prefer specifing the complete image path if
+        the encrypted volume is backed by a disk image.
+
+- Generating one or more keyfiles.
+
+  $ ocutil genkey -verbose output1.key [output2.key ...]
+
+4. Bugs, caveats and missing features.
+--------------------------------------
+
+* ocutil caveats
+
+- ocutil uses hdiutil as its backend for mounting disk images,
+  hdiutil is a very picky tool, for example it always checks
+  the extension of a disk image filename prior to identify it;
+  ocutil uses a gross hack to workaround this and it works as
+  follow:
+  
+  Iff the extension of the disk image is not recognized, then
+  create a symbolic link for the given image to a file in tmp
+  directory with a random name with 'img' extension, then tell
+  hdiutil to attach to the created symbolic link.
+  The symbolic link is then removed once the attach process
+  is finished, even in case of failures.
+
+  This works most of the time, if you want to avoid all this
+  mess, simply rename (or symlink) the image you want to load
+  to something with 'img' extension.
+
+  Avoid 'dmg' as extension, as hdiutil does some weird check
+  on them.
+
+* UI caveats:
+
+- Ejecting an encrypted disk from the Finder doesn't detach it.
+
+  This is a known limitation and we're exploring solutions.
+
+- In Disk Utility, the device or the disk image appears twice.
+
+  This is a known limitation and there is no workaround.
+  To ensure you're working on the OSXCrypt disk device, select
+  the one with Disk Description: OSXCrypt Storage.
+
+* [DEVELOPER] Current limitations (as per this version):
+
+- There is not a really clean interest-separation yet in user-space, ocutil
+  is still bound to the TCrypt framework (our C++ wrapper to TrueCrypt).
+
+- The kernel service has just one hardcoded provider: TCrypt, however
+  it has a prototype of interest-separation (it is implemented in
+  TCryptCryptoService.cpp).
+
+5. Uninstalling
+---------------
+
+Perform the following steps:
+
+- Open Terminal.app
+
+- Unload the kernel extension
+
+  $ sudo kextunload -b org.osxcrypt.kext.OSXCryptService
+
+- If the extension has been unloaded successfully, proceed:
+
+  $ sudo rm -fr /System/Library/Extensions/OSXCryptServices.kext
+  $ sudo rm -fr /Library/Frameworks/OSXCrypt.framework
+  $ sudo rm -fr /usr/local/bin/ocutil
+  $ sudo touch /System/Library/Extensions
+
+- Reboot!
+
+6. How do I report a bug?
+-------------------------
+
+- Include all the ocutil output messages with -verbose option.
+
+- Include a copy of your kernel dmesg with any message pertaining
+  OSXCrypt service.
+  Tip: sudo dmesg
+
+- Include a copy of your kextstat output.
+
+- Include a copy of IOKit registry.
+  Tip: ioreg -lw 0
+
+- Include the crash log of ocutil, if the case.
+  You can find them in ~/Library/Logs/CrashReporter.
+
+- Include a brief description of what you were doing and
+  if possible, include instructions on how to reproduce
+  the condition programmatically.
+
+This is subject to changes, read this file at every upgrade or 
+consult the website at http://www.osxcrypt.org/.
+
+Thank you
+The OSXCrypt Team
+
+If you're not a developer you can stop reading here.
+
+---
+
+7. Developer Section
+--------------------
+
+Summary
+=======
+
+The OSXCrypt source tree is divided in 4 directories and 5 subprojects,
+building steps are given in the next section.
+
+- The subprojects are:
+
+  WARNING! The Xcode project is not compatible prior to Xcode 3.0,
+           this deficency will be corrected prior going public.
+ 
+  - TCLibraryUser
+    The TrueCrypt library for the user-space, this is really TrueCrypt
+    with a few mods to hook into the OSXCrypt framework.
+
+  - TCLibraryKernel
+    The TrueCrypt library for the kernel-space, this is really TrueCrypt,
+    without any addition.
+
+  - TCrypt.framework
+    The C++ wrapper for TrueCrypt, this is done in order to accomplish
+    some heavy weight task, like initializing, formatting or changing
+    password to volumes and to avoid polluting too much the namespace,
+    the original TrueCrypt headers are a bit messy.
+    It also allows to access the encrypted volume from user space.
+
+  - AppleStuff.framework
+    All the dirty stuff Apple wants you use, a C++ wrapper library
+    which includes:
+      - HdiUtil class and its Helper class (its existance
+        is to overcome the HdiUtil class limitations, like the
+        aforementioned symbolic link hack).
+      - Disk Arbitration services.
+
+  - OSXCrypt.framework
+    The framework that make everything possible, actually it's an
+    umbrella framework servicing TCrypt.framework and AppleStuff.framework,
+    it supports mainly communication with the kernel service and has
+    a modular IO framework a-la IOKit as its backend, the user-space
+    is hooked into this framework.
+    The API is still in alpha stage as it is a mixture of C++ (mainly
+    for the backend) and CoreFoundation-like objects (they will be
+    probably be made first class CoreFoundation objects later).
+    The idea is to make use of the services offered by Apple, like
+    CFPlugIn to support multiple encryption methods.
+
+Build instructions
+------------------
+
+* Kernel Extension:
+
+1. Load OSXCrypt.xcodeproj into Xcode.
+2. Choose to build the project in Debug mode.
+3. Make TCLibraryKernel the current target.
+4. Build.
+
+5. Open Terminal.app
+6. Enter <sourcedir>/Driver/
+7. Run ./build.sh
+
+Alternatively, you can use Xcode but you'll have to
+apply permissions on the produced files yourself:
+
+5. Load Driver/OSXCryptService.xcodeproj into Xcode.
+6. Choose to build the project in Debug mode.
+7. Build
+8. Fix permissions
+
+* User Space:
+
+NOTE! This is a bit messy operation due to the circular-dependencies
+      between TCrypt and OSXCrypt, this is until TCrypt is moved out
+      into a plugin.
+
+ 1. Load OSXCrypt.xcodeproj into Xcode.
+ 2. Choose to build the project in Debug mode.
+ 3. Make OSXCrypt.framework the current target.
+ 4. Build, it will give you a link error.
+ 5. Make TCrypt.framework the current target.
+ 6. Build.
+ 7. Make OSXCrypt.framework the current target again.
+ 8. Build, this time everything should be fine.
+
+ 9. Open Terminal.app
+10. Enter <sourcedir>/Cli/
+11. Run make.
+
+NOTE! The cli will be moved into the OSXCrypt.project in future releases.
+
+* Packaging:
+
+1. Ensure all components are built in Debug mode.
+2. Load OSXCrypt.pmproj into PackageMaker.
+3. Build
+
+Source Directory Tree
+---------------------
+
+- OSXCrypt/                               |
+           Cli/                           | The command line interface.
+           Driver/                        | Kernel service.
+           Sources/                       | OSXCrypt user API
+                   Modular/               | Partly implemented modular intf
+                           IO/            | IO infrastructure
+           Libraries/                     | Utility libraries.
+                     TCLibrary/           | TrueCrypt sources.
+                               Common/    | TrueCrypt Common/ sources.
+                               Crypto/    | TrueCrypt Crypto/ sources.
+                               Sources/   | TCrypt C++ wrapper.
+                     AppleStuff/          | AppleStuff framework
+                                DI/       | Disk Image sources.
+                                DA/       | Disk Arbitration sources.
+
+Public APIs
+-----------
+
+  TCrypt Kernel API:
+
+    TCryptAutoTestAlgorithms
+
+    TCryptAlgorithmValidate
+    TCryptAlgorithmModeValidate
+
+    TCryptContextCreate
+    TCryptContextCreateEmpty
+    TCryptContextCreateWithProperties
+    TCryptContextFree
+
+    TCryptContextEncryptSector
+    TCryptContextEncryptSectors
+    TCryptContextDecryptSector
+    TCryptContextDecryptSectors
+
+  TCrypt C++ Framework:
+
+    These are the very base of the TrueCrypt re-encapsulated:
+
+      TCrypt::Algorithm
+      TCrypt::Cipher
+      TCrypt::HashingMethod
+      TCrypt::Context
+      TCrypt::Volume
+
+    This utility class encapsulate all the benchmarks from the
+    MS Windows UI of TrueCrypt:
+
+      TCrypt::Benchmark
+
+  AppleStuff C++ Framework:
+
+    Apple::DiskArbitration
+    Apple::DI::HdiUtil
+    Apple::DI::Helper
+
+  OSXCrypt Framework:
+
+    OCFrameworkGetVersion
+
+    OCServiceConnect
+    OCServiceClose
+
+    OCServiceStartMonitor
+    OCServiceStopMonitor
+    OCServiceIsMonitored
+
+    OCStorageServiceConnect
+    OCStorageServiceConnectWithAttach
+    OCStorageServiceConnectWithImagePath
+    OCStorageServiceClose
+
+    OCStorageServiceStart
+    OCStorageServiceStop (NYI)
+    OCStorageServiceIsStarted
+
+    OCStorageServiceCopyMediaBSDName
+    OCStorageServiceCopyBackingMediaBSDName
+
+    OCReturnGetString
+    OCReturnCopyLocalizedString
+
+    OCDACreate
+    OCDAFree
+
+    OCDASeize
+    OCDAUnseize
+    OCDAIsSeized
+
+    OCDAMount
+    OCDAUnmount
+    OCDAIsMounted
+
+    OCDAEject
+
+    These are the classes for user-space IO:
+
+      OSXCrypt::IO::Media
+      OSXCrypt::IO::FileMedia
+      OSXCrypt::IO::Stream
+
+    This last class has been written to make use of TrueCrypt
+    functions FormatNoFs and FormatFat without any major
+    modification.
+
+8. Bug Fixes
+------------
+
+[A6.2] 2008-01-27
+- Return kIOReturnNoSpace instead of kIOReturnNotPermitted, if writing in a protected area.
+- If a device has been specified, check it has no volume mounted.
+- Make whole disk encryption and partition encryption work.
+- Avoid possible creation while some partition is mounted.
+- Change password and keyfiles.
+
+[A5.1] 2008-01-21
+- Support for attaching and mounting of hidden volumes.
+- Support for attaching volumes with hidden volume protection.
+
+[A4.3] 2008-01-14
+- No more random errors or "Unknown error" or random "Success"
+  in place of the actual error message (sorry, I rememberd about
+  it after sending out the A4.1 :).
+- A bug which prevented the creation of hidden volume has been
+  resolved.
+- Detaching a volume with files in use now doesn't report success.
+
+[A4.2] 2008-01-12
+- A bug in OSXCrypt.framework which prevented the attachment of
+  a volume due to a missing NULL pointer check has been fixed.
+
+9. Legal Notices
+----------------
+
+OSXCrypt Legal Notice
+=====================
+
+This product is released under the terms of the BSD license.
+
+Copyright (C) 2007-2008 OSXCrypt Project
+Copyright (C) 2007-2008 Orlando Bassotto
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHORS OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+TrueCrypt Legal Notice
+======================
+
+Legal Notice: The source code contained in this file has been derived from
+the source code of Encryption for the Masses 2.02a, which is Copyright (c)
+Paul Le Roux and which is covered by the 'License Agreement for Encryption
+for the Masses'. Modifications and additions to that source code contained
+in this file are Copyright (c) TrueCrypt Foundation and are covered by the
+TrueCrypt License 2.3 the full text of which is contained in the file
+License.txt included in TrueCrypt binary and source code distribution
+packages.
+
+The complete License.txt file for TrueCrypt can be found in /Library/Frameworks/OSXCrypt.framework/Frameworks/TCrypt.framework/Resources/TrueCrypt-License.txt.
+
+TrueCrypt and the TrueCrypt logos are trademarks of the TrueCrypt Foundation.
+

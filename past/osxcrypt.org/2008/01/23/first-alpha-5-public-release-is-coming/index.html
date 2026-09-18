@@ -1,0 +1,762 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="distribution" content="global" />
+<meta name="robots" content="follow, all" />
+<meta name="language" content="en, sv" />
+
+<title>  First alpha 5 public release is coming! : OSXCrypt.org - Truecrypt for MAC</title>
+<meta name="generator" content="WordPress 2.3.1" />
+<!-- leave this for stats please -->
+
+<link rel="Shortcut Icon" href="https://web.archive.org/web/20080329190420/http://www.osxcrypt.org/wp-content/themes/silhouette/images/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed/index.html" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="../../../../feed/rss/index.html" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../../../../feed/atom/index.html" />
+<link rel="pingback" href="../../../../xmlrpc.php.html" />
+	<link rel='archives' title='February 2008' href='../../../../2008/02/index.html' />
+	<link rel='archives' title='January 2008' href='../../../../2008/01/index.html' />
+	<link rel='archives' title='December 2007' href='../../../../2007/12/index.html' />
+	<link rel='archives' title='November 2007' href='../../../../2007/11/index.html' />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../../xmlrpc__rsd.php.html" />
+ <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../../wp-includes/wlwmanifest.xml" /> <style type="text/css" media="screen">
+<!-- @import url(https://web.archive.org/web/20080329190420/http://www.osxcrypt.org/wp-content/themes/silhouette-2column/style.css); -->
+</style>
+</head>
+
+<body><div style="position:sticky;top:0;z-index:99999;background:#111;color:#eee;font:13px/1.4 Arial,sans-serif;padding:6px 10px;border-bottom:2px solid #c90">Archivio &middot; OSXCrypt &#8212; TrueCrypt for macOS (2007&#8211;2008) &middot; copia del 2008-03-29 dal <a style="color:#fc6" href="https://web.archive.org/web/20080329190420/http://www.osxcrypt.org/2008/01/23/first-alpha-5-public-release-is-coming/">Web Archive</a> &middot; <a style="color:#fc6" href="../../../../../index.html">tutti i miei siti del passato</a> &middot; <a style="color:#fc6" href="https://fabio.pietrosanti.it/">fabio.pietrosanti.it</a></div>
+
+<div id="header">
+
+	<div class="headerleft">
+		<a href="../../../../index.html">OSXCrypt.org</a><br />
+		<b>Open Effort for Multiple Encryptions under MacOsX</b>
+	</div>
+	
+	<div class="headerright">
+		<ul>
+			<li><a href="../../../../index.html">Home</a></li>
+			<li class="page_item page-item-2"><a href="../../../../about/index.html" title="About">About</a></li>
+<li class="page_item page-item-11"><a href="../../../../download/index.html" title="Download">Download</a></li>
+<li class="page_item page-item-3"><a href="../../../../meet-the-funders/index.html" title="Funders">Funders</a></li>
+<li class="page_item page-item-8"><a href="../../../../staff/index.html" title="Staff">Staff</a></li>
+			<li><a href="../../../../feed/index.html">RSS</a></li>
+		</ul>
+	</div>
+
+</div>
+<div id="content">
+
+	<div id="contentleft">
+				<h1>First alpha 5 public release is coming!</h1>
+		<p>Hello people!</p>
+
+<p>We are pleased to announce that Alpha 5 release of OSXCrypt will be published on Friday 25th of January 2007!</p>
+
+<p><em> <!-- The alpha download url is http://www.osxcrypt.org/wp-content/uploads/2008/01/osxcrypt-a44b.zip . You are clever! Please give us a feedback writing to info@osxcrypt.org ! -->
+</em>
+Alpha release 1.0.0a4 is being tested and bugfixed, if you want to test it please write us or be clever! <img src='https://web.archive.org/web/20080329190420/http://www.osxcrypt.org/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> Otherwise wait for the Alpha 5 on Friday 25th January 2007!</p>
+
+<p>OSXCrypt already fully support TrueCrypt-compatible volumes so we can finally use the same encrypted volume on Windows, Linux and Mac OS X!</p>
+
+<p>The OSXCrypt package include an automatic graphical installer even if it still has a command line interface.</p>
+
+<p>Maybe other funding could useful for developing a User Interface, port other encryption framework and introduce utilities like self-update, keychain integration and whatever other useful feature we can think about it!</p>
+
+<p>Sources will be released after some cleanup prepared for the Beta release.</p>
+
+<p>Alpha5 introduce Truecrypt-compatible hidden volume support  feature. The only limitation will be the Password Change support that will be introduced in Alpha6. 
+After Alpha6 we will have the Beta along with source code cleanup.</p>
+
+<p><span id="more-9"></span></p>
+
+<p>Below the Release notes of  OSXCrypt 1.0.0a4:</p>
+
+<h2>This release notes applies to: OSXCrypt 1.0.0a4</h2>
+
+<p>NOTE! This is preliminary release note for OSXCrypt (stage: alpha).</p>
+
+<h2>Introduction</h2>
+
+<p>OSXCrypt is a framework, a kernel extension and a command line utility
+that allows the creation, manipulation and attaching of a TrueCrypt
+-compatible volume, and in the near future, any kind of disk-based
+encryption available through a modular architecture.</p>
+
+<p>This product makes use of TrueCrypt, the sources are synced to version 4.3a,
+read the end of this document to know more about legal notices.</p>
+
+<p>NOTE! This product is alpha-quality, it may destroy the contents
+of your hard disks! Although OSXCrypt should be able to work with
+physical devices (either partitions or whole disks) it has never
+been tested throughly, if you are concerned, for the time being,
+we strongly suggest you to use only file-based disk images.</p>
+
+<h2>Table of contents</h2>
+
+<ol>
+<li>How do install it?</li>
+<li>Where is it?</li>
+<li>How to run it?
+3.1. Example Usage</li>
+<li>Bugs, caveats and missing features.</li>
+<li>Uninstalling</li>
+<li>How do I report a bug?</li>
+<li>Developer Section</li>
+<li>Bug fixes</li>
+<li>Legal Notices</li>
+</ol>
+
+<h2>1. How do install it?</h2>
+
+<p>First, the requirements:</p>
+
+<ul>
+<li>PowerPC-based Macs require MacOS X.3.9 or later.</li>
+<li>Intel-based Macs require MacOS X.4.0 or later.</li>
+</ul>
+
+<p>Simply double-click on the installer package and follows the usual
+installation steps.</p>
+
+<p>NOTE! Once installed, the kernel service will be loaded at boot time.
+NOTE! Versions prior MacOS X.5.0 requires a reboot after installation.
+NOTE! If you have a previously version installed, you need to reboot.</p>
+
+<h2>2. Where is it?</h2>
+
+<p>OSXCrypt comes with 3 packages:</p>
+
+<ul>
+<li>The Command Line Utility (ocutil, located in /usr/local/bin)</li>
+<li>The OSXCrypt Framework (located in /Library/Frameworks)</li>
+<li>The OSXCrypt Service Kernel Extension (located in /System/Library/Extensions)</li>
+</ul>
+
+<h2>3. How I run it?</h2>
+
+<p>As a first thing, you should check the kernel extensions and
+ensure the OSXCrypt Service has been correctly started, you
+can do that following these steps:</p>
+
+<ul>
+<li>Open Terminal.app</li>
+<li>At prompt, issue: kextstat | grep OSXCrypt</li>
+</ul>
+
+<p>You should read something like:</p>
+
+<p>130    0 0&#215;34951000 0&#215;42000    0&#215;41000    org.osxcrypt.kext.OSXCryptService (1.0.0) &lt;22 12></p>
+
+<p>This means the module is ready for servicing, you can also
+check the kernel messages (hint: sudo dmesg) to eventually
+check other messages from the kernel service.</p>
+
+<h1>3.1. Example Usage</h1>
+
+<ul>
+<li><p>Create a 200M volume, FAT formatted, using Seprent-Twofish-AES:</p>
+
+<p>$ ocutil create -verbose -fat -algorithm Serpent-Twofish-AES -size 200M MyCryptedVolume.img</p></li>
+<li><p>The same, but using also keyfiles:</p>
+
+<p>$ ocutil create -verbose -fat -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 -algorithm Serpent-Twofish-AES -size 200M MyCryptedVolume.img</p></li>
+<li><p>The same, but only using the keyfiles:</p>
+
+<p>$ ocutil create -verbose -fat -nopass -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 -algorithm Serpent-Twofish-AES -size 200M MyCryptedVolume.img</p></li>
+<li><p>Create an hidden volume of 100M, FAT formatted, using Serpent-AES, in a previously created volume:</p>
+
+<p>$ ocutil create -verbose -hidden -fat -algorithm Serpent-AES -size 100M MyCryptedVolume.img</p></li>
+<li><p>If the outer volume requires keyfiles you&#8217;ll have something like:</p>
+
+<p>$ ocutil create -verbose -hidden -fat -algorithm Serpent-AES -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 -size 100M MyCryptedVolume.img</p></li>
+<li><p>If you want to add keyfiles to the hidden volumes to an outher volume with keyfiles, your command will be something like:</p>
+
+<p>$ ocutil create -verbose -hidden -fat -algorithm Serpent-AES -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 -size 100M -hidden_keyfiles MyHiddenKeyFile MyCryptedVolume.img</p></li>
+<li><p>The same as before but only with keyfiles for the hidden volume:</p>
+
+<p>$ ocutil create -verbose -hidden -fat -algorithm Serpent-AES -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 -size 100M -hidden<em>nopass -hidden</em>keyfiles MyHiddenKeyFile MyCryptedVolume.img</p></li>
+<li><p>Attaching a volume.</p>
+
+<p>$ ocutil attach -verbose MyCryptedVolume.img</p></li>
+</ul>
+
+<p>NOTE! At this time you can&#8217;t protect hidden nor mount hidden volumes; note
+the same options of &#8216;create&#8217; verb applies to attach, so when hidden volume
+attaching will be finished, the options will be the same; the only
+difference is that you can specify -protect_hidden to mount outer volume
+protecting its hidden volume, or -hidden to mount the hidden volume.
+A current limitation is that you can&#8217;t mount them at the same time, it may
+be corrected in future releases.</p>
+
+<ul>
+<li><p>If the volume requires keyfiles:</p>
+
+<p>$ ocutil attach -verbose -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 MyCryptedVolume.img</p></li>
+<li><p>The same as before but only with keyfiles:</p>
+
+<p>$ ocutil attach -verbose -nopass -keyfiles MyKeyFile1,MyKeyFile2,MyKeyFile3 MyCryptedVolume.img</p></li>
+<li><p>Detaching a volume.</p>
+
+<p>$ ocutil detach -verbose MyCryptedVolume.img</p>
+
+<p>or</p>
+
+<p>$ ocutil detach -verbose device-name</p>
+
+<p>The device-name can be either the backing disk or the mounted encrypted
+disk, the device path or simply the disk name.
+NOTE! Specifing a partition has the same effect to detach the volume.
+NOTE! For the time being, prefer specifing the complete image path if
+    the encrypted volume is backed by a disk image.</p></li>
+<li><p>Generating one or more keyfiles.</p>
+
+<p>$ ocutil genkey -verbose output1.key [output2.key &#8230;]</p></li>
+</ul>
+
+<h2>4. Bugs, caveats and missing features.</h2>
+
+<ul>
+<li><p>Installation caveats</p></li>
+<li><p>Versions prior MacOS X.5 require a reboot in order to load the
+kernel extension.</p></li>
+<li><p>ocutil caveats</p></li>
+<li><p>ocutil uses hdiutil as its backend for mounting disk images,
+hdiutil is a very picky tool, for example it always checks
+the extension of a disk image filename prior to identify it;
+ocutil uses a gross hack to workaround this and it works as
+follow:</p>
+
+<p>Iff the extension of the disk image is not recognized, then
+create a symbolic link for the given image to a file in tmp
+directory with a random name with &#8216;img&#8217; extension, then tell
+hdiutil to attach to the created symbolic link.
+The symbolic link is then removed once the attach process
+is finished, even in case of failures.</p>
+
+<p>This works most of the time, if you want to avoid all this
+mess, simply rename (or symlink) the image you want to load
+to something with &#8216;img&#8217; extension.</p>
+
+<p>Avoid &#8216;dmg&#8217; as extension, as hdiutil does some weird check
+on them.</p></li>
+<li><p>ocutil does not yet support the attaching of hidden volume,
+although it can create them.</p></li>
+<li><p>ocutil does not yet support the attachment of outer volume
+with protection of the hidden volume, although the framework
+supports the feature and the kernel service is aware of it.</p></li>
+<li><p>UI caveats:</p></li>
+<li><p>Ejecting an encrypted disk from the Finder doesn&#8217;t detach it.</p>
+
+<p>This is a known limitation and we&#8217;re exploring solutions.</p></li>
+<li><p>In Disk Utility, the device or the disk image appears twice.</p>
+
+<p>This is a known limitation and there is no workaround.
+To ensure you&#8217;re working on the OSXCrypt disk device, select
+the one with Disk Description: OSXCrypt Storage.</p></li>
+<li><p>[DEVELOPER] Current limitations (as per this version):</p></li>
+<li><p>There is not a really clean interest-separation yet in user-space, ocutil
+is still bound to the TCrypt framework (our C++ wrapper to TrueCrypt).</p></li>
+<li><p>The kernel service has just one hardcoded provider: TCrypt, however
+it has a prototype of interest-separation (it is implemented in
+TCryptCryptoService.cpp).</p></li>
+</ul>
+
+<h2>5. Uninstalling</h2>
+
+<p>Perform the following steps:</p>
+
+<ul>
+<li><p>Open Terminal.app</p></li>
+<li><p>Unload the kernel extension</p>
+
+<p>$ sudo kextunload -b org.osxcrypt.kext.OSXCryptService</p></li>
+<li><p>If the extension has been unloaded successfully, proceed:</p>
+
+<p>$ sudo rm -fr /System/Library/Extensions/OSXCryptServices.kext
+$ sudo rm -fr /Library/Frameworks/OSXCrypt.framework
+$ sudo rm -fr /usr/local/bin/ocutil
+$ sudo touch /System/Library/Extensions</p></li>
+<li><p>Reboot!</p></li>
+</ul>
+
+<h2>6. How do I report a bug?</h2>
+
+<ul>
+<li><p>Include all the ocutil output messages with -verbose option.</p></li>
+<li><p>Include a copy of your kernel dmesg with any message pertaining
+OSXCrypt service.
+Tip: sudo dmesg</p></li>
+<li><p>Include a copy of your kextstat output.</p></li>
+<li><p>Include a copy of IOKit registry.
+Tip: ioreg -lw 0</p></li>
+<li><p>Include the crash log of ocutil, if the case.
+You can find them in ~/Library/Logs/CrashReport.</p></li>
+<li><p>Include a brief description of what you were doing and
+if possible, include instructions on how to reproduce
+the condition programmatically.</p></li>
+</ul>
+
+<p>This is subject to changes, read this file at every upgrade or 
+consult the website at http://www.osxcrypt.org/.</p>
+
+<p>Thank you
+The OSXCrypt Team</p>
+
+<p>If you&#8217;re not a developer you can stop reading here.</p>
+
+<hr />
+
+<h2>7. Developer Section</h2>
+
+<h1>Summary</h1>
+
+<p>The OSXCrypt source tree is divided in 4 directories and 5 subprojects,
+building steps are given in the next section.</p>
+
+<ul>
+<li><p>The subprojects are:</p>
+
+<p>WARNING! The Xcode project is not compatible prior to Xcode 3.0,
+       this deficency will be corrected prior going public.</p>
+
+<ul><li><p>TCLibraryUser
+The TrueCrypt library for the user-space, this is really TrueCrypt
+with a few mods to hook into the OSXCrypt framework.</p></li>
+<li><p>TCLibraryKernel
+The TrueCrypt library for the kernel-space, this is really TrueCrypt,
+without any addition.</p></li>
+<li><p>TCrypt.framework
+The C++ wrapper for TrueCrypt, this is done in order to accomplish
+some heavy weight task, like initializing, formatting or changing
+password to volumes and to avoid polluting too much the namespace,
+the original TrueCrypt headers are a bit messy.
+It also allows to access the encrypted volume from user space.</p></li>
+<li><p>AppleStuff.framework
+All the dirty stuff Apple wants you use, a C++ wrapper library
+which includes:</p>
+
+<ul><li>HdiUtil class and its Helper class (its existance
+is to overcome the HdiUtil class limitations, like the
+aforementioned symbolic link hack).</li>
+<li>Disk Arbitration services.</li></ul></li>
+<li><p>OSXCrypt.framework
+The framework that make everything possible, actually it&#8217;s an
+umbrella framework servicing TCrypt.framework and AppleStuff.framework,
+it supports mainly communication with the kernel service and has
+a modular IO framework a-la IOKit as its backend, the user-space
+is hooked into this framework.
+The API is still in alpha stage as it is a mixture of C++ (mainly
+for the backend) and CoreFoundation-like objects (they will be
+probably be made first class CoreFoundation objects later).
+The idea is to make use of the services offered by Apple, like
+CFPlugIn to support multiple encryption methods.</p></li></ul></li>
+</ul>
+
+<h2>Build instructions</h2>
+
+<ul>
+<li>Kernel Extension:</li>
+</ul>
+
+<p>1. Load OSXCrypt.xcodeproj into Xcode.
+2. Choose to build the project in Debug mode.
+3. Make TCLibraryKernel the current target.
+4. Build.</p>
+
+<ol>
+<li>Open Terminal.app</li>
+<li>Enter <sourcedir>/Driver/</li>
+<li>Run ./build.sh</li>
+</ol>
+
+<p>Alternatively, you can use Xcode but you&#8217;ll have to
+apply permissions on the produced files yourself:</p>
+
+<ol>
+<li>Load Driver/OSXCryptService.xcodeproj into Xcode.</li>
+<li>Choose to build the project in Debug mode.</li>
+<li>Build</li>
+<li>Fix permissions</li>
+</ol>
+
+<ul>
+<li>User Space:</li>
+</ul>
+
+<p>NOTE! This is a bit messy operation due to the circular-dependencies
+between TCrypt and OSXCrypt, this is until TCrypt is moved out into
+a plugin.</p>
+
+<ol>
+<li>Load OSXCrypt.xcodeproj into Xcode.</li>
+<li>Choose to build the project in Debug mode.</li>
+<li>Make OSXCrypt.framework the current target.</li>
+<li>Build, it will give you a link error.</li>
+<li>Make TCrypt.framework the current target.</li>
+<li>Build.</li>
+<li>Make OSXCrypt.framework the current target again.</li>
+<li><p>Build, this time everything should be fine.</p></li>
+<li><p>Open Terminal.app</p></li>
+<li>Enter <sourcedir>/Cli/</li>
+<li>Run make.</li>
+</ol>
+
+<p>NOTE! The cli will be moved into the OSXCrypt.project in the next release.</p>
+
+<ul>
+<li>Packaging:</li>
+</ul>
+
+<p>1. Ensure all components are built in Debug mode.
+2. Load OSXCrypt.pmproj into PackageMaker.
+3. Build</p>
+
+<h2>Source Directory Tree</h2>
+
+<ul>
+<li>OSXCrypt/                               |
+       Cli/                           | The command line interface.
+       Driver/                        | Kernel service.
+       Sources/                       | OSXCrypt user API
+               Modular/               | Partly implemented modular intf
+                       IO/            | IO infrastructure
+       Libraries/                     | Utility libraries.
+                 TCLibrary/           | TrueCrypt sources.
+                           Common/    | TrueCrypt Common/ sources.
+                           Crypto/    | TrueCrypt Crypto/ sources.
+                           Sources/   | TCrypt C++ wrapper.
+                 AppleStuff/          | AppleStuff framework
+                            DI/       | Disk Image sources.
+                            DA/       | Disk Arbitration sources.</li>
+</ul>
+
+<h2>Public APIs</h2>
+
+<p>TCrypt Kernel API:</p>
+
+<pre><code>TCryptAutoTestAlgorithms
+
+TCryptAlgorithmValidate
+TCryptAlgorithmModeValidate
+
+TCryptContextCreate
+TCryptContextCreateEmpty
+TCryptContextCreateWithProperties
+TCryptContextFree
+
+TCryptContextEncryptSector
+TCryptContextEncryptSectors
+TCryptContextDecryptSector
+TCryptContextDecryptSectors
+</code></pre>
+
+<p>TCrypt C++ Framework:</p>
+
+<pre><code>These are the very base of the TrueCrypt re-encapsulated:
+
+  TCrypt::Algorithm
+  TCrypt::Cipher
+  TCrypt::HashingMethod
+  TCrypt::Context
+  TCrypt::Volume
+
+This utility class encapsulate all the benchmarks from the
+MS Windows UI of TrueCrypt:
+
+  TCrypt::Benchmark
+</code></pre>
+
+<p>AppleStuff C++ Framework:</p>
+
+<pre><code>Apple::Hdi
+Apple::DiskArbitration
+</code></pre>
+
+<p>OSXCrypt Framework:</p>
+
+<pre><code>OCFrameworkGetVersion
+
+OCServiceConnect
+OCServiceClose
+
+OCServiceStartMonitor
+OCServiceStopMonitor
+OCServiceIsMonitored
+
+OCStorageServiceConnect
+OCStorageServiceClose
+
+OCStorageServiceConnect
+OCStorageServiceConnectWithAttach
+OCStorageServiceConnectWithImagePath
+OCStorageServiceClose
+
+OCStorageServiceStart
+OCStorageServiceStop (NYI)
+OCStorageServiceIsStarted
+
+OCStorageServiceCopyMediaBSDName
+OCStorageServiceCopyBackingMediaBSDName
+
+These are the classes for user-space IO:
+
+  OSXCrypt::IO::Media
+  OSXCrypt::IO::FileMedia
+  OSXCrypt::IO::Stream
+
+This last class has been written to make use of TrueCrypt
+functions FormatNoFs and FormatFat without any major
+modification.
+</code></pre>
+
+<h2>8. Bug Fixes</h2>
+
+<p>[A4.3] 2008-01-14
+- No more random errors or &#8220;Unknown error&#8221; or random &#8220;Success&#8221;
+  in place of the actual error message (sorry, I rememberd about
+  it after sending out the A4.1 :).
+- A bug which prevented the creation of hidden volume has been
+  resolved.
+- Detaching a volume with files in use now doesn&#8217;t report success.</p>
+
+<p>[A4.2] 2008-01-12
+- A bug in OSXCrypt.framework which prevented the attachment of
+  a volume due to a missing NULL pointer check has been fixed.</p>
+
+<h2>9. Legal Notices</h2>
+
+<h1>OSXCrypt Legal Notice</h1>
+
+<p>This product is released under the terms of the BSD license.</p>
+
+<p>Copyright (C) 2007-2008 OSXCrypt Project
+Copyright (C) 2007-2008 Orlando Bassotto
+All rights reserved.</p>
+
+<p>Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.</p>
+
+<p>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+&#8220;AS IS&#8221; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHORS OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
+
+<h1>TrueCrypt Legal Notice</h1>
+
+<p>Legal Notice: The source code contained in this file has been derived from
+the source code of Encryption for the Masses 2.02a, which is Copyright (c)
+Paul Le Roux and which is covered by the &#8216;License Agreement for Encryption
+for the Masses&#8217;. Modifications and additions to that source code contained
+in this file are Copyright (c) TrueCrypt Foundation and are covered by the
+TrueCrypt License 2.3 the full text of which is contained in the file
+License.txt included in TrueCrypt binary and source code distribution
+packages.</p>
+
+<p>The complete License.txt file for TrueCrypt can be found in /Library/Frameworks/OSXCrypt.framework/Frameworks/TCrypt.framework/Resources/TrueCrypt-License.txt.</p>
+
+<p>TrueCrypt and the TrueCrypt logos are trademarks of the TrueCrypt Foundation.</p>
+<div style="clear:both;"></div>
+	 	
+		<div class="postinfo">
+			January 23, 2008 | Filed Under <a href="../../../../category/releases/index.html" title="View all posts in releases" rel="category tag">releases</a>&nbsp;		</div>
+			
+		<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.osxcrypt.org/2008/01/23/first-alpha-5-public-release-is-coming/"
+    dc:identifier="http://www.osxcrypt.org/2008/01/23/first-alpha-5-public-release-is-coming/"
+    dc:title="First alpha 5 public release is coming!"
+    trackback:ping="http://www.osxcrypt.org/2008/01/23/first-alpha-5-public-release-is-coming/trackback/" />
+</rdf:RDF>		-->
+		
+		<h3>Comments</h3>
+		
+<!-- You can start editing here. -->
+
+<div id="commentblock">
+	<p id="comments"><b>One Response to &#8220;First alpha 5 public release is coming!&#8221;</b></p>
+
+	<ol class="commentlist">
+
+	
+		<li class="alt" id="comment-28">
+			Anonymous on
+						January 24th, 2008 12:08 am 
+			<div class="commenttext">
+			<p>Great work guys!</p>
+			</div>
+
+		</li>
+
+	
+	
+	</ol>
+
+ 
+
+
+<p id="respond"><b>Leave a Reply</b></p>
+
+
+<form action="https://web.archive.org/web/20080329190420/http://www.osxcrypt.org/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name </label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" /></p>
+
+<p><label for="email">Email Address</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=https://web.archive.org/web/20080329190420/http://www.osxcrypt.org/2008/01/23/first-alpha-5-public-release-is-coming/&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;code&gt; &lt;em&gt; &lt;i&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+
+<p><textarea name="comment" id="comment" cols="50" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type="hidden" name="comment_post_ID" value="9" /></p>
+
+
+</form>
+</div>
+
+
+		
+					
+	</div>
+	
+<!-- begin sidebar -->
+
+<div id="sidebar">
+
+	<ul id="sidebarwidgeted">
+
+		
+	<li id="Search">
+	<form method="get" id="search_form" action="../../../../index.html">
+	<input type="text" class="search_input" value="To search, type and hit enter" name="s" id="s" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'To search, type and hit enter';}" />
+	<input type="hidden" id="searchsubmit" value="Search" /></form><br />
+	</li>
+
+<A href="../../../../download/index.html"><IMG src="https://web.archive.org/web/20080329190420/http://www.osxcrypt.org/download.png" border=0></a>
+
+
+	<li id="About">
+	<h2>About</h2>
+		<p><b>OsxCrypt.org</b> is an open effort for porting OpenSource encryption tools on MacOsX with seamingless integration with the OS. It is run by the <A href="../../../../staff.html" class="a">Staff</a> and thanks to the donations of the <A href="../../../../meet-the-funders.html" class="a">Funders</A>.</p>
+	</li>
+	
+	<li id="Blogroll">
+	<h2>Imporant Links</h2>
+		<ul>
+			<li><a href="https://web.archive.org/web/20080329190420/https://www.fundable.com/groupactions/groupaction.2007-10-02.2606817820/view?searchterm=">Fundable Project</a></li>
+<li><a href="../../../../forum/index.html">Help Forums</a></li>
+<li><a href="https://web.archive.org/web/20080329190420/http://www.truecrypt.org/">Official Truecrypt</a></li>
+		</ul>
+	</li>
+
+	<li id="Recent">
+
+	<h2>Recent News</h2>
+		<ul>
+				<li><a href='../../../../2008/02/06/truecrypt-50-is-out/index.html' title='Truecrypt 5.0 is OUT!'>Truecrypt 5.0 is OUT!</a></li>
+	<li><a href='../../../../2008/02/04/they-told-you/index.html' title='They told you&#8230;'>They told you&#8230;</a></li>
+	<li><a href='../../../../2008/01/27/osxcrypt-62a-and-source-code-released/index.html' title='OSXCrypt-6.2A and Source Code released'>OSXCrypt-6.2A and Source Code released</a></li>
+	<li><a href='../../../../2008/01/27/some-clarification-no-spaghetti-code-only-tight-integration-and-beta-quality/index.html' title='Some clarification: no spaghetti code, only tight integration and BETA quality'>Some clarification: no spaghetti code, only tight integration and BETA quality</a></li>
+	<li><a href='../../../../2008/01/23/this-is-not-a-scam-real-truecrypt-for-macos-is-here/index.html' title='This is not a scam: Real Truecrypt for MacOs is here!'>This is not a scam: Real Truecrypt for MacOs is here!</a></li>
+	<li><a href='../../../../2008/01/23/first-alpha-5-public-release-is-coming/index.html' title='First alpha 5 public release is coming!'>First alpha 5 public release is coming!</a></li>
+	<li><a href='../../../../2007/12/16/got-success-with-kernel-based-encryption-filter/index.html' title='Got success with kernel based encryption filter!'>Got success with kernel based encryption filter!</a></li>
+	<li><a href='https://web.archive.org/web/20080329190420/http://www.osxcrypt.org/2007/12/13/habemus-sourceforge/' title='Habemus Sourceforge!'>Habemus Sourceforge!</a></li>
+	<li><a href='../../../../2007/11/26/hello-world/index.html' title='Hudston, we&#8217;re coming!'>Hudston, we&#8217;re coming!</a></li>
+		</ul>
+	</li>
+
+	<li id="Categories">
+	<h2>Categories</h2>
+		<ul>
+				<li class="cat-item cat-item-4"><a href="../../../../category/administration/index.html" title="View all posts filed under administration">administration</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="../../../../category/notes/index.html" title="View all posts filed under notes">notes</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="../../../../category/release/index.html" title="View all posts filed under release">release</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="../../../../category/releases/index.html" title="View all posts filed under releases">releases</a>
+</li>
+		</ul>
+	</li>
+		
+	<li id="Archives">
+	<h2>Archives</h2>
+		<ul>
+				<li><a href='../../../../2008/02/index.html' title='February 2008'>February 2008</a></li>
+	<li><a href='../../../../2008/01/index.html' title='January 2008'>January 2008</a></li>
+	<li><a href='../../../../2007/12/index.html' title='December 2007'>December 2007</a></li>
+	<li><a href='../../../../2007/11/index.html' title='November 2007'>November 2007</a></li>
+		</ul>
+	</li>
+	
+	<li id="Admin">
+	<h2>Admin</h2>
+		<ul>
+						<li><a href="../../../../wp-login.php.html">Login</a></li>
+			<li><a href="https://web.archive.org/web/20080329190420/http://wordpress.org/">WordPress</a></li>
+						<li><a href="https://web.archive.org/web/20080329190420/http://validator.w3.org/check?uri=referer">XHTML</a></li>
+		</ul>
+		
+		</ul>
+			
+</div>
+
+<!-- end sidebar -->
+</div>
+
+<!-- The main column ends  -->
+
+<!-- begin footer -->
+
+<div style="clear:both;"></div>
+
+<div id="footer">
+	<p>Copyright &copy; 2007 <a href="../../../../index.html">OSXCrypt.org</a> &bull; Powered by <a href="https://web.archive.org/web/20080329190420/http://www.wordpress.org">WordPress</a> &bull; Using <a href="https://web.archive.org/web/20080329190420/http://www.briangardner.com/themes/silhouette-wordpress-theme.htm" >Silhouette</a> theme created by <a href="https://web.archive.org/web/20080329190420/http://www.briangardner.com" >Brian Gardner</a></p>
+</div>
+
+<p>OSXCrypt.org is Digg proof thanks to caching by <a href="https://web.archive.org/web/20080329190420/http://ocaoimh.ie/wp-super-cache/">WP Super Cache</a>!</p>
+<!-- Italians do it Better: Kudos to Antirez! -->
+<script type="text/javascript">
+lloogg_clientid = "209000310ed2fc56";
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20080329190420/http://lloogg.com/l.js?c=209000310ed2fc56">
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-74632-12");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body>
+</html>
+<!-- Dynamic Page Served (once) in 0.436 seconds -->

@@ -1,0 +1,483 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="distribution" content="global" />
+<meta name="robots" content="follow, all" />
+<meta name="language" content="en, sv" />
+
+<title>  Got success with kernel based encryption filter! : OSXCrypt.org - Truecrypt for MAC</title>
+<meta name="generator" content="WordPress 2.3.1" />
+<!-- leave this for stats please -->
+
+<link rel="Shortcut Icon" href="https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/wp-content/themes/silhouette/images/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed/index.html" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="../../../../feed/rss/index.html" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../../../../feed/atom/index.html" />
+<link rel="pingback" href="../../../../xmlrpc.php.html" />
+	<link rel='archives' title='February 2008' href='../../../../2008/02/index.html' />
+	<link rel='archives' title='January 2008' href='../../../../2008/01/index.html' />
+	<link rel='archives' title='December 2007' href='../../../../2007/12/index.html' />
+	<link rel='archives' title='November 2007' href='../../../../2007/11/index.html' />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../../xmlrpc__rsd.php.html" />
+ <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../../wp-includes/wlwmanifest.xml" /> <style type="text/css" media="screen">
+<!-- @import url(https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/wp-content/themes/silhouette-2column/style.css); -->
+</style>
+</head>
+
+<body><div style="position:sticky;top:0;z-index:99999;background:#111;color:#eee;font:13px/1.4 Arial,sans-serif;padding:6px 10px;border-bottom:2px solid #c90">Archivio &middot; OSXCrypt &#8212; TrueCrypt for macOS (2007&#8211;2008) &middot; copia del 2008-05-13 dal <a style="color:#fc6" href="https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/2007/12/16/got-success-with-kernel-based-encryption-filter/">Web Archive</a> &middot; <a style="color:#fc6" href="../../../../../index.html">tutti i miei siti del passato</a> &middot; <a style="color:#fc6" href="https://fabio.pietrosanti.it/">fabio.pietrosanti.it</a></div>
+
+<div id="header">
+
+	<div class="headerleft">
+		<a href="../../../../index.html">OSXCrypt.org</a><br />
+		<b>Open Effort for Multiple Encryptions under MacOsX</b>
+	</div>
+	
+	<div class="headerright">
+		<ul>
+			<li><a href="../../../../index.html">Home</a></li>
+			<li class="page_item page-item-2"><a href="../../../../about/index.html" title="About">About</a></li>
+<li class="page_item page-item-11"><a href="../../../../download/index.html" title="Download">Download</a></li>
+<li class="page_item page-item-3"><a href="../../../../meet-the-funders/index.html" title="Funders">Funders</a></li>
+<li class="page_item page-item-8"><a href="../../../../staff/index.html" title="Staff">Staff</a></li>
+			<li><a href="../../../../feed/index.html">RSS</a></li>
+		</ul>
+	</div>
+
+</div>
+<div id="content">
+
+	<div id="contentleft">
+				<h1>Got success with kernel based encryption filter!</h1>
+		<p>First of all we would like to announce that, during the development, we realized that this project will not be a simple port of truecrypt to Mac OS X, but this will provide a <strong>multiple enciphered disks support encryption platform</strong> for the Apple operating system.  </p>
+
+<p>Why?  </p>
+
+<p>Because OSXCRYPT will be an <strong>open platform</strong>, open to all the developer of encryption systems such as <em>LUKS, LOOP-AES, PGPDISK, TRUECRYPT,</em> etc, etc .<br />
+The platform will provide a dynamic kernel extension along with an installer and a easy to use cocoa interface.<br />
+The OSXCRYPT platform will support as a first encrypted volume technology the truecrypt file based images but the end goal is to provide to Mac OS X users full access to most of the file based volume encryption system around the net.  </p>
+
+<p>Today we successfully tested the encryption filter (with a simple XOR, but it&#8217;s enough for testing!) and the communication between user space and kernel space. Below more details to test it.  </p>
+
+<p>The next goals to be reached are:  </p>
+
+<ul>
+<li>Parameters communications between user space and kernel space (required to initialize the encryption systems running in kernel space)</li>
+<li>truecrypt encryption volume logic porting inside the kernel extension as a module of OSXCRYPT- Implementation of user interface with cocoa framework</li>
+<li>Documentation of the system</li>
+<li>Beta release (required for beta testing)</li>
+</ul>
+
+<p>We invite everyone to test the basic kernel module encrypting (with a simple and unsecure XOR) the volumes with &#8220;ANTANI&#8221; (Please consider that this module work at &#8220;Partition level&#8221; but that we will implement the &#8220;Disk level&#8221; enciphering later):</p>
+
+<p><span id="more-5"></span></p>
+
+<p>Download the <a href='https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/wp-content/uploads/2007/12/xormediafilterscheme104kext.zip' title='Kernel module for Mac OS X 10.4'>Kernel module for Mac OS X 10.4</a>  </p>
+
+<p>Download the <a href='https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/wp-content/uploads/2007/12/xormediafilterscheme105kext.zip' title='Kernel module for Mac OS X 10.5'>Kernel module for Mac OS X 10.5</a></p>
+
+<p>For using the demo please follow these simple instructions:   </p>
+
+<ol>
+<li>Unzip the Kernel Extension<br />
+<tt>unzip XorMediaFilterScheme.10.4.kext.zip</tt><br />
+or for Leopard<br />
+<tt>unzip XorMediaFilterScheme.10.5.kext.zip</tt></li>
+<li>Open a terminal and change the ownership of the extension<br />
+<tt>sudo chown -R root:wheel XorMediaFilterScheme.kext</tt></li>
+<li>Create a DMG image (It can be Apple-Partition based or EFI-GPT Based)<br />
+Apple-Parition Based:<br />
+<tt>hdiutil create -megabytes 15 -partitionType N3<em>Xor</em>Filtered test.dmg</tt><br />
+EFI-GPT Based:<br />
+<tt>hdiutil create -layout GPTSPUD -megabytes 15 -partitionType 392CD6BE-F7EF-4F1C-A6FD-D360DA33A466 test.dmg</tt></li>
+<li>Load the kernel module:<br />
+<tt>sudo kextload -t XorMediaFilterScheme.kext</tt></li>
+<li><p>Attach the DMG<br />
+<tt>hdiutil attach -nomount test.dmg</tt><br />
+You should get something like:<br />
+<tt>
+  (Apple-Partition)<br />
+  /dev/diskX Apple<em>partition</em>table<br />
+  /dev/diskXs1 Apple<em>partition</em>map<br />
+  /dev/diskXs2 N3<em>Xor</em>Filtered<br />
+  /dev/diskXs2s1 Apple_HFS  </p>
+
+<p>(GPT-Partition)<br />
+  /dev/diskX GUID<em>partition</em>scheme<br />
+  /dev/diskXs1 392CD6BE-F7EF-4F1C-A6FD-D360DA33A466<br />
+  /dev/diskXs1s1 Apple<em>HFS<br />
+</tt><br />
+We are interested in the latest entry, the &#8220;Apple</em>HFS&#8221; one.</p></li>
+<li>Format in HFS+ the partition:<br />
+<tt>newfs<em>hfs -v &#8220;Volume Antani&#8221; /dev/rdiskXs?s1</tt> (note the &#8216;r&#8217; (bsdism), where &#8220;?&#8221; it&#8217;s the partition N3</em>Xor_Filter or 392&#8230;)  </li>
+<li>Unmount the previously created DMG:<br />
+<tt>hdiutil detach /dev/diskX</tt>  </li>
+<li>OK, now you can mount the newly XOR&#8217;ed &#8220;Antani&#8221; image Double click on the &#8220;test.dmg&#8221;, copy a lot of data on it (so you can test for memory leaks, but we copied inside and played several DIVX), unmount and remount it as you like.  </li>
+</ol>
+
+<p><strong>WARNING</strong>  </p>
+
+<p><strong>This is an alpha release component and, even if it seems very stable, doesn&#8217;t use it for privacy protection and does not put on it important data.</strong></p>
+<div style="clear:both;"></div>
+	 	
+		<div class="postinfo">
+			December 16, 2007 | Filed Under <a href="../../../../category/administration/index.html" title="View all posts in administration" rel="category tag">administration</a>,  <a href="../../../../category/release/index.html" title="View all posts in release" rel="category tag">release</a>&nbsp;		</div>
+			
+		<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.osxcrypt.org/2007/12/16/got-success-with-kernel-based-encryption-filter/"
+    dc:identifier="http://www.osxcrypt.org/2007/12/16/got-success-with-kernel-based-encryption-filter/"
+    dc:title="Got success with kernel based encryption filter!"
+    trackback:ping="http://www.osxcrypt.org/2007/12/16/got-success-with-kernel-based-encryption-filter/trackback/" />
+</rdf:RDF>		-->
+		
+		<h3>Comments</h3>
+		
+<!-- You can start editing here. -->
+
+<div id="commentblock">
+	<p id="comments"><b>14 Responses to &#8220;Got success with kernel based encryption filter!&#8221;</b></p>
+
+	<ol class="commentlist">
+
+	
+		<li class="alt" id="comment-5">
+			Philip Zimmerman on
+						December 16th, 2007 3:29 pm 
+			<div class="commenttext">
+			<p>I really appreciate your effort to provide an open encrypted platform for Mac OS X.</p>
+<p>A base for the implementation of already available encrypted volume systems it&#8217;s important for Mac users.</p>
+<p>Great idea!</p>
+<p>-prz</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-6">
+			<a href='https://web.archive.org/web/20080513163251/http://none' rel='external nofollow'>A Concerned Truecrypt User</a> on
+						December 16th, 2007 3:45 pm 
+			<div class="commenttext">
+			<p>Hi, </p>
+<p>Seems like instead of &#8220;to port the entire application [Truecrypt] in native MacOs X&#8221;, you/your developer is now making a &#8220;a multiple enciphered disks support encryption platform for the Apple operating system&#8221;. This does <em>not</em> sound like what was discussed on fundable.com. IMHO, it sounds like you are just now (Dec. 16) changing your direction of your project (I suspect) to separate &amp; distance yourselves from the Truecrypt developers (who have announced their own version of TC for OS X). I&#8217;m not writing this out of malice, but out of concern; I was very close to donating myself, but refrained due to concerns of just such an issue arising.  My opinion (and suggestion)? Give what money that is left BACK to the donators. Instead of making a OS x Version of Truecrypt yourselves, you have instead succeeded (IHMO) in cajoling/embarassing the original TC devs into releasing one of their own (which, no offense, is what everyone wanted to begin with). OSXCRYPT is NOT TRUECRYPT. The donors gave their money for the latter, NOT the former. Please be respectful of your benefactor&#8217;s wishes. TIA, I look forward to your reply.</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-7">
+			Chico on
+						December 16th, 2007 3:46 pm 
+			<div class="commenttext">
+			<p>I was enthusiastic about the idea of someone developing a Truecrypt porting, but you guys rocks!  </p>
+<p>Instead of simply delivering a TrueCrypt lil&#8217; prog you developed a full featured kernel based encryption filter!<br />
+I know some of you will not understand it, but with this little code ANYONE will be able to crate encryption engines which can PLUG IN INTO the prog!  </p>
+<p>I REALLY think this thing alone is FAR MORE IMPORTANT that the Truecrypt stuff!  </p>
+<p>And again, I saw that Truecrypt will release in January 2008 with a MAC version, but honestly &#8220;WTF?!?!? WHO CARES?!?!?&#8221;. Now we can have ANY encryption on mac with a minimum effort!</p>
+<p>Thanks, lastknight and all! You brightened my day!</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-8">
+			<a href='https://web.archive.org/web/20080513163251/http://none' rel='external nofollow'>A Concerned Truecrypt User</a> on
+						December 16th, 2007 3:47 pm 
+			<div class="commenttext">
+			<p>Oh, a final word: I suggest you give the unused monies back, or donate them to truecrypt.org (at the donor&#8217;s discretion, of course <img src='https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/wp-includes/images/smilies/icon_wink.gif' alt=';-)' class='wp-smiley' /> </p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-9">
+			CoreTeam on
+						December 16th, 2007 3:54 pm 
+			<div class="commenttext">
+			<p>@<strong>A Concerned Truecrypt User</strong>  </p>
+<p>Dear user,<br />
+porting Truecrypt is our main concern and chances are good that we&#8217;ll deliver BEFORE the Truecrypt guys. I smell something in being silent for three years and magically coming out just today.  </p>
+<p>Porting Truecrypt must be done in the correct way, a way that will consent in the future (btw) to develope a drop-in truecrypt replacement of FileVault, for example.  </p>
+<p>Right now I&#8217;ve been contacting the contributors at every step, and no one told me they wanted their money back. If someone feels betrayed, please be free to tell us and we&#8217;ll proceed accordingly.  </p>
+<p>We think that creating an OPEN framework is far more intelligent that inventing the wheel at every step.<br />
+We WILL deliver the truecrypt version BEFORE others, but we&#8217;ll code it WELL and SOUNDLY the first time.  </p>
+<p>And <em>please</em>, we&#8217;ll take orders about money and the <em>direction</em> of the project from the founers only.</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-10">
+			<a href='https://web.archive.org/web/20080513163251/http://none' rel='external nofollow'>A Concerned Truecrypt User</a> on
+						December 16th, 2007 4:02 pm 
+			<div class="commenttext">
+			<p>@Core Team:</p>
+<p>Thanks for a quick reply.<br />
+I understand and respect that you will only take input about the direction of this project from the founders, that&#8217;s fine. I&#8217;ve simply utilized the &#8216;Leave a Comment&#8217; link, and done just that&#8230; my comments are, of course, just my opinion, and I don&#8217;t post here expecting you to change anything just because of one unnamed guy&#8217;s post on your project&#8217;s blog <img src='https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/wp-includes/images/smilies/icon_wink.gif' alt=';-)' class='wp-smiley' />  If the funders (ie. donors) are really as supportive of your choice as you say, then I&#8217;m content let this thread rest. Good luck and best wishes on your endeavor!</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-12">
+			<a href='https://web.archive.org/web/20080513163251/http://www.lionstarr.de' rel='external nofollow'>lionstarr</a> on
+						December 18th, 2007 11:19 am 
+			<div class="commenttext">
+			<p>Great! The only thing missing on OS X til now was: TrueCrypt. Really, keep this up!</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-15">
+			Rob on
+						January 8th, 2008 1:53 pm 
+			<div class="commenttext">
+			<p>About 3 weeks since this post&#8230; any progress?</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-16">
+			C.N. on
+						January 15th, 2008 6:28 am 
+			<div class="commenttext">
+			<p>One Month&#8230; yet nothing? Any news?<br />
+I appreciate any progress, and will candidate for any beta testing.<br />
+Bye<br />
+C.</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-17">
+			Full Disk Encryption on
+						January 16th, 2008 8:10 pm 
+			<div class="commenttext">
+			<p>Hello,</p>
+<p>I am willing to donate handsomely, if I am convinced that a full-disk-encryption for Mac OS X Leopard will be achieved (hopefully inside Q1-2008)</p>
+<p>Other than being a privacy-minded individual, I am also ashamed in being an Apple fan, when today, January-2008 - every commercial operating-system has software-package that offers full-disk-encryption (including boot-partition). </p>
+<p>That includes many UNIX Distros (with GELI or GBDE),all Linux dist (with Pointsec/Checkpoint), and of course, any Windows Platform (with PointSec/BitLocker/GuardianEdge and others). Hell, even Symbian and PocketPC/WindowsMobile are fully supported with PointSec and few of other startups.</p>
+<p>It almost looks like Apple has some secret alliance with &#8220;uncle Sam&#8221;&#8230;. Seriously!</p>
+<p>On another note - it is possible to get a MacBook that supports 2.5&#8243; drives (unlike MacBook Air) and get a Seagate or Hitachi Full-Disk-Encryption (FDE) drive, and setup OS X on that drive. BUT the non-Air MacBook weighs a ton&#8230;.. and their proprietary FDE technology is not open source <img src='https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/wp-includes/images/smilies/icon_sad.gif' alt=':-(' class='wp-smiley' /> </p>
+<p>P.S. if the original TrueCrypt developers are closer to accomplishing the task, I think its wiser donating to them directly, helping them out. I really don&#8217;t know how to get involved, if someone has a clue - please let me know.</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-18">
+			<a href='https://web.archive.org/web/20080513163251/http://garrettreid.com' rel='external nofollow'>Garrett</a> on
+						January 20th, 2008 6:48 pm 
+			<div class="commenttext">
+			<p>I too would like to hear of any progress. Also, there is mention made to a mailing list. Where does one sign up?</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-19">
+			Long on
+						January 23rd, 2008 2:23 am 
+			<div class="commenttext">
+			<p>1 week left in Jan 08 and no news of Truecrypt 5.0 yet and also no further news on OSXcrypt&#8230;  guess there are going to be some delay?</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="alt" id="comment-37">
+			<a href='https://web.archive.org/web/20080513163251/http://pragmat.org' rel='external nofollow'>Ralf-Philipp Weinmann</a> on
+						January 27th, 2008 3:21 am 
+			<div class="commenttext">
+			<p>Great work that you have done! I really appreciate someone coming up with a viable alternative to FileVault on OS X. And a WDE capable software at that! What joy!</p>
+<p>Cheers,<br />
+.:ralf:.</p>
+			</div>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-49">
+			<a href='https://web.archive.org/web/20080513163251/http://doodeesthailand.blogspot.com/' rel='external nofollow'>Doodee</a> on
+						January 31st, 2008 6:03 pm 
+			<div class="commenttext">
+			<p>Thanks for sharing</p>
+			</div>
+
+		</li>
+
+	
+	
+	</ol>
+
+ 
+
+
+<p id="respond"><b>Leave a Reply</b></p>
+
+
+<form action="https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name </label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" /></p>
+
+<p><label for="email">Email Address</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/2007/12/16/got-success-with-kernel-based-encryption-filter/&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;code&gt; &lt;em&gt; &lt;i&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+
+<p><textarea name="comment" id="comment" cols="50" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type="hidden" name="comment_post_ID" value="5" /></p>
+
+
+</form>
+</div>
+
+
+		
+					
+	</div>
+	
+<!-- begin sidebar -->
+
+<div id="sidebar">
+
+	<ul id="sidebarwidgeted">
+
+		
+	<li id="Search">
+	<form method="get" id="search_form" action="../../../../index.html">
+	<input type="text" class="search_input" value="To search, type and hit enter" name="s" id="s" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'To search, type and hit enter';}" />
+	<input type="hidden" id="searchsubmit" value="Search" /></form><br />
+	</li>
+
+<A href="../../../../download/index.html"><IMG src="https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/download.png" border=0></a>
+
+
+	<li id="About">
+	<h2>About</h2>
+		<p><b>OsxCrypt.org</b> is an open effort for porting OpenSource encryption tools on MacOsX with seamingless integration with the OS. It is run by the <A href="../../../../staff.html" class="a">Staff</a> and thanks to the donations of the <A href="../../../../meet-the-funders.html" class="a">Funders</A>.</p>
+	</li>
+	
+	<li id="Blogroll">
+	<h2>Imporant Links</h2>
+		<ul>
+			<li><a href="https://web.archive.org/web/20080513163251/https://www.fundable.com/groupactions/groupaction.2007-10-02.2606817820/view?searchterm=">Fundable Project</a></li>
+<li><a href="../../../../forum/index.html">Help Forums</a></li>
+<li><a href="https://web.archive.org/web/20080513163251/http://www.truecrypt.org/">Official Truecrypt</a></li>
+		</ul>
+	</li>
+
+	<li id="Recent">
+
+	<h2>Recent News</h2>
+		<ul>
+				<li><a href='../../../../2008/02/06/truecrypt-50-is-out/index.html' title='Truecrypt 5.0 is OUT!'>Truecrypt 5.0 is OUT!</a></li>
+	<li><a href='../../../../2008/02/04/they-told-you/index.html' title='They told you&#8230;'>They told you&#8230;</a></li>
+	<li><a href='../../../../2008/01/27/osxcrypt-62a-and-source-code-released/index.html' title='OSXCrypt-6.2A and Source Code released'>OSXCrypt-6.2A and Source Code released</a></li>
+	<li><a href='../../../../2008/01/27/some-clarification-no-spaghetti-code-only-tight-integration-and-beta-quality/index.html' title='Some clarification: no spaghetti code, only tight integration and BETA quality'>Some clarification: no spaghetti code, only tight integration and BETA quality</a></li>
+	<li><a href='../../../../2008/01/23/this-is-not-a-scam-real-truecrypt-for-macos-is-here/index.html' title='This is not a scam: Real Truecrypt for MacOs is here!'>This is not a scam: Real Truecrypt for MacOs is here!</a></li>
+	<li><a href='../../../../2008/01/23/first-alpha-5-public-release-is-coming/index.html' title='First alpha 5 public release is coming!'>First alpha 5 public release is coming!</a></li>
+	<li><a href='../../../../2007/12/16/got-success-with-kernel-based-encryption-filter/index.html' title='Got success with kernel based encryption filter!'>Got success with kernel based encryption filter!</a></li>
+	<li><a href='https://web.archive.org/web/20080513163251/http://www.osxcrypt.org/2007/12/13/habemus-sourceforge/' title='Habemus Sourceforge!'>Habemus Sourceforge!</a></li>
+	<li><a href='../../../../2007/11/26/hello-world/index.html' title='Hudston, we&#8217;re coming!'>Hudston, we&#8217;re coming!</a></li>
+		</ul>
+	</li>
+
+	<li id="Categories">
+	<h2>Categories</h2>
+		<ul>
+				<li class="cat-item cat-item-4"><a href="../../../../category/administration/index.html" title="View all posts filed under administration">administration</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="../../../../category/notes/index.html" title="View all posts filed under notes">notes</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="../../../../category/release/index.html" title="View all posts filed under release">release</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="../../../../category/releases/index.html" title="View all posts filed under releases">releases</a>
+</li>
+		</ul>
+	</li>
+		
+	<li id="Archives">
+	<h2>Archives</h2>
+		<ul>
+				<li><a href='../../../../2008/02/index.html' title='February 2008'>February 2008</a></li>
+	<li><a href='../../../../2008/01/index.html' title='January 2008'>January 2008</a></li>
+	<li><a href='../../../../2007/12/index.html' title='December 2007'>December 2007</a></li>
+	<li><a href='../../../../2007/11/index.html' title='November 2007'>November 2007</a></li>
+		</ul>
+	</li>
+	
+	<li id="Admin">
+	<h2>Admin</h2>
+		<ul>
+						<li><a href="../../../../wp-login.php.html">Login</a></li>
+			<li><a href="https://web.archive.org/web/20080513163251/http://wordpress.org/">WordPress</a></li>
+						<li><a href="https://web.archive.org/web/20080513163251/http://validator.w3.org/check?uri=referer">XHTML</a></li>
+		</ul>
+		
+		</ul>
+			
+</div>
+
+<!-- end sidebar -->
+</div>
+
+<!-- The main column ends  -->
+
+<!-- begin footer -->
+
+<div style="clear:both;"></div>
+
+<div id="footer">
+	<p>Copyright &copy; 2007 <a href="../../../../index.html">OSXCrypt.org</a> &bull; Powered by <a href="https://web.archive.org/web/20080513163251/http://www.wordpress.org">WordPress</a> &bull; Using <a href="https://web.archive.org/web/20080513163251/http://www.briangardner.com/themes/silhouette-wordpress-theme.htm" >Silhouette</a> theme created by <a href="https://web.archive.org/web/20080513163251/http://www.briangardner.com" >Brian Gardner</a></p>
+</div>
+
+<p>OSXCrypt.org is Digg proof thanks to caching by <a href="https://web.archive.org/web/20080513163251/http://ocaoimh.ie/wp-super-cache/">WP Super Cache</a>!</p>
+<!-- Italians do it Better: Kudos to Antirez! -->
+<script type="text/javascript">
+lloogg_clientid = "209000310ed2fc56";
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20080513163251/http://lloogg.com/l.js?c=209000310ed2fc56">
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-74632-12");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body>
+</html>
+<!-- Dynamic Page Served (once) in 0.332 seconds -->
