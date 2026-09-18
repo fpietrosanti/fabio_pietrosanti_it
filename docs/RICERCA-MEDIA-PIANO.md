@@ -152,6 +152,16 @@ Regola di Fabio: **tutto ciò che è un progetto** ha una sezione sul sito e una
 stato «da-documentare»). Per ciascuno: raccogliere le fonti da `data/media.json`, scrivere descrizione, proporre a
 Fabio, poi pubblicare (LinkedIn con il metodo in linkedin-i18n/tools).
 
+## FASE FINALE (solo a lavoro di ricerca concluso e homepage pubblicata)
+Richiesta di Fabio 2026-09-18 — da fare **alla fine**, quando non c'è più nulla da ricercare:
+1. **Rappresentazione visiva sulla homepage** fabio.pietrosanti.it:
+   - **tag cloud** degli ambiti di interesse professionale **nel tempo** (per anno/periodo);
+   - **timeline della vita professionale** per categorie di interesse (sicurezza, cifratura, whistleblowing,
+     diritti digitali, voto elettronico, logistica, finanza algoritmica, biohacking, comunità hacker, …),
+   costruite dai dati LinkedIn (`linkedin-i18n/snapshots/en.json`) + `data/media.json` + `data/projects.json`.
+2. **Aggiornamento di LinkedIn** (EN master + zh_CN) sulla base dei dati della homepage definitiva: progetti,
+   pubblicazioni, talk, esperienze mancanti — con proposta a Fabio prima di pubblicare.
+
 ## TODO futuri
 - **CRVD voto elettronico**: replica dal Web Archive e rimessa online (progetto a parte, da pianificare).
 - **Progetto AIRE** (voto elettronico / voto degli italiani all'estero iscritti all'AIRE): da documentare bene
