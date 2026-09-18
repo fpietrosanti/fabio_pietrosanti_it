@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **629**; dopo deduplica: **508**
+- Risultati grezzi dalle ricerche: **635**; dopo deduplica: **513**
 - Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 476**
-- Verificati aprendo la pagina: **440**; solo da risultato di ricerca: **68**
+- **Nuovi rispetto al vecchio sito: 481**
+- Verificati aprendo la pagina: **445**; solo da risultato di ricerca: **68**
 
-Per tipo (nuovi): Menzionato 79, Post sul blog infosecurity.ch 71, Talk 65, Video 47, Citato 39, Progetto 35, Altro 18, Articolo scritto 15, Ricerca 14, Comunicato 14, Report 13, Paper 11, Podcast 11, Libro 11, Radio 8, Intervista 6, Slide 4, Capitolo di libro 4, TV 3, newspaper 2, Brevetto 2, Tesi 2, Wiki 1, Audizione 1
+Per tipo (nuovi): Menzionato 84, Post sul blog infosecurity.ch 71, Talk 65, Video 47, Citato 39, Progetto 35, Altro 18, Articolo scritto 15, Ricerca 14, Comunicato 14, Report 13, Paper 11, Podcast 11, Libro 11, Radio 8, Intervista 6, Slide 4, Capitolo di libro 4, TV 3, newspaper 2, Brevetto 2, Tesi 2, Wiki 1, Audizione 1
 
 ### Copertura per anno
 
@@ -39,7 +39,7 @@ Per tipo (nuovi): Menzionato 79, Post sul blog infosecurity.ch 71, Talk 65, Vide
 | 2017 | 0 | 48 | 48 |
 | 2018 | 0 | 36 | 36 |
 | 2019 | 0 | 11 | 11 |
-| 2020 | 0 | 24 | 24 |
+| 2020 | 0 | 27 | 27 |
 | 2021 | 0 | 22 | 22 |
 | 2022 | 0 | 38 | 38 |
 | 2023 | 0 | 7 | 7 |
@@ -233,7 +233,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 24 voci, 24 nuove
+## 2020 — 27 voci, 27 nuove
 
 - 🆕 **2020-12-03** · Progetto · GitHub fpietrosanti — [ifuriosi](https://github.com/fpietrosanti/ifuriosi)  
   Document archive of the ifuriosi platform
@@ -245,12 +245,18 @@ Anni senza nessun risultato: nessuno
   Silvia Cegalin. On the Italian interception law and state trojans; mentions 'Fabio Pietrosanti, membro del Centro Hermes per la Trasparenza e i Diritti Umani Digitali' urging the government to revise the law on entrusting citizens' data to unregulated private trojan vendors. Page text read. Borderline: magazine rather than academic journal.
 - 🆕 **2020-10-26** · Menzionato · Interoperable Europe Portal (European Commission) — [EUPL for Italian software](https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software) _(non verificato)_  
   EC news (P-E Schmitz) updated on ANAC-Hermes AGPL settlement over GlobaLeaks-based OpenWhistleblowing; org-level
+- 🆕 **2020-10-23** · Menzionato · wired.it — [Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/10/23/rousseau-espulsione-iscritto-doppio-voto-casaleggio/)  
+  verified via wayback; context: …2020 Home Attualità Politica Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau di Raffaele Angius Contributor 23 Oct, 2020 Fabio Pietrosanti, iscritto al M5s da due anni, si è visto re…
 - 🆕 **2020-10-02** · Menzionato · corriere.it — [M5S, ritardo nei pagamenti: Rousseau taglia i servizi. Evento del 4 ottobre rinviato](https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml)  
   verified via live; context: …`Jaromil� Roio (hacker che ha dato vita alla comunit� Dyne.org) annuncia la nascita del software libero �Open Rousseau � che, come anticipato all’Adnkronos da Fabio Pietrosanti, uno dei promotori dell’iniziativa, punta a…
 - 🆕 **2020-10-02** · newspaper · Il Gazzettino (Friuli ed.) — [Il Gazzettino-Friuli 2020-10-02 (article on 'Open Rousseau')](https://archive.org/details/GazzettinoFVG2020-10-02)  
   IA full text verified: 'un gruppo di esperti informatici, Sviluppatori tra cui spicca il nome di Fabio Pietrosanti che oggi faranno debuttare ... "Open Rousseau". Un software libero ... basato sulla piattaforma Decidim'.
+- 🆕 **2020-10-01** · Menzionato · open.online — [Gli hacker ci regalano Open Rousseau, l'alternativa libera e gratuita alla piattaforma del M5s - Open](https://www.open.online/2020/10/01/hacker-regalano-open-rousseau-piattaforma-m5s-casaleggio/)  
+  verified via wayback; context: …ossa dalla fondazione non-profit Dyne.org nella figura del suo responsabile tecnico Denis Rojo , noto con il nome Jaromil nella comunità del software libero, e Fabio Pietrosanti detto Naif, attivista per i diritti digita…
 - 🆕 **2020-09-05** · Progetto · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR)  
   OCR processing of Italian Government COVID Scientific Technical Committee minutes
+- 🆕 **2020-08-19** · Menzionato · wired.it — [Come sono riuscito a votare due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/)  
+  verified via wayback; context: …e facilmente individuabile con i normali controlli di penetration testing ai quali dovrebbero essere sottoposti simili strumenti” , ha commentato l’informatico Fabio Pietrosanti, membro del Comitato per i requisiti del v…
 - 🆕 **2020-06-23** · Citato · Agenda Digitale — [Software libero "massacrato" da Trump: un passo verso la sorveglianza globale](https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/)  
   Out of slice (incidental): quoted on OTF funding being decisive for GlobaLeaks
 - 🆕 **2020-06-09** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810)  
@@ -1155,6 +1161,8 @@ Anni senza nessun risultato: nessuno
 
 ## Senza data
 
+- 🆕 Menzionato · zeusnews.it — [La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori](https://www.zeusnews.it/n.php?c=25616)
+- 🆕 Menzionato · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 
 ---

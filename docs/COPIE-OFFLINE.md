@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **508**; già processate: **514**; ancora da processare: **0**
-- Licenza delle copie ottenute: **181** materiale proprio (ripubblicabile), **328** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **380**
+- Voci in `data/media.json`: **513**; già processate: **519**; ancora da processare: **0**
+- Licenza delle copie ottenute: **181** materiale proprio (ripubblicabile), **333** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **385**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **59**
 - 🎬 Video/audio scaricato (+ pagina): **69**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
@@ -17,7 +17,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -41,7 +41,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 40 | 5 | 4 | 0 | 0 | 0 | 0 |
 | 2018 | 18 | 13 | 5 | 0 | 0 | 0 | 0 |
 | 2019 | 7 | 3 | 0 | 0 | 1 | 0 | 0 |
-| 2020 | 19 | 3 | 4 | 0 | 0 | 0 | 0 |
+| 2020 | 22 | 3 | 4 | 0 | 0 | 0 | 0 |
 | 2021 | 16 | 5 | 1 | 0 | 0 | 0 | 0 |
 | 2022 | 32 | 5 | 1 | 0 | 0 | 0 | 0 |
 | 2023 | 5 | 0 | 2 | 0 | 0 | 0 | 0 |
@@ -214,7 +214,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 
 ## Fonti ottenute in locale
 
+- **None** · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b) · copia: `undated/3bcce2091e75` (Web Archive 20201101) · licenza: terzi
 - **None** · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/) · copia: `undated/5ad9adf41ff0` (Web Archive 20150721) · licenza: terzi
+- **None** · zeusnews.it — [La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori](https://www.zeusnews.it/n.php?c=25616) · copia: `undated/56a81be55c4d` (Web Archive 20170726) · licenza: terzi
 - **1997** · La Stampa — [La Stampa 1997-10-27 / 1997-10-30 / 1997-10-31 (list of names)](https://archive.org/details/lastampa_1997-10-30) · copia: `1997/ccb4af8f5f5c` (live) · licenza: terzi
 - **1997** · La Stampa, 27/30/31 October 1997 (contes — [Winners list, prize contest (tickets for Gran Premio di Monza 1998)](https://archive.org/details/lastampa_1997-10-30/page/n51) · copia: `1997/4a78f37293ea` (live) · licenza: terzi
 - **1999** · BFi n.7 — [L'hacker e il magistrato: commenti a lato (BlackBerry & \sPIRIT\)](https://www.s0ftpj.org/bfi/online/bfi7/bfi07-20.html) · copia: `1999/3790912aa618` (Web Archive 20010308) · licenza: terzi
@@ -586,11 +588,14 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Key4biz — [In Italia esiste davvero il comitato "quantistico" sul voto elettronico?](https://www.key4biz.it/in-italia-esiste-davvero-il-comitato-quantistico-sul-voto-elettronico/332220/) · copia: `2020/25d4680f2c02` (Web Archive 20201123) · licenza: terzi
 - **2020** · lastampa.it — [L’emergenza per Casaleggio può far “testare il voto online a marzo”, ecco come gli informa](https://www.lastampa.it/politica/2020/03/04/news/l-emergenza-per-casaleggio-puo-far-testare-il-voto-online-a-marzo-ecco-come-gli-informatici-lo-stroncano-1.38548899/) · copia: `2020/79c2958d757e` (Web Archive 20200305) · licenza: terzi
 - **2020** · Linkiesta (Nicola Biondo) — [Lo sconosciuto comitato governativo che sta pensando come farci votare con il voto elettro](https://www.linkiesta.it/2020/11/comitato-foia-voto-elettronico-italia-news/) · copia: `2020/37398b4034a9` (Web Archive 20201119) · licenza: terzi
+- **2020** · open.online — [Gli hacker ci regalano Open Rousseau, l'alternativa libera e gratuita alla piattaforma del](https://www.open.online/2020/10/01/hacker-regalano-open-rousseau-piattaforma-m5s-casaleggio/) · copia: `2020/fdc8002e4c42` (Web Archive 20201029) · licenza: terzi
 - **2020** · Pandora Rivista (online review of politi — [I trojan di Stato: la nuova legge sulle intercettazioni](https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/) · copia: `2020/03251fc3f640` (Web Archive 20201205) · licenza: terzi
 - **2020** · Agenda Podcast (Spreaker) — [Coronavirus: cos'è e come funziona il contact tracing?](https://www.spreaker.com/episode/coronavirus-cos-e-e-come-funziona-il-contact-tracing--24430226) · copia: `2020/016c081dae4e` (live · video locale `media.mp3` (27 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao, Internet! con Matteo Flora (Spreak — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810) · copia: `2020/beb50880eccd` (live · video locale `media.mp3` (36 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/) · copia: `2020/8e681af68171` (live) · licenza: terzi
 - **2020** · Valigia Blu — [Come CIA e servizi segreti tedeschi hanno spiato alleati e avversari vendendo macchine ant](https://www.valigiablu.it/cia-germania-spionaggio-alleati/) · copia: `2020/3623df8bfee3` (Web Archive 20200327) · licenza: terzi
+- **2020** · wired.it — [Come sono riuscito a votare due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/) · copia: `2020/047d81756b8a` (Web Archive 20200819) · licenza: terzi
+- **2020** · wired.it — [Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau - Wi](https://www.wired.it/attualita/politica/2020/10/23/rousseau-espulsione-iscritto-doppio-voto-casaleggio/) · copia: `2020/cee82319fca6` (Web Archive 20201028) · licenza: terzi
 - **2020** · Mojo Italia (YouTube) — [Come difendere il proprio smartphone](https://www.youtube.com/watch?v=JMxc3mgAO7E) · copia: `2020/47d15b9a4026` (live · video locale `media.mp4` (1,298 MB, da caricare su Drive)) · licenza: terzi
 - **2021** · FOSDEM 2021 (Legal and Policy Issues dev — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license ](https://archive.fosdem.org/2021/schedule/event/agplcompliance/) · copia: `2021/93a94126c6db` (Web Archive 20211020) · licenza: terzi
 - **2021** · FOSDEM 2021 — [FOSDEM 2021 - Fabio Pietrosanti (naif) speaker page](https://archive.fosdem.org/2021/schedule/speaker/fabio_pietrosanti_naif/) · copia: `2021/b94e84acade8` (Web Archive 20220119) · licenza: terzi
