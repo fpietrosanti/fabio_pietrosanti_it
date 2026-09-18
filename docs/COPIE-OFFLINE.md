@@ -5,11 +5,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **513**; già processate: **519**; ancora da processare: **4**
-- Licenza delle copie ottenute: **181** materiale proprio (ripubblicabile), **334** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **386**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **59**
-- 🎬 Video/audio scaricato (+ pagina): **69**
+- Voci in `data/media.json`: **529**; già processate: **538**; ancora da processare: **1**
+- Licenza delle copie ottenute: **185** materiale proprio (ripubblicabile), **349** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **399**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **64**
+- 🎬 Video/audio scaricato (+ pagina): **70**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
 - ❌ Non ottenuta: **4**
 
@@ -17,7 +17,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -40,21 +40,18 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 9 | 7 | 1 | 0 | 0 | 0 | 0 |
 | 2017 | 40 | 5 | 4 | 0 | 0 | 0 | 0 |
 | 2018 | 18 | 13 | 5 | 0 | 0 | 0 | 0 |
-| 2019 | 7 | 3 | 0 | 0 | 1 | 0 | 0 |
-| 2020 | 22 | 3 | 4 | 0 | 0 | 0 | 0 |
-| 2021 | 16 | 5 | 1 | 0 | 0 | 0 | 0 |
-| 2022 | 32 | 5 | 1 | 0 | 0 | 0 | 0 |
+| 2019 | 7 | 3 | 1 | 0 | 1 | 0 | 0 |
+| 2020 | 24 | 3 | 5 | 0 | 0 | 0 | 0 |
+| 2021 | 16 | 5 | 2 | 0 | 0 | 0 | 0 |
+| 2022 | 34 | 6 | 1 | 0 | 0 | 0 | 0 |
 | 2023 | 5 | 0 | 2 | 0 | 0 | 0 | 0 |
 | 2024 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
 | 2025 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 7 | 0 | 6 | 0 | 0 | 0 | 0 |
+| 2026 | 13 | 0 | 8 | 0 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
-- ⏳ **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1)
-- ⏳ **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/)
-- ⏳ **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner)
-- ⏳ **2020** · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain)
+- ⏳ **2019** · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit)
 
 ## Fonti NON ottenute o incomplete
 
@@ -156,6 +153,10 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2018** · GlobaLeaks blog — [Nasce WhistleblowingPA](https://globaleaks.org/it/2018/10/01/nasce-whistleblowing-pa/) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2020** · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2020** · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2020** · Interoperable Europe Portal (European Co — [EUPL for Italian software](https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software) · licenza: terzi  
@@ -163,6 +164,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🟡 **2020** · Palgrave Macmillan (Springer Nature), Lo — [Digital Whistleblowing Platforms in Journalism: Encrypting Leaks](https://link.springer.com/book/10.1007/978-3-030-38505-7) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2020** · Palgrave Macmillan (Springer Nature) — [A Taxonomy of Whistleblowing Platforms (ch. 5 of Di Salvo, Digital Whistleblowing Platform](https://link.springer.com/chapter/10.1007/978-3-030-38505-7_5) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2021** · GitHub — lessgreen — [OpenPUDO — Open PUDO Software Platform](https://github.com/lessgreen/OpenPUDO) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2021** · Comune di Milano - Milano Partecipa / Mi — [Da Milano Partecipa alla comunità italiana per la e-democracy](https://www.partecipami.it/calendar/event/1/8691) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -181,6 +184,10 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🟡 **2026** · mxmap.it — [MxMap.it — Sovranità digitale della posta elettronica della PA italiana](https://mxmap.it/) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · Bilibili — 时光派官方 — [观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53")](https://www.bilibili.com/video/BV1M7YX67EsD/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · Bilibili — 时光派官方 — [满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)](https://www.bilibili.com/video/BV1u5YX6JECk/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2026** · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -216,6 +223,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 
 ## Fonti ottenute in locale
 
+- **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner) · copia: `undated/10581a59d966` (Web Archive 20211022) · licenza: terzi
+- **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1) · copia: `undated/2aa62add9a98` (Web Archive 20220712) · licenza: terzi
+- **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/) · copia: `undated/40c7d7ea93ef` (Web Archive 20210929) · licenza: terzi
 - **None** · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b) · copia: `undated/3bcce2091e75` (Web Archive 20201101) · licenza: terzi
 - **None** · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/) · copia: `undated/5ad9adf41ff0` (Web Archive 20150721) · licenza: terzi
 - **None** · zeusnews.it — [La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori](https://www.zeusnews.it/n.php?c=25616) · copia: `undated/56a81be55c4d` (Web Archive 20170726) · licenza: terzi
@@ -586,7 +596,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Palgrave Macmillan (Springer Nature) — [Digital Whistleblowing Platforms in Journalism: Encrypting Leaks](https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1) · copia: `2020/ab096a913dc4` (live) · licenza: terzi
 - **2020** · ParteciPa (Italian government consultati — [Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424) · copia: `2020/d5a756e462d6` (Web Archive 20240808) · licenza: propria
 - **2020** · Agenda Digitale — [Software libero "massacrato" da Trump: un passo verso la sorveglianza globale](https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/) · copia: `2020/d192de242c2d` (Web Archive 20200625) · licenza: terzi
+- **2020** · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain) · copia: `2020/28ff2469c850` (Web Archive 20200501) · licenza: terzi
 - **2020** · corriere.it — [M5S, ritardo nei pagamenti: Rousseau taglia i servizi. Evento del 4 ottobre rinviato](https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml) · copia: `2020/7fb9b3016804` (Web Archive 20201010) · licenza: terzi
+- **2020** · Il Riformista — [Cinquestellopoli, ecco cosa faceva Casaleggio con i soldi di Philip Morris](https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/) · copia: `2020/cea04efec86c` (Web Archive 20201205) · licenza: terzi
 - **2020** · Key4biz — [In Italia esiste davvero il comitato "quantistico" sul voto elettronico?](https://www.key4biz.it/in-italia-esiste-davvero-il-comitato-quantistico-sul-voto-elettronico/332220/) · copia: `2020/25d4680f2c02` (Web Archive 20201123) · licenza: terzi
 - **2020** · lastampa.it — [L’emergenza per Casaleggio può far “testare il voto online a marzo”, ecco come gli informa](https://www.lastampa.it/politica/2020/03/04/news/l-emergenza-per-casaleggio-puo-far-testare-il-voto-online-a-marzo-ecco-come-gli-informatici-lo-stroncano-1.38548899/) · copia: `2020/79c2958d757e` (Web Archive 20200305) · licenza: terzi
 - **2020** · Linkiesta (Nicola Biondo) — [Lo sconosciuto comitato governativo che sta pensando come farci votare con il voto elettro](https://www.linkiesta.it/2020/11/comitato-foia-voto-elettronico-italia-news/) · copia: `2020/37398b4034a9` (Web Archive 20201119) · licenza: terzi
@@ -624,6 +636,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Il Disinformatico (Paolo Attivissimo) — [Dopo l'invasione russa dell'Ucraina, che si fa con Kaspersky?](https://attivissimo.blogspot.com/2022/02/dopo-linvasione-russa-dellucraina-che.html) · copia: `2022/1a4808141196` (Web Archive 20220227) · licenza: terzi
 - **2022** · Il Disinformatico (Paolo Attivissimo) — [Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola?](https://attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html) · copia: `2022/8324ffd437c4` (Web Archive 20220627) · licenza: terzi
 - **2022** · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/) · copia: `2022/5203723a3089` (live) · licenza: terzi
+- **2022** · Google Slides — [Slides of Fabio's talk at the SOS LOGistica 2022 conference, LIUC](https://docs.google.com/presentation/d/1cFW2EiiS6RLMGVRvyLTLgiOfYzU58XoMJrq7BTd2BZ4/edit) · copia: `2022/29680abb1822` (Web Archive 20221202) · licenza: propria
 - **2022** · e-privacy XXX 2022 — [MonitoraPA: Attivismo digitale o attacco indiscriminato? (panel)](https://e-privacy.winstonsmith.org/e-privacy-XXX.html) · copia: `2022/63ff21a5c80a` (Web Archive 20220811) · licenza: terzi
 - **2022** · Europa Today — ["Sostituite l'antivirus Kaspersky, può essere usato per attacchi informatici dalla Russia"](https://europa.today.it/attualita/kaspersky-attacchi-informatici-russia.html) · copia: `2022/02c70fb7a12a` (Web Archive 20220315) · licenza: terzi
 - **2022** · Formiche.net — [Dalla Ferrari al Viminale. Se in Italia il software russa (con Kaspersky)](https://formiche.net/2022/03/ferrari-viminale-software-kaspersky/) · copia: `2022/86f3a232191b` (Web Archive 20220307) · licenza: terzi
@@ -649,6 +662,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Key4biz — [Google Analytics in PA. 3.400 siti l'hanno rimosso, grazie a MonitoraPa: "Ora esposto al G](https://www.key4biz.it/google-analytics-in-pa-3-400-siti-lhanno-rimosso-grazie-a-monitorapa-a-fine-mese-faremo-anche-esposto-al-garante-privacy/405043/) · copia: `2022/8486ab3178f2` (Web Archive 20220525) · licenza: terzi
 - **2022** · Key4biz — [PA, non basta l'addio a Google Analytics: "10mila siti violano privacy cittadini con Googl](https://www.key4biz.it/pa-non-basta-laddio-a-google-analytics-10mila-siti-violano-privacy-cittadini-con-google-fonts/413335/) · copia: `2022/b7f58f58b496` (Web Archive 20220809) · licenza: terzi
 - **2022** · LinkedIn — [Eliminare Kaspersky dalle infrastutture IT in Europa è una priorità](https://www.linkedin.com/posts/activity-6906253703863427072-Xirm) · copia: `2022/097ed5a7ec4a` (Web Archive 20220306) · licenza: propria
+- **2022** · Università LIUC (Castellanza/Varese) — S — [Costruire comunità sostenibili. Quale ruolo per la logistica? (Convegno SOS LOGistica 2022](https://www.liuc.it/eventi/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/) · copia: `2022/73819474bb0d` (Web Archive 20220814) · licenza: terzi
 - **2022** · Partito Pirata — [«Cara MonitoraPA, fammi causa! Saluti, Partito Pirata»](https://www.partito-pirata.it/2022/09/01/il-partito-pirata-risponde-alle-minacce-di-monitorapa-sbagliate-tecnicamente-e-politicamen/) · copia: `2022/80fbfaf1344d` (live) · licenza: terzi
 - **2022** · Privacy Italia — [Google Analytics rimosso da 3.400 siti della PA, grazie a MonitoraPa: "Ora un esposto al G](https://www.privacyitalia.eu/google-analytics-rimosso-da-3-400-siti-della-pa-grazie-a-monitorapa-ora-un-esposto-al-garante-privacy/16760/) · copia: `2022/e2a84062096e` (Web Archive 20220526) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora (Spreak — [1064. MonitoraPA ha mandato una PEC a 8254 scuole](https://www.spreaker.com/episode/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole-quali-le-domande-e-cosa-rispondere-con-42lf-it--51323447) · copia: `2022/4cdfae9d5870` (live · video locale `media.mp3` (53 MB, da caricare su Drive)) · licenza: terzi
@@ -656,6 +670,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Startmag — [Anonymous, c'è un caso Kaspersky in Italia?](https://www.startmag.it/innovazione/anonymous-ce-un-caso-kaspersky-in-italia/) · copia: `2022/74abfa235c09` (Web Archive 20220228) · licenza: terzi
 - **2022** · Wall Street Italia — [Kaspersky, in Italia si riapre il caso dell'antivirus russo amato da PA e aziende](https://www.wallstreetitalia.com/kaspersky-in-italia-si-riapre-il-caso-dellantivirus-russo-amato-da-pa-e-aziende/) · copia: `2022/dabf21495649` (Web Archive 20220312) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con ](https://www.youtube.com/watch?v=0ETCVcF-HIs) · copia: `2022/93d1596681f3` (Web Archive 20220920 · video locale `media.mp4` (114 MB, da caricare su Drive)) · licenza: terzi
+- **2022** · YouTube — SOS LOGistica - Associazione L — [Costruire COMUNITÀ SOSTENIBILI. Quale ruolo per la LOGISTICA: Convegno SOS LOGistica 2022 ](https://www.youtube.com/watch?v=bPXna2KujUE) · copia: `2022/0a221d505d08` (live · video locale `media.mp4` (286 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [1010. GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.youtube.com/watch?v=fkChBoDdJxw) · copia: `2022/f9712cf38150` (Web Archive 20220513 · video locale `media.mp4` (63 MB, da caricare su Drive)) · licenza: terzi
 - **2023** · Easyteam.org (published school reply) — [La risposta alla nuova richiesta di Monitora PA](https://easyteam.org/2023/03/17/la-risposta-alla-nuova-richiesta-di-monitora-pa) · copia: `2023/0bec90f52835` (Web Archive 20230321) · licenza: terzi
 - **2023** · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html) · copia: `2023/0010b8d42873` (Web Archive 20230117) · licenza: propria
@@ -670,4 +685,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · GitHub — [whistleblowing-monitor-italia: Monitor Whistleblowing Reporting Channel in Italy (PA & Sto](https://github.com/fpietrosanti/whistleblowing-monitor-italia) · copia: `2026/497cb665997c` (live) · licenza: propria
 - **2026** · GlobaLeaks — [People | GlobaLeaks](https://globaleaks.org/about/people/) · copia: `2026/a2dd5929df8c` (live) · licenza: propria
 - **2026** · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0) · copia: `2026/9a1df4eb5776` (live) · licenza: terzi
+- **2026** · WeChat — 时光派 (official) — [第七届国际长寿论坛明日启幕！顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-11) · copia: `2026/12e861b4f35c` (live) · licenza: terzi
+- **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-12-repost) · copia: `2026/ce56d3922fbf` (live) · licenza: terzi
+- **2026** · WeChat — 时光派 (official) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-12-timepie) · copia: `2026/523c49878113` (live) · licenza: terzi
+- **2026** · 刘清洋 (WeChat account) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio%20Pietrosanti) · copia: `2026/496f1789e41d` (live) · licenza: terzi
+- **2026** · WeChat — 蓝图臻清健康科技 (刘清洋) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio+Pietrosanti) · copia: `2026/96fd1f8ba081` (live) · licenza: terzi
+- **2026** · 长寿科技情报站 (WeChat account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Pietrosanti%20%E9%95%BF%E5%AF%BF) · copia: `2026/338792df961c` (live) · licenza: terzi
 - **2026** · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753) · copia: `2026/0ce8a2cc2c65` (browser) · licenza: terzi

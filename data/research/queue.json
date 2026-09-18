@@ -551,6 +551,11 @@
  ],
  "queries": [
   {
+   "query": "site:journalismfestival.com OR site:festivaldelgiornalismo.com \"Pietrosanti\"",
+   "status": "pending",
+   "pages": 3
+  },
+  {
    "query": "\"ifuriosi\" Casaleggio \"Philip Morris\" Pietrosanti",
    "status": "pending",
    "pages": 2

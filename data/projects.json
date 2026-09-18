@@ -364,10 +364,11 @@
    "linkedin_zh": false,
    "sources": [
     "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano",
+    "https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit",
     "https://forum.italia.it/t/osservatorio-nazionale-sicurezza-cibernetica-italiana/11966",
     "https://t.me/joinchat/DdiC3klD0NMItWpnMoIqfQ"
    ],
-   "notes": "Novembre 2019 (repo creato 2019-11-12, ultimo aggiornamento 2020-01-03), ben prima della costituzione dell'ACN (2021). Obiettivo: misurazione attiva e continuativa della sicurezza del perimetro internet nazionale con dataset pubblici e software riproducibile. Organizzazione su gruppo Telegram aperto e GitHub; oltre 250 persone coinvolte/menzionate, ma il progetto non è mai partito davvero: molti temevano ripercussioni legali (scansioni attive). Fonte: Fabio 2026-09-18."
+   "notes": "Novembre 2019 (repo creato 2019-11-12, ultimo aggiornamento 2020-01-03), ben prima della costituzione dell'ACN (2021). Obiettivo: misurazione attiva e continuativa della sicurezza del perimetro internet nazionale con dataset pubblici e software riproducibile. Organizzazione su gruppo Telegram aperto e GitHub; oltre 250 persone coinvolte/menzionate, ma il progetto non è mai partito davvero: molti temevano ripercussioni legali (scansioni attive). Fonte: Fabio 2026-09-18. Documento di progetto «Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI» (Google Docs) rivisto da decine di tecnici e avvocati: pipeline 0–3 (ambito, asset inventory nazionale, vulnerabilità, alerting), politica di pubblicazione, licenze, operatività legale, comunicazione preventiva a istituzioni e operatori. Da sottolineare: progetto molto early stage per i tempi (2019). Copia PDF/TXT/DOCX nell'archivio privato 2019/ossci-project-document."
   },
   {
    "name": "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)",
@@ -437,18 +438,23 @@
    "notes": "Repo creato 2020-12-03 dopo la cancellazione del sito ifuriosi.it: evidenze web, domini e indirizzi IP condivisi con Casaleggio Associati/Rousseau/M5S; sintesi pubblicata dal Riformista."
   },
   {
-   "name": "Docenza LIUC (Varese) sui punti di ritiro PUDO",
-   "start_year": "",
+   "name": "LIUC 2022 — intervento sui punti di ritiro PUDO al convegno SOS LOGistica «Costruire comunità sostenibili»",
+   "start_year": "2022",
    "area": "logistica / insegnamento",
-   "status": "da-documentare",
+   "status": "fonti-raccolte",
    "description_en": "",
    "description_zh": "",
-   "link": "",
+   "link": "https://www.liuc.it/eventi/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/",
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,
-   "sources": [],
-   "notes": "Insegnamento alla LIUC sui punti di ritiro (PUDO), segnalato da Fabio: trovare anno, corso, materiali."
+   "sources": [
+    "https://www.liuc.it/eventi/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/",
+    "https://docs.google.com/presentation/d/1cFW2EiiS6RLMGVRvyLTLgiOfYzU58XoMJrq7BTd2BZ4/edit",
+    "https://www.youtube.com/watch?v=bPXna2KujUE",
+    "https://youtu.be/bPXna2KujUE?t=6898"
+   ],
+   "notes": "29/09/2022, Università LIUC, in collaborazione con SOS LOGistica – Associazione Logistica Sostenibile; intervento di Fabio da 1:54:58 del video; legato a LESS/OpenPUDO."
   }
  ]
 }

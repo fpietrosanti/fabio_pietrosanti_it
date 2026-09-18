@@ -89,5 +89,18 @@
   "note": "Never-launched project promoted by Fabio (2019), 250+ people involved, before ACN; stopped over fear of legal repercussions of active scanning",
   "verified": true,
   "known": false
+ },
+ {
+  "date": "2019-11",
+  "year": 2019,
+  "type": "report",
+  "outlet": "Google Docs",
+  "title": "Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)",
+  "url": "https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit",
+  "language": "it",
+  "role": "author",
+  "note": "Project document reviewed by dozens of engineers and lawyers (Fabio); very early-stage for its time; archived as PDF/TXT/DOCX",
+  "verified": true,
+  "known": false
  }
 ]

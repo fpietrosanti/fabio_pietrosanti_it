@@ -1,0 +1,41 @@
+[
+ {
+  "date": "2022-09-29",
+  "year": 2022,
+  "type": "talk",
+  "outlet": "Università LIUC (Castellanza/Varese) — SOS LOGistica",
+  "title": "Costruire comunità sostenibili. Quale ruolo per la logistica? (Convegno SOS LOGistica 2022)",
+  "url": "https://www.liuc.it/eventi/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Event page names Fabio Pietrosanti; talk on PUDO / pick-up points (OpenPUDO, LESS); in collaboration with SOS LOGistica – Associazione Logistica Sostenibile",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2022-09-29",
+  "year": 2022,
+  "type": "slides",
+  "outlet": "Google Slides",
+  "title": "Slides of Fabio's talk at the SOS LOGistica 2022 conference, LIUC",
+  "url": "https://docs.google.com/presentation/d/1cFW2EiiS6RLMGVRvyLTLgiOfYzU58XoMJrq7BTd2BZ4/edit",
+  "language": "it",
+  "role": "author",
+  "note": "Provided by Fabio 2026-09-18",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2022-09-29",
+  "year": 2022,
+  "type": "video",
+  "outlet": "YouTube — SOS LOGistica - Associazione Logistica Sostenibile",
+  "title": "Costruire COMUNITÀ SOSTENIBILI. Quale ruolo per la LOGISTICA: Convegno SOS LOGistica 2022 (Fabio from 1:54:58)",
+  "url": "https://www.youtube.com/watch?v=bPXna2KujUE",
+  "language": "it",
+  "role": "speaker",
+  "note": "Full conference recording (2h10'); Fabio's talk starts at 6898 s (link provided by Fabio)",
+  "verified": true,
+  "known": false
+ }
+]

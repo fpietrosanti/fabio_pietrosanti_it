@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **645**; dopo deduplica: **515**
+- Risultati grezzi dalle ricerche: **655**; dopo deduplica: **529**
 - Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 483**
-- Verificati aprendo la pagina: **448**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 497**
+- Verificati aprendo la pagina: **458**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 87, Post sul blog infosecurity.ch 71, Talk 65, Video 49, Citato 38, Progetto 35, Altro 17, Articolo scritto 15, Ricerca 14, Comunicato 14, Report 13, Paper 11, Podcast 11, Libro 11, Radio 8, Intervista 6, Slide 4, Capitolo di libro 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 93, Post sul blog infosecurity.ch 71, Talk 66, Video 50, Citato 39, Progetto 36, Altro 17, Ricerca 16, Articolo scritto 15, Comunicato 14, Report 14, Paper 11, Podcast 11, Libro 11, Radio 8, Intervista 6, Slide 5, Capitolo di libro 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -37,29 +37,41 @@ Per tipo (nuovi): Menzionato 87, Post sul blog infosecurity.ch 71, Talk 65, Vide
 | 2016 | 0 | 17 | 17 |
 | 2017 | 0 | 48 | 48 |
 | 2018 | 0 | 36 | 36 |
-| 2019 | 0 | 11 | 11 |
-| 2020 | 0 | 28 | 28 |
-| 2021 | 0 | 22 | 22 |
-| 2022 | 0 | 38 | 38 |
+| 2019 | 0 | 13 | 13 |
+| 2020 | 0 | 30 | 30 |
+| 2021 | 0 | 23 | 23 |
+| 2022 | 0 | 41 | 41 |
 | 2023 | 0 | 7 | 7 |
 | 2024 | 0 | 2 | 2 |
 | 2025 | 0 | 1 | 1 |
-| 2026 | 0 | 15 | 15 |
+| 2026 | 0 | 21 | 21 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 15 voci, 15 nuove
+## 2026 — 21 voci, 21 nuove
 
 - 🆕 **2026-09-16** · Progetto · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)  
   Old blog of infosecurity.ch (restoration)
+- 🆕 **2026-09-13** · Menzionato · 刘清洋 (WeChat account) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio%20Pietrosanti)  
+  Chinese recap of 7th TimePie forum; lists 开源抗衰数据平台开发者Fabio Pietrosanti at the 生物极客闭门论坛 (article opened and verified)
+- 🆕 **2026-09-13** · Menzionato · WeChat — 蓝图臻清健康科技 (刘清洋) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio+Pietrosanti)  
+  WeChat article (temporary link via Sogou search, biz MzYzNzMyODg1MQ==): 'Fabio Pietrosanti, developer of an open-source anti-aging data platform' among the guests of the closed-door biohacker forum (生物极客闭门论坛), 12 Sept 2026 afternoon. Read in Fabio's Chrome 2026-09-18.
 - 🆕 **2026-09-12** · Menzionato · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0)  
   Forum day-1 recap: Biogeek closed-door sub-forum guests incl. 开源抗衰数据平台开发者Fabio Pietrosanti. WeChat article; only temporary signed links exist, URL is the Sogou WeChat search that surfaces it
+- 🆕 **2026-09-12** · Menzionato · 长寿科技情报站 (WeChat account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Pietrosanti%20%E9%95%BF%E5%AF%BF)  
+  Repost of the TimePie recap naming Fabio Pietrosanti among Biogeek sub-forum guests (article opened and verified; permanent WeChat URL not obtainable)
 - 🆕 **2026-09-12** · Video · Bilibili — 时光派官方 — [满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)](https://www.bilibili.com/video/BV1u5YX6JECk/) _(non verificato)_  
   Official recap video of the closed-door biohacker forum where Fabio spoke (15:50-16:15); his name is not in title/description; downloaded, frames extracted for Fabio to check
 - 🆕 **2026-09-12** · Video · Bilibili — 时光派官方 — [观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53")](https://www.bilibili.com/video/BV1M7YX67EsD/) _(non verificato)_  
   Official afternoon recap of 12 Sept; may include the biohacker forum; his name not in metadata
+- 🆕 **2026-09-12** · Menzionato · WeChat — 时光派 (official) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-12-timepie)  
+  Day-1 report: closed-door biohacker forum guests incl. 'open-source anti-aging data platform developer Fabio Pietrosanti'; includes a photo gallery of the closed forum (images not yet saved). Temporary WeChat link, found via Sogou.
+- 🆕 **2026-09-12** · Menzionato · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-12-repost) _(non verificato)_  
+  Repost of the TimePie day-1 report by 长寿科技情报站; same mention. Found via Sogou.
 - 🆕 **2026-09-12** · Talk · 7th TimePie Longevity Forum, Shanghai (Biohacker Sub-forum) — [Biohack.It - Open Software for Structured Human Self-Experimentation](https://www.timepielongevityforum.com/2026agenda)  
   15:40-16:05 slot, listed as Biohacker / Tech Entrepreneur
+- 🆕 **2026-09-11** · Menzionato · WeChat — 时光派 (official) — [第七届国际长寿论坛明日启幕！顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-11)  
+  Official programme (final): 'Fabio Pietrosanti 生物极客、科技创新者 15:40-16:05 开源数据与结构化人体自我实验' (open data and structured human self-experimentation), closed-door biohacker forum 12 Sept. WeChat gives only temporary links: found via this Sogou query. Read in Fabio's Chrome 2026-09-18.
 - 🆕 **2026-09** · Menzionato · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753) _(non verificato)_  
   Chinese forum preview; search snippet lists him as 生物极客、科技创新者 with talk 从自我实验走向科学证据. Page 403 to fetch, not opened
 - 🆕 **2026-08-20** · Paper · biohack.it — [BIOHACK.IT — White paper & Specification v0.1](https://biohack.it/)  
@@ -110,7 +122,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 
-## 2022 — 38 voci, 38 nuove
+## 2022 — 41 voci, 41 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -118,6 +130,12 @@ Anni senza nessun risultato: nessuno
   Francesco Macchia on the Avvocatura opinion on his FOIA to 8,254 schools
 - 🆕 **2022-10-26** · Menzionato · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di FOIA](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/)  
   School heads asked the Garante to act against MonitoraPA and Fabio Pietrosanti
+- 🆕 **2022-09-29** · Talk · Università LIUC (Castellanza/Varese) — SOS LOGistica — [Costruire comunità sostenibili. Quale ruolo per la logistica? (Convegno SOS LOGistica 2022)](https://www.liuc.it/eventi/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/)  
+  Event page names Fabio Pietrosanti; talk on PUDO / pick-up points (OpenPUDO, LESS); in collaboration with SOS LOGistica – Associazione Logistica Sostenibile
+- 🆕 **2022-09-29** · Slide · Google Slides — [Slides of Fabio's talk at the SOS LOGistica 2022 conference, LIUC](https://docs.google.com/presentation/d/1cFW2EiiS6RLMGVRvyLTLgiOfYzU58XoMJrq7BTd2BZ4/edit)  
+  Provided by Fabio 2026-09-18
+- 🆕 **2022-09-29** · Video · YouTube — SOS LOGistica - Associazione Logistica Sostenibile — [Costruire COMUNITÀ SOSTENIBILI. Quale ruolo per la LOGISTICA: Convegno SOS LOGistica 2022 (Fabio from 1:54:58)](https://www.youtube.com/watch?v=bPXna2KujUE)  
+  Full conference recording (2h10'); Fabio's talk starts at 6898 s (link provided by Fabio)
 - 🆕 **2022-09-20** · Podcast · Ciao, Internet! con Matteo Flora — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con 42LF.it](https://podcasts.apple.com/it/podcast/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole/id1046298895?i=1000580095811)  
   Episode on the FOIA sent to schools on his behalf
 - 🆕 **2022-09-20** · Video · Ciao Internet - Matteo Flora (YouTube) — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con 42LF.it](https://www.youtube.com/watch?v=0ETCVcF-HIs)  
@@ -160,8 +178,8 @@ Anni senza nessun risultato: nessuno
   Audio version; MonitoraPA
 - 🆕 **2022-03-24** · Citato · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://livornopress.it/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack)  
   Syndicated piece quoting Pietrosanti (co-founder Hermes) on Kaspersky risk scenario
-- 🆕 **2022-03-20** · Ricerca · GitHub — [kaspersky-risks: Risk Evaluation of Kaspersky related Risk, if subject to Coercion by Russian Government for Intelligence and Military Purposes](https://github.com/fpietrosanti/kaspersky-risks)  
-  Risk analysis repository published during the Ukraine invasion debate
+- 🆕 **2022-03-20** · Ricerca · GitHub — [kaspersky-risks — Risk evaluation of Kaspersky if subject to coercion by the Russian government](https://github.com/fpietrosanti/kaspersky-risks)  
+  Repository by fpietrosanti; basis for press coverage that contributed to the Italian government ban (Fabio)
 - 🆕 **2022-03-18** · Menzionato · Cyber Security 360 — [Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi](https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/)  
   Credits him with raising the Kaspersky issue in 2018 (Euronews investigation)
 - 🆕 **2022-03-15** · Citato · Europa Today — ["Sostituite l'antivirus Kaspersky, può essere usato per attacchi informatici dalla Russia"](https://europa.today.it/attualita/kaspersky-attacchi-informatici-russia.html)  
@@ -189,7 +207,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Talk · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)  
   Investigative journalism festival speaker page
 
-## 2021 — 22 voci, 22 nuove
+## 2021 — 23 voci, 23 nuove
 
 - 🆕 **2021-06-08** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [Voto Elettronico: perché è (ancora) una pessima idea](https://www.spreaker.com/episode/voto-elettronico-perche-e-ancora-una-pessima-idea--45210765)  
   Credited among experts who reviewed the script
@@ -219,6 +237,8 @@ Anni senza nessun risultato: nessuno
   FSFE report mentions his panel on the GlobaLeaks AGPL compliance case
 - 🆕 **2021-03** · Menzionato · Italia Open Gov (Dipartimento della Funzione Pubblica) — [Il Dipartimento alla Milano Digital week](https://open.gov.it/notizie/dipartimento-milano-digital-week)  
   Government open-gov news lists Fabio Pietrosanti (OpenRousseau) among e-democracy panel speakers
+- 🆕 **2021-02-25** · Progetto · GitHub — lessgreen — [OpenPUDO — Open PUDO Software Platform](https://github.com/lessgreen/OpenPUDO) _(non verificato)_  
+  LESS.green project; first open-source PUDO software (Fabio)
 - 🆕 **2021-02-17** · Video · YouTube - Free Software Foundation Europe — [The first AGPL compliance case settled in an Italian Court - FOSDEM 2021](https://www.youtube.com/watch?v=gm0NKwL5QZw)  
   Recording of the FOSDEM 2021 GlobaLeaks/ANAC AGPL case session
 - 🆕 **2021-02-07** · Talk · FOSDEM 2021 (Legal and Policy Issues devroom) — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://archive.fosdem.org/2021/schedule/event/agplcompliance/)  
@@ -236,10 +256,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 28 voci, 28 nuove
+## 2020 — 30 voci, 30 nuove
 
-- 🆕 **2020-12-03** · Progetto · GitHub fpietrosanti — [ifuriosi](https://github.com/fpietrosanti/ifuriosi)  
-  Document archive of the ifuriosi platform
+- 🆕 **2020-12-03** · Ricerca · GitHub — [ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)](https://github.com/fpietrosanti/ifuriosi)  
+  Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista
+- 🆕 **2020-12** · Citato · Il Riformista — [Cinquestellopoli, ecco cosa faceva Casaleggio con i soldi di Philip Morris](https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/) _(non verificato)_  
+  Article summarising Fabio's ifuriosi evidence (linked from his repo); to verify his name in text
 - 🆕 **2020-11-23** · Menzionato · Key4biz — [In Italia esiste davvero il comitato "quantistico" sul voto elettronico?](https://www.key4biz.it/in-italia-esiste-davvero-il-comitato-quantistico-sul-voto-elettronico/332220/)  
   Commentary on the Linkiesta inquiry; cites FOIA by Fabio Pietrosanti, president of Hermes
 - 🆕 **2020-11-19** · Menzionato · Linkiesta (Nicola Biondo) — [Lo sconosciuto comitato governativo che sta pensando come farci votare con il voto elettronico](https://www.linkiesta.it/2020/11/comitato-foia-voto-elettronico-italia-news/)  
@@ -280,6 +302,8 @@ Anni senza nessun risultato: nessuno
   Crypto AG affair; Pietrosanti (co-founder Khamsa/PrivateWave) tells Valigia Blu about Italian/German crypto-phone vendors replacing the Swiss
 - 🆕 **2020-01-16** · Articolo scritto · ParteciPa (Italian government consultation platform) - 'Italia 2025' Strategia per l'innovazione tecnologica e la digitalizzazione del Paese — [Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424)  
   Proposal page shows author 'Fabio Pietrosanti'; date 16/01/2020 found in page markup. Grey literature (public consultation submission).
+- 🆕 **2020** · Ricerca · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/) _(non verificato)_  
+  Audit of the Lazio COVID app with Giovanni Rocca (Fabio); check whether Fabio is named
 - 🆕 **2020** · Libro · Maureen Webb, Coding Democracy: How Hackers Are Disrupting Power, Surveillance, and Authoritarianism (MIT Press, 2020), IA copy — [Coding Democracy](https://archive.org/details/codingdemocracyh0000webb)  
   IA FTS snippets: 'Fabio Pietrosanti and Matteo Flora are two of the founders of Hermes'; 'Flora, one of Hermes's founders, along with Fabio Pietrosanti and others'; 'GlobaLeaks was the easiest to use. She worked closely with Fabio Pietrosanti and his colleague Giovanni'. Lending-restricted.
 - 🆕 **2020** · Libro · Andrew Fowler, Shooting the Messenger: Criminalising Journalism (Routledge, 2020), IA copy — [Shooting the Messenger](https://archive.org/details/shootingmessenge0000fowl)  
@@ -295,12 +319,16 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 11 voci, 11 nuove
+## 2019 — 13 voci, 13 nuove
 
 - 🆕 **2019-12-11** · Podcast · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397)  
   S1E117 with Peter Fleming (UTS) on digital whistleblowing infrastructure
 - 🆕 **2019-11-21** · Menzionato · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/)  
   verified via wayback; context: …o: il voto elettronico non è una “sfida” e non è “il futuro”. Il voto elettronico è una sciocchezza, e chi la propone evidentemente non ne capisce i problemi». Fabio Pietrosanti, consulente per la sicurezza informatica, …
+- 🆕 **2019-11-12** · Progetto · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (pipeline 0, definizione tecnica)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano)  
+  Never-launched project promoted by Fabio (2019), 250+ people involved, before ACN; stopped over fear of legal repercussions of active scanning
+- 🆕 **2019-11** · Report · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit)  
+  Project document reviewed by dozens of engineers and lawyers (Fabio); very early-stage for its time; archived as PDF/TXT/DOCX
 - 🆕 **2019-10-03** · Menzionato · repubblica.it — [Quando lo smartphone diventa una spia. "In Italia oltre mille vittime di stalkerware"](https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/)  
   verified via wayback; context: …a e al microfono, quindi scattare foto e ascoltare conversazioni. Come proteggersi Difficile che la vittima si accorga di essere digitalmente pedinata, avverte Fabio Pietrosanti , co-fondatore del Centro Hermes per la tr…
 - 🆕 **2019-04-09** · Articolo scritto · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/)  
