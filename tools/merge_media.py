@@ -43,6 +43,8 @@ def norm_url(u):
         if m:
             return norm_url(m.group(1) if "://" in m.group(1) else "http://" + m.group(1))
     path = s.path.rstrip("/")
+    if host == "weixin.sogou.com":  # WeChat articles only have temporary links: keep the query to tell them apart
+        return host + path + "?" + s.query
     if host.endswith("youtube.com") and "v=" in s.query:
         return "youtube/" + re.search(r"v=([\w-]+)", s.query).group(1)
     if host == "youtu.be":

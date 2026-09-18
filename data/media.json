@@ -8793,6 +8793,23 @@
   "on_old_site": false
  },
  {
+  "date": "2026-09-11",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "WeChat — 时光派 (official)",
+  "title": "第七届国际长寿论坛明日启幕！顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态",
+  "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-11",
+  "language": "zh",
+  "role": "speaker",
+  "note": "Official programme (final): 'Fabio Pietrosanti 生物极客、科技创新者 15:40-16:05 开源数据与结构化人体自我实验' (open data and structured human self-experimentation), closed-door biohacker forum 12 Sept. WeChat gives only temporary links: found via this Sogou query. Read in Fabio's Chrome 2026-09-18.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_timepie_china_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2026-09-12",
   "year": 2026,
   "type": "mentioned",
@@ -8805,8 +8822,24 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass2_c_2016_2026",
-   "pass3_timepie_china_2026-09-18"
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-09-12",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "长寿科技情报站 (WeChat account)",
+  "title": "高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕",
+  "url": "https://weixin.sogou.com/weixin?type=2&query=Pietrosanti%20%E9%95%BF%E5%AF%BF",
+  "language": "zh",
+  "role": "speaker",
+  "note": "Repost of the TimePie recap naming Fabio Pietrosanti among Biogeek sub-forum guests (article opened and verified; permanent WeChat URL not obtainable)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
   ],
   "on_old_site": false
  },
@@ -8847,6 +8880,40 @@
  {
   "date": "2026-09-12",
   "year": 2026,
+  "type": "mentioned",
+  "outlet": "WeChat — 时光派 (official)",
+  "title": "高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕",
+  "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-12-timepie",
+  "language": "zh",
+  "role": "speaker",
+  "note": "Day-1 report: closed-door biohacker forum guests incl. 'open-source anti-aging data platform developer Fabio Pietrosanti'; includes a photo gallery of the closed forum (images not yet saved). Temporary WeChat link, found via Sogou.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_timepie_china_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-09-12",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "WeChat — 长寿科技情报站",
+  "title": "高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)",
+  "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-12-repost",
+  "language": "zh",
+  "role": "speaker",
+  "note": "Repost of the TimePie day-1 report by 长寿科技情报站; same mention. Found via Sogou.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass3_timepie_china_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-09-12",
+  "year": 2026,
   "type": "talk",
   "outlet": "7th TimePie Longevity Forum, Shanghai (Biohacker Sub-forum)",
   "title": "Biohack.It - Open Software for Structured Human Self-Experimentation",
@@ -8858,6 +8925,40 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-09-13",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "刘清洋 (WeChat account)",
+  "title": "顶尖学者齐聚！第七届国际长寿论坛盛大开幕",
+  "url": "https://weixin.sogou.com/weixin?type=2&query=Fabio%20Pietrosanti",
+  "language": "zh",
+  "role": "speaker",
+  "note": "Chinese recap of 7th TimePie forum; lists 开源抗衰数据平台开发者Fabio Pietrosanti at the 生物极客闭门论坛 (article opened and verified)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-09-13",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "WeChat — 蓝图臻清健康科技 (刘清洋)",
+  "title": "顶尖学者齐聚！第七届国际长寿论坛盛大开幕",
+  "url": "https://weixin.sogou.com/weixin?type=2&query=Fabio+Pietrosanti",
+  "language": "zh",
+  "role": "subject",
+  "note": "WeChat article (temporary link via Sogou search, biz MzYzNzMyODg1MQ==): 'Fabio Pietrosanti, developer of an open-source anti-aging data platform' among the guests of the closed-door biohacker forum (生物极客闭门论坛), 12 Sept 2026 afternoon. Read in Fabio's Chrome 2026-09-18.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_timepie_china_2026-09-18"
   ],
   "on_old_site": false
  },
