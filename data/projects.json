@@ -352,21 +352,22 @@
    "sources": []
   },
   {
-   "name": "OSSCI — Osservatorio sicurezza dello spazio cibernetico italiano (progetto mai partito)",
-   "start_year": "",
+   "name": "OSSCI / OSPCI — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (progetto mai partito)",
+   "start_year": "2019",
    "area": "sicurezza nazionale",
-   "status": "da-documentare",
+   "status": "fonti-raccolte",
    "description_en": "",
    "description_zh": "",
-   "link": "",
+   "link": "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano",
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,
    "sources": [
+    "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano",
     "https://forum.italia.it/t/osservatorio-nazionale-sicurezza-cibernetica-italiana/11966",
     "https://t.me/joinchat/DdiC3klD0NMItWpnMoIqfQ"
    ],
-   "notes": "Canale Telegram e documento di specifica: ritrovare link e anno di pubblicazione. Trovati 18/09: thread Forum Italia «Osservatorio Nazionale Sicurezza Cibernetica Italiana» e link al gruppo Telegram; il documento di specifica è da ritrovare (probabilmente linkato dal thread)."
+   "notes": "Novembre 2019 (repo creato 2019-11-12, ultimo aggiornamento 2020-01-03), ben prima della costituzione dell'ACN (2021). Obiettivo: misurazione attiva e continuativa della sicurezza del perimetro internet nazionale con dataset pubblici e software riproducibile. Organizzazione su gruppo Telegram aperto e GitHub; oltre 250 persone coinvolte/menzionate, ma il progetto non è mai partito davvero: molti temevano ripercussioni legali (scansioni attive). Fonte: Fabio 2026-09-18."
   },
   {
    "name": "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)",

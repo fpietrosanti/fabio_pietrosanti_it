@@ -6899,6 +6899,23 @@
   "on_old_site": false
  },
  {
+  "date": "2019-11-12",
+  "year": 2019,
+  "type": "project",
+  "outlet": "GitHub — osservatoriosicurezza",
+  "title": "Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (pipeline 0, definizione tecnica)",
+  "url": "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano",
+  "language": "it",
+  "role": "author",
+  "note": "Never-launched project promoted by Fabio (2019), 250+ people involved, before ACN; stopped over fear of legal repercussions of active scanning",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_projects_fabio_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019-11-21",
   "year": 2019,
   "type": "mentioned",

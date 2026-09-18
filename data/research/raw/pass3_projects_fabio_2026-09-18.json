@@ -65,16 +65,29 @@
   "known": false
  },
  {
-  "date": "",
-  "year": null,
+  "date": "2019-11",
+  "year": 2019,
   "type": "project",
   "outlet": "Forum Italia",
   "title": "Osservatorio Nazionale Sicurezza Cibernetica Italiana (OSSCI)",
   "url": "https://forum.italia.it/t/osservatorio-nazionale-sicurezza-cibernetica-italiana/11966",
   "language": "it",
   "role": "author",
-  "note": "Never-launched project; thread with Telegram group; date to determine (forum thread, not a mailing-list post: project announcement)",
+  "note": "Project announcement thread of OSSCI/OSPCI (Nov 2019), with Telegram group; never-launched project",
   "verified": false,
+  "known": false
+ },
+ {
+  "date": "2019-11-12",
+  "year": 2019,
+  "type": "project",
+  "outlet": "GitHub — osservatoriosicurezza",
+  "title": "Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (pipeline 0, definizione tecnica)",
+  "url": "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano",
+  "language": "it",
+  "role": "author",
+  "note": "Never-launched project promoted by Fabio (2019), 250+ people involved, before ACN; stopped over fear of legal repercussions of active scanning",
+  "verified": true,
   "known": false
  }
 ]
