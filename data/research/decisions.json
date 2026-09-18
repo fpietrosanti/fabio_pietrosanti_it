@@ -27,6 +27,10 @@
   {
    "url": "https://www.cybersecurity360.it/cultura-cyber/ciao-carola/",
    "reason": "Fabio 2026-09-18: not to be listed"
+  },
+  {
+   "url": "https://freedomnotfear.org/2020/our-schedule-for-saturday-7-november",
+   "reason": "Fabio 2026-09-18: he did not run the FNF 2020 Hermes workshop"
   }
  ],
  "override": [
@@ -71,6 +75,13 @@
    "set": {
     "live_url": "https://copernicani.it/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/",
     "note_search": "Found by copernicani.it/?s=pietrosanti (2026-09-18)"
+   }
+  },
+  {
+   "url": "https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule",
+   "set": {
+    "verified": true,
+    "note": "Official FNF 2017 timetable (AK Vorrat wiki, linked from freedomnotfear.org 'Wiki / Archive'): Saturday 7 Oct 2017, 15:45–17:00 'late afternoon session', conference room (35+ people): 'Government hacking and trojan • Fabio'. Parallel sessions: Aral Balkan (tracker blocking, Kamilou café), Rejo Zenger/Bits of Freedom (bodycams). Session added on the day by user Padeluun (rev 130127, 2017-10-07T12:36Z, i.e. during the kick-off plenary); permalink https://wiki.vorratsdatenspeicherung.de/index.php?oldid=130129. Only the first name 'Fabio' is given (no surname/org); attribution to Pietrosanti is a strong inference (topic matches his/Hermes' 2017 Italian trojan-law advocacy and his CPDP 2018 Brussels 'Government hacking' roundtable 3 months later), not stated on the page. No other 'Fabio' appears in any FNF 2011–2019 wiki page. — confirmed by Fabio 2026-09-18"
    }
   }
  ],

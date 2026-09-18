@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **755**; dopo deduplica: **610**
-- Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 578**
-- Verificati aprendo la pagina: **523**; solo da risultato di ricerca: **87**
+- Risultati grezzi dalle ricerche: **770**; dopo deduplica: **617**
+- Già presenti sul vecchio sito: **33** (su 35 voci elencate lì)
+- **Nuovi rispetto al vecchio sito: 584**
+- Verificati aprendo la pagina: **530**; solo da risultato di ricerca: **87**
 
-Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Video 51, Citato 47, Ricerca 43, Progetto 36, Altro 22, Articolo scritto 18, Comunicato 17, Report 16, Podcast 11, Libro 11, Paper 10, Radio 9, Intervista 6, Capitolo di libro 5, Slide 5, village 5, workshop 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Video 51, Citato 47, Ricerca 43, Progetto 36, Altro 22, Articolo scritto 18, Comunicato 17, Report 16, Podcast 11, Libro 11, Radio 11, Paper 10, TV 8, Intervista 6, Capitolo di libro 5, Slide 5, village 5, workshop 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -20,7 +20,7 @@ Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 1999 | 0 | 1 | 1 |
 | 2000 | 2 | 15 | 12 |
 | 2001 | 8 | 14 | 9 |
-| 2002 | 2 | 13 | 6 |
+| 2002 | 2 | 14 | 6 |
 | 2003 | 5 | 6 | 5 |
 | 2004 | 1 | 3 | 3 |
 | 2005 | 1 | 5 | 3 |
@@ -36,14 +36,14 @@ Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 2015 | 0 | 30 | 30 |
 | 2016 | 0 | 20 | 20 |
 | 2017 | 0 | 68 | 68 |
-| 2018 | 0 | 51 | 51 |
+| 2018 | 0 | 52 | 52 |
 | 2019 | 0 | 21 | 21 |
-| 2020 | 0 | 38 | 38 |
+| 2020 | 0 | 37 | 37 |
 | 2021 | 0 | 24 | 24 |
-| 2022 | 0 | 45 | 45 |
+| 2022 | 0 | 46 | 46 |
 | 2023 | 0 | 8 | 8 |
 | 2024 | 0 | 2 | 2 |
-| 2025 | 0 | 1 | 1 |
+| 2025 | 0 | 6 | 6 |
 | 2026 | 0 | 21 | 21 |
 
 Anni senza nessun risultato: nessuno
@@ -93,10 +93,20 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2026** · Progetto · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit)  
   AGPL-3.0 platform for structured biohacking protocols and biomarkers, founded by Fabio
 
-## 2025 — 1 voci, 1 nuove
+## 2025 — 6 voci, 6 nuove
 
-- 🆕 **2025-06-27** · TV · Rai - Codice, la vita è digitale (Rai 1) — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.youtube.com/watch?v=Amy7OyM7exo)  
-  RAI TV segment on brain-machine interaction (biohacking/neurotech)
+- 🆕 **2025-06-27** · TV · Rai 1 - Codice, la vita è digitale — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.raiplay.it/video/2025/06/Fabio-Pietrosanti-e-Don-Alberto-Carrara---Codice-27062025-42ad6af2-1f36-4f24-b8fe-58e999a9e0cd.html)  
+  Official RaiPlay page of the already-known clip (YouTube Amy7OyM7exo). RaiPlay metadata: channel Rai 1, date 27-06-2025, form 'clip', description 'Fabio Pietrosanti e Don Alberto Carrara sulle interazioni macchina-cervello.' (Stagione 2025, Servizi e interviste).
+- 🆕 **2025-06-27** · TV · Rai 1 - Codice, la vita è digitale — [Codice, la Vita è digitale - Puntata del 27/06/2025 Biohacking](https://www.raiplay.it/video/2025/06/Codice-la-Vita-e-digitale---Puntata-del-27062025-50a78412-6520-4ded-939d-c1b549204976.html)  
+  Full episode (integrale, 01:14:49) containing the known clip. RaiPlay description names him: 'il noto hacker Fabio Naif che applica le conoscenze informatiche al #biohacking suo corpo, ci mette in guardia: se non innalziamo le difese saremo tutti connessi a morte'. Same episode has clips 'Hackerare il corpo', 'Giovanni Brandi', 'Social freezing' (these do not name him).
+- 🆕 **2025-01-31** · TV · Rai 1 - Tv7 (settimanale del Tg1) — [La guerra delle app - Tv7 31/01/2025](https://www.raiplay.it/video/2025/02/La-guerra-delle-app---Tv7-31012025-2de12a1e-489c-49bb-8b4d-77929aec7ba0.html)  
+  Reportage by Barbara Carfagna (clip 00:08:46) on DeepSeek and Chinese AI apps. Description: 'Tv7 ne ha parlato con l'esponente di punta dell'AI italiana, Marco Trombetti e, dalla Cina, con l'hacker Fabio Pietrasanti, esperto di cybersecurity.' Surname misspelled 'Pietrasanti' by Rai; identified as him (hacker/cybersecurity, interviewed from China, same Carfagna team as Codice Beta 01/2025). Audio version on RaiPlay Sound: https://www.raiplaysound.it/audio/2025/02/La-guerra-delle-app---Tv7-31012025-644856e0-7f75-45af-aff0-9db3e4c843ea.html
+- 🆕 **2025-01-17** · Radio · Rai Radio 1 / RaiPlay Sound - Codice Beta, ogni cosa è digitale (podcast) — [Codice Beta S04EP08 - Io, biohacker, che testo sul mio corpo i segreti della longevità](https://www.raiplaysound.it/audio/2025/01/Codice-Beta-S04EP08-Io-biohacker-che-testo-sul-mio-corpo-i-segreti-della-longevita-42dd7997-10f4-4587-8767-e51e5fec0fbb.html)  
+  Radio 1 Rai podcast by Massimo Cerofolini and Barbara Carfagna (00:41:25). Description: 'Ospite: Fabio Pietrosanti, detto Naif, biohacker, che sperimenta su se stesso le tecniche più innovative per il ringiovanimento...'. Also features Aubrey de Grey, Teemu Arina, Linnea Passaler.
+- 🆕 **2025-01-05** · TV · Rai 1 - Speciale Tg1 — [Pionieri di longevità - Biohacker - Speciale Tg1, puntata del 05/01/2025](https://www.raiplay.it/video/2025/01/Speciale-Tg1---Pionieri-di-longevita-Biohacker---Puntata-del-05012025-296d47d6-0a82-4988-8734-aaf1b31b0f6e.html) _(non verificato)_  
+  INFERRED, NOT VERIFIED. Rai 1 special (integrale 01:06:21) on biohackers; same Carfagna production period and same cast (Aubrey de Grey, Teemu Arina) as Codice Beta 17/01/2025 where he is the named guest. The RaiPlay description does not name him; video content not checked.
+- 🆕 **2025-01-05** · TV · Rai 1 - Tg1 (servizio di Barbara Carfagna) — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html) _(non verificato)_  
+  INFERRED, NOT VERIFIED. Tg1 news piece (05/01/2025) on biohackers/XPrize. Text quotes an unnamed biohacker ('spiega uno di loro') on bringing biomarkers to a biological age below chronological age, alongside named Teemu Arina and Aubrey de Grey (same cast as Codice Beta 17/01/2025). His name does not appear on the page.
 
 ## 2024 — 2 voci, 2 nuove
 
@@ -124,7 +134,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 
-## 2022 — 45 voci, 45 nuove
+## 2022 — 46 voci, 46 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -200,6 +210,8 @@ Anni senza nessun risultato: nessuno
   Cites 'l'analista Fabio Pietrosanti' and his Il Riformista interview on 2,700 Kaspersky-PA contracts
 - 🆕 **2022-03-06** · Articolo scritto · LinkedIn — [Eliminare Kaspersky dalle infrastutture IT in Europa è una priorità](https://www.linkedin.com/posts/activity-6906253703863427072-Xirm)  
   Post urging ACN to mandate Kaspersky replacement; date derived from post ID
+- 🆕 **2022-03-05** · Radio · Rai Radio 1 - Eta Beta — [Eta Beta del 05/03/2022 - Guerre di rete, ecco chi sono i soldati del cyberspazio](https://www.raiplaysound.it/audio/2022/03/Eta-Beta-del-05032022-bfe193b3-3441-4fe7-875e-6d26d85e70f0.html)  
+  Radio 1 Rai, conducted by Massimo Cerofolini (00:27:22), on cyberwar in the Ukraine war (Anonymous, GRU, Conti). Description: 'Ospiti: Arturo Di Corinto ...; Fabio Pietrosanti, presidente Centro Hermes per i diritti umani digitali; Stefano Mele ...'.
 - 🆕 **2022-03-02** · Menzionato · Il Riformista — [La sicurezza italiana in mano a Kaspersky, l'azienda: "Nessun legame con Putin". Ma i conti non tornano…](https://www.ilriformista.it/la-sicurezza-italiana-in-mano-a-kaspersky-lazienda-nessun-legame-con-putin-ma-i-conti-non-tornano-283463/)  
   Follow-up referencing his interview and the parliamentary inquiry it prompted
 - 🆕 **2022-02-28** · Citato · Startmag — [Anonymous, c'è un caso Kaspersky in Italia?](https://www.startmag.it/innovazione/anonymous-ce-un-caso-kaspersky-in-italia/)  
@@ -268,7 +280,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 38 voci, 38 nuove
+## 2020 — 37 voci, 37 nuove
 
 - 🆕 **2020-12-03** · Ricerca · GitHub — [ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)](https://github.com/fpietrosanti/ifuriosi)  
   Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista
@@ -282,8 +294,6 @@ Anni senza nessun risultato: nessuno
   Credits him (Hermes president) with uncovering via FOIA the government e-voting commission for the overseas constituency
 - 🆕 **2020-11-08** · Paper · Pandora Rivista (online review of politics and culture, not peer-reviewed) — [I trojan di Stato: la nuova legge sulle intercettazioni](https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/)  
   Silvia Cegalin. On the Italian interception law and state trojans; mentions 'Fabio Pietrosanti, membro del Centro Hermes per la Trasparenza e i Diritti Umani Digitali' urging the government to revise the law on entrusting citizens' data to unregulated private trojan vendors. Page text read. Borderline: magazine rather than academic journal.
-- 🆕 **2020-11-07** · workshop · Freedom Not Fear 2020 (online edition) — [EU Actions on Biometric Mass Surveillance (WS 3)](https://freedomnotfear.org/2020/our-schedule-for-saturday-7-november) _(non verificato)_  
-  FNF 2020 schedule, Saturday 7 Nov 2020, 18:00 CET workshops: 'WS 3: EU Actions on Biometric Mass Surveillance by EDRi, Homo Digitalis (GR), SHARE (SR) and Hermes Center (IT)' – intro to the Reclaim Your Face campaign with success stories from Greece, Italy and Serbia. Names Hermes Center only, not Pietrosanti; the Hermes contribution was probably by its Reclaim Your Face/facial-recognition team, so it may not be his.
 - 🆕 **2020-10-26** · Menzionato · Interoperable Europe Portal (European Commission) — [EUPL for Italian software](https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software) _(non verificato)_  
   EC news (P-E Schmitz) updated on ANAC-Hermes AGPL settlement over GlobaLeaks-based OpenWhistleblowing; org-level
 - 🆕 **2020-10-23** · Menzionato · wired.it — [Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/10/23/rousseau-espulsione-iscritto-doppio-voto-casaleggio/)  
@@ -392,7 +402,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Video · YouTube (unverified channel) — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) _(non verificato)_  
   Seen in search results only; page not retrievable (year approximate)
 
-## 2018 — 51 voci, 51 nuove
+## 2018 — 52 voci, 52 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -418,8 +428,8 @@ Anni senza nessun risultato: nessuno
   Hermes Center report on BBA Italia 2018 which he co-presented; no name mention
 - 🆕 **2018-08-24** · Video · Italian Hacker Camp IHC (YouTube) — [Del Monte, Pietrosanti - La collaborazione tra hackers e attivisti](https://www.youtube.com/watch?v=QZ_jlM4s8eM)  
   Italian Hacker Camp 2018 talk with Davide Del Monte
-- 🆕 **2018-08-04** · Radio · Radio1 Rai (via LinkedIn Pulse, Paola Guarnieri) — [A Padova il raduno degli hacker: Pietrosanti: "Non chiamateci pirati, siamo cavalieri del web"](https://www.linkedin.com/pulse/padova-il-raduno-degli-hacker-pietrosanti-non-pirati-siamo-guarnieri?trk=public_profile_article_view)  
-  Radio1 Rai audio interview at Italian Hacker Camp 2018 in Padova
+- 🆕 **2018-08-04** · Radio · Rai Radio 1 — [A Padova il raduno degli hacker: Pietrosanti: 'Non chiamateci pirati, siamo cavalieri del ...'](https://www.linkedin.com/pulse/padova-il-raduno-degli-hacker-pietrosanti-non-pirati-siamo-guarnieri?trk=public_profile_article_view)  
+  Already known (via LinkedIn Pulse by Paola Guarnieri). The original Radio 1 segment was not found on RaiPlay Sound: GR bulletins are not itemised, and RaiPlay Sound started returning HTTP 403 during the scan.
 - 🆕 **2018-07-25** · Altro · EDRi (European Digital Rights) — [Member in the Spotlight: Hermes Center](https://edri.org/our-work/member-in-the-spotlight-hermes-center/) _(non verificato)_  
   Hermes Center guest profile (his organisation); no name mention
 - 🆕 **2018-06-08** · Progetto · Big Brother Awards Italia (Progetto Winston Smith / Centro Hermes) — [Big Brother Awards Italia 2018](https://bba.winstonsmith.org/)  
@@ -450,6 +460,8 @@ Anni senza nessun risultato: nessuno
   names Fabio: …alists - Marco Calamari 15:45 - 17:00 Centro Servizi G. Alessi Italian privacy nightmare: tales of surveillance - Fabio Pietrosanti , Giovanni Pellerano and Riccardo Coluccini Thursday 12 April 2018 09:30 - 10:45 Hotel Brufani - Sala Priori Attacks, d… — restored in hermescenter/hermescenter.org-restoration id announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18
 - 🆕 **2018-04-06** · Intervista · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri)  
   Video interview: 'Kaspersky controlla tutto ma la Russia controlla Kaspersky'; Kaspersky in Italian ministries and police (Hermes)
+- 🆕 **2018-04-06** · TV · Euronews (en español) — [¿Rusia puede espiar a Italia gracias a la empresa de software Kaspersky?](https://es.euronews.com/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-)  
+  Spanish-language edition of the known Euronews Italian Kaspersky report. Page description: 'Según Fabio Pietrosanti, que es el presidente del Centro para la Transparencia y los Derechos Humanos, todas las agencias de seguridad italianas usan y utilizan el software antivirus Kaspersky.' Also on Dailymotion (euronews en español): https://www.dailymotion.com/video/x6hfo9a . Wayback CDX shows no equivalent April 2018 page on the en/fr/de/pt/ru/tr/gr/hu/fa/ar editions.
 - 🆕 **2018-04-05** · TV · Euronews (in Italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://www.youtube.com/watch?v=gcROTSHQW4A)  
   Out of slice (incidental): Euronews interview on Kaspersky in Italian public administration
 - 🆕 **2018-03-24** · Talk · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/)  
@@ -525,8 +537,8 @@ Anni senza nessun risultato: nessuno
   Hermes Center FOIA on Smartmatic e-voting denied; Pietrosanti: 'security through obscurity', strategic litigation
 - 🆕 **2017-10-19** · Report · Hermes Center (hermescenter.org) — [Le richieste FOIA sul Voto Elettronico Lombardia 2017](https://www.hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/) _(non verificato)_  
   Hermes FOIA dossier on Smartmatic voting machines (service agreements with Wincor Nixdorf/BV Tech attached); now 404, archived in Wayback (CDX confirmed) but snapshot not openable during this pass; date approximate
-- 🆕 **2017-10-07** · workshop · Freedom Not Fear 2017, Brussels (Mundo B) — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule) _(non verificato)_  
-  Official FNF 2017 timetable (AK Vorrat wiki, linked from freedomnotfear.org 'Wiki / Archive'): Saturday 7 Oct 2017, 15:45–17:00 'late afternoon session', conference room (35+ people): 'Government hacking and trojan • Fabio'. Parallel sessions: Aral Balkan (tracker blocking, Kamilou café), Rejo Zenger/Bits of Freedom (bodycams). Session added on the day by user Padeluun (rev 130127, 2017-10-07T12:36Z, i.e. during the kick-off plenary); permalink https://wiki.vorratsdatenspeicherung.de/index.php?oldid=130129. Only the first name 'Fabio' is given (no surname/org); attribution to Pietrosanti is a strong inference (topic matches his/Hermes' 2017 Italian trojan-law advocacy and his CPDP 2018 Brussels 'Government hacking' roundtable 3 months later), not stated on the page. No other 'Fabio' appears in any FNF 2011–2019 wiki page.
+- 🆕 **2017-10-07** · workshop · Freedom Not Fear 2017, Brussels (Mundo B) — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule)  
+  Official FNF 2017 timetable (AK Vorrat wiki, linked from freedomnotfear.org 'Wiki / Archive'): Saturday 7 Oct 2017, 15:45–17:00 'late afternoon session', conference room (35+ people): 'Government hacking and trojan • Fabio'. Parallel sessions: Aral Balkan (tracker blocking, Kamilou café), Rejo Zenger/Bits of Freedom (bodycams). Session added on the day by user Padeluun (rev 130127, 2017-10-07T12:36Z, i.e. during the kick-off plenary); permalink https://wiki.vorratsdatenspeicherung.de/index.php?oldid=130129. Only the first name 'Fabio' is given (no surname/org); attribution to Pietrosanti is a strong inference (topic matches his/Hermes' 2017 Italian trojan-law advocacy and his CPDP 2018 Brussels 'Government hacking' roundtable 3 months later), not stated on the page. No other 'Fabio' appears in any FNF 2011–2019 wiki page. — confirmed by Fabio 2026-09-18
 - 🆕 **2017-10** · Menzionato · linkiesta.it — [DIG raddoppia e a fine ottobre porta a Milano il meglio del giornalismo investigativo internazionale - Linkiesta.it](https://www.linkiesta.it/2017/10/dig-raddoppia-e-a-fine-ottobre-porta-a-milano-il-meglio-del-giornalism/)  
   verified via wayback; context: …enerdì 27 ottobre con due corsi accreditati dall’Ordine dei giornalisti della Lombardia ai fini della formazione continua. Raffaele Angius , Giovanni Civardi e Fabio Pietrosanti , tre esperti dell’Hermes Center for Trans…
 - 🆕 **2017-08-07** · Talk · SHA2017 - Still Hacking Anyway (media.ccc.de) — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans)  
@@ -838,7 +850,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2013-07-10** · Talk · Transparency International Italia - WhistleblowingItalia Congress (Milano) — [Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione](https://web.archive.org/web/2015/http://logioshermes.org/hermes-center-intervento-whistleblowingitalia-congress-milano/)  
   Talk at the conference 'Partecipazione e responsabilità. Il whistleblowing come strumento di contrasto alla corruzione negli enti pubblici'
 - 🆕 **2013-07-02** · TV · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) _(non verificato)_  
-  Report by Sacha Coltellacci listed on the Hermes Center press page; his appearance not confirmed from page text
+  Already known. Listed on the Hermes Center News/Press page (report by Sacha Coltellacci). His presence is not confirmed by page text; the video URL is dead.
 - 🆕 **2013-07-02** · Video · Corriere.it (Reportime) — [Quando l'utente non si lascia spiare](http://www.corriere.it/inchieste/reportime/societa/quando-utente-non-si-lascia-spiare/afda7abe-e342-11e2-a1f9-62e4ef08d60d.shtml) _(non verificato)_  
   Datagate video report by Antonella Cignarale listed on the Hermes Center press page; his presence not confirmed
 - 🆕 **2013-06-21** · Paper · arXiv — [Cryptocat: Adopting Accessibility and Ease of Use as Security Properties (Nadim Kobeissi, Arlo Breault)](https://arxiv.org/pdf/1306.5156)  
@@ -1238,7 +1250,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2003-01** · Articolo scritto · Win Magazine n.48 (Edizioni Master), gennaio 2003 — [Caccia alle reti wireless - Lo sviluppo delle reti Wi-Fi cresce giorno dopo giorno, ma emergono nuovi problemi di sicurezza (di Fabio Pietrosanti e Yvette Agostini)](https://archive.org/details/win-magazine-italia-48)  
   Co-authored with Yvette Agostini, bylined as members of the Italian Blackhats association; verified in IA OCR text
 
-## 2002 — 13 voci, 6 nuove
+## 2002 — 14 voci, 6 nuove
 
 - ↺ **2002-10-30** · Menzionato · Apogeonline — [Ethical Hacker's Speech II](https://www.apogeonline.com/articoli/ethical-hackers-speech-ii-associazione-italian-blackhats/) _(non verificato)_  
   Programme of the Italian Blackhats speech at SMAU 2002 (the association he co-founded); his name is not on the page
@@ -1266,6 +1278,8 @@ Anni senza nessun risultato: nessuno
   vecna answers the hackmeeting 'hacking is NOT politics' debate 'after talking only with naif'
 - 🆕 **2002-01-17** · Menzionato · BFi 11-dev file 04 — [Drivers e SEH in Win NT/2000 (valv`0)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-04)  
   naif in credits/greetings
+- ↺ **2002** · Articolo scritto · ICT Security (print magazine, Tecna Editrice; today ICT Security Magazine) — [Penetration Testing & Tiger Teams](https://www.slideshare.net/slideshow/ict-security-magazine-penetration-testing-e-tigerteam/1669099)  
+  4-page print article (pp. 56-59) scanned and uploaded to SlideShare by Fabio Pietrosanti on 2009-07-01 as 'ICT Security Magazine: Penetration testing e tigerteam' (description: 'Quando il termine tiger team aveva ancora una accezione positiva!'). Author box on last page: 'Gli Autori: Raoul Chiesa aka Nobody ... / Fabio Pietrosanti aka Naif, Network Security Manager presso la I.NET SpA, IT, ITBH (Italian Black Hats Association) Founder Member'. Issue number/date not visible on scanned pages; year inferred (~2002) from I.NET role + ITBH founding; scan filename 'rs010502a'. Also listed as a local copy in fabio_pietrosanti_it-copies/2010/861f7ed4a4c3 (SlideShare profile snapshot).
 
 ## 2001 — 14 voci, 9 nuove
 
