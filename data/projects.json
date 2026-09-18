@@ -346,6 +346,48 @@
    "linkedin_en": false,
    "linkedin_zh": false,
    "sources": []
+  },
+  {
+   "name": "OSSCI — Osservatorio sicurezza dello spazio cibernetico italiano (progetto mai partito)",
+   "start_year": "",
+   "area": "sicurezza nazionale",
+   "status": "da-documentare",
+   "description_en": "",
+   "description_zh": "",
+   "link": "",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
+   "sources": [],
+   "notes": "Canale Telegram e documento di specifica: ritrovare link e anno di pubblicazione."
+  },
+  {
+   "name": "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)",
+   "start_year": "2020",
+   "area": "covid / dati",
+   "status": "da-documentare",
+   "description_en": "",
+   "description_zh": "",
+   "link": "",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
+   "sources": [],
+   "notes": "Proposta durante la pandemia di usare i dati delle celle telefoniche per mappare i focolai: ritrovare documenti e fonti."
+  },
+  {
+   "name": "COVID-19: vulnerabilità dell'app COVID della Regione Lazio (con Giovanni Rocca)",
+   "start_year": "2020",
+   "area": "covid / sicurezza",
+   "status": "da-documentare",
+   "description_en": "",
+   "description_zh": "",
+   "link": "",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
+   "sources": [],
+   "notes": "Analisi delle vulnerabilità dell'applicazione COVID del Lazio con Giovanni Rocca: ritrovare articoli, advisory e date."
   }
  ]
 }

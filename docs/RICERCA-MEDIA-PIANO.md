@@ -103,6 +103,12 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Douyin, canali video WeChat. Fatto 18/09: articolo WeChat 13/9 (Fabio al «生物极客闭门论坛», forum a porte chiuse) e
   video Bilibili di riepilogo (32 s + 1'53") scaricati. Resta: Douyin, canali video WeChat, altri articoli WeChat
   (Sogou oltre la prima pagina), eventuali registrazioni integrali; chiedere a TimePie la registrazione dell'intervento.
+- [ ] **Progetti mai partiti da documentare** (segnalati da Fabio 18/09): OSSCI – Osservatorio sicurezza dello spazio
+  cibernetico italiano (Telegram + documento di specifica, anno da trovare); COVID mappatura focolai con dati di cella;
+  COVID vulnerabilità app della Regione Lazio con Giovanni Rocca. Query in coda; cercare anche su Telegram (t.me), GitHub,
+  Google Docs pubblici, Web Archive.
+- [ ] Foto del «生物极客闭门论坛» nell'articolo WeChat ufficiale TimePie del 12/9: salvarle nell'archivio.
+- [ ] Video ufficiali TimePie: Fabio avviserà quando pubblicati → scaricarli e archiviarli.
 - [ ] Progetto AIRE (voto elettronico, italiani all'estero): raccogliere tutte le fonti e documentarlo.
 - [ ] OpenRousseau / M5S: espulsione (Domani 2020) e articolo di Raffaele Angius sulla doppia iscrizione.
 - [ ] ~~Bloomberg Businessweek 2020-05-04~~ (trovato, p. 70, manca il titolo); ~~Il Gazzettino Friuli 2020-10-02~~ (verificato); Radio1 Rai Italian Hacker Camp 2018.

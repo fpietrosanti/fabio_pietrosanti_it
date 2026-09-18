@@ -551,6 +551,31 @@
  ],
  "queries": [
   {
+   "query": "\"Lazio\" app covid vulnerabilità \"Rocca\" 2020",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Giovanni Rocca\" \"Pietrosanti\" app covid Lazio vulnerabilità",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" covid \"celle\" OR \"dati di cella\" focolai",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "OSSCI \"spazio cibernetico italiano\" telegram",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Osservatorio sicurezza dello spazio cibernetico\" OR OSSCI Pietrosanti",
+   "status": "pending",
+   "pages": 2
+  },
+  {
    "query": "\"Pietrosanti\" AIRE \"voto elettronico\" OR \"voto all'estero\" OR \"italiani all'estero\"",
    "status": "pending",
    "pages": 2
