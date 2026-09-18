@@ -23,6 +23,10 @@
   {
    "url": "https://www.punto-informatico.it/pietrosanti-una-corte-per-internet/",
    "reason": "Paolo Pietrosanti"
+  },
+  {
+   "url": "https://www.cybersecurity360.it/cultura-cyber/ciao-carola/",
+   "reason": "Fabio 2026-09-18: not to be listed"
   }
  ],
  "override": [
@@ -46,6 +50,27 @@
    "set": {
     "year": 2019,
     "note": "Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017"
+   }
+  },
+  {
+   "url": "https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/",
+   "set": {
+    "live_url": "https://copernicani.it/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/",
+    "note_search": "Found by copernicani.it/?s=pietrosanti (2026-09-18)"
+   }
+  },
+  {
+   "url": "https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/",
+   "set": {
+    "live_url": "https://copernicani.it/overlay-network-crittografici/",
+    "note_search": "Found by copernicani.it/?s=pietrosanti (2026-09-18)"
+   }
+  },
+  {
+   "url": "https://copernicani.it/blog/2020/10/16/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/",
+   "set": {
+    "live_url": "https://copernicani.it/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/",
+    "note_search": "Found by copernicani.it/?s=pietrosanti (2026-09-18)"
    }
   }
  ],

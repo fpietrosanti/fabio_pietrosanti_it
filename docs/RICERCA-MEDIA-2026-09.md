@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **753**; dopo deduplica: **609**
+- Risultati grezzi dalle ricerche: **753**; dopo deduplica: **608**
 - Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 577**
-- Verificati aprendo la pagina: **524**; solo da risultato di ricerca: **85**
+- **Nuovi rispetto al vecchio sito: 576**
+- Verificati aprendo la pagina: **523**; solo da risultato di ricerca: **85**
 
-Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Video 51, Citato 47, Ricerca 43, Progetto 36, Altro 22, Articolo scritto 19, Comunicato 17, Report 16, Podcast 11, Libro 11, Paper 10, Radio 9, Intervista 6, Capitolo di libro 5, Slide 5, village 5, TV 3, Brevetto 2, workshop 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Video 51, Citato 47, Ricerca 43, Progetto 36, Altro 22, Articolo scritto 18, Comunicato 17, Report 16, Podcast 11, Libro 11, Paper 10, Radio 9, Intervista 6, Capitolo di libro 5, Slide 5, village 5, TV 3, Brevetto 2, workshop 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -44,11 +44,11 @@ Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 2023 | 0 | 8 | 8 |
 | 2024 | 0 | 2 | 2 |
 | 2025 | 0 | 1 | 1 |
-| 2026 | 0 | 22 | 22 |
+| 2026 | 0 | 21 | 21 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 22 voci, 22 nuove
+## 2026 — 21 voci, 21 nuove
 
 - 🆕 **2026-09-16** · Progetto · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)  
   Old blog of infosecurity.ch (restoration)
@@ -84,8 +84,6 @@ Anni senza nessun risultato: nessuno
   Scanner of whistleblowing channels of Italian PAs and listed companies (WB Monitor Italia)
 - 🆕 **2026-06-12** · Progetto · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo)  
   Hugo static site for a Latina logistics consortium
-- 🆕 **2026-06-03** · Articolo scritto · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/)  
-  Signatory 'Fabio Pietrosanti (naif)'
 - 🆕 **2026-06** · Progetto · mxmap.it — [MxMap.it — Sovranità digitale della posta elettronica della PA italiana](https://mxmap.it/) _(non verificato)_  
   Map of ~23k Italian public entities' email providers via DNS; his name not on the fetched page
 - 🆕 **2026** · Progetto · GlobaLeaks — [People / GlobaLeaks](https://globaleaks.org/about/people/)  

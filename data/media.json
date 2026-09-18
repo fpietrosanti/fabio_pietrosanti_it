@@ -7416,6 +7416,8 @@
   "_slices": [
    "pass4_copernicani_2026-09-18"
   ],
+  "live_url": "https://copernicani.it/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/",
+  "note_search": "Found by copernicani.it/?s=pietrosanti (2026-09-18)",
   "on_old_site": false
  },
  {
@@ -7858,6 +7860,8 @@
   "_slices": [
    "pass4_copernicani_2026-09-18"
   ],
+  "live_url": "https://copernicani.it/overlay-network-crittografici/",
+  "note_search": "Found by copernicani.it/?s=pietrosanti (2026-09-18)",
   "on_old_site": false
  },
  {
@@ -8604,6 +8608,8 @@
   "_slices": [
    "pass4_copernicani_2026-09-18"
   ],
+  "live_url": "https://copernicani.it/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/",
+  "note_search": "Found by copernicani.it/?s=pietrosanti (2026-09-18)",
   "on_old_site": false
  },
  {
@@ -10192,24 +10198,6 @@
   "verified": false,
   "known": false,
   "_slices": [
-   "slice5_2021_2026"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2026-06-03",
-  "year": 2026,
-  "type": "article_by",
-  "outlet": "Cyber Security 360",
-  "title": "Ciao, Carola",
-  "url": "https://www.cybersecurity360.it/cultura-cyber/ciao-carola/",
-  "language": "it",
-  "role": "co-author",
-  "note": "Signatory 'Fabio Pietrosanti (naif)'",
-  "verified": true,
-  "known": true,
-  "_slices": [
-   "pass4_agendadigitale_2026-09-18",
    "slice5_2021_2026"
   ],
   "on_old_site": false
