@@ -6649,6 +6649,23 @@
   "on_old_site": false
  },
  {
+  "date": "2017-10-07",
+  "year": 2017,
+  "type": "workshop",
+  "outlet": "Freedom Not Fear 2017, Brussels (Mundo B)",
+  "title": "Government hacking and trojan",
+  "url": "https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule",
+  "language": "en",
+  "role": "speaker",
+  "note": "Official FNF 2017 timetable (AK Vorrat wiki, linked from freedomnotfear.org 'Wiki / Archive'): Saturday 7 Oct 2017, 15:45–17:00 'late afternoon session', conference room (35+ people): 'Government hacking and trojan • Fabio'. Parallel sessions: Aral Balkan (tracker blocking, Kamilou café), Rejo Zenger/Bits of Freedom (bodycams). Session added on the day by user Padeluun (rev 130127, 2017-10-07T12:36Z, i.e. during the kick-off plenary); permalink https://wiki.vorratsdatenspeicherung.de/index.php?oldid=130129. Only the first name 'Fabio' is given (no surname/org); attribution to Pietrosanti is a strong inference (topic matches his/Hermes' 2017 Italian trojan-law advocacy and his CPDP 2018 Brussels 'Government hacking' roundtable 3 months later), not stated on the page. No other 'Fabio' appears in any FNF 2011–2019 wiki page.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_freedomnotfear_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2017-10-19",
   "year": 2017,
   "type": "quoted",
@@ -8643,6 +8660,23 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-11-07",
+  "year": 2020,
+  "type": "workshop",
+  "outlet": "Freedom Not Fear 2020 (online edition)",
+  "title": "EU Actions on Biometric Mass Surveillance (WS 3)",
+  "url": "https://freedomnotfear.org/2020/our-schedule-for-saturday-7-november",
+  "language": "en",
+  "role": "organiser",
+  "note": "FNF 2020 schedule, Saturday 7 Nov 2020, 18:00 CET workshops: 'WS 3: EU Actions on Biometric Mass Surveillance by EDRi, Homo Digitalis (GR), SHARE (SR) and Hermes Center (IT)' – intro to the Reclaim Your Face campaign with success stories from Greece, Italy and Serbia. Names Hermes Center only, not Pietrosanti; the Hermes contribution was probably by its Reclaim Your Face/facial-recognition team, so it may not be his.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_freedomnotfear_2026-09-18"
   ],
   "on_old_site": false
  },

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **753**; dopo deduplica: **608**
+- Risultati grezzi dalle ricerche: **755**; dopo deduplica: **610**
 - Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 576**
-- Verificati aprendo la pagina: **523**; solo da risultato di ricerca: **85**
+- **Nuovi rispetto al vecchio sito: 578**
+- Verificati aprendo la pagina: **523**; solo da risultato di ricerca: **87**
 
-Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Video 51, Citato 47, Ricerca 43, Progetto 36, Altro 22, Articolo scritto 18, Comunicato 17, Report 16, Podcast 11, Libro 11, Paper 10, Radio 9, Intervista 6, Capitolo di libro 5, Slide 5, village 5, TV 3, Brevetto 2, workshop 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Video 51, Citato 47, Ricerca 43, Progetto 36, Altro 22, Articolo scritto 18, Comunicato 17, Report 16, Podcast 11, Libro 11, Paper 10, Radio 9, Intervista 6, Capitolo di libro 5, Slide 5, village 5, workshop 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -35,10 +35,10 @@ Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 2014 | 0 | 25 | 25 |
 | 2015 | 0 | 30 | 30 |
 | 2016 | 0 | 20 | 20 |
-| 2017 | 0 | 67 | 67 |
+| 2017 | 0 | 68 | 68 |
 | 2018 | 0 | 51 | 51 |
 | 2019 | 0 | 21 | 21 |
-| 2020 | 0 | 37 | 37 |
+| 2020 | 0 | 38 | 38 |
 | 2021 | 0 | 24 | 24 |
 | 2022 | 0 | 45 | 45 |
 | 2023 | 0 | 8 | 8 |
@@ -268,7 +268,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 37 voci, 37 nuove
+## 2020 — 38 voci, 38 nuove
 
 - 🆕 **2020-12-03** · Ricerca · GitHub — [ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)](https://github.com/fpietrosanti/ifuriosi)  
   Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista
@@ -282,6 +282,8 @@ Anni senza nessun risultato: nessuno
   Credits him (Hermes president) with uncovering via FOIA the government e-voting commission for the overseas constituency
 - 🆕 **2020-11-08** · Paper · Pandora Rivista (online review of politics and culture, not peer-reviewed) — [I trojan di Stato: la nuova legge sulle intercettazioni](https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/)  
   Silvia Cegalin. On the Italian interception law and state trojans; mentions 'Fabio Pietrosanti, membro del Centro Hermes per la Trasparenza e i Diritti Umani Digitali' urging the government to revise the law on entrusting citizens' data to unregulated private trojan vendors. Page text read. Borderline: magazine rather than academic journal.
+- 🆕 **2020-11-07** · workshop · Freedom Not Fear 2020 (online edition) — [EU Actions on Biometric Mass Surveillance (WS 3)](https://freedomnotfear.org/2020/our-schedule-for-saturday-7-november) _(non verificato)_  
+  FNF 2020 schedule, Saturday 7 Nov 2020, 18:00 CET workshops: 'WS 3: EU Actions on Biometric Mass Surveillance by EDRi, Homo Digitalis (GR), SHARE (SR) and Hermes Center (IT)' – intro to the Reclaim Your Face campaign with success stories from Greece, Italy and Serbia. Names Hermes Center only, not Pietrosanti; the Hermes contribution was probably by its Reclaim Your Face/facial-recognition team, so it may not be his.
 - 🆕 **2020-10-26** · Menzionato · Interoperable Europe Portal (European Commission) — [EUPL for Italian software](https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software) _(non verificato)_  
   EC news (P-E Schmitz) updated on ANAC-Hermes AGPL settlement over GlobaLeaks-based OpenWhistleblowing; org-level
 - 🆕 **2020-10-23** · Menzionato · wired.it — [Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/10/23/rousseau-espulsione-iscritto-doppio-voto-casaleggio/)  
@@ -495,7 +497,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 67 voci, 67 nuove
+## 2017 — 68 voci, 68 nuove
 
 - 🆕 **2017-12-28** · Talk · 34C3 Chaos Communication Congress, Leipzig (Rights & Freedoms stage, CCL Hall 3) — [Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', 'Digital Anonimity for Whistleblowing', 'Are NAT translations respecting proportionality and data retention principles?', 'How to use public procurement datasets to monitor government surveillance capabilities'](https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms) _(non verificato)_  
   Four Hermes Center slots 28-30 Dec 2017; speakers not named on the page - his personal involvement NOT confirmed (NAT/data-retention topic matches Hermes 2017 campaigns)
@@ -523,6 +525,8 @@ Anni senza nessun risultato: nessuno
   Hermes Center FOIA on Smartmatic e-voting denied; Pietrosanti: 'security through obscurity', strategic litigation
 - 🆕 **2017-10-19** · Report · Hermes Center (hermescenter.org) — [Le richieste FOIA sul Voto Elettronico Lombardia 2017](https://www.hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/) _(non verificato)_  
   Hermes FOIA dossier on Smartmatic voting machines (service agreements with Wincor Nixdorf/BV Tech attached); now 404, archived in Wayback (CDX confirmed) but snapshot not openable during this pass; date approximate
+- 🆕 **2017-10-07** · workshop · Freedom Not Fear 2017, Brussels (Mundo B) — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule) _(non verificato)_  
+  Official FNF 2017 timetable (AK Vorrat wiki, linked from freedomnotfear.org 'Wiki / Archive'): Saturday 7 Oct 2017, 15:45–17:00 'late afternoon session', conference room (35+ people): 'Government hacking and trojan • Fabio'. Parallel sessions: Aral Balkan (tracker blocking, Kamilou café), Rejo Zenger/Bits of Freedom (bodycams). Session added on the day by user Padeluun (rev 130127, 2017-10-07T12:36Z, i.e. during the kick-off plenary); permalink https://wiki.vorratsdatenspeicherung.de/index.php?oldid=130129. Only the first name 'Fabio' is given (no surname/org); attribution to Pietrosanti is a strong inference (topic matches his/Hermes' 2017 Italian trojan-law advocacy and his CPDP 2018 Brussels 'Government hacking' roundtable 3 months later), not stated on the page. No other 'Fabio' appears in any FNF 2011–2019 wiki page.
 - 🆕 **2017-10** · Menzionato · linkiesta.it — [DIG raddoppia e a fine ottobre porta a Milano il meglio del giornalismo investigativo internazionale - Linkiesta.it](https://www.linkiesta.it/2017/10/dig-raddoppia-e-a-fine-ottobre-porta-a-milano-il-meglio-del-giornalism/)  
   verified via wayback; context: …enerdì 27 ottobre con due corsi accreditati dall’Ordine dei giornalisti della Lombardia ai fini della formazione continua. Raffaele Angius , Giovanni Civardi e Fabio Pietrosanti , tre esperti dell’Hermes Center for Trans…
 - 🆕 **2017-08-07** · Talk · SHA2017 - Still Hacking Anyway (media.ccc.de) — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans)  
