@@ -37,9 +37,9 @@ Per tipo (nuovi): Menzionato 107, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 2016 | 0 | 20 | 20 |
 | 2017 | 0 | 67 | 67 |
 | 2018 | 0 | 51 | 51 |
-| 2019 | 0 | 20 | 20 |
+| 2019 | 0 | 21 | 21 |
 | 2020 | 0 | 37 | 37 |
-| 2021 | 0 | 25 | 25 |
+| 2021 | 0 | 24 | 24 |
 | 2022 | 0 | 45 | 45 |
 | 2023 | 0 | 8 | 8 |
 | 2024 | 0 | 2 | 2 |
@@ -219,7 +219,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Talk · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)  
   Investigative journalism festival speaker page
 
-## 2021 — 25 voci, 25 nuove
+## 2021 — 24 voci, 24 nuove
 
 - 🆕 **2021-06-08** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [Voto Elettronico: perché è (ancora) una pessima idea](https://www.spreaker.com/episode/voto-elettronico-perche-e-ancora-una-pessima-idea--45210765)  
   Credited among experts who reviewed the script
@@ -247,8 +247,6 @@ Anni senza nessun risultato: nessuno
   Exact date from article:published_time 2021-03-15T07:59:05Z; sole author; reports his Oct 2020 FOIA on the e-voting committee
 - 🆕 **2021-03-15** · Articolo scritto · Agenda Digitale — [Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio](https://www.agendadigitale.eu/cittadinanza-digitale/voto-dei-cittadini-allestero-meglio-farlo-tramite-seggi-lo-studio/)  
   Exact date from article:published_time 2021-03-15T07:59:46Z; with S. Quintarelli and M. Napolitano (AIRE geo-spatial study)
-- 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
-  Author page lists exactly 3 pieces (2019-04-09, 2021-03-15 x2); media.json dates it 2017, which is wrong; only author slug for him in giornalista-sitemap
 - 🆕 **2021-03-11** · Menzionato · FSFE — [FSFE at FOSDEM 2021](https://fsfe.org/news/2021/news-20210311-01.en.html)  
   FSFE report mentions his panel on the GlobaLeaks AGPL compliance case
 - 🆕 **2021-03** · Menzionato · Italia Open Gov (Dipartimento della Funzione Pubblica) — [Il Dipartimento alla Milano Digital week](https://open.gov.it/notizie/dipartimento-milano-digital-week)  
@@ -349,8 +347,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 20 voci, 20 nuove
+## 2019 — 21 voci, 21 nuove
 
+- 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
+  Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
 - 🆕 **2019-12-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come non sprecare un milione di euro](https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/)  
   AIRE project: geolocation analysis by Fabio (Hermes Center) — 80 foreign polling stations would cover 86%+ of AIRE voters; alternative to e-voting for Italians abroad; restored site hermescenter/crvd.org-preservation (2026-09-18)
 - 🆕 **2019-12-11** · Podcast · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397)  

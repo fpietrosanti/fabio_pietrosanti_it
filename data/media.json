@@ -8087,6 +8087,24 @@
   "on_old_site": false
  },
  {
+  "date": "2021-03-15",
+  "year": 2019,
+  "type": "other",
+  "outlet": "Agenda Digitale",
+  "title": "Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)",
+  "url": "https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/",
+  "language": "it",
+  "role": "author",
+  "note": "Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_agendadigitale_2026-09-18",
+   "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020",
   "year": 2020,
   "type": "research",
@@ -8951,24 +8969,6 @@
   "_slices": [
    "pass4_agendadigitale_2026-09-18",
    "slice5_2021_2026"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2021-03-15",
-  "year": 2021,
-  "type": "other",
-  "outlet": "Agenda Digitale",
-  "title": "Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)",
-  "url": "https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/",
-  "language": "it",
-  "role": "author",
-  "note": "Author page lists exactly 3 pieces (2019-04-09, 2021-03-15 x2); media.json dates it 2017, which is wrong; only author slug for him in giornalista-sitemap",
-  "verified": true,
-  "known": true,
-  "_slices": [
-   "pass4_agendadigitale_2026-09-18",
-   "slice6_media_archives"
   ],
   "on_old_site": false
  },
