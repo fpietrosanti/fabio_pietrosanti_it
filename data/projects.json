@@ -536,6 +536,25 @@
     "https://infosecurity.ch/20100926/"
    ],
    "notes": "Solo il post del blog (conferma di Fabio), 2.208 parole."
+  },
+  {
+   "name": "VLC over HTTPS — campagna per il download sicuro di VLC e degli eseguibili («la trollata sul TLS»)",
+   "start_year": "2017",
+   "area": "sicurezza / advocacy",
+   "status": "fonti-raccolte",
+   "description_en": "",
+   "description_zh": "",
+   "link": "",
+   "site_section": "",
+   "linkedin_en": false,
+   "linkedin_zh": false,
+   "sources": [
+    "https://code.videolan.org/videolan/vlc/-/issues/18472",
+    "https://github.com/etix/mirrorbits/issues/59",
+    "https://github.com/drego85/Why-VLC-NEED-to-enforce-HTTPS",
+    "https://gitlab.torproject.org/tpo/applications/tor-browser/-/work_items/22809"
+   ],
+   "notes": "Estate 2017 (post leak CIA/WikiLeaks): ticket VLC #18472 e seguenti, censimento di 35 mirror con HTTPS, PoC di Andrea Draghetti con Bettercap, richieste a Tor Browser/Mozilla/Chromium di avvisare sui download eseguibili via HTTP; Motherboard Italia 2017-07-04 (Riccardo Coluccini). Seguiti nel 2018 (#20007/#20008) e gennaio 2019 (#21805)."
   }
  ]
 }
