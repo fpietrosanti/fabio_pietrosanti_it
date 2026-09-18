@@ -116,8 +116,18 @@ def copy_item(it, out):
             method = "live"
     folder = out / str(it.get("year") or "undated") / rec["id"]
     video = None
+    scan = archive_org_text(target, folder) if "archive.org/details/" in target else None
+    if scan is not None:
+        is_media = False
+        rec["scan"] = scan
     if is_media:
-        video = download_media(target, folder)
+        key = media_key(target)
+        if key in SHARED_MEDIA:
+            video = dict(SHARED_MEDIA[key])
+        else:
+            video = download_media(target, folder)
+            if video.get("file"):
+                SHARED_MEDIA[key] = dict(video, same_as=str(folder.relative_to(out)).replace("\\", "/"))
     if not data:
         if video and video.get("file"):
             rec.update(status="video-obtained", method="yt-dlp", reason="video saved, page copy not obtained: " + (err or f"http {status}"),
@@ -136,6 +146,8 @@ def copy_item(it, out):
     if text is not None:
         (folder / "text.txt").write_text(text, encoding="utf-8")
     name_found = bool(NAME_RE.search(data)) if ext != "pdf" else None
+    if scan and "file" in scan:
+        name_found = scan["name_found"]
     js_shell = ext == "html" and text is not None and len(text) < 400
     meta = {"source_url": url, "fetched_url": final, "method": method, "capture": rec["capture"],
             "content_type": ctype, "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest(),
@@ -158,8 +170,56 @@ def copy_item(it, out):
     return rec
 
 
+def archive_org_text(url, folder):
+    """archive.org texts item (scanned magazine/book): save its OCR text (_djvu.txt), and the PDF when public
+    and under 60 MB. Returns {file, bytes, name_found} or None when the item is not a texts item."""
+    m = re.match(r"https?://archive\.org/details/([^/?#]+)", url)
+    if not m:
+        return None
+    data, *_ , err = try_fetch(f"https://archive.org/metadata/{m.group(1)}")
+    if not data:
+        return None
+    md = json.loads(data)
+    if md.get("metadata", {}).get("mediatype") != "texts":
+        return None
+    files = md.get("files", [])
+    txt = next((f["name"] for f in files if f["name"].endswith("_djvu.txt")), None)
+    if not txt:
+        return {"error": "texts item without OCR text"}
+    base = f"https://archive.org/download/{m.group(1)}/"
+    t, *_ , err = try_fetch(base + urllib.request.quote(txt))
+    if not t:
+        return {"error": f"OCR text not downloadable ({err}); lending-only item?"}
+    folder.mkdir(parents=True, exist_ok=True)
+    (folder / "ocr_djvu.txt").write_bytes(t)
+    res = {"file": "ocr_djvu.txt", "bytes": len(t), "name_found": bool(NAME_RE.search(t))}
+    pdf = next((f for f in files if f["name"].lower().endswith(".pdf") and int(f.get("size") or 0) < 60_000_000), None)
+    if pdf and not md.get("metadata", {}).get("access-restricted-item"):
+        p, *_ = try_fetch(base + urllib.request.quote(pdf["name"]))
+        if p:
+            (folder / "original.pdf").write_bytes(p)
+            res["pdf"] = "original.pdf"
+    return res
+
+
+SHARED_MEDIA = {}  # media_key -> video record already downloaded (two URLs of the same recording)
+
+
+def media_key(url):
+    m = re.search(r"radioradicale\.it/scheda/(\d+)", url)
+    return f"radioradicale:{m.group(1)}" if m else url
+
+
 def download_media(url, folder):
-    """Download video/audio with yt-dlp into folder/media.*; returns {file, bytes, title} or {error}."""
+    """Download video/audio with yt-dlp into folder/media.*; returns {file, bytes, title} or {error}.
+    Multi-part recordings (e.g. Radio Radicale conferences) are saved as media.01.mp4, media.02.mp4, ..."""
+    r = _yt_dlp(url, folder, ["--no-playlist"], "media.%(ext)s")
+    if "error" in r and "playlist" in r["error"].lower():
+        r = _yt_dlp(url, folder, ["--yes-playlist"], "media.%(playlist_index)02d.%(ext)s")
+    return r
+
+
+def _yt_dlp(url, folder, mode, template):
     import shutil
     import subprocess
     folder.mkdir(parents=True, exist_ok=True)
@@ -170,9 +230,9 @@ def download_media(url, folder):
         ffmpeg = str(found[-1]) if found else None
     fmt = "bv*[height<=720]+ba/b[height<=720]/bv*+ba/b" if ffmpeg else "b[height<=720]/b"
     extra = ["--ffmpeg-location", ffmpeg, "--merge-output-format", "mp4"] if ffmpeg else []
-    cmd = [sys.executable, "-m", "yt_dlp", "--no-playlist", "--no-progress", "-f", fmt, *extra,
+    cmd = [sys.executable, "-m", "yt_dlp", *mode, "--no-progress", "-f", fmt, *extra,
            "--write-info-json", "--write-description", "--write-subs", "--sub-langs", "it,en",
-           "--write-thumbnail", "-o", str(folder / "media.%(ext)s"), url]
+           "--write-thumbnail", "-o", str(folder / template), url]
     try:
         p = subprocess.run(cmd, capture_output=True, text=True, timeout=3600, encoding="utf-8", errors="replace")
     except Exception as e:
@@ -180,7 +240,10 @@ def download_media(url, folder):
     files = [f for f in folder.glob("media.*") if f.suffix.lower() not in (".json", ".description", ".vtt", ".srt", ".jpg", ".webp", ".png", ".part")]
     if p.returncode == 0 and files:
         f = max(files, key=lambda x: x.stat().st_size)
-        return {"file": f.name, "bytes": f.stat().st_size}
+        res = {"file": f.name, "bytes": f.stat().st_size}
+        if len(files) > 1:
+            res.update(parts=sorted(x.name for x in files), bytes=sum(x.stat().st_size for x in files))
+        return res
     err = (p.stderr or p.stdout or "").strip().splitlines()
     return {"error": (err[-1] if err else f"exit {p.returncode}")[:300]}
 
@@ -202,6 +265,10 @@ def main():
     state_path = out / "copies.json"
     state = {r["id"]: r for r in json.load(io.open(state_path, encoding="utf-8"))} if state_path.exists() else {}
     items = json.load(io.open(ROOT / "data/media.json", encoding="utf-8"))
+    for r in state.values():
+        v = r.get("video") or {}
+        if r["status"] == "video-obtained" and v.get("file") and "same_as" not in v:
+            SHARED_MEDIA.setdefault(media_key(r["url"]), dict(v, same_as=r["local"]))
     done = 0
     for it in items:
         iid = item_id(it)

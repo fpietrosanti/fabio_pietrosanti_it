@@ -1,0 +1,93 @@
+[
+ {
+  "date": "2020",
+  "year": 2020,
+  "type": "book_chapter",
+  "outlet": "Palgrave Macmillan (Springer) - Digital Whistleblowing Platforms in Journalism: Encrypting Leaks, ch. 5",
+  "title": "A Taxonomy of Whistleblowing Platforms",
+  "url": "https://link.springer.com/chapter/10.1007/978-3-030-38505-7_5",
+  "language": "en",
+  "role": "cited",
+  "note": "Philip Di Salvo. Chapter note 1 cites his Nexa seminar slides: 'Available here: https://nexa.polito.it/nexacenterfiles/mercoledi-73-pietrosanti.pdf' (that slide URL now 404). Chapter of the book already in known list (link.springer.com/book/10.1007/978-3-030-38505-7).",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "paper",
+  "outlet": "Internet Policy Review 6(1)",
+  "title": "Australian internet policy",
+  "url": "https://policyreview.info/node/457/pdf",
+  "language": "en",
+  "role": "cited",
+  "note": "Angela Daly, Julian Thomas. Text: 'new plans to regulate the use of CNOs in Italy (Pietrosanti and Aterno, 2017)'; reference 'Pietrosanti, F. & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing.' Re-confirmed via OpenAlex full-text.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2020",
+  "year": 2020,
+  "type": "book_chapter",
+  "outlet": "Springer, The International Library of Ethics, Law and Technology (The Ethics of Cybersecurity)",
+  "title": "Cybersecurity and the State",
+  "url": "https://link.springer.com/chapter/10.1007/978-3-030-29053-5_10",
+  "language": "en",
+  "role": "cited",
+  "note": "Eva Schlehahn. Text: 'Many states ... allow ... the deployment of such technologies (e.g. Pietrosanti and Aterno 2017)'; reference 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'. Same work as known PDF URL.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2013",
+  "year": 2013,
+  "type": "paper",
+  "outlet": "arXiv 1306.5156",
+  "title": "Cryptocat: Adopting Accessibility and Ease of Use as Security Properties",
+  "url": "https://arxiv.org/pdf/1306.5156",
+  "language": "en",
+  "role": "mentioned",
+  "note": "Nadim Kobeissi, Arlo Breault. OpenAlex full-text index matches \"Fabio Pietrosanti\" (and Filastò) in the text. Already known.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2017",
+  "year": 2017,
+  "type": "thesis",
+  "outlet": "Tampere University of Technology (MSc thesis)",
+  "title": "TorSNIP: Hidden Service Proxy with End-to-End Security",
+  "url": "https://trepo.tuni.fi/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&isAllowed=y",
+  "language": "en",
+  "role": "cited",
+  "note": "Shoaib Kiyani. OpenAlex full-text index matches 'F. Pietrosanti' together with Tor2web and Swartz (Tor2web references). trepo.tuni.fi timed out from here, so not re-opened. Already known.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2012-06",
+  "year": 2012,
+  "type": "other",
+  "outlet": "e-privacy 2012 conference programme (Progetto Winston Smith), Florence",
+  "title": "Programma e-privacy 2012",
+  "url": "https://e-privacy.winstonsmith.org/materiali/2012/Programma_E-Privacy-2012.pdf",
+  "language": "it",
+  "role": "author",
+  "note": "Conference programme PDF listing the talk abstract by 'Fabio Pietrosanti' on Tor hidden services / Tor2web ('I Tor hidden service sono una tecnologia molto flessibile...'). This is the same event as the known atti PDF urna.winstonsmith.org/materiali/2012/atti/Pietrosanti_Tor2web.pdf and the known e-privacy pages, so it may be a duplicate.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2024",
+  "year": 2024,
+  "type": "book_chapter",
+  "outlet": "Edward Elgar - Digital Media and Grassroots Anti-Corruption (open access), ch. 7",
+  "title": "Digital whistleblowing platforms for anti-corruption: The Transparency International Italia case",
+  "url": "https://doi.org/10.4337/9781802202106.00015",
+  "language": "en",
+  "role": "interviewed",
+  "note": "Philip Di Salvo. Abstract: case study on the cooperation between TI Italia and the GlobaLeaks team, 'based on qualitative interviews', so it likely names or quotes Pietrosanti. Full-text PDF returned HTTP 403 (elgaronline) and the HTML page shows only the abstract, so his name could not be confirmed. UNVERIFIED candidate.",
+  "verified": false,
+  "known": false
+ }
+]

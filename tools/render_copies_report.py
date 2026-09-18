@@ -72,6 +72,18 @@ def main():
     L += ["", "## Fonti NON ottenute o incomplete", "", "Da recuperare con altre tecniche (browser, download media, richiesta di salvataggio al Web Archive).", ""]
     for r in sorted((r for r in recs if r["status"] not in GOOD), key=lambda r: (r["status"], r["year"] or 0)):
         L.append(f"- {LABEL[r['status']].split(' ')[0]} **{r['year']}** · {(r.get('outlet') or '')[:40]} — [{(r.get('title') or r['url'])[:90]}]({r['url']}) · licenza: {licence(r)}  \n  {r.get('reason') or ''}")
+    clips_path = copies / "radioradicale_clips.json"
+    if clips_path.exists():
+        clips = json.load(io.open(clips_path, encoding="utf-8"))
+        ok = [c for c in clips if c.get("clip")]
+        L += ["", "## Interventi di Fabio ritagliati da Radio Radicale", "",
+              f"Solo il suo intervento (video + trascrizione automatica), da `tools/radioradicale_clips.py`: **{len(ok)}** di {len(clips)}.", ""]
+        for c in sorted(clips, key=lambda c: (c["scheda"], c["intervention"])):
+            dur = f"{(c['end'] - c['start']) // 60}′{(c['end'] - c['start']) % 60:02d}″" if c.get("end") is not None and c.get("start") is not None else "fino a fine parte"
+            if c.get("clip"):
+                L.append(f"- 🎬 [scheda {c['scheda']}, intervento {c['intervention']}]({c['url']}) · {dur} · `{c['local']}/{c['clip']}` ({c.get('bytes', 0) / 1e6:,.0f} MB)")
+            else:
+                L.append(f"- ❌ [scheda {c['scheda']}, intervento {c['intervention']}]({c['url']}) · {c.get('error', '')}")
     L += ["", "## Fonti ottenute in locale", ""]
     for r in sorted((r for r in recs if r["status"] in GOOD), key=lambda r: (r["year"] or 0, r["url"])):
         via = f"Web Archive {r['capture'][:8]}" if r.get("method") == "wayback" and r.get("capture") else r.get("method")

@@ -78,23 +78,41 @@ Per ogni fonte (articolo, paper, intervista, video, audio) il sito mostrerà **l
 ## Coda lavori per le sessioni programmate (non chiudere finché non è tutto fatto)
 Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro, si riprova nella sessione successiva.
 - [ ] Coda Google `data/research/queue.json` (domini + query libere).
-- [ ] Copie offline: tutte le voci di `data/media.json` processate; poi ritentare 🟡/🟠/❌ (browser per JS, altre capture Web Archive).
-- [ ] Video/audio: 57 scaricati il 2026-09-17 (21,6 GB, solo in locale). 21 «solo pagina»: 10 Radio Radicale con errore yt-dlp
-  «opening play-av tag not found» (aggiornare yt-dlp o estrarre l'URL audio/video dal DOM della scheda), 1 video YouTube
-  non più disponibile (cercare copie altrove), pagine «soggetti» di Radio Radicale non scaricabili come video.
-  Registrazioni intere di convegni (es. e-privacy 2016, ~3 GB): valutare di ritagliare solo l'intervento di Fabio.
+- [ ] Copie offline: tutte le 508 voci processate (2026-09-18). Restano 🟡 59 (nome non trovato nella copia: paywall,
+  PDF dei SlideShare, pagine senza nome) e ❌ 5 (PrivateWave PDF 403 e mai archiviati, Radio Monte Carlo 404,
+  Infosec Island host sparito, Zhihu 403). Prossimo: rileggere i 🟡 nel Chrome di Fabio (DOM) e cercare altre capture.
+- [ ] Video/audio: 69 voci con video/audio (2026-09-18: +9 registrazioni Radio Radicale multi-parte, +1 Spreaker via API).
+  **Fatto:** i 20 interventi di Fabio su Radio Radicale ritagliati uno per uno con trascrizione automatica
+  (`tools/radioradicale_clips.py`, elenco in `radioradicale_clips.json`). Resta: YouTube mAtBH2hkAcg (2019)
+  non più disponibile → cercare copie altrove; ritagliare anche i convegni non Radio Radicale (e-privacy su YouTube ecc.).
 - [ ] **Video su Google Drive**: Fabio li caricherà su Drive; poi inserire il link Drive di ogni video in
   `copies.json` (campo `video.drive_url`) e mostrarlo in `docs/COPIE-OFFLINE.md` e nella futura pagina del sito.
   Finché non c'è il link, i video restano solo in locale (21,6 GB, fuori da GitHub).
-- [ ] Google Books API e Semantic Scholar con quota fresca (libri: Di Salvo 2020, Profilo hacker 2007, Frediani, Maurizi, Di Corinto, Chiesa, Shooting the Messenger, Coding Democracy, Once a Bitcoin Miner).
+- [ ] Google Books API e Semantic Scholar con quota fresca. **Passata 2026-09-18 (pass4_books/scholarly/archive_texts):**
+  trovati e verificati via full-text Internet Archive *Coding Democracy* (Webb 2020), *Shooting the Messenger*
+  (Fowler 2020), *Once a Bitcoin Miner* (Lou 2021), Bloomberg Businessweek 2020-05-04, Gazzettino FVG 2020,
+  Tor monthly report 11/2011, Privacy International 2021, Access Now CPDP 2018, ParteciPa 2020, decreto USR Toscana 2022.
+  **Resta:** Google Books API (quota giornaliera esaurita, 429) per Frediani, Maurizi, Di Corinto, *Profilo hacker*
+  (testo italiano); Semantic Scholar (429 per 40 minuti: serve chiave API o altro orario, provare snippet/search);
+  Di Salvo 2024 (Elgar, capitolo TI Italia, 403); tesi TorSNIP (Tampere, non raggiungibile); HAL/theses.fr dietro
+  controllo anti-bot; report ONG solo PDF (WIN, RSF, FBK, relazioni annuali ANAC); titolo dell'articolo Businessweek.
 - [ ] Corriere della Sera 2001-01-26 p.25: verificare nel testo.
 - [ ] RAI Teche, Mediaset, Radio Monte Carlo, arretrati ICT Security / Wireless / WeekIT.
 - [ ] Audizioni Camera/Senato/Parlamento europeo (ricerca nei resoconti).
 - [ ] Progetto AIRE (voto elettronico, italiani all'estero): raccogliere tutte le fonti e documentarlo.
 - [ ] OpenRousseau / M5S: espulsione (Domani 2020) e articolo di Raffaele Angius sulla doppia iscrizione.
-- [ ] Bloomberg Businessweek 2020-05-04; Il Gazzettino Friuli 2020-10-02; Radio1 Rai Italian Hacker Camp 2018.
-- [ ] Internet Archive: win-magazine-italia-48, pcprofessionale207, hackerjournal-38, GazzettinoFVG2020-10-02 (copie).
+- [ ] ~~Bloomberg Businessweek 2020-05-04~~ (trovato, p. 70, manca il titolo); ~~Il Gazzettino Friuli 2020-10-02~~ (verificato); Radio1 Rai Italian Hacker Camp 2018.
+- [x] Internet Archive: win-magazine-italia-48, pcprofessionale207, hackerjournal-38, GazzettinoFVG2020-10-02 (copie: OCR + PDF, nome verificato; 2026-09-18).
 - [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
+
+## Note sessione 2026-09-18
+- +22 voci (486 → 508). Da rivedere: La Stampa 1997-10-30 «Fabio Pietrosanti, Velletri (Roma)» tra i vincitori di un
+  concorso — probabile omonimo, non verificato. Nell'OCR di Hacker Journal 10 il nick «Naif» è attribuito ad «Alessio
+  Orlandi» (refuso o altra persona?).
+- `archive_copies.py`: le voci archive.org di tipo testo ora salvano OCR (`ocr_djvu.txt`) e PDF; le registrazioni
+  multi-parte vengono scaricate tutte (`media.01.mp4`, …); le voci in solo prestito si verificano con gli snippet della
+  ricerca full-text di Internet Archive (`fts_snippets.txt`).
+- Internet Archive full-text API utile: `https://be-api.us.archive.org/fts/v1/search?q=...` (snippet con pagina).
 
 ## Tecnica ricerca con browser (validata 2026-09-17)
 - **Google `site:` nel Chrome di Fabio**: funziona, ~10 ricerche poi compare il controllo anti-robot → fermarsi

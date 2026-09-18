@@ -17,6 +17,40 @@
   "on_old_site": false
  },
  {
+  "date": "1997-10-27",
+  "year": 1997,
+  "type": "newspaper",
+  "outlet": "La Stampa",
+  "title": "La Stampa 1997-10-27 / 1997-10-30 / 1997-10-31 (list of names)",
+  "url": "https://archive.org/details/lastampa_1997-10-30",
+  "language": "it",
+  "role": "named (identity uncertain)",
+  "note": "Recurring list in IA full text: '... Gabriella Giacoletto, Milano - Fabio Pietrosanti, Velletri (Roma) - Elio Romani, Malcesine (Vr)', apparently a prize or contest winners list. 'Velletri (Roma)' does not clearly match him (Latina); possible homonym. Kept for review only.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_books_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "1997-10-30",
+  "year": 1997,
+  "type": "other",
+  "outlet": "La Stampa, 27/30/31 October 1997 (contest winners list, repeated on many pages)",
+  "title": "Winners list, prize contest (tickets for Gran Premio di Monza 1998)",
+  "url": "https://archive.org/details/lastampa_1997-10-30/page/n51",
+  "language": "it",
+  "role": "named (possible homonym)",
+  "note": "Text: 'Gabriella Giacoletto, Milano - Fabio Pietrosanti, Velletri (Roma) - Elio Romani, Malcesine'. Name matches but identity NOT confirmed (no hacker context). Also lastampa_1997-10-27 and lastampa_1997-10-31. Probably irrelevant.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "1998-12",
   "year": 1998,
   "type": "article_by",
@@ -1101,16 +1135,19 @@
   "date": "2007",
   "year": 2007,
   "type": "book",
-  "outlet": "Apogeo (Milano), collana Apogeo Saggi",
+  "outlet": "Apogeo",
   "title": "Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking",
-  "url": "https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/",
+  "url": "https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ",
   "language": "it",
-  "role": "acknowledged",
-  "note": "Raoul Chiesa, Silvio Ciappi. Italian original of 'Profiling Hackers' (2009). Acknowledgement of Pietrosanti is verified only in the English edition; assumed but NOT checked in this Italian edition.",
+  "role": "acknowledged (probable)",
+  "note": "Authors: Raoul Chiesa, Silvio Ciappi (ISBN 9788850325948; Google Books id BEvVGAAACAAJ). Italian original of 'Profiling Hackers' (CRC 2009, known: IA profilinghackers0000chie, where 'Fabio \"Naif\" Pietrosanti' is listed among acknowledged contributors). Italian edition NOT checked: Google Books blocked (API quota/bot check) and no full text found.",
   "verified": false,
   "known": false,
   "_slices": [
-   "slice7_academic"
+   "pass4_books_2026-09-18"
+  ],
+  "mirrors": [
+   "https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/"
   ],
   "on_old_site": false
  },
@@ -1273,16 +1310,19 @@
   "date": "2009",
   "year": 2009,
   "type": "book",
-  "outlet": "Auerbach Publications / CRC Press (Boca Raton)",
-  "title": "Profiling Hackers: The Science of Criminal Profiling as Applied to the World of Hacking",
-  "url": "https://archive.org/details/profilinghackers0000chie",
+  "outlet": "R. Chiesa, S. Ducci, S. Ciappi, Profiling Hackers (CRC Press, 2009) - second IA copy",
+  "title": "Profiling hackers: the science of criminal profiling as applied to the world of hacking",
+  "url": "https://archive.org/details/profili_chi_2009_00_8384",
   "language": "en",
   "role": "acknowledged",
-  "note": "Raoul Chiesa, Stefania Ducci, Silvio Ciappi (Hackers Profiling Project, UNICRI). Acknowledgements list 'Fabio “Naif” Pietrosanti' among contributors. Confirmed via Internet Archive full-text search snippet of the scanned book.",
+  "note": "IA FTS snippet: 'Alessandro Scartezzini, Antonis Anagnostopoulos, Fabio \"Naif\" Pietrosanti, Marco Tracina, Vittorio Pasteris...' (acknowledgements). Duplicate copy of known item profilinghackers0000chie.",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
-   "slice7_academic"
+   "pass4_archive_texts_2026-09-18"
+  ],
+  "mirrors": [
+   "https://archive.org/details/profilinghackers0000chie"
   ],
   "on_old_site": false
  },
@@ -3178,6 +3218,40 @@
   "on_old_site": false
  },
  {
+  "date": "2011-11",
+  "year": 2011,
+  "type": "report",
+  "outlet": "The Tor Project, monthly status report November 2011 (IA manualzilla mirror 'New releases, new hires, new funding - archive')",
+  "title": "Tor Project monthly report, November 2011 - Outreach and Advocacy",
+  "url": "https://archive.org/details/manualzilla-id-5653552/page/n8",
+  "language": "en",
+  "role": "mentioned (contributor)",
+  "note": "djvu text, leaf 8: 'Outreach and Advocacy 1. Fabio Pietrosanti got Tor working on a WDTV, https://lists.torproject.org/pipermail/tor-dev/2011-November/003081.html'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2011-12",
+  "year": 2011,
+  "type": "report",
+  "outlet": "The Tor Project (monthly status report, Nov 2011)",
+  "title": "Tor Project monthly report, November 2011 ('New releases, new hires, new funding')",
+  "url": "https://archive.org/details/manualzilla-id-5653552",
+  "language": "en",
+  "role": "mentioned",
+  "note": "Under Outreach and Advocacy, verified: '1. Fabio Pietrosanti got Tor working on a WDTV', linking to a tor-dev post from Nov 2011. Mirrored on Internet Archive (manualzilla).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_books_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2011-12-10",
   "year": 2011,
   "type": "radio",
@@ -3226,6 +3300,41 @@
   "known": false,
   "_slices": [
    "slice2_2007_2011"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2012",
+  "year": 2012,
+  "type": "book",
+  "outlet": "Andy Greenberg, This Machine Kills Secrets - additional IA copies",
+  "title": "This Machine Kills Secrets (additional IA copies)",
+  "url": "https://archive.org/details/thismachinekills0000gree_i3p1",
+  "language": "en",
+  "role": "quoted/profiled",
+  "note": "IA FTS: 'Fabio Pietrosanti and Arturo Filasto, the cofounders of GlobaLeaks'; 'Pietrosanti is a thirty-year-old security engineer who looks like a twenty-...'. Same text in thismachinekills00gree_0 and thismachinekills0000andy. Duplicates of known thismachinekills0000gree.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18",
+   "pass4_books_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2012",
+  "year": 2012,
+  "type": "mentioned",
+  "outlet": "IA mirrors of academic papers (arXiv 1204.0447, arXiv 1209.6398, FOCI'12 'Dealing with dead ends', D. Fifield PhD thesis)",
+  "title": "Acknowledgements/citations in Tor/censorship papers (IA copies)",
+  "url": "https://archive.org/details/arxiv-1204.0447",
+  "language": "en",
+  "role": "acknowledged/cited",
+  "note": "IA FTS: arxiv-1204.0447 'We want to thank Fabio Pietrosanti for helping with the experiments' + ref '27. Pietrosanti, F.: Private conversation' (Chinese scanners' TCP SYN retransmissions, Dec 2011); arxiv-1209.6398 'recognize Fabio Pietrosanti and Arturo Filasto for their valuable insight'; Foci12Final2 / dealing-with-dead-ends-efficient-routing-in-darknets_202512 'Fabio Pietrosanti for helping with the experiments'; fifield-thesis lists him in acknowledgements/bug credits. All already known via original URLs.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -3382,6 +3491,23 @@
   "year": 2012,
   "_slices": [
    "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2012-06",
+  "year": 2012,
+  "type": "other",
+  "outlet": "e-privacy 2012 conference programme (Progetto Winston Smith), Florence",
+  "title": "Programma e-privacy 2012",
+  "url": "https://e-privacy.winstonsmith.org/materiali/2012/Programma_E-Privacy-2012.pdf",
+  "language": "it",
+  "role": "author",
+  "note": "Conference programme PDF listing the talk abstract by 'Fabio Pietrosanti' on Tor hidden services / Tor2web ('I Tor hidden service sono una tecnologia molto flessibile...'). This is the same event as the known atti PDF urna.winstonsmith.org/materiali/2012/atti/Pietrosanti_Tor2web.pdf and the known e-privacy pages, so it may be a duplicate.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_scholarly_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -3726,6 +3852,7 @@
   "verified": true,
   "known": false,
   "_slices": [
+   "pass4_scholarly_2026-09-18",
    "slice3_2012_2015",
    "slice7_academic"
   ],
@@ -4483,6 +4610,23 @@
   "on_old_site": false
  },
  {
+  "date": "2015-04",
+  "year": 2015,
+  "type": "report",
+  "outlet": "Tor hidden-service statistics tech report 2015 (DTIC ADA623038) - IA copy",
+  "title": "Hidden-service statistics tech report (cites Griffith, Pietrosanti, Pellerano 'Making tor2web mode faster')",
+  "url": "https://archive.org/details/DTIC_ADA623038/page/n12",
+  "language": "en",
+  "role": "cited (co-author of Tor proposal 233)",
+  "note": "djvu leaf 12: '[12] Virgil Griffith, Fabio Pietrosanti, and Giovanni Pellerano. Making tor2web mode faster, ... proposals/233-quicken-tor2web-mode.txt'. Also in IA item TorDevelopmentAndDesignPapers. Same report as known research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2015-04-12",
   "year": 2015,
   "type": "talk",
@@ -4710,16 +4854,19 @@
   "date": "2015-04-28",
   "year": 2015,
   "type": "report",
-  "outlet": "Tor Tech Report 2015-04-001 (The Tor Project); also DTIC ADA623038",
-  "title": "Hidden-service statistics reported by relays",
-  "url": "https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf",
+  "outlet": "Defense Technical Information Center (DTIC ADA623038) / Tor Project tech report",
+  "title": "Hidden-service Statistics Reported by Relays",
+  "url": "https://archive.org/details/DTIC_ADA623038",
   "language": "en",
-  "role": "cited",
-  "note": "David Goulet (Tor Project), Aaron Johnson (U.S. Naval Research Laboratory), George Kadianakis, Karsten Loesing (Tor Project). Ref. [12]: 'Virgil Griffith, Fabio Pietrosanti, and Giovanni Pellerano. Making tor2web mode faster' (Tor proposal 233). Same text republished by DTIC as ADA623038 (https://archive.org/details/DTIC_ADA623038).",
+  "role": "cited (co-author of cited paper)",
+  "note": "Authors: G. Kadianakis, K. Loesing (Tor tech report 2015-04-001). Ref [12]: 'Virgil Griffith, Fabio Pietrosanti, and Giovanni Pellerano. Making tor2web mode faster'. The same text is known at research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf; this is the DTIC mirror. The IA compilation 'TorDevelopmentAndDesignPapers' has the same citation.",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
-   "slice7_academic"
+   "pass4_books_2026-09-18"
+  ],
+  "mirrors": [
+   "https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf"
   ],
   "on_old_site": false
  },
@@ -5362,6 +5509,26 @@
  {
   "date": "2017",
   "year": 2017,
+  "type": "thesis",
+  "outlet": "Tampere University of Technology (MSc thesis)",
+  "title": "TorSNIP: Hidden Service Proxy with End-to-End Security",
+  "url": "https://trepo.tuni.fi/handle/123456789/25394",
+  "language": "en",
+  "role": "cited (probable)",
+  "note": "Author: Shoaib Kiyani. The OpenAlex full-text index matches 'Pietrosanti' together with 'Tor2web' and 'GlobaLeaks' (OpenAlex W2952741402). Repository refused connections, so the text was not opened.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_books_2026-09-18"
+  ],
+  "mirrors": [
+   "https://trepo.tuni.fi/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&isAllowed=y"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017",
+  "year": 2017,
   "type": "other",
   "outlet": "Agenda Digitale",
   "title": "Articoli di Fabio Pietrosanti (author page)",
@@ -5545,6 +5712,7 @@
   "verified": true,
   "known": false,
   "_slices": [
+   "pass4_scholarly_2026-09-18",
    "slice7_academic"
   ],
   "on_old_site": false
@@ -5895,23 +6063,6 @@
   "on_old_site": false
  },
  {
-  "date": "2017-11",
-  "year": 2017,
-  "type": "thesis",
-  "outlet": "Tampere University of Technology (Finland), MSc thesis",
-  "title": "TorSNIP: Hidden Service Proxy with End-to-End Security",
-  "url": "https://trepo.tuni.fi/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&isAllowed=y",
-  "language": "en",
-  "role": "cited",
-  "note": "Shoaib Kiyani. OpenAlex full-text index matches both 'Pietrosanti' and 'GlobaLeaks'/'Tor2web' in this thesis (likely a citation of Tor2web/GlobaLeaks work). PDF is behind a bot-check wall, so the exact mention could not be read; Fabio Pietrosanti identity NOT confirmed.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice7_academic"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2017-11-15",
   "year": 2017,
   "type": "report",
@@ -6017,6 +6168,23 @@
  {
   "date": "2018-01",
   "year": 2018,
+  "type": "mentioned",
+  "outlet": "Access Now (event listing), CPDP 2018 Brussels",
+  "title": "Where you can find Access Now at CPDP 2018",
+  "url": "https://www.accessnow.org/can-find-access-now-cpdp-2018/",
+  "language": "en",
+  "role": "panel speaker (Hermes Center)",
+  "note": "Round-table 'Government hacking in different national contexts & strategies for challenging surveillance' (Universite Saint-Louis, Brussels); speakers include 'Fabio Pietrosanti, Hermes Center' alongside Bits of Freedom, La Quadrature du Net, CCC, EFF, R3D.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-01",
+  "year": 2018,
   "type": "talk",
   "outlet": "Privacy Camp 2018 / EDPS-Civil Society Summit (Brussels)",
   "title": "EDPS-Civil Society Summit 2018",
@@ -6045,6 +6213,24 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-02-04",
+  "year": 2018,
+  "type": "other",
+  "outlet": "FOSDEM 2018 talk - IA mirror (collections FOSDEM2018/hackercons)",
+  "title": "Public money, public code, the Italian way: Hacking Italian Administrations to get to the code (in a legal way)",
+  "url": "https://archive.org/details/youtube-KizAo_22FYo",
+  "language": "en",
+  "role": "speaker (with Giovanni Battista Gallus)",
+  "note": "IA metadata: 'by Giovanni Battista Gallus and Fabio Pietrosanti (naif)'. Mirror of known YouTube video KizAo_22FYo / archive.fosdem.org event.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18",
+   "pass4_books_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -6732,6 +6918,115 @@
  {
   "date": "2020",
   "year": 2020,
+  "type": "book",
+  "outlet": "Maureen Webb, Coding Democracy: How Hackers Are Disrupting Power, Surveillance, and Authoritarianism (MIT Press, 2020), IA copy",
+  "title": "Coding Democracy",
+  "url": "https://archive.org/details/codingdemocracyh0000webb",
+  "language": "en",
+  "role": "mentioned (Hermes/GlobaLeaks founder)",
+  "note": "IA FTS snippets: 'Fabio Pietrosanti and Matteo Flora are two of the founders of Hermes'; 'Flora, one of Hermes's founders, along with Fabio Pietrosanti and others'; 'GlobaLeaks was the easiest to use. She worked closely with Fabio Pietrosanti and his colleague Giovanni'. Lending-restricted.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020",
+  "year": 2020,
+  "type": "book",
+  "outlet": "Andrew Fowler, Shooting the Messenger: Criminalising Journalism (Routledge, 2020), IA copy",
+  "title": "Shooting the Messenger",
+  "url": "https://archive.org/details/shootingmessenge0000fowl",
+  "language": "en",
+  "role": "quoted (GlobaLeaks founder)",
+  "note": "IA FTS snippets: 'in a bustling square in the centre of Rome, Fabio Pietrosanti, who conceived the original idea, told me that he created GlobaLeaks to counter...'; '...technology activism and journalism together, Pietrosanti said'; 'When Pietrosanti embarked on the programme in 2010...'. Lending-restricted.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020",
+  "year": 2020,
+  "type": "book",
+  "outlet": "M. Christen, B. Gordijn, M. Loi (eds.), The Ethics of Cybersecurity (Springer, 2020, open access) - IA/OAPEN copy",
+  "title": "The Ethics of Cybersecurity (cites Pietrosanti & Aterno 2017)",
+  "url": "https://archive.org/details/oapen-20.500.12657-47324/page/n225",
+  "language": "en",
+  "role": "cited",
+  "note": "djvu leaf 225: '...deployment of such technologies (e.g. Pietrosanti and Aterno 2017)'; bibliography leaf 235: 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking. boingboing.net'. Same chapter as known link.springer.com 978-3-030-29053-5_10.pdf; also IA copies oapen-20.500.12657-22489 and the_ethics_of_cybersecurity_markuschristen_bertgordijn_micheleloi_2019-20250402_174339.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020",
+  "year": 2020,
+  "type": "book",
+  "outlet": "Palgrave Macmillan (Springer Nature)",
+  "title": "Digital Whistleblowing Platforms in Journalism: Encrypting Leaks",
+  "url": "https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1",
+  "language": "en",
+  "role": "acknowledged",
+  "note": "Author: Philip Di Salvo. Front matter (Acknowledgements) verified: 'Fabio \"Naif\" Pietrosanti and the Hermes Center for Transparency and Digital Human Rights ... have all been crucial' in making the book. Book landing page link.springer.com/book/10.1007/978-3-030-38505-7 already known; this is the verifying front-matter PDF.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_books_2026-09-18"
+  ],
+  "mirrors": [
+   "https://link.springer.com/book/10.1007/978-3-030-38505-7"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020",
+  "year": 2020,
+  "type": "book_chapter",
+  "outlet": "Palgrave Macmillan (Springer Nature)",
+  "title": "A Taxonomy of Whistleblowing Platforms (ch. 5 of Di Salvo, Digital Whistleblowing Platforms in Journalism)",
+  "url": "https://link.springer.com/chapter/10.1007/978-3-030-38505-7_5",
+  "language": "en",
+  "role": "cited",
+  "note": "Author: Philip Di Salvo. Chapter notes, n.1 cites Pietrosanti's Nexa talk slides 'https://nexa.polito.it/nexacenterfiles/mercoledi-73-pietrosanti.pdf'; n.3 says platform data were cross-checked with a member of the Hermes Center. Name appears only in the cited filename. Ch.3 'Whistleblowing Platforms' (..._3) discusses GlobaLeaks/Hermes Center but the public page shows no name.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_books_2026-09-18",
+   "pass4_scholarly_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020",
+  "year": 2020,
+  "type": "book_chapter",
+  "outlet": "Springer, The International Library of Ethics, Law and Technology (The Ethics of Cybersecurity)",
+  "title": "Cybersecurity and the State",
+  "url": "https://link.springer.com/chapter/10.1007/978-3-030-29053-5_10",
+  "language": "en",
+  "role": "cited",
+  "note": "Eva Schlehahn. Text: 'Many states ... allow ... the deployment of such technologies (e.g. Pietrosanti and Aterno 2017)'; reference 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'. Same work as known PDF URL.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_scholarly_2026-09-18"
+  ],
+  "mirrors": [
+   "https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020",
+  "year": 2020,
   "type": "talk",
   "outlet": "The Innovation Group",
   "title": "Fabio Pietrosanti - speaker",
@@ -6747,36 +7042,19 @@
   "on_old_site": false
  },
  {
-  "date": "2020",
+  "date": "2020-01-16",
   "year": 2020,
-  "type": "book",
-  "outlet": "Palgrave Macmillan (Springer Nature), London",
-  "title": "Digital Whistleblowing Platforms in Journalism: Encrypting Leaks",
-  "url": "https://link.springer.com/book/10.1007/978-3-030-38505-7",
-  "language": "en",
-  "role": "acknowledged",
-  "note": "Philip Di Salvo (USI Lugano), based on his PhD research (USI, 2018) on GlobaLeaks/SecureDrop in 15 countries. A web-search snippet (from a text copy of the book) says the acknowledgements credit Fabio 'Naif' Pietrosanti and the Hermes Center with connecting 'many dots' that led to the book. Full text not fetched.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice7_academic"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-02",
-  "year": 2020,
-  "type": "book_chapter",
-  "outlet": "Springer, The International Library of Ethics, Law and Technology vol. 21: 'The Ethics of Cybersecurity' (eds. M. Christen, B. Gordijn, M. Loi), open access",
-  "title": "Cybersecurity and the State",
-  "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf",
-  "language": "en",
-  "role": "cited",
-  "note": "Eva Schlehahn (ULD Schleswig-Holstein), Chapter 10. Cites '(e.g. Pietrosanti and Aterno 2017)' on states allowing surveillance-oriented security technologies; reference: 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'.",
+  "type": "article_by",
+  "outlet": "ParteciPa (Italian government consultation platform) - 'Italia 2025' Strategia per l'innovazione tecnologica e la digitalizzazione del Paese",
+  "title": "Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA",
+  "url": "https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424",
+  "language": "it",
+  "role": "author of policy proposal",
+  "note": "Proposal page shows author 'Fabio Pietrosanti'; date 16/01/2020 found in page markup. Grey literature (public consultation submission).",
   "verified": true,
   "known": false,
   "_slices": [
-   "slice7_academic"
+   "pass4_archive_texts_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -6866,6 +7144,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-05-04",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "Bloomberg Businessweek, 2020-05-04 issue",
+  "title": "Article on the 2019 Pyongyang blockchain/cryptocurrency conference (Businessweek)",
+  "url": "https://archive.org/details/business-week_2020-05-04",
+  "language": "en",
+  "role": "subject (attendee)",
+  "note": "IA full-text (FTS API) snippets: 'including Italian information- security specialist Fabio Pietrosanti. He says the two-day event was strange'; 'Pietrosanti had a more fruitful trip. He'd been looking for cheap technical...'; '[Cao de] Bends helped him set up meetings. Shortly thereafter, Pietrosanti paid EUR 7,100 (about $7,700) for four months of design...'. Item is lending-restricted (text download 403); evidence from IA FTS snippets only; article title not visible.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-06-09",
   "year": 2020,
   "type": "podcast",
@@ -6931,6 +7226,23 @@
   "known": false,
   "_slices": [
    "pass3_google_site_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-10-02",
+  "year": 2020,
+  "type": "newspaper",
+  "outlet": "Il Gazzettino (Friuli ed.)",
+  "title": "Il Gazzettino-Friuli 2020-10-02 (article on 'Open Rousseau')",
+  "url": "https://archive.org/details/GazzettinoFVG2020-10-02",
+  "language": "it",
+  "role": "mentioned",
+  "note": "IA full text verified: 'un gruppo di esperti informatici, Sviluppatori tra cui spicca il nome di Fabio Pietrosanti che oggi faranno debuttare ... \"Open Rousseau\". Un software libero ... basato sulla piattaforma Decidim'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_books_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -7034,6 +7346,23 @@
   "known": false,
   "_slices": [
    "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021",
+  "year": 2021,
+  "type": "book",
+  "outlet": "Ethan Lou, Once a Bitcoin Miner: Scandal and Turmoil in the Cryptocurrency Wild West (ECW Press, 2021), IA copy",
+  "title": "Once a Bitcoin Miner",
+  "url": "https://archive.org/details/oncebitcoinminer0000loue",
+  "language": "en",
+  "role": "mentioned",
+  "note": "IA FTS snippets: 'the Italian information-security specialist Fabio Pietrosanti; and an American living in Singapore, Virgil [Griffith]' (Pyongyang conference attendees); index 'Pietrosanti, Fabio, 109'. Lending-restricted.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -7314,6 +7643,23 @@
   "on_old_site": false
  },
  {
+  "date": "2021-05-27",
+  "year": 2021,
+  "type": "quoted",
+  "outlet": "Privacy International (press release)",
+  "title": "Privacy International and others file legal complaints across Europe against controversial facial recognition company Clearview AI",
+  "url": "https://privacyinternational.org/press-release/4520/privacy-international-and-others-file-legal-complaints-across-europe-against",
+  "language": "en",
+  "role": "quoted as President of the Hermes Center",
+  "note": "Page text: 'Facial recognition technologies threaten our online and offline lives,' said Fabio Pietrosanti, President of the Hermes Center. Same campaign already known via noyb.eu; this PI URL was not in the known list.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2021-05-30",
   "year": 2021,
   "type": "mentioned",
@@ -7362,6 +7708,23 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022",
+  "year": 2022,
+  "type": "book",
+  "outlet": "Raffaello Cortina Editore",
+  "title": "Aggiustare il mondo. La vita, il processo e l'eredità dell'hacker Aaron Swartz",
+  "url": "https://archive.org/details/aggiustare-il-mondo.-la-vita-il-processo-e-leredita-dellhacker-aaron-swartz",
+  "language": "it",
+  "role": "projects mentioned (not named)",
+  "note": "Author: Giovanni Ziccardi. The IA full text describes Tor2web: 'Oggi Tor2web è parte del progetto GlobaLeaks, ed è mantenuto dal Centro Studi Hermes per la Trasparenza ed i Diritti Umani Digitali'. It never names Pietrosanti, so it is only indirect. Publisher assumed from memory, not checked.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_books_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -7986,6 +8349,24 @@
   "on_old_site": false
  },
  {
+  "date": "2022-12-01",
+  "year": 2022,
+  "type": "report",
+  "outlet": "Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022)",
+  "title": "Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)",
+  "url": "https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022",
+  "language": "it",
+  "role": "named petitioner (FOIA / Monitora PA)",
+  "note": "djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_archive_texts_2026-09-18",
+   "pass4_books_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2023-01-16",
   "year": 2023,
   "type": "press_release",
@@ -8101,6 +8482,23 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2024",
+  "year": 2024,
+  "type": "book_chapter",
+  "outlet": "Edward Elgar - Digital Media and Grassroots Anti-Corruption (open access), ch. 7",
+  "title": "Digital whistleblowing platforms for anti-corruption: The Transparency International Italia case",
+  "url": "https://doi.org/10.4337/9781802202106.00015",
+  "language": "en",
+  "role": "interviewed",
+  "note": "Philip Di Salvo. Abstract: case study on the cooperation between TI Italia and the GlobaLeaks team, 'based on qualitative interviews', so it likely names or quotes Pietrosanti. Full-text PDF returned HTTP 403 (elgaronline) and the HTML page shows only the abstract, so his name could not be confirmed. UNVERIFIED candidate.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_scholarly_2026-09-18"
   ],
   "on_old_site": false
  },
