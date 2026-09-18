@@ -1,0 +1,1660 @@
+Il Disinformatico: Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola? 
+
+ PAOLO -->
+
+Il Disinformatico
+
+ Un blog di Paolo Attivissimo, giornalista informatico e cacciatore di bufale 
+
+ Informativa privacy e cookie: Questo blog include cookie di terze parti. Non miei ( dettagli ). 
+
+ Prossimi appuntamenti pubblici: dettagli nel Calendario eventi . 
+
+ Cerca nel blog
+
+ 2022/06/27 
+
+Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola?
+
+ Anche il Garante Privacy italiano, dopo quello austriaco e francese, ha dichiarato che usare Google Analytics va contro la normativa europea GDPR perché raccoglie informazioni personali sui visitatori e le manda negli Stati Uniti (o comunque le rende disponibili alle aziende e alle autorità governative statunitensi perché è un’azienda statunitense, sia pure residente in UE), e gli USA non sono considerati un paese sicuro per la protezione dei dati per via della maggiore facilità di accesso per profilazione commerciale o di sorveglianza politica.
+ Il Garante ha già emesso un primo provvedimento che riguarda una Srl italiana. La questione è raccontata in dettaglio su Punto Informatico , che linka anche i dettagli del provvedimento.
+
+ I siti italiani non in regola sono tantissimi: migliaia già soltanto considerando quelli della pubblica amministrazione, che non si capisce perché debbano appoggiarsi a Google quando esiste un sistema di analytics nazionale e conforme alle norme di protezione dei dati personali ( webanalytics.italia.it ). Ne parla Matteo Flora in questo video, spiegando la tecnica usata da Fabio Pietrosanti per documentare la situazione:
+
+ Sempre Flora affronta la questione insieme a Guido Scorza, che è uno dei componenti del Garante italiano, e insieme a due avvocati, Gianluca Gilardi e Andrea Michinelli, che propongono alcune soluzioni (come Matomo o Piwik Pro, discussi nel secondo video da Gilardi intorno a 32 minuti).
+
+ Il problema è davvero grosso per moltissime aziende e per la pubblica amministrazione, che si troveranno presto costrette a una radicale ristrutturazione dei propri siti, e anche per i privati che gestiscono un sito ospitato da Google, come per esempio questo blog. 
+ Sottolineo che non si tratta di una questione solo italiana: sono coinvolti tutti i garanti europei. Sottolineo inoltre che, come notano gli ospiti di Matteo Flora, non è neanche questione di dove stanno i server. Possono anche essere fisicamente nell’UE, ma se sono intestati a un’azienda statunitense sono comunque disponibili ai governi USA.
+
+ E questo blog come è messo? Ne ho parlato qui a maggio scorso. Da parte mia, come utente di Blogger (che è di Google), credo di aver fatto tutto il possibile per evitare l’uso di Google Analytics. Ho verificato di aver disabilitato Google Analytics in questo blog e in tutti gli altri che gestisco, secondo l’ invito e il comunicato del Garante Privacy italiano del 23 giugno 2022 e le sue linee guida del 10 giugno 2021. L’ho fatto andando nelle Impostazioni del blog, scegliendo la voce ID proprietà di Google Analytics , cliccandovi sopra e verificando che la voce era vuota (lo era probabilmente da parecchio tempo).
+ Ho inoltre disabilitato in tutti i blog che gestisco Google Marketing Platform , andando nelle Impostazioni del blog, scegliendo la voce Abilita file ads.txt personalizzato e disattivandola.
+Se ci sono altre cose che posso fare per ridurre la profilazione fatta da terzi, ditemelo. 
+
+Pubblicazione iniziale:
+
+ 27.6.22 
+
+Labels:
+ Google ,
+ privacy ,
+ profilazione 
+
+ Nessun commento:
+
+ Posta un commento 
+
+ Post più vecchio 
+
+ Home page 
+
+Iscriviti a:
+ Commenti sul post (Atom) 
+
+ Credit: Gianluigi Gatti
+e Francesco Lombardi 
+
+ E-mail: paolo.attivissimo@gmail.com 
+
+ PEC: paolo.attivissimo@pec.net 
+
+ Twitter: @disinformatico 
+
+ Instagram: disinformatico 
+
+ Youtube: Antibufala 
+
+ Telegram: t.me/il_Disinformatico 
+
+ Signal: +41 79 759 8264
+
+ Facebook: ma anche no
+
+ WhatsApp: ma anche no
+
+ LinkedIn: ma anche no
+
+ RSS/Feedly: attivissimo.blogspot.com 
+
+ Biografia e foto / About me 
+
+ FAQ 
+
+ I temi delle mie conferenze 
+
+ Podcast (RSI Rete Tre) 
+
+ Podcast (Radio Inblu) 
+
+ Indagini sull’11/9 
+
+ Complotti Lunari 
+
+ Moonscape (documentario)
+
+ La bufala delle “scie chimiche” 
+
+ Auto elettriche: Fuoriditesla.ch 
+
+ Connessioni 
+
+ Disqus: grassetti, corsivi e altri effetti 
+
+ Commenti: regole e uso 
+
+ Copyright di questo blog 
+
+ Demo per tracciamento pubblicitario 
+
+ Libri
+
+ Luna? Sì, ci siamo andati! 
+
+ Moon Hoax: Debunked! 
+
+ Almanacco dello Spazio 
+
+ Uso avanzato dei motori di ricerca 
+
+ Come diventare detective antibufala (guida commissionata da MIUR e Camera dei Deputati)
+
+ Gli altri miei libri 
+
+ Sostieni il mio lavoro
+
+Questo blog è libero e senza pubblicità grazie alle donazioni dei lettori. Se ti piace, fanne una anche tu : offrimi una birra e una fetta di pizza con Paypal, bitcoin o una ricarica telefonica.
+
+ Appuntamenti pubblici
+
+ Calendario completo degli eventi pubblici 
+
+ Archivio degli eventi pubblici passati 
+
+ Visualizzazioni totali
+
+ Versioni di questo blog
+
+ Per schermi grandi (con barra laterale) 
+
+ Per schermi piccoli 
+
+ Feed RSS
+
+Post
+
+ Atom
+
+Post
+
+Commenti
+
+ Atom
+
+Commenti
+
+ Commenti più recenti
+
+​ Vai alla versione estesa 
+
+ Articoli più popolari
+
+ Giornalismo 2.0: le foto private “hackerate” di Diletta Leotta sono sul sito de La Voce di Napoli 
+
+ Comprare un’auto elettrica da 40.000 euro mi costa meno che tenere l’auto a benzina già pagata. Ecco come 
+
+ Il cinico business delle bufale. Prima parte: Liberogiornale.com 
+
+ Antibufala Classic: fermate quei Golden Retriever! 
+
+ No, da sabato mattina i messaggi di WhatsApp non diventeranno a pagamento 
+
+ Attentato a Nizza, cose da fare e non fare su Internet 
+
+ Antibufala: allarme burundanga, il biglietto da visita che stordisce 
+
+ Come nasce una bufaletta giornalistica: il nome della figlia di Samantha Cristoforetti 
+
+ Antibufala: “Talking Angela” NON è un’app di pedofili 
+
+ Con il Governo Monti gli animali domestici diventano un lusso? Pensare prima di inoltrare lo è già per molti 
+
+ Archivio
+
+ ▼ 
+
+2022
+
+ (165) 
+
+ ▼ 
+
+giugno
+
+ (19) 
+
+ Google Analytics, stop anche dal Garante italiano:... 
+
+ Podcast RSI - Trucchi delle intelligenze artificia... 
+
+ Vasche da bagno a rischio attacco informatico 
+
+ Interpol, duemila arresti per truffe informatiche,... 
+
+ Mettete al sicuro i vostri dati su un disco condiv... 
+
+ Software “senziente”: come sapere se NON lo è 
+
+ Ci vediamo al Tesla Club Italy Revolution a Bologn... 
+
+ Samantha Cristoforetti fa il cosplay di Sandra Bul... 
+
+ La rete di ricarica Tesla (35.000 colonnine) si ap... 
+
+ Podcast RSI - Il software è diventato senziente, s... 
+
+ Domattina finalmente volerò in mongolfiera; dirett... 
+
+ Due anni di guida puramente elettrica; scambio bat... 
+
+ Podcast RSI - Apple Newton, storia di un flop rivo... 
+
+ Podcast RSI - Europol debella il malware FluBot; D... 
+
+ Alexa prega con te, ma solo se la paghi: occhio ag... 
+
+ Attenzione ai documenti Word, una falla di Windows... 
+
+ Il malware FluBot non può più fare danni, Europol ... 
+
+ Ci vediamo a Padova al CicapFest? 
+
+ Antibufala: Salvini e il “sondaggio” sull’educazio... 
+
+ ► 
+
+maggio
+
+ (25) 
+
+ ► 
+
+aprile
+
+ (30) 
+
+ ► 
+
+marzo
+
+ (32) 
+
+ ► 
+
+febbraio
+
+ (31) 
+
+ ► 
+
+gennaio
+
+ (28) 
+
+ ► 
+
+2021
+
+ (398) 
+
+ ► 
+
+dicembre
+
+ (29) 
+
+ ► 
+
+novembre
+
+ (21) 
+
+ ► 
+
+ottobre
+
+ (39) 
+
+ ► 
+
+settembre
+
+ (38) 
+
+ ► 
+
+agosto
+
+ (24) 
+
+ ► 
+
+luglio
+
+ (23) 
+
+ ► 
+
+giugno
+
+ (38) 
+
+ ► 
+
+maggio
+
+ (35) 
+
+ ► 
+
+aprile
+
+ (43) 
+
+ ► 
+
+marzo
+
+ (24) 
+
+ ► 
+
+febbraio
+
+ (41) 
+
+ ► 
+
+gennaio
+
+ (43) 
+
+ ► 
+
+2020
+
+ (500) 
+
+ ► 
+
+dicembre
+
+ (37) 
+
+ ► 
+
+novembre
+
+ (50) 
+
+ ► 
+
+ottobre
+
+ (29) 
+
+ ► 
+
+settembre
+
+ (25) 
+
+ ► 
+
+agosto
+
+ (36) 
+
+ ► 
+
+luglio
+
+ (41) 
+
+ ► 
+
+giugno
+
+ (49) 
+
+ ► 
+
+maggio
+
+ (54) 
+
+ ► 
+
+aprile
+
+ (54) 
+
+ ► 
+
+marzo
+
+ (56) 
+
+ ► 
+
+febbraio
+
+ (33) 
+
+ ► 
+
+gennaio
+
+ (36) 
+
+ ► 
+
+2019
+
+ (527) 
+
+ ► 
+
+dicembre
+
+ (41) 
+
+ ► 
+
+novembre
+
+ (36) 
+
+ ► 
+
+ottobre
+
+ (40) 
+
+ ► 
+
+settembre
+
+ (48) 
+
+ ► 
+
+agosto
+
+ (45) 
+
+ ► 
+
+luglio
+
+ (51) 
+
+ ► 
+
+giugno
+
+ (45) 
+
+ ► 
+
+maggio
+
+ (40) 
+
+ ► 
+
+aprile
+
+ (53) 
+
+ ► 
+
+marzo
+
+ (39) 
+
+ ► 
+
+febbraio
+
+ (35) 
+
+ ► 
+
+gennaio
+
+ (54) 
+
+ ► 
+
+2018
+
+ (486) 
+
+ ► 
+
+dicembre
+
+ (42) 
+
+ ► 
+
+novembre
+
+ (42) 
+
+ ► 
+
+ottobre
+
+ (45) 
+
+ ► 
+
+settembre
+
+ (42) 
+
+ ► 
+
+agosto
+
+ (23) 
+
+ ► 
+
+luglio
+
+ (47) 
+
+ ► 
+
+giugno
+
+ (48) 
+
+ ► 
+
+maggio
+
+ (43) 
+
+ ► 
+
+aprile
+
+ (33) 
+
+ ► 
+
+marzo
+
+ (47) 
+
+ ► 
+
+febbraio
+
+ (39) 
+
+ ► 
+
+gennaio
+
+ (35) 
+
+ ► 
+
+2017
+
+ (448) 
+
+ ► 
+
+dicembre
+
+ (34) 
+
+ ► 
+
+novembre
+
+ (42) 
+
+ ► 
+
+ottobre
+
+ (39) 
+
+ ► 
+
+settembre
+
+ (35) 
+
+ ► 
+
+agosto
+
+ (19) 
+
+ ► 
+
+luglio
+
+ (47) 
+
+ ► 
+
+giugno
+
+ (44) 
+
+ ► 
+
+maggio
+
+ (33) 
+
+ ► 
+
+aprile
+
+ (31) 
+
+ ► 
+
+marzo
+
+ (41) 
+
+ ► 
+
+febbraio
+
+ (32) 
+
+ ► 
+
+gennaio
+
+ (51) 
+
+ ► 
+
+2016
+
+ (526) 
+
+ ► 
+
+dicembre
+
+ (46) 
+
+ ► 
+
+novembre
+
+ (35) 
+
+ ► 
+
+ottobre
+
+ (43) 
+
+ ► 
+
+settembre
+
+ (54) 
+
+ ► 
+
+agosto
+
+ (41) 
+
+ ► 
+
+luglio
+
+ (38) 
+
+ ► 
+
+giugno
+
+ (41) 
+
+ ► 
+
+maggio
+
+ (42) 
+
+ ► 
+
+aprile
+
+ (43) 
+
+ ► 
+
+marzo
+
+ (44) 
+
+ ► 
+
+febbraio
+
+ (36) 
+
+ ► 
+
+gennaio
+
+ (63) 
+
+ ► 
+
+2015
+
+ (586) 
+
+ ► 
+
+dicembre
+
+ (48) 
+
+ ► 
+
+novembre
+
+ (46) 
+
+ ► 
+
+ottobre
+
+ (54) 
+
+ ► 
+
+settembre
+
+ (64) 
+
+ ► 
+
+agosto
+
+ (28) 
+
+ ► 
+
+luglio
+
+ (56) 
+
+ ► 
+
+giugno
+
+ (38) 
+
+ ► 
+
+maggio
+
+ (45) 
+
+ ► 
+
+aprile
+
+ (54) 
+
+ ► 
+
+marzo
+
+ (51) 
+
+ ► 
+
+febbraio
+
+ (49) 
+
+ ► 
+
+gennaio
+
+ (53) 
+
+ ► 
+
+2014
+
+ (556) 
+
+ ► 
+
+dicembre
+
+ (46) 
+
+ ► 
+
+novembre
+
+ (47) 
+
+ ► 
+
+ottobre
+
+ (56) 
+
+ ► 
+
+settembre
+
+ (56) 
+
+ ► 
+
+agosto
+
+ (41) 
+
+ ► 
+
+luglio
+
+ (54) 
+
+ ► 
+
+giugno
+
+ (56) 
+
+ ► 
+
+maggio
+
+ (34) 
+
+ ► 
+
+aprile
+
+ (44) 
+
+ ► 
+
+marzo
+
+ (36) 
+
+ ► 
+
+febbraio
+
+ (38) 
+
+ ► 
+
+gennaio
+
+ (48) 
+
+ ► 
+
+2013
+
+ (541) 
+
+ ► 
+
+dicembre
+
+ (55) 
+
+ ► 
+
+novembre
+
+ (59) 
+
+ ► 
+
+ottobre
+
+ (37) 
+
+ ► 
+
+settembre
+
+ (39) 
+
+ ► 
+
+agosto
+
+ (50) 
+
+ ► 
+
+luglio
+
+ (49) 
+
+ ► 
+
+giugno
+
+ (31) 
+
+ ► 
+
+maggio
+
+ (43) 
+
+ ► 
+
+aprile
+
+ (51) 
+
+ ► 
+
+marzo
+
+ (34) 
+
+ ► 
+
+febbraio
+
+ (54) 
+
+ ► 
+
+gennaio
+
+ (39) 
+
+ ► 
+
+2012
+
+ (290) 
+
+ ► 
+
+dicembre
+
+ (25) 
+
+ ► 
+
+novembre
+
+ (22) 
+
+ ► 
+
+ottobre
+
+ (11) 
+
+ ► 
+
+settembre
+
+ (26) 
+
+ ► 
+
+agosto
+
+ (27) 
+
+ ► 
+
+luglio
+
+ (21) 
+
+ ► 
+
+giugno
+
+ (20) 
+
+ ► 
+
+maggio
+
+ (27) 
+
+ ► 
+
+aprile
+
+ (20) 
+
+ ► 
+
+marzo
+
+ (22) 
+
+ ► 
+
+febbraio
+
+ (31) 
+
+ ► 
+
+gennaio
+
+ (38) 
+
+ ► 
+
+2011
+
+ (374) 
+
+ ► 
+
+dicembre
+
+ (22) 
+
+ ► 
+
+novembre
+
+ (32) 
+
+ ► 
+
+ottobre
+
+ (31) 
+
+ ► 
+
+settembre
+
+ (32) 
+
+ ► 
+
+agosto
+
+ (26) 
+
+ ► 
+
+luglio
+
+ (25) 
+
+ ► 
+
+giugno
+
+ (39) 
+
+ ► 
+
+maggio
+
+ (31) 
+
+ ► 
+
+aprile
+
+ (30) 
+
+ ► 
+
+marzo
+
+ (26) 
+
+ ► 
+
+febbraio
+
+ (28) 
+
+ ► 
+
+gennaio
+
+ (52) 
+
+ ► 
+
+2010
+
+ (476) 
+
+ ► 
+
+dicembre
+
+ (24) 
+
+ ► 
+
+novembre
+
+ (36) 
+
+ ► 
+
+ottobre
+
+ (31) 
+
+ ► 
+
+settembre
+
+ (44) 
+
+ ► 
+
+agosto
+
+ (27) 
+
+ ► 
+
+luglio
+
+ (51) 
+
+ ► 
+
+giugno
+
+ (62) 
+
+ ► 
+
+maggio
+
+ (42) 
+
+ ► 
+
+aprile
+
+ (45) 
+
+ ► 
+
+marzo
+
+ (41) 
+
+ ► 
+
+febbraio
+
+ (33) 
+
+ ► 
+
+gennaio
+
+ (40) 
+
+ ► 
+
+2009
+
+ (466) 
+
+ ► 
+
+dicembre
+
+ (40) 
+
+ ► 
+
+novembre
+
+ (37) 
+
+ ► 
+
+ottobre
+
+ (35) 
+
+ ► 
+
+settembre
+
+ (36) 
+
+ ► 
+
+agosto
+
+ (27) 
+
+ ► 
+
+luglio
+
+ (42) 
+
+ ► 
+
+giugno
+
+ (41) 
+
+ ► 
+
+maggio
+
+ (39) 
+
+ ► 
+
+aprile
+
+ (50) 
+
+ ► 
+
+marzo
+
+ (40) 
+
+ ► 
+
+febbraio
+
+ (34) 
+
+ ► 
+
+gennaio
+
+ (45) 
+
+ ► 
+
+2008
+
+ (387) 
+
+ ► 
+
+dicembre
+
+ (34) 
+
+ ► 
+
+novembre
+
+ (47) 
+
+ ► 
+
+ottobre
+
+ (30) 
+
+ ► 
+
+settembre
+
+ (43) 
+
+ ► 
+
+agosto
+
+ (19) 
+
+ ► 
+
+luglio
+
+ (33) 
+
+ ► 
+
+giugno
+
+ (25) 
+
+ ► 
+
+maggio
+
+ (27) 
+
+ ► 
+
+aprile
+
+ (30) 
+
+ ► 
+
+marzo
+
+ (26) 
+
+ ► 
+
+febbraio
+
+ (33) 
+
+ ► 
+
+gennaio
+
+ (40) 
+
+ ► 
+
+2007
+
+ (317) 
+
+ ► 
+
+dicembre
+
+ (18) 
+
+ ► 
+
+novembre
+
+ (29) 
+
+ ► 
+
+ottobre
+
+ (32) 
+
+ ► 
+
+settembre
+
+ (25) 
+
+ ► 
+
+agosto
+
+ (24) 
+
+ ► 
+
+luglio
+
+ (39) 
+
+ ► 
+
+giugno
+
+ (36) 
+
+ ► 
+
+maggio
+
+ (27) 
+
+ ► 
+
+aprile
+
+ (18) 
+
+ ► 
+
+marzo
+
+ (28) 
+
+ ► 
+
+febbraio
+
+ (20) 
+
+ ► 
+
+gennaio
+
+ (21) 
+
+ ► 
+
+2006
+
+ (298) 
+
+ ► 
+
+dicembre
+
+ (14) 
+
+ ► 
+
+novembre
+
+ (24) 
+
+ ► 
+
+ottobre
+
+ (18) 
+
+ ► 
+
+settembre
+
+ (16) 
+
+ ► 
+
+agosto
+
+ (9) 
+
+ ► 
+
+luglio
+
+ (18) 
+
+ ► 
+
+giugno
+
+ (24) 
+
+ ► 
+
+maggio
+
+ (34) 
+
+ ► 
+
+aprile
+
+ (36) 
+
+ ► 
+
+marzo
+
+ (35) 
+
+ ► 
+
+febbraio
+
+ (36) 
+
+ ► 
+
+gennaio
+
+ (34) 
+
+ ► 
+
+2005
+
+ (589) 
+
+ ► 
+
+dicembre
+
+ (18) 
+
+ ► 
+
+novembre
+
+ (7) 
+
+ ► 
+
+ottobre
+
+ (35) 
+
+ ► 
+
+settembre
+
+ (25) 
+
+ ► 
+
+agosto
+
+ (45) 
+
+ ► 
+
+luglio
+
+ (42) 
+
+ ► 
+
+giugno
+
+ (64) 
+
+ ► 
+
+maggio
+
+ (77) 
+
+ ► 
+
+aprile
+
+ (102) 
+
+ ► 
+
+marzo
+
+ (99) 
+
+ ► 
+
+febbraio
+
+ (50) 
+
+ ► 
+
+gennaio
+
+ (25) 
+
+ ► 
+
+2004
+
+ (109) 
+
+ ► 
+
+dicembre
+
+ (3) 
+
+ ► 
+
+novembre
+
+ (7) 
+
+ ► 
+
+ottobre
+
+ (21) 
+
+ ► 
+
+settembre
+
+ (25) 
+
+ ► 
+
+agosto
+
+ (6) 
+
+ ► 
+
+luglio
+
+ (35) 
+
+ ► 
+
+giugno
+
+ (11) 
+
+ ► 
+
+febbraio
+
+ (1) 
+
+ ► 
+
+2003
+
+ (8) 
+
+ ► 
+
+marzo
+
+ (1) 
+
+ ► 
+
+gennaio
+
+ (7) 
+
+Powered by Blogger .

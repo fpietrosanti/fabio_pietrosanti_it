@@ -1,0 +1,132 @@
+Inside SS7, the Insecure Global Cell Network That's Used to Track Phones 
+
+ Sign In Create Account 
+
+ + English
+
+ Video 
+ The 19th In 2020 
+ The 8:46 Project 
+ News 
+ Tech 
+ Music 
+ Food 
+ Health 
+ Money 
+ Drugs 
+ Election 2020 
+ Identity 
+ Games 
+ Entertainment 
+ Environment 
+ Travel 
+ Horoscopes 
+ Sex 
+ VICE Magazine 
+
+ Sign In Create Account 
+
+ Video 
+ The 19th In 2020 
+ TV 
+ Podcasts 
+ Shop 
+ Apps 
+ VICE Voices 
+
+ The 8:46 Project 
+ News 
+ Tech 
+ Music 
+ Food 
+ Health 
+ Money 
+ Drugs 
+ Election 2020 
+ Identity 
+ Games 
+ Entertainment 
+ Environment 
+ Travel 
+ Horoscopes 
+ Sex 
+ VICE Magazine 
+
+ About 
+ Jobs 
+ Partner 
+ VICE Voices 
+ Content Funding on VICE 
+ Security Policy 
+ Privacy & Terms 
+
+ © 2020 VICE MEDIA GROUP
+
+ FYI. 
+ This story is over 5 years old. 
+
+ Inside SS7, the Insecure Global Cell Network That's Used to Track Phones
+
+ In order to deliver calls and texts while you’re on the move, the network keeps track of your location, and this feature can be used against you.
+ by Matthew Braga 
+
+ August 27, 2014, 9:00am
+ Share 
+ Tweet 
+ Snap 
+
+ Image:  Michael Edge-Perkins/Flickr 
+
+ Sitting just below the world's cellular networks is another, hidden network—one that, among other things, makes it possible for you to roam between cell towers, carriers and countries with ease.
+ But in order to deliver calls and texts while you're on the move, the network keeps track of your location too. And it shouldn't come as a surprise that this feature can be used against you.
+ The vulnerability of this network, known as Signaling System #7 , isn't news to security researchers. A German engineer named Tobias Engel first publicized the potential abuse of SS7's location-tracking abilities at a Chaos Computer Club conference in 2008 , and commercial services now offer tools that can query SS7 for the rough location of a cellphone or cellular-capable device from almost anywhere in the world.
+
+ While intelligence agencies have been shown to possess similar capabilities now for years , commercially available surveillance software used to perform such queries is becoming more accessible, and more precise, according to a recent report in the Washington Post , for anyone willing to pay.
+ Despite the ominous sounding name, SS7 is really just a bunch of network protocols "used by most telecommunications operators throughout the world to talk to each other," according to Engel's presentation. SS7 handles all of the basic routing and connecting functions that happen behind the scenes when you send a message or make a call. SS7 is also what reconnects you to your carriers' network when you move between cell towers, and passes roaming fees back to your home network when you travel abroad.
+
+ Screenshot from the leaked Verint Skyjack report highlighting its ability to trace someone using the SS7 network. Image: Washington Post
+
+ Location data—knowing where you are, and where you're from—is baked into the very nature of how the system works. Any time you send or receive a message, make a call, switch cell towers, or access the internet, your device announces where you are, and the network takes note. This isn't something you can disable or turn off in your phone's settings, for example. It's all happening on a network level behind the scenes.
+ In the past, only a few, large network operators were allowed to query this data. But in recent years, the definition of a network operator has changed—to the point where, today, according to Engel, practically anyone can become an operator. Upstart cellular carriers, VoIP providers, and third-party SMS services that piggyback on the global cellular network all have access to SS7 now, and they can share that access with others.
+
+ One of those "others" is a surveillance and security software provider called Verint Systems Inc. The Washington Post  obtained a 2013 brochure on the company's SkyLock product , which is described as "a cost-effective, new approach to obtaining global location information concerning known targets."
+ If you feed SkyLock a phone number, it will query the SS7 network and tell you where that device is located
+ According to Verint, SkyLock could just as easily be used for law enforcement to track suspected terrorists or criminals as it could be used to search for survivors of a natural disaster. But the ongoing manner in which SkyLock can monitor targets beyond a mere one-time lookup demonstrates just how far the use and abuse of SS7 queries has progressed.
+ In Engel's initial presentation in 2008, he was able to easily identify the country code and city in which a device was located. But Verint now boasts of tracking subscribers on a  cell ID level—in other words, down to the cell tower which a device is connected to—and can continue to track and monitor the movement and status of one or more devices over time.
+ If you feed SkyLock a phone number, or the international mobile subscriber identity number (IMSI) of a device, it will query the SS7 network and tell you where that device is located, and in some cases, where it's recently been.
+ It's worth noting that this cell tower data isn't returned in the form of easily digestible coordinates or GPS data. Rather, Verint relies on a combination of open and closed source databases of cell tower locations that are matched against a target's cell ID.
+
+ Verint even suggests using this information in conjunction with Verint's on-the-ground IMSI catching hardware, which can further pinpoint the near-exact location of a target device by either masquerading as a legitimate cell tower, or passively sniffing the traffic to and from a cell tower nearby.
+ There are, of course, caveats. SS7 isn't a "flat" network like the internet, explains Fabio Pietrosanti , a mobile security expert and privacy activist with the Hermes Center for Transparency and Digital Human Rights.
+ Whereas on the internet you can generally expect that you can reach Motherboard's site from anywhere in the world, the SS7 network consists largely of bi-lateral agreements and relationships between carriers where not every carrier may necessarily have a route to another. (This is also part of the reason why roaming rates between carriers differ.)
+ "Understand that the probability that, with an SS7 link to operator-A, you will be able to locate operator-B is totally random, because it depends on how, contractually and technically, the operator-A and operator-B are interconnected," Pietrosanti wrote in an email.
+
+ Screenshot from the leaked Verint report showing a variety of claimed capabilities for the Skyjack software. Image: Washington Post
+
+ In other words, Verint can't just connect to the SS7 network from one location and reach every carrier across the globe. Instead, Verint relies in part on "the installation of an SS7 local hub at a telecom operator" by Verint or one of its partners for more precise tracking, and maintains many of these hubs distributed worldwide.
+ Overall, the company claims in its brochure a success rate of locating targets of at least 70 percent. (However, Verint will not present the location of Israeli subscribers in Israel, or any US subscribers at home or abroad.)
+
+ Pietrosanti believes the companies such as Verint aren't using illegitimate means to gain unauthorized access to SS7. It's more likely that Verint is simply being not fully forthcoming about how it's using shared SS7 connection points, or collaborating with countries, governments, and telecom operators who are willing to turn a blind eye.
+ "I expect that the operators being (ab)used by Verint don't know about it," Pietrosanti wrote.
+ He said he's "100 percent confident" that if a major operator detected one of its SS7 connection points with other carriers was being used for cell-tower tracking, they would be disconnected and possibly even sued. That's probably part of the reason why Verint, in the brochure  obtained by the Washington Post , boasts of "a series of protective layers which are used to completely hide and mask the tracking process"—shielding both Verint and its customers from detection.
+ An obvious question is how some of the world's biggest telecom carriers have allowed this sort of behavior to continue for so long—and, to be fair, not all of them have. Similar to IP-based networks, there exist SS7 firewalls that can protect carrier networks from SMS spam and unauthorized location-lookups, according to Pietrosanti.
+ But these are hardly foolproof, and  researchers have demonstrated that SS7 firewalls can be defeated . They also don't address the underlying problem with SS7: security and authentication were never really built into the SS7 network from the start, and much of the network remains inherently vulnerable to abuse.
+ Basically, for all our efforts at limiting the apps and services we allow to broadcast our location, it's ultimately up to the network operators to keep our locations secure.
+
+ Tagged: Tech Motherboard SURVEILLANCE privacy security location tracking motherboard show State of Surveillance SS7 Skyjack Verint cell tracking 
+
+ Get a personalized roundup of VICE's best stories in your inbox.
+
+ Subscribe By signing up to the VICE newsletter you agree to receive electronic communications from VICE that may sometimes include advertisements or sponsored content.
+
+ Advertisement
+
+ About 
+ Jobs 
+ Partner 
+ VICE Voices 
+ Content Funding on VICE 
+ Security Policy 
+ Privacy & Terms 
+
+ © 2020 VICE MEDIA GROUP

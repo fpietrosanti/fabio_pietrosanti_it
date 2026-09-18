@@ -1,0 +1,11 @@
+{
+ "source_url": "https://seclists.org/vuln-dev/2000/Nov/82",
+ "fetched_url": "https://web.archive.org/web/20130810022412id_/http://seclists.org/vuln-dev/2000/Nov/82",
+ "method": "wayback",
+ "capture": "20130810022412",
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 14695,
+ "sha256": "e22f6dffbbf326421bd8711bdd05c63707bf151934df38b0ec8013788096507f",
+ "name_found": true,
+ "fetched_at": "2026-09-17T08:59:39+00:00"
+}

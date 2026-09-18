@@ -1,0 +1,303 @@
+Tante aziende e poche regole: il Far West della sorveglianza digitale - Repubblica.it 
+
+ Repubblica.it 
+
+ Sicurezza 
+
+ Navigazione principale
+
+ Home 
+
+ News 
+
+ Mobile 
+
+ Social Network 
+
+ Sicurezza 
+
+ Prodotti 
+
+ Interattivi 
+
+ Video 
+
+ Tante aziende e poche regole: il Far West della sorveglianza digitale
+
+ (ansa) 
+
+ È un affare che sposta milioni di dollari. Un vaso di Pandora scoperchiato dal caso Hacking Team. Con tre caratteristiche principali: è quasi privo di regole; il confine tra legale e illegale si sposta di continuo; ci sono molteplici attori. Ecco cosa abbiamo scoperto
+
+ di ROSITA RIJTANO 
+
+ 16 luglio 2015 
+
+ Articoli Correlati
+
+ precedente 
+ successivo 
+
+ Spychatter, l'app che "nasconde" i file in giro per la 
+
+ "L'Fbi spiava la rete criptata Tor": la scoperta nei file 
+
+ SCANDALO HACKING TEAM 
+
+ Hacking Team, i sei ex dipendenti "infedeli" indagati 
+
+ Il programmatore che fa ammattire l'Fbi. Da un isolotto 
+
+ Notifiche 
+
+ CIMICI, sistemi di localizzazione, telecamere nascoste. E poi virus per pc e telefoni. Strumenti diversi, con un unico comune denominatore: sono usati per sorvegliarci. Possono essere venduti ad agenzie di spionaggio private, ad aziende, o a delle singole persone. Ma trovano nelle forze dell'ordine il loro acquirente principale .
+
+Nel mondo, l'intelligence è un affare che sposta milioni di dollari. Un vaso di Pandora scoperchiato dal caso Hacking Team . Con tre caratteristiche principali: è quasi del tutto privo di regole; il confine tra legale e illegale si sposta di continuo; ci sono molteplici attori, spesso sconosciuti. Tanto per cominciare le imprese che producono strumenti per le intercettazioni ordinarie: microspie ambientali o apparecchi per ascoltare le telefonate. Poi si passa alle società che si occupano della rivendita dei prodotti. E quelle che, invece, mettono a punto tecnologie più evolute. Come i captatori informatici (spyware), cioè dei software in grado di infilarsi nei nostri computer o nei nostri smartphone e capaci di monitorare tutte le nostre attività. Dalle chiamate ai messaggi, passando per gli spostamenti. Senza che l'interessato ne sia a conoscenza. O ancora: c'è chi fornisce le vulnerabilità informatiche grazie a cui i sistemi spia vengono immessi nei dispositivi delle vittime. Ad esempio, le debolezze del lettore video Adobe Flash , saltate fuori dopo la diffusione del materiale sottratto all'azienda milanese. In quest'ultimo caso, i venditori possono essere dei cacciatori di bug, con i cosiddetti broker che fanno da intermediari tra chi scopre i punti attaccabili dai cracker e chi li acquista, o delle società organizzate. Come le statunitensi Exodus Intelligence e Endgame Systems , la  francese VUPEN , e l'italiana (con sede a Malta) ReVuln di Luigi Auriemma e Donato Ferrante . Listino prezzi: tra i 30 e i 50mila euro per un solo bug, riporta La Stampa. .
+
+ Ecco chi sono . In Italia i produttori di sistemi di intercettazioni ordinarie sono tantissimi. Un risultato diretto dell'assenza di regole. "Per acquistare le tecnologie che sono necessarie nelle attività investigative, sia procure sia tribunali hanno da sempre carta bianca: possono comprare da chi vogliono. Tutto ciò ha portato alla nascita di tante piccole società che fanno questo tipo di prodotti", spiega Fabio Pietrosanti , cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali .  A volte, si tratta delle stesse aziende che sviluppano software di Parental control, cioè quelli che servono ai genitori per monitorare i propri figli, e che vengono riadatti per scopi diversi. O persino di piccoli artigiani informatici. "È un settore dove la singola funzionalità non richiede grandi competenze tecnologiche", prosegue Pietrosanti. "Perciò ci sono tante imprese di dimensioni medie". Un ecosistema così ampio che è impossibile tenerne traccia. Ma due grandi imprese da menzionare sono RCS Lab (produttrice anche di spyware) che dal 1993 opera nel mercato mondiale; e AREA, attiva da dieci anni, che ha fatto delle sonde voce il suo gioiello di punta. "AREA", si legge sul sito ufficiale della compagnia, "sviluppa e vende sistemi di monitoraggio per attività di controllo legali. Le nostre soluzioni integrate consentono alle forze dell'ordine, ai governi e alle intelligence militari di: catturare, registrare, ascoltare, tracciare, analizzare e decifrare".
+
+Se ci spostiamo sul versante software, invece, il numero di produttori si riduce. Hacking Team ha conquistato i riflettori. Con clienti nazionali e internazionali. Ma non è la sola ad occuparsi di spyware. Sembra che Te4i , fondata dall'italiano Aurelio Pascalucci e poi confluita nell'israeliana Verint , abbia avuto un rapporto privilegiato con l'ex Sisde. Mentre pare che i prodotti di RCS Lab siano stati creati usando i codici sorgente sviluppati dall'azienda di via Moscova. Poi ci sono IPS intelligence con sede legale a Latina. E Wedjaa che produce un sistema di intercettazioni per Android e iOS capace di interessare lo staff di David Vincenzetti . "Se riusciamo a mettere le mani su quell'app... la si potrebbe studiare", si legge nelle email della società pubblicate da Wikileaks . Curiosità: la maggior parte di queste aziende non vende la propria tecnologia. Bensì l'affitta. In modo da far pagare un abbonamento quotidiano per ogni persona intercettata. "Un target può costare tra i 50 e i 200 euro al giorno", ci racconta una fonte che lavorava nel settore e preferisce mantenere l'anonimato. "Di solito ogni procura affitta 20 captatori informatici al mese, anche se non tutti sono accesi contemporaneamente. Per un guadagno medio di 700mila euro in sei mesi".  Ma che cosa possono fare questi virus spia? "Possono entrare nel tuo cellulare o nel tuo computer, leggere file, email, ascoltare conversazioni, controllare la fotocamera, fare screenshot". Di tutto.
+
+ I nodi da sciogliere . Un capitolo a parte merita la questione dei problemi sollevati da questo tipo di sorveglianza. "Prima di tutto il potere che le aziende hanno sulle informazioni che vengono raccolte", dice Pietrosanti. E anche se non sempre le società hanno accesso ai dati collezionati, la cronaca insegna che le violazioni sono possibili. Nel 2013, RCS finì sotto accusa perché il titolare dell'azienda, Roberto Raffaelli , aveva messo a disposizione di Silvio Berlusconi un'intercettazione tra Piero Fassino e Giovanni Consorte , ex presidente di Unipol. Con l'obiettivo di ottenere la "protezione" del Cavaliere per un affare in Romania. Non solo. Più di dieci anni fa è stata la volta della svizzera Crypto AG , finita al centro di uno scandalo perché la Nsa era riuscita a mettere delle backdoor nei suoi prodotti di crittografia. E a spiare i suoi clienti, tra cui l'Iran. Mentre Israele ha tenuto d'occhio Olanda e Stati Uniti grazie ai sistemi venduti dalla nazionale Verint. Un altro problema riguarda il controllo delle esportazioni di questo genere di prodotti: se possono essere considerati delle tecnologie dual use (cioè sfruttabili sia in ambito civile che per la sicurezza statale) e, quindi, ricadere nella disciplina prevista dal Wassenaar Arrangement che  presuppone un'autorizzazione preventiva da parte del Ministero dello Sviluppo Economico. Un vuoto normativo che ha permesso ad Hacking Team di fornire il proprio software spia anche a regimi non democratici o non proprio trasparenti . Dal Sudan al Bahrein, passando per Polizia investigativa cilena e quella nazionale d'intelligence colombiana. Lo stesso è accaduto per i prodotti della tedesca FinFisher , parte di Gamma International , usati dalle autorità messicane contro i dissidenti. E prima ancora per AREA che aveva preparato un sistema di intercettazione per conto del regime siriano di Assad. Conclude Pietrosanti: "Un ultimo nodo riguarda il fatto che mancano delle regole per l'uso di questi software da parte delle autorità. Per cui viene meno ogni garanzia. Mentre ogni altro tipo di intercettazione, dall'ambientale alla telefonica, è disciplinata con delle norme molto precise". Dell'esigenza di regole chiare, trasparenti e di diritti n e ha parlato anche David Kaye , special rapporteur dell'Onu, in un'intervista a Repubblica . Ma Claudio Guarnieri , tra gli autori dei report del laboratorio Citizen Lab che per primi denunciarono le relazioni torbide di Hacking Team e FinFisher, avverte: "Queste tecnologie sono lo strumento investigativo più invasivo concepibile. La legittimizzazione indiscriminata di questo genere di sorveglianza è pericolosa".
+
+ Tags
+
+ Argomenti: 
+ hacking team 
+ sorveglianza 
+ intercettazioni 
+ malware 
+ spyware 
+ hacker 
+ privacy 
+ Exodus Intelligence 
+ Endgame Systems 
+ VUPEN 
+ ReVuln 
+ RCS Lab 
+ Area 
+ Te4i 
+ Verint 
+ IPS intelligence 
+ Wedjaa 
+ WikiLeaks 
+ Crypto AG 
+ FinFisher 
+ Gamma International 
+
+ Protagonisti: 
+ luigi auriemma 
+ donato ferrante 
+ Fabio Pietrosanti 
+ Aurelio Pascalucci 
+ David Vincenzetti 
+ Roberto Raffaelli 
+ Silvio Berlusconi 
+ piero fassino 
+ Giovanni Consorte 
+ David Kaye 
+ Claudio Guarnieri 
+
+ © Riproduzione riservata 
+ 16 luglio 2015 
+
+ Articoli Correlati
+
+ precedente 
+ successivo 
+
+ Spychatter, l'app che "nasconde" i file in giro per la 
+
+ "L'Fbi spiava la rete criptata Tor": la scoperta nei file 
+
+ SCANDALO HACKING TEAM 
+
+ Hacking Team, i sei ex dipendenti "infedeli" indagati 
+
+ Il programmatore che fa ammattire l'Fbi. Da un isolotto 
+
+ I più letti 
+
+ I più condivisi 
+
+ Eurosummit, accordo fatto sul terzo piano per la Grecia. La parola ad Atene, ma Syriza si spacca 
+
+ L'ultimatum dell'Eurogruppo a Tsipras: riforme in tre giorni e cessione della sovranità o Grexit 
+
+ Grecia, l'Fmi: "Taglio debito o non approviamo il piano" 
+
+ Habermas: "La Merkel in una notte si è giocata la reputazione della Germania costruita nel Dopoguerra" 
+
+ Plutone, cartoline dallo spazio profondo: cosa scopriremo dal viaggio della New Horizons 
+
+ Piano Atene, Eurogruppo vuole riforme in 7 giorni. Berlino non esclude Grexit per 5 anni 
+
+ Scheda: l'accordo tra la Grecia e i creditori. Grafica: le tappe 
+
+ Grecia, partito alleato Tsipras non voterà accordo. Sinistra di Syriza valuta pollice verso 
+
+ La vera tragedia europea è la Germania 
+
+ Dante, il pappagallo cantante che parla il dialetto salentino 
+
+ Merkel: 'Non potete venire tutti qui'. E la bimba palestinese scoppia in lacrime 
+
+ Merkel spiega Bambi alla bambina palestinese: la parodia dei The Jackal 
+
+ Umbria. Castelluccio. E' l'ora del blu 
+
+ Australia in bianco: la più grande nevicata degli ultimi 30 anni 
+
+ Habermas: "La Merkel in una notte si è giocata la reputazione della Germania costruita nel Dopoguerra" 
+
+ Il medico di Crocetta al telefono: la Borsellino va fatta fuori come suo padre. Ira del governatore che si autosospende 
+
+ Il mio libro / e-book
+
+ ilmiolibro 
+
+ ebook 
+
+ Top Ebook 
+ Diversamente labili 
+ di Lauretta Chiarini 
+
+ Pubblicare un libro 
+
+ Fiabe, Fumetti, Fantascienza, Fantasy: il concorso 
+
+ Concorso narrativa 
+
+ Concorso saggistica 
+
+ ilmiolibro 
+
+ Top Ebook 
+ Scrivere un best-seller 
+ di Gianni Lorenzi 
+
+ Ebook in primo piano 
+ John 
+ di Elena Pisi 
+
+ La Recensione 
+ FiniRai 
+ di Roberto Faenza 
+
+ Scarica e leggi gli ebook gratis e crea il tuo. 
+
+ Altri articoli dalla categoria » 
+
+ precedente 
+ successivo 
+
+ Videogiochi e hacker: PlayStation e Xbox nel mirino dei cybercriminali 
+
+ John McAfee lancia un gadget anti-Nsa:"Con D-Central al sicuro dal 
+
+ Outlook.com, quota 60 milioni di utenti.Addio a Hotmail e nuova sfida a 
+
+ Network
+
+ Network 
+
+ Quotidiani locali
+
+ Alto Adige 
+ Corriere delle Alpi 
+ Gazzetta di Mantova 
+ Gazzetta di Modena 
+ Gazzetta di Reggio 
+ Il Centro 
+ Il mattino di Padova 
+ Il Piccolo 
+ Il Tirreno 
+ Il Fò 
+
+ Il Trentino 
+ La Città di Salerno 
+ La Nuova Ferrara 
+ La Nuova Sardegna 
+ La Nuova Venezia 
+ La Provincia Pavese 
+ La Sentinella del Canavese 
+ La Tribuna di Treviso 
+ Messaggero Veneto 
+ Il Bò 
+
+ Periodici
+
+ l’Espresso 
+ Espresso - Food and Wine 
+ Le Scienze 
+ National Geographic 
+ Micromega 
+ Chiesa.it 
+ Limes 
+
+ Radio
+
+ Capital 
+ DeeJay 
+ m2o 
+
+ Servizi, Tv e consumi
+
+ Annunci 
+ Mymovies.it 
+ Necrologie 
+ TvZap 
+ Guida Tv 
+ MioJob 
+ Enti e Tribunali 
+ Fantacalcio 
+ Ristoranti 
+ Professionisti d'Impresa 
+
+ I siti di Repubblica
+
+ D - la Repubblica 
+ TrovaCinema 
+ Casa&Design 
+ XL 
+ ilmiolibro.it 
+ Storiebrevi 
+
+ Chiudi -->
+
+ l’Espresso 
+
+ RE Le inchieste 
+
+ Cerca su Repubblica.it
+
+-->
+
+ Annunci, lavoro e aste
+
+ Lavoro 
+
+ Annunci 
+
+ Aste 
+
+ Footer
+
+ Fai di Repubblica la tua homepage 
+
+ Mappa del sito 
+
+ Redazione 
+
+ Scriveteci 
+
+ Per inviare foto e video 
+
+ Servizio Clienti 
+
+ Aiuto 
+ -->
+ Pubblicità 
+
+ Privacy 
+
+ Divisione Stampa Nazionale — Gruppo Editoriale L’Espresso Spa - P.Iva 00906801006 — Società soggetta all’attività di direzione e coordinamento di CIR SpA

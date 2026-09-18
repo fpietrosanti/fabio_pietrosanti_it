@@ -1,0 +1,1194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+	<title>  About the voice encryption analysis (criteria, errors and different results) at  Playhouse of privacy, innovations and some business stuff</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="WordPress abc"/>
+	<meta name="template" content="K2 1.2.1" />
+ 	<meta name="description" content="Playhouse of privacy, innovations and some business stuff" />
+	<link rel="stylesheet" type="text/css" media="screen" href="http://infosecurity.ch/wp-content/themes/unwakeable-1.2.1/style.css" />
+	<link rel="stylesheet" type="text/css" media="print" href="http://infosecurity.ch/wp-content/themes/unwakeable-1.2.1/css/print.css" />
+	
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://infosecurity.ch/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://infosecurity.ch/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://infosecurity.ch/feed/atom/" />
+
+		<link rel="pingback" href="http://infosecurity.ch/xmlrpc.php" />
+	
+	
+	
+	
+	
+
+		
+	
+	
+	
+	
+		<link rel='archives' title='February 2010' href='http://infosecurity.ch/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://infosecurity.ch/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://infosecurity.ch/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://infosecurity.ch/2009/11/' />
+	<link rel='archives' title='August 2009' href='http://infosecurity.ch/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://infosecurity.ch/2009/07/' />
+
+	<link rel="alternate" type="application/rss+xml" title="Playhouse of privacy, innovations and some business stuff &raquo; About the voice encryption analysis (criteria, errors and different results) Comments Feed" href="http://infosecurity.ch/20100130/about-the-voice-encryption-analysis-phonecrypt-can-be-intercepted-serious-security-evaluation-criteria/feed/" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://infosecurity.ch/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://infosecurity.ch/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Playhouse of privacy, innovations and some business stuff' href='http://infosecurity.ch' />
+<link rel='start' title='Voice Security and Privacy slides' href='http://infosecurity.ch/20090706/untitled-2/' />
+<link rel='prev' title='Licensed by Israel Ministry of Defense? How things really works!' href='http://infosecurity.ch/20100129/licensed-by-israel-ministry-of-defense-how-things-really-works/' />
+<link rel='next' title='Dishonest security: The SecurStart GmbH case' href='http://infosecurity.ch/20100201/dishonest-security-the-securstart-gmbh-case/' />
+<link rel='canonical' href='http://infosecurity.ch/20100130/about-the-voice-encryption-analysis-phonecrypt-can-be-intercepted-serious-security-evaluation-criteria/' />
+
+<!-- AutoMeta Plugin for Wordpress -->
+<meta name="keywords" content="" />
+<!-- http://boakes.org/autometa?v=0.6 -->
+
+
+<link rel="stylesheet" href="http://infosecurity.ch/wp-content/plugins/lightbox-plugin/lightbox.css" type="text/css" media="all" />
+
+
+<style type="text/css" media="screen">
+
+/* Begin Contact Form CSS */
+.contactform {
+	position: static;
+	overflow: hidden;
+}
+
+.contactleft {
+	width: 25%;
+	text-align: right;
+	clear: both;
+	float: left;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contactright {
+	width: 70%;
+	text-align: left;
+	float: right;
+	display: inline;
+	padding: 4px;
+	margin: 5px 0;
+}
+
+.contacterror {
+	border: 1px solid #ff0000;
+}
+
+.contactsubmit {
+}
+/* End Contact Form CSS */
+
+	</style>
+
+	
+</head>
+
+
+<body class="wordpress k2 y2010 m02 d06 h06 single s-y2010 s-m01 s-d30 s-h10 s-category-privacy s-category-business s-category-interception s-category-security s-category-technology s-author-naif" ><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://web.archive.org/web/2012/http://infosecurity.ch/20100130/about-the-voice-encryption-analysis-phonecrypt-can-be-intercepted-serious-security-evaluation-criteria/">web.archive.org/web/2012/http://infosecurity.ch/20100130/about-the-voice-encrypt</a> · captured 2010-02-06 · scripts removed</div>
+<div id="page">
+
+	<div id="header">
+             <div class="top">
+
+            <div id="title" class="title"><a href="http://infosecurity.ch" title="Back to the front page"></a>
+                 </div>
+		
+		<ul id="menu">
+			<li class="page_item page-item-8"><a href="http://infosecurity.ch/author/" title="author &amp; blog">author &#038; blog</a></li>
+
+		</ul>
+                
+	     </div>
+	</div>
+
+		<hr />
+
+<div class="content">
+	
+	<div id="primary">
+		<div id="current-content">
+			<div id="primarycontent" class="hfeed">
+
+						
+	 
+
+	
+	
+		
+	<hr />
+
+	
+	<div class="navigation">
+		<div class="left"><span>&laquo;</span> <a href="http://infosecurity.ch/20100129/licensed-by-israel-ministry-of-defense-how-things-really-works/">Licensed by Israel Ministry of Defense? How things really works!</a></div>		<div class="right"><a href="http://infosecurity.ch/20100201/dishonest-security-the-securstart-gmbh-case/">Dishonest security: The SecurStart GmbH case</a> <span>&raquo;</span></div>		<div class="clear"></div>
+	</div>
+
+	
+	<hr />
+
+	
+		<div id="post-107" class="hentry p1 post publish author-naif category-privacy category-business category-interception category-security category-technology y2010 m01 d30 h10 alt">
+			<div class="entry-head">
+				<h3 class="entry-title"><a href="http://infosecurity.ch/20100130/about-the-voice-encryption-analysis-phonecrypt-can-be-intercepted-serious-security-evaluation-criteria/" rel="bookmark" title='Permanent Link to "About the voice encryption analysis (criteria, errors and different results)"'>About the voice encryption analysis (criteria, errors and different results)</a></h3>
+				
+				<small class="entry-meta">
+					<span class="chronodata">
+						Published by <span class="vcard author"><a href="http://infosecurity.ch/author/naif/" class="url fn">naif</a></span> <abbr class="published" title="2010-01-30T02:02:30-0700">January 30th, 2010</abbr>					</span>
+
+					<span class="entry-category">in <a href="http://infosecurity.ch/category/privacy/" title="View all posts in Privacy">Privacy</a>, <a href="http://infosecurity.ch/category/business/" title="View all posts in business">business</a>, <a href="http://infosecurity.ch/category/privacy/interception/" title="View all posts in interception">interception</a>, <a href="http://infosecurity.ch/category/business/security/" title="View all posts in security">security</a> and <a href="http://infosecurity.ch/category/privacy/technology/" title="View all posts in technology">technology</a>.</span>
+					<a href="http://infosecurity.ch/20100130/about-the-voice-encryption-analysis-phonecrypt-can-be-intercepted-serious-security-evaluation-criteria/#comments" class="commentslink"  title="Comment on About the voice encryption analysis (criteria, errors and different results)">3&nbsp;<span>Comments</span></a>				
+									
+														</small> <!-- .entry-meta -->
+			</div> <!-- .entry-head -->
+
+			<div class="entry-content">
+				<p>This article want to clarify and better explain the finding at infosecurityguard.com regaring voice encryption product evaluation.<br />
+This article want to tell you a different point of view other than infosecurityguard.com and explaining which are the rational with extensive explaination from security point of view.<br />
+Today i read news saying: &#8220;PhoneCrypt: Basic Vulnerability Found in 12 out of 15 Voice Encryption Products and went to read the website <a href="http://infosecurityguard.com" target="_blank">infosecurityguard</a>.<br /></p>
+
+<p>Initially it appeared to my like a great research activity but then i started reading deeply the read about it.I found that it&#8217;s not properly a security research but there is are concrete elements that&#8217;s a marketing campaign well done in order to attract public media and publicize a product.<br />
+Imho they was able to cheat journalists and users because the marketing campaign was absolutely well done not to be discovered on 1st read attempt. I personally considered it like a valid one on 1st ready (they cheated me initially!).</p>
+
+<p>But if you go deeply&#8230; you will understand that:<br />
+<span style="font-size: medium;"><b>- it&#8217;s a camouflage marketing initiative arranged by SecurStar GmbH and not a independent security research<br />
+- they consider a only security context where local device has been compromised <span style="font-weight: normal;">(no software can be secured in that case, like saying <acronym title="Secure Sockets Layer (a security protocol)">SSL</acronym> can be compromised if you have a trojan!)</span><br />
+- they do not consider any basic security and cryptographic security criteria</b><br /></span></p>
+
+<p>However a lot of important website reported it:<br /></p>
+
+<ul>
+  <li><a href="http://www.theregister.co.uk/2010/01/29/voice_crypto_cracks/" target="_blank">The Register</a></li>
+
+  <li><a href="http://www.networkworld.com/news/2010/012810-leading-voice-encryption-programs-hacked.html" target="_blank">Network World</a></li>
+
+  <li><a href="http://yro.slashdot.org/story/10/01/28/2317254/80-of-Cell-Phone-Encryption-Solutions-Insecure?from=rss" target="_blank">Slashdot</a></li>
+
+  <li><a href="http://www.infosecurity-magazine.com/view/6826/many-voice-encryption-systems-are-hackable-says-anonymous-researcher/" target="_blank">InfoSecurity Magazine</a></li>
+</ul>
+
+<p>This article is quite long, if you read it you will understand better what&#8217;s going on around infosecurityguard.com research and research result.</p>
+
+<p style="text-align: center;">I want to to tell you why and how (imho) they are wrong.</p>
+
+<p style="text-align: left;"></p>
+
+<p><h2>The research missed to consider Security, Cryptography and Transparency!</h2><br />
+Well, all this research sound much like being focused on the marketing goal to say that their PhoneCrypt product is the &#8220;super&#8221; product best of all the other ones.<br />
+Any security expert that would have as duty the &#8220;software evaluation&#8221; in order to protect the confidentiality of phone calls will evaluate other different characteristics of the product and the technology.<br /></p>
+
+<p>Yes, it&#8217;s true that most of the product described by SecurStar in their anonymous marketing website called http://infosecurityguard.com have some weakness.<br />
+But the relevant weakness are others and PhoneCrypt unfortunately, like most of the described products suffer from this.<br />
+Let&#8217;s review which characteristics are needed basic cryptography and security requirement (the best practice, the foundation and the basics!)</p>
+
+<p><h2>a &#8211; Security Trough Obscurity does not work</h2><br />
+A basic rule in cryptography cames from 1883 by Auguste Kerckhoffs:</p>
+
+<div style="text-align: center;">
+  <span style="font-family: Verdana, Helvetica, sans-serif;"><b>In a well-designed cryptographic system, only the key needs to be secret; there should be no secrecy in the algorithm.</b></span>
+</div>
+
+<div style="text-align: center;">
+  <span style="font-family: Verdana, Helvetica, sans-serif;"><b>Modern cryptographers have embraced this principle, calling anything else &#8220;security by obscurity.&#8221;</b></span>
+</div>
+
+<div style="text-align: left;">
+  Read what Bruce Schneir, recognized expert and cryptographer in the world say <a href="http://www.schneier.com/crypto-gram-0205.html" target="_blank">about this</a>
+</div>
+
+<div style="text-align: left;">
+  Any security expert will tell you that&#8217;s true. Even a novice university student will tell you that&#8217;s true. Simply because that&#8217;s the only way to do cryptography.
+</div>
+
+<div style="text-align: left;">
+  Almost all product described in the review by SecurStar GmbH, include PhoneCrypt, does not provide precise details about their cryptographic technologies.
+</div>
+
+<div style="text-align: left;">
+  Precise details are:
+</div>
+
+<div style="text-align: left;">
+  <ul>
+    <li style="text-align: left;">Detailed specification of cryptographic algorithm (that&#8217;s not just saying &#8220;we use <a href="http://en.wikipedia.org/wiki/Advanced_Encryption_Standard" target="_blank">AES</a>&#8220;)</li>
+
+    <li style="text-align: left;">Detailed specification of cryptographic protocol (that&#8217;s not just saying &#8220;we use <a href="http://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange" target="_blank">Diffie Hellman</a>&#8221; )</li>
+
+    <li style="text-align: left;">Detailed specification of measuring the cryptographic strenght (that&#8217;s not just saying &#8220;we have 10000000 bit <a href="http://en.wikipedia.org/wiki/Key_size" target="_blank">key size</a>&#8220;)<br /></li>
+  </ul>
+
+  <p style="text-align: left;">Providing precise details means having extensive documentation with theoretical and practical implications documenting ANY single way of how the algorithm works, how the protocol works with precise specification to replicate it for interoperability testing.<br />
+  It means that scientific community should be able to play with the technology, audit it, hack it.<br />
+  If we don&#8217;t know anything about the cryptographic system in details, how can we know which are the weakness and strength points?</p>
+
+  <p style="text-align: left;">Mike Fratto, Site editor of Network Computing, made a great article on <a href="http://www.networkcomputing.com/data-protection/just-say-no-to-proprietary-cryptographic-algorithms.php" target="_blank">&#8220;Saying NO to proprietary cryptographic systems&#8221;</a> .<br />
+  Cerias Purdue University <a href="http://www.cerias.purdue.edu/site/blog/post/security_through_obscurity/" target="_blank">tell this</a>.</p>
+
+  <h2>b &#8211; NON peer reviewed and NON scientifically approved Cryptography does not work<br /></h2>
+
+  <p>In any case and in any condition you do cryptography you need to be sure that someone else will check, review, analyze, distruct and reconstract from scratch your technology and provide those information free to the public for open discussion.<br />
+  That&#8217;s exactly how AES was born and like <a href="http://www.networkworld.com/news/2007/012307-nist-cryptographic-algorithm.html" target="_blank">US National Institute of Standard make crypto does</a> (with public contest with public peer review where only the best evaluated win).<br />
+  A public discussion with a public contest where the a lot of review by most famous and expert cryptographer in the world, hackers (with their name,surname and face, not like Notrax) provide their contribution, tell what they thinks.<br />
+  That&#8217;s called &#8220;peer review&#8221;.</p>
+
+  <p>If a cryptographic technology has an extended and important peer review, distributed in the world coming from universities, private security companies, military institutions, hackers and all coming from different part of the world (from USA to Europe to Russia to South America to Middle east to China) and all of them agree that a specific technology it&#8217;s secure&#8230;<br />
+  Well, in that case we can consider the technology secure because a lot of entities with good reputation and authority coming from a lot of different place in the world have publicly reviewed, analyzed and confirmed that a technology it&#8217;s secure.</p>
+
+  <p>How a private company can even think to invent on it&#8217;s own a secure communication protocol when it&#8217;s scientifically stated that it&#8217;s not possible to do it in a &#8220;proprietary and closed way&#8221; ?<br />
+  <a href="http://www.ibm.com/developerworks/library/s-crypt04.html" target="_blank">IBM tell you that peer review it&#8217;s required for cryptography</a>.<br />
+  <a href="http://www.schneier.com/essay-037.html" target="_blank">Bruce Schneier tell you</a> that &#8220;Good cryptographers know that nothing substitutes for extensive peer review and years of analysis.&#8221;<br />
+  Philip Zimmermann will tell you to <a href="https://philzimmermann.com/EN/essays/SnakeOil.html" target="_blank">beware of Snake Oil</a> where the story is: &#8220;Every software engineer fancies himself a cryptographer, which has led to the proliferation of really bad crypto software.&#8221;</p>
+
+  <h2>c &#8211; Closed source cryptography does not work<br /></h2>
+
+  <p>As you know any kind of &#8220;serious&#8221; and with &#8220;good reputation&#8221; cryptographic technology is implemented in opensource.<br />
+  There are usually multiple implementation of the same cryptographic algorithm and cryptographic protocol to be able to review all the way it works and certify the interoperability.<br />
+  Supposing to use a standard with precise and extended details on &#8220;how it works&#8221;, that has been &#8220;peer reviewed&#8221; by the scientific community BUT that has been re-implemented from scratch by a not so smart programmer and the implementation it&#8217;s plenty of bugs.</p>
+
+  <p>Well, if the implementation is &#8220;opensource&#8221; this means that it can be reviewed, improved, tested, audited and the end user will certaintly have in it&#8217;s own had a piece of technology &#8220;that works safely&#8221; .</p>
+
+  <p><a href="http://blogs.zdnet.com/security/?p=1684" target="_blank">Google release opensource crypto toolkit</a><br />
+  <a href="http://www.mozilla.org/projects/security/pki/" target="_blank">Mozilla release opensource crypto toolkit</a><br />
+  <a href="http://www.schneier.com/crypto-gram-9909.html#OpenSourceandSecurity" target="_blank">Bruce Schneier tell you that Cryptography must be opensource</a>.</p>
+
+  <h2>Another cryptographic point of view<br /></h2>
+
+  <p>I don&#8217;t want to convince anyone but just provide facts related to science, related to cryptography and security in order to reduce the effect of misinformation done by security companies whose only goes is to sell you something and not to do something that make the world a better.<br /></p>
+
+  <p>When you do secure products, if they are not done following the proper approach people could die.<br />
+  It&#8217;s absolutely something irresponsible not to use best practice to do crypto stuff.<br /></p>
+
+  <p>To summarize let&#8217;s review the infosecurityguard.com review from a security best pratice point of view.<br /></p>
+
+  <table>
+    <tbody>
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;"><strong>Product name</strong></td>
+
+        <td style="border: 1px solid black; padding:3px;"><b>Security Trough Obscurity</b></td>
+
+        <td style="border: 1px solid black; padding:3px;"><strong>Public peer review</strong></td>
+
+        <td style="border: 1px solid black; padding:3px;"><b>Open Source</b></td>
+
+        <td style="border: 1px solid black; padding:3px;"><strong>Compromise locally?</strong></td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">Caspertec</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><b>Obscurity</b></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review</span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><b>Closed</b></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">CellCrypt</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">Cryptophone</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:lime;mso-highlight:lime"><b>Transparency</b></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:lime;mso-highlight:yellow">Limited public review</span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:lime;mso-highlight:lime"><strong>Public</strong></span><br /></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">Gold-Lock</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">Illix</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">No1.BC</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong></span><br /></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">PhoneCrypt</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">Rode&amp;Swarz</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">Secure-Voice</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">SecuSmart</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">SecVoice</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">SegureGSM</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">SnapCell</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">Tripleton</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Obscurity</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red">No public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:red;mso-highlight:red"><strong>Closed</strong><br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">Zfone</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:lime;mso-highlight:lime"><b>Transparency</b></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:lime;mso-highlight:lime">Public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:lime;mso-highlight:lime"><b>Open</b></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+
+      <tr bgcolor="#FFFFFF">
+        <td style="border: 1px solid black; padding:3px;">ZRTP</td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:lime;mso-highlight:lime"><b>Transparency</b></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:lime;mso-highlight:lime">Public review<br /></span></td>
+
+        <td style="border: 1px solid black; padding:3px;"><span style="background:lime;mso-highlight:lime"><b>Open</b></span></td>
+
+        <td style="border: 1px solid black; padding:3px;">Yes</td>
+      </tr>
+    </tbody>
+  </table><span style="background:lime;mso-highlight:lime">*Green means that it match basic requirement for a cryptographic secure system</span>
+</div>
+
+<div style="text-align: left;">
+  <span style="background:red;mso-highlight:red">* Red / Broken means that it does not match basic requirement for a cryptographic secure system</span>
+</div>
+
+<div style="text-align: left;">
+  That&#8217;s my analysis using a evaluation method based on cryptographic and security parameters not including the local compromise context that i consider useless.<br />
+</div>
+
+<p>However, to be clear, those are only basic parameters to be used when considering a voice encryption product (just to avoid being in a situation that appears like i am promoting other products). So it may absolutely possible that a product with good crypto (<b>transparency, peer reviewed and opensource)</b> is absolutely a not secure product because of whatever reason (badly written, not usable causing user not to use it and use cleartext calls, politically compromised, etc, etc).<br />
+I think i will prepare a broader criteria for voice crypto technologies and voice crypto products, so it would be much easier and much practical to have a full transparent set of criterias to evaluate it.</p>
+
+<p>But those are really the basis of security to be matched for a good voice encryption system!<br />
+Read some useful past slides on <a href="http://www.slideshare.net/fpietrosanti/2009-voice-security-and-privacy-security-summit-milan" target="_blank">security protocols used in voice encryption systems</a> (2nd part).</p>Now read below some more practical doubt about their research.
+
+<h2>The security concept of the review is misleading: any hacked device can be always intercepted!</h2><br />
+I think that the guys completely missed the point: <strong>ANY KIND OF SOFTWARE RUNNING ON A COMPROMISED OPERATING SYSTEM CAN BE INTERCEPTED</strong>
+<p>Now they are pointing out that also Zfone from Philip Zimmermann is broken (a pc software), just because they install a trojan on a PC like in a mobile phone?<br />
+Any security software rely on the fact that the underlying operating system is somehow trusted and preserve the integrity of the environment where the software run.<br /></p>
+
+<div style="text-align: left; font-size: 11px;">
+  <ul>
+    <li><span style="font-size: 13px;">If you have a disk encryption system but your PC if infected by a trojan, the computer is already compromised.</span></li>
+
+    <li><span style="font-size: 13px;">If you have a voice encryption system but your PC is infected by a trojan, the computer is already compromised.</span></li>
+
+    <li><span style="font-size: 13px;">If you have a voice encryption system but your mobile phone is infected by a trojan, the mobile phone is already compromised.</span></li>
+  </ul>
+</div>No matter which software you are running, in such case the security of your operating environment is compromised and in one way or another way all the information integrity and confidentiality is compromised.<br />
+<p>Like i explained above how to intercept PhoneCrypt.</p>
+<p>The only things that can protect you from this threat is running in a closed operating system with Trust Computing capability, implementing it properly.<br />
+For sure on any &#8220;Open&#8221; operating system such us Windows, Windows Mobile, Linux, iPhone or Android there&#8217;s no chance to really protect a software.<br />
+On difficult operating system such as Symbian OS or RimOS maybe the running software can be protected (at least partially)</p>
+<p>That&#8217;s the reason for which the security concept that guys are leveraging to carry on their marketing campaign has no clue.<br />
+It&#8217;s just because they control the environment, they know <a href="http://www.flexispy.com" target="_blank">Flexispy</a> software and so they adjusted their software not to be interceptable when Flexispy is installed.<br />
+If you develop a trojan with the other techniques i described above you will 100% intercept PhoneCrypt.</p>
+<p>On that subject also <a href="http://dtrammell.wordpress.com/" target="_blank">Dustin Tamme</a>l, Security researcher of <a href="http://www.breakingpointsystems.com/" target="_blank">BreakPoint Systems</a>, pointed on on VoIP Security Alliance mailing lists that the <a href="http://voipsa.org/pipermail/voipsec_voipsa.org/2010-January/003093.html" target="_blank">security analysis is based on wrong concepts</a>.</p>
+<h2>The PhoneCrypt can be intercepted: it&#8217;s just that they don&#8217;t wanted to tell you!<br /></h2>
+<p>PhoneCrypt can be intercepted with &#8220;on device spyware&#8221;.<br />
+<b>Why?<br /></b> Because Windows Mobile is an unsecure operating environment and PhoneCrypt runs on Windows Mobile.<br />
+Windows Mobile does not use Trusted Computing and so any software can do anything.<br />
+The platform choice for a secure telephony system is important.<br />
+<b>How?<br /></b> I quickly discussed with some knowledgeable windows mobile hackers about 2 different way to intercept PhoneCrypt with an on-device spyware (given the unsecure Windows Mobile Platform).<br /></p>
+<div style="text-align: left;">
+  <strong>a) Inject a malicious DLL into the software and intercept from within the Phonecrypt itself.</strong><br />
+</div>
+
+<div style="text-align: left;">
+  In Windows Mobile any software can be subject to DLL code injection.
+</div>
+
+<div style="text-align: left;">
+  What an attacker can do is to inject into the PhoneCrypt software (or any software running on the phone), hooking the Audio related functions acting as a &#8220;function proxy&#8221; between the PhoneCrypt and the real <acronym title="Application Programming Interface">API</acronym> to record/play audio.
+</div>
+
+<div style="text-align: left;">
+  It&#8217;s a matter of &#8220;hooking&#8221; only 2 functions, the one that record and the one that play audio.
+</div>
+
+<div style="text-align: left;">
+  Read the official Microsoft documentation on <a href="http://msdn.microsoft.com/en-us/library/aa909244.aspx" target="_blank">how to do DLL injection on Windows Mobile processes.</a> or forum discussing the technique of injecting DLL on windows mobile processes.
+</div>
+
+<div style="text-align: left;">
+  That&#8217;s simple, any programmer will tell you to do so.
+</div>
+
+<div style="text-align: left;">
+  They simply decided that&#8217;s better not to make any notice about this.
+</div>
+
+<div style="text-align: left;">
+  <strong>b) Create a new audio driver that simply act as a proxy to the real one and intercept PhoneCrypt</strong><br />
+</div>
+
+<div style="text-align: left;">
+  In Windows Mobile you can create new Audio Drivers and new Audio Filters.
+</div>
+
+<div style="text-align: left;">
+  What an attacker can do is to load a new audio driver that does not do anything else than passing the real audio driver function TO/FROM the realone. In the meantime intercept everything recorded and everything played :-)
+</div>
+
+<div style="text-align: left;">
+  Here there is an example on how to do <a href="http://blogs.msdn.com/medmedia/archive/2007/01/03/windows-ce-audio-driver-samples.aspx" target="_blank">Audio driver for Windows Mobile</a> .
+</div>
+
+<div style="text-align: left;">
+  Here a software that implement what i explain here for Windows <a href="http://software.muzychenko.net/eng/vac.html" target="_blank">&#8220;Virtual Audio Cable&#8221;</a> .
+</div>
+
+<div style="text-align: left;">
+  The very same concept apply to Windows Mobile. Check the book <a href="http://books.google.com/books?id=Nd1RcGWMKnEC&amp;pg=PT306&amp;lpg=PT306&amp;dq=PerformCallback4+%22and+defense%22&amp;source=bl&amp;ots=81c3xmKbA7&amp;sig=5mlstFtcqOtIsp5f_oAR3tEmPrA&amp;hl=en&amp;ei=gmxjS9nTGpDL_Qb1haXoAw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CAcQ6AEwAA#v=onepage&amp;q=&amp;f=false" target="_blank">&#8220;Mobile Malware Attack and Defense&#8221;</a> at that link explaining techniques to play with those techniques.
+</div>
+
+<div style="text-align: left;">
+  They simply decided that&#8217;s better not to make any notice to that way of intercepting phone call on PhoneCrypt .
+</div>
+
+<div style="text-align: left;">
+  Those are just 2 quick ideas, more can be probably done.
+</div>
+
+<div style="text-align: left;">
+  <h2>Sounds much like a marketing activity &#8211; Not a security research.<br /></h2>I have to tell you. I analyzed the issue very carefully and on most aspects. All this things about the voice encryption analisys sounds to me like a marketing campaign of SecurStar GmbH to sell PhoneCrypt and gain reputation. A well articulated and well prepared campaign to attract the media saying, in an indirect way cheating the media, that PhoneCrypt is the only one secure. You see the <a href="http://www.businesswire.com/portal/site/home/permalink/?ndmViewId=news_view&amp;newsId=20100127005098&amp;newsLang=en" target="_blank">press releases of SecurStar and of the &#8220;Security researcher Notrax telling that PhoneCrypt is the only secure product&#8221;</a> . SecurStar PhoneCrypt is the only product the anonymous hacker &#8220;Notrax&#8221; consider secure of the &#8220;software solutions&#8221;.<br />
+  The only &#8220;software version&#8221; in competition with:
+
+  <div style="text-align: left;">
+    &#8211; <a href="http://www.snapshield.com/" target="_blank">SnapCell</a> &#8211; No one can buy it. A security company that does not even had anymore a webpage. The company does not almost exist anymore.
+  </div>
+
+  <div style="text-align: left;">
+    &#8211; <a href="http://www2.rohde-schwarz.com" target="_blank">rohde-schawarz</a> &#8211; A company that have in his list price and <a href="http://www2.rohde-schwarz.com/en/products/secure_communications/voice_and_data_encryption/TopSec_GSM.html" target="_blank">old outdated hardware secure phone</a> . No one would buy it, it&#8217;s not good for genera use.
+  </div>
+
+  <p>Does it sounds strange that only those other products are considered secure along with PhoneCrypt .</p>
+
+  <p>Also&#8230; let&#8217;s check the kind of multimedia content in the different reviews available of <a href="http://infosecurityguard.com/?p=85" target="_blank">Gold-Lock,</a> <a href="http://infosecurityguard.com/?p=140" target="_blank">Cellcrypt</a> and <a href="http://infosecurityguard.com/?p=116" target="_blank">Phonecrypt</a> in order to understand how much the marketing guys pressed to make the PhoneCrypt review the most attractive:<br /></p>
+
+  <div style="text-align: left;">
+    <table>
+      <tbody>
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><strong>Application</strong></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><strong>Screenshots of application</strong></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Video with demonstration of interception</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Network demonstration</b></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>PhoneCrypt</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>5</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>0</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>1</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>CellCrypt</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>0</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>2</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>0</b></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>GoldLock</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>1</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>2</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>0</b></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>It&#8217;s clear that PhoneCrypt is reviewed showing more features explicitly shown and major security features product description than the other.<br /></p>
+  </div>
+
+  <h2>Too much difference between them, should we suspect it&#8217;s a marketing tips?<br /></h2>
+
+  <p>But again other strange things analyzing the way it was done&#8230;<br />
+  If it was &#8220;an impartial and neutral review&#8221; we should see good and bad things on all the products right?</p>
+
+  <p>Ok, see the table below regarding the opinion indicated in <b>each paragraph</b> of the different reviews available of Gold-Lock, CellCrypt and Phonecrypt (are the only available) to see if are positive or negative.</p>
+
+  <div style="text-align: left;">
+    <table>
+      <tbody>
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><strong>Application</strong></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><strong>Number of paragraphs</strong></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Positive paragraphs</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Negative paragraphs</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Neutral paragraphs</b></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>PhoneCrypt</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>9</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>9</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>0</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>0</b></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>CellCrypt</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>12</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>0</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>10</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>2</b></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>GoldLock</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>9</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>0</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>8</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>1</b></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div style="text-align: left;">
+      <font size="4"><br /></font>
+    </div>
+
+    <div style="text-align: left;">
+      <span style="font-size: 14px;">Detailed paragraphs opinion analysis of</span> <a href="http://infosecurityguard.com/?p=116" target="_blank" style="font-size: 14px;">Phonecrypt</a>
+    </div>
+
+    <table>
+      <tbody>
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><strong>Paragraph of review</strong></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Opinion expressed</b></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>From their website</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: lime; background-position: initial initial;"><b>Positive Marketing feedback</b></span></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Apple iPhone</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: lime; background-position: initial initial;"><b>Positive Marketing feedback</b></span></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Disk Encryption or voice Encryption</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: lime; background-position: initial initial;"><b>Positive Marketing feedback</b></span></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>PBX Compatibility? Really</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: lime; background-position: initial initial;"><b>Positive Marketing feedback</b></span></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Cracking &lt;10. Not.</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: lime; background-position: initial initial;"><b>Positive Marketing feedback</b></span></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Good thinking!</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: lime; background-position: initial initial;"><b>Positive Marketing feedback</b></span></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>A little network action</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: lime; background-position: initial initial;"><b>Positive Marketing feedback</b></span></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>UI</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: lime; background-position: initial initial;"><b>Positive Marketing feedback</b></span></td>
+        </tr>
+
+        <tr bgcolor="#FFFFFF">
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Good Taste</b></td>
+
+          <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: lime; background-position: initial initial;"><b>Positive Marketing feedback</b></span></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div style="text-align: left;">
+      <span style="font-size: 14px;">Detailed paragraphs opinion analysis of</span> <a href="http://infosecurityguard.com/?p=85" target="_blank" style="font-size: 14px;">Gold-Lock 3G</a><br />
+    </div>
+
+    <div style="text-align: left;">
+      <table>
+        <tbody>
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><strong>Paragraph of review</strong></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Opinion expressed</b></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>From their website</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Licensed by The israeli Ministry of Denfese</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Real Company or Part Time hobby</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>16.000 bit authentication</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>DH 256</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Downad &amp; Installation!</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Neutral Marketing feedback</b></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Cracking it &lt;10</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Marketing BS101</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Cool video stuff</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div style="text-align: left;font-size: 14px;">
+      Detailed paragraphs opinion analysis of <a href="http://infosecurityguard.com/?p=140" target="_blank">CellCrypt</a>
+    </div>
+
+    <div style="text-align: left;">
+      <table>
+        <tbody>
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><strong>Paragraph of review</strong></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Opinion expressed</b></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>From their website</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Neutral Marketing feedback</b></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>A little background about cellcrypt</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Master of Marketing</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Secure Voice calling</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Who&#8217;s buying their wares</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Downad &amp; Installation!</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Neutral Marketing feedback</b></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>My Demo environment</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Did they forget some code</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Cracking it &lt;5</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Room Monitoring w/ FlexiSpy</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Cellcrypt unique features..</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>Plain old interception</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+
+          <tr bgcolor="#FFFFFF">
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><b>The Haters out there</b></td>
+
+            <td style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px;"><span style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: red; background-position: initial initial;"><b>Negative Marketing feedback</b></span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>Now it&#8217;s clear that from their point of view on PhoneCrypt there is no single bad point while the other are always described in a negative way.<br />
+    No single good point. Strange?<br />
+    All those considerations along with the next ones really let me think that&#8217;s <b>very probably</b> <b>a marketing review</b> <b>and not an independent review.</b><br /></p>
+
+    <h2>Other similar marketing attempt from SecurStar<br /></h2>
+
+    <p>SecurStar GmbH is known to have used in past marketing activity leveraging this kind of &#8220;technical speculations&#8221;, abusing of partial information and fake unconfirmed hacking stuff to make marketing/media coverage.<br />
+    Imho a rare mix of unfairness in leveraging the difficult for people to really understand the complexity of security and cryptography.</p>
+
+    <p>They already used in past Marketing activities like the one about creating a trojan for Windows Mobile and saying that their software is secure from the trojan that they wrote.<br />
+    <a href="http://www.prnewswire.co.uk/cgi/news/release?id=184415" target="_blank">Read about their marketing tricks of 2007</a><br /></p>
+
+    <p>They developed a Trojan (RexSpy) for Windows Mobile, made a demonstration capability of the trojan and later on told that they included &#8220;Anti-Trojan&#8221; capability to their PhoneCrypt software.They never released informations on that trojan, not even proved that it exists.</p>
+
+    <p>The researcher Collin Mulliner told at that time that <a href="http://www.mulliner.org/blog/blosxom.cgi/index.html?find=rexspy&amp;plugin=find&amp;path=" target="_blank">it sounds like a marketing tips</a> (also because he was not able to get from SecurStar CEO Hafner any information about that trojan):</p>
+
+    <div style="text-align: center;">
+      &#8220;This makes you wonder if this is just a marketing thing.&#8221;<br />
+    </div>
+
+    <p>Now, let&#8217;s try to make some logical reassignment.<br />
+    It&#8217;s part of the way they do marketing, an very unfriendly and unpolite approach with customers, journalist and users trying to provide wrong security concepts for a market advantage. Being sure that who read don&#8217;t have all the skills to do in depth security evaluation and find the truth behind their marketing trips.<br /></p>
+
+    <h2>Who is the hacker notrax?<br /></h2>
+
+    <p>It sounds like a camouflage of a fake identity required to have an &#8220;independent hacker&#8221; that make an &#8220;independent review&#8221; that is more strong on reputation building.<br />
+    Read about his bio:<br /></p>
+  </div>
+
+  <div style="text-align: left;">
+    ¾ Human, ¼ Android (Well that would be cool at least.) I am just an enthusiast of pretty much anything that talks binary and if it has a RS232 port even better. During the day I masquerade as an engineer working on some pretty cool projects at times, but mostly I do the fun stuff at night. I have been thinking of starting an official blog for about 4.5 years to share some of the things I come across, can’t figure out, or just cross my mind. Due to my day job and my nighttime meddling, I will update this when I can. I hope some find it useful, if you don’t, well you don’t.
+  </div>
+
+  <p>There are no information about this guy on google.<br />
+  Almost any hacker that get public have articles online, post in mailing archive and/or forum or some result of their activity.<br />
+  For notrax, nothing is available.</p>
+
+  <p>Additionally let&#8217;s look at the domain&#8230;<br />
+  The domain infosecurityguard.com is privacy protected by domainsbyproxy to prevent understanding who is the owner.<br />
+  The domain has been created 2 months ago on 01-Dec-09 on godaddy.com registrar.</p>
+
+  <p>What&#8217;s also very interesting to notice that this &#8220;unknown hacker with no trace on google about him that appeared on December 2009 on the net&#8221; is referred on <a href="http://www.businesswire.com/portal/site/home/permalink/?ndmViewId=news_view&amp;newsId=20100127005098&amp;newsLang=en" target="_blank">SecurStar GmbH Press Release</a> as a &#8220;An IT security expert&#8221;.<br /></p>
+
+  <div style="text-align: left;">
+    Maybe they &#8220;know personally&#8221; who&#8217;s this anonymous notrax? :)
+  </div>Am i following my own conspiracy thinking or maybe there&#8217;s some reasonable doubt that everything was arrange in that funny way just for a marketing activity?
+
+  <h2>Social consideration<br /></h2>
+
+  <p>If you are a security company you job have also a social aspects, you should also work to make the world a better place (sure to make business but &#8220;not being evil&#8221;). You cannot cheat the skills of the end users in evaluating security making fake misleading information.</p>
+
+  <p>You should do awareness on end users, to make them more conscious of security issues, giving them the tools to understand and decide themselves.</p><br />
+
+  <p>Hope you had fun reading this article and you made your own consideration about this.</p>
+
+  <p>Fabio Pietrosanti (naif)</p>p.s. Those are my personal professional opinion, let&#8217;s speak about technology and security, not marketing.<br />
+  p.p.s. i am not that smart in web writing, so sorry for how the text is formatted and how the flow of the article is unstructured!
+</div>
+							</div> <!-- .entry-content -->
+
+		</div> <!-- #post-ID -->
+
+	
+		
+	
+				
+	
+	<div class="comments">
+
+		<h4><span id="comments">3</span> Responses to &#8220;About the voice encryption analysis (criteria, errors and different results)&#8221;</h4>
+
+		<div class="metalinks">
+			<span class="commentsrsslink"><a href='http://infosecurity.ch/20100130/about-the-voice-encryption-analysis-phonecrypt-can-be-intercepted-serious-security-evaluation-criteria/feed/'>Feed for this Entry</a></span>
+					</div>
+
+		
+	<hr />
+
+				<ol id="commentlist">
+
+			
+			<li id="comment-57" class="comment c1 c-y2010 c-m01 c-d31 c-h03 alt">
+								<a href="#comment-57" class="counter" title="Permanent Link to this Comment">1</a>
+				<span class="commentauthor">John</span>
+
+				<small class="comment-meta">
+				<a href="#comment-57" title="Permanent Link to this Comment">Jan 31st, 2010 at 7:59 am</a>												</small>
+			
+				<div class="comment-content">
+					<p>Absolutely correct, I knew that hacker is nothing but a marketing dummy, seems like I was right</p>
+ 
+				</div>
+
+							</li>
+
+			
+			<li id="comment-62" class="comment c2 c-y2010 c-m02 c-d02 c-h01">
+								<a href="#comment-62" class="counter" title="Permanent Link to this Comment">2</a>
+				<span class="commentauthor">Surreptitious Evil</span>
+
+				<small class="comment-meta">
+				<a href="#comment-62" title="Permanent Link to this Comment">Feb 1st, 2010 at 5:49 pm</a>												</small>
+			
+				<div class="comment-content">
+					<p>Having followed this from el Reg, I am also quite interested in the two identical laudatory comments (14 &amp; 15 on <a href="http://infosecurityguard.com/?p=26#comments)" rel="nofollow">http://infosecurityguard.com/?p=26#comments)</a> have recently first-registered domains 1st Dec and 28 Dec 09) and have also commented favourable on other posts.</p>
+<p>A quick google for &#8220;Carroll B Merriman&#8221; was instructive &#8211; an entirely context-free commentor with weird interjects on everything from California &#8216;go-go &amp; sushi&#8217; bars (where he posts about Zune?) to Lancashire computer repair &amp; web design (well, Blackpool ain&#8217;t too far) and, most tellingly, about internet affiliate marketing.  The Blackpool PC site hurt in the karma (poor goldfish, crap site) and, interestingly, appears to be strangely registered &#8211; to a non-UK resident individual (rather than a UK company).  &#8216;David Pennington&#8217; may well be connected to &#8216;Steve Pennington&#8217; who has aaafleetwoodpcrepair.co.uk, who is connected to &#8220;tickets4u Ltd&#8221; &#8211; a UK registered company.</p>
+<p>V dodgy, in my professional opinion &#8211; this grass is clearly plastic.</p>
+ 
+				</div>
+
+							</li>
+
+			
+			<li id="comment-65" class="comment c3 c-y2010 c-m02 c-d02 c-h08 alt">
+								<a href="#comment-65" class="counter" title="Permanent Link to this Comment">3</a>
+				<span class="commentauthor"><a href='http://dannosite.com' rel='external nofollow' class='url'>danno</a></span>
+
+				<small class="comment-meta">
+				<a href="#comment-65" title="Permanent Link to this Comment">Feb 2nd, 2010 at 12:23 am</a>												</small>
+			
+				<div class="comment-content">
+					<p>Nice work, quite thorough. If you&#8217;re going to bust someone, it&#8217;s good to be thorough.</p>
+ 
+				</div>
+
+							</li>
+
+			
+		</ol> <!-- END #commentlist -->
+				
+				
+				
+		
+	</div> <!-- END .comments 1 -->
+		
+		
+		<div class="comments">
+		<h4 id="respond" class="reply">Leave a Reply</h4>
+		
+		
+			<form action="http://infosecurity.ch/wp-comments-post.php" method="post" id="commentform">
+
+						
+							<div id="comment-personaldetails">
+					<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" />
+					<label for="author"><small><strong>Name</strong> </small></label></p>
+
+					<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" />
+					<label for="email"><small><strong>Mail</strong> (will not be published) </small></label></p>
+
+					<p><input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+					<label for="url"><small><strong>Website</strong></small></label></p>
+				</div>
+							<!--<p><small><strong>XHTML:</strong> You can use these tags &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; :</small></p>-->
+		
+				<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+		
+								
+				<p>
+					<input name="submit" type="submit" id="submit" tabindex="5" value="Submit" />
+					<input type="hidden" name="comment_post_ID" value="107" />
+				</p>
+				
+				<div class="clear"></div>
+
+				
+			</form>
+
+				
+			
+	<hr />
+
+	
+	<div class="navigation">
+		<div class="left"><span>&laquo;</span> <a href="http://infosecurity.ch/20100129/licensed-by-israel-ministry-of-defense-how-things-really-works/">Licensed by Israel Ministry of Defense? How things really works!</a></div>		<div class="right"><a href="http://infosecurity.ch/20100201/dishonest-security-the-securstart-gmbh-case/">Dishonest security: The SecurStart GmbH case</a> <span>&raquo;</span></div>		<div class="clear"></div>
+	</div>
+
+	
+	<hr />
+	
+	</div> <!-- END .comments #2 -->
+	
+			</div> <!-- #primarycontent .hfeed -->
+		</div> <!-- #current-content -->
+
+		<div id="dynamic-content"></div>
+	</div> <!-- #primary -->
+
+	<hr />
+
+<div class="secondary">
+
+
+	<div id="search"><h2>Search</h2>
+		
+<form method="get" id="searchform" action="/index.php">
+	<input type="text" id="s" name="s" value="search blog archives" />
+	<input type="submit" id="searchsubmit" value="go" />
+</form>
+
+
+	</div>
+
+
+	
+	
+	
+	
+
+	
+			
+
+	
+
+		
+
+	 
+	<div class="sb-related">
+		<h2>Post Meta</h2>
+		
+		<ul>
+																	</ul>
+	</div>
+	
+	
+
+
+</div>
+<div class="clear"></div>
+
+</div> <!-- .content -->
+
+	<div class="clear"></div>
+</div> <!-- Close Page -->
+
+<hr />
+
+<p id="footer"><small>
+	Playhouse of privacy, innovations and some business stuff is powered by <a href="http://wordpress.org/" title="Where children sing songs of binary bliss">WordPress abc</a> and <a href="http://www.longren.org/wordpress/unwakeable/" title="Unwakeable">Unwakeable 1.2.1</a><br /> 
+		Prepared In: 0.820 sec. w/ 24 queries.<br />
+	<a href="http://infosecurity.ch/feed/">RSS Entries</a> and <a href="http://infosecurity.ch/comments/feed/">RSS Comments</a><br />
+	<!-- 24 queries. 0.8200 seconds. -->
+</small></p>
+
+
+	
+
+<!-- AutoMeta Plugin for Wordpress -->
+<div class="technorati"  >
+<a href="http://technorati.com/tag/" rel="tag"></a>
+</div>
+<!-- http://boakes.org/autometa?v=0.6 -->
+</body>
+</html> 

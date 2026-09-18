@@ -1,0 +1,176 @@
+Blackberry Security and Encryption: Devil or Angel? at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « Celebrating “Hackers” after 25 years 
+ AES algorithm selected for use in space » 
+
+ Blackberry Security and Encryption: Devil or Angel? 
+
+ Published by naif July 7th, 2010 
+
+ in Privacy , business , intelligence , interception , security and technology . 
+ 3  Comments 
+
+ Blackberry have good and bad reputation regarding his security capability, depending from which angle you look at it.
+
+ This post it’s a summarized set of information to let the reader the get picture, without taking much a position as RIM and Blackberry can be considered, depending on the point of view, an extremely secure platform or an extremely dangerous one .
+
+ Let’s goes on.
+
+ On one side Blackberry it’s a platform plenty of encryption features, security features everywhere, device encrypted (with custom crypto), communication encrypted (with custom proprietary protocols such as IPPP), very good Advanced Security Settings, Encryption framework from Certicom ( now owned by RIM ).
+
+ On the other side they does not provide only a device but an overlay access network, called BIS ( Blackberry Internet Service ), that’s a global worldwide wide area network where your blackberry enter while you browse or checkmail using blackberry.net AP.
+
+ When you, or an application, use the blackberry.net APN you are not just connecting to the internet with the carrier internet connection, but you are entering inside the RIM network that will proxy and act as a gateway to reach the internet. 
+
+ The very same happen when you have a corporate use: Both the BB device and the corporate BES connect to the RIM network that act as a sort of vpn concentration network .
+
+ So basically all the communications cross trough RIM service infrastructure in encrypted format with a set proprietary encryption and communication protocols.
+
+ Just as a notice, think that google to provide gtalk over blackberry.net APN, made an agreement in order to offer service inside the BB network to the BB users. When you install gtalk you get added 3 service books that point to GTALKNA01 that’s the name of GTALK gateway inside the RIM network to allow intra-BIS communication and act as a GTALK gateway to the internet.
+
+ The mobile operators usually are not even allowed to inspect the traffic between the Blackberry device and the Blackberry Network.
+
+ So RIM and Blackberry are somehow unique for their approach as they provide a platform, a network and a service all bundled together and you cannot just “get the device and the software” but the user and the corporate are always bound and connected to the service network.
+
+ That’s good and that’s bad, because it means that RIM provide extremely good security features and capabilities to protect information, device and access to information at various level against third party .
+
+ But it’s always difficult to estimate the threat and risk related to RIM itself and who could make political pressure against RIM.
+
+ Please consider that i am not saying “RIM is looking at your data” but making an objective risk analysis: for how the platform is done RIM have authority on the device, on the information on-the-device and on the information that cross the network. (Read my Mobile Security Slides ).
+
+ For example let’s consider the very same context for Nokia phones.
+
+ Once the Nokia device is sold, Nokia does not have authority on the device, nor on the information on-the-device nor on the information that cross the network. But it’s also true that Nokia just provide the device and does not provide the value added services such as the Enterprise integration (The RIM VPN tunnel), the BIS access network and all the local and remote security provisioned features that Blackberry provide.
+
+ So it’s a matter of considering the risk context in the proper way when choosing the platform, with an example very similar to choosing Microsoft Exchange Server (on your own service) or whether getting a SaaS service like Google Apps.
+
+ In both case you need to trust the provider, but in first example you need to trust Microsoft that does not put a backdoor on the software while in the 2nd example you need to trust Google, as a platform and service provider, that does not access your information.
+
+ So it’s a different paradigm to be evaluated depending on your threat model.
+
+ If your threat model let you consider RIM as a trusted third party service provider (much like google) than it’s ok. If you have a very high risk context, like top-secret one, then let’s consider and evaluate carefully whether it’s not better to keep the Blackberry services fully isolated from the device or use another system without interaction with manufacturer servers and services.
+
+ Now, let’s get back to some research and some facts about blackberry and blackberry security itself.
+
+ First of all several governments had to deal with RIM in order to force them to provide access to the information that cross their service networks while other decided to directly ban Blackberry usage for high officials because of servers located in UK and USA, while other decided to install their own backdoors.
+
+ Russian Secret Services (FSB) reach an agreement with RIM and now FSB can eavesdrop Blackberry email and web traffic in Russia
+
+ French Government banned Blackberry for use by Government officials and also replaced the device for voice encryption use 
+
+ Indian government made pressure on RIM to reduce encryption capabilities and later announced that they have cracked blackberry encryption . A summary on India-RIM story by Bruce Schneier .
+
+ United Arab Emirates (UAE) Etisalat operator tried to silently install a government spyware on all country blackberry but they got caught
+
+ USA National Security Agency initially prohibited Obama to use Blackberry for his presidential works giving him a Sectera Edge Secure Phone , after 2 years they managed to secure it with a custom encryption layer done specifically by NSA and allowed Obama to use a custom secured blackberry 
+
+ There’s a lot of discussion when the topics are RIM Blackberry and Governments for various reasons.
+
+ Below a set of official Security related information on RIM blackberry platform:
+
+ Official Security Knowledgebase on RIM website
+
+ Blackberry Internet Service security features 
+
+ Wireless Data Security 
+
+ And here a set of unofficial Security and Hacking related information on RIM Blackberry platform:
+
+ Hackish blackbox security analysis by FX of Phenoelit :   Analysing Complex Systems – The Blackberry case 
+
+ Accessing corporate intranets trough Blackberry BBProxy Hack 
+
+ Blackberry Master Control Program little bit of hacking
+
+ How to bypass Blackberry IT Policy 
+
+ Blackberry Reversing research (mostly by Dr Bolsen, however no one have ever decompiled and published the whole RIMOS)
+
+ Bypassing Blackberry COD Signature 
+
+ Reversing Blackberry The COD format
+
+ Blackberry Internal Folders Layout 
+
+ Blackberry decompilated COD binaries 
+
+ Blackberry Coddec decompilation tool release 
+
+ Because it’s 23.32 (GMT+1), i am tired, i think that this post will end up here.
+
+ I hope to have provided the reader a set of useful information and consideration to go more in depth in analyzing and considering the overall blackberry security (in the good and in the bad, it always depends on your threat model!).
+
+ Cheers
+
+ Fabio Pietrosanti (naif)
+
+ p.s. i am managing security technology development (voice encryption tech) on Blackberry platform, and i can tell you that from the development point of view it’s absolutely better than Nokia in terms of compatibility and speed of development, but use only RIMOS 5.0+ !
+
+ 3 Responses to “Blackberry Security and Encryption: Devil or Angel?”
+
+ Feed for this Entry 
+
+ 1 
+ Kyle 
+
+ Jul 7th, 2010 at 11:18 pm 
+
+ I enjoyed reading this post, in particular the summary of conflicts RIM has had with government institutions while trying to sell devices to foreign markets. The fact that RIM is selling highly secure devices to markets that aren’t comfortable with the technology really brings to light some of the global trade issues that aren’t usually in the consumer’s eye. These are the types of problems normally reserved for defense industry contracts and yet RIM, which is now considered largely a consumer product, has to deal with this.
+
+ 2 
+ naif 
+
+ Aug 11th, 2010 at 10:09 pm 
+
+ There’s an article on recent blackberry security issues.
+
+ Different point of view between governments that:
+
+- who can’t wiretap Blackberry services and force RIM to do so (India, UAE,Saudi)
+
+- who don’t allow selling Blackberry until secret services (FSB) made an agreement for tapping (Russia)
+
+- who don’t trust RIM for government use because of potential spying risk on RIM networks (France and Germany)
+
+ That’s because RIM is not only a phone manufacturer but also a Service Provider with a world-wide internet overlay that’s the RIM network.
+
+ Read VoIP SA blog post on US tapping of RIM messaging:
+
+ http://voipsa.org/blog/2010/08/04/blackberries-and-lawful-intercept/ 
+
+ That’s because it’s a service provider and not only a manufacturer.
+
+ 3 
+ naif 
+
+ Aug 12th, 2010 at 4:47 pm 
+
+ Nice article from Forbes about RIM and Government Monitoring.
+
+ A Deductive Proof about RIM and Government Monitoring (Forbes): http://bit.ly/cWnNPw 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « Celebrating “Hackers” after 25 years 
+ AES algorithm selected for use in space » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress 2.9.1 and Unwakeable 1.2.1 
+
+ Prepared In: 0.312 sec. w/ 23 queries.
+
+ RSS Entries and RSS Comments

@@ -1,0 +1,305 @@
+1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con 42LF.it 
+
+ Scopri 
+
+ La tua Libreria 
+
+ Cerca 
+
+ Per Podcaster
+
+ I tuoi podcast 
+
+ Gratuito
+
+ La nostra piattaforma
+
+ Come funziona Spreaker 
+
+ Podcast App 
+
+ Spreaker Create 
+
+ Prime Network 
+
+ Aiuto 
+
+ {
+ if (!hidden) {
+ $refs.inputMobile.focus();
+ }
+ });
+ if (isSearch && !query) {
+ if (window.innerWidth 
+
+ Registrati
+
+ Log in 
+
+ Registrati 
+
+ Per Podcaster
+
+ I tuoi podcast 
+
+ Gratuito
+
+ Impostazioni
+
+ Tema chiaro
+
+ Tema scuro
+
+ La nostra piattaforma
+
+ Come funziona Spreaker 
+
+ Podcast App 
+
+ Spreaker Create 
+
+ Prime Network 
+
+ Aiuto 
+
+ {
+ if (this.toast) {
+ this.toast = null;
+ }
+ }, timings[this.toast.type]);
+ },
+ getClassType() {
+ return {
+ 'bg-neutral-700 dark:bg-neutral-100 text-white dark:text-neutral-950': this
+ .toast?.type === 'default',
+ 'bg-sky-700 text-white': this.toast?.type === 'info',
+ 'bg-emerald-700 text-white': this.toast?.type === 'success',
+ 'bg-red-800 text-white': this.toast?.type === 'error',
+ 'bg-orange-400 text-neutral-950': this.toast?.type === 'warning'
+ }
+ }
+ }" x-on:toast.window="showToast($event.detail)" x-show="toast" class="fixed left-0 right-0 z-10 md:left-[250px]"
+ x-transition>
+
+ Ciao, Internet! con Matteo Flora
+
+ 1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con 42LF.it
+
+ 20 set 2022 ·
+ 52 min. 38 sec.
+
+Caricando
+
+ Riproduci
+
+ Pausa
+
+ Aggiungi alla coda
+
+ In coda
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Scarica
+
+ Scarica e ascolta ovunque
+
+ Scarica i tuoi episodi preferiti e goditi l'ascolto, ovunque tu sia! Iscriviti o accedi ora per ascoltare offline.
+
+ Iscriviti per scaricare
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Incorpora
+
+ Incorpora episodio
+
+ `;
+ },
+ copyToClipboard() {
+ this.copyStatus = 'DONE';
+ SP.Utils.copyToClipboard(this.getIframeCode());
+ setTimeout(() => { this.copyStatus = 'IDLE'; }, 2000);
+ }
+}">
+
+ Scuro
+
+ Chiaro
+
+ Copia
+
+ Fatto
+
+ Vuoi aggiungere un tocco personale? Esplora tutte le opzioni di incorporamento disponibili nella nostra guida per sviluppatori
+
+ Condividi su X 
+
+ Condividi su Facebook 
+
+ Condividi su Bluesky 
+
+ Condividi su Whatsapp 
+
+ Condividi su Telegram 
+
+ Condividi su LinkedIn 
+
+ Descrizione
+
+ ''Gli hacker fanno domande'': con questa premessa MonitoraPA, a nome di Fabio Pietrosanti, ha mandato una PEC a 8254 scuole con 6 domande precise di accesso civico.
+Cosa è un...
+
+ mostra di più 
+
+ ''Gli hacker fanno domande'': con questa premessa MonitoraPA, a nome di Fabio Pietrosanti, ha mandato una PEC a 8254 scuole con 6 domande precise di accesso civico.
+Cosa è un FOIA? Quali sono le domande? Cosa rispondere?
+Ne parliamo con Antonio Perrini di 42LawFirm.
+
+0:00 - Introduzione
+3:13 - Cosa è il FOIA?
+7:00 - Quindi sono obbligati a rispondere?
+9:55 - Chi rischia e cosa se non rispondono?
+10:55 - In che caso non si risponde?
+13:00 - In caso di diniego cosa può fare MonitoraPa?
+18:48 - Richiesta 1: ''**copia del contratto**''
+22:58 - Richiesta 2: ''copia della **valutazione d'impatto della protezione dei dati** (DPIA)'' videoconferenza
+31:19 - Richiesta 3: ''copia degli atti riportanti le **misure tecniche previste ed adottate**''
+35:30 - Richiesta 4: ''copia della **valutazione d'impatto della protezione dei dati** (DPIA)'' messaggistica e mail
+38:30 - Richiesta 5: ''copia della **valutazione di impatto del trasferimento dei dati all'estero** (TIA)''
+43:22 - Richiesta 6: ''copia della **valutazione comparativa**''
+46:47 - Ultime considerazioni
+
+»»»
+
+Io sono Matteo Flora, mi occupo di #Reputazione Digitale, la insegno in Università e faccio consulenza ad Aziende, Enti e Professionisti con le mie aziende.
+
+Vengo dalla Sicurezza informatica - ma vengo in pace - e qui con “Ciao Internet” ti racconto tre volte alla settimana come la Rete ci Cambia, come capirla e usarla al meglio per migliorare la tua vita e professione, non solo digitale.
+
+Se vuoi è il momento giusto per iscriverti - FALLO SUBITO - e se hai bisogno di ancora più spunti ci sono “2 Minuti di Internet”, la newsletter settimanale, ed il Gruppo e Canale Telegram per discutere assieme, trovi i link qui sotto.
+Le mie Aziende » http://matteoflora.com/#aziende
+Community Telegram » https://mgpf.it/tg
+Newsletter e Corso Gratis » https://mgpf.it/nl
+Facebook » https://mgpf.it/fb
+Podcast » https://mgpf.it/pc
+
+Per contatti commerciali: sales@matteoflora.com
+
+ mostra meno 
+
+ Commenti
+
+ Accedi per lasciare un commento
+
+ Informazioni
+
+ Autore 
+
+ Matteo Flora
+
+ Organizzazione
+
+ Matteo G.P. Flora
+
+ Sito 
+
+ -
+
+ Tag 
+
+ -
+
+ 🇮🇹 Italiano
+
+ 🇬🇧 English 
+
+ 🇮🇹 Italiano 
+
+ 🇪🇸 Espanõl 
+
+ 🇮🇹 Italiano
+
+ 🇬🇧 English 
+
+ 🇮🇹 Italiano 
+
+ 🇪🇸 Espanõl 
+
+ Termini 
+
+ Privacy 
+
+ {e.preventDefault(); showOneTrustPreferenceCenter();}"
+ class="ot-sdk-show-settings hover:underline">
+ Cookie Settings
+
+ Copyright 2026 - Spreaker Inc. an
+ iHeartMedia Company
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ In riproduzione ora
+
+ Coda
+
+ Sembra che non tu non abbia alcun episodio attivo
+
+ Sfoglia il catalogo di Spreaker per scoprire nuovi contenuti
+
+ Esplora adesso
+
+ Corrente
+
+ Sembra che non ci sia nessun episodio nella tua coda
+
+ Sfoglia il catalogo di Spreaker per scoprire nuovi contenuti
+
+ Esplora adesso
+
+ 1" class="mt-6">
+
+ Successivo
+
+ Gestisci
+
+ Fatto
+
+ svg]:text-white">
+
+ Sposta su
+
+ Sposta su
+
+ Sposta giù
+
+ Sposta giù
+
+ Rimuovi
+
+ svg]:text-white">
+
+ Che silenzio che c’è... 
+
+ È tempo di scoprire nuovi episodi! 
+
+ Scopri
+
+ La tua Libreria
+
+ Cerca
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Sblocca tutto il potenziale di Spreaker
+
+ Iscriviti per continuare ad ascoltare, accedi alla tua libreria per riprendere gli episodi da dove li avevi lasciati e connettiti con i tuoi creatori preferiti. Vivi l'esperienza di ascolto definitiva su Spreaker!
+
+ Iscriviti gratuitamente

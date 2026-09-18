@@ -1,0 +1,67 @@
+Exploit code against SecurStar DriveCrypt published at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « Quantum cryptography broken 
+ Who extract Oil in Iran? Business and UN sanction together » 
+
+ Exploit code against SecurStar DriveCrypt published 
+
+ Published by naif May 25th, 2010 
+
+ in Kudos , Privacy , security and technology . 
+ 0  Comments 
+
+ It seems that the hacking community somehow like to target securstar products, maybe because hacking community doesn’t like the often revealed unethical approach already previously described in this blog by articles and user’s comments.
+
+ In 2004 a lot of accusation against Hafner of SecurStar went out because of alleged intellectual property theft regarding opensource codes such as Encryption 4 the masses and legal advert also against the Free and opensource TrueCrypt project .
+
+ In 2008 there was a pre-boot authentication hacking against DriveCrypt Plus posted on Full-Disclosure.
+
+ Early 2010 it was the time of the fake infosecurity research secretly sponsored by securstar at http://infosecurityguard.com (that now they tried to remove from the web because of embarrassing situation, but backup of the story are available, hacking community still wait for apologies) .
+
+ Now, mid 2010, following a research published in December 2009 about Disk Encryption software vulnerabilities made by Neil Kettle (mu-b), Security researcher at digit-labs and Penetration tester at Convergent Network Solutions , DriveCrypt was found to be vulnerable and exploitable breaking on-device security of the system and exploit code has been just released.
+
+ Exploit code reported below (thanks Neil for the code release!):
+
+ Arbitrary kernel code execution security exploit of DriveCrypt: drivecrypt-dcr.c 
+
+ Arbitrary file reading/writing security exploit via unchecked user-definable parameters to ZxCreateFile/ReadFile/ WriteFile: drivecrypt-fopen.c 
+
+ The exploit code has been tested against DriveCrypt 5.3, currently released DriveCrypt 5.4 is reported to be vulnerable too as it has just minor changes related to win7 compatibility. Can anyone make a double check and report a comment here?
+
+ Very good job Neil!
+
+ In the meantime the Free Truecrypt is probably the preferred choice for disk encryption, given the fact that it’s difficult to trust DriveCrypt, PGP has been acquired by Symantec and there are very bad rumors about the trust that people have in Symantec and there are not many widely available alternatives.
+
+ Rumors say that also PhoneCrypt binaries are getting analyzed and the proprietary encryption system could reveal something fun…
+
+ 0 Responses to “Exploit code against SecurStar DriveCrypt published”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « Quantum cryptography broken 
+ Who extract Oil in Iran? Business and UN sanction together » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.551 sec. w/ 41 queries.
+
+ RSS Entries and RSS Comments

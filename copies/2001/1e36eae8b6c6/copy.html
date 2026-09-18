@@ -1,0 +1,322 @@
+<meta charset="utf-8"><!-- MHonArc v2.6.16 -->
+<!--X-Head-End-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://seclists.org/rss/vuln-dev.rss">
+<title>Vulnerability Development: Re: Cisco PIX Firewall MailGuard Vulnerability</title>
+<meta name="Subject" content="Re: Cisco PIX Firewall MailGuard Vulnerability"/>
+<meta name="Author" content="Fabio Pietrosanti (naif)"/>
+<link REL="SHORTCUT ICON" HREF="/shared/images/tiny-eyeicon.png" TYPE="image/png">
+<META NAME="ROBOTS" CONTENT="NOARCHIVE">
+<link rel="stylesheet" href="/shared/css/insecdb.css" type="text/css">
+<!--Google Analytics-->
+
+
+<!--Google Custom Site Search boilerplate Javascript-->
+
+<!--End Google Custom Site Search boilerplate Javascript-->
+
+</HEAD>
+<BODY BGCOLOR="#2A0D45" TEXT="#000000"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://seclists.org/vuln-dev/2001/Sep/311">seclists.org/vuln-dev/2001/Sep/311</a> · captured 2013-08-09 · scripts removed</div>
+
+<TABLE CELLPADDING="0" WIDTH="100%" CELLSPACING="0">
+<TR><TD ALIGN="left"><A HREF="/"><IMG BORDER=0 ALT="Home page logo"
+SRC="/images/sitelogo.png" HEIGHT=90 WIDTH=168></A></TD>
+<TD VALIGN="bottom" ALIGN="right">
+<!-- Begin TopBanner Code -->
+<!-- AdSpeed.com Serving Code 7.9.5 for [Zone] TopBanner [Any Dimension] -->
+
+<!-- AdSpeed.com End -->
+<!-- End Banner Code -->
+
+</TD></TR></TABLE>
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0"><TR>
+<TD ALIGN="left" WIDTH="130" VALIGN="top" class="sidebar">
+
+<!-- SECWIKI PORTAL INSERT -->
+
+<ul>
+<li><a href="http://nmap.org/">Nmap Security Scanner</a>
+<ul>
+<li><a href="http://nmap.org/">Intro</a></li>
+<li><a href="http://nmap.org/book/man.html">Ref Guide</a></li>
+<li><a href="http://nmap.org/book/install.html">Install Guide</a></li>
+<li><a href="http://nmap.org/download.html">Download</a></li>
+<li><a href="http://nmap.org/changelog.html">Changelog</a></li>
+<li><a href="http://nmap.org/book/">Book</a></li>
+<li><a href="http://nmap.org/docs.html">Docs</a></li>
+</ul>
+<li><a href="http://seclists.org/">Security Lists</a>
+<ul>
+<li><a href="http://seclists.org/nmap-hackers/">Nmap Hackers</a></li>
+<li><a href="http://seclists.org/nmap-dev/">Nmap Dev</a></li>
+<li><a href="http://seclists.org/bugtraq/">Bugtraq</a></li>
+<li><a href="http://seclists.org/fulldisclosure/">Full Disclosure</a></li>
+<li><a href="http://seclists.org/pen-test/">Pen Test</a></li>
+<li><a href="http://seclists.org/basics/">Basics</a></li>
+<li><a href="http://seclists.org/">More</a></li>
+</ul>
+<li><a href="http://sectools.org">Security Tools</a>
+<ul>
+<li><a href="http://sectools.org/tag/crackers/">Pass crackers</a></li>
+<li><a href="http://sectools.org/tag/sniffers/">Sniffers</a></li>
+<li><a href="http://sectools.org/tag/vuln-scanners/">Vuln Scanners</a></li>
+<li><a href="http://sectools.org/tag/web-scanners/">Web scanners</a></li>
+<li><a href="http://sectools.org/tag/wireless/">Wireless</a></li>
+<li><a href="http://sectools.org/tag/sploits/">Exploitation</a></li>
+<li><a href="http://sectools.org/tag/packet-crafters/">Packet crafters</a></li>
+<li><a href="http://sectools.org/">More</a></li>
+</ul>
+<li><a href="http://insecure.org/">Site News</a></li>
+<li><a href="http://insecure.org/advertising.html">Advertising</a></li>
+<li><a href="http://insecure.org/fyodor/">About/Contact</a></li>
+<li>
+<!-- SiteSearch Google -->
+<form action="http://insecure.org/search.html" id="cse-search-box-sidebar">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="16">
+    <input type="submit" name="sa" value="Site Search">
+  </div>
+</form>
+<!-- End SiteSearch Google -->
+</li>
+<!-- These can come back if I ever update them ...
+<li><a href="http://insecure.org/links.html">Exceptional Links</a></li>
+<li><a href="http://insecure.org/reading.html">Good Reading</a></li>
+<li><a href="http://insecure.org/sploits.html">Exploit World</a></li>
+-->
+<li><a href="http://insecure.org/advertising.html">Sponsors:</a>
+
+<!-- Begin Sidebar 1 Banner Code -->
+<!-- Modified random image selection code -- original version at
+     http://www.bravenet.com/reviews/archives/tips.php?view=8 -->
+
+<NOSCRIPT>
+<A HREF="http://www.acunetix.com/vulnerability-scanner/download.htm"><IMG SRC="/shared/images/p/Acunetix/120x90_Scanner.gif" BORDER=0 HEIGHT=90 WIDTH=120 ALT="Acunetix"></A>
+</NOSCRIPT>
+
+<!-- End Sidebar 1 Banner Code -->
+
+<BR><BR>
+
+<!-- Begin Sidebar 2 Banner Code -->
+<!-- Modified random image selection code -- original version at
+     http://www.bravenet.com/reviews/archives/tips.php?view=8 -->
+
+<NOSCRIPT>
+<A HREF="https://www.mavitunasecurity.com/netsparker-trial-download/detect-web-application-security-vulnerabilities/?utm_source=insecure&utm_medium=banner&utm_campaign=scan4xsql"><IMG SRC="/shared/images/p/mavituna/scan4xsql_oranga_120x90.gif" BORDER=0 HEIGHT=90 WIDTH=120 ALT="Mavituna Security"></A>
+</NOSCRIPT>
+
+<!-- End Sidebar 2 Banner Code -->
+
+<BR><BR>
+
+
+</TD>
+<TD BGCOLOR="#FFFFFF" VALIGN="top" ALIGN="left"><IMG
+SRC="/shared/images/topleftcurve.gif" alt="/"><TABLE CELLPADDING="4" WIDTH="100%" style="table-layout: fixed;"><TR><TD BGCOLOR="#FFFFFF">
+
+<!--X-Body-Begin-->
+<!--X-User-Header-->
+<p>
+
+<FONT SIZE="+1"><a href="http://seclists.org/vuln-dev/">Vulnerability Development</a>
+mailing list archives</FONT><br>
+<!--X-User-Header-End-->
+<!--X-TopPNI-->
+<!-- Google Custom SiteSearch -->
+<form action="http://insecure.org/search.html" id="top-search-box">
+<a href="310"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#311">By Date</a>&nbsp;&nbsp;<a href="312"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="307"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#311">By Thread</a>&nbsp;&nbsp;<a href="312"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="24" />
+    <input type="submit" name="sa" value="Search" />
+</form>
+
+<!-- End Google Custom SiteSearch -->
+</p>
+
+<!--X-TopPNI-End-->
+<!--X-MsgBody-->
+<!--X-Subject-Header-Begin-->
+<font size="+2"><b>Re: Cisco PIX Firewall MailGuard Vulnerability</b></font>
+<hr>
+<!--X-Subject-Header-End-->
+<!--X-Head-of-Message-->
+
+
+<em>From</em>: &quot;Fabio Pietrosanti (naif)&quot; &lt;naif () inet it&gt;<br>
+
+<em>Date</em>: Thu, 27 Sep 2001 03:47:05 +0200<br>
+
+<!--X-Head-of-Message-End-->
+<!--X-Head-Body-Sep-Begin-->
+<hr>
+<!--X-Head-Body-Sep-End-->
+<!--X-Body-of-Message-->
+<pre style="margin: 0em;">Hi Jerome,
+
+this vulnerability was posted on bugtraq several month by me, and i worked
+with cisco trying their fixed version and they released the new release of pix .
+
+Now Cisco talk about another way to bypass SMTP content filtering, that&apos;s not
+the way i disocovered many month ago, i suppose.
+
+The new advisory it&apos;s dated 2001 September 26, look @ Bugtraq the official
+e-mail from cisco, because on the website this is not updated .
+
+Regards
+
+On Tue, Sep 25, 2001 at 02:42:01PM +0200, Jerome Tytgat wrote:
+</pre><blockquote style="border-left: #5555EE solid 0.2em; margin: 0em; padding-left: 0.85em"><pre style="margin: 0em;">rather outdated... 10-5-2000...
+
+All recents - &quot;less than one year&quot; - binary
+are ok (&gt;4.4.7, 5.1.4, 5.2.3, 5.3.1, 6.0.1).
+
+in fact the order of commands was not checked
+(you could send a DATA before a RCPT TO).
+
+And after sending a DATA command, command was not
+checked anymore.
+
+Simply send a DATA just after a HELO is refused by
+the mail server with a 500 error but the pix saws 
+the DATA command and is not checking anymore commands.
+
+So the mailserver was vulnerable against attack if it has
+bug (such as overflow).
+
+The SMTP fixup is here to prevent use of some functions
+like EXPN, VRFY.
+
+_______________________________________________________________
+ENERGIS
+Jerome Tytgat
+Network and Security Administrator
+<a  rel="nofollow" href="mailto:j.tytgat">mailto:j.tytgat</a> () energis fr        <a  rel="nofollow" href="http://www.energis.fr">http://www.energis.fr</a>
+tel : (33) 03 88 78 77 77       2, rue paul Rohmer
+fax : (33) 03 88 78 80 00       F-67087 Strasbourg Cedex 2
+_______________________________________________________________
+
+ 
+
+
+
+
+
+
+</pre><blockquote style="border-left: #5555EE solid 0.2em; margin: 0em; padding-left: 0.85em"><pre style="margin: 0em;">-----Message d&apos;origine-----
+De : Fabio Pietrosanti (naif) [<a  rel="nofollow" href="mailto:naif">mailto:naif</a> () sikurezza org]
+Envoye : mardi 25 septembre 2001 12:06
+A : vuln-dev () securityfocus com
+Objet : Cisco PIX Firewall MailGuard Vulnerability
+
+
+Hi,
+
+i have received the advisory from cisco about the vulnerability 
+in the subject
+described here:
+<a  rel="nofollow" href="http://www.cisco.com/warp/public/707/PIXfirewallSMTPfilter-pub.shtml">http://www.cisco.com/warp/public/707/PIXfirewallSMTPfilter-pub.shtml</a>
+
+I discovered the old mailguard vulnerability, and i would like to know if
+someone could explain in details about this new kind of attack 
+against SMTP
+filter .
+
+Regards
+
+-- 
+
+Fabio Pietrosanti ( naif )
+E-mail: naif () sikurezza org - naif () blackhats it
+PGP Key (DSS) <a  rel="nofollow" href="http://naif.itapac.net/naif.asc">http://naif.itapac.net/naif.asc</a>
+--
+Free advertising: www.openbsd.org Multiplatform Ultra-secure OS
+Free Flame: IPFilter sucks ! 
+
+</pre></blockquote></blockquote><pre style="margin: 0em;">
+
+-- 
+
+Fabio Pietrosanti ( naif )
+E-mail: naif () sikurezza org - naif () blackhats it
+PGP Key (DSS) <a  rel="nofollow" href="http://naif.itapac.net/naif.asc">http://naif.itapac.net/naif.asc</a>
+--
+Free advertising: www.openbsd.org Multiplatform Ultra-secure OS
+Free Flame: IPFilter sucks ! 
+
+</pre>
+<!--X-Body-of-Message-End-->
+<!--X-MsgBody-End-->
+<!--X-Follow-Ups-->
+<hr>
+<!--X-Follow-Ups-End-->
+<!--X-References-->
+<!--X-References-End-->
+<!--X-BotPNI-->
+<p>
+<a href="310"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#311">By Date</a>&nbsp;&nbsp;<a href="312"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="307"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#311">By Thread</a>&nbsp;&nbsp;<a href="312"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+</p>
+<font size="+1"><b>Current thread:</b></font>
+<ul style="margin-top: 0em">
+<li><a name="305" href="305">Cisco PIX Firewall MailGuard Vulnerability</a> <em>Fabio Pietrosanti (naif) (Sep 25)</em>
+<ul>
+<li><a name="307" href="307">RE: Cisco PIX Firewall MailGuard Vulnerability</a> <em>Jerome Tytgat (Sep 25)</em>
+<ul>
+<li><strong>Re: Cisco PIX Firewall MailGuard Vulnerability</strong> <em>Fabio Pietrosanti (naif) (Sep 27)</em>
+<ul>
+<li><a name="312" href="312">RE: Cisco PIX Firewall MailGuard Vulnerability</a> <em>Jerome Tytgat (Sep 27)</em>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<!--X-BotPNI-End-->
+<!--X-User-Footer-->
+<!--X-User-Footer-End-->
+</TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD></TD><TD ALIGN="center">
+<FONT COLOR="#FFFFFF">
+[ <A HREF="http://nmap.org"><FONT COLOR="#FFFFFF">Nmap</FONT></A> |
+  <A HREF="http://sectools.org"><FONT COLOR="#FFFFFF">Sec Tools</FONT></A> |
+  <A HREF="http://seclists.org/"><FONT COLOR="#FFFFFF">Mailing Lists</FONT></A> |
+  <A HREF="http://insecure.org/"><FONT COLOR="#FFFFFF">Site News</FONT></A> |
+  <A HREF="http://insecure.org/fyodor/"><FONT COLOR="#FFFFFF">About/Contact</FONT></A> |
+  <A HREF="http://insecure.org/advertising.html"><FONT COLOR="#FFFFFF">Advertising</FONT></A> |
+  <A HREF="http://insecure.org/privacy.html"><FONT COLOR="#FFFFFF">Privacy</FONT></A> ]<BR>
+</FONT>
+
+<!-- SiteSearch Google -->
+<gcse:searchbox-only></gcse:searchbox-only>
+<!-- End SiteSearch Google -->
+
+<!-- Bottom Banner -->
+
+
+<!-- End Bottom Banner -->
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>
+
+

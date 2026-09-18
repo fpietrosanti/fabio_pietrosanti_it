@@ -1,0 +1,1202 @@
+WO2008015723A2 - Method of recording a not repudiable digital transmission of information and identifying the participants in the communication 
+ - Google Patents 
+
+ WO2008015723A2 - Method of recording a not repudiable digital transmission of information and identifying the participants in the communication 
+ - Google Patents
+
+ Method of recording a not repudiable digital transmission of information and identifying the participants in the communication 
+
+ Download PDF 
+ Info
+
+ Publication number 
+ WO2008015723A2 
+
+ WO2008015723A2 
+ PCT/IT2007/000565 
+ IT2007000565W 
+ WO2008015723A2 
+ WO 2008015723 A2 
+ WO2008015723 A2 
+ WO 2008015723A2 
+
+ IT 2007000565 W 
+ IT2007000565 W 
+ IT 2007000565W 
+ WO 2008015723 A2 
+ WO2008015723 A2 
+ WO 2008015723A2 
+
+ Authority 
+ WO 
+ WIPO (PCT) 
+
+ Prior art keywords 
+ communication 
+ key 
+ identifier 
+ check 
+ biometric 
+
+ Prior art date 
+ 2006-08-04 
+
+ Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.) 
+
+ Ceased 
+
+ Application number 
+ PCT/IT2007/000565 
+
+ Other languages 
+
+ French ( fr )
+
+ Other versions 
+
+ WO2008015723A3 
+ ( en 
+
+ Inventor 
+ Federico Moro 
+ Lorenzo Boccaccia 
+ Fabio Pietrosanti 
+
+ Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.) 
+
+ KHAMSA ITALIA Srl
+
+ Original Assignee 
+ KHAMSA ITALIA Srl 
+
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.) 
+ 2006-08-04 
+
+ Filing date 
+ 2007-08-03 
+
+ Publication date 
+ 2008-02-07 
+
+ 2007-08-03 
+ Application filed by KHAMSA ITALIA Srl 
+ filed 
+ Critical 
+
+ KHAMSA ITALIA Srl 
+
+ 2007-08-03 
+ Priority to EP07805758A 
+ priority 
+ Critical 
+
+ patent/EP2057777A2/en 
+
+ 2008-02-07 
+ Publication of WO2008015723A2 
+ publication 
+ Critical 
+
+ patent/WO2008015723A2/en 
+
+ 2008-04-10 
+ Publication of WO2008015723A3 
+ publication 
+ Critical 
+
+ patent/WO2008015723A3/en 
+
+ 2009-02-04 
+ Anticipated expiration 
+ legal-status 
+ Critical 
+
+ Status 
+ Ceased 
+ legal-status 
+ Critical 
+ Current 
+
+ Links
+
+ Espacenet 
+
+ Global Dossier 
+
+ PatentScope 
+
+ Discuss 
+
+ Classifications
+
+ H — ELECTRICITY 
+
+ H04 — ELECTRIC COMMUNICATION TECHNIQUE 
+
+ H04L — TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION 
+
+ H04L9/00 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols 
+
+ H04L9/32 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of a user of the system or for message authentication, e.g. authorization, entity authentication, data integrity or data verification, non-repudiation, key authentication or verification of credentials 
+
+ H04L9/3263 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of a user of the system or for message authentication, e.g. authorization, entity authentication, data integrity or data verification, non-repudiation, key authentication or verification of credentials involving certificates, e.g. public key certificate [PKC] or attribute certificate [AC]; Public key infrastructure [PKI] arrangements 
+
+ H — ELECTRICITY 
+
+ H04 — ELECTRIC COMMUNICATION TECHNIQUE 
+
+ H04L — TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION 
+
+ H04L63/00 — Network architectures or network communication protocols for network security 
+
+ H04L63/12 — Applying verification of the received information 
+
+ H04L63/126 — Applying verification of the received information the source of the received data 
+
+ H — ELECTRICITY 
+
+ H04 — ELECTRIC COMMUNICATION TECHNIQUE 
+
+ H04L — TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION 
+
+ H04L9/00 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols 
+
+ H04L9/32 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of a user of the system or for message authentication, e.g. authorization, entity authentication, data integrity or data verification, non-repudiation, key authentication or verification of credentials 
+
+ H04L9/3226 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of a user of the system or for message authentication, e.g. authorization, entity authentication, data integrity or data verification, non-repudiation, key authentication or verification of credentials using a predetermined code, e.g. password, passphrase or PIN 
+
+ H04L9/3231 — Biological data, e.g. fingerprint, voice or retina 
+
+ H — ELECTRICITY 
+
+ H04 — ELECTRIC COMMUNICATION TECHNIQUE 
+
+ H04L — TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION 
+
+ H04L2209/00 — Additional information or applications relating to cryptographic mechanisms or cryptographic arrangements for secret or secure communication H04L9/00 
+
+ H04L2209/60 — Digital content management, e.g. content distribution 
+
+ H — ELECTRICITY 
+
+ H04 — ELECTRIC COMMUNICATION TECHNIQUE 
+
+ H04L — TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION 
+
+ H04L63/00 — Network architectures or network communication protocols for network security 
+
+ H04L63/08 — Network architectures or network communication protocols for network security for authentication of entities 
+
+ H04L63/0861 — Network architectures or network communication protocols for network security for authentication of entities using biometrical features, e.g. fingerprint, retina-scan 
+
+ Definitions
+
+ the invention 
+ relates generally to the field of protection of the communication integrity as well as certification and cryptography applied to telecommunication nets in order to avoid illegal intrusions during the transmission. More particularly it concerns a method of identifying the credentials of the participants in the communication for the not repudiable recording of the digital transmission of information. 
+
+ Apparatus and methods to carry out secure communications among two or more individuals 
+ are presently on the market, however, none of them has been developed and conceived to offer the users the maximum security and easiness of use. Furthermore, all such methods base the identification of the counterpart on insecure methods by the nature of the instruments used: although secure cryptographic methods borrowed, for example, from electronic mail systems are used, the nature itself of the apparatus facilitates the physical misappropriation of the property with annexed keys. 
+
+ the object of the present invention 
+ is a communication method and device programmed to achieve the predetermined aim of secure communication and identification. 
+
+ a secure channel 
+ is provided by a suitable protocol which guarantees an association between the public keys and the identity of the participants. 
+
+ the public keys 
+ are then divided into two groups: secure and insecure keys. All of the keys which are unknown to the user are considered to be insecure and all of the keys which are correctly identified and accepted by the user are considered to be secure. If the public keys received by the counterpart are different from those stored in preceding conversations with the counterpart or are not stored in the local memory of the users, they are considered ' to be insecure and the reciprocal check of the identities is carried out. 
+
+ the secure keys 
+ the identity check is carried out only in case the user requires it expressly (if the key is considered to be insecure again). 
+
+ the following protocol 
+ is carried out to identify the user and to check the identity. 
+
+ An identifier of the public cryptographic key of the sender 
+ is provided by a non-invertible mathematic (pure or procedural) function. This identifier is made interpretable by a person and displayed to the sender so as to provide a biometric model of the same. 
+
+ the biometric model of the identifier 
+ is sent to the recipient. This model can be signed by the private key of the sender to a greater security. 
+
+ the biometric model of such numerical identifier 
+ is interpreted by the recipient and compared with the identifier calculated on the base of the public certificate received upon setting up the secure communication channel or the key by which it has been signed. If the identifiers match with each other, the sender is identified, and the identifier exchange is repeated with exchanged roles. 
+
+ the public keys 
+ Once the public keys are authenticated, they can be used to sign and/or encrypt the communication among parties, thus providing a secure, not repudiable channel. 
+
+ the record 
+ takes place according to the procedure disclosed below. 
+
+ Each terminal 
+ can proceed apart from the other to keep the transmitted and/or received flows either keeping the transmitted flow and the received flow separate or mixing the same. 
+
+ the device which are recording the flows 
+ are matched on a periodic time interval of segmentation of the recorded flows. 
+
+ Such flows 
+ are signed digitally by each device and the signature is exchanged among the devices involved at such frequency. 
+
+ the users 
+ are supplied with an application able to perform cryptographic operations using asymmetrical keys to sign or encrypt digital data and to use symmetrical keys to encrypt data of digital flows. 
+
+ Such application 
+ provides the following procedural steps. During the installation step or upon request of the user it generates a digital certificate containing user's data and a pair of asymmetrical keys. 
+
+ the program 
+ can be distributed with a certificate ready to use enclosed with. 
+
+ an univocal identifier 
+ so-called fingerprint 
+
+ hashing function 
+ a biometric identifier 
+
+ This identifier 
+ can further be signed by the private key of the user to offer a further security means. 
+
+ a symmetric key 
+ is generated which is valid only for that communication session and is to be used to encrypt the following communication to protect the contents. 
+
+ This key 
+ can be generated in different ways, i.e. either by key generation algorithms existing at the state of art and able to protect the key from foreign listeners or by the caller using the public key of the recipient (if available) to send the encrypted key to the recipient or from a shared secret. 
+
+ the negotiation of the method of generating this first key to be used 
+ is left to the discretion of the implementations. 
+
+ the key 
+ is only used temporarily to protect the exchange of credentials as the keys generated by other methods are not able to guarantee the security of the contents, and is replaced as soon as the certificates of the counterparts are identified and considered to be secure by a new key. 
+
+ the public keys of the participants to be used, in case they are checked and considered to be secure, for the generation of the definitive session key used during the communication 
+ are distributed on the channel. 
+
+ These keys 
+ can optionally include the identifier in biometric format of the key enclosed with to automate the process. In the connection setting up step all participants have optionally the possibility of regenerating his/her own identifier in biometric format (the alphanumeric identifier being a function of the key used and then always the same for a given key). 
+
+ the check of the public key 
+ consists of the following steps that can be performed simultaneously by the participants in the communication which will be disclosed from the point of view of only one user: 1) the user asks a counterpart the univocal biometric identifier of the public, key, if not already distributed and enclosed with the public key; 
+
+ the user 
+ checks whether the identifier actually matches with the biometric identifier. 
+
+ a further interactive check 
+ can be carried out consisting of generating randomly a transitory identifier, sending it to the counterpart and waiting for a biometric corresponding one. 
+
+ the keys 
+ are stored and 1 associated univocally with the counterpart of the communication, thus providing a not repudiable check of the exchanged keys which are needed for the following communication check. 
+
+ the communication 
+ carries on without needing any authentication steps, and the generation of the session key can be performed directly by the caller by using the previously detailed method consisting of encrypting the session key with the public keys of the counterparts and distributing it to the latter. 
+
+ the caller 
+ can ask to repeat the biometric credential exchange apart from the fact that the key of the counterpart has been previously stored. 
+
+ the exchange of biometric identifiers 
+ can also take place in interactive manner during or at the beginning of the communication. In this case one can ask to identify in a biometric manner the key of the current session as warranty that the key is actually used by the counterparts. 
+
+ each apparatus 
+ can either store the flow of the counterparts or store all flows together keeping the same separated. 
+
+ each device 
+ signs the generated portion of the communication and. sends the hash thus obtained to the counterparts by using, if necessary, a suitable exchange algorithm for the digital signature which guarantees that the devices receives the signatures at the same time. 
+
+ a suitable exchange algorithm for the digital signature 
+ which guarantees that the devices receives the signatures at the same time. 
+
+ Fig. 1 
+ is a time diagram of the steps of a calling to a recipient with unknown certificate 
+
+ Fig. 2 
+ is a time diagram of the steps of a calling to a recipient with unknown certificate and reject of the biometric identifier 
+
+ Fig. 3 
+ is a time diagram of the steps of a calling to a recipient with known certificate 
+
+ Fig. 4 
+ is a time diagram of the steps of a calling to a recipient with known certificate and request of re-validation of the biometric imprint. 
+
+ the sequence of operations 
+ is disclosed only to check the identity by the caller and it is supposed the presence of only two participants in the communication. 
+
+ the recipient 
+ Before the setting up of the real communication channel and at the same time as the caller, the recipient performs a similar check as the caller which is dependent on the acceptance of the identifier by the caller but independent of the procedure used among those proposed by the caller: the recipient will perform a checking procedure suitable for the conditions of his/her own telephone and the' state of his/her own stored certificates. 
+
+ Telephone “b” 
+ calls, telephone "d” and establishes a session key. 
+
+ a protocol existing at the state of art 
+ is used to generate the session key. 
+
+ the session key 
+ can be provided from a shared secret of the two parties in the calling or through alternative equivalent protocols. 
+
+ Telephone "b” 
+ calls telephone “d” and attains the certificate. . 4. 
+
+ Telephone “b” 
+ checks through service “c” (that can be the memory of the telephone rather than an outside certificate test service) whether the certificate is present in the list with the identifying data. 5. In this case service “c” communicates to telephone “b” that the certificate is unknown. 6. 
+
+ Telephone "b” 
+ calls telephone “d” and asks it to supply a biometric identifier. 7. 
+
+ Telephone "d” 
+ asks telephone "e” a biometric model of the numerical identifier of the certificate. ⁇ .Telephone “e” supplies telephone “d” with the biometric identifier. 
+
+ Telephone “d” 
+ supplies telephone “b” with the biometric identifier of the certificate. 10. 
+
+ Telephone “b” 
+ shows to user “a” the biometric identifier of the certificate. 
+
+ Telephone "b” 
+ communicates to telephone "d” that the authentication has been accepted. 
+
+ the recognizing procedure 
+ is carried out with exchanged roles. 
+
+ the telephones 
+ inform the respective users that the communication is secure and may start. 
+
+ the initial session key 
+ has been generated in insecure way the caller regenerates a new session key and sends it in encrypted form together with the public key of the recipient to the counterpart. 
+
+ Caller "a” 
+ activates the program and selects recipient "e” from a list of telephone numbers or by dialling its number. 
+
+ Telephone “b” 
+ calls telephone "d” and establishes a session key. 
+
+ a protocol existing 
+ at the state of art is used to generate session keys. 
+
+ the session key 
+ can be provided from a shared secret of the two parties in the calling or an alternative equivalent protocol. 
+
+ Telephone "b” 
+ calls telephone "d” of the recipient and attains the certificate. 
+
+ Telephone “b” 
+ checks through service “c" (that can be the memory of the telephone rather than an outside certificate test service) whether the certificate is present in the list with the identifying data. 
+
+ service "c” 
+ communicates to telephone "b" that the certificate is unknown. 
+
+ Telephone “b” 
+ calls telephone "d” and asks it to supply a biometric identifier. 
+
+ Telephone “d” 
+ asks telephone "e” a biometric model of the numerical identifier of the certificate. 
+
+ ⁇ .Telephone “e” 
+ supplies telephone "d” with the biometric identifier. 
+
+ Telephone “d” 
+ supplies telephone "b” with the biometric identifier of the certificate. 
+
+ Telephone “b” 
+ shows to user “a” the biometric identifier of the certificate. 
+
+ Telephone “b” 
+ communicates to telephone “d” the acceptance of the certificate and sends a random, encrypted session key together with the public key of the counterpart. (If the counterpart had changed the certificate as he/she cannot accept the session key, he/she would ask the caller a session key generated by another available protocol and would supply the caller with the new certificate and would repeat the biometric identification procedure). 
+
+ the recognizing procedure 
+ is carried out with exchanged roles. 7. 
+
+ the telephones 
+ inform the respective users that the communication is secure and may start. 
+
+ Caller "a” 
+ activates the program and selects recipient "e” from a list of telephone numbers or by dialling its number. 
+
+ telephone "b” 
+ looks for the certificate corresponding to the recipient through service "c" (that can be the memory of the telephone rather than an outside certificate test service). 3. 
+
+ the service 
+ communicates the certificate to the telephone. 
+
+ Telephone "b” 
+ asks user "a” whether the certificate is to be accepted. 
+
+ Telephone “b” 
+ calls telephone "d” and establishes a session key. 
+
+ a protocol existing at the state of art 
+ is used to generate session keys. 
+
+ the session key 
+ can be provided from a shared secret of the two parties in the calling or through alternative equivalent protocols. 
+
+ Telephone "b” 
+ calls telephone "d” and asks it a new biometric identifier. 
+
+ Telephone “d” 
+ asks telephone "e” a biometric model of the numerical identifier of the certificate. 
+
+ Telephone “d” 
+ supplies telephone "b” with the biometric identifier of the certificate. 
+
+ Telephone “b” 
+ shows to user “a” the biometric identifier of the certificate. 12. 
+
+ User “a” 
+ decides in this case to accept the received biometric identifier. 
+
+ Telephone "b” 
+ sends the certificate to storage service "e”. 
+
+ Service “c” 
+ acknowledges the receipt of the certificate. 
+
+ Telephone “b” 
+ communicates to telephone "d” that the authentication has been accepted. 
+
+ the recognizing procedure 
+ is carried out with exchanged roles. 
+
+ the telephones 
+ inform the respective users that the communication is secure and may start. As in this case the initial session key has been generated in insecure way the caller regenerates a new session key and sends it in encrypted form together with the public key of the recipient to the counterpart. 
+
+ Landscapes
+
+ Engineering & Computer Science 
+ ( AREA )
+
+ Computer Security & Cryptography 
+ ( AREA )
+
+ Computer Networks & Wireless Communication 
+ ( AREA )
+
+ Signal Processing 
+ ( AREA )
+
+ Health & Medical Sciences 
+ ( AREA )
+
+ Life Sciences & Earth Sciences 
+ ( AREA )
+
+ Biodiversity & Conservation Biology 
+ ( AREA )
+
+ Biomedical Technology 
+ ( AREA )
+
+ General Health & Medical Sciences 
+ ( AREA )
+
+ Computer Hardware Design 
+ ( AREA )
+
+ Computing Systems 
+ ( AREA )
+
+ General Engineering & Computer Science 
+ ( AREA )
+
+ Mobile Radio Communication Systems 
+ ( AREA )
+
+ Data Exchanges In Wide-Area Networks 
+ ( AREA )
+
+ Two-Way Televisions, Distribution Of Moving Picture Or The Like 
+ ( AREA )
+
+ Credit Cards Or The Like 
+ ( AREA )
+
+ Abstract
+
+ A multimedia protocol to check the identity of the participants in a communication as well as the correctness of information exchange on a digital channel is similar to the hashing procedure to check the integrity of data by biometric, bi-directional test. Asymmetric, cryptographic keys are exchanged and tested by the protocol so that the conversation is carried on by standard encryption protocols. The main object of the finding is to allow two or more participants in a communication to ensure the latter is not repudiated.
+
+ Description
+
+ Method of recording a not repudiable digital transmission of information and identifying the participants in the communication
+
+ FIELD OF THE INVENTION
+
+ The invention relates generally to the field of protection of the communication integrity as well as certification and cryptography applied to telecommunication nets in order to avoid illegal intrusions during the transmission. More particularly it concerns a method of identifying the credentials of the participants in the communication for the not repudiable recording of the digital transmission of information.
+
+ STATE OF ART
+
+ Apparatus and methods to carry out secure communications among two or more individuals are presently on the market, however, none of them has been developed and conceived to offer the users the maximum security and easiness of use. Furthermore, all such methods base the identification of the counterpart on insecure methods by the nature of the instruments used: although secure cryptographic methods borrowed, for example, from electronic mail systems are used, the nature itself of the apparatus facilitates the physical misappropriation of the property with annexed keys. The object of the present invention is a communication method and device programmed to achieve the predetermined aim of secure communication and identification.
+
+ It is still an object of the present invention to provide a method of identifying the credentials of the participants in the communication also for a not repudiable recording of the digital transmission of information by using means and technologies which are known among apparatus and protocols of the telecommunication nets to operate by reliable chat techniques of prompt implementation. 
+
+ These and other objects will be more readily understood from the following description and are accomplished by a method of recording a digital transmission of information in a not repudiable way as well as identifying the participants in the communication according .to the principles set forth in the appended claims.
+
+ By the use of special cryptographic protocols and algorithms these device and method allow a secure channel for communication and confidential information exchange to be set up without any interception of the content of such communications. These communication protocols exist at the state of art, however, they do not solve alone the problem of identifying the counterparts. In addition to the cryptographic security of the communication a particular attention is then paid to the secure identification of the participants in the communication by providing biometric identification mechanisms of easy use and not repudiable conversation storing systems able to provide a suitable complement to the identity check. At the state of art it is then possible to establish a secure communication that cannot be tapped in case all participants in the communication have the public keys of all other participants if and only if those public keys are provided in a secure way. This gives rise to the problem of supplying the participants with their own key in a secure way on an insecure channel as before the exchange of the keys no one can be sure that the counterparts are actually the owner of the certificates of security or that such certificates are actually those sent by the counterparts because the channel is not secure.
+
+ SUMMARY OF THE INVENTION
+
+ According to the finding, upon setting up the communication a secure channel is provided by a suitable protocol which guarantees an association between the public keys and the identity of the participants. The public keys are then divided into two groups: secure and insecure 
+
+ keys. All of the keys which are unknown to the user are considered to be insecure and all of the keys which are correctly identified and accepted by the user are considered to be secure. If the public keys received by the counterpart are different from those stored in preceding conversations with the counterpart or are not stored in the local memory of the users, they are considered ' to be insecure and the reciprocal check of the identities is carried out. Regarding the secure keys, the identity check is carried out only in case the user requires it expressly (if the key is considered to be insecure again).
+
+ The following protocol is carried out to identify the user and to check the identity.
+
+ An identifier of the public cryptographic key of the sender is provided by a non-invertible mathematic (pure or procedural) function. This identifier is made interpretable by a person and displayed to the sender so as to provide a biometric model of the same. The biometric model of the identifier is sent to the recipient. This model can be signed by the private key of the sender to a greater security. The biometric model of such numerical identifier is interpreted by the recipient and compared with the identifier calculated on the base of the public certificate received upon setting up the secure communication channel or the key by which it has been signed. If the identifiers match with each other, the sender is identified, and the identifier exchange is repeated with exchanged roles. In case of positive check of both keys, the same are stored and associated univocally with the counterpart of the communication, thus providing a not repudiable check of the exchanged certificates. If instead the initially exchanged public keys match with those stored, the communication carries on without needing the preceding authentication steps.
+
+ Once the public keys are authenticated, they can be used to sign and/or encrypt the communication among parties, thus providing a 
+
+ secure, not repudiable channel.
+
+ The record takes place according to the procedure disclosed below. Each terminal can proceed apart from the other to keep the transmitted and/or received flows either keeping the transmitted flow and the received flow separate or mixing the same.
+
+ The device which are recording the flows are matched on a periodic time interval of segmentation of the recorded flows. Such flows are signed digitally by each device and the signature is exchanged among the devices involved at such frequency. Only by way of a better understanding of the invention and without limiting thereby the scope and the fields where it can find application, some specific embodiments will be described herebelow.
+
+ DISCLOSURE OF A PREFERRED EMBODIMENT Going into details bf the procedure, the users are supplied with an application able to perform cryptographic operations using asymmetrical keys to sign or encrypt digital data and to use symmetrical keys to encrypt data of digital flows. Such application provides the following procedural steps. During the installation step or upon request of the user it generates a digital certificate containing user's data and a pair of asymmetrical keys.
+
+ As an alternative, the program can be distributed with a certificate ready to use enclosed with. After the generation of each public or private key an univocal identifier, so-called fingerprint, is generated as a result of a not invertible, mathematic function which is known at the state of art under different variations, the so-called hashing function. A biometric identifier is generated from each univocal identifier. This is generated by converting the previously obtained identifier into an alphanumeric sequence which represents univocally its value, then displaying such value to the user, and at last storing a biometric representation of the 
+
+ user to be associated with such value, in case it is both a record of the user reciting the generated alphanumeric sequence and a picture of the user carrying a label with alphanumeric codes of the sequence. This identifier can further be signed by the private key of the user to offer a further security means.
+
+ Upon setting up the communication, a symmetric key is generated which is valid only for that communication session and is to be used to encrypt the following communication to protect the contents. This key can be generated in different ways, i.e. either by key generation algorithms existing at the state of art and able to protect the key from foreign listeners or by the caller using the public key of the recipient (if available) to send the encrypted key to the recipient or from a shared secret. The negotiation of the method of generating this first key to be used is left to the discretion of the implementations. If the method of generating and sending public keys is not used, the key is only used temporarily to protect the exchange of credentials as the keys generated by other methods are not able to guarantee the security of the contents, and is replaced as soon as the certificates of the counterparts are identified and considered to be secure by a new key. The public keys of the participants to be used, in case they are checked and considered to be secure, for the generation of the definitive session key used during the communication are distributed on the channel. These keys can optionally include the identifier in biometric format of the key enclosed with to automate the process. In the connection setting up step all participants have optionally the possibility of regenerating his/her own identifier in biometric format (the alphanumeric identifier being a function of the key used and then always the same for a given key). The check of the public key consists of the following steps that can be performed simultaneously by the participants in the communication which will be disclosed from the point of view of only one user: 1) the user asks a counterpart the univocal biometric identifier of the 
+
+ public, key, if not already distributed and enclosed with the public key;
+
+ 2) as soon as it is received the user calculates the identifier of the public key of the counterpart from the key itself by using the same algorithm used by the counterpart for the generation of the alphanumeric identifier;
+
+ 3) the user checks whether the identifier actually matches with the biometric identifier.
+
+ If the check is successfully, the certificate is stored as valid; if the check fails the certificate is discarded and the communication interrupted; optionally, if the uncertainty is not removed, a further interactive check can be carried out consisting of generating randomly a transitory identifier, sending it to the counterpart and waiting for a biometric corresponding one. In case of a first communication among parties after the check, the keys are stored and 1 associated univocally with the counterpart of the communication, thus providing a not repudiable check of the exchanged keys which are needed for the following communication check. Conversely, if the public keys exchanged in the following communications match with those stored, the communication carries on without needing any authentication steps, and the generation of the session key can be performed directly by the caller by using the previously detailed method consisting of encrypting the session key with the public keys of the counterparts and distributing it to the latter.
+
+ For a greater security, before establishing the connection the caller can ask to repeat the biometric credential exchange apart from the fact that the key of the counterpart has been previously stored. As further security measure, the exchange of biometric identifiers can also take place in interactive manner during or at the beginning of the communication. In this case one can ask to identify in a biometric manner the key of the current session as warranty that the key is 
+
+ actually used by the counterparts.
+
+ In this, way the result of associating univocally the keys used to make the communication to the recipient secure is achieved. During the communication among parties all of the devices involved record the content of the data transmission flow. This can be done in different ways: each apparatus can either store the flow of the counterparts or store all flows together keeping the same separated. After the end of the communication or at determined intervals each device signs the generated portion of the communication and. sends the hash thus obtained to the counterparts by using, if necessary, a suitable exchange algorithm for the digital signature which guarantees that the devices receives the signatures at the same time. Such process uses the private keys of the participants to generate the signatures by using protocols existing at the state of art. The storage of the signatures by all participants in the communication guarantees that anyone could demonstrate the presence of the counterpart in the discussion by using the signature, the delivered public key and the associated biometric identifier. Thus it is obtained the result of a not repudiable communication. Some specific embodiments will be described below with reference to the accompanying drawings only by way of example without limiting the scope and the fields of application of the invention. In the drawings:
+
+ Fig. 1 is a time diagram of the steps of a calling to a recipient with unknown certificate;
+
+ Fig. 2 is a time diagram of the steps of a calling to a recipient with unknown certificate and reject of the biometric identifier;
+
+ Fig. 3 is a time diagram of the steps of a calling to a recipient with known certificate; 
+
+ Fig. 4 is a time diagram of the steps of a calling to a recipient with known certificate and request of re-validation of the biometric imprint.
+
+ In these embodiments the sequence of operations is disclosed only to check the identity by the caller and it is supposed the presence of only two participants in the communication. Before the setting up of the real communication channel and at the same time as the caller, the recipient performs a similar check as the caller which is dependent on the acceptance of the identifier by the caller but independent of the procedure used among those proposed by the caller: the recipient will perform a checking procedure suitable for the conditions of his/her own telephone and the' state of his/her own stored certificates.
+
+ Figure 1 : calling to recipient with unknown certificate:
+
+ 1. Caller "a" activates the program and selects the recipient "e" from the list of telephone numbers or by dialling its number.
+
+ 2. Telephone "b" calls, telephone "d" and establishes a session key. In this case, as there is no certificate a protocol existing at the state of art is used to generate the session key. As an alternative, the session key can be provided from a shared secret of the two parties in the calling or through alternative equivalent protocols.
+
+ 3. Telephone "b" calls telephone "d" and attains the certificate. . 4. Telephone "b" checks through service "c" (that can be the memory of the telephone rather than an outside certificate test service) whether the certificate is present in the list with the identifying data. 5. In this case service "c" communicates to telephone "b" that the certificate is unknown. 6. Telephone "b" calls telephone "d" and asks it to supply a biometric identifier. 7. Telephone "d" asks telephone "e" a biometric model of the 
+
+ numerical identifier of the certificate. δ.Telephone "e" supplies telephone "d" with the biometric identifier. 9. Telephone "d" supplies telephone "b" with the biometric identifier of the certificate. 10. Telephone "b" shows to user "a" the biometric identifier of the certificate.
+
+ 1 1. User "a" decides in this case to accept the received biometric identifier.
+
+ 12. Telephone "b" sends the certificate to storage "c". 13. Storage "c" acknowledges the receipt of the certificate.
+
+ 14. Telephone "b" communicates to telephone "d" that the authentication has been accepted.
+
+ X. The recognizing procedure is carried out with exchanged roles.
+
+ 15. The telephones inform the respective users that the communication is secure and may start. As in this case the initial session key has been generated in insecure way the caller regenerates a new session key and sends it in encrypted form together with the public key of the recipient to the counterpart.
+
+ Figure 2: calling to recipient with unknown certificate and reject of the biometric imprint:
+
+ 1. Caller "a" activates the program and selects recipient "e" from a list of telephone numbers or by dialling its number.
+
+ 2. Telephone "b" calls telephone "d" and establishes a session key. In this case, because of the lack of certificates a protocol existing, at the state of art is used to generate session keys. Alternatively, the session key can be provided from a shared secret of the two parties in the calling or an alternative equivalent protocol.
+
+ 3. Telephone "b" calls telephone "d" of the recipient and attains the certificate.
+
+ 4. Telephone "b" checks through service "c" (that can be the memory of the telephone rather than an outside certificate test service) whether 
+
+ the certificate is present in the list with the identifying data.
+
+ 5. In this case service "c" communicates to telephone "b" that the certificate is unknown.
+
+ 6. Telephone "b" calls telephone "d" and asks it to supply a biometric identifier.
+
+ 7. Telephone "d" asks telephone "e" a biometric model of the numerical identifier of the certificate. δ.Telephone "e" supplies telephone "d" with the biometric identifier.
+
+ 9. Telephone "d" supplies telephone "b" with the biometric identifier of the certificate.
+
+ 10. Telephone "b" shows to user "a" the biometric identifier of the certificate.
+
+ 11. User "a" decides in this case to reject the received biometric identifier. 12. Telephone "b" shuts off the connection immediately.
+
+ Figure 3: calling to a recipient with known certificate:
+
+ 1. Caller "a" activates the program and selects recipient "e" from a list of telephone numbers or by dialling its number. 2. As the number had been already checked, telephone "d" looks for the certificate corresponding to the recipient through service "c" (that can be the memory of the telephone rather than an outside certificate test service).
+
+ 3. The service communicates the certificate to the telephone. 4. Telephone "b" asks user "a" whether the certificate is to be accepted.
+
+ 5. User "a" recognizes the certificate.
+
+ 6. Telephone "b" communicates to telephone "d" the acceptance of the certificate and sends a random, encrypted session key together with the public key of the counterpart. (If the counterpart had changed the certificate as he/she cannot accept the session key, he/she would ask the caller a session key generated by another available protocol 
+
+ and would supply the caller with the new certificate and would repeat the biometric identification procedure).
+
+ X. The recognizing procedure is carried out with exchanged roles. 7. The telephones inform the respective users that the communication is secure and may start.
+
+ Figure 4: calling to a recipient with known certificate and request of re- validation of the biometric imprint:
+
+ 1. Caller "a" activates the program and selects recipient "e" from a list of telephone numbers or by dialling its number.
+
+ 2. As the number had been already checked, telephone "b" looks for the certificate corresponding to the recipient through service "c" (that can be the memory of the telephone rather than an outside certificate test service). 3. The service communicates the certificate to the telephone.
+
+ 4. Telephone "b" asks user "a" whether the certificate is to be accepted.
+
+ 5. User "a" does not recognize the certificate.
+
+ 6. Telephone "b" calls telephone "d" and establishes a session key. In this case, as the certificate is not recognized a protocol existing at the state of art is used to generate session keys. Alternatively, the session key can be provided from a shared secret of the two parties in the calling or through alternative equivalent protocols.
+
+ 7. Telephone "b" calls telephone "d" and asks it a new biometric identifier.
+
+ 8. Telephone "d" asks telephone "e" a biometric model of the numerical identifier of the certificate.
+
+ 9.Telephone "e" supplies telephone "d" with the biometric identifier.
+
+ 10. Telephone "d" supplies telephone "b" with the biometric identifier of the certificate.
+
+ 11. Telephone "b" shows to user "a" the biometric identifier of the certificate. 
+
+ 12. User "a" decides in this case to accept the received biometric identifier.
+
+ 13. Telephone "b" sends the certificate to storage service "e".
+
+ 14. Service "c" acknowledges the receipt of the certificate. 15. Telephone "b" communicates to telephone "d" that the authentication has been accepted.
+
+ X. The recognizing procedure is carried out with exchanged roles.
+
+ 16. The telephones inform the respective users that the communication is secure and may start. As in this case the initial session key has been generated in insecure way the caller regenerates a new session key and sends it in encrypted form together with the public key of the recipient to the counterpart. 
+
+ Claims
+
+ Claims
+
+ 1. A method of identifying the participants in the communication characterized in that cryptographic protocols are used to check the integrity and the correctness of the information exchange on a digital channel and based on biometric, bi-directional check and collection of the credentials of each participant in the communication, thus ensuring that the presence of the counterpart in the communication can be authenticated by means of the signature, the delivered public key and the associated biometric identifier.
+
+ 2. A method of recording a digital transmission of information in a not repudiable way as set forth in claim 1, characterized in that cryptographic protocols are used to check the integrity and the correctness of the information exchange on a digital channel and based upon bi-directional check and exchange subject to prior check of asymmetrical cryptographic keys by which the conversation is carried on with standard encryption protocols, as well as upon collection of the credentials of each participant in the communication, thus ensuring that the presence of the counterpart in the communication can be authenticated by means of the signature, the delivered public key and the associated identifier.
+
+ 3. The method of recording a digital transmission of information in a not repudiable way and identifying the participants in the communication as set forth in any preceding claim, characterized in that:
+
+ I - during the initialisation step a digital certificate containing user's data and a pair of asymmetrical keys are generated or annexed;
+
+ II - after the generation of each public or private key an univocal identifier is supplied resulting from a known mathematic function, so- 
+
+ called not invertible hashing function, thus providing from each univocal identifier a biometric identifier by: a - conversion of the previously obtained identifier into an alphanumeric sequence representing its value univocally; b - displaying such value to the user; and at last c - storing a biometric representation of the user to be associated to said value;
+
+ III - upon establishing the communication a symmetric valid key is generated only for one communication session to be used to encrypt the whole following communication so that its contents are protected;
+
+ IV - the public keys of the participants to be used, if checked, to generate the definitive session key during the communication are distributed in the channel, these keys including optionally the identifier of the key enclosed with in biometric format; V - the check of the public key is carried out by the following steps: a) the user asks a counterpart the univocal identifier of the public key, if not already distributed and enclosed with the public key; b) the user calculates the identifier of the public key of the counterpart from the key itself by using the same algorithm used by the counterpart for the generation of the alphanumeric identifier; c) the user checks whether the identifier actually matches with the biometric identifier; ' c-1) if the check is successfully, then the certificate is stored as valid; c-2) if the check fails the certificate is discarded and the communication interrupted; c-3) optionally, if the uncertainty is not removed, a further interactive check is carried out consisting of generating randomly a transitory identifier, sending it to the counterpart and waiting for a biometric corresponding one; ' " VI-a in case of a first communication among parties after the check, the keys are stored and associated univocally with the counterpart of the communication, thus providing a not repudiable check of the 
+
+ exchanged keys which are needed for the following communication check;
+
+ VI-b if the public keys exchanged in the following communications match with those stored, the communication carries on without needing any authentication steps, and the generation of the session key is performed directly by the caller by encrypting the session key with the public keys of the counterparts and distributing it to the latter; ■
+
+ VII - during the communication among parties all devices involved record the contents of the data transmission flow;
+
+ VIII - after the end of the communication or at determined intervals each device signs the generated portion of the communication and sends it to the counterparts by using, if necessary, an exchange algorithm for the digital signature which guarantees that the devices receive the signatures at the same time.
+
+ 4. The method of recording a digital transmission of information in a not repudiable way and identifying the participants in the communication as set forth in any preceding claim, characterized in that after the generation of each public or private key by providing the univocal identifier and the corresponding biometric identifier, the latter is further signed by the private key of the user to offer a further security means.
+
+ 5. The method of recording a digital transmission of information in a not repudiable way and identifying the participants in the communication as set forth in any preceding claim, characterized in that during the setting up of the communication the symmetric key to be used to encrypt the following communication is generated by the usual key generation algorithms able to protect the key from foreign listeners. 
+
+ 6. The method of recording a digital transmission of information in a not repudiable way and identifying the participants in the communication as set forth in any preceding elalm^ charaeterized in that during the setting up of the communication the symmetric key to be used to encrypt the following communication is generated by the caller using the public key of the recipient by sending it to the latter in encrypted way.
+
+ 9. The method of recording a digital transmission of information in a not repudiable way and identifying the participants in the communication as set forth in any preceding claim, characterized in that, as further security measure, the exchange of biometric identifiers takes also place in interactive manner during or at the beginning of the following communications, asking to identify in a feiometric manner 
+
+ the key of the current session as warranty that the key is actually used by the counterparts.
+
+ 10. The secure method according to any preceding claim, wherein identifiers of cryptographic keys are generated that can be interpreted by and/or are intelligible to anyone.
+
+ 11. The secure method according to any preceding claim, wherein biometric identifiers are generated from numerical identifiers.
+
+ 12. The method according to any preceding claim, wherein it allows the check of the owner of a cryptographic key.
+
+ 13. The method according to any preceding claim, wherein it allows the check of the owner of a cryptographic key by a biometric identifier.
+
+ 14. The method according to any preceding claim, wherein it allows the check of a session key or symmetric key by using biometric identifiers.
+
+ 15. A device for the implementation of the method according to claims 10 and 11 by software programs.
+
+ 16. The device for the implementation of the method according to claims 10 and 11 by software programs, wherein the identities of the actors in the communication are identified under security conditions.
+
+ 17. The device for the implementation of the use of secure public keys by software programs according to claim 13, wherein a secure communication channel is provided among the actors in the communication. 
+
+ 18. The device for the implementation of the method according to claims 10 and 11 by software programs using the method according to claims 13 and 14, wherein a secure communication is provided such that third parties are prevented from intercepting its content.
+
+ 19. The device for the implementation of the method according to claims 10 and 11 by software programs using the method according to claims 13 and 14, wherein a secure communication is provided such that the identity of the caller is guaranteed.
+
+ 20. The device for the implementation of the method according to claims 10, 11, 12, 13, 14, 15 and 16 by software programs, wherein it just needs an installation of the program.
+
+ 21. The device for the implementation of the method according to claim 16 by software programs, wherein it allows secure communications to be performed just by installing the relative program.
+
+ 22. The method according to any preceding claim, wherein the records are signed.
+
+ 23. The method according to any preceding claim, wherein the privacy in a communication is guaranteed.
+
+ 24. The method according to any preceding claim, wherein the identities of the parties involved in a communication are guaranteed on a certainty.
+
+ 25. The method of implementing and distributing digital communication packets according to any preceding claim, wherein 
+
+ the identity of the packet is guaranteed for all devices participating in the communication.
+
+ 26. The method of digitally signing the generated digital communication packets according to claim 22 wherein the interaction of the check operations is guaranteed.
+
+ 27. The method of simultaneously signing communications according to claims 22, 23 and 24, wherein all participants are given a not repudiable model of the same owing to the cryptographic signature of the records and the warranty of the privacy of the communication. 
+
+ PCT/IT2007/000565 
+ 2006-08-04 
+ 2007-08-03 
+ Method of recording a not repudiable digital transmission of information and identifying the participants in the communication 
+
+ Ceased 
+
+ WO2008015723A2 
+ ( en )
+
+ Priority Applications (1)
+
+ Application Number 
+ Priority Date 
+ Filing Date 
+ Title 
+
+ EP07805758A 
+
+ EP2057777A2 
+ ( en )
+
+ 2006-08-04 
+ 2007-08-03 
+ Method of recording a not repudiable digital transmission of information and identifying the participants in the communication 
+
+ Applications Claiming Priority (2)
+
+ Application Number 
+ Priority Date 
+ Filing Date 
+ Title 
+
+ ITRM20060426 
+
+ ITRM20060426A1 
+ ( en )
+
+ 2006-08-04 
+ 2006-08-04 
+
+ METHOD FOR NON-REPAIR RECORDING OF A DIGITAL TRANSMISSION OF INFORMATION AND FOR THE IDENTIFICATION OF COMMUNICATION PARTICIPANTS
+
+ ITRM2006A000426 
+
+ 2006-08-04 
+
+ Publications (2)
+
+ Publication Number 
+ Publication Date 
+
+ WO2008015723A2 
+
+ true 
+
+ WO2008015723A2
+ ( en )
+
+ 2008-02-07 
+
+ WO2008015723A3 
+
+ WO2008015723A3
+ ( en )
+
+ 2008-04-10 
+
+ Family
+
+ ID=38795823
+
+ Family Applications (1)
+
+ Application Number 
+ Title 
+ Priority Date 
+ Filing Date 
+
+ PCT/IT2007/000565 
+ Ceased 
+
+ WO2008015723A2 
+ ( en )
+
+ 2006-08-04 
+ 2007-08-03 
+ Method of recording a not repudiable digital transmission of information and identifying the participants in the communication 
+
+ Country Status (3)
+
+ Country 
+ Link 
+
+ EP 
+ ( 1 )
+
+ EP2057777A2 
+ ( en )
+
+ IT 
+ ( 1 )
+
+ ITRM20060426A1 
+ ( en )
+
+ WO 
+ ( 1 )
+
+ WO2008015723A2 
+ ( en )
+
+ Cited By (1)
+
+ * Cited by examiner, † Cited by third party 
+
+ Publication number 
+ Priority date 
+ Publication date 
+ Assignee 
+ Title 
+
+ US8917840B2 
+ ( en )
+
+ 2009-12-14 
+ 2014-12-23 
+ International Business Machines Corporation 
+ Enhanced privacy caller identification system 
+
+ Family Cites Families (3)
+
+ * Cited by examiner, † Cited by third party 
+
+ Publication number 
+ Priority date 
+ Publication date 
+ Assignee 
+ Title 
+
+ US5872848A 
+ ( en )
+
+ * 
+
+ 1997-02-18 
+ 1999-02-16 
+ Arcanvs 
+ Method and apparatus for witnessed authentication of electronic documents 
+
+ NL1007472C2 
+ ( en )
+
+ * 
+
+ 1997-11-06 
+ 1999-05-10 
+ Koninkl Kpn Nv 
+
+ Method and device for the secure storage of data from message traffic.
+
+ US7047416B2 
+ ( en )
+
+ * 
+
+ 1998-11-09 
+ 2006-05-16 
+ First Data Corporation 
+ Account-based digital signature (ABDS) system 
+
+ 2006 
+
+ 2006-08-04 
+ IT 
+ ITRM20060426 
+ patent/ITRM20060426A1/en 
+ unknown 
+
+ 2007 
+
+ 2007-08-03 
+ EP 
+ EP07805758A 
+ patent/EP2057777A2/en 
+ not_active 
+ Withdrawn 
+
+ 2007-08-03 
+ WO 
+ PCT/IT2007/000565 
+ patent/WO2008015723A2/en 
+ not_active 
+ Ceased 
+
+ Cited By (1)
+
+ * Cited by examiner, † Cited by third party 
+
+ Publication number 
+ Priority date 
+ Publication date 
+ Assignee 
+ Title 
+
+ US8917840B2 
+ ( en )
+
+ 2009-12-14 
+ 2014-12-23 
+ International Business Machines Corporation 
+ Enhanced privacy caller identification system 
+
+ Also Published As
+
+ Publication number 
+ Publication date 
+
+ EP2057777A2 
+ ( en )
+
+ 2009-05-13 
+
+ ITRM20060426A1 
+ ( en )
+
+ 2008-02-05 
+
+ WO2008015723A3 
+ ( en )
+
+ 2008-04-10 
+
+ Similar Documents
+
+ Publication 
+ Publication Date 
+ Title 
+
+ CN109672539B 
+ ( en )
+
+ 2021-11-05 
+
+ SM2 algorithm collaborative signature and decryption method, device and system 
+
+ CN105245341B 
+ ( en )
+
+ 2018-11-30 
+
+ Remote identity authentication method and system and long-range account-opening method and system 
+
+ US7020778B1 
+ ( en )
+
+ 2006-03-28 
+
+ Method for issuing an electronic identity 
+
+ CN108199835B 
+ ( en )
+
+ 2021-11-30 
+
+ Multi-party combined private key decryption method 
+
+ CN111865603B 
+ ( en )
+
+ 2025-02-28 
+
+ Authentication method, authentication device and authentication system
+
+ CN104735068B 
+ ( en )
+
+ 2018-11-30 
+
+ Method based on the close SIP safety certification of state 
+
+ US10826711B2 
+ ( en )
+
+ 2020-11-03 
+
+ Public key infrastructure and method of distribution 
+
+ CN109150897B 
+ ( en )
+
+ 2021-05-28 
+
+ End-to-end communication encryption method and device 
+
+ CA2457493A1 
+ ( en )
+
+ 2003-02-20 
+
+ Data certification method and apparatus 
+
+ CN108243181A 
+ ( en )
+
+ 2018-07-03 
+
+ A kind of car networking terminal, data ciphering method and car networking server 
+
+ WO2017201809A1 
+ ( en )
+
+ 2017-11-30 
+
+ Communication method and system for terminal 
+
+ CN108599925A 
+ ( en )
+
+ 2018-09-28 
+
+ A kind of modified AKA identity authorization systems and method based on quantum communication network 
+
+ CN112766962A 
+ ( en )
+
+ 2021-05-07 
+
+ Method for receiving and sending certificate, transaction system, storage medium and electronic device 
+
+ CN114826659B 
+ ( en )
+
+ 2024-07-26 
+
+ Encryption communication method and system 
+
+ CN113204760B 
+ ( en )
+
+ 2022-04-15 
+
+ Method and system for establishing secure channel for software cryptographic module 
+
+ CN101083843A 
+ ( en )
+
+ 2007-12-05 
+
+ Method and system for confirming terminal identity in mobile terminal communication 
+
+ CN108199844B 
+ ( en )
+
+ 2022-05-13 
+
+ Method for supporting off-line SM9 algorithm key first application downloading 
+
+ CN110544101A 
+ ( en )
+
+ 2019-12-06 
+
+ SM 9-based alliance chain identity authentication method 
+
+ CN113382002A 
+ ( en )
+
+ 2021-09-10 
+
+ Data request method, request response method, data communication system, and storage medium 
+
+ CN107483430A 
+ ( en )
+
+ 2017-12-15 
+
+ A kind of testimony of a witness unification authentication method and device of the cloud identification of identity-based card 
+
+ CN112054905B 
+ ( en )
+
+ 2022-02-11 
+
+ Secure communication method and system of mobile terminal 
+
+ US9876774B2 
+ ( en )
+
+ 2018-01-23 
+
+ Communication security system and method 
+
+ CN114553441B 
+ ( en )
+
+ 2022-08-26 
+
+ Electronic contract signing method and system 
+
+ CN103139774B 
+ ( en )
+
+ 2015-10-14 
+
+ Short message service processing method and short message service treatment system 
+
+ CN113626879B 
+ ( en )
+
+ 2025-02-25 
+
+ A method for binding an electronic seal image to a digital certificate and presenting the same
+
+ Legal Events
+
+ Date 
+ Code 
+ Title 
+ Description 
+
+ 2008-05-21 
+ 121 
+ Ep: the epo has been informed by wipo that ep was designated in this application 
+
+ Ref document number :
+ 07805758 
+
+ Country of ref document :
+ EP 
+
+ Kind code of ref document :
+ A2 
+
+ 2009-02-05 
+ NENP 
+ Non-entry into the national phase 
+
+ Ref country code :
+ DE 
+
+ 2009-03-04 
+ NENP 
+ Non-entry into the national phase 
+
+ Ref country code :
+ RU 
+
+ 2009-03-04 
+ WWE 
+ Wipo information: entry into national phase 
+
+ Ref document number :
+ 2007805758 
+
+ Country of ref document :
+ EP

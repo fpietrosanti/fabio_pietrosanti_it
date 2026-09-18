@@ -1,0 +1,11 @@
+{
+ "source_url": "https://seclists.org/vuln-dev/2001/Sep/305",
+ "fetched_url": "https://web.archive.org/web/20130810013628id_/http://seclists.org/vuln-dev/2001/Sep/305",
+ "method": "wayback",
+ "capture": "20130810013628",
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 12852,
+ "sha256": "ac6a00f532697d0674ca74743941ef9ea6ceb286b273718d04ad5315e3013f76",
+ "name_found": true,
+ "fetched_at": "2026-09-17T09:00:23+00:00"
+}

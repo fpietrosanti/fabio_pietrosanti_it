@@ -1,0 +1,541 @@
+Tor è ancora anonimo? - Wired 
+
+ Enter per cercare su wired 
+
+ WIRED .it 
+
+ Attualità 
+
+ Internet 
+
+ Gadget 
+
+ Mobile 
+
+ Scienza 
+
+ Economia 
+
+ Lifestyle 
+
+ Play 
+
+ LOL 
+
+ Idee 
+
+ more 
+
+ Video 
+ Gallery 
+ Data 
+ Stickers 
+
+ Video 
+ Gallery 
+ Data 
+ Stickers 
+
+ profilo 
+
+ abbonamento 
+
+ impostazioni 
+
+ esci 
+
+ Hot topic 
+
+ Speciale Natale 
+ Vaccini 
+ iPhone 
+ Chimica 
+ Musica … 
+
+ vedi tutti 
+ chiudi 
+
+ #cosedasapere 
+
+ Twitter 
+
+ Cialtroni e creduloni 
+
+ Bufale 
+
+ Anniversari dell'innovazione 
+
+ Almanacchi 
+
+ Miaoooooo 
+
+ Gattini 
+
+ Il mondo dei maker 
+
+ Stampa 3D 
+
+ Ultime da Cupertino 
+
+ Apple 
+
+ Il metodo di Davide Vannoni 
+
+ Stamina 
+
+ Topics
+
+ Musica (237) 
+ Malware (21) 
+ Almanacchi (141) 
+ Videogame (289) 
+ Tablet (202) 
+ Turchia (7) 
+ Nasa (63) 
+ Apple Watch (24) 
+ Influenza (7) 
+ Stati Uniti (112) 
+ Ucraina (27) 
+ Davide Vannoni (69) 
+ Kinect (9) 
+ Spazio (189) 
+ Nikon (9) 
+ Voip (12) 
+ 2013 (76) 
+ Internet Explorer (6) 
+ Supereroi (72) 
+ Hack the Expo (21) 
+ Fukushima (7) 
+ Safari (7) 
+ Brasile 2014 (141) 
+ Breaking Bad (26) 
+ Samantha Cristoforetti (16) 
+ Bambini (48) 
+ Natale (20) 
+ J.J. Abrams (20) 
+ SkyOnline (5) 
+ Yahoo! (30) 
+ Ferrari (18) 
+ Streaming (80) 
+ Instagram (98) 
+ Sony (220) 
+ iPhone 6 (91) 
+ Marvel Comics (66) 
+ Umbrella Revolution (5) 
+ Super Bowl (6) 
+ Domotica (59) 
+ Netflix (64) 
+ Vine (13) 
+ Dna (35) 
+ Nelson Mandela (9) 
+ Storify (5) 
+ 3NDS 
+ Arte (123) 
+ Greenpeace (3) 
+ Salone del mobile (4) 
+ Nissan (12) 
+ Jobs Act (11) 
+
+ vedi tutti 
+
+ Google, un canone mensile per nascondere la pubblicità Far Cry 4, la prova 
+
+ Home 
+
+ Internet 
+ Web 
+
+ * On fire L'articolo va a fuoco! Ecco il numero di condivisioni online 
+
+ 124 
+
+ … 
+
+ * Supersize Contenuto forte: è lungo, ma vale la pena
+
+ Tutti gli stickers 
+
+ Carola Frediani 
+
+ Pubblicato
+
+ novembre 25, 2014 
+
+ 1200 views 12 share 12 follower 
+
+ 124 
+
+ … 
+
+ Invia un feedback
+sull'articolo 
+
+ Tor è ancora anonimo?
+
+ Uno studio su come deanonimizzare fino all’80% degli utenti. I sequestri di Silk Road e altri. Tor è sotto torchio. Perché e fino a che punto
+
+ Carola Frediani 
+
+ Pubblicato
+
+ novembre 25, 2014 
+
+ 1200 views 12 share 12 follower 
+
+ * Supersize Contenuto forte: è lungo, ma vale la pena
+
+ Tutti gli stickers 
+
+ (Foto: Corbis Images)
+
+ L’anonimato in Rete è una pia illusione? E Tor , che di quell’anonimato è stato fino ad oggi l’alfiere più noto nonché il nemico di molti governi, è ancora affidabile? Sono alcune delle domande che in questi giorni sono circolate sui media e nei circoli tech dopo che una serie di notizie, non direttamente collegate, sembravano rimettere in discussione la sicurezza di alcuni strumenti e software usati dagli utenti online per proteggere la propria privacy.
+
+ Sicuramente a gettare un’ombra sinistra sulle possibilità di mantenere un alto livello di anonimato in Rete ci ha pensato l’operazione Onymous, cioè il sequestro di decine di siti del Dark Web da parte dell’FBI e dell’Europol, di cui abbiamo scritto qua. Ma come vedremo più avanti l’operazione è meno ampia di quanto appariva all’inizio.
+
+ In secondo luogo c’è stata la diffusione di una pubblicazione scientifica che mostrerebbe come, sotto certe condizioni, sia possibile deanonimizzare fino all’80 per cento del traffico Tor analizzato. Anche qui, va distinta la ricerca dalla sua efficacia nella pratica.
+
+ Infine, è riemersa una vecchia polemica sull’origine e i finanziamenti di Tor, che come sanno i lettori di Wired.it perché lo abbiamo scritto più volte ancora oggi raccoglie donazioni da varie agenzie statali americani , oltre che da università, fondazioni e privati sparsi per il mondo.
+
+ Partiamo dal paper . Alcuni ricercatori di diverse università guidati da Sambuddho Chakravarty hanno provato a deanonimizzare gli indirizzi IP degli utenti Tor in un esperimento in laboratorio , e in quel caso ci sono riusciti nel 100 per cento dei casi; e hanno poi applicato lo stesso metodo con un nodo Tor che controllavano loro stessi, riuscendoci nell’81,4% dei casi . Ciò ovviamente non significa che siano in grado di deanonimizzare l’81% del traffico Tor, come riportato da alcuni media.
+
+ Come hanno fatto? Con una tecnica nota che consiste nell’analizzare il traffico in entrata e in uscita dai nodi Tor (tecnicamente si chiama analisi di correlazione del traffico ). La rete Tor funziona infatti facendo rimbalzare il traffico attraverso una serie di computer su cui gira il suo software (sono i relays), e in questo modo, anche grazie a strati di cifatura che vengono progressivamente pelati di balzo in balzo, lo rende anonimo. I punti delicati della rete Tor sono però il nodo in cui si entra, perché fino all’ingresso non si è anonimi, e il nodo in cui si esce, perché lì si può tracciare la destinazione del traffico.
+
+ Quindi se un soggetto è in grado potenzialmente di osservare il traffico di un utente che entra in un nodo e il traffico dello stesso utente che esce da un altro nodo, anche solo correlando la dimensione e i tempi dei pacchetti, potrebbe capire che chi sta andando a visitare in quel momento la pagina di WikiLeaks è l’utente Francesca Rossi.
+
+ La parte interessante dello studio è che i ricercatori per osservare il traffico hanno utilizzato dei “semplici” router Cisco e un programma, Netflow , che è uno strumento usato dai network manager per studiare il tipo di traffico che passa e indirizzarlo in modo più efficiente. Quindi si tratta di strumenti che non cercano di guardare dentro ai pacchetti, ai loro contenuti, ma che si limitano a registrarne gli indirizzi IP di origine e destinazione, la quantità di dati e via dicendo. Una volta raccolti questi dati, attraverso degli altri software, si possono fare delle correlazioni.
+
+ “ Avendo modo di osservare in contemporanea le comunicazioni di un nodo di entrate e di uscita, anche se cifrato, è possibile fare una analisi e correlazione sui pattern di traffico di uno specifico arco temporale, potenzialmente deanonimizzando un utente Tor ”, spiega a Wired.it Fabio Pietrosanti , dell’ Hermes Center for Transparency and Digital Human Rights che lavora su vari progetti legati a Tor. “ Però questa è una delle ipotesi di attacco a Tor che era già definita nella sua progettazione originaria (in gergo nel suo threat model). Ovvero, se siamo di fronte a un avversario così potente che riesce a osservare il traffico a livello globale, il rischio che gli utenti siano deanonimizzati c’è”. 
+
+ Il problema però, o meglio, il punto , è quanto sia applicabile nella realtà una ipotesi del genere. Cioè un conto fare un test controllato in laboratorio, un conto riuscire a farlo sulla rete Tor . Anche perché come nota Roger Dingledine , sviluppatore capo del progetto Tor, la ricerca in questione presenta un alto numero di falsi positivi (il 6% ), cioè casi in cui l’algoritmo dice che il pacchetto in uscita corrisponde a quello in entrata  – legandolo dunque a una identità – ma invece si sbaglia.  Un fattore che getta dei dubbi sulla applicabilità pratica di quel metodo. Scrive ancora Dingledine: “ Gli attacchi di conferma del traffico non sono una area nuova …. e questo studio in particolare, anche se interessante, non soppianta i precedenti ”.
+
+ #Tor @Torproject : traffic confirmation attacks not a new area so don’t freak out without actually reading the papers https://t.co/YSNRI8n0Mv 
+
+ — Caspar Bowden (@CasparBowden) November 15, 2014 
+
+ Insomma, almeno secondo gli sviluppatori di Tor, non sarebbe una notizia allarmante. Da notare che anche lo stesso Chakravarty , intervenuto sul blog del Tor Project, ha precisato che l’81,4% del traffico si riferisce solo ai loro esperimenti, non al traffico di Tor; e che i media avrebbero esagerato la portata del suo paper.
+
+ Ciò non vuol dire che Tor e i suoi utenti possano dormire sonni tranquilli. Uno dei problemi attuali è infatti come scalare la rete Tor evitando di concentrare troppo traffico su alcuni nodi , proprio perché questa concentrazione renderebbe più facile lo scenario di attacco di cui si parla nella ricerca. “ Cerchiamo di aumentare la diversità della rete distribuendo nodi ad alta banda, dove cioè passa molto traffico, su Paesi diversi, ed evitando che ce ne siano troppi negli Stati Uniti ad esempio ”, spiega Pietrosanti.
+
+ La seconda ombra sull’anonimato di Tor come sappiamo deriva dal successo dell’operazione Onymous che alcuni giorni fa ha individuato e sequestrato una serie di siti illeciti che stavano nascosti nelle darknet, a partire da Silk Road 2.0. Ora però i dettagli che stanno emergendo ridimensionano un po’ l’operazione. Secondo un’analisi effettuata dall’esperto di cybersicurezza Nik Cubrilovic , i 414 servizi nascosti confiscati dalla polizia sarebbero molti di meno, solo 276 domini, di cui 153 dei cloni di altri siti. Del resto da subito erano emersi alcuni dubbi sull’entità dell’operazione dal momento che erano state diffuse solo poche decine di nomi della lista dei siti sequestrati.
+
+ @carolafrediani gets better So Far Feds Have Only Confirmed Seizing 27 “Dark Market” Sites In Operation #Onymous http://t.co/i9mDezIY2X 
+
+ — Tim Bingham (@BinghamInfo) November 8, 2014 
+
+ Il dato sembrerebbe quindi dare ragione a chi, come lo stesso Dingledine , ipotizza che l’operazione Onymous abbia fatto leva soprattutto su errori e scarsa sicurezza lato utente da parte degli operatori di Silk Road e degli altri siti. (Ad ogni modo qua si trovano comunque analizzati tutti gli scenari possibili, che includono siti mal configurati, ma anche attacchi alla rete Tor magari usando un DoS, scenario, pare di capire, da non sottovalutare ). Così come altri attacchi del passato. 
+
+ Infine, la polemica sui finaziamenti a Tor – e sui suoi presunti nascosti legami con il governo americano. Sicuramente chiedere trasparenza su dove arrivano i soldi è sempre una domanda legittima e giornalisticamente dovuta. E in questo caso la comunità di sviluppatori e attivisti sembra avere però peccato un po’ di presunzione rifiutandosi anche solo di argomentare con il giornalista che ha sollevato il caso. E’ vero anche che, in massima parte, si tratta di informazioni reperibili facilmente e a disposizione da tempo .
+
+ Fino ad oggi, comunque, la migliore obiezione alla tesi complottista (riassumibile in: “il governo USA segretamente controlla Tor”) sta negli stessi documenti della NSA , secondo i quali Tor era un problema e un ostacolo al tentativo dell’intelligence americana di controllare le comunicazioni elettronich e. E alla fine sembra essere questa, allo stato attuale, la chiave di interpretazione migliore per strumenti come Tor: un ostacolo al controllo , non uno scudo invincibile.
+
+This opera is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License .
+
+ TOPIC
+
+ Internet 
+ Privacy 
+
+ vedi tutti 
+
+ ... 
+
+ 1 comments 
+
+ Get
+ Livefyre 
+
+ FAQ 
+
+ Sign in 
+
+ + Follow
+
+ Post comment
+
+ Link
+
+ Newest | Oldest 
+
+ mikronimo 
+
+ 5pts 
+
+ Come per molte altre cose, anche per questa si può dire che quello che l'essere umano fa, l'essere umano può anche scardinarlo, dato che "perfetto e inviolabile" sono assoluti difficilmente realizzabili; quello che infatti conta è che anche il controllo sia limitabile, se vogliamo che non si instauri nessuna forma di occulto totalitarismo... la sicurezza credo interessi tutti, ma un potere così grande da rendere possibile un controllo di tutto il traffico internet, non deve essere possibile, quindi solo la verifica di attività realmente pericolose, e solo con grande sforzo da parte degli enti di intelligence, può essere accettata.
+
+ Segui wired su
+
+ 340k 
+
+ 178k 
+
+ 152k 
+
+ 8k 
+
+ 3
+
+ Nuovo 
+su Wired
+
+ Streaming Serie A, come vedere Roma-Inter su smartphone, tablet e pc 
+
+ 19:45 
+
+ Streaming Serie A, come vedere Juventus-Torino su smartphone, tablet e pc 
+
+ 17:00 
+
+ Streaming Serie A, come vedere Milan-Udinese su smartphone, tablet e pc 
+
+ 14:00 
+
+ Top gallery
+
+ Le 50 foto più assurde di sempre
+ LOL
+
+ I migliori gadget del 2014
+ Gadget
+
+ 50 adesivi per modificare la mela del tuo Mac
+ Gadget
+
+ 10 cibi orribili che non mangeresti mai (forse)
+ LOL
+
+ Costruzioni da capogiro
+ Lifestyle
+
+ .
+
+ TV
+
+ Honey, il cortometraggio musicale di Populous 
+
+ .
+
+ TECH
+
+ Elle, la protesi che permette di nuotare anche a chi ha perso una gamba 
+
+ .
+
+ TECH
+
+ Breaking Bad e la bellezza della chimica 
+
+ Hot su WIRED
+
+ 30 invenzioni giapponesi del tutto assurde
+ LOL
+
+ Le 50 migliori citazioni nascoste di film e serie tv
+ Play
+
+ 50 manga e anime ispirati all’Occidente
+ Play
+
+ Top video
+
+ I C.S.I. dei violini, dentro uno Stradivari da 12 milioni
+ Attualità
+
+ Hot su Facebook
+
+ Le migliori pubblicità di Pornhub
+ Attualità
+
+ "Come ho installato Netflix in Italia"
+ Mobile
+
+ AirWnC, l’app per chi non sa dove andare al bagno
+ Mobile
+
+ WIRED 
+
+ Attualità 
+
+ Media 
+ Ambiente 
+ Tech 
+ Sochi 2014 
+ / 
+
+ Internet 
+
+ Regole 
+ Web 
+ TLC 
+ / 
+
+ Gadget 
+
+ Outdoor 
+ Audio e TV 
+ Accessori 
+ Foto e Video 
+ Computer 
+ Videogiochi 
+ Elettrodomestici 
+ / 
+
+ Mobile 
+
+ Tablet 
+ App 
+ / 
+
+ Scienza 
+
+ Ecologia 
+ Biotech 
+ Medicina 
+ Lab 
+ Spazio 
+ / 
+
+ Economia 
+
+ Start-up 
+ Finanza 
+ Business 
+ / 
+
+ Lifestyle 
+
+ Viaggi 
+ Mobilità 
+ Food 
+ Design 
+ / 
+
+ Play 
+
+ Musica 
+ Tv 
+ Libri 
+ Fumetti 
+ Cultura 
+ / 
+
+ LOL / 
+
+ Idee / 
+
+ more 
+
+ Video 
+ Gallery 
+ Data 
+ Stickers 
+
+ / 
+
+ Video / 
+ Gallery / 
+ Data / 
+ Stickers / 
+
+ Topfive
+
+ Le migliori sit-com della storia 
+ • 10 gadget per sciare alla grande 
+ • I 10 più brillanti sviluppatori di app sotto i 30 anni 
+ • I 50 luoghi più pericolosi del mondo 
+
+ Vanityfair.it 
+
+ • Vogue.it 
+
+ • GQ.com 
+
+ • Glamour.it 
+
+ • Style.it 
+
+ WIRED INTERNATIONAL EDITIONS: 
+
+ UK 
+
+ • USA 
+
+ • JAPAN 
+
+ • GERMANY 
+
+ • TAIWAN 
+
+ ©EDIZIONI CONDÉ NAST S.P.A. 
+
+ - P.ZZA CASTELLO 27 
+
+ - 20121 MILANO CAP.SOC. 2.700.000 EURO 
+
+ I.V. C.F E P.IVA REG.IMPRESE TRIB. MILANO 
+
+ N. 00834980153 
+
+ SOCIETÀ CON SOCIO UNICO 
+
+ Pubblicità 
+ • Redazione 
+ • Privacy 
+ • Condizioni d’utilizzo 
+
+ in edicola 
+
+ Abbonati e Regala Wired! 
+ edizione digitale inclusa 
+
+ espandi 
+
+ chiudi 
+
+ 58% sconto 
+
+ Abbonamento annuale
+solo 19,90 euro 
+
+ Entra nella grande Community degli Abbonati a Wired: dai fedelissimi della 'prima ora’, abbonati prima dell'uscita della rivista, a chi l'ha provato in edicola e poi non ha potuto fare a meno di riceverlo a casa in anteprima! I vantaggi per chi si abbona sono tantissimi!
+
+ In esclusiva per gli abbonati: leggi wired qui! 
+
+ Per prezzi e sconti indicati, leggi le condizioni d'offerta riportate nel modulo di sottoscrizione dell'abbonamento. 
+
+ Scopri tutti i vantaggi !
+
+ COMODA CONSEGNA A DOMICILIO
+
+ PREZZO BLOCCATO TUTTO L'ANNO
+
+ NESSUN NUMERO PERSO
+
+ L'abbonamento a Wired include tutte le edizioni digitali su tablet
+
+ Servizio clienti 
+
+ Ti vuoi abbonare? Sei abbonato ma la copia non ti è arrivata? Hai cambiato indirizzo? Per queste e altre domande il Servizio Abbonamenti è a tua disposizione:
+E-mail: abbonati@condenast.it 
+Telefono: 199 133 199* dal lunedi al venerdi dalle 9.00 alle 18.00. Fax: 199 144 199
+
+ Vai al servizio clienti 
+
+ * Il costo della chiamata per i telefoni fissi da tutta Italia è di 11,88 centesimi di euro al minuto + iva senza scatto alla risposta. Per le chiamate da cellulare i costi sono legati all'operatore utilizzato. 
+
+ Abbonati o
+regala wired 
+ Scopri tutti i vantaggi
+
+ Leggi Anche
+
+ MappiNa, la mappatura collettiva sbarca a Milano 
+ 29 Nov 
+
+ Internet non è cattiva per definizione: vizi e virtù sono di chi usa la Rete 
+ 28 Nov 
+
+ Diretta: la Commissione per i diritti e i doveri relativi ad Internet riceve gli operatori di settore 
+ 28 Nov 
+
+ Il dilemma di Reddit, tra haters e rifiuto della censura 
+ 28 Nov

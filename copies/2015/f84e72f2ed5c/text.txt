@@ -1,0 +1,152 @@
+GlobaLeaks - Camp_2015_Wiki 
+
+ GlobaLeaks 
+
+ From Camp_2015_Wiki
+
+ Jump to: navigation , search 
+
+ Description
+
+ GlobaLeaks is an OpenSource Anonymous Whistleblowing Software Framework operating since 2011, developed by the folks at Hermes Center for Transparency and Digital Human Rights and used for by activists, anticorruption ngo, investigative journalist groups and media. It's multi-user, multi-context with an advanced questionaries builder, ability to integrate directly into website, to run multiple whistleblowing initiatives on the same servers. Made in Python (Twisted) + Javascript (AngularJS), it's packaged as a debian application, integrated with Tor, is working towards moving encryption from server with GnuPG to client with OpenPGP.js .
+
+ Has website
+
+ https://globaleaks.org 
+
+ Persons working on
+
+ Tags
+
+ whistleblowing , leaks , tor , anonimity , hermescenter , opesource , python , pgp , javascript crypto 
+
+ Located at village
+
+ Italian Embassy 
+
+ Other projects...
+
+ RoboCup 
+
+ We'll Make Us A Gnu One 
+
+ Derail the train 
+
+ FPGA for General Purpose Computing 
+
+ MusicPlayer 
+
+ … further results 
+
+ refresh 
+
+ GlobaLeaks started with the premise that Anonymous Whistleblowing can be easy and secure.
+
+ The GlobaLeaks suite of software will empower people to stand up anonymously no matter what their definition of "whistleblowing" is. The person or organization running the software will be able to customize the platform to best suit its needs. GlobaLeaks is designed with flexibility in mind, while enabling maximum level of privacy and security by default.
+
+ Started early 2011, GlobaLeaks 2 has been rewritten from scratch in 2012 with a new modular design, completely configurable and customizable via web administration interface.
+
+ It's designed for use by multiple users: Media, Activists, Public Agencies and Corporations
+
+ It has already been publicly used by +25 different organizations for anticorruption, investigative journalism and antimafia purposes:
+
+ It's translated in multiple languages https://www.transifex.com/projects/p/globaleaks/ .
+
+ It support multiple, very deep security features such as PGP, Sandboxing, resilient design and it has been audited with 3 dedicated penetration tests.
+
+ It do support Anonymous (Tor) and Confidential (HTTPS) submission with carefully designed configurability of all security aspects (via web admin) and proper privacy and security awareness warning.
+
+ You can start using it installing in less than 5 minutes on Ubuntu 14.04 from https://github.com/globaleaks/globaleaks/wiki .
+
+ If you want to start hacking on it, there's plenty of issues you can hack on from http://github.com/globaleaks/globaleaks/issues  :-)
+
+ It's designed with a modular python backend (based on Twisted), heavily unit-tested with continuous integration on Travis-CI http://travis-ci.org and with a self-contained Javascript submission client based on AngularJS (GLClient -> REST -> GLBackend).
+
+ IRC Chat at #globaleaks irc.oftc.net
+
+ Twitter at @globaleaks
+
+ Mailing list globaleaks-talk@lists.globaleaks.org https://lists.ghserv.net/mailman/listinfo/globaleaks-talk 
+
+ Retrieved from " http://events.ccc.de/camp/2015/wiki/index.php?title=Projects:GlobaLeaks&oldid=2520 " 
+
+ Category : Projects 
+
+ Navigation menu
+
+ Personal tools
+
+ Create account 
+ Log in 
+
+ Namespaces
+
+ Projects 
+
+ Discussion 
+
+ Variants 
+
+ Views
+
+ Read 
+
+ View form 
+
+ View history 
+
+ More 
+
+ Search 
+
+ Navigation
+
+ Main page 
+
+ FAQ 
+
+ Tickets 
+
+ Travel 
+
+ Villages 
+
+ Projects 
+
+ Self-organized Sessions 
+
+ Forms
+
+ Create project 
+
+ Create self-organized session 
+
+ Wiki
+
+ Recent changes 
+
+ Tools
+
+ What links here 
+
+ Related changes 
+
+ Special pages 
+
+ Printable version 
+
+ Permanent link 
+
+ Page information 
+
+ Browse properties 
+
+ This page was last modified on 20 June 2015, at 11:17.
+
+ This page has been accessed 54 times.
+
+ Privacy policy 
+
+ About Camp_2015_Wiki 
+
+ Disclaimers

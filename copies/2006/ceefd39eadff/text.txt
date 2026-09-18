@@ -1,0 +1,119 @@
+Full Disclosure: parallels Desktop file permission notice 
+
+ Nmap Security Scanner 
+
+ Intro 
+
+ Ref Guide 
+
+ Install Guide 
+
+ Download 
+
+ Changelog 
+
+ Book 
+
+ Docs 
+
+ Security Lists 
+
+ Nmap Hackers 
+
+ Nmap Dev 
+
+ Bugtraq 
+
+ Full Disclosure 
+
+ Pen Test 
+
+ Basics 
+
+ More 
+
+ Security Tools 
+
+ Pass crackers 
+
+ Sniffers 
+
+ Vuln Scanners 
+
+ Web scanners 
+
+ Wireless 
+
+ Exploitation 
+
+ Packet crafters 
+
+ More 
+
+ Site News 
+
+ Advertising 
+
+ About/Contact 
+
+ Exceptional Links 
+
+ Good Reading 
+
+-->
+ Exploit World 
+
+ Sponsors: 
+
+ Full Disclosure 
+mailing list archives 
+
+    By Date    
+
+    By Thread    
+
+ parallels Desktop file permission notice 
+
+ From : "Fabio Pietrosanti (naif)" <naif () s0ftpj org>
+
+ Date : Fri, 27 Oct 2006 17:21:09 +0200
+
+ While testing the useful parallels for osx, i noticed that this piece of
+software:
+root 2818 0.0 0.0 31780 152 ?? Ss 5:33PM 0:01.57
+/Library/StartupItems/Parallels/prl_dhcpd
+
+wrote this file:
+xxxxx:~ xxx$ ls -al /Library/Parallels/.dhcpd_configuration
+
+with the following permission:
+-rw-rw-rw- 1 root wheel 0 Oct 26 17:32
+/Library/Parallels/.dhcpd_configuration
+
+The parallels release is: Parallels Desktop for Mac - Build 1940
+(October 12, 2006)
+
+Bye
+
+-naif
+
+_______________________________________________
+Full-Disclosure - We believe in it.
+Charter: http://lists.grok.org.uk/full-disclosure-charter.html 
+Hosted and sponsored by Secunia - http://secunia.com/ 
+
+    By Date    
+
+    By Thread    
+
+ Current thread: 
+
+ parallels Desktop file permission notice Fabio Pietrosanti (naif) (Oct 27) 
+
+[ Nmap |
+ Sec Tools |
+ Mailing Lists |
+ Site News |
+ About/Contact |
+ Advertising |
+ Privacy ]

@@ -1,0 +1,168 @@
+In Italia esiste davvero il comitato “quantistico” sul voto elettronico? 
+
+ Sezioni 
+
+ Internet 
+
+ Media 
+
+ Telecoms 
+
+ Energia 
+
+ Cybersecurity 
+
+ Smart City 
+
+ Robot 
+
+ Games 
+
+ HotSpot 
+
+ Eventi 
+
+ Video 
+
+ Rubriche 
+
+ Agenda Tivù 
+
+ Bibliotech 
+
+ Blockchain, AI&Cybersecurity 
+
+ Email marketing tips 
+
+ Focus Mail 
+
+ Mappamondo 
+
+ Meteo4You 
+
+ Numbers 
+
+ Recensiti 
+
+ Who is who 
+
+ Pics 
+
+ Video Droni 
+
+ WispNews 
+
+ CDTI Forum 
+
+ Cosa Compro 
+
+ Digital&Law 
+
+ Digital Customer Experience 
+
+ Enterprise 4.0 
+
+ Finanza Agevolata 
+
+ Sos Energia 
+
+ Sos Tech 
+
+ Vorticidigitali 
+
+ Contributors 
+
+ INFO 
+
+ Chi siamo 
+
+ L’EDITORE 
+
+ MEDIAKIT 
+
+ Contatti 
+
+ INFORMATIVA PRIVACY 
+
+ Newsletter 
+
+ Home 
+
+ »
+
+ Internet 
+
+ »
+
+ In Italia esiste davvero il comitato “quantistico” sul voto elettronico?
+
+ riflessioni 
+
+ In Italia esiste davvero il comitato “quantistico” sul voto elettronico? 
+
+ di 
+ Enrico Nardelli, professore di Informatica all’Università Roma Tor Vergata e presidente di Informatics Europe 
+
+ | 
+ 23 Novembre 2020, ore 10:30 
+
+ Internet 
+
+ Una recente inchiesta ha gettato uno squarcio di luce su una vicenda particolarmente importante per la democrazia. L’articolo illustra con dovizia di particolari l’esistenza di un comitato/non-comitato del governo italiano che sta lavorando sul voto elettronico.
+
+ Una recente inchiesta ha gettato uno squarcio di luce su una vicenda particolarmente importante per la democrazia. L’articolo illustra con dovizia di particolari l’esistenza di un comitato/non-comitato (da cui il titolo di questo post) del governo italiano che sta lavorando sul voto elettronico.
+
+ Tutto nasce – come racconta il giornalista – da una richiesta di accesso agli atti formulata da Fabio Pietrosanti , il presidente della Associazione Hermes , un centro no-profit per la trasparenza e i diritti umani digitali. La risposta del Ministero dell’Interno ricorda che ha ritenuto di « dare seguito agli impegni assunti dal Governo con l’approvazione di un ordine del giorno ai fini dell’adozione di Linee Guida per la sperimentazione del voto elettronico ». Di conseguenza l’adozione è stata « affidata ad un organismo composto dai rappresentanti dei Ministeri della Giustizia, degli Affari Esteri e Cooperazione Internazionale, dell’Innovazione Tecnologica e Digitalizzazione, coordinato dal Direttore Centrale per i servizi elettorali del Ministero dell’Interno ».
+
+ -->
+
+ Cosa succede?
+
+ Qui comincia la mia confusione, perché il Ministero dell’Interno spiega che « non è stato adottato alcun provvedimento di costituzione dell’organismo di studio in questione ». Il Ministero ne ha disposto l’istituzione e chiesto la collaborazione agli altri ministeri, l’organo si è già riunito quattro volte, ma lo si dichiara non costituito con formale provvedimento. Verrà fatto? Nella citazione sopra riportata si dice “non è stato adottato” e non “non è ancora stato adottato”. Lapsus calami ? Ecco, non sono un giurista quindi persone più esperte di me sapranno certamente spiegare come sia possibile che una struttura, non formalmente costituita da una qualche istituzione ancorché formata da persone delle istituzioni, possa fornire pareri che il potere esecutivo usa come base di atti governativi. Per chi ha letto qualcosa della fisica quantistica, sembra la famosa situazione del “gatto di Schrödinger”, che era contemporaneamente vivo e morto.
+
+ D’altro canto è comprensibile che un governo voglia capire qual è la situazione relativa al voto elettronico. Solo che mettere in piedi un comitato/non-comitato non sembra la strada più brillante. Abbiamo appunto un Ministero per l’Innovazione Tecnologica e Digitalizzazione, che – come enti analoghi in altri Paesi – per tale questione tecnologica è certamente in grado di produrre un rapporto tecnico-scientifico con tutte le informazioni del caso. 
+
+ L’autore dell’inchiesta ne ha raccolte un po’, ricordando che Germania, Svizzera, Norvegia e Olanda lo hanno tassativamente escluso, che anche l’ente europeo per la sicurezza informatica (ENISA) ne ha sottolineato gli elevatissimi rischi, e che un recente rapporto del mitico MIT (il Massachussets Institute of Technology) ha nuovamente sconsigliato l’uso del voto elettronico perché neanche la “catena di blocchi” (la moda del momento più conosciuta come blockchain ) è in grado di fornire i livelli di sicurezza ed affidabilità che sono indispensabili per un sistema così critico per la democrazia quale quello delle votazioni. 
+
+ Riporto qui un’utile tabellina che caratterizza le quattro macro-categorie di modalità di votazione con la loro codifica di pericolosità (dal più verde=più sicuro al più rosso=più pericoloso – mia elaborazione dall’articolo del MIT).
+
+ Il voto elettronico è sicuro? 
+
+ Aggiungo poi, per completezza di informazione, qualche ulteriore elemento di valutazione che viene dagli USA. Ad aprile di quest’anno è stata pubblicata una lettera aperta indirizzata a Governatori, Segretari di Stato, Direttori degli Uffici Elettorali , di tutti e 50 gli stati americani, dove si conclude che « la votazione via Internet non è una soluzione sicura per votare negli Stati Uniti, né lo sarà in un prevedibile futuro ». La lettera è stata preparata dal Centro per l’Evidenza Scientifica nelle Questioni Pubbliche, un centro studi della Associazione Americana per l’Avanzamento delle Scienze. Tra le organizzazioni che hanno firmato la lettera appaiono quelle della comunità scientifica e tecnologica dell’informatica (ACM e CRA). Tra gli esperti che l’hanno validata basta ricordare i nomi di Vinton Cerf (il papà di Internet) e di Ronald Rivest (uno degli inventori di quella crittografia a chiave pubblica che è alla base della sicurezza delle transazioni sulla rete).
+
+ Ecco gli argomenti principali a sostegno della conclusione:
+
+ tutti i sistemi e le tecnologie per la votazione su Internet sono al momento attuale inerentemente insicuri;
+ non esiste alcuna evidenza tecnica che una qualunque tecnologia di votazione su Internet sia sicura o possa essere resa tale in un prevedibile futuro; al contrario, tutta la ricerca attualmente esistente dimostra il contrario;
+ nessuna tecnologia basata sulla catena di blocchi ( blockchain ) può ridurre i profondi pericoli inerenti nella votazione su Internet;
+ nessuna App per la votazione con dispositivo mobile è sufficientemente sicura da permetterne l’uso.
+
+ Si tratta di quattro argomentazioni che sono quattro macigni sufficientemente pesanti da affossare qualunque iniziativa, perché si tratta di elementi che derivano da vent’anni di un’analisi rigorosa e basata sull’evidenza scientifica condotta da molte organizzazioni, tra cui le tre Accademie Nazionali americane delle Scienze, dell’Ingegneria e della Medicina, il Ministero per la Sicurezza Nazionale, e l’Istituto Nazionale per gli Standard e la Tecnologia.
+
+ Ora, in linea puramente teorica, i punti sopra ricordati non sono un teorema matematico di impossibilità che, se non contiene errori nella sua dimostrazione, chiude per sempre ogni strada che non sia quella di cambiare le assunzioni di partenza (è il drogante potere che fa amare la matematica a chi la fa). Nulla vieta che comunque un ricercatore voglia provare ad ottenere un qualche risultato che nessuno è ancora riuscito a vedere.
+
+ Però si tratta di un’attività più adatta a chi fa della ricerca la sua professione, che a un comitato/non-comitato in cui appare esserci un solo esperto tecnico (che non è un ricercatore). Tale comitato/non-comitato non sembra essere la strada più efficace per esprimere un parere su di un tema sul quale abbiamo un apposito ministero.
+
+ Mentre aspettiamo sviluppi sulla vicenda riporto per il lettore interessato una tabella che classifica i vari rischi del voto a distanza in base alla tecnologia usata per ognuno dei tre passi fondamentali (invio della scheda elettorale elettronica in bianco, espressione del voto sulla scheda, restituzione della scheda votata), che ho elaborato da una bozza di linee guida preparata dall’Agenzia per la Sicurezza delle Infrastrutture e la Cibersicurezza del Ministero per la Sicurezza Nazionale USA di cui ha parlato The Guardian qualche mese fa (NA = caso non applicabile).
+
+ (I lettori interessati potranno dialogare con l’autore, a partire dal terzo giorno successivo alla pubblicazione, su questo blog interdisciplinare .) 
+
+ L'autore
+
+ Enrico Nardelli, professore di Informatica all’Università Roma Tor Vergata e presidente di Informatics Europe 
+
+ --> 
+
+ Quotidiano online sulla digital economy e la cultura del futuro
+
+ Direttore: Raffaele Barberio 
+
+ © 2002-2020 - Registrazione n. 121/2002. Tribunale di Lamezia Terme - ROC n. 26714 del 5 ottobre 2016
+
+ Editore Supercom - P. Iva 02681090425
+
+ Contatti | Chi Siamo | Privacy Policy | Key4biz è nel cloud di Netalia 
+
+ Questo sito si avvale di cookie tecnici e, con il tuo consenso, di cookie di profilazione, anche di terze parti. Chiudendo questo banner acconsenti all'uso dei cookie. Per ulteriori informazioni o negare il consenso, consulta la cookie policy e la pagina privacy .
+
+ Chiudi

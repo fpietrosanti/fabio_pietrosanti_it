@@ -1,0 +1,71 @@
+Mancanza di una vision tecnologica a supporto del FOIA | HERMES Center for Transparency and Digital Human Rights 
+
+ Center for Transparency and Digital Human Rights 
+
+ " GlobaLeaks (...) won't have any central point of failure " 
+
+ " Their project aims to make a suite of software (...) to (...) maintain a whistle-blowing platform " 
+
+ " Tor2web is a positive step for those who want to publish anonymously without sacrificing the exposure " 
+
+ About &
+ mission 
+
+ Projects & Technologies 
+
+ News 
+& press 
+
+ Mancanza di una vision tecnologica a supporto del FOIA
+
+ Posted in News at 13.03.2019
+
+ Siamo stati invitati dalla Funzione Pubblica all’incontro “ FOIA: Che cosa non ha funzionato? ” di confronto per portare il nostro contributo come attore della società civile impegnato nell’ambito della Trasparenza.
+
+ Riportiamo il testo del nostro intervento:
+
+ Mancanza di una vision tecnologica a supporto dei processi FOIA. 
+
+ Il FOIA in Italia vede difficoltà di funzionamento relative alla mancanza di una vision tecnologica “digital first” di supporto al funzionamento dei processi, in particolare:
+
+ – Non è standardizzata la modalità di richiesta di accesso civico generalizzato in modo da facilitare il lavoro sia al cittadino che all’amministrazione 
+
+ – Non è standardizzato il processo di gestione della richiesta, con le casistiche di gestione
+
+ – Non esiste una antologia che rappresenti i tipi di dati in oggetto
+
+ – Non è standardizzato in alcun modo il processo di accountability e trasparenza della richiesta, anche rispetto alle esigenze di vigilanza dell’RT interno all’ente nonché dell’ANAC
+
+ – Non esiste un software di riferimento, indicando come best-practice da parte di ANAC e Funzione Pubblica, gratuito e orientato al riuso, che fornisca una soluzione “all-in-one” per gli enti pubblici che devono rispettare tale adempimento.
+
+ Tutto ciò ha reso cittadini e amministrazioni nella forte difficoltà di gestire il FOIA come pratiche burocratiche, con andirivieni di PEC corredate di modulistiche custom con firma calligrafa e documenti digitalizzati, in modo assimilabile a quanto già avvenuto con il Whistleblowing anticorruzione originariamente basato su formulari pdf + email, e ora evoluto tramite strumenti software web divenuti di riferimento nel panorama nazionale, che conferiscono efficienza, efficacia e accountability ad un costo vicino allo zero.
+
+ Attualmente Funzione Pubblica raccomanda l’evoluzione degli strumenti di protocollo, a visione del Centro Hermes, una scelta sbagliata perché non tiene in considerazione le esigenze di interazione e trasparenza nei riguardi dei cittadini richiedenti.
+
+ Per dimostrare tale lacuna abbiamo effettuato una richiesta al Comune di Milano, richiedendo tutte le risposte di tutte le richieste FOIA presenti nel registro delle richieste di accesso civico del 2018.  Il Comune di Milano ha riprocessato tutte le richieste individualmente, non avendo un “applicativo web gestionale”, ove le risposte fossero già presenti ed eventualmente già pubblicate.
+
+ Si propone l’esigenza di delineare la piena digitalizzazione realizzando tecnologie opensource di riferimento, con eventuale centralizzazione di fornitura di servizio, di tali processi secondo il medesimo approccio già realizzato per il Whistleblowing anticorruzione assieme a Transparency International Italia con il progetto WhistleblowingPA , usando il software opensource GlobaLeaks . 
+
+ Questo esempio è un caso d’uso virtuoso in cui è stato sviluppato un software opensource di Whistleblowing, con relative funzionalità di gestione multi-tenant, termine tecnico per indicare la possibilità di gestire su un singolo server fisico un numero virtualmente illimitato di istanze di servizio in modalità cloud/saas.
+
+ Condividiamo che in sede Agid , in un progetto per il MIBAC , si sta provvedendo alla realizzazione di una applicazione software (che sarà resa opensource) di gestione della funzionalità “amministrazione trasparente”, dove siamo stati invitati come società civile a fornire il nostro contributo e abbiamo già indicato l’esigenza di introdurre funzionalità di gestione FOIA, virtuose perché incluse in un framework che prevede già l’integrazione con protocollo informatico. 
+
+ In tal senso, magari questo progetto potrebbe essere quello su cui investire con il dovuto attenzionamento e contributo multistakeholder portato in modo ufficiale da parte dei soggetti coinvolti nel fare funzionare il FOIA in Italia.
+
+ Come Centro Hermes ci mettiamo a disposizione per supportare questi processi di digitalizzazione virtuosa dei processi di trasparenza, che debbano vedere non solo l’adempimento burocratico nelle sue logiche di funzionamento, ma il virtuosismo di collaborazione con il cittadino e l’accountability di processo al suo interno.
+
+ Aggiungiamo un importante esperienza legata al FOIA, quello che abbiamo chiamato simpaticamente “FOIA for Nerds”, cioè la difficoltà di ottenere informazioni relative alla progettazione, implementazione, verifiche funzionali, collaudi nonché attività di esercizio di manutenzione evolutiva e correttiva di sistemi informativi della pubblica amministrazione. 
+
+ Tali richieste sono effettuate da una platea di tecnologhi d’esperienza, tipicamente in posizioni gestionali, con lo scopo di attuare in monitoraggio civico relativo al rispetto delle normative tecniche fra le varie quelle su sicurezza ICT, sulle offerte tecniche di risposta a bandi, sulle modalità di riuso del software, sulla accessibilità che impattano in modo diretto la vita dei cittadini nel rapporto con la pubblica amministrazione. 
+
+ Viviamo l’esperienza diretta (con l’INPS, con l’ Agenzia delle Entrate e con Sogei) nonché riportata da più fronti, di una naturale prassi di diniego da parte delle amministrazioni adducendo come motivazione principale quella di mettere a repentaglio la sicurezza dei sistemi ICT. Tale motivazione è strumentale e contraria ai principi di trasparenza e revisione collaborativa, basata su concetti di cybersecurity degli anni ’80 di “ security trough obscurity ”, ampiamente superati.
+
+ Ci domandiamo chi debba essere l’interlocutore che possa dirimere tali dinieghi, essendo a carattere altamente specialistico nella cybersecurity, di difficile comprensione in ambito esclusivamente amministrativo, richiedendo una competenza interdisciplinare.
+
+ Vi ringrazio e spero in un seguito di tale proposizione
+
+ Fabio Pietrosanti
+
+ © HERMES Center for Transparency and Digital Human Rights - Unless otherwise stated CC-BY-SA-3.0-Italy License . - contacts 
+
+ Questo sito utilizza cookie tecnici e statistici, non di terze parti. Proseguendo nella navigazione accetti l’utilizzo dei cookie. Ok Privacy policy

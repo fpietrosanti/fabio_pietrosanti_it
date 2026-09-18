@@ -1,0 +1,20 @@
+Fix Avast File Download Vulnerability
+https://github.com/avast/retdec/issues/29
+opened 2017-12-14T14:01:40Z by fpietrosanti · state closed
+
+The Avast Software is served from the Avast website over HTTP in clear-text and is subject to MITM vulnerability.
+
+Any Malware Infection Appliance (or just opensource Bettercap) can infect Avast users when they first download the Avast software.
+
+Please see https://twitter.com/fpietrosanti/status/881888886678581249
+
+I tried to report to Avast without reply, maybe from Avast lab you can have the infrastructure team in charge of the download to fix the issue. Thanks
+
+<img width="624" alt="screen shot 2017-12-14 at 14 59 16" src="https://user-images.githubusercontent.com/770363/33995880-a02d790a-e0df-11e7-895d-980cfc946a63.png">
+
+
+--- 2017-12-14T14:08:13Z jakubkroustek
+Hi. This is unrelated to RetDec so I'm closing this ticket. Please, don't misuse our issue tracker for such requests. Nevertheless, I passed your message to a responsible person.
+
+--- 2017-12-14T14:14:11Z fpietrosanti
+Thanks for reporting to the right persons, apologise for the misuse of the ticketing system

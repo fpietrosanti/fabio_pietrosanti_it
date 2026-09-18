@@ -1,0 +1,88 @@
+{
+ "issue": {
+  "id": 301682,
+  "iid": 22809,
+  "project_id": 472,
+  "title": "Tor Browser does not provide red security warning for downloading executable in HTTP",
+  "description": "This ticket is to enhance Tor Browser that today does not provide red security warning for downloading executable in HTTP in clear text that can be easy subject to MITM attacks.\n\nActually there's a ticket sitting on Mozilla Firefox to implement exactly that https://bugzilla.mozilla.org/show_bug.cgi?id=1303739 .\n\nThe very same should apply for mixed content where from an HTTPS website there's download of executable from an HTTP resource.\n\nAttached the standard warning provided by Firefox that does not explain to the end-user how risky is the download of an executable over HTTP in clear.",
+  "state": "closed",
+  "created_at": "2017-07-04T09:27:27.000Z",
+  "updated_at": "2022-06-21T22:54:13.154Z",
+  "closed_at": "2022-06-21T22:54:13.152Z",
+  "closed_by": {
+   "id": 239,
+   "username": "morgan",
+   "public_email": "",
+   "name": "morgan",
+   "state": "active",
+   "locked": false,
+   "avatar_url": "https://gitlab.torproject.org/uploads/-/system/user/avatar/239/avatar.png?v=1789713667",
+   "web_url": "https://gitlab.torproject.org/morgan"
+  },
+  "labels": [
+   "Kind::Bug",
+   "UX"
+  ],
+  "milestone": null,
+  "assignees": [],
+  "author": {
+   "id": 359,
+   "username": "naif",
+   "public_email": "",
+   "name": "naif",
+   "state": "blocked",
+   "locked": false,
+   "avatar_url": null,
+   "web_url": "https://gitlab.torproject.org/naif"
+  },
+  "type": "ISSUE",
+  "assignee": null,
+  "user_notes_count": 12,
+  "merge_requests_count": 0,
+  "upvotes": 0,
+  "downvotes": 0,
+  "start_date": null,
+  "due_date": null,
+  "confidential": false,
+  "discussion_locked": null,
+  "issue_type": "issue",
+  "web_url": "https://gitlab.torproject.org/tpo/applications/tor-browser/-/work_items/22809",
+  "time_stats": {
+   "time_estimate": 0,
+   "total_time_spent": 0,
+   "human_time_estimate": null,
+   "human_total_time_spent": null
+  },
+  "task_completion_status": {
+   "count": 0,
+   "completed_count": 0
+  },
+  "weight": null,
+  "blocking_issues_count": 0,
+  "has_tasks": true,
+  "task_status": "0 of 0 checklist items completed",
+  "_links": {
+   "self": "https://gitlab.torproject.org/api/v4/projects/472/issues/22809",
+   "notes": "https://gitlab.torproject.org/api/v4/projects/472/issues/22809/notes",
+   "award_emoji": "https://gitlab.torproject.org/api/v4/projects/472/issues/22809/award_emoji",
+   "project": "https://gitlab.torproject.org/api/v4/projects/472",
+   "closed_as_duplicate_of": null
+  },
+  "references": {
+   "short": "#22809",
+   "relative": "#22809",
+   "full": "tpo/applications/tor-browser#22809"
+  },
+  "severity": "UNKNOWN",
+  "subscribed": false,
+  "moved_to_id": null,
+  "imported": false,
+  "imported_from": "none",
+  "service_desk_reply_to": null,
+  "epic_iid": null,
+  "epic": null,
+  "iteration": null,
+  "health_status": null
+ },
+ "notes": null
+}

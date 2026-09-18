@@ -1,0 +1,150 @@
+PrivateGSM: Blackberry/iPhone/Nokia mobile voice encryption with ZRTP or SRTP/SDES at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « A couple of nice VPN provider 
+ Eight Epic Failure of Regulating Cryptography » 
+
+ PrivateGSM: Blackberry/iPhone/Nokia mobile voice encryption with ZRTP or SRTP/SDES 
+
+ Published by naif October 19th, 2010 
+
+ in Privacy , security and technology . 
+ 1  Comment 
+
+ I absolutely avoid to use my own personal blog to make promotion of any kind of product.
+
+ That time it’s not different, but i want to tell you facts about products i work on without fancy marketing, but staying technical.
+
+ Today, at PrivateWave where i am CTO and co-founder , we released publicly mobile VoIP encryption products for Blackberry, iPhone and Nokia:
+
+ The 1st ever Blackberry encrypted VoIP with ZRTP – PrivateGSM VoIP Professional 
+
+ The 1st ever iPhone encrypted VoIP with ZRTP – PrivateGSM VoIP Professional 
+
+ The 1st ever Blackberry encrypted VoIP client with SRTP with SDES key exchange over SIP/TLS - PrivateGSM VoIP Enterprise 
+
+ At PrivateWave we use a different approach respect to most voice encryption company out there, read our approach to security .
+
+ The relevance of this products in the technology and industry landscape can be summarized as follow:
+
+ It’s the first voice encryption company using only standards security protocols (and we expect the market will react, as it’s clear that proprietary tech coming from the heritage of CSD cannot provide same value)
+
+ It’s the first approach in voice encryption to use only open source & standard encryption engine
+
+ It’s the first voice encryption approach to provide different security model using different technologies (end-to-end for ZRTP and end-to-site for SRTP )
+
+ Those suite of Mobile Secure Clients, designed for professional security use only using best telecommunication and security technologies, provide a high degree of protection along with good performance also in bad network conditions:
+
+ Multiple security model: end-to-end encryption with ZRTP and end-to-site encryption with SRTP
+
+ Voice encryption
+
+ Signaling encryption 
+
+ Digital certificate strict checking of SIP/TLS (99% of voip clients does not do in-depth strict TLS checking)
+
+ AMR 4.75kbit codec (same technology and audio codec of standard GSM phone calls)
+
+ Extremely optimized jitter buffering (It works even in GPRS and via WiFi over Satellite)
+
+ Automatic always-on reconnection using Nokia Standby Techniques for strong battery saving 
+
+ The applications are:
+
+ PrivateGSM Professional - It does end-to-end encryption with ZRTP with ECDH384 , strict cache verification and addressbook integration 
+
+ PrivateGSM Enterprise – It does end-to-site encryption with SRTP with SDES key exchange over SIP/TLS 
+
+ Enterprise VoIP Security Suite – Secure PBX System based on Asterisk with added VoIP Firewalls
+
+ The supported mobile devices are:
+
+ Nokia S60 
+
+ iPhone 3GS/4G with iOS 4.x
+
+ Blackberry with RIMOS 5 (several GSM models)
+
+ Regarding ZRTP we decided to stress and stretch all the security and paranoid feature of the protocol with some little addition:
+
+ Use only Elliptic Curve Diffie Hellmann (ECDH) 384bit that are part of NSA Suite-B ( No Koblitz ECDH-571 curves! )
+
+ Use AES256 in CTR mode
+
+ Does cache verification and key continuity
+
+ Strict addressbook integration extended respect to RFC with additional paranoid checking
+
+ All security warning and security error cause the call to be hangup, cache cleared and user warned to re-check ZRTP security
+
+ Use Random Number Generator in strict compliance with FIPS security requirements by using Phisical Source of Entropy (Microphone)
+
+ Our strict address book integration, goes beyond ZRTP RFC specification , that could be vulnerable to certain attacks when used on mobile phones because of user behavior of not to look at mobile screen.
+
+ Our paranoy way of using ZRTP mitigate such conditions, we will write about this later and/or will add specific details for RFC inclusion.
+
+ Some words on PrivateGSM Professional with end-to-end encryption with ZRTP
+
+ User does not need to use the application: It’s i ntegrated in the phone for dialing with a secure prefix putting +801 in front of the number to call
+
+ It’s downloadable from the internet for self trial for 15 days (most voice encryption company does not provide free download)
+
+ Receiver is FREE that means that only who make calls have to buy the application, receiver does not need to pay anything
+
+ it does Traffic Obfuscation to Bypass VoIP blocks over 2G/3G 
+
+ It’s very narrowband: Use as little as 100Kbyte/minutes
+
+ Read technical sheet there!
+
+ To download it click here and just put your phone number
+
+ Those are the results of hard work of all my very skilled staff (16 persons worked on this 6 projects for 3 different platforms) on challenging technologies (voice encryption) in a difficult operating environment (dirty mobile networks and dirty mobile operating systems) for more than 2 years.
+
+ I am very proud of our staff!
+
+ What next? 
+
+ In next weeks you will see releasing of major set of documentations such as integration with asterisks, freeswitch and other Security Enabled PBX, along with some exciting other security technology news that i am sure will be noticed ;)
+
+ It has been an hard work and more have to be done but i am confident that the security and opensource community will like such products and our transparent approach also with open important releases and open source integration that make a very politically neutral (backdoor free) technology.
+
+ 1 Response to “PrivateGSM: Blackberry/iPhone/Nokia mobile voice encryption with ZRTP or SRTP/SDES”
+
+ Feed for this Entry 
+
+ 1 
+ Interested user 
+
+ Jan 20th, 2011 at 10:00 am 
+
+ You should add your client to the list at
+
+ http://en.wikipedia.org/wiki/Comparison_of_VoIP_software#Mobile_phones 
+
+ Unfortunately, 800 EUR per year is too expensive for private use…
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « A couple of nice VPN provider 
+ Eight Epic Failure of Regulating Cryptography » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress 2.9.1 and Unwakeable 1.2.1 
+
+ Prepared In: 0.354 sec. w/ 22 queries.
+
+ RSS Entries and RSS Comments

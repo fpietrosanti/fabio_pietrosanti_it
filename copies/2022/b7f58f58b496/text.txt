@@ -1,0 +1,219 @@
+Pa, "10mila siti violano privacy cittadini con Google Fonts" 
+
+ Sezioni 
+
+ Internet 
+
+ Media 
+
+ Telecoms 
+
+ Energia 
+
+ Cybersecurity 
+
+ Smart City 
+
+ Robot 
+
+ Games 
+
+ HotSpot 
+
+ Eventi 
+
+ Video 
+
+ Rubriche 
+
+ Agenda Tivù 
+
+ Bibliotech 
+
+ Blockchain, AI&Cybersecurity 
+
+ Focus Mail 
+
+ Mappamondo 
+
+ Meteo4You 
+
+ Who is who 
+
+ Consumer First 
+
+ Cnit Talk 
+
+ Digital&Law 
+
+ Digital Customer Experience 
+
+ Enterprise 4.0 
+
+ ilprincipenudo 
+
+ Imaginarea 
+
+ La Pa che Vorrei 
+
+ Libri: quale futuro 
+
+ Orizzonte 6G 
+
+ Privacy, l’esperto risponde 
+
+ Sos Energia 
+
+ Sos Tech 
+
+ Vorticidigitali 
+
+ Truenumbers 
+
+ Vero o Falso? 
+
+ Contributors 
+
+ INFO 
+
+ Chi siamo 
+
+ L’EDITORE 
+
+ MEDIAKIT 
+
+ Contatti 
+
+ INFORMATIVA PRIVACY 
+
+ Newsletter 
+
+ Home 
+
+ »
+
+ Internet 
+
+ »
+
+ PA, non basta l’addio a Google Analytics: “10mila siti violano privacy cittadini con Google Fonts”
+
+ la soluzione conforme a GDPR 
+
+ PA, non basta l’addio a Google Analytics: “10mila siti violano privacy cittadini con Google Fonts” 
+
+ di Luigi Garofalo 
+ | 
+ 8 Agosto 2022, ore 11:50 
+
+ Internet 
+
+ La nuova battaglia di MonitoraPA: “Stamattina abbiamo inviato 10.162 PEC per rimuovere Google Fonts dai siti della PA. La soluzione da noi proposta richiede 5-10 minuti per attivarla”.
+
+ Sono meno di 2mila i siti delle Pubbliche amministrazioni ad usare ancora  Google Analytics ( GA ). A maggio scorso erano 7.833. Il drastico crollo è dovuto soprattutto al lodevole impegno di MonitoraPA , progetto della comunità di hacker, attivisti e attiviste in Italia, nato con l’obiettivo iniziale di fare “piazza pulita” nella PA di Google Analytics. E, come raccontato da  Key4biz , piano piano ci sta riuscendo. Poi il 23 giugno scorso è arrivata anche la pronuncia del Garante Privacy : Google Analytics, bloccato l’utilizzo a una società: “Dati trasferiti negli Usa senza adeguate garanzie. 90 giorni a tutti i siti per adeguarsi, poi fioccano sanzioni”. 
+
+ Il crollo dell’uso di Google Analytics sui siti web delle Pa 
+
+ Prima della nascita di MonitoraPa, su più di 25mila Pubbliche Amministrazioni, Google Analytics era presente su 7.833 siti web. Dopo l’invio di una PEC a tutte queste PA da parte di MonitoraPA, “ ad oggi sono meno di 2mila siti web ad usare ancora GA. Sta andando alla grande ”, ci racconta  Fabio Pietrosanti , co-founder di MonitoraPa.
+
+ --> 
+
+ -->
+
+ Pietrosanti ci rivela anche la nuova battaglia di MonitoraPA.
+
+ “Stamattina abbiamo inviato 10.162 Pec per rimuovere Google Fonts dai siti della PA”.  
+
+ Analizziamo questa nuova moral suasion per “affondare Google Fonts” .
+
+ Google Fonts è la libreria di font, disponibile in più di 135 lingue, con licenza libera di Google che consente di scegliere il carattere preferito per il proprio sito web. È disponibile in due modi:
+
+ da remoto: collegandosi al server di Google Fonts e incorporando il font selezionato. 
+ in locale: installando da Google Fonts l’intera ‘famiglia’ del font selezionato nel proprio server. 
+
+ Le oltre 10mila Pa, che hanno ricevuto la Pec da MonitoraPA, utilizzano la prima modalità, quella che vìola la privacy dei cittadini-utenti che si collegano ai rispettivi siti web.
+
+ Un esempio di come incorporare su un sito un font scelto dalla libreria di Google 
+
+ L’inclusione di Google Fonts su un sito web determina, fa notare MonitoraPA, un trasferimento sistematico verso Google di diversi dati personali dei visitatori, fra cui:
+
+ indirizzo IP
+ User Agent
+ sistema operativo
+ lingue conosciute
+ la visita del vostro sito
+ la data e l’ora di tale visita
+ i dati personali descrittivi deducibili dall’incrocio dei dati precedenti e dall’interesse per i contenuti del vostro sito
+
+ Tutte informazioni più che sufficienti per Google ad identificare il soggetto interessato e ad arricchirne il profilo cognitivo-comportamentale.
+
+ Come usare Google Fonts senza inviare a Google i dati dei cittadini
+
+ A  Key4biz  Fabio Pietrosanti spiega anche come risolvere il problema adottando una soluzione conforme al GDPR:  “Il gestore del sito, se ritiene di mantenere le funzionalità di stile di Google Fonts, dovrebbe scaricare sul proprio web server copia dei file di Google Fonts e riferire nelle risorse ipertestuali lo scaricamento diretto dal proprio sito anziché dai server di Google, eliminando così l’illecito trasferimento di dati all’estero. L’attività tecnica in questione non richiede più di 5-10 minuti per il webmaster manutentore del sito e non inficia in alcun modo le prestazioni o funzionalità di Google Fonts”. 
+
+ Un esempio di come scaricare sul proprio web server i file del font scelto. Questa è la soluzione conforme al GDPR 
+
+ Il Tribunale di Monaco ha già imposto lo stop delle “chiamate” verso Google Fonts 
+
+ Il Tribunale di Monaco, con la sentenza definitiva del 19 gennaio 2022 (disponibile all’indirizzo https://openjur.de/u/2384915.html ) ha già riconosciuto a un soggetto un risarcimento di 100 euro da parte del Titolare del Trattamento che aveva adottato la prima modalità di utilizzo di Google Fonts, imponendo al Titolare stesso l’interruzione immediata delle chiamate verso Google Fonts: in caso di nuova violazione scatta una multa fino 250.000 euro ogni sei mesi.
+
+ Speriamo in questo modo, è la speranza di MonitoraPA, di aiutare 10.162 Pubbliche Amministrazioni a ridurre la sorveglianza dei cittadini che vi si affidano nonché a evitare, contestualmente, quella che a due anni dalla sentenza Schrems II , non potrebbe che essere una severa sanzione.
+
+ L'autore
+
+ Luigi Garofalo 
+
+ Giornalista e conduttore.
+
+ Condividi:
+
+ --> 
+
+ --> 
+
+ Quotidiano online sulla digital economy e la cultura del futuro
+
+ Direttore: Raffaele Barberio 
+
+ © 2002-2022 - Registrazione n. 121/2002. Tribunale di Lamezia Terme - ROC n. 26714 del 5 ottobre 2016
+
+ Editore Supercom - P. Iva 02681090425
+
+ Alcune delle foto presenti su Key4biz.it potrebbero essere state prese da Internet e quindi valutate di pubblico dominio. Se i soggetti o gli autori avessero qualcosa in contrario alla pubblicazione, lo possono segnalare alla redazione inviando una email a redazione@key4biz.it che provvederà prontamente alla rimozione delle immagini utilizzate.
+
+ Contatti | Chi Siamo | Privacy Policy | 
+
+ Key4biz è nel cloud di Netalia 
+
+ Questo sito si avvale di cookie tecnici e, con il tuo consenso, di cookie di profilazione, anche di terze parti. Chiudendo questo banner, cliccando in un'area sottostante o accedendo ad un'altra pagina del sito, acconsenti all'uso dei cookie. Per ulteriori informazioni o negare il consenso, consulta la cookie policy.
+ Cookie Settings Accetta tutti Rifiuta tutti Leggi di più 
+
+ Rivedi il consenso 
+
+ Chiudi 
+
+ Privacy Overview
+
+ This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+ Necessary 
+
+ Necessary 
+
+ Sempre abilitato 
+
+ Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information. 
+
+ Non-necessary 
+
+ Non-necessary 
+
+ Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. 
+
+ ACCETTA E SALVA 
+
+ Questo sito si avvale di cookie tecnici e, con il tuo consenso, di cookie di profilazione, anche di terze parti. Chiudendo questo banner acconsenti all'uso dei cookie. Per ulteriori informazioni o negare il consenso, consulta la cookie policy e la pagina privacy .
+
+ Chiudi 
+
+-->

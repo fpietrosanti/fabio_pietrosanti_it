@@ -1,0 +1,113 @@
+Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff » ESSOR, European Secure Software Defined Radio (SDR) 
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ HOME 
+
+ author & blog 
+
+ « Product management and organization 
+
+ Not every elliptic curve is the same: trough on ECC security » 
+
+ ESSOR, European Secure Software Defined Radio (SDR)
+
+ I had a look at European Defense Agency website and found the ESSOR project, a working project funded for 106mln EUR to develop strategic defense communication products based on new Software Defined Radio approach.
+
+ SDR approach is a revolutionary system that’s completely changing the way scientist and industry is approach any kind of wireless technology.
+
+ Basically instead of burning hardware chip that implement most of the radio frequency protocols and techniques, they are pushed in “software” to specialized radio hardware that can work on a lot of different frequency, acting as radio interface for a lot of different radio protocols.
+
+ For example the USRP (Universal Software Radio Peripheral) from Ettus Research that cost 1000-2000USD fully loaded, trough the opensource GnuRadio framework, have seen opensource implementation of:
+
+ GSM 
+
+ Bluetooth 
+
+ WiFi   
+
+ And a lot more protocols and transmission technologies.
+
+ That kind of new approach to Radio Transmission System is destinated to change the way radio system are implemented, giving new capability such as to upgrade the “radio protocol itself” in software in order to provide “radio protocol” improvements.
+
+ In the short terms we have also seen very strong security research using SDR technologies such as the GSM cracking and the Bluetooth Sniffing .
+
+ We can expect that other technologies, weak by design but protected by the restriction to hardware devices to hack the low level protocols, will be soon get hacked. In the first list i would really like to see the hacking of TETRA, a technology born with closed mindset and secret encryption algorithms, something i really dislike ;-)
+
+ Posted on 25 September 2010 by naif . This entry was posted in security , technology and tagged hacking , mobile . Bookmark the permalink . 
+
+ « Product management and organization 
+
+ Not every elliptic curve is the same: trough on ECC security » 
+
+ Leave a Reply Cancel reply 
+
+ Your email address will not be published. Required fields are marked * 
+ Name * 
+
+ Email * 
+
+ Website 
+
+ Comment 
+ You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> 
+
+ Translator
+
+ Search for: 
+
+ About
+
+ My interest in espionage/counterespionage, hacking, privacy, security, technology and sometime business and marketing stuff related to security world. BLOG IS IN ENGLISH. TRANSLATIONS ARE AUTOMATIC.
+
+ Twitter 
+
+ RT @frank_rieger : For reference: oil consumption per country http://t.co/fHafc4i 
+ RT @democracynow : #NATO admits loss of drone in #Libya; denies aircraft was Apache attack chopper. http://owl.li/5nZ3t #drones #Gaddafi 
+ RT @AnonyOps : U.S. conducting ‘mass surveillance’ against Arab world: report http://bit.ly/mIajVb (via @BarrettBrownLOL ) 
+ Saudi Suggests 'Squeezing' Iran Over Nuclear Ambitions http://t.co/Bk9TrwH 
+ RT @globaleaks : GlobalVoice Advocacy Project http://t.co/S25zCRB 
+
+ Recent Posts
+
+ RFC 6189: ZRTP is finally a standard! 
+
+ Progress for GSM cracking in Freiburg university 
+
+ My TOR exit node experience trying to filter out noisy traffic 
+
+ TETRA hacking is coming: OsmocomTETRA 
+
+ Government 2.0, Open Data and WikiLeaks 
+
+ ZORG, new C++ and Java ZRTP implementation public release 
+
+ Encrypted mobile to landline phone calls with Asterisk 1.8 
+
+ Eight Epic Failure of Regulating Cryptography 
+
+ PrivateGSM: Blackberry/iPhone/Nokia mobile voice encryption with ZRTP or SRTP/SDES 
+
+ A couple of nice VPN provider 
+
+ Not every elliptic curve is the same: trough on ECC security 
+
+ ESSOR, European Secure Software Defined Radio (SDR) 
+
+ Product management and organization 
+
+ Remotely intercepting snom VoIP phones 
+
+ Voice communication security workshop 
+
+ 27C3 – CCC Congress CFP: We come in peace 
+
+ GSM cracking in penetration test methodologies (OSSTMM) ? 
+
+ Snake-oil security claims on crypto security product 
+
+ Web2.0 privacy leak in Mobile apps 
+
+ AES algorithm selected for use in space 
+
+ Proudly powered by Wordpress and designed by code reduction

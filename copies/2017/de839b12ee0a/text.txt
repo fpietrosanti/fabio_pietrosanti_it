@@ -1,0 +1,737 @@
+1303739 - Warn when downloading executable files over HTTP 
+
+ Bugzilla 
+
+ Quick Search
+
+ Browse 
+
+ Advanced Search 
+
+ Reports 
+
+ Documentation 
+
+ New Account 
+
+ Log In 
+
+ or
+
+ Remember 
+
+ Forgot Password 
+
+ Mozilla Home 
+
+ Privacy 
+
+ Cookies 
+
+ Legal 
+
+ Bug 1303739
+
+ Warn when downloading executable files over HTTP
+
+ Alias:
+
+ ---
+
+ Summary:
+
+ Warn when downloading executable files over HTTP
+
+ NEW
+
+ Unassigned
+
+ ▾ 
+
+ Always Enable Edit Mode 
+
+ Reset Sections 
+
+ Expand All Sections 
+
+ Collapse All Sections 
+
+ Last Comment 
+
+ History 
+
+ Get help with this page 
+
+ Status
+
+ ( )
+
+ Product:
+
+ Firefox
+ ▾ 
+
+ Firefox
+
+ For bugs in Firefox Desktop, the Mozilla Foundation's web browser. For Firefox user interface issues in menus, bookmarks, location bar, and preferences. Many Firefox bugs will either be filed here or in the Core product. Bugs for developer tools (F12) should be filed in the DevTools product. ( more info )
+
+ See Open Bugs in This Product 
+
+ File New Bug in This Product 
+
+ Watch This Product 
+
+ Component:
+
+ Downloads Panel
+ ▾ 
+
+ Firefox :: Downloads Panel
+
+ For issues with the Downloads Panel, the new download manager of Firefox that lives in the navigation toolbar.
+
+ See Open Bugs in This Component 
+
+ File New Bug in This Component 
+
+ Watch This Component 
+
+ Type:
+
+ defect 
+
+ Importance:
+
+ P5
+
+ normal
+
+ Status:
+
+ NEW
+
+ Opened:
+
+ 3 years ago 
+
+ Updated:
+
+ 7 months ago 
+
+ Status:
+
+ NEW
+
+ ---
+
+ Mark as Assigned
+
+ People
+
+ (Reporter: eldmannen+mozilla, Unassigned)
+
+ Assignee:
+
+ Unassigned 
+
+ Assignee:
+
+ Reset Assignee to default 
+
+ Mentors:
+
+ ---
+
+ QA Contact:
+
+ Reset QA Contact to default 
+
+ Reporter:
+
+ Eldmannen 
+
+ Triage Owner:
+
+ Marco Bonardo [::mak] 
+
+ CC:
+
+ 23 people
+
+ Tracking
+
+ (Blocks 1 bug, {nightly-community})
+
+ Version:
+
+ 48 Branch
+
+ Target:
+
+ ---
+
+ Platform:
+
+ All
+
+ All
+
+ Keywords:
+
+ nightly-community 
+
+ Iteration:
+
+ ---
+
+ Points:
+
+ ---
+
+ Depends on:
+
+ ---
+
+ Blocks:
+
+ https-everything 
+
+ Dependency tree 
+ / graph 
+
+ Regressions:
+
+ ---
+
+ Regressed by:
+
+ ---
+
+ Duplicates:
+
+ 1189788 , 1504403 
+
+ 1444658 
+
+ Bug Flags:
+
+ a11y-review 
+
+ ? 
+ + 
+ - 
+
+ behind-pref 
+
+ + 
+ - 
+
+ blocking-fx-sync1.7 
+
+ ? 
+
+ firefox-backlog 
+
+ sec-review 
+
+ sec-bounty 
+
+ ? 
+
+ sec-bounty-hof 
+
+ in-qa-testsuite 
+
+ ? 
+ + 
+ - 
+
+ in-testsuite 
+
+ ? 
+ + 
+ - 
+
+ qe-verify 
+
+ Firefox Tracking Flags
+
+ (Not tracked)
+
+ This bug is not currently tracked.
+
+ Tracking Flags:
+
+ Tracking 
+ Status 
+
+ relnote-firefox 
+
+ ---
+
+ firefox-esr60 
+
+ ---
+
+ ---
+
+ firefox67 
+
+ ---
+
+ ---
+
+ firefox67.0.5 
+
+ ---
+
+ ---
+
+ firefox68 
+
+ ---
+
+ ---
+
+ firefox69 
+
+ ---
+
+ ---
+
+ Project Flags:
+
+ Webcompat Priority 
+
+ ---
+
+ Fission Milestone 
+
+ ---
+
+ Details
+
+ Whiteboard:
+
+ ---
+
+ Votes:
+
+ 9
+ votes
+
+ QA Whiteboard:
+
+ ---
+
+ Has Regression Range:
+
+ ---
+
+ Has STR:
+
+ yes
+
+ URL:
+
+ See Also:
+
+ trac.torproject.org/projects/tor/tick... 
+
+ Crash Signature:
+
+ Security
+
+ (public)
+
+ This bug is publicly visible.
+
+ User Story
+
+ Attachments
+
+ (2 attachments)
+
+ warning.png
+
+ 3 years ago 
+ Eldmannen 
+
+ 11.42 KB,
+ image/png 
+
+ Details 
+
+ more_warning.png
+
+ 3 years ago 
+ Eldmannen 
+
+ 22.89 KB,
+ image/png 
+
+ Details 
+
+ Bottom ↓ 
+
+ Tags ▾ 
+
+ Reset 
+
+ View ▾ 
+
+ Reset 
+
+ Collapse All 
+
+ Expand All 
+
+ Comments Only 
+
+ Eldmannen 
+
+ Reporter 
+
+ Description 
+
+ •
+ 3 years ago 
+
+ Posted image
+
+ warning.png 
+ — Details 
+
+ User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0
+Build ID: 20160823121617
+
+Steps to reproduce:
+
+Clicked on a hyperlink to download a .exe file that was requested over HTTP.
+
+Actual results:
+
+It offer to download it normally.
+
+Expected results:
+
+Should display a warning when the user attempts to download a executable file (.exe, .msi, .deb, .rpm) over HTTP.
+
+Since HTTP is not trusted and vulnerable to MITM attacks. This would encourage websites to host files over HTTPS and encourage users to beware. 
+
+ Eldmannen 
+
+ Reporter 
+
+ Comment 1 
+
+ •
+ 3 years ago 
+
+ Posted image
+
+ more_warning.png 
+ — Details 
+
+ Mock up illustration of potential design for warning. 
+
+ Eldmannen 
+
+ Reporter 
+
+ Updated 
+
+ •
+ 3 years ago 
+
+ OS: Unspecified → All
+ Hardware: Unspecified → All
+
+ Loic 
+
+ Updated 
+
+ •
+ 3 years ago 
+
+ Component: Untriaged → Notifications and Alerts
+ Product: Firefox → Toolkit
+
+ Matthew N. [:MattN] (PM me if requests are blocking you) 
+
+ Updated 
+
+ •
+ 2 years ago 
+
+ Component: Notifications and Alerts → Security
+ Product: Toolkit → Firefox
+
+ YF (Yang) 
+
+ Updated 
+
+ •
+ 2 years ago 
+
+ Status: UNCONFIRMED → NEW
+ Ever confirmed: true
+
+ Fabio Pietrosanti (naif) 
+
+ Comment 2 
+
+ •
+ 2 years ago 
+
+ It's critical that Browser vendor protect end-users against irresponsible software distribution of executable over HTTP subject to MITM attacks in 2017.
+
+Steps to reproduce the problem:
+1. Open www.videolan.org website that's in HTTP in clear
+2. Click download and follow one of their mirror in HTTP
+3. Starts downloading executable
+
+What is the expected behaviour?
+Chrome should prevent e provide a big alert windows users that downloading executable files over an insecure channel like HTTP can be subject to man in the middle attacks, regardless of the digital signing of the .exe file (that would be substituted by the attacker).
+
+What went wrong?
+Considering the HTTPS deployment strategy of Chrome that now provide warning against mixed HTTPS/HTTP content and warn of providing password over HTTP in clear, it would be a reasonable moves going in the same direction to provide security warning for download of executable codes over insecure HTTP to prevent malware injection attacks. 
+
+ Fabio Pietrosanti (naif) 
+
+ Comment 3 
+
+ •
+ 2 years ago 
+
+ ooops, sorry for copy and paste, opened the very same ticket to Chromium bugtracker and didn't sed /Chrome/Firefox 
+
+ YF (Yang) 
+
+ Updated 
+
+ •
+ 2 years ago 
+
+ Component: Security → Downloads API
+ Product: Firefox → Toolkit
+
+ Fabio Pietrosanti (naif) 
+
+ Comment 4 
+
+ •
+ 2 years ago 
+
+ Also cross-linked on Tor Project for Tor Browser:
+Tor Browser does not provide red security warning for downloading executable in HTTP https://trac.torproject.org/projects/tor/ticket/22809 
+
+Hopefully a cooperation would make this work out in a relatively quick way. 
+
+ Giorgio Maone [:mao] 
+
+ Comment 5 
+
+ •
+ 2 years ago 
+
+ Please notice that many projects, including some very sensitive to privacy and security such as Tails, adopt alternate measures (e.g. more or less automated hash verification at the end of the download) to validate the integrity of their downloads and still allow a flexible deployment model including insecure mirrors.
+However in this age of free certificates (Let's Encrypt), encouraging HTTPS everywhere makes much sense, even though the effectiveness of a warning at the bottom of the download prompt is debatable.
+
+Putting in CC :dvetitz and :gerv, who might want to have a say in this matter. 
+
+ Fabio Pietrosanti (naif) 
+
+ Comment 6 
+
+ •
+ 2 years ago 
+
+ Thanks for putting in CC interested people, i don't know well the mozilla security community.
+
+While i understand and acknowledge the usefulness of manual hash verification at the end of download for Security Sensitive software such as Tails used by Security Aware persons, the main issues i perceive is that massively used software such as VLC (2.3 billion downloads) are being downloaded from HTTP in clear-text from non-security-aware users just following click-next-click procedures.
+
+I would prevent downloading of executable from HTTP clear-text as a default security settings, but i understand that it would break a certain amount of situations.
+
+Assuming that software distribution of installers over HTTP in clear in 2017 is an unacceptable security risks due to MITM attacks to inject malware (by governments or criminals), i think that would be a reasonable security measure to be put in place.
+
+Reasonable in the same way it's reasonable to warn the uses of logging in with a password in HTTP in clear-text. 
+
+ Daniele "Mte90" Scasciafratte 
+
+ Comment 7 
+
+ •
+ 2 years ago 
+
+ Actually Firefox provide an alert for HTTP only on form where is the a password field and created issue with many users that was thinking that the website was not secure.
+
+So I think that the first step is to create a mockup in the download view where firefox ask the path to save the file with a text that explain the issue in a simple way.
+
+I don't think that is difficult to implement but will be helpful for alert about MITM attack or inform users that is better to use HTTPS.
+
+We need to forget that one of the most reason for users to use Firefox is privacy and safety and we need to inform them. 
+
+ Fabio Pietrosanti (naif) 
+
+ Comment 8 
+
+ •
+ 2 years ago 
+
+ Having the same conversation also on Tor Project TorBrowser link https://trac.torproject.org/projects/tor/ticket/22809 
+
+The definition of executable could be:
+"any installer file that can be directly executed on the target machine"
+
+By having a feature like that in Firefox we will foresee a *huge* increase in software distribution security worldwide.
+
+Especially this feature would bring a complete take-down to Infection Appliance provided by Surveillance companies such as HackingTeam and Finfisher (see ​ https://twitter.com/botherder/status/882243803448561665 ) that works by substituting executable files on the file in HTTP. 
+
+ Gervase Markham [:gerv] (not reading bugmail) 
+
+ Comment 9 
+
+ •
+ 2 years ago 
+
+ As a UX question, this should probably be in the Firefox product.
+
+I see the problem you are raising; the trouble is that we will be putting warnings in front of millions and millions of users to save a small handful. Perhaps our UX team can come up with a better way.
+
+Another option would be to push again on getting Subresource Integrity specced for <a> elements:
+ https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity 
+
+This seems like the direction people are moving in to fix this, but there's spec work that needs to be done. At the time it was initially defined, they said "<a> is a bit complicated; we'll do that in v2", but it could be that it's all stalled.
+
+Gerv Component: Downloads API → Downloads Panel
+ Product: Toolkit → Firefox
+
+ Gervase Markham [:gerv] (not reading bugmail) 
+
+ Comment 10 
+
+ •
+ 2 years ago 
+
+ https://lists.w3.org/Archives/Public/public-webappsec/2017May/0003.html 
+
+Looks like it's still an idea, but no-one seems to be working on it right now.
+
+Gerv 
+
+ Fabio Pietrosanti (naif) 
+
+ Comment 11 
+
+ •
+ 2 years ago 
+
+ I feel that as we come up with a security warning that's done as a copy-paste to the invalid/expired/wrong TLS/certificates one.
+
+End-users will be informed of the security risks and be able to go forward downloading it if they really understand/knows what they area doing, but the entity doing the software distribution will upgrade it's URL to HTTPS in relatively small amount of time.
+
+Today upgrading to HTTPS is cheap, HTTP->HTTPS is about +2% CPU costs and actually with LetsEncrypt certificates are free and easy to be setup with apache/nginx integrated utilities.
+
+I see this security improvement so beneficial that i'm willing to put efforts in terms of work and fundraising for that, for the great positive impact it will have worldwide! :-) 
+
+ YF (Yang) 
+
+ Updated 
+
+ •
+ 2 years ago 
+
+ See Also: → https://trac.torproject.org/projects/tor/ticket/22809 
+
+ :Paolo Amadini 
+
+ Updated 
+
+ •
+ 2 years ago 
+
+ Priority: -- → P5
+
+ Fabio Pietrosanti (naif) 
+
+ Comment 12 
+
+ •
+ Last year 
+
+ This kind of security issues is now actively being exploited by Turla Russian APT Group:
+ https://www.darkreading.com/attacks-breaches/turla-cyberespionage-gang-employs-adobe-flash-installer/d/d-id/1330788 
+
+I updated the tickets to achieve that specific improvement also on Google Chromium and Tor issues trackers:
+ https://bugs.chromium.org/p/chromium/issues/detail?id=739090 
+ https://trac.torproject.org/projects/tor/ticket/22809#comment:4 
+
+ Jan Andre Ikenmeyer [:darkspirit] 
+
+ Comment 13 
+
+ •
+ Last year 
+
+ We are not talking about a JPG, but about an executable that probably will be run as admin: One is warned about an insecure password form ( https://goo.gl/fkomLb ), but not about being one step away from beheading oneself?
+
+If I google "Flash player download", the second result is the well-known german computer magazine CHIP:
+ http://www.chip.de/downloads/Adobe-Flash-Player_13003561.html 
+The exe will be downloaded via http:
+ http://dl.cdn.chip.de/downloads/60718/FP_win_28137.zip?cid=54382746&platform=chip&1516455285-1516462785-1a1d-B-a92cc5029a072343cb5fe7444f4c1ea0 
+( https://dl.cdn.chip.de = SSL_ERROR_BAD_CERT_DOMAIN, Akamai)
+There wasn't any broken padlock, for example. There is no incentive for CHIP to switch to https at the moment. :/ Blocks: https-everything 
+ Has STR: --- → yes
+ Keywords: nightly-community 
+
+ Fabio Pietrosanti (naif) 
+
+ Comment 14 
+
+ •
+ Last year 
+
+ When software does not provide full HTTPS delivery chain, people can die.
+
+Please let's close this loop-hope by preventing download of executable over HTTP in clear-text.
+
+ https://citizenlab.ca/2018/03/bad-traffic-sandvines-packetlogic-devices-deploy-government-spyware-turkey-syria/ 
+
+ Jonathan Kingston [:jkt] 
+
+ Updated 
+
+ •
+ Last year 
+
+ Duplicate of this bug: 1444658 
+
+ :Gijs (he/him) 
+
+ Updated 
+
+ •
+ Last year 
+
+ Duplicate of this bug: 1189788 
+
+ Rares Doghi 
+
+ Updated 
+
+ •
+ 7 months ago 
+
+ Duplicate of this bug: 1504403 
+
+ You need to log in 
+ before you can comment on or make changes to this bug.
+
+ Top ↑ 
+
+ Format Bug ▴ 
+
+ XML 
+
+ JSON

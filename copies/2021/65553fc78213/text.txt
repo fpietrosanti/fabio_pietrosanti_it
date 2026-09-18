@@ -1,0 +1,318 @@
+Voto Elettronico: perché è (ancora) una pessima idea 
+
+ Scopri 
+
+ La tua Libreria 
+
+ Cerca 
+
+ Per Podcaster
+
+ I tuoi podcast 
+
+ Gratuito
+
+ La nostra piattaforma
+
+ Come funziona Spreaker 
+
+ Podcast App 
+
+ Spreaker Create 
+
+ Prime Network 
+
+ Aiuto 
+
+ {
+ if (!hidden) {
+ $refs.inputMobile.focus();
+ }
+ });
+ if (isSearch && !query) {
+ if (window.innerWidth 
+
+ Registrati
+
+ Log in 
+
+ Registrati 
+
+ Per Podcaster
+
+ I tuoi podcast 
+
+ Gratuito
+
+ Impostazioni
+
+ Tema chiaro
+
+ Tema scuro
+
+ La nostra piattaforma
+
+ Come funziona Spreaker 
+
+ Podcast App 
+
+ Spreaker Create 
+
+ Prime Network 
+
+ Aiuto 
+
+ {
+ if (this.toast) {
+ this.toast = null;
+ }
+ }, timings[this.toast.type]);
+ },
+ getClassType() {
+ return {
+ 'bg-neutral-700 dark:bg-neutral-100 text-white dark:text-neutral-950': this
+ .toast?.type === 'default',
+ 'bg-sky-700 text-white': this.toast?.type === 'info',
+ 'bg-emerald-700 text-white': this.toast?.type === 'success',
+ 'bg-red-800 text-white': this.toast?.type === 'error',
+ 'bg-orange-400 text-neutral-950': this.toast?.type === 'warning'
+ }
+ }
+ }" x-on:toast.window="showToast($event.detail)" x-show="toast" class="fixed left-0 right-0 z-10 md:left-[250px]"
+ x-transition>
+
+ Ciao, Internet! con Matteo Flora
+
+ Voto Elettronico: perché è (ancora) una pessima idea
+
+ 8 giu 2021 ·
+ 35 min. 18 sec.
+
+Caricando
+
+ Riproduci
+
+ Pausa
+
+ Aggiungi alla coda
+
+ In coda
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Scarica
+
+ Scarica e ascolta ovunque
+
+ Scarica i tuoi episodi preferiti e goditi l'ascolto, ovunque tu sia! Iscriviti o accedi ora per ascoltare offline.
+
+ Iscriviti per scaricare
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Incorpora
+
+ Incorpora episodio
+
+ `;
+ },
+ copyToClipboard() {
+ this.copyStatus = 'DONE';
+ SP.Utils.copyToClipboard(this.getIframeCode());
+ setTimeout(() => { this.copyStatus = 'IDLE'; }, 2000);
+ }
+}">
+
+ Scuro
+
+ Chiaro
+
+ Copia
+
+ Fatto
+
+ Vuoi aggiungere un tocco personale? Esplora tutte le opzioni di incorporamento disponibili nella nostra guida per sviluppatori
+
+ Condividi su X 
+
+ Condividi su Facebook 
+
+ Condividi su Bluesky 
+
+ Condividi su Whatsapp 
+
+ Condividi su Telegram 
+
+ Condividi su LinkedIn 
+
+ Descrizione
+
+ Negli ultimi anni ho fatto un sacco di video sul Voto Elettronico, e ve ne ho parlato spesso: ho raccontato come e perché sia una pessima idea, e le contro-argomentazioni...
+
+ mostra di più 
+
+ Negli ultimi anni ho fatto un sacco di video sul Voto Elettronico, e ve ne ho parlato spesso: ho raccontato come e perché sia una pessima idea, e le contro-argomentazioni sono sempre state le stesse. Di base espresse da persone che pensano di avere una soluzione “innovativa” ad un problema che le massime menti informatiche al mondo vedono come l’apocalisse. Nessuna esclusa.
+
+E, sia chiaro, ricevo ancora email, messaggi, whatsapp, almeno uno alla settimana che mi chiedono: le cose devono essere cambiate ormai, giusto? Nel senso, c’è questa nuova idea, questa nuova tecnologia, hanno trovato questa nuova cosa e studio, hanno finanziato questa piattaforma, ora aiuterà sicuramente!
+Vero, Matteo, che il voto elettronico adesso è dietro l'angolo?
+
+No, non lo è. No, davvero.
+E non lo sarà probabilmente nello spazio di altri 100 anni, a meno di rivoluzioni copernicane. Quindi mettetevi comodi, perché oggi affrontiamo l’argomento una volta per tutte:
+
+Ecco perché il voto elettronico è ancora una pessima idea.
+
+00:00 - Introduzione: ancora una pessima idea...
+01:47 - I requisiti di voto anonimo e segreto
+04:30 - Il requisito di fiducia e trasparenza
+06:39 - Gli attacchi al voto cartaceo e la scalabilità
+08:58 - La questione degli attacchi che scalano
+11:25 - Macchine di voto, Open Source, fiducia
+13:52 - Macchine di voto e checksum e ancora fiducia
+17:37 - Il trasporto dei voti
+20:17 - Il server centrale e la ''fiducia ultima''
+22:44 - L'attacco alla Fiducia (Trump, Biden e Leonardo...)
+24:54 - E cosa ci dici del voto ''online''?
+27:05 - Voto elettronico in Estonia e Germania
+31:35 - ...e la BlockChain?
+31:53 - Conclusioni e ringraziamenti
+
+---
+NOTE:
+Questo video non è per nulla tutta farina del mio sacco, e riprende il celeberrimo video “Why Electronic Voting Is Still A Bad Idea” (https://www.youtube.com/watch?v=LkH2r-sNjQs) del grandissimo @Tom Scott e se conoscete l’inglese vi prego di vedere il SUO video, spettacolare come tutti quelli del suo canale, vi lascio il link in descrizione.
+
+E parti di questo script sono state sistemate grazie all’aiuto di stimati professionisti ed amici come Fabio Pietrosanti, Maurizio Lana, Stefano Quintarelli, Stefano Zanero, Davide Del Monte, Stefano Fratepietro.
+
+Ogni errore che rimane è solo mio e ogni merito delle persone che vi ho segnalato.
+
+Estote parati!
+
+--
+I LINK che cito sono sempre nella Likoteca: http://mgpf.it/link
+--
+Io sono http://matteoflora.com e ogni giorno
+ con ''Ciao Internet'' ti racconto di ''Algoritmi di Macchine e di Umani''
+Mi trovi su Youtube qui https://mgpf.it/yt
+su Facebook qui https://mgpf.it/fb
+su Podcast qui https://mgpf.it/pc
+e su Instagram e Twitter come @lastknight
+--
+Per contatti commerciali: mf@thefool.it
+
+ mostra meno 
+
+ Commenti
+
+ Accedi per lasciare un commento
+
+ Informazioni
+
+ Autore 
+
+ Matteo Flora
+
+ Organizzazione
+
+ Matteo G.P. Flora
+
+ Sito 
+
+ -
+
+ Tag 
+
+ -
+
+ 🇮🇹 Italiano
+
+ 🇬🇧 English 
+
+ 🇮🇹 Italiano 
+
+ 🇪🇸 Espanõl 
+
+ 🇮🇹 Italiano
+
+ 🇬🇧 English 
+
+ 🇮🇹 Italiano 
+
+ 🇪🇸 Espanõl 
+
+ Termini 
+
+ Privacy 
+
+ {e.preventDefault(); showOneTrustPreferenceCenter();}"
+ class="ot-sdk-show-settings hover:underline">
+ Cookie Settings
+
+ Copyright 2026 - Spreaker Inc. an
+ iHeartMedia Company
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ In riproduzione ora
+
+ Coda
+
+ Sembra che non tu non abbia alcun episodio attivo
+
+ Sfoglia il catalogo di Spreaker per scoprire nuovi contenuti
+
+ Esplora adesso
+
+ Corrente
+
+ Sembra che non ci sia nessun episodio nella tua coda
+
+ Sfoglia il catalogo di Spreaker per scoprire nuovi contenuti
+
+ Esplora adesso
+
+ 1" class="mt-6">
+
+ Successivo
+
+ Gestisci
+
+ Fatto
+
+ svg]:text-white">
+
+ Sposta su
+
+ Sposta su
+
+ Sposta giù
+
+ Sposta giù
+
+ Rimuovi
+
+ svg]:text-white">
+
+ Che silenzio che c’è... 
+
+ È tempo di scoprire nuovi episodi! 
+
+ Scopri
+
+ La tua Libreria
+
+ Cerca
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Sblocca tutto il potenziale di Spreaker
+
+ Iscriviti per continuare ad ascoltare, accedi alla tua libreria per riprendere gli episodi da dove li avevi lasciati e connettiti con i tuoi creatori preferiti. Vivi l'esperienza di ascolto definitiva su Spreaker!
+
+ Iscriviti gratuitamente

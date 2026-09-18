@@ -1,0 +1,21 @@
+Introduce support for HTTPS security measurement
+https://github.com/ooni/probe/issues/747
+opened 2017-04-21T10:02:51Z by fpietrosanti · state open
+
+### Description
+This ticket is to introduce the support in OONI for HTTPS security measurement following the  M-15-13 requirements implemented also by the tools PSHTT (https://github.com/dhs-ncats/pshtt) that's also the basis of the Secure The News HTTPS/Media monitoring platform (https://github.com/freedomofpress/securethenews) .
+
+Having an OONIProbe module that does the measurement of HTTPS security it would be possible to engage in massive monitoring of existing website lists (ex: all the media of a country or all the hospital of a country or all the government website of a country) to check:
+- If they are secure from the HTTPS measurement matrix above
+- If they do block users coming from Tor
+
+With the ability to do that kind of monitoring "in scale" (also on Alexa Top 1 million or on very big lists), then it would be nice to evaluate which data analysis and visualization tools exists for OONI that could be leverage/partially re-purposed for that scope.
+
+The general concept behind that feature is to leverage the existing structured OONI framework to do that kind of civic activism monitoring actions.
+
+--- 2017-04-23T14:19:44Z bassosimone
+I like the idea, thanks for sharing it!
+
+I guess a minimal implementation of this could be by hacking a OONI module based on the original code you linked to, even though this probably would be a very ghetto solution.
+
+I was independently thinking about collecting similar kind of metrics as part of measurement-kit implementation of web-connectivity, such that, basically, by running censorship measurements in country X one also gets for free HTTPS classification for those sites that are not blocked. As such, I have just created a ticket referring to this in measurement-kit: https://github.com/measurement-kit/measurement-kit/issues/1197.

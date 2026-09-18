@@ -1,0 +1,127 @@
+Bugtraq: Cisco PIX Security Notes 
+
+ Nmap Security Scanner 
+
+ Intro 
+
+ Ref Guide 
+
+ Install Guide 
+
+ Download 
+
+ Changelog 
+
+ Book 
+
+ Docs 
+
+ Security Lists 
+
+ Nmap Hackers 
+
+ Nmap Dev 
+
+ Bugtraq 
+
+ Full Disclosure 
+
+ Pen Test 
+
+ Basics 
+
+ More 
+
+ Security Tools 
+
+ Pass crackers 
+
+ Sniffers 
+
+ Vuln Scanners 
+
+ Web scanners 
+
+ Wireless 
+
+ Exploitation 
+
+ Packet crafters 
+
+ More 
+
+ Site News 
+
+ Advertising 
+
+ About/Contact 
+
+ Exceptional Links 
+
+ Good Reading 
+
+-->
+ Exploit World 
+
+ Sponsors: 
+
+ Bugtraq 
+mailing list archives 
+
+    By Date    
+
+    By Thread    
+
+ Cisco PIX Security Notes 
+
+ From : "Fabio Pietrosanti (naif)" <naif () INET IT>
+
+ Date : Fri, 9 Mar 2001 19:32:41 +0100
+
+ Working with Cisco PIX Firewall i wrote some note about possible security
+problem of Cisco PIX .
+
+Attached the paper Cisco_PIX_Notes.txt :)
+
+--
+Pietrosanti Fabio I.NET SpA, High Quality Access to the Internet
+e-mail: naif () inet it ( Direzione Tecnica, Security Staff )
+ firewall () inet it
+PGP Key (DSS) http://naif.itapac.net/naif.asc 
+
+Home Page URL: http://www.inet.it 
+Sede: Via Darwin, 85 20019 Settimo Milanese (MI)
+Tel: 02-328631 Fax: 02-328637701
+--
+Free advertising: www.openbsd.org - Multiplatform Ultra-secure OS
+
+ Attachment:
+ Cisco_PIX_notes.txt 
+
+ Description: 
+
+    By Date    
+
+    By Thread    
+
+ Current thread: 
+
+ Cisco PIX Security Notes Fabio Pietrosanti (naif) (Mar 11) 
+
+ Re: Cisco PIX Security Notes Curt Wilson (Mar 12) 
+
+ Re: Cisco PIX Security Notes Lisa Napier (Mar 13) 
+
+ Re: Cisco PIX Security Notes Laurent LEVIER (Mar 15) 
+
+ Re: Cisco PIX Security Notes Curt Wilson (Mar 15) 
+
+ Re: Cisco PIX Security Notes *Vendor Response* Lisa Napier (Mar 16) 
+
+[ Nmap |
+ Sec Tools |
+ Mailing Lists |
+ Site News |
+ About/Contact |
+ Advertising |
+ Privacy ]

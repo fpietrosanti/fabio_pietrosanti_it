@@ -1,0 +1,328 @@
+GitHub - hackingbiology/biohackit: Biohacking Software · GitHub 
+
+ Skip to content 
+
+ Navigation Menu
+
+ Sign in Appearance settings
+
+ Platform AI CODE CREATION GitHub Copilot Write better code with AI 
+ GitHub Copilot app Direct agents from issue to merge 
+ MCP Registry Integrate external tools 
+
+ DEVELOPER WORKFLOWS Actions Automate any workflow 
+ Codespaces Instant dev environments 
+ Issues Plan and track work 
+ Code Review Manage code changes 
+ Code Quality Enforce quality at merge 
+
+ APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities 
+ Code security Secure your code as you build 
+ Secret protection Stop leaks before they start 
+
+ EXPLORE Why GitHub 
+ Documentation 
+ Blog 
+ Changelog 
+ Marketplace 
+
+ View all features 
+
+ Solutions BY COMPANY SIZE Enterprises 
+ Small and medium teams 
+ Startups 
+ Nonprofits 
+
+ BY USE CASE App Modernization 
+ DevSecOps 
+ DevOps 
+ CI/CD 
+ View all use cases 
+
+ BY INDUSTRY Healthcare 
+ Financial services 
+ Manufacturing 
+ Government 
+ View all industries 
+
+ View all solutions 
+
+ Resources EXPLORE BY TOPIC AI 
+ Software Development 
+ DevOps 
+ Security 
+ View all topics 
+
+ EXPLORE BY TYPE Customer stories 
+ Events & webinars 
+ Ebooks & reports 
+ Business insights 
+ GitHub Skills 
+
+ SUPPORT & SERVICES Documentation 
+ Customer support 
+ Community forum 
+ Trust center 
+ Partners 
+
+ View all resources 
+
+ Open Source COMMUNITY GitHub Sponsors Fund open source developers 
+
+ PROGRAMS Security Lab 
+ Maintainer Community 
+ GitHub Stars 
+ Archive Program 
+
+ REPOSITORIES Topics 
+ Trending 
+ Collections 
+
+ Enterprise ENTERPRISE SOLUTIONS Enterprise platform AI-powered developer platform 
+
+ AVAILABLE ADD-ONS GitHub Advanced Security Enterprise-grade security features 
+ Copilot for Business Enterprise-grade AI features 
+ Premium Support Enterprise-grade 24/7 support 
+
+ Pricing 
+ Search / 
+
+ Sign in 
+ Sign up Appearance settings
+
+ You signed in with another tab or window. Reload to refresh your session. 
+ You signed out in another tab or window. Reload to refresh your session. 
+ You switched accounts on another tab or window. Reload to refresh your session. 
+
+ Dismiss alert 
+
+ {{ message }}
+
+ hackingbiology
+
+ / 
+
+ biohackit 
+
+ Public 
+
+ Notifications
+ You must be signed in to change notification settings 
+
+ Fork
+ 0 
+
+ Star
+ 0 
+
+ Code 
+
+ Issues 
+ 2 
+
+ Pull requests 
+ 0 
+
+ Actions 
+
+ Projects 
+
+ Security and quality 
+ 0 
+
+ Insights 
+
+ Additional navigation options 
+
+ Code
+
+ Issues
+
+ Pull requests
+
+ Actions
+
+ Projects
+
+ Security and quality
+
+ Insights
+
+ main 
+
+ Branches Tags 
+
+ Go to file 
+
+ Code Open more actions menu 
+
+ Latest commit
+
+ History
+ 68 Commits 
+ 68 Commits 
+
+ Folders and files
+ Name Name Last commit message 
+ Last commit date 
+
+ analysis 
+
+ analysis 
+
+ brand 
+
+ brand 
+
+ docs 
+
+ docs 
+
+ openspec 
+
+ openspec 
+
+ whitepaper 
+
+ whitepaper 
+
+ .gitignore 
+
+ .gitignore 
+
+ LICENSE 
+
+ LICENSE 
+
+ README.md 
+
+ README.md 
+
+ View all files 
+
+ Repository files navigation
+
+ README 
+ AGPL-3.0 license 
+
+ More items 
+
+ HackingBiology / biohack.it
+
+ HackingBiology è l' organizzazione (non-profit). biohack.it è il software e l' iniziativa .
+
+ Piattaforma open source (AGPL-3.0) e gratuita dove i biohacker documentano il proprio protocollo
+in modo strutturato (cosa prendono/fanno, dosi, timing, cicli) e ne misurano efficacia e sicurezza
+tramite biomarcatori, condividendo pubblicamente protocollo e risultati — con una dinamica sociale
+tipo "copy-trading" applicata alla salute. Motore etico: riduzione del danno per i principianti.
+
+ Fondatore: Fabio. Comunità di riferimento preesistente: Rapamycin News 
+(Discourse). Sito storico dell'organizzazione: https://hackingbiology.com 
+
+ Documentazione ( docs/ )
+
+ Importata dalla conversazione claude.ai "Piattaforma biohacking per protocolli e biomarcatori" 
+senza upload di file (via browser), più il deck originale dal thread Rapamycin News.
+
+ File 
+ Contenuto 
+ Stato 
+
+ docs/hackingbiology-project-spec.md 
+ Spec di progetto v0.3 — l'INDICE (service design, moduli M1–M13, analisi tecnica, roadmap, competitivo) 
+ ✅ 
+
+ docs/getbased-reuse-analysis.md 
+ Analisi riuso di get-based (AGPL) — Tier A/B/C, strategia 
+ ✅ 
+
+ docs/slides/hacking-biology-project-presentation.pdf 
+ Deck originale 14 slide (Google Slides pubblico) 
+ ✅ 
+
+ docs/myagingtests-mappatura-report.md 
+ Report test pipeline MyAgingTests 
+ ⬜ da importare 
+
+ docs/protocolengine-analysis.md 
+ Analisi ProtocolEngine 
+ ⬜ da importare 
+
+ docs/myagingtests-analysis.md 
+ Analisi MyAgingTests 
+ ⬜ da importare 
+
+ docs/bloodwork-layer-analysis.md 
+ Analisi Blood Layer (Lucis, SiPhox, TestResult, BloodGPT) 
+ ⬜ da importare 
+
+ docs/lamplit-analysis.md 
+ Analisi Lamplit 
+ ⬜ da importare 
+
+ Specifica funzionale (OpenSpec)
+
+ La specifica funzionale vive in openspec/ . Parti da openspec/REVIEW-GUIDE.md per una revisione guidata: 17 capability (domain-model + M1–M13 e affini), 85 requirement / 92 scenari, più flussi di navigazione e wireframe a bassa fedeltà in openspec/wireframes/ . Le decisioni che rivedono lo spec v0.3 e le domande aperte sono raccolte nella review guide.
+
+ Presentazione
+
+ Deck in inglese per il Biohacker track del TimePie Longevity Forum: docs/presentation/timepie-forum.html (pubblicato come Artifact per revisione condivisa).
+
+ Fonti
+
+ claude.ai chat 79c61f96-5b41-433d-b75c-a898c7339488 (spec + companion analyses)
+
+ Rapamycin News thread: https://www.rapamycin.news/t/hacking-biology-new-member-developing-a-longevity-biohacking-plan-platform/15776 
+
+ Slides (Google): docs.google.com/presentation/d/1_g1nXjKmncs1HnObXAovE6_PRGuHx5psdbx8wN3Pui8 
+
+ Codice da riusare: https://github.com/elkimek/get-based (AGPL-3.0)
+
+ About 
+ Biohacking Software
+ Resources 
+ Readme 
+ AGPL-3.0 license 
+ Activity 
+ Custom properties 
+ Stars 
+ 0 stars 
+ Watchers 
+ 0 watching 
+ Forks 
+ 0 forks 
+ Report repository 
+
+ Releases 
+
+ Packages 
+
+ Contributors 
+
+ Languages 
+
+ Footer
+
+ © 2026 GitHub, Inc.
+
+ Footer navigation
+
+ Terms 
+
+ Privacy 
+
+ Security 
+
+ Status 
+
+ Community 
+
+ Docs 
+
+ Contact 
+
+ Manage cookies
+
+ Do not share my personal information
+
+ You can’t perform that action at this time.

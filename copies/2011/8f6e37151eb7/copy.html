@@ -1,0 +1,279 @@
+<meta charset="utf-8"><!-- MHonArc v2.6.16 -->
+<!--X-Head-End-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://seclists.org/rss/fulldisclosure.rss">
+<title>Full Disclosure: ZORG,	new C++ and Java ZRTP implementation public release</title>
+<meta name="Subject" content="ZORG,	new C++ and Java ZRTP implementation public release"/>
+<meta name="Author" content="Fabio Pietrosanti (naif)"/>
+<link REL="SHORTCUT ICON" HREF="/shared/images/tiny-eyeicon.png" TYPE="image/png">
+<META NAME="ROBOTS" CONTENT="NOARCHIVE">
+<link rel="stylesheet" href="/shared/css/insecdb.css" type="text/css">
+</HEAD>
+<BODY BGCOLOR="#2A0D45" TEXT="#000000"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://seclists.org/fulldisclosure/2011/Jan/139">seclists.org/fulldisclosure/2011/Jan/139</a> · captured 2011-01-22 · scripts removed</div>
+
+<TABLE CELLPADDING="0" WIDTH="100%" CELLSPACING="0">
+<TR><TD ALIGN="left"><A HREF="/"><IMG BORDER=0 ALT="Home page logo"
+SRC="/images/sitelogo.png" HEIGHT=90 WIDTH=168></A></TD>
+<TD VALIGN="bottom" ALIGN="right">
+<!-- Begin TopBanner Code -->
+<!-- AdSpeed.com Serving Code 7.9.5 for [Zone] TopBanner 728x90 -->
+
+<noscript>
+</noscript><!-- AdSpeed.com End -->
+<!-- End Banner Code -->
+
+</TD></TR></TABLE>
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0"><TR>
+<TD ALIGN="left" WIDTH="130" VALIGN="top" class="sidebar">
+
+<!-- SECWIKI PORTAL INSERT -->
+
+<ul>
+<li><a href="http://nmap.org/">Nmap Security Scanner</a>
+<ul>
+<li><a href="http://nmap.org/">Intro</a></li>
+<li><a href="http://nmap.org/book/man.html">Ref Guide</a></li>
+<li><a href="http://nmap.org/book/install.html">Install Guide</a></li>
+<li><a href="http://nmap.org/download.html">Download</a></li>
+<li><a href="http://nmap.org/changelog.html">Changelog</a></li>
+<li><a href="http://nmap.org/book/">Book</a></li>
+<li><a href="http://nmap.org/docs.html">Docs</a></li>
+</ul>
+<li><a href="http://seclists.org/">Security Lists</a>
+<ul>
+<li><a href="http://seclists.org/nmap-hackers/">Nmap Hackers</a></li>
+<li><a href="http://seclists.org/nmap-dev/">Nmap Dev</a></li>
+<li><a href="http://seclists.org/bugtraq/">Bugtraq</a></li>
+<li><a href="http://seclists.org/fulldisclosure/">Full Disclosure</a></li>
+<li><a href="http://seclists.org/pen-test/">Pen Test</a></li>
+<li><a href="http://seclists.org/basics/">Basics</a></li>
+<li><a href="http://seclists.org/">More</a></li>
+</ul>
+<li><a href="http://sectools.org">Security Tools</a>
+<ul>
+<li><a href="http://sectools.org/crackers.html">Pass crackers</a></li>
+<li><a href="http://sectools.org/sniffers.html">Sniffers</a></li>
+<li><a href="http://sectools.org/vuln-scanners.html">Vuln Scanners</a></li>
+<li><a href="http://sectools.org/web-scanners.html">Web scanners</a></li>
+<li><a href="http://sectools.org/wireless.html">Wireless</a></li>
+<li><a href="http://sectools.org/sploits.html">Exploitation</a></li>
+<li><a href="http://sectools.org/packet-crafters.html">Packet crafters</a></li>
+<li><a href="http://sectools.org/">More</a></li>
+</ul>
+<li><a href="http://insecure.org/">Site News</a></li>
+<li><a href="http://insecure.org/advertising.html">Advertising</a></li>
+<li><a href="http://insecure.org/fyodor/">About/Contact</a></li>
+<li>
+<!-- SiteSearch Google -->
+<!-- I changed the form id so that javascript acts on the top form on search.html page rather than this one. -->
+<form action="http://insecure.org/search.html" id="cse-search-box-sidebar">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="16">
+    <input type="submit" name="sa" value="Site Search">
+  </div>
+</form>
+<!-- Commented out the Javascript part because it doesn't handle SSL so causes warnings on SSL pages.
+ -->
+<!-- End SiteSearch Google -->
+</li>
+<!-- These can come back if I ever update them ...
+<li><a href="http://insecure.org/links.html">Exceptional Links</a></li>
+<li><a href="http://insecure.org/reading.html">Good Reading</a></li>
+-->
+<li><a href="http://insecure.org/sploits.html">Exploit World</a></li>
+<li><a href="http://insecure.org/advertising.html">Sponsors:</a>
+
+<!-- Begin Sidebar 1 Banner Code -->
+<!-- NOTE: Acunetix does NOT want to use the rotation script -->
+<a href="http://www.acunetix.com/cross-site-scripting/scanner.htm"><img height=60 width=120 border=0 src="/shared/images/p/Acunetix/acunetix-freexss-120x60.gif" alt=""></a>
+<!-- End Sidebar 1 Banner Code -->
+<BR><BR>
+
+<!-- Begin Sidebar 2 Banner Code -->
+<a href="http://www.gfi.com/lannetscan/?adv=731&amp;loc=1"><img height=90 width=120 border=0 src="/shared/images/p/gfi/LAN-May09-120x90.gif" alt=""></a>
+<!-- End Sidebar 2 Banner Code -->
+<BR><BR>
+
+<!-- Begin Sidebar 3 Banner Code -->
+<!-- Modified random image selection code - original version at
+     http://www.bravenet.com/reviews/archives/tips.php?view=8 -->
+
+<NOSCRIPT>
+<A HREF="http://www.rapid7.com/vulnerability-scanner-st.jsp"><IMG SRC="/shared/images/p/rapid7/nexpose.gif" BORDER=0 HEIGHT=90 WIDTH=120 ALT="Rapid7 NeXpose"></A>
+</NOSCRIPT>
+<BR><BR>
+
+<!-- Google Skyscraper Ad -->
+
+
+<!-- End Google Skyscraper Ad -->
+</ul>
+</TD>
+<TD BGCOLOR="#FFFFFF" VALIGN="top" ALIGN="left"><IMG
+SRC="/shared/images/topleftcurve.gif" alt="/"><TABLE CELLPADDING="4" WIDTH="100%"><TR><TD BGCOLOR="#FFFFFF">
+
+<!--X-Body-Begin-->
+<!--X-User-Header-->
+<p>
+<A HREF="/fulldisclosure/"><img src="/images/fulldisclosure-logo.png" border="0" width="80" style="vertical-align: middle" alt="fulldisclosure logo"></A>
+<FONT SIZE="+1"><a href="http://seclists.org/fulldisclosure/">Full Disclosure</a>
+mailing list archives</FONT><br>
+<!--X-User-Header-End-->
+<!--X-TopPNI-->
+<!-- Google Custom SiteSearch -->
+<form action="http://insecure.org/search.html" id="top-search-box">
+<a href="138"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#139">By Date</a>&nbsp;&nbsp;<a href="140"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="152"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#139">By Thread</a>&nbsp;&nbsp;<a href="140"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="24" />
+    <input type="submit" name="sa" value="Search" />
+</form>
+
+<!-- End Google Custom SiteSearch -->
+</p>
+
+<!--X-TopPNI-End-->
+<!--X-MsgBody-->
+<!--X-Subject-Header-Begin-->
+<font size="+2"><b>ZORG,	new C++ and Java ZRTP implementation public release</b></font>
+<hr>
+<!--X-Subject-Header-End-->
+<!--X-Head-of-Message-->
+
+
+<em>From</em>: &quot;Fabio Pietrosanti (naif)&quot; &lt;lists () infosecurity ch&gt;<br>
+
+<em>Date</em>: Wed, 12 Jan 2011 11:29:26 +0100<br>
+
+<!--X-Head-of-Message-End-->
+<!--X-Head-Body-Sep-Begin-->
+<hr>
+<!--X-Head-Body-Sep-End-->
+<!--X-Body-of-Message-->
+<pre style="margin: 0em;">Milan, January 12th 2011  - PrivateWave Italia S.p.A, italian company
+engaged in developing technologies for privacy protection and
+information security in voice telecommunications, is pleased to announce
+the release of ZORG, a new open source ZRTP protocol implementation
+available for download from <a  rel="nofollow" href="http://www.zrtp.org">http://www.zrtp.org</a>  .
+
+ZRTP [1] provides end-to-end key exchange with Elliptic Curve
+Diffie-Hellmann 384bit and AES-256 SRTP encryption .
+
+ZORG has been originally developed and implemented in PrivateWave's
+PrivateGSM voice encryption products available for the following
+platforms: Blackberry, Nokia and iOS (iPhone) .
+
+Zorg C++ has been integrated with PJSIP open source VoIP SDK [2] and
+it's provided as integration patch against PJSIP 1.8.5. It has been
+tested on iPhone, Symbian, Windows, Linux and Mac OS X.
+
+Zorg Java has been integrated within a custom version of MJSIP [3] open
+source SDK on Blackberry platform and it includes memory usage
+optimizations required to reduce at minimum garbage collector activity.
+
+Both platforms have separated and modular cryptographic back-ends so
+that the cryptographic algorithms implementation could be easily swapped
+with other ones.
+
+ZORG is licensed under GNU AGPL and source code is available on github
+at<a  rel="nofollow" href="https://github.com/privatewave/ZORG">https://github.com/privatewave/ZORG</a>.
+
+We are releasing it under open source and in coherence with our approach
+to security [4] as we really hope that it can be useful for the open
+source ecosystem to create new voice encryption systems in support of
+freedom of speech.
+
+More than 20 pjsip-based open source VoIP encryption software (several
+written in Java) could directly benefit from ZORG release.
+
+We would be happy to receive proposal of cooperation, new integration,
+new cryptographic back-ends, bug scouting and whatever useful to improve
+and let ZRTP affirm as voice encryption standard.
+
+Zorg is available from <a  rel="nofollow" href="http://www.zrtp.org">http://www.zrtp.org</a> .
+
+[1] ZRTP: <a  rel="nofollow" href="http://http://en.wikipedia.org/wiki/ZRTP">http://http://en.wikipedia.org/wiki/ZRTP</a>
+[2] PJSIP: <a  rel="nofollow" href="http://www.pjsip.org">http://www.pjsip.org</a>
+[3] MJSIP: <a  rel="nofollow" href="http://www.mjsip.org">http://www.mjsip.org</a>
+[4] Security approach:<a  rel="nofollow" href="http://www.privatewave.com/security/approch.html">http://www.privatewave.com/security/approch.html</a>
+</pre><pre style="margin: 0em;">_______________________________________________
+Full-Disclosure - We believe in it.
+Charter: <a  rel="nofollow" href="http://lists.grok.org.uk/full-disclosure-charter.html">http://lists.grok.org.uk/full-disclosure-charter.html</a>
+Hosted and sponsored by Secunia - <a  rel="nofollow" href="http://secunia.com/">http://secunia.com/</a></pre>
+<!--X-Body-of-Message-End-->
+<!--X-MsgBody-End-->
+<!--X-Follow-Ups-->
+<hr>
+<!--X-Follow-Ups-End-->
+<!--X-References-->
+<!--X-References-End-->
+<!--X-BotPNI-->
+<p>
+<a href="138"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#139">By Date</a>&nbsp;&nbsp;<a href="140"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="152"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#139">By Thread</a>&nbsp;&nbsp;<a href="140"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+</p>
+<font size="+1"><b>Current thread:</b></font>
+<ul style="margin-top: 0em">
+<li><strong>ZORG,	new C++ and Java ZRTP implementation public release</strong> <em>Fabio Pietrosanti (naif) (Jan 12)</em>
+</ul>
+
+
+<!--X-BotPNI-End-->
+<!--X-User-Footer-->
+<!--X-User-Footer-End-->
+</TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD></TD><TD ALIGN="center">
+<FONT COLOR="#FFFFFF">
+[ <A HREF="http://nmap.org"><FONT COLOR="#FFFFFF">Nmap</FONT></A> |
+  <A HREF="http://sectools.org"><FONT COLOR="#FFFFFF">Sec Tools</FONT></A> |
+  <A HREF="http://seclists.org/"><FONT COLOR="#FFFFFF">Mailing Lists</FONT></A> |
+  <A HREF="http://insecure.org/"><FONT COLOR="#FFFFFF">Site News</FONT></A> |
+  <A HREF="http://insecure.org/fyodor/"><FONT COLOR="#FFFFFF">About/Contact</FONT></A> |
+  <A HREF="http://insecure.org/advertising.html"><FONT COLOR="#FFFFFF">Advertising</FONT></A> |
+  <A HREF="http://insecure.org/privacy.html"><FONT COLOR="#FFFFFF">Privacy</FONT></A> ]<BR>
+</FONT>
+
+<!-- SiteSearch Google -->
+<!-- I changed the form id so that javascript acts on the top form on search.html page rather than this one. -->
+<form action="http://insecure.org/search.html" id="cse-search-box-bottom">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="60">
+    <input type="submit" name="sa" value="Site Search">
+  </div>
+</form>
+<!-- Commented out the Javascript part because it doesn't handle SSL so causes warnings on SSL pages.
+
+-->
+<!-- End SiteSearch Google -->
+
+<!-- Bottom Banner -->
+
+
+<!-- End Bottom Banner -->
+
+<!-- Google Analytics -->
+
+
+<!-- End Google Analytics -->
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>
+
+

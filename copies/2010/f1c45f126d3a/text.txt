@@ -1,0 +1,315 @@
+Voice crypto fails spark astroturf claims • The Register 
+
+ Sign in 
+
+ Data Centre 
+ Software 
+ Security 
+ DevOps 
+ Business 
+ Personal Tech 
+ Science 
+ Emergent Tech 
+ Bootnotes 
+ BOFH 
+
+ Vendor Voice 
+
+ Data Centre 
+ Software 
+ Security 
+ DevOps 
+ Business 
+ Personal Tech 
+ Science 
+ Emergent Tech 
+ Bootnotes 
+ Vendor Voice 
+
+ Servers 
+
+ HPC 
+
+ Cloud 
+
+ Storage 
+
+ Networks 
+
+ Virtualization 
+
+ BOFH 
+
+ Scre-EE-m if you wanna go faster: BT's mobile network reigns supreme in UK-wide speed and latency tests
+
+ Meet the ‘DPU’ – accelerated network cards designed to go where CPUs and GPUs can’t be bothered
+
+ Join us in the cloud, breathes Microsoft as it gifts Azure SQL Managed Instance customers a surprise horsepower boost
+
+ Won't duke, duke, duke the URLs: AWS backtracks on plans to block old-style S3 paths
+
+ Brexit travel permits designed to avoid 7,000-lorry jams come January depend on software that won't be finished till April
+
+ Key API management platform for UK public sector scrapped: DWP ends £5m MuleSoft project
+
+ HubSpot must prove core sales features to be taken seriously in enterprise CRM market
+
+ Epic, Spotify, ProtonMail and pals rise up as one against Apple's 30% cut, call for end to Cupertino-style markets
+
+ Error-bnb: Techies scramble to fix Airbnb website bug that let strangers read each others' account messages
+
+ IT guy whose job was to stop ex-staff running amok on the network is jailed for running amok on the network
+
+ Microsoft claims to love open source – this alleged leak of Windows XP code is probably not what it had in mind, tho
+
+ Spain's highway agency is monitoring speeding hotspots using bulk phone location data
+
+ Not Particularly Mortifying: IEEE eggheads probe npm registry, say JavaScript libs not as insecure as feared
+
+ Microservices guru says think serverless, not Kubernetes: You don't want to manage 'a towering edifice of stuff'
+
+ Imagine working for GitHub and writing a command-line interface for the platform, then GitHub makes an 'official' one
+
+ Anglian Water fishes for on-trend laundry list – including low-code work – in £24m trawl
+
+ Policy 
+
+ The Channel 
+
+ Alphabet promises to no longer bung tens of millions of dollars to alleged sex pest execs who quit mid-probe
+
+ Looking for a new tech job? Just browsing? This week's list includes roles for devs, engineers, and Perl maestros
+
+ 'Robbery, economic plunder, victim of larcenous cronyism and a heist'
+
+ WeWork Won’tWork in China, at least not as majority owner
+
+ Sweetheart tax deal appeal: European Commission takes €13bn Apple state aid claim to the EU's highest court
+
+ Help! My printer won't print no matter how much I shout at it!
+
+ Hootsuite melts ICE deal after staff revolt: CEO vows not to divide biz like agents divided families at the US border
+
+ Facebook is the internet's cigarette: Addictive and laced with nasty stuff – 'shocking images, graphic videos, headlines that incite outrage'
+
+ Geek's Guide 
+
+ Bennu Jerry's, anyone? OSIRIS-REx probe to attempt 3 scoops of asteroid next month before bringing samples home
+
+ NASA's hefty Martian rover will use an AI brain on a robot arm to map out signs of ancient life on Red Planet
+
+ Moonshot: Making spaceships with Microsoft's refreshed HoloLens 2 nerd goggles
+
+ And now for something completely different: Ultraviolet aurora spotted around comet for first time
+
+ Artificial Intelligence 
+
+ Internet of Things 
+
+ SharePoint Syntex: Microsoft rolls out AI that automatically categorises documents
+
+ All those ‘teleworking is the new normal’ predictions? Not so much, say bosses
+
+ It's powered by a mega-corp AI, it has a Liquid Mode, but it's not a T-1000. It's Adobe's PDF auto-reflow for mobile
+
+ Braking point: Tesla has had quite enough of Trump's 'unlawful' tariffs on Chinese-made parts, sues Uncle Sam
+
+ Verity Stob 
+
+ First-world problems: The pumpkin spice latte is here, but the Starbucks loyalty card app has wiped my balance
+
+ Can The Register run Crysis Remastered ? Yes, but we don't see why you would want to
+
+ Onwards! To the airport and adventure! And this rather lachrymose Linux screen
+
+ Space. The final frontier. These are the voyages of 'Advanced Night Repair' skin cream helping NASA to commercialise space
+
+ Security 
+
+ Voice crypto fails spark astroturf claims
+
+ SecurStar denies running dirty tricks marketing campaign
+
+ Mon 1 Feb 2010 // 15:07 UTC 
+
+ 9 
+
+ Got Tips?
+
+ John Leyden 
+
+ Bio 
+ Email 
+ Twitter 
+
+ Share 
+
+ Copy 
+
+ Doubts have arisen about the integrity of supposedly anonymous tests on the security of voice encryption products.
+
+ As previously reported, an "anonymous hacker" called Notrax claims to have defeated 11 out of 15 phone scrambling technologies using the commercially available FlexiSpy wiretapping utility and a 'homemade' Trojan. Notrax published findings from his ongoing work on a blog at infosecurityguard.com .
+
+ Other security watchers were suspicious of what the tests actually proved and whether they were actually a marketing exercise disguised as a security review. News of the tests was publicised last week via a press release issued by SecurStar, the developers of PhoneCrypt, one of only three products and the only software technology to come out clean from the tests.
+
+ The previously unknown infosecurityguard.com used by Notrax is anonymously registered. Security blogger Fabio Pietrosanti (naif) turned Veronica Mars by baiting a blog post on infosecurityguard.com back to a post on his blog at infosecurity.ch.
+
+ This meant that when the blog post on infosecurityguard.com was approved the IP address of a machine making the approval was recorded in infosecurity.ch logs. Sure enough this happened, allowing the IP address of the infosecurityguard.com blog to be traced back to SecurStar.
+
+ "This is evidence that the security review made by an anonymous hacker on infosecurityguard.com is in facts a dishonest marketing plan by the SecurStar GmbH to promote their voice crypto product," Pietrosanti writes in a post containing screenshots and evidence to support his conclusion.
+
+ Pietrosanti added in an email to El Reg : "I don't remember in all my life a so irresponsible and dirty marketing trick in the security world, abusing of hackers reputations."
+
+ Asked to comment on this evidence, SecurStar chief exec Wilfried Hafner denied any contact with Notrax. Notrax, he said, must have been using his firm's anonymous browsing service, SurfSolo, to produce the results reported by Pietrosanti.
+
+ Hafner firmly denied suggestions SecureStar had commissioned the research. "If we had done this research we would have published the results ourselves and taken the credit," Hafner told El Reg . "We don't know of Notrax, although it's possible he might have been a tester we gave products to in order to test."
+
+ Notrax's work had only publicised a well-known problem, according to Hafner, the susceptibility of phone encryption technology to viruses (malware). "The difference is he taped the tests and posted a YouTube video," Hafner said.
+
+ Hafner argued more attention ought to be focused on the results of the tests rather than who is behind them. He criticised Pietrosanti for trying to discredit the results of the tests but acknowledged that other criticism of the test methodology being less than objective may have some validity.
+
+ He denied running an astroturfing campaign. "The results were quite favourable. I think that many firms when they see such research would jump on the horse and use it for marketing."
+
+ SecurStar's decision to use Notrax's research for publicity purposes just days away from the Mobile World Congress has sparked a scrap that has turned personal. Pietrosanti's blog post points out that Hafner was jailed for three years for phone phreaking offences in Germany back in 1994.
+
+ Hafner acknowledged this but said this happened well before he co-founded SecurStar in 2001. "I broke into satellites. It was wrong but it was a long time ago and gave me a solid understanding of security. People are mashing [throwing] dirt to make me and SecurStar look bad, as if we had done something wrong."
+
+ Pietrosanti works for a Swiss firm called Khamsa who make phone encryption software called PrivateGSM and have crypto luminary Phil Zimmermann on the board. Zimmerman's Zfone software was one of the 11 products that failed the test. "This is why he [Pietrosanti] is trying to discredit the tests," Hafner alleged. ®
+
+ Corrections
+
+ 9 
+ Comments
+
+ MORE 
+
+ Malware 
+
+ Mobile Security 
+
+ Hacking 
+
+ Share 
+
+ Copy 
+
+ Most Read
+
+ Ethernet failure on Swiss business jet prompted emergency descent, say aviation safety bods
+
+ Now Nvidia's monster GeForce RTX 3090 cards snaffled up by bots, scalpers – if only there had been a warning
+
+ Meet the ‘DPU’ – accelerated network cards designed to go where CPUs and GPUs can’t be bothered
+
+ BT cutting contractors' rates by a fifth and halving notice period because 'coronavirus'
+
+ Help! My printer won't print no matter how much I shout at it!
+
+ SUBSCRIBE TO OUR WEEKLY TECH NEWSLETTER
+
+ Subscribe 
+
+ Keep Reading
+
+ Skype for Windows 10 and Skype for Desktop duke it out: Only Electron left standing
+
+ Updated 
+ I just can't quit you, Skype. Oh maybe I can... they've tweaked the close function
+
+ NSO Group: Facebook tried to license our spyware to snoop on its own addicts – the same spyware it's suing us over
+
+ Antisocial network sought surveillance tech to boost its creepy Onavo Protect app, it is claimed
+
+ Multi-part Android spyware lurked on Google Play Store for 4 years, posing as a bunch of legit-looking apps
+
+ Mandrake handlers could snoop on whatever victim did with their phone
+
+ Indonesia starts taxing Minecraft, Skype, Zoom and Twitter
+
+ Regional video streaming companies added to list of entities required to pay Digital Services Tax
+
+ Judge green-lights Facebook, WhatsApp hacking lawsuit against spyware biz NSO, unleashing Zuck's lawyers
+
+ Legal discovery team could turn up some very interesting, and possibly embarrassing details
+
+ Spyware maker NSO can't claim immunity, Facebook lawyers insist – it's time to face the music
+
+ Software developers aren't nation states, antisocial giant points out
+
+ It's 2019 and a WhatsApp call can hack a phone: Zero-day exploit infects mobes with spyware
+
+ Updated 
+ Rap for snoopware chaps in chat app voice yap trap flap – now everyone patch
+
+ Senator demands deep probe into spyware-for-cops after NSO Group touts hacking toolkit to American plod
+
+ Updated 
+ 'Aggressive oversight' needed, Congress urged
+
+ Tech Resources 
+
+ Navigating the New Era of Cloud Computing
+
+ Hear from Steve Sibley, VP of Offering Management for IBM Power Systems about how IBM Power Systems can enable hybrid cloud environments that support “build once, deploy anywhere” options.
+
+ Simplifying Hybrid Cloud Flash Storage
+
+ According to industry analysts, a critical element for secure hybrid multicloud environments is the storage infrastructure.
+
+ Accelerate Your Journey to the Cloud
+
+ Increasingly, enterprises are looking to the cloud to run their core mission-critical systems and the cloud is often the primary platform for launching new applications.
+
+ Hot Tips to Cut Cold Data Costs
+
+ This infographic shows how to quickly cut the costs of storing and managing your unstructured data with Komprise Intelligent Data Management.
+
+ ABOUT US 
+
+ Who we are 
+
+ Under the hood 
+
+ Contact us 
+
+ Advertise with us 
+
+ Seeking developer! 
+
+ MORE CONTENT 
+
+ Latest News 
+
+ Popular Stories 
+
+ Forums 
+
+ Whitepapers 
+
+ Webinars 
+
+ SITUATION PUBLISHING 
+
+ The Next Platform 
+
+ DevClass 
+
+ Blocks and Files 
+
+ Continuous Lifecycle London 
+
+ M-cubed 
+
+ The Register - Independent news and views for the tech community. Part of Situation Publishing
+
+ SIGN UP TO OUR DAILY NEWSLETTER
+
+ Subscribe
+
+ Biting the hand that feeds IT © 1998–2020
+
+ Do not sell my personal information 
+
+ Cookies 
+ Privacy 
+ Ts&Cs

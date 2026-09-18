@@ -1,0 +1,11 @@
+{
+ "source_url": "https://globaleaks.org/about/people/",
+ "fetched_url": "https://globaleaks.org/about/people/",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html",
+ "bytes": 45035,
+ "sha256": "32b32b2f46f21953179c112267ecbf8accadf5a9d38208ef222a346a79876628",
+ "name_found": true,
+ "fetched_at": "2026-09-17T09:40:52+00:00"
+}

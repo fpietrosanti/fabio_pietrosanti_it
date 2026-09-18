@@ -1,0 +1,142 @@
+Snake-oil security claims on crypto security product at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « Web2.0 privacy leak in Mobile apps 
+ GSM cracking in penetration test methodologies (OSSTMM) ? » 
+
+ Snake-oil security claims on crypto security product 
+
+ Published by naif July 19th, 2010 
+
+ in Privacy , business , management , security and technology . 
+ 3  Comments 
+
+ Security market grow, more companies goes to the market, but how many of them are taking seriously what they do?
+
+ You know, doing security technology mean that you are personally responsible for the protection of the user’s information. You must make them aware of what they need, exactly what your are doing and which kind of threat model your product protect.
+
+ A typical problem of product’s security features is represented by the inability of the user to evaluate the security claims of the product itself.
+
+ So there’s a lot companies doing a not-so-ethical marketing of security features, based on the facts that no user will be able to evaluate it.
+
+ The previously explained situation reside in the security topic of Snake Oil Encryption , an evolution in the scientific cryptographic environment that let us today use best of breed information protection technologies without having to worry too much about backdoors or insecurities.
+
+ Let’s speak about Snake Oil Encryption 
+
+ Snake Oil Cryptography : In cryptography , snake oil is a term used to describe commercial cryptographic methods and products which are considered bogus or fraudulent. Distinguishing secure cryptography from insecure cryptography can be difficult from the viewpoint of a user. Many cryptographers, such as Bruce Schneier and Phil Zimmermann , undertake to educate the public in how secure cryptography is done, as well as highlighting the misleading marketing of some cryptographic products.
+
+ The most referenced crypto security guru, Philip Zimmermann and Bruce Schneier, was the 1st to talk about Snake Oil Encryption: 
+
+ Snake Oil by Philip Zimmermann 
+
+ Snake Oil by Bruce Schneier 
+
+ The Michigan Telecommunications and Technology Law Review also made a very good analysis related to the Security Features of Security Products, SNAKE-OIL SECURITY CLAIMS” THE SYSTEMATIC MISREPRESENTATION OF PRODUCT SECURITY . They explain about the nasty marketing tricks used to tweak users inability to evaluate the security features, including economic and legal responsibility implication.
+
+ Several snake oil security product companies does not explain and are not clear about the threat model to which the product apply. Very famous is the sentence of Russ Nelson :
+
+ “Remember, crypto without a threat model is like cookies without milk. ….. Cryptography without a threat model is like motherhood without apple pie. Can’t say that enough times. More generally, security without a threat model is by definition going to fail.” 
+
+ So, how to spot snake oil security products? 
+
+ Check a guideline of to spot Snake Oil Encryption Products: Snake Oil Warning Signs, Encryption Software to Avoid by Matt Curtin .
+
+ You can see this very good Cryptographic Snake Oil Examples by Emility Ratliff (IBM Architect at Linux Security), that tried to make clear example on how to spot Cryptographic Snake Oil.
+Here represented the basic guideline from Matt Curtin paper:
+
+ Companies that claim Trust Us, We Know What We’re Doing’ 
+
+ Companies that invent new technology terms without even explaining the innovation, called Technobabble 
+
+ Product that use non public protocols along with proprietary and Secret Algorithms 
+
+ Company that pretend to have invented new type of cryptography or a Revolutionary Breakthroughs 
+
+ Companies that present Useless Certification and supposed Independent Evaluation without any security value 
+
+ Product that claim to be Unbreakabl e 
+
+ Companies that claim other products are insecure with fake and artificial evidence 
+
+ Companies that claim their system is Military Grade , while everyone know that today cryptography in civil sector is driving the innovation 
+
+ Product that have Unsubstantiated bit claims (like 16384 bit or 46080 bit encryption and authentication of sessions) 
+
+ By checking that points it’s possible to evaluate how serious an encryption technology or product is. 
+ But all in all how to fix that unethical security approach? 
+
+ It’s very significative and it would be really useful for each kind of security product category to make some strongly and independent evaluation guideline (like OSSTMM for Penetration testing) , to make this security evaluation process really in the hands of the user.
+
+ It would be also very nice to have someone making analysis and evaluation of security product companies, publishing reports about Snake Oil signs.
+
+ 3 Responses to “Snake-oil security claims on crypto security product”
+
+ Feed for this Entry 
+
+ 1 
+ Marc Ruef 
+
+ Jul 19th, 2010 at 9:54 pm 
+
+ Hello,
+
+ Nice article that summarizes the problem very good.
+
+ But how would you expect to proceed with a vendor that is selling snake oil? Would you expect to make an analysis public to warn others from the false promises?
+
+ Regards,
+
+ Marc
+
+ 2 
+ naif 
+
+ Jul 19th, 2010 at 10:05 pm 
+
+ Nice topic.
+
+ IMHO it would really be required to use a strong full disclosure oriented approach with a website collecting analysis and evidence with objective evaluation points related to snake-oil spotting.
+
+ Something that have to be objective along with attached proof (screenshots, documents, etc) about a specific analysis.
+
+ Also because a single persons doing this would not be really effective, probably a little community based platform with objective criteria to handle snake oil spotting would be very fun :-)
+
+ Fabio
+
+ 3 
+ Marc Ruef 
+
+ Jul 20th, 2010 at 9:09 am 
+
+ Hello,
+
+ I am thinking about a site collecting snake-oil products/advertisements. Something like http://datalossdb.org/ – One may do a checklist out of Matt Curtin’s paper ;) In the meanwhile I send suspicious vendors/products to Bruce Schneier and hope he is going to rant about them in his blog ;)
+
+ Regards,
+
+ Marc
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « Web2.0 privacy leak in Mobile apps 
+ GSM cracking in penetration test methodologies (OSSTMM) ? » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.518 sec. w/ 40 queries.
+
+ RSS Entries and RSS Comments

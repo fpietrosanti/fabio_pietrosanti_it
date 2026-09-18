@@ -1,0 +1,100 @@
+{
+ "issue": {
+  "id": 270675,
+  "iid": 17975,
+  "project_id": 426,
+  "title": "Introduce OutboundExitAddress to enable exit-only traffic to go via a different IP address",
+  "description": "There are use cases of Tor where the inbound IP address of the Tor Relay is not the Tor Relay traffic, that's managed trough the use of OutBoundBindAddress directive.\n\nHowever in multi-homed environments, it could provide much more flexibility to be able to specify a specific IP address to be used only for Tor Exit Traffic, with a directive that could be \"OutboundExitAddress\" .\n\nWith such an approach a family of Tor Nodes, handling inbound/outbound OR traffic, could implement custom routing architecture only for Tor Exit traffic (that's the one generating abuses), by tunnelling it across more \"abuse resilient servers\" .\n\nIf the assumption that 66.66% of traffic is non-exit OR traffic (i'm dividing by 3), then only 33.33% would go trough a more resilient \"Exit Gateway\" that could also not be at all a Tor Relay.\n\nIf such information would stay in the Consensus, it would be possible to map which Tor Relay is explicitly doing that kind \"asymmetric routing\" vs. who's doing it \"implicitly\" (and thus, it maybe a pattern of suspicious activity) .",
+  "state": "closed",
+  "created_at": "2016-01-02T12:19:41.000Z",
+  "updated_at": "2020-06-27T13:59:50.319Z",
+  "closed_at": "2017-01-27T13:14:11.000Z",
+  "closed_by": {
+   "id": 292,
+   "username": "tracbot",
+   "public_email": "",
+   "name": "Trac",
+   "state": "deactivated",
+   "locked": false,
+   "avatar_url": "https://gitlab.torproject.org/uploads/-/system/user/avatar/292/trac.png?v=1750292730",
+   "web_url": "https://gitlab.torproject.org/tracbot"
+  },
+  "labels": [
+   "Kind::Feature"
+  ],
+  "milestone": {
+   "id": 2371,
+   "iid": 51,
+   "project_id": 426,
+   "title": "Tor: 0.3.0.x-final",
+   "description": null,
+   "state": "closed",
+   "created_at": "2020-06-13T13:39:49.715Z",
+   "updated_at": "2020-06-15T16:47:19.668Z",
+   "due_date": null,
+   "start_date": null,
+   "expired": false,
+   "web_url": "https://gitlab.torproject.org/tpo/core/tor/-/milestones/51"
+  },
+  "assignees": [],
+  "author": {
+   "id": 359,
+   "username": "naif",
+   "public_email": "",
+   "name": "naif",
+   "state": "blocked",
+   "locked": false,
+   "avatar_url": null,
+   "web_url": "https://gitlab.torproject.org/naif"
+  },
+  "type": "ISSUE",
+  "assignee": null,
+  "user_notes_count": 30,
+  "merge_requests_count": 0,
+  "upvotes": 0,
+  "downvotes": 0,
+  "start_date": null,
+  "due_date": null,
+  "confidential": false,
+  "discussion_locked": null,
+  "issue_type": "issue",
+  "web_url": "https://gitlab.torproject.org/tpo/core/tor/-/work_items/17975",
+  "time_stats": {
+   "time_estimate": 28800,
+   "total_time_spent": 0,
+   "human_time_estimate": "8h",
+   "human_total_time_spent": null
+  },
+  "task_completion_status": {
+   "count": 0,
+   "completed_count": 0
+  },
+  "weight": null,
+  "blocking_issues_count": 0,
+  "has_tasks": true,
+  "task_status": "0 of 0 checklist items completed",
+  "_links": {
+   "self": "https://gitlab.torproject.org/api/v4/projects/426/issues/17975",
+   "notes": "https://gitlab.torproject.org/api/v4/projects/426/issues/17975/notes",
+   "award_emoji": "https://gitlab.torproject.org/api/v4/projects/426/issues/17975/award_emoji",
+   "project": "https://gitlab.torproject.org/api/v4/projects/426",
+   "closed_as_duplicate_of": null
+  },
+  "references": {
+   "short": "#17975",
+   "relative": "#17975",
+   "full": "tpo/core/tor#17975"
+  },
+  "severity": "UNKNOWN",
+  "subscribed": false,
+  "moved_to_id": null,
+  "imported": false,
+  "imported_from": "none",
+  "service_desk_reply_to": null,
+  "epic_iid": null,
+  "epic": null,
+  "iteration": null,
+  "health_status": null
+ },
+ "notes": null
+}

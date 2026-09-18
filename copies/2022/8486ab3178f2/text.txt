@@ -1,0 +1,195 @@
+Google Analytics in PA. 3.400 siti l’hanno rimosso, grazie a MonitoraPa 
+
+ Sezioni 
+
+ Internet 
+
+ Media 
+
+ Telecoms 
+
+ Energia 
+
+ Cybersecurity 
+
+ Smart City 
+
+ Robot 
+
+ Games 
+
+ HotSpot 
+
+ Eventi 
+
+ Video 
+
+ Rubriche 
+
+ Agenda Tivù 
+
+ Bibliotech 
+
+ Blockchain, AI&Cybersecurity 
+
+ Focus Mail 
+
+ Mappamondo 
+
+ Meteo4You 
+
+ Who is who 
+
+ Consumer First 
+
+ Cnit Talk 
+
+ Digital&Law 
+
+ Digital Customer Experience 
+
+ Enterprise 4.0 
+
+ ilprincipenudo 
+
+ Imaginarea 
+
+ La Pa che Vorrei 
+
+ Libri: quale futuro 
+
+ Orizzonte 6G 
+
+ Privacy, l’esperto risponde 
+
+ Sos Energia 
+
+ Sos Tech 
+
+ Vorticidigitali 
+
+ Truenumbers 
+
+ Vero o Falso? 
+
+ Contributors 
+
+ INFO 
+
+ Chi siamo 
+
+ L’EDITORE 
+
+ MEDIAKIT 
+
+ Contatti 
+
+ INFORMATIVA PRIVACY 
+
+ Newsletter 
+
+ Home 
+
+ »
+
+ Internet 
+
+ »
+
+ Google Analytics in PA. 3.400 siti l’hanno rimosso, grazie a MonitoraPa: “Ora esposto al Garante Privacy”
+
+ Inchiesta 
+
+ Google Analytics in PA. 3.400 siti l’hanno rimosso, grazie a MonitoraPa: “Ora esposto al Garante Privacy” 
+
+ di Luigi Garofalo 
+ | 
+ 25 Maggio 2022, ore 11:10 
+
+ Internet 
+
+ Key4biz rivela i dati dei siti della PA che hanno rimosso il tool di Google, perché vìola il GDPR, dopo la moral suasion della comunità di MonitoraPa: “Dopo il nostro invio di 7.833 PEC alle PA che usavano Google Analytics, in 2 settimane l’hanno già rimosso in 3.399: -45% in brevissimo periodo”.
+
+ Partiamo da un dato di fatto:  Google Analytics  vìola il  GDPR , perché invia nei server degli Stati Uniti i dati degli utenti europei, permettendone la manipolazione politica e commerciale. Lì, negli Usa, i nostri dati non sono al sicuro, come accertato dalla sentenza  “Scherms II”  con cui la Corte di Giustizia Ue ha invalidato il Privacy Shield, in quanto gli Stati Uniti non proteggono a sufficienza il diritto alla riservatezza dei dati personali degli europei trasferiti nei server in USA.
+I provider di servizi di comunicazione elettronica statunitensi possono anche dire di rispettare i dettami del  GDPR , ma alcune leggi USA ( FISA 702 e EO 12333 ) li possono obbligare a violarlo, il tutto top secret.
+
+ In Francia tutte le pubbliche amministrazioni hanno rimosso dai propri siti Google Analytics, dopo la presa di posizione del Garante 
+
+ In virtù di questo, il Garante Europeo per la Protezione dei Dati (EDPS) ha emesso un richiamo nei confronti del Parlamento Europeo che, in un sito web per i test del COVID, ha violato la normativa GDPR inviando dati verso gli USA attraverso Google Analytics. 
+
+ -->
+
+ In  Francia tutte le pubbliche amministrazioni hanno rimosso dai propri siti Google Analytics , come indicato dal Garante Privacy francese, il  CNIL , secondo il quale “ sono illegali i trasferimenti dei dati” del tool di Google.
+
+ Anche il Garante per la protezione dei dati in Austria ha prescritto ai siti web austriaci di rimuovere Google Analytics “in conformità con il GDPR” , sottolinea la  Datenschutzbehörde ( Dsb ).
+
+ Il Garante Privacy italiano
+
+ E in Italia? Il Garante Privacy sta studiando il dossier. A  Striscia la Notizia  il componente del Collegio Guido Scorza, il 14 febbraio scorso, ha dichiarato: “ Anche la nostra Autorità nei prossimi mesi dovrà pronunciarsi e non potrà che applicare le stesse regole e gli stessi princìpi dell’Autorità austriaca”. 
+
+ In attesa dell’Autorità, è nato in Italia il progetto  MonitoraPa   con l’obiettivo di fare “piazza pulita” nella Pubblica amministrazione di Google Analytics. E, come raccontato a  Key4biz , piano piano ci sta riuscendo. 
+
+ Su più di 25mila Pubbliche Amministrazioni, prima della nascita di MonitoraPa  Google Analytics  era presente in 7.833 PA.  “Dopo l’invio di 7.833 PEC a tutte queste PA, a nome della comunità di hacker, attivisti e attiviste di MonitoraPA” , ci rivela  Fabio Pietrosanti , co-founder di MonitoraPa,  “in 2 settimane l’hanno già rimosso in 3.399, ne rimangono ancora 4434, quindi è stato conseguito già un -45% in brevissimo periodo”. 
+
+ Il grafico mostra il 45% dei siti della Pa che hanno rimosso Google Analytics dopo l’attività di MonitoraPa 
+
+ L’alternativa a  Google Analytics  usata ora dai 3.399 siti della PA è Web Analytics Italia , offerta da AgID come SAAS , indicata come priorità nelle linee di indirizzo della digitalizzazione pubblica amministrazione, e basata sul software opensource in riuso Matomo.
+
+ “Esposto al Garante Privacy italiano” 
+
+ “A fine mese”,  conclude Pietrosanti, “ rieseguiamo secondo scan ufficiale e parte il secondo emailing alle 4434 PA resistenti più gli esposti al Garante, ad AgID  e al difensore civico digitale per le PA resistenti ”. 
+
+ MonitoraPa è nato sull’impulso e spinta della Associazione Hermes e Associazione Copernicani, ma con la volontà di non reclamarne la paternità ma di favorire l’identità comunitaria.
+
+ Le prossime tappe della comunità di MonitoraPa sono: 
+
+ Riesecuzione secondo round di scansione. 
+ Re-ingegnerizzazione del prototipo per facile introduzione nuovi controlli (da presenza di Pixel Tracking di Facebook fino a rilevamento di Vulnerabilità dei CMS/WebServer) e per aumentare la copertura dei siti web (non censiti o censiti erroneamente da AgID) 
+
+ MonitoraPa vuole affermarsi come il primo osservatorio automatizzato della PA, dove chiunque potrà introdurre nuovi controlli automatici, che verranno pubblicati come OpenData, come grafici e con propri email di alert ai destinatari all’interno della PA e agli enti regolatori.
+
+ La reazione di Google: ha sfornato Google Analytics 4 dichiarando che anonimizza 
+
+ Anche per rispondere a MonitoraPa, Google ha reagito rilasciando  Google Analytics 4   in via ufficiale una settimana dopo l’invio delle PEC da parte di MonitoraPa “dichiarando che anonimizza”.
+
+ Però, il CNIL ha già espresso dei dubbi in tal proposito affermando che “ non è chiaro se l’anonimizzazione avviene prima del trasferimento o se l’intero indirizzo IP viene trasmesso agli Stati Uniti e abbreviato solo dopo il trasferimento”. 
+
+ Ma ancor più netta è la DSB austriaca che, se nella prima decisione di gennaio sembrava far apparire che l’anonimizzazione era sufficiente per rendere legittimo l’utilizzo di Google Analytics, in una seconda decisione del 22/04/2022 afferma chiaramente che  “l’anonimizzazione da sola non è sufficiente”  e ciò in quanto “ l’indirizzo IP completo viene elaborato sul server di Google LLC per un certo periodo di tempo, anche se molto breve. Questo breve periodo di trattamento dei dati è sufficiente per soddisfare i requisiti dell’articolo 4, paragrafo 2, del GDPR. ” E ancora afferma che  “anche supponendo che l’indirizzo IP sia stato trattato solo da server nel SEE durante il periodo di tempo, si deve notare che Google può comunque essere obbligato dai servizi segreti statunitensi a consegnare l’indirizzo IP in base alla legge statunitense in materia”. 
+
+ Pertanto anche  Google Analytics 4  sarebbe illegittimo.
+
+ Possono le linee guida del Garante austriaco far propendere per una visione diversa della nostra Autorità?
+
+ Non si può averne certezza. Le linee guida infatti non parlano di Google Analytics   ma in generale di analitycs.
+
+ Non affrontano quindi la tematica.
+
+ All’interno quindi di questa mancata presa di posizione del Garante italiano ,  sta al DPO e/o al consulente ai sensi del principio di accountability, prendere una decisione e motivarla in base ad una approfondita analisi tecnico giuridica che, qualora porti al mantenimento di Google Analytics seppur anonimizzato, possa essere portata al Garante in caso di contestazioni.
+
+ L'autore
+
+ Luigi Garofalo 
+
+ Giornalista e conduttore.
+
+ Condividi:
+
+ --> 
+
+ Quotidiano online sulla digital economy e la cultura del futuro
+
+ Direttore: Raffaele Barberio 
+
+ © 2002-2022 - Registrazione n. 121/2002. Tribunale di Lamezia Terme - ROC n. 26714 del 5 ottobre 2016
+
+ Editore Supercom - P. Iva 02681090425
+
+ Alcune delle foto presenti su Key4biz.it potrebbero essere state prese da Internet e quindi valutate di pubblico dominio. Se i soggetti o gli autori avessero qualcosa in contrario alla pubblicazione, lo possono segnalare alla redazione inviando una email a redazione@key4biz.it che provvederà prontamente alla rimozione delle immagini utilizzate.
+
+ Contatti | Chi Siamo | Privacy Policy | 
+
+ Key4biz è nel cloud di Netalia 
+
+ Questo sito si avvale di cookie tecnici e, con il tuo consenso, di cookie di profilazione, anche di terze parti. Chiudendo questo banner acconsenti all'uso dei cookie. Per ulteriori informazioni o negare il consenso, consulta la cookie policy e la pagina privacy .
+
+ Chiudi

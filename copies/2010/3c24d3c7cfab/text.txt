@@ -1,0 +1,414 @@
+Accusations Fly Over Voice Encryption Hack | CSO Online 
+
+ Topics 
+
+ Events 
+ Newsletters 
+ Resources 
+ Community 
+
+ About
+ About Us 
+ Advertise 
+ Contact Us 
+ Foundry Careers 
+ Reprints 
+ Newsletters 
+
+ Policies
+ Privacy Policy 
+ Cookie Policy 
+ Member Preferences 
+ About AdChoices 
+ E-commerce Links 
+ Your California Privacy Rights 
+
+ Our Network
+ CIO 
+ Computerworld 
+ Infoworld 
+ Network World 
+
+ More
+ Awards 
+ Blogs 
+ Brandposts 
+ Events 
+ Podcasts 
+ Videos 
+
+ Close 
+
+ Generative AI 
+ Business Operations 
+ Careers 
+ Industry 
+ IT Leadership 
+ Compliance 
+ Security 
+ Application Security 
+ Business Continuity 
+ Cloud Security 
+
+ Critical Infrastructure 
+ Cybercrime 
+ Identity and Access Management 
+ Network Security 
+ Physical Security 
+ Privacy 
+ Risk Management 
+ Security Infrastructure 
+ Vulnerabilities 
+ Software Development 
+
+ Back 
+
+ Close 
+
+ Americas
+
+ United States 
+
+ Asia
+
+ ASEAN 
+
+ India 
+
+ Europe
+
+ United Kingdom 
+
+ Oceania
+
+ Australia 
+
+ Back 
+
+ Close 
+
+ Popular Topics 
+
+ Search 
+
+ US-EN 
+
+ Topics 
+
+ Events 
+ Newsletters 
+ Resources 
+ Community 
+ About Policies Our Network More 
+
+ Back 
+
+ Topics 
+
+ Generative AI 
+ Business Operations 
+ Careers 
+ Industry 
+ IT Leadership 
+ Compliance 
+ Security 
+ Application Security 
+ Business Continuity 
+ Cloud Security 
+ Critical Infrastructure 
+ Cybercrime 
+ Identity and Access Management 
+ Network Security 
+ Physical Security 
+ Privacy 
+ Risk Management 
+ Security Infrastructure 
+ Vulnerabilities 
+ Software Development 
+
+ Back 
+
+ About
+ About Us 
+ Advertise 
+ Contact Us 
+ Foundry Careers 
+ Reprints 
+ Newsletters 
+
+ Back 
+
+ Policies
+ Privacy Policy 
+ Cookie Policy 
+ Member Preferences 
+ About AdChoices 
+ E-commerce Links 
+ Your California Privacy Rights 
+
+ Back 
+
+ Our Network
+ CIO 
+ Computerworld 
+ Infoworld 
+ Network World 
+
+ Back 
+
+ More
+ Awards 
+ Blogs 
+ Brandposts 
+ Events 
+ Podcasts 
+ Videos 
+
+ Home Industry Accusations Fly Over Voice Encryption Hack 
+
+ by John E. Dunn 
+
+ Accusations Fly Over Voice Encryption Hack
+
+ News 
+
+ Feb 02, 2010 3 mins 
+
+ Application Security Cybercrime Data and Information Security 
+
+ German encryption firm <a href=" http://www.securstar.com/products.php"target="_blank"> SecurStar </a> has strenuously denied being behind an apparently independent test of voice encryption products that found many of its rivals could be hacked using a $100 phone-tapping program. 
+
+ German encryption firm SecurStar has strenuously denied being behind an apparently independent test of voice encryption products that found many of its rivals could be hacked using a $100 phone-tapping program.
+ In a blog on the subject , Fabio Pietrosanti, founder and CTO of Swiss encryption startup Khamsa , alleges that a supposedly independent test of 15 encryption products was in fact a marketing exercise designed to publicise one of only three products to pass the hacking test, SecurStar’s PhoneCrypt.
+ The tests by an anonymous researcher, ‘Notrax’, found that all but three programs and hardware products looked at could be bypassed by installing a simple wiretapping Trojan called FlexiSPY to record voice output without the programs giving the user any indication that security had been compromised.
+ Khamsa’s own GSM security software was not part of the test but the encryption technology it uses, ZRTP, came in for criticism. The moving force behind that system and its implementation in a program called Zfone is encryption pioneer and inventor of Pretty Good Privacy, Phil Zimmermann, who is also listed as being on Khamsa’s scientific board. 
+
+ According to Pietrosanti, the unnamed ‘Notrax’ was subsequently traced to an IP address connected to SecurStar after the individual followed a link embedded in a blog Pietrosanti had posted.
+ “The SecurStar GmbH PBX is open on the internet, it contains all the names of their employee and confirm us that the author of http:/infosecurityguard.com [the domain used to post the original test] is that company and is the anonymous hacker called Notrax,” says Pietrosanti.
+
+ He adds that SecuStar also appeared to be logging Google keywords related to the topic so as to have some idea of how the tests were being discussed.
+ When contacted, SecurStar denied any involvement with the tests. “We do not have anything to do with these tests and I have no idea about him [Notrax],” said SecurStar CEO, Wilfried Hafner in a call to Techworld. 
+
+ According to Hafner, that Notrax used a SecurStar IP address was because the individual concerned had probably used the company’s anonymity service that hides real IPs behind his company’s.
+ “We have two million people using this product. Or he may have been an old customer of ours,” said Hafner.
+ As far as they go, the tests do appear to find a legitimate weakness in the programs under test even if a connection to one of the companies involved would represent a huge conflict of interest and discredit them in the eyes of the security community. Pietrosanti is certainly correct to say that researchers are normally keen to be identified with their testing, something ‘Notrax’ has avoided doing so far.
+ SecurStar’s Wilfried Hafner has a track record of security research himself, having in 2006 publicised a GSM hack using the same FlexiSPY software used in the recent test by Notrax.
+
+ Related content
+
+ news analysis 
+
+ Companies are already feeling the pressure from upcoming US SEC cyber rules
+
+ New Securities and Exchange Commission cyber incident reporting rules don't kick in until December, but experts say they highlight the need for greater collaboration between CISOs and the C-suite 
+
+ By Cynthia Brumfield 
+
+ Sep 28, 2023 
+
+ 6 mins 
+
+ Regulation 
+ Data Breach 
+ Financial Services Industry 
+
+ news 
+
+ UK data regulator warns that data breaches put abuse victims’ lives at risk
+
+ The UK Information Commissioner’s Office has reprimanded seven organizations in the past 14 months for data breaches affecting victims of domestic abuse. 
+
+ By Michael Hill 
+
+ Sep 28, 2023 
+
+ 3 mins 
+
+ Electronic Health Records 
+ Data Breach 
+ Government 
+
+ news 
+
+ EchoMark releases watermarking solution to secure private communications, detect insider threats
+
+ Enterprise-grade software embeds AI-driven, forensic watermarking in emails and documents to pinpoint potential insider risks 
+
+ By Michael Hill 
+
+ Sep 28, 2023 
+
+ 4 mins 
+
+ Communications Security 
+ Threat and Vulnerability Management 
+ Security Software 
+
+ news 
+
+ SpecterOps to use in-house approximation to test for global attack variations
+
+ The new offering uses atomic tests and in-house approximation in purple team assessment to test all known techniques of an attack. 
+
+ By Shweta Sharma 
+
+ Sep 28, 2023 
+
+ 3 mins 
+
+ Penetration Testing 
+
+ Podcasts 
+
+ Videos 
+
+ Resources 
+
+ Events 
+
+ SUBSCRIBE TO OUR NEWSLETTER 
+
+ From our editors straight to your inbox 
+
+ Get started by entering your email address below. 
+
+ Please enter a valid email address 
+
+ Subscribe 
+
+ Show me more
+ Popular Articles Podcasts Videos 
+
+ news 
+
+ New Trojan ZenRAT masquerades as Bitwarden password manager
+
+ By Lucian Constantin 
+
+ Sep 28, 2023 4 mins 
+
+ Cyberattacks Hacking Data and Information Security 
+
+ news 
+
+ UK Cyber Security Council CEO reflects on a year of progress
+
+ By Michael Hill 
+
+ Sep 27, 2023 3 mins 
+
+ Government Data and Information Security Security Practices 
+
+ news 
+
+ FIDO Alliance certifies security of edge nodes, IoT devices 
+
+ By Michael Hill 
+
+ Sep 27, 2023 3 mins 
+
+ Certifications Internet Security Security Hardware 
+
+ podcast 
+
+ CSO Executive Sessions Australia with Nicole Neil, Director of Information Security at Seer Medical
+
+ Sep 20, 2023 12 mins 
+
+ CSO and CISO 
+
+ podcast 
+
+ CSO Executive Sessions Australia with Siddiqua Shaheen, Head of Cyber Governance at Lander & Rogers
+
+ Sep 07, 2023 17 mins 
+
+ CSO and CISO 
+
+ podcast 
+
+ CSO Executive Sessions / ASEAN: IHH Healthcare's Francis Yeow on defining the CISO role
+
+ Sep 06, 2023 10 mins 
+
+ CSO and CISO 
+
+ video 
+
+ CSO Executive Sessions Australia with Nicole Neil, Director of Information Security at Seer Medical
+
+ Sep 20, 2023 12 mins 
+
+ CSO and CISO 
+
+ video 
+
+ What is zero trust security?
+
+ Sep 06, 2023 3 mins 
+
+ Authentication Zero Trust Network Security 
+
+ video 
+
+ CSO Executive Sessions / ASEAN: IHH Healthcare's Francis Yeow on defining the CISO role
+
+ Sep 06, 2023 10 mins 
+
+ CSO and CISO 
+
+ Sponsored Links
+
+ Accelerate your cloud application security strategy with Panoptica 
+
+ Tomorrow’s cybersecurity success starts with next-level innovation today. Join the discussion now to sharpen your focus on risk and resilience. 
+
+ dtSearch® - INSTANTLY SEARCH TERABYTES of files, emails, databases, web data. 25+ search types; Win/Lin/Mac SDK; hundreds of reviews; full evaluations 
+
+ About
+
+ About Us 
+
+ Advertise 
+
+ Contact Us 
+
+ Foundry Careers 
+
+ Reprints 
+
+ Newsletters 
+
+ Brandposts 
+
+ Policies
+
+ Privacy Policy 
+
+ Cookie Policy 
+
+ Member Preferences 
+
+ About AdChoices 
+
+ E-commerce Links 
+
+ Your California Privacy Rights 
+
+ Privacy Settings 
+
+ Our Network
+
+ CIO 
+
+ Computerworld 
+
+ Infoworld 
+
+ Network World 
+
+ LinkedIn 
+
+ Twitter 
+
+ Facebook

@@ -1,0 +1,81 @@
+GSM cracking in penetration test methodologies (OSSTMM) ? at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « Snake-oil security claims on crypto security product 
+ 27C3 – CCC Congress CFP: We come in peace » 
+
+ GSM cracking in penetration test methodologies (OSSTMM) ? 
+
+ Published by naif July 23rd, 2010 
+
+ in Privacy , intelligence , interception , security and technology . 
+ 2  Comments 
+
+ As most of this blog reader already know, in past years there was a lot of activities related to public research for GSM auditing and cracking.
+
+ However when there was huge media coverage to GSM cracking research results, the tools to make the cracking was really early stage and still very inefficient.
+
+ Now Frank Stevenson , norwegian cryptanalyst that already broke the Content Scrambling System of DVD video disc, participating to the A51 cracking project started by Karsten Nohl , released Kraken , a new improved version of the A51 cracking system.
+
+ It’s interesting to notice that WiFi cracking had a similar story, as the first WiFi wep cracking discovery was quite slow in earlier techniques but later Korek, an hacker working on cracking code, improve the attack system drammatically.
+
+ That’s the story of security research cooperation, you start a research, someone follow it and improve it, some other follow it and improved it and at the end you get the result.
+
+ Read more on the Kraken GSM Cracking software release .
+
+ And stay tuned as next week at Blackhat Conference Karsten Nohl will explain the details of the required hardware setup and detailed instructions on how to do it :-) 
+
+ I would really like to see those tools incorporated into Penetration Testing Linux Distribution BackTrack with OSSTMM methodology enforcing the testing of GSM interception and man in the middle :-)
+
+ If things proceed that way and Ettus Research (The producer of USRP2 software radio used for low cost GSM signal receiving) will not be taken down, we can still see this.
+
+ 2 Responses to “GSM cracking in penetration test methodologies (OSSTMM) ?”
+
+ Feed for this Entry 
+
+ 1 
+ Emanuele Gentili 
+
+ Jul 23rd, 2010 at 11:19 am 
+
+ This tool will be avail in BackTrack 4 repository in a few days.
+
+ emgent
+
+BackTrack Linux Coordinator
+
+ 2 
+ naif 
+
+ Jul 23rd, 2010 at 1:36 pm 
+
+ WOW!
+
+It would be very useful also to prepare a webpage on backtrack 4 homepage on the Hardware / Software setup requirements to make GSM interception testing and to update it following the Blackhat Conference talk from Karsten Nohl next week.
+
+ Consider me available to collect and invest time and (some) money to test the hardware setup, test and documentation, also collecting the rainbow tables required.
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « Snake-oil security claims on crypto security product 
+ 27C3 – CCC Congress CFP: We come in peace » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.834 sec. w/ 41 queries.
+
+ RSS Entries and RSS Comments

@@ -1,0 +1,11 @@
+{
+ "source_url": "https://github.com/mxmap-it/mxmap.it/issues/22",
+ "fetched_url": "api",
+ "method": "api",
+ "capture": null,
+ "content_type": "application/json",
+ "bytes": 3175,
+ "sha256": "b48d661417fd5b7023afaaca430aded0f95f23bf7e761a2552a98b791af780dc",
+ "name_found": true,
+ "fetched_at": "2026-09-18T10:17:21+00:00"
+}

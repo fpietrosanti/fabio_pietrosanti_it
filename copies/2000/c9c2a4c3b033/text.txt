@@ -1,0 +1,151 @@
+Vulnerability Development: Re: Possible DOS in Bind 8.2.2-P5 
+
+ Nmap Security Scanner 
+
+ Intro 
+
+ Ref Guide 
+
+ Install Guide 
+
+ Download 
+
+ Changelog 
+
+ Book 
+
+ Docs 
+
+ Security Lists 
+
+ Nmap Hackers 
+
+ Nmap Dev 
+
+ Bugtraq 
+
+ Full Disclosure 
+
+ Pen Test 
+
+ Basics 
+
+ More 
+
+ Security Tools 
+
+ Pass crackers 
+
+ Sniffers 
+
+ Vuln Scanners 
+
+ Web scanners 
+
+ Wireless 
+
+ Exploitation 
+
+ Packet crafters 
+
+ More 
+
+ Site News 
+
+ Advertising 
+
+ About/Contact 
+
+ Exceptional Links 
+
+ Good Reading 
+
+ Exploit World 
+
+-->
+ Sponsors: 
+
+ Vulnerability Development 
+mailing list archives 
+
+    By Date    
+
+    By Thread    
+
+ Re: Possible DOS in Bind 8.2.2-P5 
+
+ From : "Fabio Pietrosanti (naif)" <fabio () TELEMAIL IT>
+
+ Date : Wed, 8 Nov 2000 11:40:44 +0100
+
+ Now i've tested against bind 8.2.2-P5 compiled on:
+
+AIX 4.3.3
+Slackware 4.0
+FreeBSD 3.3
+
+and after some second all crash :\
+
+naif
+
+On Wed, 8 Nov 2000, Przemyslaw Frasunek wrote:
+
+ On Tue, Nov 07, 2000 at 07:57:22PM +0100, Fabio Pietrosanti (naif) wrote:
+ Nov 7 11:19:09 dns.pippo.com: named[188510]: unsupported XFR (type ZXFR) of "zone.pippo.com" (IN) to 
+[10.10.10.10].2284
+Then the server "*** CRASHED ***" .
+
+Doesn't work on FreeBSD 4.1.1-STABLE with BIND 8.2.2p5:
+
+Nov 8 06:49:17 yeti named[27260]: unsupported XFR (type ZXFR) of "ismedia.pl" (IN) to [212.182.117.178].4499
+
+yeti:venglin:/home/staff/venglin# ps auwx | grep name
+bind 27260 0.0 0.8 2484 1036 ?? Ss 1:52 0:01.06 named -u bind -g bind -b /etc/namedb/named.conf
+
+--
+* Fido: 2:480/124 ** WWW: http://www.frasunek.com/ ** NIC-HDL: PMF9-RIPE *
+* Inet: przemyslaw () frasunek com ** PGP: D48684904685DF43EA93AFA13BE170BF *
+
+    By Date    
+
+    By Thread    
+
+ Current thread: 
+
+ Possible DOS in Bind 8.2.2-P5 Fabio Pietrosanti (naif) (Nov 09) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 Przemyslaw Frasunek (Nov 09) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 Fabio Pietrosanti (naif) (Nov 09) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 Tomasz Grabowski (Nov 09) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 Guy Cohen (Nov 09) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 Mariusz Marcinkiewicz (Nov 09) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 (my fault, sorry) Mariusz Marcinkiewicz (Nov 10) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 Olaf Kirch (Nov 11) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 Paul A Vixie (Nov 11) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 Daniel Roesen (Nov 10) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 fire-eyes (Nov 15) 
+
+ <Possible follow-ups>
+
+ Re: Possible DOS in Bind 8.2.2-P5 Fernando Cardoso (Nov 09) 
+
+ Re: Possible DOS in Bind 8.2.2-P5 Luke Dudney (Nov 11) 
+
+ (Thread continues...) 
+
+[ Nmap |
+ Sec Tools |
+ Mailing Lists |
+ Site News |
+ About/Contact |
+ Advertising |
+ Privacy ]

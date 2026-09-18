@@ -1,0 +1,11 @@
+{
+ "source_url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0",
+ "fetched_url": "https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 35356,
+ "sha256": "c11908a17fc2d07e9704beec6c04d7ddde048a849d0ecb43927114bbc5431a5f",
+ "name_found": true,
+ "fetched_at": "2026-09-17T09:41:57+00:00"
+}

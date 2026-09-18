@@ -1,0 +1,104 @@
+2004: Webbit Padova 04: Presentazione Sikurezza.Org 1. SIKUREZZA.ORG
+ > Italian Security Mailing List <
+
+
+
+Relatori: Stefano Venturoli
+ Fabio Pietrosanti
+
+
+
+
+ Sikurezza.org@Webbit’02 http://sikurezza.org Pag. 1
+ 2. La storia
+• A fine novembre del 1999, Infosec mette online il
+ progetto sikurezza.org, portale NON commerciale
+ finalizzato alla diffusione ed alla discussione di
+ informazioni e tecnologie legate alla sicurezza
+ informatica.
+
+• Sikurezza.org gestisce numerose mailing list "security-
+ related" in italiano. Si tratta di un progetto portato avanti
+ da volontari.
+
+• Sikurezza.org offre inoltre la possibilita’ di ospitare
+ progetti particolari sui propri server e da spazio alle
+ aziende per proporre eventuali offerte di lavoro.
+
+ Sikurezza.org@Webbit’02 http://sikurezza.org Pag. 2
+ 3. Perche’ sikurezza.org
+• E' nata per essere un luogo d’incontro per professionisti,
+ hacker e appassionati di sicurezza informatica
+• E' un punto di contatto tra aziende, comunità di
+ ricercatori ufficiali, ricercatori indipendenti ed
+ underground digitale
+• Ospita alcuni progetti "security related" sviluppati da
+ ricercatori italiani ed è disponibile per ospitarne altri
+• Ospita una pagina dove le aziende e gli enti possono
+ pubblicare offerte di lavoro nell'ambito della sicurezza e
+ del networking
+• Non ha finalità commerciali ed è gestita da volontari
+
+
+ Sikurezza.org@Webbit’02 http://sikurezza.org Pag. 3
+ 4. Le Mailinglist disponibili
+ml@sikurezza.org :
+• Mailing list dedicata alla sicurezza informatica, secondo i principi del "full-
+ disclosure". Sono ben accetti messaggi riguardanti vulnerabilità presunte o
+ teoriche di software e loro dimostrazione, richieste di informazioni o aiuto,
+ pareri e qualsiasi altra cosa sia "security-related".
+
+progetto@sikurezza.org :
+• Mailing list dedicata alla discussione del progetto sikurezza.org stesso.
+ Sono ben accetti messaggi contententi idee, proposte, perplessità, etc. su
+ come mantenere/diffondere/ampliare il sito, le mailing list e qualsiasi altra
+ cosa sia "sikurezza.org-related".
+
+openbsd@sikurezza.org :
+• Mailing list ufficiale dedicata agli utenti del sistema operativo OpenBSD
+ (http://www.openbsd.org). Sono ben accetti messaggi contenenti richieste di
+ aiuto o informazioni e qualsiasi altra cosa sia "OpenBSD-related".
+
+
+ Sikurezza.org@Webbit’02 http://sikurezza.org Pag. 4
+ 5. Le Mailinglist disponibili
+devel@sikurezza.org :
+• Mailing list dedicata alla programmazione in particolar modo in ambito
+ sicurezza e networking. Sono ben accetti messaggi d'aiuto, messaggi
+ riguardanti implementazioni di algoritmi di vario genere, tecniche di
+ programmazione che possono ledere la sicurezza e metodi per la
+ risoluzione del problema, codice dimostrativo riguardante vulnerabilità,
+ codice che illustra tecniche di programmazione sicura o insicura, pubbliticità
+ di progetti opensource e qualsiasi altra cosa sia relativa all'argomento
+ programmazione.
+
+crypto@sikurezza.org :
+• Mailing list dedicata alla crittografia. Sono ben accetti messaggi riguardanti
+ gli algoritmi, la teoria, la pratica e l'implementazione di sistemi di crittografia
+ e qualsiasi altra cosa sia "crypto-related", anche in ambito non strettamente
+ informatico.
+
+
+
+
+ Sikurezza.org@Webbit’02 http://sikurezza.org Pag. 5
+ 6. Hacking e Sicurezza: Sikurezza.org
+ Dati: In futuro:
+• Progetto attivo da ~ 3 anni • Nuove mailing list
+• ~8.000 messaggi distributiti • Più spazio ai progetti di
+ sviluppatori italiani
+• ~200-300 messaggi al mese
+ • homepage
+• ~4.500 iscritti • mailing list
+ • altri
+• ~30.000 visite al mese su web
+• Scopi dichiaratamente tecnici, • Migliorare l'usabilità del sito
+ di ricerca e di sperimentazione • motore di ricerca con opzioni
+ avanzate
+ • possibilità di iscrizione online
+ • FAQ, Best&Basic Pratices
+ • altri
+
+ Sikurezza.org@Webbit’02 http://sikurezza.org Pag. 6
+ 7. http://sikurezza.org
+Sikurezza.org@Webbit’02 http://sikurezza.org Pag. 7

@@ -1,0 +1,1026 @@
+Village:ItalianEmbassy - SHA2017 Wiki 
+
+ Village:ItalianEmbassy
+
+ From SHA2017 Wiki
+
+ Jump to: navigation , search 
+
+ Village Name
+
+ Italian Hacker Embassy
+
+ Generated SHA Flag ( experiment here ) 
+
+ Website
+
+ https://embassy.italiangrappa.it , https://www.italiangrappa.it/ 
+
+ Contact
+
+ Email: embassy@italiangrappa.it (english or italian language per informazioni)
+ Mailing List organizzativa (libera iscrizione, unisciti!): https://italiangrappa.it/cgi-bin/mailman/listinfo/hackerembassy-orga 
+Slack chat: https://italiangrappa.slack.com 
+Mailing List Partecipanti Italian Hacker Embassy: https://italiangrappa.it/cgi-bin/mailman/listinfo/fellows 
+Facebook Group (+1200 memberS): https://www.facebook.com/groups/italianhackersembassy 
+Hotline: +39-340-1801049 (Fabio/naif) o +39-348-7787588 (Andrea/ubi) - chiamare in caso di domande/dubbi
+
+ Part of Cluster
+
+ Cluster:GRAPPolo 
+ create cluster 
+
+ Description
+
+ This year ItalianEmbassy@SHA will have, like bigger villages in the past hacking events, a dedicated space for lectures & workshop, chillout zone, coffe nutella and pasta.
+
+ Members
+
+ Arki` 
+
+ Ask21 
+
+ Boter 
+
+ Calamarim 
+
+ CoD 
+
+ Embyte 
+
+ Gioque 
+
+ Lilo 
+
+ LuciferSam 
+
+ Mastrogippo 
+
+ Matgro 
+
+ Mauro 
+
+ Md 
+
+ Mnemosyne 
+
+ Mte90 
+
+ Naif 
+
+ Nrs 
+
+ Phoenix 
+
+ QuantumCypher 
+
+ Stack ZT 
+
+ Sten 
+
+ Xant 
+
+ Edit your membership on your user page, here , and then on "edit with form" at the top. 
+
+ Projects
+
+ 3D Printing 
+
+ Tesla Hacking - Adding autopilot 
+
+ create project 
+
+ Self-organized Sessions
+
+ Session:Autopsy of IoT - Nabaztag, the Hare 
+
+ Session:Brief history of IoT (Internet of Things) 
+
+ Session:Cyberbullying: reverse engineering 
+
+ Session:From NoT to IoT (or the opposite?) 
+
+ Session:Getting started with DIY level 3 autonomous driving 
+
+ Session:Introduction to Mozilla ChangeCopyright 
+
+ Session:Italians Do It Bigger 
+
+ Session:Join Mozilla: We Have Cookies 
+
+ Session:Mobile World 
+
+ Session:Modern Digital Forensics analysis, where to find evidences 
+
+ Session:Monitoring Government Surveillance Capabilities by means of Transparency tools 
+
+ Session:My own system 
+
+ Session:New challenges 
+
+ Session:Regulating Law Enforcement uses of Trojans 
+
+ Session:Secure communications hardware 
+
+ Session:The digital martial art 
+
+ Session:Windows forensics 
+
+ create self-organized session 
+
+ Related to village
+
+ Village:ItalianEmbassy-Talks , Village:ItalianEmbassy-PastaCoffe&Chillout , Village:ItalianEmbassy-Kappannello , Village:ItalianEmbassy-Labs&Workshops 
+
+ Interests
+
+ hackerspace hackerspace
+, bar bar
+, diy diy
+, fun fun
+, music music
+, privacy privacy
+, soldering soldering
+, forensic forensic
+, grappa grappa
+, iot iot
+, tesla tesla
+
+ Registered on
+
+ 10 September 2015 11:06:47
+
+ Hosts self-organized sessions
+
+ Yes
+
+ Other villages by tags...
+
+ arcade arduino beer capture the flag ccc challenges children crypto ctf ctf, capture the flag, hacking, wargames, challenges, puzzles diy emulators esp32 esp8266 family family, children food friendly people fun hackerspace hacking ham hamradio iot makers music open source privacy programming puzzles rce retrogaming sdr security soldering sound videogames wargames 
+
+ Preferred Location
+
+ 52° 17' 5", 5° 31' 35"
+
+ Preferred Field
+
+ Flowers Field
+
+ Loading map... {"minzoom":false,"mappingservice":"openlayers","geoservice":"geonames","maxzoom":false,"width":"400px","height":"300px","centre":false,"title":"","label":"","icon":"","visitedicon":"","lines":[],"polygons":[],"circles":[],"rectangles":[],"wmsoverlay":false,"copycoords":false,"static":false,"zoom":18,"controls":["layerswitcher","mouseposition","autopanzoom","scaleline","navigation"],"layers":["new OpenLayers.Layer.XYZ(\n 'base',\n 'https://map.sha2017.org/tiles/base/${z}/${x}/${y}.png',\n {\n singleTile:false,\n sphericalMercator: true,\n isBaseLayer: false,\n visibility: true,\n displayInLayerSwitcher: true\n }\n )","new OpenLayers.Layer.OSM.Mapnik(\"OSM Mapnik\")"],"resizable":false,"overlays":[],"searchmarkers":"","kml":[],"locations":[{"text":"\u003Cb\u003E\u003Cp\u003EItalianEmbassy\n\u003C/p\u003E\u003C/b\u003E\u003Chr /\u003E\u003Cp\u003EThis year ItalianEmbassy@SHA will have, like bigger villages in the past hacking events, a dedicated space for lectures \u0026amp; workshop, chillout zone, coffe nutella and pasta.\n\u003C/p\u003E","title":"ItalianEmbassy\n","link":"","lat":52.284689668483,"lon":5.5264806633375,"icon":"/images/0/0a/Village-ItalianEmbassy.png"}],"imageoverlays":null}
+
+ refresh 
+
+ Name
+
+ Arrival
+
+ Departure
+
+ Bringing
+
+ Calamarim 
+
+ Thu Aug 3 18:00
+
+ Tue Aug 8 16:00
+
+ Talks & help in coordinating ItalianEmbassy@SHA2017 self-organized events
+
+ CoD 
+
+ Thu Aug 3 0:00
+
+ Wed Aug 9 0:00
+
+ Talks and workshops on Zanshin Tech, ItalianEmbassy@SHA2017 self-organized events
+
+ Fabio (naif) 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ myself and grappa :-)
+
+ LuciferSam 
+
+ Wed Aug 2 0:00
+
+ Wed Aug 9 0:00
+
+ Marco d'Itri 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ Mastro Gippo 
+
+ Wed Aug 2 17:00
+
+ Wed Aug 2 17:00
+
+ Tesla Model S P85+
+
+ Matgro 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ Mauro 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ Mte90 
+
+ Thu Aug 3 23:00
+
+ Tue Aug 8 18:00
+
+ Myself, Mozilla stickers and 7 talks
+
+ Phoenix 
+
+ Fri Aug 4 0:00
+
+ Wed Aug 9 0:00
+
+ Talks and workshops on Zanshin Tech, ItalianEmbassy@SHA2017 self-organized events
+
+ QuantumCypher 
+
+ Fri Aug 4 0:00
+
+ Tue Aug 8 0:00
+
+ The Trap Life with me.
+ It's in my heart, it's in my soul, it's in your memory.
+
+ StackZT 
+
+ Fri Aug 4 0:00
+
+ Wed Aug 9 0:00
+
+ Talks and workshops on Zanshin Tech, ItalianEmbassy@SHA2017 self-organized events
+
+ Sten 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ arki 
+
+ Wed Aug 2 0:00
+
+ Wed Aug 9 0:00
+
+ Help in coordinating ItalianEmbassy@SHA2017 self-organized events
+
+ ask21 
+
+ Wed Aug 2 0:00
+
+ Wed Aug 9 0:00
+
+ Help in coordinating ItalianEmbassy@SHA2017 self-organized events
+
+ boter 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ embyte 
+
+ Fri Aug 4 0:00
+
+ Tue Aug 8 0:00
+
+ gioque 
+
+ Wed Aug 2 0:00
+
+ Wed Aug 9 0:00
+
+ lilo 
+
+ Wed Aug 2 23:00
+
+ Tue Aug 8 23:00
+
+ ✔meow cat or never
+ ✔help Milliway building lasagna
+✔porchetta_party w/Maikel
+✔mixing, copying, sharing, peering.
+
+ nrs 
+
+ Thu Aug 3 0:00
+
+ Wed Aug 9 0:00
+
+ vdk 
+
+ Wed Aug 2 0:00
+
+ Wed Aug 9 0:00
+
+ Help in coordinating ItalianEmbassy@SHA2017 self-organized events
+
+ xant 
+
+ Thu Aug 3 18:00
+
+ Tue Aug 8 14:00
+
+ myself and maybe some camping gear
+
+ 22 inhabitants. Refresh this list . You can add yourself to a village by editing your profile page, here .
+
+ Orga contact
+
+ embassy@italiangrappa.it 
+
+ Citizens
+
+ Needs network
+
+ Villages describe network needs
+
+ Needs power
+
+ Power comment
+
+ Village plans
+
+ ... run a kitchen for our citizens, ... run a bar for our citizens, ... play loud music and party, ... build up a big tent, ... bring some special machines, ... have any other unusual installations, ... bring/build big stuff
+
+ Village constraints
+
+ Village comments plans
+
+ Provides transport for
+
+ Has plans with tracks
+
+ Size needed
+
+ Has order interest
+
+ Planning notes
+
+ unknown
+
+ _.oo.
+ _.u[[/;:,. .odMMMMMM'
+ .o888UU[[[/;:-. .o@P^ MMM^
+ oN88888UU[[[/;::-. dP^
+ dNMMNN888UU[[[/;:--. .o@P^
+ ,MMMMMMN888UU[[/;::-. o@^
+ NNMMMNN888UU[[[/~.o@P^
+ 888888888UU[[[/o@^-..
+ oI8888UU[[[/o@P^:--.. ItalianEmbassy@SHA
+ .@^ YUU[[[/o@^;::---.. SHA2017
+ oMP ^/o@P^;:::---.. 4 -8 August 2017
+ .dMMM .o@^ ^;::---... Zeewolde, NL
+ dMMMMMMM@^` `^^^^
+YMMMUP^
+ ^^
+
+ Contents
+
+ 1 Cucina dell' Italian Hacker Embassy 
+
+ 2 Partecipare all'Italian Hacker Embassy 
+
+ 2.1 Dai un Contributo all'Italian Hacker Embassy! 
+
+ 2.2 Sponsorizzazioni Aziendali 
+
+ 3 Biglietti per SHA 
+
+ 4 Registrati sul wiki SHA! 
+
+ 5 Come Arrivare 
+
+ 6 Quando Arrivare 
+
+ 7 Talk e Conferenze @Italian Hacker Embassy 
+
+ 7.1 Embassy's Activities (Talks, workshops, and more) Schedule 
+
+ 8 Cose da non dimenticare! 
+
+ 9 Proposte Volontari 
+
+ 10 Spazio e Posti Tenda 
+
+ 11 Contatti per l'Italian Hacker Embassy @ SHA2017 
+
+ 12 Cucina 
+
+ 13 Associazione Italian Grappa? 
+
+ 14 Italian Hacker Embassy del passato 
+
+ 14.1 IT Embassy @CCC2015 | Contabilità 
+
+ 14.2 IT Embassy @OHM2013 | Contabilità 
+
+ 14.3 IT Embassy @CCC2011| | Contabilità 
+
+ 14.4 IT Embassy @HAR2009 
+
+ 14.5 IT Embassy @CCC2007 
+
+ 15 People 
+
+ 15.1 Unisciti all'italian embassy e supporta il progetto ! 
+
+ 15.1.1 Infrastruttura Hackspace 
+
+ 15.1.2 Minimal Checklist 
+
+ 15.1.3 Minimal Cambusa 
+
+ 15.2 Community per comunicati stampa 
+
+ Cucina dell' Italian Hacker Embassy 
+
+ Qui è presente lo spreadsheet
+per la gestione dei turni e volontari della cucina dell' Italian Hacker Embassy
+
+ Partecipare all'Italian Hacker Embassy 
+
+ Se sei Italiano e vuoi venire a SHA 2017 (Hacker Camp Europeo con 10.000 persone da tutto il mondo) , con la tradizione che va' avanti dal 2007, ci sarà l'Italian Hacker Embassy, dove le varie comunità di hacker italiani si incontrano, rilassano, (si) smanettano :) ma sopratutto si divertono con dell'ottima musica e offrono pasta, caffè e l'Italian Grappa che ha tanto fatto sognare i nostri fratelli hackeri stranieri!
+
+ Quest'anno anche con un track dedicato a contenuti, talk e workshop della comunità hacker italiana!
+
+ SHA è organizzato come campeggio hacker in Olanda per 4-5 giorni dal 4 all'8 agosto dove avremo il nostro spazio a disposizione per l'aggregazione delle comunità hacker italiane .
+
+ Avremo almeno 2 tendoni, uno da 100mq come hackerspace/bar e uno da 50mq per i talk e workshop oltre a 120 sedie! 
+
+ L'Italian Hacker Embassy è organizzata in modo volontario, proponiti come volontario per dare una mano a realizzare questo luogo di aggregazione della comunità hacker italiana! :-)
+
+ Dai un Contributo all'Italian Hacker Embassy! 
+
+ L'Italian Hacker Embassy a SHA2017 è una iniziativa organizzata in modo collaborativo e si auto-sostiene tramite il contributo di una quota di partecipazione pari a € 69,00 (early bird a € 49,42 fino al 21 maggio) . 
+
+Questi contributi serviranno a coprire le spese di logistica e ospitalità (tendoni+sedie+multimedia+equipaggiamento+grappa&pasta&caffe) che ammontano a €7.345,00 .
+
+ Per i partecipanti all'Italian Embassy è prevista inoltre la possibilità esclusiva di usufruire della cucina da campo e auto-organizzare per tutta la durata dell'evento la preparazione di pasti. 
+
+ Con circa 100 contributi dovremmo riuscire a coprire i costi! Partecipa anche tu! 
+
+ PARTECIPA CON UNA QUOTA! 
+
+ Qui c'è dettagliato il budget in modo trasparente, abbiamo previsto di spendere €7.345,00 principalmente per noleggio Tendoni, Sedi, Tavoli, Audiovideo, Cucina, Trasporti e Grappa
+
+ La contabilità di tutte le spese e gli incassi è tenuta online in modo trasparente accessibile online Contabilità SHA2017 ,.
+
+ I tendoni sono noleggiati tramite SHA per sicuri 2 tendoni di cui uno di 100mq e uno di 50mq, 15 tavoli e 120 sedie (se i contributi economici ce lo permetteranno anche un 25mq dedicato al bar/cucina!) mentre porteremo dall'italia dei gazebini già acquistati per realizzare End Summer Camp 2016 da parte di Italian Grappa  !
+
+ Una gran parte di equipaggiamento è fornito delle attrezzature acquistate da Italian Grappa per l'evento End Summer Camp 2016 e trasportato con furgone da Venezia.
+
+ La Associazione Italian Grappa supporta e contribuisce a realizzare l'evento!
+
+ Sponsorizzazioni Aziendali 
+
+ Per quanto riguarda aziende che volessero dare un contributo per l'Italian Hacker Embassy, l'associazione Italian Grappa può emettere una regolare ricevuta di sponsorizzazione o di donazione. L'adesione è libera e verrà messa nella pagina come nella contabilità una menzione con ringraziamenti alla sponsorizzazione, senza possibilità di esporre loghi o vele o flyer, per spirito hacker!
+Aziende possono scrivere direttamente a embassy @ italiangrappa.it (C/O Fabio Pietrosanti) o anche direttamente sulla mailing list fellows .
+
+ Biglietti per SHA 
+
+ Organizzare l'evento SHA costa oltre un milione di euro e i costi dovranno essere coperti dalle vendite dei biglietti (che partono da 250 euro per 5 giorni, quindi 50 euro al giorno) e che vanno interamente a copertura costi. Non c'è lucro privato.
+
+ Per accedere all'evento ognuno deve occuparsi di acquistare in maniera indipendente il proprio biglietto. Come regola generale, i biglietti sono disponibili per l'acquisto, salvo esaurimento degli stessi, presso il Ticket Shop . Per maggiori informazioni visita l'apposita sezione (in lingua inglese). 
+
+ Non arrivate all'ultimo minuto per comprare i biglietti perché finiscono presto! 
+ Registrati sul wiki SHA! 
+
+ E' molto utile registrarsi sul wiki di SHA indicando di essere parte dell'Italian Hacker Embassy, così da avere in automatico (in fondo a questa pagina), l'elenco di tutti i partecipanti e i vari contatti, ovviamente non è obbligatorio ma è utile :-)
+
+ Come Arrivare 
+
+ SHA 2017 si trova in Olanda, non lontano da Amsterdam (55km) a Zeewolde, [ qui informazioni precise]
+
+ E' possibile arrivare:
+
+ In Aereo: 
+Amsterdam Schipol è l'aeroporto di riferimento, assolutamente facile da raggiungere da qualunque posto d'italia!
+
+ Ad esempio atterrando ad Amsterdam Schipol e partendo da Milano il costo del viaggio è meno di €150!
+
+ Attenzione: comprate il biglietto aereo in anticipo, è estate e in tanti vanno in olanda in vacanza 
+ In Auto 
+Arrivare in auto, o in camper, è più che fattibile dall'Italia come già in molti abbiamo fatto negli scorsi anni per portarci comodamente in nostri tendoni oltrechè la compagnia del viaggio.
+Le distanze sono ad esempio 1350km da San Dona di Piave Venezia in 12-13 ore .
+
+ Attenzione: Il parcheggio ha un costo di €42 perchè non c'è spazio per 2000 auto e l'orga SHA ha dovuto attrezzare aree e ponti nei dintorni 
+ Le informazioni per arrivare in inglese sono sulla pagina Travel/Location .
+
+ Quando Arrivare 
+
+ Il camp inizia il 4 agosto e termina l'8 agosto, tuttavia consigliamo a chi voglia vivere la vera esperienza del camp di essere già presenti dal 3 agosto (o addirittura dal 2!)
+
+Potrai aiutare con il build-up sia dell'Italian Hacker Embassy che di SHA, ma sopratutto goderti l'opening session che da' sempre grande ispirazione hackera! :-)
+
+ Talk e Conferenze @Italian Hacker Embassy 
+
+ Quest'anno l'Italian Hacker Embassy oltre al consueto tendone chillout, hacking e bar, avrà una sala dedicata con audio-video per talk e workshop, parte del track di SHA.
+Porta un tuo talk, organizza un workshop, condividi la conoscenza, scrivi al team contenuti 
+
+ This year ItalianEmbassy@SHA will have, like bigger villages in the past hacking events, a dedicated space for lectures & workshop .
+There will be an IE@sha eventS calendar parallel to the SHA official one. 
+Have an idea for something worthing to be heard? 
+Send a proposal to this email 
+
+ Embassy's Activities (Talks, workshops, and more) Schedule 
+
+ Schedule of embassy's activities is available at this link 
+
+ Cose da non dimenticare! 
+
+ In questa sezione le cose da non dimenticare nell'organizzarvi questa esperienza a SHA2017!
+
+ Carta d'identità o passaporto o altro documento valido per l'espatrio (la patente non è valida per l'espatrio!)
+
+ Tessera sanitaria europea (quella formato carta di credito con banda magnetica e codice fiscale)
+
+ Biglietto d'ingresso al camp 
+
+ Eventuali medicinali di cui avete bisogno (attenzione se siete allergici a punture di insetti e simili - ricordate che è un campeggio!)
+
+ Abbigliamento adeguato: farà presumibilmente piuttosto caldo di giorno e piuttosto fresco la sera/notte, quindi portate sia t-shirt e costumi da bagno, sia felpe e pantaloni lunghi
+
+ Se lo avete, un cordless DECT o un telefono SIP (probabilmente esisterà la possibilità di registrare il proprio apparato alla rete telefonica del camp.
+
+ Non dimenticate il vostro asciugamano! .
+
+ Proposte Volontari 
+
+ Se vuoi partecipare e contribuire all'organizzazione, scrivi qui il tuo nickname/nome con la tua proposta, quando se sei disponibile (quanto nella fase di organizzazione e quanto on-site nell'embassy), iscriviti alla Mailing list e proponi/presentati su fellows@lists.italiangrappa.it e/o sul gruppo Gruppo Facebook 
+
+ L'Italian Hacker Embassy è organizzata in modo volontario, proponiti come volontario per dare una mano a realizzare questo luogo di aggregazione della comunità hacker italiana! :-) 
+ Spazio e Posti Tenda 
+
+ Se avete uno spazio tenda in più a disposizione o state cercando un posto in tenda, indicate in questa sezione del Wiki e/o invia un messaggio sulla Mailing list fellows@lists.italiangrappa.it e/o sul Gruppo Facebook 
+
+ Contatti per l'Italian Hacker Embassy @ SHA2017 
+
+ Richieste di informazioni: embassy@italiangrappa.it (english or language)
+
+ Sito embassy.italiangrappa.it (che rimanda a questa pagina wiki!) 
+
+ Contributi e Biglietti per sostenere l'embassy 
+
+ Gruppo Facebook (+1200 members) 
+
+ Mailing List organizzazione e volontari (unisciti!) 
+
+ Mailing List Partecipanti 
+
+ Chat di Collaborazioine Slack chat 
+
+ Hotline: +39-340-1801049 (Fabio/naif) o +39-348-7787588 (Andrea/ubi) - chiamare in caso di domande/dubbi
+
+ Cucina 
+
+ Per i partecipanti all'Italian Hacker Embassy è prevista inoltre la possibilità esclusiva di usufruire della cucina da campo e auto-organizzare per tutta la durata dell'evento la preparazione di pasti a modiche sottoscrizioni, sempre ammesso che la cucina ci sia (dipende da quanti contributi ci saranno per sostenere i costi dei tendoni!)
+
+ Associazione Italian Grappa? 
+
+ L'Associazione Italian Grappa è il soggetto giuridico che si occupa di supportare il progetto Italian Embassy acquisendo i contributi come donazioni e pagamento le spese con un bilancio e contabilità interamente trasparente e collaborativa. Il sito è work-in-progress as usual http://italiangrappa.it 
+
+ Italian Hacker Embassy del passato 
+
+ Puoi farti una idea delle Italian Hacker Embassy passate 2007, 2009, 2011, 2013, 2015
+
+ IT Embassy @CCC2015 | Contabilità 
+
+ IT Embassy @OHM2013 | Contabilità 
+
+ IT Embassy @CCC2011 | | Contabilità 
+
+ IT Embassy @HAR2009 
+
+ IT Embassy @CCC2007 
+
+ People 
+
+ gioque
+
+ Marco d'Itri
+
+ Calamarim
+
+ arki
+
+ vdk
+
+ naif
+
+ ubi
+
+ ccjh
+
+ meh.
+
+ zetsu
+
+ ask21
+
+ felix
+
+ Riky
+
+ Jeky
+
+ Novak
+
+ Dante
+
+ Gippo
+
+ Samuele
+
+ k0smik0
+
+ embyte
+
+ nrs
+
+ CoD
+
+ Phoenix
+
+ StackZT
+
+ Name
+
+ Arrival
+
+ Departure
+
+ Bringing
+
+ Calamarim 
+
+ Thu Aug 3 18:00
+
+ Tue Aug 8 16:00
+
+ Talks & help in coordinating ItalianEmbassy@SHA2017 self-organized events
+
+ CoD 
+
+ Thu Aug 3 0:00
+
+ Wed Aug 9 0:00
+
+ Talks and workshops on Zanshin Tech, ItalianEmbassy@SHA2017 self-organized events
+
+ Fabio (naif) 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ myself and grappa :-)
+
+ LuciferSam 
+
+ Wed Aug 2 0:00
+
+ Wed Aug 9 0:00
+
+ Marco d'Itri 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ Mastro Gippo 
+
+ Wed Aug 2 17:00
+
+ Wed Aug 2 17:00
+
+ Tesla Model S P85+
+
+ Matgro 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ Mauro 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ Mte90 
+
+ Thu Aug 3 23:00
+
+ Tue Aug 8 18:00
+
+ Myself, Mozilla stickers and 7 talks
+
+ Phoenix 
+
+ Fri Aug 4 0:00
+
+ Wed Aug 9 0:00
+
+ Talks and workshops on Zanshin Tech, ItalianEmbassy@SHA2017 self-organized events
+
+ QuantumCypher 
+
+ Fri Aug 4 0:00
+
+ Tue Aug 8 0:00
+
+ The Trap Life with me.
+ It's in my heart, it's in my soul, it's in your memory.
+
+ StackZT 
+
+ Fri Aug 4 0:00
+
+ Wed Aug 9 0:00
+
+ Talks and workshops on Zanshin Tech, ItalianEmbassy@SHA2017 self-organized events
+
+ Sten 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ arki 
+
+ Wed Aug 2 0:00
+
+ Wed Aug 9 0:00
+
+ Help in coordinating ItalianEmbassy@SHA2017 self-organized events
+
+ ask21 
+
+ Wed Aug 2 0:00
+
+ Wed Aug 9 0:00
+
+ Help in coordinating ItalianEmbassy@SHA2017 self-organized events
+
+ boter 
+
+ Thu Aug 3 0:00
+
+ Tue Aug 8 0:00
+
+ embyte 
+
+ Fri Aug 4 0:00
+
+ Tue Aug 8 0:00
+
+ gioque 
+
+ Wed Aug 2 0:00
+
+ Wed Aug 9 0:00
+
+ lilo 
+
+ Wed Aug 2 23:00
+
+ Tue Aug 8 23:00
+
+ ✔meow cat or never
+ ✔help Milliway building lasagna
+✔porchetta_party w/Maikel
+✔mixing, copying, sharing, peering.
+
+ nrs 
+
+ Thu Aug 3 0:00
+
+ Wed Aug 9 0:00
+
+ vdk 
+
+ Wed Aug 2 0:00
+
+ Wed Aug 9 0:00
+
+ Help in coordinating ItalianEmbassy@SHA2017 self-organized events
+
+ xant 
+
+ Thu Aug 3 18:00
+
+ Tue Aug 8 14:00
+
+ myself and maybe some camping gear
+
+ 22 inhabitants. Refresh this list . You can add yourself to a village by editing your profile page, here .
+
+ Unisciti all'italian embassy e supporta il progetto ! 
+
+ Iscriviti anche tu e supporta l'italian embassy 
+
+ Unisciti all'italian hacker embassy ! 
+
+ Infrastruttura Hackspace 
+
+ Materiale Utile:
+
+ Multiprese per l'elettricità 
+
+ Cavi elettrici
+
+ Adattatori Schuko -> Italia 
+
+ Switch
+
+ Cavi di rete?
+
+ Attrezzi vari
+
+ Minimal Checklist 
+
+ pentolone
+
+ pentola
+
+ moka
+
+ mestoli
+
+ coltelli
+
+ scolapasta
+
+ recipienti
+
+ tagliere
+
+ secchi
+
+ fornelli
+
+ bombola
+
+ estintore
+
+ faretti
+
+ prolunghe
+
+ ciabatte
+
+ casse
+
+ switch/AP
+
+ cavi
+
+ crimpatrice
+
+ gazebi
+
+ Minimal Cambusa 
+
+ grappa 
+
+ prosecco
+
+ aperol 
+
+ pasta
+
+ caffè
+
+ Community per comunicati stampa 
+
+ ccc07@softwarelibero.it
+
+ fellows@lists.italiangrappa.it
+
+ ml@sikurezza.org
+
+ ML del Poul (Possono replicare contributo con polimi per studenti per venire al ccc camp come hanno fatto per il ccc congress?)
+
+ Fare lista LUG e comunicazione a Lug
+
+ Fare lista Hackerspaces
+
+ Mandare su newsletter clusit, vari master in sicurezza di università
+
+ Trovare chi scriva su punto informatico, apogeonline, altre riviste
+
+ Retrieved from " https://wiki.sha2017.org/index.php?title=Village:ItalianEmbassy&oldid=8533 " 
+
+ Categories : Session location 
+ Village 
+ Flowers Field 
+ Pages with interest 
+
+ Hidden category: Pages with a map rendered by the Maps extension 
+
+ Navigation menu
+
+ Personal tools
+
+ Log in 
+ Request account 
+
+ Namespaces
+
+ Page 
+
+ Discussion 
+
+ Variants 
+
+ Views
+
+ Read 
+
+ View form 
+
+ View source 
+
+ View history 
+
+ More 
+
+ Search 
+
+ Navigation
+
+ Main page 
+ 🕐  Recent Changes 
+ ❓ FAQ 
+ 🎫  Tickets 
+ 📖  Program 
+ 📢  Staying Informed 
+ 🚀  Location + Travel 
+ 🛎  Provided facilities 
+ ⛺️  Camping 
+ 🏰  Villages 
+ 🤓  Villagers 
+ 🔬  Interests 
+ 🎓  Self-Organized Sessions 
+ 🔧  Projects 
+
+ Forms
+
+ 💛  Request Account 
+ 💙  Create Village 
+ 💚  Create Self-Organized Session 
+ 💝  Create Project 
+
+ Information
+
+ 💪  Volunteering 
+ 🚤  Harbour 
+ Family Village 
+ 📻  FM-Radio 
+ 🔌  ALTPWR 
+ 📛  Badge 
+ 🎁  Promotion 
+ 😻  Orga Wiki 
+ 🌐  SHA Website 
+ Organisation 
+
+ Wiki
+
+ Recent changes 
+ Wiki Syntax Help 
+
+ Tools
+
+ What links here 
+ Related changes 
+ Special pages 
+ Printable version 
+ Permanent link 
+ Page information 
+ Browse properties 
+
+ This page was last modified on 27 July 2017, at 18:23.
+
+ Privacy policy 
+
+ About SHA2017 Wiki 
+
+ Disclaimers

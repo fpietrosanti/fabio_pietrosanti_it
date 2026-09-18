@@ -1,0 +1,11 @@
+{
+ "source_url": "https://seclists.org/vuln-dev/2000/Nov/95",
+ "fetched_url": "https://web.archive.org/web/20130810040823id_/http://seclists.org/vuln-dev/2000/Nov/95",
+ "method": "wayback",
+ "capture": "20130810040823",
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 14420,
+ "sha256": "c2b0054e0dd4aee3a158d02c062e3056eb7a8133c6ca7927ad1cd420621cb6be",
+ "name_found": true,
+ "fetched_at": "2026-09-17T08:59:43+00:00"
+}

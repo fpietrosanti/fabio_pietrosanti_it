@@ -1,0 +1,641 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Voice of VOIPSA  &raquo; Blog Archive   &raquo; VoIP Firewall: Telephony vs Security world</title>
+
+<meta name="generator" content="WordPress 3.0.1" /> <!-- leave this for stats -->
+
+<link rel="stylesheet" href="http://voipsa.org/blog/wp-content/themes/voice-of-voipsa/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="Voice of VOIPSA RSS Feed" href="http://feeds.feedburner.com/VoiceOfVoipsa" />
+
+<link rel="pingback" href="http://voipsa.org/blog/xmlrpc.php" />
+<link rel="icon" href="http://www.voipsa.org/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.voipsa.org/favicon.ico" type="image/x-icon" />
+<style type="text/css" media="screen">
+/*	To accomodate differing install paths of WordPress, images are referred only here,
+	and not in the wp-layout.css file. If you prefer to use only CSS for colors and what
+	not, then go right ahead and delete the following lines, and the image files. */
+		
+	body { background: url("http://voipsa.org/blog/wp-content/themes/voice-of-voipsa/images/kubrickbgcolor.jpg"); }	
+	#page { background: url("http://voipsa.org/blog/wp-content/themes/voice-of-voipsa/images/kubrickbgwide.jpg") repeat-y top; border: none; } 
+	#header { background: url("http://voipsa.org/blog/wp-content/themes/voice-of-voipsa/images/kubrickheader.jpg") no-repeat bottom center; }
+	#footer { background: url("http://voipsa.org/blog/wp-content/themes/voice-of-voipsa/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+
+/*	Because the template is slightly different, size-wise, with images, this needs to be set here
+	If you don't want to use the template's images, you can also delete the following two lines. */
+		
+	#header 	{ margin: 0 !important; margin: 0 0 0 1px; padding: 1px; height: 198px; width: 758px; }
+	#headerimg 	{ margin: 7px 9px 0; height: 192px; width: 740px; } 
+
+/* 	To ease the insertion of a personal header image, I have done it in such a way,
+	that you simply drop in an image called 'personalheader.jpg' into your /images/
+	directory. Dimensions should be at least 760px x 200px. Anything above that will
+	get cropped off of the image. */
+	/*
+	#headerimg { background: url('http://voipsa.org/blog/wp-content/themes/voice-of-voipsa/images/personalheader.jpg') no-repeat top;}
+	*/
+</style>
+
+<link rel="alternate" type="application/rss+xml" title="Voice of VOIPSA &raquo; VoIP Firewall: Telephony vs Security world Comments Feed" href="http://voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/feed/" />
+<link rel='stylesheet' id='twc_style-css'  href='http://voipsa.org/blog/wp-content/plugins/twitconnect/style.css?ver=3.0.1' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://voipsa.org/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://voipsa.org/blog/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Voice of VOIPSA' href='http://voipsa.org/blog/' />
+<link rel='start' title='A Family of Curves' href='http://voipsa.org/blog/2006/04/14/a-family-of-curves/' />
+<link rel='prev' title='VoIP Attackers &#8211; Sometimes They Come Back' href='http://voipsa.org/blog/2010/09/29/voip-attackers-sometimes-they-come-back/' />
+<meta name="generator" content="WordPress 3.0.1" />
+<link rel='canonical' href='http://voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/' />
+<link rel='shortlink' href='http://voipsa.org/blog/?p=1036' />
+<link rel="stylesheet" type="text/css" media="screen" href="http://voipsa.org/blog/wp-content/plugins/wordtwit/css/style.css" /></head>
+<body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="http://voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/">voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/</a> · captured 2010-10-10 · scripts removed</div>
+<div id="page">
+
+
+<div id="header">
+	<div id="headerimg">
+		<h1><a href="http://voipsa.org/blog/">Voice of VOIPSA</a></h1>
+		<div class="description">Collective thoughts and musings on the state of VoIP security today.</div>
+	</div>
+</div>
+<hr />
+	
+	<div id="content" class="narrowcolumn">
+		
+  	
+		<div class="navigation">
+			<div class="alignleft">&laquo; <a href="http://voipsa.org/blog/2010/09/29/voip-attackers-sometimes-they-come-back/" rel="prev">VoIP Attackers &#8211; Sometimes They Come Back</a></div>
+			<div class="alignright"></div>
+		</div>
+	
+		<div class="post" id="post-1036">
+			<h2><a href="http://voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/" rel="bookmark" title="Permanent Link: VoIP Firewall: Telephony vs Security world">VoIP Firewall: Telephony vs Security world</a></h2>
+	<small>October 5th, 2010 by <a href="http://voipsa.org/blog/author/fpietrosanti/" title="Posts by Fabio Pietrosanti">Fabio Pietrosanti</a></small>
+			<div class="entrytext">
+				<p>During that period i started to deeply understand and evaluate matters related to the protection of VoIP related infrastructure against attacks and the diffused technologies for signaling and VoIP encryption.</p>
+<p>I investigated the concept of &#8220;<strong>SIP Firewalls</strong>&#8221; and &#8220;<strong>VoIP Firewalls</strong>&#8221; and found that in this area there&#8217;s a lot of confusion and misunderstanding among the IT/Telephony and IT Security users given the fact that the VoIP telephony and IT Security world usually speak a different language.</p>
+<p>I understood that there is a clear increasing interest by IT security world in VoIP protection even if most of the VoIP security product out there are more oriented to Telephony specialist than to Security specialist.</p>
+<p style="text-align: center"><strong>Security products or telephony products?</strong></p>
+<p>The market is very fragmented and it&#8217;s plenty of</p>
+<ul>
+<li>Telephony Gateway doing something about Security</li>
+<li>Telephony PBX with some Security feature</li>
+<li>Security Gateway doing something about Telephony</li>
+</ul>
+<p>It must be clearly identified whether a specific kind of device/product it&#8217;s something &#8220;<strong>doing more things about security</strong>&#8221; or &#8220;<strong>doing more things about telephony</strong>&#8221; .</p>
+<p>That&#8217;s especially important because it must be understood whether a product can be used by <strong>who works in security</strong> or by <strong>who works in telephony</strong>, also because <strong>the knowledge required to approach a security product it&#8217;s different to approach a voip product</strong>.</p>
+<p>I know plenty of VoIP specialist that doesn&#8217;t know about UTM, IPS, DPI and VPN technologies.</p>
+<p>I know plenty of Security specialist that doesn&#8217;t know about SIP, RTP, VoIP protocols and architectures.</p>
+<p>Finding out specialist of VoIP and Security together it&#8217;s a rare thing.</p>
+<p>So it&#8217;s relevant to look at the full feature set and at the USP (Unique Selling Points) of various products to identify whether a product it&#8217;s something for the Telephony part of the world or for the Security part of the world.</p>
+<p>We must expect that a <strong>Security product</strong> require very little understanding of Telephony while a <strong>Telephony product</strong> require very little understanding of Security.</p>
+<p style="text-align: center"><strong>What SIP/VoIP Firewall do?</strong></p>
+<p>When we glue together the terms &#8220;VoIP/SIP&#8221; and &#8220;Firewall&#8221; we generally have different understanding depending on the world from where we come.</p>
+<p>Especially different kind of users consider valuable completely different kind of product features that can be identified as follow:</p>
+<p><strong>Telephony world</strong></p>
+<ul>
+<li>Networking and NAT related issue resolution</li>
+<li>SIP compatibility among different vendors</li>
+<li>Quality of Service and traffic prioritization</li>
+<li>Easier VoIP trunking</li>
+</ul>
+<p><strong>Security world</strong></p>
+<ul>
+<li>SIP security protocol inspection</li>
+<li>Closing doors by letting only minimum traffic to goes in/out firewalls (ip filtering)</li>
+<li>Denial of Service prevention</li>
+<li>SIP signaling and voice encryption</li>
+</ul>
+<p>That said it&#8217;s clear that the expectation of what a &#8220;SIP Firewall&#8221; should deliver it&#8217;s perceived very differently among different sectors.</p>
+<p>T<strong>elephony world care about making things works and dealing all networking/NAT/compatibility pain of VoIP</strong>, especially because of the need to integrate very old and big PBX with new extensions.</p>
+<p><strong>Security world care about protecting the server behind their firewalls against intrusion and information integrity/confidentiality</strong> (eavesdropping for phone calls).</p>
+<p style="text-align: center"><strong>Organization issues</strong></p>
+<p style="text-align: left">From the organization point of view it&#8217;s also highly relevant to understand the different duties and behaviour related to Security department and IT/telephony department.</p>
+<p>Security guys are the ones who manage the security control the firewalls and have the authority of defining what exit to the internet and that can get inside the different levels of corporate perimeters (such as DMZ and internal networks). When someone from within the organization need to expose a service to the internet they are the one saying yes/no and at which conditions.</p>
+<p>Requests to expose internet services could come from the IT department for some server but also the accounting department for SAP and even the marketing department for some website.</p>
+<p>When request come for telephony equipment the security always get worried.</p>
+<p>That&#8217;s because the typical firewall setup use NAT and the Telephony guys know that putting a VoIP server behind a NAT, even controlled by a firewall could be very problematic for what&#8217;s related to the SIP protocol handling.</p>
+<p>So Telephony guys ask to Security guys to have their gateway placed outside the firewall.</p>
+<p>Aaaaaaaaaaargh! The Security guy will say! That&#8217;s not possible! The traffic flow must be under our control! Otherwise how could we protect the VoIP infrastructure from attacks delivered via SIP protocol and Denial of Service?</p>
+<p>So the relationship between Security world and telephony world in a large organization can be very problematic.</p>
+<p>Now add the fact that the Security department may require to protect the confidentiality of mobile and landline phone calls, something that&#8217;s considered a really sensitive matter and cannot be delegated to the IT/Telephony.</p>
+<p><strong>Who have to handle the VoIP encryption project?</strong> The Telephony department know about VoIP but only a few about Security or but the Security department know about security/crypto but only few about VoIP.</p>
+<p>So the matter can be complicated, even more if the infrastructure and hardware/software setup include multiple different technologies and/or particular telephony services (such as multiple trunking, IVR, Queue, Call forwarding, etc, etc) that are out-of-the-scope respect to the need of protecting phone call.</p>
+<p style="text-align: center"><strong>Now, let&#8217;s see what&#8217;s on the market?</strong></p>
+<p>Let&#8217;s make some review of what&#8217;s on the market.</p>
+<p>I will just refer the major and more known products by splitting products in 3 different categories (It&#8217;s oversimplified but effective) :</p>
+<ul>
+<li>VoIP firewalls with voice encryption</li>
+<li>VoIP PBX with VoIP encryption</li>
+<li>Firewalls with SIP protection</li>
+</ul>
+<p>The first two sets are products dedicated to Telephony world where a specific telephony related knowledge is required while the Firewall, now referred as UTM (Unified Threat Management) are systems requiring specific IT security knowledge.</p>
+<p><strong>VoIP firewall with voice encryption</strong></p>
+<p>The described below VoIP firewall does all the typical VoIP firewall features related to NAT/Networking, Quality of Service and SIP compatibility, but provide also an external interface to connection VoIP clients with voice encryption protocol with SIP/TLS and SRTP.</p>
+<p><a href="http://um-labs.com/">UM LABS</a> <a href="http://um-labs.com//products.html">SIP Security Controller</a></p>
+<p><a href="http://www.ingate.com/">Ingate</a> <a href="http://www.ingate.com/Products_firewalls.php">Firewalls</a></p>
+<p><a href="http://www.sipera.com/">SIPera</a> <a href="http://www.sipera.com/index.php?action=products,prod_features">UC-SEC</a> SIP firewall</p>
+<p>If the specific infrastructure is using and old and outdated PBX software that may be difficult to be upgraded, then as a workaround a SIP firewall it&#8217;s needed.</p>
+<p>If a specific infrastructure is using modern PBX software with basic security features, then a SIP firewall it&#8217;s not usually needed.</p>
+<p><strong>VoIP PBX with Voice Encryption</strong></p>
+<p>There are several PBX and SBC (Session Border Controller) that speak the VoIP encryption technologies of SIP/TLS and SRTP and among them the most known are:</p>
+<p>- <a href="http://www.asterisk.org">Asterisk</a> 1.8</p>
+<p>- <a href="http://wiki.freeswitch.org/wiki/SRTP">FreeSWITCH</a> 1.0.3</p>
+<p>- <a href="http://www.cisco.com/web/about/security/intelligence/securing-voip.html">Cisco VoIP PBX and SBC</a></p>
+<p>All those VoIP equipments already support signaling and voice encryption without any need of adding different piece to the puzzle and those PBX can be connected to existing PBX acting as a gateway between secure users and existing users on old internal PBX.</p>
+<p>For what apply to the protection against brute forcing and extension enumeration (finding your VoIP phone account on PBX) most now PBX support some native protection features while additional protection can be always provided with the pluggable anti-brute-force and anti-user-enumeration module such as <a href="http://www.ossec.net/">ossec</a> (For <a href="http://sysbrain.wordpress.com/2010/05/24/asterisk-ossec-part-ii/">Asterisk</a> and for <a href="http://wiki.freeswitch.org/wiki/Fail2ban">FreeSWITCH</a>) or <a href="http://www.voip-info.org/wiki/view/Fail2Ban+(with+iptables)+And+Asterisk">Fail2ban</a> .</p>
+<p><strong>Firewalls with SIP protection</strong></p>
+<p>Within the environment of firewalls we can find two different kind of SIP related features:</p>
+<ul>
+<li>SIP Security Inspection: For enforcing SIP protocol inspection and direct attack protection</li>
+<li>SIP ALG: For fixing NAT and SIP related networking issues</li>
+</ul>
+<p>We are interested only in the device that provide a wide level of protection and will not refer Firewalls that just do SIP ALG for NAT adaptation.</p>
+<p>While SIP protection is provided by Sonicwall, Checkpoint and Fortinet i think would say that Cisco is the most advanced one as it&#8217;s the only Firewall that support natively also VoIP encryption by leveraging the concept of VPN to VoIP.</p>
+<p><a href="http://www.cisco.com/">Cisco</a> <a href="http://www.cisco.com/en/US/products/ps6120/index.html">ASA Firewall</a> <a href="https://supportforums.cisco.com/docs/DOC-5704">SIP/TLS Proxy</a> and <a href="http://docs.google.com/viewer?url=www.cisco.com%2Fweb%2FAT%2Fassets%2Fdocs%2FSecurity_Mobility.pdf">Phone Proxy (For SIP/TLS + SRTP)</a></p>
+<p><a href="http://www.fortinet.com/">Fortinet</a> <a href="http://www.fortinet.com/products/fortigate/">Fortigate</a> <a href="http://docs.google.com/viewer?url=docs.fortinet.com/fgt/ifos/Inside_VoIP_1.0.pdf">Voice Over IP Protection</a> over and <a href="http://docs.google.com/viewer?url=docs.fortinet.com/fgt/handbook/fortigate-voip-sip-40-mr2.pdf">SIP Security configuration manual</a></p>
+<p><a href="http://www.checkpoint.com/">Checkpoint</a> <a href="http://www.checkpoint.com/products/appliances/index.html">Firewall</a> <a href="http://www.checkpoint.com/products/softwareblades/voice-over-ip.html">VoIP protection</a> (<a href="https://docs.google.com/viewer?url=http://dl3.checkpoint.com/paid/cc/Check_Point_NGX_R65.2.100_AdminGuide.pdf%3FHashKey%3D1285205968_680ab1a5806271ed858b8476c72615d3%26xtn%3D.pdf">Inspect SIP/TLS</a> with <a href="http://www.checkpoint.com/defense/advisories/public/2008/sbp-20-Jan.html">this SIP protocol enforcement</a> )</p>
+<p><a href="http://www.sonicwall.com/">Sonicwall</a> <a href="http://www.sonicwall.com/us/products/UTM_Firewall_VPN.html">Firewall</a> VoIP protection <a href="http://docs.google.com/viewer?url=www.sonicwall.com/downloads/Configuring_VoIP_for_SonicOS_Standard.pdf">Base</a> and <a href="http://docs.google.com/viewer?url=http://www.sonicwall.com/downloads/Configuring_VoIP_for_SonicOS_Enhanced.pdf">Advanced</a></p>
+<div style="text-align: center"><span style="font-weight: normal"><strong>Sounds confused? Get a short comparison.</strong></span></div>
+<p>Maybe yes, because if you are not specifically VoIP knowledgable or very Security knowledeable it may be different to understand which product fit a specific scenario.</p>
+<p>I tried below to make a comparison of various feature set of <strong>VoIP Firewalls, Firewalls</strong> and <strong>VoIP PBX with security features</strong>.</p>
+<p>NOTICE: The following analysis has been done by looking at websites and configuration manuals of various vendor without deep testing in laboratory!</p>
+<table border="1">
+<tbody>
+<tr>
+<th>Product</th>
+<th>SIP/TLS</th>
+<th>SIP protocol sanitization</th>
+<th>SIP aware IP Firewall</th>
+<th>SRTP Voice Encryption</th>
+<th>SIP Brute Force Protection</th>
+<th>SIP Enumeration Protection</th>
+<th>DOS (flooding) protection</th>
+</tr>
+<tr>
+<td>Cisco ASA Firewall</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES (connection-limit)</td>
+<td>YES</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Checkpoint Firewall</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>NO</td>
+<td>NO</td>
+<td>NO</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Fortinet Fortigate Firewall</td>
+<td>NO</td>
+<td>YES</td>
+<td>YES</td>
+<td>NO</td>
+<td>YES (rate-limit)</td>
+<td>YES (rate-limit)</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Sonicwall UTM Firewall</td>
+<td>NO</td>
+<td>YES</td>
+<td>YES</td>
+<td>NO</td>
+<td>NO</td>
+<td>NO</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>UM LABS SIP Security Controller</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>SIPERA UC-SEC</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Ingate SIP Firewall</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Cisco IOS/CallManager PBX</td>
+<td>YES</td>
+<td>YES*</td>
+<td>N/A</td>
+<td>YES</td>
+<td>YES (connection-limit)</td>
+<td>YES</td>
+<td>YES (IP/FW/IDS IOS)</td>
+</tr>
+<tr>
+<td>Asterisk PBX</td>
+<td>YES</td>
+<td>YES*</td>
+<td>N/A</td>
+<td>YES</td>
+<td>YES**</td>
+<td>YES</td>
+<td>YES**</td>
+</tr>
+<tr>
+<td>FreeSWITCH PBX</td>
+<td>YES</td>
+<td>YES*</td>
+<td>N/A</td>
+<td>YES</td>
+<td>YES**</td>
+<td>YES</td>
+<td>YES**</td>
+</tr>
+</tbody>
+</table>
+<p>* By default are quite strict at protocol compliance given their wide diffusion on the market</p>
+<p>** With additional tool such as Fail2ban and OSSEC</p>
+<p>*** When authentication is properly setup (all users must authenticate to do any actions in speaking with the PBX) there&#8217;s automatic call hijacking protection</p>
+<p>Please note that <strong>modern PBX with security features already provide most of the required SIP protection</strong>, it&#8217;s obviously a matter of <strong>configuring it properly</strong> (for example enabling only authenticated SIP registration/calls, only over SIP/TLS encrypted channels with SRTP encrypted media flow).</p>
+<div style="text-align: center"><strong>Ok, but what do i need? It depends!</strong></div>
+<p>It&#8217;s not straightforward to say what kind of protection do you need, and mostly depend on what do you want to do and what do you already have in-house.</p>
+<p>The two common scenario we can expect is:</p>
+<p><strong>a) The need is to expose to internet one PBX in order to establish a VoIP trunk with another PBX</strong></p>
+<p><strong> </strong>In such case you may have two situation that will tell you whether to implement or not some custom Security Gateway by answering such questions:</p>
+<ul>
+<li>Does your corporate PBX it&#8217;s old, legacy, not updated since a lot of time?
+<ul>
+<li>You need a <strong>VoIP firewall</strong></li>
+<li>OR</li>
+<li>You can add a <strong>VoIP PBX with VoIP Encryption properly configured</strong> and add some little security add-on and configure it as a Gateway</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Does your corporate PBX is a modern PBX with SIP/TLS along with strict authentication checking?
+<ul>
+<li>You could need to have a <strong>Firewall with SIP/TLS</strong> inspection feature (Cisco or Checkpoint)</li>
+</ul>
+</li>
+</ul>
+<p><strong>b) The need is to implement VoIP encrypted calls for roaming users outside corporate perimeter</strong></p>
+<p>In such case you must first ask yourself some questions:</p>
+<ul>
+<li>Does your existing VoIP equipment is compatible with the Security protocols used to provide Secure VoIP (SIP/TLS + SRTP) to roaming users?
+<ul>
+<li>You need a <strong>Firewall with SIP/TLS</strong> feature</li>
+<li>OR</li>
+<li>You can keep your <strong>VoIP PBX with VoIP Encryption properly configured</strong> and add <strong>some little security add-on </strong>(anti-bruteforcing, local firewall)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Does your existing VoIP equipment is not compatible with the Security protocols used to provide Secure VoIP (SIP/TLS + SRTP) to roaming users?
+<ul>
+<li>You need a <strong>VoIP Firewall</strong></li>
+</ul>
+</li>
+</ul>
+<p>However in all case, if you already have a Checkpoint Firewall or a Cisco ASA, i suggest to however let them does the activity of SIP inspection and dynamic firewall port opening.</p>
+<div style="text-align: center"><strong>What to expect in future?</strong></div>
+<p>My conclusion is that the IT Security world is now starting considering serious VoIP security related issues and that there is a growing adoption of signaling and media encryption for Large Enterprise users.</p>
+<p>While Private and Government users still need to use ZRTP, because of it&#8217;s unique end-to-end encryption feature, Enterprises are adopting SIP/TLS and SRTP given the end-to-site security model requirements.</p>
+<p>What we can expect to see in the near future is the upcoming introduction of SRTP features into the big player of Firewall market with a concept of Voice VPN exactly like Cisco has already done with it&#8217;s own Cisco ASA.</p>
+<p>At the same time every day more <strong>PBX</strong> start implementing security features for signaling and media encryption.</p>
+<p>My feeling is that in the near future the <strong>VoIP Firewall</strong> market will became much more Telephony market oriented, as the <strong>Firewalls</strong> will start see improvements in their VoIP protection features along with Voice VPN functionalities.</p>
+<p>At that time the security guys will have the VoIP security features included in their already installed Firewalls with a software upgrade and will not care anymore about VoIP Firewall.</p>
+<p>What reasonably we should expect is also to see in upcoming year are <strong>Hardened PBX distributions</strong> that will include by default advanced security features, suitable for security departments.</p>
+<p>Fabio Pietrosanti (naif) &#8211; <a href="http://fabio.pietrosanti.it" target="_blank">http://fabio.pietrosanti.it</a></p>
+	
+					
+
+
+				<p class="postmetadata alt">
+					<small>
+						This entry was posted
+						 
+						on Tuesday, October 5th, 2010 at 12:59 pm						and is filed under <a href="http://voipsa.org/blog/category/voip-security/" title="View all posts in VoIP Security" rel="category tag">VoIP Security</a>.
+						You can follow any responses to this entry through the <a href='http://voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/feed/'>RSS 2.0</a> feed. 
+						
+													You can <a href="#respond">leave a response</a>, or <a href="http://voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/trackback/" rel="trackback">trackback</a> from your own site.
+						
+												
+					</small>
+				</p>
+	
+			</div>
+		</div>
+		
+	
+<!-- You can start editing here. -->
+
+	<h3 id="comments">2 Responses to &#8220;VoIP Firewall: Telephony vs Security world&#8221;</h3> 
+
+	<ol class="commentlist">
+
+	
+		<li class="alt" id="comment-401518">
+			<cite><a href='http://www.acmepacket.com' rel='external nofollow' class='url'>Jim Donovan</a></cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-401518" title="">October 5th, 2010 at 1:42 pm</a> </small>
+
+			<p>Hi Fabio &#8211; This is an excellent summary of a problems  I see affecting many enterprises that are moving to IP telephony or trying to use IP telephony across untrusted networks.      I would like to suggest that you also consider the role of enterprise session border controllers (SBCs) in your product categories.  If you examine the reference architecture for Cisco and Avaya (for example), you will see that SBCs (not voip-aware firewalls) are used to address the security issues you describe.</p>
+<p>Thanks,<br />
+Jim</p>
+<p>(disclaimer &#8211; I work for a SBC company, Acme Packet)</p>
+
+		</li>
+
+	
+	
+		<li class="" id="comment-401524">
+			<cite><a href='http://infosecurity.ch' rel='external nofollow' class='url'>Fabio Pietrosanti</a></cite> Says:
+						<br />
+
+			<small class="commentmetadata"><a href="#comment-401524" title="">October 5th, 2010 at 2:03 pm</a> </small>
+
+			<p>You are right, Session Border Controller should be part of the picture even if they are a kind of tools more oriented to Telephony world rather than security.<br />
+I do not see a security engineer sitting there configuring an SBC with all the complexity and the vast set of feature they provide.</p>
+<p>Even if i completely agree that some SBC (not everyone) provide security features that are very similar to the one provided by VoIP Firewalls and that with VoIP Firewalls share (For the Enterprise market) the main goals to provide Secure Unified Communications. </p>
+<p>There are so many overlapping features among such kind of products that the most important things to ask ourself is:<br />
+- who is the target customer? ( PMI / Large Enterprise / Telco )<br />
+- who is the target administrator&#8217;s department? ( IT / IP Telephony / Security )</p>
+
+		</li>
+
+	
+	
+	</ol>
+
+ 
+
+
+<h3 id="respond">Leave a Reply</h3>
+
+
+<form action="http://voipsa.org/blog/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" />
+<label for="author"><small>Name (required)</small></label></p>
+
+<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" />
+<label for="email"><small>Mail (will not be published) (required)</small></label></p>
+
+<p><input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+<label for="url"><small>Website</small></label></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type="hidden" name="comment_post_ID" value="1036" />
+</p>
+
+</form>
+
+
+	
+	
+	</div>
+
+	<div id="sidebar">
+		<ul>
+			
+			<li>
+				<form method="get" id="searchform" action="http://voipsa.org/blog/">
+<div><input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Search" />
+</div>
+</form>
+			</li>
+
+			<!-- Author information is disabled per default. Uncomment and fill in your details if you want to use it.-->
+			<li><p><a href="http://www.voipsa.org/"><img src="http://www.voipsa.org/images/voipsa_small.gif" border=0></a><br>Welcome to the group weblog of the <a href="http://www.voipsa.org/">Voice over IP Security Alliance</a></p>
+			</li>
+			<!-- -->
+
+			<li>
+						</li>
+
+<li><h2>Subscribe</h2>
+<ul><li><a href="http://feeds.feedburner.com/VoiceOfVoipsa">RSS feed</a></li></ul>
+<li>
+		        
+
+			<li><h2>Categories</h2>
+				<ul>
+					<li class="cat-item cat-item-19"><a href="http://voipsa.org/blog/category/best-practices/" title="View all posts filed under Best Practices">Best Practices</a> (7)
+</li>
+	<li class="cat-item cat-item-22"><a href="http://voipsa.org/blog/category/biometrics/" title="View all posts filed under Biometrics">Biometrics</a> (3)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://voipsa.org/blog/category/blogroll/" title="View all posts filed under Blogroll">Blogroll</a> (1)
+</li>
+	<li class="cat-item cat-item-11"><a href="http://voipsa.org/blog/category/books/" title="View all posts filed under Books">Books</a> (5)
+</li>
+	<li class="cat-item cat-item-15"><a href="http://voipsa.org/blog/category/calea/" title="View all posts filed under CALEA">CALEA</a> (15)
+</li>
+	<li class="cat-item cat-item-60"><a href="http://voipsa.org/blog/category/certificates-and-pki/" title="View all posts filed under Certificates and PKI">Certificates and PKI</a> (1)
+</li>
+	<li class="cat-item cat-item-12"><a href="http://voipsa.org/blog/category/conferences/" title="View all posts filed under Conferences">Conferences</a> (54)
+</li>
+	<li class="cat-item cat-item-13"><a href="http://voipsa.org/blog/category/cryptography/" title="View all posts filed under Cryptography">Cryptography</a> (25)
+</li>
+	<li class="cat-item cat-item-58"><a href="http://voipsa.org/blog/category/federation/" title="View all posts filed under Federation">Federation</a> (2)
+</li>
+	<li class="cat-item cat-item-42"><a href="http://voipsa.org/blog/category/identity/" title="View all posts filed under Identity">Identity</a> (4)
+</li>
+	<li class="cat-item cat-item-27"><a href="http://voipsa.org/blog/category/ietf/" title="View all posts filed under IETF">IETF</a> (14)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://voipsa.org/blog/category/uncategorized/" title="View all posts filed under Miscellaneous">Miscellaneous</a> (22)
+</li>
+	<li class="cat-item cat-item-29"><a href="http://voipsa.org/blog/category/platform-security/" title="View all posts filed under Platform Security">Platform Security</a> (7)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://voipsa.org/blog/category/podcasts/" title="View all posts filed under Podcasts">Podcasts</a> (43)
+</li>
+	<li class="cat-item cat-item-41"><a href="http://voipsa.org/blog/category/privacy/" title="View all posts filed under Privacy">Privacy</a> (3)
+</li>
+	<li class="cat-item cat-item-18"><a href="http://voipsa.org/blog/category/sans/" title="View all posts filed under SANS">SANS</a> (1)
+</li>
+	<li class="cat-item cat-item-25"><a href="http://voipsa.org/blog/category/security/" title="View all posts filed under Security">Security</a> (121)
+</li>
+	<li class="cat-item cat-item-26"><a href="http://voipsa.org/blog/category/sip/" title="View all posts filed under SIP">SIP</a> (44)
+</li>
+	<li class="cat-item cat-item-20"><a href="http://voipsa.org/blog/category/skype/" title="View all posts filed under Skype">Skype</a> (23)
+</li>
+	<li class="cat-item cat-item-28"><a href="http://voipsa.org/blog/category/spit/" title="View all posts filed under SPIT">SPIT</a> (10)
+</li>
+	<li class="cat-item cat-item-16"><a href="http://voipsa.org/blog/category/standards/" title="View all posts filed under Standards">Standards</a> (30)
+</li>
+	<li class="cat-item cat-item-30"><a href="http://voipsa.org/blog/category/videos/" title="View all posts filed under Videos">Videos</a> (2)
+</li>
+	<li class="cat-item cat-item-9"><a href="http://voipsa.org/blog/category/voipsa-blog-info/" title="View all posts filed under Voice of VOIPSA Info">Voice of VOIPSA Info</a> (21)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://voipsa.org/blog/category/voip-attacks-in-the-news/" title="View all posts filed under VoIP Attacks in the News">VoIP Attacks in the News</a> (30)
+</li>
+	<li class="cat-item cat-item-21"><a href="http://voipsa.org/blog/category/voip-legislation/" title="View all posts filed under VoIP Legislation">VoIP Legislation</a> (10)
+</li>
+	<li class="cat-item cat-item-8"><a href="http://voipsa.org/blog/category/voip-security/" title="View all posts filed under VoIP Security">VoIP Security</a> (320)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://voipsa.org/blog/category/voip-security-companies/" title="View all posts filed under VoIP Security Companies">VoIP Security Companies</a> (8)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://voipsa.org/blog/category/voip-security-research/" title="View all posts filed under VoIP Security Research">VoIP Security Research</a> (19)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://voipsa.org/blog/category/voip-security-tools/" title="View all posts filed under VoIP Security Tools">VoIP Security Tools</a> (25)
+</li>
+	<li class="cat-item cat-item-2"><a href="http://voipsa.org/blog/category/voip-vulnerabilities/" title="View all posts filed under VoIP Vulnerabilities">VoIP Vulnerabilities</a> (42)
+</li>
+	<li class="cat-item cat-item-17"><a href="http://voipsa.org/blog/category/voipsa/" title="View all posts filed under VOIPSA">VOIPSA</a> (45)
+</li>
+	<li class="cat-item cat-item-14"><a href="http://voipsa.org/blog/category/webcast/" title="View all posts filed under Webcast">Webcast</a> (5)
+</li>
+				</ul>
+			</li>
+
+
+			<li><h2>Contributors</h2>
+				<ul>
+				<li><a href="http://voipsa.org/blog/author/azmolek/" title="Posts by Andy Zmolek">Andy Zmolek</a></li><li><a href="http://voipsa.org/blog/author/craigbowser/" title="Posts by Craig Bowser">Craig Bowser</a></li><li><a href="http://voipsa.org/blog/author/danyork/" title="Posts by Dan York">Dan York</a></li><li><a href="http://voipsa.org/blog/author/david-endler/" title="Posts by David Endler">David Endler</a></li><li><a href="http://voipsa.org/blog/author/dtrammell/" title="Posts by Dustin D. Trammell">Dustin D. Trammell</a></li><li><a href="http://voipsa.org/blog/author/dgtlsoul/" title="Posts by Eric Y. Chen">Eric Y. Chen</a></li><li><a href="http://voipsa.org/blog/author/fpietrosanti/" title="Posts by Fabio Pietrosanti">Fabio Pietrosanti</a></li><li><a href="http://voipsa.org/blog/author/geoffdevine/" title="Posts by Geoff Devine">Geoff Devine</a></li><li><a href="http://voipsa.org/blog/author/joquendo/" title="Posts by J. Oquendo">J. Oquendo</a></li><li><a href="http://voipsa.org/blog/author/jostrom/" title="Posts by Jason Ostrom">Jason Ostrom</a></li><li><a href="http://voipsa.org/blog/author/jmendez/" title="Posts by jmendez">jmendez</a></li><li><a href="http://voipsa.org/blog/author/jonathan-zar/" title="Posts by Jonathan Zar">Jonathan Zar</a></li><li><a href="http://voipsa.org/blog/author/mark/" title="Posts by Mark Collier">Mark Collier</a></li><li><a href="http://voipsa.org/blog/author/martyndavies/" title="Posts by Martyn Davies">Martyn Davies</a></li><li><a href="http://voipsa.org/blog/author/mrubino/" title="Posts by mrubino">mrubino</a></li><li><a href="http://voipsa.org/blog/author/proxenos/" title="Posts by Nikos Simantirakis">Nikos Simantirakis</a></li><li><a href="http://voipsa.org/blog/author/rolsen/" title="Posts by Ruben Olsen">Ruben Olsen</a></li><li><a href="http://voipsa.org/blog/author/shawnmer/" title="Posts by Shawn Merdinger">Shawn Merdinger</a></li>				</ul>
+			</li>
+
+			<li><h2>Archives</h2>
+				<ul>
+					<li><a href='http://voipsa.org/blog/2010/10/' title='October 2010'>October 2010</a></li>
+	<li><a href='http://voipsa.org/blog/2010/09/' title='September 2010'>September 2010</a></li>
+	<li><a href='http://voipsa.org/blog/2010/08/' title='August 2010'>August 2010</a></li>
+	<li><a href='http://voipsa.org/blog/2010/07/' title='July 2010'>July 2010</a></li>
+	<li><a href='http://voipsa.org/blog/2010/06/' title='June 2010'>June 2010</a></li>
+	<li><a href='http://voipsa.org/blog/2010/05/' title='May 2010'>May 2010</a></li>
+	<li><a href='http://voipsa.org/blog/2010/04/' title='April 2010'>April 2010</a></li>
+	<li><a href='http://voipsa.org/blog/2010/03/' title='March 2010'>March 2010</a></li>
+	<li><a href='http://voipsa.org/blog/2010/02/' title='February 2010'>February 2010</a></li>
+	<li><a href='http://voipsa.org/blog/2010/01/' title='January 2010'>January 2010</a></li>
+	<li><a href='http://voipsa.org/blog/2009/12/' title='December 2009'>December 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2009/10/' title='October 2009'>October 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2009/09/' title='September 2009'>September 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2009/08/' title='August 2009'>August 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2009/07/' title='July 2009'>July 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2009/06/' title='June 2009'>June 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2009/05/' title='May 2009'>May 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2009/04/' title='April 2009'>April 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2009/03/' title='March 2009'>March 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2009/02/' title='February 2009'>February 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2009/01/' title='January 2009'>January 2009</a></li>
+	<li><a href='http://voipsa.org/blog/2008/12/' title='December 2008'>December 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/11/' title='November 2008'>November 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/10/' title='October 2008'>October 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/09/' title='September 2008'>September 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/08/' title='August 2008'>August 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/07/' title='July 2008'>July 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/06/' title='June 2008'>June 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/05/' title='May 2008'>May 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/04/' title='April 2008'>April 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/03/' title='March 2008'>March 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/02/' title='February 2008'>February 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2008/01/' title='January 2008'>January 2008</a></li>
+	<li><a href='http://voipsa.org/blog/2007/12/' title='December 2007'>December 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/11/' title='November 2007'>November 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/10/' title='October 2007'>October 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/09/' title='September 2007'>September 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/08/' title='August 2007'>August 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/07/' title='July 2007'>July 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/06/' title='June 2007'>June 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/05/' title='May 2007'>May 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/04/' title='April 2007'>April 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/03/' title='March 2007'>March 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/02/' title='February 2007'>February 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2007/01/' title='January 2007'>January 2007</a></li>
+	<li><a href='http://voipsa.org/blog/2006/12/' title='December 2006'>December 2006</a></li>
+	<li><a href='http://voipsa.org/blog/2006/11/' title='November 2006'>November 2006</a></li>
+	<li><a href='http://voipsa.org/blog/2006/10/' title='October 2006'>October 2006</a></li>
+	<li><a href='http://voipsa.org/blog/2006/09/' title='September 2006'>September 2006</a></li>
+	<li><a href='http://voipsa.org/blog/2006/08/' title='August 2006'>August 2006</a></li>
+	<li><a href='http://voipsa.org/blog/2006/07/' title='July 2006'>July 2006</a></li>
+	<li><a href='http://voipsa.org/blog/2006/06/' title='June 2006'>June 2006</a></li>
+	<li><a href='http://voipsa.org/blog/2006/05/' title='May 2006'>May 2006</a></li>
+	<li><a href='http://voipsa.org/blog/2006/04/' title='April 2006'>April 2006</a></li>
+				</ul>
+			</li>
+                         <li id="linkcat-23" class="linkcat"><h2>Blogroll</h2>
+	<ul>
+<li><a href="http://www.voipsa.org" title="The Voice over IP Security Alliance"><img src="http://www.voipsa.org/images/voipsa_small.gif"  alt="VOIPSA"  title="The Voice over IP Security Alliance" /></a></li>
+
+	</ul>
+</li>
+  <li id="linkcat-24" class="linkcat"><h2>VOIPSA Member Blogs</h2>
+	<ul>
+<li><a href="http://www.infravast.com/index.php?option=com_jd-wp&#038;Itemid=44">Christopher Martin</a></li>
+<li><a href="http://www.disruptivetelephony.com/" title="Dan York&#8217;s blog on IP telephony / VoIP">Dan York</a></li>
+<li><a href="http://isc.sans.org/" title="Donald Smith is a handler on the SANS Internet Storm Center group blog">Donald Smith</a></li>
+<li><a href="http://www.dustintrammell.com/blog.html" title="Dustin Trammell writes in several places on a variety of security issues">Dustin Trammell</a></li>
+<li><a href="http://www.voipsecurityblog.com/" title="Mark Collier&#8217;s blog on VoIP security">Mark Collier</a></li>
+<li><a href="http://martyndavies.livejournal.com" title="Martyn Davies on technology and telephony">Martyn Davies</a></li>
+
+	</ul>
+</li>
+                      <li><h2>Recent Posts</h2>
+				<ul>
+					<li><a href='http://voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/' title='VoIP Firewall: Telephony vs Security world'>VoIP Firewall: Telephony vs Security world</a>
+	<li><a href='http://voipsa.org/blog/2010/09/29/voip-attackers-sometimes-they-come-back/' title='VoIP Attackers &#8211; Sometimes They Come Back'>VoIP Attackers &#8211; Sometimes They Come Back</a>
+	<li><a href='http://voipsa.org/blog/2010/09/28/voip-abuse-project/' title='VoIP Abuse Project'>VoIP Abuse Project</a>
+	<li><a href='http://voipsa.org/blog/2010/09/27/voip-fraudster-edwin-pena-sentenced-to-10-years-in-prison-and-repayment-of-1-million/' title='VoIP Fraudster Edwin Pena sentenced to 10 years in prison and repayment of $1 million'>VoIP Fraudster Edwin Pena sentenced to 10 years in prison and repayment of $1 million</a>
+	<li><a href='http://voipsa.org/blog/2010/09/21/weaponizing-the-nokia-n900-part-2/' title='Weaponizing the Nokia N900 &#8211; Part 2'>Weaponizing the Nokia N900 &#8211; Part 2</a>
+	<li><a href='http://voipsa.org/blog/2010/09/14/follow-voipsa-on-twitter/' title='Follow VOIPSA on Twitter!'>Follow VOIPSA on Twitter!</a>
+	<li><a href='http://voipsa.org/blog/2010/09/07/its-a-feature-remote-tapping-a-snom-voip-phone/' title='It&#8217;s a Feature! &#8212; Remote Tapping a Snom VoIP Phone'>It&#8217;s a Feature! &#8212; Remote Tapping a Snom VoIP Phone</a>
+	<li><a href='http://voipsa.org/blog/2010/08/26/revisiting-shodan-computer-search-engine-oh-noes-the-places-youll-go/' title='Revisiting Shodan Computer Search Engine:  Oh Noes, the places you&#8217;ll go!'>Revisiting Shodan Computer Search Engine:  Oh Noes, the places you&#8217;ll go!</a>
+	<li><a href='http://voipsa.org/blog/2010/08/11/voice-of-voipsa-upgraded-to-wordpress-3-0-1/' title='Voice of VOIPSA upgraded to WordPress 3.0.1'>Voice of VOIPSA upgraded to WordPress 3.0.1</a>
+	<li><a href='http://voipsa.org/blog/2010/08/11/risks-of-phone-removal-from-university-dorm-rooms/' title='Risks Of Phone Removal From University Dorm Rooms'>Risks Of Phone Removal From University Dorm Rooms</a>
+				</ul>
+			</li>
+
+
+
+
+
+						
+                        <li><noscript><p>Proud member of <a href="http://networks.feedburner.com/Security-Bloggers-Network">Security Bloggers Network</a>, a FeedBurner Network.</p> </noscript>
+
+		</ul>
+	</div>
+
+<hr />
+<div id="footer">
+	<p>
+		Voice of VOIPSA is proudly powered by 
+		<a href="http://wordpress.org/">WordPress</a>
+		<!-- 82 queries. 1.033 seconds. -->
+	</p>
+</div>
+</div>
+
+<!-- Gorgeous design by Michael Heilemann - http://binarybonsai.com/kubrick/ -->
+
+		</body>
+</html>

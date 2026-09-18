@@ -1,2 +1,4 @@
 * text=auto
 *.ico binary
+copies/** -text
+past/** -text

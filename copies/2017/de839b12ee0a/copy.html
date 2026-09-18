@@ -1,0 +1,2936 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+<meta property="og:type" content="website">
+<meta property="og:title" content="1303739 - Warn when downloading executable files over HTTP">
+<meta property="og:url" content="https://bugzilla.mozilla.org/show_bug.cgi?id=1303739">
+<meta property="og:description"
+      content="NEW (nobody) in Firefox - Downloads Panel. Last updated 2018-11-07.">
+<meta name="twitter:label1" value="Type">
+<meta name="twitter:data1" value="defect">
+<meta name="twitter:label2" value="Priority">
+<meta name="twitter:data2" value="P5">
+
+    <meta name="viewport" content="width=1024">
+    <meta name="color-scheme" content="dark light">
+    <meta name="generator" content="Bugzilla 20190606.1">
+    <meta name="bugzilla-global" content="dummy"
+        id="bugzilla-global" data-bugzilla="{&quot;api_token&quot;:&quot;&quot;,&quot;config&quot;:{&quot;basepath&quot;:&quot;\/&quot;},&quot;constant&quot;:{&quot;COMMENT_COLS&quot;:80},&quot;param&quot;:{&quot;maxattachmentsize&quot;:&quot;10240&quot;,&quot;maxusermatches&quot;:&quot;50&quot;,&quot;splinter_base&quot;:&quot;\/page.cgi?id=splinter.html&amp;ignore=\/&quot;},&quot;string&quot;:{&quot;component_required&quot;:&quot;You must select a Component for this bug&quot;,&quot;description_required&quot;:&quot;You must enter a Description for this bug&quot;,&quot;short_desc_required&quot;:&quot;You must enter a Summary for this bug&quot;,&quot;version_required&quot;:&quot;You must select a Version for this bug&quot;},&quot;user&quot;:{&quot;is_new&quot;:1,&quot;login&quot;:&quot;&quot;}}">
+    <title>1303739 - Warn when downloading executable files over HTTP</title>
+
+<link rel="Top" href="/">
+
+  
+
+
+  
+    <link rel="Show" title="Dependency Tree"
+          href="/showdependencytree.cgi?id=1303739&amp;hide_resolved=1">
+      <link rel="Show" title="Dependency Graph"
+            href="/showdependencygraph.cgi?id=1303739">
+
+      <link rel="Show" title="Bug Activity"
+            href="/show_activity.cgi?id=1303739">
+
+<link href="/static/v20190606.1/skins/yui.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/skins/standard/global.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/extensions/BugModal/web/bug_modal.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/js/jquery/plugins/contextMenu/contextMenu.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/extensions/BMO/web/styles/bug_modal.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/extensions/EditComments/web/styles/inline-editor.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/js/jquery/ui/jquery-ui-min.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/js/jquery/ui/jquery-ui-structure-min.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/js/jquery/ui/jquery-ui-theme-min.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/skins/lib/prism.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/extensions/Needinfo/web/styles/needinfo.css" rel="stylesheet" type="text/css"><link href="/static/v20190606.1/extensions/Review/web/styles/badge.css" rel="stylesheet" type="text/css">
+
+
+
+    
+
+
+      
+
+
+    
+
+    
+    <link rel="search" type="application/opensearchdescription+xml"
+                       title="Bugzilla@Mozilla" href="/search_plugin.cgi"><link rel="shortcut icon" href="/extensions/BMO/web/images/favicon.ico">
+<link rel="canonical" href="https://bugzilla.mozilla.org/show_bug.cgi?id=1303739">
+<link rel="shorturl" href="https://bugzilla.mozilla.org/1303739"><meta name="google-analytics" content="UA-36116321-3" data-location="https://bugzilla.mozilla.org/bug/show-modal" data-title="1303739 - Warn when downloading executable files over HTTP">
+<meta name="robots" content="noarchive">
+  </head>
+
+
+
+  <body
+        class="bugzilla-mozilla-org
+               skin-standard bug_modal yui-skin-sam"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://bugzilla.mozilla.org/show_bug.cgi?id=1303739">bugzilla.mozilla.org/show_bug.cgi?id=1303739</a> · captured 2019-06-12 · scripts removed</div>
+
+
+
+<div id="wrapper">
+
+<aside id="message-container" role="complementary">
+  <noscript>
+    <div class="noscript">
+      <div class="inner">
+        <p>Please enable JavaScript in your browser to use all the features on this site.</p>
+      </div>
+    </div>
+  </noscript>
+</aside>
+
+<header id="header" role="banner">
+  <div class="inner">
+    <h1 id="header-title" class="title"><a href="https://bugzilla.mozilla.org/home" title="Go to home page">Bugzilla</a></h1>
+    <form role="search" id="header-search" class="quicksearch" action="/buglist.cgi" data-no-csrf>
+      <section class="searchbox-outer dropdown" role="combobox" aria-expanded="false" aria-haspopup="listbox"
+               aria-owns="header-search-dropdown">
+        <h2>Quick Search</h2>
+        <span class="icon" aria-hidden="true"></span>
+        <input role="searchbox" id="quicksearch_top" class="dropdown-button" name="quicksearch" autocomplete="off"
+               value="" placeholder="Search Bugs"
+               title="Enter a bug number or some search terms" aria-controls="header-search-dropdown"
+               aria-label="Quick Search"><div id="header-search-dropdown" class="dropdown-content right" role="listbox" style="display: none;">
+  <div id="header-search-dropdown-wrapper">
+  </div>
+</div>
+      </section>
+    </form>
+    <nav id="header-nav">
+      <ul class="links">
+        <li class="link-browse">
+          <a href="/describecomponents.cgi" title="Browse bugs by component">
+            <span class="icon" aria-hidden="true"></span>
+            <span class="label">Browse</span>
+          </a>
+        </li>
+        <li class="link-search">
+          <a href="/query.cgi?format=advanced" title="Search bugs using various criteria">
+            <span class="icon" aria-hidden="true"></span>
+            <span class="label">Advanced Search</span>
+          </a>
+        </li>
+      </ul>
+      <div class="dropdown">
+        <button type="button" id="header-tools-menu-button" class="dropdown-button minor" title="More tools…"
+                aria-label="More tools…" aria-expanded="false" aria-haspopup="true" aria-controls="header-tools-menu">
+          <span class="icon" aria-hidden="true"></span>
+        </button>
+        <ul class="dropdown-content left" id="header-tools-menu" role="menu" style="display:none;">
+          <li role="presentation">
+            <a href="/report.cgi" role="menuitem" tabindex="-1">Reports</a>
+          </li>
+            <li role="separator"></li>
+            <li role="presentation">
+              <a href="https://bmo.readthedocs.io/en/latest/" role="menuitem" tabindex="-1">Documentation</a>
+            </li>
+        </ul>
+      </div>
+    </nav>
+      <ul id="header-login" class="links">
+          <li id="moz_new_account_container_top"><a href="/createaccount.cgi">New Account</a></li><li id="mini_login_container_top">
+  <a id="login_link_top" href="/show_bug.cgi?id=1303739&amp;GoAheadAndLogIn=1"
+     class='show_mini_login_form' data-qs-suffix="_top">Log In</a>
+
+  <div id="mini_login_top" class="mini-popup mini_login bz_default_hidden"><span id="github_mini_login_top" class="mini_login_top">
+    <form method="post" action="/github.cgi">
+      <input type="hidden" name="github_secret" value="qcdhcCbQBEEMdg0SY7ERjnwfd3948wPRqmIWlvIdqTfJcTAEW9oyVBnM4kpKHrBKXkqEw3AqvR012jI8sfgGZCRFiDvDnGCD4Emo5Qfi5omGHbqawD8BiNFHHOlYcJULONMfhweCz4GKAcA5ZJN1FvvKRdFDtSuyrXJ84nGsUAZaB3S6RlnqsMA7HWjNYi2RP6JFj5vrE9Wk3dXcysU6Ejl3LYJoEQOwEPcBk0Nw0JCfQAcxJfWKHgYWKs7PbzLv">
+      <input type="hidden" name="target_uri" value="https://bugzilla.mozilla.org/show_bug.cgi?id=1303739">
+      <input type="image" src="/extensions/GitHubAuth/web/images/sign_in.png" height="22" width="75" align="absmiddle"
+             alt="Sign in with GitHub"
+             title="Sign in with GitHub"> or
+    </form>
+  </span>
+
+  <form action="/show_bug.cgi?id=1303739" method="POST"
+        data-qs-suffix="_top">
+
+    <input id="Bugzilla_login_top"
+           class="bz_login"
+           name="Bugzilla_login"
+           title="Login"
+           placeholder="Email"
+           aria-label="Email"
+           type="email"
+           required
+    >
+    <input class="bz_password"
+           id="Bugzilla_password_top"
+           name="Bugzilla_password"
+           type="password"
+           title="Password"
+           placeholder="Password"
+           aria-label="Password"
+           required
+    >
+    <input class="bz_password bz_default_hidden bz_mini_login_help" type="text"
+           id="Bugzilla_password_dummy_top" value="password"
+           title="Password"
+    >
+      <input type="checkbox" id="Bugzilla_remember_top"
+             name="Bugzilla_remember" value="on" class="bz_remember"
+                 checked>
+      <label for="Bugzilla_remember_top">Remember</label>
+    <input type="hidden" name="Bugzilla_login_token"
+           value="1560306352-L65kPZnTQwVHW_k4gFZmoDs0096457EkPdVjCvq_2SI">
+    <input type="submit" name="GoAheadAndLogIn" value="Log in"
+           class="check_mini_login_fields"
+            id="log_in_top">
+    <a href="#" id="hide_mini_login_top" aria-label="Close"
+       class="close-button hide_mini_login_form" data-qs-suffix="_top">
+      <span class="icon" aria-hidden="true"></span>
+    </a>
+  </form>
+  </div>
+</li>
+<li id="forgot_container_top">
+  <a id="forgot_link_top" href="/show_bug.cgi?id=1303739&amp;GoAheadAndLogIn=1#forgot"
+     class='show_forgot_form'
+     data-qs-suffix="_top">Forgot Password</a>
+  <div id="forgot_form_top" class="mini-popup mini_forgot bz_default_hidden">
+  <form action="/token.cgi" method="post">
+    <input type="email" name="loginname" size="20" placeholder="Email" aria-label="Email" required>
+    <input id="forgot_button_top" value="Reset Password"
+           type="submit">
+    <input type="hidden" name="a" value="reqpw">
+    <input type="hidden" id="token_top" name="token" value="1560306352-huzorIr1S94PUTVwhxeTvQYbsJ1f4XiW3ec79HpWc-c">
+    <a href="#" class="close-button hide_forgot_form" aria-label="Close" data-qs-suffix="_top">
+      <span class="icon" aria-hidden="true"></span>
+    </a>
+  </form>
+  </div>
+</li>
+      </ul><div id="header-external-links" class="dropdown first">
+  <button type="button" id="header-external-menu-button" class="dropdown-button minor" title="Mozilla"
+          aria-label="Mozilla" aria-expanded="false" aria-haspopup="true" aria-controls="header-external-menu">
+    <img src="/static/v20190606.1/extensions/BMO/web/images/moz-fav-one-color-white-rgb.svg" width="32" height="32" alt="">
+  </button>
+  <ul class="dropdown-content right" id="header-external-menu" role="menu" style="display:none;">
+    <li role="presentation">
+      <a href="https://www.mozilla.org/" role="menuitem" tabindex="-1">Mozilla Home</a>
+    </li>
+    <li role="separator"></li>
+    <li role="presentation">
+      <a href="https://www.mozilla.org/privacy/websites/" role="menuitem" tabindex="-1">Privacy</a>
+    </li>
+    <li role="presentation">
+      <a href="https://www.mozilla.org/privacy/websites/#cookies" role="menuitem" tabindex="-1">Cookies</a>
+    </li>
+    <li role="presentation">
+      <a href="https://www.mozilla.org/about/legal/" role="menuitem" tabindex="-1">Legal</a>
+    </li>
+  </ul>
+</div>
+  </div>
+</header> 
+
+
+<main id="bugzilla-body" tabindex="-1">
+<div id="main-inner"><div id="xhr-error" style="display:none"></div>
+<div id="floating-message" style="display:none">
+  <div id="floating-message-text"></div>
+</div>
+<section class="module"
+>
+  <div class="module-content"
+  >
+  <div id="summary-container">
+    <div class="field indent"
+>
+
+
+  
+    <div class=" container">
+      <div id="field-value-bug_id">Bug 1303739
+      </div>
+    </div>
+
+  
+</div><div class="field indent edit-hide"
+>
+
+
+  
+    <div class=" container">
+      <h1 id="field-value-short_desc">Warn when downloading executable files over HTTP</h1>
+    </div>
+
+  
+</div>
+
+    <div class="field edit-show" id="field-alias" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#alias" id="alias-help-link" class="help">Alias:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-alias">
+        ---
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field edit-show" id="field-short_desc" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#short_desc" id="short_desc-help-link" class="help">Summary:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-short_desc">
+            Warn when downloading executable files over HTTP
+
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field indent edit-hide" id="field-status_summary"
+>
+
+
+  
+    <div class="value">
+        <span id="field-value-status_summary">
+      <b class="bz_status_NEW">NEW
+        
+      </b>
+        <div id="status-assignee">Unassigned
+        </div>
+        </span>
+    </div>
+
+  
+</div>
+  </div>
+
+  
+
+  <div id="mode-container">
+    <div>
+    </div>
+    <div class="button-row">
+      <div class="dropdown">
+        <button type="button" id="action-menu-btn" aria-haspopup="true" aria-label="Actions Menu"
+          aria-expanded="false" aria-controls="action-menu" class="dropdown-button minor">&#9662;</button>
+        <ul class="dropdown-content left" id="action-menu" role="menu" style="display:none;">
+          <li role="presentation">
+            <a id="action-enable-perm-edit" role="menuitemcheckbox" tabindex="-1">Always Enable Edit Mode</a>
+          </li>
+          <li role="separator"></li>
+          <li role="presentation">
+            <a id="action-reset" role="menuitem" tabindex="-1">Reset Sections</a>
+          </li>
+          <li role="presentation">
+            <a id="action-expand-all" role="menuitem" tabindex="-1">Expand All Sections</a>
+          </li>
+          <li role="presentation">
+            <a id="action-collapse-all" role="menuitem" tabindex="-1">Collapse All Sections</a>
+          </li>
+          <li role="separator"></li>
+          <li role="presentation">
+            <a id="action-last-comment" role="menuitem" tabindex="-1">Last Comment</a>
+          </li>
+          <li role="separator"></li>
+          <li role="presentation">
+            <a id="action-history" role="menuitem" tabindex="-1">History</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div id="user-guide">
+      <a title="User guide for Bugzilla" href="https://wiki.mozilla.org/BMO/UserGuide">Get help with this page</a>
+    </div>
+  </div>
+  </div>
+</section>
+
+
+
+<section class="module" id="module-status"
+>
+    <header id="module-status-header" class="module-header">
+      <div class="module-latch"
+           data-label-expanded="Collapse Status section"
+           data-label-collapsed="Expand Status section">
+        <div class="module-spinner" role="button" tabindex="0"
+             aria-controls="module-status-content"
+             aria-expanded="true"
+             aria-labeledby="module-status-title"
+             aria-describedby="module-status-subtitle"></div>
+        <h2 class="module-title" id="module-status-title">Status</h2>
+          <h3 class="module-subtitle" id="module-status-subtitle">
+            (<span id="readable-bug-status" data-readable-bug-status="{&quot;cf_status_firefox68&quot;:&quot;---&quot;,&quot;priority&quot;:&quot;P5&quot;,&quot;cf_status_firefox67_0_5&quot;:&quot;---&quot;,&quot;status&quot;:&quot;NEW&quot;,&quot;cf_fission_milestone&quot;:&quot;---&quot;,&quot;keywords&quot;:[&quot;nightly-community&quot;],&quot;cf_status_firefox69&quot;:&quot;---&quot;,&quot;id&quot;:&quot;1303739&quot;,&quot;cf_status_firefox_esr60&quot;:&quot;---&quot;,&quot;cf_tracking_firefox_esr60&quot;:&quot;---&quot;,&quot;cf_tracking_firefox69&quot;:&quot;---&quot;,&quot;cf_webcompat_priority&quot;:&quot;---&quot;,&quot;flags&quot;:[],&quot;dupe_of&quot;:null,&quot;cf_tracking_firefox67_0_5&quot;:&quot;---&quot;,&quot;cf_tracking_firefox68&quot;:&quot;---&quot;,&quot;cf_tracking_firefox67&quot;:&quot;---&quot;,&quot;cf_tracking_firefox_relnote&quot;:&quot;---&quot;,&quot;cf_status_firefox67&quot;:&quot;---&quot;,&quot;resolution&quot;:&quot;&quot;,&quot;target_milestone&quot;:&quot;---&quot;}"></span>)
+          </h3>
+      </div>
+    </header>
+  <div class="module-content" id="module-status-content"
+  ><div class="fields-lhs">
+
+    <div class="field" id="field-product"
+>
+    <div class="name">
+        <a href="/describecomponents.cgi?product=Firefox" id="product-help-link" class="help">Product:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-product">
+      <div class="name-info-outer dropdown">
+        <span id="product-name" class="dropdown-button" tabindex="0" role="button"
+             aria-haspopup="menu" aria-controls="product-info">Firefox
+          <span class="icon" aria-hidden="true">&#x25BE;</span>
+        </span>
+        <aside id="product-info" class="name-info-popup dropdown-content right hover-display" hidden role="menu"
+               aria-label="Product description and actions">
+          <header>
+            <div class="title">Firefox</div>
+            <div class="description">For bugs in  Firefox Desktop, the Mozilla Foundation's web browser. For Firefox user interface issues in menus, bookmarks, location bar, and preferences. Many Firefox bugs will either be filed here or in the <a href="https://bugzilla.mozilla.org/describecomponents.cgi?product=Core">Core</a> product. Bugs for developer tools (F12) should be filed in the <a href="https://bugzilla.mozilla.org/describecomponents.cgi?product=DevTools">DevTools</a> product.  (<a href="https://wiki.mozilla.org/Modules/All#Firefox">more info</a>)</div>
+          </header>
+          <li role="separator"></li>
+          <div class="actions">
+            <div><a href="/buglist.cgi?product=Firefox&amp;bug_status=__open__"
+                    target="_blank" role="menuitem" tabindex="-1">See Open Bugs in This Product</a></div>
+            <div><a href="/enter_bug.cgi?product=Firefox"
+                    target="_blank" role="menuitem" tabindex="-1">File New Bug in This Product</a></div>
+            <div><button disabled type="button" class="secondary component-watching" role="menuitem" tabindex="-1"
+                         data-product="Firefox"
+                         data-label-watch="Watch This Product" data-label-unwatch="Unwatch This Product"
+                         data-source="BugModal">Watch This Product</button></div>
+          </div>
+        </aside>
+      </div>
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field" id="field-component"
+>
+    <div class="name">
+        <a href="/describecomponents.cgi?product=Firefox&component=Downloads%20Panel#Downloads%20Panel" id="component-help-link" class="help">Component:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-component">
+      <div class="name-info-outer dropdown">
+        <span id="component-name" class="dropdown-button" tabindex="0" role="button"
+             aria-haspopup="menu" aria-controls="component-info">Downloads Panel
+          <span class="icon" aria-hidden="true">&#x25BE;</span>
+        </span>
+        <aside id="component-info" class="name-info-popup dropdown-content right hover-display" hidden role="menu"
+               aria-label="Component description and actions">
+          <header>
+            <div class="title">Firefox :: Downloads Panel</div>
+            <div class="description">For issues with the Downloads Panel, the new download manager of Firefox that lives in the navigation toolbar.</div>
+          </header>
+          <li role="separator"></li>
+          <div class="actions">
+            <div><a href="/buglist.cgi?product=Firefox&amp;component=Downloads%20Panel&amp;bug_status=__open__"
+                    target="_blank" role="menuitem" tabindex="-1">See Open Bugs in This Component</a></div>
+            <div><a href="/enter_bug.cgi?product=Firefox&amp;component=Downloads%20Panel"
+                    target="_blank" role="menuitem" tabindex="-1">File New Bug in This Component</a></div>
+            <div><button disabled type="button" class="secondary component-watching" role="menuitem" tabindex="-1"
+                         data-product="Firefox" data-component="Downloads Panel"
+                         data-label-watch="Watch This Component" data-label-unwatch="Unwatch This Component"
+                         data-source="BugModal">Watch This Component</button></div>
+          </div>
+        </aside>
+      </div>
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field contains-buttons" id="field-bug_type"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#bug_type" id="bug_type-help-link" class="help">Type:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-bug_type">
+      <span class="bug-type-label iconic-text" data-type="defect">
+        <span class="icon" aria-hidden="true"></span>defect</span>
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#priority" id="-help-link" class="help">Importance:
+        </a>
+    </div>
+
+
+  
+    <div class=" container"><div class="field inline" id="field-priority"
+>
+
+
+  
+    <div class="value">
+        <span id="field-value-priority">
+            P5
+
+        </span>
+    </div>
+
+  
+</div><div class="field indent inline" id="field-bug_severity"
+>
+
+
+  
+    <div class="value">
+        <span id="field-value-bug_severity">
+            normal
+
+        </span>
+    </div>
+
+  
+</div>
+    </div>
+
+  
+</div>
+
+    <div class="field edit-hide" id="field-status-view"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugStatuses" id="status-view-help-link" class="help">Status:
+        </a>
+    </div>
+
+
+  
+    <div class=" container">
+        <span id="field-value-status-view">NEW
+        
+        </span>
+    </div>
+
+  
+</div>
+</div><div class="fields-rhs">
+
+    <div class="field" id="field-creation_ts"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#creation_ts" id="creation_ts-help-link" class="help">Opened:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-creation_ts"><span class="rel-time" title="2016-09-19 07:13 PDT" data-time="1474294385">3 years ago</span>
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field" id="field-delta_ts"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#delta_ts" id="delta_ts-help-link" class="help">Updated:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-delta_ts"><span class="rel-time" title="2018-11-07 03:32 PST" data-time="1541590349">7 months ago</span>
+        </span>
+    </div>
+
+  
+</div>
+</div>
+
+  <div class="field edit-show" id="field-status-edit" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugStatuses" id="status-edit-help-link" class="help">Status:
+        </a>
+    </div>
+
+
+  
+    <div class=" container">
+        <span id="field-value-status-edit"><div class="field inline" id="field-bug_status"
+>
+
+
+  
+    <div class="value">
+        <span id="field-value-bug_status">
+            NEW
+
+        </span>
+    </div>
+
+  
+</div><div class="field indent inline" id="field-resolution"
+>
+
+
+  
+    <div class="value">
+        <span id="field-value-resolution">
+        ---
+        </span>
+    </div>
+
+  
+</div>
+    <div id="assigned-container" style="display:none">
+      <button type="button" class="secondary" id="mark-as-assigned-btn">
+        Mark as Assigned
+      </button>
+    </div>
+        </span>
+    </div>
+
+  
+</div>
+  </div>
+</section>
+
+
+
+<section class="module" id="module-people"
+>
+    <header id="module-people-header" class="module-header">
+      <div class="module-latch"
+           data-label-expanded="Collapse People section"
+           data-label-collapsed="Expand People section">
+        <div class="module-spinner" role="button" tabindex="0"
+             aria-controls="module-people-content"
+             aria-expanded="false"
+             aria-labeledby="module-people-title"
+             aria-describedby="module-people-subtitle"></div>
+        <h2 class="module-title" id="module-people-title">People</h2>
+          <h3 class="module-subtitle" id="module-people-subtitle">
+            (Reporter: eldmannen+mozilla, Unassigned)
+          </h3>
+      </div>
+    </header>
+  <div class="module-content" id="module-people-content" style="display:none"
+  ><div class="fields-lhs">
+
+    <div class="field edit-hide" id="field-assigned_to"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#assigned_to" id="assigned_to-help-link" class="help">Assignee:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-assigned_to">
+        <i>Unassigned</i>
+        </span>
+    </div>
+
+  
+</div><div class="field edit-show" id="field-assigned_to" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#assigned_to" id="assigned_to-help-link" class="help">Assignee:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-assigned_to">
+      <div class="set-default-container" style="display:none">
+        <input type="checkbox" id="set-default-assignee" name="set_default_assignee" class="set-default"
+          value="1" data-for="assigned_to">
+        <label for="set-default-assignee">Reset Assignee to default</label>
+      </div>
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field edit-show" id="field-bug_mentors" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#bug_mentor" id="bug_mentors-help-link" class="help">Mentors:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-bug_mentors">---
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field edit-show" id="field-qa_contact" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#qa_contact" id="qa_contact-help-link" class="help">QA Contact:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-qa_contact">
+      <div class="set-default-container" style="display:none">
+        <input type="checkbox" id="set-default-qa-contact" name="set_default_qa_contact" class="set-default"
+          value="1" data-for="qa_contact">
+        <label for="set-default-qa-contact">Reset QA Contact to default</label>
+      </div>
+        </span>
+    </div>
+
+  
+</div>
+</div><div class="fields-rhs">
+
+    <div class="field" id="field-reporter"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#reporter" id="reporter-help-link" class="help">Reporter:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-reporter">
+            <div class="vcard vcard_303902" ><a class="email " href="/user_profile?user_id=303902" > <span class="fna">Eldmannen</span></a>
+</div>
+
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field" id="field-triage_owner"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#triage_owner" id="triage_owner-help-link" class="help">Triage Owner:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-triage_owner">
+            <div class="vcard vcard_240353" ><a class="email " href="/user_profile?user_id=240353" > <span class="fna">Marco Bonardo [::mak]</span></a>
+</div>
+
+        </span>
+    </div>
+
+  
+</div>
+
+    
+
+    <div class="field"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#cc" id="-help-link" class="help">CC:
+        </a>
+    </div>
+
+
+  
+    <div class=" container">
+
+
+        <span aria-owns="cc-summary cc-latch">
+          <span role="button" tabindex="0" id="cc-summary" data-count="23">23 people
+          </span>
+        </span>
+
+
+        <div id="cc-list" style="display:none"></div>
+    </div>
+
+  
+</div>
+</div>
+  </div>
+</section>
+
+
+<section class="module" id="module-tracking"
+>
+    <header id="module-tracking-header" class="module-header">
+      <div class="module-latch"
+           data-label-expanded="Collapse Tracking section"
+           data-label-collapsed="Expand Tracking section">
+        <div class="module-spinner" role="button" tabindex="0"
+             aria-controls="module-tracking-content"
+             aria-expanded="true"
+             aria-labeledby="module-tracking-title"
+             aria-describedby="module-tracking-subtitle"></div>
+        <h2 class="module-title" id="module-tracking-title">Tracking</h2>
+          <h3 class="module-subtitle" id="module-tracking-subtitle">
+            (Blocks 1 bug, {nightly-community})
+          </h3>
+      </div>
+    </header>
+  <div class="module-content" id="module-tracking-content"
+  ><div class="fields-lhs">
+
+    <div class="field" id="field-version"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#version" id="version-help-link" class="help">Version:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-version">
+            48 Branch
+
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field" id="field-target_milestone"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#target_milestone" id="target_milestone-help-link" class="help">Target:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-target_milestone">
+            ---
+
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field edit-show" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#rep_platform" id="-help-link" class="help">Platform:
+        </a>
+    </div>
+
+
+  
+    <div class=" container"><div class="field inline" id="field-rep_platform"
+>
+
+
+  
+    <div class="value">
+        <span id="field-value-rep_platform">
+            All
+
+        </span>
+    </div>
+
+  
+</div><div class="field indent inline" id="field-op_sys"
+>
+
+
+  
+    <div class="value">
+        <span id="field-value-op_sys">
+            All
+
+        </span>
+    </div>
+
+  
+</div><div class="field indent inline"
+>
+
+
+  
+    <div class=" container">
+    </div>
+
+  
+</div>
+    </div>
+
+  
+</div>
+
+    <div class="field" id="field-keywords"
+>
+    <div class="name">
+        <a href="/describekeywords.cgi" id="keywords-help-link" class="help">Keywords:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-keywords">
+          <a href="/buglist.cgi?keywords=nightly-community&amp;resolution=---">nightly-community</a>
+        </span>
+    </div>
+
+  
+</div>
+<div class="field edit-show" id="field-cf_fx_iteration" style="display:none"
+>
+    <div class="name">Iteration:
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-cf_fx_iteration">
+            ---
+
+        </span>
+    </div>
+
+  
+</div>
+<div class="field" id="field-cf_fx_points"
+>
+    <div class="name">Points:
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-cf_fx_points">
+            ---
+
+        </span>
+    </div>
+
+  
+</div>
+
+</div><div class="fields-rhs">
+
+    <div class="field bug-list edit-show" id="field-dependson" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#dependson" id="dependson-help-link" class="help">Depends on:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-dependson">
+        ---
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field bug-list" id="field-blocked"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#blocks" id="blocked-help-link" class="help">Blocks:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-blocked">
+            <div class="bug-list">
+        <span class="bug-type-label iconic" title="task"
+              aria-label="task" data-type="task">
+          <span class="icon" aria-hidden="true"></span>
+        </span><a class="bz_bug_link
+          bz_status_NEW"
+   title="NEW - [META] HTTPS meta bug for Firefox adoption of HTTPS features"
+   href="/show_bug.cgi?id=1335586">https-everything</a>
+      </div>
+
+        </span>
+    </div>
+
+  
+</div>
+<div class="field edit-hide" id="field-dependencytree"
+>
+    <div class="name">
+    </div>
+
+
+  
+    <div class=" container">
+        <span id="field-value-dependencytree">
+        Dependency <a href="/showdependencytree.cgi?id=1303739&amp;hide_resolved=1">tree</a>
+        / <a href="/showdependencygraph.cgi?id=1303739">graph</a>
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field bug-list edit-show" id="field-regresses" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#regresses" id="regresses-help-link" class="help">Regressions:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-regresses">
+        ---
+        </span>
+    </div>
+
+  
+</div><div class="field bug-list edit-show" id="field-regressed_by" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#regressed_by" id="regressed_by-help-link" class="help">Regressed by:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-regressed_by">
+        ---
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field bug-list edit-hide"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#duplicates" id="-help-link" class="help">Duplicates:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+            <div class="bug-list">
+        <span class="bug-type-label iconic" title="defect"
+              aria-label="defect" data-type="defect">
+          <span class="icon" aria-hidden="true"></span>
+        </span><a class="bz_bug_link
+          bz_status_RESOLVED bz_closed"
+   title="RESOLVED DUPLICATE - Warning when downloading executable file over HTTP"
+   href="/show_bug.cgi?id=1189788">1189788</a>, <a class="bz_bug_link
+          bz_status_RESOLVED bz_closed"
+   title="RESOLVED DUPLICATE - [feature request] visual feedback for https site directing user to download .exe over non-https"
+   href="/show_bug.cgi?id=1504403">1504403</a>
+      </div>
+      <div class="bug-list">
+        <span class="bug-type-label iconic" title="enhancement"
+              aria-label="enhancement" data-type="enhancement">
+          <span class="icon" aria-hidden="true"></span>
+        </span><a class="bz_bug_link
+          bz_status_RESOLVED bz_closed"
+   title="RESOLVED DUPLICATE - Add a security warning when downloading from HTTP sites (especially when the initiator page is HTTPS)"
+   href="/show_bug.cgi?id=1444658">1444658</a>
+      </div>
+
+    </div>
+
+  
+</div>
+
+    <div class="field edit-show" id="field-bug_flags" style="display:none"
+>
+    <div class="name">Bug Flags:
+    </div>
+
+
+  
+    <div class=" container">
+        <span id="field-value-bug_flags"><div id="bug-flags" class="flags">
+  <table class="layout-table">
+    <tbody class="edit-show" style="display:none"><tr>
+    <td class="flag-setter">
+    </td>
+
+    <td class="flag-name">
+      <label title="This flag used to ask the accessibility team to look over a bug. Typically used if a bug has the potential to affect accessibility, regresses accessibility, and/or is a new user facing feature." for="flag_type-835">a11y-review</label>
+    </td>
+
+    <td class="flag-value">
+      <input type="hidden" id="flag_type-835-dirty">
+      <select id="flag_type-835" name="flag_type-835"
+        title="This flag used to ask the accessibility team to look over a bug. Typically used if a bug has the potential to affect accessibility, regresses accessibility, and/or is a new user facing feature."
+        class="bug-flag">
+          <option value="X"></option>
+            <option value="?" >?</option>
+            <option value="+" >+</option>
+            <option value="-" >-</option>
+      </select>
+    </td>
+
+
+  </tr><tr>
+    <td class="flag-setter">
+    </td>
+
+    <td class="flag-name">
+      <label title="Is this bug/feature enabled in a release by a pref flag (see https://github.com/mozilla/bug-handling/blob/master/policy/feature-flags.md)?" for="flag_type-930">behind-pref</label>
+    </td>
+
+    <td class="flag-value">
+      <input type="hidden" id="flag_type-930-dirty">
+      <select id="flag_type-930" name="flag_type-930"
+        title="Is this bug/feature enabled in a release by a pref flag (see https://github.com/mozilla/bug-handling/blob/master/policy/feature-flags.md)?"
+        class="bug-flag">
+          <option value="X"></option>
+            <option value="+" >+</option>
+            <option value="-" >-</option>
+      </select>
+    </td>
+
+
+  </tr><tr>
+    <td class="flag-setter">
+    </td>
+
+    <td class="flag-name">
+      <label title="This bug must be fixed for Firefox Sync 1.7" for="flag_type-708">blocking-fx-sync1.7</label>
+    </td>
+
+    <td class="flag-value">
+      <input type="hidden" id="flag_type-708-dirty">
+      <select id="flag_type-708" name="flag_type-708"
+        title="This bug must be fixed for Firefox Sync 1.7"
+        class="bug-flag">
+          <option value="X"></option>
+            <option value="?" >?</option>
+      </select>
+    </td>
+
+
+  </tr><tr>
+    <td class="flag-setter">
+    </td>
+
+    <td class="flag-name">
+      <label title="Flag tracking inclusion in the desktop Firefox product backlog." for="flag_type-846">firefox-backlog</label>
+    </td>
+
+    <td class="flag-value">
+      <input type="hidden" id="flag_type-846-dirty">
+      <select id="flag_type-846" name="flag_type-846"
+        title="Flag tracking inclusion in the desktop Firefox product backlog."
+          disabled
+        class="bug-flag">
+          <option value="X"></option>
+      </select>
+    </td>
+
+
+  </tr><tr>
+    <td class="flag-setter">
+    </td>
+
+    <td class="flag-name">
+      <label title="Used to ask the security team to look over a feature or bug." for="flag_type-791">sec-review</label>
+    </td>
+
+    <td class="flag-value">
+      <input type="hidden" id="flag_type-791-dirty">
+      <select id="flag_type-791" name="flag_type-791"
+        title="Used to ask the security team to look over a feature or bug."
+          disabled
+        class="bug-flag">
+          <option value="X"></option>
+      </select>
+    </td>
+
+      <td class="flag-requestee">
+        <div id="requestee_type-791-container" style="display:none"><input
+    name="requestee_type-791"
+    value="" class="requestee bz_autocomplete_user"  id="requestee_type-791" 
+  >
+        </div>
+      <td>
+
+  </tr><tr>
+    <td class="flag-setter">
+    </td>
+
+    <td class="flag-name">
+      <label title="Flag is used to track security bug bounty nominations. Mail security(at)mozilla.org to nominate a bug." for="flag_type-803">sec-bounty</label>
+    </td>
+
+    <td class="flag-value">
+      <input type="hidden" id="flag_type-803-dirty">
+      <select id="flag_type-803" name="flag_type-803"
+        title="Flag is used to track security bug bounty nominations. Mail security(at)mozilla.org to nominate a bug."
+        class="bug-flag">
+          <option value="X"></option>
+            <option value="?" >?</option>
+      </select>
+    </td>
+
+
+  </tr><tr>
+    <td class="flag-setter">
+    </td>
+
+    <td class="flag-name">
+      <label title="Flag is used to track whether the bug report is eligible for inclusion in the Bug Bounty Hall of Fame." for="flag_type-913">sec-bounty-hof</label>
+    </td>
+
+    <td class="flag-value">
+      <input type="hidden" id="flag_type-913-dirty">
+      <select id="flag_type-913" name="flag_type-913"
+        title="Flag is used to track whether the bug report is eligible for inclusion in the Bug Bounty Hall of Fame."
+          disabled
+        class="bug-flag">
+          <option value="X"></option>
+      </select>
+    </td>
+
+
+  </tr><tr>
+    <td class="flag-setter">
+    </td>
+
+    <td class="flag-name">
+      <label title="Whether the bug has a testcase in the qa test suite or not. Set it to &quot;in-qa-testsuite?&quot; if the bug needs a testcase (only set this if the bug actually *needs* a testcase - not all bugs do, even layout bugs!), set it to &quot;in-qa-testsuite+&quot; if the bug has an appropriate testcase, and set it to &quot;in-qa-testsuite-&quot; if the bug doesn't need an explicit testcase (e.g. for code cleanup bugs). Only QA actively working on test cases in the component should use this keyword." for="flag_type-787">in-qa-testsuite</label>
+    </td>
+
+    <td class="flag-value">
+      <input type="hidden" id="flag_type-787-dirty">
+      <select id="flag_type-787" name="flag_type-787"
+        title="Whether the bug has a testcase in the qa test suite or not. Set it to &quot;in-qa-testsuite?&quot; if the bug needs a testcase (only set this if the bug actually *needs* a testcase - not all bugs do, even layout bugs!), set it to &quot;in-qa-testsuite+&quot; if the bug has an appropriate testcase, and set it to &quot;in-qa-testsuite-&quot; if the bug doesn't need an explicit testcase (e.g. for code cleanup bugs). Only QA actively working on test cases in the component should use this keyword."
+        class="bug-flag">
+          <option value="X"></option>
+            <option value="?" >?</option>
+            <option value="+" >+</option>
+            <option value="-" >-</option>
+      </select>
+    </td>
+
+      <td class="flag-requestee">
+        <div id="requestee_type-787-container" style="display:none"><input
+    name="requestee_type-787"
+    value="" class="requestee bz_autocomplete_user"  id="requestee_type-787" 
+  >
+        </div>
+      <td>
+
+  </tr><tr>
+    <td class="flag-setter">
+    </td>
+
+    <td class="flag-name">
+      <label title="Whether the bug has a testcase in the test suite or not. Set it to &quot;in-testsuite?&quot; if the bug needs a testcase (only set this if the bug actually *needs* a testcase - not all bugs do, even layout bugs!), set it to &quot;in-testsuite+&quot; if the bug has an appropriate testcase, and set it to &quot;in-testsuite-&quot; if the bug doesn't need an explicit testcase (e.g. for code cleanup bugs). Only QA actively working on test cases in the component should use this keyword." for="flag_type-37">in-testsuite</label>
+    </td>
+
+    <td class="flag-value">
+      <input type="hidden" id="flag_type-37-dirty">
+      <select id="flag_type-37" name="flag_type-37"
+        title="Whether the bug has a testcase in the test suite or not. Set it to &quot;in-testsuite?&quot; if the bug needs a testcase (only set this if the bug actually *needs* a testcase - not all bugs do, even layout bugs!), set it to &quot;in-testsuite+&quot; if the bug has an appropriate testcase, and set it to &quot;in-testsuite-&quot; if the bug doesn't need an explicit testcase (e.g. for code cleanup bugs). Only QA actively working on test cases in the component should use this keyword."
+        class="bug-flag">
+          <option value="X"></option>
+            <option value="?" >?</option>
+            <option value="+" >+</option>
+            <option value="-" >-</option>
+      </select>
+    </td>
+
+
+  </tr><tr>
+    <td class="flag-setter">
+    </td>
+
+    <td class="flag-name">
+      <label title="qe-verify: ? ➜ request to assess whether the bug should be tested manually
+qe-verify: + ➜ request to verify the bug manually
+qe-verify: – ➜ the bug will not/can not be verified manually" for="flag_type-864">qe-verify</label>
+    </td>
+
+    <td class="flag-value">
+      <input type="hidden" id="flag_type-864-dirty">
+      <select id="flag_type-864" name="flag_type-864"
+        title="qe-verify: ? ➜ request to assess whether the bug should be tested manually
+qe-verify: + ➜ request to verify the bug manually
+qe-verify: – ➜ the bug will not/can not be verified manually"
+          disabled
+        class="bug-flag">
+          <option value="X"></option>
+      </select>
+    </td>
+
+
+  </tr>
+    </tbody>
+  </table>
+</div>
+        </span>
+    </div>
+
+  
+</div>
+</div>
+  </div>
+</section>
+
+
+  
+<section class="module" id="module-firefox-tracking-flags"
+>
+    <header id="module-firefox-tracking-flags-header" class="module-header">
+      <div class="module-latch"
+           data-label-expanded="Collapse Firefox Tracking Flags section"
+           data-label-collapsed="Expand Firefox Tracking Flags section">
+        <div class="module-spinner" role="button" tabindex="0"
+             aria-controls="module-firefox-tracking-flags-content"
+             aria-expanded="false"
+             aria-labeledby="module-firefox-tracking-flags-title"
+             aria-describedby="module-firefox-tracking-flags-subtitle"></div>
+        <h2 class="module-title" id="module-firefox-tracking-flags-title">Firefox Tracking Flags</h2>
+          <h3 class="module-subtitle" id="module-firefox-tracking-flags-subtitle">
+            (Not tracked)
+          </h3>
+      </div>
+    </header>
+  <div class="module-content" id="module-firefox-tracking-flags-content" style="display:none"
+  ><div class="fields-lhs">
+
+        <p class="edit-hide">
+          This bug is not currently tracked.
+        </p>
+
+        <div class="field edit-show" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide#Tracking_Flags" id="-help-link" class="help">Tracking Flags:
+        </a>
+    </div>
+
+
+  
+    <div class=" container"><div class="flags edit-show" style="display:none">
+  <table class="layout-table tracking-flags">
+      <tr>
+        <th></th>
+        <th>Tracking</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td class="tracking-flag-name">relnote-firefox</td>
+          <td class="tracking-flag-tracking"></td>
+        <td class="tracking-flag-status"><input type="hidden" id="cf_tracking_firefox_relnote-dirty">
+  <select id="cf_tracking_firefox_relnote" name="cf_tracking_firefox_relnote">
+        <option value="---"
+          id="v539_cf_tracking_firefox_relnote" selected
+        >---
+        </option>
+  </select></td>
+      </tr>
+      <tr>
+        <td class="tracking-flag-name">firefox-esr60</td>
+          <td class="tracking-flag-tracking"><input type="hidden" id="cf_tracking_firefox_esr60-dirty">
+  <select id="cf_tracking_firefox_esr60" name="cf_tracking_firefox_esr60">
+        <option value="---"
+          id="v3598_cf_tracking_firefox_esr60" selected
+        >---
+        </option>
+  </select></td>
+        <td class="tracking-flag-status"><input type="hidden" id="cf_status_firefox_esr60-dirty">
+  <select id="cf_status_firefox_esr60" name="cf_status_firefox_esr60">
+        <option value="---"
+          id="v3631_cf_status_firefox_esr60" selected
+        >---
+        </option>
+  </select></td>
+      </tr>
+      <tr>
+        <td class="tracking-flag-name">firefox67</td>
+          <td class="tracking-flag-tracking"><input type="hidden" id="cf_tracking_firefox67-dirty">
+  <select id="cf_tracking_firefox67" name="cf_tracking_firefox67">
+        <option value="---"
+          id="v4186_cf_tracking_firefox67" selected
+        >---
+        </option>
+  </select></td>
+        <td class="tracking-flag-status"><input type="hidden" id="cf_status_firefox67-dirty">
+  <select id="cf_status_firefox67" name="cf_status_firefox67">
+        <option value="---"
+          id="v4191_cf_status_firefox67" selected
+        >---
+        </option>
+  </select></td>
+      </tr>
+      <tr>
+        <td class="tracking-flag-name">firefox67.0.5</td>
+          <td class="tracking-flag-tracking"><input type="hidden" id="cf_tracking_firefox67_0_5-dirty">
+  <select id="cf_tracking_firefox67_0_5" name="cf_tracking_firefox67_0_5">
+        <option value="---"
+          id="v4284_cf_tracking_firefox67_0_5" selected
+        >---
+        </option>
+  </select></td>
+        <td class="tracking-flag-status"><input type="hidden" id="cf_status_firefox67_0_5-dirty">
+  <select id="cf_status_firefox67_0_5" name="cf_status_firefox67_0_5">
+        <option value="---"
+          id="v4298_cf_status_firefox67_0_5" selected
+        >---
+        </option>
+  </select></td>
+      </tr>
+      <tr>
+        <td class="tracking-flag-name">firefox68</td>
+          <td class="tracking-flag-tracking"><input type="hidden" id="cf_tracking_firefox68-dirty">
+  <select id="cf_tracking_firefox68" name="cf_tracking_firefox68">
+        <option value="---"
+          id="v4250_cf_tracking_firefox68" selected
+        >---
+        </option>
+  </select></td>
+        <td class="tracking-flag-status"><input type="hidden" id="cf_status_firefox68-dirty">
+  <select id="cf_status_firefox68" name="cf_status_firefox68">
+        <option value="---"
+          id="v4255_cf_status_firefox68" selected
+        >---
+        </option>
+  </select></td>
+      </tr>
+      <tr>
+        <td class="tracking-flag-name">firefox69</td>
+          <td class="tracking-flag-tracking"><input type="hidden" id="cf_tracking_firefox69-dirty">
+  <select id="cf_tracking_firefox69" name="cf_tracking_firefox69">
+        <option value="---"
+          id="v4321_cf_tracking_firefox69" selected
+        >---
+        </option>
+  </select></td>
+        <td class="tracking-flag-status"><input type="hidden" id="cf_status_firefox69-dirty">
+  <select id="cf_status_firefox69" name="cf_status_firefox69">
+        <option value="---"
+          id="v4326_cf_status_firefox69" selected
+        >---
+        </option>
+  </select></td>
+      </tr>
+  </table>
+</div>
+    </div>
+
+  
+</div>
+</div><div class="fields-rhs">
+
+
+        <div class="field edit-show" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide#Tracking_Flags" id="-help-link" class="help">Project Flags:
+        </a>
+    </div>
+
+
+  
+    <div class=" container"><div class="flags edit-show" style="display:none">
+  <table class="layout-table tracking-flags">
+      <tr>
+        <td class="tracking-flag-name">Webcompat Priority</td>
+        <td class="tracking-flag-status"><input type="hidden" id="cf_webcompat_priority-dirty">
+  <select id="cf_webcompat_priority" name="cf_webcompat_priority">
+        <option value="---"
+          id="v4274_cf_webcompat_priority" selected
+        >---
+        </option>
+  </select></td>
+      </tr>
+      <tr>
+        <td class="tracking-flag-name">Fission Milestone</td>
+        <td class="tracking-flag-status"><input type="hidden" id="cf_fission_milestone-dirty">
+  <select id="cf_fission_milestone" name="cf_fission_milestone">
+        <option value="---"
+          id="v4222_cf_fission_milestone" selected
+        >---
+        </option>
+  </select></td>
+      </tr>
+  </table>
+</div>
+    </div>
+
+  
+</div>
+</div>
+  </div>
+</section>
+
+
+
+<section class="module" id="module-details"
+>
+    <header id="module-details-header" class="module-header">
+      <div class="module-latch"
+           data-label-expanded="Collapse Details section"
+           data-label-collapsed="Expand Details section">
+        <div class="module-spinner" role="button" tabindex="0"
+             aria-controls="module-details-content"
+             aria-expanded="false"
+             aria-labeledby="module-details-title"
+             aria-describedby="module-details-subtitle"></div>
+        <h2 class="module-title" id="module-details-title">Details</h2>
+      </div>
+    </header>
+  <div class="module-content" id="module-details-content" style="display:none"
+  ><div class="fields-lhs">
+
+    <div class="field" id="field-status_whiteboard"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/Whiteboard" id="status_whiteboard-help-link" class="help">Whiteboard:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-status_whiteboard">---
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field" id="field-votes"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#votes" id="votes-help-link" class="help">Votes:
+        </a>
+    </div>
+
+
+  
+    <div class=" container">
+        <span id="field-value-votes">9
+        votes
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field edit-show" id="field-cf_qa_whiteboard" style="display:none"
+>
+    <div class="name">QA Whiteboard:
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-cf_qa_whiteboard">
+        ---
+        </span>
+    </div>
+
+  
+</div><div class="field edit-show" id="field-cf_has_regression_range" style="display:none"
+>
+    <div class="name">Has Regression Range:
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-cf_has_regression_range">
+            ---
+
+        </span>
+    </div>
+
+  
+</div><div class="field" id="field-cf_has_str"
+>
+    <div class="name">Has STR:
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-cf_has_str">
+            yes
+
+        </span>
+    </div>
+
+  
+</div>
+</div><div class="fields-rhs">
+
+    <div class="field edit-show" id="field-bug_file_loc" style="display:none"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#bug_file_loc" id="bug_file_loc-help-link" class="help">URL:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-bug_file_loc"><div class="link">
+    <a href="" target="_blank"
+      rel="noreferrer" title=""
+      class="bug-url" data-safe="0"></a>
+  </div>
+        </span>
+    </div>
+
+  
+</div>
+
+    <div class="field" id="field-see_also"
+>
+    <div class="name">
+        <a href="https://wiki.mozilla.org/BMO/UserGuide/BugFields#see_also" id="see_also-help-link" class="help">See Also:
+        </a>
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-see_also">
+            <div class="link">
+      <a href="https://trac.torproject.org/projects/tor/ticket/22809" title="https://trac.torproject.org/projects/tor/ticket/22809">trac.torproject.org/projects/tor/tick...</a>
+    </div>
+
+        </span>
+    </div>
+
+  
+</div>
+</div>
+
+  <div class="field edit-show" id="field-cf_crash_signature" style="display:none"
+>
+    <div class="name">Crash Signature:
+    </div>
+
+
+  
+    <div class="value">
+        <span id="field-value-cf_crash_signature">
+        </span>
+    </div>
+
+  
+</div>
+  </div>
+</section>
+
+
+<section class="module edit-show" style="display:none" id="module-security"
+>
+    <header id="module-security-header" class="module-header">
+      <div class="module-latch"
+           data-label-expanded="Collapse Security section"
+           data-label-collapsed="Expand Security section">
+        <div class="module-spinner" role="button" tabindex="0"
+             aria-controls="module-security-content"
+             aria-expanded="false"
+             aria-labeledby="module-security-title"
+             aria-describedby="module-security-subtitle"></div>
+        <h2 class="module-title" id="module-security-title">Security</h2>
+          <h3 class="module-subtitle" id="module-security-subtitle">
+            (public)
+          </h3>
+      </div>
+    </header>
+  <div class="module-content" id="module-security-content" style="display:none"
+  ><div class="groups edit-hide">
+    This bug is publicly visible.
+</div>
+
+<div class="groups edit-show" style="display:none">
+
+
+</div>
+  </div>
+</section>
+
+
+<section class="module edit-show" style="display:none" id="module-user-story" data-non-stick="1"
+>
+    <header id="module-user-story-header" class="module-header">
+      <div class="module-latch"
+           data-label-expanded="Collapse User Story section"
+           data-label-collapsed="Expand User Story section">
+        <div class="module-spinner" role="button" tabindex="0"
+             aria-controls="module-user-story-content"
+             aria-expanded="false"
+             aria-labeledby="module-user-story-title"
+             aria-describedby="module-user-story-subtitle"></div>
+        <h2 class="module-title" id="module-user-story-title">User Story</h2>
+      </div>
+    </header>
+  <div class="module-content" id="module-user-story-content" style="display:none"
+  >
+    <pre id="user-story"></pre>
+  </div>
+</section>
+
+
+
+
+
+
+
+<section class="module" id="module-attachments"
+>
+    <header id="module-attachments-header" class="module-header">
+      <div class="module-latch"
+           data-label-expanded="Collapse Attachments section"
+           data-label-collapsed="Expand Attachments section">
+        <div class="module-spinner" role="button" tabindex="0"
+             aria-controls="module-attachments-content"
+             aria-expanded="true"
+             aria-labeledby="module-attachments-title"
+             aria-describedby="module-attachments-subtitle"></div>
+        <h2 class="module-title" id="module-attachments-title">Attachments</h2>
+          <h3 class="module-subtitle" id="module-attachments-subtitle">
+            (2 attachments)
+          </h3>
+      </div>
+    </header>
+  <div class="module-content" id="module-attachments-content"
+  ><table role="table" class="layout-table" id="attachments">
+    <tr class="
+    " >
+      <td class="attach-desc-td">
+        <div class="attach-desc">
+            <a href="/attachment.cgi?id=8792500"
+              title="warning.png"
+              class="lightbox">
+              <img src="/extensions/BugModal/web/image.png" width="16" height="16">warning.png
+            </a>
+        </div>
+        <div>
+            <a href="#c0" class="attach-time activity-ref"><span class="rel-time" title="2016-09-19 07:13 PDT" data-time="1474294385">3 years ago</span></a>
+          <span class="attach-author"><div class="vcard vcard_303902" ><a class="email " href="/user_profile?user_id=303902" > <span class="fna">Eldmannen</span></a>
+</div></span>
+        </div>
+        <div class="attach-info">11.42 KB,
+          image/png        </div>
+      </td>
+      <td>
+      </td>
+      <td class="attach-actions">
+        <a href="/attachment.cgi?id=8792500&amp;action=edit">Details</a>
+    </tr>
+    <tr class="
+    " >
+      <td class="attach-desc-td">
+        <div class="attach-desc">
+            <a href="/attachment.cgi?id=8792508"
+              title="more_warning.png"
+              class="lightbox">
+              <img src="/extensions/BugModal/web/image.png" width="16" height="16">more_warning.png
+            </a>
+        </div>
+        <div>
+            <a href="#c1" class="attach-time activity-ref"><span class="rel-time" title="2016-09-19 07:24 PDT" data-time="1474295070">3 years ago</span></a>
+          <span class="attach-author"><div class="vcard vcard_303902" ><a class="email " href="/user_profile?user_id=303902" > <span class="fna">Eldmannen</span></a>
+</div></span>
+        </div>
+        <div class="attach-info">22.89 KB,
+          image/png        </div>
+      </td>
+      <td>
+      </td>
+      <td class="attach-actions">
+        <a href="/attachment.cgi?id=8792508&amp;action=edit">Details</a>
+    </tr>
+</table>
+
+<div id="attachments-actions">
+</div>
+  </div>
+</section>
+
+
+
+
+
+
+
+<meta name="firefox-versions" content="{&quot;FIREFOX_AURORA&quot;:&quot;&quot;,&quot;FIREFOX_DEVEDITION&quot;:&quot;68.0b9&quot;,&quot;FIREFOX_ESR&quot;:&quot;60.7.0esr&quot;,&quot;FIREFOX_ESR_NEXT&quot;:&quot;&quot;,&quot;FIREFOX_NIGHTLY&quot;:&quot;69.0a1&quot;,&quot;LAST_MERGE_DATE&quot;:&quot;2019-05-20&quot;,&quot;LAST_RELEASE_DATE&quot;:&quot;2019-05-21&quot;,&quot;LAST_SOFTFREEZE_DATE&quot;:&quot;2019-05-13&quot;,&quot;LATEST_FIREFOX_DEVEL_VERSION&quot;:&quot;68.0b9&quot;,&quot;LATEST_FIREFOX_OLDER_VERSION&quot;:&quot;3.6.28&quot;,&quot;LATEST_FIREFOX_RELEASED_DEVEL_VERSION&quot;:&quot;68.0b9&quot;,&quot;LATEST_FIREFOX_VERSION&quot;:&quot;67.0.2&quot;,&quot;NEXT_MERGE_DATE&quot;:&quot;2019-07-08&quot;,&quot;NEXT_RELEASE_DATE&quot;:&quot;2019-07-09&quot;,&quot;NEXT_SOFTFREEZE_DATE&quot;:&quot;2019-07-01&quot;}">
+
+
+<div id="comment-actions">
+    <button type="button" id="bottom-btn" class="secondary">Bottom &darr;</button>
+  <div class="dropdown">
+    <button type="button" id="comment-tags-btn" arai-haspopup="true" aria-label="Tags Menu"
+      aria-expanded="false" aria-controls="comment-tags-menu" class="dropdown-button minor">Tags &#9662;</button>
+    <ul id="comment-tags-menu" role="menu" tabindex="0" class="dropdown-content left" style="display:none">
+      <li role="presentation">
+        <a role="menuitem" tabindex="-1" data-comment-tag="">Reset</a>
+      </li>
+    </ul>
+  </div>
+  <div class="dropdown">
+    <button type="button" id="view-menu-btn" arai-haspopup="true" aria-label="View Menu"
+      aria-expanded="false" aria-controls="view-menu" class="dropdown-button minor">View &#9662;</button>
+    <ul id="view-menu" role="menu" tabindex="0" class="dropdown-content left" style="display:none">
+      <li role="presentation">
+        <a id="view-reset" role="menuitem" tabindex="-1">Reset</a>
+      </li>
+      <li role="separator"></li>
+      <li role="presentation">
+        <a id="view-collapse-all" role="menuitem" tabindex="-1">Collapse All</a>
+      </li>
+      <li role="presentation">
+        <a id="view-expand-all" role="menuitem" tabindex="-1">Expand All</a>
+      </li>
+      <li role="presentation">
+        <a id="view-comments-only" role="menuitem" tabindex="-1">Comments Only</a>
+      </li>
+    </ul>
+   </div>
+</div>
+<div class="change-set" id="c0"><div class="comment" data-id="11719409" data-no="0"
+       data-tags="">
+    
+    <table class="layout-table change-head reporter" id="ch-0">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_303902" ><img src="https://secure.gravatar.com/avatar/e95532f52762e203728f0cace67e2532?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_303902" ><a class="email " href="/user_profile?user_id=303902" > <span class="fna">Eldmannen</span></a>
+</div>
+            <span class="user-role">Reporter</span>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-0"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-0" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c0">Description</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2016-09-19 07:13 PDT" data-time="1474294385">3 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-0">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><div id="att-8792500"
+         class="attachment"
+         data-id="8792500" itemscope itemtype="http://schema.org/MediaObject">
+      <meta itemprop="name" content="warning.png">
+      <meta itemprop="contentSize" content="11699">
+      <meta itemprop="encodingFormat" content="image/png">
+      <div class="label">
+        Posted image
+          <a class="link lightbox" href="attachment.cgi?id=8792500" itemprop="contentUrl">
+        <span id="att-8792500-description" itemprop="description">warning.png</span></a>
+        — <a href="attachment.cgi?id=8792500&amp;action=edit" itemprop="url">Details</a>
+      </div>
+    </div>
+
+  
+    <pre
+        class="comment-text  "
+        id="ct-0" data-comment-id="11719409">User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0
+Build ID: 20160823121617
+
+Steps to reproduce:
+
+Clicked on a hyperlink to download a .exe file that was requested over HTTP.
+
+
+Actual results:
+
+It offer to download it normally.
+
+
+Expected results:
+
+Should display a warning when the user attempts to download a executable file (.exe, .msi, .deb, .rpm) over HTTP.
+
+Since HTTP is not trusted and vulnerable to MITM attacks. This would encourage websites to host files over HTTPS and encourage users to beware.</pre></div><div class="change-set" id="c1"><div class="comment" data-id="11719429" data-no="1"
+       data-tags="">
+    
+    <table class="layout-table change-head reporter" id="ch-1">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_303902" ><img src="https://secure.gravatar.com/avatar/e95532f52762e203728f0cace67e2532?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_303902" ><a class="email " href="/user_profile?user_id=303902" > <span class="fna">Eldmannen</span></a>
+</div>
+            <span class="user-role">Reporter</span>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-1"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-1" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c1">Comment 1</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2016-09-19 07:24 PDT" data-time="1474295070">3 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-1">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><div id="att-8792508"
+         class="attachment"
+         data-id="8792508" itemscope itemtype="http://schema.org/MediaObject">
+      <meta itemprop="name" content="more_warning.png">
+      <meta itemprop="contentSize" content="23438">
+      <meta itemprop="encodingFormat" content="image/png">
+      <div class="label">
+        Posted image
+          <a class="link lightbox" href="attachment.cgi?id=8792508" itemprop="contentUrl">
+        <span id="att-8792508-description" itemprop="description">more_warning.png</span></a>
+        — <a href="attachment.cgi?id=8792508&amp;action=edit" itemprop="url">Details</a>
+      </div>
+    </div>
+
+  
+    <pre
+        class="comment-text  "
+        id="ct-1" data-comment-id="11719429">Mock up illustration of potential design for warning.</pre></div><div class="change-set" id="a776_303902"><div class="change" id="aa776_303902">
+    <table class="layout-table change-head reporter">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_303902" id="a776_303902"><img src="https://secure.gravatar.com/avatar/e95532f52762e203728f0cace67e2532?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+        <td class="change-author"><div class="vcard vcard_303902" id="a776_303902"><a class="email " href="/user_profile?user_id=303902" > <span class="fna">Eldmannen</span></a>
+</div>
+            <span class="user-role">Reporter</span>
+        </td>
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="as-a776_303902"
+                  title="Collapse this change" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this change",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this change" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+      <tr id="ar-a776_303902">
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#a776_303902">Updated</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2016-09-19 07:26 PDT" data-time="1474295161">3 years ago</span>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div><div class="activity"><div class="change">OS: Unspecified &rarr; All</div><div class="change">Hardware: Unspecified &rarr; All</div></div></div><div class="change-set" id="a3524_337567"><div class="change" id="aa3524_337567">
+    <table class="layout-table change-head ">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_337567" id="a3524_337567"><img src="https://secure.gravatar.com/avatar/2428b7c7c861741c7f1f60033a9bb0f0?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+        <td class="change-author"><div class="vcard vcard_337567" id="a3524_337567"><a class="email " href="/user_profile?user_id=337567" > <span class="fna">Loic</span></a>
+</div>
+        </td>
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="as-a3524_337567"
+                  title="Collapse this change" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this change",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this change" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+      <tr id="ar-a3524_337567">
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#a3524_337567">Updated</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2016-09-19 08:11 PDT" data-time="1474297909">3 years ago</span>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div><div class="activity"><div class="change">Component: Untriaged &rarr; Notifications and Alerts</div><div class="change">Product: Firefox &rarr; Toolkit</div></div></div><div class="change-set" id="a18264975_305228"><div class="change" id="aa18264975_305228">
+    <table class="layout-table change-head ">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_305228" id="a18264975_305228"><img src="https://secure.gravatar.com/avatar/09411166c9762956b3dc90a33312c38b?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+        <td class="change-author"><div class="vcard vcard_305228" id="a18264975_305228"><a class="email " href="/user_profile?user_id=305228" > <span class="fna">Matthew N. [:MattN] (PM me if requests are blocking you)</span></a>
+</div>
+        </td>
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="as-a18264975_305228"
+                  title="Collapse this change" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this change",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this change" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+      <tr id="ar-a18264975_305228">
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#a18264975_305228">Updated</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-04-18 16:49 PDT" data-time="1492559360">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div><div class="activity"><div class="change">Component: Notifications and Alerts &rarr; Security</div><div class="change">Product: Toolkit &rarr; Firefox</div></div></div><div class="change-set" id="a18309909_398515"><div class="change" id="aa18309909_398515">
+    <table class="layout-table change-head ">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_398515" id="a18309909_398515"><img src="https://secure.gravatar.com/avatar/517197190f6f8901f3280331772c3d41?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+        <td class="change-author"><div class="vcard vcard_398515" id="a18309909_398515"><a class="email " href="/user_profile?user_id=398515" > <span class="fna">YF (Yang)</span></a>
+</div>
+        </td>
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="as-a18309909_398515"
+                  title="Collapse this change" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this change",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this change" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+      <tr id="ar-a18309909_398515">
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#a18309909_398515">Updated</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-04-19 05:18 PDT" data-time="1492604294">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div><div class="activity"><div class="change">Status: UNCONFIRMED &rarr; NEW</div><div class="change">Ever confirmed: true</div></div></div><div class="change-set" id="c2"><div class="comment" data-id="12445616" data-no="2"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-2">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_492209" id="a18309909_398515"><img src="https://secure.gravatar.com/avatar/5a6aa7126a2a1671fc57c774ca04dad4?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_492209" id="a18309909_398515"><a class="email " href="/user_profile?user_id=492209" > <span class="fna">Fabio Pietrosanti (naif)</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-2"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-2" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c2">Comment 2</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-04 00:45 PDT" data-time="1499154346">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-2">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-2" data-comment-id="12445616">It's critical that Browser vendor protect end-users against irresponsible software distribution of executable over HTTP subject to MITM attacks in 2017.
+
+Steps to reproduce the problem:
+1. Open www.videolan.org website that's in HTTP in clear
+2. Click download and follow one of their mirror in HTTP
+3. Starts downloading executable
+
+What is the expected behaviour?
+Chrome should prevent e provide a big alert windows users that downloading executable files over an insecure channel like HTTP can be subject to man in the middle attacks, regardless of the digital signing of the .exe file (that would be substituted by the attacker).
+
+What went wrong?
+Considering the HTTPS deployment strategy of Chrome that now provide warning against mixed HTTPS/HTTP content and warn of providing password over HTTP in clear, it would be a reasonable moves going in the same direction to provide security warning for download of executable codes over insecure HTTP to prevent malware injection attacks.</pre></div><div class="change-set" id="c3"><div class="comment" data-id="12445622" data-no="3"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-3">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_492209" id="a18309909_398515"><img src="https://secure.gravatar.com/avatar/5a6aa7126a2a1671fc57c774ca04dad4?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_492209" id="a18309909_398515"><a class="email " href="/user_profile?user_id=492209" > <span class="fna">Fabio Pietrosanti (naif)</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-3"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-3" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c3">Comment 3</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-04 00:49 PDT" data-time="1499154569">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-3">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-3" data-comment-id="12445622">ooops, sorry for copy and paste, opened the very same ticket to Chromium bugtracker and didn't sed /Chrome/Firefox</pre></div><div class="change-set" id="a24860306_398515"><div class="change" id="aa24860306_398515">
+    <table class="layout-table change-head ">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_398515" id="a24860306_398515"><img src="https://secure.gravatar.com/avatar/517197190f6f8901f3280331772c3d41?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+        <td class="change-author"><div class="vcard vcard_398515" id="a24860306_398515"><a class="email " href="/user_profile?user_id=398515" > <span class="fna">YF (Yang)</span></a>
+</div>
+        </td>
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="as-a24860306_398515"
+                  title="Collapse this change" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this change",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this change" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+      <tr id="ar-a24860306_398515">
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#a24860306_398515">Updated</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-04 00:51 PDT" data-time="1499154691">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div><div class="activity"><div class="change">Component: Security &rarr; Downloads API</div><div class="change">Product: Firefox &rarr; Toolkit</div></div></div><div class="change-set" id="c4"><div class="comment" data-id="12445846" data-no="4"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-4">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_492209" id="a24860306_398515"><img src="https://secure.gravatar.com/avatar/5a6aa7126a2a1671fc57c774ca04dad4?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_492209" id="a24860306_398515"><a class="email " href="/user_profile?user_id=492209" > <span class="fna">Fabio Pietrosanti (naif)</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-4"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-4" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c4">Comment 4</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-04 02:37 PDT" data-time="1499161044">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-4">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-4" data-comment-id="12445846">Also cross-linked on Tor Project for Tor Browser:
+Tor Browser does not provide red security warning for downloading executable in HTTP <a rel="nofollow" href="https://trac.torproject.org/projects/tor/ticket/22809">https://trac.torproject.org/projects/tor/ticket/22809</a>
+
+Hopefully a cooperation would make this work out in a relatively quick way.</pre></div><div class="change-set" id="c5"><div class="comment" data-id="12445851" data-no="5"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-5">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_151994" id="a24860306_398515"><img src="https://secure.gravatar.com/avatar/290e868e00e8429bf1624a461b8ef81e?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_151994" id="a24860306_398515"><a class="email " href="/user_profile?user_id=151994" > <span class="fna">Giorgio Maone [:mao]</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-5"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-5" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c5">Comment 5</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-04 02:43 PDT" data-time="1499161390">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-5">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-5" data-comment-id="12445851">Please notice that many projects, including some very sensitive to privacy and security such as Tails, adopt alternate measures (e.g. more or less automated hash verification at the end of the download) to validate the integrity of their downloads and still allow a flexible deployment model including insecure mirrors.
+However in this age of free certificates (Let's Encrypt), encouraging HTTPS everywhere makes much sense, even though the effectiveness of a warning at the bottom of the download prompt is debatable.
+
+Putting in CC :dvetitz and :gerv, who might want to have a say in this matter.</pre></div><div class="change-set" id="c6"><div class="comment" data-id="12445861" data-no="6"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-6">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_492209" id="a24860306_398515"><img src="https://secure.gravatar.com/avatar/5a6aa7126a2a1671fc57c774ca04dad4?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_492209" id="a24860306_398515"><a class="email " href="/user_profile?user_id=492209" > <span class="fna">Fabio Pietrosanti (naif)</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-6"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-6" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c6">Comment 6</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-04 02:51 PDT" data-time="1499161871">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-6">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-6" data-comment-id="12445861">Thanks for putting in CC interested people, i don't know well the mozilla security community.
+
+While i understand and acknowledge the usefulness of manual hash verification at the end of download for Security Sensitive software such as Tails used by Security Aware persons, the main issues i perceive is that massively used software such as VLC (2.3 billion downloads) are being downloaded from HTTP in clear-text from non-security-aware users just following click-next-click procedures.
+
+I would prevent downloading of executable from HTTP clear-text as a default security settings, but i understand that it would break a certain amount of situations.
+
+Assuming that software distribution of installers over HTTP in clear in 2017 is an unacceptable security risks due to MITM attacks to inject malware (by governments or criminals), i think that would be a reasonable security measure to be put in place.
+
+Reasonable in the same way it's reasonable to warn the uses of logging in with a password in HTTP in clear-text.</pre></div><div class="change-set" id="c7"><div class="comment" data-id="12445928" data-no="7"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-7">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_437881" id="a24860306_398515"><img src="https://secure.gravatar.com/avatar/f22582f2b885055d2201e1733297ec7e?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_437881" id="a24860306_398515"><a class="email " href="/user_profile?user_id=437881" > <span class="fna">Daniele &quot;Mte90&quot; Scasciafratte</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-7"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-7" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c7">Comment 7</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-04 03:41 PDT" data-time="1499164887">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-7">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-7" data-comment-id="12445928">Actually Firefox provide an alert for HTTP only on form where is the a password field and created issue with many users that was thinking that the website was not secure.
+
+So I think that the first step is to create a mockup in the download view where firefox ask the path to save the file with a text that explain the issue in a simple way.
+
+I don't think that is difficult to implement but will be helpful for alert about MITM attack or inform users that is better to use HTTPS.
+
+We need to forget that one of the most reason for users to use Firefox is privacy and safety and we need to inform them.</pre></div><div class="change-set" id="c8"><div class="comment" data-id="12448087" data-no="8"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-8">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_492209" id="a24860306_398515"><img src="https://secure.gravatar.com/avatar/5a6aa7126a2a1671fc57c774ca04dad4?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_492209" id="a24860306_398515"><a class="email " href="/user_profile?user_id=492209" > <span class="fna">Fabio Pietrosanti (naif)</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-8"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-8" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c8">Comment 8</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-05 05:39 PDT" data-time="1499258375">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-8">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-8" data-comment-id="12448087">Having the same conversation also on Tor Project TorBrowser link <a rel="nofollow" href="https://trac.torproject.org/projects/tor/ticket/22809">https://trac.torproject.org/projects/tor/ticket/22809</a>
+
+The definition of executable could be:
+&quot;any installer file that can be directly executed on the target machine&quot;
+
+By having a feature like that in Firefox we will foresee a *huge* increase in software distribution security worldwide.
+
+Especially this feature would bring a complete take-down to Infection Appliance provided by Surveillance companies such as HackingTeam and Finfisher (see ​<a rel="nofollow" href="https://twitter.com/botherder/status/882243803448561665">https://twitter.com/botherder/status/882243803448561665</a> ) that works by substituting executable files on the file in HTTP.</pre></div><div class="change-set" id="c9"><div class="comment" data-id="12448094" data-no="9"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-9">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_9911" id="a24860306_398515"><img src="https://secure.gravatar.com/avatar/559c3cf31c98a95b23421186b78df500?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_9911" id="a24860306_398515"><a class="email disabled" href="/user_profile?user_id=9911" > <span class="fna">Gervase Markham [:gerv] (not reading bugmail)</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-9"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-9" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c9">Comment 9</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-05 05:46 PDT" data-time="1499258763">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-9">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-9" data-comment-id="12448094">As a UX question, this should probably be in the Firefox product.
+
+I see the problem you are raising; the trouble is that we will be putting warnings in front of millions and millions of users to save a small handful. Perhaps our UX team can come up with a better way.
+
+Another option would be to push again on getting Subresource Integrity specced for &lt;a&gt; elements:
+<a rel="nofollow" href="https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity">https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity</a>
+
+This seems like the direction people are moving in to fix this, but there's spec work that needs to be done. At the time it was initially defined, they said &quot;&lt;a&gt; is a bit complicated; we'll do that in v2&quot;, but it could be that it's all stalled.
+
+Gerv</pre><div class="activity"><div class="change">Component: Downloads API &rarr; Downloads Panel</div><div class="change">Product: Toolkit &rarr; Firefox</div></div></div><div class="change-set" id="c10"><div class="comment" data-id="12448099" data-no="10"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-10">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_9911" id="a24860306_398515"><img src="https://secure.gravatar.com/avatar/559c3cf31c98a95b23421186b78df500?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_9911" id="a24860306_398515"><a class="email disabled" href="/user_profile?user_id=9911" > <span class="fna">Gervase Markham [:gerv] (not reading bugmail)</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-10"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-10" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c10">Comment 10</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-05 05:48 PDT" data-time="1499258902">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-10">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-10" data-comment-id="12448099"><a rel="nofollow" href="https://lists.w3.org/Archives/Public/public-webappsec/2017May/0003.html">https://lists.w3.org/Archives/Public/public-webappsec/2017May/0003.html</a>
+
+Looks like it's still an idea, but no-one seems to be working on it right now.
+
+Gerv</pre></div><div class="change-set" id="c11"><div class="comment" data-id="12448123" data-no="11"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-11">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_492209" id="a24860306_398515"><img src="https://secure.gravatar.com/avatar/5a6aa7126a2a1671fc57c774ca04dad4?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_492209" id="a24860306_398515"><a class="email " href="/user_profile?user_id=492209" > <span class="fna">Fabio Pietrosanti (naif)</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-11"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-11" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c11">Comment 11</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-05 05:54 PDT" data-time="1499259288">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-11">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-11" data-comment-id="12448123">I feel that as we come up with a security warning that's done as a copy-paste to the invalid/expired/wrong TLS/certificates one.
+
+End-users will be informed of the security risks and be able to go forward downloading it if they really understand/knows what they area doing, but the entity doing the software distribution will upgrade it's URL to HTTPS in relatively small amount of time.
+
+Today upgrading to HTTPS is cheap, HTTP-&gt;HTTPS is about +2% CPU costs and actually with LetsEncrypt certificates are free and easy to be setup with apache/nginx integrated utilities.
+
+I see this security improvement so beneficial that i'm willing to put efforts in terms of work and fundraising for that, for the great positive impact it will have worldwide! :-)</pre></div><div class="change-set" id="a24965449_398515"><div class="change" id="aa24965449_398515">
+    <table class="layout-table change-head ">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_398515" id="a24965449_398515"><img src="https://secure.gravatar.com/avatar/517197190f6f8901f3280331772c3d41?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+        <td class="change-author"><div class="vcard vcard_398515" id="a24965449_398515"><a class="email " href="/user_profile?user_id=398515" > <span class="fna">YF (Yang)</span></a>
+</div>
+        </td>
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="as-a24965449_398515"
+                  title="Collapse this change" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this change",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this change" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+      <tr id="ar-a24965449_398515">
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#a24965449_398515">Updated</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-05 06:03 PDT" data-time="1499259834">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div><div class="activity"><div class="change">See Also:  &rarr; <a href="https://trac.torproject.org/projects/tor/ticket/22809" target="_blank" rel="noreferrer">https://trac.torproject.org/projects/tor/ticket/22809</a></div></div></div><div class="change-set" id="a26076794_332229"><div class="change" id="aa26076794_332229">
+    <table class="layout-table change-head ">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_332229" id="a26076794_332229"><img src="https://secure.gravatar.com/avatar/e82ffe2e71c55a4c18728b908c0f263e?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+        <td class="change-author"><div class="vcard vcard_332229" id="a26076794_332229"><a class="email " href="/user_profile?user_id=332229" > <span class="fna">:Paolo Amadini</span></a>
+</div>
+        </td>
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="as-a26076794_332229"
+                  title="Collapse this change" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this change",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this change" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+      <tr id="ar-a26076794_332229">
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#a26076794_332229">Updated</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2017-07-18 02:46 PDT" data-time="1500371179">2 years ago</span>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div><div class="activity"><div class="change">Priority: -- &rarr; P5</div></div></div><div class="change-set" id="c12"><div class="comment" data-id="12967353" data-no="12"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-12">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_492209" id="a26076794_332229"><img src="https://secure.gravatar.com/avatar/5a6aa7126a2a1671fc57c774ca04dad4?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_492209" id="a26076794_332229"><a class="email " href="/user_profile?user_id=492209" > <span class="fna">Fabio Pietrosanti (naif)</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-12"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-12" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c12">Comment 12</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2018-01-14 03:54 PST" data-time="1515930854">Last year</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-12">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-12" data-comment-id="12967353">This kind of security issues is now actively being exploited by Turla Russian APT Group:
+<a rel="nofollow" href="https://www.darkreading.com/attacks-breaches/turla-cyberespionage-gang-employs-adobe-flash-installer/d/d-id/1330788">https://www.darkreading.com/attacks-breaches/turla-cyberespionage-gang-employs-adobe-flash-installer/d/d-id/1330788</a>
+
+I updated the tickets to achieve that specific improvement also on Google Chromium and Tor issues trackers:
+<a rel="nofollow" href="https://bugs.chromium.org/p/chromium/issues/detail?id=739090">https://bugs.chromium.org/p/chromium/issues/detail?id=739090</a>
+<a rel="nofollow" href="https://trac.torproject.org/projects/tor/ticket/22809#comment:4">https://trac.torproject.org/projects/tor/ticket/22809#comment:4</a></pre></div><div class="change-set" id="c13"><div class="comment" data-id="12983331" data-no="13"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-13">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_580271" id="a26076794_332229"><img src="https://secure.gravatar.com/avatar/e12a0c76ff10ff7d26082cf12ac4e9d0?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_580271" id="a26076794_332229"><a class="email " href="/user_profile?user_id=580271" > <span class="fna">Jan Andre Ikenmeyer [:darkspirit]</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-13"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-13" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c13">Comment 13</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2018-01-20 05:53 PST" data-time="1516456431">Last year</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-13">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-13" data-comment-id="12983331">We are not talking about a JPG, but about an executable that probably will be run as admin: One is warned about an insecure password form (<a rel="nofollow" href="https://goo.gl/fkomLb">https://goo.gl/fkomLb</a>), but not about being one step away from beheading oneself?
+
+If I google &quot;Flash player download&quot;, the second result is the well-known german computer magazine CHIP:
+<a rel="nofollow" href="http://www.chip.de/downloads/Adobe-Flash-Player_13003561.html">http://www.chip.de/downloads/Adobe-Flash-Player_13003561.html</a>
+The exe will be downloaded via http:
+<a rel="nofollow" href="http://dl.cdn.chip.de/downloads/60718/FP_win_28137.zip?cid=54382746&amp;platform=chip&amp;1516455285-1516462785-1a1d-B-a92cc5029a072343cb5fe7444f4c1ea0">http://dl.cdn.chip.de/downloads/60718/FP_win_28137.zip?cid=54382746&amp;platform=chip&amp;1516455285-1516462785-1a1d-B-a92cc5029a072343cb5fe7444f4c1ea0</a>
+(<a rel="nofollow" href="https://dl.cdn.chip.de">https://dl.cdn.chip.de</a> = SSL_ERROR_BAD_CERT_DOMAIN, Akamai)
+There wasn't any broken padlock, for example. There is no incentive for CHIP to switch to https at the moment. :/</pre><div class="activity"><div class="change">Blocks: <a class="bz_bug_link
+          bz_status_NEW"
+   title="NEW - [META] HTTPS meta bug for Firefox adoption of HTTPS features"
+   href="/show_bug.cgi?id=1335586">https-everything</a></div><div class="change">Has STR: --- &rarr; yes</div><div class="change">Keywords: <a href="/buglist.cgi?keywords=nightly-community&amp;resolution=---">nightly-community</a></div></div></div><div class="change-set" id="c14"><div class="comment" data-id="13116562" data-no="14"
+       data-tags="">
+    
+    <table class="layout-table change-head " id="ch-14">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_492209" id="a26076794_332229"><img src="https://secure.gravatar.com/avatar/5a6aa7126a2a1671fc57c774ca04dad4?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+
+        <td class="change-author"><div class="vcard vcard_492209" id="a26076794_332229"><a class="email " href="/user_profile?user_id=492209" > <span class="fna">Fabio Pietrosanti (naif)</span></a>
+</div>
+        </td>
+
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="cs-14"
+                  title="Collapse this comment" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this comment",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this comment" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+
+      <tr id="cr-14" >
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#c14">Comment 14</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2018-03-09 04:17 PST" data-time="1520597871">Last year</span>
+          </div>
+        </td>
+      </tr>
+
+      <tr id="ctag-14">
+        <td colspan="2" class="comment-tags">
+        </td>
+      </tr>
+    </table>
+
+    
+  </div><pre
+        class="comment-text  "
+        id="ct-14" data-comment-id="13116562">When software does not provide full HTTPS delivery chain, people can die.
+
+Please let's close this loop-hope by preventing download of executable over HTTP in clear-text.
+
+<a rel="nofollow" href="https://citizenlab.ca/2018/03/bad-traffic-sandvines-packetlogic-devices-deploy-government-spyware-turkey-syria/">https://citizenlab.ca/2018/03/bad-traffic-sandvines-packetlogic-devices-deploy-government-spyware-turkey-syria/</a></pre></div><div class="change-set" id="a46510832_563455"><div class="change" id="aa46510832_563455">
+    <table class="layout-table change-head ">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_563455" id="a46510832_563455"><img src="https://secure.gravatar.com/avatar/749d8b51639f910e7030c4c50cbc17bb?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+        <td class="change-author"><div class="vcard vcard_563455" id="a46510832_563455"><a class="email " href="/user_profile?user_id=563455" > <span class="fna">Jonathan Kingston [:jkt]</span></a>
+</div>
+        </td>
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="as-a46510832_563455"
+                  title="Collapse this change" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this change",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this change" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+      <tr id="ar-a46510832_563455">
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#a46510832_563455">Updated</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2018-03-11 14:53 PDT" data-time="1520805217">Last year</span>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div><div class="activity"><div class="change">Duplicate of this bug: <a class="bz_bug_link
+          bz_status_RESOLVED bz_closed"
+   title="RESOLVED DUPLICATE - Add a security warning when downloading from HTTP sites (especially when the initiator page is HTTPS)"
+   href="/show_bug.cgi?id=1444658">1444658</a></div></div></div><div class="change-set" id="a55043813_159069"><div class="change" id="aa55043813_159069">
+    <table class="layout-table change-head ">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_159069" id="a55043813_159069"><img src="https://secure.gravatar.com/avatar/66445733c06687eafa2978764675104f?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+        <td class="change-author"><div class="vcard vcard_159069" id="a55043813_159069"><a class="email " href="/user_profile?user_id=159069" > <span class="fna">:Gijs (he/him)</span></a>
+</div>
+        </td>
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="as-a55043813_159069"
+                  title="Collapse this change" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this change",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this change" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+      <tr id="ar-a55043813_159069">
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#a55043813_159069">Updated</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2018-06-18 09:09 PDT" data-time="1529338198">Last year</span>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div><div class="activity"><div class="change">Duplicate of this bug: <a class="bz_bug_link
+          bz_status_RESOLVED bz_closed"
+   title="RESOLVED DUPLICATE - Warning when downloading executable file over HTTP"
+   href="/show_bug.cgi?id=1189788">1189788</a></div></div></div><div class="change-set" id="a67295964_615351"><div class="change" id="aa67295964_615351">
+    <table class="layout-table change-head ">
+      <tr>
+        <td rowspan="2" class="change-gravatar"><div class="vcard vcard_615351" id="a67295964_615351"><img src="https://secure.gravatar.com/avatar/f6140ae0a34c4709c3ca3074c67c4e05?d=mm&size=64" class="gravatar" width="32" height="32">
+</div>
+        </td>
+        <td class="change-author"><div class="vcard vcard_615351" id="a67295964_615351"><a class="email " href="/user_profile?user_id=615351" > <span class="fna">Rares Doghi</span></a>
+</div>
+        </td>
+        <td rowspan="2" class="comment-actions"><div role="group">
+          <button type="button" class="change-spinner minor iconic" id="as-a67295964_615351"
+                  title="Collapse this change" aria-label="Collapse" aria-expanded="true"
+                  data-strings='{ "collapse_label": "Collapse", "collapse_tooltip": "Collapse this change",
+                                  "expand_label": "Expanded", "expand_tooltip": "Expanded this change" }'>
+            <span class="icon" aria-hidden="true"></span>
+          </button>
+        </div></td>
+      </tr>
+      <tr id="ar-a67295964_615351">
+        <td>
+          <h3 class="change-name">
+            <a href="/show_bug.cgi?id=1303739#a67295964_615351">Updated</a>
+          </h3>
+          &bull;
+          <div class="change-time"><span class="rel-time" title="2018-11-07 03:32 PST" data-time="1541590349">7 months ago</span>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div><div class="activity"><div class="change">Duplicate of this bug: <a class="bz_bug_link
+          bz_status_RESOLVED bz_closed"
+   title="RESOLVED DUPLICATE - [feature request] visual feedback for https site directing user to download .exe over non-https"
+   href="/show_bug.cgi?id=1504403">1504403</a></div></div></div><div id="new-comment-notice">
+          You need to <a href="/show_bug.cgi?id=1303739&amp;GoAheadAndLogIn=1">log in</a>
+          before you can comment on or make changes to this bug.
+        </div>
+
+
+
+<div id="bottom-actions">
+  <div id="bottom-right-actions">
+    <button type="button" id="top-btn" class="secondary">Top &uarr;</button>
+    <div class="dropdown">
+      <button type="button" id="format-btn" aria-haspopup="true" aria-label="Format Bug Menu"
+        aria-expanded="false" aria-controls="format-menu" class="dropdown-button minor">Format Bug &#9652;</button>
+      <ul class="dropdown-content left menu-up" id="format-menu" role="menu" style="display:none;">
+        <li role="presentation">
+          <a href="/show_bug.cgi?ctype=xml&amp;id=1303739" role="menuitem" tabindex="-1">XML</a>
+        </li>
+          <li role="presentation">
+            <a href="/rest/bug/1303739" role="menuitem" tabindex="-1">JSON</a>
+          </li>
+      </ul>
+    </div>
+  </div>
+</div></div> 
+</main> 
+</div> 
+
+
+</body>
+</html>

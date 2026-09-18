@@ -1,0 +1,470 @@
+GitHub - fpietrosanti/kaspersky-risks: Risk Evaluation of Kaspersky related Risk, if subject to Coercion by Russian Government for Intelligence and Military Purposes 
+
+ Skip to content 
+
+ Toggle navigation 
+
+ Sign up
+
+ Product
+
+ Actions
+
+ Automate any workflow
+
+ Packages
+
+ Host and manage packages
+
+ Security
+
+ Find and fix vulnerabilities
+
+ Codespaces
+
+ Instant dev environments
+
+ Copilot
+
+ Write better code with AI
+
+ Code review
+
+ Manage code changes
+
+ Issues
+
+ Plan and track work
+
+ Discussions
+
+ Collaborate outside of code
+
+ Explore
+
+ All features
+
+ Documentation
+
+ GitHub Skills
+
+ Blog
+
+ Solutions
+
+ For
+
+ Enterprise
+
+ Teams
+
+ Startups
+
+ Education
+
+ By Solution
+
+ CI/CD & Automation
+
+ DevOps
+
+ DevSecOps
+
+ Case Studies
+
+ Customer Stories
+
+ Resources
+
+ Open Source
+
+ GitHub Sponsors
+
+ Fund open source developers
+
+ The ReadME Project
+
+ GitHub community articles
+
+ Repositories
+
+ Topics
+
+ Trending
+
+ Collections
+
+ Pricing 
+
+ --> 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ No suggested jump to results 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ In this user
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ Sign in
+
+ Sign up
+
+ {{ message }}
+
+ fpietrosanti 
+
+ / 
+
+ kaspersky-risks 
+
+ Public 
+
+ Notifications
+
+ Fork
+ 0 
+
+ Star
+ 7 
+
+ Risk Evaluation of Kaspersky related Risk, if subject to Coercion by Russian Government for Intelligence and Military Purposes
+
+ 7 
+ stars
+
+ 0 
+ forks
+
+ Star
+
+ Notifications
+
+ Code 
+
+ Issues 
+ 0 
+
+ Pull requests 
+ 0 
+
+ Actions 
+
+ Projects 
+ 0 
+
+ Security 
+
+ Insights 
+
+ More 
+
+ Code
+
+ Issues
+
+ Pull requests
+
+ Actions
+
+ Projects
+
+ Security
+
+ Insights
+
+ fpietrosanti/kaspersky-risks
+
+ This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+ main 
+
+ Switch branches/tags 
+
+ Branches 
+ Tags 
+
+ Could not load branches
+
+ Nothing to show
+
+ {{ refName }} 
+ default 
+
+ View all branches 
+
+ Could not load tags
+
+ Nothing to show
+
+ {{ refName }} 
+ default 
+
+ View all tags 
+
+ Name already in use
+
+ A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+ Cancel
+
+ Create
+
+ 1 
+ branch 
+
+ 0 
+ tags 
+
+ Code 
+
+ Local 
+
+ Codespaces 
+
+ Clone
+
+ HTTPS
+
+ GitHub CLI
+
+ Use Git or checkout with SVN using the web URL.
+
+ Work fast with our official CLI.
+ Learn more .
+
+ Open with GitHub Desktop
+
+ Download ZIP
+
+ Sign In Required
+
+ Please
+ sign in 
+ to use Codespaces.
+
+ Launching GitHub Desktop 
+
+ If nothing happens, download GitHub Desktop and try again.
+
+ Launching GitHub Desktop 
+
+ If nothing happens, download GitHub Desktop and try again.
+
+ Launching Xcode 
+
+ If nothing happens, download Xcode and try again.
+
+ Launching Visual Studio Code 
+
+ Your codespace will open once ready.
+
+ There was a problem preparing your codespace, please try again.
+
+ Latest commit
+
+ fpietrosanti 
+
+ Update README.md 
+
+ …
+
+ e548563
+
+ Mar 21, 2022 
+
+ Update README.md 
+
+ e548563 
+
+ Git stats
+
+ 15 
+
+ commits
+
+ Files
+
+ Permalink 
+
+ Failed to load latest commit information.
+
+ Type
+
+ Name
+
+ Latest commit message
+
+ Commit time
+
+ README.md 
+
+ View code
+
+ README.md 
+
+ kaspersky-risks
+
+ Risk Evaluation of Kaspersky related Risks, if subject to forceful cooperation by Russian Government for Intelligence and Military Purposes
+
+ Brainstorming on possible tactical and strategic advantage of Russian Security Agencies compelling Kaspersky for cooperation:
+
+ Acquire all databases of endusers (Cloud Scanning and Endpoint) for tactical and strategical planning of future attack
+
+ Acquire all meta-data of endusers (Cloud Scanning and Endpoint) to create a detailed data-taxonomy in the planning of future attacks
+
+ Disable the functionality of Updates on a targeted basis (only some specific endpoint or company or networks)
+
+ Disable the functionality of Protection on a targeted basis (only some specific endpoint or company or networks)
+
+ Disable the functionality of Updates on a generalized basis
+
+ Disable the functionality of Protection on a generalized basis
+
+ Search and Seize files on targeted parametric / endpoints (Cloud Scanning and Endpoint)
+
+ Delivery of a malicious updates on a generalized basis (massive updates)
+
+ Delivery of a malicious updates on a targeted basis (only some specific endpoint or company or networks)
+
+ Means to delivery of malicious updates:
+
+ Direct Backdoor Delivery: Download of a new malicious executable - Higher risk of detection on a "generalized basis" - Lower risks on a "targeted basis"
+
+ Indirect Bugdoor Delivery: Delivery of detection patterns updates, that trigger a complex exploit, leading to code execution - Survive Source Code Analysis
+
+ Parametric Search and Seizer could be based on specific endpoint, on specific networks, on specific organizations, on specific files type, for example:
+
+ Send to Cloud Scanning all Microsoft Office document with Macro opened from the the (French Ministry of Defense| SWIFT Belgium Backoffice Financial Operator| AntiMoney Laundering Regulator of Germany) owned networks
+
+ The Detection Risks for Russian Security Agencies is proportionate to how wide their actions in compelling Kaspersky could be:
+
+ For Cloud Scanning and Database Acquisition it's high likely all actions could be done without possibility of detection by endusers (Server Operations)
+
+ For Massive Actions, there's a high possibility of detection due to the disruptive measures and generally available executables
+
+ For Targeted Actions, there's very low possibilty of detections, being the Endpoint Protection Software in charge of detecting abuses:
+
+ For delivery of malicious updates via Bug Door is extremely difficult, to the point of being nearly impossible in a real scenario, to detect it
+
+ For delivery of malicious updates via direct malicious code delivery, assuming a pre-verified authorisation and validation process of the individual customer, there are chance of detection via application of senior software reverse engineering effort for each single update.
+
+ Actually the Transparency Centers methods, including one-off source code analysis, fail to deliver protection against all of the risks above represented:
+
+ Source code inspection to detect Bugdoors would require many man working years of seniors security engineers
+
+ Review of any software release, with analysis and re-inspection of code changes following a deterministic build, would require many man working years of senior security engineers to be effective
+
+ Technical Operations of Zurich Backend Infrastructure, Changes in the way data are processed and/or who's entitled to access those data, can't be oversee by endusers and/or can't be subject to ongoing basis (only one-off checks, in a controlled environment).
+
+ The Russian Government abusing of Kaspersky compelled cooperation, would likely uses the "targeted action" like for "targeted 0day attacks", knowingly that the discovery of the attack would make ineffective the entire attack capability. Each "bullet" have to be carefully planned before beeing shoot.
+
+ If those conclusions are technically considered valid, it would not be possible trough Kaspersky's Transparency Center inititive to provide Security Gurantees against Russian Security Agencies coercion for cooperation.
+
+ In order to assess the risks of coercion from Russian Government of Russian Management, Owners, R&S and Technical Operations we have to evaluate whenever Kaspersky is a Russian Company or not:
+
+ Is Kaspersky a company who's Directors and Owners lives in Russia? Yes
+
+ Is Kaspersky a company who's majority of employee lives in russia? Yes
+
+ Is the Kaspersky UK holding company fully owned and fully managed (directors) by Russian Resident and Russian Citizens? Yes
+
+ Is Kaspersky main market Russia? Yes* (According to Deposited Balancesheet roughly more than 40% of Commercial Credit is "CIS and Baltic" area)
+
+ Starting from the assumption above, Kaspersky is a Russian Company that can be victim of compelled cooperation from Russian Government.
+
+ Note: Also Apple and Google has been victim of coercion from Russian Government, with Moscow based executive being harrassed by the FSB up until they successfully obtained their U.S. employee forcefully removal the Navalny app 
+
+ About
+
+ Risk Evaluation of Kaspersky related Risk, if subject to Coercion by Russian Government for Intelligence and Military Purposes
+
+ Resources
+
+ Readme
+
+ Stars
+
+ 7 
+ stars
+
+ Watchers
+
+ 2 
+ watching
+
+ Forks
+
+ 0 
+ forks
+
+ Releases
+
+ No releases published
+
+ Packages 0 
+
+ No packages published 
+
+ Footer
+
+ © 2023 GitHub, Inc.
+
+ Footer navigation
+
+ Terms 
+
+ Privacy 
+
+ Security 
+
+ Status 
+
+ Docs 
+
+ Contact GitHub 
+
+ Pricing 
+
+ API 
+
+ Training 
+
+ Blog 
+
+ About 
+
+ You can’t perform that action at this time.
+
+ You signed in with another tab or window. Reload to refresh your session. 
+ You signed out in another tab or window. Reload to refresh your session.

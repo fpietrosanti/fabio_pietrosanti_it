@@ -1,0 +1,485 @@
+Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi - Cyber Security 360 
+
+ I NOSTRI SERVIZI
+ SERVIZI
+
+ Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi
+
+ Cybersecurity Nazionale 
+
+Malware e attacchi 
+
+ Malware e attacchi 
+
+ Ransomware 
+
+Norme e adeguamenti 
+
+ Norme e adeguamenti 
+
+ Privacy e Dati personali 
+
+ Soluzioni aziendali 
+ Cultura cyber 
+ News analysis 
+ Appunti di Cyber Security 
+ Chi siamo 
+
+ accedi 
+
+ Seguici
+
+ twitter 
+
+ linkedin 
+
+ Newsletter 
+
+ Rss Feed 
+
+ Chi siamo 
+
+ AREA PREMIUM
+
+ Whitepaper 
+
+ Eventi 
+
+ Webinar 
+
+ CANALI
+
+ Cybersecurity nazionale 
+
+ Malware e attacchi 
+
+ Ransomware 
+
+ Norme e adeguamenti 
+
+ Privacy e Dati personali 
+
+ Soluzioni aziendali 
+
+ Cultura cyber 
+
+ L'esperto risponde 
+
+ News analysis 
+
+ Chi siamo 
+ antivirus
+ Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi
+
+ Home 
+
+ Cybersecurity nazionale 
+
+ Condividi questo articolo
+
+ L’Italia sta prendendo rapidamente posizione contro l’uso di Kaspersky, associandolo a un Paese ora nemico, la Russia. E sospettando la presenza di uno spysoftware nell’antivirus. Vediamo quali sono i rischi in campo e quali domande è giusto porsi come Italia
+
+3 ore fa
+
+F
+
+ Dario Fadda Research Infosec, fondatore Insicurezzadigitale.com
+
+ A pochi giorni dall’invasione russa dell’Ucraina in Italia si è accesa la discussione sugli antivirus. La questione riguarda nuovamente il caso Kaspersky e il suo utilizzo all’interno dei nostri confini nazionali. Pensante, da ultimo e soprattutto, il parare ieri di Franco Gabrielli , sottosegretario alla Presidenza del Consiglio con delega alla Sicurezza Nazionale, che invita a prendere le distanze dall’antivirus e in particolare ha chiesto di toglierlo dai server della PA, tema su cui si attende un decreto specifico. 
+ Kaspersky è utilizzato da 2.700 amministrazioni, tra ministeri, Comuni, forze dell’ordine e grandi aziende private.
+ Il punto: in virtù  degli eventi geopolitici, infatti, la Russia è diventata a tutti gli effetti una nazione nemica (alla quale vengono inflitte sanzioni sia da Stati Uniti che da Unione Europea) del nostro continente e quindi di conseguenza anche della nostra nazione.  
+
+ Bisognerebbe quindi eliminare Kaspersky perché è associabile a un nemico?
+
+ Addirittura, si può temere che l’antivirus contenga un software spia o una backdoor del Governo russo, sospetto analogo a quello che da anni affligge Huawei?
+ Interrogativi non facili.
+ Se da una parte non è corretto identificare il Governo Russo con i russi o le aziende russe, dall’altra la situazione sul caso Kaspersky è particolarmente delicata. Cerchiamo di analizzarla.
+ Indice degli argomenti
+
+ L’evoluzione della discussione su Kaspersky 
+ Kaspersky, dall’antivirus russo sabotaggio all’Italia? Il timore Gabrielli 
+ La Francia 
+ Usa e Olanda 
+
+ Il parere degli esperti sull’antivirus russo 
+ Cosa emerge dal dibattito sul potenziale rischio Kaspersky? La risposta di Kaspersky 
+ E l’Agenzia cyber italiana? 
+
+ L’evoluzione della discussione su Kaspersky 
+ Ricordiamo com’è cominciata.
+ Il 27 febbraio Stefano Quintarelli, informatico ex deputato e da sempre in prima linea sul fronte innovazione digitale e pubblica amministrazione (ideatore di SPID), ha firmato un articolo su Il Post con il quale instrada una discussione, che presto diventerà di pubblico dominio, sul rapporto tra il software antivirus Kaspersky e l’Italia.
+
+ WHITEPAPER 
+
+ IT: come ridurre i costi operativi del 24%? Una guida completa
+
+ Datacenter 
+
+ Datacenter Infrastructure Management 
+
+ Scarica il Whitepaper 
+
+ Nella giornata seguente viene presentata, a livello politico, un’interrogazione parlamentare promossa dal deputato del Gruppo Misto Paolo Nicolò Romano, il cui contenuto spingerà a un gradino successivo la questione appena prima sollevata sul software Kaspersky.
+ A questo punto il centro del dibattito vede coinvolto un grande interrogativo: è giusto preoccuparsi per un software antivirus Made in Russia, utilizzato ormai da diversi anni in gran parte della pubblica amministrazione italiana, in un momento storico di tensione geopolitica della Russia nei confronti dell’occidente? 
+ Per rispondere, o meglio per avere gli strumenti utili a farci una personale idea della risposta a questo tema, bisogna analizzare alcuni dati fattuali. Nello specifico un software, qualsiasi esso sia (seppur a codice sorgente chiuso), è sempre conoscibile. Non è necessario leggere il codice sorgente per studiare il comportamento di un software durante la sua esecuzione. Altro elemento da considerare è che Kaspersky (azienda russa), è un’azienda molto strutturata, multinazionale e per i propri clienti europei, disloca i propri datacenter (nei quali sono contenuti i server che effettuano il lavoro di analisi richiesto dal software antivirus) in Svizzera.
+ Kaspersky, dall’antivirus russo sabotaggio all’Italia? Il timore 
+ Come già detto Kaspersky è un’azienda con sede legale in Russia, questo è uno degli elementi di maggior esposizione delle preoccupazioni finora riportate sul tema. Oltre a questo si aggiungono riferimenti storici che vedono in Eugene Kaspersky (CEO e fondatore dell’omonima azienda), relazioni e legami, certamente riferiti ormai ad un lontano passato, con il KGB russo.
+ La crisi prodotta dall’invasione russa dell’Ucraina, ha notevolmente incrementato le preoccupazioni nei confronti del software antivirus prodotto da Kaspersky, in relazione al fatto che l’attuale governo russo (che giorno dopo giorno mette sempre più a rischio la propria reputazione democratica con l’intervento armato in Ucraina), per il tramite dei servizi di sicurezza statali, possa incidere sull’operato dell’azienda visto il settore strategico nel quale opera, al fine di operare del sabotaggio informatico o spionaggio contro i paesi (suoi clienti) non alleati alla Russia.
+ Questa ipotesi, che finora non riceve ancora alcun riscontro su lato pratico, lo spiega bene Corrado Giustozzi , esperto di cyber security al Corriere della Sera: “è plausibile che nel contesto attuale, l’azienda possa ricevere pressioni o minacce dal governo russo. Non penso tanto a uno scenario di spionaggio attivo, quando piuttosto a un malware creato dagli stessi russi che l’antivirus potrebbe volontariamente non rilevare e lasciar passare”.
+ Questo scenario dunque vedrebbe il diffondersi della minaccia informatica, mirata nei confronti delle strutture critiche italiane, agendo con tutte le capacità di un malware ed eventualmente se necessario esfiltrando dati riservati verso il paese nemico.
+ Gabrielli 
+ A rincarare la dose, la questione arriva ai più alti vertici italiani. Come detto Franco Gabrielli , sottosegretario alla Presidenza del Consiglio con delega alla Sicurezza Nazionale, infatti sempre al Corriere della Sera rilascia il proprio commento secondo cui “dobbiamo liberarci da una dipendenza dalla tecnologia russa. Per esempio quella dei sistemi antivirus prodotti dei russi e utilizzati dalle nostre pubbliche amministrazioni, per evitare che da strumento di protezione possano diventare strumento di attacco”.
+ La Francia 
+ Analogamente in Francia l’Agenzia nazionale per la sicurezza dei sistemi informativi (Anssi) ha invitato a “mettere in discussione” l’uso del software Kaspersky, anche se un divieto esplicito ancora non c’è.
+ Usa e Olanda 
+ Stati Uniti e Olanda invece hanno bandito Kaspersky dai computer governativi già cinque e quattro anni fa rispettivamente.
+
+ Il parere degli esperti sull’antivirus russo 
+ Per aggiungere elementi utili a creare un quadro completo sulla vicenda, analizziamo i pareri tecnici degli esperti in merito all’utilizzo, in questa fase storica, dell’antivirus Kaspersky. Sempre Giustozzi evidenzia come il problema non sia fine a sé stesso, ma segua un’impronta più politica e di regolamentazione, non solo italiana ma addirittura europea, vista la complessità su cui si fonda la sicurezza. “Certi Stati hanno un potere di coercizione sulle aziende private, ma questo non vale solo per quelli non democratici. È giusto preoccuparsi anche del cloud che è tutto in mano a grandi nomi americani, così come dei sistemi operativi di pc e smartphone”.
+ Come vediamo, dunque, un problema che non coinvolge solo un software antivirus, ma gran parte della tecnologia che quotidianamente fa parte delle nostre vite e non tanto una questione tecnica ma molto orientata alla risoluzione politica tra Stati.
+ Dell’avviso abbastanza similare è anche Stefano Zanero , professore associato del Politecnico di Milano che, valutandone evidentemente i rischi, riferisce di recente a Open che “Il tema emerso in questi giorni su Kaspersky apre a un discorso più ampio che è quello della sovranità tecnologica. Quando parliamo di software o hardware che vengono utilizzati in sistemi critici, bisognerebbe garantire che queste tecnologie non abbiano dipendenze con nazioni che sono fuori dalle nostre alleanze. In alcuni casi non si può fare a meno di utilizzare tecnologie prodotte all’esterno ma per quanto riguarda l’antivirus abbiamo un’ampia scelta di prodotti. Questi software devono essere sempre aggiornati e hanno un flusso di dati costante con l’azienda che li ha sviluppati”.
+ Cosa emerge dal dibattito sul potenziale rischio Kaspersky? 
+ Ciò che possiamo concludere, assistendo a questo dibattito, che ormai ha raggiunto come abbiamo visto, la dimensione nazionale, viene identificato nel rapporto tra pubblica amministrazione italiana e tecnologia.
+ Pare proprio che, appunto, non ci sia in Italia una tradizione di sovranità tecnologica in ambito strategico, e il fatto che la questione venga sollevata in un momento storico così delicato sul fronte geopolitico, è emblematico. Va detto infatti che Fabio Pietrosanti, presidente del Centro Hermes per la Trasparenza e i Diritti Umani Digitali, sollevò la questione (senza poi un seguito concreto al lato pratico) già dal 2018 con un’inchiesta per Euronews nella quale evidenziava come Polizia, Carabinieri, Ministero dell’interno, Giustizia, Difesa, Servizi segreti, utilizzano e acquisiscono software antivirus Kaspersky.
+ Inoltre, a questi fatti si aggiunge l’analisi che pensiamo sia lecito esporre, non ancora presa in considerazione, secondo cui la stessa azienda Kaspersky operi per conto della pubblica amministrazione italiana, non solo vendita di software, ma soprattutto consulenza forense post attacco. Una pratica sempre più richiesta, vista anche l’incidenza degli attacchi ransomware rivolti a strutture strategiche del paese almeno negli ultimi due anni, che ci fa domandare se sia più preoccupante un software, conoscibile seppur closed, oppure un servizio di consulenza, affidato non a macchine ma a umani che di fatto vengono remunerati per scavare nei dettagli più profondi delle nostre infrastrutture tecnologiche? 
+ Difficile a questo punto non chiedersi come mai ci sia voluta una guerra e un’invasione guidata da principi del tutto anti democratici, a far scattare all’Italia il campanello d’allarme sulla questione Kaspersky, puntando peraltro unicamente al software antivirus che, al momento, non ha mai presentato indici di anomalia riferibili ai rischi potenziali esposti? E’ vero che la prevenzione è sempre più utile della cura di un male, però durante tutto il periodo pandemico la nostra pubblica amministrazione e nello specifico il settore sanitario, ha sofferto di grandi incidenti informatici, i quali più importanti, trattati proprio con i servizi forensi espletati anche da tecnici Kaspersky, oltre che la statunitense FBI.
+ La risposta di Kaspersky 
+ Dal canto suo l’azienda prende le distanze da queste accuse e ai media riferisce che “Kaspersky è una società internazionale privata e non ha legami con nessun governo o agenzia governativa. È orgogliosa di cooperare con le autorità di molti Paesi e con le forze dell’ordine internazionali nella lotta contro il crimine informatico”.
+ Anche noi abbiamo chiesto un parere all’azienda e lo attendiamo.
+ Inoltre, lo ricordiamo, Kaspersky svolge cooperazione, ormai quasi decennale, anche con Polizia Olandese, Europol e Intel Security, senza commento per il momento sulla questione emergente dalla guerra ucraina. Più di una volta ha cercato di dimostrare la propria indipendenza da Mosca, con la Global Transparency Initiative e poi con il trasferimento a Zurigo del datacenter.
+ E l’Agenzia cyber italiana? 
+ Anche in Italia, al netto delle considerazioni fin qui esposte, manca un importante tassello sulla questione antivirus.
+ Sarà infatti determinante un eventuale commento della neonata ACN (Agenzia per la Cybersecurity Nazionale), ancora non espresso sulla vicenda, ma possiamo immaginare, visti i recenti sviluppi di transizione digitale e sicurezza informatica, tanto auspicato dalla nostra pubblica amministrazione. Probabilmente arriverà nei prossimi giorni, forse affiancato da un decreto specifico rivolto alla PA.
+
+ “L’Agenzia credo abbia già deciso, perché ha deciso il piano di sopra: Gabrielli”, dice Quintarelli a Cybersecurity360.it.
+
+ @RIPRODUZIONE RISERVATA 
+
+ Personaggi
+
+ D
+
+Dario Fadda
+
+ Argomenti
+
+ A
+
+antivirus
+
+ C
+
+Cloud
+
+ I
+
+infrastrutture
+
+ K
+
+kaspersky
+
+ R
+
+ransomware
+
+ S
+
+sicurezza nazionale
+
+ U
+
+Ucraina
+
+ Canali
+
+ C
+
+Cybersecurity nazionale
+
+ Ransomware
+
+L'APPROFONDIMENTO
+ Sicurezza e infrastrutture, il caso Regione Lazio: investiamo in competenze e capitale umano
+ 17 Ago 2021
+ di Crescenzo Coppola 
+
+ Condividi il post
+
+ Condividi 
+
+ Cybersecurity nazionale
+
+LA RELAZIONE ANNUALE
+ Copasir: 5G, cloud nazionale e rete unica le priorità di cyber security per l’Italia
+ 11 Feb 2022
+ di Marco Santarelli 
+
+ Condividi il post
+
+ Condividi 
+
+ Cybersecurity nazionale
+
+CYBERWARFARE
+ Crisi Russia-Ucraina, aziende italiane “esposte” a cyber attacchi: i consigli dell’Agenzia cyber
+ 18 Feb 2022
+ di Luisa Franchina , Pamela Graziani 
+
+ Condividi il post
+
+ Condividi 
+
+ News analysis
+
+il quadro
+ Cyber guerra Ucraina-Russa: ecco gli attori in campo
+ 05 Mar 2022
+ di Dario Fadda 
+
+ Condividi il post
+
+ Condividi 
+
+ Condividi 
+
+ view_list Articoli correlati 
+ Prossimo
+
+ Sicurezza e infrastrutture, il caso Regione Lazio: investiamo in competenze e capitale umano 
+
+ LinkedIn
+
+ Twitter
+
+ Whatsapp
+
+ Facebook
+
+ Mail
+
+ Link
+
+ Articoli correlati
+
+ Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi 
+
+ Sicurezza e infrastrutture, il caso Regione Lazio: investiamo in competenze e capitale umano 
+
+ Copasir: 5G, cloud nazionale e rete unica le priorità di cyber security per l’Italia 
+
+ Crisi Russia-Ucraina, aziende italiane “esposte” a cyber attacchi: i consigli dell’Agenzia cyber 
+
+ Cyber guerra Ucraina-Russa: ecco gli attori in campo 
+
+ Articolo 1 di 5
+
+ I tuoi contenuti, la tua privacy!
+
+ Su questo sito utilizziamo cookie tecnici necessari alla navigazione e funzionali all’erogazione del servizio.
+Utilizziamo i cookie anche per fornirti un’esperienza di navigazione sempre migliore, per facilitare le interazioni con le nostre funzionalità social e per consentirti di ricevere comunicazioni di marketing aderenti alle tue abitudini di navigazione e ai tuoi interessi.
+ Puoi esprimere il tuo consenso cliccando su ACCETTA TUTTI I COOKIE. Chiudendo questa informativa, continui senza accettare.
+ Potrai sempre gestire le tue preferenze accedendo al nostro COOKIE CENTER e ottenere maggiori informazioni sui cookie utilizzati, visitando la nostra COOKIE POLICY .
+
+ ACCETTA
+ PIÙ OPZIONI
+
+ Cookie Center
+ ACCETTA TUTTO
+ RIFIUTA TUTTO
+
+ Tramite il nostro Cookie Center, l'utente ha la possibilità di selezionare/deselezionare le singole categorie di cookie che sono utilizzate sui siti web.
+ Per ottenere maggiori informazioni sui cookie utilizzati, è comunque possibile visitare la nostra COOKIE POLICY .
+ ACCETTA TUTTO
+ RIFIUTA TUTTO
+
+ COOKIE TECNICI
+
+ Strettamente necessari 
+
+I cookie tecnici sono necessari al funzionamento del sito web perché abilitano funzioni per facilitare la navigazione dell’utente, che per esempio potrà accedere al proprio profilo senza dover eseguire ogni volta il login oppure potrà selezionare la lingua con cui desidera navigare il sito senza doverla impostare ogni volta.
+
+ COOKIE ANALITICI
+
+I cookie analitici, che possono essere di prima o di terza parte, sono installati per collezionare informazioni sull’uso del sito web. In particolare, sono utili per analizzare statisticamente gli accessi o le visite al sito stesso e per consentire al titolare di migliorarne la struttura, le logiche di navigazione e i contenuti.
+
+ COOKIE DI PROFILAZIONE E SOCIAL PLUGIN
+
+I cookie di profilazione e i social plugin, che possono essere di prima o di terza parte, servono a tracciare la navigazione dell’utente, analizzare il suo comportamento ai fini marketing e creare profili in merito ai suoi gusti, abitudini, scelte, etc. In questo modo è possibile ad esempio trasmettere messaggi pubblicitari mirati in relazione agli interessi dell’utente ed in linea con le preferenze da questi manifestate nella navigazione online.
+
+SALVA ED ESCI
+
+Seguici
+
+ About 
+ Autori 
+ Tags 
+ Rss Feed 
+ Privacy 
+ Cookie 
+ Cookie Center 
+
+ NetworkDigital360 è il più grande network in Italia di testate e portali B2B dedicati ai temi della Trasformazione Digitale e dell’Innovazione Imprenditoriale. Ha la missione di diffondere la cultura digitale e imprenditoriale nelle imprese e pubbliche amministrazioni italiane.
+
+ TUTTE LE TESTATE
+
+ Applicazioni e Tecnologie
+
+Ai4Business 
+
+Bigdata4Innovation 
+
+Big Data & Analitycs ZeroUno 
+
+Blockchain4Innovation 
+
+Cloud Computing ZeroUno 
+
+Cybersecurity CorCom 
+
+Cybersecurity360 
+
+Documenti AgendaDigitale.eu 
+
+eCommerce AgendaDigitale.eu 
+
+ESG360 
+
+Fatturazione AgendaDigitale.eu 
+
+Industria 4.0 CorCom 
+
+Industry 4.0 AgendaDigitale.eu 
+
+Infrastrutture AgendaDigitale.eu 
+
+Industry4Business 
+
+Internet4Things 
+
+PagamentiDigitali 
+
+RiskManagement360 
+
+Searchdatacenter ZeroUno 
+
+Searchsecurity ZeroUno 
+
+Sicurezza AgendaDigitale.eu 
+
+Smart City AgendaDigitale.eu 
+
+Smart Mobility EconomyUp 
+
+ Digital Transformation
+
+AgendaDigitale.eu 
+
+Corcom 
+
+Digital4Executive 
+
+Digital4PMI 
+
+TechCompany360 
+
+Zerouno 
+
+ Funzioni di Business
+
+Digital4Finance 
+
+Digital4HR 
+
+Digital4Legal 
+
+Digital4Marketing 
+
+Digital4Procurement 
+
+Digital4SupplyChain 
+
+Procurement AgendaDigitale.eu 
+
+ Industry
+
+Agrifood.tech 
+
+AutomotiveUp 
+
+BankingUp 
+
+EnergyUp 
+
+HealthTech360 
+
+Industry4Business 
+
+Innovation Post 
+
+InsuranceUp 
+
+Media CorCom 
+
+Proptech360 
+
+RetailUp 
+
+Sanità AgendaDigitale.eu 
+
+Scuola AgendaDigitale.eu 
+
+SpacEconomy360 
+
+Telco CorCom 
+
+Turismo AgendaDigitale.eu 
+
+ PA
+
+Cittadinanza AgendaDigitale.eu 
+
+ForumPA 
+
+PA Digitale CorCom 
+
+Sanità AgendaDigitale.eu 
+
+Scuola AgendaDigitale.eu 
+
+ Startup e Open Innovation
+
+Economyup 
+
+StartUp AgendaDigitale.eu 
+
+Startupbusiness 
+
+ Studenti
+
+University2business 
+
+ Indirizzo
+ Via Copernico, 38
+ Milano - Italia
+ CAP 20125
+
+ Contatti
+ info@digital360.it 
+
+ ICT&Strategy S.r.l. – Gruppo DIGITAL360 - Codice fiscale 05710080960 - P.IVA 05710080960 - © 2022 ICT&Strategy. ALL RIGHTS RESERVED
+ Mappa del sito 
+
+ close 
+ Codice Rss
+
+ Clicca sul pulsante per copiare il link RSS negli appunti.
+
+ Copia link 
+
+ close 
+ Codice Rss
+
+ Clicca sul pulsante per copiare il link RSS negli appunti.
+
+ Copia link

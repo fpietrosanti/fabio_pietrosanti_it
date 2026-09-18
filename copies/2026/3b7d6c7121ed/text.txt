@@ -1,0 +1,11 @@
+Fingerprint security gateway by the presence of HTTPS website on the MX
+https://github.com/mxmap-it/mxmap.it/issues/22
+opened 2026-07-02T07:36:30Z by fpietrosanti · state open
+
+This ticket is to Fingerprint security gateway by the presence of HTTPS website on the MX because someone is accessible.
+
+For instance comune.riodipusteria.bz.it have al MX es1.gvcc.net. that run a security gateway and on https://es1.gvcc.net/login there's this text:
+        <title>Login - LibraCyber ESG</title>
+
+
+So from here it's possible to map LibraCyber ESG https://www.libraesva.com/it/ security gateway

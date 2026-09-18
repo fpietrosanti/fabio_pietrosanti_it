@@ -1,0 +1,59 @@
+Encryption is not scrambling: be aware of scrambler! at Playhouse of privacy, innovations and some business stuff 
+
+ author & blog 
+
+ « SecurStar GmbH Phonecrypt answers on the Infosecurityguard/Notrax case: absolutely unreasonable! :-) 
+ great point of view » 
+
+ Encryption is not scrambling: be aware of scrambler! 
+
+ Published by naif April 20th, 2010 
+
+ in Privacy , security and technology . 
+ 0  Comments 
+
+ Most of us know about voice scrambler that can be used across almost any kind of voice based communication technology.
+
+ Extremely flexible approach: works everything
+
+ Extreme performance: very low latency
+
+ but unfortunately…
+
+ Extremely weak: Scrambling cannot be considered secure.
+
+ Only encryption can be considered secure under the Kerckoff’s principle .
+
+ So please don’t even consider any kind of analog scrambler if you need real security.
+
+ Read deeply the paper Implementation of a real-time voice encryption system ” by Markus Brandau, especially the cryptoanalysis paragraph.
+
+ 0 Responses to “Encryption is not scrambling: be aware of scrambler!”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « SecurStar GmbH Phonecrypt answers on the Infosecurityguard/Notrax case: absolutely unreasonable! :-) 
+ great point of view » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, innovations and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.511 sec. w/ 25 queries.
+
+ RSS Entries and RSS Comments

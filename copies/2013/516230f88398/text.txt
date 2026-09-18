@@ -1,0 +1,103 @@
+GlobaLeaks - 30C3_Public_Wiki 
+
+ Projects 
+ Discussion 
+ View form 
+ History 
+
+ RecentChanges 
+
+ Upload 
+
+ Log in Create account 
+
+ 30C3_Public_Wiki 
+
+ Schedule 
+
+ Recordings 
+
+ Feedback 
+
+ Projects 
+
+ Assemblies 
+
+ Sessions 
+
+ GlobaLeaks 
+
+ Description
+
+ GlobaLeaks 2 is the first Anonymous Whistleblowing Framework, already used by 7 organization for investigative journalism, anticorruption and antimafia purposes, that's fully configurable via a web administration interface and can be setup in 5 minutes.
+ It's very modular (w/REST API) and very secure (PGP encryption, 3 penetration tests, awareness information, etc).
+
+ Has website
+
+ https://GlobaLeaks.org 
+
+ Persons working on
+
+ Naif , Vecna 
+
+ Located at assembly
+
+ NoisySquare 
+
+ Other projects...
+
+ ChaosVPN 
+
+ ChipWhisperer 
+
+ CryptoParty Graz 
+
+ Fairnopoly 
+
+ XMPP Notify 
+
+ … further results 
+
+ refresh 
+
+ GlobaLeaks started with the premise that Anonymous Whistleblowing can be easy and secure.
+
+ The GlobaLeaks suite of software will empower people to stand up anonymously no matter what their definition of "whistleblowing" is. The person or organization running the software will be able to customize the platform to best suit its needs. GlobaLeaks is designed with flexibility in mind, while enabling maximum level of privacy and security by default.
+
+ Started early 2011, GlobaLeaks 2 has been rewritten from scratch in 2012 with a new modular design, completely configurable and customizable via web administration interface.
+
+ It's designed for use by multiple users: Media, Activists, Public Agencies and Corporations
+
+ It has already been publicly used by 7 different organizations for anticorruption, investigative journalism and antimafia purposes:
+
+ PubLeaks (Netherland whistleblowing w/+40media partner) - http://www.publeaks.nl - http://secure.publeaks.nl 
+
+ Icelandic Transparency Activism Initiative - Ljost - http://www.ljost.is 
+
+ IRPI Italian Investivative Journalism Group - https://irpi.eu/irpileaks/ 
+
+ MafiaLeaks - Organized Crime Activism - http://www.bbc.co.uk/news/world-europe-24821785 - http://www.mafialeaks.org 
+
+ MagyarLeaks Hungarian Investigative Journalist Group - http://atlatszo.hu/magyarleaks 
+
+ Pistajka Serbian Anticorruption Activism - https://pistaljka.rs - https://acabtd4btrxjjrvr.tor2web.org 
+
+ Perun Serbian Independent Media whistleblowing - http://www.perun.rs by http://juznevesti.com 
+
+ In 2014 there will be some 10-15 major initiatives in the field of Human Rights defense and Anti-corruption using GlobaLeaks internationally.
+
+ It's translated in multiple languages https://www.transifex.com/projects/p/globaleaks/ .
+
+ It support multiple, very deep security features such as PGP, Sandboxing, resilient design and it has been audited with 3 dedicated penetration tests.
+
+ Given it's framework approach (REST API at http://docs.globaleaks.apiary.io ) it's already integrated with multiple applications such as InformaCam, GLDroid, iGlobaLeaks supporting mobile submission anonymously.
+
+ It do support Anonymous (Tor) and Confidential (HTTPS) submission with carefully designed configurability of all security aspects (via web admin) and proper privacy and security awareness warning.
+
+ You can start using it installing in less than 5 minutes on Ubuntu 12.04 from https://github.com/globaleaks/globaleaks/wiki .
+
+ If you want to start hacking on it, there's plenty of issues you can hack on from http://github.com/globaleaks/globaleaks/issues  :-)
+
+ It's designed with a modular python backend (based on Twisted), heavily unit-tested with continuous integration on Travis-CI http://travis-ci.org and with a self-contained Javascript submission client based on AngularJS (GLClient -> REST -> GLBackend).
+
+ Category : Projects

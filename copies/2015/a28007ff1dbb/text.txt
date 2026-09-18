@@ -1,0 +1,597 @@
+Hacking Team e Resi Informatica: sassolino nella scarpa dopo sassolino nella scarpa, vuoi vedere che questa volta facciamo piazza pulita? | Leo Rugens 
+
+ Home 
+
+ La calunnia 
+
+ KAMI 4.0 
+
+ Fonti aperte 
+
+ Storia 
+
+ Big Pharma 
+
+ Incursioni nel futuro 
+
+ Le rotte cinesi 
+
+ Grillo e i Cittadini in moVimento 
+
+ Zlabya e il suo gatto 
+
+ Godot 
+
+ Algeriade 
+
+ Malta 
+
+ db – sinistra bramina 
+
+ Storie allo sportello 
+
+ Il ponte maledetto 
+
+ Chicken Food 
+
+ Leo Rugens 
+
+ Leo Rugens 
+
+ Che si spenga, per sempre, la semenza degli uomini "coi piedi per terra" 
+
+ Hacking Team e Resi Informatica: sassolino nella scarpa dopo sassolino nella scarpa, vuoi vedere che questa volta facciamo piazza pulita? 
+
+ 9 agosto 2015 
+
+ Il 12 luglio u.s. nel post “UNA STORIA DI SPIONAGGIO E DI CYBER SECURITY SUPER FICA: HACKING TEAM”  dicevamo che questo del Hacking Team sarebbe stato un ginepraio/rovo non da poco. Anzi, anticipavamo, confermati nelle stesse ore dallo specialista in “cose complesse”, Giuliano Tavaroli, che sarebbe stato un vero e proprio terremoto. Nel post di questo marginale ed ininfluente blog facevamo riferimento ad un convegno “ Lo Stato intelligente. I finanziamenti europei per l’innovazione e la sicurezza ” a cui, lo ricordo come fosse adesso (ero io che volutamente accoglievo le persone invitate di una lista selezionata) il primo a presentarsi alla porta d’accesso e alla verifica delle tecnologie di sicurezza fu un rappresentante della Resi Informatica Spa, azienda oggi al centro di quanto accade.
+
+ Tornerò su questi dettagli autobiografici quando alcuni saranno tornati dalle ferie immaginandoli a quella data più attenti a ciò su cui non è più tollerabile distrarsi: da troppi anni troppi servono solo i propri interessi e non certo quelli del Paese.
+
+ Disgraziatamente è scoppiato il bubbone putrescente durante l’estate più calda degli ultimi decenni e giustamente non tutti hanno voglia di fermarsi a riflettere sull’enormità dell’avvenimento: qualcuno afferma (non smentito o querelato) che la Regione Lombardia (ci dite chi, come, dove, quando e – soprattutto   – perché?) investe denaro pubblico a sostegno finanziario/speculativo di tecnologie atte a raccogliere informazioni, in automatico e in modo intelligente, da – eventualmente – vendere al migliore offerente, senza porsi il problema dell’uso che l’acquirente dovesse fare di tali dati.
+
+ Al di là del caldo, in nome del Dio in cui credete o del possibile vostro non credere in nulla, vogliamo imporre chiarezza su questo tema? O vi sembra cosa minore che esistano rapporti economici (diciamo d’affari!) tra quelli che dovrebbero governare la cosa pubblica lombarda (e quindi italiana) e quelli che in modo non troppo velato finanziano il terrorismo internazionale? Vi sembra cosa da non chiarire chi abbia autorizzato i rappresentanti eletti dal popolo (si fa per dire) a inciuciare, per denaro, con le dittature che   generano con il loro agire le mostruosità in cui si ritrovano a vivere milioni di persone che poi volendo fuggire “dall’inferno” alimentano i flussi migratori di cui poi gli stessi governanti/governatori lombardi affaristi si lamentano anzi denunciano anzi ci imbastiscono sopra le loro campagne promozionali contro i “negri clandestini”?
+
+ Che vomito, che grande imbroglio! Perché esseri abietti capaci di tanta doppiezza devono passarsela liscia senza neanche ricevere un sonoro calcio in culo o quattro schiaffoni ben assestati?
+
+ Spero quindi che in molti tra quelli che lasciano nel web spunti di riflessione, trovino voglia e coraggio   (attenti cari quattro lettori, che per parlare di queste cose, un po’ di coraggio, ci vuole) di spingere altri ad approfondire come questa questione delle connivenze e degli interessi macroscopici legati all’uso improprio delle tecnologie sia il tema strategico senza la cui soluzione/regolamentazione sarebbe impossibile parlare di libertà, democrazia, equità nei prossimi anni. Vi suggerisco di rileggere il nostro post del 12 luglio e, soprattutto, gli abbondantissimi (difficile trovare tante indicazioni tutte insieme e tutte così preziose e pertinenti) articoli del “Il Fatto Quotidiano” e “La Stampa di Torino” a firma   degli scatenatissimi Marco Lillo e Carola Frediani.
+
+ Tenete conto che, da queste parti, tifiamo per lo scoperchiamento del pentolone diabolico perché, in prima persona, su questi temi abbiamo alcuni sassolini nella scarpa che da troppi anni ci disturbano. Un po’ più che disturbano.
+
+ Buona lettura o, per alcuni, rilettura
+
+ Oreste Grani/Leo Rugens
+
+ UNA STORIA DI SPIONAGGIO E DI CYBER SECURITY SUPER FICA: HACKING TEAM
+
+ 12 luglio 2015 
+
+ Alcuni giorni addietro (troppi), non appena sono trapelate le primissime indiscrezioni rispetto alla struttura Hacking Team, ho scritto alcune frasi di commento pronto a pubblicarle sul blog. Ma, come certamente tutti sapete, quando un blog, di fatto, è sostanzialmente un diario, se uno non è nello stato d’animo opportuno, non se la sente di scrivere. Così, da oltre un mese, scrivo poco o niente. Comunque la gravità di ciò che è sotto inteso allo caso in oggetto mi obbliga a scuotermi e lasciare una sia pur tenue traccia della mia opinione in materia tanto delicata.
+
+ “Questa sì che è una storia super fica”, scrivevo – a me stesso – alcuni giorni addietro. Anzi, potrebbe essere la storia di spionaggio (informatico) più intrigante e complessa fino ad oggi accaduta. E questa è una prima convergenza di opinioni con Giuliano Tavaroli che mi sembra nell’intervista che di seguito riporto pensarla (lui che è mille volte più esperto di me nella materia) nello stesso modo.
+
+ Escludo che il dettagliato “sputtanamento” sia opera di qualche hacker burlone o semplicemente di un concorrente della HT in cerca di nuove occasioni di mercato. Con quanto è accaduto e viene divulgato, si svelano relazioni internazionali e percorsi carsici che uniscono l’Italia (o meglio alcuni italiani!) con paesi che in teoria non si potrebbero “servire” (in settori tanto delicati) se non a quelle particolarissime condizioni che dovrebbero regolare la sicurezza della Repubblica. O per soldi (tanti!) che, in quel caso, sarebbero stati percepiti illecitamente e comunque per attività a discapito dell’eventuale interesse della Nazione. O almeno a insaputa dei custodi della repubblica. O quelli che dovrebbero essere tali.
+
+ Comunque, come vedete, a voglia a dire “inviolabile” quando si tratta di elettronica. Da sempre sostengo, viceversa, che un “varco”, non solo in elettronica, è sempre a due sensi.
+
+ C’è un altro punto dell’intervista (preziosa!) a Tavaroli che oggi compare sul “Il Fatto Quotidiano” che voglio fare mio.
+
+ Forse ricorderete che al tema dell’impreparazione dell’Italia a queste problematiche (non parlo dal punto di vista tecnologico che come si vede invece ci trova tra i primi al mondo) era dedicato il percorso culturale che inutilmente decisi di iniziare il 23 marzo del 2012 organizzando il convegno
+
+ In altro momento proverò a far capire quanto il tema che oggi esplode sarebbe stato affrontato, con amore e spirito di servizio, proprio a partire da quel convegno, con quella sensibilità, coraggio e lungimiranza che tale argomento (vitale) si meritava e si meriterebbe ancora. Invece il problema era di far fuori Grani che si permetteva di chiedere a Luciano Floridi,   Alessandro Zanasi, Liviu Muresan, Shalom Babout, tra gli altri oratori, di cominciare, con la loro autorevolezza ed esperienza professionale, a richiamare l’attenzione sull’argomento (a partire dai fondi che circolano in questo settore), prima che un tale ordigno esplodesse. Ordigno che non si può ancora capire da chi sia stato confezionato ma che certamente avrà non pochi effetti collaterali oltre a quelli opportunamente anticipati oggi da Tavaroli.
+
+ Forse mi sbaglio ma, se non viene pompierata, questa storia risulterà tra le più imbarazzanti (sul tema) dal momento che tra i soci di minoranza della HT risulta esserci l’ex ambasciatore USA a Roma Donald Spogli che ricordo persona da anni interessata all’informatica per averlo incontrato in un’occasione, da lui stessa organizzata presso l’Ambasciata USA di via Veneto, durante la quale ospitò la conferenza stampa di lancio di una manifestazione romana, alla Nuova Fiera, tutta dedicata al mondo degli algoritmi complessi e, soprattutto, a quelli molto, molto intelligenti. In quell’occasione, se ben ricordo, ebbi modo di ascoltare, Gianni De Michelis, che intervenne a dire le ultime cose intelligenti che ho sentito dire da un politico italiano sulla complessità mediterranea. Spogli non è certamente, comunque, uno qualunque se è lo stesso che devo aver conosciuto da ragazzo quando a Roma, negli anni ’60/70, lavorava alla Dapco, cioè la tipografia a via Dandolo dove si stampava (oltre che Lotta Continua) anche il Daily American – nella versione italiana – testata che prima di un attentato (di cui non si sono mai trovati gli esecutori o i mandanti) era proprietà di una società partecipata formalmente anche dalla CIA. Se ben ricordo al 40%. Anche in quel caso di minoranza si trattava.
+
+ Il post e l’intervista riprodotta a Giuliano Tavaroli, sono entrambi dedicati a quelli che non credevano che ci fossero algoritmi capaci di cercarti, penetrarti, vederti ed ascoltarti usando parassitariamente le tue stesse tecnologie. L’Infosfera, di cui parliamo da anni, è più vera e tangibile dell’atmosfera. E quello a cui assistiamo ruotare intorno all’HT, è un fenomeno (anche bellico) che ha la straordinaria connotazione di sembrare immateriale ma di non esserlo. Anzi. E si vedrà.
+
+ Il post è inoltre dedicato a quanti negli anni quando dicevo che non avrei mai potuto cooperare con ambienti professionali caratterizzati   da tale spirito spregiudicato e mercenario, provavano ad offendermi dicendo che ero – sostanzialmente – una piccola volpe incapace di saltare fino all’uva. Immaginate in che guai siamo (particolarmente in Italia) se è possibile che sia accaduto e che accada o che continui ad accadere quanto descritto nell’articolo/intervista.
+
+ Comunque, se posso fare un paragone “storico” quello che ne dovrebbe derivare da una tale complessità è simile a quanto accadde quando si scopri chi fossero Tom Ponzi, Walter Beneforti e compagnia cantando. Quel giorno, rispetto alla violazione della privacy e del potere ricattatorio che queste violazioni possono dare ad alcuni, si perse, in Italia e nel mondo, “l’innocenza”.
+
+ Oreste Grani/Leo Rugens
+
+ Hacking Team, così Regione Lombardia tentò di vendere la società ai sauditi. I segreti dei governi valevano 35 milioni
+
+ Con abbigliamento casual e senza le sneakers, così la  Hacking Team  (HT Srl) si è presentata il 13 novembre del 2013 a  Ryad  per vendersi al regime saudita. E per far venire voglia allo Stato nemico dell’ Iran  di comprarla, l’amministratore della società  David Vincenzetti , non ha esitato a vantare le capacità della sua tecnologia di fare meglio di un software concorrente che aveva bloccato una  centrale atomica iraniana .
+
+ Il Fatto  ha già svelato che l’ Arabia Saudita  è arrivata a un passo dal comprare la società italiana padrona della micidiale tecnologia di  spionaggio informatico . Per comprendere meglio l’intreccio bisogna però addentrarsi in decine e decine di mail sull’argomento pubblicate da  Wikileaks , dopo che qualche hacker ‘anarchico’ ha violato i server italiani degli hacker filo-governativi. Leggendo le mail si comprende una trama degna di un film d’azione ma degna anche di un’audizione del  Copasir .
+
+ L’audizione di Orlando 
+
+Alle 10 oggi è fissata al Comitato parlamentare di controllo dei servizi l’audizione del direttore dell’ Aise , il servizio segreto estero, il generale  Alberto Manenti , e poi del ministro della Giustizia,  Andrea Orlando . Se il Copasir ha ancora un senso dovrebbe andare a fondo in questa storia. Cosa sapevano i  servizi segreti  della trattativa con i sauditi? E cosa sapeva il ministro della giustizia Andrea Orlando e il Governo?
+
+ Domande necessarie perché Aise e Procure usano il software spia che, con la società HT Srl, sarebbe finito in mani saudite. La presidenza del Consiglio, i servizi e il ministero della giustizia non hanno nulla da dire? L’Aise come la Polizia Postale, il Ros dei Carabinieri e lo Scico della Guardia di Finanza, acquista la licenza del software dalla HT Srl che poi segue nella loro azione gli investigatori con un supporto tecnico. Le Procure invece comprano tramite una società di  Palermo , la CSH & MPS, che affitta ai pm il  malware-spia  di HT Srl (pagato a HT da CSH & MPS) più il personale qualificato e i server della società siciliana. La sostanza non cambia. HT Srl  gestisce  una tecnologia strategica e sensibile che incredibilmente è stata offerta ai sauditi con la benedizione della  Lombardia .
+
+ La Regione sapeva 
+
+La Regione nel 2007 ha investito  1,5 milioni di soldi pubblici  in HT Srl mediante il Fondo Next di Finlombarda Sgr. La Regione è quindi indirettamente socia con il 26 per cento di una società che produce un software-spia venduto a molti paesi stranieri (compresa l’Arabia Saudita) ai servizi, alle polizie e alle agenzie di intelligence di mezzo mondo. E già questa è  un’anomalia . Ma ancora più anomalo è che la Regione sapesse che la società con il suo know how stava finendo nelle mani dei sauditi.
+
+Ne era certamente informato  Alberto Trombetta , responsabile dei fondi di Finlombarda Sgr e consigliere di amministrazione di HT Srl all’epoca dei fatti.
+
+ In volo dal principe 
+
+Alle 16 del 13 novembre 2013 da Ginevra alla volta di Ryad decollano  David Vincenzetti  e i suoi collaboratori  Giancarlo Russo  e  Daniele Milan  di HT con un Boeing messo a disposizione da  Wafic Said , il miliardario amico della famiglia reale saudita che svolge il ruolo di mediatore. Il programma stilato da Said per i tre di Hacking Team prevede l’alloggiamento in un hotel  super lusso  per poi fare una dimostrazione dei prodigi di HT il 14 mattina al cospetto di una delegazione del ministero della difesa guidata dal viceministro della difesa che in quel periodo (da agosto 2013 fino al maggio 2014) era  Salman Bin Sultan , 38 anni, figlio di  Sultan Bin Abdulaziz , morto nel 2011 da erede al trono perché, a sua volta, era il figlio del fondatore dell’attuale dinastia regnante,  Abdulaziz  che creò l’attuale regno saudita nel 1935 e poi ebbe 25 figli tra i quali finora sono stati pescati tutti i re d’Arabia perché in quel paese succede il fratello e non il figlio del re.
+
+ L’uomo con il quale i manager di HT Srl hanno trattato è quindi il nipote (figlio del fratello) del  re d’Arabia  attuale come di tutti i predecessori che si sono succeduti dai tempi del nonno Abdulaziz che ha fondato il regno. Il viceministro è però soprattutto il fratello (più giovane di 27 anni) di  Bandar Bin Sultan  del quale è stato anche attaché militare ai tempi in cui il fratellastro (Bandar è nato dalla cameriera del padre ma poi è stato riconosciuto) era ambasciatore d’Arabia in Usa.  Wafic Said  è amico dei due fratelli come era molto amico del padre di entrambi, Sultan Bin Abdulaziz, che è stato ministro della difesa.
+
+ La lettera di intenti lombarda 
+
+Insomma la cosa è seria, tanto che prima del viaggio a Ryad, Vincenzetti sollecita ai soci (compresa  Finlombarda , 100 per cento della Regione) la firma di una  lettera di intenti . Gli serve per far capire ai sauditi che i suoi soci fanno sul serio e sono pronti a vendere. L’8 novembre 2013 Alberto Trombetta di Finlombarda Sgr risponde: “Ne parlo al mio interno e vi darò un feedback nel più breve tempo possibile”. Trombetta sa chi è l’uomo che organizza la trasferta dei sauditi il 13 novembre a Ryad. Il mediatore dei sauditi è il discusso miliardario siriano con base a Londra,  Wafic Said , coinvolto in Gran Bretagna nello scandalo  Al Yamamah : un enorme programma di vendita di  aerei militari  da parte dei britannici di  British Aerospace  (poi BAE) all’Arabia, nel 1984 e nei decenni successivi. Said in quella storia, nella quale secondo un documento del Governo inglese pubblicato recentemente dal  The Guardian , i costi sarebbero stati gonfiati di  600 milioni di sterline , si interessò dell’affare tra Uk e Arabia Saudita. In quella vicenda hanno avuto un ruolo anche il principe  Bandar Bin Sultan , suo amico e potentissimo capo dei servizi segreti fino ad aprile 2014, e il padre, ex ministro della difesa. Secondo un’inchiesta del 2007 del programma Panorama della BBC la BAE System avrebbe fatto confluire su due conti dell’ ambasciata USA , allora usati anche da Bandar,120 milioni di sterline all’anno. Accuse sempre negate ufficialmente e mai formalizzate dalla Giustizia inglese che archiviò il caso.
+
+ Inoltre secondo un articolo del  The Independent  di luglio 2014 ( leggi )  Bandar potrebbe essere stato, negli anni precedenti alla sua rimozione, l’ispiratore della politica contraria agli sciiti  e favorevole al finanziamento dei combattenti sunniti, cioè anche dell’ Isis , in Iraq. Il principe saudita Bandar bin Sultan, è stato capo dei servizi segreti del Regno fino all’aprile 2014 e ambasciatore in USA fino al 2005. E’ amico della  famiglia Bush  e lo era di  Margareth Tatcher . Anche  Wafic Said  è talmente legato ai conservatori inglesi da avere finanziato fino al 2012, tramite la moglie e la figlia, il partito di  David Cameron . Ma soprattutto David Vincenzetti sa quanto sia legato ai vertici dell’ intelligence saudita  e spera in una vendita lampo.
+
+ Le strategie e il passato della famiglia reale saudita non interessano molto HT e nemmeno Finlombarda. Il 13 novembre Trombetta invia a Vincenzetti, che lo consegnerà in aereo a  Charles Stauffer , manager della Safinvest di Wafic Said, la lettera di intenti firmata da Finlombarda, come hanno fatto anche gli altri soci. Con chi ha parlato Trombetta per ottenere il via libera a vendere le quote di Hacking Team ai sauditi? Il suo socio, la Regione Lombardia (guidata da  Roberto Maroni  già da 9 mesi) era stato informato che stava vendendo la società con i suoi software micidiali con la mediazione di un controverso miliardario come Wafic Said? E Roberto Maroni cosa sapeva? Il Governatore della Regione Lombardia non ha risposto al  Fatto  e anche Trombetta ha evitato di replicare alle nostre richieste.
+
+ Il Copasir dovrà occuparsi di questa storia. Una  pistola carica  sui computer di tutti stava per essere consegnata all’Arabia Saudita senza che nessuno fosse informato? O forse proprio questa trattativa ha convinto un importante dirigente dell’Aise in contatto via mail con David Vincenzetti a non sorridere alle sue proposte di vendere una parte delle quote di Hacking Team, a metà 2014, al Governo Italiano mediante il Fondo strategico italiano?
+
+ L’amministratore e fondatore David Vincenzetti, possiede il 32 per cento di HT Srl, mentre  Valeriano Bedeschi  (co-fondatore e co-amministratore di HT) e  Vittorio Levi (presidente della Panini Spa ed ex amministratore della Olivetti) hanno rispettivamente l’11 e il 4 per cento mentre il fondo privato Innogest – presieduto dall’ex ambasciatore Usa in Italia  Ronald Spogli  – possiede anch’esso come Finlombarda Sgr il 26 per cento. Niente di strano che non vedano l’ora di monetizzare almeno parte del loro investimento.
+
+ Finlombarda però ha investito soldi pubblici e dovrebbe rispondere a logiche diverse. Invece tutti – pubblici e privati – erano d’accordo nel vendere ai sauditi e la  trattativa cade  nei primi mesi del 2014 (secondo quello che si intuisce dalle mail) perché ad aprile 2014 perde il posto il capo dei servizi segreti dell’Arabia Saudita, quel principe Bandar Bin Sulman che era il referente di Wafic Said in Arabia.
+
+ Tutto inizia il 7 novembre del 2013  Giancarlo Russo , collaboratore stretto di Vincenzetti, scrive di “importanti urgenti aggiornamenti da comunicare ai soci in  merito a Mr. Wafic Said”. Subito cominciano i preparativi per il viaggio del 13 novembre a Ryad, nel Kingdom, il Regno di Arabia. Vincenzetti, carica il team e chiede: “Abbigliamento smart casual ma senza sneakers” e soprattutto “il  demo kit  che deve funzionare al 100 per cento”. Come un buon  mercante di armi , vuol far vedere i suoi trofei a chi deve comprare il  bazooka informatico . Ordina così ai suoi di trovare tutti “i dati e riferimenti delle attività passate, presenti e future in quel paese” e chiede che “ci siano un proiettore, microfoni esterni”.
+
+ A occuparsi dei dettagli pratici della trattativa e del viaggio è  Charles Stauffer , il ‘financial manager’ della Safinvest S.A., società di Wafic Said. Ci sono però anche mail dirette tra Vincenzetti e Said. L’obiettivo della visita era comunque impressionare il viceministro Salman e i suoi. Uno dei manager di HT chiede: “Non è il caso di portare un presente al principe? Seriamente, come  gesto di cortesia ”. Vincenzetti replica: “Qualunque nostro presente non sarebbe all’altezza. Il nostro presente siamo noi”. A Salman e ai suoi familiari non interessano i regalini ma la società del  software-spia . Il viaggio di metà novembre è così organizzato: treno Eurojet al mattino da Milano a Ginevra e poi un Boeing 737 di Wafic Said che dalla Svizzera atterra nel ‘Regno’ nel pomeriggio.
+
+ I manager di HT sorridono quando il console chiede loro (per fare il visto) se la visita al principe fosse da classificare come business o governativa. Il 14 novembre David Vincenzetti, Giancarlo Russo e Daniele Milan, incontrano il principe saudita  Salman Bin Sultan  e propongono una dimostrazione ai sauditi. Poi dopo la visita confondono nomi e volti dei tantissimi appartenenti alla casa reale e hanno qualche difficoltà a identificare l’interlocutore. Fin quando Vincenzetti,  Wikipedia  alla mano, conferma che era appunto Salman Bin Sultan.
+
+ La trattativa 
+
+La trattativa all’inizio rallenta perché ci sono mille dettagli da sistemare sui quali Vincenzetti non è d’accordo con gli uomini di Said. Per esempio c’è discordanza sulle quote della  distribuzione dei dividendi  e sulla legge da applicare: HT vorrebbe fosse l’italiana e gli arabi preferiscono la Svizzera. Reali ma furbi i sauditi però tirano sul prezzo: il 4 gennaio 2014 Vincenzetti scrive che aspetta una risposta da Wafic per l’indomani e aggiunge che è deluso perché gli arabi: “Hanno provato  ad abbassare  sensibilmente il prezzo”. I ritmi non coincidono. La fretta di Vincenzetti e la flemma dei sauditi non vanno d’accordo. Il 18 novembre Vincenzetti invia un articolo a Charles Stauffer di Safinvest, l’uomo che segue la trattativa per conto di Wafic Said. Nell’articolo si parla di un  virus  che era stato in grado di bloccare la centrale atomica iraniana. Vincenzetti scrive a Stauffer: “Questo articolo penso sia interessante per te e per quelli dietro di te”. Poi aggiunge che il malware usato dalla  società rivale  è obsoleto rispetto a quello di HT Srl. In pratica per far venire l’acquolina in bocca a Salman, Bandar e ai sauditi che ci sono dietro Charles Stauffer e Wafic Said, il furbo Vincenzetti ricorda quanto sia interessante per loro una società in grado di fare meglio di chi avrebbe bloccato con un sofware una centrale atomica in Iran, regime di ispirazione sciita,  nemico storico  dei sunniti e della famiglia reale che stava per comprare HT.
+
+ L’affare è inquietante ma non si completa: il 14 gennaio I an Barnard  di Capital Generation Partners scrive a Vincenzetti che la società vale  35 milioni  e che l’amministratore (che dovrebbe restare nel suo ruolo per tre anni dopo l’operazione) prenderà 7,7 milioni di euro più il 22 per cento in azioni di una società nuova da creare ad hoc. Poi succede qualcosa, come scrive Vincenzetti in diverse mail ‘ la scacchiera si è rovesciata ’.
+
+ Tra aprile e maggio il nuovo re, salito al trono nel gennaio 2015, fa fuori prima Bandar il 15 aprile da capo dei servizi di sicurezza e poi il fratello Salman dal posto di viceministro della difesa. Wafic Said ha perso i referenti e gli effetti si vedono anche sulla trattativa. A febbraio 2014 Vincenzetti constata  lo stop  e lo spiega con un articolo nel quale l’Itartass, agenzia russa di informazione, scrive che il principe Bandar Bin Sultan, pur essendo ancora in carica in quel momento formalmente, è stato messo da parte dal regime per un cambiamento nella strategia saudita di supporto ai ribelli in Siria.
+
+ Il 18 aprile Vincenzetti allega l’articolo del siluramento dal  vertice dei servizi segreti  di Bandar, avvenuto ora anche formalmente 3 giorni prima, e commenta: “Buongiorno ragazzi quando una scacchiera si rovescia l’ordine prestabilito delle cose diviene un’altra cosa. Questo articolo, il piu’ esplicito che io sia riuscito finora a trovare, spiega molto molto chiaramente perché le cose si sono fermate con W. (Wafic, Ndr) Vi illustro i  retroscena  a voce”. Tra i destinatari ci sono i rappresentanti dei soci e c’è anche il manager Alberto Trombetta, responsabile del venture capital di Finlombarda Sgr, al 100 per cento della Regione Lombardia.
+
+Se la scacchiera non si fosse rovesciata, se il principe Bandar fosse rimasto al suo posto, che partita avrebbe giocato Hacking Team con gli arabi?
+
+ di Marco Lillo | 6 agosto 2015
+
+ The Italian job: Hacking Team e le collaborazioni con le aziende tricolori
+
+ Per commerciare i suoi software spia in tutto il mondo, Hacking Team – l’azienda milanese che alcune settimane fa ha subito un attacco informatico con conseguente  pubblicazione  di molte mail e documenti riservati – si serviva, come  abbiamo scritto  in più occasioni, di una serie di rivenditori, partner commerciali e intermediari. Alcuni di questi sono multinazionali della sorveglianza, altri ruotano attorno a  oscuri imprenditori con aziende panamensi  e simili.
+
+ Tuttavia Hacking Team ha stretto rapporti commerciali anche con diverse aziende italiane: alcune orientate soprattutto al mercato interno delle forze dell’ordine e delle Procure; altre con ambizioni più ampie.
+
+ Nomi come RcsLab (di cui abbiamo scritto  qui ), ma anche RESI informatica, Area spa,Csh & Mps, Sio.
+
+ RESI INFORMATICA E LA TUNISIA DI BEN ALI’
+
+ Nel febbraio 2010 l’impresa italiana RESI Informatica, con sede tra Roma e Aprilia (Latina), avrebbe acquistato un pacchetto Rcs – ovvero il software di intrusione e spionaggio e relativa piattaforma di supporto creati da Hacking Team – per 126mila euro, secondo una fattura pubblicata online – e ripubblicata anche da alcuni  media internazionali  – insieme al resto dei 400 GB di materiale interno all’azienda (materiale ad oggi mai smentito dai diretti interessati).
+
+ Il pacchetto in questione sarebbe stato rivenduto dopo una prova (demo) alla Tunisia, in particolare all’ATI, l’agenzia governativa di internet che controlla anche il principale Isp del Paese e che è stata per anni il motore delle attività di sorveglianza nazionali.
+
+ Un po’ di contesto storico: nel 2010 siamo ancora sotto il regime di Ben Alì, al potere da 23 anni. «Durante i suoi 15 anni di esistenza –  scriverà nel 2011 la rivista americana Wired – l’ATI era nota per censurare internet e violare le caselle di posta personali dei cittadini. Tutto il traffico degli Isp tunisini e le email passavano attraverso i suoi uffici prima di essere rilasciati su internet, e tutto ciò che non era gradito alla dittatura di Ben Alì non vedeva la luce».
+
+ Mentre ancora pochi giorni fa, il gruppo pluripremiato di blogger tunisini pro-democrazia Nawaat,  sottolineava  come le rivelazioni provenienti da Hacking Team confermassero quello che già aveva detto lo stesso amministratore di ATI, Moez Chakchouk, dopo la rivoluzione del 2011: e cioè che la Tunisia era stata «un laboratorio di sistemi di sorveglianza e censura di internet a beneficio di aziende occidentali». A cercare di fare affari in Tunisia in quel periodo non sono solo le italiane Hacking Team e RESI: ci sono ad esempio le americane BlueCoat e NetApp, secondo le dichiarazioni di ex manager di ATI. Insomma, la Tunisia di Ben Alì è un cliente ambito.
+
+ L’Italia poi ha una storia di rapporti privilegiati: secondo la  deposizione  fatta in Parlamento nel 1999 da Fulvio Martini, ex capo del Sismi al tempo del CAF (Craxi, Andreotti, Forlani), nel 1987 il Sismi (oggi AISE) avrebbe organizzato «una specie di colpo di Stato in Tunisia», mettendo a capo del Paese proprio il presidente Ben Alì.
+
+ Ma tornando al software di Hacking Team rivenduto all’agenzia tunisina via RESI Informatica, le cose prendono a un certo punto una brutta piega per le due aziende. Dal dicembre 2010 iniziano infatti le proteste di piazza che porteranno poi alla cacciata di Ben Alì nel gennaio 2011, e alla cosiddetta rivoluzione dei gelsomini. E proprio a dicembre Hacking Team sollecita dei pagamenti che non sembrano arrivare. I rapporti col cliente finale e con RESI si deteriorano e nella lista clienti di Hacking Team la Tunisia resta allo stadio di demo. Nel gennaio 2011, dopo la fuga di Ben Alì, il Ceo di Hacking Team David Vincenzetti commenta: «Sarà difficile per RESI fare business con la Tunisia, almeno per un po’», aggiungendo di ritenerla strettamente legata – al di là della offerta del loro software Rcs – alle attività di gestione e controllo della Rete fatte dal governo tunisino. «Tra le cose maggiormente odiate dai rivoluzionari c’è la ricchezza della famiglia regnante e la CENSURA», commenta Vincenzetti.
+
+ RESI Informatica si presenta come fornitrice di soluzioni di sorveglianza elettronica e delle comunicazioni per primari Isp e telco nazionali e internazionali e per le forze dell’ordine. Fa parte di RESI Group, che controlla anche un’altra azienda italiana, IPS, fornitrice di soluzioni di sorveglianza e intercettazione. Stesso gruppo, località geografica, management. Per la cronaca, RESI Informatica nel 2011 partecipa alla consultazione pubblica indetta dall’Agcom (l’Autorità per le garanzie nelle comunicazioni) sul principio della neutralità della Rete, secondo il quale gli operatori non dovrebbero trattare in modo diverso le comunicazioni elettroniche a seconda del loro contenuto, applicazione, mittente ecc. La sua posizione, favorevole ad alcune forme di gestione del traffico internet, non sorprende molto ed è visionabile  qua .
+
+ RCS LAB E IL FRONTE ORIENTALE
+
+ Hacking Team ha avuto rapporti commerciali anche con un’altra azienda italiana, Rcs Lab, che lavora da anni con le procure nel campo delle intercettazioni – e che nel 2013 fu coinvolta nella vicenda della pubblicazione della intercettazione di Fassino-Consorte («Abbiamo una banca»). I rapporti vanno anche fuori dall’Italia: come abbiamo scritto  qua , attraverso Rcs Lab, Hacking Team intavola trattative col Turkmenistan, il Pakistan, il Bangladesh e il Vietnam. L’ISI, i famigerati servizi segreti pachistani, erano interessati a una licenza per un numero di target che andava dai 500 ai mille. Secondo il rappresentante di Rcs Lab, in Pakistan c’era già FinFisher – lo spyware concorrente della anglo-tedesca Gamma – venduto alla aeronautica militare pachistana.
+
+ In Vietnam invece il potenziale cliente dovrebbe essere il MoPS, il Ministero di Pubblica Sicurezza. C’è però qualche problema di immagine. Secondo le parole del contatto locale in Vietnam di Rcs Lab, che starebbe portando avanti la trattativa, il cliente è preoccupato della cattiva reputazione delle soluzioni di intrusione sulla stampa, perché in quel periodo, agosto 2013, Gamma/FinFisher, la rivale di Hacking Team nel settore, è nell’occhio del ciclone, a seguito della pubblicazione di alcuni rapporti internazionali sulla sua attività. Ma l’interesse è comunque elevato.
+
+ Una pessima fama in tema di diritti umani ce l’ha però proprio lo stesso Vietnam (basta leggersi questo rapporto  https://www.hrw.org/asia/vietnam ), un Paese dominato da un partito unico comunista e dalla repressione di ogni dissenso. Da notare che lo scorso luglio la Svizzera ha vietato l’esportazione di apparecchiature di sorveglianza e intercettazione (in particolare gli IMSI-catcher, che intercettano e tracciano cellulari) in Vietnam e Bangladesh perché ritiene che i destinatari  possano usare gli apparecchi a fini di repressione .
+
+ Il manager dell’area Medio Oriente e Africa di Rcs Lab sonderà – senza risultati – anche una “opportunità” in Myanmar (Birmania), attraverso un’azienda locale che è fornitrice dell’intelligence militare del Paese. I militari del Myanmar sono accusati di torture sui civili, secondo  Reuters .
+
+ Ad andare invece sicuramente in porto è la commessa con la Mongolia: e anche qui i primi rapporti li allaccia il manager di Rcs Lab nel 2013. Nel 2015 risulta attivo per Hacking Team un contratto con l’autorità nazionale anti-corruzione.
+
+ AREA SPA E L’EGITTO
+
+ Hacking Team intrattiene stretti rapporti anche con una nota azienda italiana di tecnologie di intercettazione e monitoraggio della rete, Area spa, di Vizzola Ticino (Varese), che lavora per molte Procure.
+
+ Area era finita sui giornali nel 2011. L’agenzia Bloomberg rivelò infatti che proprio l’azienda varesotta aveva ottenuto una commessa dalla Siria di Bashar Al-Assadper fornire un sistema di intercettazione e analisi del traffico internet e delle email del Paese, per una cifra stimata di 13 milioni di euro. L’azienda fermò successivamente il progetto anche a causa del polverone mediatico. Ma Area Spa è una presenza ricorrente nei convegni delle forze dell’ordine italiane e con un raggio d’azione molto vasto: dal monitoraggio del traffico alla cyber intelligence dalle intercettazioni fino alla infiltrazione di social media e chat (la cosiddetta virtual humint).
+
+ Anche con Area, Hacking Team discute opportunità commerciali all’estero dalla Spagna all’Egitto, e nel settembre 2014 – secondo le fatture online – acquista il software Rcs (regolato da una licenza d’uso) per 430mila euro. Oltre a ciò, nell’autunno 2014 un manager di Hacking Team contatta i vertici di Area per sondare su una occasione in Bangladesh, dove, in cambio di una commissione, «noi vi introdurremmo al partner locale e poi lavorereste con lui».
+
+ Per contro, sempre nello stesso periodo, è Area che invece prova a coinvolgere Hacking Team in una gara in Egitto per una soluzione tattico strategica su tutto il Paese (country wide). Cosa significa? Lo spiega il commerciale di Area nelle mail: «Il completo monitoraggio del traffico internet, passivo e attivo, strategico e tattico». Siamo pochi mesi dopo l’elezione di al-Sisi, ex-capo delle Forze armate, a presidente. Le rivali? Secondo le parole riportate dal commerciale di Area, sarebbero la tedesca Gamma/FinFisher insieme all’italiana che abbiamo già citato sopra, ovvero IPS, e ai taiwanesi di Decision Group. Il cliente finale di questo monitoraggio a tappeto sarebbe nello specifico la Telecomunication Regulatory Authority, l’equivalente egiziana dell’AGCOM italiana. Il partner locale: l’impresa Alkan CIT del Cairo. Tuttavia da Hacking Team successivamente fanno presente che l’Authority non sarebbe un’organizzazione intitolata all’uso della loro soluzione e chiedono dunque quale sia l’utente finale (se diverso). Non pare che alla fine il contratto per Hacking Team vada in porto.
+
+ Comunque con l’Egitto la società milanese aveva almeno già un’altra commessa, a partire dal 2013, dal Ministero della difesa, dipartimento di cyberguerra, per 115mila euro, rinnovata ancora nell’aprile 2015 per 130mila euro. Il partner in quest’ultimo caso è Gnsegroup.com, parte del conglomerato egiziano Mansour, con cui aprono trattative anche su altri potenziali clienti.
+
+ CSH & MPS E SIO
+
+ Hacking Team usa degli intermediari anche per vendere alle Procure italiane. Tra queste, società come Csh & Mps e Sio. La prima, con base a Palermo, era balzata sui giornali con il famoso software Querela, con cui gli investigatori avevano infettato e intercettato il pc di Luigi Bisignani (in foto) nell’inchiesta sulla P4. L’altra è la Sio Spa, che nel 2012 li contatta per una possibile collaborazione sul mercato nazionale e nello specifico sulle Procure della Repubblica. Collaborazione che poi si instaura effettivamente.
+
+ Ma perché Hacking Team usava dei rivenditori anche in Italia? «È questione di marketing», sostiene Fabio Pietrosanti, membro dell’Hermes Center for Technology and Human Rights e conoscitore di quel mercato. «Se sono un’azienda che già cura la sala d’ascolto di una Procura, offrendo un servizio di intercettazioni telematiche e telefoniche, probabilmente gli rivendo anche localizzatori Gps magnetici e captatori informatici (ovvero i trojan o spyware di Hacking Team, ndr). Tutto integrato in una unica console di visualizzazione e su un unico contratto di supporto, così il cliente ha un miglior servizio». Si preferiva delegare – sostiene una fonte che è stata vicina ad Hacking Team – perché era più semplice per tutti. E perché le polizie, che non hanno sempre le capacità sufficienti per fare intelligence, si servono di queste aziende anche per raccogliere informazioni sui target, fare social engineering e portare a termine un attacco.
+
+ In ogni caso, l’integrazione di soluzioni, aziende e strumenti di sorveglianza è molto richiesta dai clienti, nazionali ed esteri. E prontamente fornita anche dalle aziende tricolori.
+
+ CAROLA FREDIANI – 7/8/2015
+
+ Share this:
+ LinkedIn 
+ Twitter 
+ Facebook 
+ E-mail 
+ Stampa 
+ WhatsApp 
+ Skype 
+ Telegram 
+
+ "Mi piace":
+ "Mi piace" Caricamento... 
+
+ Correlati 
+
+ Categoria : Fonti aperte 
+
+ Navigazione articolo
+
+ ← Chi vi ha preso parte deve averlo fatto per motivi di interesse personale 
+
+ Chi ha piazzato in RAI Arturo Diaconale ex ragazzo di bottega della mitica OP di Carmine Mino Pecorelli →
+
+ Rispondi Cancella risposta 
+
+ Scrivi qui il tuo commento... 
+
+ Inserisci i tuoi dati qui sotto o clicca su un'icona per effettuare l'accesso:
+
+ E-mail (obbligatorio) (L'indirizzo non verrà pubblicato) 
+
+ Nome (obbligatorio) 
+
+ Sito web 
+
+ Stai commentando usando il tuo account WordPress.com. 
+ (  Chiudi sessione  / 
+ Modifica  )
+
+ Stai commentando usando il tuo account Google. 
+ (  Chiudi sessione  / 
+ Modifica  )
+
+ Stai commentando usando il tuo account Twitter. 
+ (  Chiudi sessione  / 
+ Modifica  )
+
+ Stai commentando usando il tuo account Facebook. 
+ (  Chiudi sessione  / 
+ Modifica  )
+
+ Annulla 
+
+ Connessione a %s...
+
+ Notificami nuovi commenti via e-mail 
+ Mandami una notifica per nuovi articoli via e-mail 
+
+ Ricerca per: 
+
+ Articoli recenti
+
+ Bambini poveri senza un libro e cibo proteico. In Italia 
+ 21 ottobre 2019 
+
+ A Londra è tempo di “Crisis” 
+ 21 ottobre 2019 
+
+ La biologia dei due sessi è fondamentalmente diversa e come tale va affrontata 
+ 21 ottobre 2019 
+
+ Il novello costituzionalista Luigi Di Maio: “Conte ricordati chi ti ha messo dove stai” 
+ 21 ottobre 2019 
+
+ Ma chi è questo Mustafa Sanalla (NOC) e cosa ce ne viene dal fare affari con lui? 
+ 21 ottobre 2019 
+
+ Il Cile è agli antipodi? 
+ 21 ottobre 2019 
+
+ Ma la Boschi che rivedo in tv dettare la linea è la stessa di “mio padre è una persona per bene”? 
+ 20 ottobre 2019 
+
+ Descalzi: “Io faccio l’amministratore delegato di Eni e soltanto quello” 
+ 20 ottobre 2019 
+
+ Fermo immagine di alcuni anni addietro? 
+ 20 ottobre 2019 
+
+ Umbria inascoltata. Ed era l’11 febbraio 1960  
+ 20 ottobre 2019 
+
+ Chi sarà a rappresentare, il 24 ottobre p.v., l’Italia all’inaugurazione della sede Huawei? 
+ 20 ottobre 2019 
+
+ Gli uomini di un re spagnolo contro milioni di cittadini “repubblicani” 
+ 19 ottobre 2019 
+
+ Domenico Giani è uscito di scena 
+ 19 ottobre 2019 
+
+ Sentenze pilotate a Salerno? 
+ 19 ottobre 2019 
+
+ Il vecchio nella soffitta 
+ 19 ottobre 2019 
+
+ Segui il blog via email 
+
+ Inserisci il tuo indirizzo email per seguire questo blog e ricevere notifiche di nuovi messaggi via e-mail.
+
+ Segui assieme ad altri 1.261 follower
+
+ Iscriviti 
+
+ Follow Leo Rugens on WordPress.com 
+
+ Archivi
+
+ ottobre 2019 
+
+ settembre 2019 
+
+ agosto 2019 
+
+ luglio 2019 
+
+ giugno 2019 
+
+ Mag 2019 
+
+ aprile 2019 
+
+ marzo 2019 
+
+ febbraio 2019 
+
+ gennaio 2019 
+
+ dicembre 2018 
+
+ novembre 2018 
+
+ ottobre 2018 
+
+ settembre 2018 
+
+ agosto 2018 
+
+ luglio 2018 
+
+ giugno 2018 
+
+ Mag 2018 
+
+ aprile 2018 
+
+ marzo 2018 
+
+ febbraio 2018 
+
+ gennaio 2018 
+
+ dicembre 2017 
+
+ novembre 2017 
+
+ ottobre 2017 
+
+ settembre 2017 
+
+ agosto 2017 
+
+ luglio 2017 
+
+ giugno 2017 
+
+ Mag 2017 
+
+ aprile 2017 
+
+ marzo 2017 
+
+ febbraio 2017 
+
+ gennaio 2017 
+
+ dicembre 2016 
+
+ novembre 2016 
+
+ ottobre 2016 
+
+ settembre 2016 
+
+ agosto 2016 
+
+ luglio 2016 
+
+ giugno 2016 
+
+ Mag 2016 
+
+ aprile 2016 
+
+ marzo 2016 
+
+ febbraio 2016 
+
+ gennaio 2016 
+
+ dicembre 2015 
+
+ novembre 2015 
+
+ ottobre 2015 
+
+ settembre 2015 
+
+ agosto 2015 
+
+ luglio 2015 
+
+ giugno 2015 
+
+ Mag 2015 
+
+ aprile 2015 
+
+ marzo 2015 
+
+ febbraio 2015 
+
+ gennaio 2015 
+
+ dicembre 2014 
+
+ novembre 2014 
+
+ ottobre 2014 
+
+ settembre 2014 
+
+ agosto 2014 
+
+ luglio 2014 
+
+ giugno 2014 
+
+ Mag 2014 
+
+ aprile 2014 
+
+ marzo 2014 
+
+ febbraio 2014 
+
+ gennaio 2014 
+
+ dicembre 2013 
+
+ novembre 2013 
+
+ ottobre 2013 
+
+ settembre 2013 
+
+ agosto 2013 
+
+ luglio 2013 
+
+ giugno 2013 
+
+ Mag 2013 
+
+ aprile 2013 
+
+ marzo 2013 
+
+ febbraio 2013 
+
+ gennaio 2013 
+
+ dicembre 2012 
+
+ novembre 2012 
+
+ ottobre 2012 
+
+ settembre 2012 
+
+ agosto 2012 
+
+ luglio 2012 
+
+ Categorie
+
+ Algeriade (13)
+
+ Big Pharma (11)
+
+ db – sinistra bramina (18)
+
+ Elijah Baley (1)
+
+ Energie superiori (1)
+
+ Fonti aperte (1.488)
+
+ Godot (14)
+
+ Grillo e i Cittadini in moVimento (201)
+
+ Il Grande Giocatore (1)
+
+ Il ponte maledetto (2)
+
+ Incursioni nel futuro (538)
+
+ KAMI 4.0 (5)
+
+ La calunnia (72)
+
+ Le rotte cinesi (11)
+
+ Malta (20)
+
+ Storia (524)
+
+ Storie allo sportello (1)
+
+ Uncategorized (3.376)
+
+ Zlabya e il suo gatto (56)
+
+ Meta
+
+ Registrati 
+ Accedi 
+
+ Entries feed 
+
+ Feed dei Commenti 
+
+ WordPress.com 
+
+ Articoli e pagine migliori
+
+ Ma la Boschi che rivedo in tv dettare la linea è la stessa di "mio padre è una persona per bene"? 
+
+ Descalzi: "Io faccio l'amministratore delegato di Eni e soltanto quello" 
+
+ Ma chi è questo Mustafa Sanalla (NOC) e cosa ce ne viene dal fare affari con lui? 
+
+ Chi sarà a rappresentare, il 24 ottobre p.v., l'Italia all'inaugurazione della sede Huawei? 
+
+ Sentenze pilotate a Salerno? 
+
+ Domenico Giani è uscito di scena 
+
+ Fermo immagine di alcuni anni addietro? 
+
+ "Quanto si guadagna nei servizi segreti?" Vi do un consiglio: non è questa l'ora di provare ad essere assunti. Stanno per essere mandati "tutti a casa" 
+
+ Il novello costituzionalista Luigi Di Maio: "Conte ricordati chi ti ha messo dove stai" 
+
+ Il Cile è agli antipodi? 
+
+ Blog su WordPress.com. 
+
+ Pubblica su 
+
+ Annulla 
+
+ Invia a indirizzo e-mail 
+
+ Il tuo nome 
+
+ Il tuo indirizzo e-mail 
+
+ Annulla 
+
+ L'articolo non è stato pubblicato, controlla gli indirizzi e-mail! 
+
+ Verifica dell'e-mail non riuscita. Riprova. 
+
+ Ci dispiace, il tuo blog non consente di condividere articoli tramite e-mail. 
+
+ %d blogger hanno fatto clic su Mi Piace per questo:

@@ -1,0 +1,638 @@
+<meta charset="utf-8"><!-- MHonArc v2.6.16 -->
+<!--X-Head-End-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://seclists.org/rss/firewall-wizards.rss">
+<title>Firewall Wizards: Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response*</title>
+<meta name="Subject" content="Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response*"/>
+<meta name="Author" content="Fabio Pietrosanti"/>
+<link REL="SHORTCUT ICON" HREF="/shared/images/tiny-eyeicon.png" TYPE="image/png">
+<META NAME="ROBOTS" CONTENT="NOARCHIVE">
+<link rel="stylesheet" href="/shared/css/insecdb.css" type="text/css">
+</HEAD>
+<BODY BGCOLOR="#2A0D45" TEXT="#000000"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://seclists.org/firewall-wizards/2001/Mar/120">seclists.org/firewall-wizards/2001/Mar/120</a> · captured 2012-05-20 · scripts removed</div>
+
+<TABLE CELLPADDING="0" WIDTH="100%" CELLSPACING="0">
+<TR><TD ALIGN="left"><A HREF="/"><IMG BORDER=0 ALT="Home page logo"
+SRC="/images/sitelogo.png" HEIGHT=90 WIDTH=168></A></TD>
+<TD VALIGN="bottom" ALIGN="right">
+<!-- Begin TopBanner Code -->
+<!-- AdSpeed.com Serving Code 7.9.5 for [Zone] TopBanner 728x90 -->
+
+<noscript>
+</noscript><!-- AdSpeed.com End -->
+<!-- End Banner Code -->
+
+</TD></TR></TABLE>
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0"><TR>
+<TD ALIGN="left" WIDTH="130" VALIGN="top" class="sidebar">
+
+<!-- SECWIKI PORTAL INSERT -->
+
+<ul>
+<li><a href="http://nmap.org/">Nmap Security Scanner</a>
+<ul>
+<li><a href="http://nmap.org/">Intro</a></li>
+<li><a href="http://nmap.org/book/man.html">Ref Guide</a></li>
+<li><a href="http://nmap.org/book/install.html">Install Guide</a></li>
+<li><a href="http://nmap.org/download.html">Download</a></li>
+<li><a href="http://nmap.org/changelog.html">Changelog</a></li>
+<li><a href="http://nmap.org/book/">Book</a></li>
+<li><a href="http://nmap.org/docs.html">Docs</a></li>
+</ul>
+<li><a href="http://seclists.org/">Security Lists</a>
+<ul>
+<li><a href="http://seclists.org/nmap-hackers/">Nmap Hackers</a></li>
+<li><a href="http://seclists.org/nmap-dev/">Nmap Dev</a></li>
+<li><a href="http://seclists.org/bugtraq/">Bugtraq</a></li>
+<li><a href="http://seclists.org/fulldisclosure/">Full Disclosure</a></li>
+<li><a href="http://seclists.org/pen-test/">Pen Test</a></li>
+<li><a href="http://seclists.org/basics/">Basics</a></li>
+<li><a href="http://seclists.org/">More</a></li>
+</ul>
+<li><a href="http://sectools.org">Security Tools</a>
+<ul>
+<li><a href="http://sectools.org/tag/crackers/">Pass crackers</a></li>
+<li><a href="http://sectools.org/tag/sniffers/">Sniffers</a></li>
+<li><a href="http://sectools.org/tag/vuln-scanners/">Vuln Scanners</a></li>
+<li><a href="http://sectools.org/tag/web-scanners/">Web scanners</a></li>
+<li><a href="http://sectools.org/tag/wireless/">Wireless</a></li>
+<li><a href="http://sectools.org/tag/sploits/">Exploitation</a></li>
+<li><a href="http://sectools.org/tag/packet-crafters/">Packet crafters</a></li>
+<li><a href="http://sectools.org/">More</a></li>
+</ul>
+<li><a href="http://insecure.org/">Site News</a></li>
+<li><a href="http://insecure.org/advertising.html">Advertising</a></li>
+<li><a href="http://insecure.org/fyodor/">About/Contact</a></li>
+<li>
+<!-- SiteSearch Google -->
+<form action="http://insecure.org/search.html" id="cse-search-box-sidebar">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="16">
+    <input type="submit" name="sa" value="Site Search">
+  </div>
+</form>
+
+<!-- End SiteSearch Google -->
+</li>
+<!-- These can come back if I ever update them ...
+<li><a href="http://insecure.org/links.html">Exceptional Links</a></li>
+<li><a href="http://insecure.org/reading.html">Good Reading</a></li>
+<li><a href="http://insecure.org/sploits.html">Exploit World</a></li>
+-->
+<li><a href="http://insecure.org/advertising.html">Sponsors:</a>
+
+<!-- Begin Sidebar 1 Banner Code -->
+<!-- Modified random image selection code -- original version at
+     http://www.bravenet.com/reviews/archives/tips.php?view=8 -->
+
+<NOSCRIPT>
+<A HREF="http://www.acunetix.com/vulnerability-scanner/download.htm"><IMG SRC="/shared/images/p/Acunetix/120x90_Scanner.gif" BORDER=0 HEIGHT=90 WIDTH=120 ALT="Acunetix"></A>
+</NOSCRIPT>
+
+<!-- End Sidebar 1 Banner Code -->
+<BR><BR>
+
+<!-- Begin Sidebar 2 Banner Code -->
+<a href="http://landlanss.gfi.com/freeware-network-security-scanner-sm/?adv=731&amp;loc=1"><img height=90 width=120 border=0 src="/shared/images/p/gfi/120x90_gfi_languard_rebranding.gif" alt=""></a>
+<!-- End Sidebar 2 Banner Code -->
+<BR><BR>
+
+<!-- Begin Sidebar 3 Banner Code -->
+<!-- Modified random image selection code -- original version at
+     http://www.bravenet.com/reviews/archives/tips.php?view=8 -->
+
+<NOSCRIPT>
+<A HREF="http://www.solarwinds.com/sem/network-management/npm/network-monitor.aspx?CMP=SYN-BAD-NMAP-NPMBANNERLEFT-NPM-SEMPAGE-5_1_12"><IMG src="/shared/images/p/solarwinds/sw_npm_120x90.jpg" BORDER=0 ALT="SolarWinds" WIDTH=120 HEIGHT=90></A>
+</NOSCRIPT>
+
+<!-- End Sidebar 1 Banner Code -->
+<BR><BR>
+
+</TD>
+<TD BGCOLOR="#FFFFFF" VALIGN="top" ALIGN="left"><IMG
+SRC="/shared/images/topleftcurve.gif" alt="/"><TABLE CELLPADDING="4" WIDTH="100%"><TR><TD BGCOLOR="#FFFFFF">
+
+<!--X-Body-Begin-->
+<!--X-User-Header-->
+<p>
+<A HREF="/firewall-wizards/"><img src="/images/firewall-wizards-logo.png" border="0" width="80" style="vertical-align: middle" alt="firewall-wizards logo"></A>
+<FONT SIZE="+1"><a href="http://seclists.org/firewall-wizards/">Firewall Wizards</a>
+mailing list archives</FONT><br>
+<!--X-User-Header-End-->
+<!--X-TopPNI-->
+<!-- Google Custom SiteSearch -->
+<form action="http://insecure.org/search.html" id="top-search-box">
+<a href="119"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#120">By Date</a>&nbsp;&nbsp;<a href="121"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="119"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#120">By Thread</a>&nbsp;&nbsp;<a href="123"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="24" />
+    <input type="submit" name="sa" value="Search" />
+</form>
+
+<!-- End Google Custom SiteSearch -->
+</p>
+
+<!--X-TopPNI-End-->
+<!--X-MsgBody-->
+<!--X-Subject-Header-Begin-->
+<font size="+2"><b>Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response*</b></font>
+<hr>
+<!--X-Subject-Header-End-->
+<!--X-Head-of-Message-->
+
+
+<em>From</em>: Fabio Pietrosanti &lt;naif () sikurezza org&gt;<br>
+
+<em>Date</em>: Mon, 19 Mar 2001 16:52:58 +0100 (CET)<br>
+
+<!--X-Head-of-Message-End-->
+<!--X-Head-Body-Sep-Begin-->
+<hr>
+<!--X-Head-Body-Sep-End-->
+<!--X-Body-of-Message-->
+<pre style="margin: 0em;">The only misconfiguration i could see it&apos;s about &quot;tcp intercept&quot; and now
+testing it&apos;s in progress about this feature.
+
+All comment that made Lisa Napier seems to confirm the test i submitted.
+
+In private mail i received many mail about this pix notes of ppl exposing
+me disappoint about pix logging, about pix smtp... about the check of ip
+checksum... my paper was only few notes about pix, and i think that in few
+time other ppl will write something like this.
+
+Which terms should I have violated?
+
+I&apos;m not directly in PIX v6.0 beta program, but i could see pix 6 .
+
+naif
+
+naif () sikurezza org
+naif () Undernet #sikurezza
+
+p.s. sorry for my very bad english...
+
+On Fri, 16 Mar 2001, Brian Ford wrote:
+
+</pre><blockquote style="border-left: #5555EE solid 0.2em; margin: 0em; padding-left: 0.85em"><pre style="margin: 0em;">
+
+Here is the Cisco response to the supposed PIX issues submitted to Bugtraq
+on 3/9/01.
+
+In summary, most of these issues were produced due to the authors
+mis-configuration of the product.   Other notes included by the author
+are  either partially accurate, and/or previously announced issues that
+have been documented by Cisco Systems.  In some cases Cisco PSIRT have
+filed feature requests to include items in future releases.
+
+Note that the original author enrolled in and subsequently violated the
+terms of the PIX v6.0 beta program.
+
+The following is the official Cisco response to the notes posted to BugTraq.
+
+Date: Thu, 15 Mar 2001 22:53:29 -0800
+To: &quot;Fabio Pietrosanti (naif)&quot; &lt;naif () INET IT&gt;, BUGTRAQ () SECURITYFOCUS COM
+From: Lisa Napier &lt;lnapier () cisco com&gt;
+Subject: Re: Cisco PIX Security Notes *Vendor Response*
+
+Hi Fabio,
+
+Here is our response after being able to analyze and test your assertions.
+
+In summary, most of these issues are either misconfigurations, partially
+accurate, and/or  previously documented.  In some cases we have filed
+feature requests to include items in future releases.
+
+Thank you again for your notes regarding PIX version 5.3.  We appreciate
+the courtesy of customers who notify us first, but understand that some do
+not feel vendor notification is necessary.  As a reminder, you are a
+registered participant in the PIX 6.0 beta program, and with respect to any
+findings you may have in the PIX beta software, we request that your
+feedback be sent directly to Cisco per the beta agreement.
+
+Comments inline - I used &quot;++++++++++&quot; to separate my comments, and also
+noted where text was elided for the sake of brevity.
+
+
+At 07:32 PM 03/09/2001 +0100, Fabio Pietrosanti (naif) wrote:
+Working with Cisco PIX Firewall i wrote some note about possible security
+problem of Cisco PIX .
+
+     All test it&apos;s about THE latest pix release on this pix:
+     *****************************************
+     Cisco Secure PIX Firewall Version 5.3(1)
+     &lt;text elided&gt;
+
+
+     -----------------------------------------------------------------
+     -- Cisco PIX Firewall Logging Feature when firewall is probed.
+
+++++++++++++
+
+The PIX Firewall requires that telnet and CSPM/PFM access to the outside
+interface be IPsec protected.  See the reference below for more details.
+
+&lt;<a  rel="nofollow" href="http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223370">http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223370</a>&gt;
+
+In regards to the syslog messages from fragmented SYN, the PIX rejects IP
+fragments that overlap with the transport control fields.  See the
+reference below for more details.
+
+&lt;<a  rel="nofollow" href="http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/syslog/pixemsgs.htm#xtocid234732">http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/syslog/pixemsgs.htm#xtocid234732</a>&gt;
+
+++++++++++++
+
+
+
+     This is what appens when a pix was probed directly from outside world.
+     note: pix is using &quot;logging console debug&quot;
+     note: on every tcp packet to 23/tcp or 1467/tcp of the pix log:
+402106: Rec&apos;d packet not an IPSEC packet.
+   &lt;text elided&gt;
+
+     Logging with this release has many problem, but we tested 6.0 beta and
+some of other problem was resolved.
+
+     -----------------------------------------------------------------
+     --  Cisco PIX Firewall syn flood * EASY DOS WITH PIX
+
+++++++++++++
+
+This is inaccurate.  TCP Intercept is disabled in your configuration, as
+you point out yourself.
+
+      static (naif,outside) external_spyzone 192.168.3.3 netmask
+255.255.255.255 0 0    &lt;-- No connection limit
+
+To enable TCP Intercept, use a non-zero embryonic limit in the static
+command.  See the reference below for more details.
+
+&lt;<a  rel="nofollow" href="http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223367">http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223367</a>&gt;
+
+++++++++++++
+
+
+     For this testing I&apos;ve installed a webserver on 192.168.3.3 statically
+mapped to external_spyzone.
+
+&lt;text elided&gt;
+     ------------------------------------------------------------------
+     --  Cisco PIX Memory Fill
+++++++++++++
+The depletion of memory is *only* possible with hosts that are specifically
+permitted in the telnet list.  Additionally, external hosts permitted in
+the telnet list must also connect via IPSEC in order to exploit this issue.
+
+To control access to the management port 1467, use the telnet command.  See
+the following reference for more details.
+
+&lt;<a  rel="nofollow" href="http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223370">http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223370</a>&gt;
+
+However, to prevent malicious administrators from flooding the PFM
+management console with invalid commands,  bug ID CSCdt69667 has been
+submitted.
+
+
+++++++++++++
+
+    &lt;text elided&gt;
+
+     ------------------------------------------------------------------
+     -- Cisco does not check spoofing under certain condition ( ssh port )
+     For this test  I enabled ssh from outside host with:
+++++++++++++
+
+This issue has already been resolved with the defect ID CSCdt02132, which
+is available via an interim version of 5.3 software.  The PIX will verify
+the permission status with the SSH list before replying to a TCP connection
+setup.
+
+Also, to ensure consistency, a feature request, CSCdt69676, has been
+submitted to
+extend Unicast Reverse Path Forwarding to traffic that terminates at the
+PIX interface.
+
+++++++++++++
+
+     ssh naif_ip 255.255.255.255 outside
+
+     For some reason PIX disable anti-spoofing check when packet
+     are destinated to pix on SSH port.
+&lt;text elided&gt;
+     --------------------------------------------------------------------
+     -- Cisco does not check spoofing under certain condition ( PPTP port )
+++++++++++++
+
+IP address access control to the PPTP server is of limited
+value.  Addresses of hosts that access the PPTP server are typically
+dynamic.  In addition, PPTP has its own mechanisms for user authentication.
+
+However, we recognize that a mechanism to control IP traffic that
+terminates at the PIX does improve the management.  A feature request,
+CSCdr84190, was logged some time ago, but has yet to be implemented.
+
+Also, a feature request, CSCdt69676, to extend Unicast Reverse Path
+Forwarding to traffic that terminates at the PIX has also been logged.
+
+++++++++++++
+
+     For this test I enabled pptp from outside with this configuration:
+&lt;text elided&gt;
+
+
+     ------------------------------------------------------------------
+     -- Cisco PIX SMTP Fixup  not working properly
+++++++++++++
+
+This is inaccurate.  The PIX groups the SMTP commands into three sets.
+
+In the first set are the required commands (HELO, RSET, NOOP, QUIT,
+MAIL, RCPT, and DATA) in RFC821.  These are the generic seven permitted by
+the PIX SMTP fixup command.
+
+In the second set are the optional commands (EHLO, SOML, SEND, SAML,
+VRFY, EXPN. HELP, and TURN) in RFC821.  These commands are translated by
+the PIX SMTP fixup protocol to X&apos;s and the arguments are left intact.
+
+In the third set are invalid or ESMTP commands.  In this case, the full
+command lines are translated by the PIX SMTP fixup command to X&apos;s.
+
+The important item to note is that a SMTP server protected by the PIX
+can assume that a well behaved client will only use commands from
+RFC821.  All these commands are of four bytes, followed by a space and
+finally the argument.  To ensure that valid SMTP sessions are terminated,
+the PIX preserves the above format by rewriting only the first four bytes.
+
+However, we recognize that translating all arguments except spaces can
+also preserve the syntax of RFC821 commands.  A feature request,
+CSCdt70457, has
+been submitted to translate all arguments except spaces to X&apos;s.
+
+Additionally, we recognize that an audit event is useful when the PIX
+rejects a command.  An enhancement request, CSCdt69727, has also been
+submitted.
+
+++++++++++++
+
+     Ok, Ok, now fixup isn&apos;t bypassable but  It will not rewrite completely
+     our command .
+
+     PIX normally allow NOOP,HELO,DATA,MAIL FROM,RCPT TO, QUIT command
+     but what  happens  if  I write,  as for example, &quot;pixsux&quot; ?
+
+   &lt;text elided&gt;
+
+     ------------------------------------------------------------------
+     -- Cisco PIX doesn&apos;t check for bad checksum in ip header.
+++++++++++++
+
+This is incorrect.  The PIX does verify the IP checksum and discard packets
+with incorrect IP checksum.
+
+I believe you are referring to TCP checksum.  PIX does not verify the TCP
+checksum.  TCP checksums are end-to-end and verifying these values will
+cause some applications to fail.
+
+In general, cryptographic applications that use TCP as a transport often do
+not maintain the TCP checksum.  Instead, stronger cryptographic mechanisms,
+such as HMAC, are used to detect packet modification.
+
+++++++++++++
+
+     While playing with hping and pix  I noticed that pix doesn&apos;t check the
+     checksum of the ip header and forward the packet inside the pix .
+
+     Look here, we&apos;ll send 2  packets:
+
+      * First ( with wrong checksum)
+     naif:~/isic-0.05# hping -S -badcksum  -c 1 -p 25 spyzone -k -M 0 -o
+0x10 -w 0 -t 0 -N 1
+     eth0 default routing interface selected (according to /proc)
+     HPING spyzone (eth0 external_spyzone): S set, 40 headers + 0 data bytes
+
+     --- spyzone hping statistic ---
+     1 packets tramitted, 0 packets received, 100% packet loss
+     round-trip min/avg/max = 0.0/0.0/0.0 ms
+
+
+      * Second (with correct checksum)
+
+     naif:~/isic-0.05# hping -S  -s 2154 -c 1 -p 25 spyzone -k -M 0 -o 0x10
+-w 0 -t 0 -N 1
+     eth0 default routing interface selected (according to /proc)
+     HPING spyzone (eth0 external_spyzone): S set, 40 headers + 0 data bytes
+     46 bytes from external_spyzone: flags=SA seq=0 ttl=64 id=29461
+win=32696 rtt=1.6 ms
+
+&lt;text elided&gt;
+
+     ------------------------------------------------------------------
+     -- Cisco PIX and ICMP
+++++++++++++
+
+Being able to ping the PIX interface is a useful troubleshooting tool
+during the installation process, particularly for new firewall
+administrators.  We expect that experienced firewall administrators will
+disable the service, and are familiar enough with security protocols to do
+so, once the unit is installed and basic connectivity verified.  This was
+not a random decision, but carefully considered with significant review of
+the cause of customer calls to the Cisco Technical Assistance Center.
+
+To control icmp traffic that terminates at the PIX, use the icmp
+command.   In our configuration guide, we specifically recommend customers
+to disable icmp  after the unit has been set up and connectivity is
+verified.  See the references below for more details.
+
+<a  rel="nofollow" href="http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223328">http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223328</a>
+
+<a  rel="nofollow" href="http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/config.htm#xtocid2987332">http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/config.htm#xtocid2987332</a>
+++++++++++++
+
+     For some stupid reason Cisco PIX with default setting  accepts icmp
+echo-request
+     destinated to the pix from any source.
+
+     You could send a maximum of an icmp echo-request fragmented into
+     12  packets  having the maximum size of the media ( 1500 for ethernet ) .
+&lt;text elided&gt;
+
+
+
+     --------------------------------------------------------------
+     --- Cisco PIX Firewall Semantic Problem
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+There are many mis-understandings about the functions of Access Control
+Lists within this paper.  Allow us to clarify some of those items.
+
+There is no requirement that the same access-list be used on all
+interfaces.  Different interfaces can and in most cases should have
+different ACLs.
+
+Access Control Lists are always used to select inbound traffic to an interface.
+An Access Control List does not behave differently on different interfaces.
+
+IOS Access lists do provide flexibility in choosing to apply lists to
+inbound or outbound traffic per interface, however, an access list for
+traffic that is applied outbound on one interface is effectively applied
+inbound on all other interfaces.  The elimination of this option in the PIX
+means that disallowed packets are discarded at the earliest possible point,
+rather than the last possible point, when we&apos;ve already spent processor
+time to do address translation, or routing, or whatever.  We eliminate the
+possibility to waste processing time on something we&apos;re going to discard
+anyway.
+
+In general, PIX access-list is similar to IOS access-lists.  The main
+differences are that access-groups are only applied on the inbound
+direction on any given interface, AND, the wildcard mask on the PIX is the
+inverse as that on IOS - meaning that it is a &apos;standard&apos; mask rather than
+the inverted mask of IOS.
+
+See the references below for further details.
+
+<a  rel="nofollow" href="http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid22333">http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid22333</a>
+
+<a  rel="nofollow" href="http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid22334">http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid22334</a>
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+     This is an article about how you could apply filter on the pix and
+     we talk about pix common misconfiguration.
+
+      * Semantic Problem
+
+     First of all, you know that a Firewall , for security reasons,  needs
+     filter should be applied for packet flowing  in and out on each
+interface,  ok?
+     With Cisco IOS you can do it, with Checkpoint you can do it, with
+ipchains/netfilter/ipfilter/ipfw you
+     can do it, with Sonicwall you can do it!! And with PIX? no, with pix
+you cannot have different
+     access-lists for different  interfaces, for different traffic ( in,
+out ) !
+
+     Old pix  uses a stupid concept of outbound/conduit, but now since
+5.1(1) we could use
+     access-list .
+&lt;text elided&gt;
+
+
+     my 2 cents
+
+
+     Fabio Pietrosanti ( naif )
+     naif () sikurezza org
+     naif () Undernet #sikurezza
+     Thanks to vodka for her support :*
+
+Thank you for your attention,
+
+
+
+
+Lisa Napier
+Product Security Incident Response Team
+Cisco Systems
+<a  rel="nofollow" href="http://www.cisco.com/warp/public/707/sec_incident_response.shtml">http://www.cisco.com/warp/public/707/sec_incident_response.shtml</a>
+
+PGP:  A671 782D 2926 B489 F81A 3D5E B72F E407 B72C AF1F
+ID: 0xB72CAF1F, DH/DSS 2048/1024
+
+
+_______________________________________________
+firewall-wizards mailing list
+firewall-wizards () nfr com
+<a  rel="nofollow" href="http://www.nfr.com/mailman/listinfo/firewall-wizards">http://www.nfr.com/mailman/listinfo/firewall-wizards</a>
+
+</pre></blockquote><pre style="margin: 0em;">
+
+_______________________________________________
+firewall-wizards mailing list
+firewall-wizards () nfr com
+<a  rel="nofollow" href="http://www.nfr.com/mailman/listinfo/firewall-wizards">http://www.nfr.com/mailman/listinfo/firewall-wizards</a>
+
+</pre>
+<!--X-Body-of-Message-End-->
+<!--X-MsgBody-End-->
+<!--X-Follow-Ups-->
+<hr>
+<!--X-Follow-Ups-End-->
+<!--X-References-->
+<!--X-References-End-->
+<!--X-BotPNI-->
+<p>
+<a href="119"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#120">By Date</a>&nbsp;&nbsp;<a href="121"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="119"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#120">By Thread</a>&nbsp;&nbsp;<a href="123"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+</p>
+<font size="+1"><b>Current thread:</b></font>
+<ul style="margin-top: 0em">
+<li><a name="119" href="119">Cisco PIX Security Notes posted to BugTraq *Vendor Response*</a> <em>Brian Ford (Mar 18)</em>
+<ul>
+<li><strong>Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response*</strong> <em>Fabio Pietrosanti (Mar 19)</em>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<!--X-BotPNI-End-->
+<!--X-User-Footer-->
+<!--X-User-Footer-End-->
+</TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD></TD><TD ALIGN="center">
+<FONT COLOR="#FFFFFF">
+[ <A HREF="http://nmap.org"><FONT COLOR="#FFFFFF">Nmap</FONT></A> |
+  <A HREF="http://sectools.org"><FONT COLOR="#FFFFFF">Sec Tools</FONT></A> |
+  <A HREF="http://seclists.org/"><FONT COLOR="#FFFFFF">Mailing Lists</FONT></A> |
+  <A HREF="http://insecure.org/"><FONT COLOR="#FFFFFF">Site News</FONT></A> |
+  <A HREF="http://insecure.org/fyodor/"><FONT COLOR="#FFFFFF">About/Contact</FONT></A> |
+  <A HREF="http://insecure.org/advertising.html"><FONT COLOR="#FFFFFF">Advertising</FONT></A> |
+  <A HREF="http://insecure.org/privacy.html"><FONT COLOR="#FFFFFF">Privacy</FONT></A> ]<BR>
+</FONT>
+
+<!-- SiteSearch Google -->
+<!-- I changed the form id so that javascript acts on the top form on search.html page rather than this one. -->
+<form action="http://insecure.org/search.html" id="cse-search-box-bottom">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="60">
+    <input type="submit" name="sa" value="Site Search">
+  </div>
+</form>
+
+<!-- End SiteSearch Google -->
+
+<!-- Bottom Banner -->
+<!-- Modified random image selection code -- original version at
+     http://www.bravenet.com/reviews/archives/tips.php?view=8 -->
+
+<NOSCRIPT>
+<a href="http://insecure.org/shared/images/p/solarwinds/free-tools_net-heroes_728x90.jpg"><img width=728 height=90 border=0 src="/shared/images/p/solarwinds/free-tools_net-heroes_728x90.jpg" alt="SolarWinds"></a>
+</NOSCRIPT>
+<!-- End Bottom Banner -->
+
+<!-- Google Analytics -->
+
+
+<!-- End Google Analytics -->
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>
+
+

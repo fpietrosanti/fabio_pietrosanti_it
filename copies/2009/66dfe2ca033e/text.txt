@@ -1,0 +1,57 @@
+Mobile platform hacking: worms and botnet from phones? at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « The real goal of online marketing: lead generation 
+ Best advices by world leaders » 
+
+ Mobile platform hacking: worms and botnet from phones? 
+
+ Published by naif July 7th, 2009 
+
+ in security and technology . 
+ 0  Comments 
+
+ The hacking community is finally starting seriously auditing and hacking Symbian OS, even if it’s difficult, hard to work on, unpleasant to debug it .
+
+ There are so many mobile operating systems (Symbian OS, Nokia S40, Windows Mobile, RIM OS, Mac OS X, Android/Linux, Brew) that a worm/virus being able to leverage a cross-platform vulnerability it’s just a theory.
+
+ Trusted computing platforms, security model of J2ME Java only phones (like RIM and S40), digital signature everywhere are all tools that make massive hacking on mobile platform really difficult.
+
+ It’s difficult and costly to develop on mobile platforms, it’s difficult and costly too doing hacking on that platforms.
+
+ Still look at a very nice achievement of paper from SEC Consult called Pwning Nokia phones (and other Symbian based smartphones) .
+
+ Can we expect future worms or botnet on mobile? I don’t expect so, too many different OS with hard-to-beat security model.
+
+ And even if a worm would be able to penetrate a single mobile paltform bugs, mobile operators would be able to block it very quickly (compare how many GSM/UMTS operator exists compared to Internet Service Provider?).
+
+ 0 Responses to “Mobile platform hacking: worms and botnet from phones?”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « The real goal of online marketing: lead generation 
+ Best advices by world leaders » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.716 sec. w/ 41 queries.
+
+ RSS Entries and RSS Comments

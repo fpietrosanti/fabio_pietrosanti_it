@@ -1,0 +1,51 @@
+Botnet for RSA cracking? at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « Patent rights and opensource: can they co-exist? 
+ Celebrating “Hackers” after 25 years » 
+
+ Botnet for RSA cracking? 
+
+ Published by naif June 30th, 2010 
+
+ in Privacy , security and technology . 
+ 0  Comments 
+
+ I read an interesting article about putting 1.000.000 computers, given the chance for a serious botnet owner to get it, to crack RSA.
+
+ The result is that in such context attacking an RSA 1024bit key would take only 28 years, compared to theoretical 19 billion of years.
+
+ Reading of this article , is extremely interesting because it gives our very important consideration on the cryptography strength respect to the computation power required to carry on cracking attempt, along with industry approach to “default security level”.
+
+ I would say a must read .
+
+ 0 Responses to “Botnet for RSA cracking?”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « Patent rights and opensource: can they co-exist? 
+ Celebrating “Hackers” after 25 years » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.605 sec. w/ 41 queries.
+
+ RSS Entries and RSS Comments

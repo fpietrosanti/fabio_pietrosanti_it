@@ -1,0 +1,293 @@
+La Guida allE-Commerce di LT42 » con lAvv. Andrea Michinelli e Matteo Flora 
+
+ Scopri 
+
+ La tua Libreria 
+
+ Cerca 
+
+ Per Podcaster
+
+ I tuoi podcast 
+
+ Gratuito
+
+ La nostra piattaforma
+
+ Come funziona Spreaker 
+
+ Podcast App 
+
+ Spreaker Create 
+
+ Prime Network 
+
+ Aiuto 
+
+ {
+ if (!hidden) {
+ $refs.inputMobile.focus();
+ }
+ });
+ if (isSearch && !query) {
+ if (window.innerWidth 
+
+ Registrati
+
+ Log in 
+
+ Registrati 
+
+ Per Podcaster
+
+ I tuoi podcast 
+
+ Gratuito
+
+ Impostazioni
+
+ Tema chiaro
+
+ Tema scuro
+
+ La nostra piattaforma
+
+ Come funziona Spreaker 
+
+ Podcast App 
+
+ Spreaker Create 
+
+ Prime Network 
+
+ Aiuto 
+
+ {
+ if (this.toast) {
+ this.toast = null;
+ }
+ }, timings[this.toast.type]);
+ },
+ getClassType() {
+ return {
+ 'bg-neutral-700 dark:bg-neutral-100 text-white dark:text-neutral-950': this
+ .toast?.type === 'default',
+ 'bg-sky-700 text-white': this.toast?.type === 'info',
+ 'bg-emerald-700 text-white': this.toast?.type === 'success',
+ 'bg-red-800 text-white': this.toast?.type === 'error',
+ 'bg-orange-400 text-neutral-950': this.toast?.type === 'warning'
+ }
+ }
+ }" x-on:toast.window="showToast($event.detail)" x-show="toast" class="fixed left-0 right-0 z-10 md:left-[250px]"
+ x-transition>
+
+ Ciao, Internet! con Matteo Flora
+
+ La Guida allE-Commerce di LT42 » con lAvv. Andrea Michinelli e Matteo Flora
+
+ 9 giu 2020 ·
+ 13 min. 51 sec.
+
+Caricando
+
+ Riproduci
+
+ Pausa
+
+ Aggiungi alla coda
+
+ In coda
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Scarica
+
+ Scarica e ascolta ovunque
+
+ Scarica i tuoi episodi preferiti e goditi l'ascolto, ovunque tu sia! Iscriviti o accedi ora per ascoltare offline.
+
+ Iscriviti per scaricare
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Incorpora
+
+ Incorpora episodio
+
+ `;
+ },
+ copyToClipboard() {
+ this.copyStatus = 'DONE';
+ SP.Utils.copyToClipboard(this.getIframeCode());
+ setTimeout(() => { this.copyStatus = 'IDLE'; }, 2000);
+ }
+}">
+
+ Scuro
+
+ Chiaro
+
+ Copia
+
+ Fatto
+
+ Vuoi aggiungere un tocco personale? Esplora tutte le opzioni di incorporamento disponibili nella nostra guida per sviluppatori
+
+ Condividi su X 
+
+ Condividi su Facebook 
+
+ Condividi su Bluesky 
+
+ Condividi su Whatsapp 
+
+ Condividi su Telegram 
+
+ Condividi su LinkedIn 
+
+ Descrizione
+
+ Durante l’emergenza sanitaria #Covid-19, un grande contributo alla sopravvivenza di tanti piccoli e medi business è stato dato anche dall’attivazione e/o il potenziamento di canali di vendita online.
+
+Ora è...
+
+ mostra di più 
+
+ Durante l’emergenza sanitaria #Covid-19, un grande contributo alla sopravvivenza di tanti piccoli e medi business è stato dato anche dall’attivazione e/o il potenziamento di canali di vendita online.
+
+Ora è il momento del #rilancio, e per chi intende avvicinarsi al mondo dell’ #ecommerce @LT42 - The Legal Tech Company (a partire un’idea di @Andrea Michinelli) ha preparato un nuovo Vademecum operativo, sempre gratuito, in due “puntate”.
+
+In questa prima parte viene fornita una panoramica generale (sintetica ma non troppo) sugli aspetti introduttivi da prendere in considerazione: #digitalizzazione, #delivery, #legali, #fiscali.
+
+Fondamentale il contributo di:
+* Paolo Picazio (Shopify Italia)
+* Fabio Pietrosanti (Licenziatario del network GLS )
+* Valerio Vertua (Studio Vertua)
+* Matteo Flora (Founder TheFool)
+
+Il contenuto è scaricabile immediatamente da qui: https://landing.lt42.it/ecommerce
+
+Io sono http://matteoflora.com
+mi trovi su Youtube qui http://go.mgpf.it/mgpf-yt
+su Faceboook qui http://go.mgpf.it/mgpf-fb
+su Podcast qui http://go.mgpf.it/2iG9pPA
+e su Instagram e Twitter come @lastknight
+
+ mostra meno 
+
+ Commenti
+
+ Accedi per lasciare un commento
+
+ Informazioni
+
+ Autore 
+
+ Matteo Flora
+
+ Organizzazione
+
+ Matteo G.P. Flora
+
+ Sito 
+
+ -
+
+ Tag 
+
+ -
+
+ 🇮🇹 Italiano
+
+ 🇬🇧 English 
+
+ 🇮🇹 Italiano 
+
+ 🇪🇸 Espanõl 
+
+ 🇮🇹 Italiano
+
+ 🇬🇧 English 
+
+ 🇮🇹 Italiano 
+
+ 🇪🇸 Espanõl 
+
+ Termini 
+
+ Privacy 
+
+ {e.preventDefault(); showOneTrustPreferenceCenter();}"
+ class="ot-sdk-show-settings hover:underline">
+ Cookie Settings
+
+ Copyright 2026 - Spreaker Inc. an
+ iHeartMedia Company
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ In riproduzione ora
+
+ Coda
+
+ Sembra che non tu non abbia alcun episodio attivo
+
+ Sfoglia il catalogo di Spreaker per scoprire nuovi contenuti
+
+ Esplora adesso
+
+ Corrente
+
+ Sembra che non ci sia nessun episodio nella tua coda
+
+ Sfoglia il catalogo di Spreaker per scoprire nuovi contenuti
+
+ Esplora adesso
+
+ 1" class="mt-6">
+
+ Successivo
+
+ Gestisci
+
+ Fatto
+
+ svg]:text-white">
+
+ Sposta su
+
+ Sposta su
+
+ Sposta giù
+
+ Sposta giù
+
+ Rimuovi
+
+ svg]:text-white">
+
+ Che silenzio che c’è... 
+
+ È tempo di scoprire nuovi episodi! 
+
+ Scopri
+
+ La tua Libreria
+
+ Cerca
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Sblocca tutto il potenziale di Spreaker
+
+ Iscriviti per continuare ad ascoltare, accedi alla tua libreria per riprendere gli episodi da dove li avevi lasciati e connettiti con i tuoi creatori preferiti. Vivi l'esperienza di ascolto definitiva su Spreaker!
+
+ Iscriviti gratuitamente

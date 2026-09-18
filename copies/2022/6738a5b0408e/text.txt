@@ -1,0 +1,338 @@
+GitHub - fpietrosanti/monitorapa: Progetto per monitoraggio e notifica di non compliance GDPR alle PA con input da IndicePA · GitHub 
+
+ Skip to content 
+
+ Navigation Menu
+
+ Sign in Appearance settings
+
+ Platform AI CODE CREATION GitHub Copilot Write better code with AI 
+ GitHub Copilot app Direct agents from issue to merge 
+ MCP Registry Integrate external tools 
+
+ DEVELOPER WORKFLOWS Actions Automate any workflow 
+ Codespaces Instant dev environments 
+ Issues Plan and track work 
+ Code Review Manage code changes 
+ Code Quality Enforce quality at merge 
+
+ APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities 
+ Code security Secure your code as you build 
+ Secret protection Stop leaks before they start 
+
+ EXPLORE Why GitHub 
+ Documentation 
+ Blog 
+ Changelog 
+ Marketplace 
+
+ View all features 
+
+ Solutions BY COMPANY SIZE Enterprises 
+ Small and medium teams 
+ Startups 
+ Nonprofits 
+
+ BY USE CASE App Modernization 
+ DevSecOps 
+ DevOps 
+ CI/CD 
+ View all use cases 
+
+ BY INDUSTRY Healthcare 
+ Financial services 
+ Manufacturing 
+ Government 
+ View all industries 
+
+ View all solutions 
+
+ Resources EXPLORE BY TOPIC AI 
+ Software Development 
+ DevOps 
+ Security 
+ View all topics 
+
+ EXPLORE BY TYPE Customer stories 
+ Events & webinars 
+ Ebooks & reports 
+ Business insights 
+ GitHub Skills 
+
+ SUPPORT & SERVICES Documentation 
+ Customer support 
+ Community forum 
+ Trust center 
+ Partners 
+
+ View all resources 
+
+ Open Source COMMUNITY GitHub Sponsors Fund open source developers 
+
+ PROGRAMS Security Lab 
+ Maintainer Community 
+ GitHub Stars 
+ Archive Program 
+
+ REPOSITORIES Topics 
+ Trending 
+ Collections 
+
+ Enterprise ENTERPRISE SOLUTIONS Enterprise platform AI-powered developer platform 
+
+ AVAILABLE ADD-ONS GitHub Advanced Security Enterprise-grade security features 
+ Copilot for Business Enterprise-grade AI features 
+ Premium Support Enterprise-grade 24/7 support 
+
+ Pricing 
+ Search / 
+
+ Sign in 
+ Sign up Appearance settings
+
+ You signed in with another tab or window. Reload to refresh your session. 
+ You signed out in another tab or window. Reload to refresh your session. 
+ You switched accounts on another tab or window. Reload to refresh your session. 
+
+ Dismiss alert 
+
+ {{ message }}
+
+ fpietrosanti
+
+ / 
+
+ monitorapa 
+
+ Public 
+
+ forked from MonitoraPA/monitorapa 
+
+ Notifications
+ You must be signed in to change notification settings 
+
+ Fork
+ 0 
+
+ Star
+ 0 
+
+ Code 
+
+ Pull requests 
+ 0 
+
+ Actions 
+
+ Projects 
+
+ Security and quality 
+ 0 
+
+ Insights 
+
+ Additional navigation options 
+
+ Code
+
+ Pull requests
+
+ Actions
+
+ Projects
+
+ Security and quality
+
+ Insights
+
+ main 
+
+ Branches Tags 
+
+ Go to file 
+
+ Code Open more actions menu 
+
+ Latest commit
+
+ History
+ 186 Commits 
+ 186 Commits 
+
+ Folders and files
+ Name Name Last commit message 
+ Last commit date 
+
+ check 
+
+ check 
+
+ cli 
+
+ cli 
+
+ datasets 
+
+ datasets 
+
+ out 
+
+ out 
+
+ web 
+
+ web 
+
+ .gitignore 
+
+ .gitignore 
+
+ ARCHITETTURA.md 
+
+ ARCHITETTURA.md 
+
+ AUTHORS.md 
+
+ AUTHORS.md 
+
+ Dockerfile 
+
+ Dockerfile 
+
+ Dockerfile-base 
+
+ Dockerfile-base 
+
+ LICENSE.txt 
+
+ LICENSE.txt 
+
+ PROGRESS.md 
+
+ PROGRESS.md 
+
+ README.md 
+
+ README.md 
+
+ docker-compose.yml 
+
+ docker-compose.yml 
+
+ docker.sh 
+
+ docker.sh 
+
+ View all files 
+
+ Repository files navigation
+
+ README 
+ License 
+
+ More items 
+
+ MonitoraPA
+
+ Monitoring system for GDPR compliance of Public Administrations
+
+ Telegram: https://t.me/monitoraPA 
+
+ Element/Matrix : https://matrix.to/#/%23MonitoraPA:matrix.opencloud.lu 
+
+ Project Organization
+
+ MonitoraPA is composed of several components.
+
+ A command line interface (in Python3) to run various automatic GDPR
+compliance checks on several Public Administrations and to automate
+some statistics and notifications to proper authorities in cli/ ,
+as specified in SPECIFICATION.md and
+documented in MANUAL.md 
+
+ A catalogue of compliance checks (in JavaScript, run by Selenium)
+in check/ .
+
+ A minimal website about the project in web/ 
+
+ Some datasets to further extend the reach and impact of the project
+in datasets/ 
+
+ Authors, Copyright and Licensing
+
+ MonitoraPA has been created by several AUTHORS .
+
+ It's brought to you under the Hacking License that, as
+an explicit wrap contract between you and the authors, must also be
+applied to all dependant and derivative works (including the outputs
+you produce running the system), recursively.
+
+ You cannot mix (A)GPL code with hacks covered by the Hacking License.
+
+ Web Design
+
+ See the README.md in new repository https://github.com/MonitoraPA/web#design 
+
+ Coding Guidelines
+
+ Code like if your hack should be maintained by a child who
+just learned how to code.
+
+ Do NOT try to solve problems that you haven't measured before.
+
+ Do NOT apply any "enterprise best practice". We are not a company.
+
+Do NOT try to show us how smart you are. We don't care.
+
+ Avoid dependencies.
+
+ Use good sense... but remember: it's not common.
+
+ About 
+ Progetto per monitoraggio e notifica di non compliance GDPR alle PA con input da IndicePA
+ monitora-pa.it 
+ Resources 
+ Readme 
+ License 
+ Activity 
+ Stars 
+ 0 stars 
+ Watchers 
+ 0 watching 
+ Forks 
+ 0 forks 
+ Report repository 
+
+ Releases 
+
+ Packages 
+
+ Contributors 
+
+ Languages 
+
+ Footer
+
+ © 2026 GitHub, Inc.
+
+ Footer navigation
+
+ Terms 
+
+ Privacy 
+
+ Security 
+
+ Status 
+
+ Community 
+
+ Docs 
+
+ Contact 
+
+ Manage cookies
+
+ Do not share my personal information
+
+ You can’t perform that action at this time.

@@ -1,0 +1,866 @@
+YouTube 
+
+ About 
+ Press 
+ Copyright 
+ Contact us 
+ Creators 
+ Advertise 
+ Developers 
+
+ Terms 
+ Privacy 
+ Policy & Safety 
+ Test new features 
+
+ © 2019 YouTube, LLC
+
+ Debug 
+
+ [[item.title]]
+
+ Copy Visitor ID 
+ Show logging window 
+ Hide debug menu 
+
+ [[item.title]]
+
+ [[item.content]]
+
+ [[getSimpleString(data.formattedTitle)]] 
+
+ [[data.count]]
+
+ [[unseenCount_]]
+
+ [[placeholder_]] 
+
+ [[placeholder_]] 
+
+ [[countryCode]] 
+
+ [[menuStrings_.BACK_ALT_LABEL]]
+
+ [[menuStrings_.SEARCH_ALT_LABEL]]
+
+ [[badge.metadataBadgeRenderer.label]] 
+
+ [[getSimpleString(data.positionText)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.segmentAnnotation)]]
+
+ [[data.tooltip]] 
+
+ [[getSimpleString(data.text)]] 
+
+ [[getSimpleString(data.text)]] 
+
+ [[getSimpleString(data.text)]]
+
+ [[computeTooltip_(data.untoggledTooltip, data.toggledTooltip, data.isToggled)]]
+
+ [[getSimpleString(data.indexText)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.shortBylineText)]] 
+
+ [[computeIndexMessage_(data.currentIndex, data.totalVideos)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.promoText)]]
+
+ [[getSimpleString(item.musicPassSmallFeatureInfoRenderer.header)]]
+
+ [[getSimpleString(data.question)]] 
+
+ [[getSimpleString(data.header)]] 
+
+ [[getSimpleString(data.text)]]
+
+ [[heading]]
+
+ [[getSimpleString(item)]]
+
+ [[getSimpleString(item)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.subscriptionTitle)]]
+
+ [[getSimpleString(item.unlimitedSubscriptionInfoRenderer.title)]]
+
+ [[getSimpleString(item.unlimitedSubscriptionInfoRenderer.content)]]
+
+ [[menuStrings_.LANGUAGE_LABEL]] 
+ [[clientSettings_.language]] 
+
+ [[menuStrings_.COUNTRY_LABEL]] 
+ [[clientSettings_.country]] 
+
+ [[menuStrings_.RESTRICTED_MODE_LABEL]] 
+ [[computeRestrictedModeText_(clientSettings_.restrictedMode)]] 
+
+ [[menuStrings_.CLASSIC_YOUTUBE_LABEL]]
+
+ [[menuStrings_.CHOOSE_LANGUAGE_LABEL]]
+
+ [[item.1]]
+
+ [[menuStrings_.CHOOSE_COUNTRY_LABEL]]
+
+ [[item.2]]
+
+ [[menuStrings_.RESTRICTED_MODE_TITLE]]
+
+ [[menuStrings_.RESTRICTED_MODE_TEXT_LINE_1]]
+
+ [[menuStrings_.RESTRICTED_MODE_TEXT_LINE_2]]
+
+ [[computeRestrictedModeText_(clientSettings_.restrictedMode)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.bodyText)]]
+
+ [[iconLabel]]
+
+ [[computeLabel_(selected)]]
+
+ [[item.title]]
+
+ [[item.subtitle]]
+
+ [[data.tooltip]] 
+
+ [[_text]]
+
+ [[_charCounterStr]] 
+
+ [[label]] 
+
+ [[errorMessage]] 
+
+ [[getSimpleString(data.responseText)]] 
+
+ •
+
+ [[item]] 
+
+ [[getSimpleString_(item)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.dragLabel)]] 
+
+ [[getSimpleString(data.licenseText)]] 
+ [[errorMessage_]] 
+
+ [[data.text]]
+
+ [[label]]
+
+ [[getSimpleString(data.lengthText)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[data.displayName]]
+
+ [[computePlaceholderText_(data, addedAttachment, prefilledAttachment_)]]
+
+ [[getSimpleString(data.postCreationDisabledAnnotation)]]
+
+ [[data.heartedTooltip]] 
+
+ [[getSimpleString(voteCount)]]
+
+ [[getSimpleString(voteCount)]]
+
+ [[getSimpleString(data.label)]] 
+ [[getSimpleString(data.tooltip)]] 
+
+ [[computeInappropriateText_(data)]] 
+ VIEW 
+
+ [[getSimpleString(data.authorText)]]
+
+ •
+
+ [[getSimpleString(data.moderationReasonText)]]
+
+ [[getSimpleString(data.expandButton.buttonRenderer.text)]] 
+ [[getSimpleString(data.collapseButton.buttonRenderer.text)]] 
+
+ [[getSimpleString(data.moreText)]]
+
+ [[getSimpleString(data.lessText)]]
+
+ [[getSimpleString(data.moreText)]]
+
+ [[getSimpleString(data.lessText)]]
+
+ [[getSimpleString(data.authorText)]] 
+
+ [[getSimpleString(data.expandButton.buttonRenderer.text)]] 
+ [[getSimpleString(data.collapseButton.buttonRenderer.text)]] 
+
+ [[getSimpleString(data.expander.commentModerationPanelExpanderRenderer.text)]]
+
+ [[getSimpleString(data.expander.commentModerationPanelExpanderRenderer.text)]]
+
+ [[getSimpleString(data.authorText)]] 
+
+ • 
+
+ [[getSimpleString(data.expandButton.buttonRenderer.text)]]
+
+ [[getSimpleString(data.collapseButton.buttonRenderer.text)]]
+
+ [[getSimpleString(data.backstageAttachment.pollRenderer.totalVotes)]]
+
+ [[getSimpleString(data.commentsDisabledMessage)]]
+
+ [[getSimpleString(data.title)]]
+
+ {{label}} 
+
+ [[getSimpleString(data.label)]]
+
+ [[data.businessEmail]] 
+
+ [[getSimpleString(data.title)]] 
+
+ [[getSimpleString(data.subscriberCountText)]] 
+ • 
+ [[getSimpleString(data.videoCountText)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.contentTitle)]]
+
+ [[getSimpleString(data.source)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.readMoreText)]] 
+ [[getSimpleString(data.showLessText)]] 
+
+ [[getSimpleString(data.conversationName)]]
+
+ [[getSimpleString(data.lastPostActivity)]]
+
+ [[getSimpleString(data.lastPostTimestampText)]]
+
+ [[getSimpleString(data.channelTitle)]]
+
+ [[getSimpleString(data.title)]] 
+ [[getSimpleString(data.subscriberCountText)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.metadata)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]] 
+
+ [[item]] 
+
+ [[getSimpleString(item)]] 
+
+ [[getSimpleString(data.actionMessage)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(item)]] 
+
+ [[getSimpleString(data.description)]]
+
+ [[getSimpleString(data.channelTitle)]] 
+
+ [[getSimpleString(data.title)]] 
+
+ [[getSimpleString(data.query)]]
+
+ [[getSimpleString(data.responseText)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.text)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.text)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.expirationDate)]]
+
+ [[getSimpleString(data.text)]]
+
+ [[getSimpleString(data.timestamp)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(item)]]
+
+ [[getSimpleString(item)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.subTitle)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.storeValueBalance)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[data.query]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.description)]] 
+
+ [[getSimpleString(data.pageTitle)]]
+
+ [[getSimpleString(data.headerText)]]
+
+ [[data.name]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.text)]]
+
+ [[getSimpleString(data.helpText)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.description)]]
+
+ [[getSimpleString(data.videoCountText)]]
+
+ [[data.title]]
+
+ [[data.price]]
+
+ [[data.additionalFeesText]]
+
+ [[data.additionalFeesText]]
+
+ [[data.vendorName]]
+
+ [[data.fromVendorText]]
+
+ [[data.vendorName]]
+
+ [[data.description]]
+
+ [[data.buttonText]]
+
+ [[data.fromVendorText]]
+
+ [[data.vendorName]]
+
+ [[data.price]]
+
+ [[data.fromVendorText]]
+
+ [[data.vendorName]] 
+
+ [[getSimpleString(data.headline)]] 
+ [[getSimpleString(data.priceText)]] 
+ [[getSimpleString(data.merchant)]] 
+
+ [[getSimpleString(data.reviewText)]] 
+
+ [[getSimpleString(data.priceText)]]
+
+ [[getSimpleString(data.merchant)]]
+
+ [[getSimpleString(data.headline)]] 
+ [[getSimpleString(data.priceText)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]] 
+
+ [[getSimpleString(data.title)]] 
+
+ [[getSimpleString(label)]]
+
+ [[ariaLabel]] 
+
+ [[ariaLabel]] 
+ [[message_]]
+
+ [[data.title]] 
+
+ [[item.tabRenderer.title]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.autoGenerated)]]
+
+ [[getSimpleString(data.description)]]
+
+ [[getSimpleString(data.metadata)]]
+
+ [[item.tabRenderer.title]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]] 
+
+ [[data.title]]
+
+ [[getSimpleString(data.label)]]
+
+ [[getSimpleString(data.value)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.subtitle)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.text)]]
+
+ [[getSimpleString(data.title)]] 
+ [[getSimpleString(data.text)]] 
+
+ [[getSimpleString(data.footer)]] 
+
+ [[getSimpleString(data.redCommentingText)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[data.channelTitle]]
+
+ [[getSimpleString(data.title)]] 
+
+ [[getSimpleString(data.headerText)]]
+
+ object-fit="COVER"
+
+ [[getSimpleString(data.placeName)]]
+
+ [[getSimpleString(data.placeAddress)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.homeName)]] 
+ [[getSimpleString(data.homeParticipantResult)]] 
+
+ [[getSimpleString(data.awayName)]] 
+ [[getSimpleString(data.awayParticipantResult)]] 
+
+ [[getSimpleString(data.eventDescription)]]
+
+ [[getSimpleString(data.additionalEventDescription)]]
+
+ [[getSimpleString(data.label)]] 
+
+ [[getSimpleString(data.subtitle)]] 
+
+ [[getSimpleString(data.viewAllText)]]
+
+ [[label_]]
+
+ [[getUppercaseSimpleString_(item)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(item)]]
+
+ [[getSimpleString(item.watchCardVideoRenderer.badges.0.liveBadge.label)]]
+
+ [[getSimpleString(item.watchCardVideoRenderer.title)]]
+
+ [[getSimpleString(data.reason)]]
+
+ [[getSimpleString(data.reason)]]
+
+ [[getSimpleString(data.subreason)]]
+
+ [[getSimpleString(data.shopText)]] 
+
+ [[getSimpleString(data.sponsoredText)]] 
+
+ [[getSimpleString(data.adInfoText)]] 
+
+ [[getSimpleString(cueGroup.transcriptCueGroupRenderer.formattedStartOffset)]]
+
+ [[getSimpleString(item.transcriptCueRenderer.cue)]]
+
+ [[getSimpleString(data.formattedTitle)]]
+
+ {{text}} 
+
+ [[getSimpleString(data.headerTitle)]]
+
+ [[getSimpleString(data.campaignTitle)]]
+
+ [[getSimpleString(data.campaignSubtitle)]]
+
+ [[getSimpleString(item.description)]]
+
+ [[getSimpleString(data.nonprofitTitle)]]   
+
+ [[getSimpleString(data.nonprofitSubtitle)]]
+
+ [[getSimpleString(data.nonprofitDescription)]]
+
+ [[data.title]]
+
+ [[data.informationText]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.topMetadataSection)]] 
+
+ [[getSimpleString(data.middleMetadataSection)]]
+
+ [[getSimpleString(item.name)]]
+
+ [[getSimpleString(item.value)]] 
+
+ [[getSimpleString(data.hoverText)]]
+
+ [[data.headline.text]]
+
+ [[adBadgeText]]
+
+ [[data.description.text]]
+
+ [[data.headline]]
+
+ [[adBadgeText]]
+
+ [[data.descriptionText]]
+
+ [[getSimpleString(data.adBadgeText)]]
+
+ [[getSimpleString(data.shopText)]]
+
+.
+
+ [[firstEvent_.title]]
+
+ [[data.informationText]]
+
+ [[firstEvent_.subtitle]] 
+
+ [[firstEvent_.timeMonth]]
+
+ [[firstEvent_.timeDay]]
+
+ [[data.title]]
+
+ [[firstEvent_.subtitle1]]
+
+ [[firstEvent_.subtitle2]]
+
+ [[firstEvent_.buttonText]]
+
+ [[item.timeDate]]
+
+ [[item.timeWeekday]]
+
+ [[item.timeTime]]
+
+ [[item.subtitle2]]
+
+ [[item.buttonText]]
+
+ [[data.showMore]]
+
+ [[data.showLess]]
+
+ [[getSimpleString(data.viewCount)]] 
+ [[getSimpleString(data.shortViewCount)]] 
+
+ [[data.tooltip]] 
+
+ • 
+
+ [[getSimpleString(content)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.subtitle)]]
+
+ [[getSimpleString(data.callToAction)]]
+
+ [[getSimpleString(data.dateText)]] 
+
+ — [[getSimpleString(data.description)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.toggleDescription)]]
+
+ [[getSimpleString(data.infoText)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.topMetadataItems.0)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[adBadgeText]]
+
+ [[getSimpleString(data.title)]] 
+ [[getSimpleString(data.subtitle)]] 
+
+ -
+
+ :
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(stateRenderer.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[item.optionSelectableItemRenderer.accessibility.accessibilityData.label]]
+
+ [[label]] 
+
+ [[errorMessage]] 
+
+ [[data.enablePrivacyModeOptionLabel.accessibility.accessibilityData.label]]
+
+ [[menuStrings_.SHARE_LABEL]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.additionalInfoHeader)]]
+
+ [[getSimpleString(data.memberInfo)]] 
+ [[getSimpleString(data.memberTitle)]] 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(selectedData_.pausePeriodMessage)]]
+
+ [[getSimpleString(selectedData_.pauseEndMessage)]]
+
+ [[getSimpleString(data.title)]]
+
+ ]*" pattern-error-message="[[addToStrings_.NO_ANGLE_BRACKET_LABEL]]" required="" required-error-message="[[addToStrings_.REQUIRED_LABEL]]" class="style-scope ytd-add-to-playlist-create-renderer">
+
+ [[addToStrings_.ADD_TO_DROPDOWN_LABEL]]
+
+ [[getSimpleString(data.dialogRenderer.backstagePostDialogRenderer.title)]]
+
+ [[data.title]]
+
+ [[data.shortMessage]]
+
+ [[getSimpleString(data.timestampText)]]
+
+ [[data.channelTitle]]
+
+ [[getSimpleString(data.heartDetailsRenderer.conversationItemHeartDetailsFacepileRenderer.overflowTextViewerNotHearted)]]
+
+ [[getSimpleString(data.heartDetailsRenderer.conversationItemHeartDetailsFacepileRenderer.overflowTextViewerHearted)]]
+
+ [[getSimpleString(data.referenceUserText)]]
+
+ [[getSimpleString(data.postText)]]
+
+ [[getSimpleString(data.timestampText)]]
+
+ [[data.playlistTitle]]
+
+ [[data.playlistAuthorName]]
+
+ •
+
+ [[getSimpleString(data.heartDetailsRenderer.conversationItemHeartDetailsFacepileRenderer.overflowTextViewerNotHearted)]]
+
+ [[getSimpleString(data.heartDetailsRenderer.conversationItemHeartDetailsFacepileRenderer.overflowTextViewerHearted)]]
+
+ [[getSimpleString(data.referenceUserText)]]
+
+ [[getSimpleString(data.timestampText)]]
+
+ [[getSimpleString(data.heartDetailsRenderer.conversationItemHeartDetailsFacepileRenderer.overflowTextViewerNotHearted)]]
+
+ [[getSimpleString(data.heartDetailsRenderer.conversationItemHeartDetailsFacepileRenderer.overflowTextViewerHearted)]]
+
+ [[getSimpleString(data.referenceUserText)]]
+
+ [[getSimpleString(data.lengthText)]]
+
+ [[getSimpleString(data.timestampText)]]
+
+ [[getSimpleString(data.userContextText)]]
+
+ [[getSimpleString(data.referenceUserText)]]
+
+ [[getSimpleString(data.pickerTitle)]]
+
+ [[getSimpleString(data.campaignTitle)]]
+
+ [[getSimpleString(data.campaignSubtitle)]]
+
+ [[getSimpleString(data.campaignDescription)]]
+
+ [[getSimpleString(data.nonprofitTitle)]]
+
+ [[getSimpleString(data.nonprofitSubtitle)]]
+
+ [[getSimpleString(data.currencySymbol)]] 
+
+ [[getSimpleString(data.thankYouMessage)]]
+
+ [[getSimpleString(data.additionalInfo)]]
+
+ [[getSimpleString(data.creatorMessage.description)]]
+
+ [[getSimpleString(data.creatorMessage.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.thirdPartyName)]]
+
+ [[getSimpleString(data.label)]]
+
+ [[data.hotkey]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.title)]]
+
+ : 
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.timestampLabel)]]
+
+ [[getSimpleString(data.nameSubtext)]]
+
+ [[getSimpleString(data.footerText)]]
+
+ [[getSimpleString(data.requiredLabel)]]
+
+ [[getSimpleString(data.messageTitle)]]
+
+ [[getSimpleString(item)]]
+
+ [[getSimpleString(data.description)]]
+
+ [[getSimpleString(data.description)]]
+
+ [[getSimpleString(data.question)]]
+
+ [[computeText_(data.isToggled, data.defaultText, data.toggledText)]] 
+
+ [[getSimpleString(data.addConnectionText)]]
+
+ [[getSimpleString(data.userPublicName)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.userPublicName)]]
+
+ [[getSimpleString(data.invitedMessage)]]
+
+ [[getSimpleString(item)]]
+
+ [[getSimpleString(data.label)]]
+
+ [[getSimpleString(data.question)]]
+
+ [[getSimpleString(item.radioButtonSurveyOptionRenderer.option)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.timestampLabel)]]
+
+ [[data.title]]
+
+ [[item.label]] 
+
+ [[data.catagoryLabel]]
+
+ [[item.label]]
+
+ [[data.cancelButtonLabel]] 
+
+ [[data.submitButtonLabel]]
+
+ [[getSimpleString(data.name)]]
+
+ [[getSimpleString(data.header)]]
+
+ [[getSimpleString(data.label)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(item.subscriptionRadioOptionRenderer.text)]]
+
+ [[title]]
+
+ [[title]]
+
+ [[title]]
+
+ × 
+
+ [[getSimpleString(data.searchHeader)]]
+
+ [[getSimpleString(data.text)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.subtitle)]]
+
+ [[getSimpleString(data.title)]]
+
+ [[title]]
+
+ [[getSimpleString(item.offerGroupRenderer.title)]]
+
+ [[getSimpleString(item.offerType)]] 
+
+ [[data.errorMessage]]
+
+ [[getSimpleString(data.title)]]
+
+ [[getSimpleString(data.metadata)]]
+
+Go to the Legal Help page to request content changes for legal reasons.

@@ -1,0 +1,73 @@
+Web2.0 privacy leak in Mobile apps at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « AES algorithm selected for use in space 
+ Snake-oil security claims on crypto security product » 
+
+ Web2.0 privacy leak in Mobile apps 
+
+ Published by naif July 17th, 2010 
+
+ in Privacy , intelligence , security and technology . 
+ 0  Comments 
+
+ You know that web2.0 world it’s plenty of leak of any kind (profiling, profiling, profiling) related to Privacy and users starts being concerned about it.
+
+ Users continuously download applications without knowing the details of what they do, for example iFart just because are cool, are fun and sometime are useful.
+
+ On mobile phones users install from 1000% up to 10.000% more applications than on a PC, and those apps may contain malware or other unexpected functionalities.
+
+ Recently infobyte analyzed ubertwitter client and discovered that the client was leaking and sending to their server many personal and sensitive data such as:
+
+ - Blackberry PIN
+
+ - Phone Number
+
+ - Email Address
+
+ - Geographic positioning information
+
+ Read about UbertTwitter ’spyware’ features discovery here by infoByte .
+
+ It’s plenty of applications leaking private and sensitive information but just nobody have a look at it.
+
+ Should mandatory data retention and privacy policies became part of application development and submission guideline for mobile application?
+
+ Imho a users must not only be warned about the application capabilities and API usage but also what will do with which kind of information it’s going to handle inside the mobile phone.
+
+ Capabilities means authorizing the application to use a certain functionalities, for example to use GeoLocation API , but what the application will do and to who will provide such information once the user have authorized it?
+
+ That’s a security profiling level that mobile phone manufacturer does not provide and they should, because it focus on the information and not on the application authorization/permission respect to the usage of device capabilities.
+
+ p.s. yes! ok! I agree! This kind of post would require 3-4 pages long discussion as the topic is hot and quite articulated but it’s saturday morning and i gotta go!
+
+ 0 Responses to “Web2.0 privacy leak in Mobile apps”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « AES algorithm selected for use in space 
+ Snake-oil security claims on crypto security product » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.665 sec. w/ 41 queries.
+
+ RSS Entries and RSS Comments

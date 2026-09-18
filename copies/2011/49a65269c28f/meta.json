@@ -1,0 +1,11 @@
+{
+ "source_url": "https://en.wikipedia.org/wiki/GlobaLeaks",
+ "fetched_url": "https://web.archive.org/web/20130225090146id_/http://en.wikipedia.org/wiki/GlobaLeaks",
+ "method": "wayback",
+ "capture": "20130225090146",
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 31379,
+ "sha256": "902ec4684446988cd4c3e32e3740b1081c1592722b2bde0c46f835d9b6b64a27",
+ "name_found": false,
+ "fetched_at": "2026-09-18T00:50:56+00:00"
+}

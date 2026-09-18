@@ -1,0 +1,2312 @@
+LDR: Linux Domande e Risposte 
+
+ [successivo] 
+ [precedente] 
+ [inizio] 
+ [fine] 
+ [indice generale] 
+ [hall of fame] 
+ [indice analitico] 
+ [parte] 
+
+ Capitolo 2.   Reti e rete Internet 
+
+ 2.1   
+ Generalità e configurazione di una rete locale 
+
+ 2.1.1)   
+ Come si imposta un dominio virtuale? 
+
+ Per impostare un dominio virtuale, si deve modificare il file httpd.conf che generalmente è presente nella directory /etc/apache/ o in /etc/ . Oltre a questa modifica si deve predisporre un servizio di risoluzione dei nomi. Quest'ultimo può essere fatto mediante pacchetti appositi che gestiscono il DNS ( BIND) oppure modificando il file /etc/hosts . (1) 
+
+ Le modifiche da apportare al file httpd.conf sono le seguenti:
+
+ NameVirtualHost IP_macchina
+
+<VirtualHost dominiovirtuale>
+ ServerAdmin amministratore@macchina
+ DocumentRoot /usr/local/httpd/dominiovirtuale/htdocs 
+ ServerName dominiovirtuale
+ ErrorLog log/dominiovirtuale.error.log
+ CustomLog log/dominiovirtuale.custom.log
+</VirtualHost> 
+
+ macchina è la macchina che ospita il server HTTP;
+
+ IP_macchina è l'indirizzo IP della macchina che ospita il server HTTP;
+
+ dominiovirtuale è il nome che si intende conferire al dominio virtuale;
+
+ amministratore è l'amministratore della macchina macchina ;
+
+ /usr/local/httpd/dominiovirtuale/htdocs è la directory principale del dominio virtuale.
+
+ Se l'indirizzo della macchina è 127.0.0.1 ed il suo nome è localhost , il file /etc/hosts si presenterà circa così:
+
+ 127.0.0.1 localhost 
+
+ Si dovrà semplicemente aggiungere un'altra riga relativa al dominio virtuale:
+
+ 127.0.0.1 localhost
+127.0.0.1 dominiovirtuale 
+
+ Potrebbe essere necessario permettere l'accesso alla directory contenente i file del dominio virtuale. In tal caso si dovrà modificare il file access.conf che generalmente è presente nella directory /etc/apache/ o in /etc/ . La modifica consisterà nell'aggiunta delle seguenti righe al file:
+
+ <Directory /usr/local/httpd/dominiovirtuale/htdocs>
+ Options Indexes SymLinksIfOwnerMatch
+ AllowOverride None
+ order deny,allow
+ allow from all
+</Directory> 
+
+ Per rendere effettive tutte le modifiche apportate, sarà necessario rilanciare il demone apache con:
+
+ #  apache restart [ Invio ] (2) 
+
+ 2.1.2)   
+ Come si può controllare il traffico giornaliero del sistema? 
+
+ Per poter visualizzare il traffico giornaliero dei servizi HTTP, SMTP, POP3, si potrà utilizzare il seguente script: (3) 2.2. x , con le opzioni CONFIG_FIREWALL e CONFIG_IP_FIREWALL abilitate.
+
+ #!/bin/sh
+# Flusho i rules
+ipchains -F
+# Cancello i vari chain
+ipchains -X HTTP
+ipchains -X IMAP
+ipchains -X POP3
+ipchains -X SMTP-OUT
+ipchains -X SMTP-IN
+#creo i vari chain
+ipchains -N HTTP
+ipchains -N IMAP
+ipchains -N POP3
+ipchains -N SMTP-OUT
+ipchains -N SMTP-IN
+#ridirigo il traffico verso i chain creati
+ipchains -I output -j HTTP --source-port 80 -p tcp
+ipchains -I output -j IMAP --source-port 143 -p tcp
+ipchains -I output -j POP3 --source-port 110 -p tcp
+ipchains -I output -j SMTP-OUT --source-port 25 -p tcp
+ipchains -I input -j SMTP-IN --destination-port 25 -p tcp 
+
+ Dopo averlo lanciato, con i privilegi dell'utente root , per visualizzare il traffico giornaliero si dovrà impartire il comando:
+
+ #  ipchains -L -n -v [ Invio ]
+
+ Ecco l'output di una condizione neutra:
+
+ .
+Chain input (policy ACCEPT: 23 packets, 6746 bytes):
+ pkts bytes target prot opt tosa tosx ifname mark 
+ 0 0 SMTP-IN tcp ------ 0xFF 0x00 * 
+Chain forward (policy ACCEPT: 0 packets, 0 bytes):
+Chain output (policy ACCEPT: 23 packets, 6746 bytes):
+ pkts bytes target prot opt tosa tosx ifname mark 
+ 0 0 SMTP-OUT tcp ------ 0xFF 0x00 * 
+ 0 0 POP3 tcp ------ 0xFF 0x00 * 
+ 0 0 IMAP tcp ------ 0xFF 0x00 * 
+ 0 0 HTTP tcp ------ 0xFF 0x00 * 
+Chain HTTP (1 references):
+Chain IMAP (1 references):
+Chain POP3 (1 references):
+Chain SMTP-OUT (1 references):
+Chain SMTP-IN (1 references): 
+
+--- continua ---
+
+outsize source destination ports
+ 0.0.0.0/0 0.0.0.0/0 * -> 25
+
+outsize source destination ports
+ 0.0.0.0/0 0.0.0.0/0 25 -> *
+ 0.0.0.0/0 0.0.0.0/0 110 -> *
+ 0.0.0.0/0 0.0.0.0/0 143 -> *
+ 0.0.0.0/0 0.0.0.0/0 80 -> *
+
+ 2.1.3)   
+ Come si abilita il masquerading in una rete locale? 
+
+ Qualora si voglia mascherare dietro un firewall le macchine di una rete 192.168.1.0, si dovrà innanzitutto ricompilare il kernel con le seguenti opzioni abilitate: (4) 
+
+ Network Firewalls
+IP: firewalling
+IP: always defragment
+IP: transparent proxy supp
+IP: Masquerading
+IP: ICMP masquerading 
+
+ Dopo aver caricato la nuova immagine del kernel, si dovrà lanciare questo script (e eventualmente provvedere ad automatizzarne l'esecuzione):
+
+ #/bin/sh
+echo "1" > /proc/sys/net/ipv4/ip_forward
+ipchains -M -S 7200 10 160
+ipchains -P forward DENY
+ipchains -A forward -s 192.168.1.0/24 -j MASQ 
+
+ La prima riga dello script abilita la possibilità di instradamento dei pacchetti attraverso la macchina router;
+
+ a seconda riga indica il timeout del mascheramento;
+
+ la terza indica la politica predefinita che in questo caso è quella di impedire il transito di qualsiasi pacchetto;
+
+ l'ultima riga consente la possibilità di transito esclusivamente alle macchine della rete 192.168.1.0/24.
+
+ 2.1.4)   
+ Come si predispone un firewall? 
+
+ Per impostare un firewall, occorre che la macchina sia dotata di due schede di rete (una che sia collegata con la rete interna e una con la rete esterna. Quest'ultima scheda di rete può anche consistere in un modem). Si deve innanzitutto attivare l'instradamento della rete interna:
+
+ #  route add -net 192.168.1.0 netmask 255.255.255.0 dev eth0 [ Invio ]
+
+ Deve essere ora definito l'instradamento predefinito attraverso il router 192.168.1.254:
+
+ #  route add default gw 192.168.1.254 dev eth0 [ Invio ] (5) 
+
+ Utilizzando un kernel di versione 2.2. x o superiori dovrà essere abilitato l'instradamento dei pacchetti attraverso il router:
+
+ #  echo 1 > /proc/sys/net/ipv4/ip_forward [ Invio ]
+
+ Utilizzando il kernel 2.2. x o superiore, l'opzione Always Defrag (un tempo #define attivabile e disattivabile in fase di compilazione), è divenuta una chiamata di sistema. Dato che questa opzione è molto importante, ed è disabilitata in maniera predefinita, è consigliabile eseguire tale comando:
+
+ #  echo 1 > /proc/sys/net/ipv4/ip_always_defrag [ Invio ]
+
+ Questa opzione si preoccupa di riassemblare i pacchetti IP entranti prima che questi possano essere elaborati dal firewall o reindirizzati altrove.
+
+ Per impostare le regole che consentono o impediscono il transito dei pacchetti si dovrà utilizzare il comando ipchains con le opzioni relative. Ammettiamo ora che si debbano costituire le seguenti regole:
+
+ bloccare tutti i pacchetti con indirizzo 127. x . x . x che non provengono dalla interfaccia di loopback ; (6) 
+
+ bloccare tutti i pacchetti di controllo (ICMP) entranti (7) ;
+
+ accettare i pacchetti della rete locale 192.168.1.0 diretti verso le porte FTP del server il cui indirizzo IP è 345.125.6.121;
+
+ accettare tutti i pacchetti diretti verso la porta WWW del server;
+
+ impedire l'accesso a tutti i pacchetti diretti verso altre porte.
+
+ Le regole sopra esposte si traducono nei seguenti comandi:
+
+ #  ipchains -A input --interface ! lo -s 127.0.0.0/8 -j DENY [ Invio ]
+
+ #  ipchains -A input -p icmp --icmp-type echo-request -j DENY [ Invio ]
+
+ #  ipchains -A input -s 192.168.1.0/24 -d 345.125.6.121 21 -p TCP -j ACCEPT [ Invio ]
+
+ #  ipchains -A input -s 192.168.1.0/24 -d 345.125.6.121 20 -p TCP -j ACCEPT [ Invio ]
+
+ #  ipchains -A input -d 345.125.6.121 80 -p TCP -j ACCEPT [ Invio ]
+
+ #  ipchains -A input -d 345.125.6.121 0:1023 -p TCP -j DENY [ Invio ]
+
+ 2.1.5)   
+ Perché non riesco ad uscire dalla rete locale attraverso il gateway? Ho configurato tutto con attenzione ma non ci riesco. Perché? 
+
+ Se si sono seguite attentamente le regole per impostare correttamente il firewall, occorrerà modificare un parametro del file system /proc . Il file in questione è /proc/sys/net/ipv4/ip_forward . Impartendo il comando cat su questo file presumibilmente si otterrà uno zero:
+
+ #  cat /proc/sys/net/ipv4/ip_forward [ Invio ]
+
+ Per permettere il transito dei pacchetti attraverso il firewall, occorrerà impostare tale valore ad 1:
+
+ #  echo 1 > /proc/sys/net/ipv4/ip_forward [ Invio ]
+
+ Ovviamente questa operazione va ripetuta ad ogni avvio del sistema. Qualora si utilizzi una distribuzione GNU/Linux Red Hat sarà sufficiente rendere vera l'opzione «FORWARD_IPV4» presente nel file /etc/sysconfig/network .
+
+ 2.2   
+ FTP 
+
+ 2.2.1)   
+ Come si può fornire agli utenti solamente l'accesso FTP al sistema ma non un accesso Telnet? 
+
+ Per impedire l'accesso Telnet agli utenti si dovrà impartire il seguente comando dopo avere assunto l'identità dell'utente root :
+
+ #  usermod -s /bin/false/ nomeutente [ Invio ]
+
+ In questo modo l'utente non potrà più fare il login.
+
+ Allo stesso modo, si potrà impostare la shell dell'utente cui si vuole negare l'accesso Telnet mediante la modifica del file /etc/passwd sostituendo la shell con /bin/false .
+
+ 2.2.2)   
+ Come si può impedire l'accesso tramite FTP ad alcuni utenti? 
+
+ Nel file /etc/ftpusers sono elencati gli utenti che non possono accedere al servizio FTP.
+
+ 2.2.3)   
+ Dopo essersi connessi ad un sistema remoto, come si fa a mantenere attivo un comando FTP una volta disconnessi dal sistema stesso? 
+
+ Dopo essersi collegati al server FTP, si potrà interrompere l'operazione che si sta effettuando mediante la combinazione di tasti [ Ctrl+z ]. Questa combinazione provoca l'interruzione del processo. Occorre quindi riattivarlo ma sarà neccessario inviarlo sullo sfondo ( background ). A questo punto sarà possibile scollegarsi dal server FTP mediante il comando exit .
+
+ 2.2.4)   
+ Come si può realizzare un comando che invii ogni minuto un file via FTP? 
+
+ Ecco uno script adatto a questo scopo:
+
+ #!/usr/bin/expect -f
+set FTP /bin/ftp
+set HOST indirizzo_server_FTP_remoto
+set USER nome_utente
+set PASS mia_password
+set COMMAND "put /percorso_file /percorso_locale_file"
+set PROMPT ftp>
+
+spawn $FTP $HOST
+send "$USER\r"
+expect Password:
+send "$PASS\r"
+expect $PROMPT
+send "$COMMAND\r"
+expect $PROMPT
+send "quit\r" 
+
+ Occorre definire le variabili nella parte superiore dello script con i valori desiderati. Non si deve dimenticare di fornire i permessi di esecuzione allo script e di inserirlo nelle pianificazioni di lavoro ( crontab) dell'utente desiderato. Ad esempio il comando:
+
+ $  crontab -e tizio [ Invio ]
+
+ aprirà per la modifica il file di configurazione della pianificazione dei lavori dell'utente tizio . Ammettendo che lo script di nome invia_file sia stato copiato nella directory /bin/ , la riga da inserire sarà
+
+ */1 * * * * /bin/invia_file 1> /dev/null 2> /tmp/errori 
+
+ 2.2.5)   
+ Come si concede il permesso di caricare file durante una sessione FTP? 
+
+ Per permettere ad un utente di poter caricare ( upload ) un file in una directory del server FTP, si deve creare una directory con il permesso di scrittura abilitato. Occorre inoltre ricordare che il proprietario di tale directory deve essere ftp .
+
+ 2.2.6)   
+ Descrizione di uno script che permette di automatizzare diverse operazioni FTP. 
+
+ Automatizzare comandi FTP risulta possibile mediante script. Se ad esempio si volessero automatizzare questi comandi:
+
+ scaricare nella directory da cui lo script viene lanciato tutti i file contenuti in una directory remota;
+
+ copiare questi file in una directory remota di un altro server FTP.
+
+ si dovrà utilizzare uno script simile al seguente:
+
+ #!/bin/bash
+ftp -ni ftp.server.com << __EOA__
+user login password
+cd /directory/origine/
+mget *
+bye
+__EOA__
+
+ftp -ni ftp.server2.com << __EOB__
+user login2 password2
+cd /directory/destinazione/
+mput *
+bye
+__EOB__ 
+
+ L'opzione -n evita il procedimento di auto-login (8) mentre l'opzione -i disattiva la modalità interattiva consentendo la possibilità di trasferire più file (9) .
+
+ 2.3   
+ Telnet 
+
+ 2.3.1)   
+ Come si può visualizzare cosa digita un utente collegato in Telnet? 
+
+ Per vedere cosa digita un utente in una shell Bash, bisogna innanzitutto individuare il PID della shell Bash; a questo punto è possibile impartire questo comando:
+
+ $  strace -p PID -etrace=read [ Invio ] (10) 
+
+ L'output può risultare inizialmente caotico. Se nella shell che si sta analizzando è stato digitato il comando ls , strace restituirà quanto segue:
+
+ read(0, "l", 1) =1
+read(0, "s", 1) =1
+read(0, "\r", 1) =1
+--- SIGCHLD (Child exited) --- 
+
+ 2.3.2)   
+ Si può permettere l'accesso Telnet al proprio sistema anche mediante un'altra porta? 
+
+ Per far sì che il demone telnetd resti in ascolto su un'altra porta mantenendo attiva anche quella predefinita, si devono operare alcune modifiche. Telnet viene predisposto attraverso la combinazione di 2 file: /etc/inetd.conf e /etc/services .
+
+ Per il Telnet sulla porta 23, che è la porta predefinita, si riscontreranno queste impostazioni nel file services :
+
+ telnet 23/tcp 
+
+ e queste altre nel file inetd.conf :
+
+ telnet stream tcp nowait root /usr/sbin/tcpd in.telnetd 
+
+ Sarà quindi necessario modificare esclusivamente il file services aggiungendo:
+
+ telnet 8888/tcp 
+
+ se si desidera che telnetd accetti le richieste di Telnet sulla porta 8888.
+
+ A questo punto occorrerà riavviare il demone inetd per costringerlo a rileggere i file di configurazione.
+
+ #  killall -HUP inetd [ Invio ]
+
+ Si potrà ora digitare sul client:
+
+ $  telnet indirizzo 8888 [ Invio ]
+
+ 2.3.3)   
+ Si può accedere ad una macchina solo da un terminale remoto? 
+
+ Anche se sarebbe consigliato mantenere almeno una possibilità di accedere localmente al sistema in oggetto, per ottenere un accesso esclusivamente in remoto al sistema si dovrà modificare il file /etc/inittab commentando (apponendo un # all'inizio delle righe) le righe:
+
+ 1:2345:respawn:/sbin/mingetty tty1
+2:2345:respawn:/sbin/mingetty tty2
+3:2345:respawn:/sbin/mingetty tty3
+4:2345:respawn:/sbin/mingetty tty4
+5:2345:respawn:/sbin/mingetty tty5
+6:2345:respawn:/sbin/mingetty tty6 
+
+ 2.3.4)   
+ Ci si può collegare attraverso Telnet a una macchina remota accedendo come utente root ? 
+
+ Se si è ben coscienti di ciò che si sta facendo e dei rischi che si corrono, si deve rimuovere il file /etc/securetty . Se non si ha una reale necessità di questa operazione, conviene creare un utente ed accedere al sistema da quello acquisendo i privilegi dell'utente root con:
+
+ $  su - [ Invio ]
+
+ 2.3.5)   
+ C'è un'alternativa più sicura a Telnet? 
+
+ In una grande percentuale di casi, non si utilizza più Telnet ma SSH ( Secure Shell). Se si deve fornire la possibilità di accesso, andrà installato il demone sshd sulla macchina server. Per accedere invece da remoto ad un server SSH, si dovrà installare il client SSH. Per collegarsi in SSH al server server_remoto si dovrà impartire il seguente comando:
+
+ $  ssh -l utente server_remoto [ Invio ]
+
+ Il pacchetto SSH di una distribuzione Debian GNU/Linux si trova nella sezione non-US (nei CD-ROM o presso gli appositi server come ad esempio < ftp://ftp.non-us.debian.org/debian/dists/stable/ >).
+
+ Si ricorda che esiste anche un client per MS-Windows, chiamato putty reperibile presso < http://www.chiark.greenend.org.uk/~sgtatham/putty/ >.
+
+ 2.3.6)   
+ Perché alcuni servizi di rete ( Telnet, FTP, ecc.) sono molto lenti? 
+
+ Qualora all'interno di una rete casalinga, i servizi di rete ( Telnet, FTP, ecc.) risultino lenti, si può provare ad inserire nel file /etc/hosts della macchina da cui ci si collega, una riga indicante l'IP ed il nome della macchina cui ci si vuole collegare. Ad esempio:
+
+ 192.168.1.1 server_rete 
+
+ In genere il rallentamento di questi servizi avvengono perché il server cui ci si collega tenta per un po' di autentificare la macchina richiedente.
+
+ 2.3.7)   
+ Si possono automatizzare dei comandi da eseguire su un sistema remoto cui si abbia accesso attraverso Telnet? 
+
+ Il seguente script apre una sessione Telnet, esegue dei comandi associati allo script stesso e infine e chiude la sessione:
+
+ #!/usr/bin/expect
+# 
+# $argv contiene tutti i parametri passati allo script
+set cmd $argv
+
+# send_human occorre per l'opzione -h (human) di send
+set send_human {.1 3 1 .05 2}
+
+# Inizio del processo di connessione batch.
+spawn telnet localhost 23
+expect "ogin: "
+send "bigpaul\r"
+expect "assword: "
+send -h "parola_chiave\r"
+expect "bigpaul"
+send -h "$cmd\r"
+expect "bigpaul"
+send -h "exit\r" 
+
+ Si noti la presenza dell'opzione -h di send : essa, a causa del buffer di lettura di login, fa in modo che l'invio dei caratteri avvenga a velocità umana , secondo quanto impostato nella variabile send_human . A volte si utilizza direttamente l'opzione -s ( send slow ).
+
+ Per maggiori informazioni sulle opzioni di send , si dovrà consultare la relativa pagina di manuale expect (1).
+
+ Un altro esempio di script, che in questo caso utilizza un ciclo while è il seguente:
+
+ #!/usr/bin/expect 
+#
+# Preleva 3 messaggi di posta via POP3
+
+set num_msg 1
+set n 3
+
+spawn telnet mail.commedia.it 110 
+expect "+OK" 
+send "USER bigpaul\r" 
+expect "welcome" 
+send "PASS parola_chiave\r"
+expect "+OK" 
+send "STAT\r"
+expect "+OK" 
+while {$num_msg <= $n} {
+ send "RETR $num_msg\r" 
+ expect "+OK"
+ puts "\rScaricato messaggio numero $num_msg\r"
+ set num_msg [ expr $num_msg + 1 ]
+ } 
+send "QUIT\r" 
+
+ 2.3.8)   
+ Come funziona la registrazione degli accessi avvenuti tramite Telnet alle macchine? 
+
+ Se si esegue una connessione Telnet ad una macchina, ed è attivo il demone syslog essa viene registrata nel file /var/log/daemon.log con una riga simile alla seguente:
+
+ Oct 6 19:23:51 irish in.telnetd[221]: connect from irish 
+
+ La registrazione avviene perché nel file /etc/syslog.conf esiste una riga che determina la registrazione di tutti gli eventi dei demoni del sistema nel file /var/log/daemon.log :
+
+ daemon.* -/var/log/daemon.log 
+
+ 2.3.9)   
+ Come si impedisce l'accesso al sistema tramite Telnet? 
+
+ Per evitare gli accessi al sistema occorre modificare i file /etc/hosts.allow e /etc/hosts.deny . Di questi due file viene letto prima il primo e poi il secondo. La politica predefinita consiste nel negare qualsiasi accesso:
+
+ ALL: ALL 
+
+ in /etc/host.deny . I nodi autorizzati sono indicati invece nel file /etc/host.allow :
+
+ ALL: LOCAL @some_netgroup
+ALL: .foobar.edu EXCEPT terminalserver.foobar.edu 
+
+ La prima regola concede l'accesso ai nodi del dominio locale e ai membri della rete some_netgroup . La seconda regola permette l'accesso da parte di tutti i nodi del dominio foobar_edu tranne che per il dominio terminalserver_foobar_edu .
+
+ 2.4   
+ SSH
+
+ 2.4.1)   
+ Come si copiano i file con SSH? 
+
+ Per copiare tutti i file della directory corrente in una directory che si trova su una macchina remota accessibile via SSH si deve impartire il comando:
+
+ $  scp * utente @ server :/ directory / destinazione / [ Invio ] (11) 
+
+ 2.4.2)   
+ Come si copiano intere porzioni di file system (directory) con SSH? 
+
+ Per copiare una directory e le eventuali directory in essa contenute si deve utilizzare il comando scp :
+
+ #  scp -r directory utente @ server :/ directory / destinazione / [ Invio ] (12) 
+
+ Per copiare ad esempio la directory /home/utente/prova all'interno della directory /tmp/ della macchina fulmine1 si da il comando:
+
+ #  scp -r /home/utente/prova/ tizio@fulmine1:/tmp/ [ Invio ]
+
+ dove «tizio» è il nome dell'utente della macchina fulmine1 .
+
+ 2.5   
+La condivisione delle risorse in rete
+
+ 2.5.1)   
+ Perché non riesco a montare i file system delle macchine di una rete locale? 
+
+ Qualora venga visualizzato un messaggio di errore simile a mount: RPC: Program not registerd e risulti impossibile condividere le directory all'interno della propria rete, occorre assicurarsi che /sbin/rpc.portmap , /usr/sbin/rpc.mountd e /usr/sbin/rpc.nfsd vengano avviati all'avvio del sistema (13) .
+
+ Qualora i suddetti script non siano stati avviati automaticamente si tenti di avviarli manualmente riprovando le operazioni di condivisione. Si deve ricordare infine che le directory da condividere vanno definite in /etc/exports . exports (5)
+
+ 2.5.2)   
+ Come si fa ad utilizzare un'applicazione grafica (che giri sotto il server X) presente su una macchina della rete cui è collegata la propria macchina? 
+
+ Se macchinaA è la macchina su cui si sta lavorando e macchinaB è la macchina cui ci si collega e che contiene l'applicazione che vogliamo visualizzare sulla macchinaA si deve precedere nel seguente modo:
+
+ innanzitutto su macchinaA si deve concedere l'autorizzazione alle richieste del client di macchinaB :
+
+ macchinaA:~$  xhost +macchinaB [ Invio ]
+
+ Fatto ciò, dalla macchinaA occorre collegarsi in telnet alla macchinaB :
+
+ macchinaA:~$  telnet macchinaB [ Invio ]
+
+ Dopo avere effettuato il login, occorrerà dare il comando:
+
+ macchinaB:~$  export DISPLAY=macchinaA:0 [ Invio ] (14) 
+
+ o:
+
+ #  setenv DISPLAY macchinaA:0 [ Invio ] (15) 
+
+ che serve ad esportare la variabile  DISPLAY verso la macchinaA.
+
+ A questo punto lanciando l'applicazione grafica dalla macchinaB, la si vedrà sul monitor della macchinaA.
+
+ 2.5.3)   
+ Come si può utilizzare il display di un utente su quello di un altro? 
+
+ Se lavorando all'interno di un ambiente grafico ( X), si volesse mediante un terminale grafico assumere l'identità di un altro utente e lanciare dal terminale stesso un'applicazione grafica, verrà restituito un errore del tipo:
+
+ Xlib: connection to ":0.0" refused by server
+Xlib: Invalid MIT-MAGIC-COOKIE-1 key
+Application initialization failed: couldn't connect to display ":0.0"
+Error in startup script: invalid command name "command"
+ while executing
+[...] 
+
+ Per potere quindi essere in grado di lanciare applicazioni grafiche in qualità di altro utente, si dovrà dare il comando:
+
+ $  xhost +localhost [ Invio ] (16) 
+
+ In seguito, dopo avere assunto l'identità dell'utente desiderato, si dovrà impartire il comando:
+
+ $  export DISPLAY=localhost:0.0 [ Invio ] (17) 
+
+ o:
+
+ #  setenv DISPLAY localhost:0.0 [ Invio ] (18) 
+
+ allo scopo di reindirizzare il display del'utente di cui si è assunta l'identità verso il server grafico dell'utente originario. Questo procedimento è identico a quello descritto nella LDR 2.5.2 solo che in quel caso si trattava di due macchine collegate e non di due utenti sulla stessa macchina.
+
+ 2.5.4)   
+ Come si copiano i file tra le macchine di una rete locale? 
+
+ Per copiare i file da una macchina all'altra in rete si possono utilizzare i comandi r . Questi comandi permettono di utilizzare shell e comandi in remoto.
+
+ Occorre creare nella directory principale ( / ) delle due macchine (o nella directory $HOME dell'utente) il file .rhosts , nel quale dovranno essere elencati i sistemi al quale si permette l'accesso e gli utenti abilitati a farlo. Se si volesse consentire l'accesso a tutti basterà impartire il seguente comando:
+
+ #  echo "+ +" > .rhosts [ Invio ]
+
+ su entrambe le macchine.
+
+ A questo sarà possibile impartire il seguente comando:
+
+ #  rlogin macchina_remota [ Invio ]
+
+ per poter accedere all'altra macchina senza richiesta di login e password. Sarà inoltre possibile copiare file da una macchina all'altra senza FTP mediante il comando rcp :
+
+ #  rcp macchina_remota :/ percorso /* . [ Invio ]
+
+ Questo comando copierà tutti i file presenti nella directory remota indicata in percorso nella directory corrente.
+
+ #  rcp * macchina_remota :/ percorso [ Invio ]
+
+ Questo comando copierà invece tutti i file presenti nella directory corrente nella directory remota indicata in percorso .
+
+ 2.6   
+Terminali
+
+ 2.6.1)   
+ Come si possono simulare dei terminali sulla propria macchina? 
+
+ Si possono simulare fino a 6 console virtuali attraverso la combinazione [ Alt+F n ] dove n è un numero che va da 1 a 6. Questi terminali virtuali sono impostati nel file /etc/inittab :
+
+ # /etc/inittab: init(8) configuration.
+# $Id: inittab,v 1.8 1998/05/10 10:37:50 miquels Exp $
+
+[...]
+
+# /sbin/getty invocations for the runlevels.
+#
+# The "id" field MUST be the same as the last
+# characters of the device (after "tty").
+#
+# Format:
+# <id>:<runlevels>:<action>:<process>
+1:2345:respawn:/sbin/getty 38400 tty1
+2:23:respawn:/sbin/getty 38400 tty2
+3:23:respawn:/sbin/getty 38400 tty3
+4:23:respawn:/sbin/getty 38400 tty4
+5:23:respawn:/sbin/getty 38400 tty5
+6:23:respawn:/sbin/getty 38400 tty6 
+
+ Essi possono essere sia rimossi che aggiunti, eliminando o aggiungendo le righe atte a definirli.
+
+ 2.6.2)   
+ terminal type not supported 
+
+ Se durante un collegamento Telnet alcuni programmi mostrano un messaggio del tipo: terminal type not supported , occorre modificare il contenuto della variabile TERM :
+
+ Sulla console remota si darà quindi il comando:
+
+ #  export TERM=vt100 [ Invio ] (19) 
+
+ o:
+
+ #  setenv TERM vt100 [ Invio ] (20) 
+
+ Oppure:
+
+ #  export TERM=ansi [ Invio ] (21) 
+
+ o:
+
+ #  $ setenv TERM ansi [ Invio ] (22) 
+
+ 2.7   
+ Server web ( Apache, ecc.)
+
+ 2.7.1)   
+ Perché il mio navigatore non interpreta affatto i tag (marcatori) HTML dei file presenti nel mio server? 
+
+ Qualora i file .html inseriti nell'albero delle directory del proprio server web, non vengano interpretati correttamente e vengano visualizzati come file testuali, si dovrà modificare il file /etc/mime.types . Probabilmente sarà presente una riga in cui è specificato il formato .htm . Basterà aggiungere un'altra riga identica sostituendo .htm con .html .
+
+ 2.7.2)   
+ Come vengono gestite le variabili tra due pagine PHP? 
+
+ Se in un form viene definita una variabile, ad esempio prova nella pagina PHP che il form richiama, tale variabile sarà identificata apponendo $ davanti la variabile. ( $prova )
+
+ 2.7.3)   
+ Come si configura il server Apache per gestire le pagine scritte in PHP? 
+
+ Per configurare Apache per fare in modo che gestisca pagine PHP, è necessario far caricare ad Apache i moduli relativi a PHP. I file /etc/httpd/conf/httpd.conf (23) e /etc/httpd/conf/srm.conf (24) sono i file di configurazione che vanno modificati. A volte essi contengono le linee necessarie (di solito sono commentate: basta eliminare il carattere # presente all'inizio delle righe che devono essere «attivate».):
+
+ In httpd.conf sono due i punti da modificare, entrambi nella sezione Dynamic Shared Object(DSO) Support :
+
+ Nella parte relativa al caricamento dei moduli, in «extra modules», vanno aggiunte (o vanno tolti i commenti se già esistono) le righe seguenti:
+
+ LoadModule php_module modules/mod_php.so
+LoadModule php3_module modules/libphp3.so 
+
+ Nella parte di aggiunta dei moduli (dopo la riga «ClearModuleList»), sempre in «extra modules», vanno aggiunte (o vanno tolti i commenti se già esistono) le righe seguenti:
+
+ AddModule mod_php.c
+AddModule mod_php3.c 
+
+ All'interno del file srm.conf , vanno aggiunte (o vanno tolti i commenti se già esistono) le righe seguenti, che permettono di associare PHP ai file con estensione .php3 :
+
+ AddType application/x-httpd-php3 .php3
+AddType application/x-httpd-php3-source .phps 
+
+ Per rendere effettive le modifiche, si deve riavviare Apache:
+
+ #  apache restart [ Invio ]
+
+ 2.7.4)   
+ Come si configura il server Apache per gestire le pagine scritte in ASP ( Amsterdam SGML Parser )? 
+
+ Per fare in modo che Apache utilizzi l' ASP, si devono installare e configurare le opportune librerie:
+
+ libapache-asp-perl (25) 
+
+ 2.7.5)   
+ Esiste un modo per convertire le pagine scritte in ASP in PHP? 
+
+ Per convertire gli script ASP in PHP, si può utilizzare asp2php (< http://home.i1.net/~naken/asp2php/ >).
+
+ 2.7.6)   
+ Come si fa a proteggere alcune pagine HTML da una password? 
+
+ Per permettere l'accesso ad alcune pagine HTML solo a chi ha la password occorre inserire le seguenti direttive nel file /etc/apache/access.conf : (26) 
+
+ <Directory /directory/da/proteggere>
+AuthType Basic
+AuthName Nome_della_struttura_di_appartenenza
+AuthGroupFile /file/dei/gruppi
+AuthUserFile /file/degli/utenti
+<Limit GET POST>
+require valid-user
+</Limit>
+</Directory> 
+
+ 2.8   
+ Samba 
+
+ 2.8.1)   
+ Quale password deve essere inserita se si accede attraverso Samba da una macchina MS-Windows a una GNU/Linux? 
+
+ Qualora, interrogando la rete da Risorse di Rete di MS-Windows, si tenti di accedere ad una macchina GNU/Linux ricevendo la richiesta della password, si dovranno apportare alcune modifiche. Innanzitutto, nella sezione global di smb.conf , dovrà essere inserita la seguente riga:
+
+ null passwords = yes 
+
+ Bisogna comunque tenere presenti alcuni punti importanti. Innanzitutto dalle ultime versioni di MS-Windows 95 in poi le password risultano essere criptate. A questo punto ci sono due soluzioni:
+
+ Abilitare la criptazione delle password in Samba. Questo si può fare modificando il file /etc/smb.conf e utilizzando smbpasswd per creare le password per ogni utente che andranno inserite in un file che deve a sua volta essere indicato all'interno di /etc/smb.conf ;
+
+ modificare i registri di MS-Windows con regedit , in questo modo:
+
+ Trovare la chiave /HKEY_LOCAL_MACHINE/System/ CurrentControlSet/Services/VxD/VNETSUP ;
+
+ selezionare Modifica/Nuovo/Valore DWORD ;
+
+ rinominare l'etichetta da Nuovo Valore #1 a EnablePlainTextPassword ;
+
+ premere [ Invio ] sopra la voce e inserire il numero 1 nella finestra che si apre.
+
+ Si può in ogni caso utilizzare anche il file Win98_PlainPassword.reg presente nel pacchetto Samba.
+
+ 2.8.2)   
+ Qual è un esempio di smb.conf ben configurato? 
+
+ Il seguente file smb.conf imposta la condivisione delle directory /home/utente/ , /tmp/ e /publicfiles/ e della stampante lp .
+
+ [global]
+ printing = bsd
+ printcap name = /etc/printcap
+ log file = /var/log/samba-log.%m
+ lock directory = /var/lock/samba
+ share modes = yes
+ workgroup = WORKGROUP
+
+[lp]
+ comment = Stampante Linux
+ path = /var/spool/lpd/lp
+ writable = no
+ public = yes
+ printable = yes
+ browsable = yes
+
+[homes]
+ comment = Directory Personale
+ browsable = no
+ read only = no
+ create mode = 0750
+
+[tmp]
+ comment = Spazio per file temporanei
+ path = /tmp
+ read only = no
+ public = yes
+
+[public]
+ comment = Pubblicamente Accessibile
+ path = /publicfiles
+ public = yes
+ writable = yes 
+
+ 2.8.3)   
+ Come si ricevono i messaggi di WinPopUp con LinPopUp? 
+
+ Per ricevere i messaggi di WinPopUp con LinPopUp, è necessario, dopo aver installato Samba e LinPopUp inserire in /etc/smb.conf nella sezione [global] le seguenti righe:
+
+ message command = /usr/bin/LinPopUp "%f" "%m" %s; rm %s 
+
+ Occorre ricordarsi ovviamente di modificare opportunamente il percorso di LinPopUp.
+
+ 2.8.4)   
+ Perché non si vedono le icone delle macchine GNU/Linux in Risorse di Rete di MS-Windows? 
+
+ Qualora non si vedano le icone delle macchine GNU/Linux connesse alla macchina MS-Windows in Risorse di Rete , occorre mettere la seguente riga nella sezione [global] del file /etc/smb.conf :
+
+ interfaces = <ip_interfaccia_di_rete_macchina_GNU/Linux>/24 
+
+ Ad es.:
+
+ interfaces = 192.168.1.1/24 
+
+ 2.8.5)   
+ Come si copiano i file tra una macchina GNU/Linux e una MS-Windows collegate attraverso Samba? 
+
+ Per poter copiare file da una macchina MS-Windows ad una GNU/Linux, è possibile accedere a quest'ultima mediante Risorse di Rete o attraverso il protocollo FTP. Per poter invece copiare file da una macchina GNU/Linux a una MS-Windows, si dovrà procedere a montare le directory condivise mediante smbmount :
+
+ #  smbmount // macchina_MS-Windows / directory / punto_di_montaggio [ Invio ]
+
+ 2.8.6)   
+ Come si fa a stampare da una macchina GNU/Linux collegata ad una rete MS-Windows tramite Samba? 
+
+ Per stampare un file da una macchina GNU/Linux collegata ad una macchina MS-Windows mediante Samba, occorrerà dare un comando simile al seguente:
+
+ $  cat file | nome_filtro | smbclient "\\\\ SERVER \\ STAMPANTE " PASSWORD -U UTENTE -P -c 'print -' [ Invio ]
+
+ 2.8.7)   
+ Se ci si collega da una macchina MS-Windows ad una GNU/Linux, vorrei che venisse chiesta la password solo per le directory degli utenti e non per la directory indicata in [public] . Come si fa? 
+
+ Ecco un esempio di smb.conf adatto a questo scopo:
+
+ # Global parameters
+ workgroup = SOFTHOR
+ netBIOS name = LINUX.SOFTHOR
+ server string = Linux Server
+ security = SHARE
+ update encrypted = Yes
+ map to guest = Bad Password
+ log level = 0
+ printcap name = /etc/printcap
+ guest account = guestpc
+ hosts allow = 192.168.0. 127.
+ printing = bsd
+
+[public]
+ comment = Public Directory
+ path = /home/samba
+ read only = No
+ guest ok = Yes
+
+[backup]
+
+[...] 
+
+ 2.8.8)   
+ Come si deve configurare il file smb.conf per dare un nome mediante il name server NetBIOS alla macchina Linux collegata ad una rete servita da un server DHCP? 
+
+ Per ottenere questo risultato, occorre aggiungere alla sezione global di /etc/smb.conf la seguente riga:
+
+ netBIOS name = nome 
+
+ dove nome è il nome della macchina NetBIOS.
+
+ 2.9   
+Plip
+
+ 2.9.1)   
+ Come si imposta il MTU ( Max Transfer Unit ) di una connessione tramite protocollo PLIP? 
+
+ Occorre definirlo al momento della dichiarazione dell'interfaccia mediante ifconfig :
+
+ #  ifconfig plip0 mtu 512 10.0.0.1 pointopoint 20.0.0.2 up [ Invio ]
+
+ 2.10   
+ Connessione al provider - ppp 
+
+ 2.10.1)   
+ Esiste un programma che faciliti la connessione al provider in una distribuzione GNU/Linux Debian? 
+
+ Debian GNU/Linux è una distribuzione generalmente accompagnata da pppconfig (27) che è un programma di utilità interattivo creato appunto con lo scopo di stabilire una connessione al proprio provider.
+
+ 2.10.2)   
+ Come si può verificare se nel sistema è stato installato il protocollo PPP? 
+
+ Per verificare se il protocollo PPP è stato caricato nel sistema, si procede con i seguenti comandi:
+
+ #  cat /usr/include/linux/autoconf.h | grep PPP [ Invio ]
+
+ o con:
+
+ #  lsmod | grep ppp [ Invio ]
+
+ per verificare se è compilato come modulo o se è stato incluso all'interno dell'immagine del kernel.
+
+ Qualora i sopra indicati comandi non restituiscano nulla relativo al protocollo PPP, allora si dovrà procedere alla ricompilazione del kernel includendone il supporto o in modalità monolitica o in modalità modulare.
+
+ 2.10.3)   
+ Come si possono visualizzare in tempo reale i processi di connessione al provider? 
+
+ Impartendo il comando ifconfig dopo avere avviato la connessione ad Internet permetterà di sapere se è stata attivata l'interfaccia di rete ppp .
+
+ Qualora infatti la connessione avesse avuto successo, con il comando ifconfig si vedrà visualizzata, oltre alla interfaccia di loopback lo (e eventualmente quella o quelle di rete, eth0 ad esempio) l'interfaccia ppp :
+
+ lo Link encap:Local Loopback 
+ inet addr:127.0.0.1 Mask:255.0.0.0
+ UP LOOPBACK RUNNING MTU:3924 Metric:1
+ RX packets:112 errors:0 dropped:0 overruns:0 frame:0
+ TX packets:112 errors:0 dropped:0 overruns:0 carrier:0
+ collisions:0 txqueuelen:0 
+
+ppp Link encap: 
+
+[...]
+
+ Un metodo più comodo è sicuramente quello di vedere in tempo reale gli aggiornamenti del file /var/log/messages . Questo può essere fatto con:
+
+ #  tail -d /var/log/messages [ Invio ]
+
+ Potrebbe risultare utile inserire tale comando in uno script. Ad es.:
+
+ #!/bin/sh
+pppd
+xterm -e tail -f /var/log/messages 
+
+ 2.10.4)   
+ pppd: The remote system is required to authenticate itself but... 
+
+ Qualora, nel corso di un tentativo di connessione, si riscontri questo tipo di errore: «pppd: The remote system is required to authenticate itself but I couldn't find any secret (password) which would let it use an IP address.» occorrerà mettere la riga noauth nel file /etc/ppp/options , per risolvere il problema.
+
+ 2.10.5)   
+ Si possono ottenere dei dati sulla connessione ad Internet? 
+
+ Per poter visualizzare alcuni dati concernenti una connessione PPP si utilizza il comando pppstat .
+
+ 2.10.6)   
+ Perché durante l'avvio di kppp ( KDE 2. x ) viene visualizzato un errore relativo al timeout ? 
+
+ Occorre verificare i seguenti punti per risolvere il problema:
+
+ controllare se è presente il collegamento simbolico del modem a /dev/modem ;
+
+ eliminare o commentare la riga lock presente nel file /etc/ppp/options ;
+
+ impostare il timeout a 50-60 secondi nella scheda Modem del kppp ;
+
+ tentare di diminuire la velocità di connessione.
+
+ 2.10.7)   
+ Perché kppp ( KDE 2. x ) non riesce a creare il file di lock? 
+
+ Il file di blocco ( lock ) ha lo scopo di permettere un utilizzo esclusivo di una determinata risorsa. In pratica, in questo caso, serve per impedire agli altri utenti di utilizzare il modem visto che adesso è impegnato da un altro utente.
+
+ Se si vuole disabilitare questa opzione, la si deve deselezionare in kppp oppure si deve commentare (28) l'apposita riga ( lock ) presente nel file /etc/ppp/option .
+
+ 2.10.8)   
+ Perché lanciando da utente kppp ( KDE 2. x ), viene chiesta la password di root ? 
+
+ In genere questo accade perché il file kppp presente in /usr/bin è un collegamento simbolico al programma consolehelper che impedisce l'esecuzione diretta del programma in questione ( kppp in questo caso) se non avviene l'autenticazione (mediante la password) di un determinato utente (quasi sempre root ).
+
+ Per ovviare a questo problema occorre aprire il programma di modifica del menù e cambiare il nome dell'eseguibile in kppp.kdelnk da «kppp» a «/usr/sbin/kppp». Analogamente si può eliminare kppp in /usr/bin e ricrearlo facendolo puntare a /usr/sbin/kppp . Fatto questo basta impostare il bit del set user ID (in qualità di utente root ) a /usr/sbin/kppp e i corretti permessi di esecuzione dello stesso file.
+
+ 2.10.9)   
+ Come può un utente qualsiasi utilizzare kppp ( KDE 2. x )? 
+
+ Dopo aver letto la LDR 2.10.8 , e aver provato con le indicazioni in essa presenti, si dovrà modificare il file kppp presente in /etc/security/console.apps/ . La riga:
+
+ USER=root 
+
+ andrà modificata in:
+
+ USER=utente 
+
+ In seguito occorre impostare il bit del set user ID (in qualità di utente root ) del file kppp presente in /usr/bin/ :
+
+ #  chmod u+s kppp [ Invio ]
+
+ 2.10.10)   
+ Come si visualizza il proprio indirizzo IP? 
+
+ Per visualizzare l'indirizzo IP della propria macchina si deve utilizzare il comando ifconfig :
+
+ #  ifconfig [ Invio ]
+
+ L'indirizzo IP è il numero che segue inet addr nell'interfaccia ppp .
+
+ 2.10.11)   
+ Si può estrapolare solamente l'indirizzo IP da ifconfig ? 
+
+ Il comando da utilizzare è il seguente:
+
+ #  /sbin/ifconfig | head -9 | tail -1 | cut -d\ -f12 | cut -d\: -f2 [ Invio ]
+
+ ma occorre accertarsi che, impartendo il comando ifconfig , l'interfaccia ppp sia la seconda in ordine di apparizione. In caso non fosse così si deve adattare questo comando alle proprie esigenze. Se infatti è presente una scheda di rete (che pone l'interfaccia ppp in «terza» posizione) al posto di «head -9» si deve mettere «head -17» e così via aggiungendo 8 per ogni dispositivo di rete che precede l'interfaccia ppp .
+
+ 2.10.12)   
+ Come si ottengono gli indirizzi DNS dei provider? 
+
+ Per risalire ai DNS dei provider, si deve utilizzare il comando nslookup :
+
+ #  nslookup [ Invio ]
+
+ > server dns2.nic.it [ Invio ]
+
+ > set query=any [ Invio ]
+
+ > pluto.linux.it [ Invio ]
+
+ Con questi comandi si otterrà una risposta simile alla seguente:
+
+ Server: dns.nic.it
+Address: 193.205.245.5
+
+pluto.linux.it preference = 10, mail exchanger = keycomm.pluto.linux.it
+pluto.linux.it preference = 20, mail exchanger = r-vicenza3.keycomm.it
+pluto.linux.it preference = 30, mail exchanger = r-vicenza1.keycomm.it
+pluto.linux.it preference = 40, mail exchanger = dns.keycomm.it
+pluto.linux.it Internet address = 192.106.105.10
+pluto.linux.it text = "PLUTO Linux User Group"
+pluto.linux.it nameserver = serena.keycomm.it
+pluto.linux.it nameserver = snoopy.psy.unipd.it
+pluto.linux.it nameserver = ns.publinet.it
+pluto.linux.it
+ origin = serena.keycomm.it
+ mail addr = dalla.pluto.linux.it
+ serial = 1999110100
+ refresh = 86400 (1D)
+ retry = 7200 (2H)
+ expire = 2592000 (4w2d)
+ minimum ttl = 86400 (1D)
+pluto.linux.it nameserver = serena.keycomm.it
+pluto.linux.it nameserver = snoopy.psy.unipd.it
+pluto.linux.it nameserver = ns.publinet.it
+keycomm.pluto.linux.it Internet address = 194.184.117.31
+r-vicenza3.keycomm.it Internet address = 194.184.117.4
+r-vicenza1.keycomm.it Internet address = 194.184.117.2
+dns.keycomm.it Internet address = 194.184.116.2
+serena.keycomm.it Internet address = 194.184.117.3
+snoopy.psy.unipd.it Internet address = 147.162.146.17
+ns.publinet.it Internet address = 151.99.137.2 
+
+ Indicando invece geocities.com:
+
+ > geocities.com [ Invio ]
+
+ si otterrà:
+
+ Server: dns.nic.it
+Address: 193.205.245.5
+
+Non-authoritative answer:
+geocities.com nameserver = NS2.geocities.com
+geocities.com nameserver = NS1.YAHOO.COM
+geocities.com nameserver = NS2.DCA.YAHOO.COM
+geocities.com nameserver = NS4.geocities.com
+Authoritative answers can be found from:
+geocities.com nameserver = NS2.geocities.com
+geocities.com nameserver = NS1.YAHOO.COM
+geocities.com nameserver = NS2.DCA.YAHOO.COM
+geocities.com nameserver = NS4.geocities.com
+NS2.geocities.com Internet address = 209.1.224.100
+NS1.YAHOO.COM Internet address = 204.71.200.33
+NS2.DCA.YAHOO.COM Internet address = 209.143.200.34
+NS4.geocities.com Internet address = 209.1.224.143 
+
+ Lo stesso discorso vale per tiscalinet.it:
+
+ > tiscalinet.it [ Invio ]
+
+ che restituirà:
+
+ Server: dns.nic.it
+Address: 193.205.245.5
+
+Non-authoritative answer:
+tiscalinet.it nameserver = ns.tiscalinet.it
+tiscalinet.it nameserver = sns.tiscali.it
+tiscalinet.it
+ origin = ns.tiscalinet.it
+ mail addr = nsadmin.tiscali.it
+ serial = 2000042802
+ refresh = 86400 (1D)
+ retry = 3600 (1H)
+ expire = 604800 (1W)
+ minimum ttl = 86400 (1D)
+
+Authoritative answers can be found from:
+tiscalinet.it nameserver = ns.tiscalinet.it
+tiscalinet.it nameserver = sns.tiscali.it
+ns.tiscalinet.it Internet address = 195.130.224.18
+sns.tiscali.it Internet address = 195.130.225.129 
+
+ In ogni caso lo stesso risultato si può ottenere con il comando host e il comando ping :
+
+ #  host -t ns provider [ Invio ]
+
+ Ad esempio se si volessero sapere i DNS di flashnet.it, si darà il comando:
+
+ [bigpaul@linuxfaq.it]:[Fri May 5]:[22:25:41]:[~]: host -t ns flashnet.it [ Invio ]
+
+ Che restituirà il seguente risultato:
+
+ flashnet.it NS dns2.flashnet.it
+flashnet.it NS dns.flashnet.it 
+
+ Ora, con il comando ping , si sarà in grado di ottenere gli indirizzi desiderati:
+
+ [bigpaul@linuxfaq.it]:[Fri May 5]:[22:25:41]:[~]: ping dns2.flashnet.it [ Invio ]
+
+ PING dns2.flashnet.it (194.247.160.8): 56 data bytes
+64 bytes from 194.247.160.8: icmp_seq=0 ttl=252 time=178.5 ms
+
+--- dns2.flashnet.it ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 150.0/163.7/178.5 ms 
+
+ [bigpaul@linuxfaq.it]:[Fri May 5]:[22:25:41]:[~]: ping dns.flashnet.it [ Invio ]
+
+ PING dns.flashnet.it (194.247.160.1): 56 data bytes
+64 bytes from 194.247.160.1: icmp_seq=0 ttl=252 time=165.5 ms
+
+--- dns.flashnet.it ping statistics ---
+2 packets transmitted, 2 packets received, 0% packet loss
+round-trip min/avg/max = 150.0/157.7/165.5 ms 
+
+ 2.10.13)   
+ Se ci si connette ad Internet con più di un provider, occorre cambiare ogni volta gli indirizzi DNS nel file /etc/resolv.conf ? 
+
+ Se si volesse accedere ad Internet, con più provider, non sarà necessario cambiare ogni volta il contenuto del file /etc/resolv.conf ma basterà lasciare gli indirizzi DNS di un provider che sembrano più veloci e affidabili. Le richieste generalmente sono permesse a tutte le macchine, non ha importanza quindi il provider con cui si è collegati.
+
+ 2.10.14)   
+ Cosa si deve fare se il provider assegna automaticamente gli indirizzi DNS? 
+
+ Se le connessioni ad Internet avvengono mediante provider, che assegnano automaticamente i DNS agli utenti, occorrerà utilizzare l'opzione «usepeerdns» di pppd . Utilizzando questo metodo non sarà possibile dichiarare i DNS delle macchine che non hanno il modem e che sfruttano, attraverso una rete, il collegamento della macchina che lo ha. In ogni caso, bisogna ricordare però, che è sempre possibile leggere gli indirizzi DNS di questi provider dal file di log delle connessioni che in genere è /var/log/messages .
+
+ 2.10.15)   
+ Perché pur essendo connessi a Internet il navigatore non riesce a connettersi ai siti? 
+
+ Occorre ricordare che si devono indicare gli indirizzi DNS del provider cui ci si connette nel file /etc/resolv.conf . Questi indirizzi servono per tradurre gli indirizzi mnemonici in indirizzi IP numerici. Presumibilmente infatti se si inserissero nel navigatore gli indirizzi numerici, si avrebbe esito positivo. Il file /etc/resolv.conf è costituito da una o più righe del tipo:
+
+ nameserver indirizzo 
+
+ dove indirizzo è l'indirizzo DNS del provider.
+
+ 2.10.16)   
+ no dialtone 
+
+ Questo messaggio di errore, viene visualizzato qualora si ometta la stringa di inizializzazione per linee italiane: X3 . Se infatti si era tentato il collegamento con:
+
+ ATDT12345 
+
+ si dovrà eseguire invece:
+
+ ATX3DT12345 
+
+ 2.10.17)   
+ Come si possono automatizzare alcune operazioni da effettuare durante la connessione ad Internet? 
+
+ Si prenda come esempio uno script che possa effettuare rispettivamente:
+
+ connessione ad Internet;
+
+ operazioni varie;
+
+ disconnessione da Internet.
+
+ Lo script sarà simile al seguente:
+
+ #!/bin/bash
+#
+_LOCK=/var/lock/ppp.LOCK
+#
+pon
+if [ "$?" = "0" ] ; then
+ ....
+ comandi desiderati
+ ....
+ poff
+ rm -f $_LOCK
+ exit 0
+else
+ rm -f $_LOCK
+ exit 1
+fi 
+
+ 2.10.18)   
+ Come ci si connette ad Internet con gli script? 
+
+ La connessione tramite script è il metodo più classico per connettersi ad un provider Internet. Molti programmi di utilità che facilitano la connessione non fanno altro che andare a scrivere degli script.
+
+ In GNU/Linux si utilizzano due programmi essenzialmente: chat che invia i comandi al modem e pppd il demone che instaura il dialogo secondo il protocollo PPP con il server del provider.
+
+ I file che vanno modificati sono sostanzialmente 5:
+
+ /etc/ppp/pap-secrets 
+
+ /etc/resolv.conf 
+
+ /etc/host.conf 
+
+ /bin/ispup 
+
+ /bin/ispdown 
+
+ Innanzitutto si dovrà inserire il nome utente e la password, nel primo di questi file, in questo modo:
+
+ # /etc/ppp/pap-secrets
+
+nome_utente * password 
+
+ In seguito si dovrà modificare il secondo file, che indica al sistema gli indirizzi DNS da utilizzare durante la connessione:
+
+ # /etc/resolv.conf
+
+search dominioprovider.it
+nameserver 111.222.111.222
+nameserver 222.111.222.111 
+
+ dove ovviamente dovremo inserire i dati del provider.
+
+ Bisogna poi comunicare al sistema in che modo essa debba risolvere i nomi dei computer nella rete Per fare questo bisogna modificare /etc/host.conf .
+
+ # /etc/host.conf
+
+order hosts,bind
+multi on 
+
+ Fatto ciò si dovranno realizzare i veri e propri script di connessione, cioè quelli da invocare per effettuare la connessione.
+
+ Lo script per la connessione sarà simile al seguente (29) :
+
+ # /bin/ispup
+
+IP_ISP="0.0.0.0"
+IP_LOCALE="0.0.0.0"
+DISPOSITIVO="/dev/modem"
+VELOCITA="57600"
+TELEFONO="0123456789"
+NOMEUSER="nomeutente"
+/usr/sbin/pppd \
+connect "/usr/sbin/chat -v \
+TIMEOUT 3 \
+ABORT BUSY \
+ABORT 'NO CARRIER' \
+'' \dATZ \
+OK \dATX0 \
+OK \dAT\d$TELEFONO \
+TIMEOUT 60 \
+CONNECT '' " \
+user $NOMEUSER -d \
+-detach crtscts modem \
+defaultroute noipdefault \
+$IP_LOCALE:$IP_ISP \
+$DISPOSITIVO \
+$VELOCITA 
+
+ Il seguente script servirà invece per disconnettersi:
+
+ # /bin/ispdown
+
+kill -INT `cat /var/run/ppp0.pid` 
+
+ Per effettuare la connessione, a questo punto, occorrerà digitare al prompt:
+
+ $  ispup & [ Invio ] (30) 
+
+ Si dovrà digitare invece:
+
+ $  ispdown [ Invio ]
+
+ per terminare la connessione.
+
+ 2.10.19)   
+ Esempio degli script per la connessione ad un provider 
+
+ Ecco uno script da lanciare per effettuare la connessione ad Internet (31) :
+
+ #!/bin/sh
+#Parametri della connessione.
+#Numero di telefono del provider: deve contenere anche il prefisso.
+TELEFONO=XXXXXXXXX
+#Nome da cercare in "/etc/ppp/pap-secrets"
+NOME_UTENTE=nome_utente
+#Rende disponibili le variabili allo script "dialup".
+export TELEFONO
+#Dove si trova lo script "dialup"
+SCRIPT_DIALUP=/etc/ppp/dialup
+#Avvio della connessione.
+exec /usr/sbin/pppd connect $SCRIPT_DIALUP user $NOME_UTENTE 
+
+ Il file /etc/ppp/resolv.conf conterrà i seguenti dati:
+
+ domain provider.it
+nameserver XXX.XXX.XXX.XXX
+nameserver YYY.YYY.YYY.YYY 
+
+ Il file /etc/ppp/options conterrà le seguenti righe:
+
+ #Fa sì che lo script non venga eseguito in secondo piano
+#e che possa essere ucciso con la combinazione [Ctrl+C].
+-detach
+#Usa il file di lock per assicurare un accesso esclusivo
+#al dispositivo seriale. Questo potrebbe provocare
+#in kppp un messaggio di errore. In quel caso
+#occorrerà rimuovere l'opzione perché gestita automaticamente
+#da kppp stesso.
+lock
+#Porta cui è connesso il modem:
+#ttyS0=COM1 ttyS1=COM2 ttyS2=COM3 ttyS3=COM4
+/dev/ttyS3
+#Velocità di connessione modem.
+115200
+#Controllo di flusso hardware.
+crtscts
+#Non vengono assegnati indirizzi IP di default
+noipdefault
+defaultroute
+modem
+asyncmap 0
+#Massima grandezza del pacchetto trasmesso.
+mtu 1024
+#Massima dimensione del pacchetto ricevuto.
+mru 1024 
+
+ Il file /etc/ppp/dialup conterrà invece:
+
+ #!/bin/sh
+#
+# This is part 2 of the ppp-on script. It will perform the connection
+# protocol for the desired connection.
+#
+exec /usr/sbin/chat -v \
+ TIMEOUT 3 \
+ ABORT '\nBUSY\r' \
+ ABORT '\nNO ANSWER\r' \
+ ABORT '\nRINGING\r\n\r\nRINGING\r' \
+ '' \rAT \
+ 'OK-+++\c-OK' ATH0 \
+ TIMEOUT 30 \
+ SAY "Composizione del numero ed\n" \
+ SAY "avvio della connessione...\n" \
+ OK ATX3DT$TELEFONO \
+ CONNECT '' 
+
+ Il file etc/ppp/pap-secrets conterrà il nome dell'utente e la password:
+
+ nome_utente [TAB] * [TAB] password 
+
+ 2.10.20)   
+ Perché in Red Hat viene composto due volte il numero telefonico del provider? 
+
+ La causa di questo problema è un baco ( bug ). Presso il sito di Red Hat (< http://www.redhat.com >) è disponibile la versione corretta.
+
+ 2.10.21)   
+ Perché utilizzando ppp per il collegamento ad Internet, compare una casella di dialogo che avverte che il demone pppd non è installato con il set user ID? Che vuol dire? 
+
+ Normalmente l'uso del ppp è riservato all'utente root . Per permetterne l'uso anche agli altri utenti, si fa in modo che quando questo viene eseguito, il sistema pensi che sia root a farlo. Per fare ciò, esiste un bit speciale da attivare (il bit del set user ID). Questo bit si attiva mediante il comando:
+
+ #  cd /usr/sbin [ Invio ]
+
+ #  chmod u+s pppd [ Invio ]
+
+ 2.10.22)   
+ Perché il collegamento ad Internet con diald fallisce per problemi di autentificazione? 
+
+ Occorre comunicare al sistema l'utente che si connette. Innanzitutto occorre inserire nel file /etc/ppp/pap-secret il nome dell'utente e la password. Dopo aver fatto questo, si deve ricordare che:
+
+ nel file /etc/ppp/options andrà inserita la riga: 
+
+ user <nome utente> 
+
+ si potrà specificare il nome dell'utente direttamente all'interno dello script invece che nel file /etc/ppp/options , ma, alla luce del fatto che la connessione dovrà essere invocata da un utente comune, si consiglia di dichiarare tale utente nel file /etc/ppp/options ;
+
+ in ogni caso il modo migliore consiste nell'inserire in /etc/diald.conf la riga:
+
+ ppp-options = user = <nome utente> 
+
+ 2.10.23)   
+ Una volta essere riusciti ad aver stabilito un collegamento funzionante ad Internet, quali sono i file di configurazione e gli script che conviene conservare? 
+
+ Si consiglia di copiare al sicuro i file e gli script che vengono utilizzati per la connessione ad Internet. In qualsiasi occasione, sarà sufficiente ricopiare gli script al loro posto e si potrà velocemente ristabilire la configurazione esatta.
+
+ Oltre ad i singoli file eseguibili attivanti la connessione (quelli creati dall'utente ad esempio), si dovranno salvare i seguenti file:
+
+ /etc/ppp/options 
+
+ /etc/ppp/pap-secrets 
+
+ /etc/ppp/chat-script 
+
+ /etc/resolv.conf 
+
+ 2.10.24)   
+ Perché utilizzando il dialup configuration tool della Red Hat 6.1 il sistema si blocca? 
+
+ Dopo aver lanciato netcfg mediante:
+
+ #  netcfg [ Invio ]
+
+ si dovrà evidenziare interfaces e si rileverà che una delle due interfaccie è priva del nome e non attiva. Sarà sufficiente cancellarla per rimuovere il problema.
+
+ 2.10.25)   
+ Se si utilizzano diversi provider per connettersi ad Internet, come si possono invertire rapidamente gli script di connessione in una distribuzione Red Hat? 
+
+ Per ottenere questo risultato occorre uno script che sostituisca i file:
+
+ /etc/ppp/options 
+
+ /etc/ppp/pap-secrets 
+
+ /etc/ppp/chat-script 
+
+ /etc/resolv.conf 
+
+ quindi prima di tutto occorre copiare questi file al sicuro. Dal momento che la distribuzione è Red Hat, si potrà ricorrere all'utilizzo di pacchetti RPM. In relazione a questo, sarà necessario creare tanti pacchetti RPM quanti sono i provider cui si intende connettersi. Per fare questo, si dovranno creare i file .spec che servono appunto a creare i pacchetti RPM.
+
+ Segue un esempio di file .spec che chiameremo providerA.spec:
+
+ Name: Connessione_providerA
+Summary: Tutte le impostazioni e gli script per la connessione al
+providerA 
+Version: 1.0
+Release: 1
+Copyright: Uso personale Gaetano Paolone
+Group: Applications
+Packager: Gaetano Paolone <bigpaul@linuxfaq.it>
+
+%description
+Ecco i file per la connessione al providerA
+
+%files
+/etc/ppp/options
+/etc/ppp/pap-secrets
+/etc/ppp/chat-script
+/etc/resolv.conf 
+
+ Si passerà quindi alla creazione del pacchetto RPM:
+
+ #  rpm -bb providerA.spec [ Invio ]
+
+ A questo punto verrà creato un pacchetto RPM il cui nome dovrebbe somigliare a Connessione_providerA-1.0-1.rpm . Dopo aver creato il primo pacchetto, si dovranno sostituire manualmente gli script in questione per ottenere il collegamento al providerB. Una volta certi di essere riusciti a stabilire la connessione con providerB, si creerà il pacchetto RPM per questo fornitore di accesso ad Internet partendo dal file providerB.spec :
+
+ #  rpm -bb providerB.spec [ Invio ]
+
+ L'operazione va ripetuta per tutti i fornitori di accesso ad Internet di cui disponiamo.
+
+ Fatti tutti i pacchetti RPM, si dovranno creare script che servono ad attivarli. Ad esempio, si potrà creare lo script attiva_providerA che conterrà la riga:
+
+ #  rpm -Uvh Connessione_providerA-1.0-1.rpm [ Invio ]
+
+ e così per tutti gli altri fornitori di accesso ad Internet. Una volta creati tutti gli script, occorrerà conferire loro il permesso di esecuzione e copiarli in una directory di percorso ( path ).
+
+ Ora basterà digitare il nome dello script per cambiare tutti i file di configurazione e permettere quindi il collegamento al fornitore di accesso ad Internet desiderato.
+
+ 2.10.26)   
+ Se si utilizzano diversi provider per connettersi ad Internet, come si possono gestire gli script di connessione? 
+
+ Se si utilizza più di un provider per la connessione ad Internet, sarà necessario modificare o aggiungere alcuni file contenuti nella directory /etc/ppp .
+
+ Occorrerà innanzitutto cancellare il contenuto di chap-secrets . Dovranno poi essere creati i file:
+
+ dial-providerA 
+
+ dial-providerB 
+
+ [...]
+
+ ciascuno con un contenuto simile al seguente:
+
+ REPORT CONNECT
+ABORT "BUSY"
+ABORT "NO CARRIER"
+ABORT "NO DIALTONE"
+"" ATL0M0X4
+OK ATDTnumero_telefono_provider
+CONNECT 
+
+ Si dovrà poi creare il file options contenente le opzioni generiche di tutti i provider) cui ci si intende connettere. Un esempio potrebbe essere il seguente:
+
+ /dev/modem
+57600
+debug
+lock
+crtscts
+defaultroute 
+
+ In seguito si dovrà modificare il file pap-secrets nel seguente modo:
+
+ # Secrets for authentication using PAP
+# client server secret IP addresses
+nome_utente_providerA providerA password_providerA
+nome_utente_providerB providerB password_providerB
+[...] 
+
+ oppure si dovrà creare uno script che inverta i seguenti due pap-secrets (ammesso che i provider siano due):
+
+ # /etc/ppp/pap-secrets #1
+nomeutente_provider_A * password_providerA 
+
+ # /etc/ppp/pap-secrets #2
+nomeutente_provider_B * password_providerB 
+
+ Per caricare le opzioni corrette, occorrerà creare uno script per ciascun provider. Ecco un esempio di tali script (32) :
+
+ /usr/sbin/pppd connect '/usr/sbin/chat -v -f /etc/ppp/dial-providerA'\
+/dev/modem 57600 debug lock crtscts defaultroute call options-providerA\
+-d -detach & 
+
+ In seguito occorrerà creare la directory /etc/ppp/peers/ e inserirvi i file ( options-providerA , options-providerB , ecc.) contenenti le opzioni specifiche di ogni provider:
+
+ name nomeutente_presso_il_provider 
+
+ Volendo, si potranno aggiungere le altre opzioni come ad esempio la grandezza dei pacchetti in transito:
+
+mtu 552
+mru 552 
+
+ e altro ancora.
+
+ A questo punto occorrerà modificare il file /etc/resolv.conf inserendo gli indirizzi DNS dei provider e modificare il file /etc/hosts in modo che contenga gli indirizzi IP dei server di posta. Questo serve per evitare che la connessione con uno dei provider impedisca il prelievo della posta presso i server degli altri.
+
+ 2.11   
+Connessione remota tra macchine
+
+ 2.11.1)   
+ Come si predispone un accesso da linea commutata a una macchina GNU/Linux? 
+
+ Per accedere ad una macchina GNU/Linux con modem, occorre installare Mgetty+Sendfax, PAM , e avere il supporto per il PPP.
+
+ Nel file /etc/mgetty/login.config va abilitata l'opzione AutoPPP :
+
+ /AutoPPP/ - a_ppp /usr/sbin/pppd /dev/ttySn 
+
+ dove /dev/ttyS n è la porta utilizzata dal modem. Nel file /etc/mgetty/mgetty.config non occorre inserire alcuna opzione particolare, se non la velocità della porta.
+
+ Nel file /etc/ppp/options vanno abilitate le opzioni valide per le connessioni entranti (in conflitto con eventuali connessioni uscenti):
+
+ asyncmap 0
+auth
+crtscts
+lock
+modem
+netmask 255.255.255.0
+passive
++pap
+login
+lcp-echo-interval 30 # eventualmente da modificare
+lcp-echo-failure 4 # eventualmente da modificare 
+
+ Nel file /etc/ppp/options.ttyS x ( ttyS x è sempre la porta del modem) vanno inseriti l'indirizzo della macchina che fa da server e l'indirizzo di quella client:
+
+ #pc.server:pc.client
+192.168.0.1:192.168.0.2 #o altri indirizzi a piacere, ma 
+ #sempre di una stessa classe. 
+
+ Nel file /etc/ppp/pap-secrets va inserita una riga per permettere l'accesso al PPP a tutti gli utenti:
+
+ * pc.server "" - 
+
+ al posto di pc.server si dovrà inserire il nome della macchina che fa da server. Nel file /etc/hosts , vanno inseriti i nomi e gli indirizzi utilizzati:
+
+ 127.0.0.1 localhost
+192.168.0.1 pc.server # eventualmente da modificare
+192.168.0.2 pc.client # eventualmente da modificare 
+
+ Nel file /etc/networks vanno inserite le informazioni relative alla rete che si crea durante la connessione oltre alla rete virtuale locale:
+
+ 127.0.0.0 localnet
+192.168.0.0 rete.mia 
+
+ Nel file /etc/inittab va inserito naturalmente mgetty sulla porta usata dal modem (in modalità respawn ), quindi occorre che ci sia una riga simile alla seguente:
+
+ T1:23:respawn:/sbin/mgetty -x5 -s 57600 ttySx 
+
+ Da notare che 57 600 può essere aumentato a velocità superiori, e che ttyS x dovrà essere sostituito (ttyS1, 2, ecc.).
+
+ A questo punto, all'avvio, mgetty attende una chiamata sulla sua porta e con l'opzione AutoPPP fa partire il ppp non appena la connessione è andata in porto. Il ppp negozia il login e la password (opzione +pap ) automaticamente andando a controllare direttamente il file delle password.
+
+ 2.11.2)   
+ Come ci si sconnette da un sistema remoto lasciando attivi alcuni processi? 
+
+ Lasciare attivo un processo su una macchina da cui ci si è scollegati, è possibile mediante il comando nohup :
+
+ $  nohup ftp -n < ftp-file & [ Invio ]
+
+ In ftp-file dovranno essere inseriti i comandi FTP da eseguire. In ogni caso è possibile lanciare il comando:
+
+ $  tail -f nohup.out & [ Invio ]
+
+ che permetterà di seguire l'andamento delle operazioni sulla console.
+
+ 2.12   
+ Posta elettronica 
+
+ 2.12.1)   
+ Come si configura il sistema per poter scaricare e smistare i messaggi di posta elettronica? 
+
+ Per poter scaricare e smistare i messaggi di posta elettronica, si utilizzano i programmi Fetchmail e procmail. I seguenti file di configurazione si riferiscono ad un utente singolo che scarica da più server di posta messaggi di posta, alcuni dei quali appartengono a liste di discussione ( mailing list ).
+
+ Lo script da invocare per scaricare la posta verrà chiamato MAIL e conterrà quanto segue:
+
+ # Azzeramento contatori
+cat /dev/null > .listalinux.count
+cat /dev/null > .misc.count
+
+# pulizia schermo
+clear
+
+# scaricare la posta
+fetchmail -vvvvv
+
+# Riepilogo messaggi scaricati
+echo
+echo
+echo
+echo
+echo "###############################################"
+echo " +-----------------+"
+echo " | Report `date +%d-%m-%y` |"
+echo " +-----------------+"
+echo
+echo "listalinux: `wc -w < ~/.listalinux.count`"
+echo "inbox: `wc -w < ~/.misc.count`"
+echo "###############################################"
+echo
+echo
+
+# rimozione i file temporanei di conteggio
+rm ~/.listalinux.count 2> /dev/null
+rm ~/.misc.count 2> /dev/null 
+
+ Dopo avere azzerato i contatori che calcoleranno i messaggi scaricati, lo script si occuperà di pulire lo schermo e di iniziare a scaricare la posta dai server di posta. Alla fine del processo di scaricamento della posta, verrà visualizzato un riepilogo dei messaggi scaricati.
+
+ Il file ~/.fetchmailrc presente nella directory /home/ utente / contiene le informazioni di cui Fetchmail si serve per scaricare la posta. Eccone un esempio:
+
+ poll "mail.serverA.it" proto pop3 user "bigpaul" with pass "vocabolario" is
+ "bigpaul" here forcecr smtpaddress localhost
+poll "mail.serverB.it" proto pop3 user "gaetano" with pass
+ "dizionario" is "bigpaul" here forcecr smtpaddress localhost
+# così per tutti gli altri 
+
+ Questo file permetterà a Fetchmail di scaricare la posta da serverA presso cui si dispone di un account bigpaul e da serverB presso cui si dispone di un account gaetano . I messaggi scaricati faranno riferimento all'utente locale bigpaul . Oltre a ~/.fetchmailrc esiste il file .procmailrc sempre nella directory /home/ utente / . Questo file contiene le regole per smistare i messaggi in arrivo. Eccone un esempio:
+
+ DATE=`date +%m-%y`
+PATH=/bin:/usr/bin:/usr/bin
+MAILDIR=$HOME/mail #assicurarsi della sua esistenza
+DEFAULT=/usr/spool/mail/bigpaul
+LOGFILE=~/.log_procmail #consigliato
+
+# -- BACKUP DI TUTTI I MESSAGGI IN /home/utente/backup/all.gz --
+# Queste due righe consentono prima di qualsiasi altra
+# operazione di archiviare al sicuro tutti i messaggi di posta.
+:0 c
+| gzip >> backup/all.$DATE.gz
+
+# -- LISTALINUX --
+# Se c'è un messaggio che risponde ai criteri espressi,
+# il file contatore viene incrementato di una
+# parola, poi una copia del messaggio viene posta nella casella
+# listalinux, e un'altra viene archiviata nel file
+# backup/listalinux.$DATE.gz.
+:0 c
+* ^To.*listalinux@mailserver.it
+| echo 1 >> ~/.listalinux.count
+:0 Ac:
+listalinux
+:0 A:
+| gzip >> backup/listalinux.$DATE.gz
+
+[...] (qui andrebbero inseriti gli altri filtri
+relativi a tutte le altre mailing list)
+
+# -- MISC: tutte gli altri messaggi --
+# i messaggi che arrivano a questo punto (cioè che non
+# hanno risposto ai requisiti espressi in precedenza)
+# non appartengono a nessuna mailing list, e vengono inseriti nella
+# casella principale (MAILDIR=$HOME/mail)
+
+:0 c
+| echo 1 >> ~/.misc.count
+:0 Ac:
+| gzip >> backup/misc.$DATE.gz 
+
+ A questo punto basterà dare i permessi di esecuzione al file MAIL , ed invocarlo per scaricare la posta e per verificare lo smistamento di procmail .
+
+ 2.12.2)   
+ Come si configura Fetchmail? 
+
+ Come faccio a configurare Fetchmail in modo che scarichi anche la posta di altri utenti e la ridistribuisca (agli altri utenti)?
+
+ Segue un esempio del file di configurazione di Fetchmail ( ~/.fetchmailrc ) che permette di scaricare la posta da due server di posta ( mail.serverA.it e mail.serverB.it ) presso cui l'utente che impartisce il comando fetchmail possiede due utenze ( bigpaul e gaetano ) con le rispettive password ( vocabolario e dizionario ).
+
+ poll "mail.serverA.it"
+uidl
+protocol pop3
+username "bigpaul"
+password "vocabolario"
+flush
+mda /usr/bin/procmail
+
+poll "mail.serverB.it"
+uidl
+protocol pop3
+username "gaetano"
+password "dizionario"
+flush
+mda /usr/bin/procmail 
+
+ Si consiglia di provare a commentare la riga>
+
+ uidl 
+
+ se dovessero riscontrarsi problemi.
+
+ Quello che segue è invece un esempio del file di configurazione di Fetchmail ( ~/.fetchmailrc ) che permette di scaricare la posta da due server di posta ( mail.serverA.it e mail.serverB.it ). La posta scaricata da mail.serverA.it sarà indirizzata nella casella di posta dell'utente bigpaul mentre quella scaricata da mail.serverB.it sarà indirizzata nella casella di posta dell'utente gaetano .
+
+ poll "mail.serverA.it" proto pop3 user "bigpaul" with pass "vocabolario" is
+ "bigpaul" here forcecr smtpaddress localhost
+poll "mail.serverB.it" proto pop3 user "gaetano" with pass
+ "dizionario" is "tizio" here forcecr smtpaddress localhost
+# così per tutti gli altri 
+
+ 2.12.3)   
+ Come si possono spedire messaggi all'interno di una rete locale facendo risultare un indirizzo esterno? 
+
+ Occorre modificare il file sendmail.cf in modo che includa la caratteristica use_cw . Nel file sendmail.cw occorrerà indicare quindi i domini da trattare come locali. Per fare questo, si dovrà però avere configurato anche un name server locale che gestisca per finta il dominio dell'indirizzo di posta con il Mail eXchanger (l'host dedicato alla gestione della posta per un dominio indicato nei file di zona del BIND con MX) che punta all'host del server di posta locale e gli altri server che puntano ai loro effettivi IP Internet. Poiché inoltre l'indirizzo di posta non corrisponderà all'utente locale, si dovrà impostare anche la virtusertable del Sendmail (con la caratteristica omonima nel sendmail.cf ) che permette di associare gli indirizzi virtuali a quelli locali esistenti. Il file sendmail.cf possiede la seguente struttura:
+
+ utente@provider.it utente_locale 
+
+ in cui i due campi sono separati da un carattere di tabulazione.
+
+ 2.12.4)   
+ Come si indirizzano correttamente i messaggi scaricati con Procmail in una directory ben precisa? 
+
+ Il file di configurazione di procmail, è .procmailrc e in questo file è possibile indicare quale è la directory corrispondente alla casella di posta predefinita. Quest'ultima viene dichiarata mediante la variabile MAILDIR nel seguente modo:
+
+ MAILDIR=$HOME/Maildir
+DEFAULT=$MAILDIR/mbox 
+
+ Dove Maildir indica la directory contenente la casella di posta.
+
+ 2.12.5)   
+ Come si installa e come si configura Postfix? 
+
+ Qualora non si utilizzino le soluzioni sotto forma di pacchetto, i sorgenti di Postfix si troveranno in due versioni: una del formato postfix- xyz .tar.gz che rappresenta l'attuale versione stabile e l'altra snapshot- jwy .tar.gz che è una versione su cui si sta ancora lavorando. Una volta scaricato, il sorgente va decompresso:
+
+ #  tar -zxvf sorgente.tar.gz [ Invio ]
+
+ Si entrerà nella directory creata dal processo di decompressione e si impartirà il comando:
+
+ #  make [ Invio ]
+
+ Dopo aver fatto questo, occorrerà rinominare alcuni file:
+
+ #  mv /usr/sbin/sendmail /usr/sbin/sendmail.OFF [ Invio ]
+
+ #  mv /usr/bin/newaliases /usr/bin/newaliases.OFF [ Invio ]
+
+ #  mv /usr/bin/mailq /usr/bin/mailq.OFF [ Invio ]
+
+ #  chmod 755 /usr/sbin/sendmail.OFF [ Invio ]
+
+ Poi si dovrà impartire il comando:
+
+ #  useradd postfix [ Invio ]
+
+ Nel file /etc/passwd si dovrà avere qualcosa del genere:
+
+ postfix:*:12345:12345:postfix:/no/where:/no/shell 
+
+ Si aggiungerà in /etc/aliases quanto segue:
+
+ postfix: root
+root utente_non_privilegiato
+MAILER-DAEMON: postmaster
+postmaster: root 
+
+ In seguito, dalla directory dove è stato decompresso il pacchetto, si digiterà:
+
+ #  sh INSTALL.sh [ Invio ]
+
+ rispondendo alle domande poste. Occorrerà mettere poi in /etc/postfix/main.cf le seguenti righe:
+
+ # tenta di spedire la coda ogni 5 min.
+queue_run_delay = 300
+# 3 giorni in coda
+maximal_queue_lifetime = 3
+biff = no
+relayhost = [smtp.tiscalinet.it]
+sender_canonical_maps = hash:/etc/postfix/sender_canonical
+virtual_maps = hash:/etc/postfix/virtual 
+
+ Poi occorrerà creare /etc/postfix/sender_canonical nel seguente modo:
+
+ utente_locale veroindirizzoposta@provider.it 
+
+ e /etc/postfix/virtual così:
+
+ veroindirizzoposta@provider.it utente_locale 
+
+ Poi si darà il comando:
+
+ #  postmap hash:/etc/postfix/sender_canonical [ Invio ]
+
+ e:
+
+ #  postmap hash:/etc/postfix/virtual [ Invio ]
+
+ Infine occorrerà dare il comando per inizializzare la base di dati degli alias:
+
+ #  newaliases [ Invio ]
+
+ A questo punto si dovrà avviare postfix :
+
+ #  postfix start [ Invio ]
+
+ Occorre ricordare poi, i seguenti comandi:
+
+ sendmail -bp visualizza la coda dei messaggi in uscita
+mailq visualizza la coda dei messaggi in uscita
+sendmail -q invia i messaggi in coda
+postfix -flush invia i messaggi in coda 
+
+ 2.12.6)   
+ You have new mail 
+
+ Il messaggio You have new mail , sta ad indicare che nella casella di posta ci sono nuovi messaggi. Per poterli leggere, è necessario avviare il proprio client di posta. Ad esempio, se è stato installato il pacchetto Mailx si potranno leggere i messaggi mediante il comando mail .
+
+ Una altro metodo è leggere direttamente il file contenente i messaggi presente nella propria casella di posta mediante il comando less :
+
+ #  less /var/spool/mail/ utente [ Invio ]
+
+ o:
+
+ #  less /home/ utente / directory / file_con_messaggi [ Invio ] (33) 
+
+ 2.12.7)   
+ Perché la macchina esita a lungo su Sendmail all'avvio? 
+
+ Occorre modificare il file /etc/hosts affinché contenga:
+
+ 127.0.0.1 localhost 
+
+ 2.12.8)   
+ Qual è l'indirizzo cui fare telnet per verificare la configurazione di Sendmail nei confronti dello spam ? 
+
+ L'indirizzo cui fare telnet per verificare la configurazione di Sendmail relativamente alla gestione dello spam è mail-abuse.org :
+
+ #  telnet mail-abuse.org [ Invio ]
+
+ 2.12.9)   
+ Come si può inviare un file di testo compresso in allegato con un unico comando? 
+
+ Questo risultato si può ottenere non con un unico comando ma utilizzando diversi comandi ( tar , uuencode e mail ) sulla stessa riga mediante le pipeline ( | ):
+
+ $  tar czf - nomefile.txt | uuencode prova.tgz | mail -s "Oggetto della mail" [ Invio ]
+
+ 2.12.10)   
+ Come si può associare un file di testo ad un messaggio da riga di comando? 
+
+ Per associare ad un messaggio di posta elettronica un file, sarà necessario inviare al comando mail (tramite il reindirizzamento dello standard input) il file da includere nel corpo del messaggio. I seguenti comandi sono infatti equivalenti:
+
+ $  mail utente @ server -s "Oggetto del messaggio" < file.txt [ Invio ]
+
+ oppure:
+
+ $  cat file.txt | mail -s "Oggetto del messaggio" utente @ server [ Invio ] (34) 
+
+ 2.12.11)   
+ Come si possono inviare messaggi ad intervalli di tempo regolare? 
+
+ Per spedire ad esempio lo stesso messaggio allo stesso indirizzo ogni 3 minuti per un periodo indeterminato di tempo, si potrà utilizzare lo script seguente ( shell Tc):
+
+ #!/bin/tcsh
+touch a
+while(1)
+ if (-f a) then 
+ mail indirizzo < file.in
+ sleep 3 
+ else
+ break
+ endif
+end 
+
+ Questo script continuerà a spedire il messaggio contenuto nel file file.in fino a quando il file a non verrà cancellato.
+
+ 2.12.12)   
+ Come si possono eliminare i duplicati di posta elettronica? 
+
+ Occorrerà utilizzare l'eseguibile formail per ottenere questo risultato. Il seguente script (cui si darà ad esempio il nome depup ) permetterà di eliminare i messaggi doppi:
+
+ #!/usr/bin/bash
+> cache.tmp
+cp $1 $1.original
+formail -D 2000000 cache.tmp -s <$1 > x.tmp
+cp x.tmp $1
+rm x.tmp 
+
+ Lo script dovrà essere eseguito nella directory dove sono presenti le cartelle di posta; generalmente queste si trovano in ~/Mail . Le cartelle di posta dovranno essere indicate come argomento dello script una alla volta. (35) 
+
+ Nel caso esistessero più cartelle di posta , si dovrà utilizzare uno script simile al seguente (36) :
+
+ #!/usr/bin/bash
+export MAILDIR=~/Mail
+export PROGDIR=~/scripts
+cd $MAILDIR
+rm cmd
+rm .*.index
+ls -1 > lista
+awk '$1!="lista" && match($1,"dedup")==0 {printf("echo \042Esamino mailbox
+%s.\042\n$PROGDIR/dedup %s\n",$1,$1);}' lista > cmd
+chmod 755 cmd
+./cmd
+rm -f cmd cache.tmp lista
+cd 
+
+ Lo script, prima prepara la lista delle cartelle di posta, poi con AWK crea a sua volta uno script che richiama lo script mostrato in precedenza per ogni cartella da analizzare. Alla fine dell'elaborazione, oltre alle cartelle risultanti, si avranno a disposizione per sicurezza anche le cartelle originali. Queste ultime, archiviate con il suffisso .original , potranno essere cancellate dopo avere verificato il buon esito dell'operazione.
+
+ 2.12.13)   
+ Cosa è il file ~/.forward ? 
+
+ Il file ~/.forward si trova generalmente all'interno della directory principale dell'utente ( /home/ utente / ), e consente di poter reindirizzare i messaggi entranti verso uno o più indirizzi di posta elettronica.
+
+ La sintassi di tale file è molto semplice; vanno infatti indicati gli indirizzi di destinazione separati da una virgola. Se ad esempio si volessero reindirizzare i messaggi dell'utente locale tizio verso gli indirizzi caio@server1.it e sempronio@server2.it , il /home/tizio/.forward dovrà contenere quanto segue:
+
+ caio@server1.it, sempronio@server2.it 
+
+ 2.12.14)   
+ Si può scegliere la firma ( signature ) in modo casuale? 
+
+ Si può utilizzare l'applicativo sig_rotate.pl (reperibile da < http://freshmeat.net >) (37) 
+
+ 2.12.15)   
+ Perché i client di posta delle macchine di una rete locale non riescono ad inviare i messaggi al di fuori della rete stessa? 
+
+ Per risolvere questo problema occorre abilitare il relay per le macchine in questione. Nel file /etc/mail/relay-domains di Sendmail, sono memorizzati gli indirizzi IP delle macchine abilitate a poter inviare i messaggi fuori della rete locale attraverso il server di posta. Se tale file non esiste, occorrerà crearlo.
+
+ Segue un ipotetico esempio di tale file:
+
+ 192.168.1.1
+192.168.1.2
+192.168.1.3 
+
+ 2.12.16)   
+ Come si scarica la posta con Mutt? 
+
+ Se si intende scaricare la posta mediante un MUA come Mutt evitando di utilizzare un MTA (come fetchmail ) occorrerà ricompilare lo stesso Mutt ricordando di includere il supporto POP. Una volta ricompilato, ~/.muttrc dovrà contenere quanto segue:
+
+ set pop_delete
+set pop_host="pop3.serverposta.it"
+set pop_port=110
+set pop_pass="password"
+set pop_user="nomeutente" 
+
+ La prima riga serve per cancellare i messaggi dal server di posta, la seconda indica l'indirizzo del server di posta stesso, la terza indica la porta, la quarta e la quinta indicano i dati dell' account dell'utente.
+
+ 2.12.17)   
+ Come si spedisce con Mutt un file allegato da riga di comando? 
+
+ Si deve utilizzare l'opzione -a di Mutt. Ecco un esempio di una riga che permette di specificare contemporaneamente oggetto, corpo, allegato e destinatario del messaggio:
+
+ $  echo "testo messaggio" | mutt -a "file_allegato" -s "oggetto" destinatario@dominio.it [ Invio ]
+
+ 2.12.18)   
+ Come si personalizza in Mutt, la stringa che introduce il messaggio riportato? 
+
+ In Mutt questa stringa prende il nome di attribution . Se ad esempio si vuole avere un risultato simile a:
+
+ "On Wed, 31 Feb 2010, Caio wrote" 
+
+ si dovrà inserire nel file ~/.muttrc la seguente riga:
+
+ set attribution = "On %d, %n wrote" 
+
+ 2.12.19)   
+ Come si configura in Mutt, la stringa che indica il vecchio oggetto del messaggio in caso di sostituzione dello stesso? 
+
+ Quando si risponde ad un messaggio, si può cambiare l'oggetto dello stesso mediante il tasto [ s ]. Per fare in modo che l'oggetto sostituito rimanga e compaia come:
+
+ [Was vecchio-oggetto] 
+
+ si dovrà inserire nel file ~/.muttrc la seguente riga:
+
+ set reply_regexp="^(re([\\[0-9\\]+])*|aw):[ \t]*" 
+
+ 2.12.20)   
+ Come si può automatizzare lo scaricamento della posta? 
+
+ Si potrebbe utilizzare la funzione di pianificazione dei comandi del sistema ( Cron). Una voce nel file crontab chiamerebbe uno script simile al seguente:
+
+ #!/bin/sh
+pon
+while ! (/sbin/ifconfig | grep -q ppp0)
+do
+ sleep 1
+done
+fetchmail
+poff 
+
+ dove pon è lo script che avvia il collegamento, e poff quello che lo chiude. Lo script non fa altro che aspettare che il collegamento sia stabilito, scaricare la posta e chiudere il collegamento. Se non ci dovesse essere posta da scaricare, il collegamento verrebbe chiuso subito, e se ci fossero problemi tecnici, Fetchmail andrebbe in timeout dopo circa un minuto, tempo dopo il quale il collegamento sarebbe comunque chiuso.
+
+ 2.13   
+ Navigatori ( browser) 
+
+ 2.13.1)   
+ Come si imposta lo sfondo di Lynx? 
+
+ Lynx mantiene le sue configurazioni all'interno del file /etc/lynx.cfg . In ogni caso è possibile avviare il navigatore all'interno di un terminale grafico di cui è possibile stabilire il colore di fondo. Il comando per ottenere questo risultato è il seguente:
+
+ xterm -bg X -fg Y -fn 10x20 -geometry 80x25 -e lynx 
+
+ Di questo comando (38) sarà possibile eventualmente creare un alias:
+
+ alias lynx='xterm -bg X -fg Y -fn 10x20 -geometry 80x25 -e lynx' 
+
+ La dichiarazione di tale alias potrà eventualmente essere inserita nei file letti all'avvio della shell.
+
+ 2.13.2)   
+ Come si ricarica una pagina ( reload ) con Lynx? 
+
+ La combinazione di tasti [ Ctrl-L ] effettuerà una nuova visualizzazione del navigatore e del suo contenuto. [ Ctrl-R ] servirà a ricaricare invece il file (la pagina) visualizzata.
+
+ 2.14   
+ Gruppi di discussione ( newsgroup) 
+
+ 2.14.1)   
+ Leafnode - Come si possono leggere i messaggi dei gruppi di discussione una volta scollegati? 
+
+ Per leggere i messaggi dei gruppi di discussione una volta sconnessi da Internet occorre utilizzare Leafnode per scaricare i messaggi. Leafnode è un server NNTP concepito per soddisfare un traffico molto ridotto e ben si adatta a leggere e ad inviare messaggi per i gruppi di discussione anche se non si è collegati ad Internet.
+
+ Una volta installato, il pacchetto è gestito da inetd . Quest'ultimo resta in ascolto di richieste sulla porta 119. Per impostarlo, basta assicurarsi che nel file /etc/inetd.conf sia presente la seguente riga:
+
+ nntp stream tcp nowait root /usr/local/sbin/leafnode leafnode 
+
+ Il percorso dell'eseguibile leafnode potrebbe essere diverso, anche se solitamente si trova nel percorso riportato.
+
+ Bisogna poi effettuare la configurazione del server. Occorrerà modificare infatti il file config presente, in /etc/leafnode/ o in /usr/local/lib/leafnode/ a seconda delle distribuzioni. Il file solitamente è commentato e presenta alcuni esempi. Bisognerà stabilire da quale server recuperare i messaggi, con la riga:
+
+ server = news.mioserver.it 
+
+ Si stabilisce poi dopo quanti giorni gli articoli dovranno essere considerati ormai obsoleti, con la riga:
+
+ expire = 7 
+
+ In questo modo gli articoli più vecchi di una settimana potranno essere eliminati. Questa operazione garantisce di non riempire la directory /var/spool/news di migliaia di messaggi già letti che potrebbero rallentare il server e che comunque non sono di alcuna utilità. È bene quindi di tanto in tanto lanciare (in qualità di utente root ) il comando texpire che provvede a eliminare i messaggi datati.
+
+ Se il provider richiedesse l'autenticazione per accedere al server dei gruppi di discussione, si potranno aggiungere (o togliere il commento) le righe:
+
+ username = nome_utente
+password = mia_password 
+
+ È possibile specificare un altro server alternativo ad esempio per i gruppi non presenti nel primo:
+
+ supplement = news.altroserver.it 
+
+ e gli eventuali:
+
+ username = nome_utente_2
+password = mia_password_2 
+
+ Se si sono sottoscritti gruppi particolarmente interessanti di cui si vuole mantenere i messaggi più a lungo, Leafnode permette di specificare tempi diversi per i vari gruppi:
+
+ groupexpire it.comp.retrocomputing = 20 
+
+ ed è possibile anche usare gli asterischi (*) per indicare più gruppi della stessa famiglia ad es.:
+
+ groupexpire it.comp.linux.* = 5 
+
+ Quanto poi al numero massimo di nuovi messaggi recuperati ogni volta, se ne imposta il valore con:
+
+ maxfetch = 500 
+
+ Se invece si vuole impostare il numero di articoli da scaricare dai gruppi appena sottoscritti, si utilizza:
+
+ initialfetch = 100 
+
+ Per evitare di recuperare messaggi recanti messaggi pubblicitari indesiderati ( spam ), è possibile utilizzare un trucco, che però aggira solamente il problema e non lo risolve veramente. Si tratta di fare un controllo su eventuali messaggi inviati a più gruppi di discussione:
+
+ maxcrosspost = 5 
+
+ Attenzione: spesso molti messaggi vengono inviati a più gruppi di discussione per cercare di ottenere più risposte ai propri quesiti per cui si potrebbero perdere articoli che non erano vero spam ! 
+
+ Leafnode permette anche di impostare un'età massima per gli articoli recuperati, evitando di scaricare articoli ormai vecchi ma ancora presenti sul server del provider:
+
+ maxage = 10 
+
+ Vi sono poi una serie di altre opzioni di controllo meno usate ma che si possono rivelare utili in alcuni casi:
+
+ Dispositivo Descrizione 
+
+ maxlines = 100 recupera i messaggi composti da massimo 100 righe 
+
+ minlines = 2 non scarica i messaggi con meno di 2 righe 
+
+ maxbytes = 50000 non scarica i messaggi più grossi di 50000 byte 
+
+ timeout_short = 1 dopo un giorno smette di scaricare gruppi accidentalmente aperti 
+
+ timeout_long = 6 dopo 6 giorni che un gruppo non viene più letto esso smette di scaricarlo 
+
+ Tabella 2.1 . Leafnode: le opzioni aggiuntive. 
+
+ Terminata la configurazione di base, leafnode è pronto per entrare in azione. Lancia la connessione ad Internet, si lancerà, in qualità di utente root , il comando fetch (o fetch-news o ancora fetchnews , a seconda della versione di Leafnode di cui si dispone).
+
+ A questo punto, la prima volta, leafnode inizierà a recuperare la lista completa dei gruppi presenti sul server del provider.
+
+ N.B.: questa operazione può richiedere svariati minuti e potrà rimanere silente.
+
+ Quando si ripresenterà la shell dei comandi, vorrà dire che fetch avrà terminato di scaricare la lista dei gruppi. A questo punto si dovrà lanciare il programma che si intende utilizzare per leggere i messaggi, e, dopo aver impostato come server NNTP «localhost» (o il nome che si è dato alla propria macchina), si dovrà effettuare l'iscrizione ai gruppi desiderati.
+
+ Non basterà però la semplice iscrizione, bisognerà anche entrarci come se si dovessero leggerne gli articoli (seppur non ancora presenti). All'interno dei gruppi si troverà un messaggio fantoccio che informa che sul server (cioè la propria macchina) sta girando leafnode e che il gruppo è stato marcato per il recupero degli articoli la prossima volta che si lancerà fetch (o i comandi descritti sopra). Si dovrà a questo punto uscire dal programma e lanciare di nuovo, sempre in qualità di utente root , fetch per scaricare i messaggi dei gruppi che si sono appena sottoscritti e visitati.
+
+ Bisogna notare che il comando di recupero dei messaggi va lanciato come utente root o come utente news .
+
+ Una volta ritornati alla shell, leafnode avrà scaricato i messaggi dei gruppi sottoscritti, e sarà possibile chiudere la connessione con il provider.
+
+ Qualora la sottoscrizione di alcuni gruppi risulti vana se eseguita dal programma adibito alla lettura dei messaggi, occorrerà provare a sottoscriversi a tali gruppi mediante la creazione di file vuoti (di nome uguale al gruppo cui si vuole iscriversi) con i seguenti comandi:
+
+ #  touch /var/spool/news/interesting.groups/nome_gruppo [ Invio ]
+
+ ad esempio:
+
+ #  touch /var/spool/news/interesting.groups/it.comp.os.linux.annunci [ Invio ]
+
+ 2.14.2)   
+ skipping it.xxx.yyy from now on 
+
+ A volte accade che, passato un po' di tempo dall'iscrizione ad un gruppo di discussione, leafnode smetta di scaricare i messaggi di questo gruppo presentando un messaggio simile al seguente:
+
+ skipping xxx.yyy.zzz from now on. (39) 
+
+ Si può superare questo inconveniente ricreando, ad ogni utilizzo i file presenti in /var/spool/news/interesting.groups/ .Sarà quindi possibile automatizzare il tutto con uno script simile al seguente:
+
+ rm -rf /var/spool/news/interesting.groups/*
+touch /var/spool/news/interesting.groups/comp.os.linux.setup
+touch /var/spool/news/interesting.groups/it.comp.linux.setup
+touch /var/spool/news/interesting.groups/it.comp.linux.pluto
+touch /var/spool/news/interesting.groups/it.comp.linux
+fetch -vvv #o fetchnews a seconda della versione di leafnode che utilizzi 
+
+ 2.15   
+ IRC - chat 
+
+ 2.15.1)   
+ Come si possono controllare le intrusioni al sistema che possono verificarsi con frequenza durante l'utilizzo di programmi per IRC? 
+
+ Per verificare in tempo reale gli eventi principali del sistema tra cui quindi anche gli accessi al sistema si utilizza l'applicativo xconsole che ad esempio può essere avviato in una piccola finestra con il seguente comando:
+
+ $  xconsole -fn 6x10 -geometry 485x100+470+0 -file /dev/xconsole & [ Invio ] (40) 
+
+ 2.16   
+ Scaricamento file - riproduzione ( mirror) di siti 
+
+ 2.16.1)   
+ Quali sono i programmi per GNU/Linux che si devono utilizzare per scaricare i file ad intervalli? 
+
+ Per poter scaricare file di grosse dimensioni a più riprese, si utilizzano programmi ed applicativi appositi. Ecco una lista di quelli più frequentemente utilizzati:
+
+ wget per riga di comando;
+
+ GTransferManager (reperibile presso < http://gtm.sourceforge.net >); (41) 
+
+ Figura 2.1 . GTransferManager. 
+
+ Caitoo (KDE 2. x ) (reperibile presso < http://devel-home.kde.org/~caitoo/ >); (42) 
+
+ Figura 2.2 . Caitoo. 
+
+ 2.16.2)   
+ Come si riprende con Wget uno scaricamento interrotto? 
+
+ La sintassi corretta di wget per riprendere lo scaricamento interrotto di un file è:
+
+ $  wget -c http:// server / percorso / file [ Invio ]
+
+ L'opzione -c funziona solo se non c'è un server proxy (fare riferimento anche alla LDR 2.16.6 ) e se la funzione che rende possibile riprendere gli scaricamenti interrotti ( reget ) è abilitata.
+
+ 2.16.3)   
+ Come si riprende uno scaricamento interrotto da un sito FTP? 
+
+ Per riprendere lo scaricamento di un file da un sito FTP qualora se ne fosse scaricata solamente una parte, si deve utilizzare il comando reget di ftp . Se fosse possibile, è bene provare ad utilizzare wget con l'opzione -c , come indicato nella LDR 2.16.2 .
+
+ 2.16.4)   
+ Come si crea una riproduzione speculare ( mirror ) di un sito? 
+
+ Per effettuare una riproduzione speculare ( mirror) di un sito si dovrà utilizzare Wget, con l'opzione -m :
+
+ $  wget -m http:// www.sito.it [ Invio ]
+
+ Questo comando produrrà una riproduzione completa di http://www.sito.com .
+
+ 2.16.5)   
+ Come si fornisce utente e password a Wget per scaricare un file da un sito FTP? 
+
+ La pagina di manuale di Wget riporta a questo riguardo quanto segue:
+
+ You may encode your username and/or password to URL using the form:
+
+ftp://user:password@host/dir/file 
+
+ Per indicare quindi a Wget il nome utente e la password da utilizzare per scaricare un file da un sito FTP si dovrà utilizzare il seguente comando:
+
+ $  wget ftp:// utente : password @ftp.linuxfaq.it/packages/file [ Invio ]
+
+ 2.16.6)   
+ Si può utilizzare Wget con i proxy? 
+
+ Per ciò che riguarda i proxy, è possibile dichiararne gli indirizzi mediante alcune variabili:
+
+ $  export ftp_proxy= proxy.domain.com : 8080 [ Invio ] (43) 
+
+ o, nel caso di un server proxy HTTP:
+
+ $  export http_proxy= proxy.domain.com : 8080 [ Invio ] (44) 
+
+ Una volta effettuata questa dichiarazione, sarà possibile attivare o meno i proxy mediante l'opzione -Y di wget :
+
+ $  wget -Y on http:// server / percorso / file [ Invio ]
+
+ In questo caso (utilizzando i server proxy) non funziona l'opzione -c che è quella che permette di riprendere gli scaricamenti interrotti.
+
+ 2.16.7)   
+ Come si può automatizzare lo scaricamento di file in orari particolari? 
+
+ Per poter scaricare alcuni file, magari di grosse dimensioni, è preferibile farlo in orari particolari, quando si suppone che il traffico della Rete sia limitato. Si dovrà scrivere un piccolo script che, richiamato da Cron ad una certa ora, si colleghi ad Internet, lanci Wget e al termine dello scaricamento dei file interrompa la connessione e spenga la macchina.
+
+ Lo script, (invocato da Cron), potrà essere simile al seguente:
+
+ #!/bin/sh
+#d_script = download script
+#Script di Roberto Veronico
+
+#collegamento
+/usr/sbin/pppd &
+
+# attesa del collegamento
+until
+test -f /var/run/ppp0.pid
+do cat /dev/null
+done
+
+# attesa della connessione
+a=$[SECONDS]
+b=$[$a+15]
+until test $[SECONDS] -gt $[b]
+do cat /dev/null
+done
+
+# comando per scaricare i file indicati in /home/utente/d_file
+# e che verranno salvati in /home/utente/download
+/usr/bin/wget -c -i /home/utente/d_file -P /home/utente/download
+
+# fine della connessione
+kill `cat /var/run/ppp0.pid` 
+LDR --- Copyright © 1999-2001 Gaetano Paolone --  bigpaul @ linuxfaq.it 
+
+ 1) Quest'ultima soluzione è la più indicata per server di dimensioni limitate.
+
+ 2) Questo comando equivale a apache stop e apache start .
+
+ 3) ipchains si può utilizzare almeno con versioni del kernel
+
+ 4) ci si riferisce a kernel di versione 2.2. x o superiori.
+
+ 5) 192.168.1.1 è l'indirizzo IP del router
+
+ 6) Questa regola tenta di impedire lo spoofing 
+
+ 7) in questo modo il comando ping diretto verso il server fallirà.
+
+ 8) che legge il file .netrc locale o avvia il procedimento di identificazione da parte del server FTP remoto.
+
+ 9) modalità che si disattiva normalmente attraverso il comando prompt .
+
+ 10) dove PID è il PID della shell Bash.
+
+ 11) dove utente è il nome dell'utente sulla macchina remota chiamata server .
+
+ 12) dove directory è la porzione di file system che si intende copiare sulla macchina remota
+
+ 13) controllare le LDR 1.9.7 e 1.9.9 per la gestione dei servizi e dei programmi da eseguire all'avvio del sistema.
+
+ 14) shell Bash
+
+ 15) shell C
+
+ 16) ammesso che il nome della macchina sia localhost . 
+
+ 17) shell Bash
+
+ 18) shell C
+
+ 19) shell Bash 
+
+ 20) shell C 
+
+ 21) shell Bash 
+
+ 22) shell C 
+
+ 23) o /etc/httpd.conf o /etc/httpd/httpd.conf o /etc/apache/httpd.conf 
+
+ 24) o /etc/srm.conf o /etc/httpd/srm.conf o /etc/apache/srm.conf 
+
+ 25) per una distribuzione GNU/Linux Debian
+
+ 26) o /etc/access.conf o /etc/httpd/access.conf . 
+
+ 27) < ftp://ftp.it.debian.org/debian/dists/stable/main/binary-i386/base/pppconfig_1.1.deb > 
+
+ 28) (premettendo un #)
+
+ 29) occorrerà ovviamente inserire i dati relativi al proprio caso
+
+ 30) la & serve a mandare il processo in secondo piano ( background ).
+
+ 31) Controllare anche lo script presente nella LDR 2.10.18 
+
+ 32) che potranno essere chiamati ad esempio connetti-providerA , connetti-providerB , ecc. 
+
+ 33) insomma il file contenente i messaggi di posta.
+
+ 34) dove utente @ server è l'indirizzo di posta elettronica del destinatario.
+
+ 35) Il valore dopo -D rappresenta la dimensione massima (modificabile a piacere) che deve avere il file temporaneo.
+
+ 36) modificando ovviamente i valori delle directory indicate con i propri.
+
+ 37) sig_rotate.pl   GPL
+
+ 38) dove bg è il colore di sfondo con valore X , fg è quello del testo con valore Y , fn indica il carattere e geometry la dimensione del terminale grafico.
+
+ 39) dove xxx.yyy.zzz rappresenta il nome del gruppo di discussione
+
+ 40) /dev/xconsole deve avere il permesso di lettura
+
+ 41) GTransferManager   GPL
+
+ 42) Caitoo   GPL
+
+ 43) dove proxy.domain.com è l'indirizzo del server proxy HTTP e 8 080 l'indirizzo della porta.
+
+ 44) dove proxy.domain.com è l'indirizzo del server proxy HTTP e 8 080 l'indirizzo della porta.
+
+ Dovrebbe essere possibile fare riferimento a questa pagina anche con il nome reti_e_rete_internet.html 
+
+ [successivo] 
+ [precedente] 
+ [inizio] 
+ [fine] 
+ [indice generale] 
+ [hall of fame] 
+ [indice analitico]

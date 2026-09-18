@@ -1,0 +1,124 @@
+Radio Radicale, scheda 342096, intervento 476309, parte 0, da 0s a Nones
+Trascrizione automatica di Radio Radicale.
+
+[00:00] radio radicale siamo al trentanovesimo Congresso del Partito Radicale transnazionale per parlare di pubblicazione di informazioni riservate un tema che in questi ultimi anni è stato venuto alla ribalta grazie a tutti le iniziative prese da Wikileaks sì sì collega normalmente la la pubblicazione di queste pure l' informazione al fenomeno qui che lei sia in realtà è una cosa che risale indietro nel tempo e per chi ha una certa età basta pensare allo scandalo Watergate
+[00:30] non c'è però solo Wikileaks c'è anche ci sono anche degli altri strumenti uno di questo globali XX e ne siamo qui per parlare di questo con due persone che ci lavorano in questo quest' idea anche in questo in questo progetto
+[00:44] che sono Marco calamari e Fabio Pietro santi mago calamari iscritto del Partito Radicale transnazionale allora cominciamo a spiegare che cosa globali s' e da da da da dove parte questa idea
+[00:58] la storia parti sostanzialmente col giornalismo investigativo di marca tipicamente americana che è la pulitura è citato il caso vuote vedete io credo che anche i più giovani non hanno bisogno non abbiano bisogno di
+[01:11] informazioni su cosa è stato il Cadore servite che importanza ha avuto è bastato dire che una notizia pubblicata
+[01:18] da un importante giornale americano ha fatto dimettere il Presidente degli Stati Uniti quindi un fatto che ha avuto sicuramente ripercussioni su scala storica
+[01:28] e venti di quello che chiamiamo in generalmente public discolo Jordi documenti segreti si sono susseguiti dagli anni Settanta quindi dal loro dati
+[01:38] fino a fino a fino ai giorni nostri
+[01:41] la storia magari non è interessante ma ci sono pieni i le cronache di scoop giornalistici che hanno cambiato qualche cosa hanno fatto dimettere uomini politici hanno causato guerre e così via
+[01:53] l' ultima cosa che tutti i tagli che tutti invece conoscono è stata la cronaca di Wikileaks in questi ultimi due anni quello che ha significato e soprattutto le reazioni che ha provocato utilizza
+[02:04] è un' organizzazione
+[02:06] che ha usato anche internet anche la rete per raccogliere dopo pubblicare documenti riservati
+[02:14] chiedono segreti nel senso deteriore della parola segreto cioè nascondevano qualche cosa nascondevano oltre non belle
+[02:22] a cominciare per esempio dal famoso firmato collateral da medio dove si vedono ripetute stragi di civili
+[02:28] fino ai Carlo pubblicati dalle agenzie dove abbiamo visto anche i paesi africani sul nostro ex presidente del Consiglio quindi uno strumento che trova sicuramente dico dosi oppositori
+[02:42] lo Stato americano eccetera eccetera
+[02:45] chiunque debba mantenere un segreto che uno scudetto del ma che indubbiamente riconosciuto fosse da molte più persone organizzazioni uno strumento di liberazione
+[02:54] Wikileaks ha avuto un grosso problema è stata praticamente distrutto perché è stata distrutta beh
+[03:00] cominciamo a dire che non è a una organizzazione che sfruttava internet la rete come base di operazioni che non è così Anzio è piuttosto un' organizzazione classica
+[03:11] che usava un po' la Rete per trasmettere in maniera più o meno riservate alcuni tipi di informazioni ma in realtà
+[03:17] riceveva con mezzi nonché ai utilmente brevi mano spesso questi documenti e altrettanto con mezzi non chiari perché ovviamente doveva mantenere di segreti
+[03:27] le dava giornalisti con anche accordi su come Cosa pubblica
+[03:32] questa è stata una cosa molto interessante ma è stata anche il punto di attacco per chi le ha distrutto
+[03:38] compromissioni più o meno legali di persone blocco di conti correnti eccetera eccetera
+[03:45] quindi
+[03:46] idea buona personalmente io ritengo un' opera ampia
+[03:51] questo tipo di cose ma l' implementazione di statevi dente mente completamente sbagliata perché la battuta è stata combattuta una battaglia
+[03:58] perché diciamo Wikileaks adito di sorpresa colto in contropiede pubbliche amministrazioni potere chiari ed oscuri della
+[04:06] della società più a quando questi poteri acciocché agito tutto è praticamente finito
+[04:12] e allora non è che siamo professionisti della Rete informatici conoscitori anche delle tecnologie di detto che sia
+[04:20] di tutto quello che è stato fatto in rete per promuovere la privacy abbiamo pensato bene partendo dei difetti di Wikileaks prima di tutto di essere un modello centralizzato
+[04:31] e poi di nonna garantire la sicurezza e l' anonimato di vari partecipanti come per esempio la storia di brilli Menin grazie ad un' altra volta ci conferma nel caso vi che Liz del meno inserito il giunto
+[04:46] il presunto soldato che ha fatto filtrare
+[04:51] alcuni documenti riservati e che praticamente detenuto senza processo da quasi due anni perché essendo militare del soggetto e la giustizia militare americana evidentemente anche in questo caso clamoroso è mancato una sicurezza adeguata per chi faceva
+[05:06] filtrare l' informazione bene hanno abbiamo detto possiamo usare due tecnologie che già esistono su internet sono consolidate quali la crittografia atto
+[05:16] eccetera eccetera per fare qualche cosa di meglio qualche cosa di decentrato e qualche cosa che non abbia bisogno di fiducia fra persone per poter permettere il processo di King ma la garantisca da un punto di vista matematico
+[05:30] quindi se capisco bene non c'è diciamo una diffusione di notizie che si va sul fatto che esiste un' organizzazione che riceve da ma attraverso dei canali dell' informazione e decide se come e quando questi vincoli e queste informazioni vengono messi a disposizione o diffuse
+[05:47] ma c'è un sistema tra virgolette automatico insomma si sfrutta la potenzialità della Rete Fabio Pietro santi che è il reca leggo random globali Krsko Tribute sono uno dei gli sviluppatori possiamo dire di o comunque dei dei dei di chi ci lavora materialmente allora come funziona globali sa
+[06:05] il progetto globale x mira principalmente alla allo sviluppo al rilascio di una software
+[06:13] software che rappresenta uno strumento abilitante che consenta organizzazioni non governative media piuttosto che la stessa pubblica amministrazione o aziende
+[06:25] di implementare i mettere a disposizione del proprio pubblico di riferimento dei sistemi di raccolta di segnalazioni ma con alcune caratteristiche sono diciamo lo differenziano molto
+[06:37] rispetta i sistemi correntemente esistenti cioè garantendo un livello di anonimato e di protezione dei dati molto forte per tutelare la l' identità del segnalatore nel momento in cui una
+[06:52] azienda mette decidesse di mettere a disposizione di propri dipendenti un sistema di raccolta di segnalazioni per esempio contro la corruzione di Abu interni aziendali ovviamente dipendenti se possono si potessero fare queste segnalazioni in modo anonimo essendo certi di farla minimamente
+[07:07] ma andrebbero informazioni preziose per esempio riguardante azioni corruttiva all' interno di una grande azienda ma allo stesso modo una organizza e non governativa si potrebbe permettere di poter
+[07:19] attivare delle iniziative di trasparenza dell' informazione volte a
+[07:23] trovare e individuare azioni di violazione dei diritti umani piuttosto che di abusi nei confronti di soggetti più deboli piuttosto che abusi ambientali
+[07:32] in particolar modo a titolo di esempio stiamo stabilendo una collaborazione per aiutare un citizen media cioè una TES è stata giornalistica gestita direttamente dei cittadini che opera in Tagikistan e Turkmenistan aree dove sicuramente i diritti umani non sono
+[07:49] consolidati a cosa servirà questo sistema un utilizzo del software globali se
+[07:54] in questo contesto per consentire ai cittadini di questi Paesi dove i diritti umani non sono garantiti inviare segnalazioni su abusi che sono accaduti all' interno del proprio Paese che saranno ricevuti da dei giornalisti
+[08:09] diciamo amatoriali ma con attitudine professionale che analizzeranno le informazioni né valide Ranno ovviamente la veridicità per evitare fenomeni di delazione o rischi ripubblicazione di falsa informazione e a seguito faranno public disclosure quindi trarre per redigerà hanno delle notizie con allegate le informazioni originale provenienti dalla fonte
+[08:31] dalla fonte attuale
+[08:32] altri esempi molto importanti sono quelli nell' ambito delle organizzazioni politiche quindi organizzazioni politiche che vogliono fare azioni di trasparenza
+[08:42] sia nella contrasto diciamo nel contrasto dell' emersione di abusi di diritti umani ma in generale di tutte quelle che rientra nella categoria del termine inglese della malpractice in generale del l' abuso a danno dell' interesse pubblico sia esso violazione di buone norme o pratiche per esempio ambientali abbiamo avuto qualcuno i discorsi con organizzazione di attivismo legate alla tutela ambientale che sono interessate a poter raccogliere segnalazioni circa azioni negative ovviamente da parte di aziende da parte di privati e da parte di enti pubblici circa abusi ambientali questo perché avendo a disposizione uno strumento che permetta né più né meno di mettere un sito che da grandi garanzia di anonimato al segnalatore e che quindi garantendo il segnalatore abbatte la barriera all' ingresso e la remora che il segnalatore potrebbe avere di
+[09:39] mettere a repentaglio la sua identità
+[09:42] sì quale veniamo un attimo dopo alla alla questione tecnica così magari speriamo anche poi in poche parole come chi volete fosse interessato do deve andare cosa può fare invece c' era una cosa che in qualche modo fa abbia un po' anticipato la domanda che volevo fare un raggiro Amato calamari
+[09:58] sua appunto
+[09:59] uno dei cardini della propria del lavoro di giornalismo e lo spiegano i manuali le scuole la verifica delle fonti perché
+[10:05] uno potrebbe pensare appunto anch' io in pratica parte fa abbia già risposto c'è comunque una una fase di di di
+[10:15] di filtraggio diciamo di controllo delle fonti perché altrimenti potrebbe diventare
+[10:18] anche una strada di diffamazione di di di diffusione anche di notizie false e tendenziose una seria
+[10:24] allora questa è la cosa interessante perché l' utilizzo di globalizzazione in un processo anche fosse del tutto simile a quello di Wikileaks in cui la stessa organizzazione raccoglieva le informazioni che le pubblicava dopo averle verificate
+[10:40] permette di spezzare in più e ruoli questa operazione complessiva e quindi di avere
+[10:45] semplicemente chi sotto mette le informazioni senza nessun' altra responsabilità o
+[10:50] ovviamente visibilità un' organizzazione che riceve e smista le informazioni a potenziali interessati
+[10:59] e una serie di potenziare interessanti che ricevono non l' informazione in quanto tali perché se queste scelte privo di potrebbero anche essere compromessi
+[11:08] ma dicevo una notizia su come recuperare informa completamente anonima delle informazioni nel caso siano interessati quindi
+[11:17] diciamo si spezza in tre fasi che sono poi quelle che effettivamente avvengono a questo processo e si possono contenere
+[11:25] tutti e tre questi luoghi nella maniera più distribuita possibile
+[11:30] una delle cose che ha fatto tornare di Wikileaks è stata la necessità
+[11:33] di verificare di informazioni in parte censura giovane levando i nomi degli agenti segreti americani conosciamo neanche riusciti eccetera eccetera
+[11:43] decidendo chi dovevano pubblicare e stabilendo rapporti di trust di fiducia con i giornalisti che dovranno pubblicare questo cosa molto complessa e ovviamente nel constatare che la
+[11:53] il lavoro più grande che ha fatto tornare di utilizza anche perché il GMES non è un' organizzazione su alcune migliaia di persone
+[12:00] verificare i duecento mila Carlo vuol dire mettersi via legge vi sono banali lavori di redazione anima che non possono essere subappaltati a qualcuno
+[12:08] allora suddividendo questa cosa per esempio il feeling permette di scaricare su chi riceve l' informazione l' onere della verifica
+[12:17] chi diciamo che è un piccolo sito barriques non può semplicemente dire bene questo è un sito che pare da dirle discariche di rifiuti della Campania
+[12:29] aspettare il sito che è completamente vuoto e ne rende noto l' indirizzo di con mezzi più o meno pubblici ivi ai ai potenziali interessati
+[12:38] ed è tale da questo sito dicendo le informazioni delle riceveranno Tizio Caio Sempronio la Presidenza del della Provincia Campania il TAR giornalista la tal testata e anche la Guardia di Finanza
+[12:51] tutti quelli che hanno presenta un indirizzo debbo di posta
+[12:54] libri del suo lavoro definito lui può assolutamente non preoccuparsi dei documenti che transiteranno e tanto meno doveroso deve di città perché ciascuno dei riceventi
+[13:05] che la vedranno che lui aveva stabilito se lo desidera no riceverà l' informazione è ovviamente fra quello che vedo quello che può in termini di verifica delle informazioni in questo modo si scarica diciamo così
+[13:19] su ciascun ricevente l' onere della verifica dal suo punto di vista perché
+[13:24] un meccanismo semplice il ricevente di informazioni può essere quello del giornalista più assatanato sui temi ambientali ma può essere anche l' azienda stessa che sta facendo il malfatto
+[13:36] che quindi vede il documento e magari smette perché dice questo sta venendo fuori tutto
+[13:43] e sono tutte questioni che chi è interessato un particolare problema può conoscere bene quindi può preparare un minimo Wikileaks
+[13:51] qui c'è un sito di Viking
+[13:53] molto ben fatto e molto centrato anche una realtà locale non so maltrattamenti di un preside nei confronti e gli alunni di un liceo possono
+[14:03] essere trattati con la stessa tecnica con cui si trattano questioni di livello internazionale
+[14:10] allora perversa che chiuderà chiudere allora abbiamo capito che non
+[14:16] è un po' più un mezzo un mezzo tecnico per cui poiché non non si o colpa di che far transitare le informazioni che dà modo di di di di mette di farle arrivare e quindi poi di indirizzarli a chi poi dovrà utilizzarle verificare controbattere
+[14:32] chi fosse interessato chi è interessato ma a utilizzare un mezzo del genere cosa deve fare
+[14:38] Fabio
+[14:39] è l' elemento principale a raggiungere il nostro sito web anche globali sul punto deve
+[14:46] dove ha la disponibilità di scaricamento del software e delle istruzioni di installazione e configurazione
+[14:53] che in una prima fase possono richiedere una esigenza di competenza tecnica media e proprio per questo noi come progetto
+[15:01] forniamo tutta l' assistenza gratuita necessaria perché voi a fare delle azioni meritoria nel pubblico interesse dal punto di vista tecnologico istallare questo sistema configurarlo in modo adeguato significa
+[15:15] definire quali sono il tipo di informazioni che voglio avere come ingresso e quali sono i destinatari a cui poi rinviare queste informazioni cioè gli analisti le persone deputate ad analizzare questo tipo di informazione
+[15:28] e
+[15:29] indi di fatto di fatto il l' operazione è a quel punto è
+[15:33] completata a quel punto l' esigenza vera e propria e di a fare la campagna mediatica per rendere noto ai soggetti interessati
+[15:42] fosse la piattaforma di trasparenza anticorruzione della provincia di Pavia ci si rivolgerà magari tramite i social network tramite i blog se è il frutto iter ai cittadini di Pavia e ispira da oggi potete segnalare un fatto di anticorruzione tramite questo sito qui
+[15:58] dove le segnalazioni saranno ricevute da queste persone qui
+[16:02] questa è l' attività vera e propria di attivismo di trasparenza che viene abilitata dallo strumento globalizzato e che è il punto cardine del nostro progetto riuscire acconsentire a organizzazioni
+[16:16] gruppi informali realtà politiche e non di fare attivismo di trasparenza di consentire a cui l' informazione che oggi
+[16:24] e
+[16:25] nella pancia di una persona che vorrebbe denunciare un fatto ma non se la sente di esporsi in prima persona
+[16:32] domanda non sa dove mandarla non se la sente di esporsi in prima
+[16:35] persona perché magari rischia di perdere il lavoro di poter finalmente rendere pubblico e avere un impatto per fare giustizia su fatti che altrimenti rimarrebbero segreti
+[16:45] naturalmente sono utilizzabili tutti gli strumenti computer tablet smartphone
+[16:53] la cosa molto importante è che sia l' accesso
+[16:57] del fornitori diciamo di informazione
+[17:00] che l' esistenza del sito che ne abbiamo chiamato sito ma non è un sito normale sono completamente non rintracciabili cioè mentre è evidente che ma è stato ripetuto
+[17:11] che garantiamo completamente cioè garantiamo il software che utilizziamo garantisce completamente l' anonimato di chi fornisce l' informazione con mezzi che magari non è qui il caso il caso di spiegare ma sono l' avete detto
+[17:25] garantisce anche lì ed è anche la nonna rintracciabilità del sito che non è in realtà un sito web normale anche se non si raggiunga come se fosse giusto e normale
+[17:35] merito un' intensa e distinto che cos' è esattamente questo la cosa importante è che non si tratta di mettere in piedi un sito che aveva un hippie un provider e che quindi potrà essere rintracciato immediatamente e questo garantisce la
+[17:50] in sequestrabili età del sito che elemento importante nel momento in cui si avviasse un' iniziativa di trasparenza fosse soggetto a pressioni politiche oppressione giudiziaria ingiustificate
+[18:03] che è stato uno dei grandi problemi di Wikileaks con globali se queste metodologie di
+[18:08] raccolta di dei siti diciamo di raccolta di informazioni non è di fatto possibile mettere a tacere il iniziativa che incentiva il flusso di informazioni
+[18:20] naturalmente non c'è nulla di illegale perché stiamo parlando di strumenti i tecnici che consenta una circolazione dell' informazione che consentono anche poi la verifica le parti interessati sia chi denuncia come è stato ampiamente spiegato sia chi magari riesce deve
+[18:34] replicare di verificare agire di conseguenza un software come lui tigre come globali XX è un mezzo esattamente come un laboratorio di testi io posso scrivere una lettera minatoria usando ore d' e compie con un' azione illegale ma la normalità delle persone con più azioni legali lo stesso è possibile con qualunque altro oggetto incluso ovviamente insorto ecoballe x
+[18:58] è chiarissimo allora chi vuole saperne di più il l' indirizzo è globali Xu appunto ordine li trovate tutte le informazioni su questo sistema su questo mezzo di circolazione dell' informazione di trasparenza dell' informazione e quindi di iniziativa politica proprio la rete che viene utilizzata
+[19:14] sarete le potenzialità della rete degli strumenti che accedono alla rete per anche fare politica o comunque fare informazione allora grazie a Marco calamari grazie a Fabio Pietro Santi e ovviamente che ha interessato globali se punto ordine

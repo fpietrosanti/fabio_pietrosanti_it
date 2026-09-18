@@ -1,0 +1,308 @@
+233-quicken-tor2web-mode - Tor design proposals 
+
+ Tor Proposals 
+ All proposals, by number 
+ All proposals, by status 
+ Proposals
+ 000-index 
+ 001-process 
+ 098-todo 
+ 099-misc 
+ 100-tor-spec-udp 
+ 101-dir-voting 
+ 102-drop-opt 
+ 103-multilevel-keys 
+ 104-short-descriptors 
+ 105-handshake-revision 
+ 106-less-tls-constraint 
+ 107-uptime-sanity-checking 
+ 108-mtbf-based-stability 
+ 109-no-sharing-ips 
+ 110-avoid-infinite-circuits 
+ 111-local-traffic-priority 
+ 112-bring-back-pathlencoinweight 
+ 113-fast-authority-interface 
+ 114-distributed-storage 
+ 115-two-hop-paths 
+ 116-two-hop-paths-from-guard 
+ 117-ipv6-exits 
+ 118-multiple-orports 
+ 119-controlport-auth 
+ 120-shutdown-descriptors 
+ 121-hidden-service-authentication 
+ 122-unnamed-flag 
+ 123-autonaming 
+ 124-tls-certificates 
+ 125-bridges 
+ 126-geoip-reporting 
+ 127-dirport-mirrors-downloads 
+ 128-bridge-families 
+ 129-reject-plaintext-ports 
+ 130-v2-conn-protocol 
+ 131-verify-tor-usage 
+ 132-browser-check-tor-service 
+ 133-unreachable-ors 
+ 134-robust-voting 
+ 135-private-tor-networks 
+ 136-legacy-keys 
+ 137-bootstrap-phases 
+ 138-remove-down-routers-from-consensus 
+ 139-conditional-consensus-download 
+ 140-consensus-diffs 
+ 141-jit-sd-downloads 
+ 142-combine-intro-and-rend-points 
+ 143-distributed-storage-improvements 
+ 144-enforce-distinct-providers 
+ 145-newguard-flag 
+ 146-long-term-stability 
+ 147-prevoting-opinions 
+ 148-uniform-client-end-reason 
+ 149-using-netinfo-data 
+ 150-exclude-exit-nodes 
+ 151-path-selection-improvements 
+ 152-single-hop-circuits 
+ 153-automatic-software-update-protocol 
+ 154-automatic-updates 
+ 155-four-hidden-service-improvements 
+ 156-tracking-blocked-ports 
+ 157-specific-cert-download 
+ 158-microdescriptors 
+ 159-exit-scanning 
+ 160-bandwidth-offset 
+ 161-computing-bandwidth-adjustments 
+ 162-consensus-flavors 
+ 163-detecting-clients 
+ 164-reporting-server-status 
+ 165-simple-robust-voting 
+ 166-statistics-extra-info-docs 
+ 167-params-in-consensus 
+ 168-reduce-circwindow 
+ 169-eliminating-renegotiation 
+ 170-user-path-config 
+ 171-separate-streams 
+ 172-circ-getinfo-option 
+ 173-getinfo-option-expansion 
+ 174-optimistic-data-server 
+ 175-automatic-node-promotion 
+ 176-revising-handshake 
+ 177-flag-abstention 
+ 178-param-voting 
+ 179-TLS-cert-and-parameter-normalization 
+ 180-pluggable-transport 
+ 181-optimistic-data-client 
+ 182-creditbucket 
+ 183-refillintervals 
+ 184-v3-link-protocol 
+ 185-dir-without-dirport 
+ 186-multiple-orports 
+ 187-allow-client-auth 
+ 188-bridge-guards 
+ 189-authorize-cell 
+ 190-shared-secret-bridge-authorization 
+ 191-mitm-bridge-detection-resistance 
+ 192-store-bridge-information 
+ 193-safe-cookie-authentication 
+ 194-mnemonic-urls 
+ 195-TLS-normalization-for-024 
+ 196-transport-control-ports 
+ 197-postmessage-ipc 
+ 198-restore-clienthello-semantics 
+ 199-bridgefinder-integration 
+ 200-new-create-and-extend-cells 
+ 201-bridge-v3-reqs-stats 
+ 202-improved-relay-crypto 
+ 203-https-frontend 
+ 204-hidserv-subdomains 
+ 205-local-dnscache 
+ 206-directory-sources 
+ 207-directory-guards 
+ 208-ipv6-exits-redux 
+ 209-path-bias-tuning 
+ 210-faster-headless-consensus-bootstrap 
+ 211-mapaddress-tor-status 
+ 212-using-old-consensus 
+ 213-remove-stream-sendmes 
+ 214-longer-circids 
+ 215-update-min-consensus-ver 
+ 216-ntor-handshake 
+ 217-ext-orport-auth 
+ 218-usage-controller-events 
+ 219-expanded-dns 
+ 220-ecc-id-keys 
+ 221-stop-using-create-fast 
+ 222-remove-client-timestamps 
+ 223-ace-handshake 
+ 224-rend-spec-ng 
+ 225-strawman-shared-rand 
+ 226-bridgedb-database-improvements 
+ 227-vote-on-package-fingerprints 
+ 228-cross-certification-onionkeys 
+ 229-further-socks5-extensions 
+ 230-rsa1024-relay-id-migration 
+ 231-migrate-authority-rsa1024-ids 
+ 232-pluggable-transports-through-proxy 
+ 233-quicken-tor2web-mode 
+ 234-remittance-addresses 
+ 235-kill-named-flag 
+ 236-single-guard-node 
+ 237-directory-servers-for-all 
+ 238-hs-relay-stats 
+ 239-consensus-hash-chaining 
+ 240-auth-cert-revocation 
+ 241-suspicious-guard-turnover 
+ 242-better-families 
+ 243-hsdir-flag-need-stable 
+ 244-use-rfc5705-for-tls-binding 
+ 245-tap-out 
+ 246-merge-hsdir-and-intro 
+ 247-hs-guard-discovery 
+ 248-removing-rsa-identities 
+ 249-large-create-cells 
+ 250-commit-reveal-consensus 
+ 251-netflow-padding 
+ 252-single-onion 
+ 253-oob-hmac 
+ 254-padding-negotiation 
+ 255-hs-load-balancing 
+ 256-key-revocation 
+ 257-hiding-authorities 
+ 258-dirauth-dos 
+ 259-guard-selection 
+ 260-rend-single-onion 
+ 261-aez-crypto 
+ 262-rekey-circuits 
+ 263-ntru-for-pq-handshake 
+ 264-subprotocol-versions 
+ 265-load-balancing-with-overhead 
+ 266-removing-current-obsolete-clients 
+ 267-tor-consensus-transparency 
+ 268-guard-selection 
+ 269-hybrid-handshake 
+ 270-newhope-hybrid-handshake 
+ 271-another-guard-selection 
+ 272-valid-and-running-by-default 
+ 273-exit-relay-pinning 
+ 274-rotate-onion-keys-less 
+ 275-md-published-time-is-silly 
+ 276-lower-bw-granularity 
+ 277-detect-id-sharing 
+ 278-directory-compression-scheme-negotiation 
+ 279-naming-layer-api 
+ 280-privcount-in-tor 
+ 281-bulk-md-download 
+ 282-remove-named-from-consensus 
+ 283-ipv6-in-micro-consensus 
+ 284-hsv3-control-port 
+ 285-utf-8 
+ 286-hibernation-api 
+ 287-reduce-lifetime 
+ 288-privcount-with-shamir 
+ 289-authenticated-sendmes 
+ 290-deprecate-consensus-methods 
+ 291-two-guard-nodes 
+ 292-mesh-vanguards 
+ 293-know-when-to-publish 
+ 294-tls-1.3 
+ 295-relay-crypto-with-adl 
+ 296-expose-bandwidth-files 
+ 297-safer-protover-shutdowns 
+ 298-canonical-families 
+ 299-ip-failure-count 
+ 300-walking-onions 
+ 301-dont-vote-on-package-fingerprints 
+ 302-padding-machines-for-onion-clients 
+ 303-protover-removal-policy 
+ 304-socks5-extending-hs-error-codes 
+ 305-establish-intro-dos-defense-extention 
+ 306-ipv6-happy-eyeballs 
+ 307-onionbalance-v3 
+ 308-counter-galois-onion 
+ 309-optimistic-socks-in-tor 
+ 310-bandaid-on-guard-selection 
+ 311-relay-ipv6-reachability 
+ 312-relay-auto-ipv6-addr 
+ 313-relay-ipv6-stats 
+ 314-allow-markdown-proposals 
+ 315-update-dir-required-fields 
+ 316-flashflow 
+ 317-secure-dns-name-resolution 
+ 318-limit-protovers 
+ 319-wide-everything 
+ 320-tap-out-again 
+ 321-happy-families 
+ 322-dirport-linkspec 
+ 323-walking-onions-full 
+ 324-rtt-congestion-control 
+ 325-packed-relay-cells 
+ 326-tor-relay-well-known-uri-rfc8615 
+ 327-pow-over-intro 
+ 328-relay-overload-report 
+ 329-traffic-splitting 
+ 330-authority-contact 
+ 331-res-tokens-for-anti-dos 
+ 332-ntor-v3-with-extra-data 
+ 333-vanguards-lite 
+ 334-middle-only-flag 
+ 335-middle-only-redux 
+ 336-randomize-guard-retries 
+ 337-simpler-guard-usability 
+ 338-netinfo-y2038 
+ 339-udp-over-tor 
+ 340-packed-and-fragmented 
+ 341-better-oos 
+ 342-decouple-hs-interval 
+ 343-rend-caa 
+ 344-protocol-info-leaks 
+ 345-specs-in-mdbook 
+ 346-protovers-again 
+ 347-domain-separation 
+ 348-udp-app-support 
+ 349-command-state-validation 
+ 350-remove-tap 
+
+ Light 
+
+ Rust 
+
+ Coal 
+
+ Navy 
+
+ Ayu 
+
+ Tor design proposals
+
+ Filename: 233-quicken-tor2web-mode.txt
+Title: Making Tor2Web mode faster
+Author: Virgil Griffith, Fabio Pietrosanti, Giovanni Pellerano
+Created: 2014-03-27
+Status: Rejected
+
+1. Introduction
+
+ While chatting with the Tor archons at the winter meeting, two speed
+ optimizations for tor2web mode [1] were put forward. This proposal
+ specifies concretizes these two optimizations. As with the current
+ tor2web mode, this quickened tor2web mode negates any client
+ anonymity.
+
+2. Tor2web optimizations
+
+2.1. Self-rendezvous
+
+ In the current tor2web mode, the client establishes a 1-hop circuit
+ (direct connection) to a chosen rendezvous point. We propose that,
+ alternatively, the client set *itself* as the rendezvous point. This
+ coincides with ticket #9685[2].
+
+2.2. direct-introduction
+
+ Identical to the non-tor2web mode, in the current tor2web mode, the
+ client establishes a 3-hop circuit to the introduction point. We
+ propose that, alternatively, the client builds a 1-hop circuit to the
+ introduction point.
+
+4. References
+
+ [1] Tor2web mode: https://trac.torproject.org/projects/tor/ticket/2553
+ [2] Self-rendezvous: https://trac.torproject.org/projects/tor/ticket/9685

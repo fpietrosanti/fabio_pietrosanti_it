@@ -1,0 +1,11 @@
+{
+ "source_url": "https://github.com/ooni/probe/issues/747",
+ "fetched_url": "api",
+ "method": "api",
+ "capture": null,
+ "content_type": "application/json",
+ "bytes": 9822,
+ "sha256": "569152718bf4875b4abe37ab631a7d2cd304ce0286d5a58e80274f464b92c874",
+ "name_found": true,
+ "fetched_at": "2026-09-18T10:17:21+00:00"
+}

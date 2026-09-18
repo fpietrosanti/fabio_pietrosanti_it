@@ -1,0 +1,351 @@
+GitHub - osservatoriosicurezza/Perimetro-Cibernetico-Italiano: Pipeline 0 del progetto con definizione tecnica del Perimetro Cibernetico Italiano 
+
+ Skip to content 
+
+ Sign up
+
+ Why GitHub?
+
+ Features → 
+
+ Code review 
+
+ Project management 
+
+ Integrations 
+
+ Actions 
+
+ Packages 
+
+ Security 
+
+ Team management 
+
+ Hosting 
+
+ Mobile 
+
+ Customer stories → 
+
+ Security → 
+
+ Team 
+
+ Enterprise 
+
+ Explore
+
+ Explore GitHub → 
+
+ Learn & contribute
+
+ Topics 
+
+ Collections 
+
+ Trending 
+
+ Learning Lab 
+
+ Open source guides 
+
+ Connect with others
+
+ Events 
+
+ Community forum 
+
+ GitHub Education 
+
+ GitHub Stars program 
+
+ Marketplace 
+
+ Pricing
+
+ Plans → 
+
+ Compare plans 
+
+ Contact Sales 
+
+ Nonprofit → 
+
+ Education → 
+
+ --> 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ No suggested jump to results 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ Sign in
+
+ Sign up
+
+ {{ message }}
+
+ osservatoriosicurezza 
+
+ / 
+
+ Perimetro-Cibernetico-Italiano 
+
+ Watch
+
+ 15
+
+ Star
+
+ 14
+
+ Fork
+
+ 1
+
+ Pipeline 0 del progetto con definizione tecnica del Perimetro Cibernetico Italiano
+
+ 14 
+ stars
+
+ 1 
+ fork
+
+ Star
+
+ Watch
+
+ Code 
+
+ Issues 
+ 2 
+
+ Pull requests 
+ 0 
+
+ Actions 
+
+ Projects 
+ 1 
+
+ Security 
+
+ Insights 
+
+ More 
+
+ Code
+
+ Issues
+
+ Pull requests
+
+ Actions
+
+ Projects
+
+ Security
+
+ Insights
+
+ Dismiss
+
+ Join GitHub today
+
+ GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+
+ Sign up 
+
+ master 
+
+ 2 
+ branches 
+
+ 0 
+ tags 
+
+ Go to file
+
+ Code
+
+ Clone with HTTPS
+
+ Use Git or checkout with SVN using the web URL.
+
+ Open with GitHub Desktop
+
+ Download ZIP
+
+ Launching GitHub Desktop 
+
+ If nothing happens, download GitHub Desktop and try again.
+
+ Go back 
+
+ Launching GitHub Desktop 
+
+ If nothing happens, download GitHub Desktop and try again.
+
+ Go back 
+
+ Launching Xcode 
+
+ If nothing happens, download Xcode and try again.
+
+ Go back 
+
+ Launching Visual Studio 
+
+ If nothing happens, download the GitHub extension for Visual Studio and try again.
+
+ Go back 
+
+ Latest commit
+
+ Git stats
+
+ 8 
+ commits 
+
+ Files
+
+ Permalink 
+
+ Failed to load latest commit information.
+
+ Type
+
+ Name
+
+ Latest commit message
+
+ Commit time
+
+ README.md 
+
+ ossci-con-titolo.jpeg 
+
+ ossci-senza-titolo.jpeg 
+
+ View code
+
+ README.md
+
+ Osservatorio Sicurezza Perimetro Cibernetico Italiano
+
+ Pipeline 0 del progetto con definizione tecnica del Perimetro Cibernetico Italiano 
+
+ Obiettivo dell’ Osservatorio Sicurezza del Perimetro Cibernetico Italiano (OSPCI) è quello di migliorare la sicurezza informatica delle infrastrutture italiane connesse a internet attraverso una misurazione attiva e continuativa del perimetro internet nazionale, e la pubblicazione di dati a disposizione del pubblico e degli specialisti di settore per ulteriori elaborazioni e progettualità.
+
+ Obiettivi specifici del progetto
+
+ Misurare con metodi omogenei la sicurezza delle infrastrutture sottoposte alla normativa italiana con periodicità bisettimanale.
+
+ Produrre i data set, e il software che li producono, secondo una logica di piena riproducibilità da parte della comunità della ricerca scientifica nell’ambito della sicurezza cibernetica, con tutti i servizi server raggiungibili da internet, quali tipologie di software hanno in esecuzione e quale versione/edizione.
+
+ Fornire un archivio di data set raccolti con periodicità, stimolare e favorire la nascita di progetti di cybersecurity che ne facciano uso
+
+ Organizzazione del progetto
+
+ OSPCI vede la sua organizzazione preliminare tramite:
+
+ group chat telegram di libero accesso e partecipazione https://t.me/joinchat/DdiC3klD0NMItWpnMoIqfQ 
+
+ questo repository Github https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano dove, collaborativamente, viene sviluppato il software oltreché messi a disposizione i dati da questo prodotti
+
+ documento condiviso di progetto https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit 
+
+ Metodologia
+
+ Per i dettagli metodologici si rinvia al documento condiviso di progetto
+
+ Pipeline 0
+
+ Produrrà l’elenco completo degli indirizzi in ambito che rappresentano il “perimetro cibernetico italiano” e dei metadati che sono ivi rappresentati.
+
+ L’output della pipeline 0 sara’ generato dall’implementazione di diverse metodologie, tramite implementazioni automatiche e/o manuali.
+
+ Ulteriori input potranno essere generati dalle altre pipeline.
+
+ Caveat
+
+ Questo progetto e' in continua evoluzione sulla base dei contributi collettivamente forniti dai partecipanti
+
+ Perimetro-Cibernetico-Italiano
+
+ Pipeline 0 del progetto con definizione tecnica del Perimetro Cibernetico Italiano
+
+ Questo repository rappresenta l'implementazione della Pipeline 0 del progetto
+
+ About
+
+ Pipeline 0 del progetto con definizione tecnica del Perimetro Cibernetico Italiano
+
+ Resources
+
+ Readme
+
+ Releases
+
+ No releases published
+
+ Packages 0 
+
+ No packages published 
+
+ Contributors 3 
+
+ © 2020 GitHub, Inc.
+
+ Terms 
+
+ Privacy 
+
+ Security 
+
+ Status 
+
+ Help 
+
+ Contact GitHub 
+
+ Pricing 
+
+ API 
+
+ Training 
+
+ Blog 
+
+ About 
+
+ You can’t perform that action at this time.
+
+ You signed in with another tab or window. Reload to refresh your session. 
+ You signed out in another tab or window. Reload to refresh your session.

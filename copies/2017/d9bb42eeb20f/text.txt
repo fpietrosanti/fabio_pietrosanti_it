@@ -1,0 +1,13 @@
+Tor Browser does not provide red security warning for downloading executable in HTTP
+https://gitlab.torproject.org/tpo/applications/tor-browser/-/work_items/22809
+opened 2017-07-04T09:27:27.000Z by naif · state closed · closed 2022-06-21T22:54:13.152Z
+
+This ticket is to enhance Tor Browser that today does not provide red security warning for downloading executable in HTTP in clear text that can be easy subject to MITM attacks.
+
+Actually there's a ticket sitting on Mozilla Firefox to implement exactly that https://bugzilla.mozilla.org/show_bug.cgi?id=1303739 .
+
+The very same should apply for mixed content where from an HTTPS website there's download of executable from an HTTP resource.
+
+Attached the standard warning provided by Firefox that does not explain to the end-user how risky is the download of an executable over HTTP in clear.
+
+[comments not saved: the API requires login for notes]

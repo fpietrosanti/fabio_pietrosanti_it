@@ -1,0 +1,137 @@
+OSXCrypt | Download e installazione 
+
+ Topic 
+
+ Digital economy 
+
+ Software 
+
+ Sicurezza 
+
+ Telecomunicazioni 
+
+ Hardware 
+
+ Tool 
+
+ Download 
+
+ Newsletter 
+
+ Trending 
+
+ Università online 
+
+ Smart working 
+
+ Digital Transformation 
+
+ 5G, il futuro del mobile 
+
+ Microsoft Teams 
+
+ VPN, soluzioni business 
+
+ tutti 
+
+ Chi Siamo 
+
+ Contatti 
+
+ Pubblicità 
+
+ Cookie policy 
+
+ Privacy policy 
+
+ Note legali 
+
+ Chi Siamo 
+
+ Contatti 
+
+ Pubblicità 
+
+ Cookie policy 
+
+ Privacy policy 
+
+ Note legali 
+
+ Digital economy 
+
+ Software 
+
+ Sicurezza 
+
+ Telecomunicazioni 
+
+ Hardware 
+
+ download gratis 
+
+ Licenza 
+ gratuito
+
+ Sistema Operativo 
+ Mac-OSX
+
+ Dimensione 
+ 1019 Kb
+
+ Recensito da 
+ Luca Annunziata 
+
+ Home 
+
+ -->
+
+ Sicurezza privacy antivirus 
+
+ OSXCrypt
+
+ Dati protetti davvero, utility per cifrare volumi e contenuti
+
+ Ci sono i documenti bancari, poi le password di tutti gli account sparsi in giro per la rete (e fuori), infine quelle foto compromettenti scattate l’altra estate in vacanza: come tenere tutto al riparo da occhi indiscreti? Bisogna trovare il modo di mettere tutto al sicuro, magari con un bel sistema di crittografia. 
+
+ Per venire incontro ai bisogni dei macachi più discreti, tre italiani si sono rimboccati le maniche: Matteo Flora , Fabio Pietrosanti e il programmatore Orlando Bassotto si sono messi al lavoro e in poche settimane hanno realizzato OsxCrypt , da loro definita “la prima piattaforma open source per la cifratura di volumi su MacOS X”. 
+
+ OsxCrypt nasce come un port di TrueCrypt , tra le più apprezzate applicazioni di questo tipo in ambiente Windows e Linux, con il quale è totalmente compatibile ed interoperabile. Nel corso dello sviluppo, tuttavia, le caratteristiche di OsxCrypt sono cresciute ed è probabile che in futuro possa gestire diversi meccanismi di cifratura (LoopAES, DMCrypt, Luks, PGP), sia su file immagine locali che su interi volumi, anche su apparecchi per lo storage esterno (hard disk e chiavette USB). 
+
+ L’applicativo, sviluppato grazie al contributo a fondo perduto di alcuni netizen, è stato rilasciato in versione alpha, rigorosamente open source . Funziona tramite riga di comando per la creazione e il montaggio/smontaggio dei volumi cifrati (l’operazione equivalente a collegare e scollegare una penna USB), mentre i file possono essere copiati dalla e alla unità tramite una normale finestra del Finder. 
+
+ Sebbene le sue caratteristiche siano complete, gli sviluppatori avvisano che potrebbero permanere dei bug dovuti alla brevità della fase di test a cui è stato sottoposto il codice, e pertanto invitano ad utilizzarlo con circospezione. 
+
+ Una guida completa all’installazione e all’utilizzo è disponibile nelle note di rilascio . In alternativa, si può optare per il breve tutorial video realizzato dallo staff in occasione del rilascio della prima versione pubblica (vedi qui sopra). 
+
+ Google Chrome 
+ Amazon Alexa 
+ SPID 
+ Microsoft Teams 
+ Microsoft 365 
+
+ Amazon Prime 
+ Smart working 
+ Windows 10 
+ Zoom 
+ Amazon Echo 
+
+ Microsoft Surface 
+ VPN, soluzione per il business 
+ Download 
+ Screencast-O-Matic 
+ Università Online 
+
+ Chi Siamo 
+
+ Contatti 
+
+ Pubblicità 
+
+ Cookie policy 
+
+ Privacy policy 
+
+ Note legali 
+
+ © 2020 BlazeMedia srl - P.Iva 14742231005

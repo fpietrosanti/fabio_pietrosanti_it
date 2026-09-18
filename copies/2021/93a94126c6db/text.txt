@@ -1,0 +1,170 @@
+FOSDEM 2021 - The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability 
+
+ FOSDEM21 
+
+ Home 
+
+ About 
+
+ News 
+
+ Schedule 
+
+ Stands 
+
+ Volunteer 
+
+ Practical 
+
+ Online / 6 & 7 February 2021 
+
+ visit 
+
+ News 
+
+ Sponsors 
+
+ Contact 
+
+ FOSDEM 2021 
+ /
+ Schedule 
+ /
+ Events 
+ /
+ Developer rooms
+ /
+ Legal and Policy Issues 
+ /
+ The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability
+
+ The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability
+
+ Track : Legal and Policy Issues devroom 
+
+ Room : D.legal 
+
+ Day : Sunday 
+
+ Start : 16:00 
+
+ End : 17:00 
+
+ Video with Q&A :
+
+ D.legal 
+
+ Video only :
+
+ D.legal 
+
+ Chat :
+
+ Join the conversation! 
+
+ Globaleaks is an AGPLv3+ SaaS application for anonymous whistleblowing, developed by the Hermes Center. After receiving a prototype, the Italian Anticorruption authority (ANAC) re-published a version under EUPL, modifying attribution & copyright statement, removing reasonable notice from GUI, and failing to fully comply with source code obligations. The controversy was brought to Court and eventually settled, restoring the correct license, and patching the other issues. Several lessons learned.
+
+ Globaleaks is an AGPLv3+ SaaS application for anonymous whistleblowing, developed by the Hermes center for transparency and digital human rights. After receiving a prototype, the Italian Anticorruption authority (ANAC) re-published a modified version (developed via a public tender) under EUPL, modifying attribution & copyright statement, removing reasonable notice from GUI, and failing to fully comply with the obligation to convey the corresponding source code. After several attempts for an off-court solution, the question was finally settled by the parties, restoring the correct license, and the other issues. There are several lessons to be learned by this controversy. License compatibility and the other free software obligations (including conveying the corresponding source code) are not to be taken lightly, and require a good degree of knowledge and expertise, especially when they are related to an application which has been implemented by several Public administrations
+
+ Speakers:
+Carlo Piana - Lawyer with 25+ years experience in IT, former GC for FSFE and member of the Council of its Legal Network, serves as member of IP&OS advisory of UNTIL (United Nations). President of euroITcounsel, editor of Jolts (formerly Ifosslr).
+
+ Fabio Pietrosanti - Naif (Project leader) - Fabio Pietrosanti has been part of the hacking digital underground with the nickname “naif” since 1995, while he’s been a professional working in digital security since 1998. President and co-founder of the Hermes Center for Transparency and Digital Human Rights, he is active in many projects to create and spread the use of digital tools in support of freedom of expression and transparency. Member of Transparency International Italy, owner of Tor’s anonymity nodes, Tor2web anonymous publishing nodes, he is among the founders of the anonymous whistleblowing GlobaLeaks project, nowadays used by investigative journalists, citizen activists and the public administration for anti-corruption purposes. He is an expert in technological innovation in the field of whistleblowing, transparency, communication encryption and digital anonymity. As a veteran of the hacking and free software environment, he has participated to many community projects such as Sikurezza.org, s0ftpj, Winston Smith Project, Metro Olografix, among others. Professionally, he has worked as network security manager, senior security advisor, entrepreneur and CTO of a startup in mobile voice encryption technologies.
+
+ Giovanni Battista Gallus - Lawyer, ISO27001 Lead Auditor, freesoftware advocate, Former President of @CircoloGT, Nexa Fellow. ITLaw, privacy, security & drones.
+
+ Copyright, Criminal, Data Protection/Privacy and IT law are his main areas of expertise. In the last years, he is devoting a significant part of his practice to the legal aspects of UAVs (drones) After a cum laude degree in Law in Italy, he moves to Great Britain for the Master of Laws in Maritime Law e Information Technology Law at the University College London - UCL. Afterwhile, he earns a PhD. In 2009 he obtains the European Certificate on Cybercrime and Electronic Evidence (ECCE). He is ISO 27001:2013 Certified Lead Auditor (Information Security Management System). Member of the Bar of Cagliari since 1996, admitted to the Supreme Court since 2009, Data Protection Officer, he is a fellow of the Department "Informatica Giuridica" at the Università Statale of Milan where he teaches in the Post-Graduate Course in Digital Forensics and cybercrime. He also teaches at the Master for Data Protection Officers, organized by the Politecnico of Milan. Fellow of the Nexa Center on Internet and Society and of the Hermes Center for Transparency and Digital Human Rights. Author of several publications on the above mentioned areas and speaker at the main national and international congresses, he sides his legal profession an intense teaching activity, mainly in the field of copyright, Free/Open Source Software, data protection, IT security, digital forensics and drones.
+
+ Alberto Pianon - IT Lawyer with 10+ years experience in open source licensing and compliance, LL.M. in Law & Economics, member of the Legal Network of the FSFE.
+
+ Speakers
+
+ Giovanni Battista Gallus 
+
+ Fabio Pietrosanti (naif) 
+
+ Carlo Piana 
+
+ Alberto Pianon 
+
+ Attachments
+
+ Slide deck (slides) 
+
+ Links
+
+ Hermes Center Website 
+
+ Anti-Corruption Authority Press release (Italian) 
+
+ Array Law Website 
+
+ Video recording (WebM/VP9) 
+
+ Video recording (mp4) 
+
+ Submit feedback 
+
+ FOSDEM
+
+ Home 
+
+ News 
+
+ About 
+
+ Sponsors 
+
+ Donate 
+
+ T-shirts and hoodies 
+
+ FAQ 
+
+ Archives 
+
+ This year
+
+ Visit 
+
+ Schedule 
+
+ Stands 
+
+ Certification exams 
+
+ T-shirts and hoodies 
+
+ Volunteer 
+
+ Fringe 
+
+ Practical information
+
+ FOSDEM 2021 Online 
+
+ Troubleshooting Matrix at FOSDEM 2021 
+
+ T-shirts and hoodies 
+
+ Accessibility 
+
+ Code of Conduct 
+
+ During the Event 
+
+ Media and press
+
+ Social media 
+
+ FOSDEM21 
+ Online / 6 & 7 February 2021 
+
+ This work is licensed under the Creative Commons Attribution 2.0 Belgium Licence.
+
+ To view a copy of this licence, visit
+ http://creativecommons.org/licenses/by/2.0/be/deed.en 
+
+ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+ All content such as talks and biographies is the sole responsibility of the speaker.

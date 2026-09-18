@@ -1,0 +1,232 @@
+Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la password” - Repubblica.it 
+
+ Repubblica.it 
+
+ Sicurezza 
+
+ Navigazione principale
+
+ Home 
+
+ News 
+
+ Speciali 
+
+ Mobile 
+
+ Social Network 
+
+ Sicurezza 
+
+ Prodotti 
+
+ Interattivi 
+
+ Video 
+
+ Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la password”
+
+ Mark Zuckerberg, CEO di Facebook (ansa) 
+
+ Parlano gli esperti informatici dopo la falla nel social che ha messo in pericolo circa 90 milioni di account. Intanto Zuckerberg avverte FBI e le autorità per Privacy
+
+ di ARTURO DI CORINTO 
+
+ abbonati a 
+
+ 29 settembre 2018 
+
+ Articoli Correlati
+
+ precedente 
+ successivo 
+
+ Attacco a Facebook, l'azienda spiega: "Colpa di tre vulnerabilità"
+
+ Nuovo smacco per Facebook, disconnessi in 90 milioni per attacco hacker
+
+ ROMA - Il giorno dopo l'ennesimo attacco ai danni di Facebook - che ha messo a rischio i dati di 90 milioni di utenti (50 i milioni di account direttamente interessati da un furto di dati personali con altri 40 che lo sarebbero stati indirettamente) parlano i vertici della difesa informatica del social e, soprattutto, parlano gli esperti. Che analizzano la falla ("era sotto gli occhi di tutti") e cercano di capire, per quanto possibile al momento, che impatto reale potrà avere questo attacco alla privacy degli iscritti.
+
+ Guy Rosen , vice presidente della gestione prodotto di Facebook, ha detto che la vulnerabilità del codice sfruttata per portare a termine l'attacco è già stata risolta e che la cosa è stata presa molto seriamente ma che "non è necessario cambiare la propria password" (anche se molti esperti la pensano diversamente), aggiungendo che "le persone che hanno problemi ad accedere di nuovo a Facebook, ad esempio perché l'hanno dimenticata, dovrebbero tuttavia visitare il nostro Centro assistenza".
+
+La polizia federale americana, intanto, sarebbe stata subito avvisata ma per proteggere gli account e far sapere agli utenti cosa è successo si sta ancora indagando. In ottemperanza della direttiva europea sulla protezione dei dati personali ( GDPR ) sarebbe stata avvisata della violazione anche l'Autorità per la protezione dei dati personali in Irlanda dove Facebook ha la sua base europea.
+
+Ma che cosa è successo esattamente? Da Menlo Park dicono di avere "reimpostato i token di accesso degli account interessati" e "di avere reimpostato le chiavi di accesso di altri 40 milioni di account", e che per questo "circa 90 milioni di persone nell'accedere a Facebook riceveranno una notifica che spiega cosa è successo".La piattaforma inoltre specifica di aver disattivato temporaneamente la funzione 'Visualizza come', quella che consente di visualizzare come ogni profilo viene visto dagli altri. La vulnerabilità che consente l'exploit, secondo Facebook, "deriva da una modifica apportata alla nostra funzione di caricamento di video a luglio 2017".
+
+Gli esperti terzi puntano il dito sui token, i passepartout. Secondo il professor Pierluigi Paganini , consulente dell'Agenzia Europea per la sicurezza informatica, Enisa , "stando alle informazioni attuali gli attaccanti hanno sfruttato una falla nel codice della piattaforma, in particolare una falla che consente l'accesso ai token utilizzati per autenticarsi alla piattaforma e attraverso cui è possibile prendere il possesso degli account associati".
+
+Ma cosa sono questi token di accesso? Sono come dei tesserini di riconoscimento che consentono agli utenti di accedere alle "segrete stanze" di Facebook. Il token d'accesso è una stringa di caratteri che contiene le informazioni necessarie ad identificare un utente specifico, o più in generale una qualunque applicazione. La cosa grave secondo Paganini è che "un attaccante in grado di rubare un token di accesso può assumere l'identità dell'utente Facebook a cui il token è associato ed agire al posto suo".
+
+"Il bug è di tipo logico ed era sotto il naso di tutti perché associato a una funzione molto usata. Ma la falla è probabilmente dovuta al crescere della complessità del codice software sottostante la piattaforma", spiega Fabio Pietrosanti del Centro Hermes per i diritti digitali. Ma se il social ammette che "le indagini sono appena iniziate" sostiene pure che non è stato ancora determinato "se questi account sono stati utilizzati in modo improprio o se sono state carpite informazioni".
+
+Dice Giovanni Mellini , presidente dell'associazione Cybersaiyan e organizzatore di RomHack: "Io stesso sono stato disconnesso per ben quattro volte dalla piattaforma in seguito alle operazioni di correzione della falla da parte di Facebook. Il token è ciò che ti permette di autenticare ogni applicazione che usi per accedere alla piattaforma senza digitare la password e accedere al profilo Facebook e queste operazioni hanno invalidato i token potenzialmente compromessi. È importante però sottolineare che questo non significa che la propria identità è compromessa. Tuttavia come misura precauzionale cambierei subito la password. È importante sottolineare che una falla di questo tipo, anche se limitata a un sottoinsieme di utenti, ha un impatto gigantesco a causa del numero di utenti totali della piattaforma".
+
+Facebook ha detto non ha neppure idea di chi ci sia dietro questi attacchi né dove siano originati. "Sono più interessato a capire chi ha perpetrato l'attacco e perché, visto che riportare quella vulnerabilità vale 30.000 dollari per il Bug Bounty Program di Facebook, (il programma di individuazione dei difetti della piattaforma). Se non è stata denunciata potrebbe significare che gli attaccanti hanno trovato un modo migliore di monetizzare la falla", ha dichiarato a Motherboard Zac Morris che ha lavorato nella divisione sicurezza di Facebook dal 2012 fino al 2016 facendosi portavoce di un'inquietudine diffusa tra gli addetti ai lavori. Una domanda che ha fatto subito sorgere teorie cospirazioniste secondo cui l'attacco potrebbe essere stato portato da nation state hacker, cioè attori criminali pagati dagli Stati.
+
+Proprio ieri Facebook aveva confermato che gli inserzionisti che utilizzano la sua piattaforma possono accedere a informazioni ombra ( shadow data ) ovvero a dati presenti nel profilo utente per finalità differenti dalla mera partecipazione alla rete sociale. Secondo le università autrici della scoperta si tratterebbe dei numeri di telefono forniti a Facebook per accedere ai propri account in maniera sicura utilizzando l'autenticazione a due fattori, ovvero l'autenticazione che prevede l'invio al telefono dell'utente del codice di accesso. Numeri di telefono che potrebbero essere utilizzati per indirizzare in maniera chirurgica contenuti pubblicitari. 
+
+ Tags
+
+ Argomenti: 
+ Facebook 
+ hacker 
+ Gdpr 
+ token 
+ Tokendata 
+ menlo park 
+
+ Protagonisti: 
+
+ © Riproduzione riservata 
+ 29 settembre 2018 
+
+ Articoli Correlati
+
+ precedente 
+ successivo 
+
+ Attacco a Facebook, l'azienda spiega: "Colpa di tre vulnerabilità"
+
+ Nuovo smacco per Facebook, disconnessi in 90 milioni per attacco hacker
+
+ Oggi su 
+
+ Addio Agnolin, arbitro controcorrente
+
+ Forcadell: “Io, prigioniera politica nella Spagna che perseguita le idee”
+
+ Il governo non teme l’Ue, ma sui conti c’è l’allarme del Colle
+
+ Manovra, la sproporzione tra la festa e il risultato
+
+ Reddito di cittadinanza: l’assegno di 780 euro è solo per un terzo dei bisognosi
+
+ la Repubblica 
+
+ Il mio libro 
+
+ NARRATIVA, POESIA, FUMETTI, SAGGISTICA 
+ Pubblica il tuo libro
+
+ Storiebrevi 
+
+ Premi letterari 
+
+ Altri articoli dalla categoria » 
+
+ precedente 
+ successivo 
+
+ Chiavette Usb veicolo di virus, 1 su 10 è un cryptominer 
+
+ Attacco a Facebook, l'azienda spiega: "Colpa di tre vulnerabilità" 
+
+ Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la 
+
+ Network
+
+ Network 
+
+ Gedi News Network
+
+ Alto Adige -->
+ La Stampa 
+ Il Secolo XIX 
+ Corriere delle Alpi 
+ Gazzetta di Mantova 
+ Gazzetta di Modena 
+ Gazzetta di Reggio 
+ Il Centro -->
+ Il mattino di Padova 
+ Il Piccolo 
+ Il Tirreno 
+ Il Fò 
+
+ Il Trentino 
+ La Città di Salerno -->
+ La Nuova Ferrara 
+ La Nuova Sardegna -->
+ La Nuova Venezia 
+ La Provincia Pavese 
+ La Sentinella del Canavese 
+ La Tribuna di Treviso 
+ Messaggero Veneto 
+ Il Bò 
+
+ Periodici
+
+ l’Espresso 
+ Le Scienze 
+ National Geographic 
+ Micromega 
+ Chiesa.it 
+ Limes 
+
+ Radio
+
+ Capital 
+ DeeJay 
+ m2o 
+
+ Servizi, Tv e consumi
+
+ Annunci 
+ Mymovies.it 
+ Necrologie 
+ TvZap 
+ Guida Tv 
+ MioJob 
+ Enti e Tribunali 
+ Ristoranti 
+ Consigli.it 
+
+ I siti di Repubblica
+
+ D - la Repubblica 
+ Iniziative Editoriali 
+ il Venerdì 
+ TrovaCinema 
+ Casa&Design 
+ XL 
+ ilmiolibro.it 
+ Storiebrevi 
+
+ Chiudi -->
+
+ l’Espresso 
+
+ RE Le inchieste 
+
+ Cerca su Repubblica.it
+
+-->
+
+ Annunci, lavoro e aste
+
+ Lavoro 
+
+ Annunci 
+
+ Aste 
+
+ Footer
+
+ Fai di Repubblica la tua homepage 
+
+ Mappa del sito 
+
+ Redazione 
+
+ Scriveteci 
+
+ Per inviare foto e video 
+
+ Servizio Clienti 
+
+ Aiuto 
+ -->
+ Pubblicità 
+
+ Privacy 
+
+ Divisione Stampa Nazionale — GEDI Gruppo Editoriale S.p.A. - P.Iva 00906801006 — Società soggetta all’attività di direzione e coordinamento di CIR SpA

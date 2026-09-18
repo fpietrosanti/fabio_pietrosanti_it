@@ -1,0 +1,333 @@
+Ict encryption agt_fabio_pietrosanti 1. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Mobile voice encryption
+A revolutionary approach in voice encryption industry
+Fabio Pietrosanti
+CTO of PrivateWave
+http://www.privatewave.com
+ 2. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Agenda
+• Corporate Information
+• Mobile Voice Encryption Solutions
+• Politically neutral technologies
+• Voice Encryption Standards
+ 3. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Corporate information
+Who we are
+ 4. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+4
+Our Mission
+PrivateWave offer you the
+m ost sophisticated
+protection technology
+through powerful and
+easy-to-use phone call
+encryption tools.
+ 5. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• Established in 2005
+• Research within Politechnic of Milan
+• Financially robust (since 2008 or +4Mln EUR)
+• Italian corporation, based in Milan
+• +20 employees (majority with technical backgrounds)
+• Corporate transparency as a key value
+• Experts in telecommunication security
+• AGT partnership in middle east
+5
+Corporate information
+ 6. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+We works with Industry technology leaders
+ 7. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Mobile Voice Encryption Solutions
+what do we do
+ 8. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• We know that phone calls can be intercepted
+But now…
+• GSM can be cracked with 1500 EUR equipment
+• Generic Radio HW + USRP1
+• OpenSource cracking SW – Airprobe + A51crack
+• I tested personally
+• Everyone is a target
+8
+GSM is broken with cheap hardware
+ 9. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• Software voice encryption product for smartphones
+• Nokia S60 smartphones
+• Blackberry Bold9700, Bold 9000, BB 8520
+• iPhone 3GS, 4G
+• Use VoIP (UMTS, GPRS, WIFI)
+• Require installation at both parties
+• Extremely easy to be used
+• Time saving when face2face is not possible
+• Ready for organization-wide distribution
+• Increased user acceptance! No Dedicated Hardware!
+9
+PrivateGSM
+Mobile Voice Encryption
+ 10. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• PrivateGSM provide human based authentication with automatic key
+generation and agreement based on ZRTP
+10
+PrivateGSM
+Human based authentication
+ 11. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• The user does not have to change the way he do
+secure call respect to traditional calling
++801 Secure Prefix
+11
+PrivateGSM
+Transparent to the user
+ 12. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Differentiated Security Model
+• Security model it’s highly relevant when defining
+policies for secure communications
+• Specific information require specific security model
+• PrivateGSM support two security model
+ Protecting from everyone
+ Protecting from third party
+12
+ 13. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Protect from everyone
+End To End Security
+• The information is encrypted at the source and decrypted at the
+destination.
+• Anyone except the caller and the called can acquire the
+communication.
+13
+ 14. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+IPNetwork
+Internet
+MNO1
+MNO2
+Communication protected by ZRTP
+End To End Security
+Protect from everyone
+Secure
+Telephony
+Infrastructure
+PBX
+ 15. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Protect from third party
+End To Site Security
+• The information is encrypted separately from the source to the
+server and from the server to the destination with two different
+operations.
+• Anyone except the server, the caller and the called can acquire
+the communication.
+• The organization has the authority to eavesdrop it’s own
+communication
+15
+ 16. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Protect from third party
+IPNetwork
+Internet
+MNO1
+IP Phone
+(Snom)
+Communication protected by SRTP/SDES
+End To Site Security
+Secure
+Telephony
+Infrastructure
+PBX
+ 17. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+17
+Different secure model for voice encryption
+ 18. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• Quick Deployment
+• No need to distribute hardware devices.No logistic handling
+• Leverage existing smartphone base
+• Quick Installation
+• No need to deploy keys across secured devices
+• Keys are negotiated dynamically
+• Integration
+• Integrate within existing phones & telephony infrastructure
+• No Vendor Lock-In
+• We give our customers the freedom to be indepedent from us
+18
+Unique advantage - Flexibility
+ 19. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• Certified to be secure
+• Multiple independent research/industry institutions
+certify it to be secure
+• Open Source
+• Subject to public review
+• Every security sensitive piece of code can be inspected and reviewed
+• Full Protection
+• Protect from intelligence gathering trough phone call logs (signaling)
+• Politically neutral
+• Technology resistant against possible political pressure on manufacturer
+19
+Unique advantages - Security
+ 20. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Politically Neutral Technologies
+Open & Standard Encryption
+ 21. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• Politically neutral technology doesn’t mean “made in Switzerland”
+• Politically Neutral Technologies are a result of a methodological
+approach to provide guarantee of:
+Protection from political pressure against manufacturer
+Guarantee of well designed and secure technologies
+21
+What’s Politically Neutral Technology?
+ 22. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• Risks of Backdoors
+• Manufacturer can be subject to political pressure to to insert a backdoor in
+encryption codes
+• Proprietary encryption technologies can have security weakness due to
+absence of public, distributed scientific peer review
+• Proprietary solutions cannot be Politically Neutral Technology
+• No protection from political pressure to put backdoors
+• No public peer review of security strenght
+22
+NON Politically Neutral Technology
+ 23. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• In 2002, Verint, the Israelian company providing lawful interception product to
+Netherland KPN operator infiltrated trough backdoors in installed interception
+systems.
+• Abused of backdoors in technical support system to eavesdrop Netherland politicians
+• The Israelian Verint did the same in USA on AT&T and the scandal was
+discovered by CIA
+23
+Backdoors example?
+ 24. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+In 2005 a backdoor put in Ericsson
+AXE telephony switch of
+Vodafone Greece allowed spying
+The prime minister, the chief of
+secret services, a lot of activists
+has been intercepted
+All phone calls were diverted to a
+bunch of prepaid anonymous
+SIM cards
+Costas Tsalikidis has been found
+dead head of Security of the
+Mobile Telco was found
+“suicided”
+Backdoors example?
+ 25. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+• Protection from Backdoors
+ Open Source codes are publicly available
+No single country influence in implementing technology
+No change can be done without notice
+Encryption code can be inspected independently and autonomously
+ Standard Encryption Technologies are designed in international
+bodies by multiple subjects (research, industry, indivuduals).
+No single country influence in designing technology
+ Standard Encryption Technologies are publicly reviewed and
+analyzed No
+encryption weakness
+25
+Politically neutral technology
+ 26. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Voice Security Standards
+Verifiable encryption technologies
+ 27. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+ZRTP Security Standard
+• End-to-end encryption with man-in-the-middle protection
+• Invented by a group of famous international cryptographers
+leaded by Philip Zimmermann in 2006
+• Standardized by Internet Engineering Task Force (IETF)
+• Protocol with encryption algorithms recognized by most
+important international security bodies
+• Human authentication –No Automatic authentication
+process
+27
+ 28. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+ZRTP Security Guarantee
+• ZRTP use encryption algorithms recognized scientifically by
+ ECC Brain pool - Germany
+ Standards for efficient cryptography group (SECG) – International
+ ECC Interoperability Forum – International
+ National Institute of Standard (NIST) – USA
+• Implemented in secure open source code
+• ZRTP use encryption algorithms certified for TOP SECRET
+within NSA and NATO environment
+28
+ 29. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+ZRTP Encryption Tech Summary
+• Symmetric algorithm: AES-256 (CTR)
+• Asymmetric algorithm: ECDH-384 (P-384)
+• Strength equivalence: RSA 7680
+• Perfect Forward Secrecy (PFS): In the unfortunate “loss”
+event of your phone, no one will be able to access your
+keys even if used in the past
+• OpenSource Secure Codes
+29
+ 30. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+SRTP Security Standard
+• End-to-site encryption with digital certificate verification
+• Exactly same security architecture of HTTPS
+• Based on Digital Certificates and PKI
+• Standardized by Internet Engineering Task Force (IETF)
+• Diffused among major business VoIP desk phones
+manufacturer
+• Snom, Cisco, Asterisk, Avaya, etc
+• De Facto Enterprise Secure Telephony Standard
+30
+ 31. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+SRTP Encryption Tech Summary
+• Symmetric algorithm: AES-128 (CTR)
+• Asymmetric algorithm: TLS with x509v3
+• Strength equivalence: RSA 2048
+• Perfect Forward Secrecy (PFS): In the unfortunate “loss”
+event of your phone, no one will be able to access your
+keys even if used in the past
+• OpenSource Secure Codes
+31
+ 32. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Voice Encryption Technology Summary
+Politically Neutrality of PrivateGSM Security
+Technologies
+32
+Tech Open
+Source
+Public
+Specificatio
+n
+Standard Peer
+Reviewed
+Security
+Model
+Level
+ZRTP YES YES YES YES END-TO-END TOP-
+SECRET
+SRT
+P
+YES YES YES YES END-TO-SITE SECRET
+ 33. The present docum ent cannot be used, m odified, published or copied in any m atter or m eans without
+prior consent of Privatewave Italia Spa.
+Mobile voice encryption
+A revolutionary approach in voice encryption industry
+Question?
+fabio.pietrosanti@privatewave.com

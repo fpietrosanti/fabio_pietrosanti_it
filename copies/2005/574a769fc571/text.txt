@@ -1,0 +1,570 @@
+e-privacy IV — Data retention: da regola ad eccezione
+
+e-privacy IV
+ (2005) 
+
+ Data retention: da regola ad eccezione
+
+ "La paranoia è una virtù." 
+ Anonimo, 1984 
+
+ E-privacy 2005 si è tenuto il 27 ed il 28 maggio a Firenze, in
+ Palazzo Vecchio , nella Sala Incontri. Il tema centrale di questa
+edizione è stato nuovamente la data retention, ma sono stati svolti
+numerosi interventi su altri aspetti della privacy in Rete. Keynote
+speaker è stato l'autore di due dei più promettenti sistemi per la
+difesa della privacy in Rete, Tor e
+ Mixminion , Nick Mathewson . Durante il
+convegno è avvenuta la consegna dei Big Brother Award Italia 2005 con
+la partecipazione di Privacy International; maggiori informazioni su
+ http://bba.winstonsmith.info .
+
+ Programma del Convegno
+
+ Venerdì 27 Maggio
+
+ Inizio 
+ Fine 
+ Relatore 
+ Titolo 
+
+ 09:00 
+ 09:30 
+ Accoglienza 
+
+ 09:30 
+ 09.45 
+ Presentazione del convegno 
+
+ 09:45 
+ 10:15 
+ Il Progetto Winston Smith - scolleghiamo il Grande Fratello 
+ Leandro Noferini 
+
+ 10.15 
+ 10:45 
+ Sono le Darknet il futuro della Rete? Innovazione e libertà al confine tra ordine e caos 
+ Marco A. Calamari 
+
+ 10.45 
+ 11:00 
+ Intervallo 
+
+ 11.00 
+ 11.30 
+ Presentazione del Big Brother Award Italia 2005 
+ Simon Davies 
+
+ 11.30 
+ 12.30 
+ Cerimonia di consegna dei Big Brother Award Italia 2005 
+
+ 12.30 
+ 14.00 
+ Intervallo 
+
+ 14:00 
+ 15:30 
+ Tor and Mixminion: Two Practical Deployed Anonymity Networks 
+ Nick Mathewson 
+
+ 15:30 
+ 15.45 
+ Intervallo 
+
+ 15:45 
+ 16:45 
+ Il progetto Privacy-Box; "Vogliamo scatole, non programmi" 
+ Gianni Bianchini 
+
+ 16:45 
+ 17:30 
+ OpenPrivacy - Software Libero a supporto delle PMI per l'adeguamento al d.lgs 196/03 
+ Ivano Greco 
+
+ 17:30 
+ 18:00 
+ Sessione Q & A 
+
+ 18:00 
+
+ Conclusione prima giornata 
+
+ Sabato 28 Maggio
+
+ Inizio 
+ Fine 
+ Relatore 
+ Titolo 
+
+ 09:00 
+ 09:30 
+ Accoglienza 
+
+ 09:30 
+ 10:15 
+ La responsabilità civile per danni conseguenti alla raccolta dei dati ed alla loro conservazione 
+ Avv. Antonino Attanasio 
+
+ 10:15 
+ 11:15 
+ PGP luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo 
+ Fabio Pietrosanti 
+
+ 11.15 
+ 11:30 
+ Intervallo 
+
+ 11:30 
+ 12:15 
+ Oggi è il domani di cui dovevamo preoccuparci ieri: una proposta di legge per la regolamentazione di uso, conservazione e cancellazione di dati geo- e crono-referenziati raccolti con mezzi automatici e contenenti identificativi utente univoci 
+ M. A. Calamari / G. Bianchini / A. Glorioso 
+
+ 12:15 
+ 12:30 
+ Q & A 
+
+ 12:30 
+ 14:00 
+ Intervallo 
+
+ 14:00 
+ 14:45 
+ La tutela dei dati personali: profili internazionalistici 
+ Nadina Foggetti 
+
+ 14:45 
+ 15:30 
+ Case history - Bussole con accesso biometrico per una banca sicura, quali problemi per la privacy? 
+ Roberto Carbonari / Alessandro La Pietra 
+
+ 15:30 
+ 15:45 
+ Intervallo 
+
+ 15:45 
+ 16:30 
+ Anonymous Remailer e Pseudonym server; Sistemi di comunicazione anonima ad alta latenza 
+ Federico Moro 
+
+ 16.30 
+ 17:15 
+ Spyware - dalla parte dell'attaccante 
+ Matteo G.P Flora 
+
+ 17:15 
+
+ Conclusione convegno . 
+
+ Interventi
+
+ Maria Rosa di Giorgi - Vicepresidente Consiglio Regionale ⇧ 
+
+ Saluto di apertura dei lavori 
+
+ Leandro Noferini - Progetto Winston Smith ⇧ 
+
+ Il Progetto Winston Smith - scolleghiamo il Grande Fratello 
+
+ Verrà presentato il Progetto Winston Smith, un'associazione che dal
+1999 contribuisce alla difesa della privacy in Rete, sia dal punto di
+vista della consapevolezza che da quello tecnico.
+
+ Marco A. Calamari - Progetto Winston Smith ⇧ 
+
+ Sono le Darknet il futuro della Rete? Innovazione e libertà al confine tra ordine e caos 
+
+ Distinguere i buoni dai cattivi è non solo materia solitamente
+controversa, ma spesso molto difficile. 
+La Rete, nata dalla ricerca universitaria, è ora nella sua fase più
+spinta di sfruttamento commerciale, e questo mette in discussione
+alcune delle caratteristiche principali che ne hanno permesso la
+nascita: indipendenza, autodeterminazione, condivisione, gratuità.
+L'intervento fornirà un punto di vista originale sulle dinamiche,
+gli attori ed i possibili sviluppi del futuro prossimo.
+
+ Nick Mathewson - The Free Haven Project / EFF (in inglese) ⇧ 
+
+ Tor and Mixminion: Two Practical Deployed Anonymity Networks 
+
+ The right to anonymous speech does us little good unless we have
+the means to speak anonymously.
+This talk presents two systems designed in recent years to allow for
+anonymous communications online, even in the presence of eavesdroppers
+trying to link communications partners to one another.
+The first, Mixminion, is the successor to previous anonymous remailer
+networks, and improves on their usability without sacrificing their
+strong attack models.
+The second, Tor, is the most recent Onion Routing design and provides
+even greater usability at the cost of a reduced attack model.
+Both systems are implemented as free software, and are deployed on the
+Internet today.
+The talk will discuss the history and status of the projects, their
+technical details, social issues, and likely future directions on
+both projects.
+
+ Gianni Bianchini - Progetto Winston Smith ⇧ 
+
+ Il progetto Privacy-Box; "Vogliamo scatole, non programmi" 
+
+ In questo seminario sarà presentata l'iniziativa Privacy Box
+del Progetto Winston Smith, tesa alla realizzazione di appliance
+per la privacy basate sull'hardware a basso costo della console
+ludica Microsoft Xbox e sul sistema GNU/Linux. 
+Sarà illustrato come un simile dispositivo collegato in rete 
+possa comodamente fornire servizi quali un firewall e un piccolo
+server web o di posta e nel frattempo lavorare per il bene di tutti
+facendo girare un anonymous remailer, un router Tor od altri servizi
+per laprivacy in rete.
+Verrà presentata anche la nuova Pbox Tipo II, e tratteggiata
+l'evoluzione prevista con i modelli Tipo III e IV.
+
+ Ivano Greco Firenze Tecnologia - Azienda Speciale della CCIAA di Firenze ⇧ 
+
+ OpenPrivacy - Software Libero a supporto delle PMI per l'adeguamento al d.lgs 196/03 
+
+ (sxi)
+
+ OpenPrivacy è il Software Libero sviluppato da Firenze Tecnologia in
+collaborazione con le aziende esperte del territorio, la cui finalità
+è semplificare il processo di adeguamento al d.lgs 196/03 riguardo
+al trattamento elettronico delle banche dati personali. 
+Il Sistema OpenPrivacy è basato su Linux/Debian, Samba, LDAP, SQUID;
+i files di configurazione rilasciati permettono di gestire, così come
+richiesto dal d.lgs 196/03 - Testo Unico Privacy, le autenticazioni, le
+profilazioni, le politiche di password, lo spazio disco condivisibile
+(FileServer), l'elenco aggiornato degli utenti e dei privilegi, le
+operazioni di backup su HD USB esterno, l'estensione delle
+autenticazione/profilazione alle connessioni internet. 
+
+ Avv. Antonino Attanasio - Studio FAS ⇧ 
+
+ La responsabilità civile per danni conseguenti alla raccolta dei dati ed alla loro conservazione 
+
+ (sxi)
+
+ La raccolta e la conservazione dei dati costituiscono a norma
+del Testo Unico sulla Privacy un'attività a cui si applica
+l'art. 2050 del Codice Civile che regola la responsabilità
+per lo svolgimento di attività pericolose. 
+Il soggetto che trattando dati cagiona un danno è tenuto al
+risarcimento se non prova di aver adottato tutte le misure
+idonee ad evitare il danno. 
+Il danno da trattamento dati ovviamente deve essere il danno
+ingiusto, cioè il danno arrecato in violazione di norme di
+legge e senza alcuna giustificazione. 
+Il danno derivato dal trattamento dei dati personali può
+essere di tipo patrimoniale e non patrimoniale. 
+Di particolare rilevanza il danno non patrimoniale, che
+investe la vita di relazione della persona a cui i dati si
+riferiscono e che molto difficilmente può essere quantificato
+in termini monetari. 
+Occorre così puntare sulla prevenzione del danno da raccolta e
+conservazione dati, quindi sullo sviluppo e la diffusione di
+una consapevolezza e di una formazione specifica di tipo
+culturale e non solo tecnico-professionale da parte di chi
+tratta i dati. 
+Così la prevenzione del danno mostra la sua efficacia reale e
+costituisce la soluzione davvero in linea sia con le ragioni di
+fondo della normativa sulla privacy, che mira a proteggere i
+dati e non a proibirne la circolazione, sia con la necessità
+di tutelare i diritti fondamentali della persona.
+
+ Fabio Pietrosanti - Softpj.org ⇧ 
+
+ PGP luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo 
+
+ (ppt)
+
+ PGP è lo strumento di tutela della privacy più utilizzato al mondo,
+divenuto standard de-facto nonostante i molti ostacoli da parte dei
+governi e dei passaggi di capitale della società produttrice di PGP.
+Finalmente standard IETF sotto il nome OpenPGP vede molteplici
+implementazioni, aperte e non, continuando a rappresentare la più
+diffusa tecnologia di tutela della confidenzialità della e-mail.
+L'intervento fornirà una panoramica della storia e dell'evoluzione
+di PGP, riassumendo tutte le sue implementazioni presenti e future.
+
+ M. A. Calamari / G. Bianchini / A. Glorioso ⇧ 
+
+ Oggi è il domani di cui dovevamo preoccuparci ieri: una proposta di legge per la regolamentazione di uso, conservazione e cancellazione di dati geo- e crono-referenziati raccolti con mezzi automatici e contenenti identificativi utente univoci. 
+
+ (eng)
+
+ (rtf)
+
+ (rtf)
+
+ . 
+
+ Verrà illustrato uno studio condotto dal Progetto Winston Smith in 
+collaborazione con Andrea Glorioso (Binary Only), volto alla
+formulazione di una proposta di legge italiana 
+per la regolamentazione della raccolta automatica, la conservazione e la 
+cancellazione di dati personali ottenuti con tecnologie quali RFID e 
+Pattern Recognition, contenenti identificativi utente univoci (UUID).
+Lo studio è stato presentato alla BILETA Annual Conference, Belfast, 
+UK, 2005 (http://www.law.qub.ac.uk/bileta2005).
+
+ Nadina Foggetti - Dottoranda presso Università degli Studi di Bari ⇧ 
+
+ La tutela dei dati personali: profili internazionalistici 
+
+ (ppt)
+
+ Analisi della normativa in materia di tutela dei dati personali alla
+luce del diritto internazionale e comunitario.
+Importanza del traffico dei dati all'estero e la costruzione di reti
+trasneuropee per la circolazione dei dati.
+La necessità di apprestare una tutela adeguata ed effettiva ai dati a
+carattere personale che transitano attraverso la rete passando da
+più paesi.
+Analisi dei problemi relativi all'individuazione della legge applicabile
+nei casi di furti trasnazionali di dati sensibili.
+Analisi degli strumenti forniti dal diritto internazionale e comunitario
+per prevenire, intercettare e sanzionare i casi di furto trasfrontierano
+di dati personali, anche alla luce delle nuove prospettive aperte dal
+Trattato che adotta una Costituzione per l'Europa.
+Particolare attenzione verrà prestata alla possibilità di creare uno
+spazio giudiziario unico nel quale vi sia una protezione adeguata a
+livello internazionale dei dati, soprattutto dei dati a carattere
+personale che transitano ogni giorno attraverso la rete.
+
+ Roberto Carbonari e Alessandro La Pietra - Bassnet ⇧ 
+
+ Case history - Bussole con accesso biometrico per una banca sicura, quali problemi per la privacy? 
+
+ (ppt)
+ (parte 1 [ogg])
+ (parte 2 [ogg])
+
+ Il caso descrive il processo di installazione di bussole biometriche
+presso le filiali locali di un gruppo bancario nazionale, bussole di
+ingresso dotate di un dispositivo di rilevazione impronte digitali
+per il controllo accessi. La tecnologia, che permette di tagliare tutti
+i costi legati al controllo accessi delegato a personale qualificato,
+pone importanti interrogativi in materia di rispetto della privacy.
+Come l'azienda ha agito rispetto alle norme ed agli orientamenti vigenti?
+Quali sono le specifiche di sistema e le scelte strategiche che permettono
+di rispondere adeguatamente a tutti i dubbi sollevati dal Garante e dal
+comune cittadino?
+
+ Federico Moro - Khamsa ⇧ 
+
+ Anonymous Remailer e Pseudonym server Sistemi di comunicazione anonima ad alta latenza 
+
+ Matteo G.P Flora - LK Project Security ⇧ 
+
+ Spyware - dalla parte dell'attaccante 
+
+Intervento non tenuto per cause di forza maggiore; 
+
+slide disponibili per gentile concessione dell'Autore: 
+
+ "Spyware" è una parola con cui gli utilizzatori di PC hanno imparato a
+convivere da tempo, come da tempo si sono quasi abituati ad
+inenarrabili problemi per rimuoverli, aggirarli, evitarli. Ma cosa si
+nasconde dall'altra parte della barricata, quella dove gli spyware sono
+un fiorente e redditizio businness ? Come si "comprano",
+qual'è il mercato, quale il modello di Business?
+In altre parole qual'è il motivo di una movimentazione di mercato
+talmente vasta da muovere major ad installare nei loro prodotti di
+punta Spyware?
+Un'analisi tecnica e precisa dei meccanismi e dei soggetti
+alla base dei più famosi programmi di spyware sul mercato, delle
+dinamiche commmerciali, del problema visto con gli occhi
+dell'attaccante. Per capire chi ci cerca di controllarci ed
+indirizzarci e come con questo gioco accumula denaro e potere.
+
+ Big Brother Award ⇧ 
+
+ Durante il Convegno è avvenuta la consegna del
+ Big Brother Award Italia 2005 .
+
+ Organizzatori
+
+ Sponsor
+
+ Patrocini
+
+ Category: 2005 
+
+-->
+
+ e-privacy
+
+ IV
+
+ 27/28 maggio
+ 2005
+
+ < 2004 
+
+ 2006 > 
+
+ Firenze
+ Sala Incontri, Palazzo Vecchio
+Piazza della Signoria, 1
+
+ PROSSIMO EVENTO
+
+ E-PRIVACY 2015 - WINTER
+
+ Proposta Talk 
+
+ Call for Paper 
+
+ Call for Sponsor 
+
+ Donazioni 
+
+ Collabora 
+
+ Contatti 
+
+ SITO
+
+ Archivi 
+ Tags 
+
+ Categorie
+
+ 2002 
+
+ 2003 
+
+ 2004 
+
+ 2005 
+
+ 2006 
+
+ 2007 
+
+ 2008 
+
+ 2009 
+
+ 2010 
+
+ 2011 
+
+ 2012 
+
+ 2013 estate 
+
+ 2013 inverno 
+
+ 2015 
+
+ autunno 2014 
+
+ estate 2014 
+
+ -->
+
+ EDIZIONI
+
+ mappa di tutte le edizioni 
+
+ e-privacy 2015 winter XVIII 
+
+ e-privacy 2015 spring XVII 
+
+ e-privacy 2014 winter XVI 
+
+ e-privacy 2014 spring XV 
+
+ e-privacy 2013 winter XIV 
+
+ e-privacy 2013 spring XIII 
+
+ e-privacy 2012 winter XII 
+
+ e-privacy 2012 spring XI 
+
+ e-privacy 2011 X 
+
+ e-privacy 2010 IX 
+
+ e-privacy 2009 VIII 
+
+ e-privacy 2008 VII 
+
+ e-privacy 2007 VI 
+
+ e-privacy 2006 V 
+
+ e-privacy 2005 IV 
+
+ e-privacy 2004 III 
+
+ e-privacy 2003 II 
+
+ e-privacy 2002 I 
+
+ LINKS
+
+ Progetto Winston Smith 
+
+ Centro HERMES 
+
+ SITO STORICO
+
+ 2005 
+
+ DONAZIONI
+
+ Email: 
+
+ Donazione: 
+
+ USD 
+ BTC 
+ EUR 
+ GBP 
+ AUD 
+ BGN 
+ BRL 
+ CAD 
+ CHF 
+ CNY 
+ CZK 
+ DKK 
+ HKD 
+ HRK 
+ HUF 
+ IDR 
+ ILS 
+ INR 
+ JPY 
+ KRW 
+ LTL 
+ LVL 
+ MXN 
+ MYR 
+ NOK 
+ NZD 
+ PHP 
+ PLN 
+ RON 
+ RUB 
+ SEK 
+ SGD 
+ THB 
+ TRY 
+ ZAR 
+
+ Tutto il contenuto di questo sito è
+ © Winston
+ Smith — I contenuti sono distribuiti sotto
+ la Gnu
+ General Public License 2.0 ove non altrimenti
+ specificato. 
+Se riscontri un errore su queste pagine manda
+ una mail
+ al webmaster .
+
+ Nessun cookie è stato iniettato sul tuo computer da questo
+ sito (il fatto che siamo obbligati a dirtelo non rende
+ meno stupida la legge che ci forza a farlo).

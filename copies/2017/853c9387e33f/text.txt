@@ -1,0 +1,228 @@
+È in corso una battaglia tra sviluppatori francesi e hacker italiani 
+
+ + Italiano 
+
+ Chiudi 
+
+ VICE
+Edizioni
+
+ Italiano 
+
+ Bahasa Indonesia 
+
+ Czech 
+
+ Danish 
+
+ Deutsch 
+
+ English 
+
+ Español 
+
+ Français 
+
+ Nederlands 
+
+ Polish 
+
+ Portuguese 
+
+ Română 
+
+ Russian 
+
+ Srpski 
+
+ Swedish 
+
+ Ελληνικά 
+
+ عربي 
+
+ 日本語 
+
+ 한국어 
+
+ Apri il menu 
+
+ Chiudi il menu 
+
+ Magazine 
+
+ TV 
+
+ News 
+
+ Culture 
+
+ Tech 
+
+ Munchies 
+
+ Music 
+
+ Waypoint 
+
+ Shop 
+
+ Members 
+
+ Newsletters 
+
+ Instagram 
+
+ TikTok 
+
+ YouTube 
+
+ Video 
+
+ TV 
+
+ Shop 
+
+ Members 
+
+ Facebook 
+
+ Instagram 
+
+ TikTok 
+
+ Reddit 
+
+ YouTube 
+
+ Cerca 
+
+ Tecnología 
+
+ È in corso una battaglia tra sviluppatori francesi e hacker italiani
+
+ Di Riccardo Coluccini 
+
+ Luglio 4, 2017, 10:54am 
+
+ Share: 
+ X 
+
+ Facebook 
+
+ Share Copied to clipboard 
+
+ Al momento, il sito ufficiale del software VLC, il noto player multimediale, è vulnerabile ad attacchi informatici di tipo Man in the Middle (MITM) per cui un attaccante può intercettare la comunicazione fra un utente ed il sito e modificare il software che si sta scaricando sostituendolo con un malware.
+
+ Tutto questo è possibile poiché il sito di VideoLan , il progetto di origine francese che sviluppa VLC, non instrada il traffico internet attraverso il protocollo HTTPS , che garantirebbe l’integrità e la sicurezza della comunicazione.
+
+ Videos by VICE 
+
+ La vulnerabilità è stata accesamente discussa su Twitter da parte di un gruppo di hacker ed esperti di sicurezza informatica italiani che hanno cercato di spiegare la gravità della situazione agli sviluppatori di VideoLan: segnalata all’inizio da Fabio Pietrosanti , esperto di sicurezza informatica e di diritti digitali al centro Hermes , la vulnerabilità è stato poi chiaramente dettagliata da Andrea Draghetti , hacker ed esperto di phishing, in un Proof of Concept (PoC) — una dimostrazione passo passo di come sfruttare la vulnerabilità — pubblicato su github . 
+
+ Contattato via chat, Draghetti spiega che “basta creare un Fake Access Point o collegarsi ad un Access Point pubblico — che però non isoli ogni utente — per attuare l’attacco e far scaricare alla vittima un file eseguibile diverso da quello reale.” L’utente, quindi, al posto del file di installazione di VLC si trova un file contenente un malware — sì, anche un ransomware.
+
+ L’attacco sfrutta il software Bettercap , un framework per testare attacchi di tipo MITM sviluppato da Simone Margaritelli , “e permette di alterare la pagina ufficiale di download di Videolan sostituendo i mirror ufficiali con un mirror a piacimento,” prosegue Draghetti.
+
+ Purtroppo la risposta da parte degli sviluppatori di VideoLan alla segnalazione del problema è stata incerta: al momento si rifiutano infatti di instradare tutto il traffico del sito ufficiale attraverso protocollo HTTPS, ed inoltre, benché sia difficile vista l’impossibilità di avere pieno controllo su ogni singolo mirror, non vogliono spingere maggiormente per l’adozione di un certificato SSL che permetta di verificare l’identità del server su cui si trovano i mirror — 35 su 88 mirrors sono già in HTTPS, ma la segnalazione è stata bloccata . 
+
+ A quanto sembra, la motivazione che li spinge a non ridirigere il traffico HTTP su HTTPS è la possibilità che alcuni browser non supportino il nuovo protocollo e preferiscono quindi evitare per non abbandonare i vecchi utenti.
+
+ Un’altra soluzione di ripiego — poiché non impedirebbe completamente gli attacchi — sarebbe quella di segnalare agli utenti il pericolo che rischiano di correre se scaricano dei file eseguibili attraverso il protocollo HTTP: per questo motivo gli hacker italiani hanno iniziato una campagna di segnalazione del problema a browser come Mozilla , Tor , Chrome , per richiedere che venga mostrato un segnale di avviso agli utenti così da renderli pienamente coscienti dei rischi a cui vanno incontro quando scaricano programmi da siti web non sicuri.
+
+ Questo tipo di attacco rischia di avere ripercussioni drammatiche sulla sicurezza degli utenti, che possono diventare vittime di spyware facilmente installabili sfruttando la mancanza di adozione del protocollo HTTPS. 
+
+ Purtroppo, VideoLan non è l’unico sito che potrebbe essere soggetto a questo tipo di attacco ed al momento è infatti emerso che anche Avast , 7-zip , ed Unarchiver forniscono il download di file eseguibili attraverso una connessione HTTP. 
+
+ Tag:
+ informática , Infosec , Italia Francia , man in the middle , Motherboard , sicurezza , Tech , VLC 
+
+ Share: 
+ X 
+
+ Facebook 
+
+ Share Copied to clipboard 
+
+ Una mail. Una storia. Ogni settimana. Iscriviti alla newsletter di VICE.
+
+ Iscrivendoti, accetti le condizioni d’uso e l’ Informativa sulla privacy e di ricevere comunicazioni elettroniche da Vice Media Group, che possono includere promozioni di marketing, pubblicità e contenuti sponsorizzati.
+
+ Contenuti simili
+
+ Alcune coppie di ristoratori ci hanno detto com’è il sesso quando lavori insieme 
+
+ 05.23.23 
+
+ Di Paola Buzzini 
+
+ Sono stato in una spa dove puoi fare trattamenti alla grappa 
+
+ 04.24.23 
+
+ Di Carlo Gibertini 
+
+ Questo ragazzo produce un’acquavite con una bacca introvabile 
+
+ 04.14.23 
+
+ Di Sebastiano Alessandroni 
+
+ In Europa, per la prima volta, sta per essere venduto un T-Rex 
+
+ 04.06.23 
+
+ Di Filippo Casini 
+
+ Perché dopo i 25 anni è più difficile farsi degli amici? 
+
+ 03.31.23 
+
+ Di Enea Venegoni 
+
+ Questi scienziati si stanno preparando a creare un wormhole quantistico 
+
+ 03.30.23 
+
+ Di Becky Ferreira 
+
+ Una mail. Una storia. Ogni settimana. Iscriviti alla newsletter di VICE.
+
+ Iscrivendoti, accetti le condizioni d’uso e l’ Informativa sulla privacy e di ricevere comunicazioni elettroniche da Vice Media Group, che possono includere promozioni di marketing, pubblicità e contenuti sponsorizzati.
+
+ Altro
+da VICE
+
+ Lo stato dei mari italiani raccontato da chi li vive 
+
+ 03.28.23 
+
+ Di Gianmaria Concetti 
+
+ Ero una spacciatrice di ecstasy adolescente negli anni Novanta 
+
+ 03.28.23 
+
+ Di Jessica Wade 
+
+ Com’è invecchiare su Internet 
+
+ 03.23.23 
+
+ Di Leonardo Bianchi 
+
+ Le persone che seminano funghi allucinogeni in giro per boschi e città 
+
+ 03.22.23 
+
+ Di Mattha Busby 
+
+ VICE Media 
+
+ Instagram 
+
+ TikTok 
+
+ YouTube 
+
+ © 2025 VICE Media

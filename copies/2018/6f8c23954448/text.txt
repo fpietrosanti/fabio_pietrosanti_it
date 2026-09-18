@@ -1,0 +1,304 @@
+--> 
+
+ Italian privacy nightmare: tales of surveillance - International Journalism Festival 
+
+  My Festival (make your programme) 
+
+ Email    password      
+
+ Not yet registered? Register now! 
+
+ ITALIAN 
+
+ HOME 
+
+ PROGRAMME 
+ --> 
+ SPEAKERS 
+
+ PROGRAMME 
+
+ SPONSORS 
+
+ VOLUNTEERS 
+ --> 
+ VOLUNTEERS 
+
+ FAQ 
+
+ YOU FESTIVAL 
+
+ NEWS 
+
+ WHERE&HOW 
+
+ PRESS AREA 
+
+ Riccardo Coluccini: The use of transparency, anti-corruption and generalized civic access rights (FOIA) tools for monitoring the digital surveillance of the police and government agencies.
+
+ Giovanni Pellerano: Surveillance and advertising, when advertising video-walls in railway stations and in the streets spy on you but no one notices.
+
+ Fabio Pietrosanti: Stories of deception and dirty tricks in Parliamentary politics in raising the obligatory retention of telematic data on Italy from 1 to 6 years, in violation of European standards.
+
+ Moderator: Marco Calamari, veteran of privacy activism in Italy.
+
+ WP_Hook Object
+(
+ [callbacks] => Array
+ (
+ [8] => Array
+ (
+ [000000006ab7a4a300000000764c798brun_shortcode] => Array
+ (
+ [function] => Array
+ (
+ [0] => WP_Embed Object
+ (
+ [handlers] => Array
+ (
+ [10] => Array
+ (
+ [youtube_embed_url] => Array
+ (
+ [regex] => #https?://(www.)?youtube\.com/(?:v|embed)/([^/]+)#i
+ [callback] => wp_embed_handler_youtube
+ )
+
+ )
+
+ [9999] => Array
+ (
+ [audio] => Array
+ (
+ [regex] => #^https?://.+?\.(mp3|ogg|flac|m4a|wav)$#i
+ [callback] => wp_embed_handler_audio
+ )
+
+ [video] => Array
+ (
+ [regex] => #^https?://.+?\.(mp4|m4v|webm|ogv|flv)$#i
+ [callback] => wp_embed_handler_video
+ )
+
+ )
+
+ )
+
+ [post_ID] => 
+ [usecache] => 1
+ [linkifunknown] => 1
+ [last_attr] => Array
+ (
+ [width] => 500
+ [height] => 750
+ )
+
+ [last_url] => https://www.youtube.com/watch?v=5gUmZ4gjasI
+ [return_false_on_fail] => 
+ )
+
+ [1] => run_shortcode
+ )
+
+ [accepted_args] => 1
+ )
+
+ [000000006ab7a4a300000000764c798bautoembed] => Array
+ (
+ [function] => Array
+ (
+ [0] => WP_Embed Object
+ (
+ [handlers] => Array
+ (
+ [10] => Array
+ (
+ [youtube_embed_url] => Array
+ (
+ [regex] => #https?://(www.)?youtube\.com/(?:v|embed)/([^/]+)#i
+ [callback] => wp_embed_handler_youtube
+ )
+
+ )
+
+ [9999] => Array
+ (
+ [audio] => Array
+ (
+ [regex] => #^https?://.+?\.(mp3|ogg|flac|m4a|wav)$#i
+ [callback] => wp_embed_handler_audio
+ )
+
+ [video] => Array
+ (
+ [regex] => #^https?://.+?\.(mp4|m4v|webm|ogv|flv)$#i
+ [callback] => wp_embed_handler_video
+ )
+
+ )
+
+ )
+
+ [post_ID] => 
+ [usecache] => 1
+ [linkifunknown] => 1
+ [last_attr] => Array
+ (
+ [width] => 500
+ [height] => 750
+ )
+
+ [last_url] => https://www.youtube.com/watch?v=5gUmZ4gjasI
+ [return_false_on_fail] => 
+ )
+
+ [1] => autoembed
+ )
+
+ [accepted_args] => 1
+ )
+
+ )
+
+ [10] => Array
+ (
+ [wptexturize] => Array
+ (
+ [function] => wptexturize
+ [accepted_args] => 1
+ )
+
+ [wpautop] => Array
+ (
+ [function] => wpautop
+ [accepted_args] => 1
+ )
+
+ [shortcode_unautop] => Array
+ (
+ [function] => shortcode_unautop
+ [accepted_args] => 1
+ )
+
+ [prepend_attachment] => Array
+ (
+ [function] => prepend_attachment
+ [accepted_args] => 1
+ )
+
+ [wp_make_content_images_responsive] => Array
+ (
+ [function] => wp_make_content_images_responsive
+ [accepted_args] => 1
+ )
+
+ )
+
+ [11] => Array
+ (
+ [capital_P_dangit] => Array
+ (
+ [function] => capital_P_dangit
+ [accepted_args] => 1
+ )
+
+ [do_shortcode] => Array
+ (
+ [function] => do_shortcode
+ [accepted_args] => 1
+ )
+
+ )
+
+ [20] => Array
+ (
+ [convert_smilies] => Array
+ (
+ [function] => convert_smilies
+ [accepted_args] => 1
+ )
+
+ )
+
+ )
+
+ [iterations:WP_Hook:private] => Array
+ (
+ )
+
+ [current_priority:WP_Hook:private] => Array
+ (
+ )
+
+ [nesting_level:WP_Hook:private] => 0
+ [doing_action:WP_Hook:private] => 
+)
+ ---------- --> 
+
+ --> 
+
+ Share 
+ 0 
+
+ Tweet 
+ 0 
+
+ Share 
+ 0 
+
+ +1 
+
+ Italian privacy nightmare: tales of surveillance 
+
+ 2018-04-11 15:45:00 
+ 2018-04-11 17:00:00 
+ Europe/Rome 
+ Italian privacy nightmare: tales of surveillance #ijf18 
+ Riccardo Coluccini: L’uso degli strumenti di trasparenza, anticorruzione e diritto di accesso civico generalizzato (FOIA) per il monitoraggio della sorveglianza digitale di polizia, magistratura, carabinieri e difesa 
+Giovanni Pellerano: Sorveglianza e pubblicità, quando i videowall pubblicitari in diffusione nelle stazioni e nelle strade ti spiano ma nessuno se ne accorge 
+Fabio Pietrosanti: Storie di inganni e bassezze di politica parlamentare nel portare l’obbligatorietà della conservazione di dati telematici da 1 a 6 anni in violazione delle norme europee 
+Moderatore: Marco Calamari, veterano dell’attivismo privacy in Italia 
+ Centro Servizi G. Alessi - Perugia 
+
+ panel discussions | in Italian (without translation) 
+
+ 15:45 - 17:00   wednesday 11/04/2018
+
+ Centro Servizi G. Alessi
+
+ « back to the programme 
+
+ Marco Calamari 
+Punto Informatico 
+
+ Riccardo Coluccini 
+Motherboard Italy 
+
+ Giovanni Battista Gallus 
+lawyer 
+
+ Giovanni Pellerano 
+co-founder Hermes Center 
+
+ Fabio Pietrosanti 
+president Hermes Center 
+
+ Riccardo Coluccini: The use of transparency, anti-corruption and generalized civic access rights (FOIA) tools for monitoring the digital surveillance of the police and government agencies.
+
+ Giovanni Pellerano: Surveillance and advertising, when advertising video-walls in railway stations and in the streets spy on you but no one notices.
+
+ Fabio Pietrosanti: Stories of deception and dirty tricks in Parliamentary politics in raising the obligatory retention of telematic data on Italy from 1 to 6 years, in violation of European standards.
+
+ Moderator: Marco Calamari, veteran of privacy activism in Italy.
+
+ Photos
+
+ This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0) .
+
+ ‹ 
+ › 
+ × 
+
+ Internationale Journalism Festival 
+
+ 2018 Il Filo di Arianna - contacts - Privacy Policy - © All rights reserved P.I. 02480770540

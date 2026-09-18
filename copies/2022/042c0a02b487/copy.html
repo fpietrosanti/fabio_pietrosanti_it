@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="https://monitora-pa.it/favicon.ico">
+    <link rel="preload" as="font" href="/fonts/iosevka-etoile-regular.woff" type="font/woff" crossorigin="anonymous">
+    <link rel="preload" as="font" href="/fonts/iosevka-aile-regular.woff" type="font/woff" crossorigin="anonymous">
+    <link rel="preload" as="font" href="/fonts/iosevka-aile-heavy.woff" type="font/woff" crossorigin="anonymous">
+    <link rel="preload" as="font" href="/fonts/iosevka-aile-light.woff" type="font/woff" crossorigin="anonymous">
+    <link rel="preload" as="font" href="/fonts/iosevka-extended.woff" type="font/woff" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/vendor/normalize.css">
+    <link rel="stylesheet" href="/css/monito-rapa-light.css">
+    <link rel="alternate stylesheet" href="/css/monito-rapa-dark.css" type="text/css" title="Modalità Oscura">
+    <link rel="stylesheet" type="text/css" media="screen and (prefers-color-scheme: dark)" href="/css/monito-rapa-dark.css  ">
+    <link rel="stylesheet" type="text/css" media="screen and (prefers-color-scheme: light)" href="/css/monito-rapa-light.css"> 
+    <link rel="stylesheet" href="/css/manual-fine-tuning.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:site_name" content="Monitora PA" />
+    <meta property="og:title" content="Monitora PA" />
+    <meta property="og:description" content="Osservatorio Automatico Distribuito sulla Pubblica Amministrazione" />
+    <meta property="og:url" content="https://monitora-pa.it/" />
+    <meta property="og:image" content="https://monitora-pa.it/media/MonitoraPA-120x120.gif" />
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:type" content="article" />
+
+    <title>Monitora PA</title>
+
+</head>
+
+<body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://monitora-pa.it/2022/05/30/ongoing-hacks-202206.html">monitora-pa.it/2022/05/30/ongoing-hacks-202206.html</a> · captured 2022-05-29 · scripts removed</div>
+    
+    <header class="logo">
+        <img class="logo" src="/media/MonitoraPA.svg"
+            alt="Monitora PA. Viviamo in una società cibernetica. Vogliamo che sia democratica." />
+        <div class="motto">
+            <div class="motto-0"><span>monitora</span><span>pa</span></div>
+            <div class="motto-1"><span>viviamo in una società</span><span>cibernetica</span></div>
+            <div class="motto-1"><span>vogliamo che sia</span><span>democratica</span></div>
+        </div>
+    </header>
+
+    <header class="subtitle">
+        <h1>Ongoing hacks: giugno 2022</h1>
+    </header>
+    
+    <nav class="top-navbar">
+        <a href="/" title="Home">Home</a>
+        <a class="" title="Scrivici una PEC a monitorapa@peceasy.it" href="mailto:monitorapa@peceasy.it">
+            <i class="icon-email"></i> PEC
+        </a>
+        <a href="https://friendica.opencloud.lu/profile/monitorapa" 
+            title="Vai alla pagina del progetto su Friendica (apre una nuova finestra)"
+            target="_blank">Fediverse</a>
+        <a href="https://matrix.to/#/%23MonitoraPA:matrix.opencloud.lu" 
+            title="Vai al canale del progetto su Matrix (apre una nuova finestra)"
+            target="_blank">Matrix</a>
+        <a href="https://t.me/monitoraPA" 
+            title="Vai al canale del progetto su Telegram (apre una nuova finestra)"
+            target="_blank">Telegram</a>
+        <a href="https://github.com/MonitoraPA/" 
+            title="Vai al progetto su Github (apre una nuova finestra)"
+            target="_blank">Sorgenti</a>
+        <a href="LICENSE.txt" 
+            title="Leggi la licenza/contratto di utilizzo (apre una nuova finestra)"
+            target="_blank">Hacking License</a>
+    </nav>
+    <main>
+        <section>
+            
+            <h1 id="grazie">Grazie ! ! !</h1>
+            <p>
+                La comunità di hacker, cittadini e cittadine, attivisti ed attiviste 
+                che ha creato MonitoraPA vuole anzitutto ringraziare le <strong>3399 Pubbliche Amministrazioni</strong> 
+                che dopo la nostra segnalazione <strong>hanno rimosso i tracciatori</strong> di Google Analytics 
+                dai propri siti web istituzionali.
+            </p>
+            <a href="MonitoraPA_results.html" target="_blank" title="Apri il grafico in una nuova finestra interattiva (3.5Mb)">
+                <img src="MonitoraPA_results.png" style="max-width:100%" alt="Riduzione delle PA contagiate da Google Analytics nel tempo."/>
+            </a>
+            <p>
+                In un paio di settimane, ben oltre il 40% delle PA ha accolto il nostro
+                primo appello alla tutela dei dati, dei diritti e dell'autonomia dei nostri
+                concittadini nonché alla difesa della nostra democrazia da ingerenze
+                indebite ed invisibili.
+            </p>
+
+            <p>
+                Sebbene tale rimozione costituisca un dovere <strong>etico</strong> ancor
+                prima che legale, siamo consapevoli che molte persone hanno dovuto battersi
+                alacremente all'interno delle Pubbliche Amministrazioni per ottenere questo
+                straordinario risultato.
+            </p>
+            <p>
+                Non a noi, ma a loro, ai dipendenti ed ai consulenti della PA che 
+                nonostante tutto continuano a <strong>credere nello Stato</strong> 
+                va il merito di questa prima vittoria.
+            </p>
+            <p>
+                Noi hacker possiamo fare domande e cercare risposte (e continueremo a farlo),
+                ma solo i cittadini hanno il <strong>potere</strong> di cambiare le cose.
+            </p>
+            <p>
+                Grazie.
+            </p>
+
+
+            <h1 id="prossimi-passi">Prossimi passi</h1>
+            <p>
+                Sono molti i fronti su cui stiamo lavorando, anche grazie all'apporto di
+                nuove energie che hanno aderito alla nostra comunità.
+            </p>
+            
+            <h2 id="la-scansione-di-giugno">La scansione di giugno</h2>
+            <p>Monitora PA è un osservatorio automatizzato.</p>
+            <p>
+                Il primo di giugno avvieremo una nuova scansione delle PA con una versione
+                leggermente migliorata. Abbiamo infatti corretto alcuni bug che avevano causato
+                alcuni falsi negativi durante la prima scansione (siti di PA che <strong>inviano dati</strong> 
+                a Google Analytics, ma che non sono state individuate).
+            </p>
+            <p>
+                La scansione richiederà alcuni giorni ma, come avvenuto a maggio, tutte le PA 
+                che dovessero ancora avere Google Analytics sul proprio sito riceveranno una 
+                PEC di segnalazione, firmata da Fabio Pietrosanti (a nome della nostra comunità 
+                hacker, di cui è co-fondatore) e dalle diverse associazioni che hanno aderito 
+                al nostro progetto.
+            </p>
+            <p>
+                Contestualmente a tale comunicazione, tutte le PA ancora positive al test,
+                saranno anche oggetto di segnalazione al Garante della Privacy ed al Difensore Civico.
+            </p>
+
+            <h2 id="osservatorio-automatico-distribuito">L'osservatorio automatico distribuito</h2>
+            <p>
+                Stiamo riscrivendo il nostro osservatorio automatico in modo 
+                da <a target="_blank" rel="noopener nofollow ugc" 
+                    title="La nuova architettura dell'osservatorio su github.com (nuova finestra)"
+                    href="https://github.com/MonitoraPA/monitorapa/blob/nuova_struttura/ARCHITECTURE.md">disaccoppiare verifiche e sorgenti dati</a>.
+            </p>
+            <p>
+                L'obbiettivo è ridurre ad una conoscenza minima di 
+                <a target="_blank" rel="noopener nofollow ugc" href="https://www.python.org">Python</a> le competenze 
+                tecniche necessarie per eseguire autonomamente l'osservatorio, 
+                non solo sui siti dei dataset di cui disponiamo già, 
+                ma su un qualsiasi dataset.
+            </p>
+            <p>
+                In questo modo, giornalisti, accademici, sindacalisti, insegnanti, 
+                studenti e chiunque altro lo desideri potrà eseguire le nostre stesse 
+                analisi ed avere una valutazione quantitativa del grado di compromissione 
+                cibernetica di qualsiasi insieme di enti, organizzazioni, aziende 
+                o personalità pubbliche.
+            </p>
+            <blockquote>
+                You may stop this individual, but you can't stop us all... after all, <a target="_blank" rel="noopener nofollow ugc" href="http://www.phrack.org/issues/7/3.html">we're all alike</a>.
+            </blockquote>
+            <p>
+                Questa riscrittura ha anche l'obbiettivo di ridurre a poche ore 
+                il tempo necessario allo sviluppo di nuove verifiche automatizzate,
+                nonché estenderle ad altri protocolli oltre l'HTTP.
+            </p>
+            <p>
+                Il nostro osservatorio automatico distribuito è infatti solo uno
+                strumento, progettato per diffondere una cultura cibernetica attiva e politica, 
+                capace di creare, usare ed alterare in modo critico e consapevole 
+                gli automatismi che ci circondano.
+            </p>
+
+            <h2 id="oltre-google-analytics">Oltre Google Analytics</h2>
+            <p>Google Analytics è stato solo il primo passo di un lungo cammino.</p>
+            <p>Abbiamo in programma molte nuove verifiche automatizzate con cui arricchire il nostro osservatorio. Fra queste, in ordine sparso:</p>
+            <ul class="triangles">
+                <li>presenza di Google Fonts sul sito</li>
+                <li>presenza di Pixel Tracking di Facebook</li>
+                <li>errori di configurazione HTTPS</li>
+                <li>caselle e-mail istituzionali affidate a fornitori incompatibili con il GDPR</li>
+                <li>hosting dei siti web affidati a fornitori incompatibili con il GDPR</li>
+                <li>uso di Google Classroom nelle scuole</li>
+            </ul>
+            <p>Le idee sono moltissime e stimolanti sia da un punto di vista tecnico che politico.</p>
+            <p>Insomma, ci stiamo divertendo un mondo! :-D</p>
+
+            <h2 id="nuove-iniziative-cibernetiche">Nuove iniziative cibernetiche</h2>
+            <p>
+                Accanto all'osservatorio automatico distribuito, MonitoraPA è impegnata 
+                a realizzare strumenti automatici e privacy-friendly per supportare 
+                i cittadini nella difesa dei propri diritti cibernetici.
+            </p>
+            <p>
+                Con l'aiuto dei diversi Data Protection Officer e degli Avvocati 
+                che hanno compreso la portata etica e politica della nostra attività 
+                cibernetica e ne condividono gli scopi, stiamo preparando alcune piccole 
+                pagine web che permetteranno a ogni cittadino di generare, in completa 
+                autonomia e senza inviare alcun dato a noi o ad altri, alcune richieste 
+                agli enti preposti per esercitare i propri diritti.
+            </p>
+
+            <p>In lavorazione abbiamo:</p>
+            <ul class="triangles">
+                <li>richiesta di esercizio del diritto di accesso ai sensi 
+                dell'art. 15 GDPR, per poter avere informazioni sulle 
+                operazioni condotte sui propri dati personali;</li>
+                <li>richiesta di esercizio del diritto di oblio ai sensi 
+                dell'art. 17 GDPR, per poter ottenere la cancellazione 
+                dei propri dati personali trattati in violazione di legge;</li>
+                <li>richieste di accesso civico per richiedere documenti, dati o informazioni;</li>
+                <li>segnalazione al Garante Privacy, per portare a conoscenza 
+                dell'autorità di controllo una situazione di violazione 
+                potenziale o attuale della normativa in materia di 
+                protezione dei dati personali;</li>
+                <li>segnalazioni al Difensore Civico, per portarlo a 
+                conoscenza di violazioni potenziali o attuali del CAD 
+                o di norme relative a digitalizzazione e innovazione;</li>
+            </ul>
+            <p>
+                Ovviamente questi strumenti saranno accompagnati da how-to 
+                e guide per spiegarne l'uso corretto ed i meccanismi di funzionamento.
+            </p>
+
+            <h1 id="nel-solco-della-costituzione">Nel solco della nostra Costituzione</h2>
+            <blockquote>
+                <p>L'Italia è una Repubblica democratica, fondata sul lavoro.<br>
+                La sovranità appartiene <strong>al popolo, che la esercita</strong><br>
+                nelle forme e nei limiti della Costituzione.</p>
+            </blockquote>
+            <p><a target="_blank" rel="noopener nofollow ugc" 
+                title="Leggi l'articolo 1 della Costituzione su senato.it (nuova finestra)"
+                href="https://senato.it/istituzione/la-costituzione/principi-fondamentali/articolo-1">Articolo 1</a></p>
+            <blockquote>
+                La libertà e la segretezza della corrispondenza <strong>e di ogni altra<br>
+                forma di comunicazione</strong> sono inviolabili.<br>
+                La loro limitazione può avvenire <strong>soltanto</strong> per atto motivato<br>
+                dell'autorità giudiziaria con le garanzie stabilite dalla legge.
+            </blockquote>
+            <p><a target="_blank" rel="noopener nofollow ugc"
+                title="Leggi l'articolo 15 della Costituzione su senato.it (nuova finestra)"
+                hhref="https://senato.it/istituzione/la-costituzione/parte-i/titolo-i/articolo-15">Articolo 15</a></p>
+            <p>
+                La nostra azione cibernetica si muove nel solco della splendida Costituzione della Repubblica Italiana.
+                Esercitiamo pienamente la sovranità che ci appartiene.
+            </p>
+            
+            <p>Noi <strong>facciamo</strong>. Politica e Cultura.</p>
+
+            <p>Unitevi a noi! ;-)</p>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <nav class="inline">
+            <span>Contattaci:</span>
+            <a class="" title="Scrivici una PEC a monitorapa@peceasy.it" href="mailto:monitorapa@peceasy.it">
+                <i class="icon-email"></i> PEC
+            </a>
+            <a href="https://friendica.opencloud.lu/profile/monitorapa" 
+                title="Vai alla pagina del progetto su Friendica (apre una nuova finestra)"
+                target="_blank">Fediverse</a>
+            <a href="https://matrix.to/#/%23MonitoraPA:matrix.opencloud.lu" 
+                title="Vai al canale del progetto su Matrix (apre una nuova finestra)"
+                target="_blank">Matrix</a>
+            <a href="https://t.me/monitoraPA" 
+                title="Vai al canale del progetto su Telegram (apre una nuova finestra)"
+                target="_blank">Telegram</a>
+            <a href="https://github.com/MonitoraPA/" 
+                title="Vai al progetto su Github (apre una nuova finestra)"
+                target="_blank">Sorgenti</a>
+            <a href="LICENSE.txt" 
+                title="Leggi la licenza/contratto di utilizzo (apre una nuova finestra)"
+                target="_blank">Hacking License</a>
+
+        </nav>
+    </footer>
+
+</body>
+
+</html>

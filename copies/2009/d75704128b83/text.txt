@@ -1,0 +1,140 @@
+Gold Lock Security Encryption Contest: be careful! at Playhouse of privacy, innovations and some business stuff 
+
+ author & blog 
+
+ « Recuva: Nice windows data recovery tool 
+ Location Based Services: the big brother thanks you ;-) » 
+
+ Gold Lock Security Encryption Contest: be careful! 
+
+ Published by naif November 25th, 2009 
+
+ in Privacy , cyberwarfare , intelligence and interception . 
+
+ This post is to talk about the “unfair” marketing approach of Gold-Lock, an israeli company doing mobile voice encryption authorized by Israeli Ministry of Defence (mossad behind it to intercept confidential calls? ;) .
+
+ Following an announcement seen on Linkedin “Information Security Community” group:
+
+ GoldLock is offering US$ 100.000 and a job for an unencryption 
+
+ GoldLock, an israeli encryption and security company is offering US$ 100.000 and a job to anyone capable to decrypt a cellular conversation contained in a file provided in their site ( https://www.gold-lock.com/app/en/?wicket:interface=:8 ::::).
+
+ The transcription must be sent back to GoldLock until February 1st, 2010.
+
+ The contest is open to all and any tools or technology may be used.
+
+ Good luck to all!!! 
+
+ I commented:
+
+ Not having a public protocol specification is not even scientifically serious to make a marketing tricks like this.
+
+ I would say to gold-lock, let’s release the source code and let anyone compile the cryptographic engine if you trust not to to have something nasty inside… ;) 
+
+ Toni Koivunen from F-secure said:
+
+ So… They will pay $100k if you get through the AES and the hassle with keys.
+
+ If someone would pull it off they would certainly make a truckload more money elsewhere. Plus they would retain the rights to the code/technology that they created, which isn’t the case if they go for the $100k since the License pretty clearly says that:
+
+ # An assignment letter to Gold Line, in a form satisfactory to Gold Line of your technology and the Work Plan (the “Technology”). Such assignment form shall enable Gold Line to transfer the rights on the Technology to Gold Line, including the right to register patents and all other rights.
+
+ # A release and waiver form, in a form satisfactory to Gold Line, duly executed by you and any other participant of any rights to the Technology.
+
+ Plus of course Gold Line retains the right to change the rules of the game with prior notice. Or needing to notify afterwards either.
+
+ Sounds fair :) 
+
+ Michel Scovetta from Computer Associates said:
+
+ It sounds like the purpose of this is to get some cheap testing out of it, and to be able to say something like, “The best crypto experts in the world tried to break it, and were unable to.”
+
+ According to some of the docs on Gold Lock’s website, they use ECC-256 and a “modified DH key exchange” (which tingles my spidey senses), SHA-256, and then XOR for the actual data encryption. They use practically blasphemous language like, “Each component of the Gold Lock Enterprise solution is tested and proven secure against any conceivable attack.”
+
+ *Proven* secure? *Any conceivable* attack? Yikes!
+
+ In another doc on their site, they talk about their first layer relying on 1024-bit RSA. GoDaddy doesn’t even allow 1024-bit keys to be used anymore when generating $20 SSL certificates. They quote 300 billion MIPS-years to break, but if my math is correct, that comes down to about 52 days on the top supercomputer right now. Not trivial, but this is an offline attack, so time is on the side of the attacker.
+
+ The description then talks about the device generating 16k keys when you register the device. If the protocol is “secure”, then it should be “secure” with only a single key. If it’s not secure with a single key, then generating 16k keys could only make it 16k times more secure, which is far off from a proof of security.
+
+ I agree with Fabio - a fair contest would be to include source code and the cryptographic specification. Also, as other contests have proven (e.g. SecureWebMail), the weakest point isn’t usually the cryptography. It’s all of the other stuff, and it doesn’t look like any of it is being disclosed for the contest.
+
+ http://xkcd.com/538/ 
+
+ Mike 
+
+ I would say that all those considerations from security experts from well known and established security companies bring us to consider that:
+
+ Gold-lock is not transparent on their encryption at all and they work trough bad practice of Security Trough Obscurity (no one know what’s inside the product)
+
+ Gold-lock is not playing a fair game by proposing this ’security contest’
+
+ Gold-lock being certified by Israeli ministry of defence may reasonably (from opinion of Intelligence analyst) contain a backdoor to let mossad eavesdrop sensitive communications (that cross via VoIP trough their Israeli based server trough their supposed-secure voice encryption product)
+
+ If i was the mossad i had to think: why spend a lot of effort and risk doing eavesdropping abroad in foreign countries while i can bring persons conversation about secret information flow directly inside my country and eveasdrop them easily and at less costs ? ;)
+
+ Think about it…
+
+ Voice security is a sensible matters and lacks of transparency and governmental relationship for cryptographic choices means only one things…
+
+ 0 Responses to “Gold Lock Security Encryption Contest: be careful!”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « Recuva: Nice windows data recovery tool 
+ Location Based Services: the big brother thanks you ;-) » 
+
+ Directory
+
+ author & blog 
+
+ Recent Posts
+
+ Location Based Services: the big brother thanks you ;-) 
+
+ Gold Lock Security Encryption Contest: be careful! 
+
+ Recuva: Nice windows data recovery tool 
+
+ Military contractors going commercial 
+
+ Disk encryption sometimes ‘works’ 
+
+ Brazilian Electrical Blackout: preview of cyberwar 
+
+ Political conflict in Turkey between Prosecutors and Wiretappers 
+
+ Come back to blogging 
+
+ Conventionality is not morality. 
+
+ Hackers Hacking Hackers 
+
+ This is big business, this is the American way 
+
+ Russia: the best worldwide place for cybercrime business 
+
+ Iphone jailbreaking crashing towers? FUD! 
+
+ chinese espionage: the worst and more silent threat for western countries 
+
+ Criminal business model: Somali pirate case study 
+
+ Playhouse of privacy, innovations and some business stuff is powered by WordPress 2.6.5 and Unwakeable 1.2.1 
+
+ Prepared In: 1.344 sec. w/ 31 queries.
+
+ RSS Entries and RSS Comments

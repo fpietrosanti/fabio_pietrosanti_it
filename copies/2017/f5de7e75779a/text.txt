@@ -1,0 +1,127 @@
+﻿ 
+
+ Tutte le fragilità dell’evoting | Nova 
+
+ Nova24 
+
+ Competitività ad alta densità digitale 
+
+ profilo 
+
+ esci 
+
+ login / registrati 
+
+ Scienza 
+
+ Tecnologia 
+
+ Creatività 
+
+ Social Innovation 
+
+ Dossier 
+
+ Blog 
+
+ Tecnologia
+
+ Tutte le fragilità dell’evoting
+
+ Tecnologia 
+
+ Tutte le fragilità dell’evoting
+
+ Il voto elettronico crea sempre polemiche. Per ora la tecnologia non riesce a garantire i requisiti fondamentali. Tanto che alcuni paesi lo hanno dichiarato incostituzionale 
+
+ Claudia Giulia Ferrauto 
+ 29/10/2017 
+
+ di Claudia Giulia Ferrauto 
+
+ Torna ciclicamente agli onori della cronaca la fragilità e l’inadeguatezza del voto elettronico come strumento di espressione, rappresentazione e garanzia di un sistema democratico. Che non si tratti di un’opinione ma di un fatto ormai acclarato nella comunità scientifica di settore lo afferma Stefano Zanero, esperto di sicurezza informatica e docente presso il Politecnico di Milano quando dice che “tutti gli esperti di sicurezza al mondo, sono oggi concordi nel dire che il voto elettorale tramite e-voting non è in grado di soddisfare i requisiti necessari, a meno che il sistema di votazione elettronico non produca alla fine del processo di votazione, una scheda cartacea che l’elettore può controllare e far cadere nell’urna”
+
+ Un caso esemplificativo proprio del punto in questione, riguarda la Georgia. E’ notizia di pochi giorni fa infatti che i dati delle votazioni elettroniche, contenuti esclusivamente in formato digitale nel server utilizzato in elezioni sia locali che federali nel corso degli ultimi anni, siano stati cancellati. Il fatto risale al 7 luglio scorso. I cittadini sono stati informati dal sostituto procuratore incaricato del caso anche del fatto che il 9 agosto sono stati cancellati anche tutti i dati contenuti nei server di backup. Cosa ancora più grave, la formattazione dei server avveniva a distanza di pochi giorni dalla denuncia collettiva volta a spingere verso una riforma del sistema di voto elettronico ritenuto non sicuro.
+
+ La denuncia partiva dalla segnalazione di una falla nel sito venuta alla luce nell’agosto 2016 grazie a Logan Lamb, ricercatore di sicurezza di Atlanta. Lamb tra l’altro aveva immediatamente informato con una mail il direttore del centro elettorale dell’epoca, spiegando che la compromissione aveva probabilmente comportato l’esposizione, per diversi mesi, dei dati sensibili di milioni di cittadini – inclusi numeri di previdenza sociale, affiliazione a partiti e dati anagrafici – ma soprattutto che c’era una forte possibilità che i dati elettorali elettronici potessero essere stati alterati a seguito di infiltrazioni nel sistema atte a modificare appunti i dati e manomettere le votazioni.
+
+ Anche se la notizia della cancellazione dei dati è stata comunicata con una semplice email e viene declassata dalla autorità locali come “procedura operativa standard” il fatto apre nuove riflessione sul pericolo democratico nell’uso dell’e-voting come sistema sicuro.
+
+ La cancellazione dei dati sopracitati rende di fatto impossibile ogni eventuale verifica a ritroso delle elezioni passate poiché, senza schede cartacee a testimonianza delle preferenze di voto, è impossibile risalire a informazioni cruciali per verificare se, dove, come e quando negli ultimi quindici anni di impiego del medesimo sistema, le elezioni siano o meno state manomesse.
+
+ Questo è solo l’ultimo di una lunga serie di casi di compromissione del sistema elettorale nell’ambito dell’e-voting. Parlando di voto elettronico nel caso del recente referendum in Lombardia, oltre ad una lunga serie di carenze tecniche su questioni basilari errate e presenti fin già nel capitolato, gran parte delle quali ampiamente e pubblicamente segnalate mesi fa proprio da Zanero, si aveva appunto la mancanza di una scheda cartacea finale. Ma nonostante l’elenco di esempi sia lungo, resiste da più parti la seduzione a spingere verso l’uso del voto elettronico, perché, se per gli addetti ai lavori gli aspetti critici di questo sistema sono chiari, non si può dire altrettanto della maggior parte dei cittadini, in particolar modo nel nostro Paese.
+
+ Giovanni Ziccardi, professore di informatica giuridica presso l’Università degli Studi di Milano si mostra scettico soprattutto per via della completa mancanza di infrastrutture informatiche avanzate sul nostro territorio: “In Italia facciamo fatica a usare Spid, a diffondere l’identità digitale unica: pensare di portare il voto elettronico quando non hai una registrazione del cittadino stesso come digitale non è oggettivamente fattibile”.
+
+ Quindi verrebbe da chiedersi se sia un problema di gap culturale dei cittadini. Zanero sottolinea come in realtà, anche se l’infattibilità del voto elettronico è di fatto data da questioni strutturali, l’aspetto culturale del cittadino medio è da non sottovalutare, ma non nel senso che potreste immaginare in prima istanza: non solo non dà “colpe” ai cittadini ma anzi ne assume la piena difesa affermando che, “se è giusto ricordare e spiegare i limiti tecnico-informatici e le loro falle, è importante ricordare che lo Stato deve garantire ai cittadini un livello di fiducia completa nei processi di votazione”. E prosegue: “Nel momento in cui tu Stato accetti che una buona parte, se non tutta la popolazione perda fiducia nel processo elettorale, perché oggi chiunque sa che i sistemi elettronici sono hackerabili, di fatto ci siamo giocati sostanzialmente uno dei punti chiave del processo democratico, che si basa sulla fiducia stessa con cui il cittadino-elettore sa di potersi affidare al sistema del proprio Paese”
+
+ Se ancora non è del tutto chiaro perché il voto elettronico non è una strada percorribile, proviamo a inquadrare il problema solo sul piano concettuale, senza addentrarci in tecnicismi: il sistema di voto deve garantire tre requisiti che il voto elettronico propriamente detto non è in grado di offrire. Infatti affinché sia garantita la validità di un voto è necessario poter verificare e garantire che questo venga espresso esclusivamente, liberamente e direttamente dagli aventi diritto; è importante poi che venga garantito l’anonimato, ma che al contempo sia verificabile eventualmente a posteriori il riconteggio in casi di eventuali problemi o anomalie al fine di assicurarsi che non ci siano state manomissioni. Tutto questo con la tecnologia attualmente disponibile non è possibile.
+
+ Il deputato Stefano Quintarelli, imprenditore informatico prestato temporaneamente alla politica, guardando al futuro afferma che “una votazione totalmente elettronica con macchine fatte in un ambiente controllato è una cosa che non escludo per il futuro nel momento in cui avremo delle tecniche crittografiche adeguate che però oggi non esistono”, ma ci tiene a precisare che “se vogliamo utilizzare la tecnologia per contare i voti possiamo farlo già oggi, se vogliamo invece macchine di voto interamente informatizzate pensiamoci bene e aspettiamo un po’di anni.” Con una punta di realismo sarcastico aggiunge: “Ci devono essere strutture organizzative tali che i costi saranno elevatissimi al punto da renderlo assolutamente antieconomico.”
+
+ Fa seguito al discorso, mai fosse necessaria un’ulteriore validazione, la voce di Fabio Pietrosanti, esperto di sicurezza informatica nonché fondatore e presidente dell’Hermes Center il quale afferma senza mezzi termini che “il voto elettronico risulta una complicazione inutile rispetto a consolidati e collaudati processi elettorali democratici, avendo comunque l’esigenza della espressione di voto cartaceo a garanzia delle operazioni di conteggio e riconteggio. Proprio per questo motivo i paesi nord europei, Germania e Olanda in primis, lo hanno già abbandonato e addirittura dichiarato incostituzionale da molti anni.”
+
+ La votazione sicura, con supporto elettronico, è infatti solo quella di tipo Vvpt (Voter-Verified Paper Trail) che può essere basata su due tipi di sistemi: Dre od Optical Scanner. I primi sono quelli in cui l’espresisone di voto fatta dal cittadino avviene nell’interazione diretta con un macchinario, i secondi sono basati su optical scanning ovvero io cittadino esprimo il mio voto sulla scheda stampata e lo passo sotto uno scanner dotato di sistema ICR (intelligent character recognition)che fa sia il conteggio che la trasmissione dati in tempo reale. In entrambi i casi c’è un vvtp, supporto cartaceo, che viene comunque messo nell’urna e il vero conteggio autorevole è quello delle schede cartacee riposte in essa. La testimonianza cartacea è infatti l’unico mezzo possibile per la verifica dei voti in un eventuale riconteggio manuale. E in tutti questi casi si è sempre e comunque all’interno di un seggio elettorale.
+
+ --> 
+
+ Claudia Giulia Ferrauto 
+
+ Architetta parole che disegna a tratti
+
+ ti potrebbe interessare anche
+
+ Seconda era del digitale terrestre: come capire se la tua tv è in regola 
+ Attualità Nòva24 Tech 
+ 01/11/2017 
+
+ Videogiochi che fanno ridere. Il caso della serie South Park 
+ Attualità Nòva24 Tech 
+ 01/11/2017 
+
+ Dopodomani arriva l'iPhone X: quanto conosci i melafonini? 
+ Attualità Nòva24 Tech 
+ 01/11/2017 
+
+ Allarme Bitcoin: il malware CryptoShuffler ha già colpito risparmi per... 
+ Attualità Nòva24 Tech 
+ 31/10/2017 
+
+ Fintech, da Ing un fondo da 300 milioni per le startup 
+ Attualità Nòva24 Tech 
+ 31/10/2017 
+
+ Auto connesse, guida autonoma, chip e display: ecco come cambia Samsung 
+ Attualità Nòva24 Tech 
+ 31/10/2017 
+
+ Più popolari
+
+ Come ti riciclo la licenza 
+ 21/02/2014 
+
+ Creatività
+ Successo, soldi e seguaci: i trucchi... 
+ 05/03/2017 
+
+ Tecnologia
+ Lavorare nei videogiochi? Ecco dove e... 
+ 10/07/2016 
+
+ Scienza
+ Visione artificiale narrante 
+ 30/07/2017 
+
+ Scienza 
+
+ Tecnologia 
+
+ Creatività 
+
+ Social Innovation 
+
+ Dossier 
+
+ Blog 
+
+ Copyright Il Sole 24 Ore - Tutti i diritti riservati Privacy Policy

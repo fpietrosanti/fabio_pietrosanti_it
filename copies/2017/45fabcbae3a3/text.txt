@@ -1,0 +1,517 @@
+Italy Proposes Astonishingly Sensible Rules To Regulate Government Hacking Using Trojans | Techdirt 
+
+Sign In 
+
+Register 
+
+Preferences 
+
+Techdirt 
+
+ TechDirt 
+
+ GreenHouse 
+
+ Free Speech 
+
+ Deals 
+
+ Jobs 
+
+ Support Techdirt 
+
+ Pro-Marijuana Student Organization Wins Court Case Over Using School Logos 
+
+ T-Mobile Not So Subtly Hints That It Wants To Disrupt The Cable TV Industry 
+
+Italy Proposes Astonishingly Sensible Rules To Regulate Government Hacking Using Trojans
+
+Surprises 
+
+ from the benvenuto-al-registro-dei-captatori dept
+
+Fri, Feb 17th 2017 03:39am - 
+ Glyn Moody 
+
+As Techdirt has just reported , even though encryption is becoming more widespread, it’s not still not much of a problem for law enforcement agencies, despite some claims to the contrary. However, governments around the world are certainly not sitting back waiting for it to become an issue before acting. Many have already put in place legal frameworks that allow them to obtain information even when encryption is used, predominantly by hacking into a suspect’s computer or mobile phone. In the US, this has been achieved with controversial changes to Rule 41 ; in the UK, the Snooper’s Charter gives the government there almost unlimited powers to conduct what it coyly calls “ equipment interference .”
+
+One of the main tools for carrying out surveillance in this way is the trojan — code that is placed surreptitiously on a suspect’s system to allow it to be monitored and controlled by the authorities in real time over the Internet. There are clearly huge risks and problems with this approach, something that a legislative proposal from the Civic and Innovators parliamentary group in Italy tries to address, as explained by Fabio Pietrosanti and Stefano Aterno on Boing Boing. The draft law is the result of nearly two years’ work by a group of experts from many fields:
+
+a former speaker of the Parliament, civil rights activists, law enforcement officers, computer forensics researchers, prosecutors, law professors, IT security experts, anti-mafia and anti-terrorism departments and politicians.
+
+Perhaps that breadth explains why the ideas are really pretty good, for once. The underlying principle is that a government trojan is only allowed to operate in ways that have been explicitly authorized by an Italian judge’s signed warrant. For example:
+
+A Telephone Wiretapping Warrant is required to listen a Whatsapp call.
+
+A Remote Search and Seizure Warrant is required to acquire files on remote devices.
+
+An Internet Wiretapping Warrant is required to record web browsing sessions.
+
+The same kind of warrant that would be required for planting a physical audio surveillance bug is required to listen to the surrounding environment with the device?s microphone.
+
+Those kinds of legal safeguards are welcome, but they are not enough on their own. Also needed are stringent technical controls that will limit the harm and risk of introducing government malware onto a system. The working group has addressed this too with a series of innovative requirements for trojan surveillance programs:
+
+a. The source code must be deposited to a specific authority and it must be verifiable with a reproducible build process (like the Tor Project and Debian Linux are doing)
+
+b. Every operation carried on by the trojan or through its use must be duly documented and logged in a tamper proof and verifiable way, using cryptographic time-stamping and digital signing, so that its results can be fairly contested by the defendant during the inter partes hearing [that is, with everyone involved present].
+
+c. The trojan, once installed, shall not lower the security level of the device where it has been activated
+
+d. Once the investigation has finished, the trojan must be uninstalled or, otherwise, detailed instruction on how to self-remove it must be provided.
+
+e. Trojan production and uses must be traceable by establishing a National Trojan Registry with the fingerprint of each version of the software being produced and deployed.
+
+f. The trojans must be certified, with a yearly renewal of the certification, to ensure compliance with the law and technical regulation issued by the ministry.
+
+It’s a remarkable list of technical and operational requirements that are surely unique in their attempt to minimize the key dangers of implanting clandestine surveillance software. Of course, it would be better if the use of government malware were avoided completely, and other methods were adopted. But realistically, the police and intelligence agencies around the world will be pushing hard for legislation to allow them to infect people’s computers and mobiles in this way, not least if encryption does become more of a problem.
+
+Given that trojans will be used, whether we like it or not, far better to constrain them as much as possible through well-thought out rules such as those drawn up by the Italian parliamentary group. Let’s hope their proposals are adopted without significant amendments by the Italian parliament so that they can be used as a template for similar laws in other jurisdictions.
+
+Follow me @glynmoody on Twitter or identi.ca , and +glynmoody on Google+ 
+
+Filed Under: government hacking , hacking , italy , regulations , trojans 
+
+ 15 Comments Leave a Comment 
+
+If you liked this post, you may also be interested in... 
+
+Turns Out It Was Actually The Missouri Governor's Office Who Was Responsible For The Security Vulnerability Exposing Teacher Data 
+
+Missouri's Governor Still Insists Reporter Is A Hacker, Even As Prosecutors Decline To Press Charges 
+
+Did We Miss Our Best Chance At Regulating The Internet? 
+
+Meta Sues Firm For Data Scraping; Claims That Signing Up For New Accounts After Being Banned Is Equivalent Of Hacking 
+
+China's Regulatory War On Its Gaming Industry Racks Up 14k Casualties 
+
+ Rate this comment as insightful
+
+ Rate this comment as funny
+
+ You have rated this comment as insightful
+
+ You have rated this comment as funny
+
+ Flag this comment as abusive/trolling/spam
+
+ You have flagged this comment
+
+ The first word has already been claimed
+
+ The last word has already been claimed
+
+Comments on “Italy Proposes Astonishingly Sensible Rules To Regulate Government Hacking Using Trojans” 
+
+ Subscribe:
+ RSS 
+
+ Leave a comment 
+
+ Filter comments in by Time 
+
+ Filter comments as Threaded 
+
+ Filter only comments rated Insightful 
+
+ Filter only comments rated funny LOL 
+
+ Filter only comments that are Unread 
+
+15 Comments 
+
+ Vito says: 
+
+ February 17, 2017 at 4:44 am 
+
+enforcement ? 
+
+ >>>> “…far better to constrain them… through well-thought out rules such as those drawn up by the Italian parliamentary group. “
+
+ Problem is that “ink-on-paper” (rules/laws) does not constrain THEM in day to day reality. 
+
+ They don’t follow the rules now — so fine tuning “the rules” achieves nothing.
+
+ We have overwhelming evidence in the U.S. that law enforcement routinely evades the 4th Amendmentt basics– and the courts rarely punish them for it.
+
+ So what’s your plan to “enforce” all these astonishingly wonderful new rules ?
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ Châu says: 
+
+ February 17, 2017 at 5:03 am 
+
+Reverse Trojans 
+
+ Wonder if can people can hack this malware and use it spy police and government phones. People have right spy government officials because government officials force people pay them tax.
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ Anonymous Coward says: 
+
+ February 17, 2017 at 5:17 am 
+
+ Hmm… spying tools are commonly trojans… PC game DRM methods are essentially trojans… how long ’til we see the feds co-opt game publishers to adapt their DRM so that when it calls the home servers to keep the game unlocked, it also sends your data to the NSA?
+As a bonus, circumventing game DRM can then be claimed as a “NATIONAL SECURITY!!1!!1eleventy!1!!” issue.
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ ThaumaTechnician (profile) says: 
+
+ February 17, 2017 at 5:32 am 
+
+enforcement ? 
+
+ Uh, you did notice that the article is about the Italian (see what I did there?) criminal justice system, eh?
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ Anonymous Coward says: 
+
+ February 17, 2017 at 5:56 am 
+
+enforcement ? 
+
+ Maybe they thought it was the Italian Americans that had proposed this. The Mafia was mentioned after all. I could just imagine this in an episode of the Sopranos.
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ JoeCool (profile) says: 
+
+ February 17, 2017 at 7:36 am 
+
+enforcement ? 
+
+ It doesn’t change his point, which is a good one. Government officials already don’t follow clear laws with no or very limited punishment. What are more laws (to ignore) going to accomplish? This is true (nearly) everywhere, including, but not limited to, the US, the UK, Australia, Germany, France, Spain, Italy, Russia, China, etc, etc…
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ OldMugwump (profile) says: 
+
+ February 17, 2017 at 8:19 am 
+
+enforcement ? 
+
+ Vito, we have to start somewhere. If your attitude is “nobody follows the rules” then rules don’t matter and we have chaos where the strong crush the weak. 
+
+ This is a good start – reasonable rules. They should be praised and encouraged.
+
+ Now they have to be enforced. That’s the next step.
+
+ The only way to make progress is to work at it.
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ Anonymous Coward says: 
+
+ February 17, 2017 at 8:53 am 
+
+enforcement ? 
+
+ Oh, the italian court system is very autonomous. Actually to the point of being clearly political left-leaning and very biased in several cases.
+
+ The italian legislature is extremely weak and have made for changing governments as often as others change underwear in the past…
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ Anonymous Coward says: 
+
+ February 17, 2017 at 9:00 am 
+
+Re: 
+
+ Please don’t give EA ideas.
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ Anonymous Coward says: 
+
+ February 17, 2017 at 10:19 am 
+
+ Fuck non consented surveillance in general, ill always earn for the day where none of this is required……..goodluck to the generation who has to force their government to give up a functional yet cancerous limb, given up on that being our generation
+
+ But ill say this, its the first time ive seen an ACTUALL attempt at trying to balance privacy and security, on the technological level, to the point of making me envious, considering the one sided balance we have today
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ Thad (profile) says: 
+
+ February 17, 2017 at 11:30 am 
+
+enforcement ? 
+
+ Government officials already don’t follow clear laws with no or very limited punishment. What are more laws (to ignore) going to accomplish?
+
+ …did you seriously just argue that because some people break laws, we shouldn’t bother having any?
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ Anonymous Coward says: 
+
+ February 17, 2017 at 12:26 pm 
+
+How are they installed? 
+
+ Many of the things seen so far have used publically-unknown security flaws to install themselves. All I see here about installation is:
+
+ c. The trojan, once installed, shall not lower the security level of the device where it has been activated
+
+ Hoarding vulnerabilities wouldn’t violate that, because of the "once installed" loophole—but it would still makes everyone in the world less secure. Do we know anything of Italy’s plans?
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ Erin says: 
+
+ February 17, 2017 at 2:17 pm 
+
+Up until.. 
+
+ > it would be better if the use of government malware were avoided completely, and other methods were adopted.
+
+ Suggesting “other methods” would be helpful. By definition, clandestine operations involve not letting the observed know what’s happening, so you can’t just go up and ask them for their data (and they’d just say no anyway.)
+
+ As written in your summary, this seems like the perfect response — the ability for law enforcement to do their job but with the oversight in place to limit their ability to abuse the powers. As far as I’ve ever seen, that’s basically exactly how the system should work.
+
+ Of course as always the devil’s in the details so we’ll see how things go as loopholes are discovered and whether Italy is willing to stand their ground if/when the US or EU decides to throw their weight around over some copyright claim or other.
+
+ But as the article title says, its astonishingly sensible and if you have better options its rather on you to suggest them. Leaving it to the imagination just makes it sound like “do nothing” is the only solution you’d be happy with and that’s just not viable.
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ Thad (profile) says: 
+
+ February 17, 2017 at 2:47 pm 
+
+Up until.. 
+
+ Suggesting "other methods" would be helpful.
+
+ Off the top of my head, getting a warrant and requesting information from an ISP/e-mail host would be a good start.
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ JoeCool (profile) says: 
+
+ February 18, 2017 at 8:13 am 
+
+enforcement ? 
+
+ No, I clearly said that making something MORE illegal is stupid. We already have laws covering it (which they just happen to be ignoring), so it’s wasting everybody’s time to make more laws on the same thing (which they’ll ignore as well). It’s like proposed laws to make killing cops against the law – it’s stupid since killing anyone (not withstanding things like self-defense) is already illegal.
+
+ Reply View in chronology 
+
+ Make this comment the first word 
+ Make this comment the last word 
+
+ says: 
+
+ Add Your Comment Cancel reply 
+ Your email address will not be published. Required fields are marked * 
+ Have a Techdirt Account? Sign in now . Want one? Register here 
+ Name 
+ Email 
+ Subscribe to the Techdirt Daily newsletter 
+ URL 
+ Subject 
+ Comment * 
+ Comment Options:
+ Use markdown . Use plain text. 
+ Make this the First Word or Last Word. No thanks. ( get credits or sign in to see balance) what's this? What's this?
+ Techdirt community members with Techdirt Credits can spotlight a comment as either the "First Word" or "Last Word" on a particular comment thread. Credits can be purchased at the Techdirt Insider Shop » 
+
+ Δ 
+
+ Pro-Marijuana Student Organization Wins Court Case Over Using School Logos 
+
+ T-Mobile Not So Subtly Hints That It Wants To Disrupt The Cable TV Industry 
+
+ Follow Techdirt
+
+ Techdirt Daily Newsletter
+
+ Essential Reading
+
+ The Techdirt Greenhouse
+
+ Read the latest posts:
+
+Winding Down Our Latest Greenhouse Panel: The Lessons Learned From SOPA/PIPA 
+
+From The Revolt Against SOPA To The EU's Upload Filters 
+
+Did We Miss Our Best Chance At Regulating The Internet? 
+
+Read All » 
+
+ Trending Posts
+
+Penguin Random House Demands Removal Of Maus From Digital Library Because The Book Is Popular Again 
+
+How The EARN IT Act Is Significantly More Dangerous Than FOSTA 
+
+DEA Gives Former Marine Back $86,900 Cops Took From Him During A Nevada Traffic Stop Caught On Body Cam 
+
+ Techdirt Deals
+
+ Techdirt Insider Discord 
+
+ The latest chatter on the Techdirt Insider Discord channel...
+
+ Loading...
+
+ Become an Insider! 
+
+ Recent Stories
+
+Monday 
+
+ 15:32 
+
+Good News: Bill To Study The Impact Of FOSTA Reintroduced 
+(0) 
+
+ 13:39 
+
+McDonald's Sued For Thwarting Third Party's Solution To Its Broken Ice Cream Machine Problem 
+(8) 
+
+ 12:00 
+
+Congress Is Weakening America's Cybersecurity. It Couldn't Have Picked A Worse Time.   
+(14) 
+
+ 10:45 
+
+TikTok Stops The TikToking In Russia As It Tries To Figure Out Its New 'Fake News' Law 
+(4) 
+
+ 10:42 
+
+Daily Deal: Dashlane Password Manager 
+(0) 
+
+ 09:29 
+
+FOIA Requester Gets 292 Fully-Redacted Pages In Response To Request About Federal Funding Of Virus Research In Wuhan 
+(8) 
+
+ 05:30 
+
+Nebraska Latest State Looking To Roll Back Dumb Restrictions On Community Broadband 
+(4) 
+
+Sunday 
+
+ 12:00 
+
+Some Known Issues With The New Techdirt 
+(32) 
+
+Saturday 
+
+ 12:00 
+
+This Week In Techdirt History: February 27th - March 5th 
+(0) 
+
+Friday 
+
+ 19:39 
+
+Ukraine Calls For Video Game Blockade Against Russia To Motivate Its Citizenry 
+(32) 
+
+More 
+
+ × 
+ Email This Story
+
+ This feature is only available to registered users. 
+
+ You can register here or sign in to use it. 
+
+ Tools & Services
+ Twitter 
+
+ Facebook 
+
+ RSS 
+
+ Podcast 
+
+ Research & Reports 
+
+ Company
+ About Us 
+
+ Advertising Policies 
+
+ Privacy 
+
+ Contact
+ Help & Feedback 
+
+ Media Kit 
+
+ Sponsor / Advertise 
+
+ More
+ Copia Institute 
+
+ Insider Shop 
+
+ Support Techdirt 
+
+Brought to you by Floor64 
+
+Proudly powered by WordPress 
+
+Hosted by 
+Pressable 
+
+This site, like most other sites on the web, uses cookies. For more information, see our
+
+privacy policy

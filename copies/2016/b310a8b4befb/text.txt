@@ -1,0 +1,7 @@
+Improve transparent HTTP proxy detection with SSL test on port 80
+https://github.com/NullHypothesis/exitmap/issues/36
+opened 2016-01-02T17:48:15Z by fpietrosanti · state closed
+
+This ticket is to Improve transparent HTTP proxy detection with SSL test on port 80 as described on https://trac.torproject.org/projects/tor/ticket/2697 .
+
+phw: naif: so far, there's only a module that looks for the "Via" http header, so there's room for improvement.

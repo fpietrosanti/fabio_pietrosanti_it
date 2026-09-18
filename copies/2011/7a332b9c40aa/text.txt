@@ -1,0 +1,122 @@
+Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff » ZORG, new C++ and Java ZRTP implementation public release 
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ HOME 
+
+ author & blog 
+
+ « Encrypted mobile to landline phone calls with Asterisk 1.8 
+
+ Government 2.0, Open Data and WikiLeaks » 
+
+ ZORG, new C++ and Java ZRTP implementation public release
+
+ Hi all, today at PrivateWave Italia S.p.A, italian company engaged in developing technologies for privacy protection and information security in voice telecommunications where i am CTO, we release ZORG, a new open source ZRTP protocol implementation available for download from http://www.zrtp.org . 
+
+ ZRTP [1] provides end-to-end key exchange with Elliptic Curve Diffie-Hellmann 384bit and AES-256 SRTP encryption . 
+
+ ZORG has been originally developed and implemented in PrivateWave’s PrivateGSM voice encryption products available for the following platforms: Blackberry, Nokia and iOS (iPhone) . 
+
+ Zorg C++ has been integrated with PJSIP open source VoIP SDK [2] and it’s provided as integration patch against PJSIP 1.8.5. It has been tested on iPhone, Symbian, Windows, Linux and Mac OS X. 
+
+ Zorg Java has been integrated within a custom version of MJSIP [3] open source SDK on Blackberry platform and it includes memory usage optimizations required to reduce at minimum garbage collector activity. 
+
+ Both platforms have separated and modular cryptographic back-ends so that the cryptographic algorithms implementation could be easily swapped with other ones. 
+
+ ZORG is licensed under GNU AGPL and source code is available on github at https://github.com/privatewave/ZORG . 
+
+ We are releasing it under open source and in coherence with our approach to security [4] as we really hope that it can be useful for the open source ecosystem to create new voice encryption systems in support of freedom of speech. 
+
+ More than 20 pjsip-based open source VoIP encryption software and several written in Java could directly benefit from ZORG release. 
+
+ We would be happy to receive proposal of cooperation, new integration, new cryptographic back-ends, bug scouting and whatever useful to improve and let ZRTP affirm as voice encryption standard. 
+
+ Zorg is available from http://www.zrtp.org . 
+
+ [1] ZRTP: http://en.wikipedia.org/wiki/ZRTP 
+
+ [2] PJSIP: http://www.pjsip.org 
+
+ [3] MJSIP: http://www.mjsip.org 
+
+ [4] Security approach: http://www.privatewave.com/security/approch.html 
+
+ Posted on 12 January 2011 by naif . This entry was posted in Privacy and tagged encryption , mobile , Privacy , voicesecurity , zrtp . Bookmark the permalink . 
+
+ « Encrypted mobile to landline phone calls with Asterisk 1.8 
+
+ Government 2.0, Open Data and WikiLeaks » 
+
+ Leave a Reply Cancel reply 
+
+ Your email address will not be published. Required fields are marked * 
+ Name * 
+
+ Email * 
+
+ Website 
+
+ Comment 
+ You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> 
+
+ Translator
+
+ Search for: 
+
+ About
+
+ My interest in espionage/counterespionage, hacking, privacy, security, technology and sometime business and marketing stuff related to security world. BLOG IS IN ENGLISH. TRANSLATIONS ARE AUTOMATIC. 
+
+ Twitter 
+
+ RT @mrkoot : Karsten Nohl & Luca Melette "intercepted and decrypted mobile Internet traffic in a 5km radius": http://t.co/EJvw53g HT @Ell ... 
+ RT @Transparency_ie : TII’s John Devitt tells RTE's Drivetime a universal whistleblowers charter is needed to fight white collar crime 
+ ... 
+ RT @Nientenomi : Hackers disrupt Hong Kong stock exchange http://zite.to/rkz3dK 
+ RT @Nova24Ora : WEB MAPS: Super Powers (infographic). http://bit.ly/oEjSHR 
+ RT @WhistleUK : Come join PCaW & GlobalNet21 Webinar: What do we really think about whistleblowers. http://t.co/tjcT4Yh 
+
+ Recent Posts
+
+ RFC 6189: ZRTP is finally a standard! 
+
+ Progress for GSM cracking in Freiburg university 
+
+ My TOR exit node experience trying to filter out noisy traffic 
+
+ TETRA hacking is coming: OsmocomTETRA 
+
+ Government 2.0, Open Data and WikiLeaks 
+
+ ZORG, new C++ and Java ZRTP implementation public release 
+
+ Encrypted mobile to landline phone calls with Asterisk 1.8 
+
+ Eight Epic Failure of Regulating Cryptography 
+
+ PrivateGSM: Blackberry/iPhone/Nokia mobile voice encryption with ZRTP or SRTP/SDES 
+
+ A couple of nice VPN provider 
+
+ Not every elliptic curve is the same: trough on ECC security 
+
+ ESSOR, European Secure Software Defined Radio (SDR) 
+
+ Product management and organization 
+
+ Remotely intercepting snom VoIP phones 
+
+ Voice communication security workshop 
+
+ 27C3 – CCC Congress CFP: We come in peace 
+
+ GSM cracking in penetration test methodologies (OSSTMM) ? 
+
+ Snake-oil security claims on crypto security product 
+
+ Web2.0 privacy leak in Mobile apps 
+
+ AES algorithm selected for use in space 
+
+ Proudly powered by Wordpress and designed by code reduction

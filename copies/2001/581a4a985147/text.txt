@@ -1,0 +1,445 @@
+LDR: Linux Domande e Risposte 
+
+ [successivo] 
+ [precedente] 
+ [inizio] 
+ [fine] 
+ [indice generale] 
+ [hall of fame] 
+ [indice analitico] 
+
+ Suggerimenti di... 
+
+ Quello che segue è l'elenco delle persone che hanno fornito le indicazioni e i suggerimenti su cui sono basate molte di queste FAQ. 
+
+ A.Tiziano Demaria, 2.8.4 
+
+ Achille Guido, 14.7.6 
+
+ Alberto Marmodoro, 14.4.1 
+
+ Aldes, 7.6.1 , 14.10.1 
+
+ Alessandro allxsan, 14.14.3 
+
+ Alessandro De Rinaldis, 1.5.3 
+
+ Alessandro Piattoli, 12.2.3 
+
+ Alex Cava, 1.2.3 
+
+ Alfonso de Gregorio, 1.12.7 , 1.12.29 , 1.13.8 
+
+ Andrea Brugiolo, 1.9.18 , 2.2.6 , 2.4.1 , 2.4.2 , 4.2.2 
+
+ Andrea Celli, 1.2.16 , 1.6.10 
+
+ Andrea Foco, 1.7.1 
+
+ Andrea Manzini, 12.1.1 , 12.1.20 
+
+ Antirez, 1.12.29 , 2.1.4 , 5.4.1 , 12.1.21 
+
+ Antonio Bellezza, 1.9.7 
+
+ Antonio Bonifati, 1.9.16 
+
+ Antonio Cavallo, 1.2.16 , 2.4.1 , 2.4.2 
+
+ Antonio Doldo, 1.1.1 , 1.1.7 , 1.2.12 , 1.4.1 , 1.5.12 , 1.7.25 , 1.7.26 , 1.9.9 , 1.13.3 , 2.8.3 , 2.8.5 , 2.12.13 , 2.16.2 , 2.16.3 , 2.16.5 , 2.16.6 , 3.4.6 , 4.1.14 , 9.1.6 , 11.1.1 , 11.1.2 , 11.1.3 , 11.1.4 , 11.3.1 , 12.1.18 , 13.1.1 , 14.9.1 , 14.9.2 , 14.9.6 , 14.9.7 , 14.9.9 , 14.11.1 , 14.15.4 , 14.16.2 , 14.18.1 , 14.19.1 , 14.19.5 
+
+ Antonio Fragola, 2.12.5 
+
+ Antonio Gallo, 2.12.5 
+
+ Antonio Messina, 14.5.1 
+
+ Antonio Pennino, 12.1.13 
+
+ area[c], 2.16.6 
+
+ BBK, 1.6.4 
+
+ Beppe Pavoletti, 3.1.8 
+
+ biés, 1.10.11 
+
+ Biagio Lucini, 1.6.5 , 1.7.11 , 2.12.11 , 4.1.3 
+
+ Bonjo the Sniff Dog, 7.5.1 
+
+ Boomby, 1.16.8 
+
+ Bruno Marracino, 2.5.2 
+
+ Christian Surchi, 4.1.8 
+
+ Ciro Sammarcellino, 1.16.3 
+
+ Claudio Dalla Vecchia, 1.2.15 , 2.10.20 
+
+ Claudio Guidi Colombi, 12.1.9 , 12.1.13 , 12.1.20 , 12.1.22 
+
+ Cosimo Vagarini, 1.2.6 , 1.5.4 , 1.7.2 , 1.7.9 , 1.9.4 , 1.9.8 , 1.9.18 , 1.15.9 , 2.3.1 , 2.3.8 , 2.3.9 , 2.7.5 , 2.8.6 , 2.10.1 , 3.7.4 , 4.4.2 , 4.4.7 , 5.1.1 , 8.1.5 , 12.1.9 , 12.1.17 , 12.1.20 , 14.16.3 , 14.19.2 
+
+ Daniele, 1.6.13 
+
+ Daniele Medri, 7.3.1 
+
+ Daniele Pighin, 1.19.2 , 10.1.7 , 11.3.3 
+
+ Daniele Sapio, 1.12.33 
+
+ DarioB, 13.1.2 
+
+ David Cifronti, 2.10.24 , 4.4.7 
+
+ David Pisa, 1.9.14 , 14.10.3 
+
+ Davide Alberani, 1.6.8 , 1.7.1 , 1.7.9 , 1.9.3 , 1.12.32 , 1.13.3 , 2.12.5 , 3.2.4 , 3.3.1 , 4.1.10 , 4.1.15 , 14.15.1 
+
+ Davide Bozzelli, 1.14.3 
+
+ Davide Cecconello, 2.11.1 
+
+ Davide Menzoni, 1.6.14 
+
+ Davide Morelli, 5.6.2 
+
+ Detonator, 1.5.11 
+
+ Domenico Crupi, 1.9.11 
+
+ Elisa Manara, 1.2.4 , 1.2.11 , 1.9.18 , 1.9.21 , 1.12.5 , 1.13.3 , 1.13.5 , 1.16.2 , 2.1.1 , 2.2.2 , 2.2.3 , 2.2.4 , 2.5.1 , 2.10.2 , 2.10.13 , 2.11.2 , 2.12.3 , 2.12.4 , 2.12.15 , 2.12.16 , 2.12.17 , 2.13.2 , 4.1.8 , 4.4.1 , 5.1.2 , 12.1.5 , 12.1.6 , 12.1.7 , 12.1.10 , 12.1.12 , 12.1.13 , 12.1.14 , 12.1.16 , 12.1.19 , 12.1.22 , 12.1.23 , 12.1.24 , 14.4.2 
+
+ Emilio Riva, 1.12.25 
+
+ Enrico Boni, 1.1.6 
+
+ Enrico Donelli, 14.9.10 
+
+ Enrico Fracasso, 2.12.18 
+
+ Enrico Galli, 1.7.24 
+
+ Enrico Porcarelli, 8.1.4 
+
+ Ettore Robustelli, 12.4.1 
+
+ Eugenia Franzoni, 1.1.2 , 1.3.2 , 3.5.1 , 3.5.2 , 3.5.3 , 3.5.4 , 3.5.5 , 3.5.7 , 3.5.8 
+
+ Eugenio M. Longo, 2.10.6 
+
+ EugeniX, 4.1.8 
+
+ Fabio Pietrosanti, 2.1.2 
+
+ Fabio Rotondo, 1.10.4 , 1.12.4 , 4.4.1 
+
+ Fabrizio Lippolis, 1.3.5 , 1.7.10 , 1.9.2 , 1.9.15 , 1.13.4 , 2.15.1 , 11.1.5 , 12.1.2 , 12.2.4 , 14.2.1 
+
+ Federico di Gregorio, 1.12.14 , 2.1.4 
+
+ Federico Motta, 4.1.18 , 4.1.19 
+
+ Fedriano Ziglio, 1.12.6 
+
+ Francesco Ferrante, 1.16.5 
+
+ Francesco Ortuso, 2.2.1 
+
+ Francesco P. Lovergine, 1.6.12 
+
+ Francesco Rana, 1.2.18 
+
+ Franco Canovi, 1.9.21 , 12.1.25 
+
+ Franco Spera, 1.9.12 , 4.3.4 , 4.3.6 
+
+ Fredo, 5.6.3 
+
+ Freefred, 4.1.8 , 7.5.1 
+
+ Fritz, 1.9.14 , 2.10.11 , 2.12.1 , 7.1.1 , 14.9.5 
+
+ Gabbroral Complex, 3.2.1 
+
+ Gabriele Bertolucci, 3.5.6 
+
+ Gabriele Giansante, 1.10.10 
+
+ Gabriele Zugliani, 2.12.5 
+
+ Gaspare Albano, 1.6.4 , 1.7.6 , 1.7.28 , 1.10.3 , 2.12.2 , 9.1.5 , 10.1.3 , 10.1.8 , 14.16.5 
+
+ Giacomo Comes, 1.12.13 , 1.15.10 
+
+ Gian Luca Matteucci, 1.2.5 , 1.6.11 , 1.9.23 , 1.10.4 , 12.1.15 
+
+ Giancarlo Laffranchi, 4.4.6 
+
+ Gianfranco Di Tommaso, 2.2.1 
+
+ Gianluca Montecchi, 1.2.5 , 1.7.14 , 1.9.25 , 2.10.5 , 2.11.2 , 14.1.1 , 14.4.2 , 14.15.3 
+
+ Gianluca Vezzù, 1.7.15 , 1.7.19 , 1.7.23 , 1.9.1 , 1.18.1 , 2.13.1 , 5.5.1 , 10.1.6 , 14.13.1 
+
+ Gianna F., 14.7.5 
+
+ Gianni Carabelli, 4.4.4 , 14.8.1 
+
+ Gianpaolo Racca, 1.7.8 , 1.10.11 , 2.12.2 , 3.4.5 , 8.1.4 
+
+ Giansante Gabriele, 1.8.1 , 1.16.4 , 2.7.3 , 2.10.19 , 3.3.3 , 14.7.3 
+
+ Giorgio Corani, 7.2.1 , 12.2.1 
+
+ Giorgio Pasini Ruffoni, 1.6.7 , 11.3.1 
+
+ Giorgio Zarrelli, 1.7.5 , 1.9.14 , 1.13.3 , 7.2.1 , 14.3.2 
+
+ Giovanni Bassoli, 3.6.7 
+
+ Giovanni Bortolozzo, 7.4.1 
+
+ Giuliano Grandin, 1.1.5 , 1.5.6 , 1.9.1 , 1.12.12 , 3.5.10 , 4.3.3 , 7.5.1 
+
+ Giulio Orsero, 1.9.17 
+
+ Grimalkin, 2.10.8 
+
+ Guido Milanese, 8.1.4 
+
+ Guido Piazzi, 4.1.13 
+
+ Imagino, 3.1.1 
+
+ Ivan Fabris, 6.1.3 
+
+ JavaKids, 14.17.1 
+
+ Lele, 1.5.7 
+
+ Leonardo Lerede, 3.6.10 , 12.2.2 
+
+ Lorenzo Lazzeri, 1.12.15 
+
+ Lorenzo Lobba, 4.1.9 , 11.3.1 , 14.9.3 
+
+ Luca Bertoncello, 4.1.5 
+
+ Luca Lucriz, 4.1.11 , 8.1.6 
+
+ Luca Manganelli, 4.1.16 
+
+ Luca Pedrielli, 2.16.1 
+
+ Luciano di Lucrezia, 2.12.20 , 12.1.26 
+
+ Lucio Satta, 2.10.9 
+
+ Luzi, 14.14.3 
+
+ Mammola Domenico, 1.2.2 
+
+ Manfredo Marsili, 1.17.1 , 8.1.4 
+
+ Marcello Magnifico, 3.1.7 , 3.3.2 
+
+ Marcello Valenti, 1.6.4 
+
+ Marco Ambu, 11.3.3 
+
+ Marco Berrettini, 14.14.1 
+
+ Marco Bevacqua, 1.2.10 
+
+ Marco Calignano, 1.2.13 
+
+ Marco Cova, 1.16.4 
+
+ Marco d'Itri, 4.4.5 
+
+ Marco Fiocchi, 2.16.4 
+
+ Marco Giardini, 2.11.2 , 2.12.18 , 2.12.19 , 5.2.1 
+
+ Marco Meloni, 1.2.15 
+
+ Marco Mililotti, 14.10.2 
+
+ Marco Pace, 7.2.1 
+
+ Marco Penitenti, 2.8.1 
+
+ Marco Schwarz, 7.2.1 
+
+ Mario Morra, 14.7.2 , 14.9.4 
+
+ Massimiliano Perantoni, 2.10.14 , 3.3.4 , 3.4.7 , 4.1.7 , 4.4.1 , 4.4.3 , 14.5.2 , 14.14.1 , 14.16.1 
+
+ Massimo Colurcio, 2.8.7 
+
+ Massimo Fubini, 1.12.23 
+
+ Matteo Cottini, 1.5.10 
+
+ Matteo De Luigi, 6.1.2 
+
+ Matteo Riva, 4.3.2 
+
+ Maurizio Firmani, 1.7.25 , 2.1.1 
+
+ Maurizio Napolitano, 1.14.4 , 2.12.10 , 3.7.5 , 14.3.1 
+
+ Maurizio Tannoiser, 1.7.17 , 2.10.7 
+
+ Mauro Cicio, 3.1.2 
+
+ Mauro Condarelli, 3.2.3 
+
+ Mauro Puddinu, 1.6.14 , 1.7.3 , 2.2.1 , 2.8.1 , 10.1.3 
+
+ Mauro Silvia, 14.14.3 
+
+ Maverik, 1.6.1 , 1.14.5 , 2.2.5 , 14.16.4 , 14.16.5 
+
+ Max in the Fax, 4.1.6 
+
+ Maxter, 2.8.8 
+
+ Michel Morelli, 1.2.7 , 1.2.19 , 1.5.5 , 1.7.8 , 1.9.6 , 1.12.7 , 1.12.25 , 2.3.3 , 2.3.6 , 2.10.12 , 2.12.14 , 7.5.1 , 14.7.1 , 14.12.4 
+
+ Michele Dalla Silvestra, 1.2.8 , 1.7.5 , 2.7.4 , 4.1.4 
+
+ Michele Dionisio, 1.7.24 , 1.10.9 , 5.6.1 , 14.4.3 
+
+ Michele Mariottini, 1.7.22 
+
+ Michele Paint, 2.12.10 , 9.1.1 
+
+ Michele Ripamonti, 2.5.2 , 2.6.2 , 12.3.1 
+
+ Miguel Beccari, 2.10.12 
+
+ Moreno Risorti, 14.7.3 
+
+ Nicola Bonelli, 1.12.29 , 4.1.8 , 12.1.21 
+
+ Nicola Piazza, 14.14.2 
+
+ Osvaldo Frassine, 2.10.4 
+
+ Over, 4.3.6 
+
+ Pancrazio de Mauro, 1.2.17 , 1.12.16 , 1.12.31 , 1.12.33 , 12.1.1 , 12.5.1 
+
+ Panther, 10.1.2 , 10.1.8 
+
+ Paolo Furieri, 1.12.7 
+
+ Paolo Marchiori, 1.12.7 , 1.12.15 , 1.12.29 , 12.1.21 
+
+ Paolo Massei, 1.11.6 , 2.12.6 , 5.1.2 
+
+ Paolo nemesis, 1.2.20 
+
+ Paolo Squaratti, 2.10.6 , 2.10.18 , 2.14.1 , 4.3.4 
+
+ Paolo Tortoli, 1.5.2 
+
+ Pardo, 8.1.3 
+
+ Pepe, 11.2.1 
+
+ Pierluigi De Rosa, 1.7.21 
+
+ Piero Baudino, 1.10.12 , 1.12.33 
+
+ Pio Gaeta, 1.12.10 , 3.2.4 
+
+ Razzauti Marco, 1.12.30 
+
+ Renato Ferrari, 1.6.14 
+
+ Renato Ramonda, 4.1.18 , 4.1.19 
+
+ Riccardo Corsanici, 1.7.10 , 1.12.4 , 1.14.6 , 2.3.2 , 2.3.4 , 2.5.4 , 2.10.17 , 12.1.3 , 12.1.4 , 14.4.2 
+
+ Riccardo Richini, 2.10.15 
+
+ Riccardo Signorotto, 4.4.8 
+
+ Roberto A. Foglietta, 1.19.1 
+
+ Roberto Bagnoli, 1.19.2 
+
+ Roberto Del Bianco, 2.12.12 
+
+ Roberto Kaitsas, 1.1.1 , 1.7.4 , 1.9.10 , 1.12.6 , 1.19.2 , 2.1.3 , 2.7.1 , 2.10.3 , 2.14.2 , 2.16.5 , 3.4.5 , 6.1.8 , 7.1.1 , 12.1.11 , 14.10.2 , 14.14.1 , 14.19.6 
+
+ Roberto Previdi, 12.1.12 
+
+ Roberto Veronico, 2.16.7 
+
+ Salvatore Salzano, 2.10.22 , 12.1.2 
+
+ Samuel John Porter, 12.3.1 
+
+ Seby, 1.7.13 
+
+ Silvestro Roberto, 2.12.9 
+
+ Simone Stevanin, 14.6.1 
+
+ Spada Matteo, 2.16.5 
+
+ Sprint, 3.2.2 
+
+ Stefano (lindt), 4.1.17 
+
+ Stefano Berretta, 1.9.5 , 1.13.7 
+
+ Stefano Brandimarte, 1.12.29 , 12.1.21 
+
+ Stefano Doni, 2.3.7 
+
+ Stefano Falsetto, 1.9.17 
+
+ Stefano Giunchi, 2.12.8 , 4.3.1 
+
+ Stefano Santini, 1.7.8 , 1.7.27 , 1.8.2 
+
+ Stephane Bortzmeyer, 5.6.8 
+
+ Striscio, 14.9.4 
+
+ Taedium, 2.12.5 
+
+ The Hitman, 1.2.11 , 1.2.12 , 1.5.8 , 1.12.18 , 3.2.3 , 4.3.4 , 5.1.2 , 7.5.1 , 8.1.1 , 8.1.2 , 11.3.1 , 11.3.2 , 14.3.3 
+
+ Tiziana Manfroni, 2.7.6 
+
+ Tiziano Fogliata, 14.7.3 
+
+ Tommaso Bianchi, 1.2.12 
+
+ Tullio Chersi, 14.15.2 
+
+ Ugo Tartaglino, 1.19.1 
+
+ Vanni Della Ricca, 1.12.33 
+
+ ViAcEs, 2.10.21 , 4.3.1 
+
+ Visitors, 1.7.7 
+
+ Dovrebbe essere possibile fare riferimento a questa pagina anche con il nome suggerimenti_di.html 
+
+ [successivo] 
+ [precedente] 
+ [inizio] 
+ [fine] 
+ [indice generale] 
+ [hall of fame] 
+ [indice analitico]

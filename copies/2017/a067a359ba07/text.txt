@@ -1,0 +1,26 @@
+JS based secure downloader for non-HTTPS mirrors
+https://github.com/videolabs/mirrorbits/issues/60
+opened 2017-07-03T23:06:57Z by fpietrosanti · state closed
+
+This ticket come after few days of conversations around the security of VLC download procedures, starting from an HTTP clear-text website www.videolan.org along with get.videolan.org that could, and hopefully will, be upgrade to HTTPS-only with HSTS.
+
+One of the claim of the team of VLC for not upgrading to HTTPS-only their website www.videolan.org and get.videolan.org (running mirrorbits) is that their mirrors are anyhow also HTTP-cleartext.
+
+Aside that there are 35 out 88 mirrors already with HTTPS, this ticket is to propose a different approach to keep the "root of trust" on secured HTTPS-only version of videolan.org/get.videolan.org while keeping the mirrors also in HTTP in clear.
+
+The idea is to make a small Javascript widget, using HTML5 Download API, that would be safely loaded from https://get.videolan.org when clicking download and will:
+- download using XMLHTTPRequest the binary of the installation as a JS blob
+- will automatically verify the signature from an HTTPS-only preloaded list of file hashes
+- if the signature will match, will trigger the browser download from a data:URI (with a similar approach to http://danml.com/download.html)
+
+That way the root of trust, that today is broken because of missing HTTPS-only website, can stay there regardless of the security of the mirrors, the-facto preventing MITM attacks also without having to deploy the strict HTTPS+HSTS across all of the mirrors (but only on the main videolan.org domain sites).
+
+--- 2017-07-03T23:47:10Z etix
+This won't work with curl, wget or if javascript is disabled.
+Also, this has nothing to do with mirrorbits.
+
+--- 2019-01-22T22:29:58Z jbkempf
+FYI, if someone comes on this old issue, this did not work because of CORS, when doing XHR or Fetch, and we don't control CORS on the mirrors.
+
+--- 2019-02-13T14:40:48Z jbkempf
+I tried several new approaches in JS. Nothing works :'(

@@ -1,0 +1,61 @@
+Quantum cryptography broken at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « FUN! Infosecurity consideration on some well known films 
+ Exploit code against SecurStar DriveCrypt published » 
+
+ Quantum cryptography broken 
+
+ Published by naif May 20th, 2010 
+
+ in Privacy , interception , security and technology . 
+ 0  Comments 
+
+ Quantum cryptography it’s something very challenging, encryption methods that leverage the law of phisycs to secure communications over fiber lines.
+
+ To oversimplify the system is based on the fact that if someone cut the fiber, put a tap in the middle, and joint together the other side of the fiber, the amount of “errors” that will be on the communications path will be higher than 20% .
+
+ So if QBER (Quantum Bit Error Rate) goes above 20% then it’s assumed that the system is intercepted.
+
+ Researcher at university of toronto was able to cheat the system with a staying below the 20%, at 19.7% , thus tweaking the threshold used by the system to consider the communication channel secure vs compromised.
+
+ The product found vulnerable is called Cerberis Layer2 and produced by the Swiss ID Quantique .
+
+ Some possibile approach to detect the attack has been provided but probably, imho, such kind of systems does not have to be considered 100% reliable until the technology will be mature enough.
+
+ Traditional encryption has to be used together till several years, eventually bundled with quantum encryption whether applicable.
+
+ When we will see a quantum encryption systems on an RFC like we have seen for ZRTP , PGP and SSL ?
+
+ -naif
+
+ 0 Responses to “Quantum cryptography broken”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « FUN! Infosecurity consideration on some well known films 
+ Exploit code against SecurStar DriveCrypt published » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.643 sec. w/ 41 queries.
+
+ RSS Entries and RSS Comments

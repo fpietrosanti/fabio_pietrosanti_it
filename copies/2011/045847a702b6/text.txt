@@ -1,0 +1,125 @@
+Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff » RFC 6189: ZRTP is finally a standard! 
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ HOME 
+
+ author & blog 
+
+ « Progress for GSM cracking in Freiburg university 
+
+ RFC 6189: ZRTP is finally a standard!
+
+ Finally ZRTP has been assigned an official RFC assignment, RFC6189 ZRTP: Media Path Key Agreement for Unicast Secure RTP.
+
+ It had as a dependency the SRTP with AES key size of 256bit that now has been defined as RFC6188 .
+
+ It’s exciting to see the RFC finally released, as it’s an important milestone to set ZRTP as the official standard for end-to-end encryption much like PGP has been for emails.
+
+ Now any organization in the world will be officially able to implement ZRTP for end-to-end protocol voice encryption
+
+ Currently 3 different public implementations of ZRTP protocol exists:
+
+ Philip Zimmermann’s LibZRTP (c code)
+
+ PrivateWave’s ZORG (c++ code / Java code)
+
+ GNU Telephony ZRTP (c++ code / Java code)
+
+ Each of them provide different features of the protocol, but most important are known to be interoperable.
+
+ A new wave is coming to the voice encryption world, irrupting into a gray area where most of the companies doing phone encryption systems has been implementing custom encryption.
+
+ Now a standard has been setup and there are few reasons left to implementing something different.
+
+ Hurra Mr. Zimmermann and all the community of companies (like PrivateWave ) and individuals (like Werner Dittmann ) that worked on it!
+
+ Today it’s a great day, such kind of technology is now official and also with multiple existing implementation!
+
+ Philip, you did it again, my compliments to your pure spirit and determination :-)
+
+ Posted on 11 April 2011 by naif . This entry was posted in intelligence , interception , Privacy , security , technology and tagged encryption , Privacy , voicesecurity , zrtp . Bookmark the permalink . 
+
+ « Progress for GSM cracking in Freiburg university 
+
+ One comment
+
+ 1 
+
+ test 
+
+ 15 May 2011 - 5:00 pm | Permalink 
+
+ test comment
+
+ Leave a Reply Cancel reply 
+
+ Your email address will not be published. Required fields are marked * 
+ Name * 
+
+ Email * 
+
+ Website 
+
+ Comment 
+ You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> 
+
+ Translator
+
+ Search for: 
+
+ About
+
+ My interest in espionage/counterespionage, hacking, privacy, security, technology and sometime business and marketing stuff related to security world. BLOG IS IN ENGLISH. TRANSLATIONS ARE AUTOMATIC.
+
+ Twitter 
+
+ RT @frank_rieger : For reference: oil consumption per country http://t.co/fHafc4i 
+ RT @democracynow : #NATO admits loss of drone in #Libya; denies aircraft was Apache attack chopper. http://owl.li/5nZ3t #drones #Gaddafi 
+ RT @AnonyOps : U.S. conducting ‘mass surveillance’ against Arab world: report http://bit.ly/mIajVb (via @BarrettBrownLOL ) 
+ Saudi Suggests 'Squeezing' Iran Over Nuclear Ambitions http://t.co/Bk9TrwH 
+ RT @globaleaks : GlobalVoice Advocacy Project http://t.co/S25zCRB 
+
+ Recent Posts
+
+ RFC 6189: ZRTP is finally a standard! 
+
+ Progress for GSM cracking in Freiburg university 
+
+ My TOR exit node experience trying to filter out noisy traffic 
+
+ TETRA hacking is coming: OsmocomTETRA 
+
+ Government 2.0, Open Data and WikiLeaks 
+
+ ZORG, new C++ and Java ZRTP implementation public release 
+
+ Encrypted mobile to landline phone calls with Asterisk 1.8 
+
+ Eight Epic Failure of Regulating Cryptography 
+
+ PrivateGSM: Blackberry/iPhone/Nokia mobile voice encryption with ZRTP or SRTP/SDES 
+
+ A couple of nice VPN provider 
+
+ Not every elliptic curve is the same: trough on ECC security 
+
+ ESSOR, European Secure Software Defined Radio (SDR) 
+
+ Product management and organization 
+
+ Remotely intercepting snom VoIP phones 
+
+ Voice communication security workshop 
+
+ 27C3 – CCC Congress CFP: We come in peace 
+
+ GSM cracking in penetration test methodologies (OSSTMM) ? 
+
+ Snake-oil security claims on crypto security product 
+
+ Web2.0 privacy leak in Mobile apps 
+
+ AES algorithm selected for use in space 
+
+ Proudly powered by Wordpress and designed by code reduction

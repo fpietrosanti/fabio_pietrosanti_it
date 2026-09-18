@@ -1,0 +1,51 @@
+Encrypted mobile to landline phone calls with Asterisk 1.8 at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « Eight Epic Failure of Regulating Cryptography 
+
+ Encrypted mobile to landline phone calls with Asterisk 1.8 
+
+ Published by naif October 25th, 2010 
+
+ in Privacy , security and technology . 
+ 0  Comments 
+
+ We just released a technical howto on how to build up Secured mobile to landline VoIP infrastructure with:
+
+ Asterisk 1.8 (just released, support SIP/TLS + SDES key exchange for SRTP)
+
+ PrivateGSM Enterprise (Nokia / iPhone / Blackberry)
+
+ SNOM 300 Desktop phone 
+
+ In next weeks others howto like this one will come out by using other server platforms such as FreeSWITCH, all in the spirit of transparency and leverage of opensource security technologies.
+
+ 0 Responses to “Encrypted mobile to landline phone calls with Asterisk 1.8”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « Eight Epic Failure of Regulating Cryptography 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress 2.9.1 and Unwakeable 1.2.1 
+
+ Prepared In: 0.395 sec. w/ 24 queries.
+
+ RSS Entries and RSS Comments

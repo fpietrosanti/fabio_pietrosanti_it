@@ -1,0 +1,11 @@
+{
+ "source_url": "https://wikileaks.org/hackingteam/emails/emailid/224431",
+ "fetched_url": "https://wikileaks.org/hackingteam/emails/emailid/224431",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 44742,
+ "sha256": "785c2d1b4905c68bfb9cdbc7907a6597c8427254e83d2a777d840baa2426d180",
+ "name_found": true,
+ "fetched_at": "2026-09-17T09:23:02+00:00"
+}

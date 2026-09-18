@@ -1,0 +1,240 @@
+Anti-Corruption Alert, a Secure Platform For Public Servants Willing to Blow the Whistle | TechPresident 
+
+ Personal Democracy Plus Our premium content network. LEARN MORE 
+
+ You are not logged in. LOG IN NOW > 
+
+ PDM Home 
+
+ PD+ 
+
+ TechPresident 
+
+ Teleconferences 
+
+ Conferences 
+
+ Video 
+
+ About 
+
+ Facebook 
+
+ Twitter 
+
+ Youtube 
+
+ Flickr 
+
+ RSS 
+
+ Guidelines 
+
+ techPresident 
+
+ If you're a member, LOG IN NOW > 
+
+ A message from Andrew Rasiej, Tech President's Publisher
+
+ Thank you for visiting techPresident, where politics and technology meet. We’re asking our readers to help support the site. Let us tell you why:
+
+ Since 2007, we've expanded techPresident's staff and daily work to exhaustively look at how technology is changing politics, government and civic life. To provide the independent and deeply informed journalism we do, we need to find ways to support this growth that will allow us to keep the majority of our content free.
+
+ So, now we are asking you, our readers, to contribute if you can by:
+
+ Subscribing to our premium service Personal Democracy Plus for $6.95 a month or $75 a year (10% off!). Visit personaldemocracy.com/subscribe 
+
+ - Or -
+
+ Making a contribution in the amount of your choosing . Visit personaldemocracy.com/contribute 
+
+ Thank You For Supporting TechPresident
+
+ To subscribe to Personal Democracy Plus, visit personaldemocracy.com/subscribe . To make a contribution in the amount of your choosing, visit personaldemocracy.com/contribute .
+
+ Contribute Now > 
+
+ #PDF14
+
+ WeGov
+
+ Online Organizing
+
+ BackChannel
+
+ TechPresident Home 
+ All Topics 
+
+ Facebook 
+
+ Twitter 
+
+ Flickr 
+
+ RSS 
+
+ Anti-Corruption Alert, a Secure Platform For Public Servants Willing to Blow the Whistle
+
+ BY
+ Antonella Napolitano 
+ | Tuesday, October 28 2014 
+
+ The homepage of the Anti-Corruption Alert (ALAC) launched last week in Italy. 
+
+ In 2010, Piergiorgio Penzo had only been the director of Ipab, a public hospice in Chioggia near Venice, for less than a year, when he discovered irregularities in the hire and management of social workers in his institute. He reported the issue to the board and then to the authorities, which led to an (ongoing) investigation on a mismanagement of more than 800,000 euros (more than US$1 million).
+
+The board of the hospice, though, first tried to make him resign and when he refused, ended up demoting him to deputy director.
+
+ Mr. Penzo is only one of many cases of workers in the public sector that try to denounce episodes of corruption every year in Italy; in many cases, the punishment falls on the whistleblower. 
+
+ “The most likely way to learn about corruption in public administration is if somebody in the know denounces it, and that somebody is usually working inside the administration,” says Davide Del Monte, a project officer at the Italian chapter of Transparency International, speaking a few days after the launch of Anticorruption Alert (ALAC) , a platform aimed at securely collecting information on corruption and mismanagement from whistleblowers in both the public and private sectors. The project is co-funded by the Prevention of and Fight against Crime Programme of the European Union
+
+ ALAC uses GlobaLeaks , an open-source software specifically designed to protect the identity of the whistleblower and the receiver when they exchange confidential material.
+
+The software, designed by the non-profit Hermes Center for Transparency and Digital Human Rights , is currently being used by about 20 organizations all over the world, ranging from Hungary to Tunisia (back in June, Rebecca Chao covered the Tunisian initiative, called NawaatLeaks). 
+
+ Helping Whistleblowers Every Step of the Way 
+
+ “We don't give legal support to whistleblowers but we help them every step of the way,” explains Del Monte during our Skype interview.
+
+ The work of ALAC involves four stages. 
+
+ In the first one, TI staff ask the whistleblower if she has reported the issue to the “anti-corruption officer”: according to a 2012 law, every public administration needs to appoint one of their employee in charge of anti-corruption matters; duties include being the point of contact for people willing to report mismanagement or malpractice in the office. 
+
+ In many cases, public servants do not even know that their office has one, explains Del Monte, while acknowledging that this measure is often problematic, as the officer is not an external figure and has no special legal protection.
+
+ If the anti-corruption officer in question was contacted but hasn't followed up on the report, or is suspected to be part of the problem, the next step is to contact the National Anti-Corruption Authority (ANAC) for further investigation. 
+
+ If nothing happens after a couple of weeks, ALAC helps the whistleblower raise the issue with the local public authority in charge. 
+
+ If all else fails, the last and final resort is to contact the media. Del Monte tells me that he hopes they won't need to get to that point: “We want issues to be solved and even try to prevent them from happening, if we can.”
+
+ In order to substantiate the claims, the potential whistleblower has to fill a structured form that TI staff crafted very carefully. About 30 questions delve deeply into the actions of the alleged corrupt behavior, on the amount of the mismanagement and on the actions already taken by the whistleblower, in order to assist TI more effectively with assessing the level of danger for the person filing the complaint. 
+
+ “As TI Italy has a small staff and the potential for reports is high, we needed to raise the quality of reports,” Fabio Pietrosanti tells me. He is the president of Hermes Center and one of the creators of GlobaLeaks platform. The whole process is also an educational one, he adds, as every stage is clearly explained to the whistleblower and TI facilitates contact with authorities.
+
+ The preparatory work for the platform took Transparency International Italy and Hermes Center about 18 months and the development is still ongoing, he reveals during our Skype interview. The platform will also allow TI to collect data on whistleblowers' reports, in order to map corruption in a more effective way. 
+
+ This project might also turn out to be a pilot that may be adopted by other Transparency International chapters that currently have anti-corruption help desks that rely only on hotlines, a system that works but is difficult to manage, says the TI officer. “Our Greek chapter launched one that was flooded by reports of all kinds, making it impossible to provide a proper response and weakening the whole process,” he recalls.
+
+ The innovation of the platform lies in the process and in the technology: the GlobaLeaks platform allows the whistleblower to contact Transparency International (and to continue the conversation in later stages) in a safe way.
+
+But the only way to have complete anonymity, the site warns, is to use Tor. Besides a direct link to download the Tor Bundle, though, there is no further explanation on how to use the browser and what are common mistakes to avoid when using the software, however. 
+
+ Furthermore, does the average Italian civil servant know what Tor is and how to use it? The answer is predictably negative, but this is one of the issues that will be addressed in later stages of development, already in progress, both Del Monte and Pietrosanti tell me.
+
+ At the moment the ALAC homepage detects if Tor is being used and in some key points of the process, potential leakers are advised to use the browser Tor in order to protect their identity. 
+
+ A Technological Gap, And a Cultural One
+
+ In the past two years, the GlobaLeaks project has been gaining more and more attention and recognition. It is currently funded by a number of organizations, including Hivos and Open Technology Fund . 
+
+ Developing a platform like ALAC posed new challenges for the developers as well as for the Transparency International staff: “We were faced with a serious issue of scalability as we were considering the potential number of reports coming from the whole Italian administration,” said Pietrosanti, who also spoke at PDF Italia, last month in Rome.
+
+ He adds that a whole community of actors is needed to create an ecosystem that truly helps whistleblower to come forward. That is why Transparency International is also asking for pro bono assistance from lawyers to help with cases, psychologists in order to assess the potential consequences for those involved, and journalists to shed light on the most explosive cases.
+
+ There is also a cultural gap to overcome, as “whistleblowing” is not a common word for the Italian public. 
+
+ “It may sound silly, but the fact that there is not a proper Italian translation of the word prevents it from becoming part of the public debate, even if corruption is indeed very widespread in the public administration,” Francesca Businarolo tells me. She is a member of the Italian Parliament and belongs to the Five Star Movement.
+
+ Last year, Businarolo presented a bill aimed at protecting whistleblowers, that was also supported by Transparency International. The proposal, though, is buried in the Justice Commission, she tells me. 
+
+ Whistleblowing is both a political and cultural issue, she explains: part of the problem is rooted in how the Italian Parliament currently works; but there is also a perception of whistleblowing as something far from the Italian context and not crucial in the fight to corruption, a major issue in Italy and in Europe.
+
+According to the European Union's first report on corruption , released in February 2014, damages amount to roughly 120 billion euros (US$162.34 billion), about equal to the amount of the EU's shared budget.
+
+ “As much as I would prefer otherwise, I think we would need a major media case, to set an example,” says Del Monte by the end of our interview. 
+
+ In less than six weeks, his organization will be publishing the 2014 Corruption Perceptions Index, which makes the news every year since it increasingly paints an accurate picture of how corruption spreads. In 2013, Del Monte's native Italy came 69th out of 175 countries. 
+
+ RELATED TOPICS:  
+
+ anti-corruption 
+
+ corruption 
+
+ globaleaks 
+
+ transparency international 
+
+ WeGov 
+
+ whistleblower 
+
+ SHARE THIS
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ Google+ 
+
+ Instapaper 
+
+ News Briefs
+
+ RSS Feed 
+
+ thursday >
+
+ First POST: System-Gaming 
+
+ Why techies interested in political reform are facing challenges; the latest data on Democratic voter contacts in 2014; Hungary's anti-Internet tax demonstrations are getting huge; and much, much more. GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ wednesday >
+
+ First POST: Gimme Shelter 
+
+ The link between intimate partner violence and surveillance tech; the operational security set-up that connected Laura Poitras, Glenn Greenwald and Edward Snowden; how Senate Dems are counting on tech to hold their majority; and much, much more. GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ tuesday >
+
+ First POST: Tribes 
+
+ Edward Snowden on the Internet's impact on political polarization; trying to discern Hillary Clinton's position on NSA reform; why Microsoft is bullish on civic tech; and much, much more GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ monday >
+
+ First POST: Inventions 
+
+ How voter data-sharing among GOP heavyweights is still lagging; why Facebook's News Feed scares news publishers; Google's ties to the State Department; and much, much more. GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ friday >
+
+ First POST: Spoilers 
+
+ How the GOP hasn't fixed its tech talent gap; the most tech-savvy elected official in America, and the most tech-savvy state-wide candidate; and much, much more. GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ More

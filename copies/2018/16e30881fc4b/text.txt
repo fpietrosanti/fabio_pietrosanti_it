@@ -1,0 +1,228 @@
+La rivolta degli informatici contro Casaleggio - La Stampa 
+
+ -->
+
+ Menu 
+
+ Top News 
+
+ Abbonati 
+
+ Registrati 
+ -->
+
+ Aggiornato alle 01:14 - 18 luglio 
+
+ Abbonati 
+
+ Top News 
+
+ Torino 
+
+ Addio a Camilleri 
+
+ Luna 
+
+ Il caso Appendino 
+
+ La Lega e la Russia 
+
+ Alitalia 
+
+ Menu di navigazione
+
+ Sezioni 
+
+ Casa e Design 
+
+ Cronaca 
+
+ Cucina 
+
+ Cultura 
+
+ Economia 
+
+ Esteri 
+
+ I tuoi diritti 
+
+ La Zampa 
+
+ Mare 
+
+ Montagna 
+
+ Moda 
+
+ Motori 
+
+ Opinioni 
+
+ Politica 
+
+ Rubriche 
+
+ Salute 
+
+ Scienza 
+
+ Spettacoli 
+
+ Sport 
+
+ Tecnologia 
+
+ TuttoGreen 
+
+ Viaggi 
+
+ Top News 
+
+ Economia e Finanza 
+
+ Edizioni Locali 
+
+ Firme 
+
+ Lettere e Idee 
+
+ Primo Piano 
+
+ Sport 
+
+ Stampa Plus 
+
+ Tempi Moderni 
+
+ TuttoLibri 
+
+ TorinoSette 
+
+ TuttiGusti 
+
+ TuttoLibri 
+
+ TuttoSalute 
+
+ TuttoScienze 
+
+ TuttoSoldi 
+
+ Edizioni Locali 
+
+ Alessandria 
+
+ Asti 
+
+ Aosta 
+
+ Biella 
+
+ Cuneo 
+
+ Imperia e Sanremo 
+
+ Milano 
+
+ Novara 
+
+ Roma 
+
+ Savona 
+
+ Torino 
+
+ Verbano Cusio Ossola 
+
+ Vercelli 
+
+ Vatican Insider 
+
+ Inglese 
+
+ Italiano 
+
+ Spagnolo 
+
+ Servizi 
+
+ Abbonamenti 
+
+ Aste 
+
+ Consigli.it 
+
+ Meteo 
+
+ Necrologie 
+
+ Newsletter 
+
+ Tutto Affari 
+
+ Contatti 
+
+ Scrivi alla Redazione 
+
+ Politica 
+
+ La rivolta degli informatici contro Casaleggio
+
+ “Oscurantismo digitale denunciare un hacker buono”. “Era la piattaforma Rousseau che aveva la porta spalancata”. I più bravi scienziati di dati italiani si offrono pro bono per consulenze a favore dell’indagato “Galois”. E change.org lancia una petizione: “Supportiamo l’hacker etico”
+
+ jacopo iacoboni 
+
+ 08 Febbraio 2018
+
+ Questa mattina, come ormai è noto, la polizia postale ha bussato alla porta di un giovane padovano di 26 anni, L. G. - studente di Matematica - identificato come l’autore di una delle due intrusioni di agosto 2017 nella piattaforma Rousseau - il portale on line (tutt’altro che un sistema operativo) su cui votano gli iscritti M5S, e che detiene tutti i dati della vita di quel partito. Il 2 agosto l’hacker, col nome del matematico francese Evariste Galois, aveva creato un blog per chiarire subito che la sua azione era benevola: «Questo non è un attacco politico. Ho aperto questo sito solamente per avvisare gli iscritti, i loro dati sensibili sono potenzialmente a rischio».
+ L’azione di Galois, spiegarono subito tutti gli informatici che s’interessarono al caso, era abbastanza semplice, dal punto di vista informatico, e palesemente benevola. Cito per esempio la migliore ricostruzione di allora, fatta da Fabrizio Carimati : l’hacker faceva notare che imporre - come in Rousseau - un limite massimo di 8 caratteri per una password era ridicolo. Metteva in luce una serie di vulnerabilità chiamate di tipo SQL injection, ossia vulnerabilità che consentono a chi le sfrutta di leggere arbitrariamente i dati dal database, anche quelli riservati. «Altamente probabile che siano anche alterabili», scriveva Carimati . “Galois” non divulgò dettagli su come sfruttare tali vulnerabilità, comunicò anzi di aver informato i responsabili del sito web. «Lo fa gratis o qualcuno lo paga? Gratis. Non diverso dagli sviluppatori di software open-source che usate tutti quanti. Ricordatelo, grazie».
+ Sorvoliamo sul fatto che lo stesso blog di Grillo aveva già i certificati di sicurezza scaduti. O che entrare in un sito senza crittografia significa essere già di per sé esposti a vulnerabilità serie (tipo MITM, Men-In-The-Middle), come quando ci si collega da un wireless non sicuro usato da tante persone. Sorvoliamo sull’uso di Movable Type, una vecchissima versione 4.2. Sorvoliamo sul fatto che le password fossero decifrabili perché usano una crittazione arcaica (DES / Crypt). Sorvoliamo sui successivi attacchi un altro hacker, “R0gue”, malevolo (black hat). Sorvoliamo sulla successiva sentenza del garante per la privacy, secondo il quale vi è stato un uso irregolare dei dati degli iscritti a Rousseau, ua mancata protezione, e oltretutto una cessione di dati a parti terze (almeno Wind e Itnet, secondo il Garante) senza consenso. Sorvoliamo su tutto questo.
+ Il ringraziamento da Davide Casaleggio a “Galois” (che aveva continuato a fornire informazioni utili all’Associazione Rousseau) è stata una denuncia per questo white hat - in gergo, hacker buono - che ha centinaia di segnalazioni di questo tipo sul suo profilo su OpenBugBounty. È così, sia detto per inciso, che molti esperti di cybersecurity si sono aperti una strada proprio nella sicurezza informatica, iniziando a collaborare con aziende. Com’è ovvio, la reazione di Casaleggio e Di Maio («e ora, i mandanti!»), ha fatto indispettire direi senza eccezioni la comunità informatica.
+ Intanto perché l’azione di “Galois” era stata molto semplice, bonaria nei fini, e non necessita di alcun finanziamento particolare alle spalle, come ha invece ipotizzato Davide Casaleggio. Stefano Fratepietro , ceo di Tesla Consulting, ha osservato su twitter: «Di Maio dice che “attacco hacker di quella portata richiede ingenti risorse economiche”. No, richiede conoscenza delle web application, cultura in materia e qualche tool gratuito disponibile in Internet. No ai complottismi». Stefano Zanero , professore di sicurezza informatica e scienza dei dati al Politecnico di Milano, uno dei più bravi scienziati sulla materia dei dati in Italia, dice: «Denunciare i white hat. Che cosa ridicola. Mi offro pro bono come consulente tecnico di parte». Fabio Pietrosanti , di Globaleaks, rilancia la petrizione di Change: «Supportiamo l’hacker etico Evariste Galois!» ( la petizione è qui ). Matteo Flora parla di «oscurantismo digitale» di Casaleggio: «L’ignoranza dei processi e della tecnologia genera mostri. Come il denunciare chi ti informa di un problema invece di risolverlo. È davvero questa l’Italia della Tecnologia che vogliamo? Quella dell’Oscurantismo Digitale?».
+ Marco Canestrari , informatico, ex dipendente della Casaleggio, fa sapere: È evidente che, se richiesto, saró ben lieto di testimoniare all’eventuale processo a @evaristegal0is circa gli standard di sicurezza adottati in Via Morone 6» (sede della Casaleggio, ndr.). David Puente , informatico e debunker, anche lui ex della Casaleggio, scrive a Casaleggio junior infuriato (lo si deduce dai punti esclamativi): «Davide! Sei arrivato a parlare di “mandanti”, tu e poi a ruota Luigi! Ti rendi conto che stai accusando un bravo ragazzo di essere stato l’esecutore di qualcuno? Stai mettendo alla gogna una persona che voleva aiutarvi, un aiuto che non meritavate per quella piattaforma obsoleta!». 
+ Galois oggi ripete di non aver avuto alcun fine politico, di aver voluto solo aiutare a tappare dei bug, delle falle anche molto gravi e visibili in Rousseau. Gli inquirenti confermano che a loro giudizio è un’azione isolata. La vicenda può essere spartiacque; l’atteggiamento di Davide Casaleggio e Di Maio viene giudicato - non ho trovato eccezioni - del tutto contrario ai principi della comunità informatica - che indica da se stessa i suoi problemi e i suoi bug, e li auto-corregge - e separa in maniera inequivocabile il tandem che guida il Movimento 5 stelle da quel mondo al quale ostentano di appartenere.
+
+ Topnews - Primo Piano 
+
+ La saga degli Inzerillo, dalla guerra di Riina all’esilio negli Usa. E ora il ritorno 
+
+ Usa, la Camera approva una risoluzione di condanna per i tweet razzisti di Trump  
+
+ Diploma elementare per le nonne del paese: “A 90 anni è un sogno” 
+
+ Tutti i video 
+
+ Tutto quello che c'è da sapere sul bagaglio a mano 
+
+ Juventus, Sarri si esalta per una giocata veloce Ronaldo-Higuain: "Oh, ora mi piace" 
+
+ Ecco il grappolo d'uva che costa quanto un'automobile 
+
+ Ultimi articoli 
+
+ Amorosi sensi 
+
+ Welfare Efficiency Piemonte: sostenibilità ambientale e servizi per il welfare dei cittadini 
+
+ Festa Toro in piazza a Bormio. Mazzarri: “Niente proclami, ma fatti come un anno fa: lavoriamo per migliorarci...” 
+
+ Scrivi alla redazione 
+
+ Pubblicità 
+
+ Dati Societari 
+
+ Contatti 
+
+ Privacy 
+
+ Sede 
+
+ GNN - GEDI gruppo editoriale S.p.A. 
+
+ Codice Fiscale 06598550587 
+
+ P.iva 01578251009 
+
+ Società soggetta all’attività di direzione e coordinamento di CIR S.p.A.

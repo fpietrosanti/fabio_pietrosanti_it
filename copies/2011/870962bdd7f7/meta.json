@@ -1,0 +1,11 @@
+{
+ "source_url": "https://events.ccc.de/camp/2011/wiki/GlobaLeaks",
+ "fetched_url": "https://web.archive.org/web/20110721194941id_/http://events.ccc.de/camp/2011/wiki/GlobaLeaks",
+ "method": "wayback",
+ "capture": "20110721194941",
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 34153,
+ "sha256": "6b0e85141615fb99af930288879e8c5ebd087e039aac430fff87f73b05b53e3f",
+ "name_found": true,
+ "fetched_at": "2026-09-17T09:20:20+00:00"
+}

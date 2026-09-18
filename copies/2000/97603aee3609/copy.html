@@ -1,0 +1,287 @@
+<meta charset="utf-8"><!-- MHonArc v2.6.16 -->
+<!--X-Head-End-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://seclists.org/rss/vuln-dev.rss">
+<title>Vulnerability Development: Possible DOS in Bind 8.2.2-P5</title>
+<meta name="Subject" content="Possible DOS in Bind 8.2.2-P5"/>
+<meta name="Author" content="Fabio Pietrosanti (naif)"/>
+<link REL="SHORTCUT ICON" HREF="/shared/images/tiny-eyeicon.png" TYPE="image/png">
+<META NAME="ROBOTS" CONTENT="NOARCHIVE">
+<link rel="stylesheet" href="/shared/css/insecdb.css" type="text/css">
+<!--Google Analytics-->
+
+
+<!--Google Custom Site Search boilerplate Javascript-->
+
+<!--End Google Custom Site Search boilerplate Javascript-->
+
+</HEAD>
+<BODY BGCOLOR="#2A0D45" TEXT="#000000"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://seclists.org/vuln-dev/2000/Nov/82">seclists.org/vuln-dev/2000/Nov/82</a> · captured 2013-08-10 · scripts removed</div>
+
+<TABLE CELLPADDING="0" WIDTH="100%" CELLSPACING="0">
+<TR><TD ALIGN="left"><A HREF="/"><IMG BORDER=0 ALT="Home page logo"
+SRC="/images/sitelogo.png" HEIGHT=90 WIDTH=168></A></TD>
+<TD VALIGN="bottom" ALIGN="right">
+<!-- Begin TopBanner Code -->
+<!-- AdSpeed.com Serving Code 7.9.5 for [Zone] TopBanner [Any Dimension] -->
+
+<!-- AdSpeed.com End -->
+<!-- End Banner Code -->
+
+</TD></TR></TABLE>
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0"><TR>
+<TD ALIGN="left" WIDTH="130" VALIGN="top" class="sidebar">
+
+<!-- SECWIKI PORTAL INSERT -->
+
+<ul>
+<li><a href="http://nmap.org/">Nmap Security Scanner</a>
+<ul>
+<li><a href="http://nmap.org/">Intro</a></li>
+<li><a href="http://nmap.org/book/man.html">Ref Guide</a></li>
+<li><a href="http://nmap.org/book/install.html">Install Guide</a></li>
+<li><a href="http://nmap.org/download.html">Download</a></li>
+<li><a href="http://nmap.org/changelog.html">Changelog</a></li>
+<li><a href="http://nmap.org/book/">Book</a></li>
+<li><a href="http://nmap.org/docs.html">Docs</a></li>
+</ul>
+<li><a href="http://seclists.org/">Security Lists</a>
+<ul>
+<li><a href="http://seclists.org/nmap-hackers/">Nmap Hackers</a></li>
+<li><a href="http://seclists.org/nmap-dev/">Nmap Dev</a></li>
+<li><a href="http://seclists.org/bugtraq/">Bugtraq</a></li>
+<li><a href="http://seclists.org/fulldisclosure/">Full Disclosure</a></li>
+<li><a href="http://seclists.org/pen-test/">Pen Test</a></li>
+<li><a href="http://seclists.org/basics/">Basics</a></li>
+<li><a href="http://seclists.org/">More</a></li>
+</ul>
+<li><a href="http://sectools.org">Security Tools</a>
+<ul>
+<li><a href="http://sectools.org/tag/crackers/">Pass crackers</a></li>
+<li><a href="http://sectools.org/tag/sniffers/">Sniffers</a></li>
+<li><a href="http://sectools.org/tag/vuln-scanners/">Vuln Scanners</a></li>
+<li><a href="http://sectools.org/tag/web-scanners/">Web scanners</a></li>
+<li><a href="http://sectools.org/tag/wireless/">Wireless</a></li>
+<li><a href="http://sectools.org/tag/sploits/">Exploitation</a></li>
+<li><a href="http://sectools.org/tag/packet-crafters/">Packet crafters</a></li>
+<li><a href="http://sectools.org/">More</a></li>
+</ul>
+<li><a href="http://insecure.org/">Site News</a></li>
+<li><a href="http://insecure.org/advertising.html">Advertising</a></li>
+<li><a href="http://insecure.org/fyodor/">About/Contact</a></li>
+<li>
+<!-- SiteSearch Google -->
+<form action="http://insecure.org/search.html" id="cse-search-box-sidebar">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="16">
+    <input type="submit" name="sa" value="Site Search">
+  </div>
+</form>
+<!-- End SiteSearch Google -->
+</li>
+<!-- These can come back if I ever update them ...
+<li><a href="http://insecure.org/links.html">Exceptional Links</a></li>
+<li><a href="http://insecure.org/reading.html">Good Reading</a></li>
+<li><a href="http://insecure.org/sploits.html">Exploit World</a></li>
+-->
+<li><a href="http://insecure.org/advertising.html">Sponsors:</a>
+
+<!-- Begin Sidebar 1 Banner Code -->
+<!-- Modified random image selection code -- original version at
+     http://www.bravenet.com/reviews/archives/tips.php?view=8 -->
+
+<NOSCRIPT>
+<A HREF="http://www.acunetix.com/vulnerability-scanner/download.htm"><IMG SRC="/shared/images/p/Acunetix/120x90_Scanner.gif" BORDER=0 HEIGHT=90 WIDTH=120 ALT="Acunetix"></A>
+</NOSCRIPT>
+
+<!-- End Sidebar 1 Banner Code -->
+
+<BR><BR>
+
+<!-- Begin Sidebar 2 Banner Code -->
+<!-- Modified random image selection code -- original version at
+     http://www.bravenet.com/reviews/archives/tips.php?view=8 -->
+
+<NOSCRIPT>
+<A HREF="https://www.mavitunasecurity.com/netsparker-trial-download/detect-web-application-security-vulnerabilities/?utm_source=insecure&utm_medium=banner&utm_campaign=scan4xsql"><IMG SRC="/shared/images/p/mavituna/scan4xsql_oranga_120x90.gif" BORDER=0 HEIGHT=90 WIDTH=120 ALT="Mavituna Security"></A>
+</NOSCRIPT>
+
+<!-- End Sidebar 2 Banner Code -->
+
+<BR><BR>
+
+
+</TD>
+<TD BGCOLOR="#FFFFFF" VALIGN="top" ALIGN="left"><IMG
+SRC="/shared/images/topleftcurve.gif" alt="/"><TABLE CELLPADDING="4" WIDTH="100%" style="table-layout: fixed;"><TR><TD BGCOLOR="#FFFFFF">
+
+<!--X-Body-Begin-->
+<!--X-User-Header-->
+<p>
+
+<FONT SIZE="+1"><a href="http://seclists.org/vuln-dev/">Vulnerability Development</a>
+mailing list archives</FONT><br>
+<!--X-User-Header-End-->
+<!--X-TopPNI-->
+<!-- Google Custom SiteSearch -->
+<form action="http://insecure.org/search.html" id="top-search-box">
+<a href="81"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#82">By Date</a>&nbsp;&nbsp;<a href="83"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="104"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#82">By Thread</a>&nbsp;&nbsp;<a href="87"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="24" />
+    <input type="submit" name="sa" value="Search" />
+</form>
+
+<!-- End Google Custom SiteSearch -->
+</p>
+
+<!--X-TopPNI-End-->
+<!--X-MsgBody-->
+<!--X-Subject-Header-Begin-->
+<font size="+2"><b>Possible DOS in Bind 8.2.2-P5</b></font>
+<hr>
+<!--X-Subject-Header-End-->
+<!--X-Head-of-Message-->
+
+
+<em>From</em>: &quot;Fabio Pietrosanti (naif)&quot; &lt;fabio () TELEMAIL IT&gt;<br>
+
+<em>Date</em>: Tue, 7 Nov 2000 19:57:22 +0100<br>
+
+<!--X-Head-of-Message-End-->
+<!--X-Head-Body-Sep-Begin-->
+<hr>
+<!--X-Head-Body-Sep-End-->
+<!--X-Body-of-Message-->
+<pre style="margin: 0em;">Hi,
+playing with bind and ZXFR feature ( zone transfer compressed with a possible insecure
+execlp(&quot;gzip&quot;, &quot;gzip&quot;, NULL); ), i discovered a Denial Of Service against Bind 8.2.2-P5 .
+
+By default Bind 8.2.2-P5 it&apos;s not compiled with ZXFR support unless you define it with #define BIND_ZXFR
+so it will refuse any ZXFR transfer, because it doesn&apos;t support it.
+But now what appens? Look here...
+
+################################
+zone to transfer: zone.pippo.com
+dns server:       dns.pippo.com 192.168.1.1
+me:               naif.gatesux.com 10.10.10.10
+I send a Zone Trasnfer request using &quot;-Z&quot; switch with means that i wish to use ZXFR.
+dns.pippo.com does&apos;nt support ZXFR and have &quot;allow-transfer{}&quot; not configured, so everyone
+could ask him for *.zone.pippo.com ...
+
+&lt;naif () naif&gt; [~/bind/src822p5/bin/named-xfer] $ ./named-xfer  -z zone.pippo.com  -d 9 -f pics -Z dns.pippo.com
+named-xfer[29297]: send AXFR query 0 to 192.168.1.1
+named-xfer[29297]: premature EOF, fetching &quot;zone.pippo.com&quot;
+
+On the server&apos;s log:
+Nov  7 11:19:09 dns.pippo.com: named[188510]: approved ZXFR from [10.10.10.10].2284 for &quot;zone.pippo.com&quot;
+Nov  7 11:19:09 dns.pippo.com: named[188510]: unsupported XFR (type ZXFR) of &quot;zone.pippo.com&quot; (IN) to [10.10.10.10].2284
+
+Then the server &quot;*** CRASHED ***&quot; .
+
+I should assume that bind 8.2.2-P5 it&apos;s vulnerable ( Please someone test and confirm this kind of dos)
+and bind-9.0.0 has no support for ZXFR .
+
+&lt;naif () naif&gt; [~/bind] $ find src822p5/ -type f -exec grep -i zxfr \{\}  &apos;;&apos; | wc -l
+    234
+&lt;naif () naif&gt; [~/bind] $ find bind-9.0.0/ -type f -exec grep -i zxfr \{\}  &apos;;&apos; | wc -l
+      0
+
+A lot of DNS Server are misconfigured, and allow zone-transfer to any, so they are dossable...
+
+
+naif
+naif () itapac net
+
+</pre>
+<!--X-Body-of-Message-End-->
+<!--X-MsgBody-End-->
+<!--X-Follow-Ups-->
+<hr>
+<!--X-Follow-Ups-End-->
+<!--X-References-->
+<!--X-References-End-->
+<!--X-BotPNI-->
+<p>
+<a href="81"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#82">By Date</a>&nbsp;&nbsp;<a href="83"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="104"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#82">By Thread</a>&nbsp;&nbsp;<a href="87"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+</p>
+<font size="+1"><b>Current thread:</b></font>
+<ul style="margin-top: 0em">
+<li><strong>Possible DOS in Bind 8.2.2-P5</strong> <em>Fabio Pietrosanti (naif) (Nov 09)</em>
+<ul>
+<li><a name="87" href="87">Re: Possible DOS in Bind 8.2.2-P5</a> <em>Przemyslaw Frasunek (Nov 09)</em>
+<ul>
+<li><a name="95" href="95">Re: Possible DOS in Bind 8.2.2-P5</a> <em>Fabio Pietrosanti (naif) (Nov 09)</em>
+</li>
+</ul>
+</li>
+<li><a name="93" href="93">Re: Possible DOS in Bind 8.2.2-P5</a> <em>Tomasz Grabowski (Nov 09)</em>
+</li>
+<li><a name="98" href="98">Re: Possible DOS in Bind 8.2.2-P5</a> <em>Guy Cohen (Nov 09)</em>
+</li>
+<li><a name="101" href="101">Re: Possible DOS in Bind 8.2.2-P5</a> <em>Mariusz Marcinkiewicz (Nov 09)</em>
+<ul>
+<li><a name="108" href="108">Re: Possible DOS in Bind 8.2.2-P5 (my fault, sorry)</a> <em>Mariusz Marcinkiewicz (Nov 10)</em>
+</li>
+<li><a name="112" href="112">Re: Possible DOS in Bind 8.2.2-P5</a> <em>Olaf Kirch (Nov 11)</em>
+<ul>
+<li><a name="114" href="114">Re: Possible DOS in Bind 8.2.2-P5</a> <em>Paul A Vixie (Nov 11)</em>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a name="109" href="109">Re: Possible DOS in Bind 8.2.2-P5</a> <em>Daniel Roesen (Nov 10)</em>
+</li>
+<li><a name="141" href="141">Re: Possible DOS in Bind 8.2.2-P5</a> <em>fire-eyes (Nov 15)</em>
+</li>
+</ul>
+</li>
+<em>(Thread continues...)</em>
+</ul>
+
+
+<!--X-BotPNI-End-->
+<!--X-User-Footer-->
+<!--X-User-Footer-End-->
+</TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD></TD><TD ALIGN="center">
+<FONT COLOR="#FFFFFF">
+[ <A HREF="http://nmap.org"><FONT COLOR="#FFFFFF">Nmap</FONT></A> |
+  <A HREF="http://sectools.org"><FONT COLOR="#FFFFFF">Sec Tools</FONT></A> |
+  <A HREF="http://seclists.org/"><FONT COLOR="#FFFFFF">Mailing Lists</FONT></A> |
+  <A HREF="http://insecure.org/"><FONT COLOR="#FFFFFF">Site News</FONT></A> |
+  <A HREF="http://insecure.org/fyodor/"><FONT COLOR="#FFFFFF">About/Contact</FONT></A> |
+  <A HREF="http://insecure.org/advertising.html"><FONT COLOR="#FFFFFF">Advertising</FONT></A> |
+  <A HREF="http://insecure.org/privacy.html"><FONT COLOR="#FFFFFF">Privacy</FONT></A> ]<BR>
+</FONT>
+
+<!-- SiteSearch Google -->
+<gcse:searchbox-only></gcse:searchbox-only>
+<!-- End SiteSearch Google -->
+
+<!-- Bottom Banner -->
+
+
+<!-- End Bottom Banner -->
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>
+
+

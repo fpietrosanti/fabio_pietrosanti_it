@@ -1,0 +1,477 @@
+Firewall Wizards: Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response* 
+
+ Nmap Security Scanner 
+
+ Intro 
+
+ Ref Guide 
+
+ Install Guide 
+
+ Download 
+
+ Changelog 
+
+ Book 
+
+ Docs 
+
+ Security Lists 
+
+ Nmap Hackers 
+
+ Nmap Dev 
+
+ Bugtraq 
+
+ Full Disclosure 
+
+ Pen Test 
+
+ Basics 
+
+ More 
+
+ Security Tools 
+
+ Pass crackers 
+
+ Sniffers 
+
+ Vuln Scanners 
+
+ Web scanners 
+
+ Wireless 
+
+ Exploitation 
+
+ Packet crafters 
+
+ More 
+
+ Site News 
+
+ Advertising 
+
+ About/Contact 
+
+ Exceptional Links 
+
+ Good Reading 
+
+ Exploit World 
+
+-->
+ Sponsors: 
+
+ Firewall Wizards 
+mailing list archives 
+
+    By Date    
+
+    By Thread    
+
+ Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response* 
+
+ From : Fabio Pietrosanti <naif () sikurezza org>
+
+ Date : Mon, 19 Mar 2001 16:52:58 +0100 (CET)
+
+ The only misconfiguration i could see it's about "tcp intercept" and now
+testing it's in progress about this feature.
+
+All comment that made Lisa Napier seems to confirm the test i submitted.
+
+In private mail i received many mail about this pix notes of ppl exposing
+me disappoint about pix logging, about pix smtp... about the check of ip
+checksum... my paper was only few notes about pix, and i think that in few
+time other ppl will write something like this.
+
+Which terms should I have violated?
+
+I'm not directly in PIX v6.0 beta program, but i could see pix 6 .
+
+naif
+
+naif () sikurezza org
+naif () Undernet #sikurezza
+
+p.s. sorry for my very bad english...
+
+On Fri, 16 Mar 2001, Brian Ford wrote:
+
+Here is the Cisco response to the supposed PIX issues submitted to Bugtraq
+on 3/9/01.
+
+In summary, most of these issues were produced due to the authors
+mis-configuration of the product. Other notes included by the author
+are either partially accurate, and/or previously announced issues that
+have been documented by Cisco Systems. In some cases Cisco PSIRT have
+filed feature requests to include items in future releases.
+
+Note that the original author enrolled in and subsequently violated the
+terms of the PIX v6.0 beta program.
+
+The following is the official Cisco response to the notes posted to BugTraq.
+
+Date: Thu, 15 Mar 2001 22:53:29 -0800
+To: "Fabio Pietrosanti (naif)" <naif () INET IT>, BUGTRAQ () SECURITYFOCUS COM
+From: Lisa Napier <lnapier () cisco com>
+Subject: Re: Cisco PIX Security Notes *Vendor Response*
+
+Hi Fabio,
+
+Here is our response after being able to analyze and test your assertions.
+
+In summary, most of these issues are either misconfigurations, partially
+accurate, and/or previously documented. In some cases we have filed
+feature requests to include items in future releases.
+
+Thank you again for your notes regarding PIX version 5.3. We appreciate
+the courtesy of customers who notify us first, but understand that some do
+not feel vendor notification is necessary. As a reminder, you are a
+registered participant in the PIX 6.0 beta program, and with respect to any
+findings you may have in the PIX beta software, we request that your
+feedback be sent directly to Cisco per the beta agreement.
+
+Comments inline - I used "++++++++++" to separate my comments, and also
+noted where text was elided for the sake of brevity.
+
+At 07:32 PM 03/09/2001 +0100, Fabio Pietrosanti (naif) wrote:
+Working with Cisco PIX Firewall i wrote some note about possible security
+problem of Cisco PIX .
+
+ All test it's about THE latest pix release on this pix:
+ *****************************************
+ Cisco Secure PIX Firewall Version 5.3(1)
+ <text elided>
+
+ -----------------------------------------------------------------
+ -- Cisco PIX Firewall Logging Feature when firewall is probed.
+
+++++++++++++
+
+The PIX Firewall requires that telnet and CSPM/PFM access to the outside
+interface be IPsec protected. See the reference below for more details.
+
+< http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223370 >
+
+In regards to the syslog messages from fragmented SYN, the PIX rejects IP
+fragments that overlap with the transport control fields. See the
+reference below for more details.
+
+< http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/syslog/pixemsgs.htm#xtocid234732 >
+
+++++++++++++
+
+ This is what appens when a pix was probed directly from outside world.
+ note: pix is using "logging console debug"
+ note: on every tcp packet to 23/tcp or 1467/tcp of the pix log:
+402106: Rec'd packet not an IPSEC packet.
+ <text elided>
+
+ Logging with this release has many problem, but we tested 6.0 beta and
+some of other problem was resolved.
+
+ -----------------------------------------------------------------
+ -- Cisco PIX Firewall syn flood * EASY DOS WITH PIX
+
+++++++++++++
+
+This is inaccurate. TCP Intercept is disabled in your configuration, as
+you point out yourself.
+
+ static (naif,outside) external_spyzone 192.168.3.3 netmask
+255.255.255.255 0 0 <-- No connection limit
+
+To enable TCP Intercept, use a non-zero embryonic limit in the static
+command. See the reference below for more details.
+
+< http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223367 >
+
+++++++++++++
+
+ For this testing I've installed a webserver on 192.168.3.3 statically
+mapped to external_spyzone.
+
+<text elided>
+ ------------------------------------------------------------------
+ -- Cisco PIX Memory Fill
+++++++++++++
+The depletion of memory is *only* possible with hosts that are specifically
+permitted in the telnet list. Additionally, external hosts permitted in
+the telnet list must also connect via IPSEC in order to exploit this issue.
+
+To control access to the management port 1467, use the telnet command. See
+the following reference for more details.
+
+< http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223370 >
+
+However, to prevent malicious administrators from flooding the PFM
+management console with invalid commands, bug ID CSCdt69667 has been
+submitted.
+
+++++++++++++
+
+ <text elided>
+
+ ------------------------------------------------------------------
+ -- Cisco does not check spoofing under certain condition ( ssh port )
+ For this test I enabled ssh from outside host with:
+++++++++++++
+
+This issue has already been resolved with the defect ID CSCdt02132, which
+is available via an interim version of 5.3 software. The PIX will verify
+the permission status with the SSH list before replying to a TCP connection
+setup.
+
+Also, to ensure consistency, a feature request, CSCdt69676, has been
+submitted to
+extend Unicast Reverse Path Forwarding to traffic that terminates at the
+PIX interface.
+
+++++++++++++
+
+ ssh naif_ip 255.255.255.255 outside
+
+ For some reason PIX disable anti-spoofing check when packet
+ are destinated to pix on SSH port.
+<text elided>
+ --------------------------------------------------------------------
+ -- Cisco does not check spoofing under certain condition ( PPTP port )
+++++++++++++
+
+IP address access control to the PPTP server is of limited
+value. Addresses of hosts that access the PPTP server are typically
+dynamic. In addition, PPTP has its own mechanisms for user authentication.
+
+However, we recognize that a mechanism to control IP traffic that
+terminates at the PIX does improve the management. A feature request,
+CSCdr84190, was logged some time ago, but has yet to be implemented.
+
+Also, a feature request, CSCdt69676, to extend Unicast Reverse Path
+Forwarding to traffic that terminates at the PIX has also been logged.
+
+++++++++++++
+
+ For this test I enabled pptp from outside with this configuration:
+<text elided>
+
+ ------------------------------------------------------------------
+ -- Cisco PIX SMTP Fixup not working properly
+++++++++++++
+
+This is inaccurate. The PIX groups the SMTP commands into three sets.
+
+In the first set are the required commands (HELO, RSET, NOOP, QUIT,
+MAIL, RCPT, and DATA) in RFC821. These are the generic seven permitted by
+the PIX SMTP fixup command.
+
+In the second set are the optional commands (EHLO, SOML, SEND, SAML,
+VRFY, EXPN. HELP, and TURN) in RFC821. These commands are translated by
+the PIX SMTP fixup protocol to X's and the arguments are left intact.
+
+In the third set are invalid or ESMTP commands. In this case, the full
+command lines are translated by the PIX SMTP fixup command to X's.
+
+The important item to note is that a SMTP server protected by the PIX
+can assume that a well behaved client will only use commands from
+RFC821. All these commands are of four bytes, followed by a space and
+finally the argument. To ensure that valid SMTP sessions are terminated,
+the PIX preserves the above format by rewriting only the first four bytes.
+
+However, we recognize that translating all arguments except spaces can
+also preserve the syntax of RFC821 commands. A feature request,
+CSCdt70457, has
+been submitted to translate all arguments except spaces to X's.
+
+Additionally, we recognize that an audit event is useful when the PIX
+rejects a command. An enhancement request, CSCdt69727, has also been
+submitted.
+
+++++++++++++
+
+ Ok, Ok, now fixup isn't bypassable but It will not rewrite completely
+ our command .
+
+ PIX normally allow NOOP,HELO,DATA,MAIL FROM,RCPT TO, QUIT command
+ but what happens if I write, as for example, "pixsux" ?
+
+ <text elided>
+
+ ------------------------------------------------------------------
+ -- Cisco PIX doesn't check for bad checksum in ip header.
+++++++++++++
+
+This is incorrect. The PIX does verify the IP checksum and discard packets
+with incorrect IP checksum.
+
+I believe you are referring to TCP checksum. PIX does not verify the TCP
+checksum. TCP checksums are end-to-end and verifying these values will
+cause some applications to fail.
+
+In general, cryptographic applications that use TCP as a transport often do
+not maintain the TCP checksum. Instead, stronger cryptographic mechanisms,
+such as HMAC, are used to detect packet modification.
+
+++++++++++++
+
+ While playing with hping and pix I noticed that pix doesn't check the
+ checksum of the ip header and forward the packet inside the pix .
+
+ Look here, we'll send 2 packets:
+
+ * First ( with wrong checksum)
+ naif:~/isic-0.05# hping -S -badcksum -c 1 -p 25 spyzone -k -M 0 -o
+0x10 -w 0 -t 0 -N 1
+ eth0 default routing interface selected (according to /proc)
+ HPING spyzone (eth0 external_spyzone): S set, 40 headers + 0 data bytes
+
+ --- spyzone hping statistic ---
+ 1 packets tramitted, 0 packets received, 100% packet loss
+ round-trip min/avg/max = 0.0/0.0/0.0 ms
+
+ * Second (with correct checksum)
+
+ naif:~/isic-0.05# hping -S -s 2154 -c 1 -p 25 spyzone -k -M 0 -o 0x10
+-w 0 -t 0 -N 1
+ eth0 default routing interface selected (according to /proc)
+ HPING spyzone (eth0 external_spyzone): S set, 40 headers + 0 data bytes
+ 46 bytes from external_spyzone: flags=SA seq=0 ttl=64 id=29461
+win=32696 rtt=1.6 ms
+
+<text elided>
+
+ ------------------------------------------------------------------
+ -- Cisco PIX and ICMP
+++++++++++++
+
+Being able to ping the PIX interface is a useful troubleshooting tool
+during the installation process, particularly for new firewall
+administrators. We expect that experienced firewall administrators will
+disable the service, and are familiar enough with security protocols to do
+so, once the unit is installed and basic connectivity verified. This was
+not a random decision, but carefully considered with significant review of
+the cause of customer calls to the Cisco Technical Assistance Center.
+
+To control icmp traffic that terminates at the PIX, use the icmp
+command. In our configuration guide, we specifically recommend customers
+to disable icmp after the unit has been set up and connectivity is
+verified. See the references below for more details.
+
+ http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid223328 
+
+ http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/config.htm#xtocid2987332 
+++++++++++++
+
+ For some stupid reason Cisco PIX with default setting accepts icmp
+echo-request
+ destinated to the pix from any source.
+
+ You could send a maximum of an icmp echo-request fragmented into
+ 12 packets having the maximum size of the media ( 1500 for ethernet ) .
+<text elided>
+
+ --------------------------------------------------------------
+ --- Cisco PIX Firewall Semantic Problem
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+There are many mis-understandings about the functions of Access Control
+Lists within this paper. Allow us to clarify some of those items.
+
+There is no requirement that the same access-list be used on all
+interfaces. Different interfaces can and in most cases should have
+different ACLs.
+
+Access Control Lists are always used to select inbound traffic to an interface.
+An Access Control List does not behave differently on different interfaces.
+
+IOS Access lists do provide flexibility in choosing to apply lists to
+inbound or outbound traffic per interface, however, an access list for
+traffic that is applied outbound on one interface is effectively applied
+inbound on all other interfaces. The elimination of this option in the PIX
+means that disallowed packets are discarded at the earliest possible point,
+rather than the last possible point, when we've already spent processor
+time to do address translation, or routing, or whatever. We eliminate the
+possibility to waste processing time on something we're going to discard
+anyway.
+
+In general, PIX access-list is similar to IOS access-lists. The main
+differences are that access-groups are only applied on the inbound
+direction on any given interface, AND, the wildcard mask on the PIX is the
+inverse as that on IOS - meaning that it is a 'standard' mask rather than
+the inverted mask of IOS.
+
+See the references below for further details.
+
+ http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid22333 
+
+ http://www.cisco.com/univercd/cc/td/doc/product/iaabu/pix/pix_v53/config/commands.htm#xtocid22334 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ This is an article about how you could apply filter on the pix and
+ we talk about pix common misconfiguration.
+
+ * Semantic Problem
+
+ First of all, you know that a Firewall , for security reasons, needs
+ filter should be applied for packet flowing in and out on each
+interface, ok?
+ With Cisco IOS you can do it, with Checkpoint you can do it, with
+ipchains/netfilter/ipfilter/ipfw you
+ can do it, with Sonicwall you can do it!! And with PIX? no, with pix
+you cannot have different
+ access-lists for different interfaces, for different traffic ( in,
+out ) !
+
+ Old pix uses a stupid concept of outbound/conduit, but now since
+5.1(1) we could use
+ access-list .
+<text elided>
+
+ my 2 cents
+
+ Fabio Pietrosanti ( naif )
+ naif () sikurezza org
+ naif () Undernet #sikurezza
+ Thanks to vodka for her support :*
+
+Thank you for your attention,
+
+Lisa Napier
+Product Security Incident Response Team
+Cisco Systems
+ http://www.cisco.com/warp/public/707/sec_incident_response.shtml 
+
+PGP: A671 782D 2926 B489 F81A 3D5E B72F E407 B72C AF1F
+ID: 0xB72CAF1F, DH/DSS 2048/1024
+
+_______________________________________________
+firewall-wizards mailing list
+firewall-wizards () nfr com
+ http://www.nfr.com/mailman/listinfo/firewall-wizards 
+
+_______________________________________________
+firewall-wizards mailing list
+firewall-wizards () nfr com
+ http://www.nfr.com/mailman/listinfo/firewall-wizards 
+
+    By Date    
+
+    By Thread    
+
+ Current thread: 
+
+ Cisco PIX Security Notes posted to BugTraq *Vendor Response* Brian Ford (Mar 18) 
+
+ Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response* Fabio Pietrosanti (Mar 19) 
+
+[ Nmap |
+ Sec Tools |
+ Mailing Lists |
+ Site News |
+ About/Contact |
+ Advertising |
+ Privacy ]

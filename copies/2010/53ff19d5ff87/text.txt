@@ -1,0 +1,615 @@
+Voice of VOIPSA » Blog Archive » VoIP Firewall: Telephony vs Security world 
+
+ Voice of VOIPSA 
+
+ Collective thoughts and musings on the state of VoIP security today.
+
+ « VoIP Attackers – Sometimes They Come Back 
+
+ VoIP Firewall: Telephony vs Security world 
+
+ October 5th, 2010 by Fabio Pietrosanti 
+
+ During that period i started to deeply understand and evaluate matters related to the protection of VoIP related infrastructure against attacks and the diffused technologies for signaling and VoIP encryption.
+
+ I investigated the concept of “ SIP Firewalls ” and “ VoIP Firewalls ” and found that in this area there’s a lot of confusion and misunderstanding among the IT/Telephony and IT Security users given the fact that the VoIP telephony and IT Security world usually speak a different language.
+
+ I understood that there is a clear increasing interest by IT security world in VoIP protection even if most of the VoIP security product out there are more oriented to Telephony specialist than to Security specialist.
+
+ Security products or telephony products? 
+
+ The market is very fragmented and it’s plenty of
+
+ Telephony Gateway doing something about Security
+
+ Telephony PBX with some Security feature
+
+ Security Gateway doing something about Telephony
+
+ It must be clearly identified whether a specific kind of device/product it’s something “ doing more things about security ” or “ doing more things about telephony ” .
+
+ That’s especially important because it must be understood whether a product can be used by who works in security or by who works in telephony , also because the knowledge required to approach a security product it’s different to approach a voip product .
+
+ I know plenty of VoIP specialist that doesn’t know about UTM, IPS, DPI and VPN technologies.
+
+ I know plenty of Security specialist that doesn’t know about SIP, RTP, VoIP protocols and architectures.
+
+ Finding out specialist of VoIP and Security together it’s a rare thing.
+
+ So it’s relevant to look at the full feature set and at the USP (Unique Selling Points) of various products to identify whether a product it’s something for the Telephony part of the world or for the Security part of the world.
+
+ We must expect that a Security product require very little understanding of Telephony while a Telephony product require very little understanding of Security.
+
+ What SIP/VoIP Firewall do? 
+
+ When we glue together the terms “VoIP/SIP” and “Firewall” we generally have different understanding depending on the world from where we come.
+
+ Especially different kind of users consider valuable completely different kind of product features that can be identified as follow:
+
+ Telephony world 
+
+ Networking and NAT related issue resolution
+
+ SIP compatibility among different vendors
+
+ Quality of Service and traffic prioritization
+
+ Easier VoIP trunking
+
+ Security world 
+
+ SIP security protocol inspection
+
+ Closing doors by letting only minimum traffic to goes in/out firewalls (ip filtering)
+
+ Denial of Service prevention
+
+ SIP signaling and voice encryption
+
+ That said it’s clear that the expectation of what a “SIP Firewall” should deliver it’s perceived very differently among different sectors.
+
+ T elephony world care about making things works and dealing all networking/NAT/compatibility pain of VoIP , especially because of the need to integrate very old and big PBX with new extensions.
+
+ Security world care about protecting the server behind their firewalls against intrusion and information integrity/confidentiality (eavesdropping for phone calls).
+
+ Organization issues 
+
+ From the organization point of view it’s also highly relevant to understand the different duties and behaviour related to Security department and IT/telephony department.
+
+ Security guys are the ones who manage the security control the firewalls and have the authority of defining what exit to the internet and that can get inside the different levels of corporate perimeters (such as DMZ and internal networks). When someone from within the organization need to expose a service to the internet they are the one saying yes/no and at which conditions.
+
+ Requests to expose internet services could come from the IT department for some server but also the accounting department for SAP and even the marketing department for some website.
+
+ When request come for telephony equipment the security always get worried.
+
+ That’s because the typical firewall setup use NAT and the Telephony guys know that putting a VoIP server behind a NAT, even controlled by a firewall could be very problematic for what’s related to the SIP protocol handling.
+
+ So Telephony guys ask to Security guys to have their gateway placed outside the firewall.
+
+ Aaaaaaaaaaargh! The Security guy will say! That’s not possible! The traffic flow must be under our control! Otherwise how could we protect the VoIP infrastructure from attacks delivered via SIP protocol and Denial of Service?
+
+ So the relationship between Security world and telephony world in a large organization can be very problematic.
+
+ Now add the fact that the Security department may require to protect the confidentiality of mobile and landline phone calls, something that’s considered a really sensitive matter and cannot be delegated to the IT/Telephony.
+
+ Who have to handle the VoIP encryption project? The Telephony department know about VoIP but only a few about Security or but the Security department know about security/crypto but only few about VoIP.
+
+ So the matter can be complicated, even more if the infrastructure and hardware/software setup include multiple different technologies and/or particular telephony services (such as multiple trunking, IVR, Queue, Call forwarding, etc, etc) that are out-of-the-scope respect to the need of protecting phone call.
+
+ Now, let’s see what’s on the market? 
+
+ Let’s make some review of what’s on the market.
+
+ I will just refer the major and more known products by splitting products in 3 different categories (It’s oversimplified but effective) :
+
+ VoIP firewalls with voice encryption
+
+ VoIP PBX with VoIP encryption
+
+ Firewalls with SIP protection
+
+ The first two sets are products dedicated to Telephony world where a specific telephony related knowledge is required while the Firewall, now referred as UTM (Unified Threat Management) are systems requiring specific IT security knowledge.
+
+ VoIP firewall with voice encryption 
+
+ The described below VoIP firewall does all the typical VoIP firewall features related to NAT/Networking, Quality of Service and SIP compatibility, but provide also an external interface to connection VoIP clients with voice encryption protocol with SIP/TLS and SRTP.
+
+ UM LABS SIP Security Controller 
+
+ Ingate Firewalls 
+
+ SIPera UC-SEC SIP firewall
+
+ If the specific infrastructure is using and old and outdated PBX software that may be difficult to be upgraded, then as a workaround a SIP firewall it’s needed.
+
+ If a specific infrastructure is using modern PBX software with basic security features, then a SIP firewall it’s not usually needed.
+
+ VoIP PBX with Voice Encryption 
+
+ There are several PBX and SBC (Session Border Controller) that speak the VoIP encryption technologies of SIP/TLS and SRTP and among them the most known are:
+
+ - Asterisk 1.8
+
+ - FreeSWITCH 1.0.3
+
+ - Cisco VoIP PBX and SBC 
+
+ All those VoIP equipments already support signaling and voice encryption without any need of adding different piece to the puzzle and those PBX can be connected to existing PBX acting as a gateway between secure users and existing users on old internal PBX.
+
+ For what apply to the protection against brute forcing and extension enumeration (finding your VoIP phone account on PBX) most now PBX support some native protection features while additional protection can be always provided with the pluggable anti-brute-force and anti-user-enumeration module such as ossec (For Asterisk and for FreeSWITCH ) or Fail2ban .
+
+ Firewalls with SIP protection 
+
+ Within the environment of firewalls we can find two different kind of SIP related features:
+
+ SIP Security Inspection: For enforcing SIP protocol inspection and direct attack protection
+
+ SIP ALG: For fixing NAT and SIP related networking issues
+
+ We are interested only in the device that provide a wide level of protection and will not refer Firewalls that just do SIP ALG for NAT adaptation.
+
+ While SIP protection is provided by Sonicwall, Checkpoint and Fortinet i think would say that Cisco is the most advanced one as it’s the only Firewall that support natively also VoIP encryption by leveraging the concept of VPN to VoIP.
+
+ Cisco ASA Firewall SIP/TLS Proxy and Phone Proxy (For SIP/TLS + SRTP) 
+
+ Fortinet Fortigate Voice Over IP Protection over and SIP Security configuration manual 
+
+ Checkpoint Firewall VoIP protection ( Inspect SIP/TLS with this SIP protocol enforcement )
+
+ Sonicwall Firewall VoIP protection Base and Advanced 
+
+ Sounds confused? Get a short comparison. 
+
+ Maybe yes, because if you are not specifically VoIP knowledgable or very Security knowledeable it may be different to understand which product fit a specific scenario.
+
+ I tried below to make a comparison of various feature set of VoIP Firewalls, Firewalls and VoIP PBX with security features .
+
+ NOTICE: The following analysis has been done by looking at websites and configuration manuals of various vendor without deep testing in laboratory!
+
+ Product 
+ SIP/TLS 
+ SIP protocol sanitization 
+ SIP aware IP Firewall 
+ SRTP Voice Encryption 
+ SIP Brute Force Protection 
+ SIP Enumeration Protection 
+ DOS (flooding) protection 
+
+ Cisco ASA Firewall 
+ YES 
+ YES 
+ YES 
+ YES 
+ YES (connection-limit) 
+ YES 
+ YES 
+
+ Checkpoint Firewall 
+ YES 
+ YES 
+ YES 
+ NO 
+ NO 
+ NO 
+ YES 
+
+ Fortinet Fortigate Firewall 
+ NO 
+ YES 
+ YES 
+ NO 
+ YES (rate-limit) 
+ YES (rate-limit) 
+ YES 
+
+ Sonicwall UTM Firewall 
+ NO 
+ YES 
+ YES 
+ NO 
+ NO 
+ NO 
+ YES 
+
+ UM LABS SIP Security Controller 
+ YES 
+ YES 
+ YES 
+ YES 
+ YES 
+ YES 
+ YES 
+
+ SIPERA UC-SEC 
+ YES 
+ YES 
+ YES 
+ YES 
+ YES 
+ YES 
+ YES 
+
+ Ingate SIP Firewall 
+ YES 
+ YES 
+ YES 
+ YES 
+ YES 
+ YES 
+ YES 
+
+ Cisco IOS/CallManager PBX 
+ YES 
+ YES* 
+ N/A 
+ YES 
+ YES (connection-limit) 
+ YES 
+ YES (IP/FW/IDS IOS) 
+
+ Asterisk PBX 
+ YES 
+ YES* 
+ N/A 
+ YES 
+ YES** 
+ YES 
+ YES** 
+
+ FreeSWITCH PBX 
+ YES 
+ YES* 
+ N/A 
+ YES 
+ YES** 
+ YES 
+ YES** 
+
+ * By default are quite strict at protocol compliance given their wide diffusion on the market
+
+ ** With additional tool such as Fail2ban and OSSEC
+
+ *** When authentication is properly setup (all users must authenticate to do any actions in speaking with the PBX) there’s automatic call hijacking protection
+
+ Please note that modern PBX with security features already provide most of the required SIP protection , it’s obviously a matter of configuring it properly (for example enabling only authenticated SIP registration/calls, only over SIP/TLS encrypted channels with SRTP encrypted media flow).
+
+ Ok, but what do i need? It depends! 
+
+ It’s not straightforward to say what kind of protection do you need, and mostly depend on what do you want to do and what do you already have in-house.
+
+ The two common scenario we can expect is:
+
+ a) The need is to expose to internet one PBX in order to establish a VoIP trunk with another PBX 
+
+ In such case you may have two situation that will tell you whether to implement or not some custom Security Gateway by answering such questions:
+
+ Does your corporate PBX it’s old, legacy, not updated since a lot of time?
+
+ You need a VoIP firewall 
+
+ OR
+
+ You can add a VoIP PBX with VoIP Encryption properly configured and add some little security add-on and configure it as a Gateway
+
+ Does your corporate PBX is a modern PBX with SIP/TLS along with strict authentication checking?
+
+ You could need to have a Firewall with SIP/TLS inspection feature (Cisco or Checkpoint)
+
+ b) The need is to implement VoIP encrypted calls for roaming users outside corporate perimeter 
+
+ In such case you must first ask yourself some questions:
+
+ Does your existing VoIP equipment is compatible with the Security protocols used to provide Secure VoIP (SIP/TLS + SRTP) to roaming users?
+
+ You need a Firewall with SIP/TLS feature
+
+ OR
+
+ You can keep your VoIP PBX with VoIP Encryption properly configured and add  some little security add-on (anti-bruteforcing, local firewall)
+
+ Does your existing VoIP equipment is not compatible with the Security protocols used to provide Secure VoIP (SIP/TLS + SRTP) to roaming users?
+
+ You need a VoIP Firewall 
+
+ However in all case, if you already have a Checkpoint Firewall or a Cisco ASA, i suggest to however let them does the activity of SIP inspection and dynamic firewall port opening.
+
+ What to expect in future? 
+
+ My conclusion is that the IT Security world is now starting considering serious VoIP security related issues and that there is a growing adoption of signaling and media encryption for Large Enterprise users.
+
+ While Private and Government users still need to use ZRTP, because of it’s unique end-to-end encryption feature, Enterprises are adopting SIP/TLS and SRTP given the end-to-site security model requirements.
+
+ What we can expect to see in the near future is the upcoming introduction of SRTP features into the big player of Firewall market with a concept of Voice VPN exactly like Cisco has already done with it’s own Cisco ASA.
+
+ At the same time every day more PBX start implementing security features for signaling and media encryption.
+
+ My feeling is that in the near future the VoIP Firewall market will became much more Telephony market oriented, as the Firewalls will start see improvements in their VoIP protection features along with Voice VPN functionalities.
+
+ At that time the security guys will have the VoIP security features included in their already installed Firewalls with a software upgrade and will not care anymore about VoIP Firewall.
+
+ What reasonably we should expect is also to see in upcoming year are  Hardened PBX distributions that will include by default advanced security features, suitable for security departments.
+
+ Fabio Pietrosanti (naif) – http://fabio.pietrosanti.it 
+
+ This entry was posted 
+
+ on Tuesday, October 5th, 2010 at 12:59 pm and is filed under VoIP Security . 
+ You can follow any responses to this entry through the RSS 2.0 feed. 
+
+ You can leave a response , or trackback from your own site. 
+
+ 2 Responses to “VoIP Firewall: Telephony vs Security world”
+
+ Jim Donovan Says: 
+
+ October 5th, 2010 at 1:42 pm 
+
+ Hi Fabio – This is an excellent summary of a problems I see affecting many enterprises that are moving to IP telephony or trying to use IP telephony across untrusted networks. I would like to suggest that you also consider the role of enterprise session border controllers (SBCs) in your product categories. If you examine the reference architecture for Cisco and Avaya (for example), you will see that SBCs (not voip-aware firewalls) are used to address the security issues you describe.
+
+ Thanks,
+
+Jim
+
+ (disclaimer – I work for a SBC company, Acme Packet)
+
+ Fabio Pietrosanti Says: 
+
+ October 5th, 2010 at 2:03 pm 
+
+ You are right, Session Border Controller should be part of the picture even if they are a kind of tools more oriented to Telephony world rather than security.
+
+I do not see a security engineer sitting there configuring an SBC with all the complexity and the vast set of feature they provide.
+
+ Even if i completely agree that some SBC (not everyone) provide security features that are very similar to the one provided by VoIP Firewalls and that with VoIP Firewalls share (For the Enterprise market) the main goals to provide Secure Unified Communications. 
+
+ There are so many overlapping features among such kind of products that the most important things to ask ourself is:
+
+- who is the target customer? ( PMI / Large Enterprise / Telco )
+
+- who is the target administrator’s department? ( IT / IP Telephony / Security )
+
+ Leave a Reply
+
+ Name (required) 
+
+ Mail (will not be published) (required) 
+
+ Website 
+
+ XHTML: You can use these tags: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> 
+--> 
+
+Welcome to the group weblog of the Voice over IP Security Alliance 
+
+ Subscribe
+
+ RSS feed 
+
+ Categories
+
+ Best Practices (7)
+
+ Biometrics (3)
+
+ Blogroll (1)
+
+ Books (5)
+
+ CALEA (15)
+
+ Certificates and PKI (1)
+
+ Conferences (54)
+
+ Cryptography (25)
+
+ Federation (2)
+
+ Identity (4)
+
+ IETF (14)
+
+ Miscellaneous (22)
+
+ Platform Security (7)
+
+ Podcasts (43)
+
+ Privacy (3)
+
+ SANS (1)
+
+ Security (121)
+
+ SIP (44)
+
+ Skype (23)
+
+ SPIT (10)
+
+ Standards (30)
+
+ Videos (2)
+
+ Voice of VOIPSA Info (21)
+
+ VoIP Attacks in the News (30)
+
+ VoIP Legislation (10)
+
+ VoIP Security (320)
+
+ VoIP Security Companies (8)
+
+ VoIP Security Research (19)
+
+ VoIP Security Tools (25)
+
+ VoIP Vulnerabilities (42)
+
+ VOIPSA (45)
+
+ Webcast (5)
+
+ Contributors
+
+ Andy Zmolek 
+ Craig Bowser 
+ Dan York 
+ David Endler 
+ Dustin D. Trammell 
+ Eric Y. Chen 
+ Fabio Pietrosanti 
+ Geoff Devine 
+ J. Oquendo 
+ Jason Ostrom 
+ jmendez 
+ Jonathan Zar 
+ Mark Collier 
+ Martyn Davies 
+ mrubino 
+ Nikos Simantirakis 
+ Ruben Olsen 
+ Shawn Merdinger 
+
+ Archives
+
+ October 2010 
+
+ September 2010 
+
+ August 2010 
+
+ July 2010 
+
+ June 2010 
+
+ May 2010 
+
+ April 2010 
+
+ March 2010 
+
+ February 2010 
+
+ January 2010 
+
+ December 2009 
+
+ October 2009 
+
+ September 2009 
+
+ August 2009 
+
+ July 2009 
+
+ June 2009 
+
+ May 2009 
+
+ April 2009 
+
+ March 2009 
+
+ February 2009 
+
+ January 2009 
+
+ December 2008 
+
+ November 2008 
+
+ October 2008 
+
+ September 2008 
+
+ August 2008 
+
+ July 2008 
+
+ June 2008 
+
+ May 2008 
+
+ April 2008 
+
+ March 2008 
+
+ February 2008 
+
+ January 2008 
+
+ December 2007 
+
+ November 2007 
+
+ October 2007 
+
+ September 2007 
+
+ August 2007 
+
+ July 2007 
+
+ June 2007 
+
+ May 2007 
+
+ April 2007 
+
+ March 2007 
+
+ February 2007 
+
+ January 2007 
+
+ December 2006 
+
+ November 2006 
+
+ October 2006 
+
+ September 2006 
+
+ August 2006 
+
+ July 2006 
+
+ June 2006 
+
+ May 2006 
+
+ April 2006 
+
+ Blogroll
+
+ VOIPSA Member Blogs
+
+ Christopher Martin 
+
+ Dan York 
+
+ Donald Smith 
+
+ Dustin Trammell 
+
+ Mark Collier 
+
+ Martyn Davies 
+
+ Recent Posts
+
+ VoIP Firewall: Telephony vs Security world 
+ VoIP Attackers – Sometimes They Come Back 
+ VoIP Abuse Project 
+ VoIP Fraudster Edwin Pena sentenced to 10 years in prison and repayment of $1 million 
+ Weaponizing the Nokia N900 – Part 2 
+ Follow VOIPSA on Twitter! 
+ It’s a Feature! — Remote Tapping a Snom VoIP Phone 
+ Revisiting Shodan Computer Search Engine: Oh Noes, the places you’ll go! 
+ Voice of VOIPSA upgraded to WordPress 3.0.1 
+ Risks Of Phone Removal From University Dorm Rooms 
+
+ Voice of VOIPSA is proudly powered by 
+ WordPress

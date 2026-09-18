@@ -1,0 +1,289 @@
+Coronavirus: cos’è e come funziona il contact tracing? 
+
+ Scopri 
+
+ La tua Libreria 
+
+ Cerca 
+
+ Per Podcaster
+
+ I tuoi podcast 
+
+ Gratuito
+
+ La nostra piattaforma
+
+ Come funziona Spreaker 
+
+ Podcast App 
+
+ Spreaker Create 
+
+ Prime Network 
+
+ Aiuto 
+
+ {
+ if (!hidden) {
+ $refs.inputMobile.focus();
+ }
+ });
+ if (isSearch && !query) {
+ if (window.innerWidth 
+
+ Registrati
+
+ Log in 
+
+ Registrati 
+
+ Per Podcaster
+
+ I tuoi podcast 
+
+ Gratuito
+
+ Impostazioni
+
+ Tema chiaro
+
+ Tema scuro
+
+ La nostra piattaforma
+
+ Come funziona Spreaker 
+
+ Podcast App 
+
+ Spreaker Create 
+
+ Prime Network 
+
+ Aiuto 
+
+ {
+ if (this.toast) {
+ this.toast = null;
+ }
+ }, timings[this.toast.type]);
+ },
+ getClassType() {
+ return {
+ 'bg-neutral-700 dark:bg-neutral-100 text-white dark:text-neutral-950': this
+ .toast?.type === 'default',
+ 'bg-sky-700 text-white': this.toast?.type === 'info',
+ 'bg-emerald-700 text-white': this.toast?.type === 'success',
+ 'bg-red-800 text-white': this.toast?.type === 'error',
+ 'bg-orange-400 text-neutral-950': this.toast?.type === 'warning'
+ }
+ }
+ }" x-on:toast.window="showToast($event.detail)" x-show="toast" class="fixed left-0 right-0 z-10 md:left-[250px]"
+ x-transition>
+
+ Agenda Podcast
+
+ Coronavirus: cos’è e come funziona il contact tracing?
+
+ 27 mar 2020 ·
+ 22 min. 54 sec.
+
+Caricando
+
+ Riproduci
+
+ Pausa
+
+ Aggiungi alla coda
+
+ In coda
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Scarica
+
+ Scarica e ascolta ovunque
+
+ Scarica i tuoi episodi preferiti e goditi l'ascolto, ovunque tu sia! Iscriviti o accedi ora per ascoltare offline.
+
+ Iscriviti per scaricare
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Incorpora
+
+ Incorpora episodio
+
+ `;
+ },
+ copyToClipboard() {
+ this.copyStatus = 'DONE';
+ SP.Utils.copyToClipboard(this.getIframeCode());
+ setTimeout(() => { this.copyStatus = 'IDLE'; }, 2000);
+ }
+}">
+
+ Scuro
+
+ Chiaro
+
+ Copia
+
+ Fatto
+
+ Vuoi aggiungere un tocco personale? Esplora tutte le opzioni di incorporamento disponibili nella nostra guida per sviluppatori
+
+ Condividi su X 
+
+ Condividi su Facebook 
+
+ Condividi su Bluesky 
+
+ Condividi su Whatsapp 
+
+ Condividi su Telegram 
+
+ Condividi su LinkedIn 
+
+ Descrizione
+
+ Grazie a Fabio Pietrosanti presidente del Centro Hermes e Riccardo Coluccini, giornalista freelance con Vice Italia e Wired Italia e ricercatore del Centro Hermes, Marco Perduca presenta il contact tracing...
+
+ mostra di più 
+
+ Grazie a Fabio Pietrosanti presidente del Centro Hermes e Riccardo Coluccini, giornalista freelance con Vice Italia e Wired Italia e ricercatore del Centro Hermes, Marco Perduca presenta il contact tracing analogico e quello reso possibile da tecnologie bluetooth o dalle celle della telefonia in Corea del Sud e Singapore. Quali e quanti progetti son in fase di studio in Italia? Quali sono le differenze tra software proprietario, a sorgente aperta o totalmente libero anche se prodotto da soggetti privati?
+
+ mostra meno 
+
+ Commenti
+
+ Accedi per lasciare un commento
+
+ Informazioni
+
+ Autore 
+
+ Agenda podcast
+
+ Organizzazione
+
+ Agenda podcast
+
+ Sito 
+
+ -
+
+ Tag 
+
+ #agendapodcast
+
+ #associazionelucacoscioni
+
+ #contact_tracing
+
+ #coronavirus
+
+ #informatica
+
+ #italia
+
+ #pietrosanti
+
+ #privacy
+
+ #scienze
+
+ 🇮🇹 Italiano
+
+ 🇬🇧 English 
+
+ 🇮🇹 Italiano 
+
+ 🇪🇸 Espanõl 
+
+ 🇮🇹 Italiano
+
+ 🇬🇧 English 
+
+ 🇮🇹 Italiano 
+
+ 🇪🇸 Espanõl 
+
+ Termini 
+
+ Privacy 
+
+ {e.preventDefault(); showOneTrustPreferenceCenter();}"
+ class="ot-sdk-show-settings hover:underline">
+ Cookie Settings
+
+ Copyright 2026 - Spreaker Inc. an
+ iHeartMedia Company
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ In riproduzione ora
+
+ Coda
+
+ Sembra che non tu non abbia alcun episodio attivo
+
+ Sfoglia il catalogo di Spreaker per scoprire nuovi contenuti
+
+ Esplora adesso
+
+ Corrente
+
+ Sembra che non ci sia nessun episodio nella tua coda
+
+ Sfoglia il catalogo di Spreaker per scoprire nuovi contenuti
+
+ Esplora adesso
+
+ 1" class="mt-6">
+
+ Successivo
+
+ Gestisci
+
+ Fatto
+
+ svg]:text-white">
+
+ Sposta su
+
+ Sposta su
+
+ Sposta giù
+
+ Sposta giù
+
+ Rimuovi
+
+ svg]:text-white">
+
+ Che silenzio che c’è... 
+
+ È tempo di scoprire nuovi episodi! 
+
+ Scopri
+
+ La tua Libreria
+
+ Cerca
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Sblocca tutto il potenziale di Spreaker
+
+ Iscriviti per continuare ad ascoltare, accedi alla tua libreria per riprendere gli episodi da dove li avevi lasciati e connettiti con i tuoi creatori preferiti. Vivi l'esperienza di ascolto definitiva su Spreaker!
+
+ Iscriviti gratuitamente

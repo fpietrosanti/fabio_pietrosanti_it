@@ -1,0 +1,330 @@
+La risposta alla nuova richiesta di Monitora PA – Easyteam.org SRL – Informatica a 360 gradi 
+
+ Skip to content 
+
+ Home 
+
+ Assistenza 
+
+ Teleassistenza 
+
+ Manuali e documentazione 
+
+ Registro Elettronico 2.0 – FAQ 
+
+ Come cancellare la cache dei browser 
+
+ Servizi 
+
+ Partecipa ai Webinar Easyteam.org SRL 
+
+ Archivio Webinar 
+
+ Servizi per le Pubbliche Amministrazioni 
+
+ Ottieni velocemente lo SPID grazie a Axios e Namirial 
+
+ Siti web 
+
+ Portfolio siti 
+
+ PNRR PA Digitale 2026 
+
+ PNRR 2026 – #nextgenerationitalia 
+
+ GDPR-AgID-Privacy 
+
+ Consulenza e supporto in tema di Privacy, Trasparenza e Anticorruzione, ANAC, AgID 
+
+ Come difendersi dalle truffe digitali 
+
+ News 
+
+ Iscriviti alla Mailing List 
+
+ Archivio Mailing List 
+
+ Chi siamo 
+
+ Certificazioni e partnership 
+
+ Contatti 
+
+ Mailing List 
+
+ Lavora con noi 
+
+ La risposta alla nuova richiesta di Monitora PA
+
+ Home 
+ 2023 
+ Marzo 
+ 17 
+ La risposta alla nuova richiesta di Monitora PA 
+
+ 17 Marzo 2023 17 Marzo 2023 Easyteam.org SRL 
+
+ La risposta alla nuova richiesta di Monitora PA
+
+ In questi giorni abbiamo lavorato a stretto contatto con gli uffici del Garante per la Privacy e con l’ufficio legale di Google Cloud Italy SRL, valutando tutte le implicazioni della richiesta pervenuta al Vostro Istituto da parte dell’Associazione MonitoraPA.
+Nelle analisi condotte, abbiamo individuato alcuni punti fermi, che ci sono serviti come argomenti per basare la riposta a MonitoraPA:
+
+ difficilmente un Istituto scolastico può pensare di dismettere Google Workspace senza avere ripercussioni sulla didattica e sui servizi offerti: è altamente verosimile infatti che i docenti ricevano ad esempio le circolari sulla loro mail edu.it in GMail, oppure che si siano registrati con la loro mail edu.it per usufruire di servizi aggiuntivi (es: le versioni digitali dei libri di testo, piattaforme di elearning, servizi e risorse online). Dismettere Google Workspace significherebbe terminare improvvisamente anche tutti questi servizi di contorno;
+
+ Google Workspace è un servizio SaaS certificato Marketplace AgID;Durante il lockdown le piattaforme Google Workspace e Microsoft 365 furono suggerite dall’allora Ministero dell’Istruzione;
+
+ Le FAQ del Garante per la Privacy sulla sentenza Schrems II lasciano al Titolare del Trattamento (Il Dirigente Scolastico) il compito di valutare l’impatto di questa criticità e di decidere sull’utilizzo o meno di Google Workspace.
+
+ Cosa deve fare il mio Istituto?
+
+ Sulla base di queste e di altre osservazioni, abbiamo elaborato una linea di risposta, articolata su queste azioni:
+
+ l’Istituto deve  redigere  una  Valutazione dei rischi (DPIA)  connessi all’utilizzo della piattaforma Google Workspace;
+
+ l’Istituto deve avviare un  processo di analisi e di verifica  delle configurazioni attualmente impostate sulla propria Google Workspace, sulla base di quanto indicato nel documento “ Google Workspace for Education data protecion implementation guide “;
+
+ l’Istituto deve recepire una  delibera del Collegio Docenti , nella quale, valutata la situazione e considerate tutte le implicazioni di privacy e di continuità dei servizi, si stabilisce di proseguire con l’utilizzo di Google Workspace;
+
+ l’Istituto può infine  rispondere  in maniera completa e argomentata alla richiesta di MonitoraPA;
+
+ l’Istituto può avviare una  campagna di sensibilizzazione  sui docenti per il corretto utilizzo della piattaforma Google Workspace.
+
+ Cosa può fare Easyteam.org SRL?
+
+ Riprendendo i punti elencati nel paragrafo precedente,  Easyteam.org SRL  può affiancare le scuole in tutti i passaggi necessari alla risposta:
+
+ gli Istituti scolastici con un contratto di consulenza attivo troveranno il documento “ Valutazione dei rischi (DPIA) ” nella propria area riservata sul portale:  https://gdpr.easyteam.org  ,  già pronto  per essere adottato agli atti della scuola. E’ fortemente consigliata la protocollazione del documento come documento in uscita nel titolario “ I.4 Archivio, accesso, privacy, trasparenza e relazioni con il pubblico “;
+
+ gli Istituti scolastici possono  richiedere ai tecnici certificati  Easyteam.org SRL un’ analisi , una  valutazione  e un’ implementazione  della propria Google Workspace, condotta secondo quanto indicato dal documento “ Google Workspace for Education data protecion implementation guide “. La richiesta di intervento è attivabile inviando una mail all’indirizzo  info@easyteam.org  ;
+
+ gli Istituti scolastici con un contratto di consulenza attivo troveranno il fac-simile del documento “ Delibera del Collegio dei Docenti ” nella propria area riservata sul portale:  https://gdpr.easyteam.org  ,  già pronto  per essere adottato agli atti della scuola. E’ consigliata la protocollazione del documento come documento in uscita nel titolario “ II.3 Collegio dei docenti “;
+
+ nei paragrafi successivi forniamo un fac-simile di testo di risposta, da inserire nella PEC da inviare come risposta a Monintora PA;
+
+ gli Istituti scolastici con un contratto di consulenza attivo troveranno il documento “ Google Workspace – Best practices ” nella propria area riservata sul portale:  https://gdpr.easyteam.org  ,  già pronto  per essere adottato agli atti della scuola. E’ fortemente consigliata la protocollazione del documento come documento in uscita nel titolario “ I.4 Archivio, accesso, privacy, trasparenza e relazioni con il pubblico “;
+
+ Cosa dire al Collegio Docenti?
+
+ E’ importante secondo noi improntare la comunicazione sulla  massima chiarezza possibile , presentando la situazione con completezza e trasparenza, senza omettere dettagli e senza cadere in allarmismi ingiustificati.
+Una  traccia per la comunicazione  al Collegio Docenti potrebbe essere la seguente:
+
+ l’Associazione MonitoraPA ha sollevato un  problema “politico”  di rapporti tra la Comunità Europea e gli Stati Uniti, legato a un particolare atto del Governo Federale degli Stati Uniti, chiamato  Cloud Act ;
+
+ questo atto permette al Governo Federale, per fondate ragioni di sicurezza nazionale, di entrare nei contenuti di tutti i server di aziende statunitensi, ivi compresa Google,  senza chiedere il consenso  agli interessati;
+
+ il Cloud Act è chiaramente  incompatibile  con il Regolamento Europeo GDPR sul trattamento dei dati personali;
+
+ sulla base di questa incompatibilità, MonitoraPA chiede la  dismissione  delle piattaforme Google Workspace in uso negli istituti italiani;
+
+ la situazione è in realtà meno lineare di quanto prospetta MonitoraPA e ci sono  incongruenze normative , poichè ad esempio Google Workspace è un  servizio certificato SaaS  AgID Marketplace, e come tale liberamente utilizzabile dalle pubbliche amministrazioni;
+
+ le FAQ del Garante della Privacy lasciano al Titolare del Trattamento (il Dirigente Scolastico) l’onere di  valutare i rischi di utilizzo , pesando i pro e i contro e proponendo una linea al Collegio Docenti;
+
+ la scuola ha redatto una  Valutazione dei rischi (DPIA) , ha analizzato l’utilizzo della piattaforma Google Workspace e ha attivato un team di specialisti che interverranno sulle  configurazioni di Google Workspace  per minimizzare (non annullare) i rischi legati al trattamento di dati personali. Nei prossimi giorni sarà distribuito ai docenti un  vademecum  contenente alcuni suggerimenti e alcune best-practices per utilizzare al meglio la piattaforma;
+
+ sulla base di queste azioni l’Istituto ritiene che il rapporto rischi/benefici derivanti dall’utilizzo di Google Workspace sia a favore di questi ultimi e  ritiene di poter proseguire  nell’utilizzo della piattaforma;
+
+ il  Collegio  è chiamato a  deliberare  sul proseguimento dell’utilizzo della piattaforma Google Workspace.
+
+ Testo di risposta a MonitoraPA
+
+ Modalità : la risposta deve essere inviata tramite  posta certificata PEC  all’indirizzo:  comunicazioni@pec.monitora-pa.it 
+
+ Oggetto : Risposta alla Vs. comunicazione “Segnalazione di trasferimenti sistematici di dati personali verso Google e conseguente invito a risolvere la violazione del Regolamento Europeo 2016/679 (GDPR)”
+
+Spettabile Associazione Monitora PA,
+egregio sig. Fabio Pietrosanti,
+
+il nostro Istituto scolastico ha a cuore la privacy e la tutela dei dati personali dei propri dipendenti e dei propri alunni e ha letto con estrema attenzione la Vostra comunicazione con oggetto “ Segnalazione di trasferimenti sistematici di dati personali verso Google e conseguente invito a risolvere la violazione del Regolamento Europeo 2016/679 (GDPR) “.
+Come chiaramente indicato nelle FAQ intitolate “ Domande frequenti sulla sentenza della Corte di giustizia dell’Unione europea nella causa C-311/18 — Data Protection Commissioner/Facebook Ireland Ltd e Maximillian Schrems ” adottate dalla Corte di giustizia dell’Unione europea il 23 luglio 2020, la possibilità o meno di trasferire dati personali sulla base di SCC dipende dall’esito della valutazione che l’Istituto dovrà compiere, tenuto conto delle circostanze del trasferimento e delle misure supplementari eventualmente messe in atto.
+Il nostro Istituto ha condotto una attenta valutazione dei rischi (DPIA), depositata agli atti della scuola con protocollo ______ in data ______ e ha attivato un team di sicurezza che sta provvedendo a minimizzare l’impatto del trasferimento dei dati personali, secondo quando contenuto nel documento “ Google Workspace for Education data protection implementation guide “.
+L’Istituto ha inoltre avviato un programma di sensibilizzazione del personale docente e non docente, volto a fornire indicazioni chiare e precise sugli strumenti utilizzabili per minimizzare l’impatto del trattamento di dati personali, come ad esempio:
+
+ – prediligere il Registro Elettronico per lo storage di documenti contenenti dati personali e/o sensibili
+
+ – attivare tecniche di pseudonimizzazione
+
+ – utilizzare le modalità di navigazione in incognito fornite dai browser
+
+ Sulla base di queste osservazioni, il Collegio Docenti ha deliberato, con delibera numero _____ del ______ di cui al protocollo ______ del ________ , di proseguire con l’utilizzo della piattaforma Google Workspace.
+I documenti citati sono depositati agli atti della scuola e sono consultabili tramite richiesta di Accesso Civico, regolarmente inoltrata all’Istituto secondo i canali stabiliti.
+
+Ringraziandola per averci permesso di alzare ulteriormente il livello di attenzione, già alto, che rivolgiamo ai dati personali dei nostri dipendenti e dei nostri studenti, cogliamo l’occasione per porgere cordiali saluti.
+
+il Dirigente Scolastico
+
+ Il futuro
+
+ E’ immaginabile che la riposta non possa essere ritenuta esaustiva da Monitora PA, che dovrà quindi decidere se continuare con le richieste o “abbandonare la contesa”.
+Tra le possibili azioni che Monitora PA potrà eventualmente intraprendere, riteniamo plausibile che possa:
+
+ – contattare il Garante per la Privacy, che però a nostro avviso non potrà far altro che confermare e sottoscrivere quanto contenuto nella risposta della scuola
+
+ – chiedere, pagando, l’accesso ai documenti depositati agli atti della scuola, per consultarli e vedere se esistono spazi per aprire nuovi contenziosi
+
+ NOTA SULL’ACCESSO CIVICO : nel rispondere ad una eventuale richiesta di accesso agli atti da parte di Monitora PA, è importante che la scuola sottolinei che i documenti sono consultabili presso la segreteria dell’Istituto e che non possono essere trasmessi per via telematica per motivi di sicurezza.
+
+ AgID , dpo , EasyNews , GDPR , Sicurezza monitorapa 
+
+ Navigazione articoli
+
+ Un flash mob nazionale per dire NO al cyberbullismo 
+ Microsoft Windows Server 2012 e Windows 10 si avvicinano alla fine della loro vita 
+
+ Post simili 
+
+ Marzo 19, 2023 
+
+ Canone Unico Patrimoniale 2023 – Prima Comunicazione 
+
+ Il 09/03/2023 l’ACCOUNT_NEWS@PEC.PAGOPA.IT ha generato ed inviato in automatico una Pec a...
+
+ AgID   Consulenza Specialistica   EasyNews   Il mondo della scuola   
+
+ Marzo 17, 2023 
+
+ Microsoft Windows Server 2012 e Windows 10 si avvicinano alla fine della loro vita 
+
+ Il ciclo di vita di un prodotto informatico segue...
+
+ AgID   Informatica   Microsoft   Sicurezza   
+
+ Febbraio 27, 2023 
+
+ Un flash mob nazionale per dire NO al cyberbullismo 
+
+ A distanza di un mese dalla Giornata contro il...
+
+ Cyberbullismo   EasyNews   Il mondo della scuola   Webinar   
+
+ piazzale Lorenzo Perosi 6
+
+26866 Sant'Angelo Lodigiano (LO)
+
+Italy 
+
+ Indicazioni stradali 
+
+ 0371210404 
+
+ info@easyteam.org 
+
+ PEC: easyteam@easypec.org 
+
+P.IVA: 07331470968 
+
+C.S. 10.000 Eur i.v.
+
+ NAVIGAZIONE 
+
+ Home 
+
+ Teleassistenza 
+
+ Servizi 
+
+ Siti web 
+
+ Archivio news 
+
+ GDPR-AgID-Privacy 
+
+ Chi siamo 
+
+ Contatti 
+
+ EASY NETWORK 
+
+ Easyteam.org SRL 
+
+ Academy Easyteam.org 
+
+ Portale GDPR – DPO – Privacy 
+
+ Easyteam.org Canale telegram 
+
+ Easyteam.org Pagina Facebook 
+
+ Easyteam.org Profilo Facebook 
+
+ Easyteam.org Official Instagram 
+
+ Easyteam.org YouTube 
+
+ Easyteam.org Mailing List 
+
+ Easyteam.org Intranet 
+
+ Siti demo scuole 
+
+ PRIVACY 
+
+ Privacy policy 
+
+ Cookies policy 
+
+ EU Proof of consent 
+
+ odr 
+
+ login 
+
+ Easyteam.org SRL © 2020 
+
+ Gestisci Consenso Cookie
+
+ Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni.
+
+ Funzionale 
+
+ Funzionale 
+
+ Sempre attivo 
+
+ L'archiviazione tecnica o l'accesso sono strettamente necessari al fine legittimo di consentire l'uso di un servizio specifico esplicitamente richiesto dall'abbonato o dall'utente, o al solo scopo di effettuare la trasmissione di una comunicazione su una rete di comunicazione elettronica. 
+
+ Preferenze 
+
+ Preferenze 
+
+ L'archiviazione tecnica o l'accesso sono necessari per lo scopo legittimo di memorizzare le preferenze che non sono richieste dall'abbonato o dall'utente. 
+
+ Statistiche 
+
+ Statistiche 
+
+ L'archiviazione tecnica o l'accesso che viene utilizzato esclusivamente per scopi statistici. 
+ L'archiviazione tecnica o l'accesso che viene utilizzato esclusivamente per scopi statistici anonimi. Senza un mandato di comparizione, una conformità volontaria da parte del vostro Fornitore di Servizi Internet, o ulteriori registrazioni da parte di terzi, le informazioni memorizzate o recuperate per questo scopo da sole non possono di solito essere utilizzate per l'identificazione. 
+
+ Marketing 
+
+ Marketing 
+
+ L'archiviazione tecnica o l'accesso sono necessari per creare profili di utenti per inviare pubblicità, o per tracciare l'utente su un sito web o su diversi siti web per scopi di marketing simili. In questa categoria ricadono anche cookies di terze parti, quali ad esempio quelli di Youtube qualora il sito facesse uso di video Youtube incorporati 
+
+ Gestisci opzioni 
+ Gestisci servizi 
+ Gestisci fornitori 
+ Per saperne di più su questi scopi 
+
+ Accetta 
+ Nega 
+ Visualizza le preferenze 
+ Salva preferenze 
+ Visualizza le preferenze 
+
+ {title} 
+ {title} 
+ {title} 
+
+ Gestisci consenso cookies 
+
+ Resta sempre aggiornato!
+
+ News, avvisi, scadenze e novità dal mondo della scuola
+
+ Iscriviti alla nostra mailing list!
+
+ Unisciti al nostro canale Telegram!
+
+ Chiudi

@@ -1,0 +1,547 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>La Stampa - Consultazione Archivio</title>
+<meta name="description" content="Archivio Storico La Stampa di Torino dal 1867" />
+<meta name="keywords" content="archivio storico lastampa ricerca newspaper torino piemonte" />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2006 Open Source Matters. Tutti i diritti riservati." />
+<meta name="robots" content="index, follow" />
+<!-- JW Ultimate PNG Fix (v2.0) starts here -->
+
+<!--[if lt IE 7]>
+
+
+<![endif]-->
+
+<!-- JW Ultimate PNG Fix (v2.0) ends here -->
+
+	<link rel="shortcut icon" href="http://www.archiviolastampa.it/images/favicon.ico" />
+	<link href="templates/lastampa_3/css/template_css.css" rel="stylesheet" type="text/css" media="screen" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lte IE 8]><![endif]-->
+<link rel="stylesheet" href="http://www.archiviolastampa.it/templates/lastampa_3/css/jquery.tooltip.css" type="text/css" />
+		
+<link rel="stylesheet" href="http://www.archiviolastampa.it/templates/lastampa_3/css/redmond/jquery-ui-1.8.14.custom.css"/>
+<link rel="stylesheet" href="http://www.archiviolastampa.it/modules/mod_article_recommendation/css/mootabs1.2.css" type="text/css" />
+<!--[if gte IE 8]>
+	<link href="templates/lastampa_3/css/template_ie7_css.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+<!--[if IE 7]>
+	<link href="templates/lastampa_3/css/template_ie7_css.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+<!--[if IE 6]>
+	<link href="templates/lastampa_3/css/template_ie7_css.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+
+
+		
+		
+		</head>
+<body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,3/articleid,0306_01_2002_0276_0074_2761193/">www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/act</a> · scripts removed</div>
+<div id="maincontainer">
+
+	<div id="header">
+		<div id="header_left">
+			&nbsp;
+		</div>
+		<div id="header_logo">
+			<h1><a href="http://www.archiviolastampa.it">La Stampa - Consultazione Archivio</a></h1>
+		</div>
+		
+				<div id="loghi">
+			<a href="http://www.compagniadisanpaolo.it"><img src="templates/lastampa_3/images/csanPaolo.jpg" style=" position:absolute; top:30px;"  alt="logo banca san paolo"/></a>
+			<a href="http://www.fondazionecrt.it"><img src="templates/lastampa_3/images/crt.jpg" style="  position:absolute; top:45px; left:103px;"  alt="logo fondazione crt"/></a>
+			<a href="http://www.regione.piemonte.it"><img src="templates/lastampa_3/images/piemonte_def.gif"  style="  position:absolute; left:105px"  alt="logo regione piemonte"/></a>
+			<a href="http://www.lastampa.it"><img src="templates/lastampa_3/images/stampa.jpg" style=" position:absolute;"  alt="logo la stampa"/></a>			
+		</div>
+	</div><!-- end div#header -->
+	
+	<div id="navbar">
+					<ul id="mainlevel"><li><a href="http://www.archiviolastampa.it/component/option,com_frontpage/Itemid,1/" class="mainlevel" >Home</a></li><li><a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,ricerche/Itemid,3/" class="mainlevel" id="active_menu">Ricerche</a></li><li><a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,faq/Itemid,4/" class="mainlevel" >Faq</a></li><li><a href="http://www.archiviolastampa.it/content/blogcategory/3/9/" class="mainlevel" >News</a></li><li><a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,contatti/Itemid,6/" class="mainlevel" >Contatti</a></li></ul>				<div style="clear: both; height: 0pt"></div>
+	</div><!-- end div#navbar -->
+
+			<div id="freesearch">
+					<div class="moduletable">
+			
+		<!--
+		<div class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" style="padding: 5px;">
+			<span>Ricerca ricerca:</span>
+		</div>
+		-->
+		
+		<form class="searchform" method="post" id="searchform_libera" action="http://www.archiviolastampa.it/">
+    		<fieldset>
+        		<legend class="hidden">Ricerca libera</legend>
+        		<label for="keywords" style="padding-right: 17px">Cerca nel testo</label>            		
+            	<input class="textbox" type="text" id="keywords" name="keywords" value="Inserisci il testo per la ricerca"/><input class="textbox" type="hidden" id="old_keywords" name="old_keywords" value=""/>            		
+				<input  id="free_search_button" class="button" type="submit" value="Cerca" />
+				<input id="new_search_button" class="button" type="submit" value="Ricerca avanzata" />
+				
+				
+				<div id="free_search_advanced">
+					<div id="free_search_query_types" class="free_search_advanced_fields">
+						<label>
+							<input type="radio" value="q_a" class="free_search_query-type" name="free_search_query-type" checked="checked"/>
+								Tutte le parole
+						</label>
+						<label>
+							<input type="radio" value="q_f" class="free_search_query-type" name="free_search_query-type" />
+								Le seguenti parole
+						</label>
+						<label>
+							<input type="radio" value="q_w" class="free_search_query-type" name="free_search_query-type" />
+								Qualunque parola
+						</label>
+					</div>  
+										<div class="free_search_advanced_fieds free_search_advanced_entities">
+						<label>Autore:</label>
+						<input type="text" name="free_search_add_entity_author" class="textbox free_search_add_entity" value=""/>
+						<input  id="free_search_add_entity_author_button" class="button button_plus" type="submit" value="" />
+					</div>
+															<div class="free_search_advanced_fieds free_search_advanced_entities">
+						<label>Persone:</label>
+						<input type="text" name="free_search_add_entity_person" class="textbox free_search_add_entity" value=""/>
+						<input  id="free_search_add_entity_person_button" class="button button_plus" type="submit" value="" />
+					</div>
+															<div class="free_search_advanced_fieds free_search_advanced_entities">
+						<label>Luogo:</label>
+						<input type="text" name="free_search_add_entity_place" class="textbox free_search_add_entity" value=""/>
+						<input  id="free_search_add_entity_place_button" class="button button_plus" type="submit" value="" />
+					</div>
+															<div class="free_search_advanced_fieds free_search_advanced_entities">
+						<label>Organizzazione:</label>
+						<input type="text" name="free_search_add_entity_organization" class="textbox free_search_add_entity" value=""/>
+						<input  id="free_search_add_entity_organization_button" class="button button_plus" type="submit" value="" />
+					</div>
+								
+					<div id="free_search_date_range" class="free_search_advanced_fields">
+						<div id="free_search_date_range_from">
+							<label>Data da:</label>
+							<input type="text" id="datePickerFrom" name="datePickerFrom"  class="free_search_range_picker" value=""/>
+						</div>
+						<div id="free_search_date_range_to">
+							<label>A:</label>
+							<input type="text" id="datePickerTo"  name="datePickerTo" class="free_search_range_picker" value=""/>
+						</div>
+					</div> 
+					<div id="free_search_date_single" class="free_search_advanced_fields">
+						<div id="free_search_date_fixed">
+							<label>Data esatta:</label>
+							<input type="text" id="datePickerFixed" name="datePickerFixed" value="" />
+							 
+						</div>
+					</div> 
+					<div id="free_search_fixed_date_types" class="free_search_advanced_fields">	        	
+			        	<label for="date_radio_on" >
+			        	<input type="radio" id="date_radio_on" name="date_radio" class="free_search_query-type" value="date_on" checked="checked"/>
+			        	data esatta</label>
+			        	
+			        	<label for="date_radio_after">
+			        	<input type="radio" id="date_radio_after" name="date_radio" class="free_search_query-type" value="date_after" />
+			        	a partire da</label>
+			        	<label for="date_radio_before">
+			        	<input type="radio" id="date_radio_before" name="date_radio" class="free_search_query-type" value="date_before" />
+			        	fino a</label>
+					</div>				
+					<div  id="free_search_headboards" class="free_search_advanced_fields">	        			
+        				<label>Testata:</label>
+	        			<select name="q_h" id="q_h">
+	        					<option value="" selected="selected">Default</option><option value="LaStampa" >La Stampa</option><option value="StampaSera" >La Stampa Sera</option><option value="Europa" >Europa</option><option value="Global" >Global</option><option value="Gio" >Gio</option><option value="InTv" >In TV</option><option value="MondoScuola" >MondoScuola</option><option value="ScuolaLavoro" >Scuola Lavoro</option><option value="TuttoLibri" >TuttoLibri</option><option value="TuttoScienze" >TuttoScienze</option><option value="TuttoDove" >Tutto Dove</option><option value="TuttoCome" >Tutto Come</option><option value="TorinoSette" >TorinoSette</option><option value="TuttoSoldi" >Tutto Soldi</option><option value="VivereMilano" >VivereMilano</option><option value="VivereRoma" >VivereRoma</option>        				</select>
+        				
+	        		</div>
+	        		
+	        		<div id="free_search_refine"  class="free_search_advanced_fields">
+	        			<label>Cerca in:</label>
+	        			<select name="q_l" id="q_l">
+	        				<option value="all" >Titolo e Corpo</option>
+	        				<option value="title" >nel Titolo</option>
+	        				<option value="text" >nel Corpo</option>
+	        			</select>
+	        		</div>
+	        		<div  id="free_search_result_type" class="free_search_advanced_fields">
+        				<label>Pagine:</label>
+        				<select name="q_fp" id="q_fp">
+        					<option value="" selected="selected">Default</option>
+        					<option value="allpages" >Tutte le pagine</option>
+        					<option value="firstpage" >Prima pagina</option>
+        				</select>
+        			</div>
+	        		<div id="free_search_sort"  class="free_search_advanced_fields">
+	        			<label>Ordina per:</label>
+	        			<select name="q_o" id="q_o">
+	        				<option value=""  selected="selected">Rilevanza</option>
+	        				<option value="fullTitle asc"  >Titolo</option>
+	        				<option   value="date asc">Data (prima pi&ugrave; vecchia)</option>
+							<option   value="date desc">Data (prima pi&ugrave; attuale )</option>
+							<option value="headboard desc"  >Testata</option>
+	        				<option value="headboard desc,date desc"  >Testata e data</option>
+	        				<option value="date asc,headboard asc,pageNum desc"  >Data, Testata e pagina</option>
+	        			</select>
+	        		</div>  
+        		</div>  	
+        		<input type="hidden" name="free_search_add_entity_authors" value="" />
+        		<input type="hidden" name="free_search_add_entity_persons" value="" />
+        		<input type="hidden" name="free_search_add_entity_places" value="" />
+        		<input type="hidden" name="free_search_add_entity_organizations" value="" />
+        		<input type="hidden" name="free_search_add_entity_authors_old" value="" />
+        		<input type="hidden" name="free_search_add_entity_persons_old" value="" />
+        		<input type="hidden" name="free_search_add_entity_places_old" value="" />
+        		<input type="hidden" name="free_search_add_entity_organizations_old" value="" />
+	        	<input type="hidden" name="option" value="com_lastampa" />
+	        	<input type="hidden" name="task" value="search" />
+	        	<input type="hidden" name="mod" value="libera" />
+	        	<input type="hidden" name="Itemid" value="3" />
+	        	<input type="hidden" value="" name="q_dt" />
+	        	<input type="hidden" value="" name="q_df" />
+	        	<input type="hidden" name="t" value="c625e2f771fda6c69068bf330a494236" />
+	        	<input type="hidden" id="p_url" value="http://www.archiviolastampa.it"/>
+        	</fieldset>
+		</form>
+		<span class="hidden">segue messaggio di allerta per ricerche vuote</span>
+		<div id="search-form-dialog" style="display: none">Inserisci almeno una parola chiave</div>
+<div id="freesearch-footer" class="small-div">
+	&nbsp;
+	<div id="free-search-footer-handler">&nbsp;</div>
+	<div style="clear:both" class="freesearch-border">&nbsp;</div>
+</div>		</div>
+				</div>
+			
+	<div id="main_content_wrapper">
+		<!-- breadcrumb -->
+	
+				<div id="main_content" class="viewer"   style="margin-top: -26px" >
+					<form id="preference" action="">
+			<input type="hidden" id="p_articleid" value="0306_01_2002_0276_0074_2761193"/>
+			<input type="hidden" id="p_t" value="123"/>
+		</form>
+				<div id="i_like_lastampa" style="position:relative;top:35px;width:260px">
+			
+		</div>
+		<!--  -->
+		<!--  -->
+
+		<!-- CSI AF 15/01/2021 NUOVO VISUALIZZATORE-->
+		<link rel="stylesheet" href="components/com_lastampa/viewer/css/visualizzatore.css" type="text/css" />
+		<div id="testata">
+			<button id="prev-issue" class="disabledPrevButton" title="Vai all'edizione precedente"><span class="ui-icon ui-icon-triangle-1-w"></span></button>
+			<span id="testata-text"></span>
+			<button id="next-issue" class="disabledNextButton" title="Vai all'edizione successiva"><span class="ui-icon ui-icon-triangle-1-e"></span></button>
+			<button id="prev-page" title="Vai alla pagina precedente"><span class="ui-icon ui-icon-triangle-1-w"></span></button>
+			Pagina
+			<select id="pagine-opt"></select>
+			di&nbsp;<span id="number-of-pages"></span>
+			<button id="next-page" title="Vai alla pagina successiva"><span class="ui-icon ui-icon-triangle-1-e"></span></button>
+			<div class="content-button-viewer">
+				<button id="btn-download-pdf" title="Scarica il documento in formato PDF"><img src="components/com_lastampa/viewer/images/pdf-icon.png" alt="Scarica il documento in formato PDF"> PDF</button>
+				<button id="btn-download-text" title="Scarica il documento in formato testo"><img src="components/com_lastampa/viewer/images/text-icon.png" alt="Scarica il documento in formato testo"> TESTO</button>
+			</div>			
+		</div>
+		<div id="toolbarDiv"></div>
+		<div id="visualizzatore"></div>
+		<!--button id="btn-dialog">Test Dialog</!--button>
+		<button-- id="btn-captcha">Captcha</button-->
+		
+		
+		
+		
+		
+		<div id="article-dialog">
+			<h2 id="article-title">Titolo</h2>	
+			<div id="article-text">Testo</div>
+			<p id="article-disclaimer">A causa delle condizioni e della qualità di conservazione delle pagine originali, 
+			il testo di questo articolo, processato con OCR automatico, può contenere degli errori.</p>
+			<br/>
+			<p>&#9400; La Stampa - Tutti i diritti riservati</p>
+		</div>
+
+		<div id="captcha-dialog" title="Wizard per la creazione del PDF di pagina">
+			<p class="mt-20">Leggi il codice</p>
+			<img id="captcha-img"/>
+			<p  class="mt-20"><label for="captcha-text"> Trascrivi il codice</label></p>
+			<input type="text" id="captcha-text" />
+			<div  class="mt-20">
+			<button id="reload-captcha" title="Genera un nuovo codice">Rigenera il codice</button>
+			<button id="generate-doc" title="Scarica il documento"><div id="dialog-btn-text"></div></button>
+			<p id="captcha-error" class="captcha-msg">Codice errato, riprova.</p>
+			</div>
+		</div>
+		<!-- FINE - NUOVO VISUALIZZATORE-->
+					<div id="handle">&nbsp;</div>
+		</div><!-- end div#main_content -->
+	</div>
+	
+			<div id="left_sidebar"  style="margin-top: 0" >
+			<div class="innertube">
+					<div class="moduletable">
+			
+<a id="back_to_results_button" class="button back_to_results" href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3/limit,10/limitstart,0/">&lt;&lt; risultati della ricerca</a>
+		</div>
+				<div class="moduletable">
+			
+<div id="suggested-tabs" >
+	<div class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+		<span>Suggerimenti</span>			
+		<ul>
+			
+			<li>
+				<a href="#suggested-tabs-2">In prima pagina</a>
+			</li>
+		</ul>
+	</div>
+	
+	<div  id="suggested-tabs-2"  class="tabs-bottom">
+				<div class="articles_on_fp">
+				<ol>
+										<li>
+							<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0306_01_2002_0276_0001_2760992/" class="text-wrap article_link">
+								Fìat il governo preoccupato per ì tagli</a>
+						</li>
+												<li>
+							<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0306_01_2002_0276_0001_2760995/" class="text-wrap article_link">
+								L'AMERICA AL BIVIO</a>
+						</li>
+												<li>
+							<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0306_01_2002_0276_0001_2760996/" class="text-wrap article_link">
+								Desirée, si cerca un quarto complice</a>
+						</li>
+												<li>
+							<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0306_01_2002_0276_0001_2760999/" class="text-wrap article_link">
+								Collina il serio</a>
+						</li>
+												<li>
+							<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0306_01_2002_0276_0001_2761000/" class="text-wrap article_link">
+								GIROTONDI DELL'ALTRO MONDO</a>
+						</li>
+										</ol>
+		</div>
+	<div class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-bottom tab-footer">&nbsp;</div>
+	</div>
+</div>
+		</div>
+				<div class="moduletable">
+					</div>
+				<div class="moduletable">
+			
+<div class="modulebody text-wrap">
+
+<div id="tabs" >
+	<div class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all"><span>Articoli pi&ugrave; letti</span>			
+		<ul>
+			<li>
+				<a href="#tabs-1">Da tutti</a>
+			</li>
+			<li>
+				<a href="#tabs-2">Da me</a>
+			</li>	
+		</ul>
+	</div>
+	<div  id="tabs-1">	
+		<div id="mostvisited-tabs" class="tabs-bottom">
+			<ul>
+				<li>
+					<a href="#mostvisited-tabs-1">oggi</a>
+				</li>
+				<li>
+					<a href="#mostvisited-tabs-2">settimana</a>
+				</li>
+				<li>
+					<a href="#mostvisited-tabs-3">mese</a>
+				</li>		
+			</ul>
+			<div  id="mostvisited-tabs-1">
+				<ol>
+												<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,17/articleid,0731_01_1994_0076_0017_10014876/" class="text-wrap article_link">
+									A Lassie l'oscar dell'intelligenza</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,15/articleid,0862_01_1991_0065_0015_11972025/" class="text-wrap article_link">
+									IL CAMPIONE BEFFATO</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,20/articleid,0734_01_1994_0101_0020_17663145/" class="text-wrap article_link">
+									&#171;Ma l'uomo va educato&#187;</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,20/articleid,0734_01_1994_0101_0020_17663144/" class="text-wrap article_link">
+									Il cromosoma ordina ama il gatto</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0924_02_1990_0334_0029_18585741/" class="text-wrap article_link">
+									Inter e Juve era gi&#224; Natale</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,12/articleid,0740_01_1994_0140_0012_17726691/" class="text-wrap article_link">
+									Lo stormo veglia il compagno ucciso </a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,23/articleid,1310_02_1990_0336_0023_19421894/" class="text-wrap article_link">
+									Weekend in via Teulada</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,20/articleid,0735_01_1994_0107_0020_10056591/" class="text-wrap article_link">
+									Quale verit&#224; sulla Resistenza quale giustizia nei concorsi</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0733_01_1994_0094_0001_17656878/" class="text-wrap article_link">
+									Telefoni in tilt? Intervengono le formiche</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,33/articleid,0924_01_1990_0296_0029_12682738/" class="text-wrap article_link">
+									Coppe nuova formula?</a>
+							</li>
+												</ol>
+			</div>		
+			<div  id="mostvisited-tabs-2">
+					<ol>
+												<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,4/articleid,0138_01_1971_0192_0004_4781007/" class="text-wrap article_link">
+									Brucia la Marus: due morti e dodici feriti la folla (2 mila persone) ostacola i soccorsi</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0029_01_1936_0108_0001_24281200/" class="text-wrap article_link">
+									IL MARESCIALLO BADOGLIO E' ENTRATO IERI IN ADDIS ABEBA ALLA TESTA DELLE TRUPPE VITTORIOSE</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,1100_02_1976_0014_0001_23937797/" class="text-wrap article_link">
+									Renato Curcio catturato</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,24/articleid,0990_01_1986_0093_0046_13538729/" class="text-wrap article_link">
+									Uno stage di yoga a Sanremo</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,6/articleid,0840_01_1992_0231_0006_25101942/" class="text-wrap article_link">
+									Arrestato il killer delle prostitute</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,3/articleid,0926_01_1989_0007_0003_24140377/" class="text-wrap article_link">
+									Signora delle bestie amorose</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,15/articleid,1011_01_1984_0001_0015_13797669/" class="text-wrap article_link">
+									Marito e moglie arrestati per il sequestro Giordano</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,2/articleid,1159_01_1927_0092A_0002_24876583/" class="text-wrap article_link">
+									Squadre Nazionale B batte Lussemburgo: 5-1</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,2/articleid,0979_01_1987_0185_0002_13463494/" class="text-wrap article_link">
+									Sulla Fiera del libro scoppia la guerra tra Milano e Torino </a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,1088_01_1978_0216_0001_15742732/" class="text-wrap article_link">
+									Il vertice Carter, Begin e Sadat naufragato dopo tredici giorni</a>
+							</li>
+												</ol>
+			</div>	
+			<div  id="mostvisited-tabs-3">
+					<ol>
+												<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0040_01_1946_0297_0001_24621737/" class="text-wrap article_link">
+									Giovane massacrata da un negro suo ex-amante</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,39/articleid,0774_01_1993_0042_0039_10911920/" class="text-wrap article_link">
+									Si &#232; uccisa la mamma di Elena</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,15/articleid,1398_02_1983_0226_0017_19991004/" class="text-wrap article_link">
+									8 SETTEMBRE ARMISTIZIO</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,4/articleid,0138_01_1971_0192_0004_4781007/" class="text-wrap article_link">
+									Brucia la Marus: due morti e dodici feriti la folla (2 mila persone) ostacola i soccorsi</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,5/articleid,0138_01_1971_0176_0005_4726680/" class="text-wrap article_link">
+									La &quot;strage,, di Pinerolo</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0029_01_1936_0108_0001_24281200/" class="text-wrap article_link">
+									IL MARESCIALLO BADOGLIO E' ENTRATO IERI IN ADDIS ABEBA ALLA TESTA DELLE TRUPPE VITTORIOSE</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,8/articleid,1100_01_1976_0046_0008_20895851/" class="text-wrap article_link">
+									Gli &quot;eroi&quot; del sesso sui banchi a scuola</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0125_02_1969_0057A_0001_24699213/" class="text-wrap article_link">
+									Trovato il cadavere di Ermanno Era sepolto nella sabbia non lontano da Viareggio</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,1100_02_1976_0014_0001_23937797/" class="text-wrap article_link">
+									Renato Curcio catturato</a>
+							</li>
+														<li>
+								<a href="http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/Itemid,3,/action,viewer/page,1/articleid,0990_01_1986_0100_0001_13559636/" class="text-wrap article_link">
+									Esplode centrale nucleare In Urss </a>
+							</li>
+												</ol>
+			</div>	
+		</div>
+	</div>
+	<div  id="tabs-2">
+		<div id="preferred-tabs">&nbsp;</div>
+		<div class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-bottom tab-footer">&nbsp;</div>
+	</div>
+</div>
+</div>
+		</div>
+					</div>			
+    	</div><!-- end div#left_sidebar -->
+		
+	<div id="footer">
+						<div class="module">
+			<div>
+				<div>
+					<div>
+							
+<p>
+	<a href="http://www3.lastampa.it/archivio-storico/#lastampa_note_legali" target="_blank" class="lastampa_copyright" title="Creative Commons">
+		<img src="modules/mod_stampafooter/images/cc_logo.jpg" alt="Creative Commons" />
+	</a>
+			<span id="crediti">In collaborazione con</span>
+										<a href="http://www.stidoc.it/" target="_blank" title="STI: servizi e tecnologia dell'informazione"><img src="modules/mod_stampafooter/images/sti.jpg" alt="Logo STI" /></a>
+				
+			<a href="http://www.bassilichi.it/" target="_blank" title="Bassilichi: tecnologie che creano valore"><img src="modules/mod_stampafooter/images/bassilichi.jpg" alt="Logo Bassilichi" /></a>
+					
+			<a href="http://www.micro-shop.it/microshop/" target="_blank" title="Microshop: editoria e archiviazione"><img src="modules/mod_stampafooter/images/microshop.jpg" alt="Logo Microshop" /></a>
+					
+			<a href="http://www.bassnet.it" target="_blank" title="Bassnet: Human Information Technology"><img src="modules/mod_stampafooter/images/bassnet.jpg" alt="Bassnet: Human Information Technology" /></a>
+				
+			<a href="http://www.csipiemonte.it" target="_blank" title="CSI-Piemonte"><img src="modules/mod_stampafooter/images/csi.jpg" alt="CSI-Piemonte" /></a>
+				
+	 <a href="https://www.regione.piemonte.it/web/accessibilita" title="Accessibilita" target="_blank">Accessibilit&agrave;</a>&nbsp;&nbsp;|&nbsp;
+	 <a href="https://www.regione.piemonte.it/web/note-legali-privacy" title="Accessibilita" target="_blank">Note legali e privacy</a>&nbsp;&nbsp;|&nbsp;
+        <a href="http://www.archiviolastampa.it/cookie.html" title="Cookie Policy">Cookie policy</a>	
+</p>
+					</div>
+				</div>
+			</div>
+		</div>
+						
+	</div>
+	
+</div>
+</body>
+</html><!-- 1789692377 -->

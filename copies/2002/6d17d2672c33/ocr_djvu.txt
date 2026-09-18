@@ -1,0 +1,5821 @@
+02_hjll_edit 16-10-2002 10:50 Pagina 2 
+
+
+
+
+hack'er (hàk'ar) 
+
+e come espandere le loro capacità, a differenza di molti utenti, che preferis 
+imparare solamente il minimo necessario." 
+
+
+
+Anno 1 - N- 11 
+
+EH ottobre/7 novembre EDDE 
+
+Boss: thGguiltyahackerjournal.it 
+
+Publisher: ilcocciaShacker journal 
+
+Editor: grAndflhacker journal- iti 
+
+Graphic designer: Karin Harrop 
+
+Contributors: Bismark.it n Tuono Blu-. 
+IR!4TTA-i lupinlll-. Enzo Borri 
+
+Cover 
+
+Libera interpretazione del logo , 
+della manifestazione tedesca 
+PhotoKina EDDE 
+
+Publishing company 
+
+Mever S-r-1- 
+
+Via Torinon SI 
+
+EDDh3 Cernusco S/N (MI) 
+
+Fax +3 E ì/DE. c iE.H3.EE.3S 
+
+Printing 
+
+Stige (Torino) 
+
+Distributore 
+
+Parrini & O S-PA- 
+
+DDlfl? Roma - Piazza Colonnan 3L 
+
+Tel- Dt-tìSm-1 r-a- 
+
+ED13M Hilanon via Cavrianai 1M 
+
+Tel. DE.7SM17.1 r-a- 
+
+Pubblicazione quattordicinale 
+
+registrata al Tribunale di Milano il 
+
+ES/D3/DE con il numero 1TD- 
+
+Direttore responsabile Luca Sprea 
+
+Gli articoli contenuti in Hacker 
+Journal hanno uno scopo prettament - 
+didattico e divulgativo- L'edit 
+declina ogni responsabilità' circa 
+l'uso improprio delle tecniche e che 
+vengono descritte al suo interno- 
+L'invio di immagini ne autorizza 
+implicitamente la pubblicazione 
+gratuita su qualsiasi pubblicazione 
+anche non della Mever S-r-1- 
+
+Copyright 4ever S.r.l. 
+
+Testin fotografie e disegna 
+pubblicazione anche parziale vietata- 
+Realizzato con la collaborazione di 
+Hacker News Hagazine - Groupe Hagal Arian 
+
+
+
+
+IPAROLE, PAROLE, 
+
+
+
+PAROLE 
+
+
+
+Dopo gli attacchi di Mafiaboy degli inizi del 2000, che misero in ginocchio per ore 
+e ore Yahoo!, E*Trade, Datek Online e Buy.com, si disse che ora le piccole e grandi 
+
+Jziende dovevano assolutamente correre ai ripari e investire grandi quantità di de- 
+aro per rendere i propri sistemi più sicuri. 
+Dopo Vìi settembre, si è detto e scritto che la sicurezza sarebbe diventata la prio- 
+rità di ogni organizzazione, pubblica o privata. Accanto al terrorismo, gli esperti co- 
+minciavano a delineare lo scenario della "guerriglia informatica", e quindi, insieme 
+al rafforzamento della sicurezza per le strade e negli aeroporti, non si poteva più tra- 
+scurare anche Vasnetto delle infrastrutture informatiche e delle telecomunicazioni. 
+
+Poi, però, è scoppiata la bolla 
+della "niù economy", i titoli in bor- 
+sa hanno cominciato a calare. E 
+questo ha fatto uscire parecchi ar- 
+madi dagli scheletri di molte gran- 
+di aziende: false comunicazioni di 
+| bilancio, manager che si prende- 
+vano enormi quantità di denaro 
+come provvigioni su guadagni 
+
+
+
+mai realizzati... Insomma, 
+farla breve, un settore indus 
+le in cui le centraliniste potè 
+no comprarsi una casa con le 
+azioni distribuite ai dipendenti, 
+è diventato improvvisamente 
+a corto di soldi da spendere. 
+Dopo la pubblicità, una delle 
+aree che ha subito i più pesanti tagli al budget è sta- 
+ta proprio la sicurezza, e in particolare la sicurezza informatica. E questo non 
+iwiene soli ai livelli più alti, dove si spostano milioni di euro (o dollari) come noc- 
+cioline. 
+
+Nelle scorse settimane è stota presentato alla stampa Infosecurity, fiera dedicata 
+Ila sicurezza informatica, che si terrà a Milano dal Ì2al Ì4 febbraio. Sono stati pre- 
+entati i risultati di una ricerca eseguita da Sirmi, secondo la quale "più del 50% del- 
+le aziende italiane stanzia un budget per la sicurezza, e questa percentuale è desti- 
+nata ad aumentare nei prossimi tre anni". Sarà, ma parlando con le persone inter- 
+venute, la situazione è apparsa piuttosto diversa: la sicurezza è un tema caldo, tutti 
+ne interessano e vogliono sentirne parlare. Quando però si passa ai preventivi, po- 
+che aziende sono disposte a spendere quello che dovrebbero. Certo, stanziano un 
+budget per Vacquisto di un firewall, anche se magari poi lasciano le configurazioni 
+predefinite. O comprano un antivirus per tutti i dipendenti, ma senza affidarsi a i 
+società di consulenza che stabilisca delle policy per l'utilizzo del software e della re- 
+sicurezza è importante finché non bisogna tirar fuori dei 
+
+
+
+ozi 
+
+
+
+ender 
+
+
+
+ero 
+
+
+
+
+I Ormai sapete dove e come trovarci, appena 
+| possiamo rispondiamo a tutti, anche a quelli 
+incazzati. 
+
+redazione@hackerjournal.it 
+
+
+
+
+-e- 
+
+
+
+
+3_hjll_open_OK 16-10-2002 10:53 Pagina 3 
+
+
+
+-e- 
+
+
+
+¥ j 
+
+\ ■ ri 
+1 «f 
+
+
+
+OPEN SOURCE 
+
+
+
+
+Subjcct: Mi prcn 
+lo sfaso... 
+
+
+
+h 
+
+
+
+crivo a voi perchè voglio che più 
+gente possibile legga le mie im- 
+pressioni, ma non voglio rimpro- 
+verarvi nulla, non avrei motivi. 
+Se volete potete anche non chiamarmi 
+hacker, lo mi sono proprio rotto di 
+quello sciame di wannabe del ca(vol)o 
+che vogliono diventare "hacker" senza 
+sapere nemmeno cosa voglia dire, so- 
+lo per diventare famosi (?) o fare i fi- 
+ghi con gli amici al bar. O per scopi 
+che non tengono in minima considera- 
+zione l'orgoglio e la forza d'animo di 
+quelli che negli anni 80 crearono il ve- 
+ro hacking. 
+
+È giusto che le irruzioni nei sistemi in- 
+formatici siano considerate un crimi- 
+ne, ed è giusto venir perseguiti penal- 
+te per questo. Se uno entra in ca- 
+sa mia senza permesso, io lo meno, 
+qualunque sia il motivo che lo ha spin- 
+to a entrare. Basta nascondersi dietro 
+a un dito. 
+
+I lamer ormai hanno contaminato la 
+sensazione di puro orgoglio e stupore 
+che mi aveva fatto avvicinare all'hac- 
+king; oramai la voglia di hac- 
+kerare supera 
+
+quella di voler im- 
+parare di tutto su- 
+gli argomenti che 
+ci piacciono da 
+dentro. E basta da- 
+re corda ai disadat- 
+tati che usano inter- 
+net per fare propaganda; basta lotte 
+politiche sfruttando le debolezze in- 
+
+
+
+formatiche, o danneggiare le persone 
+che hanno la sola colpa di avere Win- 
+dows e fregarsene di 
+imparare a difendersi 
+dalle stronzate del 
+primo rincoglionito 
+che a 15 anni crede di 
+essere un divo solo 
+perché conosce net- 
+bus. Prendersela con 
+i più deboli è una cosa da 
+perdente, da fallito, l'umiltà è invece 
+una cosa che raramente trovo nell'un- 
+dergound di oggi, anche se esistono 
+ancora delle persone che meritano 
+tutta la mia stima. 
+
+Meglio lo stereotipo di hacker con gli 
+occhiali e i capelli arruffati che sta 
+tutto il giorno davanti al pc per creare 
+quello che la sua fantasia gli propone, 
+che lo stronzo che irrompe nei sistemi 
+per dimostrare qualcosa. 
+Una serie di coincidenze hanno pur- 
+troppo portato una cosa che stimavo a 
+pieno in un' altra che mi f 
+inca@@are: gior- 
+nalisti ignoranti, 
+aziende che non 
+capiscono un cax, 
+e persone ingra- 
+te che sfruttano 
+conoscenze di 
+altri per i loro 
+scopi del ca**o, o quelli che 
+solo perché hanno Linux si sentono su- 
+periori ai "mortali" con Windows. 
+Internet sta prendendo un potere 
+
+
+
+enorme, superiore a tutti i media, e I- 
+
+hacking è visto come il lato cattivo di 
+
+internet, e per questo tutta quella 
+
+manica di stronzi cisi ficca 
+
+
+
+' dentro, distruggendo 
+
+
+
+ramente, manuali per fab- 
+bricare bombe, tutorial su 
+come rubare sulle cose più 
+1 disparate ma che chiappe 
+significa, anarchici dap- 
+pertutto, OOHHH?. 
+L'hacking deve esistere, serve a tutti, 
+ma ormai il vero significato di questa 
+parola pochi lo cono- 
+scono. 
+
+Potete insul- 
+tarmi o dirmi 
+quello che vole- 
+te, dirmi che non 
+capisco un caxxo, ma 
+non cambierete quel- 
+lo che penso. 
+
+Genocid3 
+
+
+
+
+ì** ^^^H 
+
+
+
+UN GIORNALE PER TUTTI: SIETE NELUGIE Q UERI HRCKERS? 
+
+
+
+
+
+MIO HACKING 
+
+
+
+HARD HACKING 
+
+
+
+Il mondo hack è fatto di alcune cose facili e tante cose difficili. Scrivere di hac- 
+king non è invece per nulla facile: ci sono curiosi, lettori alle prime armi (si fa 
+per dire) e smanettoni per i quali il computer non ha segreti. Ogni articolo di 
+Hacker Journal viene allora contrassegnato da un level: NEV (per chi co- 
+mincia), MIDHACKING (per chi c'è già dentro) e (per chi man- 
+gia pane e worm). 
+
+
+
+www.hackerjournal.it |3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+-e- 
+
+
+
+LETTERA O SFOGO? 
+
+
+
+La lettera a firma di Loxeo riguardo 
+alle sue disavventure coi deface- 
+ment mi ha veramente colpito e al- 
+lo stesso tempo amareggiato. Or- 
+mai il panorama della rete è pieno 
+di questi personaggi veramente 
+ignobili per non dire di peggio, lo 
+lavoro in una ditta che fornisce ser- 
+vizi di hosting, e in questo anno un 
+paio di defacciamenti ci sono stati, 
+ma non è questo il problema. 
+
+
+
+wa oerò che il 90% di < 
+
+
+
+li questo mi sono convinto con 
+questo episodio: un giorno ci chia- 
+ma un cliente e mi segnala il defac- 
+ciamento. Visto che si è capito il si- 
+stema che era stato usato per entra- 
+re , ma poi gli chiedo se gentilmen- 
+te posso sperimentare quello segue 
+e cioè non operare nessun accorgi- 
+mento per evitare l'intrusione, per 
+vedere come andava a finire. Lui 
+acconsente e, per farla breve, lo 
+
+
+
+Posso capire la prima volta ma le 
+altre 6 di seguito che soddisfazione 
+portano? Tra le altre cose sicura- 
+
+
+
+parte di quelli che odiano questi 
+fantomatici "hacker". 
+Alcune volte bisogna pensare che 
+molti lavorano grazie al sito inter- 
+net e magari non tutti possono ca- 
+pire come arginare questi defaccia- 
+menti, e di conseguenza possono 
+magari perdere quello che con tan- 
+ti sforzi si sono costruiti, per colpa 
+di questi cerebrolesi. 
+Riflettiamo anche su come si naviga 
+oggi e cioè con il firewall, l'antivi- 
+rus, l'antispyware, l'antidialer e 
+l'aspirina per il mal di testa :-) E 
+poi dicono che la rete è libera, for- 
+se 10 anni fa lo era, ormai solo per 
+entrare in rete devi corazzarti peg- 
+
+
+
+di questo. 
+
+ZAK ! 
+D'accordo su tut- 
+to lo lineo, tronne 
+che su un punto 
+(hum... quonte 
+metofore "geometriche"). Dici che 
+un operatore di servizi Internet po- 
+trebbe anche non sopere come rime- 
+diare a un defocement; beh, questo 
+è un po' grave. La messo in sicurez- 
+za del suo server dovret L 
+una delle sue priorità 
+
+
+
+cambi mestiere. Del resto, un server 
+insicuro è un problema per l'intera 
+comunità dello Rete (perché do 11 si 
+possono lanciare attacchi, inviare 
+spam, fare danni...). 
+Con questo non voglio giustificare 
+chi defaccio un sito, ma suddividere 
+un po' le responsabilità tra chi agi- 
+sce da vandalo, e chi non prende h 
+:ioni che dovrebbe. 
+
+PERCHÉ PARLARE DI TROJAN? 
+
+Dai titoli sulla copertina vedo che 
+negli ultimi due numeri avete parla- 
+to di SubSeven e NetBus: 
+
+i da lamer! Perché trovano spa- 
+zio sulla vostra rivista? 
+
+C0D3D 
+Siamo perfettamente d'accordo sul 
+fatto che i trojan siano roba da la- 
+mer. E se non ti fossi fermato alla co- 
+pertina, ma avessi letto il contenuto 
+degli articoli, avresti capito al volo 
+che si trotta di schede che descrivo- 
+no i rischi e spiegano come identifi- 
+care e rimuovere i server di queste 
+backdoor dalla propria macchina. 
+
+ROCK TAROCCO. 
+
+Aosta, un giorno di settembre, edi- 
+cola solita... compro il vostro gior- 
+
+
+
+nale, un po' per 
+abitudine un po' curiosità leggo su- 
+bito l'articolo su Rocco Tarocco. Ho 
+lavorato in discoteca (deejay e non 
+buttafuori... :-P) per 15 anni di mu- 
+sica ne ho tonnellate (tra Ip, mix e i 
+gloriosi 45 giri). Trovo di una stupi- 
+dita estrema la pubblicità della uni- 
+versal (volutamente con la u minu- 
+
+
+
+IE33EM 
+
+
+
+Ho sempre comprato musica 
+(anzi compravo) adesso tutto ciò 
+che ho dal 99 in avanti è scaricato 
+salvo (lo so sono un sentimentale) 
+qualche autore (vedi Vasco) a cui 
+regalo volentieri i miei dindini, per 
+via delle emozioni che mi ha rega- 
+lato e che mi regalerà ancora. 
+Trovo vergognoso che una persona 
+come Piero Pelò in un intervista su 
+Rockerilla di qualche annetto fa di- 
+cesse "i Litfiba non faranno mai mu- 
+sica commerciale". Complimenti! E 
+che dire sul nostro amico, il compa- 
+gno Jovanotti: un suo concerto a 30 
+euro. Complimenti anche a te. 
+Lo sfogo era ed è volutamente ag- 
+gressivo. 
+
+
+
+issate i prezzi dei CD, e non solo 
+di quelli che avete venduto 5 anni 
+fa. Il budget lo fate con i titoli nuo- 
+
+
+
+blema è l'artista, perché con una 
+chiacchierata e un esame di co- 
+scienza di tutto l'ambiente musica- 
+le, uno sforzo congiunto generereb- 
+be solo del bene per chi li compra i 
+ed e per chi li fa.... 
+Altrimenti io come tanti altri, di 
+mp3 ne scaricheremo a tonnella- 
+
+
+
+4 www.hackerjournal.it 
+
+
+
+-e- 
+
+
+
+04_07_hjll_posta 16-10-2002 10:52 Pagina 5 
+
+
+
+
+
+
+
+m 
+
+
+
+iInIdIiIpIeInIdIeInItIi 
+
+
+
+tIuItItIi 
+
+
+
+i scrivo riguardo alla notizia sulla "setta" Falun Gong a p< 
+10 del numero 9. Lo so che non siete un giornale di info 
+' zione, ma dovete sapere che gli appartenenti a quella sett 
+Cina, sono perseguitati con tutti i mezzi illeciti che possano veni 
+mente a un essere umano: oltre al "classico" carcere (per un nu 
+di anni sproporzionato, e senza alcun contatto con il mondo este 
+si parla di torture e reclusione in manicomio (della qual cosa si s 
+occupando la World Psychiatric Organization). E non si tratta di ur 
+setta che "copra" un'organizzazione criminale: il motivo della repre 
+sione è puramente ideologico (così come non sono ben visti -euferr 
+smo- i cattolici). Quello che non mi è piaciuto, dicevo, è che inve 
+di mettere quella fotona di un satellite che non c'entrava nulla, pot 
+vate mettere due righe per ricordare che, per quanto ne sappian 
+noi in Italia, il governo cinese non ha un motivo lecito per persegi 
+tare gli appartenenti a Falun Gong. E, del resto, azioni di pirater 
+come quella da voi riportata sono l'unico modo che la setta ha p 
+fare propaganda all'interno del proprio paese. A meno di non espc 
+si e diventare martiri in poche ore. Avete accennato qualche voi 
+air'hacking" di cervelli. Be', un'informazione parziale, come ben s 
+pete, permette a chi la elargisce di aprire molte più falle di sicure 
+za nei cervelli dell'uditorio (di prenderne il controllo, letteralmente 
+rispetto ad un'informazione completa. Una battaglia che per voi è s 
+lo un satellite rapito, per altri significa vita o morte. 
+
+
+
+te... e non preoccupatevi che per 
+ogni buco che chiudete (software 
+bandito, server chiuso...) se ne 
+apriranno altri 1 
+
+CUCCIOL01966 
+// punto è che anche comprando i di- 
+schi, nella maggior parte dei casi i 
+soldi non arriveranno mai all'artista. 
+I produttori li trattengono come ri- 
+sarcimento per il servizi di promo- 
+zione. Chiunque non sia uno dei 
+"grandi" della musica, che può vive- 
+re di diritti d'autore, i soldi li fa coi 
+concerti. Peccato che però se nessu- 
+no compra i primi dischi di un grup- 
+po emergente, difficilmente ne ver- 
+ranno prodotti altri.... Stiamo ancora 
+aspettando che la Rete diventi un ve- 
+ro canale alternativo alla distribuzio- 
+ne e promozione artistica e musicale. 
+
+LA MUSICA NON È GRATIS 
+
+Vi scrivo riguardo al sondaggio che 
+avete fatto sullo scorso numero di 
+HJ e, scusate se ve lo dico, ma a 
+questo punto 
+
+_|. lo mi trovo in assoluto 
+disaccordo con l'esito che questo 
+sondaggio ha avuto e a questo pro- 
+
+
+
+posito vorrei fare una domanda a 
+tutti: gli strumenti COSTANO, i 
+concerti COSTANO, le registrazioni 
+a questo mondo viene dato in ma- 
+niera completamente gratuita e al- 
+lora, io che sono un musicista vi 
+chiedo, COME SPERATE DI FAR AN- 
+DARE AVANTI LA MUSICA SENZA 
+UN CENTESIMO? 
+
+LORENZO 
+Occhio a non scambiare l'opinione 
+dei lettori, espressa tramite il sondag- 
+gio, con il punto di vista della rivista 
+(che credo sia emerso abbastanza 
+chiaramente sulle pagine del n. 10, e 
+non si discosta molto dal tuo). 
+
+ASSISTENZA REDHAT 
+
+Ho deciso di istallare Linux (Redhat 
+7.1) sul mio portatile; dopo l'instal- 
+lazione ed il riavvio mi ritrovo con 
+un errore in X "Fatai IO error 104 
+(Connection reset by peer) on X ser- 
+ver ":0.0" after requests (0 known 
+processed) with events remai- 
+ning." Questo è l'errore, io non co- 
+nosco Linux ma mi sembra di aver 
+capito si tratti di un problema di 
+configurazione di X. Ho provato di- 
+
+
+
+verse soluzioni con Xconfigurator 
+ma non ho ottenuto risultati. 
+Ora, sicuramente direte: "Potresti 
+rivolgerti a Redhat!" Già fatto; mi 
+hanno risposto "Errata configura- 
+zione X" " 
+
+
+
+Non voglio fare polemica, sicura- 
+mente avranno un sacco di rompi- 
+balle come me, ma non mi sembra 
+il modo di trattare un cliente visto 
+che osannano il loro servizio assi- 
+stenza. Non nascondo la mia delu- 
+sione: pensavo che acquistare un 
+"buon Linux" fosse una buona idea, 
+ed invece è una guerra. 
+
+WILLY 
+Tu non vuoi fare polemica, ma io sì. 
+Se hai acquistato e registrato la dis- 
+tribuzione, e questo è tutto quello 
+che ti hanno risposto, è un pochetto 
+scandaloso, visto che il prezzo del 
+pacchetto è costituito in larga parte 
+dal servizio di assistenza. Qualcun 
+altro ha avuto esperienze simili? Red- 
+Hat vuole far sentire anche la sua 
+campana? (Willy ha risolto il suo pro- 
+blema chiedendo aiuto nel canale Ire 
+#hacker\ournal su irc.azzurra.it). 
+
+
+
+HARD DISK CONGELATI? 
+
+Volevo esprimere qualche perples- 
+sità circa la lettera di Simone pub- 
+blicata nella rivista n. 8. Bene, l'a- 
+mico ci parla dei suoi accostamenti 
+precoci all'informatica e 
+
+
+
+Nuova passwor 
+
+Ecco i codici per accedere alla Secret Zone 
+del nostro sito, dove troverete informazioni 
+e strumenti interessanti. Con alcuni browser, 
+potrebbe capitare di dover inserire due vol- 
+te gli stessi codici. Non fermatevi al primo 
+
+
+
+
+user: 
+pass: 
+
+
+
+
+-e- 
+
+
+
+04_07_hjll_posta 16-10-2002 10:52 Pagina 6 
+
+
+
+• ha 
+
+
+
+
+
+MEMORIA FALLIBILE 
+
+
+
+roblema e mi chiedo se potete risolvermelo o air 
+jazione: quando accendo il mio PC mi capita a voi 
+igere alla prima schermata, subito dopo che ha caricato la ram, la : 
+MEMORY TEST FAIL. Potreste darmi qualche spiegazione?! 
+
+
+
+/ progrommi residenti nel Bios hanno fotto un test dello memoria, ed è risul- 
+tato qualche problema. Forse si tratta di un banco inserito male, o difettoso. 
+A/la può trattarsi anche di un problema del firmware della scheda madre: pro- 
+va a verificare se esistono per il tuo modello degli aggiornamenti del Bios 
+(procedi con cautela, seguendo attentamente le istruzioni: potresti rendere il 
+PC non più utilizzabile se sbagli qualcosa). 
+
+
+
+non è una rivista scientifica, ma in- 
+viterei questa persona a riguardare 
+qualche libro di scienze delle scuo- 
+le medie e leggere qualcosa sulla 
+termodinamica e i passaggi di sta- 
+to. Infatti, per quanto io ne sappia, 
+i piatti negli HD sono posti a condi- 
+zioni fisiche particolari dove le leg- 
+gi della termodinamica non sono 
+del tutto rispettate e non solo... 
+qualora si passasse dallo stato ae- 
+riforme a quello solido (che non è il 
+congelamento! ) e poi tramite il ca- 
+lore sprigionato dal funzionamento 
+dell'HD" 
+
+
+
+31 quesT unirne 
+
+>biamo buttare. 
+Volevo precisare che questo non è 
+un attacco personale all'amico, che 
+sento come un fratello vista la pas- 
+sione che ci lega, ma volevo solo 
+chiedere di non far di tutta l'erba un 
+fascio! 
+
+Secondo me ha; preso un po' troppo 
+sul serio la faccenda. Quando Simo- 
+ne diceva "congelati", probabilmen- 
+te non lo intendeva in senso lettera- 
+le, ma come uno ha freddo e dice 
+"sto gelando". E ovvio che nella ca- 
+mera dove ci sono i piatti, non può 
+gelare nulla perché è sotto vuoto. Il 
+freddo intenso può però bloccare il 
+motore o comunque portare a mal- 
+funzionamenti. Non a caso, le speci- 
+fiche di molti hard disk parlano di 
+una temperatura di utilizzo da 5 a 
+55 gradi. Come vedi, non c'è biso- 
+gno di scomodare la termodinamica 
+e i passaggi di stato. 
+
+
+
+CD RADIOATTIVI? 
+
+Egregia redazione, 
+volevo avere delle informazioni ri- 
+guardanti alle radiazioni del lettore 
+ed. Come è noto vi è un adesivo sul 
+lettore dove vi dice di non aprire il 
+lettore ed perché ci si 
+da cosa e in che modo? Il motivo 
+però della mia mail è sapere se 
+smontando il lettore ed con il com- 
+puter smontato e privo di corrente, 
+si possa incappare nelle radiazioni. 
+GIOVANNI M. 
+Tranquillo: si riferisce alla radiazio- 
+ne luminosa emessa dal laser, insom- 
+ma alla sua luce. Se puntata diretta- 
+mente negli occhi, può danneggiarli 
+seriamente. Ovviamente questo non 
+accade nell'utilizzo normale di un 
+CD o di un masterizzatore, perché il 
+raggio laser è all'interno dell'involu- 
+cro. Se però smonti le protezioni e 
+poi accendi l'apparecchio, puoi se- 
+riamente danneggiare i tuoi occhi o 
+quelli di qualcun altro, anche "appa- 
+rentemente" molto lontano. 
+
+HACKER=CRIMINALI 
+
+Oggi ho letto sul giornale che un 
+gruppo di Hacker ha rubato 15.000 
+euro di merce (Dvd, PlayStation ec- 
+cetera) orinandola da altri paesi, e 
+alla fine li hanno beccati solo per- 
+ché sono andati a recuperarla per- 
+sonalmente. Sì, sono stati così stu- 
+pidi a non pensare un piano per ri- 
+tirare la roba, ma almeno loro ci 
+hanno provato e per quanto riguar- 
+da l'ordinazione della roba ce l'- 
+
+
+
+hanno fatta. Detto questo, dico una 
+cosa a tutti gli aspiranti Hacker, es- 
+sere un pirata elettronico vuol dire 
+essere un criminale (addirittura l'- 
+Hacker governativo viene parago- 
+nato ad un terrorista proprio come 
+Bin Laden) e se non siete capaci di 
+fare i criminali, allora lasciate sta- 
+re. Quindi riflettete prima di dire 
+<Hacker è figo! > . Perché nessuno 
+vuole solo le parole, nessuno vuole 
+persone che diventino Hacker per 
+mandare virus agli amici tanto per 
+scherzare; vogliamo Hacker seri e 
+non fasulli: vogliamo criminali! 
+
+TINX 
+L'unica fonte di dispiacere che ho 
+nel fatto che quei truffatori sono sta- 
+ti arrestati, è che hanno (ulterior- 
+mente) gettato fango sul mondo 
+hacker. Per il resto, non mi dispiace 
+che li abbiano presi. Così come non 
+mi dispiacerebbe se per via di que- 
+sta risposta, tu smettessi di leggere 
+Hacker Journal. 
+
+
+
+egnalare una risorsa che 
+ssere utile a tante altre p 
+one? Inseritela nella sezi< 
+inks di Hackerjournal.it 
+
+)rganizzati in categorie, trove 
+ecine e decine di siti, con una l 
+e descrizione del contenuto 
+ovare subito quello che cercat 
+
+nque presente anche una 
+
+i funzione di ricerca). 
+
+tima cosa... evitate di inse 
+ti che non hanno a che fare 
+enologia e hacking: verrebh 
+
+iti dalla redazione. 
+
+
+
+
+-e- 
+
+
+
+HtfK* 
+
+
+
+oIsIaIrIeI: iInIdI 
+
+
+
+PENDEN 
+
+
+
+ciso di scrivervi per cercare di ri- 
+mdere, o meglio, di ampliare il dis- 
+iso iniziato nella lettera di Francesco 
+(hj numero 7) e continuato da Alessan- 
+dro nel numero 9. lo sto attualmente 
+frequentando la 3 a liceo scientifico di ti- 
+po Pni (Piano Nazionale dell'Informati- 
+ca, ed il nome è tutto un programma). 
+Ho scelto questo indirizzo perché sono 
+sempre stato attirato dalle materia 
+scientifiche e soprattutto dall'informati- 
+ca; e poi ho pensato "in un pni mi inse- 
+gneranno ad usare meglio il pc, seno nn 
+gli avrebbero dato quel nome, giu- 
+sto???" Ed invece no, hanno preso per i 
+fondelli: altro che informatica ed infor- 
+matica, in tre anni non ci hanno mai 
+portato 1 VOLTA nell'aula che sarebbe 
+stata adibita a questo scopo! lo, ed altri 
+studenti avevamo chiesto informazioni 
+al preside dell'istituto e questo non ha 
+fatto che confermare che il nome è tutta 
+una bufala, ha ammesso che per pni si 
+intendono solo qualche ora in più all'an- 
+no di matematica. Si che è la base del- 
+l'informatica, ma almeno un'oretta al 
+mese ci possono portare, o no? Così, 
+deluso da questa notizia, in prima ho 
+frequentato un corso di "informatica" 
+che spiegava l'utilizzo di Windows, word, 
+excel, powerpoit. Nei primi due nn ave- 
+vo problemi ma con i rimanenti ero piut- 
+tosto carente. Ho messo informatica fra 
+
+entesi perché in realtà quello era un 
+
+so di paleontologia: il computer del- 
+-eqnante era uno sfavillante Pentium 
+
+
+
+SATELLITE VS ADSL 
+
+Scrivo a proposito della news pub- 
+blicata sul numero 10 di hacker 
+journal: "ADSL SI ADSL NO" nella 
+news scrivete: "Il divario diventerà 
+ancora più netto con l'ampliamen- 
+to della banda a disposizione delle 
+persone raggiunte dal servizio, e 
+ancora più netta sarà la differenza 
+tra quelli che ormai si ritengono 
+italiani di serie b". 
+Vorrei specificare che i cosiddetti 
+"italiani di serie b" non sono co- 
+stretti a dover scegliere come pro- 
+vider l'Adsl di Telecom o di altri 
+
+
+
+, SI LEGGE' 
+
+mmx 200, mentre le nostre poste 
+erano dei mostruosi Pentium 133. I 
+ralmente l'os era winzoz, ops... wir 
+95 mentre office era in versione 97 
+turalmente quando si voleva accei 
+il reperto e far partire office, si p 
+fare un giro in bagno e ritornare o^, 
+mezz'ora, per ritrovarsi la macchina eh 
+stava ancora macinando... E così ce 
+passare del tempo la mia delusione ai 
+mentova sempre di più, poi all'inizio e 
+quest'anno la presa per il c**o è arrivc 
+ta all'apice: ci è stata proposta la p~ r 
+bilità di ottenere una patente eur 
+dell'informatica (non ricordo il nom 
+preciso) , pagando ben 300 ; bis — 
+svolgere 7 esami riguardanti wind< 
+
+
+
+do in cui ogni mese (se non ogni giorn< 
+vengono messi sul mercato nuovi prc 
+grammi, loro mi insegnano ad usar 
+Windows 95! Ma cosa me ne faccio 
+un os di 7 anni fa!!! Va bene, non pc 
+so pretendere che abbiano l'xp, ,ma e 
+meno un Me ci starebbe bene! Poi s 
+condo me potrebbero anche installa 
+linux, giusto per ridare un minimo di , 
+talità a quei PC. Con questo è da ter 
+pò che io ho smesso di aver fiducia n< 
+le istituzioni pubbliche, se si vuole ir 
+parare bene qualcosa o si fanno e 
+corsi specifici (ma non alla mia età) o 
+studia da autodidatta con guide y- L 
+manuali. 
+
+..:: < Vender > 
+
+
+
+di un'Adsl completo. Ciò non toglie 
+che in molti cosi il collegomento sa- 
+tellitare può essere un'alternativo 
+per chi ha come opzione solo i colle- 
+gamenti dialup. 
+
+
+
+Come ben si evince le possibilità ci 
+sono, basta saperle scegliere. 
+
+GiOvO 
+Vero, ma non troppo. NetSystem ho 
+in effetti un paio di problemi. Innanzi 
+tutto, richiede comunque un collego- 
+mento con modem su linea telefonia 
+(e questo fa sì che tu debba pagare 
+un tanto al minuto, cosa oltre alla 
+maggiore lunghezza di banda, è uno 
+dei più importanti vantaggi di Adsl).^ 
+Poi, lo velocità è molto variabile. E 
+molto veloce con quei siti/file che 
+sono presenti nella sua cache (i più 
+visitati /scaricati dagli utenti). Con 
+gli altri siti, è solitamente più lenta 
+
+
+
+PROPAGANDA VIRALE 
+
+Tempo fa girava un "virus" che tra- 
+mite Outlook prendeva un pezzo di 
+qualsiasi documento di testo dal PC, 
+poi dalla rubrica di Winzoz (Win- 
+dows), prendeva gli indirizzi e man- 
+dava questa sorta di mail a tutti 
+quelli che erano inseriti nella rubri- 
+ca stessa! Il risultato finale era una 
+mail con un pezzo di testo senza si- 
+gnificato e naturalmente lo stesso 
+"virus" (non visibile) che continuava 
+questa sorta di catena di S.Antonio 
+non voluta. Sarebbe possibile usare 
+questo tipo di "virus" per propagare 
+una mail contenente sempre lo stes- 
+so testo? Esiste un sito web dove 
+possa reperirlo? Tutto questo mi 
+serve per far circolare una mail 
+senza usare una catena che tanto 
+non verrà mai portata avanti! 
+
+titto8 
+FERMO L I ' / 
+
+Quello che chiedi è 'manzi tutto scor- 
+retto dal punto di vista della neti- 
+quette, che condonna la propaga- 
+zione di mail non richieste, e l'impie- 
+go di worm e virus, per qualsiasi mo- 
+tivo. 
+
+Secondariamente, ma non meno im- 
+portante, la diffusione di virus è un 
+reato penale piuttosto grave. 
+Cose simili non si fanno, perché non 
+puoi prevedere gli sviluppi, e consu- 
+meresti risorse, banda e tempo di 
+molte persone per i tuoi scopi, anche 
+se nobili. 
+
+Se hai idee o progetti do diffondere 
+e propagandare, trova altri modi: 
+frequenta liste e gruppi di argomen- 
+to affine, crea un sito, scrivi una let- 
+tera mirato... ma lascia perdere i vi- 
+rus e le catene. 
+
+L'unica cosa che otterresti sono le 
+maledizioni di migliaia di persone, 
+la cancellazione dell'account da 
+parte del provider e l'attenzione 
+"particolare" delle forze dell'Ordine. 
+
+
+
+
+-e- 
+
+
+
+8_ll_hjll_News2_OK 16-10-2002 10:56 Pagina 
+
+
+
+NEWS 
+
+
+
+O CAVALLO DI TROIA IN 
+SENDMAIL 
+
+Il CERT/CC rende noto che in alcune copie 
+dei codici sorgenti del mail-server 
+open source Sendmail è contenuto un 
+cavallo di troia. La versione in questione 
+sarebbe la 8.12.6 e distribuiti dal 28 settembre 
+al 6 ottobre 2002. Il trojian apre la porta 
+6667/tcp: il consiglio per tutti è quello di 
+ricompilare Sendmail o filtrare la porta in 
+questione, El 
+
+O L'80% DEI COMPUTER 
+IN CINA È INFETTO 
+
+Il quotidiano "China Daily" riporta i risultati di 
+uno studio condotto dal Centro nazionale di 
+emergenza per i virus da computer. Zhang 
+Jian, uno dei ricercatori che ha condotto lo 
+studio, afferma che "solo il 16% degli 
+utenti di computer non è rimasto 
+vittima di un virus quest'anno". Metà 
+dei computer infetti ha perso dati. &■ 
+
+O SAAAU ITALIAN 
+LAN PARTY 
+
+A Smau, nel Padiglione 9/2-lngresso Porta 
+Metropolitana da giovedì 24 a Lunedì 28 
+Ottobre . Sono queste le coordinate per chi è 
+interessato a partecipare al più grande 
+torneo del genere mai organizzato in 
+Europa. Gli appassionati del multiplayer 
+potranno cimentarsi nei più famosi giochi in 
+circolazione come: Quake 3 Arena, Half Life 
+Counter-Strike, Return To Castle Wolfenstein, 
+Medal of Honor, Jedi Knight II, Tribes, Age of 
+Empires II, Starcraft Broodwar, Fifa World 
+Cup 2002. Per informazioni e per l'iscrizione 
+www - smauilp - i t. H 
+
+
+
+r~ 
+
+
+
+,„. ........ 
+
+
+
+**^" 
+
+
+
+
+
+
+PREW 
+
+
+
+O INCHIESTE SULLE RETI WIRELESS APERTE 
+
+
+
+rrisetti che accompagnavano i racconti di 
+scorribande per le città alla ricerca di reti 
+wireless sprotette, da segnalare col gessetto 
+
+tiarciapiede, stanno lasciando il posto alla 
+:cupazione. Da fenomeno di colore, il 
+riving di sta trasformando in attività 
+organizzata, grazie a siti come consume.net 
+o seattlewireless.com, che mappano i 
+punti di accesso aperti, e invitano 
+apertamente i possessori di un punto di 
+accesso a non applicare protezioni. 
+Quello che di solito non si dice, è che così l 1 
+facendo ci si espone al rischio di 1 
+essere ritenuti responsabili di 1 
+eventuali realti che uno 1 
+sconosciuto potrebbe compiere l 
+sfruttando la connessione Internet t 
+gentilmente resa disponibile. 1 
+
+Anche dalle nostre parti, la presenza di 1 
+punti di accesso non protetti comincia a li 
+preoccupare. Una interessante indagine sul I 
+
+
+
+campo svolta a Milano da Naif e Vodk 
+conto di Portel ha portato a individuar 
+un'ora ben 18 punti di accesso, 
+quali 12 senza protezione Wep. L'arti 
+con le modalità e i risultati dell'inchiesta 
+
+
+
+
+
+
+
+^ - 1 . 1 BgE8 
+
+
+
+O ETICA HACKER A SMAU02 
+
+
+
+uest'anno a SMAU, all'interno dell'area 
+dedicata alla sicurezza informatica, verrà 
+dato grande spazio allo "Ethical hackers' 
+speech" organizzato dagli Italian Blackhats 
+(www.blackhats.it). Blackhats.it , come 
+possiamo leggere nella presentazione del loro sito, 
+"è una comunità di ricerca sorta spontaneamente, 
+formata da un gruppo di persone tra i quali 
+hackers, esperti di security, alcuni che lavorano nel 
+mondo delN.C.T., altri impegnati come ricercatori. 
+Professionisti della sicurezza 
+
+informatica, con forti legami al mondo 
+underground e alla filosofia hacker, che 
+
+
+
+si dedicano all'innovazione tecnologica ed al 
+miglioramento della sicurezza della rete Internet. 
+Lo fanno per proprio conto e con risorse proprie, 
+dedicando il tempo personale a 
+passione...". Social enginee 
+sicurezza del web, attacchi man in 
+middle e crittografia sono solo ali 
+degli argomenti che verranno tra 
+quest'anno. È comunque possibile rintrac 
+il programma completo dei Blackhats all'indi 
+www.blackhats.it/eventi/26102002/programma 
+.pdf o maggiori informazioni sulla manifestazione 
+SMAU all'indirizzo ■ 1 
+
+
+
+O WORM BUGBEAR: IL VIRUS PIÙ PROLIFICO DI TUTTI □ 
+
+
+
+econdo il servizio di monitoraggio di 
+McAfee, Bugbear è primo nella 
+classifica dei virus a più alta 
+usione che hanno interessato 
+ropa durante gli ultimi 30 giorni, e 
+secondo nella classifica dei virus più diffusi in 
+Nord America negli ultimi giorni, 
+diventando di fatto il virus più prolifico ij^" 
+degli ultimi 6 mesi. Il virus, conosciuto 
+anche con il nome Tanatos, è capace ^ 
+di diffondersi attraverso la posta 
+elettronica, condivisioni di rete e ~ } 
+sistemi P2R Molteplici sono gli v / ' 
+
+
+
+effetti per chi è contamii 
+memorizzazione di quello che vieni ^ 
+
+all'installazione di backdoor. 
+Essendo il soggetto e nome 
+del file variabili, l'unica 
+speranza per accorgersi 
+della presenza di Bugbear, 
+oltre che tramite un ottimo 
+' antivirus aggiornato, è 
+quello di controllare la dimensione 
+dell'allegato che è nella stragrande 
+— maggioranza dei casi 
+
+^J 50.688 byte. H 
+
+
+
+8 www.hackerjournal.it 
+
+
+
+-e- 
+
+
+
+8_ll_hjll_News2_OK 16-10-2002 10:56 Pagina 
+
+
+
+NEWS 
+
+
+
+O I 20 BACHI PIÙ FREQUENTI? È L'FBI CHE CE NE PARLA □ 
+
+
+
+SSgkff**' 
+
+
+
+'FBI, congiuntamente ad amministratori di 
+sistema di molteplici nazionalità, ha stilato 
+ila classifica dei 10 bachi 
+maggiormente presenti nei sistemi ' 
+Windows e dei 10 bug che affliggono 
+i sistemi UNIX. La lista, rintracciabile 
+all'indirizzo www.sans.org/top20/, è 
+stata messa a disposizione con lo 
+scopo di rendere note agli 
+amministratori di tutto il mondo 
+le informazioni che gli hacker 
+hanno e sfruttano per penetrare 
+nei sistemi. L'FBI cambia così il 
+proprio atteggiamento nei confronti i 
+della pirateria: da azione investigativa 
+volta ad individuare ed eliminare i 
+potenziali pericolosi ad azione preventiva 
+degli stessi, il 
+
+
+
+O QUASI IL 50% DEL SOFTWARE E ILLEGALE! 
+
+
+
+
+□ 
+
+
+
+urante il convegno "La nuova legge sul diritto d'autore, un'opportunità per il mercato legale 
+del software" tenutosi a Padova la BSA (Business Software Alliance) ha comunicato i 
+risultati di una propria indagine effettuata nel nord-est del nostro paese. Questo è quanto 
+viene detto dal vicepresidente della società Giovanni Ferrari: "Secondo lo studio condotto da Bs 
+il tasso di applicazioni software privo di licenza utilizzati nelle aziende è del 
+45%. Per il Triveneto poi, abbiamo dati ancora più allarmanti: le indagini condotte quest'anno 
+dalla Guardia di Finanza hanno portato al sequestro di oltre 1800 prodotti software illegali per un 
+valore di oltre 1 milione e 200 mila euro con un tasso di illegalità aziendale del 75%". 
+Per concludere: "È chiaro che di fronte ad una situazione di questo genere all'attività di 
+repressione e legalizzazione condotta dalle autorità competenti debba seguire un'intensa attività 
+di informazione e collaborazione con il mercato", rà 
+
+
+
+3 D-l-N-A: DIGITAL-IS-NOT-ANALOG.2002 
+
+
+
+□ 
+
+
+
+
+
+
+al 24 al 26 ottobre a 
+Campobasso, nella 
+
+chiesa sconsacrata di S. 
+
+Bartolomeo, si terrà Digital Is 
+Not Analog, festival di net.art, 
+virus, media jamming, 
+videogiochi modificati e 
+hacking. Giunta alla terza 
+edizione, la manifestazione 
+ha come filo conduttore la 
+rielaborazione di tecnologie 
+e stili della comunicazione 
+elettronica, e vede la 
+partecipazioni di molti 
+ospiti, tra cui spicca * 
+0100101110101101.ORG, ' 
+famoso per alcuni dei più 
+
+
+
+
+famosi colpi mediatici 
+degli ultimi anni, come 
+a creazione e 
+
+i f f u s i o n ( 
+
+all'inaugurazione della 
+
+49esima Biennale di 
+
+Venezia, del virus 
+
+informatico 
+
+k "biennale. py" o il 
+
+memorabile furto della 
+
+galleria d'arte Hell.com, un 
+
+r ~~ioso sito d'arte, 
+
+onsiderato quasi 
+
+impenetrabile. Informazioni 
+
+sugli altri ospiti e sul 
+
+programma si possono trovare 
+
+all'indirizzo d-i-n-a.net. 
+
+
+
+O L'ETICA HACKER E 
+LO SPIRITO DELL'ETÀ 
+DELL'INFORMAZIONE 
+
+Autore: Pekka Himanem 
+Traduzione: Fabio Zucchella 
+Editore: Feltrinelli 
+Pagine: 175 
+Prezzo: 12.91 
+
+
+
+Un libro per spiegare che gli hacker 
+non sono solo i creatori di virus o i 
+ladri di dati come spesso ci viene 
+raccontato. Sono soprattutto le 
+persone che hanno permesso "la 
+creazione del pc e del modem, 
+l'affermazione planetaria di Internet, 
+l'invenzione delle realtà virtuali." 
+Cavallo di troia in Sendmail. 
+
+
+
+O HACKER: L'ATTACCO 
+
+Autore: John Chinilo 
+Editore: Me Graw Hill 
+Pagine: 933 (+ CD-rom) 
+Anno: 2002 
+Prezzo: 51.50 
+
+
+
+L'esperto di sicurezza John Chinilo ci guida in 
+un viaggio "tecnogotico" nel mondo degli 
+hacker illustrato da un hacker. L'autore ci 
+insegna come scovare varchi nella sicurezza 
+di un sistema e come capire quando siamo 
+vittima di attacchi. Interessante è la parte di 
+questo immenso volume, di quasi mille 
+pagine, che viene dedicata al toolkit "Tiger 
+Box" per insinuarsi nelle reti vulnerabili, m 
+
+
+
+O HACKER: LA 
+DIFESA 
+
+Autore: John Chinilo 
+Editore: Me Graw Hill 
+Pagine: 495 (+ CD-rom) 
+Anno: 2002 
+Prezzo: 29.50 
+
+
+
+' John Chinilo, stesso autore di 
+"Hackeri'attacco", si concentra in questo volume 
+sugli aspetti legati alla difesa di un sistema. 
+Basandosi sulla sua esperienza di consulente presso 
+numerose società, Chinilo descrive tutte le 
+contromisure da attivare per la sicurezza dei propri 
+sistema e dei daemon: si passa dai sistemi per 
+impedire la raccolta di nostri dati sensibili fino alla 
+rilevazione e protezione dalle backdoor. « 
+
+
+
+
+www.hackerjournal.it 
+
+
+
+8_ll_hjll_News2_OK 16-10-2002 10:56 Pagina 
+
+
+
+^10 
+
+
+
+NEWS 
+
+
+
+XBOX (DI NUOVO!) 
+CRACCATA 
+
+
+
+Nelle scorse settimane, Microsoft aveva 
+introdotto un nuovo tipo di protezione per la 
+sua console X-Box. Queste protezioni 
+dovrebbero servire a evitare l'esecuzione di 
+software non autorizzati; oltre ai giochi copiati, 
+questo comprende anche Linux (abbiamo 
+spiegato come installarlo nello scorso 
+numero). Diciamo che "dovrebbero impedire" 
+perché a neanche una settimana 
+dall'introduzione della nuova 
+protezione, questa è già stata 
+craccata da due diversi utenti. Il bello è 
+che non c'è nemmeno bisogno di modificare 
+l'hardware della macchina. Per ora, Linux su 
+X-Box può continuare a girare tranquillo. 
+
+
+
+3 NUOVO RECORD 
+DI ELOCITA 
+
+
+
+Durante un convegno xx, due ricercatori 
+dell'Università dell'lllinois hanno raggiunto la 
+velocità record di 2,8 Gigabit al secondo 
+su una dorsale transoceanica, che 
+
+congiunge USA ed Europa. 
+La nuova tecnica, chiamata Photonic Data Services 
+(PDS) è in grado di trasmettere dati a una velocità di 
+circa 500 volte superiore a quella raggiungibile oggi 
+con i protocolli standard di Internet. Con tanta 
+banda a disposizione, chissà come funziona 
+WinMX... ;-) m 
+
+
+
+O NON PAGARE 
+QUESTA MUSICA! 
+
+Questo è il coraggioso slogan di Anomolo, 
+un'etichetta musicale indipendente italiana che non 
+solo distribuisce la musica prodotta gratuitamente 
+su Internet, ma non pone nemmeno alcun limite alla 
+sua circolazione. Tutti i brani scaricabili 
+sono infatti liberi da copyright e non 
+registrati presso la SIAE. Per cominciare 
+a scaricare musica davvero libera, basta 
+puntare il proprio browser all'indirizzo 
+www - anomolo - com 
+
+
+
+"Ln -z« I L-UREii^.n E 
+UN PROCESSO, NON 
+UN PRODOTTO" 
+
+>Bruce Schneier 
+
+
+
+
+
+
+O CIFRATURA A 64BIT SUPERATA 
+
+
+
+□ 
+
+
+
+£a condivisione delle 
+risorse, è questa l'arma 
+utilizzata da I 
+
+distributed.net, che ha 
+coordinato il lavoro di 
+oltre 330.000 
+
+computer. Una potenza di 
+calcolo enorme, che è 
+riuscita ad elaborare la 
+bellezza di 15.769.938.165. 
+
+
+
+
+961.326.592 combinazioni prima 
+
+di individuare la chiave corretta 
+
+per superare "RC5-64 Secret-Key 
+
+Challenge" della RSA security 
+
+che aveva lanciato la sfida 
+
+qualche anno fa. Distributed.net 
+
+oltre a ricevere gli elogi si 
+
+appresta a ricevere un assegno 
+
+di diecimila dollari dalla RSA 
+
+
+
+come ricompensa, l 
+
+
+
+Z> PREZZI DEI CD MUSICALI TROPPO ALTI? 
+FORSE ABBIAMO RAGIONE 
+
+
+
+□ 
+
+
+
+Che i CD musicali fossero troppo costosi è 
+opinione diffusa, ma ci siamo sempre 
+sforzati di credere alle parole delle case di 
+produzione che continuano a dirci che i costi 
+elevati sono dovuti agli investimenti 
+molto alti per la ricerca di 
+nuovi artisti, alla realizzazione 
+del supporto, alla promozione 
+pubblicitaria.... 
+
+Warner, Sony Music, Universal 
+Music, EMI Music e 
+Berteslmann Music 
+
+dovranno versare ben 
+67.3 milioni di dollari di 
+multa per aver mantenuto 
+i prezzi dei CD troppo alti. 
+
+
+
+Questa è la somma che le case discografiche 
+
+hanno deciso di versare per mettere fine ad una 
+
+delicata causa antitrust che da molti mesi li 
+
+vedeva sotto inchiesta: oltre 120 miliardi di 
+
+vecchie lire per non dover 
+
+ammettere di aver creato un 
+
+cartello dei prezzi. Insomma, 
+
+come dire, vi diamo questi 
+
+soldi, ma basta che ci 
+
+lasciate continuare. Inutile 
+
+dire che gli acquirentri non 
+
+potranno in alcun modo 
+
+ricevere nemmeno una 
+
+fettina di questa ingnete 
+
+somma. Come al solito, 
+
+cornuti e mazziati. m 
+
+
+
+
+O "POUCEWARE" AAADE IN USA 
+
+
+
+□ 
+
+
+
+
+-^endere obbligatorio l'inserimento di tutti gli 
+J^strumenti tecnologici possibili come 
+fi strumento antipirateria: è questo il tema in 
+discussione in questi giorni negli Stati Uniti 
+d'America. 
+
+La Consumer Broadband and Digital Television 
+
+Promotion Act (CBDTPA, la legge in 
+
+discussione) è molto criticata in quanto 
+
+permetterebbe di inserire degli 
+
+Spyware, ribattezzati per l'occasione 
+
+policeware, che minerebbero 
+
+sicuramente la privacy degli utenti. 
+
+Tecnologie hardware e software volte a 
+
+permettere un rapido accesso negli apparecchi 
+
+come personal computer o televisioni 
+
+per garantire le proprietà intellettuali 
+
+e la sicurezza del paese: ancora una 
+
+volta, ci si chiede di barattare una presunta 
+
+maggiore sicurezza, con una certa rinuncia 
+
+del fondamentale diritto alla privacy, m 
+
+
+
+-( 
+
+
+
+www.hackerjournal.it 
+
+
+
+8_ll_hjll_News2_OK 16-10-2002 10:57 Pagina *11 
+
+
+
+NEWS 
+
+
+
+
+O LA MACCHINA D^LLA VERITÀ 
+NON DICE LA VERITÀ! 
+
+
+
+□ 
+
+
+
+Èuanto affermato dal National Research 
+touncil. L'NRC ha affermato che l'alto grado 
+i errore delle tecniche poligrafiche rende 
+il sistema inaffidabile e per questo 
+non utilizzabile. L'FBI, che da tempo utilizza 
+le macchine della verità per alcune indagini, si 
+trova ora con l'emergenza di trovare un metodo 
+alternativo, anche se a dire il vero questo è ben 
+lungi dal venire. Frank Horvath, noto docente 
+di criminologia, contesta comunque questa 
+tesi, affermando che "l'assenza di una 
+alternativa, rende di fatto inevitabile l'uso 
+
+
+
+della macchina della verità".H 
+
+
+
+Microsoft ha divulgato tre problemi di 
+
+
+sicurezza per gli sviluppatori che usano le 
+
+
+librerie RPC sui Services for Unix 3.0 Interix 
+
+
+SDK. il link al bollettino è 
+
+
+http: //www- microsoft -com/te 
+
+
+chnet/treeview/default-asp? 
+
+
+url=/technet/security/bulle 
+
+
+tin/msDE- DS7 ■ asp 
+
+
+Problemi di sicurezza sono stati 
+
+
+
+O FIREWALL P3P 
+
+
+
+7)(T e-solution (www.txt.it), in 
+collaborazione con il centro di ricerca 
+dell'Unione Europea Joint Research Centre, 
+ha presentato un'applicazione 
+
+
+
+
+
+completa dello standard P3P (Platform for 
+Privacy Preferences), standard studiato dal 
+World Wide Web Consortium sin dal 1997 per 
+migliorare la gestione dei dati personali sulla 
+rete. L'applicativo, che è open source, 
+essendo realizzato in Java è indipendente 
+dalla piattaforma utilizzata. Il sistema P3P 
+prevede una collaborazione tra il sito e 
+l'utente: quando le specifiche P3P saranno 
+accolte da entrambi i lati della 
+comunicazione sarà possibile per l'utente 
+conoscere, in modo preciso, i tipi di dati che 
+vengono recuperati dal sito e le finalità degli 
+stessi. Quindi piena libertà dell'utente che 
+attraverso il meccanismo delle 
+autorizzazioni potrà consentire lo scambio 
+solo dei dati essenziali o impedirlo 
+completamente. &■ 
+
+
+
+
+
+
+
+
+
+Ult MHI' 
+■- ■ 
+
+
+
+O IL WORM SLAPPER CONTINUA AD EVOLVERSI □ 
+
+
+
+A computer worm in poco tempo si sono molto 
+diffusi e non poteva che essere così anche 
+per Slapper, un worm che ha preso di mira i 
+server Linux. Dopo aver infettato oltre 
+20.000 server nella sua versione 
+originale, Slapper si è evoluto 
+in almeno 5 varianti, 
+continuando così la sua MAY 
+diffusione. 
+
+L'ultima variante che si è diffusa su 
+internet è Mighty, piccola evoluzione 
+del già diffuso DevNull. 
+Mentre tutte le versioni precedenti a 
+DevNull creavano una rete peer-to- 
+peer per comunicare tra loro, 
+quest'ultimo utilizza una chat per 
+poter comunicare con il proprio 
+
+
+
+creatore. Si ritiene comunque che le tecniche 
+che hanno sfruttato la vulnerabilità SSL si 
+esauriranno in fretta in quanto la maggioranza 
+degli amministratori è ormai a conoscenza del 
+problema ed ha già provveduto a risolverlo, cj 
+
+
+
+m VlRGIJVfA oi 
+
+M HUll 
+
+
+
+individuati in un controllo Activex presente 
+nel sistema di help di Windows. Le versioni 
+colpite sono Windows 98 SE, Millenium 
+Editino, NT 4.0 e Windows Xp. I problemi 
+sono due: il primo è basato su un buffer non 
+verificato e permette l'esecuzione di codice 
+arbitrario. Il secondo buco è basato sui file di 
+estensione .ehm che in particolari condizioni 
+questi possono permettere l'esecuzione di 
+azioni arbitrarie e senza controllo sul sistema 
+locale. Il bollettino ufficiale: 
+http: //www- microsoft -corn/te 
+chnet/treeview/default-asp? 
+url=/technet/security/bulle 
+tin/MSDE-DSS-aspa 
+
+
+
+All'indirizzo 
+
+http: //www- microsoft -corn/te 
+
+chnet/treeview/default-asp? 
+
+url=/technet/security/bulle 
+
+tin/MSDE-DSh-asp 
+
+Microsoft mette a disposizione un kit di pach 
+
+cumulative per risolvere le vecchie e le nuove 
+
+vulnerabilità che riguardano SQL Server 7.0, 
+
+SQL Server 2000, Microsoft Data Engine 
+
+(MSDE) 1.0, Microsoft Desktop Engine 
+
+(MSDE) 2000. m 
+
+
+
+
+
+
+-i 
+
+
+
+
+
+
+-e- 
+
+
+
+12_13_hjll_siti_2 16-10-2002 10:59 Pagina *12 
+
+
+
+-O- 
+
+
+
+urfato oer 
+
+
+
+http://wvvw. dvara.net/SK 
+
+
+
+1 5 minuti di celebrità! Questi sono i 
+
+
+
+EBooQir HidTfriir 
+
+
+
+■ 
+
+
+
+■v4i il 
+
+
+
+
+- hmhuèf mu i fitn 1 1 
+
+
+
+GiZw 
+
+
+
+
+
+
+
+* .. ■ 
+
+
+.j 
+
+
+■,-J-l.»* 
+
+
+■ ■HI • 
+
+
+: rf • 
+
+
+._ 
+
+
+r *^i ■ » 
+
+
+■ 
+
+
+M 
+
+
+p» -^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+H il»-. rjM- 
+
+
+
+
+■« ">i^ . ■ i 
+
+
+i 
+
+
+
+n ■«•■ 
+
+
+
+
+***** p**p 1 1 ilFP*hn ^ «pi 
+
+
+
+UbBIHacKerS CroW 
+
+
+
+per nacKer MJiiure. lo aennisco n sito aena cunura 
+una sorta di grandiosa e imponente biblioteca virtuale 
+dedicata alla storia, alla filosofia, all'etica e persino alla poesia e 
+all'arte hacker! Per sua stessa natura, il sito è in perenne 
+costruzione. Insomma va aggiornato di continuo e per ora siamo 
+solo in due. Ciò che voglio far capire attraverso HK è che la 
+tecnica sì è importante perchè ti permette di esprimere al meglio 
+le tue idee. ..ma le idee non le acquisisci tramite le tecniche! La 
+rete pullula di tecniche. ..credo che sia giunta l'ora di ripercorrere, 
+soprattutto di questi tempi, 
+
+anche un pò l'ideologia hacker, il fine dell'hacking, lo spirito 
+hacker. Steven Lévy scrive: 
+
+" L'hacker.. .[pratica]. ..l'esplorazione intellettuale a ruota libera 
+delle più alte e profonde potenzialità dei sistemi di computer, o 
+la decisione di rendere l'accesso alle informazioni quanto più 
+libera e aperta possibile. Ciò implica la sentita convinzione che 
+nei computer si possa ritrovare la bellezza, che la forma estetica 
+di un programma perfetto possa liberare mente e spirito". 
+Se conosci solo la tecnica puoi cambiare un sistema 
+informatico; se sei anche ideologicamente un hacker allora puoi 
+anche cambiare il mondo. ..o comunque tentarci! In ogni caso 
+migliori te stesso!!! L'accesso a tutte le informazioni è bene, 
+purché non ne venga esclusa nessuna! Stringere con forza nel 
+palmo della propria mano tutto il sapere è bene, purché questo 
+non ti faccia sentire egoisticamente potente! Il rischio c'è, ora 
+più che mai, di stravolgere ciò che si è acquisito, tecnicamente 
+parlando, per metterlo al servizio del proprio ego o peggio ancora 
+di un sistema ingiusto. Ed ecco quindi la necessità di "non 
+dimenticare"; la necessità di "ricordare"! 
+Non è la tecnica che fa di te un "hacker", ma la "forma mentis" e 
+l'etica! Prorpio E.S. Raymond, affrontando la questione dell'etica 
+hacker, ha scritto: 
+
+"Gli Hackers risolvono i problemi e costruiscono le cose, credono 
+nella libertà e nel mutuo aiuto volontario. Per essere accettato 
+come un hacker, ti devi comportare come se avessi questo 
+atteggiamento nel sangue. E per comportarti come se avessi 
+questo atteggiamento nel sangue, devi realmente credere nel 
+tuo comportamento. Se pensi a coltivare un atteggiamento da 
+hacker giusto per essere accettato 
+
+nella hacker-culture, allora non hai capito. Diventare il tipo di 
+persona che crede in queste cose è importante per te per aiutarti 
+ad imparare e per avere delle motivazioni. Come con tutte le arti 
+creative, la via più efficace per diventere un maestro è imitare la 
+forma mentis dei maestri - non solo intellettualmente ma anche 
+emotivamente." 
+
+
+
+
+http://www.ubrihackers.it 
+
+Sono il fondatore della ubrihackers crew. Chiedo corte- 
+semente che il nostro sito sia segnalato su HJ. 
+
+
+
+nnu 
+
+
+
+
+www.hacker-school.coi 
+
+
+
+Questo portale si occupa di sicurezza informatica e di 
+tutto quello che per noi è l'hacking, nella forma più eti- 
+ca possibile. 
+
+
+
+www.hackerjournal.it 
+
+
+
+
+-e- 
+
+
+
+12_13_hjll_siti_2 16-10-2002 10:59 Pagina *13 
+
+
+
+
+vostri siti; scegliete voi se tirarvela o vergognarvi 
+
+
+
+
+
+
+LD-HACKK> 
+
+
+
+■rtfrvinua hìE mhw I 
+
+
+
+UjlìAiifiiril'UiciJfiqidrilA 
+
+
+
+\IV MMXin 
+
+
+
+
+
+
+Ih* ni i uiMnliTiriJF LMii ridata»* ■«■ ifciJHrrrhr ci 
+,11 jM^nrnH-r^yl MIH- -Ita- J-.l-H . ilì.Br--Uh- d. .. --i m- 
+
+
+
+9 
+
+
+LÀ NPf lUi. 
+
+
+
+
+• 
+
+
+
+
+
+
+■_i ■ - ., ■» " " , "' 
+
+
+Z 
+
+
+
+
+■ 
+
+
+- vT^. ^ 
+
+
+
+^TrrwpaNEisr 
+
+-CMIUUMElfrF NON Ul USUI!» WSSIJIttJreiPllHiAllLIFV fUl 
+( ti! Il a//u ni i nnw JuvJMl Q UH l P tìim \n yut >|a ni* 
+
+
+
+.e volete info e materiale per Hacking o programmazione, siete i ben- 
+venuti! Ciao. 
+
+
+
+le a miei due amiciun sito che si 
+ccupa principalmente di maste- 
+izzazione e Linux. È è dal 6 nu- 
+nero che vi seguo (e non ne per- 
+do nemmeno uno) ma ho tutti i 
+pdf e gli sfondi degli arretrati!!! 
+P.S. Leggo tutto il vostro giornale 
+in circa 15 minuti. ..vi sembro 
+troppo "assatanato"??? :) 
+
+
+
+klHM.Sd-tEXi3GSiSZ.IZaM 
+
+
+
+HMil jfc. I 
+
+LHflWGB ■■■■ : - 
+#cpuh 
+
+=TVIilH 
+
+■ !:■-". 
+
+
+
+*h*irAlll l fri kpiTA riJ 1A n> ■ i ■.: I -A PAN i e lì i 1 1 J r 1 I ì 
+
+li-M ( ■ ■ ■ ' I. I. H IMI 
+
+CUCCA QUI PER VOTARE (ballane S HcandHI) 
+
+
+
+I Ai>ri ■• dir di-— iiill dlu-v >*- HtìdH «UN <J riU Efc urtirt * 
+
+^EjEPint-ft hiTTn miPh^i i! hi 
+win mirili 
+
+CDHF^. Ulùh _ , yj^phi a j|^„ dtg | hKÌ a, «..j^iw I n^n pc fc IKDT* 
+
+J bnt.il un. mul.q *«nfc m npil pi™. * HipuMftB d **— , 
+
+lihl i\ nMTH.ikjihihii.Lifil u mainili miai- ' * '" ' -■■■■" 
+
+.Ir 11 .if.rtn-p -J h.jr. diun aiÉt |in dinim iiJ zm*r** iitind ij li|flMI Itali n ' i,1fl «■ flI ™ m I 
+
+■I gei n rapila rivi ie£jI i'""i>!."« • 
+
+. ■ ufi *■■■ r^d^i v m m Marna f j-pt fun Jir 
+
+HPhJt%HÌir I 
+
+
+
+ravi! Complimenti per il lavoro svolto fino ad ora, nonostante le criti- 
+che (giuste) sui primi numeri siete riusciti a continuare migliorando, è 
+cosi 1 che si fa! Colgo l'occasione per segnalare il mio sito: www.alex- 
+bessi.com che si occupa di Linux, programmazione, security e linguag- 
+gi web. A proposito troverete tante guide, manuali e tutorial! inoltre è 
+possibile inviare il proprio sorgente e vederlo pubblicato nell'apposita 
+sezione del sito! 
+
+
+
+www -atstake ■ com 
+
+Oggi le aziende tendono ad as- 
+sumere degli hacker come esper- 
+ti di sicurezza (e non a torto: chi 
+può difenderli meglio?). Qualche 
+anno fa però le cose non stavano 
+così, e la notizia della fusione tra 
+@stake (azienda di security) e gli 
+hacker di LOpht Heavy Industries 
+aveva creato un certo scalpore. 
+Sul sito di @stake si possono tro- 
+vare notizie interessanti, viste 
+con rocchio di chi si occupa di si- 
+curezza, ma è stato dall'altra 
+parte della barricata. 
+
+
+
+
+
+
+
+
+
+
+HMIi- , M|y ÈGt^miTK* 
+
+
+
+14_17_hjll_plldm 16-10-2002 9:37 Pagina *14 
+
+
+
+
+■e- 
+
+
+
+DOSSIER .■ 
+
+
+
+Il Grand 
+si chia 
+
+
+
+Altro che Qrujell: se il 
+progetto Palladium di 
+Microsoft andrà in porto, 
+saremo tutti un po' meno 
+liberi e un po' più spiati. 
+
+
+
+:'E, COME FUNZIONA 
+
+
+
+E 
+
+
+
+inutile nascondercelo, stia- 
+mo vivendo un periodo mol- 
+to difficile. I fatti dell'I 1 set- 
+tembre 2001 hanno cambiato molte co- 
+se nel mondo che ci circonda e soprat- 
+tutto hanno portato alla luce un aspetto 
+del problema che prima preferivamo 
+ignorare o, peggio ancora delegare in 
+toto a qualcun altro: la sicurezza. 
+Prendendo la palla al balzo, in modo 
+esplicito negli USA e di riflesso in Euro- 
+pa, i politici ci hanno messo di fronte ad 
+un a scelta: barattare la nostra pri- 
+vacy in cambio di una maggiore 
+sicurezza. 
+
+Purtroppo sotto l'onda emozionale ed 
+una spinta dei media, molte persone 
+hanno risposto positivamente a questa 
+richiesta, anche se il problema era com- 
+pletamente sbagliato e la sicurezza po- 
+teva essere ottenuta anche nel rispetto 
+della privacy e dei diritti costituzionali. La 
+storia ci insegna, tristemente, quanto sia 
+importante per il potere politico aumen- 
+tare il controllo sulla popolazione, visto 
+che da questo dipende il proprio futuro. 
+C'è quindi qualcuno che ha visto in que- 
+sto un business e ha tirato fuori dal cas 
+
+
+
+
+GUAI PRODURRA PALLADIUM 
+
+
+
+
+setto i piani già pronti per un "computer 
+sicuro" e li ha mostrati a tutti. 
+Il consorzio TCPA (Trusted Computing 
+Platform Alliance) ha le sue radici nel 
+lontano ottobre 1999, quando Com- 
+paq, HFJ IBM, Intel e Microsoft hanno 
+messo le radici per "un'iniziativa fo- 
+calizzata nel migliorare la fiducia 
+e la sicurezza nei computer". Ora 
+questa alleanza ha più' di 150 parteci- 
+panti. 
+
+
+
+Il sito della TCPA, Trusted Computer 
+Platform Alliance, principali promotori di 
+Palladium (www.trustedcomputing.org). 
+
+
+
+» Ecce Palladium 
+
+I Palladium è un'architettura hadrware e 
+\ software che permette di controllare 
+
+I tutte le applicazioni che funzionano al- 
+
+II l'interno del PC , a partire dal disco di 
+|l boot, in modo molto simile al sistema 
+
+1 di "blindatura" della console X-Box. 
+I In un computer Palladium, già al mo- 
+1 mento del boot viene verificato il con- 
+
+I tenuto della flash rom responsabile 
+
+II del boot e la chiave di accesso al di- 
+■ sco, che è cifrato (magari scritta al 
+suo interno direttamente dal produtto- 
+re), per verificare che il supporto sia 
+omologato ed adatto allo standard di si- 
+curezza. Effettuata questa verifica, il si- 
+stema puà decifrare il disco e caricare 
+"regolarmente" il kernel del sistema ope- 
+rativo. In fase di boot vengono anche 
+state verificate tutte le connessioni con le 
+periferiche, come la tastiera, visto che 
+solo le periferiche che sono riconosciute 
+dal sistema grazie alle loro chiavi po- 
+tranno essere abilitate. La stessa tastiera 
+comunica con il sistema attraverso un 
+
+
+
+www.hackerjournal.it |14 
+
+
+
+-e- 
+
+
+
+
+14_17_hjll_plldm 16-10-2002 9:37 Pagina *15 
+
+
+
+canale cifrato, per evitare che possa es- 
+sere facilmente decifrata da qualche 
+programma residente. 
+Il cuore del sistema è il componente di 
+cifratura, che a seconda delle diverse 
+fonti di informazione può essere inserito 
+all'interno della CPU come set di funzio- 
+ni estese (AMD per esempio) oppure co- 
+me chip a se stante che si frappone tra 
+la CPU ed il resto della motherboard a 
+cavallo del south bridge (che controlla il 
+bus PCI). 
+
+Palladium gestisce tutti i processi del PC. 
+Prima di avviare un processo, que- 
+sto viene sottoposto all'attenzione 
+del sistema di controllo, che ne ve- 
+rifica le credenziali (la chiave) e 
+l'integrità. Ma non solo! Ogni singolo 
+file che viene mostrato, immagazzinato 
+o trasmesso viene sottoposto allo stesso 
+esame. 
+
+Di conseguenza è possibile che un 
+messaggio di posta che avevamo 
+immagazzinato per promemoria, 
+svanisca perché chi lo ha spedito vi ha 
+impresso sopra una data di scadenza, 
+oppure che quando riproduciamo 
+un file Mp3 il sistema di DRM (Di- 
+gital Rights Management) ci chie- 
+da di dimostrare che abbiamo an- 
+che il CD originale prima di eseguire 
+il brano (a questo punto può anche can- 
+cellarlo o acquistarne i diritti in modo 
+automatico/autonomo come il produtto- 
+
+
+
+Le Faq su Palladium in Italiano 
+
+www -complessità- it/tcpa 
+
+Gates e la Cina 
+
+www-cw-com-hk/CommGnt/cTìD713DDl-htm 
+
+
+
+InfoWorld: Microsoft serves up Palladium details 
+
+www.infoworld.com/articles/hn/xml/DE/D7 
+DED7EThnpalladium-xml 
+
+VeriSign issues false Microsoft digitai certificatesi 
+
+www-itworld.com/Sec/^3T/IUDlD3EEhnmi- 
+
+croversign/ 
+
+Microsoft to reveal Palladium source code: 
+
+http://news.com.eom/ElDD-:iiDD:ii-T3flT73.ht 
+
+
+
+re del player ha deciso si debba com- 
+portare) 
+
+Mario Juarez, product manager per la 
+unità di "content security business" in Mi- 
+crosoft, sostiene che "Palladium non è il 
+DRM, ma è solo la piattaforma ideale 
+per costruirci sopra un gestore di DRM", 
+come dire che se non è zuppa è pan ba- 
+gnato. 
+
+» Sicurezza e rischi 
+
+
+
+The Big Secret 
+
+http://cryptomG.org/palladium-sl.htm 
+
+
+
+Ancora non è dato sapere nulla sulle 
+specifiche tecniche dettagliate dell'archi- 
+tettura hw/sw di Palladium, ma è certo 
+che Palladium sarà comunque basato su 
+un cuore che gestisce la cifratura dei da- 
+ti, e l'accesso a questo tramite delle chia- 
+vi di lunghezza (e quindi sicurezza) piut- 
+tosto elevata. Come in tutti i sistemi di ci- 
+fratura, il cuore del problema è la reale 
+sicurezza dei dati e i dubbi che sorgono 
+sono relativi a tre punti chiave: 
+
+- gli algoritmi usati; 
+
+- la cifratura di tutte le comunicazioni tra 
+il PC ed il gestore delle risorse (e quindi 
+non è possibile sapere quali dati vengo- 
+no inviati ai gestori su internet dal nostro 
+sistema); 
+
+- l'eventuale presenza di una backdoor 
+(o Master Key) che permette a Microsoft 
+o a un qualche governo di aprire tutti i 
+file del sistema e di conseguenza le ga- 
+ranzie di custodia/furto 
+della chiave stessa. 
+
+Gli algoritmi di cifratu- 
+ra sono il prodotto di 
+sofisticati e robusti si- 
+stemi matematici, non 
+il risultato di una bril- 
+lante intuizione. Gli al- 
+
+. htm goritmi devono essere 
+
+valutati dalla comunità 
+perché potrebbero 
+avere un tallone di 
+Achille che li rende fa- 
+cili preda di un pro- 
+
+ificates: grammatore smalizia- 
+
+to, magari più brillante 
+dello scienziato che ha 
+inventato l'algoritmo. 
+In pratica, non è ne- 
+cessari reinventare l'ac- 
+qua calda quando so- 
+no a disposizione deci- 
+
+. htm ne di algoritmi di cifra- 
+
+
+
+Ok, stiamo tirando un po' a indovinare, ma abbiamo 
+voluto provare a immaginare quali conseguenze il 
+nuovo sistema di Microsoft potrebbe avere sulle attivi- 
+i quotidiane di ognuno di noi. Ecco una lista: 
+
+
+
+Rippare CD e DVD 
+
+e connessioni tra lettore e Cpu sarebbero cifrate, e 
+on sarebbe possibile intercettare questi dati. 
+
+! Scaricare, eseguire o duplicare formati di fi- 
+s non protetti (Mp3, Mpg, Wav, Aiff). 
+
+sistema di Digital Right Management potrebbe limi- 
+le l'utilizzo di tutti i formati che non utilizzano un si- 
+tema di autenticazione dei contenuti. 
+\ Usare un keylogger 
+vnche i dati in arrivo dalla tastiera dovrebbero essere 
+
+cifrati, per cui non possono essere intercettati. 
+
+4 Usare driver non ufficiali per le periferiche, 
+
+o periferiche non supportate 
+
+Il sistema può rifiutarsi di far funzionare una periferica 
+
+con un driver alternativo (come quelli di www.kxpro- 
+
+ect.com per le schede audio). 
+Usare software alternativo 
+formato di file dei documenti potrebbe essere sotto- 
+
+Dosto alle regole restrittive per la gestione del conte- 
+uto. Open Office, che cerca di utilizzare formati di fi- 
+
+e proprietari, potrebbe quindi diventare illegale. 
+
+6 Eseguire un backup del software o di cont- 
+enuti multimediali 
+
+Ancora una volta, i meccanismi di controllo del copy- 
+ght potrebbero impedire operazioni perfettamente 
+ecite, come l'esecuzione di una copia di backup per- 
+onale. 
+
+7 Usare freeware e software a basso costo 
+Ottenere una chiave per firmare i propri software po- 
+rebbe avere un costo che renderà impossibile la rea- 
+izzazione di freeware. La chiave di un software non 
+Dotrà essere divulgata, e quindi non potranno essere 
+Dubblicati i sorgenti del programma. Questo impedi- 
+ebbe l'utilizzo di software open source per Windows. 
+
+» Vedere film o ascoltare musica su sistemi 
+non Palladium compatibili 
+
+jors potrebbero produrre CD e DVD che posso- 
+o essere riprodotti solo su sistemi Palladium, taglian- 
+o fuori tutti gli altri. 
+Vedere alcuni siti Internet 
+iccome i loro certificati non saranno conformi a quel- 
+delia nostra macchina, verranno automaticamente 
+3ti perché potenzialmente pericolosi. 
+..on potreno più fare scherzi agli amici 
+siti, anche quelli dove non siamo mai stati, ci di- 
+» all'arivo: "Benvento dott. Gugielmo, come sta? 
+a famiglia? Ho visto che una ora fa sua moglie ha 
+omprato un'aspirina su www.compramedicinali.it... 
+
+
+
+vww.hackeriournal.i 
+
+
+
+14_17_hjll_plldm 16-10-2002 9:37 Pagina *16 
+
+
+
+-O- 
+
+
+
+GUAI PRODURRA PALLAD: 
+
+
+
+tura stabili ed approvati da una vasta 
+comunità internazionale. (AES/Rijn- 
+dael, RC6, MARS, Twofish, CAST, 
+IDEA, DES, Triple DES RC2, RC5, i 
+Blowfish, Diamond2, TEA, 3-WAY, 
+GOST, CAST). Palladium, in questo , 
+caso, dovrebbe usare degli algorit- 
+mi di cifratura pubblici e certificati. 
+Per quanto riguarda la custodia 
+delle chiavi, il problema non è fa- I 
+cilmente risolvibile, basta guarda- I 
+re ad un paio di episodi poco edi- I 
+ficanti successi nel cosso dell'ulti- I 
+mo anno. Il 29 ed il 30 gennaio I 
+2001 VeriSign ha emesso per I 
+errore due certificati Micro- 
+soft a un impostore metten- 
+do in serio pericolo gli uten- 
+ti. Mahi De Silva, vice presiden- ' 
+te di VeriSign, ha comunicato 
+che questi sono gli unici due 
+certificati fraudolenti emessi per errore, 
+tra gli oltre 500.000 certificati enessi 
+dalla società di garanzia, ha inoltre spe- 
+cificato che prima dell'emissione (la ri- 
+chiesta avviene in modo elettronico) due 
+persone controllano e verificano i dati 
+manualmente. Un altro esempio e quel- 
+lo che è successo con i Dvd ed il pro- 
+gramma DeCSS quando il castello delle 
+chiavi e dei certificati è stato compro- 
+messo dalla fuga di notizie (per i DVD 
+un errore della Xing che ha divulgato la 
+propria chiave di encription grazie al ri- 
+verse engineering del suo player ad 
+opera di MoRE (Masters of Reverse Engi- 
+neering). 
+
+
+
+»0pen source: 
+la risposta 
+
+L'unica soluzione a tutti 
+questi dubbi è quella del- 
+l'Operi source. Solo per- 
+mettendo agli utenti di 
+verificare il codice, e 
+soprattutto di Jt 
+
+
+
+
+fcM.KSifcC 
+
+
+
+
+
+
+nismi di protezione del 
+sistema operativo, più 
+facile diventa per loro 
+creare virus che posso- 
+no disabilitare questi 
+meccanismi", a sostegno 
+dei pericoli intrinseca- 
+mente legati alla piatta- 
+forma Open Source. 
+A sorpresa Juarez ha in- 
+vece detto che il codice 
+potrebbe essere pubblica- 
+to, questo non significa 
+che sarà Open Source, a 
+conferma di una teoria più 
+attuale che dimostra come 
+i progetti open source siano 
+egualmente sicuri rispetto a 
+quelli "protetti". 
+Molto sorpreso, ma anche 
+soddisfatto dalle affermazio- 
+
+
+
+^i mj T ^v n/ ti 
+
+
+
+mente 
+
+ricompilare per verificarne l'effettiva in- 
+tegrità, è infatti possibile garantire gli 
+utenti contro la presenza di errori gros- 
+solani e sottili, ma anche fugare ogni 
+dubbio sulla presenza di trappole e sot- 
+terfugi. Un esempio di questa politica e 
+quella seguita per PGF) che sviluppato 
+da Philip Zimmermann con sorgenti 
+pubblici, ha raccolto un enorme succes- 
+so fino all'acquisto di NAI, con un bloc- 
+co della diffusione per il timore che la 
+grande società avesse potuto immettervi 
+delle chiavi "speciali" (Master Key, in ger- 
+go) di controllo sotto la pressione del 
+governo americano. NAI è 
+stata quindi costretta a ven- 
+dere nuovamente PGP a 
+^ !»w . una società privata 
+
+(Pgp Corp, 
+
+www.pgp.com) 
+che continuerà 
+\fc proporre il 
+-/ prodotto in 
+open source. 
+Durante il pro- 
+cesso dell'antitrust 
+a Microsoft, Jim All- 
+chin, senior vice 
+president per Win- 
+I dows, ha so- 
+j, stenuto "Più 
+cose i creato- 
+ri di virus cono- 
+scono sui mecca- 
+
+
+
+www.hackerjournal.it |16 
+
+
+
+
+
+
+
+ìji> i=* 
+
+
+i~\v 1 *~A 
+
+
+
+
+
+
+Jl/ 1 
+
+k^^^^*^"^ i-i-" 
+
+
+r. m 
+
+
+
+
+ftia£ r 
+
+
+
+
+^^JInS' 
+
+
+
+n legittimo sospetto 
+
+'li analisti che hanno qualche dub 
+sul sistema Palladium sono. Anni di 
+successi nel campo della sicurezza e 
+fondamentale atteggiamento di indi 
+renza verso le segnalazioni di probl( 
+
+Ìegli utenti (il tutto mascherato da 
+ìunicati stampa trionfali sulla scon - 
+i virus e trojan horse), hanno pori 
+na fascia del pubblico a odiare il _„ 
+>sso di Redmond, come se stesse com- 
+attendo una guerra santa, altri a di ' * 
+tare sempre delle parole di Bill Ga 
+una ulteriore parte ad avere un att 
+giamento molto freddo verso le prorr 
+se della software house. 
+Anche se alcuni dati lasciano pens 
+che poi dopo tutto Windows 2000 r 
+sia peggio degli altri sistemi operativi 
+articolo del 24 settembre 2001 e 
+to sulle segnalazioni di Bugtraq, J< 
+AcCormick evidenziava, che le falle 
+inalate erano in numero assolutami 
+omparabile a quelle degli altri sist 
+•aerativi, suscitando un vespaio di p< 
+e e popolando con le sue afferr 
+oni le slide promozionali della Mie 
+oft (notate che i problemi di W2K s< 
+□ti separati da quelli di US, se 
+.andò i due Windows balza immec 
+imente in testa alla classifica del • 
+
+
+
+-e- 
+
+
+
+
+14_17_hjll_plldm 16-10-2002 9:37 Pagina *17 
+
+
+
+^ 
+
+
+
+pre-OS 
+
+
+
+P race ss 
+
+
+
+
+Pracess 
+
+
+
+
+schema delle verifiche effettuate al boot, tratto dalla presentazione che Li 
+Green ha tenuto al DefCon X (la presentazione si trova in formato Pdf e Po 
+
+
+
+int su www.cypherpunks. 
+
+
+
+ni di Juarez, è Bruce Perens, un evange- 
+lista del progetto e creatore della stessa 
+definizione di Open Source: "Penso che 
+Microsoft stia ammettendo che può dif- 
+fondere il codice sorgente a tutto il mon- 
+do, senza necessariamente urtare la si- 
+curezza dei programmi" 
+
+
+
+ma per rippare i CD viene giudicato 
+
+"non sicuro", alla faccia del diritto di 
+
+backup, e quindi non gli viene data la 
+
+chiave. 
+
+Nelle mani di chi volgiamo mettere la 
+
+scelta di quali software possono essere 
+
+installati ed utilizzati sul nostro PC? 
+
+
+
+»Distribuzione delle chiaui »Ma quando arriua? 
+
+
+
+Ultimo dei problemi è senza dubbio la 
+distribuzione delle chiavi. Chiunque svi- 
+luppi un software o un sistema operati- 
+vo, senza acqui- 
+stare una chiave 
+non potrebbe dis- 
+tribuire il suo pro- 
+dotto. Altresì ci 
+sarebbe una 
+
+commissione che , 
+dovrebbe valuta- 
+re l'applicazione 
+per vedere se 
+contiene back- 
+door oppure j 
+del codice mali- I 
+zioso. Tutto j 
+questo fa sì che I 
+il costo di 
+una chiave l- 
+
+
+
+sono tra 
+
+
+
+possa lievi- ■ 
+
+tare a valori . 
+
+. circuì 
+
+che un prò- TcpA 
+
+
+
+gestione 
+
+
+
+amatoriale 
+
+software non si può permettere. 
+
+Inoltre chi giudica se un programma è 
+sicuro? Magari scopriamo che un siste- 
+
+
+
+II progetto Palladium dovrebbe vede- 
+re la luce nel 2004 anche se si pensa 
+che l'architettura potrebbe essere 
+completamente implementata e 
+acquista dal 
+
+
+
+2006. 
+
+Nel frattem- 
+i pò è di gran- 
+de interesse 
+vedere cosa 
+si muove ri- 
+guardo le mi- 
+sure anti pira- 
+teria e DRM 
+sulla piattafor- 
+ma Microsoft, 
+, con l'introdu- 
+■ zione del nuovo 
+I Media Player 9 
+_ m - ■ ui iDrr| ma già presente 
+nella versione 7, 
+con la lettura del 
+licence agree- 
+ment che recita 
+(tradotto dall'inglese) 
+"Voi accettate che per poter protegga- 
+
+
+
+
+sene T di Ibr 
+
+
+
+re l'integrità del contenuto e del 
+software protetto dal DRM, Mi- 
+crosoft può fornire aggiorna- 
+I menti di sicurezza ai componenti 
+I del sistema operativo, che po- 
+I tranno essere scaricati (ed instal- 
+I lati) automaticamente sul vostro 
+I Computer. Questi aggiornamenti 
+I di sicurezza potranno disabilitare 
+I la possibilità di copiare o mo- 
+I strare i file con "Contenuto Sicu- 
+I ro" o l'uso di altri software all'in- 
+terno del vostro computer". 
+Secondo qualcuno però, Palla- 
+dium diventerà davvero una real- 
+tà quando Microsoft decide- 
+rà davvero di porre un freno 
+alla pirateria software, fin 
+qui tutto sommato tollerata, per 
+mostrare il conto a chi usa program- 
+mi copiati. Bill Gates ha sognato per 
+anni di trovare un modo di fare pa- 
+gare il software ai Cinesi, Palladium 
+potrebbe essere la risposta alle sue 
+preghiere: ecco cosa ha detto Gates 
+agli studenti dell'università' di Was- 
+hington nel lontano luglio 1999: 
+"Nonostante in Cina vengano venduti 
+circa tre milioni di computer ogni an- 
+no, le persone non pagano per il 
+software. Un giorno, comunque, lo 
+faranno. Fintanto che lo rubano, noi 
+vogliamo che rubino il nostro. Ci si 
+abitueranno e dopo, in qualche mo- 
+do, troveremo come riprendere il de- 
+naro, prima o poi nel prossimo de- 
+cennio" 
+
+Infine, una nota storica. Trovo molto 
+divertente e sottilmente ironico è il no- 
+me del prodotto, Palladium, preso in 
+prestito dalla mitologia greca, dato 
+che Palladio è il nome del gigante uc- 
+ciso dalla dea Atena, dea della guer- 
+ra, della saggezza e delle arti libera- 
+li, ma anche protettrice della città di 
+Troia, e tutti sappiamo che fu espu- 
+gnata da Ulisse grazie allo stra- 
+tagemma del Cavallo di Troia, 
+appunto. Che in questo ci sia un "in- 
+volontario" messaggio di ammoni- 
+mento? A buon intenditore, poche 
+parole. 
+
+Guglielmo Cancelli 
+
+(Guglielmo.Cancelli@hackerjournal.it) 
+
+
+
+21_hjll_acquisti 16-10-2002 11:04 Pagina *21 
+
+
+
+
+COME METTERE IN REGOLA IL SOFTWARE ACQUISTATO IN ALTRI PAESI 
+
+
+
+Per la Finanza, la proua più conuincente della "regolarità" del software è la fattura; 
+ma come fare quando il progrmama è stato acquistato e scaricato uia Internet? 
+
+
+
+oprattutto in ambito 
+aziendale vi sono molti 
+dubbi su come acquistare software Share- 
+ware o dall'estero e come poterlo poi re- 
+golarmente mettere in contabilità azienda- 
+le. Lasciando perdere quanto relativo alla 
+bollinatura SIAE - per maggiori informa- 
+zioni conviene rivlgersi direttamente alla 
+SIAE anche se in alcuni casi non è previsto 
+il bollino per il software - si può sintetizzare 
+la legge in tutela del software questa pre- 
+vede sanzioni per chi duplica o utilizza pro- 
+grammi per elaboratore senza averne di- 
+ritto. Il diritto all'uso del programma, di- 
+pendendo dall'acquisto della relativa licen- 
+za d'uso, viene acquisito all'atto dell'acqui- 
+sto e pertanto si è perfettamente in regola 
+sotto questo punto di vista. 
+
+
+
+Ir 
+
+
+
+»"Scaricare" 
+
+i programmi scaricati 
+
+
+
+Innanzitutto occorre fare una distinzione 
+tra il software "pacchettizzato" - ovvero co- 
+stituito da confezione, manuali CD e altro - 
+e il software che invece viene acquistato e 
+prelevato dai server (download) solo in for- 
+ma elettronica. 
+
+Per quanto riguarda il software acquistato 
+onLine (o la shareware che viene registrato 
+all'estero) il suo uso anche in ambito 
+azienda- _ — 
+
+
+
+.1* ■ m+Brttm *•' ^^ 
+
+
+
+i cosa leggermeli 
+te più complessa è la registrazione 
+della fattura da richiedersi sempre al 
+venditore. Per regi- 
+strarla è infatti neces- * 
+sario una autofattura 
+in cui si farà riferimen- 
+to alla fattura origina- z 
+le del fornitore, si indi- 
+
+
+
+I p__ ^3 ■■*■ 
+
+
+
+chera qual e il bene * " 
+acquistato e quale sia ■ 
+il suo prezzo, espres- 
+so in valuta italiana. 
+Per la determinazio- 
+ne del prezzo in va- 
+luta italiana, è co- j 
+modo allegare al- 
+l'autofattura la co- 
+pia dell'estratto conto della carta di 
+credito usata per il pagamento oppure, in 
+caso di trasferimento tramite banca (raro e 
+caro), si allegherà la documentazione ban- 
+caria con indicato 
+
+l'importo in Euro. Su questa autofat- 
+tura verrà applicata anche PIVA, che 
+potrà poi essere dedotta a livello 
+contabile essendo questa sia una fattura 
+di vendita che al tempo stesso di acquisto. 
+
+»Pacchi e spedizioni 
+
+Per il software costituito anche da beni ma- 
+teriali (supporti dati, confezioni, manuali 
+eccetera), essendoci il transito di questi da 
+una dogana, è necessario anche pagare il 
+relativo Dazio oltre all'IVA. Se si chiede al 
+fornitore di spedire il materiale tramite un 
+corriere internazionali (per es. Federai Ex- 
+press), sarà quest'ultimo ad effettua- 
+re tutte le pratiche di sdoganamento 
+e ad anticipare (per piccoli importi) IVA e 
+Dazio. Unitamente alla merce si riceverà 
+poi dal corriere una "fattura doganale" 
+che potrà essere messa in contabilità. 
+Ultimo caso in esame, è quello dei prodot- 
+ti acquistati di persona all'estero e poi im- 
+portati in Italia. In questo caso è consiglia- 
+
+
+
+
+bile contattare uno spedizioniere prima 
+della partenza - è facile trovarne in quasi 
+tutti gli aeroporti - e chiedergli tutte le 
+formazioni del caso. Fino a un po' di ( 
+fa, rivolgendosi a uno 
+diozioniere 
+| prassi era decisa- 
+mente semplice. 
+Era infatti sufficien- 
+' te compilare una 
+distinta dei beni da 
+sdoganare e conde- 
+gnarla, unitamente 
+al materiale, allo 
+spedizioniere. Come 
+nel caso del cor- 
+riere inernaziona- 
+le, anche lo spedi- 
+zioniere consegne- 
+rà una fattura og 
+naie da mettere in contabilità. 
+
+
+
+»Risparmiare qualcos 
+
+In tutti i casi di importazione fisica di _.. 
+prodotto software, se il software è venduto 
+disgiunto dai manuali o se sono voci distin- 
+te in fattura, è consigliabile indicare ogni 
+voce per conto proprio con il relativo prez- 
+zo. Il motivo di ciò è presto detto: le ali- 
+quote possono essere diverse a se- 
+conda del fatto che si tratti di un pro- 
+gramma oppure di un manuale (di 
+norma equiparato ai libri e quindi 
+con imposte più basse). 
+Queste pratiche di importazione diretta 
+non sono sempre convenienti dato che la 
+maggior parte dei software sono disponi- 
+bili anche in Italia. Nel cso però di necessi- 
+tà di prodotti particolari o non distribuiti in 
+Italia, l'importazione è decisamente un'o- 
+perazione semplice soprattutto visto che 
+si avvale normalmente di corrieri o spe 
+zionieri che forniscono un servizio molto 
+comodo. 
+
+ENZO BORRI 
+
+
+
+
+www.hackerjournal.it 
+
+
+
+-e- 
+
+
+
+22_23_hj 16-10-2002 11:05 Pagina 
+
+
+
+= 
+
+
+
+*22 
+
+
+
+■e- 
+
+
+
+IN TERNE T." 
+
+
+
+
+CUOR 
+SIGLI " 
+
+
+
+I 
+
+
+
+i 
+
+
+
+m 
+
+
+
+
+scatenano delle nere e 
+per uandalistmo. E 
+itrastarle. 
+
+
+
+li utili 
+
+
+
+f 
+
+
+
+" uanti di voi frequentano canali che la 
+sera quando andate a dormire "van- 
+/ no a dormire" insieme a voi? Direi 
+— ' nessuno lo stesso sono un gestore di più 
+canali ed il mio scopo è far in modo che es- 
+si siano sempre attivi, sempre presenti e 
+sempre utilizzabili da chiunque ci voglia 
+chattare all'interno. Ma come disse un noto 
+personaggio della politica 11 potere logora 
+che non ce l'ha" e proprio a causa di ciò, o 
+meglio, proprio per la voglia di ottenere po- 
+tere e, tradotto nei nostri termini, di gestire 
+canali, è stato inventato l'IRCwar, insieme 
+di tecniche utilizzate per "rubare" stan- 
+ze o sconnettere utenti. 
+Spero di riuscire, in questa brevissima guida, 
+a dare qualche suggerimento agli operatori 
+sul come difendersi da tali attacchi, spiegan- 
+done il principio di funzionamento. 
+
+
+
+» L'importanza 
+di essere QP 
+
+
+
+
+Gli OP, o meglio ancora gli operatori del 
+canale, sono coloro che detengono il "potè 
+re" all'interno del canale stesso. Hanno pos- 
+sibilità di estromettere utenti, di non permet- 
+
+
+
+tere loro l'in- 
+gresso, di confi- 
+gurare le impo- 
+stazioni del ca- 
+nale stesso; so- 
+
+
+
+«-fcflrl j 
+«■HIT ) 
+
+nartrt ) . 
+
+
+
+nuh-v j„_ r _ * ? 
+
+
+
+^ Ir,-.,,, 
+
+
+
+'"■'I * »« 
+
+
+
+'■ ■■■ 
+
+
+
+no in pratica 
+la nuvoletta 
+nera che può 
+fare il bello 
+ed il cattivo 
+tempo. Il loro 
+compito dovrebbe es- 
+sere quello di sorvegliare sulla stanza, 
+sovrintendendo all'attività e non 
+agendo da sceriffi solo perché hanno 
+possibilità di farlo. Cose dette e ridette, 
+solo per introdurre un concetto fondamen- 
+tale: lo scopo primario dell'I RCwar nel caso 
+qualcuno cerchi di takkare un chan inizia 
+proprio dal cercare di assumere lo stato di 
+OP. Come si riesce a fare ciò? Ah beh largo 
+spazio alla vostra fantasia! Se individuate 
+un metodo infallibile comunicatemelo, ve ne 
+sarò grato! Di certo il social engineering è 
+uno dei metodi più utilizzati. E basato su due 
+
+
+
+BOT: client IRC che girano su 
+shell in maniera del tutto autono- 
+ma e continuativa nel tempo. I lo- 
+J ro proprietari possono configu- 
+rarli in modo da far compiere loro azioni ri- 
+petitive ed azioni di difesa. 
+
+
+
+Wl s ?p VH ■ t: \ I . I , ™ "'Din 
+
+
+
+server ne 
+
+
+
+tete vedere gì; sp(itde( . 
+
+
+
+principi cardine: il tempo e la vostra 
+"simpatia". Unendole potrete riuscire p.un 
+piano ad entrare nelle grazie di qualche 
+OP di botnet che magari vi adderà sui 
+propri BOT. Una volta raggiunto questo 
+privilegio sarà un gioco da ragazzi in un 
+momento in cui il chan è vuoto di altri ope- 
+ratori deoppare tutti e restare l'unico pro- 
+prietario! Un po' da stronzi, ma efficace! 
+
+» L'artiglieria 
+esante 
+
+
+
+Un altro metodo utilizzabile si basa sul 
+mass-nuking; è un tipo di attacco 
+'Vecchia maniera" perché può avere 
+significato solo su canali popolati da 
+
+
+
+www.hackerjournal.it 
+
+
+
+22_23_hj 16-10-2002 11:05 Pagina *23 
+
+
+
+- 
+
+
+
+-O- 
+
+
+
+»(f® 
+
+
+
+una cerchia assai ristretta di | 
+utenti. Il suo scopo sta nel forza- 1 
+re la disconnessione di tutti i client 1 
+presenti e rientrare per primo nel | 
+canale acquisendo così lo status di 
+OP. La tecnica utilizzata si basa sul- ' 
+l'uso di nuke, di flood, o di smurf. Il 
+nuke ha come principio l'invio mas- 
+siccio di dati ad un PC. Il computer 
+remoto, nelle vecchie versioni di 
+
+
+
+Cloni: client aperti da utenti e 
+collegati a server diversi. Si rico- 
+noscono facilmente in quanto ca- 
+ratterizzati dallo stesso IP. 
+
+
+
+Windows, ha un bug di sistema per cui non 
+sa gestire una tale mole di dati non richiesti 
+che arrivano improvvisamente e si blocca. 
+Risultato, l'utente deve riavviare il PC scon- 
+nettendosi quindi dal canale. Il flood è una 
+metodologia simile che si basa an- 
+ch'essa sull'invio di grandi quantità 
+dati al PC remoto. Il modem non sopporta il 
+carico e sospende la connessione. Se pro- 
+prio avete due minuti da perdere provate a 
+fare /list (zero) e capirete di cosa sto par- 
+lando. Come potete ben capire, questi at- 
+tacchi sono validi più in teoria che in pratica, 
+anche per la ragione che normalmente 
+quando avete finito di attaccare l'ultimo 
+utente il primo avrà già riawiato il compu- 
+ter e sarà entrato di nuovo nel canale. Lo 
+smurf è un attacco indiretto, nel senso che 
+usa una terza via per arrivare all'IP da col- 
+pire. Con l'utilizzo di indirizzi broadcast che 
+amplificano la mole di dati inviata e il suc- 
+cessivo reindirizzamento all'utente finale, 
+questo viene raggiunto da migliaia di Kb 
+che lo fanno inesorabilmente sconnettere 
+dalla rete. E questa la tecnica più utilizzata 
+in assoluto anche in virtù del fatto che è fun- 
+zionale sia contro utenti singoli sia contro 
+shell o server. Luso di programmi anti-nuke, 
+l'uso del nuovo protocollo IPvó e magari di 
+un buon firewall che limiti il raggio d'azione 
+dei malintenzionati, possono essere tutte 
+strategie utili per prevenire attacchi diretti. 
+
+» Diuidi et impera 
+
+Passiamo oltre ed introduciamo un'al- 
+tra tecnica di attacco: gli split. Ovvia- 
+mente sono ben pochi gli utenti in grado di 
+causarne uno, ma tutti possono utilizzarli, 
+quando presenti, per compiere azioni di 
+IRCwar. Questo exploit sfrutta il principio 
+per cui nel momento in cui un server splitta 
+dalla rete ne rimane completamente isolato. 
+
+
+
+
+
+
+
+connessi. 
+
+
+
+Tutti i client collegati su 
+quel server possono interagire tra di loro 
+ma non con quelli collegati agli altri server, 
+e si viene di conseguenza a creare quella 
+che può essere definita come "rete autono- 
+ma". Supponendo che siate moooolto fortu- 
+nati potrebbe darsi che vi troviate in un ser- 
+ver talmente isolato de essere soli all'interno 
+della stanza. Uscendo e rientrando acquisi- 
+rete automaticamente lo stato di OP. Ora 
+inizia il difficile: al relink del server alla rete 
+voi rientrerete nel chan con lo status di OP, 
+ma ne verrete ben presto privati dai BOT 
+presenti in esso, che in automatico kikkano 
+tutti gli utenti non addati ai loro userfiles. 
+Dov'è il vantaggio quindi? Se anche voi 
+avete una botnet potete farla entrare nel 
+chan splittato, oppare tutti i vostri BOT e 
+sperare che al relink questi siano più veloci 
+o impostati meglio di quelli presenti. Inizierà 
+una guerra a colpi di op/deop fra i BOT e 
+l'ultimo che rimarrà oppato nel canale 
+vincerà battaglia e controllo del cana- 
+le. Visto l'attacco analizziamo la difesa: se 
+come owner di BOT non siete completamen- 
+te decerebrati magari avrete joinato più 
+
+
+
+Take: insieme di tecniche che 
+permette di "rubare" un canale al 
+legittimo proprietario. 
+
+
+
+BOT su più server diversi in modo tale da 
+eliminare il maggior numero possibile di split 
+dal rischio take. Magari anche entrare per 
+qualche minuto nel server splitatto e dare 
+uno sguardo che nessuno sia OP nella vo- 
+stra stanza potrebbe risultare utile. 
+
+» Lei non sa 
+j;hi sono io... 
+
+Ulteriore strategia di attacco, complessa da 
+realizzare e che necessita di molta prepara- 
+zione, prontezza di riflessi e conoscenze, ma 
+che conduce quasi sempre ad ottimi risultati 
+è il collide + serverOP. Vi è mai capitato di 
+entrare in IRC e vedere nella finestra status 
+il messaggio "Nick già in uso"? Se non vi è 
+ancora successo vi succederà non preoccu- 
+
+
+
+j potevi! IRC è strutturata in modo che 
+I non possano coesistere 
+I due utenti con lo stesso nick, per l'ov- 
+I via ragione della trasmissione dei 
+pacchetti. Ma cosa succede se in uno 
+split, dove come abbiamo visto si 
+creano due reti separate, si connet- 
+tono due utenti che hanno lo stesso nick? 
+Al relink ovviamente i server non sono in 
+grado di stabilire chi abbia la priorità e si 
+comportano nell'unica maniera possibile: 
+sconnettono entrambi i client. Su questo 
+principio si basa la tecnica del collide. Ho 
+affermato prima che richiede molte risorse 
+e molto tempo, infatti nel momento dello 
+split l'attaccante deve avere a disposizione 
+un numero più grande possibile di cloni da 
+collegare al server splittato. Darà a ognuno 
+di questi il nick da collidare sulla rete ed 
+
+
+
+Shell: interprete dei comandi uti- 
+lizzata in ambiente *NIX 
+
+
+
+aspetterà il relink. Giunti a quel fatidico mo- 
+mento, raggiungerà l'orgasmo guardando 
+la bellissima pioggia di scritte blu con i nick 
+e gli IP dei client collidati e sconnessi. Se ri- 
+uscirà a far fuori tutti i BOT e gli 
+OP di un determinato chan, reste- 
+rà l'unico operatore in esso ed 
+avrà vinto. Sembra semplice ma crede- 
+temi che non è proprio così. Già trovare 
+molti cloni non è facile e poi avere la pron- 
+tezza di reagire alla varie astuzie messe in 
+atto dagli owner del chan richiede velocità 
+ed idee chiare sul da farsi. 
+Come sempre, analizzato l'attacco vediamo 
+la difesa: i BOT hanno una funzione interna 
+che se attivata, in caso di split, cicla loro il 
+nick automaticamente impostandolo con 
+caratteri casuali. Questo com'è ovvio com- 
+plica non di poco il lavoro dei takkatori, la- 
+voro che può essere ulteriormente reso osti- 
+co dall'eventuale chiusura del canale con 
+impostazione +i. Al solito, vi suggerisco di 
+fare capolino nel server splittato e con un 
+bel /whois dei nomi dei vostri BOT control- 
+lare che nessuno stia caricando cloni per un 
+collide. Comunque sia, il metodo migliore è 
+sempre dare libero sfogo alla vostra fanta- 
+sia pensate, sperimentate nuove idee e 
+nuove tecniche e vedrete che alla fine ri- 
+uscirete, se siete OP con un po' di palle con 
+la voglia di lavorare e studiare, a proteg- 
+gere sempre il canale da attacchi esterni di 
+I Rompiscatole! H 
+
+CHT4R4TTH, 
+cat4r4ttal hackerjournal.it 
+
+
+
+www.hackerjournal.it 
+
+
+
+-e- 
+
+
+
+24_25_hjll_cript 16-10-2002 11:06 Pagina *24 
+
+
+
+CRITTOGRAFIA".. 
+
+
+
+- v*V>fV-%?-fr 
+
+
+
+fi 1%2jji :\ 
+
+
+
+mi ■• 
+
+
+
+■l- :■■*■■ ì: ■vjfcfntij.zT 
+
+
+
+«a^ima* 
+
+
+
+fc.atól* 
+
+
+
+BREVE INTRODUZIONE ALLA. CRITTOGRAFIA 
+
+
+
+Ksiwwy»inipyywgaa 
+
+
+
+I 
+
+
+
+m 
+
+
+
+
+
+
+
+
+Da secoli i matematici combattiono tra loro una battaglia: da un lato, 
+quelli che cercano di inuentare codici di cifratura inuiolabili; dall'altra, 
+quelli che fanno di tutto per uanificare gli sforzi dei primi. 
+
+
+
+
+
+
+
+±2m 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+er capire come funzionano i 
+sistemi di crittografia moderni 
+dobbiamo partire da lontano. 
+Per essere precisi dobbiamo 
+risalire ai messaggi che Cesa- 
+re inviava alle sue truppe. Per 
+evitare intercettazioni, Cesare scriveva i 
+messaggi traslando le lettere. In sostanza 
+un messaggio con chiave 3 utilizzava un al- 
+fabeto secondo il quale A=D, B=E, C=F e 
+così via. Naturalmente un cifrario di questo 
+tipo andava bene solo in epoca romana 
+perché oggi chiunque è in grado di de- 
+cifrare un messaggio del genere 
+usando solo carta e penna. Le chiavi di 
+cifratura, infatti, sono solo 26, tante quante 
+le lettere dell'alfabeto. Naturalmente occor- 
+re però scartare la prima perché corrispon- 
+de al testo in chiaro (A=A, B=B, ecc..) 
+Alcuni miglioramenti si ottennero facendo 
+corrispondere lettere casuali alle lettere del- 
+l'alfabeto ma il sistema 
+
+
+
+risultava complicato, il cambiamento dei 
+codici era macchinoso e soprattutto l'ope- 
+razione risultava inutile visto che con un'a- 
+
+
+
+^^m^^^s^sssi 
+
+
+
+bile risalire ai caratteri "in chiaro" confron- 
+tandone la frequenza con quelli normal- 
+mente utilizzati. 
+
+» Complicare le cose 
+
+Un'evoluzione del sistema usato da 
+Cesare era chiamato "codice di Vige- 
+nere" si basava invece su una tavola 
+quadrata che aveva sulla prima riga il 
+normale alfabeto e su quelle seguenti tutte 
+le combinazioni usate nel cifrario di Cesare. 
+Prima di tutto si doveva scegliere una chia- 
+ve. Poi si scriveva a ripetizione la chiave sot- 
+to al messaggio da cifrare. Per finire si ci- 
+frava ogni singola lette- 
+! ra del messaggio utiliz- 
+zando il codice corri- 
+spondente alla riga 
+della lettera della chia- 
+ve. Per esempio per ci- 
+- frare il messaggio "Sto 
+" mangiando una me- 
+■ la" usando la chiave 
+
+
+
+5T?T*DJ 
+
+
+
+
+la deco 
+
+
+
+'resto con 
+
+
+
+Tir 
+
+
+
+" questo caso 
+
+
+
+cercano le I 
+
+
+
+"«~tf3£ 
+
+
+
+camino si scriveva 
+sotto il messaggio 
+"caminocaminoca- 
+minoc". Poi si cifra- 
+vano singolarmente 
+
+
+
+» incrocio 
+
+
+
+JS^ttS 
+
+
+
+!™?nte anche se " 
+2? m ' "/orza brut 
+
+
+
+quenza dei codi 
+
+
+
+le lettere secondo le chiavi 
+date dalle lettere della chiave. Per esempio 
+con chiave "e" la lettera corrispondente alla 
+'V' del testo in chiaro è la "u". Alla fine si ot- 
+tiene una cosa tipo "utaunciimvqwnaurzc" 
+che decodificato con la chiave "camino" e 
+lo stesso sistema ci dà il messaggio origina- 
+le. Il vero problema di questo sistema ven- 
+ne messo in luce nella metà dell'800 per- 
+ché si notò che in messaggi lunghi, alcuni 
+
+
+
+www.hackerjournal.it 
+
+
+
+24_25_hjll_cript 16-10-2002 11:06 Pagina *25 
+
+
+
+L'ALGORITMO DI IDE 
+
+
+
+IW3S15 
+
+
+
+Il sistema di funzionamento di IDEA è molto simile a quello 
+
+che il testo da cifrare viene diviso in blocchi da 64 bit, ciascuno diviso in altri sottobloccl 
+1 6 bit. La funzione di "scrambling" usata da DES è sostituita con una funzione che provve- 
+de a compiere altre operazioni di XOR, addizioni e moltiplicazioni in base 1 6. Ogni sotto- 
+blocco viene sottoposto a 8 passaggi durante i quali il secondo e il terzo sottoblocco si scam- 
+biano di posto. 
+
+Risulta interessante invece notare come per l'uso di questo sistema vengano generate ben 
+52 diverse chiavi. La chiave originaria a 1 28 bit viene infatti divisa in blocchi da 1 6 bit che 
+costituiscono le prime 8 chiavi. Poi i bit che compongono la chiave originale vengono spo- 
+stati 25 bit a sinistra, generando una nuova chiave che viene nuovamente divisa in 8 chiavi 
+secondarie. Il procedimento prosegue con spostamenti e divisioni fino a generare tutte le 
+
+
+
+cniavi necessarie. 
+
+
+
+Il sistema di funzionamento di IDEA, come quello del DES, è ben conosciuto dalla comunità 
+scientifica e si trova facilmente su Internet usando un qualsiasi motore di ricerca. 
+
+
+
+caratteri tendevano a ripetersi nella stessa 
+sequenza. Per tradurre un messaggio del 
+genere basta quindi analizzare un testo 
+molto lungo o più testi con la stessa chiave, 
+trovare il massimo comune divisore delle 
+distanze tra le sequenze identiche e avremo 
+trovato la lunghezza della chiave. Una vol- 
+ta identificata la lunghezza della chia- 
+ve potremo poi procedere per tentati- 
+vi nella decifrazione visto che tutto si ri- 
+duce a una serie di cifrari di Cesare. 
+Un altro sistema di cifratura consisteva in- 
+vece nella trasposizione del messaggio, in 
+un rimescolamento del messaggio secondo 
+una certa chiave. Si sceglieva come chiave 
+del messaggio una parola che non conte- 
+nesse lettere doppie. Poi si scriveva il mes- 
+saggio sotto la parola, andando a capo 
+ogni volta che si arrivava al termine della 
+parola. 
+
+In questo modo si formavano tante colonne 
+di lettere quante erano le lettere della paro- 
+la chiave. Poi si trascriveva il messaggio or- 
+dinando le colonne trascritte in base alla 
+posizione delle lettere della parola chiave. 
+Per esempio supponiamo di usare la pa- 
+rola chia- 
+
+
+
+raccogneva 
+
+
+
+dice di VI- 
+ibinaziom 
+
+e le usava in- 
+il codice ci- 
+-rché era il 
+inalizzabi- 
+ile quando 
+alcune se- 
+devano e 
+
+
+
+mettevano un an 
+
+
+
+.m - 
+
+
+
+Lil***' 
+
+
+
+&AUU 
+
+
+
+ve "marco" e codifichiamo il messaggio 
+"Oggi sono andato a fare una gita al la- 
+go". Sotto la "m" della parola chiave tro- 
+viamo le lettere "oodfnag". Riordinando 
+alfabeticamente le colonne in base alle 
+lettere della parola chiave avremo un ri- 
+mescolamento nel messaggio con l'ordine 
+di colonne "a","c","m","o" e V'. Il messag- 
+gio risultante sarà quindi "gnaaaaoiaoei- 
+loodfnagsnautagotrgl". Anche se all'appa- 
+renza la decifrazione potrebbe sembrare mol- 
+to complicata, in realtà è possibile infran- 
+gere il codice ipotizzando la lunghezza 
+della chiave andando per tentativi. La 
+famosa macchina ENIGAAA usata dalle trup- 
+pe tedesche durante la seconda guerra mon- 
+diale non era altro che un sistema meccanico 
+di cifratura che usava il metodo appena visto 
+applicandolo più volte a ripetizione e codifi- 
+cando quindi del testo già codificato. 
+Il DES è il primo sistema di cifratura che vie- 
+ne adottato come standard. Nel 1977, do- 
+po il suo sviluppo da parte di IBM e succes- 
+sive modifiche da parte dell'agenzia di sicu- 
+rezza nazionale degli USA viene introdotto 
+
+per la protezione di dati non classificati 
+£ come segreti di stato o militari. Si tratta 
+
+di un sistema di codifica che utilizza 
+
+una chiave di codifica a 64 bit divisa in 
+
+I blocchi da 8 bit ciascuno. L'ultimo bit 
+
+1 di ogni blocco viene usato per il con- 
+
+1 frollo dei precedenti e quindi la chiave 
+vera e propria è di 56 bit. 
+
+j Proprio la scarsa lunghezza della 
+
+\ » DES e IDEH 
+
+chiave è stata la sorgente di nume- 
+li rose polemiche in merito alle scelte 
+i "guidate" dalla NSA verso l'ado- 
+i zione del DES. Nel 1 998 viene an- 
+nunciata dalla EFF (Electronic 
+Frontier Foundation) la nascita del 
+primo sistema hardware per la 
+
+
+
+no DES. Entro l'anno 2000 il DES 
+diventa storia perché le informa- 
+zioni per costruire un DES-Crac- 
+ker sono ormai alla portata di 
+l tutti. 
+
+I II successore del DES è IDEA, un 
+I sistema di codifica simile al DES 
+I che però utilizza chiavi di 128 
+I bit. Questo permette di ottenere 
+
+
+
+
+
+NEWBIE 
+
+
+
+
+i^^^H 
+
+
+
+
+
+
+
+
+
+
+
+una maggior sicurezza visto che le possi- 
+bili combinazioni per la decodifica sono 
+ben 2 ~ 1 28, sufficienti per scoraggiare 
+qualsiasi singolo analista e anche la 
+maggior parte dei governi. \~ 
+
+r^Jiaiiiui 
+
+
+
+■nirìTìTi 1 firmi 
+
+
+
+DES 
+
+
+
+Il testo da cifrare viene diviso in blocchi da 
+64 bit. Ogni blocco cambia poi posizione 
+con un altro e diviso in due blocchi da 32 
+bit l'uno. Poi, per 1 6 volte, viene applicata 
+una funzione che traspone e fa delle sosti- 
+tuzioni ad ogni metà del blocco utilizzando 
+una chiave ricavata matematicamente dal- 
+la chiave originale. Durante ogni passaggio 
+le due metà del blocco si scambiano di po- 
+sto. 
+
+L'algoritmo è ricorsivo e quindi i cambia- 
+menti operati sui dati sono notevoli. 
+
+Il blocco totale è uguale al mezzo blocco si- 
+nistro seguito dal mezzo blocco destro in 
+un certo passaggio indicato con "n". 
+T(n)=L(n)R(n) 
+
+Il mezzo blocco a sinistra è uguale al mez- 
+zo blocco di destra del passaggio prece- 
+dente (n-1). 
+L(n)=R(n-1) 
+
+Il mezzo blocco di destra è uguale al mez- 
+zo blocco di sinistra del passaggio prece- 
+dente sul quale è stata fatta un'operazione 
+di OR esclusivo (XOR) confrontandoli con il 
+risultato di una funzione che coinvolge la 
+chiave. La chiave viene costruita matemati- 
+camente ad ogni passaggio ricavandola 
+dalla chiave originaria. Quindi cambia in 
+continuazione a seconda del valore di n. 
+R(n) = L(n-1) XOR funzione[R(n- 
+1),CHIAVE(n)] 
+
+La funzione appena vista è abbastanza 
+complicata ma non inaccessibile. 
+Per prima cosa il blocco R(n-l) da 32 bit 
+viene espanso in modo da fargli occupare 
+48 bit. Su questo blocco espanso viene poi 
+fatta un'operazione di XOR (OR esclusivo) 
+rispetto alla chiave utilizzata per quel pas- 
+saggio. Il risultato dell'operazione viene 
+spezzato in 8 blocchi da 6 bit ciascuno. 
+Ógni blocco viene poi processato da una 
+funzione che controlla alcune matrici fisse 
+(chiamate S-Box) prelevando da esse delle 
+stringhe di 4 bit identificate in base ai 6 bit 
+di ingresso. Ogni blocco da 4 bit viene poi 
+riagganciato agli altri blocchi scambiando- 
+li di posto tra loro. Il risultato in uscita è un 
+nuovo blocco da 32 bit ma codificato tra- 
+mite l'operazione di XOR con la chiave e la 
+sostituzione con i valori delle S-Box. 
+
+
+
+www.hackeriournal.it 25 
+
+
+
+-e- 
+
+
+
+2 6_2 7_hjll_text 16-10-2002 11:06 
+
+
+
+Pagina 
+
+
+
+*26 
+
+
+
+
+
+
+PRIVfìCV.a 
+
+
+
+Leggere tra te righe 
+
+Bastano pache istruzioni in Uisual Basic per riuelare la maggior parte delle password 
+nascoste dagli asterischi in Windows. 
+
+
+
+auando si deve inserire una pas- 
+sword all'interno di una casella di 
+testo, il fatto che al posto del testo 
+compaiono degli asterischi rassicura i più sul- 
+la sicurezza di ciò che si sta compiendo. Mol- 
+ti infatti interpretano la presenza di questi ca- 
+ratteri come la certezza di non poter essere 
+spiati, o quanto meno di tenere al sicuro le 
+proprie password. 
+
+Poi, per paura di possibili keylogger (pro- 
+grammi che memorizzano tutto ciò che si digi- 
+ta e in che finestra lo si fa, rimanendo in back- 
+ground a spiarci), o solo per pigrizia, la mag- 
+gior parte delle persone tende a memorizzare 
+le password così da non doverle ridigitare. 
+Sinceramente ho visto ben poche persone 
+non farlo, soprattutto se normalmente sono 
+gli unici a usare quella postazione. Ma i no- 
+stri dati sono davvero dentro ad una fortez- 
+za? Di seguito proveremo ad usare due tec- 
+niche per scoprire cosa si nasconde dietro ai 
+nostri "amici" asterischi, e vedremo se la for- 
+tezza è espugnabile o meno. 
+
+
+
+1 
+
+
+
+» Tecniche di lauoro 
+
+
+
+Fatta la premessa mettiamoci al lavoro! Per 
+prima procuriamoci tutto l'occorrente: VB6.0 
+e apriamo un nuovo progetto su questo IDE. 
+Basta! E' incredibile, ma per aprire la "serra- 
+tura" della TextBox non serve null'altro. 
+Vediamo cosa inserire nel form che di default 
+jià appare nel progetto: 
+
+Controllo Nome Proprietà 
+
+TextBox ClassName Caption="" 
+
+TextBox WindowName Caption="" 
+
+imer Timer! Interval=10 
+
+Per seconda cosa dobbiamo andare a di- 
+:hiarare all'interno di un modulo (un file .bas 
+per capirci) le API che ci serviranno: 
+
+
+
+Public Type POINTAPI 
+
+x As Long 
+
+y As Long 
+End Type 
+
+Public Declare Function GetCursorPos 
+Lib "user32" (IpPoint As POINTAPI) As 
+Long 
+
+Public Declare Function WindowFromPoint 
+Lib "user32" (ByVal xPoint As Long, 
+ByVal yPoint As Long) As Long 
+
+Public Declare Function SendMessage Lib 
+"user32" Alias "SendMessageA" (ByVal 
+hwnd As Long, ByVal wMsg As Long, ByVal 
+wParam As Long, lParam As Any) As Long 
+
+Public Declare Function GetClassName 
+Lib "user32" Alias "GetClassNameA" 
+(ByVal hwnd As Long, ByVal IpCIassName 
+As String, ByVal nMaxCount As Long) As 
+Long 
+
+Public Declare Function GetWindowText 
+Lib "user32" Alias "GetWindowText A" 
+(ByVal hwnd As Long, ByVal IpString As 
+String, ByVal cch As Long) As Long 
+
+Combinandole opportunamente, possiamo 
+risalire all'handle della textbox con la nostra 
+password, solo appoggiandovi sopra il pun- 
+tatore del mouse. Infatti la funzione 
+GetCursorPos ritorna la posizione 
+che il mouse occupa sullo schermo, 
+restituendocela all'interno di una 
+struttura di tipo POINTAPI. 
+Avuta questa informazione, grazie 
+alla funzione WindowsFromPoint 
+che riceve come parametro una 
+coppia di coordinate, possiamo ot- 
+tenere l'handle della finestra che ri- 
+siede sotto al puntatore: sempre 
+che ve ne sia una! 
+E ora? A molti sarà venuta alla 
+
+
+
+mente TAPI GetWindowText. È davvero così 
+
+facile? 
+
+Proviamo inserendo quanto segue nel codice 
+
+del programma: 
+
+Private oldHWND, pwdHWND As Long 
+Private strWindowName As String * 30 
+Private strClassName As String * 30 
+Private currentPos As POINTAPI 
+
+Private Sub Timer 1_T imer ( ) 
+Dim Helpl As Long 
+
+currentPos 1 = GetCursorPos (currentPos) 
+pwdHWND = WindowFromPoint ( current- 
+Pos. x, currentPos. y) 
+
+If oldHWND = pwdHWND Then Exit Sub 
+oldHWND = pwdHWND 
+HandleNumber . Text = pwdHWND 
+
+Helpl = GetClassName (pwdHWND, 
+strClassName, 30) 
+
+Helpl = GetWindowText (pwdHWND, 
+s t rWindowName , 30) 
+
+'Le seguenti sono le due textbox che 
+visualizzano il risultato 
+
+ClassName. Text = strClassName 
+WindowsName . Text = strWindowName 
+End Sub 
+
+Quando si cerca di ricevere il testo presen- 
+te nella finestra si incorre però in una spia- 
+cevole scoperta: se è un bottone, ricevo la 
+sua caption; se è un form, il titolo e se è 
+una Textbox... 
+
+
+
+
+26 1 
+
+
+
+www.hackerjournal.it 
+
+
+
+
+
+
+
+
+2 6_2 7_hjll_text 16-10-2002 11:06 
+
+
+
+Pagina *27 
+
+
+
+-e- 
+
+
+
+
+
+
+IL CODICE DEL RIUELHTORE 
+DI PASSWORD 
+
+
+
+non ricevo nulla. 
+
+L'esito è di questo tipo perchè la Microsoft 
+ha ben pensato di nascondere il valore di 
+una casella di testo, altrimenti sarebbe un 
+gioco da ragazzi conoscerne il contenuto. 
+Se ci fermassimo qua potremmo pensare di 
+essere in una botte di ferro, ma prima di 
+cantar vittoria è meglio provare con un se- 
+condo metodo. 
+
+
+
+>> Seconda tecnica 
+
+Noi sappiamo che una TextBox di Visual Ba- 
+sic sarà rappresentata a video attraverso un 
+controllo della classe standard di Windows 
+detta Edit. Questo vale per qualunque appli- 
+cazione ricorra agl'elementi grafici standard 
+del sistema operativo: C++ o Basic che sia. 
+Occorre spendere due parole per Java: que- 
+sto linguaggio possiede due tipologie di 
+GUI. La prima è legata al S.O. su cui gira la 
+virtual machine (AWT), mentre la seconda è 
+
+
+
+proprietaria delle Api java (Swing) e slegata 
+dal sistema. In entrambi i casi la tecnica ap- 
+pena vista non funziona con il linguaggio 
+della Sun. 
+
+Torniamo a noi. I controlli di tipo Edit, a se- 
+conda di come vengono visualizzati, fanno 
+ricorso a vari stili. Tra questi stili vi è l'ESPAS- 
+SWORD: se è presente ci avvisa che la casel- 
+la di testo è di tipo password. 
+Tra i Windows-messages che gli Edit possono 
+processare ve ne è uno che fa al caso nostro: 
+EM_SETPASSWORDCHAR. Grazie a questo 
+noi possiamo selezionare quali caratteri far 
+apparire al posto della parola digitata; nor- 
+malmente si usa l'asterisco, ma altri potreb- 
+bero desiderare il cancelletto, o una ingan- 
+nevole sequenza di 'a', e via dicendo. 
+Noi, in fase di spedizione del messaggio, in- 
+dicheremo quale carattere utilizzare attraver- 
+si il parametro wParam della funzione Send- 
+Message. Modifichiamo l'evento Timer come 
+segue: 
+
+Public Const EM_SETPASSWORDCHAR = 
+l&HCC 
+
+Private Sub Timer 1_T imer () 
+
+Dim Helpl As Long 
+
+currentPosl = GetCursorPos (cur- 
+rentPos) 
+
+pwdHWND = WindowFromPoint (cur- 
+rentPos.x, currentPos.y) 
+
+If oldHWND = pwdHWND Then Exit 
+Sub 
+
+oldHWND = pwdHWND 
+Helpl = SendMessage (pwdHWND, 
+EM_SETPASSWORDCHAR, 0, 0) 
+End Sub 
+
+Al controllo Edit "posteremo" il messaggio vi- 
+sto sopra, e come carattere un bel (N.B. 
+:non '0' tra due apici). 
+Ora, se ci mettiamo sopra alla password e 
+
+
+
+» 
+
+
+
+
+a la 
+etta- 
+
+iem- 
+
+
+
+clicchiamo col mouse, come per magii 
+password ci appare bella e chiara diretto 
+mente al posto degl'asterischi! Perchè? Sem 
+plicemente, perchè lo zero è il carattere di de- 
+fault di una normale textBox. 
+In realtà, in alcune versioni del sistema ope 
+rativo Windows, se inviiamo il messagg' 
+WM_GETTEXT all'Edit riceviamo il conten 
+della casella: questo è molto strano! Infi 
+inviare il messaggio o usare TAPI GetWi 
+dowText è tecnicamente la stessa cosa, sol< 
+che l'api è limitata nelle finestre obiettivo su 
+cui funzionare, WM_GETTEXT invece no. 
+In altre configurazioni, comunque, questo 
+messaggio non ha alcun effetto. Dipende 
+dalle classi usate per i controlli da chi ha co- 
+struito il Form! 
+
+I metodi appena visti sono stati provati con 
+esito positivo su Win9x e WinME, mentre 
+non hanno avuto alcun effetto su una mac- 
+china che faceva girare Win2000 Professio- 
+nal e una con XP, ma se qualcuno volesse 
+provarci e poi farmi sapere... 
+
+
+
+*5i 
+
+
+
+wsESlSÌ!^--»'" 
+
+
+
+**J &3 
+
+
+
+k*«w*M 
+
+
+
+a««- 
+
+
+
+>> Precauzioni 
+
+Alla fine rimaniamo con l'amaro in bocca. 
+Non siamo vincitori, anzi. 
+Sicuramente, un utente malintenzionato, 
+creando un programmino di pochi Kilobyte 
+che esegua tutte le tecniche viste sopra (cioè 
+invìi entrambi i messaggi), può conoscere le 
+nostre password. 
+
+L'aver scoperto questo, comunque, ci deve 
+stimolare a costruirci da soli un buon con- 
+trollo nascondi-parole e di utilizzarlo nei 
+momenti in cui vogliamo essere un pochino 
+più al sicuro. 
+
+Come base d'inizio potremmo pensare di re- 
+gistrare i tasti premuti sulla textbox e di soti- 
+turli con '*', memorizzando quelli veri all'in- 
+terno di una variabile. Un controllo siffatto è 
+immune da messaggi tipo 
+EM_SETPAS- 
+SWORDCHAR, e 
+tra gli stili farà ap- 
+parire quelli di un 
+desolante (per i ma- 
+lintenzionati!) nor- 
+male Edit. 
+
+Comunque questa 
+non è l'unica strada! 
+Buon lavoro, m 
+
+Lombo 
+
+
+
+******* U 
+
+
+
+
+
+
+
+27 1 www.hackerjournal.it 
+
+
+
+-e- 
+
+
+
+
+
+
+
+28_hjll_orefice 16-10-2002 11:09 Pagina 
+
+
+
+*28 
+
+
+
+■e- 
+
+
+
+
+VIRUS . ■ 
+
+
+
+mgSA 
+
+
+
+KtMtlI 
+
+
+
+IDENTIFICATION 
+ORDE* NO. 1f 
+
+ni'IIJlH-l E-ilTl 21X19 
+
+
+
+Fln£erprlnt C Iftftiilf Icatlon 
+
+
+
+WANTED 
+
+
+
+DIVMON OF EWESTICATIOS 
+HIDEMTME^TOFMT 
+
+CERNUSCO S.N., MI 
+
+
+
+Itt 
+
+
+
+Q 5 
+
+
+
+BOI M 
+
+00 1 
+
+
+
+NUME InCÉ&TlMGB 
+
+Ttf£ iii*iHn di Trnii 
+
+UJÀ& ■ *n |;-.- k :imi;. r ■ ^ . itijwr^ OHi']?', tuctffl innari i**i«im*, r«metgii*LE tn&t \m 
+
+OàTEtfniKlK UlEiiftri 1)94 
+
+4UTOR- UH E| it ! r. [ g riiTjpn T Cull.nP nud Ch'I 
+
+
+
+KIDNAPMi 
+
+
+
+
+M 
+
+
+
+
+
+
+kiA 
+
+
+
+. 
+
+
+
+
+ìà 
+
+
+
+Ài 
+
+
+
+jd 
+
+
+
+li 
+
+
+
+|^ 
+
+
+
+Azioni compiute: 
+
+- Visualizza una lista di programmi in ese- 
+cuzione, con la possibilità di terminare un 
+processo o di farlo partire; 
+
+- Cattura audio e video (se al PC infetto è 
+collegata una webcam o microfono); 
+
+- Fotografa schermate dal monitor della vit- 
+tima e le rende disponibili all'attaccante; 
+
+- L'attaccante é in grado di caricare o scari- 
+care file di qualsiasi tipo dal PC della vittima; 
+
+- Consente ad utenti non autorizzati di can- 
+cellare, copiare, legge- 
+re o modificare file. 
+
+- Manipola il registro 
+di sistema; 
+
+- Rende visibili tutte le 
+password del sistema; 
+
+- Segnala la presenza 
+in rete del PC colpito. 
+
+
+
+
+Tecniche 
+utilizzate: 
+
+All'atto dell'installazio- 
+ne, il server di BO effet- 
+tua queste operazioni: 
+Rileva il suo stato: veri- 
+fica se sono state impostate 
+delle configurazioni con il Boconfig, altrimenti 
+usa quelle di default. 
+
+- Inizializza i socket di Windows (Win- 
+sock:WSAStartup e WSACleanup ) e crea un 
+file windll.dll (nome che può essere scelto 
+con il BOconfig) nella directory di sistema di 
+Windows. 
+
+- Sfrutta la funzione API RegisterServicePro- 
+cess per farsi registrare come task di siste- 
+ma, avendo così la capacità di rimanere at- 
+tivo anche tra diversi login. 
+
+
+
+La chiave modificata è: 
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Mi- 
+
+crosoft\Windows\CurrentVersion\RunServices 
+
+- Si riserva la porta 31 337 (o quella che gli è 
+stata assegnata dal Boconfig). 
+
+- Si mette in "LISTENING" e attende i comandi 
+che il client gli invia sulla porta di comunica- 
+zione assegnata (default 31 337). 
+
+Mezzi di contagio: 
+
+Come per altri cavalli di Troia, viene spedito 
+per posta unito ad altri file o programmi (in- 
+nocui) per passare inosservato. E possibile 
+tuttavia riceverlo anche prelevando file da siti 
+non proprio raccomandabili. 
+
+Verifica del contagio: 
+
+Il server di BO si posiziona nella directory di 
+sistema (solitamente c:\Windows\System) co- 
+me file exe, il cui nome è spesso dato dall'at- 
+taccante. Se questo non avviene, il nome pre- 
+definito dovrebbe iniziare con UMGR32. 
+
+- avviare il programma RegEdit (c:\Win- 
+dows\regedit.exe): 
+
+- accedere alla chiave KEY_LOCAL_MACHI- 
+NE\SOFTWARE\microsoft\Windows\Current- 
+Version\RunServices; 
+
+Oppure andare al prompt di Ms-Dos e, nella 
+cartella Windows, usare il comando netstat- 
+an, che mostra tutte le porte chiamante un 
+qualche programma: 
+c:\Windows>netstat -an 
+se il risultato è 'UDPO-0.0.031337*:*' 1 signifi- 
+ca che qualcuno sta usando la porta 31337, 
+dunque è consigliabile controllare il registro. 
+Nel caso trovaste BO sulla vostra macchina e 
+voleste conoscerne la configurazione con un 
+editor di testi, aprite il file <server>.exe e an- 
+date a controllare le ultime righe. 
+
+
+
+
+Se l'ultima in assoluto è 
+
+"88$8(8,8084888<88d8h8l8p8t8x8\8'8d8 
+h818", allora il server sta utilizzando la confi- 
+gurazione di default. 
+
+In ogni caso, nelle linee appena sopra, in 
+questo ordine sono riportati: nome file, de- 
+scrizione dei servizi, numero della porta usata 
+ed eventuale password che blocca le impo- 
+stazioni del server, informazioni su eventuali 
+plug-in. 
+
+
+
+
+Istruzioni per la rimozione: 
+
+Un buon antivirus aggiornato può essere in 
+grado di individuarlo, ma non di rimuoverlo, 
+in quanto non si tratta di un virus. Per questo 
+ci sono appositi programmi come BOdetect 
+(lo rileva e rimuove, la licenza è shareware) o 
+Cleaner (utile per diversi tipi di trojan). 
+
+Ulteriori informazioni: 
+
+http://securityresponse-symantec.com 
+/a vcen ter/ vene/da t a/back- or if iceEDDD 
+- trojan. html 
+
+http: //vii .mcafee.com/dispVirus.aspf 
+virus k=lDDDE 
+
+
+
+www.hackerjournal.it | 28 
+
+
+
+-e- 
+
+
+
+2 8_2 9_HJll_pong 16-10-2002 11:11 Pagina 
+
+
+
+*29 
+
+
+
+NETWORKING . ■ 
+
+
+
+MIO HACKING 
+
+
+
+CONOSCERE PING E TRACEROUTE , DUE UTILI COMANDI 
+
+
+
+
+uasi tutte le tecniche usate per le intrusioni si 
+basano principalmente nel reperire il maggior 
+numero di informazioni relative al sito da attac- 
+care; è necessario sapere quali programmi girano sul server 
+vittima (e in quale versione), per poter sapere quale exploit uti- 
+lizzare in seguito. Anche la tecnica stes~~ 
+sa sulla ricerca di ogni 
+dettaglio riguardo l'ad- 
+min del server per poter- 
+ne identificare l'eventuale 
+user o pwd. 
+
+Per questo, è importante 
+sapere quali informazio- 
+ni il nostro computer sta 
+distribuendo, nostro 
+malgrado, a chiunque 
+abbia un minimo di ca- i 
+pacità e sappia usare I 
+
+un r»nir» ni cfrnmonfi F I 
+
+
+
+gono copiati alcuni file in /Windows, questi file sono delle uti- 
+lity per Internet (e reti LAN), che spesso vengono erroneamen- 
+te sottovalutate. 
+
+Tracert Mostra il percorso (HOPS) fatto da un pacchetto per 
+raggiungere un computer remoto. 
+
+Ping Verifica la connessione di un sito e ne determina i tempi 
+di risposta. 
+
+
+
+
+non stiamo parlando I 
+di strumenti sofisticati; 
+molte informazioni pos- 
+sono essere recuperati attraverso l'utilizzo di semplici 
+comandi presenti di default su svariati sistemi operativi. Per 
+esempio, installando il protocollo di rete Microsoft TCP/IP, ven- 
+
+
+
+: Si tratta di un'utility che stabilisce il percorso verso 
+una destinazione inviando pacchetti echo con valo- 
+ri variabili di Time To Live (TTL). Lungo il percorso il 
+compito di ogni "instradatore" è quello di abbassare 
+di almeno una unità il TTL di un pacchetto prima di 
+( consegnarlo. In pratica il TTL è un conteggio di salti 
+(Hops). Quando il TTL di un pacchetto arriva a 0, l'in- 
+stradatore dovrebbe mandare indietro un messaggio 
+al sistema di origine. In base ai messaggi rinviati da- 
+gli instradatori, viene determinato il percorso del pac- 
+chetto. (Acuni instradatori però rendono invisibili i 
+pacchetti echo, lasciandoli esaurire senza che tracert 
+ne rilevi la traccia. Vedremo come affrontare questo 
+! problema col comando ping). 
+Gli switch dei comandi sono case-sensitive, quindi at- 
+tenzione a come digitate le maiuscole e le minuscole, ad es. è 
+diverso scrivere: Ping -a da Ping -A !! 
+
+
+
+www.hackerjournal.it 
+
+
+
+-e- 
+
+
+
+2 8_2 9_HJll_pong 16-10-2002 11:11 Pagina *30 
+
+
+
+CONOSCERE PING E TRACEROUTE , DUE UTILI COMANDI 
+
+
+
+traceroute: l'idea 
+
+ma ? 
+
+
+
+
+$*^sr*& 
+
+
+
+do un interessante 
+
+
+
+La prima colonna riporta il numero di TTL (hops). 
+Le altre colonne indicano i tempi di andata e ritorno in milli- 
+secondi per un tentativo di raggiungere l'host remoto. L'ultimo 
+hops è il server da noi analizzato (tin.it), mentre gli hops inter- 
+medi sono vari router che instradano il pacchetto. L'asterisco 
+indica che il tempo (timeout) per il tentativo è scaduto, mentre 
+l'ultima colonna riporta il nome e l'indirizzo IP dell'host. 
+Avrete notato quindi come sia semplice ottenere l'IP di un ser- 
+ver tramite il suo nome e viceversa (NSIookup), ovvero trovare 
+il nome del server avendo solamente il suo IR Infatti possiamo 
+utilizzare tracert su un'indirizzo numerico (IP) e determinare 
+quale sia il provider o il servizio di hosting utilizzato. Da qui 
+l'attaccante potrà avere ulteriori informazioni sulla vittima 
+(anche se ormai quasi nessuno ha una directory pubblica de- 
+
+
+
+gli uierin, per loriunuj. ruo per esempio scoprire in quuie zo- 
+na si trova fisicamente il suo computer. Alcuni provider infatti 
+danno ai propri router dei nomi molto espliciti, che rivelano la 
+loro posizione. Prendete per esempio queste lineee tratte da 
+un tracert: 
+
+
+
+impianti/HomePag 
+
+
+
+Vediamo quindi la sintassi del comando: 
+
+
+
+Opzioni: 
+
+-d Non risolve gli indirizzi in nome host. 
+
+-h Numero massimo di hops per ricercare la destinazione. 
+
+- j Libera route di origine lungo l'elenco host. 
+
+-w Intervallo di timeout in millisecondi per ogni risposta. 
+
+nome_dest Specifica il nome di ospite del computer di destina- 
+
+
+
+Facciamo un esempio: 
+
+
+
+Jci si avvicina al computer della vittima, e più dettagliata sa- 
+a posizione geografica. In questo caso, siamo partiti da Mi- 
+o, passati per Francoforte, fatta una capatina a Londra, 
+Washington per poi arrivare dalle parti di San Jose, in Cali- 
+fornia (le utlime righe sono state omesse). 
+Tracert quindi comunica a un attaccante informazioni sull'indi- 
+rizzo e sul provider, insieme al percorso della connessione di 
+rete. Ancora però l'attaccante non sa molto sul server che ha 
+eso di mira; uno dei più elementari sistemi che puà utilizza 
+
+
+
+re è il comando ping. 
+
+
+
+[ è solo un'esempio ] 
+
+
+
+Il comando Ping è utile per controllare un collegamento con l'- 
+host remoto e valutarne la velocità. Viene inviato all'host in 
+questione una serie di pacchetti "echo" di 64 byte aspettando i 
+pacchetti di risposta. Questo per quanto riguarda l'utiilizzo ca- 
+nonico e più comune, ma le sue potenzialità non si limitano a 
+questo. 
+
+
+
+30 www.hackerjournal.it 
+
+
+
+-e- 
+
+
+
+2 8_2 9_HJll_pong 16-10-2002 11:11 Pagina *31 
+
+
+
+Sintassi: 
+
+
+
+Opzioni: 
+
+-t Ping è eseguito sull'host specificato finché non viene inter 
+rotto. 
+
+-a Risolve gli indirizzi in nomi host. 
+
+-n Invia il numero di richieste di echo indicato da numero; 
+valore di default è 4. 
+
+-1 Invia i pacchetti echo -~ 
+
+contenenti la quantità di dati 
+indicati in lunghezza; il de- 
+fault è 64 byte;il massimo è 
+8192. 
+
+-f Imposta il flag. Non 
+frammenta il pacchetto, 
+-i TTL Imposta la "vita" del 
+pacchetto col valore indicato 
+da TTL 
+
+-v TOS Imposta il tipo di servizio col valore indica- 
+to da TOS. 
+
+-r Registra il percorso del pacchetto in uscita e del 
+pacchetto di ritorno nel campo Record Route. 
+-s Marca orario per il numero dei salti precisati da 
+
+
+
+
+
+
+
+
+-j host-list Indirizza i pacchetti per mezzo della li- 
+sta degli ospiti specificata da host-list. Gli ospiti vici- 
+ni possono essere separati da gateway intermedi. 
+-k host-list Restringe route di origine lungo l'elenco host. 
+-w Intervallo attesa "timeout" (in millisecondi) per ogni rispo- 
+sta. 
+
+Facciamo alcuni esempi. 
+
+L'IP di un utente è facilmente determinabile in vari modi, il più 
+comune dei quali è probabilmente un contatto in Chat o con 
+un Instant Messenger (Icq, MSN...). Un utente con IP fisso (o al 
+quale venga attribuito un IP variabile in un ristretto range di in- 
+dirizzi) potrebbe essere identificato anche dai suoi messaggi 
+email o dai post sui newsgroup. 
+
+Una volta che l'attaccante ha ottenuto l'indirizzo della sua vit- 
+tima, può iniziare le sue ricerche. 
+
+Supponiamo che l'IP della vittima sia 1 94.1 05.97.1 6 (casuale), 
+l'attaccante potrà vedere il nome del computer o l'indirizzo di 
+rete della vittima con: 
+
+
+
+(Sappiamo che il parametro -a risolve un IP num. in nome del- 
+l'host) 
+
+
+
+Il risultato sarà del tipo. 
+
+
+
+A questo punto, I attaccante 
+può conoscere il nome del computer vittima, e grazie a que- 
+sto essere in grado di rintracciarlo in seguito in qualsiasi mo- 
+mento. Per fare ciò gli serve un DNS-scanner. 
+Genius per esempio è un programma completo di ogni utility 
+(compreso il ping&tracert appunto). Questa utility permette la 
+scansione di un range di IP; si possono verificare quanti e qua- 
+li hosts sono online in un intervallo compreso fra due indirizzi. 
+Prima di andare avanti però apriamo una piccola parentesi. 
+Come dovreste sapere, l'indirizzo IP assegnato dal Provider ad 
+un'host della sua rete è dinamico, cioè cambia ad ogni con- 
+nessione, ma la radice (i primi 24 bit) rimane invariata. Se per 
+esempio il vostro IP è 1 94. 1 0. 1 90. 1 8 significa che appartengo 
+ad un indirizzo di rete : 
+
+194.10.190.X dove "X" è il n° host che mi può essere assegnato 
+
+(a meno che si tratti di grosse sottoreti, dove l'assegnazione del 
+n° può variare negli ultimi 16 bit --> .192.X e .191.X per 
+esempio). Questo procedimento viene fatto utilizzando una 
+maschera di rete (Netmask) sovrapposta all'IP ... ma questo 
+discorso esula un po' dai nostri scopi (per approfondire, cer- 
+cate dei testi sul protocollo TCP/IP). 
+
+Facciamo un'esempio e torniamo alla nostra vittima in IRC. 
+Supponiamo che l'attaccante era riuscito in precedenza ad 
+avere l'indirizzo IP (per esempio 196.41.197.36) e da questo, 
+con Ping -a abbia scoperto il nome del computer della vittima 
+(quello impostato al momento dell'installazione, o della confi- 
+gurazione di TCP/IP o della condivisione). 
+In un qualsiasi momento, facendo una scansione della sotto- 
+rete da 196.41.197.1 a 196.41.197.255, l'attaccante potrà 
+vedere se il nome del computer compare, e associato a quale 
+
+
+
+www.hackerjournal.it 
+
+
+
+-e- 
+
+
+
+18_2 0_hjll_mac 16-10-2002 9:41 Pagina *1 
+
+
+
+
+COME IMPOSTARE MAC OS X PER TENERE FUORI GLI INTRUSI 
+
+
+
+GIAGUARI 
+GABBIÀI 
+
+
+
+Una breue 
+introduzione alla 
+sicurezza per 
+Mac DS X, con 
+qualche piccola 
+regoletta che 
+uale anche per gli 
+altri sistemi. 
+
+
+
+
+o 
+
+
+
+k, ammettiamo che fino ad 
+ora non ve ne siate accorti, 
+nonostante il fatto che lo 
+stiamo scrivendo da tutte le 
+parti: il nuovo sistema ope- 
+rativo della Apple, Mac Os X (la "x" si- 
+gnifica che è la decima release), è ba- 
+sato su Unix. Cioè, Apple ha celebrato il 
+funerale del vecchio sistema operativo 
+(letteralmente, con tanto di bara e 
+
+
+
+pistolotto di Steve Jobs) ed è 
+ripartita da FreeBSD e , 
+Mach. Poi, ci ha messo so- i 
+pra anche una bella inter- 
+faccia grafica, Aqua (ri- < 
+gorosamente senza la 
+"e"), che potremmo para- 
+gonare a X-Windows. 
+Fin qui, niente di eccezio- 
+nale, se non il fatto che i 
+programmatori di Cuperti- 
+no se c'è una cosa che sanno fare, biso- 
+gna dirlo, sono le interfacce. Aqua è, 
+oggi come oggi, una bella interfaccia. 
+XF) prodotto da quella azienda di Seattle 
+
+
+
+■ 
+
+
+
+l i 
+
+
+
+che non voglio citare, non gli lega nean- 
+che le scarpe. 
+
+Quindi, ammettiamo che tra chi mi leg- 
+ge ci sia qualche giovane volenteroso, 
+che ha in camera uno stupendo server 
+biprocessore sotto Linux. Questo bravo 
+*^. ragazzo probabil- 
+- mente vorrebbe 
+anche un portati- 
+, le, un oggetto 
+adatto da infilare 
+^ in borsa quando si 
+va in vacanza o alle 
+convention del setto- 
+^ re, per amministra- 
+, re la macchina in 
+remoto ma anche 
+per portarsi avanti 
+con qualche piccolo 
+, lavoretto, tipo la 
+. gestione del sito 
+etc. Però, sui portatili 
+Linux un paio di problemini ci sono: ad 
+esempio le schede wireless, e amenità 
+del genere, che funzionano un po' a sin- 
+ghiozzo. Non è bello ricompilare ogni 
+
+
+
+www.hackerjournal.it 
+
+
+
+due giorni il kernel perché finalmente è 
+
+
+
+-ì 
+
+
+
+uscito il driver (quasi) stabile per il ma- 
+sterizzatore combo- lettore Dvd. Con le 
+
+
+
+
+macchine di Apple questo non succede 
+
+
+
+
+(dopotutto è un prodotto commerciale), 
+
+
+
+
+
+
+
+
+ma grazie alle fondamenta Unix è pos- 
+sibile fare tutto il resto: dentro ci sono 
+sempre un buon compilatore, GCC 3.1, 
+
+
+
+
+i vari flavour di C (C + +, Objective-C, 
+
+
+
+
+Objective-C + +), Java (1.3.1), Perl 
+(5.60, in attesa del 5.8), Tel, PHR Python, 
+
+
+
+
+Ruby e altro ancora nel più stretto rispet- 
+to delle norme POSIX (lo standard co- 
+mune alle varie release di Unix e Linux). 
+Tutte cose che, stranamente, non si tro- 
+
+
+
+
+vano in XP di cui sopra. 
+
+
+
+
+
+
+
+
+
+
+
+
+\\ Danrìarln ciriirn 
+
+
+
+
+si ncllUcllU alLUlU 
+
+
+
+
+- 
+
+
+
+
+Ma l'interfaccia grafica non serve solo 
+
+
+
+
+per guardare un Dvd Se è ben fatta, (e 
+
+
+
+
+con Mac Os X 10.2.1 lo è), può essere 
+anche utile per fare lavori di ammini- 
+strazione della propria macchina in mo- 
+
+
+
+
+do veloce e preciso. Come front-end 
+grafico, infatti, Os X permette di settore 
+
+
+
+
+
+
+
+
+
+
+
+18_2 0_hjll_mac 16-10-2002 9:41 Pagina *19 
+
+
+
+velocemente i parametri di sicurezza che 
+richiederebbero un lavoro piuttosto duro 
+di editing nella shell. 
+Vediamo (finalmente) come fare: innan- 
+zi tutto cosa ci serve per la sicurezza. Po- 
+che regole generali che valgono per tut- 
+ti e poi alcuni comandi da settore come 
+preferiamo, senza dover digitare nean- 
+che un comando testuale nella shell. 
+Le regole. Una macchina sicura è solo 
+una macchina spenta. Le altre, invece, 
+hanno solo livelli diversi di insicurezza. 
+Vediamo di minimizzarli. Una nota: te- 
+nete anche a mente che utilizzo l'inglese 
+come linguaggio del sistema operativo 
+(e quindi nelle schermate in queste pa- 
+gine). E 1 un allenamento, perché tante 
+piccole cose che si possono imparare su 
+Internet si trovano in quella lingua. 
+Quindi, perché perdere tempo a tradur- 
+re tutto... 
+
+Partiamo dall'account. Mac Os X per- 
+mette di creare tre livelli di account. Uno 
+come amministratore (viene generato 
+durante l'installazione del sistema ope- 
+rativo), uno come utente (generato dal- 
+l'amministratore) e un super-user, root, 
+che è in grado di fare quello che il nor- 
+male amministratore non è in grado di 
+fare (come cancellare il sistema operati- 
+vo). Quest'ultimo si può attivare usando 
+Netlnfo Manager (è nella cartella Utility 
+dentro la cartella Applications). Nell'im- 
+magine, root è già attivato (ovviamente). 
+Inutile dire che servono tutti e tre e che le 
+password devono essere differenti l'una 
+dall'altra, oltre che non banali. Meglio 
+se lunghe e mescolando lettere a nume- 
+ri, anziché usando parole di senso com- 
+piuto. La prima violazione di una mac- 
+china avviene loggando come utente 
+T o - ^ __ -—- 
+
+
+
+polino, password Pippo. Là fuori ci sono 
+milioni di tonti che registrano così i loro 
+account. Provare per credere. Ah, evitia- 
+mo anche la data di nascita propria o 
+della mamma, mi raccomando. 
+
+
+
+
+
+
+
+
+■ss™ * =r ««*' w ! 
+
+
+
+
+
+
+
+firewall di Mac O 
+
+
+
+» La sicurezza fisica 
+
+A questo punto, bisogna assicurarsi da- 
+gli "assalti" effettuati da persone che 
+possono accedere fisicamente al nostro 
+Mac. Tre piccoli trucchi. Il primo è attiva- 
+re un qualunque screensaver con richie- 
+sta di password. La password è quella 
+dell'account con il quale si è fatto 
+log-in (vedi immagine). Si attiva dal 
+pannello ScreenEffects di System 
+Preferences. La seconda, è attivare 
+la richiesta di log-in all'avvio della 
+macchina. Serve, tra l'altro, ad as- 
+sicurare che nessuno possa ac- 
+cendere nottetempo il nostro 
+computer e loggare automatica- 
+mente come amministratore. Si ^j 
+attiva sempre da System Prefe- car 
+rences, pannello Accounts. Terzo, 
+installare una piccola utility di Apple sca- 
+ricabile dal loro sito, Open Firmware 
+Password, che impedisce al computer 
+di essere avviato utilizzando un ed rom 
+contenente il sistema operativo oppure 
+come single user (premendo la combi- 
+nazione di tasti Mela-S durante l'avvio, 
+provate per credere). 
+A questo punto la macchina dal lato "fi- 
+sico" è praticamente blindata, se solo 
+
+
+
+uno ha l'accortezza di usarla, normal- 
+mente, con un account da utente anzi- 
+ché come root. I privilegi di accesso alla 
+applicazioni e ai file del quale si settano 
+sempre dal pannello Account, cliccando 
+su Capabilities dell'utente designato. 
+Come si può vedere dall'immagine, è 
+possibile restringere parecchio lo spazio 
+di manovra del singolo utente, attivando 
+e disattivando opzioni per l'uso delle ap- 
+plicazioni installate e dell'ambiente ge- 
+nerale. Inoltre, Ie20eventuali applicazio- 
+ni fatte partire da qualche script sbaraz- 
+zino vengono bloccate dal livello di sicu- 
+rezza dell'account e, al limite, richiedono 
+di essere autenticate come amministra- 
+tore per essere eseguite. 
+Ok, tutto questo senza usare una riga di 
+testo nella shell, fino ad ora. E anche 
+dopo, sarà così! 
+
+
+
+» Condiuidere, 
+ma con giudizio 
+
+
+
+Passiamo infatti a capire due concetti 
+importanti. La gestione della condivisio- 
+ne dei file e i settaggi del firewall inte- 
+grato nel sistema operativo da un lato, e 
+la gestione delle connessioni. Mac Os X 
+presenta un comodo pannello di con- 
+trollo nel quale settore sia i primi che i 
+secondi. Entrambi questi pannelli sono 
+indifferenti al tipo di utente che 
+
+
+
+■"«'"*■ nm inni *,«. - 
+
+
+
+
+ha accesso al- 
+la macchina. Questo vuol dire che se 
+l'amministratore prepara determinati set- 
+taggi del firewall, ad esempio, i loro va- 
+lori influenzano tutti quelli che hanno ac- 
+cesso alla macchina come utenti. Idem 
+per le connessioni. 
+
+Le connessioni sono profili differenti, 
+creabili senza limite, attraverso le quali è 
+possibile "navigare" a caldo, cioè passa- 
+
+
+
+www.hackerjournal.it 
+
+
+
+-e- 
+
+
+
+18_2 0_hjll_mac 16-10-2002 9:41 Pagina 
+
+
+
+*20 
+
+
+
+
+
+
+COME 
+
+
+IMPOSTARE 
+
+
+MAC 
+
+
+OS 
+
+
+X 
+
+
+PER 
+
+
+TENERE 
+
+
+FUORI 
+
+
+GLI 
+
+
+INTRUSI 
+
+
+
+
+
+re da una all'altra senza dover riawiare 
+la macchina (hai sentito, Windows?). 
+Questo per un portatile, ad esempio, è 
+molto comodo: senza sofware di terze 
+parti, il computer può attivare modem, 
+scheda ethernet o Airport (802.1 lb, cioè 
+senza fili) con parametri differenti. I set- 
+taggi di ciascun profilo vengono regolati 
+dal pannello Network di System Preferen- 
+ces, ma il passaggio da un profilo all'altro 
+avviene comodamente dal desktop, usan- 
+do il menu con la piccola Mela (vedi im- 
+magine). E una soluzione utile anche per 
+chi abbia diversi account con provider te- 
+lefonici e preferisca cambiare in modo fre- 
+quente il suo Isp. Inoltre, ed è importante 
+ai fini della sicurezza, consente di creare 
+un profilo dove ethernet e scheda wireless 
+sono disabilitati via software. In questo 
+modo, si chiudono fisicamente le porte di 
+accesso alla macchina anche se i cavi so- 
+no collegati. 
+
+»ll firewall interno 
+
+Passiamo infine al firewall, uno degli ele- 
+menti contenuti nel pannello Sharing. 
+Questo pannello permette (terzo tab) di 
+settore la condivisione dell'accesso a Inter- 
+net di una macchina con altre collegate 
+(cioè un notevole risparmio sul prezzo di 
+un router), di settore (secondo tab) le rego- 
+le base del firewall e (primo tab) di settore 
+le regole avanzate di condivisione dei file. 
+In alto, spiccano due strisce: la prima de- 
+finisce il nome del computer, mentre la se- 
+conda ne definisce il nome "Rendezvous", 
+cioè ZeroConfig Techno- r — 
+logy, uno standard open 
+source accolto da Apple 
+che consente di mettere ' 
+in rete localmente com- 
+puter e periferiche senza 
+dover settore ulteriori 
+parametri. , 
+
+Lasciamo Rendezvous 
+(tanto fa tutto da solo) I 
+e partiamo con la con- I 
+divisione (Services). Se I 
+abbiamo un collega- 
+mento a Internet fisso (ad esempio una 
+Adsl) o ci colleghiamo a una rete locale 
+per la prima volta, non attiviamo nulla. A 
+meno che non ci serva, e anche in quel 
+caso, chiediamoci se ci serve davvero. Per- 
+ché concedere l'accesso Ftp alla propria 
+
+
+
+
+vengono automatica^ 
+risponder" 
+
+macchina se non serve? 
+Inoltre, se lo dimentichiamo acceso, altri 
+utenti che possono usare la nostra macchi- 
+na con account inferiori usufruiranno dello 
+stesso livello di apertura. 
+Firewall: stessa regola di prima. Se abbia- 
+mo un collegamento permanente, faccia- 
+mo partire il firewall e poi chiediamoci 
+quali porte ci serve che siano aperte, cioè 
+quali tipi di dati possono entrare e uscire 
+dalla nostra macchina. La logica con la 
+quale l'interfaccia grafica di Apple regola il 
+firewall è di esclusione: attivandolo si chiu- 
+de tutto eccetto i servizi che vengono aper- 
+ti volontariamente. Alcuni, tra parentesi c'è 
+il numero della porta logica interessata, 
+(vedi immagine)sono già presenti nella li- 
+sta. Altri compaiono clickando sul 
+
+
+
+[ ancora li pos- 
+siamo deter- 
+minare da ze- 
+ro noi (ad 
+esempio qual- 
+che software 
+peer-to-peer 
+come Acquisi- 
+tion, che richie- 
+, da strani porte 
+per strani colle- 
+gamenti a strani server...). L'eccezione prin- 
+cipale a questo tipo di funzionamento è 
+per l'Ftp, come avverte la stessa Apple: 
+avendo attivato il firewall per scaricare file 
+con l'ftp è necessario attivare l'opzione 
+
+
+
+"passive FTP" nel tab "Proxies" del pannello 
+Network delle System Preferences. 
+La relazione tra il primo tab e il secondo 
+del pannello Sharing è di tipo logico: se 
+ad esempio attiviamo la condivisione file 
+con Windows (porta 139), automatica- 
+mente il firewall ammette l'apertura della 
+porta 1 39. Per chiuderla, bisogna prima 
+disattivare la condivisione. 
+Perché tenere tutto chiuso? Certo, se 
+usiamo il Mac senza collegarci a niente, 
+è indifferente. Ma anche su una rete lo- 
+cale un firewall personale è utile, dato 
+che consente di suddividere il rischio di 
+violazioni: se anche viene passato il 
+I router con il primo firewall generale, le 
+m singole macchine della piccola rete ca- 
+
+
+
+una macchina sia dedicata a web ser- 
+ver (più visibile e maggiormente sogget- 
+ta a violazioni) mentre con le altre si lavo- 
+ra per altri scopi. 
+
+Un'ultima cosa: tramite il pannello Softwa- 
+re Update (attivabile anche come coman- 
+do dalla shell, quindi operabile in remoto) 
+è possibile scaricare con una connessione 
+autenticata gli aggiornamenti del sistema 
+operativo. Tra le altre cose, Apple rilascia 
+gli aggiornamenti di sicurezza per tutti i 
+problemi che possono colpire il kernel BSD 
+o le principali applicazioni. Sono aggior- 
+namenti frequenti (almeno due volte al 
+mese), ed è inutile dire che è meglio insta- 
+larli subito... 
+
+oDm 
+
+
+
+sicurezza 
+
+Quando certe cose vengono troppo 
+semplificate, si rischia di non compren- 
+derle appieno in tutti i loro dettagli. I 
+quando si tratta di sicurezza, non c'è co- 
+sa peggiore di avere una sensazione di 
+sicurezza falsa e non corrispondente al- 
+la verità. Per stare un po' più tranquilli, 
+non c'è altra alternativa che studiare il 
+funzionamento del firewall interno e 
+personalizzarlo a proprio piaceimento 
+nella maniera più complicata: modifi- 
+cando il file di configurazione. Un inte- 
+ressante articolo su questo argomento è 
+all'indirizzo www3 ■ sympatico - ca/ 
+dccote/firewall-html 
+
+
+
+www.hackeriournal.it 
+
+
+
+-e- 
+
+
+

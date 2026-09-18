@@ -1,0 +1,775 @@
+Noisy Square - 31C3_Public_Wiki 
+
+ Noisy Square 
+
+ From 31C3_Public_Wiki
+
+ Jump to: navigation , search 
+
+ Website
+
+ https://noisysquare.com 
+
+ Contact
+
+ noisysquare@noisysquare.com
+
+ Description
+
+ Central meeting space for politics involving technology and vice versa.
+
+ Members
+
+ Aaron , Becha , Bg , Dosch , DrWhax , Drg , Frap , Groente , Hark , Hellekin , Henk , Houndbee , Ilias , Infinity0 , Intrigeri , Jilliancyork , K3t , Kiki , MBeltran , Maikeltje , Maltman23 , Mdik , Metalgamer , Mo , Muri , Naif , NateEFF , Postdigital , R8g , Revo , Saint , Samthetechie , Tg , Thecount , Txl , U , Varac , Webmind , Wotwot , Yuvadm , Zilog , Zombb 
+
+ Projects
+
+ AlternativeLearningTank , GNUnet , I2P , Leap , OTR , Pixelated , Tails 
+
+ Self-organized Sessions
+
+ Ai Weiwei is Living in Our Future , Alternative Learning Tank , EU surveillance: What the fuck is in a PNR and why should I care? , Fuckoff google , Improve booklet on Tails , Improving the infrastructure behind Tails , LEAP Provider Hands-On , Messaging , Net neutrality and the return of the pink panther , OONI\: Open Observatory of Network Interference , PLux, DG13, Directives and Regulations (aka how the EU works) , Parliamentary Inquiry on Mass Surveillance in Germany , Practical Whistleblowing , Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks , Storm and privateers ahead on the cybersea: Is there a safe harbor for the EU-ship? , TTIP & CETA - let's troll it! , The Surveillance State: closer to home than you ever imagined. , Tor Relay Operators Meetup , Umbrella org meetup , WeFixTheNet , What is Pixelated , What's next in the world of designing much needed secure protocols? 
+
+ Subassemblies 
+
+ Anarchist Village 
+
+ CAcert 
+
+ CryptoParty 
+
+ EDRi 
+
+ Electronic Frontier Foundation 
+
+ Free Software Foundation Europe 
+
+ The Federation 
+
+ Wastun gegen Überwachung 
+
+ Wauland 
+
+ WeFixTheNet 
+
+ Related to assembly
+
+ CryptoParty , QueerFeministGeeks , EDRi , The Federation , DIYISP , StopWatchingUs , Wastun gegen Überwachung , WeFixTheInternet 
+
+ Tags
+
+ ta3m , crypto , politics , critical , radical , discussion , censorship , activism , journalism , circumvention , opensource , security 
+
+ Registered on
+
+ 29 September 2014 15:58:28
+
+ Location for self-organized sessions
+
+ yes
+
+ Self-organized session notes
+
+ For the agenda, look below:
+
+ Other assemblies by tags...
+
+ 3d printing 3d scanning android angularjs art berlin cacert cad crypto diy education electronics erfa freifunk hackerspace hardware hardware hacking it security karlsruhe led linux network politics science security social soldering university web whisky workshop 
+
+ Location
+
+ ,
+
+ Orga contact
+
+ noisysquare@noisysquare.com 
+
+ Brings
+
+ * PA
+
+ Beamer
+
+ Whiteboard
+
+ Flipover
+
+ Seats needed
+
+ 80
+
+ Extra seats
+
+ 120
+
+ Assembly specification
+
+ 2. We'd like to come together with a lot of people, a spot with lot's of people passing by and good visibility would be nice., 3. We need something special or in between those options: Please specify in the field planning notes.
+
+ Planning notes
+
+ Same space as last year (up the central escalator) with nearby access to a 50+ person room for ad-hoc and focused discussions (away from the congress noise) would be a dream come true.
+ We would like to have some sofas. (10)
+Chairs and tables like last year (15 tables and 200 chairs)
+
+ refresh 
+
+ The Noisy Square is a horizontally organized community full of critical thinking, discussions, theorizing and politics. We encourage the fundamental questioning of all the systems we rely on, fight, build or destroy. We aim to build stronger ties, learn from and teach to the individuals and organizations participating in 31C3. Our favorite subjects are citizen-journalism, tools for freedom, censorship, surveillance, open technology, circumvention techniques, organization analyses and politics in general.
+
+Get nostalgic and see what happened before at OHM2013 , 30C3 and HopeX 
+
+ Contents
+
+ 1 N² Sessions: 
+
+ 2 N² Inhabitants: 
+
+ 3 N² Supporting organisations: 
+
+ 4 Anti-harassment policy 
+
+ 5 TODO 
+
+ 6 Extra 
+
+ 7 Stuff processed by noisysquare (this is supposed to show all noisysquare sessions) 
+
+ N² Sessions: 
+
+ Don't forget to schedule your session in one of the rooms (by creating a self organised session).
+
+ Schedule 
+
+ Tails-Day #1 Saturday 27 december
+
+ Time 
+ Location/state 
+ Title 
+ Person/group 
+ Description 
+ Link
+
+ 12:00 
+
+ open
+
+ 13:00 
+
+ open
+
+ 14:00 
+ open
+
+ 15:00 
+ open
+
+ 16:00 
+ Hall 15 
+ Translate Tails 
+ u 
+ hands-on translations: how to set up a working environment to improve Tails in your language, it's easier than it sounds. 
+ https://tails.boum.org 
+
+ 17:00 
+ Hall 15 
+ Improve booklet on Tails 
+ Donna 
+ By the time of the event this booklet should be fnished. Calling all to read it and give feedback. I will also be available to help people make Tails USB sticks of their own. 
+ https://tailsbook.ch 
+
+ 18:00 
+ Hall 15 
+ Contributing to Tails by working on Debian 
+ intrigeri 
+ sometimes, the best way to help Tails is to make Debian better; let's see how 
+ https://tails.boum.org 
+
+ 19:00 
+ Hall 15 
+ OONI\: Open Observatory of Network Interference 
+ hellais, aagbsn, anadahz, irl 
+ some interesting measurements we have collected and analysed, how you can help us in measuring all the censorship! 
+ https://ooni.torproject.org 
+
+ 20:00 
+ Hall 15 
+ Improving the infrastructure behind Tails 
+ intrigeri 
+ getting started with Tails system administration 
+ https://tails.boum.org 
+
+ Policy-Day #2 Sunday 28 december
+
+ 12:30 
+ NoisySQ 
+ Storm and privateers ahead on the cybersea: Is there a safe harbor for the EU-ship? 
+ Ton 
+ A (nautical) discussion on data flow and trade agreements. NoHashtag: CETA, TTIP, TiSA and other acronyms. 
+ https://www.bof.nl 
+
+ 13:30 
+ Hall 15 
+ PLux, DG13, Directives and Regulations (how the EU works) 
+ EDRi & Access 
+ Why is PLux so important? What the hell is DG13? How do EU institutions work and why should we get involved in policy making? 
+ https://events.ccc.de/congress/2014/wiki/Session:PLux,_DG13,_Directives_and_Regulations_%28aka_how_the_EU_works%29 
+
+ 14:00 
+ Hall 15 
+ Net neutrality and the return of the pink panther 
+ EDRi & Access 
+ The fight for a neutral internet is not yet over. 
+ https://savetheinternet.eu - https://events.ccc.de/congress/2014/wiki/Session:Net_neutrality_and_the_return_of_the_pink_panther 
+
+ 14:00 
+ NOT 
+ Hands-on workshop on Android Security and Privacy using FOSS 
+ Ralf, FSFE 
+ learn about data security with Android phones just using FOSS software 
+ https://events.ccc.de/congress/2014/wiki/Session:Secure_your_Android 
+
+ 17:30 
+ Hall 15 
+ EU surveillance: What the fuck is in a PNR and why should I care? 
+ Digiges & Access 
+ The EU is planning to introduce a EU-wide retention system of your flight travel data. This session discusses why this is a bad idea and how we can stop it. 
+ https://events.ccc.de/congress/2014/wiki/Session:EU_surveillance:_What_the_fuck_is_in_a_PNR_and_why_should_I_care%3F 
+
+ 18:30 
+ NOT 
+ Hacking Ethics in Education Discussion 
+ 1sand0s 
+ Discussion after presentation on "Hacking Ethics in Education" 
+
+ 24:00 
+ OONI Table Noisy Square 
+ OONI: Open Observatory of Network Interference 
+ * 
+ Let's hack on some code, probe some networks, sniff some packets while listening to some music and drinking some fine italian grappa! 
+ https://github.com/TheTorProject/ooni-probe , https://github.com/TheTorProject/ooni-pipeline , https://github.com/TheTorProject/libight , https://github.com/TheTorProject/ooni-backend , https://github.com/hellais/ooni-mean 
+
+ Tools of Resistance-Day #3 Monday 29 december
+
+ 12:00 
+
+ open
+
+ 13:00 
+ Hall 13 
+ What is Pixelated 
+ Christoph 
+ Why pixelated. What we do. What we do differently 
+ https://events.ccc.de/congress/2014/wiki/Projects:Pixelatedg 
+
+ 14:00 
+
+ Pixelated hands on 
+ Christoph 
+ Start hacking on Pixelated 
+ https://events.ccc.de/congress/2014/wiki/Projects:Pixelated 
+
+ 14:00 
+
+ GnuPG encryption with Smart Cards 
+ Werner Koch, FSFE 
+ This session is about proper use of GnuPG encryption 
+ https://events.ccc.de/congress/2014/wiki/Session:GnuPG_in_use_with_smart_cards 
+
+ 16:00 
+ Hall13 
+ What's next in the world of designing muchh needed secure protocols? 
+ DrWhax 
+ @hall13 Brainstorm session about secure `binary reproducibility and verification protocol` protocols. How can we better protect users, leak less metadata and create a more pleasant experience? 
+ http://brvp.ch/ 
+
+ 16:00 
+
+ Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks 
+ naif 
+ A practical workshop to share the experience coming from the support to more than 20 different whistleblowing initiatives as part of the GlobaLeaks project. Which are the key of a successful initiative? Security, Encryption? Naaah, it's much more than that! Will followup with an open-discussion on the "impossibile leak sites" that everyone want to do, but no-one ever made! 
+ https://globaleaks.org 
+
+ 16:00 
+ Hall 15 
+ The Surveillance State: closer to home than you ever imagined. 
+ PSOOL 
+ Talk and discussion about experiences and responses to UK undercover police infiltration of political movements 
+ http://policespiesoutoflives.org.uk 
+[I am aware that a long-term undercover police infiltrator was discovered in Hamburg. I am concerned to be sensitive to the people affected by that. To contact me, please write to: atikka [@] puscii [.] nl]
+
+ 16:00 
+
+ Android Developers Meetup 
+ cketti 
+ Meet, Drink and Connect 
+ https://events.ccc.de/congress/2014/wiki/Session:AndroidDev_Meetup 
+
+ 16:00 
+ Hall 15 
+ TTIP & CETA - let's troll it! 
+ Drg, Walter, Rysiek 
+ Workshop on how to troll two of the biggest threats to democracy and the rule of law, disguised as free trade agreements. 2015 will be the year of non/ratification and negotiation of two EU deals that could end western democracy as we know it. Let's try to analyse pro TTIP and pro CETA propaganda and gather best counter-arguments. 
+ https://events.ccc.de/congress/2014/wiki/Assembly:EDRi 
+
+ 17:00 
+ Hall 13 
+ LEAP Provider Hands-On 
+ Varac 
+ Hands-on: Setting up a leap provider offering vpn and/or email service 
+ Leap 
+
+ 17:00 
+ Hall 15 
+ Parliamentary Inquiry on Mass Surveillance in Germany 
+ anne 
+ What is happning in the parliamentary investigation in Germany, how does it work, what has been achieved so far and will there be asylum for Snowden in Berlin? What's the point and the purpose to do this work in parliament? I'd also like to discuss what is happening in other countries along these lines. 
+ Mandate of the inquiry (pdf) 
+
+ 18:00 
+
+ NetAidKit beta demo 
+ Menso 
+ Demoing the NetAidKit, a GL-Inet based Tor/VPN router for the masses 
+ t.b.a.
+
+ 19:00 
+
+ Qubes OS hands-on 
+ joanna, caspar, michael 
+ Learn about & play with Qubes, the FOSS security-focused OS 
+ https://wiki.qubes-os.org 
+
+ Destroying the echo-chamber Day #4 Tuesday 30 december
+
+ 12:00 
+
+ Corporate regulation of speech 
+ Kurt Opsahl, Jillian York (EFF) 
+ Online intermediaries host our websites, carry our social connections, and connect us to the Internet. They are necessary for the communications of a robust Internet, yet have the power to restrict speech as well as carry it. The Electronic Frontier Foundation’s Jillian York and Kurt Opsahl will lead a discussion on the policies for intermediaries that will help promote a free and open internet, including the Intermediary Liability Project and OnlineCensorship.org. 
+ https://eff.org 
+
+ 13:00 
+
+ Toxic hate and Gamer Gate 
+ Tor, N^2 and you 
+ A discussion on the harassment happening online and offline and how to fight it. 
+ https://blog.torproject.org/blog/solidarity-against-online-harassment 
+
+ 15:00 
+ Hall 13 
+ Alternative Learning Tank 
+ Zilog, MBeltran, Postdigital 
+ Taking the crypto-pitchfork out of the squares and the hackerspaces and into the institutions 
+ https://alternativelearningtank.net 
+
+ 17:00 
+ Hall 13 
+ Ai Weiwei is Living in Our Future 
+ Hans de Zwart 
+ Starting with Ai Wei Wei, this talk will explore the societal consequences of ubiquitous surveillance. Who is watching who? How does it feel to be a watcher? Does first-person recording change our perspective of the world? Can we escape looking at each other? 
+ https://www.bof.nl 
+
+ 18:00 
+
+ Adopt an ooniprobe 
+ hellais, aagbsn, anadahz, irl 
+ Join the fight against surveillance and censorship by adopting an ooniprobe. Feed it power and internet packets to watch it grow! 
+ https://ooni.torproject.org 
+
+ N² Inhabitants: 
+
+ Please leave contact details! (Dect, mail, jabber, whatever) 
+
+ User 
+ I like/bring (Skills, ideas, Machines)* 
+ Arrival 
+ Departure 
+ Notes 
+ Contact
+
+ Dosch 
+ Building, decorating (a bit) and DJ-ing on the 29 
+ 26/12 
+ 31/12 
+ Takin' it easy 
+ 3672
+
+ Webmind 
+  ? 
+ 20/12 
+ 31/12 
+ Stuff 
+ 6664 / 6284
+
+ revo 
+ Will bring RPi with XBian for live streaming talks and music jukebox 
+ 26/12 
+ 30/12 
+
+ Varac 
+ Hand-on workshops on LEAP and Pixelated 
+ 26/12 
+ 30/12 
+
+ zilog 
+ Will bring The Anonymous Selfie Machine (a 1.5x1.5x2.1m booth) 
+ 26/12 
+ 30/12 
+
+ Mbeltran 
+
+ 26/12 
+ 30/12 
+
+ ZombB 
+ CryptoParty Stickers 
+ 26/12 
+ 31/12 
+
+ GSM 2669
+
+ metalgamer 
+
+ 26/12 
+ 31/12 
+
+ GSM: 5665, Jabber: metalgamer@jabber.metalgamer.eu
+
+ Kiki 
+ Stickers 
+ 27/12 
+ 29/12 
+
+ Jabber: Kirst3n@jabber.ccc.de
+
+ naif 
+ Will bring love! 
+ 26/12 
+ 31/12 
+
+ Jabber: naif@jabber.ccc.de
+
+ txl 
+ time 
+ 27/12 
+ 31/12 
+
+ N² Supporting organisations: 
+
+ Organisation 
+ Contribution
+
+ AccessNow 
+
+ AlternativeLearningTank 
+ Talk, The Anonymous Selfie Machine & The inCCCredible.ob(server)[];
+
+ Anarchist Village 
+ Preparations
+
+ Associated Whistle-Blowing Press 
+
+ CAcert 
+ CAcert assurances around the clock
+
+ Choke Point Project 
+ TBA
+
+ Cryptocat 
+
+ Cryptoparty 
+ Cryptoparty workshops, stickers, decorations
+
+ EDRi 
+
+ EFF 
+
+ Free Software Foundation Europe 
+
+ Greenhost 
+ Preparations
+
+ Hart voor Internetvrijheid 
+
+ LEAP Encryption Access Project 
+ Workshops on LEAP
+
+ Hermes Center for Transparency and Digital Human Rights 
+ Workshop on Whistleblowing, GlobaLeaks/Tor2web stickers, Some Grappa
+
+ IMMI 
+
+ The Internet Protection Lab 
+
+ Nos Oignons 
+
+ PUSCII 
+
+ RiseUp! 
+
+ Torservers.net 
+
+ Tactical Tech 
+
+ Tails 
+ Workshops on Tails
+
+ Vrijschrift 
+
+ OTR! 
+
+ Wikileaks Press 
+
+ Frënn vun der Ënn A.S.B.L. 
+
+ Anti-harassment policy 
+
+ Like the technical community as a whole, the Noisy Square community is made up of a mixture of people from all over the world, working on a variety of projects -- including developing, teaching, engineering and connecting people.
+Diversity is one of our huge strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to when they’re participating within this community. These rules apply equally to all.
+This isn’t an exhaustive list of things that you can or cannot do. Rather, take it in the spirit in which it’s intended -- a guide to make it easier to enrich all of us and the technical communities in which we participate.
+This policy is meant for the Noisy Square 31C3 gathering in Hamburg and the virtual spaces like IRC, mailing list and website.
+
+ Create a welcoming space. Be welcoming, friendly and patient. 
+
+ Remember that we’re a world-wide community, so you might not be communicating in someone else’s primary language.
+
+ We want social justice . If you rarely feel out of place, you probably are part of a majority. Let's be clear: this is mostly the case, but not limited to the stereotype of the white male nerd. At CCC, you might be part of the majority because you grew up in occidental culture, or because you have a shiny degree in Computer Science, you have a well paid job, you come here ever since you can walk, or you simply are a good speaker and a confident person. Being part of a majority means that you should check on your own privileges from time to time and maybe take a step back. Ask yourself if you take up too much space by talking more, louder or longer than others, for example. Empower minorities: explicitly invite minorities & shy people to speak. Simply give enough space to everyone be able to express themselves and to evolve freely in order to make NoisySquare a more diverse place.
+
+ Be considerate . Your ideas will be used by other people, and you in turn will depend on the ideas of others. Any decision you take will affect other participants, and you should take those consequences into account when making decisions. 
+
+ Be respectful . Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the Noisy Square community should be respectful when dealing with other participants.
+
+ Be careful in the words that you choose . Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren’t acceptable. This includes, but is not limited to: 
+
+ Violent threats or language directed against another person.
+
+ Sexist, racist, or otherwise discriminatory jokes and language.
+
+ Exhibiting violent speak or material.
+
+ Publishing (or threatening to publish) other people’s personally identifying information ("doxing").
+
+ Recording, photographing or filming other persons without their consent. Seek consent before recording. Also ask people who may be seen or heard in the background.
+
+ Personal insults, especially those using racist or sexist terms.
+
+ Unwelcome sexual attention.
+
+ Advocating for, or encouraging, any of the above behavior.
+
+ Repeated harassment of others. In general, if someone asks you to stop, then stop.
+
+ When we disagree, try to understand why. Disagreements, both social and technical, happen all the time and Noisy Square is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of Noisy Square comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, please consider offering your help in order to resolve issues and to help learn from mistakes.
+
+ Adapted from the Tails HackFest 2014 -- Anti-harassment policy, who used the Django Code of Conduct, that itself attributes it to the Speak Up! project. 
+
+ TODO 
+
+ HINT: This is a wiki, so you can edit edit this , ya know? :)
+
+ Add yourself as a member (on your wiki-profile page) & Refresh Memberlist 
+
+ Join IRC Channel (#Noisysq irc.oftc.net)
+
+ Subscribe to Mailinglist 
+
+ Blinking stuff!
+
+ Add TODOs
+
+ Extra 
+
+ - T-shirts (maybe)
+
+ Stuff processed by noisysquare (this is supposed to show all noisysquare sessions) 
+
+   description Processed by assembly Has organizer property Has session type Is organized by Held in language Has session keyword Has subobject This property is a special property in this wiki. Has query This property is a special property in this wiki. Ai Weiwei is Living in Our Future Starting with Ai Wei Wei, this talk will explore the societal consequences of ubiquitous surveillance. Who is watching who? How does it feel to be a watcher? Does first-person recording change our perspective of the world? Can we escape looking at each other? Noisy Square Hansdezwart, Talk Hansdezwart en - English social
+political Ai Weiwei is Living in Our Future Ai Weiwei is Living in Our Future 
+ Ai Weiwei is Living in Our Future 
+ Alternative Learning Tank The Alternative Learning Tank is a nomadic school and artistic organization that focuses in the research, creation and implementation of educational programs on progressive and radical fields of knowledge that are not contemplated by educational institutions. It strives for a reform of those institutions, embracing how knowledge is being produced and transferred in the XXI century. Drawing from precedents such as contemporary social movements, digital rights, hacker culture, new media and a general critical stand point about technology. ALT develops a practice of intellectual production and advocacy at the intersection between pedagogy, art and activism. Noisy Square MBeltran, Zilog, Postdigital, Talk MBeltran 
+ Zilog 
+ Postdigital en - English social
+political
+art
+hacking
+coding
+security Alternative Learning Tank Alternative Learning Tank 
+ Alternative Learning Tank 
+ EU surveillance: What the fuck is in a PNR and why should I care? The EU is planning to introduce a EU-wide retention system of your flight travel data. This session discusses why this is a bad idea and how we can stop it. Noisy Square R8g, Workshop R8g en - English political EU surveillance: What the fuck is in a PNR and why should I care? EU surveillance: What the fuck is in a PNR and why should I care? 
+ EU surveillance: What the fuck is in a PNR and why should I care? 
+ Fuckoff google Discussion after lecture "fuck off google" Noisy Square Anonymous, Workshop Anonymous en - English political Fuckoff google Fuckoff google 
+ Fuckoff google 
+ Improve booklet on Tails Noisy Square Donna, Donna Improve booklet on Tails Improve booklet on Tails 
+ Improve booklet on Tails 
+ Improving the infrastructure behind Tails getting started with Tails system administration Noisy Square Intrigeri, Workshop Intrigeri en - English political
+software
+inside
+coding
+security
+safety Improving the infrastructure behind Tails Improving the infrastructure behind Tails 
+ Improving the infrastructure behind Tails 
+ LEAP Provider Hands-On Hands-on: Setting up a leap provider (vpn, email or both) from scratch. Noisy Square Varac, Hands-On Varac de - German
+en - English software
+security LEAP Provider Hands-On LEAP Provider Hands-On 
+ LEAP Provider Hands-On 
+ Messaging Technical workshop for those involved in building and maintaining secure messaging systems - such as OTR, Pond, and various group chat protocols. We'll begin by reporting on progress in the last year, then split up into per-topic discussion groups. Noisy Square Infinity0, Workshop Infinity0 en - English software
+network
+security Messaging 
+ Messaging Messaging 
+ Messaging 
+ Net neutrality and the return of the pink panther The fight for a neutral internet is not yet over. Noisy Square Kiki, R8g, Talk Kiki 
+ R8g en - English political Net neutrality and the return of the pink panther Net neutrality and the return of the pink panther 
+ Net neutrality and the return of the pink panther 
+ OONI\: Open Observatory of Network Interference Noisy Square Hellais, Hellais OONI\: Open Observatory of Network Interference OONI\: Open Observatory of Network Interference 
+ OONI\: Open Observatory of Network Interference 
+ PLux, DG13, Directives and Regulations (aka how the EU works) Why is PLux so important? What the hell is DG13? How do EU institutions work and why should we get involved in policy making? Noisy Square Kiki, R8g, Talk Kiki 
+ R8g en - English political PLux, DG13, Directives and Regulations (aka how the EU works) PLux, DG13, Directives and Regulations (aka how the EU works) 
+ PLux, DG13, Directives and Regulations (aka how the EU works) 
+ Parliamentary Inquiry on Mass Surveillance in Germany What is happening in the parliamentary investigation in Germany, how does it work, what has been achieved so far and will there be asylum for Snowden in Berlin? What's the point and the purpose to do this work in parliament? I'd also like to discuss what is happening along these lines in other countries. Noisy Square Anne, Discussion Anne en - English political Parliamentary Inquiry on Mass Surveillance in Germany Parliamentary Inquiry on Mass Surveillance in Germany 
+ Parliamentary Inquiry on Mass Surveillance in Germany 
+ Practical Whistleblowing A practical workshop to share the experience coming from the support to more than 20 different whistleblowing initiatives as part of the GlobaLeaks project. Noisy Square Naif, Workshop Naif en - English Practical Whistleblowing 
+ Practical Whistleblowing 
+ Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks A practical workshop to share the experience coming from the support to more than 20 different whistleblowing initiatives as part of the GlobaLeaks project. Noisy Square Naif, Workshop Naif en - English social
+political Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks 
+ Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks 
+ Storm and privateers ahead on the cybersea: Is there a safe harbor for the EU-ship? A (nautical) discussion on data flow and trade agreements. Noisy Square MGAMAS, Talk MGAMAS en - English political Storm and privateers ahead on the cybersea: Is there a safe harbor for the EU-ship? Storm and privateers ahead on the cybersea: Is there a safe harbor for the EU-ship? 
+ Storm and privateers ahead on the cybersea: Is there a safe harbor for the EU-ship? 
+ TTIP & CETA - let's troll it! Workshop on how to troll two of the biggest threats to democracy and the rule of law, disguised as free trade agreements. 2015 will be the year of non/ratification and negotiation of two EU deals that could end western democracy as we know it. Let's try to analyse pro TTIP and pro CETA propaganda and gather best counter-arguments. Noisy Square 
+ EDRi Drg, Walter, Rysiek, Workshop Drg 
+ Walter 
+ Rysiek en - English social
+political TTIP & CETA - let's troll it! TTIP & CETA - let's troll it! 
+ TTIP & CETA - let's troll it! 
+ The Surveillance State: closer to home than you ever imagined. Undercover Police officers in the UK spent years living with activists, forming the most intimate relationships and infiltrating every single part of our lives. No matter how many layers of encryption you use, if your closest companions are cops, sharing your home, your details and your computer, there is nowhere to hide. This talk is by one of a group of 8 women suing the London Metropolitan Police over undercover abuses. It will look at the experience of police infiltration in the UK, some of our responses, and how that might relate to digital privacy struggles and resistance to other parts of the surveillance state. Noisy Square Atikka, Talk Atikka en - English social
+political
+security
+safety The Surveillance State: closer to home than you ever imagined. The Surveillance State: closer to home than you ever imagined. 
+ The Surveillance State: closer to home than you ever imagined. 
+ Tor Relay Operators Meetup Tor relay operators meetup -- questions about running Tor relays? Noisy Square Mo, Meeting Mo en - English political
+network
+security Tor Relay Operators Meetup Tor Relay Operators Meetup 
+ Tor Relay Operators Meetup 
+ Umbrella org meetup The "Umbrella" group invites people interested in umbrella organizations (orgs handling multiple projects) to a meetup. Noisy Square Mo, Meeting Mo de - German
+en - English social
+political Umbrella org meetup Umbrella org meetup 
+ Umbrella org meetup 
+ WeFixTheNet The "We Fix the Net" assembly" is to be the perfect place at 31c3 for all hackers to do something about replacing today's broken Internet with secure alternatives. We hope to have some talks and panels like last year. Noisy Square Grothoff, SreeTotakura, Workshop Grothoff 
+ SreeTotakura en - English social
+political
+hardware
+software
+network
+hacking
+coding
+security WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet 
+ WeFixTheNet WeFixTheNet 
+ WeFixTheNet 
+ What is Pixelated Noisy Square Talk en - English software What is Pixelated What is Pixelated 
+ What is Pixelated 
+ What's next in the world of designing much needed secure protocols? Brainstorm session about secure `binary reproducibility and verification protocol` protocols. How can we better protect users, leak less metadata and create a more pleasant experience? This workshop will focus on making a design for reproducible builds, what do tools lack for the moment? How can we improve those tools? However, users are not going to compile our software they download the binaries, how can they verify it isn't tampered with? I have a sketch laying in my drawer for months now that I feel should be refined for great benefit of users world wide. Noisy Square DrWhax, Discussion DrWhax en - English software
+security What's next in the world of designing much needed secure protocols? What's next in the world of designing much needed secure protocols? 
+ What's next in the world of designing much needed secure protocols? 
+
+ Retrieved from " http://events.ccc.de/congress/2014/wiki/index.php?title=Assembly:Noisy_Square&oldid=10951 " 
+
+ Categories : Session location 
+ Assembly 
+
+ Navigation menu
+
+ Personal tools
+
+ Create account 
+ Log in 
+
+ Namespaces
+
+ Assembly 
+
+ Discussion 
+
+ Variants 
+
+ Views
+
+ Read 
+
+ View form 
+
+ View history 
+
+ Actions 
+
+ Search 
+
+ Navigation
+
+ Main page 
+
+ FAQ 
+
+ Tickets 
+
+ Travel 
+
+ Accommodation 
+
+ Assemblies 
+
+ Projects 
+
+ Self-organized Sessions 
+
+ Couchsurfing places 
+
+ Forms
+
+ Create assembly 
+
+ Create project 
+
+ Create self-organized session 
+
+ Create lightning talk 
+
+ Wiki
+
+ Recent changes 
+
+ Tools
+
+ What links here 
+
+ Related changes 
+
+ Special pages 
+
+ Printable version 
+
+ Permanent link 
+
+ Page information 
+
+ Browse properties 
+
+ This page was last modified on 29 December 2014, at 10:27.
+
+ This page has been accessed 31,771 times.
+
+ Privacy policy 
+
+ About 31C3_Public_Wiki 
+
+ Disclaimers

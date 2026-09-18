@@ -1,0 +1,147 @@
+Enforce HTTPS for distribution of software as a security measure against targeted malware attacks
+https://github.com/videolabs/mirrorbits/issues/59
+opened 2017-06-30T15:13:46Z by fpietrosanti · state closed
+
+Following Snowden NSA and Wikileaks CIA releases the internet community has been shaked in the understanding of how massive surveillance and targeted attacks works.
+
+The basic attacks to infect computer with software malware is to intercept "on the wire" the package download, infect it "on-the-fly" and let the end-user finish the download and install it.
+
+This major attack can be prevented by having a default HTTPS transport from the download mirror, considering that the additional costs of HTTPS vs HTTP is today negligible.
+
+This ticket is to have mirrorbits to enforce all of the mirror download URLs to be only HTTPS, operating a plan to enforce HTTPS as the only download method, eventually working closely with the download mirrors.
+
+
+--- 2017-06-30T15:19:59Z MartijnKaijser
+This should be optional to begin with and not hard enforce.
+My suggestion would be to strictly redirect https:// requests to mirrors that have https://
+Potentially add option to a mirror conifg for the https:// or that mirror or a bool that it supports https.
+
+For one of our use cases we would need https:// for downloading binaries but for others it's not needed. 
+So having https://foo.bar/  to only use https:// enabled mirrors would be a good measure.
+
+--- 2017-06-30T15:22:20Z fpietrosanti
+@MartijnKaijser Cool! 
+There's already a list of mirrors that support https and the ones that does not support it? As having those list in a table would enable to make some social media campaigning to persuade them to activate HTTPS and in 6-12 months reach a 100% https by default?
+
+--- 2017-06-30T15:30:54Z MartijnKaijser
+Not that i know off. Also https is still more demanding for mirrors than simple http/ftp.
+Maybe @etix has a list available or you would have to contact each mirror and ask.
+
+Edit:
+See
+https://www.keycdn.com/blog/https-performance-overhead/
+
+We're handling 300million requests a day so doing full https will blow up our server.
+
+--- 2017-06-30T23:30:57Z etix
+I'm not sure to understand the problem here. If you just add servers supporting HTTPS then all your downloads will be made over TLS, no?
+
+For VLC the updates are cryptographically signed so it's not really top priority for us. But I agree that in a perfect world all downloads should be made over HTTPS now. That being said as most Open-Source project we don't control the mirrors so it's not an easy task.
+
+What is true though, is that as one of the biggest open-source project out there we can have some weight to make the transition happen. Maybe with the help of Kodi, Ubuntu, Archlinux, Gentoo and all the other... but that's another topic.
+
+--- 2017-07-01T06:48:12Z MartijnKaijser
+@etix the issue is that not all our mirrors actually have https (i think). We cannot switch to https only as that would require doubling server capacity and cut down the amount of mirrors we have. Also it's not even needed for all the files we have like images. For sparkle we need to have https mirrors to let it download osx images. Currently there's no way to force certain downloads to only go to https servers except setting up a completely new mirrorbits instance. So for Kodi we want to at least start with having the binaries over https but without setting up another mirrorbits instance, Having the the download link start with http or http**s** could be a way to let mirrorbits prefer https enabled mirrors or not. Perhaps you know a better way to integrate this?
+
+edit:
+You happen to have a list of https enabled mirrors or know from your current mirrors if they have? Also if you have some contact info for USA mirrors that would be great as we lack in that area.
+
+edit2:
+Just went through all our mirrors and tried them out. Only half of them have https support currently. Some just redirect back to http and some simply don't load at all.
+
+--- 2017-07-01T07:37:02Z fpietrosanti
+@MartijnKaijser If i understand the report you linked, switching entire download traffic to HTTPS would increase 2% cpu usage with negligible performance impact? 
+
+It would be super if the mirrorbits project would provide a clear statement and incentive asking mirrors to upgrade their download support to HTTPS-only by a certain date, and in the meantime advocating the switch, also thanks to letsencrypt.org free certificates.
+
+Btw having a https/no-https support of the actual mirror would be a baseline, then providing a default https (if available) would still be something, then providing some kind of specific end-user awareness message would be useful (ie: If the web-page running mirrobits is not in HTTPS, put a warning in the web interface, if the web-page from which the referrer from download is coming is not HTTPS put a warning in the web interface, if the mirror is not HTTPS put a warning in the web interface) .
+
+That way mirrorbits would gracefuly but firmly drive mirrorbits users and mirrors to upgrade to HTTPS by default in order to just avoid a warning (that's the very same strategy that Google Chrome is slowly doing https://motherboard.vice.com/en_us/article/xygdxq/google-will-soon-shame-all-websites-that-are-unencrypted-chrome-https) .
+
+
+
+--- 2017-07-01T07:54:28Z wsnipex
+@fpietrosanti for kodi, going full https would mean we'd have 3x server CPU load because the overhead of the TLS handshake is huge, specially if you have very short lived sessions almost exclusively.
+Our current hardware is not able to handle this.
+
+@etix my idea for "selective" https on the mirror side would be a configureable path prefix that tells mirrorbits to only serve https.
+e.g.
+- securePathPrefix=/sslonly/
+
+--- 2017-07-01T14:02:20Z etix
+@MartijnKaijser to sum up, you'd like a way to tell mirrorbits that for a given request it should only return HTTPS mirrors? Would a query argument be fine?
+
+@fpietrosanti the mirrorbits project has no leverage over mirrors, we have no way to force mirrors to use HTTPS. They will all do the switch eventually.
+
+@wsnipex that is a valid option but I have a preference for specifying this per-request instead of marking a whole path as HTTPS only but I'm open to the discussion.
+
+--- 2017-07-01T14:24:39Z jbkempf
+Mirrors are provided by 3rd parties. You cannot trust them all, unless you control all of them, which is very unlikely.
+
+That's why you need to have security and hashes outside of the mirroring system. For example, VLC updates and binaries are signed with asymetric crypto, in addition to the native signing from the system (Authenticode/GameKeeper). Therefore, you cannot push wrong binary updates even if you own a mirror.
+
+--- 2017-07-01T15:31:31Z Memphiz
+One more info. I agree - signing is the way to go. But for our problem (using sparkle on osx) we need https in addition because sparkle/osx (as of osx 10.11 i think) simply denies non https requests when no exception is given. We can't add exceptions for all mirrors because those exceptions have to be defined at compile time ( and tend to be outdated very soon i think).
+
+--- 2017-07-01T15:41:06Z jbkempf
+@Memphiz sure, this feature is totally wanted, but that won't fix the issue OP is trying to say it will.
+
+Unless you control all the HTTPS certificates of all the mirror, you cannot control the integrity.
+
+--- 2017-07-01T21:12:35Z fpietrosanti
+The integrity is provided by the existing certificate chain validated by the browsers.
+
+Which is the purpose of doing additional check on https certs of mirrors?
+
+Sent from mobile
+
+
+
+Sent from mobile
+> On 1 Jul 2017, at 17:41, Jean-Baptiste Kempf <notifications@github.com> wrote:
+> 
+> @Memphiz sure, this feature is totally wanted, but that won't fix the issue OP is trying to say it will.
+> 
+> Unless you control all the HTTPS certificates of all the mirror, you cannot control the integrity.
+> 
+> —
+> You are receiving this because you were mentioned.
+> Reply to this email directly, view it on GitHub, or mute the thread.
+> 
+
+
+--- 2017-07-01T23:04:59Z jbkempf
+That just makes no sense: instead of just trusting ourselves, we should trust 120 different chains of trusts from the corrupt CA system...
+
+--- 2017-07-02T01:56:52Z chewitt
+Using HTTPS mirrors is not a bad thing and aids general privacy, but does little for security in the way the OP implied without certificate pinning or other technical measures which are impractical to manage in a distribution system that relies on mirrors outside your control. Please go read https://theupdateframework.github.io for a readable and comprehensive summary of possible attacks on a software distribution system. If you solve the right problem, secure distribution over insecure HTTP mirrors is not really an issue.
+
+--- 2017-07-03T21:36:17Z fpietrosanti
+Testing of mirrors supporting HTTPS that are defined as HTTP (+9 to be added) reaching a total of 35 HTTPS mirrors for VLC https://trac.videolan.org/vlc/ticket/18484#comment:4
+
+--- 2017-07-04T08:02:00Z fpietrosanti
+Hopefully with ticket will become implemented as Chrome and Firefox will force download of executable over HTTPS
+
+See attached screenshot for chrome and bug tracker on Firefox https://bugzilla.mozilla.org/show_bug.cgi?id=1303739 all going in the direction of Google to diffuse uses of HTTPS against massive surveillance and targeted MITM attacks
+
+<img width="1148" alt="screen shot 2017-07-04 at 09 43 21" src="https://user-images.githubusercontent.com/770363/27820621-a2de523e-609f-11e7-954b-f8264948d8a9.png">
+
+
+--- 2017-07-04T08:51:57Z etix
+If you really care about security then supporting checksums in <a> tag is a more secure way than requiring HTTPS for file downloads.
+
+HTTPS doesn't guarantee you're downloading the file you expect, AT ALL. But checksums do, even in "plain text" as you like to call it, as long as the page containing the link is itself in HTTPS.
+
+--- 2017-07-04T09:01:02Z fpietrosanti
+@etix Nope, that's not how security works. 
+To prevent MITM attacks you need "connection security" between the piece of software operating the download (the browser) and the piece of software serving the installation file (the server operating HTTP/S protocol).
+
+If you expect to rely on end-users good practices to verify signatures, that' so '90s expectations of crypto communities, that failed. 
+Today security paradigm require automation and protection of each step, so first protect the transport against MITM (full HTTPS path with HSTS between each browser interaction), then as a good practice (that unfortunately have no practical uses by almost all users) also deploy signatures and inform end-users on how to verify it.
+
+Preparing a news article on security mechanisms in place of top-30 opensource desktop software to provide an overview of the different security technical implementations for software distribution among various projects, so you'll be able to objectively compare to others and make your own evaluations.
+
+--- 2017-07-04T09:06:43Z etix
+You just proved that you do not understand security at all. Thanks for proving my point.
+
+Now that's enough.

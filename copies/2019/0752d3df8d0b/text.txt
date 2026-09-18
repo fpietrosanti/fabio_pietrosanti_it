@@ -1,0 +1,233 @@
+Overlay Network Crittografici - Copernicani 
+
+ Copernicani 
+
+ Innamorati del futuro
+
+ Menu
+
+ Chi 
+ Chi siamo 
+
+ La nostra Visione 
+
+ Il nostro Manifesto 
+
+ Le persone 
+
+ Cosa 
+ Cosa facciamo 
+
+ L’elaborazione di proposte 
+
+ Il software 
+
+ Formazione ed informazione 
+
+ Come 
+ Come operiamo 
+
+ Ci piace fare rete 
+
+ #iopartecipo 
+
+ Attività 
+ Dossier Economia Digitale 
+
+ Appelli 
+
+ Comunicati Stampa 
+
+ Campagne 
+
+ MinistroDigitale 
+
+ Riflessioni 
+
+ News 
+
+ Comunicazioni 
+
+ Digitale 
+
+ Area Riservata 
+
+ Overlay Network Crittografici
+
+ Esiste una relazione concatenabile tra crittografia, sistemi di protocollo atti alla decentralizzazione dell’impiego di risorse condivise nella rete e sistemi per la verificabilità e immutabilità di informazioni transazionali disgiunte dal loro contenuto che trovano ambito di applicabilità nei sistemi di voto elettronico.
+
+ La costituzione presso l’Associazione Copernicani di un gruppo di lavoro per condividere un angolo di osservazione di “Overlay Network Crittografici” è divenuta l’occasione migliore per condividere idee e ragionamenti con l’obiettivo di sviluppare le argomentazioni che sostengono la suddetta concatenazione e giungere a basilari distinguo sui contesti di applicabilità di sistemi di votazione elettronica, distinguendo tra fisicità della presenza (con possibile eliminazione dei supporti cartacei), esigenze di remotizzazione (voto all’estero) e livelli di istituzionalità del voto, considerando le svariate implicazioni ed evitando accuratamente il rischio di semplificazioni.
+
+ Dal Gruppo di Lavoro è stato prodotto il documento che segue, frutto dell’esperienza, competenza e multidisciplinarietà dei componenti; un supporto sintetico per la definizione di concetti e argomentazioni fondamentali per chi voglia affrontare casi di utilizzo dove rivalità ed escludibilità dell’informazione siano a garanzia di riservatezza e confidenzialità in un contesto di governance  trasparente dei processi. Un ulteriore contributo da integrare nel Libro Bianco sulla partecipazione digitale .
+
+ Overlay network crittografici 
+
+ Con Overlay network crittografico si definisce uno strato applicativo indipendente dalla rete sottostante, dotato di regole che ne determinano caratteristiche di fiducia basate su:
+
+ distribuzione del contenuto crittografato;
+
+ verificabilità delle transazioni inerenti la distribuzione e conservazione del contenuto stesso;
+
+ integrità e riservatezza (data appunto dalla crittografia).
+
+ Per fare un esempio in grado di spiegare immediatamente di che cosa si tratti, la Blockchain, la struttura alla base di Bitcoin, è una dimostrazione concreta della realizzabilità di overlay network crittografici.
+
+ Grazie a dimostrazioni (prove ed argomentazioni) del tipo “ zero knowledge ” è possibile costruire sistemi affidabili (inteso come con garanzie di completezza, correttezza ed affidabilità) che diano prove di avvenuta e corretta computazione e memorizzazione, senza conoscere il contenuto dei suoi dati.
+
+ Prove sono dimostrazioni che forniscono la totale certezza. 
+
+ Argomentazioni sono affermazioni con un livello di garanzia inferiore a quello delle prove, ma che offrono una probabilità di certezza quasi totale o la cui confutazione richiederebbe un tempo estremamente lungo con i sistemi di calcolo esistenti e previsti. 
+
+ Completezza e Correttezza sono proprietà crittografiche formali e sostanziali che assicurano che le prove generate non possano essere falsificate . 
+
+ IPFS 
+
+ Ci sono implementazioni di insiemi di protocolli ed applicazioni totalmente decentralizzate che implementano questi sistemi.
+
+In particolare IPFS (InterPlanetary File System) e la sua famiglia di protocolli.
+
+ IPFS utilizza la blockchain per:
+
+1. realizzare l’overlay network crittografico
+
+2. la realizzazione di una criptovaluta in circuito privativo ( utility toke n ) per incentivare la messa a disposizione e commitment nel tempo di risorse (storage o capacità computazionale) e
+
+3. per la tracciabilità e registrazione delle prove di cui sopra, costituendo una terza parte fidata in un Fair Exchange.
+
+ Per Fair Exchange si intende un protocollo in cui le parti accettano di consegnare un articolo se e solo se ricevono un articolo in cambio. Se Alice fornisce qualcosa a Bob sulla promessa di ottenere qualcosa in cambio, Alice è esposta al rischio che Bob non esegua la sua parte dell’accordo. E’ stata dimostrata l’impossibilità di effettuare un Fair Exchange senza una terza parte fidata. 
+
+ I suddetti elementi permettono la realizzazione di un mercato dove i contributori del overlay network commerciano le loro risorse (storage e computazione) in un affidabile contesto di trasparenza.
+
+ Dati come beni privati 
+
+ Un incapsulamento crittografico consentirà di rendere le informazioni rivali ed escludibili, introducendo la possibilità di:
+
+ gestire i dati come proprietà privata (e non, come accade oggi, come beni non rivali e solo parzialmente escludibili utilizzando meccanismi di access control );
+
+ rompere l’attuale integrazione verticale tra dati e applicazione;
+
+ realizzare la interoperabilità dei servizi online, dando sostanza alla portabilità del profilo già stabilita dal GDPR.
+
+ In economia, un bene si dice rivale se il suo consumo o fruizione da parte di un consumatore impedisce il consumo simultaneo da parte di altri consumatori. Un bene è considerato non rivale se, per qualsiasi livello di produzione, il costo di fornirlo a un individuo marginale (aggiuntivo) è zero. Un bene può essere collocato lungo un continuum che va dal rivale al non-rivale.  
+
+ In economia, un bene o un servizio è detto escludibile se è possibile impedirne il godimento da parte di persone che non ne abbiano il diritto o cui tale diritto sia stato loro revocato. Un bene o servizio è detto non è escludibile se non si può impedirne il godimento da parte di terzi. 
+
+ Un bene rivale ed escludibile è detto bene privato. Un bene non rivale e non escludibile è detto bene pubblico. 
+
+ L’informazione è un bene non rivale e non escludibile, se non in misura ridotta ricorrendo a sistemi di controllo degli accessi. Ciò giustifica che i servizi che fanno uso di dati siano integrati tra applicazioni e dati al fine di limitarne la diffusione a terzi ed il loro accesso sia governato.  
+
+ Altre considerazioni 
+
+ Per completezza va citato SOLID , promosso da Tim Berners Lee, un protocollo che definisce in maniera semantica qualsiasi dato di una applicazione (cosa che lo rende concettualmente elegante ma di implementazione pratica non banale), che funziona per ambiti che siano well-scoped, per esempio identità, messaggistica, grafi sociali, etc.
+
+ IPFS invece è un layer che trasporta dati tramite qualsiasi protocollo di rete e qualsiasi metodo di content routing e peer discovery.
+
+ Vi sono inoltre attivi altri progetti innovativi per la gestione e lo scambio sicuro di dati personali sotto il diretto controllo dell’utente ( “self-sovereign identity” ).
+
+ L’avvento di computer quantistici invaliderà i sistemi di cifratura a doppia chiave basati su fattorizzazione o altri problemi matematici equivalenti mentre non invaliderà alcuni algoritmi a doppia chiave che sfruttano problemi matematici diversi (computazionalmente più costosi) e quelli a chiave simmetrica che spostano la criticità sui protocolli di autenticazione nella condivisione delle chiavi.
+
+ Sistemi di voto 
+
+ Blockchain 
+
+ La Blockchain nasce con obiettivi diversi dalla realizzazione di sistemi di voto.
+
+ La sua caratteristica di inalterabilità, in presenza di meccanismi di garanzia di non takeover del controllo dell’algoritmo di consenso (per resistere ad attacchi del 51% in POW o POS o con algoritmi tipo Stellar) consente a persone qualificate la verificabilità del voto espresso e registrato.
+
+ Mentre altri problemi (double spending, etc) sono risolti, va ricordato il paradosso della trasparenza per cui la verificabilità diretta (senza coinvolgere terze parti fidate) implica la possibilità di introduzione del voto di scambio, limitandone l’utilizzo nei processi democratici istituzionali in cui la confidenzialità è un requisito assoluto.
+
+ Voto in presenza 
+
+ Al netto di considerazioni sull’efficienza operativa, operazioni di voto in processi democratici istituzionali, eseguite in presenza presso seggi materiali, in linea teorica potrebbero avvalersi di strumenti di voto elettronico senza paper trail laddove:
+
+ utilizzassero tecniche di prove della computazione e dello storage,
+
+ le persone disponessero di strumenti verificati e verificabili e di un livello di competenza adeguata per effettuarne una verificabilità autonoma,
+
+ la filiera logistica fosse controllata gestendo tutta la catena di fiducia dalla fornitura dell’hardware in poi, fino al suo disarmo,
+
+ tutto il procedimento fosse ispezionato e verificato da terze parti di garanzia.
+
+ Le esperienze realizzate ad oggi nel mondo hanno dimostrato criticità in uno o più di di questi elementi ed il consenso degli esperti è che i sistemi più efficaci ed efficienti siano basati su VVPAT (Voter verifiable paper audit trail).
+
+ Voto remoto 
+
+ Operazioni di voto in processi democratici istituzionali eseguiti a distanza, ad esempio per lettera come avviene per i cittadini italiani residenti all’estero per le elezioni politiche italiane, presentano maggiori criticità di un voto in presenza.
+
+ Mantenendo la possibilità di votazione per i cittadini italiani residenti all’estero, tali criticità potrebbero essere mitigate con metodi opportuni quali, ad esempio:
+
+ votazione presso un seggio istituito presso una rappresentanza italiana laddove siano presenti comunità numerose e
+
+ per i restanti cittadini, espressione elettronica online, autenticata con SPID, con opt-in (richiesta da parte dell’elettore di sfruttare questa possibilità).
+
+ Votazioni non istituzionali 
+
+ L’uso di sistemi di voto elettronico, anche a distanza, con diversi graduati livelli di garanzia non rappresenta elementi di criticità generalizzata ed assoluta nei contesti di decisione che richiedono criteri più rilassati rispetto ai vincoli costituzionali e legislativi e laddove gli effetti siano più locali o non vincolanti (dalla bocciofila al partito, alle consultazioni pubbliche) .
+
+ Nel caso dei partiti, con un livello di sicurezza adeguato in considerazione e raffronto con le migliori pratiche attualmente esistenti, non rappresentano criticità i procedimenti interni per utilizzi che non prevedano che il voto determinato con tali sistemi risulti automaticamente vincolante per il rappresentante politico in ambiti istituzionali, introducendo così una disgiunzione valutativa, etica e temporale al fine di garantire l’assenza di un meccanismo strutturale di violazione indiretta delle previsioni costituzionali e legislative.
+
+ Gruppo di lavoro 
+
+ Vittorio Bertola
+
+Davide Formica
+
+Renato Gelforte
+
+Nicola Greco
+
+Matteo Nova
+
+Fabio Pietrosanti
+
+Stefano Quintarelli
+
+Claudio Telmon
+
+Stefano Zanero
+
+ Revisori 
+
+ Andrea Danielli
+
+Francesco Saverio Nucci
+
+Luca Nizzardo
+
+ Overlay Network Crittografici 
+ Condividi con
+ Fai clic per condividere su Facebook (Si apre in una nuova finestra) 
+ Fai clic qui per condividere su Twitter (Si apre in una nuova finestra) 
+ Fai clic qui per condividere su LinkedIn (Si apre in una nuova finestra) 
+ Fai clic qui per condividere su Tumblr (Si apre in una nuova finestra) 
+
+ Tag: crittografia      e-voting      network 
+
+ Andrea Alessandri 
+
+ 9 Febbraio 2019 21 Febbraio 2019 Appelli , Riflessioni 
+
+ ← Posizione dei Copernicani sul futuro della Internet Governance in Italia 
+
+ Elezioni europee: chi vince in TV? La classifica dei politici italiani in base alle “TV impression” → 
+
+ Entra in Copernicani
+
+ Associati 
+
+ Vuoi saperne di più?
+
+ Scrivici 
+
+ Copyright © 2019 Copernicani . Powered by WordPress . Theme: Spacious by ThemeGrill .
+ Il mio account 
+
+ Intranet 
+
+ Privacy Policy 
+
+ Cookie Policy 
+
+ Scrivici 
+
+ C.F. 97803240155

@@ -1,0 +1,13 @@
+Rilevamento compliance HTTPS con linee guida Agid
+https://github.com/MonitoraPA/monitorapa/issues/22
+opened 2022-08-08T13:32:14Z by fpietrosanti · state open
+
+Le PA devono, secondo obiettivi triennali della PA, avere abilitato il protocollo https come unico supporto di accesso al sito e devono rispettare determinate ciphersuite.
+
+Il CERT Agid si è occupato di un primo monitoraggio con i seguenti risultati:
+https://cert-agid.gov.it/news/monitoraggio-sul-corretto-utilizzo-del-protocollo-https-e-dei-livelli-di-aggiornamento-delle-versioni-dei-cms-nei-portali-istituzionali-della-pa/
+
+Secondo i seguenti requisiti:
+https://cert-agid.gov.it/wp-content/uploads/2020/11/AgID-RACCSECTLS-01.pdf
+
+Obiettivo di questo ticket è integrare monitoraggio per supporto HTTPS

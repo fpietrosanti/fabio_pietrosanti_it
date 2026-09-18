@@ -1,0 +1,120 @@
+Come sono riuscito a votare due volte su Rousseau – CRVD 
+
+ Vai al contenuto 
+ Archivio storico del Comitato per i Requisiti del Voto in Democrazia (2018–2024), già su crvd.org e blog.crvd.org. Informazioni sull’archivio 
+
+ CRVD Comitato per i Requisiti del Voto in Democrazia 
+
+ Archivio 
+
+ Chi siamo What CRVD is (English) 
+ La mozione sul voto elettronico 
+ Lo statuto 
+ Il consiglio direttivo 
+ Agisci 
+
+ Dossier Italia 
+ USA 
+ Estonia 
+ Svizzera 
+ Francia 
+
+ Focus La sentenza della Corte costituzionale tedesca 
+ Valutazione dei requisiti del voto elettronico 
+ Blockchain e voto elettronico (FAQ) 
+ La guida HERMES al voto digitale 
+ Scritta appena ieri (Carl Schmitt, 1928) 
+
+ Agisci 
+
+ Cerca 
+
+ CRVD › Archivio › Come sono riuscito a votare due volte su Rousseau 
+ Come sono riuscito a votare due volte su Rousseau
+
+ 20 agosto 2020 · Articoli · 9 min di lettura
+
+ Wired ha scoperto un errore di configurazione che consentiva di duplicare gli account che possono votare sulla piattaforma del Movimento 5 stelle. La nostra inchiesta
+
+ [[Ancora una volta Rousseau è sotto i riflettori per un bug che, questa volta, ha permesso a Fabio Pietrosanti (che ringraziamo per essersi voluto identificare come attivista del CRVD) di votare doppio sugli stessi quesiti. Nessun sistema è assolutamente sicuro, e Rousseau non fa eccezione. Il che dimostra che non importa quanto sia sensibile o importante il processo che si presidia, c’è sempre un rischio residuo. Questa volta a farne le spese è la reputazione, certamente già non eccelsa, del sistema di «sondaggistica ad orologeria per deresponsabilizzare il vertice nella gestione del partito» (F. Pietrosanti). Poco male in effetti. Quel sistema interpreta un personaggio buffo nel teatrino della più bassa politica italiana, funzionale ai propri gestori ma senza più alcun supporto né pratico né ideale. Non ha un senso in un’ottica di democrazia diretta (anzi di democrazia tout-court), non è un sistema partecipativo ma di mera ratifica di decisioni prese altrove. Un orpello della comunicazione propagandistica del partito, niente di più.]] 
+ (ES) 
+ di Raffaele Angius 19 AUG, 2020 su Wired.it 
+
+Via libera al terzo mandato e alle alleanze con i partiti tradizionali: così ha deciso il popolo  5 stelle  che, tra il 13 e il 14 agosto ha espresso a larga maggioranza sulla  piattaforma Rousseau  la volontà di riscrivere alcuni pilastri del movimento fondato da Beppe Grillo e Gianroberto Casaleggio. L’annuncio dell’esito referendario è arrivato a 25 minuti dalla chiusura delle urne, con un messaggio pubblicato sul Blog delle stelle e la rituale assicurazione che la votazione è stata  “certificata dal Notaio che ne ha garantito la regolarità” .
+
+ Tuttavia, a causa di un errore di configurazione scoperto nell’infrastruttura informatica del  Movimento 5 stelle ,  Wired  ha potuto votare due volte  per ciascun quesito,  attraverso due profili  diversi ma creati a partire dallo stesso documento d’identità, certificato, come vuole la prassi, dagli amministratori di Rousseau in modo che sia unico. È stato possibile iscriversi alla piattaforma con un profilo, ottenere il placet degli amministratori, poi modificare le informazioni personali, sottoporre una nuova richiesta di iscrizione (anche se le regole interne impongono che non ci si possa registrare due volte) e ricevere un altro via libera. In sostanza, per effetto di questo errore (ora risolto), da un singolo  profilo utente  ne sono gemmati due.
+
+ Identità digitali
+
+ Ma facciamo un passo indietro. Il principio del Movimento 5 Stelle è che  “uno vale uno”  e la sua realizzazione passa per l’esercizio della  democrazia diretta  (o quantomeno di una sua interpretazione) tramite la  piattaforma Rousseau . Di fatto si tratta di un semplice sito internet, all’interno del quale i sostenitori del partito attualmente al governo possono contribuire alla scrittura delle leggi o votare le proposte avanzate dai suoi dirigenti, come nel caso del voto della scorsa settimana. Ma a dare ufficialità al  “Sistema operativo del MoVimento 5 Stelle”  (così lo chiamano sul sito, anche se non è un sistema operativo propriamente detto) è lo stesso partito, che  “si propone di organizzare le modalità telematiche di consultazione dei propri iscritti”  proprio attraverso  Rousseau  e con la collaborazione dell’omonima associazione, come si legge nello statuto.
+
+ Tanto spiega perché a ogni consultazione intervenga il vaglio di uno  studio notarile  nonché uno stretto controllo  sull’identità dei votanti , che per aprire un profilo su Rousseau devono fornire le generalità e un  documento d’identità valido , dimostrando di non essere già iscritti. È solo dopo aver caricato queste informazioni che un sostenitore può accedere agli spazi virtuali del partito e superare i primi sei mesi nel ruolo di  “osservatore” , prima che il profilo abbia il pieno via libera per esprimere anche il voto.
+
+ A settembre dell’anno scorso  Wired  è stata in grado di  creare con successo un nuovo profilo  – sarebbero potuti essere di più – a partire dai dati personali di un utente già iscritto e utilizzandone il codice fiscale e la carta d’identità, a causa di un errore di configurazione del portale. Tutti e due i profili  sono passati inosservati  al controllo effettuato dall’Associazione Rousseau ed entrambi  sono stati in grado di votare  sia al quesito sul terzo mandato sia a quello sulla possibilità di creare alleanze con i  “partiti tradizionali” . Nella prova, realizzata il 14 agosto,  Wired  ha espresso due voti positivi e due voti negativi, annullandone così l’effetto ai fini dell’esito della consultazione interna al partito.
+
+I due profili creati da Wired hanno votato simultaneamente alle 11:29 del 14 agosto 2020. La consultazione è stata certificata alle ore 12:05 dello stesso giorno.
+
+ “Sola lettura” 
+
+ Ma non sono serviti hacker o periti informatici stavolta per scoprire l’errore di Rousseau, tanto in bella vista che chiunque – persino un giornalista – avrebbe potuto eseguire la stessa procedura con semplicità e ripetere l’esperimento. Grazie allo strumento di ispezione dei contenuti delle pagine web – una funzionalità comune, offerta da browser come Chrome o Firefox –  Wired  ha scoperto di  poter modificare i dati anagrafici  di un utente esistente,  quali   nome, cognome, codice fiscale e anno di nascita . Questi sono i dati acquisiti all’apertura di un nuovo profilo, che vengono validati attraverso la carta d’identità e che lo rendono unico. Per realizzare le modifiche è stato sufficiente  cancellare l’attributo di   sola lettura”   nei campi non modificabili  – generalmente mostrati con un tono di grigio e non cliccabili – per poi aggiungere o rimuovere le informazioni contenute.
+
+ Il problema è che queste modifiche sarebbero dovute avvenire solo sul  client , ovvero il computer nel quale vengono prodotte.  Wired  ha invece accertato che, premendo il pulsante di salvataggio delle modifiche – che serve esclusivamente per cambiare alcuni altri campi quali il numero di telefono o l’indirizzo di posta elettronica dell’utente –  tutti i cambiamenti  apportati in locale venivano  sincronizzati anche sul lato   server , cioè negli  archivi della piattaforma Rousseau .
+
+ Il primo errore ha permesso di modificare i campi che sarebbero dovuti essere fissi, mentre il secondo ha fatto sì che le modifiche apportate andassero a incidere sulle informazioni in possesso di Rousseau, di fatto producendo modifiche sulle loro macchine e sui  dati   “certificati”  in loro possesso.
+
+ A questo punto la creazione di un secondo profilo è stata semplice: non risultando più nelle anagrafiche di Rousseau,  Wired  ha utilizzato le informazioni corrette del primo account per richiedere l’apertura di un secondo utente, a settembre del 2019. Ottenuta la certificazione, il secondo profilo è stato  abilitato al voto in modo regolare  sei mesi dopo l’iscrizione. Per questo  Wired  ha potuto accertare se era in grado di partecipare a una consultazione interna solo nei giorni scorsi, con la prima chiamata utile al popolo Cinque Stelle. Ad ogni modo, secondo quanto risulta a  Wired , almeno da giugno 2020  questo problema è stato risolto , probabilmente in modo inconsapevole, grazie a un restyling generale di tutta la piattaforma ( Wired  aveva anche preparato un documento di disclosure da inviare a Rousseau, come si usa in questi casi). Tuttavia le modifiche intervenute prima restano valide, come è avvenuto per i due profili.
+
+ Difese informatiche
+
+ “Di fatto si è trattato di un errore di configurazione naive e facilmente individuabile con i normali controlli di   penetration testing   ai quali dovrebbero essere sottoposti simili strumenti” , ha commentato l’informatico Fabio Pietrosanti, membro del Comitato per i requisiti del voto in democrazia e titolare dei dati anagrafici utilizzati per creare i due profili. Il riferimento ( penetration testing , dall’inglese: test di penetrazione) è alle analisi condotte da esperti informatici che possono essere assoldati da aziende e associazioni per  cercare le falle nei loro sistemi , utilizzando gli stessi metodi che userebbe un attaccante informatico. Questo tipo di  stress test  è molto utilizzato soprattutto dalle aziende, che si avvalgono di questi servizi per assicurarsi una maggiore protezione dagli attacchi esterni.
+
+ Wired  ha contattato l’Associazione Rousseau per richiedere un commento e per condividere nel dettaglio le caratteristiche del problema riscontrato. L’organizzazione ha assicurato che cercherà di rispondere quanto prima alle domande più tecniche. L’associazione dovrà ora accertare che  altri utenti non abbiano utilizzato lo stesso metodo  per creare profili falsi o per cercare di condizionare l’esito delle consultazioni. Il profilo creato da  Wired  prima dell’aggiornamento di Rousseau e l’originale dal quale ha tratto i dati anagrafici risultano inabili al voto dalla mattina del 19 agosto, successivamente al contatto tra  Wired  e l’associazione stessa.
+
+ La certificazione 
+
+ Alla conta del voto dei giorni scorsi risultano 48.710 preferenze espresse per il primo quesito e 48.975 per il secondo, secondo quanto certificato dal  notaio milanese Valerio Tacchini , che nel 2018 si era candidato al Senato proprio con il Movimento 5 Stelle. Con un passato da notaio televisivo in trasmissionicome  L’isola dei famosi , Tacchini non sembra vantare particolari conoscenze in ambito informatico, a giudicare dal suo curriculum. Eppure il notaio attesta  “l’accesso ai locali e alla visualizzazione dei pc”  di Rousseau, dai quali avrebbe desunto che la votazione si è svolta in modo regolare. Nella certificazione allegata alla notizia della chiusura delle urne si legge che  “a detta votazione hanno avuto  accesso tutti i soggetti regolarmente iscritti” . Al momento della pubblicazione di questo articolo, il notaio incaricato dall’associazione Rousseau non ha risposto alle domande inviate via email da  Wired .
+
+Un dettaglio della certificazione che attesta il regolare svolgimento delle consultazioni del 13 e 14 agosto.
+
+ La multa e la manipolabilità del voto 
+
+ Ma da anni si parla dei problemi tecnici di Rousseau, nel tempo anche oggetto di alcuni incidenti informatici ampiamente riportati dalla cronaca nazionale. Le condizioni della piattaforma risultavano tanto precarie che, al termine di un’attività ispettiva durata cinque mesi, l’Autorità garante per la protezione dei dati personali – all’epoca presieduta da Antonello Soro – aveva deciso  una multa di 50mila euro  ad aprile del 2019. Nel suo provvedimento, il Garante privacy aveva anche imposto all’Associazione Rousseau di adottare misure volte a  proteggere in modo più efficace sia l’identità degli utenti sia il voto , giudicato potenzialmente manipolabile da chi ha accesso alla gestione del sistema e non certificabile a causa della mancanza di strumenti di auditing adeguati.
+
+ “Basta guardare Spid  (il Sistema pubblico di identità digitale, ndr)  per capire quanto sia complesso distribuire delle utenze digitali certificate e non manipolabili” , ha commentato a  Wired  Stefano Zanero, imprenditore e professore associato in Computer Security del Politecnico di Milano, facendo riferimento alle identità digitali utilizzate per accedere ai servizi della pubblica amministrazione.  “Ma il problema è capire di quale livello di accuratezza hai bisogno  – aggiunge Zanero -.  Se Rousseau fosse semplicemente uno strumento di democrazia liquida, come tanti se ne vedono in Europa e nel mondo, potrebbe coinvolgere i suoi sostenitori a un dibattito virtuale e virtuoso  senza dover affrontare le complicazioni del voto elettronico , che di per sé non è l’unico strumento della democrazia ma ne compone una parte” .
+
+ Soprattutto nel mondo digitale, che non produce ricevute cartacee e conservabili e che non dà la possibilità di guardare cosa c’è all’interno dei sistemi dell’associazione:  “La certificazione dell’identità dell’utente  non può non passare dalla verifica manuale  di chi si iscrive, quindi non capisco cosa intendano quando parlano di ‘profili certificati’” , commenta Zanero. Né è chiaro in che modo il notaio possa certificare la lista degli iscritti o l’autenticità del loro voto:  “Tutto quello che succede su Rousseau sta in realtà succedendo nei suoi computer e nei suoi sistemi: come può un notaio certificare qualcosa al di fuori di ciò che gli viene detto?” , si chiede l’esperto.
+
+ “Questo episodio rappresenta in pieno la  fragilità del voto elettronico ” , ha commentato Pietrosanti:  “A differenza del voto tradizionale, dove difficilmente si sarebbe in grado di manipolare su larga scala la volontà degli elettori, in quello elettronico anche un banale errore può  produrre effetti sull’intero sistema  e su tutta la consultazione” . E questi potrebbero passare inosservati anche al perito più attento, come successo su Rousseau.
+
+ Tag: #rousseau 
+
+ Pubblicato originariamente su blog.crvd.org il 20 agosto 2020. Copia nel Web Archive .
+
+ Articolo precedente Il MIT condanna l’app ma Voatz afferma che è sicura Articolo successivo USA 
+ Articoli correlati
+ I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire 12 marzo 2019 
+ Ordini professionali al voto (anche elettronico) in “ordine” sparso: rischi e contromisure | Agenda Digitale 15 aprile 2021 
+ Voto elettronico, un boomerang le cause per diffamazione negli Usa 24 marzo 2021 
+ Cose che solo l’Italia… 24 novembre 2020 
+
+ Comitato per i Requisiti del Voto in Democrazia
+
+ Fondato a Roma il 20 marzo 2018. Sede legale: via Emanuele Filiberto 237, 00185 Roma.
+
+ Contenuti pubblicati originariamente su crvd.org (2018) e blog.crvd.org (2018–2024).
+
+ Esplora
+
+ Tutti gli articoli 
+
+ La mozione sul voto elettronico 
+
+ What CRVD is (English) 
+
+ Feed RSS 
+
+ Conservazione
+
+ Archivio ripristinato e conservato nel 2026 da Hermes Center for Transparency and Digital Human Rights .
+
+ Fonti e metodo del ripristino · Codice sorgente

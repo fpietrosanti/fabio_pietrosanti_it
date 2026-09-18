@@ -1,0 +1,127 @@
+Tor Weekly News — August 30th, 2015 | Tor Blog 
+
+ Skip to main content
+
+ The Tor Project
+
+ Toggle navigation 
+
+ Search 
+
+ Search 
+
+ Enter the terms you wish to search for.
+
+ Main menu
+
+ About Tor 
+
+ Donate 
+
+ Tor Weekly News — August 30th, 2015 
+
+ by harmony | August 30, 2015 
+
+ Welcome to the thirty-third issue in 2015 of Tor Weekly News, the weekly newsletter that covers what’s happening in the Tor community.
+
+ Hash visualizations to protect against onion phishing
+
+ Unlike URLs on the non-private web, the .onion addresses used by Tor hidden services are not handed out by any central authority — instead, they are derived by the hidden services themselves based on their cryptographic key information. This means that they are typically quite hard for humans to remember, unless the hidden service operator — whether by chance or by making repeated attempts — hits upon a memorable string, as in the case of Facebook’s hidden service .
+
+ “The problem”, writes George Kadianakis, is that due to these user-unfriendly strings, “many people don’t verify the whole onion address, they just trust the onion link or verify the first few characters. This is bad since an attacker can create a hidden service with a similar onion address very easily”, then trick users into visiting that address instead for a variety of malicious purposes. This species of attack that has already been seen in the wild . After discussions with other researchers in this area, George drew up a proposal to incorporate visual information into the verification process: “So when TBB connects to a hidden service, it uses the onion address to generate a randomart or key poem and makes them available for the user to examine.”
+
+ As with all new development proposals, however, there are many unanswered questions. What kind of visualization would work best? Should there also be an auditory component, like a randomly-generated tune? How should the feature be made available to users without confusing those who have no idea what it is or why it’s needed? In short, “Some real UX research needs to be done here, before we decide something terrible.”
+
+ If you have clear and constructive feedback to offer on this unusual but important proposal, please send it to the tor-dev mailing list.
+
+ Tor-enabled Debian mirrors
+
+ Richard Hartmann, Peter Palfrader, and Jonathan McDowell have set up the first official onion service mirrors of the Debian operating system’s software package infrastructure. This means that it is now possible to update your Debian system without the update information or downloaded packages leaving the Tor network at all, preventing a network adversary from discovering information about your system. A follow-up post by Richard includes guidance on using apt-transport-tor with the new mirrors.
+
+ These services are only the first in what should hopefully become a fully Tor-enabled system mirroring “the complete package lifecycle, package information, and the website”. “This service is not redundant, it uses a key which is stored on the local drive, the .onion will change, and things are expected to break”, wrote Richard, but if you are interested in trying out the new infrastructure, see the write-ups for further information.
+
+ Miscellaneous news
+
+ David Fifield announced that his 17-minute PETS talk on the theory and practice of “domain fronting”, which is the basis for Tor’s innovative and successful meek pluggable transport , is now available to view online.
+
+ Arturo Filastò announced that registration for ADINA15 , the upcoming OONI hackathon at the Italian Parliament in Rome, is now open. If you’re interested in hacking on internet censorship data in this rarified location, with the possibility of “interesting prizes” for the winning teams, see Arturo’s mail for the full details.
+
+ Arturo also sent out the OONI team’s July status report , while Tor Summer of Privacy progress updates were submitted by Israel Leiva , Cristobal Leiva , and Jesse Victors .
+
+ Fabio Pietrosanti issued an open call for developers interested in working on GlobaLeaks , the open-source anonymous whistleblowing software. “Are you interested in making the world a better place by putting your development skills to use in a globally used free software project? Do you feel passionate about using web technologies for developing highly usable web applications?” If so, please see Fabio’s message for more information.
+
+ News from Tor StackExchange
+
+ saurav created a network using the Shadow simulator and started with 40 guard and 40 exit nodes. After a simulation was performed, another 40/40 nodes were added. saurav then noticed that the more recent nodes had a higher probability of being selected. Can you explain why this is the case? The users of Tor’s Q&A page will be happy to know.
+
+ This issue of Tor Weekly News has been assembled by qbi, Lunar, nicoo, and Harmony.
+
+ Want to continue reading TWN? Please help us create this newsletter. We still need more volunteers to watch the Tor community and report important news. Please see the project page , write down your name and subscribe to the team mailing list if you want to get involved!
+
+ Tags
+
+ tor weekly news 
+
+ Upcoming Events
+
+ February 02, 2019 
+ - February 03, 2019 
+
+ FOSDEM (Brussels) 
+
+ February 02, 2019 
+
+ Tor Meetup (Berlin) 
+
+ February 06, 2019 
+ - February 08, 2019 
+
+ IT Defense (Stuttgart) 
+
+ March 23, 2019 
+ - March 24, 2019 
+
+ LibrePlanet (Boston) 
+
+ March 24, 2019 
+ - March 27, 2019 
+
+ KNOW 2019 (Vegas) 
+
+ See All Upcoming Events 
+
+ Recent Updates
+
+ Expect More From Tor in 2019 
+
+ by steph | January 30, 2019 
+
+ The Tor Project achieved a lot in the last year. We spent 2018 fighting for the fundamental human rights to privacy and freedom online and made our software more accessible than ever before.
+
+ New Release: Tor Browser 8.5a7 
+
+ by boklm | January 30, 2019 
+
+ Tor Browser 8.5a7 is now available from the Tor Browser Project page and also from our 
+
+ New Release: Tor Browser 8.0.5 
+
+ by boklm | January 29, 2019 
+
+ Tor Browser 8.0.5 is now available from the Tor Browser Project page and also from our 
+
+ New Release: Tails 3.12 
+
+ by tails | January 29, 2019 
+
+ This release fixes many security vulnerabilities. You should upgrade as soon as possible.
+
+ © 2019 The Tor Project
+
+ Footer
+
+ The Tor Project 
+
+ RSS 
+
+ Donate

@@ -1,0 +1,1654 @@
+Il Disinformatico: Dopo l’invasione russa dell’Ucraina, che si fa con Kaspersky? 
+
+ PAOLO -->
+
+Il Disinformatico
+
+ Un blog di Paolo Attivissimo, giornalista informatico e cacciatore di bufale 
+
+ Prossimi appuntamenti pubblici: dettagli nel Calendario eventi . 
+
+ Cerca nel blog
+
+ 2022/02/27 
+
+Dopo l’invasione russa dell’Ucraina, che si fa con Kaspersky?
+
+ Un po' di gente mi sta chiedendo cosa fare ora con i prodotti Kaspersky. La tesi che gira è che siccome Eugene Kaspersky è un ex KGB (vero; ha studiato alla scuola del KGB e ci ha lavorato ( Stefano Quintarelli )), allora non ci si dovrebbe fidare dei prodotti della sua azienda.
+ Però temere che l'azienda annidi trappole pro-Russia nei suoi prodotti perché il suo CEO è un "ex KGB" mi suona un po' come dire "non mi fido dei consigli di Snowden, è un ex NSA" . Tantissimi dei migliori esperti del settore sono passati dalle rispettive scuole tecniche militari.
+ Inoltre l'azienda non è composta solo dal suo CEO. Ci lavorano tecnici esperti di moltissimi paesi del mondo. Il codice dei suoi prodotti viene visto da tanti occhi.
+La vedo dura che Eugene entri nel Laboratorio Segreto di notte e infili la Routine ProPutin nei sorgenti. 
+ Come sempre in questi casi, bisognerebbe basarsi sulle prove, non sui sospetti.
+Ci sono prove? Bene, allora si può ragionare. Non ci sono prove? Allora eviterei le decisioni di pancia. 
+ Fabio Pietrosanti ha fatto un’ inchiesta su Kaspersky (l’azienda). Leggetela. Poi ragionate con calma per decidere se volete cambiare prodotto o no, quale prodotto scegliere e come fare bene una migrazione che non vi lasci scoperti proprio in un momento delicato come questo. 
+ Nel passare a un prodotto alternativo, valutate se avete fiducia nei paesi produttori di quei prodotti alternativi (NSA è stata beccata a taroccare i router Cisco, tanto per dire). Le decisioni avventate raramente si sposano bene con la sicurezza informatica. 
+ In questa valutazione considerate, per esempio, se il prodotto è open source e quindi liberamente ispezionabile. È più difficile annidare trappole in un open source che in un sorgente chiuso.
+ Infine, non dimenticate il contributo dei ricercatori di tutto il mondo che lavorano per Kaspersky Labs, che danno una mano importante nella difesa contro il malware e pubblicano info preziose sui malware circolanti. 
+ Un altro aspetto pratico importante da considerare a proposito di Kaspersky è che in caso di embargo sui prodotti russi potrebbero esserci problemi di supporto o di aggiornamenti. 
+ Pragmatismi a parte, c’è anche la questione del messaggio politico di isolamento che si darebbe abbandonando un prodotto “russo”.
+ Full disclosure : non uso prodotti Kaspersky. Ma se essere contigui è indice di colpa, preciso che sì, una volta sono stato a pochi metri da Eugene. Insieme a Neil deGrasse Tyson, Oliver Stone e Larry King. Allo Starmus Festival , a Trondheim, nel 2017. Non ci siamo parlati :-)
+
+Pubblicazione iniziale:
+
+ 27.2.22 
+
+Labels:
+ antivirus 
+
+ Nessun commento:
+
+ Posta un commento 
+
+ Post più vecchio 
+
+ Home page 
+
+Iscriviti a:
+ Commenti sul post (Atom) 
+
+ Credit: Gianluigi Gatti
+e Francesco Lombardi 
+
+ E-mail: paolo.attivissimo@gmail.com 
+
+ PEC: paolo.attivissimo@pec.net 
+
+ Twitter: @disinformatico 
+
+ Instagram: disinformatico 
+
+ Youtube: Antibufala 
+
+ Telegram: t.me/il_Disinformatico 
+
+ Signal: +41 79 759 8264
+
+ Facebook: ma anche no
+
+ WhatsApp: ma anche no
+
+ LinkedIn: ma anche no
+
+ RSS/Feedly: attivissimo.blogspot.com 
+
+ Biografia e foto / About me 
+
+ FAQ 
+
+ I temi delle mie conferenze 
+
+ Podcast (RSI Rete Tre) 
+
+ Podcast (Radio Inblu) 
+
+ Indagini sull’11/9 
+
+ Complotti Lunari 
+
+ Moonscape (documentario)
+
+ La bufala delle “scie chimiche” 
+
+ Auto elettriche: Fuoriditesla.ch 
+
+ Connessioni 
+
+ Disqus: grassetti, corsivi e altri effetti 
+
+ Commenti: regole e uso 
+
+ Copyright di questo blog 
+
+ Demo per tracciamento pubblicitario 
+
+ Libri
+
+ Luna? Sì, ci siamo andati! 
+
+ Moon Hoax: Debunked! 
+
+ Almanacco dello Spazio 
+
+ Uso avanzato dei motori di ricerca 
+
+ Come diventare detective antibufala (guida commissionata da MIUR e Camera dei Deputati)
+
+ Gli altri miei libri 
+
+ Sostieni il mio lavoro
+
+Questo blog è libero e senza pubblicità grazie alle donazioni dei lettori. Se ti piace, fanne una anche tu : offrimi una birra e una fetta di pizza con Paypal, bitcoin o una ricarica telefonica.
+
+ Appuntamenti pubblici
+
+ Calendario completo degli eventi pubblici 
+
+ Archivio degli eventi pubblici passati 
+
+ Visualizzazioni totali
+
+ Versioni di questo blog
+
+ Per schermi grandi (con barra laterale) 
+
+ Per schermi piccoli 
+
+ Feed RSS
+
+Post
+
+ Atom
+
+Post
+
+Commenti
+
+ Atom
+
+Commenti
+
+ Commenti più recenti
+
+​ Vai alla versione estesa 
+
+ Articoli più popolari
+
+ Giornalismo 2.0: le foto private “hackerate” di Diletta Leotta sono sul sito de La Voce di Napoli 
+
+ Comprare un’auto elettrica da 40.000 euro mi costa meno che tenere l’auto a benzina già pagata. Ecco come 
+
+ Il cinico business delle bufale. Prima parte: Liberogiornale.com 
+
+ Antibufala Classic: fermate quei Golden Retriever! 
+
+ No, da sabato mattina i messaggi di WhatsApp non diventeranno a pagamento 
+
+ Attentato a Nizza, cose da fare e non fare su Internet 
+
+ Antibufala: allarme burundanga, il biglietto da visita che stordisce 
+
+ Come nasce una bufaletta giornalistica: il nome della figlia di Samantha Cristoforetti 
+
+ Antibufala: “Talking Angela” NON è un’app di pedofili 
+
+ Con il Governo Monti gli animali domestici diventano un lusso? Pensare prima di inoltrare lo è già per molti 
+
+ Archivio
+
+ ▼ 
+
+2022
+
+ (58) 
+
+ ▼ 
+
+febbraio
+
+ (30) 
+
+ Dopo l’invasione russa dell’Ucraina, che si fa con... 
+
+ No, la Russia non ha minacciato di far precipitare... 
+
+ Podcast RSI - Piccola storia di phishing bancario:... 
+
+ Podcast RSI - AirTag Apple, stalking troppo facile... 
+
+ Vent’anni di Bonsaikitten, fake news ante litteram 
+
+ Dedicato a chi pensa che l’inglese abbia delle reg... 
+
+ Podcast RSI - Auto in tilt per un'immagine, Star ... 
+
+ Le voci deepfake in Star Wars: The Book of Boba Fett 
+
+ Basta un’immagine per far impazzire GPS, telecamer... 
+
+ Una storia di phishing bancario diversa dal solito... 
+
+ Venerdì 18/2 alle 21:30 parleremo di “Forever Youn... 
+
+ Il vero finale di 1984 
+
+ Una chiacchierata in ricordo di Tito Stagno 
+
+ Cerco software di webcam virtuale per fare “sottop... 
+
+ Podcast RSI - Disinformatico Story: I dilemmi dell... 
+
+ Forever Young: finalmente disponibile in italiano ... 
+
+ Ci ha lasciato Douglas Trumbull, maestro degli eff... 
+
+ Incredibile ripresa da terra di un lancio di Space... 
+
+ SMS Premium Challenge (seconda parte): demo di cli... 
+
+ Podcast RSI - Rischio app Tesla non ufficiali, Sal... 
+
+ Un navigatore digitale, ma per l’Impero Romano 
+
+ Informatico prende il controllo di alcune decine d... 
+
+ Remini, l’app che falsifica i volti e genera mostr... 
+
+ Attenzione alle mail "firmate" Europol, Polizia Fe... 
+
+ Nuova forma di spam/truffa: le commentatrici disci... 
+
+ Arriva LibreOffice 7.3, maggiore interoperabilità ... 
+
+ Venerdì parleremo di “green pass” falsi a Patti Ch... 
+
+ La bizzarra foto di gruppo pubblicata da Matteo Sa... 
+
+ Ci ha lasciato Tito Stagno, una vita di passione e... 
+
+ SMS Premium Challenge: riuscite a creare un sito c... 
+
+ ► 
+
+gennaio
+
+ (28) 
+
+ ► 
+
+2021
+
+ (398) 
+
+ ► 
+
+dicembre
+
+ (29) 
+
+ ► 
+
+novembre
+
+ (21) 
+
+ ► 
+
+ottobre
+
+ (39) 
+
+ ► 
+
+settembre
+
+ (38) 
+
+ ► 
+
+agosto
+
+ (24) 
+
+ ► 
+
+luglio
+
+ (23) 
+
+ ► 
+
+giugno
+
+ (38) 
+
+ ► 
+
+maggio
+
+ (35) 
+
+ ► 
+
+aprile
+
+ (43) 
+
+ ► 
+
+marzo
+
+ (24) 
+
+ ► 
+
+febbraio
+
+ (41) 
+
+ ► 
+
+gennaio
+
+ (43) 
+
+ ► 
+
+2020
+
+ (500) 
+
+ ► 
+
+dicembre
+
+ (37) 
+
+ ► 
+
+novembre
+
+ (50) 
+
+ ► 
+
+ottobre
+
+ (29) 
+
+ ► 
+
+settembre
+
+ (25) 
+
+ ► 
+
+agosto
+
+ (36) 
+
+ ► 
+
+luglio
+
+ (41) 
+
+ ► 
+
+giugno
+
+ (49) 
+
+ ► 
+
+maggio
+
+ (54) 
+
+ ► 
+
+aprile
+
+ (54) 
+
+ ► 
+
+marzo
+
+ (56) 
+
+ ► 
+
+febbraio
+
+ (33) 
+
+ ► 
+
+gennaio
+
+ (36) 
+
+ ► 
+
+2019
+
+ (527) 
+
+ ► 
+
+dicembre
+
+ (41) 
+
+ ► 
+
+novembre
+
+ (36) 
+
+ ► 
+
+ottobre
+
+ (40) 
+
+ ► 
+
+settembre
+
+ (48) 
+
+ ► 
+
+agosto
+
+ (45) 
+
+ ► 
+
+luglio
+
+ (51) 
+
+ ► 
+
+giugno
+
+ (45) 
+
+ ► 
+
+maggio
+
+ (40) 
+
+ ► 
+
+aprile
+
+ (53) 
+
+ ► 
+
+marzo
+
+ (39) 
+
+ ► 
+
+febbraio
+
+ (35) 
+
+ ► 
+
+gennaio
+
+ (54) 
+
+ ► 
+
+2018
+
+ (486) 
+
+ ► 
+
+dicembre
+
+ (42) 
+
+ ► 
+
+novembre
+
+ (42) 
+
+ ► 
+
+ottobre
+
+ (45) 
+
+ ► 
+
+settembre
+
+ (42) 
+
+ ► 
+
+agosto
+
+ (23) 
+
+ ► 
+
+luglio
+
+ (47) 
+
+ ► 
+
+giugno
+
+ (48) 
+
+ ► 
+
+maggio
+
+ (43) 
+
+ ► 
+
+aprile
+
+ (33) 
+
+ ► 
+
+marzo
+
+ (47) 
+
+ ► 
+
+febbraio
+
+ (39) 
+
+ ► 
+
+gennaio
+
+ (35) 
+
+ ► 
+
+2017
+
+ (448) 
+
+ ► 
+
+dicembre
+
+ (34) 
+
+ ► 
+
+novembre
+
+ (42) 
+
+ ► 
+
+ottobre
+
+ (39) 
+
+ ► 
+
+settembre
+
+ (35) 
+
+ ► 
+
+agosto
+
+ (19) 
+
+ ► 
+
+luglio
+
+ (47) 
+
+ ► 
+
+giugno
+
+ (44) 
+
+ ► 
+
+maggio
+
+ (33) 
+
+ ► 
+
+aprile
+
+ (31) 
+
+ ► 
+
+marzo
+
+ (41) 
+
+ ► 
+
+febbraio
+
+ (32) 
+
+ ► 
+
+gennaio
+
+ (51) 
+
+ ► 
+
+2016
+
+ (526) 
+
+ ► 
+
+dicembre
+
+ (46) 
+
+ ► 
+
+novembre
+
+ (35) 
+
+ ► 
+
+ottobre
+
+ (43) 
+
+ ► 
+
+settembre
+
+ (54) 
+
+ ► 
+
+agosto
+
+ (41) 
+
+ ► 
+
+luglio
+
+ (38) 
+
+ ► 
+
+giugno
+
+ (41) 
+
+ ► 
+
+maggio
+
+ (42) 
+
+ ► 
+
+aprile
+
+ (43) 
+
+ ► 
+
+marzo
+
+ (44) 
+
+ ► 
+
+febbraio
+
+ (36) 
+
+ ► 
+
+gennaio
+
+ (63) 
+
+ ► 
+
+2015
+
+ (586) 
+
+ ► 
+
+dicembre
+
+ (48) 
+
+ ► 
+
+novembre
+
+ (46) 
+
+ ► 
+
+ottobre
+
+ (54) 
+
+ ► 
+
+settembre
+
+ (64) 
+
+ ► 
+
+agosto
+
+ (28) 
+
+ ► 
+
+luglio
+
+ (56) 
+
+ ► 
+
+giugno
+
+ (38) 
+
+ ► 
+
+maggio
+
+ (45) 
+
+ ► 
+
+aprile
+
+ (54) 
+
+ ► 
+
+marzo
+
+ (51) 
+
+ ► 
+
+febbraio
+
+ (49) 
+
+ ► 
+
+gennaio
+
+ (53) 
+
+ ► 
+
+2014
+
+ (556) 
+
+ ► 
+
+dicembre
+
+ (46) 
+
+ ► 
+
+novembre
+
+ (47) 
+
+ ► 
+
+ottobre
+
+ (56) 
+
+ ► 
+
+settembre
+
+ (56) 
+
+ ► 
+
+agosto
+
+ (41) 
+
+ ► 
+
+luglio
+
+ (54) 
+
+ ► 
+
+giugno
+
+ (56) 
+
+ ► 
+
+maggio
+
+ (34) 
+
+ ► 
+
+aprile
+
+ (44) 
+
+ ► 
+
+marzo
+
+ (36) 
+
+ ► 
+
+febbraio
+
+ (38) 
+
+ ► 
+
+gennaio
+
+ (48) 
+
+ ► 
+
+2013
+
+ (541) 
+
+ ► 
+
+dicembre
+
+ (55) 
+
+ ► 
+
+novembre
+
+ (59) 
+
+ ► 
+
+ottobre
+
+ (37) 
+
+ ► 
+
+settembre
+
+ (39) 
+
+ ► 
+
+agosto
+
+ (50) 
+
+ ► 
+
+luglio
+
+ (49) 
+
+ ► 
+
+giugno
+
+ (31) 
+
+ ► 
+
+maggio
+
+ (43) 
+
+ ► 
+
+aprile
+
+ (51) 
+
+ ► 
+
+marzo
+
+ (34) 
+
+ ► 
+
+febbraio
+
+ (54) 
+
+ ► 
+
+gennaio
+
+ (39) 
+
+ ► 
+
+2012
+
+ (290) 
+
+ ► 
+
+dicembre
+
+ (25) 
+
+ ► 
+
+novembre
+
+ (22) 
+
+ ► 
+
+ottobre
+
+ (11) 
+
+ ► 
+
+settembre
+
+ (26) 
+
+ ► 
+
+agosto
+
+ (27) 
+
+ ► 
+
+luglio
+
+ (21) 
+
+ ► 
+
+giugno
+
+ (20) 
+
+ ► 
+
+maggio
+
+ (27) 
+
+ ► 
+
+aprile
+
+ (20) 
+
+ ► 
+
+marzo
+
+ (22) 
+
+ ► 
+
+febbraio
+
+ (31) 
+
+ ► 
+
+gennaio
+
+ (38) 
+
+ ► 
+
+2011
+
+ (374) 
+
+ ► 
+
+dicembre
+
+ (22) 
+
+ ► 
+
+novembre
+
+ (32) 
+
+ ► 
+
+ottobre
+
+ (31) 
+
+ ► 
+
+settembre
+
+ (32) 
+
+ ► 
+
+agosto
+
+ (26) 
+
+ ► 
+
+luglio
+
+ (25) 
+
+ ► 
+
+giugno
+
+ (39) 
+
+ ► 
+
+maggio
+
+ (31) 
+
+ ► 
+
+aprile
+
+ (30) 
+
+ ► 
+
+marzo
+
+ (26) 
+
+ ► 
+
+febbraio
+
+ (28) 
+
+ ► 
+
+gennaio
+
+ (52) 
+
+ ► 
+
+2010
+
+ (476) 
+
+ ► 
+
+dicembre
+
+ (24) 
+
+ ► 
+
+novembre
+
+ (36) 
+
+ ► 
+
+ottobre
+
+ (31) 
+
+ ► 
+
+settembre
+
+ (44) 
+
+ ► 
+
+agosto
+
+ (27) 
+
+ ► 
+
+luglio
+
+ (51) 
+
+ ► 
+
+giugno
+
+ (62) 
+
+ ► 
+
+maggio
+
+ (42) 
+
+ ► 
+
+aprile
+
+ (45) 
+
+ ► 
+
+marzo
+
+ (41) 
+
+ ► 
+
+febbraio
+
+ (33) 
+
+ ► 
+
+gennaio
+
+ (40) 
+
+ ► 
+
+2009
+
+ (466) 
+
+ ► 
+
+dicembre
+
+ (40) 
+
+ ► 
+
+novembre
+
+ (37) 
+
+ ► 
+
+ottobre
+
+ (35) 
+
+ ► 
+
+settembre
+
+ (36) 
+
+ ► 
+
+agosto
+
+ (27) 
+
+ ► 
+
+luglio
+
+ (42) 
+
+ ► 
+
+giugno
+
+ (41) 
+
+ ► 
+
+maggio
+
+ (39) 
+
+ ► 
+
+aprile
+
+ (50) 
+
+ ► 
+
+marzo
+
+ (40) 
+
+ ► 
+
+febbraio
+
+ (34) 
+
+ ► 
+
+gennaio
+
+ (45) 
+
+ ► 
+
+2008
+
+ (387) 
+
+ ► 
+
+dicembre
+
+ (34) 
+
+ ► 
+
+novembre
+
+ (47) 
+
+ ► 
+
+ottobre
+
+ (30) 
+
+ ► 
+
+settembre
+
+ (43) 
+
+ ► 
+
+agosto
+
+ (19) 
+
+ ► 
+
+luglio
+
+ (33) 
+
+ ► 
+
+giugno
+
+ (25) 
+
+ ► 
+
+maggio
+
+ (27) 
+
+ ► 
+
+aprile
+
+ (30) 
+
+ ► 
+
+marzo
+
+ (26) 
+
+ ► 
+
+febbraio
+
+ (33) 
+
+ ► 
+
+gennaio
+
+ (40) 
+
+ ► 
+
+2007
+
+ (317) 
+
+ ► 
+
+dicembre
+
+ (18) 
+
+ ► 
+
+novembre
+
+ (29) 
+
+ ► 
+
+ottobre
+
+ (32) 
+
+ ► 
+
+settembre
+
+ (25) 
+
+ ► 
+
+agosto
+
+ (24) 
+
+ ► 
+
+luglio
+
+ (39) 
+
+ ► 
+
+giugno
+
+ (36) 
+
+ ► 
+
+maggio
+
+ (27) 
+
+ ► 
+
+aprile
+
+ (18) 
+
+ ► 
+
+marzo
+
+ (28) 
+
+ ► 
+
+febbraio
+
+ (20) 
+
+ ► 
+
+gennaio
+
+ (21) 
+
+ ► 
+
+2006
+
+ (298) 
+
+ ► 
+
+dicembre
+
+ (14) 
+
+ ► 
+
+novembre
+
+ (24) 
+
+ ► 
+
+ottobre
+
+ (18) 
+
+ ► 
+
+settembre
+
+ (16) 
+
+ ► 
+
+agosto
+
+ (9) 
+
+ ► 
+
+luglio
+
+ (18) 
+
+ ► 
+
+giugno
+
+ (24) 
+
+ ► 
+
+maggio
+
+ (34) 
+
+ ► 
+
+aprile
+
+ (36) 
+
+ ► 
+
+marzo
+
+ (35) 
+
+ ► 
+
+febbraio
+
+ (36) 
+
+ ► 
+
+gennaio
+
+ (34) 
+
+ ► 
+
+2005
+
+ (589) 
+
+ ► 
+
+dicembre
+
+ (18) 
+
+ ► 
+
+novembre
+
+ (7) 
+
+ ► 
+
+ottobre
+
+ (35) 
+
+ ► 
+
+settembre
+
+ (25) 
+
+ ► 
+
+agosto
+
+ (45) 
+
+ ► 
+
+luglio
+
+ (42) 
+
+ ► 
+
+giugno
+
+ (64) 
+
+ ► 
+
+maggio
+
+ (77) 
+
+ ► 
+
+aprile
+
+ (102) 
+
+ ► 
+
+marzo
+
+ (99) 
+
+ ► 
+
+febbraio
+
+ (50) 
+
+ ► 
+
+gennaio
+
+ (25) 
+
+ ► 
+
+2004
+
+ (109) 
+
+ ► 
+
+dicembre
+
+ (3) 
+
+ ► 
+
+novembre
+
+ (7) 
+
+ ► 
+
+ottobre
+
+ (21) 
+
+ ► 
+
+settembre
+
+ (25) 
+
+ ► 
+
+agosto
+
+ (6) 
+
+ ► 
+
+luglio
+
+ (35) 
+
+ ► 
+
+giugno
+
+ (11) 
+
+ ► 
+
+febbraio
+
+ (1) 
+
+ ► 
+
+2003
+
+ (8) 
+
+ ► 
+
+marzo
+
+ (1) 
+
+ ► 
+
+gennaio
+
+ (7) 
+
+Powered by Blogger .

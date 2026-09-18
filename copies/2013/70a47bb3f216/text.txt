@@ -1,0 +1,752 @@
+Publeaks protegge le soffiate dalla Rete 
+
+ Topic 
+
+ Digital economy 
+
+ Software 
+
+ Sicurezza 
+
+ Telecomunicazioni 
+
+ Hardware 
+
+ Tool 
+
+ Download 
+
+ Newsletter 
+
+ Trending 
+
+ Speciale Mini PC 
+
+ Cashback di Stato 
+
+ Università online 
+
+ Smart working 
+
+ Microsoft Teams 
+
+ Corsi 
+
+ VPN, soluzioni business 
+
+ tutti 
+
+ Chi Siamo 
+
+ Contatti 
+
+ Pubblicità 
+
+ Cookie policy 
+
+ Privacy policy 
+
+ Note legali 
+
+ Affiliazioni 
+
+ Chi Siamo 
+
+ Contatti 
+
+ Pubblicità 
+
+ Cookie policy 
+
+ Privacy policy 
+
+ Note legali 
+
+ Affiliazioni 
+
+ Digital economy 
+
+ Software 
+
+ Sicurezza 
+
+ Telecomunicazioni 
+
+ Hardware 
+
+ Pubblicità 
+
+ Publeaks protegge le soffiate dalla Rete
+
+ Per tutelare l'anonimato dei prossimi whistleblower, Publeaks Foundation mette a disposizione una piattaforma basata su Tor per l'invio sicuro di documenti ai media olandesi
+
+ 75 commenti 
+
+ Per tutelare l'anonimato dei prossimi whistleblower, Publeaks Foundation mette a disposizione una piattaforma basata su Tor per l'invio sicuro di documenti ai media olandesi
+
+ Con il supporto dei media olandesi, il progetto Publeaks.nl proteggerà tutti i whistleblower della Rete con una piattaforma Tor per l’invio sicuro di documenti più o meno riservati. Dopo l’esplosione del datagate, i futuri Edward Snowden non resteranno da soli tra le grinfie dei governi, dal momento che la Publeaks Foundation vuole estendere la tutela dei whistleblowers come unica, indistinta massa del Web . 
+
+ Basata sul pacchetto software open source GlobaLeaks – sviluppato dallo Hermes Center for Transparency and Digital Human Rights – l’iniziativa olandese vuole semplicemente supportare le attività di giornalismo investigativo, garantendo allo stesso tempo un elevato livello di sicurezza per tutte le talpe come Snowden o l’ex-militare Bradley Manning . 
+
+ Grazie al network della cipolla – il vero e proprio leak sarà possibile attraverso l’indirizzo https://secure.publeaks.nl , che appunto sfrutta gli strumenti di anonimizzazione offerti da Tor attraverso l’ultima release del software Browser Bundle – il progetto Publeaks farà da intermediario tra gli utenti/attivisti/giornalisti e tutti quei media che hanno deciso di partecipare, da De Groene Amsterdammer a Vrij Nederland . 
+
+ Sempre a livello software, la piattaforma di Publeaks Foundation – in particolare l’indirizzo da raggiungere tramite Browser Bundle – potrà funzionare correttamente solo con l’attivazione di JavaScript , il cui codice era già stato sfruttato dai federali statunitensi per approfittare di una falla nello stesso software di Tor (poi corretta). 
+
+ . @Publeaksnl would be even better if the @GlobaLeaks submission interface can work without JavaScript; don’t forget http://t.co/XoEbHLIDPR ! 
+ – Matthijs R. Koot RCX (@mrkoot) September 9, 2013 
+
+ L’esperto Fabio Pietrosanti ha tuttavia sottolineato come JavaScript risulti fondamentale per l’usabilità dello stesso sistema di sicurezza in favore dei vari whistleblowers . 
+
+ @mrkoot @Publeaksnl @GlobaLeaks Without using JS it would not be possible to provide the usability required for whistleblower sec awareness. 
+ – Fabio Pietrosanti (@fpietrosanti) September 9, 2013 
+
+ Nello specifico , tutti gli spifferoni della Rete potranno selezionare i vari canali di destinazione del proprio materiale, mentre la Publeaks Foundation non potrà in alcun modo visionare in anticipo i documenti rilasciati . Verrà poi istituito un canale di comunicazione con il soggetto leaker , in cui i vari responsabili delle testate giornalistiche potranno porre domande o verificare al meglio le fonti prima di pubblicare alcunché. 
+
+ Ovviamente lo spifferone di turno resterà completamente anonimo, libero di non rispondere ad alcuna domanda posta dai media, che a loro volta potranno unire le forze per una eventuale attività investigativa di più ampio respiro. 
+
+ Mauro Vecchio 
+
+ SecureBoot
+ capito adesso a cosa serve il SecureBoot?capito adesso che i computer con SecureBoot vanno BOICOTTATI senza meno?
+
+ just crack 
+
+ Rispondi 
+
+ Re: SecureBoot
+ Straquoto. L'unico problema è che oggi "il subdolo" si insinua grazie a windows 8. Non resta che tenerci stretti windows 7 o meglio linux.
+
+ Pinco Panco 
+
+ Quote 
+
+ Re: SecureBoot
+ - Scritto da: Pinco Panco> che tenerci stretti windows 7 o meglio> linux.inutile, visto che il tpm è una faccenda hardwarebisogna piuttosto boicottare i vendor americani di apparati tecnologici, comprare sempre di più da vendor che non mettono schifezze nei loro chip
+
+ collione 
+
+ Quote 
+
+ Re: SecureBoot
+ - Scritto da: collione> - Scritto da: Pinco Panco> > > che tenerci stretti windows 7 o meglio> > linux.> > inutile, visto che il tpm è una faccenda hardware> > bisogna piuttosto boicottare i vendor americani> di apparati tecnologici, comprare sempre di più> da vendor che non mettono schifezze nei loro> chipBoicottare senz'altro, ma ha un limite dalla padella alla brace, se non gli americani forse i cinesi, o qualche altro? La questione come la vedo io dovrebbe essere messa in questi termini:- leggi a tutela dei servizi (che appunto hanno il compito di spiare) che ne regoli le forme e i modi dello spionaggio;- usare precauzionalmente software libero;- progettare virus polimorfici che intasino gli spioni (vorrei averne la capacità tecniche e lo farei).Saluti
+
+ pierob 
+
+ Quote 
+
+ Re: SecureBoot
+ - Scritto da: collione> - Scritto da: Pinco Panco> > > che tenerci stretti windows 7 o meglio> > linux.> > inutile, visto che il tpm è una faccenda hardware> > bisogna piuttosto boicottare i vendor americani> di apparati tecnologici, comprare sempre di più> da vendor che non mettono schifezze nei loro> chip :| :|Primo non dimentichiamoci che ad imporre secure boot come standard è stata proprio M$. Se in futuro non si troverà più sul mercato hardware senza schifezze dentro è proprio colpa di M$.Secondo, Windows non si può sapere come funziona al suo interno e quanto si appoggia al TPM, con Linux lo si può rendere inutile.
+
+ qualcuno 
+
+ Quote 
+
+ Re: SecureBoot
+ - Scritto da: Pinco Panco> Straquoto. L'unico problema è che oggi "il> subdolo" si insinua grazie a windows 8. Non resta> che tenerci stretti windows 7 o meglio> linux.Guarda che è dai tempi di windows vista che dicevano "tenete xp, vista ha palladium"!In realtà, anche xp è pieno di drm (l'attivazione da remoto, ad esempio). O installate un sistema libero (non è obbligatorio che sia linux: se volete qualcosa di simile a windows, c'è reactos, ad esempio), oppure sottostate alle condizioni di microsoft.
+
+ cicciobello 
+
+ Quote 
+
+ Si ma a livello hardware...
+ secondo voi Intel Amd ecc. non hanno avuto contatti con NSA?Non è che al loro livello ci mettono molto ad impiantare keylogger segreti.
+
+ AxAx 
+
+ Rispondi 
+
+ Re: Si ma a livello hardware...
+ Se pure esistono, i "keylogger segreti" dell'industria IT (parlo di computer, non di giocattoli mobile) sono tutti nel TPM: reingegnerizzare l'architettura x86 a fini della cyber-insicurezza non è proponibile. Il mio prossimo PC avrà sicuramente moduli TPM e Secure Boot integrati, la prima cosa che farò con il mio prossimo PC sarà disabilitare TPM e Secure Boot in maniera permanente. E formattare Windows 8.
+
+ Alfonso Maruccia 
+
+ Quote 
+
+ Re: Si ma a livello hardware...
+ - Scritto da: Alfonso Maruccia> la prima cosa che farò con il mio> prossimo PC sarà disabilitare TPM e Secure Boot> in maniera permanente. E formattare Windows> 8.Ai miei tempi si formattavano le partizioni, adesso i sistemi operativi...
+
+ vetriolo 
+
+ Quote 
+
+ Re: Si ma a livello hardware...
+ Ai miei tempi i grammar nazi avevano una vita :-P
+
+ Alfonso Maruccia 
+
+ Quote 
+
+ Re: Si ma a livello hardware...
+ - Scritto da: Alfonso Maruccia> Se pure esistono, i "keylogger segreti"> dell'industria IT (parlo di computer, non di> giocattoli mobile) sono tutti nel TPM:> reingegnerizzare l'architettura x86 a fini della> cyber-insicurezza non è proponibile.Eppure mi sa che la realtà ha di gran lunga superato l'immaginazione.Ci sono testimonianze più meno dirette di interventi mirati e selettivi nella progettazione il cui scopo era inserire backdoor o debolezze note solo a chi le faceva inserire. Se googli, vedrai che si parla ad esempio del random number generator nelle cpu Intel/AMD che avrebbe una specie di pattern noto, e qualcuno ha aggiunto che c'è stato nel passato una insolita pressione ad usare solo quella fonte di casualità alla base di algoritmi di crittografia.E' chiaro che non sono keylogger, ma lo scopo finale di tutto ciò è fare in modo che ci siano abbastanza debolezze da rendere possibile scardinare qualsiasi lucchetto crittografico per chi conosce le debolezze stesse ed ha le necessarie risorse.
+
+ bradipao 
+
+ Quote 
+
+ Re: Si ma a livello hardware...
+ - Scritto da: Alfonso Maruccia> Il mio prossimo PC avrà sicuramente moduli TPM e Secure> Boot integrati, il mio no: giusto l'anno scorso ho fatto scorta di componenti privi di queste luride schifezze :-)> la prima cosa che farò con il mio> prossimo PC sarà disabilitare TPM e Secure Boot> in maniera permanente. E formattare Windows 8.sempre che secureboot ti permetta di farlo...la possibilità di disabilitare è prevista cone OPZIONALE nelle specifiche secureboot... e, per esempio, già ora con win + cpu arm il secureboot è "blindato"...
+
+ just crack 
+
+ Quote 
+
+ Re: Si ma a livello hardware...
+ - Scritto da: just crack> - Scritto da: Alfonso Maruccia> sempre che secureboot ti permetta di farlo...> la possibilità di disabilitare è prevista cone> OPZIONALE nelle specifiche secureboot... e, per> esempio, già ora con win + cpu arm il secureboot> è> "blindato"...Le CPU ARM per giocattoli super-blindati, touch e censurati da remoto non mi interessano granché (lo smartphone Windows Phone lo uso per le mail, Internet e poco più), e Secure Boot sarà sempre disabilitabile sui miei sistemi perché i PC me li costruisco io....
+
+ Alfonso Maruccia 
+
+ Quote 
+
+ Re: Si ma a livello hardware...
+ > Il mio> prossimo PC avrà sicuramente moduli TPM e Secure> Boot integrati, la prima cosa che farò con il mio> prossimo PC sarà disabilitare TPM e Secure Boot> in maniera permanente. E formattare Windows> 8.Perchè vorresti cancellarlo? Se non lo vuoi, non comprarlo: fatti fare un assemblato, ed avrai subito il sistema operativo che preferisci, senza bisogno di scardinare quello preinstallato.
+
+ cicciobello 
+
+ Quote 
+
+ Re: Si ma a livello hardware...
+ - Scritto da: Alfonso Maruccia> Se pure esistono, i "keylogger segreti"> dell'industria IT (parlo di computer, non di> giocattoli mobile) sono tutti nel TPM:> reingegnerizzare l'architettura x86 a fini della> cyber-insicurezza non è proponibile. Il mio> prossimo PC avrà sicuramente moduli TPM e Secure> Boot integrati, la prima cosa che farò con il mio> prossimo PC sarà disabilitare TPM e Secure Boot> in maniera permanente. E formattare Windows> 8.Esiste un elenco coi nomi di software house e produttori hardware con cui la NSA avrebbe avuto fattiva collaborazione?grazie ciao
+
+ Gabriele 
+
+ Quote 
+
+ Re: Si ma a livello hardware...
+ - Scritto da: Gabriele> - Scritto da: Alfonso Maruccia> > Se pure esistono, i "keylogger segreti"> > dell'industria IT (parlo di computer, non di> > giocattoli mobile) sono tutti nel TPM:> > reingegnerizzare l'architettura x86 a fini della> > cyber-insicurezza non è proponibile. Il mio> > prossimo PC avrà sicuramente moduli TPM e Secure> > Boot integrati, la prima cosa che farò con il> mio> > prossimo PC sarà disabilitare TPM e Secure Boot> > in maniera permanente. E formattare Windows> > 8.> > > Esiste un elenco coi nomi di software house e> produttori hardware con cui la NSA avrebbe avuto> fattiva> collaborazione?> > grazie ciaoEsiste un elenco della bonta' dei vini in ogni locale scritto personalmente dall'oste.
+
+ krane 
+
+ Quote 
+
+ Re: Si ma a livello hardware...
+ contenuto non disponibile
+
+ unaDuraLezione 
+
+ Quote 
+
+ TPM
+ Qualcuno davvero pensava che il TPM potesse essere di qualche utilita' all'utente comune ? Una black box blindata che ha acXXXXX ai bus del pc ... e di cui le chiavi le ha un terzo ... Puzza di bruciato lontano un km .
+
+ lorenzo 
+
+ Rispondi 
+
+ Re: TPM
+ - Scritto da: lorenzo> Qualcuno davvero pensava che il TPM potesse> essere di qualche utilita'> > all'utente comune ? > Una black box blindata che ha acXXXXX ai bus del> pc ...> > e di cui le chiavi le ha un terzo ... > > Puzza di bruciato lontano un km .Mooolto di più la distanza tra Roma e Redmond non è mica un kilometro eppure la puzza si sente distintamente!
+
+ tucumcari 
+
+ Quote 
+
+ Quante botnet controlla la NSA ?
+ Visti i loro metodi, fra virus ed exploit, ne avrà pur qualcuna, no ?
+
+ buttcheek 
+
+ Rispondi 
+
+ Limiti della conoscenza
+ NSA non è tenuta a rivelare metodi e tecnologie che usa in crittigrafia. Ed è giusto che sia così.
+
+ tonico 
+
+ Rispondi 
+
+ Re: Limiti della conoscenza
+ - Scritto da: tonico> NSA non è tenuta a rivelare metodi e tecnologie> che usa in crittigrafia. Ed è giusto che sia> così.(troll) :-o
+
+ vetriolo 
+
+ Quote 
+
+ Re: Limiti della conoscenza
+ - Scritto da: tonico> NSA non è tenuta a rivelare metodi e tecnologie> che usa in crittigrafia. Ed è giusto che sia> così.Se il buongiorno si vede dal mattino, il tuo primo commento non è un granchè :)
+
+ sbrotfl 
+
+ Quote 
+
+ Illusione
+ Forse vi sfugge che negli USA (patria dei principali algoritmi di criptazione) i suddetti algoritmi vanno dichiarati alle autorità competenti, per legge dello stato federale. Di conseguenza c'è poco da cracckare se si hanno già le chiavi.
+
+ Nemo Nessuno 
+
+ Rispondi 
+
+ Re: Illusione
+ contenuto non disponibile
+
+ unaDuraLezione 
+
+ Quote 
+
+ Domande
+ Un supercomputer da decine di Petaflop quando impiega ha trovare la chiave privata di un sistema criptato con RSA a 1024 usando semplicemente la forza bruta? E se questi tempi sono ragionevolmente brevi (meno di 24ore) non si potrebbero usare chiavi più grandi anche da 16 Kb per esempio? Oppure non sono stati ancora scoperti numeri primi così grandi da poter generare chiavi di queste dimensioni?Altra domanda, quanti numeri primi possono esistere da poter generare una chiave da 1024 o 2048 bit? sono stati tutti scoperti? se si, l'NSA non potrebbe avere un elenco di tutti i numeri primi e del prodotto a due a due fra loro, creato negli ultimi 20 anni, così da avere tutte le relazioni possibili tra chiave pubblica e privata?
+
+ Claudio 
+
+ Rispondi 
+
+ Re: Domande
+ ultima cosa?Attualmente non è ancora strato dimostrato se esiste o meno una regola che disciplina la distribuzione dei numeri primi (la congettura di Riemann). E se l'NSA ne avesse dimostrata l'esistenza e scoperta la formula per scovarli tutti? In questo caso gran parte delle tecnologie di criptazione sono completamente scoperte.
+
+ Claudio 
+
+ Quote 
+
+ Re: Domande
+ - Scritto da: Claudio> ultima cosa?> Attualmente non è ancora strato dimostrato se> esiste o meno una regola che disciplina la> distribuzione dei numeri primi (la congettura di> Riemann). E se l'NSA ne avesse dimostrata> l'esistenza e scoperta la formula per scovarli> tutti? In questo caso gran parte delle tecnologie> di criptazione sono completamente scoperte.la cosa è infatti possibilissima
+
+ just crack 
+
+ Quote 
+
+ Re: Domande
+ contenuto non disponibile
+
+ unaDuraLezione 
+
+ Quote 
+
+ Re: Domande
+ - Scritto da: unaDuraLezione> Impossibile.> Cerca la 'stima di Hadamard', riguarda la> popolazione dei numeri primi nell'intervallo di> naturali da 1 a> N.> Vengono fuori numeri che fanno 'girare la testa'> e rendono impossibile la catalogazione degli> stessi.> Quando vengono gneerati possono essere> considerati unici ed irripetibili ( al netto> delle condizioni di contorno di cui> sopra).> --------------------------------------------------> Modificato dall' autore il 09 settembre 2013 18.55> --------------------------------------------------con le tue info ho fatto 2 conti:per memorizzare su un file di testo l'elenco dei numeri primi rientranti in un range integer senza segno a 1024 bit, sono necessari 10^287 ExaByte
+
+ Claudio 
+
+ Quote 
+
+ Re: Domande
+ - Scritto da: Claudio> con le tue info ho fatto 2 conti:> per memorizzare su un file di testo l'elenco dei> numeri primi rientranti in un range integer senza> segno a 1024 bit, sono necessari 10^287> ExaByteE quindi indirettamente confermi che la 'forza bruta' non è un approccio ragionevole per crakkare qualsiasi algoritmo di criptazione di ultima generazione (cosa, per altro, ben nota).
+
+ MacGeek 
+
+ Quote 
+
+ Re: Domande
+ - Scritto da: Claudio> Un supercomputer da decine di Petaflop quando> impiega ha trovare la chiave privata di un> sistema criptato con RSA a 1024 usando> semplicemente la forza bruta? E se questi tempi> sono ragionevolmente brevi (meno di 24ore) non si> potrebbero usare chiavi più grandi anche da 16 Kb> per esempio? Oppure non sono stati ancora> scoperti numeri primi così grandi da poter> generare chiavi di queste> dimensioni?> Altra domanda, quanti numeri primi possono> esistere da poter generare una chiave da 1024 o> 2048 bit? sono stati tutti scoperti? se si, l'NSA> non potrebbe avere un elenco di tutti i numeri> primi e del prodotto a due a due fra loro, creato> negli ultimi 20 anni, così da avere tutte le> relazioni possibili tra chiave pubblica e> privata?le conoscenze scientifiche e le tecnologie oggi effettivamente disponibili (per es. ai "servizietti" vari) non necessariamente coincidono con ciò che a noi (comuni mortali) è dato conoscere...
+
+ just crack 
+
+ Quote 
+
+ Verità e allarmismi
+ tranquilli perche' se la crittografia e' usata correttamente non c'e' nessun modo di decifrare le mail alle vostre amanti o i video osceni sul vostro hard disk, ci sono dei limiti fisici che non possono essere superati a meno che non costruiscano dei computers fatti di materia oscura che si alimentano di energia oscura, ma quello e' lungi dall'essere possibile.http://everything2.com/title/Thermodynamics+limits+on+cryptanalysis Il problema sono i software proprietari con i sorgenti chiusi e le loro implementazioni volutamente deboli degli standard di cifratura e a volte con delle vulnerabilita' mantenute volutamente per consentire agli spioni di farsi gli affari vostri.Basta usare software free e il problema e' risolto. usando chiavi RSA a 4096b e AES256 e' impossibile craccare la vostra cifratura, a condizione che proteggiate le chiavi private e/o le password siano sufficientemente forti.Buon divertimento con i numeri primi
+
+ grisone 
+
+ Rispondi 
+
+ Re: Verità e allarmismi
+ - Scritto da: grisone> Basta usare software free e il problema e'> risolto. usando chiavi RSA a 4096b e AES256 e'> impossibile craccare la vostra cifraturasolo in un sistema dove puoi controllare pure il firmware e la costruzione di tutti i componenti. ovvero nessuno.l'acXXXXX a tutti i cellulari avviene direttamente ai chip radio, anche i PC posson esser 'aperti' a livello hardware. vedi l OS installato sul chip del hd. nessuno può assicurarti che il tuo compuer (cinese) logghi a livello hw costantemente ciò che digiti, ciò che hai sullo schermo, quello che passa sull usb, e lo renda accessibile all esterno.
+
+ MZorzy 
+
+ Quote 
+
+ Re: Verità e allarmismi
+ Condivido pienamente, non avevo considerato le implicazioni dell'hardware e firmware che ci stanno sotto.Comunque e' un dato di fatto basato sulla 2 legge della termodinamica che non e' fisicamente possibile craccare una cifratura a 256 bit con la forza bruta. Ce lo dicono la matematica dei numeri primi e soprattutto le leggi della termodinamica, che a distanza di 15 miliardi di anni, non sono state ancora infrante.Enigma era meno complessa di un commodore 64, sarebbe come paragonare un registratore di cassa meccanico con un supercomputer.
+
+ grisone 
+
+ Quote 
+
+ l'nsa cattiva cracka tutto (o no?)
+ la Russia si trastulla con i computer quantici ( http://www.rqc.ru/ bel centro ricerche e la Qwave foundation / http://qwcap.com/ ). Lo faranno per il sudoku?ah opps parlavo dell'nsa quindi amerigani.. si anche loro ci giocano, con la DWave per esempio... tra gli amici c'e' la lockheed, la solita In-Q-Tel. E c'e' una bella installazione nasa/google/USRA.edu.La Qwave ha anche una sede in usa... :P
+
+ bubba 
+
+ Rispondi 
+
+ Re: l'nsa cattiva cracka tutto (o no?)
+ - Scritto da: bubba> la Russia si trastulla con i computer quantici (> http://www.rqc.ru/ bel centro ricerche e la Qwave> foundation / http://qwcap.com/ ). Lo faranno per> il sudoku?> > ah opps parlavo dell'nsa quindi amerigani.. si> anche loro ci giocano, con la DWave per> esempio... tra gli amici c'e' la lockheed, la> solita In-Q-Tel. E c'e' una bella installazione> nasa/google/USRA.edu.> > La Qwave ha anche una sede in usa... :PChe gli altri non sono poi tanto meglio si sapeva. Ma chi ha il budget, i mezzi tecnici e le conoscenze per mettere sotto controllo tutto il pianeta sono solo gli americani.Seconto te come hanno fatto a convincere 12 paesi del g20 (Inclusa l'Italia) a firmare un documento che sostiene il loro piano per bombardare la Siria (senza prove)?
+
+ qualcuno 
+
+ Quote 
+
+ Re: l'nsa cattiva cracka tutto (o no?)
+ - Scritto da: qualcuno> - Scritto da: bubba> > la Russia si trastulla con i computer> quantici> (> > http://www.rqc.ru/ bel centro ricerche e la> Qwave> > foundation / http://qwcap.com/ ). Lo faranno> per> > il sudoku?> > > > ah opps parlavo dell'nsa quindi amerigani..> si> > anche loro ci giocano, con la DWave per> > esempio... tra gli amici c'e' la lockheed, la> > solita In-Q-Tel. E c'e' una bella> installazione> > nasa/google/USRA.edu.> > > > La Qwave ha anche una sede in usa... :P> > Che gli altri non sono poi tanto meglio si> sapeva. Ma chi ha il budget, i mezzi tecnici e le> conoscenze per mettere sotto controllo tutto il> pianeta sono solo gli> americani.mhh la federazione russa (che ha kmq doppi agli usa, pur escludendo l'ex-urss), con tutti quei simpatici oligarchi ex-pcus/ddr/kgb, e le -penso- piu ingenti risorse minerarie del mondo ,pesa poco invece?> Seconto te come hanno fatto a convincere 12 paesi> del g20 (Inclusa l'Italia) a firmare un documento> che sostiene il loro piano per bombardare la> Siria (senza> prove)?perche' sono potenti e altri, tipo noi, un po zerbini (e la firmetta non era proprio per bombardare toutcourt cmq)
+
+ bubba 
+
+ Quote 
+
+ Re: l'nsa cattiva cracka tutto (o no?)
+ - Scritto da: qualcuno> Seconto te come hanno fatto a convincere 12 paesi> del g20 (Inclusa l'Italia) a firmare un documento> che sostiene il loro piano per bombardare la> Siria (senza> prove)?in verità non è proprio cosìi media ci stanno propinando che il documento in questione chiede l'attacco alla Siria, in realtà è una generica condanna contro l'uso delle armi chimiche ( dentro nemmeno viene citato Assad )ovviamente i vari media al soldo della News Corp. stanno pompando come matti per farci credere che tutti la pensano come i 'mmerricaniin realtà, questa partita l'hanno proprio persa
+
+ collione 
+
+ Quote 
+
+ domanda sulle premesse
+ l'omino di Errata security per fare le sue elocubrazioni su "tor crackato in poche ore", parte dal seguente assunto, buttato li' come acqua fresca."Assuming no "breakthroughs", the NSA can spend $1 billion on custom chips that can break such a key in a few hours. We know the NSA builds custom chips, they've got fairly public deals with IBM foundries to build chips.">Un miliardo di dollari in custom chip, che potrebbero crackare una chiave in poche ore 
+
+ bubba 
+
+ Rispondi 
+
+ Re: domanda sulle premesse
+ credi alla stampa? stanno sparando XXXXXte a iosa, da quando è cominciata questa storiaper gli algoritmi di crittogafia simmetrica, si parla di una riduzione della complessità pari alla radice quadrata ( capirai che vantaggio, invece di dover fare 2^256 calcoli, ne facciamo "solo" 2^128 )
+
+ collione 
+
+ Quote 
+
+ Re: domanda sulle premesse
+ p.s. la storia della radice quadrata, è relativa all'uso di computer quantistici ( cosa ancora da dimostrare )
+
+ collione 
+
+ Quote 
+
+ Allarmismo
+ Qualcuno pensa che tutto questo sia allarmismo? Facciamo un po' di allarmismo vero:Snowden non solo ci ha rivelato tante cose, ma ha anche dimostrato che una enorme quantità di dati sensibili è accessibile da migliaia di persone con scarsi controlli. Per uno Snowden che decide di fare l'eroe quanti ce ne sono pronti a vendersi i dati su cui mettono le mani?E qui non si parla solo di dati personali. Se davvero la NSA può craccare gran perte delle comunicazioni ssl grandi quantità di preziosi dati aziendali potrebbro finire nelle mani sbagliate. Anzi togliamo il condizionale. Tanto con migliaia di persone coinvolte e la tentazione così forte qualcuno non c'è neanche bisogno di scomodare la statistica più avanzata per avere la (quasi) certezza.Sarebbe il caso di far notare alle aziende che cosa rischiano e quanto rischieranno quando si porteranno in casa pure il TPM.Forse è la volta buona che le aziende stesse si decidono a sostenere l'hardware libero.
+
+ qualcuno 
+
+ Rispondi 
+
+ Re: Allarmismo
+ - Scritto da: qualcuno> grandi quantità di preziosi> dati aziendali potrebbro finire nelle mani> sbagliate. Anzi togliamo il condizionale. Tantomhm, ma le mani degli USA SONO quelle sbagliate :D> con migliaia di persone coinvolte e la tentazione> così forte qualcuno non c'è neanche bisogno di> scomodare la statistica più avanzata per avere la> (quasi)> certezza.> ne sanno qualcosa le aziende europee di tecnologie ( tutte stranamente fallite, a vantaggio dei brocchi della Intel )> Sarebbe il caso di far notare alle aziende che> cosa rischiano e quanto rischieranno quando si> porteranno in casa pure il> TPM.se avessero manager intelligenti, si potrebbe tentare, ma allo stato attuale è impossibile farglielo capire> Forse è la volta buona che le aziende stesse si> decidono a sostenere l'hardware> libero.stessa risposta di sopra
+
+ collione 
+
+ Quote 
+
+ Particolare aggiuntivo
+ Una volta ho lavorato ad un progetto di una azienda che stava integrando alcuni servizi con i servizi M$. Questa azienda aveva come standard di sicurezza ssl, M$ invece insisteva per usare ws-trust. Visto che far cambiare i settaggi dei firewall era impossibile abbiamo finito per implementare tutti e due i sistemi. Ho fatto un sacco di battute sulla doppia cifratura dei dati che mi sembrava ridondante. Ma adesso ci sto ripensando. Forse M$ aveva ragione a non fidarsi di ssl. Magari sanno più di quanto vogliono farci credere.
+
+ qualcuno 
+
+ Rispondi 
+
+ Re: Particolare aggiuntivo
+ - Scritto da: qualcuno> Forse M$ aveva ragione a non fidarsi> di ssl. Magari sanno più di quanto vogliono farci> credere.O magaria aveva la direttiva di spingere su ws-trust
+
+ Teo_ 
+
+ Quote 
+
+ E' che ce vò....
+ E che ce vò. All'NSA no je serve mica il supercomputer...No, loro usano direttamente i certificati originali gentilmente forniti dal 90% della CA mondiali (forse non hanno quelli delle CA Russe, Cinesi e Nord-Coreane..Forse..). Per il software non serve niente di particolare, sono funzionalità (quella di ispezione del contenuto HTTPS) presenti in tutti i firewall decenti, pensate che lo fa pure ISAServer di Microsoft dalla versione 2000....
+
+ Billo Gatesso e Linusso Torvaldis 
+
+ Rispondi 
+
+ Re: E' che ce vò....
+ - Scritto da: Billo Gatesso e Linusso Torvaldis> E che ce vò. All'NSA no je serve mica il> supercomputer...No, loro usano direttamente i> certificati originali gentilmente forniti dal 90%> della CA mondiali (forse non hanno quelli delle> CA Russe, Cinesi e Nord-Coreane..Forse..). ... se non hanno quelle ,allora sono meno del 90% ... hanno anche tutte quelle tedesche, turche, ungheresi ecc?> software non serve niente di particolare, sono> funzionalità (quella di ispezione del contenuto> HTTPS) presenti in tutti i firewall decenti,> pensate che lo fa pure ISAServer di Microsoft> dalla versione> 2000....se puoi fare del mitm o del transparent proxy, CON una chiave in mano ..non e' un problema...
+
+ bubba 
+
+ Quote 
+
+ Re: E' che ce vò....
+ Enfatti quello fanno.
+
+ Billo Gatesso e Linusso Torvaldis 
+
+ Quote 
+
+ benvenuti
+ a una nuova puntata di cazzenger?
+
+ warning 
+
+ Rispondi 
+
+ Re: benvenuti
+ - Scritto da: warning> a una nuova puntata di cazzenger? esigo che il tuo commento venga eliminato da questo continuum temporale per le volgarità immonde che contiene! :@
+
+ fermaglio 
+
+ Quote 
+
+ Sembra che...
+ Sembra che serie televisive come NCSI abbiamo visto bene nell'interpretare il ruolo dei servizi segreti americani...Whatapps sta ai servizi segreti americani come Wechat sta a quelli cinesi... è molto probabile che vengano sovvenzionati dai servizi segreti...Servizi come Facebook o Google o altri... di solito domandano il proprio numero telefonico con la scusa di poter recuperare in caso di dimenticanza la password... cosa che in realtà non servirebbe, ci sono altri 1000 modi possibili per fare ciò... è solo una scusa per avere più informazioni possibili di ogni singola persona...Insomma l'unico modo per non essere intercettati è non avere nessun collegamento o dispositivo elettrico o elettronico :-)Ciao-----------------------------------------------------------Modificato dall' autore il 10 settembre 2013 10.01-----------------------------------------------------------
+
+ dpluca 
+
+ Rispondi 
+
+ Re: Sembra che...
+ - Scritto da: dpluca> Sembra che serie televisive come NCSI abbiamoveramente sarebbe NCIS, che porcheria :> visto bene nell'interpretare il ruolo dei servizi> segreti> americani...> Whatapps sta ai servizi segreti americani come> Wechat sta a quelli cinesi... è molto probabile> che vengano sovvenzionati dai servizi> segreti...> Servizi come Facebook o Google o altri... di> solito domandano il proprio numero telefonico con> la scusa di poter recuperare in caso di> dimenticanza la password... cosa che in realtà> non servirebbe, ci sono altri 1000 modi possibili> per fare ciò... è solo una scusa per avere più> informazioni possibili di ogni singola> persona...> Insomma l'unico modo per non essere intercettati> è non avere nessun collegamento o dispositivo> elettrico o elettronico> :-)> Ciao> --------------------------------------------------> Modificato dall' autore il 10 settembre 2013 10.01> --------------------------------------------------
+
+ fermaglio 
+
+ Quote 
+
+ Ma ricordate Enigma?
+ Ho letto i vari commenti, ma mi sembra che nessuno ricordi Enigma.Oltre 80 anni fa qualcuno (i tedeschi per la precisione) pensò di aver inventato la macchina codificatrice indecifrabile. E persero la guerra!Furono coinvolte oltre diecimila persone a Bletchely Park che lavoravano giorno e notte per decodificare i messaggi tedeschi, e ad avevano solo macchine calcolatrici elettromeccaniche. Ripeto "elettromeccaniche".E qualcuno immagina che oggi, con la tecnologia che abbiamo oggi, i messaggi di Napolitano (tanto per fare un esempio), opportunamente criptati, ma mandati per via elettronica, siano al sicuro. Ma non scherziamo.Tutti i servizi segreti del mondo spiano tutto e non c'è modo di fermarli, perché i soldi e gli interessi in gioco sono troppo grandi.
+
+ elio2002 
+
+ Rispondi 
+
+ Re: Ma ricordate Enigma?
+ > Oltre 80 anni fa qualcuno (i tedeschi per la> precisione) pensò di aver inventato la macchina> codificatrice indecifrabile. Non so dove tu abbia letto che la consideravano indecifrabile. La prima Enigma (o una delle prime, ora non ricordo tutta la cronologia) venne decrittata dai polacchi. Di macchine Enigma ne furono costruiti diversi modelli, la M4, la Enigma G... il che sta a dimostrare che nemmeno loro erano così sicuri dell'inviolabilità.> E persero la> guerra!> Furono coinvolte oltre diecimila persone a> Bletchely Park che lavoravano giorno e notte per> decodificare i messaggi tedeschi, e ad avevano> solo macchine calcolatrici elettromeccaniche.Dimentichi di dire che anche le varie macchine Enigma erano elettromeccaniche. Si combatteva ad armi pari. Esiste un limite alla decrittazione che con la scienza c'entra poco: il tempo utile. Riuscire ad ottenere il messaggio cifrato a distanza di anni, quando al 99,9 % non serve più, è un sucXXXXX puramente simbolico.
+
+ Roberto Ferri 
+
+ Quote 
+
+ Re: Ma ricordate Enigma?
+ Per puntualizzare:il codice Enigna era un vero rompicapo per gli alleati tanto che Churchill diede forti risorse ai servizi inglesi per decifrarlo (si era in disparità: i tedeschi decifravano - magari con un pò di tempo - i messaggi degli alleati e questi non dei tedeschi).Poi qualcuno leggendo i messaggi cifrati venne in mente ... che l'elemento più debole era appunto quello umano.Ad esempio si aspettarono che tutti i messaggi terminassero con "Heil Hitler" e altre analogie relative a festività (naziste o nazionali), etc. che dovevano essere in punti precisi dei messaggi.Et voilà ....---> Enigma decifrato.Anche oggi con gli attuali messaggi elettronici e crittografia varia non cambia molto: tutti gli esperti di security diranno che l'elemento più debole e quello che consente nel 95% dei casi di scardinare è quello umano.
+
+ BSD_like 
+
+ Quote 
+
+ Re: Ma ricordate Enigma?
+ già, molti dimenticano, troppo spesso, che per decifrare un messaggio, occorre avere almeno un pezzo d'informazione in chiaro ( che siano header del tal programma o Heil Hitler, non cambia granchè )
+
+ collione 
+
+ Quote 
+
+ Re: Ma ricordate Enigma?
+ Le mie considerazioni miravano solo a dire che se 80 anni fa, con le limitate risorse tecnologiche, avendone bisongo, gli alleati decodificarono quella che i tedeschi giudicavano indecifrabile, tanto è vero che continuarono ad usarla per tutta la guerra (solo forse per la battaglia delle Ardenne ebbero qualche dubbio), oggi, con la tecnologia moderna, è solo illusorio pensare che servizi segreti di mezzo mondo non stiano decifrando tutto il decifrabile (e non ce lo racconteranno mai). A prescindere dalle convenzioni e dagli accordi ufficiali, sono convinto che servizi segreti americani, russi, indiani, iraniani (italiani no perché non hanno soldi) e via dicendo continueranno a cercare di decifrare tutto quello che si può decifrare.Dobbiamo farcene una ragione. Tutto qua.
+
+ elio2002 
+
+ Quote 
+
+ Re: Ma ricordate Enigma?
+ È sbagliata la premessa: i tedeschi non consideravano inviolabile il loro codice, come gli inglesi non consideravano inviolabile il proprio. E infatti lo cambiarono più volte. La questione delle limitate risorse tecnologiche è poi fuori luogo: era in corso una guerra all'ultima goccia di sangue, e sapere le mosse del nemico in anticipo era questione di vita o di morte. Un ministero in tempo di pace non acconsentirebbe mai a stanziare i soldi e il personale tecnico che vennero stanziati allora per decrittazioni selvagge.
+
+ Roberto Ferri 
+
+ Quote 
+
+ Re: Ma ricordate Enigma?
+ - Scritto da: Roberto Ferri> > Oltre 80 anni fa qualcuno (i tedeschi per la> > precisione) pensò di aver inventato la> macchina> > codificatrice indecifrabile. > > Non so dove tu abbia letto che la consideravano> indecifrabile. La prima Enigma (o una delle> prime, ora non ricordo tutta la cronologia) venne> decrittata dai polacchi. Di macchine Enigma ne> furono costruiti diversi modelli, la M4, la> Enigma G... il che sta a dimostrare che nemmeno> loro erano così sicuri> dell'inviolabilità.il principio matematico sottostante la macchina enigma era ritenuto inviolabile on la macchina stessa; da qui i modelli diversi che ne furono fatti. Gli inglesi invece dimostrarono che l'algoritmo era aggirabile.> > > > E persero la> > guerra!> > Furono coinvolte oltre diecimila persone a> > Bletchely Park che lavoravano giorno e notte> per> > decodificare i messaggi tedeschi, e ad> avevano> > solo macchine calcolatrici elettromeccaniche.> > Dimentichi di dire che anche le varie macchine> Enigma erano elettromeccaniche. Si combatteva ad> armi pari.> > > Esiste un limite alla decrittazione che con la> scienza c'entra poco: il tempo utile. Riuscire ad> ottenere il messaggio cifrato a distanza di anni,> quando al 99,9 % non serve più, è un sucXXXXX> puramente> simbolico.
+
+ nome 
+
+ Quote 
+
+ Re: Ma ricordate Enigma?
+ - Scritto da: elio2002> Ho letto i vari commenti, ma mi sembra che> nessuno ricordi> Enigma.> Oltre 80 anni fa qualcuno (i tedeschi per la> precisione) pensò di aver inventato la macchina> codificatrice indecifrabile. E persero la> guerra!> Furono coinvolte oltre diecimila persone a> Bletchely Park che lavoravano giorno e notte per> decodificare i messaggi tedeschi, e ad avevano> solo macchine calcolatrici elettromeccaniche.> Ripeto> "elettromeccaniche".Molto bello anche il libro di Robert Harris ("Enigma", appunto), se ti capita.Esiste anche un film basato su quel libro (non so se è tradotto in italiano, però).Però sbagli sulle calcolatrici meccaniche. A Bletchely Park crearono il primo vero e proprio calcolatore elettronico, il Colossus. http://it.wikipedia.org/wiki/ColossusSegretissimo fino a non tanti anni fa, e che fu il blueprint per uno dei primissimi calcolatori elettronici (una volta ritenuto il primo): l'ENIAC.
+
+ MacGeek 
+
+ Quote 
+
+ Re: Ma ricordate Enigma?
+ - Scritto da: MacGeek>e che fu il blueprint per uno dei primissimi calcolatori> elettronici (una volta ritenuto il primo):> l'ENIAC.E poi arrivarono i bleescreen di Microsoft architettura x86 :D
+
+ swiss 
+
+ Quote 
+
+ Re: Ma ricordate Enigma?
+ > Però sbagli sulle calcolatrici meccaniche. A> Bletchely Park crearono il primo vero e proprio> calcolatore elettronico, il Colossus.> http://it.wikipedia.org/wiki/ColossusPerò il primo Colossus, il Mark 1, entrò in funzione solo nel 1944. Il lavoro di decrittazione andava avanti con le macchine elettromeccaniche già da 5 anni. > Segretissimo fino a non tanti anni fa, e che fu> il blueprint per uno dei primissimi calcolatori> elettronici (una volta ritenuto il primo):> l'ENIAC.Io veramente so che l'ENIAC è parzialmente copiato dall'ABC (AtanasoffBerry Computer), e che l'ABC (americano) venne sviluppato indipendentemente dal Colossus (britannico).
+
+ Roberto Ferri 
+
+ Quote 
+
+ Re: Ma ricordate Enigma?
+ - Scritto da: Roberto Ferri> > Però sbagli sulle calcolatrici meccaniche. A> > Bletchely Park crearono il primo vero e> proprio> > calcolatore elettronico, il Colossus.> > http://it.wikipedia.org/wiki/Colossus> > Però il primo Colossus, il Mark 1, entrò in> funzione solo nel 1944. Il lavoro di> decrittazione andava avanti con le macchine> elettromeccaniche già da 5 anni.Non saprei dire i tempi esatti, ma la svolta c'è stata in realtà quando gli inglesi sono riusciti ad impossessarsi di una macchina enigma completa di codici in uso da un sommergibile catturato. Grazie a questa hanno iniziato a decriptare le comunicazioni naziste con più sucXXXXX (il problema era anche la velocità richiesta nel decifrare i messaggi e in quello, credo, il Colossus sia stato fondamentale). E grazie anche al sonar, che nel frattempo avevano inventato, sono riusciti ad invertire il rapporto di forza tra i sommergibili e il passaggio di navi cargo, in pratica permettendo l'approvvigionamento di armi e rifornimenti all'Inghilterra che gli ha poi permesso di vincere la guerra sul campo.> Io veramente so che l'ENIAC è parzialmente> copiato dall'ABC (AtanasoffBerry Computer), e> che l'ABC (americano) venne sviluppato> indipendentemente dal Colossus> (britannico).Boh, io sapevo che c'era un collegamento tra i due. C'erano anche americani a Bletchely Park e il mitico Von Neumann (un genio al pari di Fermi e Einstein) si trasferì in USA dove diede una grossa mano anche allo sviluppo dell'atomica.
+
+ MacGeek 
+
+ Quote 
+
+ La crittografia perfetta esiste
+ La crittografia inviolabile è possibile, e non è nemmeno difficile da implementare.Immaginiamo un semplice sistema di cifratura tramite password (ogni byte dei dati da cifrare viene modificato in base ad un byte della password: per effettuare l'operazione inversa, bisogna conoscere il byte della password).Ora, è possibile scoprire la password per pura forza bruta: si decifrano i dati con password a caso, finchè non viene fuori qualcosa di coerente.Come impedirlo? Semplice: basta che la password sia più lunga e complessa del contenuto da proteggere. In tal modo, è vero che è ancora possibile l'attacco a forza bruta... ma le probabilità che tale sistema scopra la password sono uguali (o addirittura inferiori) alla probabilità che, per puro caso, l'algoritmo indovini esattamente il messaggio originale.Immaginate che ad una domanda (la cui risposta può essere solo sì o no), qualuno risponda usando un cifrario numerico (a numero uguale corrisponde lettera uguale). La risposta è 42. A forza bruta, cosa risolvi? Se 4 corrisponde a s, e 2 a i, la risposta è sì... ma se il 4 corrispondesse a n e il 2 a o? Entrambi i codici forniscono risposte sensate... ma sono inutili (che la risposta potesse essere sì o no lo sapevo già prima)Il limite di tale sistema è: come trasmettere la password? Non è facile, perchè sarebbe più lunga del messaggio da inviare.
+
+ cicciobello 
+
+ Rispondi 
+
+ Re: La crittografia perfetta esiste
+ - Scritto da: cicciobello> La risposta è 42Poteva forse essere unaltra?
+
+ Teo_ 
+
+ Quote 
+
+ Re: La crittografia perfetta esiste
+ usare una password grande quanto il contenuto da criptare? e se devo criptare un video da 2 giga? non fai prima ad usare aes con chiave a 256 o 512 bit? chiave più piccola, sicurezza garantita
+
+ collione 
+
+ Quote 
+
+ Re: La crittografia perfetta esiste
+ - Scritto da: collione> usare una password grande quanto il contenuto da> criptare? e se devo criptare un video da 2 giga?> > > non fai prima ad usare aes con chiave a 256 o 512> bit? chiave più piccola, sicurezza> garantita256 bit sono abbastanza anche per l'NSA. Il problema è dove/come tieni e trasmetti la chiave.Penso sia lì il punto debole di tutto.
+
+ MacGeek 
+
+ Quote 
+
+ Re: La crittografia perfetta esiste
+ ma infatti il problema è il modello basato su rsa
+
+ collione 
+
+ Quote 
+
+ Re: La crittografia perfetta esiste
+ - Scritto da: cicciobello> La crittografia inviolabile è possibile, e non è> nemmeno difficile da> implementare.> > Immaginiamo un semplice sistema di cifratura> tramite password (ogni byte dei dati da cifrare> viene modificato in base ad un byte della> password: per effettuare l'operazione inversa,> bisogna conoscere il byte della> password).> > Ora, è possibile scoprire la password per pura> forza bruta: si decifrano i dati con password a> caso, finchè non viene fuori qualcosa di> coerente.> > Come impedirlo? Semplice: basta che la password> sia più lunga e complessa del contenuto da> proteggere. In tal modo, è vero che è ancora> possibile l'attacco a forza bruta... ma le> probabilità che tale sistema scopra la password> sono uguali (o addirittura inferiori) alla> probabilità che, per puro caso, l'algoritmo> indovini esattamente il messaggio> originale.> [...]http://en.wikipedia.org/wiki/One-time_pad> Il limite di tale sistema è: come trasmettere la> password? Non è facile, perchè sarebbe più lunga> del messaggio da> inviare.Non solo; la chiave (o password) deve essere realmente random altrimenti, se si riesce a decifrare una parte del messaggio, potrebbe diventare facile decriptare anche tutto il resto..
+
+ pignolo 
+
+ Quote 
+
+ Re: La crittografia perfetta esiste
+ Penso che cicciobello facesse riferimento al Vernam (se ho capito bene), a chi fosse interessato:http://it.wikipedia.org/wiki/Cifrario_di_VernamUn saluto.
+
+ hehe 
+
+ Quote 
+
+ Backup gratis
+ Guardare l'aspetto positivo: praticamente l'NSA ha il backup di tutti i nostri dati importanti. Se accidentalmente si cancellano, gli si può sempre chiedere una copia!È un servizio utile! :|(è sucXXXXX davvero giorni fa un tipo ha chiesto all'NSA se gli recuperava le sue email accidentalmente cancellate. Ahaha!)
+
+ MacGeek 
+
+ Rispondi 
+
+ Re: Backup gratis
+ - Scritto da: MacGeek> Guardare l'aspetto positivo: praticamente l'NSA> ha il backup di tutti i nostri dati importanti.> Se accidentalmente si cancellano, gli si può> sempre chiedere una> copia!> È un servizio utile! :|> > (è sucXXXXX davvero giorni fa un tipo ha chiesto> all'NSA se gli recuperava le sue email> accidentalmente cancellate.> Ahaha!)l'ho visto e faceva pena :S
+
+ ezzente 
+
+ Quote 
+
+ Re: Backup gratis
+ Proviamo tutti a chiedere indietro i nostri dati...
+
+ Francesco Porta 
+
+ Quote 
+
+ La Terra dei ciechi
+ penso che questo post: http://www.anticorpi.info/2013/09/la-terra-dei-ciechi.htmlpossa aiutare i ciechi, che non sanno che sono ciechi solo perchè hanno gli occhi chiusi...
+
+ Marisa 
+
+ Rispondi 
+
+ Annulla 
+
+ Stai citando questo messaggio: 
+
+ * 
+
+ * 
+
+ La tua email sarà utilizzata per comunicarti se qualcuno risponde al tuo commento e non sarà pubblicata. 
+ Dichiari di avere preso visione e di accettare quanto previsto dalla informativa privacy . 
+
+ Pubblicando questo commento dai il consenso affinché un cookie salvi i tuoi dati (nome, email, sito web) per il prossimo commento.
+
+ Iscrivimi alla newsletter gratuita di Punto Informatico 
+ Tutte le mattine direttamente nella tua casella email tutte le novità del mondo digitale e tech 
+
+ Ho letto e acconsento l' informativa sulla privacy
+
+ Acconsento all'uso dei miei dati da parte di terzi per finalità di marketing diretto con modalità automatizzate o tradizionali
+
+ Conferma e pubblica 
+
+ Grazie, il tuo commento è in fase di approvazione
+
+ Grazie, il tuo commento è stato pubblicato
+
+ Commento non inviato
+
+ Grazie per esserti iscritto alla nostra newsletter
+
+ Oops, la registrazione alla newsletter non è andata a buon fine. Riprova.
+
+ Leggi gli altri commenti 
+
+ Mauro Vecchio 
+
+ 09 09 2013 
+
+ Link copiato negli appunti
+
+ Ti potrebbe interessare
+
+ Smarter Italy: identificati i 12 Borghi del futuro
+
+ Fotografa Venezia dal satellite, grazie a Canon
+
+ 20 anni di Wikipedia: chi l'avrebbe detto, 20 anni fa?
+
+ Alexa Custom Assistant nelle automobili di FCA
+
+ Smarter Italy: identificati i 12 Borghi del futuro
+
+ Fotografa Venezia dal satellite, grazie a Canon
+
+ 20 anni di Wikipedia: chi l'avrebbe detto, 20 anni fa?
+
+ Alexa Custom Assistant nelle automobili di FCA
+
+ Mauro Vecchio 
+
+ 09 09 2013
+
+ 75 
+
+ Link copiato negli appunti
+
+ Prima di andare
+
+ Lascia la tua email per ricevere le ultime notizie di Punto Informatico. E' gratis e puoi cancellarti in qualsiasi momento: 
+
+ iscriviti 
+
+ sì 
+
+ no 
+
+ Acconsento all'uso dei miei dati da parte di terzi per finalità di marketing diretto 
+
+ sì 
+
+ no 
+
+ Ho letto e acconsento l' informativa sulla privacy 
+
+ Sono già iscritto, non mostrare più questo messaggio 
+
+ Cashback di Stato 
+ Speciale Mini PC 
+ Google Chrome 
+ Amazon Alexa 
+ SPID 
+
+ Microsoft Teams 
+ Microsoft 365 
+ Smart working 
+ Windows 10 
+ Zoom 
+
+ Miglior carta prepagata 
+ Miglior offerta ADSL e Fibra 
+ Miglior offerta luce 
+ Microsoft Surface 
+ VPN, soluzione per il business 
+
+ Chi Siamo 
+
+ Contatti 
+
+ Pubblicità 
+
+ Cookie policy 
+
+ Privacy policy 
+
+ Note legali 
+
+ Affiliazioni 
+
+ © 2021 BlazeMedia srl - P.Iva 14742231005

@@ -1,0 +1,38 @@
+Prevent CRIME attack on TLS by disabling compression
+https://github.com/tor2web/Tor2web/issues/120
+opened 2013-09-10T07:39:06Z by fpietrosanti · state closed
+
+From Tor2web mailing list, by Tom Ritter.
+
+CRIME exploits compression, not a particular cipher.  Somewhere in [0]
+you need to disable compression.  The relevant option for OpenSSL is
+SSL_OP_NO_COMPRESSION.  In theory you'd add
+ctx.set_options(SSL.SSL_OP_NO_COMPRESSION), but in practice, pyOpenSSL
+may not define that option.
+
+-tom
+
+[0] https://github.com/globaleaks/Tor2web-3.0/blob/master/tor2web/utils/ssl.py#L60
+
+
+--- 2013-09-10T09:26:57Z evilaliv3
+i did disabled compression in past using the NO_COMPRESSION option trying to fix the memory leak that continue to exist in pyOpenSSL implementation, but i've re-enabled it after fixing the leak with the multi-process implementation.
+
+https://github.com/globaleaks/Tor2web-3.0/commit/e42cea60614af97efd010c3bfba96bc8dc4562f5
+
+i'm going re-disable it by re-adding:
+
+```
++        # http://en.wikipedia.org/wiki/CRIME_(security_exploit)
++        # https://twistedmatrix.com/trac/ticket/5487
++        # SSL_OP_NO_COMPRESSION = 0x00020000L
++        ctx.set_options(0x00020000)
+```
+
+
+--- 2013-09-19T10:20:44Z evilaliv3
+implemented (https://github.com/globaleaks/Tor2web-3.0/commit/b7d22af76d2785759d1760a9892a86d3b984a3fd) and already merged and packaged
+
+
+--- 2013-09-19T10:32:34Z fpietrosanti
+Maybe we should write on the Tor2web wiki, which are _all_ the TLS security features that we do apply

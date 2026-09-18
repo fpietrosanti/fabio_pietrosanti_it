@@ -1,0 +1,406 @@
+GitHub - fpietrosanti/secassure2026: Email Provider Dependencies and Email Security in Municipalities Across Germany, Austria, and Switzerland · GitHub 
+
+ Skip to content 
+
+ Navigation Menu
+
+ Sign in Appearance settings
+
+ Platform AI CODE CREATION GitHub Copilot Write better code with AI 
+ GitHub Copilot app Direct agents from issue to merge 
+ MCP Registry Integrate external tools 
+
+ DEVELOPER WORKFLOWS Actions Automate any workflow 
+ Codespaces Instant dev environments 
+ Issues Plan and track work 
+ Code Review Manage code changes 
+ Code Quality Enforce quality at merge 
+
+ APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities 
+ Code security Secure your code as you build 
+ Secret protection Stop leaks before they start 
+
+ EXPLORE Why GitHub 
+ Documentation 
+ Blog 
+ Changelog 
+ Marketplace 
+
+ View all features 
+
+ Solutions BY COMPANY SIZE Enterprises 
+ Small and medium teams 
+ Startups 
+ Nonprofits 
+
+ BY USE CASE App Modernization 
+ DevSecOps 
+ DevOps 
+ CI/CD 
+ View all use cases 
+
+ BY INDUSTRY Healthcare 
+ Financial services 
+ Manufacturing 
+ Government 
+ View all industries 
+
+ View all solutions 
+
+ Resources EXPLORE BY TOPIC AI 
+ Software Development 
+ DevOps 
+ Security 
+ View all topics 
+
+ EXPLORE BY TYPE Customer stories 
+ Events & webinars 
+ Ebooks & reports 
+ Business insights 
+ GitHub Skills 
+
+ SUPPORT & SERVICES Documentation 
+ Customer support 
+ Community forum 
+ Trust center 
+ Partners 
+
+ View all resources 
+
+ Open Source COMMUNITY GitHub Sponsors Fund open source developers 
+
+ PROGRAMS Security Lab 
+ Maintainer Community 
+ GitHub Stars 
+ Archive Program 
+
+ REPOSITORIES Topics 
+ Trending 
+ Collections 
+
+ Enterprise ENTERPRISE SOLUTIONS Enterprise platform AI-powered developer platform 
+
+ AVAILABLE ADD-ONS GitHub Advanced Security Enterprise-grade security features 
+ Copilot for Business Enterprise-grade AI features 
+ Premium Support Enterprise-grade 24/7 support 
+
+ Pricing 
+ Search / 
+
+ Sign in 
+ Sign up Appearance settings
+
+ You signed in with another tab or window. Reload to refresh your session. 
+ You signed out in another tab or window. Reload to refresh your session. 
+ You switched accounts on another tab or window. Reload to refresh your session. 
+
+ Dismiss alert 
+
+ {{ message }}
+
+ fpietrosanti
+
+ / 
+
+ secassure2026 
+
+ Public 
+
+ forked from mxmap/secassure2026 
+
+ Notifications
+ You must be signed in to change notification settings 
+
+ Fork
+ 0 
+
+ Star
+ 0 
+
+ Code 
+
+ Pull requests 
+ 0 
+
+ Actions 
+
+ Projects 
+
+ Security and quality 
+ 0 
+
+ Insights 
+
+ Additional navigation options 
+
+ Code
+
+ Pull requests
+
+ Actions
+
+ Projects
+
+ Security and quality
+
+ Insights
+
+ main 
+
+ Branches Tags 
+
+ Go to file 
+
+ Code Open more actions menu 
+
+ Latest commit
+
+ History
+ 8 Commits 
+ 8 Commits 
+
+ Folders and files
+ Name Name Last commit message 
+ Last commit date 
+
+ .github/ workflows 
+
+ .github/ workflows 
+
+ .idea 
+
+ .idea 
+
+ css 
+
+ css 
+
+ data 
+
+ data 
+
+ favicon 
+
+ favicon 
+
+ js 
+
+ js 
+
+ output 
+
+ output 
+
+ scripts 
+
+ scripts 
+
+ src 
+
+ src 
+
+ tests 
+
+ tests 
+
+ topo 
+
+ topo 
+
+ .gitignore 
+
+ .gitignore 
+
+ .python-version 
+
+ .python-version 
+
+ CLAUDE.md 
+
+ CLAUDE.md 
+
+ CNAME 
+
+ CNAME 
+
+ LICENSE 
+
+ LICENSE 
+
+ README.md 
+
+ README.md 
+
+ datenschutz.html 
+
+ datenschutz.html 
+
+ impressum.html 
+
+ impressum.html 
+
+ index.html 
+
+ index.html 
+
+ providers.html 
+
+ providers.html 
+
+ pyproject.toml 
+
+ pyproject.toml 
+
+ run_all.sh 
+
+ run_all.sh 
+
+ security.html 
+
+ security.html 
+
+ uv.lock 
+
+ uv.lock 
+
+ View all files 
+
+ Repository files navigation
+
+ README 
+ License 
+
+ More items 
+
+ Email Provider Dependencies and Email Security in Municipalities Across Germany, Austria, and Switzerland
+
+ Automated pipeline to collect email domains, classify email providers, and analyze email security for municipalities in Germany, Austria, and Switzerland.
+
+ Pipeline
+
+ Resolve — Collect municipality websites from official registries and Wikidata, scrape for email addresses, validate via DNS/MX, and produce a municipality-to-domain mapping.
+
+ Classify — Fingerprint DNS records (MX, SPF, autodiscover, SMTP banners, ASN) to determine email provider (Microsoft 365, Google Workspace, AWS, domestic hosting, etc.).
+
+ Scan — Evaluate DANE/DNSSEC and email authentication (SPF, DMARC) per domain via a Kotlin/Docker scanner.
+
+ How to run
+
+ Install uv , then:
+
+ uv sync # install deps 
+uv run resolve < ch | de | at | --all > # Stage 1: resolve email domains 
+uv run classify < ch | de | at > # Stage 2: classify providers 
+uv run scan < ch | de | at > # Stage 3: DANE/SPF/DMARC (requires Docker) 
+
+ Common flags: --dry-run , -v , --no-cache . See uv run <cmd> --help .
+
+ Important
+ This tool requires unrestricted outbound port 25 (SMTP). Most residential ISPs and laptops block this.
+For best results, run from a cloud VM with port 25 access opened.
+
+ Validation
+
+ The classifier is validated via bounce probing — a separate, manual process (not part of the pipeline above) that sends probe emails to a stratified sample of municipalities and parses the resulting NDRs to identify the actual backend MTA. The validation tooling and data is maintained in a separate repository.
+
+ Output files
+
+ Results are written to output/ :
+
+ Stage 
+ Files 
+ Description 
+
+ Resolve 
+ domains/domains_{cc}.json 
+ Minimal: code, name, region, website, email domain 
+
+ domains/domains_{cc}_detailed.json 
+ Full: includes source, confidence, flags 
+
+ domains/domains_{cc}_review.json 
+ Low-confidence entries for manual review 
+
+ Classify 
+ providers/providers_{cc}.json 
+ Provider, confidence, evidence signals, gateway 
+
+ providers/providers_{cc}.min.json 
+ Minified for frontend consumption 
+
+ Scan 
+ security/security_{cc}.json 
+ DANE, SPF, DMARC assessment per municipality 
+
+ Export 
+ export.xlsx 
+ Combined workbook: all municipalities + statistics 
+
+ Maps
+
+ Interactive Leaflet maps visualizing email provider distribution and security posture are available in the maps/ directory.
+
+ To view them:
+
+ python3 -m http.server # from the project root 
+
+ Now open http://localhost:8000/maps/ in a browser.
+
+ Origins
+
+ This project builds on MXmap ( source ), a solo project by David Huser mapping the email providers of ~2,100 Swiss municipalities, which spawned around ten country-specific forks across Europe. SecAssure2026 extends that work to all of Germany, Austria and Switzerland and adds a dedicated email-security scanning stage.
+
+ License
+
+ First-party code in this repository is released under the MIT License — see LICENSE .
+
+ Third-party subtrees retain their own licenses. Notably, src/security_test/scanner/testssl.sh/ is vendored under GPL-2.0 (see the LICENSE file in that directory). Redistribution of the repository as a combined binary artifact (e.g., a single Docker image) is therefore constrained by GPL-2.0 terms; the MIT grant applies to the first-party Python code.
+
+ About 
+ Email Provider Dependencies and Email Security in Municipalities Across Germany, Austria, and Switzerland
+ secassure2026.mxmap-project.org/ 
+ Resources 
+ Readme 
+ License 
+ Activity 
+ Stars 
+ 0 stars 
+ Watchers 
+ 0 watching 
+ Forks 
+ 0 forks 
+ Report repository 
+
+ Releases 
+
+ Packages 
+
+ Contributors 
+
+ Languages 
+
+ Footer
+
+ © 2026 GitHub, Inc.
+
+ Footer navigation
+
+ Terms 
+
+ Privacy 
+
+ Security 
+
+ Status 
+
+ Community 
+
+ Docs 
+
+ Contact 
+
+ Manage cookies
+
+ Do not share my personal information
+
+ You can’t perform that action at this time.

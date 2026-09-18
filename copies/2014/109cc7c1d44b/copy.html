@@ -1,0 +1,178 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>233-quicken-tor2web-mode - Tor design proposals</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://spec.torproject.org/proposals/233-quicken-tor2web-mode.html">spec.torproject.org/proposals/233-quicken-tor2web-mode.html</a> · captured 2024-06-15 · scripts removed</div>
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">Tor Proposals</a></li><li class="chapter-item expanded affix "><a href="BY_INDEX.html">All proposals, by number</a></li><li class="chapter-item expanded affix "><a href="BY_STATUS.html">All proposals, by status</a></li><li class="chapter-item expanded affix "><li class="part-title">Proposals</li><li class="chapter-item expanded "><a href="000-index.html">000-index</a></li><li class="chapter-item expanded "><a href="001-process.html">001-process</a></li><li class="chapter-item expanded "><a href="098-todo.html">098-todo</a></li><li class="chapter-item expanded "><a href="099-misc.html">099-misc</a></li><li class="chapter-item expanded "><a href="100-tor-spec-udp.html">100-tor-spec-udp</a></li><li class="chapter-item expanded "><a href="101-dir-voting.html">101-dir-voting</a></li><li class="chapter-item expanded "><a href="102-drop-opt.html">102-drop-opt</a></li><li class="chapter-item expanded "><a href="103-multilevel-keys.html">103-multilevel-keys</a></li><li class="chapter-item expanded "><a href="104-short-descriptors.html">104-short-descriptors</a></li><li class="chapter-item expanded "><a href="105-handshake-revision.html">105-handshake-revision</a></li><li class="chapter-item expanded "><a href="106-less-tls-constraint.html">106-less-tls-constraint</a></li><li class="chapter-item expanded "><a href="107-uptime-sanity-checking.html">107-uptime-sanity-checking</a></li><li class="chapter-item expanded "><a href="108-mtbf-based-stability.html">108-mtbf-based-stability</a></li><li class="chapter-item expanded "><a href="109-no-sharing-ips.html">109-no-sharing-ips</a></li><li class="chapter-item expanded "><a href="110-avoid-infinite-circuits.html">110-avoid-infinite-circuits</a></li><li class="chapter-item expanded "><a href="111-local-traffic-priority.html">111-local-traffic-priority</a></li><li class="chapter-item expanded "><a href="112-bring-back-pathlencoinweight.html">112-bring-back-pathlencoinweight</a></li><li class="chapter-item expanded "><a href="113-fast-authority-interface.html">113-fast-authority-interface</a></li><li class="chapter-item expanded "><a href="114-distributed-storage.html">114-distributed-storage</a></li><li class="chapter-item expanded "><a href="115-two-hop-paths.html">115-two-hop-paths</a></li><li class="chapter-item expanded "><a href="116-two-hop-paths-from-guard.html">116-two-hop-paths-from-guard</a></li><li class="chapter-item expanded "><a href="117-ipv6-exits.html">117-ipv6-exits</a></li><li class="chapter-item expanded "><a href="118-multiple-orports.html">118-multiple-orports</a></li><li class="chapter-item expanded "><a href="119-controlport-auth.html">119-controlport-auth</a></li><li class="chapter-item expanded "><a href="120-shutdown-descriptors.html">120-shutdown-descriptors</a></li><li class="chapter-item expanded "><a href="121-hidden-service-authentication.html">121-hidden-service-authentication</a></li><li class="chapter-item expanded "><a href="122-unnamed-flag.html">122-unnamed-flag</a></li><li class="chapter-item expanded "><a href="123-autonaming.html">123-autonaming</a></li><li class="chapter-item expanded "><a href="124-tls-certificates.html">124-tls-certificates</a></li><li class="chapter-item expanded "><a href="125-bridges.html">125-bridges</a></li><li class="chapter-item expanded "><a href="126-geoip-reporting.html">126-geoip-reporting</a></li><li class="chapter-item expanded "><a href="127-dirport-mirrors-downloads.html">127-dirport-mirrors-downloads</a></li><li class="chapter-item expanded "><a href="128-bridge-families.html">128-bridge-families</a></li><li class="chapter-item expanded "><a href="129-reject-plaintext-ports.html">129-reject-plaintext-ports</a></li><li class="chapter-item expanded "><a href="130-v2-conn-protocol.html">130-v2-conn-protocol</a></li><li class="chapter-item expanded "><a href="131-verify-tor-usage.html">131-verify-tor-usage</a></li><li class="chapter-item expanded "><a href="132-browser-check-tor-service.html">132-browser-check-tor-service</a></li><li class="chapter-item expanded "><a href="133-unreachable-ors.html">133-unreachable-ors</a></li><li class="chapter-item expanded "><a href="134-robust-voting.html">134-robust-voting</a></li><li class="chapter-item expanded "><a href="135-private-tor-networks.html">135-private-tor-networks</a></li><li class="chapter-item expanded "><a href="136-legacy-keys.html">136-legacy-keys</a></li><li class="chapter-item expanded "><a href="137-bootstrap-phases.html">137-bootstrap-phases</a></li><li class="chapter-item expanded "><a href="138-remove-down-routers-from-consensus.html">138-remove-down-routers-from-consensus</a></li><li class="chapter-item expanded "><a href="139-conditional-consensus-download.html">139-conditional-consensus-download</a></li><li class="chapter-item expanded "><a href="140-consensus-diffs.html">140-consensus-diffs</a></li><li class="chapter-item expanded "><a href="141-jit-sd-downloads.html">141-jit-sd-downloads</a></li><li class="chapter-item expanded "><a href="142-combine-intro-and-rend-points.html">142-combine-intro-and-rend-points</a></li><li class="chapter-item expanded "><a href="143-distributed-storage-improvements.html">143-distributed-storage-improvements</a></li><li class="chapter-item expanded "><a href="144-enforce-distinct-providers.html">144-enforce-distinct-providers</a></li><li class="chapter-item expanded "><a href="145-newguard-flag.html">145-newguard-flag</a></li><li class="chapter-item expanded "><a href="146-long-term-stability.html">146-long-term-stability</a></li><li class="chapter-item expanded "><a href="147-prevoting-opinions.html">147-prevoting-opinions</a></li><li class="chapter-item expanded "><a href="148-uniform-client-end-reason.html">148-uniform-client-end-reason</a></li><li class="chapter-item expanded "><a href="149-using-netinfo-data.html">149-using-netinfo-data</a></li><li class="chapter-item expanded "><a href="150-exclude-exit-nodes.html">150-exclude-exit-nodes</a></li><li class="chapter-item expanded "><a href="151-path-selection-improvements.html">151-path-selection-improvements</a></li><li class="chapter-item expanded "><a href="152-single-hop-circuits.html">152-single-hop-circuits</a></li><li class="chapter-item expanded "><a href="153-automatic-software-update-protocol.html">153-automatic-software-update-protocol</a></li><li class="chapter-item expanded "><a href="154-automatic-updates.html">154-automatic-updates</a></li><li class="chapter-item expanded "><a href="155-four-hidden-service-improvements.html">155-four-hidden-service-improvements</a></li><li class="chapter-item expanded "><a href="156-tracking-blocked-ports.html">156-tracking-blocked-ports</a></li><li class="chapter-item expanded "><a href="157-specific-cert-download.html">157-specific-cert-download</a></li><li class="chapter-item expanded "><a href="158-microdescriptors.html">158-microdescriptors</a></li><li class="chapter-item expanded "><a href="159-exit-scanning.html">159-exit-scanning</a></li><li class="chapter-item expanded "><a href="160-bandwidth-offset.html">160-bandwidth-offset</a></li><li class="chapter-item expanded "><a href="161-computing-bandwidth-adjustments.html">161-computing-bandwidth-adjustments</a></li><li class="chapter-item expanded "><a href="162-consensus-flavors.html">162-consensus-flavors</a></li><li class="chapter-item expanded "><a href="163-detecting-clients.html">163-detecting-clients</a></li><li class="chapter-item expanded "><a href="164-reporting-server-status.html">164-reporting-server-status</a></li><li class="chapter-item expanded "><a href="165-simple-robust-voting.html">165-simple-robust-voting</a></li><li class="chapter-item expanded "><a href="166-statistics-extra-info-docs.html">166-statistics-extra-info-docs</a></li><li class="chapter-item expanded "><a href="167-params-in-consensus.html">167-params-in-consensus</a></li><li class="chapter-item expanded "><a href="168-reduce-circwindow.html">168-reduce-circwindow</a></li><li class="chapter-item expanded "><a href="169-eliminating-renegotiation.html">169-eliminating-renegotiation</a></li><li class="chapter-item expanded "><a href="170-user-path-config.html">170-user-path-config</a></li><li class="chapter-item expanded "><a href="171-separate-streams.html">171-separate-streams</a></li><li class="chapter-item expanded "><a href="172-circ-getinfo-option.html">172-circ-getinfo-option</a></li><li class="chapter-item expanded "><a href="173-getinfo-option-expansion.html">173-getinfo-option-expansion</a></li><li class="chapter-item expanded "><a href="174-optimistic-data-server.html">174-optimistic-data-server</a></li><li class="chapter-item expanded "><a href="175-automatic-node-promotion.html">175-automatic-node-promotion</a></li><li class="chapter-item expanded "><a href="176-revising-handshake.html">176-revising-handshake</a></li><li class="chapter-item expanded "><a href="177-flag-abstention.html">177-flag-abstention</a></li><li class="chapter-item expanded "><a href="178-param-voting.html">178-param-voting</a></li><li class="chapter-item expanded "><a href="179-TLS-cert-and-parameter-normalization.html">179-TLS-cert-and-parameter-normalization</a></li><li class="chapter-item expanded "><a href="180-pluggable-transport.html">180-pluggable-transport</a></li><li class="chapter-item expanded "><a href="181-optimistic-data-client.html">181-optimistic-data-client</a></li><li class="chapter-item expanded "><a href="182-creditbucket.html">182-creditbucket</a></li><li class="chapter-item expanded "><a href="183-refillintervals.html">183-refillintervals</a></li><li class="chapter-item expanded "><a href="184-v3-link-protocol.html">184-v3-link-protocol</a></li><li class="chapter-item expanded "><a href="185-dir-without-dirport.html">185-dir-without-dirport</a></li><li class="chapter-item expanded "><a href="186-multiple-orports.html">186-multiple-orports</a></li><li class="chapter-item expanded "><a href="187-allow-client-auth.html">187-allow-client-auth</a></li><li class="chapter-item expanded "><a href="188-bridge-guards.html">188-bridge-guards</a></li><li class="chapter-item expanded "><a href="189-authorize-cell.html">189-authorize-cell</a></li><li class="chapter-item expanded "><a href="190-shared-secret-bridge-authorization.html">190-shared-secret-bridge-authorization</a></li><li class="chapter-item expanded "><a href="191-mitm-bridge-detection-resistance.html">191-mitm-bridge-detection-resistance</a></li><li class="chapter-item expanded "><a href="192-store-bridge-information.html">192-store-bridge-information</a></li><li class="chapter-item expanded "><a href="193-safe-cookie-authentication.html">193-safe-cookie-authentication</a></li><li class="chapter-item expanded "><a href="194-mnemonic-urls.html">194-mnemonic-urls</a></li><li class="chapter-item expanded "><a href="195-TLS-normalization-for-024.html">195-TLS-normalization-for-024</a></li><li class="chapter-item expanded "><a href="196-transport-control-ports.html">196-transport-control-ports</a></li><li class="chapter-item expanded "><a href="197-postmessage-ipc.html">197-postmessage-ipc</a></li><li class="chapter-item expanded "><a href="198-restore-clienthello-semantics.html">198-restore-clienthello-semantics</a></li><li class="chapter-item expanded "><a href="199-bridgefinder-integration.html">199-bridgefinder-integration</a></li><li class="chapter-item expanded "><a href="200-new-create-and-extend-cells.html">200-new-create-and-extend-cells</a></li><li class="chapter-item expanded "><a href="201-bridge-v3-reqs-stats.html">201-bridge-v3-reqs-stats</a></li><li class="chapter-item expanded "><a href="202-improved-relay-crypto.html">202-improved-relay-crypto</a></li><li class="chapter-item expanded "><a href="203-https-frontend.html">203-https-frontend</a></li><li class="chapter-item expanded "><a href="204-hidserv-subdomains.html">204-hidserv-subdomains</a></li><li class="chapter-item expanded "><a href="205-local-dnscache.html">205-local-dnscache</a></li><li class="chapter-item expanded "><a href="206-directory-sources.html">206-directory-sources</a></li><li class="chapter-item expanded "><a href="207-directory-guards.html">207-directory-guards</a></li><li class="chapter-item expanded "><a href="208-ipv6-exits-redux.html">208-ipv6-exits-redux</a></li><li class="chapter-item expanded "><a href="209-path-bias-tuning.html">209-path-bias-tuning</a></li><li class="chapter-item expanded "><a href="210-faster-headless-consensus-bootstrap.html">210-faster-headless-consensus-bootstrap</a></li><li class="chapter-item expanded "><a href="211-mapaddress-tor-status.html">211-mapaddress-tor-status</a></li><li class="chapter-item expanded "><a href="212-using-old-consensus.html">212-using-old-consensus</a></li><li class="chapter-item expanded "><a href="213-remove-stream-sendmes.html">213-remove-stream-sendmes</a></li><li class="chapter-item expanded "><a href="214-longer-circids.html">214-longer-circids</a></li><li class="chapter-item expanded "><a href="215-update-min-consensus-ver.html">215-update-min-consensus-ver</a></li><li class="chapter-item expanded "><a href="216-ntor-handshake.html">216-ntor-handshake</a></li><li class="chapter-item expanded "><a href="217-ext-orport-auth.html">217-ext-orport-auth</a></li><li class="chapter-item expanded "><a href="218-usage-controller-events.html">218-usage-controller-events</a></li><li class="chapter-item expanded "><a href="219-expanded-dns.html">219-expanded-dns</a></li><li class="chapter-item expanded "><a href="220-ecc-id-keys.html">220-ecc-id-keys</a></li><li class="chapter-item expanded "><a href="221-stop-using-create-fast.html">221-stop-using-create-fast</a></li><li class="chapter-item expanded "><a href="222-remove-client-timestamps.html">222-remove-client-timestamps</a></li><li class="chapter-item expanded "><a href="223-ace-handshake.html">223-ace-handshake</a></li><li class="chapter-item expanded "><a href="224-rend-spec-ng.html">224-rend-spec-ng</a></li><li class="chapter-item expanded "><a href="225-strawman-shared-rand.html">225-strawman-shared-rand</a></li><li class="chapter-item expanded "><a href="226-bridgedb-database-improvements.html">226-bridgedb-database-improvements</a></li><li class="chapter-item expanded "><a href="227-vote-on-package-fingerprints.html">227-vote-on-package-fingerprints</a></li><li class="chapter-item expanded "><a href="228-cross-certification-onionkeys.html">228-cross-certification-onionkeys</a></li><li class="chapter-item expanded "><a href="229-further-socks5-extensions.html">229-further-socks5-extensions</a></li><li class="chapter-item expanded "><a href="230-rsa1024-relay-id-migration.html">230-rsa1024-relay-id-migration</a></li><li class="chapter-item expanded "><a href="231-migrate-authority-rsa1024-ids.html">231-migrate-authority-rsa1024-ids</a></li><li class="chapter-item expanded "><a href="232-pluggable-transports-through-proxy.html">232-pluggable-transports-through-proxy</a></li><li class="chapter-item expanded "><a href="233-quicken-tor2web-mode.html" class="active">233-quicken-tor2web-mode</a></li><li class="chapter-item expanded "><a href="234-remittance-addresses.html">234-remittance-addresses</a></li><li class="chapter-item expanded "><a href="235-kill-named-flag.html">235-kill-named-flag</a></li><li class="chapter-item expanded "><a href="236-single-guard-node.html">236-single-guard-node</a></li><li class="chapter-item expanded "><a href="237-directory-servers-for-all.html">237-directory-servers-for-all</a></li><li class="chapter-item expanded "><a href="238-hs-relay-stats.html">238-hs-relay-stats</a></li><li class="chapter-item expanded "><a href="239-consensus-hash-chaining.html">239-consensus-hash-chaining</a></li><li class="chapter-item expanded "><a href="240-auth-cert-revocation.html">240-auth-cert-revocation</a></li><li class="chapter-item expanded "><a href="241-suspicious-guard-turnover.html">241-suspicious-guard-turnover</a></li><li class="chapter-item expanded "><a href="242-better-families.html">242-better-families</a></li><li class="chapter-item expanded "><a href="243-hsdir-flag-need-stable.html">243-hsdir-flag-need-stable</a></li><li class="chapter-item expanded "><a href="244-use-rfc5705-for-tls-binding.html">244-use-rfc5705-for-tls-binding</a></li><li class="chapter-item expanded "><a href="245-tap-out.html">245-tap-out</a></li><li class="chapter-item expanded "><a href="246-merge-hsdir-and-intro.html">246-merge-hsdir-and-intro</a></li><li class="chapter-item expanded "><a href="247-hs-guard-discovery.html">247-hs-guard-discovery</a></li><li class="chapter-item expanded "><a href="248-removing-rsa-identities.html">248-removing-rsa-identities</a></li><li class="chapter-item expanded "><a href="249-large-create-cells.html">249-large-create-cells</a></li><li class="chapter-item expanded "><a href="250-commit-reveal-consensus.html">250-commit-reveal-consensus</a></li><li class="chapter-item expanded "><a href="251-netflow-padding.html">251-netflow-padding</a></li><li class="chapter-item expanded "><a href="252-single-onion.html">252-single-onion</a></li><li class="chapter-item expanded "><a href="253-oob-hmac.html">253-oob-hmac</a></li><li class="chapter-item expanded "><a href="254-padding-negotiation.html">254-padding-negotiation</a></li><li class="chapter-item expanded "><a href="255-hs-load-balancing.html">255-hs-load-balancing</a></li><li class="chapter-item expanded "><a href="256-key-revocation.html">256-key-revocation</a></li><li class="chapter-item expanded "><a href="257-hiding-authorities.html">257-hiding-authorities</a></li><li class="chapter-item expanded "><a href="258-dirauth-dos.html">258-dirauth-dos</a></li><li class="chapter-item expanded "><a href="259-guard-selection.html">259-guard-selection</a></li><li class="chapter-item expanded "><a href="260-rend-single-onion.html">260-rend-single-onion</a></li><li class="chapter-item expanded "><a href="261-aez-crypto.html">261-aez-crypto</a></li><li class="chapter-item expanded "><a href="262-rekey-circuits.html">262-rekey-circuits</a></li><li class="chapter-item expanded "><a href="263-ntru-for-pq-handshake.html">263-ntru-for-pq-handshake</a></li><li class="chapter-item expanded "><a href="264-subprotocol-versions.html">264-subprotocol-versions</a></li><li class="chapter-item expanded "><a href="265-load-balancing-with-overhead.html">265-load-balancing-with-overhead</a></li><li class="chapter-item expanded "><a href="266-removing-current-obsolete-clients.html">266-removing-current-obsolete-clients</a></li><li class="chapter-item expanded "><a href="267-tor-consensus-transparency.html">267-tor-consensus-transparency</a></li><li class="chapter-item expanded "><a href="268-guard-selection.html">268-guard-selection</a></li><li class="chapter-item expanded "><a href="269-hybrid-handshake.html">269-hybrid-handshake</a></li><li class="chapter-item expanded "><a href="270-newhope-hybrid-handshake.html">270-newhope-hybrid-handshake</a></li><li class="chapter-item expanded "><a href="271-another-guard-selection.html">271-another-guard-selection</a></li><li class="chapter-item expanded "><a href="272-valid-and-running-by-default.html">272-valid-and-running-by-default</a></li><li class="chapter-item expanded "><a href="273-exit-relay-pinning.html">273-exit-relay-pinning</a></li><li class="chapter-item expanded "><a href="274-rotate-onion-keys-less.html">274-rotate-onion-keys-less</a></li><li class="chapter-item expanded "><a href="275-md-published-time-is-silly.html">275-md-published-time-is-silly</a></li><li class="chapter-item expanded "><a href="276-lower-bw-granularity.html">276-lower-bw-granularity</a></li><li class="chapter-item expanded "><a href="277-detect-id-sharing.html">277-detect-id-sharing</a></li><li class="chapter-item expanded "><a href="278-directory-compression-scheme-negotiation.html">278-directory-compression-scheme-negotiation</a></li><li class="chapter-item expanded "><a href="279-naming-layer-api.html">279-naming-layer-api</a></li><li class="chapter-item expanded "><a href="280-privcount-in-tor.html">280-privcount-in-tor</a></li><li class="chapter-item expanded "><a href="281-bulk-md-download.html">281-bulk-md-download</a></li><li class="chapter-item expanded "><a href="282-remove-named-from-consensus.html">282-remove-named-from-consensus</a></li><li class="chapter-item expanded "><a href="283-ipv6-in-micro-consensus.html">283-ipv6-in-micro-consensus</a></li><li class="chapter-item expanded "><a href="284-hsv3-control-port.html">284-hsv3-control-port</a></li><li class="chapter-item expanded "><a href="285-utf-8.html">285-utf-8</a></li><li class="chapter-item expanded "><a href="286-hibernation-api.html">286-hibernation-api</a></li><li class="chapter-item expanded "><a href="287-reduce-lifetime.html">287-reduce-lifetime</a></li><li class="chapter-item expanded "><a href="288-privcount-with-shamir.html">288-privcount-with-shamir</a></li><li class="chapter-item expanded "><a href="289-authenticated-sendmes.html">289-authenticated-sendmes</a></li><li class="chapter-item expanded "><a href="290-deprecate-consensus-methods.html">290-deprecate-consensus-methods</a></li><li class="chapter-item expanded "><a href="291-two-guard-nodes.html">291-two-guard-nodes</a></li><li class="chapter-item expanded "><a href="292-mesh-vanguards.html">292-mesh-vanguards</a></li><li class="chapter-item expanded "><a href="293-know-when-to-publish.html">293-know-when-to-publish</a></li><li class="chapter-item expanded "><a href="294-tls-1.3.html">294-tls-1.3</a></li><li class="chapter-item expanded "><a href="295-relay-crypto-with-adl.html">295-relay-crypto-with-adl</a></li><li class="chapter-item expanded "><a href="296-expose-bandwidth-files.html">296-expose-bandwidth-files</a></li><li class="chapter-item expanded "><a href="297-safer-protover-shutdowns.html">297-safer-protover-shutdowns</a></li><li class="chapter-item expanded "><a href="298-canonical-families.html">298-canonical-families</a></li><li class="chapter-item expanded "><a href="299-ip-failure-count.html">299-ip-failure-count</a></li><li class="chapter-item expanded "><a href="300-walking-onions.html">300-walking-onions</a></li><li class="chapter-item expanded "><a href="301-dont-vote-on-package-fingerprints.html">301-dont-vote-on-package-fingerprints</a></li><li class="chapter-item expanded "><a href="302-padding-machines-for-onion-clients.html">302-padding-machines-for-onion-clients</a></li><li class="chapter-item expanded "><a href="303-protover-removal-policy.html">303-protover-removal-policy</a></li><li class="chapter-item expanded "><a href="304-socks5-extending-hs-error-codes.html">304-socks5-extending-hs-error-codes</a></li><li class="chapter-item expanded "><a href="305-establish-intro-dos-defense-extention.html">305-establish-intro-dos-defense-extention</a></li><li class="chapter-item expanded "><a href="306-ipv6-happy-eyeballs.html">306-ipv6-happy-eyeballs</a></li><li class="chapter-item expanded "><a href="307-onionbalance-v3.html">307-onionbalance-v3</a></li><li class="chapter-item expanded "><a href="308-counter-galois-onion.html">308-counter-galois-onion</a></li><li class="chapter-item expanded "><a href="309-optimistic-socks-in-tor.html">309-optimistic-socks-in-tor</a></li><li class="chapter-item expanded "><a href="310-bandaid-on-guard-selection.html">310-bandaid-on-guard-selection</a></li><li class="chapter-item expanded "><a href="311-relay-ipv6-reachability.html">311-relay-ipv6-reachability</a></li><li class="chapter-item expanded "><a href="312-relay-auto-ipv6-addr.html">312-relay-auto-ipv6-addr</a></li><li class="chapter-item expanded "><a href="313-relay-ipv6-stats.html">313-relay-ipv6-stats</a></li><li class="chapter-item expanded "><a href="314-allow-markdown-proposals.html">314-allow-markdown-proposals</a></li><li class="chapter-item expanded "><a href="315-update-dir-required-fields.html">315-update-dir-required-fields</a></li><li class="chapter-item expanded "><a href="316-flashflow.html">316-flashflow</a></li><li class="chapter-item expanded "><a href="317-secure-dns-name-resolution.html">317-secure-dns-name-resolution</a></li><li class="chapter-item expanded "><a href="318-limit-protovers.html">318-limit-protovers</a></li><li class="chapter-item expanded "><a href="319-wide-everything.html">319-wide-everything</a></li><li class="chapter-item expanded "><a href="320-tap-out-again.html">320-tap-out-again</a></li><li class="chapter-item expanded "><a href="321-happy-families.html">321-happy-families</a></li><li class="chapter-item expanded "><a href="322-dirport-linkspec.html">322-dirport-linkspec</a></li><li class="chapter-item expanded "><a href="323-walking-onions-full.html">323-walking-onions-full</a></li><li class="chapter-item expanded "><a href="324-rtt-congestion-control.html">324-rtt-congestion-control</a></li><li class="chapter-item expanded "><a href="325-packed-relay-cells.html">325-packed-relay-cells</a></li><li class="chapter-item expanded "><a href="326-tor-relay-well-known-uri-rfc8615.html">326-tor-relay-well-known-uri-rfc8615</a></li><li class="chapter-item expanded "><a href="327-pow-over-intro.html">327-pow-over-intro</a></li><li class="chapter-item expanded "><a href="328-relay-overload-report.html">328-relay-overload-report</a></li><li class="chapter-item expanded "><a href="329-traffic-splitting.html">329-traffic-splitting</a></li><li class="chapter-item expanded "><a href="330-authority-contact.html">330-authority-contact</a></li><li class="chapter-item expanded "><a href="331-res-tokens-for-anti-dos.html">331-res-tokens-for-anti-dos</a></li><li class="chapter-item expanded "><a href="332-ntor-v3-with-extra-data.html">332-ntor-v3-with-extra-data</a></li><li class="chapter-item expanded "><a href="333-vanguards-lite.html">333-vanguards-lite</a></li><li class="chapter-item expanded "><a href="334-middle-only-flag.html">334-middle-only-flag</a></li><li class="chapter-item expanded "><a href="335-middle-only-redux.html">335-middle-only-redux</a></li><li class="chapter-item expanded "><a href="336-randomize-guard-retries.html">336-randomize-guard-retries</a></li><li class="chapter-item expanded "><a href="337-simpler-guard-usability.html">337-simpler-guard-usability</a></li><li class="chapter-item expanded "><a href="338-netinfo-y2038.html">338-netinfo-y2038</a></li><li class="chapter-item expanded "><a href="339-udp-over-tor.html">339-udp-over-tor</a></li><li class="chapter-item expanded "><a href="340-packed-and-fragmented.html">340-packed-and-fragmented</a></li><li class="chapter-item expanded "><a href="341-better-oos.html">341-better-oos</a></li><li class="chapter-item expanded "><a href="342-decouple-hs-interval.html">342-decouple-hs-interval</a></li><li class="chapter-item expanded "><a href="343-rend-caa.html">343-rend-caa</a></li><li class="chapter-item expanded "><a href="344-protocol-info-leaks.html">344-protocol-info-leaks</a></li><li class="chapter-item expanded "><a href="345-specs-in-mdbook.html">345-specs-in-mdbook</a></li><li class="chapter-item expanded "><a href="346-protovers-again.html">346-protovers-again</a></li><li class="chapter-item expanded "><a href="347-domain-separation.html">347-domain-separation</a></li><li class="chapter-item expanded "><a href="348-udp-app-support.html">348-udp-app-support</a></li><li class="chapter-item expanded "><a href="349-command-state-validation.html">349-command-state-validation</a></li><li class="chapter-item expanded "><a href="350-remove-tap.html">350-remove-tap</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                    </div>
+
+                    <h1 class="menu-title">Tor design proposals</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                
+
+                <div id="content" class="content">
+                    <main>
+                        <pre><code>Filename: 233-quicken-tor2web-mode.txt
+Title: Making Tor2Web mode faster
+Author: Virgil Griffith, Fabio Pietrosanti, Giovanni Pellerano
+Created: 2014-03-27
+Status: Rejected
+
+
+1. Introduction
+
+   While chatting with the Tor archons at the winter meeting, two speed
+   optimizations for tor2web mode [1] were put forward.  This proposal
+   specifies concretizes these two optimizations.  As with the current
+   tor2web mode, this quickened tor2web mode negates any client
+   anonymity.
+
+2. Tor2web optimizations
+
+2.1. Self-rendezvous
+
+  In the current tor2web mode, the client establishes a 1-hop circuit
+  (direct connection) to a chosen rendezvous point.  We propose that,
+  alternatively, the client set *itself* as the rendezvous point. This
+  coincides with ticket #9685[2].
+
+2.2. direct-introduction
+
+  Identical to the non-tor2web mode, in the current tor2web mode, the
+  client establishes a 3-hop circuit to the introduction point.  We
+  propose that, alternatively, the client builds a 1-hop circuit to the
+  introduction point.
+
+4. References
+
+  [1] Tor2web mode: https://trac.torproject.org/projects/tor/ticket/2553
+  [2] Self-rendezvous: https://trac.torproject.org/projects/tor/ticket/9685
+</code></pre>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="232-pluggable-transports-through-proxy.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="234-remittance-addresses.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="232-pluggable-transports-through-proxy.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="234-remittance-addresses.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        
+
+
+
+        
+        
+        
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+{
+ "source_url": "https://wikileaks.org/hackingteam/emails/emailid/577214",
+ "fetched_url": "https://wikileaks.org/hackingteam/emails/emailid/577214",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 45303,
+ "sha256": "863a3813eede37099c2bbda5973ee2fdeffe081b0ff4e1af557ea8fba806105b",
+ "name_found": true,
+ "fetched_at": "2026-09-17T09:21:59+00:00"
+}

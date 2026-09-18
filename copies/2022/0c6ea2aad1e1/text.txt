@@ -1,0 +1,123 @@
+Monitora PA 
+
+ monitora pa 
+
+ viviamo in una società cibernetica 
+
+ vogliamo che sia democratica 
+
+ Monitora PA: Speciale Elezioni 2022
+Segnalazione al Garante
+
+ Home 
+
+ PEC
+
+ Fediverse 
+ Matrix 
+ Telegram 
+ Sorgenti 
+ Hacking License 
+
+ Ad oltre 10 giorni dalla 
+ nostra richiesta di interrompere i trasferimenti di dati sensibili 
+ verso Google, 47 partiti politici italiani continuano a trasferire illegalmente all'estero 
+ i nostri dati personali, alimentando il capitalismo della sorveglianza che li userà per 
+ alterare i risultati delle prossime elezioni .
+
+ Di questi 47
+
+ 18 utilizzano ancora Universal Analytics (aka Google Analytics 3)
+
+ 9 utilizzano il nuovo Google Analytics 4
+
+ 22 installano i cookie di tracciatura di Google (entrambe le versioni) prima che esprimiate alcun consenso 
+
+ 42 incorporano chiamate verso Google Fonts, trasferendo automaticamente i vostri interessi politici a Google 
+ ad ogni prima visita della giornata che effettuate al loro sito
+
+ Come preannunciato abbiamo dunque inviato una segnalazione all'Autorità Garante per la Protezione dei Dati Personali,
+ cui abbiamo allegato, oltre ad un CSV riassuntivo, tutte le evidenze raccolte dal nostro osservatorio.
+
+ Segnalazione al Garante 
+
+ Allegato Tecnico 
+
+ Come sempre, non pubblicheremo l'elenco preciso dei soggetti segnalati, sebbene un'esecuzione del
+ nostro osservatorio automatico distribuito sul dataset realizzato dalla nostra comunità possa rivelare facilmente
+ chi ancora effettui tali trasferimenti.
+
+ Tuttavia, vista la delicatezza della questione a meno di due settimane dalle elezioni,
+ suggeriamo a chiunque fosse interessato a verificare la conformità al GDPR del sito
+ di un partito politico senza rischiare di farsi profilare ulteriormente da Google visitandolo,
+ di utilizzare l' ottimo WebbKoll .
+
+ Qualora scopriate che i vostri dati personali e le vostre opinioni politiche sono
+ state trasferite illecitamente a Google o ad altre società USA, potete sporgere
+ reclamo presso l'Autorità Garante per la Protezione dei Dati Personali utilizzando
+ questo modello secondo le istruzioni fornite dall'Autorità stessa.
+
+ Qualora vogliate condividere con noi la vostra esperienza in merito a tali reclami (o siate curiosi di conoscerci), 
+ potete raggiungerci sulla chat della nostra comunità. La chat è raggiungibile tramite
+ due canali:
+
+ Via Matrix: #MonitoraPA:matrix.opencloud.lu 
+
+ Via Telegram: https://t.me/monitoraPA 
+
+ E le PA?
+
+ Ad agosto abbiamo anche chiesto a 10.162 Pubbliche Amministrazioni 
+ di interrompere i trasferimenti sistematici di dati personali verso Google avviati dall'inclusione nelle 
+ loro pagine web di chiamate ai server di Google Fonts.
+
+ Moltissime PA hanno accolto il nostro invito, ringraziandoci della segnalazione con risposte come questa:
+
+All’attenzione di:
+Fabio Pietrosanti, in qualità di referente per la comunità di hacker, attiviste,
+attivisti, cittadine e cittadini che, attenti a riservatezza, libertà e diritti 
+cibernetici, ha realizzato Monitora PA.
+Con la presente il sottoscritto XXX in qualità di Responsabile per la Transizione al Digitale,
+
+- verificato quanto segnalato, sotto il profilo tecnico;
+
+- avviato un confronto tecnico-giuridico con il DPO dell’Ente;
+
+- ritenuto che, sebbene la società Google affermi sul proprio sito internet di non
+ raccogliere l’indirizzo IP dei visitatori del sito, non si possa escludere che la raccolta
+ di altri dati di navigazione, uniti a quelli eventualmente già in possesso del
+ fornitore, possa comunque costituire raccolta e trattamento di dati personali;
+
+- considerato che non pare potersi escludere un trasferimento dei dati raccolti da
+ Google al di fuori dell’Unione europea, in assenza di garanzie adeguate circa la
+ protezione dei diritti e le libertà degli interessati;
+
+- ritenuto altresì che la eventuale raccolta e trattamento di dati personali ad opera
+ di Google sia tale da configurare un comportamento da autonomo titolare del
+ trattamento;
+
+comunica di aver provveduto ad interrompere la raccolta dei dati attraverso il
+proprio sito web attraverso l’aggiornamento del sito internet utilizzando i font in
+modalità locale in data 09.08.2022 (come da comunicazione da parte del fornitore
+del servizio).
+
+Ringraziandola per la segnalazione, invito la Sua organizzazione a rappresentare
+eventuali ulteriori fattispecie di trattamento che possano essere in contrasto con
+la normativa in materia di protezione dei dati personali, con garanzia sin da ora
+che saranno adeguatamente esaminate e verificate.
+
+Distinti saluti
+
+ Nella speranza che tutte le PA abbiamo effettivamente interrotto tali trasferimenti illeciti, abbiamo
+ avviato una nuova scansione (ancora in corso) cui farà seguito la consueta segnalazione al Garante 
+ dei Titolari che continuano ad operare in violazione del GDPR, perché siano debitamente sanzionati .
+
+ Contattaci: 
+
+ PEC
+
+ Fediverse 
+ Matrix 
+ Telegram 
+ Sorgenti 
+ Hacking License

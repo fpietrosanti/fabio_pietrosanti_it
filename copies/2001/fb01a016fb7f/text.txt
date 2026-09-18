@@ -1,0 +1,281 @@
+ITBH Italian Black Hats | Eventi e Papers 
+
+ Elenco degli eventi e relativi papers 
+
+ Titolo:   
+ ITBH @ Linux Day 2002 - http://erlug.linux.it/linuxday 
+
+ Data:  
+ 23-11-2002 
+
+ Luogo:  
+ Modena, Dipartimento di Ingegneria dell'Informazione, 
+via Vignolese 90 
+
+ Abstract:  
+ Sara' effettuato un intervento dal titolo:
+
+Web server ed applicazioni web: principali problematiche di sicurezza, tipici 
+errori implementativi ( pdf ) - Koba 
+
+ Programma della giornata 
+
+ Titolo:   
+ ITBH @ Linux Day 2002 - http://www.linuxtrent.it 
+
+ Data:  
+ 23-11-2002 
+
+ Luogo:  
+ Trento, Associazione Artigiani, Via Brennero 
+
+ Abstract:  
+ Sara' effettuato un intervento dal titolo:
+
+User Space linux per la creazione di honeypot e sandbox - Pila 
+
+Lo speech mira a spiegare l'utilizzo di user space linux per creare delle macchine 
+virtuali indipendenti dal sistema hostt. Tali macchine possono essere utilizzate 
+per creare sia delle sandbox (ove provare e testare malicious code in piena sicurezza) 
+oppure delle honeypot per lo studio delle comunità blackhats.
+
+ Programma della giornata 
+
+ Titolo:   
+ ITBH @ Linux Day 2002 - http://linuxday.ferrara.linux.it 
+
+ Data:  
+ 23-11-2002 ore 18.00 
+
+ Luogo:  
+ Ferrara, Facolta' di Ingegneria, Via Saragat, 
+1 
+
+ Abstract:  
+ Sara' effettuato un intervento dal titolo:
+
+Web server ed applicazioni web: principali problematiche di sicurezza, tipici 
+errori implementativi - Koba 
+
+ Programma 
+della giornata 
+
+ Titolo:   
+ ITBH @ Linux Day 2002 - http://www.linux.it/LinuxDay 
+
+ Data:  
+ 23-11-2002 
+
+ Luogo:  
+ Milano, Enaip Lombardia, Via Santader 9 
+
+ Abstract:  
+
+ Alcuni soci di ITBH parteciperanno al LinuxDay 2002 di Milano dando il loro 
+contributo sui seguenti temi:
+
+Come muoversi quando root e' cieco - Fusys 
+
+Sicurezze e false sicurezze: un confronto aperto tra mondo open e closed - Raistlin 
+
+Capire, configurare, interpretare i file di log - Vodka 
+
+ Programma della giornata 
+
+ Titolo:   
+ ITBH @ Linux Day 2002 
+
+ Data:  
+ 23-11-2002 
+
+ Luogo:  
+ Alessandria, Circoscrizione Nord, V.le T. 
+Michel 17 
+
+ Abstract:  
+
+ All'interno del LinuxDay di Alessandria sara' effettuato da parte di ITBH uno 
+speech volto anche ai meno esperti utenti di Linux dal titolo:
+
+ Wireless: Linux dalla parte del buono e del cattivo ( pdf ) 
+- Nail 
+
+ Programma della giornata 
+
+ Titolo:   
+ ITBH @ WLAN Business Forum 2002 - http://www.wifi-business.com 
+
+ Data:  
+ 13-11-2002 
+
+ Luogo:  
+ Milano, StarHotel Business Palace 
+
+ Abstract:  
+
+ ITBH e' stata invitata al WLAN Business Forum 2002 per parlare dei problemi 
+di security dell'802.11b. Durante lo speech verranno presentati i risultati di 
+un sondaggio sulla sicurezza delle reti wireless a milano.
+
+ Papers:  
+
+ Wireless (in)security: Problemi di (in)sicurezza dell'802.11b ( pdf ) 
+- Vodka 
+
+ Titolo:   
+ Ethical Hacker’s Speech, II: Interventi Tecnici e 
+Tavola Rotonda - Full Day Edition 
+
+ Data:  
+ 26-10-2002 
+
+ Luogo:  
+ Fiera di Milano - SMAU 2002 
+
+ Abstract:  
+
+ Secondo Ethical Hacker's Speech promosso da ITBH. Anche quest'anno il convegno 
+ha l'obiettivo di presentare i lati inesplorati della sicurezza informatica, con 
+particolare riguardo per le nuove tecnologie. Tra le tematiche affrontate vi sono 
+la storia dell'ethical hacking, l'ingegneria sociale, la crittologia, gli attacchi 
+man-in-the-middle e l'insicurezza su reti wireless. Al termine degli interventi 
+tecnici avrà luogo una tavola rotonda, a cui il pubblico è invitato 
+a partecipare attivamente.
+
+ Scarica il programma della giornata 
+
+ Papers:  
+
+ Un'introduzione alla crittografia Open Source ( sxi , 
+ pdf ) - Cerin0 
+
+Web server ed applicazioni web ( pdf ) 
+- Koba 
+
+Social Engineering: Un'arma sottovalutata ( zip ) 
+- Pila 
+
+Ethical hacking, Unethical laws ( pdf ) 
+- Raistlin 
+
+Attacchi Man in the Middle ( pdf ) 
+- Alor , Naga 
+
+Wireless (in)security ( pdf ) - Naif 
+
+Storia ed Etica Hacker ( pdf ) 
+- Vodka , Nobody 
+
+ Foto:  
+
+ Titolo:   
+ ITBH @ Webb.it 02 
+
+ Data:  
+ dal 05-07-2002 al 07-07-2002 
+
+ Luogo:  
+ Padova fiere 
+
+ Abstract:  
+ Dalla passione alla professione: il più grande incontro 
+di conoscenze e di esperienze dei protagonisti di oggi e di domani dell'ICT.
+
+Professionisti, giovani talenti, usergroup, aziende e comunità dell'Information 
+Communication Technology discutono e sperimentano temi di attualità, nuove 
+tecnologie e prodotti. 
+
+ Papers:  
+ Firewall Demistified ( pdf ) 
+- Berry, Naga 
+
+Introduzione alla Crittografia ( pdf , 
+ ppt , sxi ) 
+- Cerin0 
+
+Intrusion Detection Systems ( pdf , 
+ ppt ) - Raistlin 
+
+Kernel rootkit: attacchi e contromisure ( pdf , 
+ ppt ) - Fusys 
+
+Man in the middle attacks ( pdf ) 
+- Alor , Naga 
+
+Programmazione sicura ( ppt ) 
+- Nextie 
+
+Log analysis ( ppt 1 , ppt 
+2 ) - Vodka , Hypo
+
+Storia ed etica Hacker ( pdf ) 
+- Vodka , Nobody 
+
+ Foto:  
+
+ Titolo:   
+ Ethical Hackers's Speech: interventi tecnici e tavola rotonda 
+
+ Data:  
+ 24-01-2002 
+
+ Luogo:  
+ Fiera di Milano - Infosecurity 2002 
+
+ Abstract:  
+ Il convegno ha l'obiettivo di presentare i lati inesplorati 
+della sicurezza informatica, le vulnerabilità che si nascondono dietro 
+alle tecnologie informatiche. Si parlerà di vulnerabilità note e 
+meno note e dei metodi "underground" utilizzabili per capirle e risolverle.
+
+Capiremo quindi perchè è importante che la cultura degli "hackers" 
+si affianchi alla cultura ufficiale al fine di migliorare la ICT Security.
+
+Gli interventi avranno un taglio estremamente tecnico, ove possibile saranno eseguite 
+anche demo.
+
+ Scarica il programma della giornata 
+
+ Papers:  
+ Introduzione ( pdf )
+
+Sovversioni del protocollo TCP, attacchi e contromisure ( pdf ) 
+- Fusys 
+
+Buffer overflow e dintorni ( ppt ) - 
+ Awgn 
+
+Smart Card (Java Card) ( pdf ) - Kiai 
+
+ Foto:  
+
+ Titolo:   
+ Sicurezza & Underground knowledge: le evoluzioni della 
+I.C.T. Security 
+
+ Data:  
+ 22-10-2001 
+
+ Luogo:  
+ Fiera di Milano - SMAU 2001 
+
+ Abstract:  
+ Prima conferenza ufficiale di presentazione del progetto Blackhats.it, 
+tenutasi nell'Area Security di SMAU 2001. Si è parlato, con frequenti interventi 
+da parte del pubblico, di storia e filosofia dell'hacking ( Nobody ), 
+hacking come fenomeno sociale ( Naif ), confini 
+tra hacking e criminalità (A. Scartezzini), hacking come ricerca scientifica 
+( Raptor ) e sicurezza che proviene dall'underground 
+( Koba ).
+
+ Leggi 
+l'articolo "Un raggio di luce su SMAU?" di Nobody 
+e M. Tracinà 
+
+ Papers:  
+ Introduzione ( ppt ) 
+
+ Foto:  
+
+ Copyfree 
+© 2002 - Blackhats.it

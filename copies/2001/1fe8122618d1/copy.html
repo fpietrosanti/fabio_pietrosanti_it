@@ -1,0 +1,2772 @@
+<meta charset="utf-8"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"    "http://www.w3.org/TR/html4/strict.dtd">
+<HTML LANG="it">
+<HEAD>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html">
+    <META NAME="Generator" CONTENT="Alml">
+    <META NAME="Description" CONTENT=" LDR: Linux Domande e Risposte FAQ su GNU/Linux in italiano ">
+    <META NAME="Keywords" CONTENT=" LDR, FAQ, linuxfaq, LINUXFAQ, linux faq, linux, Linux, ldr, L.D.R., l.d.r., faq, F.A.Q., f.a.q., Linux Domande e Risposte, Gaetano Paolone, Paolone ">
+    <META NAME="Author" CONTENT="Gaetano Paolone &lt;bigpaul@linuxfaq.it&gt;">
+    <META NAME="Date" CONTENT="(2001.08.10)">
+    <META NAME="Resource-type" LANG="en" CONTENT="Document" >
+    <META NAME="Revisit-after" LANG="en" CONTENT="15 days" >
+    <META NAME="Robots" CONTENT="ALL" >
+    <TITLE>LDR: Linux Domande e Risposte</TITLE>
+    <LINK REL="stylesheet" TYPE="text/css" HREF="ldr.css">
+    <LINK REL="Start" TITLE="Start" HREF="ldr.html">
+    <LINK REL="Prev" TITLE="Previous" HREF="ldr4.html">
+    <LINK REL="Next" TITLE="Next" HREF="ldr6.html">
+</HEAD>
+<BODY><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="http://www.pluto.it/files/ildp/LDR/ldr5.html#index1124">www.pluto.it/files/ildp/LDR/ldr5.html#index1124</a> · scripts removed</div>
+<P>
+<A HREF="ldr6.html">[successivo]</A>
+<A HREF="ldr4.html">[precedente]</A>
+<A HREF="ldr.html">[inizio]</A>
+<A HREF="ldr23.html">[fine]</A>
+<A HREF="ldr1.html">[indice generale]</A>
+<A HREF="ldr21.html">[hall of fame]</A>
+<A HREF="ldr23.html">[indice analitico]</A>
+<A HREF="ldr3.html">[parte]</A>
+</P>
+<HR>
+<DIV>
+<H1>Capitolo 2. &nbsp; <A NAME="title241"></A><A NAME="anchor261"></A> Reti e rete <A NAME="index1115"></A>Internet </H1>
+
+<H2>2.1 &nbsp; <A NAME="title242"></A><A NAME="anchor262"></A>
+ Generalit&agrave; e configurazione di una rete locale </H2>
+
+<P><STRONG>2.1.1)&nbsp;&nbsp;<A NAME="title243"></A><A NAME="anchor263"></A>
+ Come si imposta un dominio virtuale? <A NAME="index1116"></A> <A NAME="index1117"></A> <A NAME="index1118"></A> </STRONG></P>
+
+<P>Per impostare un dominio virtuale, si deve modificare il file <CODE>httpd.conf</CODE> che generalmente &egrave; presente nella directory <CODE>/etc/apache/</CODE> o in <CODE>/etc/</CODE>. Oltre a questa modifica si deve predisporre un <A NAME="index1119"></A>servizio di risoluzione dei nomi. Quest'ultimo pu&ograve; essere fatto mediante pacchetti appositi che gestiscono il DNS (<A NAME="index1120"></A>BIND) oppure modificando il file <CODE>/etc/hosts</CODE>.<SUP><A HREF="#footnote1" NAME="footnote-ref1">(1)</A></SUP></P>
+
+<P>Le modifiche da apportare al file <CODE>httpd.conf</CODE> sono le seguenti:</P>
+
+<PRE>NameVirtualHost IP_macchina
+
+&lt;VirtualHost dominiovirtuale&gt;
+   ServerAdmin amministratore@macchina
+   DocumentRoot /usr/local/httpd/dominiovirtuale/htdocs 
+   ServerName dominiovirtuale
+   ErrorLog log/dominiovirtuale.error.log
+   CustomLog log/dominiovirtuale.custom.log
+&lt;/VirtualHost&gt;</PRE>
+
+<UL>
+
+<LI>
+
+<P><VAR>macchina</VAR> &egrave; la macchina che ospita il <A NAME="index1122"></A>server HTTP;</P>
+</LI>
+
+<LI>
+
+<P><VAR>IP_macchina</VAR> &egrave; l'indirizzo IP della macchina che ospita il <A NAME="index1123"></A>server HTTP;</P>
+</LI>
+
+<LI>
+
+<P><VAR>dominiovirtuale</VAR> &egrave; il nome che si intende conferire al dominio virtuale;</P>
+</LI>
+
+<LI>
+
+<P><VAR>amministratore</VAR> &egrave; l'amministratore della macchina <VAR>macchina</VAR>;</P>
+</LI>
+
+<LI>
+
+<P><CODE>/usr/local/httpd/dominiovirtuale/htdocs</CODE> &egrave; la directory principale del dominio virtuale.</P>
+</LI>
+</UL>
+
+<P>Se l'indirizzo della macchina &egrave; 127.0.0.1 ed il suo nome &egrave; <SAMP>localhost</SAMP>, il file <CODE>/etc/hosts</CODE> si presenter&agrave; circa cos&igrave;:</P>
+
+<PRE>127.0.0.1       localhost</PRE>
+
+<P>Si dovr&agrave; semplicemente aggiungere un'altra riga relativa al dominio virtuale:</P>
+
+<PRE>127.0.0.1       localhost
+127.0.0.1       dominiovirtuale</PRE>
+
+<P>Potrebbe essere necessario permettere l'accesso alla directory contenente i file del dominio virtuale. In tal caso si dovr&agrave; modificare il file <CODE>access.conf</CODE> che generalmente &egrave; presente nella directory <CODE>/etc/apache/</CODE> o in <CODE>/etc/</CODE>. La modifica consister&agrave; nell'aggiunta delle seguenti righe al file:</P>
+
+<PRE>&lt;Directory /usr/local/httpd/dominiovirtuale/htdocs&gt;
+  Options Indexes SymLinksIfOwnerMatch
+  AllowOverride None
+  order deny,allow
+  allow from all
+&lt;/Directory&gt;</PRE>
+
+<P>Per rendere effettive tutte le modifiche apportate, sar&agrave; necessario rilanciare il demone <SAMP>apache</SAMP> con:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>apache restart</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote2" NAME="footnote-ref2">(2)</A></SUP></P>
+
+<P><STRONG>2.1.2)&nbsp;&nbsp;<A NAME="title244"></A><A NAME="anchor264"></A>
+ Come si pu&ograve; controllare il traffico giornaliero del sistema? <A NAME="index1124"></A> <A NAME="index1125"></A> <A NAME="index1126"></A> </STRONG></P>
+
+<P>Per poter visualizzare il traffico giornaliero dei servizi HTTP, SMTP, POP3, si potr&agrave; utilizzare il seguente <A NAME="index1127"></A>script: <SUP><A HREF="#footnote3" NAME="footnote-ref3">(3)</A></SUP> 2.2.<VAR>x</VAR>, con le opzioni <SAMP>CONFIG_FIREWALL</SAMP> e <SAMP>CONFIG_IP_FIREWALL</SAMP> abilitate.</P>
+
+<PRE>#!/bin/sh
+# Flusho i rules
+ipchains -F
+# Cancello i vari chain
+ipchains -X HTTP
+ipchains -X IMAP
+ipchains -X POP3
+ipchains -X SMTP-OUT
+ipchains -X SMTP-IN
+#creo i vari chain
+ipchains -N HTTP
+ipchains -N IMAP
+ipchains -N POP3
+ipchains -N SMTP-OUT
+ipchains -N SMTP-IN
+#ridirigo il traffico verso i chain creati
+ipchains -I output -j HTTP --source-port 80 -p tcp
+ipchains -I output -j IMAP --source-port 143 -p tcp
+ipchains -I output -j POP3 --source-port 110 -p tcp
+ipchains -I output -j SMTP-OUT --source-port 25 -p tcp
+ipchains -I input -j SMTP-IN --destination-port 25 -p tcp</PRE>
+
+<P>Dopo averlo lanciato, con i privilegi dell'utente <SAMP>root</SAMP>, per visualizzare il traffico giornaliero si dovr&agrave; impartire il comando:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>ipchains -L -n -v</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Ecco l'output di una condizione neutra:</P>
+
+<PRE>                                                      .
+Chain input (policy ACCEPT: 23 packets, 6746 bytes):
+ pkts bytes target     prot opt    tosa tosx  ifname     mark       
+    0     0 SMTP-IN    tcp  ------ 0xFF 0x00  *                     
+Chain forward (policy ACCEPT: 0 packets, 0 bytes):
+Chain output (policy ACCEPT: 23 packets, 6746 bytes):
+ pkts bytes target     prot opt    tosa tosx  ifname     mark       
+    0     0 SMTP-OUT   tcp  ------ 0xFF 0x00  *                     
+    0     0 POP3       tcp  ------ 0xFF 0x00  *                     
+    0     0 IMAP       tcp  ------ 0xFF 0x00  *                     
+    0     0 HTTP       tcp  ------ 0xFF 0x00  *                     
+Chain HTTP (1 references):
+Chain IMAP (1 references):
+Chain POP3 (1 references):
+Chain SMTP-OUT (1 references):
+Chain SMTP-IN (1 references):</PRE>
+
+<PRE>
+--- continua ---
+
+outsize  source                destination           ports
+         0.0.0.0/0            0.0.0.0/0             * -&gt;   25
+
+
+outsize  source                destination           ports
+         0.0.0.0/0            0.0.0.0/0             25 -&gt;   *
+         0.0.0.0/0            0.0.0.0/0             110 -&gt;   *
+         0.0.0.0/0            0.0.0.0/0             143 -&gt;   *
+         0.0.0.0/0            0.0.0.0/0             80 -&gt;   *
+</PRE>
+
+<P><STRONG>2.1.3)&nbsp;&nbsp;<A NAME="title245"></A><A NAME="anchor265"></A>
+ Come si abilita il <A NAME="index1129"></A>masquerading in una rete locale? <A NAME="index1130"></A> <A NAME="index1131"></A> <A NAME="index1132"></A> </STRONG></P>
+
+<P>Qualora si voglia <A NAME="index1133"></A>mascherare dietro un <A NAME="index1134"></A>firewall le macchine di una rete 192.168.1.0, si dovr&agrave; innanzitutto ricompilare il <A NAME="index1135"></A>kernel con le seguenti opzioni abilitate:<SUP><A HREF="#footnote4" NAME="footnote-ref4">(4)</A></SUP></P>
+<BLOCKQUOTE>
+
+<PRE>Network Firewalls
+IP: firewalling
+IP: always defragment
+IP: transparent proxy supp
+IP: Masquerading
+IP: ICMP masquerading</PRE>
+
+</BLOCKQUOTE>
+
+<P>Dopo aver caricato la nuova immagine del <A NAME="index1137"></A>kernel, si dovr&agrave; lanciare questo <A NAME="index1138"></A>script (e eventualmente provvedere ad automatizzarne l'esecuzione):</P>
+<BLOCKQUOTE>
+
+<PRE>#/bin/sh
+echo "1" &gt; /proc/sys/net/ipv4/ip_forward
+ipchains -M -S 7200 10 160
+ipchains -P forward DENY
+ipchains -A forward -s 192.168.1.0/24 -j MASQ</PRE>
+
+</BLOCKQUOTE>
+
+<UL>
+
+<LI>
+
+<P>La prima riga dello <A NAME="index1139"></A>script abilita la possibilit&agrave; di instradamento dei pacchetti attraverso la macchina <A NAME="index1140"></A>router;</P>
+</LI>
+
+<LI>
+
+<P>a seconda riga indica il <EM>timeout</EM> del <A NAME="index1141"></A>mascheramento;</P>
+</LI>
+
+<LI>
+
+<P>la terza indica la politica predefinita che in questo caso &egrave; quella di impedire il transito di qualsiasi pacchetto;</P>
+</LI>
+
+<LI>
+
+<P>l'ultima riga consente la possibilit&agrave; di transito esclusivamente alle macchine della rete 192.168.1.0/24.</P>
+</LI>
+</UL>
+
+<P><STRONG>2.1.4)&nbsp;&nbsp;<A NAME="title246"></A><A NAME="anchor266"></A>
+ Come si predispone un <A NAME="index1142"></A>firewall? <A NAME="index1143"></A> <A NAME="index1144"></A> <A NAME="index1145"></A> </STRONG></P>
+
+<P>Per impostare un <A NAME="index1146"></A>firewall, occorre che la macchina sia dotata di due schede di rete (una che sia collegata con la rete interna e una con la rete esterna. Quest'ultima scheda di rete pu&ograve; anche consistere in un modem). Si deve innanzitutto attivare l'instradamento della rete interna:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>route add -net 192.168.1.0 netmask 255.255.255.0 dev eth0</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Deve essere ora definito l'instradamento predefinito attraverso il <A NAME="index1147"></A>router 192.168.1.254:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>route add default gw 192.168.1.254 dev eth0</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote5" NAME="footnote-ref5">(5)</A></SUP></P>
+
+<P>Utilizzando un <A NAME="index1149"></A>kernel di versione 2.2.<VAR>x</VAR> o superiori dovr&agrave; essere abilitato l'instradamento dei pacchetti attraverso il <A NAME="index1150"></A>router:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>echo 1 &gt; /proc/sys/net/ipv4/ip_forward</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Utilizzando il <A NAME="index1151"></A>kernel 2.2.<VAR>x</VAR> o superiore, l'opzione <SAMP>Always Defrag</SAMP> (un tempo <SAMP>#define</SAMP> attivabile e disattivabile in fase di compilazione), &egrave; divenuta una chiamata di sistema. Dato che questa opzione &egrave; molto importante, ed &egrave; disabilitata in maniera predefinita, &egrave; consigliabile eseguire tale comando:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>echo 1 &gt; /proc/sys/net/ipv4/ip_always_defrag</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Questa opzione si preoccupa di riassemblare i pacchetti IP entranti prima che questi possano essere elaborati dal <A NAME="index1152"></A>firewall o reindirizzati altrove.</P>
+
+<P>Per impostare le regole che consentono o impediscono il transito dei pacchetti si dovr&agrave; utilizzare il comando <SAMP>ipchains</SAMP> con le opzioni relative. Ammettiamo ora che si debbano costituire le seguenti regole:</P>
+
+<UL>
+
+<LI>
+
+<P>bloccare tutti i pacchetti con indirizzo 127.<VAR>x</VAR>.<VAR>x</VAR>.<VAR>x</VAR> che non provengono dalla interfaccia di <EM>loopback</EM>;<SUP><A HREF="#footnote6" NAME="footnote-ref6">(6)</A></SUP></P>
+</LI>
+
+<LI>
+
+<P>bloccare tutti i pacchetti di controllo (ICMP) entranti<SUP><A HREF="#footnote7" NAME="footnote-ref7">(7)</A></SUP>;</P>
+</LI>
+
+<LI>
+
+<P>accettare i pacchetti della rete locale 192.168.1.0 diretti verso le porte FTP del <A NAME="index1154"></A>server il cui indirizzo IP &egrave; 345.125.6.121;</P>
+</LI>
+
+<LI>
+
+<P>accettare tutti i pacchetti diretti verso la porta WWW del <A NAME="index1155"></A>server;</P>
+</LI>
+
+<LI>
+
+<P>impedire l'accesso a tutti i pacchetti diretti verso altre porte.</P>
+</LI>
+</UL>
+
+<P>Le regole sopra esposte si traducono nei seguenti comandi:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>ipchains -A input --interface ! lo -s 127.0.0.0/8 -j DENY</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>ipchains -A input -p icmp --icmp-type echo-request -j DENY</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>ipchains -A input -s 192.168.1.0/24 -d 345.125.6.121 21 -p TCP -j ACCEPT</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>ipchains -A input -s 192.168.1.0/24 -d 345.125.6.121 20 -p TCP -j ACCEPT</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>ipchains -A input -d 345.125.6.121 80 -p TCP -j ACCEPT</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>ipchains -A input -d 345.125.6.121 0:1023 -p TCP -j DENY</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.1.5)&nbsp;&nbsp;<A NAME="title247"></A><A NAME="anchor267"></A>
+ Perch&eacute; non riesco ad uscire dalla rete locale attraverso il <A NAME="index1156"></A>gateway? Ho configurato tutto con attenzione ma non ci riesco. Perch&eacute;? <A NAME="index1157"></A> </STRONG></P>
+
+<P>Se si sono seguite attentamente le regole per impostare correttamente il <A NAME="index1158"></A>firewall, occorrer&agrave; modificare un parametro del <A NAME="index1159"></A>file&nbsp;system <CODE>/proc</CODE>. Il file in questione &egrave; <CODE>/proc/sys/net/ipv4/ip_forward</CODE>. Impartendo il comando <SAMP>cat</SAMP> su questo file presumibilmente si otterr&agrave; uno zero:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>cat /proc/sys/net/ipv4/ip_forward</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Per permettere il transito dei pacchetti attraverso il <A NAME="index1160"></A>firewall, occorrer&agrave; impostare tale valore ad 1:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>echo 1 &gt; /proc/sys/net/ipv4/ip_forward</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Ovviamente questa operazione va ripetuta ad ogni avvio del sistema. Qualora si utilizzi una distribuzione GNU/Linux <A NAME="index1161"></A>Red&nbsp;Hat sar&agrave; sufficiente rendere vera l'opzione &laquo;FORWARD_IPV4&raquo; presente nel file <CODE>/etc/sysconfig/network</CODE>.</P>
+
+<H2>2.2 &nbsp; <A NAME="title248"></A><A NAME="anchor268"></A>
+ FTP <A NAME="index1162"></A> </H2>
+
+<P><STRONG>2.2.1)&nbsp;&nbsp;<A NAME="title249"></A><A NAME="anchor269"></A>
+ Come si pu&ograve; fornire agli utenti solamente l'accesso FTP al sistema ma non un accesso <A NAME="index1163"></A>Telnet? <A NAME="index1164"></A> <A NAME="index1165"></A> <A NAME="index1166"></A> </STRONG></P>
+
+<P>Per impedire l'accesso <A NAME="index1167"></A>Telnet agli utenti si dovr&agrave; impartire il seguente comando dopo avere assunto l'identit&agrave; dell'utente <SAMP>root</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>usermod -s /bin/false/ nomeutente</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>In questo modo l'utente non potr&agrave; pi&ugrave; fare il <A NAME="index1168"></A>login.</P>
+
+<P>Allo stesso modo, si potr&agrave; impostare la <A NAME="index1169"></A>shell dell'utente cui si vuole negare l'accesso <A NAME="index1170"></A>Telnet mediante la modifica del file <CODE>/etc/passwd</CODE> sostituendo la <A NAME="index1171"></A>shell con <SAMP>/bin/false</SAMP>.</P>
+
+<P><STRONG>2.2.2)&nbsp;&nbsp;<A NAME="title250"></A><A NAME="anchor270"></A>
+ Come si pu&ograve; impedire l'accesso tramite FTP ad alcuni utenti? <A NAME="index1172"></A> <A NAME="index1173"></A> </STRONG></P>
+
+<P>Nel file <CODE>/etc/ftpusers</CODE> sono elencati gli utenti che non possono accedere al servizio FTP.</P>
+
+<P><STRONG>2.2.3)&nbsp;&nbsp;<A NAME="title251"></A><A NAME="anchor271"></A>
+ Dopo essersi connessi ad un sistema remoto, come si fa a mantenere attivo un comando FTP una volta disconnessi dal sistema stesso? <A NAME="index1174"></A> </STRONG></P>
+
+<P>Dopo essersi collegati al <A NAME="index1175"></A>server FTP, si potr&agrave; interrompere l'operazione che si sta effettuando mediante la combinazione di tasti [<KBD>Ctrl+z</KBD>]. Questa combinazione provoca l'interruzione del processo. Occorre quindi riattivarlo ma sar&agrave; neccessario inviarlo <A NAME="index1176"></A>sullo sfondo (<EM>background</EM>). A questo punto sar&agrave; possibile scollegarsi dal <A NAME="index1177"></A>server FTP mediante il comando <SAMP>exit</SAMP>.</P>
+
+<P><STRONG>2.2.4)&nbsp;&nbsp;<A NAME="title252"></A><A NAME="anchor272"></A>
+ Come si pu&ograve; realizzare un comando che invii ogni minuto un file via FTP? <A NAME="index1178"></A> </STRONG></P>
+
+<P>Ecco uno <A NAME="index1179"></A>script adatto a questo scopo:</P>
+
+<PRE>#!/usr/bin/expect -f
+set FTP /bin/ftp
+set HOST indirizzo_server_FTP_remoto
+set USER nome_utente
+set PASS mia_password
+set COMMAND "put /percorso_file /percorso_locale_file"
+set PROMPT ftp&gt;
+
+spawn $FTP $HOST
+send "$USER\r"
+expect Password:
+send "$PASS\r"
+expect $PROMPT
+send "$COMMAND\r"
+expect $PROMPT
+send "quit\r"</PRE>
+
+<P>Occorre definire le variabili nella parte superiore dello <A NAME="index1180"></A>script con i valori desiderati. Non si deve dimenticare di fornire i permessi di esecuzione allo <A NAME="index1181"></A>script e di inserirlo nelle pianificazioni di lavoro (<A NAME="index1182"></A> crontab) dell'utente desiderato. Ad esempio il comando:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>crontab -e tizio</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>aprir&agrave; per la modifica il file di configurazione della pianificazione dei lavori dell'utente <SAMP>tizio</SAMP>. Ammettendo che lo <A NAME="index1183"></A>script di nome <CODE>invia_file</CODE> sia stato copiato nella directory <CODE>/bin/</CODE>, la riga da inserire sar&agrave;</P>
+
+<PRE> */1 * * * *   /bin/invia_file 1&gt; /dev/null 2&gt; /tmp/errori</PRE>
+
+<P><STRONG>2.2.5)&nbsp;&nbsp;<A NAME="title253"></A><A NAME="anchor273"></A>
+ Come si concede il permesso di caricare file durante una sessione FTP? <A NAME="index1184"></A> </STRONG></P>
+
+<P>Per permettere ad un utente di poter caricare (<EM>upload</EM>) un file in una directory del <A NAME="index1185"></A>server FTP, si deve creare una directory con il permesso di scrittura abilitato. Occorre inoltre ricordare che il proprietario di tale directory deve essere <SAMP>ftp</SAMP>.</P>
+
+<P><STRONG>2.2.6)&nbsp;&nbsp;<A NAME="title254"></A><A NAME="anchor274"></A>
+ Descrizione di uno <A NAME="index1186"></A>script che permette di automatizzare diverse operazioni FTP. <A NAME="index1187"></A> </STRONG></P>
+
+<P>Automatizzare comandi FTP risulta possibile mediante <A NAME="index1188"></A>script. Se ad esempio si volessero automatizzare questi comandi:</P>
+
+<OL>
+
+<LI>
+
+<P>scaricare nella directory da cui lo <A NAME="index1189"></A>script viene lanciato tutti i file contenuti in una directory remota;</P>
+</LI>
+
+<LI>
+
+<P>copiare questi file in una directory remota di un altro <A NAME="index1190"></A>server FTP.</P>
+</LI>
+</OL>
+
+<P>si dovr&agrave; utilizzare uno <A NAME="index1191"></A>script simile al seguente:</P>
+<BLOCKQUOTE>
+
+<PRE>#!/bin/bash
+ftp -ni ftp.server.com &lt;&lt; __EOA__
+user login password
+cd /directory/origine/
+mget *
+bye
+__EOA__
+
+ftp -ni ftp.server2.com &lt;&lt; __EOB__
+user login2 password2
+cd /directory/destinazione/
+mput *
+bye
+__EOB__</PRE>
+
+</BLOCKQUOTE>
+
+<P>L'opzione <SAMP>-n</SAMP> evita il procedimento di <EM>auto-login</EM><SUP><A HREF="#footnote8" NAME="footnote-ref8">(8)</A></SUP> mentre l'opzione <SAMP>-i</SAMP> disattiva la modalit&agrave; interattiva consentendo la possibilit&agrave; di trasferire pi&ugrave; file<SUP><A HREF="#footnote9" NAME="footnote-ref9">(9)</A></SUP>.</P>
+
+<H2>2.3 &nbsp; <A NAME="title255"></A><A NAME="anchor275"></A>
+ <A NAME="index1193"></A>Telnet <A NAME="index1194"></A> </H2>
+
+<P><STRONG>2.3.1)&nbsp;&nbsp;<A NAME="title256"></A><A NAME="anchor276"></A>
+ Come si pu&ograve; visualizzare cosa digita un utente collegato in <A NAME="index1195"></A>Telnet? <A NAME="index1196"></A> </STRONG></P>
+
+<P>Per vedere cosa digita un utente in una <A NAME="index1197"></A>shell Bash, bisogna innanzitutto individuare il PID della <A NAME="index1198"></A>shell Bash; a questo punto &egrave; possibile impartire questo comando:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>strace -p <VAR>PID</VAR> -etrace=read</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote10" NAME="footnote-ref10">(10)</A></SUP></P>
+
+<P>L'output pu&ograve; risultare inizialmente caotico. Se nella <A NAME="index1200"></A>shell che si sta analizzando &egrave; stato digitato il comando <SAMP>ls</SAMP>, <SAMP>strace</SAMP> restituir&agrave; quanto segue:</P>
+<BLOCKQUOTE>
+
+<PRE>read(0, "l", 1)                      =1
+read(0, "s", 1)                      =1
+read(0, "\r", 1)                     =1
+--- SIGCHLD (Child exited) ---</PRE>
+
+</BLOCKQUOTE>
+
+<P><STRONG>2.3.2)&nbsp;&nbsp;<A NAME="title257"></A><A NAME="anchor277"></A>
+ Si pu&ograve; permettere l'accesso <A NAME="index1201"></A>Telnet al proprio sistema anche mediante un'altra porta? <A NAME="index1202"></A> <A NAME="index1203"></A> </STRONG></P>
+
+<P>Per far s&igrave; che il demone <SAMP>telnetd</SAMP> resti in ascolto su un'altra porta mantenendo attiva anche quella predefinita, si devono operare alcune modifiche. <A NAME="index1204"></A>Telnet viene predisposto attraverso la combinazione di 2 file: <CODE>/etc/inetd.conf</CODE> e <CODE>/etc/services</CODE>.</P>
+
+<P>Per il <A NAME="index1205"></A>Telnet sulla porta 23, che &egrave; la porta predefinita, si riscontreranno queste impostazioni nel file <CODE>services</CODE>:</P>
+
+<PRE>telnet      23/tcp</PRE>
+
+<P>e queste altre nel file <CODE>inetd.conf</CODE>:</P>
+
+<PRE>telnet  stream  tcp     nowait  root    /usr/sbin/tcpd  in.telnetd</PRE>
+
+<P>Sar&agrave; quindi necessario modificare esclusivamente il file <CODE>services</CODE> aggiungendo:</P>
+
+<PRE>telnet  8888/tcp</PRE>
+
+<P>se si desidera che <SAMP>telnetd</SAMP> accetti le richieste di <A NAME="index1206"></A>Telnet sulla porta 8888.</P>
+
+<P>A questo punto occorrer&agrave; riavviare il demone <SAMP>inetd</SAMP> per costringerlo a rileggere i file di configurazione.</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>killall -HUP inetd</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Si potr&agrave; ora digitare sul <A NAME="index1207"></A>client:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>telnet indirizzo 8888</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.3.3)&nbsp;&nbsp;<A NAME="title258"></A><A NAME="anchor278"></A>
+ Si pu&ograve; accedere ad una macchina solo da un terminale remoto? <A NAME="index1208"></A> <A NAME="index1209"></A> </STRONG></P>
+
+<P>Anche se sarebbe consigliato mantenere almeno una possibilit&agrave; di accedere localmente al sistema in oggetto, per ottenere un accesso esclusivamente in remoto al sistema si dovr&agrave; modificare il file <CODE>/etc/inittab</CODE> commentando (apponendo un <SAMP>#</SAMP> all'inizio delle righe) le righe:</P>
+
+<PRE>1:2345:respawn:/sbin/mingetty tty1
+2:2345:respawn:/sbin/mingetty tty2
+3:2345:respawn:/sbin/mingetty tty3
+4:2345:respawn:/sbin/mingetty tty4
+5:2345:respawn:/sbin/mingetty tty5
+6:2345:respawn:/sbin/mingetty tty6</PRE>
+
+<P><STRONG>2.3.4)&nbsp;&nbsp;<A NAME="title259"></A><A NAME="anchor279"></A>
+ Ci si pu&ograve; collegare attraverso <A NAME="index1210"></A>Telnet a una macchina remota accedendo come utente <SAMP>root</SAMP>? <A NAME="index1211"></A> <A NAME="index1212"></A> </STRONG></P>
+
+<P>Se si &egrave; ben coscienti di ci&ograve; che si sta facendo e dei rischi che si corrono, si deve rimuovere il file <CODE>/etc/securetty</CODE>. Se non si ha una reale necessit&agrave; di questa operazione, conviene creare un utente ed accedere al sistema da quello acquisendo i privilegi dell'utente <SAMP>root</SAMP> con:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>su -</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.3.5)&nbsp;&nbsp;<A NAME="title260"></A><A NAME="anchor280"></A>
+ C'&egrave; un'alternativa pi&ugrave; sicura a <A NAME="index1213"></A>Telnet? <A NAME="index1214"></A> </STRONG></P>
+
+<P>In una grande percentuale di casi, non si utilizza pi&ugrave; <A NAME="index1215"></A>Telnet ma <A NAME="index1216"></A>SSH (<A NAME="index1217"></A>Secure&nbsp;Shell). Se si deve fornire la possibilit&agrave; di accesso, andr&agrave; installato il demone <SAMP>sshd</SAMP> sulla macchina <A NAME="index1218"></A>server. Per accedere invece da remoto ad un <A NAME="index1219"></A>server <A NAME="index1220"></A>SSH, si dovr&agrave; installare il <A NAME="index1221"></A>client <A NAME="index1222"></A>SSH. Per collegarsi in <A NAME="index1223"></A>SSH al <A NAME="index1224"></A>server <SAMP>server_remoto</SAMP> si dovr&agrave; impartire il seguente comando:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>ssh -l <VAR>utente</VAR> server_remoto</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Il pacchetto <A NAME="index1225"></A>SSH di una distribuzione <A NAME="index1226"></A>Debian GNU/Linux si trova nella sezione <STRONG>non-US</STRONG> (nei CD-ROM o presso gli appositi <A NAME="index1227"></A>server come ad esempio &lt;<EM><A HREF="ftp://ftp.non-us.debian.org/debian/dists/stable/">ftp://ftp.non-us.debian.org/debian/dists/stable/</A></EM>&gt;).</P>
+
+<P>Si ricorda che esiste anche un <A NAME="index1228"></A>client per MS-Windows, chiamato <SAMP>putty</SAMP> reperibile presso &lt;<EM><A HREF="http://www.chiark.greenend.org.uk/~sgtatham/putty/">http://www.chiark.greenend.org.uk/~sgtatham/putty/</A></EM>&gt;.</P>
+
+<P><STRONG>2.3.6)&nbsp;&nbsp;<A NAME="title261"></A><A NAME="anchor281"></A>
+ Perch&eacute; alcuni servizi di rete (<A NAME="index1229"></A>Telnet, FTP, ecc.) sono molto lenti? <A NAME="index1230"></A> <A NAME="index1231"></A> </STRONG></P>
+
+<P>Qualora all'interno di una rete casalinga, i servizi di rete (<A NAME="index1232"></A>Telnet, FTP, ecc.) risultino lenti, si pu&ograve; provare ad inserire nel file <CODE>/etc/hosts</CODE> della macchina da cui ci si collega, una riga indicante l'IP ed il nome della macchina cui ci si vuole collegare. Ad esempio:</P>
+
+<PRE>192.168.1.1             server_rete</PRE>
+
+<P>In genere il rallentamento di questi servizi avvengono perch&eacute; il <A NAME="index1233"></A>server cui ci si collega tenta per un po' di autentificare la macchina richiedente.</P>
+
+<P><STRONG>2.3.7)&nbsp;&nbsp;<A NAME="title262"></A><A NAME="anchor282"></A>
+ Si possono automatizzare dei comandi da eseguire su un sistema remoto cui si abbia accesso attraverso <A NAME="index1234"></A>Telnet? <A NAME="index1235"></A> <A NAME="index1236"></A> </STRONG></P>
+
+<P>Il seguente <A NAME="index1237"></A>script apre una sessione <A NAME="index1238"></A>Telnet, esegue dei comandi associati allo <A NAME="index1239"></A>script stesso e infine e chiude la sessione:</P>
+<BLOCKQUOTE>
+
+<PRE>#!/usr/bin/expect
+# 
+# $argv contiene tutti i parametri passati allo script
+set cmd $argv
+
+# send_human occorre per l'opzione -h (human) di send
+set send_human {.1 3 1 .05 2}
+
+# Inizio del processo di connessione batch.
+spawn telnet localhost 23
+expect "ogin: "
+send "bigpaul\r"
+expect "assword: "
+send -h "parola_chiave\r"
+expect "bigpaul"
+send -h "$cmd\r"
+expect "bigpaul"
+send -h "exit\r"</PRE>
+
+</BLOCKQUOTE>
+
+<P>Si noti la presenza dell'opzione <SAMP>-h</SAMP> di <SAMP>send</SAMP>: essa, a causa del buffer di lettura di <A NAME="index1240"></A>login, fa in modo che l'invio dei caratteri avvenga a velocit&agrave; <EM>umana</EM>, secondo quanto impostato nella variabile <VAR>send_human</VAR>. A volte si utilizza direttamente l'opzione <SAMP>-s</SAMP> (<EM>send slow</EM>).</P>
+
+<P>Per maggiori informazioni sulle opzioni di <SAMP>send</SAMP>, si dovr&agrave; consultare la relativa <A NAME="index1241"></A> pagina di manuale <EM>expect</EM>(1).</P>
+
+<P>Un altro esempio di <A NAME="index1242"></A>script, che in questo caso utilizza un ciclo while &egrave; il seguente:</P>
+<BLOCKQUOTE>
+
+<PRE>#!/usr/bin/expect  
+#
+# Preleva 3 messaggi di posta via POP3
+
+set num_msg 1
+set n 3
+
+spawn telnet mail.commedia.it 110 
+expect "+OK" 
+send "USER bigpaul\r"   
+expect "welcome" 
+send "PASS parola_chiave\r"
+expect "+OK" 
+send "STAT\r"
+expect "+OK" 
+while {$num_msg &lt;= $n}  {
+        send "RETR $num_msg\r"  
+        expect "+OK"
+        puts "\rScaricato messaggio numero $num_msg\r"
+        set num_msg [ expr $num_msg + 1 ]
+        }       
+send "QUIT\r"</PRE>
+
+</BLOCKQUOTE>
+
+<P><STRONG>2.3.8)&nbsp;&nbsp;<A NAME="title263"></A><A NAME="anchor283"></A>
+ Come funziona la registrazione degli accessi avvenuti tramite <A NAME="index1243"></A>Telnet alle macchine? <A NAME="index1244"></A> <A NAME="index1245"></A> </STRONG></P>
+
+<P>Se si esegue una connessione <A NAME="index1246"></A>Telnet ad una macchina, ed &egrave; attivo il demone <SAMP>syslog</SAMP> essa viene registrata nel file <CODE>/var/log/daemon.log</CODE> con una riga simile alla seguente:</P>
+
+<PRE>Oct  6 19:23:51 irish in.telnetd[221]: connect from irish</PRE>
+
+<P>La registrazione avviene perch&eacute; nel file <CODE>/etc/syslog.conf</CODE> esiste una riga che determina la registrazione di tutti gli eventi dei demoni del sistema nel file <CODE>/var/log/daemon.log</CODE>:</P>
+<BLOCKQUOTE>
+
+<PRE>daemon.*                        -/var/log/daemon.log</PRE>
+
+</BLOCKQUOTE>
+
+<P><STRONG>2.3.9)&nbsp;&nbsp;<A NAME="title264"></A><A NAME="anchor284"></A>
+ Come si impedisce l'accesso al sistema tramite <A NAME="index1247"></A>Telnet? <A NAME="index1248"></A> <A NAME="index1249"></A> </STRONG></P>
+
+<P>Per evitare gli accessi al sistema occorre modificare i file <CODE>/etc/hosts.allow</CODE> e <CODE>/etc/hosts.deny</CODE>. Di questi due file viene letto prima il primo e poi il secondo. La politica predefinita consiste nel negare qualsiasi accesso:</P>
+
+<PRE>ALL: ALL</PRE>
+
+<P>in <CODE>/etc/host.deny</CODE>. I nodi autorizzati sono indicati invece nel file <CODE>/etc/host.allow</CODE>:</P>
+
+<PRE>ALL: LOCAL @some_netgroup
+ALL: .foobar.edu EXCEPT terminalserver.foobar.edu</PRE>
+
+<P>La prima regola concede l'accesso ai nodi del dominio locale e ai membri della rete <SAMP>some_netgroup</SAMP>. La seconda regola permette l'accesso da parte di tutti i nodi del dominio <SAMP>foobar_edu</SAMP> tranne che per il dominio <SAMP>terminalserver_foobar_edu</SAMP>.</P>
+
+<H2>2.4 &nbsp; <A NAME="title265"></A><A NAME="anchor285"></A>
+<A NAME="index1250"></A>SSH</H2>
+
+<P><STRONG>2.4.1)&nbsp;&nbsp;<A NAME="title266"></A><A NAME="anchor286"></A>
+ Come si copiano i file con <A NAME="index1251"></A>SSH? <A NAME="index1252"></A> <A NAME="index1253"></A> <A NAME="index1254"></A> <A NAME="index1255"></A> </STRONG></P>
+
+<P>Per copiare tutti i file della directory corrente in una directory che si trova su una macchina remota accessibile via <A NAME="index1256"></A>SSH si deve impartire il comando:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>scp * <VAR>utente</VAR>@<VAR>server</VAR>:/<VAR> directory</VAR>/<VAR>destinazione</VAR>/</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote11" NAME="footnote-ref11">(11)</A></SUP></P>
+
+<P><STRONG>2.4.2)&nbsp;&nbsp;<A NAME="title267"></A><A NAME="anchor287"></A>
+ Come si copiano intere porzioni di <A NAME="index1257"></A>file&nbsp;system (directory) con <A NAME="index1258"></A>SSH? <A NAME="index1259"></A> <A NAME="index1260"></A> <A NAME="index1261"></A> <A NAME="index1262"></A> </STRONG></P>
+
+<P>Per copiare una directory e le eventuali directory in essa contenute si deve utilizzare il comando <SAMP>scp</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>scp -r <VAR>directory</VAR> <VAR> utente</VAR>@<VAR>server</VAR>:/<VAR> directory</VAR>/<VAR>destinazione</VAR>/</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote12" NAME="footnote-ref12">(12)</A></SUP></P>
+
+<P>Per copiare ad esempio la directory <CODE>/home/utente/prova</CODE> all'interno della directory <CODE>/tmp/</CODE> della macchina <SAMP>fulmine1</SAMP> si da il comando:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>scp -r /home/utente/prova/ tizio@fulmine1:/tmp/ </CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>dove &laquo;tizio&raquo; &egrave; il nome dell'utente della macchina <SAMP>fulmine1</SAMP>.</P>
+
+<H2>2.5 &nbsp; <A NAME="title268"></A><A NAME="anchor288"></A>
+La condivisione delle risorse in rete</H2>
+
+<P><STRONG>2.5.1)&nbsp;&nbsp;<A NAME="title269"></A><A NAME="anchor289"></A>
+ Perch&eacute; non riesco a montare i <A NAME="index1264"></A>file&nbsp;system delle macchine di una rete locale? <A NAME="index1265"></A> <A NAME="index1266"></A> </STRONG></P>
+
+<P>Qualora venga visualizzato un messaggio di errore simile a <SAMP>mount: RPC: Program not registerd</SAMP> e risulti impossibile condividere le directory all'interno della propria rete, occorre assicurarsi che <CODE>/sbin/rpc.portmap</CODE>, <CODE>/usr/sbin/rpc.mountd</CODE> e <CODE>/usr/sbin/rpc.nfsd</CODE> vengano avviati all'avvio del sistema<SUP><A HREF="#footnote13" NAME="footnote-ref13">(13)</A></SUP>.</P>
+
+<P>Qualora i suddetti <A NAME="index1267"></A>script non siano stati avviati automaticamente si tenti di avviarli manualmente riprovando le operazioni di condivisione. Si deve ricordare infine che le directory da condividere vanno definite in <CODE>/etc/exports</CODE>. <EM>exports</EM>(5)</P>
+
+<P><STRONG>2.5.2)&nbsp;&nbsp;<A NAME="title270"></A><A NAME="anchor290"></A>
+ Come si fa ad utilizzare un'applicazione grafica (che giri sotto il <A NAME="index1268"></A>server <A NAME="index1269"></A>X) presente su una macchina della rete cui &egrave; collegata la propria macchina? <A NAME="index1270"></A> <A NAME="index1271"></A> <A NAME="index1272"></A> </STRONG></P>
+
+<P>Se <SAMP>macchinaA</SAMP> &egrave; la macchina su cui si sta lavorando e <SAMP>macchinaB</SAMP> &egrave; la macchina cui ci si collega e che contiene l'applicazione che vogliamo visualizzare sulla <SAMP>macchinaA</SAMP> si deve precedere nel seguente modo:</P>
+
+<P>innanzitutto su <SAMP>macchinaA</SAMP> si deve concedere l'autorizzazione alle richieste del <A NAME="index1273"></A>client di <SAMP>macchinaB</SAMP>:</P>
+
+<P class="command"><CODE>macchinaA:~$&nbsp;</CODE><STRONG><CODE>xhost +macchinaB</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Fatto ci&ograve;, dalla <SAMP>macchinaA</SAMP> occorre collegarsi in <SAMP>telnet</SAMP> alla <SAMP>macchinaB</SAMP>:</P>
+
+<P class="command"><CODE>macchinaA:~$&nbsp;</CODE><STRONG><CODE>telnet macchinaB</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Dopo avere effettuato il <A NAME="index1274"></A>login, occorrer&agrave; dare il comando:</P>
+
+<P class="command"><CODE>macchinaB:~$&nbsp;</CODE><STRONG><CODE>export DISPLAY=macchinaA:0</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote14" NAME="footnote-ref14">(14)</A></SUP></P>
+
+<P>o:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>setenv DISPLAY macchinaA:0</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote15" NAME="footnote-ref15">(15)</A></SUP></P>
+
+<P>che serve ad esportare la variabile&nbsp;<SAMP>DISPLAY</SAMP> verso la macchinaA.</P>
+
+<P>A questo punto lanciando l'applicazione grafica dalla macchinaB, la si vedr&agrave; sul monitor della macchinaA.</P>
+
+<P><STRONG>2.5.3)&nbsp;&nbsp;<A NAME="title271"></A><A NAME="anchor291"></A>
+ Come si pu&ograve; utilizzare il <A NAME="index1277"></A>display di un utente su quello di un altro? <A NAME="index1278"></A> </STRONG></P>
+
+<P>Se lavorando all'interno di un ambiente grafico (<A NAME="index1279"></A>X), si volesse mediante un terminale grafico assumere l'identit&agrave; di un altro utente e lanciare dal terminale stesso un'applicazione grafica, verr&agrave; restituito un errore del tipo:</P>
+<BLOCKQUOTE>
+
+<PRE>Xlib: connection to ":0.0" refused by server
+Xlib: Invalid MIT-MAGIC-COOKIE-1 key
+Application initialization failed: couldn't connect to display ":0.0"
+Error in startup script: invalid command name "command"
+    while executing
+[...]</PRE>
+
+</BLOCKQUOTE>
+
+<P>Per potere quindi essere in grado di lanciare applicazioni grafiche in qualit&agrave; di altro utente, si dovr&agrave; dare il comando:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>xhost +localhost</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote16" NAME="footnote-ref16">(16)</A></SUP></P>
+
+<P>In seguito, dopo avere assunto l'identit&agrave; dell'utente desiderato, si dovr&agrave; impartire il comando:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>export DISPLAY=localhost:0.0</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote17" NAME="footnote-ref17">(17)</A></SUP></P>
+
+<P>o:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>setenv DISPLAY localhost:0.0</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote18" NAME="footnote-ref18">(18)</A></SUP></P>
+
+<P>allo scopo di reindirizzare il display del'utente di cui si &egrave; assunta l'identit&agrave; verso il <A NAME="index1282"></A>server grafico dell'utente originario. Questo procedimento &egrave; identico a quello descritto nella LDR <A HREF="ldr5.html#anchor290">2.5.2</A> solo che in quel caso si trattava di due macchine collegate e non di due utenti sulla stessa macchina.</P>
+
+<P><STRONG>2.5.4)&nbsp;&nbsp;<A NAME="title272"></A><A NAME="anchor292"></A>
+ Come si copiano i file tra le macchine di una rete locale? <A NAME="index1283"></A> <A NAME="index1284"></A> </STRONG></P>
+
+<P>Per copiare i file da una macchina all'altra in rete si possono utilizzare i comandi <STRONG>r</STRONG>. Questi comandi permettono di utilizzare <A NAME="index1285"></A>shell e comandi in remoto.</P>
+
+<P>Occorre creare nella directory principale (<CODE>/</CODE>) delle due macchine (o nella directory <CODE>$HOME</CODE> dell'utente) il file <CODE>.rhosts</CODE>, nel quale dovranno essere elencati i sistemi al quale si permette l'accesso e gli utenti abilitati a farlo. Se si volesse consentire l'accesso a tutti baster&agrave; impartire il seguente comando:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>echo "+ +" &gt; .rhosts</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>su entrambe le macchine.</P>
+
+<P>A questo sar&agrave; possibile impartire il seguente comando:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>rlogin <VAR>macchina_remota</VAR></CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>per poter accedere all'altra macchina senza richiesta di <A NAME="index1286"></A>login e <A NAME="index1287"></A>password. Sar&agrave; inoltre possibile copiare file da una macchina all'altra senza FTP mediante il comando <SAMP>rcp</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>rcp <VAR>macchina_remota</VAR>:/<VAR>percorso </VAR>/* .</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Questo comando copier&agrave; tutti i file presenti nella directory remota indicata in <VAR>percorso</VAR> nella directory corrente.</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>rcp * <VAR>macchina_remota</VAR>:/<VAR>percorso</VAR> </CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Questo comando copier&agrave; invece tutti i file presenti nella directory corrente nella directory remota indicata in <VAR>percorso</VAR>.</P>
+
+<H2>2.6 &nbsp; <A NAME="title273"></A><A NAME="anchor293"></A>
+Terminali</H2>
+
+<P><STRONG>2.6.1)&nbsp;&nbsp;<A NAME="title274"></A><A NAME="anchor294"></A>
+ Come si possono simulare dei terminali sulla propria macchina? <A NAME="index1288"></A> </STRONG></P>
+
+<P>Si possono simulare fino a 6 console virtuali attraverso la combinazione [<KBD>Alt+F<VAR>n</VAR></KBD>] dove <VAR>n</VAR> &egrave; un numero che va da 1 a 6. Questi terminali virtuali sono impostati nel file <CODE>/etc/inittab</CODE>:</P>
+<BLOCKQUOTE>
+
+<PRE># /etc/inittab: init(8) configuration.
+# $Id: inittab,v 1.8 1998/05/10 10:37:50 miquels Exp $
+
+[...]
+
+# /sbin/getty invocations for the runlevels.
+#
+# The "id" field MUST be the same as the last
+# characters of the device (after "tty").
+#
+# Format:
+#  &lt;id&gt;:&lt;runlevels&gt;:&lt;action&gt;:&lt;process&gt;
+1:2345:respawn:/sbin/getty 38400 tty1
+2:23:respawn:/sbin/getty 38400 tty2
+3:23:respawn:/sbin/getty 38400 tty3
+4:23:respawn:/sbin/getty 38400 tty4
+5:23:respawn:/sbin/getty 38400 tty5
+6:23:respawn:/sbin/getty 38400 tty6</PRE>
+
+</BLOCKQUOTE>
+
+<P>Essi possono essere sia rimossi che aggiunti, eliminando o aggiungendo le righe atte a definirli.</P>
+
+<P><STRONG>2.6.2)&nbsp;&nbsp;<A NAME="title275"></A><A NAME="anchor295"></A>
+ <SAMP>terminal type not supported</SAMP> <A NAME="index1289"></A> <A NAME="index1290"></A> </STRONG></P>
+
+<P>Se durante un collegamento <A NAME="index1291"></A>Telnet alcuni programmi mostrano un messaggio del tipo: <SAMP>terminal type not supported</SAMP>, occorre modificare il contenuto della variabile <SAMP>TERM</SAMP>:</P>
+
+<P>Sulla console remota si dar&agrave; quindi il comando:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>export TERM=vt100</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote19" NAME="footnote-ref19">(19)</A></SUP></P>
+
+<P>o:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>setenv TERM vt100</CODE></STRONG>[<KBD>Invio </KBD>]<SUP><A HREF="#footnote20" NAME="footnote-ref20">(20)</A></SUP></P>
+
+<P>Oppure:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>export TERM=ansi</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote21" NAME="footnote-ref21">(21)</A></SUP></P>
+
+<P>o:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>$ setenv TERM ansi</CODE></STRONG>[<KBD>Invio </KBD>]<SUP><A HREF="#footnote22" NAME="footnote-ref22">(22)</A></SUP></P>
+
+<H2>2.7 &nbsp; <A NAME="title276"></A><A NAME="anchor296"></A>
+<A NAME="index1300"></A>Server web (<A NAME="index1301"></A>Apache, ecc.)</H2>
+
+<P><STRONG>2.7.1)&nbsp;&nbsp;<A NAME="title277"></A><A NAME="anchor297"></A>
+ Perch&eacute; il mio navigatore non interpreta affatto i <A NAME="index1302"></A>tag (marcatori) <A NAME="index1303"></A>HTML dei file presenti nel mio <A NAME="index1304"></A>server? <A NAME="index1305"></A> <A NAME="index1306"></A> </STRONG></P>
+
+<P>Qualora i file <CODE>.html</CODE> inseriti nell'albero delle directory del proprio <A NAME="index1307"></A>server web, non vengano interpretati correttamente e vengano visualizzati come file testuali, si dovr&agrave; modificare il file <CODE>/etc/mime.types</CODE>. Probabilmente sar&agrave; presente una riga in cui &egrave; specificato il formato <CODE>.htm</CODE>. Baster&agrave; aggiungere un'altra riga identica sostituendo <CODE>.htm</CODE> con <CODE>.html</CODE>.</P>
+
+<P><STRONG>2.7.2)&nbsp;&nbsp;<A NAME="title278"></A><A NAME="anchor298"></A>
+ Come vengono gestite le variabili tra due pagine <A NAME="index1308"></A>PHP? <A NAME="index1309"></A> </STRONG></P>
+
+<P>Se in un form viene definita una variabile, ad esempio <VAR>prova</VAR> nella pagina PHP che il form richiama, tale variabile sar&agrave; identificata apponendo <SAMP>$</SAMP> davanti la variabile. (<VAR>$prova</VAR>)</P>
+
+<P><STRONG>2.7.3)&nbsp;&nbsp;<A NAME="title279"></A><A NAME="anchor299"></A>
+ Come si configura il <A NAME="index1310"></A>server <A NAME="index1311"></A>Apache per gestire le pagine scritte in <A NAME="index1312"></A>PHP? <A NAME="index1313"></A> <A NAME="index1314"></A> <A NAME="index1315"></A> </STRONG></P>
+
+<P>Per configurare <A NAME="index1316"></A>Apache per fare in modo che gestisca pagine <A NAME="index1317"></A>PHP, &egrave; necessario far caricare ad <A NAME="index1318"></A>Apache  i moduli relativi a <A NAME="index1319"></A>PHP. I file <CODE>/etc/httpd/conf/httpd.conf</CODE><SUP><A HREF="#footnote23" NAME="footnote-ref23">(23)</A></SUP> e <CODE>/etc/httpd/conf/srm.conf</CODE><SUP><A HREF="#footnote24" NAME="footnote-ref24">(24)</A></SUP> sono i file di configurazione che vanno modificati. A volte essi contengono le linee necessarie (di solito sono commentate: basta eliminare il carattere <SAMP>#</SAMP> presente all'inizio delle righe che devono essere &laquo;attivate&raquo;.):</P>
+
+<UL>
+
+<LI>
+
+<P>In <CODE>httpd.conf</CODE> sono due i punti da modificare, entrambi nella sezione <SAMP>Dynamic Shared Object(DSO) Support</SAMP>:</P>
+
+<OL>
+
+<LI>
+
+<P>Nella parte relativa al caricamento dei moduli, in &laquo;extra modules&raquo;, vanno aggiunte (o vanno tolti i commenti se gi&agrave; esistono) le righe seguenti:</P>
+<BLOCKQUOTE>
+
+<PRE>LoadModule  php_module  modules/mod_php.so
+LoadModule  php3_module  modules/libphp3.so</PRE>
+
+</BLOCKQUOTE>
+</LI>
+
+<LI>
+
+<P>Nella parte di aggiunta dei moduli (dopo la riga &laquo;ClearModuleList&raquo;), sempre in &laquo;extra modules&raquo;, vanno aggiunte (o vanno tolti i commenti se gi&agrave; esistono) le righe seguenti:</P>
+<BLOCKQUOTE>
+
+<PRE>AddModule mod_php.c
+AddModule mod_php3.c</PRE>
+
+</BLOCKQUOTE>
+</LI>
+</OL>
+</LI>
+
+<LI>
+
+<P>All'interno del file <CODE>srm.conf</CODE>, vanno aggiunte (o vanno tolti i commenti se gi&agrave; esistono) le righe seguenti, che permettono di associare <A NAME="index1320"></A>PHP ai file con estensione <CODE>.php3</CODE>:</P>
+<BLOCKQUOTE>
+
+<PRE>AddType application/x-httpd-php3 .php3
+AddType application/x-httpd-php3-source .phps</PRE>
+
+</BLOCKQUOTE>
+</LI>
+</UL>
+
+<P>Per rendere effettive le modifiche, si deve riavviare <A NAME="index1321"></A>Apache:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>apache restart</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.7.4)&nbsp;&nbsp;<A NAME="title280"></A><A NAME="anchor300"></A>
+ Come si configura il <A NAME="index1322"></A>server <A NAME="index1323"></A>Apache per gestire le pagine scritte in <A NAME="index1324"></A>ASP (<EM>Amsterdam SGML Parser</EM>)? <A NAME="index1325"></A> </STRONG></P>
+
+<P>Per fare in modo che <A NAME="index1326"></A>Apache utilizzi l'<A NAME="index1327"></A>ASP, si devono installare e configurare le opportune librerie:</P>
+
+<UL>
+
+<LI>
+
+<P><SAMP>libapache-asp-perl</SAMP><SUP><A HREF="#footnote25" NAME="footnote-ref25">(25)</A></SUP></P>
+</LI>
+</UL>
+
+<P><STRONG>2.7.5)&nbsp;&nbsp;<A NAME="title281"></A><A NAME="anchor301"></A>
+ Esiste un modo per convertire le pagine scritte in <A NAME="index1329"></A>ASP in <A NAME="index1330"></A>PHP? <A NAME="index1331"></A> <A NAME="index1332"></A> <A NAME="index1333"></A> <A NAME="index1334"></A> </STRONG></P>
+
+<P>Per convertire gli <A NAME="index1335"></A>script ASP in <A NAME="index1336"></A>PHP, si pu&ograve; utilizzare <SAMP>asp2php</SAMP> (&lt;<EM><A HREF="http://home.i1.net/~naken/asp2php/">http://home.i1.net/~naken/asp2php/</A></EM>&gt;).</P>
+
+<P><STRONG>2.7.6)&nbsp;&nbsp;<A NAME="title282"></A><A NAME="anchor302"></A>
+ Come si fa a proteggere alcune pagine <A NAME="index1337"></A>HTML da una <A NAME="index1338"></A>password? <A NAME="index1339"></A> <A NAME="index1340"></A> </STRONG></P>
+
+<P>Per permettere l'accesso ad alcune pagine HTML solo a chi ha la <A NAME="index1341"></A>password occorre inserire le seguenti direttive nel file <CODE>/etc/apache/access.conf</CODE>:<SUP><A HREF="#footnote26" NAME="footnote-ref26">(26)</A></SUP></P>
+<BLOCKQUOTE>
+
+<PRE>&lt;Directory /directory/da/proteggere&gt;
+AuthType Basic
+AuthName Nome_della_struttura_di_appartenenza
+AuthGroupFile /file/dei/gruppi
+AuthUserFile /file/degli/utenti
+&lt;Limit GET POST&gt;
+require valid-user
+&lt;/Limit&gt;
+&lt;/Directory&gt; </PRE>
+
+</BLOCKQUOTE>
+
+<H2>2.8 &nbsp; <A NAME="title283"></A><A NAME="anchor303"></A>
+ <A NAME="index1342"></A>Samba <A NAME="index1343"></A> <A NAME="index1344"></A> </H2>
+
+<P><STRONG>2.8.1)&nbsp;&nbsp;<A NAME="title284"></A><A NAME="anchor304"></A>
+ Quale <A NAME="index1345"></A>password deve essere inserita se si accede attraverso <A NAME="index1346"></A>Samba da una macchina MS-Windows a una GNU/Linux? <A NAME="index1347"></A> <A NAME="index1348"></A> <A NAME="index1349"></A> </STRONG></P>
+
+<P>Qualora, interrogando la rete da <SAMP>Risorse di Rete</SAMP> di MS-Windows, si tenti di accedere ad una macchina GNU/Linux ricevendo la richiesta della <A NAME="index1350"></A>password, si dovranno apportare alcune modifiche. Innanzitutto, nella sezione <SAMP>global</SAMP> di <CODE>smb.conf</CODE>, dovr&agrave; essere inserita la seguente riga:</P>
+<BLOCKQUOTE>
+
+<PRE>null passwords = yes </PRE>
+
+</BLOCKQUOTE>
+
+<P>Bisogna comunque tenere presenti alcuni punti importanti. Innanzitutto dalle ultime versioni di MS-Windows 95 in poi le <A NAME="index1351"></A>password risultano essere criptate. A questo punto ci sono due soluzioni:</P>
+
+<OL>
+
+<LI>
+
+<P>Abilitare la criptazione delle <A NAME="index1352"></A> password in <A NAME="index1353"></A>Samba. Questo si pu&ograve; fare modificando il file <CODE>/etc/smb.conf</CODE> e utilizzando <SAMP>smbpasswd</SAMP> per creare le <A NAME="index1354"></A> password per ogni utente che andranno inserite in un file che deve a sua volta essere indicato all'interno di <CODE>/etc/smb.conf</CODE>;</P>
+</LI>
+
+<LI>
+
+<P>modificare i registri di MS-Windows con <SAMP>regedit</SAMP>, in questo modo:</P>
+
+<UL>
+
+<LI>
+
+<P>Trovare la chiave <SAMP>/HKEY_LOCAL_MACHINE/System/</SAMP> <SAMP>CurrentControlSet/Services/VxD/VNETSUP</SAMP>;</P>
+</LI>
+
+<LI>
+
+<P>selezionare <SAMP>Modifica/Nuovo/Valore DWORD</SAMP>;</P>
+</LI>
+
+<LI>
+
+<P>rinominare l'etichetta da <SAMP>Nuovo Valore #1</SAMP> a <SAMP>EnablePlainTextPassword</SAMP>;</P>
+</LI>
+
+<LI>
+
+<P>premere [<KBD>Invio</KBD>] sopra la voce e inserire il numero 1 nella finestra che si apre.</P>
+</LI>
+</UL>
+
+<P>Si pu&ograve; in ogni caso utilizzare anche il file <CODE>Win98_PlainPassword.reg</CODE> presente nel pacchetto <A NAME="index1355"></A>Samba.</P>
+</LI>
+</OL>
+
+<P><STRONG>2.8.2)&nbsp;&nbsp;<A NAME="title285"></A><A NAME="anchor305"></A>
+ Qual &egrave; un esempio di <CODE>smb.conf</CODE> ben configurato? <A NAME="index1356"></A> </STRONG></P>
+
+<P>Il seguente file <CODE>smb.conf</CODE> imposta la condivisione delle directory <CODE>/home/utente/</CODE>, <CODE>/tmp/</CODE> e <CODE>/publicfiles/</CODE> e della stampante <SAMP>lp</SAMP>.</P>
+<BLOCKQUOTE>
+
+<PRE>[global]
+ printing = bsd
+ printcap name = /etc/printcap
+ log file = /var/log/samba-log.%m
+ lock directory = /var/lock/samba
+ share modes = yes
+ workgroup = WORKGROUP
+
+[lp]
+ comment = Stampante Linux
+ path = /var/spool/lpd/lp
+ writable = no
+ public = yes
+ printable = yes
+ browsable = yes
+
+[homes]
+ comment = Directory Personale
+ browsable = no
+ read
+ create mode = 0750
+
+[tmp]
+ comment = Spazio per file temporanei
+ path = /tmp
+ read
+ public = yes
+
+[public]
+ comment = Pubblicamente Accessibile
+ path = /publicfiles
+ public = yes
+ writable = yes</PRE>
+
+</BLOCKQUOTE>
+
+<P><STRONG>2.8.3)&nbsp;&nbsp;<A NAME="title286"></A><A NAME="anchor306"></A>
+ Come si ricevono i messaggi di <A NAME="index1357"></A>WinPopUp con <A NAME="index1358"></A>LinPopUp? <A NAME="index1359"></A> <A NAME="index1360"></A> <A NAME="index1361"></A> </STRONG></P>
+
+<P>Per ricevere i messaggi di <A NAME="index1362"></A>WinPopUp con <A NAME="index1363"></A>LinPopUp, &egrave; necessario, dopo aver installato <A NAME="index1364"></A>Samba e <A NAME="index1365"></A>LinPopUp inserire in <CODE>/etc/smb.conf</CODE> nella sezione <SAMP>[global]</SAMP> le seguenti righe:</P>
+<BLOCKQUOTE>
+
+<PRE>message command = /usr/bin/LinPopUp "%f" "%m" %s; rm %s</PRE>
+
+</BLOCKQUOTE>
+
+<P>Occorre ricordarsi ovviamente di modificare opportunamente il percorso di <A NAME="index1366"></A>LinPopUp.</P>
+
+<P><STRONG>2.8.4)&nbsp;&nbsp;<A NAME="title287"></A><A NAME="anchor307"></A>
+ Perch&eacute; non si vedono le icone delle macchine GNU/Linux in <SAMP>Risorse di Rete</SAMP> di MS-Windows? <A NAME="index1367"></A> <A NAME="index1368"></A> </STRONG></P>
+
+<P>Qualora non si vedano le icone delle macchine GNU/Linux connesse alla macchina MS-Windows in <SAMP>Risorse di Rete</SAMP>, occorre mettere la seguente riga nella sezione <SAMP>[global]</SAMP> del file <CODE>/etc/smb.conf</CODE>:</P>
+<BLOCKQUOTE>
+
+<PRE>interfaces = &lt;ip_interfaccia_di_rete_macchina_GNU/Linux&gt;/24</PRE>
+
+</BLOCKQUOTE>
+
+<P>Ad es.:</P>
+
+<PRE>interfaces = 192.168.1.1/24</PRE>
+
+<P><STRONG>2.8.5)&nbsp;&nbsp;<A NAME="title288"></A><A NAME="anchor308"></A>
+ Come si copiano i file tra una macchina GNU/Linux e una MS-Windows collegate attraverso <A NAME="index1369"></A>Samba? <A NAME="index1370"></A> <A NAME="index1371"></A> </STRONG></P>
+
+<P>Per poter copiare file da una macchina MS-Windows ad una GNU/Linux, &egrave; possibile accedere a quest'ultima mediante <SAMP>Risorse di Rete</SAMP> o attraverso il protocollo FTP. Per poter invece copiare file da una macchina GNU/Linux a una MS-Windows, si dovr&agrave; procedere a <A NAME="index1372"></A>montare le directory condivise mediante <SAMP>smbmount</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>smbmount //<VAR>macchina_MS-Windows</VAR>/<VAR>directory</VAR> /<VAR>punto_di_montaggio</VAR> </CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.8.6)&nbsp;&nbsp;<A NAME="title289"></A><A NAME="anchor309"></A>
+ Come si fa a stampare da una macchina GNU/Linux collegata ad una rete MS-Windows tramite <A NAME="index1373"></A>Samba? <A NAME="index1374"></A> <A NAME="index1375"></A> </STRONG></P>
+
+<P>Per stampare un file da una macchina GNU/Linux collegata ad una macchina MS-Windows mediante <A NAME="index1376"></A>Samba, occorrer&agrave; dare un comando simile al seguente:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>cat <VAR>file</VAR> | <VAR>nome_filtro</VAR> | smbclient "\\\\<VAR> SERVER</VAR>\\<VAR>STAMPANTE</VAR>" <VAR>PASSWORD</VAR> -U <VAR>UTENTE</VAR> -P -c 'print -' </CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.8.7)&nbsp;&nbsp;<A NAME="title290"></A><A NAME="anchor310"></A>
+ Se ci si collega da una macchina MS-Windows ad una GNU/Linux, vorrei che venisse chiesta la <A NAME="index1377"></A>password solo per le directory degli utenti e non per la directory indicata in <SAMP>[public]</SAMP>. Come si fa? <A NAME="index1378"></A> <A NAME="index1379"></A> </STRONG></P>
+
+<P>Ecco un esempio di <CODE>smb.conf</CODE> adatto a questo scopo:</P>
+
+<PRE># Global parameters
+        workgroup = SOFTHOR
+        netBIOS name = LINUX.SOFTHOR
+        server string = Linux Server
+        security = SHARE
+        update encrypted = Yes
+        map to guest = Bad Password
+        log level = 0
+        printcap name = /etc/printcap
+        guest account = guestpc
+        hosts allow = 192.168.0. 127.
+        printing = bsd
+
+[public]
+        comment = Public Directory
+        path = /home/samba
+        read
+        guest ok = Yes
+
+[backup]
+
+[...]</PRE>
+
+<P><STRONG>2.8.8)&nbsp;&nbsp;<A NAME="title291"></A><A NAME="anchor311"></A>
+ Come si deve configurare il file <CODE>smb.conf</CODE> per dare un nome mediante il <EM>name&nbsp;server</EM> <A NAME="index1380"></A>NetBIOS alla macchina Linux collegata ad una rete servita da un <A NAME="index1381"></A> server <A NAME="index1382"></A>DHCP? <A NAME="index1383"></A> </STRONG></P>
+
+<P>Per ottenere questo risultato, occorre aggiungere alla sezione global di <CODE>/etc/smb.conf</CODE> la seguente riga:</P>
+
+<PRE>netBIOS name = nome</PRE>
+
+<P>dove <VAR>nome</VAR> &egrave; il nome della macchina <A NAME="index1384"></A>NetBIOS.</P>
+
+<H2>2.9 &nbsp; <A NAME="title292"></A><A NAME="anchor312"></A>
+Plip</H2>
+
+<P><STRONG>2.9.1)&nbsp;&nbsp;<A NAME="title293"></A><A NAME="anchor313"></A>
+ Come si imposta il MTU (<EM>Max Transfer Unit </EM>) di una connessione tramite protocollo PLIP? <A NAME="index1385"></A> </STRONG></P>
+
+<P>Occorre definirlo al momento della dichiarazione dell'interfaccia mediante <SAMP>ifconfig</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>ifconfig plip0 mtu 512 10.0.0.1 pointopoint 20.0.0.2 up</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<H2>2.10 &nbsp; <A NAME="title294"></A><A NAME="anchor314"></A>
+ Connessione al <A NAME="index1386"></A>provider - ppp <A NAME="index1387"></A> <A NAME="index1388"></A> <A NAME="index1389"></A> </H2>
+
+<P><STRONG>2.10.1)&nbsp;&nbsp;<A NAME="title295"></A><A NAME="anchor315"></A>
+ Esiste un programma che faciliti la connessione al <A NAME="index1390"></A>provider in una distribuzione GNU/Linux <A NAME="index1391"></A>Debian? <A NAME="index1392"></A> <A NAME="index1393"></A> <A NAME="index1394"></A> </STRONG></P>
+
+<P><A NAME="index1395"></A>Debian GNU/Linux &egrave; una distribuzione generalmente accompagnata da <SAMP>pppconfig</SAMP><SUP><A HREF="#footnote27" NAME="footnote-ref27">(27)</A></SUP> che &egrave; un programma di utilit&agrave; interattivo creato appunto con lo scopo di stabilire una connessione al proprio <A NAME="index1396"></A>provider.</P>
+
+<P><STRONG>2.10.2)&nbsp;&nbsp;<A NAME="title296"></A><A NAME="anchor316"></A>
+ Come si pu&ograve; verificare se nel sistema &egrave; stato installato il protocollo PPP? <A NAME="index1397"></A> <A NAME="index1398"></A> </STRONG></P>
+
+<P>Per verificare se il protocollo PPP &egrave; stato caricato nel sistema, si procede con i seguenti comandi:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>cat /usr/include/linux/autoconf.h | grep PPP</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>o con:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>lsmod | grep ppp</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>per verificare se &egrave; compilato come modulo o se &egrave; stato incluso all'interno dell'immagine del <A NAME="index1399"></A>kernel.</P>
+
+<P>Qualora i sopra indicati comandi non restituiscano nulla relativo al protocollo PPP, allora si dovr&agrave; procedere alla ricompilazione del <A NAME="index1400"></A>kernel includendone il supporto o in modalit&agrave; monolitica o in modalit&agrave; modulare.</P>
+
+<P><STRONG>2.10.3)&nbsp;&nbsp;<A NAME="title297"></A><A NAME="anchor317"></A>
+ Come si possono visualizzare in tempo reale i processi di connessione al <A NAME="index1401"></A>provider? <A NAME="index1402"></A> <A NAME="index1403"></A> </STRONG></P>
+
+<P>Impartendo il comando <SAMP>ifconfig</SAMP> dopo avere avviato la connessione ad <A NAME="index1404"></A>Internet permetter&agrave; di sapere se &egrave; stata attivata l'interfaccia di rete <SAMP>ppp</SAMP>.</P>
+
+<P>Qualora infatti la connessione avesse avuto successo, con il comando <SAMP>ifconfig</SAMP> si vedr&agrave; visualizzata, oltre alla interfaccia di <EM>loopback</EM> <SAMP>lo</SAMP> (e eventualmente quella o quelle di rete, <SAMP>eth0</SAMP> ad esempio) l'interfaccia <SAMP>ppp</SAMP>:</P>
+<BLOCKQUOTE>
+
+<PRE>lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:3924  Metric:1
+          RX packets:112 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:112 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+
+ppp       Link encap: 
+
+[...]
+</PRE>
+
+</BLOCKQUOTE>
+
+<P>Un metodo pi&ugrave; comodo &egrave; sicuramente quello di vedere in tempo reale gli aggiornamenti del file <CODE>/var/log/messages</CODE>. Questo pu&ograve; essere fatto con:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>tail -d /var/log/messages</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Potrebbe risultare utile inserire tale comando in uno <A NAME="index1405"></A>script. Ad es.:</P>
+
+<PRE>#!/bin/sh
+pppd
+xterm -e tail -f /var/log/messages</PRE>
+
+<P><STRONG>2.10.4)&nbsp;&nbsp;<A NAME="title298"></A><A NAME="anchor318"></A>
+ <SAMP>pppd: The remote system is required to authenticate itself but...</SAMP> <A NAME="index1406"></A> <A NAME="index1407"></A> </STRONG></P>
+
+<P>Qualora, nel corso di un tentativo di connessione, si riscontri questo tipo di errore: <SAMP>&laquo;pppd: The remote system is required to authenticate itself but I couldn't find any secret (password) which would let it use an IP address.&raquo;</SAMP> occorrer&agrave; mettere la riga <SAMP>noauth</SAMP> nel file <CODE>/etc/ppp/options</CODE>, per risolvere il problema.</P>
+
+<P><STRONG>2.10.5)&nbsp;&nbsp;<A NAME="title299"></A><A NAME="anchor319"></A>
+ Si possono ottenere dei dati sulla connessione ad <A NAME="index1408"></A>Internet? <A NAME="index1409"></A> <A NAME="index1410"></A> </STRONG></P>
+
+<P>Per poter visualizzare alcuni dati concernenti una connessione PPP si utilizza il comando <SAMP>pppstat</SAMP>.</P>
+
+<P><STRONG>2.10.6)&nbsp;&nbsp;<A NAME="title300"></A><A NAME="anchor320"></A>
+ Perch&eacute; durante l'avvio di <SAMP>kppp</SAMP> (<A NAME="index1411"></A> KDE 2.<VAR>x</VAR>) viene visualizzato un errore relativo al <EM>timeout</EM>? <A NAME="index1412"></A> <A NAME="index1413"></A> <A NAME="index1414"></A> </STRONG></P>
+
+<P>Occorre verificare i seguenti punti per risolvere il problema:</P>
+
+<UL>
+
+<LI>
+
+<P>controllare se &egrave; presente il <A NAME="index1415"></A> collegamento simbolico del modem a <CODE>/dev/modem </CODE>;</P>
+</LI>
+
+<LI>
+
+<P>eliminare o commentare la riga <SAMP>lock</SAMP> presente nel file <CODE>/etc/ppp/options</CODE>;</P>
+</LI>
+
+<LI>
+
+<P>impostare il <EM>timeout</EM> a 50-60 secondi nella scheda Modem del <SAMP>kppp</SAMP>;</P>
+</LI>
+
+<LI>
+
+<P>tentare di diminuire la velocit&agrave; di connessione.</P>
+</LI>
+</UL>
+
+<P><STRONG>2.10.7)&nbsp;&nbsp;<A NAME="title301"></A><A NAME="anchor321"></A>
+ Perch&eacute; <SAMP>kppp</SAMP> (<A NAME="index1416"></A>KDE 2.<VAR>x </VAR>) non riesce a creare il file di lock? <A NAME="index1417"></A> <A NAME="index1418"></A> </STRONG></P>
+
+<P>Il file di <A NAME="index1419"></A>blocco (<EM>lock</EM>) ha lo scopo di permettere un utilizzo esclusivo di una determinata risorsa. In pratica, in questo caso, serve per impedire agli altri utenti di utilizzare il modem visto che adesso &egrave; impegnato da un altro utente.</P>
+
+<P>Se si vuole disabilitare questa opzione, la si deve deselezionare in <SAMP>kppp</SAMP> oppure si deve commentare<SUP><A HREF="#footnote28" NAME="footnote-ref28">(28)</A></SUP> l'apposita riga (<SAMP>lock</SAMP>) presente nel file <CODE>/etc/ppp/option</CODE> .</P>
+
+<P><STRONG>2.10.8)&nbsp;&nbsp;<A NAME="title302"></A><A NAME="anchor322"></A>
+ Perch&eacute; lanciando da utente <SAMP>kppp</SAMP> (<A NAME="index1420"></A>KDE  2.<VAR>x</VAR>), viene chiesta la <A NAME="index1421"></A>password di <SAMP>root</SAMP>? <A NAME="index1422"></A> </STRONG></P>
+
+<P>In genere questo accade perch&eacute; il file <CODE>kppp</CODE> presente in <CODE>/usr/bin</CODE> &egrave; un <A NAME="index1423"></A>collegamento simbolico al programma <SAMP>consolehelper</SAMP> che impedisce l'esecuzione diretta del programma in questione (<SAMP>kppp</SAMP> in questo caso) se non avviene l'autenticazione (mediante la <A NAME="index1424"></A> password) di un determinato utente (quasi sempre <SAMP>root</SAMP>).</P>
+
+<P>Per ovviare a questo problema occorre aprire il programma di modifica del men&ugrave; e cambiare il nome dell'eseguibile in <CODE>kppp.kdelnk</CODE> da &laquo;kppp&raquo; a &laquo;/usr/sbin/kppp&raquo;. Analogamente si pu&ograve; eliminare <SAMP>kppp</SAMP> in <CODE>/usr/bin</CODE> e ricrearlo facendolo puntare a <CODE>/usr/sbin/kppp</CODE>. Fatto questo basta impostare il bit del set user ID (in qualit&agrave; di utente <SAMP>root</SAMP>) a <CODE>/usr/sbin/kppp</CODE> e i corretti permessi di esecuzione dello stesso file.</P>
+
+<P><STRONG>2.10.9)&nbsp;&nbsp;<A NAME="title303"></A><A NAME="anchor323"></A>
+ Come pu&ograve; un utente qualsiasi utilizzare <SAMP>kppp</SAMP> (<A NAME="index1425"></A>KDE 2.<VAR>x</VAR>)? <A NAME="index1426"></A> <A NAME="index1427"></A> </STRONG></P>
+
+<P>Dopo aver letto la LDR <A HREF="ldr5.html#anchor322">2.10.8</A>, e aver provato con le indicazioni in essa presenti, si dovr&agrave; modificare il file <CODE>kppp</CODE> presente in <CODE>/etc/security/console.apps/</CODE>. La riga:</P>
+<BLOCKQUOTE>
+
+<PRE>USER=root</PRE>
+
+</BLOCKQUOTE>
+
+<P>andr&agrave; modificata in:</P>
+<BLOCKQUOTE>
+
+<PRE>USER=utente</PRE>
+
+</BLOCKQUOTE>
+
+<P>In seguito occorre impostare il bit del set user ID (in qualit&agrave; di utente <SAMP>root</SAMP>) del file <CODE>kppp</CODE> presente in <CODE>/usr/bin/</CODE>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>chmod u+s kppp</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.10.10)&nbsp;&nbsp;<A NAME="title304"></A><A NAME="anchor324"></A>
+ Come si visualizza il proprio indirizzo IP? <A NAME="index1428"></A> </STRONG></P>
+
+<P>Per visualizzare l'indirizzo IP della propria macchina si deve utilizzare il comando <SAMP>ifconfig</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>ifconfig</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>L'indirizzo IP &egrave; il numero che segue <SAMP>inet addr</SAMP> nell'interfaccia <SAMP>ppp</SAMP>.</P>
+
+<P><STRONG>2.10.11)&nbsp;&nbsp;<A NAME="title305"></A><A NAME="anchor325"></A>
+ Si pu&ograve; estrapolare solamente l'indirizzo IP da <SAMP>ifconfig</SAMP>? <A NAME="index1429"></A> <A NAME="index1430"></A> </STRONG></P>
+
+<P>Il comando da utilizzare &egrave; il seguente:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>/sbin/ifconfig | head -9 | tail -1 | cut -d\ -f12 | cut -d\: -f2</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>ma occorre accertarsi che, impartendo il comando <SAMP>ifconfig</SAMP>, l'interfaccia <SAMP>ppp</SAMP> sia la seconda in ordine di apparizione. In caso non fosse cos&igrave; si deve adattare questo comando alle proprie esigenze. Se infatti &egrave; presente una scheda di rete (che pone l'interfaccia <SAMP>ppp</SAMP> in &laquo;terza&raquo; posizione) al posto di &laquo;head -9&raquo; si deve mettere &laquo;head -17&raquo; e cos&igrave; via aggiungendo 8 per ogni dispositivo di rete che precede l'interfaccia <SAMP>ppp</SAMP>.</P>
+
+<P><STRONG>2.10.12)&nbsp;&nbsp;<A NAME="title306"></A><A NAME="anchor326"></A>
+ Come si ottengono gli indirizzi DNS dei <A NAME="index1431"></A>provider? <A NAME="index1432"></A> <A NAME="index1433"></A> <A NAME="index1434"></A> </STRONG></P>
+
+<P>Per risalire ai DNS dei <A NAME="index1435"></A>provider, si deve utilizzare il comando <SAMP>nslookup</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>nslookup</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>&gt; </CODE><STRONG><CODE>server dns2.nic.it</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>&gt; </CODE><STRONG><CODE>set query=any</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>&gt; </CODE><STRONG><CODE>pluto.linux.it</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Con questi comandi si otterr&agrave; una risposta simile alla seguente:</P>
+
+<PRE>Server:  dns.nic.it
+Address:  193.205.245.5
+
+pluto.linux.it  preference = 10, mail exchanger = keycomm.pluto.linux.it
+pluto.linux.it  preference = 20, mail exchanger = r-vicenza3.keycomm.it
+pluto.linux.it  preference = 30, mail exchanger = r-vicenza1.keycomm.it
+pluto.linux.it  preference = 40, mail exchanger = dns.keycomm.it
+pluto.linux.it  Internet address = 192.106.105.10
+pluto.linux.it  text = "PLUTO Linux User Group"
+pluto.linux.it  nameserver = serena.keycomm.it
+pluto.linux.it  nameserver = snoopy.psy.unipd.it
+pluto.linux.it  nameserver = ns.publinet.it
+pluto.linux.it
+        origin = serena.keycomm.it
+        mail addr = dalla.pluto.linux.it
+        serial = 1999110100
+        refresh = 86400 (1D)
+        retry   = 7200 (2H)
+        expire  = 2592000 (4w2d)
+        minimum ttl = 86400 (1D)
+pluto.linux.it  nameserver = serena.keycomm.it
+pluto.linux.it  nameserver = snoopy.psy.unipd.it
+pluto.linux.it  nameserver = ns.publinet.it
+keycomm.pluto.linux.it  Internet address = 194.184.117.31
+r-vicenza3.keycomm.it   Internet address = 194.184.117.4
+r-vicenza1.keycomm.it   Internet address = 194.184.117.2
+dns.keycomm.it  Internet address = 194.184.116.2
+serena.keycomm.it       Internet address = 194.184.117.3
+snoopy.psy.unipd.it     Internet address = 147.162.146.17
+ns.publinet.it  Internet address = 151.99.137.2</PRE>
+
+<P>Indicando invece geocities.com:</P>
+
+<P class="command"><CODE>&gt; </CODE><STRONG><CODE> geocities.com</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>si otterr&agrave;:</P>
+
+<PRE>Server:  dns.nic.it
+Address:  193.205.245.5
+
+Non-authoritative answer:
+geocities.com   nameserver = NS2.geocities.com
+geocities.com   nameserver = NS1.YAHOO.COM
+geocities.com   nameserver = NS2.DCA.YAHOO.COM
+geocities.com   nameserver = NS4.geocities.com
+Authoritative answers can be found from:
+geocities.com   nameserver = NS2.geocities.com
+geocities.com   nameserver = NS1.YAHOO.COM
+geocities.com   nameserver = NS2.DCA.YAHOO.COM
+geocities.com   nameserver = NS4.geocities.com
+NS2.geocities.com       Internet address = 209.1.224.100
+NS1.YAHOO.COM   Internet address = 204.71.200.33
+NS2.DCA.YAHOO.COM       Internet address = 209.143.200.34
+NS4.geocities.com       Internet address = 209.1.224.143</PRE>
+
+<P>Lo stesso discorso vale per tiscalinet.it:</P>
+
+<P class="command"><CODE>&gt; </CODE><STRONG><CODE>tiscalinet.it</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>che restituir&agrave;:</P>
+
+<PRE>Server:  dns.nic.it
+Address:  193.205.245.5
+
+Non-authoritative answer:
+tiscalinet.it   nameserver = ns.tiscalinet.it
+tiscalinet.it   nameserver = sns.tiscali.it
+tiscalinet.it
+        origin = ns.tiscalinet.it
+        mail addr = nsadmin.tiscali.it
+        serial = 2000042802
+        refresh = 86400 (1D)
+        retry   = 3600 (1H)
+        expire  = 604800 (1W)
+        minimum ttl = 86400 (1D)
+
+Authoritative answers can be found from:
+tiscalinet.it   nameserver = ns.tiscalinet.it
+tiscalinet.it   nameserver = sns.tiscali.it
+ns.tiscalinet.it        Internet address = 195.130.224.18
+sns.tiscali.it  Internet address = 195.130.225.129</PRE>
+
+<P>In ogni caso lo stesso risultato si pu&ograve; ottenere con il comando <SAMP>host</SAMP> e il comando <SAMP>ping</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>host -t ns <VAR>provider</VAR></CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Ad esempio se si volessero sapere i DNS di flashnet.it, si dar&agrave; il comando:</P>
+
+<P class="command"><CODE>[bigpaul@linuxfaq.it]:[Fri May 5]:[22:25:41]:[~]: </CODE><STRONG><CODE>host -t ns flashnet.it</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Che restituir&agrave; il seguente risultato:</P>
+
+<PRE>flashnet.it             NS      dns2.flashnet.it
+flashnet.it             NS      dns.flashnet.it</PRE>
+
+<P>Ora, con il comando <SAMP>ping</SAMP>, si sar&agrave; in grado di ottenere gli indirizzi desiderati:</P>
+
+<P class="command"><CODE>[bigpaul@linuxfaq.it]:[Fri May 5]:[22:25:41]:[~]: </CODE><STRONG><CODE>ping dns2.flashnet.it</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<PRE>PING dns2.flashnet.it (194.247.160.8): 56 data bytes
+64 bytes from 194.247.160.8: icmp_seq=0 ttl=252 time=178.5 ms
+
+--- dns2.flashnet.it ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 150.0/163.7/178.5 ms</PRE>
+
+<P class="command"><CODE>[bigpaul@linuxfaq.it]:[Fri May 5]:[22:25:41]:[~]: </CODE><STRONG><CODE>ping dns.flashnet.it</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<PRE>PING dns.flashnet.it (194.247.160.1): 56 data bytes
+64 bytes from 194.247.160.1: icmp_seq=0 ttl=252 time=165.5 ms
+
+--- dns.flashnet.it ping statistics ---
+2 packets transmitted, 2 packets received, 0% packet loss
+round-trip min/avg/max = 150.0/157.7/165.5 ms</PRE>
+
+<P><STRONG>2.10.13)&nbsp;&nbsp;<A NAME="title307"></A><A NAME="anchor327"></A>
+ Se ci si connette ad <A NAME="index1436"></A>Internet con pi&ugrave; di un <A NAME="index1437"></A>provider, occorre cambiare ogni volta gli indirizzi DNS nel file <CODE>/etc/resolv.conf</CODE>? <A NAME="index1438"></A> <A NAME="index1439"></A> </STRONG></P>
+
+<P>Se si volesse accedere ad <A NAME="index1440"></A>Internet, con pi&ugrave; <A NAME="index1441"></A>provider, non sar&agrave; necessario cambiare ogni volta il contenuto del file <CODE>/etc/resolv.conf</CODE> ma baster&agrave; lasciare gli indirizzi DNS di un <A NAME="index1442"></A>provider che sembrano pi&ugrave; veloci e affidabili. Le richieste generalmente sono permesse a tutte le macchine, non ha importanza quindi il <A NAME="index1443"></A>provider con cui si &egrave; collegati.</P>
+
+<P><STRONG>2.10.14)&nbsp;&nbsp;<A NAME="title308"></A><A NAME="anchor328"></A>
+ Cosa si deve fare se il <A NAME="index1444"></A>provider assegna automaticamente gli indirizzi DNS? <A NAME="index1445"></A> <A NAME="index1446"></A> </STRONG></P>
+
+<P>Se le connessioni ad <A NAME="index1447"></A>Internet avvengono mediante <A NAME="index1448"></A>provider, che assegnano automaticamente i DNS agli utenti, occorrer&agrave; utilizzare l'opzione &laquo;usepeerdns&raquo; di <SAMP>pppd</SAMP>. Utilizzando questo metodo non sar&agrave; possibile dichiarare i DNS delle macchine che non hanno il modem e che sfruttano, attraverso una rete, il collegamento della macchina che lo ha. In ogni caso, bisogna ricordare per&ograve;, che &egrave; sempre possibile leggere gli indirizzi DNS di questi <A NAME="index1449"></A>provider dal file di <EM>log</EM> delle connessioni che in genere &egrave; <CODE>/var/log/messages</CODE>.</P>
+
+<P><STRONG>2.10.15)&nbsp;&nbsp;<A NAME="title309"></A><A NAME="anchor329"></A>
+ Perch&eacute; pur essendo connessi a <A NAME="index1450"></A>Internet il navigatore non riesce a connettersi ai siti? <A NAME="index1451"></A> <A NAME="index1452"></A> </STRONG></P>
+
+<P>Occorre ricordare che si devono indicare gli indirizzi DNS del <A NAME="index1453"></A>provider cui ci si connette nel file <CODE>/etc/resolv.conf</CODE>. Questi indirizzi servono per tradurre gli indirizzi mnemonici in indirizzi IP numerici. Presumibilmente infatti se si inserissero nel navigatore gli indirizzi numerici, si avrebbe esito positivo. Il file <CODE>/etc/resolv.conf</CODE> &egrave; costituito da una o pi&ugrave; righe del tipo:</P>
+
+<PRE>nameserver   indirizzo</PRE>
+
+<P>dove <VAR>indirizzo</VAR> &egrave; l'indirizzo DNS del <A NAME="index1454"></A>provider.</P>
+
+<P><STRONG>2.10.16)&nbsp;&nbsp;<A NAME="title310"></A><A NAME="anchor330"></A>
+ <SAMP>no dialtone</SAMP> <A NAME="index1455"></A> </STRONG></P>
+
+<P>Questo messaggio di errore, viene visualizzato qualora si ometta la stringa di inizializzazione per linee italiane: <SAMP>X3</SAMP>. Se infatti si era tentato il collegamento con:</P>
+
+<PRE>ATDT12345</PRE>
+
+<P>si dovr&agrave; eseguire invece:</P>
+
+<PRE>ATX3DT12345</PRE>
+
+<P><STRONG>2.10.17)&nbsp;&nbsp;<A NAME="title311"></A><A NAME="anchor331"></A>
+ Come si possono automatizzare alcune operazioni da effettuare durante la connessione ad <A NAME="index1456"></A>Internet? <A NAME="index1457"></A> <A NAME="index1458"></A> <A NAME="index1459"></A> <A NAME="index1460"></A> </STRONG></P>
+
+<P>Si prenda come esempio uno <A NAME="index1461"></A>script che possa effettuare rispettivamente:</P>
+
+<UL>
+
+<LI>
+
+<P>connessione ad <A NAME="index1462"></A>Internet;</P>
+</LI>
+
+<LI>
+
+<P>operazioni varie;</P>
+</LI>
+
+<LI>
+
+<P>disconnessione da <A NAME="index1463"></A>Internet.</P>
+</LI>
+</UL>
+
+<P>Lo <A NAME="index1464"></A>script sar&agrave; simile al seguente:</P>
+<BLOCKQUOTE>
+
+<PRE>#!/bin/bash
+#
+_LOCK=/var/lock/ppp.LOCK
+#
+pon
+if [ "$?" = "0" ] ; then
+        ....
+        comandi desiderati
+        ....
+        poff
+        rm -f $_LOCK
+        exit 0
+else
+        rm -f $_LOCK
+        exit 1
+fi</PRE>
+
+</BLOCKQUOTE>
+
+<P><STRONG>2.10.18)&nbsp;&nbsp;<A NAME="title312"></A><A NAME="anchor332"></A>
+ Come ci si connette ad <A NAME="index1465"></A>Internet con gli <A NAME="index1466"></A>script? <A NAME="index1467"></A> <A NAME="index1468"></A> </STRONG></P>
+
+<P>La connessione tramite <A NAME="index1469"></A>script &egrave; il metodo pi&ugrave; classico per connettersi ad un <A NAME="index1470"></A>provider <A NAME="index1471"></A>Internet. Molti programmi di utilit&agrave; che facilitano la connessione non fanno altro che andare a scrivere degli <A NAME="index1472"></A>script.</P>
+
+<P>In GNU/Linux si utilizzano due programmi essenzialmente: <SAMP>chat</SAMP> che invia i comandi al modem e <SAMP>pppd</SAMP> il demone che instaura il dialogo secondo il protocollo PPP con il <A NAME="index1473"></A>server del <A NAME="index1474"></A>provider.</P>
+
+<P>I file che vanno modificati sono sostanzialmente 5:</P>
+
+<UL>
+
+<LI>
+
+<P><CODE>/etc/ppp/pap-secrets</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>/etc/resolv.conf</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>/etc/host.conf</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>/bin/ispup</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>/bin/ispdown</CODE></P>
+</LI>
+</UL>
+
+<P>Innanzitutto si dovr&agrave; inserire il nome utente e la <A NAME="index1475"></A>password, nel primo di questi file, in questo modo:</P>
+
+<PRE># /etc/ppp/pap-secrets
+
+nome_utente        *       password</PRE>
+
+<P>In seguito si dovr&agrave; modificare il secondo file, che indica al sistema gli indirizzi DNS da utilizzare durante la connessione:</P>
+
+<PRE># /etc/resolv.conf
+
+search dominioprovider.it
+nameserver 111.222.111.222
+nameserver 222.111.222.111</PRE>
+
+<P>dove ovviamente dovremo inserire i dati del <A NAME="index1476"></A>provider.</P>
+
+<P>Bisogna poi comunicare al sistema in che modo essa debba risolvere i nomi dei computer nella rete Per fare questo bisogna modificare <CODE>/etc/host.conf</CODE>.</P>
+
+<PRE># /etc/host.conf
+
+order hosts,bind
+multi on</PRE>
+
+<P>Fatto ci&ograve; si dovranno realizzare i veri e propri <A NAME="index1477"></A>script  di connessione, cio&egrave; quelli da invocare per effettuare la connessione.</P>
+
+<P>Lo <A NAME="index1478"></A>script per la connessione sar&agrave; simile al seguente<SUP><A HREF="#footnote29" NAME="footnote-ref29">(29)</A></SUP>:</P>
+
+<PRE># /bin/ispup
+
+IP_ISP="0.0.0.0"
+IP_LOCALE="0.0.0.0"
+DISPOSITIVO="/dev/modem"
+VELOCITA="57600"
+TELEFONO="0123456789"
+NOMEUSER="nomeutente"
+/usr/sbin/pppd \
+connect "/usr/sbin/chat -v \
+TIMEOUT 3 \
+ABORT BUSY \
+ABORT 'NO CARRIER' \
+'' \dATZ \
+OK \dATX0 \
+OK \dAT\d$TELEFONO \
+TIMEOUT 60 \
+CONNECT '' " \
+user $NOMEUSER -d \
+-detach crtscts modem \
+defaultroute noipdefault \
+$IP_LOCALE:$IP_ISP \
+$DISPOSITIVO \
+$VELOCITA</PRE>
+
+<P>Il seguente <A NAME="index1479"></A>script servir&agrave; invece per disconnettersi:</P>
+
+<PRE># /bin/ispdown
+
+kill -INT `cat /var/run/ppp0.pid`</PRE>
+
+<P>Per effettuare la connessione, a questo punto, occorrer&agrave; digitare al <A NAME="index1480"></A>prompt:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>ispup &amp;</CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote30" NAME="footnote-ref30">(30)</A></SUP></P>
+
+<P>Si dovr&agrave; digitare invece:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>ispdown</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>per terminare la connessione.</P>
+
+<P><STRONG>2.10.19)&nbsp;&nbsp;<A NAME="title313"></A><A NAME="anchor333"></A>
+ Esempio degli <A NAME="index1481"></A>script per la connessione ad un <A NAME="index1482"></A>provider <A NAME="index1483"></A> <A NAME="index1484"></A> </STRONG></P>
+
+<P>Ecco uno <A NAME="index1485"></A>script da lanciare per effettuare la connessione ad <A NAME="index1486"></A>Internet <SUP><A HREF="#footnote31" NAME="footnote-ref31">(31)</A></SUP>:</P>
+<BLOCKQUOTE>
+
+<PRE>#!/bin/sh
+#Parametri della connessione.
+#Numero di telefono del provider: deve contenere anche il prefisso.
+TELEFONO=XXXXXXXXX
+#Nome da cercare in "/etc/ppp/pap-secrets"
+NOME_UTENTE=nome_utente
+#Rende disponibili le variabili allo script "dialup".
+export TELEFONO
+#Dove si trova lo script "dialup"
+SCRIPT_DIALUP=/etc/ppp/dialup
+#Avvio della connessione.
+exec /usr/sbin/pppd connect $SCRIPT_DIALUP user $NOME_UTENTE</PRE>
+
+</BLOCKQUOTE>
+
+<P>Il file <CODE>/etc/ppp/resolv.conf</CODE> conterr&agrave; i seguenti dati:</P>
+<BLOCKQUOTE>
+
+<PRE>domain provider.it
+nameserver XXX.XXX.XXX.XXX
+nameserver YYY.YYY.YYY.YYY</PRE>
+
+</BLOCKQUOTE>
+
+<P>Il file <CODE>/etc/ppp/options</CODE> conterr&agrave; le seguenti righe:</P>
+<BLOCKQUOTE>
+
+<PRE>#Fa s&igrave; che lo script non venga eseguito in secondo piano
+#e che possa essere ucciso con la combinazione [Ctrl+C].
+-detach
+#Usa il file di lock per assicurare un accesso esclusivo
+#al dispositivo seriale. Questo potrebbe provocare
+#in kppp un messaggio di errore. In quel caso
+#occorrer&agrave; rimuovere l'opzione perch&eacute; gestita automaticamente
+#da kppp stesso.
+lock
+#Porta cui &egrave; connesso il modem:
+#ttyS0=COM1 ttyS1=COM2 ttyS2=COM3 ttyS3=COM4
+/dev/ttyS3
+#Velocit&agrave; di connessione modem.
+115200
+#Controllo di flusso hardware.
+crtscts
+#Non vengono assegnati indirizzi IP di default
+noipdefault
+defaultroute
+modem
+asyncmap 0
+#Massima grandezza del pacchetto trasmesso.
+mtu 1024
+#Massima dimensione del pacchetto ricevuto.
+mru 1024</PRE>
+
+</BLOCKQUOTE>
+
+<P>Il file <CODE>/etc/ppp/dialup</CODE> conterr&agrave; invece:</P>
+<BLOCKQUOTE>
+
+<PRE>#!/bin/sh
+#
+# This is part 2 of the ppp-on script. It will perform the connection
+# protocol for the desired connection.
+#
+exec /usr/sbin/chat -v                                  \
+        TIMEOUT         3                               \
+        ABORT           '\nBUSY\r'                      \
+        ABORT           '\nNO ANSWER\r'                 \
+        ABORT           '\nRINGING\r\n\r\nRINGING\r'    \
+        ''               \rAT                            \
+        'OK-+++\c-OK'   ATH0                            \
+        TIMEOUT         30                              \
+        SAY             "Composizione del numero ed\n"  \
+        SAY             "avvio della connessione...\n"  \
+        OK              ATX3DT$TELEFONO                 \
+        CONNECT         ''</PRE>
+
+</BLOCKQUOTE>
+
+<P>Il file <CODE>etc/ppp/pap-secrets</CODE> conterr&agrave; il nome dell'utente e la <A NAME="index1488"></A> password:</P>
+<BLOCKQUOTE>
+
+<PRE>nome_utente [TAB] * [TAB] password</PRE>
+
+</BLOCKQUOTE>
+
+<P><STRONG>2.10.20)&nbsp;&nbsp;<A NAME="title314"></A><A NAME="anchor334"></A>
+ Perch&eacute; in <A NAME="index1489"></A>Red&nbsp;Hat viene composto due volte il numero telefonico del <A NAME="index1490"></A>provider? <A NAME="index1491"></A> </STRONG></P>
+
+<P>La causa di questo problema &egrave; un baco (<EM>bug</EM>). Presso il sito di <A NAME="index1492"></A>Red&nbsp;Hat (&lt;<EM><A HREF="http://www.redhat.com">http://www.redhat.com</A></EM>&gt;) &egrave; disponibile la versione corretta.</P>
+
+<P><STRONG>2.10.21)&nbsp;&nbsp;<A NAME="title315"></A><A NAME="anchor335"></A>
+ Perch&eacute; utilizzando <SAMP>ppp</SAMP> per il collegamento ad <A NAME="index1493"></A>Internet, compare una casella di dialogo che avverte che il demone <SAMP>pppd</SAMP> non &egrave; installato con il set user ID? Che vuol dire? <A NAME="index1494"></A> </STRONG></P>
+
+<P>Normalmente l'uso del <SAMP>ppp</SAMP> &egrave; riservato all'utente <SAMP>root</SAMP>. Per permetterne l'uso anche agli altri utenti, si fa in modo che quando questo viene eseguito, il sistema pensi che sia <SAMP>root</SAMP> a farlo. Per fare ci&ograve;, esiste un bit speciale da attivare (il bit del set user ID). Questo bit si attiva mediante il comando:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>cd /usr/sbin</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>chmod u+s pppd</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.10.22)&nbsp;&nbsp;<A NAME="title316"></A><A NAME="anchor336"></A>
+ Perch&eacute; il collegamento ad <A NAME="index1495"></A>Internet con <SAMP>diald</SAMP> fallisce per problemi di autentificazione? <A NAME="index1496"></A> <A NAME="index1497"></A> </STRONG></P>
+
+<P>Occorre comunicare al sistema l'utente che si connette. Innanzitutto occorre inserire nel file <CODE>/etc/ppp/pap-secret</CODE> il nome dell'utente e la <A NAME="index1498"></A>password. Dopo aver fatto questo, si deve ricordare che:</P>
+
+<OL>
+
+<LI>
+
+<P>nel file <CODE>/etc/ppp/options</CODE> andr&agrave; inserita la riga: </P>
+
+<PRE>user &lt;nome utente&gt;</PRE>
+</LI>
+
+<LI>
+
+<P>si potr&agrave; specificare il nome dell'utente direttamente all'interno dello <A NAME="index1499"></A>script invece che nel file <CODE>/etc/ppp/options</CODE>, ma, alla luce del fatto che la connessione dovr&agrave; essere invocata da un utente comune, si consiglia di dichiarare tale utente nel file <CODE>/etc/ppp/options</CODE>;</P>
+</LI>
+
+<LI>
+
+<P>in ogni caso il modo migliore consiste nell'inserire in <CODE>/etc/diald.conf</CODE> la riga:</P>
+
+<PRE>ppp-options = user = &lt;nome utente&gt;</PRE>
+</LI>
+</OL>
+
+<P><STRONG>2.10.23)&nbsp;&nbsp;<A NAME="title317"></A><A NAME="anchor337"></A>
+ Una volta essere riusciti ad aver stabilito un collegamento funzionante ad <A NAME="index1500"></A>Internet, quali sono i file di configurazione e gli <A NAME="index1501"></A>script che conviene conservare? <A NAME="index1502"></A> </STRONG></P>
+
+<P>Si consiglia di copiare al sicuro i file e gli <A NAME="index1503"></A>script che vengono utilizzati per la connessione ad <A NAME="index1504"></A>Internet. In qualsiasi occasione, sar&agrave; sufficiente ricopiare gli <A NAME="index1505"></A>script al loro posto e si potr&agrave; velocemente ristabilire la configurazione esatta.</P>
+
+<P>Oltre ad i singoli file eseguibili attivanti la connessione (quelli creati dall'utente ad esempio), si dovranno salvare i seguenti file:</P>
+
+<UL>
+
+<LI>
+
+<P><CODE>/etc/ppp/options</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>/etc/ppp/pap-secrets</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>/etc/ppp/chat-script</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>/etc/resolv.conf</CODE></P>
+</LI>
+</UL>
+
+<P><STRONG>2.10.24)&nbsp;&nbsp;<A NAME="title318"></A><A NAME="anchor338"></A>
+ Perch&eacute; utilizzando il <SAMP>dialup configuration tool</SAMP> della <A NAME="index1506"></A>Red&nbsp;Hat 6.1 il sistema si blocca? <A NAME="index1507"></A> </STRONG></P>
+
+<P>Dopo aver lanciato <SAMP>netcfg</SAMP> mediante:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>netcfg</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>si dovr&agrave; evidenziare <SAMP>interfaces</SAMP> e si rilever&agrave; che una delle due interfaccie &egrave; priva del nome e non attiva. Sar&agrave; sufficiente cancellarla per rimuovere il problema.</P>
+
+<P><STRONG>2.10.25)&nbsp;&nbsp;<A NAME="title319"></A><A NAME="anchor339"></A>
+ Se si utilizzano diversi <A NAME="index1508"></A>provider per connettersi ad <A NAME="index1509"></A>Internet, come si possono invertire rapidamente gli <A NAME="index1510"></A>script di connessione in una distribuzione <A NAME="index1511"></A>Red&nbsp;Hat? </STRONG></P>
+
+<P>Per ottenere questo risultato occorre uno <A NAME="index1512"></A>script che sostituisca i file:</P>
+
+<OL>
+
+<LI>
+
+<P><CODE>/etc/ppp/options</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>/etc/ppp/pap-secrets</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>/etc/ppp/chat-script</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>/etc/resolv.conf</CODE></P>
+</LI>
+</OL>
+
+<P>quindi prima di tutto occorre copiare questi file al sicuro. Dal momento che la distribuzione &egrave; <A NAME="index1513"></A>Red&nbsp;Hat, si potr&agrave; ricorrere all'utilizzo di pacchetti RPM. In relazione a questo, sar&agrave; necessario creare tanti pacchetti RPM quanti sono i <A NAME="index1514"></A>provider cui si intende connettersi. Per fare questo, si dovranno creare i file <CODE>.spec</CODE> che servono appunto a creare i pacchetti RPM.</P>
+
+<P>Segue un esempio di file <CODE>.spec</CODE> che chiameremo providerA.spec:</P>
+
+<PRE>Name: Connessione_providerA
+Summary: Tutte le impostazioni e gli script per la connessione al
+providerA 
+Version: 1.0
+Release: 1
+Copyright: Uso personale Gaetano Paolone
+Group: Applications
+Packager: Gaetano Paolone &lt;bigpaul@linuxfaq.it&gt;
+
+%description
+Ecco i file per la connessione al providerA
+
+%files
+/etc/ppp/options
+/etc/ppp/pap-secrets
+/etc/ppp/chat-script
+/etc/resolv.conf</PRE>
+
+<P>Si passer&agrave; quindi alla creazione del pacchetto RPM:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>rpm -bb providerA.spec</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>A questo punto verr&agrave; creato un pacchetto RPM il cui nome dovrebbe somigliare a <CODE>Connessione_providerA-1.0-1.rpm</CODE>. Dopo aver creato il primo pacchetto, si dovranno sostituire manualmente gli <A NAME="index1515"></A>script in questione per ottenere il collegamento al providerB. Una volta certi di essere riusciti a stabilire la connessione con providerB, si creer&agrave; il pacchetto RPM per questo <A NAME="index1516"></A>fornitore di accesso ad <A NAME="index1517"></A>Internet partendo dal file <CODE>providerB.spec</CODE>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>rpm -bb providerB.spec</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>L'operazione va ripetuta per tutti i <A NAME="index1518"></A>fornitori di accesso ad <A NAME="index1519"></A>Internet di cui disponiamo.</P>
+
+<P>Fatti tutti i pacchetti RPM, si dovranno creare <A NAME="index1520"></A>script che servono ad attivarli. Ad esempio, si potr&agrave; creare lo script <CODE>attiva_providerA</CODE> che conterr&agrave; la riga:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>rpm -Uvh Connessione_providerA-1.0-1.rpm</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>e cos&igrave; per tutti gli altri <A NAME="index1521"></A>fornitori di accesso ad <A NAME="index1522"></A>Internet. Una volta creati tutti gli <A NAME="index1523"></A>script, occorrer&agrave; conferire loro il permesso di esecuzione e copiarli in una directory di percorso (<EM>path</EM>).</P>
+
+<P>Ora baster&agrave; digitare il nome dello <A NAME="index1524"></A>script per cambiare tutti i file di configurazione e permettere quindi il collegamento al <A NAME="index1525"></A>fornitore di accesso ad <A NAME="index1526"></A>Internet desiderato.</P>
+
+<P><STRONG>2.10.26)&nbsp;&nbsp;<A NAME="title320"></A><A NAME="anchor340"></A>
+ Se si utilizzano diversi <A NAME="index1527"></A>provider per connettersi ad <A NAME="index1528"></A>Internet, come si possono gestire gli <A NAME="index1529"></A>script  di connessione? </STRONG></P>
+
+<P>Se si utilizza pi&ugrave; di un <A NAME="index1530"></A>provider per la connessione ad <A NAME="index1531"></A>Internet, sar&agrave; necessario modificare o aggiungere alcuni file contenuti nella directory <CODE>/etc/ppp</CODE>.</P>
+
+<P>Occorrer&agrave; innanzitutto cancellare il contenuto di <CODE>chap-secrets</CODE>. Dovranno poi essere creati i file:</P>
+
+<OL>
+
+<LI>
+
+<P><CODE>dial-providerA</CODE></P>
+</LI>
+
+<LI>
+
+<P><CODE>dial-providerB</CODE></P>
+</LI>
+
+<LI>
+
+<P>[...]</P>
+</LI>
+</OL>
+
+<P>ciascuno con un contenuto simile al seguente:</P>
+<BLOCKQUOTE>
+
+<PRE>REPORT CONNECT
+ABORT "BUSY"
+ABORT "NO CARRIER"
+ABORT "NO DIALTONE"
+"" ATL0M0X4
+OK ATDTnumero_telefono_provider
+CONNECT</PRE>
+
+</BLOCKQUOTE>
+
+<P>Si dovr&agrave; poi creare il file <CODE>options</CODE> contenente le opzioni generiche di tutti i <A NAME="index1532"></A>provider) cui ci si intende connettere. Un esempio potrebbe essere il seguente:</P>
+<BLOCKQUOTE>
+
+<PRE>/dev/modem
+57600
+debug
+lock
+crtscts
+defaultroute</PRE>
+
+</BLOCKQUOTE>
+
+<P>In seguito si dovr&agrave; modificare il file <CODE>pap-secrets</CODE> nel seguente modo:</P>
+<BLOCKQUOTE>
+
+<PRE># Secrets for authentication using PAP
+# client        server  secret                  IP addresses
+nome_utente_providerA   providerA       password_providerA
+nome_utente_providerB   providerB       password_providerB
+[...]</PRE>
+
+</BLOCKQUOTE>
+
+<P>oppure si dovr&agrave; creare uno <A NAME="index1533"></A>script che inverta i seguenti due <CODE>pap-secrets</CODE> (ammesso che i <A NAME="index1534"></A>provider siano due):</P>
+<BLOCKQUOTE>
+
+<PRE># /etc/ppp/pap-secrets #1
+nomeutente_provider_A   *       password_providerA</PRE>
+
+</BLOCKQUOTE>
+<BLOCKQUOTE>
+
+<PRE># /etc/ppp/pap-secrets #2
+nomeutente_provider_B   *       password_providerB</PRE>
+
+</BLOCKQUOTE>
+
+<P>Per caricare le opzioni corrette, occorrer&agrave; creare uno <A NAME="index1535"></A>script per ciascun <A NAME="index1536"></A>provider. Ecco un esempio di tali <A NAME="index1537"></A>script <SUP><A HREF="#footnote32" NAME="footnote-ref32">(32)</A></SUP>:</P>
+
+<PRE>/usr/sbin/pppd connect '/usr/sbin/chat -v -f /etc/ppp/dial-providerA'\
+/dev/modem 57600 debug lock crtscts defaultroute call options-providerA\
+-d -detach &amp;</PRE>
+
+<P>In seguito occorrer&agrave; creare la directory <CODE>/etc/ppp/peers/</CODE> e inserirvi i file (<CODE>options-providerA</CODE>, <CODE>options-providerB</CODE>, ecc.) contenenti le opzioni specifiche di ogni <A NAME="index1538"></A>provider:</P>
+<BLOCKQUOTE>
+
+<PRE>name nomeutente_presso_il_provider</PRE>
+
+</BLOCKQUOTE>
+
+<P>Volendo, si potranno aggiungere le altre opzioni come ad esempio la grandezza dei pacchetti in transito:</P>
+<BLOCKQUOTE>
+
+<PRE>   
+mtu 552
+mru 552</PRE>
+
+</BLOCKQUOTE>
+
+<P>e altro ancora.</P>
+
+<P>A questo punto occorrer&agrave; modificare il file <CODE>/etc/resolv.conf</CODE> inserendo gli indirizzi DNS dei <A NAME="index1539"></A>provider e modificare il file <CODE>/etc/hosts</CODE> in modo che contenga gli indirizzi IP dei <A NAME="index1540"></A>server di posta. Questo serve per evitare che la connessione con uno dei <A NAME="index1541"></A>provider impedisca il prelievo della posta presso i <A NAME="index1542"></A>server degli altri.</P>
+
+<H2>2.11 &nbsp; <A NAME="title321"></A><A NAME="anchor341"></A>
+Connessione remota tra macchine</H2>
+
+<P><STRONG>2.11.1)&nbsp;&nbsp;<A NAME="title322"></A><A NAME="anchor342"></A>
+ Come si predispone un accesso da linea commutata a una macchina GNU/Linux? <A NAME="index1543"></A> <A NAME="index1544"></A> <A NAME="index1545"></A> </STRONG></P>
+
+<P>Per accedere ad una macchina GNU/Linux con modem, occorre installare <A NAME="index1546"></A>Mgetty+Sendfax, <SAMP>PAM</SAMP>, e avere il supporto per il PPP.</P>
+
+<P>Nel file <CODE>/etc/mgetty/login.config</CODE> va abilitata l'opzione <SAMP>AutoPPP</SAMP>:</P>
+<BLOCKQUOTE>
+
+<PRE>/AutoPPP/ -   a_ppp    /usr/sbin/pppd /dev/ttySn</PRE>
+
+</BLOCKQUOTE>
+
+<P>dove <CODE>/dev/ttyS<VAR>n</VAR></CODE> &egrave; la porta utilizzata dal modem. Nel file <CODE>/etc/mgetty/mgetty.config</CODE> non occorre inserire alcuna opzione particolare, se non la velocit&agrave; della porta.</P>
+
+<P>Nel file <CODE>/etc/ppp/options</CODE> vanno abilitate le opzioni valide per le connessioni entranti (in conflitto con eventuali connessioni uscenti):</P>
+<BLOCKQUOTE>
+
+<PRE>asyncmap 0
+auth
+crtscts
+lock
+modem
+netmask 255.255.255.0
+passive
++pap
+login
+lcp-echo-interval 30         # eventualmente da modificare
+lcp-echo-failure  4          # eventualmente da modificare</PRE>
+
+</BLOCKQUOTE>
+
+<P>Nel file <CODE>/etc/ppp/options.ttyS<VAR>x</VAR></CODE> (<CODE>ttyS<VAR>x</VAR></CODE> &egrave; sempre la porta del modem) vanno inseriti l'indirizzo della macchina che fa da <A NAME="index1547"></A>server e l'indirizzo di quella <A NAME="index1548"></A>client:</P>
+
+<PRE>#pc.server:pc.client
+192.168.0.1:192.168.0.2    #o altri indirizzi a piacere, ma 
+                           #sempre di una stessa classe.</PRE>
+
+<P>Nel file <CODE>/etc/ppp/pap-secrets</CODE> va inserita una riga per permettere l'accesso al PPP a tutti gli utenti:</P>
+
+<PRE>*   pc.server     ""   -</PRE>
+
+<P>al posto di <SAMP>pc.server</SAMP> si dovr&agrave; inserire il nome della macchina che fa da <A NAME="index1549"></A>server. Nel file <CODE>/etc/hosts</CODE>, vanno inseriti i nomi e gli indirizzi utilizzati:</P>
+
+<PRE>127.0.0.1       localhost
+192.168.0.1     pc.server   # eventualmente da modificare
+192.168.0.2     pc.client   # eventualmente da modificare</PRE>
+
+<P>Nel file <CODE>/etc/networks</CODE> vanno inserite le informazioni relative alla rete che si crea durante la connessione oltre alla rete <EM>virtuale</EM> locale:</P>
+
+<PRE>127.0.0.0       localnet
+192.168.0.0     rete.mia    </PRE>
+
+<P>Nel file <CODE>/etc/inittab</CODE> va inserito naturalmente <SAMP>mgetty</SAMP> sulla porta usata dal modem (in modalit&agrave; <SAMP>respawn</SAMP>), quindi occorre che ci sia una riga simile alla seguente:</P>
+<BLOCKQUOTE>
+
+<PRE>T1:23:respawn:/sbin/mgetty -x5 -s 57600 ttySx</PRE>
+
+</BLOCKQUOTE>
+
+<P>Da notare che 57&nbsp;600 pu&ograve; essere aumentato a velocit&agrave; superiori, e che ttyS<VAR>x</VAR> dovr&agrave; essere sostituito (ttyS1, 2, ecc.).</P>
+
+<P>A questo punto, all'avvio, <SAMP>mgetty</SAMP> attende una chiamata sulla sua porta e con l'opzione AutoPPP fa partire il <SAMP>ppp</SAMP> non appena la connessione &egrave; andata in porto. Il <SAMP>ppp</SAMP> negozia il <A NAME="index1550"></A>login e la <A NAME="index1551"></A>password (opzione <SAMP>+pap</SAMP>) automaticamente andando a controllare direttamente il file delle <A NAME="index1552"></A>password.</P>
+
+<P><STRONG>2.11.2)&nbsp;&nbsp;<A NAME="title323"></A><A NAME="anchor343"></A>
+ Come ci si sconnette da un sistema remoto lasciando attivi alcuni processi? <A NAME="index1553"></A> <A NAME="index1554"></A> <A NAME="index1555"></A> <A NAME="index1556"></A> <A NAME="index1557"></A> <A NAME="index1558"></A> </STRONG></P>
+
+<P>Lasciare attivo un processo su una macchina da cui ci si &egrave; scollegati, &egrave; possibile mediante il comando <SAMP>nohup</SAMP>:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>nohup ftp -n &lt; ftp-file &amp;</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>In <CODE>ftp-file</CODE> dovranno essere inseriti i comandi FTP da eseguire. In ogni caso &egrave; possibile lanciare il comando:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>tail -f nohup.out &amp;</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>che permetter&agrave; di seguire l'andamento delle operazioni sulla console.</P>
+
+<H2>2.12 &nbsp; <A NAME="title324"></A><A NAME="anchor344"></A>
+ Posta elettronica <A NAME="index1559"></A> </H2>
+
+<P><STRONG>2.12.1)&nbsp;&nbsp;<A NAME="title325"></A><A NAME="anchor345"></A>
+ Come si configura il sistema per poter scaricare e smistare i messaggi di posta elettronica? <A NAME="index1560"></A> <A NAME="index1561"></A> </STRONG></P>
+
+<P>Per poter scaricare e smistare i messaggi di posta elettronica, si utilizzano i programmi <A NAME="index1562"></A>Fetchmail e <A NAME="index1563"></A>procmail. I seguenti file di configurazione si riferiscono ad un utente singolo che scarica da pi&ugrave; <A NAME="index1564"></A>server di posta messaggi di posta, alcuni dei quali appartengono a liste di discussione (<EM>mailing list</EM>).</P>
+
+<P>Lo <A NAME="index1565"></A>script da invocare per scaricare la posta verr&agrave; chiamato <CODE>MAIL</CODE> e conterr&agrave; quanto segue:</P>
+<BLOCKQUOTE>
+
+<PRE># Azzeramento contatori
+cat /dev/null &gt; .listalinux.count
+cat /dev/null &gt; .misc.count
+
+# pulizia schermo
+clear
+
+# scaricare la posta
+fetchmail -vvvvv
+
+# Riepilogo messaggi scaricati
+echo
+echo
+echo
+echo
+echo "###############################################"
+echo "      +-----------------+"
+echo "      | Report `date +%d-%m-%y` |"
+echo "      +-----------------+"
+echo
+echo "listalinux: `wc -w &lt; ~/.listalinux.count`"
+echo "inbox:      `wc -w &lt; ~/.misc.count`"
+echo "###############################################"
+echo
+echo
+
+# rimozione i file temporanei di conteggio
+rm ~/.listalinux.count 2&gt; /dev/null
+rm ~/.misc.count 2&gt; /dev/null</PRE>
+
+</BLOCKQUOTE>
+
+<P>Dopo avere azzerato i contatori che calcoleranno i messaggi scaricati, lo <A NAME="index1566"></A>script si occuper&agrave; di pulire lo schermo e di iniziare a scaricare la posta dai <A NAME="index1567"></A>server di posta. Alla fine del processo di scaricamento della posta, verr&agrave; visualizzato un riepilogo dei messaggi scaricati.</P>
+
+<P>Il file <CODE>~/.fetchmailrc</CODE> presente nella directory <CODE>/home/<VAR>utente</VAR>/</CODE> contiene le informazioni di cui <A NAME="index1568"></A>Fetchmail si serve per scaricare la posta. Eccone un esempio:</P>
+
+<PRE>poll "mail.serverA.it" proto pop3 user "bigpaul" with pass "vocabolario" is
+        "bigpaul" here forcecr smtpaddress localhost
+poll "mail.serverB.it" proto pop3 user "gaetano" with pass
+        "dizionario" is "bigpaul" here forcecr smtpaddress localhost
+# cos&igrave; per tutti gli altri</PRE>
+
+<P>Questo file permetter&agrave; a <A NAME="index1569"></A>Fetchmail di scaricare la posta da <SAMP>serverA</SAMP> presso cui si dispone di un <A NAME="index1570"></A> account <SAMP>bigpaul</SAMP> e da <SAMP>serverB</SAMP> presso cui si dispone di un account <SAMP>gaetano</SAMP>. I messaggi scaricati faranno riferimento all'utente locale <SAMP>bigpaul</SAMP>. Oltre a <CODE>~/.fetchmailrc</CODE> esiste il file <CODE>.procmailrc</CODE> sempre nella directory <CODE>/home/<VAR>utente</VAR>/</CODE>. Questo file contiene le regole per smistare i messaggi in arrivo. Eccone un esempio:</P>
+<BLOCKQUOTE>
+
+<PRE>DATE=`date +%m-%y`
+PATH=/bin:/usr/bin:/usr/bin
+MAILDIR=$HOME/mail      #assicurarsi della sua esistenza
+DEFAULT=/usr/spool/mail/bigpaul
+LOGFILE=~/.log_procmail   #consigliato
+
+# -- BACKUP DI TUTTI I MESSAGGI IN /home/utente/backup/all.gz --
+# Queste due righe consentono prima di qualsiasi altra
+# operazione di archiviare al sicuro tutti i messaggi di posta.
+:0 c
+| gzip &gt;&gt; backup/all.$DATE.gz
+
+# -- LISTALINUX --
+# Se c'&egrave; un messaggio che risponde ai criteri espressi,
+# il file contatore viene incrementato di una
+# parola, poi una copia del messaggio viene posta nella casella
+# listalinux, e un'altra viene archiviata nel file
+# backup/listalinux.$DATE.gz.
+:0 c
+* ^To.*listalinux@mailserver.it
+| echo 1 &gt;&gt; ~/.listalinux.count
+:0 Ac:
+listalinux
+:0 A:
+| gzip &gt;&gt; backup/listalinux.$DATE.gz
+
+
+[...] (qui andrebbero inseriti gli altri filtri
+relativi a tutte le altre mailing list)
+
+# -- MISC: tutte gli altri messaggi --
+# i messaggi che arrivano a questo punto (cio&egrave; che non
+# hanno risposto ai requisiti espressi in precedenza)
+# non appartengono a nessuna mailing list, e vengono inseriti nella
+# casella principale (MAILDIR=$HOME/mail)
+
+:0 c
+| echo 1 &gt;&gt; ~/.misc.count
+:0 Ac:
+| gzip &gt;&gt; backup/misc.$DATE.gz</PRE>
+
+</BLOCKQUOTE>
+
+<P>A questo punto baster&agrave; dare i permessi di esecuzione al file <CODE>MAIL</CODE>, ed invocarlo per scaricare la posta e per verificare lo smistamento di <SAMP>procmail</SAMP>.</P>
+
+<P><STRONG>2.12.2)&nbsp;&nbsp;<A NAME="title326"></A><A NAME="anchor346"></A>
+ Come si configura <A NAME="index1571"></A>Fetchmail? <A NAME="index1572"></A> <A NAME="index1573"></A> <A NAME="index1574"></A> <A NAME="index1575"></A> <A NAME="index1576"></A> </STRONG></P>
+
+<P>Come faccio a configurare <A NAME="index1577"></A>Fetchmail in modo che scarichi anche la posta di altri utenti e la ridistribuisca (agli altri utenti)?</P>
+
+<P>Segue un esempio del file di configurazione di <A NAME="index1578"></A>Fetchmail (<CODE>~/.fetchmailrc</CODE>) che permette di scaricare la posta da due <A NAME="index1579"></A>server di posta (<SAMP>mail.serverA.it</SAMP> e <SAMP>mail.serverB.it</SAMP>) presso cui l'utente che impartisce il comando <SAMP>fetchmail</SAMP> possiede due utenze (<SAMP>bigpaul</SAMP> e <SAMP>gaetano</SAMP>) con le rispettive <A NAME="index1580"></A>password (<SAMP>vocabolario</SAMP> e <SAMP>dizionario</SAMP>).</P>
+<BLOCKQUOTE>
+
+<PRE>poll "mail.serverA.it"
+uidl
+protocol pop3
+username "bigpaul"
+password "vocabolario"
+flush
+mda /usr/bin/procmail
+
+poll "mail.serverB.it"
+uidl
+protocol pop3
+username "gaetano"
+password "dizionario"
+flush
+mda /usr/bin/procmail</PRE>
+
+</BLOCKQUOTE>
+
+<P>Si consiglia di provare a commentare la riga&gt;</P>
+<BLOCKQUOTE>
+
+<PRE>uidl</PRE>
+
+</BLOCKQUOTE>
+
+<P>se dovessero riscontrarsi problemi.</P>
+
+<P>Quello che segue &egrave; invece un esempio del file di configurazione di <A NAME="index1581"></A>Fetchmail (<CODE>~/.fetchmailrc</CODE>) che permette di scaricare la posta da due <A NAME="index1582"></A>server di posta (<SAMP>mail.serverA.it</SAMP> e <SAMP>mail.serverB.it</SAMP>). La posta scaricata da <SAMP>mail.serverA.it</SAMP> sar&agrave; indirizzata nella casella di posta dell'utente <SAMP>bigpaul</SAMP> mentre quella scaricata da <SAMP>mail.serverB.it</SAMP> sar&agrave; indirizzata nella casella di posta dell'utente <SAMP>gaetano</SAMP>.</P>
+<BLOCKQUOTE>
+
+<PRE>poll "mail.serverA.it" proto pop3 user "bigpaul" with pass "vocabolario" is
+        "bigpaul" here forcecr smtpaddress localhost
+poll "mail.serverB.it" proto pop3 user "gaetano" with pass
+        "dizionario" is "tizio" here forcecr smtpaddress localhost
+# cos&igrave; per tutti gli altri</PRE>
+
+</BLOCKQUOTE>
+
+<P><STRONG>2.12.3)&nbsp;&nbsp;<A NAME="title327"></A><A NAME="anchor347"></A>
+ Come si possono spedire messaggi all'interno di una rete locale facendo risultare un indirizzo esterno? <A NAME="index1583"></A> <A NAME="index1584"></A> </STRONG></P>
+
+<P>Occorre modificare il file <CODE>sendmail.cf</CODE> in modo che includa la caratteristica <SAMP>use_cw</SAMP>. Nel file <CODE>sendmail.cw</CODE> occorrer&agrave; indicare quindi i domini da trattare come locali. Per fare questo, si dovr&agrave; per&ograve; avere configurato anche un <A NAME="index1585"></A>name&nbsp;server locale che gestisca per finta il dominio dell'indirizzo di posta con il Mail eXchanger (l'host dedicato alla gestione della posta per un dominio indicato nei file di zona del <A NAME="index1586"></A>BIND con MX) che punta all'host del <A NAME="index1587"></A>server di posta locale e gli altri <A NAME="index1588"></A>server che puntano ai loro effettivi IP <A NAME="index1589"></A>Internet. Poich&eacute; inoltre l'indirizzo di posta non corrisponder&agrave; all'utente locale, si dovr&agrave; impostare anche la <SAMP>virtusertable</SAMP> del <A NAME="index1590"></A>Sendmail (con la caratteristica omonima nel <CODE>sendmail.cf</CODE>) che permette di associare gli indirizzi virtuali a quelli locali esistenti. Il file <CODE>sendmail.cf</CODE> possiede la seguente struttura:</P>
+
+<PRE>utente@provider.it      utente_locale</PRE>
+
+<P>in cui i due campi sono separati da un carattere di tabulazione.</P>
+
+<P><STRONG>2.12.4)&nbsp;&nbsp;<A NAME="title328"></A><A NAME="anchor348"></A>
+ Come si indirizzano correttamente i messaggi scaricati con <A NAME="index1591"></A>Procmail in una directory ben precisa? <A NAME="index1592"></A> <A NAME="index1593"></A> </STRONG></P>
+
+<P>Il file di configurazione di <A NAME="index1594"></A>procmail, &egrave; <CODE>.procmailrc</CODE> e in questo file &egrave; possibile indicare quale &egrave; la directory corrispondente alla casella di posta predefinita. Quest'ultima viene dichiarata mediante la variabile <VAR>MAILDIR</VAR> nel seguente modo:</P>
+
+<PRE>MAILDIR=$HOME/Maildir
+DEFAULT=$MAILDIR/mbox</PRE>
+
+<P>Dove <VAR>Maildir</VAR> indica la directory contenente la casella di posta.</P>
+
+<P><STRONG>2.12.5)&nbsp;&nbsp;<A NAME="title329"></A><A NAME="anchor349"></A>
+ Come si installa e come si configura <A NAME="index1595"></A>Postfix? <A NAME="index1596"></A> <A NAME="index1597"></A> <A NAME="index1598"></A> <A NAME="index1599"></A> <A NAME="index1600"></A> <A NAME="index1601"></A> </STRONG></P>
+
+<P>Qualora non si utilizzino le soluzioni sotto forma di pacchetto, i sorgenti di <A NAME="index1602"></A>Postfix si troveranno in due versioni: una del formato <CODE>postfix-<VAR>xyz</VAR>.tar.gz</CODE> che rappresenta l'attuale versione stabile e l'altra <CODE>snapshot-<VAR>jwy</VAR>.tar.gz</CODE> che &egrave; una versione su cui si sta ancora lavorando. Una volta scaricato, il sorgente va decompresso:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>tar -zxvf sorgente.tar.gz</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Si entrer&agrave; nella directory creata dal processo di decompressione e si impartir&agrave; il comando:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>make</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Dopo aver fatto questo, occorrer&agrave; rinominare alcuni file:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>mv /usr/sbin/sendmail /usr/sbin/sendmail.OFF</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>mv /usr/bin/newaliases /usr/bin/newaliases.OFF</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>mv /usr/bin/mailq /usr/bin/mailq.OFF</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>chmod 755 /usr/sbin/sendmail.OFF</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Poi si dovr&agrave; impartire il comando:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>useradd postfix</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Nel file <CODE>/etc/passwd</CODE> si dovr&agrave; avere qualcosa del genere:</P>
+
+<PRE>postfix:*:12345:12345:postfix:/no/where:/no/shell</PRE>
+
+<P>Si aggiunger&agrave; in <CODE>/etc/aliases</CODE> quanto segue:</P>
+
+<PRE>postfix: root
+root   utente_non_privilegiato
+MAILER-DAEMON:  postmaster
+postmaster:     root</PRE>
+
+<P>In seguito, dalla directory dove &egrave; stato decompresso il pacchetto, si digiter&agrave;:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>sh INSTALL.sh</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>rispondendo alle domande poste. Occorrer&agrave; mettere poi in <CODE>/etc/postfix/main.cf</CODE> le seguenti righe:</P>
+
+<PRE># tenta di spedire la coda ogni 5 min.
+queue_run_delay = 300
+# 3 giorni in coda
+maximal_queue_lifetime = 3
+biff = no
+relayhost = [smtp.tiscalinet.it]
+sender_canonical_maps = hash:/etc/postfix/sender_canonical
+virtual_maps = hash:/etc/postfix/virtual</PRE>
+
+<P>Poi occorrer&agrave; creare <CODE>/etc/postfix/sender_canonical</CODE> nel seguente modo:</P>
+
+<PRE>utente_locale veroindirizzoposta@provider.it</PRE>
+
+<P>e <CODE>/etc/postfix/virtual</CODE> cos&igrave;:</P>
+
+<PRE>veroindirizzoposta@provider.it utente_locale</PRE>
+
+<P>Poi si dar&agrave; il comando:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>postmap hash:/etc/postfix/sender_canonical</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>e:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>postmap hash:/etc/postfix/virtual</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Infine occorrer&agrave; dare il comando per inizializzare la <A NAME="index1603"></A>base di dati degli alias:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>newaliases</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>A questo punto si dovr&agrave; avviare <SAMP>postfix</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>postfix start</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Occorre ricordare poi, i seguenti comandi:</P>
+<BLOCKQUOTE>
+
+<PRE>sendmail -bp     visualizza la coda dei messaggi in uscita
+mailq            visualizza la coda dei messaggi in uscita
+sendmail -q      invia i messaggi in coda
+postfix -flush   invia i messaggi in coda</PRE>
+
+</BLOCKQUOTE>
+
+<P><STRONG>2.12.6)&nbsp;&nbsp;<A NAME="title330"></A><A NAME="anchor350"></A>
+ <SAMP>You have new mail</SAMP> <A NAME="index1604"></A> <A NAME="index1605"></A> </STRONG></P>
+
+<P>Il messaggio <EM>You have new mail</EM>, sta ad indicare che nella casella di posta ci sono nuovi messaggi. Per poterli leggere, &egrave; necessario avviare il proprio <A NAME="index1606"></A>client di posta. Ad esempio, se &egrave; stato installato il pacchetto <A NAME="index1607"></A>Mailx si potranno leggere i messaggi mediante il comando <SAMP>mail</SAMP>.</P>
+
+<P>Una altro metodo &egrave; leggere direttamente il file contenente i messaggi presente nella propria casella di posta mediante il comando <SAMP>less</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>less /var/spool/mail/<VAR>utente</VAR></CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>o:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>less /home/<VAR>utente</VAR>/<VAR>directory </VAR>/<VAR>file_con_messaggi</VAR></CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote33" NAME="footnote-ref33">(33)</A></SUP></P>
+
+<P><STRONG>2.12.7)&nbsp;&nbsp;<A NAME="title331"></A><A NAME="anchor351"></A>
+ Perch&eacute; la macchina esita a lungo su <A NAME="index1608"></A> Sendmail all'avvio? <A NAME="index1609"></A> </STRONG></P>
+
+<P>Occorre modificare il file <CODE>/etc/hosts</CODE> affinch&eacute; contenga:</P>
+
+<PRE>127.0.0.1 localhost</PRE>
+
+<P><STRONG>2.12.8)&nbsp;&nbsp;<A NAME="title332"></A><A NAME="anchor352"></A>
+ Qual &egrave; l'indirizzo cui fare <SAMP>telnet</SAMP> per verificare la configurazione di <A NAME="index1610"></A>Sendmail nei confronti dello <EM>spam</EM>? <A NAME="index1611"></A> </STRONG></P>
+
+<P>L'indirizzo cui fare <SAMP>telnet</SAMP> per verificare la configurazione di <A NAME="index1612"></A>Sendmail relativamente alla gestione dello <EM>spam</EM> &egrave; <SAMP>mail-abuse.org</SAMP>:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>telnet mail-abuse.org</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.12.9)&nbsp;&nbsp;<A NAME="title333"></A><A NAME="anchor353"></A>
+ Come si pu&ograve; inviare un file di testo compresso in allegato con un unico comando? <A NAME="index1613"></A> </STRONG></P>
+
+<P>Questo risultato si pu&ograve; ottenere non con un unico comando ma utilizzando diversi comandi (<SAMP>tar</SAMP>, <SAMP>uuencode</SAMP> e <SAMP>mail</SAMP>) sulla stessa riga mediante le <A NAME="index1614"></A>pipeline  (<SAMP>|</SAMP>):</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>tar czf - nomefile.txt | uuencode prova.tgz | mail -s "Oggetto della mail"</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.12.10)&nbsp;&nbsp;<A NAME="title334"></A><A NAME="anchor354"></A>
+ Come si pu&ograve; associare un file di testo ad un messaggio da riga di comando? <A NAME="index1615"></A> <A NAME="index1616"></A> </STRONG></P>
+
+<P>Per associare ad un messaggio di posta elettronica un file, sar&agrave; necessario inviare al comando <SAMP>mail</SAMP> (tramite il reindirizzamento dello <A NAME="index1617"></A>standard input) il file da includere nel corpo del messaggio. I seguenti comandi sono infatti equivalenti:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>mail <VAR>utente</VAR>@<VAR>server</VAR> -s "Oggetto del messaggio" &lt; file.txt</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>oppure:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>cat file.txt | mail -s "Oggetto del messaggio" <VAR>utente</VAR>@<VAR>server</VAR></CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote34" NAME="footnote-ref34">(34)</A></SUP></P>
+
+<P><STRONG>2.12.11)&nbsp;&nbsp;<A NAME="title335"></A><A NAME="anchor355"></A>
+ Come si possono inviare messaggi ad intervalli di tempo regolare? <A NAME="index1618"></A> </STRONG></P>
+
+<P>Per spedire ad esempio lo stesso messaggio allo stesso indirizzo ogni 3 minuti per un periodo indeterminato di tempo, si potr&agrave; utilizzare lo <A NAME="index1619"></A> script seguente (<A NAME="index1620"></A>shell Tc):</P>
+<BLOCKQUOTE>
+
+<PRE>#!/bin/tcsh
+touch a
+while(1)
+        if (-f a)   then    
+                mail indirizzo &lt; file.in
+                sleep 3 
+        else
+                break
+        endif
+end</PRE>
+
+</BLOCKQUOTE>
+
+<P>Questo <A NAME="index1621"></A>script continuer&agrave; a spedire il messaggio contenuto nel file <CODE>file.in</CODE> fino a quando il file <CODE>a</CODE> non verr&agrave; cancellato.</P>
+
+<P><STRONG>2.12.12)&nbsp;&nbsp;<A NAME="title336"></A><A NAME="anchor356"></A>
+ Come si possono eliminare i duplicati di posta elettronica? <A NAME="index1622"></A> <A NAME="index1623"></A> </STRONG></P>
+
+<P>Occorrer&agrave; utilizzare l'eseguibile <SAMP>formail</SAMP> per ottenere questo risultato. Il seguente <A NAME="index1624"></A>script (cui si dar&agrave; ad esempio il nome <SAMP>depup</SAMP>) permetter&agrave; di eliminare i messaggi doppi:</P>
+<BLOCKQUOTE>
+
+<PRE>#!/usr/bin/bash
+&gt; cache.tmp
+cp $1 $1.original
+formail -D 2000000 cache.tmp -s &lt;$1 &gt; x.tmp
+cp x.tmp $1
+rm x.tmp</PRE>
+
+</BLOCKQUOTE>
+
+<P>Lo <A NAME="index1625"></A>script dovr&agrave; essere eseguito nella directory dove sono presenti le <A NAME="index1626"></A>cartelle di posta; generalmente queste si trovano in <CODE>~/Mail</CODE>. Le <A NAME="index1627"></A>cartelle di posta dovranno essere indicate come argomento dello <A NAME="index1628"></A>script una alla volta. <SUP><A HREF="#footnote35" NAME="footnote-ref35">(35)</A></SUP></P>
+
+<P>Nel caso esistessero pi&ugrave; <A NAME="index1629"></A>cartelle di posta , si dovr&agrave; utilizzare uno <A NAME="index1630"></A>script simile al seguente<SUP><A HREF="#footnote36" NAME="footnote-ref36">(36)</A></SUP>:</P>
+<BLOCKQUOTE>
+
+<PRE>#!/usr/bin/bash
+export MAILDIR=~/Mail
+export PROGDIR=~/scripts
+cd $MAILDIR
+rm cmd
+rm .*.index
+ls -1 &gt; lista
+awk '$1!="lista" &amp;&amp; match($1,"dedup")==0 {printf("echo \042Esamino mailbox
+%s.\042\n$PROGDIR/dedup %s\n",$1,$1);}' lista &gt; cmd
+chmod 755 cmd
+./cmd
+rm -f cmd cache.tmp lista
+cd</PRE>
+
+</BLOCKQUOTE>
+
+<P>Lo <A NAME="index1631"></A>script, prima prepara la lista delle <A NAME="index1632"></A>cartelle di posta, poi con <A NAME="index1633"></A>AWK crea a sua volta uno <A NAME="index1634"></A>script che richiama lo <A NAME="index1635"></A>script  mostrato in precedenza per ogni cartella da analizzare. Alla fine dell'elaborazione, oltre alle cartelle risultanti, si avranno a disposizione per sicurezza anche le cartelle originali. Queste ultime, archiviate con il suffisso <CODE>.original</CODE>, potranno essere cancellate dopo avere verificato il buon esito dell'operazione.</P>
+
+<P><STRONG>2.12.13)&nbsp;&nbsp;<A NAME="title337"></A><A NAME="anchor357"></A>
+ Cosa &egrave; il file <CODE>~/.forward</CODE>? <A NAME="index1636"></A> <A NAME="index1637"></A> </STRONG></P>
+
+<P>Il file <CODE>~/.forward</CODE> si trova generalmente all'interno della directory principale dell'utente (<CODE>/home/<VAR>utente</VAR>/</CODE>), e consente di poter reindirizzare i messaggi entranti verso uno o pi&ugrave; indirizzi di posta elettronica.</P>
+
+<P>La sintassi di tale file &egrave; molto semplice; vanno infatti indicati gli indirizzi di destinazione separati da una virgola. Se ad esempio si volessero reindirizzare i messaggi dell'utente locale <SAMP>tizio</SAMP> verso gli indirizzi <SAMP>caio@server1.it</SAMP> e <SAMP>sempronio@server2.it</SAMP>, il <CODE>/home/tizio/.forward</CODE> dovr&agrave; contenere quanto segue:</P>
+
+<PRE>caio@server1.it, sempronio@server2.it</PRE>
+
+<P><STRONG>2.12.14)&nbsp;&nbsp;<A NAME="title338"></A><A NAME="anchor358"></A>
+ Si pu&ograve; scegliere la firma (<EM>signature</EM>) in modo casuale? <A NAME="index1638"></A> <A NAME="index1639"></A> <A NAME="index1640"></A> <A NAME="index1641"></A> </STRONG></P>
+
+<P>Si pu&ograve; utilizzare l'applicativo <A NAME="index1642"></A>sig_rotate.pl (reperibile da &lt;<EM><A HREF="http://freshmeat.net">http://freshmeat.net</A></EM>&gt;) <SUP><A HREF="#footnote37" NAME="footnote-ref37">(37)</A></SUP> </P>
+
+<P><STRONG>2.12.15)&nbsp;&nbsp;<A NAME="title339"></A><A NAME="anchor359"></A>
+ Perch&eacute; i <A NAME="index1643"></A>client di posta delle macchine di una rete locale non riescono ad inviare i messaggi al di fuori della rete stessa? <A NAME="index1644"></A> <A NAME="index1645"></A> </STRONG></P>
+
+<P>Per risolvere questo problema occorre abilitare il <A NAME="index1646"></A>relay per le macchine in questione. Nel file <CODE>/etc/mail/relay-domains</CODE> di <A NAME="index1647"></A>Sendmail, sono memorizzati gli indirizzi IP delle macchine abilitate a poter inviare i messaggi fuori della rete locale attraverso il <A NAME="index1648"></A>server di posta. Se tale file non esiste, occorrer&agrave; crearlo.</P>
+
+<P>Segue un ipotetico esempio di tale file:</P>
+
+<PRE>192.168.1.1
+192.168.1.2
+192.168.1.3</PRE>
+
+<P><STRONG>2.12.16)&nbsp;&nbsp;<A NAME="title340"></A><A NAME="anchor360"></A>
+ Come si scarica la posta con <A NAME="index1649"></A>Mutt? <A NAME="index1650"></A> <A NAME="index1651"></A> </STRONG></P>
+
+<P>Se si intende scaricare la posta mediante un MUA come <A NAME="index1652"></A>Mutt evitando di utilizzare un MTA (come <SAMP>fetchmail</SAMP>) occorrer&agrave; ricompilare lo stesso <A NAME="index1653"></A>Mutt ricordando di includere il supporto POP. Una volta ricompilato, <CODE>~/.muttrc</CODE> dovr&agrave; contenere quanto segue:</P>
+
+<PRE>set pop_delete
+set pop_host="pop3.serverposta.it"
+set pop_port=110
+set pop_pass="password"
+set pop_user="nomeutente" </PRE>
+
+<P>La prima riga serve per cancellare i messaggi dal <A NAME="index1654"></A>server di posta, la seconda indica l'indirizzo del <A NAME="index1655"></A>server di posta stesso, la terza indica la porta, la quarta e la quinta indicano i dati dell'<A NAME="index1656"></A>account dell'utente.</P>
+
+<P><STRONG>2.12.17)&nbsp;&nbsp;<A NAME="title341"></A><A NAME="anchor361"></A>
+ Come si spedisce con <A NAME="index1657"></A>Mutt un file allegato da riga di comando? <A NAME="index1658"></A> <A NAME="index1659"></A> </STRONG></P>
+
+<P>Si deve utilizzare l'opzione <SAMP>-a</SAMP> di <A NAME="index1660"></A>Mutt. Ecco un esempio di una riga che permette di specificare contemporaneamente oggetto, corpo, allegato e destinatario del messaggio:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>echo "testo messaggio" | mutt -a "file_allegato" -s "oggetto" destinatario@dominio.it </CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.12.18)&nbsp;&nbsp;<A NAME="title342"></A><A NAME="anchor362"></A>
+ Come si personalizza in <A NAME="index1661"></A>Mutt, la stringa che introduce il messaggio riportato? <A NAME="index1662"></A> <A NAME="index1663"></A> <A NAME="index1664"></A> </STRONG></P>
+
+<P>In <A NAME="index1665"></A>Mutt questa stringa prende il nome di <SAMP>attribution</SAMP>. Se ad esempio si vuole avere un risultato simile a:</P>
+<BLOCKQUOTE>
+
+<PRE>"On Wed, 31 Feb 2010, Caio wrote"</PRE>
+
+</BLOCKQUOTE>
+
+<P>si dovr&agrave; inserire nel file <CODE>~/.muttrc</CODE> la seguente riga:</P>
+
+<PRE>set attribution = "On %d, %n wrote"</PRE>
+
+<P><STRONG>2.12.19)&nbsp;&nbsp;<A NAME="title343"></A><A NAME="anchor363"></A>
+ Come si configura in <A NAME="index1666"></A>Mutt, la stringa che indica il vecchio oggetto del messaggio in caso di sostituzione dello stesso? <A NAME="index1667"></A> <A NAME="index1668"></A> </STRONG></P>
+
+<P>Quando si risponde ad un messaggio, si pu&ograve; cambiare l'oggetto dello stesso mediante il tasto [<KBD>s</KBD>]. Per fare in modo che l'oggetto sostituito rimanga e compaia come:</P>
+
+<PRE>[Was vecchio-oggetto]</PRE>
+
+<P>si dovr&agrave; inserire nel file <CODE>~/.muttrc</CODE> la seguente riga:</P>
+
+<PRE>set reply_regexp="^(re([\\[0-9\\]+])*|aw):[ \t]*"</PRE>
+
+<P><STRONG>2.12.20)&nbsp;&nbsp;<A NAME="title344"></A><A NAME="anchor364"></A>
+ Come si pu&ograve; automatizzare lo scaricamento della posta? <A NAME="index1669"></A> <A NAME="index1670"></A> </STRONG></P>
+
+<P>Si potrebbe utilizzare la funzione di pianificazione dei comandi del sistema (<A NAME="index1671"></A>Cron). Una voce nel file <A NAME="index1672"></A>crontab chiamerebbe uno <A NAME="index1673"></A>script simile al seguente:</P>
+<BLOCKQUOTE>
+
+<PRE>#!/bin/sh
+pon
+while ! (/sbin/ifconfig | grep -q ppp0)
+do
+        sleep 1
+done
+fetchmail
+poff</PRE>
+
+</BLOCKQUOTE>
+
+<P>dove <SAMP>pon</SAMP> &egrave; lo <A NAME="index1674"></A>script che avvia il collegamento, e <SAMP>poff</SAMP> quello che lo chiude. Lo <A NAME="index1675"></A>script non fa altro che aspettare che il collegamento sia stabilito, scaricare la posta e chiudere il collegamento. Se non ci dovesse essere posta da scaricare, il collegamento verrebbe chiuso subito, e se ci fossero problemi tecnici, <A NAME="index1676"></A>Fetchmail andrebbe in <EM>timeout</EM> dopo circa un minuto, tempo dopo il quale il collegamento sarebbe comunque chiuso.</P>
+
+<H2>2.13 &nbsp; <A NAME="title345"></A><A NAME="anchor365"></A>
+ <A NAME="index1677"></A>Navigatori (<A NAME="index1678"></A>browser) </H2>
+
+<P><STRONG>2.13.1)&nbsp;&nbsp;<A NAME="title346"></A><A NAME="anchor366"></A>
+ Come si imposta lo sfondo di <A NAME="index1679"></A>Lynx? <A NAME="index1680"></A> <A NAME="index1681"></A> </STRONG></P>
+
+<P><A NAME="index1682"></A>Lynx mantiene le sue configurazioni all'interno del file <CODE>/etc/lynx.cfg</CODE>. In ogni caso &egrave; possibile avviare il navigatore all'interno di un terminale grafico di cui &egrave; possibile stabilire il colore di fondo. Il comando per ottenere questo risultato &egrave; il seguente:</P>
+
+<PRE>xterm -bg X -fg Y -fn 10x20 -geometry 80x25 -e lynx</PRE>
+
+<P>Di questo comando<SUP><A HREF="#footnote38" NAME="footnote-ref38">(38)</A></SUP> sar&agrave; possibile eventualmente creare un alias:</P>
+
+<PRE>alias lynx='xterm -bg X -fg Y -fn 10x20 -geometry 80x25 -e lynx'</PRE>
+
+<P>La dichiarazione di tale alias potr&agrave; eventualmente essere inserita nei file letti all'avvio della <A NAME="index1683"></A>shell.</P>
+
+<P><STRONG>2.13.2)&nbsp;&nbsp;<A NAME="title347"></A><A NAME="anchor367"></A>
+ Come si ricarica una pagina (<EM>reload</EM>) con <A NAME="index1684"></A>Lynx? <A NAME="index1685"></A> <A NAME="index1686"></A> <A NAME="index1687"></A> </STRONG></P>
+
+<P>La combinazione di tasti [<KBD>Ctrl-L</KBD>] effettuer&agrave; una nuova visualizzazione del navigatore e del suo contenuto. [<KBD>Ctrl-R</KBD>] servir&agrave; a ricaricare invece il file (la pagina) visualizzata.</P>
+
+<H2>2.14 &nbsp; <A NAME="title348"></A><A NAME="anchor368"></A>
+ <A NAME="index1688"></A>Gruppi di discussione (<A NAME="index1689"></A>newsgroup) </H2>
+
+<P><STRONG>2.14.1)&nbsp;&nbsp;<A NAME="title349"></A><A NAME="anchor369"></A>
+ <A NAME="index1690"></A>Leafnode - Come si possono leggere i messaggi dei <A NAME="index1691"></A> gruppi di discussione una volta scollegati? <A NAME="index1692"></A> <A NAME="index1693"></A> </STRONG></P>
+
+<P>Per leggere i messaggi dei <A NAME="index1694"></A>gruppi di discussione una volta sconnessi da <A NAME="index1695"></A>Internet occorre utilizzare <A NAME="index1696"></A>Leafnode per scaricare i messaggi. <A NAME="index1697"></A>Leafnode &egrave; un <A NAME="index1698"></A>server NNTP concepito per soddisfare un traffico molto ridotto e ben si adatta a leggere e ad inviare messaggi per i <A NAME="index1699"></A>gruppi di discussione anche se non si &egrave; collegati ad <A NAME="index1700"></A>Internet.</P>
+
+<P>Una volta installato, il pacchetto &egrave; gestito da <SAMP>inetd</SAMP>. Quest'ultimo resta in ascolto di richieste sulla porta 119. Per impostarlo, basta assicurarsi che nel file <CODE>/etc/inetd.conf</CODE> sia presente la seguente riga:</P>
+<BLOCKQUOTE>
+
+<PRE>nntp  stream  tcp  nowait  root  /usr/local/sbin/leafnode  leafnode</PRE>
+
+</BLOCKQUOTE>
+
+<P>Il percorso dell'eseguibile <SAMP>leafnode</SAMP> potrebbe essere diverso, anche se solitamente si trova nel percorso riportato.</P>
+
+<P>Bisogna poi effettuare la configurazione del <A NAME="index1701"></A>server. Occorrer&agrave; modificare infatti il file <CODE>config</CODE> presente, in <CODE>/etc/leafnode/</CODE> o in <CODE>/usr/local/lib/leafnode/</CODE> a seconda delle distribuzioni. Il file solitamente &egrave; commentato e presenta alcuni esempi. Bisogner&agrave; stabilire da quale <A NAME="index1702"></A>server recuperare i messaggi, con la riga:</P>
+<BLOCKQUOTE>
+
+<PRE>server = news.mioserver.it</PRE>
+
+</BLOCKQUOTE>
+
+<P>Si stabilisce poi dopo quanti giorni gli articoli dovranno essere considerati ormai obsoleti, con la riga:</P>
+<BLOCKQUOTE>
+
+<PRE>expire = 7</PRE>
+
+</BLOCKQUOTE>
+
+<P>In questo modo gli articoli pi&ugrave; vecchi di una settimana potranno essere eliminati. Questa operazione garantisce di non riempire la directory <CODE>/var/spool/news</CODE> di migliaia di messaggi gi&agrave; letti che potrebbero rallentare il <A NAME="index1703"></A>server e che comunque non sono di alcuna utilit&agrave;. &Egrave; bene quindi di tanto in tanto lanciare (in qualit&agrave; di utente <SAMP>root</SAMP>) il comando <SAMP>texpire</SAMP> che provvede a eliminare i messaggi datati.</P>
+
+<P>Se il <A NAME="index1704"></A>provider richiedesse l'autenticazione per accedere al <A NAME="index1705"></A>server dei <A NAME="index1706"></A>gruppi di discussione, si potranno aggiungere (o togliere il commento) le righe:</P>
+<BLOCKQUOTE>
+
+<PRE>username = nome_utente
+password = mia_password</PRE>
+
+</BLOCKQUOTE>
+
+<P>&Egrave; possibile specificare un altro <A NAME="index1707"></A>server alternativo ad esempio per i gruppi non presenti nel primo:</P>
+<BLOCKQUOTE>
+
+<PRE>supplement = news.altroserver.it</PRE>
+
+</BLOCKQUOTE>
+
+<P>e gli eventuali:</P>
+<BLOCKQUOTE>
+
+<PRE>username = nome_utente_2
+password = mia_password_2</PRE>
+
+</BLOCKQUOTE>
+
+<P>Se si sono sottoscritti gruppi particolarmente interessanti di cui si vuole mantenere i messaggi pi&ugrave; a lungo, <A NAME="index1708"></A>Leafnode permette di specificare tempi diversi per i vari gruppi:</P>
+<BLOCKQUOTE>
+
+<PRE>groupexpire it.comp.retrocomputing = 20</PRE>
+
+</BLOCKQUOTE>
+
+<P>ed &egrave; possibile anche usare gli asterischi (*) per indicare pi&ugrave; gruppi della stessa famiglia ad es.:</P>
+<BLOCKQUOTE>
+
+<PRE>groupexpire it.comp.linux.* = 5</PRE>
+
+</BLOCKQUOTE>
+
+<P>Quanto poi al numero massimo di nuovi messaggi recuperati ogni volta, se ne imposta il valore con:</P>
+<BLOCKQUOTE>
+
+<PRE>maxfetch = 500</PRE>
+
+</BLOCKQUOTE>
+
+<P>Se invece si vuole impostare il numero di articoli da scaricare dai gruppi appena sottoscritti, si utilizza:</P>
+<BLOCKQUOTE>
+
+<PRE>initialfetch = 100</PRE>
+
+</BLOCKQUOTE>
+
+<P>Per evitare di recuperare messaggi recanti messaggi pubblicitari indesiderati (<EM>spam</EM>), &egrave; possibile utilizzare un trucco, che per&ograve; aggira solamente il problema e non lo risolve veramente. Si tratta di fare un controllo su eventuali messaggi inviati a pi&ugrave; <A NAME="index1709"></A>gruppi di discussione:</P>
+<BLOCKQUOTE>
+
+<PRE>maxcrosspost = 5</PRE>
+
+</BLOCKQUOTE>
+
+<TABLE BORDER="3" WIDTH="100%">
+<TR><TD>
+
+<P> Attenzione: spesso molti messaggi vengono inviati a pi&ugrave; <A NAME="index1710"></A>gruppi di discussione per cercare di ottenere pi&ugrave; risposte ai propri quesiti per cui si potrebbero perdere articoli che non erano vero <EM>spam</EM>! </P>
+
+</TD></TR>
+</TABLE>
+
+<P><A NAME="index1711"></A>Leafnode permette anche di impostare un'et&agrave; massima per gli articoli recuperati, evitando di scaricare articoli ormai vecchi ma ancora presenti sul <A NAME="index1712"></A>server del <A NAME="index1713"></A>provider:</P>
+<BLOCKQUOTE>
+
+<PRE>maxage = 10</PRE>
+
+</BLOCKQUOTE>
+
+<P>Vi sono poi una serie di altre opzioni di controllo meno usate ma che si possono rivelare utili in alcuni casi:</P>
+
+<TABLE ID="anchor370" BORDER="3">
+
+<THEAD>
+<TR><TD> Dispositivo </TD><TD> Descrizione </TD></TR>
+</THEAD>
+
+<TBODY>
+<TR><TD>maxlines = 100 </TD><TD>recupera i messaggi composti da massimo 100 righe </TD></TR>
+<TR><TD>minlines = 2 </TD><TD>non scarica i messaggi con meno di 2 righe </TD></TR>
+<TR><TD>maxbytes = 50000 </TD><TD>non scarica i messaggi pi&ugrave; grossi di 50000 byte </TD></TR>
+<TR><TD>timeout_short = 1 </TD><TD>dopo un giorno smette di scaricare gruppi accidentalmente aperti</TD></TR>
+<TR><TD>timeout_long = 6 </TD><TD>dopo 6 giorni che un gruppo non viene pi&ugrave; letto esso smette di scaricarlo</TD></TR>
+</TBODY>
+</TABLE>
+
+<P><EM> Tabella <A HREF="ldr5.html#anchor370">2.1</A>. Leafnode: le opzioni aggiuntive. </EM></P>
+
+<P>Terminata la configurazione di base, <SAMP>leafnode</SAMP> &egrave; pronto per entrare in azione. Lancia la connessione ad <A NAME="index1714"></A>Internet, si lancer&agrave;, in qualit&agrave; di utente <SAMP>root</SAMP>, il comando <SAMP>fetch</SAMP> (o <SAMP>fetch-news</SAMP> o ancora <SAMP>fetchnews</SAMP>, a seconda della versione di <A NAME="index1715"></A>Leafnode di cui si dispone).</P>
+
+<P>A questo punto, la prima volta, <SAMP>leafnode</SAMP> inizier&agrave; a recuperare la lista completa dei gruppi presenti sul <A NAME="index1716"></A>server del <A NAME="index1717"></A>provider.</P>
+
+<TABLE BORDER="3" WIDTH="100%">
+<TR><TD>
+
+<P>N.B.: questa operazione pu&ograve; richiedere svariati minuti e potr&agrave; rimanere silente.</P>
+
+</TD></TR>
+</TABLE>
+
+<P>Quando si ripresenter&agrave; la <A NAME="index1718"></A>shell dei comandi, vorr&agrave; dire che <SAMP>fetch</SAMP> avr&agrave; terminato di scaricare la lista dei gruppi. A questo punto si dovr&agrave; lanciare il programma che si intende utilizzare per leggere i messaggi, e, dopo aver impostato come <A NAME="index1719"></A>server NNTP &laquo;localhost&raquo; (o il nome che si &egrave; dato alla propria macchina), si dovr&agrave; effettuare l'iscrizione ai gruppi desiderati.</P>
+
+<P>Non baster&agrave; per&ograve; la semplice iscrizione, bisogner&agrave; anche entrarci come se si dovessero leggerne gli articoli (seppur non ancora presenti). All'interno dei gruppi si trover&agrave; un <EM>messaggio fantoccio</EM> che informa che sul <A NAME="index1720"></A>server (cio&egrave; la propria macchina) sta girando <SAMP>leafnode</SAMP> e che il gruppo &egrave; stato marcato per il recupero degli articoli la prossima volta che si lancer&agrave; <SAMP>fetch</SAMP> (o i comandi descritti sopra). Si dovr&agrave; a questo punto uscire dal programma e lanciare di nuovo, sempre in qualit&agrave; di utente <SAMP>root</SAMP>, <SAMP>fetch</SAMP> per scaricare i messaggi dei gruppi che si sono appena sottoscritti e visitati.</P>
+
+<P>Bisogna notare che il comando di recupero dei messaggi va lanciato come utente <SAMP>root</SAMP> o come utente <SAMP>news</SAMP>.</P>
+
+<P>Una volta ritornati alla <A NAME="index1721"></A>shell, <SAMP>leafnode</SAMP> avr&agrave; scaricato i messaggi dei gruppi sottoscritti, e sar&agrave; possibile chiudere la connessione con il <A NAME="index1722"></A>provider.</P>
+
+<P>Qualora la sottoscrizione di alcuni gruppi risulti vana se eseguita dal programma adibito alla lettura dei messaggi, occorrer&agrave; provare a sottoscriversi a tali gruppi mediante la creazione di file vuoti (di nome uguale al gruppo cui si vuole iscriversi) con i seguenti comandi:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>touch /var/spool/news/interesting.groups/nome_gruppo</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>ad esempio:</P>
+
+<P class="command"><CODE>#&nbsp;</CODE><STRONG><CODE>touch /var/spool/news/interesting.groups/it.comp.os.linux.annunci</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.14.2)&nbsp;&nbsp;<A NAME="title350"></A><A NAME="anchor371"></A>
+ <SAMP>skipping it.xxx.yyy from now on</SAMP> <A NAME="index1723"></A> <A NAME="index1724"></A> </STRONG></P>
+
+<P>A volte accade che, passato un po' di tempo dall'iscrizione ad un <A NAME="index1725"></A> gruppo di discussione, <SAMP>leafnode</SAMP> smetta di scaricare i messaggi di questo gruppo presentando un messaggio simile al seguente:</P>
+
+<P><SAMP>skipping xxx.yyy.zzz from now on.</SAMP><SUP><A HREF="#footnote39" NAME="footnote-ref39">(39)</A></SUP></P>
+
+<P>Si pu&ograve; superare questo inconveniente ricreando, ad ogni utilizzo i file presenti in <CODE>/var/spool/news/interesting.groups/</CODE>.Sar&agrave; quindi possibile automatizzare il tutto con uno <A NAME="index1727"></A>script simile al seguente:</P>
+
+<PRE>rm -rf /var/spool/news/interesting.groups/*
+touch /var/spool/news/interesting.groups/comp.os.linux.setup
+touch /var/spool/news/interesting.groups/it.comp.linux.setup
+touch /var/spool/news/interesting.groups/it.comp.linux.pluto
+touch /var/spool/news/interesting.groups/it.comp.linux
+fetch -vvv #o fetchnews a seconda della versione di leafnode che utilizzi</PRE>
+
+<H2>2.15 &nbsp; <A NAME="title351"></A><A NAME="anchor372"></A>
+ IRC - chat <A NAME="index1728"></A> <A NAME="index1729"></A> </H2>
+
+<P><STRONG>2.15.1)&nbsp;&nbsp;<A NAME="title352"></A><A NAME="anchor373"></A>
+ Come si possono controllare le intrusioni al sistema che possono verificarsi con frequenza durante l'utilizzo di programmi per IRC? <A NAME="index1730"></A> </STRONG></P>
+
+<P>Per verificare in tempo reale gli eventi principali del sistema tra cui quindi anche gli accessi al sistema si utilizza l'applicativo <SAMP>xconsole</SAMP> che ad esempio pu&ograve; essere avviato in una piccola finestra con il seguente comando:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>xconsole -fn 6x10 -geometry 485x100+470+0 -file /dev/xconsole &amp; </CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote40" NAME="footnote-ref40">(40)</A></SUP></P>
+
+<H2>2.16 &nbsp; <A NAME="title353"></A><A NAME="anchor374"></A>
+ Scaricamento file - riproduzione (<A NAME="index1731"></A>mirror) di siti </H2>
+
+<P><STRONG>2.16.1)&nbsp;&nbsp;<A NAME="title354"></A><A NAME="anchor375"></A>
+ Quali sono i programmi per GNU/Linux che si devono utilizzare per scaricare i file ad intervalli? <A NAME="index1732"></A> <A NAME="index1733"></A> <A NAME="index1734"></A> <A NAME="index1735"></A> <A NAME="index1736"></A> </STRONG></P>
+
+<P>Per poter scaricare file di grosse dimensioni a pi&ugrave; riprese, si utilizzano programmi ed applicativi appositi. Ecco una lista di quelli pi&ugrave; frequentemente utilizzati:</P>
+
+<UL>
+
+<LI>
+
+<P><SAMP>wget</SAMP> per riga di comando;</P>
+</LI>
+
+<LI>
+
+<P><A NAME="index1737"></A>GTransferManager (reperibile presso &lt;<EM><A HREF="http://gtm.sourceforge.net">http://gtm.sourceforge.net</A></EM>&gt;); <SUP><A HREF="#footnote41" NAME="footnote-ref41">(41)</A></SUP> </P>
+
+<TABLE ID="anchor376" BORDER="0" WIDTH="100%">
+<TR><TD>
+
+<P><IMG SRC="20.jpg" ALT="figure/gnome_transfer_manager" HEIGHT="340"></P>
+
+<P class="caption"> Figura <A HREF="ldr5.html#anchor376">2.1</A>. GTransferManager. </P>
+
+</TD></TR>
+</TABLE>
+</LI>
+
+<LI>
+
+<P><A NAME="index1738"></A>Caitoo (KDE 2.<VAR>x</VAR>) (reperibile presso &lt;<EM><A HREF="http://devel-home.kde.org/~caitoo/">http://devel-home.kde.org/~caitoo/</A></EM>&gt;); <SUP><A HREF="#footnote42" NAME="footnote-ref42">(42)</A></SUP> </P>
+
+<TABLE ID="anchor377" BORDER="0" WIDTH="100%">
+<TR><TD>
+
+<P><IMG SRC="21.jpg" ALT="figure/caitoo" HEIGHT="226"></P>
+
+<P class="caption"> Figura <A HREF="ldr5.html#anchor377">2.2</A>. Caitoo. </P>
+
+</TD></TR>
+</TABLE>
+</LI>
+</UL>
+
+<P><STRONG>2.16.2)&nbsp;&nbsp;<A NAME="title355"></A><A NAME="anchor378"></A>
+ Come si riprende con <A NAME="index1739"></A>Wget uno scaricamento interrotto? <A NAME="index1740"></A> <A NAME="index1741"></A> </STRONG></P>
+
+<P>La sintassi corretta di <SAMP>wget</SAMP> per riprendere lo scaricamento interrotto di un file &egrave;:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>wget -c http://<VAR>server</VAR>/ <VAR>percorso</VAR>/<VAR>file</VAR></CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>L'opzione <SAMP>-c</SAMP> funziona solo se non c'&egrave; un <A NAME="index1742"></A>server <A NAME="index1743"></A>proxy (fare riferimento anche alla LDR <A HREF="ldr5.html#anchor382">2.16.6</A>) e se la funzione che rende possibile riprendere gli scaricamenti interrotti (<EM>reget</EM>) &egrave; abilitata.</P>
+
+<P><STRONG>2.16.3)&nbsp;&nbsp;<A NAME="title356"></A><A NAME="anchor379"></A>
+ Come si riprende uno scaricamento interrotto da un sito FTP? <A NAME="index1744"></A> <A NAME="index1745"></A> </STRONG></P>
+
+<P>Per riprendere lo scaricamento di un file da un sito FTP qualora se ne fosse scaricata solamente una parte, si deve utilizzare il comando <SAMP>reget</SAMP> di <SAMP>ftp</SAMP>. Se fosse possibile, &egrave; bene provare ad utilizzare <SAMP>wget</SAMP> con l'opzione <SAMP>-c</SAMP>, come indicato nella LDR <A HREF="ldr5.html#anchor378">2.16.2</A>.</P>
+
+<P><STRONG>2.16.4)&nbsp;&nbsp;<A NAME="title357"></A><A NAME="anchor380"></A>
+ Come si crea una <A NAME="index1746"></A>riproduzione speculare  (<EM>mirror</EM>) di un sito? <A NAME="index1747"></A> <A NAME="index1748"></A> <A NAME="index1749"></A> </STRONG></P>
+
+<P>Per effettuare una riproduzione speculare (<A NAME="index1750"></A>mirror) di un sito si dovr&agrave; utilizzare <A NAME="index1751"></A>Wget, con l'opzione <SAMP>-m</SAMP>:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>wget -m http://<VAR>www.sito.it</VAR></CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>Questo comando produrr&agrave; una riproduzione completa di <VAR>http://www.sito.com</VAR>.</P>
+
+<P><STRONG>2.16.5)&nbsp;&nbsp;<A NAME="title358"></A><A NAME="anchor381"></A>
+ Come si fornisce utente e <A NAME="index1752"></A>password a <A NAME="index1753"></A>Wget per scaricare un file da un sito FTP? <A NAME="index1754"></A> <A NAME="index1755"></A> <A NAME="index1756"></A> <A NAME="index1757"></A> </STRONG></P>
+
+<P>La <A NAME="index1758"></A>pagina di manuale di <A NAME="index1759"></A>Wget riporta a questo riguardo quanto segue:</P>
+<BLOCKQUOTE>
+
+<PRE>You may encode your username and/or password to URL using the form:
+
+ftp://user:password@host/dir/file</PRE>
+
+</BLOCKQUOTE>
+
+<P>Per indicare quindi a <A NAME="index1760"></A>Wget il nome utente e la <A NAME="index1761"></A>password da utilizzare per scaricare un file da un sito FTP si dovr&agrave; utilizzare il seguente comando:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>wget ftp://<VAR>utente</VAR>:<VAR>password </VAR>@ftp.linuxfaq.it/packages/file</CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P><STRONG>2.16.6)&nbsp;&nbsp;<A NAME="title359"></A><A NAME="anchor382"></A>
+ Si pu&ograve; utilizzare <A NAME="index1762"></A>Wget con i <A NAME="index1763"></A>proxy? <A NAME="index1764"></A> <A NAME="index1765"></A> <A NAME="index1766"></A> </STRONG></P>
+
+<P>Per ci&ograve; che riguarda i <A NAME="index1767"></A>proxy, &egrave; possibile dichiararne gli indirizzi mediante alcune variabili:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>export ftp_proxy=<VAR>proxy.domain.com </VAR>:<VAR>8080</VAR></CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote43" NAME="footnote-ref43">(43)</A></SUP></P>
+
+<P>o, nel caso di un <A NAME="index1770"></A>server <A NAME="index1771"></A>proxy HTTP:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>export http_proxy=<VAR>proxy.domain.com </VAR>:<VAR>8080</VAR></CODE></STRONG>[<KBD>Invio</KBD>]<SUP><A HREF="#footnote44" NAME="footnote-ref44">(44)</A></SUP></P>
+
+<P>Una volta effettuata questa dichiarazione, sar&agrave; possibile attivare o meno i <A NAME="index1774"></A>proxy mediante l'opzione <SAMP>-Y</SAMP> di <SAMP>wget</SAMP>:</P>
+
+<P class="command"><CODE>$&nbsp;</CODE><STRONG><CODE>wget -Y on http://<VAR>server</VAR>/ <VAR>percorso</VAR>/<VAR>file</VAR></CODE></STRONG>[<KBD>Invio</KBD>]</P>
+
+<P>In questo caso (utilizzando i <A NAME="index1775"></A>server <A NAME="index1776"></A>proxy) non funziona l'opzione <SAMP>-c</SAMP> che &egrave; quella che permette di riprendere gli scaricamenti interrotti.</P>
+
+<P><STRONG>2.16.7)&nbsp;&nbsp;<A NAME="title360"></A><A NAME="anchor383"></A>
+ Come si pu&ograve; automatizzare lo scaricamento di file in orari particolari? <A NAME="index1777"></A> </STRONG></P>
+
+<P>Per poter scaricare alcuni file, magari di grosse dimensioni, &egrave; preferibile farlo in orari particolari, quando si suppone che il traffico della Rete sia limitato. Si dovr&agrave; scrivere un piccolo <A NAME="index1778"></A>script che, richiamato da <A NAME="index1779"></A>Cron ad una certa ora, si colleghi ad <A NAME="index1780"></A>Internet, lanci <A NAME="index1781"></A>Wget e al termine dello scaricamento dei file interrompa la connessione e spenga la macchina.</P>
+
+<P>Lo <A NAME="index1782"></A>script, (invocato da <A NAME="index1783"></A>Cron), potr&agrave; essere simile al seguente:</P>
+
+<PRE>#!/bin/sh
+#d_script = download script
+#Script di Roberto Veronico
+
+#collegamento
+/usr/sbin/pppd &amp;
+
+# attesa del collegamento
+until
+test -f /var/run/ppp0.pid
+do cat /dev/null
+done
+
+# attesa della connessione
+a=$[SECONDS]
+b=$[$a+15]
+until test $[SECONDS] -gt $[b]
+do cat /dev/null
+done
+
+# comando per scaricare i file indicati in /home/utente/d_file
+# e che verranno salvati in /home/utente/download
+/usr/bin/wget -c -i /home/utente/d_file -P /home/utente/download
+
+# fine della connessione
+kill `cat /var/run/ppp0.pid`</PRE>
+LDR --- <EM>Copyright &copy; 1999-2001 Gaetano Paolone -- &nbsp;bigpaul&nbsp;@&nbsp;linuxfaq.it</EM><HR>
+
+<P><A HREF="#footnote-ref1" NAME="footnote1">1)</A> Quest'ultima soluzione &egrave; la pi&ugrave; indicata per <A NAME="index1121"></A>server di dimensioni limitate.</P>
+
+<P><A HREF="#footnote-ref2" NAME="footnote2">2)</A> Questo comando equivale a <SAMP>apache stop</SAMP> e <SAMP>apache start</SAMP>.</P>
+
+<P><A HREF="#footnote-ref3" NAME="footnote3">3)</A> <SAMP>ipchains</SAMP> si pu&ograve; utilizzare almeno con versioni del <A NAME="index1128"></A>kernel</P>
+
+<P><A HREF="#footnote-ref4" NAME="footnote4">4)</A> ci si riferisce a <A NAME="index1136"></A>kernel di versione 2.2.<VAR>x</VAR> o superiori.</P>
+
+<P><A HREF="#footnote-ref5" NAME="footnote5">5)</A> 192.168.1.1 &egrave; l'indirizzo IP del <A NAME="index1148"></A>router</P>
+
+<P><A HREF="#footnote-ref6" NAME="footnote6">6)</A> Questa regola tenta di impedire lo <EM>spoofing</EM></P>
+
+<P><A HREF="#footnote-ref7" NAME="footnote7">7)</A>  in questo modo il comando <SAMP>ping</SAMP> diretto verso il <A NAME="index1153"></A>server fallir&agrave;.</P>
+
+<P><A HREF="#footnote-ref8" NAME="footnote8">8)</A> che legge il file <CODE>.netrc</CODE> locale o avvia il procedimento di identificazione da parte del <A NAME="index1192"></A> server FTP remoto.</P>
+
+<P><A HREF="#footnote-ref9" NAME="footnote9">9)</A>  modalit&agrave; che si disattiva normalmente attraverso il comando <SAMP>prompt</SAMP>.</P>
+
+<P><A HREF="#footnote-ref10" NAME="footnote10">10)</A> dove <VAR>PID</VAR> &egrave; il PID della <A NAME="index1199"></A>shell Bash.</P>
+
+<P><A HREF="#footnote-ref11" NAME="footnote11">11)</A> dove <VAR>utente</VAR> &egrave; il nome dell'utente sulla macchina remota chiamata <VAR>server</VAR>.</P>
+
+<P><A HREF="#footnote-ref12" NAME="footnote12">12)</A> dove <VAR>directory</VAR> &egrave; la porzione di <A NAME="index1263"></A>file&nbsp;system che si intende copiare sulla macchina remota</P>
+
+<P><A HREF="#footnote-ref13" NAME="footnote13">13)</A> controllare le LDR <A HREF="ldr4.html#anchor129">1.9.7</A> e <A HREF="ldr4.html#anchor131">1.9.9</A> per la gestione dei servizi e dei programmi da eseguire all'avvio del sistema.</P>
+
+<P><A HREF="#footnote-ref14" NAME="footnote14">14)</A> <A NAME="index1275"></A>shell Bash</P>
+
+<P><A HREF="#footnote-ref15" NAME="footnote15">15)</A> <A NAME="index1276"></A>shell C</P>
+
+<P><A HREF="#footnote-ref16" NAME="footnote16">16)</A> ammesso che il nome della macchina sia <SAMP>localhost</SAMP>. </P>
+
+<P><A HREF="#footnote-ref17" NAME="footnote17">17)</A> <A NAME="index1280"></A>shell Bash</P>
+
+<P><A HREF="#footnote-ref18" NAME="footnote18">18)</A> <A NAME="index1281"></A>shell C</P>
+
+<P><A HREF="#footnote-ref19" NAME="footnote19">19)</A> <A NAME="index1292"></A>shell <A NAME="index1293"></A>Bash </P>
+
+<P><A HREF="#footnote-ref20" NAME="footnote20">20)</A> <A NAME="index1294"></A>shell <A NAME="index1295"></A>C </P>
+
+<P><A HREF="#footnote-ref21" NAME="footnote21">21)</A> <A NAME="index1296"></A>shell <A NAME="index1297"></A>Bash </P>
+
+<P><A HREF="#footnote-ref22" NAME="footnote22">22)</A> <A NAME="index1298"></A>shell <A NAME="index1299"></A>C </P>
+
+<P><A HREF="#footnote-ref23" NAME="footnote23">23)</A>  o <CODE>/etc/httpd.conf</CODE> o <CODE>/etc/httpd/httpd.conf</CODE> o <CODE>/etc/apache/httpd.conf</CODE></P>
+
+<P><A HREF="#footnote-ref24" NAME="footnote24">24)</A>  o <CODE>/etc/srm.conf</CODE> o <CODE>/etc/httpd/srm.conf</CODE> o <CODE>/etc/apache/srm.conf</CODE></P>
+
+<P><A HREF="#footnote-ref25" NAME="footnote25">25)</A> per una distribuzione GNU/Linux <A NAME="index1328"></A> Debian</P>
+
+<P><A HREF="#footnote-ref26" NAME="footnote26">26)</A>  o <CODE>/etc/access.conf</CODE> o <CODE>/etc/httpd/access.conf</CODE>. </P>
+
+<P><A HREF="#footnote-ref27" NAME="footnote27">27)</A>  &lt;<EM><A HREF="ftp://ftp.it.debian.org/debian/dists/stable/main/binary-i386/base/pppconfig_1.1.deb">ftp://ftp.it.debian.org/debian/dists/stable/main/binary-i386/base/pppconfig_1.1.deb</A></EM>&gt; </P>
+
+<P><A HREF="#footnote-ref28" NAME="footnote28">28)</A> (premettendo un #)</P>
+
+<P><A HREF="#footnote-ref29" NAME="footnote29">29)</A>  occorrer&agrave; ovviamente inserire i dati relativi al proprio caso</P>
+
+<P><A HREF="#footnote-ref30" NAME="footnote30">30)</A> la <STRONG>&amp;</STRONG> serve a mandare il processo in secondo piano (<EM>background</EM>).</P>
+
+<P><A HREF="#footnote-ref31" NAME="footnote31">31)</A> Controllare anche lo <A NAME="index1487"></A>script presente nella LDR <A HREF="ldr5.html#anchor332">2.10.18</A></P>
+
+<P><A HREF="#footnote-ref32" NAME="footnote32">32)</A> che potranno essere chiamati ad esempio <CODE>connetti-providerA</CODE>, <CODE>connetti-providerB</CODE>, ecc. </P>
+
+<P><A HREF="#footnote-ref33" NAME="footnote33">33)</A> insomma il file contenente i messaggi di posta.</P>
+
+<P><A HREF="#footnote-ref34" NAME="footnote34">34)</A> dove <VAR>utente</VAR>@<VAR>server</VAR> &egrave; l'indirizzo di posta elettronica del destinatario.</P>
+
+<P><A HREF="#footnote-ref35" NAME="footnote35">35)</A> Il valore dopo <SAMP>-D</SAMP> rappresenta la dimensione massima (modificabile a piacere) che deve avere il file temporaneo.</P>
+
+<P><A HREF="#footnote-ref36" NAME="footnote36">36)</A> modificando ovviamente i valori delle directory indicate con i propri.</P>
+
+<P><A HREF="#footnote-ref37" NAME="footnote37">37)</A> <STRONG>sig_rotate.pl</STRONG> &nbsp; GPL</P>
+
+<P><A HREF="#footnote-ref38" NAME="footnote38">38)</A> dove <SAMP>bg</SAMP> &egrave; il colore di sfondo con valore <VAR>X</VAR>, <SAMP>fg</SAMP> &egrave; quello del testo con valore <VAR>Y</VAR>, <SAMP>fn</SAMP> indica il carattere e <SAMP>geometry</SAMP> la dimensione del terminale grafico.</P>
+
+<P><A HREF="#footnote-ref39" NAME="footnote39">39)</A>  dove <SAMP>xxx.yyy.zzz</SAMP> rappresenta il nome del <A NAME="index1726"></A>gruppo di discussione</P>
+
+<P><A HREF="#footnote-ref40" NAME="footnote40">40)</A> <CODE>/dev/xconsole</CODE> deve avere il permesso di lettura</P>
+
+<P><A HREF="#footnote-ref41" NAME="footnote41">41)</A> <STRONG>GTransferManager</STRONG> &nbsp; GPL</P>
+
+<P><A HREF="#footnote-ref42" NAME="footnote42">42)</A> <STRONG>Caitoo</STRONG> &nbsp; GPL</P>
+
+<P><A HREF="#footnote-ref43" NAME="footnote43">43)</A> dove <VAR>proxy.domain.com</VAR> &egrave; l'indirizzo del <A NAME="index1768"></A>server <A NAME="index1769"></A>proxy HTTP e 8&nbsp;080 l'indirizzo della porta.</P>
+
+<P><A HREF="#footnote-ref44" NAME="footnote44">44)</A> dove <VAR>proxy.domain.com</VAR> &egrave; l'indirizzo del <A NAME="index1772"></A>server <A NAME="index1773"></A>proxy HTTP e 8&nbsp;080 l'indirizzo della porta.</P>
+</DIV>
+<HR>
+<P>Dovrebbe essere possibile fare riferimento a questa pagina anche con il nome  <A HREF="reti_e_rete_internet.html">reti_e_rete_internet.html</A></P>
+<P>
+<A HREF="ldr6.html">[successivo]</A>
+<A HREF="ldr4.html">[precedente]</A>
+<A HREF="ldr.html">[inizio]</A>
+<A HREF="ldr23.html">[fine]</A>
+<A HREF="ldr1.html">[indice generale]</A>
+<A HREF="ldr21.html">[hall of fame]</A>
+<A HREF="ldr23.html">[indice analitico]</A>
+</P>
+</BODY>
+</HTML>

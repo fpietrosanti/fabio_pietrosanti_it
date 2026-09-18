@@ -1,0 +1,51 @@
+AES algorithm selected for use in space at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « Blackberry Security and Encryption: Devil or Angel? 
+ Web2.0 privacy leak in Mobile apps » 
+
+ AES algorithm selected for use in space 
+
+ Published by naif July 8th, 2010 
+
+ in Privacy , security and technology . 
+ 0  Comments 
+
+ I encountered a nice paper regarding analysis and consideration on which encryption algorithm it’s best suited for use in the space by space ship and equipments.
+
+ The paper has been done by the Consultative Committee for Space Data Systems that’s a consortium of all space agency around that cumulatively handled more than 400 mission to space .
+
+ Read the paper Encryption Algorithm Trade Survey as it gives interesting consideration and comparison between different encryption algorithms.
+
+ Obviously the finally selected algorithm is AES , while KASUMI (used in UMTS networks) was avoided.
+
+ 0 Responses to “AES algorithm selected for use in space”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « Blackberry Security and Encryption: Devil or Angel? 
+ Web2.0 privacy leak in Mobile apps » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.628 sec. w/ 41 queries.
+
+ RSS Entries and RSS Comments

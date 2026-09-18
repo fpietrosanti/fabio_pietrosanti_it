@@ -1,0 +1,5552 @@
+u^_njj«_eait ij-11-zuuj iv.zz Pagina z 
+
+
+
+
+ttore Responsabile: Luca Sprea 
+
+gazzi della redazione europea: 
+
+grandahackerjournal.iti 
+Bismark - it n II Cocciai Gualtiero 
+Tronconin Ana Estebarn Marco 
+Bianchii Edoardo Bracaglian 
+Polao Capobussin Lucio 
+Bragagnolon Amedeu Bruguèsn 
+regory Perori 
+
+: Cesare Salgaro 
+
+phic designer: Dopla Graphic S-r-1- 
+infoSdopla-com 
+
+Copertina: Daniele Festa 
+
+Publishing company 
+
+Mever S-r-1- 
+
+Via Torinon SI 
+
+EDDh3 Cernusco S/N (III) 
+
+Fax +3 c ì/DE. c ìE.H3.EE.3S 
+
+Printing 
+
+Roto EDDO 
+
+Distributore 
+
+Parrini & C- S-PA- 
+DDlflT Roma - Via Vitorchianon fll 
+Tel- Dh.33MSS.l r- 
+D13M Milanoi V-le Forlaninii E! 
+DE-7Sm7-l r- 
+
+abbonamenti 
+
+Staff S-r-1- 
+
+Via Bodonin EH 
+
+EDDÌD Buccinasco (III) 
+
+Tel. DE. MS. 7D. EH. 15 
+
+Fax QE.H5.7Q.EH.3H 
+
+Lun- - Veri- T-.3D/1E-.3D - mi3D/17i3D 
+
+abbonamentiBstaf foni ine- biz 
+
+Pubblicazione quattordicinale 
+registrata al Tribunale di Hila. 
+il E7/1D/D3 con il numero hDl- 
+Direttore responsabile - Luca S, 
+
+Gli articoli contenuti in Hacker 
+Journal hanno scopo prettamente 
+didattico e divulgativo- L'editore 
+declina ogni responsabilità' circa 
+l'uso improprio delle tecniche che 
+vengono descritte al suo interno- 
+L'invio di immagini ne autorizza 
+implicitamente la pubblicazione 
+gratuita su qualsiasi pubblicazior 
+anche non della Hever S-r-1- 
+
+opyright 4ever S.r.l. 
+
+estii fotografie e disegnin 
+pubblicazione anche parziale viet 
+
+
+
+Ormai sapete dove e come trovarci, appena 
+I possiamo rispondiamo a tutti, anche a quelli 
+
+incazzati. redazione@hacker journal.it 
+
+
+
+hack'er (hàk'ar) 
+
+"Persona che si diverte ad esplorare i dettagli dei sistemi di programmazione 
+e come espandere le loro capacità, a differenza di molti utenti, che preferiscono 
+imparare solamente il minimo necessario" 
+
+
+
+MAC 
+
+
+
+ROLL 
+
+
+
+Da questo mese viene pubblicata anche in Italia la rivista Rolling Sto- 
+ne, probabilmente la più antica e importante pubblicazione Rock ameri- 
+cana. A sfogliarla, però, non si può non avere una sensazione strana. La 
+parte editoriale prende; in molte parti è ruvida come dovrebbe. La pub- 
+blicità, invece, è quella che ci si aspetta di trovare in una rivista da par- 
+rucchiere maschile di tendenza: stilisti, profumi, auto di lusso e un po' di 
+gagdet hi-tech. 
+
+
+
+Non so voi, ma quando vado a un concerto, runica mia preoccupazione 
+in fatto di vestiti è che non deve dispiacermi troppo se i pantaloni si mac- 
+chiano di fango fino alla cintura, o se la maglietta si strappa mentre sto 
+pogando. E le scarpe devono essere abbastanza comode da farmi stare in 
+piedi finché ne ho voglia. 
+
+Insomma, in bocca rimane uno strano sapore metallico addolcito da 
+troppo miele, una specie di incongruenza, una contraddizione di fondo. 
+Che traspare anche da alcune pubblicità. Una di queste mi ha colpito in 
+particolare. Una pagina del super gestore Telefonico Italiano che pubbli- 
+cizzava il suo servizio Adsl ricaricabile (che qui chiamerò celiA). Il titolo 
+cerca di stare a suo agio sulla rivista: "Card Rock", e la frase a effetto non 
+è da meno: "Non senti altro che MP3? Usa lAdsl quando ce n'è un buon 
+motivo". 
+
+
+
+Ora, avete anche voi la sensazione che una grande azienda multina- 
+zionale sta cercando di stimolare i suoi potenziali clienti ad acquistare un 
+suo servizio per compiere un'azione quanto meno discutibile? 
+
+
+
+Altre multinazionali non si trovano in una situazione migliore: c'è 
+òsso dell'elettronica che ha anche varie etichette discografiche (vi, 
+;ono in vena, lo chiamerò Nyso), e mentre una sua mano produce dischi e 
+si batte con tutti i mezzi perché non vengano copiati, prestati, ascoltati da 
+più di cinque persone eccetera, con l'altra mano produce e vende maste- 
+rizzatoci e supporti di ogni tipo. 
+
+La cultura Rock e quella delfhacking hanno molto in comune: quel sen- 
+so di appartenenza a una comunità, il gusto per per l'estremo, le sfide ai 
+margini della legalità, e un sano senso di ribellione. E anche dalle nostre 
+parti c'è qualcuno pronto a usare questi elementi per guadagnarci. 
+
+Stanno infatti cominciando a sorgere aziende che dicono di praticare 
+f'hacking etico" per cavalcare un filone che ora va di moda, ma con 
+l'hacking non hanno nulla a che fare. Oltre ovviamente alle altre aziende 
+di sicurezza tradizionali, per le quali l'hacker è solo uno spauracchio da er- 
+g/fare davanti ai clienti per terrorizzarli e vendergli i suoi prodotti. 
+
+L'argomento è complesso, delicato, e non può esaurirsi in mezza pagi- 
+netta. Ne parliamo infatti nell'articolo alle pagine 10-13, tenendo ben pre- 
+sente anche che accanto a questi, ci sono anche alcuni hacker che hanno 
+sfruttato le proprie conoscenze per inventarsi un lavoro senza per questo 
+abbandonare lo spirito originale, e infatti continuano a rendere disponi- 
+bili i propri software e i propri studi. 
+
+grand@hackerjournal.it 
+PS: in ogni caso, benvenuta Rolling Stone ;-) 
+
+
+
+2 | www.hackerjournal.it 
+
+
+
+
+^> 
+
+
+
+UJ_Uò_nj j«_posta ij-ii-zuuj iu:zó Pagina j 
+
+
+
+
+Yfiee 
+
+
+
+
+
+
+m 
+
+
+
+
+^"^ 
+
+
+
+
+
+
+SP 
+
+
+
+
+rpr 
+
+
+
+di nuovo 
+
+in edicola 
+
+Giovedì 
+
+4 dicembre ! 
+
+
+
+Lr prima rli/isifl trading Italiana 
+
+
+
+NOeu^ctffc i 
+
+
+
+/;- AL TUUHCmUlT f V-.FH7MW7? / .'■' £7aU/^DV5 i 
+
+
+
+HJ DOWNLOAD 
+
+Sapevate che hackerjournal.it 
+c'è anche una sezione che 
+elenca e recensisce i migliori 
+software e strumenti di sicu- 
+rezza? La "collezione" è in 
+continua crescita, anche per- 
+ché siete voi a costruirla, 
+aggiungendo le vostre segna- 
+lazioni e recensioni. Al 
+momento, sono elencati più 
+di 110 programmi, suddivisi 
+in nove categorie: 
+
+
+
+T 
+
+
+
+
+
+
+Hnti-Troyan 
+
+
+
+Hntiuirus 
+Firewall 
+Forensic Tools 
+Intrusion Detection 
+
+
+e 
+
+
+In 
+
+
+r 
+
+
+^^» 
+
+
+a B m_ 
+
+
+
+I™ 
+
+
+
+Linux 
+
+Scanner 
+
+Stress Testing Tool 
+
+Windows 
+
+
+
+"rT^I 
+
+
+
+Fateci un giro: scommettiamo che molti programmi 
+
+
+
+i r*i !■■<>] i L«PT<ggZ«] 
+
+
+
+e ancora 
+
+
+
+I uastri siti 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I Ili --. 'V 
+
+
+i 
+
+
+Vi 
+
+
+
+
+
+
+II.- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^H \W'<3) ^H 
+
+
+
+
+Loadmg 
+
+
+
+
+http://web.tiscali.it/no-redirect-tiscali/juniord2003 
+
+
+
+r£££ 
+
+
+
+freeHACKnet è il servizio gratuito di collegamento 
+a Internet targato Hacker Journal: indirizzo 
+email @hackerjournal.it con 5 Mbyte, accesso 
+super veloce fino a 1 28 Kbit al secondo (ISDN mul- 
+tilink PPP), server newsgroup, controllo anti virus e 
+anti spam. Niente abbonamento, nessuno sbatti- 
+mento, paghi solo la tariffa telefonica urbana. 
+Corri subito a iscriverti su 
+www.hackerjournal.it/freeinternet 
+
+
+
+Nuova password! 
+
+Ecco i codici per accedere alla Secret Zone del no- 
+stro sito, dove troverete gli arretrati, informazioni e 
+approfondimenti interessanti. Con alcuni browser, 
+potrebbe capitare di dover inserire due volte gli 
+stessi codici. Non fermatevi al primo tentativo! 
+
+
+
+user: 
+pass: 
+
+
+
+sball8 
+ex3mis 
+
+
+
+
+
+
+
+www.hackerjournal.it 3 
+
+
+
+pò di giorni, mi sto chiedendo come sia 
+
+
+
+mailto 
+
+
+
+LICENZE PER SCRITTI E RACCONTI 
+
+Sto lavorando alla realizzazione di un 
+progetto in cui tutti possano pubblicare i 
+propri libri e racconti di qualsiasi gen 
+essi siano, spaziando dalla letteratura 
+l'informatica. Per fare questo c'è bisogno 
+di una licenza che tuteli quelli scritti.... 
+Cosa devo fare?? 
+
+
+
+In Italia ogni opera letteraria è pro- 
+tetta in modo automatico: non occor- 
+re apporre una dicitura di copyright; 
+basta poter dimostrare di esserne 
+l'autore. Certo, l'apposizione di un 
+copyright che indichi in modo esplici- 
+to l'autore e l'anno di produzione è 
+un ulteriore avvertimento a chi inten- 
+da appropriarsi dell'opera. 
+Detto ciò, si possono scegliere anche 
+forme di licenza che consentano per 
+esempio la libera copia e successiva 
+diffusione dell'opera, pur mantenen- 
+done i diritti d'autore. In questo sen- 
+so, le formule più interessanti e utiliz- 
+zate sono la Free Documentation Li- 
+cense di GNU (www.gnu.org) e quel- 
+le proposte da Creative Commons 
+(www.creativecommons.org). Nota 
+comunque che anche queste licenze 
+sono una forma di copyright. Fatte 
+queste considerazioni se il progetto 
+è molto importante, consulterei co- 
+munque un avvocato specializzato 
+sulla tematica del diritto d'autore, 
+che ti può dare consigli molto più 
+adatti alla situazione italiana. 
+
+
+
+VIRUS VIA SMS 
+
+',■ 
+Leggevo sul numero 1 
+35 di HJ, nell'articolo T 
+che parla dei trucchi„^ 
+per cellulari, che esi- 
+stono anche dei virus per Siemens, che 
+possono essere inviati via sms (non avrei 
+mai pensato che si sarebbe arrivati an- 
+che a questo). Per questo motivo, da un 
+
+
+
+possibile cne TramiTe un sms si possa 
+mandare in crash un cellulare. Mi piace- 
+rebbe poter leggere qualcosa riguardo 
+questa logica. Come sia possibile intac- 
+care il SW di un cellualre tramite SMS. 
+Forse porprio tramite i comandi AT? Vi 
+ringrazio moltissimo per quanto farete 
+per colmare questa mia curiosità e se do- 
+vessi essere anche di spunto per un vo- 
+stro articolo, beh... ne sarei veramente 
+molto onorato. 
+
+Grazie ancora e complimentissimi per la 
+vostra rivista. 
+
+Il PrincipeLele 
+
+
+
+Le basi tecniche sono le stesse che 
+consentono di aggiungere, per 
+esempio, un nuovo logo o una suone- 
+ria tramite un SMS. In entrambi que- 
+sti casi, il contenuto degli SMS viene 
+scritto in certe aree della memoria 
+del telefono. Se al posto di un logo c'è 
+del codice malevolo, e se si fa in mo- 
+do che questo venga scritto in zone 
+di memoria in cui non bisognerebbe 
+ficcare il naso, ecco assicurato il 
+crash del cellulare. 
+
+
+
+CUPERARE PASSWORD DI P 
+
+Alcuni miei colleghi hanno fatto un po' di 
+pasticci con dei PC della scuola in cui la- 
+voro. Nella loro imperizia, ultimamente 
+hanno cancellato le password di accesso 
+
+
+
+
+agli account di posta elettronica. Teorica- 
+mente non ci sarebbero dovuti essere 
+molti problemi, perche' le iscrizioni sono 
+state tutte stampate, registrate in segrete- 
+ria e protocollate, ma la segreteria ne ha 
+perse due! Tutte le altre verranno ripristi- 
+nate, ma queste due, fra l'altro abba- 
+stanza importanti sembrano perse per 
+sempre. 
+
+
+
+Mi ricordo pero' che anni fa, davanti a un 
+problema simile, su una rivista specializ- 
+zata trovai indicazioni su come raggiun- 
+gere un file di registro nel quale erano 
+memorizzate le pwd. Naturalmente non 
+ho più' le preziose informazioni e non mi 
+ricordo se si riferiscono anche agli ac- 
+count di posta. 
+
+^^laria Grazia P. 
+
+Un tentativo si può fare con alcuni 
+programmi che però, nella maggior 
+parte dei casi, possono operare solo 
+se la password è ancora registrata 
+dal programma (cioè, se si possono 
+vedere gli asterischi che mascherano 
+il campo della password). 
+Una raccolta di programmi gratuiti 
+è disponibile su A 
+
+www.webattack.com/freeware/ 
+security ffwpasswordrecovery.html. 
+Se la password è stata però cancel- 
+lata dal computer, non c'è molto da 
+fare. Ogni tentativo di "indovinare" 
+la password agendo sul server di po- 
+sta con strumenti di attacco a forza 
+bruta (che provano ogni combina- 
+zione di caratteri), possono essere in- 
+terpretati come un attacco informati- 
+co punibile penalmente, anche se gli 
+attacchi sono rivolti ad aprire la pro- 
+pria casella di posta. 
+Il traffico e le richieste generate da 
+questi programmi assorbe molte ri- 
+sorse del server del provider, che può 
+ritenersi "parte lesa". 
+In questo secondo caso, tunica stra- 
+da percorribile è quella di rivolgersi 
+al provider stesso, che è senz'altro in 
+grado di impostare una nuova pas- 
+sword. ^^^ 
+
+Auguri per le inevitabili attese in li- 
+nea con il supporto tecnico del provi- 
+
+
+
+der :-/ 
+
+
+
+SPAM 
+
+
+
+Carissima direzione di HJ volevo chiede- 
+re a voi, che siete molto impegnati da 
+sempre nella lotta contro lo spam come 
+faccio a chiudre una volta per tutte tutte 
+quelle fastidiossissime finestre pubblicita- 
+rie che si aprono durante la navigazione 
+su internetrgli "about:blank" io non penso 
+che sia pubblicità "normale" cioè quella 
+che supportano un sito e che si aprono 
+
+
+
+
+
+^> 
+
+
+
+
+
+quando si visita un sito, infatti se resto col- 
+legato ad internet (anche se non apro In- 
+ternet Explorer) mi si aprono lo stesso e un 
+altro effetto collaterale è che rallentano la 
+connessione essendo la mia una 56K r 11 '* 
+up resto nelle vostre mani 
+
+
+
+lonso 
+
+/ ragione: non si tratta di una pub- 
+icità normale, ma di quello che vie- 
+ne definito "Spam del servizio Mes- 
+senger". Windows XP e Windows 2000 
+hanno abilitato un servizio che con- 
+sente di ricevere messaggi che com- 
+paiono sullo schermo all'interno di 
+una finestrella. Lo scopo di questo 
+servizio è quello di consentire all'am- 
+ministratore di una rete di mandare 
+messaggi urgenti a tutti gli utenti (per 
+esempio, per avvisarli dell'imminente 
+spegnimento del server). Il servizio 
+però non è soggetto ad alcuna auten- 
+ticazione efficace, per cui chiunque 
+può inviarti un messaggio semplice- 
+mente conoscendo il tuo indirizzo IP 
+(o, più facilmente, sparando indirizzi 
+IP a caso). ^k 
+
+Per evitare il problema, devi disabili- 
+tare il servizio messenger (occhio, non 
+c'entra nulla con MSN Messenger, 
+programma di messaggistica istani 
+nea). Per fare ciò, su Windows XP, 
+lancia il programma "services.msc" 
+(da Start/Esegui). Nella lista "Servizi" 
+individua la voce "Messenger 1 ', fai clic 
+col pulsante destro del mouse su di 
+essa e seleziona "Arresta". Su Win- 
+dows 2000, la lista dei servizi si trova 
+in Pannello di Controllo/Strumenti di 
+Amministrazione. 
+
+
+
+ALCUNE PRECISAZIONI... 
+
+Salve redazione di hj, sono un lettore del- 
+la vostra rivista. Vi scrivo per informarvi 
+che nel numero 36 a pagina 27 c'è un po' 
+di confusione nell'uso di '>' nella shell di 
+linux. Nella seconda colonna della pagina 
+si legge: "L'ultimo operatore che analizza- 
+mmo è >: esso svolge una funzione ana- 
+loga all'operatore > ma si preoccupa...". 
+Potrebbe essere solo un errore di stampa: 
+infatti l'operatore che appende ad un file 
+già esistente l'output di un comando è 
+>> e non >. La svista è ripetuta anche 
+nel riquadro verde. 
+
+Stefano 
+
+Più che un errore di stampa: è un erro- 
+re di sviluppo! Per applicare gli stili al 
+testo che sarà importato dal program- 
+ma usato per l'impaginazione (Quark 
+XPress), usiamo un programmino che 
+ci siamo sviluppati da soli in redazio- 
+ne, e che inserisce automaticamente i 
+tag usati per applicare gli stili. Come 
+nell'html, questi tag si aprono e si 
+chiudono coi segni di maggiore e mi- 
+nore. Prima di applicare gli stili, il no- 
+stro programmino ovviamente sosti- 
+tuisce i simboli di maggiore e minore 
+nel loro tag equivalente (altrimenti in- 
+casinerebbero l'apertura e la chiusura 
+dei tag degli stili). Quello che non ab- 
+biamo previsto è la presenza di due 
+segni di maggiore o minore consecuti- 
+vi: in questo caso, infatti, il primo se- 
+gno viene convertito, il secondo viene 
+invece "perso per strada". Purtroppo 
+non ci siamo accorti dell'errore in fase 
+di revisione delle bozze. 
+
+
+
+CLONECD E MORTO: SI PUÒ CRACCARE? 
+
+
+
+Come probabilmente saprete, 
+
+(http://www.elby.ch/it/products/clone_cd/ 
+index.html), la Elaborate Bytes ha dovuto 
+cessare la vendita di CloneCD dato che 
+superava agevolmente le protezioni CD. 
+Ora che succede? Non più diritto fare co- 
+pie di backup? 
+
+lo avevo scaricato già la trial di CloneCD, 
+ma ora è scaduta: il software ha perso 
+anche il copright? se clicco su acquista 
+key mi dice che il soft non esite più, di 
+
+
+
+conseguenza posso cracckrlo senza pro- 
+blemi legali? Oppure, nonostante abbia 
+perso anche il copright, ora è illegale an- 
+che USARE il software già scaricato? 
+
+
+
+...pi per i cloni... la pecora 
+Dolly è morta, CloneCD non si può più 
+vendere, e prima o poi qualcuno si 
+accorgerà anche di Zucchero. Dun- 
+que, le problematiche sono varie e se- 
+parate tra loro. ^L 
+Elaborate Bytes non può più vendere 
+CloneCD perché viola una legge 
+americana. Questo non ha ripercus- 
+sioni sugli utenti italiani che hanno 
+già acquistato il programma, che 
+possono ancora duplicare CD audio 
+allo scopo di creare una copia di si- 
+curezza personale. 
+
+
+
+ConeCD 
+
+just clone i 
+
+
+
+Tdi^i 
+
+
+
+Il farro aie fi sorrware non sia più in 
+vendita non fa però decadere i diritti 
+di autore, che continuano ad appar- 
+tenere a Elaborate Bytes. Ora, sebbe- 
+ne in Italia tu possa usare legalmente 
+CloneCD, non lo puoi copiare o crac- 
+care, perché (questo sì), in Italia è un 
+reato. Chi non ha acquistato in prece- 
+denza una copia di CloneCD, non po- 
+trà quindi usarlo. 
+
+
+
+
+<^ 
+
+
+
+Ub_uy_nj Jb_news IJ-ll-ZUUJ 1U:Z/ Pagina b 
+
+
+
+NEWS 
+
+
+
+O GLI OCCHI , . 
+^AANDORLA DI 
+JENSURA 
+
+
+
+l^L 
+
+
+
+
+ufr"-**' — 
+
+
+
+Il Grande Fratello del Ministero della Cultura 
+cinese ha puntato il suo occhio inquisitore 
+sugli Internet Cafè della nazione. Non solo tutti 
+i punti di accesso pubblico alla Rete saranno 
+obbligati a installare software di controllo per 
+monitorare le attività dei clienti. Pare anche che 
+la licenza di apertura di esercizi verrà d'ora in 
+poi concessa esclusivamente a grandi catene 
+controllate dallo Stato. La situazione 
+incresciosa è stata denunciata da Reporter 
+Senza Frontiere (http://www.rsf.org/), 
+organizzazione che da anni si batte per la libertà 
+di informazione nel mondo. 
+
+
+
+
+elia, uno dei più grandi Internet Service 
+_ Providers svedesi ha deciso di bloccare i 
+computer di tutti coloro che inviano 
+spamming tramite i suoi server. I computer 
+bloccati principalmente sono quelli infestati 
+da trojans che spediscono all'impazzata 
+centinaia di messaggi indesiderati. 
+Immaginiamo la gioia degli utenti: infetti e 
+mazziati, ehm... inchiodati. Telia assicura 
+comunque di offrire assistenza ai malcapitati, 
+aiutandoli a rimuovere il problema il più 
+velocemente possibile. 
+
+
+
+O MA... CHIEDERE IL PERMESSO? 
+
+
+
+□ 
+
+
+
+La botta di iniziativa di AOL ha lasciato tutti 
+quanti stupefatti e parecchio contrariati. 
+Senza minimamente interpellare i suoi 
+abbonati, il colosso americano ha infatti deciso 
+di disabilitare Windows Messenger. Il servizio, 
+che nulla ha a che vedere con il client di 
+
+
+
+.^aaaaaaaaVa 
+
+
+
+di Etaa a ala Mjl UZHD ] 4.44. -M 
+
+
+
+nmuiArMriO 4 Bc-b-;n. Tv ni lina óm DLun^ 
+il tu mu Irrts^al i chi ■ dri-nti ■ Iwni Èbani mi vah 
+Vu-YYdaaa rk con iru zapia? Afr 
+HTTP. AH ATTWU . ML RL S 
+^ai ni 51 par arai ara 
+
+
+
+j 
+
+
+
+messaggistica istantanea, è vero, costituiva un 
+canale privilegiato per lo spamming, nonché un 
+punto di possibile vulnerabilità per il sistema. 
+Ma non si capisce come AOL si possa essere 
+presa tale ingiustificata e ingiustificabile 
+libertà. Libertà che, diciamocela tutta, a un 
+ragazzino o hacker qualunque sarebbe costata 
+indagini, diffide, sanzioni e quant'altro. AOL si 
+difende dalle accuse come niente fosse, 
+dicendo che il servizio è per lo più sconosciuto 
+agli utenti, che è riattivabile con un clic del 
+mouse e che ha avuto accordi sulla faccenda 
+con il big di Redmond. Animata da tante buone 
+intenzioni, forse AOL non si rende conto del 
+paradosso. Combattere l'intrusione con... 
+un'intrusione non richiesta. Ma del resto c'è 
+anche chi pensa di fermare le guerre con altre 
+guerre. Deve essere così che va il mondo. 
+
+
+
+O TRENI DEL FUTURO DISAGI DEL PRESENTE? □ 
+
+
+
+Carrozze attrezzate per connessioni wi-fi, 
+passeggeri mollemente adagiati che 
+ingannano il tempo guardando la TV on 
+demand, alacri omini incravattati che 
+trasformano il viaggio in treno in un'occasione 
+per lavorare ancora di più e meglio. Ma dove 
+siamo? In un film ambientato nel futuro o tra i 
+fotogrammi dell'incubo di un qualche manager 
+malato di efficientismo e di tecnologismo? 
+Macché. Siamo a Genova dove pochi giorni fa 
+Trenitalia ha presentato un nuovo modello di 
+treno del futuro. Il progetto si chiama Fifth (Fast 
+Internet For Fast Train Host), è realizzato in 
+collaborazione con Alenia Spazio e prevede 
+l'allestimento di spazi tecnologicamente 
+attrezzati sui treni di lunga percorrenza. Le 
+sperimentazioni avranno luogo per tutto il 2004 
+su treni speciali. Dall'anno successivo i servizi 
+saranno disponibili sugli Eurostar ed entro il 
+2005 anche sugli Intercity. Che dire, siamo 
+fieri di essere italiani, di essere al passo con 
+l'Europa e di essere promotori di servizi tanto 
+
+
+
+77? fM TAL/A 
+
+
+
+
+all'avanguardia. Anche se qualche volta ci 
+basterebbe che i convogli di Trenitalia 
+giungessero puntuali, non imballati come una 
+discoteca la notte di capodanno, non 
+ammorbati e appiccicosi come la stessa 
+discoteca la mattina dopo, che fossero 
+tiepidi d'inverno e almeno un po' freschi 
+d'estate. È chiedere troppo? 
+
+
+
+O A OGNUNO LA SUA PROTEZIONE 
+
+
+
+□ 
+
+
+
+I bambini si sa, hanno l'occhio lungo e a volte 
+curiosità un po' troppo pruriginose per la loro 
+giovane età. Per i genitori preoccupati della 
+sicurezza online dei loro figli, Telecom lancia 
+Alice Family. Si tratta di un'offerta di 
+abbonamento ADSL che prevede quattro 
+caselle di posta e quattro accessi alla Rete 
+indipendenti. Grazie a Parental Control, ogni 
+accesso potrà collegarsi a Internet con un 
+diverso grado di protezione, tutelando così i più 
+piccoli da visioni e contenuti non adatti, anche 
+
+
+
+
+quando 
+
+mamma e 
+
+papà non sono 
+
+in casa. Fino al 
+
+31 dicembre' 
+
+l'attivazione di 
+
+Alice Family 
+
+sarà gratuita. 
+
+Dopo di che 
+
+costerà 2 euro al bimestre. 
+
+Per informazioni: www.aliceadsl.it. 
+
+
+
+6 | www.hackerjournal.it 
+
+
+
+Ub_uy_nj Jb_news IJ-II-ZUUJ 1U:Z/ Pagina / 
+
+
+
+NEUS 
+
+
+
+
+O AAA GUARDA CHE SORPRESA 
+
+
+
+□ 
+
+
+
+Metti un giorno di essere online sulla tua 
+scheda abbonato Sky,. Metti di essere 
+annoiato e di cincischiare con i numerelli 
+dell'uri. Metti che, cambia una cifra qua e una 
+là, e guarda un po' cosa accade. Ti si visualizza 
+in tutto il suo splendore la scheda di un altro 
+abbonato. Con tanto di nome, cognome, 
+indirizzo e dati personali. Sembra impossibile, 
+dato che i server di Sky sono di tipo sicuro. 
+Eppure è successo ad alcune persone che poi 
+hanno segnalato l'accaduto a Punto 
+Informatico. Per fortuna la pagina Web che 
+permette questo tipo di accesso non è 
+facilmente raggiungibile dal sito dell'operatore 
+satellitare. Il problema risiede infatti in una 
+
+
+
+macchina di servizio utilizzata dalla rete di 
+dealer Sky e non del server dove si trova il sito 
+dell'operatore. Sky è stata avvertita, dunque si 
+suppone che a breve di questo imbarazzante 
+inconveniente non vi sia più traccia. 
+
+
+
+sor 
+
+
+
+
+O OPERAZIONE CATARTICA 
+
+
+
+□ 
+
+
+
+
+
+
+
+Sì, la buona riuscita dell'operazione della 
+guardia di finanza contro il worm Zelig è 
+stata una sorta di purificazione liberatoria. 
+Soprattutto per i portafogli a rischio di molti 
+internettari. Nei giorni tra il 24 e il 25 ottobre 
+scorsi, si è diffuso un messaggio di posta 
+
+
+
+elettronica apparentemente innocuo che 
+invitava a visitare un sito dove avremmo 
+trovato un salvaschermo con "messaggi 
+catartici", le ormai note perle di saggezza di 
+Flavio Oreglio di Zelig. Una volta raggiunta la 
+home page indicata, avviare il download era un 
+attimo. Inutile dire che si trattava di una truffa 
+che dirottava la nostra connessione telefonica 
+su un numero da 1,80 euro al minuto. Per 
+fortuna il pericolo è scampato. L'organizzatore 
+della truffa, un commerciante di pelli di Pisa 
+domiciliato a Caracas, è già stato fermato dalle 
+forze dell'ordine. Stiano tranquilli tutti coloro 
+che hanno ceduto alla tentazione del clic. 
+Grazie al tempestivo intervento della GdF, non 
+riceveranno le tanto temute, e per nulla 
+catartiche, bollette astronomiche. 
+
+
+
+O ALLO SPAMMER! ALLO SPAMMER! 
+
+
+
+□ 
+
+
+
+Le vie dello spamming sono davvero infinite. 
+Gira voce che cominci a diffondersi questa 
+piaga anche via Bluetooth. Il fenomeno si 
+chiama bluejacking e per ora sembra sia 
+soltanto la bravata di qualche buontempone. 
+Ma non fatichiamo pensare che spammers seri 
+prima o poi possano approfittare della 
+possibilità di inviare messaggi via Bluetooth 
+tra dispositivi accesi nel raggio di pochi metri . 
+Ci immaginiamo eserciti di mercenari, che 
+travestiti da uomini d'affari sparano messaggi 
+indesiderati, sui treni, in metropolitana, alla 
+stazione, negli uffici. Che succederà a quel 
+punto? Diffidentissimi, copriremo telefoni, 
+computer e palmari con gli astucci, come 
+quando a scuola non volevamo ci copiassero. 
+E al minimo sospetto urleremo impagabili 
+"allo spammer! allo spammer! prendetelo!". 
+
+
+
+
+O CE SEMPRE UN, . 
+PRIAAA VOLTA 
+
+■ a prima volta non si 
+scorda mai. Anche 
+quando si tratta di | 
+vincere una causa anti 
+spam. Per la California 
+l'evento è di qualche 
+giorno fa. La causa è 
+costata ben due milioni di dollari di multa a 
+una azienda di marketing che ha inv ; 
+milioni di mail non richieste. Nei messagi 
+trovavano consigli su come realizzare r 
+pubblicitarie e una quantità spropositati 
+indirizzi di posta elettronica. Oltre ricever 
+multa, i responsabili dell'operazi 
+marketing sono stati diffidati dal gestir 
+amministrare affari che riguardino 
+pubblicità in Rete per i prossimi dieci ann 
+
+
+
+NO PROBLEM 
+
+| e Amministrazioni pubbliche che vogl 
+passare da software proprietari a softv 
+open source, prendano nota del 
+dell'Unione Europea, http://europa.eu.int 
+Qui si trovano informazioni sui div 
+prodotti open source e una tabella 
+calcolare quanto si risparmia passando 
+una formula all'altra. Il documento, redi 
+da esperti nel settore di tutta Europe 
+costantemente aggiornat 
+
+
+
+O LA VERITÀ E V 
+
+
+
+
+
+
+
+d-SMo 
+
+
+
+Si è finalmente aperta l'inchiesta della Po 
+Postale e delle Comunicazioni sulla tr 
+anti eBay. Il raggiro riguarda un messac 
+fasullo che cerca di convincere gli iscrit 
+eBay a inviare i dati personali, compresi qi 
+della carta di credito. Al momento le inda 
+sono ancora in corso e non si sa né chi at 
+architettato il piano, né quante persi 
+siano cadute nella trappola dei truffai 
+Naturalmente eBay è assolutame 
+estranea alla faccenda. Anzi, ricorda che i 
+avrebbe ragione alcuna di richied 
+informazioni del genere ai suoi iscritti. 
+
+
+
+www.hackerjournal.it 7 
+
+
+
+Ub_uy_nj Jb_news IJ-II-ZUUJ iu:^b Pagina b 
+
+
+
+NEWS 
+
+
+
+
+r | | ii-^ 
+
+
+
+
+
+
+>e ancora l'open source non ci ha convinti del 
+►tutto e aspettiamo quell'argomentazione in 
+più per liberarci dai vincoli del software 
+proprietario, proviamo a dare un'occhiata a 
+questo libro. Costa 1 Euro e si chiama "Come 
+passare al software libero e vivere felici - 
+Manuale di autoliberazione informatica". Tra 
+le sue pagine troveremo non solo teoria ma 
+anche tanta pratica e spiegazioni tecniche. 
+Sul sito dell'autore, www.stefanobarale.org 
+è disponibile anche la versione elettronica 
+della pubblicazione. 
+
+
+
+iessuno resiste più alla voglia di wi-fi, 
+Inemmeno Me Donald. Nostro Signore 
+degli Hamburger sta prendendo accordi con 
+alcuni dei più noti fornitori di tecnologia wi-fi 
+per dotarsi delle infrastrutture necessarie al 
+collegamento wireless a banda larga. Così tra 
+una patatina e l'altra i clienti potranno 
+ingannare il tempo sfrecciando da un sito 
+all'altro. E chissà mai che pur di navigare a 
+velocità tanto golose, gli avventori siano 
+disposti a ingollarsi molti più panini annegati 
+nel ketchup di quanto fame o istinto di 
+autoconservazione non suggeriscano. 
+
+
+
+O NON SIAMO CATTIVI, SIAMO SOLO CURIOSI. □ 
+
+
+
+jjjj.ii: l'jM"]-.-, 
+
+
+
+
+Hacker e Cracker. Due sole lettere di 
+differenza per indicare categorie di persone 
+tra cui c'è un abisso. Da una parte coloro che 
+sono appassionati di tecnologie informatiche e 
+che cercano di carpirne tutti i segreti possibili e 
+immaginabili, restando nel lecito. Dall'altra 
+persone a cui non basta il piacere della 
+
+
+
+conoscenza, ma per sentirsi soddisfatti devono 
+combinare malefatte informatiche a danno di 
+terzi. Da una parte gli hacker dall'altra i cracker. 
+Da una parte i buoni dall'altra i cattivi. Ci 
+tengono a marcare questa netta divisione gli 
+hacker, che per difendere la propria cultura e 
+dignità di categoria, hanno anche fondato il 
+progetto HANC. Acronimo di Hackers Are Not 
+Crackers, o Hackers Are Not Criminals se 
+preferiamo, questo manifesto sottolinea che gli 
+hacker che non sono affatto pirati informatici 
+come invece il dipingono i media, 
+probabilmente per superficialità e ignoranza 
+in materia. Chi volesse dare un'occhiata e 
+dare il proprio contributo a diffondere la 
+cultura hacker si può collegare al sito 
+http://www.hancproject.org/. 
+
+
+
+O PALMA D'ORO A NAPOLI 
+
+
+
+Si dice che San Gennaro protegga sempre i 
+napoletani. Ma ci sa che questa volta il 
+Santo nulla abbia potuto, per togliere alcuni 
+suoi cittadini dalle grinfie delle forze dell'ordine. 
+Tanto meglio, perché si trattava di persone 
+disoneste che frodavano la legge sul diritto 
+d'autore duplicando CD audio e software da 
+rivendere sul mercato nero. Il bliz che la 
+Guardia di Finanza ha portato a termine a 
+Napoli negli scorsi giorni non ha precedenti. 
+Sono stati individuati e messi sotto sequestro 
+diversi laboratori altamente tecnologici con una 
+capacità di duplicazione di circa tremila copie 
+
+
+
+illegali all'ora. Nove le 
+persone arrestate e 
+trecentomila euro il 
+valore della merce 
+ritirata. All'operazione 
+spetta la palma d'oro del 
+più imponente sequestro 
+mondiale di attrezzatura 
+in termini di qualità e 
+valore. Che dire, Napule 
+è sempre Napule. 
+Esagerata e grandiosa, 
+nel bene e nel male. 
+
+
+
+
+O L'UNIONE FA LA FORZA, SPERIAMO 
+
+
+
+□ 
+
+
+
+■".j. rj . ■ j u i s» ■- 
+
+
+
+
+
+
+
+
+-1-1 — «I — —.-,.— I 
+
+
+
+McDonald's 
+
+
+
+Intorno a Bill Gates soffiano forti venti di 
+apertura. Microsoft ha infatti annunciato di 
+voler condividere con gli sviluppatori strumenti 
+interni utilizzati per creare prodotti più sicuri e 
+affidabili. Certo dato il numero di bug che esce 
+dagli edifici di Redmond, c'è quasi da augurarsi 
+che la condivisione di know how non superi 
+certi limiti. Ma non vorremmo essere troppo 
+
+
+
+cattivi. Vogliamo invece sperare 
+che la collaborazione tra le 
+persone possa dare i suoi buoni 
+frutti come sempre. Tra le utility 
+rilasciate ci sono Prefix e Prefast, 
+due tool diagnostici che 
+analizzano il codice sorgente in 
+formato testo per trovare bachi 
+nel codice C + + . C'è un 
+utilissimo programma che mette 
+a disposizione degli sviluppatori 
+uno schema su errori e 
+
+vulnerabilità cui sono soggette 
+
+le applicazioni già al momento 
+della progettazione. Infine c'è FxCop un 
+tool direttamente scaricabile all'indirizzo 
+http://www.gotdotnet.com/team/fxcop/ che 
+permette di evidenziare eventuali falle nella 
+programmazione e controlla che il codice 
+sviluppato sul modello MS.NET sia conforme 
+alle linee guida del MS.NET Framework. 
+
+
+
+8 www.hackerjournal.it 
+
+
+
+^> 
+
+
+
+Ub_uy_nj Jb_news ij-ii-zuuj iu:^b Pagina y 
+
+
+
+NEUS 
+
+
+
+
+O L'ULTIMA AAAGIA DI HARRY POTTER 
+
+
+
+D 
+
+
+
+Nel carnet delle possibili magie 
+del simpatico maghetto 
+occhialuto ci deve essere anche 
+quella di far sparire i siti. Se no 
+non si spiega come mai sia stato 
+parzialmente oscurato il sito del 
+radicale Pietrosanti, promotore di 
+un'iniziativa che riguarda, guarda 
+caso, proprio Harry Potter. 
+Insieme a un gruppo di non 
+vedenti Prietrosanti sta 
+organizzando una prossima 
+vendita online della versione'" 
+digitale dell'ultimo episodio della saga di Harry 
+Potter a soli 4,8 euro. Prezzo che andrebbe a 
+coprire i soli costi dei diritti d'autore. Si capisce 
+che la faccenda abbia scatenato le ire degli 
+editori, (Salani), che hanno promesso guerra e 
+vendetta per una simile onta. E soprattutto per 
+le presunte perdite economiche che tale 
+vendita online comporterebbe. Quello che non 
+
+
+
+
+si capisce è perché oscurare il 
+sito di Pietrosanti, visto che non 
+contiene nessun tipo di materiale 
+illegale. A meno che non si 
+consideri illegale la promozione 
+dell'iniziativa e le ragioni che la 
+giustificano. Ancora di meno si 
+capisce come mai da uno 
+dei due siti di Pietrosanti, 
+www. pietrosanti.org invece sia 
+ancora possibile scaricare la 
+versione elettronica di Delitto e 
+Castigo di Dostoevskji. La 
+risposta viene da sé, ed è di sette lettere: 
+censura. La guerra tra le due parti si 
+preannuncia aspra e cruenta. Salani giura di 
+trascinare Pietrosanti in tribunale qualora la 
+vendita online abbia inizio. Pietrosanti e 
+discepoli promettono che il libro in versione 
+digitale verrà comunque distribuito. 
+Attendiamo ansiosi gli sviluppi della contesa. 
+
+
+
+O CARTUCCE IN LIBERTA 
+
+
+
+Forse non tutti sanno che cosa ci stanno a 
+fare i chip sulle cartucce delle stampanti. 
+Per protezione. Trattandosi di dispositivi 
+protetti dal copyright, i chip hanno come unico 
+scopo di impedire la ricarica delle cartucce ed 
+evitare che produttori non autorizzati ne 
+realizzino di compatibili. meglio, così 
+credevano i big delle cartucce fino a poco 
+tempo fa. Ora una sentenza negli Stati Uniti ha 
+cambiato le carte in tavola. Nel 2002, sicura di 
+vincere, Lexmark ha fatto causa alla società 
+SCC per avere creato cartucce compatibili che 
+riproducevano il funzionamento dei chip 
+Lexmark. Invece il tribunale ha dato ragione 
+
+
+
+alla SCC. C'è infatti una 
+sezione del DMCA, 
+Digital Millennium I 
+
+Copyright Act, cheS 
+permette alle aziende di 1 
+sviluppare software allo H 
+scopo di rigenerare! 
+cartucce di toner e 
+stampanti. La SCC a 
+pertanto potrà | 
+
+tranquillamente vendere 
+chips sostitutivi da usare 
+con le vecchie cartucce 
+Lexmark. 
+
+
+
+
+: hlg«- rw*lfej| 
+
+BLACK 
+
+
+
+
+3 LINUX IN DIRITTURA D'ARRIVO 
+
+
+
+□ 
+
+
+
+
+Linus Torvalds & C. l'hanno definita "una 
+significativa pietra miliare". Sarà anche che ogni 
+scarrafone è bello a mamma sua. Ma questa volta 
+il giudizio è obiettivo. Pare che la versione 2.6 del 
+kernel di Linux potrebbe essere la penultima prima 
+della versione finale. Già qualche settimana fa 
+Torvalds aveva assicurato che nelle release non ci 
+sarebbero state altre modifiche che non 
+riguardassero strettamente la correzione di 
+problemi di stabilità del kernel. Il consorzio in cui 
+Torvalds e collaboratori ha esortato fornitori di 
+sistemi, venditori indipendenti di software e clienti 
+di Linux, a provare e verificare la nuova versione 
+2.6.0-test9 per prepararsi "alla prossima 
+production release di Linux". 
+
+
+
+HI VA PIA. . 
+VA LONTANO? 
+
+
+
+
+Per alcune persone downloadare patch 
+sito Microsoft è come controllare la pi 
+elettronica. Si va sul server quando ca 
+durante il giorno e si checka. Qualcosa 
+scaricare c'è sempre. Adesso però Micro 
+cambia musica. Gli aggiornamenti arriv 
+solo una volta al mese. Per dare il tempo 
+sviluppatori di risolvere il problema com 
+deve e non fare brutte figure, comi 
+successo in passato. E se c'è in giro un L 
+calma e gesso. Peggio per chi se lo d 
+pappare. Non si morirà mica ad aspettare 
+trentina di giorni, no? Il concetto prest 
+bene, pare che a Redmond non sia anc 
+giunto. Qualcuno glie lo vuole spiegare? 
+
+
+
+O PILOTI SIMULATI 
+A MILANO 
+
+
+
+il 22 e 
+
+Novembre, ' 
+
+presso il Parco 
+
+Esposizioni di J 
+
+Novegro, a due fl/o««i«i 
+
+passi dall'aereoporto di 
+Milano Linate, si terrà il "Milano Fli 
+Simulator Show 2003", una manifestazi 
+tutta dedicata al volo simulato. Oltre 
+stand degli espositori (produttori e distribu 
+di hardware e software attinente al tema 
+delle varie associazioni di utenti e giocator 
+sarà uno spazio dedicato a convei 
+seminari e presentazioni di sessioni di v 
+Se siete appassionati di volo simuli 
+buttatevi in picchiata su Novegro (tra l'ai 
+se il vostro simulatore di volo ha una ma 
+dell'aereoporto di Linate, potete farci an 
+una ricognizione simulata prima della vi 
+vera e propria). 
+Per info: http://www.takeoffonline.it 
+
+
+
+www.hackerjournal.it 
+
+
+
+
+■^^ ' -^H fl' ^^L^^Fj^^^^^^^^^ ■■«^■l 
+
+
+
+
+opo l associazione 
+hacker-criminale, in- 
+sieme all'associazio- 
+ne cracker-criminale- 
+pirata informatico 
+>mbra che si stia dif- 
+fondendo quella di hacker-esperto 
+in sicurezza. Tale associazione ha 
+portato all'affermazione di una nuo- 
+
+
+
+^ G6CHO N€TUUOqh 
+
+^Jy ■ahus.ii>c=s scilutic-n-s ptavitìer 
+
+
+
+va elite di specialisti 
+
+r che si definiscono 
+
+ethical hacker ed ha 
+
+creato, o meglio, istituzionalizzato 
+una nuova forma di hacking, nota 
+appunto come ethical hacking, che 
+consiste più o meno nel farsi paga- 
+re per fare quello per cui gli 
+hacker e i cracker sono arresta- 
+ti o condannati: penetrare nei si- 
+stemi informatici e aggirarne le pro- 
+tezioni. Non ha però nulla ha a che 
+fare con l'"etica hacker" dei prò- 
+
+
+
+- DflOMTTT 
+
+i s:-r*. 
+
+- ~rlll "t " «■ 
+
+
+
+vwà n*KW*UL 
+
+
+
+I-4U1 
+
+
+
+Wvnnp 
+
+
+
+ihu Darri — * rrkJùtL tuoni* 
+
+
+
+■*"-! — iiiTBdrk utra 4 zji di ur 
+
+
+
+lUTiii nii-iir^ 
+
+
+
+mm± 
+
+
+
+tpumma **ui^- ttr jvmw*-* i# ^v^éu # Mf Et nuli. 
+
+■-■il Mi-pét ■ >-H] 
+
+- Wnrt ■■>!-■ -ibi'lv TvAng 4i|I|iIet*v qun4 ini v 
+■ l-Ih ranni nhmr riilp rrti. Cijuéj iPh ■ 
+i KiinI, 'muri tttumki Msatim inlara 
+■*]■,!. ■ hjhmI Bcrmwtjh J» |rl»-™i a di nll 
+
+ran additili 
+
+* IuTuiti MJrvmtilEY T-iiti-vp dillrìamcc quiiii umr. ■ 
+«=Flici:w «il ncjmxrj d mi ■ ■■unii im>m. Eni 
+pi jiIimi iiiiim di julIL zj* pimi nun 
+
+ni uTi B3i-gim numi i xilr.rfwa u rtuiu chi uà. 
+
+le»- pianura (Fi snun-Biib mi inoltri i* ■ ni ■ mmi 
+
+
+
+uraiNra 
+
+il inir- 
+Nr'u J|ir- -, 
+
+
+
+m* 
+
+
+
+i;-.jiir ii-iiiLirin lui 
+
+..j-.n..l.. P ... 
+
+h* **w* i-i h*-m wr'* 
+
+1..- --I.LvI.r 
+
+
+
+grammatori del MIT, e tanto meno 
+con l'"etica hacker del lavoro" che, 
+come spiega molto chiaramente Pek- 
+ka Himanen, è qualcosa che va ben 
+al di là del "mi porto a casa la 
+pagnotta programmando". Ve- 
+diamo di che si tratt 
+
+
+
+» 
+
+l'hackeretic 
+
+
+
+Un articolo di Affari&Finanza del 3 
+febbraio 2003, dal titolo "C'è anche 
+l'hackeretico...", spiega: "Rappresen- 
+tano la filosofia "buona" della cosid- 
+detta pirateria informatica. Sono al 
+servizio delle aziende e testano la si- 
+curezza dei computer". "L'approccio 
+e l'insuperabile conoscenza dei siste- 
+mi informatici sono gli stessi degli 
+hacker tradizionali: adesso si 
+guarda però al business della 
+gestione delle reti e della tutela della 
+privacy. L'hacker etico o hacker ereti- 
+co o hacker convertito, "in giacca e 
+cravatta (sia pure metaforicamente)", 
+o in qualunque modo lo si voglia de- 
+finire, rimane però ancora fedele, 
+così si dice, alla filosofia e allo spiri- 
+
+
+
+
+
+to del vero hacker. Tra coloro che 
+praticano questa nuova forma di 
+hacking si menzionano Secure 
+Group, Gecko Network insieme ai 
+Black Hats. Questi ultimi sono i pri- 
+mi ad aver parlato di ethical hacking, 
+ma in maniera molto diversa dagli 
+altri. Li considereremo quindi come 
+un caso a parte. 
+
+Come gli hacker, gli specialisti di Se- 
+cure Group e di Gecko Network, 
+sfruttano dei bug dei sistemi per lan- 
+ciare degli attacchi, sia dall'esterno 
+tramite la rete internet sia dall'inter- 
+no. Ma sottolineano: "non inten- 
+dono né danneggiare i si- 
+stemi né sottrarre informa- 
+zioni riservate". Si tratta infatti di 
+semplici simulazioni: viene riprodotto 
+"il modus operandi di un 
+hacker/cracker" e "l'attacco effettua- 
+to da persone con un accesso o una 
+conoscenza delle risorse interne del- 
+l'azienda". In questo modo si può va- 
+lutare la sicurezza dei sistemi, re- 
+digere dei report da consegna- 
+re ai proprietari in cui vengono 
+descritte le vulnerabilità e inter- 
+venire per difendere adeguatamente 
+il sistema. Non si limitano a iden- 
+tificare i problemi, "ma aiutia- 
+
+
+
+t 
+
+
+
+Raoul Chiesa 
+
+
+
+
+
+
+fi» ai* * 
+
+•IV 
+
+
+
+\ Dei Black Hats ha fatto parte anche Raoul Chiesa aka No- 
+\ body, un hacker o ex hacker che oggi pratica quello che 
+\ egli definisce Thacking del lavoro": si occupa di sicur 
+^^^J informatica, protegge i sistemi e crea prodotti IT. Secu- 
+Vjl^ — ^^ rity- "Hacking, nel senso più puro del termine", spiega Chiesa, 
+"significa ricercare i difetti, gli errori. Scoprirli, renderli noti, risolverli. La Secu- 
+rity, nel significato più pratico del termine, significa fare attenzione ai difetti ed agli er- 
+rori. Scoprirli, renderli noti, risolverli. Hacker e Security Researcher vivono dunque 
+tra bug, exploits, security advisory, testing, reverse engineering". Chiesa è convinto 
+che la sicurezza non possa fare a meno della ricerca e della sperimentazione un- 
+derground e che l'unico modo per saggiarne la robustezza sia provare a forzare i si- 
+stemi. Parla dell'hacker come di un "amico della sicurezza" e descrive l'ethical hac- 
+ker come: "colui che hackera il vostro sistema, lo esplora velocemente e ve lo fa per- 
+sino sapere, inviandovi mail di report o suggerimenti". E' quello che fa anche Chie- 
+sa, ma per lavoro. Tra i servizi offerti dalla sua azienda (Mediaservice) vi è il Secu- 
+rity Probe, o Penetration Test: "il cliente ci richiede di violare, con tutti gli strumenti 
+possibili, la propria rete aziendale, sfruttando tutte quelle dimenticanze, errate con- 
+figurazioni o bug lasciate dai fornitori abituali". A chi lo accusa di essere passato dal- 
+l'altra parte, spiega: "Quando mi sono avvicinato all'hacking per la prima volta ve- 
+devo questo mondo come un luogo sacro, una religione, uno stile di vita, un modo 
+di pensare e agire. La penso ancora così. Ho rifiutato spesso di procedere o parte- 
+cipare all'identificazione di hacker responsabili di violazioni di sistemi, ma non di 
+danni. Perchè hacking, per me, continua a voler dire libertà, sfida, essere più bra- 
+vi. ..Non credo di condividere le idee comuni dei responsabili o esperti di sicurezza 
+informatica. Continuo a sentirmi hacker". Chiesa è un hacker ma non è la sua at- 
+tuale professione ad averlo reso tale. Lo status e la fama di hacker, già "vasta nella 
+cominità hacker europea", gli è stata "riconosciuta e suggellata" dalle autorità inter- 
+nazionali "dopo una serie di eclatanti intrusioni in grossi Enti e Istituzioni - tra le qua- 
+li Bankitalia, IBM e AT&T". 
+
+
+
+lU_U_nj j«_etica IJ-II-ZUUJ 1U:J1 Pagina IZ 
+
+
+
+
+L'Ettikttl Hjtkinu prò (tosto dfl Scevre Group: k? «forilo deHhitkeir al 
+
+M-rwiiia dell* sicure 114 del a-ia-temi 
+
+
+
+l HtKH I wtn è li wiai rrcnHirc _-Hi yn ■ ii-p* i mrvm * pntriii nri 
+
+- |T,-.. .h ,..,-■ Mh- .LWrrMdi I..J v i. U r-rl. .. I , à .m .(,... -, ■ ! ■ 
+
+m * mummioi L«ni -xi iwan, a ■piililaa uà ori lud ■■ fHiiti -a 
+h7|obhii ni nini urui ritinnfci li noduli ^nmunn i in^i/<|in 
+■ I m nifi. C* um*n « w Crini hriMpI * ■Mnpnrapn i* i 
+
+
+
+V UiiiBinH- N M ■■■- ■"'*!■■ ili» m ìnllini Ij MJklm itariU Mi-nUI IrlalhJlli* ■ iA'AliivdU ■■■ - 
+
+■:cr-iAJ -curii ■ lì drumnn -t pnnnii a UiDin d pei i ni ■rmrzu u ixiini ■ -aanam 
+
+tam imi nÀn d rir#u> ht^np cip I ujiLii d> ■ ta n iIlUiiii ufetani* n Stein- Bivn- pùl mmm mw 
+
+■wl. A ipntr - lt — *. -Ir-l, «r,_.i .rnn .-nr-l.-r H.liiuwir». -, I» «, rr..-. Ir rU. 
+
+■Swtjn Culi -mini n bP um* n Hlù e** rhvvi ■ w iim ii n ilivii^u hi hb 
+•.-*■■-■*«■'"*? ■ purti ìthL i > mIijf*^ cti it'iihiI 5" uh ■■ ~w-n*w "Hh«r uri* v vw% dw I 
+
+■■ti àlriMr^kdiih'uli An-yUmi. ' |_ "' nmlr [ I r- 1 1 1 ■ ;. j pn 4. ma ijirfa tatù ■■■ rJ unir- Ir £ 
+
+ilUifTi, ipf.innir^ inaridir 
+
+-"«-■* "■'■-: k ■ irtillrnriK»* ra** mdN n-*1i rf ■ U *J u é i n ni -n- Wr'. Hnrll ri ■ 
+
+i *rril| ipi mlj piii i.i m ih* I panni*. ■ Urinila rlaralara L an at-Ulil liu|id piri Miai 
+
+
+
+
+
+
+naaK # ¥*\T*r. » 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+l^.'^BBBBaBriBBBaBI 
+
+
+
+
+
+
+
+
+
+
+K 'I "¥TU 'j *] 
+
+
+lSS2 
+
+
+ta^ 
+
+
+
+
+
+mo anche a definire soluzio- 
+ni su misura degli obiettivi 
+di business", sostiene Gecko Net- 
+work. Sempre come un hacker, lo 
+specialista Secure Group, svolge la 
+sua attività con creatività e il suo sco- 
+po è innanzitutto sfidarsi e superare 
+se stesso. Il vero spirito hacker è 
+messo al servizio della sicurezza dei 
+sistemi. Anche lo specialista di Gecko 
+Network si preoccupa della sicurezza 
+informatica delle aziende e il suo 
+scopo è quello di salvaguardare "le 
+molte cose buone che ha portato la 
+crescita esplosiva di Internet", tra cui 
+il commercio elettronico, un ac- 
+cesso facile a una quantità im- 
+mensa di informazioni, il colla- 
+borative computing, Te-mail, 
+nuove strade per la 
+^pubblicità e la 
+distribuzione di 
+
+informazioni. Da 
+i ■• 
+■ notare come la di- 
+stribuzione di in- 
+formazioni venga 
+menzionata accan- 
+to alla pubblicità, 
+J considerata altret- 
+tanto positiva!! (?) 
+" Secure Group usa 
+il termine "ethi- 
+cal" perché 'Vuole 
+dare a questa for- 
+ma di intrusione 
+autorizzata dei si- 
+
+
+
+-J) STATES OV^ 
+
+CI 
+
+
+
+stemi, l'aggettivo morale (lecito), a 
+prò di una giusta causa: migliorare 
+le difese del sistema informativo 
+aziendale". Benché lo spirito d'in- 
+traprendenza sia quello di un hac- 
+ker, Secure Group ribadisce che 
+l'attività di "hacking etico" è a fini 
+costruttivi e "in totale contrasto 
+con l'attacco di un cracker mi- 
+rato alla distruzione di un 
+obiettivo o comunque alla sua 
+compromissione per secondi fi- 
+ni". Anche Gecko Network fornisce 
+una descrizione dell'ethical hac- 
+king, ma nell'area "prodotti": "I 
+governi, le aziende, i privati 
+cittadini di tutto il mondo so- 
+no ansiosi di essere parte di 
+questa rivoluzione, ma temono 
+che qualche hacker entri nei 
+
+
+
+propri weo server e rimpiazzi 
+il logo aziendale con immagi- 
+ni pornografiche, che possa 
+leggere le e-mail, che possa 
+intercettare il numero di carta 
+di credito da un sito di 
+shopping on-line, o installare 
+qualche software che rende 
+pubblici i segreti della propria 
+azienda. Con queste ed altre 
+preoccupazioni, l'hacker etico 
+può essere d'aiuto". Ma nel 
+frattempo, il vero hacker si è 
+parecchio incavolato nel ve- 
+dersi associato persino alla 
+pornografia! 
+
+
+
+I Black Hats sono stati promotori del- 
+l'ethical hacking, ma hanno chiuso 
+i battenti il 6 marzo 2003, perchè 
+lo scopo che si erano proposti era or- 
+mai stato raggiunto: "portare alla 
+luce le conoscenze nascoste nel- 
+l'underground tecnico italiano". 
+Però chiariscono: si è conclusa solo 
+questa esperienza, non il loro compi- 
+to, ed è per questo che ne parleremo 
+al presente. I Black Hats mettono le 
+proprie capacità a disposizione 
+del prossimo per rendere più sicu- 
+ra la digitai life. Formano un'asso- 
+ciazione senza scopo di lucro, 
+non legano il loro nome a prodotti 
+commerciali di alcun genere, in 
+quanto vedono nella "filosofia Ven- 
+dor Independent l'unico modo per 
+assicurare l'imparzialità e l'og- 
+gettività nel campo dell'ICT Secu- 
+rity". Molti di loro lavorano nel cam- 
+po della sicurezza informatica per al- 
+tre aziende, ma quella dei Balck Hats 
+non è un'attività lavorativa, non ci 
+guadagnano nulla e non effettuano 
+penetration test, security assessment 
+o product testing. La loro funzione 
+primaria è quella di divulgare la 
+cultura nel campo della sicurez- 
+za, attraverso speech tecnici e attivi- 
+tà di ricerca, diffondere informazione 
+
+
+
+42» 
+
+
+
+
+lU_U_nj j«_etica IJ-II-ZUUJ 1U:J1 Pagina 1J 
+
+
+
+seria, corretta e veritiera sull'hacking 
+che essi considerano "a state of 
+mina 1 ", uno stile di ricerca e di vita, 
+"affinchè i mass-media non commet- 
+tano più i tipici errori nel comunicare 
+informazioni sull'hacking, ricadendo 
+in luoghi comuni con termini diffa- 
+matori e falsi come "pericolose ban- 
+de di hacker" o "anarco-hacker" o 
+"tecnobanditi" o ancora "pirati infor- 
+matici" e "terroristi del web". I Black 
+Hats cercano di fare cultura, così af- 
+fermano, non solo sul piano tecnico 
+ma anche filosofico/storico. 
+
+» Pubbl 
+Informazione 
+
+
+
+Il termine "hacker", si legge nel Jar- 
+gon File, tende a connotare l'appar- 
+tenenza ad una comunità globale. Im- 
+plica anche che la persona in questio- 
+ne sottoscriva in qualche modo l'etica 
+hacker. Per un hacker etico è una for- 
+ma di cortesia spiegare al sysop, tra- 
+mite e-mail o da un account di supe- 
+ruser, esattamente come si è fatto ad 
+entrare nel sistema e come il buco 
+possa essere tappato. Questo hacker 
+si comporta come un "tiger team" 
+che nel gergo dell'esercito USA sta 
+appunto per un esperto che segnala 
+delle falle nei sistemi (non informatici) 
+di sicurezza, lasciando, per esempio, 
+
+
+
+stodita e in realtà non lo è, un cartel- 
+lino che dice "avremmo potuto rubare 
+i vostri codici". Solo che l'hacker eti- 
+co non è pagato e il suo inter- 
+vento non è neanche richiesto. 
+Secure Group e Gecko Network, inve- 
+ce, propongono l'hacker come "una 
+nuova figura professionale del 
+complesso mondo della New 
+Economy". I loro specialisti sono 
+nuovi hacker o ex-hacker che, a diffe- 
+renza di molti altri che vendono le 
+proprie conoscenze alle multina- 
+zionali, fanno spionaggio elettronico 
+o lavorano per i governi, hanno deci- 
+so di mettersi in proprio e al servizio 
+delle aziende e del business. Ma non 
+è questo che li rende etici! Lo di- 
+ventano nel momento in cui confron- 
+
+
+
+tano il fine della loro attività - ma non 
+lo spirito e neanche la tecnica -, 
+
+con quello degli hacker e dei cracker 
+cosiddetti "criminali" o "pirati". L'Ethi- 
+cal Hacking, proposto da queste 
+aziende, non è una filosofia e in real- 
+tà non è neanche un'etica. Viene, in- 
+fatti, da essi stessi definito una meto- 
+dologia, un servizio, un prodot- 
+to. Gecko Network offre quattro 
+tipi di test di ethical hacking; 
+Secure Group fornisce moltissimi ser- 
+vizi di ethical hacking. 
+Gli ethical hacker di Gecko Network e 
+Secure Group salvaguardano la sicu- 
+rezza dei sistemi informatici, tutti gli 
+altri hacker danneggiano, ruba- 
+no informazioni riservate o en- 
+trano nei sistemi per secondi fini 
+illeciti. Un vero hacker o chi ha capi- 
+to come la pensano, non incorre- 
+rebbe in questo errore, già ab- 
+bondantemente perpetrato dai media. 
+Nonostante l'opera di diffusione di 
+una cultura dell'hacking anche da 
+parte dei Black Hats, i primi a definir- 
+si ethical hacker, c'è ancora chi, sven- 
+tolando la bandiera di "una strana e 
+non ben definita etica hacker", asso- 
+cia gli hacker a immagini pornografi- 
+che e i cracker e persino gli hacker a 
+coloro che entrano nei sistemi in- 
+formatici per far danno. Per un 
+hacker etico l'informazione è tutto, 
+soprattutto se "veritiera"! Ma que- 
+sta non lo è! La diffusione della 
+cultura informatica ha sicuramente 
+aperto la strada a nuove forme di 
+criminalità. Questa criminalità, pe- 
+rò, è sempre solo e unicamente as- 
+sociata agli hacker, persino dagli 
+ethical hacker. Gecko annovera 
+"le molte strade della pubblicità" 
+tra le molte cose buone che ci ha 
+dato internet. Descrive l'hacker co- 
+me colui che installa "qualche 
+software che rende pubblici i 
+segreti della propria azienda". 
+La pubblicità però è una delle tan- 
+te forme di intrusione non autoriz- 
+zata, forse la più diffusa. Accade 
+spesso che software cosiddetti le- 
+gali contengano al loro interno de- 
+gli "Spyware", programmi che 
+comunicano informazioni sul no- 
+stro conto. Queste informazioni 
+
+
+
+vengono poi usate, senza che nessuno 
+ce l'abbia chiesto, per fini statistici, 
+ma più spesso per inviarci pubblicità 
+indesiderata, il cosiddetto "Spam". 
+Nessuno parla di queste intru- 
+sioni come di crimine o pirateria! 
+L'ethical hacking è a nostro parere un 
+fenomeno che trae i suoi frutti e i 
+suoi vantaggi proprio dalla cri- 
+minalizzazione degli hacker e 
+dei cracker. Più i media parlano di 
+hacker e cracker criminali informatici, 
+più questa nuova forma di hacking si 
+alimenta e trae i suoi profitti. Come ri- 
+leva Raoul Chiesa in un suo articolo 
+dal titolo "Il difficile rapporto tra hac- 
+king e marketing" l'associazione 
+hacker-pubblicità sta andando 
+molto di moda. Si amplifica la porta- 
+ta degli attacchi hacker per invocare 
+stati d'assedio fittizi. Si vende un servi- 
+zio perché si genera paura e contro la 
+paura alcune aziende hanno il rime- 
+dio. Nella strategia militare, simili tec- 
+niche, affatto corrette, si raggruppano 
+sotto il nome di Propaganda e disin- 
+formazione. 
+
+
+
+DaMe x 
+ujLUiu.duara 
+
+
+
+
+Italian Black Hats: 
+http://www.blackhats.it 
+
+Gecko Network: 
+http://www.geckos.it 
+
+Secure Group: 
+www.securegroup.it 
+
+Affari&Finanza - Susanna Jacona Salaria: C'è 
+anche l'hackeretico...: 
+http://www.securegroup.it/rs/feb_03_affariefinanza.pdf 
+
+Raoul Chiesa: Il difficile rapporto tra hacking e 
+
+marketing: 
+
+http://www.internos.info/archivio/rc16.pdf 
+
+Biografia e molti articoli di Raoul Chiesa: 
+http://www.lamerone.net/raoul/00_whois.php 
+
+
+
+I4_lb_nj Jb_rev ij-ii-zuuj 1U:JJ Pagina 14 
+
+
+
+REVERSING.b 
+
+
+
+
+Suehamo le informazioni che uaqano nella memoria 
+
+
+
+durante il funzionamento dei oroorammi. 
+
+
+
+on fraintendete il titolo, 
+non vi servono canna, len- 
+za ed amo! Basta un buon 
+debugger ed un po' di in- 
+gegno! Niente grigliata di 
+trote, ma un altro pro- 
+gramma da analizzare. Quella che 
+dobbiamo trovare è la soluzione dil 
+
+
+
+altro gioco scritto e pensato per 
+^l^sgimntM^eversei^h^eqqo- troverete i sorgeiT 
+
+
+
+nf% In Kivictr 
+
+
+
+3. L'analogia con la pesca 
+
+tradizionale può sembrare una mia ec- 
+centrica trovata, ma in realtà quella che 
+
+
+
+useremo e una 
+
+
+
+te diffusa! 
+
+
+
+ampiamen- 
+
+
+
+tra i reverser di tutto il mon- 
+do e conosciuta proprio con il nome di 
+HJBiHfls B/ che significa "pescare". 
+
+
+
+» Il programma 
+da studiare 
+
+
+
+Dimenticatevi il programmino minusco- 
+lo che abbiamo smontato assieme nel 
+numero 36. Ora abbiamo per le mani 
+
+
+
+magine, un riquadro contenente una 
+domanda, una casellina in cui immette- 
+re la risposta ed un tasto da premere. Il 
+funzionamento è abbastanza intuitivo, 
+ci sono tre quesiti a cui rispondere in se- 
+quenza, tutto qui. I primi due quiz sono 
+volutamente semplici mentre per il terzo 
+dovete ricorrere al reversing. Per rende- 
+re ancora più sfiziosa la sfida, |jQj] 
+
+fl del programma 
+insieme all'eseguibile, né conoscerete 
+la soluzione completa leggendo questo 
+articolo fino in fondo. Pensate sia me- 
+schino? Tutt'altro! Lo sarei se vi dessi 
+tutte le risposte, togliendovi il gusto di ri- 
+solvere da soli l'enigma, un po' come 
+quei simpaticoni che ci raccontano il fi- 
+nale dei film che non abbiamo ancora 
+visto! Per quanto concerne i sorgenti, 
+poi, vorrei ricordarvi che il 
+
+viene praticato proprio 
+quando i listati dei programmil 
+
+li]. Tanto per alzare la 
+posta in gioco, invierò il codice sorgen- 
+te del giochino, scritto in ' 
+
+
+
+Macro As- 
+
+
+
+sembleiiglmiiEflwgEi 
+
+
+
+lualcosa 
+
+
+
+comples- 
+
+
+
+C'è un'interfaccia grafica, un'im- 
+
+
+
+no la risposta corretta alla terza do- 
+manda attraverso la posta elettronica. 
+
+
+
+» Debugging 
+con ONgDbg 
+
+
+
+Siccome molte persone mi hanno se- 
+gnalato difficoltà di reperimento e di in- 
+stallazione di tffliìMl ho pensato di uti- 
+lizzare un debugger diverso per questo 
+articolo. KIP ra «PI. a differenza di Softl- 
+CE, 
+
+
+
+non deve essere insta llato co- 
+Jì sistema. 
+
+
+
+__ ma si può 
+utilizzare come un normale programma. 
+Questa caratteristica lo rende estrema- 
+mente semplice da installare e poco in- 
+vasivo per il nostro computer. Si perde la 
+possibilità di sbirciare nel nucleo più in- 
+terno e nascosto del sistema operativo e 
+non si possono studiare i drivers, ma per 
+analizzare i comuni programmi è più 
+che sufficiente. C'è da dire, poi, che è 
+completamente gratuito per uso privato! 
+Facciamo partire, quindi OllyDbg e 
+
+
+
+qiochino2. 
+
+
+
+nella Secret Zone di hackerjournal.it) uti- 
+lizzando i classici menu o, più semplice- 
+mente, trascinandone l'icona sulla fine- 
+stra del debugger. Ciò che appare ai no- 
+
+
+
+
+^> 
+
+
+
+I4_lb_nj Jb_rev ij-ii-zuuj 1U:JJ Pagina lo 
+
+
+
+MID HACKING 
+
+
+
+
+
+
+jaaiHL^.TJH||r-ir_ji LjLcd-.j^.iw-BJitì] 
+
+nn-iii l ?rr ! ta i •:.■*■■. M.r=a -ri a^. i*tj- :m-a:> 
+
+
+
+stri occhi è una schermata oiut- ocdCL:Ddj m= f^e pt^ dsi r-u&siw; .1 
+bTn occhi e una bcnermaia piuT efl^Bime j[ JHZ u lu^ilnu.QfcyiPì.3CF 
+
+tosto densa di informazioni e di- 
+
+visa in quattro parti. Nel nqua- nerumi . 
+
+dro in alto a sinistra il dìù inte- bs^leeb Ifush gioc*,^ m^^fj 
+
+uiu 111 uiiu u òimiòiiu, 11 più une eadEi2FS PUSH silut±ni»Tj.Be(*33aRC 
+
+ressante per noi, appare il nfHeflqeiSFE] puéh e 
+
+del programma nn-jHT.;rr:i -**■ ni-.-j-iirr.-,.nr^iRi:;rvi:^ 
+
+
+
+sassemblato 
+
+suo segmento dati 
+
+
+
+e subito sotto c'è il H I Jm«Jt4i Mqoiai r" 5 * "^ ^ K; ^ ÌM 1 
+e buono bono ce 11 HiLUULaiidl ea ^ai3a7lEpiJ5H ud«J-ii.-Ej- W4i3ini 
+
+
+
+Bu^-Fbt - aloai-.l^o.MJn3ifì| 
+
+
+
+Hfr-ri - HB5B23E f 1— 
+
+
+
+LL-^U 1 nbiTi srtfl 
+
+LlBCJ^LBrtFI 
+
+
+
+1 E-Js l ' -fìi*-o"iL-GQ&?B£ h: 1 
+
+
+
+="X t &i£KQ PTfl CS: MB3 
+Stili qazcnJrkZv.nd-qei IMI 
+
+.1 in 
+
+
+
+\ Nella flfl^isac cai qL«^ 3 ^.HjqàiH^ 
+
+". . IHMHLJ[] i_3f :XJHQJ l'Ili Dtì: H^XA] B ] 
+
+parte destra, invece, in alto nn^irumn .tD' iwwr D i™-j-.Lr-*i..nniirn7i:™ 
+
+comnaiono i reaistri della RHH W ^ PL5LRPU5H D " DTO ^ D5:[*0WH;j 
+
+compaiono 1 registri aena ia^J Ba ^, Ei3ED ! p^^ ,*!.*««, tW4a9Bi 
+
+ed in basso il dump dell'area bb^lbìe cfl_i_ F LKd-i a -n_ea<»isec 
+
+. .... tìH"T*ia*Fii r-TJV -"JL3LTU I- ■ 1 1 1 LMJ: ■ '1BJJ«.:| . fl 
+
+. Concentriamoci sul ri- fiimkl:ì-i4- rim 5 LL>-j-.srvi.rai«i^3P] 
+quadro contenente il codice del gg^HJlfe f^T'^11^ 
+programma e notiamo come Q;; 1 enT-ini^i KMifuinnpin 
+tutte le funzioni esterne vengano %:l 
+colorate in rosso. 
+
+
+
+iTLtJe - "Stogi JùwP" 
+
+
+
+fìscrr "Ti^uIi-cf" 
+
+
+
+ST^-ÉTOl - " TafOi Irò" 
+lalr-L-Tie/* 
+
+
+
+» Analizziamo 
+il nuono giochino 
+
+
+
+Ckinl' i li nome; dM :i imp.i1lr.ri 
+pcnuinijolu drll-a Di^nrv clic 
+onpaiE qui sfianca? 
+
+
+
+Possiamo scorrere il disassemblato con i 
+tasti i^[«[5TH e l;^MJ»MW'i1 o utilizzan- 
+do la barra di scorrimento laterale, ma 
+cerchiamo di 
+non farci spa- 
+ventare dalla 
+quantità di 
+
+istruzioni as- 
+sembly e dal 
+numero di rou- 
+tine chiamate. 
+Tutto sommato, 
+a noi interessa 
+solo una funzione, cioè quella con cui il 
+programma legge la risposta che abbia- 
+mo scritto nella casellina in basso. Que- 
+sta funzione è . 
+quindi cerchiamola (si trova all'indirizzo 
+), selezioniamo la riga cliccan- 
+doci sopra e premiamola per fissare un 
+! Per chi vuole usare Softl- 
+CE, il comando analogo! 
+
+jj. A questo punto premiamo 
+sul tasto a forma di| 
+(come il "play" dello stereo) di OllyDbg, 
+o, se usiamo SoftICE, facciamo sempli- 
+cemente partire il programma. Il giochi- 
+no appare sullo schermo e ci chiede di 
+indovinare il nome di un simpatico per- 
+sonaggio della Disney rappresentato in 
+un'immagine. Ovviamente si tratta di 
+Pippo, ma supponiamo di non saperlo e 
+nel riquadro scriviamo MM »i»]iriHrfpre- 
+mendo, subito dopo, il tasto H3E33B. 
+
+
+
+OllyDbg fa' il suo dovere e si blocca 
+proprio dove avevamo settato il pun- 
+to di arresto precedentemente. An- 
+diamo avanti di qualche riga con il 
+tastoEUper chi usa OllyDbg eQ 
+per chi ha SoftICE fino ad arrivare 
+all'istruzione [ 
+
+l EIiMcfill l. Analizziamo ciò 
+che è successo. Il programma legge 
+la nostra risposta usando la funzione 
+già citata e la memorizza all'indiriz- 
+zo EHEQSI Subito dopo la funzione 
+I H TJ HìTif il conta il numero di carat- 
+teri della parola che abbiamo forni- 
+to e mantiene tale valore nel registro 
+
+
+
+che confronta il valore di [ 
+(in questo caso 8) con quello memo- 
+rizzato nel segmento dati gnignai 1 pi 
+del programma all'indi- 5fl401JB ■" PI 
+rizzo EIiMcJill cioè 5. Se «W4B1MC CI 
+I esito del confronto e^g^jg 
+negativo, viene visualiz- ÀGA01 31fl 
+zata la finestrella che di- Sg*2J™ 
+ce che abbiamo sbaglia- f n, 
+
+
+
+questo caso più divertente) il lavoro ai 
+reverser. PremiamoHB sulla finestrel- 
+la che compare dicendoci che abbia- 
+mo sbagliato e ritentiamo provando a 
+rispondere con una parola di cinque 
+lettere, ad esempio,HjfflICH. 
+
+
+
+» Osseruare 
+il programma 
+
+
+
+Premiamo ripetuta mente l£j per segui- 
+re passo passo l'esecuzione del pro- 
+gramma senza però entrare nelle varie 
+subroutines chiamate e vediamo cosa 
+succede. L'istruzione di salto condizio- 
+nato di prima questa volta viene ese- 
+
+
+
+PUSM DWDflD PTP DS: 14033111.1 
+PU&H gì «hi no. aerini 
+CRLL gLw:hir.o.!)0401iF13 
+i:hi= unii:,: pur iis iui riniti ,1 
+
+JN? SHÙR-r giochino .««■'. tìlT.1-'. 
+PIJRH DWOflD PTS DS:U033R1Ì 
+PUBH glo£hina.flfl4EB3Bl 
+CRLL giochi no. BBWIMC 
+nm DWM] PTP D3 I MEDITO!. B 
+
+
+
+to, altrimenti si salta in «0401331 PUS+I gi«hirw.8B4 
+
+
+
+4013011 
+
+
+
+inainzzo 
+
+
+
+avanti all'indirizzo 53*21»? 
+
+|. E evidente, 
+quindi, che la nostra risposta deve 
+essere di cinque lettere, ma possia- 
+mo comunque sbirciare all'indirizzo 
+citato poc'anzi per vedere come con- 
+tinua l'esecuzione. Ci sono un paio 
+diH3Qa funzioni interne al pro- 
+gramma e poi c'è una chiamata a 
+
+ili] che serve a confrontare 
+due stringhe, dove la prima è il no- 
+me che abbiamo immesso noi, men- 
+tre la seconda è molto strana. Evi- 
+dentemente la risposta esatta è stata 
+criptata per rendere più difficile (in 
+
+
+
+PUStf gìw-hinn tìfUMItìl 
+
+
+
+«CU "PLUTO' 
+
+
+
+«CU "PIPPO" 
+
+
+
+Strina - TJI-T'ir 
+ftlrinpl - TtLITir 
+
+
+
+II.. . < JHP . ÉKFUNFI 3?. 1 k h-4:«pH> | LI ■■ I rr^ifl 
+
+guita e possiamo verificare l'effetto del- 
+le funzioni chiamate dalle due istruzioni 
+che avevamo notato poco fa. 
+Non serve nemmeno entrare nelle fun- 
+zioni stesse per capire che la prima 
+converte tutte le lettere della nostra ri- 
+sposta in maiuscole, visto che la parola 
+viene trasformata in 
+_e che la seconda decripta la "stra- 
+na parola" di prima e la trasforma in 
+"PIPPO". A cosa servono queste due 
+funzioni? La prima permette di accetta- 
+re indifferentemente lettere maiuscole e 
+
+
+
+
+^> 
+
+
+
+I4_lb_nj Jb_rev iJ-ll-ZUUJ 1U:JJ Pagina Ib 
+
+
+
+REUERSING.b 
+
+
+
+» ®® 
+
+
+
+minuscole in modo che "Pippo" , "PIP- 
+PO" , "pippo" , "pIpPo" , ecc siano con- 
+siderate tutte corrette, mentre la secon- 
+da serve ad impedire che il iMiiraa di 
+turno trovi le risposte corrette leggendo- 
+le in chiaro all'interno del file exe senza 
+nessuno sforzo di reversing. Bene, ab- 
+biamo capito che la risposta giusta è 
+, quindi riproviamo ancora ri- 
+spondendo correttamente. Siccome 
+sappiamo che questa volta la soluzione 
+è esatta, la prima volta che OllyDbg in- 
+tercetta la chiamata alla funzione 
+
+__ possiamo dire al no- 
+stro simpatico debugger di continuare a 
+far correre il programma fino a che ta- 
+le funzione non verrà chiamata per la 
+seconda volta. 
+
+
+
+» Seconda proua 
+
+
+
+Compare la foto della torre di Pisa, ma 
+noi, fingendoci più ignoranti di Homer 
+Simpson, rispondiamo che la città in 
+
+
+
+A 
+
+— -siti 
+
+rft 
+
+-i.qjit 
+
+
+
+Uunl'r Ij LÌnà lui inni Ijinuk ■ pei 
+
+la Ifiirc pcndnte? 
+
+
+
+questione è KlifillifJd ! Premiamo il ta- 
+sto UJ'AV'Ufl e ripercorriamo il cam- 
+mino precedente. Notiamo subito che 
+dopo la chiamata alla funzione 
+
+il c'è un salto condizionato e che il 
+confronto tra il registro E33 contenen- 
+te la lunghezza della parola _ 
+da noi inserita e la lunghezza della ri- 
+
+
+
+mi pL=±iirxi_flH4tìKfiJ 
+»4B:>3ft3 PjSm EtlW PTRùS»rtìà:K] 
+
+!I!--HL .i-'l LÌ1J ./1i | .U.EJ'ii:ì:-.^-jJjrEb»1 
+H'-IHL H i'..*JI raLrarJ-iinr-. UHM lui 
+■4!-IH:|-l "*."ll IS"-' 
+
+KJOÌXE "■ -.ai ■ 
+
+H-JQÌ3U P.SH -> 
+
+MBISCS RHH DH7C FTP 35: [ET- 3} 
+
+IPWiax: CTLL -iJfMLGEFi 3 Z, Inaili* 
+
+KJHLSCfi J-P OlodUru .»WiSE 
+
+MdfliXF D-f 3 &-TE P"F L<E : Jfl9?lBI] -Z 
+
+-_ — __ dd-jni FV, 
+
+
+
+jirjFShCRri 
+
+itì4tìL3Ei P_€h » - 
+Bfl4B:3Efi P-_^1 qL=±i™_Étì4fl3tìF] 
+P.9Ì4UÌFG 
+
+
+
+goat - 1JLL 
+
+rahd ™ BB4B9L 
+
+
+
+KK.A3! CfllLQiaWra.BiJiJSE 
+sposta esatta viene ^^ H'ifin rq DS:(«3H:j.i 
+
+eseguito dopo tale Mfl6^L3; JE KCT gLiriLT.clliHiJSf 
+
+salto e, più precisa- M4M:5- Rft flTOlPIR B;|i«:*S: 
+
+,nd ' r,zzo fflttia VtL SmMHC 
+dove, Baffl:J5| 10/ Dani P^ D&:r4^33RC] r H 
+appena giunti, pos- Mfl->1£| AJffl flltìdìlm .8MÌ3S" 
+
+
+
+«nw 
+
+
+
+rHn-ra' 
+
+
+
+nnr«ln mmH n J n ««ffll IHL W.«È»*L3Z.l 
+
+parola corretta da ^ 
+
+inserire è di quattro | 
+
+lettere. Proviamo, KKLW FJffl 39 
+
+quindi, a risponde- «ttjj £* i^SSE 
+
+e ffi*L4« PUMI 
+con ffiqe:45B' DftL UlMLffilE/tattKdoà 
+fino a che il pro- 
+gramma non avrà decriptato la risposta 
+esatta servendocela in un piatto d'ar- 
+gento. La terza domanda è l'unica di 
+cui non potete conoscere la risposta a 
+meno che non siate i miei vicini di casa, 
+visto che si tratta di indovinare il nome 
+di uno dei miei due cani. Il procedi- 
+
+
+
+ci* « rfijEi™ naeamnniifl (puan. 
+
+i L i . ma" „ I T 1 1 
+
+
+
+■kbL£ ~ iJ-"J41 B (li.-j; 
+
+TErt i "Li r:Bpcra Iffl e crn.taFffilkrowl 
+
+
+
+•ymjmjMjjiji^mj 
+
+
+
+llnrm il rAlama dipli'i glnrjnn di 
+nini dut '.['i? 
+
+ùOipr+] «n II revri-fllnDi'i 
+
+
+
+C-Hie al [hlemill più [rijvjnt tet 
+
+min ftp r^n|? 
+^luuiÌIu luii II invciylnp! : | 
+
+
+
+
+
+
+guito finora e, siccome non voglio to- 
+gliervi il divertimento, lascio a voi l'one- 
+re e l'onore della sfida. Ricordatevi che 
+
+
+
+lP mt«ftflu«;1*j 
+
+
+
+Uri - WWW13Z rQlDOtiiro Z bf 'bicoLdmT .cLow-^ft-iro" i 
+
+
+
+TbkL - '_■ 
+
+
+
+nwnAidl 
+
+
+
+i>i|rfi_na>£:h3jj*»TTii^|pW_i=f^-jiXH_ 
+
+
+
+la funzioneEnHSEHl restituisce la lun- 
+ghezza di una stringa nel registro H3 
+e quindi dovete aspettarvi un confronto 
+del tipo I 
+
+
+
+CMP EAX. DWORD PTR 
+UALCOSAI B a"QUALCOSA ,! ~ 
+
+
+
+l'indirizzo di memoria che contiene la 
+lunghezza della risposta corretta, dopo- 
+diché dovete immettere una parola del- 
+la stessa lunghezza della soluzione rea- 
+le e seguire l'esecuzione del program- 
+ma fino a che non avviene il confronto 
+tra la parola inserita da voi e la solu- 
+zione reale. Lasciamo quindi che sia il 
+programma a decrittare per noi la ri- 
+sposta corretta e leggiamola come ar- 
+gomento di BTHBlgEI il- Se usate Softl- 
+CE, vi ricordo che il contenuto dei buf- 
+fer non viene visualizzato automatica- 
+mente, ma dovete usare il comando 
+dump come abbiamo fatto per il primo 
+giochino. 
+
+
+
+» Conclusioni 
+
+
+
+Se avete capito il meccanismo, non vi 
+sarà difficile scoprire il nome del mio 
+cagnolino. Se me lo comunicate per 
+email, come premio, posso inviarvi i 
+sorgenti del programma che, come ho 
+
+
+
+Assembler 
+
+
+
+avete problemi o vi piantate in qualche 
+passaggio, interpellatemi pure attraver- 
+so la posta elettronica e, compatibil- 
+mente con la mia disponibilità di tem- 
+po, provvedere a dissipare i vostri dub- 
+bi. Buon divertimento! cà 
+
+
+
+fantoibed 
+fantoibed@libero.it 
+
+
+
+16 www.hackerjournal.it 
+
+
+
+^> 
+
+
+
+l/_njj«_prog IJ-II-ZUUJ lu:Jb Pagina 1/ 
+
+
+
+
+
+i programmi gratuiti per rippare, codificare, ascoltare, uisualizzare, ordinar 
+ripulire, approfondire, analizzare la uostra collezione di file musicali. P 
+
+
+
+
+
+
+Exact Audio C 
+
+www.exadaudiocopy.de 
+
+
+
+
+
+
+
+
+
+Come il nome lascia in- 
+tendere, Exact Audio 
+Copy è un programma 
+per estrarre le tracce au- 
+dio da un CD, ed è un 
+compito che svolge molto bene. E in grado di lavorare sia con 
+CD Scsi che ATAPI, e ha tre diversi livelli di estrazione: Sicura, Ve- 
+loce e 'lampo". Nella modalità Sicura è in grado di applicare so- 
+fisticati algoritmi per la correzione degli errori (quei rapidissimi 
+"bip" che ogni tanto si sentono negli MP3 estratti in modo gros- 
+solano...). Recupera le info sui nomi delle tracce da un databa- 
+se localo o da CDDB.com, e supporta persino alcuni masterizza- 
+tori per registrare CD senza bisogno di usare altri programmi. 
+Come "pagamento", l'autore chiede che gli si spedisca una car- 
+tolina. Per le qualità del software, ne merita almeno dieci. 
+
+
+
+
+- "■■ ré9W w *m mA ~ 
+
+
+
+alcuno piace sempli- 
+\ltri preferiscono pò- I 
+j, versatilità e un'in- 
+ccia magari compli- 
+ma completissima, 
+e negarlo: Fmod è indicato per il secondo tipo di persone, 
+tette di riprodurre file mp3, ogg vorbis, wma, midi, mod, 
+.ming da Internet. Il tutto visualizzando lo spettro audio 
+icando effetti audio anche 3D. Nonostante le funzionala 
+jma pochissime risorse del processore, i — 
+
+
+
+nche voi odiate il disordine? 
+
+-MP3 può darvi una mano, 
+
+er lo meno per quanto ri- 
+
+uarda la collezione di file 
+
+udio. E infatti utilissimo per 
+
+ggiungere o modificare e i 
+
+orni dei file MP3, prelevandoli dal servizio online FreeDB, e ri- 
+
+ulirli in vario modo (convertire gli spazi in trattini, cambiare le 
+
+ìaiuscole in minuscole), e permette di creare playlist personaliz- 
+
+3te. Supporta i formati mp3, ogg, vqf, wma, wav, mpc e ape. 
+
+
+
+
+www.nullsoft.com/free/milkdrop/ V_ 
+
+MilkDrop è un semplice _-., 
+
+plug-in di visulizzazione ^-■-"■ j " 
+per WinAmp. Prima di ca- ■ ■ ■ 
+
+talogarlo tra la "fuffa", 
+leggete un po' cosa è ca- 
+pace di fare. Innanzi tut- 
+to, oltre a funzionare sia 
+
+in una finestra che a tutto 
+
+schermo, può anche sostituirsi allo sfondo Scrivania; potè 
+quindi continuare a lavorare normalmente, ma con lo sfondo 
+continuo movimento e a tempo di musica. Inoltre, potete inse 1 
+re una qualsiasi equazione matematica, che MilkDrop userà e 
+me base per la visualizzazione di effetti sempre nuovi. Un mu 
+che però richiede una scheda con accelerazione 3D hardware 
+il supporto di DirectX. 
+
+
+
+* s 
+
+
+■à 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+' " 
+
+
+
+
+
+
+
+
+
+
+^mj^m^m^m^m ■■ m 
+
+
+
+
+
+
+. I_I_LU 
+
+
+
+
+Hi-- r i . , 
+
+
+> 
+
+
+
+
+
+
+■■T-l 
+
+
+l 
+
+
+J. 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pl%Jf |^ 
+
+
+
+
+
+
+._ ^ v BL_r_ „j ii-p— p. "t A*H 
+
+
+
+
+
+
+
+
+,„+£,— ^ 
+
+
+
+
+■ -,-,- 
+
+
+1 
+
+
+1 — *■ * 
+
+
+
+
+
+EvilLyrics 
+
+
+
+labs.sk 
+
+ILyrics lavora in accoppiata 
+turi WinAmp o altri riprodut- 
+tori di Mp3 e si occupa di re- 
+cuperare da Internet il testo 
+1 dia canzone attualmente in 
+
+roduzione, e di visualizzar- 
+
+in una piccola finestra. Altre opzioni permettono di effettuare 
+
+erche su Google, Amazon e vari strumenti di traduzione per ot- 
+nere tutte le informazioni possibili sull'autore e sul brano che si 
+sta ascoltando. 
+
+
+
+MP3Gain 
+
+http://mp3gain.sourceforge.net 
+
+
+
+£ ■ - — 
+
+
+
+Vi capita mai di stare per ad- 
+dormentarvi ascoltando l'Ada- 
+gio di Albinoni, suonato piano, 
+per poi svegliarvi improvvisa- 
+mente con l'ultimo dei System 
+
+Of A Down sparato a massimo volume? MP3 Gain evita que- 
+sto e altri problemi, analizzando e "livellando" il livello di usci- 
+ta della vostra collezione di Mp3, in modo da non avere gros- 
+si sbalzi tra un brano e l'altro. Purtroppo, non può fare nulla 
+per rendere un po' più umani i vostri accostamenti musicali, i 
+
+
+
+4T(VI 
+
+
+
+
+
+ome avviene il passaggio dalla pressione del tasto 
+di accensione alla visualizzazione del nostro desk- 
+top pieno di icone (Windows o Linux che sia)? Pro- 
+viamo ad immergerci nelle viscere del nostro PC, e 
+a scoprirne i meccanismi più interni, spingendoci 
+laddove i normali uomini si fermano, ma gli hac- 
+ker sono di casa. 
+
+
+
+» L'auuiamento 
+
+
+
+Il semplice gesto di premere il pulsante di accensione del PC dà 
+il via a una complessa procedura di avviamento, suddivisa in 
+varie fasi: 
+
+1) Avvio BIOS 
+
+2) PO.S.T: (Power On Self Test, ossia auto-test di accensione) 
+
+3) Lettura MBR (Master Boot Record) del disco di avvio 
+
+4) Avvio del Loader dell'MBR 
+
+A questo punto si ha una differe 
+Linux, DOS/Windows o NT: 
+
+LINUX: 
+
+5) Avvio di LI LO (Linux Loader) 
+
+6) Caricamento Kernel 
+
+7) Montaggio ROOT 
+
+8) Avvio di INIT (processo padre di tutti i processi) 
+
+9) Lettura /etc/inittab 
+
+1 0) Ecc. ecc 
+
+
+
+DOS: 
+
+5) Esecuzione IO.SYS 
+
+6) Esecuzione MSDOS.SYS 
+
+7) Esecuzione CONFIG.SYS 
+
+8) Avvio shell impostata sul CONFIG.SYS, oppure avvio 
+COMAAAND.COM 
+
+9) Avvio AUTOEXEC.BAT, oppure settaggio data e ora (se 
+AUTOEXEC.BAT assente) 
+
+10) Prompt dei comandi 
+
+Windows 95/98/ME: ( = ambiente DOS con interfac- 
+cia grafica Windows) 
+
+
+
+5) Esecuzione IO.SYS 
+
+6) Lettura MSDOS.SYS (file di testo con parametri di configu- 
+razione) 
+
+7) Esecuzione CONFIG.SYS 
+
+8) Avvio shell impostata sul CONFIG.SYS, oppure avvio 
+
+COMAAAND.COM 
+
+9) Avvio AUTOEXEC.BAT, oppure settaggio data e ora (se 
+AUTOEXEC.BAT assente) 
+
+10) Avvio dell'interfaccia grafica Windows. 
+
+Windows NT/2000/XP: ( = 
+non basato su DO 
+
+5) Esecuzione NTLDR - passaggio a modalità protetta con 
+indirizzamento a 32 bit (non effettuato in DOS) 
+
+6) Esecuzione NTDETECT.COM - rilevamento configurazione 
+hardware 
+
+7) Lettura file BOOT. INI, presentazione menu per scegliere 
+quale Sistema Operativo avviare (se più di uno presente 
+sull'hard disk) 
+
+8) Se viene scelto un S.O. diverso da NT, il controllo bassa a 
+BOOTSECT.DOS 
+
+9) Se viene scelto NT, il controllo passa a NTOSKRNL.EXE 
+(nella cartella SYSTEM32). 
+
+Vediamo prima la parte comune: 
+
+
+
+» fluuio Bios 
+
+
+
+Alla pressione del tasto di accensione, si accende l'alimenta- 
+tore del PC, che dopo poche frazioni di secondo è in grado di 
+erogare la corrente necessaria al funzionamento del PC: quan- 
+do ciò accade, l'alimentatore invia un opportuno segnale (Po- 
+werGood) alla CPU, che inizia a eseguire il suo primo pro- 
+gramma. Poiché il computer è stato appena acceso, non potrà 
+esserci nessun programma in memoria RAM, per cui la 
+CPU cercherà qualcosa da eseguire in ROM: il BIOS, ap- 
+punto. A che indirizzo di memoria si trova la ROM del BIOS? 
+La CPU è programmata in fabbrica per eseguire, appena ac- 
+cesa, il codice contenuto a partire dalla locazione ffffO; sicco- 
+me l'ultima locazione del primo megabyte (quello accessibile al 
+PC appena acceso) è fffff, il codice potrà essere lungo al mas- 
+
+
+
+I 
+
+
+
+lwww.hackerjournal.it 
+
+
+
+±ti_zi_hj Jb_JDios 1J-11-ZUUJ 1U:J/ Pagina iy 
+
+
+
+
+
+Il BIOS 
+
+
+
+
+
+
+B.I.O.S sta per Basic Input Output System, ovvero "sistema di 
+base di ingresso/uscita": il BIOS è infatti un circuito che collega fisi- 
+camente il cuore del PC, ossia la CPU (Central Processing Unit, 
+unità centrale di elaborazione) ai vari componenti (l'hardware) del 
+PC (hard disk, tastiera, scheda video, scheda audio, memoria 
+ecc.), fungendo così da interfaccia. 
+
+
+
+Il modello del BIOS è identificato da una stringa di caratteri che 
+compare sullo schermo all'avvio del PC, nella forma xx-xxxx- 
+xxxxxx-xxxxxxxx-xxxxxx-xxxxxxxx-x (ogni "x" è un numero); pote- 
+te decodificare questa stringa andando a questa pagina: 
+http://burks.bton.ac.uk/burks/pcinfo/hardware/bios_sg/bios_sg.htm 
+
+
+
+Modular BltE k£.flTC r fe, I~-_j 5_- Alh 
+l*rf «Ci lUm-H. f__4 54f>y-n. Ile. 
+
+
+
+"iT-TiDrioni BICi 
+
+
+
+
+H MP-_VTE« 
+
+
+
+
+
+
+
+Hkm ni Sbw . Hntui RfflfttLA VHhn 
+' ' l CRfl-H™2fi I .FÉ 
+
+\/* 
+
+Informazioni pErifenche IDE 
+(HARD DISXfCD ROM) 
+
+
+
+
+
+
+
+
+Sigla BIOS 
+
+
+
+ter— rt cw t— ., ■ « 
+cu™* S|pi*i t«v. i jrt^ — r 
+
+0— wrt cnt iw 5f*4-. mam 
+
+tumrt SR.KM Sfnad ; IH 
+
+Utawi I L.71 U 
+
+> J.3tf . .li V 
+
+* f JU I in w 
+«12JU i 12 ■ V 
+
+
+
+
+
+
+un 
+
+
+
+
+
+www.hackerjournal.it 
+
+
+
+
+lti_Zl_hJ Jb_JD!OS ló-ii-zuuó 
+
+
+
+Pagina zi) 
+
+
+
+SISTEMA . ■ 
+
+
+
+Il Master Boot Record 
+
+
+
+simo 16 bytes (da ffffO a fffff, appunto). In realtà, il codice effetti- 
+vo è ancora più corto: c'è una semplice istruzione di JUMP (codi- 
+ce assembly: EA) seguita da un indirizzo a 20 bit (quindi 4 bytes), 
+per un totale di 5 bytes; i restanti 1 1 contengono la data di 
+creazione del BIOS in formato testo (mm-gg-aaaa) e un byte 
+che identifica se il BIOS è di tipo XT (vecchissimi computer, con pro- 
+cessore 8088) o AT (computer moderni): trovate una tabella a que- 
+sto indirizzo, anche se probabilmente non comprende tutti i valori 
+possibili: www.powernet.co.za/info/BIOS/sys_id.htm. 
+L'utilizzo dell'ultimo byte sembra sia sconosciuto... 
+(www.cybertrails.com/~fys/rombios.htm). 
+
+L'istruzione di JUMP salta alla posizione effettiva del codice del 
+BIOS. 
+
+Il programma contenuto nella ROM del BIOS esegue compiti 
+molto elementari: 
+
+*primo Power On Self Test (P.O.S.T):controllo integrità dell'- 
+hardware; in caso di errore in questa fase, non essendo ancora 
+stata inizializzata la scheda video, il BIOS comunicherà gli errori 
+all'utente mediante codici sonori, che differiscono da produttore 
+a produttore; all'indirizzo www.pcguide.com/ts/x/sys/beep trova- 
+te una spiegazione del loro significato, divisa per marca di BIOS 
+(AMI, AWAWRD, PHOENIX o altri). 
+
+"ricerca di BIOS di altro hardware (in genere è la sche- 
+da video ad aver un suo BIOS; per questo motivo, su alcuni 
+computer, il logo della scheda grafica compare sul monitor 
+prima di qualunque altra informazione. 
+"controllo se l'avvio è stato "a freddo" ("cold boot", 
+accensione del PC) o "a caldo" ("warm boot", reset del PC): 
+se la locazione 0000.0472 contiene il valore 0x1234, è un 
+"warm boot". 
+
+
+
+» P.O.S.T. (seconda) 
+
+
+
+Le informazioni relative a questo POST, a differenza del prece- 
+dente, sono visualizzate sul monitor, essendo già stata ini- 
+zializzata la scheda video. Sarà quindi possibile vedere il pro- 
+
+
+
+gresso nel controllo della memoria, i dati relativi al sistema 
+(temperatura CPU, voltaggi di sistema eccetera). Al termi- 
+ne del POST, se tutto è andato a buon fine il PC emetterà il clas- 
+sico BEEP tipico di ogni avvio. 
+
+A questo punto, il BIOS va a leggere le impostazioni memoriz- 
+zate nella memoria CMOS. 
+
+
+
+» Lettura MBR 
+
+
+
+M.B.R. sta per Master Boot Record, ovvero "record di avvio 
+principale": è un'area del disco di avvio (che può essere l'hard 
+
+
+
+Struttura dei dischi 
+
+Una spiegazione dettagliata sulla struttura fisica e logica 
+
+dei dischi è disponibile sul sito 
+
+www.users.intercom.com/~ranish/part/primer.htm 
+
+Un elenco completo di codici delle partizioni è invece su: 
+
+http://a2.swlibero.org/~daniele/a2/a221 .html 
+
+
+
+Offset Dimensione 
+
++0 1Beh (446 decimale) 
+
++1BEh 10h (16 decimale) 
+
++1CEh 10h (16 decimale) 
+
++1DEh 10h (16 decimale) 
+
++1EEh 10h (16 decimale) 
+
++1FEh 2 (2 decimale) 
+
+1ffh (512 decimale) 
+
+
+
+Contenuto 
+
+Partition Loader Code 
+Informazioni partizione 1 
+Informazioni partizione 2 
+Informazioni partizione 3 
+Informazioni partizione 4 
+55 AA (Identificativo 
+
+tavola partizioni: 0AA55h) 
+
+
+
+Alcuni documenti interessanti sulla gestione dell'MBR si trovano 
+agli indirizzi: 
+
+http://thestarman.narod.ru/asm/mbr/BootToolsRefs.htm, 
+http://home.att.net/~rayknights/pc_boot/debug.htm#GetMBR2 
+
+
+
+disk, un floppy o, nei computer più recenti, un CD-ROM) che 
+contiene i dati di base per l'avvio del PC. Esso è contenuto nel 
+Boot Sector, il "Settore di avvio" del computer, ovvero il pri- 
+mo settore del disco, identificato dalle "coordinate" Cylin- 
+der 0, Head 0, Sector 1 (vedi riquadro sulla descrizione del- 
+la struttura di un disco).. 
+
+L'MBR è lungo 512 byte, ed è composto di due parti: la Par- 
+tition Table (tabella delle partizioni), e il Partition Loader 
+Code (Codice di caricamento della partizione). 
+La tabella delle partizioni occupa solo 16x4=64 bytes, men- 
+tre la maggior parte dello spazio (i 446 byte rimanenti, oltre i 2 
+di controllo finali) è occupata dal Loader. Se il nostro PC è do- 
+tato di un unico sistema operativo, il MBR provvedere ad av- 
+viarlo, mentre se ci sono più sistemi operativi, e quindi più par- 
+tizioni, il MBR avvi era un programma, detto bootloader 
+(contenuto nel Boot Sector dell'unica partizione di avvio del di- 
+sco) che ci permetterà di scegliere quale sistema avviare. 
+
+L'avvio del Loader dell'MBR avviene con modalità diverse, a se- 
+conda del sistema operativo che si vuole lanciare. 
+
+Sistemi Linux: 
+
+il MBR conterrà un programma detto LILO (Lini 
+
+si occupa appunto di avviare Linux, seguendo I 
+
+cennata sopra, descritta in dettaglio a questo indirizzo: 
+
+www.ccoss.org/tutorials/lfs/Linux_from_Scratch_A_Tour.htm 
+
+Sistemi DOS: 
+
+Il loader dell'MBR cerca nella partizione il file IO.SYS, a cui ce- 
+de il controllo; questo a sua volta passa il controllo al file 
+MSDOS.SYS, dopodiché passa a leggere il file CONFIG.SYS; 
+
+in quest'ultimo file può essere specificato quale "shell dei co- 
+mandi" avviare, ovvero quale programma accetterà i comandi 
+inseriti dall'utente tramite tastiera; se non diversamente specifi- 
+cato nel CONFIG.SYS, verrà caricato il file COMMAND.COM 
+(se non presente, il PC si bloccherà con un messaggio di erro- 
+re). A questo punto il sistema è pronto a funzionare. Può però 
+esserci un ulteriore file di configurazione opzionale, ('AUTOE- 
+XEC.BAT, che permette di avviare automaticamente (AUTO- 
+matically EXECute) alcuni programmi o driver prima di passare 
+il controllo all'utente. In sua assenza, l'interprete dei comandi ci 
+mostrerà direttamente il classico prompt "C:\>",. 
+
+Sistemi Windows 95/98/ME: 
+
+I passi sono gli stessi del caso DOS, fino all'esecuzione del- 
+l' AUTOEXEC.BAT, con la differenza che se è presente un file 
+
+
+
+www.hackerjournal.it 
+
+
+
+
+»®f) 
+
+
+
+WINBOOT.INI, esso verrà letto al posto del file MSDOS.SYS, 
+che vena invece del tutto trascurato. Terminata l'esecuzione del- 
+l'AUTOEXEC, anziché visualizzare il prompt il sistema si awierà 
+l'interfaccia grafica Windows; questo significa, in pratica, che fi- 
+no alla versione 98, Windows non è un sistema operati- 
+vo, ma solo un'interfaccia grafica per il DOS, mentre Windows 
+NT, 2000 e XP sono veri e propri sistemi operativi, avviati al po- 
+sto del IO.SYS iniziale. Lo dimostra il fatto che il file MSDOS.SYS, 
+in sistemi 95/98/ME, è solo un file di testo, contenenti varie 
+opzioni di configurazione, tra cui anche la possibilità di non av- 
+viare l'interfaccia grafica, ma restare in ambiente testuale, dove 
+avremo a disposizione il MS-DOS verisone 7.0. 
+Alla pagina www.penguin.cz/~mhi/mbtmgr/docs/appendix.htm 
+sono spiegate le decine di opzioni disponibili per il file WIN- 
+BOOTINI. 
+
+
+
+» Sistemi UJindOLiis NT/2DDD/HP 
+
+
+
+Invece che al file IO.SYS, il BIOS cede il controllo al file 
+NTLDR, che fa passare il processore in modalità protetta a 
+32 bit (così può indirizzare fino a 4GB di RAM), e legge dal fi- 
+le BOOT.INI quali sono le modalità di avvio possibili. 
+Diversamente da Windows 9x/ME, Windows NT permette al- 
+l'utente di scegliere quale sistema operativo avviare, 
+leggendo le possibilità di scelta proprio dal file BOOT.INI. 
+Se viene scelto NT, verrà avviato NTDETECT.COM per il con- 
+trollo dell'hardware (i dati rilevati verranno scritti poi nella 
+chiave di registro HKEY_LOCAL_MACHINE\HARDWARE). 
+Viene poi caricato (ma non ancora avviato) NToskrnl.exe 
+(nella directory \windows\system32\), poi viene caricato 
+HAL.DLL (Hardware Abstraction Layer, un modulo che "na- 
+sconde" al sistema le varie differenze a livello hardware che 
+esistono tra un computer e l'altro), poi il file "System" (che 
+contiene vari dati di configurazione), e successivamente 
+vengono caricati i vari drivers necessari: al caricamento di 
+ognuno corrisponde la comparsa di un puntino sullo scher- 
+mo. Specificando l'opzione /sos nel file boot.ini, verrà an- 
+che mostrato il nome del file caricato. In questa fase i dri- 
+ver non sono ancora inizializzati. A questo punto il control- 
+lo viene ceduto a NToskrnl.exe, e termina la fase di BOOT, 
+iniziando invece quella di LOAD, con la quale vengono av- 
+viati i vari programmi utilizzati dal sistema, avviata l'inter- 
+faccia grafica e tutto il resto. 
+Il vostro PC è ora pronto all'uso! 
+
+Se invece dal menu di boot selezionate qualcosa di diverso 
+da WindowsNT, il sistema verrà riavviato utilizzando il file 
+BOOTSECT.DOS (per default), che contiene appunto il Boot 
+Sector del DOS, o del sistema che esisteva prima di instal- 
+lare WindowsNT. Questa scelta di default può essere però 
+modificata, in modo da affidare la procedura di boot a un 
+file contenente un qualunque boot sector. Potete trovare 
+dettagli su tutto ciò all'indirizzo www.winplanet.com/winpla- 
+net/tutorials/737/1. 
+
+Joshua Falken 
+
+
+
+Utility per srnanettonì 
+
+
+
+
+
+
+Beeblebrox 
+
+Lettura e modifica della tabella delle i 
+partizioni (programma sia per Win- 
+dows 98 che per NT). Un programma 
+ottimo ma non più sviluppato 
+http://students.cs.byu.edu/~codyb/ ii"j_ 
+
+
+
+KCH 
+
+
+
+Ranish Partition Manager 
+
+Visualizza dettagli sulle partizioni. Programma DOS, ma funziona anche sot- 
+to Windows. 
+www.ranish.com/part/ 
+
+Power Quest Partition Info 
+
+Gratuito, visualizza informazioni complete e dettagliate sulle partizioni, gira 
+in ambiente Windows (richiede il file 
+www.direfutbol.com/cpqs/quicksr/PQFF/PQVXD.VXD 
+o i n d i recto ry wi n d ows\syste m ) . 
+ftp://ftp.powerquest.com/pub/utilities/PARTINFO.ZIP 
+
+Power Quest Partition Magic 
+
+Programma a pagamento per manipolare le partizioni, anche senza can- 
+cellarne i dati. 
+www.powerqust.com 
+
+
+
+
+7tools partition manager 
+
+Visualizzatore grafico della 
+struttura delle partizioni: (de- 
+mo gratuita di programma 
+commerciale) - permette an- 
+che di visualizzare e salvare su 
+file i vari boot sector, compre- 
+so quello principale (MBR): 
+www.7tools.com/demo.html 
+
+
+
+r i ■ 
+
+■■■ 
+
+■■»■ 
+
+
+
+
+
+
+
+
+
+
+
+
+-2i zaiiaiEiiiair 
+
+SE3E 3 J LEI 1 2 S CE S = E "_^™ 
+
+
+
+
+
+Altri programmi vari per lavorare con le partizioni si tro- 
+vano su: 
+
+www.goodells.net/multiboot/tools.htm 
+
+Tutti i dettagli sui codici numerici delle partizioni: 
+
+www.win.tue.nl/~aeb/partitions/partition_types-l .html 
+
+Programmi per leggere direttamente i settori del disco: 
+
+www.geocities.com/SiliconValley/Sector/7256 
+
+
+
+
+zz_Zó_hj Jb_tast 1J-11-ZUUJ iu:Jb Pagina zz 
+
+
+
+FASTHACK. 
+
+
+
+
+
+
+i 
+
+
+
+
+
+Sulla fibra ottica i dati passano sotto forma di impulsi di luce, 
+ma la rete di Fastiueb ha anche il suo lato oscuro. 
+
+
+
+er uno che ha iniziato le sue 
+scorrerie telematiche con un 
+modem a 1 200 bps, l'offer- 
+ta Fastweb di connettività a 
+
+1 Mbit per privati ti mette 
+
+in uno stato che va molto, molto vicino al 
+Nirvana. Certo, il prezzo non è indiffe- 
+rente, e volendo guardare, per quella ci- 
+fra uno si aspetterebbe qualche servizio 
+in più (persino i provider free regalano 
+uno spazietto Web, per esempio). La po- 
+litica di Fastweb, è invece di segno op- 
+posto: quando si da tanta banda per un 
+utilizzo domestico, bisogna impedire che 
+qualcuno la sfrutti per offrire servizi che - 
+altrimenti - andrebbero pagati profuma- 
+tamente. 
+
+» Particolarità 
+della rete 
+
+
+
+La rete di Fastweb ha quindi alcune limi- 
+tazioni, la più importante delle quali è 
+che ogni utente domestico non ha a di- 
+sposizione un indirizzo IP pubblico, nem- 
+meno dinamico. Con un IP pubblico, in- 
+fatti, sarebbe possibile metter su un ser- 
+ver in casa (Web, ma non solo). Ogni 
+utente quindi esce su Internet con l'indi- 
+rizzo IP del proxy di Fastweb. Uno dei 
+primi tentativi (riusciti) di hackeraggio di 
+Fastweb è consistito quindi nel l'indivi- 
+duare un metodo per aggirare questa li- 
+mitazione. Il metodo individuato da naif 
+(pubblicato su Bfl, Butchered from Inside) 
+si basava sull'utilizzo dell'ftp passivo. 
+
+
+
+Quando si richiede un file a un server ftp 
+attraverso la modalità passiva, quello 
+che succede è che stiamo dicendo al ser- 
+ver di collegarsi al nostro computer e in- 
+viare i dati al client. Avete capito bene: la 
+richiesta di trasferimento parte dal server 
+e arriva al client. Ma come fa, se non è 
+possibile contattare direttamente l'IP del 
+client? La soluzione adottata da Fastweb 
+per permettere l'uso di ftp passivo è la 
+Port Address translation: viene aperta sul 
+proxy una porta che, all'interno della re- 
+te Fastweb, corrisponde all'IP dell'utente. 
+Quindi, nel momento in cui si fa un tra- 
+sferimento ftp passivo, c'è una porta 
+aperta, che può essere sfruttata. È stato 
+quindi realizzato un programmino che 
+effettua ripetute connessioni a un server 
+ftp, mantenendo quindi aperta la porta 
+sul proxy. Con un po' di intuito, si ricava 
+l'indirizzo IP pubblico corrispondente al 
+proprio IP privato (che avrà 
+forma IP:porta). Su Bfl, A 
+questo metodo è sti 
+pubblicato a scopo 
+analisi e studio, e l'autore 
+si raccomandava di n — 
+impiegarlo solo con ser 
+ftp di cui si aveva il ce 
+trollo, o l'autorizzazion 
+Purtroppo, invece, molti si 
+sono messi a usare il pro- 
+grammino con server ftp 
+pubblici, tanto che gli am- 
+ministratori dei server, in- 
+fastiditi dalle migliaia di 
+connessioni a vuoto, han- 
+no cominciato a bannare' 
+
+
+
+2 www.hackerjournal.it 
+
+
+
+tutti gli utenti Fastweb dalla propria rete, 
+con notevole disagio per chi, da Fast- 
+web, voleva per esempio scaricarsi l'ulti- 
+ma Debian. 
+
+» Occhio alle 
+condiuisioini 
+
+
+
+Abbiamo visto che la rete di Fastweb fun- 
+ziona in pratica come una grande LAN 
+connessa a Internet attraverso un proxy, 
+con tutti i rischi che questo comporta: in 
+una LAN infatti diventano molto più sem- 
+plici molti tipi di attacco. Sniffing, finger- 
+printing ed esplorazione delle risorse so- 
+no solo alcuni dei rischi. All'inizio, addi- 
+rittura, era possibile vedere tra le proprie 
+Risorse di Rete tutte le condivisioni degli 
+utenti del proprio palazzo o dell'intero 
+
+
+
+
+-n; 
+
+
+
+FA» 
+
+F a i* w wi 
+
+
+
+jJi V v ttv ■!■* n»» 
+
+
+
+quartiere. La situazione sembra essere 
+migliorata, perché l'esplorazione delle ri- 
+sorse condivise è stata in qualche modo 
+limitata, ma in realtà l'accesso a tali ri- 
+sorse è ancora possibile. Insomma, non 
+stupitevi più di tanto se vedete compari- 
+re dalla vostra stampante un foglio con 
+un documento che non avete mai visto. 
+La soluzione è abbastanza ovvia: limita- 
+te al minimo la condivisione di risorse, e 
+usate un firewall per suddividere le zone 
+sicure (la vostra rete domestica) ^ 
+da quelle insicure (non solo 
+Internet, ma anche tutti gli in- 
+dirizzi LAN che non apparten- 
+gano a un vostro computer). 
+D'altro canto, questa stessa li- 
+mitazione può consentire di 
+condividere risorse tra due 
+punti anche molto lontani, in 
+modo velocissimo: dovete 
+passare un file molto grande 
+a un vostro amico dall'altra 
+parte della città? Apritegli una 
+condivisione (con password, mi 
+raccomando), dategli il vostro 
+\P, e lui potrà vedere il vostro di- 
+sco tra le sue risorse di Rete. 
+
+
+
+» Il P2P dEfinitiu p 
+
+Come ogni tipo di comunicazione diret- 
+ta tra due utenti, anche lo scambio file 
+con i software Peer 2 Peer ha da un lato 
+alcune limitazioni (gli utenti esterni alla 
+rete non riescono a scaricare da un uten- 
+te Fastweb), ma dall'altro lato quando si 
+scarica da un altro utente Fastweb, le ve- 
+locità di trasferimento possono sfiorare i 
+900 Kbyte al secondo: significa scaricare 
+un intero CD in meno di un quarto d'o- 
+ra. 
+
+In realtà, è possibile consentire down- 
+load dall'esterno, se si imposta l'uso di 
+un proxy; questo però impedisce il 
+download agli utenti interni alla rete. 
+Visto che le connessioni tra utenti Fast- 
+web vanno così veloci, qualcuno ha pen- 
+sato di creare server di file sharing riser- 
+vati a loro. Da molto tempo sono stati 
+
+
+
+
+I creati e vengono mantenuti dei 
+server interni alla rete di Fastweb, 
+attraverso i quali gli utenti posso- 
+no scambiarsi allegramente file a 
+larga banda. Ne esistono un po' 
+per tutti i sistemi (Open Nap, WinMx, 
+eDonkey, Direct Connect), e basta cerca- 
+re un po' per trovare una prima lista di 
+indirizzi, da arricchire poi cercando gli 
+aggiornamenti sulla rete P2P stessa. 
+
+»TUeUidED 
+
+Fastweb distribuisce su fibra ottica anche 
+trasmissioni televisive, che si possono ve- 
+
+
+
+_s.« 
+
+
+
+dere sulla TV con un apparecchio chia- 
+mato VideoStation: filmati "on demand" 
+di RaiClick e trasmissioni streaming dei 
+canali di Pay TV (Al momento Sky, prima 
+Tele+ e Stream). Per vedere questi pro- 
+grammi bisogna attivare un ^^^^^^ 
+ulteriore abbonamento, esat- ■ ■ |l 1 1 
+tornente come per il satellite. L I llll 
+Peccato però che le trasmis- Forum 
+sioni di Fastweb non fossero ^^ 
+minimamente cifrate: bastava vvwwass 
+conoscere l'indirizzo giusto di http://fo 
+ogni canale (ricavabile osser- http://fa 
+vando un po' quali indirizzi http://m 
+contatta la VideoStation), e si 
+potevano vedere su ogni PC ^ ac l u ' 
+su cui potesse funzionare un nttp://g< 
+programma che permette lo Y/Ym - a ( 
+streaming da rete, come Vi- y eS f| jj 
+deoLan Client. In pratica, www.sOf 
+nonostante tutte le menate wwwqftf 
+
+
+
+sulla sicurezza delle schede TV, Seca 2 
+eccetera, le Pay TV erano visibilissime 
+proprio sulla piattaforma dove, poten- 
+zialmente, potevano essere più sicure 
+(non è possibile autenticare una parabo- 
+la, ma una scheda di rete sì!). 
+
+» Perché tanti 
+problemi? 
+
+
+
+I problemi di sicurezza di cui abbiamo 
+parlato qui (utilizzo degli Ftp esterni, pos- 
+sibilità di vedere la Pay TV senza pagare) 
+sono stati recentemente risolti, ma erano 
+noti da mesi, se non anni. Eppu- 
+re risolverli non era poi così dif- 
+ficile. Perché allora Fastweb 
+. non li ha sistemati prima? Pos- 
+
+sibile che non sapessero nulla, 
+quando cercando "Fastweb" su 
+oogle tra le pagine italiane, 
+Jcuni dei link che citiamo in 
+questo articolo compaiono nel- 
+la prima pagina? 
+Non è che, per caso, la pre- 
+senza di questi "buchi" rende- 
+va più attraente l'offerta di fast- 
+web per certi potenziali utenti? 
+Del resto, i costruttori di deco- 
+der e parabole erano ben con- 
+i — ytenti della diffusione delle sche- 
+^^^^rde pirata: gli unici a rimetterci 
+sono infatti le PayTV; tutti gli altri (costrut- 
+tori, installatori, rivenditori) ci guadagna- 
+vano soltanto, rà 
+
+
+
+Gino O'Knaus 
+
+
+
+LINK UTILI 
+
+Forum degli utenti FW 
+
+www.forum.fastwebnet.org/ 
+
+www.assitecforum.com/forum2/default.asp?CAT_ID=3 
+http://forumfastweb.altervista.org/newforum/index. php?act=idx 
+http://fastsharing.altervista.org/ 
+http://mauryzio.interfree.it/forum/fastland.htm 
+
+Faq "ufficiose", realizzate dagli utenti 
+
+http://gofastweb.cjb.net/ 
+www.akash.it/pc/fastweb.php 
+
+
+
+Testi di Butchered from Inside 
+
+www.sOftpj.org/bfi/dev/BFil 1 -dev-08.tar.gz 
+www.sOftpj.org/bfi/online/bfil 0/BFil 0-1 3.html 
+www.sOftpj.org/bfi/dev/BFil 1 -dev-1 2.tar.gz 
+
+
+
+www.hackerjournal.it 23 
+
+
+
+Ultima puntata della panormaica sulla Programmazione della shell con GNU/Linu» 
+
+
+
+
+elle prime due puntate di questo mini-corso abbiamo trattato diversi argomenti che ci offrono solide basi per iniziare 
+a programmare con la shell. In questa terza ed ultima puntata analizzeremo le istruzioni iterative, il calcolo aritmeti- 
+co e le variabili di shell, argomenti che necessitano della lettura delle prime due puntate per essere compresi. 
+
+
+
+» Ueriabili di shell 
+
+
+
+
+Le variabili di shell sono delle variabili speciali che la shell crea e utilizza durante il suo funzionamento. Esse sono molto utili 
+poiché consentono al programmatore di ottenere alcuni dati sul sistema, sull'utente, sul funzionamento della shell 
+
+e così via. 
+
+
+
+n 
+
+
+
+
+ECCO ALCUNE VARIABILI DEFINITE DIRETTAMENTE DALLA SHELL: 
+
+
+
+A 
+
+
+
+PPID II PID del processo genitore della shell 
+
+PWD II percorso dell'attuale directory di lavoro 
+
+OLDPWD II percorso della precedente directory di lavoro 
+
+REPLY L'output del comando read in assenza di input 
+
+UID User ID dell'utente corrente 
+
+EUID User ID effettivo dell'utente corrente 
+
+GROUPS Array dei GID di cui l'utente è membro 
+
+BASH II nome utilizzato per avviare questa istanza di bash 
+
+BASHVERSION La versione di questa istanza di bash 
+
+SHLVL Variabile incrementata di uno per ogni istanza di bash avviata 
+
+RANDOM Un numero intero casuale 
+
+SECONDS Numero di secondi trascorsi dalla chiamata della shell 
+
+LINENO Numero della linea corrente in uno script 
+
+HISTCMD Numero del comando corrente nella storia della shell 
+
+OPTARG L'ultimo argomento opzione processato da getopts 
+
+OPTIND L'indice del prossimo argomento che getopts processerà 
+
+HOSTTYPE II tipo di macchina su cui bash sta girando 
+
+OSTTYPE II sistema operativo su cui bash sta girando 
+
+MACHTYPE Architettura e sistema operativo della macchina su cui bash 
+
+sta girando 
+
+
+
+& 
+
+
+
+ecco alcune variabili definibili, oltre che dalla shell, anche dal- 
+l'utente: 
+
+IFS Internai Field Separator; viene usato nella suddivisione in parole e di 
+
+default corrsiponde a /y <spazio><tab><nuovalinea>" 
+
+PATH Percorso in cui la shell cerca i comandi da eseguire 
+
+HOME La home directory dell'utente corrente 
+
+CDPATH II percorso di ricerca per il comando CD 
+
+ENV File di configurazione per l'esecuzione di script 
+
+MAIL File contenente la posta elettronica dell'utente 
+
+MAILPATH La directory dei file di posta elettronica dell'utente 
+
+MAILCHECK Intervallo tra un controllo della posta ed un altro 
+
+PS1 L'invito primario 
+
+PS2 L'invito secondario 
+
+PS3 L'invito del costrutto select 
+
+PS4 Parametro usato durante un trace di esecuzione 
+
+HISTSIZE II numero di comandi da memorizzare nella storia della shell 
+
+HISTFILE II nome del file su cui memorizzare la storia della shell 
+
+HISTFILESIZE II numero di linee massime occupabili nel file della storia 
+
+della shell 
+
+TMOUT Tempo di attesa massimo (timeout) 
+
+PROMPT_COMMAND Comando da eseguire prima di mostrare un 
+
+nuovo prompt 
+
+
+
+v. 
+
+
+
+Per maggiori informazioni sulle variabili di shell vi invito a leggere la pagina man di bash. 
+
+
+
+
+
+24 1 
+
+
+
+www 
+
+
+
+urnal.it 
+
+
+
+
+
+
+Z4_Z'o_rij Jb_sneii ij-ii-zuuj iu:4U Pagina zs 
+
+
+
+
+
+» Calcola aritmetica 
+
+Come per ogni linguaggio di programmazione che si rispetti, anche la 
+bash offre degli strumenti per effettuare operazioni aritmetiche di ba- 
+se. Ecco l'elenco delle operazioni supportate : 
+
+? + Meno e più unari 
+
+! — Negazione logica e "bit a bit" 
+
+* / % Moltiplicazione, divisione, modulo (resto) 
++ ? Addizione, sottrazione 
+
+<< > Shift "bit a bit" a sinistra e a destra 
+
+<=>=<> Confronti 
+
+= = != Uguaglianza e disuaglianza 
+
+& AND "bit a bit" 
+
+~ OR esclusivo "bit a bit" 
+
+| OR "bit a bit" 
+
+&& AND logico 
+
+1 1 OR logico 
+
+= *= /= %= += ? = <<= >= &= ~= |= Assegnamento 
+
+Le operazioni si effettuano all'interno di doppie parentesi tonde o tra 
+parentesi quadre precedute dal simbolo $. 
+
+Ecco uno script che costituisce una calcolatrice di base per numeri interi: 
+
+# ! /bin/bash 
+
+# Calcolatrice per numeri interi 
+echo "Calcolatrice per numeri interi" 
+echo "Operazioni supportate :+-*/" 
+echo -n "Primo valore: " 
+
+read PRIMO_VALORE 
+
+echo -n "Secondo valore: " 
+
+read SECONDO_VALORE 
+
+echo -n "Operazione: " 
+
+read OPERAZIONE 
+
+case $OPERAZIONE in 
+
+"+") RISULTATO=$ [$PRIMO_VALORE+$SECONDO_VALORE] 
+
+} } 
+
+"-") RISULTATO=$ [$PRIMO_VALORE-$SECONDO_VALORE] 
+
+} } 
+
+"*") RISULTATO=$ [$PRIMO_VALORE*$SECONDO_VALORE] 
+
+} } 
+
+"/") RISULTATO=$ [$PRIMO_VALORE/$SECONDO_VALORE] 
+&& RESTO=$[$PRIMO_VALORE%$SECONDO_VALORE] && echo 
+"Resto: $RESTO" ;; 
+esac 
+echo "Risultato: $RISULTATO" 
+
+
+
+. 
+
+
+
+
+» Istruzioni iteratiue 
+
+Le istruzioni iterative costituiscono un particolare tipo di istruzioni che 
+eseguono ciclicamente delle operazioni. Oltre al costutto select che ab- 
+biamo analizzato nella puntata precedente, le istruzioni iterative supporta- 
+te dalla bash sono for, while e until. 
+
+L'istruzione for esegue una scansione all'interno di una lista e mostra in 
+sequenza gli argomenti che gli sono stati forniti. Analizziamo insieme 
+questo esempio: 
+
+# ! /bin/bash 
+
+# Riproduttore di file Ogg Vorbis 
+
+echo "Riproduttore di file Ogg Vorbis" 
+
+if [ $# = ] 
+
+then 
+
+echo "Devi fornire al programma almeno il nome di un 
+
+file Ogg Vorbis" 
+
+exit 
+
+else 
+
+for PARAMETRO 
+
+do 
+
+oggi 2 3 "$PARAMETRO" 
+
+done 
+
+echo "Riproduzione completata" 
+
+fi 
+
+
+
+In questo caso l'istruzione for è stata utilizzata per creare un piccolo ri- 
+produttore di file Ogg Vorbis servendosi di oggi 23. La sintassi di for 
+è molto semplice: si definisce una variabile che assumerà ogni volta il 
+valore di uno degli argomenti ottenuti attraverso in e una lista (se omes- 
+si, come in questo caso, si fa riferimento a tutti i parametri posizionali a 
+partire dal primo), mentre le operazioni da eseguire vengono racchiuse tra 
+do e done. 
+
+L'istruzione while esegue un'operazione fino a quando una condizione ri- 
+sulta sempre vera. Ecco un esempio: 
+
+# ! /bin/bash 
+
+# Calcolo la potenza di un numero intero positivo con 
+
+while 
+
+echo "Programma per il calcolo delle potenze di numeri 
+
+interi" 
+
+echo -n "Base: " 
+
+read BASE 
+
+echo -n "Esponente: " 
+
+read ESPONENTE 
+
+if [ $BASE = "0" ] 
+
+then 
+
+RISULTATOLO" 
+
+elif [ $ESPONENTE = "0" ] 
+
+then 
+
+RISULTATOLO" 
+
+elif [ $BASE = "1" ] 
+
+then 
+
+RISULTATO=$BASE 
+
+elif [ $ESPONENTE = "1" ] 
+
+then 
+
+RISULTATO=$BASE 
+
+else 
+
+RISULTATO=$ ( ($BASE*$BASE) ) 
+
+ESPONENTE=$ ( ($ESPONENTE-2) ) 
+
+while [ $ESPONENTE != ] 
+
+do 
+
+RISULTATO=$ ( ($RISULTATO*$BASE) ) 
+
+ESPONENTE=$ ( ($ESPONENTE-l) ) 
+
+done 
+
+fi 
+
+echo "Il risultato è: $RISULTATO" 
+
+La condizione va espressa tra parentesi quadre, mentre le istruzioni 
+
+da eseguire vanno racchiuse tra do e done. 
+
+L'istruzione until invece svolge il compito opposto di while: esegue delle 
+istruzioni fino a quando la condizione espressa risulta sempre falsa. Ecco 
+la parte di codice relativa al calcolo di potenze con while riscritta utiliz- 
+zando until: 
+
+until [ $ESPONENTE = ] 
+
+do 
+
+RISULTATO=$ ( ($RISULTATO*$BASE) ) 
+
+ESPONENTE=$ ( ($ESPONENTE-l) ) 
+
+done 
+
+
+
+L'istruzione until ha la stessa sintassi di while. 
+
+
+
+
+» Conclusione 
+
+
+
+Il nostro mini-corso di programmazione della shell con GNU/Linux termi- 
+na qui. Spero di essere stato abbastanza chiaro nell'esposizione dei con- 
+cetti e di avervi fornito tutti gli elementi necessari per realizzare solidi script 
+di shell. 
+
+Per dubbi, suggerimenti e critiche potete inviarmi una e-mail all'indirizzo 
+specificato in basso. 
+
+Per apprendere ulteriori nozioni relative alla programmazione di shell con 
+GNU/Linux potete consultare il box Documentazione presente in que- 
+st'articolo. 
+Vi auguro una felice programmazione con GNU/Linux :) m 
+
+pctips 
+
+
+
+
+^> 
+
+
+
+u^_njj«_eait ij-11-zuuj iv.zz Pagina z 
+
+
+
+
+ttore Responsabile: Luca Sprea 
+
+gazzi della redazione europea: 
+
+grandahackerjournal.iti 
+Bismark - it n II Cocciai Gualtiero 
+Tronconin Ana Estebarn Marco 
+Bianchii Edoardo Bracaglian 
+Polao Capobussin Lucio 
+Bragagnolon Amedeu Bruguèsn 
+regory Perori 
+
+: Cesare Salgaro 
+
+phic designer: Dopla Graphic S-r-1- 
+infoSdopla-com 
+
+Copertina: Daniele Festa 
+
+Publishing company 
+
+Mever S-r-1- 
+
+Via Torinon SI 
+
+EDDh3 Cernusco S/N (III) 
+
+Fax +3 c ì/DE. c ìE.H3.EE.3S 
+
+Printing 
+
+Roto EDDO 
+
+Distributore 
+
+Parrini & C- S-PA- 
+DDlflT Roma - Via Vitorchianon fll 
+Tel- Dh.33MSS.l r- 
+D13M Milanoi V-le Forlaninii E! 
+DE-7Sm7-l r- 
+
+abbonamenti 
+
+Staff S-r-1- 
+
+Via Bodonin EH 
+
+EDDÌD Buccinasco (III) 
+
+Tel. DE. MS. 7D. EH. 15 
+
+Fax QE.H5.7Q.EH.3H 
+
+Lun- - Veri- T-.3D/1E-.3D - mi3D/17i3D 
+
+abbonamentiBstaf foni ine- biz 
+
+Pubblicazione quattordicinale 
+registrata al Tribunale di Hila. 
+il E7/1D/D3 con il numero hDl- 
+Direttore responsabile - Luca S, 
+
+Gli articoli contenuti in Hacker 
+Journal hanno scopo prettamente 
+didattico e divulgativo- L'editore 
+declina ogni responsabilità' circa 
+l'uso improprio delle tecniche che 
+vengono descritte al suo interno- 
+L'invio di immagini ne autorizza 
+implicitamente la pubblicazione 
+gratuita su qualsiasi pubblicazior 
+anche non della Hever S-r-1- 
+
+opyright 4ever S.r.l. 
+
+estii fotografie e disegnin 
+pubblicazione anche parziale viet 
+
+
+
+Ormai sapete dove e come trovarci, appena 
+I possiamo rispondiamo a tutti, anche a quelli 
+
+incazzati. redazione@hacker journal.it 
+
+
+
+hack'er (hàk'ar) 
+
+"Persona che si diverte ad esplorare i dettagli dei sistemi di programmazione 
+e come espandere le loro capacità, a differenza di molti utenti, che preferiscono 
+imparare solamente il minimo necessario" 
+
+
+
+MAC 
+
+
+
+ROLL 
+
+
+
+Da questo mese viene pubblicata anche in Italia la rivista Rolling Sto- 
+ne, probabilmente la più antica e importante pubblicazione Rock ameri- 
+cana. A sfogliarla, però, non si può non avere una sensazione strana. La 
+parte editoriale prende; in molte parti è ruvida come dovrebbe. La pub- 
+blicità, invece, è quella che ci si aspetta di trovare in una rivista da par- 
+rucchiere maschile di tendenza: stilisti, profumi, auto di lusso e un po' di 
+gagdet hi-tech. 
+
+
+
+Non so voi, ma quando vado a un concerto, runica mia preoccupazione 
+in fatto di vestiti è che non deve dispiacermi troppo se i pantaloni si mac- 
+chiano di fango fino alla cintura, o se la maglietta si strappa mentre sto 
+pogando. E le scarpe devono essere abbastanza comode da farmi stare in 
+piedi finché ne ho voglia. 
+
+Insomma, in bocca rimane uno strano sapore metallico addolcito da 
+troppo miele, una specie di incongruenza, una contraddizione di fondo. 
+Che traspare anche da alcune pubblicità. Una di queste mi ha colpito in 
+particolare. Una pagina del super gestore Telefonico Italiano che pubbli- 
+cizzava il suo servizio Adsl ricaricabile (che qui chiamerò celiA). Il titolo 
+cerca di stare a suo agio sulla rivista: "Card Rock", e la frase a effetto non 
+è da meno: "Non senti altro che MP3? Usa lAdsl quando ce n'è un buon 
+motivo". 
+
+
+
+Ora, avete anche voi la sensazione che una grande azienda multina- 
+zionale sta cercando di stimolare i suoi potenziali clienti ad acquistare un 
+suo servizio per compiere un'azione quanto meno discutibile? 
+
+
+
+Altre multinazionali non si trovano in una situazione migliore: c'è 
+òsso dell'elettronica che ha anche varie etichette discografiche (vi, 
+;ono in vena, lo chiamerò Nyso), e mentre una sua mano produce dischi e 
+si batte con tutti i mezzi perché non vengano copiati, prestati, ascoltati da 
+più di cinque persone eccetera, con l'altra mano produce e vende maste- 
+rizzatoci e supporti di ogni tipo. 
+
+La cultura Rock e quella delfhacking hanno molto in comune: quel sen- 
+so di appartenenza a una comunità, il gusto per per l'estremo, le sfide ai 
+margini della legalità, e un sano senso di ribellione. E anche dalle nostre 
+parti c'è qualcuno pronto a usare questi elementi per guadagnarci. 
+
+Stanno infatti cominciando a sorgere aziende che dicono di praticare 
+f'hacking etico" per cavalcare un filone che ora va di moda, ma con 
+l'hacking non hanno nulla a che fare. Oltre ovviamente alle altre aziende 
+di sicurezza tradizionali, per le quali l'hacker è solo uno spauracchio da er- 
+g/fare davanti ai clienti per terrorizzarli e vendergli i suoi prodotti. 
+
+L'argomento è complesso, delicato, e non può esaurirsi in mezza pagi- 
+netta. Ne parliamo infatti nell'articolo alle pagine 10-13, tenendo ben pre- 
+sente anche che accanto a questi, ci sono anche alcuni hacker che hanno 
+sfruttato le proprie conoscenze per inventarsi un lavoro senza per questo 
+abbandonare lo spirito originale, e infatti continuano a rendere disponi- 
+bili i propri software e i propri studi. 
+
+grand@hackerjournal.it 
+PS: in ogni caso, benvenuta Rolling Stone ;-) 
+
+
+
+2 | www.hackerjournal.it 
+
+
+
+
+^> 
+
+
+
+Ub_uy_nj Jb_news IJ-ll-ZUUJ 1U:Z/ Pagina b 
+
+
+
+NEWS 
+
+
+
+O GLI OCCHI , . 
+^AANDORLA DI 
+JENSURA 
+
+
+
+l^L 
+
+
+
+
+ufr"-**' — 
+
+
+
+Il Grande Fratello del Ministero della Cultura 
+cinese ha puntato il suo occhio inquisitore 
+sugli Internet Cafè della nazione. Non solo tutti 
+i punti di accesso pubblico alla Rete saranno 
+obbligati a installare software di controllo per 
+monitorare le attività dei clienti. Pare anche che 
+la licenza di apertura di esercizi verrà d'ora in 
+poi concessa esclusivamente a grandi catene 
+controllate dallo Stato. La situazione 
+incresciosa è stata denunciata da Reporter 
+Senza Frontiere (http://www.rsf.org/), 
+organizzazione che da anni si batte per la libertà 
+di informazione nel mondo. 
+
+
+
+
+elia, uno dei più grandi Internet Service 
+_ Providers svedesi ha deciso di bloccare i 
+computer di tutti coloro che inviano 
+spamming tramite i suoi server. I computer 
+bloccati principalmente sono quelli infestati 
+da trojans che spediscono all'impazzata 
+centinaia di messaggi indesiderati. 
+Immaginiamo la gioia degli utenti: infetti e 
+mazziati, ehm... inchiodati. Telia assicura 
+comunque di offrire assistenza ai malcapitati, 
+aiutandoli a rimuovere il problema il più 
+velocemente possibile. 
+
+
+
+O MA... CHIEDERE IL PERMESSO? 
+
+
+
+□ 
+
+
+
+La botta di iniziativa di AOL ha lasciato tutti 
+quanti stupefatti e parecchio contrariati. 
+Senza minimamente interpellare i suoi 
+abbonati, il colosso americano ha infatti deciso 
+di disabilitare Windows Messenger. Il servizio, 
+che nulla ha a che vedere con il client di 
+
+
+
+.^aaaaaaaaVa 
+
+
+
+di Etaa a ala Mjl UZHD ] 4.44. -M 
+
+
+
+nmuiArMriO 4 Bc-b-;n. Tv ni lina óm DLun^ 
+il tu mu Irrts^al i chi ■ dri-nti ■ Iwni Èbani mi vah 
+Vu-YYdaaa rk con iru zapia? Afr 
+HTTP. AH ATTWU . ML RL S 
+^ai ni 51 par arai ara 
+
+
+
+j 
+
+
+
+messaggistica istantanea, è vero, costituiva un 
+canale privilegiato per lo spamming, nonché un 
+punto di possibile vulnerabilità per il sistema. 
+Ma non si capisce come AOL si possa essere 
+presa tale ingiustificata e ingiustificabile 
+libertà. Libertà che, diciamocela tutta, a un 
+ragazzino o hacker qualunque sarebbe costata 
+indagini, diffide, sanzioni e quant'altro. AOL si 
+difende dalle accuse come niente fosse, 
+dicendo che il servizio è per lo più sconosciuto 
+agli utenti, che è riattivabile con un clic del 
+mouse e che ha avuto accordi sulla faccenda 
+con il big di Redmond. Animata da tante buone 
+intenzioni, forse AOL non si rende conto del 
+paradosso. Combattere l'intrusione con... 
+un'intrusione non richiesta. Ma del resto c'è 
+anche chi pensa di fermare le guerre con altre 
+guerre. Deve essere così che va il mondo. 
+
+
+
+O TRENI DEL FUTURO DISAGI DEL PRESENTE? □ 
+
+
+
+Carrozze attrezzate per connessioni wi-fi, 
+passeggeri mollemente adagiati che 
+ingannano il tempo guardando la TV on 
+demand, alacri omini incravattati che 
+trasformano il viaggio in treno in un'occasione 
+per lavorare ancora di più e meglio. Ma dove 
+siamo? In un film ambientato nel futuro o tra i 
+fotogrammi dell'incubo di un qualche manager 
+malato di efficientismo e di tecnologismo? 
+Macché. Siamo a Genova dove pochi giorni fa 
+Trenitalia ha presentato un nuovo modello di 
+treno del futuro. Il progetto si chiama Fifth (Fast 
+Internet For Fast Train Host), è realizzato in 
+collaborazione con Alenia Spazio e prevede 
+l'allestimento di spazi tecnologicamente 
+attrezzati sui treni di lunga percorrenza. Le 
+sperimentazioni avranno luogo per tutto il 2004 
+su treni speciali. Dall'anno successivo i servizi 
+saranno disponibili sugli Eurostar ed entro il 
+2005 anche sugli Intercity. Che dire, siamo 
+fieri di essere italiani, di essere al passo con 
+l'Europa e di essere promotori di servizi tanto 
+
+
+
+77? fM TAL/A 
+
+
+
+
+all'avanguardia. Anche se qualche volta ci 
+basterebbe che i convogli di Trenitalia 
+giungessero puntuali, non imballati come una 
+discoteca la notte di capodanno, non 
+ammorbati e appiccicosi come la stessa 
+discoteca la mattina dopo, che fossero 
+tiepidi d'inverno e almeno un po' freschi 
+d'estate. È chiedere troppo? 
+
+
+
+O A OGNUNO LA SUA PROTEZIONE 
+
+
+
+□ 
+
+
+
+I bambini si sa, hanno l'occhio lungo e a volte 
+curiosità un po' troppo pruriginose per la loro 
+giovane età. Per i genitori preoccupati della 
+sicurezza online dei loro figli, Telecom lancia 
+Alice Family. Si tratta di un'offerta di 
+abbonamento ADSL che prevede quattro 
+caselle di posta e quattro accessi alla Rete 
+indipendenti. Grazie a Parental Control, ogni 
+accesso potrà collegarsi a Internet con un 
+diverso grado di protezione, tutelando così i più 
+piccoli da visioni e contenuti non adatti, anche 
+
+
+
+
+quando 
+
+mamma e 
+
+papà non sono 
+
+in casa. Fino al 
+
+31 dicembre' 
+
+l'attivazione di 
+
+Alice Family 
+
+sarà gratuita. 
+
+Dopo di che 
+
+costerà 2 euro al bimestre. 
+
+Per informazioni: www.aliceadsl.it. 
+
+
+
+6 | www.hackerjournal.it 
+
+
+
+Ub_uy_nj Jb_news IJ-II-ZUUJ 1U:Z/ Pagina / 
+
+
+
+NEUS 
+
+
+
+
+O AAA GUARDA CHE SORPRESA 
+
+
+
+□ 
+
+
+
+Metti un giorno di essere online sulla tua 
+scheda abbonato Sky,. Metti di essere 
+annoiato e di cincischiare con i numerelli 
+dell'uri. Metti che, cambia una cifra qua e una 
+là, e guarda un po' cosa accade. Ti si visualizza 
+in tutto il suo splendore la scheda di un altro 
+abbonato. Con tanto di nome, cognome, 
+indirizzo e dati personali. Sembra impossibile, 
+dato che i server di Sky sono di tipo sicuro. 
+Eppure è successo ad alcune persone che poi 
+hanno segnalato l'accaduto a Punto 
+Informatico. Per fortuna la pagina Web che 
+permette questo tipo di accesso non è 
+facilmente raggiungibile dal sito dell'operatore 
+satellitare. Il problema risiede infatti in una 
+
+
+
+macchina di servizio utilizzata dalla rete di 
+dealer Sky e non del server dove si trova il sito 
+dell'operatore. Sky è stata avvertita, dunque si 
+suppone che a breve di questo imbarazzante 
+inconveniente non vi sia più traccia. 
+
+
+
+sor 
+
+
+
+
+O OPERAZIONE CATARTICA 
+
+
+
+□ 
+
+
+
+
+
+
+
+Sì, la buona riuscita dell'operazione della 
+guardia di finanza contro il worm Zelig è 
+stata una sorta di purificazione liberatoria. 
+Soprattutto per i portafogli a rischio di molti 
+internettari. Nei giorni tra il 24 e il 25 ottobre 
+scorsi, si è diffuso un messaggio di posta 
+
+
+
+elettronica apparentemente innocuo che 
+invitava a visitare un sito dove avremmo 
+trovato un salvaschermo con "messaggi 
+catartici", le ormai note perle di saggezza di 
+Flavio Oreglio di Zelig. Una volta raggiunta la 
+home page indicata, avviare il download era un 
+attimo. Inutile dire che si trattava di una truffa 
+che dirottava la nostra connessione telefonica 
+su un numero da 1,80 euro al minuto. Per 
+fortuna il pericolo è scampato. L'organizzatore 
+della truffa, un commerciante di pelli di Pisa 
+domiciliato a Caracas, è già stato fermato dalle 
+forze dell'ordine. Stiano tranquilli tutti coloro 
+che hanno ceduto alla tentazione del clic. 
+Grazie al tempestivo intervento della GdF, non 
+riceveranno le tanto temute, e per nulla 
+catartiche, bollette astronomiche. 
+
+
+
+O ALLO SPAMMER! ALLO SPAMMER! 
+
+
+
+□ 
+
+
+
+Le vie dello spamming sono davvero infinite. 
+Gira voce che cominci a diffondersi questa 
+piaga anche via Bluetooth. Il fenomeno si 
+chiama bluejacking e per ora sembra sia 
+soltanto la bravata di qualche buontempone. 
+Ma non fatichiamo pensare che spammers seri 
+prima o poi possano approfittare della 
+possibilità di inviare messaggi via Bluetooth 
+tra dispositivi accesi nel raggio di pochi metri . 
+Ci immaginiamo eserciti di mercenari, che 
+travestiti da uomini d'affari sparano messaggi 
+indesiderati, sui treni, in metropolitana, alla 
+stazione, negli uffici. Che succederà a quel 
+punto? Diffidentissimi, copriremo telefoni, 
+computer e palmari con gli astucci, come 
+quando a scuola non volevamo ci copiassero. 
+E al minimo sospetto urleremo impagabili 
+"allo spammer! allo spammer! prendetelo!". 
+
+
+
+
+O CE SEMPRE UN, . 
+PRIAAA VOLTA 
+
+■ a prima volta non si 
+scorda mai. Anche 
+quando si tratta di | 
+vincere una causa anti 
+spam. Per la California 
+l'evento è di qualche 
+giorno fa. La causa è 
+costata ben due milioni di dollari di multa a 
+una azienda di marketing che ha inv ; 
+milioni di mail non richieste. Nei messagi 
+trovavano consigli su come realizzare r 
+pubblicitarie e una quantità spropositati 
+indirizzi di posta elettronica. Oltre ricever 
+multa, i responsabili dell'operazi 
+marketing sono stati diffidati dal gestir 
+amministrare affari che riguardino 
+pubblicità in Rete per i prossimi dieci ann 
+
+
+
+NO PROBLEM 
+
+| e Amministrazioni pubbliche che vogl 
+passare da software proprietari a softv 
+open source, prendano nota del 
+dell'Unione Europea, http://europa.eu.int 
+Qui si trovano informazioni sui div 
+prodotti open source e una tabella 
+calcolare quanto si risparmia passando 
+una formula all'altra. Il documento, redi 
+da esperti nel settore di tutta Europe 
+costantemente aggiornat 
+
+
+
+O LA VERITÀ E V 
+
+
+
+
+
+
+
+d-SMo 
+
+
+
+Si è finalmente aperta l'inchiesta della Po 
+Postale e delle Comunicazioni sulla tr 
+anti eBay. Il raggiro riguarda un messac 
+fasullo che cerca di convincere gli iscrit 
+eBay a inviare i dati personali, compresi qi 
+della carta di credito. Al momento le inda 
+sono ancora in corso e non si sa né chi at 
+architettato il piano, né quante persi 
+siano cadute nella trappola dei truffai 
+Naturalmente eBay è assolutame 
+estranea alla faccenda. Anzi, ricorda che i 
+avrebbe ragione alcuna di richied 
+informazioni del genere ai suoi iscritti. 
+
+
+
+www.hackerjournal.it 7 
+
+
+
+Ub_uy_nj Jb_news IJ-II-ZUUJ iu:^b Pagina b 
+
+
+
+NEWS 
+
+
+
+
+r | | ii-^ 
+
+
+
+
+
+
+>e ancora l'open source non ci ha convinti del 
+►tutto e aspettiamo quell'argomentazione in 
+più per liberarci dai vincoli del software 
+proprietario, proviamo a dare un'occhiata a 
+questo libro. Costa 1 Euro e si chiama "Come 
+passare al software libero e vivere felici - 
+Manuale di autoliberazione informatica". Tra 
+le sue pagine troveremo non solo teoria ma 
+anche tanta pratica e spiegazioni tecniche. 
+Sul sito dell'autore, www.stefanobarale.org 
+è disponibile anche la versione elettronica 
+della pubblicazione. 
+
+
+
+iessuno resiste più alla voglia di wi-fi, 
+Inemmeno Me Donald. Nostro Signore 
+degli Hamburger sta prendendo accordi con 
+alcuni dei più noti fornitori di tecnologia wi-fi 
+per dotarsi delle infrastrutture necessarie al 
+collegamento wireless a banda larga. Così tra 
+una patatina e l'altra i clienti potranno 
+ingannare il tempo sfrecciando da un sito 
+all'altro. E chissà mai che pur di navigare a 
+velocità tanto golose, gli avventori siano 
+disposti a ingollarsi molti più panini annegati 
+nel ketchup di quanto fame o istinto di 
+autoconservazione non suggeriscano. 
+
+
+
+O NON SIAMO CATTIVI, SIAMO SOLO CURIOSI. □ 
+
+
+
+jjjj.ii: l'jM"]-.-, 
+
+
+
+
+Hacker e Cracker. Due sole lettere di 
+differenza per indicare categorie di persone 
+tra cui c'è un abisso. Da una parte coloro che 
+sono appassionati di tecnologie informatiche e 
+che cercano di carpirne tutti i segreti possibili e 
+immaginabili, restando nel lecito. Dall'altra 
+persone a cui non basta il piacere della 
+
+
+
+conoscenza, ma per sentirsi soddisfatti devono 
+combinare malefatte informatiche a danno di 
+terzi. Da una parte gli hacker dall'altra i cracker. 
+Da una parte i buoni dall'altra i cattivi. Ci 
+tengono a marcare questa netta divisione gli 
+hacker, che per difendere la propria cultura e 
+dignità di categoria, hanno anche fondato il 
+progetto HANC. Acronimo di Hackers Are Not 
+Crackers, o Hackers Are Not Criminals se 
+preferiamo, questo manifesto sottolinea che gli 
+hacker che non sono affatto pirati informatici 
+come invece il dipingono i media, 
+probabilmente per superficialità e ignoranza 
+in materia. Chi volesse dare un'occhiata e 
+dare il proprio contributo a diffondere la 
+cultura hacker si può collegare al sito 
+http://www.hancproject.org/. 
+
+
+
+O PALMA D'ORO A NAPOLI 
+
+
+
+Si dice che San Gennaro protegga sempre i 
+napoletani. Ma ci sa che questa volta il 
+Santo nulla abbia potuto, per togliere alcuni 
+suoi cittadini dalle grinfie delle forze dell'ordine. 
+Tanto meglio, perché si trattava di persone 
+disoneste che frodavano la legge sul diritto 
+d'autore duplicando CD audio e software da 
+rivendere sul mercato nero. Il bliz che la 
+Guardia di Finanza ha portato a termine a 
+Napoli negli scorsi giorni non ha precedenti. 
+Sono stati individuati e messi sotto sequestro 
+diversi laboratori altamente tecnologici con una 
+capacità di duplicazione di circa tremila copie 
+
+
+
+illegali all'ora. Nove le 
+persone arrestate e 
+trecentomila euro il 
+valore della merce 
+ritirata. All'operazione 
+spetta la palma d'oro del 
+più imponente sequestro 
+mondiale di attrezzatura 
+in termini di qualità e 
+valore. Che dire, Napule 
+è sempre Napule. 
+Esagerata e grandiosa, 
+nel bene e nel male. 
+
+
+
+
+O L'UNIONE FA LA FORZA, SPERIAMO 
+
+
+
+□ 
+
+
+
+■".j. rj . ■ j u i s» ■- 
+
+
+
+
+
+
+
+
+-1-1 — «I — —.-,.— I 
+
+
+
+McDonald's 
+
+
+
+Intorno a Bill Gates soffiano forti venti di 
+apertura. Microsoft ha infatti annunciato di 
+voler condividere con gli sviluppatori strumenti 
+interni utilizzati per creare prodotti più sicuri e 
+affidabili. Certo dato il numero di bug che esce 
+dagli edifici di Redmond, c'è quasi da augurarsi 
+che la condivisione di know how non superi 
+certi limiti. Ma non vorremmo essere troppo 
+
+
+
+cattivi. Vogliamo invece sperare 
+che la collaborazione tra le 
+persone possa dare i suoi buoni 
+frutti come sempre. Tra le utility 
+rilasciate ci sono Prefix e Prefast, 
+due tool diagnostici che 
+analizzano il codice sorgente in 
+formato testo per trovare bachi 
+nel codice C + + . C'è un 
+utilissimo programma che mette 
+a disposizione degli sviluppatori 
+uno schema su errori e 
+
+vulnerabilità cui sono soggette 
+
+le applicazioni già al momento 
+della progettazione. Infine c'è FxCop un 
+tool direttamente scaricabile all'indirizzo 
+http://www.gotdotnet.com/team/fxcop/ che 
+permette di evidenziare eventuali falle nella 
+programmazione e controlla che il codice 
+sviluppato sul modello MS.NET sia conforme 
+alle linee guida del MS.NET Framework. 
+
+
+
+8 www.hackerjournal.it 
+
+
+
+^> 
+
+
+
+Ub_uy_nj Jb_news ij-ii-zuuj iu:^b Pagina y 
+
+
+
+NEUS 
+
+
+
+
+O L'ULTIMA AAAGIA DI HARRY POTTER 
+
+
+
+D 
+
+
+
+Nel carnet delle possibili magie 
+del simpatico maghetto 
+occhialuto ci deve essere anche 
+quella di far sparire i siti. Se no 
+non si spiega come mai sia stato 
+parzialmente oscurato il sito del 
+radicale Pietrosanti, promotore di 
+un'iniziativa che riguarda, guarda 
+caso, proprio Harry Potter. 
+Insieme a un gruppo di non 
+vedenti Prietrosanti sta 
+organizzando una prossima 
+vendita online della versione'" 
+digitale dell'ultimo episodio della saga di Harry 
+Potter a soli 4,8 euro. Prezzo che andrebbe a 
+coprire i soli costi dei diritti d'autore. Si capisce 
+che la faccenda abbia scatenato le ire degli 
+editori, (Salani), che hanno promesso guerra e 
+vendetta per una simile onta. E soprattutto per 
+le presunte perdite economiche che tale 
+vendita online comporterebbe. Quello che non 
+
+
+
+
+si capisce è perché oscurare il 
+sito di Pietrosanti, visto che non 
+contiene nessun tipo di materiale 
+illegale. A meno che non si 
+consideri illegale la promozione 
+dell'iniziativa e le ragioni che la 
+giustificano. Ancora di meno si 
+capisce come mai da uno 
+dei due siti di Pietrosanti, 
+www. pietrosanti.org invece sia 
+ancora possibile scaricare la 
+versione elettronica di Delitto e 
+Castigo di Dostoevskji. La 
+risposta viene da sé, ed è di sette lettere: 
+censura. La guerra tra le due parti si 
+preannuncia aspra e cruenta. Salani giura di 
+trascinare Pietrosanti in tribunale qualora la 
+vendita online abbia inizio. Pietrosanti e 
+discepoli promettono che il libro in versione 
+digitale verrà comunque distribuito. 
+Attendiamo ansiosi gli sviluppi della contesa. 
+
+
+
+O CARTUCCE IN LIBERTA 
+
+
+
+Forse non tutti sanno che cosa ci stanno a 
+fare i chip sulle cartucce delle stampanti. 
+Per protezione. Trattandosi di dispositivi 
+protetti dal copyright, i chip hanno come unico 
+scopo di impedire la ricarica delle cartucce ed 
+evitare che produttori non autorizzati ne 
+realizzino di compatibili. meglio, così 
+credevano i big delle cartucce fino a poco 
+tempo fa. Ora una sentenza negli Stati Uniti ha 
+cambiato le carte in tavola. Nel 2002, sicura di 
+vincere, Lexmark ha fatto causa alla società 
+SCC per avere creato cartucce compatibili che 
+riproducevano il funzionamento dei chip 
+Lexmark. Invece il tribunale ha dato ragione 
+
+
+
+alla SCC. C'è infatti una 
+sezione del DMCA, 
+Digital Millennium I 
+
+Copyright Act, cheS 
+permette alle aziende di 1 
+sviluppare software allo H 
+scopo di rigenerare! 
+cartucce di toner e 
+stampanti. La SCC a 
+pertanto potrà | 
+
+tranquillamente vendere 
+chips sostitutivi da usare 
+con le vecchie cartucce 
+Lexmark. 
+
+
+
+
+: hlg«- rw*lfej| 
+
+BLACK 
+
+
+
+
+3 LINUX IN DIRITTURA D'ARRIVO 
+
+
+
+□ 
+
+
+
+
+Linus Torvalds & C. l'hanno definita "una 
+significativa pietra miliare". Sarà anche che ogni 
+scarrafone è bello a mamma sua. Ma questa volta 
+il giudizio è obiettivo. Pare che la versione 2.6 del 
+kernel di Linux potrebbe essere la penultima prima 
+della versione finale. Già qualche settimana fa 
+Torvalds aveva assicurato che nelle release non ci 
+sarebbero state altre modifiche che non 
+riguardassero strettamente la correzione di 
+problemi di stabilità del kernel. Il consorzio in cui 
+Torvalds e collaboratori ha esortato fornitori di 
+sistemi, venditori indipendenti di software e clienti 
+di Linux, a provare e verificare la nuova versione 
+2.6.0-test9 per prepararsi "alla prossima 
+production release di Linux". 
+
+
+
+HI VA PIA. . 
+VA LONTANO? 
+
+
+
+
+Per alcune persone downloadare patch 
+sito Microsoft è come controllare la pi 
+elettronica. Si va sul server quando ca 
+durante il giorno e si checka. Qualcosa 
+scaricare c'è sempre. Adesso però Micro 
+cambia musica. Gli aggiornamenti arriv 
+solo una volta al mese. Per dare il tempo 
+sviluppatori di risolvere il problema com 
+deve e non fare brutte figure, comi 
+successo in passato. E se c'è in giro un L 
+calma e gesso. Peggio per chi se lo d 
+pappare. Non si morirà mica ad aspettare 
+trentina di giorni, no? Il concetto prest 
+bene, pare che a Redmond non sia anc 
+giunto. Qualcuno glie lo vuole spiegare? 
+
+
+
+O PILOTI SIMULATI 
+A MILANO 
+
+
+
+il 22 e 
+
+Novembre, ' 
+
+presso il Parco 
+
+Esposizioni di J 
+
+Novegro, a due fl/o««i«i 
+
+passi dall'aereoporto di 
+Milano Linate, si terrà il "Milano Fli 
+Simulator Show 2003", una manifestazi 
+tutta dedicata al volo simulato. Oltre 
+stand degli espositori (produttori e distribu 
+di hardware e software attinente al tema 
+delle varie associazioni di utenti e giocator 
+sarà uno spazio dedicato a convei 
+seminari e presentazioni di sessioni di v 
+Se siete appassionati di volo simuli 
+buttatevi in picchiata su Novegro (tra l'ai 
+se il vostro simulatore di volo ha una ma 
+dell'aereoporto di Linate, potete farci an 
+una ricognizione simulata prima della vi 
+vera e propria). 
+Per info: http://www.takeoffonline.it 
+
+
+
+www.hackerjournal.it 
+
+
+

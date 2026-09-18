@@ -1,0 +1,511 @@
+Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio | Agenda Digitale 
+
+ I NOSTRI SERVIZI
+ SERVIZI
+
+ MENU 
+
+ Voto dei cittadini all’estero, meglio farlo tramite seggi: lo studio
+
+ Cittadinanza digitale 
+ Cittadinanza digitale 
+
+ Reddito di Cittadinanza 
+ Anagrafe unica 
+ Data management 
+ Identità digitale 
+ Pagamenti digitali 
+ Sicurezza Informatica 
+ Sicurezza Informatica 
+
+ Cyber Security 
+ Privacy 
+ La rubrica di Franco Pizzetti 
+ Sanità digitale 
+ Industry 4.0 
+ Infrastrutture digitali 
+ Procurement dell'innovazione 
+ Fatturazione elettronica 
+ Documenti digitali 
+ Documenti digitali 
+
+ Giustizia digitale 
+ Esperto Risponde 
+ Scuola digitale 
+ Cultura e società digitali 
+ Cultura e società digitali 
+
+ Competenze digitali 
+ Mercati digitali 
+ Mercati digitali 
+
+ E Commerce 
+ Turismo digitale 
+ Startup 
+ Strumenti 
+ Strumenti 
+
+ Calcolo Codice Fiscale 
+ Codice fiscale inverso 
+ Sostenibilità ambientale e smart city 
+ Intelligenza Artificiale 
+ In poche parole 
+
+ accedi 
+
+ Seguici
+
+ linkedin 
+
+ twitter 
+
+ facebook 
+
+ Newsletter 
+ Rss Feed 
+
+ Chi siamo 
+ Comitato Scientifico 
+
+ AREA PREMIUM
+
+ Whitepaper 
+ Eventi 
+ Webinar 
+ CANALI
+
+ Cittadinanza digitale 
+ Reddito di Cittadinanza 
+ Anagrafe unica 
+ Data management 
+ Identità digitale 
+ Pagamenti digitali 
+
+ Sicurezza Informatica 
+ Cyber Security 
+ Privacy 
+ La rubrica di Franco Pizzetti 
+
+ Sanità digitale 
+ Industry 4.0 
+ Infrastrutture digitali 
+ Procurement dell'innovazione 
+ Fatturazione elettronica 
+ Documenti digitali 
+ Giustizia digitale 
+ Esperto Risponde 
+
+ Scuola digitale 
+ Cultura e società digitali 
+ Competenze digitali 
+
+ Mercati digitali 
+ E Commerce 
+ Turismo digitale 
+
+ Startup 
+ Strumenti 
+ Calcolo Codice Fiscale 
+ Codice fiscale inverso 
+
+ Sostenibilità ambientale e smart city 
+ Intelligenza Artificiale 
+ In poche parole 
+ whitepaper
+ Voto dei cittadini all’estero, meglio farlo tramite seggi: lo studio
+
+ Home 
+
+ Cittadinanza digitale 
+
+ Un’analisi geo-spaziale (implementando del software ad-hoc) operata sulla base dati AIRE 2015 (4.112.367 di records) ci permette di confermare la fattibilità di un voto all’estero tramite seggi elettorali, evitando soluzioni remote (digitali o no) che restano rischiose
+
+ 11 minuti fa
+
+ Maurizio Napolitano FBK
+
+ Fabio Pietrosanti Fondatore Centro Hermes per la Trasparenza e i Diritti Umani Digitali
+
+ Stefano Quintarelli Associazione Copernicani
+
+ Il presente documento illustra i risultati di una ricerca interdisciplinare tecnico-politica rivolta a verificare secondo un approccio metodologico di analisi, la fattibilità e l’efficacia di implementazione di seggi elettorali all’estero, analogamente all’esempio francese.  
+ La proposta di policy, è quella di implementare una rete di seggi elettorali all’estero per il voto degli italiani residenti all’estero (AIRE). 
+ I risultati appaiono favorevoli a quest’ipotes i, con la possibilità di attivare seggi elettorali erogati all’84.35% della popolazione residente all’estero realizzando e organizzando reti di seggi in sole 43 città. 
+ Tutto questo è rilevante anche alla luce dei lavori in corso, in segreto, in Italia per un voto elettronico via blockchain a partire appunto dagli italiani all’estero (vedi box di seguito).
+
+ Indice degli argomenti
+
+ Voto remoto postale, i rischi 
+ Metodologia 
+ Risultati dello studio 
+ Ulteriori possibilità per votare 
+ Questioni di cybersecurity 
+ Analisi dati, approfondimento tecnico Download dati 
+
+ Voto remoto postale, i rischi 
+ Il voto remoto postale, come è noto alla cronache per gli italiani residenti all’estero, risulta avere lacune di tutela dell’integrità democratica, prestandosi a varie tipologie di frodi elettorali. 
+ Il rischio di voto di scambio invece, è presente in tutte le forme di voto remoto, anche elettronico, condizione che può favorire la diffusione grazie all’efficienza delle telecomunicazioni. 
+ E’ dato consolidato che il voto remoto, elettronico o postale, fornisca certamente e in qualunque condizione minori garanzie e tutele per l’esercizio di questo diritto democratico. 
+ E’ necessario quindi identificare soluzioni razionali che riducano al minimo il voto remoto, ripristinando le garanzie democratiche offerte dal voto in presenza (rif. “Al seggio elettorale), anche ai cittadini residenti all’estero. 
+ Si propone tale soluzione, anche soprattutto in relazione allo stanziamento d i un milione di fondi per sperimentare attività di innovazione nel voto remoto per gli elettori residenti all’estero , opportunità di approfondimento tecnologico per le soluzioni di voto off-line al seggio all’estero. 
+ Partendo dal Paper realizzato dalla Associazione Copernicani chiamato “ Overlay Network Crittografici ” possiamo trovare fra le best practice per il “voto remoto”: 
+ “Votazione presso un seggio istituito presso una rappresentanza italiana laddove siano presenti comunità numerose.” 
+ Attorno a questo concetto si sviluppa questa ricerca e proposizione di politica per la gestione degli italiani residenti all’estero. 
+ Metodologia 
+ Questa proposta è stata elaborata grazie ad una analisi geo-spaziale (implementando del software ad-hoc) operata sulla base dati AIRE 2015 (4.112.367 di records), al fine di verificare preliminarmente la fattibilità della proposta oltreché la sua efficacia. 
+ Abbiamo voluto capire, considerando una distanza massima fra cittadino e seggio di 20km, quale percentuale di popolazione residente all’estero possa essere raggiunta da seggi. 
+ Abbiamo quindi ipotizzato che un seggio possa possa essere allestito in aree con raggio di 20km con una densità di cittadini serviti superiore a 10.000 e superiore a 500 (limite dimensionale più piccolo di una “ Sezione Elettorale ”). 
+
+ Risultati dello studio 
+ I risultati sembrano essere favorevoli con degli interessanti spunti di riflessione: 
+
+ DENSITA’ 
+ Raggio di 20km di distanza >10.000 cittadini densità >500 cittadini per seggio 
+ Cittadini raggiunti su 4.112.367 3.469.299 4.104.975 
+ Percentuale % Popolazione raggiunta da seggio 84.35% 99.82% 
+ Numero di città da coprire 43 273 
+
+ I numeri indicano che lavorando per l’attuazione di seggi elettorali in 43 città all’estero sarebbe possibile servire l’84.35% della popolazione residente all’estero. 
+ La presente ricerca ha lo scopo di fornire una risposta a una proposta di policy, tuttavia nello scenario di attuazione sarebbe necessario un approfondimento tecnico più specifico per la realizzazione del planning, budgeting e operations. 
+ L’analisi quantitativa di questa analisi statistica del Ministero dell’Interno ci ricorda che oltre il 50% degli AIRE sono in Germania, Svizzera e Argentina. 
+ Risulta evidente come abbia poco senso inviare 495.000 cartoline postali a Zurigo o 90.000 a Lugano quando ci sono i volumi di concentrazione di votanti utili oltre a rappresentanze diplomatiche locali, per l’allestimento di seggi esteri. 
+ Sarebbe certamente utile fare una ulteriore elaborazione dati per valutare la disponibilità delle strutture diplomatiche della Rete Consolare all’interno dell 43 città obiettivo. 
+ La procedura di gestione dei votanti AIRE non raggiunti da seggio estero va orientata a massimizzare la partecipazione democratica al seggio con voto in presenza, che a differenza del voto remoto, offre caratteristiche di resilienza derivante dai rischi di voto di scambio. 
+
+ Ulteriori possibilità per votare 
+ Per quanto riguarda il rimanente <16% dei votanti esteri non coperti da seggio, si continuerà con l’impiego del voto postale. 
+ E’ possibile ulteriormente esplorare un paniere di opzioni a disposizione per massimizzare la partecipazione democratica, guardando alle esperienze all’estero. 
+ Nel mondo anglosassone non vengono di default inviate schede di voto per corrispondenza ma sono presenti diverse soluzioni richiedibili in modo esplicito (opt-in) tramite portali web del governo centrale: 
+ Proxy Voting con delega di voto come in UK 
+ Richiesta voto per corrispondenza postale, in US chiamato “ Absentee Ballot ” o Postal Vote in UK, con la possibilità di restituzione della scheda alle ambasciate o sempre per posta. 
+ Gli AIRE non raggiunti da seggio quindi riceveranno una cartolina che li informa delle diverse possibilità alternative: 
+ Votare per corrispondenza, soluzione di default 
+ Recarsi presso il seggio più vicino, informando di quali siano i più prossimi 
+ Richiedere l’esercizio di voto con Proxy Voting (laddove fosse una soluzione costituzionalmente funzionale) 
+ Così facendo sarà possibile misurare quale è la risposta migliore o più efficace per la popolazione non raggiunta da un seggio (o impossibilitata a raggiungerlo), studiando empiricamente quale soluzione garantisca un maggiore turnover di questo pool di votanti. 
+ Potrà essere fornito loro ulteriormente un contributo di rimborso delle spese di viaggio per coloro che vogliano recarsi al seggio, come già previsto dai regolamenti ministeriali (vedasi circolare n.13/2018 della direzione centrale dei Servizi elettorali), al fine di ulteriormente rafforzare la partecipazione civica con le massime garanzie procedurali del voto in presenza. 
+
+ Questioni di cybersecurity 
+ Al netto della i ncostituzionalità del voto elettronico in Germania del 2009, la Francia ha sperimentato il voto online per i residenti all’estero nel 2012, dopodiché nel 2017 lo ha dichiarato non sostenibile per i rischi di cybersecurity tornando ai seggi attivati all’estero.  
+ L’Olanda sia nel 2007 che nel 2017 vede il parlamento confermare il diniego all’impiego di e-voting per via dei rischi di cybersecurity . 
+ Nel 2019 in Svizzera vi è stato uno stop al voto elettronico online , soprattutto dopo le falle di cybersecurity scoperte pubblicamente.  
+ L’unico paese EU dotato di sistemi di e-voting pervasivi è l’Estonia. 
+ L’ENISA (ente europeo per la sicurezza informatica) ci ricorda che le votazioni elettroniche a distanza sono nel massimo livello di rischiosità per la cybersecurity, nel suo Opinion Paper “ Election cybersecurity – Challenges and opportunities ”: 
+ “the rollout of electronic voting has been either discontinued or postponed in a number of Member States, the cybersecurity risk level in relation to the voting process is considered medium . This cybersecurity risk level is likely to be higher in countries where e-voting systems are being implemented. A distinction should also be made between online and offline e-voting systems, where the former is likely to entail a higher cybersecurity risk level than the latter. ” 
+ Gli aspetti progettazione e analisi di di soluzioni di voto remoto richiedono un coinvolgimento molto ampio dell’ecosistema della cybersecurity, istituzioni, accademia e comunità professionale sin dalle prime fasi del progetto.  
+
+ Analisi dati, approfondimento tecnico 
+ L’analisi è stata operata secondo il seguente approccio di elaborazione ed analisi dati: 
+ Sono state aggregate fra di loro persone che dichiarano di vivere nella stessa città 
+ Problemi:  
+ nella tabella ci sono nomi di città diversi che rappresentano la stessa (es. Zurich e Zurigo) 
+ nelle città enormi, sono inseriti i quartieri (es. Bronx) 
+ non sempre i nomi sono corretti 
+ il db contiene nomi di posti che ora sono stati accorpati ad altri comuni e quindi diventati borghi (es. le città vicino Tirana) 
+ La Cina è un enorme buco nero 
+ Sono stati quindi creati dei cluster guardando i punti che sono vicini fra di loro per un raggio di 20km 
+ Per ciascun cluster è stato scelto, come nome della città, quella con il più alto numero di elettori 
+ E’ stato quindi diviso il cluster per nazionale e, per ogni punto, calcolato la distanza sulla geodentica (in linea d’aria facendo così una matrice di distanza) 
+ A questo, per ogni cluster per ogni nazionale è stato calcolato quanti elettori ci sono anche a 40-60-80km di distanza. 
+ Download dati 
+ Viene fornita per pubblico accesso il risultato di analisi su formato Google Spreadsheet, per libera consultazione ed elaborazione indipendente dei dati. 
+ Analisi Geospaziale dati AIRE 2015 per Seggi – read-only 
+
+ @RIPRODUZIONE RISERVATA 
+
+ Webinar
+ Il miglior modo per NON proteggersi, oggi, è pensare che un EDR sia sufficiente
+
+ Il webcast è disponibile 
+ GUARDA 
+
+ white paper
+ Sicurezza incentrata sui dati: i pilastri su cui fondare una efficace strategia di protezione
+
+ 24 Nov 2020
+
+ Scaricalo gratis! 
+ DOWNLOAD 
+
+ Argomenti
+
+ B
+
+blockchain
+
+ C
+
+crittografia
+
+ T
+
+Tutto su Cyber Security
+
+ Canali
+
+ C
+
+Cittadinanza digitale
+
+ Articoli correlati
+
+la denuncia
+ Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo
+ 11 minuti fa
+ di Fabio Pietrosanti 
+
+ Condividi il post
+
+ Condividi 
+
+Lo scenario
+ Monete virtuali, Libra non convince. In attesa dell'euro digitale
+ 18 Dic 2020
+ di Gianluca Lega e Francesca Zullo 
+
+ Condividi il post
+
+ Condividi 
+
+Innovazione in Sanità
+ Farmaci falsi e test da tracciare: ecco come la blockchain è utile nella pandemia
+ 17 Nov 2020
+ di Giovanni Maglio 
+
+ Condividi il post
+
+ Condividi 
+
+ white paper
+ Sicurezza incentrata sui dati: i pilastri su cui fondare una efficace strategia di protezione
+
+ 24 Nov 2020
+
+ Scaricalo gratis! 
+ DOWNLOAD 
+
+ Condividi 
+ view_list Articoli correlati 
+ Prossimo
+
+ Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo 
+
+ LinkedIn
+
+ Twitter
+
+ Whatsapp
+
+ Facebook
+
+ Mail
+
+ Link
+
+ Articoli correlati
+ Voto dei cittadini all’estero, meglio farlo tramite seggi: lo studio 
+ Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo 
+ Monete virtuali, Libra non convince. In attesa dell'euro digitale 
+ Farmaci falsi e test da tracciare: ecco come la blockchain è utile nella pandemia 
+
+ Articolo 1 di 4
+
+ I tuoi contenuti, la tua privacy!
+
+ Su questo sito utilizziamo cookie tecnici necessari alla navigazione e funzionali all’erogazione del servizio.
+Utilizziamo i cookie anche per fornirti un’esperienza di navigazione sempre migliore, per facilitare le interazioni con le nostre funzionalità social e per consentirti di ricevere comunicazioni di marketing aderenti alle tue abitudini di navigazione e ai tuoi interessi.
+ Puoi esprimere il tuo consenso cliccando su ACCETTA TUTTI I COOKIE.
+ Potrai sempre gestire le tue preferenze accedendo al nostro COOKIE CENTER e ottenere maggiori informazioni sui cookie utilizzati, visitando la nostra COOKIE POLICY .
+
+ ACCETTA
+ PIÙ OPZIONI
+
+ Cookie Center
+ ACCETTA TUTTO
+ RIFIUTA TUTTO
+
+ Tramite il nostro Cookie Center, l'utente ha la possibilità di selezionare/deselezionare le singole categorie di cookie che sono utilizzate sui siti web.
+ Per ottenere maggiori informazioni sui cookie utilizzati, è comunque possibile visitare la nostra COOKIE POLICY .
+ ACCETTA TUTTO
+ RIFIUTA TUTTO
+
+ COOKIE TECNICI
+
+ Strettamente necessari 
+
+I cookie tecnici sono necessari al funzionamento del sito web perché abilitano funzioni per facilitare la navigazione dell’utente, che per esempio potrà accedere al proprio profilo senza dover eseguire ogni volta il login oppure potrà selezionare la lingua con cui desidera navigare il sito senza doverla impostare ogni volta.
+
+ COOKIE ANALITICI
+
+I cookie analitici, che possono essere di prima o di terza parte, sono installati per collezionare informazioni sull’uso del sito web. In particolare, sono utili per analizzare statisticamente gli accessi o le visite al sito stesso e per consentire al titolare di migliorarne la struttura, le logiche di navigazione e i contenuti.
+
+ COOKIE DI PROFILAZIONE E SOCIAL PLUGIN
+
+I cookie di profilazione e i social plugin, che possono essere di prima o di terza parte, servono a tracciare la navigazione dell’utente, analizzare il suo comportamento ai fini marketing e creare profili in merito ai suoi gusti, abitudini, scelte, etc. In questo modo è possibile ad esempio trasmettere messaggi pubblicitari mirati in relazione agli interessi dell’utente ed in linea con le preferenze da questi manifestate nella navigazione online.
+
+SALVA ED ESCI
+
+Seguici
+
+ About 
+ Autori 
+ Tags 
+ Rss Feed 
+ Privacy 
+ Cookie 
+ Cookie Center 
+
+ NetworkDigital360 è il più grande network in Italia di testate e portali B2B dedicati ai temi della Trasformazione Digitale e dell’Innovazione Imprenditoriale. Ha la missione di diffondere la cultura digitale e imprenditoriale nelle imprese e pubbliche amministrazioni italiane.
+
+ TUTTE LE TESTATE
+
+ Applicazioni e Tecnologie
+
+Ai4Business 
+
+Bigdata4Innovation 
+
+Big Data & Analitycs ZeroUno 
+
+Blockchain4Innovation 
+
+Cloud Computing ZeroUno 
+
+Cybersecurity CorCom 
+
+Cybersecurity360 
+
+Documenti AgendaDigitale.eu 
+
+eCommerce AgendaDigitale.eu 
+
+Fatturazione AgendaDigitale.eu 
+
+Industria 4.0 CorCom 
+
+Industry 4.0 AgendaDigitale.eu 
+
+Infrastrutture AgendaDigitale.eu 
+
+Industry4Business 
+
+Internet4Things 
+
+PagamentiDigitali 
+
+RiskManagement360 
+
+Searchdatacenter ZeroUno 
+
+Searchsecurity ZeroUno 
+
+Sicurezza AgendaDigitale.eu 
+
+Smart City AgendaDigitale.eu 
+
+Smart Mobility EconomyUp 
+
+ Digital Transformation
+
+AgendaDigitale.eu 
+
+Corcom 
+
+Digital4Executive 
+
+Digital4PMI 
+
+TechCompany360 
+
+Zerouno 
+
+ Funzioni di Business
+
+Digital4Finance 
+
+Digital4HR 
+
+Digital4Legal 
+
+Digital4Marketing 
+
+Digital4Procurement 
+
+Digital4SupplyChain 
+
+Procurement AgendaDigitale.eu 
+
+ Industry
+
+Agrifood.tech 
+
+AutomotiveUp 
+
+BankingUp 
+
+EnergyUp 
+
+Industry4Business 
+
+InsuranceUp 
+
+Media CorCom 
+
+RetailUp 
+
+Sanità AgendaDigitale.eu 
+
+Scuola AgendaDigitale.eu 
+
+Telco CorCom 
+
+Turismo AgendaDigitale.eu 
+
+ PA
+
+Cittadinanza AgendaDigitale.eu 
+
+ForumPA 
+
+PA Digitale CorCom 
+
+Sanità AgendaDigitale.eu 
+
+Scuola AgendaDigitale.eu 
+
+ Startup e Open Innovation
+
+Economyup 
+
+StartUp AgendaDigitale.eu 
+
+Startupbusiness 
+
+ Studenti
+
+University2business 
+
+ Indirizzo
+ Via Copernico, 38
+ Milano - Italia
+ CAP 20125
+
+ Contatti
+ info@digital360.it 
+
+ ICT&Strategy S.r.l. – Gruppo DIGITAL360 - Codice fiscale 05710080960 - P.IVA 05710080960 - © 2021 ICT&Strategy. ALL RIGHTS RESERVED
+ Mappa del sito 
+
+ close 
+ Codice Rss
+
+ Clicca sul pulsante per copiare il link RSS negli appunti.
+
+ Copia link 
+
+ close 
+ Codice Rss
+
+ Clicca sul pulsante per copiare il link RSS negli appunti.
+
+ Copia link

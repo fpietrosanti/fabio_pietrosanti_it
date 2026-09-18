@@ -1,0 +1,387 @@
+Fabio Pietrosanti - naif 
+
+ Fabio
+Pietrosanti ( naif )   
+
+   Home 
+| Parole | Tech 
+| Photo  | Curriculum | misc | Links 
+| Contacts 
+
+ Curriculum
+Vitae
+
+Fabio Pietrosanti 
+
+ E-mail: fabio@pietrosanti.it 
+ Last Change: 27 August 2002 
+
+ Dati personali 
+
+Nome e Cognome: Fabio Pietrosanti
+
+ Luogo e Data di nascista: Latina, 31 Agosto 1980
+
+ Stato civile: Celibe
+
+ Domicilio: Milano
+
+ E-mail: fabio@pietrosanti.it
+
+ Servizio militare: Dispensato dal servizio civile
+
+ Patente: Patente A dal 1996 e patente B dal 1998
+
+Lingue conosciute:
+
+Inglese: parlato e scritto buono
+
+ Studi ( la mia formazione e' stata del tutto autonoma e svincolata dagli studi formali )
+
+1998 Diploma di ragioneria
+1998 Iscrizione universita' La Sapienza di Roma(Lingue Orientali)
+1999 Corso di lingua parlata giapponese c/o istituto ICHI-BAN
+
+ Esperienze lavorative 
+
+ Dal 1995 ad oggi ho vari sistemi unix e conosciuto diverse reti e
+protocolli prima per passione poi per lavoro.
+
+Gennaio 1999 - Aprile 1999 
+ Collaborazione c/o
+l'Internet Service Provider pontino  3dMedia, lavorando
+supiattaforme
+
+intel (FreeBSD), e su SGI(Irix 6.2). Qui mi sono occupato della
+risoluzione di vari problemi
+
+inerenti il Netscape Fast Track server su irix, e il DNS sotto FreeBSD
+occupandomi per la prima
+
+volta di sistemi da considerarsi "in produzione", e non piu' il mio
+laboratorio di test casalingo.
+
+ Maggio 1999 - Luglio 1999 
+ Ho lavorato c/o il S.I.R.G.S (Sistema
+informatico Ragionerie Generali diStato)
+
+a Roma come sistemista UNIX per conto della Siemens Informatica.
+Principalmente
+
+il mio compito era la gestione delle macchine di controllo, e di quelle
+provinciali
+
+basate su Ultra-10 e E-250 con Solaris 2.6, ma ho anche avuto modo di
+approfondire
+
+le mie conoscenze di Windows NT 4.0 Server installando e configurando
+domini NT.
+
+Le mie attivita' erano inerenti alle installazioni, gestioni e
+monitoring dei sistemi.
+
+Mi sono trovato anche a effettuare corsi sull'utilizzo di Unix ai
+neolaureati appena 
+
+assunti dal Ministero.
+
+ Luglio 1999 - Settembre 1999 
+ Durante questo periodo mi sono occupato
+del rifacimento totale dell'Internet
+
+Service Provider BMNet,occupandomi della reinstallazione e
+riconfigurazione
+
+totale di tutte le macchine, quindi affrontando tutte le problematiche
+necessarie
+
+al funzionamento e alle performance del provider.
+
+ Luglio 1999 - Dicembre 1999
+
+ Nel periodo fino al mio trasferimento a
+Milano, studiando e approfondendo
+
+tematiche riguardanti unix, networking e security, ho collaborato con la
+
+MediaService s.r.l. di Latina nella creazione e progettazione Reti
+Locali,
+
+occupandomi, nel tempo libero, della configurazione di sistemi Windows,
+
+Linux, Zyxel, Cisco.
+
+Dicembre 1999 - Giugno 2000
+
+ Ho lavorato presso la Matrice s.r.l.
+Societa' impegnata nel campo della
+
+comunicazione unificata, nella quale ho ampliato molto le mie
+conoscienze su unix 
+
+e networking, svolgendo l'attivita' di system e network manager.
+
+I server da me amministrati sono stati FreeBSD e Linux, ma ho avuto
+modo
+
+di configurare Macchine di Load Balancing Equalizer, Filer "Network
+Appliance F790".
+
+I server si trovavano dislocati su 3 webfarm di cui 2 negli USA. Ho
+continuato a gestire
+
+i server della webfarm di Milano per alcuni mesi dopo
+
+la chiusura della società.
+
+Giugno 2000 - Aprile 2001
+
+ Ho lavorato presso la I.NET SpA
+occupandomi finalmente solo di
+
+sicurezza informatica. 
+
+Le attivita' da me svolte sono molteplici, gestione Cisco PIX Firewall, 
+
+access-list statiche e dinamiche su IOS, hardening struttura
+I.NET,progetti
+
+speciali ,VPN IPSec su PIX, ho curato autonomamente il servizio
+di  Internet
+
+Probing( Penetration Testing ), sto formando l'incident response team
+I.NET,
+
+e studio e testing nuovi prodotti oltre a auditing di prodotti
+utilizzati
+
+(vedere miei 3Advisor su BUGTRAQ sui Cisco PIX), e software utilizzati
+
+da I.NET (vedere mio Advisor su BUGTRAQ inerente il DOS contro
+
+BIND 8.2.2-P5 e su MailStudio 2000 del mio lavoro precedente) .
+
+Durante questo periodo lavorativo ho tenuto per conto della Bonex
+Consulting ltd
+
+Corsi di base su Cisco Router, Linux e sicurezza informatica.
+
+Maggio 2001 - Luglio 2001
+
+ Ho lavorato per la Live Network
+Security srl dove mi occupo di tuttele
+
+attivita' relative alla parte tecnica, curo il servizio di Penetration
+Test, studio nuovi 
+
+prodotti,progettazioni, e sto sviluppando una appliance OpenBSD-based
+integrando
+
+e modificando molti software di security .
+
+Agosto 2001 - Oggi
+
+ Dopo la birra in un pub con un
+ex-collega ritorno alla I.NET SpA come ricercatore,
+
+lavorando in un gruppo che si occupa di ricerca in ambito Security con
+la finalita' di
+
+creare nuovi prodotti e servizi, curando inoltre la parte operativa di
+progetti speciali dove
+
+sono rischiesti skill particolari ( IDS attivi, analisi forensi,
+indaginitelematiche, etc, etc ).
+
+Mi occupo della revisione delle attivita' di penetration testing
+edell'audit delle infrastrutture interne.
+
+In questa esperienza ho avuto modo di interfacciarmi con le forze
+dell'ordine in alcune
+
+indagini effettando analisi forensi. Durante questa nuova esperienza la
+mia principale
+
+attivita' riguardail testing di prodotti e la creazione da essi in
+servizi, la formazione
+
+dell'offerta, creazione di partnership, partecipazione per la decisione
+dei pricing.
+
+Il mio lavoro è portato avanti in modo autonomo.
+
+ Ulteriori esperienze 
+
+ Collaboro spesso con giornali e tv
+partecipando e scrivendo articoli
+
+e servizi sull'hacking e sulla sicurezza informatica .
+
+Sono stato giornalista Freelance per la mondadori, per la rivista
+Week.it
+
+scrivendo articoli inerenti la sicurezza informatica.
+
+Partecipo a numerosi eventi inerenti la sicurezza informatica,
+partecipando
+
+come giornalista mondadori in alcuni, come Fabio Pietrosanti Security
+
+Engineer in altri, o come "naif" in altri ancora ( es: Hackmeeting
+italiano, Summercon
+
+olandese, Hacker at large 2001, CCC Tedesco ) ritenendo che
+l'aggiornamento sulle
+
+tematiche di security provenga dall'incontro costante con gli addetti
+del settore e
+
+l'underground digitale. 
+
+Partecipo attivamente a molte mailing list su security, sysadmining e
+reti
+
+( Cercate su altavista Fabio Pietrosanti ) e sono promotore diretto di
+alcuni
+
+eventi quali Blackhats.it@infosecurity2002, Sikurezza.org@Webbit02, etc
+.
+
+Ho fondato la Mailing List sicurezza-mi@kill-9.it, per consentire
+l'incontro
+
+di persona dei vari IT Security Manager di Milano, finalizzata in una
+
+serie di "pizzate" durante le quali si dibatte di tematiche security
+related.
+
+La partecipazione ha raggiunto punte di 60 persone.
+
+Socio del CLUSIT , e inserito in alcune sue commissioni.
+
+Sono uno dei soci fondatori di blackhats.it, associazione che ha lo
+scopo
+
+di fare ricerca in ambito di security e di promuovere eventi formativi
+per
+
+addetti al settore, hacker, ricercatori. Come primo evento siamo stati
+presenti
+
+ nella II giornata di Infosecurity 2002 .
+
+ Conferenze in cui ho partecipato 
+
+ - 19 Ottobre 2001, SMAU/Sicurmatica,
+Milano - Sicurezza, il punto di vistadel NASP
+
+- 20 Ottobre 2001, SMAU/Tavola Rotonda sul fenomeno Hacking, Milano
+
+- 13 Ottobre 2001, AntiKrimen Expo, Area Sicurezza Informatica
+
+- Storia e psicologia Hacker
+
+- Analisi e simulazione di un attacco informatico in collaborazione con
+Raoul Chiesa
+
+- 10 Dicembre 2001, IBM Forum, Milano "CONFERENZA LINUX" - OpenSource
+eSicurezza
+
+- 24 Gennaio 2002, Infosecurity Italia 2002, Italian Black Hats Speech.
+
+- 17 Marzo 2002, Rivoluzione Connettiva e Sicurezza, Internet e le
+trasformazioni del sistema
+
+         politico internazionale. CeAs (
+Centro Alti Studi Lotta alterrorismo ):
+
+              - Il
+ruolo dei carrier nella security
+
+ Esperienze specifiche ( non aggiornate ) 
+
+ Esperienza avanzata nella rete internet
+e intranet
+
+Esperienza avanzata nelle attività di auditing e penetration
+testing
+
+Sistemi operativi:
+
+ Linux, FreeBSD, NetBSD, OpenBSD,
+Solaris 2.x, AIX, IRIX, Dos, Windows
+
+3.11, Windows95, Windows98, Windows NT 4.0, Windows 2000, Ultrix 4.5
+
+Software ( fra i piu' noti... )
+
+ Firewall
+
+ Cisco PIX, Cisco Router ( IP/FW/IDS ),
+Checkpoint Firewall-1 ( 4.1 / NG ),
+
+ipfwadm, ipchains, iptables, ipfilter, ipfw, Sonicwall, s-box
+
+ IDS
+
+ Shadow, snort, ISS RealSecure, Cisco
+IDS, Netforensics
+
+ Integrity Check
+
+ Aide, tripwire, md5sum con script custom
+
+ Vulnerability Assesment
+
+ Nessus, ISS Internet Security Scanner,
+Webtrend Security Analizer,
+
+ Vigilante,IPLegion, Qualis, nmap
+
+ Forensic Analisys
+
+ ENCase, script hand made, TCT
+
+ Access Control
+
+ Argus Pitbull/LX, LIDS, Cisco ACS,
+Tacacs+
+
+ Strong Authentication
+
+ RSA SecureID, Securecomputing Safeword
+
+ Protocol Analisys and Manipulation
+
+ tcpdump, Ethereal, ettercap, hunt, hping
+
+ Note personali 
+
+Utilizzo Linux e *BSD da molto tempo e ho una notevole familiarita' con unix.
+
+Non amo le formalita', il doversi presentare in giacca e cravatta, mentre
+apprezzo molto i contenuti e le soluzioni innovative sul lavoro.
+
+Ho una particolare passione per il retrocomputing, e sono un felice possessore
+al 12/2000 di una SparcStation IPX, una Digital Decstation 5000/33,
+una SGI Indy, un IBM PowerServer Risc/6000, un AlphaStation con OpenVMS 7.3 .
+
+Sono alla costante ricerca di corsi gratuiti, libri a basso prezzo, e tutto
+cio' che possa contribuire alla mia formazione professionale, alla quale finora
+ho sempre dovuto pensare da solo facendo di amazon.com la mia libreria di fiducia,
+e della mia carta di credito la mia peggior nemica.
+
+Nel mio lavoro voglio avere spazio per curare la parte organizzativa,operativa,
+come la parte di ricerca e sviluppo, come la vendita e la gestione di public relation .
+Ovviamente non sono onnipotente ma ritengo che sia fondamentale l'esistenza di un
+Jolly che possa gestire momenti di crisi in autonomia.
+
+Nonostante attualmente viva a Milano ho trascorso il piu' della mia vita fra
+Roma e Latina e mi piacerebbe avere una lavoro che mi consenta la mobilita'
+fra queste due realta'.
+
+ Last Modified:Sunday, 09-Feb-2003 20:54:19 MET
+ (c) Fabio
+Pietrosanti 2003
+
+  <fabio@pietrosanti.it>

@@ -1,0 +1,109 @@
+The (old) Crypto AG case and some thinking about it at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « Missiles against cyber attacks? 
+ IOScat – a Port of Netcat to Cisco IOS » 
+
+ The (old) Crypto AG case and some thinking about it 
+
+ Published by naif June 7th, 2010 
+
+ in cyberwarfare , intelligence , interception and security . 
+ 0  Comments 
+
+ In the ‘90, closed source and proprietary cryptography was ruling the world.
+
+ That’s before open source and scientifically approved encrypted technologies went out as a best practice to do crypto stuff.
+
+ I would like to remind when, in 1992, USA along with Israel was, together with switzerland, providing backdoored (proprietary and secret) technologies to Iranian government to tap their communications, cheating them to think that the used solution was secure , making also some consideration on this today in 2010.
+
+ That’s called The Crypto AG case , an historical fact involving the United States National Security Agency along with Signal Intelligence Division of Israel Ministry of Defense that are strongly suspected to had made an agreement with the Swiss cryptography producer company Crypto AG .
+
+ Basically those entities placed a backdoor in the secure crypto equipment that they provided to Iran to intercept Iranian communications.
+
+ Their crypto was based on secret and proprietary encryption algorithms developed by Crypto AG and eventually customized for Iranian government.
+
+ You can read some other facts about Crypto AG backdoor related issues:
+
+ The demise of global telecommunication security 
+
+ The NSA-Crypto AG sting 
+
+ Breaking codes: an impossible task? By BBC 
+
+ Der Spiegel Crypto AG (german) article 
+
+ Now, in 2010, we all know and understand that secret and proprietary crypto does not work.
+
+ Just some reference by top worldwide cryptographic experts below:
+
+ Secrecy, Security, Obscurity by Bruce Schneier 
+
+ Just say No to Proprietary cryptographic Algorithms by Network Computing (Mike Fratto)
+
+ Security Through Obscurity by Ceria Purdue University 
+
+ Unlocking the Secrets of Crypto: Cryptography, Encryption and Cryptology explained by Symantec
+
+ Time change the way things are approached.
+
+ I like very much the famous Philip Zimmermann assertion:
+
+ “Cryptography used to be an obscure science, of little relevance to everyday life. Historically, it always had a special role in military and diplomatic communications. But in the Information Age, cryptography is about political power, and in particular, about the power relationship between a government and its people. It is about the right to privacy, freedom of speech, freedom of political association, freedom of the press, freedom from unreasonable search and seizure, freedom to be left alone.”
+
+ Any scientist today accept and approve the Kerckhoffs’ Principle that in 1883 in the Cryptographie Militaire paper stated: 
+
+ The security of a cryptosystem should not depend on keeping the algorithm secret, but only on keeping the numeric key secret.
+
+ It’s absolutely clear that the best practice for doing cryptography today obbly any serious person to do open cryptography, subject to public review and that follow the Kerckhoff principle.
+
+ So, what we should think about closed source, proprietary cryptography that’s based on security trough obscurity concepts?
+
+ I was EXTREMELY astonished when TODAY, in 2010, in the age of information society i read some paper on Crypto AG website.
+
+ I invite all to read the Crypto AG security paper called Sophisticated Security Architecture designed by Crypto AG of which you can get a significant excerpt below:
+
+ The design of this architecture allows Crypto AG to provide a secret proprietary algorithm that can be specified for each customer to assure the perfect degree of cryptographic security and optimum support for the customer’s security policy. In turn, the Security Architecture gives you the influence you need to be fully independent in respect of your encryption solution. You can determine all areas that are covered by cryptography and verify how the algorithm works. The original secret proprietary algorithm of Crypto AG is the foundation of the Security Architecture .
+
+ I have to say that their architecture is absolutely good from TLC point of view. Also they have done a very good job in making the design of the overall architecture in order to make a tamper-proof resistant crypto system by using dedicated crypto processor .
+
+However there is still something missing:
+
+ T he overall cryptographic concept is misleading, based on wrong encryption concepts .
+
+You may think that i am a troll telling this, but given the history of Crypto AG and given the fact that all the scientific and security community does not approve security trough obscurity concepts , it would legitimate to ask ourself:  
+
+ Why they are still doing security trough obscurity cryptography with secret and proprietary algorithms ?
+
+Hey, i think that they have very depth knowledge on telecommunication and security, but given that the science tell us not to follow the secrecy of algorithms, i really have serious doubt on why they are still providing proprietary encryption and does not move to standard solutions (eventually with some kind of custom enhancement). 
+
+ 0 Responses to “The (old) Crypto AG case and some thinking about it”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « Missiles against cyber attacks? 
+ IOScat – a Port of Netcat to Cisco IOS » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.728 sec. w/ 41 queries.
+
+ RSS Entries and RSS Comments

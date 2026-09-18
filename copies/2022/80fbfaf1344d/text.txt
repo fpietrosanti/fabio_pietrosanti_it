@@ -1,0 +1,216 @@
+Il Partito pirata risponde alle minacce di MonitoraPA 
+
+ Skip to content 
+
+ Ricerca per: 
+
+ Ricerca per: 
+
+ Iscriviti 
+
+ Ricerca per: 
+
+ About the Author
+
+ Primary Menu 
+ 🇺🇦 🇮🇱 #weStandWith 
+
+ Chi siamo 
+
+ Blog 
+
+ Contatti 
+
+ 🗨️ chat 
+
+ Iscriviti 
+
+ «Cara MonitoraPA, fammi causa! Saluti, Partito Pirata»
+
+ Riportiamo per intero la lettera di risposta alla PEC ricevuta da MonitoraPA il 28/08/2022 con l’oggetto: Segnalazione di illecito utilizzo di Google Fonts su https://www.partito-pirata.it/ e invito a risolvere la violazione del Regolamento Europeo 2016/679 (GDPR) 
+
+ A Fabio Pietrosanti e, in solido, alla comunità di hacker, attiviste, attivisti, cittadine e cittadini che, attenti a riservatezza, libertà e diritti cibernetici, ha realizzato Monitora PA ( https://monitora-pa.it ),
+ [email protected] 
+via Aretusa 34 Milano
+
+ e pc. a Google
+
+ e +Europa, Alliance Valdôtaine, Ancora Italia, Articolo Uno, Azione, Cambiamo!, Centro Democratico, Coraggio Italia, Destra Liberale Italiana, Destre Unite, Europeisti, FREE, Fassa, Forza del Popolo, Fratelli d’Italia, Green Italia, Identità e Azione, Insieme, Italexit, Italia dei Valori, l’Italia del Meridione, Italia Viva, La Puglia in Più, Lega, Movimento 5 Stelle, Movimento Animalista, Movimento Associativo Italiani all’Estero, Movimento delle Libertà, Movimento Stella Alpina, Noi con l’Italia, Noi di Centro, Nuovo PSI, PPA MOVIMENTO POLITICO PENSIERO E AZIONE, Partito Comunista, Partito Comunista Italiano, Partito Democratico, Partito Pensionati, Partito Pirata, Partito Sardo d’Azione, Partito Socialista Italiano, Partito Unione Cattolica, Patria e Costituzione, Potere al Popolo, R2020, Referendum e Democrazia, Partito della Rifondazione Comunista, Sinistra Italiana, Sud Chiama Nord, Sudtiroler Volkspartei, Union Valdôtaine, Unione di Centro, Unione Popolare, Unione Sudamericana Emigrati Italiani, Verde è popolare, Verdi e Sinistra
+
+ Ai responsabili e ai sostenitori del progetto MonitoraPA,
+
+ Forse non vi è chiaro che un partito politico non è una PA. Ci avete contestato, con una PEC in un ambiguo burocratese leguleio, l’uso di tecnologie che profilano gli utenti del nostro sito.
+
+ Tecnicamente è sbagliato. Politicamente è il peggior modo di difendere i diritti civili dei cittadini.
+
+ Riteniamo che MonitoraPA un perfetto esempio di «utile idiota» nel campo dell’anti-politica dei diritti digitali: un mix di ignoranza e manganello che spaventa e che distrugge.
+
+ Concentràti su una minuzia, su cui è facile sparare i vostri “sistemi automatizzati”, avete perso di vista il quadro della battaglia sui diritti civili (quando aggiungete “cibernetici” la dice lunga su quanto siate fuori focus ) e soprattutto dei metodi con cui combattere.
+
+ Rimaniamo legati alla tecnica: nella PEC, una involuta formulazione accusa il nostro server di essere responsabile dell’invio di dati a Google ma non ci sono dati che partendo dal server finiscono a Google: è il browser dell’utente che, nel fare una normale connessione HTTP, spedisce quei dati, così come li spedisce a qualsiasi altro sito che frequenta.
+
+ In pratica, sebbene la vostra scrittura contorta faccia intendere altro, ci state contestando l’uso di HTTP e HTML, ovvero la base del web. Ebbene sì, siamo colpevoli, li usiamo!
+
+ La profilazione, ammesso che ci sia, e non c’è mai in misura significativa oppure non c’è affatto come vedremo, avviene nella combinazione tra browser e provider remoto. L’utente, se non vuole essere profilato, può usare molti strumenti per impedirlo, tra cui plugin per l’offuscamento dell’identità, l’adozione di VPN e l’utilizzo di reti anonime come Tor.
+
+ Voi state adottando la tesi, da sempre avversata su Internet, che il mero linking diventi reato.
+
+ In aggiunta non considerate come si comporta davvero un browser quando riceve uno di quei link. Voi pretendete che ogni pagina che usa i Google Font produca una connessione diretta del browser verso Google, e che quindi il loro uso contribuisca alla profilazione dell’utente. È falso!
+
+ Il browser ha una memoria su disco (cache) che riempie connettendosi alla risorsa che deve scaricare una sola volta in un arco temporale di molti mesi o anche di più (Google dichiara un anno per i font). In costanza di cache, quindi un utente che utilizza il nostro sito contribuirebbe alla sua profilazione una volta in un anno. Ma in realtà non è così. Questa connessione al provider avviene, non la prima volta che si frequenta un dato sito (e poi dopo ogni anno), ma la prima volta che si frequenta un qualsiasi sito al mondo che collega quella stessa risorsa. Quando i font sono in cache, nessuna connessione viene fatta.
+
+ Con risorse diffuse come i font Google, in temi WordPress utilizzati da milioni di siti come quello che usa il Partito, e considerando quelli che vanno sul sito sono purtroppo pochi, la probabilità che la connessione verso Google sia iniziata proprio a causa del nostro sito web è statisticamente irrilevante. L’affermazione che fate che la navigazione su un sito dia con certezza luogo ad un trasferimento di informazioni verso un provider esterno è, per la generalità degli utenti di un sito come il nostro e in condizioni normali, patentemente falsa. Semplificando eccessivamente il problema, tutta la vostra PEC non ha senso.
+
+ In realtà, al contrario di quanto sostenete, proprio un vasto utilizzo di queste risorse rende meno probabile, e non più probabile, la profilazione. La vostra azione è anche controproducente.
+
+ Peraltro Google afferma di non registrare gli indirizzi IP degli utenti per i font. Avete prove del contrario?
+
+ Ma al di là della questione tecnica, passiamo al succo di questa lettera : il danno che state facendo ai diritti dei cittadini. 
+
+ La modalità che avete scelto si sintetizza con una formula: linciaggio digitale .
+
+ Voi brandite una sentenz ucola di un tribunale locale di Monaco che ha fatto una interpretazione ardita e poi irrogato una pena di, senti senti, € 100 ad un sito non dichiarato (il quale si è difeso molto male). Come degli sceriffi auto-nominati pretendete che i tutti i siti che colpite si adeguino ai vostri diktat . Poi vi riservate anche il diritto di pubblicizzare le eventuali risposte, ed esporli online, contando sulla dinamica solita della gogna sui social.
+
+ In periodo elettorale il vostro obiettivo non è ora la PA, ma i partiti. Deve essere passato un qualche emendamento alla Costituzione che li pone sotto il vostro controllo.
+
+ Con noi, potete evitare l’impegno per la pubblica gogna: tranne gli atti legalmente riservati che potremmo voler fare, sarà tutto sempre e comunque pubblico . Pubblico è il nostro impegno a favore dei cittadini (chiunque essi votino) e per una Internet aperta e libera dalla profilazione ma anche dai massimalismi e i fondamentalismi dei sedicenti hacker.
+
+ La moda del linciaggio social dei Social Justice Warriors (SJW) è una balorda forma di lotta. Si basa sul fatto che qualcuno, spesso senza arte né parte, ha un’idea, spesso balzana, mai confrontata con le voci critiche che sono escluse dalle conventicole di promotori; viene esposta con la stessa supponenza di una teoria del complotto; semmai trova il supporto tra qualche vecchia associazione decotta, ci si dota di strumenti di comunicazione che ormai sono alla portata di tutti, e si inizia a sparare nel mucchio facendo la voce grossa con pretese e minacce. La pubblica gogna è così preparata. La si dà in pasto al popolo dei click e si lucra sulla cagnara che genera.
+
+ Pochi “attivisti” si beano del loro essere “contro” ( mai che costruiscano qualcosa ). Sia che si tratti di linciare qualcuno in persona, sia che si tratti di “colpire” nel mucchio, l’idea è sostanzialmente quella: si fomenta una torma di cagnacci arrabbiati sempre pronti allo scontro muscolare. È bullismo digitale. E siamo certi che, dopo questa lettera, ce ne toccherà una bella quota nei prossimi giorni.
+
+ Nel caso di MonitoraPA, per giustificare il titolo di hacker che vi siete dati da soli (e questo già la dice lunga), c’è questa “analisi algoritmica automatizzata distribuita” per scansionare i siti e così sparare queste PEC nel mucchio. Prima la PA, ora i partiti politici, poi le aziende private, infine ai cittadini, poi vi sparerete PEC addosso l’uno con l’altro per trovare il più puro tra i puri.
+
+ Tanto, quale impegno ci vuole? Basta far girare il vostro script che spara mail, per generare grattacapi a migliaia. Questo è da hacker, o sparacchiare script a caso, nel gergo di Internet, ha un altro nome? Non avete pensato che questa attività automatizzata finirà per avere come risultato la restrizione delle possibilità di azione civica?
+
+ Non è una trollata, è squadrismo digitale Noi r iteniamo che questo modo d’agire sia populista, anti-politico, anti-popolare e basato su un’idea intimamente violenta dell’azione civile. 
+
+ Derubricarlo a trollata è uno sbaglio. Questa forma di azione, è prodromo di uno squadrismo digitale impone “legge e ordine”, senza chiedersi se quella “legge e ordine” abbia un valore condiviso. Senza impegnarsi a coinvolgere in un cammino comune di redenzione quelli che si considerano i violatori, per capire e condividere i loro punti di vista e per affrontare i propri stessi di errori, adattando assieme all’altro, il cammino verso un obiettivo comune, dove non esista un vincitore e un vinto, ma due eguali che percorrono assieme una stessa strada, che potrebbe non essere quella prefigurata all’inizio. Perché c’è sempre un po’ di bene in ogni male e viceversa. I veri lottatori mettono in gioco se stessi nella lotta, assumono su di sé il dolore del conflitto con l’altro. 
+
+ Un metodo politico non si può programmare con un algoritmo, si basa sulla fatica dell’ascolto, ci si mette in gioco, si rischiano tutte le proprie certezze. È una strada difficile. E questo è il metodo nonviolento che il nostro partito ha scelto, solo qualche anno fa, distanziandoci politicamente da alcuni di quelli che vi guidano, e che qualche anno fa erano iscritti con noi. Oggi quelli sembrano molto più attratti dalla Bestia di Salvini che da qualche buon manuale di azione dei movimenti politici moderni, anche antagonisti.
+
+ Il manganello delle leggi, delle direttive, dei tribunali e delle authority serve a iniettar paure, incertezze e dubbi per creare pressione sociale.
+
+ La comunità hacker ha combatt ut o questo fin dagli anni ‘80. Forse noi sbagliamo coi font, ma la vostra azione non è in alcun modo calata nel patrimonio ideale né dei valori più profondi della comunità hacker a cui voi dite di richiamarvi.
+
+ Richard Stallman , per dire un nome tra tutti, non si mise a fare denunce contro i produttori di Lisp Machine, o molestò chi continuava a scrivere codice proprietario, ma riuscì a “invertire” il copyright ideando il sistema GNU , scrivendo migliaia di righe di codice (ammalandosi) per dare nuove opportunità a tutti, anche a chi voleva fare software proprietario, e senza levare niente a nessuno.
+
+ Voleva convincere, non vincere.
+
+ La violenza surrogata del nuovo autoritarismo 
+
+ Nel mondo digitale la violenza è surrogata, non avviene minacciando un pugno, ma inducendo qualcuno, con i mezzi della pressione sociale e la diffusione di calunnie sotterranee, a fare azioni che non farebbe liberamente oppure ridurlo al silenzio. Spesso con accuse del tutto inventate.
+
+ Lo squadrismo digitale organizza questi mezzi per fat scattare una risposta di pancia tra chi si trova a passare sul web.
+
+ La società soffre di un nuovo autoritarismo basato su forme di “sceriffismo” basato sulla superficialità e la sociopatia; sull’abuso delle leggi; sulla prevaricazione, sulla sudditanza della giustizia verso i soggetti più forti, o più prepotenti e più aggressivi; sul trattamento sempre più algoritmico e automatizzato dell’uomo e delle sue azioni, senza lasciar spazio alla tolleranza civile e all’indulgenza; su un feroce tecnocontrollo in ogni aspetto pubblico e privato della vita, che ormai è alla portata di tutti, dal fidanzato stalker a gruppuscolo di esaltati sul web; sull’esercizio di una brutalità senza mediazioni tra l’intolleranza dei gruppi e i singoli colpevoli solo di pensarla diversamente.
+
+ I cittadini e le imprese sono ricacciati in spazi di espressione sempre più angusti per la paura, le incertezze e i dubbi. Lo stato di diritto è una chimera. I diritti umani, nuovi e antichi, languono.
+
+ Il “ Social-Web Complex “, di cui alcuni “attivisti” sono mano militare e struttura organizzatrice, ha ottimo gioco a congelare la libera espressione imponendo intolleranze, moralismi, estremismi e massimalismi. Per questo li combattiamo.
+
+ Cari compagni di MonitoraPA, voi siete schierati a favore di questo autoritarismo , con tutta l’inconsapevolezza che contraddistingue gli «utili idioti» di tutti i tempi (usiamo un’espressione politica attribuita a Lenin o Stalin ma molto appropriata al discorso), voi siete diventati un ingranaggio di questa intelligenza artificiale algoritmica e distribuita del tecnocontrollo che pretende di soffocare il peccato della libera iniziativa umana.
+
+ Con una visione miope e manipolando la verità dei fatti su come funziona un sito web, avete scelto di stare dalla parte di quelli che instillano paure, incertezze e dubbi.
+
+ Forse è facile impaurire i DPO della Pubblica Amministrazione. Qualche altro partito si affretterà a piegarsi ai vostri diktat. Non abbiamo dubbio che i vostri report ci daranno una chiara indicazione su quelli da non votare: cioè quelli che si inginocchiano a voi.
+
+ Ma sul nostro piccolo galeone si canta un’altra musica! Sapevamo perfettamente cosa stavate per fare e i Google Font non li abbiamo levati apposta. Vi aspettavamo al varco: un’occasione per noi.
+
+ Un partito, per quanto piccolo, è un organismo costituzionalmente garantito come espressione dei cittadini, non è una PA. Ora nessuno di voi, e nessuna delle organizzazioni che vi sostiene, può chiamarsi fuori dall’avere incentivato una tecnica di tecnocontrollo simile a quelle di chi controlla le vite dei cittadini. Non potete considerarvi migliori di loro. Spero che i pochi iscritti residui in queste associazioni se ne rendano conto.
+
+ Noi preferiamo tenerci i rischi calcolati della profilazione dei Google Font, che a ben vedere sono minimi, e anzi diminuiscono con la loro maggiore diffusione, invece che plaudire a questo vostro modo di fare, “algoritmico”, anti-politico e inumano.
+
+ Google va combattuta. Politicamente! Non vanno molestati gli incolpevoli utenti. Non è una guerra di religione! Non tutti i mezzi valgono. Il problema è Google che profila e violenta gli utenti (e non certo tramite i font) ma è il violentatore che va fermato. Però chi si sente lo sceriffo del web per mettere il burqa ai siti non è certo migliore.
+
+ Quindi, cari compagni, molto serenamente ma anche con grande fermezza vi annunciamo che non solo non leviamo dal nostro sito i font di Google o altre tecnologie utili e disponibili in Internet, e che ci piace o interessa usare, ma reagiremo in tutte le sedi e forme opportune a questa vostra molesta pretesa e ne denunceremo le sue eventuali conseguenze.
+
+ Le vostre PEC arriveranno a migliaia di altri siti, privati e pubblici, e molti sono stati già stati raggiunti. Noi siamo ben disposti a parlare con tutti loro su questa questione di MonitoraPA e agire insieme a tutti, basta che si mettano in contatto con noi.
+
+ Noi non riceviamo alcun finanziamento pubblico e i nostri soldi sono solo quelli delle donazioni e iscrizioni private (oltre che dalle cause vinte 🙂 ), quindi non abbiamo alcuna remora a chiedere a tutti i cittadini di Internet un finanziamento o anche l’iscrizione al Partito, come una piccola assicurazione perché Internet sia un luogo sicuro per tutti, né resti pascolo della profilazione e né venga piegata ai diktat degli sceriffi del web e delle sedicenti «comunità di hacker, attiviste, attivisti, cittadine e cittadini che, attenti a riservatezza, libertà e diritti cibernetici (sic!)» che pretendono di imporre agli altri cosa fare o pensare con minacce e ultimatum.
+
+ A tale proposito, visto che la vostra lettera contiene neppure troppo velate minacce, potete darvi corso senza attendere la scadenza dell’ultimatum. Grazie.
+
+ «Go ahead, make my day!»
+
+ Maria Rosaria lo Muzio (segretari o )
+
+ Aldo Antonio Pazzaglia (garante)
+
+ Emmanuele Somma (tesoriere)
+
+ PARTITO-PIRATA-RISPOSTA-A-MonitoraPA-1-Settembre-2022-1 Download 
+
+ Set 1, 2022 Leave a Comment on «Cara MonitoraPA, fammi causa! Saluti, Partito Pirata» Diritti civili , Trasparenza 
+
+ Tags 
+ Cittadinanza , Costituzione , monitora-pa , Nonviolenza , profilazione 
+
+ Navigazione articoli
+
+ La scelta dei Pirati. 
+ Hacker che risolvono problemi. RIP @pde 
+
+ Lascia un commento Annulla risposta 
+ Devi essere connesso per inviare un commento.
+
+ Ultime dal blog
+
+ Perché scandagliare ogni nostro messaggio privato è una pessima idea 
+
+ Set 09, 2025 
+
+ 0 
+
+ L’Italia non legge? L’oligopolio soffoca i piccoli editori e i lettori 
+
+ Set 09, 2025 
+
+ 0 
+
+ Chat Control: la Sorveglianza di Stato che Tradisce la Privacy 
+
+ Set 09, 2025 
+
+ 0 
+
+ Articoli correlati 
+
+ “Continuerò a lottare per il nostro paese”, il discorso integrale di Yulia Navalnaya a Bruxelles 
+
+ Il regolamento europeo per la lotta al materiale pedopornografico online (CSAM), al voto il 26 ottobre, mina la privacy e i diritti fondamentali 
+
+ Abbiamo spezzato le reni all’Intelligenza Artificiale. Ahi! 
+
+ Campagne in corso
+ Proteggi la crittografia in Europa 
+
+ Piu libertà e meno contagi 
+
+ Abolizione del numero chiuso per le facoltà mediche 
+
+ Partito Pirata Italiano
+ Mozione 
+
+ Manifesto 
+
+ Organi 
+
+ Statuto 
+
+ Agisci
+ Agisci! 
+
+ Iscrizioni e privacy nel Partito Pirata. 
+
+ Iscriviti con un bonifico 
+
+ Chi siamo
+ Informazioni Legali 
+
+ Trasparenza 
+
+ Bilanci 
+
+ Gutener Theme by 
+ Keon Themes

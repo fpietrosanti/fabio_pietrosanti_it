@@ -1,0 +1,462 @@
+<meta charset="utf-8"><!-- MHonArc v2.6.16 -->
+<!--X-Head-End-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+                      "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://seclists.org/rss/bugtraq.rss">
+<title>Bugtraq: Mailstudio2000 CGI Vulnerabilities [S0ftPj.4]</title>
+<meta name="Subject" content="Mailstudio2000 CGI Vulnerabilities [S0ftPj.4]"/>
+<meta name="Author" content="fusys () ITAPAC NET"/>
+<link REL="SHORTCUT ICON" HREF="/shared/images/tiny-eyeicon.png" TYPE="image/png">
+<META NAME="ROBOTS" CONTENT="NOARCHIVE">
+<link rel="stylesheet" href="/shared/css/insecdb.css" type="text/css">
+</HEAD>
+<BODY BGCOLOR="#2A0D45" TEXT="#000000"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://seclists.org/bugtraq/2000/Jun/164">seclists.org/bugtraq/2000/Jun/164</a> · captured 2011-12-18 · scripts removed</div>
+
+<TABLE CELLPADDING="0" WIDTH="100%" CELLSPACING="0">
+<TR><TD ALIGN="left"><A HREF="/"><IMG BORDER=0 ALT="Home page logo"
+SRC="/images/sitelogo.png" HEIGHT=90 WIDTH=168></A></TD>
+<TD VALIGN="bottom" ALIGN="right">
+<!-- Begin TopBanner Code -->
+<!-- AdSpeed.com Serving Code 7.9.5 for [Zone] TopBanner 728x90 -->
+
+<noscript>
+</noscript><!-- AdSpeed.com End -->
+<!-- End Banner Code -->
+
+</TD></TR></TABLE>
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0"><TR>
+<TD ALIGN="left" WIDTH="130" VALIGN="top" class="sidebar">
+
+<!-- SECWIKI PORTAL INSERT -->
+
+<ul>
+<li><a href="http://nmap.org/">Nmap Security Scanner</a>
+<ul>
+<li><a href="http://nmap.org/">Intro</a></li>
+<li><a href="http://nmap.org/book/man.html">Ref Guide</a></li>
+<li><a href="http://nmap.org/book/install.html">Install Guide</a></li>
+<li><a href="http://nmap.org/download.html">Download</a></li>
+<li><a href="http://nmap.org/changelog.html">Changelog</a></li>
+<li><a href="http://nmap.org/book/">Book</a></li>
+<li><a href="http://nmap.org/docs.html">Docs</a></li>
+</ul>
+<li><a href="http://seclists.org/">Security Lists</a>
+<ul>
+<li><a href="http://seclists.org/nmap-hackers/">Nmap Hackers</a></li>
+<li><a href="http://seclists.org/nmap-dev/">Nmap Dev</a></li>
+<li><a href="http://seclists.org/bugtraq/">Bugtraq</a></li>
+<li><a href="http://seclists.org/fulldisclosure/">Full Disclosure</a></li>
+<li><a href="http://seclists.org/pen-test/">Pen Test</a></li>
+<li><a href="http://seclists.org/basics/">Basics</a></li>
+<li><a href="http://seclists.org/">More</a></li>
+</ul>
+<li><a href="http://sectools.org">Security Tools</a>
+<ul>
+<li><a href="http://sectools.org/tag/crackers/">Pass crackers</a></li>
+<li><a href="http://sectools.org/tag/sniffers/">Sniffers</a></li>
+<li><a href="http://sectools.org/tag/vuln-scanners/">Vuln Scanners</a></li>
+<li><a href="http://sectools.org/tag/web-scanners/">Web scanners</a></li>
+<li><a href="http://sectools.org/tag/wireless/">Wireless</a></li>
+<li><a href="http://sectools.org/tag/sploits/">Exploitation</a></li>
+<li><a href="http://sectools.org/tag/packet-crafters/">Packet crafters</a></li>
+<li><a href="http://sectools.org/">More</a></li>
+</ul>
+<li><a href="http://insecure.org/">Site News</a></li>
+<li><a href="http://insecure.org/advertising.html">Advertising</a></li>
+<li><a href="http://insecure.org/fyodor/">About/Contact</a></li>
+<li>
+<!-- SiteSearch Google -->
+<form action="http://insecure.org/search.html" id="cse-search-box-sidebar">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="16">
+    <input type="submit" name="sa" value="Site Search">
+  </div>
+</form>
+
+<!-- End SiteSearch Google -->
+</li>
+<!-- These can come back if I ever update them ...
+<li><a href="http://insecure.org/links.html">Exceptional Links</a></li>
+<li><a href="http://insecure.org/reading.html">Good Reading</a></li>
+-->
+<li><a href="http://insecure.org/sploits.html">Exploit World</a></li>
+<li><a href="http://insecure.org/advertising.html">Sponsors:</a>
+
+<!-- Begin Sidebar 1 Banner Code -->
+<!-- NOTE: Acunetix does NOT want to use the rotation script -->
+<a href="http://www.acunetix.com/cross-site-scripting/scanner.htm"><img height=60 width=120 border=0 src="/shared/images/p/Acunetix/acunetix-freexss-120x60.gif" alt=""></a>
+<!-- End Sidebar 1 Banner Code -->
+<BR><BR>
+
+<!-- Begin Sidebar 2 Banner Code -->
+<a href="http://landlanss.gfi.com/freeware-network-security-scanner-sm/?adv=731&amp;loc=1"><img height=90 width=120 border=0 src="/shared/images/p/gfi/120x90_gfi_languard_rebranding.gif" alt=""></a>
+<!-- End Sidebar 2 Banner Code -->
+<BR><BR>
+
+<!-- Google Skyscraper Ad -->
+
+
+<!-- End Google Skyscraper Ad -->
+</ul>
+</TD>
+<TD BGCOLOR="#FFFFFF" VALIGN="top" ALIGN="left"><IMG
+SRC="/shared/images/topleftcurve.gif" alt="/"><TABLE CELLPADDING="4" WIDTH="100%"><TR><TD BGCOLOR="#FFFFFF">
+
+<!--X-Body-Begin-->
+<!--X-User-Header-->
+<p>
+<A HREF="/bugtraq/"><img src="/images/bugtraq-logo.png" border="0" width="80" style="vertical-align: middle" alt="bugtraq logo"></A>
+<FONT SIZE="+1"><a href="http://seclists.org/bugtraq/">Bugtraq</a>
+mailing list archives</FONT><br>
+<!--X-User-Header-End-->
+<!--X-TopPNI-->
+<!-- Google Custom SiteSearch -->
+<form action="http://insecure.org/search.html" id="top-search-box">
+<a href="202"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#164">By Date</a>&nbsp;&nbsp;<a href="163"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="162"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#164">By Thread</a>&nbsp;&nbsp;<a href="168"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="ISO-8859-1" />
+    <input type="text" name="q" size="24" />
+    <input type="submit" name="sa" value="Search" />
+</form>
+
+<!-- End Google Custom SiteSearch -->
+</p>
+
+<!--X-TopPNI-End-->
+<!--X-MsgBody-->
+<!--X-Subject-Header-Begin-->
+<font size="+2"><b>Mailstudio2000 CGI Vulnerabilities [S0ftPj.4]</b></font>
+<hr>
+<!--X-Subject-Header-End-->
+<!--X-Head-of-Message-->
+
+
+<em>From</em>: fusys () ITAPAC NET (fusys () ITAPAC NET)<br>
+
+<em>Date</em>: Fri, 9 Jun 2000 20:00:16 +0200<br>
+
+<!--X-Head-of-Message-End-->
+<!--X-Head-Body-Sep-Begin-->
+<hr>
+<!--X-Head-Body-Sep-End-->
+<!--X-Body-of-Message-->
+<pre style="margin: 0em;">
+
+SPJ-004-000:
+
+                   .::::::::+[ s0ftpr0ject 2K ]+::::::::.
+                   ::::+[ Digital Security for Y2K ]+::::
+                   :::&apos;&quot;&quot;&quot;`&quot;&apos;&quot;&quot;&quot;`&quot;&apos;&quot;&quot;&quot;`&quot;&apos;&quot;&quot;&quot;`&quot;&apos;&quot;`&quot;&apos;&quot;&quot;`:::
+                   ::&apos;.g#S$&quot;$S#n. .g#S$&quot;$S#n.     S#n.`::
+                   :: $$$$$ $$$$$ $$$$$ $$$$$     $$$$ ::
+                   :: $$$$$       $$$$$ $$$$$     $$$$ ::
+                   :: `$$$$$$$$$n $$$$$ $$$$$     $$$$ ::
+                   ::       $$$$$ $$$$$s$$$$&apos;     $$$$ ::
+                   :: $$$$$ $$$$$ $$$$$     $$$$$ $$$$ ::
+                   :: `$$$$s$$$S&apos; `$$$$     `$$$$s$$S&apos; ::
+                   :::...........:.....:::::..........:::
+                   :::+[ Security Advisory, 004-000 ]+:::
+                   `::::::::+[  Jun 09, 2000 ]+:::::::::&apos;
+
+             Multiple Remote CGI Vulnerabilities in MailStudio2000
+                        
+                         by FuSyS &lt;fusys () s0ftpj org&gt;,
+              Naif &lt;naif () itapac net&gt; and vecna &lt;vecna () s0ftpj org&gt;
+
+---[ Systems affected ]-------------------------------------------------------
+
+Possibly all systems running MailStudio2000 2.0 and lower versions.
+
+---[ Condition of discovery ]-------------------------------------------------
+
+Credit for discovering the initial &apos;file viewing&apos; vulnerability in one cgi,
+mailview, goes to Naif; subsequent probes by vecna and FuSyS. Credit for
+userreg &apos;command execution&apos; goes to FuSyS.
+
+The test on MailStudio2000 began as a simple question on the mailing lists
+accessible at <a  rel="nofollow" href="http://www.sikurezza.org/">http://www.sikurezza.org/</a>
+
+---[ Impact ]-----------------------------------------------------------------
+
+There are at least two distinct bugs we&apos;ll mention.
+
+Any user who can remotely login to MailStudio2000, can view any file on the
+system. This implies other users&apos; e-mail is nomore private, nor is the login
+and password dbase, nor the configuration files of the running system.
+
+This has a medium level impact on the security of the system, as the CGI
+programs run with root permissions and privileges, permitting the attacker to
+look at the passwd/shadow files, home directories, log files ...
+
+Not least important, all other users&apos; e-mail is readable by the attacker.
+Consider this as important, as MailStudio is being sold to lots of web sites
+and it is also possible to use search engines such as AltaVista to search
+for compromisable hosts, which run these CGIs.
+
+The worst problem however is a poor input validation in a specific CGI which
+accesses the shell to execute a command. Injecting a single non filtered
+char, we can make the remote host execute any command we wish.
+
+---[ Detailed description ]---------------------------------------------------
+
+(1) Read, and knowledge will be thine ...
+
+MailStudio2000 is a web based e-mail server solution from 3RSoft.com .
+It&apos;s included in the retail version of RedHat Linux 6.1 and has been reviewd
+by LinuxJournal and Dave&apos;s Central. From 3RSoft website:
+
+                 &quot;Over 10 millions mailboxes worldwide&quot;
+
+It&apos;s functionality rotates around a group of CGI applications contained in
+the cgi-auth directory of the binary distribution.
+
+While on the homepage the seller clearly states that the confidentiality of
+users&apos; e-mail will be preventatively protected, the developers missed one
+of the most common problems:
+
+check of user input in jailed environements, to protect the bypass of the root
+directory and the examination of other, sensitive or not, files.
+
+This is exactly what we found here. Seems that every CGI application in
+cgi-auth directory contains the same problem. The server can look through
+authorized users, so we must first login with a valid user and password.
+The problem is, this software is mostly used for FREE web-mail services; so
+just register and get going.
+
+After the logon we can easily call one of the CGI, mailview.cgi as:
+
+mailview.cgi?cmd=view&amp;fldrname=inbox&amp;select=1&amp;html=../../../../../../etc/passwd
+
+it&apos;s interesting to note that simply using /etc/passwd as value for the html
+parameter will not work, as the environement has changed the root directory.
+the number of &apos;..&apos; you are going to use changes accordingly to the CWD of the
+MailStudio2000 software. In this case simply &apos;/home/sysop/mailstudio2k/&apos;.
+
+Just to show that every CGI seems affected, here is an example [word-wrapped]:
+
+maillist.cgi?cmd=list&amp;fldrname=inbox&amp;fldnum=1&amp;order=2&amp;searchkey=&amp;search_fldnum=0
+&amp;page=99999&amp;html=../../../../../../etc/passwd
+
+Why is this important ? MailStudio2000 runs as root, by default. This means
+/etc/shadow is readable as well.
+
+Every users&apos; mail, via /var/spool/mail/ or ~/userdb/login_name/inbox can be
+snooped.
+
+/etc/mailstudio.conf will merrily give away the administration port and the
+license key, if you didn&apos;t have a commercial one.
+
+Once we know the administration password, grabbed from the passwd or shadow
+file, we can have access to the sysop menu and even disable other people&apos;s
+accounts.
+
+These problems and attack options pose a great risk to users&apos; privacy and
+heavily affect the security of the product.
+
+(2) Act, and thou shalt be free ...
+
+This is obviously the worst problem which is readily evident in this server.
+The CGI application userreg.cgi is used to register new users before they
+can login to the server. The problem is, anyone can execute it.
+
+This CGI simply executes a useradd -s /bin/noshell -p password %s
+The login name string, %s, is filtered out of capital characters, blank spaces
+and special characters, so just inserting &apos;;&apos; or &apos;&amp;&apos; will reach nowhere.
+
+While trying to escape via other chars by using every single parameter, we
+noted that the simple \x0a char is accepted, as long as there are NO spaces
+in the string. And obviously, in the error logs we saw instances of the shell
+complaining for not having found our %s2 [ as in %s1\x0a%s2 ].
+
+So we can just execute every application we can. This is a really powerful
+option, especially when combined with the previous read-all possibility.
+
+The hard point is, we don&apos;t seem able to get a workable blank space to
+execute more complex command lines. So, while leaving to your fantasy and
+personal delight, the right to explore, command and conquer, we&apos;ll just
+make sure everybody understands this is a trivial joke, if elegance is not
+on your agenda:
+
+- simply email yourself, a normal registered web mail user, a mail,
+  containing in the headers, or in the body a single line like this,
+
+                    spj::0:0:S0ftPj2k:/root:/bin/bash
+
+  and then
+
+- simply use the faulty CGI to execute something like this,
+                
+             cat &lt; /var/spool/mail/your_login &gt;&gt; /etc/passwd
+
+  to simply put the previous line in the password file. Now you can
+  choose to login with a normal account, as youi can steal the password and
+  shadow files, this ought not be a problem, and then su - to spj.
+  [Obviously you can add more nifty lines via this e-mail trick ...]
+  Or change this way /etc/shadow and /etc/securetty ... but we are sure
+  you can easily find ways of executing a nice xterm back to your X
+  server ;)
+
+Oh sure, here is the faulty CGI [word-wrapped]:
+
+userreg.cgi?cmd=insert&amp;lang=eng&amp;tnum=3&amp;fld1=test999%0acat
+&lt;/var/spool/mail/login&gt;&gt;/etc/passwd
+
+There are many other occurences of Internal Server Errors that can
+be traced to small problems of input validation which could result in more
+serious bugs, and could make the problem worse, regarding server security.
+
+--[Vendor Status ]----------------------------------------------------------
+
+3RSoft, developer and seller of MailStudio2000 has been contacted and informed.
+A copy of this advisory has been sent some days ago, as we wanted to wait at
+least for a working week. Sadly, we received no response. We&apos;d like to stress
+out that between fifteen and twenty days ago, 3RSoft was notified about the
+first &apos;file viewing&apos; vulnerability on one of their cgi apps on the hompage
+web-mail test. They patched that &apos;single&apos; cgi, but never replied.
+
+So we decided to go on and advise the community, as we&apos;ve been knowing this
+for quite a time, now. No information has been provided by us on this issue
+on &apos;underground&apos; channels or unreleased repositories.
+
+---[ URLs and references ]----------------------------------------------------
+
+MailStudio2000 HomePage URL : <a  rel="nofollow" href="http://www.3rsoft.com/">http://www.3rsoft.com/</a>
+
+---[ Contact informations ]---------------------------------------------------
+
+s0ftpr0ject 2k - Digital security for Y2K (s0ftpj)
+no-profit security research
+
+Internet site: <a  rel="nofollow" href="http://www.s0ftpj.org">http://www.s0ftpj.org</a>
+E-mail: staff () s0ftpj org
+
+All advisories and security documents are available via http at:
+
+<a  rel="nofollow" href="http://www.s0ftpj.org">http://www.s0ftpj.org</a> (195.32.69.44) courtesy of Metro Olografix
+<a  rel="nofollow" href="http://www.olografix.org">http://www.olografix.org</a> (195.32.69.44)
+
+This document has no copyright, feel free to distribute it without any
+limitation. Original copy of this document can be found at our Internet site
+for free.
+
+---[ s0ftpr0ject staff Public PGP Key ]------------------------------------
+
+Type Bits/KeyID    Date       User ID
+pub  2600/15A01BB9 1999/07/22 S0ftPj Staff &lt;staff () s0ftpj org&gt;
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: 2.6.3i
+
+mQFSAzeXNL8AAAEKKNzvok6FkB24mQUEx5Q4SZ97dQlmx3yNeEvG7aJ/0TDKWWUv
+f6a+t1jF8V7JMhV1JxU/z38MgTYRGt6dspWlTLKb543GxBRqOdMohigBu8rUmDEb
+UlD9gAav5M+OSY6oNh5a7e/YrPLhOiqxNxBIXQCDgKtIUv9NF8KbcbS96EAmNsuH
+UA/hJ2Arlx2wSkmJZgvcpiM6O/1g1OYgg7Gur39SqsNZn0RUKxi463qASGfJT4sa
+rpH6clBsVpNei5bf/4Bke5/8dnJL5DzM0twxTUmvdq1Pt1+6sRCd70IsqXPvjZu2
+Drx4rzlLItD84xmE9w/vGdLMtPSTPwX7ak2TvhWqBOkqzWJNiRjzi+T6HiNfuqUr
+sr90FndiRNJcWCbmPs2TJISLePsi9AVGL5KFfmimdSJPagzWG1FVQhyo2HS4nRWg
+G7kABRG0H1MwZnRQaiBTdGFmZiA8c3RhZmZAczBmdHBqLm9yZz6JAVoDBRA3lzS/
+2HS4nRWgG7kBAaYiCiQPM05Pr5FkSgjHkVUbgyxwuWkp9MDOxhvFAgcsHJUX2h6V
+F02vzDMR2BOvaRhkm43IwXxK490Tp86pbbhC28SiF3TEyHjmu8tMrXo/cX69fcqy
+IbvVgHKEIUYR8Sik7mLX9HqUh9qh7e6o4cH5TsCCJxIoqf2Qt4t5HA4m77H1niNP
+EqY2HGzvQUPfvTf+KffdLGoAa/NSKJyB8stlWIJ4SAe7EkGscSjcDFvrm25pDT33
+JHyBHBdmUY0Kr+gzmg9CuUZUhVtdun0mwZJLicOSUFQeYuPsid+ayggdgfGR7spM
+NymPkS2MF8jGOKCa9EqWbn5gBP0uZm5aMrg6+O+s+xNonK0BcFH7iIUAsL9qUHLD
+4edFudwxa6XW7LuJoqDVlUzhqA3Ru5Yd8eTD7vbcjR3fRngDpLDu8UhC0MFQSoDW
+IWKJ
+=i4i0
+-----END PGP PUBLIC KEY BLOCK-----
+
+</pre>
+<!--X-Body-of-Message-End-->
+<!--X-MsgBody-End-->
+<!--X-Follow-Ups-->
+<hr>
+<!--X-Follow-Ups-End-->
+<!--X-References-->
+<!--X-References-End-->
+<!--X-BotPNI-->
+<p>
+<a href="202"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="date.html#164">By Date</a>&nbsp;&nbsp;<a href="163"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="162"><img src="/images/left-icon-16x16.png" border=0 width=16 height=16></a>&nbsp;&nbsp;<a href="index.html#164">By Thread</a>&nbsp;&nbsp;<a href="168"><img src="/images/right-icon-16x16.png" border=0 width=16 height=16></a>
+</p>
+<font size="+1"><b>Current thread:</b></font>
+<ul style="margin-top: 0em">
+<li><a name="123" href="123">Yet another heap overflow in wu-ftpd and so on...</a> <em>Michal Zalewski (Jun 07)</em>
+<ul>
+<li><a name="162" href="162">Re: Yet another heap overflow in wu-ftpd and so on...</a> <em>portal (Jun 08)</em>
+</li>
+<li><strong>Mailstudio2000 CGI Vulnerabilities [S0ftPj.4]</strong> <em>fusys () ITAPAC NET (Jun 09)</em>
+<ul>
+<li><a name="168" href="168">Re: Mailstudio2000 CGI Vulnerabilities [S0ftPj.4]</a> <em>Vanja Hrustic (Jun 10)</em>
+<ul>
+<li><a name="174" href="174">Re: Mailstudio2000 CGI Vulnerabilities [S0ftPj.4]</a> <em>Fyodor (Jun 10)</em>
+</li>
+</ul>
+</li>
+<li><a name="169" href="169">Update to DST2K0011: DoS &amp; BufferOverrun in CMail v2.4.7 WebMail</a> <em>Security Team (Jun 10)</em>
+</li>
+</ul>
+</li>
+<li><a name="163" href="163">Security Update: flaws in the SSL transaction handling of Netscape</a> <em>Technical Support (Jun 09)</em>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<!--X-BotPNI-End-->
+<!--X-User-Footer-->
+<!--X-User-Footer-End-->
+</TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD></TD><TD ALIGN="center">
+<FONT COLOR="#FFFFFF">
+[ <A HREF="http://nmap.org"><FONT COLOR="#FFFFFF">Nmap</FONT></A> |
+  <A HREF="http://sectools.org"><FONT COLOR="#FFFFFF">Sec Tools</FONT></A> |
+  <A HREF="http://seclists.org/"><FONT COLOR="#FFFFFF">Mailing Lists</FONT></A> |
+  <A HREF="http://insecure.org/"><FONT COLOR="#FFFFFF">Site News</FONT></A> |
+  <A HREF="http://insecure.org/fyodor/"><FONT COLOR="#FFFFFF">About/Contact</FONT></A> |
+  <A HREF="http://insecure.org/advertising.html"><FONT COLOR="#FFFFFF">Advertising</FONT></A> |
+  <A HREF="http://insecure.org/privacy.html"><FONT COLOR="#FFFFFF">Privacy</FONT></A> ]<BR>
+</FONT>
+
+<!-- SiteSearch Google -->
+<!-- I changed the form id so that javascript acts on the top form on search.html page rather than this one. -->
+<form action="http://insecure.org/search.html" id="cse-search-box-bottom">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0078565546631069:bx60rb-fytx">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="60">
+    <input type="submit" name="sa" value="Site Search">
+  </div>
+</form>
+
+<!-- End SiteSearch Google -->
+
+<!-- Bottom Banner -->
+
+
+<!-- End Bottom Banner -->
+
+<!-- Google Analytics -->
+
+
+<!-- End Google Analytics -->
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>
+
+

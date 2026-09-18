@@ -1,0 +1,49 @@
+IOScat – a Port of Netcat to Cisco IOS at Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff 
+
+ author & blog 
+
+ « The (old) Crypto AG case and some thinking about it 
+ China Encryption Regulations » 
+
+ IOScat – a Port of Netcat to Cisco IOS 
+
+ Published by naif June 13th, 2010 
+
+ in security . 
+ 0  Comments 
+
+ A porting of famous netcat to Cisco IOS router operating system: IOSCat 
+
+ The only main limit is that it does not support UDP , but that’s a very cool tool!
+
+ A very good txt to read is Netcat hacker Manual .
+
+ 0 Responses to “IOScat – a Port of Netcat to Cisco IOS”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « The (old) Crypto AG case and some thinking about it 
+ China Encryption Regulations » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, security, hacking, encryption, intelligence and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.572 sec. w/ 41 queries.
+
+ RSS Entries and RSS Comments

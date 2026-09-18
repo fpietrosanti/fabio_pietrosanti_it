@@ -1,0 +1,421 @@
+Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere | Agenda Digitale 
+
+ Questo sito web utilizza cookie tecnici e, previo Suo consenso, cookie di profilazione, nostri e di terze parti. Chiudendo questo banner, scorrendo questa pagina o cliccando qualunque suo elemento acconsente all'uso dei cookie. Leggi la nostra Cookie Policy per esteso. OK 
+
+ menu 
+
+ Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere
+
+ Cittadinanza digitale 
+ Cittadinanza digitale 
+
+ Anagrafe unica 
+ Data management 
+ Identità digitale 
+ Pagamenti digitali 
+ Sicurezza Informatica 
+ Sicurezza Informatica 
+
+ Cyber Security 
+ Privacy 
+ La rubrica di Franco Pizzetti 
+ Sanità digitale 
+ Industry 4.0 
+ Infrastrutture digitali 
+ Procurement dell'innovazione 
+ Fatturazione elettronica 
+ Documenti digitali 
+ Documenti digitali 
+
+ Giustizia digitale 
+ Esperto Risponde 
+ Scuola digitale 
+ Cultura digitale 
+ Cultura digitale 
+
+ Competenze digitali 
+ Mercati digitali 
+ Mercati digitali 
+
+ Ecommerce 
+ Turismo digitale 
+ Startup 
+ Smart city 
+ Intelligenza Artificiale 
+ In poche parole 
+
+ accedi 
+
+ Seguici
+
+ linkedin 
+
+ twitter 
+
+ Newsletter 
+ Rss Feed 
+
+ Chi siamo 
+ Comitato Scientifico 
+
+ AREA PREMIUM
+
+ Whitepaper 
+ Eventi 
+ Webinar 
+ CANALI
+
+ Cittadinanza digitale 
+ Anagrafe unica 
+ Data management 
+ Identità digitale 
+ Pagamenti digitali 
+
+ Sicurezza Informatica 
+ Cyber Security 
+ Privacy 
+ La rubrica di Franco Pizzetti 
+
+ Sanità digitale 
+ Industry 4.0 
+ Infrastrutture digitali 
+ Procurement dell'innovazione 
+ Fatturazione elettronica 
+ Documenti digitali 
+ Giustizia digitale 
+ Esperto Risponde 
+
+ Scuola digitale 
+ Cultura digitale 
+ Competenze digitali 
+
+ Mercati digitali 
+ Ecommerce 
+ Turismo digitale 
+
+ Startup 
+ Smart city 
+ Intelligenza Artificiale 
+ In poche parole 
+ cyber security
+ Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere
+
+ Home 
+
+ Sicurezza digitale 
+
+ Condividi questo articolo
+
+ Mancanza di governance e di volontà di realizzare tavoli multi-stakeholder, ritrosia a comprendere l’ampiezza e la complessità del problema, lacune regolatorie: sono alcuni dei problemi che impediscono all’Italia ad essere un paese all’avanguardia nelle intercettazioni con il trojan
+
+ 1 giorno fa
+
+ Stefano Aterno
+ Professore universitario a contratto, certificato in sicurezza dei dati e delle informazioni ISO 27001 Lead Auditor of counsel Studio legale E-Lex
+
+ Fabio Pietrosanti
+ Fondatore Centro Hermes per la Trasparenza e i Diritti Umani Digitali
+
+ Collaborazione e trasparenza possono rappresentare il percorso per evitare nuovi “casi Exodus ” e per portare l’Italia ad essere il paese più all’avanguardia in Europa nella produzione di tecnologie di investigazione tattica, efficienti, efficaci, rendicontabili e addirittura economiche , sviluppando avvantaggiandosi si delle competenze di cyber security disponibili nello stivale, ma capitalizzandone il risultato a beneficio pubblico e non solo per (legittimo) interesse privato.
+ Eppure, lo scontro tra opposte fazioni, una visione miope del problema e la mancanza di governance, uniti a evidenti lacune regolatorie, impediscono che questo avvenga. A rischio e pericolo di tutti.
+ Indice degli argomenti
+
+ Il caso Exodus 
+ Trojan, un eterno scontro tra opposte fazioni 
+ Trojan e investigazioni, cosa dice la Cassazione 
+ Più garanzie negli appalti sulle intercettazioni 
+ Le linee guida Agid 
+ Riuso, sicurezza e risparmi 
+
+ Il caso Exodus 
+ I fatti di questi giorni relativi al malware Exodus rivelati da Motherboard – Vice (a firma di Riccardo Coluccini e Bicchierai) e poi confermati dalla Procura di Napoli che sta indagando sull’accaduto ci fanno ripiombare in quel clima già visto più volte in occasione degli episodi di spionaggio informatico o di tentativi di controllo e dossieraggio. Se ne parla per qualche giorno anche ai massimi livelli e poi alle parole, alle proposte, ai buoni propositi non seguono attività concrete volte a mettere in sicurezza il “sistema trojan” che è un “nuovo” sistema di intercettazione che però pochi hanno compreso essere molto ma molto più invasivo e complesso del tradizionale.
+ In questa difficile comprensione dell’evoluzione tecnologica dello strumento c’è anche la ritrosia di molti a comprendere (e considerare nel modo giusto) le centinaia di funzioni tecnologiche dello strumento in uso, spesso talmente nuove e aggiornate (o aggiornabili) da risultare difficili e complesse anche per un esperto ingegnere informatico e quindi figuriamoci per tutti gli altri.
+ Trojan, un eterno scontro tra opposte fazioni 
+ L’atteggiamento tipico che divide le opposte fazioni (pro o contro il captatore per uso investigativo) a prescindere se scoppia il nuovo “Caso Exodus” oppure non accade nulla per lunghi periodi di tempo è, da una parte che il problema non esiste (e quindi si ha l’impressione che tutto funzioni bene) oppure che lo Stato si è messo a fare un controllo massivo sulla privacy dei cittadini .
+ Vi sono da una parte, coloro che sostengono, in modo esagerato, l’esistenza di un controllo di massa dei cittadini e quindi l’esigenza di vietare l’uso di questo strumento con ogni modalità ed in ogni settore e dall’altra parte coloro che invece minimizzano il problema e ritengono di poterlo gestire, magari appunto, non conoscendo a fondo tutte le funzioni dello strumento o le altre decine di insidie che si celano dietro un possibile utilizzo superficiale del software. Si è sentito dire “ il trojan oggi è come una pistola ad acqua ” il che è in parte forse vero se consideriamo che non sempre è possibile (o facile) inocularlo all’interno del target ma, visto il caso Exdodus, Occhionero, Hacking team e altri forse proprio una pistola ad acqua non deve essere. O no?
+ Sarebbe opportuno evitare semplificazioni ed avere un atteggiamento costruttivo perché i problemi sulle intercettazioni con il trojan che sembrano emergere non investono solo la riservatezza di una certa vita privata dei cittadini ma anche e soprattutto le indagini stesse.
+ Trojan e investigazioni, cosa dice la Cassazione 
+ La Cassazione a Sezioni Unite n. 26889/2016 ha legittimato l’uso del trojan nella modalità di intercettazione ambientale cosiddetta itinerante sia nei processi di criminalità organizzata (e terrorismo) sia in tutti gli altri casi con maggiori precisazioni nei decreti motivati del Pubblico Ministero e del Giudice per le indagini preliminari. E’ inutile inneggiare al divieto di questo strumento in indagini dove la difficoltà di raggiungere le informazioni preziose oltre dal contesto criminale è resa sempre più difficile anche in relazione alla presenza di strumenti e reti cifrate e impenetrabili. L’alzata di scudi tardiva e senza costrutto di certe categorie e di certi personaggi ha, in passato, indebolito la forza di alcune proposte di legge come la cosiddetta Quintarelli che oggi invece taluni pubblicamente rivalutano pentendosi di averla criticato o quantomeno non appoggiata come meritava.
+
+ Il legislatore della cosiddetta legge Spazzacorrotti ha ampliato, senza però ancora tipizzare questo mezzo di ricerca della prova, la categoria dei reati per i quali è possibile utilizzare il trojan senza dover sempre indicare nel decreto di autorizzazione il luogo di privata dimora in cui si procede ad intercettazioni ambientali (anche dette ambientali e itineranti).
+ Certo, vi sarebbe poi ancora da chiarire, anche per il bene delle indagini e dei processi importanti, alcune funzionalità del captatore che emergono dalla lettura delle sentenze della Suprema Corte di Cassazione n. 48370 /2017 e n. 36874 del 2017 ma noto ancora molta timidezza e incertezza sul tema e ci vorrà probabilmente ancora del tempo. Anche se non so quanto potrà ancora durare il concetto di “prova atipica” o di “mezzo atipico di ricerca della prova” per alcuni elementi di prova acquisiti da remoto. 
+ Più garanzie negli appalti sulle intercettazioni 
+ Non è possibile ipotizzare neanche se e quando si potranno apportare alcune piccole modifiche al codice di procedura penale per disciplinare le restanti attività del captatore che esulano dagli artt. 266 comma 2 (ambientali) e 266 bis (intercettazioni telematiche), ma ciò che, ad avviso di chi scrive, è imprescindibile (siamo forse in netto ritardo) è p otenziare le norme sugli appalti e sub appalti nel settore delle intercettazioni con il captatore informatico prevedendo, anche con l’aiuto delle norme del Dlgs. n. 51 del 2018 (art.18 per esempio in tema di nomina di responsabili del trattamento e di sub responsabili), una serie di garanzie sulle misure tecniche e organizzative adeguate ad assicurare la protezione dei dati personali e la tutela dei diritti dell’interessato.
+ Per fare questo si dovrebbe anche aggiornare e migliorare il Regolamento tecnico dell’aprile del 2018 sull’uso di questi strumenti . Oltre alle misure tecniche, il modello di tutela preventiva, predittiva e proattiva deve mettere ai primi posti il fattore umano , la formazione quindi del personale finalizzata a migliorare la cultura della sicurezza dei dati e delle informazioni e quindi soprattutto la tutela dell’individuo anche se delinque o è indagato in un procedimento penale. E’ della sua sfera intima e della sua dignità che stiamo parlando.
+ L’innalzamento delle misure di protezione e di sicurezza dei sistemi in uso presso le società private non rendono le fasi investigative e il processo farraginosi o difficili, anzi al contrario garantiscono il sistema dai rischi di compromissione e di alterabilità dei dati giudiziari che mano mano che andremo avanti richiederanno sempre di più l’innalzamento della soglia di attenzione e di prevenzione da parte di tutti le parti interessate.
+ Oltre alle evidenti lacune regolatorie, osserviamo una pressoché completa mancanza di governance delle modalità di acquisizione delle tecnologie rivolte e destinate alla captazione informatica, sostanzialmente richiedendo approcci “chiavi in mano” a singoli fornitori che intervengono secondo il loro, legittimo, interesse imprenditoriale privato.
+ Le linee guida Agid 
+ Già iniziare a seguire i virtuosismi delle Linee Guida su acquisizione e riuso di software, rilasciate da Agid e obbligatorie secondo il Codice dell’ Amministrazione Digitale art 69 comma 2, sarebbe un notevole passo avanti.
+ Difatti ciò limiterebbe le possibilità di “lock-in” dei fornitori di tali tecnologie, agevolerebbe l’interoperabilità dei dati fra sistemi eterogenei, aumenterebbe in modo significativo la trasparenza e rendicontabilità d’uso ma soprattutto definirebbe chiaramente di chi sia la proprietà intellettuale dei sistemi di captazione informatica, consentendone il riuso, addirittura abbracciando l’opensource .
+ Già, opensource, perché al contrario di quanto viene normalmente considerato dai non specialisti di settore, i n un sistema di captazione informatica solo una piccola parte del codice software deve rimanere oggetto di segretezza per mantenere la sua efficacia rimanendo fuori dai radar dei sistemi antivirus e simili.
+ Riuso, sicurezza e risparmi 
+ Tutta l’infrastruttura di backend, di normalizzazione dei dati, di gestione delle procedure di autorizzazione, raccolta, certificazione, esportazione, traduzione, ricerca, generazione agenti software, valutazione preliminare degli obiettivi e molto altro potrebbero essere oggetto di riuso software senza compromettere in alcun modo la segretezza , e quindi l’efficacia investigativa, delle operazioni tecniche di acquisizione dati. Già, perché solo le componenti software “attive” che operano sui dispositivi informatici richiedono una, seppur parziale, segretezza per mantenere la propria efficacia, quando il resto potrebbe essere standard, aperto, orientato al riuso secondo quanto già previsto dal CAD.
+ Ci si domanda per quale motivo ad esempio la Procura di Torino debba comprare una infrastruttura e relative licenze software di captazione informatica per condurre le medesime operazioni della Procura di Napoli, e non si colga invece l’occasione per l’acquisizione della tecnologia secondo le regole delle linee guida riuso, con tutto ciò che comportano in termini di risparmi, efficienza e trasparenza. Perché no ?
+ La risposta è semplice, per la mancanza di Governance e la mancanza di volontà di realizzare tavoli di lavoro multi-stakeholder che guardino oltre la limitata e obsoleta visione di “security trough obscurity” secondo la quale solo mantenendo la segretezza delle capacità degli strumenti investigativi, questi garantiranno la loro efficacia operativa.
+ Non siamo più negli anni ’90, il panorama tecnologico è cambiato.
+
+ @RIPRODUZIONE RISERVATA 
+
+ Personaggi
+
+ F
+
+Fabio Pietrosanti
+
+ S
+
+Stefano Aterno
+
+ Argomenti
+
+ A
+
+Agid Agenzia per l'Italia Digitale
+
+ A
+
+Aterno
+
+ C
+
+Cyber Security
+
+ D
+
+dati personali
+
+ F
+
+formazione
+
+ P
+
+Pietrosanti
+
+ Canali
+
+ P
+
+Privacy
+
+ S
+
+Sicurezza digitale
+
+ Articoli correlati
+
+il commento
+ Exodus, un disastro annunciato: l'Italia gestisce con superficialità il tema spy software
+ 31 Mar 2019
+ di Stefano Zanero 
+
+ Condividi il post
+
+ 207 Condivisioni 
+
+spy software
+ Exodus, Aterno: "Urgono regole per imporre standard di sicurezza e controlli"
+ 01 Apr 2019
+ di Stefano Aterno 
+
+ Condividi il post
+
+ Condividi 
+
+l'analisi
+ Tutto il digitale che serve al reddito di cittadinanza e i problemi da risolvere
+ 21 Gen 2019
+ di Eugenio Prosperetti 
+
+ Condividi il post
+
+ Condividi 
+
+ Condividi 
+ view_list Articoli correlati 
+ Prossimo
+
+ Exodus, un disastro annunciato: l'Italia gestisce con superficialità il tema spy software 
+ keyboard_arrow_up 
+
+ LinkedIn
+
+ Twitter
+
+ Whatsapp
+
+ Facebook
+
+ Google+
+
+ Mail
+
+ Link
+
+ Articoli correlati
+ Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere 
+ Exodus, un disastro annunciato: l'Italia gestisce con superficialità il tema spy software 
+ Exodus, Aterno: "Urgono regole per imporre standard di sicurezza e controlli" 
+ Tutto il digitale che serve al reddito di cittadinanza e i problemi da risolvere 
+
+ Articolo 1 di 4
+
+Seguici
+
+ About 
+ Rss Feed 
+ Privacy 
+ Cookie 
+
+ NetworkDigital360 è il più grande network in Italia di testate e portali B2B dedicati ai temi della Trasformazione Digitale e dell’Innovazione Imprenditoriale. Ha la missione di diffondere la cultura digitale e imprenditoriale nelle imprese e pubbliche amministrazioni italiane.
+
+ TUTTE LE TESTATE
+
+ Applicazioni e Tecnologie
+
+Ai4Business 
+
+Bigdata4Innovation 
+
+Big Data & Analitycs ZeroUno 
+
+Blockchain4Innovation 
+
+Cloud Computing ZeroUno 
+
+Cybersecurity CorCom 
+
+Cybersecurity360 
+
+Documenti AgendaDigitale.eu 
+
+eCommerce AgendaDigitale.eu 
+
+Fatturazione AgendaDigitale.eu 
+
+Industria 4.0 CorCom 
+
+Industry 4.0 AgendaDigitale.eu 
+
+Infrastrutture AgendaDigitale.eu 
+
+Industry4Business 
+
+Internet4Things 
+
+PagamentiDigitali 
+
+RiskManagement360 
+
+Searchdatacenter ZeroUno 
+
+Searchsecurity ZeroUno 
+
+Sicurezza AgendaDigitale.eu 
+
+Smart City AgendaDigitale.eu 
+
+Smart Mobility EconomyUp 
+
+ Digital Transformation
+
+AgendaDigitale.eu 
+
+Corcom 
+
+Digital4Executive 
+
+Digital4PMI 
+
+Digital4trade 
+
+Zerouno 
+
+ Funzioni di Business
+
+Digital4Finance 
+
+Digital4HR 
+
+Digital4Legal 
+
+Digital4Marketing 
+
+Digital4Procurement 
+
+Digital4SupplyChain 
+
+Procurement AgendaDigitale.eu 
+
+ Industry
+
+Agrifood.tech 
+
+AutomotiveUp 
+
+BankingUp 
+
+Industry4Business 
+
+InsuranceUp 
+
+Media CorCom 
+
+RetailUp 
+
+Sanità AgendaDigitale.eu 
+
+Scuola AgendaDigitale.eu 
+
+Telco CorCom 
+
+Turismo AgendaDigitale.eu 
+
+ PA
+
+Cittadinanza AgendaDigitale.eu 
+
+ForumPA 
+
+PA Digitale CorCom 
+
+Sanità AgendaDigitale.eu 
+
+Scuola AgendaDigitale.eu 
+
+ Startup e Open Innovation
+
+Economyup 
+
+StartUp AgendaDigitale.eu 
+
+Startupbusiness 
+
+ Studenti
+
+University2business 
+
+ Indirizzo
+ Via Copernico, 38
+ Milano - Italia
+ CAP 20125
+
+ Contatti
+ info@digital360.it 
+
+ ICT&Strategy S.r.l. – Gruppo DIGITAL360 - Codice fiscale 05710080960 - P.IVA 05710080960 - © 2018 ICT&Strategy. ALL RIGHTS RESERVED
+ Mappa del sito - Tags 
+
+ close 
+ Codice Rss
+
+ Clicca sul pulsante per copiare il link RSS negli appunti.
+
+ Copia link 
+
+ close 
+ Codice Rss
+
+ Clicca sul pulsante per copiare il link RSS negli appunti.
+
+ Copia link

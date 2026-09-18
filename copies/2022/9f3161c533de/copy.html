@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="https://monitora-pa.it/favicon.ico">
+    <link rel="stylesheet" href="/css/vendor/normalize.css">
+    <link rel="stylesheet" href="/css/monito-rapa-light.css">
+    <link rel="alternate stylesheet" href="/css/monito-rapa-dark.css" type="text/css" title="Modalità Oscura">
+    <link rel="stylesheet" type="text/css" media="screen and (prefers-color-scheme: dark)" href="/css/monito-rapa-dark.css  ">
+    <link rel="stylesheet" type="text/css" media="screen and (prefers-color-scheme: light)" href="/css/monito-rapa-light.css"> 
+    <link rel="stylesheet" href="/css/manual-fine-tuning.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:site_name" content="Monitora PA" />
+    <meta property="og:title" content="Google Fonts in vista!" />
+    <meta property="og:description" content="Il varo del nuovo Osservatorio Automatico Distribuito di Monitora PA... verso Google Fonts." />
+    <meta property="og:url" content="https://monitora-pa.it/2022/08/08/GoogleFonts_in_vista.html" />
+    <meta property="og:image" content="https://monitora-pa.it/media/MonitoraPA-120x120.gif" />
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:type" content="article" />
+
+    <title>Monitora PA</title>
+    <style type="text/css">
+       .ul-emu {
+            display:block; 
+            margin-left: 2em;
+            list-style: disclosure-closed;
+        }
+       .ul-emu::before {
+            content: '- ';
+            margin-left: -1em;
+        }
+    </style>
+
+</head>
+<body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://monitora-pa.it/2022/08/08/GoogleFonts_in_vista.html">monitora-pa.it/2022/08/08/GoogleFonts_in_vista.html</a> · captured 2022-08-08 · scripts removed</div>
+    
+    <header class="logo">
+        <img class="logo" src="/media/MonitoraPA.svg"
+            alt="Monitora PA. Viviamo in una società cibernetica. Vogliamo che sia democratica." />
+        <div class="motto">
+            <div class="motto-0"><span>monitora</span><span>pa</span></div>
+            <div class="motto-1"><span>viviamo in una società</span><span>cibernetica</span></div>
+            <div class="motto-1"><span>vogliamo che sia</span><span>democratica</span></div>
+        </div>
+    </header>
+
+    <header class="subtitle">
+        <h1>Google Fonts in vista!</h1>
+    </header>
+    <nav class="top-navbar">
+        <a href="/" title="Home">Home</a>
+        <a class="" title="Scrivici una PEC a monitorapa@peceasy.it" href="mailto:monitorapa@peceasy.it">
+            <i class="icon-email"></i> PEC
+        </a>
+        <a href="https://friendica.opencloud.lu/profile/monitorapa" 
+            title="Vai alla pagina del progetto su Friendica (apre una nuova finestra)"
+            target="_blank">Fediverse</a>
+        <a href="https://matrix.to/#/%23MonitoraPA:matrix.opencloud.lu" 
+            title="Vai al canale del progetto su Matrix (apre una nuova finestra)"
+            target="_blank">Matrix</a>
+        <a href="https://t.me/monitoraPA" 
+            title="Vai al canale del progetto su Telegram (apre una nuova finestra)"
+            target="_blank">Telegram</a>
+        <a href="https://github.com/MonitoraPA/" 
+            title="Vai al progetto su Github (apre una nuova finestra)"
+            target="_blank">Sorgenti</a>
+        <a href="LICENSE.txt" 
+            title="Leggi la licenza/contratto di utilizzo (apre una nuova finestra)"
+            target="_blank">Hacking License</a>
+    </nav>
+    <main>
+        <section>
+        <h1>Il nuovo Osservatorio Automatico Distribuito</h1>
+        <p>
+            Dopo un lungo lavoro durante il mese di luglio, ad agosto abbiamo finalmente varato
+            la <a href="https://github.com/MonitoraPA/monitorapa/blob/main/ARCHITETTURA.md" 
+            title="Architettura dell'osservatorio automatico distribuito di Monitora PA (su github.com, in nuova finestra)"
+            target="_blank">nuova architettura</a> del nostro osservatorio automatico distribuito.
+        </p>
+        <p>
+            Come già <a href="/2022/05/30/ongoing-hacks-202206.html#osservatorio-automatico-distribuito">annunciato a giugno</a>
+            la nuova architettura è progettata alla luce di obbiettivi politici che trascendono la pubblica amministrazione:
+        </p>
+        <ul>
+            <li>minimizzare le conoscenze tecniche necessarie ad eseguire e modificare l'osservatorio</li>
+            <li>minimizzare il tempo necessario a sviluppare nuove verifiche di <i>compliance</i></li>
+            <li>disaccopiare i check di conformità dai dataset verso cui orientare l'osservatorio</li>
+            <li>rendere più semplice ed efficiente l'elaborazione collaborativa delle segnalazioni via email e PEC</li>
+        </ul>
+        <p>
+            Il nostro obbiettivo (non ancora raggiunto, purtroppo) è rendere il codice del nostro osservatorio
+            talmente semplice da leggere e modificare che qualsiasi 15enne che abbia appena concluso
+            <a title="How to Think Like a Computer Scientist (nuova finestra)" href="http://openbookproject.net/thinkcs/python/english3e/index.html" target="_blank">un corso introduttivo di Python</a> 
+            <strong>senza mai aver programmato prima</strong>, sia in grado di comprenderne completamente
+            il funzionamento, eseguirlo, modificarlo e manutenerlo in piena autonmia.
+        </p>
+        <p>
+            Abbiamo però raggiunto abbastanza bene gli altri obbiettivi:
+        </p>
+        <ul>
+            <li>abbiamo introdotto <a href="https://github.com/MonitoraPA/monitorapa/tree/main/cli/check/browsing" 
+            title="Verifiche di conformita dei siti web (su github.com, in nuova finestra)"
+            target="_blank">diversi nuovi test</a> per i siti web (di cui oggi inauguriamo quello per Google Fonts)</li>
+            <li>abbiamo testato tutti i test sul <a href="https://github.com/MonitoraPA/monitorapa/blob/main/datasets/PartitiPolitici.tsv" 
+            title="Siti Web dei Partiti Politici italiani (su github.com, in nuova finestra)"
+            target="_blank">dataset dei Partiti Politici</a> italiani (su cui abbiamo riscontrato una sorprendente riduzione della sorveglianza USA rispetto ai mesi scorsi!)</li>
+            <li>abbiamo separato <a href="https://github.com/MonitoraPA/monitorapa/tree/main/cli/mail/notify" 
+            title="Template di segnalazione di Monitora PA (su github.com, in nuova finestra)"
+            target="_blank">il contenuto delle mail inviate</a> dallo 
+            <a href="https://github.com/MonitoraPA/monitorapa/blob/main/cli/mail/notify.py" 
+            title="Script di invio delle segnalazioni di Monitora PA (su github.com, in nuova finestra)"
+            target="_blank">script di invio</a>, disaccoppiando quest'ultimo dalla sorgente dati attraverso
+            un semplicissimo sistema di template</li>
+        </ul>
+        <p>
+            Siamo dunque pronti ad orientare il nostro osservatorio anche 
+            <a href="https://monitora-pa.it/2022/07/26/il-luglio-caldo-di-MonitoraPA.html#non-potete-nascondervi">al di fuori della Pubblica Amministrazione</a>.
+        </p>
+        <h1>Google Fonts in vista!</h1>
+        <p>
+            Per il varo del nuovo osservatorio abbiamo deciso di segnalare alle PA
+            che ancora utilizzano Google Fonts il prossimo scadere dei <a href="https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9782874"
+            target="_blank" title="Google: Garante privacy stop all’uso degli Analytics. Dati trasferiti negli Usa senza adeguate garanzie">90 giorni concessi 
+            dall'Autorità Garante per la Protezione dei Dati Personali</a>:
+        </p>
+        <blockquote>
+            Allo scadere del termine di 90 giorni assegnato alla società destinataria del provvedimento, il Garante procederà, 
+            anche sulla base di specifiche attività ispettive, a verificare la conformità al Regolamento Ue dei trasferimenti 
+            di dati effettuati dai titolari.
+        </blockquote>
+        <p>
+            L'inclusione di Google Fonts su un sito web, infatti, determina un trasferimento
+            sistematico verso Google di diversi dati personali dei visitatori, fra cui:
+        </p>
+        <ul>
+            <li>indirizzo IP</li>
+            <li>User Agent</li>
+            <li>sistema operativo</li>
+            <li>lingue conosciute</li>
+            <li>la visita del vostro sito</li>
+            <li>la data e l'ora di tale visita</li>
+            <li>i dati personali descrittivi deducibili dall'incrocio dei dati 
+            precedenti e dall'interesse per i contenuti del vostro sito</li>
+        </ul>
+        <p>
+            Informazioni più che sufficienti, per Google, ad identificare
+            il soggetto interessato e ad arricchirne il profilo
+            cognitivo-comportamentale.
+        </p>
+        <p>
+            Speriamo in questo modo di <strong>aiutare 10.162 Pubbliche Amministrazioni</strong>
+            a ridurre la sorveglianza dei cittadini che vi si affidano nonché a
+            evitare, contestualmente, quella che a due anni dalla sentenza Schrems II,
+            non potrebbe che essere una <strong>severa</strong> sanzione.
+        </p>
+        <h2>Una PEC... per affondare Google Fonts</h2>
+        <pre>
+Subject: [RIF PA04.${Codice_IPA}] Segnalazione di illecito utilizzo di 
+         Google Fonts su ${Sito_istituzionale} e invito a risolvere 
+         la violazione del Regolamento Europeo 2016/679 (GDPR)
+
+All'attenzione di:
+
+- ${Denominazione_ente}, in qualità di 
+  soggetto titolare del trattamento ai sensi dell'art. 4 par. 1 n. 7 - GDPR.
+
+Il sottoscritto Fabio Pietrosanti, nato a Latina il 31/08/1980 
+(codice fiscale: PTRFBA80M31E472W), scrive in proprio ed a nome della 
+comunità di hacker, attiviste, attivisti, cittadine e cittadini che, 
+attenti a riservatezza, libertà e diritti cibernetici, ha realizzato
+Monitora PA (https://monitora-pa.it), eleggendo a domicilio digitale
+l'indirizzo di posta elettronica certificata monitorapa@peceasy.it,
+e a domicilio fisico via Aretusa 34, a Milano.
+
+Vogliamo segnalarvi che, tramite l'esecuzione di agosto del nostro nuovo
+osservatorio automatico distribuito, abbiamo rilevato che il vostro
+Ente incorpora ancora diversi font e css richiesti direttamente ai
+server di Google Fonts nel suo sito ${Sito_istituzionale}, 
+nonostante questo strumento non sia attualmente conforme, in assenza
+di misure tecniche supplementari efficaci, alle disposizioni del GDPR
+in ordine al trasferimento transfrontaliero di dati personali.
+
+L'inclusione di tali risorse determina l'invio sistematico, attraverso
+gli header HTTP trasmessi automaticamente dal browser dei visitatori
+del vostro sito, di diversi dati personali dell'utente verso i server
+di Google, fra cui:
+
+- indirizzo IP
+- User Agent
+- sistema operativo
+- lingue conosciute
+- la visita del vostro sito
+- la data e l'ora di tale visita
+- i dati personali descrittivi deducibili dall'incrocio dei dati 
+  precedenti e dall'interesse per i contenuti del vostro sito
+
+Informazioni più che sufficienti, per Google, ad identificare
+il soggetto interessato e ad arricchirne il profilo
+cognitivo-comportamentale.
+
+Come ben noto anche a seguito della sentenza Schrems II della Corte di
+Giustizia dell'Unione Europea, l'uso Google Fonts non è attualmente
+conforme, in assenza di misure tecniche supplementari efficaci che non
+ci risultano presenti sul vostro sito, alle disposizioni del GDPR in
+ordine al trasferimento transfrontaliero dei dati personali.
+In forza di ciò, il Tribunale di Monaco, con la sentenza definitiva 
+3 O 17493/20  del 19 gennaio 2022 (disponibile all'indirizzo
+https://openjur.de/u/2384915.html ) ha già riconosciuto a 
+un soggetto interessato un risarcimento di 100€ da parte del Titolare 
+del Trattamento che aveva adottato tale strumento, imponendo al
+Titolare stesso l'interruzione immediata delle chiamate verso 
+Google Fonts pena una multa fino 250.000€ ogni sei mesi in caso
+di violazioni future.
+
+Riteniamo quindi che il mantenimento da parte dell'Ente di tale
+trasferimento di dati personali non conforme al disposto normativo,
+in ragione del trasferimento trasfrontaliero di dati personali
+e in assenza di una condizione legittimante ai sensi degli artt. 44
+e ss. GDPR, esponga a rischi ingiustificati tutti i visitatori del
+sito ${Sito_istituzionale}.
+
+Pertanto invitiamo l'Ente in indirizzo a voler provvedere
+alla rimozione di Google Fonts e di qualsiasi altra risorsa incorporata
+nel suddetto sito web che produca effetti analoghi, entro il termine di
+30 giorni dalla ricezione della presente.
+In considerazione del periodo di ferie estive abbiamo infatti ritenuto, 
+in via del tutto eccezionale, di protrarre il consueto termine di 
+ulteriori 15 giorni, anche in considerazione dell'imminente scadenza, 
+il 7 settembre 2022, dei 90 giorni concessi dall'Autorità Garante 
+della Protezione dei Dati Personali per interrompere i trasferimenti 
+trasfrontalieri in violazione del GDPR prima dell'avvio delle ispezioni:
+https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9782874
+
+In alternativa e negli stessi termini, invitiamo l'Ente ad adottare
+misure tecniche supplementari efficaci a protezione dei dati personali
+dei visitatori, tali che nessun dato (o insieme di dati),
+raggiungendone i server, possa permettere a Google di identificare con
+probabilità non trascurabile un qualsiasi cittadino italiano o europeo.
+
+Ci teniamo a precisare che per quanto riguarda Google Fonts, da un
+punto di vista tecnico l'interruzione del trasferimento è piuttosto
+semplice: sarà sufficiente installare sul vostro server web suddette
+risorse e modificare le pagine del vostro sito affinché le incorporino 
+attraverso chiamate locali invece di richiederle ai server di Google.
+
+Il supporto del web master del vostro sito sarà sicuramente risolutivo
+anche per tutti gli altri trasferimenti analoghi.
+
+In difetto di ottemperanza da parte Vostra nei termini su indicati
+agli obblighi di legge in materia di trattamento dei dati personali,
+ci vedremo costretti a inviare una segnalazione al Garante per la
+protezione dei dati personali, ai sensi e per gli effetti
+dell'art. 144 del Codice in materia di protezione dei dati personali
+(DECRETO LEGISLATIVO 30 giugno 2003, n.196 e successive modifiche
+e integrazioni) per una valutazione della Vostra condotta anche ai
+fini dell'emanazione di eventuali provvedimenti di cui
+all'art. 58 del GDPR.
+
+Rimaniamo a disposizione per ulteriori chiarimenti.
+
+
+Con osservanza.
+
+Distinti saluti
+
+
+Fabio Pietrosanti
+Co-fondatore di Monitora PA
+https://monitora-pa.it
+
+Con il sostegno di:
+
+- Hermes Center, Associazione con sede in Via Aterusa n. 34, 20129
+  Milano, in persona del legale rappresentante p.t Fabio Pietrosanti  
+  C.F. 97621810155 https://www.hermescenter.org/
+- LinuxTrent, Associazione con sede in Via Marconi n. 105, 38057
+  Pergine Valsugana, in persona del legale rappresentante p.t Roberto
+  Resoli C.F. 96100790227 https://www.linuxtrent.it/
+- Open Genova, Associazione con sede in Piazza Matteotti n. 5
+  c/o Mentelocale.it, 16123 Genova, in persona del legale
+  rappresentante  p.t Pietro Biase C.F. 95165570102
+  https://associazione.opengenova.org/
+- AsCII, Associazione con sede in Via del Mare n.108, 80016
+  Marano di Napoli, in persona del legale rappresentante p.t Avvocato
+  Marco Andreoli C.F. 94200750639 https://www.ascii.it/
+- AsSoLi, Associazione con sede in Via San Quintino n. 32, 10121
+  Torino, in persona del legale rappresentante p.t Angelo Raffaele Meo
+  C.F. 94082140487 https://www.softwarelibero.it/
+
+        </pre>
+        
+        </section>
+    </main>
+
+    <footer>
+        <nav class="inline">
+            <span>Contattaci:</span>
+            <a class="" title="Scrivici una PEC a monitorapa@peceasy.it" href="mailto:monitorapa@peceasy.it">
+                <i class="icon-email"></i> PEC
+            </a>
+            <a href="https://friendica.opencloud.lu/profile/monitorapa" 
+                title="Vai alla pagina del progetto su Friendica (apre una nuova finestra)"
+                target="_blank">Fediverse</a>
+            <a href="https://matrix.to/#/%23MonitoraPA:matrix.opencloud.lu" 
+                title="Vai al canale del progetto su Matrix (apre una nuova finestra)"
+                target="_blank">Matrix</a>
+            <a href="https://t.me/monitoraPA" 
+                title="Vai al canale del progetto su Telegram (apre una nuova finestra)"
+                target="_blank">Telegram</a>
+            <a href="https://github.com/MonitoraPA/" 
+                title="Vai al progetto su Github (apre una nuova finestra)"
+                target="_blank">Sorgenti</a>
+            <a href="LICENSE.txt" 
+                title="Leggi la licenza/contratto di utilizzo (apre una nuova finestra)"
+                target="_blank">Hacking License</a>
+
+        </nav>
+    </footer>
+
+</body>
+
+</html>

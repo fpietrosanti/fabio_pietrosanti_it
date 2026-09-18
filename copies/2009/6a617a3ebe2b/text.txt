@@ -1,0 +1,87 @@
+Iphone jailbreaking crashing towers? FUD! at Playhouse of privacy, innovations and some business stuff 
+
+ author & blog 
+
+ « chinese espionage: the worst and more silent threat for western countries 
+ Russia: the best worldwide place for cybercrime business » 
+
+ Iphone jailbreaking crashing towers? FUD! 
+
+ Published by naif July 30th, 2009 
+
+ in business , security and technology . 
+ 0  Comments 
+
+ It’s interesting to read a news about an anti-jailbreaking statement by apple that say that with jailbreaked phones it may be possible to crash mobile operator’s towers:
+
+ By tinkering with this code, “a local or international hacker could potentially initiate commands (such as a denial of service attack) that could crash the tower software, rendering the tower entirely inoperable to process calls or transmit data,” 
+
+ So fun, as the Baseband Processor interface of iPhone is precisely the same of Google android and all Windows Mobile powered devices: 
+
+ Basically the operating system use AT commands (do you remember old hayes modem commands?) with additional parameters documented and standardized by 3GPP that let more deep (but not that much deep) interaction with the mobile networks. 
+
+ Please note that those AT commands are standard and widely available on all phones and are the interface to the Baseband Processor . 
+
+ On iPhone that’s the list of commands that an from apple point of view could let “a international hacker to crash the tower software” : 
+
+ Undocumented commands on iPhone 
+
+ Damn, those European anarchist of Nokia are providing publicly also their AT command sets, and are AVAILABLE TO ANYONE: 
+
+ Nokia AT Commands 
+
+ Oh jesus! Also the terrorist oriented Microsoft corporation let third party to use AT commands: 
+
+ Windows Mobile AT Commands 
+
+ It’s absolutely unacceptable that also RIM, canadian funky against USA, provide access to AT commands: 
+
+ Blackberry AT commands 
+
+ And it’s unbelivable to see that Google Android also document how the system speak to the Baseband Processor and find on forums that it’s ease to access it: 
+
+ Google Android Basedband Processor 
+
+ Not to speak to ALL other mobile manufactuer that use the very same approach and let any party to speak via AT commands to the baseband processor of the phone. 
+
+ Is the baseband processor of iphone buggy and the AT&T tower software buggy so that it’s dangerous to let the user make experiment with it? 
+
+ Probably yes, and so those are only excuse because the software involved are not robust enough.
+
+ Apple, be careful, you have the trust of your users because you are apple you always have done things for the user advantages. 
+
+ Users does like telephone companies that are huge lobbies that try to restrict and control users as much as possible. 
+
+ If you, Apple, start behaving like a phone company users will not trust you anymore. 
+
+ Be careful with FUD statements. 
+
+ 0 Responses to “Iphone jailbreaking crashing towers? FUD!”
+
+ Feed for this Entry 
+
+ No Comments 
+
+ Leave a Reply
+
+ Name 
+
+ Mail (will not be published) 
+
+ Website 
+
+ XHTML: You can use these tags <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong> : 
+-->
+
+ « chinese espionage: the worst and more silent threat for western countries 
+ Russia: the best worldwide place for cybercrime business » 
+
+ Search
+
+ Post Meta
+
+ Playhouse of privacy, innovations and some business stuff is powered by WordPress abc and Unwakeable 1.2.1 
+
+ Prepared In: 0.398 sec. w/ 24 queries.
+
+ RSS Entries and RSS Comments

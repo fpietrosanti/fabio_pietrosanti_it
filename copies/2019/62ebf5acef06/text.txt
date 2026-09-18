@@ -1,0 +1,682 @@
+Arturo di Corinto su Internet Governance, Open Source e diritti digitali nell'innovazione tecnologica 
+
+ -->
+
+ Home 
+
+ Chi sono 
+
+ Contatti 
+
+ Libri e DVD 
+
+ Immagini 
+
+ CV and Profile 
+
+ Letture 
+
+ Regionali 2013 
+
+ Inserisci i termini di ricerca 
+
+ Invia modulo di ricerca 
+
+ Web 
+ www.dicorinto.it 
+
+-->
+
+ AGI: I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire
+
+ I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire 
+
+ Anche la catena a blocchi ha dei difetti che possono essere sfruttati da hacker malintenzionati, difetti che aumentano il rischio di elezioni non democratiche e falsificabili
+
+ di ARTURO DI CORINTO per AGI del 9 Marzo 2019
+
+ “Ne abbiamo parlato tanto, lo abbiamo pensato, immaginato, sperato, sognato. E ora c’è. Stiamo parlando del voto su blockchain, la nuova frontiera della democrazia diretta che consente di utilizzare la Rete in un nuovo modo”.
+
+ Con questa dichiarazione Davide Casaleggio, guru tecnologico del Movimento 5 Stelle e presidente (e fondatore) dell’associazione Rousseau, ha annunciato per oggi un hackhaton al Villaggio Rousseau per presentare “ la prima versione funzionante di un sistema di voto su blockchain che garantisce l’anonimato e permette una certificazione distribuita del voto”. 
+
+ Bene, bravo, bis. Il metodo in queste cose è importante.
+
+ Perché è importante la trasparenza del software di voto
+
+ Casaleggio afferma di volere rendere disponibile il codice sorgente del software per il voto, e chiama a raccolta hacker e specialisti per testarlo e migliorarlo. Niente di eccezionale, direte, è il modo in cui funziona  da sempre la produzione di software se il codice non è proprietario e coperto da segreto industriale. E consentire l’analisi del codice è il modo migliore per coinvolgere specialisti e programmatori. È una furbata, dirà qualcuno, perché laddove non arrivano i tuoi programmatori, intervengono gli altri ad aiutarti, per sfida intellettuale, divertimento o ideologia. In questo caso gli “hacker” ti aiutano a testare, modificare e migliorare un prodotto che più di altri – è un software di voto – deve essere semplice da usare e verificabile. 
+
+ “Sperimenteremo le prime votazioni blockchain anonime e con certificazione distribuita. Una prima mondiale per questo tipo di tecnologia che spero diventerà un punto di partenza per lo sviluppo di nuovi modelli di voto democratico e di partecipazione diretta alla vita pubblica”.
+
+ La prima volta? Nello stesso post sul Blog delle Stelle scrive invece che di esempi ce ne sono già: “Negli ultimi mesi abbiamo ragionato molto su come il voto potesse essere gestito su blockchain. Per farlo abbiamo studiato tutti i casi a livello internazionale, analizzando le debolezze e le criticità, ma anche i grandi vantaggi che sono stati introdotti nelle varie sperimentazioni nel mondo. Abbiamo preso il meglio e siamo andati oltre.” Ecco, di criticità ne sono note tante, al punto che le democrazie che hanno sperimentato questo tipo di voto ci hanno rinunciato.
+
+ I dubbi sull’affidabilità del voto elettronico
+
+ Ora, se la piattaforma di voto elettronico, con blockchain o senza, è usata per decidere i destini di un’associazione privata è pacifico – l’Ordine dei Giornalisti ad esempio vota online – ma pensare di usare il voto elettronico per le competizioni politiche non va proprio bene. Per un motivo ineludibile nelle democrazie rappresentative: il voto è vincolante in ambiti costituzionali, e per tre fattori che neanche la blockchain può garantire: il voto deve essere segreto, verificabile e non può essere oggetto di scambio .
+
+ Come può la blockchain garantirlo? La catena a blocchi, questo registro distribuito e replicato sui computer di tutti quelli che vi contribuiscono, è un sistema che garantisce l’immutabilità delle registrazioni e un’elevata affidabilità nelle transazioni, ad esempio di monete come i bitcoin, ma le transazioni sono “pseudoanonime”, nel senso che è sempre possibile risalire al “portafoglio” di chi partecipa alla transazione pur senza sapere di chi si tratti. Può funzionare per certificare il voto? Chi mi garantisce che votando da casa con la blockchain io non sia ricattato da qualcuno che mi alita sul collo?
+
+ La blockchain ha caratteristiche di inalterabilità, ma anche la blockchain può essere attaccata. Solo in presenza di meccanismi di garanzia potrebbe essere usata per il voto ad esempio consentendo a persone qualificate la verificabilità del voto espresso e registrato. Anche qui però, come garantire che il voto non sia manipolato elettronicamente una volta registrato e riportato alla sua origine dopo il conteggio e l’attribuzione cancellando le prove della manipolazione? Falsificare un voto cartaceo come raccontato da Roberto Saviano si può fare con la coercizione e un controllo capillare del territorio, come pure hanno fatto i signori delle tessere dei partiti, ma il livello di scala della manipolazione elettronica è potenzialmente di gran lunga superiore.
+
+ I limiti del voto elettronico
+
+ Proprio in uno studio dei Copernicani , associazione di innovatori digitali, viene ricordato il paradosso della trasparenza per cui la verificabilità diretta che non coinvolge terze parti fidate implica la possibilità di introduzione del voto di scambio, limitandone l’utilizzo nei processi democratici istituzionali in cui la confidenzialità è un requisito assoluto .
+
+ È Stefano Quintarelli che ci spiega come, nei processi democratici istituzionali, le operazioni di voto eseguite in presenza di seggi elettorali ‘fisici’, in linea teorica potrebbero avvalersi di strumenti di voto elettronico senza la traccia cartacea:
+
+ solo se utilizzassero tecniche di prove della computazione e del corretto immagazzinamento dei dati;
+
+ solo se le persone disponessero di strumenti verificati e verificabili e di un livello di competenza adeguata per effettuarne una verificabilità autonoma;
+
+ solo se la filiera logistica fosse controllata gestendo tutta la catena di fiducia dalla fornitura dell’hardware in poi, fino alla dismissione delle macchine e alla loro formattazione;
+
+ solo se tutto il procedimento fosse controllato e verificato da terze parti di garanzia.
+
+ I Paesi che ci hanno rinunciato
+
+ Le esperienze realizzate ad oggi nel mondo hanno dimostrato criticità in uno o più di di questi elementi ed il consenso degli esperti è che i sistemi più efficaci ed efficienti siano basati sulla verificabilità del voto carta e matita.
+
+ Sentiamo infatti ancora l’eco di quello che è accaduto in Estonia dove la registrazione e l’identificazione dell’elettore avvengono mediante la carta d’identità elettronica, carta che si è successivamente rivelata difettosa e subito ritirata dal Governo il 3 novembre 2017. D’altra parte paesi come Norvegia, Germania, Francia e Canada anche dopo alcuni test, hanno rinunciato proprio al voto online, per motivi di sicurezza. Il contrario di quello che però hanno fatto a Tsukuba, città giapponese che ha di recente adottato la catena a blocchi per le elezioni municipali. Negli USA sono innumerevoli gli esempi di manipolazione del voto elettronico che hanno causato l’intervento del FBI e dei servizi di sicurezza che ne hanno sconsigliato l’uso.
+
+ Anche la blockchain può fallire
+
+ A questo proposito netta è l’opinione di Fabio Pietrosanti, direttore di Hermes, centro per la trasparenza e tra i fondatori di Globaleaks : “Nel caso di Rousseau non è tecnicamente possibile offrire alcuna garanzia, anche in presenza di certificatori terzi, che la base dati o l’applicativo web di raccolta delle espressioni di voto abbia mantenuto la sua integrità durante i processi di consultazione, neanche tramite l’introduzione della tecnologia blockchain annunciata da Casaleggio.”
+
+ È lo stesso Pietrosanti che afferma: “affinché ‘ci si possa fidare’, un sistema di voto elettronico per finalità non elettive dovrebbe:
+
+ Essere basato su software libero, realizzato e manutenuto con il contributo di tutti;
+
+ Essere gestito da una pluralità di soggetti per la verifica indipendente in qualunque momento.
+
+ Essere oggetto di analisi specialistiche e accademiche, con relativa peer-review.
+
+ Nelle intenzioni di Casaleggio dovrebbero essere garantiti i primi due elementi, il terzo si vedrà. Ricordando che per definizione ogni software ha un bug , una vulnerabilità, un difetto di funzionamento, e che anche la blockchain ce l’ha. Noi non abbiamo dubbi, lo sappiamo per certo.
+
+Pubblicato da Arturo Di Corinto , il 9 March 2019 
+
+ Categorie: AGI , Cybersecurity , Diritti digitali , Free software , Hacker , Innovazione tecnologica , privacy 
+
+ Lascia un commento
+
+ Devi essere loggato per poter inviare un commento.
+
+ ©2007-2009 Arturo Di Corinto| Progetto grafico di Lorenzo De Tomasi [ Copia questo tema ] | Powered by Wordpress 
+
+ xhtml css rss 
+
+ This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More 
+ Privacy & Cookies Policy 
+
+ Open Source e diritti digitali nell’innovazione tecnologica
+
+ Blogroll
+
+ Aaron Swartz 
+
+ Alessandro Gilioli 
+
+ Art Is Open Source 
+
+ Articolo 21 
+
+ Ass. Linux Club Italia 
+
+ Ass. Software Libero 
+
+ Chelsea Manning Support Network 
+
+ Creativecommons 
+
+ EFF 
+
+ Emanuele Martorelli 
+
+ EPIC 
+
+ Free Hardware Foundation 
+
+ Frontiere Digitali 
+
+ Frontiere Digitali Wiki 
+
+ FSF 
+
+ Hacker Culture 
+
+ hypertv 
+
+ Internet Defense League 
+
+ Isotype 
+
+ Luca De Biase 
+
+ Nicola D’Angelo 
+
+ Nòva24 
+
+ OpenMedia 
+
+ Peacereporter 
+
+ Rassegna Stanca 
+
+ Reporter without Borders 
+
+ Roberto Galoppini 
+
+ torproject 
+
+ Violapost 
+
+ Wikileaks 
+
+ Wikimedia 
+
+ Wikipedia 
+
+ Categories
+
+ Anonymous (13)
+
+ Associazionismo (16)
+
+ Fondazione Rosselli (1)
+
+ CATTID (5)
+
+ Culturalazio.it (4)
+
+ English (13)
+
+ Eventi (268)
+
+ Conferenze (182)
+
+ Incontri (71)
+
+ Riunioni (2)
+
+ Seminari (36)
+
+ Formato (63)
+
+ Audio (17)
+
+ Immagini (2)
+
+ Multimedia (7)
+
+ Testo (9)
+
+ Video (44)
+
+ Free Hardware Foundation (13)
+
+ FRONTIERE DIGITALI (3)
+
+ I nemici della rete (9)
+
+ Insegnamento (11)
+
+ Equal (2)
+
+ Libri e DVD (25)
+
+ Media (1)
+
+ Personale (14)
+
+ Petizioni (9)
+
+ Politica (21)
+
+ Net Left (3)
+
+ Sinistraelibertà (5)
+
+ SELMADE (1)
+
+ Premi ricevuti (3)
+
+ Progetti (6)
+
+ Pubblica amministrazione (26)
+
+ Regionali 2013 (104)
+
+ eventi (13)
+
+ pagine (16)
+
+ scritti (1)
+
+ slide (8)
+
+ testimonial (30)
+
+ video (18)
+
+ sbilanciamoci (3)
+
+ segnalazioni (143)
+
+ Software libero (22)
+
+ Studi e ricerche (18)
+
+ Censis (3)
+
+ Temi (923)
+
+ ACTA (3)
+
+ Agenda Digitale (9)
+
+ AGID (12)
+
+ Anonymous (28)
+
+ brevetti (7)
+
+ copyright (155)
+
+ Crittografia (44)
+
+ Cybersecurity (136)
+
+ Diritti digitali (555)
+
+ e-gov (48)
+
+ Enit (2)
+
+ Free software (155)
+
+ Hacker (112)
+
+ Innovazione tecnologica (175)
+
+ Internet (3)
+
+ Internet Bill of Rights (12)
+
+ Internet Governance (138)
+
+ ohmynews (2)
+
+ Open source (137)
+
+ privacy (203)
+
+ Promuovitalia (7)
+
+ Social networks (51)
+
+ Web (3)
+
+ Wikileaks (3)
+
+ Testate giornalistiche (891)
+
+ AgendaDigitale.Eu (1)
+
+ AGI (15)
+
+ Aidem (2)
+
+ Altreconomia (1)
+
+ Apogeo (5)
+
+ Aprile (11)
+
+ Aprileonline (55)
+
+ ArciReport (3)
+
+ area.cinquantuno (3)
+
+ Articolo 21 (22)
+
+ Bancaforte (1)
+
+ Blog.cultura (1)
+
+ Carnet (13)
+
+ Carta (1)
+
+ Che Futuro! (36)
+
+ Cometa (1)
+
+ Corriere delle comunicazioni (2)
+
+ CyberSecurity (81)
+
+ Emergency (12)
+
+ Emergency – il blog (3)
+
+ Espresso (22)
+
+ Fondazione (1)
+
+ Formiche (2)
+
+ Huffington Post (4)
+
+ Il Fatto Quotidiano (9)
+
+ Il Manifesto (179)
+
+ Il secolo della rete (1)
+
+ ilsole24ore (40)
+
+ Infoxoa (1)
+
+ Key4Biz (2)
+
+ L'unità on line (6)
+
+ La Nuova Ecologia (1)
+
+ LaStampa.it (2)
+
+ Liberazione (13)
+
+ loop (1)
+
+ Loop Magazine (1)
+
+ mediazone (1)
+
+ Peace Reporter (29)
+
+ PiovonoRane (1)
+
+ Punto-Informatico (5)
+
+ Quinto Stato (4)
+
+ Radio Articolo 1 (1)
+
+ Radio Colonia (1)
+
+ RAI4 (1)
+
+ RaiNews24 (1)
+
+ RaiUno (3)
+
+ REPUBBLICA (5)
+
+ Repubblica delle Donne (2)
+
+ Repubblica.it (240)
+
+ Startupitalia (1)
+
+ The Next Tech (10)
+
+ Wired (31)
+
+ Zeus news (3)
+
+ Tipologia (112)
+
+ Dvd (2)
+
+ Inchieste (7)
+
+ Interviste (64)
+
+ Libri (24)
+
+ Pensieri e idee (5)
+
+ Presentazioni (18)
+
+ Archives
+ Archives 
+
+ Select Month 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ October 2012 
+ September 2012 
+ August 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ December 2011 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ December 2004 
+ November 2004 
+ October 2004 
+ September 2004 
+ August 2004 
+ July 2004 
+ June 2004 
+ May 2004 
+ April 2004 
+ March 2004 
+ February 2004 
+ January 2004 
+ December 2003 
+ November 2003 
+ October 2003 
+ September 2003 
+ August 2003 
+ July 2003 
+ June 2003 
+ May 2003 
+ April 2003 
+ March 2003 
+ February 2003 
+ January 2003 
+ December 2002 
+ November 2002 
+ October 2002 
+ September 2002 
+ August 2002 
+ July 2002 
+ June 2002 
+ April 2002 
+ March 2002 
+ February 2002 
+ January 2002 
+ December 2001 
+ November 2001 
+ September 2001 
+ August 2001 
+ July 2001 
+ June 2001 
+ May 2001 
+ March 2001 
+ January 2001 
+ December 2000 
+ November 2000 
+ October 2000 
+ June 2000 
+ March 2000 
+ January 2000 
+ December 1998 
+
+ Le mie pagine
+
+ Contatti 
+
+ Immagini 
+
+ CV and Profile 
+
+ Letture 
+
+ Chi sono 
+
+ [:en]Cookies In Use on This Site[:it]Cookies in uso su questo sito[:]

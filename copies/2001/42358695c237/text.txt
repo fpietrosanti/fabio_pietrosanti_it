@@ -1,0 +1,122 @@
+Vulnerability Development: Cisco PIX Firewall MailGuard Vulnerability 
+
+ Nmap Security Scanner 
+
+ Intro 
+
+ Ref Guide 
+
+ Install Guide 
+
+ Download 
+
+ Changelog 
+
+ Book 
+
+ Docs 
+
+ Security Lists 
+
+ Nmap Hackers 
+
+ Nmap Dev 
+
+ Bugtraq 
+
+ Full Disclosure 
+
+ Pen Test 
+
+ Basics 
+
+ More 
+
+ Security Tools 
+
+ Pass crackers 
+
+ Sniffers 
+
+ Vuln Scanners 
+
+ Web scanners 
+
+ Wireless 
+
+ Exploitation 
+
+ Packet crafters 
+
+ More 
+
+ Site News 
+
+ Advertising 
+
+ About/Contact 
+
+ Exceptional Links 
+
+ Good Reading 
+
+ Exploit World 
+
+-->
+ Sponsors: 
+
+ Vulnerability Development 
+mailing list archives 
+
+    By Date    
+
+    By Thread    
+
+ Cisco PIX Firewall MailGuard Vulnerability 
+
+ From : "Fabio Pietrosanti (naif)" <naif () sikurezza org>
+
+ Date : Tue, 25 Sep 2001 12:05:56 +0200
+
+ Hi,
+
+i have received the advisory from cisco about the vulnerability in the subject
+described here:
+ http://www.cisco.com/warp/public/707/PIXfirewallSMTPfilter-pub.shtml 
+
+I discovered the old mailguard vulnerability, and i would like to know if
+someone could explain in details about this new kind of attack against SMTP
+filter .
+
+Regards
+
+-- 
+
+Fabio Pietrosanti ( naif )
+E-mail: naif () sikurezza org - naif () blackhats it
+PGP Key (DSS) http://naif.itapac.net/naif.asc 
+--
+Free advertising: www.openbsd.org Multiplatform Ultra-secure OS
+Free Flame: IPFilter sucks ! 
+
+    By Date    
+
+    By Thread    
+
+ Current thread: 
+
+ Cisco PIX Firewall MailGuard Vulnerability Fabio Pietrosanti (naif) (Sep 25) 
+
+ RE: Cisco PIX Firewall MailGuard Vulnerability Jerome Tytgat (Sep 25) 
+
+ Re: Cisco PIX Firewall MailGuard Vulnerability Fabio Pietrosanti (naif) (Sep 27) 
+
+ RE: Cisco PIX Firewall MailGuard Vulnerability Jerome Tytgat (Sep 27) 
+
+[ Nmap |
+ Sec Tools |
+ Mailing Lists |
+ Site News |
+ About/Contact |
+ Advertising |
+ Privacy ]

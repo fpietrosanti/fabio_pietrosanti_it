@@ -1,0 +1,17 @@
+Implement user-defined SSL Ciphers and TLS version
+https://gitlab.torproject.org/tpo/core/tor/-/work_items/6268
+opened 2012-07-01T10:38:07.000Z by naif · state closed · closed 2017-05-26T17:38:03.000Z
+
+In order to acquire better tactical speed against possibly censorship actions based on SSL Ciphers and/or TLS version fingerprint, this ticket propose to make them configurable.
+
+The default Torrc would include the default SSL Ciphers configuration and TLS version support.
+
+The SSL ciphers configuration should be:
+
+- SSL Cipher List
+- SSL Cipher Order
+- SSL/TLS Version supported
+
+The configuration should follow the parameters defined by OpenSSL http://www.openssl.org/docs/apps/ciphers.html .
+
+[comments not saved: the API requires login for notes]

@@ -1,0 +1,11 @@
+{
+ "source_url": "https://gitlab.torproject.org/tpo/core/tor/-/work_items/17975",
+ "fetched_url": "api",
+ "method": "api",
+ "capture": null,
+ "content_type": "application/json",
+ "bytes": 3779,
+ "sha256": "b81deb642b9246158a44a0edc1b2527bc9335ed1c790394b8dee37ce9bf6aa77",
+ "name_found": true,
+ "fetched_at": "2026-09-18T10:29:18+00:00"
+}

@@ -1,0 +1,11 @@
+{
+ "source_url": "https://github.com/avast/retdec/issues/29",
+ "fetched_url": "api",
+ "method": "api",
+ "capture": null,
+ "content_type": "application/json",
+ "bytes": 8822,
+ "sha256": "5925cf83980df606c22126b020972c3949a0fcadd1477a10f94255b49944a758",
+ "name_found": true,
+ "fetched_at": "2026-09-18T10:17:21+00:00"
+}

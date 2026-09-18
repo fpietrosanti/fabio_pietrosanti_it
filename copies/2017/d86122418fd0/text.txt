@@ -1,0 +1,272 @@
+Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Cloud" - Repubblica.it 
+
+ Repubblica.it 
+
+ Social Network 
+
+ Navigazione principale
+
+ Home 
+
+ News 
+
+ Speciali 
+
+ Mobile 
+
+ Social Network 
+
+ Sicurezza 
+
+ Prodotti 
+
+ Interattivi 
+
+ Video 
+
+ Datagate » 
+
+ precedente 
+ successivo 
+
+ Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, 
+
+ Wikileaks, Cnn: gli Usa aprono indagine penale sullo spionaggio tecnologico 
+
+ Putin pronto a "regalare" Snowden a Trump. Lui su Twitter: "Non mi fermerò" 
+
+ Wikileaks, Assange cambia idea: non si consegnerà agli Usa 
+
+ Nsa, nuovo caso Snowden: "Contractor arrestato potrebbe aver rubato codici 
+
+ Yahoo sotto accusa per milioni di email spiate per conto degli 007 Usa 
+
+ Referendum, il 65 per cento degli svizzeri ha votato per la sorveglianza 
+
+ Congresso Usa: "No grazia a Snowden, non è whistleblower ma frustrato e 
+
+ Il caso Snowden secondo Stone: "Perché fa paura questa tipica storia americana?" 
+
+ Caso Nsa, la risposta di Obama: firmata legge sulla privacy dei cittadini 
+
+ Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Cloud"
+
+ (ansa) 
+
+ Know how, librerie software, toolkit, firmware e zero days: gli esperti valutano l'arsenale informatico con cui l'intelligence Usa - dopo le recenti rivelazioni - può sorvegliare il mondo. Ma chiedono anche all'organizzazione di Assange: perché dalla Cina e dalla Russia non arriva niente?
+
+ di ARTURO DI CORINTO 
+
+ 08 marzo 2017 
+
+ "SECONDO me si tratta di uno scandalo di proporzioni notevoli per il clamore che ha suscitato, ma sapevamo già di essere tutti sorvegliati". E se lo dice un ex membro di Hacking Team c'è da crederci. La sua ex azienda infatti produce le italianissime tecnologie di sorveglianza di cui si parla nei documenti della Cia diffusi da Wikileaks . L'hacker, che chiede di rimanere anonimo e che chiameremo Giacomo (nome di fantasia), ci ha lavorato a lungo nell'azienda fino a quando questa è stata "derubata" del know how delle sue tecnologie di punta da alcuni cyberattivisti.
+
+"I documenti che ne parlano - spiega - sono utili a chiunque. Che la Cia si interessasse a noi non è una novità. Sapevano che - sia da un punto di vista tecnico che informativo - i documenti di Hacking Team possono svelare molte cose sul modo in cui si fa spionaggio informatico. Ma se si leggono i leaks si trovano informazioni su strumenti, toolkit e librerie informatiche grazie a cui potenzialmente ogni dispositivo digitale può essere tracciato, manipolato e usato contro il suo possessore". E tuttavia, come è stato ribadito dall'organizzazione di Julian Assange , Wikileaks non ha diffuso i codici eseguibili di questi software e neppure i nomi di chi li usa. E questo per "proteggerli". "Nei documenti trapelati non ci sono evidenze tecniche dettagliate della pericolosità reale dell'arsenale informatico diffuso da Wikileaks come invece è accaduto nel caso della diffusione dei codici sorgente delle cyberarmi della National Security Agency americana divulgati dagli Shadow brokers . E non ci sono nemmeno le tecniche di attacco e le pratiche di sorveglianza descritte da Edward Snowden durante il DataGate ".
+
+Ma forse stavolta c'è qualcosa di diverso. Wikileaks sostiene che grazie a quei software la Cia è in grado di sorvegliarci dalla tv nel salotto e dall'Internet delle cose, e aggirare le difese crittografiche dei telefonini e delle app per le conversazioni segrete. A ben guardare si potrebbe trattare di trucchi abbastanza semplici, di tecniche già note per intervenire su dispositivi non protetti: "Come quando grazie a un jailbreak tu hai accesso a tutti i dati e agganciarti alla funzione di WhatsApp che legge dal microfono non è poi così difficile per un hacker. E poi i messaggi li scrivi in chiaro prima che vengano cifrati. Sulle brochure di hacking team c'era scritto 'intercetta il dato prima che sia cifrato'".
+
+La tesi dell'hacker italiano è netta. Forse ha ragione, in fondo è scontato che nella Cia si lavori a queste cose, come in tutti i centri di ricerca di cyberintelligence. Ma allora dov'è lo scandalo? Secondo Fabio Pietrosanti , giovane esperto di sicurezza ed hacker etico, "il valore di questo leak è quello di aiutarci a capire l'importanza dell' Internet of things , cioè del fatto che siamo ormai circondati da dispositivi intelligenti e non ci rendiamo conto di quali e quanti siano i punti d'ingresso nella nostra vita privata per uno spione che è interessato a noi". La pensa così anche Pierluigi Paganini , advisor del governo italiano sui temi della cybersecurity: "Le rivelazioni di WikiLeaks non sorprendono, bensì confermano quanto diciamo da sempre. La nostra superficie di attacco si allarga sempre più grazie all'Internet delle Cose, il mobile ed il Cloud computing. È quindi naturale che un organizzazione statale sviluppi metodi e prodotti idonei a far fruttare le nuove tecnologie". Secondo Mirko Gatto di Yarix "si deve prendere atto che non esistono smartphone immuni a intercettazioni sia attive che passive, nemmeno nel caso dei più evoluti Blackphone (i crittofonini, ndr ), concepiti proprio per garantire la massima riservatezza nelle comunicazioni."
+
+Non è per niente d'accordo Giacomo secondo cui "Dopo l'orsacchiotto e la bambolina col software che registra i bambini, adesso anche la nonna sarà preoccupata e questo indurrà i media a parlarne in chiave allarmistica. E questo non aiuterà una serie riflessione sulla società della sorveglianza generalizzata in cui viviamo". Di fronte alla consapevolezza che la sicurezza di un sistema al 100% non esiste, risulta dunque importante valutare quanto importante sia l'informazione da proteggere e allo stesso tempo quale sia lo sforzo richiesto per l'intercettazione del target da parte dell'eventuale attaccante.
+
+E infatti, secondo Stefano Zanero , professore al Politecnico di Milano, queste rivelazioni forse possono cambiare la percezione della minaccia nel comune cittadino, ma per gli esperti del settore non sono una novità come accadde con Snowden. "Quello che importa ora è capire se le tecniche in uso alla Cia sono nuove perché gli exploit (lo sfruttamento delle vulnerabilità informatiche, ndr ) di automobili e cellulari non lo sono; e poi bisogna capire quali metodiche adottavano e cioé quali i bersagli, quali caratteristiche, in quali territori e via di questo passo. È l'intensità della minaccia che preoccupa, non la minaccia in sé. Zanero si riferisce al modo in cui lavorano la Nsa e la Cia e ci spiega che mentre la prima "fa pesca a strascico di tutte le informazioni che può intercettare, la Cia usa strumenti e metodiche targeted per individuare, sorvegliare ed eventualmente bloccare certi soggetti e non altri, come terroristi e agenti nemici. La tesi somiglia a quella di Giacomo dell'Hacking Team: "Perché nessuno pensa che si tratta di tecnologie sviluppate per acchiappare i terroristi? È un leak inutile e il suo tempismo è curioso e ancora una volta riguarda sempre e solo gli States. Perché dalla Cina e dalla Russia non arriva niente?"
+
+Insomma, non è solo questione di diritti violati. Anche Pietrosanti e Zanero puntano il dito sulla curiosa tempistica dell'operazione in un momento in cui la Cia sta cercando di contenere Donald Trump con le imbarazzanti rivelazioni del RussiaGate, una vicenda dai tratti oscuri che coinvolge i suoi più stretti collaboratori e il rapporto che li lega a funzionari e diplomatici russi.
+
+ Tags
+
+ Argomenti: 
+ hacking team 
+ cia 
+ WikiLeaks 
+ hacker 
+ Nsa 
+ datagate 
+ yarix 
+
+ Protagonisti: 
+ Julian Assange 
+ Edward Snowden 
+ Fabio Pietrosanti 
+ Pierluigi Paganini 
+ Mirko Gatto 
+ Stefano Zanero 
+
+ © Riproduzione riservata 
+ 08 marzo 2017 
+
+ Tom's Hardware news, test e guide 
+
+ IBM, l'hard disk più piccolo al mondo è un atomo 
+
+ IBM ha inserito un bit di informazione all'interno di un atomo, raggiungendo un livello di densità di archiviazione mai ottenuto prima.
+
+ Qual è l'Italia Digitale che vorresti? Immagina. Puoi 
+
+ Quali servizi online vorresti dalla Pubblica Amministrazione? Quali problemi riscontri? l'Italia Digitale che vorresti. Compila il questionario...
+
+ Vedi tutte » 
+
+ I più letti 
+
+ I più condivisi 
+
+ Leicester, una città in festa fino all'alba. Ranieri: "Sono vecchio, titolo indimenticabile" 
+
+ Renzi: "Tagli all'Irpef per aiutare le famiglie e stop al bollo auto" 
+
+ Regno Unito, Sadiq Khan conquista Londra. Ma il Labour sprofonda in Scozia 
+
+ "Fermare Renzi", bufera sul consigliere Csm Morosini. Colloqui tra Legnini e Mattarella 
+
+ Vitalizi ai parlamentari, Boeri: "Con il contributivo si ridurrebbero del 40%" 
+
+ Leicester, Ranieri: "Sapevo che un giorno avrei vinto uno scudetto" 
+
+ Meno trentenni e più culle vuote. "Così l'Italia perde una mamma su cinque" 
+
+ Fisco, Soru si dimette dopo la condanna a tre anni per evasione fiscale 
+
+ Australia, l'onda si abbatte sul traghetto: lo scatto perfetto del marinaio 
+
+ Una donna col niqab e una drag queen: lo scatto nel metrò di New York divide l'America 
+
+ 'Meridionali's Kalma', la parodia 'pezzotta dedicata ai i terroni' 
+
+ Virali sì, ma non bellissime 
+
+ Malta, crolla la Finestra Azzurra: tutta colpa di una tempesta 
+
+ Il furbetto della spazzatura incastrato dalle telecamere, il sindaco lo manda in onda su Facebook 
+
+ L'ironia dei napoletani per sdrammatizzare la sconfitta con la Juve 
+
+ Prato Nevoso, sciatori sulla seggiovia in balia del vento salvati dal soccorso alpino 
+
+ la Repubblica 
+
+ Il mio libro 
+
+ LA PROMOZIONE 
+ Pubblicare un libro gratis
+
+ Pubblicare un libro 
+
+ Corso di scrittura 
+
+ Altri articoli dalla categoria » 
+
+ precedente 
+ successivo 
+
+ Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, 
+
+ LinkedIn: donne manager, in Italia una su quattro 
+
+ C'è una versione segreta di Tinder con accesso riservato ai vip 
+
+ Network
+
+ Network 
+
+ Quotidiani locali
+
+ Alto Adige -->
+ Corriere delle Alpi 
+ Gazzetta di Mantova 
+ Gazzetta di Modena 
+ Gazzetta di Reggio 
+ Il Centro -->
+ Il mattino di Padova 
+ Il Piccolo 
+ Il Tirreno 
+ Il Fò 
+
+ Il Trentino 
+ La Città di Salerno -->
+ La Nuova Ferrara 
+ La Nuova Sardegna -->
+ La Nuova Venezia 
+ La Provincia Pavese 
+ La Sentinella del Canavese 
+ La Tribuna di Treviso 
+ Messaggero Veneto 
+ Il Bò 
+
+ Periodici
+
+ l’Espresso 
+ Le Scienze 
+ National Geographic 
+ Micromega 
+ Chiesa.it 
+ Limes 
+
+ Radio
+
+ Capital 
+ DeeJay 
+ m2o 
+
+ Servizi, Tv e consumi
+
+ Annunci 
+ Mymovies.it 
+ Necrologie 
+ TvZap 
+ Guida Tv 
+ MioJob 
+ Enti e Tribunali 
+ Fantacalcio 
+ Ristoranti 
+
+ I siti di Repubblica
+
+ D - la Repubblica 
+ Iniziative Editoriali 
+ il Venerdì 
+ TrovaCinema 
+ Casa&Design 
+ XL 
+ ilmiolibro.it 
+ Storiebrevi 
+
+ Chiudi -->
+
+ l’Espresso 
+
+ RE Le inchieste 
+
+ Cerca su Repubblica.it
+
+-->
+
+ Annunci, lavoro e aste
+
+ Lavoro 
+
+ Annunci 
+
+ Aste 
+
+ Footer
+
+ Fai di Repubblica la tua homepage 
+
+ Mappa del sito 
+
+ Redazione 
+
+ Scriveteci 
+
+ Per inviare foto e video 
+
+ Servizio Clienti 
+
+ Aiuto 
+ -->
+ Pubblicità 
+
+ Privacy 
+
+ Divisione Stampa Nazionale — Gruppo Editoriale L’Espresso Spa - P.Iva 00906801006 — Società soggetta all’attività di direzione e coordinamento di CIR SpA
