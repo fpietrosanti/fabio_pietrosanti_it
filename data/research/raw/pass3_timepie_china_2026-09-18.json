@@ -1,0 +1,41 @@
+[
+ {
+  "date": "2026-09-13",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "WeChat — 蓝图臻清健康科技 (刘清洋)",
+  "title": "顶尖学者齐聚！第七届国际长寿论坛盛大开幕",
+  "url": "https://weixin.sogou.com/weixin?type=2&query=Fabio+Pietrosanti",
+  "language": "zh",
+  "role": "subject",
+  "note": "WeChat article (temporary link via Sogou search, biz MzYzNzMyODg1MQ==): 'Fabio Pietrosanti, developer of an open-source anti-aging data platform' among the guests of the closed-door biohacker forum (生物极客闭门论坛), 12 Sept 2026 afternoon. Read in Fabio's Chrome 2026-09-18.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2026-09-12",
+  "year": 2026,
+  "type": "video",
+  "outlet": "Bilibili — 时光派官方",
+  "title": "满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)",
+  "url": "https://www.bilibili.com/video/BV1u5YX6JECk/",
+  "language": "zh",
+  "role": "subject",
+  "note": "Official recap video of the closed-door biohacker forum where Fabio spoke (15:50-16:15); his name is not in title/description; downloaded, frames extracted for Fabio to check",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2026-09-12",
+  "year": 2026,
+  "type": "video",
+  "outlet": "Bilibili — 时光派官方",
+  "title": "观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53\")",
+  "url": "https://www.bilibili.com/video/BV1M7YX67EsD/",
+  "language": "zh",
+  "role": "subject",
+  "note": "Official afternoon recap of 12 Sept; may include the biohacker forum; his name not in metadata",
+  "verified": false,
+  "known": false
+ }
+]

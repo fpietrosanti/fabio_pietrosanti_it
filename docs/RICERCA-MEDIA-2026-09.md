@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **639**; dopo deduplica: **513**
+- Risultati grezzi dalle ricerche: **642**; dopo deduplica: **515**
 - Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 481**
-- Verificati aprendo la pagina: **448**; solo da risultato di ricerca: **65**
+- **Nuovi rispetto al vecchio sito: 483**
+- Verificati aprendo la pagina: **448**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 87, Post sul blog infosecurity.ch 71, Talk 65, Video 47, Citato 38, Progetto 35, Altro 17, Articolo scritto 15, Ricerca 14, Comunicato 14, Report 13, Paper 11, Podcast 11, Libro 11, Radio 8, Intervista 6, Slide 4, Capitolo di libro 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 87, Post sul blog infosecurity.ch 71, Talk 65, Video 49, Citato 38, Progetto 35, Altro 17, Articolo scritto 15, Ricerca 14, Comunicato 14, Report 13, Paper 11, Podcast 11, Libro 11, Radio 8, Intervista 6, Slide 4, Capitolo di libro 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -44,16 +44,20 @@ Per tipo (nuovi): Menzionato 87, Post sul blog infosecurity.ch 71, Talk 65, Vide
 | 2023 | 0 | 7 | 7 |
 | 2024 | 0 | 2 | 2 |
 | 2025 | 0 | 1 | 1 |
-| 2026 | 0 | 13 | 13 |
+| 2026 | 0 | 15 | 15 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 13 voci, 13 nuove
+## 2026 — 15 voci, 15 nuove
 
 - 🆕 **2026-09-16** · Progetto · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)  
   Old blog of infosecurity.ch (restoration)
 - 🆕 **2026-09-12** · Menzionato · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0)  
   Forum day-1 recap: Biogeek closed-door sub-forum guests incl. 开源抗衰数据平台开发者Fabio Pietrosanti. WeChat article; only temporary signed links exist, URL is the Sogou WeChat search that surfaces it
+- 🆕 **2026-09-12** · Video · Bilibili — 时光派官方 — [满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)](https://www.bilibili.com/video/BV1u5YX6JECk/) _(non verificato)_  
+  Official recap video of the closed-door biohacker forum where Fabio spoke (15:50-16:15); his name is not in title/description; downloaded, frames extracted for Fabio to check
+- 🆕 **2026-09-12** · Video · Bilibili — 时光派官方 — [观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53")](https://www.bilibili.com/video/BV1M7YX67EsD/) _(non verificato)_  
+  Official afternoon recap of 12 Sept; may include the biohacker forum; his name not in metadata
 - 🆕 **2026-09-12** · Talk · 7th TimePie Longevity Forum, Shanghai (Biohacker Sub-forum) — [Biohack.It - Open Software for Structured Human Self-Experimentation](https://www.timepielongevityforum.com/2026agenda)  
   15:40-16:05 slot, listed as Biohacker / Tech Entrepreneur
 - 🆕 **2026-09** · Menzionato · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753) _(non verificato)_  
