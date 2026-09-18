@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **655**; dopo deduplica: **529**
+- Risultati grezzi dalle ricerche: **660**; dopo deduplica: **534**
 - Già presenti sul vecchio sito: **32** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 497**
-- Verificati aprendo la pagina: **458**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 502**
+- Verificati aprendo la pagina: **463**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 93, Post sul blog infosecurity.ch 71, Talk 66, Video 50, Citato 39, Progetto 36, Altro 17, Ricerca 16, Articolo scritto 15, Comunicato 14, Report 14, Paper 11, Podcast 11, Libro 11, Radio 8, Intervista 6, Slide 5, Capitolo di libro 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 94, Post sul blog infosecurity.ch 71, Talk 66, Video 50, Citato 40, Progetto 36, Articolo scritto 18, Altro 17, Ricerca 16, Comunicato 14, Report 14, Paper 11, Podcast 11, Libro 11, Radio 8, Intervista 6, Slide 5, Capitolo di libro 4, TV 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -37,8 +37,8 @@ Per tipo (nuovi): Menzionato 93, Post sul blog infosecurity.ch 71, Talk 66, Vide
 | 2016 | 0 | 17 | 17 |
 | 2017 | 0 | 48 | 48 |
 | 2018 | 0 | 36 | 36 |
-| 2019 | 0 | 13 | 13 |
-| 2020 | 0 | 30 | 30 |
+| 2019 | 0 | 16 | 16 |
+| 2020 | 0 | 31 | 31 |
 | 2021 | 0 | 23 | 23 |
 | 2022 | 0 | 41 | 41 |
 | 2023 | 0 | 7 | 7 |
@@ -256,7 +256,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 30 voci, 30 nuove
+## 2020 — 31 voci, 31 nuove
 
 - 🆕 **2020-12-03** · Ricerca · GitHub — [ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)](https://github.com/fpietrosanti/ifuriosi)  
   Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista
@@ -280,6 +280,8 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …ossa dalla fondazione non-profit Dyne.org nella figura del suo responsabile tecnico Denis Rojo , noto con il nome Jaromil nella comunità del software libero, e Fabio Pietrosanti detto Naif, attivista per i diritti digita…
 - 🆕 **2020-09-05** · Progetto · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR)  
   OCR processing of Italian Government COVID Scientific Technical Committee minutes
+- 🆕 **2020-08-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come sono riuscito a votare due volte su Rousseau](https://hermescenter.github.io/crvd.org-preservation/come-sono-riuscito-a-votare-due-volte-su-rousseau/)  
+  CRVD investigation: Fabio (CRVD activist) voted twice on Rousseau; restored site hermescenter/crvd.org-preservation (2026-09-18)
 - 🆕 **2020-08-19** · Menzionato · wired.it — [Come sono riuscito a votare due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/)  
   verified via wayback; context: …e facilmente individuabile con i normali controlli di penetration testing ai quali dovrebbero essere sottoposti simili strumenti” , ha commentato l’informatico Fabio Pietrosanti, membro del Comitato per i requisiti del v…
 - 🆕 **2020-06-23** · Citato · Agenda Digitale — [Software libero "massacrato" da Trump: un passo verso la sorveglianza globale](https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/)  
@@ -319,8 +321,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 13 voci, 13 nuove
+## 2019 — 16 voci, 16 nuove
 
+- 🆕 **2019-12-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come non sprecare un milione di euro](https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/)  
+  AIRE project: geolocation analysis by Fabio (Hermes Center) — 80 foreign polling stations would cover 86%+ of AIRE voters; alternative to e-voting for Italians abroad; restored site hermescenter/crvd.org-preservation (2026-09-18)
 - 🆕 **2019-12-11** · Podcast · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397)  
   S1E117 with Peter Fleming (UTS) on digital whistleblowing infrastructure
 - 🆕 **2019-11-21** · Menzionato · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/)  
@@ -335,10 +339,14 @@ Anni senza nessun risultato: nessuno
   With Stefano Aterno, after Exodus spyware case: governance, regulation gaps, open-source backend
 - 🆕 **2019-03-13** · Audizione · Dipartimento della Funzione Pubblica - incontro 'FOIA: Che cosa non ha funzionato?' (via Hermes Center) — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/)  
   Text of Hermes' contribution to the government FOIA review meeting, signed Fabio Pietrosanti (Wayback)
+- 🆕 **2019-03-13** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Voto Online? No, grazie, e ti spiego perché…](https://hermescenter.github.io/crvd.org-preservation/voto-online-no-grazie-e-ti-spiego-perche/)  
+  By Matteo Flora with Fabio Pietrosanti (Hermes); restored site hermescenter/crvd.org-preservation (2026-09-18)
 - 🆕 **2019-03-13** · Video · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE)  
   Special episode on insecurity of online/blockchain voting
 - 🆕 **2019-03-13** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [Voto Online? No, grazie, e ti spiego perché...](https://www.spreaker.com/episode/voto-online-no-grazie-e-ti-spiego-perche--17308523)  
   Audio version of special episode on e-voting
+- 🆕 **2019-03-12** · Citato · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://hermescenter.github.io/crvd.org-preservation/i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/)  
+  Quotes Fabio (director of Hermes, GlobaLeaks co-founder) on Rousseau/blockchain voting; restored site hermescenter/crvd.org-preservation (2026-09-18)
 - 🆕 **2019-01-15** · Ricerca · Forum Italia (Developers Italia) — [Software di Whistleblowing Anticorruzione ANAC e Riuso GlobaLeaks](https://forum.italia.it/t/software-di-whistleblowing-anticorruzione-anac-e-riuso-globaleaks/7114) _(non verificato)_  
   Hermes developers' technical evaluation of ANAC OpenWhistleblowing (posted by Pellerano; attributed to Pietrosanti in thread 2558)
 - 🆕 **2019-01** · Menzionato · GitHub - ANAC anticorruzione/openwhistleblowing — [openwhistleblowing/AUTHORS](https://github.com/anticorruzione/openwhistleblowing/blob/master/AUTHORS)  
@@ -1189,6 +1197,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · zeusnews.it — [La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori](https://www.zeusnews.it/n.php?c=25616)
 - 🆕 Menzionato · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
+- 🆕 Menzionato · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Tag: fabio pietrosanti — CRVD](https://hermescenter.github.io/crvd.org-preservation/tag/fabio-pietrosanti/)
 
 ---
 

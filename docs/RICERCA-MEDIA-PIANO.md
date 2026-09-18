@@ -113,6 +113,8 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [ ] OpenRousseau / M5S: espulsione (Domani 2020) e articolo di Raffaele Angius sulla doppia iscrizione.
 - [ ] ~~Bloomberg Businessweek 2020-05-04~~ (trovato, p. 70, manca il titolo); ~~Il Gazzettino Friuli 2020-10-02~~ (verificato); Radio1 Rai Italian Hacker Camp 2018.
 - [x] Internet Archive: win-magazine-italia-48, pcprofessionale207, hackerjournal-38, GazzettinoFVG2020-10-02 (copie: OCR + PDF, nome verificato; 2026-09-18).
+- [ ] **Sito Hermes Center** in ripristino da Fabio: quando online, indicizzare tutti i progetti, paper e talk di Fabio per
+  Hermes, GlobaLeaks, CRVD, Copernicani (come fatto per CRVD il 18/09).
 - [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
 
 ## Note sessione 2026-09-18

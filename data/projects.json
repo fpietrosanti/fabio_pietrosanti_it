@@ -154,29 +154,37 @@
   },
   {
    "name": "CRVD voto elettronico",
-   "start_year": "",
+   "start_year": "2018",
    "area": "voto elettronico",
-   "status": "da-documentare",
+   "status": "fonti-raccolte",
    "description_en": "",
    "description_zh": "",
-   "link": "",
+   "link": "https://hermescenter.github.io/crvd.org-preservation/",
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,
-   "sources": []
+   "sources": [
+    "https://hermescenter.github.io/crvd.org-preservation/",
+    "https://hermescenter.github.io/crvd.org-preservation/tag/fabio-pietrosanti/"
+   ],
+   "notes": "Sito CRVD ripristinato 2026-09-18 (repo hermescenter/crvd.org-preservation). Articoli di Fabio 2019–2020."
   },
   {
    "name": "Progetto AIRE (voto degli italiani all'estero)",
-   "start_year": "",
+   "start_year": "2019",
    "area": "voto elettronico",
-   "status": "da-documentare",
+   "status": "fonti-raccolte",
    "description_en": "",
    "description_zh": "",
-   "link": "",
+   "link": "https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/",
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,
-   "sources": []
+   "sources": [
+    "https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/",
+    "https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/"
+   ],
+   "notes": "Dicembre 2019, CRVD/Hermes: analisi di geolocalizzazione degli iscritti AIRE — con 80 seggi esteri si coprirebbe oltre l'86% degli elettori, alternativa al voto elettronico da 1 milione di euro. Cercare dati/repository dell'analisi e coperture stampa."
   },
   {
    "name": "OpenRousseau",
