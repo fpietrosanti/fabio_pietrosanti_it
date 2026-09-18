@@ -1221,6 +1221,23 @@
   "on_old_site": false
  },
  {
+  "date": "2007-08-08",
+  "year": 2007,
+  "type": "village",
+  "outlet": "Chaos Communication Camp 2007 (Finowfurt)",
+  "title": "Italia - Italian Embassy village (CCC Camp 2007 wiki)",
+  "url": "https://events.ccc.de/camp/2007/Italia/index.html",
+  "language": "it",
+  "role": "subject",
+  "note": "First Italian Embassy village at a CCC camp; 'naif' listed among Citizens ('Non mancherei mai al camp estivo del ccc')",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2007-10-04",
   "year": 2007,
   "type": "mentioned",
@@ -1836,6 +1853,23 @@
   "known": false,
   "_slices": [
    "slice2_2007_2011"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2009-08-13",
+  "year": 2009,
+  "type": "village",
+  "outlet": "HAR2009 (Hacking at Random, Vierhouten NL)",
+  "title": "HAR-microemb - Italian micro-embassy at HAR2009 (endsummercamp.org wiki)",
+  "url": "https://www.endsummercamp.org/index.php?title=HAR-microemb",
+  "language": "it",
+  "role": "subject",
+  "note": "Planning/report page of the Italian micro-embassy at HAR2009; lists 'naif + vodka + luz' (flight from Milan, arrival 13/08)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -4105,6 +4139,23 @@
   "on_old_site": false
  },
  {
+  "date": "2013-12-29",
+  "year": 2013,
+  "type": "talk",
+  "outlet": "30C3 Chaos Communication Congress, Hamburg (NoisySquare)",
+  "title": "GlobaLeaks Anonymous Whistleblowing Software (self-organized session)",
+  "url": "https://events.ccc.de/congress/2013/wiki/Session:GlobaLeaks_Anonymous_Whistleblowing_Software",
+  "language": "en",
+  "role": "speaker",
+  "note": "30-min talk at NoisySquare, 29 Dec 2013 15:00; persons organizing: Naif, Vecna, Hellais",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2013-12-30",
   "year": 2013,
   "type": "quoted",
@@ -4519,6 +4570,23 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2014-12-29",
+  "year": 2014,
+  "type": "workshop",
+  "outlet": "31C3 Chaos Communication Congress, Hamburg (Noisy Square)",
+  "title": "Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks",
+  "url": "https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks",
+  "language": "en",
+  "role": "organiser",
+  "note": "60-min GlobaLeaks workshop, 29 Dec 2014 15:00 at Noisy Square; person organizing: Naif (duplicate draft page Session:Practical_Whistleblowing also exists)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -5332,6 +5400,23 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2016-12-29",
+  "year": 2016,
+  "type": "talk",
+  "outlet": "33C3 Chaos Communication Congress, Hamburg (Lightning Talks)",
+  "title": "Robots txt abuses by government agencies against transparency (lightning talk)",
+  "url": "https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency",
+  "language": "en",
+  "role": "speaker",
+  "note": "5-min lightning talk, Day 3 14:55; organizer 'Fabio Pietrosanti (naif)', website hermescenter.org; research on Italian PA/EU robots.txt",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ccc_camps_congresses_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -6281,6 +6366,23 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-01-01",
+  "year": 2018,
+  "type": "mentioned",
+  "outlet": "JEI - Jus e Internet",
+  "title": "Voto elettronico: rilievi giuridici e tecnici. Teorizzazione di un modello sperimentale di votazione mediante uso della tecnologia Blockchain",
+  "url": "https://www.jei.it/approfondimenti-giuridici/490-voto-elettronico-rilievi-giuridici-e-tecnici-teorizzazione-di-un-modello-sperimentale-di-votazione-mediante-uso-della-tecnologia-blockchain",
+  "language": "it",
+  "role": "subject",
+  "note": "Legal paper endorsing the 'security by obscurity' critique of Smartmatic by 'il presidente della Hermes Center' and describing Hermes FOIA requests; names him only by role; date not shown on page (approx. 2018)",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_evoting_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -7581,8 +7683,8 @@
   "url": "https://www.adnkronos.com/fatti/politica/2020/10/01/hacker-sfidano-casaleggio-arriva-software-open-rousseau_xhpY4FGXMdkxXNWyHW75xN.html",
   "language": "it",
   "role": "quoted",
-  "note": "Original Adnkronos wire (source of il Giornale quotes); URL now 404, found via search snippet only",
-  "verified": false,
+  "note": "Original Adnkronos wire quoting him as one of the Open Rousseau developers; live URL 404, verified via Wayback 2020 snapshot",
+  "verified": true,
   "known": false,
   "_slices": [
    "pass4_evoting_2026-09-18"
@@ -7626,14 +7728,14 @@
  {
   "date": "2020-10-02",
   "year": 2020,
-  "type": "quoted",
+  "type": "mentioned",
   "outlet": "Adnkronos",
   "title": "M5S, hacker a parlamentari: \"Ecco Open Rousseau, così sarete liberi\"",
   "url": "https://www.adnkronos.com/fatti/politica/2020/10/02/hacker-parlamentari-ecco-open-rousseau-cosi-sarete-liberi_rqptYFyArlnhnr8BwBKHPP.html",
   "language": "it",
-  "role": "quoted",
-  "note": "Search snippet names 'Fabio Pietrosanti (known as Naif)' with Denis Roio/Jaromil; URL now 404",
-  "verified": false,
+  "role": "subject",
+  "note": "Jaromil's letter to M5S MPs launching Open Rousseau; names him as one of the promoters; live URL 404, verified via Wayback 2020 snapshot",
+  "verified": true,
   "known": false,
   "_slices": [
    "pass4_evoting_2026-09-18"

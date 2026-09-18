@@ -26,6 +26,19 @@
   "known": false
  },
  {
+  "date": "2018-01-01",
+  "year": 2018,
+  "type": "mentioned",
+  "outlet": "JEI - Jus e Internet",
+  "title": "Voto elettronico: rilievi giuridici e tecnici. Teorizzazione di un modello sperimentale di votazione mediante uso della tecnologia Blockchain",
+  "url": "https://www.jei.it/approfondimenti-giuridici/490-voto-elettronico-rilievi-giuridici-e-tecnici-teorizzazione-di-un-modello-sperimentale-di-votazione-mediante-uso-della-tecnologia-blockchain",
+  "language": "it",
+  "role": "subject",
+  "note": "Legal paper endorsing the 'security by obscurity' critique of Smartmatic by 'il presidente della Hermes Center' and describing Hermes FOIA requests; names him only by role; date not shown on page (approx. 2018)",
+  "verified": false,
+  "known": false
+ },
+ {
   "date": "2018-10-28",
   "year": 2018,
   "type": "quoted",
@@ -125,21 +138,21 @@
   "url": "https://www.adnkronos.com/fatti/politica/2020/10/01/hacker-sfidano-casaleggio-arriva-software-open-rousseau_xhpY4FGXMdkxXNWyHW75xN.html",
   "language": "it",
   "role": "quoted",
-  "note": "Original Adnkronos wire (source of il Giornale quotes); URL now 404, found via search snippet only",
-  "verified": false,
+  "note": "Original Adnkronos wire quoting him as one of the Open Rousseau developers; live URL 404, verified via Wayback 2020 snapshot",
+  "verified": true,
   "known": false
  },
  {
   "date": "2020-10-02",
   "year": 2020,
-  "type": "quoted",
+  "type": "mentioned",
   "outlet": "Adnkronos",
   "title": "M5S, hacker a parlamentari: \"Ecco Open Rousseau, così sarete liberi\"",
   "url": "https://www.adnkronos.com/fatti/politica/2020/10/02/hacker-parlamentari-ecco-open-rousseau-cosi-sarete-liberi_rqptYFyArlnhnr8BwBKHPP.html",
   "language": "it",
-  "role": "quoted",
-  "note": "Search snippet names 'Fabio Pietrosanti (known as Naif)' with Denis Roio/Jaromil; URL now 404",
-  "verified": false,
+  "role": "subject",
+  "note": "Jaromil's letter to M5S MPs launching Open Rousseau; names him as one of the promoters; live URL 404, verified via Wayback 2020 snapshot",
+  "verified": true,
   "known": false
  },
  {

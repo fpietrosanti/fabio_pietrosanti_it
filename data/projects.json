@@ -182,9 +182,10 @@
    "linkedin_zh": false,
    "sources": [
     "https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/",
-    "https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/"
+    "https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/",
+    "https://www.ilpost.it/2022/09/14/sicurezza-voto-italiani-estero/"
    ],
-   "notes": "Dicembre 2019, CRVD/Hermes: analisi di geolocalizzazione degli iscritti AIRE — con 80 seggi esteri si coprirebbe oltre l'86% degli elettori, alternativa al voto elettronico da 1 milione di euro. Cercare dati/repository dell'analisi e coperture stampa."
+   "notes": "Dicembre 2019, CRVD/Hermes: analisi di geolocalizzazione degli iscritti AIRE — con 80 seggi esteri si coprirebbe oltre l'86% degli elettori, alternativa al voto elettronico da 1 milione di euro. Cercare dati/repository dell'analisi e coperture stampa. Il Post 2022-09-14 cita lo studio Napolitano–Pietrosanti sui seggi fisici per gli italiani all'estero."
   },
   {
    "name": "OpenRousseau",

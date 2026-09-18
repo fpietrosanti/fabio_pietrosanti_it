@@ -1,0 +1,67 @@
+[
+ {
+  "date": "2007-08-08",
+  "year": 2007,
+  "type": "village",
+  "outlet": "Chaos Communication Camp 2007 (Finowfurt)",
+  "title": "Italia - Italian Embassy village (CCC Camp 2007 wiki)",
+  "url": "https://events.ccc.de/camp/2007/Italia/index.html",
+  "language": "it",
+  "role": "subject",
+  "note": "First Italian Embassy village at a CCC camp; 'naif' listed among Citizens ('Non mancherei mai al camp estivo del ccc')",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2009-08-13",
+  "year": 2009,
+  "type": "village",
+  "outlet": "HAR2009 (Hacking at Random, Vierhouten NL)",
+  "title": "HAR-microemb - Italian micro-embassy at HAR2009 (endsummercamp.org wiki)",
+  "url": "https://www.endsummercamp.org/index.php?title=HAR-microemb",
+  "language": "it",
+  "role": "subject",
+  "note": "Planning/report page of the Italian micro-embassy at HAR2009; lists 'naif + vodka + luz' (flight from Milan, arrival 13/08)",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2013-12-29",
+  "year": 2013,
+  "type": "talk",
+  "outlet": "30C3 Chaos Communication Congress, Hamburg (NoisySquare)",
+  "title": "GlobaLeaks Anonymous Whistleblowing Software (self-organized session)",
+  "url": "https://events.ccc.de/congress/2013/wiki/Session:GlobaLeaks_Anonymous_Whistleblowing_Software",
+  "language": "en",
+  "role": "speaker",
+  "note": "30-min talk at NoisySquare, 29 Dec 2013 15:00; persons organizing: Naif, Vecna, Hellais",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2014-12-29",
+  "year": 2014,
+  "type": "workshop",
+  "outlet": "31C3 Chaos Communication Congress, Hamburg (Noisy Square)",
+  "title": "Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks",
+  "url": "https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks",
+  "language": "en",
+  "role": "organiser",
+  "note": "60-min GlobaLeaks workshop, 29 Dec 2014 15:00 at Noisy Square; person organizing: Naif (duplicate draft page Session:Practical_Whistleblowing also exists)",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2016-12-29",
+  "year": 2016,
+  "type": "talk",
+  "outlet": "33C3 Chaos Communication Congress, Hamburg (Lightning Talks)",
+  "title": "Robots txt abuses by government agencies against transparency (lightning talk)",
+  "url": "https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency",
+  "language": "en",
+  "role": "speaker",
+  "note": "5-min lightning talk, Day 3 14:55; organizer 'Fabio Pietrosanti (naif)', website hermescenter.org; research on Italian PA/EU robots.txt",
+  "verified": true,
+  "known": false
+ }
+]
