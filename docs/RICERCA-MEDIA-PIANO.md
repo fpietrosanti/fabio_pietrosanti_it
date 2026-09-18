@@ -242,3 +242,8 @@ Richiesta di Fabio 2026-09-18 — da fare **alla fine**, quando non c'è più nu
 - [ ] ICT Security (Tecna Editrice) cartaceo anni 2000: nessun indice online → chiedere a Fabio numeri/anni; numero dell'articolo «Penetration Testing & Tiger Teams».
 - [ ] TV: TG2, TG3, Neapolis (Rai 3), Studio Aperto citati nella bio 2013 senza date → chiedere a Fabio anni/argomenti.
 - [ ] Sapienza CyberChallenge.IT 2018: cercare video/foto (YouTube CINI, Sapienza).
+
+### Fase finale — aggiunta 2026-09-18
+- [ ] **Una foto di Fabio per ogni anno** (percorso di invecchiamento): raccogliere solo foto in cui è indicato per nome
+      (didascalie, sue pubblicazioni, pagine evento, SlideShare/Flickr fpietrosanti); conferma di Fabio per ognuna; mai
+      riconoscimento dal volto. Solo alla fine, insieme a tag cloud e timeline.
