@@ -159,6 +159,13 @@ def build(lang="en"):
     order = sorted(groups, key=lambda a: -len(groups[a]))
     proj_html = "".join(f'<div class="pgroup"><h3>{esc(a)}</h3><div class="pgrid">{"".join(groups[a])}</div></div>' for a in order)
 
+    pats = "".join(
+        f'<div class="pat"><h4>{esc(x["title"])}</h4><div class="pref">{esc(x["refs"])}</div>'
+        f'<div class="meta">{esc(x["dates"])}<br>{esc(x["who"])}</div><div class="plinks">'
+        + " ".join(f'<a href="{esc(u)}" rel="noopener">{esc(n)}</a>' for n, u in x["links"])
+        + (f' <a class="loc" href="{esc(x["local"])}">local copy (PDF)</a>' if x.get("local") else "") + "</div></div>"
+        for x in c.get("patents", []))
+    pat_html = f'<div class="pats" id="patents"><h3 class="subh">{esc(c.get("patents_title", "Patents"))}</h3>{pats}</div>' if pats else ""
     comm = "".join(f'<div class="comm"><h4>{esc(n)}</h4><p>{esc(t)}</p></div>' for n, t in c["communities"])
     past = "".join(f'<li><a href="{esc(u)}">{esc(n)}</a></li>' for n, u in c["past_sites"])
     nav = "".join(f'<a href="#{k}">{esc(v)}</a>' for k, v in c["nav"])
@@ -182,7 +189,7 @@ def build(lang="en"):
         "KICKER": esc(c["hero"]["kicker"]), "FIRST": esc(intro["first_name"]), "LAST": esc(intro["last_name"]),
         "AKA": esc(c["hero"]["aka"]), "HEADLINE": esc(intro["headline"]), "HERO_LINKS": hero_links, "STATS": stats_html,
         "H_ABOUT": head("about", 1), "ABOUT": about, "H_STORY": head("story", 2), "STORY": "".join(story),
-        "H_WORK": head("work", 3), "EXP": "".join(exp), "H_PROJECTS": head("projects", 4), "PROJECTS": proj_html,
+        "H_WORK": head("work", 3), "EXP": "".join(exp), "PATENTS": pat_html, "H_PROJECTS": head("projects", 4), "PROJECTS": proj_html,
         "H_ARCHIVE": head("archive", 5), "SEARCH": esc(ui["search"]), "CATS": cat_btns, "HIST": hist,
         "H_COMM": head("communities", 6), "COMM": comm, "H_PAST": head("past", 7), "PAST": past,
         "H_CONTACT": head("contact", 8), "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),

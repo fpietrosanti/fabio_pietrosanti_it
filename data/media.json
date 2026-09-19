@@ -1436,6 +1436,23 @@
   "on_old_site": false
  },
  {
+  "date": "2008-02-07",
+  "year": 2008,
+  "type": "patent",
+  "outlet": "WIPO PCT application WO2008015721 (PCT/IT2007/000558); European application EP2057808A2; priority ITRM20060425 (2006-08-04); applicant KHAMSA Italia S.r.l.",
+  "title": "Secure multi-identity management methods for a centralized messaging service",
+  "url": "https://patents.google.com/patent/WO2008015721A2/en",
+  "language": "en",
+  "role": "inventor",
+  "note": "Inventors Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti (Google Patents page read 2026-09-19). International family of ITRM20060425.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass5_patents_2026-09-19"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2008-06",
   "year": 2008,
   "type": "mentioned",
@@ -1542,6 +1559,23 @@
   ],
   "note_date": "date corrected from the official programme (2026-09-18)",
   "on_old_site": true
+ },
+ {
+  "date": "2009-05-13",
+  "year": 2009,
+  "type": "patent",
+  "outlet": "European Patent Office, EP2057808A2",
+  "title": "Secure multi-identity management methods for a centralized messaging service (EP2057808)",
+  "url": "https://patents.google.com/patent/EP2057808A2/en",
+  "language": "en",
+  "role": "inventor",
+  "note": "EP regional phase of WO2008015721; inventors include Fabio Pietrosanti.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass5_patents_2026-09-19"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2009-05-22",
@@ -4254,6 +4288,23 @@
   "known": false,
   "_slices": [
    "pass3_google_site_2026-09-17"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-06-04",
+  "year": 2013,
+  "type": "book",
+  "outlet": "Blonk (Italy)",
+  "title": "Destini Hacker - Attacco al sistema",
+  "url": "https://books.google.com/books?id=5XJsAwAAQBAJ",
+  "language": "it",
+  "role": "acknowledged",
+  "note": "Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Authors: Lele Rozza, Alessio Pennasilico (ISBN 9788897604198, 101 pp.). Snippet (list of Italian security people, probably acknowledgements): '... Fabio Pietrosanti, Yvette Agostini, Pierluigi Perri, Marco Misitano, Gabriele Faggioli, ... Matteo Flora, Giovanni Ziccardi, Corrado Giustozzi, Stefano Mele ...'. Page not shown.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_books_it_2026-09-19"
   ],
   "on_old_site": false
  },
@@ -7039,6 +7090,23 @@
   "on_old_site": false
  },
  {
+  "date": "2017-10",
+  "year": 2017,
+  "type": "report",
+  "outlet": "HERMES Center for Transparency and Digital Human Rights / Infomedia Editori (archived by Marco Calamari on Internet Archive, Cassandra Crossing n. 421)",
+  "title": "La Guida HERMES al Voto Digitale (v1.0)",
+  "url": "https://archive.org/download/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale_LaGuidaHermesAlVotoDigitale_v1.0.pdf",
+  "language": "it",
+  "role": "acknowledged",
+  "note": "Winston Smith (Emmanuele Somma), preface by Marco Calamari, first HERMES edition October 2017. The acknowledgements ('Si ringrazia:') list: 'Fabio \"naif\" Pietrosanti (Hermes Center), Dario Centofanti ..., Marco Calamari (Progetto Winston Smith)' (last pages, djvu text). This is the embedded PDF of an archive.org item whose details page (archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale) is already in the known list, so it is marked known; the new detail is his role as acknowledged contributor to the Hermes e-voting guide.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_ngo_reports_2026-09-19"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2017-10-07",
   "year": 2017,
   "type": "workshop",
@@ -9025,11 +9093,11 @@
   "year": 2020,
   "type": "mentioned",
   "outlet": "Bloomberg Businessweek, 2020-05-04 issue",
-  "title": "Wanna Do Business in Pyongyang? Call North Korea's Guy in Spain (Josh Dean), print edition p.70",
+  "title": "The Road to Pyongyang Starts in Spain (print title, contents p.44; online: Wanna Do Business in Pyongyang? Call North Korea's Guy in Spain) — Josh Dean",
   "url": "https://archive.org/details/business-week_2020-05-04",
   "language": "en",
   "role": "subject (attendee)",
-  "note": "Pyongyang blockchain/cryptocurrency conference and North Korean programmers; confirmed by Fabio 2026-09-18. Online: https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain",
+  "note": "Pyongyang blockchain/cryptocurrency conference and North Korean programmers; confirmed by Fabio 2026-09-18. Online: https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain. Print title from the issue's contents page via Internet Archive full-text snippets (2026-09-19): '44 The Road to Pyongyang Starts in Spain'; text: 'Italian information-security specialist Fabio Pietrosanti'. 'p.70' was the scan image number.",
   "verified": true,
   "known": false,
   "_slices": [

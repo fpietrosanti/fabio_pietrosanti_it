@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2008-02-07",
+  "year": 2008,
+  "type": "patent",
+  "outlet": "WIPO PCT application WO2008015721 (PCT/IT2007/000558); European application EP2057808A2; priority ITRM20060425 (2006-08-04); applicant KHAMSA Italia S.r.l.",
+  "title": "Secure multi-identity management methods for a centralized messaging service",
+  "url": "https://patents.google.com/patent/WO2008015721A2/en",
+  "language": "en",
+  "role": "inventor",
+  "note": "Inventors Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti (Google Patents page read 2026-09-19). International family of ITRM20060425.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2009-05-13",
+  "year": 2009,
+  "type": "patent",
+  "outlet": "European Patent Office, EP2057808A2",
+  "title": "Secure multi-identity management methods for a centralized messaging service (EP2057808)",
+  "url": "https://patents.google.com/patent/EP2057808A2/en",
+  "language": "en",
+  "role": "inventor",
+  "note": "EP regional phase of WO2008015721; inventors include Fabio Pietrosanti.",
+  "verified": true,
+  "known": false
+ }
+]

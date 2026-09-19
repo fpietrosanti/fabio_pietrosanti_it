@@ -121,7 +121,7 @@
    "title": "Voice encryption and the honesty of the crypto market",
    "body": [
     "In 2005 he co-founded KHAMSA, later <b>PrivateWave Italia</b>, building mobile voice and messaging encryption (PrivateGSM) for governments and enterprises, and worked with Philip Zimmermann on a ZRTP-based encrypted transport for circuit-switched networks. PrivateWave released <b>ZORG</b>, an open-source C++ and Java ZRTP implementation, in 2011 — the year ZRTP became RFC 6189.",
-    "Two patent applications came out of that work, filed by KHAMSA Italia with Federico Moro and Lorenzo Boccaccia: <b>WO2008015723</b> (also EP2057777), a method to record a non-repudiable digital communication and identify its participants with asymmetric keys, and <b>ITRM20060425</b>, techniques for the secure management of multiple identities in centralised messaging services.",
+    "Two international patents came out of that work, filed by KHAMSA Italia with Federico Moro and Lorenzo Boccaccia: <b>WO2008015721</b> / EP2057808, secure management of multiple identities in centralised messaging services, and <b>WO2008015723</b> / EP2057777, a method to record a non-repudiable digital communication and identify its participants (see <a href=\"#patents\">Patents</a>).",
     "On his blog <i>infosecurity.ch</i> he wrote about mobile and voice security and exposed how parts of the market worked: in 2010 he showed that a supposedly independent review of voice-encryption products was traceable to one of the vendors (picked up by <i>The Register</i>), and he wrote against snake-oil claims and marketing “hacking contests”. With others he released <b>OSXCrypt</b> (2008), an attempt to bring TrueCrypt-compatible disk encryption to macOS."
    ]
   },
@@ -422,5 +422,62 @@
  "footer": {
   "sync": "Headline, About and Work are kept identical to the LinkedIn profile (last sync {date}).",
   "draft": "Draft — not yet published."
- }
+ },
+ "patents_title": "Patents",
+ "patents": [
+  {
+   "title": "Secure multi-identity management methods for a centralized messaging service",
+   "refs": "WO2008015721 (PCT/IT2007/000558) · EP2057808 · priority IT RM2006A000425",
+   "dates": "Priority 4 Aug 2006 · PCT filed 2 Aug 2007 · published 7 Feb 2008",
+   "who": "Inventors: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti · Applicant: KHAMSA Italia S.r.l.",
+   "links": [
+    [
+     "Google Patents",
+     "https://patents.google.com/patent/WO2008015721A2/en"
+    ],
+    [
+     "WIPO Patentscope",
+     "https://patentscope.wipo.int/search/en/WO2008015721"
+    ],
+    [
+     "Espacenet",
+     "https://worldwide.espacenet.com/patent/search?q=pn%3DWO2008015721A2"
+    ],
+    [
+     "EP2057808",
+     "https://patents.google.com/patent/EP2057808A2/en"
+    ],
+    [
+     "IT priority",
+     "https://patents.google.com/patent/ITRM20060425A1/en"
+    ]
+   ],
+   "local": "copies/patents/WO2008015721A2.pdf"
+  },
+  {
+   "title": "Method of recording a not repudiable digital transmission of information and identifying the participants in the communication",
+   "refs": "WO2008015723 (PCT/IT2007/000565) · EP2057777",
+   "dates": "Priority 4 Aug 2006 · PCT filed 3 Aug 2007 · published 7 Feb 2008",
+   "who": "Inventors: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti · Applicant: KHAMSA Italia S.r.l.",
+   "links": [
+    [
+     "Google Patents",
+     "https://patents.google.com/patent/WO2008015723A2/en"
+    ],
+    [
+     "WIPO Patentscope",
+     "https://patentscope.wipo.int/search/en/WO2008015723"
+    ],
+    [
+     "Espacenet",
+     "https://worldwide.espacenet.com/patent/search?q=pn%3DWO2008015723A2"
+    ],
+    [
+     "EP2057777",
+     "https://patents.google.com/patent/EP2057777A2/en"
+    ]
+   ],
+   "local": "copies/patents/WO2008015723A2.pdf"
+  }
+ ]
 }

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **853**; dopo deduplica: **656**
+- Risultati grezzi dalle ricerche: **868**; dopo deduplica: **660**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 621**
-- Verificati aprendo la pagina: **564**; solo da risultato di ricerca: **92**
+- **Nuovi rispetto al vecchio sito: 625**
+- Verificati aprendo la pagina: **568**; solo da risultato di ricerca: **92**
 
-Per tipo (nuovi): Menzionato 113, Talk 73, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Ricerca 42, Progetto 36, Altro 34, Radio 20, Articolo scritto 18, Comunicato 17, Report 16, Slide 11, Libro 11, Podcast 9, Paper 8, TV 8, Intervista 6, Capitolo di libro 5, village 5, panel 3, workshop 3, Brevetto 2, Tesi 2, Wiki 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 113, Talk 73, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Ricerca 42, Progetto 36, Altro 34, Radio 20, Articolo scritto 18, Comunicato 17, Report 17, Libro 12, Slide 11, Podcast 9, Paper 8, TV 8, Intervista 6, Capitolo di libro 5, village 5, Brevetto 4, panel 3, workshop 3, Tesi 2, Wiki 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -26,16 +26,16 @@ Per tipo (nuovi): Menzionato 113, Talk 73, Post sul blog infosecurity.ch 71, Vid
 | 2005 | 1 | 6 | 5 |
 | 2006 | 4 | 5 | 2 |
 | 2007 | 1 | 5 | 4 |
-| 2008 | 0 | 6 | 6 |
-| 2009 | 1 | 41 | 39 |
+| 2008 | 0 | 7 | 7 |
+| 2009 | 1 | 42 | 40 |
 | 2010 | 6 | 57 | 49 |
 | 2011 | 4 | 27 | 24 |
 | 2012 | 0 | 28 | 28 |
-| 2013 | 0 | 33 | 33 |
+| 2013 | 0 | 34 | 34 |
 | 2014 | 0 | 25 | 25 |
 | 2015 | 0 | 32 | 32 |
 | 2016 | 0 | 20 | 20 |
-| 2017 | 0 | 73 | 73 |
+| 2017 | 0 | 74 | 74 |
 | 2018 | 0 | 61 | 61 |
 | 2019 | 0 | 24 | 24 |
 | 2020 | 0 | 37 | 37 |
@@ -336,8 +336,8 @@ Anni senza nessun risultato: nessuno
   Out of slice (incidental): quoted on OTF funding being decisive for GlobaLeaks
 - 🆕 **2020-06-09** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810)  
   Contribution as GLS network licensee on e-commerce delivery
-- 🆕 **2020-05-04** · Menzionato · Bloomberg Businessweek, 2020-05-04 issue — [Wanna Do Business in Pyongyang? Call North Korea's Guy in Spain (Josh Dean), print edition p.70](https://archive.org/details/business-week_2020-05-04)  
-  Pyongyang blockchain/cryptocurrency conference and North Korean programmers; confirmed by Fabio 2026-09-18. Online: https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain
+- 🆕 **2020-05-04** · Menzionato · Bloomberg Businessweek, 2020-05-04 issue — [The Road to Pyongyang Starts in Spain (print title, contents p.44; online: Wanna Do Business in Pyongyang? Call North Korea's Guy in Spain) — Josh Dean](https://archive.org/details/business-week_2020-05-04)  
+  Pyongyang blockchain/cryptocurrency conference and North Korean programmers; confirmed by Fabio 2026-09-18. Online: https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain. Print title from the issue's contents page via Internet Archive full-text snippets (2026-09-19): '44 The Road to Pyongyang Starts in Spain'; text: 'Italian information-security specialist Fabio Pietrosanti'. 'p.70' was the scan image number.
 - 🆕 **2020-05-01** · Menzionato · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain)  
   verified via wayback; context: …nvitation, except for journalists and residents of South Korea, Japan, and Israel. Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti. He says the two-day event was strange: Th…
 - 🆕 **2020-04-28** · Video · CRS Scuola Critica del Digitale + Forum Disuguaglianze e Diversita (webinar) — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/)  
@@ -545,7 +545,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 73 voci, 73 nuove
+## 2017 — 74 voci, 74 nuove
 
 - 🆕 **2017-12-28** · Talk · 34C3 Chaos Communication Congress, Leipzig (Rights & Freedoms stage, CCL Hall 3) — [Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', 'Digital Anonimity for Whistleblowing', 'Are NAT translations respecting proportionality and data retention principles?', 'How to use public procurement datasets to monitor government surveillance capabilities'](https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms) _(non verificato)_  
   Four Hermes Center slots 28-30 Dec 2017; speakers not named on the page - his personal involvement NOT confirmed (NAT/data-retention topic matches Hermes 2017 campaigns)
@@ -579,6 +579,8 @@ Anni senza nessun risultato: nessuno
   Official FNF 2017 timetable (AK Vorrat wiki, linked from freedomnotfear.org 'Wiki / Archive'): Saturday 7 Oct 2017, 15:45–17:00 'late afternoon session', conference room (35+ people): 'Government hacking and trojan • Fabio'. Parallel sessions: Aral Balkan (tracker blocking, Kamilou café), Rejo Zenger/Bits of Freedom (bodycams). Session added on the day by user Padeluun (rev 130127, 2017-10-07T12:36Z, i.e. during the kick-off plenary); permalink https://wiki.vorratsdatenspeicherung.de/index.php?oldid=130129. Only the first name 'Fabio' is given (no surname/org); attribution to Pietrosanti is a strong inference (topic matches his/Hermes' 2017 Italian trojan-law advocacy and his CPDP 2018 Brussels 'Government hacking' roundtable 3 months later), not stated on the page. No other 'Fabio' appears in any FNF 2011–2019 wiki page. — confirmed by Fabio 2026-09-18
 - 🆕 **2017-10** · Menzionato · linkiesta.it — [DIG raddoppia e a fine ottobre porta a Milano il meglio del giornalismo investigativo internazionale - Linkiesta.it](https://www.linkiesta.it/2017/10/dig-raddoppia-e-a-fine-ottobre-porta-a-milano-il-meglio-del-giornalism/)  
   verified via wayback; context: …enerdì 27 ottobre con due corsi accreditati dall’Ordine dei giornalisti della Lombardia ai fini della formazione continua. Raffaele Angius , Giovanni Civardi e Fabio Pietrosanti , tre esperti dell’Hermes Center for Trans…
+- 🆕 **2017-10** · Report · HERMES Center for Transparency and Digital Human Rights / Infomedia Editori (archived by Marco Calamari on Internet Archive, Cassandra Crossing n. 421) — [La Guida HERMES al Voto Digitale (v1.0)](https://archive.org/download/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale_LaGuidaHermesAlVotoDigitale_v1.0.pdf)  
+  Winston Smith (Emmanuele Somma), preface by Marco Calamari, first HERMES edition October 2017. The acknowledgements ('Si ringrazia:') list: 'Fabio "naif" Pietrosanti (Hermes Center), Dario Centofanti ..., Marco Calamari (Progetto Winston Smith)' (last pages, djvu text). This is the embedded PDF of an archive.org item whose details page (archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale) is already in the known list, so it is marked known; the new detail is his role as acknowledged contributor to the Hermes e-voting guide.
 - 🆕 **2017-08-07** · Talk · SHA2017 - Still Hacking Anyway (media.ccc.de) — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans)  
   49-min talk with Andrea Ghirardini on the Italian trojan bill; video on media.ccc.de and YouTube (tF_i3X_PcFY)
 - 🆕 **2017-08-01** · Articolo scritto · EDRi (European Digital Rights) — [Italy plans to extend telecoms data retention and increase censorship powers](https://edri.org/our-work/italy-plans-extend-telecoms-data-retention-increase-censorship-powers/)  
@@ -857,7 +859,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2014-01-22** · Citato · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/)  
   Quoted as security and telephony expert on mobile location tracking of protesters
 
-## 2013 — 33 voci, 33 nuove
+## 2013 — 34 voci, 34 nuove
 
 - 🆕 **2013-12-30** · Citato · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/)  
   John Borland's 30C3 report; quotes him on GlobaLeaks and on media groups wanting to copy the Dutch Publeaks model; photo with Claudio Agosti
@@ -909,6 +911,8 @@ Anni senza nessun risultato: nessuno
   Hacking Team CTO Marco Valleri jokingly names 'Pietrosanti?' in an internal thread on the NSA and Microsoft exploits
 - 🆕 **2013-06-07** · Video · Politecnico Open unix Labs (YouTube) — [Conferenza Sicurezza e Privacy - Privacy](https://www.youtube.com/watch?v=6-T6nVSTd14)  
   POuL conference, Politecnico di Milano: GlobaLeaks e TOR with Claudio Agosti
+- 🆕 **2013-06-04** · Libro · Blonk (Italy) — [Destini Hacker - Attacco al sistema](https://books.google.com/books?id=5XJsAwAAQBAJ)  
+  Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Authors: Lele Rozza, Alessio Pennasilico (ISBN 9788897604198, 101 pp.). Snippet (list of Italian security people, probably acknowledgements): '... Fabio Pietrosanti, Yvette Agostini, Pierluigi Perri, Marco Misitano, Gabriele Faggioli, ... Matteo Flora, Giovanni Ziccardi, Corrado Giustozzi, Stefano Mele ...'. Page not shown.
 - 🆕 **2013-05** · Menzionato · linkiesta.it — [Di censura, leggi ed altre sciocchezze - Linkiesta.it](https://www.linkiesta.it/blog/2013/05/di-censura-leggi-ed-altre-sciocchezze/)  
   verified via wayback; context: …on mi annovero) e del mondo della Sicurezza Informatica, persone di calibro e levatura che vanno da “Raistlin” Zanero a Quintarelli, da “Mayhem” Pennasilico a “Naif” Pietrosanti a “MD” D’Itri, da “Rebus” Gabrini a “Night…
 - 🆕 **2013-04-27** · Talk · International Journalism Festival (Perugia) — [Wiretappings and secure communications (Intercettazioni e comunicazioni confidenziali)](https://www.journalismfestival.com/programme/2013/intercettazioni-e-comunicazioni-confidenziali)  
@@ -1159,7 +1163,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2010** · Altro · SlideShare profile fpietrosanti — [Fabio Pietrosanti presentations (13 decks)](https://www.slideshare.net/fpietrosanti)  
   Profile from PrivateWave/Khamsa era
 
-## 2009 — 41 voci, 39 nuove
+## 2009 — 42 voci, 40 nuove
 
 - 🆕 **2009-12-21** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Index of economic freedom](https://web.archive.org/web/2012/http://infosecurity.ch/20091221/index-of-economic-freedom/)  
   Post on his personal blog (site offline; Wayback copy)
@@ -1235,6 +1239,8 @@ Anni senza nessun risultato: nessuno
   HEAD 200, 117.8 MB. Attribution: the IA item pws_e-privacy_2009_1p04_pietrosanti_... contains eprivacy-2009-11.mov; old-site staff list materiali/2009/cose_da_non_pubblicare.html also lists 'Pietrosanti' among the 2009 recordings (DVD04 'Nigi, Agosti, Pietrosanti 1', DVD06 'Pietrosanti 2').
 - 🆕 **2009-05-22** · Video · Internet Archive (PWS e-privacy archive) — [Voice security and privacy (IA item: pdf, mp3, mov)](https://archive.org/details/pws_e-privacy_2009_1p04_pietrosanti_voice-security-and-privacy-confidentiality-protection)  
   IA creator 'Fabio Pietrosanti'; files ep2009_pietrosanti_voice_security_and_privacy.{mp3,pdf} and eprivacy-2009-11.mov (IA date field wrongly 2010-05-22)
+- 🆕 **2009-05-13** · Brevetto · European Patent Office, EP2057808A2 — [Secure multi-identity management methods for a centralized messaging service (EP2057808)](https://patents.google.com/patent/EP2057808A2/en)  
+  EP regional phase of WO2008015721; inventors include Fabio Pietrosanti.
 - 🆕 **2009-03-26** · Talk · Security Summit 2009 (Clusit), Milano, 24-26 March 2009 — [Seminario tecnico SiKurezza.org (his part: Voice security and privacy)](https://clusit.it/wp-content/uploads/newsletter/newsletter_15_03_09.pdf)  
   Clusit Newsletter 15 marzo 2009, 'PROGRAMMA DEL 26 MARZO': '14:00-18:00 Seminario tecnico SiKurezza.org' Docenti: Alessio Pennasilico, Pierluigi Perri, 'Fabio Pietrosanti, cofondatore e CTO di KHAMSA SA', Igor Falcomatà, Marco Calamari, Stefano Zanero, Paolo Perego. His 'Voice security and privacy' deck is dated 'Security Summit 26 Mar 2009', so the 29 Mar 2009 date on his site is wrong.
 - ↺ **2009-03-26** · Slide · SlideShare (Security Summit 2009 Milan) — [2009: Voice Security And Privacy (Security Summit - Milan)](https://www.slideshare.net/slideshow/2009-voice-security-and-privacy-security-summit-milan/1677364)  
@@ -1244,7 +1250,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2009** · Libro · R. Chiesa, S. Ducci, S. Ciappi, Profiling Hackers (CRC Press, 2009) - second IA copy — [Profiling hackers: the science of criminal profiling as applied to the world of hacking](https://archive.org/details/profili_chi_2009_00_8384)  
   IA FTS snippet: 'Alessandro Scartezzini, Antonis Anagnostopoulos, Fabio "Naif" Pietrosanti, Marco Tracina, Vittorio Pasteris...' (acknowledgements). Duplicate copy of known item profilinghackers0000chie.
 
-## 2008 — 6 voci, 6 nuove
+## 2008 — 7 voci, 7 nuove
 
 - 🆕 **2008-12-15** · Capitolo di libro · Shake Edizioni (collana Cyberpunkline) — [Il software libero in Italia, a cura di Andrea Glorioso - contributo di Fabio 'naif' Pietrosanti (sicurezza)](https://shake.it/libri/il-software-libero-in-italia/)  
   Publisher page lists 'Fabio naif Pietrosanti' among contributors; ISBN 9788888865768, 158-160 pp.; IBS and LibreriaUniversitaria give publication date 15 Dec 2008 - improves existing (placeholder year 2006/2004)
@@ -1252,6 +1258,8 @@ Anni senza nessun risultato: nessuno
   Box on Khamsa (founded 2005, 'Federico Moro e Fabio Pietrosanti', Politecnico di Milano incubator, 2M euro funding in 2007, Khamsa Labs) accompanying an interview with Phil Zimmermann
 - 🆕 **2008-02-07** · Brevetto · WIPO PCT patent application WO2008015723 (A2 2008-02-07, A3 2008-04-10); European application EP2057777A2 (published 2009-05-13); assignee Khamsa Italia S.r.l. — [Method of recording a not repudiable digital transmission of information and identifying the participants in the communication](https://patents.google.com/patent/WO2008015723A2/en)  
   PATENT (type set to report for lack of a patent type). Inventors: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti; assignee Khamsa Italia S.r.l. PCT/IT2007/000565 filed 2007-08-03, priority 2006-08-04. Multimedia protocol with asymmetric keys to verify identity of communication participants. EP family member: https://patents.google.com/patent/EP2057777A2/en (both pages read). Found via OpenAIRE (Lens.org record WO_2008015723_A3).
+- 🆕 **2008-02-07** · Brevetto · WIPO PCT application WO2008015721 (PCT/IT2007/000558); European application EP2057808A2; priority ITRM20060425 (2006-08-04); applicant KHAMSA Italia S.r.l. — [Secure multi-identity management methods for a centralized messaging service](https://patents.google.com/patent/WO2008015721A2/en)  
+  Inventors Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti (Google Patents page read 2026-09-19). International family of ITRM20060425.
 - 🆕 **2008-02-05** · Menzionato · Punto Informatico (PI Download review), via mgpf.it — [OsxCrypt review on PI Download (pidownload.it p.aspx?is=2179579)](https://www.punto-informatico.it/download/osxcrypt/)  
   Matteo Flora's post 'OSXCrypt sul Punto Informatico' (05.02.2008, https://mgpf.it/2008/02/05/osxcrypt-sul-punto-informatico.html) dates the PI review naming Flora, Pietrosanti, Bassotto; improves existing (date only)
 - 🆕 **2008-02-05** · Brevetto · Ufficio Italiano Brevetti e Marchi (Italian patent application ITRM20060425A1, filed 2006-08-04), assignee Khamsa Italia S.r.l. — [Techniques of safe management multi identity for centralized messaging services](https://patents.google.com/patent/ITRM20060425A1/en)  
