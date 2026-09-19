@@ -387,5 +387,29 @@
   "volunteering",
   "publications",
   "honors"
+ ],
+ "patents": [
+  {
+   "title": "Secure multi-identity management methods for a centralized messaging service",
+   "number": "WO2008015721",
+   "status": "pending",
+   "filed": "2007-08-02",
+   "url": "https://patents.google.com/patent/WO2008015721A2/en",
+   "description": [
+    "International patent application PCT/IT2007/000558 (WO2008015721), also filed at the European Patent Office as EP2057808. Italian priority RM2006A000425 of 4 August 2006. Applicant: KHAMSA Italia S.r.l. (later PrivateWave). Inventors: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti.",
+    "Methods for the secure management of multiple identities of a user on a centralized messaging service."
+   ]
+  },
+  {
+   "title": "Method of recording a not repudiable digital transmission of information and identifying the participants in the communication",
+   "number": "WO2008015723",
+   "status": "pending",
+   "filed": "2007-08-03",
+   "url": "https://patents.google.com/patent/WO2008015723A2/en",
+   "description": [
+    "International patent application PCT/IT2007/000565 (WO2008015723), also filed at the European Patent Office as EP2057777. Priority of 4 August 2006. Applicant: KHAMSA Italia S.r.l. (later PrivateWave). Inventors: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti.",
+    "A method to record a non-repudiable digital transmission of information and to identify the participants in the communication, using asymmetric keys."
+   ]
+  }
  ]
 }
