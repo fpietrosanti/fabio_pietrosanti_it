@@ -20,9 +20,9 @@ SITES = {
     },
     "madoka": {
         "order": 1,
-        "title": "Comitato Pro Ignoranza e Disinformazione",
-        "host": "panservice.it/people/madoka",
-        "text": "Il primo sito, goliardico, ospitato da Panservice: testi e racconti del «comitato».",
+        "title": "Teenager website (1997–1998)",
+        "host": "panservice.it",
+        "text": "Il primo sito, da adolescente, goliardico, ospitato da Panservice: testi e racconti del «Comitato Pro Ignoranza e Disinformazione».",
     },
     "naif": {
         "order": 2,

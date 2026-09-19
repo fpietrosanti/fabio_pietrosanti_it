@@ -121,6 +121,7 @@
    "title": "Voice encryption and the honesty of the crypto market",
    "body": [
     "In 2005 he co-founded KHAMSA, later <b>PrivateWave Italia</b>, building mobile voice and messaging encryption (PrivateGSM) for governments and enterprises, and worked with Philip Zimmermann on a ZRTP-based encrypted transport for circuit-switched networks. PrivateWave released <b>ZORG</b>, an open-source C++ and Java ZRTP implementation, in 2011 — the year ZRTP became RFC 6189.",
+    "Two patent applications came out of that work, filed by KHAMSA Italia with Federico Moro and Lorenzo Boccaccia: <b>WO2008015723</b> (also EP2057777), a method to record a non-repudiable digital communication and identify its participants with asymmetric keys, and <b>ITRM20060425</b>, techniques for the secure management of multiple identities in centralised messaging services.",
     "On his blog <i>infosecurity.ch</i> he wrote about mobile and voice security and exposed how parts of the market worked: in 2010 he showed that a supposedly independent review of voice-encryption products was traceable to one of the vendors (picked up by <i>The Register</i>), and he wrote against snake-oil claims and marketing “hacking contests”. With others he released <b>OSXCrypt</b> (2008), an attempt to bring TrueCrypt-compatible disk encryption to macOS."
    ]
   },
@@ -406,7 +407,7 @@
    "past/osxcrypt.org/"
   ],
   [
-   "madoka — panservice.it (1999)",
+   "Teenager website — panservice.it (1997–1998)",
    "past/panservice.it-people-madoka/"
   ],
   [
