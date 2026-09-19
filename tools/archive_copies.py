@@ -14,12 +14,15 @@ tools/render_copies_report.py.
 
 Usage: python tools/archive_copies.py <out_dir> [--only YEAR|ID ...] [--limit N] [--retry-failed]
 """
+import gzip
 import hashlib
 import html
 import io
 import json
 import re
+import subprocess
 import sys
+import tarfile
 import time
 import urllib.error
 import urllib.request
@@ -76,6 +79,29 @@ def ext_for(ctype, url, data):
         return "txt"
     m = re.search(r"\.([a-z0-9]{2,5})$", urlsplit(url).path.lower())
     return m.group(1) if m else "bin"
+
+
+def name_in(data, ext):
+    """Look for his name/nick also inside gzip/tar archives (BFi issues) and PDFs (via pdftotext when present).
+    Returns None for a PDF that cannot be read."""
+    if data[:2] == b"\x1f\x8b":
+        try:
+            data = gzip.decompress(data)
+        except (OSError, EOFError):
+            pass
+    try:
+        with tarfile.open(fileobj=io.BytesIO(data)) as tf:
+            return any(NAME_RE.search(tf.extractfile(m).read()) for m in tf.getmembers() if m.isfile())
+    except (tarfile.TarError, EOFError, OSError):
+        pass
+    if ext == "pdf":
+        try:
+            data = subprocess.run(["pdftotext", "-q", "-", "-"], input=data, capture_output=True, timeout=120).stdout
+        except (OSError, subprocess.SubprocessError):
+            return None
+        if not data.strip():
+            return None
+    return bool(NAME_RE.search(data))
 
 
 def html_text(data):
@@ -145,7 +171,7 @@ def copy_item(it, out):
         text = data.decode("utf-8", "replace")
     if text is not None:
         (folder / "text.txt").write_text(text, encoding="utf-8")
-    name_found = bool(NAME_RE.search(data)) if ext != "pdf" else None
+    name_found = name_in(data, ext)
     if scan and "file" in scan:
         name_found = scan["name_found"]
     js_shell = ext == "html" and text is not None and len(text) < 400
