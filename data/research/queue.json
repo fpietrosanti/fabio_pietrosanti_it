@@ -702,6 +702,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "Claude in Chrome ancora non raggiungibile (tabs_context ok, navigate: extension not connected); browser integrato: timeout su navigate. Nessuna ricerca Google; coda invariata (prossimo blocco: ansa.it, agi.it, adnkronos.com, wired.it, punto-informatico.it, zeusnews.it, webnews.it, huffingtonpost.it). Copie offline: nessuna voce in sospeso."
+    },
+    {
+      "date": "2026-09-21 11:40",
+      "engine": "none",
+      "searched": 0,
+      "captcha": false,
+      "confirmed_new": 0,
+      "note": "BRAVE_API_KEY non impostata; Claude in Chrome: nessun browser collegato (list_connected_browsers vuoto). Nessuna ricerca; coda invariata (prossimo blocco: today.it, fanpage.it, ilgiornale.it, ilmessaggero.it, avvenire.it, ilmanifesto.it, internazionale.it, dday.it). Copie offline: archiviate 4 voci nuove (brevetti WO2008015721/EP2057808, Google Books 2013, guida Hermes al voto digitale 2017)."
     }
   ]
 }

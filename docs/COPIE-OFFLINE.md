@@ -1,14 +1,14 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-09-19 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-09-21 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **656**; già processate: **675**; ancora da processare: **0**
-- Licenza delle copie ottenute: **220** materiale proprio (ripubblicabile), **441** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **506**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **71**
+- Voci in `data/media.json`: **660**; già processate: **679**; ancora da processare: **0**
+- Licenza delle copie ottenute: **222** materiale proprio (ripubblicabile), **443** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **509**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **72**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **1**
 - 🎬 Video/audio scaricato (+ pagina): **81**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **2**
@@ -30,16 +30,16 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2005 | 6 | 2 | 1 | 0 | 0 | 0 | 0 |
 | 2006 | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2007 | 4 | 0 | 2 | 0 | 0 | 0 | 0 |
-| 2008 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2009 | 37 | 2 | 5 | 0 | 0 | 0 | 0 |
+| 2008 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2009 | 38 | 2 | 5 | 0 | 0 | 0 | 0 |
 | 2010 | 51 | 2 | 1 | 0 | 0 | 0 | 3 |
 | 2011 | 22 | 3 | 3 | 0 | 0 | 0 | 0 |
 | 2012 | 24 | 1 | 4 | 0 | 0 | 0 | 0 |
-| 2013 | 19 | 6 | 8 | 0 | 0 | 0 | 0 |
+| 2013 | 19 | 6 | 9 | 0 | 0 | 0 | 0 |
 | 2014 | 20 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 23 | 8 | 1 | 0 | 1 | 0 | 0 |
 | 2016 | 12 | 7 | 1 | 0 | 0 | 0 | 0 |
-| 2017 | 54 | 5 | 8 | 0 | 0 | 0 | 8 |
+| 2017 | 55 | 5 | 8 | 0 | 0 | 0 | 8 |
 | 2018 | 33 | 16 | 10 | 0 | 0 | 0 | 2 |
 | 2019 | 15 | 3 | 3 | 0 | 1 | 0 | 1 |
 | 2020 | 34 | 3 | 2 | 0 | 0 | 0 | 0 |
@@ -138,6 +138,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🟡 **2013** · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2013** · Corriere.it (Reportime) — [Quando l'utente non si lascia spiare](http://www.corriere.it/inchieste/reportime/societa/quando-utente-non-si-lascia-spiare/afda7abe-e342-11e2-a1f9-62e4ef08d60d.shtml) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2013** · Blonk (Italy) — [Destini Hacker - Attacco al sistema](https://books.google.com/books?id=5XJsAwAAQBAJ) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2013** · 30C3 Chaos Communication Congress, Hambu — [Assembly:NoisySquare (30C3 wiki) - member; hosts GlobaLeaks project and Hermes Center](https://events.ccc.de/congress/2013/wiki/Assembly:NoisySquare) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -337,6 +339,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2007** · SlideShare (Infosecurity Italy 2007) — [2007: Infosecurity Italy: Voice Privacy Security (flash talk)](https://www.slideshare.net/slideshow/infosec-07-voice-privacy-security-flash-talk/1669302) · copia: `2007/80f5e524637a` (Web Archive 20240420) · licenza: propria
 - **2008** · PC Professionale n.207 (giugno 2008) — [L'intervista (Philip Zimmermann / Zfone) - box 'Nei Khamsa Labs si studia come rendere sic](https://archive.org/details/pcprofessionale207) · copia: `2008/229103cbad92` (live) · licenza: terzi
 - **2008** · Ufficio Italiano Brevetti e Marchi (Ital — [Techniques of safe management multi identity for centralized messaging services](https://patents.google.com/patent/ITRM20060425A1/en) · copia: `2008/ed9bed319d8c` (Web Archive 20220507) · licenza: propria
+- **2008** · WIPO PCT application WO2008015721 (PCT/I — [Secure multi-identity management methods for a centralized messaging service](https://patents.google.com/patent/WO2008015721A2/en) · copia: `2008/022f08b972ff` (Web Archive 20220507) · licenza: propria
 - **2008** · WIPO PCT patent application WO2008015723 — [Method of recording a not repudiable digital transmission of information and identifying t](https://patents.google.com/patent/WO2008015723A2/en) · copia: `2008/1407d3f71d38` (live) · licenza: propria
 - **2008** · OSXCrypt / Full Disclosure — [THIS IS NOT A SCAM: REAL TRUECRYPT FOR MACOS IS HERE!](https://seclists.org/fulldisclosure/2008/Jan/467) · copia: `2008/bc9073eaa585` (Web Archive 20111208) · licenza: propria
 - **2008** · Shake Edizioni (collana Cyberpunkline) — [Il software libero in Italia, a cura di Andrea Glorioso - contributo di Fabio 'naif' Pietr](https://shake.it/libri/il-software-libero-in-italia/) · copia: `2008/baaae4a00d4c` (Web Archive 20211201) · licenza: terzi
@@ -348,6 +351,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2009** · Internet Archive (Progetto Winston Smith — [Voice security and privacy: Confidentiality protection, today solutions and upcoming techn](https://archive.org/details/pws_e-privacy_2009_1p04_pietrosanti_voice-security-and-privacy-confidentiality-protection) · copia: `2009/1e1e94a01027` (live · video locale `media.mov` (118 MB, da caricare su Drive)) · licenza: terzi
 - **2009** · Security Summit 2009 (Clusit), Milano, 2 — [Seminario tecnico SiKurezza.org (his part: Voice security and privacy)](https://clusit.it/wp-content/uploads/newsletter/newsletter_15_03_09.pdf) · copia: `2009/37a927e55406` (Web Archive 20221128) · licenza: terzi
 - **2009** · e-privacy VIII 2009 (Progetto Winston Sm — [Voice security and privacy: Confidentiality protection, today solutions and upcoming techn](https://e-privacy.winstonsmith.org/e-privacy-VIII.html) · copia: `2009/d41f91e3e98d` (Web Archive 20150914) · licenza: terzi
+- **2009** · European Patent Office, EP2057808A2 — [Secure multi-identity management methods for a centralized messaging service (EP2057808)](https://patents.google.com/patent/EP2057808A2/en) · copia: `2009/8dae593e8c32` (live) · licenza: propria
 - **2009** · e-privacy VIII (2009), Firenze, Palazzo  — [Voice security and privacy (atti, PDF)](https://urna.winstonsmith.org/materiali/2009/atti/ep2009_pietrosanti_voice_security_and_privacy.pdf) · copia: `2009/6541db6db174` (live) · licenza: propria
 - **2009** · vitadigitale.corriere.it — [Hacker al cinema](https://vitadigitale.corriere.it/2009/03/13/hacker_al_cinema/) · copia: `2009/aa219a14f6f9` (Web Archive 20190921) · licenza: terzi
 - **2009** · infosecurity.ch (blog) — [Hackers hired from UK Office of Cyber Security](https://web.archive.org/web/2012/http://infosecurity.ch/20090706/hackers-hired-from-uk-office-of-cyber-security/) · copia: `2009/eaac763bfefa` (Web Archive 20100913) · licenza: propria
@@ -584,6 +588,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · Eunews (YouTube) — [Intelligence, privacy e antiterrorismo in Europa](https://www.youtube.com/watch?v=IEViqE1HxfU) · copia: `2016/478b7b9746d3` (live · video locale `media.mp4` (538 MB, da caricare su Drive)) · licenza: terzi
 - **2016** · HackInBo (YouTube) — [Tavola Rotonda con Igor "KOBA" Falcomatà e Fabio "NAIF" Pietrosanti #HackInBo2016](https://www.youtube.com/watch?v=X_zQdg47ZtU) · copia: `2016/5e00215e7eb5` (Web Archive 20230224 · video locale `media.mp4` (312 MB, da caricare su Drive)) · licenza: terzi
 - **2017** · Hermes Center for Transparency and Digit — [Guida Hermes al voto digitale](https://archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale) · copia: `2017/67ee9034282f` (live) · licenza: terzi
+- **2017** · HERMES Center for Transparency and Digit — [La Guida HERMES al Voto Digitale (v1.0)](https://archive.org/download/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale_LaGuidaHermesAlVotoDigitale_v1.0.pdf) · copia: `2017/f459b1aa269d` (live) · licenza: terzi
 - **2017** · Boing Boing — [Italy unveils a legal proposal to regulate government hacking](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html) · copia: `2017/d316cfd30704` (Web Archive 20170215) · licenza: terzi
 - **2017** · Mozilla Bugzilla — [Bug 1303739 «Warn when downloading executable files over HTTP» (comments by naif)](https://bugzilla.mozilla.org/show_bug.cgi?id=1303739) · copia: `2017/de839b12ee0a` (Web Archive 20190612) · licenza: propria
 - **2017** · Citizen Lab, Munk School of Global Affai — [Who's Watching Little Brother? A Checklist for Accountability in the Industry Behind Gover](https://citizenlab.ca/wp-content/uploads/2017/03/citizenlab_whos-watching-little-brother.pdf) · copia: `2017/8c507215d23b` (Web Archive 20180228) · licenza: terzi
