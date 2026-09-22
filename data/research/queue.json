@@ -150,35 +150,35 @@
     },
     {
       "domain": "hwupgrade.it",
-      "status": "pending"
+      "status": "retry"
     },
     {
       "domain": "tomshw.it",
-      "status": "pending"
+      "status": "retry"
     },
     {
       "domain": "key4biz.it",
-      "status": "pending"
+      "status": "retry"
     },
     {
       "domain": "agendadigitale.eu",
-      "status": "pending"
+      "status": "retry"
     },
     {
       "domain": "cybersecurity360.it",
-      "status": "pending"
+      "status": "retry"
     },
     {
       "domain": "corrierecomunicazioni.it",
-      "status": "pending"
+      "status": "retry"
     },
     {
       "domain": "startmag.it",
-      "status": "pending"
+      "status": "retry"
     },
     {
       "domain": "formiche.net",
-      "status": "pending"
+      "status": "retry"
     },
     {
       "domain": "ilriformista.it",
@@ -734,6 +734,14 @@
       "captcha": false,
       "confirmed_new": 2,
       "note": "Blocco domini: today.it, fanpage.it, ilgiornale.it, ilmessaggero.it, avvenire.it, ilmanifesto.it, internazionale.it, dday.it. Nuove: today.it 'Nella cyber war l'Italia affida i suoi segreti all'antivirus russo' (2022, cita intervista al Riformista) e video Fanpage Backstair/GlobaLeaks ai DIG Awards. Omonimi scartati: Matteo Pietrosanti (Il Messaggero Latina), Sabrina Pietrosanti (il manifesto). BRAVE_API_KEY non impostata. Pista: intervista al Riformista su Kaspersky (dominio ilriformista.it già in coda). Prossimo blocco: domini pending successivi."
+    },
+    {
+      "date": "2026-09-22 16:50",
+      "engine": "google-chrome",
+      "searched": 0,
+      "captcha": true,
+      "confirmed_new": 0,
+      "note": "BRAVE_API_KEY non impostata. Chrome collegato, ma Google ha mostrato il controllo anti-robot (/sorry) già alla prima ricerca (site:hwupgrade.it): stop immediato, nessun aggiramento. Segnati 'retry': hwupgrade.it, tomshw.it, key4biz.it, agendadigitale.eu, cybersecurity360.it, corrierecomunicazioni.it, startmag.it, formiche.net. Probabile effetto del blocco delle 12:40 (intervallo troppo breve)."
     }
   ]
 }
