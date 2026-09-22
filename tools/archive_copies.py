@@ -95,10 +95,15 @@ def name_in(data, ext):
     except (tarfile.TarError, EOFError, OSError):
         pass
     if ext == "pdf":
-        try:
-            data = subprocess.run(["pdftotext", "-q", "-", "-"], input=data, capture_output=True, timeout=120).stdout
-        except (OSError, subprocess.SubprocessError):
-            return None
+        # pdftotext cannot read a PDF from stdin on the Windows (mingw) build: go through a temp file
+        import tempfile
+        with tempfile.TemporaryDirectory() as td:
+            src = Path(td) / "in.pdf"
+            src.write_bytes(data)
+            try:
+                data = subprocess.run(["pdftotext", "-q", str(src), "-"], capture_output=True, timeout=120).stdout
+            except (OSError, subprocess.SubprocessError):
+                return None
         if not data.strip():
             return None
     return bool(NAME_RE.search(data))

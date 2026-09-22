@@ -1,0 +1,41 @@
+[
+  {
+    "date": "2017-11",
+    "year": 2017,
+    "type": "thesis",
+    "outlet": "Tampere University of Technology (MSc thesis, Master's Degree Programme in Information Technology)",
+    "title": "TorSNIP: Hidden Service Proxy with End-to-End Security (Kiyani)",
+    "url": "https://trepo.tuni.fi/handle/123456789/25394",
+    "language": "en",
+    "role": "cited",
+    "note": "Reference [17]: 'F. Pietrosanti, \"TOR2WEB: Past, present, future of anonymous publishing infrastructure,\" e-privacy 2012' (urna.winstonsmith.org/materiali/2012/atti/Pietrosanti_Tor2web.pdf); cited in section 2.4 'Tor2web Proxy' (printed p.11, PDF p.18) and in the reference list (PDF p.~51). trepo.tuni.fi is behind an Anubis bot check; PDF obtained from the Wayback Machine (id_ capture of trepo.tuni.fi/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4). OpenAlex W2952741402 full text also matches 'Pietrosanti'.",
+    "verified": true,
+    "known": true
+  },
+  {
+    "date": "2024-05-07",
+    "year": 2024,
+    "type": "book_chapter",
+    "outlet": "Edward Elgar, Digital Media and Grassroots Anti-Corruption (ed. A. Mattoni), ch. 7, open access CC BY-NC-ND",
+    "title": "Digital whistleblowing platforms for anti-corruption: The Transparency International Italia case (Philip Di Salvo)",
+    "url": "https://doi.org/10.4337/9781802202106.00015",
+    "language": "en",
+    "role": "mentioned",
+    "note": "p.145: GlobaLeaks was 'initiated by Italians Arturo Filastò, Claudio Agosti, Fabio Pietrosanti, Giovanni Pellerano and Michele Orrù' and presented at the 2011 End Summer Camp. Elgar's PDF download returns HTTP 202 with an empty body (bot protection), so we did not use it. Verified in the full OA book PDF on the Bologna IRIS repository: https://cris.unibo.it/retrieve/4641103d-c0ba-48dc-a07a-2063d5e640d6/Digital%20Media%20and%20Grassroots%20Anti-Corruption.pdf (handle 11585/954772), PDF p.155.",
+    "verified": true,
+    "known": true
+  },
+  {
+    "date": "2013-06",
+    "year": 2013,
+    "type": "paper",
+    "outlet": "arXiv:1306.5156",
+    "title": "Cryptocat: Adopting Accessibility and Ease of Use as Security Properties (Kobeissi et al.)",
+    "url": "https://arxiv.org/pdf/1306.5156",
+    "language": "en",
+    "role": "acknowledged",
+    "note": "Acknowledgements, p.6: thanks for contributions, review, testing and feedback to '... Meredith L. Patterson, Fabio Pietrosanti and the open source security community'. Found again through an OpenAlex full-text search for \"Fabio Pietrosanti\".",
+    "verified": true,
+    "known": true
+  }
+]

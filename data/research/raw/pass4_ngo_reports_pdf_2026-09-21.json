@@ -1,0 +1,41 @@
+[
+ {
+  "date": "2020-03-18",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "Transparency International Italia (news)",
+  "title": "La libertà passa anche da #SaveDotOrg",
+  "url": "https://transparency.it/informati/news/la-liberta-passa-anche-da-savedotorg",
+  "language": "it",
+  "role": "quoted as president of Hermes Center",
+  "note": "HTML news item (not a PDF). Text: 'Anche Fabio Pietrosanti, presidente di Hermes Center for Transparency and Digital Human Rights, si dice preoccupato...' on the sale of the .ORG registry (PIR) to Ethos Capital. Date inferred from image filename 20200318.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019",
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "Freedom House, Freedom on the Net - Italy",
+  "title": "Freedom on the Net 2019: Italy (also 2018, 2020-2023 editions)",
+  "url": "https://freedomhouse.org/country/italy/freedom-net/2019",
+  "language": "en",
+  "role": "his EDRi article cited as source (credited to 'Hermes Center')",
+  "note": "Footnote cites 'Hermes Center, \"Italy extends data retention to six years,\" EDRi, November 29, 2017' (the known 2017 article_by). His name does NOT appear in the report; Hermes Center only. Include only if indirect citations are wanted.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2021-07",
+  "year": 2021,
+  "type": "report",
+  "outlet": "Blueprint for Free Speech (EU ISF-Police + OSIFE funded EAT project)",
+  "title": "Expanding Anonymous Tipping in Europe (EAT) final report",
+  "url": "https://static1.squarespace.com/static/5e249291de6f0056c7b1099b/t/60fee180f7b25d77581c6f98/1627316617173/Expanding+Anonymous+Tipping+in+Europe_EAT.pdf",
+  "language": "en",
+  "role": "Hermes Center as EAT partner / GlobaLeaks provider",
+  "note": "78 pp.; Hermes/GlobaLeaks mentioned 11+ times (partner, platform maintainer, contact block). Full text searched: his name does NOT appear (interviewee list has no Pietrosanti). Organisation-level only.",
+  "verified": false,
+  "known": false
+ }
+]

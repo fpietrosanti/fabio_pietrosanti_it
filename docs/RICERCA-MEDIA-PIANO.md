@@ -96,6 +96,17 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   (testo italiano); Semantic Scholar (429 per 40 minuti: serve chiave API o altro orario, provare snippet/search);
   Di Salvo 2024 (Elgar, capitolo TI Italia, 403); tesi TorSNIP (Tampere, non raggiungibile); HAL/theses.fr dietro
   controllo anti-bot; report ONG solo PDF (WIN, RSF, FBK, relazioni annuali ANAC); titolo dell'articolo Businessweek.
+  **Passata 2026-09-21 (pass4_scholarly_apis / books_api / ngo_reports_pdf):** Di Salvo 2024 **confermato** (PDF open
+  access dal repository UniBo, p.145); tesi TorSNIP **confermata** (rif. [17], PDF da Web Archive); Cryptocat 2013
+  riconfermato; nuova voce TI Italia «#SaveDotOrg» (2020, citato come presidente Hermes). OpenAlex full-text, Crossref,
+  HAL, arXiv, Zenodo: solo omonimi. OGP Italia (35 PDF), UNODC, TI Italia, ANAC AIR, EDPS, PI/CILD, audit GlobaLeaks:
+  nome assente. Esclusi Freedom House FOTN e report EAT (solo «Hermes Center»). **Bug corretto** in `merge_media.py`:
+  gli URL `books.google.com/books?id=…` collassavano in uno → recuperati 11 libri verificati il 19/09.
+  **Resta ancora:** Google Books API bloccata senza chiave (429, limite 0: serve una chiave API gratuita di Google Cloud);
+  Semantic Scholar sempre 429 (serve chiave); senato.it 403 e ohchr.org Cloudflare; CDX su anticorruzione.it
+  (consultazioni 2015/2019), hermescenter.org e allegati senato.it quando il Web Archive è stabile; tesi UniBo
+  «Anonimato in rete» (eprint 9599, PDF 401); *Profilo hacker* (Apogeo 2007) pagina non confermata; Frediani *Guerre di
+  rete* letto: nomina GlobaLeaks ma non Fabio.
 - [ ] Corriere della Sera 2001-01-26 p.25: verificare nel testo.
 - [ ] RAI Teche, Mediaset, Radio Monte Carlo, arretrati ICT Security / Wireless / WeekIT.
 - [ ] Audizioni Camera/Senato/Parlamento europeo (ricerca nei resoconti).

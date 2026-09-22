@@ -49,7 +49,13 @@ def norm_url(u):
         return "youtube/" + re.search(r"v=([\w-]+)", s.query).group(1)
     if host == "youtu.be":
         return "youtube/" + path.strip("/")
-    return host + path
+    # identifying query parameters (books.google.com/books?id=..., index.php?id=..&productID=..): without them
+    # different books/pages collapse into one key
+    ids = sorted(p for p in s.query.split("&") if p.split("=")[0].lower() in ID_PARAMS)
+    return host + path + ("?" + "&".join(ids) if ids else "")
+
+
+ID_PARAMS = {"id", "productid", "p", "page_id", "articleid", "idarticolo", "idnotizia"}
 
 
 def norm_title(t):

@@ -31,6 +31,14 @@
   {
    "url": "https://freedomnotfear.org/2020/our-schedule-for-saturday-7-november",
    "reason": "Fabio 2026-09-18: he did not run the FNF 2020 Hermes workshop"
+  },
+  {
+   "url": "https://freedomhouse.org/country/italy/freedom-net/2019",
+   "reason": "2026-09-21: footnotes cite his 2017 EDRi article but credit only 'Hermes Center'; neither his name nor 'naif' appears (Fabio's rule: then it is not him)"
+  },
+  {
+   "url": "https://static1.squarespace.com/static/5e249291de6f0056c7b1099b/t/60fee180f7b25d77581c6f98/1627316617173/Expanding+Anonymous+Tipping+in+Europe_EAT.pdf",
+   "reason": "2026-09-21: Blueprint for Free Speech EAT report 2021: Hermes/GlobaLeaks as partner, his name not in the text (not among interviewees)"
   }
  ],
  "override": [
@@ -103,6 +111,27 @@
    "set": {
     "date": "2022-06-17",
     "note_date": "date corrected from the official programme (2026-09-18)"
+   }
+  },
+  {
+   "url": "http://sktguow.infosecisland.com/blogview/12929-ZRTP-Voice-Encryption-is-Finally-a-Standard-RFC.html",
+   "set": {
+    "verified": true,
+    "archive_url": "https://web.archive.org/web/20111206170602/https://infosecisland.com/blogview/12929-ZRTP-Voice-Encryption-is-Finally-a-Standard-RFC.html",
+    "note": "Canonical URL infosecisland.com/blogview/12929-...; 'Contributed By: Fabio Pietrosanti' in the Web Archive capture of 2011-12-06 (5 captures 2011-2014). The 'sktguow.' host from search results was never archived (2026-09-21)"
+   }
+  },
+  {
+   "url": "https://doi.org/10.4337/9781802202106.00015",
+   "set": {
+    "verified": true,
+    "note": "Open-access PDF of the whole book (University of Bologna repository, handle 11585/954772): p.145 'initiated by Italians Arturo Filastò, Claudio Agosti, Fabio Pietrosanti, Giovanni Pellerano and Michele Orrù' (2026-09-21)"
+   }
+  },
+  {
+   "url": "https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html",
+   "set": {
+    "note_search": "2026-09-21: web search metadata suggests publication 2014-11-25 (not verified; page 404, audio not found)"
    }
   }
  ],

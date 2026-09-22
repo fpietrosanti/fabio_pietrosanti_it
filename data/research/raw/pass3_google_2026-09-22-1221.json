@@ -1,0 +1,28 @@
+[
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "today.it",
+  "title": "Nella cyber war l'Italia affida i suoi segreti all'antivirus russo",
+  "url": "https://www.today.it/tech/cyber-guerra-ucraina-russia-rischi-italia.html",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …parlando di un software che ogni giorno si collega a Mosca per effettuare gli aggiornamenti. Il problema non è scontato, e lo spiega bene l'attivista digitale Fabio Pietrosanti in un'intervista al Riformista: \"Il Governo…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "youmedia.fanpage.it",
+  "title": "Backstair, la nuova piattaforma di whistleblowing ai DIG Awards: “Segnalazioni completamente anonime”",
+  "url": "https://youmedia.fanpage.it/video/aa/X48IuuSwldvwx9NG",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …istleblowing in collaborazione con GlobaLeaks. Uno strumento per inviare segnalazioni in maniera completamente anonima, spiega uno dei fondatori di GlobaLeaks, Fabio Pietrosanti, per portare a conoscenza i giornalisti d'…",
+  "verified": true,
+  "known": false
+ }
+]

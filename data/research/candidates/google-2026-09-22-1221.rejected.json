@@ -1,0 +1,20 @@
+[
+ {
+  "url": "https://europa.today.it/attualita/kaspersky-attacchi-informatici-russia.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.today.it/tech/guerra-informatica-ucraina-rifugiati.html",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.today.it/mondo/guerra-russia-ucraina-ultime-notizie-giornale-kyiv-independent.html",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.ilgiornale.it/news/politica/m5s-ecco-contro-piattaforma-che-sfida-rousseau-1893743.html",
+  "reason": "already in media.json"
+ }
+]
