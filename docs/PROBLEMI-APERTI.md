@@ -52,6 +52,19 @@ Stato generale: **692 voci** (599 verificate); **tutte** le copie processate —
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-bis. Task «download rinviati» — chiuso il 2026-09-23 (sera)
+Il task creato il 22/09 per rifare i download pesanti «quando torna la linea veloce» **non serve più**:
+le esecuzioni ordinarie di oggi avevano già tolto il marcatore `.low-bandwidth` e smaltito tutta la lista
+«Download rinviati». Verificati uno per uno gli elementi che erano in coda: **TorSNIP** (PDF da 3,2 MB + testo
+estratto, `2017/4ac2264ec0cf`), **Infosec Island** ZRTP (`2011/6eef821a1b3c`), **LDR/pluto.it** «Suggerimenti»
+(`2001/581a4a985147`), **askanews 2017** sui captatori (`2017/6f076ea0271b`, copia completa ma senza il tuo nome),
+**PDF PrivateWave** (confermato: mai archiviati). Ci sono tutti.
+
+La linea stasera era comunque ancora lenta (0,37–1,0 MB/s su due test), quindi **non ho riscaricato nulla**:
+le uniche due cose fatte sono a costo zero di banda — la riparazione della copia `mxmap.it` (i byte gzip erano
+già sul disco, bastava decomprimerli) e la correzione di questa scheda, che dava per «non ottenuto» materiale
+che in realtà era stato recuperato il 19/09.
+
 ### B0. Chiuse il 2026-09-23
 - **Ticket VLC (12)**: per tua decisione sono **un episodio unico** (campagna HTTPS su videolan.org, 2017-2019,
   «una cosa aperta e chiusa»). Resta la sola voce capofila **#18472**; gli altri 11 sono esclusi in `decisions.json`.
@@ -69,10 +82,12 @@ Stato generale: **692 voci** (599 verificate); **tutte** le copie processate —
 ### B1. Non ottenute (5)
 | Anno | Fonte | Motivo | Proposta |
 |---|---|---|---|
+| 2000 | Hackmeeting 2000 (Hackit00), «Letteratura Cyberpunk» | Pagina live sparita (404; in HTTPS il certificato di `hackmeeting.org` non corrisponde). Nel Web Archive c'è **una sola** capture (20260827004502, 1.310 byte) e la replay risponde **500** su ogni forma di URL | Guasto lato Internet Archive, non un vicolo cieco: **riprovare fra qualche giorno** |
 | 2010 | PrivateWave press release EN (PDF) | 403 sul sito, mai archiviato dal Web Archive | Fabio ha i PDF originali di PrivateWave? |
 | 2010 | PrivateWave press release ES (PDF) | idem | idem |
 | 2010 | Radio Monte Carlo, audio intervista | 404, nessuna copia archiviata | Chiedere a RMC o cercare registrazioni personali |
-| 2011 | Infosec Island, «ZRTP Voice Encryption is Finally a Standard» | sito chiuso, non archiviato | Cercare ripubblicazioni del testo (PrivateWave blog, mailing list) |
+| 2021 | IGI Global, *Research Anthology on Business Aspects of Cybersecurity* | La scheda Google Books (`id=KOREEAAQBAJ`) risponde 404 | Serve la **chiave API Google Books** (vedi A0.2 / A4) |
+| ~~2011~~ | ~~Infosec Island, «ZRTP Voice Encryption is Finally a Standard»~~ | **Risolto il 19/09**: recuperato dal Web Archive (capture 20111206), firma «Contributed By: Fabio Pietrosanti» presente nella copia `2011/6eef821a1b3c` | — |
 | ~~2026~~ | ~~Zhihu sul TimePie Forum~~ | **Risolto 18/09**: letto nel Chrome di Fabio, salvato l’estratto con il suo intervento | Web Archive «save» ha risposto 500: riprovare |
 
 ### B2. Video non scaricabile (1)
@@ -85,11 +100,11 @@ Il problema «59 copie senza il nome» era in realtà cinque problemi diversi. O
 | Categoria | Quante | Cosa significa | Proposta |
 |---|---:|---|---|
 | ✅ **Risolte** | **12** | Il nome c'era, ma in un file diverso da quello che il controllo leggeva (OCR de La Stampa 2002, programmi e-privacy che accompagnano audio/video, snippet Google Books, commit e contributor GitHub, copia restaurata di infosecurity.ch) | Fatto: il controllo ora legge **tutti** i file della copia, non solo `text.txt` |
-| 🏛️ **Solo organizzazione** | **28** | Copia completa, ma la pagina parla di Hermes Center / GlobaLeaks / WhistleblowingPA / Copernicani **senza nominarti** (EDRi ×4, CCC wiki, OHM2013, e-privacy XXIV/XXV, whistleblowing.it, hermescenter.org FOIA, interoperable-europe…) | **Serve una tua decisione**: la tua regola dice «senza nome non sono io», ma qui si tratta di pagine dei *tuoi* progetti. Le tengo come *contesto del progetto* o le escludo? |
+| 🏛️ **Solo organizzazione** | **29** | Copia completa, ma la pagina parla di Hermes Center / GlobaLeaks / WhistleblowingPA / Copernicani / MxMap **senza nominarti** (EDRi ×4, CCC wiki, OHM2013, e-privacy XXIV/XXV, whistleblowing.it, hermescenter.org FOIA, interoperable-europe…) | **Serve una tua decisione**: la tua regola dice «senza nome non sono io», ma qui si tratta di pagine dei *tuoi* progetti. Le tengo come *contesto del progetto* o le escludo? |
 | 📚 **Libri e paper** | **13** | È solo la scheda del volume: il nome sta nel testo interno (Google Books, Springer, Elgar, archive.org in prestito) | Google Books API / PDF del capitolo — **serve una chiave API Google** (vedi A4) |
 | 🔊 **Solo video/audio** | **11** | Il tuo intervento è nella registrazione, non nel testo della pagina (Sky TG24 2013, RaiNews 2025, Bilibili ×2, 5 puntate di Radio 24 + 2 podcast MP3) | Trascrizione automatica della registrazione |
 | 🗂️ **Scheda d'archivio** | **3** | Maschera di ricerca dell'archivio Corriere e due pagine «Amministrazione Trasparente» di scuole che costruiscono l'elenco documenti in JavaScript (verificato anche nel browser) | Corriere: già escluso. Scuole: serve l'URL diretto del PDF dell'istanza |
-| 🧩 **Bug di copia** | **1** | `mxmap.it` salvato compresso e illeggibile (gzip/brotli non decodificato) | Riscaricare con decodifica corretta |
+| ~~🧩 **Bug di copia**~~ | ~~1~~ | ~~`mxmap.it` salvato compresso e illeggibile (gzip/brotli non decodificato)~~ | **Risolto il 23/09**: i byte erano integri, bastava decomprimerli in locale (nessun nuovo download). La pagina è leggibile ma non ti nomina → spostata in «solo organizzazione» |
 | 🔎 **Nome davvero assente** | **11** | Copia completa e leggibile: la pagina **non** contiene né il nome né «naif» né un tuo progetto (Apogeo ×3, Corriere TV 2013, Askanews 2017, IJF 2017, StartupItalia 2018, CINI 2017, FNF 2017, Pluto LDR 2001, SecurityWeek 2019) | Per la tua regola andrebbero **escluse**: confermi? |
 
 ### B3. Copie ottenute ma senza il tuo nome dentro (59) — *superato dalla tabella qui sopra*

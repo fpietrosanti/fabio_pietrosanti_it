@@ -8,12 +8,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 - Voci in `data/media.json`: **692**; già processate: **730**; ancora da processare: **0**
 - Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **420** di terzi (**solo archivio privato**, mai linkate dal sito)
 - ✅ Copia locale, nome verificato nella copia: **553**
-- 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **28**
+- 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **29**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **11**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **13**
 - 🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione): **11**
 - 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **3**
-- 🧩 Copia salvata compressa/non decodificata: da riscaricare: **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **20**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
 - 🎬 Video/audio scaricato (+ pagina): **82**
@@ -104,7 +103,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ⏹️ **2026** · Camera dei deputati, IX Commissione (Tra — [Memoria soggetto non audito - Rete diritti umani digitali, osservazioni sull'A.G. n. 421 (](https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.97466.23-07-2026-12-31-56.077.pdf) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ❌ **2000** · Hackmeeting 2000 (Hackit00), Roma, Forte — [Letteratura Cyberpunk (seminar proposal)](https://www.hackmeeting.org/hackit00/proposte/letteratura.html) · licenza: terzi  
-  URLError
+  2026-09-23: la pagina live non esiste piu' (404; in HTTPS il certificato di www.hackmeeting.org non corrisponde). Nel Web Archive esiste una sola capture (20260827004502, 1310 byte) ma la replay del Wayback risponde 500 su tutte le forme di URL (id_ e normale). Da riprovare piu' avanti: e' un guasto lato Internet Archive, non un vicolo cieco definitivo.
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
   http 403
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
@@ -139,8 +138,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
 - 📚 **2025** · Oxford University Press — [Political Automation: An Introduction to AI in Government and Its Impact on Citizens](https://books.google.com/books?id=xRREEQAAQBAJ) · licenza: terzi  
   2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 🧩 **2026** · mxmap.it — [MxMap.it — Sovranità digitale della posta elettronica della PA italiana](https://mxmap.it/) · licenza: propria  
-  2026-09-23: la copia salvata e' compressa/non decodificata (testo illeggibile): bug di archive_copies su risposte gzip/brotli. Da riscaricare con decodifica corretta.
 - 🔊 **2013** · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) · licenza: terzi  
   2026-09-23: la copia e' una pagina video: il suo intervento sta nell'audio/video, non nel testo della pagina. Conferma possibile solo dalla trascrizione.
 - 🔊 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180302-2024.mp3) · licenza: terzi  
@@ -241,6 +238,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: copia completa; la pagina documenta Hermes Center/GlobaLeaks ma non contiene ne' il nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto.
 - 🏛️ **2026** · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit) · licenza: propria  
   2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
+- 🏛️ **2026** · mxmap.it — [MxMap.it — Sovranità digitale della posta elettronica della PA italiana](https://mxmap.it/) · licenza: propria  
+  2026-09-23: bug di copia RISOLTO (corpo gzip decodificato in locale, nessun nuovo download). La pagina e' leggibile ma e' la home di un suo progetto e non contiene il suo nome: rientra nella categoria «solo organizzazione».
 - 🗂️ **2001** · Corriere della Sera (ed. nazionale, p. 2 — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma p](https://archivio.corriere.it/Archivio/interface/landing.html) · licenza: terzi  
   2026-09-23: la copia e' solo una scheda/maschera di ricerca d'archivio, senza il testo dell'articolo. Serve la pagina di giornale vera (scansione archive.org o capture dell'URL dell'articolo).
 - 🗂️ **2022** · Istituto Comprensivo Cornigliano, Genova — [Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013](https://www.iccornigliano.edu.it/amministrazione-trasparente/) · licenza: terzi  
