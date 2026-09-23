@@ -1,7 +1,10 @@
 {
  "about": "Decisions by Fabio (2026-09-18) applied by tools/merge_media.py: 'exclude' items are dropped from data/media.json (kept here with the reason); 'override' fields are applied to matching URLs.",
  "not_me": [
-  "Paolo Pietrosanti (radicale) — any article about him is excluded"
+  "Paolo Pietrosanti (radicale) — any article about him is excluded",
+  "Fabrizio Pietrosanti (avvocato, Latina, studio «Pietrosanti Paparo & Associati»): compare in delibere ANAC e in provvedimenti del Garante privacy 2007 (Acqualatina) - non e' Fabio",
+  "Valentina Pietrosanti: cura le schede dei resoconti parlamentari di Radio Radicale («Scheda a cura di») - non e' Fabio",
+  "Ezio, Alessio, Mario Lauro, Corinna, Maria Paola Pietrosanti Malintoppi: omonimi trovati su camera.it/senato.it e nelle tesi - non sono Fabio"
  ],
  "exclude": [
   {
@@ -47,6 +50,94 @@
   {
    "url": "https://www.corrierecomunicazioni.it/digital-economy/rfid-una-legge-per-la-filiera-del-fashion/",
    "reason": "2026-09-23: omonimo, Lorenzo Pietrosanti (Gruppo Tia), nessun riferimento a Fabio"
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/18484",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/18486",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/18491",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/18492",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/18493",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/18498",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/18500",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/18569",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/20007",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/20008",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/21805",
+   "reason": "Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate."
+  },
+  {
+   "url": "http://derstandard.at/1265852155744/Private-GSM-schuetzt-vor-Lauschangriffen",
+   "reason": "2026-09-23: articolo derStandard.at 2010 su PrivateGSM, trovato dalla pagina stampa di PrivateWave nel Web Archive; letto dalla capture 20130904030351: parla del prodotto e di ZRTP ma non contiene ne Fabio Pietrosanti ne naif (regola di Fabio: allora non e lui)"
+  },
+  {
+   "url": "https://www.istitutolucianomanara.edu.it/storico/wp-content/uploads/2023/07/FOIA-01.MIIC8C7002-1.pdf",
+   "reason": "2026-09-23: PDF della richiesta FOIA MonitoraPA pubblicato dall'Istituto Comprensivo «Luciano Manara» di Roma: contiene dati personali di Fabio (data e luogo di nascita, codice fiscale, indirizzo di residenza). Escluso dal repo pubblico per lo stesso motivo per cui e' stata esclusa la pagina Monitora PA «1311 nuove PEC» (decisione di Fabio del 2026-09-17). La copia resta solo nell'archivio privato. DA PROPORRE A FABIO: richiesta di rimozione/oscuramento alla scuola."
+  },
+  {
+   "url": "https://www.camera.it/leg17/546",
+   "reason": "2026-09-23: audizione di **Adriano Pietrosanti** (ASSOGENERICI, contraffazione farmaceutica) negli elenchi auditi della Camera XVII: omonimo, non e' Fabio."
+  },
+  {
+   "url": "https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/0211/indag/c0211_protezione/2015/10/23/indice_stenografico.0004.html",
+   "reason": "2026-09-23: resoconto del 23/10/2015 (Commissioni Riunite II+XI, ddl Businarolo): il Centro Hermes fu audito ma lo rappresentava **Alessandro Rodolfi**; il nome di Fabio non compare. Regola di Fabio: senza nome non e' lui. Resta agli atti come traccia istituzionale dell'organizzazione."
+  },
+  {
+   "url": "https://www.camera.it/leg17/1096",
+   "reason": "2026-09-23: l'elenco ufficiale degli auditi della Camera XVII (2.199 righe) e' stato scaricato e cercato per intero: Fabio NON c'e'. Pagina tenuta solo come prova della ricerca, non e' una sua menzione."
+  },
+  {
+   "url": "https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/431/041/Memoria_Rete_Diritti_Umani_Digitali.pdf",
+   "reason": "2026-09-23: memoria della Rete per i Diritti Umani Digitali (Hermes ne e' socia): PDF scaricato ed estratto, il nome di Fabio non compare. Regola di Fabio: senza nome non e' lui."
+  },
+  {
+   "url": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.97660.22-07-2026-16-10-48.793.pdf",
+   "reason": "2026-09-23: memoria della Rete per i Diritti Umani Digitali (Hermes ne e' socia): PDF scaricato ed estratto, il nome di Fabio non compare. Regola di Fabio: senza nome non e' lui."
+  },
+  {
+   "url": "https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.92477.28-05-2026-12-49-33.901.pdf",
+   "reason": "2026-09-23: memoria della Rete per i diritti umani digitali (Hermes ne e' socia): PDF scaricato ed estratto, il nome di Fabio non compare. Regola di Fabio: senza nome non e' lui."
+  },
+  {
+   "url": "https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.97466.23-07-2026-12-31-56.077.pdf",
+   "reason": "2026-09-23: memoria della Rete per i diritti umani digitali (Hermes ne e' socia): PDF scaricato ed estratto, il nome di Fabio non compare. Regola di Fabio: senza nome non e' lui."
+  },
+  {
+   "url": "https://web.archive.org/web/20181127234231id_/http://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/ConsultazioniOnline/20150224/Osservazioni_Linne_guida_WB.05.08.15.pdf",
+   "reason": "2026-09-23: osservazioni alle Linee guida whistleblowing ANAC 2015: il contributo del Centro Hermes/RDFh c'e', ma lo firmano Sabatinelli, Somma, Calamari, Cerrone, Farina Coscioni, Turco - non Fabio."
+  },
+  {
+   "url": "https://amslaurea.unibo.it/id/eprint/9599/",
+   "reason": "2026-09-23: tesi UniBo «Anonimato in rete» (eprint 9599): PDF riservato all'ateneo e mai archiviato; l'abstract parla di Tor e deep web ma non cita Pietrosanti ne' GlobaLeaks. Senza il testo non e' attribuibile."
   }
  ],
  "override": [
@@ -140,6 +231,33 @@
    "url": "https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html",
    "set": {
     "note_search": "2026-09-21: web search metadata suggests publication 2014-11-25 (not verified; page 404, audio not found)"
+   }
+  },
+  {
+   "url": "https://code.videolan.org/videolan/vlc/-/work_items/18472",
+   "set": {
+    "title": "VLC / videolan.org verso HTTPS: campagna di ticket di Fabio Pietrosanti (2017-2019) - capofila #18472 «Enforce the uses of HTTPS for all websites of VLC/videolan.org»",
+    "note": "Episodio unico, aperto e chiuso: 12 ticket aperti da Fabio su code.videolan.org fra il 2017 e il 2019 per portare VLC e videolan.org su HTTPS (#18472 #18484 #18486 #18491 #18492 #18493 #18498 #18500 #18569 #20007 #20008 #21805). Per decisione di Fabio (2026-09-23) l'archivio ne tiene una sola voce."
+   }
+  },
+  {
+   "url": "https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/",
+   "set": {
+    "verified": true,
+    "note": "2026-09-23: CONFERMATO. Nei ringraziamenti di «Profilo hacker» (Chiesa/Ducci/Ciappi, Apogeo 2007; ed. inglese «Profiling Hackers», CRC Press/Auerbach) compare «\"Naif\" Pietrosanti, Marco Tracina, Vittorio Pasteris». Il nick rende l'identificazione certa. Testo verificato sulla copia Internet Archive https://archive.org/details/profili_chi_2009_00_8384"
+   }
+  },
+  {
+   "url": "https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ",
+   "set": {
+    "verified": true,
+    "note": "2026-09-23: confermato dai ringraziamenti («\"Naif\" Pietrosanti»), verificati sulla copia Internet Archive del volume."
+   }
+  },
+  {
+   "url": "https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software",
+   "set": {
+    "note": "2026-09-23: letto per intero: l'articolo racconta la vicenda della licenza AGPL fra ANAC e Hermes Center ma NON contiene il nome di Fabio (cita solo Marco Bondello). Da decidere con Fabio se tenerlo come contesto del progetto o escluderlo."
    }
   }
  ],

@@ -1,0 +1,93 @@
+[
+ {
+  "date": "2015-10-23",
+  "year": 2015,
+  "type": "resoconto",
+  "outlet": "Camera dei deputati, Commissioni Riunite II (Giustizia) e XI (Lavoro) - indagine conoscitiva sulla pdl C. 1751 Businarolo (whistleblowing)",
+  "title": "Resoconto stenografico, seduta n. 4 di venerdi 23 ottobre 2015 - Audizione di Alessandro Rodolfi, rappresentante dell'Associazione Hermes (Centro per la trasparenza e i diritti umani digitali)",
+  "url": "https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/0211/indag/c0211_protezione/2015/10/23/indice_stenografico.0004.html",
+  "language": "it",
+  "role": "mentioned",
+  "note": "NEAR-MISS, NOT HIM. Full stenographic record read: the Hermes Center is auditioned on the Italian whistleblowing bill, but the organisation is represented by Alessandro Rodolfi. Neither 'Fabio Pietrosanti' nor 'naif' appears anywhere in the text. Recorded because it is the only confirmed Hermes Center hearing in the Camera dei deputati and is directly on his core topic (GlobaLeaks / whistleblowing law, later legge 179/2017). The other three sessions of the same indagine (23/09/2015 morning and afternoon, 22/10/2015) were also fetched and contain no occurrence of his name.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2015-10-23",
+  "year": 2015,
+  "type": "documento",
+  "outlet": "Camera dei deputati - Lavori - Elenco nominativo degli auditi, XVII Legislatura",
+  "title": "Elenco nominativo degli auditi XVII legislatura - voce 'Rodolfi Alessandro, Rappresentante dell'Associazione Hermes (Centro per la trasparenza e i diritti umani digitali)'",
+  "url": "https://www.camera.it/leg17/1096",
+  "language": "it",
+  "role": "mentioned",
+  "note": "NEAR-MISS, NOT HIM. Official Camera index of everyone auditioned in the XVII legislature (2,199 entries, downloaded in full). It contains the Hermes Center entry under Rodolfi and contains NO 'Pietrosanti' other than homonyms. Used as a negative check; the page itself is the authoritative Camera list of auditi.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2026-07-22",
+  "year": 2026,
+  "type": "documento",
+  "outlet": "Camera dei deputati, Commissioni riunite I (Affari costituzionali) e II (Giustizia)",
+  "title": "A.G. 418 - Memoria della Rete per i Diritti Umani Digitali (audizione informale sullo schema di d.lgs. di adeguamento al regolamento UE 2024/1689 - IA e forze di polizia)",
+  "url": "https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.97660.22-07-2026-16-10-48.793.pdf",
+  "language": "it",
+  "role": "mentioned",
+  "note": "NEAR-MISS, NOT HIM. PDF downloaded and text-extracted (6 pages). Hermes Center is listed as one of the member organisations of the Rete per i Diritti Umani Digitali, but no individual is named and 'Pietrosanti'/'naif' do not appear. The hearing is recorded on camera.it as 'Audizione informale di rappresentanti della Rete diritti umani digitali' with no names.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2026-05-28",
+  "year": 2026,
+  "type": "documento",
+  "outlet": "Camera dei deputati, IX Commissione (Trasporti, poste e telecomunicazioni)",
+  "title": "Memoria non auditi - Rete per i diritti umani digitali, Amnesty International Italia, StraLi, Privacy Network, sulla proposta di regolamento UE di semplificazione delle regole del settore",
+  "url": "https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.92477.28-05-2026-12-49-33.901.pdf",
+  "language": "it",
+  "role": "mentioned",
+  "note": "NEAR-MISS, NOT HIM. PDF downloaded and text-extracted (6 pages). Memoria of the Rete per i Diritti Umani Digitali (Hermes Center is a member). No individual signatories; 'Pietrosanti'/'naif' absent.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2026-07-23",
+  "year": 2026,
+  "type": "documento",
+  "outlet": "Camera dei deputati, IX Commissione (Trasporti, poste e telecomunicazioni)",
+  "title": "Memoria soggetto non audito - Rete diritti umani digitali, osservazioni sull'A.G. n. 421 (poteri delle autorita nazionali e uso dell'intelligenza artificiale)",
+  "url": "https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.97466.23-07-2026-12-31-56.077.pdf",
+  "language": "it",
+  "role": "mentioned",
+  "note": "NEAR-MISS, NOT HIM. PDF downloaded and text-extracted (3 pages). Same coalition, Hermes Center as member organisation; no individual names, 'Pietrosanti'/'naif' absent.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2024-05-08",
+  "year": 2024,
+  "type": "documento",
+  "outlet": "Senato della Repubblica, Commissioni riunite (disegno di legge n. 1146 - intelligenza artificiale)",
+  "title": "Memorie dell'audizione della Rete per i Diritti Umani Digitali sul ddl n. 1146 in materia di intelligenza artificiale",
+  "url": "https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/431/041/Memoria_Rete_Diritti_Umani_Digitali.pdf",
+  "language": "it",
+  "role": "mentioned",
+  "note": "NEAR-MISS, NOT HIM. PDF retrieved through the Wayback Machine (senato.it blocks direct requests with an AWS WAF challenge) and text-extracted (13 pages). Hermes Center for Transparency and Digital Human Rights is named as a member of the coalition, but no individual is named and 'Pietrosanti'/'naif' do not appear.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2015-12-17",
+  "year": 2015,
+  "type": "resoconto",
+  "outlet": "Camera dei deputati - Elenco auditi / Commissione parlamentare di inchiesta sulla contraffazione",
+  "title": "Audizione di Adriano Pietrosanti, responsabile area tecnico-scientifica di ASSOGENERICI (OMONIMO)",
+  "url": "https://www.camera.it/leg17/546",
+  "language": "it",
+  "role": "mentioned",
+  "note": "HOMONYM - EXPLICITLY NOT HIM. The only 'Pietrosanti' found in the Camera XVII legislature hearings index is Adriano Pietrosanti of ASSOGENERICI (pharmaceutical counterfeiting hearings). Recorded only so a later pass does not mistake it for Fabio Pietrosanti.",
+  "verified": false,
+  "known": false
+ }
+]

@@ -16,6 +16,13 @@ ROOT = Path(__file__).resolve().parent.parent
 LABEL = {
     "obtained": "✅ Copia locale, nome verificato nella copia",
     "obtained-unconfirmed": "🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata)",
+    "obtained-org-only": "🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio)",
+    "obtained-name-absent": "🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio)",
+    "obtained-book-pending": "📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo)",
+    "obtained-media-only": "🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione)",
+    "obtained-stub": "🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera",
+    "obtained-encoding-bug": "🧩 Copia salvata compressa/non decodificata: da riscaricare",
+    "closed-by-decision": "⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce)",
     "partial": "🟠 Solo guscio JavaScript: serve cattura col browser",
     "video-obtained": "🎬 Video/audio scaricato (+ pagina)",
     "page-only": "🎞️ Solo pagina/link: video/audio non scaricabile",
@@ -71,7 +78,7 @@ def main():
         L.append(f"- ⏳ **{m.get('year')}** · {(m.get('outlet') or '')[:40]} — [{(m.get('title') or m.get('url'))[:90]}]({m.get('url')})")
     L += ["", "## Fonti NON ottenute o incomplete", "", "Da recuperare con altre tecniche (browser, download media, richiesta di salvataggio al Web Archive).", ""]
     for r in sorted((r for r in recs if r["status"] not in GOOD), key=lambda r: (r["status"], r["year"] or 0)):
-        L.append(f"- {LABEL[r['status']].split(' ')[0]} **{r['year']}** · {(r.get('outlet') or '')[:40]} — [{(r.get('title') or r['url'])[:90]}]({r['url']}) · licenza: {licence(r)}  \n  {r.get('reason') or ''}")
+        L.append(f"- {LABEL.get(r['status'], '❔ ' + r['status']).split(' ')[0]} **{r['year']}** · {(r.get('outlet') or '')[:40]} — [{(r.get('title') or r['url'])[:90]}]({r['url']}) · licenza: {licence(r)}  \n  {r.get('reason') or ''}")
     clips_path = copies / "radioradicale_clips.json"
     if clips_path.exists():
         clips = json.load(io.open(clips_path, encoding="utf-8"))

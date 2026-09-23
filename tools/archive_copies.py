@@ -48,10 +48,34 @@ def ts_for(it):
     return (d + "0101000000")[:14] if d else "20100101000000"
 
 
+def decode_body(data, enc, ctype):
+    """Some servers answer gzip/deflate/brotli even without Accept-Encoding: decode, or the copy is unreadable."""
+    enc = (enc or "").lower()
+    try:
+        if enc == "gzip" or (not enc and data[:2] == b"\x1f\x8b" and "html" in (ctype or "")):
+            return gzip.decompress(data)
+        if enc == "deflate":
+            import zlib
+            try:
+                return zlib.decompress(data)
+            except zlib.error:
+                return zlib.decompress(data, -zlib.MAX_WBITS)
+        if enc == "br":
+            try:
+                import brotli
+                return brotli.decompress(data)
+            except ImportError:
+                pass
+    except Exception:
+        pass
+    return data
+
+
 def get(url, timeout=90):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "it,en;q=0.8"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read(), r.headers.get("Content-Type", ""), r.geturl(), r.status
+        ctype = r.headers.get("Content-Type", "")
+        return decode_body(r.read(), r.headers.get("Content-Encoding", ""), ctype), ctype, r.geturl(), r.status
 
 
 def try_fetch(url, attempts=3):

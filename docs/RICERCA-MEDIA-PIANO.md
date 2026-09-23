@@ -107,9 +107,27 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   (consultazioni 2015/2019), hermescenter.org e allegati senato.it quando il Web Archive è stabile; tesi UniBo
   «Anonimato in rete» (eprint 9599, PDF 401); *Profilo hacker* (Apogeo 2007) pagina non confermata; Frediani *Guerre di
   rete* letto: nomina GlobaLeaks ma non Fabio.
-- [ ] Corriere della Sera 2001-01-26 p.25: verificare nel testo.
-- [ ] RAI Teche, Mediaset, Radio Monte Carlo, arretrati ICT Security / Wireless / WeekIT.
-- [ ] Audizioni Camera/Senato/Parlamento europeo (ricerca nei resoconti).
+- [x] ~~Corriere della Sera 2001-01-26 p.25~~: **chiuso** — «esperto» senza nome, escluso per decisione di Fabio (18/09).
+- [x] RAI Teche, Mediaset, arretrati ICT Security / Wireless / WeekIT — passata 2026-09-22 (`pass4_it_magazines`,
+  `pass4_mediaset_other_tv`): +2 WeekIT 2001/2002, Radio 24 (5 puntate), Sky TG24 Datagate 2013. **Resta** solo
+  Radio Monte Carlo (audio 404, vedi PROBLEMI-APERTI B1).
+- [x] **Audizioni Camera/Senato/Parlamento europeo — fatto il 2026-09-23** (3 agenti in parallelo:
+  `pass4_audizioni_camera_senato`, `pass4_ue_istituzioni`, `pass4_autorita_accademico`). **+10 voci verificate.**
+  **Risultato principale, negativo e solido: Fabio non è mai stato audito in Parlamento.** Scaricati per intero gli
+  elenchi ufficiali degli auditi della Camera (leg17: 2.199 righe; leg18), le pagine «Documenti acquisiti» di tutte le
+  14 commissioni permanenti di leg18 e leg19, le 4 sedute dell'indagine conoscitiva sul whistleblowing (2015) e il
+  motore di ricerca interno della Camera: zero occorrenze. **Il 23/10/2015 il Centro Hermes fu audito** dalle
+  Commissioni Riunite II+XI sul ddl Businarolo, ma lo rappresentava **Alessandro Rodolfi**. Anche le memorie della
+  Rete per i Diritti Umani Digitali (leg19) e quella del Senato sul ddl IA non lo nominano.
+  Al Parlamento europeo l'indice full-text del Think Tank dà **solo i 2 studi già noti**, e in entrambi è una
+  **citazione bibliografica** (articolo suo e di Aterno sul government hacking), non un esperto audito.
+  **Trovato invece: OSCE 2016** — la sua biografia completa, con il nick «naif», nel libretto dei relatori della
+  conferenza *Gaining a Digital Edge* del Rappresentante OSCE per la libertà dei media (Vienna, 14-15/09/2016).
+  **Restano** (gap noti, non chiusi): audizioni informali del **Senato** — in particolare la scheda leg18
+  `ProcANLscheda43472` (Hermes audito sul recepimento della direttiva copyright, insieme a FNSI, CRUI, SIAE,
+  Wikimedia Italia, Google): senato.it è dietro un WAF AWS e non è archiviata; audizioni informali **leg17** della
+  Camera (API `getElenco.ashx` rotta, servono capture Wayback di `camera.it/leg17/1104`); **verbali e programmi
+  delle commissioni del Parlamento europeo** (il Think Tank indicizza solo studi e briefing).
 - [ ] **Piattaforme cinesi (TimePie Shanghai 2026)**: WeChat (via Sogou weixin.sogou.com nel Chrome di Fabio), Bilibili,
   Douyin, canali video WeChat. Fatto 18/09: articolo WeChat 13/9 (Fabio al «生物极客闭门论坛», forum a porte chiuse) e
   video Bilibili di riepilogo (32 s + 1'53") scaricati. Resta: Douyin, canali video WeChat, altri articoli WeChat
@@ -127,6 +145,24 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [ ] **Sito Hermes Center** in ripristino da Fabio: quando online, indicizzare tutti i progetti, paper e talk di Fabio per
   Hermes, GlobaLeaks, CRVD, Copernicani (come fatto per CRVD il 18/09).
 - [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
+
+## Note sessione 2026-09-23
+- **701 voci** dopo il merge (erano 676). Nuove verificate: OSCE 2016 (biografia con il nick «naif»),
+  ParteciPa #423 e #425 (gennaio 2020, proposte sue, handle `naif`), onData 2020 ×2 e la ripresa di Fondazione AIDR,
+  USR Lazio 2024 e Ordine Ingegneri Catania 2022 (strascichi di MonitoraPA negli atti della PA),
+  IC «Luciano Manara» (FOIA, **escluso dal repo pubblico**: contiene dati personali).
+- **«Profilo hacker» (Apogeo 2007) confermato**: nei ringraziamenti «"Naif" Pietrosanti» (copia Internet Archive).
+- **Linee chiuse** (cercate a fondo, nessuna traccia): ANAC (consultazione 2015 e delibere lette per intero: le
+  osservazioni del Centro Hermes le firmano altri), Garante privacy (i 3 risultati sono l'avv. **Fabrizio Pietrosanti**,
+  omonimo nuovo), AgID, AGCOM, ACN, Developers Italia, Consip, Regione Lazio; consultazioni della Commissione UE sulla
+  direttiva whistleblowing (34+74 contributi, Hermes assente); PACE/Consiglio d'Europa su Pegasus.
+- **OpenAlex**: una sola opera (Cryptocat 2013, già nota). **Crossref/arXiv/Zenodo/DOAJ/OpenLibrary**: solo omonimi.
+- **Google Books API e Semantic Scholar: 429 permanente** — è la quota del progetto anonimo condiviso, non l'orario.
+  Senza una chiave API i libri di Frediani, Maurizi e Di Corinto restano non verificabili.
+- **Bug corretto** in `archive_copies.py`: le risposte gzip/deflate/brotli venivano salvate compresse e illeggibili
+  (caso mxmap.it). Ora c'è `decode_body()`.
+- **Controllo del nome corretto** in `render_copies_report.py` e nella ripassata: si leggono **tutti** i file della
+  copia, non solo `text.txt` → 12 copie che risultavano «senza nome» erano in realtà già verificate.
 
 ## Note sessione 2026-09-18
 - +22 voci (486 → 508). Da rivedere: La Stampa 1997-10-30 «Fabio Pietrosanti, Velletri (Roma)» tra i vincitori di un
@@ -248,9 +284,12 @@ Richiesta di Fabio 2026-09-18 — da fare **alla fine**, quando non c'è più nu
 - Post su forum (Rapamycin News) e mailing list: esclusi, non sono pubblicazioni.
 
 ### Code aggiunte 2026-09-18 (sera) — da riprendere nel task giornaliero
-- [ ] Ticket VLC (12: #18472 #18484 #18486 #18491 #18492 #18493 #18498 #18500 #18569 #20007 #20008 #21805): code.videolan.org
-      blocca richieste automatiche (418) e i commenti via API richiedono login → copiare le pagine trac.videolan.org/vlc/ticket/N
-      dal Web Archive (con tutti i commenti). Ticket Tor: salvati via API, commenti richiedono login → stessa cosa da trac.torproject.org.
+- [x] **Ticket VLC — chiuso per decisione di Fabio (2026-09-23):** i 12 ticket (#18472 #18484 #18486 #18491 #18492 #18493
+      #18498 #18500 #18569 #20007 #20008 #21805) sono **un episodio unico** (campagna HTTPS su videolan.org, 2017-2019),
+      «una cosa aperta e chiusa»: resta **una sola voce**, il capofila #18472 (copia già ottenuta), che elenca gli altri.
+      Gli altri 11 sono in `decisions.json` → esclusi da `media.json`; non si inseguono più copie separate.
+      *(Nota tecnica: il 418 di code.videolan.org dipendeva solo dallo User-Agent — con UA da browser l'API risponde 200.)*
+      Ticket Tor: salvati via API, i commenti richiedono login → recuperarli da trac.torproject.org sul Web Archive.
 - [ ] RaiPlay Sound / RaiNews: 403 a metà ricerca → rifare lista puntate Codice Beta e ricerca RaiNews «Pietrosanti».
 - [ ] Web Archive (rifiutava connessioni): pagine Security Summit 2008/2011 (atti, edizioni precedenti), wiki Hackmeeting
       (_wiki seminari, hackit05, hackit08, genova2004, /wiki), newsletter Clusit dopo il 2016.

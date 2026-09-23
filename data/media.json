@@ -1439,8 +1439,8 @@
   "url": "https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ",
   "language": "it",
   "role": "acknowledged (probable)",
-  "note": "Authors: Raoul Chiesa, Silvio Ciappi (ISBN 9788850325948; Google Books id BEvVGAAACAAJ). Italian original of 'Profiling Hackers' (CRC 2009, known: IA profilinghackers0000chie, where 'Fabio \"Naif\" Pietrosanti' is listed among acknowledged contributors). Italian edition NOT checked: Google Books blocked (API quota/bot check) and no full text found.",
-  "verified": false,
+  "note": "2026-09-23: confermato dai ringraziamenti («\"Naif\" Pietrosanti»), verificati sulla copia Internet Archive del volume.",
+  "verified": true,
   "known": false,
   "_slices": [
    "pass4_books_2026-09-18"
@@ -1652,7 +1652,8 @@
   "verified": true,
   "known": true,
   "_slices": [
-   "pass4_archive_texts_2026-09-18"
+   "pass4_archive_texts_2026-09-18",
+   "pass4_autorita_accademico_2026-09-23"
   ],
   "mirrors": [
    "https://archive.org/details/profilinghackers0000chie"
@@ -6170,6 +6171,23 @@
   "on_old_site": false
  },
  {
+  "date": "2016-09-14",
+  "year": 2016,
+  "type": "documento",
+  "outlet": "OSCE, Office of the Representative on Freedom of the Media",
+  "title": "Biographies - Gaining a Digital Edge: Freedom of Expression, Vienna, 14-15 September 2016",
+  "url": "https://www.osce.org/representative-on-freedom-of-media/263301",
+  "language": "en",
+  "role": "speaker",
+  "note": "Official OSCE RFoM speakers/participants biographies booklet for the conference 'Gaining a Digital Edge: Freedom of Expression' (Vienna, 14-15 September 2016), organised by the OSCE Representative on Freedom of the Media, the OSCE Mission to Serbia, CEU CMDS and the SHARE Foundation. Page 25-page PDF at https://www.osce.org/files/f/documents/4/9/263301_0.pdf carries a full bio headed 'Fabio Pietrosanti', explicitly with the nickname 'naif' since 1995, President and co-founder of the Hermes Center for Transparency and Digital Human Rights, Transparency International Italia member, Tor/Tor2web node operator, GlobaLeaks co-founder. Text downloaded and verified. Event page: https://www.osce.org/fom/261921",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ue_istituzioni_2026-09-23"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2016-11-05",
   "year": 2016,
   "type": "panel",
@@ -6940,11 +6958,11 @@
   "year": 2017,
   "type": "research",
   "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #18472 «Enforce the uses of HTTPS for all websites of VLC/videolan.org to prevent MITM exploits»",
+  "title": "VLC / videolan.org verso HTTPS: campagna di ticket di Fabio Pietrosanti (2017-2019) - capofila #18472 «Enforce the uses of HTTPS for all websites of VLC/videolan.org»",
   "url": "https://code.videolan.org/videolan/vlc/-/work_items/18472",
   "language": "en",
   "role": "author",
-  "note": "Opened by naif; start of the 2017 VideoLAN HTTPS campaign ('trollata sul TLS'); closed as duplicate by J-B Kempf next day after a 26-comment flame (Kempf, etix, Remi Denis-Courmont vs naif). Trac copy on Wayback 20210502015439",
+  "note": "Episodio unico, aperto e chiuso: 12 ticket aperti da Fabio su code.videolan.org fra il 2017 e il 2019 per portare VLC e videolan.org su HTTPS (#18472 #18484 #18486 #18491 #18492 #18493 #18498 #18500 #18569 #20007 #20008 #21805). Per decisione di Fabio (2026-09-23) l'archivio ne tiene una sola voce.",
   "verified": true,
   "known": false,
   "_slices": [
@@ -6979,40 +6997,6 @@
   "language": "en",
   "role": "author",
   "note": "Follow-up proposal by fpietrosanti during the VLC HTTPS campaign",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-07-03",
-  "year": 2017,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #18484 «Map all the existing VLC mirrors that already support HTTPS»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/18484",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif; he tested mirrors and found 35 HTTPS-capable VLC mirrors; closed will-not-fix",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-07-03",
-  "year": 2017,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #18486 «Integrate Cloudflare free as an HTTPS domain fronting and caching for www.videolan.org and get.videolan.org»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/18486",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif; closed will-not-fix",
   "verified": true,
   "known": false,
   "_slices": [
@@ -7081,108 +7065,6 @@
   "language": "en",
   "role": "author",
   "note": "Opened by naif as part of the VLC HTTPS campaign; 12 comments; closed",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-07-05",
-  "year": 2017,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #18491 «Mirrors on fast HTTPS content delivery networks»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/18491",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif (KeyCDN/Fastly/MaxCDN/Cloudflare open-source programs); 25 comments; closed invalid",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-07-05",
-  "year": 2017,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #18492 «Introduce Mirrors of VLC with Mirrors from SourceForge for VLC»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/18492",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif; closed will-not-fix",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-07-05",
-  "year": 2017,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #18493 «VLC is missing chain of trust on Fedora»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/18493",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif, pointing to an RPMFusion list thread; closed 'not VLC'",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-07-07",
-  "year": 2017,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #18498 «Update VLC website sitemap to switch to HTTPS»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/18498",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif; FIXED 2017-10-10",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-07-07",
-  "year": 2017,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #18500 «Analyse the compatibility issues that prevent enabling full HTTPS-only on videolan.org website»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/18500",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif; mirrored as VideoLAN.org/websites#18",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-07-20",
-  "year": 2017,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #18569 «Bing search engine still use HTTP in cleartext to VLC website»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/18569",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif; FIXED (closed 2018-03-12)",
   "verified": true,
   "known": false,
   "_slices": [
@@ -7908,40 +7790,6 @@
   "known": true,
   "_slices": [
    "pass4_mediaset_other_tv_2026-09-22"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2018-03-12",
-  "year": 2018,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #20007 «videolan.org website is exposed as insecure HTTP without permanent redirect»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/20007",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif (second round of the campaign, curl PoC); mirrored as VideoLAN.org/websites#21",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2018-03-12",
-  "year": 2018,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #20008 «get.videolan.org website is exposed as insecure HTTP without permanent redirect»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/20008",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif; 31 comments; mirrored as VideoLAN.org/websites#22 (still open there)",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -8845,23 +8693,6 @@
   "on_old_site": false
  },
  {
-  "date": "2019-01-22",
-  "year": 2019,
-  "type": "research",
-  "outlet": "code.videolan.org (VideoLAN GitLab, ex trac.videolan.org)",
-  "title": "VLC ticket #21805 «Enable full HTTPS redirecting old-client to an outdated page, explaining how to upgrade the browser»",
-  "url": "https://code.videolan.org/videolan/vlc/-/work_items/21805",
-  "language": "en",
-  "role": "author",
-  "note": "Opened by naif during the Jan-2019 'VLC updates over HTTP' Twitter/Reddit storm; mirrored as VideoLAN.org/websites#17",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2019-02-08",
   "year": 2019,
   "type": "radio",
@@ -9389,6 +9220,40 @@
   "on_old_site": false
  },
  {
+  "date": "2020-01-16",
+  "year": 2020,
+  "type": "consultazione",
+  "outlet": "ParteciPa (Dipartimento della Funzione Pubblica / Ministro per l'innovazione tecnologica) - consultazione 'Italia 2025'",
+  "title": "Apertura della base dati del Registro Imprese in Open Data",
+  "url": "https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/423",
+  "language": "it",
+  "role": "author",
+  "note": "Proposta formale presentata alla consultazione pubblica governativa 'Italia 2025 - Strategia per l'innovazione tecnologica e la digitalizzazione del Paese'. La pagina mostra 'Avatar: Fabio Pietrosanti / Fabio Pietrosanti 16/01/2020 22:42' come autore; il profilo ParteciPa collegato e' /profiles/naif/. Fratello della gia' nota proposta 424 sul whistleblowing.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_autorita_accademico_2026-09-23"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-01-16",
+  "year": 2020,
+  "type": "consultazione",
+  "outlet": "ParteciPa (Dipartimento della Funzione Pubblica / Ministro per l'innovazione tecnologica) - consultazione 'Italia 2025'",
+  "title": "Rafforzare Cybersecurity Nazionale con Misurazione proattiva",
+  "url": "https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/425",
+  "language": "it",
+  "role": "author",
+  "note": "Proposta formale presentata alla consultazione pubblica governativa 'Italia 2025'. Autore indicato nella pagina: 'Fabio Pietrosanti 16/01/2020 22:49', profilo ParteciPa /profiles/naif/. Terza proposta della serie 423-424-425.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_autorita_accademico_2026-09-23"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-02-16",
   "year": 2020,
   "type": "quoted",
@@ -9402,6 +9267,40 @@
   "known": false,
   "_slices": [
    "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-02-20",
+  "year": 2020,
+  "type": "documento",
+  "outlet": "onData APS",
+  "title": "Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della Pubblica Amministrazione",
+  "url": "https://www.ondata.it/trasparenza/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/",
+  "language": "it",
+  "role": "author",
+  "note": "Annuncio di una segnalazione e due proposte formali indirizzate ad ANAC, alla Ministra per l'innovazione tecnologica e la digitalizzazione e ad AgID. Il testo lo nomina fra i firmatari: 'noi di onData, insieme all'Osservatorio Trasparenza e Anticorruzione AIDR, la Community Facebook Trasparenza siti web PA, Mario Grimaldi, Flavia Marzano, Fabio Pietrosanti e Nazzareno Prinzivalli abbiamo voluto fare una segnalazione e due proposte'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_autorita_accademico_2026-09-23"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-02-22",
+  "year": 2020,
+  "type": "articolo",
+  "outlet": "Fondazione AIDR (Osservatorio Trasparenza e Anticorruzione)",
+  "title": "Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della Pubblica Amministrazione",
+  "url": "https://www.aidr.it/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/",
+  "language": "it",
+  "role": "author",
+  "note": "Ripubblicazione su aidr.it, a firma Laura Strano e Andrea Borruso, dello stesso documento onData. Fabio Pietrosanti compare nell'elenco dei promotori della segnalazione e delle due proposte ad ANAC / Ministra per l'innovazione / AgID.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_autorita_accademico_2026-09-23"
   ],
   "on_old_site": false
  },
@@ -9629,6 +9528,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-09-06",
+  "year": 2020,
+  "type": "articolo",
+  "outlet": "onData APS",
+  "title": "Rendere \"ricercabile\" il XXI secolo",
+  "url": "https://www.ondata.it/rendere-ricercabile-il-xxi-secolo/",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Sui PDF-immagine pubblicati dal Governo nella sezione sull'emergenza Coronavirus: 'Fabio Pietrosanti ha notato la cosa e li ha resi accessibili, grazie'. Riconoscimento del suo intervento di accessibilizzazione/OCR dei documenti pubblici.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_autorita_accademico_2026-09-23"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-10-01",
   "year": 2020,
   "type": "mentioned",
@@ -9792,7 +9708,7 @@
   "url": "https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software",
   "language": "en",
   "role": "subject",
-  "note": "EC news (P-E Schmitz) updated on ANAC-Hermes AGPL settlement over GlobaLeaks-based OpenWhistleblowing; org-level",
+  "note": "2026-09-23: letto per intero: l'articolo racconta la vicenda della licenza AGPL fra ANAC e Hermes Center ma NON contiene il nome di Fabio (cita solo Marco Bondello). Da decidere con Fabio se tenerlo come contesto del progetto o escluderlo.",
   "verified": false,
   "known": false,
   "_slices": [
@@ -11089,6 +11005,23 @@
  {
   "date": "2022-09-20",
   "year": 2022,
+  "type": "documento",
+  "outlet": "Liceo Statale \"Maria Montessori\" (Ministero dell'Istruzione) - Amministrazione Trasparente",
+  "title": "Istanza accesso civico sig. Fabio Pietrosanti",
+  "url": "https://www.istitutomontessori.edu.it/amministrazione-trasparente/",
+  "language": "it",
+  "role": "mentioned",
+  "note": "La sezione Amministrazione Trasparente elenca, secondo l'indicizzazione Google, una voce 'istanza accesso Civico sig. Fabio Pietrosanti', tipologia 'Accesso civico', pubblicata il 20/09/2022. La pagina e' stata scaricata (HTTP 200) ma l'elenco e' generato via JavaScript e il nome non compare nell'HTML statico: da riverificare con browser o cercando il PDF dell'istanza.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_autorita_accademico_2026-09-23"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-09-20",
+  "year": 2022,
   "type": "podcast",
   "outlet": "Ciao, Internet! con Matteo Flora",
   "title": "1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con 42LF.it",
@@ -11190,6 +11123,23 @@
   "on_old_site": false
  },
  {
+  "date": "2022-10-19",
+  "year": 2022,
+  "type": "documento",
+  "outlet": "Istituto Comprensivo Cornigliano, Genova (Ministero dell'Istruzione) - Amministrazione Trasparente",
+  "title": "Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013",
+  "url": "https://www.iccornigliano.edu.it/amministrazione-trasparente/",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Snippet Google: '... Fabio Pietrosanti, ai sensi dell'art. 5, comma 2 del d.lgs. 14 marzo 2013, n. 33. Pubblicato il: 19/10/2022; Tipologia: Dati ulteriori'. Pagina scaricata (HTTP 200) ma l'elenco documenti e' caricato via JavaScript: nome non confermato nell'HTML statico.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_autorita_accademico_2026-09-23"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2022-10-26",
   "year": 2022,
   "type": "mentioned",
@@ -11222,6 +11172,23 @@
   "_slices": [
    "pass4_agendadigitale_2026-09-18",
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-11-15",
+  "year": 2022,
+  "type": "documento",
+  "outlet": "Ordine degli Ingegneri della Provincia di Catania - Verbale del Consiglio n. 41 del 15/11/2022",
+  "title": "Verbale n. 41 del Consiglio dell'Ordine degli Ingegneri della provincia di Catania (punto su MonitoraPA)",
+  "url": "https://ording.ct.it/wp-content/uploads/2023/11/VERBALE_41_151122.pdf",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Verbale ufficiale di un ente pubblico non economico: '-Fondatore Monitora Pa - Fabio Pietrosanti - segnalazione di illecito utilizzo di servizi che comportano il trasferimento di dati negli U.S.A. nel sito www.ording.ct.it e conseguente invito a risolvere la violazione del Regolamento Europeo 2016/679 (GDPR)'. Effetto documentato della campagna MonitoraPA su un ordine professionale.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_autorita_accademico_2026-09-23"
   ],
   "on_old_site": false
  },
@@ -11380,6 +11347,40 @@
   "on_old_site": false
  },
  {
+  "date": null,
+  "year": 2024,
+  "type": "report",
+  "outlet": "Ufficio Scolastico Regionale per il Lazio (MIM) - monitoraggio trasparenza e anticorruzione 2023, copia pubblicata da I.I.S. di Ceccano",
+  "title": "Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituzioni scolastiche del Lazio)",
+  "url": "https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Rilevazione ufficiale dell'USR Lazio sulle misure di trasparenza nelle scuole. A riga 1315 del testo estratto compare la voce 'MONITORA PA DEL DOTT. FABIO PIETROSANTI - OTTOBRE 2022 - TRASPARENZA', registrata come causa di istanze di accesso civico ricevute dagli istituti.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_autorita_accademico_2026-09-23"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": 2024,
+  "type": "documento",
+  "outlet": "UNESCO, Global AI Ethics and Governance Observatory",
+  "title": "Hermes Center - Global Civil Society Organizations and Academic Network on AI Ethics and Policy",
+  "url": "https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center",
+  "language": "en",
+  "role": "mentioned",
+  "note": "NEAR-MISS, NOT HIM. Hermes Center is listed as a member organisation of UNESCO's civil-society network on AI ethics. Page read in full: the only contact given is the generic board@hermescenter.org; no individual is named, so neither 'Fabio Pietrosanti' nor 'naif' appears. Does not qualify under the naming rule.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_ue_istituzioni_2026-09-23"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2024-05-07",
   "year": 2024,
   "type": "book_chapter",
@@ -11515,6 +11516,23 @@
   "_slices": [
    "pass4_books_api_2026-09-21",
    "pass4_books_it_2026-09-19"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2025-06-10",
+  "year": 2025,
+  "type": "articolo",
+  "outlet": "European Commission, Interoperable Europe Portal / Open Source Observatory (OSOR)",
+  "title": "GlobaLeaks empowers whistleblowers",
+  "url": "https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/globaleaks-empowers-whistleblowers-0",
+  "language": "en",
+  "role": "mentioned",
+  "note": "NEAR-MISS, NOT HIM. European Commission OSOR feature article on GlobaLeaks (June 2025). Page read in full: it quotes Susanna Ferro (project manager) and Giovanni Pellerano (co-founder) only. Neither 'Fabio Pietrosanti' nor 'naif' appears anywhere in the text, so per the exclusion rule this does not count as a trace of him. Recorded only so a later pass does not re-open it.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_ue_istituzioni_2026-09-23"
   ],
   "on_old_site": false
  },

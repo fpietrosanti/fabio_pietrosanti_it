@@ -1,0 +1,41 @@
+[
+  {
+    "date": "2016-09-14",
+    "year": 2016,
+    "type": "documento",
+    "outlet": "OSCE, Office of the Representative on Freedom of the Media",
+    "title": "Biographies - Gaining a Digital Edge: Freedom of Expression, Vienna, 14-15 September 2016",
+    "url": "https://www.osce.org/representative-on-freedom-of-media/263301",
+    "language": "en",
+    "role": "speaker",
+    "note": "Official OSCE RFoM speakers/participants biographies booklet for the conference 'Gaining a Digital Edge: Freedom of Expression' (Vienna, 14-15 September 2016), organised by the OSCE Representative on Freedom of the Media, the OSCE Mission to Serbia, CEU CMDS and the SHARE Foundation. Page 25-page PDF at https://www.osce.org/files/f/documents/4/9/263301_0.pdf carries a full bio headed 'Fabio Pietrosanti', explicitly with the nickname 'naif' since 1995, President and co-founder of the Hermes Center for Transparency and Digital Human Rights, Transparency International Italia member, Tor/Tor2web node operator, GlobaLeaks co-founder. Text downloaded and verified. Event page: https://www.osce.org/fom/261921",
+    "verified": true,
+    "known": false
+  },
+  {
+    "date": "2025-06-10",
+    "year": 2025,
+    "type": "articolo",
+    "outlet": "European Commission, Interoperable Europe Portal / Open Source Observatory (OSOR)",
+    "title": "GlobaLeaks empowers whistleblowers",
+    "url": "https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/globaleaks-empowers-whistleblowers-0",
+    "language": "en",
+    "role": "mentioned",
+    "note": "NEAR-MISS, NOT HIM. European Commission OSOR feature article on GlobaLeaks (June 2025). Page read in full: it quotes Susanna Ferro (project manager) and Giovanni Pellerano (co-founder) only. Neither 'Fabio Pietrosanti' nor 'naif' appears anywhere in the text, so per the exclusion rule this does not count as a trace of him. Recorded only so a later pass does not re-open it.",
+    "verified": false,
+    "known": false
+  },
+  {
+    "date": null,
+    "year": 2024,
+    "type": "documento",
+    "outlet": "UNESCO, Global AI Ethics and Governance Observatory",
+    "title": "Hermes Center - Global Civil Society Organizations and Academic Network on AI Ethics and Policy",
+    "url": "https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center",
+    "language": "en",
+    "role": "mentioned",
+    "note": "NEAR-MISS, NOT HIM. Hermes Center is listed as a member organisation of UNESCO's civil-society network on AI ethics. Page read in full: the only contact given is the generic board@hermescenter.org; no individual is named, so neither 'Fabio Pietrosanti' nor 'naif' appears. Does not qualify under the naming rule.",
+    "verified": false,
+    "known": false
+  }
+]
