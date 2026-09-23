@@ -151,6 +151,12 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   ilmanifesto, internazionale, dday, hwupgrade, key4biz, agendadigitale, cybersecurity360, corrierecomunicazioni,
   startmag, formiche, ilriformista, editorialedomani, valigiablu, rainews, raiplay, la7, tg24.sky, radiopopolare,
   latinaoggi, latinatoday, h24notizie + testate estere.
+- Fatti il 2026-09-23 (ripresa degli 8 domini in `retry`, nessun anti-robot): hwupgrade, tomshw, key4biz,
+  agendadigitale, cybersecurity360, corrierecomunicazioni, startmag, formiche → **+5 voci** (4 Tom's Hardware,
+  1 Startmag). **Chiusa la lacuna «due articoli Agenda Digitale senza data»**: la pagina autore
+  `agendadigitale.eu/giornalista/fabio-pietrosanti/` elenca i suoi 3 articoli (trojan/Exodus con Stefano Aterno;
+  voto dei cittadini all'estero con Quintarelli e Napolitano; voto su blockchain), tutti già in `data/media.json`.
+  Da fare: ilriformista, rainews, raiplay, la7, tg24.sky, radio24, radiopopolare, radioradicale.
 
 ## Copie offline
 - `tools/archive_copies.py <cartella>`: Web Archive (capture più vicina alla data) poi sito live; salva originale,
@@ -197,8 +203,8 @@ Richiesta di Fabio 2026-09-18 — da fare **alla fine**, quando non c'è più nu
   i suoi post (Tor Weekly News e simili), pagine 2+ del press archive Hermes Center, Sky TG24 / Corriere Datagate 2013.
 - **2016–2020**: Ethic Whispers, Ethic Alliance, Info.nodes, SignalSwarm, Advanced Knowledge
   Ventures, Haulersense, LESS.green, GLS Latina, Copernicani, Italian Hacker Camp 2018,
-  audizioni parlamentari, Sole 24 Ore/Repubblica/Corriere, direttiva UE whistleblowing,
-  due articoli Agenda Digitale senza data (voto elettronico, voto estero).
+  audizioni parlamentari, Sole 24 Ore/Repubblica/Corriere, direttiva UE whistleblowing.
+  ~~due articoli Agenda Digitale senza data~~ (risolto il 2026-09-23 dalla pagina autore).
 - **2021–2026**: SignalSwarm, PLogistics, Aeroporto di Latina, Copernicani 2026, Italian Hacker Camp
   2022/2024, MCH2022, CCCamp2023, audizioni D.lgs 24/2023, media cinesi (TimePie Shanghai),
   biohack.it, stampa locale Latina.

@@ -1,14 +1,14 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-09-22 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-09-23 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **676**; già processate: **694**; ancora da processare: **0**
-- Licenza delle copie ottenute: **222** materiale proprio (ripubblicabile), **456** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **526**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **67**
+- Voci in `data/media.json`: **691**; già processate: **709**; ancora da processare: **0**
+- Licenza delle copie ottenute: **224** materiale proprio (ripubblicabile), **469** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **533**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **75**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
 - 🎬 Video/audio scaricato (+ pagina): **81**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **2**
@@ -18,13 +18,13 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 9 | 0 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2000 | 14 | 0 | 0 | 1 | 0 | 0 | 1 |
-| 2001 | 13 | 0 | 2 | 1 | 0 | 0 | 0 |
-| 2002 | 11 | 0 | 4 | 0 | 0 | 0 | 0 |
+| 2001 | 14 | 0 | 2 | 1 | 0 | 0 | 0 |
+| 2002 | 12 | 0 | 4 | 0 | 0 | 0 | 0 |
 | 2003 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2005 | 6 | 2 | 1 | 0 | 0 | 0 | 0 |
@@ -35,16 +35,16 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2010 | 52 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 23 | 3 | 2 | 0 | 0 | 0 | 0 |
 | 2012 | 26 | 1 | 3 | 0 | 0 | 0 | 0 |
-| 2013 | 20 | 6 | 8 | 0 | 0 | 0 | 0 |
+| 2013 | 20 | 6 | 9 | 0 | 0 | 0 | 0 |
 | 2014 | 20 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 24 | 8 | 0 | 0 | 1 | 0 | 0 |
 | 2016 | 12 | 7 | 2 | 0 | 0 | 0 | 0 |
 | 2017 | 56 | 5 | 7 | 0 | 0 | 0 | 8 |
-| 2018 | 33 | 16 | 12 | 0 | 0 | 0 | 2 |
-| 2019 | 15 | 3 | 4 | 0 | 1 | 0 | 1 |
+| 2018 | 33 | 16 | 17 | 0 | 0 | 0 | 2 |
+| 2019 | 15 | 3 | 5 | 0 | 1 | 0 | 1 |
 | 2020 | 35 | 3 | 4 | 0 | 0 | 0 | 0 |
 | 2021 | 17 | 6 | 2 | 0 | 0 | 0 | 1 |
-| 2022 | 42 | 7 | 2 | 0 | 0 | 0 | 0 |
+| 2022 | 42 | 7 | 3 | 0 | 0 | 0 | 0 |
 | 2023 | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2024 | 1 | 0 | 2 | 0 | 0 | 0 | 0 |
 | 2025 | 1 | 5 | 3 | 0 | 0 | 0 | 0 |
@@ -129,6 +129,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2013** · Blonk (Italy) — [Destini Hacker - Attacco al sistema](https://books.google.com/books?id=5XJsAwAAQBAJ) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2013** · Sky TG24 (servizio di Sacha Coltellacci) — [Datagate, il mondo delle spie visto da dentro (current page URL)](https://video.sky.it/news/mondo/video/datagate_il_mondo_delle_spie_visto_da_dentro-164249) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2013** · OHM2013 (Observe. Hack. Make.) - Noisy S — [Digital Whistleblowing roundtable [N^2] (Day 3, 16:00)](https://web.archive.org/web/20130908205034/https://program.ohm2013.org/event/381.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2013** · OHM2013 (Observe. Hack. Make.), Geestmer — [Digital Whistleblowing with GlobaLeaks (Day 3, 13:00) - program page](https://web.archive.org/web/20131022000047/https://program.ohm2013.org/event/255.html) · licenza: terzi  
@@ -177,15 +179,27 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2018** · GlobaLeaks blog — [Nasce WhistleblowingPA](https://globaleaks.org/it/2018/10/01/nasce-whistleblowing-pa/) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180302-2024.mp3) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Hyperloop, TOR e Industria 4.0 (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180831-2024.mp3) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2018** · StartupItalia — [Cyberchallenge 2018: la gara finale e la premiazione](https://startupitalia.eu/61355-20180629-cyberchallenge-2018-la-finale) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2018** · JEI - Jus e Internet — [Voto elettronico: rilievi giuridici e tecnici. Teorizzazione di un modello sperimentale di](https://www.jei.it/approfondimenti-giuridici/490-voto-elettronico-rilievi-giuridici-e-tecnici-teorizzazione-di-un-modello-sperimentale-di-votazione-mediante-uso-della-tecnologia-blockchain) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (current page URL)](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/cybersecurity--il-mondo-di-tor--accordo-skynetflix-214900-2419246682962353) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Hyperloop, TOR e Industria 4.0](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/hyperloop-tor-e-industria-40-152305-2419246668444300) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Voto digitale: rischi e vantaggi - Trasformazione digitale in Italia](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/voto-digitale-rischi-e-vantaggi--trasformazione-digitale-in-italia-210510-2419246682960852) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · Laterza — [L'esecuzione. 5 Stelle da movimento a governo](https://books.google.com/books?id=rO2ODwAAQBAJ) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · e-privacy XXV (2019 summer), Torino, Cit — [Big Brother Award (slot by Hermes Center)](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · SecurityWeek — [VLC Responds to Criticism Over Lack of HTTPS for Updates](https://www.securityweek.com/vlc-responds-criticism-over-lack-https-updates/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -204,6 +218,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🟡 **2022** · Antonio Giangrande (self-published) — [ANNO 2022 L'ACCOGLIENZA OTTAVA PARTE](https://books.google.com/books?id=X_djEAAAQBAJ) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2022** · Copernicani — [Civic hackers per una Pubblica Amministrazione migliore: un sollecito agli enti pubblici p](https://copernicani.it/civic-hackers-per-una-pubblica-amministrazione-migliore-un-sollecito-agli-enti-pubblici-per-il-rispetto-delle-normative-sulla-privacy/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/google-analitycs--iot-e-controllo-accessi--beauty-tech--taxi-volanti-200500-2419319461594695) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2024** · Wolters Kluwer Italia — [Intelligenza artificiale, blockchain e criptovalute](https://books.google.com/books?id=GbEvEQAAQBAJ) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -265,7 +281,12 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/) · copia: `undated/40c7d7ea93ef` (Web Archive 20210929) · licenza: terzi
 - **None** · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b) · copia: `undated/3bcce2091e75` (Web Archive 20201101) · licenza: terzi
 - **None** · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/) · copia: `undated/5ad9adf41ff0` (Web Archive 20150721) · licenza: terzi
+- **None** · startmag.it — [Come (non) fare un'app anti Covid-19. L'appello di esperti e prof.](https://www.startmag.it/innovazione/come-non-fare-unapp-anti-covid-19-lappello-di-esperti-e-prof/) · copia: `undated/d3a3ba85358a` (live) · licenza: terzi
 - **None** · today.it — [Nella cyber war l'Italia affida i suoi segreti all'antivirus russo](https://www.today.it/tech/cyber-guerra-ucraina-russia-rischi-italia.html) · copia: `undated/3e6c9e670f0f` (Web Archive 20220302) · licenza: terzi
+- **None** · tomshw.it — [Gli esperti di cybersicurezza criticano la nomina di Carrai | Tom's Hardware](https://www.tomshw.it/altro/gli-esperti-di-cybersicurezza-criticano-la-nomina-di-carrai) · copia: `undated/7b0f910c8a2e` (Web Archive 20200926) · licenza: terzi
+- **None** · tomshw.it — [Il M5S ha toppato, difendiamo gli hacker etici | Tom's Hardware](https://www.tomshw.it/altro/il-m5s-ha-toppato-difendiamo-gli-hacker-etici) · copia: `undated/6cb758843910` (Web Archive 20190826) · licenza: terzi
+- **None** · tomshw.it — [Referendum Lombardia o pasticcio digitale? | Tom's Hardware](https://www.tomshw.it/altro/referendum-lombardia-o-pasticcio-digitale) · copia: `undated/0d9ac970f7c3` (Web Archive 20190403) · licenza: terzi
+- **None** · tomshw.it — [L'Italia è la nuova capitale dello spyware](https://www.tomshw.it/hardware/litalia-e-la-nuova-capitale-dello-spyware-2024-11-14) · copia: `undated/256223e3c644` (Web Archive 20241114) · licenza: terzi
 - **None** · zeusnews.it — [La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori](https://www.zeusnews.it/n.php?c=25616) · copia: `undated/56a81be55c4d` (Web Archive 20170726) · licenza: terzi
 - **None** · youmedia.fanpage.it — [Backstair, la nuova piattaforma di whistleblowing ai DIG Awards: “Segnalazioni completamen](https://youmedia.fanpage.it/video/aa/X48IuuSwldvwx9NG) · copia: `undated/86299d48a215` (Web Archive 20210122) · licenza: terzi
 - **1997** · La Stampa — [La Stampa 1997-10-27 / 1997-10-30 / 1997-10-31 (list of names)](https://archive.org/details/lastampa_1997-10-30) · copia: `1997/ccb4af8f5f5c` (live) · licenza: terzi
@@ -294,6 +315,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2001** · firewall-wizards — [Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response*](https://seclists.org/firewall-wizards/2001/Mar/120) · copia: `2001/f2dd36afd1ec` (Web Archive 20120520) · licenza: propria
 - **2001** · vuln-dev — [Cisco PIX Firewall MailGuard Vulnerability](https://seclists.org/vuln-dev/2001/Sep/305) · copia: `2001/42358695c237` (Web Archive 20130810) · licenza: propria
 - **2001** · vuln-dev — [Re: Cisco PIX Firewall MailGuard Vulnerability](https://seclists.org/vuln-dev/2001/Sep/311) · copia: `2001/1e36eae8b6c6` (Web Archive 20130809) · licenza: propria
+- **2001** · WeekIT (Mondadori weekly, weekit.it) — [Meglio l'outsourcing o una security interna?](https://web.archive.org/web/20040905215552/http://www.weekit.it:80/weekit/unico/art006004035189.jsp) · copia: `2001/8355309748b3` (Web Archive 20040905) · licenza: propria
 - **2001** · Italian Black Hats (blackhats.it) - SMAU — [Sicurezza & Underground knowledge: le evoluzioni della I.C.T. Security (prima conferenza p](https://web.archive.org/web/20050908171058/http://www.blackhats.it/it/eventi.html) · copia: `2001/fb01a016fb7f` (Web Archive 20021219) · licenza: terzi
 - **2001** · Apogeonline — [Un raggio di luce su SMAU](https://www.apogeonline.com/articoli/un-raggio-di-luce-su-smau-raoul-chiesa/) · copia: `2001/41f0ed4a0413` (Web Archive 20190818) · licenza: terzi
 - **2001** · Hackmeeting 2001 (Hackit01), Catania (CS — [Hackit01 - Adesioni (sign-up list)](https://www.hackmeeting.org/hackit01/adesioni.html) · copia: `2001/0277a8f792ae` (Web Archive 20100202) · licenza: terzi
@@ -303,6 +325,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2002** · Hacker Journal n.11 (24 ottobre-7 novemb — [News: reti wireless aperte - indagine sul campo a Milano da Naif e Vodka per conto di Port](https://archive.org/details/hackerjournal-11) · copia: `2002/6d17d2672c33` (live) · licenza: terzi
 - **2002** · CeAS - Centro Alti Studi Lotta al Terror — [Il ruolo dei carrier nella security (Fabio Pietrosanti, Network Security Manager I.NET S.p](https://web.archive.org/web/2003/http://www.1ceas.org/rel2002/marzo/marzo.htm) · copia: `2002/e897e1c84a86` (Web Archive 20020819) · licenza: terzi
 - **2002** · Sikurezza.org @ Webb.it 02, Padova Fiere — [Presentazione sikurezza.org (Fabio Pietrosanti 'naif', Stefano Venturoli)](https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html) · copia: `2002/eaa7085c2c1c` (Web Archive 20020821) · licenza: terzi
+- **2002** · WeekIT (Mondadori weekly, weekit.it) — [Crittografia e backdoor, parla Phil Zimmermann](https://web.archive.org/web/20040905220529/http://www.weekit.it:80/weekit/unico/art006004035348.jsp) · copia: `2002/28d7eb3aca2e` (Web Archive 20040905) · licenza: propria
 - **2002** · Apogeonline (Portel survey) — [A caccia di reti wireless insicure](https://www.apogeonline.com/articoli/a-caccia-di-reti-wireless-insicure-redazione-apogeonline/) · copia: `2002/937ccc909111` (Web Archive 20190817) · licenza: terzi
 - **2002** · Hackmeeting 2002 (Bologna) — [Hackit02 - who (participants list)](https://www.hackmeeting.org/hackit02/who.html) · copia: `2002/db0c9beba416` (Web Archive 20100612) · licenza: terzi
 - **2002** · BFi 11-dev file 03 — [[HaCkmEeTiNg] Re: hacking is NOT politics? (vecna, mail thread)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-03) · copia: `2002/3ecc0da83214` (Web Archive 20020808) · licenza: terzi

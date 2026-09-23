@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2001-12-14",
+    "year": 2001,
+    "type": "article_by",
+    "outlet": "WeekIT (Mondadori weekly, weekit.it)",
+    "title": "Meglio l'outsourcing o una security interna?",
+    "url": "https://web.archive.org/web/20040905215552/http://www.weekit.it:80/weekit/unico/art006004035189.jsp",
+    "language": "it",
+    "role": "author",
+    "note": "Section SECURITY. Standfirst: 'Cresce l'offerta dei fornitori di \"sicurezza gestita\". I criteri di base per valutarne l'affidabilità. E le cautele necessarie' - byline 'di Fabio Pietrosanti 14/12/2001'. Found by crawling the archived weekit.it article pages (Wayback CDX). The Wayback capture was read once during the crawl; a second fetch came back empty, so re-check the capture.",
+    "verified": true,
+    "known": false
+  },
+  {
+    "date": "2002-02-11",
+    "year": 2002,
+    "type": "article_by",
+    "outlet": "WeekIT (Mondadori weekly, weekit.it)",
+    "title": "Crittografia e backdoor, parla Phil Zimmermann",
+    "url": "https://web.archive.org/web/20040905220529/http://www.weekit.it:80/weekit/unico/art006004035348.jsp",
+    "language": "it",
+    "role": "author (interview with Phil Zimmermann at Infosecurity 2002)",
+    "note": "Section PRIVACY. 'Un incontro con l'inventore di Pgp, preoccupato per la privacy degli utenti' - byline 'di Fabio Pietrosanti 11/2/2002'. Zimmermann talks about PGP backdoors after 9/11 and about NAI management. Related to the known PC Professionale 207 Zimmermann box, but this is a separate article. Text confirmed from the Wayback capture.",
+    "verified": true,
+    "known": false
+  }
+]

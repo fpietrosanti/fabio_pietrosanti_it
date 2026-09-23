@@ -122,6 +122,91 @@
   "date": null,
   "year": null,
   "type": "mentioned",
+  "outlet": "tomshw.it",
+  "title": "L'Italia è la nuova capitale dello spyware",
+  "url": "https://www.tomshw.it/hardware/litalia-e-la-nuova-capitale-dello-spyware-2024-11-14",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …simili in altri paesi europei. Negli anni il settore è cresciuto, arrivando a contare diverse aziende di rilievo come Hacking Team (ora Memento Labs). Secondo Fabio Pietrosanti, presidente dell'Hermes Center for Transpar…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-09-23-1100"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "tomshw.it",
+  "title": "Referendum Lombardia o pasticcio digitale? | Tom's Hardware",
+  "url": "https://www.tomshw.it/altro/referendum-lombardia-o-pasticcio-digitale",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …democrazia, perché i cittadini devono vedersi riconosciuto il diritto alla massima trasparenza sulle operazioni di voto. Né è convinto, insieme a Zanero, anche Fabio Pietrosanti del centro Hermes , che ha deciso di proce…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-09-23-1100"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "tomshw.it",
+  "title": "Gli esperti di cybersicurezza criticano la nomina di Carrai | Tom's Hardware",
+  "url": "https://www.tomshw.it/altro/gli-esperti-di-cybersicurezza-criticano-la-nomina-di-carrai",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …ezza La possibile nomina di Marco Carrai come responsabile del Nucleo per la sicurezza cibernetica (NSC) ha contrariato molti esperti del settore. Proprio ieri Fabio Pietrosanti, co-creatore del Centro Hermes per la tras…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-09-23-1100"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "tomshw.it",
+  "title": "Il M5S ha toppato, difendiamo gli hacker etici | Tom's Hardware",
+  "url": "https://www.tomshw.it/altro/il-m5s-ha-toppato-difendiamo-gli-hacker-etici",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …i completezza – Stefano Zanero (Politecnico di Milano), Stefano Fratepietro ( DEFT Project ), David Puente , Jacopo Iacoboni, Matteo Flora, Riccardo Coluccini, Fabio Pietrosanti (Centro Hermes). \"Un po' come se qualcuno …",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-09-23-1100"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "startmag.it",
+  "title": "Come (non) fare un'app anti Covid-19. L'appello di esperti e prof.",
+  "url": "https://www.startmag.it/innovazione/come-non-fare-unapp-anti-covid-19-lappello-di-esperti-e-prof/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …assimo Travostino, Avvocato, Nexa Center for Internet & Society Maurizio Siracusa, Cyber Security Manager Stefano Barale, Fisico Teorico Guido Rimini, Avvocato Fabio Pietrosanti, Centro Hermes per la Trasparenza e i Diri…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-09-23-1100"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
   "outlet": "repubblica.it",
   "title": "Fabio Pietrosanti - la Repubblica.it",
   "url": "https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/",
@@ -717,6 +802,23 @@
   "on_old_site": false
  },
  {
+  "date": "2001-12-14",
+  "year": 2001,
+  "type": "article_by",
+  "outlet": "WeekIT (Mondadori weekly, weekit.it)",
+  "title": "Meglio l'outsourcing o una security interna?",
+  "url": "https://web.archive.org/web/20040905215552/http://www.weekit.it:80/weekit/unico/art006004035189.jsp",
+  "language": "it",
+  "role": "author",
+  "note": "Section SECURITY. Standfirst: 'Cresce l'offerta dei fornitori di \"sicurezza gestita\". I criteri di base per valutarne l'affidabilità. E le cautele necessarie' - byline 'di Fabio Pietrosanti 14/12/2001'. Found by crawling the archived weekit.it article pages (Wayback CDX). The Wayback capture was read once during the crawl; a second fetch came back empty, so re-check the capture.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_it_magazines_2026-09-22"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2002",
   "year": 2002,
   "type": "article_by",
@@ -764,6 +866,23 @@
   "known": false,
   "_slices": [
    "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2002-02-11",
+  "year": 2002,
+  "type": "article_by",
+  "outlet": "WeekIT (Mondadori weekly, weekit.it)",
+  "title": "Crittografia e backdoor, parla Phil Zimmermann",
+  "url": "https://web.archive.org/web/20040905220529/http://www.weekit.it:80/weekit/unico/art006004035348.jsp",
+  "language": "it",
+  "role": "author (interview with Phil Zimmermann at Infosecurity 2002)",
+  "note": "Section PRIVACY. 'Un incontro con l'inventore di Pgp, preoccupato per la privacy degli utenti' - byline 'di Fabio Pietrosanti 11/2/2002'. Zimmermann talks about PGP backdoors after 9/11 and about NAI management. Related to the known PC Professionale 207 Zimmermann box, but this is a separate article. Text confirmed from the Wayback capture.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_it_magazines_2026-09-22"
   ],
   "on_old_site": false
  },
@@ -4423,6 +4542,23 @@
   "date": "2013-07-02",
   "year": 2013,
   "type": "tv",
+  "outlet": "Sky TG24 (servizio di Sacha Coltellacci)",
+  "title": "Datagate, il mondo delle spie visto da dentro (current page URL)",
+  "url": "https://video.sky.it/news/mondo/video/datagate_il_mondo_delle_spie_visto_da_dentro-164249",
+  "language": "it",
+  "role": "interviewee (unconfirmed)",
+  "note": "The known URL http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid 301-redirects to this live page. The page (title and description 'Lo spionaggio USA riapre il dibattito su privacy e sicurezza') does not name Pietrosanti or Hermes, so his presence is still unconfirmed. The only source is the Hermes Center press post. The video itself was not watched.",
+  "verified": false,
+  "known": true,
+  "_slices": [
+   "pass4_mediaset_other_tv_2026-09-22"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-07-02",
+  "year": 2013,
+  "type": "tv",
   "outlet": "Sky TG24",
   "title": "Datagate, il mondo delle spie visto da dentro",
   "url": "http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid",
@@ -7742,6 +7878,40 @@
   "on_old_site": false
  },
  {
+  "date": "2018-03-02",
+  "year": 2018,
+  "type": "radio",
+  "outlet": "Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini",
+  "title": "Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (current page URL)",
+  "url": "https://www.radio24.ilsole24ore.com/programmi/2024/puntata/cybersecurity--il-mondo-di-tor--accordo-skynetflix-214900-2419246682962353",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Same episode as the known URL http://www.radio24.ilsole24ore.com/programma/2024/trasmissione-marzo-2018-224932-gSLAjFnabC, which now redirects here. Episode JSON: 'Come spiega invece Fabio Pietrosanti, presidente e cofondatore del Centro Hermes ...' (Tor; GlobaLeaks, ALAC, ANAC).",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_mediaset_other_tv_2026-09-22"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-03-02",
+  "year": 2018,
+  "type": "radio",
+  "outlet": "Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini",
+  "title": "Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (audio MP3)",
+  "url": "https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180302-2024.mp3",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Direct podcast audio of the known episode, taken from the episode JSON. Not downloaded.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_mediaset_other_tv_2026-09-22"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2018-03-12",
   "year": 2018,
   "type": "research",
@@ -8328,6 +8498,40 @@
   "on_old_site": false
  },
  {
+  "date": "2018-08-31",
+  "year": 2018,
+  "type": "radio",
+  "outlet": "Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini",
+  "title": "Hyperloop, TOR e Industria 4.0",
+  "url": "https://www.radio24.ilsole24ore.com/programmi/2024/puntata/hyperloop-tor-e-industria-40-152305-2419246668444300",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Replay episode: 'Parliamo anche di anonimato in rete e di TOR con Fabio Pietrosanti, presidente e cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali.' Likely re-airs the 2018-03-02 Tor interview (summer replay: 'Riascoltiamo'). Verified 2026-09-22 via the Radio 24 episode JSON (redis jsonget, which is what the page renders); old URL http://www.radio24.ilsole24ore.com/programma/2024/hyperloop-tor-e-industria-40-152305-gSLAMtQUmC 301-redirects here.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_mediaset_other_tv_2026-09-22"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-08-31",
+  "year": 2018,
+  "type": "radio",
+  "outlet": "Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini",
+  "title": "Hyperloop, TOR e Industria 4.0 (audio MP3)",
+  "url": "https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180831-2024.mp3",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Direct podcast audio of the same episode (listed as 'file' in the episode JSON; the URL answered with a 302 redirect to the audio CDN, and the audio was not downloaded).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_mediaset_other_tv_2026-09-22"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2018-09-12",
   "year": 2018,
   "type": "other",
@@ -8463,6 +8667,26 @@
   "known": false,
   "_slices": [
    "pass4_evoting_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-11-02",
+  "year": 2018,
+  "type": "radio",
+  "outlet": "Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini",
+  "title": "Voto digitale: rischi e vantaggi - Trasformazione digitale in Italia",
+  "url": "https://www.radio24.ilsole24ore.com/programmi/2024/puntata/voto-digitale-rischi-e-vantaggi--trasformazione-digitale-in-italia-210510-2419246682960852",
+  "language": "it",
+  "role": "interviewee",
+  "note": "E-voting: 'Come spiega Fabio Pietrosanti, esperto di cybersecurity e presidente del Centro Hermes ... il rischio di un hackeraggio è ancora troppo elevato per affidare ad un sistema digitale il destino di un Paese.' Verified 2026-09-22 via the Radio 24 episode JSON (redis jsonget, which is what the page renders); old URL http://www.radio24.ilsole24ore.com/programma/2024/voto-digitale-rischi-e-vantaggi--trasformazione-digitale-italia-210510-gSLAlLPksC 301-redirects here.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_mediaset_other_tv_2026-09-22"
+  ],
+  "mirrors": [
+   "https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/181102-2024.mp3"
   ],
   "on_old_site": false
  },
@@ -8634,6 +8858,26 @@
   "known": false,
   "_slices": [
    "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-02-08",
+  "year": 2019,
+  "type": "radio",
+  "outlet": "Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini",
+  "title": "Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale",
+  "url": "https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Facial recognition segment: 'Enrico Pagliarini ne parla con Fabio Pietrosanti, presidente e cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali.' Verified 2026-09-22 via the Radio 24 episode JSON (redis jsonget, which is what the page renders); old URL http://www.radio24.ilsole24ore.com/programma/2024/terapie-digitali--accordo-google-e-confindustria--riconoscimento-facciale-210510-gSLAKr6F1C 301-redirects here.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_mediaset_other_tv_2026-09-22"
+  ],
+  "mirrors": [
+   "https://podcast-radio24.ilsole24ore.com/radio24_audio/2019/190208-2024.mp3"
   ],
   "on_old_site": false
  },
@@ -10648,6 +10892,26 @@
   "known": false,
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-06-24",
+  "year": 2022,
+  "type": "radio",
+  "outlet": "Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini",
+  "title": "Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti",
+  "url": "https://www.radio24.ilsole24ore.com/programmi/2024/puntata/google-analitycs--iot-e-controllo-accessi--beauty-tech--taxi-volanti-200500-2419319461594695",
+  "language": "it",
+  "role": "interviewee",
+  "note": "Google Analytics in Italian PA after the Garante decision: 'Fabio Pietrosanti, uno dei fondatori del progetto MonitoraPA, spiega quali sono i problemi che hanno portato a questa decisione.' Verified 2026-09-22 via the Radio 24 episode JSON (redis jsonget, which is what the page renders); old URL http://www.radio24.ilsole24ore.com/programma/2024/google-analitycs--iot-e-controllo-accessi--beauty-tech--taxi-volanti-200500-AElXCBiB 301-redirects here.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_mediaset_other_tv_2026-09-22"
+  ],
+  "mirrors": [
+   "https://podcast-radio24.ilsole24ore.com/radio24_audio/2022/220624-2024.mp3"
   ],
   "on_old_site": false
  },
