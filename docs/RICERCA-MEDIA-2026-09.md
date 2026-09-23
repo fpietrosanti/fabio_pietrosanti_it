@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **925**; dopo deduplica: **692**
+- Risultati grezzi dalle ricerche: **927**; dopo deduplica: **694**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 657**
-- Verificati aprendo la pagina: **599**; solo da risultato di ricerca: **93**
+- **Nuovi rispetto al vecchio sito: 659**
+- Verificati aprendo la pagina: **601**; solo da risultato di ricerca: **93**
 
-Per tipo (nuovi): Menzionato 121, Talk 73, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, Articolo scritto 20, Report 18, Comunicato 17, Slide 11, TV 9, Podcast 9, Paper 8, Capitolo di libro 6, Intervista 6, documento 6, village 5, Brevetto 4, panel 3, workshop 3, Tesi 3, articolo 3, consultazione 2, Wiki 1, magazine 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 123, Talk 73, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, Articolo scritto 20, Report 18, Comunicato 17, Slide 11, TV 9, Podcast 9, Paper 8, Capitolo di libro 6, Intervista 6, documento 6, village 5, Brevetto 4, panel 3, workshop 3, Tesi 3, articolo 3, consultazione 2, Wiki 1, magazine 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -38,9 +38,9 @@ Per tipo (nuovi): Menzionato 121, Talk 73, Post sul blog infosecurity.ch 71, Vid
 | 2017 | 0 | 67 | 67 |
 | 2018 | 0 | 66 | 66 |
 | 2019 | 0 | 25 | 25 |
-| 2020 | 0 | 45 | 45 |
+| 2020 | 0 | 46 | 46 |
 | 2021 | 0 | 25 | 25 |
-| 2022 | 0 | 55 | 55 |
+| 2022 | 0 | 56 | 56 |
 | 2023 | 0 | 8 | 8 |
 | 2024 | 0 | 5 | 5 |
 | 2025 | 0 | 9 | 9 |
@@ -150,7 +150,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 
-## 2022 — 55 voci, 55 nuove
+## 2022 — 56 voci, 56 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -238,6 +238,8 @@ Anni senza nessun risultato: nessuno
   Cites his Il Riformista interview (2,700 Kaspersky PA partnerships) and the parliamentary question it triggered (Paolo Romano)
 - 🆕 **2022-03-07** · Menzionato · Formiche.net — [Dalla Ferrari al Viminale. Se in Italia il software russa (con Kaspersky)](https://formiche.net/2022/03/ferrari-viminale-software-kaspersky/)  
   Cites 'l'analista Fabio Pietrosanti' and his Il Riformista interview on 2,700 Kaspersky-PA contracts
+- 🆕 **2022-03-07** · Menzionato · ilriformista.it — [Russia verso la disconnessione da Internet, l'ultima mossa di Putin per colpire la libertà d'informazione - Il Riformista](https://www.ilriformista.it/russia-verso-la-disconnessione-da-internet-lultima-mossa-di-putin-per-colpire-la-liberta-dinformazione-284523/)  
+  verified via wayback; context: …roslav costruisce molotov Il tesoro di Putin, il patrimonio misterioso e a prova di sanzione dello Zar che potrebbe valere 200 miliardi di dollari Intervista a Fabio Pietrosanti del centro Hermes “Ecco come Putin può dis…
 - 🆕 **2022-03-06** · Articolo scritto · LinkedIn — [Eliminare Kaspersky dalle infrastutture IT in Europa è una priorità](https://www.linkedin.com/posts/activity-6906253703863427072-Xirm)  
   Post urging ACN to mandate Kaspersky replacement; date derived from post ID
 - 🆕 **2022-03-05** · Radio · Rai Radio1 - Eta Beta (listed on dicorinto.it) — [Intervista Arturo Di Corinto a RadioRaiUno - Eta Beta - 5 Marzo 2022](https://dicorinto.it/tipologia/interviste/intervista-arturo-di-corinto-a-radioraiuno-eta-beta-5-marzo-2022/)  
@@ -316,7 +318,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 45 voci, 45 nuove
+## 2020 — 46 voci, 46 nuove
 
 - 🆕 **2020-12-03** · Ricerca · GitHub — [ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)](https://github.com/fpietrosanti/ifuriosi)  
   Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista
@@ -336,6 +338,8 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …2020 Home Attualità Politica Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau di Raffaele Angius Contributor 23 Oct, 2020 Fabio Pietrosanti, iscritto al M5s da due anni, si è visto re…
 - 🆕 **2020-10-20** · Talk · Copernicani (#DialoghiCopernicani, online) — [Martedi 20 ottobre ore 21:00 - Riconoscimento facciale usato dalle forze dell'ordine, strumento o arma?](https://copernicani.it/blog/2020/10/16/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/)  
   Online dialogue with artist-activist Paolo Cirio (Capture project) and Carlo Piana; introduced as 'presidente del Centro Hermes' and a Copernicano; announcement published 2020-10-16 (Wayback 20201019; also at www.copernicani.it/martedi-20-ottobre-ore-2100-...)
+- 🆕 **2020-10-08** · Menzionato · ilriformista.it — [Volano stracci tra i grillini: chi vince sui social tra Casaleggio e la base vicina a Di Maio?](https://www.ilriformista.it/volano-stracci-tra-i-grillini-chi-vince-sui-social-tra-casaleggio-e-la-base-vicina-a-di-maio-166440/)  
+  verified via live; context: …, oppure preferire la linea conservatrice di Di Battista e soprattutto di Davide Casaleggio . C’è chi addirittura ha messo benzina sul fuoco come l’informatico Fabio Pietrosanti che, a disposizione dei parlamentari che v…
 - 🆕 **2020-10-02** · Menzionato · corriere.it — [M5S, ritardo nei pagamenti: Rousseau taglia i servizi. Evento del 4 ottobre rinviato](https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml)  
   verified via live; context: …`Jaromil� Roio (hacker che ha dato vita alla comunit� Dyne.org) annuncia la nascita del software libero �Open Rousseau � che, come anticipato all’Adnkronos da Fabio Pietrosanti, uno dei promotori dell’iniziativa, punta a…
 - 🆕 **2020-10-02** · newspaper · Il Gazzettino (Friuli ed.) — [Il Gazzettino-Friuli 2020-10-02 (article on 'Open Rousseau')](https://archive.org/details/GazzettinoFVG2020-10-02)  

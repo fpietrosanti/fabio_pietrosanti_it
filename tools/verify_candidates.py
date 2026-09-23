@@ -26,6 +26,11 @@ TOPICS = re.compile(r"globaleaks|hermes|whistleblow|tor2web|\btor\b|hacker|priva
                     r"crittograf|anonimato|copernicani|biohack", re.I)
 IT_MONTHS = {m: i for i, m in enumerate(["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
                                          "agosto", "settembre", "ottobre", "novembre", "dicembre"], 1)}
+# omonimi noti (data/research/decisions.json → "not_me"): se nel contesto c'è uno di questi,
+# l'occorrenza non vale. "a cura di … Pietrosanti" è Valentina, che cura le schede di Radio Radicale.
+HOMONYMS = re.compile(r"(Paolo|Matteo|Roberto|Loris|Stefano|Elma|Enrico|Katia|Francesco|Valentina|Giovanni|Giulio|"
+                      r"Fabrizio|Ezio|Alessio|Corinna|Mario\s+Lauro|Maria\s+Paola)\s+Pietrosanti|"
+                      r"a\s+cura\s+di\s+\w+\s+Pietrosanti", re.I)
 
 
 def date_from_url(u):
@@ -80,7 +85,7 @@ def main():
         near = None
         for m in re.finditer(r"Pietrosanti", body):
             ctx = body[max(0, m.start() - 400): m.end() + 400]
-            if TOPICS.search(ctx) and not re.search(r"(Paolo|Matteo|Roberto|Loris|Stefano|Elma|Enrico|Katia|Francesco)\s+Pietrosanti", ctx):
+            if TOPICS.search(ctx) and not HOMONYMS.search(ctx):
                 near = ctx
                 break
         if full or near:

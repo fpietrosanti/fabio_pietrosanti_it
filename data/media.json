@@ -9664,6 +9664,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-10-08",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "ilriformista.it",
+  "title": "Volano stracci tra i grillini: chi vince sui social tra Casaleggio e la base vicina a Di Maio?",
+  "url": "https://www.ilriformista.it/volano-stracci-tra-i-grillini-chi-vince-sui-social-tra-casaleggio-e-la-base-vicina-a-di-maio-166440/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …, oppure preferire la linea conservatrice di Di Battista e soprattutto di Davide Casaleggio . C’è chi addirittura ha messo benzina sul fuoco come l’informatico Fabio Pietrosanti che, a disposizione dei parlamentari che v…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-09-23-1900"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-10-20",
   "year": 2020,
   "type": "talk",
@@ -10475,6 +10492,23 @@
   "known": false,
   "_slices": [
    "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-03-07",
+  "year": 2022,
+  "type": "mentioned",
+  "outlet": "ilriformista.it",
+  "title": "Russia verso la disconnessione da Internet, l'ultima mossa di Putin per colpire la libertà d'informazione - Il Riformista",
+  "url": "https://www.ilriformista.it/russia-verso-la-disconnessione-da-internet-lultima-mossa-di-putin-per-colpire-la-liberta-dinformazione-284523/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …roslav costruisce molotov Il tesoro di Putin, il patrimonio misterioso e a prova di sanzione dello Zar che potrebbe valere 200 miliardi di dollari Intervista a Fabio Pietrosanti del centro Hermes “Ecco come Putin può dis…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-09-23-1900"
   ],
   "on_old_site": false
  },

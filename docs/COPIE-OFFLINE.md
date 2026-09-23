@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **692**; già processate: **730**; ancora da processare: **0**
-- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **420** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **553**
+- Voci in `data/media.json`: **694**; già processate: **732**; ancora da processare: **0**
+- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **422** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **555**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **29**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **11**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **13**
@@ -47,9 +47,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 56 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 34 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 16 | 3 | 0 | 0 | 1 | 0 | 0 |
-| 2020 | 41 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 42 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 18 | 6 | 0 | 0 | 0 | 0 | 1 |
-| 2022 | 43 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 2022 | 44 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2023 | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2024 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
@@ -792,6 +792,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · il Giornale — [Hacker sfida Casaleggio: ecco la contro-piattaforma per sostituire Rousseau](https://www.ilgiornale.it/news/politica/m5s-ecco-contro-piattaforma-che-sfida-rousseau-1893743.html) · copia: `2020/9af99e809847` (Web Archive 20201002) · licenza: terzi
 - **2020** · Il Giornale d'Italia — [Movimento 5 stelle, hacker sfidano Casaleggio: al via Open Rousseau software libero](https://www.ilgiornaleditalia.it/cronaca/2020/10/01/news/movimento-5-stelle-hacker-sfidano-casaleggio-al-via-open-rousseau-software-libero-59083/) · copia: `2020/f05900cc123f` (live) · licenza: terzi
 - **2020** · Il Riformista — [Cinquestellopoli, ecco cosa faceva Casaleggio con i soldi di Philip Morris](https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/) · copia: `2020/cea04efec86c` (Web Archive 20201205) · licenza: terzi
+- **2020** · ilriformista.it — [Volano stracci tra i grillini: chi vince sui social tra Casaleggio e la base vicina a Di M](https://www.ilriformista.it/volano-stracci-tra-i-grillini-chi-vince-sui-social-tra-casaleggio-e-la-base-vicina-a-di-maio-166440/) · copia: `2020/a3e54c1ffb95` (live) · licenza: terzi
 - **2020** · Key4biz — [In Italia esiste davvero il comitato "quantistico" sul voto elettronico?](https://www.key4biz.it/in-italia-esiste-davvero-il-comitato-quantistico-sul-voto-elettronico/332220/) · copia: `2020/25d4680f2c02` (Web Archive 20201123) · licenza: terzi
 - **2020** · lastampa.it — [L’emergenza per Casaleggio può far “testare il voto online a marzo”, ecco come gli informa](https://www.lastampa.it/politica/2020/03/04/news/l-emergenza-per-casaleggio-puo-far-testare-il-voto-online-a-marzo-ecco-come-gli-informatici-lo-stroncano-1.38548899/) · copia: `2020/79c2958d757e` (Web Archive 20200305) · licenza: terzi
 - **2020** · Linkiesta (Nicola Biondo) — [Lo sconosciuto comitato governativo che sta pensando come farci votare con il voto elettro](https://www.linkiesta.it/2020/11/comitato-foia-voto-elettronico-italia-news/) · copia: `2020/37398b4034a9` (Web Archive 20201119) · licenza: terzi
@@ -862,6 +863,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Il Riformista — ["Ecco come Putin può disconnettere l'Italia", il rischio dell'antivirus Kaspersky utilizza](https://www.ilriformista.it/ecco-come-putin-puo-disconnettere-litalia-il-rischio-dellantivirus-kaspersky-utilizzato-dagli-enti-pubblici-282811/) · copia: `2022/e68cb385c0ce` (Web Archive 20220228) · licenza: terzi
 - **2022** · Il Riformista — [La sicurezza italiana in mano a Kaspersky, l'azienda: "Nessun legame con Putin". Ma i cont](https://www.ilriformista.it/la-sicurezza-italiana-in-mano-a-kaspersky-lazienda-nessun-legame-con-putin-ma-i-conti-non-tornano-283463/) · copia: `2022/de194834c010` (Web Archive 20220303) · licenza: terzi
 - **2022** · Il Riformista — [L'ultimo regalo di Conte: voto elettronico manipolabile, a rischio la democrazia](https://www.ilriformista.it/lultimo-regalo-di-conte-voto-elettronico-manipolabile-a-rischio-la-democrazia-271311/) · copia: `2022/c5afe4b60dc8` (Web Archive 20220106) · licenza: terzi
+- **2022** · ilriformista.it — [Russia verso la disconnessione da Internet, l'ultima mossa di Putin per colpire la libertà](https://www.ilriformista.it/russia-verso-la-disconnessione-da-internet-lultima-mossa-di-putin-per-colpire-la-liberta-dinformazione-284523/) · copia: `2022/4391d4386319` (Web Archive 20220308) · licenza: terzi
 - **2022** · Info Data - Il Sole 24 Ore — [La Pubblica amministrazione che usa Google Analytics rispetta le regole della privacy? L'i](https://www.infodata.ilsole24ore.com/2022/05/20/la-pubblica-amministrazione-rispetta-le-regole-della-privacy-cosi-funziona-losservatorio-monitorapa/) · copia: `2022/680931488ae9` (Web Archive 20220520) · licenza: terzi
 - **2022** · Info Data - Il Sole 24 Ore (#ThinkTallyT — [La Pa che usa Google Analytics rispetta le regole della privacy? #ThinkTallyTalk](https://www.infodata.ilsole24ore.com/2022/05/22/la-pa-usa-google-analytics-rispetta-le-regole-della-privacy-thinktallytalk/) · copia: `2022/485ab05e07e9` (Web Archive 20220522) · licenza: terzi
 - **2022** · Info Data - Il Sole 24 Ore — [Stretta del Garante Privacy italiano su Google Analytics. Aveva ragione MonitoraPa?](https://www.infodata.ilsole24ore.com/2022/06/28/stretta-del-garante-privacy-italiano-google-analytics-ragione-monitorapa/) · copia: `2022/ee8ad4ccb589` (Web Archive 20220628) · licenza: terzi

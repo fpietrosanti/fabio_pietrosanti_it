@@ -146,6 +146,15 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Hermes, GlobaLeaks, CRVD, Copernicani (come fatto per CRVD il 18/09).
 - [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
 
+## Note sessione 2026-09-23 (sera)
+- **694 voci** in `data/media.json` (+2). Copie offline: 555 ottenute, 5 non ottenute, 0 in attesa.
+- **`BRAVE_API_KEY` non impostata**: lo step 1 del task programmato (Brave Search API) resta inutilizzabile
+  finché Fabio non fornisce una chiave.
+- **`verify_candidates.py` corretto**: il filtro omonimi copriva solo 9 nomi e lasciava passare le schede di
+  Radio Radicale «a cura di Valentina Pietrosanti». Ora usa `HOMONYMS`, allineato a `not_me` di `decisions.json`,
+  più il pattern «a cura di … Pietrosanti».
+- 5 nuove esclusioni in `decisions.json` (omonimi: 3 schede Radio Radicale, cronaca tg24.sky, cronaca Riformista).
+
 ## Note sessione 2026-09-23
 - **701 voci** dopo il merge (erano 676). Nuove verificate: OSCE 2016 (biografia con il nick «naif»),
   ParteciPa #423 e #425 (gennaio 2020, proposte sue, handle `naif`), onData 2020 ×2 e la ripresa di Fondazione AIDR,
@@ -192,7 +201,17 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   1 Startmag). **Chiusa la lacuna «due articoli Agenda Digitale senza data»**: la pagina autore
   `agendadigitale.eu/giornalista/fabio-pietrosanti/` elenca i suoi 3 articoli (trojan/Exodus con Stefano Aterno;
   voto dei cittadini all'estero con Quintarelli e Napolitano; voto su blockchain), tutti già in `data/media.json`.
-  Da fare: ilriformista, rainews, raiplay, la7, tg24.sky, radio24, radiopopolare, radioradicale.
+  Fatti il 2026-09-23 (sera, secondo blocco, **nessun controllo anti-robot**): ilriformista, rainews, raiplay,
+  la7, tg24.sky, radio24.ilsole24ore, radiopopolare, radioradicale → **+2 voci** (entrambe Il Riformista:
+  «Russia verso la disconnessione da Internet» 2022-03-07, intervista a Fabio del Centro Hermes; «Volano stracci
+  tra i grillini» 2020-10-08, «l'informatico Fabio Pietrosanti» e i parlamentari M5S). Zero risultati su
+  rainews, raiplay, la7, radiopopolare e radio24.ilsole24ore (**host sbagliato**: le puntate note di Radio 24
+  stanno su `radio24.it`, aggiunto in coda). tg24.sky: un solo risultato, omonimo di cronaca locale.
+  radioradicale: tutti i risultati erano già noti oppure pagine soggetto di omonimi; **attenzione**, le schede
+  dei resoconti parlamentari di Radio Radicale sono «a cura di **Valentina** Pietrosanti» e generavano falsi
+  positivi (ora filtrati in `verify_candidates.py`). Resta da enumerare la sua pagina soggetto
+  `radioradicale.it/soggetti/175095/fabio-pietrosanti` (dominio non consentito nel browser: usare API/Wayback).
+  Da fare: i 86 domini ancora `pending` in `queue.json` (locali Latina, tecnici italiani, stampa estera, media cinesi).
 
 ## Copie offline
 - `tools/archive_copies.py <cartella>`: Web Archive (capture più vicina alla data) poi sito live; salva originale,

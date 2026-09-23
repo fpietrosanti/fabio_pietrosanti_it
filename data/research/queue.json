@@ -198,7 +198,10 @@
   },
   {
    "domain": "ilriformista.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 2,
+   "note": "10 risultati: +2 nuove (Russia/Internet 2022-03-07, grillini 2020-10-08); 4 gia note, incl. Cinquestellopoli-Philip Morris"
   },
   {
    "domain": "editorialedomani.it",
@@ -214,31 +217,52 @@
   },
   {
    "domain": "rainews.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "Google: zero risultati"
   },
   {
    "domain": "raiplay.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "Google: zero risultati"
   },
   {
    "domain": "la7.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "Google: zero risultati"
   },
   {
    "domain": "tg24.sky.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "1 risultato, omonimo (cronaca Fiumicino) -> escluso"
   },
   {
    "domain": "radio24.ilsole24ore.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "Google: zero risultati su questo host; le puntate di Radio 24 note stanno su radio24.it -> aggiunto come dominio a se"
   },
   {
    "domain": "radiopopolare.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "Google: zero risultati"
   },
   {
    "domain": "radioradicale.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "10 risultati: 1 nuovo scartato (scheda a cura di Valentina Pietrosanti), gli altri gia noti o pagine soggetto omonime; pagina soggetto di Fabio: /soggetti/175095/fabio-pietrosanti (dominio non consentito nel browser, da enumerare via API/Wayback)"
   },
   {
    "domain": "vice.com",
@@ -579,6 +603,11 @@
   {
    "domain": "sina.com.cn",
    "status": "pending"
+  },
+  {
+   "domain": "radio24.it",
+   "status": "pending",
+   "note": "host corretto delle puntate di Radio 24 (radio24.ilsole24ore.com da 0 risultati)"
   }
  ],
  "queries": [
@@ -766,6 +795,14 @@
    "captcha": false,
    "confirmed_new": 5,
    "note": "BRAVE_API_KEY non impostata. Ripresi gli 8 domini in 'retry' dopo il CAPTCHA del 22/09: hwupgrade.it, tomshw.it, key4biz.it, agendadigitale.eu, cybersecurity360.it, corrierecomunicazioni.it, startmag.it, formiche.net. Nessun controllo anti-robot. Nuove verificate: 4 Tom's Hardware (spyware Italia 2024, referendum Lombardia, nomina Carrai, hacker etici M5S) + Startmag app anti-Covid 2020. Trovata e svuotata la pagina autore agendadigitale.eu/giornalista/fabio-pietrosanti/ (3 articoli suoi, gia' in media.json: trojan/Exodus con Aterno, voto estero con Quintarelli e Napolitano, voto su blockchain) -> chiusa la lacuna 'due articoli Agenda Digitale senza data'. Scartati 2 falsi positivi CorCom (Maria Clara Pietrosanti + Fabio Piperno in elenco alfabetico; Lorenzo Pietrosanti RFID) -> decisions.json. hwupgrade.it: solo un thread di forum (escluso). Fabio e' tornato in banda larga: rimosso .low-bandwidth ed eseguite di nuovo archive_copies/render_copies_report. Prossimo blocco: ilriformista.it (pista Kaspersky), rainews.it, raiplay.it, la7.it, tg24.sky.it, radio24.ilsole24ore.com, radiopopolare.it, radioradicale.it."
+  },
+  {
+   "date": "2026-09-23 19:00",
+   "engine": "google (Chrome di Fabio)",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 2,
+   "note": "BRAVE_API_KEY assente (step 1 saltato). 8 domini: ilriformista(+2), rainews/raiplay/la7/radio24.ilsole24ore/radiopopolare (0 risultati), tg24.sky (omonimo), radioradicale (tutti noti o omonimi). Nessun controllo anti-robot in tutto il blocco. Corretto verify_candidates.py: la lista degli omonimi ora copre tutti quelli di decisions.json + «a cura di X Pietrosanti» (schede Radio Radicale di Valentina Pietrosanti)."
   }
  ]
 }
