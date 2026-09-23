@@ -14,7 +14,7 @@ Stato generale: **692 voci** (599 verificate); **tutte** le copie processate —
    ha prodotto molte pubblicazioni di PA che ti nominano — vale la pena un giro sistematico `site:*.edu.it`.
 2. **Chiave API Google Books** (gratuita, Google Cloud) e **chiave Semantic Scholar**: senza, 13 schede di libri e i
    volumi di Frediani, Maurizi e Di Corinto restano non verificabili. È il blocco più costoso rimasto.
-3. **Le 28 pagine «solo organizzazione»** e le **11 «nome assente»** (tabella B3-bis): contesto o esclusione?
+3. **Le 29 pagine «solo organizzazione»** e le **11 «nome assente»** (tabella B3-bis): contesto o esclusione?
 4. **PDF originali dei comunicati stampa PrivateWave** del 18/10/2010 (EN e ES): li hai?
 5. **Senato**: senato.it è dietro un WAF e non è archiviato. Se hai un browser con sessione residenziale, la scheda
    leg18 `ProcANLscheda43472` direbbe chi rappresentò Hermes nell'audizione sulla direttiva copyright.
