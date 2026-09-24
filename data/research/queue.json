@@ -1,832 +1,832 @@
 {
-  "about": "Queue for Google searches in Fabio's Chrome. Domain entries use: site:<domain> \"Pietrosanti\" (GlobaLeaks OR hacker OR Hermes OR whistleblowing OR Rousseau OR Tor OR cifratura OR intercettazioni OR PrivateWave OR Kaspersky OR \"voto elettronico\" OR sicurezza). status: pending|done|retry; add 'date' and 'found' when done.",
-  "domains": [
-    {
-      "domain": "corriere.it",
-      "status": "done",
-      "date": "2026-09-17"
-    },
-    {
-      "domain": "repubblica.it",
-      "status": "done",
-      "date": "2026-09-17"
-    },
-    {
-      "domain": "lastampa.it",
-      "status": "done",
-      "date": "2026-09-17"
-    },
-    {
-      "domain": "ilsole24ore.com",
-      "status": "done",
-      "date": "2026-09-17"
-    },
-    {
-      "domain": "ilfattoquotidiano.it",
-      "status": "done",
-      "date": "2026-09-17"
-    },
-    {
-      "domain": "lespresso.it",
-      "status": "done",
-      "date": "2026-09-17"
-    },
-    {
-      "domain": "panorama.it",
-      "status": "done",
-      "date": "2026-09-17"
-    },
-    {
-      "domain": "ilpost.it",
-      "status": "done",
-      "date": "2026-09-17"
-    },
-    {
-      "domain": "linkiesta.it",
-      "status": "done",
-      "date": "2026-09-17"
-    },
-    {
-      "domain": "ansa.it",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 3
-    },
-    {
-      "domain": "agi.it",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 0
-    },
-    {
-      "domain": "adnkronos.com",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 1
-    },
-    {
-      "domain": "wired.it",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 6
-    },
-    {
-      "domain": "punto-informatico.it",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 10
-    },
-    {
-      "domain": "zeusnews.it",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 4
-    },
-    {
-      "domain": "webnews.it",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 4
-    },
-    {
-      "domain": "huffingtonpost.it",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 4
-    },
-    {
-      "domain": "open.online",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 4
-    },
-    {
-      "domain": "today.it",
-      "status": "done",
-      "date": "2026-09-22",
-      "found": 4
-    },
-    {
-      "domain": "fanpage.it",
-      "status": "done",
-      "date": "2026-09-22",
-      "found": 3
-    },
-    {
-      "domain": "ilgiornale.it",
-      "status": "done",
-      "date": "2026-09-22",
-      "found": 1
-    },
-    {
-      "domain": "ilmessaggero.it",
-      "status": "done",
-      "date": "2026-09-22",
-      "found": 9
-    },
-    {
-      "domain": "avvenire.it",
-      "status": "done",
-      "date": "2026-09-22",
-      "found": 0
-    },
-    {
-      "domain": "ilmanifesto.it",
-      "status": "done",
-      "date": "2026-09-22",
-      "found": 3
-    },
-    {
-      "domain": "internazionale.it",
-      "status": "done",
-      "date": "2026-09-22",
-      "found": 0
-    },
-    {
-      "domain": "dday.it",
-      "status": "done",
-      "date": "2026-09-22",
-      "found": 0
-    },
-    {
-      "domain": "hwupgrade.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 0
-    },
-    {
-      "domain": "tomshw.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 4
-    },
-    {
-      "domain": "key4biz.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 5
-    },
-    {
-      "domain": "agendadigitale.eu",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 8
-    },
-    {
-      "domain": "cybersecurity360.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 2
-    },
-    {
-      "domain": "corrierecomunicazioni.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 2
-    },
-    {
-      "domain": "startmag.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 3
-    },
-    {
-      "domain": "formiche.net",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 1
-    },
-    {
-      "domain": "ilriformista.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 2,
-      "note": "10 risultati: +2 nuove (Russia/Internet 2022-03-07, grillini 2020-10-08); 4 gia note, incl. Cinquestellopoli-Philip Morris"
-    },
-    {
-      "domain": "editorialedomani.it",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 4
-    },
-    {
-      "domain": "valigiablu.it",
-      "status": "done",
-      "date": "2026-09-18",
-      "found": 4
-    },
-    {
-      "domain": "rainews.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 0,
-      "note": "Google: zero risultati"
-    },
-    {
-      "domain": "raiplay.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 0,
-      "note": "Google: zero risultati"
-    },
-    {
-      "domain": "la7.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 0,
-      "note": "Google: zero risultati"
-    },
-    {
-      "domain": "tg24.sky.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 0,
-      "note": "1 risultato, omonimo (cronaca Fiumicino) -> escluso"
-    },
-    {
-      "domain": "radio24.ilsole24ore.com",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 0,
-      "note": "Google: zero risultati su questo host; le puntate di Radio 24 note stanno su radio24.it -> aggiunto come dominio a se"
-    },
-    {
-      "domain": "radiopopolare.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 0,
-      "note": "Google: zero risultati"
-    },
-    {
-      "domain": "radioradicale.it",
-      "status": "done",
-      "date": "2026-09-23",
-      "found": 0,
-      "note": "10 risultati: 1 nuovo scartato (scheda a cura di Valentina Pietrosanti), gli altri gia noti o pagine soggetto omonime; pagina soggetto di Fabio: /soggetti/175095/fabio-pietrosanti (dominio non consentito nel browser, da enumerare via API/Wayback)"
-    },
-    {
-      "domain": "vice.com",
-      "status": "pending"
-    },
-    {
-      "domain": "motherboard.vice.com",
-      "status": "pending"
-    },
-    {
-      "domain": "italiaoggi.it",
-      "status": "pending"
-    },
-    {
-      "domain": "ilsecoloxix.it",
-      "status": "pending"
-    },
-    {
-      "domain": "ilgiorno.it",
-      "status": "pending"
-    },
-    {
-      "domain": "quotidiano.net",
-      "status": "pending"
-    },
-    {
-      "domain": "tpi.it",
-      "status": "pending"
-    },
-    {
-      "domain": "money.it",
-      "status": "pending"
-    },
-    {
-      "domain": "wallstreetitalia.com",
-      "status": "pending"
-    },
-    {
-      "domain": "dataroom",
-      "status": "pending"
-    },
-    {
-      "domain": "latinaoggi.eu",
-      "status": "pending"
-    },
-    {
-      "domain": "latinatoday.it",
-      "status": "pending"
-    },
-    {
-      "domain": "h24notizie.com",
-      "status": "pending"
-    },
-    {
-      "domain": "latinacorriere.it",
-      "status": "pending"
-    },
-    {
-      "domain": "ilcaffe.tv",
-      "status": "pending"
-    },
-    {
-      "domain": "apogeonline.com",
-      "status": "pending"
-    },
-    {
-      "domain": "html.it",
-      "status": "pending"
-    },
-    {
-      "domain": "01net.it",
-      "status": "pending"
-    },
-    {
-      "domain": "computerworld.it",
-      "status": "pending"
-    },
-    {
-      "domain": "datamanager.it",
-      "status": "pending"
-    },
-    {
-      "domain": "infosec.news",
-      "status": "pending"
-    },
-    {
-      "domain": "securityopenlab.it",
-      "status": "pending"
-    },
-    {
-      "domain": "ictsecuritymagazine.com",
-      "status": "pending"
-    },
-    {
-      "domain": "federprivacy.org",
-      "status": "pending"
-    },
-    {
-      "domain": "altalex.com",
-      "status": "pending"
-    },
-    {
-      "domain": "diritto24.ilsole24ore.com",
-      "status": "pending"
-    },
-    {
-      "domain": "ipsoa.it",
-      "status": "pending"
-    },
-    {
-      "domain": "forumpa.it",
-      "status": "pending"
-    },
-    {
-      "domain": "anticorruzione.it",
-      "status": "pending"
-    },
-    {
-      "domain": "camera.it",
-      "status": "pending"
-    },
-    {
-      "domain": "senato.it",
-      "status": "pending"
-    },
-    {
-      "domain": "europarl.europa.eu",
-      "status": "pending"
-    },
-    {
-      "domain": "theguardian.com",
-      "status": "pending"
-    },
-    {
-      "domain": "forbes.com",
-      "status": "pending"
-    },
-    {
-      "domain": "wired.com",
-      "status": "pending"
-    },
-    {
-      "domain": "spiegel.de",
-      "status": "pending"
-    },
-    {
-      "domain": "sueddeutsche.de",
-      "status": "pending"
-    },
-    {
-      "domain": "zeit.de",
-      "status": "pending"
-    },
-    {
-      "domain": "netzpolitik.org",
-      "status": "pending"
-    },
-    {
-      "domain": "heise.de",
-      "status": "pending"
-    },
-    {
-      "domain": "lemonde.fr",
-      "status": "pending"
-    },
-    {
-      "domain": "liberation.fr",
-      "status": "pending"
-    },
-    {
-      "domain": "elpais.com",
-      "status": "pending"
-    },
-    {
-      "domain": "eldiario.es",
-      "status": "pending"
-    },
-    {
-      "domain": "bbc.co.uk",
-      "status": "pending"
-    },
-    {
-      "domain": "bbc.com",
-      "status": "pending"
-    },
-    {
-      "domain": "nytimes.com",
-      "status": "pending"
-    },
-    {
-      "domain": "washingtonpost.com",
-      "status": "pending"
-    },
-    {
-      "domain": "aljazeera.com",
-      "status": "pending"
-    },
-    {
-      "domain": "arstechnica.com",
-      "status": "pending"
-    },
-    {
-      "domain": "theverge.com",
-      "status": "pending"
-    },
-    {
-      "domain": "techcrunch.com",
-      "status": "pending"
-    },
-    {
-      "domain": "zdnet.com",
-      "status": "pending"
-    },
-    {
-      "domain": "theregister.com",
-      "status": "pending"
-    },
-    {
-      "domain": "niemanlab.org",
-      "status": "pending"
-    },
-    {
-      "domain": "cjr.org",
-      "status": "pending"
-    },
-    {
-      "domain": "gijn.org",
-      "status": "pending"
-    },
-    {
-      "domain": "ijnet.org",
-      "status": "pending"
-    },
-    {
-      "domain": "poynter.org",
-      "status": "pending"
-    },
-    {
-      "domain": "dw.com",
-      "status": "pending"
-    },
-    {
-      "domain": "reuters.com",
-      "status": "pending"
-    },
-    {
-      "domain": "bloomberg.com",
-      "status": "pending"
-    },
-    {
-      "domain": "euractiv.com",
-      "status": "pending"
-    },
-    {
-      "domain": "politico.eu",
-      "status": "pending"
-    },
-    {
-      "domain": "euobserver.com",
-      "status": "pending"
-    },
-    {
-      "domain": "torrentfreak.com",
-      "status": "pending"
-    },
-    {
-      "domain": "dailydot.com",
-      "status": "pending"
-    },
-    {
-      "domain": "boingboing.net",
-      "status": "pending"
-    },
-    {
-      "domain": "slashdot.org",
-      "status": "pending"
-    },
-    {
-      "domain": "techdirt.com",
-      "status": "pending"
-    },
-    {
-      "domain": "nrc.nl",
-      "status": "pending"
-    },
-    {
-      "domain": "volkskrant.nl",
-      "status": "pending"
-    },
-    {
-      "domain": "rsi.ch",
-      "status": "pending"
-    },
-    {
-      "domain": "swissinfo.ch",
-      "status": "pending"
-    },
-    {
-      "domain": "nzz.ch",
-      "status": "pending"
-    },
-    {
-      "domain": "tagesanzeiger.ch",
-      "status": "pending"
-    },
-    {
-      "domain": "derstandard.at",
-      "status": "pending"
-    },
-    {
-      "domain": "gazeta.pl",
-      "status": "pending"
-    },
-    {
-      "domain": "publico.pt",
-      "status": "pending"
-    },
-    {
-      "domain": "globo.com",
-      "status": "pending"
-    },
-    {
-      "domain": "wechat/sogou (zh)",
-      "status": "pending"
-    },
-    {
-      "domain": "sohu.com",
-      "status": "pending"
-    },
-    {
-      "domain": "163.com",
-      "status": "pending"
-    },
-    {
-      "domain": "thepaper.cn",
-      "status": "pending"
-    },
-    {
-      "domain": "sina.com.cn",
-      "status": "pending"
-    },
-    {
-      "domain": "radio24.it",
-      "status": "pending",
-      "note": "host corretto delle puntate di Radio 24 (radio24.ilsole24ore.com da 0 risultati)"
-    }
-  ],
-  "queries": [
-    {
-      "query": "site:journalismfestival.com OR site:festivaldelgiornalismo.com \"Pietrosanti\"",
-      "status": "pending",
-      "pages": 3
-    },
-    {
-      "query": "\"ifuriosi\" Casaleggio \"Philip Morris\" Pietrosanti",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Pietrosanti\" Kaspersky Euronews",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "OpenPUDO \"open source\" PUDO LESS",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Pietrosanti\" LIUC PUDO OR \"punti di ritiro\"",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Lazio\" app covid vulnerabilità \"Rocca\" 2020",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Giovanni Rocca\" \"Pietrosanti\" app covid Lazio vulnerabilità",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Pietrosanti\" covid \"celle\" OR \"dati di cella\" focolai",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "OSSCI \"spazio cibernetico italiano\" telegram",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Osservatorio sicurezza dello spazio cibernetico\" OR OSSCI Pietrosanti",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Pietrosanti\" AIRE \"voto elettronico\" OR \"voto all'estero\" OR \"italiani all'estero\"",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Hermes Center\" AIRE voto elettronico italiani estero",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Fabio Pietrosanti\"",
-      "status": "pending",
-      "pages": 5
-    },
-    {
-      "query": "\"Pietrosanti\" GlobaLeaks -site:globaleaks.org",
-      "status": "pending",
-      "pages": 3
-    },
-    {
-      "query": "\"naif\" \"Pietrosanti\" hacker",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Pietrosanti\" \"Hermes Center\"",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Pietrosanti\" OpenRousseau OR Rousseau M5S",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Raffaele Angius\" M5S doppia iscrizione Pietrosanti",
-      "status": "pending",
-      "pages": 1
-    },
-    {
-      "query": "\"Pietrosanti\" \"Monitora PA\" OR MonitoraPA Google Analytics",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Pietrosanti\" PrivateGSM OR PrivateWave OR Khamsa",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Pietrosanti\" CRVD \"voto elettronico\"",
-      "status": "pending",
-      "pages": 1
-    },
-    {
-      "query": "\"Pietrosanti\" filetype:pdf",
-      "status": "pending",
-      "pages": 3
-    },
-    {
-      "query": "\"Fabio Pietrosanti\" intervista OR interview",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Pietrosanti\" whistleblowing D.lgs 24/2023",
-      "status": "pending",
-      "pages": 2
-    },
-    {
-      "query": "\"Pietrosanti\" biohack.it OR \"Hacking Biology\"",
-      "status": "pending",
-      "pages": 1
-    },
-    {
-      "query": "\"Pietrosanti\" SignalSwarm OR PLogistics OR \"LESS.green\" OR Haulersense",
-      "status": "pending",
-      "pages": 1
-    }
-  ],
-  "history": [
-    {
-      "date": "2026-09-18",
-      "searched": 0,
-      "captcha": false,
-      "confirmed_new": 0,
-      "note": "Claude in Chrome non raggiungibile (extension disconnected): nessuna ricerca Google eseguita; coda invariata. Eseguita solo l'archiviazione offline delle 13 voci mancanti."
-    },
-    {
-      "date": "2026-09-18",
-      "searched": 8,
-      "captcha": false,
-      "confirmed_new": 6,
-      "note": "manual session in Chrome; Wired/Angius Rousseau articles found"
-    },
-    {
-      "date": "2026-09-19",
-      "searched": 0,
-      "captcha": false,
-      "confirmed_new": 0,
-      "note": "Claude in Chrome ancora non raggiungibile (tabs_context ok, navigate: extension not connected); browser integrato: timeout su navigate. Nessuna ricerca Google; coda invariata (prossimo blocco: ansa.it, agi.it, adnkronos.com, wired.it, punto-informatico.it, zeusnews.it, webnews.it, huffingtonpost.it). Copie offline: nessuna voce in sospeso."
-    },
-    {
-      "date": "2026-09-21 11:40",
-      "engine": "none",
-      "searched": 0,
-      "captcha": false,
-      "confirmed_new": 0,
-      "note": "BRAVE_API_KEY non impostata; Claude in Chrome: nessun browser collegato (list_connected_browsers vuoto). Nessuna ricerca; coda invariata (prossimo blocco: today.it, fanpage.it, ilgiornale.it, ilmessaggero.it, avvenire.it, ilmanifesto.it, internazionale.it, dday.it). Copie offline: archiviate 4 voci nuove (brevetti WO2008015721/EP2057808, Google Books 2013, guida Hermes al voto digitale 2017)."
-    },
-    {
-      "date": "2026-09-22 12:40",
-      "engine": "google-chrome",
-      "searched": 8,
-      "captcha": false,
-      "confirmed_new": 2,
-      "note": "Blocco domini: today.it, fanpage.it, ilgiornale.it, ilmessaggero.it, avvenire.it, ilmanifesto.it, internazionale.it, dday.it. Nuove: today.it 'Nella cyber war l'Italia affida i suoi segreti all'antivirus russo' (2022, cita intervista al Riformista) e video Fanpage Backstair/GlobaLeaks ai DIG Awards. Omonimi scartati: Matteo Pietrosanti (Il Messaggero Latina), Sabrina Pietrosanti (il manifesto). BRAVE_API_KEY non impostata. Pista: intervista al Riformista su Kaspersky (dominio ilriformista.it già in coda). Prossimo blocco: domini pending successivi."
-    },
-    {
-      "date": "2026-09-22 16:50",
-      "engine": "google-chrome",
-      "searched": 0,
-      "captcha": true,
-      "confirmed_new": 0,
-      "note": "BRAVE_API_KEY non impostata. Chrome collegato, ma Google ha mostrato il controllo anti-robot (/sorry) già alla prima ricerca (site:hwupgrade.it): stop immediato, nessun aggiramento. Segnati 'retry': hwupgrade.it, tomshw.it, key4biz.it, agendadigitale.eu, cybersecurity360.it, corrierecomunicazioni.it, startmag.it, formiche.net. Probabile effetto del blocco delle 12:40 (intervallo troppo breve)."
-    },
-    {
-      "date": "2026-09-23 11:10",
-      "engine": "google-chrome",
-      "searched": 8,
-      "captcha": false,
-      "confirmed_new": 5,
-      "note": "BRAVE_API_KEY non impostata. Ripresi gli 8 domini in 'retry' dopo il CAPTCHA del 22/09: hwupgrade.it, tomshw.it, key4biz.it, agendadigitale.eu, cybersecurity360.it, corrierecomunicazioni.it, startmag.it, formiche.net. Nessun controllo anti-robot. Nuove verificate: 4 Tom's Hardware (spyware Italia 2024, referendum Lombardia, nomina Carrai, hacker etici M5S) + Startmag app anti-Covid 2020. Trovata e svuotata la pagina autore agendadigitale.eu/giornalista/fabio-pietrosanti/ (3 articoli suoi, gia' in media.json: trojan/Exodus con Aterno, voto estero con Quintarelli e Napolitano, voto su blockchain) -> chiusa la lacuna 'due articoli Agenda Digitale senza data'. Scartati 2 falsi positivi CorCom (Maria Clara Pietrosanti + Fabio Piperno in elenco alfabetico; Lorenzo Pietrosanti RFID) -> decisions.json. hwupgrade.it: solo un thread di forum (escluso). Fabio e' tornato in banda larga: rimosso .low-bandwidth ed eseguite di nuovo archive_copies/render_copies_report. Prossimo blocco: ilriformista.it (pista Kaspersky), rainews.it, raiplay.it, la7.it, tg24.sky.it, radio24.ilsole24ore.com, radiopopolare.it, radioradicale.it."
-    },
-    {
-      "date": "2026-09-23 19:00",
-      "engine": "google (Chrome di Fabio)",
-      "searched": 8,
-      "captcha": false,
-      "confirmed_new": 2,
-      "note": "BRAVE_API_KEY assente (step 1 saltato). 8 domini: ilriformista(+2), rainews/raiplay/la7/radio24.ilsole24ore/radiopopolare (0 risultati), tg24.sky (omonimo), radioradicale (tutti noti o omonimi). Nessun controllo anti-robot in tutto il blocco. Corretto verify_candidates.py: la lista degli omonimi ora copre tutti quelli di decisions.json + «a cura di X Pietrosanti» (schede Radio Radicale di Valentina Pietrosanti)."
-    },
-    {
-      "date": "2026-09-24 12:45",
-      "engine": "google-chrome",
-      "searched": 0,
-      "captcha": false,
-      "confirmed_new": 0,
-      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Nessun browser Chrome collegato (list_connected_browsers vuoto): blocco Google saltato, nessuna voce toccata. Prossimo blocco invariato: vice.com, motherboard.vice.com, italiaoggi.it, ilsecoloxix.it, ilgiorno.it, quotidiano.net, tpi.it, money.it."
-    },
-    {
-      "date": "2026-09-24 16:51",
-      "engine": "google-chrome",
-      "searched": 0,
-      "captcha": false,
-      "confirmed_new": 0,
-      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Nessun browser Chrome collegato (list_connected_browsers vuoto): blocco Google saltato, nessuna voce toccata. Prossimo blocco invariato: vice.com, motherboard.vice.com, italiaoggi.it, ilsecoloxix.it, ilgiorno.it, quotidiano.net, tpi.it, money.it."
-    },
-    {
-      "date": "2026-09-25 00:00",
-      "engine": "google-chrome",
-      "searched": 0,
-      "captcha": false,
-      "confirmed_new": 0,
-      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Browser Chrome risultava collegato ma l'estensione si è disconnessa a ogni navigazione (4 tentativi, alle 20:30 del 24.09 e dopo mezzanotte): nessuna ricerca eseguita, nessuna voce toccata. Prossimo blocco invariato: vice.com, motherboard.vice.com, italiaoggi.it, ilsecoloxix.it, ilgiorno.it, quotidiano.net, tpi.it, money.it."
-    }
-  ]
+ "about": "Queue for Google searches in Fabio's Chrome. Domain entries use: site:<domain> \"Pietrosanti\" (GlobaLeaks OR hacker OR Hermes OR whistleblowing OR Rousseau OR Tor OR cifratura OR intercettazioni OR PrivateWave OR Kaspersky OR \"voto elettronico\" OR sicurezza). status: pending|done|retry; add 'date' and 'found' when done.",
+ "domains": [
+  {
+   "domain": "corriere.it",
+   "status": "done",
+   "date": "2026-09-17"
+  },
+  {
+   "domain": "repubblica.it",
+   "status": "done",
+   "date": "2026-09-17"
+  },
+  {
+   "domain": "lastampa.it",
+   "status": "done",
+   "date": "2026-09-17"
+  },
+  {
+   "domain": "ilsole24ore.com",
+   "status": "done",
+   "date": "2026-09-17"
+  },
+  {
+   "domain": "ilfattoquotidiano.it",
+   "status": "done",
+   "date": "2026-09-17"
+  },
+  {
+   "domain": "lespresso.it",
+   "status": "done",
+   "date": "2026-09-17"
+  },
+  {
+   "domain": "panorama.it",
+   "status": "done",
+   "date": "2026-09-17"
+  },
+  {
+   "domain": "ilpost.it",
+   "status": "done",
+   "date": "2026-09-17"
+  },
+  {
+   "domain": "linkiesta.it",
+   "status": "done",
+   "date": "2026-09-17"
+  },
+  {
+   "domain": "ansa.it",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 3
+  },
+  {
+   "domain": "agi.it",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 0
+  },
+  {
+   "domain": "adnkronos.com",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 1
+  },
+  {
+   "domain": "wired.it",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 6
+  },
+  {
+   "domain": "punto-informatico.it",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 10
+  },
+  {
+   "domain": "zeusnews.it",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 4
+  },
+  {
+   "domain": "webnews.it",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 4
+  },
+  {
+   "domain": "huffingtonpost.it",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 4
+  },
+  {
+   "domain": "open.online",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 4
+  },
+  {
+   "domain": "today.it",
+   "status": "done",
+   "date": "2026-09-22",
+   "found": 4
+  },
+  {
+   "domain": "fanpage.it",
+   "status": "done",
+   "date": "2026-09-22",
+   "found": 3
+  },
+  {
+   "domain": "ilgiornale.it",
+   "status": "done",
+   "date": "2026-09-22",
+   "found": 1
+  },
+  {
+   "domain": "ilmessaggero.it",
+   "status": "done",
+   "date": "2026-09-22",
+   "found": 9
+  },
+  {
+   "domain": "avvenire.it",
+   "status": "done",
+   "date": "2026-09-22",
+   "found": 0
+  },
+  {
+   "domain": "ilmanifesto.it",
+   "status": "done",
+   "date": "2026-09-22",
+   "found": 3
+  },
+  {
+   "domain": "internazionale.it",
+   "status": "done",
+   "date": "2026-09-22",
+   "found": 0
+  },
+  {
+   "domain": "dday.it",
+   "status": "done",
+   "date": "2026-09-22",
+   "found": 0
+  },
+  {
+   "domain": "hwupgrade.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0
+  },
+  {
+   "domain": "tomshw.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 4
+  },
+  {
+   "domain": "key4biz.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 5
+  },
+  {
+   "domain": "agendadigitale.eu",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 8
+  },
+  {
+   "domain": "cybersecurity360.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 2
+  },
+  {
+   "domain": "corrierecomunicazioni.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 2
+  },
+  {
+   "domain": "startmag.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 3
+  },
+  {
+   "domain": "formiche.net",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 1
+  },
+  {
+   "domain": "ilriformista.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 2,
+   "note": "10 risultati: +2 nuove (Russia/Internet 2022-03-07, grillini 2020-10-08); 4 gia note, incl. Cinquestellopoli-Philip Morris"
+  },
+  {
+   "domain": "editorialedomani.it",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 4
+  },
+  {
+   "domain": "valigiablu.it",
+   "status": "done",
+   "date": "2026-09-18",
+   "found": 4
+  },
+  {
+   "domain": "rainews.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "Google: zero risultati"
+  },
+  {
+   "domain": "raiplay.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "Google: zero risultati"
+  },
+  {
+   "domain": "la7.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "Google: zero risultati"
+  },
+  {
+   "domain": "tg24.sky.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "1 risultato, omonimo (cronaca Fiumicino) -> escluso"
+  },
+  {
+   "domain": "radio24.ilsole24ore.com",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "Google: zero risultati su questo host; le puntate di Radio 24 note stanno su radio24.it -> aggiunto come dominio a se"
+  },
+  {
+   "domain": "radiopopolare.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "Google: zero risultati"
+  },
+  {
+   "domain": "radioradicale.it",
+   "status": "done",
+   "date": "2026-09-23",
+   "found": 0,
+   "note": "10 risultati: 1 nuovo scartato (scheda a cura di Valentina Pietrosanti), gli altri gia noti o pagine soggetto omonime; pagina soggetto di Fabio: /soggetti/175095/fabio-pietrosanti (dominio non consentito nel browser, da enumerare via API/Wayback)"
+  },
+  {
+   "domain": "vice.com",
+   "status": "pending"
+  },
+  {
+   "domain": "motherboard.vice.com",
+   "status": "pending"
+  },
+  {
+   "domain": "italiaoggi.it",
+   "status": "pending"
+  },
+  {
+   "domain": "ilsecoloxix.it",
+   "status": "pending"
+  },
+  {
+   "domain": "ilgiorno.it",
+   "status": "pending"
+  },
+  {
+   "domain": "quotidiano.net",
+   "status": "pending"
+  },
+  {
+   "domain": "tpi.it",
+   "status": "pending"
+  },
+  {
+   "domain": "money.it",
+   "status": "pending"
+  },
+  {
+   "domain": "wallstreetitalia.com",
+   "status": "pending"
+  },
+  {
+   "domain": "dataroom",
+   "status": "pending"
+  },
+  {
+   "domain": "latinaoggi.eu",
+   "status": "pending"
+  },
+  {
+   "domain": "latinatoday.it",
+   "status": "pending"
+  },
+  {
+   "domain": "h24notizie.com",
+   "status": "pending"
+  },
+  {
+   "domain": "latinacorriere.it",
+   "status": "pending"
+  },
+  {
+   "domain": "ilcaffe.tv",
+   "status": "pending"
+  },
+  {
+   "domain": "apogeonline.com",
+   "status": "pending"
+  },
+  {
+   "domain": "html.it",
+   "status": "pending"
+  },
+  {
+   "domain": "01net.it",
+   "status": "pending"
+  },
+  {
+   "domain": "computerworld.it",
+   "status": "pending"
+  },
+  {
+   "domain": "datamanager.it",
+   "status": "pending"
+  },
+  {
+   "domain": "infosec.news",
+   "status": "pending"
+  },
+  {
+   "domain": "securityopenlab.it",
+   "status": "pending"
+  },
+  {
+   "domain": "ictsecuritymagazine.com",
+   "status": "pending"
+  },
+  {
+   "domain": "federprivacy.org",
+   "status": "pending"
+  },
+  {
+   "domain": "altalex.com",
+   "status": "pending"
+  },
+  {
+   "domain": "diritto24.ilsole24ore.com",
+   "status": "pending"
+  },
+  {
+   "domain": "ipsoa.it",
+   "status": "pending"
+  },
+  {
+   "domain": "forumpa.it",
+   "status": "pending"
+  },
+  {
+   "domain": "anticorruzione.it",
+   "status": "pending"
+  },
+  {
+   "domain": "camera.it",
+   "status": "pending"
+  },
+  {
+   "domain": "senato.it",
+   "status": "pending"
+  },
+  {
+   "domain": "europarl.europa.eu",
+   "status": "pending"
+  },
+  {
+   "domain": "theguardian.com",
+   "status": "pending"
+  },
+  {
+   "domain": "forbes.com",
+   "status": "pending"
+  },
+  {
+   "domain": "wired.com",
+   "status": "pending"
+  },
+  {
+   "domain": "spiegel.de",
+   "status": "pending"
+  },
+  {
+   "domain": "sueddeutsche.de",
+   "status": "pending"
+  },
+  {
+   "domain": "zeit.de",
+   "status": "pending"
+  },
+  {
+   "domain": "netzpolitik.org",
+   "status": "pending"
+  },
+  {
+   "domain": "heise.de",
+   "status": "pending"
+  },
+  {
+   "domain": "lemonde.fr",
+   "status": "pending"
+  },
+  {
+   "domain": "liberation.fr",
+   "status": "pending"
+  },
+  {
+   "domain": "elpais.com",
+   "status": "pending"
+  },
+  {
+   "domain": "eldiario.es",
+   "status": "pending"
+  },
+  {
+   "domain": "bbc.co.uk",
+   "status": "pending"
+  },
+  {
+   "domain": "bbc.com",
+   "status": "pending"
+  },
+  {
+   "domain": "nytimes.com",
+   "status": "pending"
+  },
+  {
+   "domain": "washingtonpost.com",
+   "status": "pending"
+  },
+  {
+   "domain": "aljazeera.com",
+   "status": "pending"
+  },
+  {
+   "domain": "arstechnica.com",
+   "status": "pending"
+  },
+  {
+   "domain": "theverge.com",
+   "status": "pending"
+  },
+  {
+   "domain": "techcrunch.com",
+   "status": "pending"
+  },
+  {
+   "domain": "zdnet.com",
+   "status": "pending"
+  },
+  {
+   "domain": "theregister.com",
+   "status": "pending"
+  },
+  {
+   "domain": "niemanlab.org",
+   "status": "pending"
+  },
+  {
+   "domain": "cjr.org",
+   "status": "pending"
+  },
+  {
+   "domain": "gijn.org",
+   "status": "pending"
+  },
+  {
+   "domain": "ijnet.org",
+   "status": "pending"
+  },
+  {
+   "domain": "poynter.org",
+   "status": "pending"
+  },
+  {
+   "domain": "dw.com",
+   "status": "pending"
+  },
+  {
+   "domain": "reuters.com",
+   "status": "pending"
+  },
+  {
+   "domain": "bloomberg.com",
+   "status": "pending"
+  },
+  {
+   "domain": "euractiv.com",
+   "status": "pending"
+  },
+  {
+   "domain": "politico.eu",
+   "status": "pending"
+  },
+  {
+   "domain": "euobserver.com",
+   "status": "pending"
+  },
+  {
+   "domain": "torrentfreak.com",
+   "status": "pending"
+  },
+  {
+   "domain": "dailydot.com",
+   "status": "pending"
+  },
+  {
+   "domain": "boingboing.net",
+   "status": "pending"
+  },
+  {
+   "domain": "slashdot.org",
+   "status": "pending"
+  },
+  {
+   "domain": "techdirt.com",
+   "status": "pending"
+  },
+  {
+   "domain": "nrc.nl",
+   "status": "pending"
+  },
+  {
+   "domain": "volkskrant.nl",
+   "status": "pending"
+  },
+  {
+   "domain": "rsi.ch",
+   "status": "pending"
+  },
+  {
+   "domain": "swissinfo.ch",
+   "status": "pending"
+  },
+  {
+   "domain": "nzz.ch",
+   "status": "pending"
+  },
+  {
+   "domain": "tagesanzeiger.ch",
+   "status": "pending"
+  },
+  {
+   "domain": "derstandard.at",
+   "status": "pending"
+  },
+  {
+   "domain": "gazeta.pl",
+   "status": "pending"
+  },
+  {
+   "domain": "publico.pt",
+   "status": "pending"
+  },
+  {
+   "domain": "globo.com",
+   "status": "pending"
+  },
+  {
+   "domain": "wechat/sogou (zh)",
+   "status": "pending"
+  },
+  {
+   "domain": "sohu.com",
+   "status": "pending"
+  },
+  {
+   "domain": "163.com",
+   "status": "pending"
+  },
+  {
+   "domain": "thepaper.cn",
+   "status": "pending"
+  },
+  {
+   "domain": "sina.com.cn",
+   "status": "pending"
+  },
+  {
+   "domain": "radio24.it",
+   "status": "pending",
+   "note": "host corretto delle puntate di Radio 24 (radio24.ilsole24ore.com da 0 risultati)"
+  }
+ ],
+ "queries": [
+  {
+   "query": "site:journalismfestival.com OR site:festivaldelgiornalismo.com \"Pietrosanti\"",
+   "status": "pending",
+   "pages": 3
+  },
+  {
+   "query": "\"ifuriosi\" Casaleggio \"Philip Morris\" Pietrosanti",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" Kaspersky Euronews",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "OpenPUDO \"open source\" PUDO LESS",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" LIUC PUDO OR \"punti di ritiro\"",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Lazio\" app covid vulnerabilità \"Rocca\" 2020",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Giovanni Rocca\" \"Pietrosanti\" app covid Lazio vulnerabilità",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" covid \"celle\" OR \"dati di cella\" focolai",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "OSSCI \"spazio cibernetico italiano\" telegram",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Osservatorio sicurezza dello spazio cibernetico\" OR OSSCI Pietrosanti",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" AIRE \"voto elettronico\" OR \"voto all'estero\" OR \"italiani all'estero\"",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Hermes Center\" AIRE voto elettronico italiani estero",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Fabio Pietrosanti\"",
+   "status": "pending",
+   "pages": 5
+  },
+  {
+   "query": "\"Pietrosanti\" GlobaLeaks -site:globaleaks.org",
+   "status": "pending",
+   "pages": 3
+  },
+  {
+   "query": "\"naif\" \"Pietrosanti\" hacker",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" \"Hermes Center\"",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" OpenRousseau OR Rousseau M5S",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Raffaele Angius\" M5S doppia iscrizione Pietrosanti",
+   "status": "pending",
+   "pages": 1
+  },
+  {
+   "query": "\"Pietrosanti\" \"Monitora PA\" OR MonitoraPA Google Analytics",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" PrivateGSM OR PrivateWave OR Khamsa",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" CRVD \"voto elettronico\"",
+   "status": "pending",
+   "pages": 1
+  },
+  {
+   "query": "\"Pietrosanti\" filetype:pdf",
+   "status": "pending",
+   "pages": 3
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" intervista OR interview",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" whistleblowing D.lgs 24/2023",
+   "status": "pending",
+   "pages": 2
+  },
+  {
+   "query": "\"Pietrosanti\" biohack.it OR \"Hacking Biology\"",
+   "status": "pending",
+   "pages": 1
+  },
+  {
+   "query": "\"Pietrosanti\" SignalSwarm OR PLogistics OR \"LESS.green\" OR Haulersense",
+   "status": "pending",
+   "pages": 1
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-09-18",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "Claude in Chrome non raggiungibile (extension disconnected): nessuna ricerca Google eseguita; coda invariata. Eseguita solo l'archiviazione offline delle 13 voci mancanti."
+  },
+  {
+   "date": "2026-09-18",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 6,
+   "note": "manual session in Chrome; Wired/Angius Rousseau articles found"
+  },
+  {
+   "date": "2026-09-19",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "Claude in Chrome ancora non raggiungibile (tabs_context ok, navigate: extension not connected); browser integrato: timeout su navigate. Nessuna ricerca Google; coda invariata (prossimo blocco: ansa.it, agi.it, adnkronos.com, wired.it, punto-informatico.it, zeusnews.it, webnews.it, huffingtonpost.it). Copie offline: nessuna voce in sospeso."
+  },
+  {
+   "date": "2026-09-21 11:40",
+   "engine": "none",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata; Claude in Chrome: nessun browser collegato (list_connected_browsers vuoto). Nessuna ricerca; coda invariata (prossimo blocco: today.it, fanpage.it, ilgiornale.it, ilmessaggero.it, avvenire.it, ilmanifesto.it, internazionale.it, dday.it). Copie offline: archiviate 4 voci nuove (brevetti WO2008015721/EP2057808, Google Books 2013, guida Hermes al voto digitale 2017)."
+  },
+  {
+   "date": "2026-09-22 12:40",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 2,
+   "note": "Blocco domini: today.it, fanpage.it, ilgiornale.it, ilmessaggero.it, avvenire.it, ilmanifesto.it, internazionale.it, dday.it. Nuove: today.it 'Nella cyber war l'Italia affida i suoi segreti all'antivirus russo' (2022, cita intervista al Riformista) e video Fanpage Backstair/GlobaLeaks ai DIG Awards. Omonimi scartati: Matteo Pietrosanti (Il Messaggero Latina), Sabrina Pietrosanti (il manifesto). BRAVE_API_KEY non impostata. Pista: intervista al Riformista su Kaspersky (dominio ilriformista.it già in coda). Prossimo blocco: domini pending successivi."
+  },
+  {
+   "date": "2026-09-22 16:50",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": true,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata. Chrome collegato, ma Google ha mostrato il controllo anti-robot (/sorry) già alla prima ricerca (site:hwupgrade.it): stop immediato, nessun aggiramento. Segnati 'retry': hwupgrade.it, tomshw.it, key4biz.it, agendadigitale.eu, cybersecurity360.it, corrierecomunicazioni.it, startmag.it, formiche.net. Probabile effetto del blocco delle 12:40 (intervallo troppo breve)."
+  },
+  {
+   "date": "2026-09-23 11:10",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 5,
+   "note": "BRAVE_API_KEY non impostata. Ripresi gli 8 domini in 'retry' dopo il CAPTCHA del 22/09: hwupgrade.it, tomshw.it, key4biz.it, agendadigitale.eu, cybersecurity360.it, corrierecomunicazioni.it, startmag.it, formiche.net. Nessun controllo anti-robot. Nuove verificate: 4 Tom's Hardware (spyware Italia 2024, referendum Lombardia, nomina Carrai, hacker etici M5S) + Startmag app anti-Covid 2020. Trovata e svuotata la pagina autore agendadigitale.eu/giornalista/fabio-pietrosanti/ (3 articoli suoi, gia' in media.json: trojan/Exodus con Aterno, voto estero con Quintarelli e Napolitano, voto su blockchain) -> chiusa la lacuna 'due articoli Agenda Digitale senza data'. Scartati 2 falsi positivi CorCom (Maria Clara Pietrosanti + Fabio Piperno in elenco alfabetico; Lorenzo Pietrosanti RFID) -> decisions.json. hwupgrade.it: solo un thread di forum (escluso). Fabio e' tornato in banda larga: rimosso .low-bandwidth ed eseguite di nuovo archive_copies/render_copies_report. Prossimo blocco: ilriformista.it (pista Kaspersky), rainews.it, raiplay.it, la7.it, tg24.sky.it, radio24.ilsole24ore.com, radiopopolare.it, radioradicale.it."
+  },
+  {
+   "date": "2026-09-23 19:00",
+   "engine": "google (Chrome di Fabio)",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 2,
+   "note": "BRAVE_API_KEY assente (step 1 saltato). 8 domini: ilriformista(+2), rainews/raiplay/la7/radio24.ilsole24ore/radiopopolare (0 risultati), tg24.sky (omonimo), radioradicale (tutti noti o omonimi). Nessun controllo anti-robot in tutto il blocco. Corretto verify_candidates.py: la lista degli omonimi ora copre tutti quelli di decisions.json + «a cura di X Pietrosanti» (schede Radio Radicale di Valentina Pietrosanti)."
+  },
+  {
+   "date": "2026-09-24 12:45",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Nessun browser Chrome collegato (list_connected_browsers vuoto): blocco Google saltato, nessuna voce toccata. Prossimo blocco invariato: vice.com, motherboard.vice.com, italiaoggi.it, ilsecoloxix.it, ilgiorno.it, quotidiano.net, tpi.it, money.it."
+  },
+  {
+   "date": "2026-09-24 16:51",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Nessun browser Chrome collegato (list_connected_browsers vuoto): blocco Google saltato, nessuna voce toccata. Prossimo blocco invariato: vice.com, motherboard.vice.com, italiaoggi.it, ilsecoloxix.it, ilgiorno.it, quotidiano.net, tpi.it, money.it."
+  },
+  {
+   "date": "2026-09-25 00:00",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Browser Chrome risultava collegato ma l'estensione si è disconnessa a ogni navigazione (4 tentativi, alle 20:30 del 24.09 e dopo mezzanotte): nessuna ricerca eseguita, nessuna voce toccata. Prossimo blocco invariato: vice.com, motherboard.vice.com, italiaoggi.it, ilsecoloxix.it, ilgiorno.it, quotidiano.net, tpi.it, money.it."
+  }
+ ]
 }
