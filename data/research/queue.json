@@ -827,6 +827,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Browser Chrome risultava collegato ma l'estensione si è disconnessa a ogni navigazione (4 tentativi, alle 20:30 del 24.09 e dopo mezzanotte): nessuna ricerca eseguita, nessuna voce toccata. Prossimo blocco invariato: vice.com, motherboard.vice.com, italiaoggi.it, ilsecoloxix.it, ilgiorno.it, quotidiano.net, tpi.it, money.it."
+  },
+  {
+   "date": "2026-09-25 00:35",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome risultava collegato ma l'estensione si è disconnessa a ogni navigazione verso Google (3 tentativi): nessuna ricerca eseguita, nessuna voce toccata. Problema ricorrente dal 24.09: serve verificare l'estensione Claude in Chrome. Prossimo blocco invariato: vice.com, motherboard.vice.com, italiaoggi.it, ilsecoloxix.it, ilgiorno.it, quotidiano.net, tpi.it, money.it."
   }
  ]
 }
