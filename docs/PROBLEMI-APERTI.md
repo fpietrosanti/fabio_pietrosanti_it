@@ -26,7 +26,7 @@ Stato generale: **734 voci**; **tutte** le copie processate — 585 con il nome 
    16/03 e 09/04/2020 sulla geolocalizzazione: se me ne dai il testo (o un export Facebook), completo la storia.
    (d) **Intervista CyberCoach 2023**: account DeepCyber cancellato (confermato da Costabile). Costabile ha ancora il
    file originale in locale? Se sì, basta che te lo passi e lo archivio.
-   (e) Il sito **verbalictscovid.infosecurity.ch** (archivio dei verbali CTS) è offline e mai archiviato: hai i file?
+   (e) ~~verbalictscovid.infosecurity.ch~~: risposto — sito temporaneo, spento volutamente.
 
 ## A. Problemi nella RICERCA
 
@@ -88,14 +88,14 @@ che in realtà era stato recuperato il 19/09.
   parla di PrivateGSM e ZRTP ma **non ti nomina** → escluso per la tua regola. Resta `computerworld.ch/aktuell/news/50435`
   (mai archiviato, sito riorganizzato).
 
-### B1. Non ottenute (6)
+### B1. Non ottenute (5)
 | Anno | Fonte | Motivo | Proposta |
 |---|---|---|---|
 | 2000 | Hackmeeting 2000 (Hackit00), «Letteratura Cyberpunk» | Pagina live sparita (404; in HTTPS il certificato di `hackmeeting.org` non corrisponde). Nel Web Archive c'è **una sola** capture (20260827004502, 1.310 byte) e la replay risponde **500** su ogni forma di URL | Guasto lato Internet Archive, non un vicolo cieco: **riprovare fra qualche giorno** |
 | 2010 | PrivateWave press release EN (PDF) | 403 sul sito, mai archiviato dal Web Archive | Fabio ha i PDF originali di PrivateWave? |
 | 2010 | PrivateWave press release ES (PDF) | idem | idem |
 | 2010 | Radio Monte Carlo, audio intervista | 404, nessuna copia archiviata | Chiedere a RMC o cercare registrazioni personali |
-| 2020 | verbalictscovid.infosecurity.ch (archivio verbali CTS) | Sito offline, nessuna capture nel Web Archive | Hai i file? (vedi A0.6e) |
+| ~~2020~~ | ~~verbalictscovid.infosecurity.ch~~ | **Chiuso il 24/09**: sito temporaneo, spento da te volutamente; i dati restano nel repo `COVID-19-Verbali-CTS-OCR` | — |
 | 2021 | IGI Global, *Research Anthology on Business Aspects of Cybersecurity* | La scheda Google Books (`id=KOREEAAQBAJ`) risponde 404 | Serve la **chiave API Google Books** (vedi A0.2 / A4) |
 | ~~2011~~ | ~~Infosec Island, «ZRTP Voice Encryption is Finally a Standard»~~ | **Risolto il 19/09**: recuperato dal Web Archive (capture 20111206), firma «Contributed By: Fabio Pietrosanti» presente nella copia `2011/6eef821a1b3c` | — |
 | ~~2026~~ | ~~Zhihu sul TimePie Forum~~ | **Risolto 18/09**: letto nel Chrome di Fabio, salvato l’estratto con il suo intervento | Web Archive «save» ha risposto 500: riprovare |

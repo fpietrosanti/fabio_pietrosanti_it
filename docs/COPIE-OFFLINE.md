@@ -13,11 +13,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **13**
 - 🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione): **11**
 - 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **3**
-- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **20**
+- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **21**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
 - 🎬 Video/audio scaricato (+ pagina): **83**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
-- ❌ Non ottenuta: **6**
+- ❌ Non ottenuta: **5**
 
 ## Per anno
 
@@ -47,7 +47,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 56 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 34 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 18 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2020 | 69 | 4 | 0 | 0 | 0 | 0 | 1 |
+| 2020 | 69 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 18 | 6 | 0 | 0 | 0 | 0 | 1 |
 | 2022 | 44 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2023 | 9 | 0 | 0 | 0 | 1 | 0 | 0 |
@@ -94,6 +94,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
 - ⏹️ **2019** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #21805 «Enable full HTTPS redirecting old-client to an outdated page, explainin](https://code.videolan.org/videolan/vlc/-/work_items/21805) · licenza: propria  
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
+- ⏹️ **2020** · verbalictscovid.infosecurity.ch — [Archivio dei Verbali CTS Covid con OCR (download zip da 1.9GB)](http://verbalictscovid.infosecurity.ch) · licenza: propria  
+  Fabio 2026-09-24: sito temporaneo messo su da lui e poi spento volutamente; mai archiviato dal Web Archive. Il materiale resta nel repo github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR (voce a parte).
 - ⏹️ **2024** · Senato della Repubblica, Commissioni riu — [Memorie dell'audizione della Rete per i Diritti Umani Digitali sul ddl n. 1146 in materia ](https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/431/041/Memoria_Rete_Diritti_Umani_Digitali.pdf) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2026** · Camera dei deputati, Commissioni riunite — [A.G. 418 - Memoria della Rete per i Diritti Umani Digitali (audizione informale sullo sche](https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.97660.22-07-2026-16-10-48.793.pdf) · licenza: terzi  
@@ -110,8 +112,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   http 404
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
-- ❌ **2020** · verbalictscovid.infosecurity.ch — [Archivio dei Verbali CTS Covid con OCR (download zip da 1.9GB)](http://verbalictscovid.infosecurity.ch) · licenza: propria  
-  2026-09-24: verbalictscovid.infosecurity.ch (archivio verbali CTS con testo ricercabile, annunciato il 06/09/2020) è offline e non ha capture nel Web Archive. Chiedere a Fabio i file.
 - ❌ **2021** · IGI Global (Information Resources Manage — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAQBAJ) · licenza: terzi  
   http 404
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
