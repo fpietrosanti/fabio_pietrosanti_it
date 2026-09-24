@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2020-03-29",
+    "year": 2020,
+    "type": "social",
+    "outlet": "Twitter (@iGio90, Giovanni Rocca)",
+    "title": "first audit on italian #covid19 application I'm a bit scared to do the others now. @fpietrosanti",
+    "url": "https://twitter.com/iGio90/status/1244250696125427715",
+    "language": "en",
+    "role": "citato",
+    "note": "Tweet di lancio del post di audit LAZIOdrCOVID (data-time 1585487457 = 29/03/2020 ~13:10 UTC). Verificato sullo snapshot Wayback 20200329132422: il testo tagga @fpietrosanti e rimanda a giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/.",
+    "verified": true,
+    "known": false
+  },
+  {
+    "date": "2020-04-01",
+    "year": 2020,
+    "type": "documento",
+    "outlet": "giovanni-rocca.com",
+    "title": "A self basic audit for Android applications",
+    "url": "http://www.giovanni-rocca.com/a-self-basic-audit-for-android-applications/",
+    "language": "en",
+    "role": "citato",
+    "note": "Post di follow-up di Rocca (01/04/2020, categoria Audit): chiamata ai ricercatori per auditare le app governative COVID-19, su invito di fs0c131y. Letto via Wayback 20200426173442. Nome assente (nessuna menzione di Pietrosanti/naif); contesto del lavoro avviato con LAZIOdrCOVID.",
+    "verified": false,
+    "known": false
+  },
+  {
+    "date": "2020-03-29",
+    "year": 2020,
+    "type": "social",
+    "outlet": "Twitter (@mobilesecurity_)",
+    "title": "LAZIOdrCOVID: a 30 minutes audit to blow up the castle #MobileSecurity #AndroidSecurity by @iGio90",
+    "url": "https://twitter.com/mobilesecurity_/status/1244251199173472258",
+    "language": "en",
+    "role": "citato",
+    "note": "Rilancio del post di Rocca da un account di settore; titolo visto solo nei risultati di ricerca, pagina non aperta. Nome assente nel testo del tweet.",
+    "verified": false,
+    "known": false
+  },
+  {
+    "date": "2020-04-04",
+    "year": 2020,
+    "type": "articolo",
+    "outlet": "gioxx.org (blog di Gioxx)",
+    "title": "Letture per il weekend: di Privacy violata, #INPSDown e #Zoom sotto la lente di ingrandimento",
+    "url": "https://gioxx.org/2020/04/04/letture-per-il-weekend-di-privacy-violata-inpsdown-e-zoom-sotto-la-lente-di-ingrandimento/",
+    "language": "it",
+    "role": "citato",
+    "note": "Rassegna settimanale che segnala l'audit di Giovanni Rocca su LAZIOdrCovid ('poi corretta in seguito'). Pagina aperta: nome assente.",
+    "verified": false,
+    "known": false
+  },
+  {
+    "date": "2021-04-07",
+    "year": 2021,
+    "type": "articolo",
+    "outlet": "Il Fatto Quotidiano (blog Umberto Rapetto)",
+    "title": "Facebook, la storia dei 533 milioni di account rubati equivale a un disastro ecologico dell'era moderna",
+    "url": "https://www.ilfattoquotidiano.it/2021/04/07/facebook-la-storia-dei-533-milioni-di-account-rubati-equivale-a-un-disastro-ecologico-dellera-moderna/6157493/",
+    "language": "it",
+    "role": "citato",
+    "note": "Rapetto presenta Giovanni Rocca come 'la persona che ha smascherato l'inaffidabilità della app LazioDrCovid'. Pagina aperta: nome assente.",
+    "verified": false,
+    "known": false
+  },
+  {
+    "date": "2021-08-03",
+    "year": 2021,
+    "type": "articolo",
+    "outlet": "il Giornale",
+    "title": "\"Tutta Italia è vulnerabile, servono investimenti\"",
+    "url": "https://www.ilgiornale.it/news/politica/tutta-italia-vulnerabile-servono-investimenti-1966600.html",
+    "language": "it",
+    "role": "citato",
+    "note": "Intervista (Luca Fazzo) sull'attacco ransomware alla Regione Lazio dell'agosto 2021; l'intervistato ricorda che a marzo 2020 'un ricercatore italiano' aveva messo a nudo gravi vulnerabilità nel backend di LAZIOdrCOVID. Pagina aperta: nome assente (né Rocca né Pietrosanti).",
+    "verified": false,
+    "known": false
+  }
+]

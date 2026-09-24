@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **927**; dopo deduplica: **694**
+- Risultati grezzi dalle ricerche: **968**; dopo deduplica: **734**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 659**
-- Verificati aprendo la pagina: **601**; solo da risultato di ricerca: **93**
+- **Nuovi rispetto al vecchio sito: 699**
+- Verificati aprendo la pagina: **633**; solo da risultato di ricerca: **101**
 
-Per tipo (nuovi): Menzionato 123, Talk 73, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, Articolo scritto 20, Report 18, Comunicato 17, Slide 11, TV 9, Podcast 9, Paper 8, Capitolo di libro 6, Intervista 6, documento 6, village 5, Brevetto 4, panel 3, workshop 3, Tesi 3, articolo 3, consultazione 2, Wiki 1, magazine 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 123, Talk 74, Post sul blog infosecurity.ch 71, Video 58, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, Report 18, Comunicato 17, documento 12, Slide 11, TV 9, Podcast 9, Paper 8, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, Wiki 1, magazine 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -37,11 +37,11 @@ Per tipo (nuovi): Menzionato 123, Talk 73, Post sul blog infosecurity.ch 71, Vid
 | 2016 | 0 | 22 | 22 |
 | 2017 | 0 | 67 | 67 |
 | 2018 | 0 | 66 | 66 |
-| 2019 | 0 | 25 | 25 |
-| 2020 | 0 | 46 | 46 |
-| 2021 | 0 | 25 | 25 |
+| 2019 | 0 | 27 | 27 |
+| 2020 | 0 | 80 | 80 |
+| 2021 | 0 | 27 | 27 |
 | 2022 | 0 | 56 | 56 |
-| 2023 | 0 | 8 | 8 |
+| 2023 | 0 | 10 | 10 |
 | 2024 | 0 | 5 | 5 |
 | 2025 | 0 | 9 | 9 |
 | 2026 | 0 | 23 | 23 |
@@ -131,7 +131,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2024** · documento · UNESCO, Global AI Ethics and Governance Observatory — [Hermes Center - Global Civil Society Organizations and Academic Network on AI Ethics and Policy](https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center) _(non verificato)_  
   NEAR-MISS, NOT HIM. Hermes Center is listed as a member organisation of UNESCO's civil-society network on AI ethics. Page read in full: the only contact given is the generic board@hermescenter.org; no individual is named, so neither 'Fabio Pietrosanti' nor 'naif' appears. Does not qualify under the naming rule.
 
-## 2023 — 8 voci, 8 nuove
+## 2023 — 10 voci, 10 nuove
 
 - 🆕 **2023-05-17** · Talk · Copernicani (in-person event) — [Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins](https://copernicani.it/privacy-by-design-e-privacy-coins/)  
   He presents/moderates; speakers Rachel-Rose O'Leary (DarkFi) and Daniele Monteleone (Web3 Labs); announcement published 2023-05-01 (Wayback 20230517)
@@ -147,6 +147,10 @@ Anni senza nessun risultato: nessuno
   Letter for parents; builds on 'il FOIA di Fabio Pietrosanti' showing schools use Google/Microsoft without supplementary measures
 - 🆕 **2023-02** · Report · European Parliament, Policy Department for Citizens' Rights and Constitutional Affairs (study for the PEGA Committee of Inquiry), PE 740.151 — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU Member States for the acquisition and use of Pegasus and equivalent surveillance spyware](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf)  
   Quentin Liger & Mirja Gutheil (Asterisk Research and Analysis GmbH); manuscript completed February 2023 (draft presented to PEGA on 2022-12-05: https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/PEGA/DV/2022/12-05/Study_Pegasus_Legalframework_draft_5December_EN.pdf, same citation). Bibliography lists 'Pietrosanti, F. and Aterno, S. 2017. Italy unveils a legal proposal to regulate government hacking' (Boing Boing). PDF text read.
+- 🆕 **2023-01-17** · pagina · costabile.net — CyberCoach (Gerardo Costabile) — [CyberCoach — elenco video, tra cui «Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)»](https://costabile.net/cibercoach/)  
+  Pagina letta il 2026-09-24: il feed YouTube incorporato contiene il titolo e la descrizione del video mAtBH2hkAcg («Oggi incontriamo Fabio Pietrosanti (aka Naif)…», #naif), data 2023-01-17. È l'unica pagina che descrive l'intervista ora che video e canale YouTube sono stati rimossi.
+- 🆕 **2023-01-17** · Video · YouTube, canale CyberCoach (Gerardo Costabile) — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg)  
+  CyberCoach di Gerardo Costabile, pubblicato il 2023-01-17 (data-date 1673952750 nel feed YouTube della pagina https://costabile.net/cibercoach/, letta il 2026-09-24). Descrizione: «Oggi incontriamo Fabio Pietrosanti (aka Naif), un hacker da circa 25 anni… mindset dell'hacking… tre libri must to read». Il video su YouTube non è più disponibile e il canale @cyber_coach risponde 404 (canale rimosso): nessuna ricopia trovata.
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 
@@ -265,10 +269,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Talk · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)  
   Investigative journalism festival speaker page
 
-## 2021 — 25 voci, 25 nuove
+## 2021 — 27 voci, 27 nuove
 
 - 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Anthology (probably reprints the Mann chapter). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing. Retrieved 17 March 2019, https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html'.
+- 🆕 **2021-08-03** · articolo · il Giornale — ["Tutta Italia è vulnerabile, servono investimenti"](https://www.ilgiornale.it/news/politica/tutta-italia-vulnerabile-servono-investimenti-1966600.html) _(non verificato)_  
+  Intervista (Luca Fazzo) sull'attacco ransomware alla Regione Lazio dell'agosto 2021; l'intervistato ricorda che a marzo 2020 'un ricercatore italiano' aveva messo a nudo gravi vulnerabilità nel backend di LAZIOdrCOVID. Pagina aperta: nome assente (né Rocca né Pietrosanti).
 - 🆕 **2021-06-08** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [Voto Elettronico: perché è (ancora) una pessima idea](https://www.spreaker.com/episode/voto-elettronico-perche-e-ancora-una-pessima-idea--45210765)  
   Credited among experts who reviewed the script
 - 🆕 **2021-06-05** · Radio · Radio Radicale — [Riabitiamo i centri storici](https://www.radioradicale.it/scheda/638849/riabitiamo-i-centri-storici)  
@@ -283,6 +289,8 @@ Anni senza nessun risultato: nessuno
   Page text: 'Facial recognition technologies threaten our online and offline lives,' said Fabio Pietrosanti, President of the Hermes Center. Same campaign already known via noyb.eu; this PI URL was not in the known list.
 - 🆕 **2021-05-26** · Citato · noyb - European Center for Digital Rights — [Digital Rights alliance file legal complaints against facial recognition company Clearview AI](https://noyb.eu/en/digital-rights-alliance-file-legal-complaints-against-facial-recognition-company-clearview-ai)  
   Coalition press release (noyb, PI, Hermes, Homo Digitalis); quote by Fabio Pietrosanti, President of the Hermes Center; led to Garante's EUR 20M fine (2022)
+- 🆕 **2021-04-07** · articolo · Il Fatto Quotidiano (blog Umberto Rapetto) — [Facebook, la storia dei 533 milioni di account rubati equivale a un disastro ecologico dell'era moderna](https://www.ilfattoquotidiano.it/2021/04/07/facebook-la-storia-dei-533-milioni-di-account-rubati-equivale-a-un-disastro-ecologico-dellera-moderna/6157493/) _(non verificato)_  
+  Rapetto presenta Giovanni Rocca come 'la persona che ha smascherato l'inaffidabilità della app LazioDrCovid'. Pagina aperta: nome assente.
 - 🆕 **2021-04-04** · Talk · GlobaLeaks blog — [Workshop: Building Secure Whistleblowing Systems for Anticorruption with the GlobaLeaks Software](https://globaleaks.org/2021/04/04/workshop-building-secure-whistleblowing-systems-for-anticorruption-with-the-globaleaks-software/)  
   Workshop speakers include Fabio Pietrosanti (GlobaLeaks) with MexicoLeaks, XNET, Digital Whistleblowing Fund
 - 🆕 **2021-03-19** · Talk · Comune di Milano - Milano Partecipa / Milano Digital Week (partecipami.it) — [Da Milano Partecipa alla comunità italiana per la e-democracy](https://www.partecipami.it/calendar/event/1/8691)  
@@ -318,7 +326,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 46 voci, 46 nuove
+## 2020 — 80 voci, 80 nuove
 
 - 🆕 **2020-12-03** · Ricerca · GitHub — [ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)](https://github.com/fpietrosanti/ifuriosi)  
   Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista
@@ -356,30 +364,98 @@ Anni senza nessun risultato: nessuno
   Original Adnkronos wire quoting him as one of the Open Rousseau developers; live URL 404, verified via Wayback 2020 snapshot
 - 🆕 **2020-09-06** · articolo · onData APS — [Rendere "ricercabile" il XXI secolo](https://www.ondata.it/rendere-ricercabile-il-xxi-secolo/)  
   Sui PDF-immagine pubblicati dal Governo nella sezione sull'emergenza Coronavirus: 'Fabio Pietrosanti ha notato la cosa e li ha resi accessibili, grazie'. Riconoscimento del suo intervento di accessibilizzazione/OCR dei documenti pubblici.
+- 🆕 **2020-09-06** · social · Twitter/X (@fpietrosanti) — [Archivio zip di 1.9GB dei Verbali CTS Covid in PDF con OCR e testo ricercabile](https://twitter.com/fpietrosanti/status/1302572387725082624)  
+  102 like. Link a http://verbalictscovid.infosecurity.ch (oggi irraggiungibile e mai archiviato) e al README del repo COVID-19-Verbali-CTS-OCR (già noto). È il tweet citato da onData. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-09-06** · pagina · verbalictscovid.infosecurity.ch — [Archivio dei Verbali CTS Covid con OCR (download zip da 1.9GB)](http://verbalictscovid.infosecurity.ch) _(non verificato)_  
+  Sito di download dell'archivio OCR dei verbali CTS, citato nel tweet 1302572387725082624. Oggi non risponde (301 verso https, senza contenuto) e non ha catture Wayback. Non verificabile.
 - 🆕 **2020-09-05** · Progetto · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR)  
   OCR processing of Italian Government COVID Scientific Technical Committee minutes
 - 🆕 **2020-08-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come sono riuscito a votare due volte su Rousseau](https://hermescenter.github.io/crvd.org-preservation/come-sono-riuscito-a-votare-due-volte-su-rousseau/)  
   CRVD investigation: Fabio (CRVD activist) voted twice on Rousseau; restored site hermescenter/crvd.org-preservation (2026-09-18)
 - 🆕 **2020-08-19** · Menzionato · wired.it — [Come sono riuscito a votare due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/)  
   verified via wayback; context: …e facilmente individuabile con i normali controlli di penetration testing ai quali dovrebbero essere sottoposti simili strumenti” , ha commentato l’informatico Fabio Pietrosanti, membro del Comitato per i requisiti del v…
+- 🆕 **2020-07-28** · documento · GitHub (osservatoriosicurezza) — [Issue #3 - Dataset generation PoC and next steps (?)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/3) _(non verificato)_  
+  Aperta da fnzv: PoC di generazione automatica di liste IPv4 italiane da API RIPE via GitLab CI. Nessun commento. Solo progetto, nome assente.
+- 🆕 **2020-07-25** · repository · GitLab (fnzv) — [fnzv / ossci-dataset](https://gitlab.com/fnzv/ossci) _(non verificato)_  
+  Repo PoC collegato a OSSCI (creato 2020-07-25, ultima attività 2020-09-12): liste giornaliere IPv4 italiane da RIPE in CSV/JSON/RAW. Solo progetto, nome assente.
 - 🆕 **2020-06-23** · Citato · Agenda Digitale — [Software libero "massacrato" da Trump: un passo verso la sorveglianza globale](https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/)  
   Out of slice (incidental): quoted on OTF funding being decisive for GlobaLeaks
 - 🆕 **2020-06-09** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810)  
   Contribution as GLS network licensee on e-commerce delivery
+- 🆕 **2020-05-31** · social · Twitter/X (@fpietrosanti) — ['Il progetto di contact tracing in collaborazione con gli operatori telefonici che scrissi oramai 3 mesi orsono'](https://twitter.com/fpietrosanti/status/1267159597183381506)  
+  31 maggio 2020, retrospettiva esplicita sul progetto mai realizzato: 'Neanche il cell broadcast risolve, necessita massive SMS su incrocio di timing e celle mobili'. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-05-25** · social · Twitter/X (@fpietrosanti) — [Codici sorgenti #immuni: codice app disponibile, codice server no](https://twitter.com/fpietrosanti/status/1264810363972960263)  
+  25 maggio 2020, giorno della pubblicazione del codice: segnala che manca il codice server. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-05-16** · social · Twitter/X (@fpietrosanti) — [Immuni sarà con licenza opensource AGPLv3 e non MPL2](https://twitter.com/fpietrosanti/status/1261755274173526018)  
+  Registra l'esito: Bending Spoons passa ad AGPLv3 'in response to advice coming from the open-source community'. Link alla issue GitHub immuni-app/documentation#7, dove Fabio aveva commentato. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-05-06** · pagina · Associazione Luca Coscioni — [Coronavirus: ascolta tutti i podcast!](https://www.associazionelucacoscioni.it/notizie/comunicati/coronavirus-ascolta-tutte-le-interviste-in-podcast)  
+  Pagina indice dei podcast Coscioni. Voce: 'Coronavirus: cos'è e come funziona il contact tracing? Grazie a Fabio Pietrosanti presidente del Centro Hermes e Riccardo Coluccini...', che copre il contact tracing con bluetooth o celle telefoniche in Corea del Sud e Singapore. L'episodio Spreaker è già noto, questa pagina no. Data incerta (il primo tag <time> riporta 2020-05-06).
 - 🆕 **2020-05-04** · Menzionato · Bloomberg Businessweek, 2020-05-04 issue — [The Road to Pyongyang Starts in Spain (print title, contents p.44; online: Wanna Do Business in Pyongyang? Call North Korea's Guy in Spain) — Josh Dean](https://archive.org/details/business-week_2020-05-04)  
   Pyongyang blockchain/cryptocurrency conference and North Korean programmers; confirmed by Fabio 2026-09-18. Online: https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain. Print title from the issue's contents page via Internet Archive full-text snippets (2026-09-19): '44 The Road to Pyongyang Starts in Spain'; text: 'Italian information-security specialist Fabio Pietrosanti'. 'p.70' was the scan image number.
+- 🆕 **2020-05-02** · social · Twitter/X (@fpietrosanti) — [Dati di cella e identità telefoniche disponibili alle ASL - Dove/Come?](https://twitter.com/fpietrosanti/status/1256578585483247618)  
+  Rilancia un suo messaggio sulla mailing list Nexa (maggio 2020) sulla disponibilità di dati di cella e tabulati per le ASL. Nel seguito (1256584313631641602) chiede se il protocollo con gli operatori sia 'FOIAizzabile'. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-05-01** · Menzionato · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain)  
   verified via wayback; context: …nvitation, except for journalists and residents of South Korea, Japan, and Israel. Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti. He says the two-day event was strange: Th…
+- 🆕 **2020-04-30** · social · Twitter/X (@fpietrosanti) — [Quindi la app Immuni conserva i dati su Google Cloud?](https://twitter.com/fpietrosanti/status/1255938339347271680)  
+  Commento alla relazione su Immuni della task force COVID-19 (sgdl8_relazione_immuni.pdf). Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-04-28** · Video · CRS Scuola Critica del Digitale + Forum Disuguaglianze e Diversita (webinar) — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/)  
   COVID-19 webinar on contact-tracing apps (Immuni era); his talk from 00:40:00
+- 🆕 **2020-04-24** · documento · ANORC — [Immuni, ANORC a Pisano: dichiarazioni non allineate, faccia chiarezza](https://anorc.eu/attivita/immuni-anorc-a-pisano-dichiarazioni-non-allineate-faccia-chiarezza/)  
+  Lettera di esperti alla ministra Pisano su Immuni (2020-04-24). Tra i firmatari: 'Dr. Fabio Pietrosanti (naif) (Centro Hermes per la Trasparenza e i Diritti Umani Digitali)'. Quasi certamente è la fonte primaria dello stesso appello ripreso da StartMag in 'Come (non) fare un'app anti Covid-19' (già noto).
+- 🆕 **2020-04-22** · social · Twitter/X (@fpietrosanti) — [Immuni: licenza libera GNU AGPL3 e non MPL2, per la trasparenza](https://twitter.com/fpietrosanti/status/1252876903788101634)  
+  Campagna per la licenza AGPLv3 del codice di Immuni, poi adottata (vedi tweet 1261755274173526018). Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-04-20** · documento · Nexa Center for Internet & Society (Politecnico di Torino) — [Tracciamento dei contatti e democrazia: lettera aperta ai decisori](https://nexa.polito.it/lettera-aperta-app-covid19/)  
+  Lettera aperta (2020-04-20) sulle app di contact tracing. Tra i firmatari: 'Fabio Pietrosanti, Centro Hermes per la Trasparenza e i Diritti Umani Digitali'. Verificato sul testo della pagina.
+- 🆕 **2020-04-19** · social · Twitter/X (@fpietrosanti) — [Analisi dei requisiti normativi sul riuso (open source) delle app di contact tracing](https://twitter.com/fpietrosanti/status/1251838257626861571)  
+  Rimanda a un suo thread su forum.italia.it (i post nei forum non valgono come pubblicazione). Tema: art. 69 del CAD e rilascio open source dell'app. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-04-17** · Libro · IGI Global — [Applying Internet Laws and Regulations to Educational Technology](https://books.google.com/books?id=gkThDwAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Author: Bruce L. Mann (ISBN 9781799845560). References list: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing ...'.
+- 🆕 **2020-04-12** · social · Twitter/X (@fpietrosanti) — [Invito a leggere l'esercizio di ricerca sui dati di cella realizzato un mese prima](https://twitter.com/fpietrosanti/status/1249260006127669248)  
+  12 aprile 2020, a Ribaudo e Fabio Chiusi: rilancia il documento sui dati di cella. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-04-10** · social · Twitter/X (@fpietrosanti) — [Iniziato webinar su Contact Tracing 10.30-12.30](https://twitter.com/fpietrosanti/status/1248531984139407361)  
+  Annuncia il webinar 'Condivisi. Covid-19 quali dati per quali diritti?' del 10 aprile 2020 (vedi la voce talk). Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-04-10** · Talk · Eumans / alcuoredellapolitica.net (Marco Cappato) — [Condivisi. Covid-19, quali dati per quali diritti? (webinar 10 aprile 2020)](https://web.archive.org/web/20200428182650/https://www.alcuoredellapolitica.net/condivisi-covid-19-quali-dati-quali-diritti-10-aprile-2020)  
+  La pagina dell'evento (URL originale oggi 'File Not Found'; copia Wayback del 2020-04-28) elenca tra i relatori 'Fabio Pietrosanti - Founding Member - President, Hermes Center @fpietrosanti', con Privacy International, Kroll, The Good Lobby e Legance. Diretta YouTube: https://www.youtube.com/watch?v=uLamuswTq8g.
+- 🆕 **2020-04-10** · Video · YouTube (Eumans_archive) — [Condivisi. Covid19: quali dati per quali diritti?](https://www.youtube.com/watch?v=uLamuswTq8g) _(non verificato)_  
+  Registrazione del webinar del 10/04/2020 (uploadDate 2020-04-10). La partecipazione di Fabio risulta dalla pagina dell'evento e dal suo tweet 1248531984139407361; nei metadati del video il suo nome non compare.
+- 🆕 **2020-04-09** · social · Twitter/X (@fpietrosanti) — [Contact Tracing: chi decide chi è un contatto a rischio, l'algoritmo o il medico?](https://twitter.com/fpietrosanti/status/1248160457401274368)  
+  Rimanda a un post Facebook di Fabio (posts/10219915630494047; non leggibile senza login e non archiviato). Tesi ricorrente: il digitale assiste l'intervista di contact tracing, non la sostituisce. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-04-04** · articolo · gioxx.org (blog di Gioxx) — [Letture per il weekend: di Privacy violata, #INPSDown e #Zoom sotto la lente di ingrandimento](https://gioxx.org/2020/04/04/letture-per-il-weekend-di-privacy-violata-inpsdown-e-zoom-sotto-la-lente-di-ingrandimento/) _(non verificato)_  
+  Rassegna settimanale che segnala l'audit di Giovanni Rocca su LAZIOdrCovid ('poi corretta in seguito'). Pagina aperta: nome assente.
+- 🆕 **2020-04-01** · documento · giovanni-rocca.com — [A self basic audit for Android applications](http://www.giovanni-rocca.com/a-self-basic-audit-for-android-applications/) _(non verificato)_  
+  Post di follow-up di Rocca (01/04/2020, categoria Audit): chiamata ai ricercatori per auditare le app governative COVID-19, su invito di fs0c131y. Letto via Wayback 20200426173442. Nome assente (nessuna menzione di Pietrosanti/naif); contesto del lavoro avviato con LAZIOdrCOVID.
+- 🆕 **2020-03-29** · Ricerca · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/)  
+  Audit di Giovanni Rocca dell'app Regione Lazio LAZIOdrCOVID, 29/03/2020. Verificato 2026-09-24 sulla capture Wayback 20200329: «a friend of me (FABIO – Naif – PIETROSANTI) asked me to take a look»; i test sono stati fatti con il codice fiscale di Fabio e dei familiari, consenzienti. Vulnerabilità: chiave DES fissa nell'app, lettura del medico di base dal codice fiscale, SMS di verifica illimitati, token utilizzabile su qualsiasi paziente (lettura referti/chat, scrittura parametri). Il problema principale fu corretto in circa 6 ore lo stesso giorno. I due gist GitHub con le richieste catturate (contenevano dati di Fabio) sono 404.
+- 🆕 **2020-03-29** · social · Twitter (@iGio90, Giovanni Rocca) — [first audit on italian #covid19 application I'm a bit scared to do the others now. @fpietrosanti](https://twitter.com/iGio90/status/1244250696125427715)  
+  Tweet di lancio del post di audit LAZIOdrCOVID (data-time 1585487457 = 29/03/2020 ~13:10 UTC). Verificato sullo snapshot Wayback 20200329132422: il testo tagga @fpietrosanti e rimanda a giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/.
+- 🆕 **2020-03-29** · social · Twitter (@mobilesecurity_) — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle #MobileSecurity #AndroidSecurity by @iGio90](https://twitter.com/mobilesecurity_/status/1244251199173472258) _(non verificato)_  
+  Rilancio del post di Rocca da un account di settore; titolo visto solo nei risultati di ricerca, pagina non aperta. Nome assente nel testo del tweet.
 - 🆕 **2020-03-27** · Podcast · Agenda Podcast (Spreaker) — [Coronavirus: cos'è e come funziona il contact tracing?](https://www.spreaker.com/episode/coronavirus-cos-e-e-come-funziona-il-contact-tracing--24430226)  
   With Riccardo Coluccini, on COVID contact tracing
+- 🆕 **2020-03-25** · social · Twitter/X (@fpietrosanti) — [Proposta progettuale d'impiego di dati di geolocalizzazione cellulare a supporto della emergenza #coronavirus](https://twitter.com/fpietrosanti/status/1242835276436815874)  
+  Principale annuncio pubblico del progetto (33 like): 'secondo forti criteri di protezione dei dati. Superare problemi di efficienza e tracciamento delle App senza raccogliere ulteriori dati', con link al Google Doc. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-03-23** · social · Twitter/X (@fpietrosanti) — [Progetto sviluppato in 4-5 giorni: geolocation cellulare senza dati identificativi in mano pubblica](https://twitter.com/fpietrosanti/status/1242021149128695808)  
+  Risposta a Tiani, Sole 24 Ore/Nova e EDPS: il documento è un 'living document', non pubblicato formalmente. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-03-22** · social · Twitter/X (@fpietrosanti) — [Comunicazioni massive per rilevamento focolai alto rischio: serve comunicazione geo-parametrizzata](https://twitter.com/fpietrosanti/status/1241681924499873792)  
+  'solo l'inizio delle comunicazioni massive per rilevamento focolai alto rischio. Serve anche comunicazione mirata geo-parametrizzata' - riferimento esplicito ai focolai. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-03-22** · social · Twitter/X (@fpietrosanti) — [Niente app: servono soluzioni senza opt-in eseguite lato operatore telefonico](https://twitter.com/fpietrosanti/status/1241721501679792128)  
+  'Servono soluzioni senza opt-in massive, solo quelle, e si possono ottenere solo con applicazioni software eseguite dal lato operatore telefonico'. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-03-22** · social · Twitter/X (@fpietrosanti) — [Concept di autocertificazioni digitali realizzate lato operatore telefonico (a Barbara Carfagna)](https://twitter.com/fpietrosanti/status/1241722007458320389)  
+  Sottopone a Barbara Carfagna (RAI) il Google Doc del progetto sui dati di cella. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-03-22** · social · Twitter/X (@fpietrosanti) — ['Cosa ci si potrebbe fare con elaborazione dati di cella': richiesta di riscontro](https://twitter.com/fpietrosanti/status/1241770094805561351)  
+  Presenta il documento: 'Ho fatto uno sforzo concreto, pratico, fattuale di elaborare cosa ci si potrebbe fare con elaborazione dati di cella... senza fornire alcun elemento identificativo al governo'. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-03-20** · documento · Google Docs (documento pubblico) — [Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-location mobile](https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk)  
+  Il progetto mai lanciato sui dati di cella. Propone di usare i dati di geolocalizzazione della rete mobile degli operatori (Vodafone Analytics, TIM Big Data) per assistere l'intervista di contact tracing, inviare SMS geo-targeted ai cluster/focolai a rischio, notificare l'allontanamento da dimora e automatizzare l'autocertificazione, senza che l'autorità pubblica riceva dati identificativi o di posizione individuale. Sezione 'Autori': "L'autore primario è Fabio Pietrosanti" (5 giorni di review interdisciplinare), offre supporto pro-bono. Pareri giuridici di Aterno, Piana, Saetta, Perri, Simbula, Monte, Gallus, Lisi, Pelino; commenti di Costabile, Agostini, Dirani. Stakeholder previsti: Ministero Innovazione, operatori mobili, Protezione Civile, autorità sanitarie, Garante. Testo esportato (export?format=txt, 57 KB) e letto. Data approssimativa: sviluppato tra il 18 e il 23 marzo 2020, annunciato su Twitter il 22 e il 25 marzo 2020 (living document).
+- 🆕 **2020-03-19** · social · Twitter/X (@fpietrosanti) — [Contact tracing su base cella con notifica SMS, non una App](https://twitter.com/fpietrosanti/status/1240455984746844160)  
+  A Fuggetta, Pagliarini e Sabatini: propone contact tracing su base cella con notifica via SMS e call center per invitare al test, invece di una app. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-03-18** · Video · Mojo Italia (YouTube) — [Come difendere il proprio smartphone](https://www.youtube.com/watch?v=JMxc3mgAO7E)  
   Out of slice (incidental): Mojo Italia seminar for journalists, docenti Raffaele Angius and Fabio Pietrosanti
+- 🆕 **2020-03-18** · social · Twitter/X (@fpietrosanti) — [Riflessione sull'efficacia operativa dell'uso massivo di dati di cella non anonimizzati](https://twitter.com/fpietrosanti/status/1240314798975393800)  
+  Risposta a Gallus, Aterno, Quintarelli e altri: 'Una mia riflessione di esempio sulla efficacia operativa e tattica che avrebbe dell'uso massivo dati di cella non-anonimizzata (da un post mailing list copernicani)'. Colloca l'origine dell'idea sulla mailing list dei Copernicani. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-03-18** · Menzionato · Transparency International Italia (news) — [La libertà passa anche da #SaveDotOrg](https://transparency.it/informati/news/la-liberta-passa-anche-da-savedotorg)  
   HTML news item (not a PDF). Text: 'Anche Fabio Pietrosanti, presidente di Hermes Center for Transparency and Digital Human Rights, si dice preoccupato...' on the sale of the .ORG registry (PIR) to Ethos Capital. Date inferred from image filename 20200318.
+- 🆕 **2020-03-16** · social · Twitter/X (@fpietrosanti) — [GEOLOCALIZZAZIONE CELLULARI E CORONAVIRUS - Un mio parere personale, forse controcorrente](https://twitter.com/fpietrosanti/status/1239455092547387392)  
+  Rimanda a un post Facebook di Fabio (facebook.com/krdhgkjdfhgdfjhgkjdfgkj/posts/10219650834874322; senza login non è leggibile e non risulta archiviato) con il suo parere sulla geolocalizzazione dei cellulari: il primo nucleo dell'idea sui dati di cella. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-03-04** · Menzionato · lastampa.it — [L’emergenza per Casaleggio può far “testare il voto online a marzo”, ecco come gli informatici lo stroncano - La Stampa](https://www.lastampa.it/politica/2020/03/04/news/l-emergenza-per-casaleggio-puo-far-testare-il-voto-online-a-marzo-ecco-come-gli-informatici-lo-stroncano-1.38548899/)  
   verified via wayback; context: …one. È un vero e proprio atto di sciacallaggio, di cui a emergenza (sanitaria prima e democratica poi) finita a questo signore bisognerà chiedere conto”. Anche Fabio Pietrosanti , notissimo consulente in cybersecurity it…
 - 🆕 **2020-02-22** · articolo · Fondazione AIDR (Osservatorio Trasparenza e Anticorruzione) — [Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della Pubblica Amministrazione](https://www.aidr.it/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/)  
@@ -394,8 +470,8 @@ Anni senza nessun risultato: nessuno
   Proposta formale presentata alla consultazione pubblica governativa 'Italia 2025 - Strategia per l'innovazione tecnologica e la digitalizzazione del Paese'. La pagina mostra 'Avatar: Fabio Pietrosanti / Fabio Pietrosanti 16/01/2020 22:42' come autore; il profilo ParteciPa collegato e' /profiles/naif/. Fratello della gia' nota proposta 424 sul whistleblowing.
 - 🆕 **2020-01-16** · consultazione · ParteciPa (Dipartimento della Funzione Pubblica / Ministro per l'innovazione tecnologica) - consultazione 'Italia 2025' — [Rafforzare Cybersecurity Nazionale con Misurazione proattiva](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/425)  
   Proposta formale presentata alla consultazione pubblica governativa 'Italia 2025'. Autore indicato nella pagina: 'Fabio Pietrosanti 16/01/2020 22:49', profilo ParteciPa /profiles/naif/. Terza proposta della serie 423-424-425.
-- 🆕 **2020** · Ricerca · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/) _(non verificato)_  
-  Audit of the Lazio COVID app with Giovanni Rocca (Fabio); check whether Fabio is named
+- 🆕 **2020-01-03** · repository · GitHub (osservatoriosicurezza) — [Commit 'Store on github project logos' (ossci-con-titolo.jpeg, ossci-senza-titolo.jpeg)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/commit/052275da0ceeb61ef62373a5553ea1e43fa11d0f)  
+  Verificato via API: ultimo commit del repo, autore 'Fabio (naif) Pietrosanti' (fpietrosanti), 2020-01-03; aggiunge i loghi OSSCI. Data dell'ultima attività sul repo principale.
 - 🆕 **2020** · Libro · Maureen Webb, Coding Democracy: How Hackers Are Disrupting Power, Surveillance, and Authoritarianism (MIT Press, 2020), IA copy — [Coding Democracy](https://archive.org/details/codingdemocracyh0000webb)  
   IA FTS snippets: 'Fabio Pietrosanti and Matteo Flora are two of the founders of Hermes'; 'Flora, one of Hermes's founders, along with Fabio Pietrosanti and others'; 'GlobaLeaks was the easiest to use. She worked closely with Fabio Pietrosanti and his colleague Giovanni'. Lending-restricted.
 - 🆕 **2020** · Libro · Andrew Fowler, Shooting the Messenger: Criminalising Journalism (Routledge, 2020), IA copy — [Shooting the Messenger](https://archive.org/details/shootingmessenge0000fowl)  
@@ -413,7 +489,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 25 voci, 25 nuove
+## 2019 — 27 voci, 27 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -423,8 +499,14 @@ Anni senza nessun risultato: nessuno
   S1E117 with Peter Fleming (UTS) on digital whistleblowing infrastructure
 - 🆕 **2019-11-21** · Menzionato · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/)  
   verified via wayback; context: …o: il voto elettronico non è una “sfida” e non è “il futuro”. Il voto elettronico è una sciocchezza, e chi la propone evidentemente non ne capisce i problemi». Fabio Pietrosanti, consulente per la sicurezza informatica, …
+- 🆕 **2019-11-15** · documento · GitHub (osservatoriosicurezza) — [Issue #2 - Current State of Pipeline 0](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/2)  
+  Verificato via GitHub API: thread tecnico su come definire il perimetro IP italiano (RIPE, BGP, GeoIP, definizione di legge DL 105/2019). Commenti di fpietrosanti del 2019-11-17 e 2019-11-18; citato più volte (@fpietrosanti) da Carlo Mara. Altri partecipanti: CarloMara, simoneonofri, fnzv, rfc1036, gbonfiglio, Antonio-Prado.
+- 🆕 **2019-11-13** · repository · GitHub (osservatoriosicurezza) — [Pull request #1 - Update README.md (vodkina-patch-1), merged by fpietrosanti](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/pull/1)  
+  Verificato via API: PR aperta da vodkina (Yvette Agostini) il 2019-11-13, merge eseguito da fpietrosanti il 2019-11-14 (merge commit 43e0f325, autore 'Fabio (naif) Pietrosanti').
 - 🆕 **2019-11-12** · Progetto · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (pipeline 0, definizione tecnica)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano)  
   Never-launched project promoted by Fabio (2019), 250+ people involved, before ACN; stopped over fear of legal repercussions of active scanning
+- 🆕 **2019-11-12** · pagina · GitHub — [OSPCI - Osservatorio Sicurezza del Perimetro Cibernetico Italiano (organizzazione GitHub)](https://github.com/osservatoriosicurezza) _(non verificato)_  
+  Org creata 2019-11-12, 1 solo repo pubblico; descrizione rimanda al Google Doc, campo blog al gruppo Telegram. Membri non pubblici. Solo progetto, nome assente nella pagina org (i commit nel repo sono di fpietrosanti).
 - 🆕 **2019-11** · Report · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit)  
   Project document reviewed by dozens of engineers and lawyers (Fabio); very early-stage for its time; archived as PDF/TXT/DOCX
 - 🆕 **2019-10-03** · Menzionato · repubblica.it — [Quando lo smartphone diventa una spia. "In Italia oltre mille vittime di stalkerware"](https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/)  
@@ -463,8 +545,6 @@ Anni senza nessun risultato: nessuno
   ANAC's OpenWhistleblowing software credits Fabio Pietrosanti <naif@globaleaks.org> among original GlobaLeaks authors
 - 🆕 **2019** · Talk · MOJO Italia - Festival del giornalismo mobile (2a edizione) — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/)  
   Speaker at 2nd edition (announced 2019-02-17) on whistleblowing, privacy and digital anonymity
-- 🆕 **2019** · Video · YouTube (unverified channel) — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) _(non verificato)_  
-  Seen in search results only; page not retrievable (year approximate)
 
 ## 2018 — 66 voci, 66 nuove
 

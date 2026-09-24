@@ -1,23 +1,23 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-09-23 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-09-24 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **694**; già processate: **732**; ancora da processare: **0**
-- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **422** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **555**
-- 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **29**
-- 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **11**
+- Voci in `data/media.json`: **734**; già processate: **772**; ancora da processare: **0**
+- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **453** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **585**
+- 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **32**
+- 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **16**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **13**
 - 🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione): **11**
 - 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **3**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **20**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
-- 🎬 Video/audio scaricato (+ pagina): **82**
+- 🎬 Video/audio scaricato (+ pagina): **83**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
-- ❌ Non ottenuta: **5**
+- ❌ Non ottenuta: **6**
 
 ## Per anno
 
@@ -46,11 +46,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 13 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 56 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 34 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 16 | 3 | 0 | 0 | 1 | 0 | 0 |
-| 2020 | 42 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 18 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 69 | 4 | 0 | 0 | 0 | 0 | 1 |
 | 2021 | 18 | 6 | 0 | 0 | 0 | 0 | 1 |
 | 2022 | 44 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2023 | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2023 | 9 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 19 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -103,13 +103,15 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ⏹️ **2026** · Camera dei deputati, IX Commissione (Tra — [Memoria soggetto non audito - Rete diritti umani digitali, osservazioni sull'A.G. n. 421 (](https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.97466.23-07-2026-12-31-56.077.pdf) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ❌ **2000** · Hackmeeting 2000 (Hackit00), Roma, Forte — [Letteratura Cyberpunk (seminar proposal)](https://www.hackmeeting.org/hackit00/proposte/letteratura.html) · licenza: terzi  
-  2026-09-23: la pagina live non esiste piu' (404; in HTTPS il certificato di www.hackmeeting.org non corrisponde). Nel Web Archive esiste una sola capture (20260827004502, 1310 byte) ma la replay del Wayback risponde 500 su tutte le forme di URL (id_ e normale). Da riprovare piu' avanti: e' un guasto lato Internet Archive, non un vicolo cieco definitivo.
+  URLError
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
-  http 403
+  http 404
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
-  http 403
+  http 404
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
+- ❌ **2020** · verbalictscovid.infosecurity.ch — [Archivio dei Verbali CTS Covid con OCR (download zip da 1.9GB)](http://verbalictscovid.infosecurity.ch) · licenza: propria  
+  2026-09-24: verbalictscovid.infosecurity.ch (archivio verbali CTS con testo ricercabile, annunciato il 06/09/2020) è offline e non ha capture nel Web Archive. Chiedere a Fabio i file.
 - ❌ **2021** · IGI Global (Information Resources Manage — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAQBAJ) · licenza: terzi  
   http 404
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
@@ -182,6 +184,16 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🔎 **2019** · SecurityWeek — [VLC Responds to Criticism Over Lack of HTTPS for Updates](https://www.securityweek.com/vlc-responds-criticism-over-lack-https-updates/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
+- 🔎 **2020** · giovanni-rocca.com — [A self basic audit for Android applications](http://www.giovanni-rocca.com/a-self-basic-audit-for-android-applications/) · licenza: terzi  
+  2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
+- 🔎 **2020** · gioxx.org (blog di Gioxx) — [Letture per il weekend: di Privacy violata, #INPSDown e #Zoom sotto la lente di ingrandime](https://gioxx.org/2020/04/04/letture-per-il-weekend-di-privacy-violata-inpsdown-e-zoom-sotto-la-lente-di-ingrandimento/) · licenza: terzi  
+  2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
+- 🔎 **2020** · Twitter (@mobilesecurity_) — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle #MobileSecurity #AndroidSecurity by](https://twitter.com/mobilesecurity_/status/1244251199173472258) · licenza: terzi  
+  2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
+- 🔎 **2021** · Il Fatto Quotidiano (blog Umberto Rapett — [Facebook, la storia dei 533 milioni di account rubati equivale a un disastro ecologico del](https://www.ilfattoquotidiano.it/2021/04/07/facebook-la-storia-dei-533-milioni-di-account-rubati-equivale-a-un-disastro-ecologico-dellera-moderna/6157493/) · licenza: terzi  
+  2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
+- 🔎 **2021** · il Giornale — ["Tutta Italia è vulnerabile, servono investimenti"](https://www.ilgiornale.it/news/politica/tutta-italia-vulnerabile-servono-investimenti-1966600.html) · licenza: terzi  
+  2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
 - 🏛️ **2011** · 28C3 Chaos Communication Congress, Berli — [Tor2web workshop](https://events.ccc.de/congress/2011/wiki/Tor2web) · licenza: terzi  
   2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
 - 🏛️ **2011** · 28C3 Chaos Communication Congress, Berli — [Workshops/GlobaLeaks](https://events.ccc.de/congress/2011/wiki/Workshops/GlobaLeaks) · licenza: terzi  
@@ -226,6 +238,12 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
 - 🏛️ **2019** · e-privacy XXV (2019 summer), Torino, Cit — [Big Brother Award (slot by Hermes Center)](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) · licenza: terzi  
   2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
+- 🏛️ **2019** · GitHub — [OSPCI - Osservatorio Sicurezza del Perimetro Cibernetico Italiano (organizzazione GitHub)](https://github.com/osservatoriosicurezza) · licenza: terzi  
+  2026-09-24: pagina dell'organizzazione GitHub OSPCI/OSSCI: suo progetto, il nome non compare (è nei commit e nelle issue, voci a parte).
+- 🏛️ **2020** · GitHub (osservatoriosicurezza) — [Issue #3 - Dataset generation PoC and next steps (?)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/3) · licenza: terzi  
+  2026-09-24: issue #3 di OSSCI (fnzv, 2020), nessuna risposta: suo progetto, nome assente.
+- 🏛️ **2020** · GitLab (fnzv) — [fnzv / ossci-dataset](https://gitlab.com/fnzv/ossci) · licenza: terzi  
+  2026-09-24: repo GitLab fnzv/ossci (seguito di OSSCI, dataset IP italiani): pagina JS, salvati via API project, commit e README; commit di fnzv/Sami e del bot CI, il nome di Fabio non compare.
 - 🏛️ **2020** · Interoperable Europe Portal (European Co — [EUPL for Italian software](https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software) · licenza: terzi  
   2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
 - 🏛️ **2021** · Copernicani — [Voto degli italiani fuori sede: la posizione dei copernicani.](https://www.copernicani.it/voto-degli-italiani-fuori-sede-la-posizione-dei-copernicani/) · licenza: terzi  
@@ -246,8 +264,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: la pagina «Amministrazione Trasparente» costruisce l'elenco dei documenti via JavaScript (verificato anche nel browser: nessuna occorrenza nel DOM). Serve l'URL diretto del PDF dell'istanza.
 - 🗂️ **2022** · Liceo Statale "Maria Montessori" (Minist — [Istanza accesso civico sig. Fabio Pietrosanti](https://www.istitutomontessori.edu.it/amministrazione-trasparente/) · licenza: terzi  
   2026-09-23: la pagina «Amministrazione Trasparente» costruisce l'elenco dei documenti via JavaScript (verificato anche nel browser: nessuna occorrenza nel DOM). Serve l'URL diretto del PDF dell'istanza.
-- 🎞️ **2019** · YouTube (unverified channel) — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
-  page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
+- 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
+  2026-09-24: video rimosso: Gerardo Costabile ha confermato a Fabio che l'account Google di DeepCyber è stato cancellato e con esso il canale YouTube CyberCoach. Nessuna ricopia trovata; descrizione e data (2023-01-17) nella pagina costabile.net/cibercoach/. Unica via: una copia locale di Costabile o di Fabio.
 - 🟠 **2000** · SecurityFocus BID 1923 — [ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)](https://www.securityfocus.com/bid/1923) · licenza: propria  
   page is a JavaScript shell with almost no text: needs browser capture
 - 🟠 **2001** · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) · licenza: propria  
@@ -749,6 +767,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Forum Italia (Developers Italia) — [Software di Whistleblowing Anticorruzione ANAC e Riuso GlobaLeaks](https://forum.italia.it/t/software-di-whistleblowing-anticorruzione-anac-e-riuso-globaleaks/7114) · copia: `2019/f80d52afc3d3` (Web Archive 20231208) · licenza: propria
 - **2019** · GitHub - ANAC anticorruzione/openwhistle — [openwhistleblowing/AUTHORS](https://github.com/anticorruzione/openwhistleblowing/blob/master/AUTHORS) · copia: `2019/5c5b4eed38b7` (live) · licenza: terzi
 - **2019** · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano) · copia: `2019/2f5708b9e6aa` (Web Archive 20200910) · licenza: propria
+- **2019** · GitHub (osservatoriosicurezza) — [Issue #2 - Current State of Pipeline 0](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/2) · copia: `2019/94d17345cc26` (Web Archive 20200910) · licenza: terzi
+- **2019** · GitHub (osservatoriosicurezza) — [Pull request #1 - Update README.md (vodkina-patch-1), merged by fpietrosanti](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/pull/1) · copia: `2019/84c239c19937` (Web Archive 20200910) · licenza: terzi
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [Come non sprecare un milione di euro](https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/) · copia: `2019/92e164fffed9` (live) · licenza: propria
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://hermescenter.github.io/crvd.org-preservation/i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/) · copia: `2019/48c4ec2b2a8e` (live) · licenza: terzi
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [Voto Online? No, grazie, e ti spiego perché…](https://hermescenter.github.io/crvd.org-preservation/voto-online-no-grazie-e-ti-spiego-perche/) · copia: `2019/1c10e6370c44` (live) · licenza: propria
@@ -763,6 +783,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Online? No, grazie, e ti spiego perché...](https://www.spreaker.com/episode/voto-online-no-grazie-e-ti-spiego-perche--17308523) · copia: `2019/f6345cb62800` (live · video locale `media.mp3` (61 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE) · copia: `2019/26f28fdcd90f` (Web Archive 20190313 · video locale `media.mp4` (54 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/) · copia: `2020/355b38e1ace5` (Web Archive 20200329) · licenza: propria
+- **2020** · ANORC — [Immuni, ANORC a Pisano: dichiarazioni non allineate, faccia chiarezza](https://anorc.eu/attivita/immuni-anorc-a-pisano-dichiarazioni-non-allineate-faccia-chiarezza/) · copia: `2020/4ae161b7e732` (Web Archive 20200518) · licenza: terzi
 - **2020** · Il Gazzettino (Friuli ed.) — [Il Gazzettino-Friuli 2020-10-02 (article on 'Open Rousseau')](https://archive.org/details/GazzettinoFVG2020-10-02) · copia: `2020/66bdc072e602` (live) · licenza: terzi
 - **2020** · Bloomberg Businessweek, 2020-05-04 issue — [Article on the 2019 Pyongyang blockchain/cryptocurrency conference (Businessweek)](https://archive.org/details/business-week_2020-05-04) · copia: `2020/7e01e3b13b90` (live) · licenza: terzi
 - **2020** · Maureen Webb, Coding Democracy: How Hack — [Coding Democracy](https://archive.org/details/codingdemocracyh0000webb) · copia: `2020/d291e3933f06` (live) · licenza: terzi
@@ -770,22 +791,48 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Andrew Fowler, Shooting the Messenger: C — [Shooting the Messenger](https://archive.org/details/shootingmessenge0000fowl) · copia: `2020/4d39f24adec2` (live) · licenza: terzi
 - **2020** · CRS Scuola Critica del Digitale + Forum  — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/) · copia: `2020/423816c0d044` (Web Archive 20210619) · licenza: terzi
 - **2020** · Copernicani (#DialoghiCopernicani, onlin — [Martedi 20 ottobre ore 21:00 - Riconoscimento facciale usato dalle forze dell'ordine, stru](https://copernicani.it/blog/2020/10/16/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/) · copia: `2020/2cd8cd7b083a` (Web Archive 20201019) · licenza: terzi
+- **2020** · Google Docs (documento pubblico) — [Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-locat](https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk) · copia: `2020/50fc2ff6af5f` (live) · licenza: terzi
 - **2020** · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR) · copia: `2020/eb6bace23141` (Web Archive 20260218) · licenza: propria
 - **2020** · GitHub fpietrosanti — [ifuriosi](https://github.com/fpietrosanti/ifuriosi) · copia: `2020/bc74d92eaf61` (Web Archive 20201205) · licenza: propria
+- **2020** · GitHub (osservatoriosicurezza) — [Commit 'Store on github project logos' (ossci-con-titolo.jpeg, ossci-senza-titolo.jpeg)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/commit/052275da0ceeb61ef62373a5553ea1e43fa11d0f) · copia: `2020/9a24dd5c1801` (live) · licenza: terzi
 - **2020** · CRVD — Comitato per i Requisiti del Voto — [Come sono riuscito a votare due volte su Rousseau](https://hermescenter.github.io/crvd.org-preservation/come-sono-riuscito-a-votare-due-volte-su-rousseau/) · copia: `2020/473df00a00d2` (live) · licenza: propria
 - **2020** · Palgrave Macmillan (Springer Nature), Lo — [Digital Whistleblowing Platforms in Journalism: Encrypting Leaks](https://link.springer.com/book/10.1007/978-3-030-38505-7) · copia: `2020/5be3fab18681` (Web Archive 20200710) · licenza: terzi
 - **2020** · Springer, The International Library of E — [Cybersecurity and the State](https://link.springer.com/chapter/10.1007/978-3-030-29053-5_10) · copia: `2020/d5682508f68b` (Web Archive 20220120) · licenza: terzi
 - **2020** · Palgrave Macmillan (Springer Nature) — [A Taxonomy of Whistleblowing Platforms (ch. 5 of Di Salvo, Digital Whistleblowing Platform](https://link.springer.com/chapter/10.1007/978-3-030-38505-7_5) · copia: `2020/d578927552c3` (Web Archive 20220505) · licenza: terzi
 - **2020** · Springer, The International Library of E — [Cybersecurity and the State](https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf) · copia: `2020/4209544753a4` (Web Archive 20200510) · licenza: terzi
 - **2020** · Palgrave Macmillan (Springer Nature) — [Digital Whistleblowing Platforms in Journalism: Encrypting Leaks](https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1) · copia: `2020/ab096a913dc4` (live) · licenza: terzi
+- **2020** · Nexa Center for Internet & Society (Poli — [Tracciamento dei contatti e democrazia: lettera aperta ai decisori](https://nexa.polito.it/lettera-aperta-app-covid19/) · copia: `2020/fecb07b890f6` (Web Archive 20200421) · licenza: terzi
 - **2020** · ParteciPa (Dipartimento della Funzione P — [Apertura della base dati del Registro Imprese in Open Data](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/423) · copia: `2020/f973695f7ec0` (Web Archive 20241007) · licenza: terzi
 - **2020** · ParteciPa (Italian government consultati — [Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424) · copia: `2020/d5a756e462d6` (Web Archive 20240808) · licenza: propria
 - **2020** · ParteciPa (Dipartimento della Funzione P — [Rafforzare Cybersecurity Nazionale con Misurazione proattiva](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/425) · copia: `2020/2afc1fa9d196` (Web Archive 20240806) · licenza: terzi
 - **2020** · Transparency International Italia (news) — [La libertà passa anche da #SaveDotOrg](https://transparency.it/informati/news/la-liberta-passa-anche-da-savedotorg) · copia: `2020/9e1fc12ee9f5` (live) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [GEOLOCALIZZAZIONE CELLULARI E CORONAVIRUS - Un mio parere personale, forse controcorrente](https://twitter.com/fpietrosanti/status/1239455092547387392) · copia: `2020/17a5b2c65b6b` (Web Archive 20200316) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Riflessione sull'efficacia operativa dell'uso massivo di dati di cella non anonimizzati](https://twitter.com/fpietrosanti/status/1240314798975393800) · copia: `2020/5fcd162707b7` (Web Archive 20200318) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Contact tracing su base cella con notifica SMS, non una App](https://twitter.com/fpietrosanti/status/1240455984746844160) · copia: `2020/95beee5634d6` (Web Archive 20200319) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Comunicazioni massive per rilevamento focolai alto rischio: serve comunicazione geo-parame](https://twitter.com/fpietrosanti/status/1241681924499873792) · copia: `2020/2806f044c4aa` (Web Archive 20200322) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Niente app: servono soluzioni senza opt-in eseguite lato operatore telefonico](https://twitter.com/fpietrosanti/status/1241721501679792128) · copia: `2020/a2150333f476` (Web Archive 20200322) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Concept di autocertificazioni digitali realizzate lato operatore telefonico (a Barbara Car](https://twitter.com/fpietrosanti/status/1241722007458320389) · copia: `2020/ce1ab6317112` (Web Archive 20200322) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — ['Cosa ci si potrebbe fare con elaborazione dati di cella': richiesta di riscontro](https://twitter.com/fpietrosanti/status/1241770094805561351) · copia: `2020/df6d35d9660f` (Web Archive 20200322) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Progetto sviluppato in 4-5 giorni: geolocation cellulare senza dati identificativi in mano](https://twitter.com/fpietrosanti/status/1242021149128695808) · copia: `2020/f3e762fabf90` (Web Archive 20200323) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Proposta progettuale d'impiego di dati di geolocalizzazione cellulare a supporto della eme](https://twitter.com/fpietrosanti/status/1242835276436815874) · copia: `2020/85c98650b222` (Web Archive 20200325) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Contact Tracing: chi decide chi è un contatto a rischio, l'algoritmo o il medico?](https://twitter.com/fpietrosanti/status/1248160457401274368) · copia: `2020/790042ff9eb5` (Web Archive 20200409) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Iniziato webinar su Contact Tracing 10.30-12.30](https://twitter.com/fpietrosanti/status/1248531984139407361) · copia: `2020/9286adf56859` (Web Archive 20200410) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Invito a leggere l'esercizio di ricerca sui dati di cella realizzato un mese prima](https://twitter.com/fpietrosanti/status/1249260006127669248) · copia: `2020/e9e70b3c7841` (Web Archive 20200412) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Analisi dei requisiti normativi sul riuso (open source) delle app di contact tracing](https://twitter.com/fpietrosanti/status/1251838257626861571) · copia: `2020/c8bda9675457` (Web Archive 20200419) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Immuni: licenza libera GNU AGPL3 e non MPL2, per la trasparenza](https://twitter.com/fpietrosanti/status/1252876903788101634) · copia: `2020/d87e03f99acb` (Web Archive 20200430) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Quindi la app Immuni conserva i dati su Google Cloud?](https://twitter.com/fpietrosanti/status/1255938339347271680) · copia: `2020/bbb0fc9ce3dc` (Web Archive 20200506) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Dati di cella e identità telefoniche disponibili alle ASL - Dove/Come?](https://twitter.com/fpietrosanti/status/1256578585483247618) · copia: `2020/ba7b59b1894e` (Web Archive 20200507) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Immuni sarà con licenza opensource AGPLv3 e non MPL2](https://twitter.com/fpietrosanti/status/1261755274173526018) · copia: `2020/270de0c39b20` (Web Archive 20200516) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Codici sorgenti #immuni: codice app disponibile, codice server no](https://twitter.com/fpietrosanti/status/1264810363972960263) · copia: `2020/3890bafb59cc` (Web Archive 20200525) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — ['Il progetto di contact tracing in collaborazione con gli operatori telefonici che scrissi](https://twitter.com/fpietrosanti/status/1267159597183381506) · copia: `2020/72ba104a7309` (Web Archive 20200531) · licenza: terzi
+- **2020** · Twitter/X (@fpietrosanti) — [Archivio zip di 1.9GB dei Verbali CTS Covid in PDF con OCR e testo ricercabile](https://twitter.com/fpietrosanti/status/1302572387725082624) · copia: `2020/61089c1d7e49` (Web Archive 20200906) · licenza: terzi
+- **2020** · Twitter (@iGio90, Giovanni Rocca) — [first audit on italian #covid19 application I'm a bit scared to do the others now. @fpietr](https://twitter.com/iGio90/status/1244250696125427715) · copia: `2020/b1ef322b6a90` (Web Archive 20200329) · licenza: terzi
+- **2020** · Eumans / alcuoredellapolitica.net (Marco — [Condivisi. Covid-19, quali dati per quali diritti? (webinar 10 aprile 2020)](https://web.archive.org/web/20200428182650/https://www.alcuoredellapolitica.net/condivisi-covid-19-quali-dati-quali-diritti-10-aprile-2020) · copia: `2020/bcc6f8f4235d` (Web Archive 20200523) · licenza: terzi
 - **2020** · Adnkronos — [M5S, hacker sfidano Casaleggio: arriva software Open Rousseau](https://www.adnkronos.com/fatti/politica/2020/10/01/hacker-sfidano-casaleggio-arriva-software-open-rousseau_xhpY4FGXMdkxXNWyHW75xN.html) · copia: `2020/f518c2cf6092` (Web Archive 20201003) · licenza: terzi
 - **2020** · Adnkronos — [M5S, hacker a parlamentari: "Ecco Open Rousseau, così sarete liberi"](https://www.adnkronos.com/fatti/politica/2020/10/02/hacker-parlamentari-ecco-open-rousseau-cosi-sarete-liberi_rqptYFyArlnhnr8BwBKHPP.html) · copia: `2020/403c38ab3435` (Web Archive 20201005) · licenza: terzi
 - **2020** · Agenda Digitale — [Software libero "massacrato" da Trump: un passo verso la sorveglianza globale](https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/) · copia: `2020/d192de242c2d` (Web Archive 20200625) · licenza: terzi
 - **2020** · Fondazione AIDR (Osservatorio Trasparenz — [Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della](https://www.aidr.it/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/) · copia: `2020/5237002118f2` (Web Archive 20201030) · licenza: terzi
+- **2020** · Associazione Luca Coscioni — [Coronavirus: ascolta tutti i podcast!](https://www.associazionelucacoscioni.it/notizie/comunicati/coronavirus-ascolta-tutte-le-interviste-in-podcast) · copia: `2020/4d27f32431e3` (Web Archive 20200517) · licenza: terzi
 - **2020** · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain) · copia: `2020/28ff2469c850` (Web Archive 20200501) · licenza: terzi
 - **2020** · corriere.it — [M5S, ritardo nei pagamenti: Rousseau taglia i servizi. Evento del 4 ottobre rinviato](https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml) · copia: `2020/7fb9b3016804` (Web Archive 20201010) · licenza: terzi
 - **2020** · Giornalettismo — [Voto elettronico in sperimentazione in Italia? La commissione](https://www.giornalettismo.com/voto-elettronico-sperimentazione-italia/) · copia: `2020/3bdb7427f5e9` (live) · licenza: terzi
@@ -807,6 +854,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · wired.it — [Come sono riuscito a votare due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/) · copia: `2020/047d81756b8a` (Web Archive 20200819) · licenza: terzi
 - **2020** · wired.it — [Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau - Wi](https://www.wired.it/attualita/politica/2020/10/23/rousseau-espulsione-iscritto-doppio-voto-casaleggio/) · copia: `2020/cee82319fca6` (Web Archive 20201028) · licenza: terzi
 - **2020** · Mojo Italia (YouTube) — [Come difendere il proprio smartphone](https://www.youtube.com/watch?v=JMxc3mgAO7E) · copia: `2020/47d15b9a4026` (live · video locale `media.mp4` (1,298 MB, da caricare su Drive)) · licenza: terzi
+- **2020** · YouTube (Eumans_archive) — [Condivisi. Covid19: quali dati per quali diritti?](https://www.youtube.com/watch?v=uLamuswTq8g) · copia: `2020/53390ce3962a` (Web Archive 20200415 · video locale `media.mp4` (755 MB, da caricare su Drive)) · licenza: terzi
 - **2021** · FOSDEM 2021 (Legal and Policy Issues dev — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license ](https://archive.fosdem.org/2021/schedule/event/agplcompliance/) · copia: `2021/93a94126c6db` (Web Archive 20211020) · licenza: terzi
 - **2021** · FOSDEM 2021 — [FOSDEM 2021 - Fabio Pietrosanti (naif) speaker page](https://archive.fosdem.org/2021/schedule/speaker/fabio_pietrosanti_naif/) · copia: `2021/b94e84acade8` (Web Archive 20220119) · licenza: terzi
 - **2021** · Ethan Lou, Once a Bitcoin Miner: Scandal — [Once a Bitcoin Miner](https://archive.org/details/oncebitcoinminer0000loue) · copia: `2021/69694a319f01` (live) · licenza: terzi
@@ -883,6 +931,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · YouTube — SOS LOGistica - Associazione L — [Costruire COMUNITÀ SOSTENIBILI. Quale ruolo per la LOGISTICA: Convegno SOS LOGistica 2022 ](https://www.youtube.com/watch?v=bPXna2KujUE) · copia: `2022/0a221d505d08` (live · video locale `media.mp4` (286 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [1010. GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.youtube.com/watch?v=fkChBoDdJxw) · copia: `2022/f9712cf38150` (Web Archive 20220513 · video locale `media.mp4` (63 MB, da caricare su Drive)) · licenza: terzi
 - **2023** · Copernicani (in-person event) — [Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins](https://copernicani.it/privacy-by-design-e-privacy-coins/) · copia: `2023/df9cad7c9e11` (Web Archive 20230517) · licenza: terzi
+- **2023** · costabile.net — CyberCoach (Gerardo Cost — [CyberCoach — elenco video, tra cui «Evoluzione dell'hacking con Fabio Pietrosanti (aka Nai](https://costabile.net/cibercoach/) · copia: `2023/4309631c2a3d` (Web Archive 20230607) · licenza: terzi
 - **2023** · Easyteam.org (published school reply) — [La risposta alla nuova richiesta di Monitora PA](https://easyteam.org/2023/03/17/la-risposta-alla-nuova-richiesta-di-monitora-pa) · copia: `2023/0bec90f52835` (Web Archive 20230321) · licenza: terzi
 - **2023** · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html) · copia: `2023/0010b8d42873` (Web Archive 20230117) · licenza: propria
 - **2023** · Monitora PA — [Come (iniziare a) difendere gli studenti da Google](https://monitora-pa.it/2023/02/27/come-difendere-gli-studenti-da-google.html) · copia: `2023/328e785dd965` (Web Archive 20230330) · licenza: propria

@@ -279,6 +279,24 @@
    "set": {
     "note": "2026-09-23: letto per intero: l'articolo racconta la vicenda della licenza AGPL fra ANAC e Hermes Center ma NON contiene il nome di Fabio (cita solo Marco Bondello). Da decidere con Fabio se tenerlo come contesto del progetto o escluderlo."
    }
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=mAtBH2hkAcg",
+   "set": {
+    "date": "2023-01-17",
+    "year": 2023,
+    "outlet": "YouTube, canale CyberCoach (Gerardo Costabile)",
+    "verified": true,
+    "note": "CyberCoach di Gerardo Costabile, pubblicato il 2023-01-17 (data-date 1673952750 nel feed YouTube della pagina https://costabile.net/cibercoach/, letta il 2026-09-24). Descrizione: «Oggi incontriamo Fabio Pietrosanti (aka Naif), un hacker da circa 25 anni… mindset dell'hacking… tre libri must to read». Il video su YouTube non è più disponibile e il canale @cyber_coach risponde 404 (canale rimosso): nessuna ricopia trovata."
+   }
+  },
+  {
+   "url": "http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/",
+   "set": {
+    "date": "2020-03-29",
+    "verified": true,
+    "note": "Audit di Giovanni Rocca dell'app Regione Lazio LAZIOdrCOVID, 29/03/2020. Verificato 2026-09-24 sulla capture Wayback 20200329: «a friend of me (FABIO – Naif – PIETROSANTI) asked me to take a look»; i test sono stati fatti con il codice fiscale di Fabio e dei familiari, consenzienti. Vulnerabilità: chiave DES fissa nell'app, lettura del medico di base dal codice fiscale, SMS di verifica illimitati, token utilizzabile su qualsiasi paziente (lettura referti/chat, scrittura parametri). Il problema principale fu corretto in circa 6 ore lo stesso giorno. I due gist GitHub con le richieste catturate (contenevano dati di Fabio) sono 404."
+   }
   }
  ],
  "open_questions": [

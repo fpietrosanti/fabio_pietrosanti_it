@@ -1,0 +1,80 @@
+[
+ {
+  "date": "2019-11-15",
+  "year": 2019,
+  "type": "documento",
+  "outlet": "GitHub (osservatoriosicurezza)",
+  "title": "Issue #2 - Current State of Pipeline 0",
+  "url": "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/2",
+  "language": "en",
+  "role": "autore",
+  "note": "Verificato via GitHub API: thread tecnico su come definire il perimetro IP italiano (RIPE, BGP, GeoIP, definizione di legge DL 105/2019). Commenti di fpietrosanti del 2019-11-17 e 2019-11-18; citato più volte (@fpietrosanti) da Carlo Mara. Altri partecipanti: CarloMara, simoneonofri, fnzv, rfc1036, gbonfiglio, Antonio-Prado.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-11-13",
+  "year": 2019,
+  "type": "repository",
+  "outlet": "GitHub (osservatoriosicurezza)",
+  "title": "Pull request #1 - Update README.md (vodkina-patch-1), merged by fpietrosanti",
+  "url": "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/pull/1",
+  "language": "it",
+  "role": "progetto",
+  "note": "Verificato via API: PR aperta da vodkina (Yvette Agostini) il 2019-11-13, merge eseguito da fpietrosanti il 2019-11-14 (merge commit 43e0f325, autore 'Fabio (naif) Pietrosanti').",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2020-01-03",
+  "year": 2020,
+  "type": "repository",
+  "outlet": "GitHub (osservatoriosicurezza)",
+  "title": "Commit 'Store on github project logos' (ossci-con-titolo.jpeg, ossci-senza-titolo.jpeg)",
+  "url": "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/commit/052275da0ceeb61ef62373a5553ea1e43fa11d0f",
+  "language": "en",
+  "role": "autore",
+  "note": "Verificato via API: ultimo commit del repo, autore 'Fabio (naif) Pietrosanti' (fpietrosanti), 2020-01-03; aggiunge i loghi OSSCI. Data dell'ultima attività sul repo principale.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-11-12",
+  "year": 2019,
+  "type": "pagina",
+  "outlet": "GitHub",
+  "title": "OSPCI - Osservatorio Sicurezza del Perimetro Cibernetico Italiano (organizzazione GitHub)",
+  "url": "https://github.com/osservatoriosicurezza",
+  "language": "it",
+  "role": "progetto",
+  "note": "Org creata 2019-11-12, 1 solo repo pubblico; descrizione rimanda al Google Doc, campo blog al gruppo Telegram. Membri non pubblici. Solo progetto, nome assente nella pagina org (i commit nel repo sono di fpietrosanti).",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2020-07-28",
+  "year": 2020,
+  "type": "documento",
+  "outlet": "GitHub (osservatoriosicurezza)",
+  "title": "Issue #3 - Dataset generation PoC and next steps (?)",
+  "url": "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/3",
+  "language": "en",
+  "role": "progetto",
+  "note": "Aperta da fnzv: PoC di generazione automatica di liste IPv4 italiane da API RIPE via GitLab CI. Nessun commento. Solo progetto, nome assente.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2020-07-25",
+  "year": 2020,
+  "type": "repository",
+  "outlet": "GitLab (fnzv)",
+  "title": "fnzv / ossci-dataset",
+  "url": "https://gitlab.com/fnzv/ossci",
+  "language": "en",
+  "role": "progetto",
+  "note": "Repo PoC collegato a OSSCI (creato 2020-07-25, ultima attività 2020-09-12): liste giornaliere IPv4 italiane da RIPE in CSV/JSON/RAW. Solo progetto, nome assente.",
+  "verified": false,
+  "known": false
+ }
+]

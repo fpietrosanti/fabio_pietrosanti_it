@@ -303,6 +303,11 @@ def _yt_dlp(url, folder, mode, template):
     return {"error": (err[-1] if err else f"exit {p.returncode}")[:300]}
 
 
+# Statuses set by hand after reviewing a copy (see docs/PROBLEMI-APERTI.md B3-bis)
+CLASSIFIED = {"obtained-org-only", "obtained-book-pending", "obtained-media-only", "obtained-name-absent",
+              "obtained-stub", "closed-by-decision"}
+
+
 def main():
     args = sys.argv[1:]
     out = Path(args.pop(0))
@@ -335,6 +340,8 @@ def main():
         if prev and prev["status"] != "media-not-downloaded" and not retry:
             continue
         rec = copy_item(it, out)
+        if prev and prev["status"] in CLASSIFIED and rec["status"] not in ("obtained", "video-obtained"):
+            continue  # a retry that did not find the name must not undo a manual classification
         state[iid] = rec
         print(f"{rec['status']:<22} {rec.get('method') or '':<8} {it.get('year')} {rec['url'][:90]}", flush=True)
         json.dump(sorted(state.values(), key=lambda r: (r["year"] or 0, r["url"])), io.open(state_path, "w", encoding="utf-8"), indent=1, ensure_ascii=False)

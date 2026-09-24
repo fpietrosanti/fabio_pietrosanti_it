@@ -83,8 +83,8 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Infosec Island host sparito, Zhihu 403). Prossimo: rileggere i 🟡 nel Chrome di Fabio (DOM) e cercare altre capture.
 - [ ] Video/audio: 69 voci con video/audio (2026-09-18: +9 registrazioni Radio Radicale multi-parte, +1 Spreaker via API).
   **Fatto:** i 20 interventi di Fabio su Radio Radicale ritagliati uno per uno con trascrizione automatica
-  (`tools/radioradicale_clips.py`, elenco in `radioradicale_clips.json`). Resta: YouTube mAtBH2hkAcg (2019)
-  non più disponibile → cercare copie altrove; ritagliare anche i convegni non Radio Radicale (e-privacy su YouTube ecc.).
+  (`tools/radioradicale_clips.py`, elenco in `radioradicale_clips.json`). Chiuso: YouTube mAtBH2hkAcg (CyberCoach 2023, account cancellato)
+  non recuperabile salvo copia di Costabile. Resta: ritagliare anche i convegni non Radio Radicale (e-privacy su YouTube ecc.).
 - [ ] **Video su Google Drive**: Fabio li caricherà su Drive; poi inserire il link Drive di ogni video in
   `copies.json` (campo `video.drive_url`) e mostrarlo in `docs/COPIE-OFFLINE.md` e nella futura pagina del sito.
   Finché non c'è il link, i video restano solo in locale (21,6 GB, fuori da GitHub).
@@ -136,6 +136,26 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   cibernetico italiano (Telegram + documento di specifica, anno da trovare); COVID mappatura focolai con dati di cella;
   COVID vulnerabilità app della Regione Lazio con Giovanni Rocca. Query in coda; cercare anche su Telegram (t.me), GitHub,
   Google Docs pubblici, Web Archive.
+  **Passata 2026-09-24 (3 agenti: `pass4_ossci`, `pass4_covid_dati_cella`, `pass4_covid_app_lazio`) → +39 voci.**
+  - **OSSCI**: il nome GitHub è «OSPCI – Osservatorio Sicurezza del **Perimetro** Cibernetico Italiano»; org creata il
+    12/11/2019, ultimo commit 03/01/2020 (loghi, firmato «Fabio (naif) Pietrosanti»), ultima attività lug–set 2020
+    (issue #3 e fork GitLab `fnzv/ossci`). Verificati: issue #2 «Pipeline 0» (commenti di Fabio 17-18/11/2019), PR #1
+    unita da lui, commit dei loghi. Partecipanti: Y. Agostini, C. Mara, S. Onofri, A. Prado, G. Bonfiglio, fnzv, rfc1036.
+    Il gruppo Telegram (230 membri) è **privato**: il link d'invito **non** è stato messo nel repo pubblico. Nessuna
+    copertura stampa.
+  - **COVID dati di cella**: trovata la **proposta originale** (Google Doc «Digitalizzazione processi gestione emergenziale
+    coronavirus assistiti da dati di geo-location mobile», ~20/03/2020, «L'autore primario è Fabio Pietrosanti», pareri
+    legali di Aterno, Piana, Saetta, Perri e altri) + **20 tweet di Fabio** (mar–set 2020) che ne ricostruiscono la storia
+    (post in lista Copernicani 18/3, annuncio 25/3, bilancio 31/5), AGPLv3 per Immuni, archivio verbali CTS (6/9).
+    Nuove anche: webinar Eumans «Condivisi» 10/04/2020 (relatore), lettera aperta Nexa 20/04/2020 e lettera ANORC alla
+    ministra Pisano 24/04/2020 (firmatario «(naif)»), scheda podcast Associazione Luca Coscioni.
+  - **App LAZIOdrCOVID**: il post di Giovanni Rocca del 29/03/2020 **nomina Fabio** («FABIO – Naif – PIETROSANTI», test fatti
+    con il suo codice fiscale) → verificato; tweet di lancio di Rocca che tagga @fpietrosanti. Stampa: solo richiami
+    indiretti senza nome (gioxx.org 2020, Il Fatto/Rapetto 2021, il Giornale 2021); nessun articolo delle grandi testate.
+  **Resta** (bloccato dal Web Archive «Temporarily Offline» durante la sessione): capture giugno 2021 del Google Doc OSSCI
+  (chi l'ha modificato); articolo StartMag sul codice sorgente di Immuni (403, Wayback non caricava); `verbalictscovid.
+  infosecurity.ch` (offline, nessuna capture); 2 post Facebook di Fabio (16/03 e 09/04/2020, servono login, mai archiviati);
+  scansione fine dei ~700 tweet archiviati dopo aprile 2020 (filtrati solo per parole chiave).
 - [ ] Foto del «生物极客闭门论坛» nell'articolo WeChat ufficiale TimePie del 12/9: salvarle nell'archivio.
 - [ ] Video ufficiali TimePie: Fabio avviserà quando pubblicati → scaricarli e archiviarli.
 - [ ] Progetto AIRE (voto elettronico, italiani all'estero): raccogliere tutte le fonti e documentarlo.
@@ -145,6 +165,16 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [ ] **Sito Hermes Center** in ripristino da Fabio: quando online, indicizzare tutti i progetti, paper e talk di Fabio per
   Hermes, GlobaLeaks, CRVD, Copernicani (come fatto per CRVD il 18/09).
 - [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
+
+## Note sessione 2026-09-24
+- **734 voci** in `data/media.json` (+40): 39 dai «progetti mai partiti» (sopra) + la pagina CyberCoach di Gerardo Costabile.
+- **Video YouTube `mAtBH2hkAcg` («Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)»)**: non è del 2019 ma del
+  **17/01/2023**, canale **CyberCoach di Gerardo Costabile**. Il canale YouTube è stato rimosso (404); la pagina
+  `costabile.net/cibercoach/` conserva titolo, data e descrizione → nuova voce verificata, data corretta via `override`.
+- Web Archive irraggiungibile per buona parte della sessione (connessioni rifiutate / «Temporarily Offline»).
+- Fabio (24/09): Gerardo Costabile conferma che l'account Google di DeepCyber è stato cancellato, e con esso il canale
+  YouTube CyberCoach → il video del 2023 non tornerà online.
+- `archive_copies.py`: `--retry-failed` non annulla più le classificazioni manuali (65 ripristinate da git).
 
 ## Note sessione 2026-09-23 (sera)
 - **694 voci** in `data/media.json` (+2). Copie offline: 555 ottenute, 5 non ottenute, 0 in attesa.

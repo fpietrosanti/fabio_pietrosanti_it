@@ -1,10 +1,10 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-09-23**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
-Stato generale: **692 voci** (599 verificate); **tutte** le copie processate — 553 con il nome verificato dentro la copia,
-82 video/audio scaricati, il resto suddiviso per causa nella tabella B3-bis (dettaglio in `COPIE-OFFLINE.md`).
+Aggiornato il **2026-09-24**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Stato generale: **734 voci**; **tutte** le copie processate — 585 con il nome verificato dentro la copia,
+83 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
-## A0. Cose che servono da te (aggiornato 2026-09-23)
+## A0. Cose che servono da te (aggiornato 2026-09-24)
 
 1. **⚠️ Dati personali pubblicati da una scuola.** L'Istituto Comprensivo «Luciano Manara» di Roma ha pubblicato il PDF
    della tua richiesta FOIA di MonitoraPA con **data e luogo di nascita, codice fiscale e indirizzo di residenza**
@@ -18,6 +18,15 @@ Stato generale: **692 voci** (599 verificate); **tutte** le copie processate —
 4. **PDF originali dei comunicati stampa PrivateWave** del 18/10/2010 (EN e ES): li hai?
 5. **Senato**: senato.it è dietro un WAF e non è archiviato. Se hai un browser con sessione residenziale, la scheda
    leg18 `ProcANLscheda43472` direbbe chi rappresentò Hermes nell'audizione sulla direttiva copyright.
+
+6. **Nuove (24/09).** (a) **Gruppo Telegram OSSCI** (privato, 230 membri): il link d'invito l'ho tenuto fuori dal repo
+   pubblico — vuoi che l'osservatorio compaia nel sito, e con quale nome (OSSCI o OSPCI, come su GitHub)?
+   (b) **Proposta COVID sui dati di cella** (Google Doc, marzo 2020): i nomi dei giuristi e commentatori sono nel
+   documento pubblico; li citiamo nel sito o solo «con il contributo di vari esperti»? (c) I due **post Facebook** del
+   16/03 e 09/04/2020 sulla geolocalizzazione: se me ne dai il testo (o un export Facebook), completo la storia.
+   (d) **Intervista CyberCoach 2023**: account DeepCyber cancellato (confermato da Costabile). Costabile ha ancora il
+   file originale in locale? Se sì, basta che te lo passi e lo archivio.
+   (e) Il sito **verbalictscovid.infosecurity.ch** (archivio dei verbali CTS) è offline e mai archiviato: hai i file?
 
 ## A. Problemi nella RICERCA
 
@@ -79,19 +88,34 @@ che in realtà era stato recuperato il 19/09.
   parla di PrivateGSM e ZRTP ma **non ti nomina** → escluso per la tua regola. Resta `computerworld.ch/aktuell/news/50435`
   (mai archiviato, sito riorganizzato).
 
-### B1. Non ottenute (5)
+### B1. Non ottenute (6)
 | Anno | Fonte | Motivo | Proposta |
 |---|---|---|---|
 | 2000 | Hackmeeting 2000 (Hackit00), «Letteratura Cyberpunk» | Pagina live sparita (404; in HTTPS il certificato di `hackmeeting.org` non corrisponde). Nel Web Archive c'è **una sola** capture (20260827004502, 1.310 byte) e la replay risponde **500** su ogni forma di URL | Guasto lato Internet Archive, non un vicolo cieco: **riprovare fra qualche giorno** |
 | 2010 | PrivateWave press release EN (PDF) | 403 sul sito, mai archiviato dal Web Archive | Fabio ha i PDF originali di PrivateWave? |
 | 2010 | PrivateWave press release ES (PDF) | idem | idem |
 | 2010 | Radio Monte Carlo, audio intervista | 404, nessuna copia archiviata | Chiedere a RMC o cercare registrazioni personali |
+| 2020 | verbalictscovid.infosecurity.ch (archivio verbali CTS) | Sito offline, nessuna capture nel Web Archive | Hai i file? (vedi A0.6e) |
 | 2021 | IGI Global, *Research Anthology on Business Aspects of Cybersecurity* | La scheda Google Books (`id=KOREEAAQBAJ`) risponde 404 | Serve la **chiave API Google Books** (vedi A0.2 / A4) |
 | ~~2011~~ | ~~Infosec Island, «ZRTP Voice Encryption is Finally a Standard»~~ | **Risolto il 19/09**: recuperato dal Web Archive (capture 20111206), firma «Contributed By: Fabio Pietrosanti» presente nella copia `2011/6eef821a1b3c` | — |
 | ~~2026~~ | ~~Zhihu sul TimePie Forum~~ | **Risolto 18/09**: letto nel Chrome di Fabio, salvato l’estratto con il suo intervento | Web Archive «save» ha risposto 500: riprovare |
 
 ### B2. Video non scaricabile (1)
-- YouTube `mAtBH2hkAcg` (2019): «video non disponibile». Pagina salvata. Proposta: cercare lo stesso intervento su altri canali o chiedere all'organizzatore.
+- YouTube `mAtBH2hkAcg`: «video non disponibile». **Chiarito il 24/09**: è l'intervista del **17/01/2023** per il canale
+  **CyberCoach di Gerardo Costabile** (non 2019). Il canale è stato rimosso da YouTube (404) e non esistono ricopie; la
+  pagina `costabile.net/cibercoach/` conserva titolo, data e descrizione (ora voce verificata).
+  **Confermato da te (24/09, via Costabile):** l'account Google di DeepCyber è stato cancellato e con esso il canale
+  YouTube: il video non tornerà online. Unica via: una copia locale di Costabile o tua.
+
+### B3-ter. 2026-09-24 — copie delle voci nuove e un bug corretto
+- Le 40 voci nuove hanno tutte una copia. Da **solo organizzazione** passano a **32** (+3: pagina GitHub OSSCI, issue #3,
+  repo GitLab `fnzv/ossci`); **nome assente** a **16** (+5 pagine che parlano dell'audit LAZIOdrCOVID senza nominarti:
+  post di Rocca del 01/04/2020, gioxx.org, tweet @mobilesecurity_, Il Fatto 2021, il Giornale 2021).
+- Recuperati a mano: export del Google Doc sui dati di cella, pagina CyberCoach live, lettera Nexa live (la capture del
+  21/04/2020 precedeva la tua firma).
+- **Bug corretto** in `archive_copies.py`: `--retry-failed` riportava a «non confermata» le 65 copie classificate a mano
+  il 23/09. Ripristinate da git; ora un nuovo tentativo sostituisce la classificazione solo se trova il tuo nome.
+- **Hackmeeting 2000**: ancora irrecuperabile, oggi il Web Archive rifiutava proprio le connessioni.
 
 ### B3-bis. Ripassata del 2026-09-23 — i 🟡 sono stati sciolti in categorie precise
 
