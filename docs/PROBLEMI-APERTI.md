@@ -1,7 +1,7 @@
 # Problemi aperti: ricerca e copie offline
 
 Aggiornato il **2026-09-25**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
-Stato generale: **782 voci**; **tutte** le copie processate — 610 con il nome verificato dentro la copia,
+Stato generale: **782 voci**; **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
 ## A0. Cose che servono da te (aggiornato 2026-09-24)
@@ -101,7 +101,9 @@ che in realtà era stato recuperato il 19/09.
   GData legacy restituisce il frammento con il riferimento «Pietrosanti, F., & Aterno, S. (2017)».
 - **Radio 24**: trascrizione automatica locale (`tools/transcribe_media.py`, faster-whisper). La puntata del 02/03/2018
   conferma: «Ne voglio parlare con Fabio Pietrosanti che è presidente… del centro Hermes» (min 40:59). Scaricati gli
-  MP3 mancanti (11/2018, 02/2019, 06/2022; URL `radio24_audio/<anno>/<aammgg>-2024.mp3`), trascrizioni in corso.
+  MP3 mancanti (11/2018, 02/2019, 06/2022; URL `radio24_audio/<anno>/<aammgg>-2024.mp3`). **Tutte e 7 le voci Radio 24
+  confermate** (5 MP3 trascritti, 2 pagine collegate alla puntata): i 🔊 «solo video/audio» scendono da 11 a **4**
+  (Sky TG24 2013, RaiNews 2025, Bilibili ×2 — prossimo passo: stessa trascrizione sui video locali).
 - Nuova non ottenuta: `notizieoggi.com` (ripresa del Post 2022), sito giù e mai archiviato — irrilevante (copia del Post
   già presente).
 

@@ -6,12 +6,12 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 ## Totali
 
 - Voci in `data/media.json`: **782**; già processate: **820**; ancora da processare: **0**
-- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **480** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **610**
+- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **487** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **617**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **42**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **28**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **13**
-- 🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione): **11**
+- 🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione): **4**
 - 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **3**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **21**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
@@ -45,11 +45,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2015 | 24 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 13 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 56 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 35 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 21 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 40 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 22 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2020 | 75 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 26 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 44 | 7 | 0 | 0 | 0 | 0 | 1 |
+| 2022 | 45 | 7 | 0 | 0 | 0 | 0 | 1 |
 | 2023 | 9 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
@@ -140,20 +140,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
 - 🔊 **2013** · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) · licenza: terzi  
   2026-09-23: la copia e' una pagina video: il suo intervento sta nell'audio/video, non nel testo della pagina. Conferma possibile solo dalla trascrizione.
-- 🔊 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180302-2024.mp3) · licenza: terzi  
-  2026-09-23: file audio della puntata: l'intervento sta nella registrazione, non in un testo. Serve la trascrizione.
-- 🔊 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Hyperloop, TOR e Industria 4.0 (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180831-2024.mp3) · licenza: terzi  
-  2026-09-23: file audio della puntata: l'intervento sta nella registrazione, non in un testo. Serve la trascrizione.
-- 🔊 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (current page URL)](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/cybersecurity--il-mondo-di-tor--accordo-skynetflix-214900-2419246682962353) · licenza: terzi  
-  2026-09-23: pagina della puntata di Radio 24: la scheda elenca i temi ma non i nomi degli ospiti; l'intervento sta nell'audio. Serve la trascrizione del podcast.
-- 🔊 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Hyperloop, TOR e Industria 4.0](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/hyperloop-tor-e-industria-40-152305-2419246668444300) · licenza: terzi  
-  2026-09-23: pagina della puntata di Radio 24: la scheda elenca i temi ma non i nomi degli ospiti; l'intervento sta nell'audio. Serve la trascrizione del podcast.
-- 🔊 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Voto digitale: rischi e vantaggi - Trasformazione digitale in Italia](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/voto-digitale-rischi-e-vantaggi--trasformazione-digitale-in-italia-210510-2419246682960852) · licenza: terzi  
-  2026-09-23: pagina della puntata di Radio 24: la scheda elenca i temi ma non i nomi degli ospiti; l'intervento sta nell'audio. Serve la trascrizione del podcast.
-- 🔊 **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711) · licenza: terzi  
-  2026-09-23: pagina della puntata di Radio 24: la scheda elenca i temi ma non i nomi degli ospiti; l'intervento sta nell'audio. Serve la trascrizione del podcast.
-- 🔊 **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/google-analitycs--iot-e-controllo-accessi--beauty-tech--taxi-volanti-200500-2419319461594695) · licenza: terzi  
-  2026-09-23: pagina della puntata di Radio 24: la scheda elenca i temi ma non i nomi degli ospiti; l'intervento sta nell'audio. Serve la trascrizione del podcast.
 - 🔊 **2025** · Rai 1 - Tg1 (servizio di Barbara Carfagn — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html) · licenza: terzi  
   2026-09-23: la copia e' una pagina video: il suo intervento sta nell'audio/video, non nel testo della pagina. Conferma possibile solo dalla trascrizione.
 - 🔊 **2026** · Bilibili — 时光派官方 — [观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53")](https://www.bilibili.com/video/BV1M7YX67EsD/) · licenza: terzi  
@@ -777,6 +763,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Tor Project GitLab (ex trac) — [Tor web #133 «Introduce TLS MITM Detection on Tor Project websites»](https://gitlab.torproject.org/tpo/web/tpo/-/work_items/133) · copia: `2018/df574241acf4` (api) · licenza: propria
 - **2018** · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri) · copia: `2018/961477acc443` (Web Archive 20180409) · licenza: terzi
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/) · copia: `2018/7e2f69f4b97b` (Web Archive 20250811) · licenza: terzi
+- **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180302-2024.mp3) · copia: `2018/c539f62a311d` (live) · licenza: terzi
+- **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Hyperloop, TOR e Industria 4.0 (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180831-2024.mp3) · copia: `2018/82199ad02d66` (live) · licenza: terzi
 - **2018** · Privacy Camp 2018 / EDPS-Civil Society S — [EDPS-Civil Society Summit 2018](https://privacycamp.eu/2018-edps-civil-society-summit/) · copia: `2018/ab26c076e307` (Web Archive 20180325) · licenza: terzi
 - **2018** · Rai Radio1 (servizio di Paola Guarnieri, — [A Padova il raduno degli hacker. Pietrosanti: "Altro che pirati, siamo i cavalieri del web](https://soundcloud.com/user-873190463/a-padova-il-raduno-degli-hacker-pietrosanti-altro-che-pirati-siamo-i-cavalieri-del-web) · copia: `2018/5392321adb9b` (live) · licenza: terzi
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [Big Brother Awards Italia 2018 - video (ep2018se_20_bba_awards.mp4)](https://urna.winstonsmith.org/materiali/2018/video/ep2018se_20_bba_awards.mp4) · copia: `2018/d0172f56532c` (Web Archive 20180912) · licenza: terzi
@@ -793,6 +781,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Key4biz — [App per il ciclo mestruale, a rischio la privacy piu intima](https://www.key4biz.it/app-per-il-ciclo-mestruale-a-rischio-la-privacy-piu-intima/218397/) · copia: `2018/8d3cbbfb68f2` (Web Archive 20220625) · licenza: terzi
 - **2018** · lastampa.it — [La rivolta degli informatici contro Casaleggio - La Stampa](https://www.lastampa.it/politica/2018/02/08/news/la-rivolta-degli-informatici-contro-casaleggio-1.33976791/) · copia: `2018/16e30881fc4b` (Web Archive 20190718) · licenza: terzi
 - **2018** · Radio1 Rai (via LinkedIn Pulse, Paola Gu — [A Padova il raduno degli hacker: Pietrosanti: "Non chiamateci pirati, siamo cavalieri del ](https://www.linkedin.com/pulse/padova-il-raduno-degli-hacker-pietrosanti-non-pirati-siamo-guarnieri?trk=public_profile_article_view) · copia: `2018/88836bbf4796` (live) · licenza: terzi
+- **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (current page URL)](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/cybersecurity--il-mondo-di-tor--accordo-skynetflix-214900-2419246682962353) · copia: `2018/6a010dcecbf7` (live) · licenza: terzi
+- **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Hyperloop, TOR e Industria 4.0](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/hyperloop-tor-e-industria-40-152305-2419246668444300) · copia: `2018/a68eb372f836` (Web Archive 20250722) · licenza: terzi
+- **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Voto digitale: rischi e vantaggi - Trasformazione digitale in Italia](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/voto-digitale-rischi-e-vantaggi--trasformazione-digitale-in-italia-210510-2419246682960852) · copia: `2018/030a7c9ac961` (live) · licenza: terzi
 - **2018** · Master Anticorruzione, Universita di Rom — [Societa civile e Whistleblowing - Profili tecnici delle piattaforme di segnalazione, organ](https://www.radioradicale.it/scheda/533637/) · copia: `2018/032d24b9b6bb` (live · video locale `media.mp4` (979 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · Radio Radicale — [Società civile e Whistleblowing - 2a edizione del Master Anticorruzione dell'Università](https://www.radioradicale.it/scheda/533637/societa-civile-e-whistleblowing-2a-edizione-del-master-anticorruzione-delluniversita) · copia: `2018/02f0f9b18dd1` (Web Archive 20191111 · video locale `media.mp4` (979 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · e-privacy XXIII, Bologna - Radio Radical — [Singolarita: IoT, A.I., fake news e bolle informative - e-privacy XXIII - Big Brother Awar](https://www.radioradicale.it/scheda/543790/) · copia: `2018/3426798d6f57` (live · video locale `media.00.mp4` (1,818 MB, da caricare su Drive)) · licenza: terzi
@@ -831,6 +822,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/) · copia: `2019/b455b7db3090` (Web Archive 20190410) · licenza: propria
 - **2019** · AGI - Agenzia Italia (blog Cybersecurity — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://www.agi.it/blog-italia/cybersecurity/post/2019-03-09/blockchain_rousseau_voto_elettronico_casaleggio-5117572/) · copia: `2019/347043478153` (Web Archive 20240419) · licenza: terzi
 - **2019** · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/) · copia: `2019/f197572afc0f` (Web Archive 20191122) · licenza: terzi
+- **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711) · copia: `2019/05160b2a3be4` (live) · licenza: terzi
 - **2019** · repubblica.it — [Quando lo smartphone diventa una spia. "In Italia oltre mille vittime di stalkerware"](https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/) · copia: `2019/a64ddc934fe0` (Web Archive 20191004) · licenza: terzi
 - **2019** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Online? No, grazie, e ti spiego perché...](https://www.spreaker.com/episode/voto-online-no-grazie-e-ti-spiego-perche--17308523) · copia: `2019/f6345cb62800` (live · video locale `media.mp3` (61 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE) · copia: `2019/26f28fdcd90f` (Web Archive 20190313 · video locale `media.mp4` (54 MB, da caricare su Drive)) · licenza: terzi
@@ -989,6 +981,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Università LIUC (Castellanza/Varese) — S — [Costruire comunità sostenibili. Quale ruolo per la logistica? (Convegno SOS LOGistica 2022](https://www.liuc.it/eventi/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/) · copia: `2022/73819474bb0d` (Web Archive 20220814) · licenza: terzi
 - **2022** · Partito Pirata — [«Cara MonitoraPA, fammi causa! Saluti, Partito Pirata»](https://www.partito-pirata.it/2022/09/01/il-partito-pirata-risponde-alle-minacce-di-monitorapa-sbagliate-tecnicamente-e-politicamen/) · copia: `2022/80fbfaf1344d` (live) · licenza: terzi
 - **2022** · Privacy Italia — [Google Analytics rimosso da 3.400 siti della PA, grazie a MonitoraPa: "Ora un esposto al G](https://www.privacyitalia.eu/google-analytics-rimosso-da-3-400-siti-della-pa-grazie-a-monitorapa-ora-un-esposto-al-garante-privacy/16760/) · copia: `2022/e2a84062096e` (Web Archive 20220526) · licenza: terzi
+- **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/google-analitycs--iot-e-controllo-accessi--beauty-tech--taxi-volanti-200500-2419319461594695) · copia: `2022/21425bf14783` (Web Archive 20230928) · licenza: terzi
 - **2022** · Rai Radio 1 - Eta Beta — [Eta Beta del 05/03/2022 - Guerre di rete, ecco chi sono i soldati del cyberspazio](https://www.raiplaysound.it/audio/2022/03/Eta-Beta-del-05032022-bfe193b3-3441-4fe7-875e-6d26d85e70f0.html) · copia: `2022/ade4f4362b85` (Web Archive 20220701) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora (Spreak — [1064. MonitoraPA ha mandato una PEC a 8254 scuole](https://www.spreaker.com/episode/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole-quali-le-domande-e-cosa-rispondere-con-42lf-it--51323447) · copia: `2022/4cdfae9d5870` (live · video locale `media.mp3` (53 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora (Spreak — [GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.spreaker.com/episode/google-analytics-e-pubbliche-amministrazioni-8-000-pa-sono-fuori-legge-ed-ora--49784871) · copia: `2022/856a89da52a2` (live · video locale `media.mp3` (28 MB, da caricare su Drive)) · licenza: terzi
