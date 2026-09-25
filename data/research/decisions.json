@@ -227,6 +227,10 @@
   {
    "url": "https://sushi.apogeonline.com/articoli/un-raggio-di-luce-su-smau-raoul-chiesa/",
    "reason": "Blocco Google 2026-09-25: doppione (sottodominio sushi.) dell'articolo gia' in archivio su www.apogeonline.com"
+  },
+  {
+   "url": "https://www.bilibili.com/video/BV1M7YX67EsD/",
+   "reason": "Fabio 2026-09-25: riassunto TimePie da 32 s del forum biohacker: lui non compare nel video"
   }
  ],
  "override": [

@@ -5,15 +5,15 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **769**; già processate: **820**; ancora da processare: **0**
-- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **486** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **616**
+- Voci in `data/media.json`: **768**; già processate: **820**; ancora da processare: **0**
+- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **487** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **617**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **42**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **16**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **13**
-- 🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione): **4**
+- 🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione): **2**
 - 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **3**
-- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **34**
+- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **35**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
 - 🎬 Video/audio scaricato (+ pagina): **85**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
@@ -53,7 +53,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2023 | 9 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2026 | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -130,6 +130,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2026** · Camera dei deputati, IX Commissione (Tra — [Memoria soggetto non audito - Rete diritti umani digitali, osservazioni sull'A.G. n. 421 (](https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.97466.23-07-2026-12-31-56.077.pdf) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
+- ⏹️ **2026** · Bilibili — 时光派官方 — [观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53")](https://www.bilibili.com/video/BV1M7YX67EsD/) · licenza: terzi  
+  Fabio 2026-09-25: non compare nel video: escluso
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
   http 404
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
@@ -167,10 +169,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🔊 **2013** · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) · licenza: terzi  
   2026-09-23: la copia e' una pagina video: il suo intervento sta nell'audio/video, non nel testo della pagina. Conferma possibile solo dalla trascrizione.
 - 🔊 **2025** · Rai 1 - Tg1 (servizio di Barbara Carfagn — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html) · licenza: terzi  
-  2026-09-23: la copia e' una pagina video: il suo intervento sta nell'audio/video, non nel testo della pagina. Conferma possibile solo dalla trascrizione.
-- 🔊 **2026** · Bilibili — 时光派官方 — [观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53")](https://www.bilibili.com/video/BV1M7YX67EsD/) · licenza: terzi  
-  2026-09-23: la copia e' una pagina video: il suo intervento sta nell'audio/video, non nel testo della pagina. Conferma possibile solo dalla trascrizione.
-- 🔊 **2026** · Bilibili — 时光派官方 — [满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)](https://www.bilibili.com/video/BV1u5YX6JECk/) · licenza: terzi  
   2026-09-23: la copia e' una pagina video: il suo intervento sta nell'audio/video, non nel testo della pagina. Conferma possibile solo dalla trascrizione.
 - 🔎 **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 (Gaetano Paolone) - FAQ 2.1.2 «Come si può controllare i](http://www.pluto.it/files/ildp/LDR/ldr5.html#index1124) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
@@ -1026,6 +1024,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · 刘清洋 (WeChat account) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio%20Pietrosanti) · copia: `2026/496f1789e41d` (live) · licenza: terzi
 - **2026** · WeChat — 蓝图臻清健康科技 (刘清洋) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio+Pietrosanti) · copia: `2026/96fd1f8ba081` (live) · licenza: terzi
 - **2026** · 长寿科技情报站 (WeChat account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Pietrosanti%20%E9%95%BF%E5%AF%BF) · copia: `2026/338792df961c` (live) · licenza: terzi
+- **2026** · Bilibili — 时光派官方 — [满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)](https://www.bilibili.com/video/BV1u5YX6JECk/) · copia: `2026/654a0b84fdd6` (live) · licenza: terzi
 - **2026** · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/) · copia: `2026/d6c235f32bf3` (Web Archive 20260604) · licenza: propria
 - **2026** · 7th TimePie Longevity Forum, Shanghai (B — [Biohack.It - Open Software for Structured Human Self-Experimentation](https://www.timepielongevityforum.com/2026agenda) · copia: `2026/6aaea42705f6` (Web Archive 20260819) · licenza: terzi
 - **2026** · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753) · copia: `2026/0ce8a2cc2c65` (browser) · licenza: terzi

@@ -1,7 +1,7 @@
 # Problemi aperti: ricerca e copie offline
 
 Aggiornato il **2026-09-25**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
-Stato generale: **769 voci**; **tutte** le copie processate — 617 con il nome verificato dentro la copia,
+Stato generale: **768 voci**; **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
 ## A0. Cose che servono da te (aggiornato 2026-09-24)
@@ -30,8 +30,9 @@ Stato generale: **769 voci**; **tutte** le copie processate — 617 con il nome 
 
 7. ~~**Nuove (25/09)**~~ — **risposte di Fabio (25/09)**: (a) contesto AIRE/OpenRousseau: le 10 pagine dei suoi
    progetti restano come contesto, le **12 pagine generiche sono escluse** (`decisions.json`); (b) Geo-AIRE su
-   LinkedIn: sì, bozza da proporre; (c) tweet di Carlo Piana: **escluso**. Bilibili TimePie ×2: Fabio era al forum;
-   il video non si trascrive (riassunti in cinese senza nomi), conferma solo visiva da parte sua.
+   LinkedIn: sì, bozza da proporre; (c) tweet di Carlo Piana: **escluso**. Bilibili TimePie: Fabio **compare** nel
+   riassunto del pomeriggio (BV1u5YX6JECk → confermato), **non** nel riassunto da 32 s del forum (BV1M7YX67EsD → escluso).
+   Testo Geo-AIRE approvato → `linkedin-i18n/docs/PROGETTI-APPROVATI-2026-09.md`, da pubblicare.
 
 ## A. Problemi nella RICERCA
 
@@ -101,8 +102,8 @@ che in realtà era stato recuperato il 19/09.
 - **Radio 24**: trascrizione automatica locale (`tools/transcribe_media.py`, faster-whisper). La puntata del 02/03/2018
   conferma: «Ne voglio parlare con Fabio Pietrosanti che è presidente… del centro Hermes» (min 40:59). Scaricati gli
   MP3 mancanti (11/2018, 02/2019, 06/2022; URL `radio24_audio/<anno>/<aammgg>-2024.mp3`). **Tutte e 7 le voci Radio 24
-  confermate** (5 MP3 trascritti, 2 pagine collegate alla puntata): i 🔊 «solo video/audio» scendono da 11 a **4**
-  (Sky TG24 2013, RaiNews 2025, Bilibili ×2 — prossimo passo: stessa trascrizione sui video locali).
+  confermate** (5 MP3 trascritti, 2 pagine collegate alla puntata): i 🔊 «solo video/audio» scendono da 11 a **2**
+  (Sky TG24 2013, RaiNews 2025 — prossimo passo: stessa trascrizione sui video locali).
 - Nuova non ottenuta: `notizieoggi.com` (ripresa del Post 2022), sito giù e mai archiviato — irrilevante (copia del Post
   già presente).
 

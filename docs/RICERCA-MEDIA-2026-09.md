@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1017**; dopo deduplica: **769**
+- Risultati grezzi dalle ricerche: **1017**; dopo deduplica: **768**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 734**
-- Verificati aprendo la pagina: **657**; solo da risultato di ricerca: **112**
+- **Nuovi rispetto al vecchio sito: 733**
+- Verificati aprendo la pagina: **657**; solo da risultato di ricerca: **111**
 
-Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Video 58, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, Report 18, Comunicato 17, documento 16, articolo 12, Slide 11, Podcast 10, Paper 9, TV 9, tweet 7, Capitolo di libro 6, Intervista 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, article 2, Wiki 1, magazine 1, audio 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
+Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, Report 18, Comunicato 17, documento 16, articolo 12, Slide 11, Podcast 10, Paper 9, TV 9, tweet 7, Capitolo di libro 6, Intervista 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, article 2, Wiki 1, magazine 1, audio 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
 
 ### Copertura per anno
 
@@ -44,11 +44,11 @@ Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 2023 | 0 | 10 | 10 |
 | 2024 | 0 | 6 | 6 |
 | 2025 | 0 | 9 | 9 |
-| 2026 | 0 | 23 | 23 |
+| 2026 | 0 | 22 | 22 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 23 voci, 23 nuove
+## 2026 — 22 voci, 22 nuove
 
 - 🆕 **2026-09-16** · Progetto · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)  
   Old blog of infosecurity.ch (restoration)
@@ -62,8 +62,6 @@ Anni senza nessun risultato: nessuno
   Repost of the TimePie recap naming Fabio Pietrosanti among Biogeek sub-forum guests (article opened and verified; permanent WeChat URL not obtainable)
 - 🆕 **2026-09-12** · Video · Bilibili — 时光派官方 — [满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)](https://www.bilibili.com/video/BV1u5YX6JECk/) _(non verificato)_  
   Official recap video of the closed-door biohacker forum where Fabio spoke (15:50-16:15); his name is not in title/description; downloaded, frames extracted for Fabio to check
-- 🆕 **2026-09-12** · Video · Bilibili — 时光派官方 — [观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53")](https://www.bilibili.com/video/BV1M7YX67EsD/) _(non verificato)_  
-  Official afternoon recap of 12 Sept; may include the biohacker forum; his name not in metadata
 - 🆕 **2026-09-12** · Menzionato · WeChat — 时光派 (official) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-12-timepie)  
   Day-1 report: closed-door biohacker forum guests incl. 'open-source anti-aging data platform developer Fabio Pietrosanti'; includes a photo gallery of the closed forum (images not yet saved). Temporary WeChat link, found via Sogou.
 - 🆕 **2026-09-12** · Menzionato · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-12-repost) _(non verificato)_  

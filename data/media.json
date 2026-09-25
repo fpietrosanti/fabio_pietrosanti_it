@@ -13180,23 +13180,6 @@
  {
   "date": "2026-09-12",
   "year": 2026,
-  "type": "video",
-  "outlet": "Bilibili — 时光派官方",
-  "title": "观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53\")",
-  "url": "https://www.bilibili.com/video/BV1M7YX67EsD/",
-  "language": "zh",
-  "role": "subject",
-  "note": "Official afternoon recap of 12 Sept; may include the biohacker forum; his name not in metadata",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass3_timepie_china_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2026-09-12",
-  "year": 2026,
   "type": "mentioned",
   "outlet": "WeChat — 时光派 (official)",
   "title": "高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕",
