@@ -10293,6 +10293,57 @@
   "on_old_site": false
  },
  {
+  "date": "2020-08-19",
+  "year": 2020,
+  "type": "statement (party blog)",
+  "outlet": "Il Blog delle Stelle (M5S / Associazione Rousseau)",
+  "title": "Chi truffa Rousseau viene denunciato",
+  "url": "https://www.ilblogdellestelle.it/2020/08/chi-truffa-rousseau-viene-denunciato.html",
+  "language": "it",
+  "role": "subject (unnamed)",
+  "note": "Replica ufficiale all'inchiesta Wired del 19/08/2020: parla del «giornalista che tramite un esperto informatico ha cercato di aggirare il sistema di verifica iscrivendosi due volte» e di «una persona specializzata in sicurezza informatica». Il suo nome non compare (regola: non verificato). Angius (@faffa42) la rilanciò su Twitter via archive.is.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-08-19",
+  "year": 2020,
+  "type": "article",
+  "outlet": "Open",
+  "title": "Abolizione del doppio mandato, su Rousseau voti falsi con un account clonato. Il M5s: «Chi truffa paga!»",
+  "url": "https://www.open.online/2020/08/19/rousseau-e-mandato-zero-qualcuno-ha-votato-due-volte-con-un-account-clonato-m5s-chi-truffa-paga/",
+  "language": "it",
+  "role": "subject (unnamed)",
+  "note": "Ripresa dell'inchiesta Wired sul doppio voto; il titolare dei dati usati per il secondo profilo non è nominato (niente 'Pietrosanti' né 'naif'). Elencato solo per completezza.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-08-19",
+  "year": 2020,
+  "type": "tweet",
+  "outlet": "Twitter/X @fpietrosanti",
+  "title": "«Organizziamo, che c’è modo di raggiungere la trinità anche su Rousseau :P»",
+  "url": "https://twitter.com/fpietrosanti/status/1296100334167904256",
+  "language": "it",
+  "role": "author",
+  "note": "Tweet suo (risposta a @Davidovskij, @faffa42 = Raffaele Angius, @wireditalia, @Mov5Stelle) il giorno dell'inchiesta Wired sul doppio voto. Letto dalla cattura Web Archive (id_) della pagina twitter.com, screen-name fpietrosanti.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-08-20",
   "year": 2020,
   "type": "article_by",
@@ -10306,6 +10357,57 @@
   "known": false,
   "_slices": [
    "pass4_crvd_site_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-08-20",
+  "year": 2020,
+  "type": "tweet (third party)",
+  "outlet": "Twitter/X @carlopiana",
+  "title": "«A chi mi diceva \"ma almeno Rousseau è una piattaforma che esiste\". Leggere tutto l'articolo... HT @fpietrosanti»",
+  "url": "https://twitter.com/fpietrosanti/status/1296361702670446598",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Tweet dell'avv. Carlo Piana che rilancia l'articolo Wired 19/08/2020 citando @fpietrosanti (catturato nel Web Archive sotto l'URL di Fabio). Il nick @fpietrosanti è il suo account.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-08-22",
+  "year": 2020,
+  "type": "video (YouTube)",
+  "outlet": "Ciao Internet con Matteo Flora",
+  "title": "752. Manicomio Rousseau - Voto Elettronico, MoVimento e altre follie",
+  "url": "https://www.youtube.com/watch?v=ejXlfoMZ_4k",
+  "language": "it",
+  "role": "context",
+  "note": "Puntata sull'inchiesta Wired del doppio voto, con un intervento di Raffaele Angius. La descrizione non lo nomina; sottotitoli non scaricabili, quindi non verificato se venga citato nell'audio. Trovata dal tweet di @lastknight catturato sotto twitter.com/fpietrosanti/status/1297503822357700608.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-08-24",
+  "year": 2020,
+  "type": "tweet (thread)",
+  "outlet": "Twitter/X @fpietrosanti",
+  "title": "«[ITA] Rischi x la democrazia in italia: 1. @casaleggio controlla @Mov5Stelle 2. @g_brescia ci dice che ad autunno si voterà con il voto online ... 4. @vincenzo produce tecnologia x voto online di rousseau»",
+  "url": "https://twitter.com/fpietrosanti/status/1297973682804076544",
+  "language": "it",
+  "role": "author",
+  "note": "Thread suo su Casaleggio/Rousseau e voto online, con lunga discussione (una ventina di risposte sue catturate, es. status 1298327425336725515). Letto dalla cattura Web Archive.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
   ],
   "on_old_site": false
  },
@@ -10379,6 +10481,74 @@
   "on_old_site": false
  },
  {
+  "date": "2020-09-15",
+  "year": 2020,
+  "type": "code repository",
+  "outlet": "GitHub - organizzazione decidiamo",
+  "title": "decidiamo/openrousseau-website",
+  "url": "https://github.com/decidiamo/openrousseau-website",
+  "language": "it",
+  "role": "contributor",
+  "note": "Sito di OpenRousseau (CNAME openrousseau.org), © Dyne.org, licenza MIT. Tra i contributori GitHub l'account fpietrosanti (3 commit del 25/09/2020: correzioni testi e link alla app Camelot Flutter); altri: jaromil, puria, puffetto. Il nome compare come account GitHub 'fpietrosanti' nell'elenco contributori (API GitHub, 2026-09-25), non nel README.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-09-16",
+  "year": 2020,
+  "type": "code repository",
+  "outlet": "GitHub - organizzazione decidiamo",
+  "title": "decidiamo/decidiamo-website",
+  "url": "https://github.com/decidiamo/decidiamo-website",
+  "language": "it",
+  "role": "contributor",
+  "note": "Sito della comunità DECIDIAMO (decidiamo.it, poi decidiamo.org). Contributore GitHub fpietrosanti (2 commit del 25/09/2020: link ai gruppi Telegram). Il nome compare come account GitHub 'fpietrosanti' nell'elenco contributori (API GitHub, 2026-09-25), non nel README.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-09-16",
+  "year": 2020,
+  "type": "code repository",
+  "outlet": "GitHub - organizzazione decidiamo",
+  "title": "decidiamo/openrousseau-mobile",
+  "url": "https://github.com/decidiamo/openrousseau-mobile",
+  "language": "it",
+  "role": "contributor",
+  "note": "«Modifiche (eventuali) al codice della App Mobile di Rousseau \"Camelot Flutter\" per interconnessione con Decidim». Unico contributore GitHub: fpietrosanti. Il nome compare come account GitHub 'fpietrosanti' nell'elenco contributori (API GitHub, 2026-09-25), non nel README.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-09-16",
+  "year": 2020,
+  "type": "code repository",
+  "outlet": "GitHub - organizzazione decidiamo",
+  "title": "decidiamo/openrousseau-decidim",
+  "url": "https://github.com/decidiamo/openrousseau-decidim",
+  "language": "it",
+  "role": "contributor",
+  "note": "«Estensione di Decidim per dialogare con la Mobile App Rousseau nativa o con minori modifiche». Unico contributore GitHub: fpietrosanti. Il nome compare come account GitHub 'fpietrosanti' nell'elenco contributori (API GitHub, 2026-09-25), non nel README.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-10-01",
   "year": 2020,
   "type": "mentioned",
@@ -10447,6 +10617,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-10-01",
+  "year": 2020,
+  "type": "article (agency syndication)",
+  "outlet": "Veronica One / V1 HitStation (radioveronicaone.it) - lancio Adnkronos",
+  "title": "M5S, hacker a parlamentari: “Ecco Open Rousseau, così sarete liberi”",
+  "url": "http://www.radioveronicaone.it/2020/10/01/m5s-hacker-a-parlamentari-ecco-open-rousseau-cosi-sarete-liberi/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Pagina oggi morta; letta dalla cattura Wayback https://web.archive.org/web/20210423172240/http://www.radioveronicaone.it/2020/10/01/m5s-hacker-a-parlamentari-ecco-open-rousseau-cosi-sarete-liberi/ : «come anticipato all’Adnkronos da Fabio Pietrosanti, uno dei promotori dell’iniziativa». Ripresa integrale del lancio Adnkronos (già noto).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-10-02",
   "year": 2020,
   "type": "mentioned",
@@ -10498,6 +10685,40 @@
   "on_old_site": false
  },
  {
+  "date": "2020-10-02",
+  "year": 2020,
+  "type": "article",
+  "outlet": "La Stampa",
+  "title": "Nasce la piattaforma anti-Casaleggio, un gruppo di hacker famosi sfida Rousseau e la offre gratis ai parlamentari M5S (Jacopo Iacoboni)",
+  "url": "https://www.lastampa.it/topnews/primo-piano/2020/10/02/news/nasce-la-piattaforma-anti-casaleggio-un-gruppo-di-hacker-famosi-sfida-rousseau-e-la-offre-gratis-ai-parlamentari-m5s-1.39374113/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Nel sommario: «Tra gli sviluppatori, Denis Roio, Fabio Pietrosanti e la comunità decidiamo.it»; nel testo: «Fabio Pietrosanti spiega così le specifiche tecniche di OpenRousseau: Esiste una piattaforma, DECIDIM, che è stata già usata a Barcellona...». Articolo Premium (paywall) ma sommario e primi paragrafi leggibili. Trovato tramite il tweet di @jacopo_iacoboni del 2/10/2020 catturato nel Web Archive sotto twitter.com/fpietrosanti/status/1311930820530253824.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-10-02",
+  "year": 2020,
+  "type": "article",
+  "outlet": "Il Messaggero",
+  "title": "M5S-Rousseau, è rottura: e Di Battista minaccia l'addio (Francesco Malfetano)",
+  "url": "https://www.ilmessaggero.it/politica/m5s_rottura_movimento_rousseau_di_battista_addio_ultime_notizie-5497939.html",
+  "language": "it",
+  "role": "mentioned",
+  "note": "«un gruppo di esperti informatici. Sviluppatori tra cui spicca il nome di Fabio Pietrosanti che oggi faranno debuttare, a due giorni dal compleanno del Movimento 5 Stelle, Open Rousseau», basato su Decidim. Stesso testo del Gazzettino FVG del 2/10/2020 (già noto): edizione online del gruppo Caltagirone.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-10-08",
   "year": 2020,
   "type": "mentioned",
@@ -10511,6 +10732,23 @@
   "known": false,
   "_slices": [
    "pass3_google_2026-09-23-1900"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-10-09",
+  "year": 2020,
+  "type": "project website (Wayback)",
+  "outlet": "openrousseau.org",
+  "title": "Decidiamo! ma con tecnologia libera e open source (OpenRousseau)",
+  "url": "https://web.archive.org/web/20201009025401/https://openrousseau.org/",
+  "language": "it",
+  "role": "project",
+  "note": "Sito ufficiale del progetto: il dominio era openrousseau.org (non openrousseau.it, nessuna cattura). Nella cattura del 9/10/2020 il suo nome NON compare (cita Jaromil/Dyne.org, Decidim, Camelot Flutter, t.me/openrousseau, @OpenRousseau); elencato come fonte primaria del progetto, il suo ruolo è provato dai repository GitHub.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
   ],
   "on_old_site": false
  },
@@ -10568,6 +10806,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-10-27",
+  "year": 2020,
+  "type": "document (PDF)",
+  "outlet": "Comunità DECIDIAMO",
+  "title": "Dieci principi per OpenRousseau. E quattro domande salienti per il MoVimento",
+  "url": "https://web.archive.org/web/20250712151408/https://decidiamo.org/Principi_per_OpenRousseau.pdf",
+  "language": "it",
+  "role": "project",
+  "note": "È l'appello pubblicato integralmente da Domani il 27/10/2020 (articolo già noto). Nel PDF (9 pp.) il suo nome non compare: solo contesto.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-11-08",
   "year": 2020,
   "type": "paper",
@@ -10582,6 +10837,23 @@
   "_slices": [
    "pass2_d_academic",
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-11-11",
+  "year": 2020,
+  "type": "podcast",
+  "outlet": "Ciao Internet con Matteo Flora (Spreaker)",
+  "title": "OpenRousseau e Open-Democracy: esiste davvero un modo di avere un sistema trasparente?",
+  "url": "https://www.spreaker.com/episode/openrousseau-e-open-democracy-esiste-davvero-un-modo-di-avere-un-sistema-trasparente--41918584",
+  "language": "it",
+  "role": "context",
+  "note": "Intervista a Denis 'Jaromil' Roio su OpenRousseau e Decidiamo.it; la descrizione non nomina Fabio. Non verificato se sia citato nell'audio.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_openrousseau_m5s_2026-09-25"
   ],
   "on_old_site": false
  },

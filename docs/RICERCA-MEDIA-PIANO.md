@@ -158,13 +158,37 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   scansione fine dei ~700 tweet archiviati dopo aprile 2020 (filtrati solo per parole chiave).
 - [ ] Foto del «生物极客闭门论坛» nell'articolo WeChat ufficiale TimePie del 12/9: salvarle nell'archivio.
 - [ ] Video ufficiali TimePie: Fabio avviserà quando pubblicati → scaricarli e archiviarli.
-- [ ] Progetto AIRE (voto elettronico, italiani all'estero): raccogliere tutte le fonti e documentarlo.
-- [ ] OpenRousseau / M5S: espulsione (Domani 2020) e articolo di Raffaele Angius sulla doppia iscrizione.
-- [ ] ~~Bloomberg Businessweek 2020-05-04~~ (trovato, p. 70, manca il titolo); ~~Il Gazzettino Friuli 2020-10-02~~ (verificato); Radio1 Rai Italian Hacker Camp 2018.
+- [x] **Progetto AIRE — fatto il 2026-09-25** (`pass4_aire_voto_estero`, +27 voci, 9 verificate). Non un progetto
+  finanziato ma una ricerca di policy alternativa al fondo di 1 M€ per il voto elettronico (L. 160/2019, c. 627):
+  **fase 1** (nov–dic 2019) analisi della geolocalizzazione degli iscritti AIRE (tweet 15/11/2019; CRVD «Come non
+  sprecare un milione di euro», 20/12/2019: 80 seggi esteri → 86%, 216 → 99%); **fase 2** (mar 2021) **Geo-AIRE**
+  con Stefano Quintarelli e Maurizio Napolitano (FBK), `github.com/g0v-it/Geo-AIRE` (README lo nomina coautore) +
+  Agenda Digitale 15/03/2021 (43 città → 84,35%, 273 → 99,82%). Esito: posizione ufficiale Copernicani, ripresa dal
+  Post (09/2022); lo Stato ha seguito il voto elettronico (decreto 9/7/2021, Comites 2021, simulazione Viminale 12/2023).
+  **Resta:** tweet dei mesi non controllati (Web Archive lento); nessuna TV/podcast/audizione trovata sul tema;
+  `notizieoggi.com` (ripresa del Post) irraggiungibile e mai archiviato.
+- [x] **OpenRousseau / M5S — fatto il 2026-09-25** (`pass4_openrousseau_m5s`, +16 voci, 10 verificate): La Stampa
+  02/10/2020 (Iacoboni, «Tra gli sviluppatori, Denis Roio, Fabio Pietrosanti»), Il Messaggero 02/10/2020, Radio Veronica
+  One (ripresa Adnkronos), 4 repo GitHub `decidiamo/*` (contributor fpietrosanti), 3 tweet di agosto 2020; contesto:
+  sito openrousseau.org (non .it), PDF «Dieci principi», replica del Blog delle Stelle, Open 19/08/2020.
+  **Domani:** l'articolo sull'espulsione **è** quello già noto del 27/10/2020 («Ecco la lettera ai Cinque stelle…»,
+  Redazione): racconta che fu allontanato il 23/10 per l'inchiesta Wired; non esiste un pezzo separato.
+  **Angius:** solo i due articoli Wired già noti (19/08 e 23/10/2020). **Resta:** ~620 dei 784 tweet archiviati
+  ago 2020–lug 2021 non letti (soprattutto dal 23/10 in poi); HuffPost/Repubblica non raggiungibili dal motore.
+- [x] ~~Bloomberg Businessweek 2020-05-04~~ (trovato, p. 70, manca il titolo); ~~Il Gazzettino Friuli 2020-10-02~~ (verificato); ~~Radio1 Rai Italian Hacker Camp 2018~~ (2026-09-25: servizio di Paola Guarnieri ricaricato su SoundCloud, 1'07", nome nel titolo; la pagina radio1.rai.it non esiste più né in Wayback).
 - [x] Internet Archive: win-magazine-italia-48, pcprofessionale207, hackerjournal-38, GazzettinoFVG2020-10-02 (copie: OCR + PDF, nome verificato; 2026-09-18).
 - [ ] **Sito Hermes Center** in ripristino da Fabio: quando online, indicizzare tutti i progetti, paper e talk di Fabio per
   Hermes, GlobaLeaks, CRVD, Copernicani (come fatto per CRVD il 18/09).
 - [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
+
+## Note sessione 2026-09-25
+- **782 voci** in `data/media.json` (+48): AIRE 27, OpenRousseau 16, residui 2 (SoundCloud Rai IHC 2018; **The Record
+  12/11/2024** «How Italy became an unexpected spyware hub», Fabio fonte principale), più il blocco Google delle 12:32.
+- Residui chiusi: Google Doc OSSCI (2 capture giugno 2021, nessun nome né autore); StartMag Immuni 27/05/2020 (cita
+  Uggeri, non Fabio; controllati tutti i 37 articoli StartMag su Immuni in Wayback); post Facebook 16/03 e 09/04/2020
+  mai archiviati; Bloomberg online confermato («Italian information-security specialist Fabio Pietrosanti»).
+- **Hackmeeting 2000 recuperato** (host senza www); **Google Books IGI Global**: l'ID era un refuso (`KOREEAAAQBAJ`).
+- Nuovo strumento `tools/transcribe_media.py` (faster-whisper locale): trascrizioni delle puntate Radio 24.
 
 ## Note sessione 2026-09-24
 - **734 voci** in `data/media.json` (+40): 39 dai «progetti mai partiti» (sopra) + la pagina CyberCoach di Gerardo Costabile.

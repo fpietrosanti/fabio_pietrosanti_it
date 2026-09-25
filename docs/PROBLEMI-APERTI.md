@@ -1,8 +1,8 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-09-24**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
-Stato generale: **734 voci**; **tutte** le copie processate — 585 con il nome verificato dentro la copia,
-83 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
+Aggiornato il **2026-09-25**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Stato generale: **782 voci**; **tutte** le copie processate — 610 con il nome verificato dentro la copia,
+85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
 ## A0. Cose che servono da te (aggiornato 2026-09-24)
 
@@ -27,6 +27,12 @@ Stato generale: **734 voci**; **tutte** le copie processate — 585 con il nome 
    (d) **Intervista CyberCoach 2023**: account DeepCyber cancellato (confermato da Costabile). Costabile ha ancora il
    file originale in locale? Se sì, basta che te lo passi e lo archivio.
    (e) ~~verbalictscovid.infosecurity.ch~~: risposto — sito temporaneo, spento volutamente.
+
+7. **Nuove (25/09).** (a) **Voci di contesto** raccolte per AIRE e OpenRousseau (decreti, MAECI, Garante, AISE,
+   Blog delle Stelle, Open…: 12 pagine senza il tuo nome, più 10 pagine dei tuoi progetti — repo `decidiamo/*`,
+   Geo-AIRE, openrousseau.org): stessa domanda del punto 3, contesto o esclusione? (b) **Geo-AIRE**: ora è documentato
+   (vedi `RICERCA-MEDIA-PIANO.md`): posso proporti il testo per la sezione Progetti di LinkedIn? (c) Il tweet di
+   **Carlo Piana** su di te è archiviato sotto un URL del tuo profilo: se ricordi il link giusto, lo correggo.
 
 ## A. Problemi nella RICERCA
 
@@ -88,15 +94,26 @@ che in realtà era stato recuperato il 19/09.
   parla di PrivateGSM e ZRTP ma **non ti nomina** → escluso per la tua regola. Resta `computerworld.ch/aktuell/news/50435`
   (mai archiviato, sito riorganizzato).
 
-### B1. Non ottenute (5)
+### B0-ter. 2026-09-25
+- **Hackmeeting 2000 risolto**: `www.hackmeeting.org` dà 404, ma l'host **senza www** (certificato non corrispondente)
+  serve ancora la pagina originale: «proposed by [NaiF-RooT]» con mailto `naif@itapac.net` (`2000/b60fa4817340`).
+- **IGI Global risolto**: l'ID Google Books salvato era un **refuso** (`KOREEAAQBAJ` → `KOREEAAAQBAJ`); il feed
+  GData legacy restituisce il frammento con il riferimento «Pietrosanti, F., & Aterno, S. (2017)».
+- **Radio 24**: trascrizione automatica locale (`tools/transcribe_media.py`, faster-whisper). La puntata del 02/03/2018
+  conferma: «Ne voglio parlare con Fabio Pietrosanti che è presidente… del centro Hermes» (min 40:59). Scaricati gli
+  MP3 mancanti (11/2018, 02/2019, 06/2022; URL `radio24_audio/<anno>/<aammgg>-2024.mp3`), trascrizioni in corso.
+- Nuova non ottenuta: `notizieoggi.com` (ripresa del Post 2022), sito giù e mai archiviato — irrilevante (copia del Post
+  già presente).
+
+### B1. Non ottenute (4)
 | Anno | Fonte | Motivo | Proposta |
 |---|---|---|---|
-| 2000 | Hackmeeting 2000 (Hackit00), «Letteratura Cyberpunk» | Pagina live sparita (404; in HTTPS il certificato di `hackmeeting.org` non corrisponde). Nel Web Archive c'è **una sola** capture (20260827004502, 1.310 byte) e la replay risponde **500** su ogni forma di URL | Guasto lato Internet Archive, non un vicolo cieco: **riprovare fra qualche giorno** |
+| ~~2000~~ | ~~Hackmeeting 2000 (Hackit00), «Letteratura Cyberpunk»~~ **risolto 25/09** | Pagina live sparita (404; in HTTPS il certificato di `hackmeeting.org` non corrisponde). Nel Web Archive c'è **una sola** capture (20260827004502, 1.310 byte) e la replay risponde **500** su ogni forma di URL | Guasto lato Internet Archive, non un vicolo cieco: **riprovare fra qualche giorno** |
 | 2010 | PrivateWave press release EN (PDF) | 403 sul sito, mai archiviato dal Web Archive | Fabio ha i PDF originali di PrivateWave? |
 | 2010 | PrivateWave press release ES (PDF) | idem | idem |
 | 2010 | Radio Monte Carlo, audio intervista | 404, nessuna copia archiviata | Chiedere a RMC o cercare registrazioni personali |
 | ~~2020~~ | ~~verbalictscovid.infosecurity.ch~~ | **Chiuso il 24/09**: sito temporaneo, spento da te volutamente; i dati restano nel repo `COVID-19-Verbali-CTS-OCR` | — |
-| 2021 | IGI Global, *Research Anthology on Business Aspects of Cybersecurity* | La scheda Google Books (`id=KOREEAAQBAJ`) risponde 404 | Serve la **chiave API Google Books** (vedi A0.2 / A4) |
+| ~~2021~~ | ~~IGI Global, *Research Anthology on Business Aspects of Cybersecurity*~~ **risolto 25/09 (ID refuso)** | La scheda Google Books (`id=KOREEAAQBAJ`) risponde 404 | Serve la **chiave API Google Books** (vedi A0.2 / A4) |
 | ~~2011~~ | ~~Infosec Island, «ZRTP Voice Encryption is Finally a Standard»~~ | **Risolto il 19/09**: recuperato dal Web Archive (capture 20111206), firma «Contributed By: Fabio Pietrosanti» presente nella copia `2011/6eef821a1b3c` | — |
 | ~~2026~~ | ~~Zhihu sul TimePie Forum~~ | **Risolto 18/09**: letto nel Chrome di Fabio, salvato l’estratto con il suo intervento | Web Archive «save» ha risposto 500: riprovare |
 

@@ -11,7 +11,7 @@ from pathlib import Path
 from faster_whisper import WhisperModel
 
 MEDIA_EXT = (".mp3", ".m4a", ".mp4", ".webm", ".mkv", ".opus", ".ogg")
-NAME_RE = re.compile(r"pietro\s*sant|\bnaif\b|\bna[iï]f\b|hermes|globaleaks", re.I)
+NAME_RE = re.compile(r"pietro\s*s+ant|\bfabio\b|\bnaif\b|\bna[iï]f\b|hermes|globaleaks", re.I)
 
 
 def media_file(d: Path):

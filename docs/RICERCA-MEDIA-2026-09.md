@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1001**; dopo deduplica: **766**
+- Risultati grezzi dalle ricerche: **1017**; dopo deduplica: **782**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 731**
-- Verificati aprendo la pagina: **648**; solo da risultato di ricerca: **118**
+- **Nuovi rispetto al vecchio sito: 747**
+- Verificati aprendo la pagina: **658**; solo da risultato di ricerca: **124**
 
-Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Video 59, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, documento 21, Articolo scritto 20, Report 18, Comunicato 17, articolo 16, Slide 11, Paper 9, TV 9, Podcast 9, Capitolo di libro 6, Intervista 6, tweet 6, village 5, Brevetto 4, pagina 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, Wiki 1, magazine 1, audio 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Video 59, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, documento 21, Articolo scritto 20, Report 18, Comunicato 17, articolo 16, Slide 11, Podcast 10, Paper 9, TV 9, tweet 7, Capitolo di libro 6, Intervista 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, article 3, consultazione 2, Wiki 1, magazine 1, audio 1, Audizione 1, statement (party blog) 1, tweet (third party) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
 
 ### Copertura per anno
 
@@ -38,7 +38,7 @@ Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 2017 | 0 | 67 | 67 |
 | 2018 | 0 | 68 | 68 |
 | 2019 | 0 | 33 | 33 |
-| 2020 | 0 | 80 | 80 |
+| 2020 | 0 | 96 | 96 |
 | 2021 | 0 | 39 | 39 |
 | 2022 | 0 | 60 | 60 |
 | 2023 | 0 | 11 | 11 |
@@ -364,7 +364,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 80 voci, 80 nuove
+## 2020 — 96 voci, 96 nuove
 
 - 🆕 **2020-12-03** · Ricerca · GitHub — [ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)](https://github.com/fpietrosanti/ifuriosi)  
   Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista
@@ -376,14 +376,20 @@ Anni senza nessun risultato: nessuno
   Inquiry built on Pietrosanti's (Hermes) FOIA request revealing the government e-voting committee
 - 🆕 **2020-11-19** · Menzionato · Giornalettismo — [Voto elettronico in sperimentazione in Italia? La commissione](https://www.giornalettismo.com/voto-elettronico-sperimentazione-italia/)  
   Credits him (Hermes president) with uncovering via FOIA the government e-voting commission for the overseas constituency
+- 🆕 **2020-11-11** · Podcast · Ciao Internet con Matteo Flora (Spreaker) — [OpenRousseau e Open-Democracy: esiste davvero un modo di avere un sistema trasparente?](https://www.spreaker.com/episode/openrousseau-e-open-democracy-esiste-davvero-un-modo-di-avere-un-sistema-trasparente--41918584) _(non verificato)_  
+  Intervista a Denis 'Jaromil' Roio su OpenRousseau e Decidiamo.it; la descrizione non nomina Fabio. Non verificato se sia citato nell'audio.
 - 🆕 **2020-11-08** · Paper · Pandora Rivista (online review of politics and culture, not peer-reviewed) — [I trojan di Stato: la nuova legge sulle intercettazioni](https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/)  
   Silvia Cegalin. On the Italian interception law and state trojans; mentions 'Fabio Pietrosanti, membro del Centro Hermes per la Trasparenza e i Diritti Umani Digitali' urging the government to revise the law on entrusting citizens' data to unregulated private trojan vendors. Page text read. Borderline: magazine rather than academic journal.
+- 🆕 **2020-10-27** · document (PDF) · Comunità DECIDIAMO — [Dieci principi per OpenRousseau. E quattro domande salienti per il MoVimento](https://web.archive.org/web/20250712151408/https://decidiamo.org/Principi_per_OpenRousseau.pdf) _(non verificato)_  
+  È l'appello pubblicato integralmente da Domani il 27/10/2020 (articolo già noto). Nel PDF (9 pp.) il suo nome non compare: solo contesto.
 - 🆕 **2020-10-26** · Menzionato · Interoperable Europe Portal (European Commission) — [EUPL for Italian software](https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software) _(non verificato)_  
   2026-09-23: letto per intero: l'articolo racconta la vicenda della licenza AGPL fra ANAC e Hermes Center ma NON contiene il nome di Fabio (cita solo Marco Bondello). Da decidere con Fabio se tenerlo come contesto del progetto o escluderlo.
 - 🆕 **2020-10-23** · Menzionato · wired.it — [Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/10/23/rousseau-espulsione-iscritto-doppio-voto-casaleggio/)  
   verified via wayback; context: …2020 Home Attualità Politica Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau di Raffaele Angius Contributor 23 Oct, 2020 Fabio Pietrosanti, iscritto al M5s da due anni, si è visto re…
 - 🆕 **2020-10-20** · Talk · Copernicani (#DialoghiCopernicani, online) — [Martedi 20 ottobre ore 21:00 - Riconoscimento facciale usato dalle forze dell'ordine, strumento o arma?](https://copernicani.it/blog/2020/10/16/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/)  
   Online dialogue with artist-activist Paolo Cirio (Capture project) and Carlo Piana; introduced as 'presidente del Centro Hermes' and a Copernicano; announcement published 2020-10-16 (Wayback 20201019; also at www.copernicani.it/martedi-20-ottobre-ore-2100-...)
+- 🆕 **2020-10-09** · project website (Wayback) · openrousseau.org — [Decidiamo! ma con tecnologia libera e open source (OpenRousseau)](https://web.archive.org/web/20201009025401/https://openrousseau.org/) _(non verificato)_  
+  Sito ufficiale del progetto: il dominio era openrousseau.org (non openrousseau.it, nessuna cattura). Nella cattura del 9/10/2020 il suo nome NON compare (cita Jaromil/Dyne.org, Decidim, Camelot Flutter, t.me/openrousseau, @OpenRousseau); elencato come fonte primaria del progetto, il suo ruolo è provato dai repository GitHub.
 - 🆕 **2020-10-08** · Menzionato · ilriformista.it — [Volano stracci tra i grillini: chi vince sui social tra Casaleggio e la base vicina a Di Maio?](https://www.ilriformista.it/volano-stracci-tra-i-grillini-chi-vince-sui-social-tra-casaleggio-e-la-base-vicina-a-di-maio-166440/)  
   verified via live; context: …, oppure preferire la linea conservatrice di Di Battista e soprattutto di Davide Casaleggio . C’è chi addirittura ha messo benzina sul fuoco come l’informatico Fabio Pietrosanti che, a disposizione dei parlamentari che v…
 - 🆕 **2020-10-02** · Menzionato · corriere.it — [M5S, ritardo nei pagamenti: Rousseau taglia i servizi. Evento del 4 ottobre rinviato](https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml)  
@@ -392,6 +398,10 @@ Anni senza nessun risultato: nessuno
   IA full text verified: 'un gruppo di esperti informatici, Sviluppatori tra cui spicca il nome di Fabio Pietrosanti che oggi faranno debuttare ... "Open Rousseau". Un software libero ... basato sulla piattaforma Decidim'.
 - 🆕 **2020-10-02** · Menzionato · Adnkronos — [M5S, hacker a parlamentari: "Ecco Open Rousseau, così sarete liberi"](https://www.adnkronos.com/fatti/politica/2020/10/02/hacker-parlamentari-ecco-open-rousseau-cosi-sarete-liberi_rqptYFyArlnhnr8BwBKHPP.html)  
   Jaromil's letter to M5S MPs launching Open Rousseau; names him as one of the promoters; live URL 404, verified via Wayback 2020 snapshot
+- 🆕 **2020-10-02** · article · La Stampa — [Nasce la piattaforma anti-Casaleggio, un gruppo di hacker famosi sfida Rousseau e la offre gratis ai parlamentari M5S (Jacopo Iacoboni)](https://www.lastampa.it/topnews/primo-piano/2020/10/02/news/nasce-la-piattaforma-anti-casaleggio-un-gruppo-di-hacker-famosi-sfida-rousseau-e-la-offre-gratis-ai-parlamentari-m5s-1.39374113/)  
+  Nel sommario: «Tra gli sviluppatori, Denis Roio, Fabio Pietrosanti e la comunità decidiamo.it»; nel testo: «Fabio Pietrosanti spiega così le specifiche tecniche di OpenRousseau: Esiste una piattaforma, DECIDIM, che è stata già usata a Barcellona...». Articolo Premium (paywall) ma sommario e primi paragrafi leggibili. Trovato tramite il tweet di @jacopo_iacoboni del 2/10/2020 catturato nel Web Archive sotto twitter.com/fpietrosanti/status/1311930820530253824.
+- 🆕 **2020-10-02** · article · Il Messaggero — [M5S-Rousseau, è rottura: e Di Battista minaccia l'addio (Francesco Malfetano)](https://www.ilmessaggero.it/politica/m5s_rottura_movimento_rousseau_di_battista_addio_ultime_notizie-5497939.html)  
+  «un gruppo di esperti informatici. Sviluppatori tra cui spicca il nome di Fabio Pietrosanti che oggi faranno debuttare, a due giorni dal compleanno del Movimento 5 Stelle, Open Rousseau», basato su Decidim. Stesso testo del Gazzettino FVG del 2/10/2020 (già noto): edizione online del gruppo Caltagirone.
 - 🆕 **2020-10-01** · Menzionato · open.online — [Gli hacker ci regalano Open Rousseau, l'alternativa libera e gratuita alla piattaforma del M5s - Open](https://www.open.online/2020/10/01/hacker-regalano-open-rousseau-piattaforma-m5s-casaleggio/)  
   verified via wayback; context: …ossa dalla fondazione non-profit Dyne.org nella figura del suo responsabile tecnico Denis Rojo , noto con il nome Jaromil nella comunità del software libero, e Fabio Pietrosanti detto Naif, attivista per i diritti digita…
 - 🆕 **2020-10-01** · Citato · il Giornale — [Hacker sfida Casaleggio: ecco la contro-piattaforma per sostituire Rousseau](https://www.ilgiornale.it/news/politica/m5s-ecco-contro-piattaforma-che-sfida-rousseau-1893743.html)  
@@ -400,6 +410,16 @@ Anni senza nessun risultato: nessuno
   Adnkronos-based piece quoting him on Open Rousseau launch before 4 Oct 2020
 - 🆕 **2020-10-01** · Citato · Adnkronos — [M5S, hacker sfidano Casaleggio: arriva software Open Rousseau](https://www.adnkronos.com/fatti/politica/2020/10/01/hacker-sfidano-casaleggio-arriva-software-open-rousseau_xhpY4FGXMdkxXNWyHW75xN.html)  
   Original Adnkronos wire quoting him as one of the Open Rousseau developers; live URL 404, verified via Wayback 2020 snapshot
+- 🆕 **2020-10-01** · article (agency syndication) · Veronica One / V1 HitStation (radioveronicaone.it) - lancio Adnkronos — [M5S, hacker a parlamentari: “Ecco Open Rousseau, così sarete liberi”](http://www.radioveronicaone.it/2020/10/01/m5s-hacker-a-parlamentari-ecco-open-rousseau-cosi-sarete-liberi/)  
+  Pagina oggi morta; letta dalla cattura Wayback https://web.archive.org/web/20210423172240/http://www.radioveronicaone.it/2020/10/01/m5s-hacker-a-parlamentari-ecco-open-rousseau-cosi-sarete-liberi/ : «come anticipato all’Adnkronos da Fabio Pietrosanti, uno dei promotori dell’iniziativa». Ripresa integrale del lancio Adnkronos (già noto).
+- 🆕 **2020-09-16** · code repository · GitHub - organizzazione decidiamo — [decidiamo/decidiamo-website](https://github.com/decidiamo/decidiamo-website)  
+  Sito della comunità DECIDIAMO (decidiamo.it, poi decidiamo.org). Contributore GitHub fpietrosanti (2 commit del 25/09/2020: link ai gruppi Telegram). Il nome compare come account GitHub 'fpietrosanti' nell'elenco contributori (API GitHub, 2026-09-25), non nel README.
+- 🆕 **2020-09-16** · code repository · GitHub - organizzazione decidiamo — [decidiamo/openrousseau-mobile](https://github.com/decidiamo/openrousseau-mobile)  
+  «Modifiche (eventuali) al codice della App Mobile di Rousseau "Camelot Flutter" per interconnessione con Decidim». Unico contributore GitHub: fpietrosanti. Il nome compare come account GitHub 'fpietrosanti' nell'elenco contributori (API GitHub, 2026-09-25), non nel README.
+- 🆕 **2020-09-16** · code repository · GitHub - organizzazione decidiamo — [decidiamo/openrousseau-decidim](https://github.com/decidiamo/openrousseau-decidim)  
+  «Estensione di Decidim per dialogare con la Mobile App Rousseau nativa o con minori modifiche». Unico contributore GitHub: fpietrosanti. Il nome compare come account GitHub 'fpietrosanti' nell'elenco contributori (API GitHub, 2026-09-25), non nel README.
+- 🆕 **2020-09-15** · code repository · GitHub - organizzazione decidiamo — [decidiamo/openrousseau-website](https://github.com/decidiamo/openrousseau-website)  
+  Sito di OpenRousseau (CNAME openrousseau.org), © Dyne.org, licenza MIT. Tra i contributori GitHub l'account fpietrosanti (3 commit del 25/09/2020: correzioni testi e link alla app Camelot Flutter); altri: jaromil, puria, puffetto. Il nome compare come account GitHub 'fpietrosanti' nell'elenco contributori (API GitHub, 2026-09-25), non nel README.
 - 🆕 **2020-09-06** · articolo · onData APS — [Rendere "ricercabile" il XXI secolo](https://www.ondata.it/rendere-ricercabile-il-xxi-secolo/)  
   Sui PDF-immagine pubblicati dal Governo nella sezione sull'emergenza Coronavirus: 'Fabio Pietrosanti ha notato la cosa e li ha resi accessibili, grazie'. Riconoscimento del suo intervento di accessibilizzazione/OCR dei documenti pubblici.
 - 🆕 **2020-09-06** · social · Twitter/X (@fpietrosanti) — [Archivio zip di 1.9GB dei Verbali CTS Covid in PDF con OCR e testo ricercabile](https://twitter.com/fpietrosanti/status/1302572387725082624)  
@@ -408,10 +428,22 @@ Anni senza nessun risultato: nessuno
   Sito di download dell'archivio OCR dei verbali CTS, citato nel tweet 1302572387725082624. Oggi non risponde (301 verso https, senza contenuto) e non ha catture Wayback. Non verificabile.
 - 🆕 **2020-09-05** · Progetto · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR)  
   OCR processing of Italian Government COVID Scientific Technical Committee minutes
+- 🆕 **2020-08-24** · tweet (thread) · Twitter/X @fpietrosanti — [«[ITA] Rischi x la democrazia in italia: 1. @casaleggio controlla @Mov5Stelle 2. @g_brescia ci dice che ad autunno si voterà con il voto online ... 4. @vincenzo produce tecnologia x voto online di rousseau»](https://twitter.com/fpietrosanti/status/1297973682804076544)  
+  Thread suo su Casaleggio/Rousseau e voto online, con lunga discussione (una ventina di risposte sue catturate, es. status 1298327425336725515). Letto dalla cattura Web Archive.
+- 🆕 **2020-08-22** · video (YouTube) · Ciao Internet con Matteo Flora — [752. Manicomio Rousseau - Voto Elettronico, MoVimento e altre follie](https://www.youtube.com/watch?v=ejXlfoMZ_4k) _(non verificato)_  
+  Puntata sull'inchiesta Wired del doppio voto, con un intervento di Raffaele Angius. La descrizione non lo nomina; sottotitoli non scaricabili, quindi non verificato se venga citato nell'audio. Trovata dal tweet di @lastknight catturato sotto twitter.com/fpietrosanti/status/1297503822357700608.
 - 🆕 **2020-08-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come sono riuscito a votare due volte su Rousseau](https://hermescenter.github.io/crvd.org-preservation/come-sono-riuscito-a-votare-due-volte-su-rousseau/)  
   CRVD investigation: Fabio (CRVD activist) voted twice on Rousseau; restored site hermescenter/crvd.org-preservation (2026-09-18)
+- 🆕 **2020-08-20** · tweet (third party) · Twitter/X @carlopiana — [«A chi mi diceva "ma almeno Rousseau è una piattaforma che esiste". Leggere tutto l'articolo... HT @fpietrosanti»](https://twitter.com/fpietrosanti/status/1296361702670446598)  
+  Tweet dell'avv. Carlo Piana che rilancia l'articolo Wired 19/08/2020 citando @fpietrosanti (catturato nel Web Archive sotto l'URL di Fabio). Il nick @fpietrosanti è il suo account.
 - 🆕 **2020-08-19** · Menzionato · wired.it — [Come sono riuscito a votare due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/)  
   verified via wayback; context: …e facilmente individuabile con i normali controlli di penetration testing ai quali dovrebbero essere sottoposti simili strumenti” , ha commentato l’informatico Fabio Pietrosanti, membro del Comitato per i requisiti del v…
+- 🆕 **2020-08-19** · statement (party blog) · Il Blog delle Stelle (M5S / Associazione Rousseau) — [Chi truffa Rousseau viene denunciato](https://www.ilblogdellestelle.it/2020/08/chi-truffa-rousseau-viene-denunciato.html) _(non verificato)_  
+  Replica ufficiale all'inchiesta Wired del 19/08/2020: parla del «giornalista che tramite un esperto informatico ha cercato di aggirare il sistema di verifica iscrivendosi due volte» e di «una persona specializzata in sicurezza informatica». Il suo nome non compare (regola: non verificato). Angius (@faffa42) la rilanciò su Twitter via archive.is.
+- 🆕 **2020-08-19** · article · Open — [Abolizione del doppio mandato, su Rousseau voti falsi con un account clonato. Il M5s: «Chi truffa paga!»](https://www.open.online/2020/08/19/rousseau-e-mandato-zero-qualcuno-ha-votato-due-volte-con-un-account-clonato-m5s-chi-truffa-paga/) _(non verificato)_  
+  Ripresa dell'inchiesta Wired sul doppio voto; il titolare dei dati usati per il secondo profilo non è nominato (niente 'Pietrosanti' né 'naif'). Elencato solo per completezza.
+- 🆕 **2020-08-19** · tweet · Twitter/X @fpietrosanti — [«Organizziamo, che c’è modo di raggiungere la trinità anche su Rousseau :P»](https://twitter.com/fpietrosanti/status/1296100334167904256)  
+  Tweet suo (risposta a @Davidovskij, @faffa42 = Raffaele Angius, @wireditalia, @Mov5Stelle) il giorno dell'inchiesta Wired sul doppio voto. Letto dalla cattura Web Archive (id_) della pagina twitter.com, screen-name fpietrosanti.
 - 🆕 **2020-07-28** · documento · GitHub (osservatoriosicurezza) — [Issue #3 - Dataset generation PoC and next steps (?)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/3) _(non verificato)_  
   Aperta da fnzv: PoC di generazione automatica di liste IPv4 italiane da API RIPE via GitLab CI. Nessun commento. Solo progetto, nome assente.
 - 🆕 **2020-07-25** · repository · GitLab (fnzv) — [fnzv / ossci-dataset](https://gitlab.com/fnzv/ossci) _(non verificato)_  
