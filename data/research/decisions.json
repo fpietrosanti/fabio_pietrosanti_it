@@ -4,7 +4,8 @@
   "Paolo Pietrosanti (radicale) — any article about him is excluded",
   "Fabrizio Pietrosanti (avvocato, Latina, studio «Pietrosanti Paparo & Associati»): compare in delibere ANAC e in provvedimenti del Garante privacy 2007 (Acqualatina) - non e' Fabio",
   "Valentina Pietrosanti: cura le schede dei resoconti parlamentari di Radio Radicale («Scheda a cura di») - non e' Fabio",
-  "Ezio, Alessio, Mario Lauro, Corinna, Maria Paola Pietrosanti Malintoppi: omonimi trovati su camera.it/senato.it e nelle tesi - non sono Fabio"
+  "Ezio, Alessio, Mario Lauro, Corinna, Maria Paola Pietrosanti Malintoppi: omonimi trovati su camera.it/senato.it e nelle tesi - non sono Fabio",
+  "Fabio Pietrosanti di Latina omonimo: figlio della sig.ra Dolores (visita GLS con la candidata sindaco, LatinaOggi 2023) e presidente dell'asd Center Bike (ciclismo Opes) - non e' Fabio"
  ],
  "exclude": [
   {
@@ -214,6 +215,18 @@
   {
    "url": "https://twitter.com/fpietrosanti/status/1296361702670446598",
    "reason": "Fabio 2026-09-25: tweet di Carlo Piana archiviato sotto un URL del profilo di Fabio (link non affidabile): escluso"
+  },
+  {
+   "url": "https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html",
+   "reason": "Blocco Google 2026-09-25: omonimo di Latina (Fabio Pietrosanti figlio della sig.ra Dolores, visita GLS con Celentano), non e' Fabio"
+  },
+  {
+   "url": "https://www.latinacorriere.it/ciclismo-opes-a-velletri-podio-per-pantoni-e-pezza/",
+   "reason": "Blocco Google 2026-09-25: omonimo (asd Center Bike di Fabio Pietrosanti, ciclismo), non e' Fabio"
+  },
+  {
+   "url": "https://sushi.apogeonline.com/articoli/un-raggio-di-luce-su-smau-raoul-chiesa/",
+   "reason": "Blocco Google 2026-09-25: doppione (sottodominio sushi.) dell'articolo gia' in archivio su www.apogeonline.com"
   }
  ],
  "override": [

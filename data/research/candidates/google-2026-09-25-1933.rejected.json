@@ -1,0 +1,11 @@
+[
+ {
+  "url": "https://www.apogeonline.com/articoli/a-caccia-di-reti-wireless-insicure-redazione-apogeonline/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.latinatoday.it/cronaca/latina-onorificenze-presidente-repubblica-nomi.html",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ }
+]

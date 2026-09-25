@@ -314,35 +314,51 @@
   },
   {
    "domain": "wallstreetitalia.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 0
   },
   {
    "domain": "dataroom",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 0
   },
   {
    "domain": "latinaoggi.eu",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 10
   },
   {
    "domain": "latinatoday.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 13
   },
   {
    "domain": "h24notizie.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 10
   },
   {
    "domain": "latinacorriere.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 1
   },
   {
    "domain": "ilcaffe.tv",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 10
   },
   {
    "domain": "apogeonline.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 2
   },
   {
    "domain": "html.it",
@@ -867,6 +883,14 @@
    "captcha": false,
    "confirmed_new": 4,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome di nuovo funzionante: 8 domini cercati senza CAPTCHA (vice.com 7 risultati, italiaoggi.it 1, gli altri 0). Confermati 4 nuovi articoli Vice Italia (sorveglianza, emergenza perenne, Gentiloni email, black/white hat); 3 Vice già in archivio; ItaliaOggi = avvocato omonimo, escluso in decisions.json. Prossimo blocco: wallstreetitalia.com, dataroom, latinaoggi.eu, latinatoday.it, h24notizie.com, latinacorriere.it, ilcaffe.tv, apogeonline.com."
+  },
+  {
+   "date": "2026-09-25 19:33",
+   "engine": "google-chrome",
+   "searched": 9,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome: 2 disconnessioni iniziali dell'estensione, poi ok. 8 domini + 1 variante (site:apogeonline.com Pietrosanti OR naif), nessun CAPTCHA. wallstreetitalia.com e dataroom (cercato come site:corriere.it/dataroom-milena-gabanelli) 0 risultati; latinaoggi, latinatoday, h24notizie, latinacorriere, ilcaffe.tv solo omonimi locali (Christian, Massimo, Matteo, Roberto, Gianluca, Luca Maria, via Pietrosanti; un Fabio Pietrosanti di Latina GLS/Center Bike escluso in decisions.json); apogeonline.com 2 articoli già in archivio. Prossimo blocco: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
   }
  ]
 }
