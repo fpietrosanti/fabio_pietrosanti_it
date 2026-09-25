@@ -266,35 +266,51 @@
   },
   {
    "domain": "vice.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 7
   },
   {
    "domain": "motherboard.vice.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 0
   },
   {
    "domain": "italiaoggi.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 1
   },
   {
    "domain": "ilsecoloxix.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 0
   },
   {
    "domain": "ilgiorno.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 0
   },
   {
    "domain": "quotidiano.net",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 0
   },
   {
    "domain": "tpi.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 0
   },
   {
    "domain": "money.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-09-25",
+   "found": 0
   },
   {
    "domain": "wallstreetitalia.com",
@@ -843,6 +859,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Nessun browser Chrome collegato (list_connected_browsers vuoto): blocco Google saltato, nessuna voce toccata. Prossimo blocco invariato: vice.com, motherboard.vice.com, italiaoggi.it, ilsecoloxix.it, ilgiorno.it, quotidiano.net, tpi.it, money.it."
+  },
+  {
+   "date": "2026-09-25 12:32",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 4,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome di nuovo funzionante: 8 domini cercati senza CAPTCHA (vice.com 7 risultati, italiaoggi.it 1, gli altri 0). Confermati 4 nuovi articoli Vice Italia (sorveglianza, emergenza perenne, Gentiloni email, black/white hat); 3 Vice già in archivio; ItaliaOggi = avvocato omonimo, escluso in decisions.json. Prossimo blocco: wallstreetitalia.com, dataroom, latinaoggi.eu, latinatoday.it, h24notizie.com, latinacorriere.it, ilcaffe.tv, apogeonline.com."
   }
  ]
 }

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **968**; dopo deduplica: **734**
+- Risultati grezzi dalle ricerche: **1001**; dopo deduplica: **766**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 699**
-- Verificati aprendo la pagina: **633**; solo da risultato di ricerca: **101**
+- **Nuovi rispetto al vecchio sito: 731**
+- Verificati aprendo la pagina: **648**; solo da risultato di ricerca: **118**
 
-Per tipo (nuovi): Menzionato 123, Talk 74, Post sul blog infosecurity.ch 71, Video 58, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, Report 18, Comunicato 17, documento 12, Slide 11, TV 9, Podcast 9, Paper 8, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, Wiki 1, magazine 1, Audizione 1, newspaper 1
+Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Video 59, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, documento 21, Articolo scritto 20, Report 18, Comunicato 17, articolo 16, Slide 11, Paper 9, TV 9, Podcast 9, Capitolo di libro 6, Intervista 6, tweet 6, village 5, Brevetto 4, pagina 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, Wiki 1, magazine 1, audio 1, Audizione 1, newspaper 1
 
 ### Copertura per anno
 
@@ -36,19 +36,19 @@ Per tipo (nuovi): Menzionato 123, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 2015 | 0 | 32 | 32 |
 | 2016 | 0 | 22 | 22 |
 | 2017 | 0 | 67 | 67 |
-| 2018 | 0 | 66 | 66 |
-| 2019 | 0 | 27 | 27 |
+| 2018 | 0 | 68 | 68 |
+| 2019 | 0 | 33 | 33 |
 | 2020 | 0 | 80 | 80 |
-| 2021 | 0 | 27 | 27 |
-| 2022 | 0 | 56 | 56 |
-| 2023 | 0 | 10 | 10 |
-| 2024 | 0 | 5 | 5 |
+| 2021 | 0 | 39 | 39 |
+| 2022 | 0 | 60 | 60 |
+| 2023 | 0 | 11 | 11 |
+| 2024 | 0 | 6 | 6 |
 | 2025 | 0 | 9 | 9 |
-| 2026 | 0 | 23 | 23 |
+| 2026 | 0 | 24 | 24 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 23 voci, 23 nuove
+## 2026 — 24 voci, 24 nuove
 
 - 🆕 **2026-09-16** · Progetto · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)  
   Old blog of infosecurity.ch (restoration)
@@ -80,6 +80,8 @@ Anni senza nessun risultato: nessuno
   Fork of the academic mxmap successor repo tracked for mxmap.it
 - 🆕 **2026-07-02** · Ricerca · GitHub mxmap-it — [mxmap.it #22 «Fingerprint security gateway by the presence of HTTPS website on the MX»](https://github.com/mxmap-it/mxmap.it/issues/22)  
   Opened by fpietrosanti
+- 🆕 **2026-06-16** · articolo · Allora! Italian Australian News — [Voto estero, dalla blockchain al voto in consolato: tutti gli emendamenti che possono cambiare la legge Tremaglia](https://alloranews.com/italiani-nel-mondo/voto-estero-dalla-blockchain-al-voto-in-consolato-tutti-gli-emendamenti-che-possono-cambiare-la-legge-tremaglia/) _(non verificato)_  
+  Contesto/esito recente: fra i 731 emendamenti alla riforma della legge Tremaglia (Commissione Affari costituzionali, giugno 2026), Marattin (1.6 e 4.05) propone il voto in presenza nei consolati come opzione per gli iscritti AIRE, cioè l'idea del progetto AIRE; altri propongono la blockchain. Il nome di Pietrosanti NON compare.
 - 🆕 **2026-06-12** · Progetto · GitHub — [whistleblowing-monitor-italia: Monitor Whistleblowing Reporting Channel in Italy (PA & Stock Market)](https://github.com/fpietrosanti/whistleblowing-monitor-italia)  
   Scanner of whistleblowing channels of Italian PAs and listed companies (WB Monitor Italia)
 - 🆕 **2026-06-12** · Progetto · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo)  
@@ -118,10 +120,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2025-01-05** · TV · Rai 1 - Tg1 (servizio di Barbara Carfagna) — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html) _(non verificato)_  
   INFERRED, NOT VERIFIED. Tg1 news piece (05/01/2025) on biohackers/XPrize. Text quotes an unnamed biohacker ('spiega uno di loro') on bringing biomarkers to a biological age below chronological age, alongside named Teemu Arina and Aubrey de Grey (same cast as Codice Beta 17/01/2025). His name does not appear on the page.
 
-## 2024 — 5 voci, 5 nuove
+## 2024 — 6 voci, 6 nuove
 
 - 🆕 **2024-11-14** · Citato · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/)  
   Out of 2009-2015 slice, found incidentally; quoted as Hermes Center president on spyware prices in Italy
+- 🆕 **2024-11-12** · articolo · The Record (Recorded Future News) — [How Italy became an unexpected spyware hub](https://therecord.media/how-italy-became-an-unexpected-spyware-hub)  
+  Trovato per caso durante la ricerca IHC (fuori dai 5 sotto-compiti). Articolo di Suzanne Smalley: Fabio, 'president of Italy's Hermes Center for Transparency and Digital Human Rights and a prominent ethical hacker', è la fonte principale: spyware più usato in Italia perché più accessibile, il suo lavoro del 2017 sulla proposta di legge sui trojan, il mercato italiano dei fornitori, la riforma in vigore da febbraio. Pagina aperta: nome presente più volte. Nel repo esiste solo la copia di Punto Informatico che lo riprende, non l'originale.
 - 🆕 **2024-11-07** · Libro · Wolters Kluwer Italia — [Intelligenza artificiale, blockchain e criptovalute](https://books.google.com/books?id=GbEvEQAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Authors: Massimiliano Nicotra, Fulvio Sarzana di S. Ippolito (ISBN 9788821784552). Snippet: '... Pietrosanti, presidente e co-fondatore del Centro Hermes per la trasparenza dei diritti umani digitali «Le frontiere verso cui si spinge la profilazione comportamentale degli utenti, grazie alle tecnologie di intelligenza artificiale ...'.
 - 🆕 **2024-05-07** · Capitolo di libro · Edward Elgar, Digital Media and Grassroots Anti-Corruption (ed. A. Mattoni), ch. 7, open access CC BY-NC-ND — [Digital whistleblowing platforms for anti-corruption: The Transparency International Italia case (Philip Di Salvo)](https://doi.org/10.4337/9781802202106.00015)  
@@ -131,8 +135,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2024** · documento · UNESCO, Global AI Ethics and Governance Observatory — [Hermes Center - Global Civil Society Organizations and Academic Network on AI Ethics and Policy](https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center) _(non verificato)_  
   NEAR-MISS, NOT HIM. Hermes Center is listed as a member organisation of UNESCO's civil-society network on AI ethics. Page read in full: the only contact given is the generic board@hermescenter.org; no individual is named, so neither 'Fabio Pietrosanti' nor 'naif' appears. Does not qualify under the naming rule.
 
-## 2023 — 10 voci, 10 nuove
+## 2023 — 11 voci, 11 nuove
 
+- 🆕 **2023-12** · documento · Ministero dell'Interno — [Voto online, il 13 e il 14 dicembre è stata simulata un'elezione politica nella circoscrizione estero](https://www.interno.gov.it/it/notizie/voto-online-13-e-14-dicembre-e-stata-simulata-unelezione-politica-nella-circoscrizione-estero) _(non verificato)_  
+  Contesto/esito: simulazione e-Vote finanziata dal fondo della L. 160/2019 (Londra, Stoccolma, Monaco di Baviera, Charleroi). Il nome di Pietrosanti NON compare.
 - 🆕 **2023-05-17** · Talk · Copernicani (in-person event) — [Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins](https://copernicani.it/privacy-by-design-e-privacy-coins/)  
   He presents/moderates; speakers Rachel-Rose O'Leary (DarkFi) and Daniele Monteleone (Web3 Labs); announcement published 2023-05-01 (Wayback 20230517)
 - 🆕 **2023-05-16** · Menzionato · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html)  
@@ -154,7 +160,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 
-## 2022 — 56 voci, 56 nuove
+## 2022 — 60 voci, 60 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -180,6 +186,8 @@ Anni senza nessun risultato: nessuno
   MonitoraPA FOIA requests sent to schools in his name
 - 🆕 **2022-09-20** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [1064. MonitoraPA ha mandato una PEC a 8254 scuole](https://www.spreaker.com/episode/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole-quali-le-domande-e-cosa-rispondere-con-42lf-it--51323447)  
   Audio version; MonitoraPA FOIA to schools in his name
+- 🆕 **2022-09-17** · articolo · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) _(non verificato)_  
+  Aggregatore che ripubblica l'articolo di Il Post del 14/09/2022 (già noto), che nomina Pietrosanti come coautore dello studio sui seggi in 43 città. Sito oggi irraggiungibile (certificato errato), nessuna cattura Wayback: non verificato, il nome risulta solo dallo snippet del motore di ricerca.
 - 🆕 **2022-09-14** · Menzionato · Il Post — [Il voto degli italiani all'estero ha vari problemi](https://www.ilpost.it/2022/09/14/sicurezza-voto-italiani-estero/)  
   Cites the Napolitano (FBK) - Pietrosanti (Hermes) study on in-person polling stations for Italians abroad
 - 🆕 **2022-09-13** · Comunicato · Monitora PA — [Monitora PA: Speciale Elezioni 2022 - Segnalazione al Garante](https://monitora-pa.it/2022/09/13/Speciale_Elezioni_2022_Segnalazione_al_Garante.html)  
@@ -194,8 +202,12 @@ Anni senza nessun risultato: nessuno
   10,162 PECs sent to PAs on Google Fonts
 - 🆕 **2022-08-08** · Comunicato · Monitora PA — [Google Fonts in vista!](https://monitora-pa.it/2022/08/08/GoogleFonts_in_vista.html)  
   Formal notice to PAs signed by him as MonitoraPA co-founder
+- 🆕 **2022-07-13** · Video · WebTV Camera dei Deputati — [Comitato permanente sugli italiani nel mondo, audizione del dottor Vignali](https://webtv.camera.it/evento/21102) _(non verificato)_  
+  Contesto: audizione del DG italiani all'estero della Farnesina sul voto elettronico, citata da Il Post (14/09/2022) accanto allo studio Pietrosanti-Quintarelli-Napolitano. Pietrosanti non vi partecipa.
 - 🆕 **2022-07-10** · Progetto · GitHub — [monitorapa (fork): Progetto per monitoraggio e notifica di non compliance GDPR alle PA con input da IndicePA](https://github.com/fpietrosanti/monitorapa)  
   His fork of the MonitoraPA observatory code
+- 🆕 **2022-07** · documento · Ministero degli Affari Esteri e della Cooperazione Internazionale — [Portale Voto Elettronico — Relazione Finale](https://www.esteri.it/wp-content/uploads/2022/07/MAECI___Portale_Voto_Elettronico___Relazione_Finale.pdf) _(non verificato)_  
+  Contesto: relazione finale (15 pp.) sulla sperimentazione del voto elettronico Comites 2021. Testo controllato: Pietrosanti, Hermes e Copernicani non compaiono.
 - 🆕 **2022-06-28** · Intervista · Info Data - Il Sole 24 Ore — [Stretta del Garante Privacy italiano su Google Analytics. Aveva ragione MonitoraPa?](https://www.infodata.ilsole24ore.com/2022/06/28/stretta-del-garante-privacy-italiano-google-analytics-ragione-monitorapa/)  
   Republishes his Think Tally Talk interview after the Garante's GA decision
 - 🆕 **2022-06-27** · Menzionato · Il Disinformatico (Paolo Attivissimo) — [Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola?](https://attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html)  
@@ -228,6 +240,8 @@ Anni senza nessun risultato: nessuno
   MonitoraPA civic action; with Marco Ciurcina
 - 🆕 **2022-05-13** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.spreaker.com/episode/google-analytics-e-pubbliche-amministrazioni-8-000-pa-sono-fuori-legge-ed-ora--49784871)  
   Audio version; MonitoraPA
+- 🆕 **2022-04-04** · documento · Copernicani — [Voto elettronico: la posizione dei Copernicani alla Conferenza sul Futuro dell'Europa](https://copernicani.it/voto-elettronico-la-posizione-dei-copernicani-alla-conferenza-sul-futuro-delleuropa/) _(non verificato)_  
+  Posizione ufficiale dei Copernicani: per gli italiani all'estero seggi in 43 città (84,35% in presenza) invece del voto elettronico, cioè i risultati del progetto Geo-AIRE. Il nome di Pietrosanti NON compare.
 - 🆕 **2022-03-24** · Citato · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://livornopress.it/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack)  
   Syndicated piece quoting Pietrosanti (co-founder Hermes) on Kaspersky risk scenario
 - 🆕 **2022-03-20** · Ricerca · GitHub — [kaspersky-risks — Risk evaluation of Kaspersky if subject to coercion by the Russian government](https://github.com/fpietrosanti/kaspersky-risks)  
@@ -269,12 +283,20 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Talk · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)  
   Investigative journalism festival speaker page
 
-## 2021 — 27 voci, 27 nuove
+## 2021 — 39 voci, 39 nuove
 
-- 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAQBAJ)  
+- 🆕 **2021-11-19** · documento · Garante per la protezione dei dati personali — [Parere sullo schema decreto del MAECI sulla sperimentazione del voto elettronico per il rinnovo dei Com.It.Es. 2021 [9721434]](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9721434) _(non verificato)_  
+  Contesto istituzionale: sperimentazione del voto elettronico per le elezioni Comites 2021. Il nome di Pietrosanti NON compare.
+- 🆕 **2021-11** · documento · Ministero degli Affari Esteri e della Cooperazione Internazionale — [Sperimentazione voto elettronico in occasione delle elezioni Comites](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2021/11/sperimentazione-voto-elettronico-in-occasione-delle-elezioni-comites/) _(non verificato)_  
+  Contesto: comunicato MAECI sulla sperimentazione (11 circoscrizioni consolari, SPID, senza valore legale). Il nome di Pietrosanti NON compare.
+- 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Anthology (probably reprints the Mann chapter). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing. Retrieved 17 March 2019, https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html'.
 - 🆕 **2021-08-03** · articolo · il Giornale — ["Tutta Italia è vulnerabile, servono investimenti"](https://www.ilgiornale.it/news/politica/tutta-italia-vulnerabile-servono-investimenti-1966600.html) _(non verificato)_  
   Intervista (Luca Fazzo) sull'attacco ransomware alla Regione Lazio dell'agosto 2021; l'intervistato ricorda che a marzo 2020 'un ricercatore italiano' aveva messo a nudo gravi vulnerabilità nel backend di LAZIOdrCOVID. Pagina aperta: nome assente (né Rocca né Pietrosanti).
+- 🆕 **2021-07-14** · articolo · AliAutonomie — [Voto elettronico. Adottato il decreto per la sperimentazione per le politiche, europee ed i referendum](https://aliautonomie.it/2021/07/14/voto-elettronico-adottato-il-decreto-per-la-sperimentazione-per-le-politiche-europee-ed-i-referendum/) _(non verificato)_  
+  Contesto: decreto Lamorgese-Colao (luglio 2021) con le linee guida per l'uso del fondo da 1M (prima simulazione, poi sperimentazione). Il nome di Pietrosanti NON compare.
+- 🆕 **2021-07-09** · documento · Ministero dell'Interno — [Decreto del Ministro dell'Interno sulla sperimentazione del voto elettronico (9 luglio 2021)](https://www.interno.gov.it/sites/default/files/2021-07/decreto_ministro_su_sperimentazione_voto_elettronico_9.7.2021.pdf) _(non verificato)_  
+  Contesto: decreto attuativo del fondo da 1M (L. 160/2019 c. 627) con le linee guida per simulazione e sperimentazione (italiani all'estero e fuori sede). Il nome di Pietrosanti NON compare (non letto per intero; è un atto normativo).
 - 🆕 **2021-06-08** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [Voto Elettronico: perché è (ancora) una pessima idea](https://www.spreaker.com/episode/voto-elettronico-perche-e-ancora-una-pessima-idea--45210765)  
   Credited among experts who reviewed the script
 - 🆕 **2021-06-05** · Radio · Radio Radicale — [Riabitiamo i centri storici](https://www.radioradicale.it/scheda/638849/riabitiamo-i-centri-storici)  
@@ -293,6 +315,10 @@ Anni senza nessun risultato: nessuno
   Rapetto presenta Giovanni Rocca come 'la persona che ha smascherato l'inaffidabilità della app LazioDrCovid'. Pagina aperta: nome assente.
 - 🆕 **2021-04-04** · Talk · GlobaLeaks blog — [Workshop: Building Secure Whistleblowing Systems for Anticorruption with the GlobaLeaks Software](https://globaleaks.org/2021/04/04/workshop-building-secure-whistleblowing-systems-for-anticorruption-with-the-globaleaks-software/)  
   Workshop speakers include Fabio Pietrosanti (GlobaLeaks) with MexicoLeaks, XNET, Digital Whistleblowing Fund
+- 🆕 **2021-03-28** · tweet · Twitter @fpietrosanti (Wayback) — [Appello a Maria Laura Mantovani per non seguire le indicazioni di voto elettronico fornite da @g_brescia](https://twitter.com/fpietrosanti/status/1376263165948928004)  
+  Tweet di Fabio (cattura Wayback 20210328200141) a Brescia, Viminale e parlamentari M5S: il voto elettronico è 'in antitesi a qualunque forma di garanzia', contro le indicazioni di cybersecurity di ENISA (fase del decreto attuativo del fondo).
+- 🆕 **2021-03-24** · tweet · Twitter @fpietrosanti (Wayback) — [In Italia le Commissioni sul Voto vengono fatte a porte chiuse da burocrati nominati da Ministeri e Politici](https://twitter.com/fpietrosanti/status/1374787535277264901)  
+  Tweet di Fabio (cattura Wayback 20210324181803): confronta la commissione ministeriale italiana sul voto elettronico con le audizioni pubbliche al Senato USA (link CDT, For the People Act).
 - 🆕 **2021-03-19** · Talk · Comune di Milano - Milano Partecipa / Milano Digital Week (partecipami.it) — [Da Milano Partecipa alla comunità italiana per la e-democracy](https://www.partecipami.it/calendar/event/1/8691)  
   Event page lists 'Fabio Pietrosanti, OpenRousseau' among speakers (same event as the known Radio Radicale recording)
 - 🆕 **2021-03-19** · Radio · Radio Radicale — [Da "Milano Partecipa" alla comunità italiana per la e-democracy](https://www.radioradicale.it/scheda/631935/da-milano-partecipa-alla-comunita-italiana-per-la-e-democracy)  
@@ -303,6 +329,18 @@ Anni senza nessun risultato: nessuno
   Exact date from article:published_time 2021-03-15T07:59:05Z; sole author; reports his Oct 2020 FOIA on the e-voting committee
 - 🆕 **2021-03-15** · Articolo scritto · Agenda Digitale — [Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio](https://www.agendadigitale.eu/cittadinanza-digitale/voto-dei-cittadini-allestero-meglio-farlo-tramite-seggi-lo-studio/)  
   Exact date from article:published_time 2021-03-15T07:59:46Z; with S. Quintarelli and M. Napolitano (AIRE geo-spatial study)
+- 🆕 **2021-03-15** · tweet · Twitter @AlessLongo (Alessandro Longo, Agenda Digitale; Wayback) — [Chiediamo chiarezza. Tema del voto online è grave e necessità dibattito pubblico](https://twitter.com/alesslongo/status/1371423726294728709)  
+  Tweet del direttore di Agenda Digitale che rilancia 'Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo' (già noto; stesso giorno dello studio Geo-AIRE) taggando @quinta @fpietrosanti @raistolo @lastknight. Catturato su Wayback come retweet dall'URL twitter.com/fpietrosanti/status/1371453708538626049 (cattura 20210315133042).
+- 🆕 **2021-03-15** · tweet · Twitter @fpietrosanti (Wayback) — [In Olanda si vota al seggio in presenza, durante la pandemia... Non serve il #votoelettronico](https://twitter.com/fpietrosanti/status/1371468993291284481)  
+  Tweet di Fabio del 15/03/2021, il giorno di uscita dello studio sui seggi esteri su Agenda Digitale: il voto in presenza con la tecnologia per gestire le code al posto del voto elettronico. Cattura Wayback 20210315143130.
+- 🆕 **2021-03-13** · documento · GitHub (g0v-it) — [Geo-AIRE — Analisi di fattibilità seggi di voto estero, tramite analisi geo-spaziale base dati AIRE](https://github.com/g0v-it/Geo-AIRE)  
+  Repository del progetto (creato 13/03/2021): policy paper PDF/ODT e dataset ODS. Il README dice: 'Il progetto è frutto della collaborazione di Fabio Pietrosanti, Stefano Quintarelli e Maurizio Napolitano'. PROGETTO AIRE (sintesi): ricerca di policy (non un progetto finanziato) di Fabio Pietrosanti (Centro Hermes/CRVD, Copernicani) come alternativa al fondo di 1 milione di euro per la sperimentazione del voto elettronico (L. 160/2019, art. 1 c. 627, emendamento M5S Garruti/Dell'Olio, dicembre 2019). Fase 1 (nov-dic 2019): analisi di geolocalizzazione degli iscritti AIRE di Pietrosanti, annunciata in un suo tweet del 15/11/2019 (87% entro 20 km) e citata da CRVD il 20/12/2019 (80 seggi esteri = oltre 86% degli elettori AIRE entro 2 ore A/R; 216 seggi = 99%). Fase 2 (marzo 2021): progetto 'Geo-AIRE' con Stefano Quintarelli e Maurizio Napolitano (FBK Digital Commons Lab), pubblicato su github.com/g0v-it/Geo-AIRE (13/03/2021) e su Agenda Digitale (15/03/2021): dati AIRE 2015 (4.112.367 record), raggio 20 km, seggi in 43 città = 84,35%, in 273 città = 99,82%, modello francese; il resto con voto postale/proxy. Esito: adottato come posizione ufficiale dai Copernicani (2021-2022) e ripreso da Il Post (09/2022); il governo ha invece proseguito con la sperimentazione di voto elettronico (decreto luglio 2021, Comites nov-dic 2021, simulazione e-Vote Viminale dic 2023); nessun seggio estero istituito.
+- 🆕 **2021-03-13** · Paper · GitHub (g0v-it/Geo-AIRE) — [Un approccio di policy research per la sicurezza del voto degli AIRE basato su analisi dati geo-spaziali](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.pdf) _(non verificato)_  
+  Policy paper di 6 pagine del progetto Geo-AIRE (43 città = 84,35%, 273 = 99,82%; parte dal paper Copernicani 'Overlay Network Crittografici'; cita lo stanziamento di 1M per il voto remoto). Il PDF NON riporta nomi di autori: l'attribuzione a Pietrosanti, Quintarelli e Napolitano sta nel README del repository e nell'articolo di Agenda Digitale del 15/03/2021.
+- 🆕 **2021-03-13** · documento · GitHub (g0v-it/Geo-AIRE) — [Analisi Geospaziale dati AIRE 2015 per Seggi (dataset)](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.ods) _(non verificato)_  
+  Foglio di calcolo con i risultati dell'analisi per cluster/città. Nessun nome nel file; attribuzione dal README del repository.
+- 🆕 **2021-03-11** · tweet · Twitter @fpietrosanti (Wayback) — [Va bloccata la commissione 'segreta' sul voto elettronico](https://twitter.com/fpietrosanti/status/1369911891334729728)  
+  Tweet di Fabio (cattura Wayback 20210311072357) nel thread con Palmieri, Piana, Quintarelli e altri: il rischio sta nell'azione del deputato Brescia 'al servizio della proposizione ideologica Rousseau'; 'Va bloccata la commissione “segreta” sul voto elettronico' (è la commissione per il voto elettronico nella circoscrizione Estero, oggetto del suo FOIA).
 - 🆕 **2021-03-11** · Menzionato · FSFE — [FSFE at FOSDEM 2021](https://fsfe.org/news/2021/news-20210311-01.en.html)  
   FSFE report mentions his panel on the GlobaLeaks AGPL compliance case
 - 🆕 **2021-03** · Menzionato · Italia Open Gov (Dipartimento della Funzione Pubblica) — [Il Dipartimento alla Milano Digital week](https://open.gov.it/notizie/dipartimento-milano-digital-week)  
@@ -489,16 +527,26 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 27 voci, 27 nuove
+## 2019 — 33 voci, 33 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
+- 🆕 **2019-12-20** · articolo · CRVD — blog.crvd.org (URL originale, Wayback) — [Come non sprecare un milione di euro](https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/)  
+  URL originale (catture Wayback dal 13/08/2020) del post CRVD già noto nella copia preservata. Nel testo: 'Fabio Pietrosanti, del Centro Studi Hermes Center ... ha mostrato che con l'apertura di 80 seggi esteri si coprirebbe oltre l'86% degli elettori iscritti all'AIRE' (2 ore A/R; 216 seggi = 99%). È la prima fonte pubblica dell'analisi AIRE, in risposta al fondo da 1 milione del sen. Garruti (M5S).
 - 🆕 **2019-12-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come non sprecare un milione di euro](https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/)  
   AIRE project: geolocation analysis by Fabio (Hermes Center) — 80 foreign polling stations would cover 86%+ of AIRE voters; alternative to e-voting for Italians abroad; restored site hermescenter/crvd.org-preservation (2026-09-18)
+- 🆕 **2019-12-14** · articolo · Gente d'Italia — [Approvato il fondo per 1 milione di euro per voto elettronico](http://www.genteditalia.org/2019/12/14/approvato-il-fondo-per-1-milione-di-euro-per-voto-elettronico/) _(non verificato)_  
+  Contesto: approvazione in Senato dell'emendamento che crea il fondo da 1M per il voto elettronico (italiani all'estero e fuori sede), a cui risponde l'analisi AIRE di Pietrosanti. Il suo nome NON compare.
 - 🆕 **2019-12-11** · Podcast · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397)  
   S1E117 with Peter Fleming (UTS) on digital whistleblowing infrastructure
+- 🆕 **2019-12** · articolo · AISE — [Siragusa (M5S): 1 milione di euro per voto elettronico positivo per italiani all'estero](https://www.aise.it/eletti-allestero/siragusa-m5s-1-milione-di-euro-per-voto-elettronico-positivo-per-italiani-allestero/139344/159) _(non verificato)_  
+  Contesto: reazione della deputata eletta all'estero al fondo per il voto elettronico. Il nome di Pietrosanti NON compare. Data approssimata (dicembre 2019).
 - 🆕 **2019-11-21** · Menzionato · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/)  
   verified via wayback; context: …o: il voto elettronico non è una “sfida” e non è “il futuro”. Il voto elettronico è una sciocchezza, e chi la propone evidentemente non ne capisce i problemi». Fabio Pietrosanti, consulente per la sicurezza informatica, …
+- 🆕 **2019-11-21** · articolo · La Nuova di Venezia (gelocal, ripresa de La Stampa) — [Manovra, il M5S propone soldi per il fantasma del voto elettronico](https://nuovavenezia.gelocal.it/italia-mondo/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928390/amp/)  
+  Copia GEDI dell'articolo de La Stampa (già noto) sull'emendamento del fondo per il voto elettronico. Verificato su Wayback (cattura 20191122024007): 'Fabio Pietrosanti, consulente per la sicurezza informatica, ... riferiva ... che il consensus sul tema è che il voto a distanza sia improponibile'. La pagina live oggi è vuota.
+- 🆕 **2019-11-15** · tweet · Twitter @fpietrosanti (Wayback) — [Risposta a @lucatremolada: analisi sul DB AIRE per istituire seggi di voto all'estero](https://twitter.com/fpietrosanti/status/1195446177371701250)  
+  Prima traccia pubblica del progetto AIRE. Tweet di Fabio (screen_name fpietrosanti, cattura Wayback 20191115205913), in risposta al post di Luca Tremolada su InfoData Sole 24 Ore 'Gli italiani all'estero': 'Abbiamo fatto, non ancora pubblicato, una analisi su DB aire per proporre una data based policy per istituire seggi di voto all'estero. Incredibile entro 20km per gruppi di cittadini >500 si coprirebbe l'87% della popolazione all'estero'.
 - 🆕 **2019-11-15** · documento · GitHub (osservatoriosicurezza) — [Issue #2 - Current State of Pipeline 0](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/2)  
   Verificato via GitHub API: thread tecnico su come definire il perimetro IP italiano (RIPE, BGP, GeoIP, definizione di legge DL 105/2019). Commenti di fpietrosanti del 2019-11-17 e 2019-11-18; citato più volte (@fpietrosanti) da Carlo Mara. Altri partecipanti: CarloMara, simoneonofri, fnzv, rfc1036, gbonfiglio, Antonio-Prado.
 - 🆕 **2019-11-13** · repository · GitHub (osservatoriosicurezza) — [Pull request #1 - Update README.md (vodkina-patch-1), merged by fpietrosanti](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/pull/1)  
@@ -513,6 +561,8 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …a e al microfono, quindi scattare foto e ascoltare conversazioni. Come proteggersi Difficile che la vittima si accorga di essere digitalmente pedinata, avverte Fabio Pietrosanti , co-fondatore del Centro Hermes per la tr…
 - 🆕 **2019-09-03** · Menzionato · The Vision — [Un governo deciso da un sondaggio online è la vergogna della democrazia italiana](https://thevision.com/politica/governo-rousseau-democrazia/)  
   Cites him (Hermes Center) noting Rousseau's Mozilla HTTP Observatory rating F during the Conte II Rousseau vote
+- 🆕 **2019-08-08** · articolo · CRVD (copia preservata) — [È ora che l'Italia conosca gli italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/e-ora-che-litalia-conosca-gli-italiani-allestero/) _(non verificato)_  
+  Rassegna stampa CRVD (ripresa AISE) sull'audizione Vignali al Senato (quasi 6 milioni di iscritti consolari, Fast It): contesto sui dati AIRE. Il nome di Pietrosanti NON compare.
 - 🆕 **2019-06-07** · Talk · e-privacy XXV (2019 summer), Torino, Cittadella Politecnica - Progetto Winston Smith — [Big Brother Award (slot by Hermes Center)](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) _(non verificato)_  
   Programme (live and Wayback 2019-04-13): '12:20 0:30 Hermes Center for Transparency and Digital Human Rights - Big Brother Award' - no person named; no video file for this slot, no Radio Radicale entry for him. Presenter unknown.
 - 🆕 **2019-04-09** · Articolo scritto · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/)  
@@ -546,7 +596,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Talk · MOJO Italia - Festival del giornalismo mobile (2a edizione) — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/)  
   Speaker at 2nd edition (announced 2019-02-17) on whistleblowing, privacy and digital anonymity
 
-## 2018 — 66 voci, 66 nuove
+## 2018 — 68 voci, 68 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -572,6 +622,8 @@ Anni senza nessun risultato: nessuno
   Launch of free whistleblowing platform for Italian PAs (Transparency International Italia + Hermes/Whistleblowing Solutions)
 - 🆕 **2018-09-29** · Menzionato · repubblica.it — [Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la password”](https://www.repubblica.it/tecnologia/sicurezza/2018/09/29/news/attacco_a_facebook_il_giorno_dopo_non_c_e_bisogno_di_cambiare_le_password_-207672944/)  
   verified via wayback; context: …associato a una funzione molto usata. Ma la falla è probabilmente dovuta al crescere della complessità del codice software sottostante la piattaforma", spiega Fabio Pietrosanti del Centro Hermes per i diritti digitali. M…
+- 🆕 **2018-09-27** · articolo · CRVD (copia preservata, da ItaliaChiamaItalia) — [Fusacchia (+Europa) a ItaliaChiamaItalia: «Insisto, per gli italiani all'estero ci vuole il voto elettronico»](https://hermescenter.github.io/crvd.org-preservation/fusacchia-europa-a-italiachiamaitalia-insisto-per-gli-italiani-allestero-ci-vuole-il-voto-elettronico/) _(non verificato)_  
+  Rassegna CRVD sulla proposta di voto elettronico per gli italiani all'estero (tag 'italiani all'estero'). Il nome di Pietrosanti NON compare.
 - 🆕 **2018-09-12** · Altro · EDRi (European Digital Rights) — [Big Brother Awards 2018 Italy](https://edri.org/big-brother-awards-2018-italy/) _(non verificato)_  
   Hermes Center report on BBA Italia 2018 which he co-presented; no name mention
 - 🆕 **2018-08-31** · Radio · Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini — [Hyperloop, TOR e Industria 4.0](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/hyperloop-tor-e-industria-40-152305-2419246668444300)  
@@ -582,6 +634,8 @@ Anni senza nessun risultato: nessuno
   Italian Hacker Camp 2018 talk with Davide Del Monte
 - 🆕 **2018-08-04** · Radio · Rai Radio 1 — [A Padova il raduno degli hacker: Pietrosanti: 'Non chiamateci pirati, siamo cavalieri del ...'](https://www.linkedin.com/pulse/padova-il-raduno-degli-hacker-pietrosanti-non-pirati-siamo-guarnieri?trk=public_profile_article_view)  
   Already known (via LinkedIn Pulse by Paola Guarnieri). The original Radio 1 segment was not found on RaiPlay Sound: GR bulletins are not itemised, and RaiPlay Sound started returning HTTP 403 during the scan.
+- 🆕 **2018-08-03** · audio · Rai Radio1 (servizio di Paola Guarnieri, ricaricato su SoundCloud) — [A Padova il raduno degli hacker. Pietrosanti: "Altro che pirati, siamo i cavalieri del web"](https://soundcloud.com/user-873190463/a-padova-il-raduno-degli-hacker-pietrosanti-altro-che-pirati-siamo-i-cavalieri-del-web)  
+  Audio (1'07") del servizio andato in onda su Radio1 Rai durante l'Italian Hacker Camp 2018 (Padova, parco Fenice, 2-5 agosto 2018). Traccia SoundCloud id 480604977 caricata il 2018-08-03 dall'account 'flapperG' (Paola Guarnieri, giornalista Rai), la stessa che la incorpora nel suo articolo LinkedIn del 2018-08-04 (già noto). Il nome di Fabio è nel titolo della traccia (verificato via oEmbed e pagina SoundCloud). La pagina originale Rai (radio1.rai.it/GR) non è stata trovata: RaiPlay Sound non ha archivi GR1/Eta Beta/Zapping anteriori al 2021 e il Web Archive non ha catture pertinenti.
 - 🆕 **2018-07-25** · Altro · EDRi (European Digital Rights) — [Member in the Spotlight: Hermes Center](https://edri.org/our-work/member-in-the-spotlight-hermes-center/) _(non verificato)_  
   Hermes Center guest profile (his organisation); no name mention
 - 🆕 **2018-07-10** · Menzionato · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://cybersecurity.startupitalia.eu/61414-20180710-cyberchallenge-2018-la-nuova-generazione-hacker-etici)  
@@ -1589,7 +1643,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · tomshw.it — [Gli esperti di cybersicurezza criticano la nomina di Carrai | Tom's Hardware](https://www.tomshw.it/altro/gli-esperti-di-cybersicurezza-criticano-la-nomina-di-carrai)
 - 🆕 Menzionato · tomshw.it — [Il M5S ha toppato, difendiamo gli hacker etici | Tom's Hardware](https://www.tomshw.it/altro/il-m5s-ha-toppato-difendiamo-gli-hacker-etici)
 - 🆕 Menzionato · startmag.it — [Come (non) fare un'app anti Covid-19. L'appello di esperti e prof.](https://www.startmag.it/innovazione/come-non-fare-unapp-anti-covid-19-lappello-di-esperti-e-prof/)
+- 🆕 Menzionato · vice.com — [Quanto spende il Governo italiano per le tecnologie di sorveglianza?](https://www.vice.com/it/article/quanto-spende-il-governo-italiano-per-le-tecnologie-di-sorveglianza/)
+- 🆕 Menzionato · vice.com — [L’Europa si trova davvero in uno stato di emergenza perenne?](https://www.vice.com/it/article/stato-di-sorveglianza-perenne-europa-terrorismo-privacy/)
+- 🆕 Menzionato · vice.com — [Davvero Paolo Gentiloni non usa le email?](https://www.vice.com/it/article/paolo-gentiloni-email-sms-pubblica-amministrazione-protocolli/)
+- 🆕 Menzionato · vice.com — [Una volta per tutte: qual è la differenza tra hacker black hat e white hat](https://www.vice.com/it/article/una-volta-per-tutte-qual-e-la-differenza-tra-hacker-black-hat-e-white-hat/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
+- 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 Menzionato · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Tag: fabio pietrosanti — CRVD](https://hermescenter.github.io/crvd.org-preservation/tag/fabio-pietrosanti/)
 
 ---

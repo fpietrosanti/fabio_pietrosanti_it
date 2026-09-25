@@ -1,13 +1,14 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-09-24 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-09-25 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **734**; già processate: **772**; ancora da processare: **0**
-- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **453** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **585**
+- Voci in `data/media.json`: **766**; già processate: **804**; ancora da processare: **0**
+- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **486** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **603**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **15**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **32**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **16**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **13**
@@ -17,17 +18,17 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
 - 🎬 Video/audio scaricato (+ pagina): **83**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
-- ❌ Non ottenuta: **5**
+- ❌ Non ottenuta: **4**
 
 ## Per anno
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 19 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2000 | 14 | 0 | 0 | 1 | 0 | 0 | 1 |
+| 2000 | 15 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 2001 | 14 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 2002 | 14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -45,15 +46,15 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2015 | 24 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 13 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 56 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 34 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 18 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 35 | 16 | 1 | 0 | 0 | 0 | 0 |
+| 2019 | 21 | 3 | 3 | 0 | 0 | 0 | 0 |
 | 2020 | 69 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 2021 | 18 | 6 | 0 | 0 | 0 | 0 | 1 |
-| 2022 | 44 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2023 | 9 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 2024 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2021 | 25 | 6 | 6 | 0 | 0 | 0 | 0 |
+| 2022 | 44 | 7 | 3 | 0 | 0 | 0 | 1 |
+| 2023 | 9 | 0 | 1 | 0 | 1 | 0 | 0 |
+| 2024 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2026 | 19 | 0 | 1 | 0 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -104,16 +105,14 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2026** · Camera dei deputati, IX Commissione (Tra — [Memoria soggetto non audito - Rete diritti umani digitali, osservazioni sull'A.G. n. 421 (](https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.97466.23-07-2026-12-31-56.077.pdf) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
-- ❌ **2000** · Hackmeeting 2000 (Hackit00), Roma, Forte — [Letteratura Cyberpunk (seminar proposal)](https://www.hackmeeting.org/hackit00/proposte/letteratura.html) · licenza: terzi  
-  URLError
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
   http 404
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
   http 404
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
-- ❌ **2021** · IGI Global (Information Resources Manage — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAQBAJ) · licenza: terzi  
-  http 404
+- ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
+  URLError
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
   2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
 - 📚 **2012** · Dutton (Penguin) - Andy Greenberg — [This Machine Kills Secrets (additional IA copies thismachinekills00gree_0 / thismachinekil](https://archive.org/details/thismachinekills00gree_0) · licenza: terzi  
@@ -264,6 +263,36 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: la pagina «Amministrazione Trasparente» costruisce l'elenco dei documenti via JavaScript (verificato anche nel browser: nessuna occorrenza nel DOM). Serve l'URL diretto del PDF dell'istanza.
 - 🗂️ **2022** · Liceo Statale "Maria Montessori" (Minist — [Istanza accesso civico sig. Fabio Pietrosanti](https://www.istitutomontessori.edu.it/amministrazione-trasparente/) · licenza: terzi  
   2026-09-23: la pagina «Amministrazione Trasparente» costruisce l'elenco dei documenti via JavaScript (verificato anche nel browser: nessuna occorrenza nel DOM). Serve l'URL diretto del PDF dell'istanza.
+- 🟡 **2018** · CRVD (copia preservata, da ItaliaChiamaI — [Fusacchia (+Europa) a ItaliaChiamaItalia: «Insisto, per gli italiani all'estero ci vuole i](https://hermescenter.github.io/crvd.org-preservation/fusacchia-europa-a-italiachiamaitalia-insisto-per-gli-italiani-allestero-ci-vuole-il-voto-elettronico/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · Gente d'Italia — [Approvato il fondo per 1 milione di euro per voto elettronico](http://www.genteditalia.org/2019/12/14/approvato-il-fondo-per-1-milione-di-euro-per-voto-elettronico/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · CRVD (copia preservata) — [È ora che l'Italia conosca gli italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/e-ora-che-litalia-conosca-gli-italiani-allestero/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · AISE — [Siragusa (M5S): 1 milione di euro per voto elettronico positivo per italiani all'estero](https://www.aise.it/eletti-allestero/siragusa-m5s-1-milione-di-euro-per-voto-elettronico-positivo-per-italiani-allestero/139344/159) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2021** · AliAutonomie — [Voto elettronico. Adottato il decreto per la sperimentazione per le politiche, europee ed ](https://aliautonomie.it/2021/07/14/voto-elettronico-adottato-il-decreto-per-la-sperimentazione-per-le-politiche-europee-ed-i-referendum/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2021** · IGI Global (Information Resources Manage — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2021** · GitHub (g0v-it/Geo-AIRE) — [Analisi Geospaziale dati AIRE 2015 per Seggi (dataset)](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.ods) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2021** · Ministero degli Affari Esteri e della Co — [Sperimentazione voto elettronico in occasione delle elezioni Comites](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2021/11/sperimentazione-voto-elettronico-in-occasione-delle-elezioni-comites/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2021** · Garante per la protezione dei dati perso — [Parere sullo schema decreto del MAECI sulla sperimentazione del voto elettronico per il ri](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9721434) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2021** · Ministero dell'Interno — [Decreto del Ministro dell'Interno sulla sperimentazione del voto elettronico (9 luglio 202](https://www.interno.gov.it/sites/default/files/2021-07/decreto_ministro_su_sperimentazione_voto_elettronico_9.7.2021.pdf) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2022** · Copernicani — [Voto elettronico: la posizione dei Copernicani alla Conferenza sul Futuro dell'Europa](https://copernicani.it/voto-elettronico-la-posizione-dei-copernicani-alla-conferenza-sul-futuro-delleuropa/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2022** · WebTV Camera dei Deputati — [Comitato permanente sugli italiani nel mondo, audizione del dottor Vignali](https://webtv.camera.it/evento/21102) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2022** · Ministero degli Affari Esteri e della Co — [Portale Voto Elettronico — Relazione Finale](https://www.esteri.it/wp-content/uploads/2022/07/MAECI___Portale_Voto_Elettronico___Relazione_Finale.pdf) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2023** · Ministero dell'Interno — [Voto online, il 13 e il 14 dicembre è stata simulata un'elezione politica nella circoscriz](https://www.interno.gov.it/it/notizie/voto-online-13-e-14-dicembre-e-stata-simulata-unelezione-politica-nella-circoscrizione-estero) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · Allora! Italian Australian News — [Voto estero, dalla blockchain al voto in consolato: tutti gli emendamenti che possono camb](https://alloranews.com/italiani-nel-mondo/voto-estero-dalla-blockchain-al-voto-in-consolato-tutti-gli-emendamenti-che-possono-cambiare-la-legge-tremaglia/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   2026-09-24: video rimosso: Gerardo Costabile ha confermato a Fabio che l'account Google di DeepCyber è stato cancellato e con esso il canale YouTube CyberCoach. Nessuna ricopia trovata; descrizione e data (2023-01-17) nella pagina costabile.net/cibercoach/. Unica via: una copia locale di Costabile o di Fabio.
 - 🟠 **2000** · SecurityFocus BID 1923 — [ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)](https://www.securityfocus.com/bid/1923) · licenza: propria  
@@ -299,6 +328,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 ## Fonti ottenute in locale
 
 - **None** · CRVD — Comitato per i Requisiti del Voto — [Tag: fabio pietrosanti — CRVD](https://hermescenter.github.io/crvd.org-preservation/tag/fabio-pietrosanti/) · copia: `undated/da0bf28b5dbe` (live) · licenza: terzi
+- **None** · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/) · copia: `undated/d749f156c850` (live) · licenza: terzi
 - **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner) · copia: `undated/10581a59d966` (Web Archive 20211022) · licenza: terzi
 - **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1) · copia: `undated/2aa62add9a98` (Web Archive 20220712) · licenza: terzi
 - **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/) · copia: `undated/40c7d7ea93ef` (Web Archive 20210929) · licenza: terzi
@@ -310,6 +340,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · tomshw.it — [Il M5S ha toppato, difendiamo gli hacker etici | Tom's Hardware](https://www.tomshw.it/altro/il-m5s-ha-toppato-difendiamo-gli-hacker-etici) · copia: `undated/6cb758843910` (Web Archive 20190826) · licenza: terzi
 - **None** · tomshw.it — [Referendum Lombardia o pasticcio digitale? | Tom's Hardware](https://www.tomshw.it/altro/referendum-lombardia-o-pasticcio-digitale) · copia: `undated/0d9ac970f7c3` (Web Archive 20190403) · licenza: terzi
 - **None** · tomshw.it — [L'Italia è la nuova capitale dello spyware](https://www.tomshw.it/hardware/litalia-e-la-nuova-capitale-dello-spyware-2024-11-14) · copia: `undated/256223e3c644` (Web Archive 20241114) · licenza: terzi
+- **None** · vice.com — [Davvero Paolo Gentiloni non usa le email?](https://www.vice.com/it/article/paolo-gentiloni-email-sms-pubblica-amministrazione-protocolli/) · copia: `undated/721600047f44` (Web Archive 20201112) · licenza: terzi
+- **None** · vice.com — [Quanto spende il Governo italiano per le tecnologie di sorveglianza?](https://www.vice.com/it/article/quanto-spende-il-governo-italiano-per-le-tecnologie-di-sorveglianza/) · copia: `undated/61350965a43a` (Web Archive 20250204) · licenza: terzi
+- **None** · vice.com — [L’Europa si trova davvero in uno stato di emergenza perenne?](https://www.vice.com/it/article/stato-di-sorveglianza-perenne-europa-terrorismo-privacy/) · copia: `undated/101ef977a41d` (Web Archive 20220827) · licenza: terzi
+- **None** · vice.com — [Una volta per tutte: qual è la differenza tra hacker black hat e white hat](https://www.vice.com/it/article/una-volta-per-tutte-qual-e-la-differenza-tra-hacker-black-hat-e-white-hat/) · copia: `undated/63170f80f4a6` (Web Archive 20250913) · licenza: terzi
 - **None** · zeusnews.it — [La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori](https://www.zeusnews.it/n.php?c=25616) · copia: `undated/56a81be55c4d` (Web Archive 20170726) · licenza: terzi
 - **None** · youmedia.fanpage.it — [Backstair, la nuova piattaforma di whistleblowing ai DIG Awards: “Segnalazioni completamen](https://youmedia.fanpage.it/video/aa/X48IuuSwldvwx9NG) · copia: `undated/86299d48a215` (Web Archive 20210122) · licenza: terzi
 - **1997** · La Stampa — [La Stampa 1997-10-27 / 1997-10-30 / 1997-10-31 (list of names)](https://archive.org/details/lastampa_1997-10-30) · copia: `1997/ccb4af8f5f5c` (live) · licenza: terzi
@@ -326,6 +360,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2000** · vuln-dev — [Possible DOS in Bind 8.2.2-P5](https://seclists.org/vuln-dev/2000/Nov/82) · copia: `2000/97603aee3609` (Web Archive 20130810) · licenza: propria
 - **2000** · vuln-dev — [Re: Possible DOS in Bind 8.2.2-P5](https://seclists.org/vuln-dev/2000/Nov/95) · copia: `2000/c9c2a4c3b033` (Web Archive 20130810) · licenza: propria
 - **2000** · SANS GIAC (GSEC practical assignment) — [An Elementary Introduction to Sendmail (Jay Coleson)](https://web.archive.org/web/20040727111838/http://www.giac.org/practical/Jay_Coleson_GSEC.doc) · copia: `2000/45b44771cd10` (Web Archive 20040727) · licenza: terzi
+- **2000** · Hackmeeting 2000 (Hackit00), Roma, Forte — [Letteratura Cyberpunk (seminar proposal)](https://www.hackmeeting.org/hackit00/proposte/letteratura.html) · copia: `2000/b60fa4817340` (live) · licenza: terzi
 - **2000** · BFi n.9 — [Intercettazione delle password inserite senza terminal echo via KLD (vecna)](https://www.s0ftpj.org/bfi/online/bfi9/BFi09-08) · copia: `2000/9d3d9196b2ee` (Web Archive 20010825) · licenza: terzi
 - **2000** · BFi n.9 — [LibVSK - librerie per il controllo del traffico a userlevel (vecna)](https://www.s0ftpj.org/bfi/online/bfi9/BFi09-11) · copia: `2000/cf685c3b0020` (Web Archive 20010707) · licenza: terzi
 - **2000** · SecurityFocus BID 1335 — [3R Soft MailStudio 2000 vulnerabilities (BID 1335, CVE-2000-0526)](https://www.securityfocus.com/bid/1335) · copia: `2000/feef32d91561` (Web Archive 20010702) · licenza: propria
@@ -730,6 +765,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri) · copia: `2018/961477acc443` (Web Archive 20180409) · licenza: terzi
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/) · copia: `2018/7e2f69f4b97b` (Web Archive 20250811) · licenza: terzi
 - **2018** · Privacy Camp 2018 / EDPS-Civil Society S — [EDPS-Civil Society Summit 2018](https://privacycamp.eu/2018-edps-civil-society-summit/) · copia: `2018/ab26c076e307` (Web Archive 20180325) · licenza: terzi
+- **2018** · Rai Radio1 (servizio di Paola Guarnieri, — [A Padova il raduno degli hacker. Pietrosanti: "Altro che pirati, siamo i cavalieri del web](https://soundcloud.com/user-873190463/a-padova-il-raduno-degli-hacker-pietrosanti-altro-che-pirati-siamo-i-cavalieri-del-web) · copia: `2018/5392321adb9b` (live) · licenza: terzi
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [Big Brother Awards Italia 2018 - video (ep2018se_20_bba_awards.mp4)](https://urna.winstonsmith.org/materiali/2018/video/ep2018se_20_bba_awards.mp4) · copia: `2018/d0172f56532c` (Web Archive 20180912) · licenza: terzi
 - **2018** · video.fosdem.org — [Public money, public code, the Italian way (FOSDEM 2018 recording, mp4)](https://video.fosdem.org/2018/UA2.220/public_money_public_code.mp4) · copia: `2018/0bb1f3d0d72d` (Web Archive 20191025) · licenza: terzi
 - **2018** · Ethic Whispers (ethicwhispers.io) — [Ethic Whispers - the security token for whistleblowing](https://web.archive.org/web/20211203145414/http://ethicwhispers.io/) · copia: `2018/81904b98c83d` (Web Archive 20211203) · licenza: propria
@@ -761,6 +797,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Euronews (in Italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://www.youtube.com/watch?v=gcROTSHQW4A) · copia: `2018/2a0a91fd7eda` (live · video locale `media.mp4` (5 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · YouTube - Privacy Camp 2018 — [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) · copia: `2018/ccd757ed25e1` (live · video locale `media.mp4` (636 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · International Journalism Festival (YouTu — [Privacy nightmare Italia: storie di sorveglianza](https://www.youtube.com/watch?v=ukpO8e80sQc) · copia: `2018/67abfec1cacb` (Web Archive 20190413 · video locale `media.mp4` (392 MB, da caricare su Drive)) · licenza: terzi
+- **2019** · CRVD — blog.crvd.org (URL originale, Way — [Come non sprecare un milione di euro](https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/) · copia: `2019/5e24ced344f5` (Web Archive 20200813) · licenza: terzi
 - **2019** · Copernicani — [Overlay Network Crittografici](https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/) · copia: `2019/0752d3df8d0b` (Web Archive 20190718) · licenza: terzi
 - **2019** · AGI (Arturo Di Corinto), mirrored on dic — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://dicorinto.it/temi/diritti_digitali/agi-i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/) · copia: `2019/62ebf5acef06` (Web Archive 20190720) · licenza: terzi
 - **2019** · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit) · copia: `2019/0a24df39acd7` (google-docs-export) · licenza: terzi
@@ -773,8 +810,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://hermescenter.github.io/crvd.org-preservation/i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/) · copia: `2019/48c4ec2b2a8e` (live) · licenza: terzi
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [Voto Online? No, grazie, e ti spiego perché…](https://hermescenter.github.io/crvd.org-preservation/voto-online-no-grazie-e-ti-spiego-perche/) · copia: `2019/1c10e6370c44` (live) · licenza: propria
 - **2019** · MOJO Italia - Festival del giornalismo m — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/) · copia: `2019/42c19040bc86` (live) · licenza: terzi
+- **2019** · La Nuova di Venezia (gelocal, ripresa de — [Manovra, il M5S propone soldi per il fantasma del voto elettronico](https://nuovavenezia.gelocal.it/italia-mondo/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928390/amp/) · copia: `2019/15c51d4cd5b7` (Web Archive 20191122) · licenza: terzi
 - **2019** · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397) · copia: `2019/b183792c74df` (live · video locale `media.mp3` (19 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · The Vision — [Un governo deciso da un sondaggio online è la vergogna della democrazia italiana](https://thevision.com/politica/governo-rousseau-democrazia/) · copia: `2019/7d64e37e9a12` (live) · licenza: terzi
+- **2019** · Twitter @fpietrosanti (Wayback) — [Risposta a @lucatremolada: analisi sul DB AIRE per istituire seggi di voto all'estero](https://twitter.com/fpietrosanti/status/1195446177371701250) · copia: `2019/45d892666fca` (Web Archive 20191115) · licenza: terzi
 - **2019** · Dipartimento della Funzione Pubblica - i — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/) · copia: `2019/fed00e4c6d1e` (Web Archive 20190724) · licenza: propria
 - **2019** · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/) · copia: `2019/b455b7db3090` (Web Archive 20190410) · licenza: propria
 - **2019** · AGI - Agenzia Italia (blog Cybersecurity — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://www.agi.it/blog-italia/cybersecurity/post/2019-03-09/blockchain_rousseau_voto_elettronico_casaleggio-5117572/) · copia: `2019/347043478153` (Web Archive 20240419) · licenza: terzi
@@ -862,11 +901,18 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · FSFE — [FSFE at FOSDEM 2021](https://fsfe.org/news/2021/news-20210311-01.en.html) · copia: `2021/cc58f8f2d867` (Web Archive 20210311) · licenza: terzi
 - **2021** · GitHub — [Locandine_TelecomItalia](https://github.com/fpietrosanti/Locandine_TelecomItalia) · copia: `2021/f865cc63f1d8` (Web Archive 20210101) · licenza: propria
 - **2021** · GitHub — [projects-and-ideas](https://github.com/fpietrosanti/projects-and-ideas) · copia: `2021/1ba4fd005d30` (live) · licenza: propria
+- **2021** · GitHub (g0v-it) — [Geo-AIRE — Analisi di fattibilità seggi di voto estero, tramite analisi geo-spaziale base ](https://github.com/g0v-it/Geo-AIRE) · copia: `2021/2e8c0274ae02` (live) · licenza: terzi
+- **2021** · GitHub (g0v-it/Geo-AIRE) — [Un approccio di policy research per la sicurezza del voto degli AIRE basato su analisi dat](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.pdf) · copia: `2021/b55d96935038` (Web Archive 20220108) · licenza: terzi
 - **2021** · GitHub — lessgreen — [OpenPUDO — Open PUDO Software Platform](https://github.com/lessgreen/OpenPUDO) · copia: `2021/b28c2369e065` (Web Archive 20220407) · licenza: propria
 - **2021** · GlobaLeaks blog — [Workshop: Building Secure Whistleblowing Systems for Anticorruption with the GlobaLeaks So](https://globaleaks.org/2021/04/04/workshop-building-secure-whistleblowing-systems-for-anticorruption-with-the-globaleaks-software/) · copia: `2021/888348d89638` (Web Archive 20230328) · licenza: propria
 - **2021** · noyb - European Center for Digital Right — [Digital Rights alliance file legal complaints against facial recognition company Clearview](https://noyb.eu/en/digital-rights-alliance-file-legal-complaints-against-facial-recognition-company-clearview-ai) · copia: `2021/74ecbec33ce2` (Web Archive 20210527) · licenza: terzi
 - **2021** · Italia Open Gov (Dipartimento della Funz — [Il Dipartimento alla Milano Digital week](https://open.gov.it/notizie/dipartimento-milano-digital-week) · copia: `2021/9752c3274f07` (Web Archive 20220804) · licenza: terzi
 - **2021** · Privacy International (press release) — [Privacy International and others file legal complaints across Europe against controversial](https://privacyinternational.org/press-release/4520/privacy-international-and-others-file-legal-complaints-across-europe-against) · copia: `2021/417da9cdce59` (Web Archive 20210527) · licenza: terzi
+- **2021** · Twitter @AlessLongo (Alessandro Longo, A — [Chiediamo chiarezza. Tema del voto online è grave e necessità dibattito pubblico](https://twitter.com/alesslongo/status/1371423726294728709) · copia: `2021/ab35a38019c6` (Web Archive 20210315) · licenza: terzi
+- **2021** · Twitter @fpietrosanti (Wayback) — [Va bloccata la commissione 'segreta' sul voto elettronico](https://twitter.com/fpietrosanti/status/1369911891334729728) · copia: `2021/10e7289f18e3` (Web Archive 20210311) · licenza: terzi
+- **2021** · Twitter @fpietrosanti (Wayback) — [In Olanda si vota al seggio in presenza, durante la pandemia... Non serve il #votoelettron](https://twitter.com/fpietrosanti/status/1371468993291284481) · copia: `2021/90ac8f4607b1` (Web Archive 20210315) · licenza: terzi
+- **2021** · Twitter @fpietrosanti (Wayback) — [In Italia le Commissioni sul Voto vengono fatte a porte chiuse da burocrati nominati da Mi](https://twitter.com/fpietrosanti/status/1374787535277264901) · copia: `2021/28ba54675214` (Web Archive 20210324) · licenza: terzi
+- **2021** · Twitter @fpietrosanti (Wayback) — [Appello a Maria Laura Mantovani per non seguire le indicazioni di voto elettronico fornite](https://twitter.com/fpietrosanti/status/1376263165948928004) · copia: `2021/887b1fa6c856` (Web Archive 20210328) · licenza: terzi
 - **2021** · video.fosdem.org — [The first AGPL compliance case settled in an Italian Court (FOSDEM 2021 recording, mp4)](https://video.fosdem.org/2021/D.legal/agplcompliance.mp4) · copia: `2021/e9629639bec1` (Web Archive 20211003) · licenza: terzi
 - **2021** · Hermes Center (with Privacy Internationa — [Il Centro Hermes e altre 3 associazioni hanno inviato segnalazioni e reclami contro Clearv](https://web.archive.org/web/20210527054816/https://www.hermescenter.org/centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai/) · copia: `2021/4bcb9995c8c9` (Web Archive 20210527) · licenza: propria
 - **2021** · LESS Impresa Sociale (less.green) — [WHO WE ARE - Less: Fabio Pietrosanti CEO](https://web.archive.org/web/20221203113453/https://less.green/chi-siamo-less-impresa-sociale/who-we-are/) · copia: `2021/cb130cde4103` (Web Archive 20220125) · licenza: propria
@@ -939,6 +985,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2023** · Monitora PA — [GDPR howto: efficaci misure tecniche supplementari per GMail, Google Drive e Google Worksp](https://monitora-pa.it/2023/03/01/gdpr-misure-tecniche-supplementari-efficaci-per-gmail-e-gsuite.html) · copia: `2023/158ec4754aae` (Web Archive 20230302) · licenza: propria
 - **2023** · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html) · copia: `2023/a944c2ac082a` (Web Archive 20230522) · licenza: propria
 - **2023** · European Parliament, Policy Department f — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf) · copia: `2023/26bb7f5f7319` (Web Archive 20230224) · licenza: terzi
+- **2024** · The Record (Recorded Future News) — [How Italy became an unexpected spyware hub](https://therecord.media/how-italy-became-an-unexpected-spyware-hub) · copia: `2024/9512b39405b8` (Web Archive 20241112) · licenza: terzi
 - **2024** · Ufficio Scolastico Regionale per il Lazi — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituz](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf) · copia: `2024/ad6071ff2a36` (Web Archive 20250814) · licenza: terzi
 - **2024** · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/) · copia: `2024/f387de6462a9` (Web Archive 20241114) · licenza: terzi
 - **2025** · Rai 1 - Speciale Tg1 — [Pionieri di longevità - Biohacker - Speciale Tg1, puntata del 05/01/2025](https://www.raiplay.it/video/2025/01/Speciale-Tg1---Pionieri-di-longevita-Biohacker---Puntata-del-05012025-296d47d6-0a82-4988-8734-aaf1b31b0f6e.html) · copia: `2025/78dcc033928e` (Web Archive 20250107 · video locale `media.mp4` (1,324 MB, da caricare su Drive)) · licenza: terzi

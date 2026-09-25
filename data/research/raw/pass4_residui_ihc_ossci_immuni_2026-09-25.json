@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2018-08-03",
+  "year": 2018,
+  "type": "audio",
+  "outlet": "Rai Radio1 (servizio di Paola Guarnieri, ricaricato su SoundCloud)",
+  "title": "A Padova il raduno degli hacker. Pietrosanti: \"Altro che pirati, siamo i cavalieri del web\"",
+  "url": "https://soundcloud.com/user-873190463/a-padova-il-raduno-degli-hacker-pietrosanti-altro-che-pirati-siamo-i-cavalieri-del-web",
+  "language": "it",
+  "role": "intervistato",
+  "note": "Audio (1'07\") del servizio andato in onda su Radio1 Rai durante l'Italian Hacker Camp 2018 (Padova, parco Fenice, 2-5 agosto 2018). Traccia SoundCloud id 480604977 caricata il 2018-08-03 dall'account 'flapperG' (Paola Guarnieri, giornalista Rai), la stessa che la incorpora nel suo articolo LinkedIn del 2018-08-04 (già noto). Il nome di Fabio è nel titolo della traccia (verificato via oEmbed e pagina SoundCloud). La pagina originale Rai (radio1.rai.it/GR) non è stata trovata: RaiPlay Sound non ha archivi GR1/Eta Beta/Zapping anteriori al 2021 e il Web Archive non ha catture pertinenti.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2024-11-12",
+  "year": 2024,
+  "type": "articolo",
+  "outlet": "The Record (Recorded Future News)",
+  "title": "How Italy became an unexpected spyware hub",
+  "url": "https://therecord.media/how-italy-became-an-unexpected-spyware-hub",
+  "language": "en",
+  "role": "intervistato",
+  "note": "Trovato per caso durante la ricerca IHC (fuori dai 5 sotto-compiti). Articolo di Suzanne Smalley: Fabio, 'president of Italy's Hermes Center for Transparency and Digital Human Rights and a prominent ethical hacker', è la fonte principale: spyware più usato in Italia perché più accessibile, il suo lavoro del 2017 sulla proposta di legge sui trojan, il mercato italiano dei fornitori, la riforma in vigore da febbraio. Pagina aperta: nome presente più volte. Nel repo esiste solo la copia di Punto Informatico che lo riprende, non l'originale.",
+  "verified": true,
+  "known": false
+ }
+]

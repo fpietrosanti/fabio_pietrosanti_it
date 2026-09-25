@@ -1,0 +1,19 @@
+[
+ {
+  "url": "https://www.vice.com/it/article/vlc-vulnerabile-man-in-the-middle-malware-diatriba-twitter/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.vice.com/it/article/problema-riutilizzo-nelle-scuole-tablet-referendum-lombardia/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.vice.com/en/article/inside-ss7-the-insecure-global-cell-network-thats-used-to-track-phones/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.italiaoggi.it/ordini-e-professioni/avvocati-promozioni-e-assunzioni-nomine-e-incarichi-ingressi-e-aperture-kga6vb20",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ }
+]

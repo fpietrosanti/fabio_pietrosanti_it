@@ -1,0 +1,54 @@
+[
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "vice.com",
+  "title": "Quanto spende il Governo italiano per le tecnologie di sorveglianza?",
+  "url": "https://www.vice.com/it/article/quanto-spende-il-governo-italiano-per-le-tecnologie-di-sorveglianza/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …re le proprie tecnologie anche a stati autoritari in cui i diritti dei cittadini vengono sistematicamente violati . Videos by VICE Per questi motivi, insieme a Fabio Pietrosanti , uno dei fondatori del Hermes Center for …",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "vice.com",
+  "title": "L’Europa si trova davvero in uno stato di emergenza perenne?",
+  "url": "https://www.vice.com/it/article/stato-di-sorveglianza-perenne-europa-terrorismo-privacy/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …che sono stati oggetto di una recente proposta di legge da parte del gruppo Civici ed Innovatori. L'Italia è assente nel report di Amnesty e, come mi conferma Fabio Pietrosanti , co-fondatore e presidente del Hermes Cent…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "vice.com",
+  "title": "Davvero Paolo Gentiloni non usa le email?",
+  "url": "https://www.vice.com/it/article/paolo-gentiloni-email-sms-pubblica-amministrazione-protocolli/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …usa in quanto strumento basilare per l'esecuzione delle attività di organizzazione, coordinamento e pianificazione di qualunque attività direttiva,\" mi spiega Fabio Pietrosanti , fondatore del Centro Hermes per la Traspa…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "vice.com",
+  "title": "Una volta per tutte: qual è la differenza tra hacker black hat e white hat",
+  "url": "https://www.vice.com/it/article/una-volta-per-tutte-qual-e-la-differenza-tra-hacker-black-hat-e-white-hat/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …l tema “Innanzitutto bisogna fare una distinzione tra chi identifica i black hat e i white hat solo in base al loro comportamento più o meno legale,” mi spiega Fabio Pietrosanti di Hermes Center , che ha preso parte alla…",
+  "verified": true,
+  "known": false
+ }
+]
