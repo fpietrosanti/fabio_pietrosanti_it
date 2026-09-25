@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1017**; dopo deduplica: **768**
+- Risultati grezzi dalle ricerche: **1018**; dopo deduplica: **769**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 733**
-- Verificati aprendo la pagina: **657**; solo da risultato di ricerca: **111**
+- **Nuovi rispetto al vecchio sito: 734**
+- Verificati aprendo la pagina: **658**; solo da risultato di ricerca: **111**
 
-Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, Report 18, Comunicato 17, documento 16, articolo 12, Slide 11, Podcast 10, Paper 9, TV 9, tweet 7, Capitolo di libro 6, Intervista 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, article 2, Wiki 1, magazine 1, audio 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
+Per tipo (nuovi): Menzionato 128, Talk 74, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, Report 18, Comunicato 17, documento 16, articolo 12, Slide 11, Podcast 10, Paper 9, TV 9, tweet 7, Capitolo di libro 6, Intervista 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, article 2, Wiki 1, magazine 1, audio 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
 
 ### Copertura per anno
 
@@ -41,7 +41,7 @@ Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 2020 | 0 | 93 | 93 |
 | 2021 | 0 | 35 | 35 |
 | 2022 | 0 | 58 | 58 |
-| 2023 | 0 | 10 | 10 |
+| 2023 | 0 | 11 | 11 |
 | 2024 | 0 | 6 | 6 |
 | 2025 | 0 | 9 | 9 |
 | 2026 | 0 | 22 | 22 |
@@ -131,12 +131,14 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2024** · documento · UNESCO, Global AI Ethics and Governance Observatory — [Hermes Center - Global Civil Society Organizations and Academic Network on AI Ethics and Policy](https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center) _(non verificato)_  
   NEAR-MISS, NOT HIM. Hermes Center is listed as a member organisation of UNESCO's civil-society network on AI ethics. Page read in full: the only contact given is the generic board@hermescenter.org; no individual is named, so neither 'Fabio Pietrosanti' nor 'naif' appears. Does not qualify under the naming rule.
 
-## 2023 — 10 voci, 10 nuove
+## 2023 — 11 voci, 11 nuove
 
 - 🆕 **2023-05-17** · Talk · Copernicani (in-person event) — [Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins](https://copernicani.it/privacy-by-design-e-privacy-coins/)  
   He presents/moderates; speakers Rachel-Rose O'Leary (DarkFi) and Daniele Monteleone (Web3 Labs); announcement published 2023-05-01 (Wayback 20230517)
 - 🆕 **2023-05-16** · Menzionato · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html)  
   Complaint to the Garante referencing his September 2022 FOIA to schools
+- 🆕 **2023-04-19** · Menzionato · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html)  
+  Confermato da Fabio 2026-09-25 (è lui: Fabio Pietrosanti di Latina, figlio della sig.ra Dolores). Contesto: la candidata sindaco Matilde Celentano visita la GLS accompagnata da Fabio Pietrosanti.
 - 🆕 **2023-03-17** · Menzionato · Easyteam.org (published school reply) — [La risposta alla nuova richiesta di Monitora PA](https://easyteam.org/2023/03/17/la-risposta-alla-nuova-richiesta-di-monitora-pa)  
   Published template reply of a school to MonitoraPA's GMail/GDPR notice, addressed to 'sig. Fabio Pietrosanti'
 - 🆕 **2023-03-01** · Comunicato · Monitora PA — [GDPR howto: efficaci misure tecniche supplementari per GMail, Google Drive e Google Workspace](https://monitora-pa.it/2023/03/01/gdpr-misure-tecniche-supplementari-efficaci-per-gmail-e-gsuite.html)  

@@ -891,6 +891,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome: 2 disconnessioni iniziali dell'estensione, poi ok. 8 domini + 1 variante (site:apogeonline.com Pietrosanti OR naif), nessun CAPTCHA. wallstreetitalia.com e dataroom (cercato come site:corriere.it/dataroom-milena-gabanelli) 0 risultati; latinaoggi, latinatoday, h24notizie, latinacorriere, ilcaffe.tv solo omonimi locali (Christian, Massimo, Matteo, Roberto, Gianluca, Luca Maria, via Pietrosanti; un Fabio Pietrosanti di Latina GLS/Center Bike escluso in decisions.json); apogeonline.com 2 articoli già in archivio. Prossimo blocco: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
+  },
+  {
+   "date": "2026-09-25 19:50",
+   "engine": "decisione-fabio",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 1,
+   "note": "Fabio: il Fabio Pietrosanti di Latina figlio della sig.ra Dolores è lui. Articolo LatinaOggi 19.04.2023 (visita GLS con Celentano) tolto da exclude e aggiunto; regola not_me rimossa. Center Bike resta escluso in attesa di conferma."
   }
  ]
 }

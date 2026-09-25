@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **768**; già processate: **820**; ancora da processare: **0**
-- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **487** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **617**
+- Voci in `data/media.json`: **769**; già processate: **821**; ancora da processare: **0**
+- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **488** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **618**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **42**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **16**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **13**
@@ -50,7 +50,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2020 | 74 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 26 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 45 | 7 | 0 | 0 | 0 | 0 | 1 |
-| 2023 | 9 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -999,6 +999,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2023** · Monitora PA — [GDPR howto: efficaci misure tecniche supplementari per GMail, Google Drive e Google Worksp](https://monitora-pa.it/2023/03/01/gdpr-misure-tecniche-supplementari-efficaci-per-gmail-e-gsuite.html) · copia: `2023/158ec4754aae` (Web Archive 20230302) · licenza: propria
 - **2023** · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html) · copia: `2023/a944c2ac082a` (Web Archive 20230522) · licenza: propria
 - **2023** · European Parliament, Policy Department f — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf) · copia: `2023/26bb7f5f7319` (Web Archive 20230224) · licenza: terzi
+- **2023** · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html) · copia: `2023/a6c17e995b05` (live) · licenza: terzi
 - **2024** · The Record (Recorded Future News) — [How Italy became an unexpected spyware hub](https://therecord.media/how-italy-became-an-unexpected-spyware-hub) · copia: `2024/9512b39405b8` (Web Archive 20241112) · licenza: terzi
 - **2024** · Ufficio Scolastico Regionale per il Lazi — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituz](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf) · copia: `2024/ad6071ff2a36` (Web Archive 20250814) · licenza: terzi
 - **2024** · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/) · copia: `2024/f387de6462a9` (Web Archive 20241114) · licenza: terzi
