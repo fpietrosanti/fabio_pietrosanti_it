@@ -9194,23 +9194,6 @@
   "on_old_site": false
  },
  {
-  "date": "2019-12",
-  "year": 2019,
-  "type": "articolo",
-  "outlet": "AISE",
-  "title": "Siragusa (M5S): 1 milione di euro per voto elettronico positivo per italiani all'estero",
-  "url": "https://www.aise.it/eletti-allestero/siragusa-m5s-1-milione-di-euro-per-voto-elettronico-positivo-per-italiani-allestero/139344/159",
-  "language": "it",
-  "role": "contesto",
-  "note": "Contesto: reazione della deputata eletta all'estero al fondo per il voto elettronico. Il nome di Pietrosanti NON compare. Data approssimata (dicembre 2019).",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2019-12-11",
   "year": 2019,
   "type": "podcast",
@@ -9224,23 +9207,6 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2019-12-14",
-  "year": 2019,
-  "type": "articolo",
-  "outlet": "Gente d'Italia",
-  "title": "Approvato il fondo per 1 milione di euro per voto elettronico",
-  "url": "http://www.genteditalia.org/2019/12/14/approvato-il-fondo-per-1-milione-di-euro-per-voto-elettronico/",
-  "language": "it",
-  "role": "contesto",
-  "note": "Contesto: approvazione in Senato dell'emendamento che crea il fondo da 1M per il voto elettronico (italiani all'estero e fuori sede), a cui risponde l'analisi AIRE di Pietrosanti. Il suo nome NON compare.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
   ],
   "on_old_site": false
  },
@@ -10295,40 +10261,6 @@
  {
   "date": "2020-08-19",
   "year": 2020,
-  "type": "statement (party blog)",
-  "outlet": "Il Blog delle Stelle (M5S / Associazione Rousseau)",
-  "title": "Chi truffa Rousseau viene denunciato",
-  "url": "https://www.ilblogdellestelle.it/2020/08/chi-truffa-rousseau-viene-denunciato.html",
-  "language": "it",
-  "role": "subject (unnamed)",
-  "note": "Replica ufficiale all'inchiesta Wired del 19/08/2020: parla del «giornalista che tramite un esperto informatico ha cercato di aggirare il sistema di verifica iscrivendosi due volte» e di «una persona specializzata in sicurezza informatica». Il suo nome non compare (regola: non verificato). Angius (@faffa42) la rilanciò su Twitter via archive.is.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_openrousseau_m5s_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-08-19",
-  "year": 2020,
-  "type": "article",
-  "outlet": "Open",
-  "title": "Abolizione del doppio mandato, su Rousseau voti falsi con un account clonato. Il M5s: «Chi truffa paga!»",
-  "url": "https://www.open.online/2020/08/19/rousseau-e-mandato-zero-qualcuno-ha-votato-due-volte-con-un-account-clonato-m5s-chi-truffa-paga/",
-  "language": "it",
-  "role": "subject (unnamed)",
-  "note": "Ripresa dell'inchiesta Wired sul doppio voto; il titolare dei dati usati per il secondo profilo non è nominato (niente 'Pietrosanti' né 'naif'). Elencato solo per completezza.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_openrousseau_m5s_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-08-19",
-  "year": 2020,
   "type": "tweet",
   "outlet": "Twitter/X @fpietrosanti",
   "title": "«Organizziamo, che c’è modo di raggiungere la trinità anche su Rousseau :P»",
@@ -10357,23 +10289,6 @@
   "known": false,
   "_slices": [
    "pass4_crvd_site_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-08-20",
-  "year": 2020,
-  "type": "tweet (third party)",
-  "outlet": "Twitter/X @carlopiana",
-  "title": "«A chi mi diceva \"ma almeno Rousseau è una piattaforma che esiste\". Leggere tutto l'articolo... HT @fpietrosanti»",
-  "url": "https://twitter.com/fpietrosanti/status/1296361702670446598",
-  "language": "it",
-  "role": "mentioned",
-  "note": "Tweet dell'avv. Carlo Piana che rilancia l'articolo Wired 19/08/2020 citando @fpietrosanti (catturato nel Web Archive sotto l'URL di Fabio). Il nick @fpietrosanti è il suo account.",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_openrousseau_m5s_2026-09-25"
   ],
   "on_old_site": false
  },
@@ -11516,40 +11431,6 @@
   "on_old_site": false
  },
  {
-  "date": "2021-07-09",
-  "year": 2021,
-  "type": "documento",
-  "outlet": "Ministero dell'Interno",
-  "title": "Decreto del Ministro dell'Interno sulla sperimentazione del voto elettronico (9 luglio 2021)",
-  "url": "https://www.interno.gov.it/sites/default/files/2021-07/decreto_ministro_su_sperimentazione_voto_elettronico_9.7.2021.pdf",
-  "language": "it",
-  "role": "contesto",
-  "note": "Contesto: decreto attuativo del fondo da 1M (L. 160/2019 c. 627) con le linee guida per simulazione e sperimentazione (italiani all'estero e fuori sede). Il nome di Pietrosanti NON compare (non letto per intero; è un atto normativo).",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2021-07-14",
-  "year": 2021,
-  "type": "articolo",
-  "outlet": "AliAutonomie",
-  "title": "Voto elettronico. Adottato il decreto per la sperimentazione per le politiche, europee ed i referendum",
-  "url": "https://aliautonomie.it/2021/07/14/voto-elettronico-adottato-il-decreto-per-la-sperimentazione-per-le-politiche-europee-ed-i-referendum/",
-  "language": "it",
-  "role": "contesto",
-  "note": "Contesto: decreto Lamorgese-Colao (luglio 2021) con le linee guida per l'uso del fondo da 1M (prima simulazione, poi sperimentazione). Il nome di Pietrosanti NON compare.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2021-08-03",
   "year": 2021,
   "type": "articolo",
@@ -11580,40 +11461,6 @@
   "known": false,
   "_slices": [
    "pass4_books_it_2026-09-19"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2021-11",
-  "year": 2021,
-  "type": "documento",
-  "outlet": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
-  "title": "Sperimentazione voto elettronico in occasione delle elezioni Comites",
-  "url": "https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2021/11/sperimentazione-voto-elettronico-in-occasione-delle-elezioni-comites/",
-  "language": "it",
-  "role": "contesto",
-  "note": "Contesto: comunicato MAECI sulla sperimentazione (11 circoscrizioni consolari, SPID, senza valore legale). Il nome di Pietrosanti NON compare.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2021-11-19",
-  "year": 2021,
-  "type": "documento",
-  "outlet": "Garante per la protezione dei dati personali",
-  "title": "Parere sullo schema decreto del MAECI sulla sperimentazione del voto elettronico per il rinnovo dei Com.It.Es. 2021 [9721434]",
-  "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9721434",
-  "language": "it",
-  "role": "contesto",
-  "note": "Contesto istituzionale: sperimentazione del voto elettronico per le elezioni Comites 2021. Il nome di Pietrosanti NON compare.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
   ],
   "on_old_site": false
  },
@@ -12261,23 +12108,6 @@
   "on_old_site": false
  },
  {
-  "date": "2022-07",
-  "year": 2022,
-  "type": "documento",
-  "outlet": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
-  "title": "Portale Voto Elettronico — Relazione Finale",
-  "url": "https://www.esteri.it/wp-content/uploads/2022/07/MAECI___Portale_Voto_Elettronico___Relazione_Finale.pdf",
-  "language": "it",
-  "role": "contesto",
-  "note": "Contesto: relazione finale (15 pp.) sulla sperimentazione del voto elettronico Comites 2021. Testo controllato: Pietrosanti, Hermes e Copernicani non compaiono.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2022-07-10",
   "year": 2022,
   "type": "project",
@@ -12292,23 +12122,6 @@
   "_slices": [
    "slice5_2021_2026",
    "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2022-07-13",
-  "year": 2022,
-  "type": "video",
-  "outlet": "WebTV Camera dei Deputati",
-  "title": "Comitato permanente sugli italiani nel mondo, audizione del dottor Vignali",
-  "url": "https://webtv.camera.it/evento/21102",
-  "language": "it",
-  "role": "contesto",
-  "note": "Contesto: audizione del DG italiani all'estero della Farnesina sul voto elettronico, citata da Il Post (14/09/2022) accanto allo studio Pietrosanti-Quintarelli-Napolitano. Pietrosanti non vi partecipa.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
   ],
   "on_old_site": false
  },
@@ -12830,23 +12643,6 @@
   "on_old_site": false
  },
  {
-  "date": "2023-12",
-  "year": 2023,
-  "type": "documento",
-  "outlet": "Ministero dell'Interno",
-  "title": "Voto online, il 13 e il 14 dicembre è stata simulata un'elezione politica nella circoscrizione estero",
-  "url": "https://www.interno.gov.it/it/notizie/voto-online-13-e-14-dicembre-e-stata-simulata-unelezione-politica-nella-circoscrizione-estero",
-  "language": "it",
-  "role": "contesto",
-  "note": "Contesto/esito: simulazione e-Vote finanziata dal fondo della L. 160/2019 (Londra, Stoccolma, Monaco di Baviera, Charleroi). Il nome di Pietrosanti NON compare.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
   "date": null,
   "year": 2024,
   "type": "report",
@@ -13242,23 +13038,6 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2026-06-16",
-  "year": 2026,
-  "type": "articolo",
-  "outlet": "Allora! Italian Australian News",
-  "title": "Voto estero, dalla blockchain al voto in consolato: tutti gli emendamenti che possono cambiare la legge Tremaglia",
-  "url": "https://alloranews.com/italiani-nel-mondo/voto-estero-dalla-blockchain-al-voto-in-consolato-tutti-gli-emendamenti-che-possono-cambiare-la-legge-tremaglia/",
-  "language": "it",
-  "role": "contesto",
-  "note": "Contesto/esito recente: fra i 731 emendamenti alla riforma della legge Tremaglia (Commissione Affari costituzionali, giugno 2026), Marattin (1.6 e 4.05) propone il voto in presenza nei consolati come opzione per gli iscritti AIRE, cioè l'idea del progetto AIRE; altri propongono la blockchain. Il nome di Pietrosanti NON compare.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
   ],
   "on_old_site": false
  },

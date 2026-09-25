@@ -5,15 +5,15 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **782**; già processate: **820**; ancora da processare: **0**
-- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **487** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **617**
+- Voci in `data/media.json`: **769**; già processate: **820**; ancora da processare: **0**
+- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **486** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **616**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **42**
-- 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **28**
+- 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **16**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **13**
 - 🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione): **4**
 - 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **3**
-- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **21**
+- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **34**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
 - 🎬 Video/audio scaricato (+ pagina): **85**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
@@ -47,7 +47,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 56 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 40 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2020 | 75 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 74 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 26 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 45 | 7 | 0 | 0 | 0 | 0 | 1 |
 | 2023 | 9 | 0 | 0 | 0 | 1 | 0 | 0 |
@@ -92,12 +92,38 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
 - ⏹️ **2018** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #20008 «get.videolan.org website is exposed as insecure HTTP without permanent ](https://code.videolan.org/videolan/vlc/-/work_items/20008) · licenza: propria  
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
+- ⏹️ **2019** · Gente d'Italia — [Approvato il fondo per 1 milione di euro per voto elettronico](http://www.genteditalia.org/2019/12/14/approvato-il-fondo-per-1-milione-di-euro-per-voto-elettronico/) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2019** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #21805 «Enable full HTTPS redirecting old-client to an outdated page, explainin](https://code.videolan.org/videolan/vlc/-/work_items/21805) · licenza: propria  
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
+- ⏹️ **2019** · AISE — [Siragusa (M5S): 1 milione di euro per voto elettronico positivo per italiani all'estero](https://www.aise.it/eletti-allestero/siragusa-m5s-1-milione-di-euro-per-voto-elettronico-positivo-per-italiani-allestero/139344/159) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2020** · verbalictscovid.infosecurity.ch — [Archivio dei Verbali CTS Covid con OCR (download zip da 1.9GB)](http://verbalictscovid.infosecurity.ch) · licenza: propria  
   Fabio 2026-09-24: sito temporaneo messo su da lui e poi spento volutamente; mai archiviato dal Web Archive. Il materiale resta nel repo github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR (voce a parte).
+- ⏹️ **2020** · Twitter/X @carlopiana — [«A chi mi diceva "ma almeno Rousseau è una piattaforma che esiste". Leggere tutto l'artico](https://twitter.com/fpietrosanti/status/1296361702670446598) · licenza: terzi  
+  Fabio 2026-09-25: tweet di Piana, URL non affidabile: escluso
+- ⏹️ **2020** · Il Blog delle Stelle (M5S / Associazione — [Chi truffa Rousseau viene denunciato](https://www.ilblogdellestelle.it/2020/08/chi-truffa-rousseau-viene-denunciato.html) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2020** · Open — [Abolizione del doppio mandato, su Rousseau voti falsi con un account clonato. Il M5s: «Chi](https://www.open.online/2020/08/19/rousseau-e-mandato-zero-qualcuno-ha-votato-due-volte-con-un-account-clonato-m5s-chi-truffa-paga/) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2021** · AliAutonomie — [Voto elettronico. Adottato il decreto per la sperimentazione per le politiche, europee ed ](https://aliautonomie.it/2021/07/14/voto-elettronico-adottato-il-decreto-per-la-sperimentazione-per-le-politiche-europee-ed-i-referendum/) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2021** · Ministero degli Affari Esteri e della Co — [Sperimentazione voto elettronico in occasione delle elezioni Comites](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2021/11/sperimentazione-voto-elettronico-in-occasione-delle-elezioni-comites/) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2021** · Garante per la protezione dei dati perso — [Parere sullo schema decreto del MAECI sulla sperimentazione del voto elettronico per il ri](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9721434) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2021** · Ministero dell'Interno — [Decreto del Ministro dell'Interno sulla sperimentazione del voto elettronico (9 luglio 202](https://www.interno.gov.it/sites/default/files/2021-07/decreto_ministro_su_sperimentazione_voto_elettronico_9.7.2021.pdf) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2022** · WebTV Camera dei Deputati — [Comitato permanente sugli italiani nel mondo, audizione del dottor Vignali](https://webtv.camera.it/evento/21102) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2022** · Ministero degli Affari Esteri e della Co — [Portale Voto Elettronico — Relazione Finale](https://www.esteri.it/wp-content/uploads/2022/07/MAECI___Portale_Voto_Elettronico___Relazione_Finale.pdf) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2023** · Ministero dell'Interno — [Voto online, il 13 e il 14 dicembre è stata simulata un'elezione politica nella circoscriz](https://www.interno.gov.it/it/notizie/voto-online-13-e-14-dicembre-e-stata-simulata-unelezione-politica-nella-circoscrizione-estero) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2024** · Senato della Repubblica, Commissioni riu — [Memorie dell'audizione della Rete per i Diritti Umani Digitali sul ddl n. 1146 in materia ](https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/431/041/Memoria_Rete_Diritti_Umani_Digitali.pdf) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
+- ⏹️ **2026** · Allora! Italian Australian News — [Voto estero, dalla blockchain al voto in consolato: tutti gli emendamenti che possono camb](https://alloranews.com/italiani-nel-mondo/voto-estero-dalla-blockchain-al-voto-in-consolato-tutti-gli-emendamenti-che-possono-cambiare-la-legge-tremaglia/) · licenza: terzi  
+  Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2026** · Camera dei deputati, Commissioni riunite — [A.G. 418 - Memoria della Rete per i Diritti Umani Digitali (audizione informale sullo sche](https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.97660.22-07-2026-16-10-48.793.pdf) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2026** · Camera dei deputati, IX Commissione (Tra — [Memoria non auditi - Rete per i diritti umani digitali, Amnesty International Italia, Stra](https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.92477.28-05-2026-12-49-33.901.pdf) · licenza: terzi  
@@ -166,10 +192,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🔎 **2018** · StartupItalia — [Cyberchallenge 2018: la gara finale e la premiazione](https://startupitalia.eu/61355-20180629-cyberchallenge-2018-la-finale) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2019** · Gente d'Italia — [Approvato il fondo per 1 milione di euro per voto elettronico](http://www.genteditalia.org/2019/12/14/approvato-il-fondo-per-1-milione-di-euro-per-voto-elettronico/) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
-- 🔎 **2019** · AISE — [Siragusa (M5S): 1 milione di euro per voto elettronico positivo per italiani all'estero](https://www.aise.it/eletti-allestero/siragusa-m5s-1-milione-di-euro-per-voto-elettronico-positivo-per-italiani-allestero/139344/159) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
 - 🔎 **2019** · SecurityWeek — [VLC Responds to Criticism Over Lack of HTTPS for Updates](https://www.securityweek.com/vlc-responds-criticism-over-lack-https-updates/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🔎 **2020** · giovanni-rocca.com — [A self basic audit for Android applications](http://www.giovanni-rocca.com/a-self-basic-audit-for-android-applications/) · licenza: terzi  
@@ -178,30 +200,10 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
 - 🔎 **2020** · Twitter (@mobilesecurity_) — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle #MobileSecurity #AndroidSecurity by](https://twitter.com/mobilesecurity_/status/1244251199173472258) · licenza: terzi  
   2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
-- 🔎 **2020** · Il Blog delle Stelle (M5S / Associazione — [Chi truffa Rousseau viene denunciato](https://www.ilblogdellestelle.it/2020/08/chi-truffa-rousseau-viene-denunciato.html) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
-- 🔎 **2020** · Open — [Abolizione del doppio mandato, su Rousseau voti falsi con un account clonato. Il M5s: «Chi](https://www.open.online/2020/08/19/rousseau-e-mandato-zero-qualcuno-ha-votato-due-volte-con-un-account-clonato-m5s-chi-truffa-paga/) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
-- 🔎 **2021** · AliAutonomie — [Voto elettronico. Adottato il decreto per la sperimentazione per le politiche, europee ed ](https://aliautonomie.it/2021/07/14/voto-elettronico-adottato-il-decreto-per-la-sperimentazione-per-le-politiche-europee-ed-i-referendum/) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
-- 🔎 **2021** · Ministero degli Affari Esteri e della Co — [Sperimentazione voto elettronico in occasione delle elezioni Comites](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2021/11/sperimentazione-voto-elettronico-in-occasione-delle-elezioni-comites/) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
-- 🔎 **2021** · Garante per la protezione dei dati perso — [Parere sullo schema decreto del MAECI sulla sperimentazione del voto elettronico per il ri](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9721434) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
 - 🔎 **2021** · Il Fatto Quotidiano (blog Umberto Rapett — [Facebook, la storia dei 533 milioni di account rubati equivale a un disastro ecologico del](https://www.ilfattoquotidiano.it/2021/04/07/facebook-la-storia-dei-533-milioni-di-account-rubati-equivale-a-un-disastro-ecologico-dellera-moderna/6157493/) · licenza: terzi  
   2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
 - 🔎 **2021** · il Giornale — ["Tutta Italia è vulnerabile, servono investimenti"](https://www.ilgiornale.it/news/politica/tutta-italia-vulnerabile-servono-investimenti-1966600.html) · licenza: terzi  
   2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
-- 🔎 **2021** · Ministero dell'Interno — [Decreto del Ministro dell'Interno sulla sperimentazione del voto elettronico (9 luglio 202](https://www.interno.gov.it/sites/default/files/2021-07/decreto_ministro_su_sperimentazione_voto_elettronico_9.7.2021.pdf) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
-- 🔎 **2022** · WebTV Camera dei Deputati — [Comitato permanente sugli italiani nel mondo, audizione del dottor Vignali](https://webtv.camera.it/evento/21102) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
-- 🔎 **2022** · Ministero degli Affari Esteri e della Co — [Portale Voto Elettronico — Relazione Finale](https://www.esteri.it/wp-content/uploads/2022/07/MAECI___Portale_Voto_Elettronico___Relazione_Finale.pdf) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
-- 🔎 **2023** · Ministero dell'Interno — [Voto online, il 13 e il 14 dicembre è stata simulata un'elezione politica nella circoscriz](https://www.interno.gov.it/it/notizie/voto-online-13-e-14-dicembre-e-stata-simulata-unelezione-politica-nella-circoscrizione-estero) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
-- 🔎 **2026** · Allora! Italian Australian News — [Voto estero, dalla blockchain al voto in consolato: tutti gli emendamenti che possono camb](https://alloranews.com/italiani-nel-mondo/voto-estero-dalla-blockchain-al-voto-in-consolato-tutti-gli-emendamenti-che-possono-cambiare-la-legge-tremaglia/) · licenza: terzi  
-  2026-09-25: fonte di contesto (voto degli italiani all'estero / Rousseau) raccolta come tale dalla ricerca: non contiene il suo nome
 - 🏛️ **2011** · 28C3 Chaos Communication Congress, Berli — [Tor2web workshop](https://events.ccc.de/congress/2011/wiki/Tor2web) · licenza: terzi  
   2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
 - 🏛️ **2011** · 28C3 Chaos Communication Congress, Berli — [Workshops/GlobaLeaks](https://events.ccc.de/congress/2011/wiki/Workshops/GlobaLeaks) · licenza: terzi  
@@ -871,7 +873,6 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Twitter/X (@fpietrosanti) — [Codici sorgenti #immuni: codice app disponibile, codice server no](https://twitter.com/fpietrosanti/status/1264810363972960263) · copia: `2020/3890bafb59cc` (Web Archive 20200525) · licenza: terzi
 - **2020** · Twitter/X (@fpietrosanti) — ['Il progetto di contact tracing in collaborazione con gli operatori telefonici che scrissi](https://twitter.com/fpietrosanti/status/1267159597183381506) · copia: `2020/72ba104a7309` (Web Archive 20200531) · licenza: terzi
 - **2020** · Twitter/X @fpietrosanti — [«Organizziamo, che c’è modo di raggiungere la trinità anche su Rousseau :P»](https://twitter.com/fpietrosanti/status/1296100334167904256) · copia: `2020/3f834a26e6ba` (Web Archive 20200819) · licenza: terzi
-- **2020** · Twitter/X @carlopiana — [«A chi mi diceva "ma almeno Rousseau è una piattaforma che esiste". Leggere tutto l'artico](https://twitter.com/fpietrosanti/status/1296361702670446598) · copia: `2020/38fa0fdca5cc` (Web Archive 20200820) · licenza: terzi
 - **2020** · Twitter/X @fpietrosanti — [«[ITA] Rischi x la democrazia in italia: 1. @casaleggio controlla @Mov5Stelle 2. @g_bresci](https://twitter.com/fpietrosanti/status/1297973682804076544) · copia: `2020/7f2d8c6ca788` (Web Archive 20200824) · licenza: terzi
 - **2020** · Twitter/X (@fpietrosanti) — [Archivio zip di 1.9GB dei Verbali CTS Covid in PDF con OCR e testo ricercabile](https://twitter.com/fpietrosanti/status/1302572387725082624) · copia: `2020/61089c1d7e49` (Web Archive 20200906) · licenza: terzi
 - **2020** · Twitter (@iGio90, Giovanni Rocca) — [first audit on italian #covid19 application I'm a bit scared to do the others now. @fpietr](https://twitter.com/iGio90/status/1244250696125427715) · copia: `2020/b1ef322b6a90` (Web Archive 20200329) · licenza: terzi

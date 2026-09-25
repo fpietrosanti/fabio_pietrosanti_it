@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1017**; dopo deduplica: **782**
+- Risultati grezzi dalle ricerche: **1017**; dopo deduplica: **769**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 747**
-- Verificati aprendo la pagina: **658**; solo da risultato di ricerca: **124**
+- **Nuovi rispetto al vecchio sito: 734**
+- Verificati aprendo la pagina: **657**; solo da risultato di ricerca: **112**
 
-Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Video 59, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, documento 21, Articolo scritto 20, Report 18, Comunicato 17, articolo 16, Slide 11, Podcast 10, Paper 9, TV 9, tweet 7, Capitolo di libro 6, Intervista 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, article 3, consultazione 2, Wiki 1, magazine 1, audio 1, Audizione 1, statement (party blog) 1, tweet (third party) 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
+Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Video 58, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, Report 18, Comunicato 17, documento 16, articolo 12, Slide 11, Podcast 10, Paper 9, TV 9, tweet 7, Capitolo di libro 6, Intervista 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, article 2, Wiki 1, magazine 1, audio 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
 
 ### Copertura per anno
 
@@ -37,18 +37,18 @@ Per tipo (nuovi): Menzionato 127, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 2016 | 0 | 22 | 22 |
 | 2017 | 0 | 67 | 67 |
 | 2018 | 0 | 68 | 68 |
-| 2019 | 0 | 33 | 33 |
-| 2020 | 0 | 96 | 96 |
-| 2021 | 0 | 39 | 39 |
-| 2022 | 0 | 60 | 60 |
-| 2023 | 0 | 11 | 11 |
+| 2019 | 0 | 31 | 31 |
+| 2020 | 0 | 93 | 93 |
+| 2021 | 0 | 35 | 35 |
+| 2022 | 0 | 58 | 58 |
+| 2023 | 0 | 10 | 10 |
 | 2024 | 0 | 6 | 6 |
 | 2025 | 0 | 9 | 9 |
-| 2026 | 0 | 24 | 24 |
+| 2026 | 0 | 23 | 23 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 24 voci, 24 nuove
+## 2026 — 23 voci, 23 nuove
 
 - 🆕 **2026-09-16** · Progetto · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)  
   Old blog of infosecurity.ch (restoration)
@@ -80,8 +80,6 @@ Anni senza nessun risultato: nessuno
   Fork of the academic mxmap successor repo tracked for mxmap.it
 - 🆕 **2026-07-02** · Ricerca · GitHub mxmap-it — [mxmap.it #22 «Fingerprint security gateway by the presence of HTTPS website on the MX»](https://github.com/mxmap-it/mxmap.it/issues/22)  
   Opened by fpietrosanti
-- 🆕 **2026-06-16** · articolo · Allora! Italian Australian News — [Voto estero, dalla blockchain al voto in consolato: tutti gli emendamenti che possono cambiare la legge Tremaglia](https://alloranews.com/italiani-nel-mondo/voto-estero-dalla-blockchain-al-voto-in-consolato-tutti-gli-emendamenti-che-possono-cambiare-la-legge-tremaglia/) _(non verificato)_  
-  Contesto/esito recente: fra i 731 emendamenti alla riforma della legge Tremaglia (Commissione Affari costituzionali, giugno 2026), Marattin (1.6 e 4.05) propone il voto in presenza nei consolati come opzione per gli iscritti AIRE, cioè l'idea del progetto AIRE; altri propongono la blockchain. Il nome di Pietrosanti NON compare.
 - 🆕 **2026-06-12** · Progetto · GitHub — [whistleblowing-monitor-italia: Monitor Whistleblowing Reporting Channel in Italy (PA & Stock Market)](https://github.com/fpietrosanti/whistleblowing-monitor-italia)  
   Scanner of whistleblowing channels of Italian PAs and listed companies (WB Monitor Italia)
 - 🆕 **2026-06-12** · Progetto · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo)  
@@ -135,10 +133,8 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2024** · documento · UNESCO, Global AI Ethics and Governance Observatory — [Hermes Center - Global Civil Society Organizations and Academic Network on AI Ethics and Policy](https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center) _(non verificato)_  
   NEAR-MISS, NOT HIM. Hermes Center is listed as a member organisation of UNESCO's civil-society network on AI ethics. Page read in full: the only contact given is the generic board@hermescenter.org; no individual is named, so neither 'Fabio Pietrosanti' nor 'naif' appears. Does not qualify under the naming rule.
 
-## 2023 — 11 voci, 11 nuove
+## 2023 — 10 voci, 10 nuove
 
-- 🆕 **2023-12** · documento · Ministero dell'Interno — [Voto online, il 13 e il 14 dicembre è stata simulata un'elezione politica nella circoscrizione estero](https://www.interno.gov.it/it/notizie/voto-online-13-e-14-dicembre-e-stata-simulata-unelezione-politica-nella-circoscrizione-estero) _(non verificato)_  
-  Contesto/esito: simulazione e-Vote finanziata dal fondo della L. 160/2019 (Londra, Stoccolma, Monaco di Baviera, Charleroi). Il nome di Pietrosanti NON compare.
 - 🆕 **2023-05-17** · Talk · Copernicani (in-person event) — [Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins](https://copernicani.it/privacy-by-design-e-privacy-coins/)  
   He presents/moderates; speakers Rachel-Rose O'Leary (DarkFi) and Daniele Monteleone (Web3 Labs); announcement published 2023-05-01 (Wayback 20230517)
 - 🆕 **2023-05-16** · Menzionato · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html)  
@@ -160,7 +156,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 
-## 2022 — 60 voci, 60 nuove
+## 2022 — 58 voci, 58 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -202,12 +198,8 @@ Anni senza nessun risultato: nessuno
   10,162 PECs sent to PAs on Google Fonts
 - 🆕 **2022-08-08** · Comunicato · Monitora PA — [Google Fonts in vista!](https://monitora-pa.it/2022/08/08/GoogleFonts_in_vista.html)  
   Formal notice to PAs signed by him as MonitoraPA co-founder
-- 🆕 **2022-07-13** · Video · WebTV Camera dei Deputati — [Comitato permanente sugli italiani nel mondo, audizione del dottor Vignali](https://webtv.camera.it/evento/21102) _(non verificato)_  
-  Contesto: audizione del DG italiani all'estero della Farnesina sul voto elettronico, citata da Il Post (14/09/2022) accanto allo studio Pietrosanti-Quintarelli-Napolitano. Pietrosanti non vi partecipa.
 - 🆕 **2022-07-10** · Progetto · GitHub — [monitorapa (fork): Progetto per monitoraggio e notifica di non compliance GDPR alle PA con input da IndicePA](https://github.com/fpietrosanti/monitorapa)  
   His fork of the MonitoraPA observatory code
-- 🆕 **2022-07** · documento · Ministero degli Affari Esteri e della Cooperazione Internazionale — [Portale Voto Elettronico — Relazione Finale](https://www.esteri.it/wp-content/uploads/2022/07/MAECI___Portale_Voto_Elettronico___Relazione_Finale.pdf) _(non verificato)_  
-  Contesto: relazione finale (15 pp.) sulla sperimentazione del voto elettronico Comites 2021. Testo controllato: Pietrosanti, Hermes e Copernicani non compaiono.
 - 🆕 **2022-06-28** · Intervista · Info Data - Il Sole 24 Ore — [Stretta del Garante Privacy italiano su Google Analytics. Aveva ragione MonitoraPa?](https://www.infodata.ilsole24ore.com/2022/06/28/stretta-del-garante-privacy-italiano-google-analytics-ragione-monitorapa/)  
   Republishes his Think Tally Talk interview after the Garante's GA decision
 - 🆕 **2022-06-27** · Menzionato · Il Disinformatico (Paolo Attivissimo) — [Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola?](https://attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html)  
@@ -283,20 +275,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Talk · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)  
   Investigative journalism festival speaker page
 
-## 2021 — 39 voci, 39 nuove
+## 2021 — 35 voci, 35 nuove
 
-- 🆕 **2021-11-19** · documento · Garante per la protezione dei dati personali — [Parere sullo schema decreto del MAECI sulla sperimentazione del voto elettronico per il rinnovo dei Com.It.Es. 2021 [9721434]](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9721434) _(non verificato)_  
-  Contesto istituzionale: sperimentazione del voto elettronico per le elezioni Comites 2021. Il nome di Pietrosanti NON compare.
-- 🆕 **2021-11** · documento · Ministero degli Affari Esteri e della Cooperazione Internazionale — [Sperimentazione voto elettronico in occasione delle elezioni Comites](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2021/11/sperimentazione-voto-elettronico-in-occasione-delle-elezioni-comites/) _(non verificato)_  
-  Contesto: comunicato MAECI sulla sperimentazione (11 circoscrizioni consolari, SPID, senza valore legale). Il nome di Pietrosanti NON compare.
 - 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Anthology (probably reprints the Mann chapter). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing. Retrieved 17 March 2019, https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html'.
 - 🆕 **2021-08-03** · articolo · il Giornale — ["Tutta Italia è vulnerabile, servono investimenti"](https://www.ilgiornale.it/news/politica/tutta-italia-vulnerabile-servono-investimenti-1966600.html) _(non verificato)_  
   Intervista (Luca Fazzo) sull'attacco ransomware alla Regione Lazio dell'agosto 2021; l'intervistato ricorda che a marzo 2020 'un ricercatore italiano' aveva messo a nudo gravi vulnerabilità nel backend di LAZIOdrCOVID. Pagina aperta: nome assente (né Rocca né Pietrosanti).
-- 🆕 **2021-07-14** · articolo · AliAutonomie — [Voto elettronico. Adottato il decreto per la sperimentazione per le politiche, europee ed i referendum](https://aliautonomie.it/2021/07/14/voto-elettronico-adottato-il-decreto-per-la-sperimentazione-per-le-politiche-europee-ed-i-referendum/) _(non verificato)_  
-  Contesto: decreto Lamorgese-Colao (luglio 2021) con le linee guida per l'uso del fondo da 1M (prima simulazione, poi sperimentazione). Il nome di Pietrosanti NON compare.
-- 🆕 **2021-07-09** · documento · Ministero dell'Interno — [Decreto del Ministro dell'Interno sulla sperimentazione del voto elettronico (9 luglio 2021)](https://www.interno.gov.it/sites/default/files/2021-07/decreto_ministro_su_sperimentazione_voto_elettronico_9.7.2021.pdf) _(non verificato)_  
-  Contesto: decreto attuativo del fondo da 1M (L. 160/2019 c. 627) con le linee guida per simulazione e sperimentazione (italiani all'estero e fuori sede). Il nome di Pietrosanti NON compare (non letto per intero; è un atto normativo).
 - 🆕 **2021-06-08** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [Voto Elettronico: perché è (ancora) una pessima idea](https://www.spreaker.com/episode/voto-elettronico-perche-e-ancora-una-pessima-idea--45210765)  
   Credited among experts who reviewed the script
 - 🆕 **2021-06-05** · Radio · Radio Radicale — [Riabitiamo i centri storici](https://www.radioradicale.it/scheda/638849/riabitiamo-i-centri-storici)  
@@ -364,7 +348,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 96 voci, 96 nuove
+## 2020 — 93 voci, 93 nuove
 
 - 🆕 **2020-12-03** · Ricerca · GitHub — [ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)](https://github.com/fpietrosanti/ifuriosi)  
   Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista
@@ -434,14 +418,8 @@ Anni senza nessun risultato: nessuno
   Puntata sull'inchiesta Wired del doppio voto, con un intervento di Raffaele Angius. La descrizione non lo nomina; sottotitoli non scaricabili, quindi non verificato se venga citato nell'audio. Trovata dal tweet di @lastknight catturato sotto twitter.com/fpietrosanti/status/1297503822357700608.
 - 🆕 **2020-08-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come sono riuscito a votare due volte su Rousseau](https://hermescenter.github.io/crvd.org-preservation/come-sono-riuscito-a-votare-due-volte-su-rousseau/)  
   CRVD investigation: Fabio (CRVD activist) voted twice on Rousseau; restored site hermescenter/crvd.org-preservation (2026-09-18)
-- 🆕 **2020-08-20** · tweet (third party) · Twitter/X @carlopiana — [«A chi mi diceva "ma almeno Rousseau è una piattaforma che esiste". Leggere tutto l'articolo... HT @fpietrosanti»](https://twitter.com/fpietrosanti/status/1296361702670446598)  
-  Tweet dell'avv. Carlo Piana che rilancia l'articolo Wired 19/08/2020 citando @fpietrosanti (catturato nel Web Archive sotto l'URL di Fabio). Il nick @fpietrosanti è il suo account.
 - 🆕 **2020-08-19** · Menzionato · wired.it — [Come sono riuscito a votare due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/)  
   verified via wayback; context: …e facilmente individuabile con i normali controlli di penetration testing ai quali dovrebbero essere sottoposti simili strumenti” , ha commentato l’informatico Fabio Pietrosanti, membro del Comitato per i requisiti del v…
-- 🆕 **2020-08-19** · statement (party blog) · Il Blog delle Stelle (M5S / Associazione Rousseau) — [Chi truffa Rousseau viene denunciato](https://www.ilblogdellestelle.it/2020/08/chi-truffa-rousseau-viene-denunciato.html) _(non verificato)_  
-  Replica ufficiale all'inchiesta Wired del 19/08/2020: parla del «giornalista che tramite un esperto informatico ha cercato di aggirare il sistema di verifica iscrivendosi due volte» e di «una persona specializzata in sicurezza informatica». Il suo nome non compare (regola: non verificato). Angius (@faffa42) la rilanciò su Twitter via archive.is.
-- 🆕 **2020-08-19** · article · Open — [Abolizione del doppio mandato, su Rousseau voti falsi con un account clonato. Il M5s: «Chi truffa paga!»](https://www.open.online/2020/08/19/rousseau-e-mandato-zero-qualcuno-ha-votato-due-volte-con-un-account-clonato-m5s-chi-truffa-paga/) _(non verificato)_  
-  Ripresa dell'inchiesta Wired sul doppio voto; il titolare dei dati usati per il secondo profilo non è nominato (niente 'Pietrosanti' né 'naif'). Elencato solo per completezza.
 - 🆕 **2020-08-19** · tweet · Twitter/X @fpietrosanti — [«Organizziamo, che c’è modo di raggiungere la trinità anche su Rousseau :P»](https://twitter.com/fpietrosanti/status/1296100334167904256)  
   Tweet suo (risposta a @Davidovskij, @faffa42 = Raffaele Angius, @wireditalia, @Mov5Stelle) il giorno dell'inchiesta Wired sul doppio voto. Letto dalla cattura Web Archive (id_) della pagina twitter.com, screen-name fpietrosanti.
 - 🆕 **2020-07-28** · documento · GitHub (osservatoriosicurezza) — [Issue #3 - Dataset generation PoC and next steps (?)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/3) _(non verificato)_  
@@ -559,7 +537,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 33 voci, 33 nuove
+## 2019 — 31 voci, 31 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -567,12 +545,8 @@ Anni senza nessun risultato: nessuno
   URL originale (catture Wayback dal 13/08/2020) del post CRVD già noto nella copia preservata. Nel testo: 'Fabio Pietrosanti, del Centro Studi Hermes Center ... ha mostrato che con l'apertura di 80 seggi esteri si coprirebbe oltre l'86% degli elettori iscritti all'AIRE' (2 ore A/R; 216 seggi = 99%). È la prima fonte pubblica dell'analisi AIRE, in risposta al fondo da 1 milione del sen. Garruti (M5S).
 - 🆕 **2019-12-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come non sprecare un milione di euro](https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/)  
   AIRE project: geolocation analysis by Fabio (Hermes Center) — 80 foreign polling stations would cover 86%+ of AIRE voters; alternative to e-voting for Italians abroad; restored site hermescenter/crvd.org-preservation (2026-09-18)
-- 🆕 **2019-12-14** · articolo · Gente d'Italia — [Approvato il fondo per 1 milione di euro per voto elettronico](http://www.genteditalia.org/2019/12/14/approvato-il-fondo-per-1-milione-di-euro-per-voto-elettronico/) _(non verificato)_  
-  Contesto: approvazione in Senato dell'emendamento che crea il fondo da 1M per il voto elettronico (italiani all'estero e fuori sede), a cui risponde l'analisi AIRE di Pietrosanti. Il suo nome NON compare.
 - 🆕 **2019-12-11** · Podcast · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397)  
   S1E117 with Peter Fleming (UTS) on digital whistleblowing infrastructure
-- 🆕 **2019-12** · articolo · AISE — [Siragusa (M5S): 1 milione di euro per voto elettronico positivo per italiani all'estero](https://www.aise.it/eletti-allestero/siragusa-m5s-1-milione-di-euro-per-voto-elettronico-positivo-per-italiani-allestero/139344/159) _(non verificato)_  
-  Contesto: reazione della deputata eletta all'estero al fondo per il voto elettronico. Il nome di Pietrosanti NON compare. Data approssimata (dicembre 2019).
 - 🆕 **2019-11-21** · Menzionato · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/)  
   verified via wayback; context: …o: il voto elettronico non è una “sfida” e non è “il futuro”. Il voto elettronico è una sciocchezza, e chi la propone evidentemente non ne capisce i problemi». Fabio Pietrosanti, consulente per la sicurezza informatica, …
 - 🆕 **2019-11-21** · articolo · La Nuova di Venezia (gelocal, ripresa de La Stampa) — [Manovra, il M5S propone soldi per il fantasma del voto elettronico](https://nuovavenezia.gelocal.it/italia-mondo/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928390/amp/)  

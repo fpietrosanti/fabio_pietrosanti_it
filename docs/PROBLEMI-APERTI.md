@@ -1,7 +1,7 @@
 # Problemi aperti: ricerca e copie offline
 
 Aggiornato il **2026-09-25**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
-Stato generale: **782 voci**; **tutte** le copie processate — 617 con il nome verificato dentro la copia,
+Stato generale: **769 voci**; **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
 ## A0. Cose che servono da te (aggiornato 2026-09-24)
@@ -28,11 +28,10 @@ Stato generale: **782 voci**; **tutte** le copie processate — 617 con il nome 
    file originale in locale? Se sì, basta che te lo passi e lo archivio.
    (e) ~~verbalictscovid.infosecurity.ch~~: risposto — sito temporaneo, spento volutamente.
 
-7. **Nuove (25/09).** (a) **Voci di contesto** raccolte per AIRE e OpenRousseau (decreti, MAECI, Garante, AISE,
-   Blog delle Stelle, Open…: 12 pagine senza il tuo nome, più 10 pagine dei tuoi progetti — repo `decidiamo/*`,
-   Geo-AIRE, openrousseau.org): stessa domanda del punto 3, contesto o esclusione? (b) **Geo-AIRE**: ora è documentato
-   (vedi `RICERCA-MEDIA-PIANO.md`): posso proporti il testo per la sezione Progetti di LinkedIn? (c) Il tweet di
-   **Carlo Piana** su di te è archiviato sotto un URL del tuo profilo: se ricordi il link giusto, lo correggo.
+7. ~~**Nuove (25/09)**~~ — **risposte di Fabio (25/09)**: (a) contesto AIRE/OpenRousseau: le 10 pagine dei suoi
+   progetti restano come contesto, le **12 pagine generiche sono escluse** (`decisions.json`); (b) Geo-AIRE su
+   LinkedIn: sì, bozza da proporre; (c) tweet di Carlo Piana: **escluso**. Bilibili TimePie ×2: Fabio era al forum;
+   il video non si trascrive (riassunti in cinese senza nomi), conferma solo visiva da parte sua.
 
 ## A. Problemi nella RICERCA
 
