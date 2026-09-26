@@ -1,17 +1,16 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-09-25 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-09-26 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **769**; già processate: **821**; ancora da processare: **0**
-- Licenza delle copie ottenute: **218** materiale proprio (ripubblicabile), **488** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **618**
-- 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **42**
-- 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **16**
-- 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **13**
-- 🔊 Pagina video/audio: l'intervento sta nella registrazione, non nel testo (serve trascrizione): **2**
+- Voci in `data/media.json`: **776**; già processate: **828**; ancora da processare: **0**
+- Licenza delle copie ottenute: **220** materiale proprio (ripubblicabile), **504** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **636**
+- 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **41**
+- 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **18**
+- 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **3**
 - 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **3**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **35**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
@@ -35,24 +34,24 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2005 | 7 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2006 | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2007 | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2008 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2008 | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 43 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2010 | 52 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 23 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 27 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 2013 | 21 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2013 | 22 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 20 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 24 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 2016 | 13 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 56 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 40 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2020 | 74 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2016 | 14 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 59 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 43 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 76 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 26 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 45 | 7 | 0 | 0 | 0 | 0 | 1 |
+| 2022 | 46 | 7 | 0 | 0 | 0 | 0 | 1 |
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 2024 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2025 | 1 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2024 | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2025 | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
@@ -144,32 +143,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
 - 📚 **2012** · Dutton (Penguin) - Andy Greenberg — [This Machine Kills Secrets (additional IA copies thismachinekills00gree_0 / thismachinekil](https://archive.org/details/thismachinekills00gree_0) · licenza: terzi  
   2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2016** · Polityka (Wydawnictwo Prasowe Polityka), — [Polityka 2016 (article on GlobaLeaks)](https://books.google.com/books?id=RyCG694TkQAC) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2018** · Inter-American Development Bank — [Smarter Crowdsourcing for Anti-Corruption: A handbook of innovative legal, technical, and ](https://books.google.com/books?id=s8-aDwAAQBAJ) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2018** · Inter-American Development Bank — [Smarter Crowdsourcing for Anti-Corruption: Manual de propuestas legales, técnicas y de pol](https://books.google.com/books?id=tc-aDwAAQBAJ) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2019** · Laterza — [L'esecuzione. 5 Stelle da movimento a governo](https://books.google.com/books?id=rO2ODwAAQBAJ) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2020** · Antonio Giangrande (self-published) — [ANNO 2020 I PARTITI PRIMA PARTE](https://books.google.com/books?id=bFzJDwAAQBAJ) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2020** · IGI Global — [Applying Internet Laws and Regulations to Educational Technology](https://books.google.com/books?id=gkThDwAAQBAJ) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2022** · Antonio Giangrande (self-published) — [ANNO 2022 L'ACCOGLIENZA OTTAVA PARTE](https://books.google.com/books?id=X_djEAAAQBAJ) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2024** · Wolters Kluwer Italia — [Intelligenza artificiale, blockchain e criptovalute](https://books.google.com/books?id=GbEvEQAAQBAJ) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
 - 📚 **2024** · Edward Elgar, Digital Media and Grassroo — [Digital whistleblowing platforms for anti-corruption: The Transparency International Itali](https://doi.org/10.4337/9781802202106.00015) · licenza: terzi  
   2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2025** · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2025** · Oxford University Press — [Political Automation: An Introduction to AI in Government and Its Impact on Citizens](https://books.google.com/books?id=xRREEQAAQBAJ) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 🔊 **2013** · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) · licenza: terzi  
-  2026-09-23: la copia e' una pagina video: il suo intervento sta nell'audio/video, non nel testo della pagina. Conferma possibile solo dalla trascrizione.
-- 🔊 **2025** · Rai 1 - Tg1 (servizio di Barbara Carfagn — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html) · licenza: terzi  
-  2026-09-23: la copia e' una pagina video: il suo intervento sta nell'audio/video, non nel testo della pagina. Conferma possibile solo dalla trascrizione.
 - 🔎 **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 (Gaetano Paolone) - FAQ 2.1.2 «Come si può controllare i](http://www.pluto.it/files/ildp/LDR/ldr5.html#index1124) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🔎 **2002** · Apogeonline — [Ethical Hacker's Speech II](https://www.apogeonline.com/articoli/ethical-hackers-speech-ii-associazione-italian-blackhats/) · licenza: terzi  
@@ -178,8 +153,12 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
+- 🔎 **2013** · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) · licenza: terzi  
+  2026-09-26: video scaricato (yt-dlp, 18 MB, solo locale), trascritto e controllato fotogramma per fotogramma: unico intervistato Matteo Flora (didascalia 'Esperto di sicurezza - Fondatore di The Fool'); Fabio non compare. Domanda aperta a Fabio: escludere?
 - 🔎 **2013** · Corriere.it (Reportime) — [Quando l'utente non si lascia spiare](http://www.corriere.it/inchieste/reportime/societa/quando-utente-non-si-lascia-spiare/afda7abe-e342-11e2-a1f9-62e4ef08d60d.shtml) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
+- 🔎 **2013** · Sky TG24 (servizio di Sacha Coltellacci) — [Datagate, il mondo delle spie visto da dentro (current page URL)](https://video.sky.it/news/mondo/video/datagate_il_mondo_delle_spie_visto_da_dentro-164249) · licenza: terzi  
+  2026-09-26: video scaricato (yt-dlp, 18 MB, solo locale), trascritto e controllato fotogramma per fotogramma: unico intervistato Matteo Flora (didascalia 'Esperto di sicurezza - Fondatore di The Fool'); Fabio non compare. Domanda aperta a Fabio: escludere?
 - 🔎 **2017** · Askanews — [Captatori informatici, proposta di legge di Civici e Innovatori](http://www.askanews.it/cronaca/2017/01/31/captatori-informatici-proposta-di-legge-di-civici-e-innovatori-pn_20170131_00175/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🔎 **2017** · Freedom Not Fear 2017, Brussels (Mundo B — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule) · licenza: terzi  
@@ -208,8 +187,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
 - 🏛️ **2012** · Hackmeeting 2012 (HackIt 0x0F), L'Aquila — [GlobaLeaks](https://www.hackmeeting.org/hackit12/seminari.html) · licenza: terzi  
   2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2013** · Sky TG24 (servizio di Sacha Coltellacci) — [Datagate, il mondo delle spie visto da dentro (current page URL)](https://video.sky.it/news/mondo/video/datagate_il_mondo_delle_spie_visto_da_dentro-164249) · licenza: terzi  
-  2026-09-23: copia completa; la pagina documenta Hermes Center/GlobaLeaks ma non contiene ne' il nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto.
 - 🏛️ **2013** · OHM2013 (Observe. Hack. Make.) - Noisy S — [Digital Whistleblowing roundtable [N^2] (Day 3, 16:00)](https://web.archive.org/web/20130908205034/https://program.ohm2013.org/event/381.html) · licenza: terzi  
   2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
 - 🏛️ **2013** · OHM2013 (Observe. Hack. Make.), Geestmer — [Digital Whistleblowing with GlobaLeaks (Day 3, 13:00) - program page](https://web.archive.org/web/20131022000047/https://program.ohm2013.org/event/255.html) · licenza: terzi  
@@ -420,6 +397,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2007** · infosecurity.ch (blog) — [Uno sguardo a…](https://web.archive.org/web/2012/http://infosecurity.ch/20070210/uno-sguardo-a/) · copia: `2007/f19e39f81adc` (Web Archive 20081223) · licenza: propria
 - **2007** · SlideShare (Infosecurity Italy 2007) — [2007: Infosecurity Italy: Voice Privacy Security (flash talk)](https://www.slideshare.net/slideshow/infosec-07-voice-privacy-security-flash-talk/1669302) · copia: `2007/80f5e524637a` (Web Archive 20240420) · licenza: propria
 - **2008** · PC Professionale n.207 (giugno 2008) — [L'intervista (Philip Zimmermann / Zfone) - box 'Nei Khamsa Labs si studia come rendere sic](https://archive.org/details/pcprofessionale207) · copia: `2008/229103cbad92` (live) · licenza: terzi
+- **2008** · CRC Press (Auerbach) - R. Chiesa, S. Duc — [Profiling Hackers: The Science of Criminal Profiling as Applied to the World of Hacking (G](https://books.google.com/books?id=y2Amp_OwrPMC) · copia: `2008/09f111330d76` (live) · licenza: terzi
 - **2008** · Ufficio Italiano Brevetti e Marchi (Ital — [Techniques of safe management multi identity for centralized messaging services](https://patents.google.com/patent/ITRM20060425A1/en) · copia: `2008/ed9bed319d8c` (Web Archive 20220507) · licenza: propria
 - **2008** · WIPO PCT application WO2008015721 (PCT/I — [Secure multi-identity management methods for a centralized messaging service](https://patents.google.com/patent/WO2008015721A2/en) · copia: `2008/022f08b972ff` (Web Archive 20220507) · licenza: propria
 - **2008** · WIPO PCT patent application WO2008015723 — [Method of recording a not repudiable digital transmission of information and identifying t](https://patents.google.com/patent/WO2008015723A2/en) · copia: `2008/1407d3f71d38` (live) · licenza: propria
@@ -590,6 +568,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2013** · 30C3 Chaos Communication Congress, Hambu — [GlobaLeaks Anonymous Whistleblowing Software (self-organized session)](https://events.ccc.de/congress/2013/wiki/Session:GlobaLeaks_Anonymous_Whistleblowing_Software) · copia: `2013/9efee679642c` (Web Archive 20140425) · licenza: terzi
 - **2013** · 30C3 Chaos Communication Congress, Hambu — [WE - Whistleblowing Everywhere (self-organized meeting)](https://events.ccc.de/congress/2013/wiki/Session:WE_-_Whistleblowing_Everywhere) · copia: `2013/8dbdae34ab61` (Web Archive 20140222) · licenza: terzi
 - **2013** · Global Investigative Journalism Conferen — [Security Workshop: Tor & Globaleaks: Protecting Yourself and Your Sources Online](https://gijc13.sched.com/event/1cntRel/global-security-workshop-tor-globaleaks-protecting-yourself-and-your-sources-online-eng) · copia: `2013/f43791503657` (Web Archive 20190820) · licenza: terzi
+- **2013** · Global Investigative Journalism Conferen — [Fabio Pietrosanti — speaker profile (Hermes Center for Transparency and Digital Human Righ](https://gijc13.sched.com/speaker/fabio.pietrosanti) · copia: `2013/885d082021cd` (live) · licenza: terzi
 - **2013** · GitHub tor2web/Tor2web — [Tor2web #120 «Prevent CRIME attack on TLS by disabling compression»](https://github.com/tor2web/Tor2web/issues/120) · copia: `2013/54bda7300896` (api) · licenza: propria
 - **2013** · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/) · copia: `2013/2477679443f8` (Web Archive 20240917) · licenza: terzi
 - **2013** · Transparency International Italia - Whis — [Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione](https://web.archive.org/web/2015/http://logioshermes.org/hermes-center-intervento-whistleblowingitalia-congress-milano/) · copia: `2013/7f1c35b6bd0c` (Web Archive 20131019) · licenza: propria
@@ -664,6 +643,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · International Journalism Festival (YouTu — [Greenwald-in-a-box: un esperimento Hermes](https://www.youtube.com/watch?v=ij4iQbRdkBM) · copia: `2015/b6536ed18b2b` (live · video locale `media.mp4` (113 MB, da caricare su Drive)) · licenza: terzi
 - **2015** · International Journalism Festival (YouTu — [Greenwald-in-a-box: un esperimento Hermes](https://www.youtube.com/watch?v=qAhTIzvV310) · copia: `2015/5ced1dcac762` (live · video locale `media.mp4` (155 MB, da caricare su Drive)) · licenza: terzi
 - **2015** · YouTube / Nexa Center for Internet & Soc — [73° Mercoledì di Nexa - Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://www.youtube.com/watch?v=xO4m1NDm6qc) · copia: `2015/446787f7fb6b` (live · video locale `media.mp4` (136 MB, da caricare su Drive)) · licenza: terzi
+- **2016** · Polityka (Wydawnictwo Prasowe Polityka), — [Polityka 2016 (article on GlobaLeaks)](https://books.google.com/books?id=RyCG694TkQAC) · copia: `2016/f16aeac37cee` (live) · licenza: terzi
 - **2016** · e-privacy XX 2016 (Roma) — [Tavola Rotonda Captatori Informatici](https://e-privacy.winstonsmith.org/e-privacy-XX.html) · copia: `2016/dfdf9b15aa3a` (Web Archive 20161114) · licenza: terzi
 - **2016** · 33C3 Chaos Communication Congress, Hambu — [Robots txt abuses by government agencies against transparency (lightning talk)](https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency) · copia: `2016/4aba68d41775` (Web Archive 20161231) · licenza: terzi
 - **2016** · GitHub NullHypothesis/exitmap — [exitmap #36 «Improve transparent HTTP proxy detection with SSL test on port 80»](https://github.com/NullHypothesis/exitmap/issues/36) · copia: `2016/b310a8b4befb` (api) · licenza: propria
@@ -688,6 +668,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · HERMES Center for Transparency and Digit — [La Guida HERMES al Voto Digitale (v1.0)](https://archive.org/download/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale_LaGuidaHermesAlVotoDigitale_v1.0.pdf) · copia: `2017/f459b1aa269d` (live) · licenza: terzi
 - **2017** · Boing Boing — [Italy unveils a legal proposal to regulate government hacking](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html) · copia: `2017/d316cfd30704` (Web Archive 20170215) · licenza: terzi
 - **2017** · Mozilla Bugzilla — [Bug 1303739 «Warn when downloading executable files over HTTP» (comments by naif)](https://bugzilla.mozilla.org/show_bug.cgi?id=1303739) · copia: `2017/de839b12ee0a` (Web Archive 20190612) · licenza: propria
+- **2017** · Business Follows srl (Roma) — Testimonia — [Fabio Pietrosanti (Naif) – Founder, President Hermes Center for Trasparency and Digital Hu](https://businessfollows.com/testimonials/fabio-pietrosanti-naif-founder-president-hermes-center-trasparency-digital-human-rights/) · copia: `2017/4e89c9dd27d9` (Web Archive 20201022) · licenza: terzi
 - **2017** · Citizen Lab, Munk School of Global Affai — [Who's Watching Little Brother? A Checklist for Accountability in the Industry Behind Gover](https://citizenlab.ca/wp-content/uploads/2017/03/citizenlab_whos-watching-little-brother.pdf) · copia: `2017/8c507215d23b` (Web Archive 20180228) · licenza: terzi
 - **2017** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #18472 «Enforce the uses of HTTPS for all websites of VLC/videolan.org to preve](https://code.videolan.org/videolan/vlc/-/work_items/18472) · copia: `2017/5ec30f01b033` (Web Archive 20210502) · licenza: propria
 - **2017** · docs.google.com — [edit?usp=sharing](https://docs.google.com/document/d/1t6kfUigpBdiI8ECC306QHTL1cawOapvnRSIY0dV5KXA/edit?usp=sharing) · copia: `2017/bf22197920dd` (live) · licenza: terzi
@@ -731,6 +712,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · University of California, Berkeley, PhD  — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf) · copia: `2017/07478431c5a6` (Web Archive 20190612) · licenza: terzi
 - **2017** · www.ccc.de — [Stellungnahme_CCC-Staatstrojaner.pdf](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) · copia: `2017/0ec817dbfbbc` (Web Archive 20170531) · licenza: terzi
 - **2017** · European Parliament, Policy Department f — [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf) · copia: `2017/114e1a17fa02` (Web Archive 20170419) · licenza: terzi
+- **2017** · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/) · copia: `2017/21e70c003198` (Web Archive 20210306) · licenza: propria
+- **2017** · Hermes Center (hermescenter.org) / CILD  — [Lettera al Ministro Carlo Calenda (MISE) sulle licenze di esportazione di tecnologie di so](https://www.hermescenter.org/wp-content/uploads/2017/04/MISElettera_aprile2017_ITA-2.pdf) · copia: `2017/c8c2d1cc7bc8` (local-crawl) · licenza: propria
 - **2017** · Il Fatto Quotidiano (blog Umberto Rapett — [Referendum Lombardia e voto elettronico, mi fido o no?](https://www.ilfattoquotidiano.it/2017/10/21/referendum-lombardia-e-voto-elettronico-mi-fido-o-no/3927235/) · copia: `2017/60a94504eb19` (Web Archive 20171022) · licenza: terzi
 - **2017** · linkiesta.it — [DIG raddoppia e a fine ottobre porta a Milano il meglio del giornalismo investigativo inte](https://www.linkiesta.it/2017/10/dig-raddoppia-e-a-fine-ottobre-porta-a-milano-il-meglio-del-giornalism/) · copia: `2017/a532d3dbf3f6` (Web Archive 20211026) · licenza: terzi
 - **2017** · e-privacy 2017 summer edition, Lucca - R — [e-privacy 2017 summer - Parole (ostili) contro la Rete: l'involuzione della percezione del](https://www.radioradicale.it/scheda/512627/) · copia: `2017/a5e45d940570` (Web Archive 20170623 · video locale `media.00.mp4` (1,820 MB, da caricare su Drive)) · licenza: terzi
@@ -752,6 +735,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · FOSDEM 2018 — [FOSDEM 2018 speaker page - Fabio Pietrosanti (naif)](https://archive.fosdem.org/2018/schedule/speaker/fabio_pietrosanti_naif/) · copia: `2018/c21ea4095ff5` (Web Archive 20210624) · licenza: terzi
 - **2018** · FOSDEM 2018 talk - IA mirror (collection — [Public money, public code, the Italian way: Hacking Italian Administrations to get to the ](https://archive.org/details/youtube-KizAo_22FYo) · copia: `2018/2f85bc0b3e0e` (live · video locale `media.mp4` (45 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · Big Brother Awards Italia (Progetto Wins — [Big Brother Awards Italia 2018](https://bba.winstonsmith.org/) · copia: `2018/cdebd212568b` (Web Archive 20180621) · licenza: propria
+- **2018** · Inter-American Development Bank — [Smarter Crowdsourcing for Anti-Corruption: A handbook of innovative legal, technical, and ](https://books.google.com/books?id=s8-aDwAAQBAJ) · copia: `2018/86038ca623ec` (live) · licenza: terzi
+- **2018** · Inter-American Development Bank — [Smarter Crowdsourcing for Anti-Corruption: Manual de propuestas legales, técnicas y de pol](https://books.google.com/books?id=tc-aDwAAQBAJ) · copia: `2018/a9d50c94ddeb` (live) · licenza: terzi
 - **2018** · Copernicani — [Un Ministro per il Digitale: i sostenitori del nostro appello](https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/) · copia: `2018/76a7e07ba3fb` (Web Archive 20180520) · licenza: terzi
 - **2018** · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://cybersecurity.startupitalia.eu/61414-20180710-cyberchallenge-2018-la-nuova-generazione-hacker-etici) · copia: `2018/cb9e22f41130` (Web Archive 20201229) · licenza: terzi
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [e-privacy XXIII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXIII-relatori.html) · copia: `2018/8cc2a1ae4777` (Web Archive 20200919) · licenza: terzi
@@ -778,6 +763,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti) · copia: `2018/f855533e7142` (Web Archive 20190825) · licenza: terzi
 - **2018** · Hermes Center — News & Press (sito in ri — [Announcement: Hermes Center members and fellows participate at the International Journalis](https://www.hermescenter.org/announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18/) · copia: `2018/d6e62a571fab` (Web Archive 20200921) · licenza: propria
 - **2018** · International Journalism Festival 2018 ( — [Italian privacy nightmare: tales of surveillance](https://www.journalismfestival.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/6f8c23954448` (Web Archive 20180620) · licenza: terzi
+- **2018** · International Journalism Festival (Perug — [Fabio Pietrosanti — president Hermes Center (IJF speaker page, sessions 2012-2018)](https://www.journalismfestival.com/speaker/fabio-pietrosanti) · copia: `2018/ce6d25a031d3` (Web Archive 20190917) · licenza: terzi
 - **2018** · Key4biz — [App per il ciclo mestruale, a rischio la privacy piu intima](https://www.key4biz.it/app-per-il-ciclo-mestruale-a-rischio-la-privacy-piu-intima/218397/) · copia: `2018/8d3cbbfb68f2` (Web Archive 20220625) · licenza: terzi
 - **2018** · lastampa.it — [La rivolta degli informatici contro Casaleggio - La Stampa](https://www.lastampa.it/politica/2018/02/08/news/la-rivolta-degli-informatici-contro-casaleggio-1.33976791/) · copia: `2018/16e30881fc4b` (Web Archive 20190718) · licenza: terzi
 - **2018** · Radio1 Rai (via LinkedIn Pulse, Paola Gu — [A Padova il raduno degli hacker: Pietrosanti: "Non chiamateci pirati, siamo cavalieri del ](https://www.linkedin.com/pulse/padova-il-raduno-degli-hacker-pietrosanti-non-pirati-siamo-guarnieri?trk=public_profile_article_view) · copia: `2018/88836bbf4796` (live) · licenza: terzi
@@ -802,9 +788,11 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · YouTube - Privacy Camp 2018 — [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) · copia: `2018/ccd757ed25e1` (live · video locale `media.mp4` (636 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · International Journalism Festival (YouTu — [Privacy nightmare Italia: storie di sorveglianza](https://www.youtube.com/watch?v=ukpO8e80sQc) · copia: `2018/67abfec1cacb` (Web Archive 20190413 · video locale `media.mp4` (392 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · CRVD — blog.crvd.org (URL originale, Way — [Come non sprecare un milione di euro](https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/) · copia: `2019/5e24ced344f5` (Web Archive 20200813) · licenza: terzi
+- **2019** · Laterza — [L'esecuzione. 5 Stelle da movimento a governo](https://books.google.com/books?id=rO2ODwAAQBAJ) · copia: `2019/8948d22cfd5e` (live) · licenza: terzi
 - **2019** · Copernicani — [Overlay Network Crittografici](https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/) · copia: `2019/0752d3df8d0b` (Web Archive 20190718) · licenza: terzi
 - **2019** · AGI (Arturo Di Corinto), mirrored on dic — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://dicorinto.it/temi/diritti_digitali/agi-i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/) · copia: `2019/62ebf5acef06` (Web Archive 20190720) · licenza: terzi
 - **2019** · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit) · copia: `2019/0a24df39acd7` (google-docs-export) · licenza: terzi
+- **2019** · Agenzia delle Entrate — Direzione Centra — [Riscontro ad istanza di accesso civico generalizzato (collaudi e analisi di sicurezza dell](https://eclecticismnow.files.wordpress.com/2019/02/12-02-2019_istanza-accesso-civico-fp-risposta2.pdf) · copia: `2019/c351be390d34` (live) · licenza: terzi
 - **2019** · Forum Italia (Developers Italia) — [Software di Whistleblowing Anticorruzione ANAC e Riuso GlobaLeaks](https://forum.italia.it/t/software-di-whistleblowing-anticorruzione-anac-e-riuso-globaleaks/7114) · copia: `2019/f80d52afc3d3` (Web Archive 20231208) · licenza: propria
 - **2019** · GitHub - ANAC anticorruzione/openwhistle — [openwhistleblowing/AUTHORS](https://github.com/anticorruzione/openwhistleblowing/blob/master/AUTHORS) · copia: `2019/5c5b4eed38b7` (live) · licenza: terzi
 - **2019** · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano) · copia: `2019/2f5708b9e6aa` (Web Archive 20200910) · licenza: propria
@@ -834,6 +822,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Maureen Webb, Coding Democracy: How Hack — [Coding Democracy](https://archive.org/details/codingdemocracyh0000webb) · copia: `2020/d291e3933f06` (live) · licenza: terzi
 - **2020** · M. Christen, B. Gordijn, M. Loi (eds.),  — [The Ethics of Cybersecurity (cites Pietrosanti & Aterno 2017)](https://archive.org/details/oapen-20.500.12657-47324/page/n225) · copia: `2020/f8c41d843bd0` (live) · licenza: terzi
 - **2020** · Andrew Fowler, Shooting the Messenger: C — [Shooting the Messenger](https://archive.org/details/shootingmessenge0000fowl) · copia: `2020/4d39f24adec2` (live) · licenza: terzi
+- **2020** · Antonio Giangrande (self-published) — [ANNO 2020 I PARTITI PRIMA PARTE](https://books.google.com/books?id=bFzJDwAAQBAJ) · copia: `2020/69e1dc2bab4b` (live) · licenza: terzi
+- **2020** · IGI Global — [Applying Internet Laws and Regulations to Educational Technology](https://books.google.com/books?id=gkThDwAAQBAJ) · copia: `2020/f27e1373cd7d` (live) · licenza: terzi
 - **2020** · CRS Scuola Critica del Digitale + Forum  — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/) · copia: `2020/423816c0d044` (Web Archive 20210619) · licenza: terzi
 - **2020** · Copernicani (#DialoghiCopernicani, onlin — [Martedi 20 ottobre ore 21:00 - Riconoscimento facciale usato dalle forze dell'ordine, stru](https://copernicani.it/blog/2020/10/16/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/) · copia: `2020/2cd8cd7b083a` (Web Archive 20201019) · licenza: terzi
 - **2020** · Google Docs (documento pubblico) — [Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-locat](https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk) · copia: `2020/50fc2ff6af5f` (live) · licenza: terzi
@@ -942,6 +932,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Ministero dell'Istruzione - Ufficio Scol — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico ge](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022) · copia: `2022/de12062836de` (live) · licenza: terzi
 - **2022** · Il Disinformatico (Paolo Attivissimo) — [Dopo l'invasione russa dell'Ucraina, che si fa con Kaspersky?](https://attivissimo.blogspot.com/2022/02/dopo-linvasione-russa-dellucraina-che.html) · copia: `2022/1a4808141196` (Web Archive 20220227) · licenza: terzi
 - **2022** · Il Disinformatico (Paolo Attivissimo) — [Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola?](https://attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html) · copia: `2022/8324ffd437c4` (Web Archive 20220627) · licenza: terzi
+- **2022** · Antonio Giangrande (self-published) — [ANNO 2022 L'ACCOGLIENZA OTTAVA PARTE](https://books.google.com/books?id=X_djEAAAQBAJ) · copia: `2022/651948a3dbe8` (live) · licenza: terzi
 - **2022** · Rai Radio1 - Eta Beta (listed on dicorin — [Intervista Arturo Di Corinto a RadioRaiUno - Eta Beta - 5 Marzo 2022](https://dicorinto.it/tipologia/interviste/intervista-arturo-di-corinto-a-radioraiuno-eta-beta-5-marzo-2022/) · copia: `2022/6c21d4d6ef39` (Web Archive 20220308) · licenza: terzi
 - **2022** · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/) · copia: `2022/5203723a3089` (live) · licenza: terzi
 - **2022** · Google Slides — [Slides of Fabio's talk at the SOS LOGistica 2022 conference, LIUC](https://docs.google.com/presentation/d/1cFW2EiiS6RLMGVRvyLTLgiOfYzU58XoMJrq7BTd2BZ4/edit) · copia: `2022/29680abb1822` (Web Archive 20221202) · licenza: propria
@@ -1000,9 +991,13 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2023** · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html) · copia: `2023/a944c2ac082a` (Web Archive 20230522) · licenza: propria
 - **2023** · European Parliament, Policy Department f — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf) · copia: `2023/26bb7f5f7319` (Web Archive 20230224) · licenza: terzi
 - **2023** · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html) · copia: `2023/a6c17e995b05` (live) · licenza: terzi
+- **2024** · Wolters Kluwer Italia — [Intelligenza artificiale, blockchain e criptovalute](https://books.google.com/books?id=GbEvEQAAQBAJ) · copia: `2024/be1b38a964db` (live) · licenza: terzi
 - **2024** · The Record (Recorded Future News) — [How Italy became an unexpected spyware hub](https://therecord.media/how-italy-became-an-unexpected-spyware-hub) · copia: `2024/9512b39405b8` (Web Archive 20241112) · licenza: terzi
 - **2024** · Ufficio Scolastico Regionale per il Lazi — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituz](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf) · copia: `2024/ad6071ff2a36` (Web Archive 20250814) · licenza: terzi
 - **2024** · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/) · copia: `2024/f387de6462a9` (Web Archive 20241114) · licenza: terzi
+- **2025** · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ) · copia: `2025/b45354d8cd4a` (Web Archive 20250911) · licenza: terzi
+- **2025** · Oxford University Press — [Political Automation: An Introduction to AI in Government and Its Impact on Citizens](https://books.google.com/books?id=xRREEQAAQBAJ) · copia: `2025/3867298f9527` (live) · licenza: terzi
+- **2025** · Rai 1 - Tg1 (servizio di Barbara Carfagn — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html) · copia: `2025/042e06a82d08` (live · video locale `video.mp4` (0 MB, da caricare su Drive)) · licenza: terzi
 - **2025** · Rai 1 - Speciale Tg1 — [Pionieri di longevità - Biohacker - Speciale Tg1, puntata del 05/01/2025](https://www.raiplay.it/video/2025/01/Speciale-Tg1---Pionieri-di-longevita-Biohacker---Puntata-del-05012025-296d47d6-0a82-4988-8734-aaf1b31b0f6e.html) · copia: `2025/78dcc033928e` (Web Archive 20250107 · video locale `media.mp4` (1,324 MB, da caricare su Drive)) · licenza: terzi
 - **2025** · Rai 1 - Tv7 (settimanale del Tg1) — [La guerra delle app - Tv7 31/01/2025](https://www.raiplay.it/video/2025/02/La-guerra-delle-app---Tv7-31012025-2de12a1e-489c-49bb-8b4d-77929aec7ba0.html) · copia: `2025/5aee7d9bd90d` (Web Archive 20250303 · video locale `media.mp4` (175 MB, da caricare su Drive)) · licenza: terzi
 - **2025** · Rai 1 - Codice, la vita è digitale — [Codice, la Vita è digitale - Puntata del 27/06/2025 Biohacking](https://www.raiplay.it/video/2025/06/Codice-la-Vita-e-digitale---Puntata-del-27062025-50a78412-6520-4ded-939d-c1b549204976.html) · copia: `2025/f90b5d23ddeb` (Web Archive 20251102 · video locale `media.mp4` (1,493 MB, da caricare su Drive)) · licenza: terzi

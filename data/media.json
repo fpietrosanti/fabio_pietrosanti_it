@@ -1708,6 +1708,23 @@
   "on_old_site": false
  },
  {
+  "date": "2008-12-11",
+  "year": 2008,
+  "type": "book",
+  "outlet": "CRC Press (Auerbach) - R. Chiesa, S. Ducci, S. Ciappi",
+  "title": "Profiling Hackers: The Science of Criminal Profiling as Applied to the World of Hacking (Google Books edition)",
+  "url": "https://books.google.com/books?id=y2Amp_OwrPMC",
+  "language": "en",
+  "role": "acknowledged",
+  "note": "Re-found 2026-09-26 via Google Books search-within (books?id=y2Amp_OwrPMC&jscmd=SearchWithinVolume2&q=Pietrosanti): page xiii (acknowledgments, page_id PR13): '... Naif” Pietrosanti, Marco Tracinà, Vittorio Pasteris, Pietro Gentile, Salvatore Aranzulla ...'. Same book already known via IA copy profilinghackers0000chie; this adds the printed page number (xiii). Italian original Profilo hacker (Apogeo 2007, id BEvVGAAACAAJ) is not searchable on Google Books (searchable:false), so its page stays unconfirmed.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_books_scholar_retry_2026-09-26"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2008-12-15",
   "year": 2008,
   "type": "book_chapter",
@@ -4901,6 +4918,23 @@
   "on_old_site": false
  },
  {
+  "date": "2013-10-12",
+  "year": 2013,
+  "type": "talk",
+  "outlet": "Global Investigative Journalism Conference (GIJC13), Rio de Janeiro — Sched speaker page",
+  "title": "Fabio Pietrosanti — speaker profile (Hermes Center for Transparency and Digital Human Rights, Secretary, Italy)",
+  "url": "https://gijc13.sched.com/speaker/fabio.pietrosanti",
+  "language": "en",
+  "role": "speaker",
+  "note": "Speaker profile with bio: 'hacking in the digital underground as \"naif\" since 1995'; lists his GIJC13 sessions (the Tor/GlobaLeaks security workshop event page is already in media.json). Conference dates 12-15 Oct 2013; profile page date approximate.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ngo_theses_2026-09-26"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2013-10-14",
   "year": 2013,
   "type": "talk",
@@ -6394,6 +6428,23 @@
   "on_old_site": false
  },
  {
+  "date": null,
+  "year": 2017,
+  "type": "pagina",
+  "outlet": "Hermes Center (hermescenter.org)",
+  "title": "Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)",
+  "url": "https://www.hermescenter.org/members/fabio-pietrosanti/",
+  "language": "en",
+  "role": "subject",
+  "note": "Scheda biografica sul vecchio sito Hermes (PrivateWave, hacking community dal 1995, Twitter @fpietrosanti). Capture: https://web.archive.org/web/20210306145428/https://www.hermescenter.org/members/fabio-pietrosanti/ ; versione precedente con 'IRC: naif@irc.oftc.net #globaleaks': https://web.archive.org/web/20171022005215/https://www.hermescenter.org/home/about-mission/people/members/fabio-pietrosanti/ . Lo nominano anche gli elenchi soci /members/, /it/soci/ (capture 20210306140933) e /home/about-mission/people/ (stessa voce, non conteggiati a parte). Verificato sulle copie nello zip Wayback locale.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_istituzioni_2026-09-26"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2017",
   "year": 2017,
   "type": "project",
@@ -6859,6 +6910,23 @@
   "known": false,
   "_slices": [
    "pass2_c_2016_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-04-11",
+  "year": 2017,
+  "type": "documento",
+  "outlet": "Hermes Center (hermescenter.org) / CILD / Privacy International",
+  "title": "Lettera al Ministro Carlo Calenda (MISE) sulle licenze di esportazione di tecnologie di sorveglianza (caso AREA/Egitto)",
+  "url": "https://www.hermescenter.org/wp-content/uploads/2017/04/MISElettera_aprile2017_ITA-2.pdf",
+  "language": "it",
+  "role": "author",
+  "note": "Lettera congiunta firmata da Antonella Napolitano (CILD), Edin Omanovic (Privacy International) e 'Fabio Pietrosanti, Hermes Center for Transparency and Human Rights'. Testo estratto dalla copia nello zip del crawl Wayback di hermescenter.org (C:/Users/admin/Claude/hermescenter-restore/archive/wp-content/uploads/2017/04/); nessuna riga CDX propria per il PDF. Allegato al post gia' noto 'Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE' (2017-05-30).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_istituzioni_2026-09-26"
   ],
   "on_old_site": false
  },
@@ -7485,6 +7553,23 @@
   "on_old_site": false
  },
  {
+  "date": "2017-11-17",
+  "year": 2017,
+  "type": "web",
+  "outlet": "Business Follows srl (Roma) — Testimonials",
+  "title": "Fabio Pietrosanti (Naif) – Founder, President Hermes Center for Trasparency and Digital Human Rights",
+  "url": "https://businessfollows.com/testimonials/fabio-pietrosanti-naif-founder-president-hermes-center-trasparency-digital-human-rights/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Testimonial quote by Fabio: Business Follows' support was key in choosing the licensing model of GlobaLeaks and in finding resources for its development. datePublished 2017-11-17 from page JSON-LD.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ngo_theses_2026-09-26"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2017-11-29",
   "year": 2017,
   "type": "article_by",
@@ -7995,6 +8080,23 @@
   "hermes_activity": true,
   "_slices": [
    "pass4_hermes_site_named_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-04-11",
+  "year": 2018,
+  "type": "talk",
+  "outlet": "International Journalism Festival (Perugia) — speaker page",
+  "title": "Fabio Pietrosanti — president Hermes Center (IJF speaker page, sessions 2012-2018)",
+  "url": "https://www.journalismfestival.com/speaker/fabio-pietrosanti",
+  "language": "en",
+  "role": "speaker",
+  "note": "Aggregate speaker profile with bio ('nickname \"naif\" since 1995') and list of his sessions IJF12-IJF18 with video links; the individual programme pages are already in media.json. Date = last listed session (IJF18, 11 Apr 2018).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ngo_theses_2026-09-26"
   ],
   "on_old_site": false
  },
@@ -8831,6 +8933,23 @@
   ],
   "live_url": "https://copernicani.it/overlay-network-crittografici/",
   "note_search": "Found by copernicani.it/?s=pietrosanti (2026-09-18)",
+  "on_old_site": false
+ },
+ {
+  "date": "2019-02-12",
+  "year": 2019,
+  "type": "documento",
+  "outlet": "Agenzia delle Entrate — Direzione Centrale Tecnologie e Innovazione",
+  "title": "Riscontro ad istanza di accesso civico generalizzato (collaudi e analisi di sicurezza della fattura elettronica SDI)",
+  "url": "https://eclecticismnow.files.wordpress.com/2019/02/12-02-2019_istanza-accesso-civico-fp-risposta2.pdf",
+  "language": "it",
+  "role": "subject",
+  "note": "Risposta dell'Agenzia delle Entrate, indirizzata 'Al Sig. Fabio Pietrosanti', alla sua istanza FOIA dell'8/1/2019 (opposizione di Sogei). Linkata dal post Hermes gia' noto 'Mancanza di una vision tecnologica a supporto del FOIA' (2019-03-13). Verificata sulla copia recuperata in C:/Users/admin/Claude/hermescenter-restore/recovered/2019/02/ (link originale da quel post); nessuna capture Wayback trovata.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_istituzioni_2026-09-26"
+  ],
   "on_old_site": false
  },
  {
@@ -12788,9 +12907,9 @@
   "title": "I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo",
   "url": "https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html",
   "language": "IT",
-  "role": "quoted",
-  "note": "INFERRED, NOT VERIFIED. Tg1 news piece (05/01/2025) on biohackers/XPrize. Text quotes an unnamed biohacker ('spiega uno di loro') on bringing biomarkers to a biological age below chronological age, alongside named Teemu Arina and Aubrey de Grey (same cast as Codice Beta 17/01/2025). His name does not appear on the page.",
-  "verified": false,
+  "role": "interviewee",
+  "note": "Tg1 05/01/2025 (servizio di Barbara Carfagna) sui biohacker e l'XPrize. Verificato 2026-09-26 sul video (copia locale, 79 s): a 0:26-0:42 parla Fabio, didascalia in sovrimpressione 'Fabio Pietrosanti - Biohacker' (0:34, fotogramma salvato nella copia): 'I biohacker, al di là dell'informatica, cercano di ridurre... i biomarcatori del proprio corpo a uno stato di età biologica inferiore a quella cronologica'. Altri intervistati: Teemu Arina, Aubrey de Grey.",
+  "verified": true,
   "known": false,
   "_slices": [
    "pass4_tv_rai_la7_2026-09-18"

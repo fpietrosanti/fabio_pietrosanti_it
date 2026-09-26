@@ -365,12 +365,21 @@
     "verified": true,
     "note": "Audit di Giovanni Rocca dell'app Regione Lazio LAZIOdrCOVID, 29/03/2020. Verificato 2026-09-24 sulla capture Wayback 20200329: «a friend of me (FABIO – Naif – PIETROSANTI) asked me to take a look»; i test sono stati fatti con il codice fiscale di Fabio e dei familiari, consenzienti. Vulnerabilità: chiave DES fissa nell'app, lettura del medico di base dal codice fiscale, SMS di verifica illimitati, token utilizzabile su qualsiasi paziente (lettura referti/chat, scrittura parametri). Il problema principale fu corretto in circa 6 ore lo stesso giorno. I due gist GitHub con le richieste catturate (contenevano dati di Fabio) sono 404."
    }
+  },
+  {
+   "url": "https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html",
+   "set": {
+    "verified": true,
+    "role": "interviewee",
+    "note": "Tg1 05/01/2025 (servizio di Barbara Carfagna) sui biohacker e l'XPrize. Verificato 2026-09-26 sul video (copia locale, 79 s): a 0:26-0:42 parla Fabio, didascalia in sovrimpressione 'Fabio Pietrosanti - Biohacker' (0:34, fotogramma salvato nella copia): 'I biohacker, al di là dell'informatica, cercano di ridurre... i biomarcatori del proprio corpo a uno stato di età biologica inferiore a quella cronologica'. Altri intervistati: Teemu Arina, Aubrey de Grey."
+   }
   }
  ],
  "open_questions": [
   {
    "item": "Radio Monte Carlo 2010 audio interview",
    "status": "Fabio does not remember; keep searching (Web Archive of radiomontecarlo.net)"
-  }
+  },
+  "2026-09-26 Sky TG24 02/07/2013 'Datagate, il mondo delle spie visto da dentro' (v164249): video scaricato e visto per intero (2'07\"): l'unico intervistato e' Matteo Flora ('Esperto di sicurezza - Fondatore di The Fool'); Fabio non compare, ne' nome ne' voce. La voce veniva solo dalla pagina News/Press di Hermes. Escludere (regola: senza nome non e' lui) o c'era un altro servizio Sky?"
  ]
 }

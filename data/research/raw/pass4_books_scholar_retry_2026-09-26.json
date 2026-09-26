@@ -1,0 +1,15 @@
+[
+ {
+  "date": "2008-12-11",
+  "year": 2008,
+  "type": "book",
+  "outlet": "CRC Press (Auerbach) - R. Chiesa, S. Ducci, S. Ciappi",
+  "title": "Profiling Hackers: The Science of Criminal Profiling as Applied to the World of Hacking (Google Books edition)",
+  "url": "https://books.google.com/books?id=y2Amp_OwrPMC",
+  "language": "en",
+  "role": "acknowledged",
+  "note": "Re-found 2026-09-26 via Google Books search-within (books?id=y2Amp_OwrPMC&jscmd=SearchWithinVolume2&q=Pietrosanti): page xiii (acknowledgments, page_id PR13): '... Naif” Pietrosanti, Marco Tracinà, Vittorio Pasteris, Pietro Gentile, Salvatore Aranzulla ...'. Same book already known via IA copy profilinghackers0000chie; this adds the printed page number (xiii). Italian original Profilo hacker (Apogeo 2007, id BEvVGAAACAAJ) is not searchable on Google Books (searchable:false), so its page stays unconfirmed.",
+  "verified": true,
+  "known": true
+ }
+]

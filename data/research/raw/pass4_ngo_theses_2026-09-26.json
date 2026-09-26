@@ -1,0 +1,41 @@
+[
+ {
+  "date": "2013-10-12",
+  "year": 2013,
+  "type": "talk",
+  "outlet": "Global Investigative Journalism Conference (GIJC13), Rio de Janeiro — Sched speaker page",
+  "title": "Fabio Pietrosanti — speaker profile (Hermes Center for Transparency and Digital Human Rights, Secretary, Italy)",
+  "url": "https://gijc13.sched.com/speaker/fabio.pietrosanti",
+  "language": "en",
+  "role": "speaker",
+  "note": "Speaker profile with bio: 'hacking in the digital underground as \"naif\" since 1995'; lists his GIJC13 sessions (the Tor/GlobaLeaks security workshop event page is already in media.json). Conference dates 12-15 Oct 2013; profile page date approximate.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2018-04-11",
+  "year": 2018,
+  "type": "talk",
+  "outlet": "International Journalism Festival (Perugia) — speaker page",
+  "title": "Fabio Pietrosanti — president Hermes Center (IJF speaker page, sessions 2012-2018)",
+  "url": "https://www.journalismfestival.com/speaker/fabio-pietrosanti",
+  "language": "en",
+  "role": "speaker",
+  "note": "Aggregate speaker profile with bio ('nickname \"naif\" since 1995') and list of his sessions IJF12-IJF18 with video links; the individual programme pages are already in media.json. Date = last listed session (IJF18, 11 Apr 2018).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017-11-17",
+  "year": 2017,
+  "type": "web",
+  "outlet": "Business Follows srl (Roma) — Testimonials",
+  "title": "Fabio Pietrosanti (Naif) – Founder, President Hermes Center for Trasparency and Digital Human Rights",
+  "url": "https://businessfollows.com/testimonials/fabio-pietrosanti-naif-founder-president-hermes-center-trasparency-digital-human-rights/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Testimonial quote by Fabio: Business Follows' support was key in choosing the licensing model of GlobaLeaks and in finding resources for its development. datePublished 2017-11-17 from page JSON-LD.",
+  "verified": true,
+  "known": false
+ }
+]

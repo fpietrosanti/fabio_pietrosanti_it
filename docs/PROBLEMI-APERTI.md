@@ -1,7 +1,7 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-09-25**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
-Stato generale: **768 voci**; **tutte** le copie processate — 617 con il nome verificato dentro la copia,
+Aggiornato il **2026-09-26**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
 ## A0. Cose che servono da te (aggiornato 2026-09-24)
@@ -12,8 +12,8 @@ Stato generale: **768 voci**; **tutte** le copie processate — 617 con il nome 
    pubblico applicando la decisione che avevi già preso per «1311 nuove PEC»; la copia resta solo nell'archivio privato.
    **Proposta: chiedere alla scuola la rimozione o l'oscuramento.** Probabilmente non è l'unica: la campagna MonitoraPA
    ha prodotto molte pubblicazioni di PA che ti nominano — vale la pena un giro sistematico `site:*.edu.it`.
-2. **Chiave API Google Books** (gratuita, Google Cloud) e **chiave Semantic Scholar**: senza, 13 schede di libri e i
-   volumi di Frediani, Maurizi e Di Corinto restano non verificabili. È il blocco più costoso rimasto.
+2. ~~**Chiave API Google Books**~~ **non serve più (26/09)**: la ricerca interna `jscmd=SearchWithinVolume2` funziona
+   senza chiave → 11 libri confermati. Resta utile solo la **chiave Semantic Scholar** (e CORE) per le citazioni accademiche.
 3. **Le 29 pagine «solo organizzazione»** e le **11 «nome assente»** (tabella B3-bis): contesto o esclusione?
 4. **PDF originali dei comunicati stampa PrivateWave** del 18/10/2010 (EN e ES): li hai?
 5. **Senato**: senato.it è dietro un WAF e non è archiviato. Se hai un browser con sessione residenziale, la scheda
@@ -33,6 +33,16 @@ Stato generale: **768 voci**; **tutte** le copie processate — 617 con il nome 
    LinkedIn: sì, bozza da proporre; (c) tweet di Carlo Piana: **escluso**. Bilibili TimePie: Fabio **compare** nel
    riassunto del pomeriggio (BV1u5YX6JECk → confermato), **non** nel riassunto da 32 s del forum (BV1M7YX67EsD → escluso).
    Testo Geo-AIRE approvato → `linkedin-i18n/docs/PROGETTI-APPROVATI-2026-09.md`, da pubblicare.
+
+8. **Nuove (26/09).** (a) **Sky TG24 02/07/2013 «Datagate, il mondo delle spie visto da dentro»**: ho scaricato e
+   guardato il video intero (2'07"): l'unico intervistato è **Matteo Flora** («Fondatore di The Fool»), tu non ci sei.
+   La voce veniva solo dalla pagina News/Press di Hermes. **Escludo** (regola: senza nome non sei tu) o ricordi un altro
+   servizio Sky di quei giorni? (b) **OSCE 2016**: la tua biografia dice «top 10 di Reporter senza frontiere»; nella lista
+   ufficiale RSF «100 eroi dell'informazione» 2014 per l'Italia ci sono solo Maniaci e Abbate — ricordi quale classifica
+   RSF era? (c) **Camera, 23/11/2016**: la sottocommissione diritti umani sentì «Rappresentanti del Centro Hermes» sulla
+   risoluzione Tidei (difensori dei diritti umani) — eri tu? (d) **Senato, maggio 2020** (direttiva copyright, AS 1721):
+   chi rappresentò Hermes, e hai la memoria depositata? (e) La risposta dell'Agenzia delle Entrate al tuo FOIA 2019
+   contiene la tua PEC personale: è nella sola copia privata, nel sito compare solo il titolo.
 
 ## A. Problemi nella RICERCA
 
@@ -66,6 +76,17 @@ Stato generale: **768 voci**; **tutte** le copie processate — 617 con il nome 
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-quater. 2026-09-26
+- **🔊 «solo video/audio» chiusi entrambi.** RaiNews/Tg1 05/01/2025: video scaricato e trascritto, **didascalia «Fabio
+  Pietrosanti – Biohacker»** a 0:34 (fotogramma salvato) → confermato. Sky TG24 2013: video intero visto, unico
+  intervistato Matteo Flora → **nome assente**, domanda in A0.8(a).
+- **📚 «libri e paper» da 13 a 3**: Google Books *search-within* senza chiave ha dato pagina e frammento per 11 volumi
+  (frammenti salvati in `google_books_snippets.txt` nelle copie). Restano: *Profilo hacker* ed. italiana (Google la
+  dichiara non ricercabile; il nome è confermato nell'edizione inglese CRC p.xiii e nella copia IA), *This Machine Kills
+  Secrets* (prestito IA), Di Salvo 2024 (già confermato dal PDF UniBo, da riallineare la copia).
+- **Lettera MISE 2017**: URL 404 e senza capture propria, recuperata dal crawl locale di hermescenter.org
+  (`hermescenter-restore/archive`) → ottenuta, firma presente.
 
 ### B0-bis. Task «download rinviati» — chiuso il 2026-09-23 (sera)
 Il task creato il 22/09 per rifare i download pesanti «quando torna la linea veloce» **non serve più**:

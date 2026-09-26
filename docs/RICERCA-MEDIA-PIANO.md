@@ -107,6 +107,30 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   (consultazioni 2015/2019), hermescenter.org e allegati senato.it quando il Web Archive è stabile; tesi UniBo
   «Anonimato in rete» (eprint 9599, PDF 401); *Profilo hacker* (Apogeo 2007) pagina non confermata; Frediani *Guerre di
   rete* letto: nomina GlobaLeaks ma non Fabio.
+  **Passata 2026-09-26 (3 agenti: `pass4_books_scholar_retry`, `pass4_wayback_istituzioni`, `pass4_ngo_theses`) → +7 voci.**
+  - **Google Books sbloccato senza chiave**: `books.google.com/books?id=<ID>&jscmd=SearchWithinVolume2&q=<termine>`
+    restituisce JSON con pagina e frammento (e `searchable`, quindi uno 0 su un libro ricercabile è un vero negativo).
+    Usato subito sulle copie: **11 libri confermati** con pagina (Smarter Crowdsourcing EN/ES pp.76-78/84-86, Polityka
+    p.7, IGI Global ×2, L'esecuzione, Anno 2020 p.113, Anno 2022 pp.107-138, IA/blockchain 2024 p.61, Political
+    Automation 2025 p.227, *Profiling Hackers* CRC 2008 p.xiii). Maurizi (4 libri), Frediani *#Cybercrime*, Di Corinto
+    *I nemici della rete* / *Revolution OS II*: **0 occorrenze** su libri ricercabili → chiusi.
+  - **Nuove verificate**: lettera al ministro Calenda (MISE, 11/04/2017, export di tecnologie di sorveglianza, firmata
+    con CILD e Privacy International; PDF dal crawl locale di hermescenter.org); scheda socio sul vecchio sito Hermes;
+    risposta dell'Agenzia delle Entrate al suo FOIA sulla fattura elettronica (12/02/2019); pagina relatore GIJC13 (Rio
+    2013); pagina relatore Festival del Giornalismo (2012-2018); testimonianza Business Follows (2017, licenza GlobaLeaks).
+  - **Negativi solidi**: ANAC 2019 (contributi mai pubblicati; 2023: 43 contributori, niente Hermes); OHCHR 2015
+    (whistleblower, cifratura/anonimato); OpenAlex full-text con 18 parole chiave; HAL/theses.fr (tesi Maitre 2022 su
+    GlobaLeaks senza il suo nome); WIN, Blueprint, GAP, Xnet, Tactical Tech, FPU, FPF, FBK, TI estere; RSF «100 eroi
+    dell'informazione» 2014: per l'Italia solo Maniaci e Abbate (la bio OSCE 2016 dice «top 10 RSF»: non riscontrato).
+  - **Nuova pista senza nome**: Camera, sottocommissione diritti umani (III), 23/11/2016 — audizione di «Rappresentanti
+    del Centro Hermes» sulla risoluzione Tidei; il Bollettino 731 non dà nomi.
+  **Resta ancora:** Semantic Scholar (serve chiave: 11 richieste su 13 in 429); libri non ricercabili su Google Books
+  (Frediani *Deep Web* e *Inside Anonymous*, Di Corinto *Un dizionario hacker*, *Riprendiamoci la rete*, *Hacktivism*,
+  *#Cryptomania*, *Guerra profonda*; *Profilo hacker* ed. italiana) → copia fisica o prestito IA/Open Library;
+  CORE (serve chiave), BASE/OATD/DART-Europe (controlli anti-bot), NDLTD 503, EThOS giù; senato.it scheda 43472
+  (WAF, mai archiviata); Camera leg17 commissioni IX e X (Web Archive ha rifiutato); OHCHR fuori dal 2015 (CDX 504);
+  pista h25.io (confronto Tor2web/GlobaLeaks). **Chiusa**: tesi UniBo «Anonimato in rete» (Daini 2015) — accesso solo
+  interno all'ateneo, l'abstract non lo nomina.
 - [x] ~~Corriere della Sera 2001-01-26 p.25~~: **chiuso** — «esperto» senza nome, escluso per decisione di Fabio (18/09).
 - [x] RAI Teche, Mediaset, arretrati ICT Security / Wireless / WeekIT — passata 2026-09-22 (`pass4_it_magazines`,
   `pass4_mediaset_other_tv`): +2 WeekIT 2001/2002, Radio 24 (5 puntate), Sky TG24 Datagate 2013. **Resta** solo
@@ -180,6 +204,14 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [ ] **Sito Hermes Center** in ripristino da Fabio: quando online, indicizzare tutti i progetti, paper e talk di Fabio per
   Hermes, GlobaLeaks, CRVD, Copernicani (come fatto per CRVD il 18/09).
 - [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
+
+## Note sessione 2026-09-26
+- **776 voci** in `data/media.json` (+7, vedi passata «Google Books API e Semantic Scholar» sopra).
+- **RaiNews/Tg1 05/01/2025 confermato**: video scaricato (yt-dlp) e trascritto; a 0:34 didascalia «Fabio Pietrosanti –
+  Biohacker» mentre spiega i biomarcatori (fotogramma salvato nella copia). **Sky TG24 02/07/2013 «Datagate»**: video
+  visto per intero, l'unico intervistato è **Matteo Flora** → Fabio non c'è (domanda a Fabio in PROBLEMI-APERTI).
+- 🔊 «solo video/audio» chiusi entrambi; 📚 «libri in attesa» da 13 a **2** (Profilo hacker ed. italiana, This Machine
+  Kills Secrets in prestito IA; Di Salvo 2024 era già confermato dal PDF UniBo).
 
 ## Note sessione 2026-09-25
 - **782 voci** in `data/media.json` (+48): AIRE 27, OpenRousseau 16, residui 2 (SoundCloud Rai IHC 2018; **The Record

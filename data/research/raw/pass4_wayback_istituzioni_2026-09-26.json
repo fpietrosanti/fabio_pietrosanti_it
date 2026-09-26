@@ -1,0 +1,41 @@
+[
+ {
+  "date": "2017-04-11",
+  "year": 2017,
+  "type": "documento",
+  "outlet": "Hermes Center (hermescenter.org) / CILD / Privacy International",
+  "title": "Lettera al Ministro Carlo Calenda (MISE) sulle licenze di esportazione di tecnologie di sorveglianza (caso AREA/Egitto)",
+  "url": "https://www.hermescenter.org/wp-content/uploads/2017/04/MISElettera_aprile2017_ITA-2.pdf",
+  "language": "it",
+  "role": "author",
+  "note": "Lettera congiunta firmata da Antonella Napolitano (CILD), Edin Omanovic (Privacy International) e 'Fabio Pietrosanti, Hermes Center for Transparency and Human Rights'. Testo estratto dalla copia nello zip del crawl Wayback di hermescenter.org (C:/Users/admin/Claude/hermescenter-restore/archive/wp-content/uploads/2017/04/); nessuna riga CDX propria per il PDF. Allegato al post gia' noto 'Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE' (2017-05-30).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": 2017,
+  "type": "pagina",
+  "outlet": "Hermes Center (hermescenter.org)",
+  "title": "Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)",
+  "url": "https://www.hermescenter.org/members/fabio-pietrosanti/",
+  "language": "en",
+  "role": "subject",
+  "note": "Scheda biografica sul vecchio sito Hermes (PrivateWave, hacking community dal 1995, Twitter @fpietrosanti). Capture: https://web.archive.org/web/20210306145428/https://www.hermescenter.org/members/fabio-pietrosanti/ ; versione precedente con 'IRC: naif@irc.oftc.net #globaleaks': https://web.archive.org/web/20171022005215/https://www.hermescenter.org/home/about-mission/people/members/fabio-pietrosanti/ . Lo nominano anche gli elenchi soci /members/, /it/soci/ (capture 20210306140933) e /home/about-mission/people/ (stessa voce, non conteggiati a parte). Verificato sulle copie nello zip Wayback locale.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-02-12",
+  "year": 2019,
+  "type": "documento",
+  "outlet": "Agenzia delle Entrate — Direzione Centrale Tecnologie e Innovazione",
+  "title": "Riscontro ad istanza di accesso civico generalizzato (collaudi e analisi di sicurezza della fattura elettronica SDI)",
+  "url": "https://eclecticismnow.files.wordpress.com/2019/02/12-02-2019_istanza-accesso-civico-fp-risposta2.pdf",
+  "language": "it",
+  "role": "subject",
+  "note": "Risposta dell'Agenzia delle Entrate, indirizzata 'Al Sig. Fabio Pietrosanti', alla sua istanza FOIA dell'8/1/2019 (opposizione di Sogei). Linkata dal post Hermes gia' noto 'Mancanza di una vision tecnologica a supporto del FOIA' (2019-03-13). Verificata sulla copia recuperata in C:/Users/admin/Claude/hermescenter-restore/recovered/2019/02/ (link originale da quel post); nessuna capture Wayback trovata.",
+  "verified": true,
+  "known": false
+ }
+]

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1018**; dopo deduplica: **769**
+- Risultati grezzi dalle ricerche: **1025**; dopo deduplica: **776**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 734**
-- Verificati aprendo la pagina: **658**; solo da risultato di ricerca: **111**
+- **Nuovi rispetto al vecchio sito: 741**
+- Verificati aprendo la pagina: **666**; solo da risultato di ricerca: **110**
 
-Per tipo (nuovi): Menzionato 128, Talk 74, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, Report 18, Comunicato 17, documento 16, articolo 12, Slide 11, Podcast 10, Paper 9, TV 9, tweet 7, Capitolo di libro 6, Intervista 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, article 2, Wiki 1, magazine 1, audio 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
+Per tipo (nuovi): Menzionato 128, Talk 76, Post sul blog infosecurity.ch 71, Video 57, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 23, social 22, Articolo scritto 20, documento 18, Report 18, Comunicato 17, articolo 12, Slide 11, Podcast 10, Paper 9, TV 9, tweet 7, Capitolo di libro 6, Intervista 6, village 5, pagina 5, Brevetto 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, article 2, Wiki 1, magazine 1, web 1, audio 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
 
 ### Copertura per anno
 
@@ -26,18 +26,18 @@ Per tipo (nuovi): Menzionato 128, Talk 74, Post sul blog infosecurity.ch 71, Vid
 | 2005 | 1 | 6 | 5 |
 | 2006 | 4 | 5 | 2 |
 | 2007 | 1 | 5 | 4 |
-| 2008 | 0 | 7 | 7 |
+| 2008 | 0 | 8 | 8 |
 | 2009 | 1 | 42 | 40 |
 | 2010 | 6 | 57 | 49 |
 | 2011 | 4 | 27 | 24 |
 | 2012 | 0 | 29 | 29 |
-| 2013 | 0 | 35 | 35 |
+| 2013 | 0 | 36 | 36 |
 | 2014 | 0 | 25 | 25 |
 | 2015 | 0 | 32 | 32 |
 | 2016 | 0 | 22 | 22 |
-| 2017 | 0 | 67 | 67 |
-| 2018 | 0 | 68 | 68 |
-| 2019 | 0 | 31 | 31 |
+| 2017 | 0 | 70 | 70 |
+| 2018 | 0 | 69 | 69 |
+| 2019 | 0 | 32 | 32 |
 | 2020 | 0 | 93 | 93 |
 | 2021 | 0 | 35 | 35 |
 | 2022 | 0 | 58 | 58 |
@@ -113,8 +113,8 @@ Anni senza nessun risultato: nessuno
   Radio 1 Rai podcast by Massimo Cerofolini and Barbara Carfagna (00:41:25). Description: 'Ospite: Fabio Pietrosanti, detto Naif, biohacker, che sperimenta su se stesso le tecniche più innovative per il ringiovanimento...'. Also features Aubrey de Grey, Teemu Arina, Linnea Passaler.
 - 🆕 **2025-01-05** · TV · Rai 1 - Speciale Tg1 — [Pionieri di longevità - Biohacker - Speciale Tg1, puntata del 05/01/2025](https://www.raiplay.it/video/2025/01/Speciale-Tg1---Pionieri-di-longevita-Biohacker---Puntata-del-05012025-296d47d6-0a82-4988-8734-aaf1b31b0f6e.html) _(non verificato)_  
   INFERRED, NOT VERIFIED. Rai 1 special (integrale 01:06:21) on biohackers; same Carfagna production period and same cast (Aubrey de Grey, Teemu Arina) as Codice Beta 17/01/2025 where he is the named guest. The RaiPlay description does not name him; video content not checked.
-- 🆕 **2025-01-05** · TV · Rai 1 - Tg1 (servizio di Barbara Carfagna) — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html) _(non verificato)_  
-  INFERRED, NOT VERIFIED. Tg1 news piece (05/01/2025) on biohackers/XPrize. Text quotes an unnamed biohacker ('spiega uno di loro') on bringing biomarkers to a biological age below chronological age, alongside named Teemu Arina and Aubrey de Grey (same cast as Codice Beta 17/01/2025). His name does not appear on the page.
+- 🆕 **2025-01-05** · TV · Rai 1 - Tg1 (servizio di Barbara Carfagna) — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html)  
+  Tg1 05/01/2025 (servizio di Barbara Carfagna) sui biohacker e l'XPrize. Verificato 2026-09-26 sul video (copia locale, 79 s): a 0:26-0:42 parla Fabio, didascalia in sovrimpressione 'Fabio Pietrosanti - Biohacker' (0:34, fotogramma salvato nella copia): 'I biohacker, al di là dell'informatica, cercano di ridurre... i biomarcatori del proprio corpo a uno stato di età biologica inferiore a quella cronologica'. Altri intervistati: Teemu Arina, Aubrey de Grey.
 
 ## 2024 — 6 voci, 6 nuove
 
@@ -537,7 +537,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 31 voci, 31 nuove
+## 2019 — 32 voci, 32 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -589,6 +589,8 @@ Anni senza nessun risultato: nessuno
   'netta è l'opinione di Fabio Pietrosanti, direttore di Hermes ... tra i fondatori di Globaleaks: "Nel caso di Rousseau non è tecnicamente possibile..."'
 - 🆕 **2019-03-09** · Citato · AGI - Agenzia Italia (blog Cybersecurity) — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://www.agi.it/blog-italia/cybersecurity/post/2019-03-09/blockchain_rousseau_voto_elettronico_casaleggio-5117572/)  
   Original AGI piece (the crvd.org copy is already known); quoted on Rousseau/blockchain integrity and requirements for trustworthy non-electoral e-voting
+- 🆕 **2019-02-12** · documento · Agenzia delle Entrate — Direzione Centrale Tecnologie e Innovazione — [Riscontro ad istanza di accesso civico generalizzato (collaudi e analisi di sicurezza della fattura elettronica SDI)](https://eclecticismnow.files.wordpress.com/2019/02/12-02-2019_istanza-accesso-civico-fp-risposta2.pdf)  
+  Risposta dell'Agenzia delle Entrate, indirizzata 'Al Sig. Fabio Pietrosanti', alla sua istanza FOIA dell'8/1/2019 (opposizione di Sogei). Linkata dal post Hermes gia' noto 'Mancanza di una vision tecnologica a supporto del FOIA' (2019-03-13). Verificata sulla copia recuperata in C:/Users/admin/Claude/hermescenter-restore/recovered/2019/02/ (link originale da quel post); nessuna capture Wayback trovata.
 - 🆕 **2019-02-09** · Report · Copernicani — [Overlay Network Crittografici](https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/)  
   Copernicani working-group paper on crypto overlay networks / online voting; 'Gruppo di lavoro' lists Fabio Pietrosanti with Bertola, Quintarelli, Telmon, Zanero et al.; published_time 2019-02-09
 - 🆕 **2019-02-08** · Radio · Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711)  
@@ -602,7 +604,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Talk · MOJO Italia - Festival del giornalismo mobile (2a edizione) — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/)  
   Speaker at 2nd edition (announced 2019-02-17) on whistleblowing, privacy and digital anonymity
 
-## 2018 — 68 voci, 68 nuove
+## 2018 — 69 voci, 69 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -682,6 +684,8 @@ Anni senza nessun risultato: nessuno
   Hermes Center (which he chairs) complaint to Garante on CGNAT logging; written by Riccardo Coluccini, no name mention
 - 🆕 **2018-04-12** · Citato · Key4biz — [App per il ciclo mestruale, a rischio la privacy piu intima](https://www.key4biz.it/app-per-il-ciclo-mestruale-a-rischio-la-privacy-piu-intima/218397/)  
   Quoted on GDPR enforcement: first 24-36 months will be a period of legal testing
+- 🆕 **2018-04-11** · Talk · International Journalism Festival (Perugia) — speaker page — [Fabio Pietrosanti — president Hermes Center (IJF speaker page, sessions 2012-2018)](https://www.journalismfestival.com/speaker/fabio-pietrosanti)  
+  Aggregate speaker profile with bio ('nickname "naif" since 1995') and list of his sessions IJF12-IJF18 with video links; the individual programme pages are already in media.json. Date = last listed session (IJF18, 11 Apr 2018).
 - 🆕 **2018-04-11** · Talk · International Journalism Festival 2018 (#IJF18), Perugia — [Italian privacy nightmare: tales of surveillance](https://www.journalismfestival.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance)  
   With Calamari, Coluccini, Gallus, Pellerano; his segment on parliamentary tricks behind 6-year data retention
 - 🆕 **2018-04-11** · Talk · International Journalism Festival 2018 — [Privacy nightmare Italia: storie di sorveglianza](https://www.festivaldelgiornalismo.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance)  
@@ -741,7 +745,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 67 voci, 67 nuove
+## 2017 — 70 voci, 70 nuove
 
 - 🆕 **2017-12-28** · Talk · 34C3 Chaos Communication Congress, Leipzig (Rights & Freedoms stage, CCL Hall 3) — [Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', 'Digital Anonimity for Whistleblowing', 'Are NAT translations respecting proportionality and data retention principles?', 'How to use public procurement datasets to monitor government surveillance capabilities'](https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms) _(non verificato)_  
   Four Hermes Center slots 28-30 Dec 2017; speakers not named on the page - his personal involvement NOT confirmed (NAT/data-retention topic matches Hermes 2017 campaigns)
@@ -751,6 +755,8 @@ Anni senza nessun risultato: nessuno
   verified via live; context: …e iniziative per introdurre nella normativa nazionale la previsione di un divieto dello sviluppo e della ommercializzazione di sistemi Aws.” Che cosa ne pensi? Fabio Pietrosanti Presidente Centro Hermes per la trasparenz…
 - 🆕 **2017-11-29** · Articolo scritto · EDRi (European Digital Rights) — [Italy extends data retention to six years](https://edri.org/our-work/italy-extends-data-retention-to-six-years/)  
   EDRi-gram piece contributed by Pietrosanti (Hermes Center) with Italian civil-liberties experts
+- 🆕 **2017-11-17** · web · Business Follows srl (Roma) — Testimonials — [Fabio Pietrosanti (Naif) – Founder, President Hermes Center for Trasparency and Digital Human Rights](https://businessfollows.com/testimonials/fabio-pietrosanti-naif-founder-president-hermes-center-trasparency-digital-human-rights/)  
+  Testimonial quote by Fabio: Business Follows' support was key in choosing the licensing model of GlobaLeaks and in finding resources for its development. datePublished 2017-11-17 from page JSON-LD.
 - 🆕 **2017-11-15** · Report · Hermes Center for Transparency and Digital Human Rights (Progetto Winston Smith / Cassandra), Italy — [Guida Hermes al voto digitale](https://archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale)  
   Marco A.L. Calamari. Colophon 'Si ringrazia: Fabio “naif” Pietrosanti (Hermes Center), ...'. Confirmed via Internet Archive full-text snippet.
 - 🆕 **2017-11** · Tesi · Tampere University of Technology (MSc thesis, Master's Degree Programme in Information Technology) — [TorSNIP: Hidden Service Proxy with End-to-End Security (Kiyani)](https://trepo.tuni.fi/handle/123456789/25394)  
@@ -825,6 +831,8 @@ Anni senza nessun risultato: nessuno
   Opened by fpietrosanti
 - 🆕 **2017-04-11** · Citato · Wired Italia — [Cybersorveglianza, come le aziende (anche italiane) aiutano Iran e Sud Sudan](https://www.wired.it/internet/regole/2017/04/11/cybersorveglianza-aziende-italiane-iran/)  
   After Al Jazeera documentary; Pietrosanti (Hermes) explains IMSI catchers vs mass interception systems; CILD/PI/Hermes letter to MISE
+- 🆕 **2017-04-11** · documento · Hermes Center (hermescenter.org) / CILD / Privacy International — [Lettera al Ministro Carlo Calenda (MISE) sulle licenze di esportazione di tecnologie di sorveglianza (caso AREA/Egitto)](https://www.hermescenter.org/wp-content/uploads/2017/04/MISElettera_aprile2017_ITA-2.pdf)  
+  Lettera congiunta firmata da Antonella Napolitano (CILD), Edin Omanovic (Privacy International) e 'Fabio Pietrosanti, Hermes Center for Transparency and Human Rights'. Testo estratto dalla copia nello zip del crawl Wayback di hermescenter.org (C:/Users/admin/Claude/hermescenter-restore/archive/wp-content/uploads/2017/04/); nessuna riga CDX propria per il PDF. Allegato al post gia' noto 'Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE' (2017-05-30).
 - 🆕 **2017-03-08** · Menzionato · repubblica.it — [Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Cloud"](https://www.repubblica.it/tecnologia/social-network/2017/03/08/news/wikileaks-cia_la_sicurezza_assoluta_non_esiste_piu_-160075024/)  
   verified via wayback; context: …agione, in fondo è scontato che nella Cia si lavori a queste cose, come in tutti i centri di ricerca di cyberintelligence. Ma allora dov'è lo scandalo? Secondo Fabio Pietrosanti , giovane esperto di sicurezza ed hacker e…
 - 🆕 **2017-03-02** · Report · Citizen Lab, Munk School of Global Affairs, University of Toronto — [Who's Watching Little Brother? A Checklist for Accountability in the Industry Behind Government Hacking](https://citizenlab.ca/wp-content/uploads/2017/03/citizenlab_whos-watching-little-brother.pdf)  
@@ -877,6 +885,8 @@ Anni senza nessun risultato: nessuno
   Shoaib Kiyani. OpenAlex full-text index matches 'F. Pietrosanti' together with Tor2web and Swartz (Tor2web references). trepo.tuni.fi timed out from here, so not re-opened. Already known.
 - 🆕 **2017** · Tesi · University of California, Berkeley, PhD dissertation (Computer Science) — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf)  
   David Fifield. Ref. [41] cites Tor bug #4185 'Bridge easily detected by GFW' (Oct. 2011) with Fabio Pietrosanti among its listed authors (denverroot, Roger Dingledine, ... Mike Perry, Fabio Pietrosanti, quick-dudley), in the discussion of China's Great Firewall detecting Tor.
+- 🆕 **2017** · pagina · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/)  
+  Scheda biografica sul vecchio sito Hermes (PrivateWave, hacking community dal 1995, Twitter @fpietrosanti). Capture: https://web.archive.org/web/20210306145428/https://www.hermescenter.org/members/fabio-pietrosanti/ ; versione precedente con 'IRC: naif@irc.oftc.net #globaleaks': https://web.archive.org/web/20171022005215/https://www.hermescenter.org/home/about-mission/people/members/fabio-pietrosanti/ . Lo nominano anche gli elenchi soci /members/, /it/soci/ (capture 20210306140933) e /home/about-mission/people/ (stessa voce, non conteggiati a parte). Verificato sulle copie nello zip Wayback locale.
 
 ## 2016 — 22 voci, 22 nuove
 
@@ -1045,7 +1055,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2014-01-22** · Citato · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/)  
   Quoted as security and telephony expert on mobile location tracking of protesters
 
-## 2013 — 35 voci, 35 nuove
+## 2013 — 36 voci, 36 nuove
 
 - 🆕 **2013-12-30** · Citato · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/)  
   John Borland's 30C3 report; quotes him on GlobaLeaks and on media groups wanting to copy the Dutch Publeaks model; photo with Claudio Agosti
@@ -1061,6 +1071,8 @@ Anni senza nessun risultato: nessuno
   Short introduction to whistleblowing systems by him as co-founder of Centro Hermes
 - 🆕 **2013-10-14** · Talk · Global Investigative Journalism Conference GIJC13 (Rio de Janeiro) — [Security Workshop: Tor & Globaleaks: Protecting Yourself and Your Sources Online](https://gijc13.sched.com/event/1cntRel/global-security-workshop-tor-globaleaks-protecting-yourself-and-your-sources-online-eng)  
   Listed as Secretary of the Hermes Center and GlobaLeaks co-founder
+- 🆕 **2013-10-12** · Talk · Global Investigative Journalism Conference (GIJC13), Rio de Janeiro — Sched speaker page — [Fabio Pietrosanti — speaker profile (Hermes Center for Transparency and Digital Human Rights, Secretary, Italy)](https://gijc13.sched.com/speaker/fabio.pietrosanti)  
+  Speaker profile with bio: 'hacking in the digital underground as "naif" since 1995'; lists his GIJC13 sessions (the Tor/GlobaLeaks security workshop event page is already in media.json). Conference dates 12-15 Oct 2013; profile page date approximate.
 - 🆕 **2013-10-09** · Menzionato · The Tor Project blog - Tor Weekly News — [Tor Weekly News — October 9th, 2013](https://blog.torproject.org/tor-weekly-news-october-9th-2013/)  
   Reports his request for reviews of Tor2web performance tuning
 - 🆕 **2013-09-18** · Menzionato · The Tor Project blog - Tor Weekly News — [Tor Weekly News — September 18th, 2013](https://blog.torproject.org/tor-weekly-news-september-18th-2013/)  
@@ -1440,10 +1452,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2009** · Libro · R. Chiesa, S. Ducci, S. Ciappi, Profiling Hackers (CRC Press, 2009) - second IA copy — [Profiling hackers: the science of criminal profiling as applied to the world of hacking](https://archive.org/details/profili_chi_2009_00_8384)  
   IA FTS snippet: 'Alessandro Scartezzini, Antonis Anagnostopoulos, Fabio "Naif" Pietrosanti, Marco Tracina, Vittorio Pasteris...' (acknowledgements). Duplicate copy of known item profilinghackers0000chie.
 
-## 2008 — 7 voci, 7 nuove
+## 2008 — 8 voci, 8 nuove
 
 - 🆕 **2008-12-15** · Capitolo di libro · Shake Edizioni (collana Cyberpunkline) — [Il software libero in Italia, a cura di Andrea Glorioso - contributo di Fabio 'naif' Pietrosanti (sicurezza)](https://shake.it/libri/il-software-libero-in-italia/)  
   Publisher page lists 'Fabio naif Pietrosanti' among contributors; ISBN 9788888865768, 158-160 pp.; IBS and LibreriaUniversitaria give publication date 15 Dec 2008 - improves existing (placeholder year 2006/2004)
+- 🆕 **2008-12-11** · Libro · CRC Press (Auerbach) - R. Chiesa, S. Ducci, S. Ciappi — [Profiling Hackers: The Science of Criminal Profiling as Applied to the World of Hacking (Google Books edition)](https://books.google.com/books?id=y2Amp_OwrPMC)  
+  Re-found 2026-09-26 via Google Books search-within (books?id=y2Amp_OwrPMC&jscmd=SearchWithinVolume2&q=Pietrosanti): page xiii (acknowledgments, page_id PR13): '... Naif” Pietrosanti, Marco Tracinà, Vittorio Pasteris, Pietro Gentile, Salvatore Aranzulla ...'. Same book already known via IA copy profilinghackers0000chie; this adds the printed page number (xiii). Italian original Profilo hacker (Apogeo 2007, id BEvVGAAACAAJ) is not searchable on Google Books (searchable:false), so its page stays unconfirmed.
 - 🆕 **2008-06** · Menzionato · PC Professionale n.207 (giugno 2008) — [L'intervista (Philip Zimmermann / Zfone) - box 'Nei Khamsa Labs si studia come rendere sicure le comunicazioni telefoniche'](https://archive.org/details/pcprofessionale207)  
   Box on Khamsa (founded 2005, 'Federico Moro e Fabio Pietrosanti', Politecnico di Milano incubator, 2M euro funding in 2007, Khamsa Labs) accompanying an interview with Phil Zimmermann
 - 🆕 **2008-02-07** · Brevetto · WIPO PCT patent application WO2008015723 (A2 2008-02-07, A3 2008-04-10); European application EP2057777A2 (published 2009-05-13); assignee Khamsa Italia S.r.l. — [Method of recording a not repudiable digital transmission of information and identifying the participants in the communication](https://patents.google.com/patent/WO2008015723A2/en)  
