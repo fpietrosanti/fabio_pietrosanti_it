@@ -1,19 +1,18 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-09-26 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-09-28 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
 - Voci in `data/media.json`: **776**; già processate: **828**; ancora da processare: **0**
-- Licenza delle copie ottenute: **220** materiale proprio (ripubblicabile), **504** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **636**
+- Licenza delle copie ottenute: **220** materiale proprio (ripubblicabile), **508** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **642**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **41**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **18**
-- 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **3**
-- 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **3**
+- 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
+- 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **35**
-- 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
 - 🎬 Video/audio scaricato (+ pagina): **85**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
 - ❌ Non ottenuta: **4**
@@ -26,8 +25,8 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2000 | 15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 2001 | 14 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 2000 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2001 | 15 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2002 | 14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -38,7 +37,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2009 | 43 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2010 | 52 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 23 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2012 | 27 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 2012 | 28 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 22 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 20 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 24 | 9 | 0 | 0 | 0 | 0 | 0 |
@@ -48,9 +47,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2019 | 24 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2020 | 76 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 26 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 46 | 7 | 0 | 0 | 0 | 0 | 1 |
+| 2022 | 48 | 7 | 0 | 0 | 0 | 0 | 1 |
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 2024 | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2024 | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
@@ -140,11 +139,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
   URLError
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2012** · Dutton (Penguin) - Andy Greenberg — [This Machine Kills Secrets (additional IA copies thismachinekills00gree_0 / thismachinekil](https://archive.org/details/thismachinekills00gree_0) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
-- 📚 **2024** · Edward Elgar, Digital Media and Grassroo — [Digital whistleblowing platforms for anti-corruption: The Transparency International Itali](https://doi.org/10.4337/9781802202106.00015) · licenza: terzi  
-  2026-09-23: scheda di libro/paper: il nome, se c'e', sta nel testo interno non accessibile dalla scheda. Serve la Google Books API (ricerca dentro il volume) o il PDF del capitolo.
+  2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 (Gaetano Paolone) - FAQ 2.1.2 «Come si può controllare i](http://www.pluto.it/files/ildp/LDR/ldr5.html#index1124) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🔎 **2002** · Apogeonline — [Ethical Hacker's Speech II](https://www.apogeonline.com/articoli/ethical-hackers-speech-ii-associazione-italian-blackhats/) · licenza: terzi  
@@ -265,16 +260,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: bug di copia RISOLTO (corpo gzip decodificato in locale, nessun nuovo download). La pagina e' leggibile ma e' la home di un suo progetto e non contiene il suo nome: rientra nella categoria «solo organizzazione».
 - 🗂️ **2001** · Corriere della Sera (ed. nazionale, p. 2 — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma p](https://archivio.corriere.it/Archivio/interface/landing.html) · licenza: terzi  
   2026-09-23: la copia e' solo una scheda/maschera di ricerca d'archivio, senza il testo dell'articolo. Serve la pagina di giornale vera (scansione archive.org o capture dell'URL dell'articolo).
-- 🗂️ **2022** · Istituto Comprensivo Cornigliano, Genova — [Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013](https://www.iccornigliano.edu.it/amministrazione-trasparente/) · licenza: terzi  
-  2026-09-23: la pagina «Amministrazione Trasparente» costruisce l'elenco dei documenti via JavaScript (verificato anche nel browser: nessuna occorrenza nel DOM). Serve l'URL diretto del PDF dell'istanza.
-- 🗂️ **2022** · Liceo Statale "Maria Montessori" (Minist — [Istanza accesso civico sig. Fabio Pietrosanti](https://www.istitutomontessori.edu.it/amministrazione-trasparente/) · licenza: terzi  
-  2026-09-23: la pagina «Amministrazione Trasparente» costruisce l'elenco dei documenti via JavaScript (verificato anche nel browser: nessuna occorrenza nel DOM). Serve l'URL diretto del PDF dell'istanza.
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
-- 🟠 **2000** · SecurityFocus BID 1923 — [ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)](https://www.securityfocus.com/bid/1923) · licenza: propria  
-  page is a JavaScript shell with almost no text: needs browser capture
-- 🟠 **2001** · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) · licenza: propria  
-  page is a JavaScript shell with almost no text: needs browser capture
 
 ## Interventi di Fabio ritagliati da Radio Radicale
 
@@ -341,7 +328,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2000** · BFi n.9 — [LibVSK - librerie per il controllo del traffico a userlevel (vecna)](https://www.s0ftpj.org/bfi/online/bfi9/BFi09-11) · copia: `2000/cf685c3b0020` (Web Archive 20010707) · licenza: terzi
 - **2000** · SecurityFocus BID 1335 — [3R Soft MailStudio 2000 vulnerabilities (BID 1335, CVE-2000-0526)](https://www.securityfocus.com/bid/1335) · copia: `2000/feef32d91561` (Web Archive 20010702) · licenza: propria
 - **2000** · SecurityFocus BID 1698 — [Cisco PIX Firewall SMTP content filtering evasion (BID 1698, CVE-2000-1022)](https://www.securityfocus.com/bid/1698) · copia: `2000/df3d82682711` (Web Archive 20010312) · licenza: propria
+- **2000** · SecurityFocus BID 1923 — [ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)](https://www.securityfocus.com/bid/1923) · copia: `2000/6cf7ea802347` (Web Archive 20010222) · licenza: propria
 - **2001** · AntiKrimen Expo 2001 - Area Sicurezza In — [Storia e psicologia Hacker](http://fabio.pietrosanti.it/) · copia: `2001/b17e2e712c2e` (Web Archive 20030214) · licenza: propria
+- **2001** · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) · copia: `2001/708cc48ca841` (Web Archive 20020204) · licenza: propria
 - **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 - 'Suggerimenti di...' (hall of fame)](http://www.pluto.it/files/ildp/LDR/ldr21.html) · copia: `2001/581a4a985147` (Web Archive 20060517) · licenza: terzi
 - **2001** · BFi n.10 — [TCP congestion control e dintorni (vecna)](http://www.s0ftpj.org/bfi/online/bfi10/BFi10-08.html) · copia: `2001/e4128af2c887` (Web Archive 20020211) · licenza: terzi
 - **2001** · BFi n.10 — [i0 FASTWEB E TU?](http://www.s0ftpj.org/bfi/online/bfi10/BFi10-13.html) · copia: `2001/140605a444e1` (Web Archive 20011212) · licenza: propria
@@ -534,6 +523,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2012** · Internet Archive (PWS e-privacy archive) — [La privacy nella gestione delle fonti d'informazione critiche: whistleblowing, anonimato, ](https://archive.org/details/pws_e-privacy_2012s_1m03_pietrosanti_la-privacy-nella-gestione-delle-fonti-d-informazione) · copia: `2012/7e072501c720` (live) · licenza: propria
 - **2012** · Dutton (Penguin), New York — [This Machine Kills Secrets: How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the ](https://archive.org/details/thismachinekills0000gree) · copia: `2012/b2b247a0446f` (live) · licenza: terzi
 - **2012** · Andy Greenberg, This Machine Kills Secre — [This Machine Kills Secrets (additional IA copies)](https://archive.org/details/thismachinekills0000gree_i3p1) · copia: `2012/d32025172883` (live) · licenza: terzi
+- **2012** · Dutton (Penguin) - Andy Greenberg — [This Machine Kills Secrets (additional IA copies thismachinekills00gree_0 / thismachinekil](https://archive.org/details/thismachinekills00gree_0) · copia: `2012/23820a2983ce` (live) · licenza: terzi
 - **2012** · arXiv / Karlstad University (Sweden) — [How China Is Blocking Tor (Philipp Winter, Stefan Lindskog)](https://arxiv.org/pdf/1204.0447) · copia: `2012/e41dd43e3f10` (Web Archive 20171124) · licenza: terzi
 - **2012** · arXiv:1209.6398 — [The Hidden Internet of Iran: Private Address Allocations on a National Network](https://arxiv.org/pdf/1209.6398) · copia: `2012/212976612d58` (Web Archive 20210716) · licenza: terzi
 - **2012** · e-privacy XI (Milano, Università degli S — [Tor Hidden Services / Tor2web - session: La privacy nella gestione delle fonti d'informazi](https://e-privacy.winstonsmith.org/e-privacy-XI.html) · copia: `2012/cdfdfc60840c` (Web Archive 20150914) · licenza: terzi
@@ -956,6 +946,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/) · copia: `2022/39ed595e0702` (Web Archive 20221027) · licenza: terzi
 - **2022** · civile.it (Valentino Spataro) — [Voto elettronico online per le politiche - 5 esperti spiegano perche' e' una disgrazia](https://www.civile.it/internet/visual.php?num=95819) · copia: `2022/feda165c8059` (live) · licenza: terzi
 - **2022** · Cyber Security 360 — [Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi](https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/) · copia: `2022/ceddd683ee93` (Web Archive 20220314) · licenza: terzi
+- **2022** · Istituto Comprensivo Cornigliano, Genova — [Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013](https://www.iccornigliano.edu.it/amministrazione-trasparente/) · copia: `2022/a07b6bd88256` (Web Archive 20231030) · licenza: terzi
 - **2022** · Il Post — [Il voto degli italiani all'estero ha vari problemi](https://www.ilpost.it/2022/09/14/sicurezza-voto-italiani-estero/) · copia: `2022/81fb6ebe105d` (live) · licenza: terzi
 - **2022** · Il Riformista — ["Disinstallate Kaspersky dai PC", i servizi segreti lanciano l'allarme per l'antivirus usa](https://www.ilriformista.it/disinstallate-kaspersky-dai-pc-i-servizi-segreti-lanciano-lallarme-per-lantivirus-usato-da-farnesina-e-viminale-286552/) · copia: `2022/d8829e0278a1` (Web Archive 20220315) · licenza: terzi
 - **2022** · Il Riformista — ["Ecco come Putin può disconnettere l'Italia", il rischio dell'antivirus Kaspersky utilizza](https://www.ilriformista.it/ecco-come-putin-puo-disconnettere-litalia-il-rischio-dellantivirus-kaspersky-utilizzato-dagli-enti-pubblici-282811/) · copia: `2022/e68cb385c0ce` (Web Archive 20220228) · licenza: terzi
@@ -965,6 +956,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Info Data - Il Sole 24 Ore — [La Pubblica amministrazione che usa Google Analytics rispetta le regole della privacy? L'i](https://www.infodata.ilsole24ore.com/2022/05/20/la-pubblica-amministrazione-rispetta-le-regole-della-privacy-cosi-funziona-losservatorio-monitorapa/) · copia: `2022/680931488ae9` (Web Archive 20220520) · licenza: terzi
 - **2022** · Info Data - Il Sole 24 Ore (#ThinkTallyT — [La Pa che usa Google Analytics rispetta le regole della privacy? #ThinkTallyTalk](https://www.infodata.ilsole24ore.com/2022/05/22/la-pa-usa-google-analytics-rispetta-le-regole-della-privacy-thinktallytalk/) · copia: `2022/485ab05e07e9` (Web Archive 20220522) · licenza: terzi
 - **2022** · Info Data - Il Sole 24 Ore — [Stretta del Garante Privacy italiano su Google Analytics. Aveva ragione MonitoraPa?](https://www.infodata.ilsole24ore.com/2022/06/28/stretta-del-garante-privacy-italiano-google-analytics-ragione-monitorapa/) · copia: `2022/ee8ad4ccb589` (Web Archive 20220628) · licenza: terzi
+- **2022** · Liceo Statale "Maria Montessori" (Minist — [Istanza accesso civico sig. Fabio Pietrosanti](https://www.istitutomontessori.edu.it/amministrazione-trasparente/) · copia: `2022/4b8b878bad90` (live) · licenza: terzi
 - **2022** · Key4biz — [Google Analytics in PA. 3.400 siti l'hanno rimosso, grazie a MonitoraPa: "Ora esposto al G](https://www.key4biz.it/google-analytics-in-pa-3-400-siti-lhanno-rimosso-grazie-a-monitorapa-a-fine-mese-faremo-anche-esposto-al-garante-privacy/405043/) · copia: `2022/8486ab3178f2` (Web Archive 20220525) · licenza: terzi
 - **2022** · Key4biz — [PA, non basta l'addio a Google Analytics: "10mila siti violano privacy cittadini con Googl](https://www.key4biz.it/pa-non-basta-laddio-a-google-analytics-10mila-siti-violano-privacy-cittadini-con-google-fonts/413335/) · copia: `2022/b7f58f58b496` (Web Archive 20220809) · licenza: terzi
 - **2022** · LinkedIn — [Eliminare Kaspersky dalle infrastutture IT in Europa è una priorità](https://www.linkedin.com/posts/activity-6906253703863427072-Xirm) · copia: `2022/097ed5a7ec4a` (Web Archive 20220306) · licenza: propria
@@ -992,6 +984,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2023** · European Parliament, Policy Department f — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf) · copia: `2023/26bb7f5f7319` (Web Archive 20230224) · licenza: terzi
 - **2023** · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html) · copia: `2023/a6c17e995b05` (live) · licenza: terzi
 - **2024** · Wolters Kluwer Italia — [Intelligenza artificiale, blockchain e criptovalute](https://books.google.com/books?id=GbEvEQAAQBAJ) · copia: `2024/be1b38a964db` (live) · licenza: terzi
+- **2024** · Edward Elgar, Digital Media and Grassroo — [Digital whistleblowing platforms for anti-corruption: The Transparency International Itali](https://doi.org/10.4337/9781802202106.00015) · copia: `2024/5cebfaf2f256` (live) · licenza: terzi
 - **2024** · The Record (Recorded Future News) — [How Italy became an unexpected spyware hub](https://therecord.media/how-italy-became-an-unexpected-spyware-hub) · copia: `2024/9512b39405b8` (Web Archive 20241112) · licenza: terzi
 - **2024** · Ufficio Scolastico Regionale per il Lazi — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituz](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf) · copia: `2024/ad6071ff2a36` (Web Archive 20250814) · licenza: terzi
 - **2024** · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/) · copia: `2024/f387de6462a9` (Web Archive 20241114) · licenza: terzi

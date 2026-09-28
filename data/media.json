@@ -4345,16 +4345,17 @@
  {
   "date": "2012-09-13",
   "year": 2012,
-  "type": "book",
-  "outlet": "Dutton (Penguin), New York",
+  "type": "libro",
+  "outlet": "Dutton (Penguin), New York - Andy Greenberg",
   "title": "This Machine Kills Secrets: How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information",
   "url": "https://archive.org/details/thismachinekills0000gree",
   "language": "en",
   "role": "subject",
-  "note": "Andy Greenberg (Forbes). Portrays 'Fabio Pietrosanti and Arturo Filastò, the cofounders of GlobaLeaks' and their 'worldwide, distributed leak amplification network'; describes Pietrosanti as a thirty-year-old security engineer and quotes him on expanding the leaking movement. Confirmed via Internet Archive full-text snippets.",
+  "note": "Numero di pagina a stampa confermato 2026-09-27 via Google Books search-within sull'edizione ebook ricercabile (books?id=bIaZf663Z2cC&jscmd=SearchWithinVolume2&q=Pietrosanti, 4 risultati): indice analitico «Pietrosanti, Fabio, 318–19» (pp. 318-319 dell'edizione Dutton). Snippet PT238: «Pietrosanti and Arturo Filastò, the cofounders of GlobaLeaks, say they aim to create the BitTorrent to WikiLeaks' Napster»; PT239: «Pietrosanti says, is to expand the leaking movement from the current fifty or so WikiLeaks copycats to a network of hundreds or thousands of \"leak nodes\"». 'naif' non compare. Libro gia' noto (copia IA).",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_books_nonsearchable_2026-09-27",
    "slice7_academic"
   ],
   "on_old_site": false
@@ -9411,7 +9412,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass4_archive_texts_2026-09-18"
+   "pass4_archive_texts_2026-09-18",
+   "pass4_books_nonsearchable_2026-09-28"
   ],
   "on_old_site": false
  },
@@ -9429,26 +9431,6 @@
   "known": true,
   "_slices": [
    "pass4_archive_texts_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020",
-  "year": 2020,
-  "type": "book",
-  "outlet": "Palgrave Macmillan (Springer Nature)",
-  "title": "Digital Whistleblowing Platforms in Journalism: Encrypting Leaks",
-  "url": "https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1",
-  "language": "en",
-  "role": "acknowledged",
-  "note": "Author: Philip Di Salvo. Front matter (Acknowledgements) verified: 'Fabio \"Naif\" Pietrosanti and the Hermes Center for Transparency and Digital Human Rights ... have all been crucial' in making the book. Book landing page link.springer.com/book/10.1007/978-3-030-38505-7 already known; this is the verifying front-matter PDF.",
-  "verified": true,
-  "known": true,
-  "_slices": [
-   "pass4_books_2026-09-18"
-  ],
-  "mirrors": [
-   "https://link.springer.com/book/10.1007/978-3-030-38505-7"
   ],
   "on_old_site": false
  },
@@ -10305,6 +10287,27 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-06-12",
+  "year": 2020,
+  "type": "book",
+  "outlet": "Palgrave Macmillan (Springer Nature) - Philip Di Salvo (Google Books edition)",
+  "title": "Digital Whistleblowing Platforms in Journalism: Encrypting Leaks",
+  "url": "https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1",
+  "language": "en",
+  "role": "acknowledged; subject",
+  "note": "Conferma 2026-09-28 di un libro gia' noto (front matter Springer), con pagine via Google Books search-within (q=Pietrosanti, 3 risultati; q=naif, 1): ringraziamenti p. v (PR5) «Fabio 'Naif' Pietrosanti and the Hermes Center for Transparency and Digital Human Rights ... have all been crucial»; p. 73 (cap. su GlobaLeaks/SecureDrop): «(Fabio Pietrosanti and Arturo Filastò, the main coders behind the project)» in citazione di Andy Greenberg; indice p. 186 «Pietrosanti, Fabio, 73». GlobaLeaks citato anche a pp. 71-72, 80, 84, 99, 131, 133. [URL del riscontro: https://books.google.com/books?id=ikzrDwAAQBAJ; riportato sulla voce canonica Springer]",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_books_2026-09-18",
+   "pass4_books_nonsearchable_2026-09-28"
+  ],
+  "mirrors": [
+   "https://link.springer.com/book/10.1007/978-3-030-38505-7"
   ],
   "on_old_site": false
  },
@@ -13070,6 +13073,7 @@
   "known": true,
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18",
+   "pass4_istituzioni_residui_2026-09-28",
    "slice6_media_archives"
   ],
   "on_old_site": false

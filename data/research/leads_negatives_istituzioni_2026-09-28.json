@@ -1,0 +1,93 @@
+[
+ {
+  "date": "2020-05-14",
+  "year": 2020,
+  "type": "parliamentary hearing (informal)",
+  "outlet": "Senato della Repubblica, 14a Commissione (Politiche UE) - scheda procedura (mirror parlamento.it)",
+  "title": "Audizioni informali sul disegno di legge n. 1721 (Legge di delegazione europea 2019) - Seduta n. 24 del 14 maggio 2020",
+  "url": "https://www.parlamento.it/leg/18/BGT/Schede/ProcANL/ProcANLscheda43472.htm",
+  "language": "it",
+  "role": "unknown (Hermes among auditi)",
+  "note": "Page opened (parlamento.it serves the same scheda; senato.it returns an empty HTTP 202 WAF challenge, so stopped there). Seduta n. 24 of 14/05/2020 (Ufficio di Presidenza): 'Audizione informale di rappresentanti di Fnsi, Crui, Siae, Wikimedia Italia, Google, Hermes, Nuovo Imaie, Fimi, Mpa, Aisa, Goipe, Creative Commons, Movimento consumatori, Anac autori e Altroconsumo, intervenuti in videoconferenza'. No individual is named, and neither is his name or 'naif'. The resoconto sommario n. 24 (parlamento.it/japp/bgt/showdoc/frame.jsp?tipodoc=SommComm&leg=18&id=1151829) is a bare header with no names. The 'Memorie depositate dagli auditi' list for this hearing (parlamento.it/Leg18/browse/3712?current_page_40491=8) has 11 PDFs (Movimento Consumatori, AISA, Creative Commons, GOIPE, FIMI, SIAE, Altroconsumo, ANAC, Google, Wikimedia Italia, CRUI). There is NONE from Hermes, so no memoria exists to check. The speaker can only be found in the webtv.senato.it video: webtv search returns a WAF 202, so the video page was not reached. Radio Radicale: none of his 21 listed 'interventi' is from 2020. Unverified, and possibly not him.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2016-11-23",
+  "year": 2016,
+  "type": "parliamentary hearing (informal) - video",
+  "outlet": "Camera dei deputati WebTV (XVII leg.), Comitato permanente sui diritti umani (III Commissione)",
+  "title": "COMITATO DIRITTI UMANI - Tutela difensori diritti umani, audizione esperti",
+  "url": "https://webtv.camera.it/evento/10296",
+  "language": "it",
+  "role": "unknown (Hermes among auditi)",
+  "note": "Found through the webtv.camera.it archive web service (POST /ws/archivio, text 'Hermes': 3 hits in leg. 17). Page opened: schedule for 'risoluzione sulla tutela dei difensori dei diritti umani' (7-01051 Tidei). The 15.40 slot is 'rappresentanti Centro Hermes per la Trasparenza e i Diritti umani digitali'. The video chapter is 'Amnesty International, Associazione Un ponte per, Centro Hermes...'. No individual named; neither his name nor 'naif' appears. Concrete lead: the video (chapter 1, ~40 min in) would show who spoke for Hermes. Radio Radicale did not record this informal hearing (not on his soggetti page). Unverified. | CHIUSO 2026-09-28: video scaricato (AI_SUB_20161123_000_amnesty.mp4) e trascritto (faster-whisper) nel tratto 24'-62': il presidente dice «auditi sono i rappresentanti del centro Hermes… do quindi la parola all'ingegnere Manuele Somma» (30:02); l'intervento su GlobaLeaks (30:18-45:00) è di Emmanuele Somma. Fabio non parla; citato invece Quintarelli, che aveva chiesto l'audizione (51:25). NON è Fabio.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2016-11-23",
+  "year": 2016,
+  "type": "parliamentary bulletin",
+  "outlet": "Camera dei deputati, Bollettino delle Giunte e delle Commissioni n. 731 (XVII leg.)",
+  "title": "Bollettino 23 novembre 2016 - Comitato permanente sui diritti umani, audizioni informali risoluzione 7-01051 Tidei",
+  "url": "https://documenti.camera.it/leg17/resoconti/commissioni/bollettini/pdf/2016/11/23/leg.17.bol0731.data20161123.pdf",
+  "language": "it",
+  "role": "unknown",
+  "note": "PDF opened (text extracted). It lists 'Rappresentanti del Centro Hermes per la Trasparenza e i Diritti Umani Digitali' with no personal names. Pietrosanti does not appear anywhere in the bulletin. The Wayback capture of camera.it/leg17/1104?shadow_organo_parlamentare=2077&id_commissione=03 (20170718195402) has the same entry, with links only to the bulletin: no memoria and no names. Negative for his name.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2015-09-23",
+  "year": 2015,
+  "type": "parliamentary hearing - video",
+  "outlet": "Camera dei deputati WebTV (XVII leg.), Commissioni riunite II-XI",
+  "title": "COMMISSIONI RIUNITE - Protezione autori segnalazioni reati, audizioni esperti",
+  "url": "https://webtv.camera.it/evento/8351",
+  "language": "it",
+  "role": "none (Hermes represented by Alessandro Rodolfi)",
+  "note": "NOT HIM. Page opened: among the experts heard on C. 1751 Businarolo (whistleblowing) is 'Alessandro Rodolfi, rappresentante dell'Associazione Hermes'. This is an EARLIER Hermes hearing than the known 23/10/2015 one (webtv.camera.it/evento/8492, also opened, also Rodolfi). It supports the known fact that he was never heard in person. Listed for completeness only; do not add to media.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2014-04-10",
+  "year": 2014,
+  "type": "near-miss",
+  "outlet": "Camera dei deputati WebTV",
+  "title": "PRESENTAZIONE - Relazione Autorita Garante Infanzia e Adolescenza",
+  "url": "https://webtv.camera.it/evento/6230",
+  "language": "it",
+  "role": "none",
+  "note": "NOT HIM. This is the only webtv.camera.it archive hit for 'Pietrosanti'. It is 'Marta Pietrosanti, studentessa Progetto Pidida', a homonym. The archive has 0 hits for 'GlobaLeaks'.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2015/2019",
+  "year": 2019,
+  "type": "true negative",
+  "outlet": "OHCHR - Special Rapporteur on freedom of expression (calls for submissions)",
+  "title": "Submissions: Protection of sources and whistleblowers (2015, A/70/361) and Surveillance industry and human rights (2019, A/HRC/41/35)",
+  "url": "https://www.ohchr.org/en/calls-for-input/report-protection-sources-and-whistleblowers",
+  "language": "en",
+  "role": "none",
+  "note": "ohchr.org call pages return 403 (bot protection), so they were not bypassed. Wayback CDX listing of Documents/Issues/Opinion/Protection/ and Opinion/Surveillance/ (both the old and the /sites/default/files/ paths): 146 distinct filenames, including Wikileaks, APC, FreedomPressFoundation, BlueprintForFreeSpeech, GuidoStrack, Pistaljka, Privacy International, Access Now, Citizen Lab and ITALY.docx (state). There is NO Hermes, GlobaLeaks or Centro file. A CDX regex filter for 'hermes' over Opinion/, Expression/ and Privacy/ document dirs also returned nothing. True negative (encryption 2015 was already negative).",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2013/2019",
+  "year": 2019,
+  "type": "true negative",
+  "outlet": "European Parliament (LIBE/JURI, emeeting, multimedia)",
+  "title": "EP committee minutes, agendas and speakers 2013-2019: Pietrosanti / GlobaLeaks",
+  "url": "https://www.europarl.europa.eu/legislative-train/theme-area-of-justice-and-fundamental-rights/file-whistle-blower-protection-proposal",
+  "language": "en",
+  "role": "none",
+  "note": "Web searches for Pietrosanti or GlobaLeaks with LIBE/JURI, hearings or workshops found no EP committee document or multimedia speaker entry. The only EP items remain the already known IPOL studies (2017 hacking by law enforcement; 2022/23 Pegasus). europarl.europa.eu/search returns 404 to scripted access, and emeeting has no public full-text search, so this negative comes from search engines only. Not exhaustive.",
+  "verified": false,
+  "known": false
+ }
+]

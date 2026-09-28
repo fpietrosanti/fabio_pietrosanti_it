@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2020",
+  "year": 2020,
+  "type": "book",
+  "outlet": "Routledge - Andrew Fowler, Shooting the Messenger: Criminalising Journalism (Google Books ebook edition)",
+  "title": "Shooting the Messenger: Criminalising Journalism",
+  "url": "https://archive.org/details/shootingmessenge0000fowl",
+  "language": "en",
+  "role": "quoted (GlobaLeaks founder)",
+  "note": "Conferma 2026-09-28 di un libro gia' noto (copia IA shootingmessenge0000fowl), con numero di pagina a stampa via Google Books search-within (books?id=5SFWDwAAQBAJ&jscmd=SearchWithinVolume2&q=Pietrosanti, 5 risultati): indice analitico «Pietrosanti, Fabio 103» e «GlobaLeaks 103» -> p. 103. Snippet: «Pietrosanti, who conceived the original idea, told me that he created GlobaLeaks to counter the problems that he saw with WikiLeaks»; «When Pietrosanti embarked on the programme in 2010...». Data Google Books 2018-04-17 (l'item noto riporta 2020 = copia IA). 'naif' non compare. [URL originale del riscontro: https://books.google.com/books?id=5SFWDwAAQBAJ; riportato sulla voce canonica IA per non creare doppioni]",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2020-06-12",
+  "year": 2020,
+  "type": "book",
+  "outlet": "Palgrave Macmillan (Springer Nature) - Philip Di Salvo (Google Books edition)",
+  "title": "Digital Whistleblowing Platforms in Journalism: Encrypting Leaks",
+  "url": "https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1",
+  "language": "en",
+  "role": "acknowledged; subject",
+  "note": "Conferma 2026-09-28 di un libro gia' noto (front matter Springer), con pagine via Google Books search-within (q=Pietrosanti, 3 risultati; q=naif, 1): ringraziamenti p. v (PR5) «Fabio 'Naif' Pietrosanti and the Hermes Center for Transparency and Digital Human Rights ... have all been crucial»; p. 73 (cap. su GlobaLeaks/SecureDrop): «(Fabio Pietrosanti and Arturo Filastò, the main coders behind the project)» in citazione di Andy Greenberg; indice p. 186 «Pietrosanti, Fabio, 73». GlobaLeaks citato anche a pp. 71-72, 80, 84, 99, 131, 133. [URL del riscontro: https://books.google.com/books?id=ikzrDwAAQBAJ; riportato sulla voce canonica Springer]",
+  "verified": true,
+  "known": true
+ }
+]

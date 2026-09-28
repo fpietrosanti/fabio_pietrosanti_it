@@ -1,6 +1,6 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-09-26**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-09-28**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
@@ -12,6 +12,10 @@ Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome 
    pubblico applicando la decisione che avevi già preso per «1311 nuove PEC»; la copia resta solo nell'archivio privato.
    **Proposta: chiedere alla scuola la rimozione o l'oscuramento.** Probabilmente non è l'unica: la campagna MonitoraPA
    ha prodotto molte pubblicazioni di PA che ti nominano — vale la pena un giro sistematico `site:*.edu.it`.
+   **Secondo caso (28/09): Liceo Statale «Maria Montessori» di Roma** — pubblica in Amministrazione Trasparente la tua
+   istanza FOIA (prot. 4020 del 20/09/2022, file `FOIA-01.RMPQ010009_privacy.pdf`, piattaforma Spaggiari) con **luogo e
+   data di nascita, codice fiscale e città di residenza**, nonostante il nome del file. Copia solo nell'archivio privato;
+   nel sito compare solo il titolo della pagina. Stessa proposta: chiedere l'oscuramento.
 2. ~~**Chiave API Google Books**~~ **non serve più (26/09)**: la ricerca interna `jscmd=SearchWithinVolume2` funziona
    senza chiave → 11 libri confermati. Resta utile solo la **chiave Semantic Scholar** (e CORE) per le citazioni accademiche.
 3. **Le 29 pagine «solo organizzazione»** e le **11 «nome assente»** (tabella B3-bis): contesto o esclusione?
@@ -43,6 +47,12 @@ Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome 
    risoluzione Tidei (difensori dei diritti umani) — eri tu? (d) **Senato, maggio 2020** (direttiva copyright, AS 1721):
    chi rappresentò Hermes, e hai la memoria depositata? (e) La risposta dell'Agenzia delle Entrate al tuo FOIA 2019
    contiene la tua PEC personale: è nella sola copia privata, nel sito compare solo il titolo.
+
+9. **Nuove (28/09).** (a) ~~Camera 23/11/2016~~ **risolta da me**: ho trascritto il video, per Hermes parlò
+   **Emmanuele Somma** (non tu) → A0.8(c) chiusa. (b) **Senato 14/05/2020**: Hermes compare tra i 15 auditi in
+   videoconferenza, senza nome e senza memoria depositata: eri tu? (A0.8(d) resta). (c) **Proposta: chiudere la voce
+   «Google Books / Semantic Scholar»** del piano: tre passate di fila senza voci nuove; restano solo 7 libri non ricercabili
+   online (Frediani, Di Corinto) che si verificano solo con la copia fisica — li hai in casa, o vuoi che restino aperti?
 
 ## A. Problemi nella RICERCA
 
@@ -76,6 +86,17 @@ Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome 
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-quinquies. 2026-09-28
+- **🗂️ «Scheda d'archivio» da 3 a 1** (resta solo la maschera del Corriere, già esclusa): le due scuole erano
+  «Amministrazione Trasparente» in JavaScript, ma la ricerca interna `amministrazione-trasparente?cerca=Pietrosanti`
+  restituisce il link diretto al documento Spaggiari → PDF + testo salvati, nome presente (Cornigliano: diniego del
+  19/10/2022 «Al sig. Fabio Pietrosanti – MONITORA PA»; Montessori: la tua istanza, con dati personali, vedi A0.1).
+- Recuperati anche i lavori del 27/09 rimasti senza commit: BugTraq ID «credit» (2000, «Fabio Pietrosanti (naif)»),
+  blackhats.it contatti ed eventi SMAU 2001-2002, *This Machine Kills Secrets* pp. 318-19, Di Salvo 2024 (PDF UniBo).
+- **📚 libri**: resta in attesa solo *Profilo hacker* ed. italiana — Google non la rende ricercabile, nessun ebook: la
+  menzione è confermata dalla copia IA e dall'ed. inglese, manca solo il numero di pagina italiano (copia fisica).
+- ❌ non ottenute invariate (4): PrivateWave EN/ES, Radio Monte Carlo, notizieoggi.com — vicoli ciechi già documentati.
 
 ### B0-quater. 2026-09-26
 - **🔊 «solo video/audio» chiusi entrambi.** RaiNews/Tg1 05/01/2025: video scaricato e trascritto, **didascalia «Fabio

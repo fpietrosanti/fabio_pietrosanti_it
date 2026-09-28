@@ -131,6 +131,26 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   (WAF, mai archiviata); Camera leg17 commissioni IX e X (Web Archive ha rifiutato); OHCHR fuori dal 2015 (CDX 504);
   pista h25.io (confronto Tor2web/GlobaLeaks). **Chiusa**: tesi UniBo «Anonimato in rete» (Daini 2015) — accesso solo
   interno all'ateneo, l'abstract non lo nomina.
+  **Passate 2026-09-27/28 (`pass4_books_nonsearchable`, `pass4_scholarly_retry`, `pass4_istituzioni_residui`) → 0 voci
+  nuove, 4 conferme di pagina.** *This Machine Kills Secrets* pp. 318-19 (ebook `bIaZf663Z2cC`), *Shooting the Messenger*
+  p. 103 (`5SFWDwAAQBAJ`), Di Salvo 2020 pp. v/73/186 (`ikzrDwAAQBAJ`), Di Salvo 2024 p.145 (PDF UniBo). Open Library
+  search-inside (155 risultati «Pietrosanti») e IA full-text: solo libri già noti o omonimi. **Negativi veri**:
+  *Hacktivism* (Di Corinto/Tozzi, testo integrale su hackerart.org), *Guerre di rete* (solo GlobaLeaks), *Hackers*,
+  *Cyberworld*, *Il lato oscuro della Rete*, GISWatch Italia 2012/15/17; OpenAlex full-text (69 opere «globaleaks», 45
+  «tor2web»: ~60 PDF letti, mai il nome); Semantic Scholar author/bulk search (42 profili Pietrosanti, tutti omonimi);
+  Europe PMC (solo omonimi, anche sul biohacking). **h25.io chiusa**: directory SEO di link darknet, nessun confronto.
+  **Camera 23/11/2016** (comitato diritti umani, risoluzione Tidei): video scaricato e trascritto, per Hermes parlò
+  **Emmanuele Somma** → non Fabio. **Camera 23/09/2015**: anche lì Hermes era Alessandro Rodolfi. **Senato 14/05/2020**
+  (AS 1721, scheda letta dalla copia parlamento.it): Hermes tra 15 auditi in video, nessun nome, nessuna memoria
+  depositata; solo il video della WebTV del Senato (WAF) direbbe chi parlò. OHCHR 2015/2019: 146 contributi, nessuno di
+  Hermes. Radio Radicale: 21 interventi, nessuno in sede parlamentare.
+  **Resta ancora (solo con chiavi o browser):** libri non ricercabili — Frediani *Deep Web* e *Inside/Dentro Anonymous*,
+  Di Corinto *Un dizionario hacker*, *Riprendiamoci la rete*, *#Cryptomania*, *Guerra profonda* (2026), *Profilo hacker*
+  ed. italiana (numero di pagina) → copia fisica; Semantic Scholar e CORE (429 senza chiave); OATD/DART-Europe
+  (Cloudflare), BASE e dblp (Anubis), Lens.org (JS); 5 opere su GlobaLeaks non lette (tesi NOVA Lisbona 2018, IFIP 2020,
+  IEEE 2017, *The Dark Net Rises*, recensione Di Salvo ZORA 2021); video WebTV Senato del 14/05/2020; verbali commissioni
+  LIBE/JURI del PE (nessuna ricerca full-text pubblica). **Proposta: chiudere questa voce** — quel che resta dipende da
+  chiavi API, copie fisiche o dal browser di Fabio, non da altre ricerche automatiche.
 - [x] ~~Corriere della Sera 2001-01-26 p.25~~: **chiuso** — «esperto» senza nome, escluso per decisione di Fabio (18/09).
 - [x] RAI Teche, Mediaset, arretrati ICT Security / Wireless / WeekIT — passata 2026-09-22 (`pass4_it_magazines`,
   `pass4_mediaset_other_tv`): +2 WeekIT 2001/2002, Radio 24 (5 puntate), Sky TG24 Datagate 2013. **Resta** solo
@@ -204,6 +224,15 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [ ] **Sito Hermes Center** in ripristino da Fabio: quando online, indicizzare tutti i progetti, paper e talk di Fabio per
   Hermes, GlobaLeaks, CRVD, Copernicani (come fatto per CRVD il 18/09).
 - [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
+
+## Note sessione 2026-09-28
+- **776 voci** in `data/media.json` (invariate: solo note arricchite con numeri di pagina). La sessione del 27/09 si era
+  fermata prima di merge e commit: i suoi file grezzi e le copie risolte (BugTraq ID «credit» 2000, blackhats.it
+  contatti/eventi SMAU 2001-2002, *This Machine Kills Secrets*, Di Salvo 2024) sono stati uniti e committati oggi.
+- Copie: **i due «Amministrazione Trasparente» delle scuole risolti** con la ricerca interna del sito (`?cerca=Pietrosanti`,
+  piattaforma Spaggiari): IC Cornigliano (diniego FOIA 19/10/2022) e Liceo Montessori (la sua istanza, **con dati
+  personali** → solo archivio privato). Piste/negativi istituzionali in `data/research/leads_negatives_istituzioni_2026-09-28.json`
+  (fuori da `raw/` per non entrare in `media.json`).
 
 ## Note sessione 2026-09-26
 - **776 voci** in `data/media.json` (+7, vedi passata «Google Books API e Semantic Scholar» sopra).
