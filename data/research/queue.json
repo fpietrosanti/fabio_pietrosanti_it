@@ -971,6 +971,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome elencato da list_connected_browsers, tabs_context/tabs_create funzionanti, ma ogni navigate risponde 'Claude in Chrome is not connected' / 'extension disconnected mid-operation' (4 tentativi, terzo run consecutivo): blocco Google saltato, nessuna ricerca. Prossimo blocco invariato: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
+  },
+  {
+   "date": "2026-09-28 13:30",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome elencato da list_connected_browsers, tabs_context/tabs_create funzionanti, ma ogni navigate (anche a google.com) risponde 'Claude in Chrome is not connected' / 'extension disconnected mid-operation' e il gruppo di schede viene ricreato (4 tentativi, quarto run consecutivo): blocco Google saltato, nessuna ricerca. Serve verificare a mano l'estensione (login/pannello laterale). Prossimo blocco invariato: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
   }
  ]
 }
