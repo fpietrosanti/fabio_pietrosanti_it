@@ -979,6 +979,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome elencato da list_connected_browsers, tabs_context/tabs_create funzionanti, ma ogni navigate (anche a google.com) risponde 'Claude in Chrome is not connected' / 'extension disconnected mid-operation' e il gruppo di schede viene ricreato (4 tentativi, quarto run consecutivo): blocco Google saltato, nessuna ricerca. Serve verificare a mano l'estensione (login/pannello laterale). Prossimo blocco invariato: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
+  },
+  {
+   "date": "2026-09-28 17:38",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Quinto run: questa volta un navigate standalone è riuscito (google.com e la ricerca site:html.it caricata, nessun controllo robot visibile nel titolo), ma javascript_tool su www.google.com chiede 'permission_required' (prompt al pannello, utente assente) e poi javascript_tool/get_page_text rispondono 'not connected' / 'disconnected mid-operation': risultati non leggibili. Probabile causa: permesso sito google.com non concesso nell'estensione. html.it resta pending. Prossimo blocco invariato: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
   }
  ]
 }
