@@ -1011,6 +1011,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Ottavo run: list_connected_browsers ok (Browser 1, inUse) e tabs_context ok, ma i navigate (ricerca site:html.it x2 e google.com) rispondono 'Claude in Chrome is not connected'. Blocco Google saltato, scheda chiusa, nessun candidato. Guasto invariato dal 28/09: serve intervento manuale di Fabio sull'estensione (pannello laterale aperto, login, permesso sito google.com). Prossimo blocco invariato: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
+  },
+  {
+   "date": "2026-09-29 14:56",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Nono run: list_connected_browsers ok (Browser 1, inUse), tabs_context/tabs_create ok, ma i navigate verso la ricerca site:html.it (2 tentativi) rispondono 'Claude in Chrome is not connected' e il gruppo di schede sparisce. Blocco Google saltato, nessun candidato. Guasto invariato dal 28/09: serve intervento manuale di Fabio sull'estensione (pannello laterale aperto, login, permesso sito google.com). Prossimo blocco invariato: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
   }
  ]
 }
