@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2017-06-10",
+  "year": 2017,
+  "type": "article",
+  "outlet": "infosecurity.ch",
+  "title": "Low Liability - Reduced Abuses Tor Exit Nodes",
+  "url": "https://web.archive.org/web/20170721022433/http://infosecurity.ch:80/20170610/low-liability-reduced-abuses-tor-exit-nodes/",
+  "language": "en",
+  "role": "author",
+  "note": "Post on his personal blog, author 'Fabio Pietrosanti' (naif) in the restored page (repo fpietrosanti/infosecurity-ch, site/20170610/...). Wayback captures 2017-07-21 and 2017-08-31. Only post after 2011 in the restored blog; found by comparing the restored site with media.json (2026-09-29).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2026-09-18",
+  "year": 2026,
+  "type": "article",
+  "outlet": "OrlandoMagazine.it",
+  "title": "L'utilità è il futuro. E il futuro è biohacking",
+  "url": "https://www.orlandomagazine.it/2026/09/18/lutilita-e-il-futuro-e-il-futuro-e-biohacking/",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Michele Pastore, reportage dal TimePie Longevity Forum di Shanghai: «Sul palco Fabio Pietrosanti, biohacking famoso in Italia, ha parlato del suo metodo innovativo di biohacking» (con Linda J. Kenney, Mechanobiologics). Pagina aperta e verificata il 2026-09-29.",
+  "verified": true,
+  "known": false
+ }
+]
