@@ -35,7 +35,7 @@ Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome 
 7. ~~**Nuove (25/09)**~~ — **risposte di Fabio (25/09)**: (a) contesto AIRE/OpenRousseau: le 10 pagine dei suoi
    progetti restano come contesto, le **12 pagine generiche sono escluse** (`decisions.json`); (b) Geo-AIRE su
    LinkedIn: sì, bozza da proporre; (c) tweet di Carlo Piana: **escluso**. Bilibili TimePie: Fabio **compare** nel
-   riassunto del pomeriggio (BV1u5YX6JECk → confermato), **non** nel riassunto da 32 s del forum (BV1M7YX67EsD → escluso).
+   clip da 32 s del forum biohacker (BV1u5YX6JECk → confermato), **non** nel riassunto del pomeriggio da 1'54" (BV1M7YX67EsD → escluso). *(Etichette corrette il 30/09: gli ID erano giusti, le descrizioni scambiate.)*
    Testo Geo-AIRE approvato → `linkedin-i18n/docs/PROGETTI-APPROVATI-2026-09.md`, da pubblicare.
 
 8. **Nuove (26/09).** (a) **Sky TG24 02/07/2013 «Datagate, il mondo delle spie visto da dentro»**: ho scaricato e
@@ -62,6 +62,12 @@ Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome 
    biohacker del 12/9 (su Bilibili ci sono solo clip; YouTube fermo a luglio). (d) Il profilo TimePie su NetEase del
    20/08 («逆龄16岁…») riporta dettagli personali (~70 integratori al giorno, 600 €/mese, GlycanAge −16 anni): va bene
    citarlo nel sito così, o solo titolo e link?
+
+11. **Nuove (30/09, seconda esecuzione).** (a) **5 clip Bilibili di TimePie** (BV1e2YX6tEqz giro del forum, BV1X9YR68ETj
+   cena «永生之夜», BV1YtY96bEhr e BV1w8YX6uENN giorno 1, BV1SJYe6AEXo chiusura): il tuo nome non è nei metadati; le ho messe
+   come candidate non verificate — ricordi di essere in qualcuna (la cena del 12/9 soprattutto)? (b) **Tweet del 28/11/2019**
+   «Yesterday in a commitee room at Bundestag»: che evento era (audizione, workshop)? Se me lo dici cerco il programma.
+   (c) **Partito Pirata, 10/07/2020**: ti candidava con Marco Calamari al collegio del Garante Privacy — vuoi che compaia nel sito?
 
 ## A. Problemi nella RICERCA
 
@@ -103,6 +109,11 @@ Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome 
   **nome assente** (firma solo «eclecticismnow», vedi A0.10(a)).
 - Video NetEase VG6GUA7FN (riepilogo TimePie) → **escluso**: visto fotogramma per fotogramma, non compari. Bilibili
   BV1u5YX6JECk: aggiunti 3 fotogrammi di prova (slide BIOHACK.IT, primo piano) nella copia.
+- **PrivateWave 2010, nuove piste (30/09 sera)**: il comunicato UK del 21/10/2010 è ripubblicato su **RealWire** (Web
+  Archive 20101023) e **Comms Business** (05/11/2010, copia mabdev): testo integrale, ma **senza il tuo nome** → non
+  sostituiscono i PDF EN/ES firmati. Nel Web Archive di `privatewave.com` ci sono solo 5 PDF del 2014 (manuali e licenze).
+- Etichette Bilibili corrette: il clip da 32 s del forum biohacker è **BV1u5YX6JECk** (compari, confermato), il riassunto
+  del pomeriggio da 1'54" è **BV1M7YX67EsD** (escluso). Gli ID in archivio erano giusti, le descrizioni scambiate.
 - ❌ non ottenute invariate (4): PrivateWave EN/ES, Radio Monte Carlo, notizieoggi.com (ripassate col retry: sempre
   404/403, nessuna capture). `computerworld.ch/aktuell/news/50435` resta mai archiviato.
 

@@ -242,9 +242,15 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [x] Internet Archive: win-magazine-italia-48, pcprofessionale207, hackerjournal-38, GazzettinoFVG2020-10-02 (copie: OCR + PDF, nome verificato; 2026-09-18).
 - [ ] **Sito Hermes Center** in ripristino da Fabio: quando online, indicizzare tutti i progetti, paper e talk di Fabio per
   Hermes, GlobaLeaks, CRVD, Copernicani (come fatto per CRVD il 18/09).
-- [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
+- [x] **infosecurity.ch — fatto il 2026-09-29**: confrontato il sito ripristinato (`infosecurity-ch/site`, 76 post
+  2007-2017) con `media.json`: mancava solo «Low Liability - Reduced Abuses Tor Exit Nodes» (10/06/2017), ora aggiunto;
+  il post del 17/09/2026 sul ripristino non è una pubblicazione esterna.
 
 ## Note sessione 2026-09-30
+- **Seconda esecuzione (iniziata il 29/09, finita il 30/09):** i suoi file grezzi erano già stati uniti dalla
+  sessione del 30/09. In più: **911 voci** (+5 clip Bilibili TimePie candidate, non verificate: nome assente nei
+  metadati; tolta BV1Rwh76XEhj = video NetEase già escluso); corrette le etichette BV1u5/BV1M7 in `decisions.json`;
+  PrivateWave 2010 ripubblicato su RealWire e Comms Business ma senza il nome (B1 invariata).
 - **906 voci** in `data/media.json`: +127 dai file grezzi del 29/09 (la sessione si era fermata prima del merge: 119 tweet
   2019-2021, TimePie Sohu/Baijiahao/WeChat, post infosecurity.ch 2017, OrlandoMagazine 18/09/2026), poi +4 oggi
   (NetEase profilo TimePie, agenda Sohu, secrss 2024, voce 360百科 GlobaLeaks non verificata) e −1 (NetEase video,

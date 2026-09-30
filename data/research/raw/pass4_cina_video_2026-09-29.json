@@ -1,0 +1,67 @@
+[
+ {
+  "date": "2026-09-12",
+  "year": 2026,
+  "type": "video",
+  "outlet": "Bilibili, 时光派官方 (TimePie official, UID 390367147)",
+  "title": "长寿领域正在发生什么？科研、医疗、极客、产业齐聚，一镜看遍论坛现场",
+  "url": "https://www.bilibili.com/video/BV1e2YX6tEqz/",
+  "language": "zh",
+  "role": "possible appearance in event recap (unconfirmed)",
+  "note": "TimePie Longevity Forum 2026 recap, 1:15. Day-1 one-take walkthrough explicitly including the 极客 (biohacker) track; plausible he appears in B-roll. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2026-09-12",
+  "year": 2026,
+  "type": "video",
+  "outlet": "Bilibili, 时光派官方 (TimePie official, UID 390367147)",
+  "title": "现场速递！第七届国际长寿论坛的“长寿之夜”",
+  "url": "https://www.bilibili.com/video/BV1X9YR68ETj/",
+  "language": "zh",
+  "role": "possible appearance in event recap (unconfirmed)",
+  "note": "TimePie Longevity Forum 2026 recap, 1:00. Desc: 长寿科学家×永生之夜极客晚宴 (biohacker gala dinner, 12 Sept) highlights; plausible he appears. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2026-09-12",
+  "year": 2026,
+  "type": "video",
+  "outlet": "Bilibili, 时光派官方 (TimePie official, UID 390367147)",
+  "title": "第七届国际长寿论坛今日启幕！前沿观点集中亮相，现场直击",
+  "url": "https://www.bilibili.com/video/BV1YtY96bEhr/",
+  "language": "zh",
+  "role": "possible appearance in event recap (unconfirmed)",
+  "note": "TimePie Longevity Forum 2026 recap, 1:38. Day-1 recap of speakers' key points. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2026-09-12",
+  "year": 2026,
+  "type": "video",
+  "outlet": "Bilibili, 时光派官方 (TimePie official, UID 390367147)",
+  "title": "论坛现场座无虚席！第七届国际长寿论坛火热启幕，这条视频带你速览首日精彩画面",
+  "url": "https://www.bilibili.com/video/BV1w8YX6uENN/",
+  "language": "zh",
+  "role": "possible appearance in event recap (unconfirmed)",
+  "note": "TimePie Longevity Forum 2026 recap, 0:57. Day-1 highlights. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2026-09-13",
+  "year": 2026,
+  "type": "video",
+  "outlet": "Bilibili, 时光派官方 (TimePie official, UID 390367147)",
+  "title": "两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕",
+  "url": "https://www.bilibili.com/video/BV1SJYe6AEXo/",
+  "language": "zh",
+  "role": "possible appearance in event recap (unconfirmed)",
+  "note": "TimePie Longevity Forum 2026 recap, 2:09. Two-day closing recap of speakers' points. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.",
+  "verified": false,
+  "known": false
+ }
+]

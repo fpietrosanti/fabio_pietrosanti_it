@@ -5,9 +5,10 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **906**; già processate: **959**; ancora da processare: **0**
-- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **636** di terzi (**solo archivio privato**, mai linkate dal sito)
+- Voci in `data/media.json`: **911**; già processate: **964**; ancora da processare: **0**
+- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **641** di terzi (**solo archivio privato**, mai linkate dal sito)
 - ✅ Copia locale, nome verificato nella copia: **768**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **5**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **41**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **19**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -51,7 +52,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2026 | 26 | 0 | 5 | 0 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -264,6 +265,16 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: bug di copia RISOLTO (corpo gzip decodificato in locale, nessun nuovo download). La pagina e' leggibile ma e' la home di un suo progetto e non contiene il suo nome: rientra nella categoria «solo organizzazione».
 - 🗂️ **2001** · Corriere della Sera (ed. nazionale, p. 2 — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma p](https://archivio.corriere.it/Archivio/interface/landing.html) · licenza: terzi  
   2026-09-23: la copia e' solo una scheda/maschera di ricerca d'archivio, senza il testo dell'articolo. Serve la pagina di giornale vera (scansione archive.org o capture dell'URL dell'articolo).
+- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕](https://www.bilibili.com/video/BV1SJYe6AEXo/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [现场速递！第七届国际长寿论坛的“长寿之夜”](https://www.bilibili.com/video/BV1X9YR68ETj/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [第七届国际长寿论坛今日启幕！前沿观点集中亮相，现场直击](https://www.bilibili.com/video/BV1YtY96bEhr/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [长寿领域正在发生什么？科研、医疗、极客、产业齐聚，一镜看遍论坛现场](https://www.bilibili.com/video/BV1e2YX6tEqz/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [论坛现场座无虚席！第七届国际长寿论坛火热启幕，这条视频带你速览首日精彩画面](https://www.bilibili.com/video/BV1w8YX6uENN/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 

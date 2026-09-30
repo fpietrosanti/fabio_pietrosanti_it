@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1162**; dopo deduplica: **906**
+- Risultati grezzi dalle ricerche: **1167**; dopo deduplica: **911**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 871**
-- Verificati aprendo la pagina: **794**; solo da risultato di ricerca: **112**
+- **Nuovi rispetto al vecchio sito: 876**
+- Verificati aprendo la pagina: **794**; solo da risultato di ricerca: **117**
 
-Per tipo (nuovi): Menzionato 146, tweet 106, Talk 76, Post sul blog infosecurity.ch 71, Video 60, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, documento 18, Report 18, Comunicato 17, articolo 12, Slide 11, article 11, Podcast 10, Paper 9, TV 9, Capitolo di libro 6, Intervista 6, village 5, pagina 5, Brevetto 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, web 1, audio 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
+Per tipo (nuovi): Menzionato 146, tweet 106, Talk 76, Post sul blog infosecurity.ch 71, Video 65, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, documento 18, Report 18, Comunicato 17, articolo 12, Slide 11, article 11, Podcast 10, Paper 9, TV 9, Capitolo di libro 6, Intervista 6, village 5, pagina 5, Brevetto 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, web 1, audio 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
 
 ### Copertura per anno
 
@@ -44,11 +44,11 @@ Per tipo (nuovi): Menzionato 146, tweet 106, Talk 76, Post sul blog infosecurity
 | 2023 | 0 | 11 | 11 |
 | 2024 | 0 | 7 | 7 |
 | 2025 | 0 | 9 | 9 |
-| 2026 | 0 | 28 | 28 |
+| 2026 | 0 | 33 | 33 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 28 voci, 28 nuove
+## 2026 — 33 voci, 33 nuove
 
 - 🆕 **2026-09-21** · Menzionato · Sohu (搜狐号) — 时光派 — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 / 第七届国际长寿论坛整体回顾](https://www.sohu.com/a/1078945684_100270039)  
   Permanent Sohu copy of the TimePie official recap (datePublished 2026-09-21 19:30, author 时光派). Contains: '此次生物极客闭门论坛邀请到了国际长寿峰会联合创始人Jose Cordeiro、资深生物极客Dave Pascoe、开源抗衰数据平台开发者Fabio Pietrosanti、抗衰疗法探索者Brian M. Delaney、科伦药业董事长刘革新先生等6位来自不同领域的国际顶尖极客'. Closed-forum photos (7, right after that paragraph): https://q3.itc.cn/images01/20260921/aef08be3ef8847f9ac0630923e7a7794.jpeg https://q9.itc.cn/images01/20260921/6dec72d941e6447e97740cf0d46186d0.jpeg https://q0.itc.cn/images01/20260921/c6b474c1af734dbbb31c6255ba9fe8cb.jpeg https://q8.itc.cn/images01/20260921/3f8ae0a012904c7cbd4b2cf23d069599.jpeg https://q2.itc.cn/images01/20260921/30c39c26c81649f3b8a9f5f3745c06cf.jpeg https://q2.itc.cn/images01/20260921/93a8f693dc0145248d25eb988bc64a8f.jpeg https://q0.itc.cn/images01/20260921/e861ff43363540e7b4b382793f602865.jpeg . Verified 2026-09-29 (page fetched, name present). Found via Baidu (result for 'Pietrosanti 时光派').
@@ -64,6 +64,8 @@ Anni senza nessun risultato: nessuno
   Chinese recap of 7th TimePie forum; lists 开源抗衰数据平台开发者Fabio Pietrosanti at the 生物极客闭门论坛 (article opened and verified)
 - 🆕 **2026-09-13** · Menzionato · WeChat — 蓝图臻清健康科技 (刘清洋) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio+Pietrosanti)  
   WeChat article (temporary link via Sogou search, biz MzYzNzMyODg1MQ==): 'Fabio Pietrosanti, developer of an open-source anti-aging data platform' among the guests of the closed-door biohacker forum (生物极客闭门论坛), 12 Sept 2026 afternoon. Read in Fabio's Chrome 2026-09-18.
+- 🆕 **2026-09-13** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕](https://www.bilibili.com/video/BV1SJYe6AEXo/) _(non verificato)_  
+  TimePie Longevity Forum 2026 recap, 2:09. Two-day closing recap of speakers' points. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.
 - 🆕 **2026-09-12** · Menzionato · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0)  
   Forum day-1 recap: Biogeek closed-door sub-forum guests incl. 开源抗衰数据平台开发者Fabio Pietrosanti. WeChat article; only temporary signed links exist, URL is the Sogou WeChat search that surfaces it
 - 🆕 **2026-09-12** · Menzionato · 长寿科技情报站 (WeChat account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Pietrosanti%20%E9%95%BF%E5%AF%BF)  
@@ -74,6 +76,14 @@ Anni senza nessun risultato: nessuno
   Day-1 report: closed-door biohacker forum guests incl. 'open-source anti-aging data platform developer Fabio Pietrosanti'; includes a photo gallery of the closed forum (images not yet saved). Temporary WeChat link, found via Sogou.
 - 🆕 **2026-09-12** · Menzionato · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-12-repost) _(non verificato)_  
   Repost of the TimePie day-1 report by 长寿科技情报站; same mention. Found via Sogou.
+- 🆕 **2026-09-12** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [长寿领域正在发生什么？科研、医疗、极客、产业齐聚，一镜看遍论坛现场](https://www.bilibili.com/video/BV1e2YX6tEqz/) _(non verificato)_  
+  TimePie Longevity Forum 2026 recap, 1:15. Day-1 one-take walkthrough explicitly including the 极客 (biohacker) track; plausible he appears in B-roll. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.
+- 🆕 **2026-09-12** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [现场速递！第七届国际长寿论坛的“长寿之夜”](https://www.bilibili.com/video/BV1X9YR68ETj/) _(non verificato)_  
+  TimePie Longevity Forum 2026 recap, 1:00. Desc: 长寿科学家×永生之夜极客晚宴 (biohacker gala dinner, 12 Sept) highlights; plausible he appears. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.
+- 🆕 **2026-09-12** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [第七届国际长寿论坛今日启幕！前沿观点集中亮相，现场直击](https://www.bilibili.com/video/BV1YtY96bEhr/) _(non verificato)_  
+  TimePie Longevity Forum 2026 recap, 1:38. Day-1 recap of speakers' key points. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.
+- 🆕 **2026-09-12** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [论坛现场座无虚席！第七届国际长寿论坛火热启幕，这条视频带你速览首日精彩画面](https://www.bilibili.com/video/BV1w8YX6uENN/) _(non verificato)_  
+  TimePie Longevity Forum 2026 recap, 0:57. Day-1 highlights. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.
 - 🆕 **2026-09-12** · Talk · 7th TimePie Longevity Forum, Shanghai (Biohacker Sub-forum) — [Biohack.It - Open Software for Structured Human Self-Experimentation](https://www.timepielongevityforum.com/2026agenda)  
   15:40-16:05 slot, listed as Biohacker / Tech Entrepreneur
 - 🆕 **2026-09-11** · Menzionato · WeChat — 时光派 (official) — [第七届国际长寿论坛明日启幕！顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-11)  
