@@ -4,7 +4,7 @@ Aggiornato il **2026-09-28**. Da discutere con Fabio: dove siamo bloccati, perch
 Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
-## A0. Cose che servono da te (aggiornato 2026-09-24)
+## A0. Cose che servono da te (aggiornato 2026-09-30)
 
 1. **⚠️ Dati personali pubblicati da una scuola.** L'Istituto Comprensivo «Luciano Manara» di Roma ha pubblicato il PDF
    della tua richiesta FOIA di MonitoraPA con **data e luogo di nascita, codice fiscale e indirizzo di residenza**
@@ -54,6 +54,15 @@ Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome 
    «Google Books / Semantic Scholar»** del piano: tre passate di fila senza voci nuove; restano solo 7 libri non ricercabili
    online (Frediani, Di Corinto) che si verificano solo con la copia fisica — li hai in casa, o vuoi che restino aperti?
 
+10. **Nuove (30/09).** (a) **Blog «Eclecticism Now!»** (`eclecticismnow.wordpress.com`, firmato solo «eclecticismnow»):
+   è il tuo? Ospita i tuoi FOIA e tu rilanci i post; il post «Sim Toolkit uses notes for covid-19» (29/03/2020) non
+   contiene il tuo nome, quindi per la regola resterebbe «nome assente». (b) **Chrome disconnesso da giorni**: anche la
+   coda Google è ferma (10+ run saltati). Douyin, Weibo, canali video WeChat e Xiaohongshu per TimePie richiedono il
+   browser loggato — riconnetti l'estensione quando puoi. (c) **TimePie**: chiedere la registrazione integrale del forum
+   biohacker del 12/9 (su Bilibili ci sono solo clip; YouTube fermo a luglio). (d) Il profilo TimePie su NetEase del
+   20/08 («逆龄16岁…») riporta dettagli personali (~70 integratori al giorno, 600 €/mese, GlycanAge −16 anni): va bene
+   citarlo nel sito così, o solo titolo e link?
+
 ## A. Problemi nella RICERCA
 
 | # | Problema | Effetto | Proposta |
@@ -86,6 +95,16 @@ Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome 
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-sexies. 2026-09-30
+- Copie delle 131 voci nuove (29-30/09): **tutte ottenute** (i 119 tweet dal Web Archive, TimePie Sohu/NetEase,
+  secrss.com dal Web Archive). Due «non confermate» sciolte a mano: post «Commissione Voto Elettronico: Rigetto FOIA»
+  → **nome presente** (allegato «Risposta … FOIA Fabio Petrosanti», con refuso del Ministero); post «Sim Toolkit» →
+  **nome assente** (firma solo «eclecticismnow», vedi A0.10(a)).
+- Video NetEase VG6GUA7FN (riepilogo TimePie) → **escluso**: visto fotogramma per fotogramma, non compari. Bilibili
+  BV1u5YX6JECk: aggiunti 3 fotogrammi di prova (slide BIOHACK.IT, primo piano) nella copia.
+- ❌ non ottenute invariate (4): PrivateWave EN/ES, Radio Monte Carlo, notizieoggi.com (ripassate col retry: sempre
+  404/403, nessuna capture). `computerworld.ch/aktuell/news/50435` resta mai archiviato.
 
 ### B0-quinquies. 2026-09-28
 - **🗂️ «Scheda d'archivio» da 3 a 1** (resta solo la maschera del Corriere, già esclusa): le due scuole erano

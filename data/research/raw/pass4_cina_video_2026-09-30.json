@@ -1,0 +1,15 @@
+[
+ {
+  "date": "2026-09-12",
+  "year": 2026,
+  "type": "video",
+  "outlet": "Bilibili (时光派官方, UID 390367147)",
+  "title": "满场极客，观点交锋！一群 “不甘心老去” 的探索者相聚极客闭门论坛，现场氛围拉满，明日主论坛精彩继续！",
+  "url": "https://www.bilibili.com/video/BV1u5YX6JECk/",
+  "language": "zh",
+  "role": "speaker",
+  "note": "Visually verified (32 s clip). At ~0:20-0:22 Fabio is on stage at the 生物极客闭门论坛 with his BIOHACK.IT slide ('...turn self-experimentation into evidence', 'infrastructure for structured human self-experimentation', AGPL-3.0, Hacking Biology, 'presented at TimePie'); the live-translation screen beside him reads 'Next, let's leave the time to Fabio' / 'Hello everybody, thanks for having me here' (Chinese: 交给Fabio); at ~0:21 close-up with transcript 'Hacker in a good sense... cyber criminal... playing with computer code'. No name caption in the video description. Downloaded (360p, 2.8 MB): C:\\Users\\admin\\AppData\\Local\\Temp\\claude\\C--Users-admin-Claude\\8537b900-ade6-4183-ab3d-adb28c891dd0\\scratchpad\bilibili_BV1u5YX6JECk_timepie2026_biohacker_forum.mp4; frames: C:\\Users\\admin\\AppData\\Local\\Temp\\claude\\C--Users-admin-Claude\\8537b900-ade6-4183-ab3d-adb28c891dd0\\scratchpad\fabio_BV1u5YX6JECk_t0020_biohackit_slide.jpg, fabio_BV1u5YX6JECk_t0021_closeup.jpg, fabio_BV1u5YX6JECk_frames_grid.jpg",
+  "verified": true,
+  "known": true
+ }
+]

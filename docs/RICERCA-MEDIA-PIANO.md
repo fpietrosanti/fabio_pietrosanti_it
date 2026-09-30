@@ -176,6 +176,18 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Douyin, canali video WeChat. Fatto 18/09: articolo WeChat 13/9 (Fabio al «生物极客闭门论坛», forum a porte chiuse) e
   video Bilibili di riepilogo (32 s + 1'53") scaricati. Resta: Douyin, canali video WeChat, altri articoli WeChat
   (Sogou oltre la prima pagina), eventuali registrazioni integrali; chiedere a TimePie la registrazione dell'intervento.
+  **Passate 2026-09-29/30 (`pass4_cina_wechat_weibo`, `pass4_cina_testi`, `pass4_cina_video`) → +8 voci.** Riepilogo
+  ufficiale TimePie (WeChat 20/9, ripresa 21/9, copia permanente Sohu `a/1078945684`), resoconto del giorno 1 su
+  Baijiahao; **profilo pre-forum di TimePie su NetEase** (20/08/2026, «逆龄16岁！日吞70粒补剂…»: GlobaLeaks, Hacking
+  Biology, ~70 integratori al giorno, GlycanAge −16 anni); agenda del forum su Sohu (26/08, «15:50-16:15 从自我实验走向
+  科学证据»); traduzione cinese (secrss.com, 2024) del pezzo Recorded Future sugli spyware italiani. Video: Bilibili
+  BV1u5YX6JECk **verificato a vista** (0:20-0:22 sul palco con la slide BIOHACK.IT, fotogrammi salvati nella copia);
+  riepilogo NetEase VG6GUA7FN (= Bilibili BV1Rwh76XEhj) visto fotogramma per fotogramma: **non compare** → escluso;
+  elenco completo dei caricamenti Bilibili di TimePie 18/8–29/9: nessuna registrazione integrale del forum biohacker;
+  YouTube TimePie fermo al 24/07. **Resta:** Douyin (account TimePie trovato, elenco video solo con browser), canali
+  video WeChat, Weibo, Xiaohongshu, Toutiao (servono login/browser: il Chrome di Fabio era disconnesso); ricerca 360
+  (so.com) da riprovare con «Pietrosanti 抗衰» e la grafia cinese; 5 clip Bilibili del forum principale non viste
+  fotogramma per fotogramma (improbabile che ci sia); registrazione integrale da chiedere a TimePie.
 - [ ] **Progetti mai partiti da documentare** (segnalati da Fabio 18/09): OSSCI – Osservatorio sicurezza dello spazio
   cibernetico italiano (Telegram + documento di specifica, anno da trovare); COVID mappatura focolai con dati di cella;
   COVID vulnerabilità app della Regione Lazio con Giovanni Rocca. Query in coda; cercare anche su Telegram (t.me), GitHub,
@@ -200,6 +212,13 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   (chi l'ha modificato); articolo StartMag sul codice sorgente di Immuni (403, Wayback non caricava); `verbalictscovid.
   infosecurity.ch` (offline, nessuna capture); 2 post Facebook di Fabio (16/03 e 09/04/2020, servono login, mai archiviati);
   scansione fine dei ~700 tweet archiviati dopo aprile 2020 (filtrati solo per parole chiave).
+  **Ripassata 2026-09-29/30 (`pass4_tweets_2020_residui`, `pass4_covid_ossci_residui`):** +119 tweet 2019-2021
+  verificati dal Web Archive (OSSCI, COVID, Immuni, OpenRousseau, voto elettronico). Web Archive funzionante: **StartMag**
+  (42 articoli Immuni/tracciamento del 2020 letti) → nome solo nel pezzo già noto; **Google Doc OSSCI** mai archiviato,
+  testo live senza il suo nome; `verbalictscovid` mai archiviato; stampa 2020 su dati di cella/Immuni (Agenda Digitale,
+  Key4biz, Punto Informatico, Open, AGI, Cybersecurity360…) → nessuna menzione nuova. **Escluso** Radio Digiesse 17/04/2020
+  (omonimo calabrese). **Resta solo:** puntata Radio 24 «Coronavirus e tecnologia: dati, app, GPS» (marzo 2020, ospiti
+  caricati via JavaScript, nessuna capture) e i 2 post Facebook (servono login).
 - [ ] Foto del «生物极客闭门论坛» nell'articolo WeChat ufficiale TimePie del 12/9: salvarle nell'archivio.
 - [ ] Video ufficiali TimePie: Fabio avviserà quando pubblicati → scaricarli e archiviarli.
 - [x] **Progetto AIRE — fatto il 2026-09-25** (`pass4_aire_voto_estero`, +27 voci, 9 verificate). Non un progetto
@@ -224,6 +243,12 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [ ] **Sito Hermes Center** in ripristino da Fabio: quando online, indicizzare tutti i progetti, paper e talk di Fabio per
   Hermes, GlobaLeaks, CRVD, Copernicani (come fatto per CRVD il 18/09).
 - [ ] infosecurity.ch: import elenco post appena online (restauro fatto da altra sessione).
+
+## Note sessione 2026-09-30
+- **906 voci** in `data/media.json`: +127 dai file grezzi del 29/09 (la sessione si era fermata prima del merge: 119 tweet
+  2019-2021, TimePie Sohu/Baijiahao/WeChat, post infosecurity.ch 2017, OrlandoMagazine 18/09/2026), poi +4 oggi
+  (NetEase profilo TimePie, agenda Sohu, secrss 2024, voce 360百科 GlobaLeaks non verificata) e −1 (NetEase video,
+  escluso). Chrome di Fabio ancora disconnesso: Douyin/Weibo/WeChat Channels rinviati.
 
 ## Note sessione 2026-09-28
 - **776 voci** in `data/media.json` (invariate: solo note arricchite con numeri di pagina). La sessione del 27/09 si era

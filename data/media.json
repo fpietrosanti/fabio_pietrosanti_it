@@ -308,6 +308,23 @@
  {
   "date": "",
   "year": null,
+  "type": "encyclopedia",
+  "outlet": "360百科 (baike.so.com)",
+  "title": "GlobaLeaks_360百科",
+  "url": "https://baike.so.com/doc/28375734-29802503.html",
+  "language": "zh",
+  "role": "mentioned (GlobaLeaks history)",
+  "note": "Encyclopedia entry (translated from Wikipedia) on GlobaLeaks; 360 snippet: \"Pietrosanti在2013年12月表示，我们已经确定了一个解决方案或软件所需要的\". Page returned empty to curl (not opened) - unverified; low value (encyclopedia, not media).",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_cina_testi_2026-09-30"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "",
+  "year": null,
   "type": "mentioned",
   "outlet": "CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved)",
   "title": "Tag: fabio pietrosanti — CRVD",
@@ -14943,6 +14960,23 @@
   "on_old_site": false
  },
  {
+  "date": "2024-11-13",
+  "year": 2024,
+  "type": "article",
+  "outlet": "安全内参 (secrss.com)",
+  "title": "意大利缘何成为全球间谍软件中心？",
+  "url": "https://www.secrss.com/articles/72312",
+  "language": "zh",
+  "role": "interviewee (quoted expert)",
+  "note": "Chinese translation of the Recorded Future News piece on Italy's spyware market. Quote: \"意大利透明度和数字人权中心的主席、杰出的道德黑客Fabio Pietrosanti告诉Recorded Future News\". Date from 360 search snippet (2024年11月13日). Not TimePie-related but new Chinese text coverage.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_cina_testi_2026-09-30"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2024-11-14",
   "type": "quoted",
   "outlet": "Punto Informatico",
@@ -15292,6 +15326,23 @@
  {
   "date": "2026-08-20",
   "year": 2026,
+  "type": "article",
+  "outlet": "NetEase 网易号 (时光派 account)",
+  "title": "逆龄16岁！日吞70粒补剂、电击肌肉，月烧600欧",
+  "url": "https://www.163.com/dy/article/L4MH165705345ZH3.html",
+  "language": "zh",
+  "role": "subject (speaker profile / pre-forum feature)",
+  "note": "Pre-forum profile of Fabio as biohacker (GlobaLeaks co-founder, Hacking Biology N-of-1, ~70 pills/day, 600 EUR/month, GlycanAge -16y). Quote: \"Fabio Pietrosanti是一位来自意大利的计算机黑客，同样也是一名生物极客\"; also \"2026年9月12日，时光派第七届国际长寿论坛极客论坛上，Fabio Pietrosanti将为我们带来精彩演讲\". article:published_time 2026-08-20T12:05:04. Found via 360 search (so.com). Likely also published on TimePie WeChat under a different title (not located on Sogou).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_cina_testi_2026-09-30"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-08-20",
+  "year": 2026,
   "type": "paper",
   "outlet": "biohack.it",
   "title": "BIOHACK.IT — White paper & Specification v0.1",
@@ -15303,6 +15354,23 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-08-26",
+  "year": 2026,
+  "type": "article",
+  "outlet": "Sohu 搜狐号 (时光派, 100270039)",
+  "title": "倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态",
+  "url": "https://www.sohu.com/a/1067664696_100270039",
+  "language": "zh",
+  "role": "speaker (agenda listing)",
+  "note": "Sohu copy of the countdown/agenda article (Zhihu copy p/2075879246317330753 already known). Quote from agenda: \"Fabio Pietrosanti 生物极客、科技创新者 15:50-16:15 从自我实验走向科学证据\". datePublished 2026-08-26 18:24.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_cina_testi_2026-09-30"
   ],
   "on_old_site": false
  },
@@ -15378,16 +15446,17 @@
   "date": "2026-09-12",
   "year": 2026,
   "type": "video",
-  "outlet": "Bilibili — 时光派官方",
-  "title": "满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)",
+  "outlet": "Bilibili (时光派官方, UID 390367147)",
+  "title": "满场极客，观点交锋！一群 “不甘心老去” 的探索者相聚极客闭门论坛，现场氛围拉满，明日主论坛精彩继续！",
   "url": "https://www.bilibili.com/video/BV1u5YX6JECk/",
   "language": "zh",
-  "role": "subject",
-  "note": "Official recap video of the closed-door biohacker forum where Fabio spoke (15:50-16:15); his name is not in title/description; downloaded, frames extracted for Fabio to check",
-  "verified": false,
-  "known": false,
+  "role": "speaker",
+  "note": "Visually verified (32 s clip). At ~0:20-0:22 Fabio is on stage at the 生物极客闭门论坛 with his BIOHACK.IT slide ('...turn self-experimentation into evidence', 'infrastructure for structured human self-experimentation', AGPL-3.0, Hacking Biology, 'presented at TimePie'); the live-translation screen beside him reads 'Next, let's leave the time to Fabio' / 'Hello everybody, thanks for having me here' (Chinese: 交给Fabio); at ~0:21 close-up with transcript 'Hacker in a good sense... cyber criminal... playing with computer code'. No name caption in the video description. Downloaded (360p, 2.8 MB): C:\\Users\\admin\\AppData\\Local\\Temp\\claude\\C--Users-admin-Claude\\8537b900-ade6-4183-ab3d-adb28c891dd0\\scratchpad\bilibili_BV1u5YX6JECk_timepie2026_biohacker_forum.mp4; frames: C:\\Users\\admin\\AppData\\Local\\Temp\\claude\\C--Users-admin-Claude\\8537b900-ade6-4183-ab3d-adb28c891dd0\\scratchpad\fabio_BV1u5YX6JECk_t0020_biohackit_slide.jpg, fabio_BV1u5YX6JECk_t0021_closeup.jpg, fabio_BV1u5YX6JECk_frames_grid.jpg",
+  "verified": true,
+  "known": true,
   "_slices": [
-   "pass3_timepie_china_2026-09-18"
+   "pass3_timepie_china_2026-09-18",
+   "pass4_cina_video_2026-09-30"
   ],
   "on_old_site": false
  },
@@ -15558,23 +15627,6 @@
   "role": "speaker",
   "note": "Permanent Sohu copy of the TimePie official recap (datePublished 2026-09-21 19:30, author 时光派). Contains: '此次生物极客闭门论坛邀请到了国际长寿峰会联合创始人Jose Cordeiro、资深生物极客Dave Pascoe、开源抗衰数据平台开发者Fabio Pietrosanti、抗衰疗法探索者Brian M. Delaney、科伦药业董事长刘革新先生等6位来自不同领域的国际顶尖极客'. Closed-forum photos (7, right after that paragraph): https://q3.itc.cn/images01/20260921/aef08be3ef8847f9ac0630923e7a7794.jpeg https://q9.itc.cn/images01/20260921/6dec72d941e6447e97740cf0d46186d0.jpeg https://q0.itc.cn/images01/20260921/c6b474c1af734dbbb31c6255ba9fe8cb.jpeg https://q8.itc.cn/images01/20260921/3f8ae0a012904c7cbd4b2cf23d069599.jpeg https://q2.itc.cn/images01/20260921/30c39c26c81649f3b8a9f5f3745c06cf.jpeg https://q2.itc.cn/images01/20260921/93a8f693dc0145248d25eb988bc64a8f.jpeg https://q0.itc.cn/images01/20260921/e861ff43363540e7b4b382793f602865.jpeg . Verified 2026-09-29 (page fetched, name present). Found via Baidu (result for 'Pietrosanti 时光派').",
   "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_cina_wechat_weibo_2026-09-29"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2026-09-22",
-  "year": 2026,
-  "type": "video",
-  "outlet": "NetEase (网易号) — 时光派健康抗衰",
-  "title": "七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾 (video, 2'35\")",
-  "url": "https://c.m.163.com/news/v/VG6GUA7FN.html",
-  "language": "zh",
-  "role": "mentioned",
-  "note": "Official TimePie recap video of the whole forum (ptime 2026-09-22 16:27); may include the biohacker closed forum. His name is not in title/metadata and the video was not watched; unverified candidate like the Bilibili recaps.",
-  "verified": false,
   "known": false,
   "_slices": [
    "pass4_cina_wechat_weibo_2026-09-29"

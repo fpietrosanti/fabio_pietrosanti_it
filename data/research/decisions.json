@@ -4,7 +4,8 @@
   "Paolo Pietrosanti (radicale) — any article about him is excluded",
   "Fabrizio Pietrosanti (avvocato, Latina, studio «Pietrosanti Paparo & Associati»): compare in delibere ANAC e in provvedimenti del Garante privacy 2007 (Acqualatina) - non e' Fabio",
   "Valentina Pietrosanti: cura le schede dei resoconti parlamentari di Radio Radicale («Scheda a cura di») - non e' Fabio",
-  "Ezio, Alessio, Mario Lauro, Corinna, Maria Paola Pietrosanti Malintoppi: omonimi trovati su camera.it/senato.it e nelle tesi - non sono Fabio"
+  "Ezio, Alessio, Mario Lauro, Corinna, Maria Paola Pietrosanti Malintoppi: omonimi trovati su camera.it/senato.it e nelle tesi - non sono Fabio",
+  "Radio Digiesse (Praia a Mare) 17/04/2020 «CoronaVirus. Rsa, Cina, Autarchia… con Fabio Pietrosanti» (youtube 3PYnpnzCo8g): è l'autore omonimo romano/calabrese (libro su Gianni Gallo, OMC Calabria), non Fabio — escluso 2026-09-30"
  ],
  "exclude": [
   {
@@ -226,6 +227,10 @@
   {
    "url": "https://www.bilibili.com/video/BV1M7YX67EsD/",
    "reason": "Fabio 2026-09-25: riassunto TimePie da 32 s del forum biohacker: lui non compare nel video"
+  },
+  {
+   "url": "https://c.m.163.com/news/v/VG6GUA7FN.html",
+   "reason": "2026-09-30: video riepilogo TimePie NetEase (2'35\", stesso di Bilibili BV1Rwh76XEhj) controllato fotogramma per fotogramma: il forum biohacker appare a 1:10-1:12 con un altro relatore, Fabio non compare né è nominato"
   }
  ],
  "override": [

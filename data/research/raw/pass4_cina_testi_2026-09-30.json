@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2026-08-20",
+  "year": 2026,
+  "type": "article",
+  "outlet": "NetEase 网易号 (时光派 account)",
+  "title": "逆龄16岁！日吞70粒补剂、电击肌肉，月烧600欧",
+  "url": "https://www.163.com/dy/article/L4MH165705345ZH3.html",
+  "language": "zh",
+  "role": "subject (speaker profile / pre-forum feature)",
+  "note": "Pre-forum profile of Fabio as biohacker (GlobaLeaks co-founder, Hacking Biology N-of-1, ~70 pills/day, 600 EUR/month, GlycanAge -16y). Quote: \"Fabio Pietrosanti是一位来自意大利的计算机黑客，同样也是一名生物极客\"; also \"2026年9月12日，时光派第七届国际长寿论坛极客论坛上，Fabio Pietrosanti将为我们带来精彩演讲\". article:published_time 2026-08-20T12:05:04. Found via 360 search (so.com). Likely also published on TimePie WeChat under a different title (not located on Sogou).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2026-08-26",
+  "year": 2026,
+  "type": "article",
+  "outlet": "Sohu 搜狐号 (时光派, 100270039)",
+  "title": "倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态",
+  "url": "https://www.sohu.com/a/1067664696_100270039",
+  "language": "zh",
+  "role": "speaker (agenda listing)",
+  "note": "Sohu copy of the countdown/agenda article (Zhihu copy p/2075879246317330753 already known). Quote from agenda: \"Fabio Pietrosanti 生物极客、科技创新者 15:50-16:15 从自我实验走向科学证据\". datePublished 2026-08-26 18:24.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2024-11-13",
+  "year": 2024,
+  "type": "article",
+  "outlet": "安全内参 (secrss.com)",
+  "title": "意大利缘何成为全球间谍软件中心？",
+  "url": "https://www.secrss.com/articles/72312",
+  "language": "zh",
+  "role": "interviewee (quoted expert)",
+  "note": "Chinese translation of the Recorded Future News piece on Italy's spyware market. Quote: \"意大利透明度和数字人权中心的主席、杰出的道德黑客Fabio Pietrosanti告诉Recorded Future News\". Date from 360 search snippet (2024年11月13日). Not TimePie-related but new Chinese text coverage.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "",
+  "year": null,
+  "type": "encyclopedia",
+  "outlet": "360百科 (baike.so.com)",
+  "title": "GlobaLeaks_360百科",
+  "url": "https://baike.so.com/doc/28375734-29802503.html",
+  "language": "zh",
+  "role": "mentioned (GlobaLeaks history)",
+  "note": "Encyclopedia entry (translated from Wikipedia) on GlobaLeaks; 360 snippet: \"Pietrosanti在2013年12月表示，我们已经确定了一个解决方案或软件所需要的\". Page returned empty to curl (not opened) - unverified; low value (encyclopedia, not media).",
+  "verified": false,
+  "known": false
+ }
+]
