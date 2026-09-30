@@ -468,3 +468,8 @@ Richiesta di Fabio 2026-09-18 — da fare **alla fine**, quando non c'è più nu
 - [ ] **Una foto di Fabio per ogni anno** (percorso di invecchiamento): raccogliere solo foto in cui è indicato per nome
       (didascalie, sue pubblicazioni, pagine evento, SlideShare/Flickr fpietrosanti); conferma di Fabio per ognuna; mai
       riconoscimento dal volto. Solo alla fine, insieme a tag cloud e timeline.
+
+### Homepage — layout da rifare (Fabio, 2026-09-30)
+- [ ] Il layout attuale (`tools/site_template.html`, bozza EN del 18/09) **non piace a Fabio**: si ripensa più avanti.
+      Contenuti e dati restano validi: testi in `site/content.en.json`, dati da LinkedIn/media/progetti, copie in `copies/`.
+      Il template è separato dal generatore, quindi si cambia impaginazione senza rifare i contenuti.
