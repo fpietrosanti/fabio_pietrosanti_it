@@ -490,8 +490,14 @@
  ],
  "truth_intro": [
   "Most of this work has one shape: someone claims something — a vendor, a ministry, a platform, a political movement — and the claim is taken on trust because nobody can check it. The answer is always the same: build the tool that makes it checkable, publish the evidence, and let other people verify it themselves.",
-  "That is why the software is free and open source, why the evidence sits in public repositories, why the requests to public bodies are filed under freedom-of-information law and published with their answers, and why every claim on this page links to the source. When the finding was uncomfortable — for a company, for a ministry, for a political movement he was close to — it was published anyway.",
+  "That is why the software is free and open source, why the evidence sits in public repositories, why the requests to public bodies are filed under freedom-of-information law and published together with their answers, and why every claim on this page links to its source. When the finding was uncomfortable, it was published anyway: in 2020 he showed that the Rousseau platform could not guarantee the integrity of a vote — by voting twice on it. That was activism <b>against</b> the Five Star Movement, against the technological control that a private company, Casaleggio Associati, exercised over an Italian political party. He was expelled for it, and published the expulsion documents.",
   "Concretely: free software that lets newsrooms receive documents from anonymous sources, training for the journalists who use it, transparency requests that force public data into the open, and a handful of investigations run first-hand."
  ],
- "truth_strands_note": "Every item below is in the archive, with a link to the source and, where possible, a local copy."
+ "truth_strands_note": "Every item below is in the archive, with a link to the source and, where possible, a local copy.",
+ "truth_table": {
+  "strand": "Strand",
+  "items": "Items",
+  "years": "Years",
+  "what": "What it covers"
+ }
 }

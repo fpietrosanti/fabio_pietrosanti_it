@@ -176,11 +176,13 @@ def build(lang="en"):
         if not sel:
             continue
         ys = [i["y"] for i in sel if i["y"]]
-        strands.append(f'<button class="strand" data-tag="{esc(k)}"><span class="n">{len(sel)}</span>'
-                       f'<h4>{esc(tagdefs[k]["label_en"])}</h4><p>{esc(tagdefs[k].get("about_en") or "")}</p>'
-                       f'<div class="yr2">{min(ys)}–{max(ys)}</div></button>')
-    truth = ("".join(f"<p>{esc(x)}</p>" for x in c.get("truth_intro", []))
-             + f'<div class="strands">{"".join(strands)}</div>'
+        strands.append(f'<tr class="strand" data-tag="{esc(k)}" tabindex="0"><th>{esc(tagdefs[k]["label_en"])}</th>'
+                       f'<td class="n">{len(sel)}</td><td class="yr2">{min(ys)}–{max(ys)}</td>'
+                       f'<td class="wh">{esc(tagdefs[k].get("about_en") or "")}</td></tr>')
+    truth = ("".join(f"<p>{x}</p>" for x in c.get("truth_intro", []))
+             + ('<table class="strands"><thead><tr><th>%s</th><th>%s</th><th>%s</th><th>%s</th></tr></thead><tbody>%s</tbody></table>'
+                % (esc(c["truth_table"]["strand"]), esc(c["truth_table"]["items"]), esc(c["truth_table"]["years"]),
+                   esc(c["truth_table"]["what"]), "".join(strands)))
              + f'<p class="note">{esc(c.get("truth_strands_note", ""))}</p>') if strands else ""
     comm = "".join(f'<div class="comm"><h4>{esc(n)}</h4><p>{esc(t)}</p></div>' for n, t in c["communities"])
     past = "".join(f'<li><a href="{esc(u)}">{esc(n)}</a></li>' for n, u in c["past_sites"])
