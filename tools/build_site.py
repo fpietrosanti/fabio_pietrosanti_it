@@ -94,6 +94,7 @@ def media_items():
             "c": cat_of(it["type"]),
             "l": (it.get("language") or "").lower()[:2],
             "u": url,
+            "g": it.get("tags") or [],
             "a": copy,
             "w": wb,
         })
@@ -166,6 +167,21 @@ def build(lang="en"):
         + (f' <a class="loc" href="{esc(x["local"])}">local copy (PDF)</a>' if x.get("local") else "") + "</div></div>"
         for x in c.get("patents", []))
     pat_html = f'<div class="pats" id="patents"><h3 class="subh">{esc(c.get("patents_title", "Patents"))}</h3>{pats}</div>' if pats else ""
+    tagdefs = load(ROOT / "data/tags.json")
+    tagged = [i for i in items if i["g"]]
+    order = ["ijf", "dig", "newsroom-leaks", "transparency", "source-protection", "own-investigations"]
+    strands = []
+    for k in [k for k in order if k in tagdefs]:
+        sel = [i for i in tagged if k in i["g"]]
+        if not sel:
+            continue
+        ys = [i["y"] for i in sel if i["y"]]
+        strands.append(f'<button class="strand" data-tag="{esc(k)}"><span class="n">{len(sel)}</span>'
+                       f'<h4>{esc(tagdefs[k]["label_en"])}</h4><p>{esc(tagdefs[k].get("about_en") or "")}</p>'
+                       f'<div class="yr2">{min(ys)}–{max(ys)}</div></button>')
+    truth = ("".join(f"<p>{esc(x)}</p>" for x in c.get("truth_intro", []))
+             + f'<div class="strands">{"".join(strands)}</div>'
+             + f'<p class="note">{esc(c.get("truth_strands_note", ""))}</p>') if strands else ""
     comm = "".join(f'<div class="comm"><h4>{esc(n)}</h4><p>{esc(t)}</p></div>' for n, t in c["communities"])
     past = "".join(f'<li><a href="{esc(u)}">{esc(n)}</a></li>' for n, u in c["past_sites"])
     nav = "".join(f'<a href="#{k}">{esc(v)}</a>' for k, v in c["nav"])
@@ -190,9 +206,11 @@ def build(lang="en"):
         "AKA": esc(c["hero"]["aka"]), "HEADLINE": esc(intro["headline"]), "HERO_LINKS": hero_links, "STATS": stats_html,
         "H_ABOUT": head("about", 1), "ABOUT": about, "H_STORY": head("story", 2), "STORY": "".join(story),
         "H_WORK": head("work", 3), "EXP": "".join(exp), "PATENTS": pat_html, "H_PROJECTS": head("projects", 4), "PROJECTS": proj_html,
-        "H_ARCHIVE": head("archive", 5), "SEARCH": esc(ui["search"]), "CATS": cat_btns, "HIST": hist,
-        "H_COMM": head("communities", 6), "COMM": comm, "H_PAST": head("past", 7), "PAST": past,
-        "H_CONTACT": head("contact", 8), "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
+        "H_ARCHIVE": head("archive", 6), "SEARCH": esc(ui["search"]), "CATS": cat_btns, "HIST": hist,
+        "H_TRUTH": head("truth", 5), "TRUTH": truth, "TAGS": json.dumps(
+            {k: v["label_en"] for k, v in tagdefs.items() if not k.startswith("_")}, ensure_ascii=False),
+        "H_COMM": head("communities", 7), "COMM": comm, "H_PAST": head("past", 8), "PAST": past,
+        "H_CONTACT": head("contact", 9), "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
         "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
     }.items():
         page = page.replace("{{" + k + "}}", v)

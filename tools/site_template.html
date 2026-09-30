@@ -112,6 +112,19 @@ details p{font-size:14.5px;color:var(--ink2);margin:8px 0;max-width:720px;white-
 .proj h4{font:600 19px/1.25 var(--serif);margin:6px 0 6px}
 .proj p{font-size:14.5px;color:var(--ink2);margin:0 0 10px;flex:1}
 .plinks{display:flex;flex-wrap:wrap;gap:10px;font-size:13px}
+/* truth */
+.truth{margin-left:72px;max-width:900px}
+.truth > p{font-size:17px;color:var(--ink2);max-width:760px}
+.truth > p:first-child{font:400 21px/1.5 var(--serif);color:var(--ink)}
+.truth .note{font-size:14px;color:var(--ink3)}
+.strands{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:12px;margin:26px 0 14px}
+.strand{text-align:left;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:10px;padding:14px 16px;cursor:pointer;font:inherit;color:inherit}
+.strand.on{border-color:var(--acc2);background:var(--accbg)}
+.strand:hover{border-color:var(--acc);transform:translateY(-2px)}
+.strand .n{font:600 26px/1 var(--serif);color:var(--acc2)}
+.strand h4{font:600 17px/1.25 var(--serif);margin:4px 0 4px}
+.strand p{font-size:13.5px;color:var(--ink2);margin:0 0 6px}
+.strand .yr2{font:500 12px var(--mono);color:var(--ink3)}
 /* archive */
 .ctl{margin-left:72px}
 .search{width:100%;font:16px var(--sans);padding:13px 16px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);outline:none}
@@ -159,7 +172,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 @media (max-width:820px){
   .stats{grid-template-columns:repeat(2,1fr)} .stat:last-child{grid-column:span 2}
   .sh{grid-template-columns:1fr} .sh .num{padding:0} .sh p{grid-column:1}
-  .prose,.chapter,.jobs,.pats,.pgroup,.ctl,.list,.comms,.past,.contact{margin-left:0}
+  .prose,.chapter,.jobs,.pats,.truth,.pgroup,.ctl,.list,.comms,.past,.contact{margin-left:0}
   .chapter{grid-template-columns:1fr;gap:4px}
   .jobs:before{left:6px} .job{grid-template-columns:1fr;gap:2px;padding-left:28px} .job:before{left:1px}
   .when{text-align:left} .when span{display:inline;margin-left:6px} .when span:before{content:"– "}
@@ -192,12 +205,14 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 
 <section id="projects"><div class="wrap">{{H_PROJECTS}}{{PROJECTS}}</div></section>
 
+<section id="truth"><div class="wrap">{{H_TRUTH}}<div class="truth">{{TRUTH}}</div></div></section>
+
 <section id="archive"><div class="wrap">{{H_ARCHIVE}}
   <div class="ctl">
     <input class="search" id="q" type="search" placeholder="{{SEARCH}}" autocomplete="off">
     <div class="chips" id="cats">{{CATS}}</div>
     <div class="hist" id="hist">{{HIST}}</div>
-    <div class="status"><span id="count"></span><button id="reset" hidden>reset ✕</button></div>
+    <div class="status"><span id="count"></span><span id="tagline"></span><button id="reset" hidden>reset ✕</button></div>
   </div>
   <div class="list" id="list"></div>
   <button class="more" id="more" hidden>Show more</button>
@@ -219,12 +234,13 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 <script id="data" type="application/json">{{DATA}}</script>
 <script>
 (function(){
-  const ITEMS=JSON.parse(document.getElementById('data').textContent), UI={{UI}};
+  const ITEMS=JSON.parse(document.getElementById('data').textContent), UI={{UI}}, TAGS={{TAGS}};
   const $=s=>document.querySelector(s), list=$('#list'), more=$('#more');
-  const st={q:'',c:'',y:0,shown:120};
+  const st={q:'',c:'',y:0,tag:'',shown:120};
   const esc=s=>s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
   function match(i){
     if(st.c&&i.c!==st.c) return false;
+    if(st.tag&&!(i.g||[]).includes(st.tag)) return false;
     if(st.y&&i.y!==st.y) return false;
     if(st.q){const h=(i.t+' '+i.o+' '+i.k+' '+i.d).toLowerCase(); return st.q.split(/\s+/).every(w=>h.includes(w));}
     return true;
@@ -245,14 +261,17 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
     list.innerHTML=html||`<p class="status">${UI.none}</p>`;
     $('#count').textContent=`${r.length} / ${ITEMS.length} ${UI.count}`;
     more.hidden=r.length<=st.shown;
-    $('#reset').hidden=!(st.q||st.c||st.y);
+    $('#reset').hidden=!(st.q||st.c||st.y||st.tag);
+    $('#tagline').innerHTML=st.tag?`<b>${TAGS[st.tag]||st.tag}</b>`:'';
+    document.querySelectorAll('.strand').forEach(b=>b.classList.toggle('on',b.dataset.tag===st.tag));
     document.querySelectorAll('.bar').forEach(b=>b.classList.toggle('on',+b.dataset.y===st.y));
     document.querySelectorAll('.chip').forEach(b=>b.classList.toggle('on',b.dataset.c===st.c));
   }
   let t; $('#q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>{st.q=e.target.value.trim().toLowerCase();st.shown=120;render();},120);});
   $('#cats').addEventListener('click',e=>{const b=e.target.closest('.chip'); if(!b)return; st.c=b.dataset.c; st.shown=120; render();});
   $('#hist').addEventListener('click',e=>{const b=e.target.closest('.bar'); if(!b)return; const y=+b.dataset.y; st.y=st.y===y?0:y; st.shown=120; render();});
-  $('#reset').addEventListener('click',()=>{st.q='';st.c='';st.y=0;$('#q').value='';render();});
+  $('#reset').addEventListener('click',()=>{st.q='';st.c='';st.y=0;st.tag='';$('#q').value='';render();});
+  document.querySelectorAll('.strand').forEach(b=>b.addEventListener('click',()=>{st.tag=st.tag===b.dataset.tag?'':b.dataset.tag; st.c=''; st.y=0; st.shown=120; render(); document.getElementById('archive').scrollIntoView({behavior:'smooth'});}));
   more.addEventListener('click',()=>{st.shown+=200;render();});
   render();
   // theme

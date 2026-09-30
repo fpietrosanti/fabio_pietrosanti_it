@@ -116,6 +116,10 @@
   "_slices": [
    "pass3_google_2026-09-22-1221"
   ],
+  "tags": [
+   "dig",
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -2382,6 +2386,9 @@
   "_slices": [
    "slice2_2007_2011"
   ],
+  "tags": [
+   "source-protection"
+  ],
   "on_old_site": false
  },
  {
@@ -2570,6 +2577,9 @@
   "_slices": [
    "slice2_2007_2011"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -2586,6 +2596,9 @@
   "known": true,
   "_slices": [
    "slice2_2007_2011"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -2604,6 +2617,9 @@
   "_slices": [
    "slice2_2007_2011"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": true
  },
  {
@@ -2620,6 +2636,9 @@
   "known": true,
   "_slices": [
    "slice2_2007_2011"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -2767,6 +2786,9 @@
   "_slices": [
    "pass2_b_2009_2015"
   ],
+  "tags": [
+   "source-protection"
+  ],
   "on_old_site": false
  },
  {
@@ -2903,6 +2925,9 @@
   "known": false,
   "_slices": [
    "slice2_2007_2011"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -3490,6 +3515,9 @@
    "https://ca.wikipedia.org/wiki/GlobaLeaks",
    "https://pl.wikipedia.org/wiki/GlobaLeaks"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -3627,6 +3655,9 @@
   "_slices": [
    "pass4_hermes_site_named_2026-09-18"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -3748,6 +3779,10 @@
    "slice2_2007_2011",
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -3782,6 +3817,9 @@
   "_slices": [
    "slice2_2007_2011"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -3798,6 +3836,9 @@
   "known": false,
   "_slices": [
    "slice2_2007_2011"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -3816,6 +3857,9 @@
   "hermes_activity": true,
   "_slices": [
    "pass4_hermes_site_named_2026-09-18"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -3886,6 +3930,9 @@
    "slice2_2007_2011",
    "slice6_media_archives"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -3903,6 +3950,9 @@
   "hermes_activity": true,
   "_slices": [
    "pass4_hermes_site_named_2026-09-18"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -3956,6 +4006,9 @@
    "pass4_archive_texts_2026-09-18",
    "pass4_books_2026-09-18"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -3990,6 +4043,10 @@
   "_slices": [
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf",
+   "source-protection"
+  ],
   "on_old_site": false
  },
  {
@@ -4006,6 +4063,10 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "tags": [
+   "ijf",
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -4044,6 +4105,9 @@
    "pass2_c_2016_2026",
    "pass4_hermes_site_named_2026-09-18"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -4079,6 +4143,9 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -4095,6 +4162,10 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "ijf",
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -4113,6 +4184,10 @@
   "_slices": [
    "slice3_2012_2015"
   ],
+  "tags": [
+   "ijf",
+   "source-protection"
+  ],
   "on_old_site": false
  },
  {
@@ -4130,6 +4205,9 @@
   "_slices": [
    "pass2_b_2009_2015"
   ],
+  "tags": [
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -4146,6 +4224,9 @@
   "year": 2012,
   "_slices": [
    "pass2_b_2009_2015"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -4166,6 +4247,9 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -4183,6 +4267,9 @@
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18",
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -4254,6 +4341,9 @@
   "_slices": [
    "slice3_2012_2015"
   ],
+  "tags": [
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -4270,6 +4360,9 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "ijf"
   ],
   "on_old_site": false
  },
@@ -4357,6 +4450,9 @@
   "_slices": [
    "pass4_books_api_2026-09-21"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -4374,6 +4470,9 @@
   "_slices": [
    "pass4_books_nonsearchable_2026-09-27",
    "slice7_academic"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -4513,6 +4612,10 @@
   "_slices": [
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf",
+   "source-protection"
+  ],
   "on_old_site": false
  },
  {
@@ -4529,6 +4632,10 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "ijf",
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -4548,6 +4655,10 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf",
+   "source-protection"
+  ],
   "on_old_site": false
  },
  {
@@ -4564,6 +4675,10 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "tags": [
+   "ijf",
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -4616,6 +4731,9 @@
   "_slices": [
    "slice3_2012_2015",
    "slice6_media_archives"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -4727,6 +4845,9 @@
   "_slices": [
    "pass4_hermes_site_named_2026-09-18"
   ],
+  "tags": [
+   "transparency"
+  ],
   "on_old_site": false
  },
  {
@@ -4743,6 +4864,9 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -4761,6 +4885,9 @@
   "_slices": [
    "slice3_2012_2015",
    "slice6_media_archives"
+  ],
+  "tags": [
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -4882,6 +5009,9 @@
   "_slices": [
    "pass2_b_2009_2015"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -4950,6 +5080,9 @@
   "_slices": [
    "pass4_ngo_theses_2026-09-26"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -4967,6 +5100,9 @@
   "_slices": [
    "slice3_2012_2015",
    "slice6_media_archives"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5004,6 +5140,9 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5021,6 +5160,9 @@
   "_slices": [
    "pass4_ccc_camps_congresses_2026-09-18"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5037,6 +5179,9 @@
   "known": false,
   "_slices": [
    "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5071,6 +5216,9 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5124,6 +5272,9 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "transparency"
+  ],
   "on_old_site": false
  },
  {
@@ -5158,6 +5309,9 @@
   "_slices": [
    "slice3_2012_2015"
   ],
+  "tags": [
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -5174,6 +5328,9 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "ijf"
   ],
   "on_old_site": false
  },
@@ -5193,6 +5350,9 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -5209,6 +5369,10 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "tags": [
+   "ijf",
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -5227,6 +5391,9 @@
   "_slices": [
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -5243,6 +5410,9 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -5262,6 +5432,10 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf",
+   "source-protection"
+  ],
   "on_old_site": false
  },
  {
@@ -5278,6 +5452,10 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "ijf",
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -5329,6 +5507,9 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5402,6 +5583,10 @@
   "_slices": [
    "pass2_b_2009_2015"
   ],
+  "tags": [
+   "newsroom-leaks",
+   "transparency"
+  ],
   "on_old_site": false
  },
  {
@@ -5436,6 +5621,9 @@
   "_slices": [
    "slice3_2012_2015"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5456,6 +5644,9 @@
   "mirrors": [
    "https://www.radioradicale.it/scheda/429504/presi-per-il-web"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5472,6 +5663,9 @@
   "known": false,
   "_slices": [
    "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5506,6 +5700,9 @@
   "known": false,
   "_slices": [
    "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5576,6 +5773,9 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5593,6 +5793,9 @@
   "_slices": [
    "slice3_2012_2015",
    "slice6_media_archives"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5612,6 +5815,9 @@
   "_slices": [
    "pass4_hermes_site_named_2026-09-18"
   ],
+  "tags": [
+   "transparency"
+  ],
   "on_old_site": false
  },
  {
@@ -5629,6 +5835,9 @@
   "_slices": [
    "slice3_2012_2015"
   ],
+  "tags": [
+   "transparency"
+  ],
   "on_old_site": false
  },
  {
@@ -5645,6 +5854,9 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "ijf"
   ],
   "on_old_site": false
  },
@@ -5715,6 +5927,10 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5731,6 +5947,10 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5749,6 +5969,10 @@
   "_slices": [
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5766,6 +5990,10 @@
   "_slices": [
    "slice3_2012_2015"
   ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5782,6 +6010,10 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5801,6 +6033,10 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5817,6 +6053,10 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5835,6 +6075,10 @@
   "_slices": [
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5851,6 +6095,10 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5870,6 +6118,10 @@
    "slice3_2012_2015",
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -5886,6 +6138,10 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "tags": [
+   "ijf",
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -5924,6 +6180,9 @@
   "_slices": [
    "slice3_2012_2015",
    "slice6_media_archives"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -6046,6 +6305,9 @@
   "_slices": [
    "pass2_b_2009_2015"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -6097,6 +6359,9 @@
   "known": false,
   "_slices": [
    "pass4_books_it_2026-09-19"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -6271,6 +6536,9 @@
   "_slices": [
    "slice6_media_archives"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -6287,6 +6555,10 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "tags": [
+   "newsroom-leaks",
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -6321,6 +6593,10 @@
   "known": false,
   "_slices": [
    "pass4_ue_istituzioni_2026-09-23"
+  ],
+  "tags": [
+   "newsroom-leaks",
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -6443,6 +6719,9 @@
   "_slices": [
    "pass4_ccc_camps_congresses_2026-09-18"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -6459,6 +6738,9 @@
   "known": false,
   "_slices": [
    "pass4_wayback_istituzioni_2026-09-26"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -6733,6 +7015,9 @@
   "known": false,
   "_slices": [
    "pass3_google_site_2026-09-17"
+  ],
+  "tags": [
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -7362,6 +7647,9 @@
   "_slices": [
    "pass3_google_site_2026-09-17"
   ],
+  "tags": [
+   "dig"
+  ],
   "on_old_site": false
  },
  {
@@ -7516,6 +7804,9 @@
    "pass2_c_2016_2026",
    "pass4_hermes_site_named_2026-09-18"
   ],
+  "tags": [
+   "dig"
+  ],
   "on_old_site": false
  },
  {
@@ -7549,6 +7840,10 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "tags": [
+   "newsroom-leaks",
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -7601,6 +7896,9 @@
   "known": false,
   "_slices": [
    "pass4_ngo_theses_2026-09-26"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -7703,6 +8001,9 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "tags": [
+   "ijf"
   ],
   "on_old_site": false
  },
@@ -7911,6 +8212,9 @@
   "_slices": [
    "pass3_google_site_2026-09-17"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -7927,6 +8231,10 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "tags": [
+   "newsroom-leaks",
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -7945,6 +8253,9 @@
   "_slices": [
    "slice6_media_archives"
   ],
+  "tags": [
+   "transparency"
+  ],
   "on_old_site": false
  },
  {
@@ -7962,6 +8273,9 @@
   "_slices": [
    "pass2_c_2016_2026"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -7978,6 +8292,9 @@
   "known": true,
   "_slices": [
    "pass4_mediaset_other_tv_2026-09-22"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -8046,6 +8363,9 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -8116,6 +8436,9 @@
   "_slices": [
    "pass4_hermes_site_named_2026-09-18"
   ],
+  "tags": [
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -8132,6 +8455,9 @@
   "known": false,
   "_slices": [
    "pass4_ngo_theses_2026-09-26"
+  ],
+  "tags": [
+   "ijf"
   ],
   "on_old_site": false
  },
@@ -8150,6 +8476,9 @@
   "_slices": [
    "slice4_2016_2020"
   ],
+  "tags": [
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -8167,6 +8496,9 @@
   "_slices": [
    "slice6_media_archives"
   ],
+  "tags": [
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -8183,6 +8515,9 @@
   "known": false,
   "_slices": [
    "slice6_media_archives"
+  ],
+  "tags": [
+   "ijf"
   ],
   "on_old_site": false
  },
@@ -8236,6 +8571,10 @@
    "pass4_books_api_2026-09-21",
    "pass4_books_it_2026-09-19"
   ],
+  "tags": [
+   "newsroom-leaks",
+   "transparency"
+  ],
   "on_old_site": false
  },
  {
@@ -8252,6 +8591,9 @@
   "known": false,
   "_slices": [
    "pass4_books_it_2026-09-19"
+  ],
+  "tags": [
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -8878,6 +9220,9 @@
   "_slices": [
    "slice4_2016_2020"
   ],
+  "tags": [
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -8894,6 +9239,10 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
+  ],
+  "tags": [
+   "newsroom-leaks",
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -9002,6 +9351,9 @@
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -9035,6 +9387,9 @@
   "known": false,
   "_slices": [
    "pass4_crvd_site_2026-09-18"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -9070,6 +9425,9 @@
   "known": false,
   "_slices": [
    "pass4_crvd_site_2026-09-18"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -9140,6 +9498,9 @@
   "_slices": [
    "pass4_agendadigitale_2026-09-18",
    "slice4_2016_2020"
+  ],
+  "tags": [
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -9243,6 +9604,9 @@
   "_slices": [
    "pass3_projects_fabio_2026-09-18"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -9327,6 +9691,9 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -9430,6 +9797,9 @@
   "_slices": [
    "pass4_aire_voto_estero_2026-09-25"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -9446,6 +9816,9 @@
   "known": false,
   "_slices": [
    "pass4_crvd_site_2026-09-18"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -9482,6 +9855,9 @@
   "_slices": [
    "pass4_archive_texts_2026-09-18"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -9499,6 +9875,9 @@
   "_slices": [
    "pass4_archive_texts_2026-09-18",
    "pass4_books_nonsearchable_2026-09-28"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -9534,6 +9913,9 @@
   "_slices": [
    "pass4_books_2026-09-18",
    "pass4_scholarly_2026-09-18"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -9658,6 +10040,9 @@
   "_slices": [
    "pass4_archive_texts_2026-09-18"
   ],
+  "tags": [
+   "transparency"
+  ],
   "on_old_site": false
  },
  {
@@ -9725,6 +10110,9 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -9828,6 +10216,9 @@
   "_slices": [
    "pass4_autorita_accademico_2026-09-23"
   ],
+  "tags": [
+   "transparency"
+  ],
   "on_old_site": false
  },
  {
@@ -9844,6 +10235,9 @@
   "known": false,
   "_slices": [
    "pass4_autorita_accademico_2026-09-23"
+  ],
+  "tags": [
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -9930,6 +10324,9 @@
   "_slices": [
    "pass2_b_2009_2015"
   ],
+  "tags": [
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -9963,6 +10360,9 @@
   "known": false,
   "_slices": [
    "pass4_ngo_reports_pdf_2026-09-21"
+  ],
+  "tags": [
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -10955,6 +11355,9 @@
   "mirrors": [
    "https://link.springer.com/book/10.1007/978-3-030-38505-7"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -10990,6 +11393,9 @@
    "pass2_b_2009_2015",
    "pass4_agendadigitale_2026-09-18"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -11006,6 +11412,9 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -11126,6 +11535,9 @@
   "_slices": [
    "pass4_crvd_site_2026-09-18"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -11210,6 +11622,9 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -11467,6 +11882,9 @@
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -11483,6 +11901,9 @@
   "known": false,
   "_slices": [
    "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -11518,6 +11939,9 @@
   "_slices": [
    "pass4_openrousseau_m5s_2026-09-25"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -11534,6 +11958,9 @@
   "known": false,
   "_slices": [
    "pass4_openrousseau_m5s_2026-09-25"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -11636,6 +12063,9 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -11911,6 +12341,9 @@
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -11979,6 +12412,9 @@
   "_slices": [
    "pass2_d_academic",
    "slice4_2016_2020"
+  ],
+  "tags": [
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -12116,6 +12552,9 @@
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -12219,6 +12658,9 @@
    "pass3_projects_fabio_2026-09-18",
    "slice6_media_archives"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -12287,6 +12729,9 @@
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -12354,6 +12799,9 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -12598,6 +13046,9 @@
    "slice5_2021_2026",
    "slice6_media_archives"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -12836,6 +13287,9 @@
   "_slices": [
    "slice5_2021_2026"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -12852,6 +13306,9 @@
   "known": false,
   "_slices": [
    "pass4_aire_voto_estero_2026-09-25"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -12940,6 +13397,9 @@
   "_slices": [
    "pass4_aire_voto_estero_2026-09-25"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -12973,6 +13433,9 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -13162,6 +13625,10 @@
   "known": false,
   "_slices": [
    "pass2_c_2016_2026"
+  ],
+  "tags": [
+   "newsroom-leaks",
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -13727,6 +14194,10 @@
   "_slices": [
    "slice6_media_archives"
   ],
+  "tags": [
+   "dig",
+   "ijf"
+  ],
   "on_old_site": false
  },
  {
@@ -14002,6 +14473,9 @@
    "slice5_2021_2026",
    "slice6_media_archives"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -14213,6 +14687,9 @@
    "slice6_media_archives"
   ],
   "note_date": "date corrected from the official programme (2026-09-18)",
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -14229,6 +14706,9 @@
   "known": false,
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -14336,6 +14816,9 @@
    "slice5_2021_2026",
    "slice6_media_archives"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -14352,6 +14835,9 @@
   "known": false,
   "_slices": [
    "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -14386,6 +14872,9 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -14683,6 +15172,9 @@
    "pass4_archive_texts_2026-09-18",
    "pass4_books_2026-09-18"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -14699,6 +15191,9 @@
   "known": false,
   "_slices": [
    "pass2_c_2016_2026"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -14768,6 +15263,9 @@
   "_slices": [
    "pass2_c_2016_2026"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -14785,6 +15283,9 @@
   "_slices": [
    "pass2_c_2016_2026"
   ],
+  "tags": [
+   "own-investigations"
+  ],
   "on_old_site": false
  },
  {
@@ -14801,6 +15302,9 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "tags": [
+   "own-investigations"
   ],
   "on_old_site": false
  },
@@ -14887,6 +15391,9 @@
   "_slices": [
    "pass4_autorita_accademico_2026-09-23"
   ],
+  "tags": [
+   "transparency"
+  ],
   "on_old_site": false
  },
  {
@@ -14921,6 +15428,10 @@
   "_slices": [
    "pass4_scholarly_2026-09-18",
    "pass4_scholarly_apis_2026-09-21"
+  ],
+  "tags": [
+   "newsroom-leaks",
+   "transparency"
   ],
   "on_old_site": false
  },
@@ -15165,6 +15676,9 @@
   "_slices": [
    "pass2_c_2016_2026"
   ],
+  "tags": [
+   "newsroom-leaks"
+  ],
   "on_old_site": false
  },
  {
@@ -15183,6 +15697,9 @@
    "pass4_eprivacy_sapienza_2026-09-18",
    "pass4_istituzioni_residui_2026-09-28",
    "slice6_media_archives"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
@@ -15234,6 +15751,9 @@
   "known": false,
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18"
+  ],
+  "tags": [
+   "source-protection"
   ],
   "on_old_site": false
  },
@@ -15337,6 +15857,9 @@
   "known": false,
   "_slices": [
    "pass4_cina_testi_2026-09-30"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },

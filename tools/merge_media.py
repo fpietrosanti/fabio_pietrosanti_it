@@ -254,6 +254,19 @@ def main():
             for i in items:
                 if norm_url(i.get("url")) == norm_url(o["url"]):
                     i.update(o["set"])
+    tag_path = ROOT / "data/tags.json"
+    if tag_path.exists():
+        tags = json.load(io.open(tag_path, encoding="utf-8"))
+        by_url = {}
+        for tag, v in tags.items():
+            if tag.startswith("_"):
+                continue
+            for u in v.get("urls", []):
+                by_url.setdefault(norm_url(u), []).append(tag)
+        for i in items:
+            t = by_url.get(norm_url(i.get("url")))
+            if t:
+                i["tags"] = sorted(t)
     for i in items:
         i["on_old_site"] = matches_baseline(i, baseline)
         i.pop("_slice", None)
