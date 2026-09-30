@@ -1059,6 +1059,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1, inUse), tabs_context/tabs_create ok, ma i navigate verso la ricerca site:html.it (2 tentativi) rispondono 'Claude in Chrome is not connected' / 'extension disconnected mid-operation'; anche la chiusura della scheda fallisce (estensione non raggiungibile). Blocco Google saltato, nessun candidato. Guasto invariato dal 28/09: serve intervento manuale di Fabio sull'estensione (pannello laterale aperto, login, permesso sito google.com). Prossimo blocco invariato: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
+  },
+  {
+   "date": "2026-09-30 14:55",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers restituisce lista vuota: nessun browser Chrome connesso. Blocco Google saltato, nessun candidato, nessuna scheda aperta. Guasto dal 28/09: serve che Fabio riapra Chrome con l'estensione Claude connessa. Prossimo blocco invariato: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
   }
  ]
 }
