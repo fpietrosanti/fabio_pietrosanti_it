@@ -1109,6 +1109,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Dopo 7 run falliti la navigazione Chrome ha funzionato per la prima ricerca: site:html.it -> 'non ha prodotto risultati' (0, nessun captcha), html.it segnato done. Alla seconda (01net.it) l'estensione si è di nuovo disconnessa ('extension disconnected mid-operation' / 'not connected', 3 tentativi). Scheda chiusa. Nessun candidato: verify/merge/archive non eseguiti. Prossimo blocco: 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org (+1)."
+  },
+  {
+   "date": "2026-10-01 20:35",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1, inUse). La navigazione alla ricerca site:01net.it è riuscita (titolo scheda 'Cerca con Google'), ma la lettura dei risultati con javascript_tool fallisce: in browser_batch risponde 'permission_required: www.google.com — call standalone so the user is prompted'; in chiamata singola (2 tentativi) l'estensione si disconnette, verosimilmente perché il prompt di permesso resta in attesa senza Fabio. Diagnosi del guasto dal 28/09: manca il permesso dell'estensione per eseguire script su www.google.com — Fabio deve concederlo una volta (pannello laterale Claude in Chrome / impostazioni sito, 'Consenti sempre' per google.com). Scheda chiusa, nessun candidato, 01net.it resta pending. Prossimo blocco invariato: 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org, altalex.com."
   }
  ]
 }
