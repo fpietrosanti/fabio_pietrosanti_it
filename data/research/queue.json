@@ -362,7 +362,9 @@
   },
   {
    "domain": "html.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-01",
+   "found": 0
   },
   {
    "domain": "01net.it",
@@ -1099,6 +1101,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1, inUse), tabs_context ok, ma il navigate verso la ricerca site:html.it risponde 'Claude in Chrome is not connected'; al secondo tentativo (batch) il gruppo di schede risulta già rimosso. Nessuna scheda residua. Blocco Google saltato, nessun candidato. Guasto invariato dal 28/09 (7° run consecutivo): l'estensione risponde ai comandi sulle schede ma non alla navigazione; serve intervento manuale di Fabio (pannello laterale aperto, login, permesso sito google.com). Prossimo blocco invariato: html.it, 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org."
+  },
+  {
+   "date": "2026-10-01 17:40",
+   "engine": "google-chrome",
+   "searched": 1,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Dopo 7 run falliti la navigazione Chrome ha funzionato per la prima ricerca: site:html.it -> 'non ha prodotto risultati' (0, nessun captcha), html.it segnato done. Alla seconda (01net.it) l'estensione si è di nuovo disconnessa ('extension disconnected mid-operation' / 'not connected', 3 tentativi). Scheda chiusa. Nessun candidato: verify/merge/archive non eseguiti. Prossimo blocco: 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org (+1)."
   }
  ]
 }
