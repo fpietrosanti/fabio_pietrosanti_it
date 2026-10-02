@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "코인리더스 (CoinReaders, Korea)",
+  "title": "이더리움 핵심 개발자, 北에 암호화폐 기술 제공한 혐의로 체포…로저버, 美 정부 비난",
+  "url": "http://coinreaders.com/6114",
+  "language": "ko",
+  "role": "quoted",
+  "note": "\"버질 그리피스와 함께 북한을 방문한 것으로 알려진 이탈리아계 기업가 파비오 피에트로산티(Fabio Pietrosanti)도 증언 의사를 밝혔다\" - quoted as willing to testify, 'some misunderstanding by the authorities', in contact with Virgil's lawyer. Byline 박소현 기자, 2019/12/03 07:07 KST. Verified live 2026-10-02 (found via Naver news search).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-12-04",
+  "year": 2019,
+  "type": "article",
+  "outlet": "코인리더스 (CoinReaders, Korea)",
+  "title": "무허가 방북으로 체포된 이더리움 개발자 '석방' 결정...재판은 받아야",
+  "url": "http://coinreaders.com/6123",
+  "language": "ko",
+  "role": "quoted",
+  "note": "Same Pietrosanti paragraph as coinreaders.com/6114 (\"파비오 피에트로산티(Fabio Pietrosanti)도 증언 의사를 밝혔다 ... 현재 버질의 변호사와 소통 중\"), follow-up on Griffith's release on bail. Byline 박소현 기자, 2019/12/04 07:10 KST. Verified live 2026-10-02.",
+  "verified": true,
+  "known": false
+ }
+]

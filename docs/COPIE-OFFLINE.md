@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-09-30 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-02 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **911**; già processate: **964**; ancora da processare: **0**
-- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **641** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **768**
+- Voci in `data/media.json`: **923**; già processate: **980**; ancora da processare: **0**
+- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **657** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **784**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **5**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **41**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **19**
@@ -45,14 +45,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 14 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 60 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 43 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 27 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2020 | 150 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 38 | 3 | 1 | 0 | 0 | 0 | 0 |
+| 2020 | 151 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 66 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 48 | 7 | 0 | 0 | 0 | 0 | 1 |
+| 2022 | 49 | 7 | 0 | 0 | 0 | 0 | 1 |
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 26 | 0 | 5 | 0 | 0 | 0 | 0 |
+| 2026 | 29 | 0 | 4 | 0 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -97,6 +97,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
 - ⏹️ **2019** · AISE — [Siragusa (M5S): 1 milione di euro per voto elettronico positivo per italiani all'estero](https://www.aise.it/eletti-allestero/siragusa-m5s-1-milione-di-euro-per-voto-elettronico-positivo-per-italiani-allestero/139344/159) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2019** · Fraktion DIE LINKE im Bundestag (linksfr — [Termine: Medien unter Beschuss (event announcement, public hearing 27/11/2019)](https://www.linksfraktion.de/termine/detail/medien-unter-beschuss/) · licenza: terzi  
+  2026-10-02: escluso (decisions.json) — programma dell'audizione Linke 27/11/2019 senza il suo nome tra i relatori
 - ⏹️ **2020** · verbalictscovid.infosecurity.ch — [Archivio dei Verbali CTS Covid con OCR (download zip da 1.9GB)](http://verbalictscovid.infosecurity.ch) · licenza: propria  
   Fabio 2026-09-24: sito temporaneo messo su da lui e poi spento volutamente; mai archiviato dal Web Archive. Il materiale resta nel repo github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR (voce a parte).
 - ⏹️ **2020** · Twitter/X @carlopiana — [«A chi mi diceva "ma almeno Rousseau è una piattaforma che esiste". Leggere tutto l'artico](https://twitter.com/fpietrosanti/status/1296361702670446598) · licenza: terzi  
@@ -123,8 +125,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2026** · Allora! Italian Australian News — [Voto estero, dalla blockchain al voto in consolato: tutti gli emendamenti che possono camb](https://alloranews.com/italiani-nel-mondo/voto-estero-dalla-blockchain-al-voto-in-consolato-tutti-gli-emendamenti-che-possono-cambiare-la-legge-tremaglia/) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
-- ⏹️ **2026** · NetEase (网易号) — 时光派健康抗衰 — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾 (video, 2'35")](https://c.m.163.com/news/v/VG6GUA7FN.html) · licenza: terzi  
-  2026-09-30: escluso (decisions.json) — video visto fotogramma per fotogramma, Fabio non compare
 - ⏹️ **2026** · Camera dei deputati, Commissioni riunite — [A.G. 418 - Memoria della Rete per i Diritti Umani Digitali (audizione informale sullo sche](https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.97660.22-07-2026-16-10-48.793.pdf) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2026** · Camera dei deputati, IX Commissione (Tra — [Memoria non auditi - Rete per i diritti umani digitali, Amnesty International Italia, Stra](https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.92477.28-05-2026-12-49-33.901.pdf) · licenza: terzi  
@@ -265,9 +265,9 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: bug di copia RISOLTO (corpo gzip decodificato in locale, nessun nuovo download). La pagina e' leggibile ma e' la home di un suo progetto e non contiene il suo nome: rientra nella categoria «solo organizzazione».
 - 🗂️ **2001** · Corriere della Sera (ed. nazionale, p. 2 — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma p](https://archivio.corriere.it/Archivio/interface/landing.html) · licenza: terzi  
   2026-09-23: la copia e' solo una scheda/maschera di ricerca d'archivio, senza il testo dell'articolo. Serve la pagina di giornale vera (scansione archive.org o capture dell'URL dell'articolo).
-- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕](https://www.bilibili.com/video/BV1SJYe6AEXo/) · licenza: terzi  
+- 🟡 **2019** · Fraktion DIE LINKE im Bundestag — [Öffentliche Anhörung «Medien unter Beschuss – Feldzug gegen WikiLeaks und investigativen J](https://www.dielinkebt.de/themen/nachrichten/detail/neuer-krieg-gegen-den-journalismus) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [现场速递！第七届国际长寿论坛的“长寿之夜”](https://www.bilibili.com/video/BV1X9YR68ETj/) · licenza: terzi  
+- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕](https://www.bilibili.com/video/BV1SJYe6AEXo/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [第七届国际长寿论坛今日启幕！前沿观点集中亮相，现场直击](https://www.bilibili.com/video/BV1YtY96bEhr/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -794,12 +794,16 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Euronews (in Italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://www.youtube.com/watch?v=gcROTSHQW4A) · copia: `2018/2a0a91fd7eda` (live · video locale `media.mp4` (5 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · YouTube - Privacy Camp 2018 — [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) · copia: `2018/ccd757ed25e1` (live · video locale `media.mp4` (636 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · International Journalism Festival (YouTu — [Privacy nightmare Italia: storie di sorveglianza](https://www.youtube.com/watch?v=ukpO8e80sQc) · copia: `2018/67abfec1cacb` (Web Archive 20190413 · video locale `media.mp4` (392 MB, da caricare su Drive)) · licenza: terzi
+- **2019** · 코인리더스 (CoinReaders, Korea) — [이더리움 핵심 개발자, 北에 암호화폐 기술 제공한 혐의로 체포…로저버, 美 정부 비난](http://coinreaders.com/6114) · copia: `2019/96fc722ed605` (Web Archive 20191210) · licenza: terzi
+- **2019** · 코인리더스 (CoinReaders, Korea) — [무허가 방북으로 체포된 이더리움 개발자 '석방' 결정...재판은 받아야](http://coinreaders.com/6123) · copia: `2019/741d26cb9092` (live) · licenza: terzi
 - **2019** · CRVD — blog.crvd.org (URL originale, Way — [Come non sprecare un milione di euro](https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/) · copia: `2019/5e24ced344f5` (Web Archive 20200813) · licenza: terzi
 - **2019** · Laterza — [L'esecuzione. 5 Stelle da movimento a governo](https://books.google.com/books?id=rO2ODwAAQBAJ) · copia: `2019/8948d22cfd5e` (live) · licenza: terzi
 - **2019** · Copernicani — [Overlay Network Crittografici](https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/) · copia: `2019/0752d3df8d0b` (Web Archive 20190718) · licenza: terzi
 - **2019** · AGI (Arturo Di Corinto), mirrored on dic — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://dicorinto.it/temi/diritti_digitali/agi-i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/) · copia: `2019/62ebf5acef06` (Web Archive 20190720) · licenza: terzi
 - **2019** · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit) · copia: `2019/0a24df39acd7` (google-docs-export) · licenza: terzi
 - **2019** · Agenzia delle Entrate — Direzione Centra — [Riscontro ad istanza di accesso civico generalizzato (collaudi e analisi di sicurezza dell](https://eclecticismnow.files.wordpress.com/2019/02/12-02-2019_istanza-accesso-civico-fp-risposta2.pdf) · copia: `2019/c351be390d34` (live) · licenza: terzi
+- **2019** · AMBCrypto — [Ethereum researcher arrested for allegedly helping North Korea evade sanctions](https://eng.ambcrypto.com/ethereum-researcher-arrested-for-allegedly-helping-north-korea-evade-sanctions/) · copia: `2019/0714319d6445` (Web Archive 20191216) · licenza: terzi
+- **2019** · AMBCrypto Spanish — [Ethereum [ETH] se ve envuelto en escándalo de lavado de dinero con Corea del Norte](https://es.ambcrypto.com/ethereum-eth-se-ve-envuelto-en-escandalo-de-lavado-de-dinero-con-corea-del-norte/) · copia: `2019/0b80eaca6099` (Web Archive 20210508) · licenza: terzi
 - **2019** · Forum Italia (Developers Italia) — [Software di Whistleblowing Anticorruzione ANAC e Riuso GlobaLeaks](https://forum.italia.it/t/software-di-whistleblowing-anticorruzione-anac-e-riuso-globaleaks/7114) · copia: `2019/f80d52afc3d3` (Web Archive 20231208) · licenza: propria
 - **2019** · GitHub - ANAC anticorruzione/openwhistle — [openwhistleblowing/AUTHORS](https://github.com/anticorruzione/openwhistleblowing/blob/master/AUTHORS) · copia: `2019/5c5b4eed38b7` (live) · licenza: terzi
 - **2019** · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano) · copia: `2019/2f5708b9e6aa` (Web Archive 20200910) · licenza: propria
@@ -817,12 +821,19 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Twitter — [OSSCI: discussione perimetro vs spazio cibernetico per l'osservatorio](https://twitter.com/fpietrosanti/status/1196431404302770176) · copia: `2019/e7d69b3302bc` (Web Archive 20191118) · licenza: terzi
 - **2019** · Twitter — [Bundestag committee room (hint of appearance)](https://twitter.com/fpietrosanti/status/1199929402521509888) · copia: `2019/2287ae890740` (Web Archive 20191128) · licenza: terzi
 - **2019** · Dipartimento della Funzione Pubblica - i — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/) · copia: `2019/fed00e4c6d1e` (Web Archive 20190724) · licenza: propria
+- **2019** · 2600 Off The Hook (WBAI/2600, Emmanuel G — [Off The Hook, 12/04/19 - Virgil Griffith charged; Fabio Pietrosanti joins from Italy](https://www.2600.com/offthehook/2019/1219.html) · copia: `2019/75b6b75dad29` (Web Archive 20210305) · licenza: terzi
+- **2019** · 2600 Off The Hook — [Off The Hook 2019-12-04 (MP3)](https://www.2600.com/offthehook/mp3files/2019/off_the_hook__20191204.mp3) · copia: `2019/65c1ec38a5c9` (live) · licenza: terzi
 - **2019** · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/) · copia: `2019/b455b7db3090` (Web Archive 20190410) · licenza: propria
 - **2019** · AGI - Agenzia Italia (blog Cybersecurity — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://www.agi.it/blog-italia/cybersecurity/post/2019-03-09/blockchain_rousseau_voto_elettronico_casaleggio-5117572/) · copia: `2019/347043478153` (Web Archive 20240419) · licenza: terzi
+- **2019** · 百亿财经 baiyi.com — [朝鲜加密货币活动参与者称制裁议题未被提及](https://www.baiyi.com/news/4c90c1481cc94ea0ae6c844e141b54ce.html) · copia: `2019/eb7cf485dda1` (live) · licenza: terzi
+- **2019** · CoinDesk — [Freedom Fighter or Fool? Jury's Out on Arrested Ethereum Developer Virgil Griffith](https://www.coindesk.com/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/58fcdc1a6a26` (Web Archive 20210916) · licenza: terzi
+- **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://www.coindesk.com/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says/) · copia: `2019/a44cf63f7ba2` (Web Archive 20210918) · licenza: terzi
+- **2019** · CorCom (Corriere Comunicazioni) — [Garante Privacy, 86 nuovi candidati](https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/) · copia: `2019/2f34a5770751` (live) · licenza: terzi
 - **2019** · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/) · copia: `2019/f197572afc0f` (Web Archive 20191122) · licenza: terzi
 - **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711) · copia: `2019/05160b2a3be4` (live) · licenza: terzi
 - **2019** · repubblica.it — [Quando lo smartphone diventa una spia. "In Italia oltre mille vittime di stalkerware"](https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/) · copia: `2019/a64ddc934fe0` (Web Archive 20191004) · licenza: terzi
 - **2019** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Online? No, grazie, e ti spiego perché...](https://www.spreaker.com/episode/voto-online-no-grazie-e-ti-spiego-perche--17308523) · copia: `2019/f6345cb62800` (live · video locale `media.mp3` (61 MB, da caricare su Drive)) · licenza: terzi
+- **2019** · MIT Technology Review — [A blockchain expert is accused of helping North Korea's leaders. But what would they want ](https://www.technologyreview.com/2019/12/05/106/virgil-griffith-north-korea-ethereum/) · copia: `2019/a361e5b7452c` (Web Archive 20200808) · licenza: terzi
 - **2019** · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE) · copia: `2019/26f28fdcd90f` (Web Archive 20190313 · video locale `media.mp4` (54 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/) · copia: `2020/355b38e1ace5` (Web Archive 20200329) · licenza: propria
 - **2020** · Veronica One / V1 HitStation (radioveron — [M5S, hacker a parlamentari: “Ecco Open Rousseau, così sarete liberi”](http://www.radioveronicaone.it/2020/10/01/m5s-hacker-a-parlamentari-ecco-open-rousseau-cosi-sarete-liberi/) · copia: `2020/a633ac33c593` (Web Archive 20210423) · licenza: terzi
@@ -838,6 +849,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Copernicani (#DialoghiCopernicani, onlin — [Martedi 20 ottobre ore 21:00 - Riconoscimento facciale usato dalle forze dell'ordine, stru](https://copernicani.it/blog/2020/10/16/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/) · copia: `2020/2cd8cd7b083a` (Web Archive 20201019) · licenza: terzi
 - **2020** · Google Docs (documento pubblico) — [Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-locat](https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk) · copia: `2020/50fc2ff6af5f` (live) · licenza: terzi
 - **2020** · Eclecticism Now! (blog, eclecticismnow.w — [Commissione Voto Elettronico: Rigetto FOIA](https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/) · copia: `2020/0a6aad5ea2f8` (Web Archive 20201219) · licenza: terzi
+- **2020** · Medium (ethex-smm) — [The story of Virgil Griffith](https://ethex-smm.medium.com/the-story-of-virgil-griffith-15bba676cc52) · copia: `2020/d7431ea94f6b` (Web Archive 20210928) · licenza: terzi
 - **2020** · GitHub (associazione-rousseau/camelot-fl — [Integrate Flutter to works with Decidim Backend, instead of Rousseau (issue #170)](https://github.com/associazione-rousseau/camelot-flutter/issues/170) · copia: `2020/cbcf0a016f2c` (live) · licenza: terzi
 - **2020** · GitHub (dipartimentofunzionepubblica/par — [Documentare e re-integrare tutte le modifiche di partecipa.gov.it di Decidim nel main bran](https://github.com/dipartimentofunzionepubblica/partecipa/issues/2) · copia: `2020/0fc52db457f0` (Web Archive 20220821) · licenza: terzi
 - **2020** · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR) · copia: `2020/eb6bace23141` (Web Archive 20260218) · licenza: propria
@@ -1083,6 +1095,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/) · copia: `2022/39ed595e0702` (Web Archive 20221027) · licenza: terzi
 - **2022** · civile.it (Valentino Spataro) — [Voto elettronico online per le politiche - 5 esperti spiegano perche' e' una disgrazia](https://www.civile.it/internet/visual.php?num=95819) · copia: `2022/feda165c8059` (live) · licenza: terzi
 - **2022** · Cyber Security 360 — [Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi](https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/) · copia: `2022/ceddd683ee93` (Web Archive 20220314) · licenza: terzi
+- **2022** · British GQ (Peter Guest) — [The Pyongyang crypto caper: North Korea, crypto heists and the new front line of cybercrim](https://www.gq-magazine.co.uk/politics/article/north-korea-crypto-bitcoin-cybercrime) · copia: `2022/6173d5796396` (Web Archive 20221124) · licenza: terzi
 - **2022** · Istituto Comprensivo Cornigliano, Genova — [Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013](https://www.iccornigliano.edu.it/amministrazione-trasparente/) · copia: `2022/a07b6bd88256` (Web Archive 20231030) · licenza: terzi
 - **2022** · Il Post — [Il voto degli italiani all'estero ha vari problemi](https://www.ilpost.it/2022/09/14/sicurezza-voto-italiani-estero/) · copia: `2022/81fb6ebe105d` (live) · licenza: terzi
 - **2022** · Il Riformista — ["Disinstallate Kaspersky dai PC", i servizi segreti lanciano l'allarme per l'antivirus usa](https://www.ilriformista.it/disinstallate-kaspersky-dai-pc-i-servizi-segreti-lanciano-lallarme-per-lantivirus-usato-da-farnesina-e-viminale-286552/) · copia: `2022/d8829e0278a1` (Web Archive 20220315) · licenza: terzi
@@ -1137,6 +1150,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2025** · Rai - Codice, la vita è digitale (Rai 1) — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.youtube.com/watch?v=Amy7OyM7exo) · copia: `2025/fe4a9bae44e0` (Web Archive 20250706 · video locale `media.mp4` (82 MB, da caricare su Drive)) · licenza: terzi
 - **2026** · Baijiahao (百家号) — 时光派健康抗衰 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://baijiahao.baidu.com/s?id=1876633550786371641) · copia: `2026/ad08bc661e1e` (live) · licenza: terzi
 - **2026** · biohack.it — [BIOHACK.IT — White paper & Specification v0.1](https://biohack.it/) · copia: `2026/9760958b0e08` (Web Archive 20211225) · licenza: propria
+- **2026** · NetEase (网易号) — 时光派健康抗衰 — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾 (video, 2'35")](https://c.m.163.com/news/v/VG6GUA7FN.html) · copia: `2026/a04369ee6255` (live) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/) · copia: `2026/83c790f24f57` (Web Archive 20260410) · licenza: terzi
 - **2026** · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo) · copia: `2026/9d2f7f839015` (live) · licenza: propria
 - **2026** · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch) · copia: `2026/60f47f5d7a64` (live) · licenza: propria
@@ -1154,6 +1168,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · WeChat — 蓝图臻清健康科技 (刘清洋) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio+Pietrosanti) · copia: `2026/96fd1f8ba081` (live) · licenza: terzi
 - **2026** · 长寿科技情报站 (WeChat account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Pietrosanti%20%E9%95%BF%E5%AF%BF) · copia: `2026/338792df961c` (live) · licenza: terzi
 - **2026** · NetEase 网易号 (时光派 account) — [逆龄16岁！日吞70粒补剂、电击肌肉，月烧600欧](https://www.163.com/dy/article/L4MH165705345ZH3.html) · copia: `2026/1f9770203e17` (live) · licenza: terzi
+- **2026** · Bilibili (时光派官方) — [Riepilogo TimePie 2026 (stesso video di NetEase VG6GUA7FN)](https://www.bilibili.com/video/BV1Rwh76XEhj/) · copia: `2026/d03f8ff0254c` (live) · licenza: terzi
+- **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [现场速递！第七届国际长寿论坛的“长寿之夜”](https://www.bilibili.com/video/BV1X9YR68ETj/) · copia: `2026/3991a0a45aea` (live) · licenza: terzi
 - **2026** · Bilibili — 时光派官方 — [满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)](https://www.bilibili.com/video/BV1u5YX6JECk/) · copia: `2026/654a0b84fdd6` (live) · licenza: terzi
 - **2026** · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/) · copia: `2026/d6c235f32bf3` (Web Archive 20260604) · licenza: propria
 - **2026** · OrlandoMagazine.it — [L'utilità è il futuro. E il futuro è biohacking](https://www.orlandomagazine.it/2026/09/18/lutilita-e-il-futuro-e-il-futuro-e-biohacking/) · copia: `2026/66ee8a0d68ea` (live) · licenza: terzi

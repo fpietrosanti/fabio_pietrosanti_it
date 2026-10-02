@@ -1,7 +1,7 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-09-28**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
-Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome verificato dentro la copia,
+Aggiornato il **2026-10-02**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
 ## A0. Cose che servono da te (aggiornato 2026-09-30)
@@ -69,6 +69,16 @@ Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome 
    «Yesterday in a commitee room at Bundestag»: che evento era (audizione, workshop)? Se me lo dici cerco il programma.
    (c) **Partito Pirata, 10/07/2020**: ti candidava con Marco Calamari al collegio del Garante Privacy — vuoi che compaia nel sito?
 
+12. **Nuove (01-02/10).** (a) **Garante privacy, ottobre 2019**: CorCom del 31/10/2019 ti elenca tra i candidati al
+   collegio («Pietrosanti Fabio», voce a sé: l'esclusione del 23/09 era un mio errore di lettura, ora corretta). Confermi
+   di aver presentato la candidatura? (b) **Cena TimePie del 12/9**: nella clip Bilibili BV1X9YR68ETj (0:32) e nel
+   riepilogo NetEase/Bilibili (1:34) a tavola c'è un uomo con camicia di lino bianca e cordino rosso TimePie, di fronte a
+   uno rosso di capelli in maglietta nera: sei tu? (fotogrammi nelle copie; ho annullato l'esclusione del NetEase).
+   (c) **Bundestag 27/11/2019**: era l'audizione Linke su Assange/WikiLeaks; dal programma ufficiale non risulti tra i
+   relatori — eri tra il pubblico (con Davide Dormino?) o sei intervenuto? (d) **Pyongyang/Griffith**: trovate 13 voci
+   nuove (CoinDesk, 2600 «Off The Hook», MIT Technology Review, GQ 2022…). Ricordi altre interviste, TV o radio su quel
+   tema, magari italiane? In Italia non ho trovato **nessun** articolo che ti nomini.
+
 ## A. Problemi nella RICERCA
 
 | # | Problema | Effetto | Proposta |
@@ -101,6 +111,15 @@ Stato generale: **776 voci**; **tutte** le copie processate — 617 con il nome 
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-septies. 2026-10-02
+- Copie delle voci nuove (01-02/10) **tutte ottenute**: CorCom, baiyi.com, CoinDesk ×2, MIT TR, AMBCrypto ×2,
+  CoinReaders ×2, GQ, Medium ethex-smm, pagina e **MP3** di 2600 «Off The Hook» (trascrizione locale in `transcript.txt`).
+- **Video TimePie**: BV1X9YR68ETj e BV1Rwh76XEhj scaricati (solo in locale), fotogrammi della cena salvati
+  (`fabio_*.jpg`); copia NetEase riaperta da «esclusa» a «ottenuta» (vedi A0.12(b)).
+- **Programma Linke** del 27/11/2019 ottenuto dal Web Archive: nome assente → escluso.
+- ❌ invariate (4): PrivateWave EN/ES, Radio Monte Carlo, notizieoggi.com. Il retry e le nuove piste (CDX su
+  `privategsm.*`/`privatewave.*`) non si sono potuti fare: **Web Archive offline** (503) per gran parte della sessione.
 
 ### B0-sexies. 2026-09-30
 - Copie delle 131 voci nuove (29-30/09): **tutte ottenute** (i 119 tweet dal Web Archive, TimePie Sohu/NetEase,

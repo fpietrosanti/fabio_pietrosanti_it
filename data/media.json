@@ -37,23 +37,6 @@
   "date": null,
   "year": null,
   "type": "mentioned",
-  "outlet": "taylorsimone.substack.com",
-  "title": "Once a Bitcoin Miner",
-  "url": "https://taylorsimone.substack.com/p/once-a-bitcoin-miner",
-  "language": "it",
-  "role": "subject",
-  "note": "verified via wayback; context: …ryptocurrency related topics for Financial Post. His latest book ONCE A BITCOIN MINER is available on October 19th, 2021. You can buy a copy with Bitcoin here. Fabio Pietrosanti is an entrepreneur and technologist based …",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass3_bloomberg_nk_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": null,
-  "year": null,
-  "type": "mentioned",
   "outlet": "zeusnews.it",
   "title": "La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori",
   "url": "https://www.zeusnews.it/n.php?c=25616",
@@ -9573,6 +9556,23 @@
   "on_old_site": false
  },
  {
+  "date": "2019-10-31",
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "CorCom (Corriere Comunicazioni)",
+  "title": "Garante Privacy, 86 nuovi candidati",
+  "url": "https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/",
+  "language": "it",
+  "role": "candidate",
+  "note": "RE-REVIEW REQUEST vs decisions.json (exclude 2026-09-23). The exclusion reason ('Maria Clara Pietrosanti' followed by 'Fabio Piperno') is factually wrong: the raw HTML (fetched 2026-10-01) has separate list items «<li>Piatti Maria Clara</li><li>Pietrosanti Fabio</li><li>Piperno Matteo</li>». The article (published 2019-10-31) lists the 86 new candidacies for the Collegio del Garante privacy after the reopening of terms following the change of government (Conte II). This matches the @partitopirata tweet of 10/07/2020 (already in media.json): «Due Pirati sono candidati @calamarim Marco A. L. Calamari e @fpietrosanti Fabio Pietrosanti» for the 14/07/2020 parliamentary vote. Very likely him; needs Fabio's confirmation before overriding the exclusion.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_bundestag_pirati_radio24_2026-10-01"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019-11",
   "year": 2019,
   "type": "report",
@@ -9732,6 +9732,23 @@
   "on_old_site": false
  },
  {
+  "date": "2019-11-27",
+  "year": 2019,
+  "type": "event",
+  "outlet": "Fraktion DIE LINKE im Bundestag",
+  "title": "Öffentliche Anhörung «Medien unter Beschuss – Feldzug gegen WikiLeaks und investigativen Journalismus» (Bundestag, Marie-Elisabeth-Lüders-Haus) – attended",
+  "url": "https://www.dielinkebt.de/themen/nachrichten/detail/neuer-krieg-gegen-den-journalismus",
+  "language": "de",
+  "role": "attendee",
+  "note": "Identifies the event behind his tweet of 27/11/2019 21:53 PST (=28/11 06:53 CET) «Yesterday in a commitee room at Bundestag» (twitter.com/fpietrosanti/status/1199929402521509888, already in media.json; Wayback 20191128055753). The two attached photos (pbs.twimg.com/media/EKcBbZMWwAE-byg.jpg, EKcBbZNWkAEsmJh.jpg, recovered from Wayback) show a Bundestag hearing room with DIE LINKE banners «Medien unter Beschuss», a «FREIHEIT JULIAN ASSANGE» banner and Daniel Ellsberg on video link: this is the Linke-Fraktion public hearing of 27/11/2019 on WikiLeaks/Assange (speakers: Amira Mohamed Ali, Sevim Dağdelen, John Shipton, Nils Melzer, Renata Ávila, Kristinn Hrafnsson, Christian Mihr/RSF, Cornelia Berger/dju, John Goetz, Michael Sontheimer, Heike Hänsel, Doris Achelwilm; video Ellsberg, message Snowden; ~240 visitors). Same day Davide Dormino's «Anything to Say?» sculpture at Brandenburger Tor. Photos are taken from the public gallery: he was in the audience, NOT a speaker. His name is not on the Linke page nor on the a-fsa.de report (https://www.a-fsa.de/d/36u). Full recording https://www.youtube.com/watch?v=1-ig55rbaSY is now private. Suggest: enrich the known tweet's note/title with the event name rather than adding a separate entry.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_bundestag_pirati_radio24_2026-10-01"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019-11-28",
   "year": 2019,
   "type": "tweet",
@@ -9745,6 +9762,182 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-11-30",
+  "year": 2019,
+  "type": "article",
+  "outlet": "AMBCrypto",
+  "title": "Ethereum researcher arrested for allegedly helping North Korea evade sanctions",
+  "url": "https://eng.ambcrypto.com/ethereum-researcher-arrested-for-allegedly-helping-north-korea-evade-sanctions/",
+  "language": "en",
+  "role": "quoted (tweet)",
+  "note": "'Following news of Griffith's arrest, Fabio Pietrosanti, an entrepreneur, revealed that he had accompanied Griffith to the conference' + his tweet 'I went in North Korea with Virgil...'. Verified live 2026-10-02 (datePublished 2019-11-30).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-02",
+  "year": 2019,
+  "type": "article",
+  "outlet": "AMBCrypto Spanish",
+  "title": "Ethereum [ETH] se ve envuelto en escándalo de lavado de dinero con Corea del Norte",
+  "url": "https://es.ambcrypto.com/ethereum-eth-se-ve-envuelto-en-escandalo-de-lavado-de-dinero-con-corea-del-norte/",
+  "language": "es",
+  "role": "quoted (tweet)",
+  "note": "'Fabio Pietrosanti, un empresario, reveló que había acompañado a Griffith a la conferencia' + Spanish translation of his tweet. Verified live 2026-10-02.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "CoinDesk",
+  "title": "Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says",
+  "url": "https://www.coindesk.com/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says/",
+  "language": "en",
+  "role": "interviewed",
+  "note": "Dedicated interview piece: '\"The sanctions were not a topic at all,\" said Pietrosanti'; also 'a boring two days' and known Griffith for nearly a decade via Tor. 14 name hits. Verified live 2026-10-02 (datePublished 2019-12-03T09:00Z).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "mirrors": [
+   "https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "CoinDesk",
+  "title": "Freedom Fighter or Fool? Jury's Out on Arrested Ethereum Developer Virgil Griffith",
+  "url": "https://www.coindesk.com/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith",
+  "language": "en",
+  "role": "mentioned",
+  "note": "'another attendee, Fabio Pietrosanti, said this week that the conference did not touch the subject of sanctions evasion'. Verified live 2026-10-02.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "mirrors": [
+   "https://finance.yahoo.com/news/freedom-fighter-fool-jury-arrested-201511565.html"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "코인리더스 (CoinReaders, Korea)",
+  "title": "이더리움 핵심 개발자, 北에 암호화폐 기술 제공한 혐의로 체포…로저버, 美 정부 비난",
+  "url": "http://coinreaders.com/6114",
+  "language": "ko",
+  "role": "quoted",
+  "note": "\"버질 그리피스와 함께 북한을 방문한 것으로 알려진 이탈리아계 기업가 파비오 피에트로산티(Fabio Pietrosanti)도 증언 의사를 밝혔다\" - quoted as willing to testify, 'some misunderstanding by the authorities', in contact with Virgil's lawyer. Byline 박소현 기자, 2019/12/03 07:07 KST. Verified live 2026-10-02 (found via Naver news search).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_it_asia_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-04",
+  "year": 2019,
+  "type": "article",
+  "outlet": "百亿财经 baiyi.com",
+  "title": "朝鲜加密货币活动参与者称制裁议题未被提及",
+  "url": "https://www.baiyi.com/news/4c90c1481cc94ea0ae6c844e141b54ce.html",
+  "language": "zh",
+  "role": "quoted",
+  "note": "Chinese news on the Virgil Griffith arrest. Quote: \"曾参加平壤区块链与加密货币会议的Fabio Pietrosanti表示，制裁问题在会议上'完全不是讨论主题'\". Also paraphrases his remark that the conference was \"无聊的两天\". Not TimePie-related; it is a Chinese echo of the Pyongyang crypto conference coverage. Page timestamp 2019-12-04 23:31:28. Found via 360 search, opened 2026-10-01.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_cina_noBrowser_2026-10-01"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-04",
+  "year": 2019,
+  "type": "podcast",
+  "outlet": "2600 Off The Hook (WBAI/2600, Emmanuel Goldstein)",
+  "title": "Off The Hook, 12/04/19 - Virgil Griffith charged; Fabio Pietrosanti joins from Italy",
+  "url": "https://www.2600.com/offthehook/2019/1219.html",
+  "language": "en",
+  "role": "interviewed",
+  "note": "Episode description: 'Fabio Pietrosanti joins the conversation from Italy, how the conference in question was a relatively boring event, details of what actually went on in Pyongyang'. Verified live 2026-10-02 on the 2600 archive page.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-04",
+  "year": 2019,
+  "type": "audio",
+  "outlet": "2600 Off The Hook",
+  "title": "Off The Hook 2019-12-04 (MP3)",
+  "url": "https://www.2600.com/offthehook/mp3files/2019/off_the_hook__20191204.mp3",
+  "language": "en",
+  "role": "interviewed",
+  "note": "MP3 of the episode above, linked from the archive page. HTTP 200 (HEAD) on 2026-10-02, last-modified 2019-12-05. The audio was not listened to: his presence is attested by the episode page and by Taylor Simone (2021).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-04",
+  "year": 2019,
+  "type": "article",
+  "outlet": "코인리더스 (CoinReaders, Korea)",
+  "title": "무허가 방북으로 체포된 이더리움 개발자 '석방' 결정...재판은 받아야",
+  "url": "http://coinreaders.com/6123",
+  "language": "ko",
+  "role": "quoted",
+  "note": "Same Pietrosanti paragraph as coinreaders.com/6114 (\"파비오 피에트로산티(Fabio Pietrosanti)도 증언 의사를 밝혔다 ... 현재 버질의 변호사와 소통 중\"), follow-up on Griffith's release on bail. Byline 박소현 기자, 2019/12/04 07:10 KST. Verified live 2026-10-02.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_it_asia_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-05",
+  "year": 2019,
+  "type": "article",
+  "outlet": "MIT Technology Review",
+  "title": "A blockchain expert is accused of helping North Korea's leaders. But what would they want from him?",
+  "url": "https://www.technologyreview.com/2019/12/05/106/virgil-griffith-north-korea-ethereum/",
+  "language": "en",
+  "role": "mentioned",
+  "note": "'(Meanwhile, another attendee, Fabio Pietrosanti, recently told CoinDesk that sanctions were not discussed at the conference.)' Alias URL https://www.technologyreview.com/s/614862/virgil-griffith-north-korea-ethereum/. Verified live 2026-10-02.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_intl_2026-10-02"
   ],
   "on_old_site": false
  },
@@ -12628,6 +12821,23 @@
  {
   "date": "2020-12-01",
   "year": 2020,
+  "type": "article",
+  "outlet": "Medium (ethex-smm)",
+  "title": "The story of Virgil Griffith",
+  "url": "https://ethex-smm.medium.com/the-story-of-virgil-griffith-15bba676cc52",
+  "language": "en",
+  "role": "mentioned",
+  "note": "Search snippet says Pietrosanti 'has been friends with Griffith for ten years'. Medium returned 403 (Cloudflare), the post is not in the RSS feed and Wayback returned nothing. The date is approximate (the blog was active in late 2020). Not verified. | 2026-10-02: copia Web Archive (capture 20210928010011) ottenuta con il nome presente nel testo.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-12-01",
+  "year": 2020,
   "type": "tweet",
   "outlet": "Twitter",
   "title": "Casaleggio attacca Le Iene per l'inchiesta",
@@ -14128,6 +14338,24 @@
   "on_old_site": false
  },
  {
+  "date": "2021-10-22",
+  "year": 2021,
+  "type": "article",
+  "outlet": "Taylor Simone (Substack)",
+  "title": "Once a Bitcoin Miner",
+  "url": "https://taylorsimone.substack.com/p/once-a-bitcoin-miner",
+  "language": "en",
+  "role": "interviewed",
+  "note": "Phone interview with him on 2021-09-30: 'I called Fabio Pietrosanti'. Contains a Q&A ('FP: At the conference we were prohibited...'), a bio, and a reference to his 2019 2600 podcast appearance. 13 name hits. Verified live 2026-10-02.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_bloomberg_nk_2026-09-18",
+   "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2021-10-29",
   "year": 2021,
   "type": "book_chapter",
@@ -15157,6 +15385,23 @@
   "on_old_site": false
  },
  {
+  "date": "2022-11-24",
+  "year": 2022,
+  "type": "article",
+  "outlet": "British GQ (Peter Guest)",
+  "title": "The Pyongyang crypto caper: North Korea, crypto heists and the new front line of cybercrime",
+  "url": "https://www.gq-magazine.co.uk/politics/article/north-korea-crypto-bitcoin-cybercrime",
+  "language": "en",
+  "role": "interviewed",
+  "note": "Interviewed over Zoom in summer 2022: '\"It's one of the coolest shitty places that you really want to explore,\" Fabio Pietrosanti'. Also covers the solar-panel factory, the tokenisation flyer, and 'The only villain of the story is Alejandro'. 14 name hits. Verified live 2026-10-02. Found through Peter Guest's LinkedIn post and the GQ sitemap.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2022-12-01",
   "year": 2022,
   "type": "report",
@@ -16025,65 +16270,15 @@
   "year": 2026,
   "type": "video",
   "outlet": "Bilibili, 时光派官方 (TimePie official, UID 390367147)",
-  "title": "长寿领域正在发生什么？科研、医疗、极客、产业齐聚，一镜看遍论坛现场",
-  "url": "https://www.bilibili.com/video/BV1e2YX6tEqz/",
-  "language": "zh",
-  "role": "possible appearance in event recap (unconfirmed)",
-  "note": "TimePie Longevity Forum 2026 recap, 1:15. Day-1 one-take walkthrough explicitly including the 极客 (biohacker) track; plausible he appears in B-roll. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_cina_video_2026-09-29"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2026-09-12",
-  "year": 2026,
-  "type": "video",
-  "outlet": "Bilibili, 时光派官方 (TimePie official, UID 390367147)",
   "title": "现场速递！第七届国际长寿论坛的“长寿之夜”",
   "url": "https://www.bilibili.com/video/BV1X9YR68ETj/",
   "language": "zh",
-  "role": "possible appearance in event recap (unconfirmed)",
-  "note": "TimePie Longevity Forum 2026 recap, 1:00. Desc: 长寿科学家×永生之夜极客晚宴 (biohacker gala dinner, 12 Sept) highlights; plausible he appears. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.",
-  "verified": false,
-  "known": false,
+  "role": "appears (B-roll, 永生之夜 biohacker dinner)",
+  "note": "APPEARS at 0:31.5-0:32.8 (about 1.3 s): seated at a dinner table during the 9.12 永生之夜 biohacker closed-door dinner, talking with a red-haired man in a black T-shirt (back to camera). He wears the same white short-sleeve linen shirt and red TimePie lanyard as in his confirmed BIOHACK.IT talk the same day (BV1u5YX6JECk t0020-0021), same face and haircut. Unmistakable at 1080x1920. Not named in caption, title or description. No danmaku, no subtitles. Proof frames: C:\\Users\\admin\\AppData\\Local\\Temp\\claude\\C--Users-admin-Claude\\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\\scratchpad\\cina\\fabio_BV1X9YR68ETj_t0032.jpg, C:\\Users\\admin\\AppData\\Local\\Temp\\claude\\C--Users-admin-Claude\\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\\scratchpad\\cina\\fabio_BV1X9YR68ETj_t0031.jpg. Checked 2026-10-01.",
+  "verified": true,
+  "known": true,
   "_slices": [
-   "pass4_cina_video_2026-09-29"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2026-09-12",
-  "year": 2026,
-  "type": "video",
-  "outlet": "Bilibili, 时光派官方 (TimePie official, UID 390367147)",
-  "title": "第七届国际长寿论坛今日启幕！前沿观点集中亮相，现场直击",
-  "url": "https://www.bilibili.com/video/BV1YtY96bEhr/",
-  "language": "zh",
-  "role": "possible appearance in event recap (unconfirmed)",
-  "note": "TimePie Longevity Forum 2026 recap, 1:38. Day-1 recap of speakers' key points. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_cina_video_2026-09-29"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2026-09-12",
-  "year": 2026,
-  "type": "video",
-  "outlet": "Bilibili, 时光派官方 (TimePie official, UID 390367147)",
-  "title": "论坛现场座无虚席！第七届国际长寿论坛火热启幕，这条视频带你速览首日精彩画面",
-  "url": "https://www.bilibili.com/video/BV1w8YX6uENN/",
-  "language": "zh",
-  "role": "possible appearance in event recap (unconfirmed)",
-  "note": "TimePie Longevity Forum 2026 recap, 0:57. Day-1 highlights. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.",
-  "verified": false,
-  "known": false,
-  "_slices": [
+   "pass4_cina_noBrowser_2026-10-01",
    "pass4_cina_video_2026-09-29"
   ],
   "on_old_site": false
@@ -16140,19 +16335,19 @@
   "on_old_site": false
  },
  {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "year": 2026,
   "type": "video",
-  "outlet": "Bilibili, 时光派官方 (TimePie official, UID 390367147)",
-  "title": "两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕",
-  "url": "https://www.bilibili.com/video/BV1SJYe6AEXo/",
+  "outlet": "Bilibili (时光派官方)",
+  "title": "Riepilogo TimePie 2026 (stesso video di NetEase VG6GUA7FN)",
+  "url": "https://www.bilibili.com/video/BV1Rwh76XEhj/",
   "language": "zh",
-  "role": "possible appearance in event recap (unconfirmed)",
-  "note": "TimePie Longevity Forum 2026 recap, 2:09. Two-day closing recap of speakers' points. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.",
+  "role": "appears",
+  "note": "2026-10-01: stesso montaggio del riepilogo NetEase VG6GUA7FN, dove a 1:33.7-1:34.8 Fabio compare nella scena della cena (投资人与生物极客). Questa copia Bilibili non è stata scaricata né vista: da verificare a vista.",
   "verified": false,
   "known": false,
   "_slices": [
-   "pass4_cina_video_2026-09-29"
+   "pass4_cina_noBrowser_2026-10-01"
   ],
   "on_old_site": false
  },
@@ -16237,6 +16432,24 @@
   "verified": true,
   "known": false,
   "_slices": [
+   "pass4_cina_wechat_weibo_2026-09-29"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-09-22",
+  "year": 2026,
+  "type": "video",
+  "outlet": "NetEase 网易 (时光派 account)",
+  "title": "七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾",
+  "url": "https://c.m.163.com/news/v/VG6GUA7FN.html",
+  "language": "zh",
+  "role": "appears (B-roll, 永生之夜 biohacker dinner)",
+  "note": "CONTRADICTS the 2026-09-30 exclusion in decisions.json. Downloaded in full (m3u8 from www.163.com/v/video/VG6GUA7FN.html, 1080x1920, 2:35) and checked 155 frames: the 生物极客闭门论坛 segment (1:09-1:12) shows other speakers and audience, not Fabio, as the earlier run said. BUT at 1:33.7-1:34.8 the 永生之夜 dinner B-roll reuses the shot from BV1X9YR68ETj: Fabio seated at a table in the white linen shirt with the red lanyard, under the caption 科学家 医生 企业家 / 投资人与生物极客. Not named. Proof frame: C:\\Users\\admin\\AppData\\Local\\Temp\\claude\\C--Users-admin-Claude\\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\\scratchpad\\cina\\fabio_VG6GUA7FN_t0094.jpg. The decisions.json note says Bilibili BV1Rwh76XEhj is the same video (not re-downloaded here). The exclusion needs Fabio's review. Checked 2026-10-01.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_cina_noBrowser_2026-10-01",
    "pass4_cina_wechat_weibo_2026-09-29"
   ],
   "on_old_site": false

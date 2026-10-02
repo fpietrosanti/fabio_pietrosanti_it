@@ -188,6 +188,11 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   video WeChat, Weibo, Xiaohongshu, Toutiao (servono login/browser: il Chrome di Fabio era disconnesso); ricerca 360
   (so.com) da riprovare con «Pietrosanti 抗衰» e la grafia cinese; 5 clip Bilibili del forum principale non viste
   fotogramma per fotogramma (improbabile che ci sia); registrazione integrale da chiedere a TimePie.
+  **Passate 2026-10-01/02 (`pass4_cina_noBrowser`, senza Chrome):** le 5 clip Bilibili viste a 1 fotogramma/s →
+  Fabio **compare** nella cena «永生之夜» del 12/9 (BV1X9YR68ETj, 0:31.5-0:32.8) e quindi anche nel riepilogo NetEase
+  VG6GUA7FN / Bilibili BV1Rwh76XEhj (1:33.7-1:34.8, stessa scena: **esclusione del 30/09 annullata**); non compare in
+  BV1e2YX6tEqz, BV1YtY96bEhr, BV1w8YX6uENN, BV1SJYe6AEXo (escluse). Fotogrammi salvati nelle copie. Chrome ancora non
+  raggiungibile in navigazione il 02/10: Douyin, Weibo, canali video WeChat, Xiaohongshu restano da fare.
 - [ ] **Progetti mai partiti da documentare** (segnalati da Fabio 18/09): OSSCI – Osservatorio sicurezza dello spazio
   cibernetico italiano (Telegram + documento di specifica, anno da trovare); COVID mappatura focolai con dati di cella;
   COVID vulnerabilità app della Regione Lazio con Giovanni Rocca. Query in coda; cercare anche su Telegram (t.me), GitHub,
@@ -219,6 +224,8 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Key4biz, Punto Informatico, Open, AGI, Cybersecurity360…) → nessuna menzione nuova. **Escluso** Radio Digiesse 17/04/2020
   (omonimo calabrese). **Resta solo:** puntata Radio 24 «Coronavirus e tecnologia: dati, app, GPS» (marzo 2020, ospiti
   caricati via JavaScript, nessuna capture) e i 2 post Facebook (servono login).
+  **2026-10-01:** puntata Radio 24 del 13/03/2020 letta dal JSON dell'episodio → ospiti Quarteroni, Bonannini e altri,
+  **non Fabio** (esclusa). **Resta solo** il testo dei 2 post Facebook, che solo Fabio può fornire.
 - [ ] Foto del «生物极客闭门论坛» nell'articolo WeChat ufficiale TimePie del 12/9: salvarle nell'archivio.
 - [ ] Video ufficiali TimePie: Fabio avviserà quando pubblicati → scaricarli e archiviarli.
 - [x] **Progetto AIRE — fatto il 2026-09-25** (`pass4_aire_voto_estero`, +27 voci, 9 verificate). Non un progetto
@@ -245,8 +252,35 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [x] **infosecurity.ch — fatto il 2026-09-29**: confrontato il sito ripristinato (`infosecurity-ch/site`, 76 post
   2007-2017) con `media.json`: mancava solo «Low Liability - Reduced Abuses Tor Exit Nodes» (10/06/2017), ora aggiunto;
   il post del 17/09/2026 sul ripristino non è una pubblicazione esterna.
+- [ ] **Pyongyang 2019 / caso Virgil Griffith** (lacuna aperta il 2026-10-02: in archivio c'erano solo Bloomberg, The
+  Walrus, Medium e il libro di Lou). **Passata 2026-10-02 (`pass4_pyongyang_intl`, `pass4_pyongyang_it_asia`) → +13 voci
+  verificate:** CoinDesk 03/12/2019 **intervista** («The sanctions were not a topic at all», «a boring two days») e
+  «Freedom Fighter or Fool?» (+ ripresa Yahoo Finance), MIT Technology Review 05/12/2019, AMBCrypto EN/ES (tweet),
+  **2600 «Off The Hook» 04/12/2019** (in diretta dall'Italia; pagina + MP3, trascrizione locale), CoinReaders (Corea)
+  03 e 04/12/2019, Medium ethex-smm (copia Web Archive), Substack Taylor Simone 2021 (intervista telefonica 30/09/2021),
+  **British GQ 24/11/2022** (Peter Guest, lunga intervista); in più baiyi.com (Cina, 04/12/2019, dalla run del 01/10).
+  **Negativi:** atti US v. Griffith (CourtListener: nessuna occorrenza; l'udienza del 30/12/2019 cita Hermes per Tor2web,
+  non lui), Cointelegraph, Newsweek, IEEE Spectrum, heise, Daily Beast, NBC, Decrypt, Vice, stampa spagnola su Cao de
+  Benós; **stampa italiana: zero** (25 testate); giapponese zero; cinese solo baiyi.
+  **Resta:** l'originale cinese ripreso da baiyi (8btc/Jinse/Odaily: ricerca solo nel browser); GDELT (rate limit) per
+  aprile 2019, patteggiamento 2021 e condanna 2022; archivi Reuters/AP/AFP, Bloomberg news dic. 2019, NYT/WaPo/Guardian/
+  BBC/Wired, El País/El Mundo/ABC, Yonhap/Chosun; Japan Times, UPI, Forbes, France24 (anti-bot); i suoi tweet di aprile
+  e nov–dic 2019 (Web Archive offline/limitato il 02/10); CoinDesk Japan (traduzione dell'intervista?); TV e video.
 
-## Note sessione 2026-09-30
+## Note sessione 2026-10-02
+- **923 voci** in `data/media.json` (809 verificate): +1 dai file grezzi del 01/10 (la run si era fermata prima di merge e
+  commit: CorCom 31/10/2019 candidatura al Garante privacy **riammessa** — l'esclusione del 23/09 era un errore di
+  lettura —, baiyi.com, clip TimePie risolte), +13 Pyongyang/Griffith, −1 programma Linke; esclusi 25 negativi con
+  motivo in `decisions.json` (Radio 24 13/03/2020, comunicato Partito Pirata, stampa senza nome).
+- **Scelta della voce:** le voci aperte prima in coda sono tutte bloccate (Chrome non naviga, chiavi API, risposte di
+  Fabio), quindi la run ha aperto e lavorato la lacuna «Pyongyang 2019 / Griffith», più il seguito Bundestag/Garante.
+- **Bundestag 27/11/2019 chiuso:** l'audizione Linke «Medien unter Beschuss» (Assange/WikiLeaks); dal programma
+  ufficiale (Wayback 14/11/2019) Fabio **non è relatore**; i video sono privati o rimossi. Resta solo il suo tweet.
+- **Garante privacy 2019:** l'unica fonte resta CorCom (+ tweet @partitopirata 2020). Elenco ufficiale della Camera
+  (`camera.it/leg18/1372`, capture 06/03/2020) **da leggere** quando il Web Archive risponde.
+- **Web Archive** offline a intermittenza tutta la mattina (503 «Temporarily Offline», e per un'ora l'IP è stato
+  segnalato come «bot»): le prossime run devono limitare le richieste a raffica.
+
 - **Seconda esecuzione (iniziata il 29/09, finita il 30/09):** i suoi file grezzi erano già stati uniti dalla
   sessione del 30/09. In più: **911 voci** (+5 clip Bilibili TimePie candidate, non verificate: nome assente nei
   metadati; tolta BV1Rwh76XEhj = video NetEase già escluso); corrette le etichette BV1u5/BV1M7 in `decisions.json`;

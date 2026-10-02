@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1167**; dopo deduplica: **911**
+- Risultati grezzi dalle ricerche: **1216**; dopo deduplica: **923**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 876**
-- Verificati aprendo la pagina: **794**; solo da risultato di ricerca: **117**
+- **Nuovi rispetto al vecchio sito: 888**
+- Verificati aprendo la pagina: **809**; solo da risultato di ricerca: **114**
 
-Per tipo (nuovi): Menzionato 146, tweet 106, Talk 76, Post sul blog infosecurity.ch 71, Video 65, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, social 22, Articolo scritto 20, documento 18, Report 18, Comunicato 17, articolo 12, Slide 11, article 11, Podcast 10, Paper 9, TV 9, Capitolo di libro 6, Intervista 6, village 5, pagina 5, Brevetto 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, web 1, audio 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
+Per tipo (nuovi): Menzionato 146, tweet 106, Talk 76, Post sul blog infosecurity.ch 71, Video 63, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, article 22, social 22, Articolo scritto 20, documento 18, Report 18, Comunicato 17, articolo 12, Slide 11, Podcast 11, Paper 9, TV 9, Capitolo di libro 6, Intervista 6, village 5, pagina 5, Brevetto 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, audio 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, web 1, Audizione 1, event 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
 
 ### Copertura per anno
 
@@ -37,19 +37,21 @@ Per tipo (nuovi): Menzionato 146, tweet 106, Talk 76, Post sul blog infosecurity
 | 2016 | 0 | 22 | 22 |
 | 2017 | 0 | 71 | 71 |
 | 2018 | 0 | 69 | 69 |
-| 2019 | 0 | 35 | 35 |
-| 2020 | 0 | 170 | 170 |
-| 2021 | 0 | 76 | 76 |
-| 2022 | 0 | 58 | 58 |
+| 2019 | 0 | 47 | 47 |
+| 2020 | 0 | 171 | 171 |
+| 2021 | 0 | 77 | 77 |
+| 2022 | 0 | 59 | 59 |
 | 2023 | 0 | 11 | 11 |
 | 2024 | 0 | 7 | 7 |
 | 2025 | 0 | 9 | 9 |
-| 2026 | 0 | 33 | 33 |
+| 2026 | 0 | 31 | 31 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 33 voci, 33 nuove
+## 2026 — 31 voci, 31 nuove
 
+- 🆕 **2026-09-22** · Video · NetEase 网易 (时光派 account) — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾](https://c.m.163.com/news/v/VG6GUA7FN.html)  
+  CONTRADICTS the 2026-09-30 exclusion in decisions.json. Downloaded in full (m3u8 from www.163.com/v/video/VG6GUA7FN.html, 1080x1920, 2:35) and checked 155 frames: the 生物极客闭门论坛 segment (1:09-1:12) shows other speakers and audience, not Fabio, as the earlier run said. BUT at 1:33.7-1:34.8 the 永生之夜 dinner B-roll reuses the shot from BV1X9YR68ETj: Fabio seated at a table in the white linen shirt with the red lanyard, under the caption 科学家 医生 企业家 / 投资人与生物极客. Not named. Proof frame: C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_VG6GUA7FN_t0094.jpg. The decisions.json note says Bilibili BV1Rwh76XEhj is the same video (not re-downloaded here). The exclusion needs Fabio's review. Checked 2026-10-01.
 - 🆕 **2026-09-21** · Menzionato · Sohu (搜狐号) — 时光派 — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 / 第七届国际长寿论坛整体回顾](https://www.sohu.com/a/1078945684_100270039)  
   Permanent Sohu copy of the TimePie official recap (datePublished 2026-09-21 19:30, author 时光派). Contains: '此次生物极客闭门论坛邀请到了国际长寿峰会联合创始人Jose Cordeiro、资深生物极客Dave Pascoe、开源抗衰数据平台开发者Fabio Pietrosanti、抗衰疗法探索者Brian M. Delaney、科伦药业董事长刘革新先生等6位来自不同领域的国际顶尖极客'. Closed-forum photos (7, right after that paragraph): https://q3.itc.cn/images01/20260921/aef08be3ef8847f9ac0630923e7a7794.jpeg https://q9.itc.cn/images01/20260921/6dec72d941e6447e97740cf0d46186d0.jpeg https://q0.itc.cn/images01/20260921/c6b474c1af734dbbb31c6255ba9fe8cb.jpeg https://q8.itc.cn/images01/20260921/3f8ae0a012904c7cbd4b2cf23d069599.jpeg https://q2.itc.cn/images01/20260921/30c39c26c81649f3b8a9f5f3745c06cf.jpeg https://q2.itc.cn/images01/20260921/93a8f693dc0145248d25eb988bc64a8f.jpeg https://q0.itc.cn/images01/20260921/e861ff43363540e7b4b382793f602865.jpeg . Verified 2026-09-29 (page fetched, name present). Found via Baidu (result for 'Pietrosanti 时光派').
 - 🆕 **2026-09-20** · Menzionato · WeChat — 时光派 (official) — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 / 第七届国际长寿论坛整体回顾](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91%E8%80%85)  
@@ -60,12 +62,12 @@ Anni senza nessun risultato: nessuno
   Michele Pastore, reportage dal TimePie Longevity Forum di Shanghai: «Sul palco Fabio Pietrosanti, biohacking famoso in Italia, ha parlato del suo metodo innovativo di biohacking» (con Linda J. Kenney, Mechanobiologics). Pagina aperta e verificata il 2026-09-29.
 - 🆕 **2026-09-16** · Progetto · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)  
   Old blog of infosecurity.ch (restoration)
+- 🆕 **2026-09-14** · Video · Bilibili (时光派官方) — [Riepilogo TimePie 2026 (stesso video di NetEase VG6GUA7FN)](https://www.bilibili.com/video/BV1Rwh76XEhj/) _(non verificato)_  
+  2026-10-01: stesso montaggio del riepilogo NetEase VG6GUA7FN, dove a 1:33.7-1:34.8 Fabio compare nella scena della cena (投资人与生物极客). Questa copia Bilibili non è stata scaricata né vista: da verificare a vista.
 - 🆕 **2026-09-13** · Menzionato · 刘清洋 (WeChat account) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio%20Pietrosanti)  
   Chinese recap of 7th TimePie forum; lists 开源抗衰数据平台开发者Fabio Pietrosanti at the 生物极客闭门论坛 (article opened and verified)
 - 🆕 **2026-09-13** · Menzionato · WeChat — 蓝图臻清健康科技 (刘清洋) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio+Pietrosanti)  
   WeChat article (temporary link via Sogou search, biz MzYzNzMyODg1MQ==): 'Fabio Pietrosanti, developer of an open-source anti-aging data platform' among the guests of the closed-door biohacker forum (生物极客闭门论坛), 12 Sept 2026 afternoon. Read in Fabio's Chrome 2026-09-18.
-- 🆕 **2026-09-13** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕](https://www.bilibili.com/video/BV1SJYe6AEXo/) _(non verificato)_  
-  TimePie Longevity Forum 2026 recap, 2:09. Two-day closing recap of speakers' points. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.
 - 🆕 **2026-09-12** · Menzionato · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0)  
   Forum day-1 recap: Biogeek closed-door sub-forum guests incl. 开源抗衰数据平台开发者Fabio Pietrosanti. WeChat article; only temporary signed links exist, URL is the Sogou WeChat search that surfaces it
 - 🆕 **2026-09-12** · Menzionato · 长寿科技情报站 (WeChat account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Pietrosanti%20%E9%95%BF%E5%AF%BF)  
@@ -76,14 +78,8 @@ Anni senza nessun risultato: nessuno
   Day-1 report: closed-door biohacker forum guests incl. 'open-source anti-aging data platform developer Fabio Pietrosanti'; includes a photo gallery of the closed forum (images not yet saved). Temporary WeChat link, found via Sogou.
 - 🆕 **2026-09-12** · Menzionato · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 / 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-12-repost) _(non verificato)_  
   Repost of the TimePie day-1 report by 长寿科技情报站; same mention. Found via Sogou.
-- 🆕 **2026-09-12** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [长寿领域正在发生什么？科研、医疗、极客、产业齐聚，一镜看遍论坛现场](https://www.bilibili.com/video/BV1e2YX6tEqz/) _(non verificato)_  
-  TimePie Longevity Forum 2026 recap, 1:15. Day-1 one-take walkthrough explicitly including the 极客 (biohacker) track; plausible he appears in B-roll. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.
-- 🆕 **2026-09-12** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [现场速递！第七届国际长寿论坛的“长寿之夜”](https://www.bilibili.com/video/BV1X9YR68ETj/) _(non verificato)_  
-  TimePie Longevity Forum 2026 recap, 1:00. Desc: 长寿科学家×永生之夜极客晚宴 (biohacker gala dinner, 12 Sept) highlights; plausible he appears. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.
-- 🆕 **2026-09-12** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [第七届国际长寿论坛今日启幕！前沿观点集中亮相，现场直击](https://www.bilibili.com/video/BV1YtY96bEhr/) _(non verificato)_  
-  TimePie Longevity Forum 2026 recap, 1:38. Day-1 recap of speakers' key points. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.
-- 🆕 **2026-09-12** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [论坛现场座无虚席！第七届国际长寿论坛火热启幕，这条视频带你速览首日精彩画面](https://www.bilibili.com/video/BV1w8YX6uENN/) _(non verificato)_  
-  TimePie Longevity Forum 2026 recap, 0:57. Day-1 highlights. Checked 2026-09-30 via Bilibili search API + video page __INITIAL_STATE__: title/description/tags do not mention Fabio Pietrosanti/naif/biohack.it; no CC/AI subtitles exposed without login. Appearance only determinable by watching -> verified false. | 2026-09-30: candidate only, the 09-30 run did not watch it frame by frame; he is not named in metadata.
+- 🆕 **2026-09-12** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [现场速递！第七届国际长寿论坛的“长寿之夜”](https://www.bilibili.com/video/BV1X9YR68ETj/)  
+  APPEARS at 0:31.5-0:32.8 (about 1.3 s): seated at a dinner table during the 9.12 永生之夜 biohacker closed-door dinner, talking with a red-haired man in a black T-shirt (back to camera). He wears the same white short-sleeve linen shirt and red TimePie lanyard as in his confirmed BIOHACK.IT talk the same day (BV1u5YX6JECk t0020-0021), same face and haircut. Unmistakable at 1080x1920. Not named in caption, title or description. No danmaku, no subtitles. Proof frames: C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_BV1X9YR68ETj_t0032.jpg, C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_BV1X9YR68ETj_t0031.jpg. Checked 2026-10-01.
 - 🆕 **2026-09-12** · Talk · 7th TimePie Longevity Forum, Shanghai (Biohacker Sub-forum) — [Biohack.It - Open Software for Structured Human Self-Experimentation](https://www.timepielongevityforum.com/2026agenda)  
   15:40-16:05 slot, listed as Biohacker / Tech Entrepreneur
 - 🆕 **2026-09-11** · Menzionato · WeChat — 时光派 (official) — [第七届国际长寿论坛明日启幕！顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-11)  
@@ -180,10 +176,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 
-## 2022 — 58 voci, 58 nuove
+## 2022 — 59 voci, 59 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
+- 🆕 **2022-11-24** · article · British GQ (Peter Guest) — [The Pyongyang crypto caper: North Korea, crypto heists and the new front line of cybercrime](https://www.gq-magazine.co.uk/politics/article/north-korea-crypto-bitcoin-cybercrime)  
+  Interviewed over Zoom in summer 2022: '"It's one of the coolest shitty places that you really want to explore," Fabio Pietrosanti'. Also covers the solar-panel factory, the tokenisation flyer, and 'The only villain of the story is Alejandro'. 14 name hits. Verified live 2026-10-02. Found through Peter Guest's LinkedIn post and the GQ sitemap.
 - 🆕 **2022-11-15** · documento · Ordine degli Ingegneri della Provincia di Catania - Verbale del Consiglio n. 41 del 15/11/2022 — [Verbale n. 41 del Consiglio dell'Ordine degli Ingegneri della provincia di Catania (punto su MonitoraPA)](https://ording.ct.it/wp-content/uploads/2023/11/VERBALE_41_151122.pdf)  
   Verbale ufficiale di un ente pubblico non economico: '-Fondatore Monitora Pa - Fabio Pietrosanti - segnalazione di illecito utilizzo di servizi che comportano il trasferimento di dati negli U.S.A. nel sito www.ording.ct.it e conseguente invito a risolvere la violazione del Regolamento Europeo 2016/679 (GDPR)'. Effetto documentato della campagna MonitoraPA su un ordine professionale.
 - 🆕 **2022-10-26** · Menzionato · Agenda Digitale — [Il FOIA di MonitoraPA: la risposta dell'Avvocatura al Ministero dell'Istruzione](https://www.agendadigitale.eu/sicurezza/privacy/il-foia-di-monitorapa-la-risposta-dellavvocatura-al-ministero-dellistruzione/)  
@@ -299,10 +297,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Talk · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)  
   Investigative journalism festival speaker page
 
-## 2021 — 76 voci, 76 nuove
+## 2021 — 77 voci, 77 nuove
 
 - 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Anthology (probably reprints the Mann chapter). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing. Retrieved 17 March 2019, https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html'.
+- 🆕 **2021-10-22** · article · Taylor Simone (Substack) — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner)  
+  Phone interview with him on 2021-09-30: 'I called Fabio Pietrosanti'. Contains a Q&A ('FP: At the conference we were prohibited...'), a bio, and a reference to his 2019 2600 podcast appearance. 13 name hits. Verified live 2026-10-02.
 - 🆕 **2021-08-03** · articolo · il Giornale — ["Tutta Italia è vulnerabile, servono investimenti"](https://www.ilgiornale.it/news/politica/tutta-italia-vulnerabile-servono-investimenti-1966600.html) _(non verificato)_  
   Intervista (Luca Fazzo) sull'attacco ransomware alla Regione Lazio dell'agosto 2021; l'intervistato ricorda che a marzo 2020 'un ricercatore italiano' aveva messo a nudo gravi vulnerabilità nel backend di LAZIOdrCOVID. Pagina aperta: nome assente (né Rocca né Pietrosanti).
 - 🆕 **2021-07-22** · tweet · Twitter — [L'imbarazzante risposta di Brescia a Luca De Biase sul voto via internet](https://twitter.com/fpietrosanti/status/1418257150024065031)  
@@ -454,7 +454,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 170 voci, 170 nuove
+## 2020 — 171 voci, 171 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -476,6 +476,8 @@ Anni senza nessun risultato: nessuno
   Evidence archive by fpietrosanti after the deletion of ifuriosi.it; summarised in Il Riformista
 - 🆕 **2020-12-03** · tweet · Twitter — [Segnalazione violazione Linee Guida Riuso da parte della Funzione Pubblica (ParteciPA/Decidim)](https://twitter.com/fpietrosanti/status/1334600056536788992)  
   Testo: «[ITA] Effettuata segnalazione in data odierna in relazione alla Violazione delle Linee Guida Acquisizione e Riuso del Software da parte del Dipartimento della Funzione Pubblica  https://t.co/Hc14sM9bAV» Link: https://forum.italia.it/t/violazione-linee-guida-riuso-funzione-pubblica-con-partecipa/. Wayback capture 20201203210731 (id_) di twitter.com/fpietrosanti/status/1334600056536788992.
+- 🆕 **2020-12-01** · article · Medium (ethex-smm) — [The story of Virgil Griffith](https://ethex-smm.medium.com/the-story-of-virgil-griffith-15bba676cc52)  
+  Search snippet says Pietrosanti 'has been friends with Griffith for ten years'. Medium returned 403 (Cloudflare), the post is not in the RSS feed and Wayback returned nothing. The date is approximate (the blog was active in late 2020). Not verified. | 2026-10-02: copia Web Archive (capture 20210928010011) ottenuta con il nome presente nel testo.
 - 🆕 **2020-12-01** · tweet · Twitter — [Casaleggio attacca Le Iene per l'inchiesta](https://twitter.com/fpietrosanti/status/1333820090622611456)  
   Testo: «[ITA] Davide Casaleggio attacca Le Iene per l’inchiesta in onda questa sera alle ore 21.10  https://t.co/qHVR9jwoda» Link: https://www.iene.mediaset.it/2020/news/davide-casaleggio-attacca-iene-lavoro_943072.shtml. Wayback capture 20201201173353 (id_) di twitter.com/fpietrosanti/status/1333820090622611456.
 - 🆕 **2020-12** · Citato · Il Riformista — [Cinquestellopoli, ecco cosa faceva Casaleggio con i soldi di Philip Morris](https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/) _(non verificato)_  
@@ -797,7 +799,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 35 voci, 35 nuove
+## 2019 — 47 voci, 47 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -809,8 +811,30 @@ Anni senza nessun risultato: nessuno
   Tweet di @e_pagliarini che menziona @fpietrosanti. Testo: «@gloquenzi @_nicolasap @CionnRatz @raistolo @pdnetwork Chi ha dubbi sul voto elettronico si riascolti queste due puntate di 2024. Con @lastknight e @fpietrosanti. Poi un giorno facciamo la terza con @raistolo. Che pazienza. https://t.co/6jDLVAjnlv  https://t.co/pwdPOSjNUF» Wayback capture 20200828100406 (id_) di twitter.com/fpietrosanti/status/1299286481517735941. La capture reindirizza a https://twitter.com/e_pagliarini/status/1204842053374484485.
 - 🆕 **2019-12-11** · Podcast · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397)  
   S1E117 with Peter Fleming (UTS) on digital whistleblowing infrastructure
+- 🆕 **2019-12-05** · article · MIT Technology Review — [A blockchain expert is accused of helping North Korea's leaders. But what would they want from him?](https://www.technologyreview.com/2019/12/05/106/virgil-griffith-north-korea-ethereum/)  
+  '(Meanwhile, another attendee, Fabio Pietrosanti, recently told CoinDesk that sanctions were not discussed at the conference.)' Alias URL https://www.technologyreview.com/s/614862/virgil-griffith-north-korea-ethereum/. Verified live 2026-10-02.
+- 🆕 **2019-12-04** · article · 百亿财经 baiyi.com — [朝鲜加密货币活动参与者称制裁议题未被提及](https://www.baiyi.com/news/4c90c1481cc94ea0ae6c844e141b54ce.html)  
+  Chinese news on the Virgil Griffith arrest. Quote: "曾参加平壤区块链与加密货币会议的Fabio Pietrosanti表示，制裁问题在会议上'完全不是讨论主题'". Also paraphrases his remark that the conference was "无聊的两天". Not TimePie-related; it is a Chinese echo of the Pyongyang crypto conference coverage. Page timestamp 2019-12-04 23:31:28. Found via 360 search, opened 2026-10-01.
+- 🆕 **2019-12-04** · Podcast · 2600 Off The Hook (WBAI/2600, Emmanuel Goldstein) — [Off The Hook, 12/04/19 - Virgil Griffith charged; Fabio Pietrosanti joins from Italy](https://www.2600.com/offthehook/2019/1219.html)  
+  Episode description: 'Fabio Pietrosanti joins the conversation from Italy, how the conference in question was a relatively boring event, details of what actually went on in Pyongyang'. Verified live 2026-10-02 on the 2600 archive page.
+- 🆕 **2019-12-04** · audio · 2600 Off The Hook — [Off The Hook 2019-12-04 (MP3)](https://www.2600.com/offthehook/mp3files/2019/off_the_hook__20191204.mp3)  
+  MP3 of the episode above, linked from the archive page. HTTP 200 (HEAD) on 2026-10-02, last-modified 2019-12-05. The audio was not listened to: his presence is attested by the episode page and by Taylor Simone (2021).
+- 🆕 **2019-12-04** · article · 코인리더스 (CoinReaders, Korea) — [무허가 방북으로 체포된 이더리움 개발자 '석방' 결정...재판은 받아야](http://coinreaders.com/6123)  
+  Same Pietrosanti paragraph as coinreaders.com/6114 ("파비오 피에트로산티(Fabio Pietrosanti)도 증언 의사를 밝혔다 ... 현재 버질의 변호사와 소통 중"), follow-up on Griffith's release on bail. Byline 박소현 기자, 2019/12/04 07:10 KST. Verified live 2026-10-02.
+- 🆕 **2019-12-03** · article · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://www.coindesk.com/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says/)  
+  Dedicated interview piece: '"The sanctions were not a topic at all," said Pietrosanti'; also 'a boring two days' and known Griffith for nearly a decade via Tor. 14 name hits. Verified live 2026-10-02 (datePublished 2019-12-03T09:00Z).
+- 🆕 **2019-12-03** · article · CoinDesk — [Freedom Fighter or Fool? Jury's Out on Arrested Ethereum Developer Virgil Griffith](https://www.coindesk.com/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith)  
+  'another attendee, Fabio Pietrosanti, said this week that the conference did not touch the subject of sanctions evasion'. Verified live 2026-10-02.
+- 🆕 **2019-12-03** · article · 코인리더스 (CoinReaders, Korea) — [이더리움 핵심 개발자, 北에 암호화폐 기술 제공한 혐의로 체포…로저버, 美 정부 비난](http://coinreaders.com/6114)  
+  "버질 그리피스와 함께 북한을 방문한 것으로 알려진 이탈리아계 기업가 파비오 피에트로산티(Fabio Pietrosanti)도 증언 의사를 밝혔다" - quoted as willing to testify, 'some misunderstanding by the authorities', in contact with Virgil's lawyer. Byline 박소현 기자, 2019/12/03 07:07 KST. Verified live 2026-10-02 (found via Naver news search).
+- 🆕 **2019-12-02** · article · AMBCrypto Spanish — [Ethereum [ETH] se ve envuelto en escándalo de lavado de dinero con Corea del Norte](https://es.ambcrypto.com/ethereum-eth-se-ve-envuelto-en-escandalo-de-lavado-de-dinero-con-corea-del-norte/)  
+  'Fabio Pietrosanti, un empresario, reveló que había acompañado a Griffith a la conferencia' + Spanish translation of his tweet. Verified live 2026-10-02.
+- 🆕 **2019-11-30** · article · AMBCrypto — [Ethereum researcher arrested for allegedly helping North Korea evade sanctions](https://eng.ambcrypto.com/ethereum-researcher-arrested-for-allegedly-helping-north-korea-evade-sanctions/)  
+  'Following news of Griffith's arrest, Fabio Pietrosanti, an entrepreneur, revealed that he had accompanied Griffith to the conference' + his tweet 'I went in North Korea with Virgil...'. Verified live 2026-10-02 (datePublished 2019-11-30).
 - 🆕 **2019-11-28** · tweet · Twitter — [Bundestag committee room (hint of appearance)](https://twitter.com/fpietrosanti/status/1199929402521509888)  
   Testo: «Yesterday in a commitee room at Bundestag» Wayback capture 20191128055753 (id_) di twitter.com/fpietrosanti/status/1199929402521509888.
+- 🆕 **2019-11-27** · event · Fraktion DIE LINKE im Bundestag — [Öffentliche Anhörung «Medien unter Beschuss – Feldzug gegen WikiLeaks und investigativen Journalismus» (Bundestag, Marie-Elisabeth-Lüders-Haus) – attended](https://www.dielinkebt.de/themen/nachrichten/detail/neuer-krieg-gegen-den-journalismus) _(non verificato)_  
+  Identifies the event behind his tweet of 27/11/2019 21:53 PST (=28/11 06:53 CET) «Yesterday in a commitee room at Bundestag» (twitter.com/fpietrosanti/status/1199929402521509888, already in media.json; Wayback 20191128055753). The two attached photos (pbs.twimg.com/media/EKcBbZMWwAE-byg.jpg, EKcBbZNWkAEsmJh.jpg, recovered from Wayback) show a Bundestag hearing room with DIE LINKE banners «Medien unter Beschuss», a «FREIHEIT JULIAN ASSANGE» banner and Daniel Ellsberg on video link: this is the Linke-Fraktion public hearing of 27/11/2019 on WikiLeaks/Assange (speakers: Amira Mohamed Ali, Sevim Dağdelen, John Shipton, Nils Melzer, Renata Ávila, Kristinn Hrafnsson, Christian Mihr/RSF, Cornelia Berger/dju, John Goetz, Michael Sontheimer, Heike Hänsel, Doris Achelwilm; video Ellsberg, message Snowden; ~240 visitors). Same day Davide Dormino's «Anything to Say?» sculpture at Brandenburger Tor. Photos are taken from the public gallery: he was in the audience, NOT a speaker. His name is not on the Linke page nor on the a-fsa.de report (https://www.a-fsa.de/d/36u). Full recording https://www.youtube.com/watch?v=1-ig55rbaSY is now private. Suggest: enrich the known tweet's note/title with the event name rather than adding a separate entry.
 - 🆕 **2019-11-21** · Menzionato · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/)  
   verified via wayback; context: …o: il voto elettronico non è una “sfida” e non è “il futuro”. Il voto elettronico è una sciocchezza, e chi la propone evidentemente non ne capisce i problemi». Fabio Pietrosanti, consulente per la sicurezza informatica, …
 - 🆕 **2019-11-21** · articolo · La Nuova di Venezia (gelocal, ripresa de La Stampa) — [Manovra, il M5S propone soldi per il fantasma del voto elettronico](https://nuovavenezia.gelocal.it/italia-mondo/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928390/amp/)  
@@ -829,6 +853,8 @@ Anni senza nessun risultato: nessuno
   Org creata 2019-11-12, 1 solo repo pubblico; descrizione rimanda al Google Doc, campo blog al gruppo Telegram. Membri non pubblici. Solo progetto, nome assente nella pagina org (i commit nel repo sono di fpietrosanti).
 - 🆕 **2019-11** · Report · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit)  
   Project document reviewed by dozens of engineers and lawyers (Fabio); very early-stage for its time; archived as PDF/TXT/DOCX
+- 🆕 **2019-10-31** · Menzionato · CorCom (Corriere Comunicazioni) — [Garante Privacy, 86 nuovi candidati](https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/)  
+  RE-REVIEW REQUEST vs decisions.json (exclude 2026-09-23). The exclusion reason ('Maria Clara Pietrosanti' followed by 'Fabio Piperno') is factually wrong: the raw HTML (fetched 2026-10-01) has separate list items «<li>Piatti Maria Clara</li><li>Pietrosanti Fabio</li><li>Piperno Matteo</li>». The article (published 2019-10-31) lists the 86 new candidacies for the Collegio del Garante privacy after the reopening of terms following the change of government (Conte II). This matches the @partitopirata tweet of 10/07/2020 (already in media.json): «Due Pirati sono candidati @calamarim Marco A. L. Calamari e @fpietrosanti Fabio Pietrosanti» for the 14/07/2020 parliamentary vote. Very likely him; needs Fabio's confirmation before overriding the exclusion.
 - 🆕 **2019-10-03** · Menzionato · repubblica.it — [Quando lo smartphone diventa una spia. "In Italia oltre mille vittime di stalkerware"](https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/)  
   verified via wayback; context: …a e al microfono, quindi scattare foto e ascoltare conversazioni. Come proteggersi Difficile che la vittima si accorga di essere digitalmente pedinata, avverte Fabio Pietrosanti , co-fondatore del Centro Hermes per la tr…
 - 🆕 **2019-09-03** · Menzionato · The Vision — [Un governo deciso da un sondaggio online è la vergogna della democrazia italiana](https://thevision.com/politica/governo-rousseau-democrazia/)  
@@ -1921,7 +1947,6 @@ Anni senza nessun risultato: nessuno
 
 - 🆕 Menzionato · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1)
 - 🆕 Menzionato · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/)
-- 🆕 Menzionato · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner)
 - 🆕 Menzionato · zeusnews.it — [La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori](https://www.zeusnews.it/n.php?c=25616)
 - 🆕 Menzionato · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b)
 - 🆕 Menzionato · today.it — [Nella cyber war l'Italia affida i suoi segreti all'antivirus russo](https://www.today.it/tech/cyber-guerra-ucraina-russia-rischi-italia.html)

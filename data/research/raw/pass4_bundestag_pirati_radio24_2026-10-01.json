@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2019-11-27",
+  "year": 2019,
+  "type": "event",
+  "outlet": "Fraktion DIE LINKE im Bundestag",
+  "title": "Öffentliche Anhörung «Medien unter Beschuss – Feldzug gegen WikiLeaks und investigativen Journalismus» (Bundestag, Marie-Elisabeth-Lüders-Haus) – attended",
+  "url": "https://www.dielinkebt.de/themen/nachrichten/detail/neuer-krieg-gegen-den-journalismus",
+  "language": "de",
+  "role": "attendee",
+  "note": "Identifies the event behind his tweet of 27/11/2019 21:53 PST (=28/11 06:53 CET) «Yesterday in a commitee room at Bundestag» (twitter.com/fpietrosanti/status/1199929402521509888, already in media.json; Wayback 20191128055753). The two attached photos (pbs.twimg.com/media/EKcBbZMWwAE-byg.jpg, EKcBbZNWkAEsmJh.jpg, recovered from Wayback) show a Bundestag hearing room with DIE LINKE banners «Medien unter Beschuss», a «FREIHEIT JULIAN ASSANGE» banner and Daniel Ellsberg on video link: this is the Linke-Fraktion public hearing of 27/11/2019 on WikiLeaks/Assange (speakers: Amira Mohamed Ali, Sevim Dağdelen, John Shipton, Nils Melzer, Renata Ávila, Kristinn Hrafnsson, Christian Mihr/RSF, Cornelia Berger/dju, John Goetz, Michael Sontheimer, Heike Hänsel, Doris Achelwilm; video Ellsberg, message Snowden; ~240 visitors). Same day Davide Dormino's «Anything to Say?» sculpture at Brandenburger Tor. Photos are taken from the public gallery: he was in the audience, NOT a speaker. His name is not on the Linke page nor on the a-fsa.de report (https://www.a-fsa.de/d/36u). Full recording https://www.youtube.com/watch?v=1-ig55rbaSY is now private. Suggest: enrich the known tweet's note/title with the event name rather than adding a separate entry.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2019-10-31",
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "CorCom (Corriere Comunicazioni)",
+  "title": "Garante Privacy, 86 nuovi candidati",
+  "url": "https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/",
+  "language": "it",
+  "role": "candidate",
+  "note": "RE-REVIEW REQUEST vs decisions.json (exclude 2026-09-23). The exclusion reason ('Maria Clara Pietrosanti' followed by 'Fabio Piperno') is factually wrong: the raw HTML (fetched 2026-10-01) has separate list items «<li>Piatti Maria Clara</li><li>Pietrosanti Fabio</li><li>Piperno Matteo</li>». The article (published 2019-10-31) lists the 86 new candidacies for the Collegio del Garante privacy after the reopening of terms following the change of government (Conte II). This matches the @partitopirata tweet of 10/07/2020 (already in media.json): «Due Pirati sono candidati @calamarim Marco A. L. Calamari e @fpietrosanti Fabio Pietrosanti» for the 14/07/2020 parliamentary vote. Very likely him; needs Fabio's confirmation before overriding the exclusion.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2020-07-10",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "Partito Pirata Italiano",
+  "title": "A supporto di Marco Calamari, Garante Privacy della Repubblica Italiana",
+  "url": "https://www.partito-pirata.it/2020/07/10/in-supporto-di-marco-calamari-garante-privacy-della-repubblica-italiana/",
+  "language": "it",
+  "role": "context",
+  "note": "NEGATIVE for his name. The Pirate Party's official statement (published 2020-07-10 00:37 UTC; letter to MPs approved by the Assemblea Permanente, mozione urgente n. 3138/i6646 of 6/7/2019, re-proposed for the 14/07/2020 vote) supports only Marco Calamari; Fabio Pietrosanti is not named. Same text on Agenda Digitale (https://www.agendadigitale.eu/sicurezza/privacy/garante-privacy-il-partito-pirata-a-supporto-di-marco-calamari/, dated 2019-07-26): no Pietrosanti. The only Pirate source naming him is the @partitopirata tweet already in media.json. key4biz list of the first 357 candidates (May 2019) does not contain him (he applied in the Oct 2019 reopening, see CorCom).",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2020-03-13",
+  "year": 2020,
+  "type": "radio",
+  "outlet": "Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini",
+  "title": "Coronavirus e tecnologia: dati, app, GPS, ecc - Università online - Traffico internet",
+  "url": "https://www.radio24.ilsole24ore.com/programmi/2024/puntata/coronavirus-e-tecnologia-dati-app-gps-ecc--universita-online--traffico-internet-220552-ADP1GAD",
+  "language": "it",
+  "role": "none",
+  "note": "NEGATIVE. Episode JSON read 2026-10-01 via the site's own data endpoint (https://www.radio24.ilsole24ore.com/redis?structure=search&key=idx:episodes, episode _id 2419251284460452, program_id 2432814262117163). Guests: Alfio Quarteroni (PoliMi/MOX, data & epidemic tech), Simone Bonannini (Open Fiber), Andrea Lasagna (Fastweb), Enrico Lodolo (Univ. Bologna), Leonardo Caporarello (Bocconi). Fabio is not named. Audio https://podcast-radio24.ilsole24ore.com/radio24_audio/2020/200313-2024.mp3 is 55.8 MB (>50 MB, not downloaded/transcribed). Also scanned all 155 '2024' episodes 2019-2021: only Hermes mentions are 2020-01-17 (Vincenzo Tiani) and 2021-02-19 (Laura Carrer) - not him. Full-catalogue sweep of the same endpoint (104,947 Radio 24 episodes 2016-01..2026-10, 15-day windows; 11 windows failed with IncompleteRead: 2016-01/02/05, 2022-04/05, 2025-03/05/08/08/11, 2026-07) for 'pietrosanti'/'naif': only the 5 already-known '2024' episodes (2018-03-02, 2018-08-31, 2018-11-02, 2019-02-08, 2022-06-24); two 2020 hits were the adjective 'naif' (Linee d'ombra 08/09/2020, Il Cacciatore di libri 21/11/2020). No new Radio 24 appearance.",
+  "verified": false,
+  "known": false
+ }
+]

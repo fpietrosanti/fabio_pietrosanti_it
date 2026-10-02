@@ -45,10 +45,6 @@
    "reason": "2026-09-21: Blueprint for Free Speech EAT report 2021: Hermes/GlobaLeaks as partner, his name not in the text (not among interviewees)"
   },
   {
-   "url": "https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/",
-   "reason": "2026-09-23: elenco alfabetico dei candidati al Garante privacy: 'Maria Clara Pietrosanti' seguita da 'Fabio Piperno'; la sequenza 'Pietrosanti Fabio' e' un artefatto dell'elenco, non lui"
-  },
-  {
    "url": "https://www.corrierecomunicazioni.it/digital-economy/rfid-una-legge-per-la-filiera-del-fashion/",
    "reason": "2026-09-23: omonimo, Lorenzo Pietrosanti (Gruppo Tia), nessun riferimento a Fabio"
   },
@@ -229,8 +225,120 @@
    "reason": "Fabio 2026-09-25: riassunto TimePie del pomeriggio del 12/09 (1 min 54 s): lui non compare nel video. (Etichetta corretta il 2026-09-30: il clip da 32 s del forum biohacker e' BV1u5YX6JECk, dove compare ed e' confermato)"
   },
   {
-   "url": "https://c.m.163.com/news/v/VG6GUA7FN.html",
-   "reason": "2026-09-30: video riepilogo TimePie NetEase (2'35\", stesso di Bilibili BV1Rwh76XEhj) controllato fotogramma per fotogramma: il forum biohacker appare a 1:10-1:12 con un altro relatore, Fabio non compare né è nominato"
+   "url": "https://www.bilibili.com/video/BV1e2YX6tEqz/",
+   "reason": "2026-10-01: clip TimePie scaricata e controllata a 1 fotogramma/s (74 fotogrammi, giro del forum; il segmento 极客论坛 0:30-0:41 mostra un altro relatore); Fabio non compare, nome assente nei metadati, nessun sottotitolo/danmaku"
+  },
+  {
+   "url": "https://www.bilibili.com/video/BV1YtY96bEhr/",
+   "reason": "2026-10-01: clip TimePie scaricata e controllata a 1 fotogramma/s (97 fotogrammi, giorno 1, solo relatori 1-6 del forum principale; foto di gruppo finale controllata a piena risoluzione); Fabio non compare, nome assente nei metadati, nessun sottotitolo/danmaku"
+  },
+  {
+   "url": "https://www.bilibili.com/video/BV1w8YX6uENN/",
+   "reason": "2026-10-01: clip TimePie scaricata e controllata a 1 fotogramma/s (57 fotogrammi, giorno 1, solo forum principale); Fabio non compare, nome assente nei metadati, nessun sottotitolo/danmaku"
+  },
+  {
+   "url": "https://www.bilibili.com/video/BV1SJYe6AEXo/",
+   "reason": "2026-10-01: clip TimePie scaricata e controllata a 1 fotogramma/s (129 fotogrammi, chiusura, solo relatori 20-27 del giorno 2); Fabio non compare, nome assente nei metadati, nessun sottotitolo/danmaku"
+  },
+  {
+   "url": "https://www.radio24.ilsole24ore.com/programmi/2024/puntata/coronavirus-e-tecnologia-dati-app-gps-ecc--universita-online--traffico-internet-220552-ADP1GAD",
+   "reason": "2026-10-01: puntata Radio 24 '2024' del 13/03/2020 letta dal JSON dell'episodio: ospiti Quarteroni, Bonannini e altri, Fabio non c'e' (chiude la pista 'Coronavirus e tecnologia' della coda Progetti mai partiti)"
+  },
+  {
+   "url": "https://www.partito-pirata.it/2020/07/10/in-supporto-di-marco-calamari-garante-privacy-della-repubblica-italiana/",
+   "reason": "2026-10-01: comunicato ufficiale del Partito Pirata (10/07/2020) sostiene solo Marco Calamari; il nome di Fabio non compare (la candidatura di entrambi e' nel tweet @partitopirata gia' in archivio)"
+  },
+  {
+   "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.529632/gov.uscourts.nysd.529632.1.0.pdf",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): This is the affidavit his tweet criticised. Read in full on 2026-10-02: no Pietrosanti, Fabio, Italian or Hermes; it only refers to '~100 other attendees', CC-2 and Individual-1/2. A RECAP full-text search for 'Pietrosanti' finds nothing in this docket."
+  },
+  {
+   "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.529632/gov.uscourts.nysd.529632.50.1.pdf",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): Defense counsel on Tor2web: 'I believe the Hermes Center for Transparency and Digital Human Rights operates it.' His name and 'naif' are absent (Hermes Center only), so per the rule this is not him. Possibly useful context. Read 2026-10-02."
+  },
+  {
+   "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.529632/gov.uscourts.nysd.529632.191.0_1.pdf",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): The only Italian named is Federico Tenga (Chainside, 2017 PUST course), not Fabio. Doc 170 (Rule 15 motion) concerns witness Tju Liang Chua, not Fabio. Read 2026-10-02. The filing date is approximate (sentencing was 2022-04-12)."
+  },
+  {
+   "url": "https://cointelegraph.com/features/uncovering-the-motives-behind-north-koreas-crypto-conference",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): Checked live 2026-10-02: no Pietrosanti or Fabio. The same holds for Cointelegraph Magazine 2021-11-26 'Acid, Bitcoin mining and a bad trip to North Korea' (Ethan Lou) and 2022-04-12 'The FBI's takedown of Virgil Griffith..., firsthand'."
+  },
+  {
+   "url": "https://www.newsweek.com/north-korea-dprk-cryptocurrency-blockchain-conference-2020-sanctions-warning-1482248",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): Checked live 2026-10-02: no Pietrosanti. A search-engine summary had attributed his CoinDesk quotes to it."
+  },
+  {
+   "url": "https://spectrum.ieee.org/north-korea-blockchain-conference",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): Checked live 2026-10-02: no Pietrosanti, Fabio or Italian."
+  },
+  {
+   "url": "https://www.heise.de/hintergrund/Riskanter-Blockchain-Vortrag-in-Nordkorea-4609999.html",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): Checked live 2026-10-02: no Pietrosanti, Fabio or Italien. This was the only major German piece found."
+  },
+  {
+   "url": "https://www.thedailybeast.com/crypto-enthusiast-virgil-griffith-sentenced-to-5-years-for-north-korea-trip/",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): Checked live 2026-10-02. Name also absent from these: NBC News rcna24169, Decrypt 97624, SCMP 3174073, CoinDesk 2022-04-12 and 2025-04-09, Vice 2022-04-14 ('...Wanted to Clone Dogs...'), Al Jazeera 2019-11-30, TechCrunch 2019-12-03, Asia Times 2019-12-27, DL N"
+  },
+  {
+   "url": "https://www.eldebate.com/espana/20231202/quien-cao-benos-catalan-detenido-estafar-favor-corea-norte_157905.html",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): Spanish press on Cao de Benós, checked live 2026-10-02: no Pietrosanti. Also absent from The Objective 2022-05-25 and El Confidencial Digital 2022-04-28."
+  },
+  {
+   "url": "https://www.broeckers.com/2019/11/27/anhorung-zu-assange-im-bundestag/",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NEGATIVE. Fetched 2026-10-02 (84 KB): no 'Pietrosanti', 'naif' or 'GlobaLeaks'. Embeds the RT livestream youtube.com/watch?v=0EU8-VthvGg, which yt-dlp reports as 'Video unavailable'."
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=1-ig55rbaSY",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NOT AVAILABLE. yt-dlp --dump-json (2026-10-02) returns 'Private video' for 1-ig55rbaSY (full recording) and 8sdR4VShK4o ('Medien unter Beschuss: Julian Assange und die Pressefreiheit'), and 'Video unavailable' for 0EU8-VthvGg (RT livestream embedded by broecke"
+  },
+  {
+   "url": "https://free-whistleblower.jimdofree.com/free-assange-berlin-1/2019/",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NEGATIVE. Fetched 2026-10-02: the 2019 activities page of the support group (27/11 hearing photo, Dormino sculpture at Brandenburger Tor 12-13h). No 'Pietrosanti', 'naif', 'GlobaLeaks' or Italy reference."
+  },
+  {
+   "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9175152",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): Official Garante page (Data 31/10/19, News), fetched 2026-10-02. It does NOT contain his name: it only links to the two official lists, https://www.senato.it/candidature_garante_privacy and http://www.camera.it/leg18/1372, now 404 or behind the Senate WAF (HTT"
+  },
+  {
+   "url": "https://comunicazione.camera.it/archivio-prima-pagina/18-18915",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): Official Camera news item ('notizia pubblicata il 31 Ottobre 2019'), fetched 2026-10-02. It announces that the candidates' curricula can be consulted. The 'Elenco e curricula candidati' link is no longer present; the list was camera.it/leg18/1372 (see the docw"
+  },
+  {
+   "url": "https://www.key4biz.it/garante-privacy-chi-sono-i-nuovi-72-candidati/277467/",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NEGATIVE. Fetched 2026-10-02 (datePublished 2019-10-31T14:54, author Luigi Garofalo, wordCount 126): a short piece that only links to camera.it/leg18/1372 and senato.it/candidature_garante_privacy. It does not name him, and it has no 'Piatti'/'Piperno' list."
+  },
+  {
+   "url": "https://www.key4biz.it/nuovo-garante-privacy-chi-sono-i-357-che-hanno-presentato-la-candidatura-a-camera-e-senato/259237/",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NEGATIVE, and consistent: the May 2019 first round (357 names) does not include him. He applied only in the reopened window of 14-26/10/2019 (the '**' new entries in CorCom 31/10/2019). Fetched with curl on 2026-10-02 and grepped for 'pietrosant': 0 hits."
+  },
+  {
+   "url": "https://www.corrierecomunicazioni.it/privacy/garante-privacy-riparte-la-corsa-alle-candidature/",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NEGATIVE: announcement of the reopening; no name. Fetched with curl on 2026-10-02 and grepped for 'pietrosant': 0 hits. Exact day not established."
+  },
+  {
+   "url": "https://www.agendadigitale.eu/sicurezza/privacy/garante-privacy-il-partito-pirata-a-supporto-di-marco-calamari/",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NEGATIVE: only Calamari is named. Fetched with curl on 2026-10-02 and grepped for 'pietrosant': 0 hits. Exact day not established."
+  },
+  {
+   "url": "https://www.assodpo.it/2020/07/14/garante-privacy-eletti-i-4-membri-del-consiglio/",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NEGATIVE: results of the vote; no name. Fetched with curl on 2026-10-02 and grepped for 'pietrosant': 0 hits."
+  },
+  {
+   "url": "https://www.key4biz.it/le-misteriose-elezioni-per-la-nuova-agcom-e-per-il-garante-privacy/312823/",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NEGATIVE. Fetched with curl on 2026-10-02 and grepped for 'pietrosant': 0 hits. Exact day not established."
+  },
+  {
+   "url": "https://www.key4biz.it/agcom-e-garante-privacy-silenzio-assordante-sulle-elezioni/313548/",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NEGATIVE. Fetched with curl on 2026-10-02 and grepped for 'pietrosant': 0 hits. Exact day not established."
+  },
+  {
+   "url": "https://www.federprivacy.org/informazione/garante-privacy/nuovi-vertici-del-garante-privacy-chi-sono-i-quattro-componenti-che-guideranno-l-autorita-per-il-prossimo-settennato",
+   "reason": "2026-10-02: nome assente (controllo negativo, pass4 Pyongyang/Bundestag/Garante): NEGATIVE. Fetched with curl on 2026-10-02 and grepped for 'pietrosant': 0 hits. Exact day not established."
+  },
+  {
+   "url": "https://www.linksfraktion.de/termine/detail/medien-unter-beschuss/",
+   "reason": "2026-10-02: programma ufficiale dell'audizione Linke del 27/11/2019 (capture Wayback 20191114145843): relatori Bartsch, Avila, Hrafnsson, Melzer, Shipton, Mihr, Sontheimer, Wallraff, Achelwilm, Dagdelen, Haensel, Wagenknecht, l'artista Davide Dormino; Fabio non e' tra i relatori (resta solo il suo tweet del 28/11/2019)"
   }
  ],
  "override": [
@@ -385,6 +493,10 @@
    "item": "Radio Monte Carlo 2010 audio interview",
    "status": "Fabio does not remember; keep searching (Web Archive of radiomontecarlo.net)"
   },
-  "2026-09-26 Sky TG24 02/07/2013 'Datagate, il mondo delle spie visto da dentro' (v164249): video scaricato e visto per intero (2'07\"): l'unico intervistato e' Matteo Flora ('Esperto di sicurezza - Fondatore di The Fool'); Fabio non compare, ne' nome ne' voce. La voce veniva solo dalla pagina News/Press di Hermes. Escludere (regola: senza nome non e' lui) o c'era un altro servizio Sky?"
+  "2026-09-26 Sky TG24 02/07/2013 'Datagate, il mondo delle spie visto da dentro' (v164249): video scaricato e visto per intero (2'07\"): l'unico intervistato e' Matteo Flora ('Esperto di sicurezza - Fondatore di The Fool'); Fabio non compare, ne' nome ne' voce. La voce veniva solo dalla pagina News/Press di Hermes. Escludere (regola: senza nome non e' lui) o c'era un altro servizio Sky?",
+  "2026-10-01 CorCom 31/10/2019 «Garante privacy, 72/86 nuovi candidati»: l'esclusione del 23/09 (presunto artefatto 'Maria Clara Pietrosanti'/'Fabio Piperno') era SBAGLIATA — l'HTML ha voci distinte <li>Piatti Maria Clara</li><li>Pietrosanti Fabio</li><li>Piperno Matteo</li>. Esclusione tolta, voce verificata. Coerente col tweet @partitopirata del 10/07/2020 (due pirati candidati, @fpietrosanti). Fabio: confermi di aver presentato la candidatura al collegio del Garante nell'ottobre 2019?",
+  "2026-10-01 NetEase VG6GUA7FN (riepilogo TimePie 2'35\", = Bilibili BV1Rwh76XEhj): l'esclusione del 30/09 era incompleta — a 1:33.7-1:34.8 la scena della cena (didascalia 投资人与生物极客) mostra Fabio a tavola (camicia di lino bianca, cordino rosso TimePie), stessa inquadratura della clip Bilibili BV1X9YR68ETj (cena 永生之夜, 0:31-0:33). Esclusione tolta, verifica a vista. Fabio: confermi che sei tu?",
+  "2026-10-02 Pyongyang 2019 / caso Griffith: trovate 12 voci che ti citano (CoinDesk 03/12/2019 intervista, 2600 Off The Hook 04/12/2019 in diretta dall'Italia, MIT Technology Review, AMBCrypto, CoinReaders KR, Substack Taylor Simone 2021, British GQ 2022). Ricordi altre interviste (TV, radio, podcast) su Pyongyang/Griffith, o una testimonianza agli avvocati di Griffith?",
+  "2026-10-02 Bundestag 27/11/2019: l'evento e' l'audizione pubblica della Linke «Medien unter Beschuss» (Assange/WikiLeaks); nell'elenco relatori noto non ci sei. Eri tra il pubblico o sei intervenuto?"
  ]
 }
