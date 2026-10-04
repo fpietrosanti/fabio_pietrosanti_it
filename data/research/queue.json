@@ -1125,6 +1125,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1, inUse), tabs_context ok, ma il navigate verso la ricerca site:01net.it (2 tentativi, singolo e batch) risponde 'Claude in Chrome is not connected'. Scheda chiusa. Blocco Google saltato, nessun candidato: verify/merge/archive non eseguiti. Guasto invariato (diagnosi run 2026-10-01 20:35: manca il permesso dell'estensione per www.google.com, Fabio deve concederlo una volta con 'Consenti sempre'). Prossimo blocco invariato: 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org, altalex.com."
+  },
+  {
+   "date": "2026-10-04 20:52",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers restituisce [] (nessun browser Chrome connesso): blocco Google saltato, nessuna scheda aperta, nessun candidato; verify/merge/archive non eseguiti. Coda invariata (69 domini + 26 query pending). Prossimo blocco: 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org, altalex.com. Promemoria per Fabio: riconnettere l'estensione Claude in Chrome e concedere 'Consenti sempre' su www.google.com (diagnosi run 2026-10-01 20:35)."
   }
  ]
 }
