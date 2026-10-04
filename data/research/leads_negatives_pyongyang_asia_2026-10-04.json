@@ -1,0 +1,85 @@
+{
+ "date": "2026-10-04",
+ "scope": "pass4 Pyongyang: own tweets + Asian press + video/podcast",
+ "method_notes": [
+  "Wayback CDX (twitter.com, mobile.twitter.com, x.com /fpietrosanti/status/*): 6256 distinct status IDs; filtered by snowflake date to windows 2019-03-25..05-15, 2019-11-25..12-18, 2021-09-26..30, 2022-04-12..14; 164 tweets read via cdn.syndication.twimg.com/tweet-result",
+  "Wayback id_ fetches returned archive.org 'suspected abusive bot traffic' block after the CDX queries; stopped (no bypass)",
+  "No BRAVE_API_KEY; cn.bing.com returned empty; DuckDuckGo HTML no results for Chinese/Korean/Japanese strings"
+ ],
+ "negatives": [
+  {
+   "item": "Own tweets April 2019 (trip period)",
+   "result": "Only 4 status IDs archived for April 2019; none about DPRK (Motherboard RT, brain-optics link, Partito Pirata RT). 1117311943583383553 (2019-04-14) is a tombstone (deleted/unavailable), Wayback capture 20190414062140 statuscode '-' not opened"
+  },
+  {
+   "item": "Own tweets 2022-04-12..14 (sentencing)",
+   "result": "No tweet by @fpietrosanti about Griffith among archived IDs"
+  },
+  {
+   "item": "baiyi.com 2019-12-04 Chinese original",
+   "result": "baiyi page (title 朝鲜加密货币活动参与者称制裁议题未被提及) names 'Fabio Pietrosanti' in Latin script, source given as 百亿财经 itself (no upstream attribution). Searches for title/phrases on jinse/8btc/odaily/chainnews found nothing; news.8btc.com DNS dead"
+  },
+  {
+   "item": "finance.sina.com.cn 2020-02-04 疑通敌朝鲜？一以太坊技术精英在美被捕始末 (CoinDesk translation by Chaindder)",
+   "url": "https://finance.sina.com.cn/blockchain/coin/2020-02-05/doc-iimxxste8814605.shtml",
+   "result": "opened: no Pietrosanti/Fabio"
+  },
+  {
+   "item": "Business Insider Japan 203477 (Vitalik defends Griffith)",
+   "url": "https://www.businessinsider.jp/article/203477/",
+   "result": "opened: no mention"
+  },
+  {
+   "item": "CoinDesk Japan / CoinPost / Cointelegraph JP / GIGAZINE / TechCrunch JP",
+   "result": "search: no Japanese translation of the 2019-12-03 CoinDesk interview found"
+  },
+  {
+   "item": "Korean press (Tokenpost, Blockmedia, Decenter, NK경제, Newsis, etoday, MoneyS, g-enews)",
+   "result": "search for 피에트로산티 / 파비오 / Pietrosanti: no hits; Decenter 1VRX2L6OY7 and NK경제 articles are DOJ-based, no Italian attendee named (snippets)"
+  },
+  {
+   "item": "boannews idxno=52183",
+   "result": "opened: 2016 Dongguk blockchain center, unrelated"
+  },
+  {
+   "item": "CoinDesk 2020-04-07 Blockchain Bites",
+   "result": "opened: mentions Bruno Pietrosanti (Colli Albani committee), homonym, NOT him"
+  },
+  {
+   "item": "NK News",
+   "result": "site search: Griffith coverage 2019-2024, no Pietrosanti in snippets; podcast ep.301 page did not render content (not verified)"
+  },
+  {
+   "item": "Internet Archive FTS 'Pietrosanti AND Griffith'",
+   "result": "only unrelated scanned periodicals"
+  }
+ ],
+ "leads": [
+  {
+   "lead": "Tombstoned own tweets in topic windows (deleted or protected): 1202557955666849792 (2019-12-05, Wayback 20191205121549 status 200), 1442507377182453760 (2021-09-27 15:12, Wayback 20210927151340), 1442587958368866305 (2021-09-27 20:32), 1443330399304888324 / 1443338531724726273 (2021-09-29), 1443447918678220800 (2021-09-30)",
+   "why": "Wayback bot-blocked; retry later from server with id_ captures"
+  },
+  {
+   "lead": "Remaining unread archived IDs: 2019-12-19..2020-01-10 (~90), 2021-09-20..25 and 2021-10-01..05 (~35)",
+   "why": "budget; topic peak days already covered"
+  },
+  {
+   "lead": "The repeated 'I went in North Korea with Virgil...' reply was sent to many accounts on 2019-11-29/12-01; only the archived ones are listed — more replies likely exist unarchived",
+   "why": "no Twitter search access"
+  },
+  {
+   "lead": "NK News podcast ep.301 'The FBI investigation into Virgil Griffith, crypto guru to North Korea'",
+   "url": "https://www.nknews.org/category/north-korea-news-podcast/latest/the-fbi-investigation-into-virgil-griffith-crypto-guru-to-north-korea-ep-301/931897/",
+   "why": "page content paywalled/JS; guest unknown, probably Ethan Lou; check transcript for Pietrosanti"
+  },
+  {
+   "lead": "2600 Off The Hook episode ~2021-09-29 that he tweeted as 'Relevant narrative on Virgil Griffith arrest by @emmangoldstein' (1443670064679563267); his 2021-09-28 tweet tags Emmanuel Goldstein to contact him",
+   "why": "check whether he appeared on air in Sept/Oct 2021 (distinct from known 2019-12-04 episode)"
+  },
+  {
+   "lead": "Yahoo Finance video 'First Mover 4/13/22' on Griffith sentence",
+   "url": "https://finance.yahoo.com/video/first-mover-4-13-22-153555559.html",
+   "why": "unlikely to mention him; not opened"
+  }
+ ]
+}

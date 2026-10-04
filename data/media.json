@@ -9539,6 +9539,23 @@
   "on_old_site": false
  },
  {
+  "date": "2019-10",
+  "year": 2019,
+  "type": "institutional",
+  "outlet": "Camera dei deputati (XVIII legislatura)",
+  "title": "Candidature a componente del Collegio del Garante per la protezione dei dati personali pervenute alla Camera dei deputati",
+  "url": "https://www.camera.it/leg18/1372",
+  "language": "it",
+  "role": "candidate (Garante privacy, collegio 2020)",
+  "note": "Elenco ufficiale dei candidati: «Pietrosanti Fabio (**)» = candidatura pervenuta dopo la riapertura dei termini (avviso del 7 ottobre 2019), con link al curriculum CV_PIETROSANTI_FABIO_.pdf (file_cv_pdfs/000/000/265). Letta dalla capture Web Archive 20200926174454 (anche 20200306, 20210123); pagina live 404 dal 2024. Il PDF del curriculum non e' mai stato archiviato (CDX vuoto, live 404). Conferma la voce CorCom 31/10/2019.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_garante_camera_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019-10-03",
   "year": 2019,
   "type": "mentioned",
@@ -9766,6 +9783,35 @@
   "on_old_site": false
  },
  {
+  "date": "2019-11-29",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer as i read in the Aff…",
+  "url": "https://twitter.com/fpietrosanti/status/1200543559096717314",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @coindesk @BradyDale. Full text: \"@coindesk @BradyDale I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer as i read in the Affidavit a lot of sentences that i feel has been mis-used and mis-interpreted for the arrest warrant. I am willing to provide my testimony to prove his good faith.\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20191129223913 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "mirrors": [
+   "https://twitter.com/fpietrosanti/status/1200544080821968896",
+   "https://twitter.com/fpietrosanti/status/1200544557500379138",
+   "https://twitter.com/fpietrosanti/status/1200545101644226561",
+   "https://twitter.com/fpietrosanti/status/1200548107173412868",
+   "https://twitter.com/fpietrosanti/status/1200556471743897600",
+   "https://twitter.com/fpietrosanti/status/1200761744358072320",
+   "https://twitter.com/fpietrosanti/status/1200761886066786304",
+   "https://twitter.com/fpietrosanti/status/1200807619834892288",
+   "https://twitter.com/fpietrosanti/status/1201038327044038656",
+   "https://twitter.com/fpietrosanti/status/1201038793400295424"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019-11-30",
   "year": 2019,
   "type": "article",
@@ -9783,6 +9829,74 @@
   "on_old_site": false
  },
  {
+  "date": "2019-11-30",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "There was no recording, it was a very basic knowledge conference, something that could be like “an introductio…",
+  "url": "https://twitter.com/fpietrosanti/status/1200736032821534727",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @tonyswish @VICE @neuwaves. Full text: \"@tonyswish @VICE @neuwaves There was no recording, it was a very basic knowledge conference, something that could be like “an introduction to blockchain” for high school. I knew several people from US and EU that had academic cooperation going teaching there, knowledge exchange is not a crime\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20191130123913 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-11-30",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "I don’t see a problem, Virgil under interrogation surely already provided my name and i never hidden my travel…",
+  "url": "https://twitter.com/fpietrosanti/status/1200736035359076352",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @NotVeryFunny511 @2600. Full text: \"@NotVeryFunny511 @2600 I don’t see a problem, Virgil under interrogation surely already provided my name and i never hidden my travel posting on Facebook and doing projects on GitHub. There’s no crime being committed in sharing knowledge. Several people I know went there for university exchange too\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20191130124624 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-01",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "Simply there was no plan or conspiracy :-)",
+  "url": "https://twitter.com/fpietrosanti/status/1201018905076080641",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @tayvano_ @NotVeryFunny511 @2600. Full text: \"@tayvano_ @NotVeryFunny511 @2600 Simply there was no plan or conspiracy :-)\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20191201064250 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-01",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "From what I personally saw there and what I’ve been told those are just bullshit, misinterpretation of declara…",
+  "url": "https://twitter.com/fpietrosanti/status/1201039691912491009",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @campuscodi. Full text: \"@campuscodi From what I personally saw there and what I’ve been told those are just bullshit, misinterpretation of declaration of a naive, spontaneous and creative developer. I think the entire affidavit isn’t honest at all!\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20191201075037 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019-12-02",
   "year": 2019,
   "type": "article",
@@ -9796,6 +9910,23 @@
   "known": false,
   "_slices": [
    "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-02",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "So why Virgil Griffith is jail? \"Because discussing “smart contracts” “proof of Work” versus “proof of stake” …",
+  "url": "https://twitter.com/fpietrosanti/status/1201302625813254144",
+  "language": "en",
+  "role": "author",
+  "note": "Full text: \"So why Virgil Griffith is jail? \"Because discussing “smart contracts” “proof of Work” versus “proof of stake” is illegal ?\" https://t.co/uw8YTHEToF\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20191202014919 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
   ],
   "on_old_site": false
  },
@@ -9938,6 +10069,23 @@
   "known": false,
   "_slices": [
    "pass4_pyongyang_intl_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-07",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "“The FBI’s case against a famous hacker for allegedly trying to help North Korea use cryptocurrency to evade s…",
+  "url": "https://twitter.com/fpietrosanti/status/1203105625267474433",
+  "language": "en",
+  "role": "author",
+  "note": "Full text: \"“The FBI’s case against a famous hacker for allegedly trying to help North Korea use cryptocurrency to evade sanctions is ridiculous.\" https://t.co/BEBVvfMMUH\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20191207193237 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
   ],
   "on_old_site": false
  },
@@ -14334,6 +14482,193 @@
   "known": false,
   "_slices": [
    "pass4_covid_app_lazio_2026-09-24"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-26",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "I was with Virgil there and really, he never had any conspiracy spirit, he’s a free spirit, a provocative mind…",
+  "url": "https://twitter.com/fpietrosanti/status/1442178901099233280",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @ameensol. Full text: \"@ameensol I was with Virgil there and really, he never had any conspiracy spirit, he’s a free spirit, a provocative mind, an entropy generator, but he’s not someone willing to help dictatorship with his strong human rights will. Let’s share the world the good person that he is\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210926172707 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-26",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "Also @Ethan_Lou was on that trip together and could be available",
+  "url": "https://twitter.com/fpietrosanti/status/1442214894191906817",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @Simone_0177. Full text: \"@Simone_0177 Also @Ethan_Lou was on that trip together and could be available\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210926195006 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-26",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "In this case there’s only one certainty: It’s the outcome of Virgil provocative approach,whereby US had to bui…",
+  "url": "https://twitter.com/fpietrosanti/status/1442217586062761986",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @Carol_VanCleef @jchervinsky @ameensol. Full text: \"@Carol_VanCleef @jchervinsky @ameensol In this case there’s only one certainty: It’s the outcome of Virgil provocative approach,whereby US had to build a conspiracy case for someone that was surely not cospirating to help dprk evade sanction but just doing high level trolling. That’s top cryptoanarchism trolling, 100%\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210926200100 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-27",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "That’s really not true, I was there, I know Virgil and it’s a very well articulated legal attack. I think he r…",
+  "url": "https://twitter.com/fpietrosanti/status/1442549592361508865",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @hackerfantastic. Full text: \"@hackerfantastic That’s really not true, I was there, I know Virgil and it’s a very well articulated legal attack. I think he really had to choice, that’s the result of his provocative approach, not the result of someone conspirating to help dprk to violate sanction. Really\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210927180012 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-28",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "Virgil gives his mobile and laptop voluntarily to the FBI, soon as he was stopped the first time.",
+  "url": "https://twitter.com/fpietrosanti/status/1442743803455094785",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @brenna__smith. Full text: \"@brenna__smith Virgil gives his mobile and laptop voluntarily to the FBI, soon as he was stopped the first time.\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210928065151 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-28",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "No, the conference was not state-funded, but the entire trip was funded by the participants themselves, that p…",
+  "url": "https://twitter.com/fpietrosanti/status/1442744623898705920",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @brenna__smith. Full text: \"@brenna__smith No, the conference was not state-funded, but the entire trip was funded by the participants themselves, that paid like any tourism trip to DPRK.\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210928065511 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-28",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "Hey @emmangoldstein you should get in touch with a common Virgil friend that went out with us in DPRK!",
+  "url": "https://twitter.com/fpietrosanti/status/1442929081272524800",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @Ethan_Lou. Full text: \"@Ethan_Lou Hey @emmangoldstein you should get in touch with a common Virgil friend that went out with us in DPRK!\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210928190808 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-28",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "No, the website say that is organized, not funded. Each participants spent the very same amount of money that …",
+  "url": "https://twitter.com/fpietrosanti/status/1442934098071195649",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @brenna__smith. Full text: \"@brenna__smith No, the website say that is organized, not funded. Each participants spent the very same amount of money that koryo travel bill for the very same touristic trip to dprk.\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210928192756 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-28",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "I would had been happy if they paid for all or our travel and stay, it seems we paid for it instead",
+  "url": "https://twitter.com/fpietrosanti/status/1442935508590424067",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @brenna__smith. Full text: \"@brenna__smith I would had been happy if they paid for all or our travel and stay, it seems we paid for it instead\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210928193338 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-28",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "In that specification I agree, they surely had provided the room for the conference and some basic local organ…",
+  "url": "https://twitter.com/fpietrosanti/status/1442936355860844546",
+  "language": "en",
+  "role": "author",
+  "note": "Reply to @brenna__smith. Full text: \"@brenna__smith In that specification I agree, they surely had provided the room for the conference and some basic local organization. Let’s just say that for the money we paid, probably they would be able to organize local some 30/40 of those conference 😜\" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210928193703 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-09-30",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "Relevant narrative on Virgil Griffith arrest by @emmangoldstein /cc @Ethan_Lou",
+  "url": "https://twitter.com/fpietrosanti/status/1443670064679563267",
+  "language": "en",
+  "role": "author",
+  "note": "Full text: \"Relevant narrative on Virgil Griffith arrest by @emmangoldstein /cc @Ethan_Lou\" Quotes: \"Our latest episode is now available!  MP3: https://t.co/ch8HL6FRyt RSS: https://t.co/kZGTcOfzmA https://t.co/B1qWlj7z0g\". Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210930201331 listed in CDX (Wayback HTML not opened: archive.org bot-flag).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_asia_2026-10-04"
   ],
   "on_old_site": false
  },

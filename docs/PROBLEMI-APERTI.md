@@ -112,6 +112,19 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-octies. 2026-10-04
+- Copie delle 19 voci nuove **tutte ottenute** (28 tweet dal Web Archive). La copia automatica di `camera.it/leg18/1372`
+  aveva preso una capture del 20/06/2019, **precedente** alla tua candidatura → sostituita a mano con la 20200926: nome presente.
+  Il **PDF del tuo curriculum** depositato alla Camera non è mai stato archiviato (CDX vuoto, live 404): ce l'hai tu?
+- **Foto TimePie** (forum biohacker 12/9): 33 file nelle copie `523c49878113` e `ebce85101353` (cartelle `photos/`).
+  Domanda: **la foto 05 sei tu?** (uomo in camicia bianca davanti alla slide «130+ biomarkers / N = 1»). Se hai il link
+  `mp.weixin.qq.com` dell'articolo originale del 12/9, mandamelo: Sogou porta solo alla pagina anti-bot.
+- **PrivateWave 2010 (B1)**: fatto il CDX rinviato il 02/10 su `privatewave.com/.it` e `privategsm.com/.it`: solo PDF
+  del 2009 (brochure) e del 2014 (manuali, licenze); la pagina «Press» (Confluence, 27/09/2012) elenca solo derstandard.at
+  e computerworld.ch. **Vicolo cieco confermato**: servono i PDF originali tuoi o dell'ex ufficio stampa (Theoria).
+- Radio Monte Carlo: nessuna capture neanche per `radiomontecarlo.net/audio/1032426*`. ❌ invariate (4).
+- Il Web Archive ha di nuovo segnalato l'IP come «bot» dopo poche richieste CDX parallele: limitarsi a richieste in serie.
+
 ### B0-septies. 2026-10-02
 - Copie delle voci nuove (01-02/10) **tutte ottenute**: CorCom, baiyi.com, CoinDesk ×2, MIT TR, AMBCrypto ×2,
   CoinReaders ×2, GQ, Medium ethex-smm, pagina e **MP3** di 2600 «Off The Hook» (trascrizione locale in `transcript.txt`).

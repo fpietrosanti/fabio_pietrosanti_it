@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-02 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-04 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **923**; già processate: **980**; ancora da processare: **0**
-- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **657** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **784**
+- Voci in `data/media.json`: **942**; già processate: **999**; ancora da processare: **0**
+- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **676** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **803**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **5**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **41**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **19**
@@ -45,9 +45,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 14 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 60 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 43 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 38 | 3 | 1 | 0 | 0 | 0 | 0 |
+| 2019 | 46 | 3 | 1 | 0 | 0 | 0 | 0 |
 | 2020 | 151 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2021 | 66 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 2021 | 77 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 49 | 7 | 0 | 0 | 0 | 0 | 1 |
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -820,12 +820,20 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Twitter @fpietrosanti (Wayback) — [Risposta a @lucatremolada: analisi sul DB AIRE per istituire seggi di voto all'estero](https://twitter.com/fpietrosanti/status/1195446177371701250) · copia: `2019/45d892666fca` (Web Archive 20191115) · licenza: terzi
 - **2019** · Twitter — [OSSCI: discussione perimetro vs spazio cibernetico per l'osservatorio](https://twitter.com/fpietrosanti/status/1196431404302770176) · copia: `2019/e7d69b3302bc` (Web Archive 20191118) · licenza: terzi
 - **2019** · Twitter — [Bundestag committee room (hint of appearance)](https://twitter.com/fpietrosanti/status/1199929402521509888) · copia: `2019/2287ae890740` (Web Archive 20191128) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1200543559096717314) · copia: `2019/3a490696028a` (Web Archive 20191129) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [There was no recording, it was a very basic knowledge conference, something that could be ](https://twitter.com/fpietrosanti/status/1200736032821534727) · copia: `2019/2c308e3e6e10` (Web Archive 20191130) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I don’t see a problem, Virgil under interrogation surely already provided my name and i ne](https://twitter.com/fpietrosanti/status/1200736035359076352) · copia: `2019/dd8c4f136e07` (Web Archive 20191130) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [Simply there was no plan or conspiracy :-)](https://twitter.com/fpietrosanti/status/1201018905076080641) · copia: `2019/f474be16435a` (Web Archive 20191201) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [From what I personally saw there and what I’ve been told those are just bullshit, misinter](https://twitter.com/fpietrosanti/status/1201039691912491009) · copia: `2019/5c868dcbd234` (Web Archive 20191201) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [So why Virgil Griffith is jail? "Because discussing “smart contracts” “proof of Work” vers](https://twitter.com/fpietrosanti/status/1201302625813254144) · copia: `2019/895cc1f70ba4` (Web Archive 20191202) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [“The FBI’s case against a famous hacker for allegedly trying to help North Korea use crypt](https://twitter.com/fpietrosanti/status/1203105625267474433) · copia: `2019/5ae4583e2150` (Web Archive 20191207) · licenza: terzi
 - **2019** · Dipartimento della Funzione Pubblica - i — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/) · copia: `2019/fed00e4c6d1e` (Web Archive 20190724) · licenza: propria
 - **2019** · 2600 Off The Hook (WBAI/2600, Emmanuel G — [Off The Hook, 12/04/19 - Virgil Griffith charged; Fabio Pietrosanti joins from Italy](https://www.2600.com/offthehook/2019/1219.html) · copia: `2019/75b6b75dad29` (Web Archive 20210305) · licenza: terzi
 - **2019** · 2600 Off The Hook — [Off The Hook 2019-12-04 (MP3)](https://www.2600.com/offthehook/mp3files/2019/off_the_hook__20191204.mp3) · copia: `2019/65c1ec38a5c9` (live) · licenza: terzi
 - **2019** · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/) · copia: `2019/b455b7db3090` (Web Archive 20190410) · licenza: propria
 - **2019** · AGI - Agenzia Italia (blog Cybersecurity — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://www.agi.it/blog-italia/cybersecurity/post/2019-03-09/blockchain_rousseau_voto_elettronico_casaleggio-5117572/) · copia: `2019/347043478153` (Web Archive 20240419) · licenza: terzi
 - **2019** · 百亿财经 baiyi.com — [朝鲜加密货币活动参与者称制裁议题未被提及](https://www.baiyi.com/news/4c90c1481cc94ea0ae6c844e141b54ce.html) · copia: `2019/eb7cf485dda1` (live) · licenza: terzi
+- **2019** · Camera dei deputati (XVIII legislatura) — [Candidature a componente del Collegio del Garante per la protezione dei dati personali per](https://www.camera.it/leg18/1372) · copia: `2019/8a9c23efa364` (Web Archive 20200926) · licenza: terzi
 - **2019** · CoinDesk — [Freedom Fighter or Fool? Jury's Out on Arrested Ethereum Developer Virgil Griffith](https://www.coindesk.com/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/58fcdc1a6a26` (Web Archive 20210916) · licenza: terzi
 - **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://www.coindesk.com/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says/) · copia: `2019/a44cf63f7ba2` (Web Archive 20210918) · licenza: terzi
 - **2019** · CorCom (Corriere Comunicazioni) — [Garante Privacy, 86 nuovi candidati](https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/) · copia: `2019/2f34a5770751` (live) · licenza: terzi
@@ -1050,6 +1058,17 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · Twitter — [Contro il voto elettronico: Biden; in Italia Madia e Brescia mettono a repentaglio la demo](https://twitter.com/fpietrosanti/status/1415336303223349256) · copia: `2021/6cdaf4d60f58` (Web Archive 20210714) · licenza: terzi
 - **2021** · Twitter — [Sperimentazione del Viminale: dimostreremo l'incostituzionalita' del voto elettronico in I](https://twitter.com/fpietrosanti/status/1415357741049262083) · copia: `2021/f3060760fafa` (live) · licenza: terzi
 - **2021** · Twitter — [L'imbarazzante risposta di Brescia a Luca De Biase sul voto via internet](https://twitter.com/fpietrosanti/status/1418257150024065031) · copia: `2021/7d967cf1c17e` (Web Archive 20210722) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [I was with Virgil there and really, he never had any conspiracy spirit, he’s a free spirit](https://twitter.com/fpietrosanti/status/1442178901099233280) · copia: `2021/61bc743a78a9` (Web Archive 20210926) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [Also @Ethan_Lou was on that trip together and could be available](https://twitter.com/fpietrosanti/status/1442214894191906817) · copia: `2021/550a7ab2f828` (Web Archive 20210926) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [In this case there’s only one certainty: It’s the outcome of Virgil provocative approach,w](https://twitter.com/fpietrosanti/status/1442217586062761986) · copia: `2021/0c1d75b05fd7` (Web Archive 20210926) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [That’s really not true, I was there, I know Virgil and it’s a very well articulated legal ](https://twitter.com/fpietrosanti/status/1442549592361508865) · copia: `2021/f68140060471` (Web Archive 20210927) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [Virgil gives his mobile and laptop voluntarily to the FBI, soon as he was stopped the firs](https://twitter.com/fpietrosanti/status/1442743803455094785) · copia: `2021/0f38a1d6e31b` (Web Archive 20210928) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [No, the conference was not state-funded, but the entire trip was funded by the participant](https://twitter.com/fpietrosanti/status/1442744623898705920) · copia: `2021/71b73c337c2a` (Web Archive 20210928) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [Hey @emmangoldstein you should get in touch with a common Virgil friend that went out with](https://twitter.com/fpietrosanti/status/1442929081272524800) · copia: `2021/a92b2ad66770` (Web Archive 20210928) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [No, the website say that is organized, not funded. Each participants spent the very same a](https://twitter.com/fpietrosanti/status/1442934098071195649) · copia: `2021/05feee980abc` (Web Archive 20210928) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [I would had been happy if they paid for all or our travel and stay, it seems we paid for i](https://twitter.com/fpietrosanti/status/1442935508590424067) · copia: `2021/a6efd3d89e85` (Web Archive 20210928) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [In that specification I agree, they surely had provided the room for the conference and so](https://twitter.com/fpietrosanti/status/1442936355860844546) · copia: `2021/d082763626ed` (Web Archive 20210928) · licenza: terzi
+- **2021** · Twitter (@fpietrosanti) — [Relevant narrative on Virgil Griffith arrest by @emmangoldstein /cc @Ethan_Lou](https://twitter.com/fpietrosanti/status/1443670064679563267) · copia: `2021/29320faa6f6a` (Web Archive 20210930) · licenza: terzi
 - **2021** · Twitter — [@informapirata: la grande sola del voto elettronico, il FOIA di @fpietrosanti (Agenda Digi](https://twitter.com/informapirata/status/1373653767376228354) · copia: `2021/95b5908e7cf6` (Web Archive 20210321) · licenza: terzi
 - **2021** · Twitter — [@lastknight: con l'aiuto di @fpietrosanti ecco perche' il voto elettronico e' ANCORA una p](https://twitter.com/lastknight/status/1402148459692572672) · copia: `2021/230a56cf237a` (Web Archive 20210608) · licenza: terzi
 - **2021** · Twitter — [@smaffulli a Vito Crimi: il voto elettronico non esiste in nessun paese democratico (cc @f](https://twitter.com/smaffulli/status/1388266404097323008) · copia: `2021/836af16e2ac7` (Web Archive 20210430) · licenza: terzi

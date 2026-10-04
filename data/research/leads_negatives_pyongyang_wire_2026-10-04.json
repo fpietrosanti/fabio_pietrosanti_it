@@ -1,0 +1,147 @@
+[
+ {
+  "outlet": "GDELT DOC 2.0 API",
+  "checked": "query=Pietrosanti mode=artlist, 2019-04-01..2022-05-31 (single wide window after per-window calls hit 429)",
+  "result": "empty {} (0 articles); second query 'Pietrosanti korea' and per-window queries returned HTTP 429 rate-limit (shared IP with other agents)"
+ },
+ {
+  "outlet": "Bloomberg (Bob Van Voris) 2022-04-25 'Crypto Conference in North Korea Leads to More Criminal Charges'",
+  "checked": "Wayback 20220425221944 + syndicated full text in Japan Times 2022-04-26 (Wayback 20240518204327)",
+  "result": "no Pietrosanti; names only Cao de Benos, Emms, Griffith"
+ },
+ {
+  "outlet": "Bloomberg 2022-04-12 'Crypto expert gets 63 months' / 2019-11-29 'Cryptocurrency Expert Charged With Aiding North Korea'",
+  "checked": "Wayback capture of 2022-04-12 (bot page, no text); 2019-11-29 only via search snippet",
+  "result": "inconclusive/negative; no name in any snippet"
+ },
+ {
+  "outlet": "Japan Times",
+  "checked": "2022-04-26 Bloomberg syndication full text via Wayback",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "Fortune 2022-04-12 Griffith sentence",
+  "checked": "live page grep",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "Forbes (Jason Brett) 2020-01-11 'Internet Man Of Mystery Virgil Griffith Indicted'",
+  "checked": "Wayback 2020 capture grep (17 Griffith hits)",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "Forbes/Business Insider/Wired/The Verge/Reuters/AP/France24/Guardian/Bloomberg",
+  "checked": "WebSearch site: queries for Pietrosanti (+North Korea)",
+  "result": "no hits on any domain (only The Register 2010 SecurStar story, off-topic)"
+ },
+ {
+  "outlet": "Guardian / BBC Griffith Nov 2019",
+  "checked": "guessed URLs returned 404; site: search",
+  "result": "no hits"
+ },
+ {
+  "outlet": "Washington Post 2021-09-27 Griffith plea",
+  "checked": "live fetch failed (000); search snippet",
+  "result": "no name in snippet; unverified negative"
+ },
+ {
+  "outlet": "TechCrunch 2019-12-03, Slate 2019-12, Salon 2019-12-04, Al Jazeera 2019-11-30",
+  "checked": "live page grep",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "The Diplomat",
+  "checked": "2019-04 'A Closer Look at North Korea's Virtual Currency Ambitions', 2021-09 Griffith plea article, site search ?s=Pietrosanti",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "NK News",
+  "checked": "2022-04 Griffith sentenced article grep; site search ?s=Pietrosanti (results JS-rendered, no hits in HTML); WebSearch site:nknews.org",
+  "result": "no Pietrosanti; NK Pro paywalled not checked"
+ },
+ {
+  "outlet": "Daily NK / Korea Herald / Korea Times / Yonhap",
+  "checked": "WebSearch site: query; Daily NK site search",
+  "result": "no hits"
+ },
+ {
+  "outlet": "Korean press (VOA Korea 6033975, Monthly JoongAng 328575, Decenter 12492610, RFA Korean 2022-03-07, Financial News 2019-12-03, Hankook Ilbo 2019-12-01)",
+  "checked": "live page grep for Pietrosanti/피에트로/이탈리아",
+  "result": "no mention"
+ },
+ {
+  "outlet": "SCMP 2022 Griffith 63 months",
+  "checked": "live page grep",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "Wikipedia EN 'Virgil Griffith' and 'Italy–North Korea relations'",
+  "checked": "live page grep",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "DL News (sentence cut; Spain detains aristocrat; release)",
+  "checked": "live page grep (2 pages)",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "Cointelegraph Magazine 'Acid, Bitcoin mining and a bad trip to North Korea' + 'The FBI's takedown of Virgil Griffith, firsthand'",
+  "checked": "WebFetch full text",
+  "result": "no Pietrosanti/Fabio/Italian attendee"
+ },
+ {
+  "outlet": "CoinDesk other Griffith articles (2022-04-12 sentence, 2022-04-25 Europeans charged, 2025-04-09 release, Ethan Lou video)",
+  "checked": "live page grep",
+  "result": "no Pietrosanti (only the two known 2019-12-03 articles carry the name)"
+ },
+ {
+  "outlet": "Ethan Lou Substack 'The Trial of Virgil Griffith' series (9 posts 2021-09..2022-05)",
+  "checked": "Substack archive API + HTML grep each post",
+  "result": "no Pietrosanti/Fabio"
+ },
+ {
+  "outlet": "2600 Off The Hook 2022-04-22 (sentencing) and 2021-09-29 index",
+  "checked": "live page grep",
+  "result": "no Pietrosanti (2019-12-19 page and 2019-12-04 mp3 already known)"
+ },
+ {
+  "outlet": "Blockworks (Emms Q&A, Emms stuck in Saudi Arabia), TittlePress, BeInCrypto, CCN, Asia Blockchain Review, The Block",
+  "checked": "live 403; Wayback captures returned bot pages or none",
+  "result": "unverifiable (blocked), no name in search snippets"
+ },
+ {
+  "outlet": "French/German press (developpez.com, Tom's Guide FR, cryptoast, cryptonews FR, Pixels Ingenierie, t3n.de)",
+  "checked": "live page grep",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "Spanish press (El Pais/El Mundo/ABC/La Vanguardia site: search; The Objective 2022-05-25; El Debate 2023-12-02; Perfil; Infobae 2021-09-29; cryptonews.net ES)",
+  "checked": "site: search + live grep",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "Chinese/Japanese (AICoin 39548, GIGAZINE 2019-12-03, CoinDesk Japan 29539; searches in zh/ja)",
+  "checked": "live grep + WebSearch",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "Misc crypto (Yahoo 'North Korea to host another conference', MIT TR 2020-01-15 UN warning, PC Gamer, CoinGeek, finews, pymnts, cryptoslate, David Gerard blog + site search)",
+  "checked": "live page grep",
+  "result": "no Pietrosanti"
+ },
+ {
+  "outlet": "Video/TV/podcasts (YouTube, documentaries, podcasts)",
+  "checked": "WebSearch queries for Pietrosanti + Pyongyang/North Korea video/podcast/documentary",
+  "result": "nothing beyond already-known 2600 Off The Hook 2019-12-04"
+ },
+ {
+  "outlet": "Internet Archive full-text search",
+  "checked": "be-api fts 'Pietrosanti Pyongyang' / 'Pietrosanti Griffith' / 'Pietrosanti \"North Korea\"'",
+  "result": "only non-phrase noise (Italian newspaper microfilms, directories); Ethan Lou book listed (already known)"
+ },
+ {
+  "outlet": "coinage.it repost of CoinDesk 'Sanctions Weren't Discussed'",
+  "checked": "live (ECONNREFUSED), Wayback CDX (no captures)",
+  "result": "already in media.json as mirror of the CoinDesk item; not re-reported"
+ }
+]

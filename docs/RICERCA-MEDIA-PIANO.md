@@ -226,7 +226,12 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   caricati via JavaScript, nessuna capture) e i 2 post Facebook (servono login).
   **2026-10-01:** puntata Radio 24 del 13/03/2020 letta dal JSON dell'episodio → ospiti Quarteroni, Bonannini e altri,
   **non Fabio** (esclusa). **Resta solo** il testo dei 2 post Facebook, che solo Fabio può fornire.
-- [ ] Foto del «生物极客闭门论坛» nell'articolo WeChat ufficiale TimePie del 12/9: salvarle nell'archivio.
+- [x] **Foto del «生物极客闭门论坛» — fatto il 2026-10-04**: 10 foto della sezione forum (copia `2026/523c49878113/photos/`,
+  dalla ripresa Baijiahao 18/09 dell'articolo del 12/9) + 23 dal riepilogo Sohu 20/9 (`2026/ebce85101353/photos/`: forum
+  senza filigrana + cena «永生之夜»), con `README.md` per foto. **Foto 05** = probabilmente tu sul palco (slide «130+
+  biomarkers / N = 1»), nessuna didascalia col nome. Il testo di entrambi gli articoli ti nomina («开源抗衰数据平台开发者
+  Fabio Pietrosanti»). Originale `mp.weixin.qq.com` non ottenuto (Sogou → pagina anti-bot, non aggirata); l'articolo del
+  13/9 sul solo forum a porte chiuse non esiste tra i post Sohu di TimePie.
 - [ ] Video ufficiali TimePie: Fabio avviserà quando pubblicati → scaricarli e archiviarli.
 - [x] **Progetto AIRE — fatto il 2026-09-25** (`pass4_aire_voto_estero`, +27 voci, 9 verificate). Non un progetto
   finanziato ma una ricerca di policy alternativa al fondo di 1 M€ per il voto elettronico (L. 160/2019, c. 627):
@@ -266,6 +271,33 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   aprile 2019, patteggiamento 2021 e condanna 2022; archivi Reuters/AP/AFP, Bloomberg news dic. 2019, NYT/WaPo/Guardian/
   BBC/Wired, El País/El Mundo/ABC, Yonhap/Chosun; Japan Times, UPI, Forbes, France24 (anti-bot); i suoi tweet di aprile
   e nov–dic 2019 (Web Archive offline/limitato il 02/10); CoinDesk Japan (traduzione dell'intervista?); TV e video.
+  **Passata 2026-10-04 (`pass4_pyongyang_wire`, `pass4_pyongyang_tweets_asia`) → +28 tweet verificati, 0 articoli.**
+  **Tweet** (CDX Web Archive → 6.256 status archiviati, 164 letti): 29/11–01/12/2019 la stessa risposta ripetuta a 11
+  account (CoinDesk, McAfee, NK News, VICE, 2600, Kim Dotcom, USA Today… «I went in North Korea with Virgil… willing to
+  provide my testimony», accorpata in una voce) + 6 risposte diverse («no plan or conspiracy», «the entire affidavit
+  isn't honest»), 02 e 07/12/2019; **26-30/09/2021** (patteggiamento) 10 tweet (con Ethan Lou, «cryptoanarchism
+  trolling», viaggio pagato dai partecipanti a prezzi Koryo Tours). Aprile 2019: nessun tweet sul tema; aprile 2022: niente.
+  **Negativi** (29 controlli in `leads_negatives_pyongyang_wire_2026-10-04.json`, 2026-10-04 asia): Bloomberg 2022 (via
+  Japan Times), Forbes, Fortune, TechCrunch, Slate, Al Jazeera, SCMP, The Diplomat, NK News, Daily NK, Korea Herald/Times,
+  Yonhap, VOA/RFA coreane, Decenter, Tokenpost, Blockmedia, CoinDesk Japan, CoinPost, Business Insider Japan, Sina
+  (traduzione CoinDesk), stampa FR/DE/ES; i 9 post Substack di Ethan Lou sul processo; 2600 del 22/04/2022. L'«originale
+  cinese» di baiyi.com **non esiste**: baiyi si dà come fonte (百亿财经). Omonimo: Bruno Pietrosanti (CoinDesk 04/2020).
+  **Resta:** GDELT per finestre (429); Blockworks, The Block, BeInCrypto, CCN (403, Wayback anti-bot); NK Pro, Bloomberg
+  29/11/2019 e WaPo 27/09/2021 (paywall); ~90 tweet archiviati 19/12/2019–10/01/2020 e ~35 di set/ott 2021 non letti; 6
+  tweet cancellati nelle finestre (capture esistenti, rileggere dal server); podcast NK News ep. 301; eventuale 2600 di
+  set/ott 2021. **Proposta:** dopo la lettura dei tweet residui, chiudere la voce.
+
+## Note sessione 2026-10-04
+- **942 voci** in `data/media.json` (+19: 28 tweet Pyongyang/Griffith, di cui 11 risposte identiche accorpate in una voce,
+  + elenco ufficiale Camera dei candidati al **Garante privacy** 2019).
+- **Garante privacy 2019 chiuso:** `camera.it/leg18/1372` (capture Web Archive 26/09/2020) elenca «Pietrosanti Fabio (**)»
+  = candidatura dopo la riapertura dei termini del 7/10/2019, con link al curriculum `CV_PIETROSANTI_FABIO_.pdf` (mai
+  archiviato, live 404). Conferma CorCom 31/10/2019.
+- **Scelta della voce:** le prime voci aperte restano bloccate (Chrome, chiavi API, risposte di Fabio); lavorate le foto
+  TimePie (prima voce sbloccabile) e i residui Pyongyang/Griffith.
+- **Web Archive:** di nuovo blocco «suspected abusive bot traffic» dopo poche richieste CDX in parallelo; lo script delle
+  copie però ha funzionato subito dopo. I tweet sono stati letti dall'endpoint pubblico `cdn.syndication.twimg.com`
+  (testo + autore), le copie vengono dal Web Archive.
 
 ## Note sessione 2026-10-02
 - **923 voci** in `data/media.json` (809 verificate): +1 dai file grezzi del 01/10 (la run si era fermata prima di merge e
