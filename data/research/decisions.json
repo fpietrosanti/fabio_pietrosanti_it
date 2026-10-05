@@ -468,7 +468,8 @@
     "year": 2023,
     "outlet": "YouTube, canale CyberCoach (Gerardo Costabile)",
     "verified": true,
-    "note": "CyberCoach di Gerardo Costabile, pubblicato il 2023-01-17 (data-date 1673952750 nel feed YouTube della pagina https://costabile.net/cibercoach/, letta il 2026-09-24). Descrizione: «Oggi incontriamo Fabio Pietrosanti (aka Naif), un hacker da circa 25 anni… mindset dell'hacking… tre libri must to read». Il video su YouTube non è più disponibile e il canale @cyber_coach risponde 404 (canale rimosso): nessuna ricopia trovata."
+    "note": "CyberCoach di Gerardo Costabile, pubblicato il 2023-01-17 (data-date 1673952750 nel feed YouTube della pagina https://costabile.net/cibercoach/, letta il 2026-09-24). Descrizione: «Oggi incontriamo Fabio Pietrosanti (aka Naif), un hacker da circa 25 anni… mindset dell'hacking… tre libri must to read». Il video su YouTube non è più disponibile e il canale @cyber_coach risponde 404 (canale rimosso): nessuna ricopia trovata.",
+    "note_fabio": "Risposta di Fabio 2026-10-05: nemmeno Costabile ha il video: copia irrecuperabile, resta la pagina costabile.net."
    }
   },
   {
@@ -486,6 +487,73 @@
     "role": "interviewee",
     "note": "Tg1 05/01/2025 (servizio di Barbara Carfagna) sui biohacker e l'XPrize. Verificato 2026-09-26 sul video (copia locale, 79 s): a 0:26-0:42 parla Fabio, didascalia in sovrimpressione 'Fabio Pietrosanti - Biohacker' (0:34, fotogramma salvato nella copia): 'I biohacker, al di là dell'informatica, cercano di ridurre... i biomarcatori del proprio corpo a uno stato di età biologica inferiore a quella cronologica'. Altri intervistati: Teemu Arina, Aubrey de Grey."
    }
+  },
+  {
+   "url": "https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/",
+   "set": {
+    "note_fabio": "Risposta di Fabio 2026-10-05: candidatura al collegio del Garante confermata, presentata «con intento provocatorio e un po' troll»."
+   }
+  },
+  {
+   "url": "https://www.camera.it/leg18/1372",
+   "set": {
+    "note_fabio": "Risposta di Fabio 2026-10-05: candidatura confermata, «con intento provocatorio e un po' troll»."
+   }
+  },
+  {
+   "url": "https://www.bilibili.com/video/BV1X9YR68ETj/",
+   "set": {
+    "verified": true,
+    "note_fabio": "Risposta di Fabio 2026-10-05: «sì, sono io» (cena «永生之夜» del 12/9, fotogramma 0:32)."
+   }
+  },
+  {
+   "url": "https://www.bilibili.com/video/BV1Rwh76XEhj/",
+   "set": {
+    "verified": true,
+    "note_fabio": "Risposta di Fabio 2026-10-05: «sì, sono io» (scena della cena a 1:34)."
+   }
+  },
+  {
+   "url": "https://c.m.163.com/news/v/VG6GUA7FN.html",
+   "set": {
+    "verified": true,
+    "note_fabio": "Risposta di Fabio 2026-10-05: «sì, sono io» (scena della cena a 1:34)."
+   }
+  },
+  {
+   "url": "https://baijiahao.baidu.com/s?id=1876633550786371641",
+   "set": {
+    "note_fabio": "Risposta di Fabio 2026-10-05: la foto 05 del forum biohacker (slide «130+ biomarkers / N = 1») è lui."
+   }
+  },
+  {
+   "url": "https://www.sohu.com/a/1078945684_100270039",
+   "set": {
+    "note_fabio": "Risposta di Fabio 2026-10-05: la foto 05 del forum biohacker è lui."
+   }
+  },
+  {
+   "url": "https://eclecticismnow.wordpress.com/2020/03/29/sim-toolkit-uses-notes-for-covid-19/",
+   "set": {
+    "verified": true,
+    "role": "author",
+    "note_fabio": "Risposta di Fabio 2026-10-05: il blog «Eclecticism Now!» è suo (lo ha usato per un periodo); si può scrivere e riportare come suo."
+   }
+  },
+  {
+   "url": "https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/",
+   "set": {
+    "verified": true,
+    "role": "author",
+    "note_fabio": "Risposta di Fabio 2026-10-05: il blog «Eclecticism Now!» è suo."
+   }
+  },
+  {
+   "url": "https://twitter.com/fpietrosanti/status/1199929402521509888",
+   "set": {
+    "note_fabio": "Risposta di Fabio 2026-10-05: all'audizione Linke del 27/11/2019 al Bundestag non è intervenuto come relatore."
+   }
   }
  ],
  "open_questions": [
@@ -494,9 +562,21 @@
    "status": "Fabio does not remember; keep searching (Web Archive of radiomontecarlo.net)"
   },
   "2026-09-26 Sky TG24 02/07/2013 'Datagate, il mondo delle spie visto da dentro' (v164249): video scaricato e visto per intero (2'07\"): l'unico intervistato e' Matteo Flora ('Esperto di sicurezza - Fondatore di The Fool'); Fabio non compare, ne' nome ne' voce. La voce veniva solo dalla pagina News/Press di Hermes. Escludere (regola: senza nome non e' lui) o c'era un altro servizio Sky?",
-  "2026-10-01 CorCom 31/10/2019 «Garante privacy, 72/86 nuovi candidati»: l'esclusione del 23/09 (presunto artefatto 'Maria Clara Pietrosanti'/'Fabio Piperno') era SBAGLIATA — l'HTML ha voci distinte <li>Piatti Maria Clara</li><li>Pietrosanti Fabio</li><li>Piperno Matteo</li>. Esclusione tolta, voce verificata. Coerente col tweet @partitopirata del 10/07/2020 (due pirati candidati, @fpietrosanti). Fabio: confermi di aver presentato la candidatura al collegio del Garante nell'ottobre 2019?",
-  "2026-10-01 NetEase VG6GUA7FN (riepilogo TimePie 2'35\", = Bilibili BV1Rwh76XEhj): l'esclusione del 30/09 era incompleta — a 1:33.7-1:34.8 la scena della cena (didascalia 投资人与生物极客) mostra Fabio a tavola (camicia di lino bianca, cordino rosso TimePie), stessa inquadratura della clip Bilibili BV1X9YR68ETj (cena 永生之夜, 0:31-0:33). Esclusione tolta, verifica a vista. Fabio: confermi che sei tu?",
-  "2026-10-02 Pyongyang 2019 / caso Griffith: trovate 12 voci che ti citano (CoinDesk 03/12/2019 intervista, 2600 Off The Hook 04/12/2019 in diretta dall'Italia, MIT Technology Review, AMBCrypto, CoinReaders KR, Substack Taylor Simone 2021, British GQ 2022). Ricordi altre interviste (TV, radio, podcast) su Pyongyang/Griffith, o una testimonianza agli avvocati di Griffith?",
-  "2026-10-02 Bundestag 27/11/2019: l'evento e' l'audizione pubblica della Linke «Medien unter Beschuss» (Assange/WikiLeaks); nell'elenco relatori noto non ci sei. Eri tra il pubblico o sei intervenuto?"
- ]
+  "2026-10-02 Pyongyang 2019 / caso Griffith: trovate 12 voci che ti citano (CoinDesk 03/12/2019 intervista, 2600 Off The Hook 04/12/2019 in diretta dall'Italia, MIT Technology Review, AMBCrypto, CoinReaders KR, Substack Taylor Simone 2021, British GQ 2022). Ricordi altre interviste (TV, radio, podcast) su Pyongyang/Griffith, o una testimonianza agli avvocati di Griffith?"
+ ],
+ "answers_2026_10_05": {
+  "A0.1 dati personali scuole": "non interessa, va bene così: nessuna richiesta di oscuramento; le copie restano solo nell'archivio privato",
+  "A0.2 libri": "ok; fare una sintesi dei libri con apposita sezione/tag nel sito",
+  "A0.4 PDF PrivateWave": "non li ha: voce chiusa come irrecuperabile",
+  "A0.5 Senato": "usare il browser locale",
+  "A0.6 OSSCI/COVID": "mettere tutto pubblico (osservatorio nel sito, nomi dei giuristi del Google Doc)",
+  "A0.6d CyberCoach": "Costabile non ha il video",
+  "A0.10a Eclecticism Now": "blog suo, usato per un periodo",
+  "A0.10c TimePie": "la registrazione integrale: TimePie avviserà quando online",
+  "A0.10d NetEase": "ok citare i dettagli",
+  "A0.12a Garante": "candidatura confermata, con intento provocatorio e un po' troll",
+  "A0.12b cena TimePie": "sì, è lui (anche la foto 05 del forum)",
+  "A0.12c Bundestag": "no (non relatore)",
+  "A0.12d Pyongyang altre interviste": "Bloomberg"
+ }
 }

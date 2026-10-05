@@ -126,6 +126,14 @@ details p{font-size:14.5px;color:var(--ink2);margin:8px 0;max-width:740px;white-
 .pref{font:500 12.5px var(--mono);color:var(--acc)}
 .pat .meta{margin:6px 0 8px;line-height:1.5}
 .pat .loc{font-weight:600}
+/* books */
+.books{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.book{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:10px;padding:16px 18px}
+.book .by{font:600 12px var(--mono);color:var(--acc2);display:flex;justify-content:space-between;gap:8px}
+.book .how{text-transform:uppercase;letter-spacing:.08em;color:var(--ink2)}
+.book h4{font:italic 600 17px/1.3 var(--serif);margin:6px 0 4px}
+.book .bmeta{font-size:12.5px;color:var(--ink2);margin-bottom:8px}
+.book p{font-size:14.5px;margin:0 0 8px}
 /* projects */
 .pgroup{margin:0 0 32px}
 .pgroup h3{font:600 12px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--ink3);margin:0 0 12px}
@@ -285,6 +293,8 @@ footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
   <div id="list"></div>
   <button class="more" id="more" hidden>Show more</button>
 </div></section>
+
+<section id="books"><div class="wrap">{{H_BOOKS}}{{BOOKS}}</div></section>
 
 <section id="artifacts"><div class="wrap">{{H_ARTIFACTS}}<div class="artstrip">{{ARTIFACTS}}</div></div></section>
 

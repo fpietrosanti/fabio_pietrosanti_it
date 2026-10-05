@@ -35,6 +35,10 @@
    "Archive"
   ],
   [
+   "books",
+   "Books"
+  ],
+  [
    "communities",
    "Communities"
   ],
@@ -124,6 +128,10 @@
   "artifacts": [
    "From the archive",
    "Title slides of his own talks, 2002–2010 — the full decks are in the archive."
+  ],
+  "books": [
+   "Books",
+   "Every book found so far that interviews, quotes, credits or cites him — and what each one actually says."
   ]
  },
  "story": [
@@ -309,12 +317,12 @@
    "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano"
   ],
   "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)": [
-   "Proposal during the pandemic to map outbreaks from mobile-network cell data. It never started.",
-   ""
+   "Proposal (March 2020) to use mobile-network cell data to support COVID-19 contact tracing, geo-targeted SMS alerts to outbreak clusters and quarantine notices, without giving public authorities individual identities or locations. Fabio was the primary author; legal opinions from Stefano Aterno, Carlo Piana, Saetta, Perri, Simbula, Monte, Gallus, Lisi and Pelino, comments from Gerardo Costabile, Agostini and Dirani. It never started.",
+   "https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk"
   ],
   "COVID-19: vulnerabilità dell'app COVID della Regione Lazio (con Giovanni Rocca)": [
-   "Security analysis of the Lazio region's COVID app, with Giovanni Rocca (2020).",
-   ""
+   "Security audit of the Lazio region's COVID app LAZIOdrCOVID with Giovanni Rocca (29 March 2020), done with Fabio's own tax code: fixed DES key, unlimited SMS checks, a token that opened any patient's reports. The main flaw was fixed within about six hours.",
+   "http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/"
   ],
   "OpenPUDO — primo software open source per reti PUDO (LESS)": [
    "Open-source software for pick-up and drop-off point networks, released by LESS in 2021.",
@@ -708,5 +716,18 @@
   "From the archive",
   "Title slides of his own talks, 2002–2010 — the full decks are in the archive."
  ],
- "focus_badge": "focus now"
+ "focus_badge": "focus now",
+ "books_ui": {
+  "how": {
+   "protagonist": "protagonist",
+   "interviewed": "interviewed",
+   "quoted": "quoted",
+   "mentioned": "mentioned",
+   "cited (bibliography)": "cited",
+   "contributor": "contributor",
+   "acknowledged": "acknowledged"
+  },
+  "source": "source",
+  "note": "Pages and wording come from the archived copies or the publisher's search-inside; where the page is unknown it is left blank. Books not searchable online are still being checked on paper."
+ }
 }

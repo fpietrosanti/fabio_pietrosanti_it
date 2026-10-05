@@ -215,6 +215,17 @@ def build(lang="en"):
         f'<a class="art" href="{esc(src)}" rel="noopener"><img loading="lazy" src="{esc(img)}" alt="">' 
         f'<span class="ay">{y}</span><span class="at">{esc(t)}</span></a>'
         for y, t, img, pdf, src in sorted(arts))
+    bui = c.get("books_ui", {})
+    book_list = load(ROOT / "data/books.json") if (ROOT / "data/books.json").exists() else []
+    books = "".join(
+        f'<article class="book"><div class="by">{esc(str(b["year"]))}'
+        f'<span class="how">{esc(bui.get("how", {}).get(b["how"], b["how"]))}</span></div>'
+        f'<h4>{esc(b["title"])}</h4><div class="bmeta">{esc(b["authors"])} · {esc(b["publisher"])}'
+        + (f' · {esc(b["pages"])}' if b.get("pages") else "") + f'</div><p>{esc(b["summary_en"])}</p><div class="plinks">'
+        + " ".join(f'<a href="{esc(u)}" rel="noopener">{esc(bui.get("source", "source"))} {n + 1}</a>' for n, u in enumerate(b["urls"][:3]))
+        + "</div></article>"
+        for b in sorted(book_list, key=lambda b: (b["year"], b["title"])))
+    books_html = (f'<div class="books">{books}</div><p class="note">{esc(bui.get("note", ""))}</p>') if books else ""
     comm = "".join(f'<div class="comm"><h4>{esc(n)}</h4><p>{esc(t)}</p></div>' for n, t in c["communities"])
     past = "".join(f'<li><a href="{esc(u)}">{esc(n)}</a></li>' for n, u in c["past_sites"])
     nav = "".join(f'<a href="#{k}">{esc(v)}</a>' for k, v in c["nav"])
@@ -247,6 +258,7 @@ def build(lang="en"):
         "H_FOCUS": head("focus", 3), "FOCUS": focus, "QUOTES": quotes,
         "EVIDENCE": evidence, "EVTITLE": esc(c["evidence_title"][0]), "EVSUB": esc(c["evidence_title"][1]),
         "H_ARTIFACTS": head("artifacts", 10), "ARTIFACTS": artifacts,
+        "H_BOOKS": head("books", 12) if "books" in st else "", "BOOKS": books_html,
         "H_TRUTH": head("truth", 6), "TRUTH": truth, "TAGS": json.dumps(
             {k: v["label_en"] for k, v in tagdefs.items() if not k.startswith("_")}, ensure_ascii=False),
         "H_COMM": head("communities", 8), "COMM": comm, "H_PAST": head("past", 9), "PAST": past,

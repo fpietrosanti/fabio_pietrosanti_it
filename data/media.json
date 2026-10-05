@@ -715,6 +715,9 @@
   "_slices": [
    "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
   ],
+  "tags": [
+   "books"
+  ],
   "on_old_site": false
  },
  {
@@ -1447,6 +1450,9 @@
    "slice1_1995_2006",
    "slice6_media_archives"
   ],
+  "tags": [
+   "books"
+  ],
   "on_old_site": false
  },
  {
@@ -1536,6 +1542,9 @@
   ],
   "mirrors": [
    "https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -1726,6 +1735,9 @@
   "_slices": [
    "pass4_books_scholar_retry_2026-09-26"
   ],
+  "tags": [
+   "books"
+  ],
   "on_old_site": false
  },
  {
@@ -1742,6 +1754,9 @@
   "known": false,
   "_slices": [
    "pass2_a_1995_2008"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -1763,6 +1778,9 @@
   ],
   "mirrors": [
    "https://archive.org/details/profilinghackers0000chie"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -3990,6 +4008,7 @@
    "pass4_books_2026-09-18"
   ],
   "tags": [
+   "books",
    "newsroom-leaks"
   ],
   "on_old_site": false
@@ -4434,6 +4453,7 @@
    "pass4_books_api_2026-09-21"
   ],
   "tags": [
+   "books",
    "newsroom-leaks"
   ],
   "on_old_site": false
@@ -4455,6 +4475,7 @@
    "slice7_academic"
   ],
   "tags": [
+   "books",
    "newsroom-leaks"
   ],
   "on_old_site": false
@@ -4696,6 +4717,9 @@
   "known": false,
   "_slices": [
    "pass4_books_it_2026-09-19"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -6344,6 +6368,7 @@
    "pass4_books_it_2026-09-19"
   ],
   "tags": [
+   "books",
    "newsroom-leaks"
   ],
   "on_old_site": false
@@ -7650,6 +7675,9 @@
   "_slices": [
    "pass4_ngo_reports_2026-09-19"
   ],
+  "tags": [
+   "books"
+  ],
   "on_old_site": false
  },
  {
@@ -7862,6 +7890,9 @@
   "known": false,
   "_slices": [
    "slice7_academic"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -8555,6 +8586,7 @@
    "pass4_books_it_2026-09-19"
   ],
   "tags": [
+   "books",
    "newsroom-leaks",
    "transparency"
   ],
@@ -8576,6 +8608,7 @@
    "pass4_books_it_2026-09-19"
   ],
   "tags": [
+   "books",
    "transparency"
   ],
   "on_old_site": false
@@ -9464,6 +9497,9 @@
    "pass4_books_api_2026-09-21",
    "pass4_books_it_2026-09-19"
   ],
+  "tags": [
+   "books"
+  ],
   "on_old_site": false
  },
  {
@@ -9553,6 +9589,7 @@
   "_slices": [
    "pass4_garante_camera_2026-10-04"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: candidatura confermata, «con intento provocatorio e un po' troll».",
   "on_old_site": false
  },
  {
@@ -9587,6 +9624,7 @@
   "_slices": [
    "pass4_bundestag_pirati_radio24_2026-10-01"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: candidatura al collegio del Garante confermata, presentata «con intento provocatorio e un po' troll».",
   "on_old_site": false
  },
  {
@@ -9780,6 +9818,7 @@
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: all'audizione Linke del 27/11/2019 al Bundestag non è intervenuto come relatore.",
   "on_old_site": false
  },
  {
@@ -10197,6 +10236,7 @@
    "pass4_archive_texts_2026-09-18"
   ],
   "tags": [
+   "books",
    "newsroom-leaks"
   ],
   "on_old_site": false
@@ -10218,6 +10258,7 @@
    "pass4_books_nonsearchable_2026-09-28"
   ],
   "tags": [
+   "books",
    "newsroom-leaks"
   ],
   "on_old_site": false
@@ -10236,6 +10277,9 @@
   "known": true,
   "_slices": [
    "pass4_archive_texts_2026-09-18"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -10256,6 +10300,7 @@
    "pass4_scholarly_2026-09-18"
   ],
   "tags": [
+   "books",
    "newsroom-leaks"
   ],
   "on_old_site": false
@@ -10276,6 +10321,9 @@
    "pass4_books_api_2026-09-21",
    "pass4_books_it_2026-09-19"
   ],
+  "tags": [
+   "books"
+  ],
   "on_old_site": false
  },
  {
@@ -10295,6 +10343,9 @@
   ],
   "mirrors": [
    "https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -11058,11 +11109,12 @@
   "language": "en",
   "role": "author",
   "note": "Note tecniche sull'uso del SIM Application Toolkit (comando SERVICE SEARCH) per Bluetooth discovery a fini di contact tracing COVID-19; condiviso da @fpietrosanti nel tweet 1244172224598335488 (Wayback). Blog firmato 'eclecticismnow' (stesso blog che ospita documenti FOIA di Fabio gia' in media.json): attribuzione da confermare.",
-  "verified": false,
+  "verified": true,
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: il blog «Eclecticism Now!» è suo (lo ha usato per un periodo); si può scrivere e riportare come suo.",
   "on_old_site": false
  },
  {
@@ -11335,6 +11387,9 @@
   "_slices": [
    "pass4_books_it_2026-09-19"
   ],
+  "tags": [
+   "books"
+  ],
   "on_old_site": false
  },
  {
@@ -11554,7 +11609,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass4_archive_texts_2026-09-18"
+   "pass4_archive_texts_2026-09-18",
+   "pass4_bloomberg_2026-10-05"
   ],
   "on_old_site": false
  },
@@ -11572,6 +11628,23 @@
   "known": false,
   "_slices": [
    "pass4_covid_dati_cella_2026-09-24"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-05-16",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "South China Morning Post – Post Magazine",
+  "title": "North Korea’s man in Spain, a socialist cheerleader who sells foreigners on the country’s advantages and takes a cut of deals",
+  "url": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3084222/north-koreas-man-spain-socialist-cheerleader-who",
+  "language": "en",
+  "role": "subject (attendee, interviewed)",
+  "note": "Syndication of the Bloomberg Businessweek feature by Josh Dean (og:title 'The teenage fanboy who became North Korea’s man in Spain'). Verified live 2026-10-05: 'Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti...'. Also covers the medical-software developers and the plan for an R&D centre (EUR 30,000 for 5-6 developers).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_bloomberg_2026-10-05"
   ],
   "on_old_site": false
  },
@@ -11697,6 +11770,7 @@
    "https://link.springer.com/book/10.1007/978-3-030-38505-7"
   ],
   "tags": [
+   "books",
    "newsroom-leaks"
   ],
   "on_old_site": false
@@ -13173,11 +13247,12 @@
   "language": "it",
   "role": "author",
   "note": "Post in prima persona («Ho fatto una richiesta FOIA per avere le email...») con la risposta del Ministero dell'Interno (file «Risposta a 2a richiesta di accesso FOIA Fabio Petrosanti») e le Linee Guida ANAC/Garante. Blog firmato 'eclecticismnow', linkato da @fpietrosanti nel tweet 1340312125261148160 (Wayback). Nome nella pagina solo nella grafia 'Petrosanti': da confermare l'attribuzione del blog.",
-  "verified": false,
+  "verified": true,
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: il blog «Eclecticism Now!» è suo.",
   "on_old_site": false
  },
  {
@@ -13211,6 +13286,9 @@
   "known": false,
   "_slices": [
    "pass4_archive_texts_2026-09-18"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -14705,6 +14783,9 @@
   "_slices": [
    "pass4_books_it_2026-09-19"
   ],
+  "tags": [
+   "books"
+  ],
   "on_old_site": false
  },
  {
@@ -14739,6 +14820,9 @@
   "_slices": [
    "pass4_books_api_2026-09-21",
    "pass4_books_it_2026-09-19"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -15809,6 +15893,7 @@
   "_slices": [
    "slice6_media_archives"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: nemmeno Costabile ha il video: copia irrecuperabile, resta la pagina costabile.net.",
   "on_old_site": false
  },
  {
@@ -15994,6 +16079,40 @@
   "on_old_site": false
  },
  {
+  "date": "2024-04-25",
+  "year": 2024,
+  "type": "mentioned",
+  "outlet": "Bloomberg Businessweek (bloomberg.com)",
+  "title": "How Alejandro Cao de Benós, North Korea’s Man in Spain, Ran Afoul of the US",
+  "url": "https://www.bloomberg.com/news/articles/2024-04-25/how-alejandro-cao-de-benos-north-korea-s-man-in-spain-ran-afoul-of-the-us",
+  "language": "en",
+  "role": "subject (quoted from the 2020 interview)",
+  "note": "By Brent Crane, brand=businessweek. Verified via Wayback capture 20240425143722 (id_). Text: 'Italian information security specialist Fabio Pietrosanti told the magazine for the 2020 story that the conference was strange: The English talks were translated into Korean with a delay... participants were not allowed to interact with a single North Korean.' The quote is reused from the 2020 Josh Dean interview, so this is not a new interview. Print version is possibly Magzter 'North Korea's biggest fan' (not verified, 403).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_bloomberg_2026-10-05"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2024-04-25",
+  "year": 2024,
+  "type": "mentioned",
+  "outlet": "Bloomberg Law",
+  "title": "How North Korea’s Man in the West Ran Afoul of US Authorities",
+  "url": "https://news.bloomberglaw.com/crypto/how-north-koreas-man-in-the-west-ran-afoul-of-us-authorities",
+  "language": "en",
+  "role": "subject (quoted)",
+  "note": "Bloomberg Law syndication of the Brent Crane Businessweek piece of 2024-04-25 (same datePublished and byline). The page fetched live 2026-10-05 has a truncated or paywalled body, and the string 'Pietrosanti' is not present, so it is not verified on this copy.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_bloomberg_2026-10-05"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2024-05-07",
   "year": 2024,
   "type": "book_chapter",
@@ -16010,6 +16129,7 @@
    "pass4_scholarly_apis_2026-09-21"
   ],
   "tags": [
+   "books",
    "newsroom-leaks",
    "transparency"
   ],
@@ -16030,6 +16150,9 @@
   "_slices": [
    "pass4_books_api_2026-09-21",
    "pass4_books_it_2026-09-19"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -16168,6 +16291,9 @@
    "pass4_books_api_2026-09-21",
    "pass4_books_it_2026-09-19"
   ],
+  "tags": [
+   "books"
+  ],
   "on_old_site": false
  },
  {
@@ -16238,6 +16364,9 @@
   "known": false,
   "_slices": [
    "pass4_books_it_2026-09-19"
+  ],
+  "tags": [
+   "books"
   ],
   "on_old_site": false
  },
@@ -16616,6 +16745,7 @@
    "pass4_cina_noBrowser_2026-10-01",
    "pass4_cina_video_2026-09-29"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: «sì, sono io» (cena «永生之夜» del 12/9, fotogramma 0:32).",
   "on_old_site": false
  },
  {
@@ -16679,11 +16809,12 @@
   "language": "zh",
   "role": "appears",
   "note": "2026-10-01: stesso montaggio del riepilogo NetEase VG6GUA7FN, dove a 1:33.7-1:34.8 Fabio compare nella scena della cena (投资人与生物极客). Questa copia Bilibili non è stata scaricata né vista: da verificare a vista.",
-  "verified": false,
+  "verified": true,
   "known": false,
   "_slices": [
    "pass4_cina_noBrowser_2026-10-01"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: «sì, sono io» (scena della cena a 1:34).",
   "on_old_site": false
  },
  {
@@ -16718,6 +16849,7 @@
   "_slices": [
    "pass4_cina_wechat_weibo_2026-09-29"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: la foto 05 del forum biohacker (slide «130+ biomarkers / N = 1») è lui.",
   "on_old_site": false
  },
  {
@@ -16769,6 +16901,7 @@
   "_slices": [
    "pass4_cina_wechat_weibo_2026-09-29"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: la foto 05 del forum biohacker è lui.",
   "on_old_site": false
  },
  {
@@ -16787,6 +16920,7 @@
    "pass4_cina_noBrowser_2026-10-01",
    "pass4_cina_wechat_weibo_2026-09-29"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-05: «sì, sono io» (scena della cena a 1:34).",
   "on_old_site": false
  }
 ]

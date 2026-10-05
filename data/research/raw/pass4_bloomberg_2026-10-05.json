@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2024-04-25",
+  "year": 2024,
+  "type": "mentioned",
+  "outlet": "Bloomberg Businessweek (bloomberg.com)",
+  "title": "How Alejandro Cao de Benós, North Korea’s Man in Spain, Ran Afoul of the US",
+  "url": "https://www.bloomberg.com/news/articles/2024-04-25/how-alejandro-cao-de-benos-north-korea-s-man-in-spain-ran-afoul-of-the-us",
+  "language": "en",
+  "role": "subject (quoted from the 2020 interview)",
+  "note": "By Brent Crane, brand=businessweek. Verified via Wayback capture 20240425143722 (id_). Text: 'Italian information security specialist Fabio Pietrosanti told the magazine for the 2020 story that the conference was strange: The English talks were translated into Korean with a delay... participants were not allowed to interact with a single North Korean.' The quote is reused from the 2020 Josh Dean interview, so this is not a new interview. Print version is possibly Magzter 'North Korea's biggest fan' (not verified, 403).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2024-04-25",
+  "year": 2024,
+  "type": "mentioned",
+  "outlet": "Bloomberg Law",
+  "title": "How North Korea’s Man in the West Ran Afoul of US Authorities",
+  "url": "https://news.bloomberglaw.com/crypto/how-north-koreas-man-in-the-west-ran-afoul-of-us-authorities",
+  "language": "en",
+  "role": "subject (quoted)",
+  "note": "Bloomberg Law syndication of the Brent Crane Businessweek piece of 2024-04-25 (same datePublished and byline). The page fetched live 2026-10-05 has a truncated or paywalled body, and the string 'Pietrosanti' is not present, so it is not verified on this copy.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2020-05-16",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "South China Morning Post – Post Magazine",
+  "title": "North Korea’s man in Spain, a socialist cheerleader who sells foreigners on the country’s advantages and takes a cut of deals",
+  "url": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3084222/north-koreas-man-spain-socialist-cheerleader-who",
+  "language": "en",
+  "role": "subject (attendee, interviewed)",
+  "note": "Syndication of the Bloomberg Businessweek feature by Josh Dean (og:title 'The teenage fanboy who became North Korea’s man in Spain'). Verified live 2026-10-05: 'Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti...'. Also covers the medical-software developers and the plan for an R&D centre (EUR 30,000 for 5-6 developers).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2020-05-04",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "Bloomberg Businessweek, 2020-05-04 issue",
+  "title": "The Road to Pyongyang Starts in Spain",
+  "url": "https://archive.org/details/business-week_2020-05-04",
+  "language": "en",
+  "role": "subject (attendee)",
+  "note": "Print headline re-confirmed 2026-10-05 through Internet Archive full-text search (be-api) highlights for this item: contents line '44 The Road to Pyongyang Starts in Spain'; deck 'Alejandro Cao de Benós is the go-to guy to get business done in...'; body 'Italian information-security specialist Fabio Pietrosanti' and 'Shortly thereafter, Pietrosanti paid €7,100 (about...'. The OCR djvu.txt is restricted (401, lending item). The byline is not visible in the OCR snippets; online byline is Josh Dean (Bloomberg/SCMP/Curio). Not Kit Chellel.",
+  "verified": true,
+  "known": true
+ }
+]

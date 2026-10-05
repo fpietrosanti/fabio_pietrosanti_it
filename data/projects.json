@@ -383,24 +383,26 @@
    "name": "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)",
    "start_year": "2020",
    "area": "covid / dati",
-   "status": "da-documentare",
+   "status": "fonti-raccolte",
    "description_en": "",
    "description_zh": "",
-   "link": "",
+   "link": "https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk",
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,
-   "sources": [],
-   "notes": "Proposta durante la pandemia di usare i dati delle celle telefoniche per mappare i focolai: ritrovare documenti e fonti."
+   "sources": [
+    "https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk"
+   ],
+   "notes": "Proposta durante la pandemia di usare i dati delle celle telefoniche per mappare i focolai: ritrovare documenti e fonti. 2026-10-05 (Fabio: tutto pubblico): proposta «Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-location mobile», 18-23/03/2020, autore primario Fabio; pareri giuridici di Aterno, Piana, Saetta, Perri, Simbula, Monte, Gallus, Lisi, Pelino; commenti di Costabile, Agostini, Dirani."
   },
   {
    "name": "COVID-19: vulnerabilità dell'app COVID della Regione Lazio (con Giovanni Rocca)",
    "start_year": "2020",
    "area": "covid / sicurezza",
-   "status": "da-documentare",
+   "status": "fonti-raccolte",
    "description_en": "",
    "description_zh": "",
-   "link": "",
+   "link": "http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/",
    "site_section": "",
    "linkedin_en": false,
    "linkedin_zh": false,

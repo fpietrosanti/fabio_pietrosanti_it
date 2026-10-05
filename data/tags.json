@@ -244,5 +244,43 @@
   ],
   "about_en": "His own investigations: SecurStar, ifuriosi, OpenRousseau, Kaspersky, MonitoraPA, FOIA requests on e-voting."
  },
- "_about": "Tag curati applicati da tools/merge_media.py a data/media.json. Proposti da tools/tag_media.py, poi corretti a mano. Tutti i tag qui sotto formano il taglio «giornalismo d'inchiesta»."
+ "_about": "Tag curati applicati da tools/merge_media.py a data/media.json. Proposti da tools/tag_media.py, poi corretti a mano. Tutti i tag qui sotto formano il taglio «giornalismo d'inchiesta».",
+ "books": {
+  "label_it": "Libri",
+  "label_en": "Books",
+  "about": "Libri che lo intervistano, citano, ringraziano o lo indicano come contributore (sintesi in docs/LIBRI.md, dati in data/books.json).",
+  "urls": [
+   "http://www.pluto.it/files/ildp/LDR/ldr5.html#index1124",
+   "http://www.shake.it/index.php?id=51&productID=541",
+   "https://archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale",
+   "https://archive.org/details/codingdemocracyh0000webb",
+   "https://archive.org/details/oapen-20.500.12657-47324/page/n225",
+   "https://archive.org/details/oncebitcoinminer0000loue",
+   "https://archive.org/details/profili_chi_2009_00_8384",
+   "https://archive.org/details/shootingmessenge0000fowl",
+   "https://archive.org/details/thismachinekills0000gree",
+   "https://archive.org/details/thismachinekills0000gree_i3p1",
+   "https://archive.org/details/thismachinekills00gree_0",
+   "https://archive.org/download/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale_LaGuidaHermesAlVotoDigitale_v1.0.pdf",
+   "https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ",
+   "https://books.google.com/books?id=5XJsAwAAQBAJ",
+   "https://books.google.com/books?id=GbEvEQAAQBAJ",
+   "https://books.google.com/books?id=KOREEAAAQBAJ",
+   "https://books.google.com/books?id=RyCG694TkQAC",
+   "https://books.google.com/books?id=Wwl-EQAAQBAJ",
+   "https://books.google.com/books?id=X_djEAAAQBAJ",
+   "https://books.google.com/books?id=bFzJDwAAQBAJ",
+   "https://books.google.com/books?id=gkThDwAAQBAJ",
+   "https://books.google.com/books?id=rO2ODwAAQBAJ",
+   "https://books.google.com/books?id=s8-aDwAAQBAJ",
+   "https://books.google.com/books?id=tc-aDwAAQBAJ",
+   "https://books.google.com/books?id=xRREEQAAQBAJ",
+   "https://books.google.com/books?id=y2Amp_OwrPMC",
+   "https://doi.org/10.4337/9781802202106.00015",
+   "https://link.springer.com/chapter/10.1007/978-3-030-29053-5_10",
+   "https://link.springer.com/chapter/10.1007/978-3-030-38505-7_5",
+   "https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1",
+   "https://shake.it/libri/il-software-libero-in-italia/"
+  ]
+ }
 }

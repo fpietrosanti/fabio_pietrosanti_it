@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1245**; dopo deduplica: **942**
+- Risultati grezzi dalle ricerche: **1249**; dopo deduplica: **945**
 - Già presenti sul vecchio sito: **35** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 907**
-- Verificati aprendo la pagina: **828**; solo da risultato di ricerca: **114**
+- **Nuovi rispetto al vecchio sito: 910**
+- Verificati aprendo la pagina: **833**; solo da risultato di ricerca: **112**
 
-Per tipo (nuovi): Menzionato 146, tweet 124, Talk 76, Post sul blog infosecurity.ch 71, Video 63, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, article 22, social 22, Articolo scritto 20, documento 18, Report 18, Comunicato 17, articolo 12, Slide 11, Podcast 11, Paper 9, TV 9, Capitolo di libro 6, Intervista 6, village 5, pagina 5, Brevetto 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, audio 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, web 1, Audizione 1, institutional 1, event 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
+Per tipo (nuovi): Menzionato 149, tweet 124, Talk 76, Post sul blog infosecurity.ch 71, Video 63, Citato 48, Progetto 36, Altro 34, Ricerca 31, Radio 27, Libro 22, article 22, social 22, Articolo scritto 20, documento 18, Report 18, Comunicato 17, articolo 12, Slide 11, Podcast 11, Paper 9, TV 9, Capitolo di libro 6, Intervista 6, village 5, pagina 5, Brevetto 4, code repository 4, panel 3, workshop 3, Tesi 3, repository 3, audio 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, web 1, Audizione 1, institutional 1, event 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, project website (Wayback) 1, document (PDF) 1
 
 ### Copertura per anno
 
@@ -38,11 +38,11 @@ Per tipo (nuovi): Menzionato 146, tweet 124, Talk 76, Post sul blog infosecurity
 | 2017 | 0 | 71 | 71 |
 | 2018 | 0 | 69 | 69 |
 | 2019 | 0 | 55 | 55 |
-| 2020 | 0 | 171 | 171 |
+| 2020 | 0 | 172 | 172 |
 | 2021 | 0 | 88 | 88 |
 | 2022 | 0 | 59 | 59 |
 | 2023 | 0 | 11 | 11 |
-| 2024 | 0 | 7 | 7 |
+| 2024 | 0 | 9 | 9 |
 | 2025 | 0 | 9 | 9 |
 | 2026 | 0 | 31 | 31 |
 
@@ -62,7 +62,7 @@ Anni senza nessun risultato: nessuno
   Michele Pastore, reportage dal TimePie Longevity Forum di Shanghai: «Sul palco Fabio Pietrosanti, biohacking famoso in Italia, ha parlato del suo metodo innovativo di biohacking» (con Linda J. Kenney, Mechanobiologics). Pagina aperta e verificata il 2026-09-29.
 - 🆕 **2026-09-16** · Progetto · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)  
   Old blog of infosecurity.ch (restoration)
-- 🆕 **2026-09-14** · Video · Bilibili (时光派官方) — [Riepilogo TimePie 2026 (stesso video di NetEase VG6GUA7FN)](https://www.bilibili.com/video/BV1Rwh76XEhj/) _(non verificato)_  
+- 🆕 **2026-09-14** · Video · Bilibili (时光派官方) — [Riepilogo TimePie 2026 (stesso video di NetEase VG6GUA7FN)](https://www.bilibili.com/video/BV1Rwh76XEhj/)  
   2026-10-01: stesso montaggio del riepilogo NetEase VG6GUA7FN, dove a 1:33.7-1:34.8 Fabio compare nella scena della cena (投资人与生物极客). Questa copia Bilibili non è stata scaricata né vista: da verificare a vista.
 - 🆕 **2026-09-13** · Menzionato · 刘清洋 (WeChat account) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio%20Pietrosanti)  
   Chinese recap of 7th TimePie forum; lists 开源抗衰数据平台开发者Fabio Pietrosanti at the 生物极客闭门论坛 (article opened and verified)
@@ -134,7 +134,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2025-01-05** · TV · Rai 1 - Tg1 (servizio di Barbara Carfagna) — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html)  
   Tg1 05/01/2025 (servizio di Barbara Carfagna) sui biohacker e l'XPrize. Verificato 2026-09-26 sul video (copia locale, 79 s): a 0:26-0:42 parla Fabio, didascalia in sovrimpressione 'Fabio Pietrosanti - Biohacker' (0:34, fotogramma salvato nella copia): 'I biohacker, al di là dell'informatica, cercano di ridurre... i biomarcatori del proprio corpo a uno stato di età biologica inferiore a quella cronologica'. Altri intervistati: Teemu Arina, Aubrey de Grey.
 
-## 2024 — 7 voci, 7 nuove
+## 2024 — 9 voci, 9 nuove
 
 - 🆕 **2024-11-14** · Citato · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/)  
   Out of 2009-2015 slice, found incidentally; quoted as Hermes Center president on spyware prices in Italy
@@ -146,6 +146,10 @@ Anni senza nessun risultato: nessuno
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Authors: Massimiliano Nicotra, Fulvio Sarzana di S. Ippolito (ISBN 9788821784552). Snippet: '... Pietrosanti, presidente e co-fondatore del Centro Hermes per la trasparenza dei diritti umani digitali «Le frontiere verso cui si spinge la profilazione comportamentale degli utenti, grazie alle tecnologie di intelligenza artificiale ...'.
 - 🆕 **2024-05-07** · Capitolo di libro · Edward Elgar, Digital Media and Grassroots Anti-Corruption (ed. A. Mattoni), ch. 7, open access CC BY-NC-ND — [Digital whistleblowing platforms for anti-corruption: The Transparency International Italia case (Philip Di Salvo)](https://doi.org/10.4337/9781802202106.00015)  
   Open-access PDF of the whole book (University of Bologna repository, handle 11585/954772): p.145 'initiated by Italians Arturo Filastò, Claudio Agosti, Fabio Pietrosanti, Giovanni Pellerano and Michele Orrù' (2026-09-21)
+- 🆕 **2024-04-25** · Menzionato · Bloomberg Businessweek (bloomberg.com) — [How Alejandro Cao de Benós, North Korea’s Man in Spain, Ran Afoul of the US](https://www.bloomberg.com/news/articles/2024-04-25/how-alejandro-cao-de-benos-north-korea-s-man-in-spain-ran-afoul-of-the-us)  
+  By Brent Crane, brand=businessweek. Verified via Wayback capture 20240425143722 (id_). Text: 'Italian information security specialist Fabio Pietrosanti told the magazine for the 2020 story that the conference was strange: The English talks were translated into Korean with a delay... participants were not allowed to interact with a single North Korean.' The quote is reused from the 2020 Josh Dean interview, so this is not a new interview. Print version is possibly Magzter 'North Korea's biggest fan' (not verified, 403).
+- 🆕 **2024-04-25** · Menzionato · Bloomberg Law — [How North Korea’s Man in the West Ran Afoul of US Authorities](https://news.bloomberglaw.com/crypto/how-north-koreas-man-in-the-west-ran-afoul-of-us-authorities) _(non verificato)_  
+  Bloomberg Law syndication of the Brent Crane Businessweek piece of 2024-04-25 (same datePublished and byline). The page fetched live 2026-10-05 has a truncated or paywalled body, and the string 'Pietrosanti' is not present, so it is not verified on this copy.
 - 🆕 **2024** · Report · Ufficio Scolastico Regionale per il Lazio (MIM) - monitoraggio trasparenza e anticorruzione 2023, copia pubblicata da I.I.S. di Ceccano — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituzioni scolastiche del Lazio)](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf)  
   Rilevazione ufficiale dell'USR Lazio sulle misure di trasparenza nelle scuole. A riga 1315 del testo estratto compare la voce 'MONITORA PA DEL DOTT. FABIO PIETROSANTI - OTTOBRE 2022 - TRASPARENZA', registrata come causa di istanze di accesso civico ricevute dagli istituti.
 - 🆕 **2024** · documento · UNESCO, Global AI Ethics and Governance Observatory — [Hermes Center - Global Civil Society Organizations and Academic Network on AI Ethics and Policy](https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center) _(non verificato)_  
@@ -476,11 +480,11 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 171 voci, 171 nuove
+## 2020 — 172 voci, 172 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
-- 🆕 **2020-12-19** · article · Eclecticism Now! (blog, eclecticismnow.wordpress.com) — [Commissione Voto Elettronico: Rigetto FOIA](https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/) _(non verificato)_  
+- 🆕 **2020-12-19** · article · Eclecticism Now! (blog, eclecticismnow.wordpress.com) — [Commissione Voto Elettronico: Rigetto FOIA](https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/)  
   Post in prima persona («Ho fatto una richiesta FOIA per avere le email...») con la risposta del Ministero dell'Interno (file «Risposta a 2a richiesta di accesso FOIA Fabio Petrosanti») e le Linee Guida ANAC/Garante. Blog firmato 'eclecticismnow', linkato da @fpietrosanti nel tweet 1340312125261148160 (Wayback). Nome nella pagina solo nella grafia 'Petrosanti': da confermare l'attribuzione del blog.
 - 🆕 **2020-12-06** · tweet · Twitter — [Il movimento italiano per le garanzie nelle elezioni democratiche (CRVD): Brescia e Casaleggio](https://twitter.com/fpietrosanti/status/1335600005445521423)  
   Testo: «@Davidovskij @avilarenata Our Italian movement for guarantee in democratic election is at https://t.co/9DXLKXyXfh where we maintain knowledge of foreign experience and act on Italian national political attempt by ignorant politicians. In italy the enemy are @g_brescia &amp; @casaleggio trying coup on election» Wayback capture 20201206165631 (id_) di twitter.com/fpietrosanti/status/1335600005445521423.
@@ -658,6 +662,8 @@ Anni senza nessun risultato: nessuno
   31 maggio 2020, retrospettiva esplicita sul progetto mai realizzato: 'Neanche il cell broadcast risolve, necessita massive SMS su incrocio di timing e celle mobili'. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-05-25** · social · Twitter/X (@fpietrosanti) — [Codici sorgenti #immuni: codice app disponibile, codice server no](https://twitter.com/fpietrosanti/status/1264810363972960263)  
   25 maggio 2020, giorno della pubblicazione del codice: segnala che manca il codice server. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-05-16** · Menzionato · South China Morning Post – Post Magazine — [North Korea’s man in Spain, a socialist cheerleader who sells foreigners on the country’s advantages and takes a cut of deals](https://www.scmp.com/magazines/post-magazine/long-reads/article/3084222/north-koreas-man-spain-socialist-cheerleader-who)  
+  Syndication of the Bloomberg Businessweek feature by Josh Dean (og:title 'The teenage fanboy who became North Korea’s man in Spain'). Verified live 2026-10-05: 'Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti...'. Also covers the medical-software developers and the plan for an R&D centre (EUR 30,000 for 5-6 developers).
 - 🆕 **2020-05-16** · social · Twitter/X (@fpietrosanti) — [Immuni sarà con licenza opensource AGPLv3 e non MPL2](https://twitter.com/fpietrosanti/status/1261755274173526018)  
   Registra l'esito: Bending Spoons passa ad AGPLv3 'in response to advice coming from the open-source community'. Link alla issue GitHub immuni-app/documentation#7, dove Fabio aveva commentato. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-05-06** · pagina · Associazione Luca Coscioni — [Coronavirus: ascolta tutti i podcast!](https://www.associazionelucacoscioni.it/notizie/comunicati/coronavirus-ascolta-tutte-le-interviste-in-podcast)  
@@ -728,7 +734,7 @@ Anni senza nessun risultato: nessuno
   Rilancio del post di Rocca da un account di settore; titolo visto solo nei risultati di ricerca, pagina non aperta. Nome assente nel testo del tweet.
 - 🆕 **2020-03-29** · tweet · Twitter — [Analisi tecnica: SIM Application Toolkit per Bluetooth discovery (COVID)](https://twitter.com/fpietrosanti/status/1244172224598335488)  
   Testo: «A technical analysis to use the SIM Application Toolkit to perform Bluetooth Discovery directly using the App n the SIM using “SERVICE SEARCH” command.  Unfortunately is standardised but almost unsupported  https://t.co/BuPV4mP8W8» Link: https://eclecticismnow.wordpress.com/2020/03/29/sim-toolkit-uses-notes-for-covid-19/. Wayback capture 20200329081221 (id_) di twitter.com/fpietrosanti/status/1244172224598335488.
-- 🆕 **2020-03-29** · article · Eclecticism Now! (blog, eclecticismnow.wordpress.com) — [Sim Toolkit uses notes for covid-19](https://eclecticismnow.wordpress.com/2020/03/29/sim-toolkit-uses-notes-for-covid-19/) _(non verificato)_  
+- 🆕 **2020-03-29** · article · Eclecticism Now! (blog, eclecticismnow.wordpress.com) — [Sim Toolkit uses notes for covid-19](https://eclecticismnow.wordpress.com/2020/03/29/sim-toolkit-uses-notes-for-covid-19/)  
   Note tecniche sull'uso del SIM Application Toolkit (comando SERVICE SEARCH) per Bluetooth discovery a fini di contact tracing COVID-19; condiviso da @fpietrosanti nel tweet 1244172224598335488 (Wayback). Blog firmato 'eclecticismnow' (stesso blog che ospita documenti FOIA di Fabio gia' in media.json): attribuzione da confermare.
 - 🆕 **2020-03-28** · tweet · Twitter — [Tracking individuale COVID in Serbia e Australia; posizione di Vodafone](https://twitter.com/fpietrosanti/status/1243822156808687616)  
   Testo: «[ITA] Mi risulta che Serbia e Australia abbiano già fatto tracking individuale per coronavirus, dove opera già Vodafone.  Le frasi di Vodafone sono paracule-istituzionali, ma come é doveroso che siano. https://t.co/XqMQCyKglP» Link: https://www.politico.eu/sponsored-content/correct-use-of-telecom-data-can-help-in-this-crisis/. Wayback capture 20200328090042 (id_) di twitter.com/fpietrosanti/status/1243822156808687616.

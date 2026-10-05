@@ -1,0 +1,47 @@
+[
+ {
+  "url": "https://www.bloomberg.com/news/articles/2019-11-29/cryptocurrency-expert-charged-with-aiding-north-korea",
+  "title": "Cryptocurrency Expert Charged With Aiding North Korea (Bob Van Voris)",
+  "reason": "Wayback 20191202060243 full text read; no Pietrosanti/naif/Italian attendee."
+ },
+ {
+  "url": "https://www.bloomberg.com/news/articles/2022-04-25/crypto-conference-in-north-korea-leads-to-more-criminal-charges",
+  "title": "Cryptocurrency Conference in North Korea Leads to More Criminal Charges (Bob Van Voris)",
+  "reason": "Wayback 20220503000446 read; mentions Cao de Benos/Emms only, no Pietrosanti."
+ },
+ {
+  "url": "https://www.bloomberg.com/news/articles/2022-04-12/crypto-expert-gets-63-months-for-violating-north-korea-sanctions",
+  "title": "Crypto expert gets 63 months (Griffith sentencing)",
+  "reason": "Not opened; Griffith sentencing news, no lead to Pietrosanti in search results."
+ },
+ {
+  "url": "https://curio.io/publications/Bloomberg-Businessweek/josh-dean/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain",
+  "title": "Curio audio narration of the 2020 feature",
+  "reason": "Page now 'Page not found'; audio version of the same article, not a separate interview. Not verified."
+ },
+ {
+  "url": "https://www.magzter.com/stories/Business/Bloomberg-Businessweek/North-Koreas-biggest-fan",
+  "title": "North Korea's biggest fan (Businessweek on Magzter)",
+  "reason": "HTTP 403; likely the print version of the 2024 Brent Crane piece. Unverified lead, date unknown."
+ },
+ {
+  "url": "https://x.com/business/status/1256595807312150530",
+  "title": "Bloomberg tweet promoting the 2020 feature",
+  "reason": "Promotional tweet only; not opened."
+ },
+ {
+  "url": "(search) Bloomberg Businessweek podcast 'North Korea's Man in Spain' (May 2020, Josh Dean with Carol Massar/Jason Kelly)",
+  "title": "Businessweek podcast segment",
+  "reason": "Only a search-engine summary was found; no episode URL was found and the episode was not heard. It is an interview with the journalist, not with Fabio. Unverified."
+ },
+ {
+  "url": "(search) BNN Bloomberg / Japan Times / Washington Post / Livemint / Financial Post / Straits Times / Yahoo / BQ Prime / Gulf News / Bloomberg Línea / Bloomberg Opinion / Bloomberg TV",
+  "title": "Syndications of the 2020 feature and other Bloomberg properties",
+  "reason": "Web searches with 'Pietrosanti' plus the title found no copy on these outlets; only the SCMP Post Magazine syndication was found. Bloomberg 'Pietrosanti' searches return only the homonym Cristiano Pietrosanti (Agri Securities profile)."
+ },
+ {
+  "url": "https://be-api.us.archive.org/fts/v1/search?q=%22information%20security%20specialist%20Fabio%22",
+  "title": "IA full-text search",
+  "reason": "Only the 2020-05-04 Businessweek issue and Ethan Lou's 'Once a Bitcoin Miner' (already known) match; the 2024 print issue is not on IA."
+ }
+]

@@ -5,10 +5,10 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **942**; già processate: **1032**; ancora da processare: **0**
-- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **707** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **826**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **9**
+- Voci in `data/media.json`: **945**; già processate: **1035**; ancora da processare: **0**
+- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **710** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **828**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **10**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **41**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **19**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -47,11 +47,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 62 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 44 | 16 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 57 | 3 | 2 | 0 | 0 | 0 | 1 |
-| 2020 | 151 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 152 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 77 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 51 | 7 | 1 | 0 | 0 | 0 | 2 |
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 2024 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2024 | 7 | 0 | 1 | 0 | 0 | 0 | 0 |
 | 2025 | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 29 | 0 | 4 | 1 | 0 | 0 | 0 |
 
@@ -279,6 +279,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🟡 **2019** · Fraktion DIE LINKE im Bundestag — [Öffentliche Anhörung «Medien unter Beschuss – Feldzug gegen WikiLeaks und investigativen J](https://www.dielinkebt.de/themen/nachrichten/detail/neuer-krieg-gegen-den-journalismus) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://podcast-radio24.ilsole24ore.com/radio24_audio/2022/220624-2024.mp3) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2024** · Bloomberg Law — [How North Korea’s Man in the West Ran Afoul of US Authorities](https://news.bloomberglaw.com/crypto/how-north-koreas-man-in-the-west-ran-afoul-of-us-authorities) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕](https://www.bilibili.com/video/BV1SJYe6AEXo/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -1030,6 +1032,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · onData APS — [Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della](https://www.ondata.it/trasparenza/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/) · copia: `2020/dfbe1fa01b38` (live) · licenza: terzi
 - **2020** · open.online — [Gli hacker ci regalano Open Rousseau, l'alternativa libera e gratuita alla piattaforma del](https://www.open.online/2020/10/01/hacker-regalano-open-rousseau-piattaforma-m5s-casaleggio/) · copia: `2020/fdc8002e4c42` (Web Archive 20201029) · licenza: terzi
 - **2020** · Pandora Rivista (online review of politi — [I trojan di Stato: la nuova legge sulle intercettazioni](https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/) · copia: `2020/03251fc3f640` (Web Archive 20201205) · licenza: terzi
+- **2020** · South China Morning Post – Post Magazine — [North Korea’s man in Spain, a socialist cheerleader who sells foreigners on the country’s ](https://www.scmp.com/magazines/post-magazine/long-reads/article/3084222/north-koreas-man-spain-socialist-cheerleader-who) · copia: `2020/e31d7a860a9d` (Web Archive 20200516) · licenza: terzi
 - **2020** · Agenda Podcast (Spreaker) — [Coronavirus: cos'è e come funziona il contact tracing?](https://www.spreaker.com/episode/coronavirus-cos-e-e-come-funziona-il-contact-tracing--24430226) · copia: `2020/016c081dae4e` (live · video locale `media.mp3` (27 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao, Internet! con Matteo Flora (Spreak — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810) · copia: `2020/beb50880eccd` (live · video locale `media.mp3` (36 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao Internet con Matteo Flora (Spreaker — [OpenRousseau e Open-Democracy: esiste davvero un modo di avere un sistema trasparente?](https://www.spreaker.com/episode/openrousseau-e-open-democracy-esiste-davvero-un-modo-di-avere-un-sistema-trasparente--41918584) · copia: `2020/cb2777aafd8e` (live · video locale `media.mp3` (91 MB, da caricare su Drive)) · licenza: terzi
@@ -1197,6 +1200,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2024** · Wolters Kluwer Italia — [Intelligenza artificiale, blockchain e criptovalute](https://books.google.com/books?id=GbEvEQAAQBAJ) · copia: `2024/be1b38a964db` (live) · licenza: terzi
 - **2024** · Edward Elgar, Digital Media and Grassroo — [Digital whistleblowing platforms for anti-corruption: The Transparency International Itali](https://doi.org/10.4337/9781802202106.00015) · copia: `2024/5cebfaf2f256` (live) · licenza: terzi
 - **2024** · The Record (Recorded Future News) — [How Italy became an unexpected spyware hub](https://therecord.media/how-italy-became-an-unexpected-spyware-hub) · copia: `2024/9512b39405b8` (Web Archive 20241112) · licenza: terzi
+- **2024** · Bloomberg Businessweek (bloomberg.com) — [How Alejandro Cao de Benós, North Korea’s Man in Spain, Ran Afoul of the US](https://www.bloomberg.com/news/articles/2024-04-25/how-alejandro-cao-de-benos-north-korea-s-man-in-spain-ran-afoul-of-the-us) · copia: `2024/5e962e2911a5` (Web Archive 20240425) · licenza: terzi
 - **2024** · Ufficio Scolastico Regionale per il Lazi — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituz](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf) · copia: `2024/ad6071ff2a36` (Web Archive 20250814) · licenza: terzi
 - **2024** · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/) · copia: `2024/f387de6462a9` (Web Archive 20241114) · licenza: terzi
 - **2024** · 安全内参 (secrss.com) — [意大利缘何成为全球间谍软件中心？](https://www.secrss.com/articles/72312) · copia: `2024/19936c37d70c` (Web Archive 20241127) · licenza: terzi
