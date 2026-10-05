@@ -368,35 +368,51 @@
   },
   {
    "domain": "01net.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-05",
+   "found": 0
   },
   {
    "domain": "computerworld.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-05",
+   "found": 0
   },
   {
    "domain": "datamanager.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-05",
+   "found": 1
   },
   {
    "domain": "infosec.news",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-05",
+   "found": 0
   },
   {
    "domain": "securityopenlab.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-05",
+   "found": 0
   },
   {
    "domain": "ictsecuritymagazine.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-05",
+   "found": 0
   },
   {
    "domain": "federprivacy.org",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-05",
+   "found": 0
   },
   {
    "domain": "altalex.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-05",
+   "found": 0
   },
   {
    "domain": "diritto24.ilsole24ore.com",
@@ -1141,6 +1157,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1, inUse), scheda creata e navigate alla ricerca site:01net.it riuscito, ma la lettura dei risultati fallisce: javascript_tool -> 'extension disconnected mid-operation', get_page_text -> 'not connected' e poi di nuovo disconnessione (stesso guasto dei run dal 28/09: script su www.google.com bloccati dal permesso dell'estensione in attesa). Scheda chiusa. Nessun candidato: verify/merge/archive non eseguiti. 01net.it resta pending. Prossimo blocco invariato: 01net.it, computerworld.it, datamanager.it, infosec.news, securityopenlab.it, ictsecuritymagazine.com, federprivacy.org, altalex.com. Serve Fabio: 'Consenti sempre' per www.google.com nell'estensione Claude in Chrome."
+  },
+  {
+   "date": "2026-10-05 16:56",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Guasto dei run precedenti risolto: javascript_tool su www.google.com ora funziona (Fabio ha ribadito: mai chiedere autorizzazioni per siti/JS di questa ricerca). Blocco di 8 domini completato senza robot check: 7 senza alcun risultato Google, datamanager.it 1 risultato (Khamsa/PrivateGSM) già in media.json -> scartato da verify_candidates. Merge/archive eseguiti: nessuna voce nuova. Prossimo blocco: diritto24.ilsole24ore.com, ipsoa.it, forumpa.it, anticorruzione.it, camera.it, senato.it, europarl.europa.eu, theguardian.com."
   }
  ]
 }
