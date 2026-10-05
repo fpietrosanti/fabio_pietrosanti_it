@@ -81,7 +81,7 @@
   "years": "years in information security",
   "talks": "talks, panels and workshops",
   "press": "press, TV and radio mentions",
-  "writing": "articles, papers and posts",
+  "writing": "articles, papers and research write-ups",
   "projects": "projects documented"
  },
  "section_titles": {
@@ -395,7 +395,7 @@
    "press": "Press",
    "av": "TV, radio & video",
    "writing": "Writing",
-   "research": "Research, reports & code"
+   "research": "Research, code & citations"
   },
   "source": "source",
   "copy": "local copy",

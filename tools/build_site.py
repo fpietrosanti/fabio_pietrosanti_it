@@ -28,8 +28,8 @@ CATS = {
     "talks": {"talk", "workshop", "panel", "slides", "village", "hearing"},
     "press": {"interview", "quoted", "mentioned", "newspaper", "press_release"},
     "av": {"tv", "radio", "podcast", "video"},
-    "writing": {"article_by", "blog_post", "book_chapter", "paper", "thesis"},
-    "research": {"research", "report", "patent", "project", "wiki", "book", "other"},
+    "writing": {"article_by", "blog_post", "book_chapter", "paper"},
+    "research": {"research", "report", "patent", "project", "wiki", "book", "thesis", "other"},
 }
 TYPE_LABEL = {
     "talk": "talk", "workshop": "workshop", "panel": "panel", "slides": "slides", "village": "camp", "hearing": "hearing",

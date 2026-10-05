@@ -1,0 +1,122 @@
+[
+ {
+  "url": "https://arquivo.pt/wayback/cdx?url=camera.it/leg17/1104*",
+  "query": "Camera leg17 'Audizioni e incontri informali' (pagina 1104) delle 14 commissioni permanenti, capture arquivo.pt 10/07/2019",
+  "reason": "NEGATIVO SOLIDO. Wayback in 429 (blocco anti-bot, non aggirato); usate le 14 capture complete di arquivo.pt (elenchi 2013-2018, circa 1.660 audizioni informali). Zero 'Pietrosanti', 'naif', 'GlobaLeaks'. Unica occorrenza 'Hermes': III Commissione 23/11/2016, risoluzione 7-01051 Tidei ('Rappresentanti del Centro Hermes per la Trasparenza e i Diritti Umani Digitali'), già nota (Somma). La pagina live mostra 'Il contenuto richiesto non è al momento disponibile'."
+ },
+ {
+  "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=17&sezione=bollettini&tipoDoc=comunicato&anno=2016&mese=04&giorno=07&idCommissione=01c01",
+  "query": "Audizione informale 'di enti e associazioni' 07/04/2016, Commissioni riunite Affari costituzionali Camera+Senato, decreto FOIA (Atto 267)",
+  "reason": "LEAD APERTO (bassa probabilità). Il bollettino non nomina i soggetti; carteinregola.it elenca solo aderenti FOIA4Italy (Forum PA, Cittadinanzattiva, Diritto di Sapere, Riparte il Futuro, Agorà Digitale, SGI). Pagina Senato leg17 1107?testo_generico=699 dietro WAF, non archiviata su arquivo.pt. Nessuna prova di presenza di Hermes/Fabio."
+ },
+ {
+  "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=17&sezione=bollettini&tipoDoc=comunicato&anno=2016&mese=07&giorno=18&idCommissione=01",
+  "query": "Audizione informale 18/07/2016 I Commissione, CAD (Atto 307), 'rappresentanti di enti ed associazioni'",
+  "reason": "Bollettino generico, nessun nome. Nessun riscontro di Hermes/Fabio altrove. Non verificabile."
+ },
+ {
+  "url": "https://www.camera.it/application/xmanager/projects/leg17/attachments/upload_file/upload_files/000/000/230/TAF_audiz.pdf",
+  "query": "Commissione per i diritti e i doveri relativi ad Internet (Camera leg17, 2014-2015): soggetti auditi e documenti depositati",
+  "reason": "NEGATIVO. Elenco ufficiale dei soggetti auditi (H3G, AIIP, Clusit, ... Guido Scorza, Media Laws, Rai): né Hermes né Pietrosanti. Radio Radicale scheda 434461 (audizioni 23/02/2015): relatori elencati, Fabio assente."
+ },
+ {
+  "url": "https://www.anticorruzione.it/documents/91439/e690db9a-ddc3-0068-6208-1e01eab3693e",
+  "query": "ANAC, consultazione Linee guida whistleblower 2015 - osservazioni pervenute",
+  "reason": "SOLO HERMES. Contributo n.17 'Centro Hermes per la Trasparenza e i Diritti Umani Digitali' e documento RDFh firmato tra gli altri da Marco Calamari 'fondatore e consigliere Hermes Center'; 'Pietrosanti' assente. (Probabilmente stesso documento del lead ANAC 2015-08-05 già registrato con URL Wayback.)"
+ },
+ {
+  "url": "https://www.anticorruzione.it/en/-/whistleblowing-1-1",
+  "query": "Pagina ANAC whistleblowing",
+  "reason": "La pagina cita solo 'Centro Hermes'/'Hermes Center' (prototipo GlobaLeaks, risposta Cantone); il nome compare nel PDF linkato, registrato come voce nuova."
+ },
+ {
+  "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9896412",
+  "query": "Garante privacy, provvedimento 13/04/2023 (ENEA ShareArt) su segnalazione del Centro Hermes",
+  "reason": "SOLO HERMES: 'Il Centro Hermes per la Trasparenza e i Diritti umani digitali ha presentato al Garante una segnalazione'; 'Pietrosanti' assente."
+ },
+ {
+  "url": "site:garanteprivacy.it \"Pietrosanti\"",
+  "query": "ricerca web",
+  "reason": "Nessun documento del Garante con il nome (solo risultati spuri)."
+ },
+ {
+  "url": "site:agcom.it / site:agid.gov.it / site:docs.italia.it \"Pietrosanti\"",
+  "query": "ricerca web",
+  "reason": "Nessun risultato pertinente."
+ },
+ {
+  "url": "https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/64/audiz2/audizione/2017/03/27/stenografico.0075.html",
+  "query": "falsi positivi della ricerca site:documenti.camera.it 'Hermes'",
+  "reason": "Commissione contraffazione 27/03/2017 (audizione OCSE): nessuna occorrenza. Idem Commissione Moro 13/10/2015, bollettini VII 18/11/2020 e II 24/02/2022, Commissione antimafia leg19 23/11/2023."
+ },
+ {
+  "url": "https://www.europarl.europa.eu/committees/en/product/product-details/20170608CHE01802",
+  "query": "Audizione congiunta JURI/PANA 21/06/2017 'EU-wide protection of whistleblowers'",
+  "reason": "NEGATIVO (da elenco file). europarl.europa.eu risponde 202/404 agli script (WAF) e il replay Wayback è in 429; il CDX Wayback dei file cmsdata/1222xx mostra solo materiali di Abazi, Rosita Hickey, Vallourec/AFEP e lettere ad Abazi, Berrod, Hickey: nessun file Hermes/GlobaLeaks/Pietrosanti."
+ },
+ {
+  "url": "https://www.europarl.europa.eu/committees/en/pega-hearing-on-use-of-spyware-by-privat/product-details/20230123CHE11264",
+  "query": "Commissione PEGA, audizioni 2022-2023",
+  "reason": "Pagina 23/01/2023: relatori Broniarz, Lefevre; nessun Pietrosanti/Hermes. Relazione finale A9-0189/2023 non scaricabile (WAF 202). Ricerche web PEGA+Pietrosanti: nulla. Negativo non esaustivo (resta solo lo studio IPOL già noto)."
+ },
+ {
+  "url": "https://www.europarl.europa.eu/cmsdata/95542/issue15_LIBEnewsletter.pdf",
+  "query": "LIBE newsletter n.15 (risultato di ricerca)",
+  "reason": "404, non verificabile; nessun indizio di menzione."
+ },
+ {
+  "url": "https://www.coe.int/en/web/world-forum-democracy/2015-lab-15-safe-whistleblowing",
+  "query": "Consiglio d'Europa, World Forum for Democracy 2015, Lab 15 Safe whistleblowing",
+  "reason": "SOLO GLOBALEAKS: relatore Claudio Agosti (scheda speaker coe.int). Pagine coe.int in 403 a script/WebFetch, non aggirato. Nessuna prova di Fabio."
+ },
+ {
+  "url": "site:ohchr.org / site:coe.int \"Pietrosanti\"",
+  "query": "ricerca web",
+  "reason": "Nessun risultato (OHCHR già negativo nel file 2026-09-28)."
+ },
+ {
+  "url": "\"Pietrosanti\" EESC whistleblowers",
+  "query": "ricerca web",
+  "reason": "Nessun risultato."
+ },
+ {
+  "url": "https://www.parlamento.it/application/xmanager/projects/leg18/file/repository/commissioni/dirittiumaniXVII/Relazione_finale_Comm_diritti_umani_Senato_17a_leg.pdf",
+  "query": "Senato, Commissione straordinaria diritti umani leg17, relazione finale",
+  "reason": "Scaricata dal mirror parlamento.it (senato.it in WAF): testo estraibile senza 'Pietrosanti', 'Hermes', 'GlobaLeaks' (PDF in parte immagine: negativo non assoluto)."
+ },
+ {
+  "url": "https://www.consiglio.regione.lombardia.it/wps/wcm/connect/58a06329-252e-4867-bde1-6fde6cd75046/10-+audizione+9+marzo+2026.pdf?MOD=AJPERES",
+  "query": "Consiglio regionale Lombardia, audizioni",
+  "reason": "Falso positivo (audizione V Commissione su data center): nome assente. Nessuna audizione regionale trovata."
+ },
+ {
+  "url": "https://www.consiglio.regione.lazio.it/binary/consiglio/consiglio_argomenti/adesioni.pdf",
+  "query": "site:consiglio.regione.lazio.it \"Pietrosanti\"",
+  "reason": "OMONIMA: 'PIETROSANTI MARTA - ASSISTENTE PARLAMENTARE'. Non è lui."
+ },
+ {
+  "url": "\"Fabio Pietrosanti\" Bundestag Ausschuss Anhörung",
+  "query": "ricerca web (indizio tweet 2019-11-28 già in media.json)",
+  "reason": "Nessun risultato."
+ },
+ {
+  "url": "https://cdn.osce.org/sites/default/files/f/documents/4/9/263301_0.pdf",
+  "query": "OSCE 2016 bios",
+  "reason": "DUPLICATO dello stesso PDF già noto (osce.org/.../263301_0.pdf). Non aggiunto."
+ },
+ {
+  "url": "https://www.senato.it/leg/18/BGT/Schede/ProcANL/ProcANLscheda43472.htm",
+  "query": "Senato 14/05/2020",
+  "reason": "Gestito da altro processo. Nota: lo snippet di ricerca indica che per il Centro Hermes intervenne Giovan Battista Gallus."
+ },
+ {
+  "url": "appello del Centro Hermes ad ANAC del 24/07/2017",
+  "query": "lead fuori ambito",
+  "reason": "L'appello citato da Cantone (e la sua copertura su 'blog e giornali') non risulta in media.json: da cercare in una passata stampa / Wayback hermescenter.org."
+ },
+ {
+  "url": "https://twitter.com/fpietrosanti/status/1573403774122852352 ; http://www.innovatoripa.it/posts/2013/11/4458/whistleblowing-italia-facciamo-cultura",
+  "query": "lead fuori ambito emersi dalle ricerche",
+  "reason": "Non in media.json, non istituzionali: non aperti in questa passata."
+ }
+]

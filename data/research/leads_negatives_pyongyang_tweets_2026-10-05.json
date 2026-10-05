@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-05",
+ "scope": "pass4 Pyongyang/Griffith: tweet residui di @fpietrosanti (finestre 19/12/2019-10/01/2020 e 15/09-15/10/2021) + tweet cancellati",
+ "method_notes": [
+  "Elenco status ID riusato dai dump CDX Web Archive del 2026-10-04 (twitter.com, mobile.twitter.com, x.com /fpietrosanti/status/*; 6.256 ID distinti), filtrato per data snowflake; nessuna nuova query CDX (dal laptop il Web Archive risponde HTTP 429 il 2026-10-05).",
+  "Testi letti in serie da cdn.syndication.twimg.com/tweet-result (pausa 1,2 s): 182 ID + 18 ID originali dei retweet.",
+  "Capture Wayback dei 20 tombstone lette in serie dal server ubuntu@51.158.36.151 con curl (pausa 3 s, nessun blocco).",
+  "Finestra B estesa a 15/09-15/10/2021 (oltre ai ~35 attesi del 20-25/09 e 01-05/10) per coprire tutto il periodo del patteggiamento."
+ ],
+ "counts": {
+  "A_2019-12-19_2020-01-10": {
+   "status_ids_archiviati": 91,
+   "letti_syndication": 91,
+   "autore_fpietrosanti": 91,
+   "tombstone": 0,
+   "rilevanti": 5,
+   "altri": "86 non pertinenti: 36C3 (workshop amatriciana @foodhackingbase, Museo Stasi, Debian ASLR), Huawei 5G, proposta di legge captatori, schede elettorali/ANPR, ViDiTrust/bug bounty, Italian Hacker Embassy"
+  },
+  "B_2021-09-15_2021-10-15": {
+   "status_ids_archiviati_totali": 160,
+   "gia_letti_2026-10-04": 69,
+   "letti_ora": 91,
+   "autore_fpietrosanti": 36,
+   "tweet_di_terzi_sotto_url_del_profilo": 41,
+   "tombstone": 14,
+   "rilevanti": 2
+  }
+ },
+ "negatives": [
+  {
+   "item": "Tweet di terzi archiviati sotto twitter.com/fpietrosanti/status/<id> (retweet), finestra B",
+   "result": "41 ID restituiscono un altro autore: esclusi (regola decisions.json sui tweet di terzi). Pertinenti al tema ma NON di Fabio: @thewalrus 1444204934136803328 (02/10/2021, articolo di Ethan Lou sulla conferenza di Pyongyang), @innercitypress 1441799236526374920 (25/09/2021, udienza d'urgenza Griffith). Gli altri 39 non pertinenti."
+  },
+  {
+   "item": "14 tombstone della finestra B + 5 tombstone 2021 della lista del 2026-10-04 (1442507377182453760, 1442587958368866305, 1443330399304888324, 1443338531724726273, 1443447918678220800)",
+   "result": "Ogni capture Wayback è un 302 verso il tweet di un altro account: erano retweet poi rimossi, non tweet di Fabio. Unico pertinente: 1442507377182453760 (27/09/2021 15:12) = retweet di @PeteBrush 1442506313410375681 («Jailed Ethereum developer Virgil Griffith entered a guilty plea this morning...», letto dalla capture 20210927150845). Altri: MCH2022Camp, lastknight, mshelton, ClimateAlignmnt, EveDaRib, SamirAllioui, kaepora, andrewfordlyons, the_qa_guy, zerohedge, avilarenata, copernicani, MalwareTechBlog, summer__heidi, hackermaderas, samfbiddle, jtkristoff: non pertinenti o non leggibili."
+  },
+  {
+   "item": "Tombstone 1445016576684699657 (04/10/2021)",
+   "result": "Tweet proprio cancellato, RECUPERATO dalla capture 20211004132312: «North Korea informant reward program» -> aggiunto."
+  },
+  {
+   "item": "Tombstone 1202557955666849792 (05/12/2019)",
+   "result": "Tweet proprio cancellato, letto dalla capture 20191205121549: «Slide Foggia» + link Google Slides (docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0). Non pertinente a Pyongyang; possibile lead per un talk a Foggia (dic. 2019) in altra passata."
+  },
+  {
+   "item": "Tombstone 1117311943583383553 (14/04/2019)",
+   "result": "Non riletto (fuori dalle finestre di questa passata; capture 20190414062140 con statuscode '-')."
+  }
+ ],
+ "remaining": [
+  "Tweet mai archiviati dal Web Archive (es. altre copie della risposta «I went in North Korea with Virgil...» del 29/11-01/12/2019): non verificabili senza ricerca su X.",
+  "Contesto dei tweet di partenza (Vitalik Buterin 25/12/2019, Kenneth Geers 30/12/2019) non recuperato."
+ ]
+}
