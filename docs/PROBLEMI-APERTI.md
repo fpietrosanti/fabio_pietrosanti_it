@@ -113,6 +113,12 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 ## B. Problemi nelle COPIE OFFLINE
 
 ### B0-octies. 2026-10-04
+- **Copie delle mirror (05/10, su tua indicazione: «serve sempre una copia offline, inclusi i tweet»)**: `archive_copies.py`
+  copiava solo l'URL principale di ogni voce; le 41 URL in `mirrors` (riprese, risposte identiche accorpate) non avevano
+  copia. Corretto: ogni mirror ha ora una copia propria (`mirror_of` in `copies.json`). Esito: **34 ottenute** (tutte le
+  10 risposte-tweet «I went in North Korea with Virgil», Wikipedia GlobaLeaks IT/ZH/CA/PL, Repubblica, LWN, Yahoo Finance…),
+  2 video Radio Radicale, 3 MP3 Radio 24 (audio solo in locale, nome nel parlato), 2 parziali (techsupportforum, Sogou),
+  **3 non ottenute**: coinage.it (ripresa CoinDesk) e 2 riprese notizieoggi.com.
 - Copie delle 19 voci nuove **tutte ottenute** (28 tweet dal Web Archive). La copia automatica di `camera.it/leg18/1372`
   aveva preso una capture del 20/06/2019, **precedente** alla tua candidatura → sostituita a mano con la 20200926: nome presente.
   Il **PDF del tuo curriculum** depositato alla Camera non è mai stato archiviato (CDX vuoto, live 404): ce l'hai tu?

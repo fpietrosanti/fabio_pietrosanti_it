@@ -1,22 +1,23 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-04 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-05 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **942**; già processate: **999**; ancora da processare: **0**
-- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **676** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **803**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **5**
+- Voci in `data/media.json`: **942**; già processate: **1032**; ancora da processare: **0**
+- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **707** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **826**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **9**
 - 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **41**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **19**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **36**
-- 🎬 Video/audio scaricato (+ pagina): **88**
+- 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
+- 🎬 Video/audio scaricato (+ pagina): **90**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
-- ❌ Non ottenuta: **4**
+- ❌ Non ottenuta: **6**
 
 ## Per anno
 
@@ -36,23 +37,23 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2007 | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2008 | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 43 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 2010 | 52 | 2 | 0 | 0 | 0 | 0 | 3 |
-| 2011 | 23 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2010 | 54 | 2 | 0 | 1 | 0 | 0 | 3 |
+| 2011 | 27 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 28 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 2013 | 22 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2014 | 20 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2013 | 22 | 6 | 1 | 0 | 0 | 0 | 0 |
+| 2014 | 21 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 24 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 2016 | 14 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 60 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 43 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 46 | 3 | 1 | 0 | 0 | 0 | 0 |
+| 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 62 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 44 | 16 | 1 | 0 | 0 | 0 | 0 |
+| 2019 | 57 | 3 | 2 | 0 | 0 | 0 | 1 |
 | 2020 | 151 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 77 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 49 | 7 | 0 | 0 | 0 | 0 | 1 |
+| 2022 | 51 | 7 | 1 | 0 | 0 | 0 | 2 |
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 29 | 0 | 4 | 0 | 0 | 0 | 0 |
+| 2026 | 29 | 0 | 4 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -139,7 +140,11 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   http 404
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
+- ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
+  URLError
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
+  URLError
+- ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
   URLError
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
@@ -265,7 +270,15 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: bug di copia RISOLTO (corpo gzip decodificato in locale, nessun nuovo download). La pagina e' leggibile ma e' la home di un suo progetto e non contiene il suo nome: rientra nella categoria «solo organizzazione».
 - 🗂️ **2001** · Corriere della Sera (ed. nazionale, p. 2 — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma p](https://archivio.corriere.it/Archivio/interface/landing.html) · licenza: terzi  
   2026-09-23: la copia e' solo una scheda/maschera di ricerca d'archivio, senza il testo dell'articolo. Serve la pagina di giornale vera (scansione archive.org o capture dell'URL dell'articolo).
+- 🟡 **2013** · arXiv — [Cryptocat: Adopting Accessibility and Ease of Use as Security Properties (Nadim Kobeissi, ](https://arxiv.org/abs/1306.5156) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Voto digitale: rischi e vantaggi - Trasformazione digitale in Italia](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/181102-2024.mp3) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://podcast-radio24.ilsole24ore.com/radio24_audio/2019/190208-2024.mp3) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · Fraktion DIE LINKE im Bundestag — [Öffentliche Anhörung «Medien unter Beschuss – Feldzug gegen WikiLeaks und investigativen J](https://www.dielinkebt.de/themen/nachrichten/detail/neuer-krieg-gegen-den-journalismus) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://podcast-radio24.ilsole24ore.com/radio24_audio/2022/220624-2024.mp3) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕](https://www.bilibili.com/video/BV1SJYe6AEXo/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -277,6 +290,10 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
+- 🟠 **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.techsupportforum.com/threads/accusations-fly-over-voice-encryption-hack.457961/) · licenza: terzi  
+  page is a JavaScript shell with almost no text: needs browser capture
+- 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
+  page is a JavaScript shell with almost no text: needs browser capture
 
 ## Interventi di Fabio ritagliati da Radio Radicale
 
@@ -458,6 +475,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · Security Summit 2010 (Clusit), Milano, 1 — [Percorso professionale tecnico: "Sicurezza e telefonia mobile"](https://clusit.it/wp-content/uploads/newsletter/newsletter_08_03_10.pdf) · copia: `2010/db3b5da96f70` (live) · licenza: terzi
 - **2010** · Security Summit Roma 2010 (Clusit), SGM  — [Percorso professionale tecnico, 5a sessione: "Mobile security, il telefono una naturale es](https://clusit.it/wp-content/uploads/newsletter/newsletter_27_05_10.pdf) · copia: `2010/185abb10965f` (Web Archive 20231027) · licenza: terzi
 - **2010** · Security Summit 2010 (Clusit), Milano — [PrivateWave among the Silver sponsors of Security Summit 2010](https://clusit.it/wp-content/uploads/newsletter/newsletter_31_03_10.pdf) · copia: `2010/5290eddc310a` (live) · licenza: terzi
+- **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://linuxsecurity.com/news/cryptography/accusations-fly-over-voice-encryption-hack) · copia: `2010/88eca0ddd780` (Web Archive 20231128) · licenza: terzi
 - **2010** · Security Summit Roma 2010 - atti (procee — [Mobile Security - Intense overview of mobile security threat (Roma 2010 proceedings PDF)](https://web.archive.org/web/20101226095759/https://www.securitysummit.it/upload/file/atti%20roma%202010/FABIO%20PIETROSANTI.pdf) · copia: `2010/e541d9097bae` (Web Archive 20101226) · licenza: propria
 - **2010** · infosecurity.ch (blog) — [O3B Networks: a new satellite broadband approach](https://web.archive.org/web/2012/http://infosecurity.ch/20100126/o3b-networks-a-new-satellite-broadband-approach/) · copia: `2010/23aa411dff7c` (Web Archive 20100329) · licenza: propria
 - **2010** · infosecurity.ch (blog) — [Licensed by Israel Ministry of Defense? How things really works!](https://web.archive.org/web/2012/http://infosecurity.ch/20100129/licensed-by-israel-ministry-of-defense-how-things-really-works/) · copia: `2010/f8856f643471` (Web Archive 20100206) · licenza: propria
@@ -505,6 +523,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · SlideShare (Security Summit 2010) — [2010: Mobile Security - Intense overview](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3799661/3799661) · copia: `2010/fe3619cfed5a` (Web Archive 20260220) · licenza: propria
 - **2010** · SlideShare (University of Trento Cryptol — [Voice communication security](https://www.slideshare.net/slideshow/voice-communication-security/5059251) · copia: `2010/84d6a5c2b983` (Web Archive 20240625) · licenza: propria
 - **2010** · SlideShare — [Voice securityprotocol review](https://www.slideshare.net/slideshow/voice-securityprotocol-review/5106055) · copia: `2010/d53fe93a58d7` (Web Archive 20240810) · licenza: propria
+- **2010** · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.co.uk/2010/02/01/voice_crypto_test_row_phreak_out/) · copia: `2010/964ea013cbf0` (Web Archive 20100204) · licenza: terzi
 - **2010** · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.com/2010/02/01/voice_crypto_test_row_phreak_out/) · copia: `2010/f1c45f126d3a` (Web Archive 20200926) · licenza: terzi
 - **2010** · Cellulare Magazine (CMAG) — [PrivateWave di Khamsa contro le intercettazioni](https://www.youtube.com/watch?v=EJVK8nB7yAM) · copia: `2010/c20b180907dd` (live · video locale `media.mp4` (8 MB, da caricare su Drive)) · licenza: terzi
 - **2010** · TVtech / Hardware Upgrade — [PrivateWave: comunicazioni sicure al cellulare](https://www.youtube.com/watch?v=L4beB3qQjVw) · copia: `2010/1d7ada6809d2` (live · video locale `media.mp4` (40 MB, da caricare su Drive)) · licenza: terzi
@@ -512,10 +531,13 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2011** · Social News (special WikiLeaks issue) — [Article on WikiLeaks and Government 2.0 (page 36)](http://www.socialnews.it/social_news_pdf/2011febbraio.pdf) · copia: `2011/86e61c20fbb0` (Web Archive 20110709) · licenza: propria
 - **2011** · The Tor Project (monthly status report,  — [Tor Project monthly report, November 2011 ('New releases, new hires, new funding')](https://archive.org/details/manualzilla-id-5653552) · copia: `2011/ae7c4fb07615` (live) · licenza: terzi
 - **2011** · The Tor Project, monthly status report N — [Tor Project monthly report, November 2011 - Outreach and Advocacy](https://archive.org/details/manualzilla-id-5653552/page/n8) · copia: `2011/6f5d864ecb14` (live) · licenza: terzi
+- **2011** · Wikipedia (en) — [GlobaLeaks](https://ca.wikipedia.org/wiki/GlobaLeaks) · copia: `2011/113c09016739` (Web Archive 20220320) · licenza: terzi
 - **2011** · Wikipedia (en) — [GlobaLeaks](https://en.wikipedia.org/wiki/GlobaLeaks) · copia: `2011/49a65269c28f` (Web Archive 20130225) · licenza: terzi
 - **2011** · Chaos Communication Camp 2011 wiki — [GlobaLeaks (camp project page)](https://events.ccc.de/camp/2011/wiki/GlobaLeaks) · copia: `2011/870962bdd7f7` (Web Archive 20110721) · licenza: propria
 - **2011** · Chaos Communication Camp 2011 wiki — [Italian Embassy (village)](https://events.ccc.de/camp/2011/wiki/Italian_Embassy) · copia: `2011/aa02772f4b7a` (Web Archive 20110910) · licenza: terzi
 - **2011** · GitHub — [fpietrosanti (Fabio (naif) Pietrosanti)](https://github.com/fpietrosanti) · copia: `2011/60f0825f2e84` (Web Archive 20200610) · licenza: propria
+- **2011** · Wikipedia (en) — [GlobaLeaks](https://it.wikipedia.org/wiki/GlobaLeaks) · copia: `2011/dede073e67c3` (Web Archive 20140920) · licenza: terzi
+- **2011** · Wikipedia (en) — [GlobaLeaks](https://pl.wikipedia.org/wiki/GlobaLeaks) · copia: `2011/8e8b29b20dae` (live) · licenza: terzi
 - **2011** · ReadWriteWeb — [Egypt's Communications Crisis: An Update (Update: Noor Down)](https://readwrite.com/egypts_communications_crisis_an_update/) · copia: `2011/852183f82376` (live) · licenza: terzi
 - **2011** · PrivateWave / Full Disclosure — [ZORG, new C++ and Java ZRTP implementation public release](https://seclists.org/fulldisclosure/2011/Jan/139) · copia: `2011/8f6e37151eb7` (Web Archive 20110122) · licenza: propria
 - **2011** · infosecurity.ch (blog) — [ZORG, new C++ and Java ZRTP implementation public release](https://web.archive.org/web/2012/http://infosecurity.ch/20110112/zorg-new-c-and-java-zrtp-implementation-public-release/) · copia: `2011/7a332b9c40aa` (Web Archive 20110811) · licenza: propria
@@ -534,6 +556,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2011** · Radio Radicale — [Interventi di Fabio Pietrosanti (person archive page)](https://www.radioradicale.it/soggetti/175095/fabio-pietrosanti) · copia: `2011/5499b4a991da` (Web Archive 20250323) · licenza: terzi
 - **2011** · vicino/lontano festival (Udine) — [Fabio Pietrosanti - ospite](https://www.vicinolontano.it/ospiti/fabio-pietrosanti/) · copia: `2011/28559814b204` (Web Archive 20190719) · licenza: terzi
 - **2011** · La Stampa (YouTube channel) — [globaleaks ok](https://www.youtube.com/watch?v=V15zXYu5Xgw) · copia: `2011/7f7f04b9183a` (live · video locale `media.mp4` (10 MB, da caricare su Drive)) · licenza: terzi
+- **2011** · Wikipedia (en) — [GlobaLeaks](https://zh.wikipedia.org/wiki/GlobaLeaks) · copia: `2011/c3e132ad23ed` (Web Archive 20191217) · licenza: terzi
 - **2012** · e-privacy XI - proceedings — [Pietrosanti_Tor2web (slides)](http://urna.winstonsmith.org/materiali/2012/atti/Pietrosanti_Tor2web.pdf) · copia: `2012/07fefe334df6` (Web Archive 20150801) · licenza: propria
 - **2012** · IA mirrors of academic papers (arXiv 120 — [Acknowledgements/citations in Tor/censorship papers (IA copies)](https://archive.org/details/arxiv-1204.0447) · copia: `2012/0b888156ba46` (live) · licenza: terzi
 - **2012** · Internet Archive (PWS e-privacy archive) — [La privacy nella gestione delle fonti d'informazione critiche: whistleblowing, anonimato, ](https://archive.org/details/pws_e-privacy_2012s_1m03_pietrosanti_la-privacy-nella-gestione-delle-fonti-d-informazione) · copia: `2012/7e072501c720` (live) · licenza: propria
@@ -599,6 +622,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2014** · 31C3 Public Wiki (Chaos Communication Co — [Projects:GlobaLeaks](https://events.ccc.de/congress/2014/wiki/Projects:GlobaLeaks) · copia: `2014/7336a540eb22` (Web Archive 20150512) · licenza: propria
 - **2014** · 31C3 Chaos Communication Congress, Hambu — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks) · copia: `2014/de14f3fdb441` (Web Archive 20150105) · licenza: terzi
 - **2014** · European Journalism Observatory (it.ejo. — [ExpoLeaks, whistleblowing per Expo](https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza) · copia: `2014/aaae2cfd6c8e` (Web Archive 20160307) · licenza: terzi
+- **2014** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — September 17th, 2014](https://lwn.net/Articles/612209/) · copia: `2014/d9bdc4326860` (Web Archive 20150919) · licenza: terzi
 - **2014** · The Tor Project, Tor proposals (torspec) — [Making Tor2Web mode faster (Tor Proposal 233)](https://spec.torproject.org/proposals/233-quicken-tor2web-mode.html) · copia: `2014/109cc7c1d44b` (Web Archive 20240615) · licenza: terzi
 - **2014** · International Journalism Festival 2014 — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `2014/5d059e56be1a` (Web Archive 20140429) · licenza: terzi
 - **2014** · International Journalism Festival 2014 — [Intercettazioni telefoniche nell'era dell'NSA Gate](https://www.festivaldelgiornalismo.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate) · copia: `2014/eda7714af87e` (Web Archive 20140512) · licenza: terzi
@@ -606,6 +630,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2014** · International Journalism Festival (Perug — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `2014/4d9d695006fd` (Web Archive 20140714) · licenza: terzi
 - **2014** · International Journalism Festival (Perug — [Telephone intercepts in the age of NSAGate](https://www.journalismfestival.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate) · copia: `2014/b69196699305` (Web Archive 20140714) · licenza: terzi
 - **2014** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/429504) · copia: `2014/06a3b9fc21fa` (Web Archive 20210508 · video locale `media.m4a` (34 MB, da caricare su Drive)) · licenza: terzi
+- **2014** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/429504/presi-per-il-web) · copia: `2014/c66facbd3659` (Web Archive 20150514 · video locale `media.m4a` (34 MB, da caricare su Drive)) · licenza: terzi
 - **2014** · Motherboard (VICE) — [Inside SS7, the Insecure Global Cell Network That's Used to Track Phones](https://www.vice.com/en/article/inside-ss7-the-insecure-global-cell-network-thats-used-to-track-phones/) · copia: `2014/efc9aa845d31` (Web Archive 20201112) · licenza: terzi
 - **2014** · vicino/lontano - Friuli Future Forum (Ud — [Workshop #2: Su Facebook, ma non senza privacy](https://www.vicinolontano.it/eventi/workshop-2-su-facebook-ma-non-senza-privacy/) · copia: `2014/c2ecf4eb2736` (Web Archive 20191019) · licenza: terzi
 - **2014** · Wired Italia — [Come proteggere i prossimi Snowden](https://www.wired.it/attualita/media/2014/05/04/come-proteggere-prossimi-snowden/) · copia: `2014/eb2420eb507e` (Web Archive 20140505) · licenza: terzi
@@ -660,6 +685,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · OSCE Representative on Freedom of the Me — [BIOS - conference speaker biographies incl. Fabio Pietrosanti](https://www.osce.org/sites/default/files/f/documents/4/9/263301_0.pdf) · copia: `2016/08ad988ef917` (live) · licenza: terzi
 - **2016** · Panorama — [Sicurezza cibernetica nazionale a Carrai, cosa non va a livello tecnico](https://www.panorama.it/tempo-libero/tecnologia/sicurezza-cibernetica-nazionale-a-carrai-cosa-non-va-a-livello-tecnico) · copia: `2016/7436bb6ce05d` (Web Archive 20260311) · licenza: terzi
 - **2016** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/464793/) · copia: `2016/f8b1e5c5283d` (Web Archive 20160401 · video locale `media.m4a` (24 MB, da caricare su Drive)) · licenza: terzi
+- **2016** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/464793/presi-per-il-web) · copia: `2016/6c48f791098d` (Web Archive 20160126 · video locale `media.m4a` (24 MB, da caricare su Drive)) · licenza: terzi
 - **2016** · e-privacy XX (2016) Roma - Radio Radical — [e-privacy XX (2016) - Privacy ed antiterrorismo (2a giornata) - Tavola Rotonda: Captatori ](https://www.radioradicale.it/scheda/490952/) · copia: `2016/dc139c762340` (Web Archive 20161108 · video locale `media.00.mp4` (1,234 MB, da caricare su Drive)) · licenza: terzi
 - **2016** · Radio Radicale — [e-privacy XX (2016) - Privacy ed antiterrorismo: un equilibrio reale tra obbiettivi appare](https://www.radioradicale.it/scheda/490952/e-privacy-xx-2016-privacy-ed-antiterrorismo-un-equilibrio-reale-tra-obbiettivi) · copia: `2016/7a332ed4e694` (Web Archive 20161107 · video locale `media.00.mp4` (1,234 MB, da caricare su Drive)) · licenza: terzi
 - **2016** · Eunews - How Can We Govern Europe? (3rd  — [Terza edizione di "How Can We Govern Europe?" - Intelligence, privacy e antiterrorismo in ](https://www.radioradicale.it/scheda/492422/) · copia: `2016/b9f7d1e3ca4d` (live · video locale `media.mp4` (2,996 MB, da caricare su Drive)) · licenza: terzi
@@ -677,6 +703,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · Business Follows srl (Roma) — Testimonia — [Fabio Pietrosanti (Naif) – Founder, President Hermes Center for Trasparency and Digital Hu](https://businessfollows.com/testimonials/fabio-pietrosanti-naif-founder-president-hermes-center-trasparency-digital-human-rights/) · copia: `2017/4e89c9dd27d9` (Web Archive 20201022) · licenza: terzi
 - **2017** · Citizen Lab, Munk School of Global Affai — [Who's Watching Little Brother? A Checklist for Accountability in the Industry Behind Gover](https://citizenlab.ca/wp-content/uploads/2017/03/citizenlab_whos-watching-little-brother.pdf) · copia: `2017/8c507215d23b` (Web Archive 20180228) · licenza: terzi
 - **2017** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #18472 «Enforce the uses of HTTPS for all websites of VLC/videolan.org to preve](https://code.videolan.org/videolan/vlc/-/work_items/18472) · copia: `2017/5ec30f01b033` (Web Archive 20210502) · licenza: propria
+- **2017** · repubblica.it — [Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Clou](https://dicorinto.it/testate/repubblica-it/la-repubblica-cia-wikileaks-siamo-molto-piu-vulnerabili-con-linternet-delle-cose-il-mobile-e-il-cloud/) · copia: `2017/0ae276c52e4c` (Web Archive 20191214) · licenza: terzi
 - **2017** · docs.google.com — [edit?usp=sharing](https://docs.google.com/document/d/1t6kfUigpBdiI8ECC306QHTL1cawOapvnRSIY0dV5KXA/edit?usp=sharing) · copia: `2017/bf22197920dd` (live) · licenza: terzi
 - **2017** · docs.google.com — [edit](https://docs.google.com/presentation/d/11-AdcbRlxhWwHhHz54Yp8hNYXAICYBHHfumDO89XFrs/edit) · copia: `2017/7c13c6f019d3` (live) · licenza: terzi
 - **2017** · e-privacy XXI (2017 summer), Lucca, Real — [e-privacy XXI - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXI-relatori.html) · copia: `2017/bcd53a7178a3` (Web Archive 20170702) · licenza: terzi
@@ -728,6 +755,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · repubblica.it — [Privacy, servono regole per le intercettazioni nelle indagini penali](https://www.repubblica.it/tecnologia/2017/01/12/news/privacy_un_progetto_di_legge_per_salvaguardare_i_diritti_costituzionali-302639710/) · copia: `2017/d0c83c3df8d0` (live) · licenza: terzi
 - **2017** · repubblica.it — [Internet, ecco dove si censura e perché](https://www.repubblica.it/tecnologia/2017/06/30/news/internet_ecco_dove_si_censura_e_perche_-302642021/) · copia: `2017/c07d90f94ef3` (live) · licenza: terzi
 - **2017** · repubblica.it — [Più tutele per chi è intercettato dai trojan dagli investigatori, ecco la proposta di legg](https://www.repubblica.it/tecnologia/sicurezza/2017/01/31/news/maggiori_tutele_per_chi_viene_intercettato_con_i_trojan_dagli_investigatori_ecco_la_proposta_di_legge-157306945/) · copia: `2017/3bd3ef04fe21` (Web Archive 20170131) · licenza: terzi
+- **2017** · repubblica.it — [Internet, ecco dove si censura e perché](https://www.repubblica.it/tecnologia/sicurezza/2017/06/30/news/_internet_ecco_dove_si_censura_e_perche_-169618280/) · copia: `2017/a0358da39741` (Web Archive 20170630) · licenza: terzi
 - **2017** · repubblica.it — [Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Clou](https://www.repubblica.it/tecnologia/social-network/2017/03/08/news/wikileaks-cia_la_sicurezza_assoluta_non_esiste_piu_-160075024/) · copia: `2017/d86122418fd0` (Web Archive 20170309) · licenza: terzi
 - **2017** · Techdirt — [Italy Proposes Astonishingly Sensible Rules To Regulate Government Hacking Using Trojans](https://www.techdirt.com/2017/02/17/italy-proposes-astonishingly-sensible-rules-to-regulate-government-hacking-using-trojans/) · copia: `2017/45fabcbae3a3` (Web Archive 20220307) · licenza: terzi
 - **2017** · Valigia Blu — [Referendum Lombardia e Veneto: cosa si vota, i costi e le critiche al sistema elettronico](https://www.valigiablu.it/referendum-autonomia-lombardia-veneto/) · copia: `2017/0701a07df0ff` (Web Archive 20171020) · licenza: terzi
@@ -746,6 +774,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Inter-American Development Bank — [Smarter Crowdsourcing for Anti-Corruption: Manual de propuestas legales, técnicas y de pol](https://books.google.com/books?id=tc-aDwAAQBAJ) · copia: `2018/a9d50c94ddeb` (live) · licenza: terzi
 - **2018** · Copernicani — [Un Ministro per il Digitale: i sostenitori del nostro appello](https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/) · copia: `2018/76a7e07ba3fb` (Web Archive 20180520) · licenza: terzi
 - **2018** · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://cybersecurity.startupitalia.eu/61414-20180710-cyberchallenge-2018-la-nuova-generazione-hacker-etici) · copia: `2018/cb9e22f41130` (Web Archive 20201229) · licenza: terzi
+- **2018** · repubblica.it — [Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la password”](https://dicorinto.it/testate/repubblica-it/la-repubblica-attacco-a-facebook-il-giorno-dopo-per-precauzione-cambiate-subito-la-password/) · copia: `2018/5d37acfbb1bd` (Web Archive 20190826) · licenza: terzi
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [e-privacy XXIII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXIII-relatori.html) · copia: `2018/8cc2a1ae4777` (Web Archive 20200919) · licenza: terzi
 - **2018** · e-privacy 2018 (XXIII, Bologna) — [Big Brother Awards Italia 2018](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html) · copia: `2018/de6bba8ab6d7` (Web Archive 20181025) · licenza: terzi
 - **2018** · Euronews (en español) — [¿Rusia puede espiar a Italia gracias a la empresa de software Kaspersky?](https://es.euronews.com/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-) · copia: `2018/1e0cc7e9fe57` (Web Archive 20180406) · licenza: terzi
@@ -804,6 +833,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Agenzia delle Entrate — Direzione Centra — [Riscontro ad istanza di accesso civico generalizzato (collaudi e analisi di sicurezza dell](https://eclecticismnow.files.wordpress.com/2019/02/12-02-2019_istanza-accesso-civico-fp-risposta2.pdf) · copia: `2019/c351be390d34` (live) · licenza: terzi
 - **2019** · AMBCrypto — [Ethereum researcher arrested for allegedly helping North Korea evade sanctions](https://eng.ambcrypto.com/ethereum-researcher-arrested-for-allegedly-helping-north-korea-evade-sanctions/) · copia: `2019/0714319d6445` (Web Archive 20191216) · licenza: terzi
 - **2019** · AMBCrypto Spanish — [Ethereum [ETH] se ve envuelto en escándalo de lavado de dinero con Corea del Norte](https://es.ambcrypto.com/ethereum-eth-se-ve-envuelto-en-escandalo-de-lavado-de-dinero-con-corea-del-norte/) · copia: `2019/0b80eaca6099` (Web Archive 20210508) · licenza: terzi
+- **2019** · CoinDesk — [Freedom Fighter or Fool? Jury's Out on Arrested Ethereum Developer Virgil Griffith](https://finance.yahoo.com/news/freedom-fighter-fool-jury-arrested-201511565.html) · copia: `2019/36c8b8464d2a` (live) · licenza: terzi
 - **2019** · Forum Italia (Developers Italia) — [Software di Whistleblowing Anticorruzione ANAC e Riuso GlobaLeaks](https://forum.italia.it/t/software-di-whistleblowing-anticorruzione-anac-e-riuso-globaleaks/7114) · copia: `2019/f80d52afc3d3` (Web Archive 20231208) · licenza: propria
 - **2019** · GitHub - ANAC anticorruzione/openwhistle — [openwhistleblowing/AUTHORS](https://github.com/anticorruzione/openwhistleblowing/blob/master/AUTHORS) · copia: `2019/5c5b4eed38b7` (live) · licenza: terzi
 - **2019** · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano) · copia: `2019/2f5708b9e6aa` (Web Archive 20200910) · licenza: propria
@@ -821,9 +851,19 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Twitter — [OSSCI: discussione perimetro vs spazio cibernetico per l'osservatorio](https://twitter.com/fpietrosanti/status/1196431404302770176) · copia: `2019/e7d69b3302bc` (Web Archive 20191118) · licenza: terzi
 - **2019** · Twitter — [Bundestag committee room (hint of appearance)](https://twitter.com/fpietrosanti/status/1199929402521509888) · copia: `2019/2287ae890740` (Web Archive 20191128) · licenza: terzi
 - **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1200543559096717314) · copia: `2019/3a490696028a` (Web Archive 20191129) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1200544080821968896) · copia: `2019/9eaa178e7912` (Web Archive 20191129) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1200544557500379138) · copia: `2019/6d4744dbe3dd` (Web Archive 20191129) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1200545101644226561) · copia: `2019/fdbfc886ebec` (Web Archive 20191129) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1200548107173412868) · copia: `2019/f897aae9525a` (Web Archive 20191129) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1200556471743897600) · copia: `2019/73dbc4b0da29` (Web Archive 20191129) · licenza: terzi
 - **2019** · Twitter (@fpietrosanti) — [There was no recording, it was a very basic knowledge conference, something that could be ](https://twitter.com/fpietrosanti/status/1200736032821534727) · copia: `2019/2c308e3e6e10` (Web Archive 20191130) · licenza: terzi
 - **2019** · Twitter (@fpietrosanti) — [I don’t see a problem, Virgil under interrogation surely already provided my name and i ne](https://twitter.com/fpietrosanti/status/1200736035359076352) · copia: `2019/dd8c4f136e07` (Web Archive 20191130) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1200761744358072320) · copia: `2019/bf93a20d37df` (Web Archive 20191130) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1200761886066786304) · copia: `2019/717d7e43d4f2` (Web Archive 20191130) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1200807619834892288) · copia: `2019/3c97860104e6` (Web Archive 20191130) · licenza: terzi
 - **2019** · Twitter (@fpietrosanti) — [Simply there was no plan or conspiracy :-)](https://twitter.com/fpietrosanti/status/1201018905076080641) · copia: `2019/f474be16435a` (Web Archive 20191201) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1201038327044038656) · copia: `2019/f07aac8ae5fe` (Web Archive 20191201) · licenza: terzi
+- **2019** · Twitter (@fpietrosanti) — [I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer ](https://twitter.com/fpietrosanti/status/1201038793400295424) · copia: `2019/52eccc0f897e` (Web Archive 20191201) · licenza: terzi
 - **2019** · Twitter (@fpietrosanti) — [From what I personally saw there and what I’ve been told those are just bullshit, misinter](https://twitter.com/fpietrosanti/status/1201039691912491009) · copia: `2019/5c868dcbd234` (Web Archive 20191201) · licenza: terzi
 - **2019** · Twitter (@fpietrosanti) — [So why Virgil Griffith is jail? "Because discussing “smart contracts” “proof of Work” vers](https://twitter.com/fpietrosanti/status/1201302625813254144) · copia: `2019/895cc1f70ba4` (Web Archive 20191202) · licenza: terzi
 - **2019** · Twitter (@fpietrosanti) — [“The FBI’s case against a famous hacker for allegedly trying to help North Korea use crypt](https://twitter.com/fpietrosanti/status/1203105625267474433) · copia: `2019/5ae4583e2150` (Web Archive 20191207) · licenza: terzi
@@ -1102,6 +1142,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · GitHub MonitoraPA — [MonitoraPA #22 «Rilevamento compliance HTTPS con linee guida Agid»](https://github.com/MonitoraPA/monitorapa/issues/22) · copia: `2022/98eb0e522d6d` (api) · licenza: propria
 - **2022** · GitHub — [kaspersky-risks: Risk Evaluation of Kaspersky related Risk, if subject to Coercion by Russ](https://github.com/fpietrosanti/kaspersky-risks) · copia: `2022/d434e47ccad3` (Web Archive 20230110) · licenza: propria
 - **2022** · GitHub — [monitorapa (fork): Progetto per monitoraggio e notifica di non compliance GDPR alle PA con](https://github.com/fpietrosanti/monitorapa) · copia: `2022/6738a5b0408e` (live) · licenza: propria
+- **2022** · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://internet-casa.com/news/antivirus-kaspersky/) · copia: `2022/3a5ef7cac08d` (Web Archive 20220817) · licenza: terzi
 - **2022** · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://livornopress.it/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack) · copia: `2022/fc5039181806` (Web Archive 20220327) · licenza: terzi
 - **2022** · Monitora PA — [Ongoing hacks: giugno 2022](https://monitora-pa.it/2022/05/30/ongoing-hacks-202206.html) · copia: `2022/042c0a02b487` (Web Archive 20220529) · licenza: propria
 - **2022** · Monitora PA — [Una passeggiata tra i fiori...](https://monitora-pa.it/2022/06/12/una-passeggiata-tra-i-fiori.html) · copia: `2022/7f65ec5f8f8b` (Web Archive 20220612) · licenza: propria
@@ -1113,6 +1154,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Agenda Digitale — [Il FOIA di MonitoraPA: la risposta dell'Avvocatura al Ministero dell'Istruzione](https://www.agendadigitale.eu/sicurezza/privacy/il-foia-di-monitorapa-la-risposta-dellavvocatura-al-ministero-dellistruzione/) · copia: `2022/327f4401de7b` (Web Archive 20221026) · licenza: terzi
 - **2022** · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/) · copia: `2022/39ed595e0702` (Web Archive 20221027) · licenza: terzi
 - **2022** · civile.it (Valentino Spataro) — [Voto elettronico online per le politiche - 5 esperti spiegano perche' e' una disgrazia](https://www.civile.it/internet/visual.php?num=95819) · copia: `2022/feda165c8059` (live) · licenza: terzi
+- **2022** · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://www.confartigianatoimperia.it/notizie/24-03-2022/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack) · copia: `2022/f52acde20d5c` (live) · licenza: terzi
 - **2022** · Cyber Security 360 — [Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi](https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/) · copia: `2022/ceddd683ee93` (Web Archive 20220314) · licenza: terzi
 - **2022** · British GQ (Peter Guest) — [The Pyongyang crypto caper: North Korea, crypto heists and the new front line of cybercrim](https://www.gq-magazine.co.uk/politics/article/north-korea-crypto-bitcoin-cybercrime) · copia: `2022/6173d5796396` (Web Archive 20221124) · licenza: terzi
 - **2022** · Istituto Comprensivo Cornigliano, Genova — [Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013](https://www.iccornigliano.edu.it/amministrazione-trasparente/) · copia: `2022/a07b6bd88256` (Web Archive 20231030) · licenza: terzi

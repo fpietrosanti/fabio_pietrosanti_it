@@ -325,6 +325,8 @@ def main():
     state_path = out / "copies.json"
     state = {r["id"]: r for r in json.load(io.open(state_path, encoding="utf-8"))} if state_path.exists() else {}
     items = json.load(io.open(ROOT / "data/media.json", encoding="utf-8"))
+    # every mirror (syndicated copy, repeated tweet, ...) gets its own offline copy, linked to the main item
+    items = items + [dict(it, url=m, mirrors=None, mirror_of=it.get("url")) for it in items for m in (it.get("mirrors") or [])]
     for r in state.values():
         v = r.get("video") or {}
         if r["status"] == "video-obtained" and v.get("file") and "same_as" not in v:
@@ -340,6 +342,8 @@ def main():
         if prev and prev["status"] != "media-not-downloaded" and not retry:
             continue
         rec = copy_item(it, out)
+        if it.get("mirror_of"):
+            rec["mirror_of"] = it["mirror_of"]
         if prev and prev["status"] in CLASSIFIED and rec["status"] not in ("obtained", "video-obtained"):
             continue  # a retry that did not find the name must not undo a manual classification
         state[iid] = rec
