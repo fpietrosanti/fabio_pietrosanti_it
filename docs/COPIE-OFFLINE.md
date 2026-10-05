@@ -5,15 +5,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **945**; già processate: **1035**; ancora da processare: **0**
-- Licenza delle copie ottenute: **221** materiale proprio (ripubblicabile), **710** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **828**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **10**
-- 🏛️ Copia locale: la pagina documenta un suo progetto/organizzazione ma non lo nomina (decisione di Fabio): **41**
-- 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **19**
+- Voci in `data/media.json`: **893**; già processate: **1035**; ancora da processare: **0**
+- Licenza delle copie ottenute: **222** materiale proprio (ripubblicabile), **716** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **837**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
+- 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **1**
-- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **36**
+- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **88**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
 - 🎬 Video/audio scaricato (+ pagina): **90**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
@@ -28,7 +27,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2000 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2001 | 15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2001 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2002 | 14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -44,16 +43,16 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 21 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 24 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 62 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 64 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 44 | 16 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 57 | 3 | 2 | 0 | 0 | 0 | 1 |
-| 2020 | 152 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 57 | 3 | 1 | 0 | 0 | 0 | 1 |
+| 2020 | 157 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 77 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 51 | 7 | 1 | 0 | 0 | 0 | 2 |
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 2024 | 7 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 2024 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 29 | 0 | 4 | 1 | 0 | 0 | 0 |
+| 2026 | 30 | 0 | 4 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -62,6 +61,32 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 Da recuperare con altre tecniche (browser, download media, richiesta di salvataggio al Web Archive).
 
+- ⏹️ **2002** · Apogeonline — [Ethical Hacker's Speech II](https://www.apogeonline.com/articoli/ethical-hackers-speech-ii-associazione-italian-blackhats/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2002** · Apogeonline — [Smau e Ict Security: i Black Hats tornano a dire la loro](https://www.apogeonline.com/articoli/smau-e-ict-security-i-black-hats-tornano-a-dire-la-loro-raoul-chiesa/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2011** · 28C3 Chaos Communication Congress, Berli — [Tor2web workshop](https://events.ccc.de/congress/2011/wiki/Tor2web) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2011** · 28C3 Chaos Communication Congress, Berli — [Workshops/GlobaLeaks](https://events.ccc.de/congress/2011/wiki/Workshops/GlobaLeaks) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2012** · Hackmeeting 2012 (HackIt 0x0F), L'Aquila — [GlobaLeaks](https://www.hackmeeting.org/hackit12/seminari.html) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2013** · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2013** · Corriere.it (Reportime) — [Quando l'utente non si lascia spiare](http://www.corriere.it/inchieste/reportime/societa/quando-utente-non-si-lascia-spiare/afda7abe-e342-11e2-a1f9-62e4ef08d60d.shtml) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2013** · Sky TG24 (servizio di Sacha Coltellacci) — [Datagate, il mondo delle spie visto da dentro (current page URL)](https://video.sky.it/news/mondo/video/datagate_il_mondo_delle_spie_visto_da_dentro-164249) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2013** · OHM2013 (Observe. Hack. Make.) - Noisy S — [Digital Whistleblowing roundtable [N^2] (Day 3, 16:00)](https://web.archive.org/web/20130908205034/https://program.ohm2013.org/event/381.html) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2013** · OHM2013 (Observe. Hack. Make.), Geestmer — [Digital Whistleblowing with GlobaLeaks (Day 3, 13:00) - program page](https://web.archive.org/web/20131022000047/https://program.ohm2013.org/event/255.html) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2013** · OHM2013 (Observe. Hack. Make.) - Noisy S — [Setting up a Whistleblowing or Leaking initiative with GlobaLeaks [N^2] (Day 3, 15:00)](https://web.archive.org/web/20140222133403/https://program.ohm2013.org/event/396.html) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2013** · OHM2013 (Observe. Hack. Make.) - Noisy S — [Tor2web Meeting [N^2] (Day 2, 22:00, Noisy Square 2)](https://web.archive.org/web/20140227173501/https://program.ohm2013.org/event/256.html) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2013** · Hermes Center / Skype open letter — [[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”](https://web.archive.org/web/2015/http://logioshermes.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/) · licenza: propria  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2015** · Universita di Bologna - AMS Tesi di Laur — [Anonimato in rete (Daini, Irene - rel. Davide Sangiorgi, Informatica per il management)](https://amslaurea.unibo.it/id/eprint/9599/) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2015** · Camera dei deputati, Commissioni Riunite — [Resoconto stenografico, seduta n. 4 di venerdi 23 ottobre 2015 - Audizione di Alessandro R](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/0211/indag/c0211_protezione/2015/10/23/indice_stenografico.0004.html) · licenza: terzi  
@@ -72,6 +97,10 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2015** · Camera dei deputati - Elenco auditi / Co — [Audizione di Adriano Pietrosanti, responsabile area tecnico-scientifica di ASSOGENERICI (O](https://www.camera.it/leg17/546) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
+- ⏹️ **2016** · Whistleblowing Solutions Impresa Sociale — [Whistleblowing Solutions Impresa Sociale S.r.l. founded to sustain GlobaLeaks](https://whistleblowing.it/en/about-us/) · licenza: propria  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2017** · Askanews — [Captatori informatici, proposta di legge di Civici e Innovatori](http://www.askanews.it/cronaca/2017/01/31/captatori-informatici-proposta-di-legge-di-civici-e-innovatori-pn_20170131_00175/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2017** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #18484 «Map all the existing VLC mirrors that already support HTTPS»](https://code.videolan.org/videolan/vlc/-/work_items/18484) · licenza: propria  
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
 - ⏹️ **2017** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #18486 «Integrate Cloudflare free as an HTTPS domain fronting and caching for w](https://code.videolan.org/videolan/vlc/-/work_items/18486) · licenza: propria  
@@ -88,42 +117,114 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
 - ⏹️ **2017** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #18569 «Bing search engine still use HTTP in cleartext to VLC website»](https://code.videolan.org/videolan/vlc/-/work_items/18569) · licenza: propria  
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
+- ⏹️ **2017** · 34C3 Chaos Communication Congress, Leipz — [Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', '](https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2017** · CINI - Laboratorio Nazionale di Cybersec — [Il Laboratorio Nazionale di Cybersecurity ... con il CIS Sapienza premia i giovani hacker ](https://www.consorzio-cini.it/index.php/it/labcs-home/labcs-news/1191-il-laboratorio-nazionale-di-cybersecurity-presenta-a-roma-la-relazione-annuale-delle-attivita-svolte-e-con-il-cis-sapienza-premia-i-giovani-hacker-della-cyberchallenge) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2017** · Hermes Center (hermescenter.org) — [Le richieste FOIA sul Voto Elettronico Lombardia 2017](https://www.hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/) · licenza: propria  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2017** · www.journalismfestival.com — [lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare](https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2018** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #20007 «videolan.org website is exposed as insecure HTTP without permanent redi](https://code.videolan.org/videolan/vlc/-/work_items/20007) · licenza: propria  
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
 - ⏹️ **2018** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #20008 «get.videolan.org website is exposed as insecure HTTP without permanent ](https://code.videolan.org/videolan/vlc/-/work_items/20008) · licenza: propria  
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
+- ⏹️ **2018** · Copernicani — [Hermes Center sostiene l'Appello per il Ministro per il digitale!](https://copernicani.it/blog/2018/05/26/hermes-center-sostiene-lappello-per-il-ministro-per-il-digitale/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2018** · e-privacy XXIV (2018 autumn), Roma - Pro — [Presentazione Big Brother Awards Italia 2019 (with video)](https://e-privacy.winstonsmith.org/e-privacy-XXIV.html) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2018** · EDRi (European Digital Rights) — [Big Brother Awards 2018 Italy](https://edri.org/big-brother-awards-2018-italy/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2018** · EDRi (European Digital Rights) — [Hermes Center demands investigation of NAT-related data retention](https://edri.org/hermes-center-demands-investigation-of-nat-related-data-retention/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2018** · EDRi (European Digital Rights) — [Member in the Spotlight: Hermes Center](https://edri.org/our-work/member-in-the-spotlight-hermes-center/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2018** · EDRi (European Digital Rights) — [Welcoming new EDRi members: FSFE, Hermes Center, NOYB, and Xnet](https://edri.org/welcoming-new-edri-members-fsfe-hermes-center-noyb-and-xnet/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2018** · GlobaLeaks blog — [Nasce WhistleblowingPA](https://globaleaks.org/it/2018/10/01/nasce-whistleblowing-pa/) · licenza: propria  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2018** · CRVD (copia preservata, da ItaliaChiamaI — [Fusacchia (+Europa) a ItaliaChiamaItalia: «Insisto, per gli italiani all'estero ci vuole i](https://hermescenter.github.io/crvd.org-preservation/fusacchia-europa-a-italiachiamaitalia-insisto-per-gli-italiani-allestero-ci-vuole-il-voto-elettronico/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2018** · StartupItalia — [Cyberchallenge 2018: la gara finale e la premiazione](https://startupitalia.eu/61355-20180629-cyberchallenge-2018-la-finale) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2018** · JEI - Jus e Internet — [Voto elettronico: rilievi giuridici e tecnici. Teorizzazione di un modello sperimentale di](https://www.jei.it/approfondimenti-giuridici/490-voto-elettronico-rilievi-giuridici-e-tecnici-teorizzazione-di-un-modello-sperimentale-di-votazione-mediante-uso-della-tecnologia-blockchain) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2019** · Gente d'Italia — [Approvato il fondo per 1 milione di euro per voto elettronico](http://www.genteditalia.org/2019/12/14/approvato-il-fondo-per-1-milione-di-euro-per-voto-elettronico/) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2019** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #21805 «Enable full HTTPS redirecting old-client to an outdated page, explainin](https://code.videolan.org/videolan/vlc/-/work_items/21805) · licenza: propria  
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
+- ⏹️ **2019** · e-privacy XXV (2019 summer), Torino, Cit — [Big Brother Award (slot by Hermes Center)](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2019** · GitHub — [OSPCI - Osservatorio Sicurezza del Perimetro Cibernetico Italiano (organizzazione GitHub)](https://github.com/osservatoriosicurezza) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2019** · CRVD (copia preservata) — [È ora che l'Italia conosca gli italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/e-ora-che-litalia-conosca-gli-italiani-allestero/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2019** · AISE — [Siragusa (M5S): 1 milione di euro per voto elettronico positivo per italiani all'estero](https://www.aise.it/eletti-allestero/siragusa-m5s-1-milione-di-euro-per-voto-elettronico-positivo-per-italiani-allestero/139344/159) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2019** · Fraktion DIE LINKE im Bundestag — [Öffentliche Anhörung «Medien unter Beschuss – Feldzug gegen WikiLeaks und investigativen J](https://www.dielinkebt.de/themen/nachrichten/detail/neuer-krieg-gegen-den-journalismus) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2019** · Fraktion DIE LINKE im Bundestag (linksfr — [Termine: Medien unter Beschuss (event announcement, public hearing 27/11/2019)](https://www.linksfraktion.de/termine/detail/medien-unter-beschuss/) · licenza: terzi  
   2026-10-02: escluso (decisions.json) — programma dell'audizione Linke 27/11/2019 senza il suo nome tra i relatori
+- ⏹️ **2019** · SecurityWeek — [VLC Responds to Criticism Over Lack of HTTPS for Updates](https://www.securityweek.com/vlc-responds-criticism-over-lack-https-updates/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2020** · verbalictscovid.infosecurity.ch — [Archivio dei Verbali CTS Covid con OCR (download zip da 1.9GB)](http://verbalictscovid.infosecurity.ch) · licenza: propria  
   Fabio 2026-09-24: sito temporaneo messo su da lui e poi spento volutamente; mai archiviato dal Web Archive. Il materiale resta nel repo github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR (voce a parte).
+- ⏹️ **2020** · giovanni-rocca.com — [A self basic audit for Android applications](http://www.giovanni-rocca.com/a-self-basic-audit-for-android-applications/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2020** · gioxx.org (blog di Gioxx) — [Letture per il weekend: di Privacy violata, #INPSDown e #Zoom sotto la lente di ingrandime](https://gioxx.org/2020/04/04/letture-per-il-weekend-di-privacy-violata-inpsdown-e-zoom-sotto-la-lente-di-ingrandimento/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2020** · GitHub (osservatoriosicurezza) — [Issue #3 - Dataset generation PoC and next steps (?)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/3) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2020** · GitLab (fnzv) — [fnzv / ossci-dataset](https://gitlab.com/fnzv/ossci) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2020** · Interoperable Europe Portal (European Co — [EUPL for Italian software](https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2020** · Twitter/X @carlopiana — [«A chi mi diceva "ma almeno Rousseau è una piattaforma che esiste". Leggere tutto l'artico](https://twitter.com/fpietrosanti/status/1296361702670446598) · licenza: terzi  
   Fabio 2026-09-25: tweet di Piana, URL non affidabile: escluso
+- ⏹️ **2020** · Twitter (@mobilesecurity_) — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle #MobileSecurity #AndroidSecurity by](https://twitter.com/mobilesecurity_/status/1244251199173472258) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2020** · openrousseau.org — [Decidiamo! ma con tecnologia libera e open source (OpenRousseau)](https://web.archive.org/web/20201009025401/https://openrousseau.org/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2020** · Comunità DECIDIAMO — [Dieci principi per OpenRousseau. E quattro domande salienti per il MoVimento](https://web.archive.org/web/20250712151408/https://decidiamo.org/Principi_per_OpenRousseau.pdf) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2020** · Il Blog delle Stelle (M5S / Associazione — [Chi truffa Rousseau viene denunciato](https://www.ilblogdellestelle.it/2020/08/chi-truffa-rousseau-viene-denunciato.html) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2020** · Open — [Abolizione del doppio mandato, su Rousseau voti falsi con un account clonato. Il M5s: «Chi](https://www.open.online/2020/08/19/rousseau-e-mandato-zero-qualcuno-ha-votato-due-volte-con-un-account-clonato-m5s-chi-truffa-paga/) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2021** · AliAutonomie — [Voto elettronico. Adottato il decreto per la sperimentazione per le politiche, europee ed ](https://aliautonomie.it/2021/07/14/voto-elettronico-adottato-il-decreto-per-la-sperimentazione-per-le-politiche-europee-ed-i-referendum/) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2021** · GitHub (g0v-it/Geo-AIRE) — [Analisi Geospaziale dati AIRE 2015 per Seggi (dataset)](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.ods) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2021** · Copernicani — [Voto degli italiani fuori sede: la posizione dei copernicani.](https://www.copernicani.it/voto-degli-italiani-fuori-sede-la-posizione-dei-copernicani/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2021** · Ministero degli Affari Esteri e della Co — [Sperimentazione voto elettronico in occasione delle elezioni Comites](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2021/11/sperimentazione-voto-elettronico-in-occasione-delle-elezioni-comites/) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2021** · Garante per la protezione dei dati perso — [Parere sullo schema decreto del MAECI sulla sperimentazione del voto elettronico per il ri](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9721434) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2021** · Il Fatto Quotidiano (blog Umberto Rapett — [Facebook, la storia dei 533 milioni di account rubati equivale a un disastro ecologico del](https://www.ilfattoquotidiano.it/2021/04/07/facebook-la-storia-dei-533-milioni-di-account-rubati-equivale-a-un-disastro-ecologico-dellera-moderna/6157493/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2021** · il Giornale — ["Tutta Italia è vulnerabile, servono investimenti"](https://www.ilgiornale.it/news/politica/tutta-italia-vulnerabile-servono-investimenti-1966600.html) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2021** · Ministero dell'Interno — [Decreto del Ministro dell'Interno sulla sperimentazione del voto elettronico (9 luglio 202](https://www.interno.gov.it/sites/default/files/2021-07/decreto_ministro_su_sperimentazione_voto_elettronico_9.7.2021.pdf) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2022** · Copernicani — [Civic hackers per una Pubblica Amministrazione migliore: un sollecito agli enti pubblici p](https://copernicani.it/civic-hackers-per-una-pubblica-amministrazione-migliore-un-sollecito-agli-enti-pubblici-per-il-rispetto-delle-normative-sulla-privacy/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2022** · Copernicani — [Voto elettronico: la posizione dei Copernicani alla Conferenza sul Futuro dell'Europa](https://copernicani.it/voto-elettronico-la-posizione-dei-copernicani-alla-conferenza-sul-futuro-delleuropa/) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2022** · WebTV Camera dei Deputati — [Comitato permanente sugli italiani nel mondo, audizione del dottor Vignali](https://webtv.camera.it/evento/21102) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2022** · Ministero degli Affari Esteri e della Co — [Portale Voto Elettronico — Relazione Finale](https://www.esteri.it/wp-content/uploads/2022/07/MAECI___Portale_Voto_Elettronico___Relazione_Finale.pdf) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2023** · Ministero dell'Interno — [Voto online, il 13 e il 14 dicembre è stata simulata un'elezione politica nella circoscriz](https://www.interno.gov.it/it/notizie/voto-online-13-e-14-dicembre-e-stata-simulata-unelezione-politica-nella-circoscrizione-estero) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2024** · Bloomberg Law — [How North Korea’s Man in the West Ran Afoul of US Authorities](https://news.bloomberglaw.com/crypto/how-north-koreas-man-in-the-west-ran-afoul-of-us-authorities) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2024** · Senato della Repubblica, Commissioni riu — [Memorie dell'audizione della Rete per i Diritti Umani Digitali sul ddl n. 1146 in materia ](https://www.senato.it/application/xmanager/projects/leg19/attachments/documento_evento_procedura_commissione/files/000/431/041/Memoria_Rete_Diritti_Umani_Digitali.pdf) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
+- ⏹️ **2024** · UNESCO, Global AI Ethics and Governance  — [Hermes Center - Global Civil Society Organizations and Academic Network on AI Ethics and P](https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2025** · European Commission, Interoperable Europ — [GlobaLeaks empowers whistleblowers](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/globaleaks-empowers-whistleblowers-0) · licenza: terzi  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2026** · Allora! Italian Australian News — [Voto estero, dalla blockchain al voto in consolato: tutti gli emendamenti che possono camb](https://alloranews.com/italiani-nel-mondo/voto-estero-dalla-blockchain-al-voto-in-consolato-tutti-gli-emendamenti-che-possono-cambiare-la-legge-tremaglia/) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
 - ⏹️ **2026** · Camera dei deputati, Commissioni riunite — [A.G. 418 - Memoria della Rete per i Diritti Umani Digitali (audizione informale sullo sche](https://documenti.camera.it/leg19/documentiAcquisiti/COM02/Audizioni/leg19.com02.Audizioni.Memoria.PUBBLICO.ideGes.97660.22-07-2026-16-10-48.793.pdf) · licenza: terzi  
@@ -132,6 +233,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2026** · Camera dei deputati, IX Commissione (Tra — [Memoria soggetto non audito - Rete diritti umani digitali, osservazioni sull'A.G. n. 421 (](https://documenti.camera.it/leg19/documentiAcquisiti/COM09/Audizioni/leg19.com09.Audizioni.Memoria.PUBBLICO.ideGes.97466.23-07-2026-12-31-56.077.pdf) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
+- ⏹️ **2026** · mxmap.it — [MxMap.it — Sovranità digitale della posta elettronica della PA italiana](https://mxmap.it/) · licenza: propria  
+  2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2026** · Bilibili — 时光派官方 — [观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53")](https://www.bilibili.com/video/BV1M7YX67EsD/) · licenza: terzi  
   Fabio 2026-09-25: non compare nel video: escluso
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
@@ -148,126 +251,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   URLError
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
-- 🔎 **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 (Gaetano Paolone) - FAQ 2.1.2 «Come si può controllare i](http://www.pluto.it/files/ildp/LDR/ldr5.html#index1124) · licenza: terzi  
-  2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2002** · Apogeonline — [Ethical Hacker's Speech II](https://www.apogeonline.com/articoli/ethical-hackers-speech-ii-associazione-italian-blackhats/) · licenza: terzi  
-  2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2002** · Apogeonline — [Smau e Ict Security: i Black Hats tornano a dire la loro](https://www.apogeonline.com/articoli/smau-e-ict-security-i-black-hats-tornano-a-dire-la-loro-raoul-chiesa/) · licenza: terzi  
-  2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2013** · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) · licenza: terzi  
-  2026-09-26: video scaricato (yt-dlp, 18 MB, solo locale), trascritto e controllato fotogramma per fotogramma: unico intervistato Matteo Flora (didascalia 'Esperto di sicurezza - Fondatore di The Fool'); Fabio non compare. Domanda aperta a Fabio: escludere?
-- 🔎 **2013** · Corriere.it (Reportime) — [Quando l'utente non si lascia spiare](http://www.corriere.it/inchieste/reportime/societa/quando-utente-non-si-lascia-spiare/afda7abe-e342-11e2-a1f9-62e4ef08d60d.shtml) · licenza: terzi  
-  2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2013** · Sky TG24 (servizio di Sacha Coltellacci) — [Datagate, il mondo delle spie visto da dentro (current page URL)](https://video.sky.it/news/mondo/video/datagate_il_mondo_delle_spie_visto_da_dentro-164249) · licenza: terzi  
-  2026-09-26: video scaricato (yt-dlp, 18 MB, solo locale), trascritto e controllato fotogramma per fotogramma: unico intervistato Matteo Flora (didascalia 'Esperto di sicurezza - Fondatore di The Fool'); Fabio non compare. Domanda aperta a Fabio: escludere?
-- 🔎 **2017** · Askanews — [Captatori informatici, proposta di legge di Civici e Innovatori](http://www.askanews.it/cronaca/2017/01/31/captatori-informatici-proposta-di-legge-di-civici-e-innovatori-pn_20170131_00175/) · licenza: terzi  
-  2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2017** · Freedom Not Fear 2017, Brussels (Mundo B — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule) · licenza: terzi  
-  2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2017** · CINI - Laboratorio Nazionale di Cybersec — [Il Laboratorio Nazionale di Cybersecurity ... con il CIS Sapienza premia i giovani hacker ](https://www.consorzio-cini.it/index.php/it/labcs-home/labcs-news/1191-il-laboratorio-nazionale-di-cybersecurity-presenta-a-roma-la-relazione-annuale-delle-attivita-svolte-e-con-il-cis-sapienza-premia-i-giovani-hacker-della-cyberchallenge) · licenza: terzi  
-  2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2017** · www.journalismfestival.com — [lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare](https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare) · licenza: terzi  
-  2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2018** · StartupItalia — [Cyberchallenge 2018: la gara finale e la premiazione](https://startupitalia.eu/61355-20180629-cyberchallenge-2018-la-finale) · licenza: terzi  
-  2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2019** · SecurityWeek — [VLC Responds to Criticism Over Lack of HTTPS for Updates](https://www.securityweek.com/vlc-responds-criticism-over-lack-https-updates/) · licenza: terzi  
-  2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🔎 **2020** · giovanni-rocca.com — [A self basic audit for Android applications](http://www.giovanni-rocca.com/a-self-basic-audit-for-android-applications/) · licenza: terzi  
-  2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
-- 🔎 **2020** · Eclecticism Now! (blog, eclecticismnow.w — [Sim Toolkit uses notes for covid-19](https://eclecticismnow.wordpress.com/2020/03/29/sim-toolkit-uses-notes-for-covid-19/) · licenza: terzi  
-  2026-09-30: copia completa; post firmato solo 'eclecticismnow' (nessun nome/naif nel testo). Attribuito a Fabio perché rilanciato da @fpietrosanti il 29/03/2020 e perché il blog ospita i suoi FOIA: chiedere a Fabio se eclecticismnow è il suo blog
-- 🔎 **2020** · gioxx.org (blog di Gioxx) — [Letture per il weekend: di Privacy violata, #INPSDown e #Zoom sotto la lente di ingrandime](https://gioxx.org/2020/04/04/letture-per-il-weekend-di-privacy-violata-inpsdown-e-zoom-sotto-la-lente-di-ingrandimento/) · licenza: terzi  
-  2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
-- 🔎 **2020** · Twitter (@mobilesecurity_) — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle #MobileSecurity #AndroidSecurity by](https://twitter.com/mobilesecurity_/status/1244251199173472258) · licenza: terzi  
-  2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
-- 🔎 **2021** · Il Fatto Quotidiano (blog Umberto Rapett — [Facebook, la storia dei 533 milioni di account rubati equivale a un disastro ecologico del](https://www.ilfattoquotidiano.it/2021/04/07/facebook-la-storia-dei-533-milioni-di-account-rubati-equivale-a-un-disastro-ecologico-dellera-moderna/6157493/) · licenza: terzi  
-  2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
-- 🔎 **2021** · il Giornale — ["Tutta Italia è vulnerabile, servono investimenti"](https://www.ilgiornale.it/news/politica/tutta-italia-vulnerabile-servono-investimenti-1966600.html) · licenza: terzi  
-  2026-09-24: copia completa; parla dell'audit LAZIOdrCOVID (Rocca, 2020) ma non nomina Fabio: contesto, candidata all'esclusione secondo la sua regola.
-- 🏛️ **2011** · 28C3 Chaos Communication Congress, Berli — [Tor2web workshop](https://events.ccc.de/congress/2011/wiki/Tor2web) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2011** · 28C3 Chaos Communication Congress, Berli — [Workshops/GlobaLeaks](https://events.ccc.de/congress/2011/wiki/Workshops/GlobaLeaks) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2012** · Hackmeeting 2012 (HackIt 0x0F), L'Aquila — [GlobaLeaks](https://www.hackmeeting.org/hackit12/seminari.html) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2013** · OHM2013 (Observe. Hack. Make.) - Noisy S — [Digital Whistleblowing roundtable [N^2] (Day 3, 16:00)](https://web.archive.org/web/20130908205034/https://program.ohm2013.org/event/381.html) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2013** · OHM2013 (Observe. Hack. Make.), Geestmer — [Digital Whistleblowing with GlobaLeaks (Day 3, 13:00) - program page](https://web.archive.org/web/20131022000047/https://program.ohm2013.org/event/255.html) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2013** · OHM2013 (Observe. Hack. Make.) - Noisy S — [Setting up a Whistleblowing or Leaking initiative with GlobaLeaks [N^2] (Day 3, 15:00)](https://web.archive.org/web/20140222133403/https://program.ohm2013.org/event/396.html) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2013** · OHM2013 (Observe. Hack. Make.) - Noisy S — [Tor2web Meeting [N^2] (Day 2, 22:00, Noisy Square 2)](https://web.archive.org/web/20140227173501/https://program.ohm2013.org/event/256.html) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2013** · Hermes Center / Skype open letter — [[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”](https://web.archive.org/web/2015/http://logioshermes.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/) · licenza: propria  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2016** · Whistleblowing Solutions Impresa Sociale — [Whistleblowing Solutions Impresa Sociale S.r.l. founded to sustain GlobaLeaks](https://whistleblowing.it/en/about-us/) · licenza: propria  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2017** · 34C3 Chaos Communication Congress, Leipz — [Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', '](https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2017** · Tampere University of Technology (MSc th — [TorSNIP: Hidden Service Proxy with End-to-End Security (Kiyani)](https://trepo.tuni.fi/handle/123456789/25394) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2017** · Hermes Center (hermescenter.org) — [Le richieste FOIA sul Voto Elettronico Lombardia 2017](https://www.hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/) · licenza: propria  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2018** · Copernicani — [Hermes Center sostiene l'Appello per il Ministro per il digitale!](https://copernicani.it/blog/2018/05/26/hermes-center-sostiene-lappello-per-il-ministro-per-il-digitale/) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2018** · e-privacy XXIV (2018 autumn), Roma - Pro — [Presentazione Big Brother Awards Italia 2019 (with video)](https://e-privacy.winstonsmith.org/e-privacy-XXIV.html) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2018** · EDRi (European Digital Rights) — [Big Brother Awards 2018 Italy](https://edri.org/big-brother-awards-2018-italy/) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2018** · EDRi (European Digital Rights) — [Hermes Center demands investigation of NAT-related data retention](https://edri.org/hermes-center-demands-investigation-of-nat-related-data-retention/) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2018** · EDRi (European Digital Rights) — [Member in the Spotlight: Hermes Center](https://edri.org/our-work/member-in-the-spotlight-hermes-center/) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2018** · EDRi (European Digital Rights) — [Welcoming new EDRi members: FSFE, Hermes Center, NOYB, and Xnet](https://edri.org/welcoming-new-edri-members-fsfe-hermes-center-noyb-and-xnet/) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2018** · GlobaLeaks blog — [Nasce WhistleblowingPA](https://globaleaks.org/it/2018/10/01/nasce-whistleblowing-pa/) · licenza: propria  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2018** · CRVD (copia preservata, da ItaliaChiamaI — [Fusacchia (+Europa) a ItaliaChiamaItalia: «Insisto, per gli italiani all'estero ci vuole i](https://hermescenter.github.io/crvd.org-preservation/fusacchia-europa-a-italiachiamaitalia-insisto-per-gli-italiani-allestero-ci-vuole-il-voto-elettronico/) · licenza: terzi  
-  2026-09-25: pagina di un suo progetto (OpenRousseau/decidiamo, Geo-AIRE, CRVD, Copernicani) senza il suo nome nel testo; attribuzione da README/contributor GitHub o dal contesto
-- 🏛️ **2018** · JEI - Jus e Internet — [Voto elettronico: rilievi giuridici e tecnici. Teorizzazione di un modello sperimentale di](https://www.jei.it/approfondimenti-giuridici/490-voto-elettronico-rilievi-giuridici-e-tecnici-teorizzazione-di-un-modello-sperimentale-di-votazione-mediante-uso-della-tecnologia-blockchain) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2019** · e-privacy XXV (2019 summer), Torino, Cit — [Big Brother Award (slot by Hermes Center)](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2019** · GitHub — [OSPCI - Osservatorio Sicurezza del Perimetro Cibernetico Italiano (organizzazione GitHub)](https://github.com/osservatoriosicurezza) · licenza: terzi  
-  2026-09-24: pagina dell'organizzazione GitHub OSPCI/OSSCI: suo progetto, il nome non compare (è nei commit e nelle issue, voci a parte).
-- 🏛️ **2019** · CRVD (copia preservata) — [È ora che l'Italia conosca gli italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/e-ora-che-litalia-conosca-gli-italiani-allestero/) · licenza: terzi  
-  2026-09-25: pagina di un suo progetto (OpenRousseau/decidiamo, Geo-AIRE, CRVD, Copernicani) senza il suo nome nel testo; attribuzione da README/contributor GitHub o dal contesto
-- 🏛️ **2020** · GitHub - organizzazione decidiamo — [decidiamo/decidiamo-website](https://github.com/decidiamo/decidiamo-website) · licenza: terzi  
-  2026-09-25: pagina di un suo progetto (OpenRousseau/decidiamo, Geo-AIRE, CRVD, Copernicani) senza il suo nome nel testo; attribuzione da README/contributor GitHub o dal contesto
-- 🏛️ **2020** · GitHub - organizzazione decidiamo — [decidiamo/openrousseau-decidim](https://github.com/decidiamo/openrousseau-decidim) · licenza: terzi  
-  2026-09-25: pagina di un suo progetto (OpenRousseau/decidiamo, Geo-AIRE, CRVD, Copernicani) senza il suo nome nel testo; attribuzione da README/contributor GitHub o dal contesto
-- 🏛️ **2020** · GitHub - organizzazione decidiamo — [decidiamo/openrousseau-mobile](https://github.com/decidiamo/openrousseau-mobile) · licenza: terzi  
-  2026-09-25: pagina di un suo progetto (OpenRousseau/decidiamo, Geo-AIRE, CRVD, Copernicani) senza il suo nome nel testo; attribuzione da README/contributor GitHub o dal contesto
-- 🏛️ **2020** · GitHub - organizzazione decidiamo — [decidiamo/openrousseau-website](https://github.com/decidiamo/openrousseau-website) · licenza: terzi  
-  2026-09-25: pagina di un suo progetto (OpenRousseau/decidiamo, Geo-AIRE, CRVD, Copernicani) senza il suo nome nel testo; attribuzione da README/contributor GitHub o dal contesto
-- 🏛️ **2020** · GitHub (osservatoriosicurezza) — [Issue #3 - Dataset generation PoC and next steps (?)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/3) · licenza: terzi  
-  2026-09-24: issue #3 di OSSCI (fnzv, 2020), nessuna risposta: suo progetto, nome assente.
-- 🏛️ **2020** · GitLab (fnzv) — [fnzv / ossci-dataset](https://gitlab.com/fnzv/ossci) · licenza: terzi  
-  2026-09-24: repo GitLab fnzv/ossci (seguito di OSSCI, dataset IP italiani): pagina JS, salvati via API project, commit e README; commit di fnzv/Sami e del bot CI, il nome di Fabio non compare.
-- 🏛️ **2020** · Interoperable Europe Portal (European Co — [EUPL for Italian software](https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2020** · openrousseau.org — [Decidiamo! ma con tecnologia libera e open source (OpenRousseau)](https://web.archive.org/web/20201009025401/https://openrousseau.org/) · licenza: terzi  
-  2026-09-25: pagina di un suo progetto (OpenRousseau/decidiamo, Geo-AIRE, CRVD, Copernicani) senza il suo nome nel testo; attribuzione da README/contributor GitHub o dal contesto
-- 🏛️ **2020** · Comunità DECIDIAMO — [Dieci principi per OpenRousseau. E quattro domande salienti per il MoVimento](https://web.archive.org/web/20250712151408/https://decidiamo.org/Principi_per_OpenRousseau.pdf) · licenza: terzi  
-  2026-09-25: pagina di un suo progetto (OpenRousseau/decidiamo, Geo-AIRE, CRVD, Copernicani) senza il suo nome nel testo; attribuzione da README/contributor GitHub o dal contesto
-- 🏛️ **2021** · GitHub (g0v-it/Geo-AIRE) — [Analisi Geospaziale dati AIRE 2015 per Seggi (dataset)](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.ods) · licenza: terzi  
-  2026-09-25: pagina di un suo progetto (OpenRousseau/decidiamo, Geo-AIRE, CRVD, Copernicani) senza il suo nome nel testo; attribuzione da README/contributor GitHub o dal contesto
-- 🏛️ **2021** · Copernicani — [Voto degli italiani fuori sede: la posizione dei copernicani.](https://www.copernicani.it/voto-degli-italiani-fuori-sede-la-posizione-dei-copernicani/) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2022** · Copernicani — [Civic hackers per una Pubblica Amministrazione migliore: un sollecito agli enti pubblici p](https://copernicani.it/civic-hackers-per-una-pubblica-amministrazione-migliore-un-sollecito-agli-enti-pubblici-per-il-rispetto-delle-normative-sulla-privacy/) · licenza: terzi  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2022** · Copernicani — [Voto elettronico: la posizione dei Copernicani alla Conferenza sul Futuro dell'Europa](https://copernicani.it/voto-elettronico-la-posizione-dei-copernicani-alla-conferenza-sul-futuro-delleuropa/) · licenza: terzi  
-  2026-09-25: pagina di un suo progetto (OpenRousseau/decidiamo, Geo-AIRE, CRVD, Copernicani) senza il suo nome nel testo; attribuzione da README/contributor GitHub o dal contesto
-- 🏛️ **2024** · UNESCO, Global AI Ethics and Governance  — [Hermes Center - Global Civil Society Organizations and Academic Network on AI Ethics and P](https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center) · licenza: terzi  
-  2026-09-23: copia completa; la pagina documenta Hermes Center/GlobaLeaks ma non contiene ne' il nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto.
-- 🏛️ **2025** · European Commission, Interoperable Europ — [GlobaLeaks empowers whistleblowers](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/globaleaks-empowers-whistleblowers-0) · licenza: terzi  
-  2026-09-23: copia completa; la pagina documenta Hermes Center/GlobaLeaks ma non contiene ne' il nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto.
-- 🏛️ **2026** · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit) · licenza: propria  
-  2026-09-23: copia ottenuta; la pagina documenta un suo progetto/organizzazione (Hermes Center, GlobaLeaks, WhistleblowingPA, Copernicani, ...) ma NON contiene ne' il suo nome ne' «naif». Regola di Fabio: senza nome non e' lui. Da decidere se tenerla come contesto del progetto o escluderla.
-- 🏛️ **2026** · mxmap.it — [MxMap.it — Sovranità digitale della posta elettronica della PA italiana](https://mxmap.it/) · licenza: propria  
-  2026-09-23: bug di copia RISOLTO (corpo gzip decodificato in locale, nessun nuovo download). La pagina e' leggibile ma e' la home di un suo progetto e non contiene il suo nome: rientra nella categoria «solo organizzazione».
 - 🗂️ **2001** · Corriere della Sera (ed. nazionale, p. 2 — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma p](https://archivio.corriere.it/Archivio/interface/landing.html) · licenza: terzi  
   2026-09-23: la copia e' solo una scheda/maschera di ricerca d'archivio, senza il testo dell'articolo. Serve la pagina di giornale vera (scansione archive.org o capture dell'URL dell'articolo).
 - 🟡 **2013** · arXiv — [Cryptocat: Adopting Accessibility and Ease of Use as Security Properties (Nadim Kobeissi, ](https://arxiv.org/abs/1306.5156) · licenza: terzi  
@@ -276,11 +261,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://podcast-radio24.ilsole24ore.com/radio24_audio/2019/190208-2024.mp3) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2019** · Fraktion DIE LINKE im Bundestag — [Öffentliche Anhörung «Medien unter Beschuss – Feldzug gegen WikiLeaks und investigativen J](https://www.dielinkebt.de/themen/nachrichten/detail/neuer-krieg-gegen-den-journalismus) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://podcast-radio24.ilsole24ore.com/radio24_audio/2022/220624-2024.mp3) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2024** · Bloomberg Law — [How North Korea’s Man in the West Ran Afoul of US Authorities](https://news.bloomberglaw.com/crypto/how-north-koreas-man-in-the-west-ran-afoul-of-us-authorities) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕](https://www.bilibili.com/video/BV1SJYe6AEXo/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -367,6 +348,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2001** · AntiKrimen Expo 2001 - Area Sicurezza In — [Storia e psicologia Hacker](http://fabio.pietrosanti.it/) · copia: `2001/b17e2e712c2e` (Web Archive 20030214) · licenza: propria
 - **2001** · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) · copia: `2001/708cc48ca841` (Web Archive 20020204) · licenza: propria
 - **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 - 'Suggerimenti di...' (hall of fame)](http://www.pluto.it/files/ildp/LDR/ldr21.html) · copia: `2001/581a4a985147` (Web Archive 20060517) · licenza: terzi
+- **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 (Gaetano Paolone) - FAQ 2.1.2 «Come si può controllare i](http://www.pluto.it/files/ildp/LDR/ldr5.html#index1124) · copia: `2001/1fe8122618d1` (live) · licenza: terzi
 - **2001** · BFi n.10 — [TCP congestion control e dintorni (vecna)](http://www.s0ftpj.org/bfi/online/bfi10/BFi10-08.html) · copia: `2001/e4128af2c887` (Web Archive 20020211) · licenza: terzi
 - **2001** · BFi n.10 — [i0 FASTWEB E TU?](http://www.s0ftpj.org/bfi/online/bfi10/BFi10-13.html) · copia: `2001/140605a444e1` (Web Archive 20011212) · licenza: propria
 - **2001** · Bugtraq — [Cisco PIX Security Notes](https://seclists.org/bugtraq/2001/Mar/148) · copia: `2001/1d40605598c6` (Web Archive 20111208) · licenza: propria
@@ -735,6 +717,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · st.ilsole24ore.com — [La sfida di coniugare il dettato costituzionale e la ricerca tecnologica](https://st.ilsole24ore.com/art/commenti-e-idee/2017-12-02/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-125656.shtml) · copia: `2017/94351f1f8236` (live) · licenza: terzi
 - **2017** · tbinternet.ohchr.org — [INT_CCPR_CSS_ITA_26517_E.pdf](https://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ITA/INT_CCPR_CSS_ITA_26517_E.pdf) · copia: `2017/e26d538ee4b2` (Web Archive 20211017) · licenza: terzi
 - **2017** · Tampere University of Technology (Finlan — [TorSNIP: Hidden Service Proxy with End-to-End Security](https://trepo.tuni.fi/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&isAllowed=y) · copia: `2017/4ac2264ec0cf` (Web Archive 20241108) · licenza: terzi
+- **2017** · Tampere University of Technology (MSc th — [TorSNIP: Hidden Service Proxy with End-to-End Security (Kiyani)](https://trepo.tuni.fi/handle/123456789/25394) · copia: `2017/fad5ce52a65e` (Web Archive 20210515) · licenza: terzi
 - **2017** · Trojans And Rule of Law — [Trojans And Rule of Law](https://trojansandruleoflaw.org/) · copia: `2017/7542ca8dcc65` (Web Archive 20210516) · licenza: propria
 - **2017** · Twitter/X @fpietrosanti — [An overview on the #SHA2017 hacker camp from 4th to 8th August @SHA2017Camp /by @interlogi](https://twitter.com/fpietrosanti/status/898831511708983296) · copia: `2017/edd84181eac7` (live) · licenza: terzi
 - **2017** · e-privacy XXI (2017 summer), Lucca, Real — [Monitoring Government Surveillance Capabilities by means of Transparency tools (slides PDF](https://urna.winstonsmith.org/materiali/2017/atti/ep2017se_14_coluccini_pietrosanti_monitorare_sorveglianza_governativa.pdf) · copia: `2017/3c18bcd70b68` (Web Archive 20210605) · licenza: propria
@@ -744,6 +727,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · Hermes Center — [Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE](https://web.archive.org/web/20200607012151/https://www.hermescenter.org/sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise/) · copia: `2017/dc4b7ec8dd77` (Web Archive 20200607) · licenza: propria
 - **2017** · DIG Festival 2017 (Riccione) - via Herme — [Il Centro Hermes al DIG Festival per la cybersecurity dei giornalisti (con slide)](https://web.archive.org/web/20200920224518/https://www.hermescenter.org/centro-hermes-dig-festival-cybersecurity-giornalisti-slide/) · copia: `2017/11274bcedab3` (Web Archive 20200920) · licenza: propria
 - **2017** · SHA2017 Wiki — [Village:ItalianEmbassy (Italian Hacker Embassy at SHA2017)](https://wiki.sha2017.org/w/Village:ItalianEmbassy) · copia: `2017/519f27acc52b` (Web Archive 20170801) · licenza: propria
+- **2017** · Freedom Not Fear 2017, Brussels (Mundo B — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule) · copia: `2017/e9149d840114` (Web Archive 20180621) · licenza: terzi
 - **2017** · Agenda Digitale — [Articoli di Fabio Pietrosanti (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/) · copia: `2017/264a9bc7d25b` (Web Archive 20200925) · licenza: terzi
 - **2017** · University of California, Berkeley, PhD  — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf) · copia: `2017/07478431c5a6` (Web Archive 20190612) · licenza: terzi
 - **2017** · www.ccc.de — [Stellungnahme_CCC-Staatstrojaner.pdf](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) · copia: `2017/0ec817dbfbbc` (Web Archive 20170531) · licenza: terzi
@@ -898,9 +882,14 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · CRS Scuola Critica del Digitale + Forum  — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/) · copia: `2020/423816c0d044` (Web Archive 20210619) · licenza: terzi
 - **2020** · Copernicani (#DialoghiCopernicani, onlin — [Martedi 20 ottobre ore 21:00 - Riconoscimento facciale usato dalle forze dell'ordine, stru](https://copernicani.it/blog/2020/10/16/martedi-20-ottobre-ore-2100-riconoscimento-facciale-usato-dalle-forze-dellordine-strumento-o-arma/) · copia: `2020/2cd8cd7b083a` (Web Archive 20201019) · licenza: terzi
 - **2020** · Google Docs (documento pubblico) — [Digitalizzazione processi gestione emergenziale coronavirus assistiti da dati di geo-locat](https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk) · copia: `2020/50fc2ff6af5f` (live) · licenza: terzi
+- **2020** · Eclecticism Now! (blog, eclecticismnow.w — [Sim Toolkit uses notes for covid-19](https://eclecticismnow.wordpress.com/2020/03/29/sim-toolkit-uses-notes-for-covid-19/) · copia: `2020/713a2501cbca` (Web Archive 20210314) · licenza: terzi
 - **2020** · Eclecticism Now! (blog, eclecticismnow.w — [Commissione Voto Elettronico: Rigetto FOIA](https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/) · copia: `2020/0a6aad5ea2f8` (Web Archive 20201219) · licenza: terzi
 - **2020** · Medium (ethex-smm) — [The story of Virgil Griffith](https://ethex-smm.medium.com/the-story-of-virgil-griffith-15bba676cc52) · copia: `2020/d7431ea94f6b` (Web Archive 20210928) · licenza: terzi
 - **2020** · GitHub (associazione-rousseau/camelot-fl — [Integrate Flutter to works with Decidim Backend, instead of Rousseau (issue #170)](https://github.com/associazione-rousseau/camelot-flutter/issues/170) · copia: `2020/cbcf0a016f2c` (live) · licenza: terzi
+- **2020** · GitHub - organizzazione decidiamo — [decidiamo/decidiamo-website](https://github.com/decidiamo/decidiamo-website) · copia: `2020/5dc0bc57a3f7` (live) · licenza: terzi
+- **2020** · GitHub - organizzazione decidiamo — [decidiamo/openrousseau-decidim](https://github.com/decidiamo/openrousseau-decidim) · copia: `2020/551becb2b02c` (Web Archive 20250123) · licenza: terzi
+- **2020** · GitHub - organizzazione decidiamo — [decidiamo/openrousseau-mobile](https://github.com/decidiamo/openrousseau-mobile) · copia: `2020/9c30524283e1` (live) · licenza: terzi
+- **2020** · GitHub - organizzazione decidiamo — [decidiamo/openrousseau-website](https://github.com/decidiamo/openrousseau-website) · copia: `2020/a941c5975fa5` (live) · licenza: terzi
 - **2020** · GitHub (dipartimentofunzionepubblica/par — [Documentare e re-integrare tutte le modifiche di partecipa.gov.it di Decidim nel main bran](https://github.com/dipartimentofunzionepubblica/partecipa/issues/2) · copia: `2020/0fc52db457f0` (Web Archive 20220821) · licenza: terzi
 - **2020** · GitHub fpietrosanti — [COVID-19-Verbali-CTS-OCR](https://github.com/fpietrosanti/COVID-19-Verbali-CTS-OCR) · copia: `2020/eb6bace23141` (Web Archive 20260218) · licenza: propria
 - **2020** · GitHub fpietrosanti — [ifuriosi](https://github.com/fpietrosanti/ifuriosi) · copia: `2020/bc74d92eaf61` (Web Archive 20201205) · licenza: propria
@@ -1221,6 +1210,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch) · copia: `2026/60f47f5d7a64` (live) · licenza: propria
 - **2026** · GitHub — [secassure2026 (fork): Email Provider Dependencies and Email Security in Municipalities Acr](https://github.com/fpietrosanti/secassure2026) · copia: `2026/ea283ba1e5b4` (live) · licenza: propria
 - **2026** · GitHub — [whistleblowing-monitor-italia: Monitor Whistleblowing Reporting Channel in Italy (PA & Sto](https://github.com/fpietrosanti/whistleblowing-monitor-italia) · copia: `2026/497cb665997c` (live) · licenza: propria
+- **2026** · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit) · copia: `2026/e62995fc4c6e` (live) · licenza: propria
 - **2026** · GitHub mxmap-it — [mxmap.it #22 «Fingerprint security gateway by the presence of HTTPS website on the MX»](https://github.com/mxmap-it/mxmap.it/issues/22) · copia: `2026/3b7d6c7121ed` (api) · licenza: propria
 - **2026** · GlobaLeaks — [People | GlobaLeaks](https://globaleaks.org/about/people/) · copia: `2026/a2dd5929df8c` (live) · licenza: propria
 - **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) · copia: `2026/a243d02057e1` (Web Archive 20260618) · licenza: propria

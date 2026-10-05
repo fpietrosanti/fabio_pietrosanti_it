@@ -7,7 +7,7 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 ## A0-bis. Risposte di Fabio del 2026-10-05 (applicate)
 - **1** dati personali delle scuole: «va bene così» → nessuna richiesta di oscuramento, copie solo nell'archivio privato. Chiuso.
 - **2** libri: fatta la **sezione «Books» del sito + tag `books`** (22 libri, `data/books.json`), sintesi in italiano in `docs/LIBRI.md`.
-- **3** «non ho capito» → rispiegato in chat (vedi sotto, ancora aperto).
+- **3** risposta «senza nome, non sono io» → **escluse 52 voci** (solo organizzazione/progetto e nome assente: EDRi, CCC, OHM2013, e-privacy, Copernicani, OpenRousseau/OSSCI senza nome, Apogeo, Sky TG24 2013, Askanews, SecurityWeek, clip Bilibili senza di te, pagina Linke, Bloomberg Law troncato…). Copie conservate nell'archivio privato. Restano 10 pagine senza nome nel testo ma verificate per altra via (repo GitHub con tuoi commit, indice LDR, tesi TorSNIP, Freedom Not Fear 2017, tuo blog). `media.json`: 945 → 893 voci.
 - **4** PDF PrivateWave: non li hai → B1 chiusa come irrecuperabile.
 - **5** Senato: col browser locale ho trovato il video WebTV del 14/05/2020 (14ª Commissione, ddl 1721) e trascritto il
   tratto di Hermes (2:16–2:34): **parlò Vincenzo Tiani** da Bruxelles, non tu → A0.8(d) e A0.9(b) chiuse

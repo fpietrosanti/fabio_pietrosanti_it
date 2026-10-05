@@ -1048,23 +1048,6 @@
   "on_old_site": false
  },
  {
-  "date": "2002-09-24",
-  "year": 2002,
-  "type": "mentioned",
-  "outlet": "Apogeonline",
-  "title": "Smau e Ict Security: i Black Hats tornano a dire la loro",
-  "url": "https://www.apogeonline.com/articoli/smau-e-ict-security-i-black-hats-tornano-a-dire-la-loro-raoul-chiesa/",
-  "language": "it",
-  "role": "subject",
-  "note": "Announces the Italian Blackhats Ethical Hacker's Speech at SMAU 2002, including the wireless war-walking survey he presented; his name is not on the page",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice1_1995_2006"
-  ],
-  "on_old_site": true
- },
- {
   "date": "2002-10",
   "year": 2002,
   "type": "talk",
@@ -1149,23 +1132,6 @@
    "pass2_a_1995_2008"
   ],
   "on_old_site": false
- },
- {
-  "date": "2002-10-30",
-  "year": 2002,
-  "type": "mentioned",
-  "outlet": "Apogeonline",
-  "title": "Ethical Hacker's Speech II",
-  "url": "https://www.apogeonline.com/articoli/ethical-hackers-speech-ii-associazione-italian-blackhats/",
-  "language": "it",
-  "role": "subject",
-  "note": "Programme of the Italian Blackhats speech at SMAU 2002 (the association he co-founded); his name is not on the page",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice1_1995_2006"
-  ],
-  "on_old_site": true
  },
  {
   "date": "2003-01",
@@ -3958,40 +3924,6 @@
   "on_old_site": false
  },
  {
-  "date": "2011-12-28",
-  "year": 2011,
-  "type": "talk",
-  "outlet": "28C3 Chaos Communication Congress, Berlin",
-  "title": "Tor2web workshop",
-  "url": "https://events.ccc.de/congress/2011/wiki/Tor2web",
-  "language": "en",
-  "role": "panelist",
-  "note": "Tor2web workshop run by the GlobaLeaks team; his name is not on the page",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2011-12-28",
-  "year": 2011,
-  "type": "talk",
-  "outlet": "28C3 Chaos Communication Congress, Berlin",
-  "title": "Workshops/GlobaLeaks",
-  "url": "https://events.ccc.de/congress/2011/wiki/Workshops/GlobaLeaks",
-  "language": "en",
-  "role": "panelist",
-  "note": "GlobaLeaks team workshop (host User:GlobaLeaks); his name is not on the page",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice2_2007_2011"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2012",
   "year": 2012,
   "type": "book",
@@ -4369,23 +4301,6 @@
   "on_old_site": false
  },
  {
-  "date": "2012-06-30",
-  "year": 2012,
-  "type": "talk",
-  "outlet": "Hackmeeting 2012 (HackIt 0x0F), L'Aquila",
-  "title": "GlobaLeaks",
-  "url": "https://www.hackmeeting.org/hackit12/seminari.html",
-  "language": "it",
-  "role": "subject",
-  "note": "Seminari: 'GlobaLeaks', Saturday 30, h19, 1 ora, 'Oratore: some (random globaleaks contributor)'. Pietrosanti not named. On the same day at h18: 'Aquileaks/Santagnese' (boyska, vincent) on local whistleblowing.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_esc_hackmeeting_securitysummit_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2012-07-01",
   "year": 2012,
   "type": "research",
@@ -4585,23 +4500,6 @@
   "on_old_site": false
  },
  {
-  "date": "2013-01-25",
-  "year": 2013,
-  "type": "press_release",
-  "outlet": "Hermes Center / Skype open letter",
-  "title": "[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”",
-  "url": "https://web.archive.org/web/2015/http://logioshermes.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/",
-  "language": "it",
-  "role": "subject",
-  "note": "Hermes Center (which he co-founded) among signatories of the international open letter to Skype/Microsoft; he is not named in the text",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2013-03-28",
   "year": 2013,
   "type": "video",
@@ -4785,58 +4683,6 @@
   "on_old_site": false
  },
  {
-  "date": "2013-07-02",
-  "year": 2013,
-  "type": "tv",
-  "outlet": "Sky TG24 (servizio di Sacha Coltellacci)",
-  "title": "Datagate, il mondo delle spie visto da dentro (current page URL)",
-  "url": "https://video.sky.it/news/mondo/video/datagate_il_mondo_delle_spie_visto_da_dentro-164249",
-  "language": "it",
-  "role": "interviewee (unconfirmed)",
-  "note": "The known URL http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid 301-redirects to this live page. The page (title and description 'Lo spionaggio USA riapre il dibattito su privacy e sicurezza') does not name Pietrosanti or Hermes, so his presence is still unconfirmed. The only source is the Hermes Center press post. The video itself was not watched.",
-  "verified": false,
-  "known": true,
-  "_slices": [
-   "pass4_mediaset_other_tv_2026-09-22"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-07-02",
-  "year": 2013,
-  "type": "tv",
-  "outlet": "Sky TG24",
-  "title": "Datagate, il mondo delle spie visto da dentro",
-  "url": "http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid",
-  "language": "IT",
-  "role": "interviewee",
-  "note": "Already known. Listed on the Hermes Center News/Press page (report by Sacha Coltellacci). His presence is not confirmed by page text; the video URL is dead.",
-  "verified": false,
-  "known": true,
-  "_slices": [
-   "pass4_tv_rai_la7_2026-09-18",
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-07-02",
-  "year": 2013,
-  "type": "video",
-  "outlet": "Corriere.it (Reportime)",
-  "title": "Quando l'utente non si lascia spiare",
-  "url": "http://www.corriere.it/inchieste/reportime/societa/quando-utente-non-si-lascia-spiare/afda7abe-e342-11e2-a1f9-62e4ef08d60d.shtml",
-  "language": "it",
-  "role": "subject",
-  "note": "Datagate video report by Antonella Cignarale listed on the Hermes Center press page; his presence not confirmed",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2013-07-10",
   "year": 2013,
   "type": "mentioned",
@@ -4919,23 +4765,6 @@
  {
   "date": "2013-08-02",
   "year": 2013,
-  "type": "other",
-  "outlet": "OHM2013 (Observe. Hack. Make.) - Noisy Square",
-  "title": "Tor2web Meeting [N^2] (Day 2, 22:00, Noisy Square 2)",
-  "url": "https://web.archive.org/web/20140227173501/https://program.ohm2013.org/event/256.html",
-  "language": "en",
-  "role": "organiser",
-  "note": "Program entry by Hermes Center; his invitation to this meeting is documented in Tor Weekly News 31 Jul 2013 (already known); name not on this page",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_ccc_camps_congresses_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-08-02",
-  "year": 2013,
   "type": "talk",
   "outlet": "OHM2013 (Observe. Hack. Make.), Netherlands",
   "title": "Digital Whistleblowing with GlobaLeaks",
@@ -4947,57 +4776,6 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-08-03",
-  "year": 2013,
-  "type": "talk",
-  "outlet": "OHM2013 (Observe. Hack. Make.), Geestmerambacht NL - official program",
-  "title": "Digital Whistleblowing with GlobaLeaks (Day 3, 13:00) - program page",
-  "url": "https://web.archive.org/web/20131022000047/https://program.ohm2013.org/event/255.html",
-  "language": "en",
-  "role": "speaker",
-  "note": "improves existing (OHM2013 YouTube item): official program entry; speaker listed as 'Hermes Center for Transparency and Digital Human Rights', his name not on page; GlobaLeaks 0.2 release",
-  "verified": false,
-  "known": true,
-  "_slices": [
-   "pass4_ccc_camps_congresses_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-08-03",
-  "year": 2013,
-  "type": "workshop",
-  "outlet": "OHM2013 (Observe. Hack. Make.) - Noisy Square",
-  "title": "Setting up a Whistleblowing or Leaking initiative with GlobaLeaks [N^2] (Day 3, 15:00)",
-  "url": "https://web.archive.org/web/20140222133403/https://program.ohm2013.org/event/396.html",
-  "language": "en",
-  "role": "organiser",
-  "note": "Hermes Center workshop on deploying GlobaLeaks 0.2; his name not on page",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_ccc_camps_congresses_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2013-08-03",
-  "year": 2013,
-  "type": "other",
-  "outlet": "OHM2013 (Observe. Hack. Make.) - Noisy Square",
-  "title": "Digital Whistleblowing roundtable [N^2] (Day 3, 16:00)",
-  "url": "https://web.archive.org/web/20130908205034/https://program.ohm2013.org/event/381.html",
-  "language": "en",
-  "role": "subject",
-  "note": "Roundtable with Jurre van Bergen, Hermes Center, Suelette Dreyfus, Thomas Drake, Pedro Noel, Jesselyn Radack, Smari McCarthy; Hermes representative not named",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_ccc_camps_congresses_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -6374,23 +6152,6 @@
   "on_old_site": false
  },
  {
-  "date": "2016",
-  "year": 2016,
-  "type": "project",
-  "outlet": "Whistleblowing Solutions Impresa Sociale",
-  "title": "Whistleblowing Solutions Impresa Sociale S.r.l. founded to sustain GlobaLeaks",
-  "url": "https://whistleblowing.it/en/about-us/",
-  "language": "en",
-  "role": "subject",
-  "note": "Social enterprise founded in 2016 to give GlobaLeaks economic sustainability; later runs WhistleblowingIT/WhistleblowingPA",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2016-01-02",
   "year": 2016,
   "type": "research",
@@ -6909,23 +6670,6 @@
  {
   "date": "2017",
   "year": 2017,
-  "type": "talk",
-  "outlet": "www.journalismfestival.com",
-  "title": "lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare",
-  "url": "https://www.journalismfestival.com/programme/2017/lawful-state-hacking-necessary-investigative-upgrade-or-privacy-nightmare",
-  "language": "en",
-  "role": "subject",
-  "note": "Source/document of the Trojans and Rule of Law project (linked from trojansandruleoflaw.org); archived as project documentation, name not necessarily in the file",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass3_trojans_sources_2026-09-17"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017",
-  "year": 2017,
   "type": "video",
   "outlet": "www.youtube.com",
   "title": "watch?v=tF_i3X_PcFY",
@@ -7080,23 +6824,6 @@
   "_slices": [
    "slice4_2016_2020",
    "slice6_media_archives"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-01-31",
-  "year": 2017,
-  "type": "quoted",
-  "outlet": "Askanews",
-  "title": "Captatori informatici, proposta di legge di Civici e Innovatori",
-  "url": "http://www.askanews.it/cronaca/2017/01/31/captatori-informatici-proposta-di-legge-di-civici-e-innovatori-pn_20170131_00175/",
-  "language": "it",
-  "role": "subject",
-  "note": "Press coverage of the trojan bill presentation; experts incl. Pietrosanti per search snippet (page redirected, not read)",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
   ],
   "on_old_site": false
  },
@@ -7273,23 +7000,6 @@
   "_slices": [
    "pass2_c_2016_2026",
    "pass4_hermes_site_named_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2017-06-08",
-  "year": 2017,
-  "type": "other",
-  "outlet": "CINI - Laboratorio Nazionale di Cybersecurity",
-  "title": "Il Laboratorio Nazionale di Cybersecurity ... con il CIS Sapienza premia i giovani hacker della Cyberchallenge (2017, first edition)",
-  "url": "https://www.consorzio-cini.it/index.php/it/labcs-home/labcs-news/1191-il-laboratorio-nazionale-di-cybersecurity-presenta-a-roma-la-relazione-annuale-delle-attivita-svolte-e-con-il-cis-sapienza-premia-i-giovani-hacker-della-cyberchallenge",
-  "language": "it",
-  "role": "subject",
-  "note": "2017 (first-edition) ceremony at Sapienza with Baldoni; page does NOT name Pietrosanti - the event he recalls is the 2018 one.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_eprivacy_sapienza_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -7732,23 +7442,6 @@
   "on_old_site": false
  },
  {
-  "date": "2017-10-19",
-  "year": 2017,
-  "type": "report",
-  "outlet": "Hermes Center (hermescenter.org)",
-  "title": "Le richieste FOIA sul Voto Elettronico Lombardia 2017",
-  "url": "https://www.hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/",
-  "language": "it",
-  "role": "author",
-  "note": "Hermes FOIA dossier on Smartmatic voting machines (service agreements with Wincor Nixdorf/BV Tech attached); now 404, archived in Wayback (CDX confirmed) but snapshot not openable during this pass; date approximate",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_evoting_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2017-10-20",
   "year": 2017,
   "type": "quoted",
@@ -7968,23 +7661,6 @@
   "on_old_site": false
  },
  {
-  "date": "2017-12-28",
-  "year": 2017,
-  "type": "talk",
-  "outlet": "34C3 Chaos Communication Congress, Leipzig (Rights & Freedoms stage, CCL Hall 3)",
-  "title": "Hermes Center sessions on the Rights & Freedoms stage: 'Take e-voting away from Europe', 'Digital Anonimity for Whistleblowing', 'Are NAT translations respecting proportionality and data retention principles?', 'How to use public procurement datasets to monitor government surveillance capabilities'",
-  "url": "https://events.ccc.de/congress/2017/wiki/index.php/Session:Rights%26Freedoms",
-  "language": "en",
-  "role": "subject",
-  "note": "Four Hermes Center slots 28-30 Dec 2017; speakers not named on the page - his personal involvement NOT confirmed (NAT/data-retention topic matches Hermes 2017 campaigns)",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_ccc_camps_congresses_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2018",
   "year": 2018,
   "type": "project",
@@ -8070,23 +7746,6 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2018-01-01",
-  "year": 2018,
-  "type": "mentioned",
-  "outlet": "JEI - Jus e Internet",
-  "title": "Voto elettronico: rilievi giuridici e tecnici. Teorizzazione di un modello sperimentale di votazione mediante uso della tecnologia Blockchain",
-  "url": "https://www.jei.it/approfondimenti-giuridici/490-voto-elettronico-rilievi-giuridici-e-tecnici-teorizzazione-di-un-modello-sperimentale-di-votazione-mediante-uso-della-tecnologia-blockchain",
-  "language": "it",
-  "role": "subject",
-  "note": "Legal paper endorsing the 'security by obscurity' critique of Smartmatic by 'il presidente della Hermes Center' and describing Hermes FOIA requests; names him only by role; date not shown on page (approx. 2018)",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_evoting_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -8553,23 +8212,6 @@
   "on_old_site": false
  },
  {
-  "date": "2018-04-18",
-  "year": 2018,
-  "type": "other",
-  "outlet": "EDRi (European Digital Rights)",
-  "title": "Hermes Center demands investigation of NAT-related data retention",
-  "url": "https://edri.org/hermes-center-demands-investigation-of-nat-related-data-retention/",
-  "language": "en",
-  "role": "subject",
-  "note": "Hermes Center (which he chairs) complaint to Garante on CGNAT logging; written by Riccardo Coluccini, no name mention",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2018-04-30",
   "year": 2018,
   "type": "book",
@@ -8614,23 +8256,6 @@
   "on_old_site": false
  },
  {
-  "date": "2018-05-02",
-  "year": 2018,
-  "type": "other",
-  "outlet": "EDRi (European Digital Rights)",
-  "title": "Welcoming new EDRi members: FSFE, Hermes Center, NOYB, and Xnet",
-  "url": "https://edri.org/welcoming-new-edri-members-fsfe-hermes-center-noyb-and-xnet/",
-  "language": "en",
-  "role": "subject",
-  "note": "Hermes Center becomes full EDRi member; organisation-level, no name mention",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2018-05-18",
   "year": 2018,
   "type": "quoted",
@@ -8647,23 +8272,6 @@
   ],
   "live_url": "https://copernicani.it/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/",
   "note_search": "Found by copernicani.it/?s=pietrosanti (2026-09-18)",
-  "on_old_site": false
- },
- {
-  "date": "2018-05-26",
-  "year": 2018,
-  "type": "press_release",
-  "outlet": "Copernicani",
-  "title": "Hermes Center sostiene l'Appello per il Ministro per il digitale!",
-  "url": "https://copernicani.it/blog/2018/05/26/hermes-center-sostiene-lappello-per-il-ministro-per-il-digitale/",
-  "language": "it",
-  "role": "subject",
-  "note": "Hermes Center (his association) endorses the Copernicani appeal; his name not on the captured page (Wayback 20210120 of www. variant)",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_copernicani_2026-09-18"
-  ],
   "on_old_site": false
  },
  {
@@ -8840,23 +8448,6 @@
   "on_old_site": false
  },
  {
-  "date": "2018-06-29",
-  "year": 2018,
-  "type": "mentioned",
-  "outlet": "StartupItalia",
-  "title": "Cyberchallenge 2018: la gara finale e la premiazione",
-  "url": "https://startupitalia.eu/61355-20180629-cyberchallenge-2018-la-finale",
-  "language": "it",
-  "role": "subject",
-  "note": "Fetched: does not name Pietrosanti.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_eprivacy_sapienza_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2018-07-10",
   "year": 2018,
   "type": "mentioned",
@@ -8870,23 +8461,6 @@
   "known": false,
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2018-07-25",
-  "year": 2018,
-  "type": "other",
-  "outlet": "EDRi (European Digital Rights)",
-  "title": "Member in the Spotlight: Hermes Center",
-  "url": "https://edri.org/our-work/member-in-the-spotlight-hermes-center/",
-  "language": "en",
-  "role": "subject",
-  "note": "Hermes Center guest profile (his organisation); no name mention",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
   ],
   "on_old_site": false
  },
@@ -8977,40 +8551,6 @@
   "on_old_site": false
  },
  {
-  "date": "2018-09-12",
-  "year": 2018,
-  "type": "other",
-  "outlet": "EDRi (European Digital Rights)",
-  "title": "Big Brother Awards 2018 Italy",
-  "url": "https://edri.org/big-brother-awards-2018-italy/",
-  "language": "en",
-  "role": "subject",
-  "note": "Hermes Center report on BBA Italia 2018 which he co-presented; no name mention",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2018-09-27",
-  "year": 2018,
-  "type": "articolo",
-  "outlet": "CRVD (copia preservata, da ItaliaChiamaItalia)",
-  "title": "Fusacchia (+Europa) a ItaliaChiamaItalia: «Insisto, per gli italiani all'estero ci vuole il voto elettronico»",
-  "url": "https://hermescenter.github.io/crvd.org-preservation/fusacchia-europa-a-italiachiamaitalia-insisto-per-gli-italiani-allestero-ci-vuole-il-voto-elettronico/",
-  "language": "it",
-  "role": "contesto",
-  "note": "Rassegna CRVD sulla proposta di voto elettronico per gli italiani all'estero (tag 'italiani all'estero'). Il nome di Pietrosanti NON compare.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2018-09-29",
   "year": 2018,
   "type": "mentioned",
@@ -9040,23 +8580,6 @@
   "language": "it",
   "role": "quoted",
   "note": "WhistleblowingPA launch; Pietrosanti (Centro Hermes) explains GlobaLeaks basis (search snippet; page now 404)",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2018-10-01",
-  "year": 2018,
-  "type": "project",
-  "outlet": "GlobaLeaks blog",
-  "title": "Nasce WhistleblowingPA",
-  "url": "https://globaleaks.org/it/2018/10/01/nasce-whistleblowing-pa/",
-  "language": "it",
-  "role": "subject",
-  "note": "Launch of free whistleblowing platform for Italian PAs (Transparency International Italia + Hermes/Whistleblowing Solutions)",
   "verified": false,
   "known": false,
   "_slices": [
@@ -9149,23 +8672,6 @@
   ],
   "mirrors": [
    "https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/181102-2024.mp3"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2018-11-30",
-  "year": 2018,
-  "type": "talk",
-  "outlet": "e-privacy XXIV (2018 autumn), Roma - Progetto Winston Smith",
-  "title": "Presentazione Big Brother Awards Italia 2019 (with video)",
-  "url": "https://e-privacy.winstonsmith.org/e-privacy-XXIV.html",
-  "language": "it",
-  "role": "speaker",
-  "note": "Programme row: '14:10 0:05 Winston Smith - Presentazione BBA 2019' (does not name him). Radio Radicale scheda 558921 shows 'Fabio Pietrosanti ... 14:24 (2 min 17 s)', 'Proiezione di un video 14:27', 'Fabio Pietrosanti 14:28 (1 min 45 s)' in that slot, so he presented the BBA 2019 launch.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_eprivacy_sapienza_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -9276,23 +8782,6 @@
   "known": false,
   "_slices": [
    "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2019-01-21",
-  "year": 2019,
-  "type": "other",
-  "outlet": "SecurityWeek",
-  "title": "VLC Responds to Criticism Over Lack of HTTPS for Updates",
-  "url": "https://www.securityweek.com/vlc-responds-criticism-over-lack-https-updates/",
-  "language": "en",
-  "role": "subject",
-  "note": "Context only: Jan-2019 HTTP-updates controversy (Kempf reply); Fabio NOT named; he opened #21805 the next day",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -9524,40 +9013,6 @@
   "on_old_site": false
  },
  {
-  "date": "2019-06-07",
-  "year": 2019,
-  "type": "talk",
-  "outlet": "e-privacy XXV (2019 summer), Torino, Cittadella Politecnica - Progetto Winston Smith",
-  "title": "Big Brother Award (slot by Hermes Center)",
-  "url": "https://e-privacy.winstonsmith.org/e-privacy-XXV.html",
-  "language": "it",
-  "role": "subject",
-  "note": "Programme (live and Wayback 2019-04-13): '12:20 0:30 Hermes Center for Transparency and Digital Human Rights - Big Brother Award' - no person named; no video file for this slot, no Radio Radicale entry for him. Presenter unknown.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_eprivacy_sapienza_2026-09-18"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2019-08-08",
-  "year": 2019,
-  "type": "articolo",
-  "outlet": "CRVD (copia preservata)",
-  "title": "È ora che l'Italia conosca gli italiani all'estero",
-  "url": "https://hermescenter.github.io/crvd.org-preservation/e-ora-che-litalia-conosca-gli-italiani-allestero/",
-  "language": "it",
-  "role": "contesto",
-  "note": "Rassegna stampa CRVD (ripresa AISE) sull'audizione Vignali al Senato (quasi 6 milioni di iscritti consolari, Fast It): contesto sui dati AIRE. Il nome di Pietrosanti NON compare.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2019-09-03",
   "year": 2019,
   "type": "mentioned",
@@ -9665,23 +9120,6 @@
   "on_old_site": false
  },
  {
-  "date": "2019-11-12",
-  "year": 2019,
-  "type": "pagina",
-  "outlet": "GitHub",
-  "title": "OSPCI - Osservatorio Sicurezza del Perimetro Cibernetico Italiano (organizzazione GitHub)",
-  "url": "https://github.com/osservatoriosicurezza",
-  "language": "it",
-  "role": "progetto",
-  "note": "Org creata 2019-11-12, 1 solo repo pubblico; descrizione rimanda al Google Doc, campo blog al gruppo Telegram. Membri non pubblici. Solo progetto, nome assente nella pagina org (i commit nel repo sono di fpietrosanti).",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_ossci_2026-09-24"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2019-11-13",
   "year": 2019,
   "type": "repository",
@@ -9783,23 +9221,6 @@
   "known": false,
   "_slices": [
    "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2019-11-27",
-  "year": 2019,
-  "type": "event",
-  "outlet": "Fraktion DIE LINKE im Bundestag",
-  "title": "Öffentliche Anhörung «Medien unter Beschuss – Feldzug gegen WikiLeaks und investigativen Journalismus» (Bundestag, Marie-Elisabeth-Lüders-Haus) – attended",
-  "url": "https://www.dielinkebt.de/themen/nachrichten/detail/neuer-krieg-gegen-den-journalismus",
-  "language": "de",
-  "role": "attendee",
-  "note": "Identifies the event behind his tweet of 27/11/2019 21:53 PST (=28/11 06:53 CET) «Yesterday in a commitee room at Bundestag» (twitter.com/fpietrosanti/status/1199929402521509888, already in media.json; Wayback 20191128055753). The two attached photos (pbs.twimg.com/media/EKcBbZMWwAE-byg.jpg, EKcBbZNWkAEsmJh.jpg, recovered from Wayback) show a Bundestag hearing room with DIE LINKE banners «Medien unter Beschuss», a «FREIHEIT JULIAN ASSANGE» banner and Daniel Ellsberg on video link: this is the Linke-Fraktion public hearing of 27/11/2019 on WikiLeaks/Assange (speakers: Amira Mohamed Ali, Sevim Dağdelen, John Shipton, Nils Melzer, Renata Ávila, Kristinn Hrafnsson, Christian Mihr/RSF, Cornelia Berger/dju, John Goetz, Michael Sontheimer, Heike Hänsel, Doris Achelwilm; video Ellsberg, message Snowden; ~240 visitors). Same day Davide Dormino's «Anything to Say?» sculpture at Brandenburger Tor. Photos are taken from the public gallery: he was in the audience, NOT a speaker. His name is not on the Linke page nor on the a-fsa.de report (https://www.a-fsa.de/d/36u). Full recording https://www.youtube.com/watch?v=1-ig55rbaSY is now private. Suggest: enrich the known tweet's note/title with the event name rather than adding a separate entry.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_bundestag_pirati_radio24_2026-10-01"
   ],
   "on_old_site": false
  },
@@ -11068,23 +10489,6 @@
  {
   "date": "2020-03-29",
   "year": 2020,
-  "type": "social",
-  "outlet": "Twitter (@mobilesecurity_)",
-  "title": "LAZIOdrCOVID: a 30 minutes audit to blow up the castle #MobileSecurity #AndroidSecurity by @iGio90",
-  "url": "https://twitter.com/mobilesecurity_/status/1244251199173472258",
-  "language": "en",
-  "role": "citato",
-  "note": "Rilancio del post di Rocca da un account di settore; titolo visto solo nei risultati di ricerca, pagina non aperta. Nome assente nel testo del tweet.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_covid_app_lazio_2026-09-24"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-03-29",
-  "year": 2020,
   "type": "tweet",
   "outlet": "Twitter",
   "title": "Analisi tecnica: SIM Application Toolkit per Bluetooth discovery (COVID)",
@@ -11115,40 +10519,6 @@
    "pass4_tweets_2020_residui_2026-09-29"
   ],
   "note_fabio": "Risposta di Fabio 2026-10-05: il blog «Eclecticism Now!» è suo (lo ha usato per un periodo); si può scrivere e riportare come suo.",
-  "on_old_site": false
- },
- {
-  "date": "2020-04-01",
-  "year": 2020,
-  "type": "documento",
-  "outlet": "giovanni-rocca.com",
-  "title": "A self basic audit for Android applications",
-  "url": "http://www.giovanni-rocca.com/a-self-basic-audit-for-android-applications/",
-  "language": "en",
-  "role": "citato",
-  "note": "Post di follow-up di Rocca (01/04/2020, categoria Audit): chiamata ai ricercatori per auditare le app governative COVID-19, su invito di fs0c131y. Letto via Wayback 20200426173442. Nome assente (nessuna menzione di Pietrosanti/naif); contesto del lavoro avviato con LAZIOdrCOVID.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_covid_app_lazio_2026-09-24"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-04-04",
-  "year": 2020,
-  "type": "articolo",
-  "outlet": "gioxx.org (blog di Gioxx)",
-  "title": "Letture per il weekend: di Privacy violata, #INPSDown e #Zoom sotto la lente di ingrandimento",
-  "url": "https://gioxx.org/2020/04/04/letture-per-il-weekend-di-privacy-violata-inpsdown-e-zoom-sotto-la-lente-di-ingrandimento/",
-  "language": "it",
-  "role": "citato",
-  "note": "Rassegna settimanale che segnala l'audit di Giovanni Rocca su LAZIOdrCovid ('poi corretta in seguito'). Pagina aperta: nome assente.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_covid_app_lazio_2026-09-24"
-  ],
   "on_old_site": false
  },
  {
@@ -11864,40 +11234,6 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-07-25",
-  "year": 2020,
-  "type": "repository",
-  "outlet": "GitLab (fnzv)",
-  "title": "fnzv / ossci-dataset",
-  "url": "https://gitlab.com/fnzv/ossci",
-  "language": "en",
-  "role": "progetto",
-  "note": "Repo PoC collegato a OSSCI (creato 2020-07-25, ultima attività 2020-09-12): liste giornaliere IPv4 italiane da RIPE in CSV/JSON/RAW. Solo progetto, nome assente.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_ossci_2026-09-24"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-07-28",
-  "year": 2020,
-  "type": "documento",
-  "outlet": "GitHub (osservatoriosicurezza)",
-  "title": "Issue #3 - Dataset generation PoC and next steps (?)",
-  "url": "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/issues/3",
-  "language": "en",
-  "role": "progetto",
-  "note": "Aperta da fnzv: PoC di generazione automatica di liste IPv4 italiane da API RIPE via GitLab CI. Nessun commento. Solo progetto, nome assente.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_ossci_2026-09-24"
   ],
   "on_old_site": false
  },
@@ -12621,23 +11957,6 @@
   "on_old_site": false
  },
  {
-  "date": "2020-10-09",
-  "year": 2020,
-  "type": "project website (Wayback)",
-  "outlet": "openrousseau.org",
-  "title": "Decidiamo! ma con tecnologia libera e open source (OpenRousseau)",
-  "url": "https://web.archive.org/web/20201009025401/https://openrousseau.org/",
-  "language": "it",
-  "role": "project",
-  "note": "Sito ufficiale del progetto: il dominio era openrousseau.org (non openrousseau.it, nessuna cattura). Nella cattura del 9/10/2020 il suo nome NON compare (cita Jaromil/Dyne.org, Decidim, Camelot Flutter, t.me/openrousseau, @OpenRousseau); elencato come fonte primaria del progetto, il suo ruolo è provato dai repository GitHub.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_openrousseau_m5s_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2020-10-15",
   "year": 2020,
   "type": "tweet",
@@ -12775,40 +12094,6 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-10-26",
-  "year": 2020,
-  "type": "mentioned",
-  "outlet": "Interoperable Europe Portal (European Commission)",
-  "title": "EUPL for Italian software",
-  "url": "https://interoperable-europe.ec.europa.eu/collection/eupl/news/eupl-italian-software",
-  "language": "en",
-  "role": "subject",
-  "note": "2026-09-23: letto per intero: l'articolo racconta la vicenda della licenza AGPL fra ANAC e Hermes Center ma NON contiene il nome di Fabio (cita solo Marco Bondello). Da decidere con Fabio se tenerlo come contesto del progetto o escluderlo.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice4_2016_2020"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2020-10-27",
-  "year": 2020,
-  "type": "document (PDF)",
-  "outlet": "Comunità DECIDIAMO",
-  "title": "Dieci principi per OpenRousseau. E quattro domande salienti per il MoVimento",
-  "url": "https://web.archive.org/web/20250712151408/https://decidiamo.org/Principi_per_OpenRousseau.pdf",
-  "language": "it",
-  "role": "project",
-  "note": "È l'appello pubblicato integralmente da Domani il 27/10/2020 (articolo già noto). Nel PDF (9 pp.) il suo nome non compare: solo contesto.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_openrousseau_m5s_2026-09-25"
   ],
   "on_old_site": false
  },
@@ -13766,23 +13051,6 @@
   "on_old_site": false
  },
  {
-  "date": "2021-03-13",
-  "year": 2021,
-  "type": "documento",
-  "outlet": "GitHub (g0v-it/Geo-AIRE)",
-  "title": "Analisi Geospaziale dati AIRE 2015 per Seggi (dataset)",
-  "url": "https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.ods",
-  "language": "it",
-  "role": "autore",
-  "note": "Foglio di calcolo con i risultati dell'analisi per cluster/città. Nessun nome nel file; attribuzione dal README del repository.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2021-03-15",
   "year": 2021,
   "type": "article_by",
@@ -14069,23 +13337,6 @@
   "on_old_site": false
  },
  {
-  "date": "2021-04-07",
-  "year": 2021,
-  "type": "articolo",
-  "outlet": "Il Fatto Quotidiano (blog Umberto Rapetto)",
-  "title": "Facebook, la storia dei 533 milioni di account rubati equivale a un disastro ecologico dell'era moderna",
-  "url": "https://www.ilfattoquotidiano.it/2021/04/07/facebook-la-storia-dei-533-milioni-di-account-rubati-equivale-a-un-disastro-ecologico-dellera-moderna/6157493/",
-  "language": "it",
-  "role": "citato",
-  "note": "Rapetto presenta Giovanni Rocca come 'la persona che ha smascherato l'inaffidabilità della app LazioDrCovid'. Pagina aperta: nome assente.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_covid_app_lazio_2026-09-24"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2021-04-18",
   "year": 2021,
   "type": "tweet",
@@ -14287,23 +13538,6 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2021-06-04",
-  "year": 2021,
-  "type": "press_release",
-  "outlet": "Copernicani",
-  "title": "Voto degli italiani fuori sede: la posizione dei copernicani.",
-  "url": "https://www.copernicani.it/voto-degli-italiani-fuori-sede-la-posizione-dei-copernicani/",
-  "language": "it",
-  "role": "subject",
-  "note": "Copernicani position cites the AIRE geo-spatial study (43 cities, 84.35%) he co-authored and links his Agenda Digitale piece; his name not in the text",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_copernicani_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -14543,23 +13777,6 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2021-08-03",
-  "year": 2021,
-  "type": "articolo",
-  "outlet": "il Giornale",
-  "title": "\"Tutta Italia è vulnerabile, servono investimenti\"",
-  "url": "https://www.ilgiornale.it/news/politica/tutta-italia-vulnerabile-servono-investimenti-1966600.html",
-  "language": "it",
-  "role": "citato",
-  "note": "Intervista (Luca Fazzo) sull'attacco ransomware alla Regione Lazio dell'agosto 2021; l'intervistato ricorda che a marzo 2020 'un ricercatore italiano' aveva messo a nudo gravi vulnerabilità nel backend di LAZIOdrCOVID. Pagina aperta: nome assente (né Rocca né Pietrosanti).",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_covid_app_lazio_2026-09-24"
   ],
   "on_old_site": false
  },
@@ -15147,23 +14364,6 @@
   "on_old_site": false
  },
  {
-  "date": "2022-04-04",
-  "year": 2022,
-  "type": "documento",
-  "outlet": "Copernicani",
-  "title": "Voto elettronico: la posizione dei Copernicani alla Conferenza sul Futuro dell'Europa",
-  "url": "https://copernicani.it/voto-elettronico-la-posizione-dei-copernicani-alla-conferenza-sul-futuro-delleuropa/",
-  "language": "it",
-  "role": "contesto",
-  "note": "Posizione ufficiale dei Copernicani: per gli italiani all'estero seggi in 43 città (84,35% in presenza) invece del voto elettronico, cioè i risultati del progetto Geo-AIRE. Il nome di Pietrosanti NON compare.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_aire_voto_estero_2026-09-25"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2022-05-13",
   "year": 2022,
   "type": "video",
@@ -15262,23 +14462,6 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2022-05-26",
-  "year": 2022,
-  "type": "press_release",
-  "outlet": "Copernicani",
-  "title": "Civic hackers per una Pubblica Amministrazione migliore: un sollecito agli enti pubblici per il rispetto delle normative sulla privacy",
-  "url": "https://copernicani.it/civic-hackers-per-una-pubblica-amministrazione-migliore-un-sollecito-agli-enti-pubblici-per-il-rispetto-delle-normative-sulla-privacy/",
-  "language": "it",
-  "role": "subject",
-  "note": "Copernicani joins Hermes in MonitoraPA (Google Analytics in PA), the project he co-founded; his name not on page (Wayback 20220604)",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_copernicani_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -16062,23 +15245,6 @@
   "on_old_site": false
  },
  {
-  "date": null,
-  "year": 2024,
-  "type": "documento",
-  "outlet": "UNESCO, Global AI Ethics and Governance Observatory",
-  "title": "Hermes Center - Global Civil Society Organizations and Academic Network on AI Ethics and Policy",
-  "url": "https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center",
-  "language": "en",
-  "role": "mentioned",
-  "note": "NEAR-MISS, NOT HIM. Hermes Center is listed as a member organisation of UNESCO's civil-society network on AI ethics. Page read in full: the only contact given is the generic board@hermescenter.org; no individual is named, so neither 'Fabio Pietrosanti' nor 'naif' appears. Does not qualify under the naming rule.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_ue_istituzioni_2026-09-23"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2024-04-25",
   "year": 2024,
   "type": "mentioned",
@@ -16089,23 +15255,6 @@
   "role": "subject (quoted from the 2020 interview)",
   "note": "By Brent Crane, brand=businessweek. Verified via Wayback capture 20240425143722 (id_). Text: 'Italian information security specialist Fabio Pietrosanti told the magazine for the 2020 story that the conference was strange: The English talks were translated into Korean with a delay... participants were not allowed to interact with a single North Korean.' The quote is reused from the 2020 Josh Dean interview, so this is not a new interview. Print version is possibly Magzter 'North Korea's biggest fan' (not verified, 403).",
   "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_bloomberg_2026-10-05"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2024-04-25",
-  "year": 2024,
-  "type": "mentioned",
-  "outlet": "Bloomberg Law",
-  "title": "How North Korea’s Man in the West Ran Afoul of US Authorities",
-  "url": "https://news.bloomberglaw.com/crypto/how-north-koreas-man-in-the-west-ran-afoul-of-us-authorities",
-  "language": "en",
-  "role": "subject (quoted)",
-  "note": "Bloomberg Law syndication of the Brent Crane Businessweek piece of 2024-04-25 (same datePublished and byline). The page fetched live 2026-10-05 has a truncated or paywalled body, and the string 'Pietrosanti' is not present, so it is not verified on this copy.",
-  "verified": false,
   "known": false,
   "_slices": [
    "pass4_bloomberg_2026-10-05"
@@ -16297,23 +15446,6 @@
   "on_old_site": false
  },
  {
-  "date": "2025-06-10",
-  "year": 2025,
-  "type": "articolo",
-  "outlet": "European Commission, Interoperable Europe Portal / Open Source Observatory (OSOR)",
-  "title": "GlobaLeaks empowers whistleblowers",
-  "url": "https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/globaleaks-empowers-whistleblowers-0",
-  "language": "en",
-  "role": "mentioned",
-  "note": "NEAR-MISS, NOT HIM. European Commission OSOR feature article on GlobaLeaks (June 2025). Page read in full: it quotes Susanna Ferro (project manager) and Giovanni Pellerano (co-founder) only. Neither 'Fabio Pietrosanti' nor 'naif' appears anywhere in the text, so per the exclusion rule this does not count as a trace of him. Recorded only so a later pass does not re-open it.",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "pass4_ue_istituzioni_2026-09-23"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2025-06-27",
   "year": 2025,
   "type": "tv",
@@ -16463,23 +15595,6 @@
   ],
   "tags": [
    "source-protection"
-  ],
-  "on_old_site": false
- },
- {
-  "date": "2026-06",
-  "year": 2026,
-  "type": "project",
-  "outlet": "mxmap.it",
-  "title": "MxMap.it — Sovranità digitale della posta elettronica della PA italiana",
-  "url": "https://mxmap.it/",
-  "language": "it",
-  "role": "author",
-  "note": "Map of ~23k Italian public entities' email providers via DNS; his name not on the fetched page",
-  "verified": false,
-  "known": false,
-  "_slices": [
-   "slice5_2021_2026"
   ],
   "on_old_site": false
  },
