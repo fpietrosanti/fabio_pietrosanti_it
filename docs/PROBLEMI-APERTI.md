@@ -4,6 +4,25 @@ Aggiornato il **2026-10-02**. Da discutere con Fabio: dove siamo bloccati, perch
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
+## A0-bis. Risposte di Fabio del 2026-10-05 (applicate)
+- **1** dati personali delle scuole: «va bene così» → nessuna richiesta di oscuramento, copie solo nell'archivio privato. Chiuso.
+- **2** libri: fatta la **sezione «Books» del sito + tag `books`** (22 libri, `data/books.json`), sintesi in italiano in `docs/LIBRI.md`.
+- **3** «non ho capito» → rispiegato in chat (vedi sotto, ancora aperto).
+- **4** PDF PrivateWave: non li hai → B1 chiusa come irrecuperabile.
+- **5** Senato: col browser locale ho trovato il video WebTV del 14/05/2020 (14ª Commissione, ddl 1721) e trascritto il
+  tratto di Hermes (2:16–2:34): **parlò Vincenzo Tiani** da Bruxelles, non tu → A0.8(d) e A0.9(b) chiuse
+  (`fabio_pietrosanti_it-copies/leads/senato_2020-05-14/`).
+- **6** «tutto pubblico»: schede progetto COVID con il Google Doc, i nomi dei giuristi e l'audit LAZIOdrCOVID; OSSCI era già
+  nel sito, link Telegram compreso. **6(d)**: nemmeno Costabile ha il video CyberCoach → chiuso.
+- **10(a)** «Eclecticism Now!» è tuo → i post sono verificati come tuoi. **10(b)** Chrome: l'estensione risulta collegata ma
+  si disconnette appena navigo (05/10, come il 02/10) → Douyin/Weibo/WeChat ancora fermi. **10(c)** WeChat desktop: non
+  posso controllare app desktop (solo i browser); TimePie avviserà quando la registrazione è online. **10(d)** ok.
+- **12(a)** candidatura al Garante confermata, «con intento provocatorio e un po' troll» (nota sulle voci CorCom e Camera).
+  **12(b)** «sì, sono io»: cena TimePie (Bilibili ×2, NetEase) e foto 05 del forum → verificate. **12(c)** Bundestag: non
+  relatore. **12(d)** «Bloomberg»: l'unica intervista resta il pezzo di Josh Dean (2020, titolo cartaceo «The Road to
+  Pyongyang Starts in Spain»); nuove: **Businessweek 25/04/2024** (Brent Crane, riprende la tua citazione) e la
+  **ristampa SCMP 16/05/2020**.
+
 ## A0. Cose che servono da te (aggiornato 2026-09-30)
 
 1. **⚠️ Dati personali pubblicati da una scuola.** L'Istituto Comprensivo «Luciano Manara» di Roma ha pubblicato il PDF
