@@ -7351,6 +7351,23 @@
   "on_old_site": false
  },
  {
+  "date": "2017-09-21",
+  "year": 2017,
+  "type": "institutional letter (official reply)",
+  "outlet": "ANAC - Autorità Nazionale Anticorruzione (lettera del Presidente Raffaele Cantone)",
+  "title": "Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes in merito all'adozione di tecnologie di supporto alla gestione delle segnalazioni di condotte illecite (Whistleblowing)",
+  "url": "https://www.anticorruzione.it/documents/91439/123100/Risposta_appello_Centro_Hermes_new.pdf/76d050ce-9e12-c2f6-f369-2e3abadcc159?t=1585641081807",
+  "language": "it",
+  "role": "destinatario (presidente del Centro Hermes)",
+  "note": "PDF ufficiale ANAC (3 pp.), aperto e letto il 2026-10-05; linkato dalla pagina https://www.anticorruzione.it/en/-/whistleblowing-1-1 («Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes»). Intestazione: «Al Presidente del Centro Hermes Ing. Fabio Pietrosanti»; apertura «Gentile Ing. Pietrosanti»; oggetto «Appello del Centro Hermes all'Autorità Nazionale Anticorruzione (ANAC) per la tecnologia di whistleblowing open-source». Risponde all'appello del 24 luglio 2017, ricostruisce la collaborazione ANAC-Hermes (consultazione 2015, riunione 25/06/2015, memorandum 22/07/2015, prototipo Open Whistleblowing, gara vinta da LA.SER ROMAE) e rileva che alla gara partecipò «Whistleblowing Solution di cui Lei è un autorevole componente». Firmata Raffaele Cantone. Non presente in media.json (URL e titolo cercati).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_istituzioni_residui2_2026-10-05"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2017-10",
   "year": 2017,
   "type": "mentioned",
@@ -9406,7 +9423,8 @@
    "pass4_pyongyang_intl_2026-10-02"
   ],
   "mirrors": [
-   "https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497"
+   "https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497",
+   "https://finance.yahoo.com/news/sanctions-weren-t-discussed-north-090000803.html"
   ],
   "on_old_site": false
  },
@@ -9444,6 +9462,72 @@
   "known": false,
   "_slices": [
    "pass4_pyongyang_it_asia_2026-10-02"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "The Next Web (Hard Fork)",
+  "title": "Ethereum dev to be released pending trial amid claims charges against him are exaggerated",
+  "url": "https://thenextweb.com/news/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency",
+  "language": "en",
+  "role": "quoted",
+  "note": "Trovato tramite GDELT (finestra 28/11/2019-15/01/2020; URL originale thenextweb.com/hardfork/2019/12/03/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency/, ora redirect al percorso /news/). Pagina aperta il 05/10/2026 (datePublished 2019-12-03T10:34:20Z): riprende l'intervista CoinDesk, «\"The sanctions were not a topic at all,\" Fabio Pietrosanti, who claims to have known Griffith for almost ten years, told CoinDesk»; aggiunge che parlando a CoinDesk voleva sostenere il rilascio di Griffith. 4 occorrenze del nome.",
+  "verified": true,
+  "known": false,
+  "mirrors": [
+   "https://thenextweb.com/hardfork/2019/12/03/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency/"
+  ],
+  "_slices": [
+   "pass4_pyongyang_media_residui_2026-10-05"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "CoinDesk Italiano",
+  "title": "Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un partecipante",
+  "url": "https://www.coindesk.com/it/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says",
+  "language": "it",
+  "role": "interviewed",
+  "note": "Versione italiana (traduzione automatica di CoinDesk, canonical propria, datePublished 2019-12-03, dateModified 2022-12-10) dell'intervista già in archivio. Pagina aperta il 05/10/2026: «Ma Fabio Pietrosanti sostiene che le forze dell'ordine hanno una concezione esagerata...», «\"Le sanzioni non sono state affatto un argomento di discussione\", ha affermato Pietrosanti». È l'unica copertura in lingua italiana trovata sul tema. Il titolo nella pagina contiene un refuso della traduzione automatica («Le sanzioni T sono state discusse»). Versioni nelle altre lingue verificate (nome presente): es, fr, ru («Фабио Пьетросанти», 14 occorrenze), uk («П'єтросанті», 9); de/id/ko/nl/tr/zh/ja rimandano alla versione inglese.",
+  "verified": true,
+  "known": false,
+  "mirrors": [
+   "https://www.coindesk.com/es/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says",
+   "https://www.coindesk.com/fr/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says",
+   "https://www.coindesk.com/ru/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says",
+   "https://www.coindesk.com/uk/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says"
+  ],
+  "_slices": [
+   "pass4_pyongyang_media_residui_2026-10-05"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-03",
+  "year": 2019,
+  "type": "article",
+  "outlet": "CoinDesk Italiano",
+  "title": "Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arrestato Virgil Griffith",
+  "url": "https://www.coindesk.com/it/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Versione italiana (traduzione automatica CoinDesk, datePublished 2019-12-03T20:15:11Z) di «Freedom Fighter or Fool?», già in archivio in inglese. Pagina aperta il 05/10/2026: «un altro partecipante, Fabio Pietrosanti, ha affermato questa settimana che la conferenza non ha toccato il tema dell'evasione delle sanzioni». Nome presente anche nelle versioni es, fr (2 occorrenze), ru (2) e uk (1).",
+  "verified": true,
+  "known": false,
+  "mirrors": [
+   "https://www.coindesk.com/es/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith",
+   "https://www.coindesk.com/fr/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith",
+   "https://www.coindesk.com/ru/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith",
+   "https://www.coindesk.com/uk/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith"
+  ],
+  "_slices": [
+   "pass4_pyongyang_media_residui_2026-10-05"
   ],
   "on_old_site": false
  },
@@ -9620,6 +9704,74 @@
   ],
   "tags": [
    "own-investigations"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-25",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter/X @fpietrosanti",
+  "title": "Risposta a Vitalik Buterin: «Getting @virgilgr out of jail»",
+  "url": "https://twitter.com/fpietrosanti/status/1209976431243124737",
+  "language": "en",
+  "role": "author",
+  "note": "Testo integrale: \"@VitalikButerin Getting @virgilgr out of jail\". Risposta a @VitalikButerin la sera di Natale 2019 (Griffith in carcere dopo l'arresto del 28/11/2019; il tweet di Buterin a cui risponde non è restituito dall'endpoint). Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20191225232137 nel CDX.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_residui_2026-10-05"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-27",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter/X @fpietrosanti",
+  "title": "A @Juki_ sul talk DPRK al 36C3: «I’ve been there in April for blockchain conference…»",
+  "url": "https://twitter.com/fpietrosanti/status/1210520055831760896",
+  "language": "en",
+  "role": "author",
+  "note": "Testo integrale: \"@Juki_ hey are you doing the #36c3 talk on DPRK? I’ve been there in April for blockchain conference and happy to have a chat about that!\". Al 36C3 (Lipsia) si offre di parlare della conferenza blockchain di Pyongyang dell'aprile 2019. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20191227114808.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_residui_2026-10-05"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-27",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter/X @fpietrosanti",
+  "title": "«North Korea Technologies at IO at #36c3 (hall 2)»",
+  "url": "https://twitter.com/fpietrosanti/status/1210586147631587334",
+  "language": "en",
+  "role": "author",
+  "note": "Testo integrale: \"North Korea Technologies at IO at #36c3 (hall 2) https://t.co/EHaS4B5eVY\" (con foto). Segue in sala il talk sulle tecnologie nordcoreane al 36C3, lo stesso giorno in cui scrive a @Juki_ della sua visita di aprile. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20200107002355.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_residui_2026-10-05"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-12-30",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter/X @fpietrosanti",
+  "title": "A Kenneth Geers: «What’s the north Korea relationship?»",
+  "url": "https://twitter.com/fpietrosanti/status/1211755248534077441",
+  "language": "en",
+  "role": "author",
+  "note": "Testo integrale: \"@KennethGeers What’s the north Korea relationship?\". Risposta a @KennethGeers (ricercatore cyber); il tweet di partenza non è restituito dall'endpoint, quindi il contesto resta ignoto: rilevanza marginale (Corea del Nord), non direttamente Griffith. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20200108113928.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_residui_2026-10-05"
   ],
   "on_old_site": false
  },
@@ -9835,6 +9987,23 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-01-09",
+  "year": 2020,
+  "type": "tweet",
+  "outlet": "Twitter/X @fpietrosanti",
+  "title": "Condivide «Axes of Evil» di Josh Dean (DMZ coreana, 1976)",
+  "url": "https://twitter.com/fpietrosanti/status/1215391660739350536",
+  "language": "en",
+  "role": "author",
+  "note": "Testo integrale: \"Axes of Evil: / Four days, two murders, and one poplar tree that almost ignited World War III. / Josh Dean / https://t.co/g1mTR0St8u\" → magazine.atavist.com/axes-of-evil-north-korea-dmz-tree-murders. Link a un longread sulla Corea del Nord (incidente dell'ascia nella DMZ, 1976); rilevanza marginale. Nota: Josh Dean è lo stesso autore del pezzo Bloomberg Businessweek del 2020 su Cao de Benós che cita Fabio. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20200112070927.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_residui_2026-10-05"
   ],
   "on_old_site": false
  },
@@ -13964,6 +14133,40 @@
   "known": false,
   "_slices": [
    "pass4_pyongyang_tweets_asia_2026-10-04"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-10-04",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter/X @fpietrosanti",
+  "title": "«North Korea informant reward program» (tweet poi cancellato)",
+  "url": "https://twitter.com/fpietrosanti/status/1445016576684699657",
+  "language": "en",
+  "role": "author",
+  "note": "Testo integrale: \"North Korea informant reward program https://dprkrewards.com/\" (ora del tweet 6:22 AM PT, 4 Oct 2021). Una settimana dopo il patteggiamento di Griffith (27/09/2021) segnala il programma USA di ricompense per informazioni sull'evasione delle sanzioni nordcoreane. Tweet cancellato: la syndication restituisce TweetTombstone; testo letto dalla capture Wayback https://web.archive.org/web/20211004132312id_/https://twitter.com/fpietrosanti/status/1445016576684699657 (HTML 200, data-screen-name fpietrosanti, titolo «Fabio Pietrosanti on Twitter»), scaricata il 2026-10-05 dal server con User-Agent da browser.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_residui_2026-10-05"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-10-15",
+  "year": 2021,
+  "type": "tweet",
+  "outlet": "Twitter/X @fpietrosanti",
+  "title": "A Ethan Lou: «Anything recently new interesting?»",
+  "url": "https://twitter.com/fpietrosanti/status/1449136122928447491",
+  "language": "en",
+  "role": "author",
+  "note": "Testo integrale: \"@Ethan_Lou Anything recently new interesting?\". Scrive a Ethan Lou (giornalista compagno di viaggio a Pyongyang, autore del pezzo The Walrus e del libro) due settimane dopo il patteggiamento; contatto di contesto, contenuto minimo. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20211015221237.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_pyongyang_tweets_residui_2026-10-05"
   ],
   "on_old_site": false
  },

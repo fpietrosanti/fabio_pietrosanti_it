@@ -257,7 +257,7 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
 - [x] **infosecurity.ch — fatto il 2026-09-29**: confrontato il sito ripristinato (`infosecurity-ch/site`, 76 post
   2007-2017) con `media.json`: mancava solo «Low Liability - Reduced Abuses Tor Exit Nodes» (10/06/2017), ora aggiunto;
   il post del 17/09/2026 sul ripristino non è una pubblicazione esterna.
-- [ ] **Pyongyang 2019 / caso Virgil Griffith** (lacuna aperta il 2026-10-02: in archivio c'erano solo Bloomberg, The
+- [x] **Pyongyang 2019 / caso Virgil Griffith — chiuso il 2026-10-05** (lacuna aperta il 2026-10-02: in archivio c'erano solo Bloomberg, The
   Walrus, Medium e il libro di Lou). **Passata 2026-10-02 (`pass4_pyongyang_intl`, `pass4_pyongyang_it_asia`) → +13 voci
   verificate:** CoinDesk 03/12/2019 **intervista** («The sanctions were not a topic at all», «a boring two days») e
   «Freedom Fighter or Fool?» (+ ripresa Yahoo Finance), MIT Technology Review 05/12/2019, AMBCrypto EN/ES (tweet),
@@ -286,6 +286,38 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   29/11/2019 e WaPo 27/09/2021 (paywall); ~90 tweet archiviati 19/12/2019–10/01/2020 e ~35 di set/ott 2021 non letti; 6
   tweet cancellati nelle finestre (capture esistenti, rileggere dal server); podcast NK News ep. 301; eventuale 2600 di
   set/ott 2021. **Proposta:** dopo la lettura dei tweet residui, chiudere la voce.
+  **Passata 2026-10-05 (`pass4_pyongyang_tweets_residui`, `pass4_pyongyang_media_residui`) → +10 voci, voce CHIUSA.**
+  **Tweet:** letti tutti i 91 status archiviati 19/12/2019–10/01/2020 e gli altri 91 di 15/09–15/10/2021 (+20 capture
+  Wayback dei cancellati, scaricate dal server in serie): 7 rilevanti — «Getting @virgilgr out of jail» (a Buterin,
+  25/12/2019), al 36C3 sul talk DPRK («I've been there in April for blockchain conference», 27/12/2019), «North Korea
+  Technologies at IO at #36c3», a Kenneth Geers, «Axes of Evil» di Josh Dean, «North Korea informant reward program»
+  (04/10/2021, cancellato, testo dal Wayback), a Ethan Lou (15/10/2021). **Media:** The Next Web 03/12/2019 (cita
+  l'intervista CoinDesk), **CoinDesk Italiano** ×2 (traduzioni 2022 dell'intervista e di «Freedom Fighter or Fool?»,
+  uniche pagine in italiano sul tema; versioni es/fr/ru/uk come riprese), Yahoo Finance (ripresa, accorpata).
+  **Negativi** (`leads_negatives_pyongyang_{tweets,media}_2026-10-05.json`, 31+ controlli): NK News ep. 301 trascritto
+  (solo Cao de Benós ed Emms), 2600 Off The Hook 29/09/2021, 13/04/2022, 04/05/2022 trascritti (mai nominato), GDELT su
+  4 finestre, Blockworks, The Block, YouTube (sottotitoli VICE e CoinDesk). Fabio il 05/10 ha ricordato solo Bloomberg
+  (già gestito). **Residui non aggirabili:** BeInCrypto/CCN (Cloudflare), NK Pro/Bloomberg 2019/WaPo 2021 (paywall),
+  tweet mai archiviati.
+- [ ] **Nuove piste emerse il 2026-10-05:** (a) **appello del Centro Hermes ad ANAC del 24/07/2017** sulla gara
+  per il whistleblowing e relativa copertura stampa (la risposta di Cantone del 21/09/2017 è indirizzata «Al Presidente
+  del Centro Hermes Ing. Fabio Pietrosanti», ora in archivio); (b) **«Slide Foggia»** — tweet cancellato del 05/12/2019:
+  probabile talk a Foggia a dicembre 2019 da identificare; (c) audizioni FOIA (Affari costituzionali riunite, 07/04/2016)
+  e CAD (18/07/2016): elenchi generici «enti e associazioni», probabilità bassa; relazione PEGA A9-0189/2023 da leggere.
+
+## Note sessione 2026-10-05 (run programmata «ricerca profonda», sera)
+- **904 voci** in `data/media.json` (+11: 7 tweet Pyongyang/Griffith, The Next Web 2019, CoinDesk Italiano ×2, lettera
+  ANAC di Cantone 21/09/2017 «Al Presidente del Centro Hermes Ing. Fabio Pietrosanti»; Yahoo Finance accorpata come ripresa).
+- **Voce chiusa:** Pyongyang 2019 / Griffith (vedi sopra). **Senato 14/05/2020** ricontrollato in parallelo alla sessione
+  del mattino: stesso esito (Hermes = Vincenzo Tiani, 2:17:46 del video WebTV); il motore interno del Senato (generale +
+  PDF non legislativi, leg17-19) non contiene mai «Fabio Pietrosanti». Il **browser integrato dell'app** passa il WAF di
+  senato.it; il **Chrome di Fabio** risulta ancora non navigabile («extension not connected»).
+- **Istituzioni residue** (`pass4_istituzioni_residui2`): audizioni informali Camera leg17 lette da **arquivo.pt**
+  (~1.660 audizioni, 14 commissioni): zero occorrenze; Commissione Internet 2014-15, PE JURI/PANA 2017, PEGA 2023,
+  Garante, AGCOM, AgID, CoE, consigli regionali: negativi (`leads_negatives_istituzioni_2026-10-05.json`).
+- **Weibo e Douyin** provati nel browser integrato: entrambi chiedono il login (nessuna ricerca anonima) → restano per il
+  Chrome loggato di Fabio.
+- Web Archive: 429 dal laptop sulle CDX; gli agenti hanno usato il server (in serie) e WebFetch per GDELT.
 
 ## Note sessione 2026-10-04
 - **942 voci** in `data/media.json` (+19: 28 tweet Pyongyang/Griffith, di cui 11 risposte identiche accorpate in una voce,

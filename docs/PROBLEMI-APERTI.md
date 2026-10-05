@@ -1,6 +1,6 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-10-02**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-10-05**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
@@ -130,6 +130,21 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-nonies. 2026-10-05 (sera)
+- Copie delle 11 voci nuove e delle loro 10 riprese **tutte ottenute** (7 tweet dal Web Archive, ANAC PDF, The Next Web,
+  CoinDesk it/es/fr/ru/uk). Le 4 versioni **ru/uk** risultavano «non confermate» perché il controllo cerca il nome solo
+  in alfabeto latino: verificate a mano («Фабио Пьетросанти», «Фабіо П’єтросанті») → ottenute. *Miglioria possibile:*
+  aggiungere le grafie cirillica e cinese del nome al controllo di `archive_copies.py`.
+- `coinage.it` (ripresa italiana CoinDesk): sito morto, nessuna capture → resta ❌, ma è superata dalla traduzione
+  italiana ufficiale di CoinDesk, ora in archivio.
+- Retry dei falliti: nessun cambiamento (Radio Monte Carlo, PrivateWave EN/ES — chiusi come irrecuperabili da Fabio —,
+  2 notizieoggi.com, CyberCoach solo pagina). Restano 8 «non confermate» (arXiv 2013, 3 MP3 Radio 24 già confermati
+  dalla trascrizione, …) e 2 parziali (techsupportforum, Sogou).
+- **Nuove domande per te:** (a) **«Slide Foggia»** — un tuo tweet cancellato del 05/12/2019 parla di slide per Foggia:
+  che evento era (convegno, università, ordine professionale)? (b) **Appello del Centro Hermes ad ANAC (24/07/2017)** sulla
+  gara del whistleblowing: Cantone ti rispose per lettera il 21/09/2017 (ora in archivio); ricordi articoli o interviste
+  su quella polemica? Li cerco nella prossima passata.
 
 ### B0-octies. 2026-10-04
 - **Copie delle mirror (05/10, su tua indicazione: «serve sempre una copia offline, inclusi i tweet»)**: `archive_copies.py`

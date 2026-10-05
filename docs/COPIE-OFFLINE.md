@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **893**; già processate: **1035**; ancora da processare: **0**
-- Licenza delle copie ottenute: **222** materiale proprio (ripubblicabile), **716** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **837**
+- Voci in `data/media.json`: **904**; già processate: **1056**; ancora da processare: **0**
+- Licenza delle copie ottenute: **222** materiale proprio (ripubblicabile), **737** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **858**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -43,11 +43,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 21 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 24 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 64 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 65 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 44 | 16 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 57 | 3 | 1 | 0 | 0 | 0 | 1 |
-| 2020 | 157 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2021 | 77 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 74 | 3 | 1 | 0 | 0 | 0 | 1 |
+| 2020 | 158 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2021 | 79 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 51 | 7 | 1 | 0 | 0 | 0 | 2 |
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -244,7 +244,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
-  URLError
+  Ripresa italiana dell'intervista CoinDesk: sito irraggiungibile (timeout) e nessuna capture nel Web Archive (CDX vuoto, 2026-10-05). Irrilevante per il contenuto: la traduzione italiana ufficiale di CoinDesk (coindesk.com/it/policy/2019/12/03/...) è ora in archivio con copia.
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
   URLError
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
@@ -729,6 +729,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · SHA2017 Wiki — [Village:ItalianEmbassy (Italian Hacker Embassy at SHA2017)](https://wiki.sha2017.org/w/Village:ItalianEmbassy) · copia: `2017/519f27acc52b` (Web Archive 20170801) · licenza: propria
 - **2017** · Freedom Not Fear 2017, Brussels (Mundo B — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule) · copia: `2017/e9149d840114` (Web Archive 20180621) · licenza: terzi
 - **2017** · Agenda Digitale — [Articoli di Fabio Pietrosanti (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/) · copia: `2017/264a9bc7d25b` (Web Archive 20200925) · licenza: terzi
+- **2017** · ANAC - Autorità Nazionale Anticorruzione — [Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes in mer](https://www.anticorruzione.it/documents/91439/123100/Risposta_appello_Centro_Hermes_new.pdf/76d050ce-9e12-c2f6-f369-2e3abadcc159?t=1585641081807) · copia: `2017/363ff53690bd` (Web Archive 20220709) · licenza: terzi
 - **2017** · University of California, Berkeley, PhD  — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf) · copia: `2017/07478431c5a6` (Web Archive 20190612) · licenza: terzi
 - **2017** · www.ccc.de — [Stellungnahme_CCC-Staatstrojaner.pdf](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) · copia: `2017/0ec817dbfbbc` (Web Archive 20170531) · licenza: terzi
 - **2017** · European Parliament, Policy Department f — [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf) · copia: `2017/114e1a17fa02` (Web Archive 20170419) · licenza: terzi
@@ -820,6 +821,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · AMBCrypto — [Ethereum researcher arrested for allegedly helping North Korea evade sanctions](https://eng.ambcrypto.com/ethereum-researcher-arrested-for-allegedly-helping-north-korea-evade-sanctions/) · copia: `2019/0714319d6445` (Web Archive 20191216) · licenza: terzi
 - **2019** · AMBCrypto Spanish — [Ethereum [ETH] se ve envuelto en escándalo de lavado de dinero con Corea del Norte](https://es.ambcrypto.com/ethereum-eth-se-ve-envuelto-en-escandalo-de-lavado-de-dinero-con-corea-del-norte/) · copia: `2019/0b80eaca6099` (Web Archive 20210508) · licenza: terzi
 - **2019** · CoinDesk — [Freedom Fighter or Fool? Jury's Out on Arrested Ethereum Developer Virgil Griffith](https://finance.yahoo.com/news/freedom-fighter-fool-jury-arrested-201511565.html) · copia: `2019/36c8b8464d2a` (live) · licenza: terzi
+- **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://finance.yahoo.com/news/sanctions-weren-t-discussed-north-090000803.html) · copia: `2019/080452eb268a` (Web Archive 20191204) · licenza: terzi
 - **2019** · Forum Italia (Developers Italia) — [Software di Whistleblowing Anticorruzione ANAC e Riuso GlobaLeaks](https://forum.italia.it/t/software-di-whistleblowing-anticorruzione-anac-e-riuso-globaleaks/7114) · copia: `2019/f80d52afc3d3` (Web Archive 20231208) · licenza: propria
 - **2019** · GitHub - ANAC anticorruzione/openwhistle — [openwhistleblowing/AUTHORS](https://github.com/anticorruzione/openwhistleblowing/blob/master/AUTHORS) · copia: `2019/5c5b4eed38b7` (live) · licenza: terzi
 - **2019** · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano) · copia: `2019/2f5708b9e6aa` (Web Archive 20200910) · licenza: propria
@@ -831,6 +833,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · MOJO Italia - Festival del giornalismo m — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/) · copia: `2019/42c19040bc86` (live) · licenza: terzi
 - **2019** · La Nuova di Venezia (gelocal, ripresa de — [Manovra, il M5S propone soldi per il fantasma del voto elettronico](https://nuovavenezia.gelocal.it/italia-mondo/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928390/amp/) · copia: `2019/15c51d4cd5b7` (Web Archive 20191122) · licenza: terzi
 - **2019** · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397) · copia: `2019/b183792c74df` (live · video locale `media.mp3` (19 MB, da caricare su Drive)) · licenza: terzi
+- **2019** · The Next Web (Hard Fork) — [Ethereum dev to be released pending trial amid claims charges against him are exaggerated](https://thenextweb.com/hardfork/2019/12/03/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency/) · copia: `2019/ac85ae01b0d2` (Web Archive 20191203) · licenza: terzi
+- **2019** · The Next Web (Hard Fork) — [Ethereum dev to be released pending trial amid claims charges against him are exaggerated](https://thenextweb.com/news/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency) · copia: `2019/a4d83b58526f` (Web Archive 20211025) · licenza: terzi
 - **2019** · The Vision — [Un governo deciso da un sondaggio online è la vergogna della democrazia italiana](https://thevision.com/politica/governo-rousseau-democrazia/) · copia: `2019/7d64e37e9a12` (live) · licenza: terzi
 - **2019** · Twitter — [@e_pagliarini: chi ha dubbi sul voto elettronico riascolti le due puntate di 2024 (Radio 2](https://twitter.com/e_pagliarini/status/1204842053374484485) · copia: `2019/13497a342002` (Web Archive 20191212) · licenza: terzi
 - **2019** · Twitter @fpietrosanti (Wayback) — [Risposta a @lucatremolada: analisi sul DB AIRE per istituire seggi di voto all'estero](https://twitter.com/fpietrosanti/status/1195446177371701250) · copia: `2019/45d892666fca` (Web Archive 20191115) · licenza: terzi
@@ -853,6 +857,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Twitter (@fpietrosanti) — [From what I personally saw there and what I’ve been told those are just bullshit, misinter](https://twitter.com/fpietrosanti/status/1201039691912491009) · copia: `2019/5c868dcbd234` (Web Archive 20191201) · licenza: terzi
 - **2019** · Twitter (@fpietrosanti) — [So why Virgil Griffith is jail? "Because discussing “smart contracts” “proof of Work” vers](https://twitter.com/fpietrosanti/status/1201302625813254144) · copia: `2019/895cc1f70ba4` (Web Archive 20191202) · licenza: terzi
 - **2019** · Twitter (@fpietrosanti) — [“The FBI’s case against a famous hacker for allegedly trying to help North Korea use crypt](https://twitter.com/fpietrosanti/status/1203105625267474433) · copia: `2019/5ae4583e2150` (Web Archive 20191207) · licenza: terzi
+- **2019** · Twitter/X @fpietrosanti — [Risposta a Vitalik Buterin: «Getting @virgilgr out of jail»](https://twitter.com/fpietrosanti/status/1209976431243124737) · copia: `2019/73968a90e3fa` (Web Archive 20191225) · licenza: terzi
+- **2019** · Twitter/X @fpietrosanti — [A @Juki_ sul talk DPRK al 36C3: «I’ve been there in April for blockchain conference…»](https://twitter.com/fpietrosanti/status/1210520055831760896) · copia: `2019/1eb38efabb9a` (Web Archive 20191227) · licenza: terzi
+- **2019** · Twitter/X @fpietrosanti — [«North Korea Technologies at IO at #36c3 (hall 2)»](https://twitter.com/fpietrosanti/status/1210586147631587334) · copia: `2019/2baf48892693` (Web Archive 20200107) · licenza: terzi
+- **2019** · Twitter/X @fpietrosanti — [A Kenneth Geers: «What’s the north Korea relationship?»](https://twitter.com/fpietrosanti/status/1211755248534077441) · copia: `2019/bde36106e68f` (Web Archive 20200108) · licenza: terzi
 - **2019** · Dipartimento della Funzione Pubblica - i — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/) · copia: `2019/fed00e4c6d1e` (Web Archive 20190724) · licenza: propria
 - **2019** · 2600 Off The Hook (WBAI/2600, Emmanuel G — [Off The Hook, 12/04/19 - Virgil Griffith charged; Fabio Pietrosanti joins from Italy](https://www.2600.com/offthehook/2019/1219.html) · copia: `2019/75b6b75dad29` (Web Archive 20210305) · licenza: terzi
 - **2019** · 2600 Off The Hook — [Off The Hook 2019-12-04 (MP3)](https://www.2600.com/offthehook/mp3files/2019/off_the_hook__20191204.mp3) · copia: `2019/65c1ec38a5c9` (live) · licenza: terzi
@@ -860,8 +868,18 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · AGI - Agenzia Italia (blog Cybersecurity — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://www.agi.it/blog-italia/cybersecurity/post/2019-03-09/blockchain_rousseau_voto_elettronico_casaleggio-5117572/) · copia: `2019/347043478153` (Web Archive 20240419) · licenza: terzi
 - **2019** · 百亿财经 baiyi.com — [朝鲜加密货币活动参与者称制裁议题未被提及](https://www.baiyi.com/news/4c90c1481cc94ea0ae6c844e141b54ce.html) · copia: `2019/eb7cf485dda1` (live) · licenza: terzi
 - **2019** · Camera dei deputati (XVIII legislatura) — [Candidature a componente del Collegio del Garante per la protezione dei dati personali per](https://www.camera.it/leg18/1372) · copia: `2019/8a9c23efa364` (Web Archive 20200926) · licenza: terzi
+- **2019** · CoinDesk Italiano — [Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arresta](https://www.coindesk.com/es/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/a5d0848e3a4c` (live) · licenza: terzi
+- **2019** · CoinDesk Italiano — [Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un p](https://www.coindesk.com/es/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says) · copia: `2019/14c0a9f53238` (live) · licenza: terzi
+- **2019** · CoinDesk Italiano — [Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arresta](https://www.coindesk.com/fr/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/b990680e6332` (Web Archive 20250826) · licenza: terzi
+- **2019** · CoinDesk Italiano — [Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un p](https://www.coindesk.com/fr/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says) · copia: `2019/7000c22bc0bf` (Web Archive 20250828) · licenza: terzi
+- **2019** · CoinDesk Italiano — [Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arresta](https://www.coindesk.com/it/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/d399476d4d8b` (live) · licenza: terzi
+- **2019** · CoinDesk Italiano — [Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un p](https://www.coindesk.com/it/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says) · copia: `2019/d70edfeb78f0` (live) · licenza: terzi
 - **2019** · CoinDesk — [Freedom Fighter or Fool? Jury's Out on Arrested Ethereum Developer Virgil Griffith](https://www.coindesk.com/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/58fcdc1a6a26` (Web Archive 20210916) · licenza: terzi
 - **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://www.coindesk.com/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says/) · copia: `2019/a44cf63f7ba2` (Web Archive 20210918) · licenza: terzi
+- **2019** · CoinDesk Italiano — [Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arresta](https://www.coindesk.com/ru/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/775d080ea3b4` (live) · licenza: terzi
+- **2019** · CoinDesk Italiano — [Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un p](https://www.coindesk.com/ru/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says) · copia: `2019/d2158730c74d` (live) · licenza: terzi
+- **2019** · CoinDesk Italiano — [Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arresta](https://www.coindesk.com/uk/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/ceb6849cd709` (live) · licenza: terzi
+- **2019** · CoinDesk Italiano — [Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un p](https://www.coindesk.com/uk/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says) · copia: `2019/135d7b9a6ce0` (live) · licenza: terzi
 - **2019** · CorCom (Corriere Comunicazioni) — [Garante Privacy, 86 nuovi candidati](https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/) · copia: `2019/2f34a5770751` (live) · licenza: terzi
 - **2019** · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/) · copia: `2019/f197572afc0f` (Web Archive 20191122) · licenza: terzi
 - **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711) · copia: `2019/05160b2a3be4` (live) · licenza: terzi
@@ -913,6 +931,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Twitter — [@faffa42 (Wired): il M5S ha espulso @fpietrosanti come misura ritorsiva](https://twitter.com/faffa42/status/1319523699008163840) · copia: `2020/2bc2ffa7e5b9` (Web Archive 20201023) · licenza: terzi
 - **2020** · Twitter — [Archivio Proposta di Legge Captatori Informatici (GitHub)](https://twitter.com/fpietrosanti/status/1213115841744687105) · copia: `2020/50365eaa8f50` (Web Archive 20200104) · licenza: terzi
 - **2020** · Twitter — [ANPR per la mobilita' elettorale dei votanti fuori sede (forum.italia.it)](https://twitter.com/fpietrosanti/status/1213232609381232651) · copia: `2020/d293a33459ae` (Web Archive 20200104) · licenza: terzi
+- **2020** · Twitter/X @fpietrosanti — [Condivide «Axes of Evil» di Josh Dean (DMZ coreana, 1976)](https://twitter.com/fpietrosanti/status/1215391660739350536) · copia: `2020/b2b253b3caf5` (Web Archive 20200112) · licenza: terzi
 - **2020** · Twitter — [Estonia, voto online e M5S: ironia sulla presunta crescita della partecipazione](https://twitter.com/fpietrosanti/status/1220109706640924682) · copia: `2020/980512d7b0c4` (live) · licenza: terzi
 - **2020** · Twitter — [Come non sprecare un milione di euro con il voto online (Brescia)](https://twitter.com/fpietrosanti/status/1227186128391938048) · copia: `2020/38742c7c56d5` (Web Archive 20200211) · licenza: terzi
 - **2020** · Twitter — [Voto elettronico, l'Italia rischia il flop come in Iowa (Agenda Digitale, Somma)](https://twitter.com/fpietrosanti/status/1227588157031448577) · copia: `2020/bb6722ba0061` (Web Archive 20200212) · licenza: terzi
@@ -1101,6 +1120,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · Twitter (@fpietrosanti) — [I would had been happy if they paid for all or our travel and stay, it seems we paid for i](https://twitter.com/fpietrosanti/status/1442935508590424067) · copia: `2021/a6efd3d89e85` (Web Archive 20210928) · licenza: terzi
 - **2021** · Twitter (@fpietrosanti) — [In that specification I agree, they surely had provided the room for the conference and so](https://twitter.com/fpietrosanti/status/1442936355860844546) · copia: `2021/d082763626ed` (Web Archive 20210928) · licenza: terzi
 - **2021** · Twitter (@fpietrosanti) — [Relevant narrative on Virgil Griffith arrest by @emmangoldstein /cc @Ethan_Lou](https://twitter.com/fpietrosanti/status/1443670064679563267) · copia: `2021/29320faa6f6a` (Web Archive 20210930) · licenza: terzi
+- **2021** · Twitter/X @fpietrosanti — [«North Korea informant reward program» (tweet poi cancellato)](https://twitter.com/fpietrosanti/status/1445016576684699657) · copia: `2021/fdf9ea1beaab` (Web Archive 20211004) · licenza: terzi
+- **2021** · Twitter/X @fpietrosanti — [A Ethan Lou: «Anything recently new interesting?»](https://twitter.com/fpietrosanti/status/1449136122928447491) · copia: `2021/98f3f199132d` (Web Archive 20211015) · licenza: terzi
 - **2021** · Twitter — [@informapirata: la grande sola del voto elettronico, il FOIA di @fpietrosanti (Agenda Digi](https://twitter.com/informapirata/status/1373653767376228354) · copia: `2021/95b5908e7cf6` (Web Archive 20210321) · licenza: terzi
 - **2021** · Twitter — [@lastknight: con l'aiuto di @fpietrosanti ecco perche' il voto elettronico e' ANCORA una p](https://twitter.com/lastknight/status/1402148459692572672) · copia: `2021/230a56cf237a` (Web Archive 20210608) · licenza: terzi
 - **2021** · Twitter — [@smaffulli a Vito Crimi: il voto elettronico non esiste in nessun paese democratico (cc @f](https://twitter.com/smaffulli/status/1388266404097323008) · copia: `2021/836af16e2ac7` (Web Archive 20210430) · licenza: terzi

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1249**; dopo deduplica: **893**
+- Risultati grezzi dalle ricerche: **1261**; dopo deduplica: **904**
 - Già presenti sul vecchio sito: **33** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 860**
-- Verificati aprendo la pagina: **833**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 871**
+- Verificati aprendo la pagina: **844**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 145, tweet 124, Post sul blog infosecurity.ch 71, Talk 68, Video 62, Citato 47, Progetto 33, Ricerca 31, Radio 27, Altro 26, Libro 22, article 22, social 21, Articolo scritto 20, Report 17, documento 13, Comunicato 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, web 1, Audizione 1, institutional 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1
+Per tipo (nuovi): Menzionato 145, tweet 131, Post sul blog infosecurity.ch 71, Talk 68, Video 62, Citato 47, Progetto 33, Ricerca 31, Radio 27, Altro 26, article 25, Libro 22, social 21, Articolo scritto 20, Report 17, documento 13, Comunicato 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, institutional 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1
 
 ### Copertura per anno
 
@@ -35,11 +35,11 @@ Per tipo (nuovi): Menzionato 145, tweet 124, Post sul blog infosecurity.ch 71, T
 | 2014 | 0 | 25 | 25 |
 | 2015 | 0 | 32 | 32 |
 | 2016 | 0 | 21 | 21 |
-| 2017 | 0 | 66 | 66 |
+| 2017 | 0 | 67 | 67 |
 | 2018 | 0 | 59 | 59 |
-| 2019 | 0 | 50 | 50 |
-| 2020 | 0 | 164 | 164 |
-| 2021 | 0 | 84 | 84 |
+| 2019 | 0 | 57 | 57 |
+| 2020 | 0 | 165 | 165 |
+| 2021 | 0 | 86 | 86 |
 | 2022 | 0 | 57 | 57 |
 | 2023 | 0 | 11 | 11 |
 | 2024 | 0 | 7 | 7 |
@@ -289,12 +289,16 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Talk · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)  
   Investigative journalism festival speaker page
 
-## 2021 — 84 voci, 84 nuove
+## 2021 — 86 voci, 86 nuove
 
 - 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Anthology (probably reprints the Mann chapter). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing. Retrieved 17 March 2019, https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html'.
 - 🆕 **2021-10-22** · article · Taylor Simone (Substack) — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner)  
   Phone interview with him on 2021-09-30: 'I called Fabio Pietrosanti'. Contains a Q&A ('FP: At the conference we were prohibited...'), a bio, and a reference to his 2019 2600 podcast appearance. 13 name hits. Verified live 2026-10-02.
+- 🆕 **2021-10-15** · tweet · Twitter/X @fpietrosanti — [A Ethan Lou: «Anything recently new interesting?»](https://twitter.com/fpietrosanti/status/1449136122928447491)  
+  Testo integrale: "@Ethan_Lou Anything recently new interesting?". Scrive a Ethan Lou (giornalista compagno di viaggio a Pyongyang, autore del pezzo The Walrus e del libro) due settimane dopo il patteggiamento; contatto di contesto, contenuto minimo. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20211015221237.
+- 🆕 **2021-10-04** · tweet · Twitter/X @fpietrosanti — [«North Korea informant reward program» (tweet poi cancellato)](https://twitter.com/fpietrosanti/status/1445016576684699657)  
+  Testo integrale: "North Korea informant reward program https://dprkrewards.com/" (ora del tweet 6:22 AM PT, 4 Oct 2021). Una settimana dopo il patteggiamento di Griffith (27/09/2021) segnala il programma USA di ricompense per informazioni sull'evasione delle sanzioni nordcoreane. Tweet cancellato: la syndication restituisce TweetTombstone; testo letto dalla capture Wayback https://web.archive.org/web/20211004132312id_/https://twitter.com/fpietrosanti/status/1445016576684699657 (HTML 200, data-screen-name fpietrosanti, titolo «Fabio Pietrosanti on Twitter»), scaricata il 2026-10-05 dal server con User-Agent da browser.
 - 🆕 **2021-09-30** · tweet · Twitter (@fpietrosanti) — [Relevant narrative on Virgil Griffith arrest by @emmangoldstein /cc @Ethan_Lou](https://twitter.com/fpietrosanti/status/1443670064679563267)  
   Full text: "Relevant narrative on Virgil Griffith arrest by @emmangoldstein /cc @Ethan_Lou" Quotes: "Our latest episode is now available!  MP3: https://t.co/ch8HL6FRyt RSS: https://t.co/kZGTcOfzmA https://t.co/B1qWlj7z0g". Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20210930201331 listed in CDX (Wayback HTML not opened: archive.org bot-flag).
 - 🆕 **2021-09-28** · tweet · Twitter (@fpietrosanti) — [Virgil gives his mobile and laptop voluntarily to the FBI, soon as he was stopped the first time.](https://twitter.com/fpietrosanti/status/1442743803455094785)  
@@ -460,7 +464,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 164 voci, 164 nuove
+## 2020 — 165 voci, 165 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -770,6 +774,8 @@ Anni senza nessun risultato: nessuno
   Proposta formale presentata alla consultazione pubblica governativa 'Italia 2025 - Strategia per l'innovazione tecnologica e la digitalizzazione del Paese'. La pagina mostra 'Avatar: Fabio Pietrosanti / Fabio Pietrosanti 16/01/2020 22:42' come autore; il profilo ParteciPa collegato e' /profiles/naif/. Fratello della gia' nota proposta 424 sul whistleblowing.
 - 🆕 **2020-01-16** · consultazione · ParteciPa (Dipartimento della Funzione Pubblica / Ministro per l'innovazione tecnologica) - consultazione 'Italia 2025' — [Rafforzare Cybersecurity Nazionale con Misurazione proattiva](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/425)  
   Proposta formale presentata alla consultazione pubblica governativa 'Italia 2025'. Autore indicato nella pagina: 'Fabio Pietrosanti 16/01/2020 22:49', profilo ParteciPa /profiles/naif/. Terza proposta della serie 423-424-425.
+- 🆕 **2020-01-09** · tweet · Twitter/X @fpietrosanti — [Condivide «Axes of Evil» di Josh Dean (DMZ coreana, 1976)](https://twitter.com/fpietrosanti/status/1215391660739350536)  
+  Testo integrale: "Axes of Evil: / Four days, two murders, and one poplar tree that almost ignited World War III. / Josh Dean / https://t.co/g1mTR0St8u" → magazine.atavist.com/axes-of-evil-north-korea-dmz-tree-murders. Link a un longread sulla Corea del Nord (incidente dell'ascia nella DMZ, 1976); rilevanza marginale. Nota: Josh Dean è lo stesso autore del pezzo Bloomberg Businessweek del 2020 su Cao de Benós che cita Fabio. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20200112070927.
 - 🆕 **2020-01-03** · repository · GitHub (osservatoriosicurezza) — [Commit 'Store on github project logos' (ossci-con-titolo.jpeg, ossci-senza-titolo.jpeg)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/commit/052275da0ceeb61ef62373a5553ea1e43fa11d0f)  
   Verificato via API: ultimo commit del repo, autore 'Fabio (naif) Pietrosanti' (fpietrosanti), 2020-01-03; aggiunge i loghi OSSCI. Data dell'ultima attività sul repo principale.
 - 🆕 **2020-01-03** · tweet · Twitter — [ANPR per la mobilita' elettorale dei votanti fuori sede (forum.italia.it)](https://twitter.com/fpietrosanti/status/1213232609381232651)  
@@ -791,10 +797,18 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 50 voci, 50 nuove
+## 2019 — 57 voci, 57 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
+- 🆕 **2019-12-30** · tweet · Twitter/X @fpietrosanti — [A Kenneth Geers: «What’s the north Korea relationship?»](https://twitter.com/fpietrosanti/status/1211755248534077441)  
+  Testo integrale: "@KennethGeers What’s the north Korea relationship?". Risposta a @KennethGeers (ricercatore cyber); il tweet di partenza non è restituito dall'endpoint, quindi il contesto resta ignoto: rilevanza marginale (Corea del Nord), non direttamente Griffith. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20200108113928.
+- 🆕 **2019-12-27** · tweet · Twitter/X @fpietrosanti — [A @Juki_ sul talk DPRK al 36C3: «I’ve been there in April for blockchain conference…»](https://twitter.com/fpietrosanti/status/1210520055831760896)  
+  Testo integrale: "@Juki_ hey are you doing the #36c3 talk on DPRK? I’ve been there in April for blockchain conference and happy to have a chat about that!". Al 36C3 (Lipsia) si offre di parlare della conferenza blockchain di Pyongyang dell'aprile 2019. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20191227114808.
+- 🆕 **2019-12-27** · tweet · Twitter/X @fpietrosanti — [«North Korea Technologies at IO at #36c3 (hall 2)»](https://twitter.com/fpietrosanti/status/1210586147631587334)  
+  Testo integrale: "North Korea Technologies at IO at #36c3 (hall 2) https://t.co/EHaS4B5eVY" (con foto). Segue in sala il talk sulle tecnologie nordcoreane al 36C3, lo stesso giorno in cui scrive a @Juki_ della sua visita di aprile. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20200107002355.
+- 🆕 **2019-12-25** · tweet · Twitter/X @fpietrosanti — [Risposta a Vitalik Buterin: «Getting @virgilgr out of jail»](https://twitter.com/fpietrosanti/status/1209976431243124737)  
+  Testo integrale: "@VitalikButerin Getting @virgilgr out of jail". Risposta a @VitalikButerin la sera di Natale 2019 (Griffith in carcere dopo l'arresto del 28/11/2019; il tweet di Buterin a cui risponde non è restituito dall'endpoint). Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20191225232137 nel CDX.
 - 🆕 **2019-12-20** · articolo · CRVD — blog.crvd.org (URL originale, Wayback) — [Come non sprecare un milione di euro](https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/)  
   URL originale (catture Wayback dal 13/08/2020) del post CRVD già noto nella copia preservata. Nel testo: 'Fabio Pietrosanti, del Centro Studi Hermes Center ... ha mostrato che con l'apertura di 80 seggi esteri si coprirebbe oltre l'86% degli elettori iscritti all'AIRE' (2 ore A/R; 216 seggi = 99%). È la prima fonte pubblica dell'analisi AIRE, in risposta al fondo da 1 milione del sen. Garruti (M5S).
 - 🆕 **2019-12-20** · Articolo scritto · CRVD — Comitato per i Requisiti del Voto in Democrazia (crvd.org, preserved) — [Come non sprecare un milione di euro](https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/)  
@@ -821,6 +835,12 @@ Anni senza nessun risultato: nessuno
   'another attendee, Fabio Pietrosanti, said this week that the conference did not touch the subject of sanctions evasion'. Verified live 2026-10-02.
 - 🆕 **2019-12-03** · article · 코인리더스 (CoinReaders, Korea) — [이더리움 핵심 개발자, 北에 암호화폐 기술 제공한 혐의로 체포…로저버, 美 정부 비난](http://coinreaders.com/6114)  
   "버질 그리피스와 함께 북한을 방문한 것으로 알려진 이탈리아계 기업가 파비오 피에트로산티(Fabio Pietrosanti)도 증언 의사를 밝혔다" - quoted as willing to testify, 'some misunderstanding by the authorities', in contact with Virgil's lawyer. Byline 박소현 기자, 2019/12/03 07:07 KST. Verified live 2026-10-02 (found via Naver news search).
+- 🆕 **2019-12-03** · article · The Next Web (Hard Fork) — [Ethereum dev to be released pending trial amid claims charges against him are exaggerated](https://thenextweb.com/news/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency)  
+  Trovato tramite GDELT (finestra 28/11/2019-15/01/2020; URL originale thenextweb.com/hardfork/2019/12/03/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency/, ora redirect al percorso /news/). Pagina aperta il 05/10/2026 (datePublished 2019-12-03T10:34:20Z): riprende l'intervista CoinDesk, «"The sanctions were not a topic at all," Fabio Pietrosanti, who claims to have known Griffith for almost ten years, told CoinDesk»; aggiunge che parlando a CoinDesk voleva sostenere il rilascio di Griffith. 4 occorrenze del nome.
+- 🆕 **2019-12-03** · article · CoinDesk Italiano — [Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un partecipante](https://www.coindesk.com/it/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says)  
+  Versione italiana (traduzione automatica di CoinDesk, canonical propria, datePublished 2019-12-03, dateModified 2022-12-10) dell'intervista già in archivio. Pagina aperta il 05/10/2026: «Ma Fabio Pietrosanti sostiene che le forze dell'ordine hanno una concezione esagerata...», «"Le sanzioni non sono state affatto un argomento di discussione", ha affermato Pietrosanti». È l'unica copertura in lingua italiana trovata sul tema. Il titolo nella pagina contiene un refuso della traduzione automatica («Le sanzioni T sono state discusse»). Versioni nelle altre lingue verificate (nome presente): es, fr, ru («Фабио Пьетросанти», 14 occorrenze), uk («П'єтросанті», 9); de/id/ko/nl/tr/zh/ja rimandano alla versione inglese.
+- 🆕 **2019-12-03** · article · CoinDesk Italiano — [Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arrestato Virgil Griffith](https://www.coindesk.com/it/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith)  
+  Versione italiana (traduzione automatica CoinDesk, datePublished 2019-12-03T20:15:11Z) di «Freedom Fighter or Fool?», già in archivio in inglese. Pagina aperta il 05/10/2026: «un altro partecipante, Fabio Pietrosanti, ha affermato questa settimana che la conferenza non ha toccato il tema dell'evasione delle sanzioni». Nome presente anche nelle versioni es, fr (2 occorrenze), ru (2) e uk (1).
 - 🆕 **2019-12-02** · article · AMBCrypto Spanish — [Ethereum [ETH] se ve envuelto en escándalo de lavado de dinero con Corea del Norte](https://es.ambcrypto.com/ethereum-eth-se-ve-envuelto-en-escandalo-de-lavado-de-dinero-con-corea-del-norte/)  
   'Fabio Pietrosanti, un empresario, reveló que había acompañado a Griffith a la conferencia' + Spanish translation of his tweet. Verified live 2026-10-02.
 - 🆕 **2019-12-02** · tweet · Twitter (@fpietrosanti) — [So why Virgil Griffith is jail? "Because discussing “smart contracts” “proof of Work” versus “proof of stake” …](https://twitter.com/fpietrosanti/status/1201302625813254144)  
@@ -1015,7 +1035,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 66 voci, 66 nuove
+## 2017 — 67 voci, 67 nuove
 
 - 🆕 **2017-12-14** · Ricerca · GitHub avast/retdec — [retdec #29 «Fix Avast File Download Vulnerability»](https://github.com/avast/retdec/issues/29)  
   Opened by fpietrosanti: Avast installer served over HTTP; cites his July-2017 tweet twitter.com/fpietrosanti/status/881888886678581249
@@ -1051,6 +1071,8 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …enerdì 27 ottobre con due corsi accreditati dall’Ordine dei giornalisti della Lombardia ai fini della formazione continua. Raffaele Angius , Giovanni Civardi e Fabio Pietrosanti , tre esperti dell’Hermes Center for Trans…
 - 🆕 **2017-10** · Report · HERMES Center for Transparency and Digital Human Rights / Infomedia Editori (archived by Marco Calamari on Internet Archive, Cassandra Crossing n. 421) — [La Guida HERMES al Voto Digitale (v1.0)](https://archive.org/download/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale_LaGuidaHermesAlVotoDigitale_v1.0.pdf)  
   Winston Smith (Emmanuele Somma), preface by Marco Calamari, first HERMES edition October 2017. The acknowledgements ('Si ringrazia:') list: 'Fabio "naif" Pietrosanti (Hermes Center), Dario Centofanti ..., Marco Calamari (Progetto Winston Smith)' (last pages, djvu text). This is the embedded PDF of an archive.org item whose details page (archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale) is already in the known list, so it is marked known; the new detail is his role as acknowledged contributor to the Hermes e-voting guide.
+- 🆕 **2017-09-21** · institutional letter (official reply) · ANAC - Autorità Nazionale Anticorruzione (lettera del Presidente Raffaele Cantone) — [Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes in merito all'adozione di tecnologie di supporto alla gestione delle segnalazioni di condotte illecite (Whistleblowing)](https://www.anticorruzione.it/documents/91439/123100/Risposta_appello_Centro_Hermes_new.pdf/76d050ce-9e12-c2f6-f369-2e3abadcc159?t=1585641081807)  
+  PDF ufficiale ANAC (3 pp.), aperto e letto il 2026-10-05; linkato dalla pagina https://www.anticorruzione.it/en/-/whistleblowing-1-1 («Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes»). Intestazione: «Al Presidente del Centro Hermes Ing. Fabio Pietrosanti»; apertura «Gentile Ing. Pietrosanti»; oggetto «Appello del Centro Hermes all'Autorità Nazionale Anticorruzione (ANAC) per la tecnologia di whistleblowing open-source». Risponde all'appello del 24 luglio 2017, ricostruisce la collaborazione ANAC-Hermes (consultazione 2015, riunione 25/06/2015, memorandum 22/07/2015, prototipo Open Whistleblowing, gara vinta da LA.SER ROMAE) e rileva che alla gara partecipò «Whistleblowing Solution di cui Lei è un autorevole componente». Firmata Raffaele Cantone. Non presente in media.json (URL e titolo cercati).
 - 🆕 **2017-08-07** · Talk · SHA2017 - Still Hacking Anyway (media.ccc.de) — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans)  
   49-min talk with Andrea Ghirardini on the Italian trojan bill; video on media.ccc.de and YouTube (tF_i3X_PcFY)
 - 🆕 **2017-08-01** · Articolo scritto · EDRi (European Digital Rights) — [Italy plans to extend telecoms data retention and increase censorship powers](https://edri.org/our-work/italy-plans-extend-telecoms-data-retention-increase-censorship-powers/)  
