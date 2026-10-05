@@ -187,7 +187,8 @@ def build(lang="en"):
     # focus / evidence / quotes / artifacts
     ident = c["identity"]
     focus = "".join(
-        f'<article class="foc"><div class="fk">{esc(x["k"])}<span>since {esc(x["since"])}</span></div>'
+        f'<article class="foc{" now" if x.get("now") else ""}"><div class="fk">{esc(x["k"])}'
+        f'<span>{(esc(c.get("focus_badge", "focus now")) + " · ") if x.get("now") else ""}since {esc(x["since"])}</span></div>'
         f'<p>{esc(x["text"])}</p><div class="plinks">'
         + " ".join(f'<a href="{esc(u)}" rel="noopener">{esc(n)}</a>' for n, u in x["links"]) + "</div></article>"
         for x in c.get("focus_now", []))

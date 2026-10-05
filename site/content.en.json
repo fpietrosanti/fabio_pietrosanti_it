@@ -118,8 +118,8 @@
    "Investigative journalism, whistleblowing and the habit of checking what power says — with the receipts."
   ],
   "focus": [
-   "What I work on now",
-   "Three fronts, same method: open tools, published evidence, verifiable claims."
+   "Five threads",
+   "Open-source hacktivism since 1997, cybersecurity since 2001 — and the three that matter most right now."
   ],
   "artifacts": [
    "From the archive",
@@ -526,28 +526,46 @@
   "role_note": "Hacker first — the rest came out of it."
  },
  "focus_now_title": [
-  "What I work on now",
-  "Three fronts, same method: open tools, published evidence, verifiable claims."
+  "Five threads",
+  "Open-source hacktivism since 1997, cybersecurity since 2001 — and the three that matter most right now."
  ],
  "focus_now": [
   {
-   "k": "Biohacking",
-   "since": "2023",
-   "text": "biohack.it and the Hacking Biology Foundation: open infrastructure that turns individual self-experimentation into comparable human data — protocols, standard-coded biomarkers, results in the open.",
+   "k": "Open-source hacktivism",
+   "since": "1997",
+   "now": false,
+   "text": "From the Italian hacker scene — the BFi e-zine, Italian Linux documentation, Sikurezza.org, Hackmeeting, End Summer Camp — to a simple rule kept ever since: what he builds ships as free software. ZORG, OSXCrypt, Tor2web, GlobaLeaks, OpenPUDO, biohack.it.",
    "links": [
     [
-     "biohack.it",
-     "https://biohack.it"
+     "GitHub",
+     "https://github.com/fpietrosanti"
     ],
     [
-     "Hacking Biology",
-     "https://github.com/hackingbiology"
+     "End Summer Camp",
+     "https://www.endsummercamp.org"
+    ]
+   ]
+  },
+  {
+   "k": "Cybersecurity",
+   "since": "2001",
+   "now": false,
+   "text": "The profession: security operations and threat analysis at I.NET, counter-intelligence and security research at Telecom Italia, published advisories, the Italian Black Hats, then ten years of mobile voice encryption at PrivateWave — two international patents — and, ever since, security work in the open: the VLC HTTPS campaign, TLS and Tor tickets.",
+   "links": [
+    [
+     "Patents",
+     "#patents"
+    ],
+    [
+     "Archive",
+     "#archive"
     ]
    ]
   },
   {
    "k": "Digital rights",
    "since": "2010",
+   "now": true,
    "text": "Hermes Center and GlobaLeaks: whistleblowing and anonymity technology used by newsrooms, NGOs and public bodies, plus the advocacy around it — surveillance, state trojans, biometrics, public-sector privacy.",
    "links": [
     [
@@ -563,6 +581,7 @@
   {
    "k": "National security",
    "since": "2018",
+   "now": true,
    "text": "Measuring the digital dependencies of a country instead of debating them: the Kaspersky risk matrix, the OSSCI proposal for an observatory on the national cyber perimeter, and mxmap.it on who really runs the infrastructure of Italian public administration.",
    "links": [
     [
@@ -576,6 +595,22 @@
     [
      "mxmap.it",
      "https://mxmap.it"
+    ]
+   ]
+  },
+  {
+   "k": "Biohacking",
+   "since": "2023",
+   "now": true,
+   "text": "biohack.it and the Hacking Biology Foundation: open infrastructure that turns individual self-experimentation into comparable human data — protocols, standard-coded biomarkers, results in the open.",
+   "links": [
+    [
+     "biohack.it",
+     "https://biohack.it"
+    ],
+    [
+     "Hacking Biology",
+     "https://github.com/hackingbiology"
     ]
    ]
   }
@@ -672,5 +707,6 @@
  "artifacts_title": [
   "From the archive",
   "Title slides of his own talks, 2002–2010 — the full decks are in the archive."
- ]
+ ],
+ "focus_badge": "focus now"
 }
