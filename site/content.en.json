@@ -2,8 +2,8 @@
  "_about": "Hand-written English content of the homepage. LinkedIn-owned fields (headline, About, experience) are NOT here: they are read from data/linkedin/en.json so the site cannot drift from the LinkedIn master. Everything marked draft needs Fabio's approval before publication.",
  "lang": "en",
  "meta": {
-  "title": "Fabio Pietrosanti (naif) — hacker, entrepreneur, digital-rights builder",
-  "description": "Fabio \"naif\" Pietrosanti: thirty years of information security, whistleblowing technology (GlobaLeaks, Hermes Center), voice encryption, e-voting, digital rights, logistics, algorithmic finance and biohacking. Complete archive of talks, press and writing since 1998."
+  "title": "Fabio Pietrosanti — naif · 石风翱 — hacker, entrepreneur, innovator",
+  "description": "Fabio \"naif\" Pietrosanti (石风翱): hacker since 1995, then entrepreneur and innovator. Today biohacking, digital rights and national security. Thirty years of talks, press, research and open-source work, with sources and local copies."
  },
  "nav": [
   [
@@ -13,6 +13,10 @@
   [
    "story",
    "Story"
+  ],
+  [
+   "focus",
+   "Now"
   ],
   [
    "work",
@@ -28,7 +32,7 @@
   ],
   [
    "archive",
-   "Talks & press"
+   "Archive"
   ],
   [
    "communities",
@@ -36,7 +40,7 @@
   ],
   [
    "past",
-   "Past sites"
+   "Past"
   ],
   [
    "contact",
@@ -112,6 +116,14 @@
   "truth": [
    "Truth and accountability",
    "Investigative journalism, whistleblowing and the habit of checking what power says — with the receipts."
+  ],
+  "focus": [
+   "What I work on now",
+   "Three fronts, same method: open tools, published evidence, verifiable claims."
+  ],
+  "artifacts": [
+   "From the archive",
+   "Title slides of his own talks, 2002–2010 — the full decks are in the archive."
   ]
  },
  "story": [
@@ -499,5 +511,166 @@
   "items": "Items",
   "years": "Years",
   "what": "What it covers"
- }
+ },
+ "identity": {
+  "first": "Fabio",
+  "last": "Pietrosanti",
+  "nick": "naif",
+  "zh": "石风翱",
+  "zh_note": "Shí Fēng'áo",
+  "roles": [
+   "Hacker",
+   "Entrepreneur",
+   "Innovator"
+  ],
+  "role_note": "Hacker first — the rest came out of it."
+ },
+ "focus_now_title": [
+  "What I work on now",
+  "Three fronts, same method: open tools, published evidence, verifiable claims."
+ ],
+ "focus_now": [
+  {
+   "k": "Biohacking",
+   "since": "2023",
+   "text": "biohack.it and the Hacking Biology Foundation: open infrastructure that turns individual self-experimentation into comparable human data — protocols, standard-coded biomarkers, results in the open.",
+   "links": [
+    [
+     "biohack.it",
+     "https://biohack.it"
+    ],
+    [
+     "Hacking Biology",
+     "https://github.com/hackingbiology"
+    ]
+   ]
+  },
+  {
+   "k": "Digital rights",
+   "since": "2010",
+   "text": "Hermes Center and GlobaLeaks: whistleblowing and anonymity technology used by newsrooms, NGOs and public bodies, plus the advocacy around it — surveillance, state trojans, biometrics, public-sector privacy.",
+   "links": [
+    [
+     "Hermes Center",
+     "https://www.hermescenter.org"
+    ],
+    [
+     "GlobaLeaks",
+     "https://www.globaleaks.org"
+    ]
+   ]
+  },
+  {
+   "k": "National security",
+   "since": "2018",
+   "text": "Measuring the digital dependencies of a country instead of debating them: the Kaspersky risk matrix, the OSSCI proposal for an observatory on the national cyber perimeter, and mxmap.it on who really runs the infrastructure of Italian public administration.",
+   "links": [
+    [
+     "Kaspersky risks",
+     "https://github.com/fpietrosanti/kaspersky-risks"
+    ],
+    [
+     "OSSCI",
+     "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano"
+    ],
+    [
+     "mxmap.it",
+     "https://mxmap.it"
+    ]
+   ]
+  }
+ ],
+ "evidence_title": [
+  "How it works, four times",
+  "Same four steps every time: a claim, a check anyone can repeat, the evidence published, an outcome."
+ ],
+ "evidence_steps": [
+  "Claim",
+  "Check",
+  "Published",
+  "Outcome"
+ ],
+ "evidence": [
+  {
+   "year": "2010",
+   "case": "SecurStar / PhoneCrypt",
+   "steps": [
+    "An “independent” review scored 12 of 15 voice-encryption products as broken.",
+    "Domains, servers and writing style traced the site back to one of the vendors.",
+    "Five posts with the technical evidence on infosecurity.ch.",
+    "Picked up by The Register and CSO; the “independent researcher” disappeared."
+   ],
+   "link": [
+    "The evidence",
+    "https://web.archive.org/web/2012/http://infosecurity.ch/20100201/evidence-that-infosecurityguard-com-notrax-is-securstar-gmbh-phonecrypt-a-fake-independent-research-on-voice-crypto/"
+   ]
+  },
+  {
+   "year": "2018–2022",
+   "case": "Kaspersky in the Italian public sector",
+   "steps": [
+    "Antivirus from a Russian vendor was installed across ministries and police forces.",
+    "A public risk matrix of what that vendor could do if coerced by its government.",
+    "Repository and interviews, in 2018 and again in 2022.",
+    "Euronews, then national coverage during the war; the issue reached government decisions."
+   ],
+   "link": [
+    "Risk matrix",
+    "https://github.com/fpietrosanti/kaspersky-risks"
+   ]
+  },
+  {
+   "year": "2020",
+   "case": "Rousseau and Casaleggio Associati",
+   "steps": [
+    "A private company ran the voting platform of an Italian political party.",
+    "Registered twice and voted twice, documenting every step.",
+    "The method, the documents and the expulsion papers, published in full.",
+    "Covered by Wired; the platform's integrity claims could no longer be repeated."
+   ],
+   "link": [
+    "How I voted twice",
+    "https://hermescenter.github.io/crvd.org-preservation/come-sono-riuscito-a-votare-due-volte-su-rousseau/"
+   ]
+  },
+  {
+   "year": "2022",
+   "case": "Monitora PA",
+   "steps": [
+    "Thousands of public websites sent citizens' data to Google by default.",
+    "Automated scans of public administrations, with the legal reasoning attached.",
+    "Notices to the administrations and to the data-protection authority, all public.",
+    "Thousands of public sites removed Google Analytics; the authority ruled on it."
+   ],
+   "link": [
+    "Monitora PA",
+    "https://monitora-pa.it"
+   ]
+  }
+ ],
+ "quotes_title": "Said about him",
+ "quotes": [
+  {
+   "t": "il noto hacker Fabio Naif",
+   "who": "Rai 1, Codice",
+   "when": "27 June 2025",
+   "url": "https://www.raiplay.it/"
+  },
+  {
+   "t": "hacker etico e cyberdefender professionista",
+   "who": "StartupItalia, on the CyberChallenge.IT award ceremony",
+   "when": "10 July 2018",
+   "url": "https://startupitalia.eu/"
+  },
+  {
+   "t": "una battaglia tra sviluppatori francesi e hacker italiani",
+   "who": "Motherboard Italia (VICE), on the VLC campaign",
+   "when": "4 July 2017",
+   "url": "https://www.vice.com/it/article/vlc-vulnerabile-man-in-the-middle-malware-diatriba-sviluppatori-hacker/"
+  }
+ ],
+ "artifacts_title": [
+  "From the archive",
+  "Title slides of his own talks, 2002–2010 — the full decks are in the archive."
+ ]
 }

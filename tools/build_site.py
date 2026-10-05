@@ -184,6 +184,36 @@ def build(lang="en"):
                 % (esc(c["truth_table"]["strand"]), esc(c["truth_table"]["items"]), esc(c["truth_table"]["years"]),
                    esc(c["truth_table"]["what"]), "".join(strands)))
              + f'<p class="note">{esc(c.get("truth_strands_note", ""))}</p>') if strands else ""
+    # focus / evidence / quotes / artifacts
+    ident = c["identity"]
+    focus = "".join(
+        f'<article class="foc"><div class="fk">{esc(x["k"])}<span>since {esc(x["since"])}</span></div>'
+        f'<p>{esc(x["text"])}</p><div class="plinks">'
+        + " ".join(f'<a href="{esc(u)}" rel="noopener">{esc(n)}</a>' for n, u in x["links"]) + "</div></article>"
+        for x in c.get("focus_now", []))
+    steps = c.get("evidence_steps", [])
+    evidence = "".join(
+        f'<article class="ev"><header><span class="evy">{esc(x["year"])}</span><h4>{esc(x["case"])}</h4></header><ol>'
+        + "".join(f'<li><b>{esc(steps[n] if n < len(steps) else "")}</b><span>{esc(t)}</span></li>'
+                  for n, t in enumerate(x["steps"]))
+        + f'</ol><a class="evl" href="{esc(x["link"][1])}" rel="noopener">{esc(x["link"][0])} →</a></article>'
+        for x in c.get("evidence", []))
+    quotes = "".join(
+        f'<figure class="q"><blockquote>“{esc(x["t"])}”</blockquote>'
+        f'<figcaption>{esc(x["who"])} · {esc(x["when"])}</figcaption></figure>' for x in c.get("quotes", []))
+    arts = []
+    hosted = load(ROOT / "site/copies.json") if (ROOT / "site/copies.json").exists() else {}
+    by_url = {i["url"]: i for i in load(ROOT / "data/media.json")}
+    for u, path in hosted.items():
+        cover = Path(path).parent / "slides" / "slide-001.jpg"
+        if (ROOT / cover).exists() and u in by_url:
+            it = by_url[u]
+            arts.append((it.get("year") or 0, it.get("title") or "", str(cover).replace("\\", "/"),
+                         str(Path(path).parent / "slides" / "slides.pdf").replace("\\", "/"), it["url"]))
+    artifacts = "".join(
+        f'<a class="art" href="{esc(src)}" rel="noopener"><img loading="lazy" src="{esc(img)}" alt="">' 
+        f'<span class="ay">{y}</span><span class="at">{esc(t)}</span></a>'
+        for y, t, img, pdf, src in sorted(arts))
     comm = "".join(f'<div class="comm"><h4>{esc(n)}</h4><p>{esc(t)}</p></div>' for n, t in c["communities"])
     past = "".join(f'<li><a href="{esc(u)}">{esc(n)}</a></li>' for n, u in c["past_sites"])
     nav = "".join(f'<a href="#{k}">{esc(v)}</a>' for k, v in c["nav"])
@@ -207,12 +237,19 @@ def build(lang="en"):
         "KICKER": esc(c["hero"]["kicker"]), "FIRST": esc(intro["first_name"]), "LAST": esc(intro["last_name"]),
         "AKA": esc(c["hero"]["aka"]), "HEADLINE": esc(intro["headline"]), "HERO_LINKS": hero_links, "STATS": stats_html,
         "H_ABOUT": head("about", 1), "ABOUT": about, "H_STORY": head("story", 2), "STORY": "".join(story),
-        "H_WORK": head("work", 3), "EXP": "".join(exp), "PATENTS": pat_html, "H_PROJECTS": head("projects", 4), "PROJECTS": proj_html,
-        "H_ARCHIVE": head("archive", 6), "SEARCH": esc(ui["search"]), "CATS": cat_btns, "HIST": hist,
-        "H_TRUTH": head("truth", 5), "TRUTH": truth, "TAGS": json.dumps(
+        "H_WORK": head("work", 4), "EXP": "".join(exp), "PATENTS": pat_html, "H_PROJECTS": head("projects", 5), "PROJECTS": proj_html,
+        "H_ARCHIVE": head("archive", 7), "SEARCH": esc(ui["search"]), "CATS": cat_btns, "HIST": hist,
+        "NICK": esc(ident["nick"]), "ZH": esc(ident["zh"]), "ZHNOTE": esc(ident["zh_note"]),
+        "ROLES": "".join(f'<span{" class=\"first\"" if n == 0 else ""}>{esc(r)}</span>'
+                         for n, r in enumerate(ident["roles"])),
+        "ROLENOTE": esc(ident["role_note"]),
+        "H_FOCUS": head("focus", 3), "FOCUS": focus, "QUOTES": quotes,
+        "EVIDENCE": evidence, "EVTITLE": esc(c["evidence_title"][0]), "EVSUB": esc(c["evidence_title"][1]),
+        "H_ARTIFACTS": head("artifacts", 10), "ARTIFACTS": artifacts,
+        "H_TRUTH": head("truth", 6), "TRUTH": truth, "TAGS": json.dumps(
             {k: v["label_en"] for k, v in tagdefs.items() if not k.startswith("_")}, ensure_ascii=False),
-        "H_COMM": head("communities", 7), "COMM": comm, "H_PAST": head("past", 8), "PAST": past,
-        "H_CONTACT": head("contact", 9), "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
+        "H_COMM": head("communities", 8), "COMM": comm, "H_PAST": head("past", 9), "PAST": past,
+        "H_CONTACT": head("contact", 11), "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
         "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
     }.items():
         page = page.replace("{{" + k + "}}", v)
