@@ -10,8 +10,9 @@ dove manca il dato è scritto «pagina non nota».
 - **22 libri** (più edizioni e copie della stessa opera raggruppate in una sola voce), dal 2001 al 2025.
 - **Lingue:** inglese 12, italiano 9 (uno con edizione inglese), polacco 1; una voce ha anche l'edizione spagnola.
 - **Ruolo:** 2 intervistato (Greenberg, Fowler), 4 citato con sue parole (di cui 2 raccolte di ritagli
-  Giangrande), 7 menzionato, 4 citato in bibliografia (sempre l'articolo con Stefano Aterno sui trojan di Stato,
-  Boing Boing 2017), 3 ringraziamenti, 2 contributore.
+  Giangrande), 5 menzionato, 4 citato in bibliografia (sempre l'articolo con Stefano Aterno sui trojan di Stato,
+  Boing Boing 2017), 4 ringraziamenti, 2 contributore (tra cui il tuo capitolo nel *Software libero in Italia*),
+  1 profilo in appendice (Albrecht).
 - **Temi principali:** GlobaLeaks e le piattaforme di whistleblowing (Greenberg, Fowler, Webb, Di Salvo ×2,
   Polityka, Smarter Crowdsourcing); la proposta di legge sui trojan di Stato (Springer, IGI Global ×3); la scena
   hacker italiana (Profilo hacker, Destini Hacker, LDR, Il software libero in Italia); M5S/Rousseau e Open Rousseau
@@ -30,18 +31,22 @@ applicata al mondo dell'hacking*** (Apogeo); edizione inglese *Profiling Hackers
 persone della scena hacker e della sicurezza italiana. Pagina dell'edizione italiana non nota (Google Books non la
 indicizza). Ringraziamenti.
 
-**2008 - Andrea Glorioso (a cura di), *Il software libero in Italia*** (Shake Edizioni, collana Cyberpunkline),
-pagina non nota. Fabio "naif" Pietrosanti è tra gli autori dei contributi, con Ciurcina, Davoli, Jaromil, Piana,
-Rozza e altri; secondo le note il suo testo riguarda la sicurezza. Il capitolo non è stato letto. Contributore.
+**2009 - Andrea Glorioso (a cura di), *Il software libero in Italia*** (Shake Edizioni, collana Cyberpunkline, CC BY-NC-ND;
+stampato a ottobre 2009), cap. 12, pp. 126-138. Il capitolo **«Il FLOSS nella sicurezza informatica»** è suo: il
+software aperto è più sicuro di quello chiuso (backdoor nascoste in FrontPage98 e Cisco, revisione tra pari, finestre
+di esposizione, il suo bug di BIND segnalato su Bugtraq nel 2000 e corretto in un giorno), crittografia aperta
+(principio di Kerckhoffs, AES), passaporti elettronici e voto elettronico, e una mappa della scena italiana (s0ftpj,
+Antifork, Blackhats.it, Metro Olografix, Sikurezza.org, OWASP, ISECOM, Winston Smith, ntop, Ettercap). Citato anche
+nell'introduzione (p. 7) e con la sua biografia (p. 158). PDF completo nell'archivio. Contributore (autore del capitolo).
 
 **2012 - Andy Greenberg, *This Machine Kills Secrets*** (Dutton/Penguin), pp. 318-19. Nel capitolo sugli eredi di
 WikiLeaks presenta lui e Arturo Filastò come cofondatori di GlobaLeaks, che vuole essere il «BitTorrent» rispetto al
 «Napster» WikiLeaks. Lo descrive come un ingegnere della sicurezza trentenne e riporta il suo obiettivo: passare da
 una cinquantina di cloni di WikiLeaks a centinaia o migliaia di «leak nodes». Intervistato.
 
-**2013 - Lele Rozza, Alessio Pennasilico, *Destini Hacker - Attacco al sistema*** (Blonk), pagina non nota
-(ebook). Il nome compare in un elenco di figure della sicurezza italiana (Agostini, Perri, Flora, Ziccardi,
-Giustozzi, Mele...), probabilmente nei ringraziamenti. Menzionato.
+**2013 - Lele Rozza, Alessio Pennasilico, *Destini Hacker - Attacco al sistema*** (Blonk, solo ebook; anche in
+inglese, *The hackers' destiny*). Il suo nome è nei **ringraziamenti**, tra Igor Falcomatà e Yvette Agostini, in
+entrambe le edizioni. Nessun numero di pagina stampato. Ringraziamenti.
 
 **2016 - *Polityka*, annata 2016** (Wydawnictwo Prasowe Polityka), p. 7. Annata rilegata del settimanale polacco,
 non un libro vero e proprio. Un articolo spiega che GlobaLeaks è stata creata dagli hacker italiani Fabio
@@ -59,13 +64,16 @@ sviluppato GlobaLeaks. È citato su due punti: in un settore verticale si voglio
 pertinenti, e far arrivare le segnalazioni a più attori (una ONG e un ufficio pubblico) aumenta fiducia e
 accountability. Citato.
 
-**2019 - Jacopo Iacoboni, *L'esecuzione. 5 Stelle da movimento a governo*** (Laterza), pagina non nota (ebook,
-posizione PT147). Parlando della piattaforma Rousseau lo elenca tra gli esperti informatici critici (con Andrea
-Stroppa e Paolo Attivissimo) e osserva che sono rarissimi gli esperti che sostengano il contrario. Menzionato.
+**2019 - Jacopo Iacoboni, *L'esecuzione. 5 Stelle da movimento a governo*** (Laterza), ebook posizione PT147 (pagina
+cartacea non nota). Dopo il giudizio di Stefano Zanero sulla piattaforma Rousseau elenca gli esperti informatici
+critici: Matteo Flora, Fabrizio Carimati, Stefano Fratepietro, **Fabio Pietrosanti**, Andrea Stroppa e Paolo
+Attivissimo, e osserva che sono rarissimi gli esperti che sostengano il contrario. Menzionato.
 
-**2020 - Maureen Webb, *Coding Democracy*** (MIT Press), pp. 115 e 221. Lo nomina come uno dei fondatori
-dell'Hermes Center con Matteo Flora e altri. In un altro passo racconta di una persona che ha trovato GlobaLeaks il
-più facile da usare e ha lavorato a stretto contatto con lui e con il collega Giovanni. Menzionato.
+**2020 - Maureen Webb, *Coding Democracy*** (MIT Press), pp. 115, 120 e 221. Ti nomina tra i fondatori dell'Hermes
+Center (p. 115, con Matteo Flora e altri; di nuovo a p. 120, pagina assente dall'indice). Alle pp. 220-222, nella
+sezione su **Maddish** (Maddalena Falzoni, collettivo Xnet di Barcellona), racconta che lei trovò GlobaLeaks lo
+strumento più facile e lavorò a stretto contatto con te e con il collega Giovanni (solo nome; probabilmente
+Pellerano). Menzionato.
 
 **2020 - Andrew Fowler, *Shooting the Messenger: Criminalising Journalism*** (Routledge), p. 103. Fowler lo ha
 incontrato in una piazza di Roma e lo presenta come l'ideatore di GlobaLeaks. Secondo il libro l'ha creato per
@@ -114,27 +122,36 @@ stato presentato all'End Summer Camp 2011. Menzionato.
 criptovalute*** (Wolters Kluwer Italia), p. 61. Riporta una sua dichiarazione, come presidente e cofondatore del
 Centro Hermes, sulle frontiere della profilazione comportamentale degli utenti rese possibili dall'IA. Citato.
 
-**2025 - Eduardo Albrecht, *Political Automation*** (Oxford University Press), p. 227. Contiene un profilo a lui
-dedicato («Fabio Pietrosanti - Hermes Center»): dalle prime esperienze da hacker all'imprenditoria, nella sicurezza
-dal 2000, cofondatore dell'Hermes Center. Il formato fa pensare a un esperto intervistato per il libro, ma non è
-confermato. Menzionato (profilo).
+**2025 - Eduardo Albrecht, *Political Automation*** (Oxford University Press), p. 227. Nell'**appendice I**
+(«Further Reading by Scholars», pp. 212-256), una raccolta di profili di esperti, c'è una scheda a te dedicata
+(«Fabio Pietrosanti - Hermes Center»): dalle prime esperienze da hacker all'imprenditoria, nella sicurezza dal 2000,
+cofondatore dell'Hermes Center. **Non** sei tra gli intervistati del libro (capitoli 2, 4, 6, 8, 10). Profilo.
 
 **2025 - Bruce L. Mann, *Modern Internet Regulations and Laws in Educational Technology*** (IGI Global), pp. 21,
 46, 54 e 365. Nuova edizione del lavoro di Mann: cita ancora l'articolo Pietrosanti-Aterno 2017, nel testo e in più
 bibliografie di capitolo. Citato in bibliografia.
 
-## Candidati non verificati / libri da controllare su copia fisica
+## Controlli del 2026-10-05 e cosa resta
 
-- ***Profilo hacker*** (Apogeo 2007), edizione italiana: manca il numero di pagina dei ringraziamenti.
-- **Carola Frediani, *Deep Web* e *Inside Anonymous* / *Dentro Anonymous***: non ricercabili su Google Books.
-- **Arturo Di Corinto, *Un dizionario hacker*** e ***Riprendiamoci la rete***: non ricercabili.
-- ***#Cryptomania*** e ***Guerra profonda*** (2026): non ricercabili.
-- **Giovanni Ziccardi, *Aggiustare il mondo. La vita, il processo e l'eredità dell'hacker Aaron Swartz*** (2022,
-  non verificato): parla di Tor2web e del Centro Hermes ma, nel testo IA, non lo nomina. Solo un riferimento
-  indiretto.
-- **Copernicani, *Libro Bianco della partecipazione politica digitale*** (2018): lui era tra i relatori alla
-  presentazione romana; non sappiamo se compaia nel libro.
-- **5 opere su GlobaLeaks non lette** (da `RICERCA-MEDIA-PIANO.md`), tra cui *The Dark Net Rises*.
-- **Escluse di proposito:** la voce di enciclopedia 360百科 su GlobaLeaks (non verificata, non è un libro); il
-  manuale di Jaro Mail 3.2 (2015, ringraziamenti), che è documentazione software; report Tor/DTIC, riviste (Hacker
-  Journal, Win Magazine, PC Professionale, Bloomberg Businessweek) e tesi, che non sono libri.
+**Confermati / corretti:** *Il software libero in Italia* (capitolo tuo, anno 2009); *Destini Hacker* (ringraziamenti);
+Iacoboni (nome completo, elenco esperti); Albrecht (profilo in appendice, non intervista); Webb (anche p. 120; la
+persona è Maddish di Xnet).
+
+**Negativi (letti, il tuo nome non c'è):** Copernicani, *Libro Bianco* 2018 (testo integrale dal sito); Ziccardi,
+*Aggiustare il mondo* (testo open access: Tor2web e Hermes sì, tu no); Frediani, *Guerre di Rete* e *#Cybercrime*;
+Di Corinto, *I nemici della rete* e *Revolution OS II*; Ben Collier, *Tor* (con il capitolo «The Dark Net Rises»);
+tesi NOVA Lisbona 2018 su PTLeaks; Habbabeh et al., PoEM/IFIP 2020; recensione di Fischer a Di Salvo (2021);
+Bazzichelli, *Whistleblowing for Change*; *Beyond WikiLeaks*; *Mapping Crisis*; *Open Biohacking* (2025).
+**Nessun libro nuovo** trovato (Google Books, Open Library, Internet Archive).
+
+**Restano non verificabili online (serve la copia cartacea o l'ebook):**
+- *Profilo hacker* (Apogeo 2007): solo il numero di pagina dei ringraziamenti nell'edizione italiana (la menzione
+  è confermata nell'edizione inglese).
+- Carola Frediani, *Deep Web* (2014) e *Dentro Anonymous* (2012; ed. inglese *Inside Anonymous*, 2013).
+- Arturo Di Corinto, *Un dizionario hacker* (Manni 2014), *Riprendiamoci la rete* (Eurilink 2019),
+  *#Cryptomania* (con Luca Poma, Hoepli 2022), *Guerra profonda* (Luiss University Press, 2026).
+- Iacoboni: numero di pagina dell'edizione cartacea.
+- Paper IEEE TSSA 2017 su GlobaLeaks (a pagamento).
+
+**Escluse di proposito:** la voce di enciclopedia 360百科 su GlobaLeaks (non verificata, non è un libro); il manuale
+di Jaro Mail 3.2 (2015, ringraziamenti), che è documentazione software; report Tor/DTIC, riviste e tesi.

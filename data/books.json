@@ -35,15 +35,15 @@
  },
  {
   "key": "software-libero-in-italia",
-  "year": 2008,
+  "year": 2009,
   "authors": "Andrea Glorioso (a cura di)",
   "title": "Il software libero in Italia",
   "publisher": "Shake Edizioni (collana Cyberpunkline)",
   "language": "it",
-  "pages": null,
+  "pages": "ch. 12, pp. 126-138",
   "how": "contributor",
-  "summary_it": "Volume collettivo sul software libero in Italia: Fabio \"naif\" Pietrosanti è tra gli autori dei contributi (con Ciurcina, Davoli, Jaromil, Piana, Rozza e altri); secondo le note il suo contributo riguarda la sicurezza. Testo del capitolo non consultato.",
-  "summary_en": "Edited volume on free software in Italy: Fabio \"naif\" Pietrosanti is one of the contributors (with Ciurcina, Davoli, Jaromil, Piana, Rozza and others); according to the notes his piece is on security. Chapter text not seen.",
+  "summary_it": "Volume collettivo in licenza CC: il capitolo 12, «Il FLOSS nella sicurezza informatica», è suo. Sostiene che il software aperto sia più sicuro di quello chiuso (backdoor nascoste, revisione tra pari, finestre di esposizione, il suo bug di BIND del 2000 corretto in un giorno), parla di crittografia aperta, passaporti elettronici e voto elettronico, e chiude con una mappa della scena italiana (s0ftpj, Antifork, Blackhats.it, Metro Olografix, Sikurezza.org, Winston Smith…).",
+  "summary_en": "CC-licensed collective volume: chapter 12, \"Il FLOSS nella sicurezza informatica\", is his. He argues that open-source software is more secure than closed (hidden backdoors, peer review, exposure windows, his own BIND bug of 2000 fixed within a day), covers open cryptography, e-passports and e-voting, and ends with a map of the Italian scene (s0ftpj, Antifork, Blackhats.it, Metro Olografix, Sikurezza.org, Winston Smith…).",
   "urls": [
    "http://www.shake.it/index.php?id=51&productID=541",
    "https://shake.it/libri/il-software-libero-in-italia/"
@@ -75,10 +75,10 @@
   "title": "Destini Hacker - Attacco al sistema",
   "publisher": "Blonk",
   "language": "it",
-  "pages": null,
-  "how": "mentioned",
-  "summary_it": "Il nome compare in un elenco di figure della sicurezza informatica italiana (con Yvette Agostini, Pierluigi Perri, Matteo Flora, Giovanni Ziccardi, Corrado Giustozzi, Stefano Mele...), probabilmente nei ringraziamenti; l'ebook non dà il numero di pagina a stampa.",
-  "summary_en": "His name appears in a list of Italian information-security figures (with Yvette Agostini, Pierluigi Perri, Matteo Flora, Giovanni Ziccardi, Corrado Giustozzi, Stefano Mele...), probably in the acknowledgements; the ebook gives no printed page number.",
+  "pages": "acknowledgements (ebook)",
+  "how": "acknowledged",
+  "summary_it": "Romanzo-ebook sulla sicurezza informatica: il suo nome compare nei ringraziamenti, tra Igor Falcomatà e Yvette Agostini, sia nell'edizione italiana sia in quella inglese (The hackers' destiny). Solo ebook, nessun numero di pagina stampato.",
+  "summary_en": "Ebook novel on information security: his name is in the acknowledgements, between Igor Falcomatà and Yvette Agostini, in both the Italian and the English edition (The hackers' destiny). Ebook only, no printed page number.",
   "urls": [
    "https://books.google.com/books?id=5XJsAwAAQBAJ"
   ],
@@ -141,80 +141,14 @@
   "title": "L'esecuzione. 5 Stelle da movimento a governo",
   "publisher": "Laterza",
   "language": "it",
-  "pages": null,
+  "pages": "ebook loc. PT147",
   "how": "mentioned",
-  "summary_it": "Parlando della piattaforma Rousseau, Iacoboni lo elenca tra gli esperti informatici critici (con Andrea Stroppa e Paolo Attivissimo) e osserva che sono rarissimi gli esperti che sostengano il contrario. Ebook senza numero di pagina a stampa.",
-  "summary_en": "Discussing the Rousseau platform, Iacoboni lists him among the critical IT experts (with Andrea Stroppa and Paolo Attivissimo) and notes that experts saying otherwise are extremely rare. Ebook, no printed page number.",
+  "summary_it": "Parlando della piattaforma Rousseau, dopo il giudizio di Stefano Zanero, elenca gli esperti informatici critici: Matteo Flora, Fabrizio Carimati, Stefano Fratepietro, Fabio Pietrosanti, Andrea Stroppa e Paolo Attivissimo, e osserva che sono rarissimi gli esperti che sostengano il contrario. Pagina dell'edizione cartacea non nota.",
+  "summary_en": "Discussing the Rousseau platform, after Stefano Zanero's verdict, he lists the critical IT experts: Matteo Flora, Fabrizio Carimati, Stefano Fratepietro, Fabio Pietrosanti, Andrea Stroppa and Paolo Attivissimo, noting that experts saying otherwise are extremely rare. Print page number unknown.",
   "urls": [
    "https://books.google.com/books?id=rO2ODwAAQBAJ"
   ],
   "topic": "Rousseau / M5S"
- },
- {
-  "key": "coding-democracy",
-  "year": 2020,
-  "authors": "Maureen Webb",
-  "title": "Coding Democracy: How Hackers Are Disrupting Power, Surveillance, and Authoritarianism",
-  "publisher": "MIT Press",
-  "language": "en",
-  "pages": "pp. 115, 221",
-  "how": "mentioned",
-  "summary_it": "Lo nomina come uno dei fondatori dell'Hermes Center insieme a Matteo Flora e ad altri; in un altro passo racconta di una persona che, trovando GlobaLeaks il più facile da usare, ha lavorato a stretto contatto con lui e con il collega Giovanni.",
-  "summary_en": "She names him as one of the Hermes Center founders with Matteo Flora and others; in another passage she tells of someone who, finding GlobaLeaks the easiest tool, worked closely with him and his colleague Giovanni.",
-  "urls": [
-   "https://archive.org/details/codingdemocracyh0000webb"
-  ],
-  "topic": "Hermes Center / GlobaLeaks"
- },
- {
-  "key": "shooting-the-messenger",
-  "year": 2020,
-  "authors": "Andrew Fowler",
-  "title": "Shooting the Messenger: Criminalising Journalism",
-  "publisher": "Routledge",
-  "language": "en",
-  "pages": "p. 103",
-  "how": "interviewed",
-  "summary_it": "Fowler lo ha incontrato in una piazza di Roma: lo presenta come l'ideatore di GlobaLeaks, creato per superare i limiti di WikiLeaks (sistema centralizzato, quasi solo in inglese) e la sicurezza fragile di altri sistemi, e nota che nel 2010 non poteva immaginare quanto l'anti-sorveglianza sarebbe diventata cruciale per i giornalisti.",
-  "summary_en": "Fowler met him in a square in Rome: he presents him as the man who conceived GlobaLeaks, built to overcome WikiLeaks' limits (centralised, mostly English-only) and the weak security of other systems, and notes that in 2010 he could not have known how vital anti-surveillance would become for journalists.",
-  "urls": [
-   "https://archive.org/details/shootingmessenge0000fowl"
-  ],
-  "topic": "GlobaLeaks"
- },
- {
-  "key": "digital-whistleblowing-platforms",
-  "year": 2020,
-  "authors": "Philip Di Salvo",
-  "title": "Digital Whistleblowing Platforms in Journalism: Encrypting Leaks",
-  "publisher": "Palgrave Macmillan (Springer Nature)",
-  "language": "en",
-  "pages": "pp. v, 73, 186; cap. 5 nota 1",
-  "how": "acknowledged",
-  "summary_it": "Nei ringraziamenti Di Salvo indica Fabio 'Naif' Pietrosanti e il Centro Hermes tra chi è stato decisivo per la ricerca; a p. 73 lo cita (con Filastò) come principale sviluppatore di GlobaLeaks, e nel cap. 5 usa come fonte le sue slide del Nexa Center, con dati verificati con un membro di Hermes.",
-  "summary_en": "In the acknowledgements Di Salvo names Fabio 'Naif' Pietrosanti and the Hermes Center as crucial to the research; on p. 73 he names him (with Filastò) as a main GlobaLeaks coder, and chapter 5 uses his Nexa Center slides as a source, with data cross-checked with a Hermes member.",
-  "urls": [
-   "https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1",
-   "https://link.springer.com/chapter/10.1007/978-3-030-38505-7_5"
-  ],
-  "topic": "whistleblowing platforms"
- },
- {
-  "key": "ethics-of-cybersecurity",
-  "year": 2020,
-  "authors": "Markus Christen, Bert Gordijn, Michele Loi (a cura di); cap. 10 di Eva Schlehahn",
-  "title": "The Ethics of Cybersecurity (cap. 10: Cybersecurity and the State)",
-  "publisher": "Springer (open access)",
-  "language": "en",
-  "pages": "pp. 215, 225",
-  "how": "cited (bibliography)",
-  "summary_it": "Il capitolo sullo Stato come possibile attaccante informatico cita l'articolo di Pietrosanti e Aterno su Boing Boing (2017) sulla proposta di legge italiana per regolare l'hacking di Stato, come esempio di Paesi UE che ammettono tecnologie di sorveglianza intrusiva.",
-  "summary_en": "The chapter on the state as a potential cyber-attacker cites Pietrosanti and Aterno's 2017 Boing Boing piece on Italy's proposed law to regulate government hacking, as an example of EU states allowing intrusive surveillance technologies.",
-  "urls": [
-   "https://link.springer.com/chapter/10.1007/978-3-030-29053-5_10",
-   "https://archive.org/details/oapen-20.500.12657-47324/page/n225"
-  ],
-  "topic": "government hacking / trojan law"
  },
  {
   "key": "giangrande-anno-2020-partiti",
@@ -245,6 +179,72 @@
   "summary_en": "Cites Pietrosanti and Aterno's 2017 Boing Boing article on Italy's proposal to regulate government trojans and takes up its principles, such as safe removal of the trojan after an investigation and traceability of its use.",
   "urls": [
    "https://books.google.com/books?id=gkThDwAAQBAJ"
+  ],
+  "topic": "government hacking / trojan law"
+ },
+ {
+  "key": "coding-democracy",
+  "year": 2020,
+  "authors": "Maureen Webb",
+  "title": "Coding Democracy: How Hackers Are Disrupting Power, Surveillance, and Authoritarianism",
+  "publisher": "MIT Press",
+  "language": "en",
+  "pages": "pp. 115, 120, 221",
+  "how": "mentioned",
+  "summary_it": "Lo nomina tra i fondatori dell'Hermes Center (p. 115, con Matteo Flora e altri; di nuovo a p. 120, assente dall'indice). Alle pp. 220-222, nella sezione su Maddish (Maddalena Falzoni, collettivo Xnet di Barcellona), racconta che lei trovò GlobaLeaks lo strumento più facile e lavorò a stretto contatto con lui e con il collega Giovanni.",
+  "summary_en": "Names him among the Hermes Center founders (p. 115, with Matteo Flora and others; again on p. 120, missing from the index). On pp. 220-222, in the section on Maddish (Maddalena Falzoni of the Barcelona collective Xnet), she tells how Maddish found GlobaLeaks the easiest tool and worked closely with him and his colleague Giovanni.",
+  "urls": [
+   "https://archive.org/details/codingdemocracyh0000webb"
+  ],
+  "topic": "Hermes Center / GlobaLeaks"
+ },
+ {
+  "key": "digital-whistleblowing-platforms",
+  "year": 2020,
+  "authors": "Philip Di Salvo",
+  "title": "Digital Whistleblowing Platforms in Journalism: Encrypting Leaks",
+  "publisher": "Palgrave Macmillan (Springer Nature)",
+  "language": "en",
+  "pages": "pp. v, 73, 186; cap. 5 nota 1",
+  "how": "acknowledged",
+  "summary_it": "Nei ringraziamenti Di Salvo indica Fabio 'Naif' Pietrosanti e il Centro Hermes tra chi è stato decisivo per la ricerca; a p. 73 lo cita (con Filastò) come principale sviluppatore di GlobaLeaks, e nel cap. 5 usa come fonte le sue slide del Nexa Center, con dati verificati con un membro di Hermes.",
+  "summary_en": "In the acknowledgements Di Salvo names Fabio 'Naif' Pietrosanti and the Hermes Center as crucial to the research; on p. 73 he names him (with Filastò) as a main GlobaLeaks coder, and chapter 5 uses his Nexa Center slides as a source, with data cross-checked with a Hermes member.",
+  "urls": [
+   "https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1",
+   "https://link.springer.com/chapter/10.1007/978-3-030-38505-7_5"
+  ],
+  "topic": "whistleblowing platforms"
+ },
+ {
+  "key": "shooting-the-messenger",
+  "year": 2020,
+  "authors": "Andrew Fowler",
+  "title": "Shooting the Messenger: Criminalising Journalism",
+  "publisher": "Routledge",
+  "language": "en",
+  "pages": "p. 103",
+  "how": "interviewed",
+  "summary_it": "Fowler lo ha incontrato in una piazza di Roma: lo presenta come l'ideatore di GlobaLeaks, creato per superare i limiti di WikiLeaks (sistema centralizzato, quasi solo in inglese) e la sicurezza fragile di altri sistemi, e nota che nel 2010 non poteva immaginare quanto l'anti-sorveglianza sarebbe diventata cruciale per i giornalisti.",
+  "summary_en": "Fowler met him in a square in Rome: he presents him as the man who conceived GlobaLeaks, built to overcome WikiLeaks' limits (centralised, mostly English-only) and the weak security of other systems, and notes that in 2010 he could not have known how vital anti-surveillance would become for journalists.",
+  "urls": [
+   "https://archive.org/details/shootingmessenge0000fowl"
+  ],
+  "topic": "GlobaLeaks"
+ },
+ {
+  "key": "ethics-of-cybersecurity",
+  "year": 2020,
+  "authors": "Markus Christen, Bert Gordijn, Michele Loi (a cura di); cap. 10 di Eva Schlehahn",
+  "title": "The Ethics of Cybersecurity (cap. 10: Cybersecurity and the State)",
+  "publisher": "Springer (open access)",
+  "language": "en",
+  "pages": "pp. 215, 225",
+  "how": "cited (bibliography)",
+  "summary_it": "Il capitolo sullo Stato come possibile attaccante informatico cita l'articolo di Pietrosanti e Aterno su Boing Boing (2017) sulla proposta di legge italiana per regolare l'hacking di Stato, come esempio di Paesi UE che ammettono tecnologie di sorveglianza intrusiva.",
+  "summary_en": "The chapter on the state as a potential cyber-attacker cites Pietrosanti and Aterno's 2017 Boing Boing piece on Italy's proposed law to regulate government hacking, as an example of EU states allowing intrusive surveillance technologies.",
+  "urls": [
+   "https://link.springer.com/chapter/10.1007/978-3-030-29053-5_10",
+   "https://archive.org/details/oapen-20.500.12657-47324/page/n225"
   ],
   "topic": "government hacking / trojan law"
  },
@@ -329,22 +329,6 @@
   "topic": "AI profiling"
  },
  {
-  "key": "political-automation",
-  "year": 2025,
-  "authors": "Eduardo Albrecht",
-  "title": "Political Automation: An Introduction to AI in Government and Its Impact on Citizens",
-  "publisher": "Oxford University Press",
-  "language": "en",
-  "pages": "p. 227",
-  "how": "mentioned",
-  "summary_it": "Contiene un profilo a lui dedicato («Fabio Pietrosanti - Hermes Center»): dalle prime esperienze da hacker all'imprenditoria, nella sicurezza informatica dal 2000, cofondatore dell'Hermes Center. Il formato fa pensare a un esperto intervistato per il libro, ma non è confermato.",
-  "summary_en": "Includes a profile of him (\"Fabio Pietrosanti - Hermes Center\"): from early hacking to entrepreneurship, in cybersecurity since 2000, co-founder of the Hermes Center. The format suggests he was an expert interviewed for the book, but this is not confirmed.",
-  "urls": [
-   "https://books.google.com/books?id=xRREEQAAQBAJ"
-  ],
-  "topic": "AI in government"
- },
- {
   "key": "mann-modern-internet-regulations",
   "year": 2025,
   "authors": "Bruce L. Mann",
@@ -359,5 +343,21 @@
    "https://books.google.com/books?id=Wwl-EQAAQBAJ"
   ],
   "topic": "government hacking / trojan law"
+ },
+ {
+  "key": "political-automation",
+  "year": 2025,
+  "authors": "Eduardo Albrecht",
+  "title": "Political Automation: An Introduction to AI in Government and Its Impact on Citizens",
+  "publisher": "Oxford University Press",
+  "language": "en",
+  "pages": "p. 227",
+  "how": "profile",
+  "summary_it": "Nell'appendice I («Further Reading by Scholars», pp. 212-256), che raccoglie profili di esperti, c'è una scheda a lui dedicata (p. 227, «Fabio Pietrosanti - Hermes Center»): dalle prime esperienze da hacker all'imprenditoria, nella sicurezza dal 2000, cofondatore dell'Hermes Center. Non è tra gli intervistati del libro.",
+  "summary_en": "Appendix I (\"Further Reading by Scholars\", pp. 212-256), a set of expert profiles, includes one on him (p. 227, \"Fabio Pietrosanti - Hermes Center\"): from early hacking to entrepreneurship, in cybersecurity since 2000, co-founder of the Hermes Center. He is not among the book's interviewees.",
+  "urls": [
+   "https://books.google.com/books?id=xRREEQAAQBAJ"
+  ],
+  "topic": "AI in government"
  }
 ]
