@@ -1181,6 +1181,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1, inUse), tabs_context ok, ma navigate verso la ricerca site:diritto24.ilsole24ore.com fallisce di nuovo con 'Claude in Chrome is not connected' (2 tentativi, batch e singolo); dopo la riconnessione l'ID scheda cambia (tab group ricreato). Secondo run consecutivo con lo stesso guasto. Scheda chiusa. Nessun candidato: verify/merge/archive non eseguiti. Coda invariata. Prossimo blocco: diritto24.ilsole24ore.com, ipsoa.it, forumpa.it, anticorruzione.it, camera.it, senato.it, europarl.europa.eu, theguardian.com. Serve Fabio: Chrome in primo piano / estensione Claude in Chrome riattivata."
+  },
+  {
+   "date": "2026-10-06 09:58",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1, inUse), tabs_context e tabs_create ok, ma navigate verso la ricerca site:diritto24.ilsole24ore.com fallisce ancora con 'Claude in Chrome is not connected' / 'extension disconnected mid-operation' (2 tentativi, batch e singolo); dopo la riconnessione gli ID scheda cambiano (gruppo ricreato). Terzo run consecutivo con lo stesso guasto. Schede chiuse. Nessun candidato: verify/merge/archive non eseguiti. Coda invariata. Prossimo blocco: diritto24.ilsole24ore.com, ipsoa.it, forumpa.it, anticorruzione.it, camera.it, senato.it, europarl.europa.eu, theguardian.com. Serve Fabio: portare Chrome in primo piano / riattivare l'estensione Claude in Chrome."
   }
  ]
 }
