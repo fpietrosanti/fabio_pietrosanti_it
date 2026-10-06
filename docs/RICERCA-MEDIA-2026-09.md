@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1264**; dopo deduplica: **906**
+- Risultati grezzi dalle ricerche: **1265**; dopo deduplica: **907**
 - Già presenti sul vecchio sito: **33** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 873**
-- Verificati aprendo la pagina: **845**; solo da risultato di ricerca: **61**
+- **Nuovi rispetto al vecchio sito: 874**
+- Verificati aprendo la pagina: **846**; solo da risultato di ricerca: **61**
 
-Per tipo (nuovi): Menzionato 145, tweet 132, Post sul blog infosecurity.ch 71, Talk 68, Video 62, Citato 47, Progetto 33, Ricerca 31, Radio 27, Altro 26, article 25, Libro 22, social 21, Articolo scritto 20, Report 17, documento 13, Comunicato 13, Slide 12, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, institutional 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1
+Per tipo (nuovi): Menzionato 145, tweet 132, Post sul blog infosecurity.ch 72, Talk 68, Video 62, Citato 47, Progetto 33, Ricerca 31, Radio 27, Altro 26, article 25, Libro 22, social 21, Articolo scritto 20, Report 17, documento 13, Comunicato 13, Slide 12, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, institutional 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1
 
 ### Copertura per anno
 
@@ -44,11 +44,11 @@ Per tipo (nuovi): Menzionato 145, tweet 132, Post sul blog infosecurity.ch 71, T
 | 2023 | 0 | 11 | 11 |
 | 2024 | 0 | 7 | 7 |
 | 2025 | 0 | 8 | 8 |
-| 2026 | 0 | 30 | 30 |
+| 2026 | 0 | 31 | 31 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 30 voci, 30 nuove
+## 2026 — 31 voci, 31 nuove
 
 - 🆕 **2026-09-22** · Video · NetEase 网易 (时光派 account) — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾](https://c.m.163.com/news/v/VG6GUA7FN.html)  
   CONTRADICTS the 2026-09-30 exclusion in decisions.json. Downloaded in full (m3u8 from www.163.com/v/video/VG6GUA7FN.html, 1080x1920, 2:35) and checked 155 frames: the 生物极客闭门论坛 segment (1:09-1:12) shows other speakers and audience, not Fabio, as the earlier run said. BUT at 1:33.7-1:34.8 the 永生之夜 dinner B-roll reuses the shot from BV1X9YR68ETj: Fabio seated at a table in the white linen shirt with the red lanyard, under the caption 科学家 医生 企业家 / 投资人与生物极客. Not named. Proof frame: C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_VG6GUA7FN_t0094.jpg. The decisions.json note says Bilibili BV1Rwh76XEhj is the same video (not re-downloaded here). The exclusion needs Fabio's review. Checked 2026-10-01.
@@ -60,6 +60,8 @@ Anni senza nessun risultato: nessuno
   Permanent Baijiahao copy (posted 2026-09-18 10:10, 上海) of TimePie's 12 Sept day-1 WeChat report (the WeChat original is known only via Sogou placeholder links and is no longer surfaced by Sogou). Text: '下午，论坛另设了生物极客闭门论坛，出席嘉宾包括：国际长寿峰会联合创始人Jose Cordeiro、资深生物极客Dave Pascoe、开源抗衰数据平台开发者Fabio Pietrosanti、抗衰疗法探索者Brian M. Delaney以及多位优秀极客。' Closed-forum photos (7, directly after that sentence; baidu CDN, append the page's @f_auto?token=... for full URLs): https://pics0.baidu.com/feed/1e30e924b899a901af3192e3f0ec5b690308f568.jpeg https://pics1.baidu.com/feed/4bed2e738bd4b31c6e804ac16aaf766d9f2ff89d.jpeg https://pics1.baidu.com/feed/023b5bb5c9ea15ce342fcda25b796be13887b2e7.jpeg https://pics1.baidu.com/feed/562c11dfa9ec8a139a06917a1a7ac09da1ecc09d.jpeg https://pics7.baidu.com/feed/37d12f2eb9389b5018043a9b684cb4cfe5116e88.jpeg https://pics6.baidu.com/feed/7e3e6709c93d70cf9cfe464a16a58012bba12bf9.jpeg https://pics0.baidu.com/feed/38dbb6fd5266d016fbf006de7a52851537fa35e3.jpeg . Verified 2026-09-29 (page fetched, name present). Found via Baidu.
 - 🆕 **2026-09-18** · article · OrlandoMagazine.it — [L'utilità è il futuro. E il futuro è biohacking](https://www.orlandomagazine.it/2026/09/18/lutilita-e-il-futuro-e-il-futuro-e-biohacking/)  
   Michele Pastore, reportage dal TimePie Longevity Forum di Shanghai: «Sul palco Fabio Pietrosanti, biohacking famoso in Italia, ha parlato del suo metodo innovativo di biohacking» (con Linda J. Kenney, Mechanobiologics). Pagina aperta e verificata il 2026-09-29.
+- 🆕 **2026-09-17** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [infosecurity.ch restored](https://infosecurity.ch/20260917/infosecurity-ch-restored/)  
+  Post announcing the restoration of the blog (2007-2017 archive back online at its original URLs).
 - 🆕 **2026-09-16** · Progetto · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch)  
   Old blog of infosecurity.ch (restoration)
 - 🆕 **2026-09-14** · Video · Bilibili (时光派官方) — [Riepilogo TimePie 2026 (stesso video di NetEase VG6GUA7FN)](https://www.bilibili.com/video/BV1Rwh76XEhj/)  

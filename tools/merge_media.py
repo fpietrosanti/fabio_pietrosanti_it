@@ -254,6 +254,14 @@ def main():
             for i in items:
                 if norm_url(i.get("url")) == norm_url(o["url"]):
                     i.update(o["set"])
+    live_path = ROOT / "data/live_urls.json"
+    if live_path.exists():
+        live = json.load(io.open(live_path, encoding="utf-8"))["urls"]
+        byu = {norm_url(k): v for k, v in live.items()}
+        for i in items:
+            u = byu.get(norm_url(i.get("url")))
+            if u:
+                i["live_url"] = u
     tag_path = ROOT / "data/tags.json"
     if tag_path.exists():
         tags = json.load(io.open(tag_path, encoding="utf-8"))
