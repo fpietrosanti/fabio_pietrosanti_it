@@ -9692,23 +9692,25 @@
   "_slices": [
    "pass4_foggia_2019_2026-10-06"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-06: era una lezione all'Università di Foggia, invitato da Stefano Aterno (corso di Sicurezza informatica, LM Scienze giuridiche della sicurezza).",
   "on_old_site": false
  },
  {
   "date": "2019-12-05",
   "year": 2019,
-  "type": "slides",
-  "outlet": "Google Slides",
-  "title": "Slide Foggia (deleted deck)",
+  "type": "talk",
+  "outlet": "Università di Foggia (lezione nel corso di Stefano Aterno)",
+  "title": "Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck cancellato)",
   "url": "https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0",
   "language": "it",
   "role": "speaker",
   "note": "URL taken verbatim from the deleted tweet's Wayback capture. Now HTTP 410 (deleted), no Wayback/CDX capture, not found in the Drive accessible to this session. Content unknown; only Fabio's own Drive trash/Takeout (fabio@infosecurity.ch or hermescenter.org account) could recover it.",
-  "verified": false,
+  "verified": true,
   "known": false,
   "_slices": [
    "pass4_foggia_2019_2026-10-06"
   ],
+  "note_fabio": "Risposta di Fabio 2026-10-06: era una lezione all'Università di Foggia, invitato da Stefano Aterno (corso di Sicurezza informatica, LM Scienze giuridiche della sicurezza). Il deck Google Slides è cancellato (410) e mai archiviato.",
   "on_old_site": false
  },
  {

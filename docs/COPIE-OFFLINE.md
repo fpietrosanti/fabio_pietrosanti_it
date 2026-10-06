@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **906**; già processate: **1059**; ancora da processare: **0**
-- Licenza delle copie ottenute: **222** materiale proprio (ripubblicabile), **735** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **865**
+- Voci in `data/media.json`: **907**; già processate: **1060**; ancora da processare: **0**
+- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **735** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **866**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **93**
@@ -50,7 +50,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 31 | 0 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -254,7 +254,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
   URLError
 - ❌ **2019** · Google Slides — [Slide Foggia (deleted deck)](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: propria  
-  2026-10-06: deck «Slide Foggia» (05/12/2019) cancellato: Google risponde HTTP 410; nessuna capture nel Web Archive (CDX vuoto). Recuperabile solo da Fabio (cestino Drive / Google Takeout dell'account infosecurity.ch o hermescenter.org).
+  2026-10-06: deck «Slide Foggia» (05/12/2019) cancellato: Google risponde HTTP 410; nessuna capture nel Web Archive (CDX vuoto). Recuperabile solo da Fabio (cestino Drive / Google Takeout dell'account infosecurity.ch o hermescenter.org). Fabio (06/10): lezione all'Università di Foggia su invito di Stefano Aterno.
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
   URLError
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
@@ -1231,6 +1231,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit) · copia: `2026/e62995fc4c6e` (live) · licenza: propria
 - **2026** · GitHub mxmap-it — [mxmap.it #22 «Fingerprint security gateway by the presence of HTTPS website on the MX»](https://github.com/mxmap-it/mxmap.it/issues/22) · copia: `2026/3b7d6c7121ed` (api) · licenza: propria
 - **2026** · GlobaLeaks — [People | GlobaLeaks](https://globaleaks.org/about/people/) · copia: `2026/a2dd5929df8c` (live) · licenza: propria
+- **2026** · infosecurity.ch (blog) — [infosecurity.ch restored](https://infosecurity.ch/20260917/infosecurity-ch-restored/) · copia: `2026/1e4e1d2ffca9` (live) · licenza: propria
 - **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) · copia: `2026/a243d02057e1` (Web Archive 20260618) · licenza: propria
 - **2026** · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0) · copia: `2026/9a1df4eb5776` (live) · licenza: terzi
 - **2026** · WeChat — 时光派 (official) — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 | 第七届国际长寿论坛整体回顾](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91%E8%80%85) · copia: `2026/99f125583bcf` (live) · licenza: terzi

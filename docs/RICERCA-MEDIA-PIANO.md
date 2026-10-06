@@ -306,10 +306,12 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   nessuna copertura stampa luglio–ottobre 2017; nessun suo tweet sul tema; la stampa 2019 su OpenWhistleblowing (Il Fatto,
   Dire, DigitalPA, Tor blog, Publika…) non lo nomina. Trovato solo l'**URL originale 2017** della lettera di Cantone sul
   vecchio portale ANAC → aggiunto come mirror. Non verificati: techeconomy2030.it 19/10/2020 (403), neicomuni.it (morto).
+  Fabio (06/10) non ricorda passaggi TV o radio sulla polemica → **pista chiusa**.
   (b) **«Slide Foggia»**: tweet recuperato dal Web Archive (05/12/2019 12:58, testo «Slide Foggia» + link a Google Slides)
   → verificato; il deck è **cancellato** (410) e mai archiviato. Ipotesi migliore, **non confermata**: lezione ospite nel
   corso di «Sicurezza informatica» di **Stefano Aterno** all'Università di Foggia (LM Scienze giuridiche della sicurezza,
-  I semestre 2019; coautori su Agenda Digitale 04/2019). Nessuna pagina UniFG lo nomina → domanda per Fabio.
+  I semestre 2019; coautori su Agenda Digitale 04/2019). **Confermato da Fabio il 06/10**: lezione all'università su
+  invito di Aterno → il deck è registrato come talk (verificato da Fabio); resta solo il file delle slide (cancellato).
   (c) **FOIA (AG 267, 6-7/04/2016)**: raccolta completa delle memorie (146 pp., OCR) → Hermes non audito né memoria;
   **CAD (AG 307, 18/07/2016)**: video WebTV Camera trascritto per intero → nessun intervento Hermes; **relazione PEGA
   A9-0189/2023** letta (DOCX ufficiale): nessuna occorrenza (l'unico «Hermes» è Hermes Airports, Cipro).

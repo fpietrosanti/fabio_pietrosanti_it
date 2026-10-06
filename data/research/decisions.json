@@ -762,6 +762,23 @@
    "set": {
     "note_fabio": "Risposta di Fabio 2026-10-05: all'audizione Linke del 27/11/2019 al Bundestag non è intervenuto come relatore."
    }
+  },
+  {
+   "url": "https://web.archive.org/web/20191205121549/https://twitter.com/fpietrosanti/status/1202557955666849792",
+   "set": {
+    "note_fabio": "Risposta di Fabio 2026-10-06: era una lezione all'Università di Foggia, invitato da Stefano Aterno (corso di Sicurezza informatica, LM Scienze giuridiche della sicurezza)."
+   }
+  },
+  {
+   "url": "https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0",
+   "set": {
+    "type": "talk",
+    "role": "speaker",
+    "verified": true,
+    "outlet": "Università di Foggia (lezione nel corso di Stefano Aterno)",
+    "title": "Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck cancellato)",
+    "note_fabio": "Risposta di Fabio 2026-10-06: era una lezione all'Università di Foggia, invitato da Stefano Aterno (corso di Sicurezza informatica, LM Scienze giuridiche della sicurezza). Il deck Google Slides è cancellato (410) e mai archiviato."
+   }
   }
  ],
  "open_questions": [
@@ -770,9 +787,7 @@
    "status": "Fabio does not remember; keep searching (Web Archive of radiomontecarlo.net)"
   },
   "2026-09-26 Sky TG24 02/07/2013 'Datagate, il mondo delle spie visto da dentro' (v164249): video scaricato e visto per intero (2'07\"): l'unico intervistato e' Matteo Flora ('Esperto di sicurezza - Fondatore di The Fool'); Fabio non compare, ne' nome ne' voce. La voce veniva solo dalla pagina News/Press di Hermes. Escludere (regola: senza nome non e' lui) o c'era un altro servizio Sky?",
-  "2026-10-02 Pyongyang 2019 / caso Griffith: trovate 12 voci che ti citano (CoinDesk 03/12/2019 intervista, 2600 Off The Hook 04/12/2019 in diretta dall'Italia, MIT Technology Review, AMBCrypto, CoinReaders KR, Substack Taylor Simone 2021, British GQ 2022). Ricordi altre interviste (TV, radio, podcast) su Pyongyang/Griffith, o una testimonianza agli avvocati di Griffith?",
-  "2026-10-06 «Slide Foggia» (tweet del 05/12/2019 con link a Google Slides, deck cancellato): era una lezione nel corso di Sicurezza informatica di Stefano Aterno all'Università di Foggia? Il deck è recuperabile dal cestino Drive o da un Takeout?",
-  "2026-10-06 Appello del Centro Hermes ad ANAC (24/07/2017): nessuna copertura stampa trovata; ricordi interviste o passaggi radio/TV su quella polemica?"
+  "2026-10-02 Pyongyang 2019 / caso Griffith: trovate 12 voci che ti citano (CoinDesk 03/12/2019 intervista, 2600 Off The Hook 04/12/2019 in diretta dall'Italia, MIT Technology Review, AMBCrypto, CoinReaders KR, Substack Taylor Simone 2021, British GQ 2022). Ricordi altre interviste (TV, radio, podcast) su Pyongyang/Griffith, o una testimonianza agli avvocati di Griffith?"
  ],
  "answers_2026_10_05": {
   "A0.1 dati personali scuole": "non interessa, va bene così: nessuna richiesta di oscuramento; le copie restano solo nell'archivio privato",
@@ -790,5 +805,9 @@
   "A0.12d Pyongyang altre interviste": "Bloomberg",
   "A0.8d/A0.9b Senato 14/05/2020": "risolto da Claude (browser locale + video WebTV trascritto): per Hermes parlò Vincenzo Tiani, non Fabio",
   "A0.3 pagine senza nome": "«senza nome, non sono io»: escluse tutte le pagine solo-organizzazione e nome-assente non verificate per altra via (le copie restano nell'archivio privato)"
+ },
+ "answers_2026_10_06": {
+  "Foggia 05/12/2019": "lezione all'università, invitato da Aterno → confermata (tweet + deck come talk)",
+  "Appello ANAC 2017": "non ricorda passaggi TV o radio → pista chiusa"
  }
 }

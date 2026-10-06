@@ -141,10 +141,9 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 - **Restano ❌ (motivo invariato):** Radio Monte Carlo 2010 (404, mai archiviato), PrivateWave EN/ES (chiusi da Fabio),
   coinage.it e 2 notizieoggi.com (siti morti, nessuna capture), CyberCoach YouTube (solo pagina); 🟠 Sogou (anti-bot).
 - `archive_copies.py`: aggiunte al controllo del nome le grafie cirillica e cinese (miglioria proposta il 05/10).
-- **Nuove domande per te:** (a) **Foggia, 05/12/2019**: era una lezione nel corso di Stefano Aterno all'Università di
-  Foggia (Scienze giuridiche della sicurezza)? Il deck Google Slides `1Wz006pVki…` è cancellato: se è nel cestino di
-  Drive o in un Google Takeout (account infosecurity.ch o hermescenter.org), lo archivio. (b) **Appello ANAC 2017**:
-  nessun articolo trovato; ricordi interviste o passaggi radio su quella polemica?
+- **Risposte di Fabio (06/10):** (a) Foggia 05/12/2019 = lezione all'Università di Foggia su invito di Stefano Aterno →
+  confermata, voce «talk»; il deck resta ❌ salvo ritrovarlo nel cestino Drive / Takeout. (b) Appello ANAC 2017: nessun
+  passaggio TV/radio ricordato → pista chiusa.
 
 ### B0-nonies. 2026-10-05 (sera)
 - Copie delle 11 voci nuove e delle loro 10 riprese **tutte ottenute** (7 tweet dal Web Archive, ANAC PDF, The Next Web,
