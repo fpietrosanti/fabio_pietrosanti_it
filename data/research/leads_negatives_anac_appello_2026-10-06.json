@@ -1,0 +1,147 @@
+[
+  {
+    "outlet": "Hermes Center (Web Archive)",
+    "url": "https://web.archive.org/web/20170808032941id_/https://www.hermescenter.org/appello-del-centro-hermes-ad-anac-per-la-tecnologia-di-whistleblowing-open-source/",
+    "result": "CONTESTO, non voce: testo originale dell'appello «Appello del Centro Hermes ad ANAC per la Tecnologia di Whistleblowing open-source», «Posted in News at 24.07.2017». Letto integralmente (anche cattura 20210618213045): firmato come Centro Hermes, nessuna occorrenza di 'Pietrosanti' o 'naif'. Contenuto: chiede supporto AgID/Team Digitale/Developers Italia, critica il bando (requisiti SQL Server 2008/RHEL6, nessun modello di sviluppo comunitario open-source), ~130 ore di sviluppo pro-bono, grant OTF $109.166, rischi di sicurezza da fork non aggiornati, CERT-PA. Gia' presente nel progetto hermescenter-restore (archive/appello-del-centro-hermes-ad-anac-...html). Utile come contesto della voce 'lettera Cantone'."
+  },
+  {
+    "outlet": "Google Docs (copia DOC/PDF dell'appello linkata dalla pagina Hermes)",
+    "url": "https://docs.google.com/document/d/1XGYkuF2HlfTXXDZNmrTX9kgMDrgI3dY23u_DvAu8UHs/export?format=pdf",
+    "result": "Live: 410 'file eliminato'. Wayback: solo catture 2022 con stato 410. Nessuna copia recuperabile."
+  },
+  {
+    "outlet": "GlobaLeaks.org - pagina 'ANAC e GlobaLeaks' (timeline linkata dall'appello)",
+    "url": "https://web.archive.org/web/20181020034501id_/https://www.globaleaks.org/it/anticorruzione/anac-e-globaleaks/",
+    "result": "Nessuna cattura 2017 (prime: 2018-10-20 redirect, 2019-01-12). Letta: cronologia ANAC-Hermes 2015-2016 (consultazione, memorandum luglio 2015, workshop pro-bono); nessuna occorrenza di 'Pietrosanti'/'naif'. Contesto."
+  },
+  {
+    "outlet": "Hermes Center - News (Web Archive 2017-10-20)",
+    "url": "https://web.archive.org/web/20171020172002id_/https://www.hermescenter.org/home/news-press/news/",
+    "result": "Nessun post di follow-up sulla risposta di Cantone; post del periodo: appello ANAC, data retention 6 anni, Digital Whistleblowing Fund, riesame accesso MISE."
+  },
+  {
+    "outlet": "ANAC - pagina Whistleblowing (en/-/whistleblowing-1-1)",
+    "url": "https://www.anticorruzione.it/en/-/whistleblowing-1-1",
+    "result": "Linka il PDF della risposta Cantone (gia' in archivio); la pagina in se' non nomina Fabio. Contesto."
+  },
+  {
+    "outlet": "ANAC - comunicato 15/01/2019 OpenWhistleblowing (en/-/whistleblowing-7)",
+    "url": "https://www.anticorruzione.it/en/-/whistleblowing-7",
+    "result": "Nessuna menzione di Hermes/Pietrosanti/appello."
+  },
+  {
+    "outlet": "ANAC - comunicato 19/10/2020 accordo transattivo (en/-/whistleblowing-3) e PDF 'comunicato congiunto ANAC-HERMES CENTER'",
+    "url": "https://www.anticorruzione.it/documents/91439/119589/comunicato+congiunto+ANAC-HERMES+CENTER.pdf/015de9f3-fdc3-f35e-95e6-456cbbe63989?t=1606145966793",
+    "result": "PDF letto: contatti Stefano Fuligni (ANAC) e Avv. Carlo Piana (Hermes); nessuna occorrenza di 'Pietrosanti'. Contesto (controversia AGPL 2020)."
+  },
+  {
+    "outlet": "ANAC vecchio portale - News settembre/ottobre 2017 (CDX)",
+    "url": "anticorruzione.it/portal/public/classic/Comunicazione/News/* 20170920-20171031",
+    "result": "CDX non disponibile ('Temporarily Offline' su query a prefisso, 2 tentativi). Da ritentare: la news del 21/09/2017 che annunciava la risposta; probabile che nomini solo il 'Centro Hermes'."
+  },
+  {
+    "outlet": "Il Fatto Quotidiano - blog di Andrea Lisi (ANORC), 2019-02-04",
+    "url": "https://www.ilfattoquotidiano.it/2019/02/04/corruzione-openwhistleblowing-e-stata-unoccasione-mancata/4944067/",
+    "result": "Cita l'appello del Centro Hermes e linka la risposta Cantone (URL vecchio portale) ma non nomina Pietrosanti/naif. Contesto."
+  },
+  {
+    "outlet": "DIRE.it 2019-02-06 (Lisi, ANORC)",
+    "url": "https://www.dire.it/06-02-2019/292329-anac-lisi-anorc-professioni-openwhistleblowing-ennesimo-corto-circuito/",
+    "result": "Parla di GlobaLeaks e gara 2016; nessun nome."
+  },
+  {
+    "outlet": "News DigitalPA 2019-03-25",
+    "url": "https://news.digitalpa.it/openwhistleblowing-il-mito-della-soluzione-gratuita/",
+    "result": "Nessuna menzione."
+  },
+  {
+    "outlet": "Privacy.it 2018-02-20",
+    "url": "https://privacy.it/2018/02/20/piattaforma-whistleblower-anac/",
+    "result": "Solo 'Centro Hermes'."
+  },
+  {
+    "outlet": "Tor Project blog 2018-02-13",
+    "url": "https://blog.torproject.org/italian-anti-corruption-authority-anac-adopts-onion-services/",
+    "result": "Solo 'Hermes Center'."
+  },
+  {
+    "outlet": "Publika 2019-01-15",
+    "url": "https://www.publika.it/rivista/applicativo-anac-per-il-whistleblowing/",
+    "result": "Nessuna menzione."
+  },
+  {
+    "outlet": "AODV231 - Avv. Alessandra Fezza, 'Whistleblowing e tool ANAC open source' (PDF)",
+    "url": "https://www.aodv231.it/images/atti/2993-10-Whistleblowing%20e%20tool%20ANAC%20open%20source_Fezza.pdf",
+    "result": "PDF 3 pp. letto: nessuna occorrenza di Pietrosanti/Hermes."
+  },
+  {
+    "outlet": "Il Fatto Quotidiano 2018-10-02 (Tom's Hardware per il Fatto), WhistleblowingPA",
+    "url": "https://www.ilfattoquotidiano.it/2018/10/02/whistleblowingpa-dopo-la-legge-arriva-un-sistema-per-denunce-anonime-contro-la-pubblica-amministrazione-corrotta/4663177/",
+    "result": "Solo 'centro Hermes'; nessun nome."
+  },
+  {
+    "outlet": "Medium - olistik, 'Globaleaks a Desio? Sì, per favore.' 2018-02-14",
+    "url": "https://web.archive.org/web/20191111170736id_/https://medium.com/@olistik/globaleaks-a-desio-d67b7db2979",
+    "result": "Live: bot-check (non aggirato); letto via Wayback: nessun nome."
+  },
+  {
+    "outlet": "Sinet Informatica blog 2019-02-14",
+    "url": "https://blog.sinetinformatica.it/2019/02/14/whistleblowing-software-e-anonimato/",
+    "result": "Solo 'Centro Hermes'."
+  },
+  {
+    "outlet": "Strategie Amministrative 2019",
+    "url": "https://www.strategieamministrative.it/dettaglio-news/20191211453-un-applicazione-in-aiuto-al-whistleblowing/",
+    "result": "Nessuna menzione."
+  },
+  {
+    "outlet": "techeconomy2030.it 2020-10-19 'Di Software Libero e rispetto delle licenze per OpenWhistleblowing'",
+    "url": "https://www.techeconomy2030.it/2020/10/19/software-libero/",
+    "result": "WebFetch 403: NON verificato. Lead aperto (controversia AGPL 2020; possibile citazione)."
+  },
+  {
+    "outlet": "neicomuni.it",
+    "url": "http://www.neicomuni.it/anac-pubblicato-in-open-source-il-software-per-la-gestione-delle-segnalazioni-di-illeciti-whistleblowing/",
+    "result": "DNS non risolve: non verificato; probabile ripresa del comunicato ANAC 2019."
+  },
+  {
+    "outlet": "Twitter @fpietrosanti - CDX status* 201707-201710",
+    "url": "https://web.archive.org/cdx/search/cdx?url=twitter.com/fpietrosanti/status*&from=201707&to=201710",
+    "result": "8 catture. Lette quelle con 200: 881900435308761092 (2017-07-03, VLC), 891378426967453696 (2017-07-29, EU account freezes), 893778921744990209 (2017-08-05, biglietto SHA2017), 908737856805449728 (2017-09-15, urllib PyPI): fuori tema, non aggiunte (non risultano in archivio: lead per un pass tweet 2017). Le altre 4 (899390759773843458, 908028819814133767, 915488272054390789, 923057933788897280) senza contenuto in Wayback."
+  },
+  {
+    "outlet": "Twitter @fpietrosanti - timeline Wayback 2017-09-17",
+    "url": "https://web.archive.org/web/20170917230559id_/https://twitter.com/fpietrosanti",
+    "result": "Copre 13-17/09/2017: nessun tweet su ANAC/appello. Altri tweet di Fabio fuori tema: 909486436637913089, 909485134293950464, 909477153938558976, 909377700703477761, 908580266024763392, 885102515800420353."
+  },
+  {
+    "outlet": "Twitter @HermesCenter / @GlobaLeaks - CDX 201707-201712",
+    "url": "twitter.com/hermescenter/status*, twitter.com/globaleaks/status*",
+    "result": "Solo 888413280573825024 (21/07/2017, senza contenuto) e 929279575116468224; nulla di utile (e non conterebbero senza il nome)."
+  },
+  {
+    "outlet": "Radio Radicale - pagina soggetto Fabio Pietrosanti",
+    "url": "https://www.radioradicale.it/soggetti/175095/fabio-pietrosanti",
+    "result": "Unico 2017: e-privacy 23/06/2017 (scheda 512627, gia' in archivio). Nessun intervento su ANAC/appello luglio-ottobre 2017. Tor Vergata 16/02/2018 (533637) gia' in archivio."
+  },
+  {
+    "outlet": "Internet Archive full-text search",
+    "url": "be-api.us.archive.org/fts: '\"Centro Hermes\" ANAC appello'; 'Pietrosanti Cantone whistleblowing'",
+    "result": "Solo rumore (PIAO comunali, omonimo A.G. Pietrosanti)."
+  },
+  {
+    "outlet": "WebSearch (varie)",
+    "url": "Agenda Digitale, Key4biz, CorCom, Punto Informatico, Valigia Blu, ForumPA, Altalex, Il Fatto, Transparency/Riparte il futuro, Openpolis, lavoripubblici, buildnews, legislazionetecnica, entilocali-online, sportelloanticorruzione; frase esatta \"Appello del Centro Hermes\" ANAC",
+    "result": "Nessuna copertura stampa luglio-ottobre 2017 dell'appello trovata; la copertura 2019 del rilascio OpenWhistleblowing riprende il comunicato ANAC senza nomi. wired.it e repubblica.it non interrogabili via WebSearch (dominio bloccato)."
+  },
+  {
+    "outlet": "forum.italia.it (thread 2558, 2734, 17137)",
+    "url": "https://forum.italia.it/t/software-whistleblowing-anticorruzione-di-anac-o-globaleaks-per-legge-179-2017/2558",
+    "result": "Post di forum: non contano come pubblicazioni (regola). 7114 gia' in media.json."
+  },
+  {
+    "outlet": "GitHub globaleaks issues con label OpenWhistleblowing (#786, #1420, #2489)",
+    "url": "https://github.com/globaleaks/GlobaLeaks/issues/2489",
+    "result": "Issue tracker (assimilabile a forum): non aggiunte, non aperte."
+  }
+]

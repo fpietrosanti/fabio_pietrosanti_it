@@ -1,6 +1,6 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-10-05**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-10-06**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
@@ -130,6 +130,21 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-decies. 2026-10-06
+- **Risolti:** techsupportforum.com (ripresa Techworld 01/02/2010, «Fabio Pietrosanti, founder and CTO of … Khamsa»):
+  curl riceveva solo una shell JavaScript; letta nel browser integrato dell'app (nessun CAPTCHA) e salvato il corpo del
+  post → ottenuta. I 3 MP3 Radio 24 (mirror) sono identici byte per byte alle puntate principali, già confermate dalla
+  trascrizione → ottenuti. arXiv 1306.5156 (pagina abstract) → ottenuta: il nome è nel PDF (p.6), già in archivio.
+  4 clip Bilibili TimePie senza di te e la maschera dell'archivio Corriere 2001 → chiuse per decisione (copie conservate).
+- **Nuovo ❌:** deck Google Slides «Slide Foggia» (05/12/2019): cancellato (410), mai archiviato.
+- **Restano ❌ (motivo invariato):** Radio Monte Carlo 2010 (404, mai archiviato), PrivateWave EN/ES (chiusi da Fabio),
+  coinage.it e 2 notizieoggi.com (siti morti, nessuna capture), CyberCoach YouTube (solo pagina); 🟠 Sogou (anti-bot).
+- `archive_copies.py`: aggiunte al controllo del nome le grafie cirillica e cinese (miglioria proposta il 05/10).
+- **Nuove domande per te:** (a) **Foggia, 05/12/2019**: era una lezione nel corso di Stefano Aterno all'Università di
+  Foggia (Scienze giuridiche della sicurezza)? Il deck Google Slides `1Wz006pVki…` è cancellato: se è nel cestino di
+  Drive o in un Google Takeout (account infosecurity.ch o hermescenter.org), lo archivio. (b) **Appello ANAC 2017**:
+  nessun articolo trovato; ricordi interviste o passaggi radio su quella polemica?
 
 ### B0-nonies. 2026-10-05 (sera)
 - Copie delle 11 voci nuove e delle loro 10 riprese **tutte ottenute** (7 tweet dal Web Archive, ANAC PDF, The Next Web,

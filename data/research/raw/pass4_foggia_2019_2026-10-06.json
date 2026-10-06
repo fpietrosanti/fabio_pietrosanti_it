@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2019-12-05",
+  "year": 2019,
+  "type": "tweet",
+  "outlet": "Twitter (@fpietrosanti)",
+  "title": "Slide Foggia",
+  "url": "https://web.archive.org/web/20191205121549/https://twitter.com/fpietrosanti/status/1202557955666849792",
+  "language": "it",
+  "role": "author",
+  "note": "Deleted tweet, read from Wayback capture 20191205121549 (page shows 'Fabio Pietrosanti'). Full text: «Slide Foggia» + link https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0 (data-time 1575547133 = 05/12/2019 12:58 CET). The Google Slides deck now returns HTTP 410 (deleted) and has no Wayback capture. Event not confirmed; best hypothesis: guest lecture in Stefano Aterno's 'Sicurezza informatica' course (LM Scienze Giuridiche della Sicurezza, Università di Foggia, I semestre 2019). Aterno co-wrote with Fabio the Agenda Digitale trojan article (Apr 2019).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-12-05",
+  "year": 2019,
+  "type": "slides",
+  "outlet": "Google Slides",
+  "title": "Slide Foggia (deleted deck)",
+  "url": "https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0",
+  "language": "it",
+  "role": "speaker",
+  "note": "URL taken verbatim from the deleted tweet's Wayback capture. Now HTTP 410 (deleted), no Wayback/CDX capture, not found in the Drive accessible to this session. Content unknown; only Fabio's own Drive trash/Takeout (fabio@infosecurity.ch or hermescenter.org account) could recover it.",
+  "verified": false,
+  "known": false
+ }
+]

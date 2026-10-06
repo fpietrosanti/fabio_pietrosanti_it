@@ -1,0 +1,38 @@
+[
+ {
+  "item": "Repo grep 'foggia' (data/, docs/)",
+  "result": "Only lead: data/research/leads_negatives_pyongyang_tweets_2026-10-05.json (tombstone 1202557955666849792 with Google Slides link) + the open questions in docs/PROBLEMI-APERTI.md and RICERCA-MEDIA-PIANO.md."
+ },
+ {
+  "item": "Wayback capture twitter.com/fpietrosanti/status/1202557955666849792 @20191205121549",
+  "result": "Recovered: «Slide Foggia» + docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0; no further context, no replies captured."
+ },
+ {
+  "item": "Wayback CDX twitter.com/fpietrosanti/status/* 2019-11-20..2019-12-20 (90 URL keys); read all 25 captures 01-10/12/2019",
+  "result": "No other tweet mentions Foggia, UniFG, Aterno or a talk. 03/12: USB Armory Mk II factory trip; 02/12: comment on Report/art. 68 CAD; the rest are retweets (Virgil Griffith, etc.)."
+ },
+ {
+  "item": "Google Slides 1Wz006pVki-... export/txt + Wayback availability/CDX",
+  "result": "HTTP 410 Gone (deleted by owner); no capture."
+ },
+ {
+  "item": "Drive accessibile in sessione (controllo privato)",
+  "result": "Deck non trovato."
+ },
+ {
+  "item": "WebSearch: 'Pietrosanti' Foggia dicembre 2019 convegno; 'Fabio Pietrosanti' Foggia; Foggia 5 dicembre 2019 whistleblowing; Foggia 6/12/2019 innovazione/blockchain/sicurezza; UniFG dicembre 2019 cybersecurity; GlobaLeaks/Centro Hermes Foggia 2019",
+  "result": "No page links Fabio Pietrosanti to Foggia (immediato.net, foggiatoday, comune.foggia.it hits are unrelated events)."
+ },
+ {
+  "item": "Stefano Aterno CV 2022 (stefanoaterno.eu PDF) + sites.google.com/unifg.it/stefano-aterno (home, didattica, comunicazioni, download, collaboratori)",
+  "result": "CV confirms Aterno taught 'Sicurezza informatica' (LM Scienze Giuridiche della Sicurezza, UniFG) in I semestre 2019 and the 'Laboratorio informazioni e sicurezza' (Scienze investigative). No list of guest lecturers, no mention of Pietrosanti. Supports the hypothesis but does not prove it."
+ },
+ {
+  "item": "Wayback giurisprudenza.unifg.it 15/11-15/12/2019: news-ed-eventi, avvisi (p.0 and p.1), calendario-lezioni",
+  "result": "No seminar with Pietrosanti/Aterno/Hermes/whistleblowing; the lesson calendar is a dynamic Cineca UP calendar, not archived."
+ },
+ {
+  "item": "Internet Archive full-text search: 'Pietrosanti Foggia', 'naif Foggia hacker', 'Pietrosanti unifg'",
+  "result": "Only unrelated historical books/newspapers."
+ }
+]

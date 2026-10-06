@@ -1,22 +1,20 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-05 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-06 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **904**; già processate: **1056**; ancora da processare: **0**
-- Licenza delle copie ottenute: **222** materiale proprio (ripubblicabile), **737** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **858**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **8**
+- Voci in `data/media.json`: **906**; già processate: **1059**; ancora da processare: **0**
+- Licenza delle copie ottenute: **222** materiale proprio (ripubblicabile), **735** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **865**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
-- 🗂️ Solo scheda/maschera di ricerca d'archivio: serve la pagina di giornale vera: **1**
-- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **88**
-- 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
+- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **93**
+- 🟠 Solo guscio JavaScript: serve cattura col browser: **1**
 - 🎬 Video/audio scaricato (+ pagina): **90**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
-- ❌ Non ottenuta: **6**
+- ❌ Non ottenuta: **7**
 
 ## Per anno
 
@@ -36,23 +34,23 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2007 | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2008 | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 43 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 2010 | 54 | 2 | 0 | 1 | 0 | 0 | 3 |
+| 2010 | 55 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 27 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 28 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 2013 | 22 | 6 | 1 | 0 | 0 | 0 | 0 |
+| 2013 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 21 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 24 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 65 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 44 | 16 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 74 | 3 | 1 | 0 | 0 | 0 | 1 |
+| 2017 | 66 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 45 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 76 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 158 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 79 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 51 | 7 | 1 | 0 | 0 | 0 | 2 |
+| 2022 | 52 | 7 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 30 | 0 | 4 | 1 | 0 | 0 | 0 |
+| 2026 | 30 | 0 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -61,6 +59,8 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 Da recuperare con altre tecniche (browser, download media, richiesta di salvataggio al Web Archive).
 
+- ⏹️ **2001** · Corriere della Sera (ed. nazionale, p. 2 — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma p](https://archivio.corriere.it/Archivio/interface/landing.html) · licenza: terzi  
+  2026-10-06: Corriere della Sera 26/01/2001 p.25 — «esperto» senza nome, escluso per decisione di Fabio (18/09); la copia resta solo la maschera dell'archivio.
 - ⏹️ **2002** · Apogeonline — [Ethical Hacker's Speech II](https://www.apogeonline.com/articoli/ethical-hackers-speech-ii-associazione-italian-blackhats/) · licenza: terzi  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2002** · Apogeonline — [Smau e Ict Security: i Black Hats tornano a dire la loro](https://www.apogeonline.com/articoli/smau-e-ict-security-i-black-hats-tornano-a-dire-la-loro-raoul-chiesa/) · licenza: terzi  
@@ -237,6 +237,14 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2026** · Bilibili — 时光派官方 — [观点持续刷新！第七届国际长寿论坛下午场精彩内容速递 (afternoon recap, 1'53")](https://www.bilibili.com/video/BV1M7YX67EsD/) · licenza: terzi  
   Fabio 2026-09-25: non compare nel video: escluso
+- ⏹️ **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕](https://www.bilibili.com/video/BV1SJYe6AEXo/) · licenza: terzi  
+  2026-10-06: clip TimePie viste fotogramma per fotogramma il 2026-10-01: Fabio non compare → escluse da media.json; copia conservata.
+- ⏹️ **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [第七届国际长寿论坛今日启幕！前沿观点集中亮相，现场直击](https://www.bilibili.com/video/BV1YtY96bEhr/) · licenza: terzi  
+  2026-10-06: clip TimePie viste fotogramma per fotogramma il 2026-10-01: Fabio non compare → escluse da media.json; copia conservata.
+- ⏹️ **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [长寿领域正在发生什么？科研、医疗、极客、产业齐聚，一镜看遍论坛现场](https://www.bilibili.com/video/BV1e2YX6tEqz/) · licenza: terzi  
+  2026-10-06: clip TimePie viste fotogramma per fotogramma il 2026-10-01: Fabio non compare → escluse da media.json; copia conservata.
+- ⏹️ **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [论坛现场座无虚席！第七届国际长寿论坛火热启幕，这条视频带你速览首日精彩画面](https://www.bilibili.com/video/BV1w8YX6uENN/) · licenza: terzi  
+  2026-10-06: clip TimePie viste fotogramma per fotogramma il 2026-10-01: Fabio non compare → escluse da media.json; copia conservata.
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
   http 404
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
@@ -244,7 +252,9 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
-  Ripresa italiana dell'intervista CoinDesk: sito irraggiungibile (timeout) e nessuna capture nel Web Archive (CDX vuoto, 2026-10-05). Irrilevante per il contenuto: la traduzione italiana ufficiale di CoinDesk (coindesk.com/it/policy/2019/12/03/...) è ora in archivio con copia.
+  URLError
+- ❌ **2019** · Google Slides — [Slide Foggia (deleted deck)](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: propria  
+  2026-10-06: deck «Slide Foggia» (05/12/2019) cancellato: Google risponde HTTP 410; nessuna capture nel Web Archive (CDX vuoto). Recuperabile solo da Fabio (cestino Drive / Google Takeout dell'account infosecurity.ch o hermescenter.org).
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
   URLError
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
@@ -253,28 +263,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🗂️ **2001** · Corriere della Sera (ed. nazionale, p. 2 — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma p](https://archivio.corriere.it/Archivio/interface/landing.html) · licenza: terzi  
-  2026-09-23: la copia e' solo una scheda/maschera di ricerca d'archivio, senza il testo dell'articolo. Serve la pagina di giornale vera (scansione archive.org o capture dell'URL dell'articolo).
-- 🟡 **2013** · arXiv — [Cryptocat: Adopting Accessibility and Ease of Use as Security Properties (Nadim Kobeissi, ](https://arxiv.org/abs/1306.5156) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Voto digitale: rischi e vantaggi - Trasformazione digitale in Italia](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/181102-2024.mp3) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://podcast-radio24.ilsole24ore.com/radio24_audio/2019/190208-2024.mp3) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://podcast-radio24.ilsole24ore.com/radio24_audio/2022/220624-2024.mp3) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [两天思想碰撞，前沿观点集中呈现！第七届国际长寿论坛圆满落幕](https://www.bilibili.com/video/BV1SJYe6AEXo/) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [第七届国际长寿论坛今日启幕！前沿观点集中亮相，现场直击](https://www.bilibili.com/video/BV1YtY96bEhr/) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [长寿领域正在发生什么？科研、医疗、极客、产业齐聚，一镜看遍论坛现场](https://www.bilibili.com/video/BV1e2YX6tEqz/) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [论坛现场座无虚席！第七届国际长寿论坛火热启幕，这条视频带你速览首日精彩画面](https://www.bilibili.com/video/BV1w8YX6uENN/) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
-- 🟠 **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.techsupportforum.com/threads/accusations-fly-over-voice-encryption-hack.457961/) · licenza: terzi  
-  page is a JavaScript shell with almost no text: needs browser capture
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
   page is a JavaScript shell with almost no text: needs browser capture
 
@@ -507,6 +497,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · SlideShare (Security Summit 2010) — [2010: Mobile Security - Intense overview](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3799661/3799661) · copia: `2010/fe3619cfed5a` (Web Archive 20260220) · licenza: propria
 - **2010** · SlideShare (University of Trento Cryptol — [Voice communication security](https://www.slideshare.net/slideshow/voice-communication-security/5059251) · copia: `2010/84d6a5c2b983` (Web Archive 20240625) · licenza: propria
 - **2010** · SlideShare — [Voice securityprotocol review](https://www.slideshare.net/slideshow/voice-securityprotocol-review/5106055) · copia: `2010/d53fe93a58d7` (Web Archive 20240810) · licenza: propria
+- **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.techsupportforum.com/threads/accusations-fly-over-voice-encryption-hack.457961/) · copia: `2010/02c0f33bf344` (browser) · licenza: terzi
 - **2010** · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.co.uk/2010/02/01/voice_crypto_test_row_phreak_out/) · copia: `2010/964ea013cbf0` (Web Archive 20100204) · licenza: terzi
 - **2010** · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.com/2010/02/01/voice_crypto_test_row_phreak_out/) · copia: `2010/f1c45f126d3a` (Web Archive 20200926) · licenza: terzi
 - **2010** · Cellulare Magazine (CMAG) — [PrivateWave di Khamsa contro le intercettazioni](https://www.youtube.com/watch?v=EJVK8nB7yAM) · copia: `2010/c20b180907dd` (live · video locale `media.mp4` (8 MB, da caricare su Drive)) · licenza: terzi
@@ -570,6 +561,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2012** · International Journalism Festival (Perug — [Techniques of dissidence and digital repression](https://www.journalismfestival.com/programme/2012/techniques-of-dissidence-and-digital-repression-2) · copia: `2012/f82e4a29963f` (Web Archive 20130928) · licenza: terzi
 - **2012** · USENIX FOCI '12 — [How the Great Firewall of China is Blocking Tor (Winter, Lindskog)](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf) · copia: `2012/90c06f908516` (Web Archive 20140223) · licenza: terzi
 - **2012** · YouTube / Estrema Mente — [Globaleaks, whistleblowing made in Italy](https://www.youtube.com/watch?v=A8BVIvD_bUk) · copia: `2012/42ddecfca1ab` (live · video locale `media.mp4` (83 MB, da caricare su Drive)) · licenza: terzi
+- **2013** · arXiv — [Cryptocat: Adopting Accessibility and Ease of Use as Security Properties (Nadim Kobeissi, ](https://arxiv.org/abs/1306.5156) · copia: `2013/2b21e79e736a` (Web Archive 20131206) · licenza: terzi
 - **2013** · arXiv — [Cryptocat: Adopting Accessibility and Ease of Use as Security Properties (Nadim Kobeissi, ](https://arxiv.org/pdf/1306.5156) · copia: `2013/54a5bcd599ee` (Web Archive 20240419) · licenza: terzi
 - **2013** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — July, 31st 2013](https://blog.torproject.org/tor-weekly-news-july-31st-2013/) · copia: `2013/acb3104fa036` (Web Archive 20190131) · licenza: terzi
 - **2013** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — October 9th, 2013](https://blog.torproject.org/tor-weekly-news-october-9th-2013/) · copia: `2013/01c0be7c6b03` (Web Archive 20190131) · licenza: terzi
@@ -726,6 +718,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · Hermes Center — [Conservazione indiscriminata dei dati per 6 anni](https://web.archive.org/web/20170803052501/https://www.hermescenter.org/conservazione-indiscriminata-dei-dati-per-6-anni/) · copia: `2017/7f12afb8440a` (Web Archive 20170803) · licenza: propria
 - **2017** · Hermes Center — [Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE](https://web.archive.org/web/20200607012151/https://www.hermescenter.org/sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise/) · copia: `2017/dc4b7ec8dd77` (Web Archive 20200607) · licenza: propria
 - **2017** · DIG Festival 2017 (Riccione) - via Herme — [Il Centro Hermes al DIG Festival per la cybersecurity dei giornalisti (con slide)](https://web.archive.org/web/20200920224518/https://www.hermescenter.org/centro-hermes-dig-festival-cybersecurity-giornalisti-slide/) · copia: `2017/11274bcedab3` (Web Archive 20200920) · licenza: propria
+- **2017** · ANAC - Autorità Nazionale Anticorruzione — [Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes in mer](https://web.archive.org/web/20210226001341id_/http://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Comunicazione/News/20170921/Risposta_appello_Centro_Hermes_new.pdf) · copia: `2017/1ccf470a1fbf` (Web Archive 20210226) · licenza: terzi
 - **2017** · SHA2017 Wiki — [Village:ItalianEmbassy (Italian Hacker Embassy at SHA2017)](https://wiki.sha2017.org/w/Village:ItalianEmbassy) · copia: `2017/519f27acc52b` (Web Archive 20170801) · licenza: propria
 - **2017** · Freedom Not Fear 2017, Brussels (Mundo B — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule) · copia: `2017/e9149d840114` (Web Archive 20180621) · licenza: terzi
 - **2017** · Agenda Digitale — [Articoli di Fabio Pietrosanti (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/) · copia: `2017/264a9bc7d25b` (Web Archive 20200925) · licenza: terzi
@@ -773,6 +766,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/) · copia: `2018/7e2f69f4b97b` (Web Archive 20250811) · licenza: terzi
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180302-2024.mp3) · copia: `2018/c539f62a311d` (live) · licenza: terzi
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Hyperloop, TOR e Industria 4.0 (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180831-2024.mp3) · copia: `2018/82199ad02d66` (live) · licenza: terzi
+- **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Voto digitale: rischi e vantaggi - Trasformazione digitale in Italia](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/181102-2024.mp3) · copia: `2018/645c4c2ae446` (live) · licenza: terzi
 - **2018** · Privacy Camp 2018 / EDPS-Civil Society S — [EDPS-Civil Society Summit 2018](https://privacycamp.eu/2018-edps-civil-society-summit/) · copia: `2018/ab26c076e307` (Web Archive 20180325) · licenza: terzi
 - **2018** · Rai Radio1 (servizio di Paola Guarnieri, — [A Padova il raduno degli hacker. Pietrosanti: "Altro che pirati, siamo i cavalieri del web](https://soundcloud.com/user-873190463/a-padova-il-raduno-degli-hacker-pietrosanti-altro-che-pirati-siamo-i-cavalieri-del-web) · copia: `2018/5392321adb9b` (live) · licenza: terzi
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [Big Brother Awards Italia 2018 - video (ep2018se_20_bba_awards.mp4)](https://urna.winstonsmith.org/materiali/2018/video/ep2018se_20_bba_awards.mp4) · copia: `2018/d0172f56532c` (Web Archive 20180912) · licenza: terzi
@@ -832,6 +826,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [Voto Online? No, grazie, e ti spiego perché…](https://hermescenter.github.io/crvd.org-preservation/voto-online-no-grazie-e-ti-spiego-perche/) · copia: `2019/1c10e6370c44` (live) · licenza: propria
 - **2019** · MOJO Italia - Festival del giornalismo m — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/) · copia: `2019/42c19040bc86` (live) · licenza: terzi
 - **2019** · La Nuova di Venezia (gelocal, ripresa de — [Manovra, il M5S propone soldi per il fantasma del voto elettronico](https://nuovavenezia.gelocal.it/italia-mondo/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928390/amp/) · copia: `2019/15c51d4cd5b7` (Web Archive 20191122) · licenza: terzi
+- **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://podcast-radio24.ilsole24ore.com/radio24_audio/2019/190208-2024.mp3) · copia: `2019/f017b1a89c71` (live) · licenza: terzi
 - **2019** · Think: Digital Futures (Apple Podcasts) — [The Digital Whistleblower](https://podcasts.apple.com/it/podcast/the-digital-whistleblower/id1101575564?i=1000459270397) · copia: `2019/b183792c74df` (live · video locale `media.mp3` (19 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · The Next Web (Hard Fork) — [Ethereum dev to be released pending trial amid claims charges against him are exaggerated](https://thenextweb.com/hardfork/2019/12/03/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency/) · copia: `2019/ac85ae01b0d2` (Web Archive 20191203) · licenza: terzi
 - **2019** · The Next Web (Hard Fork) — [Ethereum dev to be released pending trial amid claims charges against him are exaggerated](https://thenextweb.com/news/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency) · copia: `2019/a4d83b58526f` (Web Archive 20211025) · licenza: terzi
@@ -862,6 +857,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Twitter/X @fpietrosanti — [«North Korea Technologies at IO at #36c3 (hall 2)»](https://twitter.com/fpietrosanti/status/1210586147631587334) · copia: `2019/2baf48892693` (Web Archive 20200107) · licenza: terzi
 - **2019** · Twitter/X @fpietrosanti — [A Kenneth Geers: «What’s the north Korea relationship?»](https://twitter.com/fpietrosanti/status/1211755248534077441) · copia: `2019/bde36106e68f` (Web Archive 20200108) · licenza: terzi
 - **2019** · Dipartimento della Funzione Pubblica - i — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/) · copia: `2019/fed00e4c6d1e` (Web Archive 20190724) · licenza: propria
+- **2019** · Twitter (@fpietrosanti) — [Slide Foggia](https://web.archive.org/web/20191205121549/https://twitter.com/fpietrosanti/status/1202557955666849792) · copia: `2019/8fd321568cca` (Web Archive 20191205) · licenza: terzi
 - **2019** · 2600 Off The Hook (WBAI/2600, Emmanuel G — [Off The Hook, 12/04/19 - Virgil Griffith charged; Fabio Pietrosanti joins from Italy](https://www.2600.com/offthehook/2019/1219.html) · copia: `2019/75b6b75dad29` (Web Archive 20210305) · licenza: terzi
 - **2019** · 2600 Off The Hook — [Off The Hook 2019-12-04 (MP3)](https://www.2600.com/offthehook/mp3files/2019/off_the_hook__20191204.mp3) · copia: `2019/65c1ec38a5c9` (live) · licenza: terzi
 - **2019** · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/) · copia: `2019/b455b7db3090` (Web Archive 20190410) · licenza: propria
@@ -1163,6 +1159,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Monitora PA — [Monitora PA: Speciale Elezioni 2022 - Partito Pirata](https://monitora-pa.it/2022/08/28/replies/PartitoPirata.html) · copia: `2022/71eb491fe388` (Web Archive 20220902) · licenza: propria
 - **2022** · Monitora PA — [Monitora PA: Speciale Elezioni 2022 - Segnalazione al Garante](https://monitora-pa.it/2022/09/13/Speciale_Elezioni_2022_Segnalazione_al_Garante.html) · copia: `2022/0c6ea2aad1e1` (Web Archive 20220913) · licenza: propria
 - **2022** · Ordine degli Ingegneri della Provincia d — [Verbale n. 41 del Consiglio dell'Ordine degli Ingegneri della provincia di Catania (punto ](https://ording.ct.it/wp-content/uploads/2023/11/VERBALE_41_151122.pdf) · copia: `2022/d3f29f290f32` (live) · licenza: terzi
+- **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://podcast-radio24.ilsole24ore.com/radio24_audio/2022/220624-2024.mp3) · copia: `2022/aaaff82b9513` (live) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con ](https://podcasts.apple.com/it/podcast/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole/id1046298895?i=1000580095811) · copia: `2022/175c6a1cdfdc` (live · video locale `media.mp3` (53 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Agenda Digitale — [Il FOIA di MonitoraPA: la risposta dell'Avvocatura al Ministero dell'Istruzione](https://www.agendadigitale.eu/sicurezza/privacy/il-foia-di-monitorapa-la-risposta-dellavvocatura-al-ministero-dellistruzione/) · copia: `2022/327f4401de7b` (Web Archive 20221026) · licenza: terzi
 - **2022** · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/) · copia: `2022/39ed595e0702` (Web Archive 20221027) · licenza: terzi

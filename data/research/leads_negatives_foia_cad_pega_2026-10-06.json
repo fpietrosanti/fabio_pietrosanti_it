@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://web.archive.org/web/20170216010058id_/http://www.senato.it/application/xmanager/projects/leg17/attachments/documento_evento_procedura_commissione/files/000/003/768/AG_267_MEMORIE_fascicolo_unico.pdf",
+  "query": "Atto del Governo n. 267 (decreto FOIA/trasparenza): memorie depositate nelle audizioni informali 6-7 aprile 2016, Commissioni riunite 1a Senato + I Camera",
+  "reason": "NEGATIVO DEFINITIVO. Fascicolo unico ufficiale del Senato (146 pp., scansione, OCR tesseract ita), linkato dalla scheda Senato docnonleg/32050 (capture Wayback 20160719140424). Indice 'MEMORIE DEPOSITATE - Audizione del 7 aprile 2016': Accademia Italiana del Codice di Internet (IAIC), Agorà Digitale, ANORC, Cittadinanzattiva, Consiglio Nazionale Forense, CUP (Ordini e Collegi professionali, con parere Capotosti), Forum PA, Riparte il Futuro, Stati Generali dell'Innovazione; memorie di soggetti non auditi: Transparency International Italia (con allegati studi FOIA Cordis e Mungiu-Pippidi). Audizione 6/4: Garante privacy (Soro). Nessuna occorrenza di Pietrosanti, naif, Hermes, GlobaLeaks nell'intero OCR. Hermes non risulta né audito né depositante."
+ },
+ {
+  "url": "https://web.archive.org/web/20230130185906id_/https://www.senato.it/Leg17/1107?testo_generico=699",
+  "query": "Senato 1a Commissione leg17, elenco audizioni informali (AG 267 e AG 307)",
+  "reason": "Elenco Senato: AG 267 audizioni informali 31/3/2016 (Cantone), 6/4/2016 (Soro), 7/4/2016 ('Presidente della Commissione per l'accesso ai documenti amministrativi e di rappresentanti di enti e associazioni', senza nomi). Nessuna audizione informale sul CAD (AG 307) al Senato. Nessun Hermes/Pietrosanti."
+ },
+ {
+  "url": "https://documenti.camera.it/apps/nuovosito/attigoverno/schedalavori/getSchedaCamera.asp?atto=267&tipoAtto=Atto&leg=17&tab=3&sede=ac",
+  "query": "Camera, scheda AG 267 e AG 307 (iter, testi, esame, attività conoscitiva, dossier)",
+  "reason": "Schede Camera aperte (anche tab 1-4 e 'Attivita conoscitiva' per atto=307). AG 267: audizioni 31/3, 6/4, 7/4 (De Vincenti, Commissione accesso; 'enti e associazioni' senza nomi). AG 307: unica audizione 18/7/2016 (AgID, Conferenza Regioni, sindacati, ordini, enti e associazioni). Nessun elenco nominativo, nessun Hermes/Pietrosanti; pagine camera.it/leg17/682 sono solo shell con widget."
+ },
+ {
+  "url": "https://webtv.camera.it/evento/9796",
+  "query": "Audizione informale 18/07/2016 I Commissione Camera sul CAD (Atto 307): video integrale",
+  "reason": "NEGATIVO DEFINITIVO. Video integrale (AI_20160718_ch7_9796.mp4, 111 min) scaricato sul server e trascritto con faster-whisper (small, it). Intervenuti: Consiglio Nazionale del Notariato, Conferenza delle Regioni, Associazione monitori esterni qualificati, AgID (Tortorelli), CISL (Di Girolamo), sindacato confederale (dott. Bitti, probabilmente UGL: trascrizione incerta), ANORC (ing. Manca), Circolo dei giuristi telematici (Faini), Stati Generali dell'Innovazione (Iacono), Confindustria Digitale (Bucetto, Virga), Altroconsumo (Castronovo), Federconsumatori, dott. Finzi (associazione giovane); deputati Coppola, Toninelli ecc. Il presidente annuncia gli assenti: CNI, Forum PA, ANDIG, Assoprovider, CSI Piemonte (servizi informativi pubblici); nessuna risposta dall'Associazione per il Software Libero. Nessuna occorrenza di Pietrosanti, naif, Hermes, GlobaLeaks. Trascrizione salvata sul server in /tmp/cad_20160718_transcript.txt."
+ },
+ {
+  "url": "https://webtv.camera.it/evento/9230",
+  "query": "WebTV Camera 1-15 aprile 2016 (eventi 9230-9299): ripresa dell'audizione FOIA del 7/4/2016",
+  "reason": "Scansione titoli eventi 9230-9299: nessuna ripresa delle audizioni informali sull'AG 267 (6-7 aprile); l'audizione del 7/4 non risulta trasmessa dalla WebTV Camera."
+ },
+ {
+  "url": "https://www.radioradicale.it/scheda/471597",
+  "query": "Radio Radicale, schede 471560-471720 (6-7 aprile 2016): registrazione audizione FOIA AG 267",
+  "reason": "Scansione titoli: solo Commissione questioni regionali, Scieri, uranio impoverito, Moby Prince, Moro, servizio Descalzi. Nessuna registrazione dell'audizione informale FOIA del 7/4/2016. Nota: le pagine RR contengono 'Valentina Pietrosanti' (giornalista RR, omonima) come curatrice: falso positivo da escludere. Audizione CAD 18/7: non cercata su RR perché il video integrale Camera (evento 9796) è stato trascritto per intero."
+ },
+ {
+  "url": "https://www.carteinregola.it/decreto-trasparenza-le-ragioni-delle-associazioni/",
+  "query": "Partecipanti audizione 7/4/2016 FOIA4Italy",
+  "reason": "Elenca aderenti FOIA4Italy (Forum PA, Cittadinanzattiva, Diritto di Sapere, Riparte il Futuro, Agorà Digitale, Stati Generali dell'Innovazione 'e molte altre'). Nessun Hermes/Pietrosanti. riparteilfuturo.it (articolo sull'audizione) non raggiungibile (HTTP 500/ECONNREFUSED)."
+ },
+ {
+  "url": "https://web.archive.org/web/20230601061634id_/https://www.europarl.europa.eu/doceo/document/A-9-2023-0189_EN.docx",
+  "query": "Relazione PEGA A9-0189/2023 (in 't Veld), testo integrale incl. note a piè di pagina e capitolo Italia",
+  "reason": "NEGATIVO DEFINITIVO. europarl.europa.eu risponde 202 (WAF); scaricata la versione DOCX ufficiale da Wayback (341 KB, testo 377k caratteri + footnotes.xml/endnotes.xml). Zero occorrenze di 'Pietrosanti', 'naif', 'GlobaLeaks'. Unica 'Hermes' = 'Hermes Airports' (Larnaca, caso Dilian/WiSpear, par. 274). Capitolo Italia (parr. 400-402): Prodi nella lista Pegasus Project, Tykelab, RCS Lab, Hacking Team/Memento Labs: nessun riferimento a Hermes Center o a lui. Nessuna missione PEGA in Italia (missioni: Polonia, Israele, Grecia/Cipro, Spagna, Ungheria). Resta valido solo lo studio PE 740.151 già noto."
+ }
+]

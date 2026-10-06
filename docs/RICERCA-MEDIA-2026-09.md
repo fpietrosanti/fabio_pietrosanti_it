@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1261**; dopo deduplica: **904**
+- Risultati grezzi dalle ricerche: **1264**; dopo deduplica: **906**
 - Già presenti sul vecchio sito: **33** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 871**
-- Verificati aprendo la pagina: **844**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 873**
+- Verificati aprendo la pagina: **845**; solo da risultato di ricerca: **61**
 
-Per tipo (nuovi): Menzionato 145, tweet 131, Post sul blog infosecurity.ch 71, Talk 68, Video 62, Citato 47, Progetto 33, Ricerca 31, Radio 27, Altro 26, article 25, Libro 22, social 21, Articolo scritto 20, Report 17, documento 13, Comunicato 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, institutional 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1
+Per tipo (nuovi): Menzionato 145, tweet 132, Post sul blog infosecurity.ch 71, Talk 68, Video 62, Citato 47, Progetto 33, Ricerca 31, Radio 27, Altro 26, article 25, Libro 22, social 21, Articolo scritto 20, Report 17, documento 13, Comunicato 13, Slide 12, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, institutional 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1
 
 ### Copertura per anno
 
@@ -37,7 +37,7 @@ Per tipo (nuovi): Menzionato 145, tweet 131, Post sul blog infosecurity.ch 71, T
 | 2016 | 0 | 21 | 21 |
 | 2017 | 0 | 67 | 67 |
 | 2018 | 0 | 59 | 59 |
-| 2019 | 0 | 57 | 57 |
+| 2019 | 0 | 59 | 59 |
 | 2020 | 0 | 165 | 165 |
 | 2021 | 0 | 86 | 86 |
 | 2022 | 0 | 57 | 57 |
@@ -797,7 +797,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 57 voci, 57 nuove
+## 2019 — 59 voci, 59 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -819,6 +819,10 @@ Anni senza nessun risultato: nessuno
   S1E117 with Peter Fleming (UTS) on digital whistleblowing infrastructure
 - 🆕 **2019-12-07** · tweet · Twitter (@fpietrosanti) — [“The FBI’s case against a famous hacker for allegedly trying to help North Korea use cryptocurrency to evade s…](https://twitter.com/fpietrosanti/status/1203105625267474433)  
   Full text: "“The FBI’s case against a famous hacker for allegedly trying to help North Korea use cryptocurrency to evade sanctions is ridiculous." https://t.co/BEBVvfMMUH" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20191207193237 listed in CDX (Wayback HTML not opened: archive.org bot-flag).
+- 🆕 **2019-12-05** · tweet · Twitter (@fpietrosanti) — [Slide Foggia](https://web.archive.org/web/20191205121549/https://twitter.com/fpietrosanti/status/1202557955666849792)  
+  Deleted tweet, read from Wayback capture 20191205121549 (page shows 'Fabio Pietrosanti'). Full text: «Slide Foggia» + link https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0 (data-time 1575547133 = 05/12/2019 12:58 CET). The Google Slides deck now returns HTTP 410 (deleted) and has no Wayback capture. Event not confirmed; best hypothesis: guest lecture in Stefano Aterno's 'Sicurezza informatica' course (LM Scienze Giuridiche della Sicurezza, Università di Foggia, I semestre 2019). Aterno co-wrote with Fabio the Agenda Digitale trojan article (Apr 2019).
+- 🆕 **2019-12-05** · Slide · Google Slides — [Slide Foggia (deleted deck)](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) _(non verificato)_  
+  URL taken verbatim from the deleted tweet's Wayback capture. Now HTTP 410 (deleted), no Wayback/CDX capture, not found in the Drive accessible to this session. Content unknown; only Fabio's own Drive trash/Takeout (fabio@infosecurity.ch or hermescenter.org account) could recover it.
 - 🆕 **2019-12-05** · article · MIT Technology Review — [A blockchain expert is accused of helping North Korea's leaders. But what would they want from him?](https://www.technologyreview.com/2019/12/05/106/virgil-griffith-north-korea-ethereum/)  
   '(Meanwhile, another attendee, Fabio Pietrosanti, recently told CoinDesk that sanctions were not discussed at the conference.)' Alias URL https://www.technologyreview.com/s/614862/virgil-griffith-north-korea-ethereum/. Verified live 2026-10-02.
 - 🆕 **2019-12-04** · article · 百亿财经 baiyi.com — [朝鲜加密货币活动参与者称制裁议题未被提及](https://www.baiyi.com/news/4c90c1481cc94ea0ae6c844e141b54ce.html)  

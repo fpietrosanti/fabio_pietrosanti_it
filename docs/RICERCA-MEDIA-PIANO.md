@@ -299,11 +299,32 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   4 finestre, Blockworks, The Block, YouTube (sottotitoli VICE e CoinDesk). Fabio il 05/10 ha ricordato solo Bloomberg
   (già gestito). **Residui non aggirabili:** BeInCrypto/CCN (Cloudflare), NK Pro/Bloomberg 2019/WaPo 2021 (paywall),
   tweet mai archiviati.
-- [ ] **Nuove piste emerse il 2026-10-05:** (a) **appello del Centro Hermes ad ANAC del 24/07/2017** sulla gara
-  per il whistleblowing e relativa copertura stampa (la risposta di Cantone del 21/09/2017 è indirizzata «Al Presidente
-  del Centro Hermes Ing. Fabio Pietrosanti», ora in archivio); (b) **«Slide Foggia»** — tweet cancellato del 05/12/2019:
-  probabile talk a Foggia a dicembre 2019 da identificare; (c) audizioni FOIA (Affari costituzionali riunite, 07/04/2016)
-  e CAD (18/07/2016): elenchi generici «enti e associazioni», probabilità bassa; relazione PEGA A9-0189/2023 da leggere.
+- [x] **Nuove piste emerse il 2026-10-05 — fatte il 2026-10-06** (3 agenti: `pass4_mirror_anac_appello_2017`,
+  `pass4_foggia_2019`, `pass4_audizioni_foia_cad_pega`; negativi in `data/research/leads_negatives_{anac_appello,
+  foggia_2019,foia_cad_pega}_2026-10-06.json`) → **+2 voci**, il resto negativo solido.
+  (a) **Appello ANAC 24/07/2017**: il testo (Web Archive 08/08/2017) è firmato solo «Centro Hermes», senza il suo nome;
+  nessuna copertura stampa luglio–ottobre 2017; nessun suo tweet sul tema; la stampa 2019 su OpenWhistleblowing (Il Fatto,
+  Dire, DigitalPA, Tor blog, Publika…) non lo nomina. Trovato solo l'**URL originale 2017** della lettera di Cantone sul
+  vecchio portale ANAC → aggiunto come mirror. Non verificati: techeconomy2030.it 19/10/2020 (403), neicomuni.it (morto).
+  (b) **«Slide Foggia»**: tweet recuperato dal Web Archive (05/12/2019 12:58, testo «Slide Foggia» + link a Google Slides)
+  → verificato; il deck è **cancellato** (410) e mai archiviato. Ipotesi migliore, **non confermata**: lezione ospite nel
+  corso di «Sicurezza informatica» di **Stefano Aterno** all'Università di Foggia (LM Scienze giuridiche della sicurezza,
+  I semestre 2019; coautori su Agenda Digitale 04/2019). Nessuna pagina UniFG lo nomina → domanda per Fabio.
+  (c) **FOIA (AG 267, 6-7/04/2016)**: raccolta completa delle memorie (146 pp., OCR) → Hermes non audito né memoria;
+  **CAD (AG 307, 18/07/2016)**: video WebTV Camera trascritto per intero → nessun intervento Hermes; **relazione PEGA
+  A9-0189/2023** letta (DOCX ufficiale): nessuna occorrenza (l'unico «Hermes» è Hermes Airports, Cipro).
+  Omonima già nota (decisions.json): **Valentina Pietrosanti** (redazione Radio Radicale), falsi positivi su radioradicale.it.
+
+## Note sessione 2026-10-06 (run programmata «ricerca profonda»)
+- **906 voci** in `data/media.json` (+2: tweet «Slide Foggia» 05/12/2019 verificato; deck Google Slides cancellato, non
+  verificabile). Voce lavorata: «Nuove piste emerse il 2026-10-05» (vedi sopra), chiusa.
+- **Chrome di Fabio** ancora «not connected» alla prima navigazione → piattaforme cinesi (Douyin, Weibo, WeChat) ferme.
+- **Copie:** tutte le nuove ottenute tranne il deck (410). Ripulite le 8 «non confermate» e 2 parziali residue (vedi
+  PROBLEMI-APERTI B0-decies). `archive_copies.py` ora riconosce anche le grafie cirillica (Пьетросанти/П’єтросанті) e
+  cinese (皮特罗桑蒂) del nome.
+- **Prossima voce lavorabile:** le prime voci aperte restano bloccate (Chrome, chiavi API, Fabio, TimePie, sito Hermes).
+  Candidata: «Video/audio — ritagliare i convegni non Radio Radicale» (lavoro locale, nessuna ricerca web) oppure una
+  passata generale sui tweet 2017 (gli ID fuori tema raccolti dall'agente ANAC sono in `leads_negatives_anac_appello`).
 
 ## Note sessione 2026-10-05 (run programmata «ricerca profonda», sera)
 - **904 voci** in `data/media.json` (+11: 7 tweet Pyongyang/Griffith, The Next Web 2019, CoinDesk Italiano ×2, lettera

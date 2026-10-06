@@ -35,7 +35,7 @@ UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 DELAY = 1.5
 MEDIA_HOSTS = ("youtube.com", "youtu.be", "vimeo.com", "media.ccc.de", "spreaker.com", "open.spotify.com",
                "podcasts.apple.com", "radioradicale.it", "raiplay.it", "archive.org/details")
-NAME_RE = re.compile(rb"pietrosanti|\bnaif\b|\xe7\x9f\xb3\s?\xe9\xa3\x8e\xe7\xbf\xb1", re.I)  # also 石风翱 in UTF-8
+NAME_RE = re.compile(rb"pietrosanti|\bnaif\b|\xe7\x9f\xb3\s?\xe9\xa3\x8e\xe7\xbf\xb1|\xd1\x82\xd1\x80\xd0\xbe\xd1\x81\xd0\xb0\xd0\xbd\xd1\x82|\xd0\xa2\xd0\xa0\xd0\x9e\xd0\xa1\xd0\x90\xd0\x9d\xd0\xa2|\xe7\xbd\x97\xe6\xa1\x91\xe8\x92\x82", re.I)  # also 石风翱, Cyrillic тросант (Пьетросанти/П’єтросанті), 罗桑蒂 (皮特罗桑蒂) in UTF-8
 WAYBACK_ERROR = re.compile(rb"Wayback Machine has not archived that URL|Hrm\.|This URL has been excluded", re.I)
 
 
