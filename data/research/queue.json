@@ -1197,6 +1197,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1, inUse), tabs_context ok, ma navigate verso la ricerca site:diritto24.ilsole24ore.com fallisce ancora con 'Claude in Chrome is not connected' / 'extension disconnected mid-operation' (2 tentativi, anche con query ridotta). Quarto run consecutivo con lo stesso guasto. Scheda chiusa. Nessun candidato: verify/merge/archive non eseguiti. Coda invariata. Prossimo blocco: diritto24.ilsole24ore.com, ipsoa.it, forumpa.it, anticorruzione.it, camera.it, senato.it, europarl.europa.eu, theguardian.com. Serve Fabio: portare Chrome in primo piano / riattivare l'estensione Claude in Chrome."
+  },
+  {
+   "date": "2026-10-06 12:36",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1, inUse), tabs_context ok; questa volta la navigate verso la ricerca site:diritto24.ilsole24ore.com è riuscita (nessun robot check), ma alla chiamata javascript_tool successiva l'estensione si è disconnessa ('Claude in Chrome is not connected') e list_connected_browsers è tornato vuoto per i 3 tentativi successivi (~5 min). Risultati non estratti: la ricerca diritto24 resta pending. Scheda 1751440172 non chiudibile (estensione assente). Quinto run consecutivo senza ricerche. Nessun candidato: verify/merge/archive non eseguiti. Prossimo blocco invariato: diritto24.ilsole24ore.com, ipsoa.it, forumpa.it, anticorruzione.it, camera.it, senato.it, europarl.europa.eu, theguardian.com. Serve Fabio: estensione Claude in Chrome instabile (service worker che cade) — riavviare Chrome/estensione."
   }
  ]
 }
