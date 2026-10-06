@@ -1,0 +1,43 @@
+[
+ {
+  "url": "https://shared.ipsoa.it/shared/gazzetta-ufficiale/170510/20170510_107.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.senato.it/documenti/repository/relazioni/biblioteca/approfondimenti/fondazione_Basso.pdf",
+  "reason": "not fetched: 202"
+ },
+ {
+  "url": "https://www.senato.it/show-doc?id=1106786&leg=18&tipodoc=Resaula&part=doc_dc-ressten_rs",
+  "reason": "not fetched: 202"
+ },
+ {
+  "url": "https://www.senato.it/service/PDF/PDFServer/DF/426823.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.senato.it/service/PDF/PDFServer/BGT/5925.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.senato.it/service/PDF/PDFServer/DF/358601.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.senato.it/service/PDF/PDFServer/DF/419287.pdf",
+  "reason": "not fetched: 202"
+ },
+ {
+  "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/PEGA/DV/2022/12-05/Study_Pegasus_Legalframework_draft_5December_EN.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ }
+]

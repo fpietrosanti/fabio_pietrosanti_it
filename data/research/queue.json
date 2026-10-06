@@ -416,35 +416,51 @@
   },
   {
    "domain": "diritto24.ilsole24ore.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-06",
+   "found": 0
   },
   {
    "domain": "ipsoa.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-06",
+   "found": 1
   },
   {
    "domain": "forumpa.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-06",
+   "found": 0
   },
   {
    "domain": "anticorruzione.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-06",
+   "found": 0
   },
   {
    "domain": "camera.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-06",
+   "found": 10
   },
   {
    "domain": "senato.it",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-06",
+   "found": 6
   },
   {
    "domain": "europarl.europa.eu",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-06",
+   "found": 2
   },
   {
    "domain": "theguardian.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-06",
+   "found": 0
   },
   {
    "domain": "forbes.com",
@@ -1205,6 +1221,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1, inUse), tabs_context ok; questa volta la navigate verso la ricerca site:diritto24.ilsole24ore.com è riuscita (nessun robot check), ma alla chiamata javascript_tool successiva l'estensione si è disconnessa ('Claude in Chrome is not connected') e list_connected_browsers è tornato vuoto per i 3 tentativi successivi (~5 min). Risultati non estratti: la ricerca diritto24 resta pending. Scheda 1751440172 non chiudibile (estensione assente). Quinto run consecutivo senza ricerche. Nessun candidato: verify/merge/archive non eseguiti. Prossimo blocco invariato: diritto24.ilsole24ore.com, ipsoa.it, forumpa.it, anticorruzione.it, camera.it, senato.it, europarl.europa.eu, theguardian.com. Serve Fabio: estensione Claude in Chrome instabile (service worker che cade) — riavviare Chrome/estensione."
+  },
+  {
+   "date": "2026-10-06 12:50",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "Ripresa dopo la disconnessione delle 12:36: l'estensione si è riconnessa e il blocco è andato a buon fine, nessun robot check. 8 domini (diritto24, ipsoa, forumpa, anticorruzione, camera, senato, europarl, theguardian): 19 risultati. camera.it = 10 PDF della I legislatura (1950-53), omonimi, non verificati. Verificati 9 (candidates/google-2026-10-06-1240.txt): 0 confermati; ipsoa (Gazzetta Uff. 2017), 3 PDF Senato e la bozza studio PEGA = nome non trovato; IPOL_STU(2022)740151 già in media.json. Non verificabili (Senato risponde 202 vuoto ai client non browser, Wayback in timeout): senato.it show-doc id=1106786 leg18 Resaula, PDFServer/DF/419287.pdf, fondazione_Basso.pdf (probabile Paolo Pietrosanti). merge/archive non eseguiti (nessun nuovo elemento; i raw non tracciati del 06/10 appartengono a un'altra sessione e non sono stati toccati). Prossimo blocco: forbes.com e seguenti."
   }
  ]
 }
