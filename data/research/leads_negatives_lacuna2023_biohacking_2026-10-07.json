@@ -1,0 +1,106 @@
+[
+ {
+  "url": "https://luma.com/xjvb2fcb",
+  "reason": "Fund Longevity rally Roma 08/04/2026 (Via di San Nicola de' Cesarini): Fabio compare solo come ospite registrato (featured_guests, bio 'Biohacker from biohack.it'). Lista iscritti di un evento, non pubblicazione."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=4CHvbryuUb4",
+  "reason": "Fund Longevity - Global Live Stream 08/04/2026 (canale Fund Longevity), collegamento da Roma 17:23-17:25. Nome assente da titolo/descrizione; possibile apparizione visiva NON verificata (video non visionato)."
+ },
+ {
+  "url": "https://luma.com/b7b2d2n2",
+  "reason": "Pagina Luma del live stream Fund Longevity: nessun nome di Fabio."
+ },
+ {
+  "url": "https://www.rapamycin.news/t/hacking-biology-new-member-developing-a-longevity-biohacking-plan-platform/15776",
+  "reason": "Thread di forum (Rapamycin Longevity News, 2024) aperto da Fabio stesso: i post di forum non contano."
+ },
+ {
+  "url": "https://www.threads.com/@barbaracarfagna/post/DE6zv7IN7dA",
+  "reason": "Post Threads di Barbara Carfagna che rilancia il link Codice Beta S04EP08 (gia' noto). Post social, non aperto (richiede JS)."
+ },
+ {
+  "url": "https://spettacolomusicasport.com/2025/01/05/pionieri-di-longevita-biohacker-a-speciale-tg1/",
+  "reason": "Presentazione Speciale Tg1 'Pionieri di longevita'' 05/01/2025: nessun nome di Fabio/naif nel testo."
+ },
+ {
+  "url": "https://www.corrierenazionale.it/2025/06/26/a-codice-la-vita-e-digitale-stanotte-su-rai-1-il-biohacking",
+  "reason": "Comunicato Codice biohacking 27/06/2025: nessun nome di Fabio (ospiti non elencati)."
+ },
+ {
+  "url": "https://spettacolomusicasport.com/2025/06/27/a-codice-la-vita-e-digitale-il-biohacking/",
+  "reason": "Stesso comunicato Rai Ufficio Stampa: nessun nome di Fabio."
+ },
+ {
+  "url": "https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2025/06/Codice-la-vita-e-digitale-e56ff411-2235-4775-9f32-e3890d224bcd-ssi.html",
+  "reason": "Comunicato Rai Ufficio Stampa: rai.it risponde 403, la copia Wayback contiene solo il template JS. Testo ripreso integralmente da corrierenazionale: senza nome."
+ },
+ {
+  "url": "https://it.wikipedia.org/wiki/Codice:_la_vita_%C3%A8_digitale",
+  "reason": "Elenco puntate: 27/06/2025 'Biohacking', nessun ospite indicato."
+ },
+ {
+  "url": "https://api.events.ccc.de/congress/2025/schedule.json",
+  "reason": "39C3 (dic. 2025): nessuna sessione/meetup biohacking a nome di Fabio nel Fahrplan (solo talk di Hofmann, Bielefeld, Wiedmer). La proposta 'biohacking meetup at #39c3' emersa nei riassunti di ricerca e' verosimilmente un suo post social."
+ },
+ {
+  "url": "https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/",
+  "reason": "Scheda speaker The Innovation Group: bio da hacker/GlobaLeaks, nessun evento ne' biohacking. Il riassunto di WebSearch che lo indicava come 'Presidente di The Innovation Group' ospite di Codice era un'allucinazione del motore."
+ },
+ {
+  "url": "https://www.meetup.com/biohackersmilan/",
+  "reason": "Biohackers Milano: eventi senza Fabio."
+ },
+ {
+  "url": "https://stefanogatti.substack.com/p/laculturadeldato-112",
+  "reason": "Newsletter sul biohacking (Nicola Triglione): nessun Pietrosanti."
+ },
+ {
+  "url": "https://xerotonina.substack.com/p/xerotonina-75-numero-speciale-collage",
+  "reason": "Numero speciale biohacking: nessun Pietrosanti."
+ },
+ {
+  "url": "https://riccardostagliano.substack.com/p/116-i-segreti-della-longevita",
+  "reason": "Newsletter Stagliano' sulla longevita': nessun Pietrosanti/naif."
+ },
+ {
+  "url": "https://www.cybermondo.org/2025/03/intervista-ad-un-ethical-hacker.html",
+  "reason": "Intervista a un ethical hacker (2025): non e' Fabio."
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=JqS766sn0IY",
+  "reason": "Fanpage.it, ritiro di biohacking naturale: nessun nome di Fabio nei metadati."
+ },
+ {
+  "url": "https://itunes.apple.com/search?entity=podcastEpisode&term=Pietrosanti",
+  "reason": "Apple Podcasts (episodi, IT): nessun episodio sul biohacking; 'Vieni con me 23/09/2024' (Radio Popolare) = Laura Pietrosanti, omonima; Afrofonia 08/12/2024 senza nome nel testo."
+ },
+ {
+  "url": "https://hn.algolia.com/?q=biohack.it",
+  "reason": "Hacker News: nessuna menzione di biohack.it, hackingbiology o SignalSwarm."
+ },
+ {
+  "url": "https://github.com/search?q=biohack.it&type=code",
+  "reason": "GitHub code/issues: nessun progetto di terzi che citi biohack.it/hackingbiology (solo i repo di Fabio)."
+ },
+ {
+  "url": "https://be-api.us.archive.org/fts/v1/search?q=Pietrosanti+biohacker",
+  "reason": "Internet Archive full-text: 0 risultati per Pietrosanti+biohacker/biohacking/longevita'."
+ },
+ {
+  "url": "https://www.raiplay.it/atomatic/raiplay-search-service/api/v1/msearch",
+  "reason": "Ricerca RaiPlay per 'Pietrosanti', 'biohacker', 'biohacking', 'Fabio Naif': solo le puntate gia' note (Codice 27/06/2025, Speciale Tg1 05/01/2025). RaiPlay Sound risponde 403 da qui: altre puntate Codice Beta/radio non verificabili."
+ },
+ {
+  "url": "https://longevity.technology/wp-json/wp/v2/posts?search=Pietrosanti",
+  "reason": "Ricerca interna WordPress: 0 risultati su longevity.technology, lifespan.io, agendadigitale.eu; orlandomagazine solo l'articolo gia' noto."
+ },
+ {
+  "url": "https://longevitysummitdublin.com/longevity-conference-2025/",
+  "reason": "Longevity Summit Dublin 2025: Fabio ha partecipato da spettatore (fonte: hackingbiology.com/news); non tra gli speaker."
+ },
+ {
+  "url": "WebSearch:SignalSwarm",
+  "reason": "SignalSwarm / copy trading 2023-2026: nessuna copertura pubblica trovata (solo LinkedIn e la pagina About di hackingbiology.com)."
+ }
+]

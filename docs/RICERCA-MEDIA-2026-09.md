@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1265**; dopo deduplica: **907**
+- Risultati grezzi dalle ricerche: **1279**; dopo deduplica: **921**
 - Già presenti sul vecchio sito: **33** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 874**
-- Verificati aprendo la pagina: **847**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 888**
+- Verificati aprendo la pagina: **861**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 145, tweet 132, Post sul blog infosecurity.ch 72, Talk 69, Video 62, Citato 47, Progetto 33, Ricerca 31, Radio 27, Altro 26, article 25, Libro 22, social 21, Articolo scritto 20, Report 17, documento 13, Comunicato 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, institutional 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1
+Per tipo (nuovi): Menzionato 147, tweet 132, Post sul blog infosecurity.ch 72, Talk 69, Video 63, Citato 47, Progetto 33, Ricerca 31, article 28, Radio 27, Altro 26, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1
 
 ### Copertura per anno
 
@@ -40,15 +40,15 @@ Per tipo (nuovi): Menzionato 145, tweet 132, Post sul blog infosecurity.ch 72, T
 | 2019 | 0 | 59 | 59 |
 | 2020 | 0 | 165 | 165 |
 | 2021 | 0 | 86 | 86 |
-| 2022 | 0 | 57 | 57 |
-| 2023 | 0 | 11 | 11 |
-| 2024 | 0 | 7 | 7 |
-| 2025 | 0 | 8 | 8 |
-| 2026 | 0 | 31 | 31 |
+| 2022 | 0 | 59 | 59 |
+| 2023 | 0 | 14 | 14 |
+| 2024 | 0 | 12 | 12 |
+| 2025 | 0 | 10 | 10 |
+| 2026 | 0 | 33 | 33 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 31 voci, 31 nuove
+## 2026 — 33 voci, 33 nuove
 
 - 🆕 **2026-09-22** · Video · NetEase 网易 (时光派 account) — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾](https://c.m.163.com/news/v/VG6GUA7FN.html)  
   CONTRADICTS the 2026-09-30 exclusion in decisions.json. Downloaded in full (m3u8 from www.163.com/v/video/VG6GUA7FN.html, 1080x1920, 2:35) and checked 155 frames: the 生物极客闭门论坛 segment (1:09-1:12) shows other speakers and audience, not Fabio, as the earlier run said. BUT at 1:33.7-1:34.8 the 永生之夜 dinner B-roll reuses the shot from BV1X9YR68ETj: Fabio seated at a table in the white linen shirt with the red lanyard, under the caption 科学家 医生 企业家 / 投资人与生物极客. Not named. Proof frame: C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_VG6GUA7FN_t0094.jpg. The decisions.json note says Bilibili BV1Rwh76XEhj is the same video (not re-downloaded here). The exclusion needs Fabio's review. Checked 2026-10-01.
@@ -102,6 +102,8 @@ Anni senza nessun risultato: nessuno
   Scanner of whistleblowing channels of Italian PAs and listed companies (WB Monitor Italia)
 - 🆕 **2026-06-12** · Progetto · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo)  
   Hugo static site for a Latina logistics consortium
+- 🆕 **2026-04-01** · article · The Next Web (TNW) — [WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhones (SIO)](https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio)  
+  Verified by fetch: "Fabio Pietrosanti, president of the Hermes Center for Transparency and Digital Human Rights, has said that spyware is deployed more frequently in Italy than anywhere else in Europe..." (follow-up of The Record 2024).
 - 🆕 **2026-03-18** · Talk · Centro per la Riforma dello Stato, Roma (announced on dicorinto.it) — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Rete)](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/)  
   'lo presenta Sonia Montegiove ne discutono Stefano Chiccarelli, Arturo Di Corinto, Fabio Pietrosanti coordina Giulio De Petra ... Roma, mercoledì 18 marzo, via della Dogana Vecchia 5' (post dated 2026-03-11)
 - 🆕 **2026** · Progetto · GlobaLeaks — [People / GlobaLeaks](https://globaleaks.org/about/people/)  
@@ -112,11 +114,17 @@ Anni senza nessun risultato: nessuno
   Observatory site extending MxMap; his name not on the fetched page
 - 🆕 **2026** · Progetto · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit)  
   AGPL-3.0 platform for structured biohacking protocols and biomarkers, founded by Fabio
+- 🆕 **2026** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
+  Verified 2026-10-07: "Il Comitato Tecnico degli Esperti (art. 52 comma 11) e composto dai seguenti membri: Dott. Fabio Pietrosanti, Avv. Nazareno Bugli, Prof. Avv. Sabina Bulgarelli". Appointment date not on page (Authority installed 1 Feb 2019); identity consistent (technical/security expert) but Fabio should confirm.
 
-## 2025 — 8 voci, 8 nuove
+## 2025 — 10 voci, 10 nuove
 
 - 🆕 **2025-08-13** · Libro · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Author: Bruce L. Mann (ISBN 9798337331287). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking, Boing ...'.
+- 🆕 **2025-07-16** · article · IRPA - Istituto di ricerche sulla pubblica amministrazione (archivio.irpa.eu) — [Italia come centro dell'industria spyware (insieme a Israele e India)](https://archivio.irpa.eu/italia-come-centro-dellindustria-spyware-insieme-a-israele-e-india/)  
+  Verified: "Secondo Fabio Pietrosanti, Direttore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali, le forze dell'ordine italiane hanno un accesso privilegiato alle tecnologie di sorveglianza". datePublished 2025-07-16.
+- 🆕 **2025-06-27** · Video · Facebook – pagina «Codice Barbara Carfagna» (giornalistaRaiuno) — [Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Alberto Carrara! (dietro le quinte di Codice, Rai 1)](https://www.facebook.com/giornalistaRaiuno/videos/-quando-anche-il-biohacker-fabio-pietrosanti-ha-bisogno-di-una-sistemata-ci-pens/4033172536901428/)  
+  Reel ufficiale della pagina del programma Codice (canonical: https://www.facebook.com/reel/4033172536901428/). og:title letto 2026-10-07: «Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Alberto Carrara! ... siamo prontissimi per la puntata di stasera ... in seconda serata su Rai1 #CODICE #BarbaraCarfagna #Biohacking». Video promo/backstage della puntata Codice 27/06/2025 (gia' nota). Data assente nei metadati: 'puntata di stasera' -> pubblicato il giorno della messa in onda (26 o 27/06/2025; la puntata era alle 00:20 del 27). Pagina social di un programma Rai, non un articolo. | Data corretta: yt-dlp timestamp 1751048393 = 27/06/2025 (giorno della puntata).
 - 🆕 **2025-06-27** · TV · Rai 1 - Codice, la vita è digitale — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.raiplay.it/video/2025/06/Fabio-Pietrosanti-e-Don-Alberto-Carrara---Codice-27062025-42ad6af2-1f36-4f24-b8fe-58e999a9e0cd.html)  
   Official RaiPlay page of the already-known clip (YouTube Amy7OyM7exo). RaiPlay metadata: channel Rai 1, date 27-06-2025, form 'clip', description 'Fabio Pietrosanti e Don Alberto Carrara sulle interazioni macchina-cervello.' (Stagione 2025, Servizi e interviste).
 - 🆕 **2025-06-27** · TV · Rai 1 - Codice, la vita è digitale — [Codice, la Vita è digitale - Puntata del 27/06/2025 Biohacking](https://www.raiplay.it/video/2025/06/Codice-la-Vita-e-digitale---Puntata-del-27062025-50a78412-6520-4ded-939d-c1b549204976.html)  
@@ -132,12 +140,22 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2025-01-05** · TV · Rai 1 - Tg1 (servizio di Barbara Carfagna) — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html)  
   Tg1 05/01/2025 (servizio di Barbara Carfagna) sui biohacker e l'XPrize. Verificato 2026-09-26 sul video (copia locale, 79 s): a 0:26-0:42 parla Fabio, didascalia in sovrimpressione 'Fabio Pietrosanti - Biohacker' (0:34, fotogramma salvato nella copia): 'I biohacker, al di là dell'informatica, cercano di ridurre... i biomarcatori del proprio corpo a uno stato di età biologica inferiore a quella cronologica'. Altri intervistati: Teemu Arina, Aubrey de Grey.
 
-## 2024 — 7 voci, 7 nuove
+## 2024 — 12 voci, 12 nuove
 
+- 🆕 **2024-11-16** · newsletter (weekly digest) · CTO at NCSC Summary (Substack) — [CTO at NCSC Summary: week ending November 17th](https://ctoatncsc.substack.com/p/cto-at-ncsc-summary-week-ending-november-ced)  
+  Verified: digest entry "How Italy became an unexpected spyware hub - The Record reports - Spyware is being used more in Italy than in the rest of Europe because it's more accessible, Fabio Pietrosanti, president of Italy's Hermes Center...". Minor pickup of the known item.
 - 🆕 **2024-11-14** · Citato · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/)  
   Out of 2009-2015 slice, found incidentally; quoted as Hermes Center president on spyware prices in Italy
+- 🆕 **2024-11-14** · article · Think.it — [Spyware in Italia: un'analisi del mercato e delle implicazioni](https://www.think.it/litalia-e-il-mercato-degli-spyware-unanalisi-approfondita/)  
+  Verified: "Secondo Fabio Pietrosanti, presidente di Hermes Center for Transparency and Digital Human Rights, il costo relativamente basso degli spyware italiani...". Published 2024-11-14.
+- 🆕 **2024-11-14** · article (rewrite of The Record) · Fudzilla — [Italy has become a major spyware hub](https://fudzilla.com/italy-has-become-a-major-spyware-hub/)  
+  Verified: "Italy's Hermes Center for Transparency and Digital Human Rights Fabio Pietrosanti said: Spyware is being used more in Italy than in the rest of Europe because it's more accessible. In 2017, Pietrosanti worked on legislation..." Dated Nov 14, 2024. Old URL /news/60079-italy-has-become-a-major-spyware-hub now 404.
+- 🆕 **2024-11-14** · news aggregator story · SoylentNews — [How Italy Became an Unexpected Spyware Hub (story + comments, sid=62694)](https://soylentnews.org/comments.pl?noupdate=1&sid=62694&page=1&cid=1382701)  
+  Verified: story text quotes "Fabio Pietrosanti, president of Italy's Hermes Center ... told Recorded Future News". URL is the comments view of the story (only URL found); low value aggregator repost - Fabio may prefer to fold it into the The Record item. Date approximate (story date not extracted).
 - 🆕 **2024-11-13** · article · 安全内参 (secrss.com) — [意大利缘何成为全球间谍软件中心？](https://www.secrss.com/articles/72312)  
   Chinese translation of the Recorded Future News piece on Italy's spyware market. Quote: "意大利透明度和数字人权中心的主席、杰出的道德黑客Fabio Pietrosanti告诉Recorded Future News". Date from 360 search snippet (2024年11月13日). Not TimePie-related but new Chinese text coverage.
+- 🆕 **2024-11-12** · article (syndicated repost) · The Cyber Post (thecyberpost.com) — [How Italy became an unexpected spyware hub (full repost of The Record / Recorded Future News)](https://thecyberpost.com/news/how-italy-became-an-unexpected-spyware-hub/)  
+  Verified: full syndicated copy of the known The Record article; "Fabio Pietrosanti, president of Italy's Hermes Center ... told Recorded Future News" (9 mentions). Repost, merge as mirror of the known item.
 - 🆕 **2024-11-12** · articolo · The Record (Recorded Future News) — [How Italy became an unexpected spyware hub](https://therecord.media/how-italy-became-an-unexpected-spyware-hub)  
   Trovato per caso durante la ricerca IHC (fuori dai 5 sotto-compiti). Articolo di Suzanne Smalley: Fabio, 'president of Italy's Hermes Center for Transparency and Digital Human Rights and a prominent ethical hacker', è la fonte principale: spyware più usato in Italia perché più accessibile, il suo lavoro del 2017 sulla proposta di legge sui trojan, il mercato italiano dei fornitori, la riforma in vigore da febbraio. Pagina aperta: nome presente più volte. Nel repo esiste solo la copia di Punto Informatico che lo riprende, non l'originale.
 - 🆕 **2024-11-07** · Libro · Wolters Kluwer Italia — [Intelligenza artificiale, blockchain e criptovalute](https://books.google.com/books?id=GbEvEQAAQBAJ)  
@@ -149,14 +167,20 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2024** · Report · Ufficio Scolastico Regionale per il Lazio (MIM) - monitoraggio trasparenza e anticorruzione 2023, copia pubblicata da I.I.S. di Ceccano — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituzioni scolastiche del Lazio)](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf)  
   Rilevazione ufficiale dell'USR Lazio sulle misure di trasparenza nelle scuole. A riga 1315 del testo estratto compare la voce 'MONITORA PA DEL DOTT. FABIO PIETROSANTI - OTTOBRE 2022 - TRASPARENZA', registrata come causa di istanze di accesso civico ricevute dagli istituti.
 
-## 2023 — 11 voci, 11 nuove
+## 2023 — 14 voci, 14 nuove
 
+- 🆕 **2023-07-09** · website · Hacking Biology (hackingbiology.com) – sito proprio / Hacking Biology Foundation — [Hacking Biology – The non-profit foundation stewarding biohack.it (blog di ricerca dal luglio 2023, pagine News e About)](https://hackingbiology.com/)  
+  Sito proprio, NON copertura di terzi: incluso solo come fonte primaria del filone biohacking (non presente in media.json). Letto 2026-10-07: «Hacking Biology was started by Fabio Pietrosanti». Primo post archiviato: https://hackingbiology.com/2023/07/09/a-data-driven-applied-aging-research-project/ (Wayback). La pagina /news/ elenca: 22/08/2024 presentazione alla comunita' Rapamycin News; 05/01/2025 Speciale Tg1; 17/05/2025 Codice Beta (data diversa dall'URL 2025/01 gia' noto: da chiarire con Fabio); 27/06/2025 Codice Rai 1; 02/07/2025 partecipazione al Longevity Summit Dublin (Trinity College, 2-4/7); 08/04/2026 Fund Longevity rally a Roma (Largo di Torre Argentina); 18/08/2026 migrazione del sito da WordPress.com. La sezione 'In the press' di /about/ cita solo i tre Rai gia' noti.
 - 🆕 **2023-05-17** · Talk · Copernicani (in-person event) — [Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins](https://copernicani.it/privacy-by-design-e-privacy-coins/)  
   He presents/moderates; speakers Rachel-Rose O'Leary (DarkFi) and Daniele Monteleone (Web3 Labs); announcement published 2023-05-01 (Wayback 20230517)
 - 🆕 **2023-05-16** · Menzionato · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html)  
   Complaint to the Garante referencing his September 2022 FOIA to schools
 - 🆕 **2023-04-19** · Menzionato · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html)  
   Confermato da Fabio 2026-09-25 (è lui: Fabio Pietrosanti di Latina, figlio della sig.ra Dolores). Contesto: la candidata sindaco Matilde Celentano visita la GLS accompagnata da Fabio Pietrosanti.
+- 🆕 **2023-04-19** · Menzionato · Latina TU (latinatu.it) — [Latina, Celentano in visita al Gsl: "Un'eccellenza che investe sul territorio"](https://latinatu.it/latina-celentano-in-visita-al-gsl-uneccellenza-che-investe-sul-territorio/)  
+  Stesso comunicato della campagna Celentano gia' noto via Latina Oggi (210705), ripreso da altra testata; didascalia foto 'Matilde Celentano e Fabio Pietrosanti'. Snippet: "accompagnata da Fabio Pietrosanti, figlio della signora Dolores, scomparsa lo scorso anno"; cita il progetto di consegne con cargo bike elettriche con associazioni del territorio. article:published_time 2023-04-19T14:06+02:00.
+- 🆕 **2023-04-19** · Menzionato · Latina News (latinanews.eu) — [Elezioni - Matilde Celentano in visita alla sede Gls di Latina](https://www.latinanews.eu/elezioni-matilde-celentano-in-visita-alla-sede-gls-di-latina/)  
+  Ripresa dello stesso comunicato. Snippet: "La candidata sindaco di centrodestra, accompagnata da Fabio Pietrosanti, figlio della signora Dolores". article:published_time 2023-04-19T18:00Z. Presente anche nell'archivio WP-API del repo dossier (data/research/raw/marasca/wp/latinanews.eu.posts.json).
 - 🆕 **2023-03-17** · Menzionato · Easyteam.org (published school reply) — [La risposta alla nuova richiesta di Monitora PA](https://easyteam.org/2023/03/17/la-risposta-alla-nuova-richiesta-di-monitora-pa)  
   Published template reply of a school to MonitoraPA's GMail/GDPR notice, addressed to 'sig. Fabio Pietrosanti'
 - 🆕 **2023-03-01** · Comunicato · Monitora PA — [GDPR howto: efficaci misure tecniche supplementari per GMail, Google Drive e Google Workspace](https://monitora-pa.it/2023/03/01/gdpr-misure-tecniche-supplementari-efficaci-per-gmail-e-gsuite.html)  
@@ -174,7 +198,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 
-## 2022 — 57 voci, 57 nuove
+## 2022 — 59 voci, 59 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -182,12 +206,16 @@ Anni senza nessun risultato: nessuno
   Interviewed over Zoom in summer 2022: '"It's one of the coolest shitty places that you really want to explore," Fabio Pietrosanti'. Also covers the solar-panel factory, the tokenisation flyer, and 'The only villain of the story is Alejandro'. 14 name hits. Verified live 2026-10-02. Found through Peter Guest's LinkedIn post and the GQ sitemap.
 - 🆕 **2022-11-15** · documento · Ordine degli Ingegneri della Provincia di Catania - Verbale del Consiglio n. 41 del 15/11/2022 — [Verbale n. 41 del Consiglio dell'Ordine degli Ingegneri della provincia di Catania (punto su MonitoraPA)](https://ording.ct.it/wp-content/uploads/2023/11/VERBALE_41_151122.pdf)  
   Verbale ufficiale di un ente pubblico non economico: '-Fondatore Monitora Pa - Fabio Pietrosanti - segnalazione di illecito utilizzo di servizi che comportano il trasferimento di dati negli U.S.A. nel sito www.ording.ct.it e conseguente invito a risolvere la violazione del Regolamento Europeo 2016/679 (GDPR)'. Effetto documentato della campagna MonitoraPA su un ordine professionale.
+- 🆕 **2022-11-06** · Comunicato · Easyteam.org (blog di un fornitore di software per le scuole) — [MonitoraPA - Nuova segnalazione e nuovi controlli sui siti istituzionali](https://www.easyteam.org/easynews/monitorapa-nuova-segnalazione-e-nuovi-controlli-sui-siti-istituzionali/)  
+  Fuori dalla finestra 2023-26 ma assente da media.json (e' nota solo easyteam 2023/03/17). Riproduce integralmente la PEC MonitoraPA del 06/11/2022 firmata 'Fabio Pietrosanti Co-fondatore di Monitora PA'. Data = data della PEC (la pagina non ha data di pubblicazione). ATTENZIONE: la pagina pubblica i dati personali di Fabio (luogo e data di nascita, codice fiscale) copiati dalla PEC: valutare se citarla e/o chiedere la rimozione.
 - 🆕 **2022-10-26** · Menzionato · Agenda Digitale — [Il FOIA di MonitoraPA: la risposta dell'Avvocatura al Ministero dell'Istruzione](https://www.agendadigitale.eu/sicurezza/privacy/il-foia-di-monitorapa-la-risposta-dellavvocatura-al-ministero-dellistruzione/)  
   Re-confirmed via site search
 - 🆕 **2022-10-26** · Menzionato · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di FOIA](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/)  
   Re-confirmed via site search
 - 🆕 **2022-10-19** · documento · Istituto Comprensivo Cornigliano, Genova (Ministero dell'Istruzione) - Amministrazione Trasparente — [Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013](https://www.iccornigliano.edu.it/amministrazione-trasparente/) _(non verificato)_  
   Snippet Google: '... Fabio Pietrosanti, ai sensi dell'art. 5, comma 2 del d.lgs. 14 marzo 2013, n. 33. Pubblicato il: 19/10/2022; Tipologia: Dati ulteriori'. Pagina scaricata (HTTP 200) ma l'elenco documenti e' caricato via JavaScript: nome non confermato nell'HTML statico.
+- 🆕 **2022-10-13** · video (webinar) · Istituto per le politiche dell'innovazione (IPI) - YouTube — [Usare il FOIA per la trasparenza del trattamento dati in ambito pubblico](https://www.youtube.com/watch?v=SeQD83Nl1eE)  
+  Verified via YouTube description: "discuteranno del tema Fabio Pietrosanti, autore della campagna di MonitoraPA; Nicola Manzi, Consulente e DPO, ed Ernesto Belisario"; moderated by Adriana Peduto (E-Lex). Live 13/10/2022 18:30. A second upload of the same webinar exists: https://www.youtube.com/watch?v=y3PW2-LzOyI (published 2022-10-12, same description). Outside the 2023-2026 window but not in the archive.
 - 🆕 **2022-09-29** · Talk · Università LIUC (Castellanza/Varese) — SOS LOGistica — [Costruire comunità sostenibili. Quale ruolo per la logistica? (Convegno SOS LOGistica 2022)](https://www.liuc.it/eventi/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/)  
   Event page names Fabio Pietrosanti; talk on PUDO / pick-up points (OpenPUDO, LESS); in collaboration with SOS LOGistica – Associazione Logistica Sostenibile
 - 🆕 **2022-09-29** · Slide · Google Slides — [Slides of Fabio's talk at the SOS LOGistica 2022 conference, LIUC](https://docs.google.com/presentation/d/1cFW2EiiS6RLMGVRvyLTLgiOfYzU58XoMJrq7BTd2BZ4/edit)  

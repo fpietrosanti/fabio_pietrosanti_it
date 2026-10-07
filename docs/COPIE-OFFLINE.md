@@ -1,18 +1,18 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-06 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-07 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **907**; già processate: **1060**; ancora da processare: **0**
-- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **735** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **866**
+- Voci in `data/media.json`: **921**; già processate: **1074**; ancora da processare: **0**
+- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **749** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **878**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **93**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **1**
-- 🎬 Video/audio scaricato (+ pagina): **90**
+- 🎬 Video/audio scaricato (+ pagina): **92**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
 - ❌ Non ottenuta: **7**
 
@@ -46,11 +46,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2019 | 76 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 158 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 79 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 52 | 7 | 0 | 0 | 0 | 0 | 2 |
-| 2023 | 10 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 2024 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2025 | 4 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 31 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 2022 | 53 | 8 | 0 | 0 | 0 | 0 | 2 |
+| 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2025 | 5 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2026 | 33 | 0 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -253,8 +253,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   http 404
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
   URLError
-- ❌ **2019** · Google Slides — [Slide Foggia (deleted deck)](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: propria  
-  2026-10-06: deck «Slide Foggia» (05/12/2019) cancellato: Google risponde HTTP 410; nessuna capture nel Web Archive (CDX vuoto). Recuperabile solo da Fabio (cestino Drive / Google Takeout dell'account infosecurity.ch o hermescenter.org). Fabio (06/10): lezione all'Università di Foggia su invito di Stefano Aterno.
+- ❌ **2019** · Università di Foggia (lezione nel corso  — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck c](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: terzi  
+  http 410
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
   URLError
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
@@ -1166,6 +1166,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · civile.it (Valentino Spataro) — [Voto elettronico online per le politiche - 5 esperti spiegano perche' e' una disgrazia](https://www.civile.it/internet/visual.php?num=95819) · copia: `2022/feda165c8059` (live) · licenza: terzi
 - **2022** · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://www.confartigianatoimperia.it/notizie/24-03-2022/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack) · copia: `2022/f52acde20d5c` (live) · licenza: terzi
 - **2022** · Cyber Security 360 — [Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi](https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/) · copia: `2022/ceddd683ee93` (Web Archive 20220314) · licenza: terzi
+- **2022** · Easyteam.org (blog di un fornitore di so — [MonitoraPA - Nuova segnalazione e nuovi controlli sui siti istituzionali](https://www.easyteam.org/easynews/monitorapa-nuova-segnalazione-e-nuovi-controlli-sui-siti-istituzionali/) · copia: `2022/9cd758b7033f` (Web Archive 20251119) · licenza: terzi
 - **2022** · British GQ (Peter Guest) — [The Pyongyang crypto caper: North Korea, crypto heists and the new front line of cybercrim](https://www.gq-magazine.co.uk/politics/article/north-korea-crypto-bitcoin-cybercrime) · copia: `2022/6173d5796396` (Web Archive 20221124) · licenza: terzi
 - **2022** · Istituto Comprensivo Cornigliano, Genova — [Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013](https://www.iccornigliano.edu.it/amministrazione-trasparente/) · copia: `2022/a07b6bd88256` (Web Archive 20231030) · licenza: terzi
 - **2022** · Il Post — [Il voto degli italiani all'estero ha vari problemi](https://www.ilpost.it/2022/09/14/sicurezza-voto-italiani-estero/) · copia: `2022/81fb6ebe105d` (live) · licenza: terzi
@@ -1192,27 +1193,38 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Wall Street Italia — [Kaspersky, in Italia si riapre il caso dell'antivirus russo amato da PA e aziende](https://www.wallstreetitalia.com/kaspersky-in-italia-si-riapre-il-caso-dellantivirus-russo-amato-da-pa-e-aziende/) · copia: `2022/dabf21495649` (Web Archive 20220312) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con ](https://www.youtube.com/watch?v=0ETCVcF-HIs) · copia: `2022/93d1596681f3` (Web Archive 20220920 · video locale `media.mp4` (114 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · YouTube - Progetto Winston Smith — [e-privacy XXX - «Sospendiamo la privacy» - seconda giornata - mattina (MonitoraPA round ta](https://www.youtube.com/watch?v=S21aHf5LCBc&t=6940s) · copia: `2022/aa751ce56beb` (Web Archive 20220625 · video locale `media.mp4` (947 MB, da caricare su Drive)) · licenza: terzi
+- **2022** · Istituto per le politiche dell'innovazio — [Usare il FOIA per la trasparenza del trattamento dati in ambito pubblico](https://www.youtube.com/watch?v=SeQD83Nl1eE) · copia: `2022/bdaa73d44b93` (Web Archive 20221013 · video locale `media.mp4` (613 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · YouTube — SOS LOGistica - Associazione L — [Costruire COMUNITÀ SOSTENIBILI. Quale ruolo per la LOGISTICA: Convegno SOS LOGistica 2022 ](https://www.youtube.com/watch?v=bPXna2KujUE) · copia: `2022/0a221d505d08` (live · video locale `media.mp4` (286 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [1010. GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.youtube.com/watch?v=fkChBoDdJxw) · copia: `2022/f9712cf38150` (Web Archive 20220513 · video locale `media.mp4` (63 MB, da caricare su Drive)) · licenza: terzi
 - **2023** · Copernicani (in-person event) — [Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins](https://copernicani.it/privacy-by-design-e-privacy-coins/) · copia: `2023/df9cad7c9e11` (Web Archive 20230517) · licenza: terzi
 - **2023** · costabile.net — CyberCoach (Gerardo Cost — [CyberCoach — elenco video, tra cui «Evoluzione dell'hacking con Fabio Pietrosanti (aka Nai](https://costabile.net/cibercoach/) · copia: `2023/4309631c2a3d` (Web Archive 20230607) · licenza: terzi
 - **2023** · Easyteam.org (published school reply) — [La risposta alla nuova richiesta di Monitora PA](https://easyteam.org/2023/03/17/la-risposta-alla-nuova-richiesta-di-monitora-pa) · copia: `2023/0bec90f52835` (Web Archive 20230321) · licenza: terzi
+- **2023** · Hacking Biology (hackingbiology.com) – s — [Hacking Biology – The non-profit foundation stewarding biohack.it (blog di ricerca dal lug](https://hackingbiology.com/) · copia: `2023/a1a6e9bb7873` (live) · licenza: terzi
+- **2023** · Latina TU (latinatu.it) — [Latina, Celentano in visita al Gsl: "Un'eccellenza che investe sul territorio"](https://latinatu.it/latina-celentano-in-visita-al-gsl-uneccellenza-che-investe-sul-territorio/) · copia: `2023/e66ece56e5b2` (Web Archive 20230606) · licenza: terzi
 - **2023** · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html) · copia: `2023/0010b8d42873` (Web Archive 20230117) · licenza: propria
 - **2023** · Monitora PA — [Come (iniziare a) difendere gli studenti da Google](https://monitora-pa.it/2023/02/27/come-difendere-gli-studenti-da-google.html) · copia: `2023/328e785dd965` (Web Archive 20230330) · licenza: propria
 - **2023** · Monitora PA — [3380 richieste di dismettere GMail (& friends)](https://monitora-pa.it/2023/03/01/3380-richieste-di-dismettere-gmail.html) · copia: `2023/d2d37565bb6e` (Web Archive 20230301) · licenza: propria
 - **2023** · Monitora PA — [GDPR howto: efficaci misure tecniche supplementari per GMail, Google Drive e Google Worksp](https://monitora-pa.it/2023/03/01/gdpr-misure-tecniche-supplementari-efficaci-per-gmail-e-gsuite.html) · copia: `2023/158ec4754aae` (Web Archive 20230302) · licenza: propria
 - **2023** · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html) · copia: `2023/a944c2ac082a` (Web Archive 20230522) · licenza: propria
 - **2023** · European Parliament, Policy Department f — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf) · copia: `2023/26bb7f5f7319` (Web Archive 20230224) · licenza: terzi
+- **2023** · Latina News (latinanews.eu) — [Elezioni - Matilde Celentano in visita alla sede Gls di Latina](https://www.latinanews.eu/elezioni-matilde-celentano-in-visita-alla-sede-gls-di-latina/) · copia: `2023/566f95d4a3c8` (live) · licenza: terzi
 - **2023** · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html) · copia: `2023/a6c17e995b05` (live) · licenza: terzi
 - **2024** · Wolters Kluwer Italia — [Intelligenza artificiale, blockchain e criptovalute](https://books.google.com/books?id=GbEvEQAAQBAJ) · copia: `2024/be1b38a964db` (live) · licenza: terzi
+- **2024** · CTO at NCSC Summary (Substack) — [CTO at NCSC Summary: week ending November 17th](https://ctoatncsc.substack.com/p/cto-at-ncsc-summary-week-ending-november-ced) · copia: `2024/82c1278103cf` (Web Archive 20241116) · licenza: terzi
 - **2024** · Edward Elgar, Digital Media and Grassroo — [Digital whistleblowing platforms for anti-corruption: The Transparency International Itali](https://doi.org/10.4337/9781802202106.00015) · copia: `2024/5cebfaf2f256` (live) · licenza: terzi
+- **2024** · Fudzilla — [Italy has become a major spyware hub](https://fudzilla.com/italy-has-become-a-major-spyware-hub/) · copia: `2024/37fdb5e56568` (live) · licenza: terzi
+- **2024** · SoylentNews — [How Italy Became an Unexpected Spyware Hub (story + comments, sid=62694)](https://soylentnews.org/comments.pl?noupdate=1&sid=62694&page=1&cid=1382701) · copia: `2024/efcd42306ca9` (Web Archive 20250320) · licenza: terzi
+- **2024** · The Cyber Post (thecyberpost.com) — [How Italy became an unexpected spyware hub (full repost of The Record / Recorded Future Ne](https://thecyberpost.com/news/how-italy-became-an-unexpected-spyware-hub/) · copia: `2024/e74f201bfa61` (Web Archive 20250813) · licenza: terzi
 - **2024** · The Record (Recorded Future News) — [How Italy became an unexpected spyware hub](https://therecord.media/how-italy-became-an-unexpected-spyware-hub) · copia: `2024/9512b39405b8` (Web Archive 20241112) · licenza: terzi
 - **2024** · Bloomberg Businessweek (bloomberg.com) — [How Alejandro Cao de Benós, North Korea’s Man in Spain, Ran Afoul of the US](https://www.bloomberg.com/news/articles/2024-04-25/how-alejandro-cao-de-benos-north-korea-s-man-in-spain-ran-afoul-of-the-us) · copia: `2024/5e962e2911a5` (Web Archive 20240425) · licenza: terzi
 - **2024** · Ufficio Scolastico Regionale per il Lazi — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituz](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf) · copia: `2024/ad6071ff2a36` (Web Archive 20250814) · licenza: terzi
 - **2024** · Punto Informatico — [Italia leader mondiale di spyware economici](https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/) · copia: `2024/f387de6462a9` (Web Archive 20241114) · licenza: terzi
 - **2024** · 安全内参 (secrss.com) — [意大利缘何成为全球间谍软件中心？](https://www.secrss.com/articles/72312) · copia: `2024/19936c37d70c` (Web Archive 20241127) · licenza: terzi
+- **2024** · Think.it — [Spyware in Italia: un'analisi del mercato e delle implicazioni](https://www.think.it/litalia-e-il-mercato-degli-spyware-unanalisi-approfondita/) · copia: `2024/f89e0213cbd3` (Web Archive 20241205) · licenza: terzi
+- **2025** · IRPA - Istituto di ricerche sulla pubbli — [Italia come centro dell'industria spyware (insieme a Israele e India)](https://archivio.irpa.eu/italia-come-centro-dellindustria-spyware-insieme-a-israele-e-india/) · copia: `2025/537910ada442` (Web Archive 20260413) · licenza: terzi
 - **2025** · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ) · copia: `2025/b45354d8cd4a` (Web Archive 20250911) · licenza: terzi
 - **2025** · Oxford University Press — [Political Automation: An Introduction to AI in Government and Its Impact on Citizens](https://books.google.com/books?id=xRREEQAAQBAJ) · copia: `2025/3867298f9527` (live) · licenza: terzi
+- **2025** · Facebook – pagina «Codice Barbara Carfag — [Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Al](https://www.facebook.com/giornalistaRaiuno/videos/-quando-anche-il-biohacker-fabio-pietrosanti-ha-bisogno-di-una-sistemata-ci-pens/4033172536901428/) · copia: `2025/71f0893eb32f` (live · video locale `media.mp4` (1 MB, da caricare su Drive)) · licenza: terzi
 - **2025** · Rai 1 - Tg1 (servizio di Barbara Carfagn — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html) · copia: `2025/042e06a82d08` (live · video locale `video.mp4` (0 MB, da caricare su Drive)) · licenza: terzi
 - **2025** · Rai 1 - Speciale Tg1 — [Pionieri di longevità - Biohacker - Speciale Tg1, puntata del 05/01/2025](https://www.raiplay.it/video/2025/01/Speciale-Tg1---Pionieri-di-longevita-Biohacker---Puntata-del-05012025-296d47d6-0a82-4988-8734-aaf1b31b0f6e.html) · copia: `2025/78dcc033928e` (Web Archive 20250107 · video locale `media.mp4` (1,324 MB, da caricare su Drive)) · licenza: terzi
 - **2025** · Rai 1 - Tv7 (settimanale del Tg1) — [La guerra delle app - Tv7 31/01/2025](https://www.raiplay.it/video/2025/02/La-guerra-delle-app---Tv7-31012025-2de12a1e-489c-49bb-8b4d-77929aec7ba0.html) · copia: `2025/5aee7d9bd90d` (Web Archive 20250303 · video locale `media.mp4` (175 MB, da caricare su Drive)) · licenza: terzi
@@ -1233,6 +1245,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · GlobaLeaks — [People | GlobaLeaks](https://globaleaks.org/about/people/) · copia: `2026/a2dd5929df8c` (live) · licenza: propria
 - **2026** · infosecurity.ch (blog) — [infosecurity.ch restored](https://infosecurity.ch/20260917/infosecurity-ch-restored/) · copia: `2026/1e4e1d2ffca9` (live) · licenza: propria
 - **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) · copia: `2026/a243d02057e1` (Web Archive 20260618) · licenza: propria
+- **2026** · The Next Web (TNW) — [WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhone](https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio) · copia: `2026/adf88485fb4e` (Web Archive 20260401) · licenza: terzi
 - **2026** · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0) · copia: `2026/9a1df4eb5776` (live) · licenza: terzi
 - **2026** · WeChat — 时光派 (official) — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 | 第七届国际长寿论坛整体回顾](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91%E8%80%85) · copia: `2026/99f125583bcf` (live) · licenza: terzi
 - **2026** · WeChat — 时光派 (official) — [第七届国际长寿论坛明日启幕！顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-11) · copia: `2026/12e861b4f35c` (live) · licenza: terzi
@@ -1246,6 +1259,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [现场速递！第七届国际长寿论坛的“长寿之夜”](https://www.bilibili.com/video/BV1X9YR68ETj/) · copia: `2026/3991a0a45aea` (live) · licenza: terzi
 - **2026** · Bilibili — 时光派官方 — [满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)](https://www.bilibili.com/video/BV1u5YX6JECk/) · copia: `2026/654a0b84fdd6` (live) · licenza: terzi
 - **2026** · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/) · copia: `2026/d6c235f32bf3` (Web Archive 20260604) · licenza: propria
+- **2026** · Autorita Garante per la Protezione dei D — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html) · copia: `2026/2a9036b3ef9e` (Web Archive 20260121) · licenza: terzi
 - **2026** · OrlandoMagazine.it — [L'utilità è il futuro. E il futuro è biohacking](https://www.orlandomagazine.it/2026/09/18/lutilita-e-il-futuro-e-il-futuro-e-biohacking/) · copia: `2026/66ee8a0d68ea` (live) · licenza: terzi
 - **2026** · Sohu 搜狐号 (时光派, 100270039) — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://www.sohu.com/a/1067664696_100270039) · copia: `2026/3ed9e3a20ed7` (live) · licenza: terzi
 - **2026** · Sohu (搜狐号) — 时光派 — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 | 第七届国际长寿论坛整体回顾](https://www.sohu.com/a/1078945684_100270039) · copia: `2026/ebce85101353` (live) · licenza: terzi

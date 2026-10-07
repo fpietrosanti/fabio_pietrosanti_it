@@ -1,8 +1,21 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-10-06**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-10-07**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
+
+## A0-ter. Nuove domande (2026-10-07)
+1. **Garante privacy di San Marino**: la pagina «Chi siamo» (`garanteprivacy.sm/…/chi-siamo.html`) elenca «Dott. Fabio
+   Pietrosanti» nel comitato tecnico di esperti, senza data. Sei tu? Da quando? (Registrata come voce verificata per nome.)
+2. **⚠️ Terzo caso di dati personali pubblicati**: easyteam.org (fornitore software per scuole) riproduce integralmente la
+   PEC MonitoraPA del 06/11/2022 con luogo e data di nascita e codice fiscale. Copia solo nell'archivio privato, nel sito
+   solo il titolo. Chiedere la rimozione, come per le due scuole?
+3. **Codice Beta**: la pagina News di hackingbiology.com indica il **17/05/2025**, l'URL RaiPlay Sound è del 01/2025.
+   Quale data è giusta (prima messa in onda o ripubblicazione)?
+4. **Fund Longevity, Roma 08/04/2026**: eri nella lista ospiti; ti hanno ripreso nel livestream globale (segmento Roma
+   17:23-17:25)? Ci sono altre riprese/articoli?
+5. **Omonimo nuovo**: un Fabio Pietrosanti di Velletri (ciclismo, ASD Center Bike) compare su Latina Oggi e latinanews →
+   escluso. Confermi che non sei tu?
 
 ## A0-bis. Risposte di Fabio del 2026-10-05 (applicate)
 - **1** dati personali delle scuole: «va bene così» → nessuna richiesta di oscuramento, copie solo nell'archivio privato. Chiuso.
@@ -130,6 +143,12 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-undecies. 2026-10-07
+- Copie delle 14 voci nuove **tutte ottenute**: reel Facebook di Codice (27/06/2025, 14 s) scaricato con yt-dlp (solo
+  locale); hackingbiology.com: la capture Wayback 02/2024 non conteneva il nome → salvate home, News e About dal live.
+- Retry dei falliti: invariati (Radio Monte Carlo 2010, PrivateWave EN/ES, deck Foggia 410, 2 notizieoggi.com,
+  coinage.it, CyberCoach solo pagina; 🟠 Sogou anti-bot).
 
 ### B0-decies. 2026-10-06
 - **Risolti:** techsupportforum.com (ripresa Techworld 01/02/2010, «Fabio Pietrosanti, founder and CTO of … Khamsa»):

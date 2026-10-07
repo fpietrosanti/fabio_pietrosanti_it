@@ -15234,6 +15234,23 @@
   "on_old_site": false
  },
  {
+  "date": "2022-10-13",
+  "year": 2022,
+  "type": "video (webinar)",
+  "outlet": "Istituto per le politiche dell'innovazione (IPI) - YouTube",
+  "title": "Usare il FOIA per la trasparenza del trattamento dati in ambito pubblico",
+  "url": "https://www.youtube.com/watch?v=SeQD83Nl1eE",
+  "language": "it",
+  "role": "panelist (author of the MonitoraPA campaign)",
+  "note": "Verified via YouTube description: \"discuteranno del tema Fabio Pietrosanti, autore della campagna di MonitoraPA; Nicola Manzi, Consulente e DPO, ed Ernesto Belisario\"; moderated by Adriana Peduto (E-Lex). Live 13/10/2022 18:30. A second upload of the same webinar exists: https://www.youtube.com/watch?v=y3PW2-LzOyI (published 2022-10-12, same description). Outside the 2023-2026 window but not in the archive.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_tech_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2022-10-19",
   "year": 2022,
   "type": "documento",
@@ -15283,6 +15300,23 @@
   "_slices": [
    "pass4_agendadigitale_2026-09-18",
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-11-06",
+  "year": 2022,
+  "type": "press_release",
+  "outlet": "Easyteam.org (blog di un fornitore di software per le scuole)",
+  "title": "MonitoraPA - Nuova segnalazione e nuovi controlli sui siti istituzionali",
+  "url": "https://www.easyteam.org/easynews/monitorapa-nuova-segnalazione-e-nuovi-controlli-sui-siti-istituzionali/",
+  "language": "it",
+  "role": "co-fondatore MonitoraPA, legale rappresentante Hermes Center (firmatario della PEC)",
+  "note": "Fuori dalla finestra 2023-26 ma assente da media.json (e' nota solo easyteam 2023/03/17). Riproduce integralmente la PEC MonitoraPA del 06/11/2022 firmata 'Fabio Pietrosanti Co-fondatore di Monitora PA'. Data = data della PEC (la pagina non ha data di pubblicazione). ATTENZIONE: la pagina pubblica i dati personali di Fabio (luogo e data di nascita, codice fiscale) copiati dalla PEC: valutare se citarla e/o chiedere la rimozione.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_latina_2026-10-07"
   ],
   "on_old_site": false
  },
@@ -15508,6 +15542,40 @@
   "on_old_site": false
  },
  {
+  "date": "2023-04-19",
+  "year": 2023,
+  "type": "mentioned",
+  "outlet": "Latina TU (latinatu.it)",
+  "title": "Latina, Celentano in visita al Gsl: \"Un'eccellenza che investe sul territorio\"",
+  "url": "https://latinatu.it/latina-celentano-in-visita-al-gsl-uneccellenza-che-investe-sul-territorio/",
+  "language": "it",
+  "role": "imprenditore GLS Latina (accompagna la candidata sindaco)",
+  "note": "Stesso comunicato della campagna Celentano gia' noto via Latina Oggi (210705), ripreso da altra testata; didascalia foto 'Matilde Celentano e Fabio Pietrosanti'. Snippet: \"accompagnata da Fabio Pietrosanti, figlio della signora Dolores, scomparsa lo scorso anno\"; cita il progetto di consegne con cargo bike elettriche con associazioni del territorio. article:published_time 2023-04-19T14:06+02:00.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_latina_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2023-04-19",
+  "year": 2023,
+  "type": "mentioned",
+  "outlet": "Latina News (latinanews.eu)",
+  "title": "Elezioni - Matilde Celentano in visita alla sede Gls di Latina",
+  "url": "https://www.latinanews.eu/elezioni-matilde-celentano-in-visita-alla-sede-gls-di-latina/",
+  "language": "it",
+  "role": "imprenditore GLS Latina (accompagna la candidata sindaco)",
+  "note": "Ripresa dello stesso comunicato. Snippet: \"La candidata sindaco di centrodestra, accompagnata da Fabio Pietrosanti, figlio della signora Dolores\". article:published_time 2023-04-19T18:00Z. Presente anche nell'archivio WP-API del repo dossier (data/research/raw/marasca/wp/latinanews.eu.posts.json).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_latina_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2023-05-16",
   "year": 2023,
   "type": "mentioned",
@@ -15538,6 +15606,23 @@
   "known": false,
   "_slices": [
    "pass4_copernicani_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2023-07-09",
+  "year": 2023,
+  "type": "website",
+  "outlet": "Hacking Biology (hackingbiology.com) – sito proprio / Hacking Biology Foundation",
+  "title": "Hacking Biology – The non-profit foundation stewarding biohack.it (blog di ricerca dal luglio 2023, pagine News e About)",
+  "url": "https://hackingbiology.com/",
+  "language": "en",
+  "role": "founder/author (self-published)",
+  "note": "Sito proprio, NON copertura di terzi: incluso solo come fonte primaria del filone biohacking (non presente in media.json). Letto 2026-10-07: «Hacking Biology was started by Fabio Pietrosanti». Primo post archiviato: https://hackingbiology.com/2023/07/09/a-data-driven-applied-aging-research-project/ (Wayback). La pagina /news/ elenca: 22/08/2024 presentazione alla comunita' Rapamycin News; 05/01/2025 Speciale Tg1; 17/05/2025 Codice Beta (data diversa dall'URL 2025/01 gia' noto: da chiarire con Fabio); 27/06/2025 Codice Rai 1; 02/07/2025 partecipazione al Longevity Summit Dublin (Trinity College, 2-4/7); 08/04/2026 Fund Longevity rally a Roma (Largo di Torre Argentina); 18/08/2026 migrazione del sito da WordPress.com. La sezione 'In the press' di /about/ cita solo i tre Rai gia' noti.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_biohacking_2026-10-07"
   ],
   "on_old_site": false
  },
@@ -15625,6 +15710,23 @@
  {
   "date": "2024-11-12",
   "year": 2024,
+  "type": "article (syndicated repost)",
+  "outlet": "The Cyber Post (thecyberpost.com)",
+  "title": "How Italy became an unexpected spyware hub (full repost of The Record / Recorded Future News)",
+  "url": "https://thecyberpost.com/news/how-italy-became-an-unexpected-spyware-hub/",
+  "language": "en",
+  "role": "interviewed / quoted",
+  "note": "Verified: full syndicated copy of the known The Record article; \"Fabio Pietrosanti, president of Italy's Hermes Center ... told Recorded Future News\" (9 mentions). Repost, merge as mirror of the known item.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_tech_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2024-11-12",
+  "year": 2024,
   "type": "articolo",
   "outlet": "The Record (Recorded Future News)",
   "title": "How Italy became an unexpected spyware hub",
@@ -15670,6 +15772,74 @@
   "year": 2024,
   "_slices": [
    "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2024-11-14",
+  "year": 2024,
+  "type": "article",
+  "outlet": "Think.it",
+  "title": "Spyware in Italia: un'analisi del mercato e delle implicazioni",
+  "url": "https://www.think.it/litalia-e-il-mercato-degli-spyware-unanalisi-approfondita/",
+  "language": "it",
+  "role": "quoted (paraphrase of The Record)",
+  "note": "Verified: \"Secondo Fabio Pietrosanti, presidente di Hermes Center for Transparency and Digital Human Rights, il costo relativamente basso degli spyware italiani...\". Published 2024-11-14.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_tech_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2024-11-14",
+  "year": 2024,
+  "type": "article (rewrite of The Record)",
+  "outlet": "Fudzilla",
+  "title": "Italy has become a major spyware hub",
+  "url": "https://fudzilla.com/italy-has-become-a-major-spyware-hub/",
+  "language": "en",
+  "role": "quoted",
+  "note": "Verified: \"Italy's Hermes Center for Transparency and Digital Human Rights Fabio Pietrosanti said: Spyware is being used more in Italy than in the rest of Europe because it's more accessible. In 2017, Pietrosanti worked on legislation...\" Dated Nov 14, 2024. Old URL /news/60079-italy-has-become-a-major-spyware-hub now 404.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_tech_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2024-11-14",
+  "year": 2024,
+  "type": "news aggregator story",
+  "outlet": "SoylentNews",
+  "title": "How Italy Became an Unexpected Spyware Hub (story + comments, sid=62694)",
+  "url": "https://soylentnews.org/comments.pl?noupdate=1&sid=62694&page=1&cid=1382701",
+  "language": "en",
+  "role": "quoted (excerpt of The Record)",
+  "note": "Verified: story text quotes \"Fabio Pietrosanti, president of Italy's Hermes Center ... told Recorded Future News\". URL is the comments view of the story (only URL found); low value aggregator repost - Fabio may prefer to fold it into the The Record item. Date approximate (story date not extracted).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_tech_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2024-11-16",
+  "year": 2024,
+  "type": "newsletter (weekly digest)",
+  "outlet": "CTO at NCSC Summary (Substack)",
+  "title": "CTO at NCSC Summary: week ending November 17th",
+  "url": "https://ctoatncsc.substack.com/p/cto-at-ncsc-summary-week-ending-november-ced",
+  "language": "en",
+  "role": "quoted (excerpt of The Record)",
+  "note": "Verified: digest entry \"How Italy became an unexpected spyware hub - The Record reports - Spyware is being used more in Italy than in the rest of Europe because it's more accessible, Fabio Pietrosanti, president of Italy's Hermes Center...\". Minor pickup of the known item.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_tech_2026-10-07"
   ],
   "on_old_site": false
  },
@@ -15765,6 +15935,23 @@
  {
   "date": "2025-06-27",
   "year": 2025,
+  "type": "video",
+  "outlet": "Facebook – pagina «Codice Barbara Carfagna» (giornalistaRaiuno)",
+  "title": "Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Alberto Carrara! (dietro le quinte di Codice, Rai 1)",
+  "url": "https://www.facebook.com/giornalistaRaiuno/videos/-quando-anche-il-biohacker-fabio-pietrosanti-ha-bisogno-di-una-sistemata-ci-pens/4033172536901428/",
+  "language": "it",
+  "role": "subject (backstage clip)",
+  "note": "Reel ufficiale della pagina del programma Codice (canonical: https://www.facebook.com/reel/4033172536901428/). og:title letto 2026-10-07: «Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Alberto Carrara! ... siamo prontissimi per la puntata di stasera ... in seconda serata su Rai1 #CODICE #BarbaraCarfagna #Biohacking». Video promo/backstage della puntata Codice 27/06/2025 (gia' nota). Data assente nei metadati: 'puntata di stasera' -> pubblicato il giorno della messa in onda (26 o 27/06/2025; la puntata era alle 00:20 del 27). Pagina social di un programma Rai, non un articolo. | Data corretta: yt-dlp timestamp 1751048393 = 27/06/2025 (giorno della puntata).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_biohacking_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2025-06-27",
+  "year": 2025,
   "type": "tv",
   "outlet": "Rai 1 - Codice, la vita è digitale",
   "title": "Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025",
@@ -15800,6 +15987,23 @@
   "on_old_site": false
  },
  {
+  "date": "2025-07-16",
+  "year": 2025,
+  "type": "article",
+  "outlet": "IRPA - Istituto di ricerche sulla pubblica amministrazione (archivio.irpa.eu)",
+  "title": "Italia come centro dell'industria spyware (insieme a Israele e India)",
+  "url": "https://archivio.irpa.eu/italia-come-centro-dellindustria-spyware-insieme-a-israele-e-india/",
+  "language": "it",
+  "role": "quoted (paraphrase)",
+  "note": "Verified: \"Secondo Fabio Pietrosanti, Direttore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali, le forze dell'ordine italiane hanno un accesso privilegiato alle tecnologie di sorveglianza\". datePublished 2025-07-16.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_tech_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2025-08-13",
   "year": 2025,
   "type": "book",
@@ -15816,6 +16020,23 @@
   ],
   "tags": [
    "books"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": 2026,
+  "type": "institutional",
+  "outlet": "Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino",
+  "title": "Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)",
+  "url": "https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html",
+  "language": "it",
+  "role": "member, Comitato Tecnico degli Esperti",
+  "note": "Verified 2026-10-07: \"Il Comitato Tecnico degli Esperti (art. 52 comma 11) e composto dai seguenti membri: Dott. Fabio Pietrosanti, Avv. Nazareno Bugli, Prof. Avv. Sabina Bulgarelli\". Appointment date not on page (Authority installed 1 Feb 2019); identity consistent (technical/security expert) but Fabio should confirm.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_tech_2026-10-07"
   ],
   "on_old_site": false
  },
@@ -15912,6 +16133,23 @@
   ],
   "tags": [
    "source-protection"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-04-01",
+  "year": 2026,
+  "type": "article",
+  "outlet": "The Next Web (TNW)",
+  "title": "WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhones (SIO)",
+  "url": "https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio",
+  "language": "en",
+  "role": "quoted (paraphrase, as Hermes Center president)",
+  "note": "Verified by fetch: \"Fabio Pietrosanti, president of the Hermes Center for Transparency and Digital Human Rights, has said that spyware is deployed more frequently in Italy than anywhere else in Europe...\" (follow-up of The Record 2024).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_tech_2026-10-07"
   ],
   "on_old_site": false
  },

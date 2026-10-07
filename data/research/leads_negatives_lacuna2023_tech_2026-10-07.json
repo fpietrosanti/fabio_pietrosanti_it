@@ -1,0 +1,281 @@
+{
+  "about": "Negatives/checked leads for pass4 lacuna 2023-2026 tech/security/whistleblowing (2026-10-07)",
+  "negatives": [
+    {
+      "url": "https://www.journalismfestival.com/speaker/fabio-pietrosanti",
+      "reason": "Speaker page (known) lists only 2012-2018 sessions; no 2026 IJF participation despite search-engine summary"
+    },
+    {
+      "url": "https://www.yoweb.it/le-mappe-della-sovranita-digitale/",
+      "reason": "2026-06-22, about an 'Osservatorio' on PA sovereignty; no Pietrosanti/naif/mxmap mention"
+    },
+    {
+      "url": "https://www.internetgs.it/open-data-e-sovranita-digitale/",
+      "reason": "2026-07-28, generic open-data/sovereignty piece; no name"
+    },
+    {
+      "url": "https://www.sovranita-digitale.it/",
+      "reason": "different observatory (contratti ICT); no name"
+    },
+    {
+      "url": "https://guerredirete.substack.com/p/guerre-di-rete-paragon-puntava-allamerica",
+      "reason": "Guerre di Rete Paragon 2025-02-09: no name"
+    },
+    {
+      "url": "https://copernicani.it/la-rivoluzione-della-longevita-visioni-dal-futuro/",
+      "reason": "Copernicani longevity event 2024-11-25: no name"
+    },
+    {
+      "url": "https://copernicani.it/?s=Pietrosanti",
+      "reason": "site search: only known 2020 and 2023 items"
+    },
+    {
+      "url": "https://www.cybersecurity360.it/?s=Pietrosanti",
+      "reason": "site search: only known 2022 Kaspersky article; rest are unrelated recent hits"
+    },
+    {
+      "url": "https://www.agendadigitale.eu/?s=Pietrosanti",
+      "reason": "site search: only known items"
+    },
+    {
+      "url": "https://www.key4biz.it/?s=Pietrosanti",
+      "reason": "site search: only known items (none 2023+)"
+    },
+    {
+      "url": "https://be-api.us.archive.org/fts/v1/search?q=%22Fabio%20Pietrosanti%22",
+      "reason": "IA full-text: 28 hits, none 2023-2026"
+    },
+    {
+      "url": "https://media.ccc.de/public/events/search?q=Pietrosanti",
+      "reason": "only SHA2017 (known); camp2023/37c3-39c3 nothing by him"
+    },
+    {
+      "url": "https://transparency.it/images/pdf_pubblicazioni/report-whistleblowing-2023.pdf",
+      "reason": "TI Italia Report Whistleblowing 2023 (89 pp): no Pietrosanti/naif"
+    },
+    {
+      "url": "https://www.transparency.it/images/pdf_pubblicazioni/2023_Primo_Commento_dlgs_242023_Whistleblowing.pdf",
+      "reason": "TI Italia commento D.lgs 24/2023: no name"
+    },
+    {
+      "url": "https://www.ilfattoquotidiano.it/?s=Pietrosanti",
+      "reason": "site search: 2023-2026 hits are homonyms / unrelated (poetry, Calabria, politics); no tech item"
+    },
+    {
+      "url": "https://europeantimes.org/scandal-journalists-in-italy-targeted-by-israeli-spyware/",
+      "reason": "2025-06-09 Paragon piece, no name"
+    },
+    {
+      "url": "https://bragg.substack.com/p/daily-drop-1058",
+      "reason": "newsletter 2025-06-10, no name"
+    },
+    {
+      "url": "https://www.article19.org/resources/italy-call-for-full-transparency-after-editor-targeted-with-spyware/",
+      "reason": "Cloudflare challenge; not bypassed; not checked (unlikely: NGO statement on Cancellato)"
+    },
+    {
+      "url": "https://privacy-network.it/news/articoli/dal-trojan-diabolico-di-nordio-alla-realta-giuridica-come-funziona-il-captatore-informatico/",
+      "reason": "2026-01-19 trojan article; no name"
+    },
+    {
+      "url": "https://e-privacy.winstonsmith.org/e-privacy-XXXII.html",
+      "reason": "e-privacy XXXII-XXXVII (2023-2026) pages + relatori/programma: no Pietrosanti/naif (some pages may 404)"
+    },
+    {
+      "url": "https://moca.camp/",
+      "reason": "MOCA 2024 site: no name on home; no schedule page found"
+    },
+    {
+      "url": "https://pretalx.com/api/events/",
+      "reason": "pretalx slugs moca2024/ihc2024/esc2023-25/hackmeeting2024/romhack2024/nohat2024/ihc2026 do not exist"
+    },
+    {
+      "url": "https://www.gsloft.it/biohacking-longevita/",
+      "reason": "no name"
+    },
+    {
+      "url": "https://en.futuroprossimo.it/2025/12/longevita-i-progressi-e-i-passi-falsi-del-biohacking-nel-2025/",
+      "reason": "no name"
+    },
+    {
+      "url": "https://globaleaks.org/blog/",
+      "reason": "GlobaLeaks blog index: no Pietrosanti mention"
+    },
+    {
+      "url": "https://www.agendadigitale.eu/infrastrutture/sovranita-digitale-nella-pa-come-fare-dal-controllo-dei-dati-alla-sicurezza-cloud-first/",
+      "reason": "sovereignty/CLOUD Act article surfaced by search for mxmap/Osservatorio; no mxmap/Pietrosanti/MonitoraPA mention"
+    },
+    {
+      "url": "https://digitaldomain.it/sovranita-digitale-perche-la-posta-elettronica-aziendale-deve-tornare-sotto-controllo/",
+      "reason": "sovereignty/CLOUD Act article surfaced by search for mxmap/Osservatorio; no mxmap/Pietrosanti/MonitoraPA mention"
+    },
+    {
+      "url": "https://fabiodalez.it/tecnologia/polo-strategico-nazionale-cloud-pa/",
+      "reason": "sovereignty/CLOUD Act article surfaced by search for mxmap/Osservatorio; no mxmap/Pietrosanti/MonitoraPA mention"
+    },
+    {
+      "url": "https://www.atworkstudio.it/news/cloud-act-sovranita-dati-europa",
+      "reason": "sovereignty/CLOUD Act article surfaced by search for mxmap/Osservatorio; no mxmap/Pietrosanti/MonitoraPA mention"
+    },
+    {
+      "url": "https://avvocatonardini.it/rete-pubblica-sovranita-digitale-italiana/",
+      "reason": "sovereignty/CLOUD Act article surfaced by search for mxmap/Osservatorio; no mxmap/Pietrosanti/MonitoraPA mention"
+    },
+    {
+      "url": "https://italy.cybertechconference.com/it/speakers",
+      "reason": "Cybertech Europe 2026 speakers page: no name"
+    },
+    {
+      "url": "https://agenda-2025.itasec.it/",
+      "reason": "ITASEC 2025 agenda: no name"
+    },
+    {
+      "url": "https://securitysummit.it/",
+      "reason": "Security Summit home: no name"
+    },
+    {
+      "url": "https://www.radioradicale.it/soggetti/175095/fabio-pietrosanti",
+      "reason": "known index; latest scheda 2021, nothing 2023-2026"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Q8bxSfGRx-w",
+      "reason": "Daniele Biancardi live 2023-03-28 on MonitoraPA vs Google/Microsoft: guests Ugo Lopez, Christian Bernieri; Fabio not named in description (talks about his campaign, but no name -> not an item)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7CK_5itzj7k",
+      "reason": "HOPE 2018 GlobaLeaks talk: no Pietrosanti in description"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qMu1w0VA0cI",
+      "reason": "ESC 2014 GlobaLeaks talk by Hellais, Evil, Vecna - not naif"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=waLUT87-F8M",
+      "reason": "2013 GlobaLeaks talk reupload; description has no name"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xqq5irQduRs",
+      "reason": "IFEL 2026-02-26 whistleblowing PNA 2025 webinar surfaced by search; not checked as speaker unlikely (no name in snippet)"
+    },
+    {
+      "url": "https://edri.org/our-work/inside-italys-low-cost-spyware-economy/",
+      "reason": "Italian spyware-industry piece (2023-2026) surfaced by quote search; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://www.ftm.eu/articles/spyware-industry-eu-subsidies-surveillance-concers",
+      "reason": "Italian spyware-industry piece (2023-2026) surfaced by quote search; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://www.heise.de/en/news/Mobile-spies-as-bargains-Italy-s-booming-spyware-shadow-industry-11312676.html",
+      "reason": "Italian spyware-industry piece (2023-2026) surfaced by quote search; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://stateofsurveillance.org/news/whatsapp-fake-app-sio-asigint-italian-spyware-2026/",
+      "reason": "Italian spyware-industry piece (2023-2026) surfaced by quote search; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://www.schneier.com/blog/archives/2024/11/why-italy-sells-so-much-spyware.html",
+      "reason": "Italian spyware-industry piece (2023-2026) surfaced by quote search; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://www.pandasecurity.com/it/mediacenter/spyware-made-in-italy-un-nuovo-primato-che-pochi-conoscono/",
+      "reason": "Italian spyware-industry piece (2023-2026) surfaced by quote search; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://irpimedia.irpi.eu/sorveglianze-spyware-italiani-mercato-internazionale/",
+      "reason": "Italian spyware-industry piece (2023-2026) surfaced by quote search; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://www.onoratoinformatica.it/cyber-security-culture/litalia-tra-i-grandi-degli-spyware-industria-casi-e-implicazioni-sulla-sicurezza/",
+      "reason": "Italian spyware-industry piece (2023-2026) surfaced by quote search; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://ninasec.substack.com/p/security-weekly-3-7225",
+      "reason": "Italian spyware-industry piece (2023-2026) surfaced by quote search; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://gulfnews.com/technology/the-crime-fighting-app-that-caused-a-phone-hacking-scandal-in-italy-1.1579192982539",
+      "reason": "2020 Exodus piece; no name"
+    },
+    {
+      "url": "https://www.radioradicale.it/scheda/775352/whistleblowing-governance-e-protezione-del-segnalante-nel-dlgs-242023-dialogo-a",
+      "reason": "Radio Radicale 2025-11-27 whistleblowing D.lgs 24/2023 dialogue: no Pietrosanti among speakers"
+    },
+    {
+      "url": "https://transparency.it/cosa-puoi-fare/eventi/whistleblowing-impatto-organizzazioni-pubbliche-private",
+      "reason": "TI Italia event page: no name"
+    },
+    {
+      "url": "https://transparency.it/cosa-puoi-fare/eventi/nuova-disciplina-whistleblowing-strumento-prevenzione-illeciti",
+      "reason": "TI Italia event page: no name"
+    },
+    {
+      "url": "https://www.aci.it/fileadmin/documenti/ACI/Iniziative_e_progetti/etica_legalita/Convegno_WHISTLE_11_luglio_2024_final_v3-11072024.pdf",
+      "reason": "Forum Whistleblowing 2024 (AITRA/OIW) programme: no name"
+    },
+    {
+      "url": "https://www.startmag.it/148-chi-siamo/",
+      "reason": "Search-engine summary claimed a 'Fabio Pietrosanti' was Formiche.net director 2012-2017 / Il Foglio; page returns 403 to curl, NOT verified; probably a summarizer conflation (Formiche director was Michele Arnese). If ever confirmed it would be a homonym, not Fabio."
+    },
+    {
+      "url": "https://hackmeeting.org/hackit23/schedule.html",
+      "reason": "Hackmeeting 2023-2026 schedule/index/press pages: no Pietrosanti/naif/GlobaLeaks"
+    },
+    {
+      "url": "https://www.gblock.app/articles/whatsapp-fake-app-italian-government-spyware",
+      "reason": "2026 SIO/Paragon coverage; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://www.gblock.app/articles/paragon-italy-graphite-journalist-investigation",
+      "reason": "2026 SIO/Paragon coverage; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://abit.ee/en/soft/messengers/whatsapp-spyware-sio-spyrtacus-fake-whatsapp-cybersecurity-italy-2026-en",
+      "reason": "2026 SIO/Paragon coverage; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://vucense.com/privacy-sovereignty/cybersecurity-threats/italian-spyware-whatsapp-ios-2026/",
+      "reason": "2026 SIO/Paragon coverage; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
+      "reason": "2026 SIO/Paragon coverage; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://news.cgtn.com/news/2026-04-02/WhatsApp-Italian-firm-targeted-around-200-users-with-spyware-1M0smrBZxVC/p.html",
+      "reason": "2026 SIO/Paragon coverage; fetched, no Pietrosanti/naif"
+    },
+    {
+      "url": "https://dig.watch/event/internet-governance-forum-2025",
+      "reason": "IGF 2025 page: no name"
+    },
+    {
+      "url": "https://www.digitalpublicgoods.net/r/globaleaks",
+      "reason": "GlobaLeaks DPG profile: no name"
+    },
+    {
+      "url": "https://itunes.apple.com/search?term=Pietrosanti&entity=podcastEpisode",
+      "reason": "Apple Podcasts episode search (Pietrosanti, Fabio Pietrosanti, GlobaLeaks, Hermes): only known 2019-2022 episodes; 2024 'Vieni con me' (Radio Popolare) is Laura Pietrosanti"
+    },
+    {
+      "url": "https://api.spreaker.com/v2/search?type=episodes&q=Pietrosanti",
+      "reason": "Spreaker search: only known episodes; 2025 hits = Matteo Pietrosanti (homonym case, Latina)"
+    },
+    {
+      "url": "https://www.youtube.com/results?search_query=Fabio+Pietrosanti",
+      "reason": "YouTube search (6 queries): no new 2023-2026 video beyond known Rai Codice 2025; Radio Digiesse = homonym author"
+    },
+    {
+      "url": "https://www.ihc.camp/",
+      "reason": "IHC site returns empty to curl; IHC 2024/2026 programme not reachable (prior pass residui_ihc covered IHC)"
+    },
+    {
+      "url": "https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/",
+      "reason": "known speaker page (2019)"
+    },
+    {
+      "url": "https://archive.org/wayback/available?url=fudzilla.com",
+      "reason": "Wayback availability API answered 429 once; stopped Wayback use (live fudzilla URL found instead)"
+    }
+  ]
+}

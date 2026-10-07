@@ -317,6 +317,36 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   A9-0189/2023** letta (DOCX ufficiale): nessuna occorrenza (l'unico «Hermes» è Hermes Airports, Cipro).
   Omonima già nota (decisions.json): **Valentina Pietrosanti** (redazione Radio Radicale), falsi positivi su radioradicale.it.
 
+- [x] **Lacuna 2023–2026 — passata 2026-10-07** (aperta oggi: 2023-2025 avevano solo 26 voci; 3 agenti:
+  `pass4_lacuna2023_{latina,tech,biohacking}`, negativi in `data/research/leads_negatives_lacuna2023_*_2026-10-07.json`,
+  ~130 ricerche) → **+14 voci**, tutte verificate.
+  - **Latina**: riprese della visita della Celentano alla GLS (19/04/2023) su latinatu.it e latinanews.eu («accompagnata
+    da Fabio Pietrosanti», foto con didascalia); PEC MonitoraPA del 06/11/2022 riprodotta da easyteam.org (**con i suoi
+    dati personali** → domanda a Fabio). Negativi: chiusura GLS Latina 2025 (6 testate, parla solo **Elma**), ex Pacifico/P&D
+    («famiglia Pietrosanti», mai il suo nome), Aeroporto di Latina, Consorzio Logistico, Unindustria, TV locali: nessuna
+    menzione. Omonimo nuovo: **Fabio Pietrosanti di Velletri (ASD Center Bike, ciclismo)** → in `decisions.json`.
+  - **Tech/spyware**: The Next Web 01/04/2026 (caso SIO, «Hermes Center president»), IRPA 16/07/2025, riprese del pezzo
+    The Record 2024 (Think.it, Fudzilla, The Cyber Post, SoylentNews, digest CTO at NCSC), webinar IPI 13/10/2022 su FOIA
+    e MonitoraPA (YouTube), **Garante privacy di San Marino** («Dott. Fabio Pietrosanti» nel comitato tecnico di esperti,
+    senza data → domanda a Fabio). Negativi: D.lgs 24/2023, Paragon, Equalize, e-privacy 2023-26, Hackmeeting, ITASEC,
+    Cybertech, Security Summit, podcast, Radio Radicale (ultimo intervento 2021).
+  - **Biohacking**: reel Facebook «Codice Barbara Carfagna» del 27/06/2025 (dietro le quinte, video scaricato) e il sito
+    hackingbiology.com (fonte primaria, News dal 2023). Negativi: stampa nazionale, longevity media internazionali, 39C3,
+    GlycanAge, Biohackers Milano, SignalSwarm (nessuna copertura pubblica).
+  **Resta:** IHC 2024/2026 (sito vuoto agli script), LatinaToday (ricerca solo JS), RaiPlay Sound / Ufficio stampa Rai
+  (403 dal laptop: altre puntate Codice Beta/Rai Radio), Facebook/Instagram (altri promo Codice: serve il Chrome loggato),
+  livestream Fund Longevity Roma 08/04/2026 (YouTube 4CHvbryuUb4, segmento Roma 17:23-17:25, da guardare), quotidiani
+  a pagamento (Corriere, Repubblica, Il Foglio, Messaggero Latina).
+## Note sessione 2026-10-07 (run programmata «ricerca profonda»)
+- **921 voci** in `data/media.json` (+14, vedi «Lacuna 2023–2026» sopra).
+- **Scelta della voce:** le prime voci aperte restano bloccate — Chrome di Fabio «not connected» anche oggi (Douyin,
+  Weibo, WeChat fermi), sito Hermes online ma con le sole 33 notizie nuove (News & Press storico non ancora ripubblicato),
+  video TimePie non annunciati. Aperta e lavorata la lacuna per anni 2023–2026.
+- **Copie:** 14 nuove ottenute (reel Facebook scaricato con yt-dlp; hackingbiology.com salvato dal live perché la
+  capture 2024 non aveva il nome). Retry dei falliti: invariati i 7 ❌.
+- **Prossima voce lavorabile:** «Video/audio — ritagliare i convegni non Radio Radicale» (lavoro locale) oppure la
+  lacuna **2004–2008** (solo 26 voci: SMAU, MOCA 2004, Infosecurity, PrivateGSM/Khamsa agli inizi, stampa d'epoca).
+
 ## Note sessione 2026-10-06 (run programmata «ricerca profonda»)
 - **906 voci** in `data/media.json` (+2: tweet «Slide Foggia» 05/12/2019 verificato; deck Google Slides cancellato, non
   verificabile). Voce lavorata: «Nuove piste emerse il 2026-10-05» (vedi sopra), chiusa.

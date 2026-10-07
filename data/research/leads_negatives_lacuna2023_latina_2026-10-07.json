@@ -1,0 +1,138 @@
+{
+ "about": "Negativi del pass4 lacuna 2023-2026, stampa locale di Latina (2026-10-07)",
+ "searched": [
+  "ricerca interna di latinaoggi.eu (/ricerca?q=...&page=N, max 100 risultati): 'Pietrosanti', 'Fabio Pietrosanti', GlobaLeaks, Hermes Center, whistleblowing, P&D Srl, Gls Latina, Copernicani, MonitoraPA, biohacking, aeroporto comitato -> l'unico articolo su Fabio e' il gia' noto 210705 (Celentano/GLS 2023-04-19)",
+  "pagine 1-3 di latinaoggi.eu tag/gls -> niente su Fabio",
+  "la ricerca di latinatoday.it e' renderizzata in JS e non si puo' estrarre; usate query WebSearch site: -> niente su Fabio",
+  "h24notizie.com, ilcaffe.tv, latinacorriere.it, latina24ore.it, ilfaroonline.it, latinaquotidiano.it, ilmessaggero.it/latina con query site: -> solo omonimi",
+  "campagna Aeroporto di Latina (Comitato, PNA 2026-2035, ENAC): la copertura stampa trovata non nomina mai Fabio; anche il repo locale aeroporto-latina non registra uscite stampa che lo nominino",
+  "Consorzio Logistico Latina Scalo: solo il repo GitHub (gia' noto); nessuna uscita stampa",
+  "Unindustria / Confindustria / Camera di commercio Frosinone-Latina: niente",
+  "TeleUniverso / Lazio TV / Radio Luna / YouTube locali: niente",
+  "Copernicani / MonitoraPA 2023-2026 sulla stampa nazionale: nulla di nuovo oltre agli elementi gia' noti (key4biz 413335 gia' in media.json)",
+  "Osservatorio Sovranita' Digitale / mxmap.it 2026: solo il post su forum.italia.it (forum, non conta) e i siti propri",
+  "repo locale del dossier (analisi-dossier-panigutti-marasca), grep di 'fabio pietrosanti' su json/md/csv/txt: solo latinanews Celentano (positivo) e Center Bike (omonimo)"
+ ],
+ "not_him_or_no_name": [
+  {
+   "url": "https://www.latinaoggi.eu/news/cronaca/311088/gls-lascia-latina-interrotto-il-contratto-con-p-d.html",
+   "reason": "GLS/P&D settembre 2025: cita solo Elma Pietrosanti (AD P&D), non Fabio"
+  },
+  {
+   "url": "https://www.latinaquotidiano.it/gls-chiude-a-latina-contratto-interrotto-con-pd-srl/",
+   "reason": "GLS/P&D settembre 2025: cita solo Elma Pietrosanti (AD P&D), non Fabio"
+  },
+  {
+   "url": "https://www.latinapress.it/latina/gls-abbandona-latina-26-dipendenti-a-rischio-dopo-la-rottura-con-pd-srl/",
+   "reason": "GLS/P&D settembre 2025: cita solo Elma Pietrosanti (AD P&D), non Fabio"
+  },
+  {
+   "url": "https://latinatu.it/logistica-gls-chiude-a-latina/",
+   "reason": "GLS/P&D settembre 2025: cita solo Elma Pietrosanti (AD P&D), non Fabio"
+  },
+  {
+   "url": "https://www.mondoreale.it/2025/09/latina-gls-abbandona-la-citta-interrotto-il-contratto-con-pd-srl/",
+   "reason": "GLS/P&D settembre 2025: cita solo Elma Pietrosanti (AD P&D), non Fabio"
+  },
+  {
+   "url": "https://latinatu.it/gls-lascia-latina-presentata-una-interrogazione-in-regione/",
+   "reason": "Articolo GLS / P&D 2024-2025 senza il nome di Fabio"
+  },
+  {
+   "url": "https://www.latinaoggi.eu/news/home/311101/gls-latina-interrogazione-in-regione-per-tutelare-i-70-posti-di-lavoro.html",
+   "reason": "Articolo GLS / P&D 2024-2025 senza il nome di Fabio"
+  },
+  {
+   "url": "https://www.latinatoday.it/attualita/gls-non-lascia-latina-ecco-novita.html",
+   "reason": "Articolo GLS / P&D 2024-2025 senza il nome di Fabio"
+  },
+  {
+   "url": "https://www.latinaoggi.eu/news/home/309187/prima-battaglia-vinta-dai-corrieri-gls-ritirata-la-procedura-di-licenziamento.html",
+   "reason": "Articolo GLS / P&D 2024-2025 senza il nome di Fabio"
+  },
+  {
+   "url": "https://www.latinaoggi.eu/news/attualita/308459/gls-sciopero-a-oltranza-dei-lavoratori-di-latina.html",
+   "reason": "Articolo GLS / P&D 2024-2025 senza il nome di Fabio"
+  },
+  {
+   "url": "https://www.latinaoggi.eu/news/home/302917/corrieri-sottopagati-scatta-lo-sciopero-nel-deposito-gls.html",
+   "reason": "Articolo GLS / P&D 2024-2025 senza il nome di Fabio"
+  },
+  {
+   "url": "https://www.latinaoggi.eu/news/home/303216/sventato-il-colpo-nel-deposito-gls.html",
+   "reason": "Articolo GLS / P&D 2024-2025 senza il nome di Fabio"
+  },
+  {
+   "url": "https://www.latinaoggi.eu/news/cronaca/309989/interravano-gli-scarti-della-bonifica-sequestrata-una-discarica-abusiva-nell-ex-pacifico.html",
+   "reason": "Articolo GLS / P&D 2024-2025 senza il nome di Fabio"
+  },
+  {
+   "url": "https://www.latinaoggi.eu/news/home/309367/acquisizione-ex-pacifico-nodo-occupazione.html",
+   "reason": "2025-07-04, articolo critico su P&D/ex Pacifico: 'famiglia di imprenditori di Sermoneta', nessun nome di Fabio"
+  },
+  {
+   "url": "https://latinatu.it/rifiuti-interrati-nellex-pacifico-di-latina-scatta-il-sequestro/",
+   "reason": "ex Pacifico 2025-2026: solo 'famiglia Pietrosanti di Sermoneta', nessun nome di Fabio"
+  },
+  {
+   "url": "https://latinatu.it/gli-interessi-sullex-pacifico-venduto-a-un-terzo-del-valore-la-via-per-un-nuovo-supermercato/",
+   "reason": "ex Pacifico 2025-2026: solo 'famiglia Pietrosanti di Sermoneta', nessun nome di Fabio"
+  },
+  {
+   "url": "https://latinatu.it/ex-pacifico-primo-via-libera-al-nuovo-centro-commerciale/",
+   "reason": "ex Pacifico 2025-2026: solo 'famiglia Pietrosanti di Sermoneta', nessun nome di Fabio"
+  },
+  {
+   "url": "https://tabloidweb.it/e-sullex-frigomarket-pacifico-spunta-un-altro-ipermercato/",
+   "reason": "ex Pacifico 2025-2026: solo 'famiglia Pietrosanti di Sermoneta', nessun nome di Fabio"
+  },
+  {
+   "url": "https://latinatu.it/rifiuti-interrati-nellex-pacifico-di-latina-la-societa-pd-difende-il-suo-operato-nessuna-discarica-abusiva/",
+   "reason": "2025-07-28, nota di Elma Pietrosanti e dell'avv. Frisetti, nessun nome di Fabio"
+  },
+  {
+   "url": "https://www.latinaoggi.eu/news/velletri/318456/giro-dell-agro-pontino-l-11-tappa-va-a-bisonni-e-fraiegari-tra-le-campagne-di-velletri.html",
+   "reason": "OMONIMO: Fabio Pietrosanti presidente ASD Center Bike Velletri (ciclismo Opes); idem latinanews.eu 2023-05 (opes-in-arrivo-il-5-trofeo-center-bike-velletri, giro-dellagro-pontino-pantoni-e-pezza...), latinacorriere.it, latinaquotidiano.it"
+  },
+  {
+   "url": "https://www.latinaquotidiano.it/tag/fabio-pietrosanti/",
+   "reason": "OMONIMO: il tag riguarda il ciclista della Center Bike Velletri"
+  },
+  {
+   "url": "https://www.latinaoggi.eu/gallery/attualita/215590/cybersecurity-il-pericolo-e-reale.html",
+   "reason": "Evento cyber a Cisterna 2023-12-15, relatori Belardini/Giupponi, non Fabio"
+  },
+  {
+   "url": "https://laprovincialatina.it/2025/03/17/mule-bene-gip-latina-su-vicenda-pietrosanti/",
+   "reason": "OMONIMO: Matteo Pietrosanti (giovane calciatore morto nel 2022)"
+  },
+  {
+   "url": "https://www.journalismfestival.com/speaker/fabio-pietrosanti",
+   "reason": "il riassunto del motore di ricerca dichiarava IJF 2026; la pagina elenca solo le sessioni 2015/2018 (gia' note)"
+  },
+  {
+   "url": "https://www.yoweb.it/le-mappe-della-sovranita-digitale/",
+   "reason": "Sovranita' digitale / whistleblowing 2026: aperta, non contiene il nome di Fabio ne' 'naif'"
+  },
+  {
+   "url": "https://sustainableitc.substack.com/p/98-sovranita-digitale-tra-annuncio",
+   "reason": "Sovranita' digitale / whistleblowing 2026: aperta, non contiene il nome di Fabio ne' 'naif'"
+  },
+  {
+   "url": "https://mps-ti.ch/2026/10/posta-elettronica-del-settore-scolastico-ecosistema-microsoft-e-sovranita-digitale-quali-garanzie-per-il-cantone-ticino/",
+   "reason": "Sovranita' digitale / whistleblowing 2026: aperta, non contiene il nome di Fabio ne' 'naif'"
+  },
+  {
+   "url": "https://ilbolive.unipd.it/en/node/24084",
+   "reason": "Sovranita' digitale / whistleblowing 2026: aperta, non contiene il nome di Fabio ne' 'naif'"
+  },
+  {
+   "url": "https://www.latina24ore.it/latina/149440/uno-studente-pontino-nella-nazionale-italiana-hacker/",
+   "reason": "nessun nome di Fabio"
+  }
+ ],
+ "homonyms_seen": "Omonimi nella stampa di Latina 2023-26: Matteo (Priverno), Roberto (Polizia), Simone (candidato ad Aprilia), Luca Maria (avvocato), Christian, Michelle, Veronica, Elmerindo, Gualtiero, Fra' Vincenzo, Elma (AD P&D), Fabio della Center Bike Velletri.",
+ "not_done": [
+  "Edizione Digitale di Latina Oggi e Il Messaggero Latina (pay) non ricercabili full-text; ricerca interna di latinatoday solo JS; TV locali e YouTube non enumerabili senza scraping dei canali; Wayback CDX non usato (nessun URL specifico da recuperare); ricerca latinaoggi limitata a 100 risultati per query (nessun filtro per data)"
+ ]
+}
