@@ -219,6 +219,13 @@ details p{font-size:14.5px;color:var(--ink2);margin:8px 0;max-width:740px;white-
 .art:hover img{filter:none}
 .art .ay{display:block;font:600 11px var(--mono);color:var(--acc2);padding:9px 11px 0}
 .art .at{display:block;font-size:12.5px;color:var(--ink2);padding:2px 11px 12px;line-height:1.35}
+/* donor */
+.donor{background:linear-gradient(135deg,color-mix(in srgb,#d7263d 16%,var(--card)),var(--card));
+  border:1px solid var(--line);border-left:4px solid #d7263d;border-radius:14px;padding:26px 28px;max-width:860px}
+.donor .dk{font:600 11px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:#e8657a}
+.donor h3{font:600 clamp(22px,3vw,30px)/1.2 var(--serif);margin:8px 0 10px}
+.donor p{color:var(--ink2);margin:0 0 12px;max-width:680px}
+.donor a{font:500 14px var(--mono)}
 /* communities, past, contact */
 .comms{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
 .comm{border-left:3px solid var(--acc2);padding:4px 0 4px 15px}
@@ -301,6 +308,8 @@ footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
 <section id="communities"><div class="wrap">{{H_COMM}}<div class="comms">{{COMM}}</div></div></section>
 
 <section id="past"><div class="wrap">{{H_PAST}}<ul class="past">{{PAST}}</ul></div></section>
+
+<section id="donor"><div class="wrap">{{DONOR}}</div></section>
 
 <section id="contact"><div class="wrap">{{H_CONTACT}}
   <p class="contact">Write on <a href="https://www.linkedin.com/in/secret/" rel="noopener">LinkedIn</a>, read the code on <a href="https://github.com/fpietrosanti" rel="noopener">GitHub</a>.</p>

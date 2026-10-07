@@ -226,6 +226,10 @@ def build(lang="en"):
         + "</div></article>"
         for b in sorted(book_list, key=lambda b: (b["year"], b["title"])))
     books_html = (f'<div class="books">{books}</div><p class="note">{esc(bui.get("note", ""))}</p>') if books else ""
+    dn = c.get("donor") or {}
+    donor = (f'<div class="donor"><span class="dk">{esc(dn.get("kicker",""))}</span>'
+             f'<h3>{esc(dn.get("title",""))}</h3><p>{esc(dn.get("text",""))}</p>'
+             f'<a href="{esc(dn["link"][1])}" rel="noopener">{esc(dn["link"][0])} →</a></div>') if dn else ""
     comm = "".join(f'<div class="comm"><h4>{esc(n)}</h4><p>{esc(t)}</p></div>' for n, t in c["communities"])
     past = "".join(f'<li><a href="{esc(u)}">{esc(n)}</a></li>' for n, u in c["past_sites"])
     nav = "".join(f'<a href="#{k}">{esc(v)}</a>' for k, v in c["nav"])
@@ -262,7 +266,7 @@ def build(lang="en"):
         "H_TRUTH": head("truth", 6), "TRUTH": truth, "TAGS": json.dumps(
             {k: v["label_en"] for k, v in tagdefs.items() if not k.startswith("_")}, ensure_ascii=False),
         "H_COMM": head("communities", 8), "COMM": comm, "H_PAST": head("past", 9), "PAST": past,
-        "H_CONTACT": head("contact", 11), "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
+        "H_CONTACT": head("contact", 11), "DONOR": donor, "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
         "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
     }.items():
         page = page.replace("{{" + k + "}}", v)
