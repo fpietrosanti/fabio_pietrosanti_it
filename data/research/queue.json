@@ -464,35 +464,51 @@
   },
   {
    "domain": "forbes.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 2
   },
   {
    "domain": "wired.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 1
   },
   {
    "domain": "spiegel.de",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 0
   },
   {
    "domain": "sueddeutsche.de",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 0
   },
   {
    "domain": "zeit.de",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 0
   },
   {
    "domain": "netzpolitik.org",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 1
   },
   {
    "domain": "heise.de",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 3
   },
   {
    "domain": "lemonde.fr",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 2
   },
   {
    "domain": "liberation.fr",
@@ -1237,6 +1253,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok, tabs_context/tabs_create ok, ma la prima ricerca (site:forbes.com) è fallita: 'extension disconnected mid-operation', poi 'Claude in Chrome is not connected' e list_connected_browsers vuoto a intermittenza; a ogni riconnessione il gruppo schede viene ricreato con ID nuovi ('tab not in Claude's tab group'). 5 tentativi tra il 06/10 sera e il 07/10. Nessuna ricerca eseguita, nessun robot check. Schede chiuse. verify/merge/archive non eseguiti. Coda invariata; prossimo blocco: forbes.com, wired.com, spiegel.de, sueddeutsche.de, zeit.de, netzpolitik.org, heise.de, lemonde.fr. Serve Fabio: estensione Claude in Chrome instabile (service worker) — riavviare Chrome/estensione."
+  },
+  {
+   "date": "2026-10-07 10:25",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 7,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome stabile in questo run, nessun robot check. 8 domini (forbes, wired, spiegel, sueddeutsche, zeit, netzpolitik, heise, lemonde): 9 risultati; spiegel/sueddeutsche/zeit = 0. Già noti: forbes 2011-01-26 GlobaLeaks e wired 2013. Confermati 7 nuovi: Forbes 2011-01-31 (Egitto/Noor), heise 2010-02-02 (Hickhack Handyverschlüsselung, Khamsa), heise 2017-08-08 (SHA2017 Staatstrojaner con Aterno), heise + netzpolitik 2021-05-27 (reclami Clearview/PimEyes, Hermes Center), Le Monde 2014-10-17 (Hermès) e 2014-11-20 (Tails/GlobaLeaks). Date e lingue corrette a mano. Copie offline: 7/7 ottenute. Prossimo blocco: liberation.fr, elpais.com, eldiario.es, bbc.co.uk, bbc.com, nytimes.com, washingtonpost.com, aljazeera.com."
   }
  ]
 }

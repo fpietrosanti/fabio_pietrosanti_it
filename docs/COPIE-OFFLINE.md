@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **921**; già processate: **1074**; ancora da processare: **0**
-- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **749** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **878**
+- Voci in `data/media.json`: **928**; già processate: **1081**; ancora da processare: **0**
+- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **756** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **885**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **93**
@@ -34,18 +34,18 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2007 | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2008 | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 43 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 2010 | 55 | 2 | 0 | 0 | 0 | 0 | 3 |
-| 2011 | 27 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2010 | 56 | 2 | 0 | 0 | 0 | 0 | 3 |
+| 2011 | 28 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 28 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2014 | 21 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2014 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 24 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 66 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 67 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 45 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 76 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 158 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2021 | 79 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 2021 | 81 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 53 | 8 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -490,6 +490,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.csoonline.com/article/524574/malware-cybercrime-accusations-fly-over-voice-encryption-hack.html) · copia: `2010/3c24d3c7cfab` (Web Archive 20230928) · licenza: terzi
 - **2010** · Data Manager Online — [Intercettazioni e molto di più](https://www.datamanager.it/news/sicurezza/intercettazioni-e-molto-di-pi) · copia: `2010/0f172e809c69` (Web Archive 20240220) · licenza: propria
 - **2010** · Data Manager (rivista) — [Khamsa: chiamate cifrate tra cellulari](https://www.datamanager.it/rivista/privategsm/khamsa-chiamate-cifrate-tra-cellulari) · copia: `2010/1d0ab80daab7` (Web Archive 20100508) · licenza: terzi
+- **2010** · heise.de — [Hickhack um Test für Handyverschlüsselung](https://www.heise.de/news/Hickhack-um-Test-fuer-Handyverschluesselung-919951.html) · copia: `2010/2dbb8a9f03d0` (live) · licenza: terzi
 - **2010** · SlideShare profile fpietrosanti — [Fabio Pietrosanti presentations (13 decks)](https://www.slideshare.net/fpietrosanti) · copia: `2010/861f7ed4a4c3` (Web Archive 20111207) · licenza: propria
 - **2010** · SlideShare (WHYMCA 2010) — [2010: Mobile Security - WHYMCA Developer Conference](https://www.slideshare.net/slideshow/2010-mobile-security-whymca-developer-conference/4392945) · copia: `2010/8c7c8628f2e5` (Web Archive 20250129) · licenza: propria
 - **2010** · Cellulare Magazine (print, via SlideShar — [PrivateGSM e parli con tutti](https://www.slideshare.net/slideshow/cellulare-magazine-privategsm-e-parli-con-tutti/3920453) · copia: `2010/034f3c1c9a41` (live) · licenza: terzi
@@ -523,6 +524,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2011** · infosecurity.ch (blog) — [RFC 6189: ZRTP is finally a standard!](https://web.archive.org/web/2012/http://infosecurity.ch/20110411/rfc-6189-zrtp-is-finally-a-standard/) · copia: `2011/045847a702b6` (Web Archive 20110625) · licenza: propria
 - **2011** · Festival Internazionale del Giornalismo  — [Pietrosanti Fabio (ospiti 2011)](https://www.festivaldelgiornalismo.com/menu/ospiti-2011/pietrosanti-fabio/) · copia: `2011/e1c4715aba13` (Web Archive 20110414) · licenza: terzi
 - **2011** · Forbes (Andy Greenberg) — [GlobaLeaks Wants To Be The Bittorrent To WikiLeaks' Napster](https://www.forbes.com/sites/andygreenberg/2011/01/26/globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster/) · copia: `2011/d859b1680d1d` (Web Archive 20130316) · licenza: terzi
+- **2011** · forbes.com — [Egypt's Last Internet Lifeline Put In A Chokehold - Forbes](https://www.forbes.com/sites/andygreenberg/2011/01/31/egypts-last-internet-lifeline-put-in-a-chokehold/) · copia: `2011/c5423d7c592c` (Web Archive 20120511) · licenza: terzi
 - **2011** · Hermes Center — News & Press (sito in ri — [Forbes, GlobaLeaks Wants To Be The Bittorrent To WikiLeaks’ Napster](https://www.hermescenter.org/26012011-forbes-globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster/) · copia: `2011/fe9d665869a5` (Web Archive 20190823) · licenza: propria
 - **2011** · Hermes Center — News & Press (sito in ri — [Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks](https://www.hermescenter.org/radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks/) · copia: `2011/5ef463e920e0` (Web Archive 20200920) · licenza: propria
 - **2011** · Hermes Center — News & Press (sito in ri — [X Congresso dei Radicali Italiani,  Globaleaks](https://www.hermescenter.org/x-congresso-radicali-italiani-globaleaks/) · copia: `2011/3eeba8fc7823` (Web Archive 20190823) · licenza: propria
@@ -605,6 +607,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2014** · International Journalism Festival - news — [How to protect the next Snowden](https://www.journalismfestival.com/news/how-to-protect-the-next-snowden/) · copia: `2014/87e918067ece` (Web Archive 20140513) · licenza: terzi
 - **2014** · International Journalism Festival (Perug — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `2014/4d9d695006fd` (Web Archive 20140714) · licenza: terzi
 - **2014** · International Journalism Festival (Perug — [Telephone intercepts in the age of NSAGate](https://www.journalismfestival.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate) · copia: `2014/b69196699305` (Web Archive 20140714) · licenza: terzi
+- **2014** · lemonde.fr — [Hermès, les messagers de l’Internet libre](https://www.lemonde.fr/pixels/article/2014/10/17/hermes-les-messagers-de-l-internet-libre_4508097_4408996.html) · copia: `2014/60916bcffa88` (Web Archive 20141017) · licenza: terzi
+- **2014** · lemonde.fr — [Tails, l'outil détesté par la NSA, qui veut démocratiser l'anonymat en ligne](https://www.lemonde.fr/pixels/article/2014/11/20/tails-l-outil-deteste-par-la-nsa-qui-veut-democratiser-l-anonymat-en-ligne_4514650_4408996.html) · copia: `2014/d763cef2422f` (Web Archive 20141120) · licenza: terzi
 - **2014** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/429504) · copia: `2014/06a3b9fc21fa` (Web Archive 20210508 · video locale `media.m4a` (34 MB, da caricare su Drive)) · licenza: terzi
 - **2014** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/429504/presi-per-il-web) · copia: `2014/c66facbd3659` (Web Archive 20150514 · video locale `media.m4a` (34 MB, da caricare su Drive)) · licenza: terzi
 - **2014** · Motherboard (VICE) — [Inside SS7, the Insecure Global Cell Network That's Used to Track Phones](https://www.vice.com/en/article/inside-ss7-the-insecure-global-cell-network-thats-used-to-track-phones/) · copia: `2014/efc9aa845d31` (Web Archive 20201112) · licenza: terzi
@@ -726,6 +730,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · University of California, Berkeley, PhD  — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf) · copia: `2017/07478431c5a6` (Web Archive 20190612) · licenza: terzi
 - **2017** · www.ccc.de — [Stellungnahme_CCC-Staatstrojaner.pdf](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) · copia: `2017/0ec817dbfbbc` (Web Archive 20170531) · licenza: terzi
 - **2017** · European Parliament, Policy Department f — [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf) · copia: `2017/114e1a17fa02` (Web Archive 20170419) · licenza: terzi
+- **2017** · heise.de — [Hackercamp SHA2017: Gold-Standard für Staatstrojaner gesucht](https://www.heise.de/news/Hackercamp-SHA2017-Gold-Standard-fuer-Staatstrojaner-gesucht-3795375.html) · copia: `2017/34f8a7c025be` (Web Archive 20260223) · licenza: terzi
 - **2017** · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/) · copia: `2017/21e70c003198` (Web Archive 20210306) · licenza: propria
 - **2017** · Hermes Center (hermescenter.org) / CILD  — [Lettera al Ministro Carlo Calenda (MISE) sulle licenze di esportazione di tecnologie di so](https://www.hermescenter.org/wp-content/uploads/2017/04/MISElettera_aprile2017_ITA-2.pdf) · copia: `2017/c8c2d1cc7bc8` (local-crawl) · licenza: propria
 - **2017** · Il Fatto Quotidiano (blog Umberto Rapett — [Referendum Lombardia e voto elettronico, mi fido o no?](https://www.ilfattoquotidiano.it/2017/10/21/referendum-lombardia-e-voto-elettronico-mi-fido-o-no/3927235/) · copia: `2017/60a94504eb19` (Web Archive 20171022) · licenza: terzi
@@ -1061,6 +1066,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · GitHub (g0v-it/Geo-AIRE) — [Un approccio di policy research per la sicurezza del voto degli AIRE basato su analisi dat](https://github.com/g0v-it/Geo-AIRE/blob/main/Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.pdf) · copia: `2021/b55d96935038` (Web Archive 20220108) · licenza: terzi
 - **2021** · GitHub — lessgreen — [OpenPUDO — Open PUDO Software Platform](https://github.com/lessgreen/OpenPUDO) · copia: `2021/b28c2369e065` (Web Archive 20220407) · licenza: propria
 - **2021** · GlobaLeaks blog — [Workshop: Building Secure Whistleblowing Systems for Anticorruption with the GlobaLeaks So](https://globaleaks.org/2021/04/04/workshop-building-secure-whistleblowing-systems-for-anticorruption-with-the-globaleaks-software/) · copia: `2021/888348d89638` (Web Archive 20230328) · licenza: propria
+- **2021** · netzpolitik.org — [Gesichtserkennung: Datenschutz-Verfahren gegen PimEyes und Clearview](https://netzpolitik.org/2021/gesichtserkennung-datenschutz-verfahren-gegen-pimeyes-und-clearview/) · copia: `2021/a4e297cdf469` (Web Archive 20210527) · licenza: terzi
 - **2021** · noyb - European Center for Digital Right — [Digital Rights alliance file legal complaints against facial recognition company Clearview](https://noyb.eu/en/digital-rights-alliance-file-legal-complaints-against-facial-recognition-company-clearview-ai) · copia: `2021/74ecbec33ce2` (Web Archive 20210527) · licenza: terzi
 - **2021** · Italia Open Gov (Dipartimento della Funz — [Il Dipartimento alla Milano Digital week](https://open.gov.it/notizie/dipartimento-milano-digital-week) · copia: `2021/9752c3274f07` (Web Archive 20220804) · licenza: terzi
 - **2021** · Privacy International (press release) — [Privacy International and others file legal complaints across Europe against controversial](https://privacyinternational.org/press-release/4520/privacy-international-and-others-file-legal-complaints-across-europe-against) · copia: `2021/417da9cdce59` (Web Archive 20210527) · licenza: terzi
@@ -1127,6 +1133,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · LESS Impresa Sociale (less.green) — [WHO WE ARE - Less: Fabio Pietrosanti CEO](https://web.archive.org/web/20221203113453/https://less.green/chi-siamo-less-impresa-sociale/who-we-are/) · copia: `2021/cb130cde4103` (Web Archive 20220125) · licenza: propria
 - **2021** · Agenda Digitale — [Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio](https://www.agendadigitale.eu/cittadinanza-digitale/voto-dei-cittadini-allestero-meglio-farlo-tramite-seggi-lo-studio/) · copia: `2021/3ba18fe905bc` (Web Archive 20210315) · licenza: terzi
 - **2021** · Agenda Digitale — [Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo](https://www.agendadigitale.eu/cittadinanza-digitale/voto-su-blockchain-un-comitato-governativo-fantasma-e-un-decreto-in-arrivo/) · copia: `2021/0ae98f2b4349` (Web Archive 20210315) · licenza: propria
+- **2021** · heise.de — [Gesichtserkennung: Europäische Bürgerrechtler gehen gegen Clearview vor](https://www.heise.de/news/Gesichtserkennung-Europaeische-Buergerrechtler-gehen-gegen-Clearview-vor-6055056.html) · copia: `2021/1f91fd52f7ee` (Web Archive 20210527) · licenza: terzi
 - **2021** · lespresso.it — [La Francia sperimenta il voto elettronico. E in Italia?](https://www.lespresso.it/c/politica/2021/5/30/la-francia-sperimenta-il-voto-elettronico-e-in-italia/38027) · copia: `2021/957809dfc841` (live) · licenza: terzi
 - **2021** · Comune di Milano - Milano Partecipa / Mi — [Da Milano Partecipa alla comunità italiana per la e-democracy](https://www.partecipami.it/calendar/event/1/8691) · copia: `2021/96cc735bc51f` (Web Archive 20210316) · licenza: terzi
 - **2021** · Radio Radicale — [Da "Milano Partecipa" alla comunità italiana per la e-democracy](https://www.radioradicale.it/scheda/631935/da-milano-partecipa-alla-comunita-italiana-per-la-e-democracy) · copia: `2021/b0587a0cb233` (Web Archive 20220409 · video locale `media.mp4` (1,323 MB, da caricare su Drive)) · licenza: terzi

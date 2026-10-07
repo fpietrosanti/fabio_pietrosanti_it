@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1279**; dopo deduplica: **921**
+- Risultati grezzi dalle ricerche: **1286**; dopo deduplica: **928**
 - Già presenti sul vecchio sito: **33** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 888**
-- Verificati aprendo la pagina: **861**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 895**
+- Verificati aprendo la pagina: **868**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 147, tweet 132, Post sul blog infosecurity.ch 72, Talk 69, Video 63, Citato 47, Progetto 33, Ricerca 31, article 28, Radio 27, Altro 26, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1
+Per tipo (nuovi): Menzionato 154, tweet 132, Post sul blog infosecurity.ch 72, Talk 69, Video 63, Citato 47, Progetto 33, Ricerca 31, article 28, Radio 27, Altro 26, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1
 
 ### Copertura per anno
 
@@ -28,18 +28,18 @@ Per tipo (nuovi): Menzionato 147, tweet 132, Post sul blog infosecurity.ch 72, T
 | 2007 | 1 | 5 | 4 |
 | 2008 | 0 | 8 | 8 |
 | 2009 | 1 | 42 | 40 |
-| 2010 | 6 | 57 | 49 |
-| 2011 | 4 | 25 | 22 |
+| 2010 | 6 | 58 | 50 |
+| 2011 | 4 | 26 | 23 |
 | 2012 | 0 | 28 | 28 |
 | 2013 | 0 | 28 | 28 |
-| 2014 | 0 | 25 | 25 |
+| 2014 | 0 | 27 | 27 |
 | 2015 | 0 | 32 | 32 |
 | 2016 | 0 | 21 | 21 |
-| 2017 | 0 | 67 | 67 |
+| 2017 | 0 | 68 | 68 |
 | 2018 | 0 | 59 | 59 |
 | 2019 | 0 | 59 | 59 |
 | 2020 | 0 | 165 | 165 |
-| 2021 | 0 | 86 | 86 |
+| 2021 | 0 | 88 | 88 |
 | 2022 | 0 | 59 | 59 |
 | 2023 | 0 | 14 | 14 |
 | 2024 | 0 | 12 | 12 |
@@ -319,7 +319,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Talk · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)  
   Investigative journalism festival speaker page
 
-## 2021 — 86 voci, 86 nuove
+## 2021 — 88 voci, 88 nuove
 
 - 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Anthology (probably reprints the Mann chapter). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing. Retrieved 17 March 2019, https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html'.
@@ -387,6 +387,10 @@ Anni senza nessun risultato: nessuno
   verified via live; context: …ià sufficiente potrebbe essere quella di proporre, proprio come i francesi, una pluralità di modalità di voto. A metà marzo è stato pubblicato un whitepaper di Fabio Pietrosanti, Stefano Quintarelli e Maurizio Napolitano…
 - 🆕 **2021-05-27** · Comunicato · Hermes Center (with Privacy International, noyb, Homo Digitalis) — [Il Centro Hermes e altre 3 associazioni hanno inviato segnalazioni e reclami contro Clearview AI](https://web.archive.org/web/20210527054816/https://www.hermescenter.org/centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai/)  
   Complaints to EU DPAs against Clearview AI facial recognition; statement by president Fabio Pietrosanti (Wayback)
+- 🆕 **2021-05-27** · Menzionato · netzpolitik.org — [Gesichtserkennung: Datenschutz-Verfahren gegen PimEyes und Clearview](https://netzpolitik.org/2021/gesichtserkennung-datenschutz-verfahren-gegen-pimeyes-und-clearview/)  
+  verified via wayback; context: …edrohen unser Online- und Offline-Leben. Indem sie heimlich unsere biometrischen Daten sammeln, ermöglichen diese Technologien eine ständige Überwachung“, sagt Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
+- 🆕 **2021-05-27** · Menzionato · heise.de — [Gesichtserkennung: Europäische Bürgerrechtler gehen gegen Clearview vor](https://www.heise.de/news/Gesichtserkennung-Europaeische-Buergerrechtler-gehen-gegen-Clearview-vor-6055056.html)  
+  verified via wayback; context: …zeit. Sie müsse nun einen Schritt weitergehen und jegliche auf die Identifizierung von Personen aus der Ferne ausgerichtete Geschäftsmodelle verbieten, betonte Fabio Pietrosanti vom Hermes Center: "Diese Technologien füh…
 - 🆕 **2021-05-27** · Citato · Privacy International (press release) — [Privacy International and others file legal complaints across Europe against controversial facial recognition company Clearview AI](https://privacyinternational.org/press-release/4520/privacy-international-and-others-file-legal-complaints-across-europe-against)  
   Page text: 'Facial recognition technologies threaten our online and offline lives,' said Fabio Pietrosanti, President of the Hermes Center. Same campaign already known via noyb.eu; this PI URL was not in the known list.
 - 🆕 **2021-05-26** · Citato · noyb - European Center for Digital Rights — [Digital Rights alliance file legal complaints against facial recognition company Clearview AI](https://noyb.eu/en/digital-rights-alliance-file-legal-complaints-against-facial-recognition-company-clearview-ai)  
@@ -1069,7 +1073,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 67 voci, 67 nuove
+## 2017 — 68 voci, 68 nuove
 
 - 🆕 **2017-12-14** · Ricerca · GitHub avast/retdec — [retdec #29 «Fix Avast File Download Vulnerability»](https://github.com/avast/retdec/issues/29)  
   Opened by fpietrosanti: Avast installer served over HTTP; cites his July-2017 tweet twitter.com/fpietrosanti/status/881888886678581249
@@ -1107,6 +1111,8 @@ Anni senza nessun risultato: nessuno
   Winston Smith (Emmanuele Somma), preface by Marco Calamari, first HERMES edition October 2017. The acknowledgements ('Si ringrazia:') list: 'Fabio "naif" Pietrosanti (Hermes Center), Dario Centofanti ..., Marco Calamari (Progetto Winston Smith)' (last pages, djvu text). This is the embedded PDF of an archive.org item whose details page (archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale) is already in the known list, so it is marked known; the new detail is his role as acknowledged contributor to the Hermes e-voting guide.
 - 🆕 **2017-09-21** · institutional letter (official reply) · ANAC - Autorità Nazionale Anticorruzione (lettera del Presidente Raffaele Cantone) — [Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes in merito all'adozione di tecnologie di supporto alla gestione delle segnalazioni di condotte illecite (Whistleblowing)](https://www.anticorruzione.it/documents/91439/123100/Risposta_appello_Centro_Hermes_new.pdf/76d050ce-9e12-c2f6-f369-2e3abadcc159?t=1585641081807)  
   PDF ufficiale ANAC (3 pp.), aperto e letto il 2026-10-05; linkato dalla pagina https://www.anticorruzione.it/en/-/whistleblowing-1-1 («Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes»). Intestazione: «Al Presidente del Centro Hermes Ing. Fabio Pietrosanti»; apertura «Gentile Ing. Pietrosanti»; oggetto «Appello del Centro Hermes all'Autorità Nazionale Anticorruzione (ANAC) per la tecnologia di whistleblowing open-source». Risponde all'appello del 24 luglio 2017, ricostruisce la collaborazione ANAC-Hermes (consultazione 2015, riunione 25/06/2015, memorandum 22/07/2015, prototipo Open Whistleblowing, gara vinta da LA.SER ROMAE) e rileva che alla gara partecipò «Whistleblowing Solution di cui Lei è un autorevole componente». Firmata Raffaele Cantone. Non presente in media.json (URL e titolo cercati).
+- 🆕 **2017-08-08** · Menzionato · heise.de — [Hackercamp SHA2017: Gold-Standard für Staatstrojaner gesucht](https://www.heise.de/news/Hackercamp-SHA2017-Gold-Standard-fuer-Staatstrojaner-gesucht-3795375.html)  
+  verified via wayback; context: …/ Detlef Borchers) 08.08.2017, 13:08 Uhr Lesezeit: 3 Min. Von Detlef Borchers Anzeige Auf dem Hackercamp SHA2017 im niederländischen Zeewolde haben der Hacker Fabio Pietrosanti und der Jurist Stefano Aterno die italienis…
 - 🆕 **2017-08-07** · Talk · SHA2017 - Still Hacking Anyway (media.ccc.de) — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans)  
   49-min talk with Andrea Ghirardini on the Italian trojan bill; video on media.ccc.de and YouTube (tF_i3X_PcFY)
 - 🆕 **2017-08-01** · Articolo scritto · EDRi (European Digital Rights) — [Italy plans to extend telecoms data retention and increase censorship powers](https://edri.org/our-work/italy-plans-extend-telecoms-data-retention-increase-censorship-powers/)  
@@ -1318,7 +1324,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2015-01** · Report · Dyne.org (software manual) — [Jaro Mail 3.2 manual](https://archive.org/details/manualzilla-id-5679480)  
   Denis 'Jaromil' Roio (Dyne.org), manual of the Jaro Mail email client v3.2 (tag v3.2 dated 2015-01-25 on github.com/dyne/JaroMail). Acknowledgements thank '... Anatole Shaw, Francesco Politi and Fabio Pietrosanti for early testing and debugging'. Seen via Internet Archive full-text search snippet (copy uploaded to archive.org from manualzilla); not an academic work, a software documentation acknowledgement. Authorship of manual assumed from project, not read.
 
-## 2014 — 25 voci, 25 nuove
+## 2014 — 27 voci, 27 nuove
 
 - 🆕 **2014-12-29** · workshop · 31C3 Chaos Communication Congress, Hamburg (Noisy Square) — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks)  
   60-min GlobaLeaks workshop, 29 Dec 2014 15:00 at Noisy Square; person organizing: Naif (duplicate draft page Session:Practical_Whistleblowing also exists)
@@ -1332,8 +1338,12 @@ Anni senza nessun risultato: nessuno
   GlobaLeaks 2 project page at NoisySquare listing Naif as the person working on it
 - 🆕 **2014-11-25** · Citato · Wired Italia — [Tor è ancora anonimo?](https://www.wired.it/internet/web/2014/11/25/tor-anonimo/)  
   After Operation Onymous and traffic-correlation study; quoted as Hermes Center, works on Tor projects
+- 🆕 **2014-11-20** · Menzionato · lemonde.fr — [Tails, l'outil détesté par la NSA, qui veut démocratiser l'anonymat en ligne](https://www.lemonde.fr/pixels/article/2014/11/20/tails-l-outil-deteste-par-la-nsa-qui-veut-democratiser-l-anonymat-en-ligne_4514650_4408996.html)  
+  verified via wayback; context: …ensé pour abaisser le coût d'entrée technique dans l'Internet anonyme et sécurisé, mais n'est pas encore à mettre entre toutes les mains. C'est ce que rappelle Fabio Pietrosanti, l'un des développeurs de GlobaLeaks : « L…
 - 🆕 **2014-10-28** · Intervista · techPresident (Personal Democracy Media) — [Anti-Corruption Alert, a Secure Platform For Public Servants Willing to Blow the Whistle](http://techpresident.com/news/25320/anti-corruption-alert-safe-platform-public-servants-willing-blow-whistle)  
   Antonella Napolitano on Transparency International Italia's ALAC; quoted repeatedly as Hermes Center president and GlobaLeaks creator; verified via Wayback
+- 🆕 **2014-10-17** · Menzionato · lemonde.fr — [Hermès, les messagers de l’Internet libre](https://www.lemonde.fr/pixels/article/2014/10/17/hermes-les-messagers-de-l-internet-libre_4508097_4408996.html)  
+  verified via wayback; context: …tradi ». Mais en fait cette fondation regroupe une bande de geeks et de militants de l’Internet libre assez radicaux, et très innovants. Le président d’Hermès, Fabio Pietrosanti, explique que sa création fut très facile …
 - 🆕 **2014-09-17** · Menzionato · The Tor Project blog - Tor Weekly News — [Tor Weekly News — September 17th, 2014](https://blog.torproject.org/tor-weekly-news-september-17th-2014/)  
   Covers his hidden-service honeypot experiment detecting HSDir enumeration
 - 🆕 **2014-08-27** · Citato · Motherboard (VICE) — [Inside SS7, the Insecure Global Cell Network That's Used to Track Phones](https://www.vice.com/en/article/inside-ss7-the-insecure-global-cell-network-thats-used-to-track-phones/)  
@@ -1489,7 +1499,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2012** · Talk · International Journalism Festival 2012 — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2012/firewalls)  
   IJF12 Perugia session
 
-## 2011 — 25 voci, 22 nuove
+## 2011 — 26 voci, 23 nuove
 
 - 🆕 **2011-12-11** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks](https://www.hermescenter.org/radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks/)  
   names Fabio: … 10/12/2011 Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks. Intervista a Marco Calamari e a Fabio Pietrosanti. di Roberto Spagnoli La “public disclosure”, cioè la pubblicazione di informazioni riservate, che in certi casi può ave… — restored in hermescenter/hermescenter.org-restoration id radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks
@@ -1521,6 +1531,8 @@ Anni senza nessun risultato: nessuno
   Linked from his CV page; CV says Feb 2010 but file is 2011febbraio
 - 🆕 **2011-01-31** · Menzionato · ReadWriteWeb — [Egypt's Communications Crisis: An Update (Update: Noor Down)](https://readwrite.com/egypts_communications_crisis_an_update/)  
   Update on Egypt's internet shutdown cites and links his tweet (@fpietrosanti) as a source that Noor ISP went down; name appears only via the linked handle
+- 🆕 **2011-01-31** · Menzionato · forbes.com — [Egypt's Last Internet Lifeline Put In A Chokehold - Forbes](https://www.forbes.com/sites/andygreenberg/2011/01/31/egypts-last-internet-lifeline-put-in-a-chokehold/)  
+  verified via wayback; context: …nections to systems on Noor are all down.” “Large sections of Noor appear to be unreachable and this seems to include DSL services in Cairo,” Appelbaum added . Fabio Pietrosanti, another cybersecurity researcher and chie…
 - 🆕 **2011-01-26** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [Forbes, GlobaLeaks Wants To Be The Bittorrent To WikiLeaks’ Napster](https://www.hermescenter.org/26012011-forbes-globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster/)  
   names Fabio: …ators are based in Italy and the Netherlands, has yet to launch and is still hammering out some of its plans. But Fabio Pietrosanti, a spokesperson for the group, tells me it will ultimately invite volunteers around the world to install GlobaLeaks’ so… — restored in hermescenter/hermescenter.org-restoration id 26012011-forbes-globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster
 - 🆕 **2011-01-26** · Citato · Forbes (Andy Greenberg) — [GlobaLeaks Wants To Be The Bittorrent To WikiLeaks' Napster](https://www.forbes.com/sites/andygreenberg/2011/01/26/globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster/) _(non verificato)_  
@@ -1542,7 +1554,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2011** · Progetto · GitHub — [fpietrosanti (Fabio (naif) Pietrosanti)](https://github.com/fpietrosanti)  
   GitHub profile, company Hermes Center
 
-## 2010 — 57 voci, 49 nuove
+## 2010 — 58 voci, 50 nuove
 
 - 🆕 **2010-11-02** · Talk · SlideShare (PrivateWave Italia) — [Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryption AGT)](https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072)  
   Slides by Fabio Pietrosanti, CTO PrivateWave (PrivateGSM, ZRTP); date from upload
@@ -1638,6 +1650,8 @@ Anni senza nessun risultato: nessuno
   Clusit Newsletter 31 marzo 2010 thanks sponsors: 'Sponsor Silver: ALBA, CLEVER CONSULTING, @MEDIASERVICE.NET, PRIVATEWAVE, ...'. PrivateWave is his company, but he is not named. A 'sponsor_privatewave.gif' also exists among securitysummit.it static files (archived 2016-01).
 - 🆕 **2010-02-24** · Video · Cellulare Magazine (CMAG) — [PrivateWave di Khamsa contro le intercettazioni](https://www.youtube.com/watch?v=EJVK8nB7yAM) _(non verificato)_  
   Cellulare-Magazine.it video on PrivateWave voice encryption; his appearance not confirmed
+- 🆕 **2010-02-02** · Menzionato · heise.de — [Hickhack um Test für Handyverschlüsselung](https://www.heise.de/news/Hickhack-um-Test-fuer-Handyverschluesselung-919951.html)  
+  verified via live; context: …aner wie Flexispy wehren können. Weiterlesen nach der Anzeige Notrax hat seine Ergebnisse auf der Webseite infosecurityguard.com veröffentlicht. Recherchen von Fabio Pietrosanti, dem Gründer des Securstar-Konkurrenten KH…
 - 🆕 **2010-02-02** · Citato · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.csoonline.com/article/524574/malware-cybercrime-accusations-fly-over-voice-encryption-hack.html)  
   John E. Dunn; quotes Pietrosanti (founder/CTO of Khamsa) on SecurStar PBX evidence
 - 🆕 **2010-02-01** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Dishonest security: The SecurStart GmbH Phonecrypt case](https://web.archive.org/web/2012/http://infosecurity.ch/20100201/dishonest-security-the-securstart-gmbh-case/)  

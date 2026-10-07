@@ -2670,6 +2670,23 @@
  {
   "date": "2010-02-02",
   "year": 2010,
+  "type": "mentioned",
+  "outlet": "heise.de",
+  "title": "Hickhack um Test für Handyverschlüsselung",
+  "url": "https://www.heise.de/news/Hickhack-um-Test-fuer-Handyverschluesselung-919951.html",
+  "language": "de",
+  "role": "subject",
+  "note": "verified via live; context: …aner wie Flexispy wehren können. Weiterlesen nach der Anzeige Notrax hat seine Ergebnisse auf der Webseite infosecurityguard.com veröffentlicht. Recherchen von Fabio Pietrosanti, dem Gründer des Securstar-Konkurrenten KH…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-07-1019"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2010-02-02",
+  "year": 2010,
   "type": "quoted",
   "outlet": "CSO Online (Techworld)",
   "title": "Accusations fly over voice encryption hack",
@@ -3730,6 +3747,23 @@
   "year": 2011,
   "_slices": [
    "pass2_b_2009_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2011-01-31",
+  "year": 2011,
+  "type": "mentioned",
+  "outlet": "forbes.com",
+  "title": "Egypt's Last Internet Lifeline Put In A Chokehold - Forbes",
+  "url": "https://www.forbes.com/sites/andygreenberg/2011/01/31/egypts-last-internet-lifeline-put-in-a-chokehold/",
+  "language": "en",
+  "role": "subject",
+  "note": "verified via wayback; context: …nections to systems on Noor are all down.” “Large sections of Noor appear to be unreachable and this seems to include DSL services in Cairo,” Appelbaum added . Fabio Pietrosanti, another cybersecurity researcher and chie…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-07-1019"
   ],
   "on_old_site": false
  },
@@ -5428,6 +5462,23 @@
   "on_old_site": false
  },
  {
+  "date": "2014-10-17",
+  "year": 2014,
+  "type": "mentioned",
+  "outlet": "lemonde.fr",
+  "title": "Hermès, les messagers de l’Internet libre",
+  "url": "https://www.lemonde.fr/pixels/article/2014/10/17/hermes-les-messagers-de-l-internet-libre_4508097_4408996.html",
+  "language": "fr",
+  "role": "subject",
+  "note": "verified via wayback; context: …tradi ». Mais en fait cette fondation regroupe une bande de geeks et de militants de l’Internet libre assez radicaux, et très innovants. Le président d’Hermès, Fabio Pietrosanti, explique que sa création fut très facile …",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-07-1019"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2014-10-28",
   "type": "interview",
   "outlet": "techPresident (Personal Democracy Media)",
@@ -5445,6 +5496,23 @@
   "tags": [
    "newsroom-leaks",
    "transparency"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2014-11-20",
+  "year": 2014,
+  "type": "mentioned",
+  "outlet": "lemonde.fr",
+  "title": "Tails, l'outil détesté par la NSA, qui veut démocratiser l'anonymat en ligne",
+  "url": "https://www.lemonde.fr/pixels/article/2014/11/20/tails-l-outil-deteste-par-la-nsa-qui-veut-democratiser-l-anonymat-en-ligne_4514650_4408996.html",
+  "language": "fr",
+  "role": "subject",
+  "note": "verified via wayback; context: …ensé pour abaisser le coût d'entrée technique dans l'Internet anonyme et sécurisé, mais n'est pas encore à mettre entre toutes les mains. C'est ce que rappelle Fabio Pietrosanti, l'un des développeurs de GlobaLeaks : « L…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-07-1019"
   ],
   "on_old_site": false
  },
@@ -7422,6 +7490,23 @@
   "_slices": [
    "slice4_2016_2020",
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-08-08",
+  "year": 2017,
+  "type": "mentioned",
+  "outlet": "heise.de",
+  "title": "Hackercamp SHA2017: Gold-Standard für Staatstrojaner gesucht",
+  "url": "https://www.heise.de/news/Hackercamp-SHA2017-Gold-Standard-fuer-Staatstrojaner-gesucht-3795375.html",
+  "language": "de",
+  "role": "subject",
+  "note": "verified via wayback; context: …/ Detlef Borchers) 08.08.2017, 13:08 Uhr Lesezeit: 3 Min. Von Detlef Borchers Anzeige Auf dem Hackercamp SHA2017 im niederländischen Zeewolde haben der Hacker Fabio Pietrosanti und der Jurist Stefano Aterno die italienis…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-07-1019"
   ],
   "on_old_site": false
  },
@@ -13753,6 +13838,40 @@
   "_slices": [
    "pass2_c_2016_2026",
    "pass4_hermes_site_named_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-05-27",
+  "year": 2021,
+  "type": "mentioned",
+  "outlet": "netzpolitik.org",
+  "title": "Gesichtserkennung: Datenschutz-Verfahren gegen PimEyes und Clearview",
+  "url": "https://netzpolitik.org/2021/gesichtserkennung-datenschutz-verfahren-gegen-pimeyes-und-clearview/",
+  "language": "de",
+  "role": "subject",
+  "note": "verified via wayback; context: …edrohen unser Online- und Offline-Leben. Indem sie heimlich unsere biometrischen Daten sammeln, ermöglichen diese Technologien eine ständige Überwachung“, sagt Fabio Pietrosanti, Präsident des an der Initiative beteiligt…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-07-1019"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-05-27",
+  "year": 2021,
+  "type": "mentioned",
+  "outlet": "heise.de",
+  "title": "Gesichtserkennung: Europäische Bürgerrechtler gehen gegen Clearview vor",
+  "url": "https://www.heise.de/news/Gesichtserkennung-Europaeische-Buergerrechtler-gehen-gegen-Clearview-vor-6055056.html",
+  "language": "de",
+  "role": "subject",
+  "note": "verified via wayback; context: …zeit. Sie müsse nun einen Schritt weitergehen und jegliche auf die Identifizierung von Personen aus der Ferne ausgerichtete Geschäftsmodelle verbieten, betonte Fabio Pietrosanti vom Hermes Center: \"Diese Technologien füh…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-07-1019"
   ],
   "on_old_site": false
  },
