@@ -1293,6 +1293,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok, tabs_context/tabs_create ok, ma la prima ricerca (site:arstechnica.com) è fallita 5 volte in ~6 min: 'extension disconnected mid-operation' alternato a 'Claude in Chrome is not connected'; alla riconnessione il gruppo schede viene ricreato con ID nuovi (schede 1751440323/324 non più chiudibili). Nessuna ricerca eseguita, nessun robot check. verify/merge/archive non eseguiti. Coda invariata; prossimo blocco: arstechnica.com, theverge.com, techcrunch.com, zdnet.com, theregister.com, niemanlab.org, cjr.org, gijn.org. Serve Fabio: estensione Claude in Chrome instabile (service worker) — riavviare Chrome/estensione."
+  },
+  {
+   "date": "2026-10-08 00:52",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). list_connected_browsers ok (Browser 1), tabs_context/tabs_create ok (scheda 1751440332), ma la prima ricerca (site:arstechnica.com) è fallita 3 volte: 'extension disconnected mid-operation' poi due volte 'Claude in Chrome is not connected'. Stesso guasto del run 2026-10-07 12:10. Nessuna ricerca eseguita, nessun robot check; verify/merge/archive non eseguiti (nessun candidato). Coda invariata; prossimo blocco: arstechnica.com, theverge.com, techcrunch.com, zdnet.com, theregister.com, niemanlab.org, cjr.org, gijn.org. Serve Fabio: riavviare Chrome/estensione Claude in Chrome (service worker instabile)."
   }
  ]
 }
