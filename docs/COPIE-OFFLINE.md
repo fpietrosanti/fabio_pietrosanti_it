@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **928**; già processate: **1081**; ancora da processare: **0**
-- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **756** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **885**
+- Voci in `data/media.json`: **929**; già processate: **1082**; ancora da processare: **0**
+- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **757** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **886**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **93**
@@ -50,7 +50,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 5 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 33 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 34 | 0 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -1251,6 +1251,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · GitHub mxmap-it — [mxmap.it #22 «Fingerprint security gateway by the presence of HTTPS website on the MX»](https://github.com/mxmap-it/mxmap.it/issues/22) · copia: `2026/3b7d6c7121ed` (api) · licenza: propria
 - **2026** · GlobaLeaks — [People | GlobaLeaks](https://globaleaks.org/about/people/) · copia: `2026/a2dd5929df8c` (live) · licenza: propria
 - **2026** · infosecurity.ch (blog) — [infosecurity.ch restored](https://infosecurity.ch/20260917/infosecurity-ch-restored/) · copia: `2026/1e4e1d2ffca9` (live) · licenza: propria
+- **2026** · Fund Longevity (Luma) — rally di Roma, V — [Fund Longevity rally Roma 08/04/2026 — ospite («Biohacker from biohack.it»)](https://luma.com/xjvb2fcb) · copia: `2026/dd872a456ee8` (live · video locale `media.mp4` (4 MB, da caricare su Drive)) · licenza: terzi
 - **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) · copia: `2026/a243d02057e1` (Web Archive 20260618) · licenza: propria
 - **2026** · The Next Web (TNW) — [WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhone](https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio) · copia: `2026/adf88485fb4e` (Web Archive 20260401) · licenza: terzi
 - **2026** · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0) · copia: `2026/9a1df4eb5776` (live) · licenza: terzi
