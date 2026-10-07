@@ -512,35 +512,51 @@
   },
   {
    "domain": "liberation.fr",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 0
   },
   {
    "domain": "elpais.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 1
   },
   {
    "domain": "eldiario.es",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 0
   },
   {
    "domain": "bbc.co.uk",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 0
   },
   {
    "domain": "bbc.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 0
   },
   {
    "domain": "nytimes.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 3
   },
   {
    "domain": "washingtonpost.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 0
   },
   {
    "domain": "aljazeera.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-07",
+   "found": 0
   },
   {
    "domain": "arstechnica.com",
@@ -1261,6 +1277,14 @@
    "captcha": false,
    "confirmed_new": 7,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome stabile in questo run, nessun robot check. 8 domini (forbes, wired, spiegel, sueddeutsche, zeit, netzpolitik, heise, lemonde): 9 risultati; spiegel/sueddeutsche/zeit = 0. Già noti: forbes 2011-01-26 GlobaLeaks e wired 2013. Confermati 7 nuovi: Forbes 2011-01-31 (Egitto/Noor), heise 2010-02-02 (Hickhack Handyverschlüsselung, Khamsa), heise 2017-08-08 (SHA2017 Staatstrojaner con Aterno), heise + netzpolitik 2021-05-27 (reclami Clearview/PimEyes, Hermes Center), Le Monde 2014-10-17 (Hermès) e 2014-11-20 (Tails/GlobaLeaks). Date e lingue corrette a mano. Copie offline: 7/7 ottenute. Prossimo blocco: liberation.fr, elpais.com, eldiario.es, bbc.co.uk, bbc.com, nytimes.com, washingtonpost.com, aljazeera.com."
+  },
+  {
+   "date": "2026-10-07 11:05",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 2,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione stabile, nessun robot check. 8 domini (liberation, elpais, eldiario, bbc.co.uk, bbc.com, nytimes, washingtonpost, aljazeera): 4 risultati. Confermati 2 nuovi: New York Times 2015-11-01 \"Battle Heats Up Over Exports of Surveillance Technology\" (citazione come fondatore Hermes Center) e la traduzione cinese su cn.nytimes.com 2015-11-02; scartato elpais.com/tag/listado/p.html (pagina indice, nome assente). Lingue en/zh e tipo quoted corretti a mano. Copie offline 2/2 (wayback). Prossimo blocco: arstechnica.com, theverge.com, techcrunch.com, zdnet.com, theregister.com, niemanlab.org, cjr.org, gijn.org."
   }
  ]
 }

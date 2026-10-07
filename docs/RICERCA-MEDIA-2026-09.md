@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1288**; dopo deduplica: **930**
+- Risultati grezzi dalle ricerche: **1290**; dopo deduplica: **932**
 - Già presenti sul vecchio sito: **33** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 897**
-- Verificati aprendo la pagina: **870**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 899**
+- Verificati aprendo la pagina: **872**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 154, tweet 132, Post sul blog infosecurity.ch 72, Talk 69, Video 64, Citato 47, Progetto 33, Ricerca 31, article 28, Radio 27, Altro 26, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 154, tweet 132, Post sul blog infosecurity.ch 72, Talk 69, Video 64, Citato 49, Progetto 33, Ricerca 31, article 28, Radio 27, Altro 26, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -33,7 +33,7 @@ Per tipo (nuovi): Menzionato 154, tweet 132, Post sul blog infosecurity.ch 72, T
 | 2012 | 0 | 28 | 28 |
 | 2013 | 0 | 28 | 28 |
 | 2014 | 0 | 27 | 27 |
-| 2015 | 0 | 32 | 32 |
+| 2015 | 0 | 34 | 34 |
 | 2016 | 0 | 21 | 21 |
 | 2017 | 0 | 68 | 68 |
 | 2018 | 0 | 59 | 59 |
@@ -1261,8 +1261,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · magazine · Polityka (Wydawnictwo Prasowe Polityka), 2016 bound volume — [Polityka 2016 (article on GlobaLeaks)](https://books.google.com/books?id=RyCG694TkQAC)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Polish weekly, 2016 volume (exact issue unknown). Snippet: '... GlobaLeaks (Globalne Przecieki), którą stworzyli włoscy hakerzy Fabio Pietro-santi i Arturo Filastò dla fundacji Hermes Center for Transparency and Digital Human Rights ...'.
 
-## 2015 — 32 voci, 32 nuove
+## 2015 — 34 voci, 34 nuove
 
+- 🆕 **2015-11-02** · Citato · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/)  
+  verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…
+- 🆕 **2015-11-01** · Citato · nytimes.com — [Battle Heats Up Over Exports of Surveillance Technology](https://www.nytimes.com/2015/11/01/world/middleeast/battle-heats-up-over-exports-of-surveillance-technology.html)  
+  verified via wayback; context: …th Korea, Sudan and Cuba face export bans under broader American economic sanctions. “There isn’t much regulation, or many rules on exports in this area,” said Fabio Pietrosanti, founder of the Hermes Center for Transpar…
 - 🆕 **2015-10-20** · Podcast · Pirate's Night Show #5 (YouTube livestream) — [Pirate's Night Show #5 - Tor e Privacy con Fabio Pietrosanti (Naif)](https://www.youtube.com/watch?v=P-jGzZwzu3U)  
   Livestreamed talk show on Tor and privacy
 - 🆕 **2015-08-30** · Menzionato · The Tor Project blog - Tor Weekly News — [Tor Weekly News — August 30th, 2015](https://blog.torproject.org/tor-weekly-news-august-30th-2015/)  

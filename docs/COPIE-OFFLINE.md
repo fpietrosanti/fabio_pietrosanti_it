@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **930**; già processate: **1083**; ancora da processare: **0**
-- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **758** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **886**
+- Voci in `data/media.json`: **932**; già processate: **1085**; ancora da processare: **0**
+- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **760** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **888**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **93**
@@ -39,7 +39,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2012 | 28 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2015 | 24 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 2015 | 26 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 67 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 45 | 16 | 0 | 0 | 0 | 0 | 0 |
@@ -625,6 +625,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · Tor hidden-service statistics tech repor — [Hidden-service statistics tech report (cites Griffith, Pietrosanti, Pellerano 'Making tor2](https://archive.org/details/DTIC_ADA623038/page/n12) · copia: `2015/1d43066729fd` (live) · licenza: terzi
 - **2015** · Dyne.org (software manual) — [Jaro Mail 3.2 manual](https://archive.org/details/manualzilla-id-5679480) · copia: `2015/4a3e8a80cbd2` (live) · licenza: terzi
 - **2015** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — August 30th, 2015](https://blog.torproject.org/tor-weekly-news-august-30th-2015/) · copia: `2015/72ec91ea27f2` (Web Archive 20190131) · licenza: terzi
+- **2015** · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/) · copia: `2015/bf3a57cee7ac` (Web Archive 20151104) · licenza: terzi
 - **2015** · e-privacy XVII (2015), Roma, Camera dei  — [e-privacy XVII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XVII-relatori.html) · copia: `2015/eaebb3b044f6` (Web Archive 20150703) · licenza: terzi
 - **2015** · e-privacy XVII (Camera dei Deputati, Rom — [Apertura lavori](https://e-privacy.winstonsmith.org/e-privacy-XVII.html) · copia: `2015/db043732d54b` (Web Archive 20160307) · licenza: terzi
 - **2015** · CCC Camp 2015 Wiki — [Projects:GlobaLeaks](https://events.ccc.de/camp/2015/wiki/Projects:GlobaLeaks) · copia: `2015/f84e72f2ed5c` (Web Archive 20150711) · licenza: propria
@@ -642,6 +643,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · International Journalism Festival (Perug — [Greenwald-in-a-box: a Hermes experiment](https://www.journalismfestival.com/programme/2015/greenwald-in-a-box-a-hermes-experiment) · copia: `2015/d12594f0a211` (Web Archive 20160710) · licenza: terzi
 - **2015** · International Journalism Festival (Perug — [Greenwald-in-a-box: a Hermes experiment (second session)](https://www.journalismfestival.com/programme/2015/greenwald-in-a-box-a-hermes-experiment-2) · copia: `2015/4420ff7c0ac5` (Web Archive 20160710) · licenza: terzi
 - **2015** · International Journalism Festival (Perug — [Take care of your sources - newsroom empowering with GlobaLeaks](https://www.journalismfestival.com/programme/2015/take-care-of-your-sources-newsroom-empowering-with-globaleaks) · copia: `2015/9965882f3dd8` (live) · licenza: terzi
+- **2015** · nytimes.com — [Battle Heats Up Over Exports of Surveillance Technology](https://www.nytimes.com/2015/11/01/world/middleeast/battle-heats-up-over-exports-of-surveillance-technology.html) · copia: `2015/53850628b027` (Web Archive 20151101) · licenza: terzi
 - **2015** · Conoscenza: Frontiera Digitale Radicale  — [Quello che non devi sapere: Tecnologia e Ragion di Stato](https://www.radioradicale.it/scheda/438714) · copia: `2015/12daf7a685c0` (Web Archive 20150702 · video locale `media.mp4` (1,147 MB, da caricare su Drive)) · licenza: terzi
 - **2015** · Radio Radicale — [Conoscenza: Frontiera Digitale Radicale. Tutto quello che non sai vedere, non devi capire,](https://www.radioradicale.it/scheda/438714/conoscenza-frontiera-digitale-radicale-tutto-quello-che-non-sai-vedere-non-devi-capire) · copia: `2015/186be96e016f` (Web Archive 20150601 · video locale `media.mp4` (1,147 MB, da caricare su Drive)) · licenza: terzi
 - **2015** · Radio Radicale — [XVII edizione di e-privacy 2015 spring edition - seconda e conclusiva giornata (3.07.2015)](https://www.radioradicale.it/scheda/447017/) · copia: `2015/ec4bbeb3b770` (live · video locale `media.02.mp4` (1,223 MB, da caricare su Drive)) · licenza: terzi

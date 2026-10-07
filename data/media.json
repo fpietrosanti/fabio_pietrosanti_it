@@ -6256,6 +6256,40 @@
   "on_old_site": false
  },
  {
+  "date": "2015-11-01",
+  "year": 2015,
+  "type": "quoted",
+  "outlet": "nytimes.com",
+  "title": "Battle Heats Up Over Exports of Surveillance Technology",
+  "url": "https://www.nytimes.com/2015/11/01/world/middleeast/battle-heats-up-over-exports-of-surveillance-technology.html",
+  "language": "en",
+  "role": "quoted",
+  "note": "verified via wayback; context: …th Korea, Sudan and Cuba face export bans under broader American economic sanctions. “There isn’t much regulation, or many rules on exports in this area,” said Fabio Pietrosanti, founder of the Hermes Center for Transpar…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-07-1100"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2015-11-02",
+  "year": 2015,
+  "type": "quoted",
+  "outlet": "cn.nytimes.com (New York Times 中文网)",
+  "title": "限制监控技术出口，美企与奥巴马政府各执一词",
+  "url": "https://cn.nytimes.com/world/20151102/c02surveillance/",
+  "language": "zh",
+  "role": "quoted",
+  "note": "verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-07-1100"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2016",
   "type": "talk",
   "outlet": "OSCE Representative on Freedom of the Media (speaker bios)",
