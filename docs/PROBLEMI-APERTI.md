@@ -14,9 +14,9 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 4. **Fund Longevity Roma 08/04/2026**: eri presente → nuova voce «event» (pagina Luma con il tuo nome tra i featured
    guests). **Foto da WhatsApp: sì, mandale** — mettile in `fabio_pietrosanti_it-copies/inbox/fund-longevity-2026-04-08/`
    (o passamele in chat); le archivio con un README per foto. Livestream YouTube 4CHvbryuUb4 controllato a fotogrammi: il
-   collegamento da Roma è a **43:35–45:30** (Fori Imperiali, cartelli «STOP AGING» / «1% del PIL per la longevità»). L'uomo coi
-   capelli scuri sul bordo destro, che regge il selfie, **potresti essere tu**: guarda i 3 fotogrammi in
-   `fabio_pietrosanti_it-copies/2026/dd872a456ee8/` e confermami.
+   collegamento da Roma è a **43:35–45:30** (Fori Imperiali, cartelli «STOP AGING» / «1% del PIL per la longevità»). **Confermato da te: sei l'uomo a
+   destra (maglia rossa, cartello «STOP AGING»)** → livestream registrato come voce video verificata; la tua foto della scena è
+   in `fabio_pietrosanti_it-copies/inbox/fund-longevity-2026-04-08/`.
 5. **Fabio Pietrosanti di Velletri** (ciclismo): omonimo, esclusione confermata.
 
 ## A0-bis. Risposte di Fabio del 2026-10-05 (applicate)

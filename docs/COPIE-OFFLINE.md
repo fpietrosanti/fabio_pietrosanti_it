@@ -5,14 +5,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **929**; già processate: **1082**; ancora da processare: **0**
-- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **757** di terzi (**solo archivio privato**, mai linkate dal sito)
+- Voci in `data/media.json`: **930**; già processate: **1083**; ancora da processare: **0**
+- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **758** di terzi (**solo archivio privato**, mai linkate dal sito)
 - ✅ Copia locale, nome verificato nella copia: **886**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **93**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **1**
-- 🎬 Video/audio scaricato (+ pagina): **92**
+- 🎬 Video/audio scaricato (+ pagina): **93**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
 - ❌ Non ottenuta: **7**
 
@@ -50,7 +50,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 5 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 34 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 34 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -1272,4 +1272,5 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · Sohu 搜狐号 (时光派, 100270039) — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://www.sohu.com/a/1067664696_100270039) · copia: `2026/3ed9e3a20ed7` (live) · licenza: terzi
 - **2026** · Sohu (搜狐号) — 时光派 — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 | 第七届国际长寿论坛整体回顾](https://www.sohu.com/a/1078945684_100270039) · copia: `2026/ebce85101353` (live) · licenza: terzi
 - **2026** · 7th TimePie Longevity Forum, Shanghai (B — [Biohack.It - Open Software for Structured Human Self-Experimentation](https://www.timepielongevityforum.com/2026agenda) · copia: `2026/6aaea42705f6` (Web Archive 20260819) · licenza: terzi
+- **2026** · YouTube — Fund Longevity (Global Live St — [Fund Longevity — Global Live Stream (collegamento da Roma, 43:35–45:30)](https://www.youtube.com/watch?v=4CHvbryuUb4) · copia: `2026/c3f03177cb2a` (Web Archive 20260412 · video locale `media.mp4` (342 MB, da caricare su Drive)) · licenza: terzi
 - **2026** · Zhihu (知乎专栏) - TimePie 时光派 — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://zhuanlan.zhihu.com/p/2075879246317330753) · copia: `2026/0ce8a2cc2c65` (browser) · licenza: terzi

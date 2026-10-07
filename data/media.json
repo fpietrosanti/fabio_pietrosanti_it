@@ -16281,7 +16281,24 @@
   "url": "https://luma.com/xjvb2fcb",
   "language": "en",
   "role": "participant",
-  "note": "Pagina evento: Fabio tra i featured guests con bio «Biohacker from biohack.it». Partecipazione confermata da Fabio il 2026-10-07; parte della giornata globale Fund Longevity (livestream YouTube 4CHvbryuUb4, collegamento da Roma previsto 17:23-17:25 CET). Foto personali (WhatsApp) da integrare.",
+  "note": "Pagina evento: Fabio tra i featured guests con bio «Biohacker from biohack.it». Partecipazione confermata da Fabio il 2026-10-07; parte della giornata globale Fund Longevity (livestream YouTube 4CHvbryuUb4, collegamento da Roma previsto 17:23-17:25 CET). Foto di Fabio (selfie ai Fori Imperiali con cartello «STOP AGING») nell'archivio privato; compare nel livestream 4CHvbryuUb4 a 43:35–45:30.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_biohacking_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-04-08",
+  "year": 2026,
+  "type": "video",
+  "outlet": "YouTube — Fund Longevity (Global Live Stream)",
+  "title": "Fund Longevity — Global Live Stream (collegamento da Roma, 43:35–45:30)",
+  "url": "https://www.youtube.com/watch?v=4CHvbryuUb4",
+  "language": "en",
+  "role": "participant",
+  "note": "Diretta mondiale del 08/04/2026 (1:32:45). Collegamento dal rally di Roma (Fori Imperiali) a 43:35–45:30: Fabio compare a destra, maglia rossa, cartello «STOP AGING»; nome assente da titolo/descrizione. Riconosciuto da Fabio il 07/10/2026 sui fotogrammi, con la sua foto della stessa scena.",
   "verified": true,
   "known": false,
   "_slices": [
