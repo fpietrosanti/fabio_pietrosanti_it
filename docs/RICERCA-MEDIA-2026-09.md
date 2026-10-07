@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1286**; dopo deduplica: **928**
+- Risultati grezzi dalle ricerche: **1287**; dopo deduplica: **929**
 - Già presenti sul vecchio sito: **33** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 895**
-- Verificati aprendo la pagina: **868**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 896**
+- Verificati aprendo la pagina: **869**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 154, tweet 132, Post sul blog infosecurity.ch 72, Talk 69, Video 63, Citato 47, Progetto 33, Ricerca 31, article 28, Radio 27, Altro 26, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1
+Per tipo (nuovi): Menzionato 154, tweet 132, Post sul blog infosecurity.ch 72, Talk 69, Video 63, Citato 47, Progetto 33, Ricerca 31, article 28, Radio 27, Altro 26, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -44,11 +44,11 @@ Per tipo (nuovi): Menzionato 154, tweet 132, Post sul blog infosecurity.ch 72, T
 | 2023 | 0 | 14 | 14 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 10 | 10 |
-| 2026 | 0 | 33 | 33 |
+| 2026 | 0 | 34 | 34 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 33 voci, 33 nuove
+## 2026 — 34 voci, 34 nuove
 
 - 🆕 **2026-09-22** · Video · NetEase 网易 (时光派 account) — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾](https://c.m.163.com/news/v/VG6GUA7FN.html)  
   CONTRADICTS the 2026-09-30 exclusion in decisions.json. Downloaded in full (m3u8 from www.163.com/v/video/VG6GUA7FN.html, 1080x1920, 2:35) and checked 155 frames: the 生物极客闭门论坛 segment (1:09-1:12) shows other speakers and audience, not Fabio, as the earlier run said. BUT at 1:33.7-1:34.8 the 永生之夜 dinner B-roll reuses the shot from BV1X9YR68ETj: Fabio seated at a table in the white linen shirt with the red lanyard, under the caption 科学家 医生 企业家 / 投资人与生物极客. Not named. Proof frame: C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_VG6GUA7FN_t0094.jpg. The decisions.json note says Bilibili BV1Rwh76XEhj is the same video (not re-downloaded here). The exclusion needs Fabio's review. Checked 2026-10-01.
@@ -102,6 +102,8 @@ Anni senza nessun risultato: nessuno
   Scanner of whistleblowing channels of Italian PAs and listed companies (WB Monitor Italia)
 - 🆕 **2026-06-12** · Progetto · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo)  
   Hugo static site for a Latina logistics consortium
+- 🆕 **2026-04-08** · event · Fund Longevity (Luma) — rally di Roma, Via di San Nicola de' Cesarini — [Fund Longevity rally Roma 08/04/2026 — ospite («Biohacker from biohack.it»)](https://luma.com/xjvb2fcb)  
+  Pagina evento: Fabio tra i featured guests con bio «Biohacker from biohack.it». Partecipazione confermata da Fabio il 2026-10-07; parte della giornata globale Fund Longevity (livestream YouTube 4CHvbryuUb4, collegamento da Roma previsto 17:23-17:25 CET). Foto personali (WhatsApp) da integrare.
 - 🆕 **2026-04-01** · article · The Next Web (TNW) — [WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhones (SIO)](https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio)  
   Verified by fetch: "Fabio Pietrosanti, president of the Hermes Center for Transparency and Digital Human Rights, has said that spyware is deployed more frequently in Italy than anywhere else in Europe..." (follow-up of The Record 2024).
 - 🆕 **2026-03-18** · Talk · Centro per la Riforma dello Stato, Roma (announced on dicorinto.it) — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Rete)](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/)  
@@ -115,7 +117,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2026** · Progetto · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit)  
   AGPL-3.0 platform for structured biohacking protocols and biomarkers, founded by Fabio
 - 🆕 **2026** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
-  Verified 2026-10-07: "Il Comitato Tecnico degli Esperti (art. 52 comma 11) e composto dai seguenti membri: Dott. Fabio Pietrosanti, Avv. Nazareno Bugli, Prof. Avv. Sabina Bulgarelli". Appointment date not on page (Authority installed 1 Feb 2019); identity consistent (technical/security expert) but Fabio should confirm.
+  «Dott. Fabio Pietrosanti» nel comitato tecnico di esperti dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino; confermato da Fabio il 2026-10-07 (data di nomina non indicata nella pagina).
 
 ## 2025 — 10 voci, 10 nuove
 

@@ -16151,7 +16151,7 @@
   "url": "https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html",
   "language": "it",
   "role": "member, Comitato Tecnico degli Esperti",
-  "note": "Verified 2026-10-07: \"Il Comitato Tecnico degli Esperti (art. 52 comma 11) e composto dai seguenti membri: Dott. Fabio Pietrosanti, Avv. Nazareno Bugli, Prof. Avv. Sabina Bulgarelli\". Appointment date not on page (Authority installed 1 Feb 2019); identity consistent (technical/security expert) but Fabio should confirm.",
+  "note": "«Dott. Fabio Pietrosanti» nel comitato tecnico di esperti dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino; confermato da Fabio il 2026-10-07 (data di nomina non indicata nella pagina).",
   "verified": true,
   "known": false,
   "_slices": [
@@ -16269,6 +16269,23 @@
   "known": false,
   "_slices": [
    "pass4_lacuna2023_tech_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-04-08",
+  "year": 2026,
+  "type": "event",
+  "outlet": "Fund Longevity (Luma) — rally di Roma, Via di San Nicola de' Cesarini",
+  "title": "Fund Longevity rally Roma 08/04/2026 — ospite («Biohacker from biohack.it»)",
+  "url": "https://luma.com/xjvb2fcb",
+  "language": "en",
+  "role": "participant",
+  "note": "Pagina evento: Fabio tra i featured guests con bio «Biohacker from biohack.it». Partecipazione confermata da Fabio il 2026-10-07; parte della giornata globale Fund Longevity (livestream YouTube 4CHvbryuUb4, collegamento da Roma previsto 17:23-17:25 CET). Foto personali (WhatsApp) da integrare.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023_biohacking_2026-10-07"
   ],
   "on_old_site": false
  },

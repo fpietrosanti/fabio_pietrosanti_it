@@ -4,18 +4,18 @@ Aggiornato il **2026-10-07**. Da discutere con Fabio: dove siamo bloccati, perch
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
-## A0-ter. Nuove domande (2026-10-07)
-1. **Garante privacy di San Marino**: la pagina «Chi siamo» (`garanteprivacy.sm/…/chi-siamo.html`) elenca «Dott. Fabio
-   Pietrosanti» nel comitato tecnico di esperti, senza data. Sei tu? Da quando? (Registrata come voce verificata per nome.)
-2. **⚠️ Terzo caso di dati personali pubblicati**: easyteam.org (fornitore software per scuole) riproduce integralmente la
-   PEC MonitoraPA del 06/11/2022 con luogo e data di nascita e codice fiscale. Copia solo nell'archivio privato, nel sito
-   solo il titolo. Chiedere la rimozione, come per le due scuole?
-3. **Codice Beta**: la pagina News di hackingbiology.com indica il **17/05/2025**, l'URL RaiPlay Sound è del 01/2025.
-   Quale data è giusta (prima messa in onda o ripubblicazione)?
-4. **Fund Longevity, Roma 08/04/2026**: eri nella lista ospiti; ti hanno ripreso nel livestream globale (segmento Roma
-   17:23-17:25)? Ci sono altre riprese/articoli?
-5. **Omonimo nuovo**: un Fabio Pietrosanti di Velletri (ciclismo, ASD Center Bike) compare su Latina Oggi e latinanews →
-   escluso. Confermi che non sei tu?
+## A0-ter. Risposte di Fabio del 2026-10-07 (applicate)
+1. **Garante privacy di San Marino** («Dott. Fabio Pietrosanti», comitato tecnico di esperti): **sei tu** → voce confermata
+   (`decisions.json`, override). Manca ancora la data di nomina.
+2. **easyteam.org** (PEC MonitoraPA 2022 con i tuoi dati personali): **nessuna richiesta di rimozione**; copia solo
+   nell'archivio privato, nel sito solo il titolo. Chiuso.
+3. **Codice Beta S04EP08**: vale la data di **RaiPlay Sound (17/01/2025)**; il 17/05/2025 di hackingbiology.com è da
+   correggere sul tuo sito.
+4. **Fund Longevity Roma 08/04/2026**: eri presente → nuova voce «event» (pagina Luma con il tuo nome tra i featured
+   guests). **Foto da WhatsApp: sì, mandale** — mettile in `fabio_pietrosanti_it-copies/inbox/fund-longevity-2026-04-08/`
+   (o passamele in chat); le archivio con un README per foto. Il livestream YouTube (4CHvbryuUb4) lo sto controllando a
+   fotogrammi per il collegamento da Roma.
+5. **Fabio Pietrosanti di Velletri** (ciclismo): omonimo, esclusione confermata.
 
 ## A0-bis. Risposte di Fabio del 2026-10-05 (applicate)
 - **1** dati personali delle scuole: «va bene così» → nessuna richiesta di oscuramento, copie solo nell'archivio privato. Chiuso.

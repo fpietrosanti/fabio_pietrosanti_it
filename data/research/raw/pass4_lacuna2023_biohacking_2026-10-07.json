@@ -24,5 +24,18 @@
   "note": "Sito proprio, NON copertura di terzi: incluso solo come fonte primaria del filone biohacking (non presente in media.json). Letto 2026-10-07: «Hacking Biology was started by Fabio Pietrosanti». Primo post archiviato: https://hackingbiology.com/2023/07/09/a-data-driven-applied-aging-research-project/ (Wayback). La pagina /news/ elenca: 22/08/2024 presentazione alla comunita' Rapamycin News; 05/01/2025 Speciale Tg1; 17/05/2025 Codice Beta (data diversa dall'URL 2025/01 gia' noto: da chiarire con Fabio); 27/06/2025 Codice Rai 1; 02/07/2025 partecipazione al Longevity Summit Dublin (Trinity College, 2-4/7); 08/04/2026 Fund Longevity rally a Roma (Largo di Torre Argentina); 18/08/2026 migrazione del sito da WordPress.com. La sezione 'In the press' di /about/ cita solo i tre Rai gia' noti.",
   "verified": true,
   "known": false
+ },
+ {
+  "date": "2026-04-08",
+  "year": 2026,
+  "type": "event",
+  "outlet": "Fund Longevity (Luma) — rally di Roma, Via di San Nicola de' Cesarini",
+  "title": "Fund Longevity rally Roma 08/04/2026 — ospite («Biohacker from biohack.it»)",
+  "url": "https://luma.com/xjvb2fcb",
+  "language": "en",
+  "role": "participant",
+  "note": "Pagina evento: Fabio tra i featured guests con bio «Biohacker from biohack.it». Partecipazione confermata da Fabio il 2026-10-07; parte della giornata globale Fund Longevity (livestream YouTube 4CHvbryuUb4, collegamento da Roma previsto 17:23-17:25 CET). Foto personali (WhatsApp) da integrare.",
+  "verified": true,
+  "known": false
  }
 ]

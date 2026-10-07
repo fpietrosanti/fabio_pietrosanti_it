@@ -6,7 +6,7 @@
   "Valentina Pietrosanti: cura le schede dei resoconti parlamentari di Radio Radicale («Scheda a cura di») - non e' Fabio",
   "Ezio, Alessio, Mario Lauro, Corinna, Maria Paola Pietrosanti Malintoppi: omonimi trovati su camera.it/senato.it e nelle tesi - non sono Fabio",
   "Radio Digiesse (Praia a Mare) 17/04/2020 «CoronaVirus. Rsa, Cina, Autarchia… con Fabio Pietrosanti» (youtube 3PYnpnzCo8g): è l'autore omonimo romano/calabrese (libro su Gianni Gallo, OMC Calabria), non Fabio — escluso 2026-09-30",
-  "Fabio Pietrosanti di Velletri (ASD Center Bike, ciclismo; Latina Oggi, latinanews, latinacorriere, tag latinaquotidiano 'fabio-pietrosanti'): omonimo, non Fabio — escluso 2026-10-07 (da confermare con Fabio)",
+  "Fabio Pietrosanti di Velletri (ASD Center Bike, ciclismo; Latina Oggi, latinanews, latinacorriere, tag latinaquotidiano 'fabio-pietrosanti'): omonimo, non Fabio — escluso 2026-10-07 (confermato da Fabio)",
   "Elma Pietrosanti (amministratrice P&D Srl) e articoli su 'famiglia Pietrosanti di Sermoneta' (ex Pacifico, GLS Latina 2025) senza il nome di Fabio: non sono voci — 2026-10-07"
  ],
  "exclude": [
@@ -781,6 +781,13 @@
     "title": "Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck cancellato)",
     "note_fabio": "Risposta di Fabio 2026-10-06: era una lezione all'Università di Foggia, invitato da Stefano Aterno (corso di Sicurezza informatica, LM Scienze giuridiche della sicurezza). Il deck Google Slides è cancellato (410) e mai archiviato."
    }
+  },
+  {
+   "url": "https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html",
+   "set": {
+    "verified": true,
+    "note": "«Dott. Fabio Pietrosanti» nel comitato tecnico di esperti dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino; confermato da Fabio il 2026-10-07 (data di nomina non indicata nella pagina)."
+   }
   }
  ],
  "open_questions": [
@@ -811,5 +818,12 @@
  "answers_2026_10_06": {
   "Foggia 05/12/2019": "lezione all'università, invitato da Aterno → confermata (tweet + deck come talk)",
   "Appello ANAC 2017": "non ricorda passaggi TV o radio → pista chiusa"
+ },
+ "answers_2026_10_07": {
+  "Garante privacy San Marino": "sì, è lui (comitato tecnico di esperti) → voce confermata",
+  "easyteam.org dati personali (PEC MonitoraPA 2022)": "nessuna richiesta di rimozione; copia solo nell'archivio privato, nel sito solo il titolo",
+  "Codice Beta S04EP08": "vale la data di RaiPlay Sound (01/2025), non il 17/05/2025 indicato su hackingbiology.com",
+  "Fund Longevity Roma 08/04/2026": "presente al rally di Roma; non sa se esistono riprese; ha foto su WhatsApp che può fornire",
+  "Fabio Pietrosanti di Velletri (ciclismo)": "omonimo, esclusione corretta"
  }
 }
