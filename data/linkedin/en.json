@@ -384,7 +384,6 @@
   "skills",
   "certifications",
   "languages",
-  "volunteering",
   "publications",
   "honors"
  ],
@@ -410,6 +409,15 @@
     "International patent application PCT/IT2007/000565 (WO2008015723), also filed at the European Patent Office as EP2057777. Priority of 4 August 2006. Applicant: KHAMSA Italia S.r.l. (later PrivateWave). Inventors: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti.",
     "A method to record a non-repudiable digital transmission of information and to identify the participants in the communication, using asymmetric keys."
    ]
+  }
+ ],
+ "volunteering": [
+  {
+   "org": "AVIS - Associazione Volontari Italiani del Sangue",
+   "role": "Blood and plasma donor",
+   "cause": "Health",
+   "current": true,
+   "description": "Blood and plasma donor, four donations a year. Donating is the simplest, most certain thing any of us can do for someone else: an hour of your time. In Italy, find your local AVIS and book one — plasma is always in short supply."
   }
  ]
 }
