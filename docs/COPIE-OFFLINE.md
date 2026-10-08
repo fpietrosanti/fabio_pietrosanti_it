@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-07 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-08 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **932**; già processate: **1085**; ancora da processare: **0**
-- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **760** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **888**
+- Voci in `data/media.json`: **932**; già processate: **1086**; ancora da processare: **0**
+- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **761** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **889**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **93**
@@ -34,7 +34,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2007 | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2008 | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 43 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 2010 | 56 | 2 | 0 | 0 | 0 | 0 | 3 |
+| 2010 | 57 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 28 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 28 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
@@ -501,6 +501,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.techsupportforum.com/threads/accusations-fly-over-voice-encryption-hack.457961/) · copia: `2010/02c0f33bf344` (browser) · licenza: terzi
 - **2010** · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.co.uk/2010/02/01/voice_crypto_test_row_phreak_out/) · copia: `2010/964ea013cbf0` (Web Archive 20100204) · licenza: terzi
 - **2010** · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.com/2010/02/01/voice_crypto_test_row_phreak_out/) · copia: `2010/f1c45f126d3a` (Web Archive 20200926) · licenza: terzi
+- **2010** · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.com/security/2010/02/01/voice-crypto-fails-spark-astroturf-claims/1395226) · copia: `2010/2ebf5eb4e80b` (Web Archive 20260507) · licenza: terzi
 - **2010** · Cellulare Magazine (CMAG) — [PrivateWave di Khamsa contro le intercettazioni](https://www.youtube.com/watch?v=EJVK8nB7yAM) · copia: `2010/c20b180907dd` (live · video locale `media.mp4` (8 MB, da caricare su Drive)) · licenza: terzi
 - **2010** · TVtech / Hardware Upgrade — [PrivateWave: comunicazioni sicure al cellulare](https://www.youtube.com/watch?v=L4beB3qQjVw) · copia: `2010/1d7ada6809d2` (live · video locale `media.mp4` (40 MB, da caricare su Drive)) · licenza: terzi
 - **2011** · Infosec Island — [ZRTP Voice Encryption is Finally a Standard RFC](http://sktguow.infosecisland.com/blogview/12929-ZRTP-Voice-Encryption-is-Finally-a-Standard-RFC.html) · copia: `2011/6eef821a1b3c` (Web Archive 20111206) · licenza: propria

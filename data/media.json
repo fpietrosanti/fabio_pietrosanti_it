@@ -2659,11 +2659,12 @@
   "note": "John Leyden; SecurStar/infosecurityguard.com 'Notrax' fake test exposed by Pietrosanti",
   "verified": true,
   "known": true,
+  "mirrors": [
+   "https://www.theregister.com/security/2010/02/01/voice-crypto-fails-spark-astroturf-claims/1395226",
+   "https://www.theregister.co.uk/2010/02/01/voice_crypto_test_row_phreak_out/"
+  ],
   "_slices": [
    "slice2_2007_2011"
-  ],
-  "mirrors": [
-   "https://www.theregister.co.uk/2010/02/01/voice_crypto_test_row_phreak_out/"
   ],
   "on_old_site": false
  },

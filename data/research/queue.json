@@ -560,35 +560,51 @@
   },
   {
    "domain": "arstechnica.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "theverge.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "techcrunch.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "zdnet.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "theregister.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 2
   },
   {
    "domain": "niemanlab.org",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "cjr.org",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "gijn.org",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "ijnet.org",
@@ -1309,6 +1325,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa (Browser 1), navigazione ok su example.com, ma su google.com l'estensione chiede il permesso di sito: navigate diretto => 'not connected'; aperta la ricerca via location.href, poi javascript_tool e get_page_text => 'Permission denied ... on this domain'. Causa reale dei guasti dei run 2026-10-07 12:10 e 2026-10-08 00:52 = prompt di permesso per google.com non concesso. Nessun risultato letto, nessun robot check. Coda invariata; prossimo blocco: arstechnica.com, theverge.com, techcrunch.com, zdnet.com, theregister.com, niemanlab.org, cjr.org, gijn.org. Serve Fabio: nell'estensione Claude in Chrome concedere google.com 'sempre' (o modalità senza conferme)."
+  },
+  {
+   "date": "2026-10-08 09:50",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Permesso google.com concesso da Fabio durante il run (prompt dell'estensione al primo javascript_tool); nessun robot check. 8 domini (arstechnica, theverge, techcrunch, zdnet, theregister, niemanlab, cjr, gijn): risultati solo su theregister.com (2). Nessuna voce nuova: l'articolo The Register 2010-02-01 'Voice crypto fails spark astroturf claims' era già in archivio; il suo nuovo URL (theregister.com/security/.../1395226) è aggiunto come mirror del record esistente in slice2_2007_2011 (verificato: 'Fabio Pietrosanti (naif)' nel testo); il link forums.theregister.com scartato (post di forum). Copie offline: wayback ottenuta per il nuovo URL. NB: i file non tracciati pass4_lacuna2004_* in data/research/raw (altro lavoro del 08/10 mattina) NON inclusi nel merge né committati. Prossimo blocco: ijnet.org e i domini pending seguenti."
   }
  ]
 }
