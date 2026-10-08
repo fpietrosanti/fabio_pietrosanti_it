@@ -608,35 +608,51 @@
   },
   {
    "domain": "ijnet.org",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "poynter.org",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "dw.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "reuters.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "bloomberg.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "euractiv.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "politico.eu",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "euobserver.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "torrentfreak.com",
@@ -1333,6 +1349,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Permesso google.com concesso da Fabio durante il run (prompt dell'estensione al primo javascript_tool); nessun robot check. 8 domini (arstechnica, theverge, techcrunch, zdnet, theregister, niemanlab, cjr, gijn): risultati solo su theregister.com (2). Nessuna voce nuova: l'articolo The Register 2010-02-01 'Voice crypto fails spark astroturf claims' era già in archivio; il suo nuovo URL (theregister.com/security/.../1395226) è aggiunto come mirror del record esistente in slice2_2007_2011 (verificato: 'Fabio Pietrosanti (naif)' nel testo); il link forums.theregister.com scartato (post di forum). Copie offline: wayback ottenuta per il nuovo URL. NB: i file non tracciati pass4_lacuna2004_* in data/research/raw (altro lavoro del 08/10 mattina) NON inclusi nel merge né committati. Prossimo blocco: ijnet.org e i domini pending seguenti."
+  },
+  {
+   "date": "2026-10-08 16:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, permesso google.com ok, nessun robot check. 8 domini (ijnet, poynter, dw, reuters, bloomberg, euractiv, politico.eu, euobserver): zero risultati su tutti (pagina Google \"nessun risultato\"). Nessun candidato: verify/merge/archive non necessari. Prossimo blocco: torrentfreak.com, dailydot.com, boingboing.net, slashdot.org, techdirt.com, nrc.nl, volkskrant.nl, rsi.ch."
   }
  ]
 }
