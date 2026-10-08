@@ -656,35 +656,51 @@
   },
   {
    "domain": "torrentfreak.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "dailydot.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "boingboing.net",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 5
   },
   {
    "domain": "slashdot.org",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "techdirt.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 1
   },
   {
    "domain": "nrc.nl",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "volkskrant.nl",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "rsi.ch",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-08",
+   "found": 0
   },
   {
    "domain": "swissinfo.ch",
@@ -1357,6 +1373,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, permesso google.com ok, nessun robot check. 8 domini (ijnet, poynter, dw, reuters, bloomberg, euractiv, politico.eu, euobserver): zero risultati su tutti (pagina Google \"nessun risultato\"). Nessun candidato: verify/merge/archive non necessari. Prossimo blocco: torrentfreak.com, dailydot.com, boingboing.net, slashdot.org, techdirt.com, nrc.nl, volkskrant.nl, rsi.ch."
+  },
+  {
+   "date": "2026-10-08 21:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 domini (torrentfreak, dailydot, boingboing, slashdot, techdirt, nrc.nl, volkskrant.nl, rsi.ch): risultati solo su boingboing.net (articolo 2017-02-15 'Italy unveils a law proposal' + 4 pagine tag, indici non pubblicazioni) e techdirt.com (2017-02-17 trojan): entrambi gli articoli gia' in media.json. Nessuna voce nuova; merge/copie non necessari. Prossimo blocco: swissinfo.ch, nzz.ch, tagesanzeiger.ch, derstandard.at, gazeta.pl, publico.pt, globo.com, wechat/sogou (zh)."
   }
  ]
 }
