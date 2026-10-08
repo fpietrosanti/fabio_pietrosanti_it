@@ -1,0 +1,62 @@
+[
+ {
+  "lead": "fabio.pietrosanti.it Wayback 2003-2010 (CDX, all URLs)",
+  "result": "No 2004-2008 talk list. curriculum.shtml has only 2 distinct captures (2003-02-14, 2003-12-03; 'Last Change: 23 May 2003'). Its 'Conferenze' list stops at Webbit03 (2001-2003 items: SMAU/Sicurmatica 19-10-2001, SMAU tavola rotonda 20-10-2001, AntiKrimen Expo 13-10-2001, IBM Forum 10-12-2001, Infosecurity 2002 ITBH, CeAS 17-03-2002, Webbit03). 2004 root = 'Sito in manutenzione'. The 2005-2006 redesign (index/competence/services/media/reference -it/-en) says 'Pubblicazioni e Convegni: Pagina in costruzione' / 'Work in Progress'. It names only 'Università Cattaneo Castellanza, IBM, Clusit, Infosecurity, Webbit e Smau' generically. No captures after 2006-07 until a 2011 301."
+ },
+ {
+  "lead": "Clusit newsletters 2004-2008 (all 56 PDFs listed on clusit.it/newsletter, downloaded on the server, pdftotext)",
+  "result": "No occurrence of Pietrosanti, naif, KHAMSA, PrivateWave or Sikurezza. The laptop gets a SiteGround captcha on clusit.it, which was not bypassed. The server received the PDFs directly."
+ },
+ {
+  "lead": "Security Summit 2008 (Clusit) / Infosecurity Roma 2008 Clusit programme",
+  "result": "Covered by the Clusit newsletter sweep (e.g. 31/05/2008 'Infosecurity Roma - programma dei convegni Clusit'): not named."
+ },
+ {
+  "lead": "sikurezza.org wiki Infosecurity08, Infosecurity06rm (Roma), Infosecurity06vr (Verona), Webbit03/04/05 resource pages, Risorse/Eventi, Risorse/Calendario, I07Rosini",
+  "result": "Fetched Wayback captures: no Pietrosanti/naif. The Webbit03/04 pages are stubs, and the Infosecurity 2008 Area Demo programme does not include him."
+ },
+ {
+  "lead": "Infosecurity 2007 slide PDF i07_Flora_Misitano_Pennasilico_Pietrosanti-Voice_Privacy_Security.pdf",
+  "result": "Linked from the sikurezza.org page but never captured by Wayback (CDX on Infosecurity07?action=download* has no capture for it)."
+ },
+ {
+  "lead": "Webbit 04 MP3 recordings (/mp3/3502.mp3, /mp3/3504.mp3, /mp3/4090.mp3)",
+  "result": "No Wayback capture (CDX webb.it/mp3/* and /static/mp3/*)."
+ },
+ {
+  "lead": "hack.lu archive (archive.hack.lu/2005-2008) and hack.lu 2007/2008 agendas, LightningTalks 2007",
+  "result": "His 2006 slides are not in archive.hack.lu/2006 (only on SlideShare). No appearance in 2005, 2007 or 2008 files/agendas."
+ },
+ {
+  "lead": "MOCA 2004 (Metro Olografix Camp, Pescara) - moca.olografix.org Wayback: eventi.php, programma, p_sic/p_net/p_soc, the_whole_thing.php, workshops/",
+  "result": "Not named. s0ftpj (his group) is listed among contributing collectives, along with the 'BFi @ MOCa' hardcover edition, but there is no talk by naif."
+ },
+ {
+  "lead": "Hackmeeting 2004, 2005, 2007, 2008 (hackmeeting.org/hackit0X seminari / workshops pages)",
+  "result": "No naif/Pietrosanti. The Hackit06 seminar page is unavailable (984-byte stub) and was not checked further."
+ },
+ {
+  "lead": "blackhats.it Wayback 2004-2009",
+  "result": "Site closed in 2004 (closed.html); no 2004-2008 events."
+ },
+ {
+  "lead": "KHAMSA company site khamsa.it (2006-2008 Wayback: website/en/company/organization, company.html, prodotti)",
+  "result": "No news/events section; his name is not on the organization/company pages."
+ },
+ {
+  "lead": "Web searches: KHAMSA/PrivateGSM at Mobile World Congress 2008, Nokia World 2007-08, VoIP/ZRTP conferences 2007-08; LIUC Castellanza lecture; LRA 'Posta Elettronica Certificata, Firma digitale e Archiviazione ottica' event 8 Feb 2006; TV interviews 2004-2008; OSXCrypt talks 2008",
+  "result": "Nothing naming him. The andreabeggi.net 2008-01-27 OSXCrypt post names only Matteo Flora (not him). apogeonline 'Un raggio di luce su SMAU' (Raoul Chiesa, 2001) names him but is from 2001 and already in media.json."
+ },
+ {
+  "lead": "Punto Informatico 2006-09-11 'Sikurezza.org, CFP in vista di Infosecurity 2007'",
+  "result": "Does not name him (organisation only)."
+ },
+ {
+  "lead": "infosecurity.ch blog 2007-2008 (restored repo C:/Users/admin/Claude/infosecurity-ch)",
+  "result": "Only one 2007 post survives (20070210, already known); no talk announcements 2007-2008."
+ },
+ {
+  "lead": "Internet Archive full-text search (be-api fts); CCC 24C3/25C3, e-privacy 2006-2008, ESC 2005-2008",
+  "result": "IA returned 'Temporarily Offline' intermittently during this pass, so fts was not usable today. CCC, e-privacy and ESC were not re-checked because earlier passes (pass4_ccc_camps_congresses, pass4_eprivacy_sapienza, pass4_esc_hackmeeting_securitysummit) already covered them. NOTE: ESC07 Hacker Jeopardy ('zen && naif && vecna', endsummercamp.org ESC07-Programma) is in raw but NOT in media.json; worth checking the merge."
+ }
+]

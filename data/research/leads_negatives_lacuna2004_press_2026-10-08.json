@@ -1,0 +1,154 @@
+[
+ {
+  "source": "Punto Informatico (whole site, WordPress REST full-text search /wp-json/wp/v2/search/)",
+  "queries": [
+   "Pietrosanti (X-WP-Total=30)",
+   "Fabio Pietrosanti",
+   "Pietrosanti+sicurezza",
+   "Pietrosanti+hacker",
+   "Pietrosanti+Khamsa",
+   "naif",
+   "sikurezza",
+   "khamsa",
+   "privategsm",
+   "osxcrypt",
+   "zimmermann+zrtp",
+   "truecrypt+mac"
+  ],
+  "result": "No 2004-2008 article names Fabio. Of all 30 'Pietrosanti' hits, the ones about him are 2001-10-25 (SMAU, known), 2013, 2016 and 2024 (known); the rest are Paolo Pietrosanti. The sikurezza.org items (2006-09-11 CFP Infosecurity 2007, 2007-10-18 Infosecurity2008 CFP, 2008-01-29 'Sikurezza.org e PWS a Infosecurity', 2008-07-10 MOCA 2008) and the Khamsa items (2008-04-23 'Attenzione, parla il papa di PGP'; 2008-06-17 'Ricerca e impresa insieme in Italia. A volte') do not contain his name or nick (full text checked).",
+  "reason": "no name or nick"
+ },
+ {
+  "source": "Zeus News, a sequential crawl of every article n.php?c=2400..9100 (late Oct 2003 to Dec 2008, about 6,700 pages, run on the server)",
+  "queries": [
+   "regex pietrosanti|\\bnaif\\b|khamsa|osxcrypt|privategsm|sikurezza over page text including comments"
+  ],
+  "result": "0 hits about Fabio. Only c=2488 (a 2003 reader comment linking ol-service.com/sikurezza) and c=2541 (Paolo Pietrosanti, Harry Potter) matched.",
+  "reason": "not mentioned"
+ },
+ {
+  "source": "Internet Archive full-text search (be-api FTS), 'Pietrosanti': all 2209 hits paged (from=0,1000,2000)",
+  "result": "Reviewed every hit from Italian newspapers and magazines (La Stampa, L'Unita 2000s, Il Piccolo 2000s, Gazzettino, L'Espresso, Corriere, Hacker Journal, PC Professionale, Win Magazine, Computer Idea). The only hits about Fabio in 2003-2009 are the already known Win Magazine 48 (2003), Hacker Journal 38 (2003) and PC Professionale 207 (2008). La Stampa 2004-2005 (on IA and indexed) has only homonyms (e.g. Costanzo Pietrosanti 2004-05-10). L'Unita 2006-11-26 is Roberto Pietrosanti.",
+  "reason": "homonyms or known items"
+ },
+ {
+  "source": "IA FTS other queries",
+  "queries": [
+   "\"Fabio Pietrosanti\"",
+   "\"Pietrosanti\" khamsa",
+   "\"Pietrosanti\" sikurezza",
+   "\"naif\" sikurezza",
+   "\"sikurezza.org\"",
+   "naif AND fastweb",
+   "naif AND s0ftpj/softpj",
+   "Pietrosanti AND skype/zimmermann/crittografia/intercettazioni/fastweb/Telecom",
+   "\"osxcrypt\"",
+   "\"privategsm\"",
+   "khamsa AND crittografia"
+  ],
+  "result": "Nothing new for 2004-2008. 'osxcrypt' appears only in Hacklog manuals (2017+), where it is named as a tool without his name.",
+  "reason": "no hits"
+ },
+ {
+  "source": "Internet Archive magazine OCR scan (djvu.txt grep on the server for pietrosanti|naif|khamsa|osxcrypt|privategsm|privatewave)",
+  "items": "Hacker Journal 39-175 (all 2004-2008 issues on IA), PC Professionale 150-215, Win Magazine 55-125 (the 'aprile 2007 n.99' and 'gennaio 2009 n.122' items have no OCR), Linux Magazine IT 050-058, Linux Pro 2004, Computer Idea 47-200",
+  "result": "Only PC Professionale 207 (the known Khamsa/Zimmermann box). The 'naif' hits in Win Magazine 73/74/79/85/93, Computer Idea 47/119 and Il Mio Computer Idea 059 are the common word 'naif'/'naïf' or OCR noise. Win Magazine 88 'Si chiama Naif' is the 2006 Windows-XP-on-Intel-Mac contest winner, not Fabio. Computer Idea 111/129 have Stefano Pietrosanti (a reader).",
+  "reason": "no mention or homonyms"
+ },
+ {
+  "source": "La Repubblica archive (ricerca.repubblica.it, 'pietrosanti', 2004-01-01..2008-12-31, 25 results, all pages)",
+  "result": "All homonyms: Paolo (radicale), Roberto (artist), Gisella, Gianni, a rugby player, Enrico (2008-09-17 mortgage testimonies, verified on Wayback), Katia/Alessandro (2005-07-07 London testimonies, verified on Wayback). 'naif hacker' gives 0.",
+  "reason": "homonyms"
+ },
+ {
+  "source": "Corriere della Sera archiviostorico (Wayback CDX of URL slugs 2004-2007 matching hacker|wireless|cifrat|skype|voip|intercett|sicurezza_informatica ...)",
+  "result": "Opened and grepped 12 relevant articles (e.g. 2006-10-31 'nuovi telefonini anti-intercettazioni', 2006-06-15 'Avanza partito anti intercettazioni', 2007-02-15 'Professione Hacker trucchi Chiesa', 2007-02-01 'Goodboy', 2004-03-22 'banda degli hacker'): none name him. The 2008 CDX query failed repeatedly ('Temporarily Offline'). archivio.corriere.it is JS-only and was not queried.",
+  "reason": "no name; 2008 not checked"
+ },
+ {
+  "source": "vitadigitale.corriere.it 2007-2009 (Wayback)",
+  "result": "2008-07-04 'Anti-intercettazioni' (Caspertech criptofonino), 2009-02-18 'Intercettazioni, ora tocca anche a Skype', 2009-08-21 'Hacker d'Italia', 2009-08-03 'Pronto Skype?', 2009-03-03 'Hacker contro tutti': none name him (the 2009-03-13 'Hacker al cinema' is already known).",
+  "reason": "no name"
+ },
+ {
+  "source": "Data Manager (datamanager.it WP search Pietrosanti/Khamsa/privategsm/privatewave/osxcrypt/sikurezza)",
+  "result": "The two items about him ('Intercettazioni e molto di piu', which he wrote, and 'KHAMSA: chiamate cifrate tra cellulari') are already in media.json. They are 2009-2010 items (WP import date 2010-04). The other Khamsa news items (Carlo Marchini CEO, PrivateGSM 9.06, 45 euro/mese, Privatewave VoIP) have no name.",
+  "reason": "known or no name"
+ },
+ {
+  "source": "Other WordPress REST searches ('Pietrosanti'/'osxcrypt')",
+  "sites": "macitynet.it, html.it, webnews.it, zerounoweb.it, key4biz.it (4 hits, all 2017+ and known), securityopenlab.it, ictsecuritymagazine.com, apogeonline.com (only the 2001 SMAU and 2002 Portel wardriving items, both known, plus Guido Pietrosanti, a homonym, in 2008), dirittodellinformatica.it, blog.quintarelli.it, attivissimo.blogspot.com (Blogger feed search: 2022 only)",
+  "result": "Nothing new for 2004-2008. Not WP or not reachable: ictbusiness, zdnet.it, computerworld.it, tomshw, wired.it, cwi.it, corrierecomunicazioni, 01net, hwupgrade.",
+  "reason": "no hits"
+ },
+ {
+  "source": "OSXCrypt 2008 coverage",
+  "checked": "WebSearch (macity, TUAW, heise, Slashdot, MacRumors); osxcrypt.org Wayback (posts 2007-11 to 2008-02 incl. 'They told you...', about/staff) for a press list; andreabeggi.net 2008-01-27 'Truecrypt su MAC grazie a OsxCrypt' (no name in body); jotbe.io 2008-01 (German blog); macuser.de forum threads (forums do not count)",
+  "result": "No press article that names him found beyond the known PI Download review. The new blog source is mgpf.it 2008-01-24 (in the main file).",
+  "reason": "no name / forum"
+ },
+ {
+  "source": "KHAMSA / PrivateGSM corporate sites (Wayback)",
+  "checked": "khamsa.it 2006-2008, khamsa.ch 2007-2009, privategsm.com 2008, privatewave.com/about-us/press.html (2010)",
+  "result": "No 2004-2008 press list. The PrivateWave press page (2010) links only derstandard.at and computerworld.ch (2009-2010 PrivateGSM, not in the window).",
+  "reason": "no press list for the window"
+ },
+ {
+  "source": "Khamsa 2008-2010 press found via WebSearch",
+  "checked": "gravita-zero.org 2008-04-30 Zimmermann interview at the Khamsa seminar of 28 Apr 2008 (names only Federico Moro, CEO), corrierecomunicazioni.it 2009-11-16 and 2010-04-13, impresacity.it 2009-12-30, key4biz 2009-11-16",
+  "result": "None name Fabio Pietrosanti.",
+  "reason": "no name"
+ },
+ {
+  "source": "Telecom Italia / Tiger Team 2006 coverage",
+  "checked": "WebSearch 'Pietrosanti' + Tavaroli / Ghioni / tiger team / sicurezza Telecom",
+  "result": "No source names him in connection with the 2006 scandal. Only his own bios mention his 2004-2007 consultancy at Telecom Italia. Nothing to report.",
+  "reason": "not mentioned"
+ },
+ {
+  "source": "Radio Radicale (soggetti/175095 'Fabio Pietrosanti')",
+  "result": "Earliest recording is 2011, so there is nothing for 2004-2008.",
+  "reason": "out of window"
+ },
+ {
+  "source": "TV 2004-2008 (TG2, TG3, Studio Aperto, TGR Neapolis: self-reported in his 2013 bio, already listed as unverified in pass4_tv_rai_la7_2026-09-18.json)",
+  "checked": "neapolis.rai.it Wayback (only images/CSS captured; the html CDX query hit 'Temporarily Offline'), WebSearch",
+  "result": "No episode page or video found.",
+  "reason": "no archive access"
+ },
+ {
+  "source": "fabio.pietrosanti.it media page (Wayback media-it.shtml / media-en.shtml, 2005-2006, 12 captures, same digest)",
+  "result": "'Pubblicazioni e Convegni: Pagina in costruzione'. It lists no press.",
+  "reason": "empty page"
+ },
+ {
+  "source": "infosecurity.ch restored blog 2007-2008 (local clone C:\\Users\\admin\\Claude\\infosecurity-ch)",
+  "result": "Only one 2007 post ('Uno sguardo a...', known) and no press references.",
+  "reason": "none"
+ },
+ {
+  "source": "Not searchable / paywalled (left as open leads)",
+  "items": [
+   "Il Sole 24 Ore / Nova archive (paid)",
+   "La Stampa 2006-2008 (archiviolastampa.it is JS-only; IA only has up to 2005)",
+   "Il Messaggero, Panorama, L'Espresso 2004-2008 (not on IA, no free full text)",
+   "Computerworld Italia / ZDNet Italia 2004-2008 (no full-text search; dead domains)",
+   "ICT Security magazine (Tecna) and the 'Wireless' magazine that his 2004 CV says he wrote for: no 2004-2008 issues online (IA has none)",
+   "Corriere della Sera 2008 (CDX failed)"
+  ],
+  "reason": "inaccessible"
+ },
+ {
+  "source": "Out-of-window by-products (not reported as items)",
+  "items": [
+   "SMAU 2002 'Ethical Hacker's Speech II' (docplayer.it 487225, ITBH, 26 Oct 2002): 2002, outside the window, docplayer unreachable"
+  ],
+  "reason": "out of window"
+ },
+ {
+  "source": "IA OCR scan: PCWorld Italia 2003-2009, Internet News 2003-2009, Computer Idea 161-200 (89 items)",
+  "status": "completed",
+  "result": "0 hits on Fabio; the naif hits (Computer Idea 173/174/192, PCWorld 2005_173) are the common word or OCR noise",
+  "reason": "not mentioned"
+ }
+]

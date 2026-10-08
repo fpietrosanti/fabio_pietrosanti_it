@@ -5,12 +5,12 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **932**; già processate: **1086**; ancora da processare: **0**
-- Licenza delle copie ottenute: **223** materiale proprio (ripubblicabile), **761** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **889**
+- Voci in `data/media.json`: **969**; già processate: **1128**; ancora da processare: **0**
+- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **795** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **927**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
-- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **93**
+- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **97**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **1**
 - 🎬 Video/audio scaricato (+ pagina): **93**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
@@ -26,20 +26,20 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2000 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2001 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2002 | 14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2002 | 15 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2004 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2005 | 7 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 2006 | 5 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2007 | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2008 | 8 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2009 | 43 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 2010 | 57 | 2 | 0 | 0 | 0 | 0 | 3 |
-| 2011 | 28 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2004 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2005 | 9 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 2006 | 10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2007 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2008 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2009 | 45 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 2010 | 58 | 2 | 0 | 0 | 0 | 0 | 3 |
+| 2011 | 29 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 28 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2014 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2015 | 26 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 2014 | 24 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2015 | 28 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 67 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 45 | 16 | 0 | 0 | 0 | 0 | 0 |
@@ -65,10 +65,14 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2002** · Apogeonline — [Smau e Ict Security: i Black Hats tornano a dire la loro](https://www.apogeonline.com/articoli/smau-e-ict-security-i-black-hats-tornano-a-dire-la-loro-raoul-chiesa/) · licenza: terzi  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2006** · NVD / MITRE CVE — [CVE-2006-5817 (prl_dhcpd in Parallels Desktop for Mac Build 1940 uses insecure permissions](https://nvd.nist.gov/vuln/detail/CVE-2006-5817) · licenza: propria  
+  2026-10-08, regola «senza nome, non sono io»: il record NVD/MITRE della CVE nata dal suo advisory Parallels (seclists 2006/Oct/581, Secunia SA22634) non lo nomina; la CVE resta solo come riferimento dell'advisory. Copia conservata.
 - ⏹️ **2011** · 28C3 Chaos Communication Congress, Berli — [Tor2web workshop](https://events.ccc.de/congress/2011/wiki/Tor2web) · licenza: terzi  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2011** · 28C3 Chaos Communication Congress, Berli — [Workshops/GlobaLeaks](https://events.ccc.de/congress/2011/wiki/Workshops/GlobaLeaks) · licenza: terzi  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2011** · End Summer Camp 2011 (ESC11), Forte Bazz — [GlobaLeaks, LeakDirectory, Tor2web - Random Globaleaks developer](https://www.endsummercamp.org/index.php?title=ESC11-Seminari) · licenza: terzi  
+  2026-10-08, regola di Fabio «senza nome, non sono io»: talk GlobaLeaks/Tor2web a ESC11 attribuito a 'Random Globaleaks developer', né nome né «naif». Copia conservata nell'archivio privato.
 - ⏹️ **2012** · Hackmeeting 2012 (HackIt 0x0F), L'Aquila — [GlobaLeaks](https://www.hackmeeting.org/hackit12/seminari.html) · licenza: terzi  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2013** · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) · licenza: terzi  
@@ -87,6 +91,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2013** · Hermes Center / Skype open letter — [[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”](https://web.archive.org/web/2015/http://logioshermes.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/) · licenza: propria  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2014** · End Summer Camp 2014 (ESC14), Forte Bazz — [Whistleblowing e GlobaLeaks: Esperienze d'uso della tecnologia per finalità di pubblico in](https://www.endsummercamp.org/index.php?title=ESC14-Seminari) · licenza: terzi  
+  2026-10-08, regola «senza nome, non sono io»: ESC14 talk whistleblowing/GlobaLeaks con relatore 'Hermes' (solo organizzazione). Copia conservata.
 - ⏹️ **2015** · Universita di Bologna - AMS Tesi di Laur — [Anonimato in rete (Daini, Irene - rel. Davide Sangiorgi, Informatica per il management)](https://amslaurea.unibo.it/id/eprint/9599/) · licenza: terzi  
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2015** · Camera dei deputati, Commissioni Riunite — [Resoconto stenografico, seduta n. 4 di venerdi 23 ottobre 2015 - Audizione di Alessandro R](https://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/0211/indag/c0211_protezione/2015/10/23/indice_stenografico.0004.html) · licenza: terzi  
@@ -99,6 +105,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: voce esclusa da data/media.json (omonimo, oppure pagina istituzionale che NON contiene il nome: elenco auditi della Camera, resoconto dell'audizione Hermes del 23/10/2015 rappresentata da Alessandro Rodolfi, osservazioni ANAC 2015 firmate da altri, memorie della Rete per i Diritti Umani Digitali, tesi UniBo 9599). La copia resta nell'archivio come prova della ricerca.
 - ⏹️ **2016** · Whistleblowing Solutions Impresa Sociale — [Whistleblowing Solutions Impresa Sociale S.r.l. founded to sustain GlobaLeaks](https://whistleblowing.it/en/about-us/) · licenza: propria  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
+- ⏹️ **2016** · End Summer Camp 2016 (ESC16), Forte Bazz — [Javascript Crypto in GlobaLeaks and other sins](https://www.endsummercamp.org/index.php?title=ESC16-Contenuti) · licenza: terzi  
+  2026-10-08, regola «senza nome, non sono io»: ESC16 talk 'Javascript Crypto in GlobaLeaks' di 'Synnick', non lui. Copia conservata.
 - ⏹️ **2017** · Askanews — [Captatori informatici, proposta di legge di Civici e Innovatori](http://www.askanews.it/cronaca/2017/01/31/captatori-informatici-proposta-di-legge-di-civici-e-innovatori-pn_20170131_00175/) · licenza: terzi  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2017** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #18484 «Map all the existing VLC mirrors that already support HTTPS»](https://code.videolan.org/videolan/vlc/-/work_items/18484) · licenza: propria  
@@ -358,6 +366,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2002** · CeAS - Centro Alti Studi Lotta al Terror — [Il ruolo dei carrier nella security (Fabio Pietrosanti, Network Security Manager I.NET S.p](https://web.archive.org/web/2003/http://www.1ceas.org/rel2002/marzo/marzo.htm) · copia: `2002/e897e1c84a86` (Web Archive 20020819) · licenza: terzi
 - **2002** · Sikurezza.org @ Webb.it 02, Padova Fiere — [Presentazione sikurezza.org (Fabio Pietrosanti 'naif', Stefano Venturoli)](https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html) · copia: `2002/eaa7085c2c1c` (Web Archive 20020821) · licenza: terzi
 - **2002** · WeekIT (Mondadori weekly, weekit.it) — [Crittografia e backdoor, parla Phil Zimmermann](https://web.archive.org/web/20040905220529/http://www.weekit.it:80/weekit/unico/art006004035348.jsp) · copia: `2002/28d7eb3aca2e` (Web Archive 20040905) · licenza: propria
+- **2002** · sikurezza.org wiki - Risorse/Itbh (Itali — [ITBH Ethical Hacker's Speech (SMAU 2002) resources page: Wireless (in)security - Fabio Pie](https://web.archive.org/web/20060428044642/http://www.sikurezza.org:80/wiki/Risorse/Itbh) · copia: `2002/95b156d1d0c8` (Web Archive 20060428) · licenza: terzi
 - **2002** · Apogeonline (Portel survey) — [A caccia di reti wireless insicure](https://www.apogeonline.com/articoli/a-caccia-di-reti-wireless-insicure-redazione-apogeonline/) · copia: `2002/937ccc909111` (Web Archive 20190817) · licenza: terzi
 - **2002** · Hackmeeting 2002 (Bologna) — [Hackit02 - who (participants list)](https://www.hackmeeting.org/hackit02/who.html) · copia: `2002/db0c9beba416` (Web Archive 20100612) · licenza: terzi
 - **2002** · BFi 11-dev file 03 — [[HaCkmEeTiNg] Re: hacking is NOT politics? (vecna, mail thread)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-03) · copia: `2002/3ecc0da83214` (Web Archive 20020808) · licenza: terzi
@@ -371,6 +380,16 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2003** · PuntoSicuro — [Wireless Lan, la sicurezza dell'insicurezza](https://www.puntosicuro.it/security-C-124/sicurezza-informatica-C-90/wireless-lan-la-sicurezza-dell-insicurezza-AR-2853/) · copia: `2003/183a2734dab3` (live) · licenza: propria
 - **2003** · BFi (Butchered From Inside) n.11 — [BFi numero 11 (collected issue): reprints naif mentions in BFi11-02 (hacking is NOT politi](https://www.s0ftpj.org/bfi/bfi11.tar.gz) · copia: `2003/74134833bd98` (Web Archive 20051225) · licenza: terzi
 - **2003** · CNR - Comitato di gestione infrastruttur — [2003 CNR Security Task Force: Wireless (In)security](https://www.slideshare.net/slideshow/2003-cnr-security-task-force-wireless-insecurity/1669313) · copia: `2003/2f531509603e` (Web Archive 20240714) · licenza: terzi
+- **2004** · Webbit 04 Milano (webb.it file manager) — [Wireless (in)security: (in)sicurezza dell'802.11 - slides (wireless_webbit.pdf, 126 pp.)](https://web.archive.org/web/20041022145437/http://www.webb.it:80/filemanager/download/2228/) · copia: `2004/41b191d6d464` (Web Archive 20041022) · licenza: propria
+- **2004** · Webbit 04 Milano (webb.it file manager) — [Sicurezza informatica: la percezione e la realtà - slides (15 pp.)](https://web.archive.org/web/20041022145932/http://www.webb.it:80/filemanager/download/2083/) · copia: `2004/16170ea58263` (Web Archive 20041022) · licenza: propria
+- **2004** · Webbit 04 Milano - area sicurezza Sikure — [La sicurezza delle reti wireless (parte 1) (seminario 3504, Sala Rossa 1) - with MP3 recor](https://web.archive.org/web/20041209225400/http://www.webb.it:80/event/eventview/3504/) · copia: `2004/6de52b1d2049` (Web Archive 20040603) · licenza: terzi
+- **2004** · Webbit 04 Padova (Padova Fiere) - area s — [La sicurezza delle reti wireless 2 (seminario 3501, Sala 9A)](https://web.archive.org/web/20041209231948/http://www.webb.it:80/event/eventview/3501/) · copia: `2004/cda391f508fd` (Web Archive 20040603) · licenza: terzi
+- **2004** · Webbit 04 Milano - area sicurezza Sikure — [La sicurezza delle reti wireless (parte 2) (seminario 3502, Sala Rossa 1) - with MP3 recor](https://web.archive.org/web/20041210002332/http://www.webb.it:80/event/eventview/3502/) · copia: `2004/5749bce52d51` (Web Archive 20040603) · licenza: terzi
+- **2004** · Webbit 04 Padova (Padova Fiere) - area s — [La sicurezza delle reti wireless 1 (seminario 3503, Sala 9A)](https://web.archive.org/web/20041210002559/http://www.webb.it:80/event/eventview/3503/) · copia: `2004/7c3dde334d87` (Web Archive 20040607) · licenza: terzi
+- **2004** · webb.it - Webbit relatori indipendenti ( — [Pietrosanti Fabio - Webbit speaker profile (6 seminars, Padova 04 + Milano 04)](https://web.archive.org/web/20041217202958/http://www.webb.it:80/article/articleview/918/1/fabio+pietrosanti) · copia: `2004/d2f1202e3373` (Web Archive 20041217) · licenza: terzi
+- **2004** · Webbit 04 Milano - area sicurezza Sikure — [La percezione della sicurezza informatica (seminario 4090, Sala Rossa 1) - with MP3 record](https://web.archive.org/web/20041220192449/http://www.webb.it:80/event/eventview/4090/) · copia: `2004/3c74d42df846` (Web Archive 20040603) · licenza: terzi
+- **2004** · Webbit 04 Padova (Padova Fiere) - area s — [La percezione della sicurezza informatica (seminario 3684, Sala 7A)](https://web.archive.org/web/20041220193103/http://www.webb.it:80/event/eventview/3684/) · copia: `2004/9d3432ad13f5` (Web Archive 20040602) · licenza: terzi
+- **2004** · webb.it - Associazioni e U.G. — [Relatori indipendenti area sicurezza (Webbit 2004) - coordinator](https://web.archive.org/web/20041225100556/http://www.webb.it:80/article/articleview/520/1/relatori+indipendenti+area+sicurezza) · copia: `2004/e0bcd52b17db` (Web Archive 20041225) · licenza: terzi
 - **2004** · BFi 12-dev file 10 — [Steganography applied on network sessions and neighbourhood (vecna)](https://www.s0ftpj.org/bfi/dev/en/BFi12-dev-10-en) · copia: `2004/02a1647d314b` (Web Archive 20041023) · licenza: terzi
 - **2004** · Webbit 04, Padova — [2004: Webbit Padova 04: Presentazione Sikurezza.Org](https://www.slideshare.net/slideshow/webbit-04-presentazione-sikurezzaorg/1669242) · copia: `2004/df31b61c9b25` (live) · licenza: terzi
 - **2004** · Webbit 04, Padova — [2004: Webbit Padova 04: Wireless (in)security](https://www.slideshare.net/slideshow/webbit-04-wireless-insecurity/1669209) · copia: `2004/ec8d254f99b2` (Web Archive 20250917) · licenza: terzi
@@ -382,23 +401,43 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2005** · e-privacy IV (2005), Firenze, Palazzo Ve — [PGP luci e ombre (atti, PDF)](https://urna.winstonsmith.org/materiali/2005/atti/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf) · copia: `2005/c43f8e93050f` (Web Archive 20160526) · licenza: propria
 - **2005** · e-privacy IV (2005), Firenze, Palazzo Ve — [PGP luci e ombre (atti, PPT)](https://urna.winstonsmith.org/materiali/2005/atti/Ep2005_PGP_luci_e_ombre_Pietrosanti.ppt) · copia: `2005/3a21b65b9491` (live) · licenza: propria
 - **2005** · e-privacy IV (2005), Firenze, Palazzo Ve — [PGP luci e ombre (audio OGG)](https://urna.winstonsmith.org/materiali/2005/audio/Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg) · copia: `2005/b603d6fb3b73` (Web Archive 20210609) · licenza: terzi
+- **2005** · SMAU 2005, Milano - eAcademy, area sicur — [SMAU 2005 (eAcademy Sikurezza.org, Milano): pgp luci e ombre: storia e evoluzione dello st](https://web.archive.org/web/20060218020713/http://www.sikurezza.org:80/wiki/Risorse/Smau05) · copia: `2005/0fd9ded9a204` (Web Archive 20060218) · licenza: terzi
+- **2005** · SMAU 2005 eAcademy (sikurezza.org wiki a — [PGP luci e ombre - SMAU 2005 E-Academy version (PGP_luci_e_ombre.ppt)](https://web.archive.org/web/20060507182713/http://www.sikurezza.org/wiki/Risorse/Smau05?action=download&upname=PGP_luci_e_ombre.ppt) · copia: `2005/972fdc47d27b` (Web Archive 20060507) · licenza: propria
 - **2005** · E-Privacy 2005, Firenze — [PGP luci e ombre. Storia e evoluzione dello strumento per la privacy più usato al mondo](https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259) · copia: `2005/8024a63d0295` (live) · licenza: terzi
 - **2006** · Shake Edizioni — [Il software libero in Italia (a cura di Andrea Glorioso) - contributo di Fabio "naif" Piet](http://www.shake.it/index.php?id=51&productID=541) · copia: `2006/32ad2b4438ec` (Web Archive 20151106) · licenza: terzi
+- **2006** · s0ftpr0ject (s0ftpj.org) - Digital Secur — [s0ftpj.org docs: hosts 'Exploiting hidden services...' (hack.lu 2006), 'PGP Luci ed ombre'](https://s0ftpj.org/en/docs.html) · copia: `2006/483fb0e5c12e` (Web Archive 20061010) · licenza: terzi
 - **2006** · Full-Disclosure — [parallels Desktop file permission notice](https://seclists.org/fulldisclosure/2006/Oct/581) · copia: `2006/ceefd39eadff` (Web Archive 20111213) · licenza: propria
 - **2006** · Secunia — [Parallels Desktop for Mac insecure file permissions (SA22634)](https://secunia.com/advisories/22634/) · copia: `2006/3b883128af23` (Web Archive 20070429) · licenza: propria
+- **2006** · Infosecurity Italia 2006, Milano (Fiera) — [Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzia](https://web.archive.org/web/20060219061042/http://www.sikurezza.org/wiki/Risorse/Infosecurity06) · copia: `2006/baf18236b002` (Web Archive 20060208) · licenza: terzi
+- **2006** · Hack.lu 2006, Luxembourg - speakers list — [Hack.lu 2006 speakers: Fabio Pietrosanti - abstract and biography](https://web.archive.org/web/20061103134031/http://www.hack.lu:80/index.php/List) · copia: `2006/d7882a1ad9de` (Web Archive 20061103) · licenza: terzi
+- **2006** · Hack.lu 2006 (official wiki, Speakers pa — [Hack.lu 2006 Speakers: 'Exploiting hidden services to setup anonymous communication infras](https://web.archive.org/web/20061104181744/http://hack.lu:80/index.php/Speakers) · copia: `2006/39995b4fcdce` (Web Archive 20061104) · licenza: terzi
+- **2006** · Hack.lu 2006, Luxembourg — [Exploiting hidden services to setup anonymous communication infrastructure - official agen](https://web.archive.org/web/20061104182610/http://hack.lu/index.php/Agenda) · copia: `2006/d5373b05c27b` (Web Archive 20061104) · licenza: terzi
 - **2006** · Hack.lu 2006, Luxembourg — [Exploiting hidden services to setup anonymous communication infrastructure](https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208) · copia: `2006/096cb67fadf6` (Web Archive 20250622) · licenza: terzi
 - **2006** · SlideShare (Infosecurity Italy 2006) — [2006: Infosecurity Italy: Tecnologie di Firma Digitale e Tutela della Riservatezza](https://www.slideshare.net/slideshow/infosecurity-06-tecnologie-di-firma-digitale-e-tutela-della-riservatezza/1669276) · copia: `2006/ea4fb493abfa` (live) · licenza: propria
 - **2007** · Chaos Communication Camp 2007 (Finowfurt — [Italia - Italian Embassy village (CCC Camp 2007 wiki)](https://events.ccc.de/camp/2007/Italia/index.html) · copia: `2007/8f2af638c108` (Web Archive 20080917) · licenza: terzi
+- **2007** · mgpf.it (Matteo Flora blog, formerly las — [Grazie mille!](https://mgpf.it/2007/02/09/grazie-mille.html) · copia: `2007/8d25ff03abc3` (Web Archive 20130527) · licenza: terzi
+- **2007** · mgpf.it (Matteo Flora blog, formerly las — [InfoSecurity2007](https://mgpf.it/2007/02/20/infosecurity2007.html) · copia: `2007/ad709cd08403` (Web Archive 20130527) · licenza: terzi
+- **2007** · mgpf.it (Matteo Flora blog, formerly las — [Sabato 28 Aprile ad Orvieto si parla di Privacy](https://mgpf.it/2007/04/27/sabato-28-aprile-ad-orvieto-si-parla-di-privacy.html) · copia: `2007/1c54c38067cd` (Web Archive 20130527) · licenza: terzi
+- **2007** · mgpf.it (Matteo Flora blog, formerly las — [Ritorno da Perugia e nuovo progetto](https://mgpf.it/2007/04/30/ritorno-da-perugia-e-nuovo-progetto.html) · copia: `2007/917c38b6599a` (Web Archive 20130527) · licenza: terzi
+- **2007** · mgpf.it (Matteo Flora blog, formerly las — [Di tante tante cose…](https://mgpf.it/2007/09/25/di-tante-tante-cose.html) · copia: `2007/d3feb81aa28a` (Web Archive 20130527) · licenza: terzi
 - **2007** · mgpf.it (Matteo Flora blog) — [Wardriving a Milano - WarBiking nella metropoli](https://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli.html) · copia: `2007/505437294caf` (Web Archive 20130527) · licenza: terzi
+- **2007** · Infosecurity Italia 2007, Milano - Area  — [Voice Security & Privacy (martedì 6, ore 12.30) - held by Flora, Misitano, Pennasilico, Pi](https://web.archive.org/web/20070226125358/http://www.sikurezza.org/wiki/Risorse/Infosecurity07) · copia: `2007/2683e5cd9833` (Web Archive 20070226) · licenza: terzi
 - **2007** · infosecurity.ch (blog) — [Uno sguardo a…](https://web.archive.org/web/2012/http://infosecurity.ch/20070210/uno-sguardo-a/) · copia: `2007/f19e39f81adc` (Web Archive 20081223) · licenza: propria
+- **2007** · End Summer Camp 2007 (ESC07), San Donà d — [Hacker Jeopardy (session 715)](https://www.endsummercamp.org/index.php?title=ESC07-Programma) · copia: `2007/5b2ad800c331` (live) · licenza: terzi
+- **2007** · minotti.net (blog of lawyer Daniele Mino — [Infosecurity e decreto Gentiloni](https://www.minotti.net/2007/02/08/infosecurity-e-decreto-gentiloni/) · copia: `2007/735a258db37a` (Web Archive 20081121) · licenza: terzi
 - **2007** · SlideShare (Infosecurity Italy 2007) — [2007: Infosecurity Italy: Voice Privacy Security (flash talk)](https://www.slideshare.net/slideshow/infosec-07-voice-privacy-security-flash-talk/1669302) · copia: `2007/80f5e524637a` (Web Archive 20240420) · licenza: propria
 - **2008** · PC Professionale n.207 (giugno 2008) — [L'intervista (Philip Zimmermann / Zfone) - box 'Nei Khamsa Labs si studia come rendere sic](https://archive.org/details/pcprofessionale207) · copia: `2008/229103cbad92` (live) · licenza: terzi
 - **2008** · CRC Press (Auerbach) - R. Chiesa, S. Duc — [Profiling Hackers: The Science of Criminal Profiling as Applied to the World of Hacking (G](https://books.google.com/books?id=y2Amp_OwrPMC) · copia: `2008/09f111330d76` (live) · licenza: terzi
+- **2008** · mgpf.it (Matteo Flora blog) — [Italians Do It Better: Truecrypt su MAC grazie a OsxCrypt](https://mgpf.it/2008/01/24/italians-do-it-better-truecrypt-su-mac-grazie-a-osxcrypt.html) · copia: `2008/d942e4370a0a` (Web Archive 20130527) · licenza: terzi
+- **2008** · mgpf.it (Matteo Flora blog) — [Stasera 19/12 a Milano, ore 19 in Corso Como!](https://mgpf.it/2008/12/19/stasera-1912-a-milano-ore-19-in-corso-como.html) · copia: `2008/e0d1cb8efe07` (Web Archive 20130527) · licenza: terzi
 - **2008** · Ufficio Italiano Brevetti e Marchi (Ital — [Techniques of safe management multi identity for centralized messaging services](https://patents.google.com/patent/ITRM20060425A1/en) · copia: `2008/ed9bed319d8c` (Web Archive 20220507) · licenza: propria
+- **2008** · Ufficio Italiano Brevetti e Marchi - Ita — [Method for non-repudiable recording of a digital transmission of information and for the i](https://patents.google.com/patent/ITRM20060426A1/en) · copia: `2008/b809f9720eb6` (live) · licenza: propria
 - **2008** · WIPO PCT application WO2008015721 (PCT/I — [Secure multi-identity management methods for a centralized messaging service](https://patents.google.com/patent/WO2008015721A2/en) · copia: `2008/022f08b972ff` (Web Archive 20220507) · licenza: propria
 - **2008** · WIPO PCT patent application WO2008015723 — [Method of recording a not repudiable digital transmission of information and identifying t](https://patents.google.com/patent/WO2008015723A2/en) · copia: `2008/1407d3f71d38` (live) · licenza: propria
 - **2008** · OSXCrypt / Full Disclosure — [THIS IS NOT A SCAM: REAL TRUECRYPT FOR MACOS IS HERE!](https://seclists.org/fulldisclosure/2008/Jan/467) · copia: `2008/bc9073eaa585` (Web Archive 20111208) · licenza: propria
 - **2008** · Shake Edizioni (collana Cyberpunkline) — [Il software libero in Italia, a cura di Andrea Glorioso - contributo di Fabio 'naif' Pietr](https://shake.it/libri/il-software-libero-in-italia/) · copia: `2008/baaae4a00d4c` (Web Archive 20211201) · licenza: terzi
+- **2008** · OSXCrypt.org (project blog, Web Archive) — [This is not a scam: Real Truecrypt for MacOs is here!](https://web.archive.org/web/20080127141237/http://www.osxcrypt.org:80/2008/01/23/this-is-not-a-scam-real-truecrypt-for-macos-is-here/) · copia: `2008/9ad0c397a981` (Web Archive 20080127) · licenza: terzi
+- **2008** · OSXCrypt.org (project website, Web Archi — [Staff - OSXCrypt.org (Truecrypt for MAC)](https://web.archive.org/web/20080128135401/http://www.osxcrypt.org:80/staff/) · copia: `2008/acb6ba842f08` (Web Archive 20080128) · licenza: terzi
 - **2008** · Punto Informatico (PI Download review),  — [OsxCrypt review on PI Download (pidownload.it p.aspx?is=2179579)](https://www.punto-informatico.it/download/osxcrypt/) · copia: `2008/01494df52100` (Web Archive 20200804) · licenza: terzi
 - **2009** · e-privacy 2009 proceedings (urna.winston — [Voice security and privacy (atti, PDF)](http://urna.winstonsmith.org/materiali/2009/atti/ep2009_pietrosanti_voice_security_and_privacy.pdf) · copia: `2009/04a7c9bcf6e9` (Web Archive 20210605) · licenza: terzi
 - **2009** · e-privacy 2009 audio (urna.winstonsmith. — [Voice security and privacy (audio MP3)](http://urna.winstonsmith.org/materiali/2009/audio/ep2009_pietrosanti_voice_security_and_privacy.mp3) · copia: `2009/b982f1a71f8f` (Web Archive 20250227) · licenza: terzi
@@ -443,6 +482,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2009** · infosecurity.ch (blog) — [Gold-Lock Security Encryption Contest: be careful!](https://web.archive.org/web/2012/http://infosecurity.ch/20091125/gold-lock-security-encryption-contest-be-careful/) · copia: `2009/d75704128b83` (Web Archive 20091213) · licenza: propria
 - **2009** · infosecurity.ch (blog) — [Location Based Services: the big brother thanks you ;-)](https://web.archive.org/web/2012/http://infosecurity.ch/20091201/location-based-services-the-big-brother-thanks-you/) · copia: `2009/d577ed956eaf` (Web Archive 20100329) · licenza: propria
 - **2009** · infosecurity.ch (blog) — [Index of economic freedom](https://web.archive.org/web/2012/http://infosecurity.ch/20091221/index-of-economic-freedom/) · copia: `2009/3d89d584c337` (Web Archive 20100329) · licenza: propria
+- **2009** · End Summer Camp 2009 (ESC09), Forte Bazz — [Ghost Track "Stasera si recita a soggetto" by naif&etc. (ESC09 materials)](https://www.endsummercamp.org/index.php?title=ESC09-Materiali) · copia: `2009/dd65e3bf1487` (Web Archive 20101226) · licenza: terzi
+- **2009** · End Summer Camp 2009 (ESC09), Forte Bazz — [Hacker Jeopardy by malveo+naif (da confermare)](https://www.endsummercamp.org/index.php?title=ESC09-Programma) · copia: `2009/cc5db1133ea0` (Web Archive 20090827) · licenza: terzi
 - **2009** · HAR2009 (Hacking at Random, Vierhouten N — [HAR-microemb - Italian micro-embassy at HAR2009 (endsummercamp.org wiki)](https://www.endsummercamp.org/index.php?title=HAR-microemb) · copia: `2009/858a56f4e2b1` (Web Archive 20170801) · licenza: terzi
 - **2009** · SlideShare (Security Summit 2009 Milan) — [2009: Voice Security And Privacy (Security Summit - Milan)](https://www.slideshare.net/slideshow/2009-voice-security-and-privacy-security-summit-milan/1677364) · copia: `2009/1754875422e5` (live) · licenza: propria
 - **2010** · Voice of VOIPSA (voipsa.org blog) — [VoIP Firewall: Telephony vs Security world](http://voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/) · copia: `2010/53ff19d5ff87` (Web Archive 20101010) · licenza: propria
@@ -490,6 +531,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.csoonline.com/article/524574/malware-cybercrime-accusations-fly-over-voice-encryption-hack.html) · copia: `2010/3c24d3c7cfab` (Web Archive 20230928) · licenza: terzi
 - **2010** · Data Manager Online — [Intercettazioni e molto di più](https://www.datamanager.it/news/sicurezza/intercettazioni-e-molto-di-pi) · copia: `2010/0f172e809c69` (Web Archive 20240220) · licenza: propria
 - **2010** · Data Manager (rivista) — [Khamsa: chiamate cifrate tra cellulari](https://www.datamanager.it/rivista/privategsm/khamsa-chiamate-cifrate-tra-cellulari) · copia: `2010/1d0ab80daab7` (Web Archive 20100508) · licenza: terzi
+- **2010** · End Summer Camp 2010 (ESC10), Forte Bazz — [Security Trashcan (session 1017)](https://www.endsummercamp.org/index.php?title=ESC10-Schedule) · copia: `2010/47f71168a427` (Web Archive 20101228) · licenza: terzi
 - **2010** · heise.de — [Hickhack um Test für Handyverschlüsselung](https://www.heise.de/news/Hickhack-um-Test-fuer-Handyverschluesselung-919951.html) · copia: `2010/2dbb8a9f03d0` (live) · licenza: terzi
 - **2010** · SlideShare profile fpietrosanti — [Fabio Pietrosanti presentations (13 decks)](https://www.slideshare.net/fpietrosanti) · copia: `2010/861f7ed4a4c3` (Web Archive 20111207) · licenza: propria
 - **2010** · SlideShare (WHYMCA 2010) — [2010: Mobile Security - WHYMCA Developer Conference](https://www.slideshare.net/slideshow/2010-mobile-security-whymca-developer-conference/4392945) · copia: `2010/8c7c8628f2e5` (Web Archive 20250129) · licenza: propria
@@ -523,6 +565,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2011** · infosecurity.ch (blog) — [My TOR exit node experience trying to filter out noisy traffic](https://web.archive.org/web/2012/http://infosecurity.ch/20110124/my-tor-exit-node-experience-trying-to-filter-out-noisy-traffic/) · copia: `2011/beff80b273a6` (Web Archive 20110128) · licenza: propria
 - **2011** · infosecurity.ch (blog) — [Progress for GSM cracking in Freiburg university](https://web.archive.org/web/2012/http://infosecurity.ch/20110223/progress-for-gsm-cracking-in-freiburg-university/) · copia: `2011/69461d727b20` (Web Archive 20110302) · licenza: propria
 - **2011** · infosecurity.ch (blog) — [RFC 6189: ZRTP is finally a standard!](https://web.archive.org/web/2012/http://infosecurity.ch/20110411/rfc-6189-zrtp-is-finally-a-standard/) · copia: `2011/045847a702b6` (Web Archive 20110625) · licenza: propria
+- **2011** · End Summer Camp 2011 (ESC11), Forte Bazz — ["ph33r th3 ph0n3" by naif & nex` (proposed, later withdrawn)](https://www.endsummercamp.org/index.php?title=ESC11-Contenuti&oldid=6755) · copia: `2011/c2cd7fb1e534` (live) · licenza: terzi
 - **2011** · Festival Internazionale del Giornalismo  — [Pietrosanti Fabio (ospiti 2011)](https://www.festivaldelgiornalismo.com/menu/ospiti-2011/pietrosanti-fabio/) · copia: `2011/e1c4715aba13` (Web Archive 20110414) · licenza: terzi
 - **2011** · Forbes (Andy Greenberg) — [GlobaLeaks Wants To Be The Bittorrent To WikiLeaks' Napster](https://www.forbes.com/sites/andygreenberg/2011/01/26/globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster/) · copia: `2011/d859b1680d1d` (Web Archive 20130316) · licenza: terzi
 - **2011** · forbes.com — [Egypt's Last Internet Lifeline Put In A Chokehold - Forbes](https://www.forbes.com/sites/andygreenberg/2011/01/31/egypts-last-internet-lifeline-put-in-a-chokehold/) · copia: `2011/c5423d7c592c` (Web Archive 20120511) · licenza: terzi
@@ -603,6 +646,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2014** · European Journalism Observatory (it.ejo. — [ExpoLeaks, whistleblowing per Expo](https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza) · copia: `2014/aaae2cfd6c8e` (Web Archive 20160307) · licenza: terzi
 - **2014** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — September 17th, 2014](https://lwn.net/Articles/612209/) · copia: `2014/d9bdc4326860` (Web Archive 20150919) · licenza: terzi
 - **2014** · The Tor Project, Tor proposals (torspec) — [Making Tor2Web mode faster (Tor Proposal 233)](https://spec.torproject.org/proposals/233-quicken-tor2web-mode.html) · copia: `2014/109cc7c1d44b` (Web Archive 20240615) · licenza: terzi
+- **2014** · End Summer Camp 2014 (ESC14) wiki — [ESC14-BBS planning page (BBS / vintage telephone exchange area)](https://www.endsummercamp.org/index.php?title=ESC14-BBS) · copia: `2014/26cb2441bc82` (live) · licenza: terzi
 - **2014** · International Journalism Festival 2014 — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `2014/5d059e56be1a` (Web Archive 20140429) · licenza: terzi
 - **2014** · International Journalism Festival 2014 — [Intercettazioni telefoniche nell'era dell'NSA Gate](https://www.festivaldelgiornalismo.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate) · copia: `2014/eda7714af87e` (Web Archive 20140512) · licenza: terzi
 - **2014** · International Journalism Festival - news — [How to protect the next Snowden](https://www.journalismfestival.com/news/how-to-protect-the-next-snowden/) · copia: `2014/87e918067ece` (Web Archive 20140513) · licenza: terzi
@@ -635,6 +679,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · Nexa Center for Internet & Society (Poli — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://nexa.polito.it/mercoledi-73/) · copia: `2015/3ecb72b724bd` (Web Archive 20150305) · licenza: terzi
 - **2015** · Tor Tech Report 2015-04-001 (The Tor Pro — [Hidden-service statistics reported by relays](https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf) · copia: `2015/292d68aabe22` (Web Archive 20151202) · licenza: terzi
 - **2015** · Hermes Center — [Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes](https://web.archive.org/web/2015/http://logioshermes.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/) · copia: `2015/41fa50b57983` (Web Archive 20150806) · licenza: propria
+- **2015** · End Summer Camp 2015 (ESC15), Forte Bazz — [Capanello c1509: Cosa pensano gli hacker degli hacker](https://www.endsummercamp.org/index.php?title=ESC15-Caps) · copia: `2015/f3801e08b9c0` (live) · licenza: terzi
+- **2015** · End Summer Camp 2015 (ESC15), Forte Bazz — [Hermes Overview 2015](https://www.endsummercamp.org/index.php?title=ESC15-Programma) · copia: `2015/847ba8cc82ce` (live) · licenza: terzi
 - **2015** · International Journalism Festival 2015 — [Whistleblowing digitale con GlobaLeaks](https://www.festivaldelgiornalismo.com/programme/2015/digital-whistleblowing-with-globaleaks) · copia: `2015/b63dd0f8e324` (Web Archive 20150426) · licenza: terzi
 - **2015** · International Journalism Festival 2015 — [Greenwald-in-a-box: un esperimento Hermes](https://www.festivaldelgiornalismo.com/programme/2015/greenwald-in-a-box-a-hermes-experiment) · copia: `2015/0ccd4d7d470e` (Web Archive 20150426) · licenza: terzi
 - **2015** · International Journalism Festival 2015 — [Abbi cura delle tue fonti - come potenziare la redazione con GlobaLeaks](https://www.festivaldelgiornalismo.com/programme/2015/take-care-of-your-sources-newsroom-empowering-with-globaleaks) · copia: `2015/648746b6b177` (Web Archive 20150426) · licenza: terzi

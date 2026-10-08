@@ -549,6 +549,22 @@
   {
    "url": "https://mxmap.it/",
    "reason": "2026-10-05, decisione di Fabio («senza nome, non sono io», A0.3): copia completa senza il suo nome ne' «naif» (solo organizzazione/progetto). La copia resta nell'archivio privato."
+  },
+  {
+   "url": "https://www.endsummercamp.org/index.php?title=ESC11-Seminari",
+   "reason": "2026-10-08, regola di Fabio «senza nome, non sono io»: talk GlobaLeaks/Tor2web a ESC11 attribuito a 'Random Globaleaks developer', né nome né «naif». Copia conservata nell'archivio privato."
+  },
+  {
+   "url": "https://www.endsummercamp.org/index.php?title=ESC14-Seminari",
+   "reason": "2026-10-08, regola «senza nome, non sono io»: ESC14 talk whistleblowing/GlobaLeaks con relatore 'Hermes' (solo organizzazione). Copia conservata."
+  },
+  {
+   "url": "https://www.endsummercamp.org/index.php?title=ESC16-Contenuti",
+   "reason": "2026-10-08, regola «senza nome, non sono io»: ESC16 talk 'Javascript Crypto in GlobaLeaks' di 'Synnick', non lui. Copia conservata."
+  },
+  {
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2006-5817",
+   "reason": "2026-10-08, regola «senza nome, non sono io»: il record NVD/MITRE della CVE nata dal suo advisory Parallels (seclists 2006/Oct/581, Secunia SA22634) non lo nomina; la CVE resta solo come riferimento dell'advisory. Copia conservata."
   }
  ],
  "override": [
@@ -787,6 +803,13 @@
    "set": {
     "verified": true,
     "note": "«Dott. Fabio Pietrosanti» nel comitato tecnico di esperti dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino; confermato da Fabio il 2026-10-07 (data di nomina non indicata nella pagina)."
+   }
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/infosecurity-06-tecnologie-di-firma-digitale-e-tutela-della-riservatezza/1669276",
+   "set": {
+    "date": "2006-02-10",
+    "note_date": "2026-10-08: data corretta al 10/02/2006 dalla pagina Sikurezza.org Infosecurity06 (Venerdi 10, ore 10:00); l'8/02 era l'evento LRA separato."
    }
   }
  ],

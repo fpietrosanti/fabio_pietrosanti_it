@@ -55,7 +55,8 @@ def norm_url(u):
     return host + path + ("?" + "&".join(ids) if ids else "")
 
 
-ID_PARAMS = {"id", "productid", "p", "page_id", "articleid", "idarticolo", "idnotizia"}
+ID_PARAMS = {"id", "productid", "p", "page_id", "articleid", "idarticolo", "idnotizia",
+             "title", "upname", "oldid", "curid"}  # MediaWiki pages and MoinMoin attachments (2026-10-08)
 
 
 def norm_title(t):

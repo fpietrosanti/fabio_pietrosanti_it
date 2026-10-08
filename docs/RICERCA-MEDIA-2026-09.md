@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1290**; dopo deduplica: **932**
-- Già presenti sul vecchio sito: **33** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 899**
-- Verificati aprendo la pagina: **872**; solo da risultato di ricerca: **60**
+- Risultati grezzi dalle ricerche: **1332**; dopo deduplica: **969**
+- Già presenti sul vecchio sito: **42** (su 35 voci elencate lì)
+- **Nuovi rispetto al vecchio sito: 927**
+- Verificati aprendo la pagina: **910**; solo da risultato di ricerca: **59**
 
-Per tipo (nuovi): Menzionato 154, tweet 132, Post sul blog infosecurity.ch 72, Talk 69, Video 64, Citato 49, Progetto 33, Ricerca 31, article 28, Radio 27, Altro 26, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 11, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 4, pagina 4, code repository 4, panel 3, Tesi 3, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 163, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 65, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 28, Radio 27, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 12, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, panel 4, pagina 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -20,20 +20,20 @@ Per tipo (nuovi): Menzionato 154, tweet 132, Post sul blog infosecurity.ch 72, T
 | 1999 | 0 | 1 | 1 |
 | 2000 | 2 | 16 | 13 |
 | 2001 | 8 | 16 | 11 |
-| 2002 | 2 | 13 | 7 |
+| 2002 | 2 | 14 | 7 |
 | 2003 | 5 | 7 | 6 |
-| 2004 | 1 | 2 | 2 |
-| 2005 | 1 | 6 | 5 |
-| 2006 | 4 | 5 | 2 |
-| 2007 | 1 | 5 | 4 |
-| 2008 | 0 | 8 | 8 |
-| 2009 | 1 | 42 | 40 |
-| 2010 | 6 | 58 | 50 |
-| 2011 | 4 | 26 | 23 |
+| 2004 | 1 | 12 | 11 |
+| 2005 | 1 | 8 | 5 |
+| 2006 | 4 | 9 | 3 |
+| 2007 | 1 | 13 | 10 |
+| 2008 | 0 | 13 | 13 |
+| 2009 | 1 | 44 | 42 |
+| 2010 | 6 | 59 | 51 |
+| 2011 | 4 | 27 | 24 |
 | 2012 | 0 | 28 | 28 |
 | 2013 | 0 | 28 | 28 |
-| 2014 | 0 | 27 | 27 |
-| 2015 | 0 | 34 | 34 |
+| 2014 | 0 | 28 | 28 |
+| 2015 | 0 | 36 | 36 |
 | 2016 | 0 | 21 | 21 |
 | 2017 | 0 | 68 | 68 |
 | 2018 | 0 | 59 | 59 |
@@ -1261,7 +1261,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · magazine · Polityka (Wydawnictwo Prasowe Polityka), 2016 bound volume — [Polityka 2016 (article on GlobaLeaks)](https://books.google.com/books?id=RyCG694TkQAC)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Polish weekly, 2016 volume (exact issue unknown). Snippet: '... GlobaLeaks (Globalne Przecieki), którą stworzyli włoscy hakerzy Fabio Pietro-santi i Arturo Filastò dla fundacji Hermes Center for Transparency and Digital Human Rights ...'.
 
-## 2015 — 34 voci, 34 nuove
+## 2015 — 36 voci, 36 nuove
 
 - 🆕 **2015-11-02** · Citato · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/)  
   verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…
@@ -1269,6 +1269,10 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …th Korea, Sudan and Cuba face export bans under broader American economic sanctions. “There isn’t much regulation, or many rules on exports in this area,” said Fabio Pietrosanti, founder of the Hermes Center for Transpar…
 - 🆕 **2015-10-20** · Podcast · Pirate's Night Show #5 (YouTube livestream) — [Pirate's Night Show #5 - Tor e Privacy con Fabio Pietrosanti (Naif)](https://www.youtube.com/watch?v=P-jGzZwzu3U)  
   Livestreamed talk show on Tor and privacy
+- 🆕 **2015-09-05** · Talk · End Summer Camp 2015 (ESC15), Forte Bazzera (Venezia) — [Hermes Overview 2015](https://www.endsummercamp.org/index.php?title=ESC15-Programma)  
+  ESC15-Programma 'Sabato 5 settembre', TALKS 22:00-00:00, code 15xx, 22:00-22:50, 'Hermes Overview 2015', Relatore 'Naif'. ESC15-relatori still marked it '-da confermare-' (last edit 2015-08-29). The final program (last edit 2015-11-05) keeps it without that caveat. Language not stated.
+- 🆕 **2015-09** · Altro · End Summer Camp 2015 (ESC15), Forte Bazzera (Venezia) — [Capanello c1509: Cosa pensano gli hacker degli hacker](https://www.endsummercamp.org/index.php?title=ESC15-Caps)  
+  ESC15-Caps (discussion circles): 'c1509 : Cosa pensano gli hacker degli hacker', REFERENTE=Scinawa, PARTECIPANTI=naif, gioque.
 - 🆕 **2015-08-30** · Menzionato · The Tor Project blog - Tor Weekly News — [Tor Weekly News — August 30th, 2015](https://blog.torproject.org/tor-weekly-news-august-30th-2015/)  
   Reports his open call for GlobaLeaks developers
 - 🆕 **2015-08-09** · Citato · Leo Rugens - Sconfinamenti (blog) — [Hacking Team e Resi Informatica: sassolino nella scarpa dopo sassolino nella scarpa, vuoi vedere che questa volta facciamo piazza pulita?](https://leorugens.wordpress.com/2015/08/09/hacking-team-e-resi-informatica-sassolino-nella-scarpa-dopo-sassolino-nella-scarpa-vuoi-vedere-che-questa-volta-facciamo-piazza-pulita/)  
@@ -1332,7 +1336,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2015-01** · Report · Dyne.org (software manual) — [Jaro Mail 3.2 manual](https://archive.org/details/manualzilla-id-5679480)  
   Denis 'Jaromil' Roio (Dyne.org), manual of the Jaro Mail email client v3.2 (tag v3.2 dated 2015-01-25 on github.com/dyne/JaroMail). Acknowledgements thank '... Anatole Shaw, Francesco Politi and Fabio Pietrosanti for early testing and debugging'. Seen via Internet Archive full-text search snippet (copy uploaded to archive.org from manualzilla); not an academic work, a software documentation acknowledgement. Authorship of manual assumed from project, not read.
 
-## 2014 — 27 voci, 27 nuove
+## 2014 — 28 voci, 28 nuove
 
 - 🆕 **2014-12-29** · workshop · 31C3 Chaos Communication Congress, Hamburg (Noisy Square) — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks)  
   60-min GlobaLeaks workshop, 29 Dec 2014 15:00 at Noisy Square; person organizing: Naif (duplicate draft page Session:Practical_Whistleblowing also exists)
@@ -1356,6 +1360,8 @@ Anni senza nessun risultato: nessuno
   Covers his hidden-service honeypot experiment detecting HSDir enumeration
 - 🆕 **2014-08-27** · Citato · Motherboard (VICE) — [Inside SS7, the Insecure Global Cell Network That's Used to Track Phones](https://www.vice.com/en/article/inside-ss7-the-insecure-global-cell-network-thats-used-to-track-phones/)  
   Extensively quoted as mobile security expert (Hermes Center) on SS7 location tracking and Verint SkyLock
+- 🆕 **2014-07** · Menzionato · End Summer Camp 2014 (ESC14) wiki — [ESC14-BBS planning page (BBS / vintage telephone exchange area)](https://www.endsummercamp.org/index.php?title=ESC14-BBS)  
+  Planning discussion: '(naif forse te stavi macerando quello dei tuoi a latina, o era ISDN?)', about an old analogue PBX. Passing mention only.
 - 🆕 **2014-06-20** · Video · Free Press Unlimited (YouTube) — [International Whistleblowers Conference 2014 - Part 1: Morning plenary](https://www.youtube.com/watch?v=UVBzF1rB5ZU)  
   Introductions by Fabio Pietrosanti, Anna Myers and Diana Schemo (Amsterdam)
 - 🆕 **2014-06-11** · Citato · European Journalism Observatory (it.ejo.ch) — [ExpoLeaks, whistleblowing per Expo](https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza)  
@@ -1507,7 +1513,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2012** · Talk · International Journalism Festival 2012 — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2012/firewalls)  
   IJF12 Perugia session
 
-## 2011 — 26 voci, 23 nuove
+## 2011 — 27 voci, 24 nuove
 
 - 🆕 **2011-12-11** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks](https://www.hermescenter.org/radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks/)  
   names Fabio: … 10/12/2011 Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks. Intervista a Marco Calamari e a Fabio Pietrosanti. di Roberto Spagnoli La “public disclosure”, cioè la pubblicazione di informazioni riservate, che in certi casi può ave… — restored in hermescenter/hermescenter.org-restoration id radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks
@@ -1521,6 +1527,8 @@ Anni senza nessun risultato: nessuno
   names Fabio: …nternet come metodo: dalla mobilitazione, all’organizzazione alla nuova forma partito” (seconda giornata) Talk by Fabio Pietrosanti and Arturo Filastò here. … — restored in hermescenter/hermescenter.org-restoration id x-congresso-radicali-italiani-globaleaks
 - 🆕 **2011-10-30** · Video · Radio Radicale — [4ª Commissione del X Congresso di Radicali Italiani - Internet come metodo: dalla mobilitazione, all'organizzazione alla nuova forma partito (seconda giornata)](https://www.radioradicale.it/scheda/338769/4a-commissione-del-x-congresso-di-radicali-italiani-internet-come-metodo-dalla)  
   Intervention at Radicali Italiani congress commission on Internet as method
+- 🆕 **2011-08-11** · Talk · End Summer Camp 2011 (ESC11), Forte Bazzera (Venezia) — ["ph33r th3 ph0n3" by naif & nex` (proposed, later withdrawn)](https://www.endsummercamp.org/index.php?title=ESC11-Contenuti&oldid=6755)  
+  Only in the page history: ESC11-Contenuti revisions 6743-6755 (2011-08-11 to 2011-08-15) list '=== 1104 - "ph33r th3 ph0n3" by naif & nex` ===' with the abstract 'mobile antani supercazzola aka To Be Defined'. On 2011-08-17 slot 1104 was replaced by 'They Hack, We Laugh - nex'. The talk is not in the final program.
 - 🆕 **2011-08-10** · Progetto · Chaos Communication Camp 2011 wiki — [GlobaLeaks (camp project page)](https://events.ccc.de/camp/2011/wiki/GlobaLeaks)  
   GlobaLeaks project at CCC Camp 2011; Naif listed among people
 - 🆕 **2011-08-10** · Altro · Chaos Communication Camp 2011 wiki — [Italian Embassy (village)](https://events.ccc.de/camp/2011/wiki/Italian_Embassy)  
@@ -1562,7 +1570,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2011** · Progetto · GitHub — [fpietrosanti (Fabio (naif) Pietrosanti)](https://github.com/fpietrosanti)  
   GitHub profile, company Hermes Center
 
-## 2010 — 58 voci, 50 nuove
+## 2010 — 59 voci, 51 nuove
 
 - 🆕 **2010-11-02** · Talk · SlideShare (PrivateWave Italia) — [Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryption AGT)](https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072)  
   Slides by Fabio Pietrosanti, CTO PrivateWave (PrivateGSM, ZRTP); date from upload
@@ -1588,6 +1596,8 @@ Anni senza nessun risultato: nessuno
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2010-09-10** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Remotely intercepting snom VoIP phones](https://web.archive.org/web/2012/http://infosecurity.ch/20100910/remotely-intercepting-snom-voip-phones/)  
   Post on his personal blog (site offline; Wayback copy)
+- 🆕 **2010-09-04** · panel · End Summer Camp 2010 (ESC10), Forte Bazzera (Venezia) — [Security Trashcan (session 1017)](https://www.endsummercamp.org/index.php?title=ESC10-Schedule)  
+  ESC10-Schedule, 'Saturday September 4th', code 1017, 00.00-01.00, 'Security Trashcan', Speaker: 'ascii, malveo, astharot, naif'.
 - 🆕 **2010-09-01** · Slide · SlideShare — [Voice securityprotocol review](https://www.slideshare.net/slideshow/voice-securityprotocol-review/5106055)  
   Review of voice encryption protocols (ZRTP, SDES, etc.); uploaded 2010-09-01
 - 🆕 **2010-08-26** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Voice communication security workshop](https://web.archive.org/web/2012/http://infosecurity.ch/20100826/voice-communication-security-workshop/)  
@@ -1681,7 +1691,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2010** · Altro · SlideShare profile fpietrosanti — [Fabio Pietrosanti presentations (13 decks)](https://www.slideshare.net/fpietrosanti)  
   Profile from PrivateWave/Khamsa era
 
-## 2009 — 42 voci, 40 nuove
+## 2009 — 44 voci, 42 nuove
 
 - 🆕 **2009-12-21** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Index of economic freedom](https://web.archive.org/web/2012/http://infosecurity.ch/20091221/index-of-economic-freedom/)  
   Post on his personal blog (site offline; Wayback copy)
@@ -1701,6 +1711,10 @@ Anni senza nessun risultato: nessuno
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2009-11-07** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Political conflict in Turkey between Prosecutors and Wiretappers](https://web.archive.org/web/2012/http://infosecurity.ch/20091107/political-conflict-in-turkey-between-prosecutors-and-wiretappers/)  
   Post on his personal blog (site offline; Wayback copy)
+- 🆕 **2009-09** · Video · End Summer Camp 2009 (ESC09), Forte Bazzera (Venezia) — [Ghost Track "Stasera si recita a soggetto" by naif&etc. (ESC09 materials)](https://www.endsummercamp.org/index.php?title=ESC09-Materiali)  
+  ESC09-Materiali, Video section: '* Ghost Track "Stasera si recita a soggetto" by naif&etc.' (no link). An earlier revision (2009-09-01..10) read 'richiesta: video naif :)'.
+- 🆕 **2009-08-29** · Altro · End Summer Camp 2009 (ESC09), Forte Bazzera (Venezia) — [Hacker Jeopardy by malveo+naif (da confermare)](https://www.endsummercamp.org/index.php?title=ESC09-Programma)  
+  ESC09-Programma, section 'Sabato 29 Agosto': '01.00 - 03.00 : Hacker Jeopardy by malveo+naif (da confermare)'. Marked tentative; never confirmed on the page.
 - 🆕 **2009-08-13** · village · HAR2009 (Hacking at Random, Vierhouten NL) — [HAR-microemb - Italian micro-embassy at HAR2009 (endsummercamp.org wiki)](https://www.endsummercamp.org/index.php?title=HAR-microemb)  
   Planning/report page of the Italian micro-embassy at HAR2009; lists 'naif + vodka + luz' (flight from Milan, arrival 13/08)
 - 🆕 **2009-08-06** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Conventionality is not morality.](https://web.archive.org/web/2012/http://infosecurity.ch/20090806/conventionality-is-not-morality/)  
@@ -1768,8 +1782,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2009** · Libro · R. Chiesa, S. Ducci, S. Ciappi, Profiling Hackers (CRC Press, 2009) - second IA copy — [Profiling hackers: the science of criminal profiling as applied to the world of hacking](https://archive.org/details/profili_chi_2009_00_8384)  
   IA FTS snippet: 'Alessandro Scartezzini, Antonis Anagnostopoulos, Fabio "Naif" Pietrosanti, Marco Tracina, Vittorio Pasteris...' (acknowledgements). Duplicate copy of known item profilinghackers0000chie.
 
-## 2008 — 8 voci, 8 nuove
+## 2008 — 13 voci, 13 nuove
 
+- 🆕 **2008-12-19** · Menzionato · mgpf.it (Matteo Flora blog) — [Stasera 19/12 a Milano, ore 19 in Corso Como!](https://mgpf.it/2008/12/19/stasera-1912-a-milano-ore-19-in-corso-como.html)  
+  Quoted announcement: 'Un incontro informale sul tema della privacy online con alcuni tra i maggiori esperti italiani: Claudio Agosti, Matteo Flora, Fabio Pietrosanti.' This is an event not listed in media.json. Read via WP REST (post 3394) on 2026-10-08.
 - 🆕 **2008-12-15** · Capitolo di libro · Shake Edizioni (collana Cyberpunkline) — [Il software libero in Italia, a cura di Andrea Glorioso - contributo di Fabio 'naif' Pietrosanti (sicurezza)](https://shake.it/libri/il-software-libero-in-italia/)  
   Publisher page lists 'Fabio naif Pietrosanti' among contributors; ISBN 9788888865768, 158-160 pp.; IBS and LibreriaUniversitaria give publication date 15 Dec 2008 - improves existing (placeholder year 2006/2004)
 - 🆕 **2008-12-11** · Libro · CRC Press (Auerbach) - R. Chiesa, S. Ducci, S. Ciappi — [Profiling Hackers: The Science of Criminal Profiling as Applied to the World of Hacking (Google Books edition)](https://books.google.com/books?id=y2Amp_OwrPMC)  
@@ -1784,37 +1800,73 @@ Anni senza nessun risultato: nessuno
   Matteo Flora's post 'OSXCrypt sul Punto Informatico' (05.02.2008, https://mgpf.it/2008/02/05/osxcrypt-sul-punto-informatico.html) dates the PI review naming Flora, Pietrosanti, Bassotto; improves existing (date only)
 - 🆕 **2008-02-05** · Brevetto · Ufficio Italiano Brevetti e Marchi (Italian patent application ITRM20060425A1, filed 2006-08-04), assignee Khamsa Italia S.r.l. — [Techniques of safe management multi identity for centralized messaging services](https://patents.google.com/patent/ITRM20060425A1/en)  
   PATENT (not a paper; type set to report for lack of a patent type). Inventors: Lorenzo Boccaccia, Federico Moro, Fabio Pietrosanti; assignee Khamsa Italia S.r.l. (the company later PrivateWave). Priority/filing 2006-08-04, published 2008-02-05. Google Patents page read (inventor list). Title as shown (English machine translation) on Google Patents; original Italian title not seen.
+- 🆕 **2008-02-05** · Brevetto · Ufficio Italiano Brevetti e Marchi - Italian application ITRM20060426A1 (filed 2006-08-04), assignee Khamsa Italia S.r.l. — [Method for non-repudiable recording of a digital transmission of information and for the identification of communication participants (ITRM20060426A1)](https://patents.google.com/patent/ITRM20060426A1/en)  
+  Google Patents page read 2026-10-08: inventors 'Lorenzo Boccaccia', 'Federico Moro', 'Fabio Pietrosanti'; assignee 'Khamsa Italia S R L'; priority/filing 2006-08-04; publication 2008-02-05. It is the Italian priority application (ITRM20060426) of the known WO2008015723/EP2057777 - same family, distinct publication not in media.json (the known Italian one is ITRM20060425A1). Parent may merge it into the WO2008015723 entry.
+- 🆕 **2008-01-28** · software · OSXCrypt.org (project website, Web Archive) — [Staff - OSXCrypt.org (Truecrypt for MAC)](https://web.archive.org/web/20080128135401/http://www.osxcrypt.org:80/staff/)  
+  Verbatim: "We are now 3 people (in strictly alphabetical order): Orlando Bassotto (nextie) - The Hacker and the Developer . Matteo Flora (lk) - Starter of the project . Fabio Pietrosanti (naif) - Starter of the project ." Verified by downloading the Web Archive capture 20080128135401 (id_ raw) on 2026-10-08. Official project page of OSXCrypt (distinct from the known Full-Disclosure post). The SourceForge project page (capture 20080212) lists only the admin account 'osxcrypt', no name.
+- 🆕 **2008-01-24** · Menzionato · mgpf.it (Matteo Flora blog) — [Italians Do It Better: Truecrypt su MAC grazie a OsxCrypt](https://mgpf.it/2008/01/24/italians-do-it-better-truecrypt-su-mac-grazie-a-osxcrypt.html)  
+  Launch post for the OSXCrypt alpha: 'anni e anni passati io e Naif a chiedere al team di sviluppo di TrueCrypt di uscire con una versione MAC' ... 'Grazie Fabio, grazie Orlando.' media.json has only the later post of 2008-02-05 (via the PI Download entry). Read live and via WP REST (post 3205) on 2026-10-08.
+- 🆕 **2008-01-23** · software · OSXCrypt.org (project blog, Web Archive) — [This is not a scam: Real Truecrypt for MacOs is here!](https://web.archive.org/web/20080127141237/http://www.osxcrypt.org:80/2008/01/23/this-is-not-a-scam-real-truecrypt-for-macos-is-here/)  
+  Verbatim: "thanks to the Staff (being Orlando Bassotto, Matteo Flora and Fabio Pietrosanti) now you can play with it." Project-blog original of the announcement whose Full-Disclosure copy (seclists 2008/Jan/467) is already known; capture 20080127141237 read 2026-10-08. Parent may prefer to merge it into the known FD item.
 - 🆕 **2008-01-23** · Ricerca · OSXCrypt / Full Disclosure — [THIS IS NOT A SCAM: REAL TRUECRYPT FOR MACOS IS HERE!](https://seclists.org/fulldisclosure/2008/Jan/467)  
   OSXCrypt open-source release (Orlando Bassotto, Matteo Flora, Fabio Pietrosanti)
 
-## 2007 — 5 voci, 4 nuove
+## 2007 — 13 voci, 10 nuove
 
 - 🆕 **2007-10-04** · Menzionato · mgpf.it (Matteo Flora blog) — [Wardriving a Milano - WarBiking nella metropoli](https://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli.html)  
   Warbiking survey of Milan explicitly builds on the 2002 Portel city survey by Yvette Agostini and Fabio Pietrosanti
+- 🆕 **2007-09-25** · Menzionato · mgpf.it (Matteo Flora blog, formerly lastknight.com) — [Di tante tante cose…](https://mgpf.it/2007/09/25/di-tante-tante-cose.html)  
+  '...la presentazione del corso di 32 ore di Pragmatic Security: Attack e Defense che terrò a sei mani con lei [Yvette Agostini] e Fabio Pietrosanti.' (presentation on 27 Sept 2007, Via Varanini, Milano). Read via WP REST (post 3178) on 2026-10-08.
+- 🆕 **2007-09-15** · Altro · End Summer Camp 2007 (ESC07), San Donà di Piave (Venezia) — [Hacker Jeopardy (session 715)](https://www.endsummercamp.org/index.php?title=ESC07-Programma)  
+  ESC07-Programma, 'Sabato 15 settembre (Software Freedom Day 2007)', night block 'Talks, Ghost-Talks & Other Fun', code 715, 01.00-04.00: 'Hacker Jeopardy CONFERMATO.' Relatore: 'zen && naif && vecna'. Present since the revision of 2007-09-15.
 - 🆕 **2007-08-08** · village · Chaos Communication Camp 2007 (Finowfurt) — [Italia - Italian Embassy village (CCC Camp 2007 wiki)](https://events.ccc.de/camp/2007/Italia/index.html)  
   First Italian Embassy village at a CCC camp; 'naif' listed among Citizens ('Non mancherei mai al camp estivo del ccc')
+- 🆕 **2007-04-30** · Menzionato · mgpf.it (Matteo Flora blog, formerly lastknight.com) — [Ritorno da Perugia e nuovo progetto](https://mgpf.it/2007/04/30/ritorno-da-perugia-e-nuovo-progetto.html)  
+  'Tornato stasera da Perugia, dove sono stato per la [conferenza] ... promossa da AIP e tenuta con Fabio Pietrosanti a darmi manforte'. It says the conference was professionally filmed and a DVD exists, to be uploaded later (no video URL found). Read via WP REST (post 3155) on 2026-10-08.
+- 🆕 **2007-04-27** · Menzionato · mgpf.it (Matteo Flora blog, formerly lastknight.com) — [Sabato 28 Aprile ad Orvieto si parla di Privacy](https://mgpf.it/2007/04/27/sabato-28-aprile-ad-orvieto-si-parla-di-privacy.html)  
+  'Sabato 28 Aprile sarò infatti ad Orvieto con l'amico Fabio Pietrosanti a presentare un intervento dal titolo "Privacy e Sicurezza: Errori, orrori ed implementazioni"' (on DPS and the minimum security measures of Annex B, Legislative Decree 196/2003). This is an event not listed in media.json. Read via WP REST (post 3154) on 2026-10-08. The follow-up post of 2007-04-30 places the conference in Perugia and says AIP promoted it: the venue is unclear.
+- ↺ **2007-02-20** · Menzionato · mgpf.it (Matteo Flora blog, formerly lastknight.com) — [InfoSecurity2007](https://mgpf.it/2007/02/20/infosecurity2007.html)  
+  '...e in "Voice Privacy and Insecurity", presentazione flash assieme ad Alessio Pennasilico, Fabio Pietrosanti e Marco Misitano.' The post links the slides as http://www.lastknight.com/conference/i07%20-%20Flora%20Misitano%20Pennasilico%20Pietrosanti%20-%20Voice%20Privacy%20Security.pdf (not opened). The talk itself is already in media.json via SlideShare; this blog post is a separate source. Read via WP REST (post 3136) on 2026-10-08.
 - 🆕 **2007-02-10** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Uno sguardo a…](https://web.archive.org/web/2012/http://infosecurity.ch/20070210/uno-sguardo-a/)  
   Post on his personal blog (site offline; Wayback copy)
+- 🆕 **2007-02-09** · Menzionato · mgpf.it (Matteo Flora blog, formerly lastknight.com) — [Grazie mille!](https://mgpf.it/2007/02/09/grazie-mille.html)  
+  Thank-you post after Flora's Infosecurity 2007 talk (Sikurezza.org space): '* Naif, Marco Calamari, Stefano Zanero, per la compagnia :)'. Read via mgpf.it WordPress REST API (post id 3132) on 2026-10-08. Blog post, not press.
+- 🆕 **2007-02-08** · Menzionato · minotti.net (blog of lawyer Daniele Minotti) — [Infosecurity e decreto Gentiloni](https://www.minotti.net/2007/02/08/infosecurity-e-decreto-gentiloni/)  
+  Post body (not a comment): 'Invitato da Assintel per uno speech, ho incontrato anche un po' di gente di Sikurezza.org: Calamari, Zanero, Matteo Flora e, last but not least, Naif'. Found via the site's WordPress REST search (query 'Pietrosanti' matches the post); page read on 2026-10-08. Blog post, not press; only the nick appears in the body, identified by the Sikurezza.org context.
+- ↺ **2007-02-06** · Talk · Infosecurity Italia 2007, Milano - Area Demo gestita da Sikurezza.org con Progetto Winston Smith — [Voice Security & Privacy (martedì 6, ore 12.30) - held by Flora, Misitano, Pennasilico, Pietrosanti](https://web.archive.org/web/20070226125358/http://www.sikurezza.org/wiki/Risorse/Infosecurity07)  
+  Sikurezza.org Infosecurity07 page (Wayback 2007-02-26): 'Sikurezza.org, con la consueta collaborazione del Progetto Winston Smith, ha gestito l'Area Demo all'interno di Infosecurity (6-8 febbraio 2007, Milano) ... martedì 6 ... 12.30 Voice Security & Privacy (Rodolfo Rosini) Causa indisponibilità del relatore l'intervento è stato tenuto da Matteo Flora, Marco Misitano, Alessio Pennasilico e Fabio Pietrosanti » i07_Flora_Misitano_Pennasilico_Pietrosanti-Voice_Privacy_Security.pdf'. Programme page for the known SlideShare 1669302 'flash talk'. The attachment PDF itself has no Wayback capture.
 - ↺ **2007-02-06** · Slide · SlideShare (Infosecurity Italy 2007) — [2007: Infosecurity Italy: Voice Privacy Security (flash talk)](https://www.slideshare.net/slideshow/infosec-07-voice-privacy-security-flash-talk/1669302)  
   Flash talk on voice privacy
 - 🆕 **2007** · Libro · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ)  
   2026-09-23: confermato dai ringraziamenti («"Naif" Pietrosanti»), verificati sulla copia Internet Archive del volume.
 
-## 2006 — 5 voci, 2 nuove
+## 2006 — 9 voci, 3 nuove
 
-- ↺ **2006-11** · Ricerca · Secunia — [Parallels Desktop for Mac insecure file permissions (SA22634)](https://secunia.com/advisories/22634/) _(non verificato)_  
-  Linked from his site; now redirects to Flexera, credit not confirmable
+- ↺ **2006-11-06** · Ricerca · Secunia (Web Archive capture 2007-04-29) — [Parallels Desktop for Mac Insecure File Permissions (SA22634)](https://secunia.com/advisories/22634/)  
+  KNOWN item - verification upgrade. Verbatim from capture https://web.archive.org/web/20070429132253/http://secunia.com:80/advisories/22634 : "Fabio Pietrosanti has reported a security issue with unknown impact in Parallels Desktop for Mac." ... "Provided and/or discovered by : Fabio Pietrosanti"; Release Date 2006-11-06, CVE reference CVE-2006-5817. The known entry is marked verified:false ('credit not confirmable'): it can now be set verified:true with archive_url = the capture above.
 - ↺ **2006-10-27** · Ricerca · Full-Disclosure — [parallels Desktop file permission notice](https://seclists.org/fulldisclosure/2006/Oct/581)  
   Insecure file permissions in Parallels Desktop for Mac; MARC: https://marc.info/?l=full-disclosure&m=116196531422830&w=2
-- ↺ **2006-10-20** · Talk · Hack.lu 2006, Luxembourg — [Exploiting hidden services to setup anonymous communication infrastructure](https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208)  
-  Slides (dated 21 Oct 2006) on Tor hidden services
-- 🆕 **2006-02-08** · Slide · SlideShare (Infosecurity Italy 2006) — [2006: Infosecurity Italy: Tecnologie di Firma Digitale e Tutela della Riservatezza](https://www.slideshare.net/slideshow/infosecurity-06-tecnologie-di-firma-digitale-e-tutela-della-riservatezza/1669276)  
+- ↺ **2006-10-21** · Talk · Hack.lu 2006, Luxembourg — [Exploiting hidden services to setup anonymous communication infrastructure - official agenda (Saturday 21.10.2006, 14:00)](https://web.archive.org/web/20061104182610/http://hack.lu/index.php/Agenda)  
+  Official hack.lu 2006 agenda wiki (Wayback 2006-11-04, page last modified 20 Oct 2006): two-column table 'Friday 20.10.2006 | Saturday 21.10.2006' ... '14:00 Bluetooth Hacking revisited Thierry Zoller & Kevin Finistere | 14:00 Exploiting hidden services to setup anonymous communication infrastructure Fabio Pietrosanti'. Column order (Opening Speech Deraison = Friday, Venema = Saturday) puts his talk on Saturday 21 Oct 2006; media.json has 2006-10-20.
+- ↺ **2006-10-21** · Menzionato · Hack.lu 2006, Luxembourg - speakers list — [Hack.lu 2006 speakers: Fabio Pietrosanti - abstract and biography](https://web.archive.org/web/20061103134031/http://www.hack.lu:80/index.php/List)  
+  Hack.lu 2006 'List' page (Wayback 2006-11-03), entry 6 'Fabio Pietrosanti': 'Exploiting hidden services to setup anonymous communication infrastructure: Will be introduced the concepts of anonymous VPN ... with a focus on TOR hidden services ...'. Bio: 'Member of s0ftpj group ... co-organizer of sikurezza.org ... was founder of Italian Blackhats Association ... Teached to the Security Task Force of the Italian National Center of Research ( CNR ) and to the students of Economic University of Castellanza. Is currently working as CTO of KHAMSA SA, a swiss company ...'.
+- ↺ **2006-10-21** · Altro · s0ftpr0ject (s0ftpj.org) - Digital Security docs — [s0ftpj.org docs: hosts 'Exploiting hidden services...' (hack.lu 2006), 'PGP Luci ed ombre' (2005) and 'wireless (in)security: (in)sicurezza dell'802.11' (Webbit 2004, with vodka) by naif](https://s0ftpj.org/en/docs.html)  
+  Verbatim entries: "Exploiting hidden services to setup anonymous communication infrastructure (pdf slides) by naif (21 October 2006)"; "PGP Luci ed ombre ... by naif (28 May 2005)"; "wireless (in)security: (in)sicurezza dell'802.11 (pdf and ppt slides) by naif and vodka (07 May 2004)". Linked files as listed on the page: ../docs/hacklu2006_anonymous_communication.pdf, ../docs/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf/.ogg, ../docs/webbit04_wifi.pdf/.ppt. Live page read 2026-10-08. Italian technical community (s0ftpj/BFi) archiving his 2004-2006 work.
+- ↺ **2006-10-20** · Menzionato · Hack.lu 2006 (official wiki, Speakers page, Web Archive) — [Hack.lu 2006 Speakers: 'Exploiting hidden services to setup anonymous communication infrastructure - Fabio Pietrosanti'](https://web.archive.org/web/20061104181744/http://hack.lu:80/index.php/Speakers)  
+  Verbatim: "Exploiting hidden services to setup anonymous communication infrastructure Fabio Pietrosanti" (listed between Sandip Chaudhari and Yen-Ming Chen). Capture 20061104181744 read 2026-10-08. Official programme confirmation of the known SlideShare deck (archive.hack.lu/2006/ slide directory has no file of his).
+- 🆕 **2006-02-10** · Talk · Infosecurity Italia 2006, Milano (Fiera) - Area Demo Sikurezza.org — [Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialità (Venerdì 10, ore 10:00)](https://web.archive.org/web/20060219061042/http://www.sikurezza.org/wiki/Risorse/Infosecurity06)  
+  Sikurezza.org Infosecurity06 page (Wayback 2006-02-19): 'abbiamo partecipato ad Infosecurity 2006 (8-10 Febbraio, Milano) ... Venerdì 10 Ore 10:00 Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialità - Fabio Pietrosanti ( naif ) ... » Firma_Digitale_Riservatezza.ppt'. Programme page for the known SlideShare deck 1669276, which media.json dates 2006-02-08. That date belongs to the separate LRA event in his own list; the Infosecurity session was Friday 10 Feb 2006.
+- 🆕 **2006-02-10** · Slide · SlideShare (Infosecurity Italy 2006) — [2006: Infosecurity Italy: Tecnologie di Firma Digitale e Tutela della Riservatezza](https://www.slideshare.net/slideshow/infosecurity-06-tecnologie-di-firma-digitale-e-tutela-della-riservatezza/1669276)  
   Digital signature technologies and confidentiality
 - 🆕 **2006** · Libro · Shake Edizioni — [Il software libero in Italia (a cura di Andrea Glorioso) - contributo di Fabio "naif" Pietrosanti](http://www.shake.it/index.php?id=51&productID=541)  
   Security chapter; publisher page confirms him as a contributor but doesn't show the publication year (ISBN 9788888865768) - check the year
 
-## 2005 — 6 voci, 5 nuove
+## 2005 — 8 voci, 5 nuove
 
+- ↺ **2005-10** · Talk · SMAU 2005, Milano - eAcademy, area sicurezza curata da Sikurezza.org — [SMAU 2005 (eAcademy Sikurezza.org, Milano): pgp luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo (SMAU 2005 eAcademy)](https://web.archive.org/web/20060218020713/http://www.sikurezza.org:80/wiki/Risorse/Smau05)  
+  Sikurezza.org resources page for SMAU 2005 (Wayback 2006-02-18): 'Il formato di webb.it è stato acquisito da Smau ed i seminari sono stati tenuti nello spazio eAcademy ... Sikurezza.org ha curato la selezione dei seminari ... a Smau 2005' and the entry 'pgp luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo - Fabio Pietrosanti ... » PGP_luci_e_ombre.ppt'. A repeat of the e-privacy 2005 talk at a different event (SMAU, Oct 2005), not recorded so far. Exact day not given (slide file last saved 21 Oct 2005; SMAU 2005 ran 20-24 Oct).
+- ↺ **2005-10** · Slide · SMAU 2005 eAcademy (sikurezza.org wiki attachment) — [PGP luci e ombre - SMAU 2005 E-Academy version (PGP_luci_e_ombre.ppt)](https://web.archive.org/web/20060507182713/http://www.sikurezza.org/wiki/Risorse/Smau05?action=download&upname=PGP_luci_e_ombre.ppt)  
+  PPT downloaded from the Wayback capture (513 KB). File metadata: title 'PGP luci e ombre. Storia e evoluzione dello strumento per la privacy piu' usato al mondo', last saved 21 Oct 2005; slide footers 'Fabio Pietrosanti (naif) / naif@sikurezza.org' and 'E-Accademy - http://www.smau.it'. Different file from the e-privacy 2005 PPT on urna.winstonsmith.org.
 - ↺ **2005-05-28** · Talk · e-privacy IV (2005), Firenze, Palazzo Vecchio - Progetto Winston Smith — [PGP luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo](https://e-privacy.winstonsmith.org/e-privacy-IV.html)  
   Programme: '10:15 11:15 PGP luci e ombre ... Fabio Pietrosanti'; abstract signed 'Fabio Pietrosanti - Softpj.org'. BBA Italia 2005 ceremony held at the same conference (no role for him found).
 - 🆕 **2005-05-28** · Slide · e-privacy IV (2005), Firenze, Palazzo Vecchio - Progetto Winston Smith — [PGP luci e ombre (atti, PDF)](https://urna.winstonsmith.org/materiali/2005/atti/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf)  
@@ -1828,12 +1880,32 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2005-05-28** · Slide · Internet Archive (PWS e-privacy archive) — [PGP luci e ombre (IA item: pdf, ppt, ogg)](https://archive.org/details/pws_e-privacy_2005_2m02_pietrosanti_pgp-luci-e-ombre-storia-e-evoluzione-dello-strumento)  
   IA metadata creator 'Fabio Pietrosanti'; files Ep2005_PGP_luci_e_ombre_Pietrosanti.{ogg,pdf,ppt}
 
-## 2004 — 2 voci, 2 nuove
+## 2004 — 12 voci, 11 nuove
 
+- 🆕 **2004-06-04** · Talk · Webbit 04 Milano - area sicurezza Sikurezza.org — [La percezione della sicurezza informatica (seminario 4090, Sala Rossa 1) - with MP3 recording](https://web.archive.org/web/20041220192449/http://www.webb.it:80/event/eventview/4090/)  
+  Official Webbit event page (Wayback 2004-12-20): 'La percezione della sicurezza informatica (4090) Sikurezza.org Relatore: Fabio Pietrosanti  Audio mp3: 9.06 MB ... Seminari Milano 04 ... Allegati : 2004.06.04.percezione_della_sicurezza.pdf'. Audio /mp3/4090.mp3 not archived. Date from the slides ('Webbit04 Milano 4 Giugno 2004').
+- 🆕 **2004-06-04** · Slide · Webbit 04 Milano (webb.it file manager) — [Sicurezza informatica: la percezione e la realtà - slides (15 pp.)](https://web.archive.org/web/20041022145932/http://www.webb.it:80/filemanager/download/2083/)  
+  PDF downloaded from the Wayback capture (152 KB, 15 pages). Title page: 'Sicurezza informatica: la percezione e la realtà - Fabio (naif) Pietrosanti - fabio@pietrosanti.it - Sikurezza.org, Italian Security Mailing lists - Webbit04 Milano - 4 Giugno 2004'. Attachment of events 3684/4090. No SlideShare copy known.
+- 🆕 **2004-06-03** · Talk · Webbit 04 Milano - area sicurezza Sikurezza.org — [La sicurezza delle reti wireless (parte 1) (seminario 3504, Sala Rossa 1) - with MP3 recording](https://web.archive.org/web/20041209225400/http://www.webb.it:80/event/eventview/3504/)  
+  Official Webbit event page (Wayback 2004-12-09): 'La sicurezza delle reti wireless (parte 1) (3504) Sikurezza.org Relatore: Yvette Agostini , Fabio Pietrosanti  Audio mp3: 19.96 MB ... Seminari Milano 04 ... Sala: Rossa 1 ... Allegati : wireless_webbit.pdf 2.46MB'. Audio linked as /mp3/3504.mp3 (via /icy/gen-playlist), not archived in Wayback. Date from the attached slides ('Webbit 04 - 3 Giugno 2004'). This Milan edition of Webbit 04 was not known so far.
+- 🆕 **2004-06-03** · Talk · Webbit 04 Milano - area sicurezza Sikurezza.org — [La sicurezza delle reti wireless (parte 2) (seminario 3502, Sala Rossa 1) - with MP3 recording](https://web.archive.org/web/20041210002332/http://www.webb.it:80/event/eventview/3502/)  
+  Official Webbit event page (Wayback 2004-12-10): 'La sicurezza delle reti wireless (parte 2) (3502) Sikurezza.org Relatore: Yvette Agostini , Fabio Pietrosanti  Audio mp3: 19.96 MB ... Seminari Milano 04'. Audio /mp3/3502.mp3 not archived. Date inferred from the shared slide deck (3 June 2004).
+- ↺ **2004-06-03** · Slide · Webbit 04 Milano (webb.it file manager) — [Wireless (in)security: (in)sicurezza dell'802.11 - slides (wireless_webbit.pdf, 126 pp.)](https://web.archive.org/web/20041022145437/http://www.webb.it:80/filemanager/download/2228/)  
+  PDF downloaded from the Wayback capture (2.2 MB, 126 pages). Title page: 'Wireless (in)security: (in)sicurezza dell'802.11 - Fabio (naif) Pietrosanti - Yvette (vodka) Agostini ... Sikurezza.org ... Webbit 04 - 3 Giugno 2004'. Attachment of events 3502/3504. Distinct file from the known SlideShare 1669209 (Padova).
 - 🆕 **2004-05-07** · Talk · Webbit 04, Padova — [2004: Webbit Padova 04: Wireless (in)security](https://www.slideshare.net/slideshow/webbit-04-wireless-insecurity/1669209)  
   802.11/WEP insecurity (slides)
+- 🆕 **2004-05** · Talk · Webbit 04 Padova (Padova Fiere) - area sicurezza Sikurezza.org — [La sicurezza delle reti wireless 1 (seminario 3503, Sala 9A)](https://web.archive.org/web/20041210002559/http://www.webb.it:80/event/eventview/3503/)  
+  Official Webbit event page (Wayback 2004-12-10): 'La sicurezza delle reti wireless 1 (3503) Sikurezza.org Relatore: Fabio Pietrosanti , Yvette Agostini ... Categoria : Seminari Padova 04 Area: A08 Sicurezza e business continuity ... Sala: 9A'. No day on the page; Webbit Padova 2004 was early May 2004 (sibling Sikurezza.org slides dated 'Padova, 7 maggio 2004'). Same talk as the known SlideShare deck 1669209; the event page itself is new.
+- 🆕 **2004-05** · Talk · Webbit 04 Padova (Padova Fiere) - area sicurezza Sikurezza.org — [La sicurezza delle reti wireless 2 (seminario 3501, Sala 9A)](https://web.archive.org/web/20041209231948/http://www.webb.it:80/event/eventview/3501/)  
+  Official Webbit event page (Wayback 2004-12-09): 'La sicurezza delle reti wireless 2 (3501) Sikurezza.org Relatore: Fabio Pietrosanti , Yvette Agostini ... Seminari Padova 04 ... Sala: 9A ... Approfondimenti.' Second (advanced) half of the Padova wireless seminar.
+- 🆕 **2004-05** · Talk · Webbit 04 Padova (Padova Fiere) - area sicurezza Sikurezza.org — [La percezione della sicurezza informatica (seminario 3684, Sala 7A)](https://web.archive.org/web/20041220193103/http://www.webb.it:80/event/eventview/3684/)  
+  Official Webbit event page (Wayback 2004-12-20): 'La percezione della sicurezza informatica (3684) Sikurezza.org Relatore: Fabio Pietrosanti ... Seminari Padova 04 ... Sala: 7A ... Cosa succede davvero in internet? La percezione che abbiamo delle minacce in rete è corretta?'. Not in his self-reported talk list (new talk title).
 - 🆕 **2004-05** · Talk · Webbit 04, Padova — [2004: Webbit Padova 04: Presentazione Sikurezza.Org](https://www.slideshare.net/slideshow/webbit-04-presentazione-sikurezzaorg/1669242)  
   Presentation of the sikurezza.org community and mailing lists; missing from the known list
+- 🆕 **2004** · Menzionato · webb.it - Webbit relatori indipendenti (speaker profile) — [Pietrosanti Fabio - Webbit speaker profile (6 seminars, Padova 04 + Milano 04)](https://web.archive.org/web/20041217202958/http://www.webb.it:80/article/articleview/918/1/fabio+pietrosanti)  
+  Webbit speaker page (Wayback 2004-12-17): 'Fabio Pietrosanti si interessa di sicurezza informatica dal 1997, professionalmente dal 1999. Collabora con alcune riviste di settore ed è impegnato nella diffusione della cultura della sicurezza informatica...', then 'Seminari Padova 04 (3)': 3503, 3501, 3684 and 'Seminari Milano 04 (3)': 3504, 3502, 4090.
+- 🆕 **2004** · Altro · webb.it - Associazioni e U.G. — [Relatori indipendenti area sicurezza (Webbit 2004) - coordinator](https://web.archive.org/web/20041225100556/http://www.webb.it:80/article/articleview/520/1/relatori+indipendenti+area+sicurezza)  
+  Webbit page (Wayback 2004-12-25): 'In questa area vengono riassunti tutti gli interventi dell'area sicurezza tenuti da relatori indipendenti ... Coordinatori: Yvette 'vodka' Agostini Fabio 'naif' Pietrosanti Relatori: Yvette 'vodka' Agostini Fabio 'naif' Pietrosanti Claudio 'vecna' Agosti Orlando 'nextile' Bassotto Raoul 'nobody' Chiesa ...'.
 
 ## 2003 — 7 voci, 6 nuove
 
@@ -1852,7 +1924,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2003-01** · Articolo scritto · Win Magazine n.48 (Edizioni Master), gennaio 2003 — [Caccia alle reti wireless - Lo sviluppo delle reti Wi-Fi cresce giorno dopo giorno, ma emergono nuovi problemi di sicurezza (di Fabio Pietrosanti e Yvette Agostini)](https://archive.org/details/win-magazine-italia-48)  
   Co-authored with Yvette Agostini, bylined as members of the Italian Blackhats association; verified in IA OCR text
 
-## 2002 — 13 voci, 7 nuove
+## 2002 — 14 voci, 7 nuove
 
 - 🆕 **2002-10-24** · Menzionato · Hacker Journal n.11 (24 ottobre-7 novembre 2002) — [News: reti wireless aperte - indagine sul campo a Milano da Naif e Vodka per conto di Portel; Etica hacker a SMAU02](https://archive.org/details/hackerjournal-11)  
   Reports the Portel wardriving survey by Naif and Vodka (18 access points in one hour, 12 without WEP) and the ITBH Ethical Hackers' Speech at SMAU 2002; pages dated 16-10-2002
@@ -1862,6 +1934,8 @@ Anni senza nessun risultato: nessuno
   Profile box on Italian Black Hats members: 'Naif, cioe' Fabio Pietrosanti, ha 22 anni...' alongside Raistlin/Stefano Zanero; published in the 'Vivere Milano' section alongside the wardriving inquiry; full-page OCR also at https://archive.org/details/lastampa_2002-10-09 (name OCR'd 'Pietrasanti')
 - ↺ **2002-10-09** · Citato · La Stampa - Vivere Milano (9 ottobre 2002, p. 3) — [Nelle strade di Milano a caccia di reti da violare (inchiesta sul wardriving, di Alessandro Calderoni)](http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,3/articleid,0306_01_2002_0276_0074_2761192/)  
   Journalist tours Milan by car with Raistlin, Naif and Vodka (Italian Black Hats) to test wireless networks; Naif quoted ('L'hacker e' un curioso, innanzitutto...'); verified via IA OCR https://archive.org/details/lastampa_2002-10-09
+- ↺ **2002-10** · Altro · sikurezza.org wiki - Risorse/Itbh (Italian Black Hats speeches archive) — [ITBH Ethical Hacker's Speech (SMAU 2002) resources page: Wireless (in)security - Fabio Pietrosanti ('naif') (pdf)](https://web.archive.org/web/20060428044642/http://www.sikurezza.org:80/wiki/Risorse/Itbh)  
+  Outside 2004-2008 but a new URL: sikurezza.org page (Wayback 2006-04-28) lists 'Wireless (in)security - Fabio Pietrosanti ('naif') ( pdf )' among the ITBH speeches. Same talk as the known SlideShare 1669215 (SMAU ITBH 2002). Add only if an archive page for it is wanted.
 - ↺ **2002-10** · Talk · SMAU 2002 - Italian Blackhats Ethical Hacker's Speech — [2002: SMAU ITBH: Wireless (in)security](https://www.slideshare.net/slideshow/smau-itbh-wireless-insecurity/1669215)  
   Slides including the war-walking survey at SMAU 2002 (80 wireless networks found); missing from the known list
 - 🆕 **2002-07-05** · Talk · Sikurezza.org @ Webb.it 02, Padova Fiere — [Presentazione sikurezza.org (Fabio Pietrosanti 'naif', Stefano Venturoli)](https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html)  

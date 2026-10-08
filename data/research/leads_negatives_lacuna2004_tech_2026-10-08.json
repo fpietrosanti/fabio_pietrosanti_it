@@ -1,0 +1,92 @@
+[
+  {
+    "lead": "Swiss commercial register: Khamsa SA (CHE-112.357.308, Chiasso; registered 13.05.2005; FUSC publications 20.05.2005, 18.07.2008, 2009-2019)",
+    "url": "https://ti.chregister.ch/cr-portal/auszug/zefix.xhtml?uid=CHE-112.357.308&lang=it&shabdatum=20190628",
+    "result": "negative",
+    "reason": "Full extract incl. deleted entries (read in the built-in browser 2026-10-08): persons ever registered = Camponovo Stefano, Consolida SA, Moro Federico, Rochat Jean-Philippe, Saviotti Franco, Bucciarelli Antonio, Solca Francesco, Donada Remo, Galli Antonio. Fabio Pietrosanti never appears, so SHAB/FOSC entries will not name him. Zefix REST search 'khamsa' gives only this firm and an unrelated Khamsa SA (La Chaux-de-Fonds)."
+  },
+  {
+    "lead": "khamsa.ch company website 2006-2009 (home, company, contatti, website/ v2.0beta)",
+    "url": "https://web.archive.org/web/20090430055139/http://www.khamsa.ch:80/company.html",
+    "result": "negative",
+    "reason": "Organisation-only pages (Politecnico di Milano Acceleratore d'Impresa, USI CPStartup, Philip Zimmermann in the scientific board); no 'Pietrosanti'/'naif'."
+  },
+  {
+    "lead": "privategsm.com 2008 product site",
+    "url": "https://web.archive.org/web/20081207073459/http://privategsm.com:80/privategsm/",
+    "result": "negative",
+    "reason": "Product page cites Zimmermann/ZRTP only; no name."
+  },
+  {
+    "lead": "SourceForge osxcrypt project page 2008; fundable.com group action for OSXCrypt funding (2007-10)",
+    "url": "https://web.archive.org/web/20080212193537/http://sourceforge.net:80/projects/osxcrypt/",
+    "result": "negative",
+    "reason": "SourceForge: admin 'osxcrypt', 1 developer, registered 2007-11-29, no personal name. Fundable page (capture 20071028) has no name."
+  },
+  {
+    "lead": "OSXCrypt 2008 coverage: jotbe.io, andreabeggi.net, smux.net, blog.infusiontechsolutions.com, mgpf.it 'OSXCrypt sul Punto Informatico', 'La sicurezza non esiste', 'Di nuovo hackerato', 'Sul Punto Informatico le mie tre vulnerabilita'",
+    "url": "https://andreabeggi.net/2008/01/27/truecrypt-su-mac-grazie-a-osxcrypt/",
+    "result": "negative",
+    "reason": "Pages read 2026-10-08: none contains 'Pietrosanti' or 'naif'. Freshmeat/MacUpdate: no OSXCrypt captures in Web Archive CDX."
+  },
+  {
+    "lead": "Other Bugtraq/Full-Disclosure advisories 2004-2008 (marc.info author index, all aliases of Fabio Pietrosanti/naif)",
+    "url": "https://marc.info/?l=bugtraq&w=2&r=1&s=Pietrosanti&q=a",
+    "result": "negative",
+    "reason": "All 2004-2008 messages under his aliases are mailing-list posts (kolab-devel, horde, kroupware, cyrus-devel, postfix-users, xen-devel, linux-kernel, serdev, asterisk-security, dovecot, full-disclosure threads). The only advisory is the known Parallels one (2006-10-27). No SecurityFocus BID/OSVDB/X-Force entry with his name found; exploit-intel.com author page returns 403."
+  },
+  {
+    "lead": "Notiziario Tecnico Telecom Italia 2004-2008",
+    "url": "https://www.gruppotim.it/content/dam/gt/notiziario-tecnico/pdf/Notiziario-Tecnico-TIM-2006-n1.pdf",
+    "result": "negative",
+    "reason": "13 issues downloaded and full-text searched (2004 n1-n2, 2005 n1-n2, 2006-2008 n1-n3; 2004 n3 and 2005 n3 return 404): no 'Pietrosanti', 'naif' or 'sikurezza'."
+  },
+  {
+    "lead": "BFi / s0ftpj 2004-2008 (BFi13-dev, BFi14-dev files)",
+    "url": "https://www.s0ftpj.org/bfi/",
+    "result": "negative",
+    "reason": "All BFi13/BFi14 dev files downloaded and grepped: no 'Pietrosanti'/'naif'. No full BFi13/14 issue exists. The s0ftpj docs page IS positive (reported)."
+  },
+  {
+    "lead": "sikurezza.org wiki pages Infosecurity06rm, Infosecurity06vr, Infosecurity08, Webbit04, Eventi; homepages 2004-2008",
+    "url": "https://web.archive.org/web/2008/http://www.sikurezza.org/wiki/Risorse/Infosecurity08",
+    "result": "negative",
+    "reason": "No 'Pietrosanti'/'naif' (Infosecurity06, Infosecurity07, Smau05 pages are positive; Itbh page covers 2002 events)."
+  },
+  {
+    "lead": "fabio.pietrosanti.it 2005-2006 'Pubblicazioni e Convegni' / 'Reference' / 'Competence' pages",
+    "url": "https://web.archive.org/web/20061018014917/http://fabio.pietrosanti.it:80/media-it.shtml",
+    "result": "negative",
+    "reason": "'Pagina in costruzione' / 'Work in Progress' in all 2005-2006 captures. index-en 2006 lists generic venues (Centro Alti Studi Lotta al Terrorismo, Cattaneo Castellanza University, IBM, Clusit, Infosecurity, Webbit) - not resolved by search."
+  },
+  {
+    "lead": "CLUSIT newsletters 2005-2008 (search engine matched newsletter_30_04_08.pdf and newsletter_31_05_08.pdf for 'Pietrosanti')",
+    "url": "https://clusit.it/wp-content/uploads/newsletter/newsletter_30_04_08.pdf",
+    "result": "blocked",
+    "reason": "clusit.it serves a 'Robot Challenge Screen' (HTTP 202/403 from laptop, server and browser); not bypassed per rules; no Web Archive copy. OPEN LEAD for a manual check by Fabio in his own browser."
+  },
+  {
+    "lead": "Award: LinkedIn CV 'Winner of innovation competition at Startup Incubator of Polytechnic of Milan and Swiss University of Lugano'",
+    "url": "",
+    "result": "unresolved",
+    "reason": "Searches on Start Cup Milano Lombardia 2005/2006, Premio Nazionale Innovazione, CPStartup USI found no Khamsa/Pietrosanti mention; Avvenire names Khamsa among the PoliMi Acceleratore successes without his name."
+  },
+  {
+    "lead": "Academic citations 2004-2010 (OpenAlex 2004-2011, Crossref, Google Books feeds for Pietrosanti + naif/Khamsa/OSXCrypt/PrivateGSM/sikurezza/wireless/Fastweb/PGP/Tor/Webbit, IA full-text, Semantic Scholar)",
+    "url": "https://api.openalex.org/works?search=Pietrosanti&filter=publication_year:2004-2011",
+    "result": "negative",
+    "reason": "Only homonyms (plant physiology, steel engineering) in 2004-2011; all IA full-text hits for 'Fabio Pietrosanti' are already in media.json or post-2011; Semantic Scholar author search 0 results (paper search 429). RFC 6189 (ZRTP) acknowledgments do not name him."
+  },
+  {
+    "lead": "e-privacy V-VII (2006-2008) programmes; ICT Security Day 2007 Lanciano (unite.it PDF); PrivateGSM/Khamsa press 2009-2010 (telefonino.net, key4biz, CorCom)",
+    "url": "https://www.unite.it/UniTE/Engine/RAServeFile.php/f/news/ictsecurity_061007.pdf",
+    "result": "negative",
+    "reason": "No name in any (PrivateGSM/Khamsa articles are 2009-2010 and organisation-only)."
+  },
+  {
+    "lead": "Computer Idea n.278 (2010-12-22, Internet Archive item computer-idea-278) - IA full-text hit for 'PrivateGSM'",
+    "url": "https://archive.org/details/computer-idea-278",
+    "result": "unverified",
+    "reason": "Outside the 2004-2008 scope; djvu text download failed; not checked for his name. Lead for the 2009-2011 passes."
+  }
+]

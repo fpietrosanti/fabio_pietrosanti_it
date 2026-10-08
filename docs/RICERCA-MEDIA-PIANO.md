@@ -337,6 +337,44 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   (403 dal laptop: altre puntate Codice Beta/Rai Radio), Facebook/Instagram (altri promo Codice: serve il Chrome loggato),
   livestream Fund Longevity Roma 08/04/2026 (YouTube 4CHvbryuUb4, segmento Roma 17:23-17:25, da guardare), quotidiani
   a pagamento (Corriere, Repubblica, Il Foglio, Messaggero Latina).
+- [x] **Lacuna 2004–2008 — passata 2026-10-08** (solo ~26 voci in 5 anni; 3 agenti: `pass4_lacuna2004_{talks,press,tech}`,
+  negativi in `data/research/leads_negatives_lacuna2004_*_2026-10-08.json`) → **+28 voci verificate** (+1 CVE esclusa: il record non lo nomina).
+  - **Talk ed eventi**: **Webbit 04** a Padova (maggio) **e Milano (3-4/06/2004)**, 6 seminari (sicurezza wireless 1 e 2
+    con Yvette Agostini, «La percezione della sicurezza informatica», titolo assente dal suo elenco), scheda relatore,
+    pagina «relatori indipendenti area sicurezza» (coordinatore), **2 PDF delle slide** dal Web Archive (wireless,
+    126 pp.; «la percezione e la realtà»); **SMAU 2005** eAcademy Sikurezza.org («PGP luci e ombre», evento distinto da
+    e-privacy 2005, PPT archiviato); **Infosecurity 2006** (firma digitale ven. 10/02 ore 10; sostituto di Igor Falcomatà
+    con Pennasilico sull'hardening PHP del 09/02); **Infosecurity 2007** «Voice Security & Privacy» (06/02, con Flora,
+    Misitano, Pennasilico); **hack.lu 2006** agenda + pagina relatori con biografia (KHAMSA SA, docenze CNR e Castellanza);
+    pagina Sikurezza.org «ITBH» (SMAU 2002).
+  - **Tecnico**: sito **OSXCrypt** dal Web Archive (pagina Staff «Fabio Pietrosanti (naif) - Starter of the project» e il
+    post originale «This is not a scam»), brevetto **ITRM20060426A1** (priorità italiana di WO2008015723), s0ftpj.org
+    docs (slide «by naif»); CVE-2006-5817 (dal suo advisory Parallels, ma il record NVD non lo nomina → non verificata).
+  - **Blog**: 7 post di Matteo Flora (mgpf.it 2007-2008: Infosecurity 2007, talk AIP del 28/04/2007 Orvieto/Perugia,
+    corso «Pragmatic Security» set. 2007, annuncio OSXCrypt 24/01/2008, Aperitivo Informatico Milano 19/12/2008) e
+    minotti.net 08/02/2007.
+  - **Negativi solidi**: Punto Informatico 2004-08 (full-text), **Zeus News** (~6.700 articoli 2003-08), Internet Archive
+    (2.209 occorrenze «Pietrosanti» + scansione OCR di Hacker Journal, PC Professionale, Win Magazine, Computer Idea, Linux
+    Magazine, PCWorld Italia, Internet News 2003-09: solo i 3 già noti), Repubblica, Corriere, Clusit newsletter 2004-08
+    (56), MOCA 2004, Hackmeeting 2004/05/07/08, hack.lu 2005/07/08, registro di commercio svizzero (Khamsa SA: mai nel
+    CdA), Notiziario Tecnico Telecom Italia (13 numeri), OSXCrypt stampa estera, scandalo Telecom 2006 (mai nominato).
+    Il suo `curriculum.shtml` nel Web Archive è fermo al 2003; la pagina «media» 2005-06 era «in costruzione».
+  - **Bug corretto** in `merge_media.py`: le pagine MediaWiki `index.php?title=…` e gli allegati MoinMoin `?upname=…`
+    collassavano in una sola voce → **recuperate 9 voci End Summer Camp 2007-2015** già trovate il 18/09 (Hacker
+    Jeopardy ESC07 ecc.). Data di SlideShare 1669276 corretta al 10/02/2006.
+  **Resta:** archivi a pagamento o non ricercabili (Sole 24 Ore/Nova, La Stampa 2006-08, Messaggero, Panorama, Espresso,
+  Computerworld/ZDNet Italia); riviste ICT Security e Wireless (nessun numero online); apparizioni TV citate nel suo CV
+  (TG2, TG3, Studio Aperto, Neapolis); MP3 Webbit 04 Milano e PDF Infosecurity 2007 mai archiviati; newsletter Clusit
+  apr–mag 2008 (controllo anti-robot: **non aggirato**); premio «innovation competition» del CV; sedi del 2006 (Centro
+  Alti Studi Lotta al Terrorismo, Castellanza, IBM). Hackmeeting 2006 e CCC 24C3/25C3 non ricontrollati.
+## Note sessione 2026-10-08 (run programmata «ricerca profonda»)
+- **969 voci** in `data/media.json` (+37: 28 della lacuna 2004–2008 + 9 ESC recuperate dal bug di deduplica; 3 ESC senza nome escluse).
+- **Scelta della voce:** Chrome di Fabio ancora «not connected» al primo comando (piattaforme cinesi ferme); lavorata la
+  lacuna 2004–2008 proposta ieri.
+- **Permessi:** su richiesta di Fabio impostato `defaultMode: bypassPermissions` globale (nessuna richiesta di conferma).
+- **Prossima voce lavorabile:** lacuna **2011–2016** (21-34 voci/anno, periodo PrivateWave/GlobaLeaks: talk
+  internazionali, stampa estera) oppure «Video/audio — ritagliare i convegni non Radio Radicale».
+
 ## Note sessione 2026-10-07 (run programmata «ricerca profonda»)
 - **921 voci** in `data/media.json` (+14, vedi «Lacuna 2023–2026» sopra).
 - **Scelta della voce:** le prime voci aperte restano bloccate — Chrome di Fabio «not connected» anche oggi (Douyin,

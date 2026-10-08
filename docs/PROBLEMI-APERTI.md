@@ -1,8 +1,22 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-10-07**. Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-10-08** (969 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
+
+## A0-quater. Domande nuove (2026-10-08, lacuna 2004–2008)
+1. **Talk del 28/04/2007 con Matteo Flora** («Privacy e Sicurezza: errori, orrori ed implementazioni», promosso da AIP):
+   un post di Flora dice **Orvieto**, quello del ritorno dice **Perugia**. Dove fu? Il post dice che fu filmato: hai il video?
+2. **Premio nel CV** («Winner of innovation competition at Startup Incubator of Polytechnic of Milan and Swiss University
+   of Lugano»): quale concorso e in che anno? Nessuna traccia online (Start Cup, Premio Nazionale Innovazione, incubatore
+   di Lugano).
+3. **TV citate nel tuo CV** (TG2, TG3, Studio Aperto, Neapolis): ricordi anni o argomenti? Senza date non sono ricercabili
+   negli archivi Rai/Mediaset.
+4. **Newsletter Clusit aprile–maggio 2008**: un motore le associa al tuo nome, ma clusit.it mostra un controllo anti-robot
+   (non aggirato). Puoi aprirle tu dal tuo browser, oppure va bene leggerle dal Chrome quando torna connesso?
+5. **Sedi 2006** elencate sulla tua vecchia homepage (Centro Alti Studi per la Lotta al Terrorismo, Università di
+   Castellanza, IBM, Clusit): ricordi titoli/date di quegli interventi?
+6. **Registrazioni Webbit 04 Milano** (3 MP3) e **PDF Infosecurity 2007**: mai archiviati. Li hai in qualche backup?
 
 ## A0-ter. Risposte di Fabio del 2026-10-07 (applicate)
 1. **Garante privacy di San Marino** («Dott. Fabio Pietrosanti», comitato tecnico di esperti): **sei tu** → voce confermata
@@ -145,6 +159,20 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-duodecies. 2026-10-08
+- Copie delle voci nuove (lacuna 2004–2008 + ESC recuperate): **tutte ottenute**, quasi tutte dal Web Archive (webb.it
+  2004, sikurezza.org, hack.lu 2006, osxcrypt.org 2008, mgpf.it, minotti.net), brevetto ITRM20060426A1 dal live.
+- **Risolte a mano 2 «non confermate»**: Sikurezza.org Infosecurity07 — lo script aveva preso la capture del 02/02/2007
+  (prima dell'evento); sostituita con quella del 26/02/2007 indicata nell'URL (allegato «…Pennasilico_Pietrosanti-Voice_
+  Privacy_Security.pdf»). ESC09-Materiali — sostituita con la capture 26/12/2010 («Ghost Track … by naif&etc.»).
+  **Miglioria da fare** in `archive_copies.py`: quando l'URL è già una capture `web.archive.org/web/<ts>/…`, usare
+  esattamente quel timestamp invece della capture più vicina trovata da sé.
+- **Chiuse per decisione (regola «senza nome»)**: ESC11-Seminari («Random Globaleaks developer»), ESC14-Seminari
+  (relatore «Hermes»), ESC16-Contenuti («Synnick»), CVE-2006-5817 (NVD non nomina l'autore dell'advisory).
+- Retry dei falliti e nuovi tentativi creativi (CDX del Web Archive con filtri su radiomontecarlo.net, coinage.it,
+  notizieoggi.com): **nessuna capture esiste**. Restano ❌ con motivo invariato: Radio Monte Carlo 2010, PrivateWave EN/ES,
+  deck Foggia (410), coinage.it, 2 notizieoggi.com; CyberCoach solo pagina; 🟠 Sogou anti-bot.
 
 ### B0-undecies. 2026-10-07
 - Copie delle 14 voci nuove **tutte ottenute**: reel Facebook di Codice (27/06/2025, 14 s) scaricato con yt-dlp (solo

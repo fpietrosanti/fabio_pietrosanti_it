@@ -1050,6 +1050,23 @@
  {
   "date": "2002-10",
   "year": 2002,
+  "type": "other",
+  "outlet": "sikurezza.org wiki - Risorse/Itbh (Italian Black Hats speeches archive)",
+  "title": "ITBH Ethical Hacker's Speech (SMAU 2002) resources page: Wireless (in)security - Fabio Pietrosanti ('naif') (pdf)",
+  "url": "https://web.archive.org/web/20060428044642/http://www.sikurezza.org:80/wiki/Risorse/Itbh",
+  "language": "it",
+  "role": "speaker",
+  "note": "Outside 2004-2008 but a new URL: sikurezza.org page (Wayback 2006-04-28) lists 'Wireless (in)security - Fabio Pietrosanti ('naif') ( pdf )' among the ITBH speeches. Same talk as the known SlideShare 1669215 (SMAU ITBH 2002). Add only if an archive page for it is wanted.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2002-10",
+  "year": 2002,
   "type": "talk",
   "outlet": "SMAU 2002 - Italian Blackhats Ethical Hacker's Speech",
   "title": "2002: SMAU ITBH: Wireless (in)security",
@@ -1255,6 +1272,91 @@
   "on_old_site": false
  },
  {
+  "date": "2004",
+  "year": 2004,
+  "type": "mentioned",
+  "outlet": "webb.it - Webbit relatori indipendenti (speaker profile)",
+  "title": "Pietrosanti Fabio - Webbit speaker profile (6 seminars, Padova 04 + Milano 04)",
+  "url": "https://web.archive.org/web/20041217202958/http://www.webb.it:80/article/articleview/918/1/fabio+pietrosanti",
+  "language": "it",
+  "role": "speaker profile",
+  "note": "Webbit speaker page (Wayback 2004-12-17): 'Fabio Pietrosanti si interessa di sicurezza informatica dal 1997, professionalmente dal 1999. Collabora con alcune riviste di settore ed è impegnato nella diffusione della cultura della sicurezza informatica...', then 'Seminari Padova 04 (3)': 3503, 3501, 3684 and 'Seminari Milano 04 (3)': 3504, 3502, 4090.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2004",
+  "year": 2004,
+  "type": "other",
+  "outlet": "webb.it - Associazioni e U.G.",
+  "title": "Relatori indipendenti area sicurezza (Webbit 2004) - coordinator",
+  "url": "https://web.archive.org/web/20041225100556/http://www.webb.it:80/article/articleview/520/1/relatori+indipendenti+area+sicurezza",
+  "language": "it",
+  "role": "coordinator of the independent security speakers area",
+  "note": "Webbit page (Wayback 2004-12-25): 'In questa area vengono riassunti tutti gli interventi dell'area sicurezza tenuti da relatori indipendenti ... Coordinatori: Yvette 'vodka' Agostini Fabio 'naif' Pietrosanti Relatori: Yvette 'vodka' Agostini Fabio 'naif' Pietrosanti Claudio 'vecna' Agosti Orlando 'nextile' Bassotto Raoul 'nobody' Chiesa ...'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2004-05",
+  "year": 2004,
+  "type": "talk",
+  "outlet": "Webbit 04 Padova (Padova Fiere) - area sicurezza Sikurezza.org",
+  "title": "La sicurezza delle reti wireless 1 (seminario 3503, Sala 9A)",
+  "url": "https://web.archive.org/web/20041210002559/http://www.webb.it:80/event/eventview/3503/",
+  "language": "it",
+  "role": "speaker (with Yvette Agostini)",
+  "note": "Official Webbit event page (Wayback 2004-12-10): 'La sicurezza delle reti wireless 1 (3503) Sikurezza.org Relatore: Fabio Pietrosanti , Yvette Agostini ... Categoria : Seminari Padova 04 Area: A08 Sicurezza e business continuity ... Sala: 9A'. No day on the page; Webbit Padova 2004 was early May 2004 (sibling Sikurezza.org slides dated 'Padova, 7 maggio 2004'). Same talk as the known SlideShare deck 1669209; the event page itself is new.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2004-05",
+  "year": 2004,
+  "type": "talk",
+  "outlet": "Webbit 04 Padova (Padova Fiere) - area sicurezza Sikurezza.org",
+  "title": "La sicurezza delle reti wireless 2 (seminario 3501, Sala 9A)",
+  "url": "https://web.archive.org/web/20041209231948/http://www.webb.it:80/event/eventview/3501/",
+  "language": "it",
+  "role": "speaker (with Yvette Agostini)",
+  "note": "Official Webbit event page (Wayback 2004-12-09): 'La sicurezza delle reti wireless 2 (3501) Sikurezza.org Relatore: Fabio Pietrosanti , Yvette Agostini ... Seminari Padova 04 ... Sala: 9A ... Approfondimenti.' Second (advanced) half of the Padova wireless seminar.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2004-05",
+  "year": 2004,
+  "type": "talk",
+  "outlet": "Webbit 04 Padova (Padova Fiere) - area sicurezza Sikurezza.org",
+  "title": "La percezione della sicurezza informatica (seminario 3684, Sala 7A)",
+  "url": "https://web.archive.org/web/20041220193103/http://www.webb.it:80/event/eventview/3684/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Official Webbit event page (Wayback 2004-12-20): 'La percezione della sicurezza informatica (3684) Sikurezza.org Relatore: Fabio Pietrosanti ... Seminari Padova 04 ... Sala: 7A ... Cosa succede davvero in internet? La percezione che abbiamo delle minacce in rete è corretta?'. Not in his self-reported talk list (new talk title).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2004-05",
   "year": 2004,
   "type": "talk",
@@ -1287,6 +1389,91 @@
   "_slices": [
    "slice1_1995_2006",
    "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2004-06-03",
+  "year": 2004,
+  "type": "talk",
+  "outlet": "Webbit 04 Milano - area sicurezza Sikurezza.org",
+  "title": "La sicurezza delle reti wireless (parte 1) (seminario 3504, Sala Rossa 1) - with MP3 recording",
+  "url": "https://web.archive.org/web/20041209225400/http://www.webb.it:80/event/eventview/3504/",
+  "language": "it",
+  "role": "speaker (with Yvette Agostini)",
+  "note": "Official Webbit event page (Wayback 2004-12-09): 'La sicurezza delle reti wireless (parte 1) (3504) Sikurezza.org Relatore: Yvette Agostini , Fabio Pietrosanti  Audio mp3: 19.96 MB ... Seminari Milano 04 ... Sala: Rossa 1 ... Allegati : wireless_webbit.pdf 2.46MB'. Audio linked as /mp3/3504.mp3 (via /icy/gen-playlist), not archived in Wayback. Date from the attached slides ('Webbit 04 - 3 Giugno 2004'). This Milan edition of Webbit 04 was not known so far.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2004-06-03",
+  "year": 2004,
+  "type": "talk",
+  "outlet": "Webbit 04 Milano - area sicurezza Sikurezza.org",
+  "title": "La sicurezza delle reti wireless (parte 2) (seminario 3502, Sala Rossa 1) - with MP3 recording",
+  "url": "https://web.archive.org/web/20041210002332/http://www.webb.it:80/event/eventview/3502/",
+  "language": "it",
+  "role": "speaker (with Yvette Agostini)",
+  "note": "Official Webbit event page (Wayback 2004-12-10): 'La sicurezza delle reti wireless (parte 2) (3502) Sikurezza.org Relatore: Yvette Agostini , Fabio Pietrosanti  Audio mp3: 19.96 MB ... Seminari Milano 04'. Audio /mp3/3502.mp3 not archived. Date inferred from the shared slide deck (3 June 2004).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2004-06-03",
+  "year": 2004,
+  "type": "slides",
+  "outlet": "Webbit 04 Milano (webb.it file manager)",
+  "title": "Wireless (in)security: (in)sicurezza dell'802.11 - slides (wireless_webbit.pdf, 126 pp.)",
+  "url": "https://web.archive.org/web/20041022145437/http://www.webb.it:80/filemanager/download/2228/",
+  "language": "it",
+  "role": "author (with Yvette Agostini)",
+  "note": "PDF downloaded from the Wayback capture (2.2 MB, 126 pages). Title page: 'Wireless (in)security: (in)sicurezza dell'802.11 - Fabio (naif) Pietrosanti - Yvette (vodka) Agostini ... Sikurezza.org ... Webbit 04 - 3 Giugno 2004'. Attachment of events 3502/3504. Distinct file from the known SlideShare 1669209 (Padova).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2004-06-04",
+  "year": 2004,
+  "type": "talk",
+  "outlet": "Webbit 04 Milano - area sicurezza Sikurezza.org",
+  "title": "La percezione della sicurezza informatica (seminario 4090, Sala Rossa 1) - with MP3 recording",
+  "url": "https://web.archive.org/web/20041220192449/http://www.webb.it:80/event/eventview/4090/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Official Webbit event page (Wayback 2004-12-20): 'La percezione della sicurezza informatica (4090) Sikurezza.org Relatore: Fabio Pietrosanti  Audio mp3: 9.06 MB ... Seminari Milano 04 ... Allegati : 2004.06.04.percezione_della_sicurezza.pdf'. Audio /mp3/4090.mp3 not archived. Date from the slides ('Webbit04 Milano 4 Giugno 2004').",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2004-06-04",
+  "year": 2004,
+  "type": "slides",
+  "outlet": "Webbit 04 Milano (webb.it file manager)",
+  "title": "Sicurezza informatica: la percezione e la realtà - slides (15 pp.)",
+  "url": "https://web.archive.org/web/20041022145932/http://www.webb.it:80/filemanager/download/2083/",
+  "language": "it",
+  "role": "author",
+  "note": "PDF downloaded from the Wayback capture (152 KB, 15 pages). Title page: 'Sicurezza informatica: la percezione e la realtà - Fabio (naif) Pietrosanti - fabio@pietrosanti.it - Sikurezza.org, Italian Security Mailing lists - Webbit04 Milano - 4 Giugno 2004'. Attachment of events 3684/4090. No SlideShare copy known.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
   ],
   "on_old_site": false
  },
@@ -1401,6 +1588,41 @@
   "on_old_site": false
  },
  {
+  "date": "2005-10",
+  "year": 2005,
+  "type": "talk",
+  "outlet": "SMAU 2005, Milano - eAcademy, area sicurezza curata da Sikurezza.org",
+  "title": "SMAU 2005 (eAcademy Sikurezza.org, Milano): pgp luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo (SMAU 2005 eAcademy)",
+  "url": "https://web.archive.org/web/20060218020713/http://www.sikurezza.org:80/wiki/Risorse/Smau05",
+  "language": "it",
+  "role": "speaker",
+  "note": "Sikurezza.org resources page for SMAU 2005 (Wayback 2006-02-18): 'Il formato di webb.it è stato acquisito da Smau ed i seminari sono stati tenuti nello spazio eAcademy ... Sikurezza.org ha curato la selezione dei seminari ... a Smau 2005' and the entry 'pgp luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo - Fabio Pietrosanti ... » PGP_luci_e_ombre.ppt'. A repeat of the e-privacy 2005 talk at a different event (SMAU, Oct 2005), not recorded so far. Exact day not given (slide file last saved 21 Oct 2005; SMAU 2005 ran 20-24 Oct).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08",
+   "pass4_lacuna2004_tech_2026-10-08"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2005-10",
+  "year": 2005,
+  "type": "slides",
+  "outlet": "SMAU 2005 eAcademy (sikurezza.org wiki attachment)",
+  "title": "PGP luci e ombre - SMAU 2005 E-Academy version (PGP_luci_e_ombre.ppt)",
+  "url": "https://web.archive.org/web/20060507182713/http://www.sikurezza.org/wiki/Risorse/Smau05?action=download&upname=PGP_luci_e_ombre.ppt",
+  "language": "it",
+  "role": "author",
+  "note": "PPT downloaded from the Wayback capture (513 KB). File metadata: title 'PGP luci e ombre. Storia e evoluzione dello strumento per la privacy piu' usato al mondo', last saved 21 Oct 2005; slide footers 'Fabio Pietrosanti (naif) / naif@sikurezza.org' and 'E-Accademy - http://www.smau.it'. Different file from the e-privacy 2005 PPT on urna.winstonsmith.org.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": true
+ },
+ {
   "date": "2006",
   "year": 2006,
   "type": "book",
@@ -1422,7 +1644,24 @@
   "on_old_site": false
  },
  {
-  "date": "2006-02-08",
+  "date": "2006-02-10",
+  "year": 2006,
+  "type": "talk",
+  "outlet": "Infosecurity Italia 2006, Milano (Fiera) - Area Demo Sikurezza.org",
+  "title": "Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialità (Venerdì 10, ore 10:00)",
+  "url": "https://web.archive.org/web/20060219061042/http://www.sikurezza.org/wiki/Risorse/Infosecurity06",
+  "language": "it",
+  "role": "speaker",
+  "note": "Sikurezza.org Infosecurity06 page (Wayback 2006-02-19): 'abbiamo partecipato ad Infosecurity 2006 (8-10 Febbraio, Milano) ... Venerdì 10 Ore 10:00 Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialità - Fabio Pietrosanti ( naif ) ... » Firma_Digitale_Riservatezza.ppt'. Programme page for the known SlideShare deck 1669276, which media.json dates 2006-02-08. That date belongs to the separate LRA event in his own list; the Infosecurity session was Friday 10 Feb 2006.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2006-02-10",
   "year": 2006,
   "type": "slides",
   "outlet": "SlideShare (Infosecurity Italy 2006)",
@@ -1437,23 +1676,77 @@
    "slice1_1995_2006",
    "slice6_media_archives"
   ],
+  "note_date": "2026-10-08: data corretta al 10/02/2006 dalla pagina Sikurezza.org Infosecurity06 (Venerdi 10, ore 10:00); l'8/02 era l'evento LRA separato.",
   "on_old_site": false
  },
  {
   "date": "2006-10-20",
   "year": 2006,
-  "type": "talk",
-  "outlet": "Hack.lu 2006, Luxembourg",
-  "title": "Exploiting hidden services to setup anonymous communication infrastructure",
-  "url": "https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208",
+  "type": "mentioned",
+  "outlet": "Hack.lu 2006 (official wiki, Speakers page, Web Archive)",
+  "title": "Hack.lu 2006 Speakers: 'Exploiting hidden services to setup anonymous communication infrastructure - Fabio Pietrosanti'",
+  "url": "https://web.archive.org/web/20061104181744/http://hack.lu:80/index.php/Speakers",
   "language": "en",
   "role": "speaker",
-  "note": "Slides (dated 21 Oct 2006) on Tor hidden services",
+  "note": "Verbatim: \"Exploiting hidden services to setup anonymous communication infrastructure Fabio Pietrosanti\" (listed between Sandip Chaudhari and Yen-Ming Chen). Capture 20061104181744 read 2026-10-08. Official programme confirmation of the known SlideShare deck (archive.hack.lu/2006/ slide directory has no file of his).",
   "verified": true,
-  "known": true,
+  "known": false,
   "_slices": [
-   "slice1_1995_2006",
-   "slice6_media_archives"
+   "pass4_lacuna2004_tech_2026-10-08"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2006-10-21",
+  "year": 2006,
+  "type": "talk",
+  "outlet": "Hack.lu 2006, Luxembourg",
+  "title": "Exploiting hidden services to setup anonymous communication infrastructure - official agenda (Saturday 21.10.2006, 14:00)",
+  "url": "https://web.archive.org/web/20061104182610/http://hack.lu/index.php/Agenda",
+  "language": "en",
+  "role": "speaker",
+  "note": "Official hack.lu 2006 agenda wiki (Wayback 2006-11-04, page last modified 20 Oct 2006): two-column table 'Friday 20.10.2006 | Saturday 21.10.2006' ... '14:00 Bluetooth Hacking revisited Thierry Zoller & Kevin Finistere | 14:00 Exploiting hidden services to setup anonymous communication infrastructure Fabio Pietrosanti'. Column order (Opening Speech Deraison = Friday, Venema = Saturday) puts his talk on Saturday 21 Oct 2006; media.json has 2006-10-20.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "mirrors": [
+   "https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2006-10-21",
+  "year": 2006,
+  "type": "mentioned",
+  "outlet": "Hack.lu 2006, Luxembourg - speakers list",
+  "title": "Hack.lu 2006 speakers: Fabio Pietrosanti - abstract and biography",
+  "url": "https://web.archive.org/web/20061103134031/http://www.hack.lu:80/index.php/List",
+  "language": "en",
+  "role": "speaker (abstract + bio)",
+  "note": "Hack.lu 2006 'List' page (Wayback 2006-11-03), entry 6 'Fabio Pietrosanti': 'Exploiting hidden services to setup anonymous communication infrastructure: Will be introduced the concepts of anonymous VPN ... with a focus on TOR hidden services ...'. Bio: 'Member of s0ftpj group ... co-organizer of sikurezza.org ... was founder of Italian Blackhats Association ... Teached to the Security Task Force of the Italian National Center of Research ( CNR ) and to the students of Economic University of Castellanza. Is currently working as CTO of KHAMSA SA, a swiss company ...'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2006-10-21",
+  "year": 2006,
+  "type": "other",
+  "outlet": "s0ftpr0ject (s0ftpj.org) - Digital Security docs",
+  "title": "s0ftpj.org docs: hosts 'Exploiting hidden services...' (hack.lu 2006), 'PGP Luci ed ombre' (2005) and 'wireless (in)security: (in)sicurezza dell'802.11' (Webbit 2004, with vodka) by naif",
+  "url": "https://s0ftpj.org/en/docs.html",
+  "language": "en",
+  "role": "author (as naif)",
+  "note": "Verbatim entries: \"Exploiting hidden services to setup anonymous communication infrastructure (pdf slides) by naif (21 October 2006)\"; \"PGP Luci ed ombre ... by naif (28 May 2005)\"; \"wireless (in)security: (in)sicurezza dell'802.11 (pdf and ppt slides) by naif and vodka (07 May 2004)\". Linked files as listed on the page: ../docs/hacklu2006_anonymous_communication.pdf, ../docs/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf/.ogg, ../docs/webbit04_wifi.pdf/.ppt. Live page read 2026-10-08. Italian technical community (s0ftpj/BFi) archiving his 2004-2006 work.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_tech_2026-10-08"
   ],
   "on_old_site": true
  },
@@ -1475,18 +1768,19 @@
   "on_old_site": true
  },
  {
-  "date": "2006-11",
+  "date": "2006-11-06",
   "year": 2006,
   "type": "research",
-  "outlet": "Secunia",
-  "title": "Parallels Desktop for Mac insecure file permissions (SA22634)",
+  "outlet": "Secunia (Web Archive capture 2007-04-29)",
+  "title": "Parallels Desktop for Mac Insecure File Permissions (SA22634)",
   "url": "https://secunia.com/advisories/22634/",
   "language": "en",
-  "role": "author",
-  "note": "Linked from his site; now redirects to Flexera, credit not confirmable",
-  "verified": false,
+  "role": "discoverer / reporter",
+  "note": "KNOWN item - verification upgrade. Verbatim from capture https://web.archive.org/web/20070429132253/http://secunia.com:80/advisories/22634 : \"Fabio Pietrosanti has reported a security issue with unknown impact in Parallels Desktop for Mac.\" ... \"Provided and/or discovered by : Fabio Pietrosanti\"; Release Date 2006-11-06, CVE reference CVE-2006-5817. The known entry is marked verified:false ('credit not confirmable'): it can now be set verified:true with archive_url = the capture above.",
+  "verified": true,
   "known": true,
   "_slices": [
+   "pass4_lacuna2004_tech_2026-10-08",
    "slice1_1995_2006"
   ],
   "on_old_site": true
@@ -1517,6 +1811,23 @@
  {
   "date": "2007-02-06",
   "year": 2007,
+  "type": "talk",
+  "outlet": "Infosecurity Italia 2007, Milano - Area Demo gestita da Sikurezza.org con Progetto Winston Smith",
+  "title": "Voice Security & Privacy (martedì 6, ore 12.30) - held by Flora, Misitano, Pennasilico, Pietrosanti",
+  "url": "https://web.archive.org/web/20070226125358/http://www.sikurezza.org/wiki/Risorse/Infosecurity07",
+  "language": "it",
+  "role": "co-speaker (substitute for Rodolfo Rosini)",
+  "note": "Sikurezza.org Infosecurity07 page (Wayback 2007-02-26): 'Sikurezza.org, con la consueta collaborazione del Progetto Winston Smith, ha gestito l'Area Demo all'interno di Infosecurity (6-8 febbraio 2007, Milano) ... martedì 6 ... 12.30 Voice Security & Privacy (Rodolfo Rosini) Causa indisponibilità del relatore l'intervento è stato tenuto da Matteo Flora, Marco Misitano, Alessio Pennasilico e Fabio Pietrosanti » i07_Flora_Misitano_Pennasilico_Pietrosanti-Voice_Privacy_Security.pdf'. Programme page for the known SlideShare 1669302 'flash talk'. The attachment PDF itself has no Wayback capture.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2007-02-06",
+  "year": 2007,
   "type": "slides",
   "outlet": "SlideShare (Infosecurity Italy 2007)",
   "title": "2007: Infosecurity Italy: Voice Privacy Security (flash talk)",
@@ -1531,6 +1842,41 @@
    "slice6_media_archives"
   ],
   "on_old_site": true
+ },
+ {
+  "date": "2007-02-08",
+  "year": 2007,
+  "type": "mentioned",
+  "outlet": "minotti.net (blog of lawyer Daniele Minotti)",
+  "title": "Infosecurity e decreto Gentiloni",
+  "url": "https://www.minotti.net/2007/02/08/infosecurity-e-decreto-gentiloni/",
+  "language": "it",
+  "role": "mentioned (met at Infosecurity Italia 2007 as part of the Sikurezza.org group)",
+  "note": "Post body (not a comment): 'Invitato da Assintel per uno speech, ho incontrato anche un po' di gente di Sikurezza.org: Calamari, Zanero, Matteo Flora e, last but not least, Naif'. Found via the site's WordPress REST search (query 'Pietrosanti' matches the post); page read on 2026-10-08. Blog post, not press; only the nick appears in the body, identified by the Sikurezza.org context.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_press_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2007-02-09",
+  "year": 2007,
+  "type": "mentioned",
+  "outlet": "mgpf.it (Matteo Flora blog, formerly lastknight.com)",
+  "title": "Grazie mille!",
+  "url": "https://mgpf.it/2007/02/09/grazie-mille.html",
+  "language": "it",
+  "role": "mentioned (thanked, Infosecurity Italia 2007)",
+  "note": "Thank-you post after Flora's Infosecurity 2007 talk (Sikurezza.org space): '* Naif, Marco Calamari, Stefano Zanero, per la compagnia :)'. Read via mgpf.it WordPress REST API (post id 3132) on 2026-10-08. Blog post, not press.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_press_2026-10-08",
+   "pass4_lacuna2004_tech_2026-10-08"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2007-02-10",
@@ -1551,6 +1897,60 @@
   "on_old_site": false
  },
  {
+  "date": "2007-02-20",
+  "year": 2007,
+  "type": "mentioned",
+  "outlet": "mgpf.it (Matteo Flora blog, formerly lastknight.com)",
+  "title": "InfoSecurity2007",
+  "url": "https://mgpf.it/2007/02/20/infosecurity2007.html",
+  "language": "it",
+  "role": "co-speaker named (flash talk 'Voice Privacy and Insecurity', Infosecurity Italia 2007)",
+  "note": "'...e in \"Voice Privacy and Insecurity\", presentazione flash assieme ad Alessio Pennasilico, Fabio Pietrosanti e Marco Misitano.' The post links the slides as http://www.lastknight.com/conference/i07%20-%20Flora%20Misitano%20Pennasilico%20Pietrosanti%20-%20Voice%20Privacy%20Security.pdf (not opened). The talk itself is already in media.json via SlideShare; this blog post is a separate source. Read via WP REST (post 3136) on 2026-10-08.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_press_2026-10-08",
+   "pass4_lacuna2004_tech_2026-10-08"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2007-04-27",
+  "year": 2007,
+  "type": "mentioned",
+  "outlet": "mgpf.it (Matteo Flora blog, formerly lastknight.com)",
+  "title": "Sabato 28 Aprile ad Orvieto si parla di Privacy",
+  "url": "https://mgpf.it/2007/04/27/sabato-28-aprile-ad-orvieto-si-parla-di-privacy.html",
+  "language": "it",
+  "role": "co-speaker (talk 'Privacy e Sicurezza: Errori, orrori ed implementazioni', Orvieto, 28 April 2007)",
+  "note": "'Sabato 28 Aprile sarò infatti ad Orvieto con l'amico Fabio Pietrosanti a presentare un intervento dal titolo \"Privacy e Sicurezza: Errori, orrori ed implementazioni\"' (on DPS and the minimum security measures of Annex B, Legislative Decree 196/2003). This is an event not listed in media.json. Read via WP REST (post 3154) on 2026-10-08. The follow-up post of 2007-04-30 places the conference in Perugia and says AIP promoted it: the venue is unclear.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_press_2026-10-08",
+   "pass4_lacuna2004_tech_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2007-04-30",
+  "year": 2007,
+  "type": "mentioned",
+  "outlet": "mgpf.it (Matteo Flora blog, formerly lastknight.com)",
+  "title": "Ritorno da Perugia e nuovo progetto",
+  "url": "https://mgpf.it/2007/04/30/ritorno-da-perugia-e-nuovo-progetto.html",
+  "language": "it",
+  "role": "co-speaker (AIP conference, Umbria, April 2007)",
+  "note": "'Tornato stasera da Perugia, dove sono stato per la [conferenza] ... promossa da AIP e tenuta con Fabio Pietrosanti a darmi manforte'. It says the conference was professionally filmed and a DVD exists, to be uploaded later (no video URL found). Read via WP REST (post 3155) on 2026-10-08.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_press_2026-10-08",
+   "pass4_lacuna2004_tech_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2007-08-08",
   "year": 2007,
   "type": "village",
@@ -1564,6 +1964,41 @@
   "known": false,
   "_slices": [
    "pass4_ccc_camps_congresses_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2007-09-15",
+  "year": 2007,
+  "type": "other",
+  "outlet": "End Summer Camp 2007 (ESC07), San Donà di Piave (Venezia)",
+  "title": "Hacker Jeopardy (session 715)",
+  "url": "https://www.endsummercamp.org/index.php?title=ESC07-Programma",
+  "language": "it",
+  "role": "organiser",
+  "note": "ESC07-Programma, 'Sabato 15 settembre (Software Freedom Day 2007)', night block 'Talks, Ghost-Talks & Other Fun', code 715, 01.00-04.00: 'Hacker Jeopardy CONFERMATO.' Relatore: 'zen && naif && vecna'. Present since the revision of 2007-09-15.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_esc_hackmeeting_securitysummit_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2007-09-25",
+  "year": 2007,
+  "type": "mentioned",
+  "outlet": "mgpf.it (Matteo Flora blog, formerly lastknight.com)",
+  "title": "Di tante tante cose…",
+  "url": "https://mgpf.it/2007/09/25/di-tante-tante-cose.html",
+  "language": "it",
+  "role": "co-teacher (32-hour course 'Pragmatic Security: Attack e Defense', CorsiSoftware, Milano)",
+  "note": "'...la presentazione del corso di 32 ore di Pragmatic Security: Attack e Defense che terrò a sei mani con lei [Yvette Agostini] e Fabio Pietrosanti.' (presentation on 27 Sept 2007, Via Varanini, Milano). Read via WP REST (post 3178) on 2026-10-08.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_press_2026-10-08",
+   "pass4_lacuna2004_tech_2026-10-08"
   ],
   "on_old_site": false
  },
@@ -1587,6 +2022,23 @@
  {
   "date": "2008-01-23",
   "year": 2008,
+  "type": "software",
+  "outlet": "OSXCrypt.org (project blog, Web Archive)",
+  "title": "This is not a scam: Real Truecrypt for MacOs is here!",
+  "url": "https://web.archive.org/web/20080127141237/http://www.osxcrypt.org:80/2008/01/23/this-is-not-a-scam-real-truecrypt-for-macos-is-here/",
+  "language": "en",
+  "role": "co-author / project staff",
+  "note": "Verbatim: \"thanks to the Staff (being Orlando Bassotto, Matteo Flora and Fabio Pietrosanti) now you can play with it.\" Project-blog original of the announcement whose Full-Disclosure copy (seclists 2008/Jan/467) is already known; capture 20080127141237 read 2026-10-08. Parent may prefer to merge it into the known FD item.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_tech_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2008-01-23",
+  "year": 2008,
   "type": "research",
   "outlet": "OSXCrypt / Full Disclosure",
   "title": "THIS IS NOT A SCAM: REAL TRUECRYPT FOR MACOS IS HERE!",
@@ -1598,6 +2050,41 @@
   "known": false,
   "_slices": [
    "slice2_2007_2011"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2008-01-24",
+  "year": 2008,
+  "type": "mentioned",
+  "outlet": "mgpf.it (Matteo Flora blog)",
+  "title": "Italians Do It Better: Truecrypt su MAC grazie a OsxCrypt",
+  "url": "https://mgpf.it/2008/01/24/italians-do-it-better-truecrypt-su-mac-grazie-a-osxcrypt.html",
+  "language": "it",
+  "role": "co-founder of OSXCrypt (subject)",
+  "note": "Launch post for the OSXCrypt alpha: 'anni e anni passati io e Naif a chiedere al team di sviluppo di TrueCrypt di uscire con una versione MAC' ... 'Grazie Fabio, grazie Orlando.' media.json has only the later post of 2008-02-05 (via the PI Download entry). Read live and via WP REST (post 3205) on 2026-10-08.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_press_2026-10-08",
+   "pass4_lacuna2004_tech_2026-10-08"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2008-01-28",
+  "year": 2008,
+  "type": "software",
+  "outlet": "OSXCrypt.org (project website, Web Archive)",
+  "title": "Staff - OSXCrypt.org (Truecrypt for MAC)",
+  "url": "https://web.archive.org/web/20080128135401/http://www.osxcrypt.org:80/staff/",
+  "language": "en",
+  "role": "co-founder (\"Starter of the project\")",
+  "note": "Verbatim: \"We are now 3 people (in strictly alphabetical order): Orlando Bassotto (nextie) - The Hacker and the Developer . Matteo Flora (lk) - Starter of the project . Fabio Pietrosanti (naif) - Starter of the project .\" Verified by downloading the Web Archive capture 20080128135401 (id_ raw) on 2026-10-08. Official project page of OSXCrypt (distinct from the known Full-Disclosure post). The SourceForge project page (capture 20080212) lists only the admin account 'osxcrypt', no name.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_tech_2026-10-08"
   ],
   "on_old_site": false
  },
@@ -1633,6 +2120,23 @@
   "known": false,
   "_slices": [
    "pass2_d_academic"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2008-02-05",
+  "year": 2008,
+  "type": "patent",
+  "outlet": "Ufficio Italiano Brevetti e Marchi - Italian application ITRM20060426A1 (filed 2006-08-04), assignee Khamsa Italia S.r.l.",
+  "title": "Method for non-repudiable recording of a digital transmission of information and for the identification of communication participants (ITRM20060426A1)",
+  "url": "https://patents.google.com/patent/ITRM20060426A1/en",
+  "language": "it",
+  "role": "co-inventor",
+  "note": "Google Patents page read 2026-10-08: inventors 'Lorenzo Boccaccia', 'Federico Moro', 'Fabio Pietrosanti'; assignee 'Khamsa Italia S R L'; priority/filing 2006-08-04; publication 2008-02-05. It is the Italian priority application (ITRM20060426) of the known WO2008015723/EP2057777 - same family, distinct publication not in media.json (the known Italian one is ITRM20060425A1). Parent may merge it into the WO2008015723 entry.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_tech_2026-10-08"
   ],
   "on_old_site": false
  },
@@ -1724,6 +2228,24 @@
   ],
   "tags": [
    "books"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2008-12-19",
+  "year": 2008,
+  "type": "mentioned",
+  "outlet": "mgpf.it (Matteo Flora blog)",
+  "title": "Stasera 19/12 a Milano, ore 19 in Corso Como!",
+  "url": "https://mgpf.it/2008/12/19/stasera-1912-a-milano-ore-19-in-corso-como.html",
+  "language": "it",
+  "role": "speaker/guest (Aperitivo Informatico 'Web e Privacy', CLIFF, Milano, 19 Dec 2008)",
+  "note": "Quoted announcement: 'Un incontro informale sul tema della privacy online con alcuni tra i maggiori esperti italiani: Claudio Agosti, Matteo Flora, Fabio Pietrosanti.' This is an event not listed in media.json. Read via WP REST (post 3394) on 2026-10-08.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2004_press_2026-10-08",
+   "pass4_lacuna2004_tech_2026-10-08"
   ],
   "on_old_site": false
  },
@@ -2323,6 +2845,40 @@
   "known": false,
   "_slices": [
    "pass4_ccc_camps_congresses_2026-09-18",
+   "pass4_esc_hackmeeting_securitysummit_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2009-08-29",
+  "year": 2009,
+  "type": "other",
+  "outlet": "End Summer Camp 2009 (ESC09), Forte Bazzera (Venezia)",
+  "title": "Hacker Jeopardy by malveo+naif (da confermare)",
+  "url": "https://www.endsummercamp.org/index.php?title=ESC09-Programma",
+  "language": "it",
+  "role": "organiser",
+  "note": "ESC09-Programma, section 'Sabato 29 Agosto': '01.00 - 03.00 : Hacker Jeopardy by malveo+naif (da confermare)'. Marked tentative; never confirmed on the page.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_esc_hackmeeting_securitysummit_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2009-09",
+  "year": 2009,
+  "type": "video",
+  "outlet": "End Summer Camp 2009 (ESC09), Forte Bazzera (Venezia)",
+  "title": "Ghost Track \"Stasera si recita a soggetto\" by naif&etc. (ESC09 materials)",
+  "url": "https://www.endsummercamp.org/index.php?title=ESC09-Materiali",
+  "language": "it",
+  "role": "participant",
+  "note": "ESC09-Materiali, Video section: '* Ghost Track \"Stasera si recita a soggetto\" by naif&etc.' (no link). An earlier revision (2009-09-01..10) read 'richiesta: video naif :)'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
    "pass4_esc_hackmeeting_securitysummit_2026-09-18"
   ],
   "on_old_site": false
@@ -3336,6 +3892,23 @@
   "on_old_site": false
  },
  {
+  "date": "2010-09-04",
+  "year": 2010,
+  "type": "panel",
+  "outlet": "End Summer Camp 2010 (ESC10), Forte Bazzera (Venezia)",
+  "title": "Security Trashcan (session 1017)",
+  "url": "https://www.endsummercamp.org/index.php?title=ESC10-Schedule",
+  "language": "it",
+  "role": "speaker",
+  "note": "ESC10-Schedule, 'Saturday September 4th', code 1017, 00.00-01.00, 'Security Trashcan', Speaker: 'ascii, malveo, astharot, naif'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_esc_hackmeeting_securitysummit_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2010-09-10",
   "year": 2010,
   "type": "blog_post",
@@ -3915,6 +4488,23 @@
   ],
   "tags": [
    "newsroom-leaks"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2011-08-11",
+  "year": 2011,
+  "type": "talk",
+  "outlet": "End Summer Camp 2011 (ESC11), Forte Bazzera (Venezia)",
+  "title": "\"ph33r th3 ph0n3\" by naif & nex` (proposed, later withdrawn)",
+  "url": "https://www.endsummercamp.org/index.php?title=ESC11-Contenuti&oldid=6755",
+  "language": "it",
+  "role": "speaker",
+  "note": "Only in the page history: ESC11-Contenuti revisions 6743-6755 (2011-08-11 to 2011-08-15) list '=== 1104 - \"ph33r th3 ph0n3\" by naif & nex` ===' with the abstract 'mobile antani supercazzola aka To Be Defined'. On 2011-08-17 slot 1104 was replaced by 'They Hack, We Laugh - nex'. The talk is not in the final program.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_esc_hackmeeting_securitysummit_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -5426,6 +6016,23 @@
   "on_old_site": false
  },
  {
+  "date": "2014-07",
+  "year": 2014,
+  "type": "mentioned",
+  "outlet": "End Summer Camp 2014 (ESC14) wiki",
+  "title": "ESC14-BBS planning page (BBS / vintage telephone exchange area)",
+  "url": "https://www.endsummercamp.org/index.php?title=ESC14-BBS",
+  "language": "it",
+  "role": "subject",
+  "note": "Planning discussion: '(naif forse te stavi macerando quello dei tuoi a latina, o era ISDN?)', about an old analogue PBX. Passing mention only.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_esc_hackmeeting_securitysummit_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2014-08-27",
   "type": "quoted",
   "outlet": "Motherboard (VICE)",
@@ -6235,6 +6842,40 @@
   ],
   "tags": [
    "newsroom-leaks"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2015-09",
+  "year": 2015,
+  "type": "other",
+  "outlet": "End Summer Camp 2015 (ESC15), Forte Bazzera (Venezia)",
+  "title": "Capanello c1509: Cosa pensano gli hacker degli hacker",
+  "url": "https://www.endsummercamp.org/index.php?title=ESC15-Caps",
+  "language": "it",
+  "role": "participant",
+  "note": "ESC15-Caps (discussion circles): 'c1509 : Cosa pensano gli hacker degli hacker', REFERENTE=Scinawa, PARTECIPANTI=naif, gioque.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_esc_hackmeeting_securitysummit_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2015-09-05",
+  "year": 2015,
+  "type": "talk",
+  "outlet": "End Summer Camp 2015 (ESC15), Forte Bazzera (Venezia)",
+  "title": "Hermes Overview 2015",
+  "url": "https://www.endsummercamp.org/index.php?title=ESC15-Programma",
+  "language": "it",
+  "role": "speaker",
+  "note": "ESC15-Programma 'Sabato 5 settembre', TALKS 22:00-00:00, code 15xx, 22:00-22:50, 'Hermes Overview 2015', Relatore 'Naif'. ESC15-relatori still marked it '-da confermare-' (last edit 2015-08-29). The final program (last edit 2015-11-05) keeps it without that caveat. Language not stated.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_esc_hackmeeting_securitysummit_2026-09-18"
   ],
   "on_old_site": false
  },
