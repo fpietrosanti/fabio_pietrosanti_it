@@ -704,35 +704,52 @@
   },
   {
    "domain": "swissinfo.ch",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-09",
+   "found": 1
   },
   {
    "domain": "nzz.ch",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-09",
+   "found": 0
   },
   {
    "domain": "tagesanzeiger.ch",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-09",
+   "found": 0
   },
   {
    "domain": "derstandard.at",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-09",
+   "found": 0
   },
   {
    "domain": "gazeta.pl",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-09",
+   "found": 0
   },
   {
    "domain": "publico.pt",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-09",
+   "found": 0
   },
   {
    "domain": "globo.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-09",
+   "found": 0
   },
   {
    "domain": "wechat/sogou (zh)",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-09",
+   "found": 0,
+   "note": "cercato come site:mp.weixin.qq.com \"Pietrosanti\" OR GlobaLeaks: zero risultati"
   },
   {
    "domain": "sohu.com",
@@ -1381,6 +1398,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 domini (torrentfreak, dailydot, boingboing, slashdot, techdirt, nrc.nl, volkskrant.nl, rsi.ch): risultati solo su boingboing.net (articolo 2017-02-15 'Italy unveils a law proposal' + 4 pagine tag, indici non pubblicazioni) e techdirt.com (2017-02-17 trojan): entrambi gli articoli gia' in media.json. Nessuna voce nuova; merge/copie non necessari. Prossimo blocco: swissinfo.ch, nzz.ch, tagesanzeiger.ch, derstandard.at, gazeta.pl, publico.pt, globo.com, wechat/sogou (zh)."
+  },
+  {
+   "date": "2026-10-09 (run pomeridiano)",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 domini (swissinfo, nzz, tagesanzeiger, derstandard, gazeta.pl, publico.pt, globo.com, wechat/sogou come site:mp.weixin.qq.com): unico risultato su swissinfo.ch (articolo su Paula Cooper: cita Paolo Pietrosanti, omonimo, scartato per regola decisions). Zero candidati: verify/merge/copie non necessari. NB: modifiche non committate di un'altra sessione (media.json, docs, tools, pass4_cina_*) lasciate intatte e NON incluse nel commit. Prossimo blocco: sohu.com, 163.com, thepaper.cn, sina.com.cn, radio24.it poi le query libere."
   }
  ]
 }
