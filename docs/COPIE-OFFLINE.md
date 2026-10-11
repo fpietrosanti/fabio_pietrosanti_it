@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-08 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-12 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **969**; già processate: **1128**; ancora da processare: **0**
-- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **795** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **927**
+- Voci in `data/media.json`: **979**; già processate: **1140**; ancora da processare: **0**
+- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **807** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **939**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **97**
@@ -20,7 +20,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 30 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -50,7 +50,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 5 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 34 | 1 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 36 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -274,7 +274,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
-  page is a JavaScript shell with almost no text: needs browser capture
+  page is a JavaScript shell with almost no text. 2026-10-09 (Chrome di Fabio, Sogou funzionante): né «Pascoe 长寿论坛» né il titolo («高纤维可替代少吃延寿…») né l'elenco dei post di 长寿科技情报站 trovano più la ripresa del 12/09 (l'account ha pubblicato una serie di riepiloghi 28/09-08/10 e ne ha cancellato almeno uno, «三场晚宴加持» del 07/10). Il testo è identico all'originale TimePie già copiato (2026/523c49878113 + ripresa Baijiahao): proposta di chiusura come doppione.
 
 ## Interventi di Fabio ritagliati da Radio Radicale
 
@@ -310,7 +310,17 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1) · copia: `undated/2aa62add9a98` (Web Archive 20220712) · licenza: terzi
 - **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/) · copia: `undated/40c7d7ea93ef` (Web Archive 20210929) · licenza: terzi
 - **None** · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b) · copia: `undated/3bcce2091e75` (Web Archive 20201101) · licenza: terzi
+- **None** · festivaldelgiornalismo.com — [CURA LE TUE FONTI: COME POTENZIARE LA REDAZIONE CON GLOBALEAKS](https://www.festivaldelgiornalismo.com/cura-le-tue-fonti-come-potenziare-la-redazione-con-globaleaks/) · copia: `undated/f09e9636bd8b` (Web Archive 20240713) · licenza: terzi
+- **None** · festivaldelgiornalismo.com — [Hacker’s corner: intercettazioni telefoniche nell’era dell’Nsa data gate](https://www.festivaldelgiornalismo.com/hacker%E2%80%99s-corner-intercettazioni-telefoniche-nell%E2%80%99era-dell%E2%80%99nsa-data-gate/) · copia: `undated/ff05289091bb` (Web Archive 20241211) · licenza: terzi
+- **None** · festivaldelgiornalismo.com — [Giornalismo e sicurezza dei dati: HackersCorner a #ijf13](https://www.festivaldelgiornalismo.com/post/29439/) · copia: `undated/bf3ea65ee60a` (Web Archive 20130429) · licenza: terzi
+- **None** · festivaldelgiornalismo.com — [Intercettazioni e comunicazioni confidenziali](https://www.festivaldelgiornalismo.com/programme/0/intercettazioni-e-comunicazioni-confidenziali) · copia: `undated/9251aa7c0f7e` (live) · licenza: terzi
+- **None** · festivaldelgiornalismo.com — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2018/firewalls) · copia: `undated/edad77b59ceb` (live) · licenza: terzi
+- **None** · festivaldelgiornalismo.com — [Tecniche di dissidenza e repressione digitale](https://www.festivaldelgiornalismo.com/tecniche-di-dissidenza-e-repressione-digitale-2/) · copia: `undated/663ab2708519` (Web Archive 20240725) · licenza: terzi
+- **None** · festivaldelgiornalismo.com — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/whistleblowing-anonimo-come-ricevere-soffiate-da-fonti-anonime-via-web/) · copia: `undated/85d6779aed13` (Web Archive 20240713) · licenza: terzi
+- **None** · journalismfestival.com — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/0/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `undated/090766fb9138` (live) · licenza: terzi
+- **None** · journalismfestival.com — [Wiretappings and secure communications](https://www.journalismfestival.com/programme/2018/intercettazioni-e-comunicazioni-confidenziali) · copia: `undated/0b92a888c870` (live) · licenza: terzi
 - **None** · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/) · copia: `undated/5ad9adf41ff0` (Web Archive 20150721) · licenza: terzi
+- **None** · sohu.com — [逆龄16岁！日吞70粒补剂、电击肌肉，月烧600欧](https://www.sohu.com/a/1064715918_100270039) · copia: `undated/9066a1a05fca` (live) · licenza: terzi
 - **None** · startmag.it — [Come (non) fare un'app anti Covid-19. L'appello di esperti e prof.](https://www.startmag.it/innovazione/come-non-fare-unapp-anti-covid-19-lappello-di-esperti-e-prof/) · copia: `undated/d3a3ba85358a` (Web Archive 20200423) · licenza: terzi
 - **None** · today.it — [Nella cyber war l'Italia affida i suoi segreti all'antivirus russo](https://www.today.it/tech/cyber-guerra-ucraina-russia-rischi-italia.html) · copia: `undated/3e6c9e670f0f` (Web Archive 20220302) · licenza: terzi
 - **None** · tomshw.it — [Gli esperti di cybersicurezza criticano la nomina di Carrai | Tom's Hardware](https://www.tomshw.it/altro/gli-esperti-di-cybersicurezza-criticano-la-nomina-di-carrai) · copia: `undated/7b0f910c8a2e` (Web Archive 20200926) · licenza: terzi
@@ -1301,6 +1311,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · GlobaLeaks — [People | GlobaLeaks](https://globaleaks.org/about/people/) · copia: `2026/a2dd5929df8c` (live) · licenza: propria
 - **2026** · infosecurity.ch (blog) — [infosecurity.ch restored](https://infosecurity.ch/20260917/infosecurity-ch-restored/) · copia: `2026/1e4e1d2ffca9` (live) · licenza: propria
 - **2026** · Fund Longevity (Luma) — rally di Roma, V — [Fund Longevity rally Roma 08/04/2026 — ospite («Biohacker from biohack.it»)](https://luma.com/xjvb2fcb) · copia: `2026/dd872a456ee8` (live · video locale `media.mp4` (4 MB, da caricare su Drive)) · licenza: terzi
+- **2026** · WeChat — 长寿科技情报站 (gh_15f7b20393cf) — [以自身试验探索生命边界：极客闭门论坛回顾](https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd) · copia: `2026/0604b9f21c7c` (chrome-dom) · licenza: terzi
 - **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) · copia: `2026/a243d02057e1` (Web Archive 20260618) · licenza: propria
 - **2026** · The Next Web (TNW) — [WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhone](https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio) · copia: `2026/adf88485fb4e` (Web Archive 20260401) · licenza: terzi
 - **2026** · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0) · copia: `2026/9a1df4eb5776` (live) · licenza: terzi
@@ -1312,6 +1323,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · WeChat — 蓝图臻清健康科技 (刘清洋) — [顶尖学者齐聚！第七届国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Fabio+Pietrosanti) · copia: `2026/96fd1f8ba081` (live) · licenza: terzi
 - **2026** · 长寿科技情报站 (WeChat account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=Pietrosanti%20%E9%95%BF%E5%AF%BF) · copia: `2026/338792df961c` (live) · licenza: terzi
 - **2026** · NetEase 网易号 (时光派 account) — [逆龄16岁！日吞70粒补剂、电击肌肉，月烧600欧](https://www.163.com/dy/article/L4MH165705345ZH3.html) · copia: `2026/1f9770203e17` (live) · licenza: terzi
+- **2026** · NetEase 网易视频 (时光派 account, T154428731765 — [满场极客，观点交锋！一群 “不甘心老去” 的探索者相聚极客闭门论坛，现场氛围拉满，明日主论坛精彩继续！](https://www.163.com/v/video/VG5NGRVPI.html) · copia: `2026/34b6cc060b75` (live) · licenza: terzi
 - **2026** · Bilibili (时光派官方) — [Riepilogo TimePie 2026 (stesso video di NetEase VG6GUA7FN)](https://www.bilibili.com/video/BV1Rwh76XEhj/) · copia: `2026/d03f8ff0254c` (live) · licenza: terzi
 - **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [现场速递！第七届国际长寿论坛的“长寿之夜”](https://www.bilibili.com/video/BV1X9YR68ETj/) · copia: `2026/3991a0a45aea` (live) · licenza: terzi
 - **2026** · Bilibili — 时光派官方 — [满场极客，观点交锋！一群「不甘心老去」的探索者相聚极客闭门论坛 (closed-door biohacker forum recap, 32 s)](https://www.bilibili.com/video/BV1u5YX6JECk/) · copia: `2026/654a0b84fdd6` (live) · licenza: terzi

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1332**; dopo deduplica: **969**
+- Risultati grezzi dalle ricerche: **1342**; dopo deduplica: **979**
 - Già presenti sul vecchio sito: **42** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 927**
-- Verificati aprendo la pagina: **910**; solo da risultato di ricerca: **59**
+- **Nuovi rispetto al vecchio sito: 937**
+- Verificati aprendo la pagina: **920**; solo da risultato di ricerca: **59**
 
-Per tipo (nuovi): Menzionato 163, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 65, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 28, Radio 27, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 12, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, panel 4, pagina 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 173, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 65, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 28, Radio 27, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 12, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, panel 4, pagina 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -2052,6 +2052,16 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · vice.com — [L’Europa si trova davvero in uno stato di emergenza perenne?](https://www.vice.com/it/article/stato-di-sorveglianza-perenne-europa-terrorismo-privacy/)
 - 🆕 Menzionato · vice.com — [Davvero Paolo Gentiloni non usa le email?](https://www.vice.com/it/article/paolo-gentiloni-email-sms-pubblica-amministrazione-protocolli/)
 - 🆕 Menzionato · vice.com — [Una volta per tutte: qual è la differenza tra hacker black hat e white hat](https://www.vice.com/it/article/una-volta-per-tutte-qual-e-la-differenza-tra-hacker-black-hat-e-white-hat/)
+- 🆕 Menzionato · sohu.com — [逆龄16岁！日吞70粒补剂、电击肌肉，月烧600欧](https://www.sohu.com/a/1064715918_100270039)
+- 🆕 Menzionato · festivaldelgiornalismo.com — [Intercettazioni e comunicazioni confidenziali](https://www.festivaldelgiornalismo.com/programme/0/intercettazioni-e-comunicazioni-confidenziali)
+- 🆕 Menzionato · journalismfestival.com — [Wiretappings and secure communications](https://www.journalismfestival.com/programme/2018/intercettazioni-e-comunicazioni-confidenziali)
+- 🆕 Menzionato · festivaldelgiornalismo.com — [Tecniche di dissidenza e repressione digitale](https://www.festivaldelgiornalismo.com/tecniche-di-dissidenza-e-repressione-digitale-2/)
+- 🆕 Menzionato · festivaldelgiornalismo.com — [Hacker’s corner: intercettazioni telefoniche nell’era dell’Nsa data gate](https://www.festivaldelgiornalismo.com/hacker%E2%80%99s-corner-intercettazioni-telefoniche-nell%E2%80%99era-dell%E2%80%99nsa-data-gate/)
+- 🆕 Menzionato · festivaldelgiornalismo.com — [Giornalismo e sicurezza dei dati: HackersCorner a #ijf13](https://www.festivaldelgiornalismo.com/post/29439/)
+- 🆕 Menzionato · festivaldelgiornalismo.com — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2018/firewalls)
+- 🆕 Menzionato · festivaldelgiornalismo.com — [CURA LE TUE FONTI: COME POTENZIARE LA REDAZIONE CON GLOBALEAKS](https://www.festivaldelgiornalismo.com/cura-le-tue-fonti-come-potenziare-la-redazione-con-globaleaks/)
+- 🆕 Menzionato · festivaldelgiornalismo.com — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/whistleblowing-anonimo-come-ricevere-soffiate-da-fonti-anonime-via-web/)
+- 🆕 Menzionato · journalismfestival.com — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/0/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

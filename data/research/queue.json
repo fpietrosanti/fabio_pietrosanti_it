@@ -753,41 +753,56 @@
   },
   {
    "domain": "sohu.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-12",
+   "found": 1
   },
   {
    "domain": "163.com",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-12",
+   "found": 1
   },
   {
    "domain": "thepaper.cn",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-12",
+   "found": 0
   },
   {
    "domain": "sina.com.cn",
-   "status": "pending"
+   "status": "done",
+   "date": "2026-10-12",
+   "found": 0
   },
   {
    "domain": "radio24.it",
-   "status": "pending",
-   "note": "host corretto delle puntate di Radio 24 (radio24.ilsole24ore.com da 0 risultati)"
+   "status": "done",
+   "note": "host corretto delle puntate di Radio 24 (radio24.ilsole24ore.com da 0 risultati)",
+   "date": "2026-10-12",
+   "found": 0
   }
  ],
  "queries": [
   {
    "query": "site:journalismfestival.com OR site:festivaldelgiornalismo.com \"Pietrosanti\"",
-   "status": "pending",
-   "pages": 3
+   "status": "done",
+   "pages": 3,
+   "date": "2026-10-12",
+   "found": 27
   },
   {
    "query": "\"ifuriosi\" Casaleggio \"Philip Morris\" Pietrosanti",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 1
   },
   {
    "query": "\"Pietrosanti\" Kaspersky Euronews",
-   "status": "pending",
-   "pages": 2
+   "status": "retry",
+   "pages": 2,
+   "note": "robot check Google 2026-10-12"
   },
   {
    "query": "OpenPUDO \"open source\" PUDO LESS",
@@ -1406,6 +1421,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 domini (swissinfo, nzz, tagesanzeiger, derstandard, gazeta.pl, publico.pt, globo.com, wechat/sogou come site:mp.weixin.qq.com): unico risultato su swissinfo.ch (articolo su Paula Cooper: cita Paolo Pietrosanti, omonimo, scartato per regola decisions). Zero candidati: verify/merge/copie non necessari. NB: modifiche non committate di un'altra sessione (media.json, docs, tools, pass4_cina_*) lasciate intatte e NON incluse nel commit. Prossimo blocco: sohu.com, 163.com, thepaper.cn, sina.com.cn, radio24.it poi le query libere."
+  },
+  {
+   "date": "2026-10-12 15:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": true,
+   "confirmed_new": 10,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa. Domini sohu.com e 163.com: un solo risultato, l'articolo biohacking 逆龄16岁 (163 già presente, sohu = ripresa nuova); thepaper.cn, sina.com.cn, radio24.it: zero. Query IJF (3 pagine, 27 risultati): 9 pagine nuove festivaldelgiornalismo/journalismfestival 2012-2014 (programmi, resoconti hackers' corner, Cura le tue fonti); query ifuriosi: solo ilriformista già presente. Robot check Google alla query '\"Pietrosanti\" Kaspersky Euronews': stop, non aggirato, voce messa in retry. 10 confermate, 10 copie ottenute. Modifiche non committate di un'altra sessione (pass4_cina 2026-10-09, tools, docs) lasciate fuori dal commit e ripristinate. Prossimo blocco: Kaspersky Euronews (retry) poi OpenPUDO, LIUC PUDO, app covid Lazio, OSSCI."
   }
  ]
 }
