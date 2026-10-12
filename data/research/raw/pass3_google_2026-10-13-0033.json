@@ -1,0 +1,41 @@
+[
+ {
+  "date": "2018-10-01",
+  "year": 2018,
+  "type": "article",
+  "outlet": "startupitalia.eu",
+  "title": "Whistleblowing PA, ora i dipendenti pubblici possono segnalare la corruzione senza rischiare - StartupItalia",
+  "url": "https://startupitalia.eu/tech/cybersecurity/whistleblowing-pa-ora-i-dipendenti-pubblici-possono-segnalare-la-corruzione-senza-rischiare/",
+  "language": "it",
+  "role": "subject",
+  "note": "Lancio di WhistleblowingPA (Transparency International Italia + Centro Hermes), 01/10/2018. Citazione di Fabio Pietrosanti, presidente del Centro Hermes, su GlobaLeaks usato da Autorità Anticorruzione della Catalogna, Il Sole 24 Ore, CPI. verified via wayback; context: …e segnalazioni, come l’Autorità Anticorruzione della Catalogna, Il Sole24ore, la Corte Penale Internazionale dell’Aia oltre a centinaia di PA locali – risponde Fabio Pietrosanti , presidente del Centro Hermes – il vantag…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "tellsomeone.org.uk",
+  "title": "Our Technology - GlobalLeaks Crime Reporting Platform TellSomeone.org.uk",
+  "url": "https://tellsomeone.org.uk/about/technology/",
+  "language": "en",
+  "role": "mentioned",
+  "note": "Pagina tecnologia della piattaforma TellSomeone (UK), basata su GlobaLeaks: Fabio tra gli \"Original Authors\". Data non indicata. verified via wayback; context: …ined by Whistleblowing Solutions Impresa Sociale S.r.l. (WBS) . Available at https://github.com/globaleaks Original Authors • Arturo Filastò • Claudio Agosti • Fabio Pietrosanti • Giovanni Pellerano • Michele Orrù Why Th…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2018-10-01",
+  "year": 2018,
+  "type": "article",
+  "outlet": "Corriere della Sera (Buone Notizie)",
+  "title": "Ecco l'arma segreta contro i corrotti della Pubblica amministrazione",
+  "url": "https://www.corriere.it/buone-notizie/18_ottobre_01/ecco-l-arma-segreta-contro-corrotti-pubblica-amministrazione-ca341b36-c582-11e8-994e-6382a2ca0409.shtml",
+  "language": "it",
+  "role": "quoted",
+  "note": "Lancio di WhistleblowingPA, 01/10/2018. Verificato a mano 2026-10-13 sulla pagina live (il verificatore non trovava il nome per la codifica ISO-8859-1): «…a meno che il whistleblower stesso non decida di rivelarlo” ha dichiarato Fabio Pietrosanti, Presidente del Centro Hermes».",
+  "verified": true,
+  "known": false
+ }
+]

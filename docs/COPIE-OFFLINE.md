@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-12 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-13 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **1024**; già processate: **1190**; ancora da processare: **0**
-- Licenza delle copie ottenute: **229** materiale proprio (ripubblicabile), **854** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **988**
+- Voci in `data/media.json`: **1027**; già processate: **1193**; ancora da processare: **0**
+- Licenza delle copie ottenute: **229** materiale proprio (ripubblicabile), **857** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **991**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
@@ -20,7 +20,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 41 | 0 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 42 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -42,7 +42,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2015 | 30 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 16 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 70 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 55 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 76 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 160 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 81 | 7 | 0 | 0 | 0 | 0 | 0 |
@@ -316,6 +316,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · poul.org — [POuL » Topic: Conferenze](https://poul.org/topic/Conferenze/) · copia: `undated/3d233789630b` (Web Archive 20191122) · licenza: terzi
 - **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner) · copia: `undated/10581a59d966` (Web Archive 20211022) · licenza: terzi
 - **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1) · copia: `undated/2aa62add9a98` (Web Archive 20220712) · licenza: terzi
+- **None** · tellsomeone.org.uk — [Our Technology - GlobalLeaks Crime Reporting Platform TellSomeone.org.uk](https://tellsomeone.org.uk/about/technology/) · copia: `undated/19c000bbf34b` (Web Archive 20250831) · licenza: terzi
 - **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/) · copia: `undated/40c7d7ea93ef` (Web Archive 20210929) · licenza: terzi
 - **None** · Tracxn — [PrivateWave - Company Profile (Tracxn)](https://tracxn.com/d/companies/privatewave/__8Sn9ZPRKGsGkuCvrGY8mF_7VrSqjR9IVUAfLzECd7e8) · copia: `undated/8699471b5043` (live) · licenza: terzi
 - **None** · barcelonaradical.net — [Globaleaks: primer i únic sistema open source de whistleblowing](https://www.barcelonaradical.net/info/7574/globaleaks-primer-i-unic-sistema-open-source-de-whistleblowing) · copia: `undated/116b72e61bd7` (Web Archive 20150425) · licenza: terzi
@@ -871,6 +872,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Privacy Camp 2018 / EDPS-Civil Society S — [EDPS-Civil Society Summit 2018](https://privacycamp.eu/2018-edps-civil-society-summit/) · copia: `2018/ab26c076e307` (Web Archive 20180325) · licenza: terzi
 - **2018** · Rai Radio1 (servizio di Paola Guarnieri, — [A Padova il raduno degli hacker. Pietrosanti: "Altro che pirati, siamo i cavalieri del web](https://soundcloud.com/user-873190463/a-padova-il-raduno-degli-hacker-pietrosanti-altro-che-pirati-siamo-i-cavalieri-del-web) · copia: `2018/5392321adb9b` (live) · licenza: terzi
 - **2018** · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://startupitalia.eu/tech/cybersecurity/cyberchallenge-2018-la-nuova-generazione-di-hacker-etici/) · copia: `2018/c125efc80010` (Web Archive 20240808) · licenza: terzi
+- **2018** · startupitalia.eu — [Whistleblowing PA, ora i dipendenti pubblici possono segnalare la corruzione senza rischia](https://startupitalia.eu/tech/cybersecurity/whistleblowing-pa-ora-i-dipendenti-pubblici-possono-segnalare-la-corruzione-senza-rischiare/) · copia: `2018/0e15297b1e05` (Web Archive 20240612) · licenza: terzi
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [Big Brother Awards Italia 2018 - video (ep2018se_20_bba_awards.mp4)](https://urna.winstonsmith.org/materiali/2018/video/ep2018se_20_bba_awards.mp4) · copia: `2018/d0172f56532c` (Web Archive 20180912) · licenza: terzi
 - **2018** · video.fosdem.org — [Public money, public code, the Italian way (FOSDEM 2018 recording, mp4)](https://video.fosdem.org/2018/UA2.220/public_money_public_code.mp4) · copia: `2018/0bb1f3d0d72d` (Web Archive 20191025) · licenza: terzi
 - **2018** · Ethic Whispers (ethicwhispers.io) — [Ethic Whispers - the security token for whistleblowing](https://web.archive.org/web/20211203145414/http://ethicwhispers.io/) · copia: `2018/81904b98c83d` (Web Archive 20211203) · licenza: propria
@@ -878,6 +880,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · AGI — [C'e una nuova risorsa per gli informatori anonimi nella pubblica amministrazione](https://www.agi.it/innovazione/whistleblowing_pa-4433292/news/2018-10-01/) · copia: `2018/df6bbf5495fb` (Web Archive 20181001) · licenza: terzi
 - **2018** · Casa del Cinema, Roma - Mojo Festival de — [Mojo Festival: conferenza stampa di presentazione (programma)](https://www.casadelcinema.it/wp-content/uploads/2018/07/conf_stampa_mojo_festival1.pdf) · copia: `2018/2b946a496e7c` (live) · licenza: terzi
 - **2018** · CyberChallenge.IT 2018 award ceremony, S — [Cyberchallenge.IT 2018: cerimonia di premiazione il 28 giugno a Roma (programme announceme](https://www.consorzio-cini.it/index.php/it/labcs-home/labcs-news/1348-cerimonia-di-premiazione-dei-vincitori-di-cyberchallenge-it) · copia: `2018/ace72bbc8c14` (Web Archive 20190722) · licenza: terzi
+- **2018** · Corriere della Sera (Buone Notizie) — [Ecco l'arma segreta contro i corrotti della Pubblica amministrazione](https://www.corriere.it/buone-notizie/18_ottobre_01/ecco-l-arma-segreta-contro-corrotti-pubblica-amministrazione-ca341b36-c582-11e8-994e-6382a2ca0409.shtml) · copia: `2018/7a7a06a1e240` (Web Archive 20181002) · licenza: terzi
 - **2018** · CyberSecurity Italia (cybersecitalia.it) — [CyberChallenge.it, il 28 giugno la premiazione](https://www.cybersecitalia.it/cyberchallenge-it-il-28-giugno-la-premiazione/6486/) · copia: `2018/1d0ba7094c6c` (Web Archive 20210226) · licenza: terzi
 - **2018** · International Journalism Festival 2018 — [Privacy nightmare Italia: storie di sorveglianza](https://www.festivaldelgiornalismo.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/27e62d9ca635` (Web Archive 20180705) · licenza: terzi
 - **2018** · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti) · copia: `2018/f855533e7142` (Web Archive 20190825) · licenza: terzi

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1404**; dopo deduplica: **1024**
+- Risultati grezzi dalle ricerche: **1407**; dopo deduplica: **1027**
 - Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 979**
-- Verificati aprendo la pagina: **964**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 982**
+- Verificati aprendo la pagina: **967**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 190, tweet 132, Talk 79, Post sul blog infosecurity.ch 72, Video 66, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 29, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Podcast 12, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 191, tweet 132, Talk 79, Post sul blog infosecurity.ch 72, Video 66, Citato 49, Progetto 33, Ricerca 31, article 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Podcast 12, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -36,7 +36,7 @@ Per tipo (nuovi): Menzionato 190, tweet 132, Talk 79, Post sul blog infosecurity
 | 2015 | 0 | 38 | 38 |
 | 2016 | 0 | 23 | 23 |
 | 2017 | 0 | 71 | 71 |
-| 2018 | 0 | 66 | 66 |
+| 2018 | 0 | 68 | 68 |
 | 2019 | 0 | 59 | 59 |
 | 2020 | 0 | 167 | 167 |
 | 2021 | 0 | 88 | 88 |
@@ -972,7 +972,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Talk · MOJO Italia - Festival del giornalismo mobile (2a edizione) — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/)  
   Speaker at 2nd edition (announced 2019-02-17) on whistleblowing, privacy and digital anonymity
 
-## 2018 — 66 voci, 66 nuove
+## 2018 — 68 voci, 68 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -990,6 +990,10 @@ Anni senza nessun risultato: nessuno
   Quoted (Hermes president) critiquing blockchain hype in the debate over Casaleggio's blockchain/e-democracy claims
 - 🆕 **2018-10-04** · Video · marco scialdone (YouTube) — [Global Forum on Modern Direct Democracy 2018 - E-democracy: the dark side (prima parte)](https://www.youtube.com/watch?v=UI16WaavDNA)  
   Workshop 27 Sep 2018, Rome; interventions by Fabio Pietrosanti and Mario Staderini
+- 🆕 **2018-10-01** · article · startupitalia.eu — [Whistleblowing PA, ora i dipendenti pubblici possono segnalare la corruzione senza rischiare - StartupItalia](https://startupitalia.eu/tech/cybersecurity/whistleblowing-pa-ora-i-dipendenti-pubblici-possono-segnalare-la-corruzione-senza-rischiare/)  
+  Lancio di WhistleblowingPA (Transparency International Italia + Centro Hermes), 01/10/2018. Citazione di Fabio Pietrosanti, presidente del Centro Hermes, su GlobaLeaks usato da Autorità Anticorruzione della Catalogna, Il Sole 24 Ore, CPI. verified via wayback; context: …e segnalazioni, come l’Autorità Anticorruzione della Catalogna, Il Sole24ore, la Corte Penale Internazionale dell’Aia oltre a centinaia di PA locali – risponde Fabio Pietrosanti , presidente del Centro Hermes – il vantag…
+- 🆕 **2018-10-01** · article · Corriere della Sera (Buone Notizie) — [Ecco l'arma segreta contro i corrotti della Pubblica amministrazione](https://www.corriere.it/buone-notizie/18_ottobre_01/ecco-l-arma-segreta-contro-corrotti-pubblica-amministrazione-ca341b36-c582-11e8-994e-6382a2ca0409.shtml)  
+  Lancio di WhistleblowingPA, 01/10/2018. Verificato a mano 2026-10-13 sulla pagina live (il verificatore non trovava il nome per la codifica ISO-8859-1): «…a meno che il whistleblower stesso non decida di rivelarlo” ha dichiarato Fabio Pietrosanti, Presidente del Centro Hermes».
 - 🆕 **2018-10-01** · Citato · AGI — [C'e una nuova risorsa per gli informatori anonimi nella pubblica amministrazione](https://www.agi.it/innovazione/whistleblowing_pa-4433292/news/2018-10-01/) _(non verificato)_  
   WhistleblowingPA launch; Pietrosanti (Centro Hermes) explains GlobaLeaks basis (search snippet; page now 404)
 - 🆕 **2018-09-29** · Menzionato · repubblica.it — [Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la password”](https://www.repubblica.it/tecnologia/sicurezza/2018/09/29/news/attacco_a_facebook_il_giorno_dopo_non_c_e_bisogno_di_cambiare_le_password_-207672944/)  
@@ -2141,6 +2145,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · meleamspa.com — [Google Analytics viola il GDPR: cause ed effetti di un'altra battaglia nella guerra degli Analytics - Meleam S.p.A.](https://meleamspa.com/google-analytics-viola-gdpr-cause-effetti-battaglia-analytics/)
 - 🆕 Menzionato · easyteam.org — [La risposta alla nuova richiesta di Monitora PA – Un’integrazione – Easyteam.org SRL – Informatica a 360 gradi](https://easyteam.org/easynews/la-risposta-alla-nuova-richiesta-di-monitora-pa-unintegrazione/)
 - 🆕 Menzionato · Tracxn — [PrivateWave - Company Profile (Tracxn)](https://tracxn.com/d/companies/privatewave/__8Sn9ZPRKGsGkuCvrGY8mF_7VrSqjR9IVUAfLzECd7e8)
+- 🆕 Menzionato · tellsomeone.org.uk — [Our Technology - GlobalLeaks Crime Reporting Platform TellSomeone.org.uk](https://tellsomeone.org.uk/about/technology/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

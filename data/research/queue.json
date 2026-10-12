@@ -951,19 +951,113 @@
   },
   {
    "query": "\"Pietrosanti\" whistleblowing D.lgs 24/2023",
-   "status": "retry",
+   "status": "done",
    "pages": 2,
-   "note": "2026-10-12 20:29: robot check Google alla pagina 1"
+   "note": "2026-10-12 20:29: robot check Google alla pagina 1",
+   "date": "2026-10-13",
+   "found": 4
   },
   {
    "query": "\"Pietrosanti\" biohack.it OR \"Hacking Biology\"",
-   "status": "pending",
-   "pages": 1
+   "status": "done",
+   "pages": 1,
+   "date": "2026-10-13",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" SignalSwarm OR PLogistics OR \"LESS.green\" OR Haulersense",
+   "status": "done",
+   "pages": 1,
+   "date": "2026-10-13",
+   "found": 7
+  },
+  {
+   "query": "\"Pietrosanti\" Tor2web",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: anni deboli (2011, 2016, 2023-2025)",
+   "date": "2026-10-13",
+   "found": 8
+  },
+  {
+   "query": "\"Pietrosanti\" whistleblower 2016 OR \"Panama Papers\" OR anticorruzione",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: anni deboli (2011, 2016, 2023-2025)",
+   "date": "2026-10-13",
+   "found": 9
+  },
+  {
+   "query": "\"Pietrosanti\" podcast OR webinar 2023 OR 2024 OR 2025",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: anni deboli (2011, 2016, 2023-2025)",
+   "date": "2026-10-13",
+   "found": 10
+  },
+  {
+   "query": "\"Pietrosanti\" GlobaLeaks ANAC 2024 OR 2025",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: anni deboli (2011, 2016, 2023-2025)",
+   "date": "2026-10-13",
+   "found": 9
+  },
+  {
+   "query": "\"Pietrosanti\" WikiLeaks OR Anonymous hacker 2011",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: anni deboli (2011, 2016, 2023-2025)",
+   "date": "2026-10-13",
+   "found": 9
+  },
+  {
+   "query": "\"Pietrosanti\" Tor hidden service OR \"onion\" 2012 OR 2013",
    "status": "pending",
-   "pages": 1
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Hermes\" 2014 OR 2015 trasparenza",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" sorveglianza OR \"trojan di Stato\" 2016",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" Copernicani OR \"Italia digitale\" 2023 OR 2024",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" longevità OR biohacker OR \"biohacking\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"cybersecurity\" OR \"sicurezza informatica\" 2024 OR 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Centro Hermes\" 2022 OR 2023",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+  },
+  {
+   "query": "\"naif\" hacker italiano 2011 OR 2012",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
   }
  ],
  "history": [
@@ -1507,6 +1601,14 @@
    "captcha": true,
    "confirmed_new": 11,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa. Query: PrivateWave (retry, 2 pag.), CRVD voto elettronico, filetype:pdf (la query nuda restituisce solo omonimi: sostituita con \"Fabio Pietrosanti\" filetype:pdf, 3 pag.), intervista (2 pag.). 44 candidati; molti già in archivio. verify_candidates.py non estrae testo dai PDF (tutti i PDF risultavano 'name not found'): ricontrollati a mano con pdftotext. Nuove 11 voci: tracxn PrivateWave, hackingbiology Codice Beta 2025, e-privacy 2012 Tor2web (mirror winstonsmith), CRS Manualetto sicurezza digitale 18/03/2026, flyer e-privacy 2012, lettera CILD-Hermes al MISE 23/01/2017, info.nodes report 2024 (board), lettera ANORC alla Ministra Pisano su Immuni 24/04/2020 (firmatario), programma OSCE RFoM 2016, slide MERGE-it 2018, programma e-privacy Winter 2012 Nexa (moderatore), conferenza stampa Mojo Festival 25/07/2018. Esclusi (decisions.json): radiodigiesse 'Non volevo fare lo sbirro' (omonimo), iphoneitalia (solo commento lettori), categoria informapirata, istanze FOIA Monitora PA Campania/Piemonte (dati personali, non copiate), verbali scalia2001 (omonimo consigliere), elenco PUMS, verbale Ordine Ingegneri Lecce. Senza nome / non leggibili: locandine comune.roma.it, iisfa_forum_2017 (PDF immagine, da OCR), newsletter clusit 2009 (226 byte), perfezionisti DFA 2012 (download fallito), raiplaysound pagina programma. Scartati senza verifica: LinkedIn/Instagram/Facebook, mailing list (nexa, autistici, inventati, seclists, freeswitch), groups.google, forum.italia.it, registri FOIA delle scuole. Robot check alla query whistleblowing D.lgs 24/2023: stop, non aggirato, messa in retry. Da migliorare: supporto PDF in tools/verify_candidates.py."
+  },
+  {
+   "date": "2026-10-13 00:33",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 3,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. Query: whistleblowing D.lgs 24/2023 (retry), biohack.it/Hacking Biology, SignalSwarm/PLogistics/LESS.green, e 5 nuove sugli anni deboli (Tor2web, whistleblower 2016/anticorruzione, podcast 2023-25, GlobaLeaks ANAC 2024-25, WikiLeaks/Anonymous 2011); tutte a pagina singola (<=10 risultati). 26 candidati, quasi tutti già in archivio. Nuove 3 voci con copia offline: StartupItalia 01/10/2018 e Corriere Buone Notizie 01/10/2018 (lancio WhistleblowingPA, citazioni; il Corriere verificato a mano: il verificatore falliva per la codifica ISO-8859-1), tellsomeone.org.uk (GlobaLeaks, Fabio tra gli Original Authors). Scartati: it.wikipedia GlobaLeaks (già presente come mirror), handwiki (clone di Wikipedia), dig-awards it (già presente la versione eng; sito dietro sgcaptcha), researchgate/academia paper TI Italia 2024 (403, da verificare), alessandrorodolfi.org (snippet 'Apetizer con Fabio Pietrosanti' non più sulla home né in Wayback), radioradicale 479123 (nome assente). Omonimi: osservatorioappalti (Anton Giulio), parcolucretili, consiglio Lazio, lavoce/CCA (Stefano), Matteo Pietrosanti, Francesca. Scartati senza verifica: LinkedIn/X/Instagram/Facebook, siti propri (hackingbiology, biohack.it, plogistics, infosecurity.ch), directory aziendali, forum.italia.it, seclists. Coda vuota: servono nuove query per il prossimo blocco."
   }
  ]
 }
