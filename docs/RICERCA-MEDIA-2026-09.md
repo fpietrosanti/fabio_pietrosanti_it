@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1342**; dopo deduplica: **979**
+- Risultati grezzi dalle ricerche: **1344**; dopo deduplica: **981**
 - Già presenti sul vecchio sito: **42** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 937**
-- Verificati aprendo la pagina: **920**; solo da risultato di ricerca: **59**
+- **Nuovi rispetto al vecchio sito: 939**
+- Verificati aprendo la pagina: **921**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 173, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 65, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 28, Radio 27, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 12, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, panel 4, pagina 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 175, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 65, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 28, Radio 27, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 12, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, panel 4, pagina 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -44,12 +44,14 @@ Per tipo (nuovi): Menzionato 173, tweet 132, Talk 78, Post sul blog infosecurity
 | 2023 | 0 | 14 | 14 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 10 | 10 |
-| 2026 | 0 | 35 | 35 |
+| 2026 | 0 | 37 | 37 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 35 voci, 35 nuove
+## 2026 — 37 voci, 37 nuove
 
+- 🆕 **2026-10-05** · Menzionato · WeChat — 长寿科技情报站 (gh_15f7b20393cf) — [以自身试验探索生命边界：极客闭门论坛回顾](https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd)  
+  Recap of the 生物极客闭门论坛 of 12/09/2026 at TimePie's 7th International Longevity Forum (Shanghai): «开源抗衰数据平台开发者Fabio Pietrosanti» among the 6 invited biohackers (Jose Cordeiro, Dave Pascoe, Brian M. Delaney, 刘革新...); his talk summarised as «结构化人体自我实验». Image post with 18 photos. Found via Sogou WeChat search in Fabio's Chrome on 2026-10-09; text copied from the DOM, photos downloaded from mmbiz.qpic.cn (copy 2026/0604b9f21c7c). Photo 10 is a captioned stage photo: «Fabio Pietrosanti — 生物极客、科技创业者» with the quote «开源数据与结构化人体自我实验» (first photo of the forum with his name in the caption).
 - 🆕 **2026-09-22** · Video · NetEase 网易 (时光派 account) — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾](https://c.m.163.com/news/v/VG6GUA7FN.html)  
   CONTRADICTS the 2026-09-30 exclusion in decisions.json. Downloaded in full (m3u8 from www.163.com/v/video/VG6GUA7FN.html, 1080x1920, 2:35) and checked 155 frames: the 生物极客闭门论坛 segment (1:09-1:12) shows other speakers and audience, not Fabio, as the earlier run said. BUT at 1:33.7-1:34.8 the 永生之夜 dinner B-roll reuses the shot from BV1X9YR68ETj: Fabio seated at a table in the white linen shirt with the red lanyard, under the caption 科学家 医生 企业家 / 投资人与生物极客. Not named. Proof frame: C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_VG6GUA7FN_t0094.jpg. The decisions.json note says Bilibili BV1Rwh76XEhj is the same video (not re-downloaded here). The exclusion needs Fabio's review. Checked 2026-10-01.
 - 🆕 **2026-09-21** · Menzionato · Sohu (搜狐号) — 时光派 — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 / 第七届国际长寿论坛整体回顾](https://www.sohu.com/a/1078945684_100270039)  
@@ -82,6 +84,8 @@ Anni senza nessun risultato: nessuno
   Repost of the TimePie day-1 report by 长寿科技情报站; same mention. Found via Sogou.
 - 🆕 **2026-09-12** · Video · Bilibili, 时光派官方 (TimePie official, UID 390367147) — [现场速递！第七届国际长寿论坛的“长寿之夜”](https://www.bilibili.com/video/BV1X9YR68ETj/)  
   APPEARS at 0:31.5-0:32.8 (about 1.3 s): seated at a dinner table during the 9.12 永生之夜 biohacker closed-door dinner, talking with a red-haired man in a black T-shirt (back to camera). He wears the same white short-sleeve linen shirt and red TimePie lanyard as in his confirmed BIOHACK.IT talk the same day (BV1u5YX6JECk t0020-0021), same face and haircut. Unmistakable at 1080x1920. Not named in caption, title or description. No danmaku, no subtitles. Proof frames: C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_BV1X9YR68ETj_t0032.jpg, C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_BV1X9YR68ETj_t0031.jpg. Checked 2026-10-01.
+- 🆕 **2026-09-12** · Menzionato · NetEase 网易视频 (时光派 account, T1544287317653) — [满场极客，观点交锋！一群 “不甘心老去” 的探索者相聚极客闭门论坛，现场氛围拉满，明日主论坛精彩继续！](https://www.163.com/v/video/VG5NGRVPI.html) _(non verificato)_  
+  NetEase mirror of Bilibili BV1u5YX6JECk (identical title, same day 2026-09-12 19:31, same 32 s duration). Name NOT in page text/description, so verified=false per the text rule; but visually confirmed 2026-10-09: at ~0:20-0:21 Fabio on stage with the BIOHACK.IT slide ('self-experimentation into evidence'), white shirt, red TimePie lanyard, transcript 'Hacker in a good sense... cyber criminal...'. Contact sheet (2 fps): C:/Users/admin/AppData/Local/Temp/claude/C--Users-admin-Claude/2f9a7be8-ef36-496d-ae5c-13ddcf89ce4e/scratchpad/cn/vg5n_contact_2fps.jpg. Found via so.com query «极客闭门论坛回顾».
 - 🆕 **2026-09-12** · Talk · 7th TimePie Longevity Forum, Shanghai (Biohacker Sub-forum) — [Biohack.It - Open Software for Structured Human Self-Experimentation](https://www.timepielongevityforum.com/2026agenda)  
   15:40-16:05 slot, listed as Biohacker / Tech Entrepreneur
 - 🆕 **2026-09-11** · Menzionato · WeChat — 时光派 (official) — [第七届国际长寿论坛明日启幕！顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://weixin.sogou.com/weixin?type=2&query=%E6%97%B6%E5%85%89%E6%B4%BE+%E7%94%9F%E7%89%A9%E6%9E%81%E5%AE%A2+Fabio&item=2026-09-11)  

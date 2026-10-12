@@ -17423,6 +17423,23 @@
  {
   "date": "2026-09-12",
   "year": 2026,
+  "type": "mentioned",
+  "outlet": "NetEase 网易视频 (时光派 account, T1544287317653)",
+  "title": "满场极客，观点交锋！一群 “不甘心老去” 的探索者相聚极客闭门论坛，现场氛围拉满，明日主论坛精彩继续！",
+  "url": "https://www.163.com/v/video/VG5NGRVPI.html",
+  "language": "zh",
+  "role": "appears (video, speaker at 生物极客闭门论坛)",
+  "note": "NetEase mirror of Bilibili BV1u5YX6JECk (identical title, same day 2026-09-12 19:31, same 32 s duration). Name NOT in page text/description, so verified=false per the text rule; but visually confirmed 2026-10-09: at ~0:20-0:21 Fabio on stage with the BIOHACK.IT slide ('self-experimentation into evidence'), white shirt, red TimePie lanyard, transcript 'Hacker in a good sense... cyber criminal...'. Contact sheet (2 fps): C:/Users/admin/AppData/Local/Temp/claude/C--Users-admin-Claude/2f9a7be8-ef36-496d-ae5c-13ddcf89ce4e/scratchpad/cn/vg5n_contact_2fps.jpg. Found via so.com query «极客闭门论坛回顾».",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_cina_riprese_2026-10-09"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-09-12",
+  "year": 2026,
   "type": "talk",
   "outlet": "7th TimePie Longevity Forum, Shanghai (Biohacker Sub-forum)",
   "title": "Biohack.It - Open Software for Structured Human Self-Experimentation",
@@ -17610,6 +17627,23 @@
    "pass4_cina_wechat_weibo_2026-09-29"
   ],
   "note_fabio": "Risposta di Fabio 2026-10-05: «sì, sono io» (scena della cena a 1:34).",
+  "on_old_site": false
+ },
+ {
+  "date": "2026-10-05",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "WeChat — 长寿科技情报站 (gh_15f7b20393cf)",
+  "title": "以自身试验探索生命边界：极客闭门论坛回顾",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd",
+  "language": "zh",
+  "role": "speaker (TimePie biohacker closed-door forum, 12/09/2026)",
+  "note": "Recap of the 生物极客闭门论坛 of 12/09/2026 at TimePie's 7th International Longevity Forum (Shanghai): «开源抗衰数据平台开发者Fabio Pietrosanti» among the 6 invited biohackers (Jose Cordeiro, Dave Pascoe, Brian M. Delaney, 刘革新...); his talk summarised as «结构化人体自我实验». Image post with 18 photos. Found via Sogou WeChat search in Fabio's Chrome on 2026-10-09; text copied from the DOM, photos downloaded from mmbiz.qpic.cn (copy 2026/0604b9f21c7c). Photo 10 is a captioned stage photo: «Fabio Pietrosanti — 生物极客、科技创业者» with the quote «开源数据与结构化人体自我实验» (first photo of the forum with his name in the caption).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_cina_browser_2026-10-09"
+  ],
   "on_old_site": false
  }
 ]

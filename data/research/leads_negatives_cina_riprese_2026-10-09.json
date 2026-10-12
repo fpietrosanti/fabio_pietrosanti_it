@@ -1,0 +1,176 @@
+[
+ {
+  "query": "Fabio Pietrosanti",
+  "engine": "so.com",
+  "result": "only known URLs (163 L4MH165705345ZH3, secrss 72312, baiyi) + homonyms/unrelated",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "以自身试验探索生命边界",
+  "engine": "so.com",
+  "result": "no reprint of the 长寿科技情报站 article; unrelated results",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "极客闭门论坛回顾",
+  "engine": "so.com",
+  "result": "NEW hit 163.com/v/video/VG5NGRVPI (see raw file); others = older forums (2021-2025)",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "生物极客闭门论坛",
+  "engine": "so.com",
+  "result": "only 2021-2025 TimePie forum articles",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "Pietrosanti 抗衰",
+  "engine": "so.com",
+  "result": "no relevant results (arxiv, Veronica Pietrosanti, Pietrosanti Distribuzione)",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "开源抗衰数据平台",
+  "engine": "so.com",
+  "result": "no relevant results",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "返老还童大赛 Fabio",
+  "engine": "so.com",
+  "result": "only 2025 first-contest article (china.com), no name",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "极客闭门论坛 site:sohu.com",
+  "engine": "so.com",
+  "result": "old TimePie 2021/2023 items only",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "极客闭门论坛 site:163.com",
+  "engine": "so.com",
+  "result": "VG5NGRVPI (hit) + 163 L6LDFJD805345ZH3 (main-forum recap 2026-09-12, opened: no name)",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "极客闭门论坛 时光派 2026",
+  "engine": "so.com",
+  "result": "health.ifeng.com/c/8wPpQn3ZpIx (2026-09-14 forum recap) opened: names Dave Pascoe and Brian M. Delaney for the geek forum, NOT Fabio",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "长寿科技情报站",
+  "engine": "so.com",
+  "result": "no web reprints found for this WeChat account (only Chongqing 长寿区 gov pages)",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "第七届国际长寿论坛 极客",
+  "engine": "so.com",
+  "result": "opened bjnews 1789127898129374 and sdnews t20260911_4737291 (2026-09-11 pre-announcement): no name; 163 VG5NF628J (afternoon main-forum video): no name in text; toutiao 7684946091216863798: JS-rendered, no content via curl",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "永生之夜 时光派",
+  "engine": "so.com",
+  "result": "no relevant results (song/game)",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "Pietrosanti site:sohu.com / site:163.com",
+  "engine": "so.com",
+  "result": "homonyms/unrelated only",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "Pietrosanti site:qq.com / site:toutiao.com / site:zhihu.com",
+  "engine": "so.com",
+  "result": "empty response",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "Pietrosanti site:baijiahao.baidu.com; 皮特罗桑蒂; Fabio 生物极客; biohack.it 抗衰; 以自身试验探索生命边界 极客",
+  "engine": "so.com",
+  "result": "BLOCKED - so.com served a CAPTCHA page after ~25 queries; not bypassed",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "以自身试验探索生命边界：极客闭门论坛回顾; Fabio Pietrosanti 抗衰; 开源抗衰数据平台开发者; 生物极客闭门论坛 2026; Fabio Pietrosanti",
+  "engine": "cn.bing.com",
+  "result": "BLOCKED/unusable - Bing serves an empty 'no results' page to non-JS clients (even for 'Fabio Pietrosanti')",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "Fabio Pietrosanti 抗衰",
+  "engine": "baidu.com",
+  "result": "BLOCKED - 百度安全验证 CAPTCHA",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "以自身试验探索生命边界 极客闭门论坛回顾; Fabio Pietrosanti 抗衰",
+  "engine": "sogou.com/web",
+  "result": "BLOCKED - CAPTCHA",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "以自身试验探索生命边界; 极客闭门论坛回顾; 生物极客闭门论坛",
+  "engine": "weixin.sogou.com",
+  "result": "only the known 长寿科技情报站 2026-10-05 article; no other WeChat copy",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "Pietrosanti",
+  "engine": "weixin.sogou.com",
+  "result": "no 2026 results",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "返老还童大赛 意大利",
+  "engine": "weixin.sogou.com",
+  "result": "no relevant 2026 result",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "开源抗衰数据平台",
+  "engine": "weixin.sogou.com",
+  "result": "known article + 薛点保养 2026-09-30 (mp.weixin, opened: about Longevity-LLMs, no Pietrosanti/Fabio)",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "时光派 Sohu account 100270039 article list (API, pages 1-2, 2026-09-01..10-08)",
+  "engine": "sohu.com",
+  "result": "no Sohu reprint of the geek-forum recap; opened 1072835447 (返老还童大赛 2nd ed. results, 09-08), 1075271769 / 1075273215 (main forum 09-12), 1074903585 (黄金大师课 09-11, LFU topic but no name): none name him",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "时光派 NetEase account T1544287317653 latest list (to 2026-10-08)",
+  "engine": "163.com",
+  "result": "opened 4 articles + 3 videos: no name; video VG750V5EQ (2026-10-04 attendee interviews) checked at 1 fps: Fabio not present",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "\"Pietrosanti\" 抗衰; \"Pietrosanti\" 极客; \"开源抗衰数据平台\"",
+  "engine": "duckduckgo html",
+  "result": "only homonyms / fabio.pietrosanti.it; last query returned an anomaly page",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "\"以自身试验探索生命边界\" 极客闭门论坛回顾",
+  "engine": "WebSearch",
+  "result": "no reprint",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "\"Pietrosanti\" 时光派 生物极客",
+  "engine": "WebSearch",
+  "result": "nothing new",
+  "date_checked": "2026-10-09"
+ },
+ {
+  "query": "时光派 第七届国际长寿论坛 生物极客闭门论坛 Fabio 开源",
+  "engine": "WebSearch",
+  "result": "opened vbdata.cn/1519088197 (2026-08-03 program: geek forum lists de Grey, Cordeiro, Pascoe, Delaney, 中国极客代表 - not Fabio), cn.chinadaily WS6aa3c60fe4b09a165c7898a1 (2026-09-11, no name, via WebFetch), news.qq.com 20260916A0B1W400 and 20260913A07RGP00 (no name). The search-summary claim 'Fabio Pietrosanti (飞比欧)' is NOT supported by any opened page.",
+  "date_checked": "2026-10-09"
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "check": "Douyin search (Chrome di Fabio)",
+  "result": "login obbligatorio, nessuna ricerca anonima"
+ },
+ {
+  "check": "Weibo s.weibo.com (Chrome)",
+  "result": "redirect a passport.weibo.com (login)"
+ },
+ {
+  "check": "Xiaohongshu search (Chrome)",
+  "result": "login obbligatorio"
+ },
+ {
+  "check": "Toutiao so.toutiao.com: «Fabio Pietrosanti», «开源抗衰数据平台 Fabio», «时光派 生物极客 Fabio» (video), «时光派 生物极客闭门论坛»",
+  "result": "nessuna occorrenza (solo omonimi Fabio Biondi/Righi ecc.)"
+ },
+ {
+  "check": "Sogou WeChat: \"Fabio Pietrosanti\", Fabio 生物黑客, Fabio 时光派 抗衰, GlobaLeaks, biohack.it, Hacking Biology, Fabio GlycanAge, Pietrosanti 抗衰, 生物极客闭门论坛, 开源抗衰数据平台 (3 pagine), Pietrosanti (3 pagine), 返老还童大赛 极客, 时光派 极客 Fabio, Fabio Pietrosanti 长寿",
+  "result": "unica voce nuova: 长寿科技情报站 05/10/2026 (aggiunta); il resto omonimi (Santino, Antonio, galleria Pietrosanti G.d.A., esports, paper Giometti-Güler-Pietrosanti)"
+ },
+ {
+  "check": "Bilibili TimePie (UID 390367147) caricamenti 01-08/10/2026",
+  "result": "5 video visti a 1 fps: BV1W4aA6PEre (divulgazione «永生路线图», Turchin), BV1EVap6yEbn, BV1aUad6fEGV, BV1dAaZ6MEcc (interviste a partecipanti del forum, riprese della sala), BV1u7aq6TEM6 (Michael Lustgarten) — Fabio non compare"
+ }
+]

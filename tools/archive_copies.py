@@ -153,10 +153,12 @@ def copy_item(it, out):
     is_media = any(h in url for h in MEDIA_HOSTS)
     target = url
     m = re.match(r"https?://web\.archive\.org/web/(\d+)[a-z_]*/(.+)$", url)
+    ts = ts_for(it)
     if m:
         target = m.group(2)
+        ts = m.group(1)  # the item already names a capture: use exactly that one, not the nearest to its date
     # 1) Web Archive
-    wb = f"https://web.archive.org/web/{ts_for(it)}id_/{target}"
+    wb = f"https://web.archive.org/web/{ts}id_/{target}"
     data, ctype, final, status, err = try_fetch(wb)
     time.sleep(DELAY)
     method = None

@@ -193,6 +193,20 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   VG6GUA7FN / Bilibili BV1Rwh76XEhj (1:33.7-1:34.8, stessa scena: **esclusione del 30/09 annullata**); non compare in
   BV1e2YX6tEqz, BV1YtY96bEhr, BV1w8YX6uENN, BV1SJYe6AEXo (escluse). Fotogrammi salvati nelle copie. Chrome ancora non
   raggiungibile in navigazione il 02/10: Douyin, Weibo, canali video WeChat, Xiaohongshu restano da fare.
+  **Passata 2026-10-09 (Chrome di Fabio finalmente navigabile + agente `pass4_cina_riprese`) → +2 voci.**
+  - **Nuovo articolo WeChat** di 长寿科技情报站 (05/10/2026, «以自身试验探索生命边界：极客闭门论坛回顾»): riepilogo del
+    forum biohacker che lo nomina («开源抗衰数据平台开发者Fabio Pietrosanti») e riassume il suo intervento come «结构化人体
+    自我实验»; post a immagini con **18 foto**, tra cui la **foto 10: tu sul palco con didascalia «Fabio Pietrosanti —
+    生物极客、科技创业者»** e la citazione «开源数据与结构化人体自我实验» (prima foto del forum col tuo nome). Testo dal DOM,
+    foto da mmbiz.qpic.cn (copia `2026/0604b9f21c7c`); il link permanente `__biz/mid/idx/sn` col curl dà la pagina anti-bot.
+  - NetEase `VG5NGRVPI` = copia del Bilibili BV1u5YX6JECk (nome solo a vista; il video resta quello Bilibili).
+  - **Negativi**: Sogou WeChat (14 query, fino a 3 pagine), Toutiao (4 query), Bilibili TimePie 01–08/10 (5 video visti a
+    1 fps: interviste ai partecipanti, divulgazione «永生路线图», Michael Lustgarten — non compari), Sohu/NetEase TimePie
+    01/09–08/10, ifeng, Tencent News, bjnews, Chinadaily; l'articolo di 长寿科技情报站 sulle **tre cene** (07/10, «三场晚宴
+    加持») è stato **cancellato dall'autore** prima che lo leggessi. Bloccati (non aggirati): 360/Baidu/Sogou web (CAPTCHA).
+  - **Douyin, Weibo e Xiaohongshu chiedono il login anche nel tuo Chrome** (non sei loggato su quei siti; non posso creare
+    account) → restano bloccati finché non fai login tu, oppure si chiude la voce. Canali video WeChat: solo app.
+  **Proposta: chiudere la voce** salvo login (domanda in PROBLEMI-APERTI A0-quinquies).
 - [ ] **Progetti mai partiti da documentare** (segnalati da Fabio 18/09): OSSCI – Osservatorio sicurezza dello spazio
   cibernetico italiano (Telegram + documento di specifica, anno da trovare); COVID mappatura focolai con dati di cella;
   COVID vulnerabilità app della Regione Lazio con Giovanni Rocca. Query in coda; cercare anche su Telegram (t.me), GitHub,
