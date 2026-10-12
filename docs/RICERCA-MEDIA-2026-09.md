@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1378**; dopo deduplica: **1001**
+- Risultati grezzi dalle ricerche: **1392**; dopo deduplica: **1013**
 - Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 956**
-- Verificati aprendo la pagina: **941**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 968**
+- Verificati aprendo la pagina: **953**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 177, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 66, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 29, Radio 26, social 23, Libro 22, Articolo scritto 20, Report 20, Comunicato 14, documento 13, Slide 12, Podcast 12, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, programme 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 189, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 66, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 29, Radio 26, social 23, Libro 22, Articolo scritto 20, Report 20, Comunicato 14, documento 13, Slide 12, Podcast 12, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, programme 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -28,15 +28,15 @@ Per tipo (nuovi): Menzionato 177, tweet 132, Talk 78, Post sul blog infosecurity
 | 2007 | 1 | 13 | 10 |
 | 2008 | 0 | 13 | 13 |
 | 2009 | 1 | 46 | 44 |
-| 2010 | 6 | 63 | 53 |
+| 2010 | 6 | 64 | 54 |
 | 2011 | 4 | 27 | 24 |
 | 2012 | 0 | 30 | 30 |
 | 2013 | 0 | 28 | 28 |
 | 2014 | 0 | 28 | 28 |
 | 2015 | 0 | 38 | 38 |
-| 2016 | 0 | 21 | 21 |
-| 2017 | 0 | 69 | 69 |
-| 2018 | 0 | 63 | 63 |
+| 2016 | 0 | 22 | 22 |
+| 2017 | 0 | 70 | 70 |
+| 2018 | 0 | 64 | 64 |
 | 2019 | 0 | 59 | 59 |
 | 2020 | 0 | 166 | 166 |
 | 2021 | 0 | 88 | 88 |
@@ -964,7 +964,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Talk · MOJO Italia - Festival del giornalismo mobile (2a edizione) — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/)  
   Speaker at 2nd edition (announced 2019-02-17) on whistleblowing, privacy and digital anonymity
 
-## 2018 — 63 voci, 63 nuove
+## 2018 — 64 voci, 64 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -996,8 +996,8 @@ Anni senza nessun risultato: nessuno
   Already known (via LinkedIn Pulse by Paola Guarnieri). The original Radio 1 segment was not found on RaiPlay Sound: GR bulletins are not itemised, and RaiPlay Sound started returning HTTP 403 during the scan.
 - 🆕 **2018-08-03** · audio · Rai Radio1 (servizio di Paola Guarnieri, ricaricato su SoundCloud) — [A Padova il raduno degli hacker. Pietrosanti: "Altro che pirati, siamo i cavalieri del web"](https://soundcloud.com/user-873190463/a-padova-il-raduno-degli-hacker-pietrosanti-altro-che-pirati-siamo-i-cavalieri-del-web)  
   Audio (1'07") del servizio andato in onda su Radio1 Rai durante l'Italian Hacker Camp 2018 (Padova, parco Fenice, 2-5 agosto 2018). Traccia SoundCloud id 480604977 caricata il 2018-08-03 dall'account 'flapperG' (Paola Guarnieri, giornalista Rai), la stessa che la incorpora nel suo articolo LinkedIn del 2018-08-04 (già noto). Il nome di Fabio è nel titolo della traccia (verificato via oEmbed e pagina SoundCloud). La pagina originale Rai (radio1.rai.it/GR) non è stata trovata: RaiPlay Sound non ha archivi GR1/Eta Beta/Zapping anteriori al 2021 e il Web Archive non ha catture pertinenti.
-- 🆕 **2018-07-10** · Menzionato · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://cybersecurity.startupitalia.eu/61414-20180710-cyberchallenge-2018-la-nuova-generazione-hacker-etici)  
-  Report: 'Arturo di Corinto, che, in veste di presentatore ha introdotto Fabio Pietrosanti, hacker etico e cyberdefender professionista'; paraphrases Fabio 'Naif' on hacker ethics and cites hackmeeting, Italian Hacker Camp, RomHack, HackInBo; Roberto Baldoni (vice-director DIS) quoted. Ceremony at Museo di Arte Classica, Sapienza.
+- 🆕 **2018-07-10** · Menzionato · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://startupitalia.eu/tech/cybersecurity/cyberchallenge-2018-la-nuova-generazione-di-hacker-etici/)  
+  Nuova URL startupitalia.eu dello stesso articolo: 'Arturo di Corinto ... ha introdotto Fabio Pietrosanti, hacker etico e cyberdefender professionista'.
 - 🆕 **2018-07** · social · LinkedIn (Alessia Valentini) — [Post LinkedIn di Alessia Valentini sul report Cyberchallenge 2018 (StartupItalia)](https://www.linkedin.com/posts/alessiavalentini_cyberchallenge-2018-la-nuova-generazione-activity-6422822442670055424-Z3cz)  
   'il mio secondo report sulla Cyberchallenge 2018 ... Fabio Pietrosanti naif ci ha aiutato a chiarire i concetti'. Pagina pubblica letta (curl).
 - 🆕 **2018-07** · social · LinkedIn (Giovanni Schiavon, ricondivisione) — [Ricondivisione LinkedIn del post di Alessia Valentini su Cyberchallenge 2018](https://www.linkedin.com/posts/giovanni-schiavon-3a2876161_cyberchallenge-2018-la-nuova-generazione-activity-6423252174477750272-6MN2)  
@@ -1082,6 +1082,8 @@ Anni senza nessun risultato: nessuno
   By Federico Martelli; Pietrosanti proposes a hackathon on reuse, says e-voting decisions should have been open from the start
 - 🆕 **2018-01-11** · Ricerca · GitHub cisagov/pshtt — [pshtt #148 «Provide a rating A+ up to F as a simplified selection»](https://github.com/cisagov/pshtt/issues/148)  
   Opened by fpietrosanti on the DHS/CISA HTTPS scanner
+- 🆕 **2018-01-04** · Menzionato · it.euronews.com — [Beppegrillo.it "abusa" dei password manager per tracciare gli utenti](https://it.euronews.com/2018/01/04/il-blog-di-beppe-grillo-abusa-dei-password-manager-per-tracciare-gli-utenti)  
+  verified via wayback; context: …XSS. "La password non viene acquisita per quanto possa essere letta", commenta Dal Checco. "I third-party usati qui sono particolarmente aggressivi", aggiunge Fabio Pietrosanti, fondatore e presidente di Hermes , centro …
 - 🆕 **2018-01** · Video · YouTube - Privacy Camp 2018 — [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) _(non verificato)_  
   EDRi Privacy Camp round table on government hacking; listed on trojansandruleoflaw.org
 - 🆕 **2018-01** · Menzionato · Access Now (event listing), CPDP 2018 Brussels — [Where you can find Access Now at CPDP 2018](https://www.accessnow.org/can-find-access-now-cpdp-2018/)  
@@ -1093,7 +1095,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 69 voci, 69 nuove
+## 2017 — 70 voci, 70 nuove
 
 - 🆕 **2017-12-14** · Ricerca · GitHub avast/retdec — [retdec #29 «Fix Avast File Download Vulnerability»](https://github.com/avast/retdec/issues/29)  
   Opened by fpietrosanti: Avast installer served over HTTP; cites his July-2017 tweet twitter.com/fpietrosanti/status/881888886678581249
@@ -1177,6 +1179,8 @@ Anni senza nessun risultato: nessuno
   Post on his personal blog, author 'Fabio Pietrosanti' (naif) in the restored page (repo fpietrosanti/infosecurity-ch, site/20170610/...). Wayback captures 2017-07-21 and 2017-08-31. Only post after 2011 in the restored blog; found by comparing the restored site with media.json (2026-09-29).
 - 🆕 **2017-05-30** · Comunicato · Hermes Center — [Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE](https://web.archive.org/web/20200607012151/https://www.hermescenter.org/sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise/)  
   FOIA on surveillance-tech export licences sent by president Fabio Pietrosanti; review request (Wayback; old Hermes site removed)
+- 🆕 **2017-05-30** · Menzionato · cild.eu — [Surveillance: Hermes wants review of the FOIA request to Italian Ministry - cild.eu / en](https://cild.eu/en/2017/05/30/surveillance-hermes-asks-for-a-review-of-the-foia-request-sent-to-mise/)  
+  verified via wayback; context: …and published by several newspapers, including La Stampa , Repubblica , L’Espresso and Wired Italia — was followed by an access to information request sent by Fabio Pietrosanti of the Hermes Center for Transparency and D…
 - 🆕 **2017-04-21** · Ricerca · GitHub ooni/probe — [OONI probe #747 «Introduce support for HTTPS security measurement»](https://github.com/ooni/probe/issues/747)  
   Opened by fpietrosanti
 - 🆕 **2017-04-11** · Citato · Wired Italia — [Cybersorveglianza, come le aziende (anche italiane) aiutano Iran e Sud Sudan](https://www.wired.it/internet/regole/2017/04/11/cybersorveglianza-aziende-italiane-iran/)  
@@ -1234,12 +1238,14 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2017** · pagina · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/)  
   Scheda biografica sul vecchio sito Hermes (PrivateWave, hacking community dal 1995, Twitter @fpietrosanti). Capture: https://web.archive.org/web/20210306145428/https://www.hermescenter.org/members/fabio-pietrosanti/ ; versione precedente con 'IRC: naif@irc.oftc.net #globaleaks': https://web.archive.org/web/20171022005215/https://www.hermescenter.org/home/about-mission/people/members/fabio-pietrosanti/ . Lo nominano anche gli elenchi soci /members/, /it/soci/ (capture 20210306140933) e /home/about-mission/people/ (stessa voce, non conteggiati a parte). Verificato sulle copie nello zip Wayback locale.
 
-## 2016 — 21 voci, 21 nuove
+## 2016 — 22 voci, 22 nuove
 
 - 🆕 **2016-12-29** · Talk · 33C3 Chaos Communication Congress, Hamburg (Lightning Talks) — [Robots txt abuses by government agencies against transparency (lightning talk)](https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency)  
   5-min lightning talk, Day 3 14:55; organizer 'Fabio Pietrosanti (naif)', website hermescenter.org; research on Italian PA/EU robots.txt
 - 🆕 **2016-11-23** · Video · Eunews (YouTube) — [Intelligence, privacy e antiterrorismo in Europa](https://www.youtube.com/watch?v=IEViqE1HxfU)  
   How Can We Govern Europe 2016; with Nello Rossi and Marco Valleri
+- 🆕 **2016-11-21** · Menzionato · eunews.it — [HGE3 G2 - 2 Intelligence privacy 1 - Eunews](https://www.eunews.it/2016/11/21/can-govern-europe-3-le-immagini-della-due-giorni/hge3-g2-2-intelligence-privacy-1/)  
+  verified via live; context: …w All Result Home » Politica » How Can We Govern Europe 3, le immagini della due giorni » HGE3 G2 – 2 Intelligence privacy 1 HGE3 G2 – 2 Intelligence privacy 1 Fabio Pietrosanti, Presidente del Hermes Center for Transpar…
 - 🆕 **2016-11-18** · Talk · Eunews - How Can We Govern Europe? (3rd edition), Roma - Radio Radicale — [Terza edizione di "How Can We Govern Europe?" - Intelligence, privacy e antiterrorismo in Europa](https://www.radioradicale.it/scheda/492422/)  
   Panel on intelligence, privacy and anti-terrorism; mass surveillance concerns
 - 🆕 **2016-11-18** · Video · Radio Radicale — [Terza edizione di "How Can We Govern Europe?"](https://www.radioradicale.it/scheda/492422/terza-edizione-di-how-can-we-govern-europe)  
@@ -1596,7 +1602,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2011** · Progetto · GitHub — [fpietrosanti (Fabio (naif) Pietrosanti)](https://github.com/fpietrosanti)  
   GitHub profile, company Hermes Center
 
-## 2010 — 63 voci, 53 nuove
+## 2010 — 64 voci, 54 nuove
 
 - 🆕 **2010-11-02** · Talk · SlideShare (PrivateWave Italia) — [Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryption AGT)](https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072)  
   Slides by Fabio Pietrosanti, CTO PrivateWave (PrivateGSM, ZRTP); date from upload
@@ -1706,6 +1712,8 @@ Anni senza nessun risultato: nessuno
   verified via live; context: …aner wie Flexispy wehren können. Weiterlesen nach der Anzeige Notrax hat seine Ergebnisse auf der Webseite infosecurityguard.com veröffentlicht. Recherchen von Fabio Pietrosanti, dem Gründer des Securstar-Konkurrenten KH…
 - 🆕 **2010-02-02** · Citato · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.csoonline.com/article/524574/malware-cybercrime-accusations-fly-over-voice-encryption-hack.html)  
   John E. Dunn; quotes Pietrosanti (founder/CTO of Khamsa) on SecurStar PBX evidence
+- 🆕 **2010-02-01** · Menzionato · theregister.com — [Voice crypto fails spark astroturf claims](https://www.theregister.com/security/2010/02/01/voice-crypto-fails-spark-astroturf-claims/1395226)  
+  verified via wayback; context: …are technology to come out clean from the tests. REG AD The previously unknown infosecurityguard.com used by Notrax is anonymously registered. Security blogger Fabio Pietrosanti (naif) turned Veronica Mars by baiting a b…
 - 🆕 **2010-02-01** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Dishonest security: The SecurStart GmbH Phonecrypt case](https://web.archive.org/web/2012/http://infosecurity.ch/20100201/dishonest-security-the-securstart-gmbh-case/)  
   Post on his personal blog (site offline; Wayback copy)
 - ↺ **2010-02-01** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Evidence that infosecurityguard.com/notrax is SecurStar GmbH Phonecrypt – A fake independent research on voice crypto](https://web.archive.org/web/2012/http://infosecurity.ch/20100201/evidence-that-infosecurityguard-comnotrax-is-securstar-gmbh-a-fake-independent-research-on-voice-crypto/)  
@@ -1884,12 +1892,12 @@ Anni senza nessun risultato: nessuno
   KNOWN item - verification upgrade. Verbatim from capture https://web.archive.org/web/20070429132253/http://secunia.com:80/advisories/22634 : "Fabio Pietrosanti has reported a security issue with unknown impact in Parallels Desktop for Mac." ... "Provided and/or discovered by : Fabio Pietrosanti"; Release Date 2006-11-06, CVE reference CVE-2006-5817. The known entry is marked verified:false ('credit not confirmable'): it can now be set verified:true with archive_url = the capture above.
 - ↺ **2006-10-27** · Ricerca · Full-Disclosure — [parallels Desktop file permission notice](https://seclists.org/fulldisclosure/2006/Oct/581)  
   Insecure file permissions in Parallels Desktop for Mac; MARC: https://marc.info/?l=full-disclosure&m=116196531422830&w=2
-- ↺ **2006-10-21** · Talk · Hack.lu 2006, Luxembourg — [Exploiting hidden services to setup anonymous communication infrastructure - official agenda (Saturday 21.10.2006, 14:00)](https://web.archive.org/web/20061104182610/http://hack.lu/index.php/Agenda)  
-  Official hack.lu 2006 agenda wiki (Wayback 2006-11-04, page last modified 20 Oct 2006): two-column table 'Friday 20.10.2006 | Saturday 21.10.2006' ... '14:00 Bluetooth Hacking revisited Thierry Zoller & Kevin Finistere | 14:00 Exploiting hidden services to setup anonymous communication infrastructure Fabio Pietrosanti'. Column order (Opening Speech Deraison = Friday, Venema = Saturday) puts his talk on Saturday 21 Oct 2006; media.json has 2006-10-20.
 - ↺ **2006-10-21** · Menzionato · Hack.lu 2006, Luxembourg - speakers list — [Hack.lu 2006 speakers: Fabio Pietrosanti - abstract and biography](https://web.archive.org/web/20061103134031/http://www.hack.lu:80/index.php/List)  
   Hack.lu 2006 'List' page (Wayback 2006-11-03), entry 6 'Fabio Pietrosanti': 'Exploiting hidden services to setup anonymous communication infrastructure: Will be introduced the concepts of anonymous VPN ... with a focus on TOR hidden services ...'. Bio: 'Member of s0ftpj group ... co-organizer of sikurezza.org ... was founder of Italian Blackhats Association ... Teached to the Security Task Force of the Italian National Center of Research ( CNR ) and to the students of Economic University of Castellanza. Is currently working as CTO of KHAMSA SA, a swiss company ...'.
 - ↺ **2006-10-21** · Altro · s0ftpr0ject (s0ftpj.org) - Digital Security docs — [s0ftpj.org docs: hosts 'Exploiting hidden services...' (hack.lu 2006), 'PGP Luci ed ombre' (2005) and 'wireless (in)security: (in)sicurezza dell'802.11' (Webbit 2004, with vodka) by naif](https://s0ftpj.org/en/docs.html)  
   Verbatim entries: "Exploiting hidden services to setup anonymous communication infrastructure (pdf slides) by naif (21 October 2006)"; "PGP Luci ed ombre ... by naif (28 May 2005)"; "wireless (in)security: (in)sicurezza dell'802.11 (pdf and ppt slides) by naif and vodka (07 May 2004)". Linked files as listed on the page: ../docs/hacklu2006_anonymous_communication.pdf, ../docs/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf/.ogg, ../docs/webbit04_wifi.pdf/.ppt. Live page read 2026-10-08. Italian technical community (s0ftpj/BFi) archiving his 2004-2006 work.
+- ↺ **2006-10-20** · Talk · Hack.lu 2006, Luxembourg — [Exploiting hidden services to setup anonymous communication infrastructure](https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208)  
+  Slides (dated 21 Oct 2006) on Tor hidden services
 - ↺ **2006-10-20** · Menzionato · Hack.lu 2006 (official wiki, Speakers page, Web Archive) — [Hack.lu 2006 Speakers: 'Exploiting hidden services to setup anonymous communication infrastructure - Fabio Pietrosanti'](https://web.archive.org/web/20061104181744/http://hack.lu:80/index.php/Speakers)  
   Verbatim: "Exploiting hidden services to setup anonymous communication infrastructure Fabio Pietrosanti" (listed between Sandip Chaudhari and Yen-Ming Chen). Capture 20061104181744 read 2026-10-08. Official programme confirmation of the known SlideShare deck (archive.hack.lu/2006/ slide directory has no file of his).
 - 🆕 **2006-02-10** · Talk · Infosecurity Italia 2006, Milano (Fiera) - Area Demo Sikurezza.org — [Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialità (Venerdì 10, ore 10:00)](https://web.archive.org/web/20060219061042/http://www.sikurezza.org/wiki/Risorse/Infosecurity06)  
@@ -2104,6 +2112,14 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · festivaldelgiornalismo.com — [CURA LE TUE FONTI: COME POTENZIARE LA REDAZIONE CON GLOBALEAKS](https://www.festivaldelgiornalismo.com/cura-le-tue-fonti-come-potenziare-la-redazione-con-globaleaks/)
 - 🆕 Menzionato · festivaldelgiornalismo.com — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/whistleblowing-anonimo-come-ricevere-soffiate-da-fonti-anonime-via-web/)
 - 🆕 Menzionato · journalismfestival.com — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/0/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web)
+- 🆕 Menzionato · barcelonaradical.net — [Globaleaks: primer i únic sistema open source de whistleblowing](https://www.barcelonaradical.net/info/7574/globaleaks-primer-i-unic-sistema-open-source-de-whistleblowing)
+- 🆕 Menzionato · homodigitalis.gr — [Privacy International, Hermes Center, Homo Digitalis and noyb join forces to end mass surveillance practices by facial recognition software company A coalition of civil society organisations consisting of Privacy International, Hermes Center, Homo Digitalis and noyb have today lodged complaints with the competent authorities in Austria, France, Greece, Italy, Greece and the United Kingdom against the company. - Homo digitalis](https://homodigitalis.gr/en/posts/10379/)
+- 🆕 Menzionato · noyb.eu — [L'alleanza per i diritti digitali presenta denunce legali contro la società di riconoscimento facciale Clearview AI](https://noyb.eu/it/lalleanza-i-diritti-digitali-presenta-denunce-legali-contro-la-societa-di-riconoscimento-facciale)
+- 🆕 Menzionato · giornalesm.com — [Hacker sfida Casaleggio: ecco la contro-piattaforma per sostituire Rousseau](https://giornalesm.com/hacker-sfida-casaleggio-ecco-la-contro-piattaforma-per-sostituire-rousseau/)
+- 🆕 Menzionato · ilsussidiario.net — [Open Rousseau: hacker vs Casaleggio/ Contro-piattaforma per sostituire software M5s](https://www.ilsussidiario.net/news/open-rousseau-hacker-vs-casaleggio-contro-piattaforma-per-sostituire-software-m5s/2076827/)
+- 🆕 Menzionato · simpleanalytics.com — [Italian hacktivists against using Google Analytics](https://www.simpleanalytics.com/blog/italian-hacktivists-against-google-analytics)
+- 🆕 Menzionato · meleamspa.com — [Google Analytics viola il GDPR: cause ed effetti di un'altra battaglia nella guerra degli Analytics - Meleam S.p.A.](https://meleamspa.com/google-analytics-viola-gdpr-cause-effetti-battaglia-analytics/)
+- 🆕 Menzionato · easyteam.org — [La risposta alla nuova richiesta di Monitora PA – Un’integrazione – Easyteam.org SRL – Informatica a 360 gradi](https://easyteam.org/easynews/la-risposta-alla-nuova-richiesta-di-monitora-pa-unintegrazione/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

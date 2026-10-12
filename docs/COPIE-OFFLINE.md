@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1001**; già processate: **1167**; ancora da processare: **0**
-- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **833** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **965**
+- Voci in `data/media.json`: **1013**; già processate: **1178**; ancora da processare: **0**
+- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **844** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **976**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
@@ -20,7 +20,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 32 | 0 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 40 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -40,9 +40,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2013 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 24 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 30 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 68 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 52 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2016 | 15 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 69 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 53 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 76 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 159 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 81 | 7 | 0 | 0 | 0 | 0 | 0 |
@@ -306,12 +306,18 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 ## Fonti ottenute in locale
 
 - **None** · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html) · copia: `undated/4a11e866d9e4` (live) · licenza: terzi
+- **None** · easyteam.org — [La risposta alla nuova richiesta di Monitora PA – Un’integrazione – Easyteam.org SRL – Inf](https://easyteam.org/easynews/la-risposta-alla-nuova-richiesta-di-monitora-pa-unintegrazione/) · copia: `undated/0de40922d070` (Web Archive 20251119) · licenza: terzi
+- **None** · giornalesm.com — [Hacker sfida Casaleggio: ecco la contro-piattaforma per sostituire Rousseau](https://giornalesm.com/hacker-sfida-casaleggio-ecco-la-contro-piattaforma-per-sostituire-rousseau/) · copia: `undated/1176c4904a82` (Web Archive 20210215) · licenza: terzi
 - **None** · CRVD — Comitato per i Requisiti del Voto — [Tag: fabio pietrosanti — CRVD](https://hermescenter.github.io/crvd.org-preservation/tag/fabio-pietrosanti/) · copia: `undated/da0bf28b5dbe` (live) · licenza: terzi
 - **None** · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/) · copia: `undated/d749f156c850` (live) · licenza: terzi
+- **None** · homodigitalis.gr — [Privacy International, Hermes Center, Homo Digitalis and noyb join forces to end mass surv](https://homodigitalis.gr/en/posts/10379/) · copia: `undated/09ff6da76ea6` (Web Archive 20220118) · licenza: terzi
+- **None** · meleamspa.com — [Google Analytics viola il GDPR: cause ed effetti di un'altra battaglia nella guerra degli ](https://meleamspa.com/google-analytics-viola-gdpr-cause-effetti-battaglia-analytics/) · copia: `undated/e45a893ec37b` (Web Archive 20220716) · licenza: terzi
+- **None** · noyb.eu — [L'alleanza per i diritti digitali presenta denunce legali contro la società di riconoscime](https://noyb.eu/it/lalleanza-i-diritti-digitali-presenta-denunce-legali-contro-la-societa-di-riconoscimento-facciale) · copia: `undated/619ed9896d8f` (Web Archive 20210601) · licenza: terzi
 - **None** · poul.org — [POuL » Topic: Conferenze](https://poul.org/topic/Conferenze/) · copia: `undated/3d233789630b` (Web Archive 20191122) · licenza: terzi
 - **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner) · copia: `undated/10581a59d966` (Web Archive 20211022) · licenza: terzi
 - **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1) · copia: `undated/2aa62add9a98` (Web Archive 20220712) · licenza: terzi
 - **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/) · copia: `undated/40c7d7ea93ef` (Web Archive 20210929) · licenza: terzi
+- **None** · barcelonaradical.net — [Globaleaks: primer i únic sistema open source de whistleblowing](https://www.barcelonaradical.net/info/7574/globaleaks-primer-i-unic-sistema-open-source-de-whistleblowing) · copia: `undated/116b72e61bd7` (Web Archive 20150425) · licenza: terzi
 - **None** · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b) · copia: `undated/3bcce2091e75` (Web Archive 20201101) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [CURA LE TUE FONTI: COME POTENZIARE LA REDAZIONE CON GLOBALEAKS](https://www.festivaldelgiornalismo.com/cura-le-tue-fonti-come-potenziare-la-redazione-con-globaleaks/) · copia: `undated/f09e9636bd8b` (Web Archive 20240713) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [Hacker’s corner: intercettazioni telefoniche nell’era dell’Nsa data gate](https://www.festivaldelgiornalismo.com/hacker%E2%80%99s-corner-intercettazioni-telefoniche-nell%E2%80%99era-dell%E2%80%99nsa-data-gate/) · copia: `undated/ff05289091bb` (Web Archive 20241211) · licenza: terzi
@@ -320,10 +326,12 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · festivaldelgiornalismo.com — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2018/firewalls) · copia: `undated/edad77b59ceb` (live) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [Tecniche di dissidenza e repressione digitale](https://www.festivaldelgiornalismo.com/tecniche-di-dissidenza-e-repressione-digitale-2/) · copia: `undated/663ab2708519` (Web Archive 20240725) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/whistleblowing-anonimo-come-ricevere-soffiate-da-fonti-anonime-via-web/) · copia: `undated/85d6779aed13` (Web Archive 20240713) · licenza: terzi
+- **None** · ilsussidiario.net — [Open Rousseau: hacker vs Casaleggio/ Contro-piattaforma per sostituire software M5s](https://www.ilsussidiario.net/news/open-rousseau-hacker-vs-casaleggio-contro-piattaforma-per-sostituire-software-m5s/2076827/) · copia: `undated/7ac3c3c830f2` (Web Archive 20201029) · licenza: terzi
 - **None** · journalismfestival.com — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/0/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `undated/090766fb9138` (live) · licenza: terzi
 - **None** · journalismfestival.com — [Wiretappings and secure communications](https://www.journalismfestival.com/programme/2018/intercettazioni-e-comunicazioni-confidenziali) · copia: `undated/0b92a888c870` (live) · licenza: terzi
 - **None** · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/) · copia: `undated/5ad9adf41ff0` (Web Archive 20150721) · licenza: terzi
 - **None** · sfscon.it — [Fabio Pietrosanti (naif) - SFSCON](https://www.sfscon.it/speakers/fabio-pietrosanti-naif/) · copia: `undated/08fa433c4cf4` (live) · licenza: terzi
+- **None** · simpleanalytics.com — [Italian hacktivists against using Google Analytics](https://www.simpleanalytics.com/blog/italian-hacktivists-against-google-analytics) · copia: `undated/c0af0e631b50` (Web Archive 20221029) · licenza: terzi
 - **None** · sohu.com — [逆龄16岁！日吞70粒补剂、电击肌肉，月烧600欧](https://www.sohu.com/a/1064715918_100270039) · copia: `undated/9066a1a05fca` (live) · licenza: terzi
 - **None** · startmag.it — [Come (non) fare un'app anti Covid-19. L'appello di esperti e prof.](https://www.startmag.it/innovazione/come-non-fare-unapp-anti-covid-19-lappello-di-esperti-e-prof/) · copia: `undated/d3a3ba85358a` (Web Archive 20200423) · licenza: terzi
 - **None** · today.it — [Nella cyber war l'Italia affida i suoi segreti all'antivirus russo](https://www.today.it/tech/cyber-guerra-ucraina-russia-rischi-italia.html) · copia: `undated/3e6c9e670f0f` (Web Archive 20220302) · licenza: terzi
@@ -734,6 +742,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · GitHub NullHypothesis/exitmap — [exitmap #36 «Improve transparent HTTP proxy detection with SSL test on port 80»](https://github.com/NullHypothesis/exitmap/issues/36) · copia: `2016/b310a8b4befb` (api) · licenza: propria
 - **2016** · Tor Project (GitLab, ex Trac) — [Ticket #17975 «Introduce OutboundExitAddress to enable exit-only traffic to go via a diffe](https://gitlab.torproject.org/tpo/core/tor/-/work_items/17975) · copia: `2016/469cf926b0d1` (api) · licenza: propria
 - **2016** · MOCA 2016 - Metro Olografix Camp (Pescar — [GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani](https://moca2016.olografix.org/it/employees/fabio-naif-pietrosanti/) · copia: `2016/36d536a6070d` (live) · licenza: terzi
+- **2016** · eunews.it — [HGE3 G2 - 2 Intelligence privacy 1 - Eunews](https://www.eunews.it/2016/11/21/can-govern-europe-3-le-immagini-della-due-giorni/hge3-g2-2-intelligence-privacy-1/) · copia: `2016/4fd2f13ecaf0` (live) · licenza: terzi
 - **2016** · LineaEDP — [Cyber sicurezza: attacco a Renzi sulla nomina Carrai](https://www.lineaedp.it/categorie-funzionali/home-page/primo-piano/cyber-sicurezza-attacco-a-renzi-sulla-nomina-carrai/) · copia: `2016/9436b6f13785` (live) · licenza: terzi
 - **2016** · OSCE, Office of the Representative on Fr — [Biographies - Gaining a Digital Edge: Freedom of Expression, Vienna, 14-15 September 2016](https://www.osce.org/representative-on-freedom-of-media/263301) · copia: `2016/a5d1e3f9a943` (Web Archive 20200218) · licenza: terzi
 - **2016** · OSCE Representative on Freedom of the Me — [BIOS - conference speaker biographies incl. Fabio Pietrosanti](https://www.osce.org/sites/default/files/f/documents/4/9/263301_0.pdf) · copia: `2016/08ad988ef917` (live) · licenza: terzi
@@ -755,6 +764,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · Boing Boing — [Italy unveils a legal proposal to regulate government hacking](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html) · copia: `2017/d316cfd30704` (Web Archive 20170215) · licenza: terzi
 - **2017** · Mozilla Bugzilla — [Bug 1303739 «Warn when downloading executable files over HTTP» (comments by naif)](https://bugzilla.mozilla.org/show_bug.cgi?id=1303739) · copia: `2017/de839b12ee0a` (Web Archive 20190612) · licenza: propria
 - **2017** · Business Follows srl (Roma) — Testimonia — [Fabio Pietrosanti (Naif) – Founder, President Hermes Center for Trasparency and Digital Hu](https://businessfollows.com/testimonials/fabio-pietrosanti-naif-founder-president-hermes-center-trasparency-digital-human-rights/) · copia: `2017/4e89c9dd27d9` (Web Archive 20201022) · licenza: terzi
+- **2017** · cild.eu — [Surveillance: Hermes wants review of the FOIA request to Italian Ministry - cild.eu | en](https://cild.eu/en/2017/05/30/surveillance-hermes-asks-for-a-review-of-the-foia-request-sent-to-mise/) · copia: `2017/ac6525573dfc` (Web Archive 20170614) · licenza: terzi
 - **2017** · Citizen Lab, Munk School of Global Affai — [Who's Watching Little Brother? A Checklist for Accountability in the Industry Behind Gover](https://citizenlab.ca/wp-content/uploads/2017/03/citizenlab_whos-watching-little-brother.pdf) · copia: `2017/8c507215d23b` (Web Archive 20180228) · licenza: terzi
 - **2017** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #18472 «Enforce the uses of HTTPS for all websites of VLC/videolan.org to preve](https://code.videolan.org/videolan/vlc/-/work_items/18472) · copia: `2017/5ec30f01b033` (Web Archive 20210502) · licenza: propria
 - **2017** · repubblica.it — [Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Clou](https://dicorinto.it/testate/repubblica-it/la-repubblica-cia-wikileaks-siamo-molto-piu-vulnerabili-con-linternet-delle-cose-il-mobile-e-il-cloud/) · copia: `2017/0ae276c52e4c` (Web Archive 20191214) · licenza: terzi
@@ -845,6 +855,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · GitHub cisagov/pshtt — [pshtt #148 «Provide a rating A+ up to F as a simplified selection»](https://github.com/cisagov/pshtt/issues/148) · copia: `2018/75a457a7f936` (api) · licenza: propria
 - **2018** · Tor Project GitLab (ex trac) — [Tor TPA #40397 «Introduce TLS MITM Detection on Tor Project websites»](https://gitlab.torproject.org/tpo/tpa/team/-/work_items/40397) · copia: `2018/8f7fb12c28ad` (api) · licenza: propria
 - **2018** · Tor Project GitLab (ex trac) — [Tor web #133 «Introduce TLS MITM Detection on Tor Project websites»](https://gitlab.torproject.org/tpo/web/tpo/-/work_items/133) · copia: `2018/df574241acf4` (api) · licenza: propria
+- **2018** · it.euronews.com — [Beppegrillo.it "abusa" dei password manager per tracciare gli utenti](https://it.euronews.com/2018/01/04/il-blog-di-beppe-grillo-abusa-dei-password-manager-per-tracciare-gli-utenti) · copia: `2018/b51faaeb000b` (Web Archive 20180104) · licenza: terzi
 - **2018** · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri) · copia: `2018/961477acc443` (Web Archive 20180409) · licenza: terzi
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/) · copia: `2018/7e2f69f4b97b` (Web Archive 20250811) · licenza: terzi
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180302-2024.mp3) · copia: `2018/c539f62a311d` (live) · licenza: terzi

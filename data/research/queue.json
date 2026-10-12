@@ -877,39 +877,51 @@
   },
   {
    "query": "\"Pietrosanti\" GlobaLeaks -site:globaleaks.org",
-   "status": "retry",
+   "status": "done",
    "pages": 3,
-   "note": "2026-10-12: pagine 1-2 fatte (18 risultati, tutti gia' in archivio), robot check alla pagina 3"
+   "date": "2026-10-12",
+   "found": 9
   },
   {
    "query": "\"naif\" \"Pietrosanti\" hacker",
-   "status": "retry",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 17
   },
   {
    "query": "\"Pietrosanti\" \"Hermes Center\"",
-   "status": "retry",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 17
   },
   {
    "query": "\"Pietrosanti\" OpenRousseau OR Rousseau M5S",
-   "status": "retry",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 20
   },
   {
    "query": "\"Raffaele Angius\" M5S doppia iscrizione Pietrosanti",
-   "status": "retry",
-   "pages": 1
+   "status": "done",
+   "pages": 1,
+   "date": "2026-10-12",
+   "found": 6
   },
   {
    "query": "\"Pietrosanti\" \"Monitora PA\" OR MonitoraPA Google Analytics",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 19
   },
   {
    "query": "\"Pietrosanti\" PrivateGSM OR PrivateWave OR Khamsa",
-   "status": "pending",
-   "pages": 2
+   "status": "retry",
+   "pages": 2,
+   "note": "2026-10-12 16:40: robot check Google alla pagina 1"
   },
   {
    "query": "\"Pietrosanti\" CRVD \"voto elettronico\"",
@@ -1467,6 +1479,14 @@
    "captcha": true,
    "confirmed_new": 2,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa. Query AIRE voto elettronico (9 risultati) e Hermes Center AIRE (2): nessuna voce nuova (radioradicale libro bianco, open.gov.it IRM senza il nome di Fabio). '\"Fabio Pietrosanti\"' 5 pagine (48 risultati): quasi tutto gia' in archivio; nuove SFSCON pagina relatore e POuL 'Conferenze' (Sicurezza e Privacy con GlobaLeaks). Scribd 777154998 escluso (non verificabile, possibile omonimo autore 'Hodex'); it.wikipedia GlobaLeaks gia' presente come mirror. Scartati senza verifica: LinkedIn/Instagram/Facebook/Amazon (omonimo autore Hodex), tweet propri, forum.italia.it, villaggiomusicale/turismoroma (omonimi). Link YouTube delle pagine 2 e 4 persi (query string rimossa) - riprendere. Robot check alla pagina 3 di '\"Pietrosanti\" GlobaLeaks -site:globaleaks.org': stop, non aggirato; GlobaLeaks, naif, Hermes Center, Rousseau, Angius messe in retry. 2 confermate, 2 copie ottenute."
+  },
+  {
+   "date": "2026-10-12 16:40",
+   "engine": "google-chrome",
+   "searched": 7,
+   "captcha": true,
+   "confirmed_new": 11,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa. Ripresa delle 5 query in retry: GlobaLeaks pag. 3, naif hacker (2 pag.), Hermes Center (2), Rousseau (2), Angius (1); poi Monitora PA (2). 56 candidati: 11 voci nuove (barcelonaradical GlobaLeaks, cild.eu FOIA MISE 2017, eunews HGE3 2016, homodigitalis + noyb Clearview, giornalesm + ilsussidiario Open Rousseau, euronews IT 2018 password manager, simpleanalytics, meleamspa, easyteam Monitora PA), tutte con copia offline. Esclusa news.dyne.org 'In memory of Carola Frediani' (firmatari, analoga a 'Ciao, Carola' gia' esclusa da Fabio). Respinte senza il nome: wikiwand, romhack, PDF uniroma2/iccorinaldo/rai Procaccianti/qfiumicino/lancorastorico/icpurificato, ilblogdellestelle, home monitora-pa.it. Scartati senza verifica: tweet propri, LinkedIn/Facebook, forum.italia.it, liste nexa/autistici (mailing list), github, schede Radio Radicale di terzi. Robot check alla query PrivateGSM/PrivateWave/Khamsa: stop, non aggirato, messa in retry. Prossimo blocco: PrivateWave (retry), CRVD voto elettronico, filetype:pdf, intervista/interview."
   }
  ]
 }
