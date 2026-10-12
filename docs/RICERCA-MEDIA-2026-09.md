@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1344**; dopo deduplica: **981**
-- Già presenti sul vecchio sito: **42** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 939**
-- Verificati aprendo la pagina: **921**; solo da risultato di ricerca: **60**
+- Risultati grezzi dalle ricerche: **1358**; dopo deduplica: **990**
+- Già presenti sul vecchio sito: **44** (su 35 voci elencate lì)
+- **Nuovi rispetto al vecchio sito: 946**
+- Verificati aprendo la pagina: **930**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 175, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 65, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 28, Radio 27, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 12, Podcast 11, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, panel 4, pagina 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 175, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 66, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 28, Radio 26, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 12, Podcast 12, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -27,23 +27,23 @@ Per tipo (nuovi): Menzionato 175, tweet 132, Talk 78, Post sul blog infosecurity
 | 2006 | 4 | 9 | 3 |
 | 2007 | 1 | 13 | 10 |
 | 2008 | 0 | 13 | 13 |
-| 2009 | 1 | 44 | 42 |
-| 2010 | 6 | 59 | 51 |
+| 2009 | 1 | 45 | 43 |
+| 2010 | 6 | 63 | 53 |
 | 2011 | 4 | 27 | 24 |
 | 2012 | 0 | 28 | 28 |
 | 2013 | 0 | 28 | 28 |
 | 2014 | 0 | 28 | 28 |
-| 2015 | 0 | 36 | 36 |
+| 2015 | 0 | 37 | 37 |
 | 2016 | 0 | 21 | 21 |
-| 2017 | 0 | 68 | 68 |
-| 2018 | 0 | 59 | 59 |
+| 2017 | 0 | 69 | 69 |
+| 2018 | 0 | 60 | 60 |
 | 2019 | 0 | 59 | 59 |
 | 2020 | 0 | 165 | 165 |
 | 2021 | 0 | 88 | 88 |
 | 2022 | 0 | 59 | 59 |
 | 2023 | 0 | 14 | 14 |
 | 2024 | 0 | 12 | 12 |
-| 2025 | 0 | 10 | 10 |
+| 2025 | 0 | 11 | 11 |
 | 2026 | 0 | 37 | 37 |
 
 Anni senza nessun risultato: nessuno
@@ -125,7 +125,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2026** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
   «Dott. Fabio Pietrosanti» nel comitato tecnico di esperti dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino; confermato da Fabio il 2026-10-07 (data di nomina non indicata nella pagina).
 
-## 2025 — 10 voci, 10 nuove
+## 2025 — 11 voci, 11 nuove
 
 - 🆕 **2025-08-13** · Libro · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Author: Bruce L. Mann (ISBN 9798337331287). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking, Boing ...'.
@@ -133,16 +133,18 @@ Anni senza nessun risultato: nessuno
   Verified: "Secondo Fabio Pietrosanti, Direttore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali, le forze dell'ordine italiane hanno un accesso privilegiato alle tecnologie di sorveglianza". datePublished 2025-07-16.
 - 🆕 **2025-06-27** · Video · Facebook – pagina «Codice Barbara Carfagna» (giornalistaRaiuno) — [Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Alberto Carrara! (dietro le quinte di Codice, Rai 1)](https://www.facebook.com/giornalistaRaiuno/videos/-quando-anche-il-biohacker-fabio-pietrosanti-ha-bisogno-di-una-sistemata-ci-pens/4033172536901428/)  
   Reel ufficiale della pagina del programma Codice (canonical: https://www.facebook.com/reel/4033172536901428/). og:title letto 2026-10-07: «Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Alberto Carrara! ... siamo prontissimi per la puntata di stasera ... in seconda serata su Rai1 #CODICE #BarbaraCarfagna #Biohacking». Video promo/backstage della puntata Codice 27/06/2025 (gia' nota). Data assente nei metadati: 'puntata di stasera' -> pubblicato il giorno della messa in onda (26 o 27/06/2025; la puntata era alle 00:20 del 27). Pagina social di un programma Rai, non un articolo. | Data corretta: yt-dlp timestamp 1751048393 = 27/06/2025 (giorno della puntata).
-- 🆕 **2025-06-27** · TV · Rai 1 - Codice, la vita è digitale — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.raiplay.it/video/2025/06/Fabio-Pietrosanti-e-Don-Alberto-Carrara---Codice-27062025-42ad6af2-1f36-4f24-b8fe-58e999a9e0cd.html)  
-  Official RaiPlay page of the already-known clip (YouTube Amy7OyM7exo). RaiPlay metadata: channel Rai 1, date 27-06-2025, form 'clip', description 'Fabio Pietrosanti e Don Alberto Carrara sulle interazioni macchina-cervello.' (Stagione 2025, Servizi e interviste).
-- 🆕 **2025-06-27** · TV · Rai 1 - Codice, la vita è digitale — [Codice, la Vita è digitale - Puntata del 27/06/2025 Biohacking](https://www.raiplay.it/video/2025/06/Codice-la-Vita-e-digitale---Puntata-del-27062025-50a78412-6520-4ded-939d-c1b549204976.html)  
-  Full episode (integrale, 01:14:49) containing the known clip. RaiPlay description names him: 'il noto hacker Fabio Naif che applica le conoscenze informatiche al #biohacking suo corpo, ci mette in guardia: se non innalziamo le difese saremo tutti connessi a morte'. Same episode has clips 'Hackerare il corpo', 'Giovanni Brandi', 'Social freezing' (these do not name him).
+- 🆕 **2025-06-27** · TV · Rai 1 - Codice, la Vita è digitale — [Codice, la Vita è digitale - Puntata del 27/06/2025 Biohacking](https://www.raiplay.it/video/2025/06/Codice-la-Vita-e-digitale---Puntata-del-27062025-50a78412-6520-4ded-939d-c1b549204976.html)  
+  Ri-verificato via JSON RaiPlay (programma codice-lavitaedigitale, 869 voci, tutte le stagioni): descrizione «il noto hacker Fabio Naif...». Solo questa puntata e la clip sotto lo nominano.
+- 🆕 **2025-06-27** · Video · Rai 1 - Codice, la Vita è digitale — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.raiplay.it/video/2025/06/Fabio-Pietrosanti-e-Don-Alberto-Carrara---Codice-27062025-42ad6af2-1f36-4f24-b8fe-58e999a9e0cd.html)  
+  Ri-verificato via JSON RaiPlay: «Fabio Pietrosanti e Don Alberto Carrara sulle interazioni macchina-cervello.»
+- 🆕 **2025-06-27** · TV · Rai - Codice, la vita è digitale (Rai 1) — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.youtube.com/watch?v=Amy7OyM7exo)  
+  RAI TV segment on brain-machine interaction (biohacking/neurotech)
 - 🆕 **2025-02-21** · Libro · Oxford University Press — [Political Automation: An Introduction to AI in Government and Its Impact on Citizens](https://books.google.com/books?id=xRREEQAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Author: Eduardo Albrecht (ISBN 9780197696972). Has a profile section: 'Fabio Pietrosanti - Hermes Center. Fabio Pietrosanti's career in technology and security spans from early hacking endeavors to entrepreneurship. Engaging in cyber security since 2000, he co-founded the Hermes Center ...'. Role 'interviewed' is probable (contributor-profile format), not confirmed.
-- 🆕 **2025-01-31** · TV · Rai 1 - Tv7 (settimanale del Tg1) — [La guerra delle app - Tv7 31/01/2025](https://www.raiplay.it/video/2025/02/La-guerra-delle-app---Tv7-31012025-2de12a1e-489c-49bb-8b4d-77929aec7ba0.html)  
-  Reportage by Barbara Carfagna (clip 00:08:46) on DeepSeek and Chinese AI apps. Description: 'Tv7 ne ha parlato con l'esponente di punta dell'AI italiana, Marco Trombetti e, dalla Cina, con l'hacker Fabio Pietrasanti, esperto di cybersecurity.' Surname misspelled 'Pietrasanti' by Rai; identified as him (hacker/cybersecurity, interviewed from China, same Carfagna team as Codice Beta 01/2025). Audio version on RaiPlay Sound: https://www.raiplaysound.it/audio/2025/02/La-guerra-delle-app---Tv7-31012025-644856e0-7f75-45af-aff0-9db3e4c843ea.html
-- 🆕 **2025-01-17** · Radio · Rai Radio 1 / RaiPlay Sound - Codice Beta, ogni cosa è digitale (podcast) — [Codice Beta S04EP08 - Io, biohacker, che testo sul mio corpo i segreti della longevità](https://www.raiplaysound.it/audio/2025/01/Codice-Beta-S04EP08-Io-biohacker-che-testo-sul-mio-corpo-i-segreti-della-longevita-42dd7997-10f4-4587-8767-e51e5fec0fbb.html)  
-  Radio 1 Rai podcast by Massimo Cerofolini and Barbara Carfagna (00:41:25). Description: 'Ospite: Fabio Pietrosanti, detto Naif, biohacker, che sperimenta su se stesso le tecniche più innovative per il ringiovanimento...'. Also features Aubrey de Grey, Teemu Arina, Linnea Passaler.
+- 🆕 **2025-01-31** · TV · Rai 1 - Tv7 — [La guerra delle app - Tv7 31/01/2025](https://www.raiplay.it/video/2025/02/La-guerra-delle-app---Tv7-31012025-2de12a1e-489c-49bb-8b4d-77929aec7ba0.html)  
+  Ri-verificato via JSON RaiPlay (programma tv7, 1749 voci): descrizione con refuso «dalla Cina, con l'hacker Fabio Pietrasanti, esperto di cybersecurity». Unica voce Tv7 con il nome (cercata anche la grafia Pietrasanti).
+- 🆕 **2025-01-16** · Podcast · Rai Radio 1 / RaiPlay Sound - Codice Beta — [Codice Beta S04EP08 Io, biohacker, che testo sul mio corpo i segreti della longevità](https://www.raiplaysound.it/audio/2025/01/Codice-Beta-S04EP08-Io-biohacker-che-testo-sul-mio-corpo-i-segreti-della-longevita-42dd7997-10f4-4587-8767-e51e5fec0fbb.html)  
+  Ri-verificato 2026-10-12 via JSON RaiPlay Sound (.json della puntata e lista completa del programma codicebeta-ognicosaedigitale, 70 puntate 2020-2025): descrizione «Ospite: Fabio Pietrosanti, detto Naif, biohacker...». create_date nel JSON 16-01-2025 (media.json ha 2025-01-17). Unica puntata di Codice Beta che lo nomina.
 - 🆕 **2025-01-05** · TV · Rai 1 - Speciale Tg1 — [Pionieri di longevità - Biohacker - Speciale Tg1, puntata del 05/01/2025](https://www.raiplay.it/video/2025/01/Speciale-Tg1---Pionieri-di-longevita-Biohacker---Puntata-del-05012025-296d47d6-0a82-4988-8734-aaf1b31b0f6e.html) _(non verificato)_  
   INFERRED, NOT VERIFIED. Rai 1 special (integrale 01:06:21) on biohackers; same Carfagna production period and same cast (Aubrey de Grey, Teemu Arina) as Codice Beta 17/01/2025 where he is the named guest. The RaiPlay description does not name him; video content not checked.
 - 🆕 **2025-01-05** · TV · Rai 1 - Tg1 (servizio di Barbara Carfagna) — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html)  
@@ -306,8 +308,8 @@ Anni senza nessun risultato: nessuno
   Post urging ACN to mandate Kaspersky replacement; date derived from post ID
 - 🆕 **2022-03-05** · Radio · Rai Radio1 - Eta Beta (listed on dicorinto.it) — [Intervista Arturo Di Corinto a RadioRaiUno - Eta Beta - 5 Marzo 2022](https://dicorinto.it/tipologia/interviste/intervista-arturo-di-corinto-a-radioraiuno-eta-beta-5-marzo-2022/)  
   'Ospiti: Arturo Di Corinto...; Fabio Pietrosanti, presidente Centro Hermes per i diritti umani digitali; Stefano Mele...'
-- 🆕 **2022-03-05** · Radio · Rai Radio 1 - Eta Beta — [Eta Beta del 05/03/2022 - Guerre di rete, ecco chi sono i soldati del cyberspazio](https://www.raiplaysound.it/audio/2022/03/Eta-Beta-del-05032022-bfe193b3-3441-4fe7-875e-6d26d85e70f0.html)  
-  Radio 1 Rai, conducted by Massimo Cerofolini (00:27:22), on cyberwar in the Ukraine war (Anonymous, GRU, Conti). Description: 'Ospiti: Arturo Di Corinto ...; Fabio Pietrosanti, presidente Centro Hermes per i diritti umani digitali; Stefano Mele ...'.
+- 🆕 **2022-03-05** · Radio · Rai Radio 1 - Eta Beta — [Eta Beta del 05/03/2022](https://www.raiplaysound.it/audio/2022/03/Eta-Beta-del-05032022-bfe193b3-3441-4fe7-875e-6d26d85e70f0.html)  
+  Ri-verificato via JSON RaiPlay Sound (lista completa Eta Beta 2021-2026, 273 puntate): unica puntata con il suo nome nella descrizione («Fabio Pietrosanti, presidente Centro Hermes...»).
 - 🆕 **2022-03-02** · Menzionato · Il Riformista — [La sicurezza italiana in mano a Kaspersky, l'azienda: "Nessun legame con Putin". Ma i conti non tornano…](https://www.ilriformista.it/la-sicurezza-italiana-in-mano-a-kaspersky-lazienda-nessun-legame-con-putin-ma-i-conti-non-tornano-283463/)  
   Follow-up referencing his interview and the parliamentary inquiry it prompted
 - 🆕 **2022-02-28** · Citato · Startmag — [Anonymous, c'è un caso Kaspersky in Italia?](https://www.startmag.it/innovazione/anonymous-ce-un-caso-kaspersky-in-italia/)  
@@ -960,7 +962,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Talk · MOJO Italia - Festival del giornalismo mobile (2a edizione) — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/)  
   Speaker at 2nd edition (announced 2019-02-17) on whistleblowing, privacy and digital anonymity
 
-## 2018 — 59 voci, 59 nuove
+## 2018 — 60 voci, 60 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -1012,6 +1014,8 @@ Anni senza nessun risultato: nessuno
   Speakers page bio 'Fabio Pietrosanti (HERMES Center) ... soprannome "naif"'
 - 🆕 **2018-06-08** · Radio · Radio Radicale — [Singolarità ... - XXIII edizione di e-privacy (prima giornata)](https://www.radioradicale.it/scheda/543790/)  
   'Big Brother Awards - Fabio Pietrosanti fondatore del Centro Hermes ..., Marco Calamari, Emmanuele Somma 15:22'
+- 🆕 **2018-06-08** · evento · e-privacy XXIII (2018 summer), Bologna - Progetto Winston Smith — [e-privacy XXIII - interventi: Big Brother Awards Italia 2018 (Fabio Pietrosanti, HERMES Center)](https://e-privacy.winstonsmith.org/e-privacy-XXIII-interventi.html)  
+  Abstract page: 'Big Brother Awards Italia 2018 - Fabio Pietrosanti (HERMES Center)' with BBA description. Edition page, video and BBA site already known.
 - 🆕 **2018-06-08** · Video · Radio Radicale — [Singolarità. Come l'IoT, l'A.I., le fake news e le bolle informative ci obbligano a ripensare il concetto di privacy - XXIII edizione di e-privacy](https://www.radioradicale.it/scheda/543790/singolarita-come-liot-lai-le-fake-news-e-le-bolle-informative-ci-obbligano-a-ripensare)  
   e-privacy 2018 Bologna; presented Big Brother Awards Italia 2018
 - 🆕 **2018-05-18** · Citato · Copernicani — [Un Ministro per il Digitale: i sostenitori del nostro appello](https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/)  
@@ -1081,7 +1085,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 68 voci, 68 nuove
+## 2017 — 69 voci, 69 nuove
 
 - 🆕 **2017-12-14** · Ricerca · GitHub avast/retdec — [retdec #29 «Fix Avast File Download Vulnerability»](https://github.com/avast/retdec/issues/29)  
   Opened by fpietrosanti: Avast installer served over HTTP; cites his July-2017 tweet twitter.com/fpietrosanti/status/881888886678581249
@@ -1157,6 +1161,8 @@ Anni senza nessun risultato: nessuno
   Speakers page bio 'Fabio Pietrosanti (HERMES) Fabio Pietrosanti frequenta, con il soprannome "naif" ...'
 - 🆕 **2017-06-23** · Radio · Radio Radicale — [e-privacy 2017 summer edition - Parole (ostili) contro la Rete (prima giornata)](https://www.radioradicale.it/scheda/512627/)  
   Interventions: 'Fabio Pietrosanti fondatore del Centro Hermes ... 11:19 Durata: 2 min 34 sec' and '11:23 Durata: 3 min 8 sec' (alternating with Coluccini)
+- 🆕 **2017-06-23** · evento · e-privacy XXI (2017 summer), Lucca - Progetto Winston Smith — [e-privacy XXI - interventi: 'Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza' (Coluccini, Pietrosanti)](https://e-privacy.winstonsmith.org/e-privacy-XXI-interventi.html)  
+  Abstract page: 'Coluccini, Riccardo, Pietrosanti, Fabio (Hermes)'. Edition page and atti PDFs already known.
 - 🆕 **2017-06-23** · Video · Radio Radicale — [e-privacy 2017 summer edition - Parole (ostili) contro la Rete: l'involuzione della percezione della Rete (prima giornata)](https://www.radioradicale.it/scheda/512627/e-privacy-2017-summer-edition-parole-ostili-contro-la-rete-linvoluzione-della)  
   Lucca; with Riccardo Coluccini on monitoring government surveillance via transparency laws
 - 🆕 **2017-06-10** · article · infosecurity.ch — [Low Liability - Reduced Abuses Tor Exit Nodes](https://web.archive.org/web/20170721022433/http://infosecurity.ch:80/20170610/low-liability-reduced-abuses-tor-exit-nodes/)  
@@ -1265,7 +1271,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · magazine · Polityka (Wydawnictwo Prasowe Polityka), 2016 bound volume — [Polityka 2016 (article on GlobaLeaks)](https://books.google.com/books?id=RyCG694TkQAC)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Polish weekly, 2016 volume (exact issue unknown). Snippet: '... GlobaLeaks (Globalne Przecieki), którą stworzyli włoscy hakerzy Fabio Pietro-santi i Arturo Filastò dla fundacji Hermes Center for Transparency and Digital Human Rights ...'.
 
-## 2015 — 36 voci, 36 nuove
+## 2015 — 37 voci, 37 nuove
 
 - 🆕 **2015-11-02** · Citato · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/)  
   verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…
@@ -1291,6 +1297,8 @@ Anni senza nessun risultato: nessuno
   Speakers page has bio 'Fabio Pietrosanti (HERMES) ... frequenta con il soprannome "naif" l'underground ...'
 - 🆕 **2015-07-03** · Radio · Radio Radicale — [XVII edizione di e-privacy 2015 spring edition - seconda e conclusiva giornata (3.07.2015)](https://www.radioradicale.it/scheda/447017/) _(non verificato)_  
   Recording of the day he was scheduled to open; speaker list (Somma, Calamari, Vieri, Vacca, Del Vecchio, Agosti, ...) does NOT include Pietrosanti. Day 1 (scheda 446735) does not name him either ('Valentina Pietrosanti' there is the Radio Radicale curator, not him).
+- 🆕 **2015-07-03** · evento · e-privacy XVII (2015), Roma, Camera dei Deputati - Progetto Winston Smith — [e-privacy XVII - interventi (abstracts page; entry 'Fabio Pietrosanti (HERMES)')](https://e-privacy.winstonsmith.org/e-privacy-XVII-interventi.html)  
+  Abstracts page of the edition; he appears as 'Fabio Pietrosanti (HERMES)' (Apertura lavori, second day). No slide/video file of his in the 2015 materials linked from the edition pages.
 - 🆕 **2015-06-20** · Progetto · CCC Camp 2015 Wiki — [Projects:GlobaLeaks](https://events.ccc.de/camp/2015/wiki/Projects:GlobaLeaks)  
   Chaos Communication Camp 2015 project page edited by Fabio Pietrosanti (naif)
 - 🆕 **2015-04-28** · Report · Defense Technical Information Center (DTIC ADA623038) / Tor Project tech report — [Hidden-service Statistics Reported by Relays](https://archive.org/details/DTIC_ADA623038)  
@@ -1574,7 +1582,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2011** · Progetto · GitHub — [fpietrosanti (Fabio (naif) Pietrosanti)](https://github.com/fpietrosanti)  
   GitHub profile, company Hermes Center
 
-## 2010 — 59 voci, 51 nuove
+## 2010 — 63 voci, 53 nuove
 
 - 🆕 **2010-11-02** · Talk · SlideShare (PrivateWave Italia) — [Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryption AGT)](https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072)  
   Slides by Fabio Pietrosanti, CTO PrivateWave (PrivateGSM, ZRTP); date from upload
@@ -1634,6 +1642,10 @@ Anni senza nessun risultato: nessuno
   Clusit Newsletter 27 maggio 2010, 'PROGRAMMA DEL 10 GIUGNO': '14.45-16.45 PERCORSO PROFESSIONALE TECNICO: 5a sessione Mobile security, il telefono una naturale estensione della propria vita digitale. Docenti: Alessio Pennasilico, Fabio Pietrosanti, Paolo Colombo'. This edition is not in media.json.
 - ↺ **2010-06-10** · Slide · Security Summit Roma 2010 - atti (proceedings) — [Mobile Security - Intense overview of mobile security threat (Roma 2010 proceedings PDF)](https://web.archive.org/web/20101226095759/https://www.securitysummit.it/upload/file/atti%20roma%202010/FABIO%20PIETROSANTI.pdf)  
   Official proceedings file 'atti roma 2010/FABIO PIETROSANTI.pdf' (72 pages, 5.2 MB) from securitysummit.it, archived 2010-12-26. Title slide: 'Mobile Security - Intense overview of mobile security threat - Fabio Pietrosanti (naif)', CTO & Founder PrivateWAVE. The live URL now redirects (dead).
+- 🆕 **2010-06-10** · evento · Security Summit Roma 2010 (Clusit) - roma2010.securitysummit.it — [Relatori - Security Summit Roma 2010 (speakers list)](https://web.archive.org/web/20130811024811/http://roma2010.securitysummit.it/relatori)  
+  Capture 2013-08-11 of the Roma 2010 speakers list; 'Fabio Pietrosanti' links to /relatori/view/80.
+- 🆕 **2010-06-10** · pagina · Security Summit Roma 2010 (Clusit) - roma2010.securitysummit.it — [Fabio Pietrosanti - scheda relatore (Security Summit Roma 2010)](https://web.archive.org/web/20130811024841/http://roma2010.securitysummit.it/relatori/view/80)  
+  Speaker bio: 'frequenta con il soprannome "naif" l'underground digitale italiano dal 1995 ... Network Security Manager per I.NET SpA, Security Advisor per Corporate Security Telecom Italia e dal 2005 cofondatore e CTO della KHAMSA ITALIA SPA' (older bio text reused).
 - 🆕 **2010-06-07** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Missiles against cyber attacks?](https://web.archive.org/web/2012/http://infosecurity.ch/20100607/missiles-against-cyber-attacks/)  
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2010-06-07** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [The (old) Crypto AG case and some thinking about it](https://web.archive.org/web/2012/http://infosecurity.ch/20100607/the-old-crypto-ag-case-and-some-thinking-about-it/)  
@@ -1668,6 +1680,10 @@ Anni senza nessun risultato: nessuno
   Clusit Newsletter 8 marzo 2010, 'PROGRAMMA DEL 18 MARZO': '14:15-16:00 Percorso professionale tecnico "Sicurezza e telefonia mobile" Docente: Fabio Pietrosanti' (sole speaker). His site says 17 Mar 2010, but the official program says 18 March. The slides are 'Mobile Security - Intense overview'.
 - ↺ **2010-03-18** · Slide · SlideShare (Security Summit 2010) — [2010: Mobile Security - Intense overview](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3799661/3799661)  
   Already known (media.json date 2010-03-17). The official Milano program puts the session on 18 March 2010 (Clusit newsletter 08-03-2010).
+- ↺ **2010-03-18** · evento · Security Summit 2010 (Clusit), Milano, 16-18 March 2010 - milano.securitysummit.it — [Atti Milano 2010 - Percorso professionale tecnico "Sicurezza e telefonia mobile" (Docente: Fabio Pietrosanti)](https://web.archive.org/web/20100525110838/http://milano.securitysummit.it/page/atti_milano_2010)  
+  Proceedings index page of Milano 2010; lists 'Percorso professionale tecnico "Sicurezza e telefonia mobile" Docente: Fabio Pietrosanti (atti .pdf)'.
+- ↺ **2010-03-18** · slide · Security Summit 2010 (Clusit), Milano - atti (proceedings) — [Mobile Security - Intense overview of mobile security threat (Milano 2010 proceedings PDF, 7_PIETROSANTI.pdf)](https://web.archive.org/web/20120905131853/http://milano.securitysummit.it/upload/file/atti%20milano%202010/18%20marzo/7_PIETROSANTI.pdf)  
+  PDF ~1.7 MB opened (pdftotext): title page 'Mobile Security / Intense overview of mobile security threat / Fabio Pietrosanti', 'CTO & Founder at PrivateWAVE', 'Playing with security since 95 as naif'. Same deck as the known SlideShare 3799661 and the Roma 2010 proceedings PDF, but a distinct Milano copy (18 marzo).
 - 🆕 **2010-03** · Altro · Security Summit 2010 (Clusit), Milano — [PrivateWave among the Silver sponsors of Security Summit 2010](https://clusit.it/wp-content/uploads/newsletter/newsletter_31_03_10.pdf) _(non verificato)_  
   Clusit Newsletter 31 marzo 2010 thanks sponsors: 'Sponsor Silver: ALBA, CLEVER CONSULTING, @MEDIASERVICE.NET, PRIVATEWAVE, ...'. PrivateWave is his company, but he is not named. A 'sponsor_privatewave.gif' also exists among securitysummit.it static files (archived 2016-01).
 - 🆕 **2010-02-24** · Video · Cellulare Magazine (CMAG) — [PrivateWave di Khamsa contro le intercettazioni](https://www.youtube.com/watch?v=EJVK8nB7yAM) _(non verificato)_  
@@ -1695,7 +1711,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2010** · Altro · SlideShare profile fpietrosanti — [Fabio Pietrosanti presentations (13 decks)](https://www.slideshare.net/fpietrosanti)  
   Profile from PrivateWave/Khamsa era
 
-## 2009 — 44 voci, 42 nuove
+## 2009 — 45 voci, 43 nuove
 
 - 🆕 **2009-12-21** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Index of economic freedom](https://web.archive.org/web/2012/http://infosecurity.ch/20091221/index-of-economic-freedom/)  
   Post on his personal blog (site offline; Wayback copy)
@@ -1781,6 +1797,8 @@ Anni senza nessun risultato: nessuno
   Clusit Newsletter 15 marzo 2009, 'PROGRAMMA DEL 26 MARZO': '14:00-18:00 Seminario tecnico SiKurezza.org' Docenti: Alessio Pennasilico, Pierluigi Perri, 'Fabio Pietrosanti, cofondatore e CTO di KHAMSA SA', Igor Falcomatà, Marco Calamari, Stefano Zanero, Paolo Perego. His 'Voice security and privacy' deck is dated 'Security Summit 26 Mar 2009', so the 29 Mar 2009 date on his site is wrong.
 - ↺ **2009-03-26** · Slide · SlideShare (Security Summit 2009 Milan) — [2009: Voice Security And Privacy (Security Summit - Milan)](https://www.slideshare.net/slideshow/2009-voice-security-and-privacy-security-summit-milan/1677364)  
   Title slide: 'Voice security and privacy: Confidentiality protection, today solutions and upcoming technologies and standards - Security Summit 26 Mar 2009 - Fabio Pietrosanti (naif)'. Uploaded 2009-07-03. Already in media.json dated 2009-03-29 (should be 2009-03-26).
+- 🆕 **2009-03-24** · evento · Security Summit 2009 (Clusit), Milano, 24-26 March 2009 - milano.securitysummit.it — [Relatori - Security Summit Milano 2009 (speakers list)](https://web.archive.org/web/20090603050045/http://milano.securitysummit.it/relatori)  
+  Wayback capture 2009-06-03 of the Milano 2009 speakers page; 'Fabio Pietrosanti' in the alphabetical list (between Pierluigi Perri and Simone Pugiotto). Complements the known newsletter 15/03/09 + SlideShare items for the SiKurezza.org seminar.
 - 🆕 **2009-03-13** · Menzionato · vitadigitale.corriere.it — [Hacker al cinema](https://vitadigitale.corriere.it/2009/03/13/hacker_al_cinema/)  
   verified via wayback; context: …i sono i nomi di Stefano Chiccarelli, Raoul Chiesa, Corrado Giustozzi, Matteo Giacomo Jori, Marco Misitano, Andrea Monti, Alessio Pennasilico, Pierluigi Perri, Fabio Pietrosanti, Andrea Rossetti e Stefano Zanero. La prim…
 - 🆕 **2009** · Libro · R. Chiesa, S. Ducci, S. Ciappi, Profiling Hackers (CRC Press, 2009) - second IA copy — [Profiling hackers: the science of criminal profiling as applied to the world of hacking](https://archive.org/details/profili_chi_2009_00_8384)  

@@ -85,6 +85,11 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   **Fatto:** i 20 interventi di Fabio su Radio Radicale ritagliati uno per uno con trascrizione automatica
   (`tools/radioradicale_clips.py`, elenco in `radioradicale_clips.json`). Chiuso: YouTube mAtBH2hkAcg (CyberCoach 2023, account cancellato)
   non recuperabile salvo copia di Costabile. Resta: ritagliare anche i convegni non Radio Radicale (e-privacy su YouTube ecc.).
+  **2026-10-12 (`tools/convegni_clips.py`, indice `convegni_clips.json`):** 7 registrazioni trascritte → **18 segmenti tuoi
+  ritagliati** (14 certi, 4 incerti) con trascrizione: Whistleblowers Conference 2014, Intelligence/antiterrorismo 2016,
+  Global Forum 2018 (debole, senza nome), Government hacking 2018 (×3), Privacy nightmare 2018, Trump/OTF 2020 (×4),
+  Riconoscimento facciale 2020 (×5). **Restano 8 da trascrivere** (Whisper avviato in locale il 12/10, log
+  `_run_transcribe_2026-10-12.log` nelle copie): 2013 ×2, 2015 ×3, Condivisi 2020, FOIA 2022, Speciale Tg1 2025.
 - [ ] **Video su Google Drive**: Fabio li caricherà su Drive; poi inserire il link Drive di ogni video in
   `copies.json` (campo `video.drive_url`) e mostrarlo in `docs/COPIE-OFFLINE.md` e nella futura pagina del sito.
   Finché non c'è il link, i video restano solo in locale (21,6 GB, fuori da GitHub).
@@ -658,14 +663,25 @@ Richiesta di Fabio 2026-09-18 — da fare **alla fine**, quando non c'è più nu
       Gli altri 11 sono in `decisions.json` → esclusi da `media.json`; non si inseguono più copie separate.
       *(Nota tecnica: il 418 di code.videolan.org dipendeva solo dallo User-Agent — con UA da browser l'API risponde 200.)*
       Ticket Tor: salvati via API, i commenti richiedono login → recuperarli da trac.torproject.org sul Web Archive.
-- [ ] RaiPlay Sound / RaiNews: 403 a metà ricerca → rifare lista puntate Codice Beta e ricerca RaiNews «Pietrosanti».
-- [ ] Web Archive (rifiutava connessioni): pagine Security Summit 2008/2011 (atti, edizioni precedenti), wiki Hackmeeting
+- [x] RaiPlay Sound / RaiNews — **fatto il 2026-10-12** (`pass4_rai_cyberchallenge`, 0 voci nuove): niente 403 con UA da
+      browser. Codice Beta (slug `codicebeta-ognicosaedigitale`): 70 puntate 22/10/2020–13/02/2025, solo S04EP08 ti nomina
+      (già nota; Rai la data 16/01/2025, media.json 17/01). Eta Beta 2021–2026 (273 puntate): solo 05/03/2022 (nota).
+      Tv7, Speciale Tg1, Codice, Radio3 Scienza, Radio anch'io, Zapping: solo voci note. Ricerca RaiNews: 0 risultati.
+      **Resta (minore):** Eta Beta 2017–2020 (vecchio RaiPlay Radio, solo Web Archive), Tutta la città ne parla prima del 2025.
+- [x] **Fatto il 2026-10-12** (`pass4_wayback_eventi`, +8 voci; pagine lette dal server perché il Web Archive bloccava il
+      portatile): Security Summit Milano 2009 (relatori), Milano 2010 (atti + PDF `7_PIETROSANTI.pdf`), Roma 2010 (relatori +
+      scheda `/relatori/view/80` con «naif»). Il 2008 non è esistito (prima edizione 03/2009); 2011 (MI/RM/VR), Roma 2009 e
+      2012 senza il tuo nome. Newsletter Clusit 2016–2026 (102 PDF): zero. Hackmeeting (tutti i wiki): zero; hackit12 ha un
+      seminario GlobaLeaks di «random globaleaks contributor» → regola «senza nome». *Testo originale della voce:* pagine Security Summit 2008/2011 (atti, edizioni precedenti), wiki Hackmeeting
       (_wiki seminari, hackit05, hackit08, genova2004, /wiki), newsletter Clusit dopo il 2016.
-- [ ] e-privacy: cartelle materiali 2015+ chiuse (403) → cercare file per nome dalle pagine edizione; verificare XXV BBA (solo «Hermes Center»).
-- [ ] Freedom Not Fear 2019: programma su calc.digitalcourage.de non recuperabile.
+- [x] e-privacy — **fatto il 2026-10-12**: +3 pagine abstract (XVII 2015, XXI 2017 con Coluccini, XXIII 2018 BBA); XXII ha la
+      tua bio ma nessuna sessione; XVIII, XIX, XXIV, XXVI–XXIX senza nome; **XXV BBA 2019: solo «Hermes Center» → escluso**.
+- [x] Freedom Not Fear 2019 — **chiuso il 2026-10-12**: programma era un foglio condiviso, il Web Archive ha solo il guscio
+      vuoto; wiki 2019 inesistente, post freedomnotfear.org senza nome. Recuperabile solo da una copia tua o di digitalcourage.
 - [ ] ICT Security (Tecna Editrice) cartaceo anni 2000: nessun indice online → chiedere a Fabio numeri/anni; numero dell'articolo «Penetration Testing & Tiger Teams».
 - [ ] TV: TG2, TG3, Neapolis (Rai 3), Studio Aperto citati nella bio 2013 senza date → chiedere a Fabio anni/argomenti.
-- [ ] Sapienza CyberChallenge.IT 2018: cercare video/foto (YouTube CINI, Sapienza).
+- [x] Sapienza CyberChallenge.IT 2018 — **chiuso il 2026-10-12**: unica pagina col nome resta l'annuncio CINI (già noto,
+      28/06/2018 Aula Odeion); 5 video YouTube 2018, stampa, Di Corinto: niente. Foto/slide solo se le hai tu.
 
 ### Fase finale — aggiunta 2026-09-18
 - [ ] **Una foto di Fabio per ogni anno** (percorso di invecchiamento): raccogliere solo foto in cui è indicato per nome

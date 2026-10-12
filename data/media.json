@@ -2461,6 +2461,23 @@
   "on_old_site": false
  },
  {
+  "date": "2009-03-24",
+  "year": 2009,
+  "type": "evento",
+  "outlet": "Security Summit 2009 (Clusit), Milano, 24-26 March 2009 - milano.securitysummit.it",
+  "title": "Relatori - Security Summit Milano 2009 (speakers list)",
+  "url": "https://web.archive.org/web/20090603050045/http://milano.securitysummit.it/relatori",
+  "language": "it",
+  "role": "speaker",
+  "note": "Wayback capture 2009-06-03 of the Milano 2009 speakers page; 'Fabio Pietrosanti' in the alphabetical list (between Pierluigi Perri and Simone Pugiotto). Complements the known newsletter 15/03/09 + SlideShare items for the SiKurezza.org seminar.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_eventi_2026-10-12"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2009-03-26",
   "year": 2009,
   "type": "talk",
@@ -3504,6 +3521,40 @@
   "on_old_site": true
  },
  {
+  "date": "2010-03-18",
+  "year": 2010,
+  "type": "evento",
+  "outlet": "Security Summit 2010 (Clusit), Milano, 16-18 March 2010 - milano.securitysummit.it",
+  "title": "Atti Milano 2010 - Percorso professionale tecnico \"Sicurezza e telefonia mobile\" (Docente: Fabio Pietrosanti)",
+  "url": "https://web.archive.org/web/20100525110838/http://milano.securitysummit.it/page/atti_milano_2010",
+  "language": "it",
+  "role": "speaker",
+  "note": "Proceedings index page of Milano 2010; lists 'Percorso professionale tecnico \"Sicurezza e telefonia mobile\" Docente: Fabio Pietrosanti (atti .pdf)'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_eventi_2026-10-12"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2010-03-18",
+  "year": 2010,
+  "type": "slide",
+  "outlet": "Security Summit 2010 (Clusit), Milano - atti (proceedings)",
+  "title": "Mobile Security - Intense overview of mobile security threat (Milano 2010 proceedings PDF, 7_PIETROSANTI.pdf)",
+  "url": "https://web.archive.org/web/20120905131853/http://milano.securitysummit.it/upload/file/atti%20milano%202010/18%20marzo/7_PIETROSANTI.pdf",
+  "language": "en",
+  "role": "author",
+  "note": "PDF ~1.7 MB opened (pdftotext): title page 'Mobile Security / Intense overview of mobile security threat / Fabio Pietrosanti', 'CTO & Founder at PrivateWAVE', 'Playing with security since 95 as naif'. Same deck as the known SlideShare 3799661 and the Roma 2010 proceedings PDF, but a distinct Milano copy (18 marzo).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_eventi_2026-10-12"
+  ],
+  "on_old_site": true
+ },
+ {
   "date": "2010-03-25",
   "type": "video",
   "outlet": "TVtech / Hardware Upgrade",
@@ -3808,6 +3859,40 @@
    "pass4_esc_hackmeeting_securitysummit_2026-09-18"
   ],
   "on_old_site": true
+ },
+ {
+  "date": "2010-06-10",
+  "year": 2010,
+  "type": "evento",
+  "outlet": "Security Summit Roma 2010 (Clusit) - roma2010.securitysummit.it",
+  "title": "Relatori - Security Summit Roma 2010 (speakers list)",
+  "url": "https://web.archive.org/web/20130811024811/http://roma2010.securitysummit.it/relatori",
+  "language": "it",
+  "role": "speaker",
+  "note": "Capture 2013-08-11 of the Roma 2010 speakers list; 'Fabio Pietrosanti' links to /relatori/view/80.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_eventi_2026-10-12"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2010-06-10",
+  "year": 2010,
+  "type": "pagina",
+  "outlet": "Security Summit Roma 2010 (Clusit) - roma2010.securitysummit.it",
+  "title": "Fabio Pietrosanti - scheda relatore (Security Summit Roma 2010)",
+  "url": "https://web.archive.org/web/20130811024841/http://roma2010.securitysummit.it/relatori/view/80",
+  "language": "it",
+  "role": "subject",
+  "note": "Speaker bio: 'frequenta con il soprannome \"naif\" l'underground digitale italiano dal 1995 ... Network Security Manager per I.NET SpA, Security Advisor per Corporate Security Telecom Italia e dal 2005 cofondatore e CTO della KHAMSA ITALIA SPA' (older bio text reused).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_eventi_2026-10-12"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2010-06-13",
@@ -6945,6 +7030,23 @@
   "on_old_site": false
  },
  {
+  "date": "2015-07-03",
+  "year": 2015,
+  "type": "evento",
+  "outlet": "e-privacy XVII (2015), Roma, Camera dei Deputati - Progetto Winston Smith",
+  "title": "e-privacy XVII - interventi (abstracts page; entry 'Fabio Pietrosanti (HERMES)')",
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XVII-interventi.html",
+  "language": "it",
+  "role": "speaker",
+  "note": "Abstracts page of the edition; he appears as 'Fabio Pietrosanti (HERMES)' (Apertura lavori, second day). No slide/video file of his in the 2015 materials linked from the edition pages.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_eventi_2026-10-12"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2015-07-16",
   "type": "quoted",
   "outlet": "la Repubblica (Repubblica.it Tecnologia)",
@@ -8093,6 +8195,23 @@
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18",
    "slice4_2016_2020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-06-23",
+  "year": 2017,
+  "type": "evento",
+  "outlet": "e-privacy XXI (2017 summer), Lucca - Progetto Winston Smith",
+  "title": "e-privacy XXI - interventi: 'Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza' (Coluccini, Pietrosanti)",
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XXI-interventi.html",
+  "language": "it",
+  "role": "speaker",
+  "note": "Abstract page: 'Coluccini, Riccardo, Pietrosanti, Fabio (Hermes)'. Edition page and atti PDFs already known.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_eventi_2026-10-12"
   ],
   "on_old_site": false
  },
@@ -9394,6 +9513,23 @@
  {
   "date": "2018-06-08",
   "year": 2018,
+  "type": "evento",
+  "outlet": "e-privacy XXIII (2018 summer), Bologna - Progetto Winston Smith",
+  "title": "e-privacy XXIII - interventi: Big Brother Awards Italia 2018 (Fabio Pietrosanti, HERMES Center)",
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XXIII-interventi.html",
+  "language": "it",
+  "role": "speaker",
+  "note": "Abstract page: 'Big Brother Awards Italia 2018 - Fabio Pietrosanti (HERMES Center)' with BBA description. Edition page, video and BBA site already known.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback_eventi_2026-10-12"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-06-08",
+  "year": 2018,
   "type": "video",
   "outlet": "Radio Radicale",
   "title": "Singolarità. Come l'IoT, l'A.I., le fake news e le bolle informative ci obbligano a ripensare il concetto di privacy - XXIII edizione di e-privacy",
@@ -9472,7 +9608,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass4_eprivacy_sapienza_2026-09-18"
+   "pass4_eprivacy_sapienza_2026-09-18",
+   "pass4_rai_cyberchallenge_2026-10-12"
   ],
   "on_old_site": false
  },
@@ -15473,14 +15610,15 @@
   "year": 2022,
   "type": "radio",
   "outlet": "Rai Radio 1 - Eta Beta",
-  "title": "Eta Beta del 05/03/2022 - Guerre di rete, ecco chi sono i soldati del cyberspazio",
+  "title": "Eta Beta del 05/03/2022",
   "url": "https://www.raiplaysound.it/audio/2022/03/Eta-Beta-del-05032022-bfe193b3-3441-4fe7-875e-6d26d85e70f0.html",
-  "language": "IT",
+  "language": "it",
   "role": "guest",
-  "note": "Radio 1 Rai, conducted by Massimo Cerofolini (00:27:22), on cyberwar in the Ukraine war (Anonymous, GRU, Conti). Description: 'Ospiti: Arturo Di Corinto ...; Fabio Pietrosanti, presidente Centro Hermes per i diritti umani digitali; Stefano Mele ...'.",
+  "note": "Ri-verificato via JSON RaiPlay Sound (lista completa Eta Beta 2021-2026, 273 puntate): unica puntata con il suo nome nella descrizione («Fabio Pietrosanti, presidente Centro Hermes...»).",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_rai_cyberchallenge_2026-10-12",
    "pass4_tv_rai_la7_2026-09-18"
   ],
   "on_old_site": false
@@ -16846,18 +16984,19 @@
   "on_old_site": false
  },
  {
-  "date": "2025-01-17",
+  "date": "2025-01-16",
   "year": 2025,
-  "type": "radio",
-  "outlet": "Rai Radio 1 / RaiPlay Sound - Codice Beta, ogni cosa è digitale (podcast)",
-  "title": "Codice Beta S04EP08 - Io, biohacker, che testo sul mio corpo i segreti della longevità",
+  "type": "podcast",
+  "outlet": "Rai Radio 1 / RaiPlay Sound - Codice Beta",
+  "title": "Codice Beta S04EP08 Io, biohacker, che testo sul mio corpo i segreti della longevità",
   "url": "https://www.raiplaysound.it/audio/2025/01/Codice-Beta-S04EP08-Io-biohacker-che-testo-sul-mio-corpo-i-segreti-della-longevita-42dd7997-10f4-4587-8767-e51e5fec0fbb.html",
-  "language": "IT",
+  "language": "it",
   "role": "guest",
-  "note": "Radio 1 Rai podcast by Massimo Cerofolini and Barbara Carfagna (00:41:25). Description: 'Ospite: Fabio Pietrosanti, detto Naif, biohacker, che sperimenta su se stesso le tecniche più innovative per il ringiovanimento...'. Also features Aubrey de Grey, Teemu Arina, Linnea Passaler.",
+  "note": "Ri-verificato 2026-10-12 via JSON RaiPlay Sound (.json della puntata e lista completa del programma codicebeta-ognicosaedigitale, 70 puntate 2020-2025): descrizione «Ospite: Fabio Pietrosanti, detto Naif, biohacker...». create_date nel JSON 16-01-2025 (media.json ha 2025-01-17). Unica puntata di Codice Beta che lo nomina.",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_rai_cyberchallenge_2026-10-12",
    "pass4_tv_rai_la7_2026-09-18"
   ],
   "on_old_site": false
@@ -16866,15 +17005,16 @@
   "date": "2025-01-31",
   "year": 2025,
   "type": "tv",
-  "outlet": "Rai 1 - Tv7 (settimanale del Tg1)",
+  "outlet": "Rai 1 - Tv7",
   "title": "La guerra delle app - Tv7 31/01/2025",
   "url": "https://www.raiplay.it/video/2025/02/La-guerra-delle-app---Tv7-31012025-2de12a1e-489c-49bb-8b4d-77929aec7ba0.html",
-  "language": "IT",
-  "role": "interviewee",
-  "note": "Reportage by Barbara Carfagna (clip 00:08:46) on DeepSeek and Chinese AI apps. Description: 'Tv7 ne ha parlato con l'esponente di punta dell'AI italiana, Marco Trombetti e, dalla Cina, con l'hacker Fabio Pietrasanti, esperto di cybersecurity.' Surname misspelled 'Pietrasanti' by Rai; identified as him (hacker/cybersecurity, interviewed from China, same Carfagna team as Codice Beta 01/2025). Audio version on RaiPlay Sound: https://www.raiplaysound.it/audio/2025/02/La-guerra-delle-app---Tv7-31012025-644856e0-7f75-45af-aff0-9db3e4c843ea.html",
+  "language": "it",
+  "role": "guest",
+  "note": "Ri-verificato via JSON RaiPlay (programma tv7, 1749 voci): descrizione con refuso «dalla Cina, con l'hacker Fabio Pietrasanti, esperto di cybersecurity». Unica voce Tv7 con il nome (cercata anche la grafia Pietrasanti).",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_rai_cyberchallenge_2026-10-12",
    "pass4_tv_rai_la7_2026-09-18"
   ],
   "on_old_site": false
@@ -16921,19 +17061,35 @@
   "date": "2025-06-27",
   "year": 2025,
   "type": "tv",
-  "outlet": "Rai 1 - Codice, la vita è digitale",
-  "title": "Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025",
-  "url": "https://www.raiplay.it/video/2025/06/Fabio-Pietrosanti-e-Don-Alberto-Carrara---Codice-27062025-42ad6af2-1f36-4f24-b8fe-58e999a9e0cd.html",
-  "language": "IT",
-  "role": "interviewee",
-  "note": "Official RaiPlay page of the already-known clip (YouTube Amy7OyM7exo). RaiPlay metadata: channel Rai 1, date 27-06-2025, form 'clip', description 'Fabio Pietrosanti e Don Alberto Carrara sulle interazioni macchina-cervello.' (Stagione 2025, Servizi e interviste).",
+  "outlet": "Rai 1 - Codice, la Vita è digitale",
+  "title": "Codice, la Vita è digitale - Puntata del 27/06/2025 Biohacking",
+  "url": "https://www.raiplay.it/video/2025/06/Codice-la-Vita-e-digitale---Puntata-del-27062025-50a78412-6520-4ded-939d-c1b549204976.html",
+  "language": "it",
+  "role": "guest",
+  "note": "Ri-verificato via JSON RaiPlay (programma codice-lavitaedigitale, 869 voci, tutte le stagioni): descrizione «il noto hacker Fabio Naif...». Solo questa puntata e la clip sotto lo nominano.",
   "verified": true,
   "known": true,
   "_slices": [
+   "pass4_rai_cyberchallenge_2026-10-12",
    "pass4_tv_rai_la7_2026-09-18"
   ],
-  "mirrors": [
-   "https://www.youtube.com/watch?v=Amy7OyM7exo"
+  "on_old_site": false
+ },
+ {
+  "date": "2025-06-27",
+  "year": 2025,
+  "type": "video",
+  "outlet": "Rai 1 - Codice, la Vita è digitale",
+  "title": "Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025",
+  "url": "https://www.raiplay.it/video/2025/06/Fabio-Pietrosanti-e-Don-Alberto-Carrara---Codice-27062025-42ad6af2-1f36-4f24-b8fe-58e999a9e0cd.html",
+  "language": "it",
+  "role": "guest",
+  "note": "Ri-verificato via JSON RaiPlay: «Fabio Pietrosanti e Don Alberto Carrara sulle interazioni macchina-cervello.»",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_rai_cyberchallenge_2026-10-12",
+   "pass4_tv_rai_la7_2026-09-18"
   ],
   "on_old_site": false
  },
@@ -16941,16 +17097,16 @@
   "date": "2025-06-27",
   "year": 2025,
   "type": "tv",
-  "outlet": "Rai 1 - Codice, la vita è digitale",
-  "title": "Codice, la Vita è digitale - Puntata del 27/06/2025 Biohacking",
-  "url": "https://www.raiplay.it/video/2025/06/Codice-la-Vita-e-digitale---Puntata-del-27062025-50a78412-6520-4ded-939d-c1b549204976.html",
-  "language": "IT",
+  "outlet": "Rai - Codice, la vita è digitale (Rai 1)",
+  "title": "Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025",
+  "url": "https://www.youtube.com/watch?v=Amy7OyM7exo",
+  "language": "it",
   "role": "interviewee",
-  "note": "Full episode (integrale, 01:14:49) containing the known clip. RaiPlay description names him: 'il noto hacker Fabio Naif che applica le conoscenze informatiche al #biohacking suo corpo, ci mette in guardia: se non innalziamo le difese saremo tutti connessi a morte'. Same episode has clips 'Hackerare il corpo', 'Giovanni Brandi', 'Social freezing' (these do not name him).",
+  "note": "RAI TV segment on brain-machine interaction (biohacking/neurotech)",
   "verified": true,
   "known": false,
   "_slices": [
-   "pass4_tv_rai_la7_2026-09-18"
+   "slice6_media_archives"
   ],
   "on_old_site": false
  },

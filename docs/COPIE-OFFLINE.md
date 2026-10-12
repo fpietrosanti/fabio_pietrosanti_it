@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **979**; già processate: **1141**; ancora da processare: **0**
-- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **808** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **940**
+- Voci in `data/media.json`: **990**; già processate: **1149**; ancora da processare: **0**
+- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **816** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **948**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **97**
@@ -33,16 +33,16 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2006 | 10 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2007 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2008 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2009 | 45 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 2010 | 58 | 2 | 0 | 0 | 0 | 0 | 3 |
+| 2009 | 46 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 2010 | 62 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 29 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 28 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 24 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2015 | 28 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 2015 | 29 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 67 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 46 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 68 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 47 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 76 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 158 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 81 | 7 | 0 | 0 | 0 | 0 | 0 |
@@ -274,7 +274,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
-  page is a JavaScript shell with almost no text. 2026-10-09 (Chrome di Fabio, Sogou funzionante): né «Pascoe 长寿论坛» né il titolo («高纤维可替代少吃延寿…») né l'elenco dei post di 长寿科技情报站 trovano più la ripresa del 12/09 (l'account ha pubblicato una serie di riepiloghi 28/09-08/10 e ne ha cancellato almeno uno, «三场晚宴加持» del 07/10). Il testo è identico all'originale TimePie già copiato (2026/523c49878113 + ripresa Baijiahao): proposta di chiusura come doppione.
+  page is a JavaScript shell with almost no text: needs browser capture
 
 ## Interventi di Fabio ritagliati da Radio Radicale
 
@@ -461,6 +461,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2009** · e-privacy VIII (2009), Firenze, Palazzo  — [Voice security and privacy (audio MP3)](https://urna.winstonsmith.org/materiali/2009/audio/ep2009_pietrosanti_voice_security_and_privacy.mp3) · copia: `2009/d5b591358586` (Web Archive 20250227) · licenza: terzi
 - **2009** · e-privacy VIII (2009), Firenze, Palazzo  — [Voice security and privacy (video MOV, eprivacy-2009-11.mov)](https://urna.winstonsmith.org/materiali/2009/video/eprivacy-2009-11.mov) · copia: `2009/8793fc8024f7` (Web Archive 20210605) · licenza: terzi
 - **2009** · vitadigitale.corriere.it — [Hacker al cinema](https://vitadigitale.corriere.it/2009/03/13/hacker_al_cinema/) · copia: `2009/aa219a14f6f9` (Web Archive 20190921) · licenza: terzi
+- **2009** · Security Summit 2009 (Clusit), Milano, 2 — [Relatori - Security Summit Milano 2009 (speakers list)](https://web.archive.org/web/20090603050045/http://milano.securitysummit.it/relatori) · copia: `2009/df27ddc45af8` (Web Archive 20090603) · licenza: terzi
 - **2009** · infosecurity.ch (blog) — [Hackers hired from UK Office of Cyber Security](https://web.archive.org/web/2012/http://infosecurity.ch/20090706/hackers-hired-from-uk-office-of-cyber-security/) · copia: `2009/eaac763bfefa` (Web Archive 20100913) · licenza: propria
 - **2009** · infosecurity.ch (blog) — [How the various audio compression codec sounds?](https://web.archive.org/web/2012/http://infosecurity.ch/20090706/how-the-various-audio-compression-codec-sounds/) · copia: `2009/ecae67a74a53` (Web Archive 20100916) · licenza: propria
 - **2009** · infosecurity.ch (blog) — [Product Management](https://web.archive.org/web/2012/http://infosecurity.ch/20090706/product-management-the-unknown-strategic-role/) · copia: `2009/137b6597a34d` (Web Archive 20100916) · licenza: propria
@@ -501,6 +502,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · Security Summit Roma 2010 (Clusit), SGM  — [Percorso professionale tecnico, 5a sessione: "Mobile security, il telefono una naturale es](https://clusit.it/wp-content/uploads/newsletter/newsletter_27_05_10.pdf) · copia: `2010/185abb10965f` (Web Archive 20231027) · licenza: terzi
 - **2010** · Security Summit 2010 (Clusit), Milano — [PrivateWave among the Silver sponsors of Security Summit 2010](https://clusit.it/wp-content/uploads/newsletter/newsletter_31_03_10.pdf) · copia: `2010/5290eddc310a` (live) · licenza: terzi
 - **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://linuxsecurity.com/news/cryptography/accusations-fly-over-voice-encryption-hack) · copia: `2010/88eca0ddd780` (Web Archive 20231128) · licenza: terzi
+- **2010** · Security Summit 2010 (Clusit), Milano, 1 — [Atti Milano 2010 - Percorso professionale tecnico "Sicurezza e telefonia mobile" (Docente:](https://web.archive.org/web/20100525110838/http://milano.securitysummit.it/page/atti_milano_2010) · copia: `2010/a4f2346ed7a4` (Web Archive 20100525) · licenza: terzi
 - **2010** · Security Summit Roma 2010 - atti (procee — [Mobile Security - Intense overview of mobile security threat (Roma 2010 proceedings PDF)](https://web.archive.org/web/20101226095759/https://www.securitysummit.it/upload/file/atti%20roma%202010/FABIO%20PIETROSANTI.pdf) · copia: `2010/e541d9097bae` (Web Archive 20101226) · licenza: propria
 - **2010** · infosecurity.ch (blog) — [O3B Networks: a new satellite broadband approach](https://web.archive.org/web/2012/http://infosecurity.ch/20100126/o3b-networks-a-new-satellite-broadband-approach/) · copia: `2010/23aa411dff7c` (Web Archive 20100329) · licenza: propria
 - **2010** · infosecurity.ch (blog) — [Licensed by Israel Ministry of Defense? How things really works!](https://web.archive.org/web/2012/http://infosecurity.ch/20100129/licensed-by-israel-ministry-of-defense-how-things-really-works/) · copia: `2010/f8856f643471` (Web Archive 20100206) · licenza: propria
@@ -538,6 +540,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · infosecurity.ch (blog) — [PrivateGSM: Blackberry/iPhone/Nokia mobile voice encryption with ZRTP or SRTP/SDES](https://web.archive.org/web/2012/http://infosecurity.ch/20101019/privategsm-blackberryiphonenokia-mobile-voice-encryption-with-zrtp-or-srtpsdes/) · copia: `2010/105206a6a497` (Web Archive 20110420) · licenza: propria
 - **2010** · infosecurity.ch (blog) — [Eight Epic Failure of Regulating Cryptography](https://web.archive.org/web/2012/http://infosecurity.ch/20101021/eight-epic-failure-of-regulating-cryptography/) · copia: `2010/b2c5885d33f2` (Web Archive 20101114) · licenza: propria
 - **2010** · infosecurity.ch (blog) — [Encrypted mobile to landline phone calls with Asterisk 1.8](https://web.archive.org/web/2012/http://infosecurity.ch/20101025/encrypted-mobile-to-landline-phone-calls-with-asterisk-1-8/) · copia: `2010/18078ba07147` (Web Archive 20101113) · licenza: propria
+- **2010** · Security Summit 2010 (Clusit), Milano -  — [Mobile Security - Intense overview of mobile security threat (Milano 2010 proceedings PDF,](https://web.archive.org/web/20120905131853/http://milano.securitysummit.it/upload/file/atti%20milano%202010/18%20marzo/7_PIETROSANTI.pdf) · copia: `2010/9e2c53940609` (Web Archive 20120905) · licenza: terzi
+- **2010** · Security Summit Roma 2010 (Clusit) - rom — [Relatori - Security Summit Roma 2010 (speakers list)](https://web.archive.org/web/20130811024811/http://roma2010.securitysummit.it/relatori) · copia: `2010/985bcc9dcd37` (Web Archive 20130811) · licenza: terzi
+- **2010** · Security Summit Roma 2010 (Clusit) - rom — [Fabio Pietrosanti - scheda relatore (Security Summit Roma 2010)](https://web.archive.org/web/20130811024841/http://roma2010.securitysummit.it/relatori/view/80) · copia: `2010/b8a9f02d2e8a` (Web Archive 20130811) · licenza: terzi
 - **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.csoonline.com/article/524574/malware-cybercrime-accusations-fly-over-voice-encryption-hack.html) · copia: `2010/3c24d3c7cfab` (Web Archive 20230928) · licenza: terzi
 - **2010** · Data Manager Online — [Intercettazioni e molto di più](https://www.datamanager.it/news/sicurezza/intercettazioni-e-molto-di-pi) · copia: `2010/0f172e809c69` (Web Archive 20240220) · licenza: propria
 - **2010** · Data Manager (rivista) — [Khamsa: chiamate cifrate tra cellulari](https://www.datamanager.it/rivista/privategsm/khamsa-chiamate-cifrate-tra-cellulari) · copia: `2010/1d0ab80daab7` (Web Archive 20100508) · licenza: terzi
@@ -681,6 +686,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · Dyne.org (software manual) — [Jaro Mail 3.2 manual](https://archive.org/details/manualzilla-id-5679480) · copia: `2015/4a3e8a80cbd2` (live) · licenza: terzi
 - **2015** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — August 30th, 2015](https://blog.torproject.org/tor-weekly-news-august-30th-2015/) · copia: `2015/72ec91ea27f2` (Web Archive 20190131) · licenza: terzi
 - **2015** · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/) · copia: `2015/bf3a57cee7ac` (Web Archive 20151104) · licenza: terzi
+- **2015** · e-privacy XVII (2015), Roma, Camera dei  — [e-privacy XVII - interventi (abstracts page; entry 'Fabio Pietrosanti (HERMES)')](https://e-privacy.winstonsmith.org/e-privacy-XVII-interventi.html) · copia: `2015/590e00acfd9c` (Web Archive 20150703) · licenza: terzi
 - **2015** · e-privacy XVII (2015), Roma, Camera dei  — [e-privacy XVII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XVII-relatori.html) · copia: `2015/eaebb3b044f6` (Web Archive 20150703) · licenza: terzi
 - **2015** · e-privacy XVII (Camera dei Deputati, Rom — [Apertura lavori](https://e-privacy.winstonsmith.org/e-privacy-XVII.html) · copia: `2015/db043732d54b` (Web Archive 20160307) · licenza: terzi
 - **2015** · CCC Camp 2015 Wiki — [Projects:GlobaLeaks](https://events.ccc.de/camp/2015/wiki/Projects:GlobaLeaks) · copia: `2015/f84e72f2ed5c` (Web Archive 20150711) · licenza: propria
@@ -745,6 +751,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · repubblica.it — [Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Clou](https://dicorinto.it/testate/repubblica-it/la-repubblica-cia-wikileaks-siamo-molto-piu-vulnerabili-con-linternet-delle-cose-il-mobile-e-il-cloud/) · copia: `2017/0ae276c52e4c` (Web Archive 20191214) · licenza: terzi
 - **2017** · docs.google.com — [edit?usp=sharing](https://docs.google.com/document/d/1t6kfUigpBdiI8ECC306QHTL1cawOapvnRSIY0dV5KXA/edit?usp=sharing) · copia: `2017/bf22197920dd` (live) · licenza: terzi
 - **2017** · docs.google.com — [edit](https://docs.google.com/presentation/d/11-AdcbRlxhWwHhHz54Yp8hNYXAICYBHHfumDO89XFrs/edit) · copia: `2017/7c13c6f019d3` (live) · licenza: terzi
+- **2017** · e-privacy XXI (2017 summer), Lucca - Pro — [e-privacy XXI - interventi: 'Come monitorare la sorveglianza governativa utilizzando le le](https://e-privacy.winstonsmith.org/e-privacy-XXI-interventi.html) · copia: `2017/180f036dbccc` (Web Archive 20170704) · licenza: terzi
 - **2017** · e-privacy XXI (2017 summer), Lucca, Real — [e-privacy XXI - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXI-relatori.html) · copia: `2017/bcd53a7178a3` (Web Archive 20170702) · licenza: terzi
 - **2017** · e-privacy 2017 summer (XXI, Lucca) — [Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza](https://e-privacy.winstonsmith.org/e-privacy-XXI.html) · copia: `2017/3b30e1c2c0e8` (Web Archive 20170704) · licenza: terzi
 - **2017** · e-privacy XXII (2017 autumn), Venezia, T — [e-privacy XXII - relatori page lists his bio](https://e-privacy.winstonsmith.org/e-privacy-XXII-relatori.html) · copia: `2017/fde565d575a5` (Web Archive 20171008) · licenza: terzi
@@ -819,6 +826,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Copernicani — [Un Ministro per il Digitale: i sostenitori del nostro appello](https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/) · copia: `2018/76a7e07ba3fb` (Web Archive 20180520) · licenza: terzi
 - **2018** · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://cybersecurity.startupitalia.eu/61414-20180710-cyberchallenge-2018-la-nuova-generazione-hacker-etici) · copia: `2018/cb9e22f41130` (Web Archive 20201229) · licenza: terzi
 - **2018** · repubblica.it — [Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la password”](https://dicorinto.it/testate/repubblica-it/la-repubblica-attacco-a-facebook-il-giorno-dopo-per-precauzione-cambiate-subito-la-password/) · copia: `2018/5d37acfbb1bd` (Web Archive 20190826) · licenza: terzi
+- **2018** · e-privacy XXIII (2018 summer), Bologna - — [e-privacy XXIII - interventi: Big Brother Awards Italia 2018 (Fabio Pietrosanti, HERMES Ce](https://e-privacy.winstonsmith.org/e-privacy-XXIII-interventi.html) · copia: `2018/27927e782a57` (Web Archive 20200919) · licenza: terzi
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [e-privacy XXIII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXIII-relatori.html) · copia: `2018/8cc2a1ae4777` (Web Archive 20200919) · licenza: terzi
 - **2018** · e-privacy 2018 (XXIII, Bologna) — [Big Brother Awards Italia 2018](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html) · copia: `2018/de6bba8ab6d7` (Web Archive 20181025) · licenza: terzi
 - **2018** · Euronews (en español) — [¿Rusia puede espiar a Italia gracias a la empresa de software Kaspersky?](https://es.euronews.com/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-) · copia: `2018/1e0cc7e9fe57` (Web Archive 20180406) · licenza: terzi

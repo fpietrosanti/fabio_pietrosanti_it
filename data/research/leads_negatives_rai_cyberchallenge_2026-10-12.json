@@ -1,0 +1,42 @@
+{
+ "date": "2026-10-12",
+ "scope": "RaiPlay Sound / RaiPlay / RaiNews + CyberChallenge.IT 2018",
+ "method_notes": [
+  "RaiPlay Sound espone JSON: /programmi/<slug>.json -> filters[].path_id (ContentSet-*.json) con le card delle puntate (titolo + descrizione completa). Oggi nessun 403 dal laptop con User-Agent da browser.",
+  "RaiPlay espone /programmi/<slug>.json -> blocks[].sets[].path_id con gli items (description).",
+  "RaiNews: la ricerca è una POST su https://www.rainews.it/atomatic/news-search-service/api/v3/search con body {page, pageSize, filters:{dominio:'RaiNews|Category-60bbaf3f-99b8-4aac-8a6d-69a98e11bfc1'}, post_filters:null, mode:'searchByText', param:<q>}. Funziona ('biohacker' -> 3 risultati) ma indicizza solo titoli e sommari.",
+  "Regex sulle descrizioni: pietr[oa]sant[ie] | \\bnaif\\b | globaleaks | hermes center | centro hermes | whistleblow (la grafia 'Pietrasanti' compare davvero in Tv7)."
+ ],
+ "searched_no_result": [
+  {"what": "Codice Beta (RaiPlay Sound, slug codicebeta-ognicosaedigitale): lista COMPLETA, 70 puntate dal 22/10/2020 al 13/02/2025 (S01-S04EP10)", "result": "solo S04EP08 (già nota). La slug 'codicebeta' dà 404; nessuna S05 trovata (il programma sembra fermo a febbraio 2025)."},
+  {"what": "Eta Beta Radio1 (RaiPlay Sound etabeta): 273 puntate 2020-2026", "result": "solo il 05/03/2022 (già noto). Le puntate del 23/09/2023 e del 19/03/2022 citano Laura Carrer / Centro Hermes, non Fabio -> escluse. Eta Beta 2017-2020 (allora su RaiPlay Radio) NON è su RaiPlay Sound: non coperto."},
+  {"what": "Radio3 Tutta la città ne parla (290 puntate, quasi tutte 2025-2026: set paginati o troncati)", "result": "nessuna menzione (copertura parziale)"},
+  {"what": "Radio3 Scienza (483), Radio1 Radio anch'io (2592, 2021-2026), Radio1 Zapping (1698, 2019-2026)", "result": "nessuna menzione"},
+  {"what": "Radio2 Caterpillar", "result": "slug 'caterpillar' 404, non scansionato"},
+  {"what": "RaiPlay Tv7 (1749 voci), Speciale Tg1 (382), Codice la Vita è digitale (869)", "result": "solo voci già note (Tv7 31/01/2025; Codice 27/06/2025, puntata e clip)"},
+  {"what": "Speciale Tg1 'Pionieri di longevità-Biohacker' 05/01/2025 (in media.json come INFERRED)", "result": "JSON RaiPlay letto: la descrizione non contiene né il nome né 'naif' -> resta NON verificato dai metadati."},
+  {"what": "API di ricerca RaiNews: 'Pietrosanti', 'Fabio Pietrosanti' (anche con dominio TGR), 'GlobaLeaks'", "result": "0 risultati; 'Hermes Center' dà 11 risultati, tutti irrilevanti (dirette sul Medio Oriente)"},
+  {"what": "WebSearch: Pietrosanti site:raiplaysound/raiplayradio, site:rainews.it, Eta Beta+Pietrosanti, Radio1/GR1/Radio2/TGR/Rai Cultura, Radio3/Tutta la città ne parla", "result": "nulla di nuovo (solo voci note: Radio Radicale 342096, Nexa mercoledì 73, TIG, DIG)"},
+  {"what": "CyberChallenge 2018: startupitalia.eu/61355 (finale), hackerjournal.it/1233, Tom's Hardware sui premiati delle gare locali, Prealpina storico 144171, CINI news 1191, cis.uniroma1.it news-list, open.diag.uniroma1.it/node/3775", "result": "pagine aperte, nessuna menzione di Fabio"},
+  {"what": "Ricerca YouTube 'cyberchallenge 2018 premiazione': video 2JaUXbFSpsM (TG3 Regione, Padova), E1MzgFOdl70 (UniPD, vincitori 2018), rWNmkQAQf9Y (Var Group), YJpeq2m2E3g (IIS Pascal), IQvqrmG_YE4 (Parthenope)", "result": "pagine aperte, descrizioni senza nome, 'naif' o Hermes; nessun video della cerimonia nazionale del 28/06/2018 trovato"},
+  {"what": "Web Archive cyberchallenge.it 2017-2019 (CDX)", "result": "il sito del 2018 è una SPA (pagina vuota di ~1.5KB, contenuti caricati via API non archiviata). Esistono foto in /assets/gallery/2018/Cyberchallenge-*.JPG, ma senza didascalia con il nome."},
+  {"what": "dicorinto.it, ricerca tramite WP API: 'cyberchallenge' (23 post) e 'Pietrosanti'", "result": "nessun post sulla CyberChallenge lo nomina. Trovate 2 ripubblicazioni di articoli già noti (vedi reprints_of_known)."},
+  {"what": "WebSearch 'Pietrosanti' su consorzio-cini, cybersecnatlab, cyberchallenge.it e site:uniroma1.it/diag", "result": "solo la pagina CINI 1348, già nota"}
+ ],
+ "reprints_of_known": [
+  {"url": "https://dicorinto.it/testate/repubblica-it/la-repubblica-attacco-a-facebook-il-giorno-dopo-per-precauzione-cambiate-subito-la-password/", "date": "2018-09-29", "note": "Ripubblicazione su dicorinto.it dell'articolo di Repubblica già in media.json; cita «Fabio Pietrosanti del Centro Hermes per i diritti digitali». Utile come copia/mirror, non come voce nuova."},
+  {"url": "https://dicorinto.it/testate/repubblica-it/la-repubblica-cia-wikileaks-siamo-molto-piu-vulnerabili-con-linternet-delle-cose-il-mobile-e-il-cloud/", "date": "2017-03-08", "note": "Ripubblicazione dell'articolo di Repubblica già in media.json; «Fabio Pietrosanti, giovane esperto di sicurezza ed hacker etico». Copia/mirror, non voce nuova."}
+ ],
+ "blocked": [
+  {"endpoint": "https://web.archive.org/web/2018id_/https://cyberchallenge.it/", "status": 429},
+  {"endpoint": "https://www.raiplaysound.it/programmi/codicebeta.json", "status": 404, "note": "la slug giusta è codicebeta-ognicosaedigitale"},
+  {"endpoint": "https://www.rainews.it/ricerca?q=...", "status": "301 -> 404 (usare /ricerca.html e l'API POST)"},
+  {"endpoint": "https://cyberchallenge.diag.uniroma1.it/about/", "status": 404}
+ ],
+ "remaining": [
+  "Eta Beta 2017-2020 (allora su RaiPlay Radio; raiplayradio.it ora fa redirect): servirebbe il CDX del Web Archive su raiplayradio.it/audio/*Eta-Beta* e la lettura delle descrizioni",
+  "Tutta la città ne parla prima del 2025 (i set paginati non sono stati scaricati per intero)",
+  "Video della cerimonia CyberChallenge del 28/06/2018: forse sui canali YouTube/Facebook di CINI o Sapienza; chiedere a Fabio se ha slide o foto",
+  "Speciale Tg1 del 05/01/2025: si può verificare solo guardando il video"
+ ]
+}

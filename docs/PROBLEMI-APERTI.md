@@ -160,6 +160,21 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-terdecies. 2026-10-12
+- Recuperato e committato il lavoro del 09/10 rimasto senza commit (WeChat 长寿科技情报站 con 18 foto, NetEase VG5NGRVPI,
+  trascrizioni dei convegni, `convegni_clips.py`).
+- Copie delle 8 voci nuove (Security Summit 2009/2010, e-privacy 2015/2017/2018) **tutte ottenute**.
+- **Ritagli convegni**: 18 segmenti tuoi tagliati da 7 registrazioni, con trascrizione (`convegni_clips.json`); 4 incerti
+  (attribuiti per argomento o per esclusione) e Global Forum 2018 senza nome (solo argomento: voto elettronico, DEF CON).
+  8 registrazioni ancora da trascrivere: Whisper avviato in locale, esito alla prossima esecuzione.
+- Retry dei falliti: **invariati** (Radio Monte Carlo 2010, PrivateWave EN/ES, deck Foggia 410, coinage.it, 2 notizieoggi.com;
+  CyberCoach solo pagina; 🟠 Sogou anti-bot). Il Web Archive blocca di nuovo il portatile come «bot»: le pagine si leggono
+  dal server (ubuntu@51.158.36.151), che scarica anche da clusit.it senza captcha.
+- **Domande per te:** (a) **Global Forum on Modern Direct Democracy 2018** (Roma, «E-democracy: the dark side»): il primo
+  intervento (00:00–15:15, voto elettronico, DEF CON Voting Village, sentenza tedesca) sei tu? (b) Hai **slide o foto** della
+  CyberChallenge.IT 2018 (Sapienza, 28/06/2018) o il **programma di Freedom Not Fear 2019**? Online non sono recuperabili.
+  (c) Codice Beta S04EP08: RaiPlay Sound la data 16/01/2025, in archivio è 17/01 — teniamo la data Rai?
+
 ### B0-duodecies. 2026-10-08
 - Copie delle voci nuove (lacuna 2004–2008 + ESC recuperate): **tutte ottenute**, quasi tutte dal Web Archive (webb.it
   2004, sikurezza.org, hack.lu 2006, osxcrypt.org 2008, mgpf.it, minotti.net), brevetto ITRM20060426A1 dal live.

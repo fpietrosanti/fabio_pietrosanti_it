@@ -1,0 +1,46 @@
+[
+ {
+  "lead": "Security Summit 2008 (Clusit)",
+  "result": "No 2008 edition exists: the earliest securitysummit.it captures (2008-09-27, 2008-10-06/16, ?areaID=1..11, en-index) all announce the FIRST edition 'Milano 24-26 marzo 2009 / Roma giugno 2009'. Nothing to find for 2008 (earlier Clusit 2008 events covered by the newsletter 2004-08 sweep)."
+ },
+ {
+  "lead": "Security Summit Milano 2011 (milano2011.securitysummit.it)",
+  "result": "Opened via Wayback (from the server): relatori list, relatori/view/189-191, page/atti_milano_2011, eventi/list/2,4,7,8,9,10,11. No Pietrosanti/naif/PrivateWave."
+ },
+ {
+  "lead": "Security Summit Roma 2011 (roma2011.securitysummit.it) and Verona 2011",
+  "result": "Opened: relatori, page/atti, page/edizioni_precedenti, eventi/list/2,4,7,8,9,10,11. Not named. Verona 2011 atti page (www.securitysummit.it/page/atti, capture 2011-11-10) not named either."
+ },
+ {
+  "lead": "Security Summit Roma 2009 atti (roma.securitysummit.it/page/atti_roma_2009), Milano 2010 precedenti_edizioni, securitysummit.it edizioni_precedenti/relatori (2011), Roma 2012 (atti, relatori, eventi lists)",
+  "result": "Opened, no mention."
+ },
+ {
+  "lead": "Clusit newsletter 2016-2026 (PDF series clusit.it/wp-content/uploads/newsletter/newsletter_DD_MM_YY.pdf)",
+  "result": "All 102 PDFs listed in the Wayback CDX for 2016-2026 downloaded on the server directly from clusit.it and grepped (pdftotext) for Pietrosanti / naif / Hermes Center / GlobaLeaks: 0 hits. From the laptop clusit.it serves a SiteGround captcha (not bypassed). Newer issues also exist as HTML posts clusit.it/blog/newsletter-* (not swept one by one; a WebSearch returned none mentioning him)."
+ },
+ {
+  "lead": "Hackmeeting wikis via Wayback: hackit08 DokuWiki (proposte_seminari, materiali_seminari, seminari_richiesti export_raw), /wiki/doku.php seminari (2007), /SEMINARI, /wikiwakka/SEMINARI and /genova2004 (Wakka wiki 2004), /_wiki Pagina_principale + Persone + Materiali (MediaWiki 2009), hackit09/application/seminari, hackit06 ?act=seminari",
+  "result": "All opened: no 'naif' or 'Pietrosanti'."
+ },
+ {
+  "lead": "Hackmeeting live site hackit03-hackit13 (programme/workshops/seminari/slides/docs/video pages)",
+  "result": "No naif/Pietrosanti. hackit12/seminari.html has a 'GlobaLeaks' seminar (Sat 30 June h19) but the speaker is 'some (random globaleaks contributor)': no name, so per rule not him (already listed as unverified in pass4_esc_hackmeeting_securitysummit_2026-09-18)."
+ },
+ {
+  "lead": "e-privacy 2015-2022 edition pages (XVI-XXX, main + relatori + interventi)",
+  "result": "Name only in XVII, XX, XXI, XXII-relatori, XXIII, XXX (all known) plus the 3 interventi pages added. XVI, XVIII, XIX, XXIV, XXVI-XXIX: not named. XXII (2017 autumn, Venezia): bio on the relatori page but no session with his name on the programme/interventi. No talk files with his name linked for 2015, 2016, 2018-2022 (materials folders 403; files found only via edition-page links)."
+ },
+ {
+  "lead": "XXV BBA (e-privacy XXV, 2019 summer, 7 June 2019)",
+  "result": "Programme, relatori#bba and interventi#bba credit only 'Hermes Center for Transparency and Digital Human Rights' (Big Brother Award slot 12:20). His name does not appear; bba.winstonsmith.org/bbaiYYYY.html pages are soft-404 copies of the 2018 page; Radio Radicale speaker index has no 2019 e-privacy entry. Not him per the rule."
+ },
+ {
+  "lead": "Freedom Not Fear 2019 (Brussels, 8-11 Nov 2019)",
+  "result": "Programme is the EtherCalc sheet calc.digitalcourage.de/fnf-bxl-2019-schedule: host times out from the laptop; Wayback has only the JS shell (captures 2019-2022), the data export was never captured. wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2019 and /Schedule do not exist (404). freedomnotfear.org/2019 posts (announcement, impressions, was-great, top-meet-up, joining, EU parliamentarians): no Pietrosanti/Hermes. WebSearch: nothing."
+ },
+ {
+  "lead": "Blockers",
+  "result": "Wayback playback from the laptop IP was intermittently blocked ('suspected abusive bot traffic') and IA was briefly 'Temporarily Offline'; WebFetch cannot fetch web.archive.org. All Wayback work was done from the server (ubuntu@51.158.36.151, temp dir removed afterwards)."
+ }
+]
