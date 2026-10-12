@@ -5,12 +5,12 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **999**; già processate: **1161**; ancora da processare: **0**
-- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **828** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **960**
+- Voci in `data/media.json`: **999**; già processate: **1165**; ancora da processare: **0**
+- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **831** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **963**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
-- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **97**
+- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **1**
 - 🎬 Video/audio scaricato (+ pagina): **93**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
@@ -46,11 +46,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2019 | 76 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 159 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 81 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 53 | 8 | 0 | 0 | 0 | 0 | 2 |
+| 2022 | 54 | 8 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 5 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 37 | 1 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 39 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -67,6 +67,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2006** · NVD / MITRE CVE — [CVE-2006-5817 (prl_dhcpd in Parallels Desktop for Mac Build 1940 uses insecure permissions](https://nvd.nist.gov/vuln/detail/CVE-2006-5817) · licenza: propria  
   2026-10-08, regola «senza nome, non sono io»: il record NVD/MITRE della CVE nata dal suo advisory Parallels (seclists 2006/Oct/581, Secunia SA22634) non lo nomina; la CVE resta solo come riferimento dell'advisory. Copia conservata.
+- ⏹️ **2010** · Schneier on Security (commento) — [Commento di Fabio Pietrosanti al post «End-to-End Encryption» di Bruce Schneier](https://www.schneier.com/blog/archives/2010/05/end-to-end_encr.html) · licenza: terzi  
+  2026-10-12: commento a un post del blog di Schneier (regola forum/mailing list) → escluso da media.json; copia conservata. 
 - ⏹️ **2011** · 28C3 Chaos Communication Congress, Berli — [Tor2web workshop](https://events.ccc.de/congress/2011/wiki/Tor2web) · licenza: terzi  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2011** · 28C3 Chaos Communication Congress, Berli — [Workshops/GlobaLeaks](https://events.ccc.de/congress/2011/wiki/Workshops/GlobaLeaks) · licenza: terzi  
@@ -1226,6 +1228,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Il Disinformatico (Paolo Attivissimo) — [Dopo l'invasione russa dell'Ucraina, che si fa con Kaspersky?](https://attivissimo.blogspot.com/2022/02/dopo-linvasione-russa-dellucraina-che.html) · copia: `2022/1a4808141196` (Web Archive 20220227) · licenza: terzi
 - **2022** · Il Disinformatico (Paolo Attivissimo) — [Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola?](https://attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html) · copia: `2022/8324ffd437c4` (Web Archive 20220627) · licenza: terzi
 - **2022** · Antonio Giangrande (self-published) — [ANNO 2022 L'ACCOGLIENZA OTTAVA PARTE](https://books.google.com/books?id=X_djEAAAQBAJ) · copia: `2022/651948a3dbe8` (live) · licenza: terzi
+- **2022** · Rai Radio1 - Eta Beta (listed on dicorin — [Intervista Arturo Di Corinto a RadioRaiUno - Eta Beta - 5 Marzo 2022](https://dicorinto.it/2022/03/) · copia: `2022/a3cbf77ea526` (Web Archive 20240427) · licenza: terzi
 - **2022** · Rai Radio1 - Eta Beta (listed on dicorin — [Intervista Arturo Di Corinto a RadioRaiUno - Eta Beta - 5 Marzo 2022](https://dicorinto.it/tipologia/interviste/intervista-arturo-di-corinto-a-radioraiuno-eta-beta-5-marzo-2022/) · copia: `2022/6c21d4d6ef39` (Web Archive 20220308) · licenza: terzi
 - **2022** · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/) · copia: `2022/5203723a3089` (live) · licenza: terzi
 - **2022** · Google Slides — [Slides of Fabio's talk at the SOS LOGistica 2022 conference, LIUC](https://docs.google.com/presentation/d/1cFW2EiiS6RLMGVRvyLTLgiOfYzU58XoMJrq7BTd2BZ4/edit) · copia: `2022/29680abb1822` (Web Archive 20221202) · licenza: propria
@@ -1322,7 +1325,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · biohack.it — [BIOHACK.IT — White paper & Specification v0.1](https://biohack.it/) · copia: `2026/9760958b0e08` (Web Archive 20211225) · licenza: propria
 - **2026** · NetEase (网易号) — 时光派健康抗衰 — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾 (video, 2'35")](https://c.m.163.com/news/v/VG6GUA7FN.html) · copia: `2026/a04369ee6255` (live) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://centroriformastato.it/iniziativa/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti/) · copia: `2026/9b1aceb83530` (Web Archive 20260308) · licenza: terzi
+- **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/2026/03/) · copia: `2026/7a9ae2c0f7c3` (Web Archive 20260724) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/) · copia: `2026/83c790f24f57` (Web Archive 20260410) · licenza: terzi
+- **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/tag/hacker/) · copia: `2026/81ab86109cda` (Web Archive 20260421) · licenza: terzi
 - **2026** · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo) · copia: `2026/9d2f7f839015` (live) · licenza: propria
 - **2026** · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch) · copia: `2026/60f47f5d7a64` (live) · licenza: propria
 - **2026** · GitHub — [secassure2026 (fork): Email Provider Dependencies and Email Security in Municipalities Acr](https://github.com/fpietrosanti/secassure2026) · copia: `2026/ea283ba1e5b4` (live) · licenza: propria

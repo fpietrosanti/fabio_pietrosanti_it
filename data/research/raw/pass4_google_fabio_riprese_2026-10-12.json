@@ -1,0 +1,80 @@
+[
+ {
+  "date": "2017-03-08",
+  "year": 2017,
+  "type": "mentioned",
+  "outlet": "dicorinto.it (ripresa di repubblica.it)",
+  "title": "Cia-WikiLeaks, \"siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Cloud\"",
+  "url": "https://dicorinto.it/testate/repubblica-it/la-repubblica-cia-wikileaks-siamo-molto-piu-vulnerabili-con-linternet-delle-cose-il-mobile-e-il-cloud/",
+  "language": "it",
+  "role": "subject",
+  "note": "Ripresa sul sito di Arturo Di Corinto dell'articolo di Repubblica già in archivio (segnalata dall'agente pass4_rai_cyberchallenge).",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2018-09-29",
+  "year": 2018,
+  "type": "mentioned",
+  "outlet": "dicorinto.it (ripresa di repubblica.it)",
+  "title": "Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la password”",
+  "url": "https://dicorinto.it/testate/repubblica-it/la-repubblica-attacco-a-facebook-il-giorno-dopo-per-precauzione-cambiate-subito-la-password/",
+  "language": "it",
+  "role": "subject",
+  "note": "Ripresa sul sito di Arturo Di Corinto dell'articolo di Repubblica già in archivio.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2026-03-17",
+  "year": 2026,
+  "type": "talk",
+  "outlet": "dicorinto.it (archivio marzo 2026)",
+  "title": "Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Rete)",
+  "url": "https://dicorinto.it/2026/03/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Pagina d'archivio con l'annuncio: 'ne discutono Stefano Chiccarelli, Arturo Di Corinto, Fabio Pietrosanti'.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2026-03-17",
+  "year": 2026,
+  "type": "talk",
+  "outlet": "dicorinto.it (tag hacker)",
+  "title": "Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Rete)",
+  "url": "https://dicorinto.it/tag/hacker/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Pagina tag con lo stesso annuncio (trovata con Google 'CyberChallenge 2018 pietrosanti').",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2022-03-05",
+  "year": 2022,
+  "type": "radio",
+  "outlet": "dicorinto.it (archivio marzo 2022)",
+  "title": "Intervista Arturo Di Corinto a RadioRaiUno - Eta Beta - 5 Marzo 2022",
+  "url": "https://dicorinto.it/2022/03/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Pagina d'archivio: 'Ospiti: Arturo Di Corinto…; Fabio Pietrosanti, presidente Centro Hermes…; Stefano Mele…'.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2010-05",
+  "year": 2010,
+  "type": "comment",
+  "outlet": "Schneier on Security (commento)",
+  "title": "Commento di Fabio Pietrosanti al post «End-to-End Encryption» di Bruce Schneier",
+  "url": "https://www.schneier.com/blog/archives/2010/05/end-to-end_encr.html",
+  "language": "en",
+  "role": "author",
+  "note": "Commento firmato 'Fabio Pietrosanti' (periodo PrivateWave). Commento a blog = come post in forum → escluso dall'elenco, copia conservata.",
+  "verified": true,
+  "known": false
+ }
+]

@@ -15762,6 +15762,9 @@
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18"
   ],
+  "mirrors": [
+   "https://dicorinto.it/2022/03/"
+  ],
   "on_old_site": false
  },
  {
@@ -17415,7 +17418,9 @@
    "pass4_eprivacy_sapienza_2026-09-18"
   ],
   "mirrors": [
-   "https://centroriformastato.it/iniziativa/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti/"
+   "https://centroriformastato.it/iniziativa/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti/",
+   "https://dicorinto.it/2026/03/",
+   "https://dicorinto.it/tag/hacker/"
   ],
   "tags": [
    "source-protection"

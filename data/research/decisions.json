@@ -565,6 +565,10 @@
   {
    "url": "https://nvd.nist.gov/vuln/detail/CVE-2006-5817",
    "reason": "2026-10-08, regola «senza nome, non sono io»: il record NVD/MITRE della CVE nata dal suo advisory Parallels (seclists 2006/Oct/581, Secunia SA22634) non lo nomina; la CVE resta solo come riferimento dell'advisory. Copia conservata."
+  },
+  {
+   "url": "https://www.schneier.com/blog/archives/2010/05/end-to-end_encr.html",
+   "reason": "2026-10-12, regola «forum e mailing list non contano»: è un suo commento sotto un post del blog di Schneier, non una pubblicazione. Copia conservata."
   }
  ],
  "override": [
