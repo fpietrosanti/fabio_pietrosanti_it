@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1358**; dopo deduplica: **990**
-- Già presenti sul vecchio sito: **44** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 946**
-- Verificati aprendo la pagina: **930**; solo da risultato di ricerca: **60**
+- Risultati grezzi dalle ricerche: **1370**; dopo deduplica: **999**
+- Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
+- **Nuovi rispetto al vecchio sito: 954**
+- Verificati aprendo la pagina: **939**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 175, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 66, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 28, Radio 26, Libro 22, social 21, Articolo scritto 20, Report 17, Comunicato 14, documento 13, Slide 12, Podcast 12, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 175, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 66, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 29, Radio 26, social 23, Libro 22, Articolo scritto 20, Report 20, Comunicato 14, documento 13, Slide 12, Podcast 12, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, programme 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -20,25 +20,25 @@ Per tipo (nuovi): Menzionato 175, tweet 132, Talk 78, Post sul blog infosecurity
 | 1999 | 0 | 1 | 1 |
 | 2000 | 2 | 16 | 13 |
 | 2001 | 8 | 16 | 11 |
-| 2002 | 2 | 14 | 7 |
+| 2002 | 2 | 15 | 7 |
 | 2003 | 5 | 7 | 6 |
 | 2004 | 1 | 12 | 11 |
 | 2005 | 1 | 8 | 5 |
 | 2006 | 4 | 9 | 3 |
 | 2007 | 1 | 13 | 10 |
 | 2008 | 0 | 13 | 13 |
-| 2009 | 1 | 45 | 43 |
+| 2009 | 1 | 46 | 44 |
 | 2010 | 6 | 63 | 53 |
 | 2011 | 4 | 27 | 24 |
-| 2012 | 0 | 28 | 28 |
+| 2012 | 0 | 30 | 30 |
 | 2013 | 0 | 28 | 28 |
 | 2014 | 0 | 28 | 28 |
-| 2015 | 0 | 37 | 37 |
+| 2015 | 0 | 38 | 38 |
 | 2016 | 0 | 21 | 21 |
 | 2017 | 0 | 69 | 69 |
-| 2018 | 0 | 60 | 60 |
+| 2018 | 0 | 63 | 63 |
 | 2019 | 0 | 59 | 59 |
-| 2020 | 0 | 165 | 165 |
+| 2020 | 0 | 166 | 166 |
 | 2021 | 0 | 88 | 88 |
 | 2022 | 0 | 59 | 59 |
 | 2023 | 0 | 14 | 14 |
@@ -508,7 +508,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 
-## 2020 — 165 voci, 165 nuove
+## 2020 — 166 voci, 166 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -810,6 +810,8 @@ Anni senza nessun risultato: nessuno
   Testo: «[ITA] Voto elettronico, l’Italia rischia il flop come in Iowa  Tutto a causa di @g_brescia che ignora o vuole ignorare le esperienze all’estero, per soddisfare le visioni di Davide Casaleggio che richiedono il Voto Online.  https://t.co/4hm2mo1O2E» Link: https://www.agendadigitale.eu/cultura-digitale/voto-elettronico-litalia-rischia-il-flop-come-in-iowa/. Wayback capture 20200212141238 (id_) di twitter.com/fpietrosanti/status/1227588157031448577.
 - 🆕 **2020-02-11** · tweet · Twitter — [Come non sprecare un milione di euro con il voto online (Brescia)](https://twitter.com/fpietrosanti/status/1227186128391938048)  
   Testo: «[ITA] Come non sprecare un milione di euro con l'introduzione del voto online proposto da @g_brescia che speculativamente ignora o vuole ignorare le esperienze nel resto del mondo, illuminato dalla micro-estonia, ultimo paese rimasto con il voto online https://t.co/b5QU6CATSl» Link: https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/. Wayback capture 20200211185002 (id_) di twitter.com/fpietrosanti/status/1227186128391938048.
+- 🆕 **2020-02** · programme · ITASEC 2020 (Conferenza italiana sulla cybersecurity, Ancona) — [ITASEC 2020 — programma della conferenza (bio relatore)](https://2020.itasec.it/itasec-2020/conference/)  
+  Bio: 'Fabio Pietrosanti: Presidente e co-fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali ... gestore di nodi Tor e Tor2web'. Pagina letta.
 - 🆕 **2020-01-22** · tweet · Twitter — [Estonia, voto online e M5S: ironia sulla presunta crescita della partecipazione](https://twitter.com/fpietrosanti/status/1220109706640924682)  
   Testo: «[ITA] In Estonia usano il voto online. Il Voto Online aumenta la partecipazione. Il M5S ispira le sue proposte di introduzione del voto all’Estonia. HAHAHAHAHAHAHAAHAHAHAHAHAHAAHHAAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAAHHAAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAAHHAAHAHA» Wayback capture 20200122223115 (id_) di twitter.com/fpietrosanti/status/1220109706640924682.
 - 🆕 **2020-01-16** · Articolo scritto · ParteciPa (Italian government consultation platform) - 'Italia 2025' Strategia per l'innovazione tecnologica e la digitalizzazione del Paese — [Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424)  
@@ -962,7 +964,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Talk · MOJO Italia - Festival del giornalismo mobile (2a edizione) — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/)  
   Speaker at 2nd edition (announced 2019-02-17) on whistleblowing, privacy and digital anonymity
 
-## 2018 — 60 voci, 60 nuove
+## 2018 — 63 voci, 63 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -996,6 +998,10 @@ Anni senza nessun risultato: nessuno
   Audio (1'07") del servizio andato in onda su Radio1 Rai durante l'Italian Hacker Camp 2018 (Padova, parco Fenice, 2-5 agosto 2018). Traccia SoundCloud id 480604977 caricata il 2018-08-03 dall'account 'flapperG' (Paola Guarnieri, giornalista Rai), la stessa che la incorpora nel suo articolo LinkedIn del 2018-08-04 (già noto). Il nome di Fabio è nel titolo della traccia (verificato via oEmbed e pagina SoundCloud). La pagina originale Rai (radio1.rai.it/GR) non è stata trovata: RaiPlay Sound non ha archivi GR1/Eta Beta/Zapping anteriori al 2021 e il Web Archive non ha catture pertinenti.
 - 🆕 **2018-07-10** · Menzionato · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://cybersecurity.startupitalia.eu/61414-20180710-cyberchallenge-2018-la-nuova-generazione-hacker-etici)  
   Report: 'Arturo di Corinto, che, in veste di presentatore ha introdotto Fabio Pietrosanti, hacker etico e cyberdefender professionista'; paraphrases Fabio 'Naif' on hacker ethics and cites hackmeeting, Italian Hacker Camp, RomHack, HackInBo; Roberto Baldoni (vice-director DIS) quoted. Ceremony at Museo di Arte Classica, Sapienza.
+- 🆕 **2018-07** · social · LinkedIn (Alessia Valentini) — [Post LinkedIn di Alessia Valentini sul report Cyberchallenge 2018 (StartupItalia)](https://www.linkedin.com/posts/alessiavalentini_cyberchallenge-2018-la-nuova-generazione-activity-6422822442670055424-Z3cz)  
+  'il mio secondo report sulla Cyberchallenge 2018 ... Fabio Pietrosanti naif ci ha aiutato a chiarire i concetti'. Pagina pubblica letta (curl).
+- 🆕 **2018-07** · social · LinkedIn (Giovanni Schiavon, ricondivisione) — [Ricondivisione LinkedIn del post di Alessia Valentini su Cyberchallenge 2018](https://www.linkedin.com/posts/giovanni-schiavon-3a2876161_cyberchallenge-2018-la-nuova-generazione-activity-6423252174477750272-6MN2)  
+  Riporta lo stesso testo: 'Fabio Pietrosanti naif ci ha aiutato a chiarire i concetti'.
 - 🆕 **2018-06-28** · Talk · CyberChallenge.IT 2018 award ceremony, Sapienza Università di Roma, Aula Odeion - Museo dell'Arte Classica (CINI Cybersecurity National Lab) — [Cyberchallenge.IT 2018: cerimonia di premiazione il 28 giugno a Roma (programme announcement)](https://www.consorzio-cini.it/index.php/it/labcs-home/labcs-news/1348-cerimonia-di-premiazione-dei-vincitori-di-cyberchallenge-it)  
   CINI: 28 June 2018, 9:00-13:15, Aula Odeion, Museo dell'Arte Classica, Città Universitaria, P.le Aldo Moro 5; 'Proseguirà con interventi di Fabio Pietrosanti, Hermes Center, delle aziende sponsor platinum...'
 - 🆕 **2018-06-21** · Menzionato · Askanews — [CyberChallenge, il 28 giugno la premiazione dei vincitori](http://www.askanews.it/cronaca/2018/06/21/cyberchallenge-il-28-giugno-la-premiazione-dei-vincitori-pn_20180621_00117/)  
@@ -1018,6 +1024,8 @@ Anni senza nessun risultato: nessuno
   Abstract page: 'Big Brother Awards Italia 2018 - Fabio Pietrosanti (HERMES Center)' with BBA description. Edition page, video and BBA site already known.
 - 🆕 **2018-06-08** · Video · Radio Radicale — [Singolarità. Come l'IoT, l'A.I., le fake news e le bolle informative ci obbligano a ripensare il concetto di privacy - XXIII edizione di e-privacy](https://www.radioradicale.it/scheda/543790/singolarita-come-liot-lai-le-fake-news-e-le-bolle-informative-ci-obbligano-a-ripensare)  
   e-privacy 2018 Bologna; presented Big Brother Awards Italia 2018
+- 🆕 **2018-06** · programme · Key4biz (PDF ufficiale CyberChallenge.IT) — [Agenda premiazione finale CyberChallenge.IT 2018 (28 giugno 2018)](https://www.key4biz.it/wp-content/uploads/2018/06/Agenda-Premiazione-finale_Cyberchallenge_28giugno18r.pdf)  
+  Programma ufficiale della cerimonia: '• Fabio Pietrosanti (Hermes Center for Transparency and Digital Human Rights)' tra gli interventi. PDF letto. Trovata con Google (segnalazione di Fabio 12/10).
 - 🆕 **2018-05-18** · Citato · Copernicani — [Un Ministro per il Digitale: i sostenitori del nostro appello](https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/)  
   Listed as supporter of the Copernicani appeal for a Minister for Digital, with a short quote; verified on Wayback capture 20210118 of www.copernicani.it/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/
 - 🆕 **2018-04-30** · Libro · Inter-American Development Bank — [Smarter Crowdsourcing for Anti-Corruption: A handbook of innovative legal, technical, and policy proposals](https://books.google.com/books?id=s8-aDwAAQBAJ)  
@@ -1271,7 +1279,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · magazine · Polityka (Wydawnictwo Prasowe Polityka), 2016 bound volume — [Polityka 2016 (article on GlobaLeaks)](https://books.google.com/books?id=RyCG694TkQAC)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Polish weekly, 2016 volume (exact issue unknown). Snippet: '... GlobaLeaks (Globalne Przecieki), którą stworzyli włoscy hakerzy Fabio Pietro-santi i Arturo Filastò dla fundacji Hermes Center for Transparency and Digital Human Rights ...'.
 
-## 2015 — 37 voci, 37 nuove
+## 2015 — 38 voci, 38 nuove
 
 - 🆕 **2015-11-02** · Citato · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/)  
   verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…
@@ -1347,6 +1355,8 @@ Anni senza nessun risultato: nessuno
   He criticises the leak-selling platform Slur as spying/extortion rather than whistleblowing
 - 🆕 **2015-01** · Report · Dyne.org (software manual) — [Jaro Mail 3.2 manual](https://archive.org/details/manualzilla-id-5679480)  
   Denis 'Jaromil' Roio (Dyne.org), manual of the Jaro Mail email client v3.2 (tag v3.2 dated 2015-01-25 on github.com/dyne/JaroMail). Acknowledgements thank '... Anatole Shaw, Francesco Politi and Fabio Pietrosanti for early testing and debugging'. Seen via Internet Archive full-text search snippet (copy uploaded to archive.org from manualzilla); not an academic work, a software documentation acknowledgement. Authorship of manual assumed from project, not read.
+- 🆕 **2015** · Report · Nexa Center for Internet & Society — Annual Report 2015 — [Nexa Center annual report 2015](https://nexa.polito.it/wp-content/uploads/2024/05/Nexa-Center-annual_report-2015.pdf)  
+  '73rd Nexa Wednesday, Principles and tools of whistleblowing: the GlobaLeaks case: March 11, 2015; guest: Fabio Pietrosanti.' PDF letto (25 MB).
 
 ## 2014 — 28 voci, 28 nuove
 
@@ -1466,7 +1476,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2013** · Altro · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/)  
   PDF speaker database entry, no sessions listed (year approximate)
 
-## 2012 — 28 voci, 28 nuove
+## 2012 — 30 voci, 30 nuove
 
 - 🆕 **2012-11-19** · panel · e-privacy XII (2012 winter edition), Torino, Politecnico di Torino - Progetto Winston Smith — [Sicurezza e controllo (tavola rotonda) - moderator](https://e-privacy.winstonsmith.org/e-privacy-XII.html)  
   Programme: '16:20 17:20 Sicurezza e controllo | Fabio Pietrosanti [Chairman column] | Mauro Alovisio / Chiara Fonio / Epto'; 'Fabio Pietrosanti - Hermes center for transparency and digital human rights'
@@ -1520,6 +1530,10 @@ Anni senza nessun risultato: nessuno
   IA FTS: 'Fabio Pietrosanti and Arturo Filasto, the cofounders of GlobaLeaks'; 'Pietrosanti is a thirty-year-old security engineer who looks like a twenty-...'. Same text in thismachinekills00gree_0 and thismachinekills0000andy. Duplicates of known thismachinekills0000gree.
 - 🆕 **2012** · Menzionato · IA mirrors of academic papers (arXiv 1204.0447, arXiv 1209.6398, FOCI'12 'Dealing with dead ends', D. Fifield PhD thesis) — [Acknowledgements/citations in Tor/censorship papers (IA copies)](https://archive.org/details/arxiv-1204.0447)  
   IA FTS: arxiv-1204.0447 'We want to thank Fabio Pietrosanti for helping with the experiments' + ref '27. Pietrosanti, F.: Private conversation' (Chinese scanners' TCP SYN retransmissions, Dec 2011); arxiv-1209.6398 'recognize Fabio Pietrosanti and Arturo Filasto for their valuable insight'; Foci12Final2 / dealing-with-dead-ends-efficient-routing-in-darknets_202512 'Fabio Pietrosanti for helping with the experiments'; fifield-thesis lists him in acknowledgements/bug credits. All already known via original URLs.
+- 🆕 **2012** · Report · Clusit — Rapporto 2012 sulla sicurezza ICT in Italia — [Rapporto Clusit 2012 sulla sicurezza ICT in Italia (ringraziamenti)](https://clusit.it/wp-content/uploads/docs/bbwPJRC2012fsh40gh.pdf)  
+  Elenco dei contributori: '... Alessio Pennasilico, Fabio Pietrosanti, Daniele Poma ...'. PDF letto dal server (dal portatile captcha).
+- 🆕 **2012** · Report · Clusit — 2012 Report on ICT Security in Italy (EN) — [Clusit 2012 Report on ICT Security in Italy (acknowledgements)](https://clusit.it/wp-content/uploads/docs/rt67d_o23xfrsh9IIE.pdf)  
+  Edizione inglese del Rapporto Clusit 2012: 'Alessio Pennasilico, Fabio Pietrosanti, Daniele Poma' tra i contributori. PDF letto.
 - 🆕 **2012** · Talk · International Journalism Festival 2012 — [Tecniche di dissidenza e repressione digitale](https://www.festivaldelgiornalismo.com/programme/2012/techniques-of-dissidence-and-digital-repression-2)  
   IJF12 Perugia session
 - 🆕 **2012** · Talk · International Journalism Festival 2012 — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2012/firewalls)  
@@ -1711,7 +1725,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2010** · Altro · SlideShare profile fpietrosanti — [Fabio Pietrosanti presentations (13 decks)](https://www.slideshare.net/fpietrosanti)  
   Profile from PrivateWave/Khamsa era
 
-## 2009 — 45 voci, 43 nuove
+## 2009 — 46 voci, 44 nuove
 
 - 🆕 **2009-12-21** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Index of economic freedom](https://web.archive.org/web/2012/http://infosecurity.ch/20091221/index-of-economic-freedom/)  
   Post on his personal blog (site offline; Wayback copy)
@@ -1801,6 +1815,8 @@ Anni senza nessun risultato: nessuno
   Wayback capture 2009-06-03 of the Milano 2009 speakers page; 'Fabio Pietrosanti' in the alphabetical list (between Pierluigi Perri and Simone Pugiotto). Complements the known newsletter 15/03/09 + SlideShare items for the SiKurezza.org seminar.
 - 🆕 **2009-03-13** · Menzionato · vitadigitale.corriere.it — [Hacker al cinema](https://vitadigitale.corriere.it/2009/03/13/hacker_al_cinema/)  
   verified via wayback; context: …i sono i nomi di Stefano Chiccarelli, Raoul Chiesa, Corrado Giustozzi, Matteo Giacomo Jori, Marco Misitano, Andrea Monti, Alessio Pennasilico, Pierluigi Perri, Fabio Pietrosanti, Andrea Rossetti e Stefano Zanero. La prim…
+- 🆕 **2009-03** · article · PMI.it — [Aperte le iscrizioni per il primo Hacking Film Festival](https://www.pmi.it/tecnologia/202259/aperte-le-iscrizioni-per-il-primo-hacking-film-festival.html)  
+  Hacking Film Festival, Milano 24-26/03/2009 (Security Summit): tra gli organizzatori '... Pierluigi Perri, Fabio Pietrosanti, Andrea Rossetti e Stefano Zanero'. Pagina letta.
 - 🆕 **2009** · Libro · R. Chiesa, S. Ducci, S. Ciappi, Profiling Hackers (CRC Press, 2009) - second IA copy — [Profiling hackers: the science of criminal profiling as applied to the world of hacking](https://archive.org/details/profili_chi_2009_00_8384)  
   IA FTS snippet: 'Alessandro Scartezzini, Antonis Anagnostopoulos, Fabio "Naif" Pietrosanti, Marco Tracina, Vittorio Pasteris...' (acknowledgements). Duplicate copy of known item profilinghackers0000chie.
 
@@ -1946,7 +1962,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2003-01** · Articolo scritto · Win Magazine n.48 (Edizioni Master), gennaio 2003 — [Caccia alle reti wireless - Lo sviluppo delle reti Wi-Fi cresce giorno dopo giorno, ma emergono nuovi problemi di sicurezza (di Fabio Pietrosanti e Yvette Agostini)](https://archive.org/details/win-magazine-italia-48)  
   Co-authored with Yvette Agostini, bylined as members of the Italian Blackhats association; verified in IA OCR text
 
-## 2002 — 14 voci, 7 nuove
+## 2002 — 15 voci, 7 nuove
 
 - 🆕 **2002-10-24** · Menzionato · Hacker Journal n.11 (24 ottobre-7 novembre 2002) — [News: reti wireless aperte - indagine sul campo a Milano da Naif e Vodka per conto di Portel; Etica hacker a SMAU02](https://archive.org/details/hackerjournal-11)  
   Reports the Portel wardriving survey by Naif and Vodka (18 access points in one hour, 12 without WEP) and the ITBH Ethical Hackers' Speech at SMAU 2002; pages dated 16-10-2002
@@ -1976,6 +1992,8 @@ Anni senza nessun risultato: nessuno
   naif in credits/greetings
 - ↺ **2002** · Articolo scritto · ICT Security (print magazine, Tecna Editrice; today ICT Security Magazine) — [Penetration Testing & Tiger Teams](https://www.slideshare.net/slideshow/ict-security-magazine-penetration-testing-e-tigerteam/1669099)  
   4-page print article (pp. 56-59) scanned and uploaded to SlideShare by Fabio Pietrosanti on 2009-07-01 as 'ICT Security Magazine: Penetration testing e tigerteam' (description: 'Quando il termine tiger team aveva ancora una accezione positiva!'). Author box on last page: 'Gli Autori: Raoul Chiesa aka Nobody ... / Fabio Pietrosanti aka Naif, Network Security Manager presso la I.NET SpA, IT, ITBH (Italian Black Hats Association) Founder Member'. Issue number/date not visible on scanned pages; year inferred (~2002) from I.NET role + ITBH founding; scan filename 'rs010502a'. Also listed as a local copy in fabio_pietrosanti_it-copies/2010/861f7ed4a4c3 (SlideShare profile snapshot).
+- ↺ **2002** · article · dvara.net (Raoul Chiesa) — [Riflessioni su finanza e hacking (bio di Raoul Chiesa)](https://www.dvara.net/hk/riflessioni_finanza_hacking.pdf)  
+  Bio di Chiesa: 'Nel 2001 è tra i fondatori, insieme a Marco Ivaldi aka Raptor e Fabio Pietrosanti aka Naif di ITBH, Italian Black Hats Association'. PDF letto; anno stimato ~2002 (citazioni più recenti 2002).
 
 ## 2001 — 16 voci, 11 nuove
 

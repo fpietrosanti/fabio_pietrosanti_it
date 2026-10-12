@@ -680,8 +680,15 @@ Richiesta di Fabio 2026-09-18 — da fare **alla fine**, quando non c'è più nu
       vuoto; wiki 2019 inesistente, post freedomnotfear.org senza nome. Recuperabile solo da una copia tua o di digitalcourage.
 - [ ] ICT Security (Tecna Editrice) cartaceo anni 2000: nessun indice online → chiedere a Fabio numeri/anni; numero dell'articolo «Penetration Testing & Tiger Teams».
 - [ ] TV: TG2, TG3, Neapolis (Rai 3), Studio Aperto citati nella bio 2013 senza date → chiedere a Fabio anni/argomenti.
-- [x] Sapienza CyberChallenge.IT 2018 — **chiuso il 2026-10-12**: unica pagina col nome resta l'annuncio CINI (già noto,
-      28/06/2018 Aula Odeion); 5 video YouTube 2018, stampa, Di Corinto: niente. Foto/slide solo se le hai tu.
+- [x] Sapienza CyberChallenge.IT 2018 — **fatto il 2026-10-12**. L'agente aveva trovato solo l'annuncio CINI; **su
+      segnalazione di Fabio**, la ricerca Google nel suo Chrome («CyberChallenge 2018 pietrosanti», «Security Summit
+      pietrosanti», «rapporto clusit pietrosanti») ha dato **+9 voci** (`pass4_google_fabio_cyberchallenge_securitysummit`):
+      agenda ufficiale della premiazione (PDF key4biz), 2 post LinkedIn (Alessia Valentini «Fabio Pietrosanti naif ci ha
+      aiutato…» + ricondivisione), ITASEC 2020 (bio relatore), Hacking Film Festival 2009 su PMI.it (organizzatori, legato
+      al Security Summit), Rapporto Clusit 2012 IT+EN (contributori), Nexa annual report 2015, bio di Raoul Chiesa su
+      dvara.net (ITBH 2001, «aka Naif»); + 3 nuove URL di voci note (CINI 1349, startupitalia.eu, pagina CRS del Manualetto).
+      **Lezione:** gli agenti con ricerca web generica perdono risultati che Google trova subito → per ogni tema chiuso
+      rifare almeno «<tema> pietrosanti» su Google nel Chrome di Fabio prima di dichiararlo negativo.
 
 ### Fase finale — aggiunta 2026-09-18
 - [ ] **Una foto di Fabio per ogni anno** (percorso di invecchiamento): raccogliere solo foto in cui è indicato per nome

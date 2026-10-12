@@ -173,6 +173,7 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 - **Domande per te:** (a) **Global Forum on Modern Direct Democracy 2018** (Roma, «E-democracy: the dark side»): il primo
   intervento (00:00–15:15, voto elettronico, DEF CON Voting Village, sentenza tedesca) sei tu? (b) Hai **slide o foto** della
   CyberChallenge.IT 2018 (Sapienza, 28/06/2018) o il **programma di Freedom Not Fear 2019**? Online non sono recuperabili.
+  *(b) superata in parte: su tua segnalazione Google ha dato +9 voci CyberChallenge/Security Summit/Clusit, vedi PIANO.)*
   (c) Codice Beta S04EP08: RaiPlay Sound la data 16/01/2025, in archivio è 17/01 — teniamo la data Rai?
 
 ### B0-duodecies. 2026-10-08

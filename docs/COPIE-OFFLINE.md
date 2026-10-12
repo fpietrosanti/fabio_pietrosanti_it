@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **990**; già processate: **1149**; ancora da processare: **0**
-- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **816** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **948**
+- Voci in `data/media.json`: **999**; già processate: **1161**; ancora da processare: **0**
+- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **828** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **960**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **97**
@@ -26,31 +26,31 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2000 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2001 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2002 | 15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2002 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2005 | 9 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2006 | 10 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2007 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2008 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2009 | 46 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 2009 | 47 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2010 | 62 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 29 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2012 | 28 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 2012 | 30 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 24 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2015 | 29 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 2015 | 30 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 68 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 47 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 52 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 76 | 3 | 0 | 0 | 0 | 0 | 2 |
-| 2020 | 158 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 159 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 81 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 53 | 8 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 5 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 36 | 1 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 37 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -378,6 +378,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2002** · WeekIT (Mondadori weekly, weekit.it) — [Crittografia e backdoor, parla Phil Zimmermann](https://web.archive.org/web/20040905220529/http://www.weekit.it:80/weekit/unico/art006004035348.jsp) · copia: `2002/28d7eb3aca2e` (Web Archive 20040905) · licenza: propria
 - **2002** · sikurezza.org wiki - Risorse/Itbh (Itali — [ITBH Ethical Hacker's Speech (SMAU 2002) resources page: Wireless (in)security - Fabio Pie](https://web.archive.org/web/20060428044642/http://www.sikurezza.org:80/wiki/Risorse/Itbh) · copia: `2002/95b156d1d0c8` (Web Archive 20060428) · licenza: terzi
 - **2002** · Apogeonline (Portel survey) — [A caccia di reti wireless insicure](https://www.apogeonline.com/articoli/a-caccia-di-reti-wireless-insicure-redazione-apogeonline/) · copia: `2002/937ccc909111` (Web Archive 20190817) · licenza: terzi
+- **2002** · dvara.net (Raoul Chiesa) — [Riflessioni su finanza e hacking (bio di Raoul Chiesa)](https://www.dvara.net/hk/riflessioni_finanza_hacking.pdf) · copia: `2002/1c8c6aa886d7` (Web Archive 20031004) · licenza: terzi
 - **2002** · Hackmeeting 2002 (Bologna) — [Hackit02 - who (participants list)](https://www.hackmeeting.org/hackit02/who.html) · copia: `2002/db0c9beba416` (Web Archive 20100612) · licenza: terzi
 - **2002** · BFi 11-dev file 03 — [[HaCkmEeTiNg] Re: hacking is NOT politics? (vecna, mail thread)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-03) · copia: `2002/3ecc0da83214` (Web Archive 20020808) · licenza: terzi
 - **2002** · BFi 11-dev file 04 — [Drivers e SEH in Win NT/2000 (valv`0)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-04) · copia: `2002/43cf34f76149` (Web Archive 20020207) · licenza: terzi
@@ -496,6 +497,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2009** · End Summer Camp 2009 (ESC09), Forte Bazz — [Ghost Track "Stasera si recita a soggetto" by naif&etc. (ESC09 materials)](https://www.endsummercamp.org/index.php?title=ESC09-Materiali) · copia: `2009/dd65e3bf1487` (Web Archive 20101226) · licenza: terzi
 - **2009** · End Summer Camp 2009 (ESC09), Forte Bazz — [Hacker Jeopardy by malveo+naif (da confermare)](https://www.endsummercamp.org/index.php?title=ESC09-Programma) · copia: `2009/cc5db1133ea0` (Web Archive 20090827) · licenza: terzi
 - **2009** · HAR2009 (Hacking at Random, Vierhouten N — [HAR-microemb - Italian micro-embassy at HAR2009 (endsummercamp.org wiki)](https://www.endsummercamp.org/index.php?title=HAR-microemb) · copia: `2009/858a56f4e2b1` (Web Archive 20170801) · licenza: terzi
+- **2009** · PMI.it — [Aperte le iscrizioni per il primo Hacking Film Festival](https://www.pmi.it/tecnologia/202259/aperte-le-iscrizioni-per-il-primo-hacking-film-festival.html) · copia: `2009/a6ed69a49c77` (Web Archive 20191020) · licenza: terzi
 - **2009** · SlideShare (Security Summit 2009 Milan) — [2009: Voice Security And Privacy (Security Summit - Milan)](https://www.slideshare.net/slideshow/2009-voice-security-and-privacy-security-summit-milan/1677364) · copia: `2009/1754875422e5` (live) · licenza: propria
 - **2010** · Voice of VOIPSA (voipsa.org blog) — [VoIP Firewall: Telephony vs Security world](http://voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/) · copia: `2010/53ff19d5ff87` (Web Archive 20101010) · licenza: propria
 - **2010** · Security Summit 2010 (Clusit), Milano, 1 — [Percorso professionale tecnico: "Sicurezza e telefonia mobile"](https://clusit.it/wp-content/uploads/newsletter/newsletter_08_03_10.pdf) · copia: `2010/db3b5da96f70` (live) · licenza: terzi
@@ -601,6 +603,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2012** · Dutton (Penguin) - Andy Greenberg — [This Machine Kills Secrets (additional IA copies thismachinekills00gree_0 / thismachinekil](https://archive.org/details/thismachinekills00gree_0) · copia: `2012/23820a2983ce` (live) · licenza: terzi
 - **2012** · arXiv / Karlstad University (Sweden) — [How China Is Blocking Tor (Philipp Winter, Stefan Lindskog)](https://arxiv.org/pdf/1204.0447) · copia: `2012/e41dd43e3f10` (Web Archive 20171124) · licenza: terzi
 - **2012** · arXiv:1209.6398 — [The Hidden Internet of Iran: Private Address Allocations on a National Network](https://arxiv.org/pdf/1209.6398) · copia: `2012/212976612d58` (Web Archive 20210716) · licenza: terzi
+- **2012** · Clusit — Rapporto 2012 sulla sicurezza I — [Rapporto Clusit 2012 sulla sicurezza ICT in Italia (ringraziamenti)](https://clusit.it/wp-content/uploads/docs/bbwPJRC2012fsh40gh.pdf) · copia: `2012/7bb64ea8fefc` (Web Archive 20211024) · licenza: terzi
+- **2012** · Clusit — 2012 Report on ICT Security in  — [Clusit 2012 Report on ICT Security in Italy (acknowledgements)](https://clusit.it/wp-content/uploads/docs/rt67d_o23xfrsh9IIE.pdf) · copia: `2012/8df21a724599` (Web Archive 20210619) · licenza: terzi
 - **2012** · e-privacy XI (Milano, Università degli S — [Tor Hidden Services / Tor2web - session: La privacy nella gestione delle fonti d'informazi](https://e-privacy.winstonsmith.org/e-privacy-XI.html) · copia: `2012/cdfdfc60840c` (Web Archive 20150914) · licenza: terzi
 - **2012** · e-privacy XII (Politecnico di Torino) — [Sicurezza e controllo (panel chair)](https://e-privacy.winstonsmith.org/e-privacy-XII.html) · copia: `2012/cd0d7eabfc99` (Web Archive 20150914) · licenza: terzi
 - **2012** · e-privacy XI (2012), Milano, Università  — [Flyer E-Privacy 2012 (PDF)](https://e-privacy.winstonsmith.org/materiali/2012/Flyer_E-Privacy-2012.pdf) · copia: `2012/fc7be5f29b13` (live) · licenza: terzi
@@ -693,6 +697,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · Chaos Communication Camp 2015 Wiki — [Village:Italian Embassy](https://events.ccc.de/camp/2015/wiki/Village:Italian_Embassy) · copia: `2015/be0a00adc033` (Web Archive 20150710) · licenza: propria
 - **2015** · Leo Rugens - Sconfinamenti (blog) — [Hacking Team e Resi Informatica: sassolino nella scarpa dopo sassolino nella scarpa, vuoi ](https://leorugens.wordpress.com/2015/08/09/hacking-team-e-resi-informatica-sassolino-nella-scarpa-dopo-sassolino-nella-scarpa-vuoi-vedere-che-questa-volta-facciamo-piazza-pulita/) · copia: `2015/a28007ff1dbb` (Web Archive 20191021) · licenza: terzi
 - **2015** · Nexa Center for Internet & Society (Poli — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://nexa.polito.it/mercoledi-73/) · copia: `2015/3ecb72b724bd` (Web Archive 20150305) · licenza: terzi
+- **2015** · Nexa Center for Internet & Society — Ann — [Nexa Center annual report 2015](https://nexa.polito.it/wp-content/uploads/2024/05/Nexa-Center-annual_report-2015.pdf) · copia: `2015/72ea275e4c30` (Web Archive 20240803) · licenza: terzi
 - **2015** · Tor Tech Report 2015-04-001 (The Tor Pro — [Hidden-service statistics reported by relays](https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf) · copia: `2015/292d68aabe22` (Web Archive 20151202) · licenza: terzi
 - **2015** · Hermes Center — [Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes](https://web.archive.org/web/2015/http://logioshermes.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/) · copia: `2015/41fa50b57983` (Web Archive 20150806) · licenza: propria
 - **2015** · End Summer Camp 2015 (ESC15), Forte Bazz — [Capanello c1509: Cosa pensano gli hacker degli hacker](https://www.endsummercamp.org/index.php?title=ESC15-Caps) · copia: `2015/f3801e08b9c0` (live) · licenza: terzi
@@ -823,6 +828,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Big Brother Awards Italia (Progetto Wins — [Big Brother Awards Italia 2018](https://bba.winstonsmith.org/) · copia: `2018/cdebd212568b` (Web Archive 20180621) · licenza: propria
 - **2018** · Inter-American Development Bank — [Smarter Crowdsourcing for Anti-Corruption: A handbook of innovative legal, technical, and ](https://books.google.com/books?id=s8-aDwAAQBAJ) · copia: `2018/86038ca623ec` (live) · licenza: terzi
 - **2018** · Inter-American Development Bank — [Smarter Crowdsourcing for Anti-Corruption: Manual de propuestas legales, técnicas y de pol](https://books.google.com/books?id=tc-aDwAAQBAJ) · copia: `2018/a9d50c94ddeb` (live) · licenza: terzi
+- **2018** · CyberChallenge.IT 2018 award ceremony, S — [Cyberchallenge.IT 2018: cerimonia di premiazione il 28 giugno a Roma (programme announceme](https://consorzio-cini.it/index.php/it/labaiis-home/60-italiano/laboratori/lab-cyber-security/notizie-in-evidenza/1349-cerimonia-di-premiazione-dei-vincitori-di-cyberchallenge-it) · copia: `2018/1851e9bd19cb` (live) · licenza: terzi
 - **2018** · Copernicani — [Un Ministro per il Digitale: i sostenitori del nostro appello](https://copernicani.it/blog/2018/05/18/un-ministro-per-il-digitale-i-sostenitori-del-nostro-appello/) · copia: `2018/76a7e07ba3fb` (Web Archive 20180520) · licenza: terzi
 - **2018** · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://cybersecurity.startupitalia.eu/61414-20180710-cyberchallenge-2018-la-nuova-generazione-hacker-etici) · copia: `2018/cb9e22f41130` (Web Archive 20201229) · licenza: terzi
 - **2018** · repubblica.it — [Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la password”](https://dicorinto.it/testate/repubblica-it/la-repubblica-attacco-a-facebook-il-giorno-dopo-per-precauzione-cambiate-subito-la-password/) · copia: `2018/5d37acfbb1bd` (Web Archive 20190826) · licenza: terzi
@@ -842,6 +848,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Voto digitale: rischi e vantaggi - Trasformazione digitale in Italia](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/181102-2024.mp3) · copia: `2018/645c4c2ae446` (live) · licenza: terzi
 - **2018** · Privacy Camp 2018 / EDPS-Civil Society S — [EDPS-Civil Society Summit 2018](https://privacycamp.eu/2018-edps-civil-society-summit/) · copia: `2018/ab26c076e307` (Web Archive 20180325) · licenza: terzi
 - **2018** · Rai Radio1 (servizio di Paola Guarnieri, — [A Padova il raduno degli hacker. Pietrosanti: "Altro che pirati, siamo i cavalieri del web](https://soundcloud.com/user-873190463/a-padova-il-raduno-degli-hacker-pietrosanti-altro-che-pirati-siamo-i-cavalieri-del-web) · copia: `2018/5392321adb9b` (live) · licenza: terzi
+- **2018** · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://startupitalia.eu/tech/cybersecurity/cyberchallenge-2018-la-nuova-generazione-di-hacker-etici/) · copia: `2018/c125efc80010` (Web Archive 20240808) · licenza: terzi
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [Big Brother Awards Italia 2018 - video (ep2018se_20_bba_awards.mp4)](https://urna.winstonsmith.org/materiali/2018/video/ep2018se_20_bba_awards.mp4) · copia: `2018/d0172f56532c` (Web Archive 20180912) · licenza: terzi
 - **2018** · video.fosdem.org — [Public money, public code, the Italian way (FOSDEM 2018 recording, mp4)](https://video.fosdem.org/2018/UA2.220/public_money_public_code.mp4) · copia: `2018/0bb1f3d0d72d` (Web Archive 20191025) · licenza: terzi
 - **2018** · Ethic Whispers (ethicwhispers.io) — [Ethic Whispers - the security token for whistleblowing](https://web.archive.org/web/20211203145414/http://ethicwhispers.io/) · copia: `2018/81904b98c83d` (Web Archive 20211203) · licenza: propria
@@ -855,7 +862,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · International Journalism Festival 2018 ( — [Italian privacy nightmare: tales of surveillance](https://www.journalismfestival.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/6f8c23954448` (Web Archive 20180620) · licenza: terzi
 - **2018** · International Journalism Festival (Perug — [Fabio Pietrosanti — president Hermes Center (IJF speaker page, sessions 2012-2018)](https://www.journalismfestival.com/speaker/fabio-pietrosanti) · copia: `2018/ce6d25a031d3` (Web Archive 20190917) · licenza: terzi
 - **2018** · Key4biz — [App per il ciclo mestruale, a rischio la privacy piu intima](https://www.key4biz.it/app-per-il-ciclo-mestruale-a-rischio-la-privacy-piu-intima/218397/) · copia: `2018/8d3cbbfb68f2` (Web Archive 20220625) · licenza: terzi
+- **2018** · Key4biz (PDF ufficiale CyberChallenge.IT — [Agenda premiazione finale CyberChallenge.IT 2018 (28 giugno 2018)](https://www.key4biz.it/wp-content/uploads/2018/06/Agenda-Premiazione-finale_Cyberchallenge_28giugno18r.pdf) · copia: `2018/ad3017121a61` (Web Archive 20221225) · licenza: terzi
 - **2018** · lastampa.it — [La rivolta degli informatici contro Casaleggio - La Stampa](https://www.lastampa.it/politica/2018/02/08/news/la-rivolta-degli-informatici-contro-casaleggio-1.33976791/) · copia: `2018/16e30881fc4b` (Web Archive 20190718) · licenza: terzi
+- **2018** · LinkedIn (Alessia Valentini) — [Post LinkedIn di Alessia Valentini sul report Cyberchallenge 2018 (StartupItalia)](https://www.linkedin.com/posts/alessiavalentini_cyberchallenge-2018-la-nuova-generazione-activity-6422822442670055424-Z3cz) · copia: `2018/cbb275f1a332` (live) · licenza: terzi
+- **2018** · LinkedIn (Giovanni Schiavon, ricondivisi — [Ricondivisione LinkedIn del post di Alessia Valentini su Cyberchallenge 2018](https://www.linkedin.com/posts/giovanni-schiavon-3a2876161_cyberchallenge-2018-la-nuova-generazione-activity-6423252174477750272-6MN2) · copia: `2018/703b5dc19aba` (live) · licenza: terzi
 - **2018** · Radio1 Rai (via LinkedIn Pulse, Paola Gu — [A Padova il raduno degli hacker: Pietrosanti: "Non chiamateci pirati, siamo cavalieri del ](https://www.linkedin.com/pulse/padova-il-raduno-degli-hacker-pietrosanti-non-pirati-siamo-guarnieri?trk=public_profile_article_view) · copia: `2018/88836bbf4796` (live) · licenza: terzi
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (current page URL)](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/cybersecurity--il-mondo-di-tor--accordo-skynetflix-214900-2419246682962353) · copia: `2018/6a010dcecbf7` (live) · licenza: terzi
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Hyperloop, TOR e Industria 4.0](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/hyperloop-tor-e-industria-40-152305-2419246668444300) · copia: `2018/a68eb372f836` (Web Archive 20250722) · licenza: terzi
@@ -958,6 +968,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE) · copia: `2019/26f28fdcd90f` (Web Archive 20190313 · video locale `media.mp4` (54 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/) · copia: `2020/355b38e1ace5` (Web Archive 20200329) · licenza: propria
 - **2020** · Veronica One / V1 HitStation (radioveron — [M5S, hacker a parlamentari: “Ecco Open Rousseau, così sarete liberi”](http://www.radioveronicaone.it/2020/10/01/m5s-hacker-a-parlamentari-ecco-open-rousseau-cosi-sarete-liberi/) · copia: `2020/a633ac33c593` (Web Archive 20210423) · licenza: terzi
+- **2020** · ITASEC 2020 (Conferenza italiana sulla c — [ITASEC 2020 — programma della conferenza (bio relatore)](https://2020.itasec.it/itasec-2020/conference/) · copia: `2020/af14ea87327f` (Web Archive 20211026) · licenza: terzi
 - **2020** · ANORC — [Immuni, ANORC a Pisano: dichiarazioni non allineate, faccia chiarezza](https://anorc.eu/attivita/immuni-anorc-a-pisano-dichiarazioni-non-allineate-faccia-chiarezza/) · copia: `2020/4ae161b7e732` (Web Archive 20200518) · licenza: terzi
 - **2020** · Il Gazzettino (Friuli ed.) — [Il Gazzettino-Friuli 2020-10-02 (article on 'Open Rousseau')](https://archive.org/details/GazzettinoFVG2020-10-02) · copia: `2020/66bdc072e602` (live) · licenza: terzi
 - **2020** · Bloomberg Businessweek, 2020-05-04 issue — [Article on the 2019 Pyongyang blockchain/cryptocurrency conference (Businessweek)](https://archive.org/details/business-week_2020-05-04) · copia: `2020/7e01e3b13b90` (live) · licenza: terzi
@@ -1310,6 +1321,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · Baijiahao (百家号) — 时光派健康抗衰 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://baijiahao.baidu.com/s?id=1876633550786371641) · copia: `2026/ad08bc661e1e` (live) · licenza: terzi
 - **2026** · biohack.it — [BIOHACK.IT — White paper & Specification v0.1](https://biohack.it/) · copia: `2026/9760958b0e08` (Web Archive 20211225) · licenza: propria
 - **2026** · NetEase (网易号) — 时光派健康抗衰 — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾 (video, 2'35")](https://c.m.163.com/news/v/VG6GUA7FN.html) · copia: `2026/a04369ee6255` (live) · licenza: terzi
+- **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://centroriformastato.it/iniziativa/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti/) · copia: `2026/9b1aceb83530` (Web Archive 20260308) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/) · copia: `2026/83c790f24f57` (Web Archive 20260410) · licenza: terzi
 - **2026** · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo) · copia: `2026/9d2f7f839015` (live) · licenza: propria
 - **2026** · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch) · copia: `2026/60f47f5d7a64` (live) · licenza: propria

@@ -1098,6 +1098,23 @@
   "on_old_site": true
  },
  {
+  "date": "2002",
+  "year": 2002,
+  "type": "article",
+  "outlet": "dvara.net (Raoul Chiesa)",
+  "title": "Riflessioni su finanza e hacking (bio di Raoul Chiesa)",
+  "url": "https://www.dvara.net/hk/riflessioni_finanza_hacking.pdf",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Bio di Chiesa: 'Nel 2001 è tra i fondatori, insieme a Marco Ivaldi aka Raptor e Fabio Pietrosanti aka Naif di ITBH, Italian Black Hats Association'. PDF letto; anno stimato ~2002 (citazioni più recenti 2002).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
+  ],
+  "on_old_site": true
+ },
+ {
   "date": "2002-01-17",
   "year": 2002,
   "type": "mentioned",
@@ -2440,6 +2457,23 @@
   ],
   "tags": [
    "books"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2009-03",
+  "year": 2009,
+  "type": "article",
+  "outlet": "PMI.it",
+  "title": "Aperte le iscrizioni per il primo Hacking Film Festival",
+  "url": "https://www.pmi.it/tecnologia/202259/aperte-le-iscrizioni-per-il-primo-hacking-film-festival.html",
+  "language": "it",
+  "role": "organizer",
+  "note": "Hacking Film Festival, Milano 24-26/03/2009 (Security Summit): tra gli organizzatori '... Pierluigi Perri, Fabio Pietrosanti, Andrea Rossetti e Stefano Zanero'. Pagina letta.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
   ],
   "on_old_site": false
  },
@@ -4919,6 +4953,40 @@
  {
   "date": "2012",
   "year": 2012,
+  "type": "report",
+  "outlet": "Clusit — Rapporto 2012 sulla sicurezza ICT in Italia",
+  "title": "Rapporto Clusit 2012 sulla sicurezza ICT in Italia (ringraziamenti)",
+  "url": "https://clusit.it/wp-content/uploads/docs/bbwPJRC2012fsh40gh.pdf",
+  "language": "it",
+  "role": "contributor",
+  "note": "Elenco dei contributori: '... Alessio Pennasilico, Fabio Pietrosanti, Daniele Poma ...'. PDF letto dal server (dal portatile captcha).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2012",
+  "year": 2012,
+  "type": "report",
+  "outlet": "Clusit — 2012 Report on ICT Security in Italy (EN)",
+  "title": "Clusit 2012 Report on ICT Security in Italy (acknowledgements)",
+  "url": "https://clusit.it/wp-content/uploads/docs/rt67d_o23xfrsh9IIE.pdf",
+  "language": "en",
+  "role": "contributor",
+  "note": "Edizione inglese del Rapporto Clusit 2012: 'Alessio Pennasilico, Fabio Pietrosanti, Daniele Poma' tra i contributori. PDF letto.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2012",
+  "year": 2012,
   "type": "talk",
   "outlet": "International Journalism Festival 2012",
   "title": "Tecniche di dissidenza e repressione digitale",
@@ -6493,6 +6561,23 @@
   ],
   "tags": [
    "newsroom-leaks"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2015",
+  "year": 2015,
+  "type": "report",
+  "outlet": "Nexa Center for Internet & Society — Annual Report 2015",
+  "title": "Nexa Center annual report 2015",
+  "url": "https://nexa.polito.it/wp-content/uploads/2024/05/Nexa-Center-annual_report-2015.pdf",
+  "language": "en",
+  "role": "speaker",
+  "note": "'73rd Nexa Wednesday, Principles and tools of whistleblowing: the GlobaLeaks case: March 11, 2015; guest: Fabio Pietrosanti.' PDF letto (25 MB).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
   ],
   "on_old_site": false
  },
@@ -9423,6 +9508,23 @@
   "on_old_site": false
  },
  {
+  "date": "2018-06",
+  "year": 2018,
+  "type": "programme",
+  "outlet": "Key4biz (PDF ufficiale CyberChallenge.IT)",
+  "title": "Agenda premiazione finale CyberChallenge.IT 2018 (28 giugno 2018)",
+  "url": "https://www.key4biz.it/wp-content/uploads/2018/06/Agenda-Premiazione-finale_Cyberchallenge_28giugno18r.pdf",
+  "language": "it",
+  "role": "speaker",
+  "note": "Programma ufficiale della cerimonia: '• Fabio Pietrosanti (Hermes Center for Transparency and Digital Human Rights)' tra gli interventi. PDF letto. Trovata con Google (segnalazione di Fabio 12/10).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2018-06-08",
   "year": 2018,
   "type": "project",
@@ -9611,6 +9713,43 @@
    "pass4_eprivacy_sapienza_2026-09-18",
    "pass4_rai_cyberchallenge_2026-10-12"
   ],
+  "mirrors": [
+   "https://consorzio-cini.it/index.php/it/labaiis-home/60-italiano/laboratori/lab-cyber-security/notizie-in-evidenza/1349-cerimonia-di-premiazione-dei-vincitori-di-cyberchallenge-it"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-07",
+  "year": 2018,
+  "type": "social",
+  "outlet": "LinkedIn (Alessia Valentini)",
+  "title": "Post LinkedIn di Alessia Valentini sul report Cyberchallenge 2018 (StartupItalia)",
+  "url": "https://www.linkedin.com/posts/alessiavalentini_cyberchallenge-2018-la-nuova-generazione-activity-6422822442670055424-Z3cz",
+  "language": "it",
+  "role": "mentioned",
+  "note": "'il mio secondo report sulla Cyberchallenge 2018 ... Fabio Pietrosanti naif ci ha aiutato a chiarire i concetti'. Pagina pubblica letta (curl).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-07",
+  "year": 2018,
+  "type": "social",
+  "outlet": "LinkedIn (Giovanni Schiavon, ricondivisione)",
+  "title": "Ricondivisione LinkedIn del post di Alessia Valentini su Cyberchallenge 2018",
+  "url": "https://www.linkedin.com/posts/giovanni-schiavon-3a2876161_cyberchallenge-2018-la-nuova-generazione-activity-6423252174477750272-6MN2",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Riporta lo stesso testo: 'Fabio Pietrosanti naif ci ha aiutato a chiarire i concetti'.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
+  ],
   "on_old_site": false
  },
  {
@@ -9627,6 +9766,9 @@
   "known": false,
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18"
+  ],
+  "mirrors": [
+   "https://startupitalia.eu/tech/cybersecurity/cyberchallenge-2018-la-nuova-generazione-di-hacker-etici/"
   ],
   "on_old_site": false
  },
@@ -11260,6 +11402,23 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-02",
+  "year": 2020,
+  "type": "programme",
+  "outlet": "ITASEC 2020 (Conferenza italiana sulla cybersecurity, Ancona)",
+  "title": "ITASEC 2020 — programma della conferenza (bio relatore)",
+  "url": "https://2020.itasec.it/itasec-2020/conference/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Bio: 'Fabio Pietrosanti: Presidente e co-fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali ... gestore di nodi Tor e Tor2web'. Pagina letta.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
   ],
   "on_old_site": false
  },
@@ -17254,6 +17413,9 @@
   "known": false,
   "_slices": [
    "pass4_eprivacy_sapienza_2026-09-18"
+  ],
+  "mirrors": [
+   "https://centroriformastato.it/iniziativa/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti/"
   ],
   "tags": [
    "source-protection"
