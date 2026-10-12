@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **979**; già processate: **1140**; ancora da processare: **0**
-- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **807** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **939**
+- Voci in `data/media.json`: **979**; già processate: **1141**; ancora da processare: **0**
+- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **808** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **940**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **97**
@@ -42,7 +42,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2015 | 28 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 14 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 67 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 45 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 46 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 76 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 158 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 81 | 7 | 0 | 0 | 0 | 0 | 0 |
@@ -822,6 +822,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [e-privacy XXIII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXIII-relatori.html) · copia: `2018/8cc2a1ae4777` (Web Archive 20200919) · licenza: terzi
 - **2018** · e-privacy 2018 (XXIII, Bologna) — [Big Brother Awards Italia 2018](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html) · copia: `2018/de6bba8ab6d7` (Web Archive 20181025) · licenza: terzi
 - **2018** · Euronews (en español) — [¿Rusia puede espiar a Italia gracias a la empresa de software Kaspersky?](https://es.euronews.com/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-) · copia: `2018/1e0cc7e9fe57` (Web Archive 20180406) · licenza: terzi
+- **2018** · Euronews (en español) — [¿Rusia puede espiar a Italia gracias a la empresa de software Kaspersky?](https://es.euronews.com/video/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-) · copia: `2018/0ea32bb38ddd` (live) · licenza: terzi
 - **2018** · 35C3 Chaos Communication Congress, Leipz — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) · copia: `2018/c1622c449f82` (Web Archive 20190623) · licenza: terzi
 - **2018** · GitHub cisagov/pshtt — [pshtt #148 «Provide a rating A+ up to F as a simplified selection»](https://github.com/cisagov/pshtt/issues/148) · copia: `2018/75a457a7f936` (api) · licenza: propria
 - **2018** · Tor Project GitLab (ex trac) — [Tor TPA #40397 «Introduce TLS MITM Detection on Tor Project websites»](https://gitlab.torproject.org/tpo/tpa/team/-/work_items/40397) · copia: `2018/8f7fb12c28ad` (api) · licenza: propria

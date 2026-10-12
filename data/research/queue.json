@@ -800,44 +800,59 @@
   },
   {
    "query": "\"Pietrosanti\" Kaspersky Euronews",
-   "status": "retry",
+   "status": "done",
    "pages": 2,
-   "note": "robot check Google 2026-10-12"
+   "date": "2026-10-12",
+   "found": 9
   },
   {
    "query": "OpenPUDO \"open source\" PUDO LESS",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 4
   },
   {
    "query": "\"Pietrosanti\" LIUC PUDO OR \"punti di ritiro\"",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 1
   },
   {
    "query": "\"Lazio\" app covid vulnerabilità \"Rocca\" 2020",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 9
   },
   {
    "query": "\"Giovanni Rocca\" \"Pietrosanti\" app covid Lazio vulnerabilità",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" covid \"celle\" OR \"dati di cella\" focolai",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 6
   },
   {
    "query": "OSSCI \"spazio cibernetico italiano\" telegram",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 2
   },
   {
    "query": "\"Osservatorio sicurezza dello spazio cibernetico\" OR OSSCI Pietrosanti",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 6
   },
   {
    "query": "\"Pietrosanti\" AIRE \"voto elettronico\" OR \"voto all'estero\" OR \"italiani all'estero\"",
@@ -1429,6 +1444,14 @@
    "captcha": true,
    "confirmed_new": 10,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa. Domini sohu.com e 163.com: un solo risultato, l'articolo biohacking 逆龄16岁 (163 già presente, sohu = ripresa nuova); thepaper.cn, sina.com.cn, radio24.it: zero. Query IJF (3 pagine, 27 risultati): 9 pagine nuove festivaldelgiornalismo/journalismfestival 2012-2014 (programmi, resoconti hackers' corner, Cura le tue fonti); query ifuriosi: solo ilriformista già presente. Robot check Google alla query '\"Pietrosanti\" Kaspersky Euronews': stop, non aggirato, voce messa in retry. 10 confermate, 10 copie ottenute. Modifiche non committate di un'altra sessione (pass4_cina 2026-10-09, tools, docs) lasciate fuori dal commit e ripristinate. Prossimo blocco: Kaspersky Euronews (retry) poi OpenPUDO, LIUC PUDO, app covid Lazio, OSSCI."
+  },
+  {
+   "date": "2026-10-12 08:40",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check (la query Kaspersky Euronews in retry è passata). 8 query libere (Kaspersky Euronews, OpenPUDO, LIUC PUDO, app covid Lazio, Giovanni Rocca, celle covid, OSSCI x2): tutte con meno di 10 risultati, pagina 2 non necessaria. 8 candidati verificati: 5 già in archivio (euronews it/es, cybersecurity360, giovanni-rocca.com, theinnovationgroup), 2 senza il nome di Fabio (wired.it Rocca, AbitareA set. 2020 PDF), 1 nuova URL = pagina video della stessa notizia Euronews ES 2018-04-06, registrata come mirror del record esistente (pass4_tv_rai_la7) con copia offline ottenuta. Scartati senza verifica: tweet proprio x.com, pagine tag euronews, profili LinkedIn, forum.italia.it (forum), schede Radio Radicale/Camera 1950-53 (Paolo/omonimi). Modifiche non committate di un'altra sessione (pass4_cina 2026-10-09, tools, docs) lasciate fuori dal commit e ripristinate. Prossimo blocco: AIRE voto elettronico e le query pending seguenti."
   }
  ]
 }

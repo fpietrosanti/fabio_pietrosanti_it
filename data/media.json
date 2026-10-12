@@ -9114,6 +9114,9 @@
   "note": "Spanish-language edition of the known Euronews Italian Kaspersky report. Page description: 'Según Fabio Pietrosanti, que es el presidente del Centro para la Transparencia y los Derechos Humanos, todas las agencias de seguridad italianas usan y utilizan el software antivirus Kaspersky.' Also on Dailymotion (euronews en español): https://www.dailymotion.com/video/x6hfo9a . Wayback CDX shows no equivalent April 2018 page on the en/fr/de/pt/ru/tr/gr/hu/fa/ar editions.",
   "verified": true,
   "known": false,
+  "mirrors": [
+   "https://es.euronews.com/video/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-"
+  ],
   "_slices": [
    "pass4_tv_rai_la7_2026-09-18"
   ],

@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://es.euronews.com/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.wired.it/article/sicurezza-informatica-italia-vulnerabilita-lazio-doctor-covid-giovanni-rocca/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://abitarearoma.it/PDF/AbitareA-settembre2020.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/",
+  "reason": "already in media.json"
+ }
+]
