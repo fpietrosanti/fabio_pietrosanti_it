@@ -919,29 +919,41 @@
   },
   {
    "query": "\"Pietrosanti\" PrivateGSM OR PrivateWave OR Khamsa",
-   "status": "retry",
+   "status": "done",
    "pages": 2,
-   "note": "2026-10-12 16:40: robot check Google alla pagina 1"
+   "note": "2026-10-12 20:29: 2 pagine; nuova: tracxn PrivateWave",
+   "date": "2026-10-12 20:29",
+   "found": 20
   },
   {
    "query": "\"Pietrosanti\" CRVD \"voto elettronico\"",
-   "status": "pending",
-   "pages": 1
+   "status": "done",
+   "pages": 1,
+   "date": "2026-10-12 20:29",
+   "found": 7,
+   "note": "2026-10-12 20:29: quasi tutto mailing list/forum o già in archivio"
   },
   {
    "query": "\"Pietrosanti\" filetype:pdf",
-   "status": "pending",
-   "pages": 3
+   "status": "done",
+   "pages": 3,
+   "date": "2026-10-12 20:29",
+   "found": 57,
+   "note": "2026-10-12 20:29: la query nuda dà solo omonimi (pag.1); eseguita invece \"Fabio Pietrosanti\" filetype:pdf per 3 pagine: 8 PDF nuovi verificati a mano con pdftotext"
   },
   {
    "query": "\"Fabio Pietrosanti\" intervista OR interview",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12 20:29",
+   "found": 17,
+   "note": "2026-10-12 20:29: 2 pagine; nuova hackingbiology Codice Beta, resto già in archivio"
   },
   {
    "query": "\"Pietrosanti\" whistleblowing D.lgs 24/2023",
-   "status": "pending",
-   "pages": 2
+   "status": "retry",
+   "pages": 2,
+   "note": "2026-10-12 20:29: robot check Google alla pagina 1"
   },
   {
    "query": "\"Pietrosanti\" biohack.it OR \"Hacking Biology\"",
@@ -1487,6 +1499,14 @@
    "captcha": true,
    "confirmed_new": 11,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa. Ripresa delle 5 query in retry: GlobaLeaks pag. 3, naif hacker (2 pag.), Hermes Center (2), Rousseau (2), Angius (1); poi Monitora PA (2). 56 candidati: 11 voci nuove (barcelonaradical GlobaLeaks, cild.eu FOIA MISE 2017, eunews HGE3 2016, homodigitalis + noyb Clearview, giornalesm + ilsussidiario Open Rousseau, euronews IT 2018 password manager, simpleanalytics, meleamspa, easyteam Monitora PA), tutte con copia offline. Esclusa news.dyne.org 'In memory of Carola Frediani' (firmatari, analoga a 'Ciao, Carola' gia' esclusa da Fabio). Respinte senza il nome: wikiwand, romhack, PDF uniroma2/iccorinaldo/rai Procaccianti/qfiumicino/lancorastorico/icpurificato, ilblogdellestelle, home monitora-pa.it. Scartati senza verifica: tweet propri, LinkedIn/Facebook, forum.italia.it, liste nexa/autistici (mailing list), github, schede Radio Radicale di terzi. Robot check alla query PrivateGSM/PrivateWave/Khamsa: stop, non aggirato, messa in retry. Prossimo blocco: PrivateWave (retry), CRVD voto elettronico, filetype:pdf, intervista/interview."
+  },
+  {
+   "date": "2026-10-12 20:29",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": true,
+   "confirmed_new": 11,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa. Query: PrivateWave (retry, 2 pag.), CRVD voto elettronico, filetype:pdf (la query nuda restituisce solo omonimi: sostituita con \"Fabio Pietrosanti\" filetype:pdf, 3 pag.), intervista (2 pag.). 44 candidati; molti già in archivio. verify_candidates.py non estrae testo dai PDF (tutti i PDF risultavano 'name not found'): ricontrollati a mano con pdftotext. Nuove 11 voci: tracxn PrivateWave, hackingbiology Codice Beta 2025, e-privacy 2012 Tor2web (mirror winstonsmith), CRS Manualetto sicurezza digitale 18/03/2026, flyer e-privacy 2012, lettera CILD-Hermes al MISE 23/01/2017, info.nodes report 2024 (board), lettera ANORC alla Ministra Pisano su Immuni 24/04/2020 (firmatario), programma OSCE RFoM 2016, slide MERGE-it 2018, programma e-privacy Winter 2012 Nexa (moderatore), conferenza stampa Mojo Festival 25/07/2018. Esclusi (decisions.json): radiodigiesse 'Non volevo fare lo sbirro' (omonimo), iphoneitalia (solo commento lettori), categoria informapirata, istanze FOIA Monitora PA Campania/Piemonte (dati personali, non copiate), verbali scalia2001 (omonimo consigliere), elenco PUMS, verbale Ordine Ingegneri Lecce. Senza nome / non leggibili: locandine comune.roma.it, iisfa_forum_2017 (PDF immagine, da OCR), newsletter clusit 2009 (226 byte), perfezionisti DFA 2012 (download fallito), raiplaysound pagina programma. Scartati senza verifica: LinkedIn/Instagram/Facebook, mailing list (nexa, autistici, inventati, seclists, freeswitch), groups.google, forum.italia.it, registri FOIA delle scuole. Robot check alla query whistleblowing D.lgs 24/2023: stop, non aggirato, messa in retry. Da migliorare: supporto PDF in tools/verify_candidates.py."
   }
  ]
 }
