@@ -856,42 +856,49 @@
   },
   {
    "query": "\"Pietrosanti\" AIRE \"voto elettronico\" OR \"voto all'estero\" OR \"italiani all'estero\"",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 9
   },
   {
    "query": "\"Hermes Center\" AIRE voto elettronico italiani estero",
-   "status": "pending",
-   "pages": 2
+   "status": "done",
+   "pages": 2,
+   "date": "2026-10-12",
+   "found": 2
   },
   {
    "query": "\"Fabio Pietrosanti\"",
-   "status": "pending",
-   "pages": 5
+   "status": "done",
+   "pages": 5,
+   "date": "2026-10-12",
+   "found": 48
   },
   {
    "query": "\"Pietrosanti\" GlobaLeaks -site:globaleaks.org",
-   "status": "pending",
-   "pages": 3
+   "status": "retry",
+   "pages": 3,
+   "note": "2026-10-12: pagine 1-2 fatte (18 risultati, tutti gia' in archivio), robot check alla pagina 3"
   },
   {
    "query": "\"naif\" \"Pietrosanti\" hacker",
-   "status": "pending",
+   "status": "retry",
    "pages": 2
   },
   {
    "query": "\"Pietrosanti\" \"Hermes Center\"",
-   "status": "pending",
+   "status": "retry",
    "pages": 2
   },
   {
    "query": "\"Pietrosanti\" OpenRousseau OR Rousseau M5S",
-   "status": "pending",
+   "status": "retry",
    "pages": 2
   },
   {
    "query": "\"Raffaele Angius\" M5S doppia iscrizione Pietrosanti",
-   "status": "pending",
+   "status": "retry",
    "pages": 1
   },
   {
@@ -1452,6 +1459,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check (la query Kaspersky Euronews in retry è passata). 8 query libere (Kaspersky Euronews, OpenPUDO, LIUC PUDO, app covid Lazio, Giovanni Rocca, celle covid, OSSCI x2): tutte con meno di 10 risultati, pagina 2 non necessaria. 8 candidati verificati: 5 già in archivio (euronews it/es, cybersecurity360, giovanni-rocca.com, theinnovationgroup), 2 senza il nome di Fabio (wired.it Rocca, AbitareA set. 2020 PDF), 1 nuova URL = pagina video della stessa notizia Euronews ES 2018-04-06, registrata come mirror del record esistente (pass4_tv_rai_la7) con copia offline ottenuta. Scartati senza verifica: tweet proprio x.com, pagine tag euronews, profili LinkedIn, forum.italia.it (forum), schede Radio Radicale/Camera 1950-53 (Paolo/omonimi). Modifiche non committate di un'altra sessione (pass4_cina 2026-10-09, tools, docs) lasciate fuori dal commit e ripristinate. Prossimo blocco: AIRE voto elettronico e le query pending seguenti."
+  },
+  {
+   "date": "2026-10-12 12:34",
+   "engine": "google-chrome",
+   "searched": 4,
+   "captcha": true,
+   "confirmed_new": 2,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa. Query AIRE voto elettronico (9 risultati) e Hermes Center AIRE (2): nessuna voce nuova (radioradicale libro bianco, open.gov.it IRM senza il nome di Fabio). '\"Fabio Pietrosanti\"' 5 pagine (48 risultati): quasi tutto gia' in archivio; nuove SFSCON pagina relatore e POuL 'Conferenze' (Sicurezza e Privacy con GlobaLeaks). Scribd 777154998 escluso (non verificabile, possibile omonimo autore 'Hodex'); it.wikipedia GlobaLeaks gia' presente come mirror. Scartati senza verifica: LinkedIn/Instagram/Facebook/Amazon (omonimo autore Hodex), tweet propri, forum.italia.it, villaggiomusicale/turismoroma (omonimi). Link YouTube delle pagine 2 e 4 persi (query string rimossa) - riprendere. Robot check alla pagina 3 di '\"Pietrosanti\" GlobaLeaks -site:globaleaks.org': stop, non aggirato; GlobaLeaks, naif, Hermes Center, Rousseau, Angius messe in retry. 2 confermate, 2 copie ottenute."
   }
  ]
 }

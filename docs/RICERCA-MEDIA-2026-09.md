@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1376**; dopo deduplica: **999**
+- Risultati grezzi dalle ricerche: **1378**; dopo deduplica: **1001**
 - Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 954**
-- Verificati aprendo la pagina: **939**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 956**
+- Verificati aprendo la pagina: **941**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 175, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 66, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 29, Radio 26, social 23, Libro 22, Articolo scritto 20, Report 20, Comunicato 14, documento 13, Slide 12, Podcast 12, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, programme 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 177, tweet 132, Talk 78, Post sul blog infosecurity.ch 72, Video 66, Citato 49, Progetto 33, Ricerca 31, Altro 30, article 29, Radio 26, social 23, Libro 22, Articolo scritto 20, Report 20, Comunicato 14, documento 13, Slide 12, Podcast 12, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, programme 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -2092,6 +2092,8 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · vice.com — [L’Europa si trova davvero in uno stato di emergenza perenne?](https://www.vice.com/it/article/stato-di-sorveglianza-perenne-europa-terrorismo-privacy/)
 - 🆕 Menzionato · vice.com — [Davvero Paolo Gentiloni non usa le email?](https://www.vice.com/it/article/paolo-gentiloni-email-sms-pubblica-amministrazione-protocolli/)
 - 🆕 Menzionato · vice.com — [Una volta per tutte: qual è la differenza tra hacker black hat e white hat](https://www.vice.com/it/article/una-volta-per-tutte-qual-e-la-differenza-tra-hacker-black-hat-e-white-hat/)
+- 🆕 Menzionato · sfscon.it — [Fabio Pietrosanti (naif) - SFSCON](https://www.sfscon.it/speakers/fabio-pietrosanti-naif/)
+- 🆕 Menzionato · poul.org — [POuL » Topic: Conferenze](https://poul.org/topic/Conferenze/)
 - 🆕 Menzionato · sohu.com — [逆龄16岁！日吞70粒补剂、电击肌肉，月烧600欧](https://www.sohu.com/a/1064715918_100270039)
 - 🆕 Menzionato · festivaldelgiornalismo.com — [Intercettazioni e comunicazioni confidenziali](https://www.festivaldelgiornalismo.com/programme/0/intercettazioni-e-comunicazioni-confidenziali)
 - 🆕 Menzionato · journalismfestival.com — [Wiretappings and secure communications](https://www.journalismfestival.com/programme/2018/intercettazioni-e-comunicazioni-confidenziali)

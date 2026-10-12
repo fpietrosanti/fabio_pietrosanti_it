@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **999**; già processate: **1165**; ancora da processare: **0**
-- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **831** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **963**
+- Voci in `data/media.json`: **1001**; già processate: **1167**; ancora da processare: **0**
+- Licenza delle copie ottenute: **227** materiale proprio (ripubblicabile), **833** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **965**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
@@ -20,7 +20,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 32 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -308,6 +308,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html) · copia: `undated/4a11e866d9e4` (live) · licenza: terzi
 - **None** · CRVD — Comitato per i Requisiti del Voto — [Tag: fabio pietrosanti — CRVD](https://hermescenter.github.io/crvd.org-preservation/tag/fabio-pietrosanti/) · copia: `undated/da0bf28b5dbe` (live) · licenza: terzi
 - **None** · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/) · copia: `undated/d749f156c850` (live) · licenza: terzi
+- **None** · poul.org — [POuL » Topic: Conferenze](https://poul.org/topic/Conferenze/) · copia: `undated/3d233789630b` (Web Archive 20191122) · licenza: terzi
 - **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner) · copia: `undated/10581a59d966` (Web Archive 20211022) · licenza: terzi
 - **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1) · copia: `undated/2aa62add9a98` (Web Archive 20220712) · licenza: terzi
 - **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/) · copia: `undated/40c7d7ea93ef` (Web Archive 20210929) · licenza: terzi
@@ -322,6 +323,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · journalismfestival.com — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/0/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `undated/090766fb9138` (live) · licenza: terzi
 - **None** · journalismfestival.com — [Wiretappings and secure communications](https://www.journalismfestival.com/programme/2018/intercettazioni-e-comunicazioni-confidenziali) · copia: `undated/0b92a888c870` (live) · licenza: terzi
 - **None** · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/) · copia: `undated/5ad9adf41ff0` (Web Archive 20150721) · licenza: terzi
+- **None** · sfscon.it — [Fabio Pietrosanti (naif) - SFSCON](https://www.sfscon.it/speakers/fabio-pietrosanti-naif/) · copia: `undated/08fa433c4cf4` (live) · licenza: terzi
 - **None** · sohu.com — [逆龄16岁！日吞70粒补剂、电击肌肉，月烧600欧](https://www.sohu.com/a/1064715918_100270039) · copia: `undated/9066a1a05fca` (live) · licenza: terzi
 - **None** · startmag.it — [Come (non) fare un'app anti Covid-19. L'appello di esperti e prof.](https://www.startmag.it/innovazione/come-non-fare-unapp-anti-covid-19-lappello-di-esperti-e-prof/) · copia: `undated/d3a3ba85358a` (Web Archive 20200423) · licenza: terzi
 - **None** · today.it — [Nella cyber war l'Italia affida i suoi segreti all'antivirus russo](https://www.today.it/tech/cyber-guerra-ucraina-russia-rischi-italia.html) · copia: `undated/3e6c9e670f0f` (Web Archive 20220302) · licenza: terzi

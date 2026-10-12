@@ -569,6 +569,10 @@
   {
    "url": "https://www.schneier.com/blog/archives/2010/05/end-to-end_encr.html",
    "reason": "2026-10-12, regola «forum e mailing list non contano»: è un suo commento sotto un post del blog di Schneier, non una pubblicazione. Copia conservata."
+  },
+  {
+   "url": "https://www.scribd.com/document/777154998/Fabio-Pietrosanti",
+   "reason": "Documento Scribd di 6 pagine caricato da terzi ('caligolas') con solo il titolo 'Fabio Pietrosanti': contenuto non leggibile senza login, nessun riferimento a naif/GlobaLeaks/Hermes, possibile omonimo (autore 'Hodex') - non verificabile, escluso 2026-10-12"
   }
  ],
  "override": [
