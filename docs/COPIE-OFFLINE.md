@@ -5,10 +5,10 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1038**; già processate: **1210**; ancora da processare: **0**
-- Licenza delle copie ottenute: **229** materiale proprio (ripubblicabile), **874** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1001**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **1**
+- Voci in `data/media.json`: **1052**; già processate: **1224**; ancora da processare: **0**
+- Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **887** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1014**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **2**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
@@ -21,7 +21,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 42 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 44 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -37,17 +37,17 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2009 | 47 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2010 | 62 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 29 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 2012 | 33 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2013 | 23 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2012 | 34 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2013 | 24 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2015 | 31 | 9 | 1 | 0 | 0 | 0 | 0 |
-| 2016 | 20 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2015 | 34 | 9 | 1 | 0 | 0 | 0 | 0 |
+| 2016 | 22 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 73 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 77 | 3 | 0 | 0 | 0 | 0 | 2 |
+| 2019 | 79 | 3 | 1 | 0 | 0 | 0 | 2 |
 | 2020 | 160 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2021 | 81 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 54 | 8 | 0 | 0 | 0 | 0 | 2 |
+| 2021 | 82 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 2022 | 55 | 8 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 7 | 6 | 0 | 0 | 0 | 0 | 0 |
@@ -276,6 +276,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🟡 **2015** · Nexa Center for Internet & Society (Poli — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://web.archive.org/web/20220519202553/https://nexa.polito.it/nexacenterfiles/mercoledi-73-pietrosanti.pdf) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · pr-foundation.org — [5 novembre a Milano: Incontro sulle Fondazioni Culturali e il Digitale — P&R Foundation](http://www.pr-foundation.org/5-novembre-milano/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
@@ -315,11 +317,13 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/) · copia: `undated/d749f156c850` (live) · licenza: terzi
 - **None** · homodigitalis.gr — [Privacy International, Hermes Center, Homo Digitalis and noyb join forces to end mass surv](https://homodigitalis.gr/en/posts/10379/) · copia: `undated/09ff6da76ea6` (Web Archive 20220118) · licenza: terzi
 - **None** · meleamspa.com — [Google Analytics viola il GDPR: cause ed effetti di un'altra battaglia nella guerra degli ](https://meleamspa.com/google-analytics-viola-gdpr-cause-effetti-battaglia-analytics/) · copia: `undated/e45a893ec37b` (Web Archive 20220716) · licenza: terzi
+- **None** · nexa.polito.it — [Fabio Pietrosanti Archives - Nexa Center for Internet & Society](https://nexa.polito.it/tag/fabio-pietrosanti/) · copia: `undated/3f185f9962b3` (Web Archive 20240722) · licenza: terzi
 - **None** · noyb.eu — [L'alleanza per i diritti digitali presenta denunce legali contro la società di riconoscime](https://noyb.eu/it/lalleanza-i-diritti-digitali-presenta-denunce-legali-contro-la-societa-di-riconoscimento-facciale) · copia: `undated/619ed9896d8f` (Web Archive 20210601) · licenza: terzi
 - **None** · poul.org — [POuL » Topic: Conferenze](https://poul.org/topic/Conferenze/) · copia: `undated/3d233789630b` (Web Archive 20191122) · licenza: terzi
 - **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner) · copia: `undated/10581a59d966` (Web Archive 20211022) · licenza: terzi
 - **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1) · copia: `undated/2aa62add9a98` (Web Archive 20220712) · licenza: terzi
 - **None** · tellsomeone.org.uk — [Our Technology - GlobalLeaks Crime Reporting Platform TellSomeone.org.uk](https://tellsomeone.org.uk/about/technology/) · copia: `undated/19c000bbf34b` (Web Archive 20250831) · licenza: terzi
+- **None** · thevision.com — [I trojan di Stato sono la nuova arma del potere](https://thevision.com/innovazione/trojan-informatici/) · copia: `undated/6a12566e8bb7` (live) · licenza: terzi
 - **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/) · copia: `undated/40c7d7ea93ef` (Web Archive 20210929) · licenza: terzi
 - **None** · Tracxn — [PrivateWave - Company Profile (Tracxn)](https://tracxn.com/d/companies/privatewave/__8Sn9ZPRKGsGkuCvrGY8mF_7VrSqjR9IVUAfLzECd7e8) · copia: `undated/8699471b5043` (live) · licenza: terzi
 - **None** · barcelonaradical.net — [Globaleaks: primer i únic sistema open source de whistleblowing](https://www.barcelonaradical.net/info/7574/globaleaks-primer-i-unic-sistema-open-source-de-whistleblowing) · copia: `undated/116b72e61bd7` (Web Archive 20150425) · licenza: terzi
@@ -646,6 +650,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2012** · Il Fatto Quotidiano — [Hacks Hackers, nuove tecnologie e giornalismo questa sera a Milano](https://www.ilfattoquotidiano.it/2012/06/13/hacks-hackers-nuove-tecnologie-e-giornalismo-questa-sera-a-milano/261989/) · copia: `2012/988932623ff3` (Web Archive 20120615) · licenza: terzi
 - **2012** · International Journalism Festival (Perug — [Firewalls](https://www.journalismfestival.com/programme/2012/firewalls) · copia: `2012/6ca4340d301d` (Web Archive 20120318) · licenza: terzi
 - **2012** · International Journalism Festival (Perug — [Techniques of dissidence and digital repression](https://www.journalismfestival.com/programme/2012/techniques-of-dissidence-and-digital-repression-2) · copia: `2012/f82e4a29963f` (Web Archive 20130928) · licenza: terzi
+- **2012** · nazioneindiana.com — [La riscoperta dei diritti civili nell’era digitale: e-privacy 2012 a Milano | Nazione Indi](https://www.nazioneindiana.com/2012/06/18/la-riscoperta-dei-diritti-civili-nellera-digitale-e-privacy-2012-a-milano/) · copia: `2012/d9838e2f61fc` (Web Archive 20120625) · licenza: terzi
 - **2012** · USENIX FOCI '12 — [How the Great Firewall of China is Blocking Tor (Winter, Lindskog)](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf) · copia: `2012/90c06f908516` (Web Archive 20140223) · licenza: terzi
 - **2012** · International Journalism Festival (YouTu — [Festival del Giornalismo 2012 - Videodiario, terza puntata (27 aprile) #ijf12](https://www.youtube.com/watch?v=1MYg_32I8lg) · copia: `2012/f059cb1da0bf` (live · video locale `media.mp4` (50 MB, da caricare su Drive)) · licenza: terzi
 - **2012** · International Journalism Festival (YouTu — [Festival del Giornalismo 2012 - Videodiario, terza puntata (27 aprile) #ijf12](https://www.youtube.com/watch?v=8icNqwJEIXM) · copia: `2012/56d560e86e70` (live · video locale `media.mp4` (30 MB, da caricare su Drive)) · licenza: terzi
@@ -664,6 +669,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2013** · Global Investigative Journalism Conferen — [Security Workshop: Tor & Globaleaks: Protecting Yourself and Your Sources Online](https://gijc13.sched.com/event/1cntRel/global-security-workshop-tor-globaleaks-protecting-yourself-and-your-sources-online-eng) · copia: `2013/f43791503657` (Web Archive 20190820) · licenza: terzi
 - **2013** · Global Investigative Journalism Conferen — [Fabio Pietrosanti — speaker profile (Hermes Center for Transparency and Digital Human Righ](https://gijc13.sched.com/speaker/fabio.pietrosanti) · copia: `2013/885d082021cd` (live) · licenza: terzi
 - **2013** · GitHub tor2web/Tor2web — [Tor2web #120 «Prevent CRIME attack on TLS by disabling compression»](https://github.com/tor2web/Tor2web/issues/120) · copia: `2013/54bda7300896` (api) · licenza: propria
+- **2013** · globaleaks.org — [iSEC Partners — GlobaLeaks security assessment (2013)](https://globaleaks.org/docs/pt/2013-isec.pdf) · copia: `2013/4a06c690f261` (Web Archive 20260807) · licenza: propria
 - **2013** · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/) · copia: `2013/2477679443f8` (Web Archive 20240917) · licenza: terzi
 - **2013** · Transparency International Italia - Whis — [Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione](https://web.archive.org/web/2015/http://logioshermes.org/hermes-center-intervento-whistleblowingitalia-congress-milano/) · copia: `2013/7f1c35b6bd0c` (Web Archive 20131019) · licenza: propria
 - **2013** · WikiLeaks - Hacking Team emails (publish — [Re: Microsoft e gli exploit....](https://wikileaks.org/hackingteam/emails/emailid/224431) · copia: `2013/f77f960c1c97` (live) · licenza: terzi
@@ -717,6 +723,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · The Tor Project blog - Tor Weekly News — [Tor Weekly News — August 30th, 2015](https://blog.torproject.org/tor-weekly-news-august-30th-2015/) · copia: `2015/72ec91ea27f2` (Web Archive 20190131) · licenza: terzi
 - **2015** · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/) · copia: `2015/bf3a57cee7ac` (Web Archive 20151104) · licenza: terzi
 - **2015** · e-privacy XVII (2015), Roma, Camera dei  — [e-privacy XVII - interventi (abstracts page; entry 'Fabio Pietrosanti (HERMES)')](https://e-privacy.winstonsmith.org/e-privacy-XVII-interventi.html) · copia: `2015/590e00acfd9c` (Web Archive 20150703) · licenza: terzi
+- **2015** · e-privacy.winstonsmith.org — [e-privacy XVII — La trasparenza e la privacy](https://e-privacy.winstonsmith.org/e-privacy-XVII-programma.html) · copia: `2015/eb4369086774` (Web Archive 20150702) · licenza: terzi
 - **2015** · e-privacy XVII (2015), Roma, Camera dei  — [e-privacy XVII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XVII-relatori.html) · copia: `2015/eaebb3b044f6` (Web Archive 20150703) · licenza: terzi
 - **2015** · e-privacy XVII (Camera dei Deputati, Rom — [Apertura lavori](https://e-privacy.winstonsmith.org/e-privacy-XVII.html) · copia: `2015/db043732d54b` (Web Archive 20160307) · licenza: terzi
 - **2015** · CCC Camp 2015 Wiki — [Projects:GlobaLeaks](https://events.ccc.de/camp/2015/wiki/Projects:GlobaLeaks) · copia: `2015/f84e72f2ed5c` (Web Archive 20150711) · licenza: propria
@@ -727,6 +734,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · Tor Tech Report 2015-04-001 (The Tor Pro — [Hidden-service statistics reported by relays](https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf) · copia: `2015/292d68aabe22` (Web Archive 20151202) · licenza: terzi
 - **2015** · SenzaBarcode — [Globaleaks contro la corruzione](https://senzabarcode.it/2015/04/22/globaleaks-contro-la-corruzione/) · copia: `2015/742c3c314849` (Web Archive 20190821) · licenza: terzi
 - **2015** · Hermes Center — [Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes](https://web.archive.org/web/2015/http://logioshermes.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/) · copia: `2015/41fa50b57983` (Web Archive 20150806) · licenza: propria
+- **2015** · dimt.it — [La trasparenza e la privacy: il bilanciamento tra le necessità di trasparenza e pubblicità](https://www.dimt.it/eventi/55la-trasparenza-e-la-privacy-il-bilanciamento-tra-le-necessita-di-trasparenza-e-pubblicita-e-le-aspettative-di-rispetto-della-privacy-dell-anonimato-e-della-segretezza-roma-2-e-3-luglio-2015/) · copia: `2015/b49378775e21` (Web Archive 20210119) · licenza: terzi
 - **2015** · End Summer Camp 2015 (ESC15), Forte Bazz — [Capanello c1509: Cosa pensano gli hacker degli hacker](https://www.endsummercamp.org/index.php?title=ESC15-Caps) · copia: `2015/f3801e08b9c0` (live) · licenza: terzi
 - **2015** · End Summer Camp 2015 (ESC15), Forte Bazz — [Hermes Overview 2015](https://www.endsummercamp.org/index.php?title=ESC15-Programma) · copia: `2015/847ba8cc82ce` (live) · licenza: terzi
 - **2015** · International Journalism Festival 2015 — [Whistleblowing digitale con GlobaLeaks](https://www.festivaldelgiornalismo.com/programme/2015/digital-whistleblowing-with-globaleaks) · copia: `2015/b63dd0f8e324` (Web Archive 20150426) · licenza: terzi
@@ -739,6 +747,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · International Journalism Festival (Perug — [Greenwald-in-a-box: a Hermes experiment (second session)](https://www.journalismfestival.com/programme/2015/greenwald-in-a-box-a-hermes-experiment-2) · copia: `2015/4420ff7c0ac5` (Web Archive 20160710) · licenza: terzi
 - **2015** · International Journalism Festival (Perug — [Take care of your sources - newsroom empowering with GlobaLeaks](https://www.journalismfestival.com/programme/2015/take-care-of-your-sources-newsroom-empowering-with-globaleaks) · copia: `2015/9965882f3dd8` (live) · licenza: terzi
 - **2015** · nytimes.com — [Battle Heats Up Over Exports of Surveillance Technology](https://www.nytimes.com/2015/11/01/world/middleeast/battle-heats-up-over-exports-of-surveillance-technology.html) · copia: `2015/53850628b027` (Web Archive 20151101) · licenza: terzi
+- **2015** · ohmygodel.com — [Privacy-preserving statistics for Tor hidden services (tech report)](https://www.ohmygodel.com/publications/hidden-service-stats-techreport.pdf) · copia: `2015/98ba2f087f85` (Web Archive 20160209) · licenza: terzi
 - **2015** · Conoscenza: Frontiera Digitale Radicale  — [Quello che non devi sapere: Tecnologia e Ragion di Stato](https://www.radioradicale.it/scheda/438714) · copia: `2015/12daf7a685c0` (Web Archive 20150702 · video locale `media.mp4` (1,147 MB, da caricare su Drive)) · licenza: terzi
 - **2015** · Radio Radicale — [Conoscenza: Frontiera Digitale Radicale. Tutto quello che non sai vedere, non devi capire,](https://www.radioradicale.it/scheda/438714/conoscenza-frontiera-digitale-radicale-tutto-quello-che-non-sai-vedere-non-devi-capire) · copia: `2015/186be96e016f` (Web Archive 20150601 · video locale `media.mp4` (1,147 MB, da caricare su Drive)) · licenza: terzi
 - **2015** · Radio Radicale — [XVII edizione di e-privacy 2015 spring edition - seconda e conclusiva giornata (3.07.2015)](https://www.radioradicale.it/scheda/447017/) · copia: `2015/ec4bbeb3b770` (live · video locale `media.02.mp4` (1,223 MB, da caricare su Drive)) · licenza: terzi
@@ -757,6 +766,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · GitHub NullHypothesis/exitmap — [exitmap #36 «Improve transparent HTTP proxy detection with SSL test on port 80»](https://github.com/NullHypothesis/exitmap/issues/36) · copia: `2016/b310a8b4befb` (api) · licenza: propria
 - **2016** · Tor Project (GitLab, ex Trac) — [Ticket #17975 «Introduce OutboundExitAddress to enable exit-only traffic to go via a diffe](https://gitlab.torproject.org/tpo/core/tor/-/work_items/17975) · copia: `2016/469cf926b0d1` (api) · licenza: propria
 - **2016** · MOCA 2016 - Metro Olografix Camp (Pescar — [GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani](https://moca2016.olografix.org/it/employees/fabio-naif-pietrosanti/) · copia: `2016/36d536a6070d` (live) · licenza: terzi
+- **2016** · moca2016.olografix.org — [MOCA 2016 - Perfectly Imperfect. L](https://moca2016.olografix.org/it/moca/) · copia: `2016/d639790d73d8` (Web Archive 20240129) · licenza: terzi
 - **2016** · MOCA 2016 - Metro Olografix Camp (Pescar — [GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani](https://moca2016.olografix.org/speakers/fabio-naif-pietrosanti/) · copia: `2016/8e366b51a756` (Web Archive 20241203) · licenza: terzi
 - **2016** · OSCE Representative on Freedom of the Me — [Digital Whistleblowing and Cybersecurity: Partnership of Journalists and Hackers in Public](https://rfom.osce.org/sites/default/files/f/documents/6/f/261926.pdf) · copia: `2016/888305f301cb` (live) · licenza: terzi
 - **2016** · Internet Freedom Festival 2016 (IFF), Va — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks](https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks) · copia: `2016/9098ca501b52` (Web Archive 20210620) · licenza: terzi
@@ -775,6 +785,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · repubblica.it — [Internet gratis da smartphone, paga lo sponsor. C'è Jana, l'anti Free Basics](https://www.repubblica.it/tecnologia/mobile/2016/03/15/news/internet_gratis_senza_restrizioni_in_cambio_di_pubblicita_c_e_jana_l_anti_free_basics-135554343/) · copia: `2016/9fbf6d8b1009` (Web Archive 20160316) · licenza: terzi
 - **2016** · repubblica.it — [Cybersicurezza, esperti italiani contro la nomina Carrai](https://www.repubblica.it/tecnologia/sicurezza/2016/01/20/news/sicurezza_informatica_lettera_aperta_renzi-131683869/) · copia: `2016/642e86b26172` (Web Archive 20160121) · licenza: terzi
 - **2016** · repubblica.it — ["Non date colpa all'algoritmo", errore umano alla base della censura social](https://www.repubblica.it/tecnologia/sicurezza/2016/09/12/news/_non_date_colpa_all_algoritmo_errore_umano_alla_base_della_censura_social-147611556/) · copia: `2016/71c62e74b813` (Web Archive 20160913) · licenza: terzi
+- **2016** · slideshare.net — [Storia e storie degli hacker della sicurezza informatica](https://www.slideshare.net/slideshow/storia-e-storie-degli-hacker-della-sicurezza-informatica/60171340) · copia: `2016/e8f574cc9b98` (Web Archive 20260310) · licenza: terzi
 - **2016** · Valigia Blu — [Mi chiamo Carrai, Marco Carrai e senza competenze potrei fare il capo della cybersicurezza](https://www.valigiablu.it/mi-chiamo-carrai-marco-carrai-e-senza-competenze-potrei-fare-il-capo-della-cybersicurezza/) · copia: `2016/754391ca99e6` (Web Archive 20160122) · licenza: terzi
 - **2016** · Wired Italia (Rosita Rijtano) — [Legge sul whistleblowing, un'opportunità da non sprecare. Ecco cosa manca](https://www.wired.it/attualita/politica/2016/02/01/legge-whistleblowing-opportunita/) · copia: `2016/ca13df31ee2a` (Web Archive 20160202) · licenza: terzi
 - **2016** · Eunews (YouTube) — [Intelligence, privacy e antiterrorismo in Europa](https://www.youtube.com/watch?v=IEViqE1HxfU) · copia: `2016/478b7b9746d3` (live · video locale `media.mp4` (538 MB, da caricare su Drive)) · licenza: terzi
@@ -932,6 +943,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · International Journalism Festival (YouTu — [Privacy nightmare Italia: storie di sorveglianza](https://www.youtube.com/watch?v=ukpO8e80sQc) · copia: `2018/67abfec1cacb` (Web Archive 20190413 · video locale `media.mp4` (392 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · 코인리더스 (CoinReaders, Korea) — [이더리움 핵심 개발자, 北에 암호화폐 기술 제공한 혐의로 체포…로저버, 美 정부 비난](http://coinreaders.com/6114) · copia: `2019/96fc722ed605` (Web Archive 20191210) · licenza: terzi
 - **2019** · 코인리더스 (CoinReaders, Korea) — [무허가 방북으로 체포된 이더리움 개발자 '석방' 결정...재판은 받아야](http://coinreaders.com/6123) · copia: `2019/741d26cb9092` (live) · licenza: terzi
+- **2019** · nohat.it — [R. Chiccarelli, Storia e storie degli hacker — slide No Hat 2019](http://www.nohat.it/slides/2019/chiccarelli.pdf) · copia: `2019/311cb5a52f3d` (Web Archive 20250226) · licenza: terzi
 - **2019** · CRVD — blog.crvd.org (URL originale, Way — [Come non sprecare un milione di euro](https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/) · copia: `2019/5e24ced344f5` (Web Archive 20200813) · licenza: terzi
 - **2019** · Laterza — [L'esecuzione. 5 Stelle da movimento a governo](https://books.google.com/books?id=rO2ODwAAQBAJ) · copia: `2019/8948d22cfd5e` (live) · licenza: terzi
 - **2019** · Copernicani — [Overlay Network Crittografici](https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/) · copia: `2019/0752d3df8d0b` (Web Archive 20190718) · licenza: terzi
@@ -950,6 +962,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [Come non sprecare un milione di euro](https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/) · copia: `2019/92e164fffed9` (live) · licenza: propria
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://hermescenter.github.io/crvd.org-preservation/i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/) · copia: `2019/48c4ec2b2a8e` (live) · licenza: terzi
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [Voto Online? No, grazie, e ti spiego perché…](https://hermescenter.github.io/crvd.org-preservation/voto-online-no-grazie-e-ti-spiego-perche/) · copia: `2019/1c10e6370c44` (live) · licenza: propria
+- **2019** · ius.lefebvregiuffre.it — [F. Brizzi, Il captatore informatico: un Exodus verso «buone pratiche»? (Il Penalista)](https://ius.lefebvregiuffre.it/dettaglio/8188379/il-captatore-informatico-un-exodus-verso-buone-pratiche) · copia: `2019/658334e1d15d` (live) · licenza: terzi
 - **2019** · MOJO Italia - Festival del giornalismo m — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/) · copia: `2019/42c19040bc86` (live) · licenza: terzi
 - **2019** · La Nuova di Venezia (gelocal, ripresa de — [Manovra, il M5S propone soldi per il fantasma del voto elettronico](https://nuovavenezia.gelocal.it/italia-mondo/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928390/amp/) · copia: `2019/15c51d4cd5b7` (Web Archive 20191122) · licenza: terzi
 - **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://podcast-radio24.ilsole24ore.com/radio24_audio/2019/190208-2024.mp3) · copia: `2019/f017b1a89c71` (live) · licenza: terzi
@@ -1252,6 +1265,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · Twitter — [@lastknight: con l'aiuto di @fpietrosanti ecco perche' il voto elettronico e' ANCORA una p](https://twitter.com/lastknight/status/1402148459692572672) · copia: `2021/230a56cf237a` (Web Archive 20210608) · licenza: terzi
 - **2021** · Twitter — [@smaffulli a Vito Crimi: il voto elettronico non esiste in nessun paese democratico (cc @f](https://twitter.com/smaffulli/status/1388266404097323008) · copia: `2021/836af16e2ac7` (Web Archive 20210430) · licenza: terzi
 - **2021** · Twitter — [@sonoclaudio: gli articoli di @faffa42 su Wired; @fpietrosanti e' stato espulso dal M5S](https://twitter.com/sonoclaudio/status/1384174236760035338) · copia: `2021/6274a86d6916` (Web Archive 20210419) · licenza: terzi
+- **2021** · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf) · copia: `2021/b3b32bed9f3a` (Web Archive 20241125) · licenza: terzi
 - **2021** · video.fosdem.org — [The first AGPL compliance case settled in an Italian Court (FOSDEM 2021 recording, mp4)](https://video.fosdem.org/2021/D.legal/agplcompliance.mp4) · copia: `2021/e9629639bec1` (Web Archive 20211003) · licenza: terzi
 - **2021** · Hermes Center (with Privacy Internationa — [Il Centro Hermes e altre 3 associazioni hanno inviato segnalazioni e reclami contro Clearv](https://web.archive.org/web/20210527054816/https://www.hermescenter.org/centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai/) · copia: `2021/4bcb9995c8c9` (Web Archive 20210527) · licenza: propria
 - **2021** · LESS Impresa Sociale (less.green) — [WHO WE ARE - Less: Fabio Pietrosanti CEO](https://web.archive.org/web/20221203113453/https://less.green/chi-siamo-less-impresa-sociale/who-we-are/) · copia: `2021/cb130cde4103` (Web Archive 20220125) · licenza: propria
@@ -1319,6 +1333,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Privacy Italia — [Google Analytics rimosso da 3.400 siti della PA, grazie a MonitoraPa: "Ora un esposto al G](https://www.privacyitalia.eu/google-analytics-rimosso-da-3-400-siti-della-pa-grazie-a-monitorapa-ora-un-esposto-al-garante-privacy/16760/) · copia: `2022/e2a84062096e` (Web Archive 20220526) · licenza: terzi
 - **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/google-analitycs--iot-e-controllo-accessi--beauty-tech--taxi-volanti-200500-2419319461594695) · copia: `2022/21425bf14783` (Web Archive 20230928) · licenza: terzi
 - **2022** · Rai Radio 1 - Eta Beta — [Eta Beta del 05/03/2022 - Guerre di rete, ecco chi sono i soldati del cyberspazio](https://www.raiplaysound.it/audio/2022/03/Eta-Beta-del-05032022-bfe193b3-3441-4fe7-875e-6d26d85e70f0.html) · copia: `2022/ade4f4362b85` (Web Archive 20220701) · licenza: terzi
+- **2022** · raiplaysound.it — [Eta Beta | Puntate 2022 | Rai Radio 1 | RaiPlay Sound](https://www.raiplaysound.it/programmi/etabeta/puntate/puntate-2022) · copia: `2022/faf7fd4a6ecc` (Web Archive 20240329) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora (Spreak — [1064. MonitoraPA ha mandato una PEC a 8254 scuole](https://www.spreaker.com/episode/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole-quali-le-domande-e-cosa-rispondere-con-42lf-it--51323447) · copia: `2022/4cdfae9d5870` (live · video locale `media.mp3` (53 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora (Spreak — [GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.spreaker.com/episode/google-analytics-e-pubbliche-amministrazioni-8-000-pa-sono-fuori-legge-ed-ora--49784871) · copia: `2022/856a89da52a2` (live · video locale `media.mp3` (28 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Startmag — [Anonymous, c'è un caso Kaspersky in Italia?](https://www.startmag.it/innovazione/anonymous-ce-un-caso-kaspersky-in-italia/) · copia: `2022/74abfa235c09` (Web Archive 20220228) · licenza: terzi

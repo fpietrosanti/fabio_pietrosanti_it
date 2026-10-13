@@ -1013,51 +1013,115 @@
   },
   {
    "query": "\"Pietrosanti\" Tor hidden service OR \"onion\" 2012 OR 2013",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)",
+   "done": "2026-10-13",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" \"Hermes\" 2014 OR 2015 trasparenza",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)",
+   "done": "2026-10-13",
+   "found": 8
   },
   {
    "query": "\"Pietrosanti\" sorveglianza OR \"trojan di Stato\" 2016",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)",
+   "done": "2026-10-13",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" Copernicani OR \"Italia digitale\" 2023 OR 2024",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)",
+   "done": "2026-10-13",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" longevità OR biohacker OR \"biohacking\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)",
+   "done": "2026-10-13",
+   "found": 8
   },
   {
    "query": "\"Pietrosanti\" \"cybersecurity\" OR \"sicurezza informatica\" 2024 OR 2025",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)",
+   "done": "2026-10-13",
+   "found": 8
   },
   {
    "query": "\"Pietrosanti\" \"Centro Hermes\" 2022 OR 2023",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)",
+   "done": "2026-10-13",
+   "found": 9
   },
   {
    "query": "\"naif\" hacker italiano 2011 OR 2012",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)",
+   "done": "2026-10-13",
+   "found": 9
+  },
+  {
+   "query": "\"naif\" s0ftpj OR \"Butchered From Inside\" OR BFi",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-13: coda esaurita, anni/temi deboli (2011-16, 2023-25)"
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" hackmeeting 1999 OR 2000 OR 2001",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Metro Olografix\" OR \"MOCA\" 2004 OR 2008",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" VoIP OR Asterisk OR SIP sicurezza 2005 OR 2006",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Ethical hacking\" OR \"penetration test\" 2003 OR 2004",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" GlobaLeaks 2023 OR 2024 intervista",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Hermes\" evento OR convegno 2024 OR 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" relatore OR speaker 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
   }
  ],
  "history": [
@@ -1609,6 +1673,14 @@
    "captcha": false,
    "confirmed_new": 3,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. Query: whistleblowing D.lgs 24/2023 (retry), biohack.it/Hacking Biology, SignalSwarm/PLogistics/LESS.green, e 5 nuove sugli anni deboli (Tor2web, whistleblower 2016/anticorruzione, podcast 2023-25, GlobaLeaks ANAC 2024-25, WikiLeaks/Anonymous 2011); tutte a pagina singola (<=10 risultati). 26 candidati, quasi tutti già in archivio. Nuove 3 voci con copia offline: StartupItalia 01/10/2018 e Corriere Buone Notizie 01/10/2018 (lancio WhistleblowingPA, citazioni; il Corriere verificato a mano: il verificatore falliva per la codifica ISO-8859-1), tellsomeone.org.uk (GlobaLeaks, Fabio tra gli Original Authors). Scartati: it.wikipedia GlobaLeaks (già presente come mirror), handwiki (clone di Wikipedia), dig-awards it (già presente la versione eng; sito dietro sgcaptcha), researchgate/academia paper TI Italia 2024 (403, da verificare), alessandrorodolfi.org (snippet 'Apetizer con Fabio Pietrosanti' non più sulla home né in Wayback), radioradicale 479123 (nome assente). Omonimi: osservatorioappalti (Anton Giulio), parcolucretili, consiglio Lazio, lavoce/CCA (Stefano), Matteo Pietrosanti, Francesca. Scartati senza verifica: LinkedIn/X/Instagram/Facebook, siti propri (hackingbiology, biohack.it, plogistics, infosecurity.ch), directory aziendali, forum.italia.it, seclists. Coda vuota: servono nuove query per il prossimo blocco."
+  },
+  {
+   "date": "2026-10-13 04:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 14,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 query della coda (Tor hidden service 2012-13, Hermes trasparenza 2014-15, trojan di Stato 2016, Copernicani/Italia digitale 2023-24, biohacking, cybersecurity 2024-25, Centro Hermes 2022-23, naif hacker 2011-12), tutte a pagina singola. 52 candidati, 22 già in archivio/decisioni, 30 verificati. Nuove 14 voci con copia offline: nazioneindiana e-privacy 2012, dimt.it e programma e-privacy XVII 2015, Nexa tag, The Vision trojan di Stato, Eta Beta puntate 2022, slide Chiccarelli 'Storia e storie degli hacker' (SlideShare 2016 e No Hat 2019, naif tra i hacker romani), MOCA 2016 (talk GlobaLeaks), audit iSEC 2013 di GlobaLeaks, tech report statistiche hidden service 2015 (cita proposta Tor2web 233), Brizzi su Il Penalista 2019 e tesi di dottorato UniSi (citano Aterno-Pietrosanti 2019), P&R Foundation Milano 5/11/2019 (relatore). PDF verificati a mano con pdftotext (il verificatore non li legge). Esclusi: Repubblica 2012 'hacker naif' (aggettivo), Anton Giulio Pietrosanti (ICON-S 2025, giustiziainsieme), radioradicale 446735 (Valentina Pietrosanti curatrice), pagine indice ilriformista tag e pr-foundation content. Scartati senza verifica: LinkedIn/Facebook/Instagram, mailing list tor-talk, forum.italia.it, siti propri. Coda esaurita: aggiunte 8 query sugli anni deboli."
   }
  ]
 }

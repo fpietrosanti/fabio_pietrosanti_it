@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1428**; dopo deduplica: **1038**
+- Risultati grezzi dalle ricerche: **1442**; dopo deduplica: **1052**
 - Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 993**
-- Verificati aprendo la pagina: **976**; solo da risultato di ricerca: **62**
+- **Nuovi rispetto al vecchio sito: 1007**
+- Verificati aprendo la pagina: **990**; solo da risultato di ricerca: **62**
 
-Per tipo (nuovi): Menzionato 194, tweet 132, Talk 80, Post sul blog infosecurity.ch 72, Video 70, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Podcast 12, Paper 9, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 203, tweet 132, Talk 82, Post sul blog infosecurity.ch 72, Video 70, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -30,17 +30,17 @@ Per tipo (nuovi): Menzionato 194, tweet 132, Talk 80, Post sul blog infosecurity
 | 2009 | 1 | 46 | 44 |
 | 2010 | 6 | 64 | 54 |
 | 2011 | 4 | 28 | 25 |
-| 2012 | 0 | 33 | 33 |
-| 2013 | 0 | 28 | 28 |
+| 2012 | 0 | 34 | 34 |
+| 2013 | 0 | 29 | 29 |
 | 2014 | 0 | 29 | 29 |
-| 2015 | 0 | 39 | 39 |
-| 2016 | 0 | 26 | 26 |
+| 2015 | 0 | 42 | 42 |
+| 2016 | 0 | 28 | 28 |
 | 2017 | 0 | 73 | 73 |
 | 2018 | 0 | 68 | 68 |
-| 2019 | 0 | 60 | 60 |
+| 2019 | 0 | 63 | 63 |
 | 2020 | 0 | 167 | 167 |
-| 2021 | 0 | 88 | 88 |
-| 2022 | 0 | 59 | 59 |
+| 2021 | 0 | 89 | 89 |
+| 2022 | 0 | 60 | 60 |
 | 2023 | 0 | 14 | 14 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 13 | 13 |
@@ -216,7 +216,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 
-## 2022 — 59 voci, 59 nuove
+## 2022 — 60 voci, 60 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -336,8 +336,10 @@ Anni senza nessun risultato: nessuno
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Author: Antonio Giangrande (self-published compilation, 349 pp.; year from title). Reprints Nicola Biondo, Il Riformista, 28 Feb 2022, on Kaspersky in Italian public bodies: '... Fabio Pietrosanti del centro Hermes. “Ecco come Putin può disconnettere l'Italia” ... Fabio Pietrosanti è un attivista ...'; also 'Pietrosanti in una recente intervista al Riformista aveva spiegato ...'.
 - 🆕 **2022** · Talk · DIG Festival 2022 (Modena) — [Fabio Pietrosanti - speaker, Edizione 2022](https://dig-awards.org/eng/speakers/fabio-pietrosanti/)  
   Investigative journalism festival speaker page
+- 🆕 **2022** · Menzionato · raiplaysound.it — [Eta Beta / Puntate 2022 / Rai Radio 1 / RaiPlay Sound](https://www.raiplaysound.it/programmi/etabeta/puntate/puntate-2022)  
+  verified via wayback; context: …aumentino di intensità e soprattutto che arrivino ovunque nel mondo. Italia compresa. Ospiti: Arturo Di Corinto, giornalista esperto di sicurezza informatica; Fabio Pietrosanti, presidente Centro Hermes per i diritti uma…
 
-## 2021 — 88 voci, 88 nuove
+## 2021 — 89 voci, 89 nuove
 
 - 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Anthology (probably reprints the Mann chapter). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing. Retrieved 17 March 2019, https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html'.
@@ -515,6 +517,8 @@ Anni senza nessun risultato: nessuno
   IA FTS snippets: 'the Italian information-security specialist Fabio Pietrosanti; and an American living in Singapore, Virgil [Griffith]' (Pyongyang conference attendees); index 'Pietrosanti, Fabio, 109'. Lending-restricted.
 - 🆕 **2021** · Video · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license compatibility and source code availability](https://av.tib.eu/media/13945)  
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
+- 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
+  verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
 
 ## 2020 — 167 voci, 167 nuove
 
@@ -853,7 +857,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 60 voci, 60 nuove
+## 2019 — 63 voci, 63 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -933,6 +937,8 @@ Anni senza nessun risultato: nessuno
   Verificato via API: PR aperta da vodkina (Yvette Agostini) il 2019-11-13, merge eseguito da fpietrosanti il 2019-11-14 (merge commit 43e0f325, autore 'Fabio (naif) Pietrosanti').
 - 🆕 **2019-11-12** · Progetto · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (pipeline 0, definizione tecnica)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano)  
   Never-launched project promoted by Fabio (2019), 250+ people involved, before ACN; stopped over fear of legal repercussions of active scanning
+- 🆕 **2019-11-05** · Talk · pr-foundation.org — [5 novembre a Milano: Incontro sulle Fondazioni Culturali e il Digitale — P&R Foundation](http://www.pr-foundation.org/5-novembre-milano/)  
+  verificato a mano 2026-10-13 (ricerca Google); tavola rotonda moderata da Eugenio Cau: Fabio Pietrosanti, Founder, Hermes Center; anno dedotto dai ruoli dei relatori (Italia Viva, Scorza al Team Digitale)
 - 🆕 **2019-11** · Report · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit)  
   Project document reviewed by dozens of engineers and lawyers (Fabio); very early-stage for its time; archived as PDF/TXT/DOCX
 - 🆕 **2019-10-31** · Menzionato · CorCom (Corriere Comunicazioni) — [Garante Privacy, 86 nuovi candidati](https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/)  
@@ -941,6 +947,8 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …a e al microfono, quindi scattare foto e ascoltare conversazioni. Come proteggersi Difficile che la vittima si accorga di essere digitalmente pedinata, avverte Fabio Pietrosanti , co-fondatore del Centro Hermes per la tr…
 - 🆕 **2019-10** · institutional · Camera dei deputati (XVIII legislatura) — [Candidature a componente del Collegio del Garante per la protezione dei dati personali pervenute alla Camera dei deputati](https://www.camera.it/leg18/1372)  
   Elenco ufficiale dei candidati: «Pietrosanti Fabio (**)» = candidatura pervenuta dopo la riapertura dei termini (avviso del 7 ottobre 2019), con link al curriculum CV_PIETROSANTI_FABIO_.pdf (file_cv_pdfs/000/000/265). Letta dalla capture Web Archive 20200926174454 (anche 20200306, 20210123); pagina live 404 dal 2024. Il PDF del curriculum non e' mai stato archiviato (CDX vuoto, live 404). Conferma la voce CorCom 31/10/2019.
+- 🆕 **2019-09-04** · Menzionato · ius.lefebvregiuffre.it — [F. Brizzi, Il captatore informatico: un Exodus verso «buone pratiche»? (Il Penalista)](https://ius.lefebvregiuffre.it/dettaglio/8188379/il-captatore-informatico-un-exodus-verso-buone-pratiche)  
+  verificato a mano 2026-10-13 (ricerca Google); cita S. Aterno, F. Pietrosanti, «Intercettazioni via trojan, come evitare un nuovo caso Exodus» (Agenda Digitale 2019)
 - 🆕 **2019-09-03** · Menzionato · The Vision — [Un governo deciso da un sondaggio online è la vergogna della democrazia italiana](https://thevision.com/politica/governo-rousseau-democrazia/)  
   Cites him (Hermes Center) noting Rousseau's Mozilla HTTP Observatory rating F during the Conte II Rousseau vote
 - 🆕 **2019-04-09** · Articolo scritto · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/)  
@@ -975,6 +983,8 @@ Anni senza nessun risultato: nessuno
   ANAC's OpenWhistleblowing software credits Fabio Pietrosanti <naif@globaleaks.org> among original GlobaLeaks authors
 - 🆕 **2019** · Talk · MOJO Italia - Festival del giornalismo mobile (2a edizione) — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/)  
   Speaker at 2nd edition (announced 2019-02-17) on whistleblowing, privacy and digital anonymity
+- 🆕 **2019** · Talk · nohat.it — [R. Chiccarelli, Storia e storie degli hacker — slide No Hat 2019](http://www.nohat.it/slides/2019/chiccarelli.pdf)  
+  verificato a mano 2026-10-13 (ricerca Google); «naif» tra i hacker romani e nella scena italiana anni '90
 
 ## 2018 — 68 voci, 68 nuove
 
@@ -1264,7 +1274,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2017** · pagina · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/)  
   Scheda biografica sul vecchio sito Hermes (PrivateWave, hacking community dal 1995, Twitter @fpietrosanti). Capture: https://web.archive.org/web/20210306145428/https://www.hermescenter.org/members/fabio-pietrosanti/ ; versione precedente con 'IRC: naif@irc.oftc.net #globaleaks': https://web.archive.org/web/20171022005215/https://www.hermescenter.org/home/about-mission/people/members/fabio-pietrosanti/ . Lo nominano anche gli elenchi soci /members/, /it/soci/ (capture 20210306140933) e /home/about-mission/people/ (stessa voce, non conteggiati a parte). Verificato sulle copie nello zip Wayback locale.
 
-## 2016 — 26 voci, 26 nuove
+## 2016 — 28 voci, 28 nuove
 
 - 🆕 **2016-12-29** · Talk · 33C3 Chaos Communication Congress, Hamburg (Lightning Talks) — [Robots txt abuses by government agencies against transparency (lightning talk)](https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency)  
   5-min lightning talk, Day 3 14:55; organizer 'Fabio Pietrosanti (naif)', website hermescenter.org; research on Italian PA/EU robots.txt
@@ -1288,6 +1298,8 @@ Anni senza nessun risultato: nessuno
   Official OSCE RFoM speakers/participants biographies booklet for the conference 'Gaining a Digital Edge: Freedom of Expression' (Vienna, 14-15 September 2016), organised by the OSCE Representative on Freedom of the Media, the OSCE Mission to Serbia, CEU CMDS and the SHARE Foundation. Page 25-page PDF at https://www.osce.org/files/f/documents/4/9/263301_0.pdf carries a full bio headed 'Fabio Pietrosanti', explicitly with the nickname 'naif' since 1995, President and co-founder of the Hermes Center for Transparency and Digital Human Rights, Transparency International Italia member, Tor/Tor2web node operator, GlobaLeaks co-founder. Text downloaded and verified. Event page: https://www.osce.org/fom/261921
 - 🆕 **2016-09-12** · Menzionato · repubblica.it — ["Non date colpa all'algoritmo", errore umano alla base della censura social](https://www.repubblica.it/tecnologia/sicurezza/2016/09/12/news/_non_date_colpa_all_algoritmo_errore_umano_alla_base_della_censura_social-147611556/)  
   verified via wayback; context: …ione. Perché a differenza della pedopornografia, più facilmente identificabile, il concetto di "estremista" ricade in uno spettro più ampio. Sulla stessa linea Fabio Pietrosanti , cofondatore del Centro Hermes per la tra…
+- 🆕 **2016-08-19** · Menzionato · moca2016.olografix.org — [MOCA 2016 - Perfectly Imperfect. L](https://moca2016.olografix.org/it/moca/)  
+  verified via wayback; context: …” Agosti LA RESISTENZA DIGITALE NEL 2016 ... Leonardo Maccari RETI COMUNITARIE, NOI SIAMO INTERNET Leonardo Maccari RETI COMUNITARIE, NOI SIAMO INTERNET Fabio “naif” Pietrosanti GLOBAL LEAKS: DALLA CRITTOGRAFIA E ANONIMA…
 - 🆕 **2016-08-19** · Talk · MOCA 2016 - Metro Olografix Camp (Pescara) — [GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani](https://moca2016.olografix.org/speakers/fabio-naif-pietrosanti/)  
   mirror di https://moca2016.olografix.org/it/employees/fabio-naif-pietrosanti/ (è il canonical della pagina). Live 2026-10-13, titolo «Fabio "naif" Pietrosanti - MOCA // Metro Olografix CAmp //».
 - 🆕 **2016-06-03** · Video · HackInBo (YouTube) — [Tavola Rotonda con Igor "KOBA" Falcomatà e Fabio "NAIF" Pietrosanti #HackInBo2016](https://www.youtube.com/watch?v=X_zQdg47ZtU)  
@@ -1316,10 +1328,12 @@ Anni senza nessun risultato: nessuno
   Out of slice/date uncertain: OSCE RFoM event speaker bio document (SEE media/Internet governance event, ~2016); bio of Pietrosanti as Hermes Center president
 - 🆕 **2016** · magazine · Polityka (Wydawnictwo Prasowe Polityka), 2016 bound volume — [Polityka 2016 (article on GlobaLeaks)](https://books.google.com/books?id=RyCG694TkQAC)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Polish weekly, 2016 volume (exact issue unknown). Snippet: '... GlobaLeaks (Globalne Przecieki), którą stworzyli włoscy hakerzy Fabio Pietro-santi i Arturo Filastò dla fundacji Hermes Center for Transparency and Digital Human Rights ...'.
+- 🆕 **2016** · Menzionato · slideshare.net — [Storia e storie degli hacker della sicurezza informatica](https://www.slideshare.net/slideshow/storia-e-storie-degli-hacker-della-sicurezza-informatica/60171340)  
+  verified via wayback; context: …47. ANONYMOUS ITALIA – FAMILY DAY HACK 48. THE ITALIAN WAY – GLI HACKER >Il Capo, Machine, QQQ, kris. >I Romani (Raist, Synack, Zibri, Newmark, phroid, xoanon, naif) >I Torinesi (Raoul, raptor, dialtone, acidguy, twiz) >…
 - 🆕 **2016** · Talk · Internet Freedom Festival 2016 (IFF), Valencia (1-6 marzo 2016) - IFF Wiki — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks](https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks)  
   Pagina della sessione sull'IFF Wiki: «Presenter(s) Fabio Pietrosanti ... Organization(s) Hermes Center for Transparency and Digital Human Rights ... Country(ies) Italy»; formato Conversation, 1 ora, track Tools & Technology; descrizione sull'avvio di iniziative di whistleblowing («supporting more than 30 whistleblowing projects using GlobaLeaks in +20 countries»). Verificata su Wayback 20210620025940 (la pagina live oggi è 404). La sessione con questo titolo compare nell'elenco «IFF Schedule» dell'edizione 2016 (Wayback 20160525224224, https://internetfreedomfestival.org/wiki/index.php/IFF_Schedule), che però riporta solo il titolo; il campo «2017 theme» della pagina è un artefatto del template wiki. Data esatta della sessione non trovata (lo schedule con orari stava su una pagina esterna non archiviata).
 
-## 2015 — 39 voci, 39 nuove
+## 2015 — 42 voci, 42 nuove
 
 - 🆕 **2015-11-02** · Citato · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/)  
   verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…
@@ -1339,6 +1353,8 @@ Anni senza nessun risultato: nessuno
   Italian Hacker Embassy village at CCCamp15: Naif listed as member, sponsorship 'C/O Fabio Pietrosanti'
 - 🆕 **2015-07-16** · Citato · la Repubblica (Repubblica.it Tecnologia) — [Tante aziende e poche regole: il Far West della sorveglianza digitale](https://www.repubblica.it/tecnologia/sicurezza/2015/07/16/news/tante_aziende_poche_regole_il_far_west_dell_intelligence-119217185/)  
   Rosita Rijtano, post Hacking Team leak; extensively quoted as Hermes Center co-founder on surveillance vendors
+- 🆕 **2015-07-03** · Menzionato · e-privacy.winstonsmith.org — [e-privacy XVII — La trasparenza e la privacy](https://e-privacy.winstonsmith.org/e-privacy-XVII-programma.html)  
+  verified via wayback; context: …elematico" 16:15 Claudio Agosti Geopolitica nella rete: le nazioni che hanno i nostri dati 16:45 Chiusura lavori Venerdì 3 Luglio 2015 Ora Relatore Titolo 9:00 Fabio Pietrosanti Hermes Center for Transparency and Digital…
 - 🆕 **2015-07-03** · Talk · e-privacy XVII (2015), Roma, Camera dei Deputati - Progetto Winston Smith — [Apertura lavori (seconda giornata)](https://e-privacy.winstonsmith.org/e-privacy-XVII.html)  
   Programme: 'Venerdì 3 Luglio 2015 ... 9:00 Fabio Pietrosanti Hermes Center for Transparency and Digital Human Rights - Apertura lavori'. CAVEAT: the Radio Radicale recording of that morning (scheda 447017) shows the day opened at 9:05 by Marco Calamari and Emmanuele Somma and does not list Pietrosanti among the speakers - scheduled, delivery not confirmed.
 - 🆕 **2015-07-03** · Altro · e-privacy XVII (2015), Roma, Camera dei Deputati - Progetto Winston Smith — [e-privacy XVII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XVII-relatori.html)  
@@ -1347,12 +1363,16 @@ Anni senza nessun risultato: nessuno
   Recording of the day he was scheduled to open; speaker list (Somma, Calamari, Vieri, Vacca, Del Vecchio, Agosti, ...) does NOT include Pietrosanti. Day 1 (scheda 446735) does not name him either ('Valentina Pietrosanti' there is the Radio Radicale curator, not him).
 - 🆕 **2015-07-03** · evento · e-privacy XVII (2015), Roma, Camera dei Deputati - Progetto Winston Smith — [e-privacy XVII - interventi (abstracts page; entry 'Fabio Pietrosanti (HERMES)')](https://e-privacy.winstonsmith.org/e-privacy-XVII-interventi.html)  
   Abstracts page of the edition; he appears as 'Fabio Pietrosanti (HERMES)' (Apertura lavori, second day). No slide/video file of his in the 2015 materials linked from the edition pages.
+- 🆕 **2015-07-02** · Menzionato · dimt.it — [La trasparenza e la privacy: il bilanciamento tra le necessità di trasparenza e pubblicità, e le aspettative di rispetto della privacy, dell’anonimato e della segretezza - Roma, 2 e 3 luglio 2015 - Diritto Mercato Tecnologia](https://www.dimt.it/eventi/55la-trasparenza-e-la-privacy-il-bilanciamento-tra-le-necessita-di-trasparenza-e-pubblicita-e-le-aspettative-di-rispetto-della-privacy-dell-anonimato-e-della-segretezza-roma-2-e-3-luglio-2015/)  
+  verified via wayback; context: …lo sviluppo rurale (FEASR) 17:30 Andrea Ghirardini Diritti Civili e “Captatore Telematico” 18:00 Chiusura lavori Venerdì 3 Luglio 2015 Ora Relatore Titolo 9:00 Fabio Pietrosanti Hermes Center for Transparency and Digital…
 - 🆕 **2015-06-20** · Progetto · CCC Camp 2015 Wiki — [Projects:GlobaLeaks](https://events.ccc.de/camp/2015/wiki/Projects:GlobaLeaks)  
   Chaos Communication Camp 2015 project page edited by Fabio Pietrosanti (naif)
 - 🆕 **2015-04-28** · Report · Defense Technical Information Center (DTIC ADA623038) / Tor Project tech report — [Hidden-service Statistics Reported by Relays](https://archive.org/details/DTIC_ADA623038)  
   Authors: G. Kadianakis, K. Loesing (Tor tech report 2015-04-001). Ref [12]: 'Virgil Griffith, Fabio Pietrosanti, and Giovanni Pellerano. Making tor2web mode faster'. The same text is known at research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf; this is the DTIC mirror. The IA compilation 'TorDevelopmentAndDesignPapers' has the same citation.
 - 🆕 **2015-04-22** · article · SenzaBarcode — [Globaleaks contro la corruzione](https://senzabarcode.it/2015/04/22/globaleaks-contro-la-corruzione/)  
   Resoconto dell'intervento a Frontiera Digitale Radicale (Roma, 12/04/2015): «Intervento di Fabio Pietrosanti, Presidente e fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali all'incontro di Frontiera Digitale Radicale». Verificato live 2026-10-13. (Testata italiana, fuori dal filone estero ma nuova.)
+- 🆕 **2015-04-20** · Paper · ohmygodel.com — [Privacy-preserving statistics for Tor hidden services (tech report)](https://www.ohmygodel.com/publications/hidden-service-stats-techreport.pdf)  
+  verificato a mano 2026-10-13 (ricerca Google); cita in bibliografia la proposta Tor 233 «Making tor2web mode faster» (Griffith, Pietrosanti, Pellerano)
 - 🆕 **2015-04-19** · Talk · International Journalism Festival (Perugia) — [Digital whistleblowing with GlobaLeaks](https://www.journalismfestival.com/programme/2015/digital-whistleblowing-with-globaleaks)  
   Panel with Davide Del Monte and Philip Di Salvo on five years of GlobaLeaks initiatives
 - 🆕 **2015-04-19** · Video · YouTube / International Journalism Festival — [Whistleblowing digitale con GlobaLeaks](https://www.youtube.com/watch?v=CLgioLg7kUE)  
@@ -1461,7 +1481,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2014-01-22** · Citato · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/)  
   Quoted as security and telephony expert on mobile location tracking of protesters
 
-## 2013 — 28 voci, 28 nuove
+## 2013 — 29 voci, 29 nuove
 
 - 🆕 **2013-12-30** · Citato · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/)  
   John Borland's 30C3 report; quotes him on GlobaLeaks and on media groups wanting to copy the Dutch Publeaks model; photo with Claudio Agosti
@@ -1515,12 +1535,14 @@ Anni senza nessun risultato: nessuno
   IJF13 solo session on wiretapping and secure communications
 - 🆕 **2013-03-28** · Video · International Journalism Festival (YouTube) — [Firewall di nuova generazione](https://www.youtube.com/watch?v=Okg_Wx5qVWs)  
   Video of IJF12 session (listed on his IJF speaker page)
+- 🆕 **2013-02-01** · Paper · globaleaks.org — [iSEC Partners — GlobaLeaks security assessment (2013)](https://globaleaks.org/docs/pt/2013-isec.pdf)  
+  verificato a mano 2026-10-13 (ricerca Google); audit di sicurezza di GlobaLeaks: Fabio Pietrosanti primo membro del team GlobaLeaks e destinatario del rapporto
 - 🆕 **2013** · Altro · dicorinto.it (Regionali 2013 blog) - 'La notte che bruciammo Chrome' — [Dibattito su Civic Whistleblowing (Agosti, Di Corinto, Filastò, Pietrosanti) + presentazione Lazioleaks](https://dicorinto.it/regionali2013/la-notte-che-bruciammo-chrome/)  
   Event listing: 'h 20:30 Dibattito su Civic Whistleblowing intervengono: Claudio Agosti, Arturo Di Corinto, Arturo Filastò, Fabio Pietrosanti // Presentazione Lazioleaks'. Exact date not shown on the page (2013 Lazio regional campaign).
 - 🆕 **2013** · Altro · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/)  
   PDF speaker database entry, no sessions listed (year approximate)
 
-## 2012 — 33 voci, 33 nuove
+## 2012 — 34 voci, 34 nuove
 
 - 🆕 **2012-11-19** · programme · e-privacy 2012 Winter Edition, Politecnico di Torino / Centro Nexa — [E-government & e-democracy: prospettive ed implicazioni sulla privacy - programma (tavola rotonda Sicurezza e controllo)](https://nexa.polito.it/wp-content/uploads/2012/11/2012-egovernment-programma.pdf)  
   verified via pdftotext (Google 2026-10-12 20:29); context: SICUREZZA E CONTROLLO (tavola rotonda) Moderatore: Fabio Pietrosanti (Hermes center for transparency and digital human rights)
@@ -1558,6 +1580,8 @@ Anni senza nessun risultato: nessuno
   Flyer: session chairman Marco Calamari with 'Claudio Agosti Arturo Filastò Fabio Pietrosanti Stefano Mele Leonardo Maccari'
 - 🆕 **2012-06-21** · Slide · Internet Archive (PWS e-privacy archive) — [La privacy nella gestione delle fonti d'informazione critiche (IA item, Pietrosanti_Tor2web.pdf)](https://archive.org/details/pws_e-privacy_2012s_1m03_pietrosanti_la-privacy-nella-gestione-delle-fonti-d-informazione)  
   IA creator 'Fabio Pietrosanti'; single file Pietrosanti_Tor2web.pdf (no audio/video in the item)
+- 🆕 **2012-06-18** · Menzionato · nazioneindiana.com — [La riscoperta dei diritti civili nell’era digitale: e-privacy 2012 a Milano / Nazione Indiana](https://www.nazioneindiana.com/2012/06/18/la-riscoperta-dei-diritti-civili-nellera-digitale-e-privacy-2012-a-milano/)  
+  verified via wayback; context: …ad oggi. La presentazione si concluderà con una spiegazione di OONI, un progetto nato con l’intento di disegnare una mappa mondiale della censura di internet. Fabio Pietrosanti I Tor hidden service sono una tecnologia mo…
 - 🆕 **2012-06-13** · Menzionato · Il Fatto Quotidiano — [Hacks Hackers, nuove tecnologie e giornalismo questa sera a Milano](https://www.ilfattoquotidiano.it/2012/06/13/hacks-hackers-nuove-tecnologie-e-giornalismo-questa-sera-a-milano/261989/)  
   Announces Hacks/Hackers Milano meetup with Claudio Agosti and Fabio Pietrosanti of GlobaLeaks as guests
 - 🆕 **2012-05-01** · Video · Il Fatto Quotidiano — [Festival del Giornalismo 2012, il videodiario](https://www.ilfattoquotidiano.it/2012/05/01/festival-giornalismo-2012-videodiario/214235/)  
@@ -2168,6 +2192,8 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · easyteam.org — [La risposta alla nuova richiesta di Monitora PA – Un’integrazione – Easyteam.org SRL – Informatica a 360 gradi](https://easyteam.org/easynews/la-risposta-alla-nuova-richiesta-di-monitora-pa-unintegrazione/)
 - 🆕 Menzionato · Tracxn — [PrivateWave - Company Profile (Tracxn)](https://tracxn.com/d/companies/privatewave/__8Sn9ZPRKGsGkuCvrGY8mF_7VrSqjR9IVUAfLzECd7e8)
 - 🆕 Menzionato · tellsomeone.org.uk — [Our Technology - GlobalLeaks Crime Reporting Platform TellSomeone.org.uk](https://tellsomeone.org.uk/about/technology/)
+- 🆕 Menzionato · nexa.polito.it — [Fabio Pietrosanti Archives - Nexa Center for Internet & Society](https://nexa.polito.it/tag/fabio-pietrosanti/)
+- 🆕 Menzionato · thevision.com — [I trojan di Stato sono la nuova arma del potere](https://thevision.com/innovazione/trojan-informatici/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)
