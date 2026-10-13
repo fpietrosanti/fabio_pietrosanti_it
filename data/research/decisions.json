@@ -661,6 +661,22 @@
   {
    "url": "https://dicorinto.it/tag/massimo-cerofolini/",
    "reason": "2026-10-13: pagina indice tag, nome assente"
+  },
+  {
+   "url": "https://www.festivaldelgiornalismo.com/speaker/arturo-filast",
+   "reason": "2026-10-13: pagina speaker di Arturo Filastò; la sessione IJF14 \"Whistleblowing anonimo\" è già in archivio"
+  },
+  {
+   "url": "https://wiki.openmoko.org/wiki/Talk:OSvS",
+   "reason": "2026-10-13: messaggio di Fabio (Khamsa, 03/03/2009) in una pagina di discussione wiki: come un post di forum, non è una pubblicazione"
+  },
+  {
+   "url": "https://www.researchgate.net/publication/268349379_How_the_Great_Firewall_of_China_is_Blocking_Tor",
+   "reason": "2026-10-13: paper FOCI 2012 già in archivio (copia Scribd/FOCI)"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/chapter2_online_anonymity-in-cyber-security-pptx/289188364",
+   "reason": "2026-10-13: slide di terzi; il nome compare solo nella barra \"correlati\" (Hack.lu 2006 già in archivio)"
   }
  ],
  "override": [
