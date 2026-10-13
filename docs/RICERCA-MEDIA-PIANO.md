@@ -96,7 +96,8 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   (2 segmenti col nome della voce narrante + 1 incerto sulla donazione di sangue). **Senza ritaglio:** PouL 2013 (tu e
   Agosti, voci non distinguibili dal testo: stato `two_speakers`), Greenwald-in-a-box 16/04/2015 (sei nominato tra i
   presenti ma non si sente un tuo intervento), Greenwald-in-a-box 18/04/2015 (non presentato né nominato → domanda a
-  Fabio). In trascrizione il video ESC 2011 «Globaleaks Live Launch» (nuovo, non verificato).
+  Fabio). Video ESC 2011 «Globaleaks Live Launch» (77 min) trascritto: Whisper non trova né «Fabio» né «naif» (solo i
+  sottotitoli YouTube citano «Naif» di passaggio) → resta non verificato; chi parla lo può dire solo Fabio.
 - [ ] **Video su Google Drive**: Fabio li caricherà su Drive; poi inserire il link Drive di ogni video in
   `copies.json` (campo `video.drive_url`) e mostrarlo in `docs/COPIE-OFFLINE.md` e nella futura pagina del sito.
   Finché non c'è il link, i video restano solo in locale (21,6 GB, fuori da GitHub).
