@@ -1,0 +1,93 @@
+[
+ {
+  "date": "2016-02-01",
+  "year": 2016,
+  "type": "quoted",
+  "outlet": "Wired Italia (Rosita Rijtano)",
+  "title": "Legge sul whistleblowing, un'opportunità da non sprecare. Ecco cosa manca",
+  "url": "https://www.wired.it/attualita/politica/2016/02/01/legge-whistleblowing-opportunita/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Sul ddl whistleblowing (Businarolo) appena approvato alla Camera: \"Fabio Pietrosanti, cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali, punta il dito contro il fatto che 'la norma non tiene ancora conto dell'esigenza di considerare pure le segnalazioni anonime'\"; poi \"prosegue Pietrosanti\" sull'assenza di un sistema informatico unico per le segnalazioni. Verificato live 2026-10-13 (datePublished 2016-02-01).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2016-01-21",
+  "year": 2016,
+  "type": "mentioned",
+  "outlet": "Punto Informatico (Alfonso Maruccia)",
+  "title": "Cyber-sicurezza, materia di polemica politica?",
+  "url": "https://www.punto-informatico.it/cyber-sicurezza-materia-di-polemica-politica/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Lettera aperta a Renzi contro la nomina Carrai: l'articolo incorpora il suo tweet \"C'è qualche burlone che sta cercando di bucare il sito della lettera aperta a @matteorenzi sulla Cybersecurity – Fabio Pietrosanti (@fpietrosanti) 21 Gennaio 2016\". Trovato con la ricerca full-text WP REST di PI; verificato live 2026-10-13.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2015-04-22",
+  "year": 2015,
+  "type": "article",
+  "outlet": "SenzaBarcode (testata online)",
+  "title": "Globaleaks contro la corruzione",
+  "url": "https://senzabarcode.it/2015/04/22/globaleaks-contro-la-corruzione/",
+  "language": "it",
+  "role": "subject",
+  "note": "Resoconto del suo intervento: \"Globaleaks. Intervento di Fabio Pietrosanti, Presidente e fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali all'incontro di Frontiera Digitale Radicale – Radical Digital Frontiers svolto a Roma il 12 aprile\" (stesso evento della scheda Radio Radicale 438714 già nota). Firma: SenzaBarcode Redazione. Verificato live 2026-10-13.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2014-06-11",
+  "year": 2014,
+  "type": "quoted",
+  "outlet": "Think! (think.it) - ripubblicazione dell'articolo EJO di Philip Di Salvo",
+  "title": "ExpoLeaks, whistleblowing per Expo",
+  "url": "https://www.think.it/ecco-expoleaks-il-wikileaks-dellexpo-2015-per-denunciare-i-corrotti/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Mirror di https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza (voce nota). Testo: \"Fabio Pietrosanti di GlobaLeaks ci racconta come è nata l'idea di ExpoLeaks...\" e \"chiosa Pietrosanti\"; in calce \"Milano, 11 giugno 2014 PHILIP DI SALVO. Questo articolo è stato pubblicato oggi su European Journalism Observatory\". La pagina think.it ha data di ripubblicazione 2020-04-11. Verificato live 2026-10-13.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2017-02-14",
+  "year": 2017,
+  "type": "quoted",
+  "outlet": "Motherboard Italia (VICE)",
+  "title": "Quanto costa per un paese spegnere internet",
+  "url": "https://www.vice.com/it/article/quanto-costa-per-un-paese-spegnere-internet-shutdown/",
+  "language": "it",
+  "role": "quoted",
+  "note": "FUORI PERIODO (2017), trovato di passaggio e assente da known_urls: \"Fabio Pietrosanti, co-fondatore e presidente dell'Hermes Center for Transparency and Digital Human Rights, indica però che un altro importante fattore...\"; \"spiega Pietrosanti contattato da Motherboard\". Verificato live 2026-10-13.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017-07-03",
+  "year": 2017,
+  "type": "mentioned",
+  "outlet": "Motherboard Italia (VICE)",
+  "title": "Il Ministero dello Sviluppo Economico revoca la licenza di esportazione ad Area SpA",
+  "url": "https://www.vice.com/it/article/il-ministero-dello-sviluppo-economico-revoca-la-licenza-di-esportazione-ad-area-spa/",
+  "language": "it",
+  "role": "mentioned",
+  "note": "FUORI PERIODO (2017), assente da known_urls: \"Fabio Pietrosanti, presidente di Hermes, aveva anche inviato una richiesta di accesso civico generalizzato (FOIA) per richiedere i dati di export...\". Verificato live 2026-10-13.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017-07-04",
+  "year": 2017,
+  "type": "quoted",
+  "outlet": "Motherboard Italia (VICE)",
+  "title": "È in corso una battaglia tra sviluppatori francesi e hacker italiani",
+  "url": "https://www.vice.com/it/article/e-in-corso-una-battaglia-tra-sviluppatori-francesi-e-hacker-italiani-mb/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Mirror (URL alternativo '-mb') di https://www.vice.com/it/article/vlc-vulnerabile-man-in-the-middle-malware-diatriba-twitter/ (voce nota); contiene il nome. Verificato live 2026-10-13.",
+  "verified": true,
+  "known": true
+ }
+]

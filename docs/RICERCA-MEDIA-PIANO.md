@@ -90,6 +90,13 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Global Forum 2018 (debole, senza nome), Government hacking 2018 (×3), Privacy nightmare 2018, Trump/OTF 2020 (×4),
   Riconoscimento facciale 2020 (×5). **Restano 8 da trascrivere** (Whisper avviato in locale il 12/10, log
   `_run_transcribe_2026-10-12.log` nelle copie): 2013 ×2, 2015 ×3, Condivisi 2020, FOIA 2022, Speciale Tg1 2025.
+  **2026-10-13: trascritte tutte e 8 → +17 segmenti** (35 in totale): Condivisi 2020 (24:33–31:47, app di tracciamento),
+  webinar FOIA/MonitoraPA 2022 (07:50–22:46), workshop GlobaLeaks IJF 2015 (22:21–fine), «Firewall di nuova
+  generazione» 2013 (81:31–83:37 dopo «naif… Fabio, lo ho tirato in ballo», + 1 incerto su spyware), Speciale Tg1 2025
+  (2 segmenti col nome della voce narrante + 1 incerto sulla donazione di sangue). **Senza ritaglio:** PouL 2013 (tu e
+  Agosti, voci non distinguibili dal testo: stato `two_speakers`), Greenwald-in-a-box 16/04/2015 (sei nominato tra i
+  presenti ma non si sente un tuo intervento), Greenwald-in-a-box 18/04/2015 (non presentato né nominato → domanda a
+  Fabio). In trascrizione il video ESC 2011 «Globaleaks Live Launch» (nuovo, non verificato).
 - [ ] **Video su Google Drive**: Fabio li caricherà su Drive; poi inserire il link Drive di ogni video in
   `copies.json` (campo `video.drive_url`) e mostrarlo in `docs/COPIE-OFFLINE.md` e nella futura pagina del sito.
   Finché non c'è il link, i video restano solo in locale (21,6 GB, fuori da GitHub).
@@ -386,6 +393,43 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   (TG2, TG3, Studio Aperto, Neapolis); MP3 Webbit 04 Milano e PDF Infosecurity 2007 mai archiviati; newsletter Clusit
   apr–mag 2008 (controllo anti-robot: **non aggirato**); premio «innovation competition» del CV; sedi del 2006 (Centro
   Alti Studi Lotta al Terrorismo, Castellanza, IBM). Hackmeeting 2006 e CCC 24C3/25C3 non ricontrollati.
+- [x] **Lacuna 2011–2016 — passata 2026-10-13** (21-38 voci/anno; 3 agenti: `pass4_lacuna2011_{talks,stampa_it,
+  estero_video}`, negativi in `data/research/leads_negatives_lacuna2011_*_2026-10-13.json`, ~130 ricerche) → **+11 voci**
+  (10 verificate) e 6 mirror di voci note.
+  - **Nuove**: Internet Freedom Festival **Valencia 2016** («Setting up Whistleblowing Activism Initiatives with
+    GlobaLeaks», «Presenter(s) Fabio Pietrosanti», wiki IFF dal Web Archive); **Wired Italia 01/02/2016** (ddl Businarolo,
+    citato); **Punto Informatico 21/01/2016** (tuo tweet sulla lettera a Renzi contro la nomina Carrai); **SenzaBarcode
+    22/04/2015** (resoconto del tuo intervento a Frontiera Digitale Radicale); video **Friuli FutureForum #VL2014**
+    (19/05/2014) e **videodiario IJF 2012** terza puntata (+ copia di Valeria Belviso); fuori periodo: Motherboard Italia
+    14/02/2017 e 03/07/2017 (Area SpA), lettera aperta sulla direttiva whistleblowing su The Black Sea (2019), video
+    YouTube del seminario «Manualetto» del CRS (2026). **Non verificata**: «Globaleaks Live Launch» ESC 2011 (nome solo
+    nei sottotitoli automatici → in trascrizione). **Mirror**: think.it (EJO ExpoLeaks), LWN (Tor Weekly News 17/09/2014),
+    VICE «-mb» (VLC 2017), MOCA 2016 /speakers/, YouTube Fanpage DIG 2020, slide del 73° Mercoledì di Nexa (PDF dal
+    Web Archive, nome solo nel nome del file). **Escluso**: La Stampa YouTube TI4GA-ozdHw (IJF 2011, senza nome).
+  - **Negativi solidi**: Repubblica 2011-16 (ricerca con filtri data: solo i 4 noti), Punto Informatico full-text
+    (pietrosanti/naif/globaleaks/tor2web/privatewave; Hacking Team 2015 non ti nomina), Wired.it (46 articoli), Il
+    Fatto/L'Espresso (Hacking Team, IrpiLeaks, ALAC, RegeniLeaks), ~25 testate online, archivio stampa Hermes
+    (`hermescenter-restore`: nessun pezzo 2011-16 col nome; Corriere TV 2013 dice solo «il presidente di Hermes»); CCC
+    28C3-33C3, RightsCon 2014-16 (sessioni Hermes con relatore «TBA»), IFF 2016 «User forum» (Pellerano), GIJC 2011/15,
+    IGF 2014-16, Dataharvest, HOPE, Logan, Tor dev meeting; YouTube (~900 video), Vimeo, podcast 2011-16, Tor Weekly
+    News/report mensili, stampa estera su GlobaLeaks/Tor2web/Hacking Team in 10 lingue; Radio3 Scienza 2013 PRISM
+    (era Arturo Filastò).
+  **Resta:** La Stampa (Frediani su Hacking Team 2015) e Corriere (ricerca interna solo da browser), Sole 24 Ore,
+  Messaggero, Secolo XIX, ANSA/AGI/Adnkronos (nessuna ricerca full-text); Il Manifesto dic. 2014 «Tecnologie
+  anticorruzione»; Repubblica cartaceo 07/08/2016 p.36 (paywall); dal Web Archive (bloccato per 429 tutta la sessione):
+  Golem.de 2011, OWNI 2011-12, de Volkskrant 2013 (Publeaks), Disappeared News 2013, techPresident, pagine stampa
+  Hermes/GlobaLeaks; programma finale RightsCon 2016 e Circumvention Tech Festival 2015; PDF dei programmi SIF, CPDP,
+  re:publica, CoE, UNESCO; podcast 2020-24 da verificare (Valigia Blu, Ciao Internet, DataKnightmare); pista 2010
+  tuttovolume.net 09/02/2010 (intervista, Khamsa) da controllare.
+
+## Note sessione 2026-10-13 (run programmata «ricerca profonda»)
+- **1038 voci** in `data/media.json` (+11, vedi «Lacuna 2011–2016»).
+- **Scelta della voce:** le prime voci aperte restano bloccate (chiavi API, login Chrome, risposte di Fabio, sito Hermes,
+  video TimePie): lavorata la lacuna 2011–2016 proposta il 08/10 e chiusi i ritagli delle 8 registrazioni trascritte.
+- **Web Archive**: 429/connessione rifiutata per gli agenti quasi tutta la sessione; lo script delle copie ha funzionato.
+- **Prossima voce lavorabile:** residui della lacuna 2011–2016 dal Web Archive (lista sopra) a ritmo lento, poi lacuna
+  **2003 e 2005-2006** (7-9 voci/anno) o una passata sui podcast 2020-2024.
+
 ## Note sessione 2026-10-08 (run programmata «ricerca profonda»)
 - **969 voci** in `data/media.json` (+37: 28 della lacuna 2004–2008 + 9 ESC recuperate dal bug di deduplica; 3 ESC senza nome escluse).
 - **Scelta della voce:** Chrome di Fabio ancora «not connected» al primo comando (piattaforme cinesi ferme); lavorata la

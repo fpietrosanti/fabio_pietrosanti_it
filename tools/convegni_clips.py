@@ -10,6 +10,7 @@ the mechanical part. One record per recording checked; "status" is one of:
   whole            no cut needed: short (< ~20 min) or entirely Fabio's own talk/interview
   already_clipped  his part is already a separate copy ("see")
   to_transcribe    long multi-speaker recording, no transcript yet: segment not located
+  two_speakers     transcribed, a two-speaker talk where the voices cannot be told apart from the text
   not_found        transcribed, but no evidence that Fabio speaks in it
   no_media         the media file is not in the copy
 

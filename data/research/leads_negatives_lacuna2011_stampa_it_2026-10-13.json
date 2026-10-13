@@ -1,0 +1,85 @@
+{
+ "task": "pass4 lacuna 2011-2016 - stampa italiana",
+ "date": "2026-10-13",
+ "checked_negative": [
+  {
+   "source": "Repubblica - ricerca.repubblica.it (archivio cartaceo + Repubblica.it): query 'pietrosanti' con filtri data 2011-01-01..2015-06-30 e 2015-07-01..2016-12-31; 'fabio pietrosanti'; 'pietrosanti' + globaleaks/hermes/hacker/naif/tor/intercettazioni/whistleblowing/privatewave; 'globaleaks' 2011-2016",
+   "result": "Ricerca server-side esaustiva: per 2011-2016 solo le 4 voci già note (2015-07-16, 2016-01-20, 2016-03-15, 2016-09-12). Articoli GlobaLeaks/MafiaLeaks/Deep Web/Moca 2016/'Hacker in campo contro i corrotti' (2012-02-05)/Google traccianti 2016-05-25 senza il suo nome (citano Matteo Flora o 'hacker italiani')."
+  },
+  {
+   "source": "Punto Informatico - WP REST full-text (search=pietrosanti, naif, globaleaks, tor2web, privatewave)",
+   "result": "Unica voce nuova 2016-01-21 (tweet incorporato). Publeaks 2013 nota; Irpileaks 2013/2015, Cassandra Crossing GlobaLeaks 2011/2013, Hacking Team 2015 (l'ora delle indagini, orgoglio ferito, codice in fuga, droni/Android/Tor, ritorno), 'Crittografia, un problema globale' 2016: nessun nome. Gli altri 'Pietrosanti' 2003-2008 sono Paolo (escluso)."
+  },
+  {
+   "source": "Wired.it - ricerca interna (pietrosanti, naif, globaleaks, centro hermes, tor2web, privatewave, hacking team, whistleblowing, trojan di stato, captatore, datagate, apple fbi) + grep di 46 articoli 2011-2016",
+   "result": "Unica voce nuova 2016-02-01; le altre (2014-01-22, 2014-05-04, 2014-11-25, 2015-01-07, 2015-02-23) già note. ProPublica deep web 2016-01-08 e TorBrowser 2016-08-05 senza nome. Wired 2011-11-18 'tulipano della democrazia' (Davide Del Vecchio) e 2013-06-26 'Guida per il perfetto whistleblower' senza nome nel testo ripubblicato da Hermes."
+  },
+  {
+   "source": "Archivio press Hermes locale (C:/Users/admin/Claude/hermescenter-restore, data/posts_report.json, sezione Press 2011-2016)",
+   "result": "Rassegne Hermes 2011-2016 (LaStampa.it 2011-04-22 'Globaleaks OK' [solo titolo], La Stampa web-notes 2011-09-06, PI 2011-09-07, Wired 2011-11-18, Think 2011-11-21, MilanoX 2011-11-22, Repubblica 2012-02-05, De Biase 2012-04-28, lettera aperta Skype 2013-01-25, Radio3 Scienza PRISM 2013-06-12 [Filastò], Panorama 2013-06-14 Caffo, Wired 2013-06-26, SkyTG24 Datagate 2013-07-02, Corriere.it video 2013-07-02, Eticanews 2013-07-11): nessuna contiene 'Pietrosanti'/'naif'. Il video Corriere TV 'Quando l'utente non si lascia spiare' (Antonella Cignarale) cita 'il presidente del centro studi Hermes' SENZA nome (+ Claudio Agosti) -> per regola non conta."
+  },
+  {
+   "source": "Il Fatto Quotidiano (WebSearch con dominio + fetch diretti)",
+   "result": "Irpileaks 2013-10-07, Hacking Team 2015-07-07/10 (RCS false prove)/15: nessun nome. Ricerca interna JS e WP REST 401 -> non esaustivo."
+  },
+  {
+   "source": "L'Espresso (lespresso.it)",
+   "result": "Allerta Anticorruzione 2014-10-13, RegeniLeaks 2016-05-16, 'Whistleblowing, colonna della democrazia' 2016-05-23, 'Anonymous, rivoluzione on line' 2011-07-08: nessun nome."
+  },
+  {
+   "source": "WP REST search=pietrosanti su key4biz, corrierecomunicazioni, valigiablu, webnews, html.it, chefuturo, linkiesta, formiche, vice.com, eunews, cybersecurity360, lineaedp, datamanager, it.ejo.ch, articolo21, micromega, lsdi, eticanews, cyberaffairs, notizie.it, datajournalism, agendadigitale, dicorinto.it",
+   "result": "Nessuna voce nuova 2011-2016 (solo note o fuori periodo; Vice 2017 riportate come bonus). Key4biz/Datamanager PrivateGSM 2009-2010 = pre-periodo (Datamanager già noto)."
+  },
+  {
+   "source": "dicorinto.it (copie articoli Di Corinto per Repubblica/Espresso/Manifesto)",
+   "result": "Solo 'La notte che bruciammo Chrome' 2013 (nota). L'Espresso 2012-10-30 'La corruzione si combatte in Rete', Repubblica 2014 'Tutti i segreti del Deep Web', Moca 2016, Datagate alla Camera 2013: senza nome."
+  },
+  {
+   "source": "Internet Archive full-text (be-api fts) e advancedsearch '\"Fabio Pietrosanti\"'",
+   "result": "Nessun articolo di stampa italiana 2011-2016 nuovo (solo e-privacy, paper, libri già noti; La Stampa 1997 Velletri = omonimo escluso)."
+  },
+  {
+   "source": "Linkiesta blog 2013-02-14 videogame magistratura; Linkiesta 2014-08-10 Deep Web; Vice IT 2015-01-28 e 2015-07-10 darknet; Valigia Blu e Formiche Apple-FBI 2016-02-18; Panorama (solo Carrai 2016, nota); mgpf.it (Matteo Flora) 2014-10-16 ALAC; Treccani 'Datagate: come difendersi dal grande fratello'",
+   "result": "Nessun nome."
+  },
+  {
+   "source": "WikiLeaks Hacking Team emails, ricerca 'pietrosanti'",
+   "result": "Solo email già note (Perugia 2012, Microsoft exploit 2013) e omonima Cinzia Pietrosanti (DHL); nessuna rassegna stampa con il suo nome."
+  },
+  {
+   "source": "tuttovolume.net 2010-02-09 (intervista TVtech a 'Fabio Pietrosanti, responsabile tecnico della Khamsa')",
+   "result": "Contiene il nome ma è 2010 (fuori periodo, non in known_urls): da segnalare a un eventuale pass 2010. URL https://tuttovolume.net/news/intercettare-cellulari-gsm-3g/"
+  }
+ ],
+ "open_leads": [
+  {
+   "lead": "Repubblica cartacea 07/08/2016 pag. 36 sez. Domenicale 'DOPO WIKILEAKS' / 'WikiLeaks' (box su piattaforme Hermes/IrpiLeaks/ALAC)",
+   "url": "https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2016/08/07/dopo-wikileaks36.html",
+   "why": "Paywall; lo snippet cita il Centro Hermes ma non il nome; la query 'pietrosanti' filtrata 2015-2016 NON lo restituisce -> probabilmente senza nome. Non verificato."
+  },
+  {
+   "lead": "Il Manifesto, dicembre 2014, 'Tecnologie anticorruzione' (segnalato dalla ML nexa, 2014-December/008598)",
+   "why": "Pagina pipermail 404 e Wayback non raggiungibile (429/offline) nella sessione; non verificato se cita Fabio."
+  },
+  {
+   "lead": "La Stampa 2011-2016 (incl. Carola Frediani 2015 su Hacking Team, instant book 'Attacco ai pirati')",
+   "why": "Ricerca interna JS e WebSearch bloccato per lastampa.it; non verificabile oggi (servirebbe Chrome)."
+  },
+  {
+   "lead": "Corriere della Sera / Corriere.it 2011-2016",
+   "why": "Ricerca interna JS e WebSearch bloccato per corriere.it."
+  },
+  {
+   "lead": "Il Sole 24 Ore / Nòva, Il Messaggero, Il Secolo XIX (429), HuffPost Italia (bloccato), Il Post (403), Today (403), ANSA/AGI/Adnkronos 2011-2016",
+   "why": "Nessuna ricerca full-text praticabile via curl; WebSearch senza risultati pertinenti."
+  },
+  {
+   "lead": "Wayback: logioshermes.org/category/press (cattura 20150806161541), globaleaks.org/news 2011-2013, daily.wired.it 2011-2013",
+   "why": "Wayback ha restituito blocco anti-bot / 429 / 'Temporarily Offline' durante la sessione: riprovare più tardi in serie lenta."
+  },
+  {
+   "lead": "GDELT 2015-2016 '\"Fabio Pietrosanti\"'",
+   "why": "API in rate-limit persistente (IP condiviso con altri agenti); riprovare."
+  }
+ ]
+}

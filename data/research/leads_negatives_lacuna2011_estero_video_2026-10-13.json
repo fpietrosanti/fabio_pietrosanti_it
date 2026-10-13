@@ -1,0 +1,111 @@
+{
+ "date": "2026-10-13",
+ "tema": "lacuna 2011-2016: stampa estera e media audio/video",
+ "checked_negative": [
+  {
+   "source": "YouTube (yt-dlp ytsearch, ~70 query: nome, naif, GlobaLeaks, Tor2web, Hermes, PrivateWave/PrivateGSM, Hacking Team, Snowden/Datagate, intercettazioni, eventi PDF/GIJC13/re:publica/Logan/DNL/RightsCon/OSCE, Euronews/DW/Arte/Al Jazeera)",
+   "result": "~900 risultati unici; tutti i video 2011-2016 con il nome erano già noti tranne 9Fr90MjCvTQ e 8icNqwJEIXM/1MYg_32I8lg (in raw). Omonimi scartati: Radio Digiesse (autore calabrese), Alessandro/Daniele/Giacomo/Stefano/Santino Pietrosanti ecc."
+  },
+  {
+   "source": "YouTube: IJF 'Attacchi informatici, un po' di chiarezza' (NBYvP5AxNw4, 2013) e 'Hacktivismo e sorveglianza digitale' (k1MDhqhYxIU, 2013), 'Snowden and the debate...' (mD44gguSZzc, 2015)",
+   "result": "relatori Falcomatà / Chiusi, Filastò, Loccatelli, Othman / Snowden, Poitras ecc.: Fabio non c'è. La pagina speaker IJF elenca solo i suoi eventi già noti (2012-2015, 2018)."
+  },
+  {
+   "source": "YouTube ESC (endsummercamp): qMu1w0VA0cI (ESC14, Hellais/Evil/Vecna), zwuiWACj5NQ (Hellais), O4palkzzq8M (mirror)",
+   "result": "nome assente (sottotitoli automatici controllati); WdQrDUvX45Q solo 'Naif' detto a voce -> in raw come non verificato"
+  },
+  {
+   "source": "YouTube mirror OHM2013 (waLUT87-F8M zombb66, K5XtbWLClU4 All Hacking Cons) e IA OHM2013 (D3T303..., OHM2013-Globaleaks, OHM2013-DigitalWhistleblowingRoundtable)",
+   "result": "mirror del talk noto Q6k8hHAoIKA; i metadati citano solo 'Hermes Center', non il nome: non verificabili"
+  },
+  {
+   "source": "Vimeo (WebSearch site:vimeo.com; oEmbed)",
+   "result": "'Tor2web et Globaleaks' (vimeo 42917848, 2012) = Vecna, non Fabio; nessun altro"
+  },
+  {
+   "source": "Podcast: iTunes Search API (Pietrosanti, Fabio Pietrosanti, globaleaks), Spreaker API, Mixcloud API",
+   "result": "nessun episodio 2011-2016. Fuori periodo e non noti (da verificare in altra passata): Valigia Blu 2020-02-15 'Come Cia e Bnd hanno spiato...', Ciao Internet 2022-03-15 Kaspersky, Garantismi LIVE 2023-01-07, Diretta 1/4/2022, Canestrari 2022-03-30, DataKnightmare 6x28 2022-05-23, Cyber Hack 'Lazarus Heist S2 ep.7' 2023, Listen to the Story 'North Korea's Man in Spain' 2020, Crypto Conversation 2021 (iTunes li associa a 'Pietrosanti' probabilmente da trascrizioni; descrizioni senza nome)."
+  },
+  {
+   "source": "Internet Archive advancedsearch audio/movies (Pietrosanti, globaleaks, tor2web, Centro Hermes) e full-text FTS",
+   "result": "solo voci note o senza nome (Radio Onda Rossa 'Visionari 2016-07-21' = altri ospiti; OggiScienza MrPod 2012 = Filastò)"
+  },
+  {
+   "source": "GDELT DOC 2.0 API",
+   "result": "'Invalid query start date' per 2015-2016: l'archivio DOC parte di fatto dal 2017; inutilizzabile per la lacuna"
+  },
+  {
+   "source": "Tor Weekly News (archivio tor-news 2013-2016, 30 mesi) e Tor monthly reports 2011-2014 (archive.torproject.org)",
+   "result": "tutte le occorrenze già note (6 TWN + report nov. 2011). LWN ripubblica TWN: un mirror in raw. Menzioni in tor-reports (Damian Johnson ago. 2012, Andrew Lewman dic. 2012, Ahmia GSoC giu. 2014) sono post di mailing list: esclusi per regola."
+  },
+  {
+   "source": "Tor blog 2014-12 'Tor: 80 percent of ??? percent of 1-2 percent abusive' e Schneier 2010 'Nobody encrypts their phone calls'",
+   "result": "Fabio presente solo come autore di commenti: esclusi (equiparati a post di forum)"
+  },
+  {
+   "source": "Wikipedia GlobaLeaks/Tor2web (10 lingue) - fonti esterne citate",
+   "result": "controllate live: National Geographic 2014 WildLeaks, Guardian 2014 WildLeaks e 2015 Afrileaks, Wired 2014 WildLeaks, Vice/EFF Ecuador 2016, La República PeruLeaks, Free Press Unlimited Publeaks, OCCRP, Freedom Hacker: nessuna nomina"
+  },
+  {
+   "source": "Ricerche interne / WP-JSON: Global Voices (en/advox/it), Nieman Lab, netzpolitik, Numerama, Spiegel, SZ, FAZ, NZZ, Le Temps, derStandard, heise, SecurityWeek, Help Net Security, Infosecurity Magazine, CJR, Poynter, eldiario.es, Folha, IJNet",
+   "result": "0 risultati pertinenti (netzpolitik solo 2021 noto; eldiario/Numerama omonimi: Roberto Pietrosanti, Pietrasanta). Bloccati/non interrogabili: Guardian API (chiave test revocata), Le Monde, Libération, El País, Zeit, GIJN, techPresident (522), Público PT."
+  },
+  {
+   "source": "Hacking Team 2015 stampa estera: Euronews 2015-07-08, Al Jazeera 2015-07-06, Vice 'We met with Hacking Team', The Intercept 2015-07-07, Foreign Policy 2016 'Fear This Man', Privacy International 2016 licenza revocata",
+   "result": "nessuna nomina"
+  },
+  {
+   "source": "Al Jazeera Transparency Unit / WSJ SafeHouse 2011: EFF, New America, journalism.co.uk",
+   "result": "nessuna nomina"
+  },
+  {
+   "source": "Stampa estera citata dal Centro Hermes (archivio restaurato): Memeburn 2011, New America/DanBlah 2011, Radio3 Scienza 2013 'Il caso PRISM'",
+   "result": "Memeburn e New America senza nome; Radio3 Scienza = intervista ad Arturo Filastò, non Fabio"
+  },
+  {
+   "source": "Abraji / GIJC13 (abraji.sched.com, abraji.org.br)",
+   "result": "nessuna pagina nuova col nome oltre a gijc13.sched.com (noto)"
+  },
+  {
+   "source": "Radio/TV via WebSearch (Radio24, Radio3, Radio Popolare, RSI, RaiNews24, Sky TG24, La7, TV2000, Euronews, France 24, BBC, DW)",
+   "result": "solo Radio Radicale (già coperta); la coda Google in Chrome aveva già dato 0 su questi domini"
+  }
+ ],
+ "open_leads": [
+  {
+   "lead": "Sky TG24 2013-07-02 'Datagate, il mondo delle spie visto da dentro' (Sacha Coltellacci)",
+   "url": "https://video.sky.it/news/mondo/video/datagate_il_mondo_delle_spie_visto_da_dentro-164249",
+   "why": "elencato nella rassegna stampa Hermes; il video è ancora online ma la pagina non riporta gli intervistati; per verificarlo serve guardarlo (non scaricato per regola)"
+  },
+  {
+   "lead": "Golem.de 2011-08-23 'Quelloffene Whistleblower-Plattform angekündigt'",
+   "url": "http://www.golem.de/1108/85925.html",
+   "why": "rassegna Hermes; live dietro consent-wall, Web Archive in blocco (429/rifiuto connessione) durante la sessione"
+  },
+  {
+   "lead": "OWNI.eu 2012-08-27 'Where are the post-WikiLeaks digital whistleblowers' e 2011-06-08 'WSJ and Al Jazeera lure whistleblowers...'",
+   "url": "http://owni.eu/2012/08/27/where-are-the-post-wikileaks-digital-whistleblowers-assange/",
+   "why": "testata defunta, solo Web Archive (bloccato)"
+  },
+  {
+   "lead": "de Volkskrant 2013-09-09 Publeaks",
+   "url": "http://www.volkskrant.nl/vk/nl/2694/Tech-Media/article/detail/3506349/2013/09/09/Vanaf-vandaag-anoniem-lekken-naar-media-via-doorgeefluik-Publeaks.dhtml",
+   "why": "solo Web Archive (bloccato)"
+  },
+  {
+   "lead": "Disappeared News 2013-06-13 (Larry Geller)",
+   "url": "http://www.disappearednews.com/2013/06/be-first-on-your-block-to-offer-leaks.html",
+   "why": "404 live; solo Web Archive"
+  },
+  {
+   "lead": "RTS (Serbia) 2011-10-21 'Programer Globaleaks-a u Južnim vestima'",
+   "url": "https://www.youtube.com/watch?v=l3Zz2882lCI",
+   "why": "servizio TV serbo su un 'programmatore di GlobaLeaks'; descrizione solo data, probabilmente un collaboratore locale e non Fabio"
+  },
+  {
+   "lead": "techPresident: altri articoli 2011-2016",
+   "url": "http://techpresident.com/",
+   "why": "sito in errore 522; ricerca interna impossibile; serve Web Archive"
+  }
+ ]
+}

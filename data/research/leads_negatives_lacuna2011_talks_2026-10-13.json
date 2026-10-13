@@ -1,0 +1,78 @@
+[
+ {
+  "lead": "CCC 28C3-33C3 Fahrplan (main track)",
+  "result": "Ho scaricato le pagine speakers di events.ccc.de/congress/2011..2016/Fahrplan (speakers.en.html / speakers.html): né «Pietrosanti» né «naif». La ricerca «pietrosanti» su api.media.ccc.de trova solo SHA2017 (fuori range). Le sessioni self-organized/wiki di 30C3, 31C3 e 33C3 sono già note; le pagine wiki 28C3 Tor2web/GlobaLeaks sono escluse da decisions.json."
+ },
+ {
+  "lead": "RightsCon 2014 (SF) - Speakers List PDF e Web Program PDF (Wayback 20140505)",
+  "result": "Con pdftotext: niente Pietrosanti, GlobaLeaks o Hermes. Nessuna menzione nemmeno negli Outcome Report 2011, 2012 e 2014."
+ },
+ {
+  "lead": "RightsCon 2015 (Manila) - RC_2015_Program.pdf (Wayback 20150326030347)",
+  "result": "C'è un lightning talk «GlobaLeaks: The First and Most-used Free and Open Source Whistleblowing Framework» (Tech Demo/Lightning Talks), ma il relatore non è nominato. Per la regola «senza nome, non sono io» non l'ho inserito. Pista aperta: non ho trovato un programma dettagliato con i nomi."
+ },
+ {
+  "lead": "RightsCon Silicon Valley 2016 - programma PDF (RC2016-program-222.pdf) e Sched rightscon.sched.org",
+  "result": "Sessione ID57 «Planning and Setting up a Whistleblowing initiative for Media and Activists with GlobaLeaks», venerdì 1 aprile 2016, 17:15-18:15, sala The Lab, organizzazione «Hermes Center for Transparency and Digital Human Rights»; relatore «TBA» (capture Sched 20160317032404). Nelle directory speakers/attendees (capture di marzo 2016) né Pietrosanti né naif. Lo Sched live dice «Event Locked». Senza nome, quindi non inserito. Pista aperta: capture successive della pagina evento 6MhV o il PDF finale del programma potrebbero riportare il nome."
+ },
+ {
+  "lead": "Internet Freedom Festival 2016 - «Globaleaks User forum» (sessione self-organized)",
+  "result": "Presenter: Giovanni Pellerano, Pedro Noel, Marcel Oomens (Hermes/AWP/Free Press Unlimited). Non è lui."
+ },
+ {
+  "lead": "IFF / CTF: altre sessioni sul whistleblowing (MENAleaks, Improving methodology verifying leaks, Whistler, psychology of whistleblowers, 5 años tras Wikileaks)",
+  "result": "Presenter diversi (Rahma Sghaier, Cedric Laurant e altri); nessun Pietrosanti. Circumvention Tech Festival 2015: ctfestival.org ha solo 56 capture e nessun programma; il programma 2015 non l'ho trovato."
+ },
+ {
+  "lead": "Sched: GIJC15 (Lillehammer), IGF 2014/2015/2016, Dataharvest 2015",
+  "result": "Ho scaricato gli elenchi descriptions/speakers: né Pietrosanti né naif. Dataharvest 2015 cita solo IrpiLeaks/GlobaLeaks. Il post di gijc2015.org «How to create a secure leaks platform» (Wayback 20190820) parla di IrpiLeaks senza il suo nome. GIJC 2011 Kyiv: gijc2011.org è nel Web Archive senza pagine di programma o relatori."
+ },
+ {
+  "lead": "HOPE Number Nine (2012), HOPE X (2014), HOPE XI (2016)",
+  "result": "In x.hope.net/speakers.html e xi.hope.net/speakers.html niente Pietrosanti, naif o GlobaLeaks; hopenumbernine.net talks dà 404 anche su Wayback. Il panel HOPE X «Lessons Learned from Implementing Real Life Whistleblowing Platforms» (YouTube 7o0QC8n_xHc / nc_DJQ1Gr0A) è di Jurre van Bergen e Sacha van Geffen, non suo."
+ },
+ {
+  "lead": "CIJ Logan Symposium (Londra, Barbican 2014-2016)",
+  "result": "logancij.com /speaker/, /category/speakers/, /programme/, /schedule/ (Wayback 2015) e CDX di logancij.com e tcij.org: niente Pietrosanti, Hermes o GlobaLeaks. I siti live rispondono 403."
+ },
+ {
+  "lead": "Tor dev meetings 2011-2016",
+  "result": "Pagine trac.torproject.org/projects/tor/wiki/org/meetings/*DevMeeting* (30 capture Wayback 2011-2014): niente naif, Pietrosanti, GlobaLeaks o Tor2web. Il wiki legacy su gitlab.torproject.org risponde 403. Le mailing list non contano."
+ },
+ {
+  "lead": "Nexa Center (altri eventi)",
+  "result": "Tag fabio-pietrosanti e ricerca interna: solo e-gov/e-democracy 2012 (noto), mercoledi-73 (noto) e lettera sull'app COVID (fuori range)."
+ },
+ {
+  "lead": "Logioshermes.org (sito Hermes 2012-2016): post sugli eventi",
+  "result": "Letti via Wayback: «e-Privacy, Il Progetto Globaleaks, una breve introduzione» (2011), «e-privacy 2014 internet delle cose», «E-PRIVACY 2015 Captatori Informatici» (Cagliari 16-17/10/2015), «Eticanews whistleblowing Milano», «Nasce il portale ALAC», «Workshop Vicino/Lontano (maggio 2015, Udine)» (workshop «Sicurezza digitale per neofiti»): nessuno nomina Fabio. Vicino/Lontano 2015: nel CDX di vicinolontano.it non c'è una pagina evento del workshop 2015 con il suo nome. Pista aperta, ma debole."
+ },
+ {
+  "lead": "International Journalism Festival 2014/2016 (controllo collaterale)",
+  "result": "Gli URL /programme/2016/digital-whistleblowing-with-globaleaks e /greenwald-in-a-box-a-hermes-experiment(-2) mostrano le sessioni 2015 (19/04/2015 e 18/04/2015): è un'anomalia del sito, non esiste una sessione IJF16 con lui. La sessione 2014 «The protection of anonymous sources...» (video IJF AlHFa7ju934) è di Gallus e Micozzi, non sua. Il riassunto di una ricerca web che gli attribuiva sessioni a «Wired Next Fest 2014/2015» e a «IJF16, 9 aprile 2016» era sbagliato (erano titoli IJF15)."
+ },
+ {
+  "lead": "CDX Wayback, URL contenenti «ietrosan» sui domini: internetfestival.it, sotn.it, stateofthenet.it, codemotion.it, codemotionworld.com, smau.it, festivalscienza.it, hackinbo.it, re-publica.de/.com, cpdpconferences.org, stockholminternetforum.se, festivalgiornalismodigitale.it, lsdi.it, endsummercamp.org, hackmeeting.org, rightscon.org, igf-italia.it, transparency.it, whistleblowingnetwork.org, journalismfund.eu, ohm2013.org, tcij.org, forumpa.it, internetfreedomfestival.org, tedxroma.com, tedxmilano.com, cyberwarfare.it, isaca.it, aipsi.it, clusit.it, internazionale.it/festival/persone+ospiti, wired.it/next-fest",
+  "result": "Nessun URL con il nome. Riscontri solo su domini o URL già noti (journalismfestival, personaldemocracy, vicinolontano 2019, fosdem 2018/2021, agendadigitale, e-privacy materiali 2005/2009/2012, dig-awards 2022). Limite: la ricerca guarda solo l'URL, non il testo. Non verificabili: gijn.org (errore 504) e i domini interi di internazionale.it e wired.it (timeout)."
+ },
+ {
+  "lead": "Eventi di Transparency International Italia; Pištaljka «For Every Truth There Is a Source» (Belgrado 2015/2016)",
+  "result": "transparency.it, evento «Whistleblowing in Europa. Buone pratiche...»: il relatore per GlobaLeaks è Giovanni Pellerano, non lui. Nieman Reports sulla conferenza Pištaljka: nessuna menzione."
+ },
+ {
+  "lead": "Ricerche web (circa 30): RightsCon, IFF/CTF, Logan, Dataharvest, IGF, HOPE/re:publica/CPDP, SIF/CoE/UNESCO, TEDx, Wired Next Fest, Internet Festival, SotN, SMAU, IACC 2012/2015, World Forum for Democracy/EuroDIG/IGF Italia, seminari universitari, Radio Radicale, panel su Hacking Team, festival 2016",
+  "result": "Nessuna voce nuova oltre a quelle inserite. IACC: solo IACC 2020 (fuori range). Aperto anticorruzione.eu 2016/04 «Globaleaks: anonimato e sicurezza per il Whistleblower»: nessun nome. free-group.eu 2015-05-21: nessun nome."
+ },
+ {
+  "lead": "YouTube (yt-dlp, circa 20 query)",
+  "result": "Unico video nuovo: 9Fr90MjCvTQ (inserito). Fuori range ma forse non noto: Fanpage.it zwtSdR4t4cg (2020-11-19, DIG Awards Modena, «spiega uno dei fondatori di GlobaLeaks, Fabio Pietrosanti»). Gli altri video su GlobaLeaks (ESC, Hacktivity, CampZer0, PPI TT14, Matteo Flora) non riportano il suo nome."
+ },
+ {
+  "lead": "ATTENZIONE su una voce nota: OHM2013 «Digital Whistleblowing with GlobaLeaks» (https://www.youtube.com/watch?v=Q6k8hHAoIKA)",
+  "result": "La descrizione del video noto dice solo «Speakers: Hermes Center for Transparency and Digital Human Rights». Un altro upload dello stesso talk (YouTube waLUT87-F8M, canale zombb66, 2013-08-31) indica «About the speaker: https://twitter.com/hellais Arturo Filastò (@hellais), Hermes Center». Le pagine di program.ohm2013.org sono già escluse da decisions.json perché senza nome. Suggerimento: far confermare a Fabio se il relatore a OHM2013 era lui (oppure riconoscere la voce nel video)."
+ },
+ {
+  "lead": "Piste non esplorate o residue",
+  "result": "Stockholm Internet Forum, CPDP, re:publica, World Press Freedom Day, OSCE (oltre al 2016 già noto) e Council of Europe: controllati solo con la ricerca CDX sugli URL e con ricerche web, non nei PDF dei programmi. Campus Party Italia, Festival della Scienza, MOCA 2012, TEDx: nessun riscontro. Slideshare fpietrosanti: nessuna presentazione dopo il 2010."
+ }
+]

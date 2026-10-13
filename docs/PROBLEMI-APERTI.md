@@ -1,8 +1,19 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-10-08** (969 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-10-13** (1038 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
+
+## A0-quinquies. Domande nuove (2026-10-13, lacuna 2011–2016)
+1. **OHM2013**: il video noto (Q6k8hHAoIKA) indica come relatore solo «Hermes Center», un altro caricamento dello stesso
+   talk (waLUT87-F8M) lo attribuisce ad **Arturo Filastò**. Il talk era tuo, di Arturo o di entrambi?
+2. **Greenwald-in-a-box, IJF 18/04/2015** (seconda sessione, YouTube qAhTIzvV310): nella trascrizione Agosti presenta
+   Calamari, Pellerano e un altro sviluppatore, non te. Eri presente? Se no, la voce va tolta (la prima sessione del 16/04
+   invece ti nomina tra i presenti).
+3. **Slide del 73° Mercoledì di Nexa (11/03/2015)**: il PDF si chiama `mercoledi-73-pietrosanti.pdf` ma dentro c'è solo
+   «Hermes Center» (autore nei metadati: «Giuseppe»). Le teniamo come allegato del tuo talk?
+4. **Conferenza PouL 2013** («GlobaLeaks e TOR», con Claudio Agosti): dalla trascrizione non si capisce chi parla quando.
+   Ricordi chi dei due fece la prima parte (Tor/anonimato) e chi GlobaLeaks (da 89:56)?
 
 ## A0-quater. Domande nuove (2026-10-08, lacuna 2004–2008)
 1. **Talk del 28/04/2007 con Matteo Flora** («Privacy e Sicurezza: errori, orrori ed implementazioni», promosso da AIP):
@@ -159,6 +170,17 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-quaterdecies. 2026-10-13
+- Copie delle 11 voci nuove e dei 6 mirror: **tutte ottenute** (live o Web Archive), compresi 4 video YouTube (VL2014,
+  videodiario IJF 2012 ×2, Manualetto CRS 2026, Fanpage DIG 2020) e il video ESC 2011 «Globaleaks Live Launch» (77 min,
+  in trascrizione locale per capire se parli tu o se sei solo citato).
+- 🟡 nuovo: slide Nexa 2015 (nome solo nel nome del file, vedi domanda A0-quinquies.3).
+- **Ritagli convegni**: le 8 registrazioni in coda sono state trascritte → +17 segmenti (35 in totale); restano senza
+  ritaglio PouL 2013 (`two_speakers`) e le due sessioni Greenwald-in-a-box 2015 (`not_found`).
+- Retry dei falliti e tentativo su arquivo.pt (notizieoggi, coinage, privatewave.com/media): **nessuna capture**. Restano ❌
+  con motivo invariato: Radio Monte Carlo 2010, PrivateWave EN/ES, deck Foggia (410), coinage.it, 2 notizieoggi.com;
+  CyberCoach solo pagina; 🟠 Sogou anti-bot.
 
 ### B0-terdecies. 2026-10-12
 - Recuperato e committato il lavoro del 09/10 rimasto senza commit (WeChat 长寿科技情报站 con 18 foto, NetEase VG5NGRVPI,

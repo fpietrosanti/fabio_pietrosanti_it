@@ -1,0 +1,67 @@
+[
+ {
+  "date": null,
+  "year": 2016,
+  "type": "talk",
+  "outlet": "Internet Freedom Festival 2016 (IFF), Valencia (1-6 marzo 2016) - IFF Wiki",
+  "title": "Setting up Whistleblowing Activism Initiatives with GlobaLeaks",
+  "url": "https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks",
+  "language": "en",
+  "role": "speaker",
+  "note": "Pagina della sessione sull'IFF Wiki: «Presenter(s) Fabio Pietrosanti ... Organization(s) Hermes Center for Transparency and Digital Human Rights ... Country(ies) Italy»; formato Conversation, 1 ora, track Tools & Technology; descrizione sull'avvio di iniziative di whistleblowing («supporting more than 30 whistleblowing projects using GlobaLeaks in +20 countries»). Verificata su Wayback 20210620025940 (la pagina live oggi è 404). La sessione con questo titolo compare nell'elenco «IFF Schedule» dell'edizione 2016 (Wayback 20160525224224, https://internetfreedomfestival.org/wiki/index.php/IFF_Schedule), che però riporta solo il titolo; il campo «2017 theme» della pagina è un artefatto del template wiki. Data esatta della sessione non trovata (lo schedule con orari stava su una pagina esterna non archiviata).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2014-05-19",
+  "year": 2014,
+  "type": "video",
+  "outlet": "Friuli FutureForum (YouTube) - vicino/lontano 2014, Udine",
+  "title": "FFF - Su Facebook, ma non senza privacy. #VL2014",
+  "url": "https://www.youtube.com/watch?v=9Fr90MjCvTQ",
+  "language": "it",
+  "role": "interviewed",
+  "note": "Descrizione del video: «Tre videointerviste sulla tematica della privacy in Rete a tre esperti in occasione workshop per Vicino/Lontano #VL2014: Yvette Agostini ..., Claudio Agosti ..., Fabio Pietrosanti security.» Videointervista legata al workshop già noto «Su Facebook, ma non senza privacy» (vicinolontano.it, 17/05/2014). Verificato con yt-dlp (metadati, upload 2014-05-19).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2015-04-22",
+  "year": 2015,
+  "type": "article",
+  "outlet": "SenzaBarcode",
+  "title": "Globaleaks contro la corruzione",
+  "url": "https://senzabarcode.it/2015/04/22/globaleaks-contro-la-corruzione/",
+  "language": "it",
+  "role": "subject",
+  "note": "Pubblica/riassume il suo intervento: «Globaleaks. Intervento di Fabio Pietrosanti, Presidente e fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali all'incontro di Frontiera Digitale Radicale – Radical Digital Frontiers svolto a Roma il 12 aprile.» Copertura stampa del talk già noto (Radio Radicale scheda 438714). Verificato live 2026-10-13.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2015-03-11",
+  "year": 2015,
+  "type": "talk",
+  "outlet": "Nexa Center for Internet & Society (Politecnico di Torino) - 73° Mercoledì di Nexa - slide",
+  "title": "Principi e strumenti del whistleblowing: il caso GlobaLeaks",
+  "url": "https://web.archive.org/web/20220519202553/https://nexa.polito.it/nexacenterfiles/mercoledi-73-pietrosanti.pdf",
+  "language": "en",
+  "role": "speaker",
+  "note": "Slide del 73° Mercoledì di Nexa (evento già noto: https://nexa.polito.it/mercoledi-73/). Il file si chiama «mercoledi-73-pietrosanti.pdf» e la prima slide dice «11 March 2015, Centro Nexa, Torino 73° Mercoledì di Nexa - Hermes Center for Transparency and Digital Human Rights», ma il testo non contiene né «Pietrosanti» né «naif» (autore nei metadati: «Giuseppe»). Il link live è 404; c'è una copia completa su Wayback 20220519202553 (la capture 20220426215157 è troncata). La pagina evento attuale non lo linka. Per regola non è verificato (il nome è solo nell'URL); è da far decidere a Fabio come allegato del talk noto.",
+  "verified": false,
+  "known": true
+ },
+ {
+  "date": "2016-08-19",
+  "year": 2016,
+  "type": "talk",
+  "outlet": "MOCA 2016 - Metro Olografix Camp (Pescara)",
+  "title": "GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani",
+  "url": "https://moca2016.olografix.org/speakers/fabio-naif-pietrosanti/",
+  "language": "it",
+  "role": "speaker",
+  "note": "mirror di https://moca2016.olografix.org/it/employees/fabio-naif-pietrosanti/ (è il canonical della pagina). Live 2026-10-13, titolo «Fabio \"naif\" Pietrosanti - MOCA // Metro Olografix CAmp //».",
+  "verified": true,
+  "known": true
+ }
+]
