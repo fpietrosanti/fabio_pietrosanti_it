@@ -1077,51 +1077,95 @@
   },
   {
    "query": "\"naif\" s0ftpj OR \"Butchered From Inside\" OR BFi",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)",
+   "done": "2026-10-13",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" hackmeeting 1999 OR 2000 OR 2001",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)",
+   "done": "2026-10-13",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" \"Metro Olografix\" OR \"MOCA\" 2004 OR 2008",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)",
+   "done": "2026-10-13",
+   "found": 8
   },
   {
    "query": "\"Pietrosanti\" VoIP OR Asterisk OR SIP sicurezza 2005 OR 2006",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)",
+   "done": "2026-10-13",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" \"Ethical hacking\" OR \"penetration test\" 2003 OR 2004",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)",
+   "done": "2026-10-13",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" GlobaLeaks 2023 OR 2024 intervista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)",
+   "done": "2026-10-13",
+   "found": 7
   },
   {
    "query": "\"Pietrosanti\" \"Hermes\" evento OR convegno 2024 OR 2025",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)",
+   "done": "2026-10-13",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" relatore OR speaker 2025",
+   "status": "retry",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25); 2026-10-13 09:50: robot check Google, rimessa in retry"
+  },
+  {
+   "query": "\"naif\" \"Profiling Hackers\" OR \"Hacker Profiling Project\"",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-13 04:30: coda esaurita, anni deboli (1998-99, 2003-06, 2023-25)"
+   "note": "aggiunta 2026-10-13 09:50: coda quasi esaurita, anni deboli (1998-2006, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" Winston Smith OR \"e-privacy\" 2005 OR 2006 OR 2007",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 09:50: coda quasi esaurita, anni deboli (1998-2006, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Khamsa\" OR \"criptofonino\" OR \"criptofonini\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 09:50: coda quasi esaurita, anni deboli (1998-2006, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" whistleblowing 2025 OR 2026 convegno",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 09:50: coda quasi esaurita, anni deboli (1998-2006, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" Tor relay OR exit node 2008 OR 2009 OR 2010",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-13 09:50: coda quasi esaurita, anni deboli (1998-2006, 2023-25)"
   }
  ],
  "history": [
@@ -1681,6 +1725,14 @@
    "captcha": false,
    "confirmed_new": 14,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 query della coda (Tor hidden service 2012-13, Hermes trasparenza 2014-15, trojan di Stato 2016, Copernicani/Italia digitale 2023-24, biohacking, cybersecurity 2024-25, Centro Hermes 2022-23, naif hacker 2011-12), tutte a pagina singola. 52 candidati, 22 già in archivio/decisioni, 30 verificati. Nuove 14 voci con copia offline: nazioneindiana e-privacy 2012, dimt.it e programma e-privacy XVII 2015, Nexa tag, The Vision trojan di Stato, Eta Beta puntate 2022, slide Chiccarelli 'Storia e storie degli hacker' (SlideShare 2016 e No Hat 2019, naif tra i hacker romani), MOCA 2016 (talk GlobaLeaks), audit iSEC 2013 di GlobaLeaks, tech report statistiche hidden service 2015 (cita proposta Tor2web 233), Brizzi su Il Penalista 2019 e tesi di dottorato UniSi (citano Aterno-Pietrosanti 2019), P&R Foundation Milano 5/11/2019 (relatore). PDF verificati a mano con pdftotext (il verificatore non li legge). Esclusi: Repubblica 2012 'hacker naif' (aggettivo), Anton Giulio Pietrosanti (ICON-S 2025, giustiziainsieme), radioradicale 446735 (Valentina Pietrosanti curatrice), pagine indice ilriformista tag e pr-foundation content. Scartati senza verifica: LinkedIn/Facebook/Instagram, mailing list tor-talk, forum.italia.it, siti propri. Coda esaurita: aggiunte 8 query sugli anni deboli."
+  },
+  {
+   "date": "2026-10-13 09:50",
+   "engine": "google-chrome",
+   "searched": 7,
+   "captcha": true,
+   "confirmed_new": 2,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa (una disconnessione transitoria, ripresa). 7 query della coda eseguite (naif s0ftpj/BFi, hackmeeting 1999-2001, Metro Olografix/MOCA, VoIP 2005-06, ethical hacking 2003-04, GlobaLeaks 2023-24 intervista, Hermes eventi 2024-25), tutte a pagina singola; robot check Google all'ottava ('Fabio Pietrosanti' relatore OR speaker 2025): stop, non aggirato, messa in retry. 30 candidati, quasi tutti già in archivio (s0ftpj, BFi10, No Hat, SFSCon, MOCA, Nexa 73, IJF, e-privacy, CINI 2018, radioradicale). Nuove 2 voci con copia offline (Wayback): paper FOCI 2012 'How the Great Firewall of China is Blocking Tor' (Winter-Lindskog, ringraziamenti a Fabio; copia Scribd) e Collegio Ghislieri, Pavia 24/11/2017, convegno 'Il cellulare ci spia!', talk 'Criptofonini: quindici anni di storia'. Non aggiunte: FSFE FOSDEM 2021 versione .it (già presente la .en), Nexa/MOCA/CINI (già in archivio come mirror). Esclusi (decisions.json): radioradicale 316486 (intervista Vulpiano, curatrice Valentina Pietrosanti), GeImpresa 2018 (Roberto Pietrosanti, artista), peacelink 2741 e dicorinto tag (nome assente). Non verificabili: ebin.pub 'Profiling Hackers' (shell JS; libro Chiesa-Ducci-Ciappi 2008, da controllare se cita naif), SSRN White Paper 2 Cybersecurity and Law (download bloccato). Scartati senza verifica: mailing list (autistici, inventati, nexa hyperkitty), groups.google, infosecurity.ch (sito proprio), paper medici di omonimi (Parkinson). Coda: resta 1 query in retry."
   }
  ]
 }

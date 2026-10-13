@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2012-08-06",
+  "year": 2012,
+  "type": "mentioned",
+  "outlet": "scribd.com (copia del paper FOCI 2012)",
+  "title": "How the Great Firewall of China is Blocking Tor (Winter, Lindskog — FOCI 2012)",
+  "url": "https://www.scribd.com/document/962321259/How-the-Great-Firewall-of-China-is-Blocking-Tor",
+  "language": "en",
+  "role": "subject",
+  "note": "Paper USENIX FOCI 2012 di Philipp Winter e Stefan Lindskog; nei ringraziamenti: «Fabio Pietrosanti for helping with the experiments». Copia Scribd caricata da terzi. verified via wayback; context: …al fragmented Tor connections, we never observed any Hübner and Rose-Mharie Åhlfeldt for feedback and active scanning and could use Tor without interference. Fabio Pietrosanti for helping with the experiments. This exp…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017-11-24",
+  "year": 2017,
+  "type": "talk",
+  "outlet": "ghislieri.it",
+  "title": "CONVEGNO ANNUALE DI INFORMATICA GIURIDICA. Il cellulare ci spia! Le strategie crittografiche, arma a doppio taglio a difesa dell",
+  "url": "https://www.ghislieri.it/events/convegno-annuale-di-informatica-giuridica-il-cellulare-ci-spia-le-strategie-crittografiche-arma-a-doppio-taglio-a-difesa-dellintegrita-e-della-sicurezza-della-comunicazione/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Collegio Ghislieri, Pavia — convegno annuale di informatica giuridica «Il cellulare ci spia!»; intervento «Criptofonini: quindici anni di storia» di Fabio «Naif» Pietrosanti, Presidente Hermes Center. Data dai metadati della pagina (2017-11-24). verified via wayback; context: …per l’Italia Digitale, ENISA ore 14.25 Saluto del Rettore del Collegio Ghislieri prof. Andrea BELVEDERE ore 14.30 Criptofonini: quindici anni di storia Fabio ‘Naif’ PIETROSANTI Presidente Hermes Center prof. Paolo DAL CH…",
+  "verified": true,
+  "known": false
+ }
+]

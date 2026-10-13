@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1442**; dopo deduplica: **1052**
+- Risultati grezzi dalle ricerche: **1444**; dopo deduplica: **1054**
 - Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1007**
-- Verificati aprendo la pagina: **990**; solo da risultato di ricerca: **62**
+- **Nuovi rispetto al vecchio sito: 1009**
+- Verificati aprendo la pagina: **992**; solo da risultato di ricerca: **62**
 
-Per tipo (nuovi): Menzionato 203, tweet 132, Talk 82, Post sul blog infosecurity.ch 72, Video 70, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 204, tweet 132, Talk 83, Post sul blog infosecurity.ch 72, Video 70, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -30,12 +30,12 @@ Per tipo (nuovi): Menzionato 203, tweet 132, Talk 82, Post sul blog infosecurity
 | 2009 | 1 | 46 | 44 |
 | 2010 | 6 | 64 | 54 |
 | 2011 | 4 | 28 | 25 |
-| 2012 | 0 | 34 | 34 |
+| 2012 | 0 | 35 | 35 |
 | 2013 | 0 | 29 | 29 |
 | 2014 | 0 | 29 | 29 |
 | 2015 | 0 | 42 | 42 |
 | 2016 | 0 | 28 | 28 |
-| 2017 | 0 | 73 | 73 |
+| 2017 | 0 | 74 | 74 |
 | 2018 | 0 | 68 | 68 |
 | 2019 | 0 | 63 | 63 |
 | 2020 | 0 | 167 | 167 |
@@ -1125,7 +1125,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 73 voci, 73 nuove
+## 2017 — 74 voci, 74 nuove
 
 - 🆕 **2017-12-14** · Ricerca · GitHub avast/retdec — [retdec #29 «Fix Avast File Download Vulnerability»](https://github.com/avast/retdec/issues/29)  
   Opened by fpietrosanti: Avast installer served over HTTP; cites his July-2017 tweet twitter.com/fpietrosanti/status/881888886678581249
@@ -1133,6 +1133,8 @@ Anni senza nessun risultato: nessuno
   verified via live; context: …e iniziative per introdurre nella normativa nazionale la previsione di un divieto dello sviluppo e della ommercializzazione di sistemi Aws.” Che cosa ne pensi? Fabio Pietrosanti Presidente Centro Hermes per la trasparenz…
 - 🆕 **2017-11-29** · Articolo scritto · EDRi (European Digital Rights) — [Italy extends data retention to six years](https://edri.org/our-work/italy-extends-data-retention-to-six-years/)  
   EDRi-gram piece contributed by Pietrosanti (Hermes Center) with Italian civil-liberties experts
+- 🆕 **2017-11-24** · Talk · ghislieri.it — [CONVEGNO ANNUALE DI INFORMATICA GIURIDICA. Il cellulare ci spia! Le strategie crittografiche, arma a doppio taglio a difesa dell](https://www.ghislieri.it/events/convegno-annuale-di-informatica-giuridica-il-cellulare-ci-spia-le-strategie-crittografiche-arma-a-doppio-taglio-a-difesa-dellintegrita-e-della-sicurezza-della-comunicazione/)  
+  Collegio Ghislieri, Pavia — convegno annuale di informatica giuridica «Il cellulare ci spia!»; intervento «Criptofonini: quindici anni di storia» di Fabio «Naif» Pietrosanti, Presidente Hermes Center. Data dai metadati della pagina (2017-11-24). verified via wayback; context: …per l’Italia Digitale, ENISA ore 14.25 Saluto del Rettore del Collegio Ghislieri prof. Andrea BELVEDERE ore 14.30 Criptofonini: quindici anni di storia Fabio ‘Naif’ PIETROSANTI Presidente Hermes Center prof. Paolo DAL CH…
 - 🆕 **2017-11-17** · web · Business Follows srl (Roma) — Testimonials — [Fabio Pietrosanti (Naif) – Founder, President Hermes Center for Trasparency and Digital Human Rights](https://businessfollows.com/testimonials/fabio-pietrosanti-naif-founder-president-hermes-center-trasparency-digital-human-rights/)  
   Testimonial quote by Fabio: Business Follows' support was key in choosing the licensing model of GlobaLeaks and in finding resources for its development. datePublished 2017-11-17 from page JSON-LD.
 - 🆕 **2017-11-15** · Report · Hermes Center for Transparency and Digital Human Rights (Progetto Winston Smith / Cassandra), Italy — [Guida Hermes al voto digitale](https://archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale)  
@@ -1542,7 +1544,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2013** · Altro · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/)  
   PDF speaker database entry, no sessions listed (year approximate)
 
-## 2012 — 34 voci, 34 nuove
+## 2012 — 35 voci, 35 nuove
 
 - 🆕 **2012-11-19** · programme · e-privacy 2012 Winter Edition, Politecnico di Torino / Centro Nexa — [E-government & e-democracy: prospettive ed implicazioni sulla privacy - programma (tavola rotonda Sicurezza e controllo)](https://nexa.polito.it/wp-content/uploads/2012/11/2012-egovernment-programma.pdf)  
   verified via pdftotext (Google 2026-10-12 20:29); context: SICUREZZA E CONTROLLO (tavola rotonda) Moderatore: Fabio Pietrosanti (Hermes center for transparency and digital human rights)
@@ -1560,6 +1562,8 @@ Anni senza nessun risultato: nessuno
   Numero di pagina a stampa confermato 2026-09-27 via Google Books search-within sull'edizione ebook ricercabile (books?id=bIaZf663Z2cC&jscmd=SearchWithinVolume2&q=Pietrosanti, 4 risultati): indice analitico «Pietrosanti, Fabio, 318–19» (pp. 318-319 dell'edizione Dutton). Snippet PT238: «Pietrosanti and Arturo Filastò, the cofounders of GlobaLeaks, say they aim to create the BitTorrent to WikiLeaks' Napster»; PT239: «Pietrosanti says, is to expand the leaking movement from the current fifty or so WikiLeaks copycats to a network of hundreds or thousands of "leak nodes"». 'naif' non compare. Libro gia' noto (copia IA).
 - 🆕 **2012-09** · Paper · arXiv:1209.6398 — [The Hidden Internet of Iran: Private Address Allocations on a National Network](https://arxiv.org/pdf/1209.6398)  
   Collin Anderson. Acknowledgements: 'it is possible to recognize Fabio Pietrosanti and Arturo Filastò for their valuable insight on applied network research methods'.
+- 🆕 **2012-08-06** · Menzionato · scribd.com (copia del paper FOCI 2012) — [How the Great Firewall of China is Blocking Tor (Winter, Lindskog — FOCI 2012)](https://www.scribd.com/document/962321259/How-the-Great-Firewall-of-China-is-Blocking-Tor)  
+  Paper USENIX FOCI 2012 di Philipp Winter e Stefan Lindskog; nei ringraziamenti: «Fabio Pietrosanti for helping with the experiments». Copia Scribd caricata da terzi. verified via wayback; context: …al fragmented Tor connections, we never observed any Hübner and Rose-Mharie Åhlfeldt for feedback and active scanning and could use Tor without interference. Fabio Pietrosanti for helping with the experiments. This exp…
 - 🆕 **2012-08-06** · Paper · USENIX FOCI '12 — [How the Great Firewall of China is Blocking Tor (Winter, Lindskog)](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf)  
   Acknowledgments thank 'Fabio Pietrosanti for helping with the experiments'
 - 🆕 **2012-07-01** · Ricerca · Tor Project GitLab (ex trac) — [Tor #6268 «Implement user-defined SSL Ciphers and TLS version»](https://gitlab.torproject.org/tpo/core/tor/-/work_items/6268)  

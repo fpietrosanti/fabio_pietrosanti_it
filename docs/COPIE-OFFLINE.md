@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1052**; già processate: **1224**; ancora da processare: **0**
-- Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **887** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1014**
+- Voci in `data/media.json`: **1054**; già processate: **1226**; ancora da processare: **0**
+- Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **889** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1016**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **2**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -37,12 +37,12 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2009 | 47 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2010 | 62 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 29 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 2012 | 34 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 2012 | 35 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 24 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 34 | 9 | 1 | 0 | 0 | 0 | 0 |
 | 2016 | 22 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 73 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 74 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 79 | 3 | 1 | 0 | 0 | 0 | 2 |
 | 2020 | 160 | 8 | 0 | 0 | 0 | 0 | 0 |
@@ -651,6 +651,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2012** · International Journalism Festival (Perug — [Firewalls](https://www.journalismfestival.com/programme/2012/firewalls) · copia: `2012/6ca4340d301d` (Web Archive 20120318) · licenza: terzi
 - **2012** · International Journalism Festival (Perug — [Techniques of dissidence and digital repression](https://www.journalismfestival.com/programme/2012/techniques-of-dissidence-and-digital-repression-2) · copia: `2012/f82e4a29963f` (Web Archive 20130928) · licenza: terzi
 - **2012** · nazioneindiana.com — [La riscoperta dei diritti civili nell’era digitale: e-privacy 2012 a Milano | Nazione Indi](https://www.nazioneindiana.com/2012/06/18/la-riscoperta-dei-diritti-civili-nellera-digitale-e-privacy-2012-a-milano/) · copia: `2012/d9838e2f61fc` (Web Archive 20120625) · licenza: terzi
+- **2012** · scribd.com (copia del paper FOCI 2012) — [How the Great Firewall of China is Blocking Tor (Winter, Lindskog — FOCI 2012)](https://www.scribd.com/document/962321259/How-the-Great-Firewall-of-China-is-Blocking-Tor) · copia: `2012/f61a6ba1edee` (Web Archive 20260113) · licenza: terzi
 - **2012** · USENIX FOCI '12 — [How the Great Firewall of China is Blocking Tor (Winter, Lindskog)](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf) · copia: `2012/90c06f908516` (Web Archive 20140223) · licenza: terzi
 - **2012** · International Journalism Festival (YouTu — [Festival del Giornalismo 2012 - Videodiario, terza puntata (27 aprile) #ijf12](https://www.youtube.com/watch?v=1MYg_32I8lg) · copia: `2012/f059cb1da0bf` (live · video locale `media.mp4` (50 MB, da caricare su Drive)) · licenza: terzi
 - **2012** · International Journalism Festival (YouTu — [Festival del Giornalismo 2012 - Videodiario, terza puntata (27 aprile) #ijf12](https://www.youtube.com/watch?v=8icNqwJEIXM) · copia: `2012/56d560e86e70` (live · video locale `media.mp4` (30 MB, da caricare su Drive)) · licenza: terzi
@@ -847,6 +848,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · University of California, Berkeley, PhD  — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf) · copia: `2017/07478431c5a6` (Web Archive 20190612) · licenza: terzi
 - **2017** · www.ccc.de — [Stellungnahme_CCC-Staatstrojaner.pdf](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) · copia: `2017/0ec817dbfbbc` (Web Archive 20170531) · licenza: terzi
 - **2017** · European Parliament, Policy Department f — [Legal Frameworks for Hacking by Law Enforcement: Identification, Evaluation and Comparison](https://www.europarl.europa.eu/RegData/etudes/STUD/2017/583137/IPOL_STU(2017)583137_EN.pdf) · copia: `2017/114e1a17fa02` (Web Archive 20170419) · licenza: terzi
+- **2017** · ghislieri.it — [CONVEGNO ANNUALE DI INFORMATICA GIURIDICA. Il cellulare ci spia! Le strategie crittografic](https://www.ghislieri.it/events/convegno-annuale-di-informatica-giuridica-il-cellulare-ci-spia-le-strategie-crittografiche-arma-a-doppio-taglio-a-difesa-dellintegrita-e-della-sicurezza-della-comunicazione/) · copia: `2017/940c38f765aa` (Web Archive 20240714) · licenza: terzi
 - **2017** · heise.de — [Hackercamp SHA2017: Gold-Standard für Staatstrojaner gesucht](https://www.heise.de/news/Hackercamp-SHA2017-Gold-Standard-fuer-Staatstrojaner-gesucht-3795375.html) · copia: `2017/34f8a7c025be` (Web Archive 20260223) · licenza: terzi
 - **2017** · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/) · copia: `2017/21e70c003198` (Web Archive 20210306) · licenza: propria
 - **2017** · Hermes Center (hermescenter.org) / CILD  — [Lettera al Ministro Carlo Calenda (MISE) sulle licenze di esportazione di tecnologie di so](https://www.hermescenter.org/wp-content/uploads/2017/04/MISElettera_aprile2017_ITA-2.pdf) · copia: `2017/c8c2d1cc7bc8` (local-crawl) · licenza: propria
