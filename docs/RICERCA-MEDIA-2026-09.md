@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1451**; dopo deduplica: **1061**
+- Risultati grezzi dalle ricerche: **1455**; dopo deduplica: **1062**
 - Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1016**
-- Verificati aprendo la pagina: **1001**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 1017**
+- Verificati aprendo la pagina: **1002**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 207, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 69, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 208, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 69, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -38,7 +38,7 @@ Per tipo (nuovi): Menzionato 207, tweet 132, Talk 87, Post sul blog infosecurity
 | 2017 | 0 | 74 | 74 |
 | 2018 | 0 | 68 | 68 |
 | 2019 | 0 | 64 | 64 |
-| 2020 | 0 | 168 | 168 |
+| 2020 | 0 | 169 | 169 |
 | 2021 | 0 | 89 | 89 |
 | 2022 | 0 | 60 | 60 |
 | 2023 | 0 | 14 | 14 |
@@ -526,7 +526,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
 
-## 2020 — 168 voci, 168 nuove
+## 2020 — 169 voci, 169 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -734,6 +734,8 @@ Anni senza nessun risultato: nessuno
   Testo: «@stramargio @gbgallus @fabiochiusi @carlopiana @simonealiprandi @marcociurcina @fpmicozzi @bendingspoons Ma comunicatino stampa/appello coinvolgendo @HermesCenter @thegoodlobbyit @transparency_it @ItaLinuxSociety @cybersaiyanIT e altre orga affinché ci sia un chiaro perimetro di rilascio di codice open-source di frontend e backend, con riferimenti normativi a linee guida riuso?» Wayback capture 20200417085929 (id_) di twitter.com/fpietrosanti/status/1251069301806764032.
 - 🆕 **2020-04-17** · tweet · Twitter — [Siete pronti per la app Immuni? (Ubertooth)](https://twitter.com/fpietrosanti/status/1251221079823187977)  
   Testo: «[ITA] Siete pronti per la app #Immuni ? 😜  —-&gt; https://t.co/Zx5n9gx6HT» Link: https://greatscottgadgets.com/ubertoothone/. Wayback capture 20200417185921 (id_) di twitter.com/fpietrosanti/status/1251221079823187977.
+- 🆕 **2020-04-14** · Menzionato · think.it — [Globaleaks, l'impresa di battere la corruzione. Pronti a partecipare?](https://www.think.it/globaleaks-limpresa-di-battere-la-corruzione-pronti-a-partecipare/)  
+  verified via wayback; context: …ivo ha optato per un modello di governance open source che faciliti lo sviluppo di un ampio ecosistema attorno alla piattaforma. «L’obiettivo di fondo – spiega Fabio Pietrosanti , presidente di Hermes – è quello di favor…
 - 🆕 **2020-04-14** · Menzionato · Twitter — [@X_net_ (Xnet, Spagna): i motivi tecnici per preferire i dati delle telco li spiega @fpietrosanti](https://twitter.com/X_net_/status/1249996663013486592)  
   Tweet di @X_net_ che menziona @fpietrosanti. Testo: «3 - Los motivos técnicos para preferir nuestros datos que ya tienen las Telecos los explica @fpietrosanti -&gt; https://t.co/D44xZHLbAf  La tecnología de la App #Covid no puede sustituir, tan solo acompañar el traceo tradicional. Por precisión y alarma social https://t.co/Tz48G0tiAB» Wayback capture 20200418151733 (id_) di twitter.com/fpietrosanti/status/1249997876484284416. La capture reindirizza a https://twitter.com/X_net_/status/1249996663013486592.
 - 🆕 **2020-04-13** · tweet · Twitter — [Falsi positivi del contact tracing digitale senza intervista](https://twitter.com/fpietrosanti/status/1249576083919441921)  

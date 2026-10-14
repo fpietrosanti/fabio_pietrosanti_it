@@ -745,6 +745,18 @@
   {
    "url": "https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-glo",
    "reason": "2026-10-14: URL troncato: voce già presente con l'URL completo"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/tesi-triennale-x509-e-pgp/14952723",
+   "reason": "2026-10-14: slide di terzi su SlideShare; il nome compare solo nei correlati (la sua presentazione Infosecurity 2006 sulla firma digitale)"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/trust-8792627/8792627",
+   "reason": "2026-10-14: slide di terzi su SlideShare; il nome compare solo nei correlati (la sua presentazione Infosecurity 2006 sulla firma digitale)"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/crittografia-e-identita-digitale-sicurezza-e-normative-essenziali/287392127",
+   "reason": "2026-10-14: slide di terzi su SlideShare; il nome compare solo nei correlati (la sua presentazione Infosecurity 2006 sulla firma digitale)"
   }
  ],
  "override": [

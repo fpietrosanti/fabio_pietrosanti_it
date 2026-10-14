@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1061**; già processate: **1233**; ancora da processare: **0**
-- Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **896** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1024**
+- Voci in `data/media.json`: **1062**; già processate: **1234**; ancora da processare: **0**
+- Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **897** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1025**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **1**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -45,7 +45,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 74 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 80 | 3 | 1 | 0 | 0 | 0 | 2 |
-| 2020 | 161 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 162 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 55 | 8 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
@@ -1188,6 +1188,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Ciao, Internet! con Matteo Flora (Spreak — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810) · copia: `2020/beb50880eccd` (live · video locale `media.mp3` (36 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao Internet con Matteo Flora (Spreaker — [OpenRousseau e Open-Democracy: esiste davvero un modo di avere un sistema trasparente?](https://www.spreaker.com/episode/openrousseau-e-open-democracy-esiste-davvero-un-modo-di-avere-un-sistema-trasparente--41918584) · copia: `2020/cb2777aafd8e` (live · video locale `media.mp3` (91 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/) · copia: `2020/8e681af68171` (live) · licenza: terzi
+- **2020** · think.it — [Globaleaks, l'impresa di battere la corruzione. Pronti a partecipare?](https://www.think.it/globaleaks-limpresa-di-battere-la-corruzione-pronti-a-partecipare/) · copia: `2020/99cdd1a3a4c2` (Web Archive 20240806) · licenza: terzi
 - **2020** · Valigia Blu — [Come CIA e servizi segreti tedeschi hanno spiato alleati e avversari vendendo macchine ant](https://www.valigiablu.it/cia-germania-spionaggio-alleati/) · copia: `2020/3623df8bfee3` (Web Archive 20200327) · licenza: terzi
 - **2020** · wired.it — [Come sono riuscito a votare due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/) · copia: `2020/047d81756b8a` (Web Archive 20200819) · licenza: terzi
 - **2020** · wired.it — [Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau - Wi](https://www.wired.it/attualita/politica/2020/10/23/rousseau-espulsione-iscritto-doppio-voto-casaleggio/) · copia: `2020/cee82319fca6` (Web Archive 20201028) · licenza: terzi

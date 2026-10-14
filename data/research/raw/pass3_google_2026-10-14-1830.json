@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2020-04-14",
+  "year": null,
+  "type": "mentioned",
+  "outlet": "think.it",
+  "title": "Globaleaks, l'impresa di battere la corruzione. Pronti a partecipare?",
+  "url": "https://www.think.it/globaleaks-limpresa-di-battere-la-corruzione-pronti-a-partecipare/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …ivo ha optato per un modello di governance open source che faciliti lo sviluppo di un ampio ecosistema attorno alla piattaforma. «L’obiettivo di fondo – spiega Fabio Pietrosanti , presidente di Hermes – è quello di favor…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "slideshare.net",
+  "title": "Tesi Triennale - X509 e PGP",
+  "url": "https://www.slideshare.net/slideshow/tesi-triennale-x509-e-pgp/14952723",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …on GnuPG - I miei file e la mia posta elettron... by Maurizio Antonelli PDF 2006: Infosecurity Italy: Tecnologie di Firma Digitale e Tutela della Riserva... by Fabio Pietrosanti PPT Sicurezza Delle Reti by mariolotto89 P…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "slideshare.net",
+  "title": "Trust:concetti generali e teoria formale",
+  "url": "https://www.slideshare.net/slideshow/trust-8792627/8792627",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …Computing fondamenti di sicurezza by Mario Gentili 22 slides 286 views PDF 2006: Infosecurity Italy: Tecnologie di Firma Digitale e Tutela della Riserva... by Fabio Pietrosanti 30 slides 780 views PPT Sicurezza Delle Ret…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "slideshare.net",
+  "title": "Crittografia e Identità Digitale: Sicurezza e Normative Essenziali",
+  "url": "https://www.slideshare.net/slideshow/crittografia-e-identita-digitale-sicurezza-e-normative-essenziali/287392127",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …orso IFTS CyberSecurity Expert by Massimiliano Masi 50 slides 104 views PDF 2006: Infosecurity Italy: Tecnologie di Firma Digitale e Tutela della Riserva... by Fabio Pietrosanti 30 slides 780 views PDF Privacy e protezio…",
+  "verified": true,
+  "known": false
+ }
+]
