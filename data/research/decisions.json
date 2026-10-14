@@ -757,6 +757,30 @@
   {
    "url": "https://www.slideshare.net/slideshow/crittografia-e-identita-digitale-sicurezza-e-normative-essenziali/287392127",
    "reason": "2026-10-14: slide di terzi su SlideShare; il nome compare solo nei correlati (la sua presentazione Infosecurity 2006 sulla firma digitale)"
+  },
+  {
+   "url": "https://dokumen.pub/digital-whistleblowing-platforms-in-journalism-encrypting-leaks-1st-edition-3030385043-9783030385040-3030385051-9783030385057.html",
+   "reason": "2026-10-14: copia non ufficiale del libro di Di Salvo (Palgrave 2020), già presente con l'URL Springer"
+  },
+  {
+   "url": "https://www.journalismfestival.com/programme/0/take-care-of-your-sources-newsroom-empowering-with-globaleaks",
+   "reason": "2026-10-14: doppione della sessione IJF15 già presente (programme/2015/...)"
+  },
+  {
+   "url": "https://fsfe.org/news/2021/news-20210311-01.it.html",
+   "reason": "2026-10-14: versione italiana di 'FSFE at FOSDEM 2021', già presente in inglese"
+  },
+  {
+   "url": "https://www.festivaldelgiornalismo.com/speaker/giovanni-battista-gallus",
+   "reason": "2026-10-14: pagina speaker di un altro relatore (Gallus); sessione IJF18 'Privacy nightmare Italia' già presente"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/5-anonymous-communication-exercises-fee-d/267289596",
+   "reason": "2026-10-14: slide di terzi su SlideShare; cita solo in bibliografia il suo talk Hack.lu 2006, già presente"
+  },
+  {
+   "url": "https://merge-it.net/2018/",
+   "reason": "2026-10-14: home dell'evento MERGE-it 2018; talk e slide GlobaLeaks già presenti"
   }
  ],
  "override": [

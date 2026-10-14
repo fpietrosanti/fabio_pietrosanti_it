@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1455**; dopo deduplica: **1062**
+- Risultati grezzi dalle ricerche: **1466**; dopo deduplica: **1065**
 - Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1017**
-- Verificati aprendo la pagina: **1002**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 1020**
+- Verificati aprendo la pagina: **1005**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 208, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 69, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 69, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -1462,8 +1462,8 @@ Anni senza nessun risultato: nessuno
   Planning discussion: '(naif forse te stavi macerando quello dei tuoi a latina, o era ISDN?)', about an old analogue PBX. Passing mention only.
 - 🆕 **2014-06-20** · Video · Free Press Unlimited (YouTube) — [International Whistleblowers Conference 2014 - Part 1: Morning plenary](https://www.youtube.com/watch?v=UVBzF1rB5ZU)  
   Introductions by Fabio Pietrosanti, Anna Myers and Diana Schemo (Amsterdam)
-- 🆕 **2014-06-11** · Citato · Think! (think.it) - ripubblicazione dell'articolo EJO di Philip Di Salvo — [ExpoLeaks, whistleblowing per Expo](https://www.think.it/ecco-expoleaks-il-wikileaks-dellexpo-2015-per-denunciare-i-corrotti/)  
-  Mirror di https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza (voce nota). Testo: "Fabio Pietrosanti di GlobaLeaks ci racconta come è nata l'idea di ExpoLeaks..." e "chiosa Pietrosanti"; in calce "Milano, 11 giugno 2014 PHILIP DI SALVO. Questo articolo è stato pubblicato oggi su European Journalism Observatory". La pagina think.it ha data di ripubblicazione 2020-04-11. Verificato live 2026-10-13.
+- 🆕 **2014-06-11** · Citato · European Journalism Observatory (it.ejo.ch) — [ExpoLeaks, whistleblowing per Expo](https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza)  
+  Philip Di Salvo on the ExpoLeaks launch; quotes him on its origins and on civil society filling a gap left by the authorities
 - 🆕 **2014-05-19** · Video · Friuli FutureForum (YouTube) / vicino/lontano #VL2014 — [FFF - Su Facebook, ma non senza privacy. #VL2014](https://www.youtube.com/watch?v=9Fr90MjCvTQ)  
   Videointerviste (3 min) girate al workshop vicino/lontano 2014 di Udine (la pagina del workshop è nota: vicinolontano.it/eventi/workshop-2-su-facebook-ma-non-senza-privacy/; il video no). Descrizione YouTube: «Tre videointerviste sulla tematica della privacy in Rete a tre esperti ... Yvette Agostini ..., Claudio Agosti ..., Fabio Pietrosanti security.» Verificato via metadati YouTube (yt-dlp) 2026-10-13.
 - 🆕 **2014-05-17** · Talk · vicino/lontano - Friuli Future Forum (Udine) — [Workshop #2: Su Facebook, ma non senza privacy](https://www.vicinolontano.it/eventi/workshop-2-su-facebook-ma-non-senza-privacy/)  
@@ -2212,6 +2212,9 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · thevision.com — [I trojan di Stato sono la nuova arma del potere](https://thevision.com/innovazione/trojan-informatici/)
 - 🆕 cited · teoriadeisegnali.it — [Configurazione dei dispositivi 802.11 (teoriadeisegnali.it: bibliografia cita 'Wireless (in)security' di Pietrosanti e Agostini)](https://teoriadeisegnali.it/story/802.11/on_desk/configurazione.html)
 - 🆕 Menzionato · infonodes.org — [info.nodes: Fabio Pietrosanti socio fondatore e tesoriere](https://www.infonodes.org/)
+- 🆕 Menzionato · festivaldelgiornalismo.com — [Digital whistleblowing nel giornalismo moderno #ijf15](https://www.festivaldelgiornalismo.com/digital-whistleblowing-nel-giornalismo-moderno/)
+- 🆕 Menzionato · dimt.it — [Whistleblowing e Pa, quali garanzie per i segnalanti? Coccagna (Anac): "Uno speciale protocollo tutela chi invia le email. Presto possibilità per tutti i cittadini" - Diritto Mercato Tecnologia](https://www.dimt.it/news/8whistleblowing-e-pa-quali-garanzie-per-i-segnalanti-coccagna-anac-uno-speciale-protocollo-tutela-chi-invia-le-email-presto-possibilita-per-tutti-i-cittadini/)
+- 🆕 Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202022%20l'accoglienza%208.htm)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

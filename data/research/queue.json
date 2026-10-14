@@ -1389,51 +1389,115 @@
   },
   {
    "query": "\"Pietrosanti\" ExpoLeaks OR \"Expo 2015\" whistleblowing",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli"
+   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli",
+   "date": "2026-10-14 21:30",
+   "found": 10
   },
   {
    "query": "\"Pietrosanti\" GlobaLeaks anticorruzione 2020 OR 2021 Hermes presidente",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli"
+   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli",
+   "date": "2026-10-14 21:30",
+   "found": 8
   },
   {
    "query": "\"Pietrosanti\" \"Master anticorruzione\" OR \"Tor Vergata\" whistleblowing",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli"
+   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli",
+   "date": "2026-10-14 21:30",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" \"firma digitale\" OR \"PEC\" sicurezza 2008 OR 2009",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli"
+   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli",
+   "date": "2026-10-14 21:30",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" Hack.lu OR \"anonymous communication\" 2006",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli"
+   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli",
+   "date": "2026-10-14 21:30",
+   "found": 8
   },
   {
    "query": "\"Pietrosanti\" Clusit OR \"Security Summit\" relatore",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli"
+   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli",
+   "date": "2026-10-14 21:30",
+   "found": 6
   },
   {
    "query": "\"Pietrosanti\" Merge-it OR \"Merge it\" 2018 GlobaLeaks",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli"
+   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli",
+   "date": "2026-10-14 21:30",
+   "found": 3
   },
   {
    "query": "\"Fabio Pietrosanti\" intervista 2012 OR 2013 Tor OR anonimato",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli",
+   "date": "2026-10-14 21:30",
+   "found": 10
+  },
+  {
+   "query": "\"Pietrosanti\" Coccagna OR ANAC whistleblowing piattaforma 2015 OR 2016",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 18:30: coda esaurita; filoni emersi (think.it 2020, ExpoLeaks) e anni deboli"
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Osservatorio europeo di giornalismo\" OR ejo.ch GlobaLeaks",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Kaspersky 2017 Farnesina OR ministeri",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+  },
+  {
+   "query": "\"Pietrosanti\" Hermes \"diritti digitali\" convegno 2016 OR 2017",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+  },
+  {
+   "query": "\"Pietrosanti\" \"voto elettronico\" OR e-voting 2019 OR 2020",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Copernicani 2019 OR 2020 OR 2021",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+  },
+  {
+   "query": "\"naif\" Pietrosanti \"Winston Smith\" OR \"e-privacy\" 2010 OR 2011",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+  },
+  {
+   "query": "\"Pietrosanti\" whistleblowing \"Transparency International\" 2022 OR 2023",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
   }
  ],
  "history": [
@@ -2033,6 +2097,14 @@
    "captcha": false,
    "confirmed_new": 1,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 query della coda (info.nodes, whistleblowing Grecia 2020, SFSCON, firma digitale 2006-07, Digital Independence Day/Fedimedia, Tor2web 2008-10, sikurezza/Metro Olografix, interviste whistleblowing 2021-22), tutte a pagina singola. 62 risultati, 37 candidati dopo aver tolto LinkedIn, mailing list (autistici, inventati, nexa hyperkitty), profilo SlideShare proprio e sitemap. Verificatore: 4 confermati, 33 respinti (in gran parte già in archivio, pagine-indice SFSCON senza nome, omonimi). Nuova 1 voce con copia offline (Wayback): think.it 14/04/2020 'Globaleaks, l'impresa di battere la corruzione' con citazione di Fabio presidente di Hermes. Esclusi (decisions.json): 3 slide SlideShare di terzi (nome solo nei correlati). Non verificabili: programma DIG 2022 su dig-awards (PDF senza testo). Segnale di saturazione confermato. Aggiunte 8 nuove query."
+  },
+  {
+   "date": "2026-10-14 21:30",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 4,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 query della coda (ExpoLeaks/Expo 2015, GlobaLeaks anticorruzione 2020-21, Master anticorruzione Tor Vergata, firma digitale/PEC 2008-09, Hack.lu 2006, Clusit/Security Summit, Merge-it 2018, interviste 2012-13 Tor/anonimato), tutte a pagina singola. 63 risultati, 42 candidati dopo aver tolto LinkedIn, X, Wikipedia, mailing list (lists.linux.it), profilo SlideShare proprio, sentenze/decreti senza relazione e pagine-tag. Verificatore: 11 confermati, 31 respinti (in gran parte già in archivio o nome assente). Nuove 4 voci con copia offline (Wayback): EJO it.ejo.ch 'ExpoLeaks, whistleblowing per Expo' (Fabio di GlobaLeaks racconta l'idea; prima copia think.it già presente), blog IJF 'Digital whistleblowing nel giornalismo moderno #ijf15', DIMT 'Whistleblowing e Pa' (osservazione critica di Fabio presidente Hermes a Coccagna/ANAC), controtuttelemafie.it libro 2022 (Fabio tra gli esperti che dal 2017 avvertivano su Kaspersky). Esclusi (decisions.json): dokumen.pub copia del libro Di Salvo, IJF programme/0 (doppione 2015), FSFE FOSDEM 2021 .it (doppione .en), speaker page Gallus, slide di terzi SlideShare, home MERGE-it 2018, indice P&R Foundation. Non verificabili: ResearchGate/Academia TI Italia (403; capitolo già presente via DOI), PDF uniparthenope (fetch fallito). Aggiunte 8 nuove query."
   }
  ]
 }

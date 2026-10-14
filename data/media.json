@@ -707,6 +707,57 @@
   "date": null,
   "year": null,
   "type": "mentioned",
+  "outlet": "festivaldelgiornalismo.com",
+  "title": "Digital whistleblowing nel giornalismo moderno #ijf15",
+  "url": "https://www.festivaldelgiornalismo.com/digital-whistleblowing-nel-giornalismo-moderno/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …con riflessioni tecnico-giuridiche sulle tendenze attuali. Domenica Mattina , Philip di Salvo (Giornalista e membro dell’osservatorio europeo di giornalismo), Fabio Pietrosanti (Tecnologo esperto di whistleblowing e Pres…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-14-2130"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "dimt.it",
+  "title": "Whistleblowing e Pa, quali garanzie per i segnalanti? Coccagna (Anac): \"Uno speciale protocollo tutela chi invia le email. Presto possibilità per tutti i cittadini\" - Diritto Mercato Tecnologia",
+  "url": "https://www.dimt.it/news/8whistleblowing-e-pa-quali-garanzie-per-i-segnalanti-coccagna-anac-uno-speciale-protocollo-tutela-chi-invia-le-email-presto-possibilita-per-tutti-i-cittadini/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …solo le segnalazioni provenienti dai dipendenti pubblici ma anche quelle dei cittadini”. Un punto di vista al quale ha fatto seguito un’osservazione critica di Fabio Pietrosanti , presidente del Centro Hermes per la Tras…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-14-2130"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "controtuttelemafie.it",
+  "title": "Denuncio al mondo ed ai posteri",
+  "url": "https://www.controtuttelemafie.it/libro%202022%20l'accoglienza%208.htm",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …ca amministrazione e di ministeri chiave tra cui la Farnesina? Dal 2017 alcuni esperti di sicurezza informatica � Umberto Rapetto ex-Gdf, Stefano Quintarelli e Fabio Pietrosanti� avvertivano che Kaspersky � legato a dopp…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-14-2130"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
   "outlet": "repubblica.it",
   "title": "Fabio Pietrosanti - la Repubblica.it",
   "url": "https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/",
@@ -6737,19 +6788,23 @@
   "date": "2014-06-11",
   "year": 2014,
   "type": "quoted",
-  "outlet": "Think! (think.it) - ripubblicazione dell'articolo EJO di Philip Di Salvo",
+  "outlet": "European Journalism Observatory (it.ejo.ch)",
   "title": "ExpoLeaks, whistleblowing per Expo",
-  "url": "https://www.think.it/ecco-expoleaks-il-wikileaks-dellexpo-2015-per-denunciare-i-corrotti/",
+  "url": "https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza",
   "language": "it",
   "role": "quoted",
-  "note": "Mirror di https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza (voce nota). Testo: \"Fabio Pietrosanti di GlobaLeaks ci racconta come è nata l'idea di ExpoLeaks...\" e \"chiosa Pietrosanti\"; in calce \"Milano, 11 giugno 2014 PHILIP DI SALVO. Questo articolo è stato pubblicato oggi su European Journalism Observatory\". La pagina think.it ha data di ripubblicazione 2020-04-11. Verificato live 2026-10-13.",
+  "note": "Philip Di Salvo on the ExpoLeaks launch; quotes him on its origins and on civil society filling a gap left by the authorities",
   "verified": true,
-  "known": true,
+  "known": false,
   "_slices": [
-   "pass4_lacuna2011_stampa_it_2026-10-13"
+   "pass3_google_2026-10-14-2130",
+   "slice3_2012_2015"
   ],
   "mirrors": [
-   "https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza"
+   "https://www.think.it/ecco-expoleaks-il-wikileaks-dellexpo-2015-per-denunciare-i-corrotti/"
+  ],
+  "tags": [
+   "newsroom-leaks"
   ],
   "on_old_site": false
  },
