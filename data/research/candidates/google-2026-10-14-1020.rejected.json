@@ -1,0 +1,158 @@
+[
+ {
+  "url": "https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://dig-awards.org/it/speakers/fabio-pietrosanti/",
+  "reason": "JavaScript shell or paywall (almost no text)",
+  "method": "live"
+ },
+ {
+  "url": "https://s0ftpj.org/docs/Ep2005_PGP_luci_e_ombre_Pietrosanti.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XXIII-relatori.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://nexa.polito.it/events/mercoledi-di-nexa/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://therecord.media/how-italy-became-an-unexpected-spyware-hub",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.punto-informatico.it/italia-leader-mondiale-spyware-economici/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "http://www.radioradicale.it/scheda/165157/linnovazione-tecnologica-nella-pubblica-amministrazione",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "http://www.radioradicale.it/scheda/208077/blog-e-informazione-quali-opportunita-per-le-aziende",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://iris.uniroma1.it/handle/11573/784413/browse",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://clusit.it/wp-content/uploads/docs/bbwPJRC2012fsh40gh.pdf",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.radioradicale.it/scheda/780601/unaltra-storia-lalternativa-nel-mondo-che-cambia-seconda-ed-ultima-giornata",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.slideshare.net/slideshow/hacklu-2006-anonymous-communication/1669208",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.radioradicale.it/scheda/798768/7-ottobre-tre-anni-dopo-quando-le-donne-diventano-bersaglio-del-terrore",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/GlobaLeaks",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.researchgate.net/publication/380766397_Digital_whistleblowing_platforms_for_anti-corruption_The_Transparency_International_Italia_case",
+  "reason": "not fetched: http 403"
+ },
+ {
+  "url": "https://cris.unibo.it/retrieve/4641103d-c0ba-48dc-a07a-2063d5e640d6/Digital%20Media%20and%20Grassroots%20Anti-Corruption.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.slideshare.net/slideshow/the-evolution-of-mobile-security-132745780/132745780",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.vice.com/en/article/inside-ss7-the-insecure-global-cell-network-thats-used-to-track-phones/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "http://people.uniroma2.it/francesco.martinelli/tesisti/ReTesine/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.youtube.com/live/aYY8TZ1JvtQ",
+  "reason": "JavaScript shell or paywall (almost no text)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=Amy7OyM7exo",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.raiplaysound.it/programmi/etabeta/puntate/puntate-2022",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.rai.it/dl/doc/1654599223692_Stelle%20cadenti%20-%20di%20Danilo%20Procaccianti.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://dicorinto.it/tipologia/interviste/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://merge-it.net/2018/talks/globaleaks/slides.pdf",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://tellsomeone.org.uk/about/technology/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.timepielongevityforum.com/2026agenda",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.radioradicale.it/scheda/798367/litalia-ha-bisogno-di-te-festa-nazionale-udc-prima-giornata",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=5ely8Bj3wAw",
+  "reason": "JavaScript shell or paywall (almost no text)",
+  "method": "live"
+ }
+]

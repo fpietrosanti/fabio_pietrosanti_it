@@ -10814,6 +10814,23 @@
   "on_old_site": false
  },
  {
+  "date": null,
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "whistleblowing.fund",
+  "title": "Digital Whistleblowing Fund — Jury (Round 3)",
+  "url": "https://whistleblowing.fund/jury/",
+  "language": "en",
+  "role": "subject",
+  "note": "verificato 2026-10-14: Fabio Pietrosanti (GlobaLeaks) nella giuria del Round 3 del Digital Whistleblowing Fund (anno stimato ~2019; bandi 2017-2020)",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-14-1020"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019",
   "year": 2019,
   "type": "talk",
@@ -18226,6 +18243,23 @@
  {
   "date": null,
   "year": 2026,
+  "type": "mentioned",
+  "outlet": "make-ai-good.org",
+  "title": "Hermes Center for Transparency and Digital Human Rights — Make AI Good (graph)",
+  "url": "https://make-ai-good.org/graph/org-hermes-center/",
+  "language": "en",
+  "role": "subject",
+  "note": "verified via live; context: …s network it has belonged to since 2018. Founding and structure Hermes was formally registered in 2012 after the GlobaLeaks project — initiated in late 2010 by Fabio Pietrosanti and shared into the Italian hacktivist com… | scheda del grafo Make AI Good: GlobaLeaks avviato da Fabio Pietrosanti nel 2010",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-14-1020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": 2026,
   "type": "institutional",
   "outlet": "Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino",
   "title": "Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)",
@@ -18898,6 +18932,23 @@
    "pass4_cina_wechat_weibo_2026-09-29"
   ],
   "note_fabio": "Risposta di Fabio 2026-10-05: «sì, sono io» (scena della cena a 1:34).",
+  "on_old_site": false
+ },
+ {
+  "date": "2026-10-02",
+  "year": 2026,
+  "type": "talk",
+  "outlet": "cfp.romhack.io",
+  "title": "MXMap Italia: National Observatory for Digital Sovereignty (RomHack Camp 2026)",
+  "url": "https://cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/",
+  "language": "en",
+  "role": "speaker",
+  "note": "verificato 2026-10-14: sessione del 02/10/2026, 20 min, speaker \"Fabio Pietrosanti (naif)\" (pagina speaker /speaker/MKKXMV/); talk su mxmap.it e osservatorio.mxmap.it",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-14-1020"
+  ],
   "on_old_site": false
  },
  {

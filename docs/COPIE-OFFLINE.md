@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1054**; già processate: **1226**; ancora da processare: **0**
-- Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **889** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1017**
+- Voci in `data/media.json`: **1057**; già processate: **1229**; ancora da processare: **0**
+- Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **892** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1020**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **1**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -44,14 +44,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 22 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 74 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 79 | 3 | 1 | 0 | 0 | 0 | 2 |
+| 2019 | 80 | 3 | 1 | 0 | 0 | 0 | 2 |
 | 2020 | 160 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 55 | 8 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 7 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 40 | 2 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 42 | 2 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -999,6 +999,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Twitter/X @fpietrosanti — [A Kenneth Geers: «What’s the north Korea relationship?»](https://twitter.com/fpietrosanti/status/1211755248534077441) · copia: `2019/bde36106e68f` (Web Archive 20200108) · licenza: terzi
 - **2019** · Dipartimento della Funzione Pubblica - i — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/) · copia: `2019/fed00e4c6d1e` (Web Archive 20190724) · licenza: propria
 - **2019** · Twitter (@fpietrosanti) — [Slide Foggia](https://web.archive.org/web/20191205121549/https://twitter.com/fpietrosanti/status/1202557955666849792) · copia: `2019/8fd321568cca` (Web Archive 20191205) · licenza: terzi
+- **2019** · whistleblowing.fund — [Digital Whistleblowing Fund — Jury (Round 3)](https://whistleblowing.fund/jury/) · copia: `2019/b5433d11c3a7` (Web Archive 20260510) · licenza: terzi
 - **2019** · 2600 Off The Hook (WBAI/2600, Emmanuel G — [Off The Hook, 12/04/19 - Virgil Griffith charged; Fabio Pietrosanti joins from Italy](https://www.2600.com/offthehook/2019/1219.html) · copia: `2019/75b6b75dad29` (Web Archive 20210305) · licenza: terzi
 - **2019** · 2600 Off The Hook — [Off The Hook 2019-12-04 (MP3)](https://www.2600.com/offthehook/mp3files/2019/off_the_hook__20191204.mp3) · copia: `2019/65c1ec38a5c9` (live) · licenza: terzi
 - **2019** · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/) · copia: `2019/b455b7db3090` (Web Archive 20190410) · licenza: propria
@@ -1387,6 +1388,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · NetEase (网易号) — 时光派健康抗衰 — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾 (video, 2'35")](https://c.m.163.com/news/v/VG6GUA7FN.html) · copia: `2026/a04369ee6255` (live) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://centroriformastato.it/iniziativa/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti/) · copia: `2026/9b1aceb83530` (Web Archive 20260308) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato (CRS), — [Presentazione del 'Manualetto di sicurezza digitale' (locandina)](https://centroriformastato.it/wp-content/uploads/2026/03/Manualetto-sicurezza-digitale_locandina-18-mar-2026-1.pdf) · copia: `2026/8227c258c583` (live) · licenza: terzi
+- **2026** · cfp.romhack.io — [MXMap Italia: National Observatory for Digital Sovereignty (RomHack Camp 2026)](https://cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/) · copia: `2026/83899f1f70c6` (Web Archive 20260930) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/2026/03/) · copia: `2026/7a9ae2c0f7c3` (Web Archive 20260724) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/) · copia: `2026/83c790f24f57` (Web Archive 20260410) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/tag/hacker/) · copia: `2026/81ab86109cda` (Web Archive 20260421) · licenza: terzi
@@ -1399,6 +1401,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · GlobaLeaks — [People | GlobaLeaks](https://globaleaks.org/about/people/) · copia: `2026/a2dd5929df8c` (live) · licenza: propria
 - **2026** · infosecurity.ch (blog) — [infosecurity.ch restored](https://infosecurity.ch/20260917/infosecurity-ch-restored/) · copia: `2026/1e4e1d2ffca9` (live) · licenza: propria
 - **2026** · Fund Longevity (Luma) — rally di Roma, V — [Fund Longevity rally Roma 08/04/2026 — ospite («Biohacker from biohack.it»)](https://luma.com/xjvb2fcb) · copia: `2026/dd872a456ee8` (live · video locale `media.mp4` (4 MB, da caricare su Drive)) · licenza: terzi
+- **2026** · make-ai-good.org — [Hermes Center for Transparency and Digital Human Rights — Make AI Good (graph)](https://make-ai-good.org/graph/org-hermes-center/) · copia: `2026/51af5eef29df` (live) · licenza: terzi
 - **2026** · WeChat — 长寿科技情报站 (gh_15f7b20393cf) — [以自身试验探索生命边界：极客闭门论坛回顾](https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd) · copia: `2026/0604b9f21c7c` (chrome-dom) · licenza: terzi
 - **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) · copia: `2026/a243d02057e1` (Web Archive 20260618) · licenza: propria
 - **2026** · The Next Web (TNW) — [WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhone](https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio) · copia: `2026/adf88485fb4e` (Web Archive 20260401) · licenza: terzi

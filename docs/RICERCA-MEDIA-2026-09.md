@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1444**; dopo deduplica: **1054**
+- Risultati grezzi dalle ricerche: **1447**; dopo deduplica: **1057**
 - Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1009**
-- Verificati aprendo la pagina: **994**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 1012**
+- Verificati aprendo la pagina: **997**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 204, tweet 132, Talk 84, Post sul blog infosecurity.ch 72, Video 69, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 206, tweet 132, Talk 85, Post sul blog infosecurity.ch 72, Video 69, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -37,21 +37,23 @@ Per tipo (nuovi): Menzionato 204, tweet 132, Talk 84, Post sul blog infosecurity
 | 2016 | 0 | 28 | 28 |
 | 2017 | 0 | 74 | 74 |
 | 2018 | 0 | 68 | 68 |
-| 2019 | 0 | 63 | 63 |
+| 2019 | 0 | 64 | 64 |
 | 2020 | 0 | 167 | 167 |
 | 2021 | 0 | 89 | 89 |
 | 2022 | 0 | 60 | 60 |
 | 2023 | 0 | 14 | 14 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 13 | 13 |
-| 2026 | 0 | 39 | 39 |
+| 2026 | 0 | 41 | 41 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 39 voci, 39 nuove
+## 2026 — 41 voci, 41 nuove
 
 - 🆕 **2026-10-05** · Menzionato · WeChat — 长寿科技情报站 (gh_15f7b20393cf) — [以自身试验探索生命边界：极客闭门论坛回顾](https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd)  
   Recap of the 生物极客闭门论坛 of 12/09/2026 at TimePie's 7th International Longevity Forum (Shanghai): «开源抗衰数据平台开发者Fabio Pietrosanti» among the 6 invited biohackers (Jose Cordeiro, Dave Pascoe, Brian M. Delaney, 刘革新...); his talk summarised as «结构化人体自我实验». Image post with 18 photos. Found via Sogou WeChat search in Fabio's Chrome on 2026-10-09; text copied from the DOM, photos downloaded from mmbiz.qpic.cn (copy 2026/0604b9f21c7c). Photo 10 is a captioned stage photo: «Fabio Pietrosanti — 生物极客、科技创业者» with the quote «开源数据与结构化人体自我实验» (first photo of the forum with his name in the caption).
+- 🆕 **2026-10-02** · Talk · cfp.romhack.io — [MXMap Italia: National Observatory for Digital Sovereignty (RomHack Camp 2026)](https://cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/)  
+  verificato 2026-10-14: sessione del 02/10/2026, 20 min, speaker "Fabio Pietrosanti (naif)" (pagina speaker /speaker/MKKXMV/); talk su mxmap.it e osservatorio.mxmap.it
 - 🆕 **2026-09-22** · Video · NetEase 网易 (时光派 account) — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾](https://c.m.163.com/news/v/VG6GUA7FN.html)  
   CONTRADICTS the 2026-09-30 exclusion in decisions.json. Downloaded in full (m3u8 from www.163.com/v/video/VG6GUA7FN.html, 1080x1920, 2:35) and checked 155 frames: the 生物极客闭门论坛 segment (1:09-1:12) shows other speakers and audience, not Fabio, as the earlier run said. BUT at 1:33.7-1:34.8 the 永生之夜 dinner B-roll reuses the shot from BV1X9YR68ETj: Fabio seated at a table in the white linen shirt with the red lanyard, under the caption 科学家 医生 企业家 / 投资人与生物极客. Not named. Proof frame: C:\Users\admin\AppData\Local\Temp\claude\C--Users-admin-Claude\cf568a44-b4a0-469a-ae61-4358f4dbf4ea\scratchpad\cina\fabio_VG6GUA7FN_t0094.jpg. The decisions.json note says Bilibili BV1Rwh76XEhj is the same video (not re-downloaded here). The exclusion needs Fabio's review. Checked 2026-10-01.
 - 🆕 **2026-09-21** · Menzionato · Sohu (搜狐号) — 时光派 — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 / 第七届国际长寿论坛整体回顾](https://www.sohu.com/a/1078945684_100270039)  
@@ -126,6 +128,8 @@ Anni senza nessun risultato: nessuno
   Observatory site extending MxMap; his name not on the fetched page
 - 🆕 **2026** · Progetto · GitHub - hackingbiology — [biohackit: Biohacking Software](https://github.com/hackingbiology/biohackit)  
   AGPL-3.0 platform for structured biohacking protocols and biomarkers, founded by Fabio
+- 🆕 **2026** · Menzionato · make-ai-good.org — [Hermes Center for Transparency and Digital Human Rights — Make AI Good (graph)](https://make-ai-good.org/graph/org-hermes-center/)  
+  verified via live; context: …s network it has belonged to since 2018. Founding and structure Hermes was formally registered in 2012 after the GlobaLeaks project — initiated in late 2010 by Fabio Pietrosanti and shared into the Italian hacktivist com… | scheda del grafo Make AI Good: GlobaLeaks avviato da Fabio Pietrosanti nel 2010
 - 🆕 **2026** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
   «Dott. Fabio Pietrosanti» nel comitato tecnico di esperti dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino; confermato da Fabio il 2026-10-07 (data di nomina non indicata nella pagina).
 
@@ -857,7 +861,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
 
-## 2019 — 63 voci, 63 nuove
+## 2019 — 64 voci, 64 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -985,6 +989,8 @@ Anni senza nessun risultato: nessuno
   Speaker at 2nd edition (announced 2019-02-17) on whistleblowing, privacy and digital anonymity
 - 🆕 **2019** · Talk · nohat.it — [R. Chiccarelli, Storia e storie degli hacker — slide No Hat 2019](http://www.nohat.it/slides/2019/chiccarelli.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); «naif» tra i hacker romani e nella scena italiana anni '90
+- 🆕 **2019** · Menzionato · whistleblowing.fund — [Digital Whistleblowing Fund — Jury (Round 3)](https://whistleblowing.fund/jury/)  
+  verificato 2026-10-14: Fabio Pietrosanti (GlobaLeaks) nella giuria del Round 3 del Digital Whistleblowing Fund (anno stimato ~2019; bandi 2017-2020)
 
 ## 2018 — 68 voci, 68 nuove
 
