@@ -1,14 +1,14 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-13 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-14 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
 - Voci in `data/media.json`: **1054**; già processate: **1226**; ancora da processare: **0**
 - Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **889** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1016**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **2**
+- ✅ Copia locale, nome verificato nella copia: **1017**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **1**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
@@ -40,7 +40,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2012 | 35 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 24 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2015 | 34 | 9 | 1 | 0 | 0 | 0 | 0 |
+| 2015 | 35 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 22 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 74 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
@@ -274,8 +274,6 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🟡 **2015** · Nexa Center for Internet & Society (Poli — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://web.archive.org/web/20220519202553/https://nexa.polito.it/nexacenterfiles/mercoledi-73-pietrosanti.pdf) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · pr-foundation.org — [5 novembre a Milano: Incontro sulle Fondazioni Culturali e il Digitale — P&R Foundation](http://www.pr-foundation.org/5-novembre-milano/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
@@ -735,6 +733,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · Tor Tech Report 2015-04-001 (The Tor Pro — [Hidden-service statistics reported by relays](https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf) · copia: `2015/292d68aabe22` (Web Archive 20151202) · licenza: terzi
 - **2015** · SenzaBarcode — [Globaleaks contro la corruzione](https://senzabarcode.it/2015/04/22/globaleaks-contro-la-corruzione/) · copia: `2015/742c3c314849` (Web Archive 20190821) · licenza: terzi
 - **2015** · Hermes Center — [Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes](https://web.archive.org/web/2015/http://logioshermes.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/) · copia: `2015/41fa50b57983` (Web Archive 20150806) · licenza: propria
+- **2015** · Nexa Center for Internet & Society (Poli — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://web.archive.org/web/20220519202553/https://nexa.polito.it/nexacenterfiles/mercoledi-73-pietrosanti.pdf) · copia: `2015/b323c78fe59f` (Web Archive 20220519) · licenza: terzi
 - **2015** · dimt.it — [La trasparenza e la privacy: il bilanciamento tra le necessità di trasparenza e pubblicità](https://www.dimt.it/eventi/55la-trasparenza-e-la-privacy-il-bilanciamento-tra-le-necessita-di-trasparenza-e-pubblicita-e-le-aspettative-di-rispetto-della-privacy-dell-anonimato-e-della-segretezza-roma-2-e-3-luglio-2015/) · copia: `2015/b49378775e21` (Web Archive 20210119) · licenza: terzi
 - **2015** · End Summer Camp 2015 (ESC15), Forte Bazz — [Capanello c1509: Cosa pensano gli hacker degli hacker](https://www.endsummercamp.org/index.php?title=ESC15-Caps) · copia: `2015/f3801e08b9c0` (live) · licenza: terzi
 - **2015** · End Summer Camp 2015 (ESC15), Forte Bazz — [Hermes Overview 2015](https://www.endsummercamp.org/index.php?title=ESC15-Programma) · copia: `2015/847ba8cc82ce` (live) · licenza: terzi

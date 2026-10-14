@@ -4,7 +4,14 @@ Aggiornato il **2026-10-13** (1038 voci). Da discutere con Fabio: dove siamo blo
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
-## A0-quinquies. Domande nuove (2026-10-13, lacuna 2011–2016)
+## A0-sexies. Risposte di Fabio del 2026-10-14 (applicate)
+- OHM2013: relatori **entrambi** (tu e Arturo Filastò) → voce verificata con nota.
+- Greenwald-in-a-box 18/04/2015: **eri presente** → voce mantenuta.
+- Slide del 73° Mercoledì di Nexa: **tenute** come allegato del tuo talk → copia confermata.
+- PouL 2013: **entrambi** avete parlato di Tor e di GlobaLeaks → nessun ritaglio separabile.
+- ESC 2011 «Globaleaks Live Launch»: **sei tu che parli** → voce verificata, registrazione intera nell'indice ritagli.
+
+## A0-quinquies. Domande nuove (2026-10-13, lacuna 2011–2016) — *risposte qui sopra*
 1. **OHM2013**: il video noto (Q6k8hHAoIKA) indica come relatore solo «Hermes Center», un altro caricamento dello stesso
    talk (waLUT87-F8M) lo attribuisce ad **Arturo Filastò**. Il talk era tuo, di Arturo o di entrambi?
 2. **Greenwald-in-a-box, IJF 18/04/2015** (seconda sessione, YouTube qAhTIzvV310): nella trascrizione Agosti presenta

@@ -923,6 +923,34 @@
     "date": "2006-02-10",
     "note_date": "2026-10-08: data corretta al 10/02/2006 dalla pagina Sikurezza.org Infosecurity06 (Venerdi 10, ore 10:00); l'8/02 era l'evento LRA separato."
    }
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=WdQrDUvX45Q",
+   "set": {
+    "verified": true,
+    "role": "speaker",
+    "type": "talk",
+    "note": "2026-10-14: confermato da Fabio: è lui che parla nel talk di lancio di GlobaLeaks a ESC 2011 (il nome non è nel titolo né nella descrizione; nei sottotitoli automatici compare «Naif»)"
+   }
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=Q6k8hHAoIKA",
+   "set": {
+    "note": "OHM2013, talk Hermes Center: 2026-10-14: confermato da Fabio — relatori lui e Arturo Filastò (un altro caricamento, waLUT87-F8M, lo attribuisce al solo Filastò)",
+    "verified": true
+   }
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=qAhTIzvV310",
+   "set": {
+    "note": "Video, second session; 2026-10-14: confermato da Fabio: era presente (nella trascrizione non viene presentato da Agosti)"
+   }
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=6-T6nVSTd14",
+   "set": {
+    "note": "Conferenza PouL «GlobaLeaks e TOR» con Claudio Agosti; 2026-10-14: confermato da Fabio: entrambi hanno parlato sia di Tor sia di GlobaLeaks"
+   }
   }
  ],
  "open_questions": [
@@ -961,5 +989,12 @@
   "Fund Longevity Roma 08/04/2026": "presente al rally di Roma; non sa se esistono riprese; ha foto su WhatsApp che può fornire",
   "Fabio Pietrosanti di Velletri (ciclismo)": "omonimo, esclusione corretta",
   "Fund Longevity livestream 4CHvbryuUb4": "«sì, sono io» (uomo a destra, maglia rossa, cartello STOP AGING, 43:35–45:30); fornita la sua foto della scena"
+ },
+ "answers_2026_10_14": {
+  "OHM2013 Hermes Center (Q6k8hHAoIKA)": "entrambi: lui e Arturo Filastò",
+  "Greenwald-in-a-box IJF 18/04/2015": "sì, era presente → voce mantenuta",
+  "Slide 73° Mercoledì di Nexa 2015": "sì, tenerle come allegato del suo talk",
+  "Conferenza PouL 2013 con Agosti": "entrambi hanno parlato di entrambi i temi",
+  "ESC 2011 Globaleaks Live Launch": "sì, è lui che parla → voce verificata"
  }
 }

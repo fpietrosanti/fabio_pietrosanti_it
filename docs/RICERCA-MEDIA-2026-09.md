@@ -8,9 +8,9 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 - Risultati grezzi dalle ricerche: **1444**; dopo deduplica: **1054**
 - Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
 - **Nuovi rispetto al vecchio sito: 1009**
-- Verificati aprendo la pagina: **992**; solo da risultato di ricerca: **62**
+- Verificati aprendo la pagina: **994**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 204, tweet 132, Talk 83, Post sul blog infosecurity.ch 72, Video 70, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 204, tweet 132, Talk 84, Post sul blog infosecurity.ch 72, Video 69, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -1388,7 +1388,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2015-04-18** · Video · YouTube / International Journalism Festival — [Abbi cura delle tue fonti - come potenziare la redazione con GlobaLeaks](https://www.youtube.com/watch?v=9ghIZk1zcMo)  
   Video of the IJF 2015 workshop
 - 🆕 **2015-04-18** · Video · International Journalism Festival (YouTube) — [Greenwald-in-a-box: un esperimento Hermes](https://www.youtube.com/watch?v=qAhTIzvV310)  
-  Video, second session
+  Video, second session; 2026-10-14: confermato da Fabio: era presente (nella trascrizione non viene presentato da Agosti)
 - 🆕 **2015-04-18** · Talk · International Journalism Festival 2015 — [Abbi cura delle tue fonti - come potenziare la redazione con GlobaLeaks](https://www.festivaldelgiornalismo.com/programme/2015/take-care-of-your-sources-newsroom-empowering-with-globaleaks)  
   ExpoLeaks/IRPI case study; panel with Agosti, Calamari, Gallus, Micozzi, Pellerano, Rodolfi
 - 🆕 **2015-04-16** · Video · International Journalism Festival (YouTube) — [Greenwald-in-a-box: un esperimento Hermes](https://www.youtube.com/watch?v=ij4iQbRdkBM)  
@@ -1509,8 +1509,8 @@ Anni senza nessun risultato: nessuno
   His own project; one of several TLS-hardening tickets on Tor2web 2012-2014 (#46, #56, #79, #124, #138)
 - 🆕 **2013-09-09** · Citato · Punto Informatico — [Publeaks protegge le soffiate dalla Rete](https://www.punto-informatico.it/publeaks-protegge-le-soffiate-dalla-rete/)  
   Mauro Vecchio on Publeaks NL (GlobaLeaks); Pietrosanti quoted on JavaScript/usability
-- 🆕 **2013-08-02** · Talk · OHM2013 (Observe. Hack. Make.), Netherlands — [Digital Whistleblowing with GlobaLeaks](https://www.youtube.com/watch?v=Q6k8hHAoIKA) _(non verificato)_  
-  Hermes Center talk where GlobaLeaks 0.2 was officially released; video credits the Hermes Center, not individual names
+- 🆕 **2013-08-02** · Talk · OHM2013 (Observe. Hack. Make.), Netherlands — [Digital Whistleblowing with GlobaLeaks](https://www.youtube.com/watch?v=Q6k8hHAoIKA)  
+  OHM2013, talk Hermes Center: 2026-10-14: confermato da Fabio — relatori lui e Arturo Filastò (un altro caricamento, waLUT87-F8M, lo attribuisce al solo Filastò)
 - 🆕 **2013-07-31** · Menzionato · The Tor Project blog - Tor Weekly News — [Tor Weekly News — July, 31st 2013](https://blog.torproject.org/tor-weekly-news-july-31st-2013/)  
   Reports his invitation to the Tor2web meeting at OHM2013
 - 🆕 **2013-07-12** · Video · YouTube / Transparency International Italia — [Partecipazione e Responsabilità - Fabio Pietrosanti](https://www.youtube.com/watch?v=Uea-94inYkE)  
@@ -1524,7 +1524,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2013-06-14** · Menzionato · WikiLeaks - Hacking Team emails (published 2015) — [Re: Microsoft e gli exploit....](https://wikileaks.org/hackingteam/emails/emailid/224431)  
   Hacking Team CTO Marco Valleri jokingly names 'Pietrosanti?' in an internal thread on the NSA and Microsoft exploits
 - 🆕 **2013-06-07** · Video · Politecnico Open unix Labs (YouTube) — [Conferenza Sicurezza e Privacy - Privacy](https://www.youtube.com/watch?v=6-T6nVSTd14)  
-  POuL conference, Politecnico di Milano: GlobaLeaks e TOR with Claudio Agosti
+  Conferenza PouL «GlobaLeaks e TOR» con Claudio Agosti; 2026-10-14: confermato da Fabio: entrambi hanno parlato sia di Tor sia di GlobaLeaks
 - 🆕 **2013-06-04** · Libro · Blonk (Italy) — [Destini Hacker - Attacco al sistema](https://books.google.com/books?id=5XJsAwAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Authors: Lele Rozza, Alessio Pennasilico (ISBN 9788897604198, 101 pp.). Snippet (list of Italian security people, probably acknowledgements): '... Fabio Pietrosanti, Yvette Agostini, Pierluigi Perri, Marco Misitano, Gabriele Faggioli, ... Matteo Flora, Giovanni Ziccardi, Corrado Giustozzi, Stefano Mele ...'. Page not shown.
 - 🆕 **2013-05** · Menzionato · linkiesta.it — [Di censura, leggi ed altre sciocchezze - Linkiesta.it](https://www.linkiesta.it/blog/2013/05/di-censura-leggi-ed-altre-sciocchezze/)  
@@ -1633,8 +1633,8 @@ Anni senza nessun risultato: nessuno
   Intervention at Radicali Italiani congress commission on Internet as method
 - 🆕 **2011-08-11** · Talk · End Summer Camp 2011 (ESC11), Forte Bazzera (Venezia) — ["ph33r th3 ph0n3" by naif & nex` (proposed, later withdrawn)](https://www.endsummercamp.org/index.php?title=ESC11-Contenuti&oldid=6755)  
   Only in the page history: ESC11-Contenuti revisions 6743-6755 (2011-08-11 to 2011-08-15) list '=== 1104 - "ph33r th3 ph0n3" by naif & nex` ===' with the abstract 'mobile antani supercazzola aka To Be Defined'. On 2011-08-17 slot 1104 was replaced by 'They Hack, We Laugh - nex'. The talk is not in the final program.
-- 🆕 **2011-08-10** · Video · endsummercamp (YouTube) - ESC 2011 — [Globaleaks Live Launch](https://www.youtube.com/watch?v=WdQrDUvX45Q) _(non verificato)_  
-  Talk di lancio GlobaLeaks a ESC 2011 (caricato 2012-05-24, 77 min). Il nome non è in titolo/descrizione; nei sottotitoli automatici il relatore cita di passaggio «Naif» («...ascoltando in macchina con Naif...»). Solo menzione orale da sottotitoli auto: NON verificabile secondo la regola (pagina senza nome).
+- 🆕 **2011-08-10** · Talk · endsummercamp (YouTube) - ESC 2011 — [Globaleaks Live Launch](https://www.youtube.com/watch?v=WdQrDUvX45Q)  
+  2026-10-14: confermato da Fabio: è lui che parla nel talk di lancio di GlobaLeaks a ESC 2011 (il nome non è nel titolo né nella descrizione; nei sottotitoli automatici compare «Naif»)
 - 🆕 **2011-08-10** · Progetto · Chaos Communication Camp 2011 wiki — [GlobaLeaks (camp project page)](https://events.ccc.de/camp/2011/wiki/GlobaLeaks)  
   GlobaLeaks project at CCC Camp 2011; Naif listed among people
 - 🆕 **2011-08-10** · Altro · Chaos Communication Camp 2011 wiki — [Italian Embassy (village)](https://events.ccc.de/camp/2011/wiki/Italian_Embassy)  

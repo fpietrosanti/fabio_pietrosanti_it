@@ -5003,14 +5003,14 @@
  {
   "date": "2011-08-10",
   "year": 2011,
-  "type": "video",
+  "type": "talk",
   "outlet": "endsummercamp (YouTube) - ESC 2011",
   "title": "Globaleaks Live Launch",
   "url": "https://www.youtube.com/watch?v=WdQrDUvX45Q",
   "language": "it",
-  "role": "mentioned",
-  "note": "Talk di lancio GlobaLeaks a ESC 2011 (caricato 2012-05-24, 77 min). Il nome non è in titolo/descrizione; nei sottotitoli automatici il relatore cita di passaggio «Naif» («...ascoltando in macchina con Naif...»). Solo menzione orale da sottotitoli auto: NON verificabile secondo la regola (pagina senza nome).",
-  "verified": false,
+  "role": "speaker",
+  "note": "2026-10-14: confermato da Fabio: è lui che parla nel talk di lancio di GlobaLeaks a ESC 2011 (il nome non è nel titolo né nella descrizione; nei sottotitoli automatici compare «Naif»)",
+  "verified": true,
   "known": false,
   "_slices": [
    "pass4_lacuna2011_estero_video_2026-10-13"
@@ -6033,7 +6033,7 @@
   "url": "https://www.youtube.com/watch?v=6-T6nVSTd14",
   "language": "it",
   "role": "speaker",
-  "note": "POuL conference, Politecnico di Milano: GlobaLeaks e TOR with Claudio Agosti",
+  "note": "Conferenza PouL «GlobaLeaks e TOR» con Claudio Agosti; 2026-10-14: confermato da Fabio: entrambi hanno parlato sia di Tor sia di GlobaLeaks",
   "verified": true,
   "known": false,
   "_slices": [
@@ -6174,8 +6174,8 @@
   "url": "https://www.youtube.com/watch?v=Q6k8hHAoIKA",
   "language": "en",
   "role": "speaker",
-  "note": "Hermes Center talk where GlobaLeaks 0.2 was officially released; video credits the Hermes Center, not individual names",
-  "verified": false,
+  "note": "OHM2013, talk Hermes Center: 2026-10-14: confermato da Fabio — relatori lui e Arturo Filastò (un altro caricamento, waLUT87-F8M, lo attribuisce al solo Filastò)",
+  "verified": true,
   "known": false,
   "_slices": [
    "slice3_2012_2015"
@@ -7322,7 +7322,7 @@
   "url": "https://www.youtube.com/watch?v=qAhTIzvV310",
   "language": "it",
   "role": "speaker",
-  "note": "Video, second session",
+  "note": "Video, second session; 2026-10-14: confermato da Fabio: era presente (nella trascrizione non viene presentato da Agosti)",
   "verified": true,
   "known": false,
   "_slices": [
