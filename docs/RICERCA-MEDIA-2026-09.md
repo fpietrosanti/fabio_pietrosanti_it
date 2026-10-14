@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1447**; dopo deduplica: **1057**
+- Risultati grezzi dalle ricerche: **1451**; dopo deduplica: **1061**
 - Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1012**
-- Verificati aprendo la pagina: **997**; solo da risultato di ricerca: **60**
+- **Nuovi rispetto al vecchio sito: 1016**
+- Verificati aprendo la pagina: **1001**; solo da risultato di ricerca: **60**
 
-Per tipo (nuovi): Menzionato 206, tweet 132, Talk 85, Post sul blog infosecurity.ch 72, Video 69, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 207, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 69, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -38,18 +38,20 @@ Per tipo (nuovi): Menzionato 206, tweet 132, Talk 85, Post sul blog infosecurity
 | 2017 | 0 | 74 | 74 |
 | 2018 | 0 | 68 | 68 |
 | 2019 | 0 | 64 | 64 |
-| 2020 | 0 | 167 | 167 |
+| 2020 | 0 | 168 | 168 |
 | 2021 | 0 | 89 | 89 |
 | 2022 | 0 | 60 | 60 |
 | 2023 | 0 | 14 | 14 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 13 | 13 |
-| 2026 | 0 | 41 | 41 |
+| 2026 | 0 | 42 | 42 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 41 voci, 41 nuove
+## 2026 — 42 voci, 42 nuove
 
+- 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
+  verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
 - 🆕 **2026-10-05** · Menzionato · WeChat — 长寿科技情报站 (gh_15f7b20393cf) — [以自身试验探索生命边界：极客闭门论坛回顾](https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd)  
   Recap of the 生物极客闭门论坛 of 12/09/2026 at TimePie's 7th International Longevity Forum (Shanghai): «开源抗衰数据平台开发者Fabio Pietrosanti» among the 6 invited biohackers (Jose Cordeiro, Dave Pascoe, Brian M. Delaney, 刘革新...); his talk summarised as «结构化人体自我实验». Image post with 18 photos. Found via Sogou WeChat search in Fabio's Chrome on 2026-10-09; text copied from the DOM, photos downloaded from mmbiz.qpic.cn (copy 2026/0604b9f21c7c). Photo 10 is a captioned stage photo: «Fabio Pietrosanti — 生物极客、科技创业者» with the quote «开源数据与结构化人体自我实验» (first photo of the forum with his name in the caption).
 - 🆕 **2026-10-02** · Talk · cfp.romhack.io — [MXMap Italia: National Observatory for Digital Sovereignty (RomHack Camp 2026)](https://cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/)  
@@ -524,7 +526,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
 
-## 2020 — 167 voci, 167 nuove
+## 2020 — 168 voci, 168 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -828,6 +830,8 @@ Anni senza nessun risultato: nessuno
   Testo: «[ITA] Voto elettronico, l’Italia rischia il flop come in Iowa  Tutto a causa di @g_brescia che ignora o vuole ignorare le esperienze all’estero, per soddisfare le visioni di Davide Casaleggio che richiedono il Voto Online.  https://t.co/4hm2mo1O2E» Link: https://www.agendadigitale.eu/cultura-digitale/voto-elettronico-litalia-rischia-il-flop-come-in-iowa/. Wayback capture 20200212141238 (id_) di twitter.com/fpietrosanti/status/1227588157031448577.
 - 🆕 **2020-02-11** · tweet · Twitter — [Come non sprecare un milione di euro con il voto online (Brescia)](https://twitter.com/fpietrosanti/status/1227186128391938048)  
   Testo: «[ITA] Come non sprecare un milione di euro con l'introduzione del voto online proposto da @g_brescia che speculativamente ignora o vuole ignorare le esperienze nel resto del mondo, illuminato dalla micro-estonia, ultimo paese rimasto con il voto online https://t.co/b5QU6CATSl» Link: https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/. Wayback capture 20200211185002 (id_) di twitter.com/fpietrosanti/status/1227186128391938048.
+- 🆕 **2020-02-06** · Talk · tvxs.gr — [Εκδήλωση για το whistleblowing στις χώρες της Ευρωπαϊκής Ένωσης (Atene: Hermes Center con Yvette Agostini e Fabio Pietrosanti)](https://tvxs.gr/news/ellada/ekdilosi-gia-whistleblowing-stis-xores-tis-eyropaiki-enosis/)  
+  verified via wayback; context: …αναφορικά με το whistleblowing στη χώρα τους: Διεθνής Διαφάνεια Ελλάδος: Άννα Δαμάσκου, Άρης Δανίκας και Αλέξανδρος Μελίδης Hermes Center: Yvette Agostini and Fabio Pietrosanti, Blueprint for free speech: Suelette Dreyfu…
 - 🆕 **2020-02** · programme · ITASEC 2020 (Conferenza italiana sulla cybersecurity, Ancona) — [ITASEC 2020 — programma della conferenza (bio relatore)](https://2020.itasec.it/itasec-2020/conference/)  
   Bio: 'Fabio Pietrosanti: Presidente e co-fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali ... gestore di nodi Tor e Tor2web'. Pagina letta.
 - 🆕 **2020-01-22** · tweet · Twitter — [Estonia, voto online e M5S: ironia sulla presunta crescita della partecipazione](https://twitter.com/fpietrosanti/status/1220109706640924682)  
@@ -2204,6 +2208,8 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · tellsomeone.org.uk — [Our Technology - GlobalLeaks Crime Reporting Platform TellSomeone.org.uk](https://tellsomeone.org.uk/about/technology/)
 - 🆕 Menzionato · nexa.polito.it — [Fabio Pietrosanti Archives - Nexa Center for Internet & Society](https://nexa.polito.it/tag/fabio-pietrosanti/)
 - 🆕 Menzionato · thevision.com — [I trojan di Stato sono la nuova arma del potere](https://thevision.com/innovazione/trojan-informatici/)
+- 🆕 cited · teoriadeisegnali.it — [Configurazione dei dispositivi 802.11 (teoriadeisegnali.it: bibliografia cita 'Wireless (in)security' di Pietrosanti e Agostini)](https://teoriadeisegnali.it/story/802.11/on_desk/configurazione.html)
+- 🆕 Menzionato · infonodes.org — [info.nodes: Fabio Pietrosanti socio fondatore e tesoriere](https://www.infonodes.org/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

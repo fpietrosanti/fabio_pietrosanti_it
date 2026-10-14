@@ -1261,51 +1261,115 @@
   },
   {
    "query": "\"Pietrosanti\" mxmap OR \"sovranità digitale\" 2026",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06"
+   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06",
+   "date": "2026-10-14",
+   "found": 13
   },
   {
    "query": "\"Pietrosanti\" \"Cloud Act\" pubblica amministrazione email",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06"
+   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06",
+   "date": "2026-10-14",
+   "found": 3
   },
   {
    "query": "\"Pietrosanti\" MonitoraPA \"Google Analytics\" 2022",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06"
+   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06",
+   "date": "2026-10-14",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" \"Digital Whistleblowing Fund\" OR \"EAT\" whistleblowing 2019 OR 2020",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06"
+   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06",
+   "date": "2026-10-14",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" \"Wireless (in)security\" OR Webbit 2003 OR 2004",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06"
+   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06",
+   "date": "2026-10-14",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" PGP OR GnuPG 2005 OR 2006 convegno",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06"
+   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06",
+   "date": "2026-10-14",
+   "found": 12
   },
   {
    "query": "\"Fabio Pietrosanti\" podcast 2025 OR 2026",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06"
+   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06",
+   "date": "2026-10-14",
+   "found": 10
   },
   {
    "query": "\"Pietrosanti\" RomHack OR \"No Hat\" OR \"HackInBo\" talk",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06",
+   "date": "2026-10-14",
+   "found": 6
+  },
+  {
+   "query": "\"Pietrosanti\" info.nodes OR infonodes giornalismo dati",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-14: coda esaurita; filoni emersi (mxmap/RomHack 2026, DWF) e anni deboli 2003-06"
+   "note": "aggiunta 2026-10-14 15:00: coda esaurita; filoni emersi (SFSCON 2026, info.nodes, whistleblowing Grecia 2020) e anni deboli 2003-09"
+  },
+  {
+   "query": "\"Pietrosanti\" Hermes whistleblowing Atene OR Grecia OR Balcani 2020",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 15:00: coda esaurita; filoni emersi (SFSCON 2026, info.nodes, whistleblowing Grecia 2020) e anni deboli 2003-09"
+  },
+  {
+   "query": "\"Pietrosanti\" SFSCON OR \"Free Software Conference\" Bolzano",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 15:00: coda esaurita; filoni emersi (SFSCON 2026, info.nodes, whistleblowing Grecia 2020) e anni deboli 2003-09"
+  },
+  {
+   "query": "\"Pietrosanti\" \"firma digitale\" Infosecurity 2006 OR 2007",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 15:00: coda esaurita; filoni emersi (SFSCON 2026, info.nodes, whistleblowing Grecia 2020) e anni deboli 2003-09"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Digital Independence Day\" OR Fedimedia 2026",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 15:00: coda esaurita; filoni emersi (SFSCON 2026, info.nodes, whistleblowing Grecia 2020) e anni deboli 2003-09"
+  },
+  {
+   "query": "\"Pietrosanti\" Tor2web 2008 OR 2009 OR 2010 anonimato",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 15:00: coda esaurita; filoni emersi (SFSCON 2026, info.nodes, whistleblowing Grecia 2020) e anni deboli 2003-09"
+  },
+  {
+   "query": "\"Pietrosanti\" naif \"sikurezza.org\" OR \"Metro Olografix\" seminario",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 15:00: coda esaurita; filoni emersi (SFSCON 2026, info.nodes, whistleblowing Grecia 2020) e anni deboli 2003-09"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" intervista whistleblowing 2021 OR 2022",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-14 15:00: coda esaurita; filoni emersi (SFSCON 2026, info.nodes, whistleblowing Grecia 2020) e anni deboli 2003-09"
   }
  ],
  "history": [
@@ -1889,6 +1953,14 @@
    "captcha": false,
    "confirmed_new": 3,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 query della coda (naif 1998-99, Hacking Team 2015, Infosecurity/Smau 2004-06, GlobaLeaks-Tor-SecureDrop 2023-25, mobile security 2007-08, Radio24/Rai, whistleblowing estero, longevity 2026), tutte a pagina singola. 76 risultati, 46 candidati dopo aver tolto social, mailing list, siti propri e cloni Wikipedia. Verificatore: 11 confermati, 35 respinti (in gran parte già in archivio o nome assente). Nuove 3 voci con copia offline: talk 'MXMap Italia: National Observatory for Digital Sovereignty' a RomHack Camp 2026 (02/10/2026), giuria Round 3 del Digital Whistleblowing Fund (~2019), scheda Hermes Center su Make AI Good (GlobaLeaks avviato da Fabio). Esclusi (decisions.json): MOCA 2016 e IRPA (già presenti con altro URL), 3 slide SlideShare di terzi (nome solo nei correlati), issue GitHub GlobaLeaks #675 (commento, come forum), pagina speaker IJF di Del Monte (sessione già presente), anyplans Latina (omonimi, fratelli Pietrosanti di Pontinia). Non verificabili: dig-awards it (shell JS), ResearchGate TI Italia 2024 (403), 2 video YouTube (shell JS). Aggiunte 8 nuove query."
+  },
+  {
+   "date": "2026-10-14 15:00",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 4,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 query della coda (mxmap/sovranità digitale 2026, Cloud Act PA, MonitoraPA Google Analytics 2022, Digital Whistleblowing Fund 2019-20, Wireless (in)security/Webbit 2003-04, PGP 2005-06, podcast 2025-26, RomHack/No Hat/HackInBo), tutte a pagina singola. 71 risultati, 37 candidati dopo aver tolto social, mailing list (nexa, pluto, linuxtrent), forum.italia.it e siti propri. Verificatore: 13 confermati, 24 respinti. Nuove 4 voci con copia offline: talk 'MXMap Italia' a SFSCON 2026 (Bolzano, 14/11/2026, traccia Digital Independence Day), evento whistleblowing ad Atene su tvxs.gr (06/02/2020, Hermes Center con Yvette Agostini), teoriadeisegnali.it (bibliografia cita 'Wireless (in)security'), info.nodes (Fabio socio fondatore e tesoriere). Esclusi (decisions.json): pmi.it Banking Summit (Cristiano Pietrosanti, omonimo), pagina traccia SFSCON (doppione del talk), brochure IJF15 issuu e annuncio HackInBo 2016 su voidsec (sessioni già presenti), 2 slide SlideShare di terzi (nome solo nei correlati), 3 URL troncati (infodata x2, agendadigitale: voci già presenti con URL completo). Non verificabili: slideserve PGP luci e ombre (fetch fallito; talk e-privacy 2005 già in archivio), RaiPlay Sound Codice Beta S04EP08 (shell JS; puntata biohacker 01/2025 già in archivio), dig-awards tag 2026 e schedule RomHack (shell JS). Aggiunte 8 nuove query."
   }
  ]
 }

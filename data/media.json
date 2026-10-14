@@ -672,6 +672,40 @@
  {
   "date": null,
   "year": null,
+  "type": "cited",
+  "outlet": "teoriadeisegnali.it",
+  "title": "Configurazione dei dispositivi 802.11 (teoriadeisegnali.it: bibliografia cita 'Wireless (in)security' di Pietrosanti e Agostini)",
+  "url": "https://teoriadeisegnali.it/story/802.11/on_desk/configurazione.html",
+  "language": "it",
+  "role": "cited",
+  "note": "verified via wayback; context: …alent Privacy , WiKiPedia GNU FDL The Unofficial 802.11 Security Web Page , Bernard Aboba , [ local ] Wireless (in)security: (in)sicurezza dell'802.11 , Fabio (naif) Pietrosanti - Yvette (vodka) Agostini ^ indice…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-14-1500"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "infonodes.org",
+  "title": "info.nodes: Fabio Pietrosanti socio fondatore e tesoriere",
+  "url": "https://www.infonodes.org/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …ontenuti giornalistici e di ricerca. Scrivici a comunicazione@infonodes.org → FOUNDER E PRESIDENTE Davide Del Monte Giornalista e attivista FOUNDER E TESORIERE Fabio Pietrosanti Tecnologo FOUNDER E BOARD MEMBER Gloria Ri…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-14-1500"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
   "type": "mentioned",
   "outlet": "repubblica.it",
   "title": "Fabio Pietrosanti - la Repubblica.it",
@@ -12269,6 +12303,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-02-06",
+  "year": 2020,
+  "type": "talk",
+  "outlet": "tvxs.gr",
+  "title": "Εκδήλωση για το whistleblowing στις χώρες της Ευρωπαϊκής Ένωσης (Atene: Hermes Center con Yvette Agostini e Fabio Pietrosanti)",
+  "url": "https://tvxs.gr/news/ellada/ekdilosi-gia-whistleblowing-stis-xores-tis-eyropaiki-enosis/",
+  "language": "el",
+  "role": "speaker",
+  "note": "verified via wayback; context: …αναφορικά με το whistleblowing στη χώρα τους: Διεθνής Διαφάνεια Ελλάδος: Άννα Δαμάσκου, Άρης Δανίκας και Αλέξανδρος Μελίδης Hermes Center: Yvette Agostini and Fabio Pietrosanti, Blueprint for free speech: Suelette Dreyfu…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-14-1500"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-02-11",
   "year": 2020,
   "type": "tweet",
@@ -18965,6 +19016,23 @@
   "known": false,
   "_slices": [
    "pass4_cina_browser_2026-10-09"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-11-14",
+  "year": 2026,
+  "type": "talk",
+  "outlet": "sfscon.it",
+  "title": "MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)",
+  "url": "https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/",
+  "language": "en",
+  "role": "speaker",
+  "note": "verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-14-1500"
   ],
   "on_old_site": false
  }

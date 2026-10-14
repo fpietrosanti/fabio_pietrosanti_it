@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1057**; già processate: **1229**; ancora da processare: **0**
-- Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **892** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1020**
+- Voci in `data/media.json`: **1061**; già processate: **1233**; ancora da processare: **0**
+- Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **896** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1024**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **1**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -21,7 +21,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 44 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 46 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -45,13 +45,13 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 74 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 80 | 3 | 1 | 0 | 0 | 0 | 2 |
-| 2020 | 160 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 161 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 55 | 8 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 7 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 42 | 2 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 43 | 2 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -321,6 +321,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner) · copia: `undated/10581a59d966` (Web Archive 20211022) · licenza: terzi
 - **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1) · copia: `undated/2aa62add9a98` (Web Archive 20220712) · licenza: terzi
 - **None** · tellsomeone.org.uk — [Our Technology - GlobalLeaks Crime Reporting Platform TellSomeone.org.uk](https://tellsomeone.org.uk/about/technology/) · copia: `undated/19c000bbf34b` (Web Archive 20250831) · licenza: terzi
+- **None** · teoriadeisegnali.it — [Configurazione dei dispositivi 802.11 (teoriadeisegnali.it: bibliografia cita 'Wireless (i](https://teoriadeisegnali.it/story/802.11/on_desk/configurazione.html) · copia: `undated/21b332faab09` (Web Archive 20210920) · licenza: terzi
 - **None** · thevision.com — [I trojan di Stato sono la nuova arma del potere](https://thevision.com/innovazione/trojan-informatici/) · copia: `undated/6a12566e8bb7` (live) · licenza: terzi
 - **None** · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/) · copia: `undated/40c7d7ea93ef` (Web Archive 20210929) · licenza: terzi
 - **None** · Tracxn — [PrivateWave - Company Profile (Tracxn)](https://tracxn.com/d/companies/privatewave/__8Sn9ZPRKGsGkuCvrGY8mF_7VrSqjR9IVUAfLzECd7e8) · copia: `undated/8699471b5043` (live) · licenza: terzi
@@ -334,6 +335,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · festivaldelgiornalismo.com — [Tecniche di dissidenza e repressione digitale](https://www.festivaldelgiornalismo.com/tecniche-di-dissidenza-e-repressione-digitale-2/) · copia: `undated/663ab2708519` (Web Archive 20240725) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/whistleblowing-anonimo-come-ricevere-soffiate-da-fonti-anonime-via-web/) · copia: `undated/85d6779aed13` (Web Archive 20240713) · licenza: terzi
 - **None** · ilsussidiario.net — [Open Rousseau: hacker vs Casaleggio/ Contro-piattaforma per sostituire software M5s](https://www.ilsussidiario.net/news/open-rousseau-hacker-vs-casaleggio-contro-piattaforma-per-sostituire-software-m5s/2076827/) · copia: `undated/7ac3c3c830f2` (Web Archive 20201029) · licenza: terzi
+- **None** · infonodes.org — [info.nodes: Fabio Pietrosanti socio fondatore e tesoriere](https://www.infonodes.org/) · copia: `undated/6832dd803efb` (live) · licenza: terzi
 - **None** · journalismfestival.com — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/0/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `undated/090766fb9138` (live) · licenza: terzi
 - **None** · journalismfestival.com — [Wiretappings and secure communications](https://www.journalismfestival.com/programme/2018/intercettazioni-e-comunicazioni-confidenziali) · copia: `undated/0b92a888c870` (live) · licenza: terzi
 - **None** · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/) · copia: `undated/5ad9adf41ff0` (Web Archive 20150721) · licenza: terzi
@@ -1063,6 +1065,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · ParteciPa (Italian government consultati — [Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424) · copia: `2020/d5a756e462d6` (Web Archive 20240808) · licenza: propria
 - **2020** · ParteciPa (Dipartimento della Funzione P — [Rafforzare Cybersecurity Nazionale con Misurazione proattiva](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/425) · copia: `2020/2afc1fa9d196` (Web Archive 20240806) · licenza: terzi
 - **2020** · Transparency International Italia (news) — [La libertà passa anche da #SaveDotOrg](https://transparency.it/informati/news/la-liberta-passa-anche-da-savedotorg) · copia: `2020/9e1fc12ee9f5` (live) · licenza: terzi
+- **2020** · tvxs.gr — [Εκδήλωση για το whistleblowing στις χώρες της Ευρωπαϊκής Ένωσης (Atene: Hermes Center con ](https://tvxs.gr/news/ellada/ekdilosi-gia-whistleblowing-stis-xores-tis-eyropaiki-enosis/) · copia: `2020/f9098a495723` (Web Archive 20250613) · licenza: terzi
 - **2020** · Twitter — [@BiondoNik: un'investigazione digitale di @fpietrosanti rivela cosa ha fatto Casaleggio in](https://twitter.com/BiondoNik/status/1334935680506621955) · copia: `2020/362539164174` (Web Archive 20201204) · licenza: terzi
 - **2020** · Twitter — [@BiondoNik: la storia segreta della consulenza Philip Morris-Casaleggio, l'investigazione ](https://twitter.com/BiondoNik/status/1335114133725999104) · copia: `2020/7a2d456628d0` (Web Archive 20201205) · licenza: terzi
 - **2020** · Twitter — [@Luke_like: quando su Wired lo denunciavano @faffa42 e @fpietrosanti meritava querele ed e](https://twitter.com/Luke_like/status/1326817919347601408) · copia: `2020/3703c148297c` (Web Archive 20201112) · licenza: terzi
@@ -1421,6 +1424,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/) · copia: `2026/d6c235f32bf3` (Web Archive 20260604) · licenza: propria
 - **2026** · Autorita Garante per la Protezione dei D — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html) · copia: `2026/2a9036b3ef9e` (Web Archive 20260121) · licenza: terzi
 - **2026** · OrlandoMagazine.it — [L'utilità è il futuro. E il futuro è biohacking](https://www.orlandomagazine.it/2026/09/18/lutilita-e-il-futuro-e-il-futuro-e-biohacking/) · copia: `2026/66ee8a0d68ea` (live) · licenza: terzi
+- **2026** · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, ](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/) · copia: `2026/7468ee43a638` (live) · licenza: terzi
 - **2026** · Sohu 搜狐号 (时光派, 100270039) — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://www.sohu.com/a/1067664696_100270039) · copia: `2026/3ed9e3a20ed7` (live) · licenza: terzi
 - **2026** · Sohu (搜狐号) — 时光派 — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 | 第七届国际长寿论坛整体回顾](https://www.sohu.com/a/1078945684_100270039) · copia: `2026/ebce85101353` (live) · licenza: terzi
 - **2026** · 7th TimePie Longevity Forum, Shanghai (B — [Biohack.It - Open Software for Structured Human Self-Experimentation](https://www.timepielongevityforum.com/2026agenda) · copia: `2026/6aaea42705f6` (Web Archive 20260819) · licenza: terzi
