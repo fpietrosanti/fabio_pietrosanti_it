@@ -2105,6 +2105,14 @@
    "captcha": false,
    "confirmed_new": 4,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa, nessun robot check. 8 query della coda (ExpoLeaks/Expo 2015, GlobaLeaks anticorruzione 2020-21, Master anticorruzione Tor Vergata, firma digitale/PEC 2008-09, Hack.lu 2006, Clusit/Security Summit, Merge-it 2018, interviste 2012-13 Tor/anonimato), tutte a pagina singola. 63 risultati, 42 candidati dopo aver tolto LinkedIn, X, Wikipedia, mailing list (lists.linux.it), profilo SlideShare proprio, sentenze/decreti senza relazione e pagine-tag. Verificatore: 11 confermati, 31 respinti (in gran parte già in archivio o nome assente). Nuove 4 voci con copia offline (Wayback): EJO it.ejo.ch 'ExpoLeaks, whistleblowing per Expo' (Fabio di GlobaLeaks racconta l'idea; prima copia think.it già presente), blog IJF 'Digital whistleblowing nel giornalismo moderno #ijf15', DIMT 'Whistleblowing e Pa' (osservazione critica di Fabio presidente Hermes a Coccagna/ANAC), controtuttelemafie.it libro 2022 (Fabio tra gli esperti che dal 2017 avvertivano su Kaspersky). Esclusi (decisions.json): dokumen.pub copia del libro Di Salvo, IJF programme/0 (doppione 2015), FSFE FOSDEM 2021 .it (doppione .en), speaker page Gallus, slide di terzi SlideShare, home MERGE-it 2018, indice P&R Foundation. Non verificabili: ResearchGate/Academia TI Italia (403; capitolo già presente via DOI), PDF uniparthenope (fetch fallito). Aggiunte 8 nuove query."
+  },
+  {
+   "date": "2026-10-19",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa, ma Google irraggiungibile: ERR_QUIC_PROTOCOL_ERROR su due tentativi a 10 s di distanza; anche curl verso google.com, github.com e bing.com fallisce (connessione rifiutata), mentre web.archive.org ed example.com rispondono. Probabile blocco di rete/firewall sulla connessione attuale. Nessuna ricerca eseguita, nessun robot check; le 8 query in coda restano 'pending' per la prossima esecuzione. archive_copies non eseguito (nessun candidato nuovo)."
   }
  ]
 }
