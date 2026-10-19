@@ -1,0 +1,654 @@
+{
+ "_about": "Hand-written English content of the homepage. LinkedIn-owned fields (headline, About, experience) are NOT here: they are read from data/linkedin/en.json so the site cannot drift from the LinkedIn master. Everything marked draft needs Fabio's approval before publication.",
+ "lang": "zh",
+ "meta": {
+  "title": "Fabio Pietrosanti — naif · 石风翱 — 黑客、创业者、创新者",
+  "description": "Fabio「naif」Pietrosanti（石风翱）：1995年起的黑客，之后成为创业者和创新者。如今关注生物黑客、数字权利与国家安全。三十年的演讲、媒体报道、研究与开源工作，附来源与本地副本。"
+ },
+ "nav": [
+  [
+   "about",
+   "关于"
+  ],
+  [
+   "story",
+   "经历"
+  ],
+  [
+   "focus",
+   "当下"
+  ],
+  [
+   "work",
+   "履历"
+  ],
+  [
+   "projects",
+   "项目"
+  ],
+  [
+   "archive",
+   "档案"
+  ],
+  [
+   "books",
+   "书籍"
+  ],
+  [
+   "communities",
+   "社区"
+  ],
+  [
+   "past",
+   "过去"
+  ],
+  [
+   "contact",
+   "联系"
+  ]
+ ],
+ "hero": {
+  "kicker": "1995年起的黑客 · 米兰 · 迪拜 · 深圳",
+  "aka": "naif · 石风翱",
+  "links": [
+   [
+    "LinkedIn",
+    "https://www.linkedin.com/in/secret/"
+   ],
+   [
+    "GitHub",
+    "https://github.com/fpietrosanti"
+   ],
+   [
+    "Hermes Center",
+    "https://www.hermescenter.org"
+   ],
+   [
+    "GlobaLeaks",
+    "https://www.globaleaks.org"
+   ],
+   [
+    "biohack.it",
+    "https://biohack.it"
+   ]
+  ]
+ },
+ "stats_labels": {
+  "years": "从事信息安全的年数",
+  "talks": "演讲、圆桌与工作坊",
+  "press": "媒体、电视与广播报道",
+  "writing": "文章、论文与研究记录",
+  "projects": "已记录的项目"
+ },
+ "section_titles": {
+  "about": [
+   "关于",
+   "简短版本——与 LinkedIn 上的文字相同。"
+  ],
+  "story": [
+   "完整版本",
+   "三十年，从做成了什么、改变了什么说起。"
+  ],
+  "work": [
+   "履历",
+   "职务与公司。职位名称和日期与 LinkedIn 保持一致；这里补充了细节。"
+  ],
+  "projects": [
+   "项目",
+   "软件、研究、行动，以及一些从未启动的项目——每一项都附上来源。"
+  ],
+  "archive": [
+   "演讲、媒体与写作",
+   "迄今已核实的全部来源，从1998年到今天：筛选、搜索，打开原文或其存档副本。"
+  ],
+  "communities": [
+   "社区",
+   "大部分工作真正发生的地方。"
+  ],
+  "past": [
+   "过去的站点",
+   "早年的个人主页，依据互联网档案馆（Web Archive）重建。"
+  ],
+  "contact": [
+   "联系",
+   "顾问合作、董事会席位、合作伙伴关系、媒体与演讲：欢迎洽谈。"
+  ],
+  "focus": [
+   "五条线索",
+   "1995年起的黑客——这一条永远不会结束。1997年起的开源黑客行动主义，2001年起的网络安全，以及眼下最重要的三件事。"
+  ],
+  "artifacts": [
+   "来自档案",
+   "他本人演讲的标题页，2002–2010——完整幻灯片都在档案里。"
+  ],
+  "books": [
+   "书籍——引用与参与",
+   "采访、引述、致谢或引用他的书，以及每一本书具体说了什么。"
+  ]
+ },
+ "story": [
+  {
+   "years": "1995–2004",
+   "title": "黑客圈与最初的安全工作",
+   "body": [
+    "Fabio 从1995年开始接触信息安全，起步于意大利黑客社区，在那里他至今仍被称作 <b>naif</b>。到1990年代末，他已为 <i>BFi</i>（s0ftpj 的电子杂志）撰稿，并参与编写 <i>Linux Domande e Risposte</i> 等意大利语 Linux 文档。",
+    "2000–2001年，他联合创立了 <b>Sikurezza.org</b>——意大利最具参考意义的安全社区与邮件列表之一，并成为2001年在 SMAU 上成立的 <b>Italian Black Hats</b> 的创始成员。2002年，<i>La Stampa</i> 跟随他和其他 Black Hats 在米兰街头测试无线网络的安全性。",
+    "与此同时，爱好变成了职业：Live Network Security 的首席技术官，为 Mondadori 旗下 <i>WeekIT</i> 以及 <i>ICT Security</i> 撰稿的信息通信技术安全自由撰稿人，I.NET 的网络安全经理——在那里他设计了一个安全运营中心（SOC）——以及自2004年起向意大利电信（Telecom Italia）安全首席技术官汇报的高级信息安全顾问。那些年的演讲涉及无线网络的不安全性（Webbit、SMAU、CNR）、匿名通信（hack.lu 2006）和 PGP（e-privacy 2005）。"
+   ]
+  },
+  {
+   "years": "2005–2014",
+   "title": "语音加密与加密产品市场的诚信",
+   "body": [
+    "2005年，他联合创立了 KHAMSA，即后来的 <b>PrivateWave Italia</b>，为政府和企业客户开发移动语音与消息加密产品（PrivateGSM），并与 Philip Zimmermann 合作，为电路交换网络设计了一种基于 ZRTP 的加密传输协议。2011年，PrivateWave 发布了 <b>ZORG</b>——ZRTP 的开源 C++ 与 Java 实现；同年 ZRTP 成为 RFC 6189。",
+    "这项工作产生了两项国际专利，由 KHAMSA Italia 与 Federico Moro、Lorenzo Boccaccia 共同申请：<b>WO2008015721</b> / EP2057808，集中式消息服务中多重身份的安全管理；以及 <b>WO2008015723</b> / EP2057777，记录不可抵赖的数字通信并识别其参与者的方法（见<a href=\"#patents\">专利</a>）。",
+    "在个人博客 <i>infosecurity.ch</i> 上，他撰写移动与语音安全的文章，也揭露了这个市场的部分运作方式：2010年，他证明一份号称独立的语音加密产品评测实际可追溯到其中一家厂商（<i>The Register</i> 作了报道）；他还撰文反对无法验证的虚假安全宣传（snake oil）和作为营销噱头的「黑客挑战赛」。他与他人一起发布了 <b>OSXCrypt</b>（2008），尝试把兼容 TrueCrypt 的磁盘加密带到 macOS 上。"
+   ]
+  },
+  {
+   "years": "2010–至今",
+   "title": "吹哨与匿名基础设施",
+   "body": [
+    "2010年，他发起了 <b>GlobaLeaks</b>——用于安全匿名举报的自由软件，并在2010年12月围绕它创建了 <b>赫尔墨斯透明与数字人权中心（Hermes Center for Transparency and Digital Human Rights）</b>；自2018年起，Hermes 成为欧洲数字权利组织（EDRi）的成员。Hermes 还重写并维护了 <b>Tor2web</b>——让普通浏览器也能访问 Tor 洋葱服务的网关。",
+    "GlobaLeaks 成为众多举报平台的基础，运营方包括新闻编辑部、非政府组织和公共机构——从荷兰的 Publeaks、IRPILeaks，到与透明国际意大利分会（Transparency International Italy）合作的反腐败渠道，以及后来意大利反腐败局的举报渠道。自2016年起，非营利社会企业 <b>Whistleblowing Solutions</b> 把这项技术转化为可持续的服务。",
+    "自2011年起，他一直是 Tor 社区的常客：运营出口中继和 Tor2web 节点，参加国际 Tor 开发者会议，并提交了改变 Tor 本身的工单——随 Tor 0.3.0 发布的 <code>OutboundBindAddressExit</code>，就来自他2016年关于低责任风险出口中继的提案。"
+   ]
+  },
+  {
+   "years": "2016–2022",
+   "title": "政策、监控与民主",
+   "body": [
+    "同样的方法被带进了政策领域。2017年，他是 Stefano Quintarelli 提出的意大利国家木马（<i>captatori informatici</i>）法案的提案人之一，并把这一议题带到 e-privacy、布鲁塞尔的 Freedom Not Fear 和 CCC。他在2017年发起行动，推动 VideoLAN 通过 HTTPS 提供 VLC 下载；梳理了 Kaspersky 软件在意大利公共部门使用的风险（Euronews 2018年报道，2022年再度报道）；并通过信息公开（FOIA）申请监督监控活动。",
+    "在电子投票方面，他撰写了 <i>Guida Hermes al voto digitale</i>（赫尔墨斯数字投票指南），分析了2017年伦巴第大区的电子投票公投，推动了 <b>CRVD</b> 委员会的运作，研究了海外意大利人如何在投票站投票（AIRE 研究），并通过 <b>OpenRousseau</b> 揭示了五星运动 Rousseau 平台的弱点——包括亲自在该平台上投了两次票。",
+    "2022年，与 Hermes 和志愿者一起开展的公民黑客项目 <b>Monitora PA</b> 推动数千家意大利公共行政机构移除了 Google Analytics。"
+   ]
+  },
+  {
+   "years": "2012–2025",
+   "title": "包裹、物流与算法金融",
+   "body": [
+    "在家族经营的拉蒂纳 GLS 快递分公司，他用十三年时间，把自动化、测量系统、成本控制和生态友好的最后一公里配送带进这家以运送包裹为生的企业。这段工作催生了 <b>Haulersense</b>（面向快递企业的计算机视觉与收入回收）、<b>LESS.green</b> 和 <b>OpenPUDO</b>——面向自提与寄件点网络的开源软件——以及电商履约业务 <b>PLogistics</b>。2022年，他在 LIUC 大学讲授自提点物流。",
+    "自2019年起，他在迪拜领导 <b>SignalSwarm</b>：一个全自动、市场中性的交易平台，以及基于该平台的资产管理服务。"
+   ]
+  },
+  {
+   "years": "2023–至今",
+   "title": "生物黑客与开放的人体数据",
+   "body": [
+    "自2023年起，他与 Hacking Biology Foundation 一起打造 <b>biohack.it</b>：采用 AGPL 许可的非营利基础设施，自我实验者在这里记录实验方案和采用标准编码的生物标志物，让一个个独立的实验成为可相互比较的人体数据。他曾在 Rai 1（<i>Codice</i>）、Rai Radio 1（<i>Codice Beta</i>）以及上海的 TimePie 生物黑客论坛上介绍这项工作。"
+   ]
+  }
+ ],
+ "areas": {
+  "whistleblowing": "吹哨",
+  "anonimato": "匿名与 Tor",
+  "anonimato / Tor": "匿名与 Tor",
+  "cifratura": "加密",
+  "ricerca / crittografia": "加密",
+  "advocacy": "数字权利",
+  "policy": "监控与政策",
+  "sicurezza / advocacy": "安全研究",
+  "ricerca / sicurezza": "安全研究",
+  "ricerca": "安全研究",
+  "ricerca / trasparenza": "透明度研究",
+  "voto elettronico": "电子投票与民主",
+  "privacy PA": "公共部门隐私",
+  "sicurezza nazionale": "国家网络安全",
+  "sovranità digitale": "数字主权",
+  "comunità hacker": "黑客社区",
+  "biohacking": "生物黑客",
+  "logistica": "物流",
+  "logistica / insegnamento": "物流",
+  "civico": "公民行动",
+  "covid / dati": "新冠疫情",
+  "covid / sicurezza": "新冠疫情"
+ },
+ "projects": {
+  "GlobaLeaks": [
+   "用于安全匿名举报的自由开源软件，始于2010年，被全球的新闻编辑部、非政府组织、企业和公共行政机构使用。",
+   "https://www.globaleaks.org"
+  ],
+  "Tor2web": [
+   "让普通浏览器也能访问 Tor 洋葱服务的网关。最初由 Aaron Swartz 和 Virgil Griffith 创建，自2011年起由 Hermes Center 重写并维护。",
+   "https://github.com/tor2web/Tor2web"
+  ],
+  "Hermes Center for Transparency and Digital Human Rights": [
+   "2010年12月成立的非营利协会，开发透明与匿名技术，并开展数字权利倡导。自2018年起成为 EDRi 成员。",
+   "https://www.hermescenter.org"
+  ],
+  "Whistleblowing Solutions / WhistleblowingPA": [
+   "非营利社会企业（2016），以服务形式提供 GlobaLeaks；WhistleblowingPA 为意大利公共行政机构提供了免费的举报渠道。",
+   "https://www.whistleblowingsolutions.it"
+  ],
+  "PrivateGSM / PrivateWave (cifratura voce mobile)": [
+   "由 PrivateWave Italia 开发的面向政府和企业的移动语音与消息加密产品（2005–2014），其中基于 ZRTP 的设计与 Philip Zimmermann 共同完成。",
+   ""
+  ],
+  "ZORG — implementazione open source di ZRTP": [
+   "PrivateWave 于2011年1月发布的 ZRTP 开源 C++ 与 Java 实现。",
+   ""
+  ],
+  "OSXCrypt": [
+   "2008年的开源项目，与 Orlando Bassotto 和 Matteo Flora 一起把兼容 TrueCrypt 的磁盘加密带到 macOS。",
+   "past/osxcrypt.org/"
+  ],
+  "Tor exit node e honeypot sugli hidden service": [
+   "自2011年起运营 Tor 出口节点和 Tor2web 节点，并研究其上的滥用行为与噪声流量。",
+   ""
+  ],
+  "Trojans and Rule of Law — proposta di legge sui captatori informatici (trojan di Stato)": [
+   "2017年由 Stefano Quintarelli 提出的意大利国家黑客工具（国家木马）法案；Fabio 与律师和技术专家一道，是提案人之一。该提案在意大利、CCC 以及布鲁塞尔的 Freedom Not Fear 上作了介绍。",
+   "https://trojansandruleoflaw.org"
+  ],
+  "Guida Hermes al voto digitale": [
+   "Hermes Center 关于数字投票风险的指南（2017）。",
+   ""
+  ],
+  "CRVD voto elettronico": [
+   "民主投票要求委员会：关于电子投票的分析与文章（2018–2020）。站点于2026年完成存档保存。",
+   "https://hermescenter.github.io/crvd.org-preservation/"
+  ],
+  "Progetto AIRE (voto degli italiani all'estero)": [
+   "2019年针对登记在海外的意大利人的地理定位研究：80个海外投票站即可覆盖超过86%的选民——这是在线投票之外的另一种选择。",
+   ""
+  ],
+  "OpenRousseau": [
+   "开源的对照平台（2020），用以揭示五星运动 Rousseau 投票系统的弱点。",
+   ""
+  ],
+  "Voto elettronico referendum Lombardia 2017 (analisi)": [
+   "对2017年伦巴第大区自治公投所用投票机的分析与信息公开（FOIA）申请。",
+   ""
+  ],
+  "Monitora PA (rimozione Google Analytics dalla PA)": [
+   "公民黑客项目（2022），测量了意大利公共机构网站，并推动数千家行政机构移除 Google Analytics。",
+   "https://monitora-pa.it"
+  ],
+  "Kaspersky: matrice dei rischi e uso nella PA italiana (2018, 2022)": [
+   "意大利公共部门使用 Kaspersky 软件的风险矩阵，假设厂商被迫与俄罗斯政府合作（2018年，2022年更新）。",
+   "https://github.com/fpietrosanti/kaspersky-risks"
+  ],
+  "mxmap.it / Osservatorio Nazionale Sovranità Digitale": [
+   "呈现意大利公共行政机构的电子邮件由哪些服务商承载的地图，以及一个关于数字主权的观察站（2026）。",
+   "https://mxmap.it"
+  ],
+  "Italian Hacker Camp / Italian Hacker Embassy / End Summer Camp": [
+   "意大利的黑客聚会：威尼斯的 End Summer Camp、帕多瓦的 Italian Hacker Camp，以及荷兰和德国黑客营中的 Italian Hacker Embassy 营地（自 CCCamp 2007 起）。",
+   "https://www.ihc.camp"
+  ],
+  "Sikurezza.org": [
+   "意大利的安全社区与邮件列表，约2000年联合创立；曾在 Webbit 和 Security Summit 上介绍。",
+   ""
+  ],
+  "Italian Black Hats": [
+   "2001年在 SMAU 上成立的意大利安全研究者协会；创始成员。",
+   ""
+  ],
+  "biohack.it / Hacking Biology Foundation": [
+   "面向结构化人体自我实验的开放基础设施：实验方案、采用标准编码的生物标志物以及共享的结果（AGPL-3.0，非营利，始于2023年）。",
+   "https://biohack.it"
+  ],
+  "LESS.green — last mile sostenibile": [
+   "面向电商低排放最后一公里配送的非营利科技初创企业（2020–2023），在 GitHub 上公开其软件。",
+   "https://github.com/lessgreen"
+  ],
+  "Haulersense": [
+   "面向快递企业的人工智能与计算机视觉工具：重量与体积的收入回收、包裹分拣设备遥测和运输数据分析（2019–2023）。",
+   ""
+  ],
+  "Aeroporto di Latina": [
+   "推动拉蒂纳机场成为拉齐奥大区第三机场的公民行动（2026）。",
+   ""
+  ],
+  "Sendmail.cf backdoor, chrooted, firewall script (codice 2000–2002)": [
+   "2000–2002年间发布的早期安全代码与研究。",
+   ""
+  ],
+  "OSSCI / OSPCI — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (progetto mai partito)": [
+   "2019年提出的观察站方案，用于主动测量意大利国家网络边界的安全状况，经数十位工程师和律师评审，获得250多人支持——比国家网络安全机构的成立早了数年。该项目从未启动。",
+   "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano"
+  ],
+  "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)": [
+   "2020年3月的方案，建议利用移动网络的小区数据支持新冠接触者追踪、向聚集性疫情区域发送定向短信提醒和隔离通知，同时不向公共机构提供个人身份和位置信息。Fabio 是主要作者；法律意见来自 Stefano Aterno、Carlo Piana、Saetta、Perri、Simbula、Monte、Gallus、Lisi 和 Pelino，Gerardo Costabile、Agostini 和 Dirani 提供了评论。该项目从未启动。",
+   "https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk"
+  ],
+  "COVID-19: vulnerabilità dell'app COVID della Regione Lazio (con Giovanni Rocca)": [
+   "与 Giovanni Rocca 一起对拉齐奥大区新冠应用 LAZIOdrCOVID 进行的安全审计（2020年3月29日），测试使用了 Fabio 本人的税号：固定的 DES 密钥、不限次数的短信校验、一个可以打开任意患者报告的令牌。主要漏洞在约六小时内修复。",
+   "http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/"
+  ],
+  "OpenPUDO — primo software open source per reti PUDO (LESS)": [
+   "面向自提与寄件点（PUDO）网络的开源软件，由 LESS 于2021年发布。",
+   "https://github.com/lessgreen"
+  ],
+  "ifuriosi.it — archivio delle evidenze e pubblicità Philip Morris ricondotta a Casaleggio Associati": [
+   "2020年的证据存档，将 ifuriosi.it 站点及其 Philip Morris 广告与 Casaleggio Associati 共用的基础设施联系起来。",
+   "https://github.com/fpietrosanti/ifuriosi"
+  ],
+  "LIUC 2022 — intervento sui punti di ritiro PUDO al convegno SOS LOGistica «Costruire comunità sostenibili»": [
+   "在 LIUC 大学与 SOS LOGistica 合办的会议上关于自提点的演讲（2022年9月29日）。",
+   "https://youtu.be/bPXna2KujUE?t=6898"
+  ],
+  "SecurStar/PhoneCrypt — debunking di una falsa «ricerca indipendente» sulla cifratura voce": [
+   "2010年的证据表明，一份号称独立的语音加密产品评测实际由其中一家厂商操作；The Register 作了报道。",
+   ""
+  ],
+  "Snake oil nella cifratura voce: marketing e affermazioni di sicurezza non verificabili": [
+   "2009–2010年撰写的文章，反对语音加密领域无法验证的安全宣称和营销式比赛。",
+   ""
+  ],
+  "Tor exit node a bassa responsabilità (2011–2017) — ticket #17975 implementato in Tor 0.3.0": [
+   "从运营出口节点到改变 Tor：仅用于出口流量的出站地址提案，成为了 Tor 0.3.0 中的 OutboundBindAddressExit。",
+   "https://gitlab.torproject.org/tpo/core/tor/-/issues/17975"
+  ],
+  "Analisi della sicurezza e della scelta delle curve ellittiche (ECC)": [
+   "2010年对专有加密产品中椭圆曲线选择的分析。",
+   ""
+  ],
+  "VLC over HTTPS — campagna per il download sicuro di VLC e degli eseguibili («la trollata sul TLS»)": [
+   "2017年 CIA 文件泄露之后发起的行动：工单、对35个 HTTPS 镜像的普查和一个概念验证，推动 VideoLAN 转向 HTTPS 下载。",
+   "https://code.videolan.org/videolan/vlc/-/issues/18472"
+  ]
+ },
+ "project_titles": {
+  "PrivateGSM / PrivateWave (cifratura voce mobile)": "PrivateGSM / PrivateWave",
+  "ZORG — implementazione open source di ZRTP": "ZORG — ZRTP 开源实现",
+  "Tor exit node e honeypot sugli hidden service": "Tor 出口节点与 Tor2web 节点",
+  "Trojans and Rule of Law — proposta di legge sui captatori informatici (trojan di Stato)": "Trojans and Rule of Law",
+  "Guida Hermes al voto digitale": "Hermes 数字投票指南",
+  "CRVD voto elettronico": "CRVD — 电子投票委员会",
+  "Progetto AIRE (voto degli italiani all'estero)": "AIRE — 海外投票",
+  "Voto elettronico referendum Lombardia 2017 (analisi)": "2017年伦巴第电子投票分析",
+  "Monitora PA (rimozione Google Analytics dalla PA)": "Monitora PA",
+  "Kaspersky: matrice dei rischi e uso nella PA italiana (2018, 2022)": "Kaspersky 风险矩阵",
+  "mxmap.it / Osservatorio Nazionale Sovranità Digitale": "mxmap.it",
+  "Italian Hacker Camp / Italian Hacker Embassy / End Summer Camp": "Italian Hacker Camp 与 Embassy",
+  "biohack.it / Hacking Biology Foundation": "biohack.it",
+  "LESS.green — last mile sostenibile": "LESS.green",
+  "Aeroporto di Latina": "拉蒂纳机场行动",
+  "Sendmail.cf backdoor, chrooted, firewall script (codice 2000–2002)": "早期安全代码",
+  "OSSCI / OSPCI — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (progetto mai partito)": "OSSCI — 国家网络边界观察站",
+  "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)": "新冠聚集性疫情测绘",
+  "COVID-19: vulnerabilità dell'app COVID della Regione Lazio (con Giovanni Rocca)": "拉齐奥新冠应用分析",
+  "OpenPUDO — primo software open source per reti PUDO (LESS)": "OpenPUDO",
+  "ifuriosi.it — archivio delle evidenze e pubblicità Philip Morris ricondotta a Casaleggio Associati": "ifuriosi.it 证据存档",
+  "LIUC 2022 — intervento sui punti di ritiro PUDO al convegno SOS LOGistica «Costruire comunità sostenibili»": "LIUC 2022 — 自提点",
+  "SecurStar/PhoneCrypt — debunking di una falsa «ricerca indipendente» sulla cifratura voce": "SecurStar 事件",
+  "Snake oil nella cifratura voce: marketing e affermazioni di sicurezza non verificabili": "语音加密中的虚假宣传",
+  "Tor exit node a bassa responsabilità (2011–2017) — ticket #17975 implementato in Tor 0.3.0": "低责任风险的 Tor 出口节点",
+  "Analisi della sicurezza e della scelta delle curve ellittiche (ECC)": "椭圆曲线的选择",
+  "VLC over HTTPS — campagna per il download sicuro di VLC e degli eseguibili («la trollata sul TLS»)": "VLC over HTTPS"
+ },
+ "never_started_marker": "从未启动",
+ "archive_ui": {
+  "search": "搜索标题、媒体、备注…",
+  "all": "全部",
+  "cats": {
+   "talks": "演讲与活动",
+   "press": "媒体报道",
+   "av": "电视、广播与视频",
+   "writing": "写作",
+   "research": "研究、代码与引用"
+  },
+  "source": "原文",
+  "copy": "本地副本",
+  "count": "条",
+  "none": "没有匹配的内容。",
+  "wayback": "互联网档案馆"
+ },
+ "communities": [
+  [
+   "Hermes Center & GlobaLeaks",
+   "自2010年起担任联合创始人与会长。自2018年起为 EDRi 成员。"
+  ],
+  [
+   "意大利黑客社区",
+   "自1995年起：s0ftpj/BFi、Sikurezza.org、Italian Black Hats、Hackmeeting、End Summer Camp、Italian Hacker Camp，以及 CCCamp、HAR、OHM、SHA 和 Chaos Communication Congress 上的 Italian Hacker Embassy。"
+  ],
+  [
+   "Tor Project",
+   "Tor 社区的常客：Tor 出口中继与 Tor2web 节点运营者，国际 Tor 开发者会议的参与者，工单与提案的贡献者——其中两项分别随 Tor 0.2.6 和 0.3.0 发布。"
+  ],
+  [
+   "Progetto Winston Smith & e-privacy",
+   "自2005年起在 e-privacy 担任演讲者、主持人和 Big Brother Awards 颁奖人。"
+  ],
+  [
+   "Transparency International Italy",
+   "2014–2021年期间的成员，在吹哨议题上与 Hermes 之间的桥梁。"
+  ],
+  [
+   "Copernicani",
+   "成员：在线投票工作组（2019）、人脸识别对话（2020）和隐私币（2023）。"
+  ]
+ ],
+ "past_sites": [
+  [
+   "OSXCrypt — osxcrypt.org（2007–2008）",
+   "past/osxcrypt.org/"
+  ],
+  [
+   "少年时期的网站 — panservice.it（1997–1998）",
+   "past/panservice.it-people-madoka/"
+  ],
+  [
+   "naif.itapac.net（2003）",
+   "past/naif.itapac.net/"
+  ],
+  [
+   "naif.itapac.net（2005）",
+   "past/naif.itapac.net-2005/"
+  ]
+ ],
+ "footer": {
+  "sync": "标题、关于和履历与 LinkedIn 个人资料保持一致（最近一次同步：{date}）。",
+  "draft": "草稿——尚未发布。"
+ },
+ "patents_title": "专利",
+ "patents": [
+  {
+   "title": "面向集中式消息服务的多重身份安全管理方法",
+   "refs": "WO2008015721（PCT/IT2007/000558） · EP2057808 · 优先权 IT RM2006A000425",
+   "dates": "优先权日 4 Aug 2006 · PCT 申请 2 Aug 2007 · 公开 7 Feb 2008",
+   "who": "发明人：Federico Moro、Lorenzo Boccaccia、Fabio Pietrosanti · 申请人：KHAMSA Italia S.r.l.",
+   "links": [
+    [
+     "Google Patents",
+     "https://patents.google.com/patent/WO2008015721A2/en"
+    ],
+    [
+     "WIPO Patentscope",
+     "https://patentscope.wipo.int/search/en/WO2008015721"
+    ],
+    [
+     "Espacenet",
+     "https://worldwide.espacenet.com/patent/search?q=pn%3DWO2008015721A2"
+    ],
+    [
+     "EP2057808",
+     "https://patents.google.com/patent/EP2057808A2/en"
+    ],
+    [
+     "意大利优先权文件",
+     "https://patents.google.com/patent/ITRM20060425A1/en"
+    ]
+   ],
+   "local": "copies/patents/WO2008015721A2.pdf"
+  },
+  {
+   "title": "记录不可抵赖的数字信息传输并识别通信参与者的方法",
+   "refs": "WO2008015723（PCT/IT2007/000565） · EP2057777",
+   "dates": "优先权日 4 Aug 2006 · PCT 申请 3 Aug 2007 · 公开 7 Feb 2008",
+   "who": "发明人：Federico Moro、Lorenzo Boccaccia、Fabio Pietrosanti · 申请人：KHAMSA Italia S.r.l.",
+   "links": [
+    [
+     "Google Patents",
+     "https://patents.google.com/patent/WO2008015723A2/en"
+    ],
+    [
+     "WIPO Patentscope",
+     "https://patentscope.wipo.int/search/en/WO2008015723"
+    ],
+    [
+     "Espacenet",
+     "https://worldwide.espacenet.com/patent/search?q=pn%3DWO2008015723A2"
+    ],
+    [
+     "EP2057777",
+     "https://patents.google.com/patent/EP2057777A2/en"
+    ]
+   ],
+   "local": "copies/patents/WO2008015723A2.pdf"
+  }
+ ],
+ "identity": {
+  "first": "Fabio",
+  "last": "Pietrosanti",
+  "nick": "naif",
+  "zh": "石风翱",
+  "zh_note": "Shí Fēng'áo",
+  "roles": [
+   "黑客",
+   "创业者",
+   "创新者"
+  ],
+  "role_note": ""
+ },
+ "focus_now_title": [
+  "五条线索",
+  "1995年起的黑客——这一条永远不会结束。1997年起的开源黑客行动主义，2001年起的网络安全，以及眼下最重要的三件事。"
+ ],
+ "focus_now": [
+  {
+   "k": "开源黑客行动主义",
+   "since": "1997",
+   "now": false,
+   "text": "从意大利黑客圈——BFi 电子杂志、意大利语 Linux 文档、Sikurezza.org、Hackmeeting、End Summer Camp——到此后一直遵守的一条简单规则：他做出来的东西都以自由软件的形式发布。ZORG、OSXCrypt、Tor2web、GlobaLeaks、OpenPUDO、biohack.it。",
+   "links": [
+    [
+     "GitHub",
+     "https://github.com/fpietrosanti"
+    ],
+    [
+     "End Summer Camp",
+     "https://www.endsummercamp.org"
+    ]
+   ]
+  },
+  {
+   "k": "网络安全",
+   "since": "2001",
+   "now": false,
+   "text": "这是他的职业：在 I.NET 做安全运营与威胁分析，在意大利电信（Telecom Italia）做反情报与安全研究，公开发布安全通告，参与 Italian Black Hats；随后是在 PrivateWave 做了十年的移动语音加密——两项国际专利——此后也一直在公开场合从事安全工作：VLC 的 HTTPS 行动、TLS 与 Tor 的工单。",
+   "links": [
+    [
+     "专利",
+     "#patents"
+    ],
+    [
+     "档案",
+     "#archive"
+    ]
+   ]
+  },
+  {
+   "k": "数字权利",
+   "since": "2010",
+   "now": true,
+   "text": "Hermes Center 与 GlobaLeaks：被新闻编辑部、非政府组织和公共机构使用的吹哨与匿名技术，以及围绕它展开的倡导工作——监控、国家木马、生物识别、公共部门隐私。",
+   "links": [
+    [
+     "Hermes Center",
+     "https://www.hermescenter.org"
+    ],
+    [
+     "GlobaLeaks",
+     "https://www.globaleaks.org"
+    ]
+   ]
+  },
+  {
+   "k": "国家安全",
+   "since": "2018",
+   "now": true,
+   "text": "用测量代替争论，衡量一个国家的数字依赖：Kaspersky 风险矩阵、关于国家网络边界观察站的 OSSCI 提案，以及呈现意大利公共行政机构的基础设施究竟由谁运营的 mxmap.it。",
+   "links": [
+    [
+     "Kaspersky 风险分析",
+     "https://github.com/fpietrosanti/kaspersky-risks"
+    ],
+    [
+     "OSSCI",
+     "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano"
+    ],
+    [
+     "mxmap.it",
+     "https://mxmap.it"
+    ]
+   ]
+  },
+  {
+   "k": "生物黑客",
+   "since": "2023",
+   "now": true,
+   "text": "biohack.it 与 Hacking Biology Foundation：把个人的自我实验转化为可相互比较的人体数据的开放基础设施——实验方案、采用标准编码的生物标志物、公开的结果。",
+   "links": [
+    [
+     "biohack.it",
+     "https://biohack.it"
+    ],
+    [
+     "Hacking Biology",
+     "https://github.com/hackingbiology"
+    ]
+   ]
+  }
+ ],
+ "artifacts_title": [
+  "来自档案",
+  "他本人演讲的标题页，2002–2010——完整幻灯片都在档案里。"
+ ],
+ "focus_badge": "当前重点",
+ "books_ui": {
+  "how": {
+   "protagonist": "主角",
+   "interviewed": "受访",
+   "quoted": "引述",
+   "mentioned": "提及",
+   "cited (bibliography)": "引用",
+   "contributor": "撰稿",
+   "acknowledged": "致谢",
+   "profile": "人物特写"
+  },
+  "source": "来源",
+  "note": "页码和措辞来自存档副本或出版社的全文检索；页码不详的留空。无法在线检索的书籍仍在逐本核对纸质版。"
+ },
+ "donor": {
+  "kicker": "另外",
+  "title": "AVIS 的献血与血浆捐献者——每年四次",
+  "text": "每年四次献血，年年如此。这一页上的所有事情里，这是任何人都能做的一件，也是效果最确定的一件：你一小时的时间，换别人的一条命。如果你在意大利，找到当地的 AVIS 预约献血——血浆也一样，总是紧缺。",
+  "link": [
+   "找到你附近的 AVIS",
+   "https://www.avis.it/"
+  ]
+ },
+ "projects_table": {
+  "year": "年份",
+  "name": "项目",
+  "area": "领域",
+  "what": "内容",
+  "links": "来源"
+ },
+ "books_table": {
+  "year": "年份",
+  "title": "书名",
+  "how": "出现方式",
+  "authors": "作者 / 出版社",
+  "what": "书中内容",
+  "links": "来源"
+ },
+ "contact_lines": [
+  "在 LinkedIn 上留言——这是联系他最快的方式。",
+  "代码、数据以及本页背后的来源都在 GitHub 上。",
+  "媒体与演讲邀约：上面的档案收录了每一场演讲和访谈，并附有主办方的联系方式。"
+ ]
+}
