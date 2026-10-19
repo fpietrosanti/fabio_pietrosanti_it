@@ -214,7 +214,9 @@ def build(lang="en"):
                   + f'<p class="note">{esc(bui.get("note", ""))}</p>') if book_list else ""
     contact = "".join(f"<p>{linkify(x)}</p>" for x in c.get("contact_lines", []))
     wc = c.get("wechat") or {}
-    wechat = (f'<div class="wechat"><img src="{pre}assets/wechat.png" alt="WeChat QR code" width="132" height="132">'
+    wechat = (f'<div class="wechat"><img src="{pre}assets/wechat@1x.png" '
+              f'srcset="{pre}assets/wechat@1x.png 1x, {pre}assets/wechat.png 2x" '
+              'alt="WeChat QR code" width="132" height="132" loading="lazy">'
               f'<div><span class="wk">{esc(wc["label"])}</span><b>{esc(wc["handle"])}</b>'
               f'<p>{esc(wc["note"])}</p></div></div>') if wc and (ROOT / "assets/wechat.png").exists() else ""
     dn = c.get("donor") or {}
