@@ -48,12 +48,16 @@
   ]
  ],
  "hero": {
-  "kicker": "Hacker since 1995 · Milan · Dubai · Shenzhen",
+  "kicker": "Hacker since 1995 · Milano · Roma · Shenzhen · Dubai",
   "aka": "naif · 石风翱",
   "links": [
    [
     "LinkedIn",
     "https://www.linkedin.com/in/secret/"
+   ],
+   [
+    "Twitter",
+    "https://x.com/fpietrosanti"
    ],
    [
     "GitHub",

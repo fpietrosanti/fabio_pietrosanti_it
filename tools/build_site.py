@@ -172,6 +172,8 @@ def build(lang="en"):
 
     # identity, focus, artifacts, books, contact, donor
     ident = c["identity"]
+    portrait = ('<img class="portrait" src="' + ("" if lang == "en" else "../") + 'assets/portrait.jpg" '
+                'alt="Fabio Pietrosanti" width="132" height="132">') if (ROOT / "assets/portrait.jpg").exists() else ""
     focus = "".join(
         f'<article class="foc{" now" if x.get("now") else ""}"><div class="fk">{esc(x["k"])}'
         f'<span>{(esc(c.get("focus_badge", "focus now")) + " · ") if x.get("now") else ""}since {esc(x["since"])}</span></div>'
@@ -284,7 +286,7 @@ def build(lang="en"):
         "TAGS": json.dumps({k: v["label_en"] for k, v in tagdefs.items() if not k.startswith("_")}, ensure_ascii=False),
         "H_COMM": head("communities", 9), "COMM": comm, "H_PAST": head("past", 10), "PAST": past,
         "H_CONTACT": head("contact", 11), "DONOR": donor, "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
-        "LANGSW": langsw, "ALTS": alts, "BASE": base, "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
+        "PORTRAIT": portrait, "LANGSW": langsw, "ALTS": alts, "BASE": base, "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
     }.items():
         page = page.replace("{{" + k + "}}", v)
     if lang != "en":
