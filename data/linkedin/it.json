@@ -1,0 +1,426 @@
+{
+ "translated_from": "en.json",
+ "locale": "it_IT",
+ "status": "translation for the website (LinkedIn has no Italian profile)",
+ "extracted": "2026-09-19",
+ "source": "LinkedIn edit forms of linkedin.com/in/secret (exact field values)",
+ "intro": {
+  "first_name": "Fabio",
+  "last_name": "Pietrosanti",
+  "additional_name": "naif - 石 风翱",
+  "pronouns": "He/Him",
+  "headline": "Imprenditore e biohacker. Costruisco infrastrutture open-source per trasparenza, whistleblowing e diritti digitali — oltre a imprese nella longevità, nella finanza algoritmica e nella logistica dell’ultimo miglio. Piantagrane professionista.",
+  "country": "Italy",
+  "display_location": "Greater Milan Metropolitan Area",
+  "industry": "Venture Capital and Private Equity Principals"
+ },
+ "about": [
+  "Costruisco cose che spostano il potere: infrastrutture open-source, iniziative non profit e aziende — soprattutto dove la tecnologia incontra i diritti civili.",
+  "Ho iniziato nella sicurezza informatica nel 1995, dentro la comunità hacker italiana — un ambiente che non ho mai lasciato. Nel 2005 ho co-fondato PrivateWave, azienda di cifratura della voce su mobile, dove ho lavorato con Philip Zimmermann a un protocollo basato su ZRTP per le reti a commutazione di circuito. Nel 2010 ho avviato GlobaLeaks, software libero per il whistleblowing sicuro, oggi usato da media, ONG, enti pubblici e aziende private in tutto il mondo, e intorno a esso ho costruito l’Hermes Center for Transparency and Digital Human Rights — oggi membro di European Digital Rights (EDRi). Dal 2016 Whistleblowing Solutions trasforma quella tecnologia in un servizio sostenibile, come impresa sociale non profit senza interessi di azionisti privati.",
+  "In parallelo lavoro su problemi meno politici e più fisici. In SignalSwarm guido una piattaforma di trading completamente automatizzata e market-neutral e il servizio di gestione patrimoniale costruito su di essa. Per tredici anni, nella filiale GLS di famiglia, corriere espresso, ho portato automazione, consegna ecologica dell’ultimo miglio e sistemi di controllo dei costi dentro un’attività che di mestiere muove pacchi. Dal 2023 costruisco biohack.it, infrastruttura aperta che trasforma l’auto-sperimentazione individuale in dati umani confrontabili.",
+  "Ciò che li collega è un metodo più che un settore: prendere qualcosa di opaco — una catena di fornitura, un mercato, una burocrazia, un corpo — strumentarlo e dare alle persone gli strumenti per intervenire su ciò che emerge. Preferibilmente come software libero.",
+  "Contribuisco anche a organizzare la comunità hacker italiana: l’Italian Hacker Camp e l’Italian Hacker Embassy ai camp olandese e tedesco.",
+  "Advisory, incarichi nei board e partnership: ben accetti. Scrivetemi."
+ ],
+ "experience": [
+  {
+   "id": "3011825521",
+   "title": "Co-fondatore",
+   "org": "Biohack.it — Hacking Biology Foundation",
+   "location": "",
+   "start": "2023-01",
+   "end": null,
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Fondatore e promotore di Biohack.it, infrastruttura aperta per l’auto-sperimentazione umana strutturata. Una piattaforma non profit libera e open-source (AGPL-3.0), curata dalla Hacking Biology Foundation, dove i biohacker documentano i propri protocolli, ne misurano efficacia e sicurezza attraverso biomarcatori codificati secondo standard (LOINC/UCUM) e condividono apertamente sia il protocollo sia i suoi esiti — così che molti esperimenti individuali diventino dati umani confrontabili. Guido prodotto, specifiche, comunità e partnership. Trasformare l’auto-sperimentazione in evidenza. https://biohack.it"
+   ]
+  },
+  {
+   "id": "219903919",
+   "title": "Presidente, Co-fondatore",
+   "org": "Hermes - Center For Transparency and Digital Human Rights",
+   "location": "Milan, Lombardy, Italy",
+   "start": "2010-12",
+   "end": null,
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "L’Hermes Center for Transparency and Digital Human Rights è un’associazione non profit che sviluppa e promuove tecnologie per la trasparenza e l’anonimato come GlobaLeaks e Tor2web.",
+    "",
+    "Si occupa inoltre di advocacy e di attivismo sulle politiche nell’ambito dei diritti digitali e della privacy.",
+    "",
+    "L’Hermes Center è Observer di EDRi (European Digital Rights) dal 2017 ed è poi diventato Membro EDRi nel 2018.",
+    "",
+    "Sostengo l’avvio dei progetti con attività nell’area della raccolta fondi, dell’amministrazione e del project management, della gestione delle partnership, un po’ di progettazione della sicurezza e di test del software, un po’ di advocacy.",
+    "",
+    "Questa iniziativa è nata nel dicembre 2010 come GlobaLeaks Project, in stretta collaborazione con il Progetto Winston Smith (attivo dal 2002 nell’organizzazione dell’evento e-privacy)."
+   ]
+  },
+  {
+   "id": "1752333708",
+   "title": "Co-fondatore, Membro del Consiglio",
+   "org": "Info.nodes",
+   "location": "Milan, Lombardy, Italy",
+   "start": "2020-09",
+   "end": null,
+   "employment_type": "Self-employed",
+   "location_type": "",
+   "description": [
+    "Sostiene giornalisti e attivisti nel loro lavoro fondamentale: far emergere la verità e promuovere cambiamenti sociali efficaci."
+   ]
+  },
+  {
+   "id": "2804307537",
+   "title": "Amministratore Delegato",
+   "org": "SignalSwarm Information Technology Ltd",
+   "location": "Dubai, United Arab Emirates",
+   "start": "2019-02",
+   "end": null,
+   "employment_type": "Full-time",
+   "location_type": "Hybrid",
+   "description": [
+    "Guido SignalSwarm, lo sviluppo e le operazioni della piattaforma software per la gestione del trading.",
+    "",
+    "Strategia nella realizzazione del servizio di gestione patrimoniale con algoritmi messi a punto dalla selezione dei segnali alla gestione del rischio.",
+    "",
+    "Trading finanziario con conto gestito tramite logiche completamente automatizzate, con sistema asset-neutral, market-neutral, evolutivo e adattivo (azioni, obbligazioni, ETF, CFD, FX, criptovalute, materie prime)."
+   ]
+  },
+  {
+   "id": "803916839",
+   "title": "Co-fondatore, Socio, Membro del Consiglio di Amministrazione",
+   "org": "Whistleblowing Solutions",
+   "location": "Milan, Lombardy, Italy",
+   "start": "2016-04",
+   "end": null,
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Sviluppo strategico e operativo dell’impresa sociale.",
+    "Perseguire la missione sociale di contrasto alla corruzione.",
+    "Ricercare nuovi metodi tecnologici e organizzativi per dare potere ai whistleblower all’interno delle organizzazioni pubbliche e private.",
+    "Condividere tutta la conoscenza prodotta con l’intera comunità del whistleblowing.",
+    "",
+    "La società è un’«impresa sociale» non profit senza interessi di azionisti privati, che persegue una missione sociale."
+   ]
+  },
+  {
+   "id": "469534765",
+   "title": "Membro del Consiglio, Co-fondatore",
+   "org": "Associazione Inclusive Hacker Framework (ex-Italian Grappa)",
+   "location": "Via Vittorio Veneto 114 - San Donà di Piave, Venice, Italy",
+   "start": "2016-04",
+   "end": null,
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "L’Associazione Inclusive Hacker Framework (ex-Italian Grappa) organizza:",
+    "- L’Italian Hacker Camp (Padova) https://www.ihc.camp",
+    "- L’Italian Hacker Embassy, l’assemblea/villaggio della comunità hacker italiana all’interno dell’Hacker Camp olandese e tedesco, ogni due anni",
+    "",
+    "In passato organizzava anche ESC, fino a ESC2016, End Summer Camp (www.endsummercamp.org), a Venezia ogni anno",
+    "",
+    "",
+    "Qui mi occupo soprattutto del coordinamento di Italian Hacker Embassy e Italian Hacker Camp e in passato contribuivo a End Summer Camp.",
+    "",
+    "Video di spiegazione (ESC2015) in italiano: https://www.youtube.com/watch?v=IYYU6jwN8rQ",
+    "",
+    "Altro su http://italiangrappa.it/ ."
+   ]
+  },
+  {
+   "id": "2129776791",
+   "title": "Co-fondatore, Socio",
+   "org": "Advanced Knowledge Ventures",
+   "location": "Switzerland",
+   "start": "2019-01",
+   "end": "2026-01",
+   "employment_type": "Self-employed",
+   "location_type": "",
+   "description": [
+    "Veicolo di investimento societario in imprese tecnologiche. ",
+    "Fornisce servizi di due diligence su base joint-venture e di consulenza di strategia aziendale per operazioni pre-seed, seed e M&A."
+   ]
+  },
+  {
+   "id": "2129778080",
+   "title": "Co-fondatore, Socio",
+   "org": "PLogistics",
+   "location": "Latina, Latium, Italy",
+   "start": "2022-09",
+   "end": "2025-09",
+   "employment_type": "Self-employed",
+   "location_type": "",
+   "description": [
+    "Plogistics offre magazzinaggio avanzato per l’e-commerce, e-fulfilment, logistica inversa, finanziamento delle scorte a magazzino, gestione dei pagamenti in split payment per il contrassegno (COD), smistamento dei colli, etichettatura e rietichettatura, correzione degli indirizzi, servizi al cliente proattivi, oltre allo sviluppo tecnologico per partner e clienti della supply chain nazionale e internazionale.",
+    "",
+    "Con soluzioni uniche pensate per i professionisti dell’affiliate marketing e del dropshipping, è l’unico operatore di e-fulfilment con un DNA di digital marketing per l’e-commerce, con integrazione diretta con i principali marketplace e le principali piattaforme di gestione degli ordini.",
+    "",
+    "Grazie al suo polo logistico di oltre 20.000 mq, in posizione strategica al centro dell’Italia, i clienti Plogistics dispongono di accesso diretto in entrata e in uscita ai servizi di corriere espresso nazionale (GLS Italy), all’interconnessione con i porti per il trasporto marittimo di container (Civitavecchia, Napoli) e di materie prime (Gaeta) e all’aeroporto per il trasporto aereo (Roma Fiumicino/FCO).",
+    "",
+    "Un programma di collaborazione per i professionisti della logistica consente a Plogistics di inserirsi in progetti di grandi dimensioni, lavorando a fianco di partner del trasporto su gomma, della movimentazione e delle pratiche doganali."
+   ]
+  },
+  {
+   "id": "331919467",
+   "title": "Consulente aziendale, Membro del Consiglio di Amministrazione",
+   "org": "GLS (Latina Branch)",
+   "location": "Latina, Latium, Italy",
+   "start": "2012-11",
+   "end": "2025-09",
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Sviluppo la gestione dell’azienda (impresa familiare) ottimizzando i processi aziendali in tutte le aree, con obiettivi di miglioramento delle prestazioni, riduzione dei costi e creazione di valore per i soci.",
+    "",
+    "Ricerca e innovazione con sviluppo tecnologico interno per l’automazione, l’ultimo miglio ecologico, il miglioramento dei sistemi di misurazione, i sistemi di controllo finanziario e dei costi.",
+    "",
+    "Gestione dei grandi clienti, dei nuovi progetti speciali, sviluppo commerciale con servizi complementari.",
+    "",
+    "L’azienda opera nei servizi di corriere espresso ed è uno dei membri più antichi della rete GLS Italy, attiva dal 1986."
+   ]
+  },
+  {
+   "id": "1712600840",
+   "title": "Co-fondatore, Socio",
+   "org": "Ethic Alliance Inc.",
+   "location": "Washington DC-Baltimore Area",
+   "start": "2020-01",
+   "end": "2024-01",
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Ethic Alliance Inc.  è un’impresa sociale che collabora con soggetti pubblici, privati e della società civile con l’obiettivo di creare un meccanismo scalabile per premiare e proteggere i whistleblower che portano alla luce sprechi, abusi, frodi e corruzione. L’obiettivo dei nostri sforzi attuali sono i fondi federali dei 2.000 miliardi di dollari del Coronavirus Aid, Relief, and Economic Security (CARES) Act e di altri programmi federali. Siamo composti da esperti di anticorruzione, studi legali e specialisti di cyber-security con decenni di esperienza sul False Claims Act (FCA), utilizzato dal 1989 per recuperare oltre 39 miliardi di dollari di fondi dei contribuenti."
+   ]
+  },
+  {
+   "id": "1749751859",
+   "title": "Co-fondatore, Socio",
+   "org": "LESS.green",
+   "location": "Milan, Lombardy, Italy",
+   "start": "2020-07",
+   "end": "2023-12",
+   "employment_type": "Self-employed",
+   "location_type": "",
+   "description": [
+    "LESS, Leading Environmentally Sustainable Shipping, è una startup non profit ad alta tecnologia che punta a ridurre l’inquinamento e il contributo al riscaldamento globale antropogenico (AGW) della tratta di ultimo miglio del trasporto di merci B2C nella supply chain dell’eCommerce.",
+    "",
+    "Produce software libero su Github https://github.com/lessgreen"
+   ]
+  },
+  {
+   "id": "1772472318",
+   "title": "Co-fondatore, Socio",
+   "org": "Haulersense",
+   "location": "Latina, Latium, Italy",
+   "start": "2019-08",
+   "end": "2023-02",
+   "employment_type": "Contract",
+   "location_type": "",
+   "description": [
+    "Haulersense ricerca e sviluppa soluzioni tecnologiche avanzate finalizzate al recupero dei ricavi e al miglioramento delle prestazioni dei processi nel mercato CEP (Courier, Express, Postal).",
+    "",
+    "Sfruttando intelligenza artificiale, computer vision e tecniche di analisi dei big data, Haulersense elabora i dati esistenti per produrre valori economicamente tangibili per i suoi clienti.",
+    "",
+    "Tra i suoi progetti e prodotti principali:",
+    "",
+    "- Recupero multi-vendor di peso e volume per sistemi di pesatura volumetrica basati su immagini",
+    "- Sistema di telemetria per la gestione dei difetti delle macchine per i colli, con rilevamento autonomo delle perdite di ricavo",
+    "- Analisi dei dati di spedizione CEP per il controllo di costi e ricavi, in batch e in tempo reale"
+   ]
+  },
+  {
+   "id": "517211149",
+   "title": "Socio",
+   "org": "Transparency International Italy",
+   "location": "Milan, Lombardy, Italy",
+   "start": "2014-01",
+   "end": "2021-01",
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Transparency International Italia svolge attività di advocacy sulle politiche e di sensibilizzazione nell’ambito della trasparenza, dell’anticorruzione e del whistleblowing. ",
+    "Ne sono socio e collaboro ad attività di advocacy e formazione come punto di raccordo con l’Hermes Center (che lavora sulle tecnologie per il whistleblowing)."
+   ]
+  },
+  {
+   "id": "1456777122",
+   "title": "CEO, Co-fondatore, Socio",
+   "org": "Ethic Whispers",
+   "location": "",
+   "start": "2018-01",
+   "end": "2020-01",
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Ethic Whispers è una startup social tech-legal dedicata al supporto dei whistleblower internazionali (fuori dagli Stati Uniti) che puntano a ottenere ricompense per il whistleblowing mentre affrontano gli illeciti aziendali."
+   ]
+  },
+  {
+   "id": "2865541",
+   "title": "Fondatore, CTO, Membro del Consiglio di Amministrazione",
+   "org": "PrivateWave Italia S.p.A.",
+   "location": "Milan",
+   "start": "2005-09",
+   "end": "2014-03",
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Co-fondatore di una startup high-tech nella sicurezza.",
+    "",
+    "Vincitore della competizione per l’innovazione presso l’incubatore di startup del Politecnico di Milano e dell’Università della Svizzera italiana di Lugano.",
+    "",
+    "Ho guidato il percorso dalla prima progettazione tecnologica fino alla raccolta di capitali e allo sviluppo commerciale.",
+    "",
+    "Strategia e visione per la sicurezza delle comunicazioni e la cifratura della voce.",
+    "",
+    "Guida delle strategie tecnologiche di sicurezza e crittografia",
+    "",
+    "Sviluppo commerciale internazionale (settore governativo / grandi imprese).",
+    "",
+    "Sostegno alla crescita dell’azienda con raccolta di capitali e partnership industriali.",
+    "",
+    "Valutazione delle esigenze di clienti e partner.",
+    "",
+    "Tecnologie di cifratura per voce e messaggistica su mobile.",
+    "",
+    "Progettazione e realizzazione di tecnologie di comunicazione sicura per mercati altamente competitivi.",
+    "",
+    "Conoscenza, comprensione e progettazione approfondite delle telecomunicazioni (commutazione di circuito / commutazione di pacchetto / cablate / wireless) e delle tecnologie di cifratura, anche nel settore governativo per quanto riguarda i requisiti di sicurezza delle comunicazioni (COMSEC) e Common Criteria (CC).",
+    "",
+    "Conoscenza approfondita dello sviluppo di «prodotti» distribuiti come software facile da installare e in formato appliance, per un dispiegamento semplice da parte dei reparti IT. ",
+    "",
+    "Ho lavorato con Philip Zimmermann alla progettazione di un protocollo di trasporto cifrato su commutazione di circuito basato su ZRTP.",
+    "",
+    "L’azienda è nata con un nome diverso, KHAMSA SA, come società svizzera, insieme alla consociata KHAMSA ITALIA SRL."
+   ]
+  },
+  {
+   "id": "275644485",
+   "title": "Consulente per la sicurezza",
+   "org": "BV-Tech (S.p.A)",
+   "location": "Milan, Lombardy, Italy",
+   "start": "2011-06",
+   "end": "2013-06",
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Consulenza su tecnologie di sicurezza (sicurezza delle comunicazioni, anonimato, intelligence) e sviluppo commerciale internazionale (partnership industriali, gare internazionali)"
+   ]
+  },
+  {
+   "id": "930592",
+   "title": "Consulente senior di sicurezza delle informazioni",
+   "org": "Telecom Italia S.p.A.",
+   "location": "",
+   "start": "2004-06",
+   "end": "2007-01",
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Riportavo al CTO Security del Corporate di Telecom Italia SpA su:",
+    "",
+    "counter intelligence",
+    "consulenza di sicurezza per la strategia di sicurezza aziendale",
+    "ricerca sulla sicurezza delle informazioni (incl. revisione dei progetti TILab)",
+    "revisione delle policy di sicurezza",
+    "early warning",
+    "open source intelligence",
+    "gestione degli incidenti"
+   ]
+  },
+  {
+   "id": "641523",
+   "title": "Responsabile della sicurezza di rete",
+   "org": "I.NET",
+   "location": "",
+   "start": "2001-08",
+   "end": "2004-05",
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Responsabile dell’offerta di servizi di sicurezza delle informazioni e dell’analisi delle minacce interne.",
+    "Ho lavorato in un team di 3 persone con budget dedicato e piena autonomia.",
+    "Ho sviluppato il nuovo portafoglio di servizi gestiti di sicurezza delle informazioni dell’azienda (product management).",
+    "Ideazione di prodotti e servizi.",
+    "Creazione di partnership con vendor software e società di consulenza.",
+    "Gestione dei progetti dei grandi clienti.",
+    "Progettazione e realizzazione dell’infrastruttura del Security Operation Center.",
+    "Organizzazione di corsi per la forza vendita e per gli ingegneri di sicurezza sui nuovi servizi."
+   ]
+  },
+  {
+   "id": "7291485",
+   "title": "Giornalista freelance",
+   "org": "WeekIT - Mondadori",
+   "location": "",
+   "start": "2001-01",
+   "end": "2001-12",
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Come giornalista freelance scrivevo articoli su notizie, prodotti e tecnologie della sicurezza ICT per il settimanale WeekIT."
+   ]
+  },
+  {
+   "id": "7291252",
+   "title": "CTO",
+   "org": "Live Network Security SRL",
+   "location": "",
+   "start": "2001-05",
+   "end": "2001-07",
+   "employment_type": "",
+   "location_type": "",
+   "description": [
+    "Senior Security Analyst.",
+    "Lavoro alla creazione dell’offerta di consulenza di sicurezza dell’azienda.",
+    "Sviluppo del concept di prodotto.",
+    "Seguire i clienti con attività di pre-vendita.",
+    "Gestione del team di penetration testing.",
+    "Valutazione e implementazione di firewall e IPS personalizzati."
+   ]
+  }
+ ],
+ "not_extracted_yet": [
+  "education",
+  "skills",
+  "certifications",
+  "languages",
+  "publications",
+  "honors"
+ ],
+ "patents": [
+  {
+   "title": "Metodi di gestione sicura di identità multiple per un servizio di messaggistica centralizzato",
+   "number": "WO2008015721",
+   "status": "pending",
+   "filed": "2007-08-02",
+   "url": "https://patents.google.com/patent/WO2008015721A2/en",
+   "description": [
+    "Domanda di brevetto internazionale PCT/IT2007/000558 (WO2008015721), depositata anche presso l’Ufficio europeo dei brevetti come EP2057808. Priorità italiana RM2006A000425 del 4 agosto 2006. Richiedente: KHAMSA Italia S.r.l. (poi PrivateWave). Inventori: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti.",
+    "Metodi per la gestione sicura di identità multiple di un utente su un servizio di messaggistica centralizzato."
+   ]
+  },
+  {
+   "title": "Metodo per registrare una trasmissione digitale di informazioni non ripudiabile e per identificare i partecipanti alla comunicazione",
+   "number": "WO2008015723",
+   "status": "pending",
+   "filed": "2007-08-03",
+   "url": "https://patents.google.com/patent/WO2008015723A2/en",
+   "description": [
+    "Domanda di brevetto internazionale PCT/IT2007/000565 (WO2008015723), depositata anche presso l’Ufficio europeo dei brevetti come EP2057777. Priorità del 4 agosto 2006. Richiedente: KHAMSA Italia S.r.l. (poi PrivateWave). Inventori: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti.",
+    "Un metodo per registrare una trasmissione digitale di informazioni non ripudiabile e per identificare i partecipanti alla comunicazione, utilizzando chiavi asimmetriche."
+   ]
+  }
+ ],
+ "volunteering": [
+  {
+   "org": "AVIS - Associazione Volontari Italiani del Sangue",
+   "role": "Donatore di sangue e plasma",
+   "cause": "Health",
+   "current": true,
+   "description": "Donatore di sangue e plasma, quattro donazioni l’anno. Donare è la cosa più semplice e più certa che ciascuno di noi possa fare per qualcun altro: un’ora del proprio tempo. In Italia, trova l’AVIS della tua zona e prenota — c'è sempre carenza di plasma."
+  }
+ ]
+}
