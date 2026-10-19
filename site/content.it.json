@@ -1,0 +1,654 @@
+{
+ "_about": "Hand-written English content of the homepage. LinkedIn-owned fields (headline, About, experience) are NOT here: they are read from data/linkedin/en.json so the site cannot drift from the LinkedIn master. Everything marked draft needs Fabio's approval before publication.",
+ "lang": "it",
+ "meta": {
+  "title": "Fabio Pietrosanti — naif · 石风翱 — hacker, imprenditore, innovatore",
+  "description": "Fabio \"naif\" Pietrosanti (石风翱): hacker dal 1995, poi imprenditore e innovatore. Oggi biohacking, diritti digitali e sicurezza nazionale. Trent'anni di interventi, stampa, ricerca e lavoro open source, con fonti e copie locali."
+ },
+ "nav": [
+  [
+   "about",
+   "Chi è"
+  ],
+  [
+   "story",
+   "Storia"
+  ],
+  [
+   "focus",
+   "Adesso"
+  ],
+  [
+   "work",
+   "Lavoro"
+  ],
+  [
+   "projects",
+   "Progetti"
+  ],
+  [
+   "archive",
+   "Archivio"
+  ],
+  [
+   "books",
+   "Libri"
+  ],
+  [
+   "communities",
+   "Comunità"
+  ],
+  [
+   "past",
+   "Passato"
+  ],
+  [
+   "contact",
+   "Contatti"
+  ]
+ ],
+ "hero": {
+  "kicker": "Hacker dal 1995 · Milano · Dubai · Shenzhen",
+  "aka": "naif · 石风翱",
+  "links": [
+   [
+    "LinkedIn",
+    "https://www.linkedin.com/in/secret/"
+   ],
+   [
+    "GitHub",
+    "https://github.com/fpietrosanti"
+   ],
+   [
+    "Hermes Center",
+    "https://www.hermescenter.org"
+   ],
+   [
+    "GlobaLeaks",
+    "https://www.globaleaks.org"
+   ],
+   [
+    "biohack.it",
+    "https://biohack.it"
+   ]
+  ]
+ },
+ "stats_labels": {
+  "years": "anni nella sicurezza informatica",
+  "talks": "interventi, panel e workshop",
+  "press": "citazioni su stampa, TV e radio",
+  "writing": "articoli, paper e contributi di ricerca",
+  "projects": "progetti documentati"
+ },
+ "section_titles": {
+  "about": [
+   "Chi è",
+   "La versione breve — lo stesso testo che c'è su LinkedIn."
+  ],
+  "story": [
+   "La versione lunga",
+   "Tre decenni, raccontati attraverso quello che è stato costruito e quello che ha cambiato."
+  ],
+  "work": [
+   "Lavoro",
+   "Ruoli e aziende. Titoli e date sono identici a LinkedIn; qui i dettagli sono ampliati."
+  ],
+  "projects": [
+   "Progetti",
+   "Software, ricerca, campagne e qualcuno mai partito — con le fonti di ciascuno."
+  ],
+  "archive": [
+   "Interventi, stampa e scritti",
+   "Ogni fonte verificata trovata finora, dal 1998 a oggi: filtra, cerca, apri l'originale o la sua copia archiviata."
+  ],
+  "communities": [
+   "Comunità",
+   "Dove avviene davvero gran parte del lavoro."
+  ],
+  "past": [
+   "Siti passati",
+   "Vecchie pagine personali, ricostruite dal Web Archive."
+  ],
+  "contact": [
+   "Contatti",
+   "Advisory, posizioni nei board, partnership, stampa e interventi pubblici: benvenuti."
+  ],
+  "focus": [
+   "Cinque fili",
+   "Hacker dal 1995 — quello non finisce mai. Hacktivismo open source dal 1997, cybersecurity dal 2001, e i tre che contano di più adesso."
+  ],
+  "artifacts": [
+   "Dall'archivio",
+   "Slide di apertura dei suoi interventi, 2002–2010 — le presentazioni complete sono nell'archivio."
+  ],
+  "books": [
+   "Libri — citazioni e contributi",
+   "Libri che lo intervistano, lo citano, lo ringraziano o lo riportano in bibliografia, e cosa dice ciascuno."
+  ]
+ },
+ "story": [
+  {
+   "years": "1995–2004",
+   "title": "La scena hacker e i primi lavori nella sicurezza",
+   "body": [
+    "Fabio ha iniziato a occuparsi di sicurezza informatica nel 1995 dentro la comunità hacker italiana, dove è ancora conosciuto come <b>naif</b>. Alla fine degli anni Novanta scriveva su <i>BFi</i> (la e-zine di s0ftpj) e contribuiva alla documentazione italiana su Linux, come <i>Linux Domande e Risposte</i>.",
+    "Nel 2000–2001 ha cofondato <b>Sikurezza.org</b>, una delle comunità e mailing list italiane di riferimento sulla sicurezza, ed è stato socio fondatore degli <b>Italian Black Hats</b>, nati allo SMAU 2001. Nel 2002 <i>La Stampa</i> ha seguito lui e altri Black Hats in giro per Milano a testare la sicurezza delle reti wireless.",
+    "Intanto l'hobby è diventato professione: CTO di Live Network Security, autore freelance di ICT security per <i>WeekIT</i> di Mondadori e per <i>ICT Security</i>, network security manager in I.NET — dove ha progettato un Security Operation Center — e dal 2004 senior information security consultant alle dipendenze del security CTO di Telecom Italia. Gli interventi di quegli anni riguardano l'insicurezza del wireless (Webbit, SMAU, CNR), la comunicazione anonima (hack.lu 2006) e PGP (e-privacy 2005)."
+   ]
+  },
+  {
+   "years": "2005–2014",
+   "title": "La cifratura della voce e l'onestà del mercato crypto",
+   "body": [
+    "Nel 2005 ha cofondato KHAMSA, poi <b>PrivateWave Italia</b>, costruendo cifratura di voce e messaggi su mobile (PrivateGSM) per governi e imprese, e ha lavorato con Philip Zimmermann a un trasporto cifrato basato su ZRTP per le reti a commutazione di circuito. Nel 2011 PrivateWave ha rilasciato <b>ZORG</b>, un'implementazione open source di ZRTP in C++ e Java — l'anno in cui ZRTP è diventato RFC 6189.",
+    "Da quel lavoro sono nati due brevetti internazionali, depositati da KHAMSA Italia con Federico Moro e Lorenzo Boccaccia: <b>WO2008015721</b> / EP2057808, gestione sicura di identità multiple nei servizi di messaggistica centralizzati, e <b>WO2008015723</b> / EP2057777, un metodo per registrare una comunicazione digitale non ripudiabile e identificarne i partecipanti (vedi <a href=\"#patents\">Brevetti</a>).",
+    "Sul suo blog <i>infosecurity.ch</i> ha scritto di sicurezza mobile e della voce e ha mostrato come funzionavano pezzi di quel mercato: nel 2010 ha dimostrato che una recensione presentata come indipendente di prodotti di cifratura vocale era riconducibile a uno dei fornitori (ripresa da <i>The Register</i>), e ha scritto contro le affermazioni da snake oil e i “contest di hacking” di marketing. Con altri ha rilasciato <b>OSXCrypt</b> (2008), un tentativo di portare su macOS la cifratura del disco compatibile con TrueCrypt."
+   ]
+  },
+  {
+   "years": "2010–today",
+   "title": "Infrastrutture per il whistleblowing e l'anonimato",
+   "body": [
+    "Nel 2010 ha avviato <b>GlobaLeaks</b>, software libero per segnalazioni sicure e anonime, e nel dicembre 2010 ci ha costruito attorno l'<b>Hermes Center for Transparency and Digital Human Rights</b>; dal 2018 Hermes è membro di European Digital Rights (EDRi). Hermes ha anche riscritto e mantenuto <b>Tor2web</b>, il gateway che permette ai browser comuni di raggiungere i servizi onion di Tor.",
+    "GlobaLeaks è diventato la base di piattaforme di whistleblowing gestite da redazioni, ONG ed enti pubblici — da Publeaks nei Paesi Bassi e IRPILeaks ai canali anticorruzione con Transparency International Italia e, più tardi, con l'autorità anticorruzione italiana. Dal 2016 <b>Whistleblowing Solutions</b>, impresa sociale non profit, trasforma quella tecnologia in un servizio sostenibile.",
+    "Dal 2011 frequenta stabilmente la comunità Tor: gestisce exit relay e nodi Tor2web, partecipa ai meeting internazionali degli sviluppatori Tor e apre ticket che hanno cambiato Tor stesso — <code>OutboundBindAddressExit</code>, rilasciato in Tor 0.3.0, nasce dalla sua proposta del 2016 per exit relay a bassa responsabilità."
+   ]
+  },
+  {
+   "years": "2016–2022",
+   "title": "Policy, sorveglianza e democrazia",
+   "body": [
+    "Lo stesso metodo si è spostato sulle politiche pubbliche. Nel 2017 è stato tra i proponenti della proposta di legge italiana sui trojan di Stato (<i>captatori informatici</i>) presentata da Stefano Quintarelli, e ha portato il tema a e-privacy, a Freedom Not Fear a Bruxelles e al CCC. Ha condotto la campagna del 2017 che ha spinto VideoLAN a distribuire VLC su HTTPS, ha mappato i rischi del software Kaspersky nella pubblica amministrazione italiana (Euronews 2018, di nuovo nel 2022) e ha usato richieste FOIA per monitorare la sorveglianza.",
+    "Sul voto elettronico ha scritto la <i>Guida Hermes al voto digitale</i>, ha analizzato il referendum lombardo del 2017 con voto elettronico, ha animato il comitato <b>CRVD</b>, ha studiato come gli italiani all'estero potrebbero votare ai seggi (lo studio AIRE) e, con <b>OpenRousseau</b>, ha mostrato le debolezze della piattaforma Rousseau del Movimento 5 Stelle — anche votandoci due volte.",
+    "Nel 2022 <b>Monitora PA</b>, progetto di civic hacking condotto con Hermes e con volontari, ha spinto migliaia di pubbliche amministrazioni italiane a rimuovere Google Analytics."
+   ]
+  },
+  {
+   "years": "2012–2025",
+   "title": "Pacchi, logistica e finanza algoritmica",
+   "body": [
+    "Per tredici anni ha lavorato nella filiale GLS di corriere espresso della famiglia, a Latina, portando automazione, sistemi di misurazione, controllo dei costi e consegna ecologica dell'ultimo miglio in un'attività che muove pacchi per mestiere. Da quel lavoro sono nati <b>Haulersense</b> (computer vision e recupero dei ricavi per i corrieri), <b>LESS.green</b> e <b>OpenPUDO</b> — software open source per reti di punti di ritiro e consegna — e <b>PLogistics</b>, un'operazione di fulfilment per l'e-commerce. Nel 2022 ha insegnato la logistica dei punti di ritiro all'Università LIUC.",
+    "Dal 2019 guida <b>SignalSwarm</b> a Dubai: una piattaforma di trading completamente automatizzata e market neutral e il servizio di asset management costruito su di essa."
+   ]
+  },
+  {
+   "years": "2023–today",
+   "title": "Biohacking e dati umani aperti",
+   "body": [
+    "Dal 2023 costruisce <b>biohack.it</b> con la Hacking Biology Foundation: infrastruttura non profit, con licenza AGPL, dove chi si auto-sperimenta documenta protocolli e biomarcatori con codifica standard, così che i singoli esperimenti diventino dati umani confrontabili. Ne ha parlato su Rai 1 (<i>Codice</i>), Rai Radio 1 (<i>Codice Beta</i>) e al forum biohacker TimePie di Shanghai."
+   ]
+  }
+ ],
+ "areas": {
+  "whistleblowing": "Whistleblowing",
+  "anonimato": "Anonimato e Tor",
+  "anonimato / Tor": "Anonimato e Tor",
+  "cifratura": "Cifratura",
+  "ricerca / crittografia": "Cifratura",
+  "advocacy": "Diritti digitali",
+  "policy": "Sorveglianza e policy",
+  "sicurezza / advocacy": "Ricerca sulla sicurezza",
+  "ricerca / sicurezza": "Ricerca sulla sicurezza",
+  "ricerca": "Ricerca sulla sicurezza",
+  "ricerca / trasparenza": "Ricerca sulla trasparenza",
+  "voto elettronico": "Voto elettronico e democrazia",
+  "privacy PA": "Privacy nella PA",
+  "sicurezza nazionale": "Cybersicurezza nazionale",
+  "sovranità digitale": "Sovranità digitale",
+  "comunità hacker": "Comunità hacker",
+  "biohacking": "Biohacking",
+  "logistica": "Logistica",
+  "logistica / insegnamento": "Logistica",
+  "civico": "Civico",
+  "covid / dati": "COVID-19",
+  "covid / sicurezza": "COVID-19"
+ },
+ "projects": {
+  "GlobaLeaks": [
+   "Software libero e open source per segnalazioni sicure e anonime, avviato nel 2010 e usato in tutto il mondo da redazioni, ONG, aziende e pubbliche amministrazioni.",
+   "https://www.globaleaks.org"
+  ],
+  "Tor2web": [
+   "Gateway che permette ai browser comuni di raggiungere i servizi onion di Tor. Creato in origine da Aaron Swartz e Virgil Griffith, riscritto e mantenuto dall'Hermes Center dal 2011.",
+   "https://github.com/tor2web/Tor2web"
+  ],
+  "Hermes Center for Transparency and Digital Human Rights": [
+   "Associazione non profit fondata nel dicembre 2010 per sviluppare tecnologie di trasparenza e anonimato e fare advocacy sui diritti digitali. Membro EDRi dal 2018.",
+   "https://www.hermescenter.org"
+  ],
+  "Whistleblowing Solutions / WhistleblowingPA": [
+   "Impresa sociale non profit (2016) che offre GlobaLeaks come servizio; WhistleblowingPA ha messo a disposizione delle pubbliche amministrazioni italiane un canale di whistleblowing gratuito.",
+   "https://www.whistleblowingsolutions.it"
+  ],
+  "PrivateGSM / PrivateWave (cifratura voce mobile)": [
+   "Cifratura di voce e messaggi su mobile per governi e imprese, realizzata da PrivateWave Italia (2005–2014), con soluzioni basate su ZRTP sviluppate con Philip Zimmermann.",
+   ""
+  ],
+  "ZORG — implementazione open source di ZRTP": [
+   "Implementazione open source di ZRTP in C++ e Java rilasciata da PrivateWave nel gennaio 2011.",
+   ""
+  ],
+  "OSXCrypt": [
+   "Rilascio open source del 2008 che portava su macOS la cifratura del disco compatibile con TrueCrypt, con Orlando Bassotto e Matteo Flora.",
+   "past/osxcrypt.org/"
+  ],
+  "Tor exit node e honeypot sugli hidden service": [
+   "Gestione di nodi exit Tor e Tor2web dal 2011 e studio degli abusi e del traffico anomalo che li attraversa.",
+   ""
+  ],
+  "Trojans and Rule of Law — proposta di legge sui captatori informatici (trojan di Stato)": [
+   "Proposta di legge italiana sui captatori informatici presentata da Stefano Quintarelli nel 2017; Fabio è stato tra i proponenti, insieme ad avvocati e tecnologi. Presentata in Italia, al CCC e a Freedom Not Fear a Bruxelles.",
+   "https://trojansandruleoflaw.org"
+  ],
+  "Guida Hermes al voto digitale": [
+   "Guida dell'Hermes Center ai rischi del voto digitale (2017).",
+   ""
+  ],
+  "CRVD voto elettronico": [
+   "Comitato sui requisiti del voto in democrazia: analisi e articoli sul voto elettronico (2018–2020). Sito preservato nel 2026.",
+   "https://hermescenter.github.io/crvd.org-preservation/"
+  ],
+  "Progetto AIRE (voto degli italiani all'estero)": [
+   "Studio del 2019 sulla geolocalizzazione degli italiani iscritti all'estero: 80 seggi all'estero coprirebbero più dell'86% degli elettori — un'alternativa al voto online.",
+   ""
+  ],
+  "OpenRousseau": [
+   "Contro-piattaforma open source (2020) che ha messo in luce le debolezze del sistema di voto Rousseau del Movimento 5 Stelle.",
+   ""
+  ],
+  "Voto elettronico referendum Lombardia 2017 (analisi)": [
+   "Analisi e richieste FOIA sulle macchine di voto usate nel referendum lombardo sull'autonomia del 2017.",
+   ""
+  ],
+  "Monitora PA (rimozione Google Analytics dalla PA)": [
+   "Progetto di civic hacking (2022) che ha misurato i siti pubblici italiani e spinto migliaia di amministrazioni a rimuovere Google Analytics.",
+   "https://monitora-pa.it"
+  ],
+  "Kaspersky: matrice dei rischi e uso nella PA italiana (2018, 2022)": [
+   "Matrice dei rischi dell'uso del software Kaspersky nella pubblica amministrazione italiana, nell'ipotesi che il fornitore fosse costretto a collaborare con il governo russo (2018, aggiornata nel 2022).",
+   "https://github.com/fpietrosanti/kaspersky-risks"
+  ],
+  "mxmap.it / Osservatorio Nazionale Sovranità Digitale": [
+   "Mappa di quali provider gestiscono la posta elettronica delle pubbliche amministrazioni italiane e osservatorio sulla sovranità digitale (2026).",
+   "https://mxmap.it"
+  ],
+  "Italian Hacker Camp / Italian Hacker Embassy / End Summer Camp": [
+   "I raduni hacker italiani: End Summer Camp a Venezia, l'Italian Hacker Camp a Padova e il villaggio Italian Hacker Embassy ai camp olandesi e tedeschi (dal CCCamp 2007).",
+   "https://www.ihc.camp"
+  ],
+  "Sikurezza.org": [
+   "Comunità e mailing list italiane sulla sicurezza, cofondate attorno al 2000; presentate a Webbit e al Security Summit.",
+   ""
+  ],
+  "Italian Black Hats": [
+   "Associazione di ricercatori di sicurezza italiani nata allo SMAU 2001; socio fondatore.",
+   ""
+  ],
+  "biohack.it / Hacking Biology Foundation": [
+   "Infrastruttura aperta per l'auto-sperimentazione umana strutturata: protocolli, biomarcatori con codifica standard e risultati condivisi (AGPL-3.0, non profit, dal 2023).",
+   "https://biohack.it"
+  ],
+  "LESS.green — last mile sostenibile": [
+   "Start-up tecnologica non profit per la consegna dell'ultimo miglio a basse emissioni nell'e-commerce (2020–2023), con il software pubblicato su GitHub.",
+   "https://github.com/lessgreen"
+  ],
+  "Haulersense": [
+   "Strumenti di AI e computer vision per i corrieri: recupero dei ricavi su peso e volume, telemetria delle macchine per pacchi e analytics sulle spedizioni (2019–2023).",
+   ""
+  ],
+  "Aeroporto di Latina": [
+   "Campagna civica per l'aeroporto di Latina come terzo aeroporto del Lazio (2026).",
+   ""
+  ],
+  "Sendmail.cf backdoor, chrooted, firewall script (codice 2000–2002)": [
+   "Primo codice e prime ricerche di sicurezza, pubblicati tra il 2000 e il 2002.",
+   ""
+  ],
+  "OSSCI / OSPCI — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (progetto mai partito)": [
+   "Proposta (2019) per un osservatorio che misurasse attivamente la sicurezza del perimetro cibernetico nazionale italiano, rivista da decine di ingegneri e avvocati e sostenuta da più di 250 persone — anni prima che esistesse l'agenzia nazionale per la cybersicurezza. Non è mai partito.",
+   "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano"
+  ],
+  "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)": [
+   "Proposta (marzo 2020) per usare i dati di cella delle reti mobili a supporto del contact tracing COVID-19, con SMS geolocalizzati verso i cluster dei focolai e avvisi di quarantena, senza fornire alle autorità pubbliche identità o posizioni individuali. Fabio è stato l'autore principale; pareri legali di Stefano Aterno, Carlo Piana, Saetta, Perri, Simbula, Monte, Gallus, Lisi e Pelino, commenti di Gerardo Costabile, Agostini e Dirani. Non è mai partito.",
+   "https://docs.google.com/document/d/1vb1g7xYqLuFyml25vB2da5gfh9LbwQ82YYFxqcfcCrk"
+  ],
+  "COVID-19: vulnerabilità dell'app COVID della Regione Lazio (con Giovanni Rocca)": [
+   "Audit di sicurezza dell'app COVID della Regione Lazio LAZIOdrCOVID con Giovanni Rocca (29 marzo 2020), svolto con il codice fiscale di Fabio: chiave DES fissa, verifiche via SMS illimitate, un token che apriva i referti di qualsiasi paziente. La falla principale è stata corretta in circa sei ore.",
+   "http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/"
+  ],
+  "OpenPUDO — primo software open source per reti PUDO (LESS)": [
+   "Software open source per reti di punti di ritiro e consegna, rilasciato da LESS nel 2021.",
+   "https://github.com/lessgreen"
+  ],
+  "ifuriosi.it — archivio delle evidenze e pubblicità Philip Morris ricondotta a Casaleggio Associati": [
+   "Archivio di evidenze (2020) che collega il sito ifuriosi.it e la sua pubblicità Philip Morris a infrastrutture condivise con Casaleggio Associati.",
+   "https://github.com/fpietrosanti/ifuriosi"
+  ],
+  "LIUC 2022 — intervento sui punti di ritiro PUDO al convegno SOS LOGistica «Costruire comunità sostenibili»": [
+   "Lezione sui punti di ritiro al convegno dell'Università LIUC con SOS LOGistica (29 settembre 2022).",
+   "https://youtu.be/bPXna2KujUE?t=6898"
+  ],
+  "SecurStar/PhoneCrypt — debunking di una falsa «ricerca indipendente» sulla cifratura voce": [
+   "Evidenze del 2010 che una recensione presentata come indipendente di prodotti di cifratura vocale era condotta da uno dei fornitori; ripresa da The Register.",
+   ""
+  ],
+  "Snake oil nella cifratura voce: marketing e affermazioni di sicurezza non verificabili": [
+   "Scritti del 2009–2010 contro le affermazioni di sicurezza non verificabili e i contest di marketing nella cifratura vocale.",
+   ""
+  ],
+  "Tor exit node a bassa responsabilità (2011–2017) — ticket #17975 implementato in Tor 0.3.0": [
+   "Dal gestire un exit node al cambiare Tor: la proposta di indirizzi di uscita dedicati al solo traffico in uscita è diventata OutboundBindAddressExit in Tor 0.3.0.",
+   "https://gitlab.torproject.org/tpo/core/tor/-/issues/17975"
+  ],
+  "Analisi della sicurezza e della scelta delle curve ellittiche (ECC)": [
+   "Analisi del 2010 sulle scelte delle curve ellittiche nei prodotti crittografici proprietari.",
+   ""
+  ],
+  "VLC over HTTPS — campagna per il download sicuro di VLC e degli eseguibili («la trollata sul TLS»)": [
+   "Campagna del 2017 dopo i leak sulla CIA: ticket, un censimento di 35 mirror HTTPS e una proof of concept hanno spinto VideoLAN verso i download in HTTPS.",
+   "https://code.videolan.org/videolan/vlc/-/issues/18472"
+  ]
+ },
+ "project_titles": {
+  "PrivateGSM / PrivateWave (cifratura voce mobile)": "PrivateGSM / PrivateWave",
+  "ZORG — implementazione open source di ZRTP": "ZORG — ZRTP open source",
+  "Tor exit node e honeypot sugli hidden service": "Nodi Tor exit e Tor2web",
+  "Trojans and Rule of Law — proposta di legge sui captatori informatici (trojan di Stato)": "Trojans and Rule of Law",
+  "Guida Hermes al voto digitale": "Guida Hermes al voto digitale",
+  "CRVD voto elettronico": "CRVD — comitato sul voto elettronico",
+  "Progetto AIRE (voto degli italiani all'estero)": "AIRE — voto dall'estero",
+  "Voto elettronico referendum Lombardia 2017 (analisi)": "Analisi voto elettronico Lombardia 2017",
+  "Monitora PA (rimozione Google Analytics dalla PA)": "Monitora PA",
+  "Kaspersky: matrice dei rischi e uso nella PA italiana (2018, 2022)": "Matrice dei rischi Kaspersky",
+  "mxmap.it / Osservatorio Nazionale Sovranità Digitale": "mxmap.it",
+  "Italian Hacker Camp / Italian Hacker Embassy / End Summer Camp": "Italian Hacker Camp & Embassy",
+  "biohack.it / Hacking Biology Foundation": "biohack.it",
+  "LESS.green — last mile sostenibile": "LESS.green",
+  "Aeroporto di Latina": "Campagna Aeroporto di Latina",
+  "Sendmail.cf backdoor, chrooted, firewall script (codice 2000–2002)": "Primo codice di sicurezza",
+  "OSSCI / OSPCI — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (progetto mai partito)": "OSSCI — osservatorio sul perimetro cibernetico nazionale",
+  "COVID-19: mappatura dei focolai con i dati di cella (progetto mai partito)": "Mappatura dei focolai COVID-19",
+  "COVID-19: vulnerabilità dell'app COVID della Regione Lazio (con Giovanni Rocca)": "Analisi dell'app COVID del Lazio",
+  "OpenPUDO — primo software open source per reti PUDO (LESS)": "OpenPUDO",
+  "ifuriosi.it — archivio delle evidenze e pubblicità Philip Morris ricondotta a Casaleggio Associati": "ifuriosi.it — archivio delle evidenze",
+  "LIUC 2022 — intervento sui punti di ritiro PUDO al convegno SOS LOGistica «Costruire comunità sostenibili»": "LIUC 2022 — punti di ritiro",
+  "SecurStar/PhoneCrypt — debunking di una falsa «ricerca indipendente» sulla cifratura voce": "Il caso SecurStar",
+  "Snake oil nella cifratura voce: marketing e affermazioni di sicurezza non verificabili": "Snake oil nella cifratura vocale",
+  "Tor exit node a bassa responsabilità (2011–2017) — ticket #17975 implementato in Tor 0.3.0": "Exit node Tor a bassa responsabilità",
+  "Analisi della sicurezza e della scelta delle curve ellittiche (ECC)": "Scelta delle curve ellittiche",
+  "VLC over HTTPS — campagna per il download sicuro di VLC e degli eseguibili («la trollata sul TLS»)": "VLC over HTTPS"
+ },
+ "never_started_marker": "mai partito",
+ "archive_ui": {
+  "search": "Cerca titoli, testate, note…",
+  "all": "Tutti",
+  "cats": {
+   "talks": "Interventi ed eventi",
+   "press": "Stampa",
+   "av": "TV, radio e video",
+   "writing": "Scritti",
+   "research": "Ricerca, codice e citazioni"
+  },
+  "source": "fonte",
+  "copy": "copia locale",
+  "count": "voci",
+  "none": "Nessun risultato.",
+  "wayback": "Web Archive"
+ },
+ "communities": [
+  [
+   "Hermes Center & GlobaLeaks",
+   "Cofondatore e presidente dal 2010. Membro EDRi dal 2018."
+  ],
+  [
+   "Comunità hacker italiana",
+   "Dal 1995: s0ftpj/BFi, Sikurezza.org, Italian Black Hats, Hackmeeting, End Summer Camp, l'Italian Hacker Camp e l'Italian Hacker Embassy al CCCamp, HAR, OHM, SHA e al Chaos Communication Congress."
+  ],
+  [
+   "Tor Project",
+   "Presenza costante nella comunità Tor: operatore di exit relay Tor e di nodi Tor2web, partecipante ai meeting internazionali degli sviluppatori Tor, autore di ticket e proposte — due delle quali rilasciate in Tor 0.2.6 e 0.3.0."
+  ],
+  [
+   "Progetto Winston Smith & e-privacy",
+   "Relatore, moderatore e presentatore dei Big Brother Awards a e-privacy dal 2005."
+  ],
+  [
+   "Transparency International Italia",
+   "Socio dal 2014 al 2021, ponte con Hermes sul whistleblowing."
+  ],
+  [
+   "Copernicani",
+   "Socio: gruppo di lavoro sul voto online (2019), dialoghi sul riconoscimento facciale (2020) e sulle privacy coin (2023)."
+  ]
+ ],
+ "past_sites": [
+  [
+   "OSXCrypt — osxcrypt.org (2007–2008)",
+   "past/osxcrypt.org/"
+  ],
+  [
+   "Sito da adolescente — panservice.it (1997–1998)",
+   "past/panservice.it-people-madoka/"
+  ],
+  [
+   "naif.itapac.net (2003)",
+   "past/naif.itapac.net/"
+  ],
+  [
+   "naif.itapac.net (2005)",
+   "past/naif.itapac.net-2005/"
+  ]
+ ],
+ "footer": {
+  "sync": "Headline, Chi è e Lavoro sono mantenuti identici al profilo LinkedIn (ultima sincronizzazione {date}).",
+  "draft": "Bozza — non ancora pubblicata."
+ },
+ "patents_title": "Brevetti",
+ "patents": [
+  {
+   "title": "Metodi di gestione sicura di identità multiple per un servizio di messaggistica centralizzato",
+   "refs": "WO2008015721 (PCT/IT2007/000558) · EP2057808 · priorità IT RM2006A000425",
+   "dates": "Priorità 4 ago 2006 · deposito PCT 2 ago 2007 · pubblicato 7 feb 2008",
+   "who": "Inventori: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti · Richiedente: KHAMSA Italia S.r.l.",
+   "links": [
+    [
+     "Google Patents",
+     "https://patents.google.com/patent/WO2008015721A2/en"
+    ],
+    [
+     "WIPO Patentscope",
+     "https://patentscope.wipo.int/search/en/WO2008015721"
+    ],
+    [
+     "Espacenet",
+     "https://worldwide.espacenet.com/patent/search?q=pn%3DWO2008015721A2"
+    ],
+    [
+     "EP2057808",
+     "https://patents.google.com/patent/EP2057808A2/en"
+    ],
+    [
+     "Priorità IT",
+     "https://patents.google.com/patent/ITRM20060425A1/en"
+    ]
+   ],
+   "local": "copies/patents/WO2008015721A2.pdf"
+  },
+  {
+   "title": "Metodo per registrare una trasmissione digitale di informazioni non ripudiabile e identificare i partecipanti alla comunicazione",
+   "refs": "WO2008015723 (PCT/IT2007/000565) · EP2057777",
+   "dates": "Priorità 4 ago 2006 · deposito PCT 3 ago 2007 · pubblicato 7 feb 2008",
+   "who": "Inventori: Federico Moro, Lorenzo Boccaccia, Fabio Pietrosanti · Richiedente: KHAMSA Italia S.r.l.",
+   "links": [
+    [
+     "Google Patents",
+     "https://patents.google.com/patent/WO2008015723A2/en"
+    ],
+    [
+     "WIPO Patentscope",
+     "https://patentscope.wipo.int/search/en/WO2008015723"
+    ],
+    [
+     "Espacenet",
+     "https://worldwide.espacenet.com/patent/search?q=pn%3DWO2008015723A2"
+    ],
+    [
+     "EP2057777",
+     "https://patents.google.com/patent/EP2057777A2/en"
+    ]
+   ],
+   "local": "copies/patents/WO2008015723A2.pdf"
+  }
+ ],
+ "identity": {
+  "first": "Fabio",
+  "last": "Pietrosanti",
+  "nick": "naif",
+  "zh": "石风翱",
+  "zh_note": "Shí Fēng'áo",
+  "roles": [
+   "Hacker",
+   "Imprenditore",
+   "Innovatore"
+  ],
+  "role_note": ""
+ },
+ "focus_now_title": [
+  "Cinque fili",
+  "Hacker dal 1995 — quello non finisce mai. Hacktivismo open source dal 1997, cybersecurity dal 2001, e i tre che contano di più adesso."
+ ],
+ "focus_now": [
+  {
+   "k": "Hacktivismo open source",
+   "since": "1997",
+   "now": false,
+   "text": "Dalla scena hacker italiana — la e-zine BFi, la documentazione italiana su Linux, Sikurezza.org, Hackmeeting, End Summer Camp — a una regola semplice mantenuta da allora: quello che costruisce esce come software libero. ZORG, OSXCrypt, Tor2web, GlobaLeaks, OpenPUDO, biohack.it.",
+   "links": [
+    [
+     "GitHub",
+     "https://github.com/fpietrosanti"
+    ],
+    [
+     "End Summer Camp",
+     "https://www.endsummercamp.org"
+    ]
+   ]
+  },
+  {
+   "k": "Cybersecurity",
+   "since": "2001",
+   "now": false,
+   "text": "La professione: security operation e analisi delle minacce in I.NET, counter-intelligence e ricerca sulla sicurezza in Telecom Italia, advisory pubblicati, gli Italian Black Hats, poi dieci anni di cifratura della voce su mobile in PrivateWave — due brevetti internazionali — e, da allora, lavoro sulla sicurezza fatto allo scoperto: la campagna VLC su HTTPS, i ticket su TLS e su Tor.",
+   "links": [
+    [
+     "Brevetti",
+     "#patents"
+    ],
+    [
+     "Archivio",
+     "#archive"
+    ]
+   ]
+  },
+  {
+   "k": "Diritti digitali",
+   "since": "2010",
+   "now": true,
+   "text": "Hermes Center e GlobaLeaks: tecnologie di whistleblowing e anonimato usate da redazioni, ONG ed enti pubblici, e l'advocacy che ci gira attorno — sorveglianza, trojan di Stato, biometria, privacy nella pubblica amministrazione.",
+   "links": [
+    [
+     "Hermes Center",
+     "https://www.hermescenter.org"
+    ],
+    [
+     "GlobaLeaks",
+     "https://www.globaleaks.org"
+    ]
+   ]
+  },
+  {
+   "k": "Sicurezza nazionale",
+   "since": "2018",
+   "now": true,
+   "text": "Misurare le dipendenze digitali di un Paese invece di discuterne: la matrice dei rischi Kaspersky, la proposta OSSCI per un osservatorio sul perimetro cibernetico nazionale e mxmap.it su chi gestisce davvero l'infrastruttura della pubblica amministrazione italiana.",
+   "links": [
+    [
+     "Rischi Kaspersky",
+     "https://github.com/fpietrosanti/kaspersky-risks"
+    ],
+    [
+     "OSSCI",
+     "https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano"
+    ],
+    [
+     "mxmap.it",
+     "https://mxmap.it"
+    ]
+   ]
+  },
+  {
+   "k": "Biohacking",
+   "since": "2023",
+   "now": true,
+   "text": "biohack.it e la Hacking Biology Foundation: infrastruttura aperta che trasforma l'auto-sperimentazione individuale in dati umani confrontabili — protocolli, biomarcatori con codifica standard, risultati pubblici.",
+   "links": [
+    [
+     "biohack.it",
+     "https://biohack.it"
+    ],
+    [
+     "Hacking Biology",
+     "https://github.com/hackingbiology"
+    ]
+   ]
+  }
+ ],
+ "artifacts_title": [
+  "Dall'archivio",
+  "Slide di apertura dei suoi interventi, 2002–2010 — le presentazioni complete sono nell'archivio."
+ ],
+ "focus_badge": "focus adesso",
+ "books_ui": {
+  "how": {
+   "protagonist": "protagonista",
+   "interviewed": "intervistato",
+   "quoted": "citato",
+   "mentioned": "menzionato",
+   "cited (bibliography)": "in bibliografia",
+   "contributor": "contributore",
+   "acknowledged": "ringraziato",
+   "profile": "profilo"
+  },
+  "source": "fonte",
+  "note": "Pagine e formulazioni provengono dalle copie archiviate o dalla ricerca interna dell'editore; dove la pagina non è nota, è lasciata in bianco. I libri non consultabili online sono ancora in verifica su carta."
+ },
+ "donor": {
+  "kicker": "Inoltre",
+  "title": "Donatore di sangue e plasma con AVIS — quattro volte l'anno",
+  "text": "Quattro donazioni all'anno, ogni anno. Di tutto quello che c'è in questa pagina, è l'unica cosa che chiunque può fare, e quella dall'effetto più certo: un'ora del tuo tempo, la vita di qualcun altro. Se sei in Italia, trova l'AVIS vicino a te e prenota una donazione — anche il plasma, ne manca sempre.",
+  "link": [
+   "Trova la tua AVIS",
+   "https://www.avis.it/"
+  ]
+ },
+ "projects_table": {
+  "year": "Anno",
+  "name": "Progetto",
+  "area": "Area",
+  "what": "Di cosa si tratta",
+  "links": "Fonti"
+ },
+ "books_table": {
+  "year": "Anno",
+  "title": "Libro",
+  "how": "Come compare",
+  "authors": "Autori / editore",
+  "what": "Cosa dice",
+  "links": "Fonti"
+ },
+ "contact_lines": [
+  "Scrivi su LinkedIn — è il modo più veloce per raggiungerlo.",
+  "Codice, dati e le fonti dietro questa pagina sono su GitHub.",
+  "Per stampa e interventi pubblici: l'archivio qui sopra contiene ogni intervento e ogni intervista, con i contatti degli organizzatori."
+ ]
+}
