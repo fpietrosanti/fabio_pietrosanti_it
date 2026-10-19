@@ -1453,51 +1453,61 @@
   },
   {
    "query": "\"Pietrosanti\" Coccagna OR ANAC whistleblowing piattaforma 2015 OR 2016",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
+   "date": "2026-10-19",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" \"Osservatorio europeo di giornalismo\" OR ejo.ch GlobaLeaks",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
+   "date": "2026-10-19",
+   "found": 4
   },
   {
    "query": "\"Fabio Pietrosanti\" Kaspersky 2017 Farnesina OR ministeri",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
+   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)"
   },
   {
    "query": "\"Pietrosanti\" Hermes \"diritti digitali\" convegno 2016 OR 2017",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
+   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)"
   },
   {
    "query": "\"Pietrosanti\" \"voto elettronico\" OR e-voting 2019 OR 2020",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
+   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)"
   },
   {
    "query": "\"Fabio Pietrosanti\" Copernicani 2019 OR 2020 OR 2021",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
+   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)"
   },
   {
    "query": "\"naif\" Pietrosanti \"Winston Smith\" OR \"e-privacy\" 2010 OR 2011",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
+   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)"
   },
   {
    "query": "\"Pietrosanti\" whistleblowing \"Transparency International\" 2022 OR 2023",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
-   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli"
+   "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
+   "retry_note": "2026-10-19 16:40: robot check Google"
   }
  ],
  "history": [
@@ -2121,6 +2131,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa, ma Google irraggiungibile: ERR_ADDRESS_UNREACHABLE su due tentativi (ricerca e home) a 10 s di distanza; curl verso google.com e github.com fallisce, web.archive.org risponde 200. Blocco di rete persistente come nell'esecuzione precedente. Nessuna ricerca, nessun robot check; le 8 query restano 'pending'. Push impossibile (github.com irraggiungibile): commit locali da spingere alla prossima esecuzione con rete."
+  },
+  {
+   "date": "2026-10-19 16:40",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": true,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Rete tornata, estensione connessa. 7 query eseguite, alla 8ª (Transparency International 2022-23) robot check Google: stop immediato, nessun tentativo di superarlo. NOVITÀ: Google ora restituisce link-redirect /goto?url=<token cifrato> invece degli URL reali, e lo strumento Chrome blocca l'output con query string; l'estrazione dei token e il loro inseguimento automatico in serie sono stati negati dal classificatore di sicurezza di Claude Code, quindi risolti (seguendo il link nel browser) solo i risultati delle query 1-2. 7 candidati verificati: 0 confermati nuovi (corriere 2018 buone-notizie, EJO ExpoLeaks e video YouTube 'Whistleblowing digitale con GlobaLeaks' già in archivio; tesi uniupo, relazione giustizia 2025, PDF senato senza il nome). Non verificabile: Radio Radicale scheda 479123 'Presentazione del primo monitoraggio italiano sul whistleblowing ed il prototipo di applicazione' (pagina resa via JS, partecipanti non leggibili) — da controllare a mano/Wayback. Query 3-7 (Kaspersky 2017, Hermes diritti digitali 2016-17, voto elettronico 2019-20, Copernicani 2019-21, naif Winston Smith 2010-11) e 8 rimesse in 'retry'. Titoli visti tra i loro risultati da controllare: startmag 'Anonymous, c'è un caso Kaspersky in Italia?', ilriformista 'Disinstallate Kaspersky dai PC', formiche 2022/03 Ferrari-Viminale, europa.today Kaspersky, wired 'Come sono riuscito a votare due volte su Rousseau', agendadigitale voto estero, key4biz comitato quantistico, theinnovationgroup speaker, copernicani 'Overlay Network Crittografici', open.gov.it Milano Digital Week, partecipami/radioradicale Milano Partecipa, CCC Camp 2011 Italian Embassy wiki, e-privacy VIII 2009/XXIII/XXX. archive_copies non eseguito (nessuna voce nuova)."
   }
  ]
 }
