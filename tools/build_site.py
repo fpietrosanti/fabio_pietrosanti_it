@@ -105,8 +105,8 @@ def media_items(ui=None):
     return out
 
 
-LANGS = [("en", "English", ""), ("it", "Italiano", "it/"), ("zh", "中文", "zh/")]
-LI_FILE = {"en": "en", "it": "it", "zh": "zh-CN"}
+LANGS = [("en", "English", ""), ("zh", "中文", "zh/")]
+LI_FILE = {"en": "en", "zh": "zh-CN"}
 
 
 def linkedin_for(lang):
@@ -213,6 +213,10 @@ def build(lang="en"):
                   + f'</tr></thead><tbody>{brows}</tbody></table>'
                   + f'<p class="note">{esc(bui.get("note", ""))}</p>') if book_list else ""
     contact = "".join(f"<p>{linkify(x)}</p>" for x in c.get("contact_lines", []))
+    wc = c.get("wechat") or {}
+    wechat = (f'<div class="wechat"><img src="{pre}assets/wechat.png" alt="WeChat QR code" width="132" height="132">'
+              f'<div><span class="wk">{esc(wc["label"])}</span><b>{esc(wc["handle"])}</b>'
+              f'<p>{esc(wc["note"])}</p></div></div>') if wc and (ROOT / "assets/wechat.png").exists() else ""
     dn = c.get("donor") or {}
     donor = (f'<div class="donor"><span class="dk">{esc(dn.get("kicker", ""))}</span>'
              f'<h3>{esc(dn.get("title", ""))}</h3><p>{esc(dn.get("text", ""))}</p>'
@@ -294,7 +298,7 @@ def build(lang="en"):
                             if not k.startswith("_")}, ensure_ascii=False),
         "H_COMM": head("communities", 9), "COMM": comm, "H_PAST": head("past", 10), "PAST": past,
         "H_CONTACT": head("contact", 11), "DONOR": donor, "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
-        "PORTRAIT": portrait, "MORE": esc(uiL.get("more", "Show more")), "LANGSW": langsw, "ALTS": alts, "BASE": base, "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
+        "PORTRAIT": portrait, "WECHAT": wechat, "MORE": esc(uiL.get("more", "Show more")), "LANGSW": langsw, "ALTS": alts, "BASE": base, "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
     }.items():
         page = page.replace("{{" + k + "}}", v)
     if lang != "en":

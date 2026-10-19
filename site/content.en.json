@@ -48,7 +48,7 @@
   ]
  ],
  "hero": {
-  "kicker": "Hacker since 1995 · Milano · Roma · Shenzhen · Dubai",
+  "kicker": "Hacking since 1995 · Milano · Roma · Shenzhen · Dubai",
   "aka": "naif · 石风翱",
   "links": [
    [
@@ -702,5 +702,10 @@
    "book": "book",
    "other": "other"
   }
+ },
+ "wechat": {
+  "label": "WeChat",
+  "handle": "fpietrosanti",
+  "note": "Scan the code or add the handle on WeChat."
  }
 }

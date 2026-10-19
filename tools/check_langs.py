@@ -1,4 +1,4 @@
-"""Check that the Italian and Chinese versions stay aligned with the English master.
+"""Check that the Chinese version stays aligned with the English master.
 
 English is the master for structure and facts:
   - site/content.<lang>.json must have exactly the same keys, list lengths and inline HTML as content.en.json;
@@ -15,8 +15,8 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-LANGS = ["it", "zh"]
-LI_FILE = {"it": "it", "zh": "zh-CN"}
+LANGS = ["zh"]
+LI_FILE = {"zh": "zh-CN"}
 URL = re.compile(r'https?://[^\s"<>)]+')
 TAG = re.compile(r"<[a-z/][^>]*>")
 
@@ -85,7 +85,7 @@ def main():
             a, b = count(en_page, pattern), count(page, pattern)
             if a != b:
                 problems.append(f"{lang}: {what}: {b} instead of {a}")
-    print(f"Language alignment: {'OK — it and zh match the English master' if not problems else f'{len(problems)} problem(s)'}")
+    print(f"Language alignment: {'OK — zh matches the English master' if not problems else f'{len(problems)} problem(s)'}")
     for p in problems:
         print("  -", p)
     sys.exit(1 if problems else 0)

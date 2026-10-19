@@ -48,7 +48,7 @@
   ]
  ],
  "hero": {
-  "kicker": "1995年起的黑客 · 米兰 · 罗马 · 深圳 · 迪拜",
+  "kicker": "1995 年起 hacking · 米兰 · 罗马 · 深圳 · 迪拜",
   "aka": "naif · 石风翱",
   "links": [
    [
@@ -702,5 +702,10 @@
    "book": "书籍",
    "other": "其他"
   }
+ },
+ "wechat": {
+  "label": "微信",
+  "handle": "fpietrosanti",
+  "note": "扫码或搜索微信号添加。"
  }
 }
