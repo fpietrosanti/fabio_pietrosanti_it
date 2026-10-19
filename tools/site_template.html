@@ -8,6 +8,7 @@
 <meta property="og:title" content="{{TITLE}}">
 <meta property="og:description" content="{{DESC}}">
 <meta property="og:type" content="profile">
+{{ALTS}}
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%230b0d0c'/><text x='32' y='46' font-family='serif' font-size='40' text-anchor='middle' fill='%235ddc9a'>石</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -70,6 +71,10 @@ nav.top .wrap::-webkit-scrollbar{display:none}
 nav.top .links{display:flex;gap:16px;margin-left:auto}
 nav.top .links a{font:500 13px var(--sans);color:var(--ink2);white-space:nowrap}
 nav.top .links a:hover,nav.top .links a.on{color:var(--acc);text-decoration:none}
+.langsw{display:flex;gap:6px;white-space:nowrap}
+.langsw a{font:500 12px var(--mono);color:var(--ink3);padding:4px 8px;border-radius:999px;border:1px solid transparent}
+.langsw a:hover{color:var(--acc);text-decoration:none}
+.langsw a.on{color:var(--bg);background:var(--acc);border-color:var(--acc)}
 #theme{font:500 12px var(--mono);background:none;border:1px solid var(--rule);color:var(--ink2);border-radius:999px;padding:4px 10px;cursor:pointer}
 /* sections */
 section{padding:76px 0;border-top:1px solid var(--line)}
@@ -292,6 +297,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
 <nav class="top"><div class="wrap">
   <a class="brand" href="#top">Pietrosanti <i>naif</i> <em>石风翱</em></a>
   <div class="links">{{NAV}}</div>
+  <div class="langsw">{{LANGSW}}</div>
   <button id="theme" aria-label="Toggle light and dark">◐</button>
 </div></nav>
 

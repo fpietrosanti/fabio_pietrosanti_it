@@ -102,8 +102,34 @@ def media_items():
     return out
 
 
+LANGS = [("en", "English", ""), ("it", "Italiano", "it/"), ("zh", "中文", "zh/")]
+LI_FILE = {"en": "en", "it": "it", "zh": "zh-CN"}
+
+
+def linkedin_for(lang):
+    """EN snapshot is the master; a translation file overlays headline/About/title/description by id."""
+    base = load(ROOT / "data/linkedin/en.json")
+    if lang == "en":
+        return base
+    tr = load(ROOT / f"data/linkedin/{LI_FILE[lang]}.json")
+    out = json.loads(json.dumps(base))
+    out["intro"]["headline"] = tr["intro"].get("headline") or out["intro"]["headline"]
+    out["about"] = tr.get("about") or out["about"]
+    by_id = {e["id"]: e for e in tr.get("experience", [])}
+    for e in out["experience"]:
+        t = by_id.get(e["id"])
+        if t:
+            e["title"] = t.get("title") or e["title"]
+            if t.get("description"):
+                e["description"] = t["description"]
+    for key in ("patents", "volunteering"):
+        if tr.get(key):
+            out[key] = tr[key]
+    return out
+
+
 def build(lang="en"):
-    li = load(ROOT / f"data/linkedin/{lang}.json")
+    li = linkedin_for(lang)
     c = load(ROOT / f"site/content.{lang}.json")
     projects = load(ROOT / "data/projects.json")["projects"]
     items = media_items()
@@ -214,6 +240,12 @@ def build(lang="en"):
     comm = "".join(f'<div class="comm"><h4>{esc(n)}</h4><p>{esc(t)}</p></div>' for n, t in c["communities"])
     past = "".join(f'<li><a href="{esc(u)}">{esc(n)}</a></li>' for n, u in c["past_sites"])
     nav = "".join(f'<a href="#{k}">{esc(v)}</a>' for k, v in c["nav"])
+    base = "" if lang == "en" else "../"
+    langsw = "".join(
+        f'<a class="lang{" on" if code == lang else ""}" href="{esc(base + path) or "./"}" hreflang="{code}">{esc(label)}</a>'
+        for code, label, path in LANGS)
+    alts = "".join(f'<link rel="alternate" hreflang="{code}" href="https://fabio.pietrosanti.it/{path}">'
+                   for code, _l, path in LANGS)
     hero_links = "".join(f'<a href="{esc(u)}" rel="noopener">{esc(n)}</a>' for n, u in c["hero"]["links"])
     stats_html = "".join(f'<div class="stat"><b data-n="{n}">{n}</b><span>{esc(l)}</span></div>' for n, l in stats)
     ymin, ymax = min(years), max(years)
@@ -252,9 +284,12 @@ def build(lang="en"):
         "TAGS": json.dumps({k: v["label_en"] for k, v in tagdefs.items() if not k.startswith("_")}, ensure_ascii=False),
         "H_COMM": head("communities", 9), "COMM": comm, "H_PAST": head("past", 10), "PAST": past,
         "H_CONTACT": head("contact", 11), "DONOR": donor, "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
-        "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
+        "LANGSW": langsw, "ALTS": alts, "BASE": base, "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
     }.items():
         page = page.replace("{{" + k + "}}", v)
+    if lang != "en":
+        page = page.replace('href="copies/', 'href="../copies/').replace('src="copies/', 'src="../copies/')
+        page = page.replace('href="past/', 'href="../past/')
     out = ROOT / ("index.html" if lang == "en" else f"{lang}/index.html")
     out.parent.mkdir(exist_ok=True)
     out.write_text(page, encoding="utf-8")
