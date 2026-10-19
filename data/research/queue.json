@@ -2113,6 +2113,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa, ma Google irraggiungibile: ERR_QUIC_PROTOCOL_ERROR su due tentativi a 10 s di distanza; anche curl verso google.com, github.com e bing.com fallisce (connessione rifiutata), mentre web.archive.org ed example.com rispondono. Probabile blocco di rete/firewall sulla connessione attuale. Nessuna ricerca eseguita, nessun robot check; le 8 query in coda restano 'pending' per la prossima esecuzione. archive_copies non eseguito (nessun candidato nuovo)."
+  },
+  {
+   "date": "2026-10-19 (seconda esecuzione)",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa, ma Google irraggiungibile: ERR_ADDRESS_UNREACHABLE su due tentativi (ricerca e home) a 10 s di distanza; curl verso google.com e github.com fallisce, web.archive.org risponde 200. Blocco di rete persistente come nell'esecuzione precedente. Nessuna ricerca, nessun robot check; le 8 query restano 'pending'. Push impossibile (github.com irraggiungibile): commit locali da spingere alla prossima esecuzione con rete."
   }
  ]
 }
