@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{TITLE}}</title>
 <meta name="description" content="{{DESC}}">
-<meta name="robots" content="noindex">
 <meta property="og:title" content="{{TITLE}}">
 <meta property="og:description" content="{{DESC}}">
 <meta property="og:type" content="profile">
@@ -226,6 +225,32 @@ details p{font-size:14.5px;color:var(--ink2);margin:8px 0;max-width:740px;white-
 .donor h3{font:600 clamp(22px,3vw,30px)/1.2 var(--serif);margin:8px 0 10px}
 .donor p{color:var(--ink2);margin:0 0 12px;max-width:680px}
 .donor a{font:500 14px var(--mono)}
+/* tables (projects, books) */
+.ptable{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:14px}
+.ptable thead th{font:600 10.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
+.ptable tbody tr{border-top:1px solid var(--line);vertical-align:top}
+.ptable tbody tr:hover{background:var(--bg2)}
+.ptable th{font:600 15px/1.3 var(--serif);text-align:left;padding:11px 12px;color:var(--ink)}
+.ptable td{padding:11px 12px;color:var(--ink2)}
+.ptable .py{font:500 12px var(--mono);color:var(--acc2);white-space:nowrap;width:62px}
+.ptable .pa{font:500 11.5px var(--mono);color:var(--ink3);text-transform:uppercase;letter-spacing:.05em;width:150px}
+.ptable .pd{font-size:13.5px;line-height:1.5}
+.ptable .pl{white-space:nowrap;width:86px;font:500 12px var(--mono)}
+.ptable .pl a{margin-right:6px}
+.ptable tr.never th em{font-style:normal;font:500 11px var(--mono);color:var(--ink3)}
+.ptable tr.never{background:repeating-linear-gradient(135deg,transparent,transparent 11px,var(--bg2) 11px,var(--bg2) 12px)}
+.btable .bh{font:500 11.5px var(--mono);color:var(--acc);text-transform:uppercase;letter-spacing:.04em;width:120px}
+.btable .ba{font-size:13px;width:200px}
+.btable .ba span{display:block;color:var(--ink3);font-size:12px}
+.note{font-size:13px;color:var(--ink3);margin-top:12px}
+.tagchips .chip{border-style:dashed}
+/* contact */
+.contactbox{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:14px;padding:26px 28px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:26px;align-items:center}
+.cmain p{margin:0 0 10px;font:400 19px/1.45 var(--serif);color:var(--ink)}
+.cmain p:last-child{margin-bottom:0;font:400 15px/1.5 var(--sans);color:var(--ink2)}
+.cbtns{display:flex;flex-wrap:wrap;gap:9px;max-width:330px}
+.cbtns a{font:500 13.5px var(--sans);border:1px solid var(--rule);color:var(--ink);padding:8px 15px;border-radius:999px}
+.cbtns a:hover{border-color:var(--acc);color:var(--acc);text-decoration:none}
 /* communities, past, contact */
 .comms{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
 .comm{border-left:3px solid var(--acc2);padding:4px 0 4px 15px}
@@ -239,6 +264,14 @@ footer{border-top:1px solid var(--line);padding:30px 0 50px;font-size:12.5px;col
 footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
 .draft{display:inline-block;background:var(--acc2);color:#15160f;font:600 10.5px var(--mono);padding:2px 8px;border-radius:4px;letter-spacing:.08em;text-transform:uppercase}
 @media (max-width:900px){
+  .ptable,.ptable tbody,.ptable tr,.ptable th,.ptable td{display:block;width:auto}
+  .ptable thead{display:none}
+  .ptable tbody tr{padding:10px 2px}
+  .ptable th,.ptable td{padding:3px 12px}
+  .ptable .py,.ptable .pa{display:inline-block;width:auto;margin-right:10px}
+  .ptable .pl{width:auto}
+  .btable .ba,.btable .bh{width:auto}
+  .contactbox{grid-template-columns:1fr}
   .idgrid{grid-template-columns:1fr;gap:12px;align-items:start}
   .zhnote{text-align:left}
   .stats{grid-template-columns:repeat(2,1fr)} .stat:last-child{grid-column:span 2}
@@ -277,8 +310,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
   <div class="stats">{{STATS}}</div>
 </div></header>
 
-<section id="about"><div class="wrap">{{H_ABOUT}}<div class="prose" id="li-about">{{ABOUT}}</div>
-  <div class="quotes">{{QUOTES}}</div></div></section>
+<section id="about"><div class="wrap">{{H_ABOUT}}<div class="prose" id="li-about">{{ABOUT}}</div></div></section>
 
 <section id="story"><div class="wrap">{{H_STORY}}{{STORY}}</div></section>
 
@@ -288,13 +320,10 @@ footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
 
 <section id="projects"><div class="wrap">{{H_PROJECTS}}{{PROJECTS}}</div></section>
 
-<section id="truth"><div class="wrap">{{H_TRUTH}}<div class="truth">{{TRUTH}}</div>
-  <div class="evwrap"><div class="evhead"><h3>{{EVTITLE}}</h3><p>{{EVSUB}}</p></div>
-  <div class="evgrid">{{EVIDENCE}}</div></div></div></section>
-
 <section id="archive"><div class="wrap">{{H_ARCHIVE}}
   <input class="search" id="q" type="search" placeholder="{{SEARCH}}" autocomplete="off">
   <div class="chips" id="cats">{{CATS}}</div>
+  <div class="chips tagchips" id="tags">{{TAGCHIPS}}</div>
   <div class="hist" id="hist">{{HIST}}</div>
   <div class="status"><span id="count"></span><span id="tagline"></span><button id="reset" hidden>reset ✕</button></div>
   <div id="list"></div>
@@ -312,12 +341,15 @@ footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
 <section id="donor"><div class="wrap">{{DONOR}}</div></section>
 
 <section id="contact"><div class="wrap">{{H_CONTACT}}
-  <p class="contact">Write on <a href="https://www.linkedin.com/in/secret/" rel="noopener">LinkedIn</a>, read the code on <a href="https://github.com/fpietrosanti" rel="noopener">GitHub</a>.</p>
+  <div class="contactbox">
+    <div class="cmain">{{CONTACT}}</div>
+    <div class="cbtns">{{HERO_LINKS}}</div>
+  </div>
 </div></section>
 
 <footer><div class="wrap">
   <span>© {{YEAR}} Fabio Pietrosanti · {{LOCATION}}</span>
-  <span>{{SYNC}} <span class="draft">{{DRAFT}}</span></span>
+  <span>{{SYNC}}</span>
 </div></footer>
 
 <script id="data" type="application/json">{{DATA}}</script>
@@ -352,20 +384,16 @@ footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
     more.hidden=r.length<=st.shown;
     $('#reset').hidden=!(st.q||st.c||st.y||st.tag);
     $('#tagline').innerHTML=st.tag?`<b>${esc(TAGS[st.tag]||st.tag)}</b>`:'';
-    document.querySelectorAll('.strand').forEach(b=>b.classList.toggle('on',b.dataset.tag===st.tag));
+    document.querySelectorAll('#tags .chip').forEach(b=>b.classList.toggle('on',b.dataset.tag===st.tag));
     document.querySelectorAll('.bar').forEach(b=>b.classList.toggle('on',+b.dataset.y===st.y));
     document.querySelectorAll('.chip').forEach(b=>b.classList.toggle('on',b.dataset.c===st.c));
   }
   let t; $('#q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>{st.q=e.target.value.trim().toLowerCase();st.shown=120;render();},120);});
   $('#cats').addEventListener('click',e=>{const b=e.target.closest('.chip'); if(!b)return; st.c=b.dataset.c; st.shown=120; render();});
+  $('#tags').addEventListener('click',e=>{const b=e.target.closest('.chip'); if(!b)return; st.tag=st.tag===b.dataset.tag?'':b.dataset.tag; st.shown=120; render();});
   $('#hist').addEventListener('click',e=>{const b=e.target.closest('.bar'); if(!b)return; const y=+b.dataset.y; st.y=st.y===y?0:y; st.shown=120; render();});
   $('#reset').addEventListener('click',()=>{st.q='';st.c='';st.y=0;st.tag='';$('#q').value='';render();});
   more.addEventListener('click',()=>{st.shown+=200;render();});
-  document.querySelectorAll('.strand').forEach(b=>{
-    const go=()=>{st.tag=st.tag===b.dataset.tag?'':b.dataset.tag; st.c=''; st.y=0; st.shown=120; render(); document.getElementById('archive').scrollIntoView({behavior:'smooth'});};
-    b.addEventListener('click',go);
-    b.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go();}});
-  });
   render();
   const root=document.documentElement;
   try{const s=localStorage.getItem('theme'); if(s) root.dataset.theme=s;}catch(e){}

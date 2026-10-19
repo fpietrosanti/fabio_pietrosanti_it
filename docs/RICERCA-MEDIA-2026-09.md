@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1466**; dopo deduplica: **1065**
-- Già presenti sul vecchio sito: **45** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1020**
-- Verificati aprendo la pagina: **1005**; solo da risultato di ricerca: **60**
+- Risultati grezzi dalle ricerche: **1486**; dopo deduplica: **1082**
+- Già presenti sul vecchio sito: **49** (su 35 voci elencate lì)
+- **Nuovi rispetto al vecchio sito: 1033**
+- Verificati aprendo la pagina: **1013**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 69, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Comunicato 15, Slide 13, Paper 12, Podcast 12, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, audio 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 71, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Slide 15, Comunicato 15, Paper 12, Podcast 12, audio 11, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -19,12 +19,12 @@ Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity
 | 1998 | 0 | 1 | 1 |
 | 1999 | 0 | 1 | 1 |
 | 2000 | 2 | 16 | 13 |
-| 2001 | 8 | 16 | 11 |
-| 2002 | 2 | 15 | 7 |
-| 2003 | 5 | 7 | 6 |
+| 2001 | 8 | 17 | 12 |
+| 2002 | 2 | 19 | 8 |
+| 2003 | 5 | 8 | 7 |
 | 2004 | 1 | 12 | 11 |
-| 2005 | 1 | 8 | 5 |
-| 2006 | 4 | 9 | 3 |
+| 2005 | 1 | 9 | 6 |
+| 2006 | 4 | 9 | 2 |
 | 2007 | 1 | 13 | 10 |
 | 2008 | 0 | 13 | 13 |
 | 2009 | 1 | 46 | 44 |
@@ -38,20 +38,22 @@ Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity
 | 2017 | 0 | 74 | 74 |
 | 2018 | 0 | 68 | 68 |
 | 2019 | 0 | 64 | 64 |
-| 2020 | 0 | 169 | 169 |
-| 2021 | 0 | 89 | 89 |
-| 2022 | 0 | 60 | 60 |
-| 2023 | 0 | 14 | 14 |
+| 2020 | 0 | 171 | 171 |
+| 2021 | 0 | 90 | 90 |
+| 2022 | 0 | 64 | 64 |
+| 2023 | 0 | 17 | 17 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 13 | 13 |
-| 2026 | 0 | 42 | 42 |
+| 2026 | 0 | 43 | 43 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 42 voci, 42 nuove
+## 2026 — 43 voci, 43 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
+- 🆕 **2026-10-14** · Video · Cyber Saiyan (YouTube) - RomHack Camp 2026 — [MXMap Italia: National Observatory for Digital Sovereignty / RomHack Camp 2026](https://www.youtube.com/watch?v=GyNpnJ5Q2ew)  
+  Registrazione video (19'43'') del talk del 02/10/2026, Stage 2, Flaminio Village, Roma; pubblicata il 14/10/2026. Descrizione: «Speakers: Fabio Pietrosanti (naif)». La pagina CFP del talk (cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/) è già in archivio; il video è nuovo.
 - 🆕 **2026-10-05** · Menzionato · WeChat — 长寿科技情报站 (gh_15f7b20393cf) — [以自身试验探索生命边界：极客闭门论坛回顾](https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd)  
   Recap of the 生物极客闭门论坛 of 12/09/2026 at TimePie's 7th International Longevity Forum (Shanghai): «开源抗衰数据平台开发者Fabio Pietrosanti» among the 6 invited biohackers (Jose Cordeiro, Dave Pascoe, Brian M. Delaney, 刘革新...); his talk summarised as «结构化人体自我实验». Image post with 18 photos. Found via Sogou WeChat search in Fabio's Chrome on 2026-10-09; text copied from the DOM, photos downloaded from mmbiz.qpic.cn (copy 2026/0604b9f21c7c). Photo 10 is a captioned stage photo: «Fabio Pietrosanti — 生物极客、科技创业者» with the quote «开源数据与结构化人体自我实验» (first photo of the forum with his name in the caption).
 - 🆕 **2026-10-02** · Talk · cfp.romhack.io — [MXMap Italia: National Observatory for Digital Sovereignty (RomHack Camp 2026)](https://cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/)  
@@ -191,14 +193,18 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2024** · Report · Ufficio Scolastico Regionale per il Lazio (MIM) - monitoraggio trasparenza e anticorruzione 2023, copia pubblicata da I.I.S. di Ceccano — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituzioni scolastiche del Lazio)](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf)  
   Rilevazione ufficiale dell'USR Lazio sulle misure di trasparenza nelle scuole. A riga 1315 del testo estratto compare la voce 'MONITORA PA DEL DOTT. FABIO PIETROSANTI - OTTOBRE 2022 - TRASPARENZA', registrata come causa di istanze di accesso civico ricevute dagli istituti.
 
-## 2023 — 14 voci, 14 nuove
+## 2023 — 17 voci, 17 nuove
 
 - 🆕 **2023-07-09** · website · Hacking Biology (hackingbiology.com) – sito proprio / Hacking Biology Foundation — [Hacking Biology – The non-profit foundation stewarding biohack.it (blog di ricerca dal luglio 2023, pagine News e About)](https://hackingbiology.com/)  
   Sito proprio, NON copertura di terzi: incluso solo come fonte primaria del filone biohacking (non presente in media.json). Letto 2026-10-07: «Hacking Biology was started by Fabio Pietrosanti». Primo post archiviato: https://hackingbiology.com/2023/07/09/a-data-driven-applied-aging-research-project/ (Wayback). La pagina /news/ elenca: 22/08/2024 presentazione alla comunita' Rapamycin News; 05/01/2025 Speciale Tg1; 17/05/2025 Codice Beta (data diversa dall'URL 2025/01 gia' noto: da chiarire con Fabio); 27/06/2025 Codice Rai 1; 02/07/2025 partecipazione al Longevity Summit Dublin (Trinity College, 2-4/7); 08/04/2026 Fund Longevity rally a Roma (Largo di Torre Argentina); 18/08/2026 migrazione del sito da WordPress.com. La sezione 'In the press' di /about/ cita solo i tre Rai gia' noti.
 - 🆕 **2023-05-17** · Talk · Copernicani (in-person event) — [Mercoledi 17 maggio ore 18:30 - Privacy by design e Privacy-coins](https://copernicani.it/privacy-by-design-e-privacy-coins/)  
   He presents/moderates; speakers Rachel-Rose O'Leary (DarkFi) and Daniele Monteleone (Web3 Labs); announcement published 2023-05-01 (Wayback 20230517)
+- 🆕 **2023-05-17** · Video · Associazione Copernicani (YouTube) — [Privacy By Design - Privacy Coins](https://www.youtube.com/watch?v=SEQQOGEBnXo)  
+  Registrazione dell'evento Copernicani del 17/05/2023 (pagina annuncio copernicani.it/privacy-by-design-e-privacy-coins/ già in archivio). Snippet della descrizione nei risultati di ricerca YouTube: «Presenta Fabio Pietrosanti. Proveniente dall'underground hacker, Fabio lavora nella ...». Data di upload non letta (YouTube ha risposto 429 al server); «3 anni fa» nei risultati.
 - 🆕 **2023-05-16** · Menzionato · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html)  
   Complaint to the Garante referencing his September 2022 FOIA to schools
+- 🆕 **2023-05-07** · audio · BBC World Service - Cyber Hack / The Lazarus Heist — [The Lazarus Heist S2: 7. Crypto comrades](https://www.bbc.co.uk/programmes/w3ct5fc4) _(non verificato)_  
+  Episodio sulla conferenza crypto di Pyongyang del 2019 («Eight international tech experts decide to go»). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple); il riassunto di podwise.ai non lo nomina. Da verificare all'ascolto. Audio: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fgqj49.mp3 ; Apple: https://podcasts.apple.com/us/podcast/the-lazarus-heist-s2-7-crypto-comrades/id1561990291?i=1000608965765
 - 🆕 **2023-04-19** · Menzionato · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html)  
   Confermato da Fabio 2026-09-25 (è lui: Fabio Pietrosanti di Latina, figlio della sig.ra Dolores). Contesto: la candidata sindaco Matilde Celentano visita la GLS accompagnata da Fabio Pietrosanti.
 - 🆕 **2023-04-19** · Menzionato · Latina TU (latinatu.it) — [Latina, Celentano in visita al Gsl: "Un'eccellenza che investe sul territorio"](https://latinatu.it/latina-celentano-in-visita-al-gsl-uneccellenza-che-investe-sul-territorio/)  
@@ -221,8 +227,10 @@ Anni senza nessun risultato: nessuno
   CyberCoach di Gerardo Costabile, pubblicato il 2023-01-17 (data-date 1673952750 nel feed YouTube della pagina https://costabile.net/cibercoach/, letta il 2026-09-24). Descrizione: «Oggi incontriamo Fabio Pietrosanti (aka Naif), un hacker da circa 25 anni… mindset dell'hacking… tre libri must to read». Il video su YouTube non è più disponibile e il canale @cyber_coach risponde 404 (canale rimosso): nessuna ricopia trovata.
 - 🆕 **2023-01-16** · Comunicato · Monitora PA — [Buon 2023!](https://monitora-pa.it/2023/01/16/gennaio_2023.html)  
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
+- 🆕 **2023-01-07** · audio · Ciao, Internet! con Matteo Flora - Garantismi LIVE — [[Garantismi LIVE] - Le Sfide della Privacy nel 2023](https://www.spreaker.com/episode/garantismi-live-le-sfide-della-privacy-nel-2023--52379256) _(non verificato)_  
+  Diretta con Guido Scorza. iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto.
 
-## 2022 — 60 voci, 60 nuove
+## 2022 — 64 voci, 64 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -294,6 +302,8 @@ Anni senza nessun risultato: nessuno
   Syndicated version of the known Key4biz article (MonitoraPA, Pietrosanti); Cloudflare-blocked, not opened; date assumed from Key4biz
 - 🆕 **2022-05-25** · Citato · Key4biz — [Google Analytics in PA. 3.400 siti l'hanno rimosso, grazie a MonitoraPa: "Ora esposto al Garante Privacy"](https://www.key4biz.it/google-analytics-in-pa-3-400-siti-lhanno-rimosso-grazie-a-monitorapa-a-fine-mese-faremo-anche-esposto-al-garante-privacy/405043/)  
   Luigi Garofalo; 7,833 PECs sent, 3,399 PAs removed GA in 2 weeks
+- 🆕 **2022-05-23** · audio · DataKnightmare (Walter Vannini) — [DK 6x28 - MonitoraPA e le prese sul Titanic](https://www.spreaker.com/episode/dk-6x28-monitorapa-e-le-prese-sul-titanic--49902887) _(non verificato)_  
+  Puntata interamente su MonitoraPA («L'idea di un gruppo di cittadini hacker attivisti»); il nome di Fabio non è nella descrizione, ma iTunes indicizza l'episodio anche per «Pietrosanti» (probabile trascrizione).
 - 🆕 **2022-05-22** · Video · Info Data - Il Sole 24 Ore (#ThinkTallyTalk) — [La Pa che usa Google Analytics rispetta le regole della privacy? #ThinkTallyTalk](https://www.infodata.ilsole24ore.com/2022/05/22/la-pa-usa-google-analytics-rispetta-le-regole-della-privacy-thinktallytalk/)  
   Video interview on MonitoraPA and Web Analytics Italia
 - 🆕 **2022-05-20** · Intervista · Info Data - Il Sole 24 Ore — [La Pubblica amministrazione che usa Google Analytics rispetta le regole della privacy? L'iniziativa MonitoraPA spiegata bene](https://www.infodata.ilsole24ore.com/2022/05/20/la-pubblica-amministrazione-rispetta-le-regole-della-privacy-cosi-funziona-losservatorio-monitorapa/)  
@@ -302,6 +312,10 @@ Anni senza nessun risultato: nessuno
   MonitoraPA civic action; with Marco Ciurcina
 - 🆕 **2022-05-13** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.spreaker.com/episode/google-analytics-e-pubbliche-amministrazioni-8-000-pa-sono-fuori-legge-ed-ora--49784871)  
   Audio version; MonitoraPA
+- 🆕 **2022-04-01** · audio · Ciao, Internet! con Matteo Flora — [[DIRETTA] - Ciao Internet! La Diretta del 1 Aprile 2022](https://www.spreaker.com/episode/diretta-ciao-internet-la-diretta-del-1-aprile-2022--49286341) _(non verificato)_  
+  iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto.
+- 🆕 **2022-03-30** · audio · Il podcast di Marco Canestrari — [Pacifici si ma incazzati pure](https://www.spreaker.com/episode/pacifici-si-ma-incazzati-pure--49249201) _(non verificato)_  
+  Tra i temi «l'affare #Kaspersky». iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto.
 - 🆕 **2022-03-24** · Citato · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://livornopress.it/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack)  
   Syndicated piece quoting Pietrosanti (co-founder Hermes) on Kaspersky risk scenario
 - 🆕 **2022-03-20** · Ricerca · GitHub — [kaspersky-risks — Risk evaluation of Kaspersky if subject to coercion by the Russian government](https://github.com/fpietrosanti/kaspersky-risks)  
@@ -310,6 +324,8 @@ Anni senza nessun risultato: nessuno
   Re-confirmed; only real hit of cybersecurity360 site search for Pietrosanti besides Ciao Carola
 - 🆕 **2022-03-15** · Citato · Europa Today — ["Sostituite l'antivirus Kaspersky, può essere usato per attacchi informatici dalla Russia"](https://europa.today.it/attualita/kaspersky-attacchi-informatici-russia.html)  
   Quotes the 'digital activist Fabio Pietrosanti' from his Il Riformista interview
+- 🆕 **2022-03-15** · audio · Ciao, Internet! con Matteo Flora — [KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!](https://www.spreaker.com/episode/kaspersky-antivirus-e-pericoloso-va-rimosso-e-un-malware-russo-tutte-le-risposte--49065639) _(non verificato)_  
+  iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple); nessuna trascrizione Spreaker. Da verificare all'ascolto. Apple: https://podcasts.apple.com/us/podcast/kaspersky-antivirus-%C3%A8-pericoloso-va-rimosso-%C3%A8-un/id1046298895?i=1000554064030
 - 🆕 **2022-03-15** · Citato · Il Riformista — ["Disinstallate Kaspersky dai PC", i servizi segreti lanciano l'allarme per l'antivirus usato da Farnesina e Viminale](https://www.ilriformista.it/disinstallate-kaspersky-dai-pc-i-servizi-segreti-lanciano-lallarme-per-lantivirus-usato-da-farnesina-e-viminale-286552/)  
   Quotes him calling Kaspersky a Trojan horse for Russia
 - 🆕 **2022-03-11** · Citato · Wall Street Italia — [Kaspersky, in Italia si riapre il caso dell'antivirus russo amato da PA e aziende](https://www.wallstreetitalia.com/kaspersky-in-italia-si-riapre-il-caso-dellantivirus-russo-amato-da-pa-e-aziende/)  
@@ -345,7 +361,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Menzionato · raiplaysound.it — [Eta Beta / Puntate 2022 / Rai Radio 1 / RaiPlay Sound](https://www.raiplaysound.it/programmi/etabeta/puntate/puntate-2022)  
   verified via wayback; context: …aumentino di intensità e soprattutto che arrivino ovunque nel mondo. Italia compresa. Ospiti: Arturo Di Corinto, giornalista esperto di sicurezza informatica; Fabio Pietrosanti, presidente Centro Hermes per i diritti uma…
 
-## 2021 — 89 voci, 89 nuove
+## 2021 — 90 voci, 90 nuove
 
 - 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Anthology (probably reprints the Mann chapter). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing. Retrieved 17 March 2019, https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html'.
@@ -353,6 +369,8 @@ Anni senza nessun risultato: nessuno
   Phone interview with him on 2021-09-30: 'I called Fabio Pietrosanti'. Contains a Q&A ('FP: At the conference we were prohibited...'), a bio, and a reference to his 2019 2600 podcast appearance. 13 name hits. Verified live 2026-10-02.
 - 🆕 **2021-10-15** · tweet · Twitter/X @fpietrosanti — [A Ethan Lou: «Anything recently new interesting?»](https://twitter.com/fpietrosanti/status/1449136122928447491)  
   Testo integrale: "@Ethan_Lou Anything recently new interesting?". Scrive a Ethan Lou (giornalista compagno di viaggio a Pyongyang, autore del pezzo The Walrus e del libro) due settimane dopo il patteggiamento; contatto di contesto, contenuto minimo. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20211015221237.
+- 🆕 **2021-10-14** · audio · The Crypto Conversation (Brave New Coin) — [Scandal and Turmoil - The Cryptocurrency Wild West](https://podcasts.apple.com/us/podcast/scandal-and-turmoil-the-cryptocurrency-wild-west/id1471243424?i=1000538523963) _(non verificato)_  
+  Intervista a Ethan Lou, autore di «Once a Bitcoin Miner» (Pyongyang 2019, Virgil Griffith). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto. Audio: https://traffic.libsyn.com/secure/thecryptoconversation/ethan_FIN.mp3
 - 🆕 **2021-10-04** · tweet · Twitter/X @fpietrosanti — [«North Korea informant reward program» (tweet poi cancellato)](https://twitter.com/fpietrosanti/status/1445016576684699657)  
   Testo integrale: "North Korea informant reward program https://dprkrewards.com/" (ora del tweet 6:22 AM PT, 4 Oct 2021). Una settimana dopo il patteggiamento di Griffith (27/09/2021) segnala il programma USA di ricompense per informazioni sull'evasione delle sanzioni nordcoreane. Tweet cancellato: la syndication restituisce TweetTombstone; testo letto dalla capture Wayback https://web.archive.org/web/20211004132312id_/https://twitter.com/fpietrosanti/status/1445016576684699657 (HTML 200, data-screen-name fpietrosanti, titolo «Fabio Pietrosanti on Twitter»), scaricata il 2026-10-05 dal server con User-Agent da browser.
 - 🆕 **2021-09-30** · tweet · Twitter (@fpietrosanti) — [Relevant narrative on Virgil Griffith arrest by @emmangoldstein /cc @Ethan_Lou](https://twitter.com/fpietrosanti/status/1443670064679563267)  
@@ -526,7 +544,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
 
-## 2020 — 169 voci, 169 nuove
+## 2020 — 171 voci, 171 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -712,6 +730,8 @@ Anni senza nessun risultato: nessuno
   Testo: «@Virdiesse @quinta @VincenzoTiani @arturodicorinto @carloalberto @carlopiana @meobaldo @ORARiccardo @faffa42 @AternoStefano @fpmicozzi @gbgallus @lastknight @martinapennisi @raistolo @fattoquotidiano Chissà se il contenuto di questo scambio di lettere, e quindi il tipo di protocollo di disponibilità alla collaborazione nella raccolta di tabulati e dati di cella, sia FOIAizzabile?» Wayback capture 20200508031254 (id_) di twitter.com/fpietrosanti/status/1256584313631641602.
 - 🆕 **2020-05-01** · Menzionato · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain)  
   verified via wayback; context: …nvitation, except for journalists and residents of South Korea, Japan, and Israel. Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti. He says the two-day event was strange: Th…
+- 🆕 **2020-05-01** · audio · Bloomberg - Listen to the Story — [North Korea's Man in Spain](https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain) _(non verificato)_  
+  Versione audio dell'articolo Bloomberg Businessweek di Josh Dean su Alejandro Cao de Benós (articolo già noto). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto. Apple: https://podcasts.apple.com/us/podcast/north-koreas-man-in-spain/id1578781150?i=1000530340359
 - 🆕 **2020-04-30** · social · Twitter/X (@fpietrosanti) — [Quindi la app Immuni conserva i dati su Google Cloud?](https://twitter.com/fpietrosanti/status/1255938339347271680)  
   Commento alla relazione su Immuni della task force COVID-19 (sgdl8_relazione_immuni.pdf). Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-04-28** · Video · CRS Scuola Critica del Digitale + Forum Disuguaglianze e Diversita (webinar) — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/)  
@@ -824,6 +844,8 @@ Anni senza nessun risultato: nessuno
   Testo: «@_andrea_lisis @meobaldo @gpdoria @manufalcetti @FrancoCardin1 @PaolaPisano_Min @rafbarberio @matteorenzi @nzingaretti Effettivamente la reiterazione dei problemi di sicurezza di Rousseau e del movimento 5 stelle come primario irresponsabile della sicurezza dei dati di centinaia migliaia di persone dovrebbe far riflettere anche queste sedi locali del pd per i loro iscritti locali.» Wayback capture 20200218094231 (id_) di twitter.com/fpietrosanti/status/1229700501744300037.
 - 🆕 **2020-02-16** · Citato · Valigia Blu — [Come CIA e servizi segreti tedeschi hanno spiato alleati e avversari vendendo macchine antispionaggio](https://www.valigiablu.it/cia-germania-spionaggio-alleati/)  
   Crypto AG affair; Pietrosanti (co-founder Khamsa/PrivateWave) tells Valigia Blu about Italian/German crypto-phone vendors replacing the Swiss
+- 🆕 **2020-02-15** · audio · Valigia Blu (podcast) — [Come Cia e Bnd hanno spiato le diplomazie mondiali vendendo macchine antispionaggio](https://podcasters.spotify.com/pod/show/valigiablu/episodes/Come-Cia-e-Bnd-hanno-spiato-le-diplomazie-mondiali-vendendo-macchine-antispionaggio-eas0d2) _(non verificato)_  
+  Versione audio dell'articolo Valigia Blu del 16/02/2020 (già in archivio, cita Pietrosanti sul caso Crypto AG). L'API iTunes Search (entity=podcastEpisode, term=Pietrosanti) restituisce l'episodio, ma la descrizione testuale non contiene il nome: corrispondenza quasi certamente dalla trascrizione automatica Apple dell'audio. Da verificare all'ascolto. Apple: https://podcasts.apple.com/us/podcast/come-cia-e-bnd-hanno-spiato-le-diplomazie-mondiali/id1497594850?i=1000465704985
 - 🆕 **2020-02-15** · tweet · Twitter — [EFF/MIT su Voatz, Brescia e voto online](https://twitter.com/fpietrosanti/status/1228742138814353409)  
   Testo: «[ITA] L’EFF condivide la ricerca del MIT sul perché il Voto Online è sbagliato.  In Italia l’onorevole @g_brescia, dichiara che alle prossime elezioni in Italia si voterà online, procedendo senza dibattito pubblico con l'accademia ed esperti di cybersecurity.  #votoelettronico https://t.co/A1E7uylpBt» Link: https://internetpolicy.mit.edu/wp-content/uploads/2020/02/SecurityAnalysisOfVoatz_Public.pdf. Wayback capture 20200215195211 (id_) di twitter.com/fpietrosanti/status/1228742138814353409.
 - 🆕 **2020-02-14** · tweet · Twitter — [Difendiamo la democrazia dal Rousseau di Stato](https://twitter.com/fpietrosanti/status/1228323803299794944)  
@@ -933,6 +955,8 @@ Anni senza nessun risultato: nessuno
   Reply to @coindesk @BradyDale. Full text: "@coindesk @BradyDale I went in North Korea with Virgil. I am looking for contact with his family and/or lawyer as i read in the Affidavit a lot of sentences that i feel has been mis-used and mis-interpreted for the arrest warrant. I am willing to provide my testimony to prove his good faith." Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20191129223913 listed in CDX (Wayback HTML not opened: archive.org bot-flag).
 - 🆕 **2019-11-28** · tweet · Twitter — [Bundestag committee room (hint of appearance)](https://twitter.com/fpietrosanti/status/1199929402521509888)  
   Testo: «Yesterday in a commitee room at Bundestag» Wayback capture 20191128055753 (id_) di twitter.com/fpietrosanti/status/1199929402521509888.
+- 🆕 **2019-11-27** · Talk · P&R Foundation / Digital Italy Summit 2019 (The Innovation Group), Roma — [Tavolo di lavoro sulla protezione dei dati personali al Digital Italy Summit 2019 («La protezione dei dati personali fra geopolitica, tecnologia e mercato»)](http://www.pr-foundation.org/tavolo-lavoro-sulla-protezione-dei-dati-personali-al-digital-italy-summit-2019/)  
+  Post del 30/12/2019 della P&R Foundation: tavola rotonda del 27/11/2019 al Centro Congressi Roma Eventi Fontana di Trevi, moderata da Eugenio Cau (Il Foglio); tra gli intervenuti «Fabio Pietrosanti, Founder, Hermes Center for Transparency and Digital Human Rights» (con Busìa, Quintarelli, Comella, Nicita, Scorza, conclusioni del ministro Boccia). URL corretto della voce registrata il 13/10 sotto la pagina «5 novembre a Milano» (lì il nome compariva solo nel riquadro «Novità» laterale). Verificata sulla pagina live 2026-10-19.
 - 🆕 **2019-11-21** · Menzionato · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/)  
   verified via wayback; context: …o: il voto elettronico non è una “sfida” e non è “il futuro”. Il voto elettronico è una sciocchezza, e chi la propone evidentemente non ne capisce i problemi». Fabio Pietrosanti, consulente per la sicurezza informatica, …
 - 🆕 **2019-11-21** · articolo · La Nuova di Venezia (gelocal, ripresa de La Stampa) — [Manovra, il M5S propone soldi per il fantasma del voto elettronico](https://nuovavenezia.gelocal.it/italia-mondo/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928390/amp/)  
@@ -947,8 +971,6 @@ Anni senza nessun risultato: nessuno
   Verificato via API: PR aperta da vodkina (Yvette Agostini) il 2019-11-13, merge eseguito da fpietrosanti il 2019-11-14 (merge commit 43e0f325, autore 'Fabio (naif) Pietrosanti').
 - 🆕 **2019-11-12** · Progetto · GitHub — osservatoriosicurezza — [Perimetro-Cibernetico-Italiano — Osservatorio Sicurezza del Perimetro Cibernetico Italiano (pipeline 0, definizione tecnica)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano)  
   Never-launched project promoted by Fabio (2019), 250+ people involved, before ACN; stopped over fear of legal repercussions of active scanning
-- 🆕 **2019-11-05** · Talk · pr-foundation.org — [5 novembre a Milano: Incontro sulle Fondazioni Culturali e il Digitale — P&R Foundation](http://www.pr-foundation.org/5-novembre-milano/)  
-  verificato a mano 2026-10-13 (ricerca Google); tavola rotonda moderata da Eugenio Cau: Fabio Pietrosanti, Founder, Hermes Center; anno dedotto dai ruoli dei relatori (Italia Viva, Scorza al Team Digitale)
 - 🆕 **2019-11** · Report · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit)  
   Project document reviewed by dozens of engineers and lawyers (Fabio); very early-stage for its time; archived as PDF/TXT/DOCX
 - 🆕 **2019-10-31** · Menzionato · CorCom (Corriere Comunicazioni) — [Garante Privacy, 86 nuovi candidati](https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/)  
@@ -1972,7 +1994,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2007** · Libro · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ)  
   2026-09-23: confermato dai ringraziamenti («"Naif" Pietrosanti»), verificati sulla copia Internet Archive del volume.
 
-## 2006 — 9 voci, 3 nuove
+## 2006 — 9 voci, 2 nuove
 
 - ↺ **2006-11-06** · Ricerca · Secunia (Web Archive capture 2007-04-29) — [Parallels Desktop for Mac Insecure File Permissions (SA22634)](https://secunia.com/advisories/22634/)  
   KNOWN item - verification upgrade. Verbatim from capture https://web.archive.org/web/20070429132253/http://secunia.com:80/advisories/22634 : "Fabio Pietrosanti has reported a security issue with unknown impact in Parallels Desktop for Mac." ... "Provided and/or discovered by : Fabio Pietrosanti"; Release Date 2006-11-06, CVE reference CVE-2006-5817. The known entry is marked verified:false ('credit not confirmable'): it can now be set verified:true with archive_url = the capture above.
@@ -1986,14 +2008,14 @@ Anni senza nessun risultato: nessuno
   Slides (dated 21 Oct 2006) on Tor hidden services
 - ↺ **2006-10-20** · Menzionato · Hack.lu 2006 (official wiki, Speakers page, Web Archive) — [Hack.lu 2006 Speakers: 'Exploiting hidden services to setup anonymous communication infrastructure - Fabio Pietrosanti'](https://web.archive.org/web/20061104181744/http://hack.lu:80/index.php/Speakers)  
   Verbatim: "Exploiting hidden services to setup anonymous communication infrastructure Fabio Pietrosanti" (listed between Sandip Chaudhari and Yen-Ming Chen). Capture 20061104181744 read 2026-10-08. Official programme confirmation of the known SlideShare deck (archive.hack.lu/2006/ slide directory has no file of his).
-- 🆕 **2006-02-10** · Talk · Infosecurity Italia 2006, Milano (Fiera) - Area Demo Sikurezza.org — [Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialità (Venerdì 10, ore 10:00)](https://web.archive.org/web/20060219061042/http://www.sikurezza.org/wiki/Risorse/Infosecurity06)  
-  Sikurezza.org Infosecurity06 page (Wayback 2006-02-19): 'abbiamo partecipato ad Infosecurity 2006 (8-10 Febbraio, Milano) ... Venerdì 10 Ore 10:00 Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialità - Fabio Pietrosanti ( naif ) ... » Firma_Digitale_Riservatezza.ppt'. Programme page for the known SlideShare deck 1669276, which media.json dates 2006-02-08. That date belongs to the separate LRA event in his own list; the Infosecurity session was Friday 10 Feb 2006.
 - 🆕 **2006-02-10** · Slide · SlideShare (Infosecurity Italy 2006) — [2006: Infosecurity Italy: Tecnologie di Firma Digitale e Tutela della Riservatezza](https://www.slideshare.net/slideshow/infosecurity-06-tecnologie-di-firma-digitale-e-tutela-della-riservatezza/1669276)  
   Digital signature technologies and confidentiality
+- ↺ **2006-02-09** · Talk · Infosecurity Italia 2006, Milano - Area Demo Sikurezza.org — [Hardening della configurazione di PHP: limitare il danno (presentato in sostituzione di Igor Falcomatà)](https://web.archive.org/web/20060219061042/http://www.sikurezza.org/wiki/Risorse/Infosecurity06)  
+  Stessa pagina già nota (usata per il talk sulla firma digitale del 10-02-2006), ma con un secondo intervento non in media.json: «Hardening della configurazione di PHP: limitare il danno - Igor Falcomatà (kobaiashi) [causa malattia del relatore, la presentazione è stata tenuta da Alessio Pennasilico e Fabio Pietrosanti su slide di un intervento similare]». URL noto, quindi known=true: serve una voce separata o una nota sull'esistente.
 - 🆕 **2006** · Libro · Shake Edizioni — [Il software libero in Italia (a cura di Andrea Glorioso) - contributo di Fabio "naif" Pietrosanti](http://www.shake.it/index.php?id=51&productID=541)  
   Security chapter; publisher page confirms him as a contributor but doesn't show the publication year (ISBN 9788888865768) - check the year
 
-## 2005 — 8 voci, 5 nuove
+## 2005 — 9 voci, 6 nuove
 
 - ↺ **2005-10** · Talk · SMAU 2005, Milano - eAcademy, area sicurezza curata da Sikurezza.org — [SMAU 2005 (eAcademy Sikurezza.org, Milano): pgp luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo (SMAU 2005 eAcademy)](https://web.archive.org/web/20060218020713/http://www.sikurezza.org:80/wiki/Risorse/Smau05)  
   Sikurezza.org resources page for SMAU 2005 (Wayback 2006-02-18): 'Il formato di webb.it è stato acquisito da Smau ed i seminari sono stati tenuti nello spazio eAcademy ... Sikurezza.org ha curato la selezione dei seminari ... a Smau 2005' and the entry 'pgp luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo - Fabio Pietrosanti ... » PGP_luci_e_ombre.ppt'. A repeat of the e-privacy 2005 talk at a different event (SMAU, Oct 2005), not recorded so far. Exact day not given (slide file last saved 21 Oct 2005; SMAU 2005 ran 20-24 Oct).
@@ -2011,6 +2033,8 @@ Anni senza nessun risultato: nessuno
   Old-site page: 'ore 10:15-11:15 PGP luci e ombre ... Fabio Pietrosanti - Softpj.org'. Note: s0ftpj is also listed as Supporter on the e-privacy II-X pages (organisation, not a personal role).
 - 🆕 **2005-05-28** · Slide · Internet Archive (PWS e-privacy archive) — [PGP luci e ombre (IA item: pdf, ppt, ogg)](https://archive.org/details/pws_e-privacy_2005_2m02_pietrosanti_pgp-luci-e-ombre-storia-e-evoluzione-dello-strumento)  
   IA metadata creator 'Fabio Pietrosanti'; files Ep2005_PGP_luci_e_ombre_Pietrosanti.{ogg,pdf,ppt}
+- 🆕 **2005-05-28** · Slide · SlideShare (e-privacy 2005) — [2005: E-privacy 2005: Pgp Luci E Ombre](https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259)  
+  Caricamento sul profilo SlideShare fpietrosanti (13 presentazioni): già presente in media.json come mirror della voce e-privacy 2005 (campo mirrors). Gli altri 12 caricamenti del profilo sono tutti già in media.json.
 
 ## 2004 — 12 voci, 11 nuove
 
@@ -2039,7 +2063,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2004** · Altro · webb.it - Associazioni e U.G. — [Relatori indipendenti area sicurezza (Webbit 2004) - coordinator](https://web.archive.org/web/20041225100556/http://www.webb.it:80/article/articleview/520/1/relatori+indipendenti+area+sicurezza)  
   Webbit page (Wayback 2004-12-25): 'In questa area vengono riassunti tutti gli interventi dell'area sicurezza tenuti da relatori indipendenti ... Coordinatori: Yvette 'vodka' Agostini Fabio 'naif' Pietrosanti Relatori: Yvette 'vodka' Agostini Fabio 'naif' Pietrosanti Claudio 'vecna' Agosti Orlando 'nextile' Bassotto Raoul 'nobody' Chiesa ...'.
 
-## 2003 — 7 voci, 6 nuove
+## 2003 — 8 voci, 7 nuove
 
 - 🆕 **2003-12-23** · Menzionato · BFi (Butchered From Inside) n.11 — [BFi numero 11 (collected issue): reprints naif mentions in BFi11-02 (hacking is NOT politics thread), BFi11-08 (Fastweb round 1, cites naif's article), BFi11-15 (greetz)](https://www.s0ftpj.org/bfi/bfi11.tar.gz)  
   Final collected issue of BFi 11 dev articles (dev-03/04/08 already individually tracked); verified in the tarball text
@@ -2049,6 +2073,8 @@ Anni senza nessun risultato: nessuno
   Cites his BFi10-13 Fastweb NAT-bypass technique; same issue has a feature on Italian Black Hats (closed 6 March 2003). Issue date approximate (late 2003). Note: the Harry Potter news item in this issue refers to Paolo Pietrosanti, not Fabio
 - 🆕 **2003-06-14** · Menzionato · e-privacy II (2003), Firenze - Progetto Winston Smith — [vecna, 'Steganography applied on network sessions and neighbourhood' (BFi 12-dev) recalls naif's question at e-privacy 2003](https://www.s0ftpj.org/bfi/dev/en/BFi12-dev-10-en)  
   Per existing media.json entry: vecna answers a question 'naif' asked at his e-privacy 2003 steganography talk (audience member, not speaker). e-privacy-II.html programme does not name him.
+- 🆕 **2003-05-11** · Talk · Webbit03, Padova Fiere - Relatori indipendenti area sicurezza — [Wireless (in)security: Problemi di (in)sicurezza dell'802.11b (seminario 886)](https://web.archive.org/web/20030510054644/http://www.webb.it:80/event/eventview/886/)  
+  Scheda ufficiale Webbit 2003: «Relatore: Yvette Agostini e Fabio Pietrosanti … Sala: 8B Data: Padova 11.05.03 13:00»; bio: «Fabio Pietrosanti si interessa di sicurezza informatica dal 1997, professionalmente dal 1999». Conferma esterna del talk Webbit03 che in media.json ha solo l'URL del curriculum (data lì 2003-05-10; la scheda dice 11-05-2003). Capture precedente: web.archive.org/web/20030321022551/…/eventview/886/.
 - 🆕 **2003-05-10** · Talk · Webbit03, Padova Fiere — [Wireless (in)Security: problemi di sicurezza dell'802.11b](https://web.archive.org/web/20040209212540/http://fabio.pietrosanti.it/curriculum.shtml)  
   Listed in his 2003 CV conference list (not in media.json; Webbit 04 talks are)
 - 🆕 **2003-02-10** · Articolo scritto · PuntoSicuro — [Wireless Lan, la sicurezza dell'insicurezza](https://www.puntosicuro.it/security-C-124/sicurezza-informatica-C-90/wireless-lan-la-sicurezza-dell-insicurezza-AR-2853/)  
@@ -2056,8 +2082,12 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2003-01** · Articolo scritto · Win Magazine n.48 (Edizioni Master), gennaio 2003 — [Caccia alle reti wireless - Lo sviluppo delle reti Wi-Fi cresce giorno dopo giorno, ma emergono nuovi problemi di sicurezza (di Fabio Pietrosanti e Yvette Agostini)](https://archive.org/details/win-magazine-italia-48)  
   Co-authored with Yvette Agostini, bylined as members of the Italian Blackhats association; verified in IA OCR text
 
-## 2002 — 15 voci, 7 nuove
+## 2002 — 19 voci, 8 nuove
 
+- ↺ **2002-10-26** · Talk · Italian Black Hats - SMAU 2002, Fiera di Milano — [Ethical Hacker's Speech II - programma (PDF)](https://web.archive.org/web/20040217095659/http://www.blackhats.it:80/en/events/26102002/programma.pdf)  
+  Programma ufficiale della giornata ITBH a SMAU 2002: tra i relatori «Fabio Pietrosanti, ITBH»; «Benvenuto ed introduzione ai lavori: Raoul Chiesa aka Nobody … Fabio Pietrosanti aka Naif, ITBH»; introduzione alla sessione pomeridiana con Nobody; poi «Wireless (in)security @ SMAU». Integra il talk già noto (slide su SlideShare).
+- ↺ **2002-10-26** · Slide · Italian Black Hats (blackhats.it) - SMAU 2002 — [Wireless (in)security @ SMAU 02 - slide originali su blackhats.it (PDF)](https://web.archive.org/web/20030623124848/http://www.blackhats.it:80/en/events/26102002/wireless.pdf)  
+  Copia originale d'epoca delle slide (la versione su SlideShare è già nota): frontespizio «Fabio Pietrosanti aka Naif, ITBH – Ethical Hacker's Speech II». Mirror anche su sikurezza.org/bh_smau02/wireless.pdf. Duplicato di contenuto: valutare se tenerlo.
 - 🆕 **2002-10-24** · Menzionato · Hacker Journal n.11 (24 ottobre-7 novembre 2002) — [News: reti wireless aperte - indagine sul campo a Milano da Naif e Vodka per conto di Portel; Etica hacker a SMAU02](https://archive.org/details/hackerjournal-11)  
   Reports the Portel wardriving survey by Naif and Vodka (18 access points in one hour, 12 without WEP) and the ITBH Ethical Hackers' Speech at SMAU 2002; pages dated 16-10-2002
 - ↺ **2002-10-10** · Intervista · Apogeonline (Portel survey) — [A caccia di reti wireless insicure](https://www.apogeonline.com/articoli/a-caccia-di-reti-wireless-insicure-redazione-apogeonline/)  
@@ -2072,6 +2102,8 @@ Anni senza nessun risultato: nessuno
   Slides including the war-walking survey at SMAU 2002 (80 wireless networks found); missing from the known list
 - 🆕 **2002-07-05** · Talk · Sikurezza.org @ Webb.it 02, Padova Fiere — [Presentazione sikurezza.org (Fabio Pietrosanti 'naif', Stefano Venturoli)](https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html)  
   Sikurezza.org space at Webbit 2002 (5-7 July), which he organised; slides sikurezza_org.pdf; also ran the 'Secure Administration' contest
+- 🆕 **2002-07-05** · Slide · sikurezza.org @ Webb.it 02, Padova — [SIKUREZZA.ORG - Italian Security Mailing List (slide di presentazione, PDF)](https://web.archive.org/web/20030311060208/http://sikurezza.org:80/webbit02/sikurezza_org.pdf)  
+  Slide del talk già noto (pagina sikurezza.org/webbit02.html in media.json): frontespizio «Relatori: Stefano Venturoli, Fabio Pietrosanti – Sikurezza.org@Webbit'02». Anche la pagina sikurezza.org/webbit.html (capture 2003) elenca «Presentazione sikurezza.org - Fabio Pietrosanti ('naif'), Stefano Venturoli».
 - 🆕 **2002-06** · Altro · Hackmeeting 2002 (Bologna) — [Hackit02 - who (participants list)](https://www.hackmeeting.org/hackit02/who.html)  
   Re-checked live: 'naif' is in the participants table. Already known.
 - 🆕 **2002-03-30** · Menzionato · BFi 11-dev file 08 (s0ftpj) — [FASTWEB: vorrete dirlo a tutti (round 1) - tHE rECIdjVO](https://www.s0ftpj.org/bfi/dev/BFi11-dev-08.tar.gz)  
@@ -2080,6 +2112,8 @@ Anni senza nessun risultato: nessuno
   Organiser's programme page confirming the talk; improves existing item that pointed only to fabio.pietrosanti.it
 - 🆕 **2002-02-11** · Articolo scritto · WeekIT (Mondadori weekly, weekit.it) — [Crittografia e backdoor, parla Phil Zimmermann](https://web.archive.org/web/20040905220529/http://www.weekit.it:80/weekit/unico/art006004035348.jsp)  
   Section PRIVACY. 'Un incontro con l'inventore di Pgp, preoccupato per la privacy degli utenti' - byline 'di Fabio Pietrosanti 11/2/2002'. Zimmermann talks about PGP backdoors after 9/11 and about NAI management. Related to the known PC Professionale 207 Zimmermann box, but this is a separate article. Text confirmed from the Wayback capture.
+- ↺ **2002-01-24** · Talk · Italian Black Hats - Infosecurity Italia 2002, Fiera di Milano — [Ethical Hacker's speech: interventi tecnici e tavola rotonda - programma (PDF)](https://web.archive.org/web/20030521231608/http://www.blackhats.it:80/en/events/24012002/programma.pdf)  
+  Programma ufficiale ITBH a Infosecurity 2002: «Presentazione e introduzione: Naif – Raptor – Nobody – Kobaiashi», «Hackers, chi sono? Relatori: Raptor, Naif, Kobaiashi, Nobody», chiusura «Presentazione futura Blackhats Conference: Nobody – Naif». Copia identica anche su sikurezza.org/bh_infosecurity02/programma.pdf. Il talk Infosecurity 2002 era finora solo autodichiarato (curriculum su fabio.pietrosanti.it), non in media.json.
 - 🆕 **2002-01-17** · Menzionato · BFi 11-dev file 03 — [[HaCkmEeTiNg] Re: hacking is NOT politics? (vecna, mail thread)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-03)  
   vecna answers the hackmeeting 'hacking is NOT politics' debate 'after talking only with naif'
 - 🆕 **2002-01-17** · Menzionato · BFi 11-dev file 04 — [Drivers e SEH in Win NT/2000 (valv`0)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-04)  
@@ -2089,7 +2123,7 @@ Anni senza nessun risultato: nessuno
 - ↺ **2002** · article · dvara.net (Raoul Chiesa) — [Riflessioni su finanza e hacking (bio di Raoul Chiesa)](https://www.dvara.net/hk/riflessioni_finanza_hacking.pdf)  
   Bio di Chiesa: 'Nel 2001 è tra i fondatori, insieme a Marco Ivaldi aka Raptor e Fabio Pietrosanti aka Naif di ITBH, Italian Black Hats Association'. PDF letto; anno stimato ~2002 (citazioni più recenti 2002).
 
-## 2001 — 16 voci, 11 nuove
+## 2001 — 17 voci, 12 nuove
 
 - 🆕 **2001-12-14** · Articolo scritto · WeekIT (Mondadori weekly, weekit.it) — [Meglio l'outsourcing o una security interna?](https://web.archive.org/web/20040905215552/http://www.weekit.it:80/weekit/unico/art006004035189.jsp)  
   Section SECURITY. Standfirst: 'Cresce l'offerta dei fornitori di "sicurezza gestita". I criteri di base per valutarne l'affidabilità. E le cautele necessarie' - byline 'di Fabio Pietrosanti 14/12/2001'. Found by crawling the archived weekit.it article pages (Wayback CDX). The Wayback capture was read once during the crawl; a second fetch came back empty, so re-check the capture.
@@ -2097,6 +2131,8 @@ Anni senza nessun risultato: nessuno
   Same Raoul Chiesa report republished on Apogeonline
 - 🆕 **2001-10-25** · Citato · Punto Informatico — [Un raggio di luce su SMAU?](https://www.punto-informatico.it/un-raggio-di-luce-su-smau/)  
   Raoul Chiesa's report on the SMAU hacking/ICT security roundtable; names 'Fabio Pietrosanti aka Naif di I.NET' as a panelist
+- 🆕 **2001-10-24** · Menzionato · Zeus News — [Un raggio di luce su SMAU](https://www.zeusnews.it/n.php?c=873)  
+  Ripubblicazione su Zeus News (24-10-2001) del resoconto di Raoul Chiesa sulla conferenza ITBH a SMAU 2001 (già noto su Punto Informatico e Apogeonline, URL diverso). Elenco relatori: «Fabio Pietrosanti (anche conosciuto come Naif) di I.NET». Trovato col crawl sequenziale di Zeus News n.php?c=1..2400.
 - ↺ **2001-10-22** · Talk · Italian Black Hats (blackhats.it) - SMAU 2001, Fiera di Milano — [Sicurezza & Underground knowledge: le evoluzioni della I.C.T. Security (prima conferenza pubblica di Blackhats.it)](https://web.archive.org/web/20050908171058/http://www.blackhats.it/it/eventi.html)  
   ITBH launch panel in SMAU Area Security; Naif spoke on 'hacking come fenomeno sociale' (with Raoul Chiesa/Nobody, Raptor, Koba, A. Scartezzini)
 - ↺ **2001-10-13** · Talk · AntiKrimen Expo 2001 - Area Sicurezza Informatica — [Storia e psicologia Hacker](http://fabio.pietrosanti.it/)  
@@ -2173,7 +2209,6 @@ Anni senza nessun risultato: nessuno
 
 - 🆕 Menzionato · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1)
 - 🆕 Menzionato · thewalrus.ca — [North Korea’s Mysterious Cryptocurrency Ambitions | The Walrus](https://thewalrus.ca/north-korea-cryptocurrency/)
-- 🆕 Menzionato · zeusnews.it — [La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori](https://www.zeusnews.it/n.php?c=25616)
 - 🆕 Menzionato · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b)
 - 🆕 Menzionato · today.it — [Nella cyber war l'Italia affida i suoi segreti all'antivirus russo](https://www.today.it/tech/cyber-guerra-ucraina-russia-rischi-italia.html)
 - 🆕 Menzionato · youmedia.fanpage.it — [Backstair, la nuova piattaforma di whistleblowing ai DIG Awards: “Segnalazioni completamente anonime”](https://youmedia.fanpage.it/video/aa/X48IuuSwldvwx9NG)

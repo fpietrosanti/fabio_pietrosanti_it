@@ -1,0 +1,73 @@
+[
+ {
+  "lead": "blackhats.it via Web Archive (CDX di tutto il sito; pagine en/events.html, en/about.html, en/papers.html, en/viewers.html; PDF eventi 2001-2002)",
+  "result": "Positivi riportati: programmi Infosecurity 2002 e SMAU 2002 e slide wireless.pdf. en/events.html (capture 2003) nomina Naif per SMAU 2001 e SMAU 2002, eventi già noti (in media.json c'è la pagina it/eventi.html). WLAN Business Forum 13-11-2002 (wifi_insec_wifi_forum2.pdf): relatrice solo Yvette 'vodka' Agostini, Fabio non nominato. Linux Day 23-11-2002 ITBH (Modena, Trento, Ferrara, Milano, Alessandria): relatori Koba, Pila, Fusys, Raistlin, Vodka e Nail, non naif. Il sito chiude ad aprile 2003 (closed.html), quindi niente eventi ITBH nel 2003."
+ },
+ {
+  "lead": "sikurezza.org via Web Archive 2002-2006 (CDX completo; webbit.html, archivio.html, docs.html, risorse.html, index.html, webbit02/*, bh_infosecurity02/*, bh_smau02/*, wiki/Risorse/Infosecurity06)",
+  "result": "Positivi riportati: slide sikurezza_org.pdf di Webbit02 e il secondo intervento a Infosecurity 2006 (PHP hardening). Wireless_LAN_insecurity.pdf (Webbit02) è di Marco Misitano (Cisco), non di Fabio. Le pagine per Infosecurity 2003-2005 e Smau 2003-2004 non esistono nel CDX. wiki/Risorse/Webbit05 ha capture 2006, ma il playback non è riuscito (blocco temporaneo del Web Archive). Le pagine ml/ sono archivi di mailing list e non contano."
+ },
+ {
+  "lead": "webb.it, Webbit 2003 (Padova 9-11 maggio, Napoli 29-30 maggio): elenchi seminari /event/archive/1,8 e schede /event/eventview/N",
+  "result": "Gli elenchi non riportano i nomi dei relatori (solo «by Relatori indipendenti area sicurezza»). Dagli elenchi ho ricavato le schede dell'area sicurezza (857-940, 1257, 1265, 1545-1546, 1928). Lette per intero le schede 850-940 e circa 200 schede tra 1795 e 2020: l'unica con il suo nome è la 886 (riportata). Non lette le altre ~1.100 schede 2002-2003 (lavoro di ore con il rate limit del Web Archive). Le schede dei talk dell'area sicurezza sono di altri relatori (Darwin, VoIP, smartcard, Sicurezze e false sicurezze, Ethical Hacking Unethical Laws, programmazione sicura, shellcode, kernel 'guardia e ladri', strumenti di rete). Webbit 2005: il CDX di webb.it 2005-2006 non ha schede di eventi."
+ },
+ {
+  "lead": "Zeus News, crawl sequenziale degli articoli n.php?c=1..2400 (circa 2000 - ottobre 2003, sul server), regex pietrosanti|naif|blackhats|sikurezza|s0ftpj",
+  "result": "Positivo riportato: c=873 (24-10-2001). Le altre corrispondenze non lo nominano: c=884 'Hacking e sicurezza ufficiale' (29-10-2001, solo un link correlato), c=1547 'Gli hacker etici tornano a dire la loro' (23-09-2002, annuncio dell'Ethical Hackers' Speech II senza nomi), c=1035 'Doverose domande da rivolgere a Umberto Rapetto'. Anche c=669 ('Ancora sul caso assicurazionigenerali.it', 2001) è un omonimo (Giuseppe Pietrosanti, agente Generali). Crawl completo, 2400 pagine."
+ },
+ {
+  "lead": "Apogeonline 2002: 'Smau e Ict Security: i Black Hats tornano a dire la loro' (Raoul Chiesa, 2002-09-24) ed 'Ethical Hacker's Speech II' (Associazione Italian Blackhats, 2002-10-30); ricerca WP REST 'blackhats'",
+  "result": "Testo intero letto: nessuna delle due nomina Pietrosanti o naif (erano in raw/slice1 come non verificate). La ricerca 'blackhats' restituisce solo questi due, i due già noti e 'L'arte dell'hacking'."
+ },
+ {
+  "lead": "PuntoSicuro 2001-2003 (sommari 641, 715, 716; articoli AR-2548 'A caccia di reti wireless da sfruttare' 11-10-2002, AR-1842, AR-1880, AR-2282, AR-2780, AR-2857)",
+  "result": "Solo l'articolo noto AR-2853 (10-02-2003, «A cura di Fabio Pietrosanti»), presente anche nel sommario n.715 e in /magazine/view-pdf/ (URL alternativi della stessa voce, non riproposti). AR-2548 sul wardriving a Milano cita l'indagine de La Stampa ma non lui. La ricerca interna del sito non risponde."
+ },
+ {
+  "lead": "Internet Archive, OCR djvu.txt (grep sul server di pietrosanti|naif|blackhats.it|sikurezza) sui numeri non coperti dal pass 2004: Hacker Journal 1-38, PC Professionale 091-153 (1998-2003), Win Magazine fino al n.58, Linux Magazine IT 001-018, Hacker Journal ES, ioProgrammo 1999-2006, Computer Idea 2000-2004",
+  "result": "Nessuna voce nuova. HJ 11 e 38 e Win Magazine 48 sono già noti. HJ 10 nomina 'Alessio Orlandi (Naif)', cioè Nail: escluso per decisione di Fabio. HJ 9 e 12 hanno solo blackhats.it (Pila, MITM) e sikurezza.org senza nome; HJ 2 ha sikurezza.org; HJ 5 è Paolo Pietrosanti (radicale); HJ 27/29/31 hanno un war walking ITBH a SMAU e Webbit senza nomi. Tutti i 29 numeri di PC Professionale 1998-2003 su IA sono senza OCR (residuo: andrebbero controllati a mano o con OCR proprio)."
+ },
+ {
+  "lead": "01net.it (WP REST search: pietrosanti, naif, blackhats, sikurezza, wardriving, s0ftpj)",
+  "result": "'pietrosanti' 0 risultati. Le pagine wardriving e Wi-Fi 2003-2006 ('Alla caccia di access point', 'Wi-fi la Ferrari del Web', 'Vulnerabile il 60% delle reti Wi-Fi') non lo nominano. Le pagine HTML sono dietro una challenge Cloudflare, che non è stata aggirata."
+ },
+ {
+  "lead": "Archivio La Repubblica (ricerca.repubblica.it) 1999-2003 'pietrosanti' (tutte le pagine); 1999-2006 'naif hacker', 'blackhats', 'pietrosanti hacker', 'wardriving'",
+  "result": "Solo omonimi (Roberto, artista; Paolo, radicale; Carlo, ADR; Aldo, insegnante; un giocatore). 'blackhats' restituisce solo 'I Cavalieri bianchi della Rete' (21-07-2003, Honeynet Project, senza nome)."
+ },
+ {
+  "lead": "Punto Informatico 'E-privacy 2003, convegno alle porte'",
+  "result": "Elenca s0ftpj.org tra gli aderenti ma non nomina lui. La presenza a e-privacy 2003 resta quella già nota (domanda al talk di vecna, BFi12-dev-10)."
+ },
+ {
+  "lead": "CNR / ISTI Pisa, 'Incontro di lavoro sulla Sicurezza Informatica' 13-11-2003 (openportal.isti.cnr.it 2003_120308.pdf)",
+  "result": "33 pagine lette: lui non c'è. Non è l'evento CNR Task Force del 05-11-2003 (noto solo via SlideShare); il programma di quell'evento non è stato trovato."
+ },
+ {
+  "lead": "Talk 2001-2003 autodichiarati nel curriculum (SMAU/Sicurmatica 19-10-2001 'punto di vista del NASP', tavola rotonda SMAU 20-10-2001, IBM Forum Linux 10-12-2001, LIUC Castellanza 05-05-2003 x2, Università di Firenze 15-10-2003 'Sicurezza, full-disclosure', Wireless Forum Milano 28-10-2003); LRA 08-02-2006",
+  "result": "WebSearch e Web Archive: nessuna fonte esterna. Infosecurity 2002 ora confermato (programma ITBH, riportato). Il Wireless Forum trovato è l'Itway Security&Wireless Forum, ma è dell'ottobre 2004 e non nomina lui. I siti LILiK e Università di Firenze 2003 non hanno pagine di eventi utili."
+ },
+ {
+  "lead": "Advisory 2001-2003 e 2005 (seclists author index di Full-Disclosure 2003-06 e 2003-07, Bugtraq 2003-11 e 2004-02; WebSearch su securityfocus e bugtraq)",
+  "result": "Nessun advisory nuovo. I post 2002-2003 in raw/slice1 sono risposte o domande in lista (non contano). Gli advisory restano quelli noti del 2000-2001 e del 2006 (Parallels)."
+ },
+ {
+  "lead": "WeekIT (Mondadori), articoli di Fabio oltre ai due noti del 2001-2002",
+  "result": "Web Archive CDX di www.weekit.it/weekit/*: 3.623 articoli (unico/art*). Lette tutte le 160 pagine con ID 006004035150-035420, l'intervallo 2001-2002 che contiene i due articoli noti (035189 del 14-12-2001 e 035348 dell'11-02-2002): con il suo nome ci sono solo questi due. Non lette le altre ~3.400 pagine (2002-2005), per i tempi del rate limit: residuo."
+ },
+ {
+  "lead": "WebSearch (circa 30 query): Pietrosanti + wireless/wardriving 2002-2003, Smau 2003/2004, Infosecurity 2003, PGP/firma digitale 2005-2006, Tor hidden services 2006, I.NET, Telecom Italia 2005, Yvette Agostini, Linux&C/Login, Webbit 2005, Sicurmatica/NASP, AntiKrimen/IBM Forum",
+  "result": "Nessuna fonte nuova oltre a quelle sopra. Un risultato su git.schokokeks.org (tor-webwml it/overview.wml) dà 404 e non è verificabile."
+ },
+ {
+  "lead": "Residui non accessibili",
+  "items": [
+   "Google Books API: quota esaurita (429) sia dal laptop sia dal server, ricerche non fatte",
+   "PC Professionale 1998-2003 su IA senza OCR",
+   "Webbit03: ~1.100 schede eventview non lette (solo l'area sicurezza e le schede 1795-2020)",
+   "Libro Giuseppe Paternò 'Sicurezza nelle Wireless LAN' (2003): ringraziamenti e bibliografia non consultabili",
+   "Il Sole 24 Ore, Corriere, La Stampa 2003, ZDNet/Computerworld Italia 2003: niente full text gratuito (come nel pass 2004)",
+   "Wayback dal laptop bloccato (429 'abusive bot traffic'); tutto il lavoro sul Web Archive è stato fatto dal server, con blocchi temporanei (connection refused)"
+  ]
+ }
+]

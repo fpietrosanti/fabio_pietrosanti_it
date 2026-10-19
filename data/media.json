@@ -37,23 +37,6 @@
   "date": null,
   "year": null,
   "type": "mentioned",
-  "outlet": "zeusnews.it",
-  "title": "La Camera approva data retention a 6 anni, infilato in emendamento su sicurezza ascensori",
-  "url": "https://www.zeusnews.it/n.php?c=25616",
-  "language": "it",
-  "role": "subject",
-  "note": "verified via wayback; context: …el decreto legislativo 30 giugno 2003, n. 196, in settantadue mesi . 12-bis. 020.(Testo modificato nel corso della seduta) Verini, Berretta, Mucci. (Approvato) Fabio Pietrosanti ( naif ) Se questo articolo ti è piaciuto …",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass3_google_2026-09-18-1030"
-  ],
-  "on_old_site": false
- },
- {
-  "date": null,
-  "year": null,
-  "type": "mentioned",
   "outlet": "editorialedomani.it",
   "title": "Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto",
   "url": "https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b",
@@ -1356,6 +1339,24 @@
   "on_old_site": true
  },
  {
+  "date": "2001-10-24",
+  "year": 2001,
+  "type": "mentioned",
+  "outlet": "Zeus News",
+  "title": "Un raggio di luce su SMAU",
+  "url": "https://www.zeusnews.it/n.php?c=873",
+  "language": "it",
+  "role": "speaker (citato)",
+  "note": "Ripubblicazione su Zeus News (24-10-2001) del resoconto di Raoul Chiesa sulla conferenza ITBH a SMAU 2001 (già noto su Punto Informatico e Apogeonline, URL diverso). Elenco relatori: «Fabio Pietrosanti (anche conosciuto come Naif) di I.NET». Trovato col crawl sequenziale di Zeus News n.php?c=1..2400.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-09-18-1030",
+   "pass4_lacuna2003_2026-10-19"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2001-10-25",
   "year": 2001,
   "type": "quoted",
@@ -1475,6 +1476,23 @@
   "on_old_site": false
  },
  {
+  "date": "2002-01-24",
+  "year": 2002,
+  "type": "talk",
+  "outlet": "Italian Black Hats - Infosecurity Italia 2002, Fiera di Milano",
+  "title": "Ethical Hacker's speech: interventi tecnici e tavola rotonda - programma (PDF)",
+  "url": "https://web.archive.org/web/20030521231608/http://www.blackhats.it:80/en/events/24012002/programma.pdf",
+  "language": "it",
+  "role": "speaker / co-organizzatore",
+  "note": "Programma ufficiale ITBH a Infosecurity 2002: «Presentazione e introduzione: Naif – Raptor – Nobody – Kobaiashi», «Hackers, chi sono? Relatori: Raptor, Naif, Kobaiashi, Nobody», chiusura «Presentazione futura Blackhats Conference: Nobody – Naif». Copia identica anche su sikurezza.org/bh_infosecurity02/programma.pdf. Il talk Infosecurity 2002 era finora solo autodichiarato (curriculum su fabio.pietrosanti.it), non in media.json.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2026-10-19"
+  ],
+  "on_old_site": true
+ },
+ {
   "date": "2002-02-11",
   "year": 2002,
   "type": "article_by",
@@ -1557,6 +1575,23 @@
   "known": false,
   "_slices": [
    "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2002-07-05",
+  "year": 2002,
+  "type": "slides",
+  "outlet": "sikurezza.org @ Webb.it 02, Padova",
+  "title": "SIKUREZZA.ORG - Italian Security Mailing List (slide di presentazione, PDF)",
+  "url": "https://web.archive.org/web/20030311060208/http://sikurezza.org:80/webbit02/sikurezza_org.pdf",
+  "language": "it",
+  "role": "speaker",
+  "note": "Slide del talk già noto (pagina sikurezza.org/webbit02.html in media.json): frontespizio «Relatori: Stefano Venturoli, Fabio Pietrosanti – Sikurezza.org@Webbit'02». Anche la pagina sikurezza.org/webbit.html (capture 2003) elenca «Presentazione sikurezza.org - Fabio Pietrosanti ('naif'), Stefano Venturoli».",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2026-10-19"
   ],
   "on_old_site": false
  },
@@ -1664,6 +1699,40 @@
   "on_old_site": false
  },
  {
+  "date": "2002-10-26",
+  "year": 2002,
+  "type": "talk",
+  "outlet": "Italian Black Hats - SMAU 2002, Fiera di Milano",
+  "title": "Ethical Hacker's Speech II - programma (PDF)",
+  "url": "https://web.archive.org/web/20040217095659/http://www.blackhats.it:80/en/events/26102002/programma.pdf",
+  "language": "it",
+  "role": "co-organizzatore / moderatore / speaker",
+  "note": "Programma ufficiale della giornata ITBH a SMAU 2002: tra i relatori «Fabio Pietrosanti, ITBH»; «Benvenuto ed introduzione ai lavori: Raoul Chiesa aka Nobody … Fabio Pietrosanti aka Naif, ITBH»; introduzione alla sessione pomeridiana con Nobody; poi «Wireless (in)security @ SMAU». Integra il talk già noto (slide su SlideShare).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2026-10-19"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2002-10-26",
+  "year": 2002,
+  "type": "slides",
+  "outlet": "Italian Black Hats (blackhats.it) - SMAU 2002",
+  "title": "Wireless (in)security @ SMAU 02 - slide originali su blackhats.it (PDF)",
+  "url": "https://web.archive.org/web/20030623124848/http://www.blackhats.it:80/en/events/26102002/wireless.pdf",
+  "language": "it",
+  "role": "speaker",
+  "note": "Copia originale d'epoca delle slide (la versione su SlideShare è già nota): frontespizio «Fabio Pietrosanti aka Naif, ITBH – Ethical Hacker's Speech II». Mirror anche su sikurezza.org/bh_smau02/wireless.pdf. Duplicato di contenuto: valutare se tenerlo.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2026-10-19"
+  ],
+  "on_old_site": true
+ },
+ {
   "date": "2003-01",
   "year": 2003,
   "type": "article_by",
@@ -1711,6 +1780,23 @@
   "known": false,
   "_slices": [
    "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2003-05-11",
+  "year": 2003,
+  "type": "talk",
+  "outlet": "Webbit03, Padova Fiere - Relatori indipendenti area sicurezza",
+  "title": "Wireless (in)security: Problemi di (in)sicurezza dell'802.11b (seminario 886)",
+  "url": "https://web.archive.org/web/20030510054644/http://www.webb.it:80/event/eventview/886/",
+  "language": "it",
+  "role": "speaker",
+  "note": "Scheda ufficiale Webbit 2003: «Relatore: Yvette Agostini e Fabio Pietrosanti … Sala: 8B Data: Padova 11.05.03 13:00»; bio: «Fabio Pietrosanti si interessa di sicurezza informatica dal 1997, professionalmente dal 1999». Conferma esterna del talk Webbit03 che in media.json ha solo l'URL del curriculum (data lì 2003-05-10; la scheda dice 11-05-2003). Capture precedente: web.archive.org/web/20030321022551/…/eventview/886/.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2026-10-19"
   ],
   "on_old_site": false
  },
@@ -2007,9 +2093,6 @@
    "slice1_1995_2006",
    "slice6_media_archives"
   ],
-  "mirrors": [
-   "https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259"
-  ],
   "on_old_site": true
  },
  {
@@ -2101,6 +2184,25 @@
   "on_old_site": false
  },
  {
+  "date": "2005-05-28",
+  "year": 2005,
+  "type": "slides",
+  "outlet": "SlideShare (e-privacy 2005)",
+  "title": "2005: E-privacy 2005: Pgp Luci E Ombre",
+  "url": "https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259",
+  "language": "it",
+  "role": "speaker",
+  "note": "Caricamento sul profilo SlideShare fpietrosanti (13 presentazioni): già presente in media.json come mirror della voce e-privacy 2005 (campo mirrors). Gli altri 12 caricamenti del profilo sono tutti già in media.json.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_lacuna2003_2026-10-19",
+   "slice1_1995_2006",
+   "slice6_media_archives"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2005-10",
   "year": 2005,
   "type": "talk",
@@ -2157,21 +2259,22 @@
   "on_old_site": false
  },
  {
-  "date": "2006-02-10",
+  "date": "2006-02-09",
   "year": 2006,
   "type": "talk",
-  "outlet": "Infosecurity Italia 2006, Milano (Fiera) - Area Demo Sikurezza.org",
-  "title": "Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialità (Venerdì 10, ore 10:00)",
+  "outlet": "Infosecurity Italia 2006, Milano - Area Demo Sikurezza.org",
+  "title": "Hardening della configurazione di PHP: limitare il danno (presentato in sostituzione di Igor Falcomatà)",
   "url": "https://web.archive.org/web/20060219061042/http://www.sikurezza.org/wiki/Risorse/Infosecurity06",
   "language": "it",
-  "role": "speaker",
-  "note": "Sikurezza.org Infosecurity06 page (Wayback 2006-02-19): 'abbiamo partecipato ad Infosecurity 2006 (8-10 Febbraio, Milano) ... Venerdì 10 Ore 10:00 Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialità - Fabio Pietrosanti ( naif ) ... » Firma_Digitale_Riservatezza.ppt'. Programme page for the known SlideShare deck 1669276, which media.json dates 2006-02-08. That date belongs to the separate LRA event in his own list; the Infosecurity session was Friday 10 Feb 2006.",
+  "role": "speaker (sostituto)",
+  "note": "Stessa pagina già nota (usata per il talk sulla firma digitale del 10-02-2006), ma con un secondo intervento non in media.json: «Hardening della configurazione di PHP: limitare il danno - Igor Falcomatà (kobaiashi) [causa malattia del relatore, la presentazione è stata tenuta da Alessio Pennasilico e Fabio Pietrosanti su slide di un intervento similare]». URL noto, quindi known=true: serve una voce separata o una nota sull'esistente.",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_lacuna2003_2026-10-19",
    "pass4_lacuna2004_talks_2026-10-08"
   ],
-  "on_old_site": false
+  "on_old_site": true
  },
  {
   "date": "2006-02-10",
@@ -11326,23 +11429,6 @@
   "on_old_site": false
  },
  {
-  "date": "2019-11-05",
-  "year": 2019,
-  "type": "talk",
-  "outlet": "pr-foundation.org",
-  "title": "5 novembre a Milano: Incontro sulle Fondazioni Culturali e il Digitale — P&R Foundation",
-  "url": "http://www.pr-foundation.org/5-novembre-milano/",
-  "language": "it",
-  "role": "speaker",
-  "note": "verificato a mano 2026-10-13 (ricerca Google); tavola rotonda moderata da Eugenio Cau: Fabio Pietrosanti, Founder, Hermes Center; anno dedotto dai ruoli dei relatori (Italia Viva, Scorza al Team Digitale)",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass3_google_2026-10-13-0433"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2019-11-12",
   "year": 2019,
   "type": "project",
@@ -11464,6 +11550,23 @@
   "known": false,
   "_slices": [
    "pass4_aire_voto_estero_2026-09-25"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-11-27",
+  "year": 2019,
+  "type": "talk",
+  "outlet": "P&R Foundation / Digital Italy Summit 2019 (The Innovation Group), Roma",
+  "title": "Tavolo di lavoro sulla protezione dei dati personali al Digital Italy Summit 2019 («La protezione dei dati personali fra geopolitica, tecnologia e mercato»)",
+  "url": "http://www.pr-foundation.org/tavolo-lavoro-sulla-protezione-dei-dati-personali-al-digital-italy-summit-2019/",
+  "language": "it",
+  "role": "panelist",
+  "note": "Post del 30/12/2019 della P&R Foundation: tavola rotonda del 27/11/2019 al Centro Congressi Roma Eventi Fontana di Trevi, moderata da Eugenio Cau (Il Foglio); tra gli intervenuti «Fabio Pietrosanti, Founder, Hermes Center for Transparency and Digital Human Rights» (con Busìa, Quintarelli, Comella, Nicita, Scorza, conclusioni del ministro Boccia). URL corretto della voce registrata il 13/10 sotto la pagina «5 novembre a Milano» (lì il nome compariva solo nel riquadro «Novità» laterale). Verificata sulla pagina live 2026-10-19.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_copie_fix_2026-10-19"
   ],
   "on_old_site": false
  },
@@ -12425,6 +12528,23 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-02-15",
+  "year": 2020,
+  "type": "audio",
+  "outlet": "Valigia Blu (podcast)",
+  "title": "Come Cia e Bnd hanno spiato le diplomazie mondiali vendendo macchine antispionaggio",
+  "url": "https://podcasters.spotify.com/pod/show/valigiablu/episodes/Come-Cia-e-Bnd-hanno-spiato-le-diplomazie-mondiali-vendendo-macchine-antispionaggio-eas0d2",
+  "language": "it",
+  "role": "quoted (probabile)",
+  "note": "Versione audio dell'articolo Valigia Blu del 16/02/2020 (già in archivio, cita Pietrosanti sul caso Crypto AG). L'API iTunes Search (entity=podcastEpisode, term=Pietrosanti) restituisce l'episodio, ma la descrizione testuale non contiene il nome: corrispondenza quasi certamente dalla trascrizione automatica Apple dell'audio. Da verificare all'ascolto. Apple: https://podcasts.apple.com/us/podcast/come-cia-e-bnd-hanno-spiato-le-diplomazie-mondiali/id1497594850?i=1000465704985",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
   ],
   "on_old_site": false
  },
@@ -13428,6 +13548,23 @@
   "known": false,
   "_slices": [
    "pass3_bloomberg_nk_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-05-01",
+  "year": 2020,
+  "type": "audio",
+  "outlet": "Bloomberg - Listen to the Story",
+  "title": "North Korea's Man in Spain",
+  "url": "https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain",
+  "language": "en",
+  "role": "mentioned (probabile)",
+  "note": "Versione audio dell'articolo Bloomberg Businessweek di Josh Dean su Alejandro Cao de Benós (articolo già noto). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto. Apple: https://podcasts.apple.com/us/podcast/north-koreas-man-in-spain/id1578781150?i=1000530340359",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
   ],
   "on_old_site": false
  },
@@ -16535,6 +16672,23 @@
   "on_old_site": false
  },
  {
+  "date": "2021-10-14",
+  "year": 2021,
+  "type": "audio",
+  "outlet": "The Crypto Conversation (Brave New Coin)",
+  "title": "Scandal and Turmoil - The Cryptocurrency Wild West",
+  "url": "https://podcasts.apple.com/us/podcast/scandal-and-turmoil-the-cryptocurrency-wild-west/id1471243424?i=1000538523963",
+  "language": "en",
+  "role": "mentioned (probabile)",
+  "note": "Intervista a Ethan Lou, autore di «Once a Bitcoin Miner» (Pyongyang 2019, Virgil Griffith). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto. Audio: https://traffic.libsyn.com/secure/thecryptoconversation/ethan_FIN.mp3",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2021-10-15",
   "year": 2021,
   "type": "tweet",
@@ -16893,6 +17047,23 @@
  {
   "date": "2022-03-15",
   "year": 2022,
+  "type": "audio",
+  "outlet": "Ciao, Internet! con Matteo Flora",
+  "title": "KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!",
+  "url": "https://www.spreaker.com/episode/kaspersky-antivirus-e-pericoloso-va-rimosso-e-un-malware-russo-tutte-le-risposte--49065639",
+  "language": "it",
+  "role": "mentioned (probabile)",
+  "note": "iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple); nessuna trascrizione Spreaker. Da verificare all'ascolto. Apple: https://podcasts.apple.com/us/podcast/kaspersky-antivirus-%C3%A8-pericoloso-va-rimosso-%C3%A8-un/id1046298895?i=1000554064030",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-03-15",
+  "year": 2022,
   "type": "quoted",
   "outlet": "Il Riformista",
   "title": "\"Disinstallate Kaspersky dai PC\", i servizi segreti lanciano l'allarme per l'antivirus usato da Farnesina e Viminale",
@@ -16969,6 +17140,40 @@
   "on_old_site": false
  },
  {
+  "date": "2022-03-30",
+  "year": 2022,
+  "type": "audio",
+  "outlet": "Il podcast di Marco Canestrari",
+  "title": "Pacifici si ma incazzati pure",
+  "url": "https://www.spreaker.com/episode/pacifici-si-ma-incazzati-pure--49249201",
+  "language": "it",
+  "role": "mentioned (probabile)",
+  "note": "Tra i temi «l'affare #Kaspersky». iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-04-01",
+  "year": 2022,
+  "type": "audio",
+  "outlet": "Ciao, Internet! con Matteo Flora",
+  "title": "[DIRETTA] - Ciao Internet! La Diretta del 1 Aprile 2022",
+  "url": "https://www.spreaker.com/episode/diretta-ciao-internet-la-diretta-del-1-aprile-2022--49286341",
+  "language": "it",
+  "role": "mentioned (probabile)",
+  "note": "iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2022-05-13",
   "year": 2022,
   "type": "video",
@@ -17033,6 +17238,23 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-05-23",
+  "year": 2022,
+  "type": "audio",
+  "outlet": "DataKnightmare (Walter Vannini)",
+  "title": "DK 6x28 - MonitoraPA e le prese sul Titanic",
+  "url": "https://www.spreaker.com/episode/dk-6x28-monitorapa-e-le-prese-sul-titanic--49902887",
+  "language": "it",
+  "role": "progetto discusso (MonitoraPA)",
+  "note": "Puntata interamente su MonitoraPA («L'idea di un gruppo di cittadini hacker attivisti»); il nome di Fabio non è nella descrizione, ma iTunes indicizza l'episodio anche per «Pietrosanti» (probabile trascrizione).",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
   ],
   "on_old_site": false
  },
@@ -17664,6 +17886,23 @@
   "on_old_site": false
  },
  {
+  "date": "2023-01-07",
+  "year": 2023,
+  "type": "audio",
+  "outlet": "Ciao, Internet! con Matteo Flora - Garantismi LIVE",
+  "title": "[Garantismi LIVE] - Le Sfide della Privacy nel 2023",
+  "url": "https://www.spreaker.com/episode/garantismi-live-le-sfide-della-privacy-nel-2023--52379256",
+  "language": "it",
+  "role": "mentioned (probabile)",
+  "note": "Diretta con Guido Scorza. iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2023-01-16",
   "year": 2023,
   "type": "press_release",
@@ -17864,6 +18103,23 @@
   "on_old_site": false
  },
  {
+  "date": "2023-05-07",
+  "year": 2023,
+  "type": "audio",
+  "outlet": "BBC World Service - Cyber Hack / The Lazarus Heist",
+  "title": "The Lazarus Heist S2: 7. Crypto comrades",
+  "url": "https://www.bbc.co.uk/programmes/w3ct5fc4",
+  "language": "en",
+  "role": "mentioned (probabile)",
+  "note": "Episodio sulla conferenza crypto di Pyongyang del 2019 («Eight international tech experts decide to go»). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple); il riassunto di podwise.ai non lo nomina. Da verificare all'ascolto. Audio: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fgqj49.mp3 ; Apple: https://podcasts.apple.com/us/podcast/the-lazarus-heist-s2-7-crypto-comrades/id1561990291?i=1000608965765",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2023-05-16",
   "year": 2023,
   "type": "mentioned",
@@ -17894,6 +18150,23 @@
   "known": false,
   "_slices": [
    "pass4_copernicani_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2023-05-17",
+  "year": 2023,
+  "type": "video",
+  "outlet": "Associazione Copernicani (YouTube)",
+  "title": "Privacy By Design - Privacy Coins",
+  "url": "https://www.youtube.com/watch?v=SEQQOGEBnXo",
+  "language": "it",
+  "role": "moderator",
+  "note": "Registrazione dell'evento Copernicani del 17/05/2023 (pagina annuncio copernicani.it/privacy-by-design-e-privacy-coins/ già in archivio). Snippet della descrizione nei risultati di ricerca YouTube: «Presenta Fabio Pietrosanti. Proveniente dall'underground hacker, Fabio lavora nella ...». Data di upload non letta (YouTube ha risposto 429 al server); «3 anni fa» nei risultati.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
   ],
   "on_old_site": false
  },
@@ -19088,6 +19361,23 @@
   "known": false,
   "_slices": [
    "pass4_cina_browser_2026-10-09"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-10-14",
+  "year": 2026,
+  "type": "video",
+  "outlet": "Cyber Saiyan (YouTube) - RomHack Camp 2026",
+  "title": "MXMap Italia: National Observatory for Digital Sovereignty | RomHack Camp 2026",
+  "url": "https://www.youtube.com/watch?v=GyNpnJ5Q2ew",
+  "language": "en",
+  "role": "speaker",
+  "note": "Registrazione video (19'43'') del talk del 02/10/2026, Stage 2, Flaminio Village, Roma; pubblicata il 14/10/2026. Descrizione: «Speakers: Fabio Pietrosanti (naif)». La pagina CFP del talk (cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/) è già in archivio; il video è nuovo.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2026-10-19"
   ],
   "on_old_site": false
  },

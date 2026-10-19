@@ -144,47 +144,7 @@ def build(lang="en"):
         body = "".join(f"<p>{p}</p>" for p in ch["body"])
         story.append(f'<article class="chapter"><div class="yrs">{esc(ch["years"])}</div><div><h3>{esc(ch["title"])}</h3>{body}</div></article>')
 
-    # projects grouped by area
-    groups = {}
-    for p in sorted(projects, key=lambda p: int(p["start_year"] or 0), reverse=True):
-        area = c["areas"].get(p["area"], p["area"])
-        desc, link = c["projects"].get(p["name"], ["", ""])
-        name = c["project_titles"].get(p["name"], p["name"])
-        never = "mai partito" in p["name"] or "never started" in desc
-        src = [s for s in p.get("sources", []) if isinstance(s, str) and s.startswith("http")][:3]
-        links = ([f'<a href="{esc(link)}" rel="noopener">{esc(re.sub(r"^https?://(www\\.)?", "", link).rstrip("/")[:40])}</a>'] if link else []) + \
-                [f'<a href="{esc(s)}" rel="noopener">source {n + 1}</a>' for n, s in enumerate(src)]
-        groups.setdefault(area, []).append(f'''<div class="proj{' never' if never else ''}">
-  <div class="py">{esc(str(p["start_year"]))}{f' · <em>{esc(c["never_started_marker"])}</em>' if never else ''}</div>
-  <h4>{esc(name)}</h4><p>{esc(desc)}</p><div class="plinks">{" ".join(links)}</div></div>''')
-    order = sorted(groups, key=lambda a: -len(groups[a]))
-    proj_html = "".join(f'<div class="pgroup"><h3>{esc(a)}</h3><div class="pgrid">{"".join(groups[a])}</div></div>' for a in order)
-
-    pats = "".join(
-        f'<div class="pat"><h4>{esc(x["title"])}</h4><div class="pref">{esc(x["refs"])}</div>'
-        f'<div class="meta">{esc(x["dates"])}<br>{esc(x["who"])}</div><div class="plinks">'
-        + " ".join(f'<a href="{esc(u)}" rel="noopener">{esc(n)}</a>' for n, u in x["links"])
-        + (f' <a class="loc" href="{esc(x["local"])}">local copy (PDF)</a>' if x.get("local") else "") + "</div></div>"
-        for x in c.get("patents", []))
-    pat_html = f'<div class="pats" id="patents"><h3 class="subh">{esc(c.get("patents_title", "Patents"))}</h3>{pats}</div>' if pats else ""
-    tagdefs = load(ROOT / "data/tags.json")
-    tagged = [i for i in items if i["g"]]
-    order = ["ijf", "dig", "newsroom-leaks", "transparency", "source-protection", "own-investigations"]
-    strands = []
-    for k in [k for k in order if k in tagdefs]:
-        sel = [i for i in tagged if k in i["g"]]
-        if not sel:
-            continue
-        ys = [i["y"] for i in sel if i["y"]]
-        strands.append(f'<tr class="strand" data-tag="{esc(k)}" tabindex="0"><th>{esc(tagdefs[k]["label_en"])}</th>'
-                       f'<td class="n">{len(sel)}</td><td class="yr2">{min(ys)}–{max(ys)}</td>'
-                       f'<td class="wh">{esc(tagdefs[k].get("about_en") or "")}</td></tr>')
-    truth = ("".join(f"<p>{x}</p>" for x in c.get("truth_intro", []))
-             + ('<table class="strands"><thead><tr><th>%s</th><th>%s</th><th>%s</th><th>%s</th></tr></thead><tbody>%s</tbody></table>'
-                % (esc(c["truth_table"]["strand"]), esc(c["truth_table"]["items"]), esc(c["truth_table"]["years"]),
-                   esc(c["truth_table"]["what"]), "".join(strands)))
-             + f'<p class="note">{esc(c.get("truth_strands_note", ""))}</p>') if strands else ""
-    # focus / evidence / quotes / artifacts
+    # identity, focus, artifacts, books, contact, donor
     ident = c["identity"]
     focus = "".join(
         f'<article class="foc{" now" if x.get("now") else ""}"><div class="fk">{esc(x["k"])}'
@@ -192,16 +152,6 @@ def build(lang="en"):
         f'<p>{esc(x["text"])}</p><div class="plinks">'
         + " ".join(f'<a href="{esc(u)}" rel="noopener">{esc(n)}</a>' for n, u in x["links"]) + "</div></article>"
         for x in c.get("focus_now", []))
-    steps = c.get("evidence_steps", [])
-    evidence = "".join(
-        f'<article class="ev"><header><span class="evy">{esc(x["year"])}</span><h4>{esc(x["case"])}</h4></header><ol>'
-        + "".join(f'<li><b>{esc(steps[n] if n < len(steps) else "")}</b><span>{esc(t)}</span></li>'
-                  for n, t in enumerate(x["steps"]))
-        + f'</ol><a class="evl" href="{esc(x["link"][1])}" rel="noopener">{esc(x["link"][0])} →</a></article>'
-        for x in c.get("evidence", []))
-    quotes = "".join(
-        f'<figure class="q"><blockquote>“{esc(x["t"])}”</blockquote>'
-        f'<figcaption>{esc(x["who"])} · {esc(x["when"])}</figcaption></figure>' for x in c.get("quotes", []))
     arts = []
     hosted = load(ROOT / "site/copies.json") if (ROOT / "site/copies.json").exists() else {}
     by_url = {i["url"]: i for i in load(ROOT / "data/media.json")}
@@ -209,27 +159,58 @@ def build(lang="en"):
         cover = Path(path).parent / "slides" / "slide-001.jpg"
         if (ROOT / cover).exists() and u in by_url:
             it = by_url[u]
-            arts.append((it.get("year") or 0, it.get("title") or "", str(cover).replace("\\", "/"),
-                         str(Path(path).parent / "slides" / "slides.pdf").replace("\\", "/"), it["url"]))
+            arts.append((it.get("year") or 0, it.get("title") or "", str(cover).replace("\\", "/"), u))
     artifacts = "".join(
-        f'<a class="art" href="{esc(src)}" rel="noopener"><img loading="lazy" src="{esc(img)}" alt="">' 
-        f'<span class="ay">{y}</span><span class="at">{esc(t)}</span></a>'
-        for y, t, img, pdf, src in sorted(arts))
+        f'<a class="art" href="{esc(src)}" rel="noopener"><img loading="lazy" src="{esc(img)}" alt="">'
+        f'<span class="ay">{y}</span><span class="at">{esc(t)}</span></a>' for y, t, img, src in sorted(arts))
     bui = c.get("books_ui", {})
     book_list = load(ROOT / "data/books.json") if (ROOT / "data/books.json").exists() else []
-    books = "".join(
-        f'<article class="book"><div class="by">{esc(str(b["year"]))}'
-        f'<span class="how">{esc(bui.get("how", {}).get(b["how"], b["how"]))}</span></div>'
-        f'<h4>{esc(b["title"])}</h4><div class="bmeta">{esc(b["authors"])} · {esc(b["publisher"])}'
-        + (f' · {esc(b["pages"])}' if b.get("pages") else "") + f'</div><p>{esc(b["summary_en"])}</p><div class="plinks">'
-        + " ".join(f'<a href="{esc(u)}" rel="noopener">{esc(bui.get("source", "source"))} {n + 1}</a>' for n, u in enumerate(b["urls"][:3]))
-        + "</div></article>"
+    btab = c.get("books_table", {})
+    brows = "".join(
+        f'<tr><td class="py">{esc(str(b["year"]))}</td><th>{esc(b["title"])}</th>'
+        f'<td class="bh">{esc(bui.get("how", {}).get(b["how"], b["how"]))}</td>'
+        f'<td class="ba">{esc(b["authors"])}<span>{esc(b["publisher"])}</span></td>'
+        f'<td class="pd">{esc(b["summary_en"])}</td><td class="pl">'
+        + " ".join(f'<a href="{esc(u)}" rel="noopener">{n + 1}</a>' for n, u in enumerate(b["urls"][:3])) + "</td></tr>"
         for b in sorted(book_list, key=lambda b: (b["year"], b["title"])))
-    books_html = (f'<div class="books">{books}</div><p class="note">{esc(bui.get("note", ""))}</p>') if books else ""
+    books_html = ('<table class="ptable btable"><thead><tr>'
+                  + "".join(f"<th>{esc(btab.get(k, k))}</th>" for k in ("year", "title", "how", "authors", "what", "links"))
+                  + f'</tr></thead><tbody>{brows}</tbody></table>'
+                  + f'<p class="note">{esc(bui.get("note", ""))}</p>') if book_list else ""
+    contact = "".join(f"<p>{linkify(x)}</p>" for x in c.get("contact_lines", []))
     dn = c.get("donor") or {}
-    donor = (f'<div class="donor"><span class="dk">{esc(dn.get("kicker",""))}</span>'
-             f'<h3>{esc(dn.get("title",""))}</h3><p>{esc(dn.get("text",""))}</p>'
+    donor = (f'<div class="donor"><span class="dk">{esc(dn.get("kicker", ""))}</span>'
+             f'<h3>{esc(dn.get("title", ""))}</h3><p>{esc(dn.get("text", ""))}</p>'
              f'<a href="{esc(dn["link"][1])}" rel="noopener">{esc(dn["link"][0])} →</a></div>') if dn else ""
+
+    # patents
+    pats = "".join(
+        f'<div class="pat"><h4>{esc(x["title"])}</h4><div class="pref">{esc(x["refs"])}</div>'
+        f'<div class="meta">{esc(x["dates"])}<br>{esc(x["who"])}</div><div class="plinks">'
+        + " ".join(f'<a href="{esc(u)}" rel="noopener">{esc(n)}</a>' for n, u in x["links"])
+        + (f' <a class="loc" href="{esc(x["local"])}">local copy (PDF)</a>' if x.get("local") else "") + "</div></div>"
+        for x in c.get("patents", []))
+    pat_html = f'<div class="pats" id="patents"><h3 class="subh">{esc(c.get("patents_title", "Patents"))}</h3>{pats}</div>' if pats else ""
+
+    # projects: compact table, all data
+    ptab = c.get("projects_table", {})
+    never_mark = f' <em>({esc(c["never_started_marker"])})</em>' 
+    prows = []
+    for p_ in sorted(projects, key=lambda p: int(p["start_year"] or 0)):
+        area = c["areas"].get(p_["area"], p_["area"])
+        desc, link = c["projects"].get(p_["name"], ["", ""])
+        name = c["project_titles"].get(p_["name"], p_["name"])
+        never = "mai partito" in p_["name"] or "never started" in desc
+        src = [x for x in p_.get("sources", []) if isinstance(x, str) and x.startswith("http")][:3]
+        links = ([f'<a href="{esc(link)}" rel="noopener">site</a>'] if link and link.startswith("http") else []) +                 [f'<a href="{esc(x)}" rel="noopener">{n + 1}</a>' for n, x in enumerate(src)]
+        prows.append(f'<tr{" class=\"never\"" if never else ""}><td class="py">{esc(str(p_["start_year"]))}</td>'
+                     f'<th>{esc(name)}{f" <em>({esc(c[chr(34)+chr(34)] if False else c["never_started_marker"])})</em>" if never else ""}</th>'
+                     f'<td class="pa">{esc(area)}</td><td class="pd">{esc(desc)}</td>'
+                     f'<td class="pl">{" ".join(links)}</td></tr>')
+    proj_html = ('<table class="ptable"><thead><tr>'
+                 + "".join(f"<th>{esc(ptab.get(k, k))}</th>" for k in ("year", "name", "area", "what", "links"))
+                 + f'</tr></thead><tbody>{"".join(prows)}</tbody></table>')
+
     comm = "".join(f'<div class="comm"><h4>{esc(n)}</h4><p>{esc(t)}</p></div>' for n, t in c["communities"])
     past = "".join(f'<li><a href="{esc(u)}">{esc(n)}</a></li>' for n, u in c["past_sites"])
     nav = "".join(f'<a href="#{k}">{esc(v)}</a>' for k, v in c["nav"])
@@ -240,6 +221,12 @@ def build(lang="en"):
     hist = "".join(f'<button class="bar" data-y="{y}" title="{y}: {years.get(y, 0)}" style="--h:{years.get(y, 0) / peak:.3f}"><i></i><span>{str(y)[2:]}</span></button>'
                    for y in range(ymin, ymax + 1))
     ui = c["archive_ui"]
+    order_t = ["ijf", "dig", "newsroom-leaks", "transparency", "source-protection", "own-investigations"]
+    tagdefs = load(ROOT / "data/tags.json")
+    tagchips = "".join(
+        f'<button class="chip" data-tag="{esc(k)}">{esc(tagdefs[k]["label_en"])} '
+        f'<small>{sum(1 for i in items if k in i["g"])}</small></button>'
+        for k in order_t if k in tagdefs and any(k in i["g"] for i in items))
     cat_btns = f'<button class="chip on" data-c="">{esc(ui["all"])} <small>{len(items)}</small></button>' + "".join(
         f'<button class="chip" data-c="{k}">{esc(v)} <small>{counts[k]}</small></button>' for k, v in ui["cats"].items())
 
@@ -254,18 +241,16 @@ def build(lang="en"):
         "AKA": esc(c["hero"]["aka"]), "HEADLINE": esc(intro["headline"]), "HERO_LINKS": hero_links, "STATS": stats_html,
         "H_ABOUT": head("about", 1), "ABOUT": about, "H_STORY": head("story", 2), "STORY": "".join(story),
         "H_WORK": head("work", 4), "EXP": "".join(exp), "PATENTS": pat_html, "H_PROJECTS": head("projects", 5), "PROJECTS": proj_html,
-        "H_ARCHIVE": head("archive", 7), "SEARCH": esc(ui["search"]), "CATS": cat_btns, "HIST": hist,
+        "H_ARCHIVE": head("archive", 6), "SEARCH": esc(ui["search"]), "CATS": cat_btns, "TAGCHIPS": tagchips, "HIST": hist,
         "NICK": esc(ident["nick"]), "ZH": esc(ident["zh"]), "ZHNOTE": esc(ident["zh_note"]),
         "ROLES": "".join(f'<span{" class=\"first\"" if n == 0 else ""}>{esc(r)}</span>'
                          for n, r in enumerate(ident["roles"])),
         "ROLENOTE": esc(ident["role_note"]),
-        "H_FOCUS": head("focus", 3), "FOCUS": focus, "QUOTES": quotes,
-        "EVIDENCE": evidence, "EVTITLE": esc(c["evidence_title"][0]), "EVSUB": esc(c["evidence_title"][1]),
-        "H_ARTIFACTS": head("artifacts", 10), "ARTIFACTS": artifacts,
-        "H_BOOKS": head("books", 12) if "books" in st else "", "BOOKS": books_html,
-        "H_TRUTH": head("truth", 6), "TRUTH": truth, "TAGS": json.dumps(
-            {k: v["label_en"] for k, v in tagdefs.items() if not k.startswith("_")}, ensure_ascii=False),
-        "H_COMM": head("communities", 8), "COMM": comm, "H_PAST": head("past", 9), "PAST": past,
+        "H_FOCUS": head("focus", 3), "FOCUS": focus, "CONTACT": contact,
+        "H_ARTIFACTS": head("artifacts", 8), "ARTIFACTS": artifacts,
+        "H_BOOKS": head("books", 7) if "books" in st else "", "BOOKS": books_html,
+        "TAGS": json.dumps({k: v["label_en"] for k, v in tagdefs.items() if not k.startswith("_")}, ensure_ascii=False),
+        "H_COMM": head("communities", 9), "COMM": comm, "H_PAST": head("past", 10), "PAST": past,
         "H_CONTACT": head("contact", 11), "DONOR": donor, "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
         "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
     }.items():

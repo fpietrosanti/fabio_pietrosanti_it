@@ -1,0 +1,104 @@
+{
+ "about": "pass4 podcast/radio/video 2017-2026 (agente C, 2026-10-19). Ricerche eseguite dal server 51.158.36.151 (rete locale bloccata dal sandbox).",
+ "searched": [
+  {
+   "source": "Spreaker API v2 (tutti gli episodi, descrizioni + trascrizioni se presenti)",
+   "shows": "Ciao Internet 2130193 (1623 ep.), DataKnightmare 1977562 (400), Copernicani 5130309 (44), Marco Canestrari 3203108 (260)",
+   "result": "Ciao Internet: solo episodi già noti (2019-03-13, 2020-06-09, 2021-06-08, 2022-05-13, 2022-09-20) + 2021-12-06 Hermes (solo l'organizzazione). DataKnightmare: 6x28/6x30/6x31 MonitoraPA senza nome. Copernicani e Canestrari: zero. Nessuna trascrizione Spreaker disponibile."
+  },
+  {
+   "source": "Feed RSS mirati",
+   "feeds": "Valigia Blu (anchor, 305 ep. 2020-2026), DataKnightmare EN, Copernicani La Scuola Cresce, Il Virus (Canestrari), BBC Cyber Hack, RSI Il Disinformatico (2023-2026), Digitalia, Pillole di Bit, Sky TG24 1234, Sotto Attacco, Zero Days (Ziccardi), Il Sole 24 Ore Tecno, FastForward, The Crypto Conversation, Bloomberg Listen to the Story, Wired Play, Biohacking (Santori), Salute e Biohacking, Radio 24 (2024, Speciale IA, 2024 più dieci, Digital News), Internazionale Il Mondo + extra, Cybersecurity & Cybercrime, Caffè 2.0, Master One Thing Rapamycin, Optispan (Kaeberlein), London Futurists, Transhumanist Party Salon",
+   "result": "nessun episodio nuovo con il nome nelle descrizioni"
+  },
+  {
+   "source": "Sweep di 1184 feed RSS trovati con iTunes Search (IT: privacy, cybersecurity, sicurezza informatica, hacker, sorveglianza, whistleblowing, diritti digitali, tecnologia, digitale, innovazione, longevità, biohacking, invecchiamento, open source, PA, IA, politica digitale, radio24, radio popolare, rai radio, radio radicale, wired, startup, crypto, sanità digitale; US/GB: longevity, biohacking, healthspan, whistleblower, privacy surveillance, infosec, tor anonymity)",
+   "result": "zero menzioni di Pietrosanti nelle descrizioni; solo hit su Hermes Center (CRASH, podcast Hermes/The Good Lobby 2024; Guerre di Rete 2021-02-20 con Carrer/Coluccini) e falsi positivi su «naif»/«hacking biology» generici"
+  },
+  {
+   "source": "RaiPlaySound JSON per programma",
+   "programs": "Eta Beta (2021-2026, 272 puntate), Radio3 Scienza, Tutta la città ne parla, Zapping, Radio3 Mondo, Prima Pagina, Fahrenheit",
+   "result": "solo Eta Beta 05/03/2022 (già noto); le puntate del 19/03/2022 e del 23/09/2023 citano Laura Carrer del Centro Hermes, non Fabio; 06/07/2024 'biohacker' generico (ospiti Carfagna, Stellacci)"
+  },
+  {
+   "source": "iTunes Search episodi (Pietrosanti, Fabio Pietrosanti, Pietrosanti naif, MonitoraPA, Hermes Center, Centro Hermes, GlobaLeaks, Hacking Biology, biohack.it, MXMap; store IT+US)",
+   "result": "nuovi solo i candidati da trascrizione Apple, inseriti con verified:false; tutti gli altri già noti"
+  },
+  {
+   "source": "YouTube search (~40 query: nome, naif, GlobaLeaks, biohacking, spyware, Copernicani, MonitoraPA, voto elettronico, longevity, Immuni, Tor, Pyongyang, rapamicina, Hermes, MXMap, RomHack, anni 2023/2024/2026)",
+   "result": "nuovi: RomHack Camp 2026 (Cyber Saiyan) e Copernicani Privacy Coins 2023; poi YouTube ha risposto 429 «unusual traffic» al server (non aggirato)"
+  },
+  {
+   "source": "hackingbiology.com/news (sitemap)",
+   "result": "pagine Longevity Summit Dublin 2025, Rapamycin News 2024, Fund Longevity Roma 2026: nessun podcast o video nuovo"
+  },
+  {
+   "source": "WebSearch (~14 query: podcast, Radio Popolare, RSI/Radio3, raiplaysound, biohacker podcast 2025-26, longevity interview 2026, ondarossa, site:radio24, Copernicani Privacy Coins, Lazarus Heist)",
+   "result": "nessun risultato pertinente"
+  }
+ ],
+ "not_him_or_no_name": [
+  {
+   "url": "https://www.youtube.com/watch?v=driGfzMre5Q",
+   "reason": "Radio Digiesse: omonimo autore/giornalista calabrese (come 3PYnpnzCo8g, già escluso); stesso canale anche qgUQcWb9OAo, llJts0PT0R8, MqN6-Kfd-Bo, UoL261y7wN0, YO-XI4QzQ7Y"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=PqahI9O2XH4",
+   "reason": "Seven Cults (~2023) 'Pasolini e la periferia - mostra fotografica' a cura di Gerardo Martorelli e Fabio Pietrosanti: probabile omonimo (giornalista/autore), non verificato"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=BOFFRiQ6EeA",
+   "reason": "canale 'fabio pietrosanti', cover musicale alla Locanda Blues (~2016): omonimo o non pertinente"
+  },
+  {
+   "url": "https://podcasts.apple.com/us/podcast/vieni-con-me-di-luned%C3%AC-23-09-2024/id1768024229?i=1000670423499",
+   "reason": "Radio Popolare 'Vieni con me': Laura Pietrosanti, omonima"
+  },
+  {
+   "url": "(iTunes) Afrofonia 08.12.2024, Sveja 2023-02-04, Kalemana Festival 2024, Nicolò Terminio 2020, Voci dallo IAI 2022, Motoring Podcast 2024, Cigar Dave / Megyn Kelly / Bolling / Jaguar 2024",
+   "reason": "match iTunes per 'Pietrosanti' senza contesto pertinente: omonimi o rumore della trascrizione"
+  },
+  {
+   "url": "https://podcasts.apple.com/us/podcast/ep-31-sorveglianza-di-massa-algoritmo-di-razza/id1658607465?i=1000619527087",
+   "reason": "Fuoriluogo ep. 31 (2023-07-06): Laura Carrer di Hermes Center, non Fabio"
+  },
+  {
+   "url": "https://podcasters.spotify.com/pod/show/carola-frediani/episodes/Chat-di-Rete---Riprenditi-la-faccia-la-campagna-europea-contro-il-riconoscimento-facciale-eqlvrd",
+   "reason": "Guerre di Rete 2021-02-20: ospiti Carrer e Coluccini (Hermes), non Fabio"
+  },
+  {
+   "url": "https://feeds.megaphone.fm/crash",
+   "reason": "CRASH – La chiave per il digitale (2024, Hermes Center + The Good Lobby): nessuna menzione di Fabio"
+  },
+  {
+   "url": "https://www.linkiesta.it/2026/01/immortalita-longevita-vita-eterna-tecnologia-biohacking/",
+   "reason": "articolo sul biohacking del 2026: nome assente"
+  }
+ ],
+ "blocked_or_not_done": [
+  "Podbean search: challenge Cloudflare (non aggirata)",
+  "copernicani.it: 403 (anche via WebFetch); usato il Wayback CDX: la pagina privacy-by-design è già nota",
+  "YouTube: 429 'unusual traffic' dopo ~40 ricerche; descrizione completa e data di upload di SEQQOGEBnXo non lette",
+  "ondarossa.info (Radio Onda Rossa / Entropia Massima): ricerca interna 404, nessun risultato via WebSearch",
+  "Radio24: la ricerca sul sito è renderizzata via JS; i feed RSS contengono solo gli episodi recenti",
+  "Trascrizioni Apple Podcasts non accessibili senza l'audio: i candidati 'probabile' vanno verificati all'ascolto",
+  "Twitch: non cercato (nessuna pista)"
+ ],
+ "tolti_dal_raw_2026-10-19": [
+  {
+   "url": "https://www.spreaker.com/episode/dk-6x30-monitorapa-come-va--50108133",
+   "title": "DK 6x30 - MonitoraPA, come va?",
+   "motivo": "nessun segnale del nome (né descrizione né indicizzazione iTunes per «Pietrosanti»): solo MonitoraPA/Hermes come organizzazione"
+  },
+  {
+   "url": "https://www.spreaker.com/episode/dk-6x31-vivalia-3m-e-noi--50184423",
+   "title": "DK 6x31 - Vivalia, 3M e noi",
+   "motivo": "nessun segnale del nome (né descrizione né indicizzazione iTunes per «Pietrosanti»): solo MonitoraPA/Hermes come organizzazione"
+  },
+  {
+   "url": "https://www.spreaker.com/episode/migranti-e-riconoscimento-facciale-lo-studio-di-hermescenter--47803828",
+   "title": "Migranti e riconoscimento facciale: lo studio di HermesCenter",
+   "motivo": "nessun segnale del nome (né descrizione né indicizzazione iTunes per «Pietrosanti»): solo MonitoraPA/Hermes come organizzazione"
+  }
+ ]
+}

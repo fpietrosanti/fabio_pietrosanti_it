@@ -27,10 +27,6 @@
    "Projects"
   ],
   [
-   "truth",
-   "Truth"
-  ],
-  [
    "archive",
    "Archive"
   ],
@@ -99,7 +95,7 @@
   ],
   "projects": [
    "Projects",
-   "Software, research, campaigns and a few projects that never started. Each one links to its sources."
+   "Software, research, campaigns and a few that never started — with the sources for each."
   ],
   "archive": [
    "Talks, press & writing",
@@ -115,11 +111,7 @@
   ],
   "contact": [
    "Contact",
-   "Advisory, board seats and partnerships: welcome."
-  ],
-  "truth": [
-   "Truth and accountability",
-   "Investigative journalism, whistleblowing and the habit of checking what power says — with the receipts."
+   "Advisory, board seats, partnerships, press and speaking: welcome."
   ],
   "focus": [
    "Five threads",
@@ -130,8 +122,8 @@
    "Title slides of his own talks, 2002–2010 — the full decks are in the archive."
   ],
   "books": [
-   "Books",
-   "Every book found so far that interviews, quotes, credits or cites him — and what each one actually says."
+   "Books — citations & contributions",
+   "Books that interview, quote, credit or cite him, and what each one actually says."
   ]
  },
  "story": [
@@ -508,18 +500,6 @@
    "local": "copies/patents/WO2008015723A2.pdf"
   }
  ],
- "truth_intro": [
-  "Most of this work has one shape: someone claims something — a vendor, a ministry, a platform, a political movement — and the claim is taken on trust because nobody can check it. The answer is always the same: build the tool that makes it checkable, publish the evidence, and let other people verify it themselves.",
-  "That is why the software is free and open source, why the evidence sits in public repositories, why the requests to public bodies are filed under freedom-of-information law and published together with their answers, and why every claim on this page links to its source. When the finding was uncomfortable, it was published anyway: in 2020 he showed that the Rousseau platform could not guarantee the integrity of a vote — by voting twice on it. That was activism <b>against</b> the Five Star Movement, against the technological control that a private company, Casaleggio Associati, exercised over an Italian political party. He was expelled for it, and published the expulsion documents.",
-  "Concretely: free software that lets newsrooms receive documents from anonymous sources, training for the journalists who use it, transparency requests that force public data into the open, and a handful of investigations run first-hand."
- ],
- "truth_strands_note": "Every item below is in the archive, with a link to the source and, where possible, a local copy.",
- "truth_table": {
-  "strand": "Strand",
-  "items": "Items",
-  "years": "Years",
-  "what": "What it covers"
- },
  "identity": {
   "first": "Fabio",
   "last": "Pietrosanti",
@@ -623,95 +603,6 @@
    ]
   }
  ],
- "evidence_title": [
-  "How it works, four times",
-  "Same four steps every time: a claim, a check anyone can repeat, the evidence published, an outcome."
- ],
- "evidence_steps": [
-  "Claim",
-  "Check",
-  "Published",
-  "Outcome"
- ],
- "evidence": [
-  {
-   "year": "2010",
-   "case": "SecurStar / PhoneCrypt",
-   "steps": [
-    "An “independent” review scored 12 of 15 voice-encryption products as broken.",
-    "Domains, servers and writing style traced the site back to one of the vendors.",
-    "Five posts with the technical evidence on infosecurity.ch.",
-    "Picked up by The Register and CSO; the “independent researcher” disappeared."
-   ],
-   "link": [
-    "The evidence",
-    "https://web.archive.org/web/2012/http://infosecurity.ch/20100201/evidence-that-infosecurityguard-com-notrax-is-securstar-gmbh-phonecrypt-a-fake-independent-research-on-voice-crypto/"
-   ]
-  },
-  {
-   "year": "2018–2022",
-   "case": "Kaspersky in the Italian public sector",
-   "steps": [
-    "Antivirus from a Russian vendor was installed across ministries and police forces.",
-    "A public risk matrix of what that vendor could do if coerced by its government.",
-    "Repository and interviews, in 2018 and again in 2022.",
-    "Euronews, then national coverage during the war; the issue reached government decisions."
-   ],
-   "link": [
-    "Risk matrix",
-    "https://github.com/fpietrosanti/kaspersky-risks"
-   ]
-  },
-  {
-   "year": "2020",
-   "case": "Rousseau and Casaleggio Associati",
-   "steps": [
-    "A private company ran the voting platform of an Italian political party.",
-    "Registered twice and voted twice, documenting every step.",
-    "The method, the documents and the expulsion papers, published in full.",
-    "Covered by Wired; the platform's integrity claims could no longer be repeated."
-   ],
-   "link": [
-    "How I voted twice",
-    "https://hermescenter.github.io/crvd.org-preservation/come-sono-riuscito-a-votare-due-volte-su-rousseau/"
-   ]
-  },
-  {
-   "year": "2022",
-   "case": "Monitora PA",
-   "steps": [
-    "Thousands of public websites sent citizens' data to Google by default.",
-    "Automated scans of public administrations, with the legal reasoning attached.",
-    "Notices to the administrations and to the data-protection authority, all public.",
-    "Thousands of public sites removed Google Analytics; the authority ruled on it."
-   ],
-   "link": [
-    "Monitora PA",
-    "https://monitora-pa.it"
-   ]
-  }
- ],
- "quotes_title": "Said about him",
- "quotes": [
-  {
-   "t": "il noto hacker Fabio Naif",
-   "who": "Rai 1, Codice",
-   "when": "27 June 2025",
-   "url": "https://www.raiplay.it/"
-  },
-  {
-   "t": "hacker etico e cyberdefender professionista",
-   "who": "StartupItalia, on the CyberChallenge.IT award ceremony",
-   "when": "10 July 2018",
-   "url": "https://startupitalia.eu/"
-  },
-  {
-   "t": "una battaglia tra sviluppatori francesi e hacker italiani",
-   "who": "Motherboard Italia (VICE), on the VLC campaign",
-   "when": "4 July 2017",
-   "url": "https://www.vice.com/it/article/vlc-vulnerabile-man-in-the-middle-malware-diatriba-sviluppatori-hacker/"
-  }
- ],
  "artifacts_title": [
   "From the archive",
   "Title slides of his own talks, 2002–2010 — the full decks are in the archive."
@@ -739,5 +630,25 @@
    "Find your AVIS",
    "https://www.avis.it/"
   ]
- }
+ },
+ "projects_table": {
+  "year": "Year",
+  "name": "Project",
+  "area": "Area",
+  "what": "What it is",
+  "links": "Sources"
+ },
+ "books_table": {
+  "year": "Year",
+  "title": "Book",
+  "how": "How he appears",
+  "authors": "Authors / publisher",
+  "what": "What it says",
+  "links": "Sources"
+ },
+ "contact_lines": [
+  "Write on LinkedIn — that is the fastest way to reach him.",
+  "Code, data and the sources behind this page are on GitHub.",
+  "For press and speaking: the archive above has every talk and interview, with contacts of the organisers."
+ ]
 }
