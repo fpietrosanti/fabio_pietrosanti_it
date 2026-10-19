@@ -397,7 +397,7 @@
   "copy": "本地副本",
   "count": "条",
   "none": "没有匹配的内容。",
-  "wayback": "互联网档案馆"
+  "wayback": "Web Archive"
  },
  "communities": [
   [
@@ -654,5 +654,53 @@
   "在 LinkedIn 上留言——这是联系他最快的方式。",
   "代码、数据以及本页背后的来源都在 GitHub 上。",
   "媒体与演讲邀约：上面的档案收录了每一场演讲和访谈，并附有主办方的联系方式。"
- ]
+ ],
+ "ui": {
+  "present": "至今",
+  "details": "详情",
+  "more": "显示更多",
+  "months": [
+   "1月",
+   "2月",
+   "3月",
+   "4月",
+   "5月",
+   "6月",
+   "7月",
+   "8月",
+   "9月",
+   "10月",
+   "11月",
+   "12月"
+  ],
+  "types": {
+   "talk": "演讲",
+   "workshop": "工作坊",
+   "panel": "圆桌",
+   "slides": "幻灯片",
+   "village": "营地",
+   "hearing": "听证",
+   "interview": "专访",
+   "quoted": "引述",
+   "mention": "提及",
+   "newspaper": "报纸",
+   "press release": "新闻稿",
+   "TV": "电视",
+   "radio": "广播",
+   "podcast": "播客",
+   "video": "视频",
+   "article": "文章",
+   "blog": "博客",
+   "book chapter": "书籍章节",
+   "paper": "论文",
+   "thesis": "学位论文",
+   "code / ticket": "代码 / 工单",
+   "report": "报告",
+   "patent": "专利",
+   "project": "项目",
+   "wiki": "维基",
+   "book": "书籍",
+   "other": "其他"
+  }
+ }
 }

@@ -654,5 +654,53 @@
   "Write on LinkedIn — that is the fastest way to reach him.",
   "Code, data and the sources behind this page are on GitHub.",
   "For press and speaking: the archive above has every talk and interview, with contacts of the organisers."
- ]
+ ],
+ "ui": {
+  "present": "Present",
+  "details": "Details",
+  "more": "Show more",
+  "months": [
+   "Jan",
+   "Feb",
+   "Mar",
+   "Apr",
+   "May",
+   "Jun",
+   "Jul",
+   "Aug",
+   "Sep",
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "types": {
+   "talk": "talk",
+   "workshop": "workshop",
+   "panel": "panel",
+   "slides": "slides",
+   "village": "village",
+   "hearing": "hearing",
+   "interview": "interview",
+   "quoted": "quoted",
+   "mention": "mention",
+   "newspaper": "newspaper",
+   "press release": "press release",
+   "TV": "TV",
+   "radio": "radio",
+   "podcast": "podcast",
+   "video": "video",
+   "article": "article",
+   "blog": "blog",
+   "book chapter": "book chapter",
+   "paper": "paper",
+   "thesis": "thesis",
+   "code / ticket": "code / ticket",
+   "report": "report",
+   "patent": "patent",
+   "project": "project",
+   "wiki": "wiki",
+   "book": "book",
+   "other": "other"
+  }
+ }
 }

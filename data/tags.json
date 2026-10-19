@@ -45,7 +45,8 @@
    "https://www.youtube.com/watch?v=qAhTIzvV310",
    "https://www.youtube.com/watch?v=ukpO8e80sQc"
   ],
-  "about_en": "Talks and sessions at the International Journalism Festival in Perugia, 2011–2018, plus MOJO Italia 2019."
+  "about_en": "Talks and sessions at the International Journalism Festival in Perugia, 2011–2018, plus MOJO Italia 2019.",
+  "label_zh": "国际新闻节"
  },
  "dig": {
   "label_it": "DIG Festival",
@@ -57,7 +58,8 @@
    "https://www.linkiesta.it/2017/10/dig-raddoppia-e-a-fine-ottobre-porta-a-milano-il-meglio-del-giornalism/",
    "https://youmedia.fanpage.it/video/aa/X48IuuSwldvwx9NG"
   ],
-  "about_en": "DIG Festival and DIG Awards, the Italian investigative-journalism festival."
+  "about_en": "DIG Festival and DIG Awards, the Italian investigative-journalism festival.",
+  "label_zh": "DIG 调查新闻节"
  },
  "newsroom-leaks": {
   "label_it": "Piattaforme di leaking per le redazioni",
@@ -140,7 +142,8 @@
    "https://www.youtube.com/watch?v=xO4m1NDm6qc",
    "https://youmedia.fanpage.it/video/aa/X48IuuSwldvwx9NG"
   ],
-  "about_en": "GlobaLeaks and the leak platforms built with and for newsrooms: Publeaks, IRPILeaks, Nawaatleaks, Backstair, Greenwald-in-a-box."
+  "about_en": "GlobaLeaks and the leak platforms built with and for newsrooms: Publeaks, IRPILeaks, Nawaatleaks, Backstair, Greenwald-in-a-box.",
+  "label_zh": "面向新闻编辑部的举报平台"
  },
  "transparency": {
   "label_it": "Trasparenza e anticorruzione",
@@ -170,7 +173,8 @@
    "https://www.youtube.com/watch?v=UokccrS7GBw",
    "https://www.youtube.com/watch?v=sH38ayPLcmI"
   ],
-  "about_en": "Transparency International Italy, ALAC, the Italian anti-corruption authority and public-sector transparency."
+  "about_en": "Transparency International Italy, ALAC, the Italian anti-corruption authority and public-sector transparency.",
+  "label_zh": "透明与反腐败"
  },
  "source-protection": {
   "label_it": "Protezione delle fonti",
@@ -196,7 +200,8 @@
    "https://www.youtube.com/watch?v=NzCP8Spwb9I",
    "https://www.youtube.com/watch?v=Okg_Wx5qVWs"
   ],
-  "about_en": "Wiretapping, surveillance, encryption and training for people who investigate."
+  "about_en": "Wiretapping, surveillance, encryption and training for people who investigate.",
+  "label_zh": "消息源保护"
  },
  "own-investigations": {
   "label_it": "Inchieste proprie",
@@ -242,7 +247,8 @@
    "https://web.archive.org/web/2012/http://infosecurity.ch/20100525/hackers-doesnt-like-securstar-products-exploit-code-against-drivecrypt-published/",
    "https://www.youtube.com/watch?v=S21aHf5LCBc&t=6940s"
   ],
-  "about_en": "His own investigations: SecurStar, ifuriosi, OpenRousseau, Kaspersky, MonitoraPA, FOIA requests on e-voting."
+  "about_en": "His own investigations: SecurStar, ifuriosi, OpenRousseau, Kaspersky, MonitoraPA, FOIA requests on e-voting.",
+  "label_zh": "本人的调查"
  },
  "_about": "Tag curati applicati da tools/merge_media.py a data/media.json. Proposti da tools/tag_media.py, poi corretti a mano. Tutti i tag qui sotto formano il taglio «giornalismo d'inchiesta».",
  "books": {

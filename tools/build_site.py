@@ -45,11 +45,13 @@ def esc(s):
     return html.escape(s or "", quote=True)
 
 
-def ym(s):
+def ym(s, ui=None):
+    ui = ui or {}
     if not s:
-        return "Present"
+        return ui.get("present", "Present")
     y, m = s.split("-")[:2]
-    return f"{MONTHS[int(m) - 1]} {y}"
+    months = ui.get("months") or MONTHS
+    return f"{months[int(m) - 1]} {y}"
 
 
 def linkify(text):
@@ -68,7 +70,7 @@ def load(p):
     return json.load(io.open(p, encoding="utf-8"))
 
 
-def media_items():
+def media_items(ui=None):
     media = load(ROOT / "data/media.json")
     copies = {}
     if (LIB / "copies.json").exists():
@@ -90,7 +92,8 @@ def media_items():
             "y": it.get("year") or 0,
             "t": it.get("title") or "",
             "o": it.get("outlet") or "",
-            "k": TYPE_LABEL.get(it["type"], it["type"]),
+            "k": ((ui or {}).get("types") or {}).get(TYPE_LABEL.get(it["type"], it["type"]),
+                                                      TYPE_LABEL.get(it["type"], it["type"])),
             "c": cat_of(it["type"]),
             "l": (it.get("language") or "").lower()[:2],
             "u": url,
@@ -132,7 +135,8 @@ def build(lang="en"):
     li = linkedin_for(lang)
     c = load(ROOT / f"site/content.{lang}.json")
     projects = load(ROOT / "data/projects.json")["projects"]
-    items = media_items()
+    uiL = c.get("ui") or {}
+    items = media_items(uiL)
     counts = Counter(i["c"] for i in items)
     years = Counter(i["y"] for i in items if i["y"])
     first_year = 1995
@@ -155,14 +159,14 @@ def build(lang="en"):
     # experience (verbatim from LinkedIn)
     exp = []
     for e in li["experience"]:
-        meta = " · ".join(x for x in [f'{ym(e["start"])} – {ym(e["end"])}', e.get("employment_type"), e.get("location"),
+        meta = " · ".join(x for x in [f'{ym(e["start"], uiL)} – {ym(e["end"], uiL)}', e.get("employment_type"), e.get("location"),
                                        e.get("location_type")] if x)
         desc = "".join(f"<p>{linkify(p)}</p>" for p in (e.get("description") or []) if p.strip())
         cur = "" if e["end"] else " current"
         exp.append(f'''<li class="job{cur}" data-li-id="{esc(e["id"])}">
-  <div class="when">{esc(ym(e["start"]))}<span>{esc(ym(e["end"]))}</span></div>
+  <div class="when">{esc(ym(e["start"], uiL))}<span>{esc(ym(e["end"], uiL))}</span></div>
   <div class="what"><h3><span class="li-title">{esc(e["title"])}</span></h3><div class="org li-org">{esc(e["org"])}</div>
-  <div class="meta">{esc(meta)}</div>{f'<details><summary>Details</summary>{desc}</details>' if desc else ''}</div></li>''')
+  <div class="meta">{esc(meta)}</div>{f'<details><summary>{esc(uiL.get("details", "Details"))}</summary>{desc}</details>' if desc else ''}</div></li>''')
 
     # story
     story = []
@@ -258,7 +262,7 @@ def build(lang="en"):
     order_t = ["ijf", "dig", "newsroom-leaks", "transparency", "source-protection", "own-investigations"]
     tagdefs = load(ROOT / "data/tags.json")
     tagchips = "".join(
-        f'<button class="chip" data-tag="{esc(k)}">{esc(tagdefs[k]["label_en"])} '
+        f'<button class="chip" data-tag="{esc(k)}">{esc(tagdefs[k].get("label_" + lang) or tagdefs[k]["label_en"])} '
         f'<small>{sum(1 for i in items if k in i["g"])}</small></button>'
         for k in order_t if k in tagdefs and any(k in i["g"] for i in items))
     cat_btns = f'<button class="chip on" data-c="">{esc(ui["all"])} <small>{len(items)}</small></button>' + "".join(
@@ -283,10 +287,11 @@ def build(lang="en"):
         "H_FOCUS": head("focus", 3), "FOCUS": focus, "CONTACT": contact,
         "H_ARTIFACTS": head("artifacts", 8), "ARTIFACTS": artifacts,
         "H_BOOKS": head("books", 7) if "books" in st else "", "BOOKS": books_html,
-        "TAGS": json.dumps({k: v["label_en"] for k, v in tagdefs.items() if not k.startswith("_")}, ensure_ascii=False),
+        "TAGS": json.dumps({k: (v.get("label_" + lang) or v["label_en"]) for k, v in tagdefs.items()
+                            if not k.startswith("_")}, ensure_ascii=False),
         "H_COMM": head("communities", 9), "COMM": comm, "H_PAST": head("past", 10), "PAST": past,
         "H_CONTACT": head("contact", 11), "DONOR": donor, "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
-        "PORTRAIT": portrait, "LANGSW": langsw, "ALTS": alts, "BASE": base, "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
+        "PORTRAIT": portrait, "MORE": esc(uiL.get("more", "Show more")), "LANGSW": langsw, "ALTS": alts, "BASE": base, "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
     }.items():
         page = page.replace("{{" + k + "}}", v)
     if lang != "en":

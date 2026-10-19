@@ -150,7 +150,7 @@
    ]
   },
   {
-   "years": "2010–today",
+   "years": "2010–oggi",
    "title": "Infrastrutture per il whistleblowing e l'anonimato",
    "body": [
     "Nel 2010 ha avviato <b>GlobaLeaks</b>, software libero per segnalazioni sicure e anonime, e nel dicembre 2010 ci ha costruito attorno l'<b>Hermes Center for Transparency and Digital Human Rights</b>; dal 2018 Hermes è membro di European Digital Rights (EDRi). Hermes ha anche riscritto e mantenuto <b>Tor2web</b>, il gateway che permette ai browser comuni di raggiungere i servizi onion di Tor.",
@@ -176,7 +176,7 @@
    ]
   },
   {
-   "years": "2023–today",
+   "years": "2023–oggi",
    "title": "Biohacking e dati umani aperti",
    "body": [
     "Dal 2023 costruisce <b>biohack.it</b> con la Hacking Biology Foundation: infrastruttura non profit, con licenza AGPL, dove chi si auto-sperimenta documenta protocolli e biomarcatori con codifica standard, così che i singoli esperimenti diventino dati umani confrontabili. Ne ha parlato su Rai 1 (<i>Codice</i>), Rai Radio 1 (<i>Codice Beta</i>) e al forum biohacker TimePie di Shanghai."
@@ -654,5 +654,53 @@
   "Scrivi su LinkedIn — è il modo più veloce per raggiungerlo.",
   "Codice, dati e le fonti dietro questa pagina sono su GitHub.",
   "Per stampa e interventi pubblici: l'archivio qui sopra contiene ogni intervento e ogni intervista, con i contatti degli organizzatori."
- ]
+ ],
+ "ui": {
+  "present": "Oggi",
+  "details": "Dettagli",
+  "more": "Mostra altro",
+  "months": [
+   "gen",
+   "feb",
+   "mar",
+   "apr",
+   "mag",
+   "giu",
+   "lug",
+   "ago",
+   "set",
+   "ott",
+   "nov",
+   "dic"
+  ],
+  "types": {
+   "talk": "talk",
+   "workshop": "workshop",
+   "panel": "tavola rotonda",
+   "slides": "slide",
+   "village": "camp",
+   "hearing": "audizione",
+   "interview": "intervista",
+   "quoted": "citato",
+   "mention": "citazione",
+   "newspaper": "giornale",
+   "press release": "comunicato",
+   "TV": "TV",
+   "radio": "radio",
+   "podcast": "podcast",
+   "video": "video",
+   "article": "articolo",
+   "blog": "blog",
+   "book chapter": "capitolo",
+   "paper": "paper",
+   "thesis": "tesi",
+   "code / ticket": "codice / ticket",
+   "report": "report",
+   "patent": "brevetto",
+   "project": "progetto",
+   "wiki": "wiki",
+   "book": "libro",
+   "other": "altro"
+  }
+ }
 }
