@@ -41,8 +41,9 @@ a:hover{text-decoration:underline;text-underline-offset:3px}
 .idgrid{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:28px;align-items:end;margin-top:14px}
 .name{font:800 clamp(40px,7.4vw,92px)/.95 var(--sans);letter-spacing:-.045em;margin:0;text-transform:uppercase}
 .name .sur{display:block;color:var(--acc)}
-.portrait{width:132px;height:132px;border-radius:0;object-fit:cover;border:1px solid var(--line);filter:grayscale(1) contrast(1.04)}
-.idwrap{display:flex;gap:22px;align-items:flex-end}
+.portrait{width:160px;height:160px;object-fit:cover;display:block;background:#000}
+.idwrap{display:flex;gap:26px;align-items:flex-end}
+@media (max-width:640px){.portrait{width:104px;height:104px}.idwrap{gap:16px;align-items:center}}
 .idline{margin-top:16px}
 .nick{font:600 clamp(19px,2.8vw,28px) var(--mono);color:var(--acc2)}
 .nick:before{content:"«";color:var(--ink3)}
@@ -307,7 +308,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
   <div class="kicker">Hacker since 1995 · Milano · Roma · Shenzhen · Dubai</div>
   <div class="idgrid">
     <div>
-      <div class="idwrap"><h1 class="name">Fabio<span class="sur">Pietrosanti</span></h1></div>
+      <div class="idwrap"><img class="portrait" src="assets/portrait.jpg" srcset="assets/portrait.jpg 1x, assets/portrait@2x.jpg 2x" alt="Fabio Pietrosanti" width="160" height="160" fetchpriority="high"><h1 class="name">Fabio<span class="sur">Pietrosanti</span></h1></div>
       <div class="idline"><span class="nick">naif</span></div>
     </div>
     <div><div class="zh">石风翱</div><span class="zhnote">Shí Fēng&#x27;áo</span></div>

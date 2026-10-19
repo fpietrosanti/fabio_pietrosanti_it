@@ -41,8 +41,9 @@ a:hover{text-decoration:underline;text-underline-offset:3px}
 .idgrid{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:28px;align-items:end;margin-top:14px}
 .name{font:800 clamp(40px,7.4vw,92px)/.95 var(--sans);letter-spacing:-.045em;margin:0;text-transform:uppercase}
 .name .sur{display:block;color:var(--acc)}
-.portrait{width:132px;height:132px;border-radius:0;object-fit:cover;border:1px solid var(--line);filter:grayscale(1) contrast(1.04)}
-.idwrap{display:flex;gap:22px;align-items:flex-end}
+.portrait{width:160px;height:160px;object-fit:cover;display:block;background:#000}
+.idwrap{display:flex;gap:26px;align-items:flex-end}
+@media (max-width:640px){.portrait{width:104px;height:104px}.idwrap{gap:16px;align-items:center}}
 .idline{margin-top:16px}
 .nick{font:600 clamp(19px,2.8vw,28px) var(--mono);color:var(--acc2)}
 .nick:before{content:"«";color:var(--ink3)}

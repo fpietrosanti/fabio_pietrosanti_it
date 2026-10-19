@@ -176,8 +176,11 @@ def build(lang="en"):
 
     # identity, focus, artifacts, books, contact, donor
     ident = c["identity"]
-    portrait = ('<img class="portrait" src="' + ("" if lang == "en" else "../") + 'assets/portrait.jpg" '
-                'alt="Fabio Pietrosanti" width="132" height="132">') if (ROOT / "assets/portrait.jpg").exists() else ""
+    pre = "" if lang == "en" else "../"
+    portrait = (f'<img class="portrait" src="{pre}assets/portrait.jpg" '
+                f'srcset="{pre}assets/portrait.jpg 1x, {pre}assets/portrait@2x.jpg 2x" '
+                'alt="Fabio Pietrosanti" width="160" height="160" fetchpriority="high">'
+                ) if (ROOT / "assets/portrait.jpg").exists() else ""
     focus = "".join(
         f'<article class="foc{" now" if x.get("now") else ""}"><div class="fk">{esc(x["k"])}'
         f'<span>{(esc(c.get("focus_badge", "focus now")) + " · ") if x.get("now") else ""}since {esc(x["since"])}</span></div>'
