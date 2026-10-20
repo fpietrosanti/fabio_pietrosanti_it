@@ -1,21 +1,21 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-14 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-20 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **1065**; già processate: **1237**; ancora da processare: **0**
-- Licenza delle copie ottenute: **230** materiale proprio (ripubblicabile), **900** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1028**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **1**
+- Voci in `data/media.json`: **1082**; già processate: **1255**; ancora da processare: **0**
+- Licenza delle copie ottenute: **232** materiale proprio (ripubblicabile), **914** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1035**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **4**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **1**
 - 🎬 Video/audio scaricato (+ pagina): **99**
-- 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
-- ❌ Non ottenuta: **7**
+- 🎞️ Solo pagina/link: video/audio non scaricabile: **7**
+- ❌ Non ottenuta: **9**
 
 ## Per anno
 
@@ -26,9 +26,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2000 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2001 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2002 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2003 | 6 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2001 | 17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2002 | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2003 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2005 | 9 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2006 | 10 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -44,14 +44,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 22 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 74 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 80 | 3 | 1 | 0 | 0 | 0 | 2 |
-| 2020 | 162 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2021 | 82 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 55 | 8 | 0 | 0 | 0 | 0 | 2 |
-| 2023 | 13 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 2019 | 81 | 3 | 1 | 0 | 0 | 0 | 2 |
+| 2020 | 162 | 8 | 2 | 0 | 0 | 0 | 0 |
+| 2021 | 82 | 7 | 0 | 0 | 0 | 0 | 1 |
+| 2022 | 55 | 8 | 0 | 0 | 4 | 0 | 2 |
+| 2023 | 13 | 0 | 1 | 0 | 3 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 7 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 43 | 2 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 43 | 2 | 0 | 1 | 0 | 0 | 1 |
 
 ## Da completare (non ancora processate)
 
@@ -266,16 +266,38 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   URLError
 - ❌ **2019** · Università di Foggia (lezione nel corso  — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck c](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: terzi  
   http 410
+- ❌ **2021** · The Crypto Conversation (Brave New Coin) — [Scandal and Turmoil - The Cryptocurrency Wild West](https://podcasts.apple.com/us/podcast/scandal-and-turmoil-the-cryptocurrency-wild-west/id1471243424?i=1000538523963) · licenza: terzi  
+  URLError; video: ERROR: [apple:podcasts] 1000538523963: Unable to download webpage: HTTPSConnection(host='podcasts.apple.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions (caused by TransportError("HTTPSConnecti
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
   URLError
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
   URLError
+- ❌ **2026** · Cyber Saiyan (YouTube) - RomHack Camp 20 — [MXMap Italia: National Observatory for Digital Sovereignty | RomHack Camp 2026](https://www.youtube.com/watch?v=GyNpnJ5Q2ew) · licenza: terzi  
+  URLError; video: ERROR: [youtube] GyNpnJ5Q2ew: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions (caused by TransportError("HTTPSConnection(host='ww
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🟡 **2019** · pr-foundation.org — [5 novembre a Milano: Incontro sulle Fondazioni Culturali e il Digitale — P&R Foundation](http://www.pr-foundation.org/5-novembre-milano/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2020** · Bloomberg - Listen to the Story — [North Korea's Man in Spain](https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2020** · Valigia Blu (podcast) — [Come Cia e Bnd hanno spiato le diplomazie mondiali vendendo macchine antispionaggio](https://podcasters.spotify.com/pod/show/valigiablu/episodes/Come-Cia-e-Bnd-hanno-spiato-le-diplomazie-mondiali-vendendo-macchine-antispionaggio-eas0d2) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2023** · BBC World Service - Cyber Hack / The Laz — [The Lazarus Heist S2: 7. Crypto comrades](https://www.bbc.co.uk/programmes/w3ct5fc4) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🎞️ **2022** · Ciao, Internet! con Matteo Flora — [[DIRETTA] - Ciao Internet! La Diretta del 1 Aprile 2022](https://www.spreaker.com/episode/diretta-ciao-internet-la-diretta-del-1-aprile-2022--49286341) · licenza: terzi  
+  page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
+- 🎞️ **2022** · DataKnightmare (Walter Vannini) — [DK 6x28 - MonitoraPA e le prese sul Titanic](https://www.spreaker.com/episode/dk-6x28-monitorapa-e-le-prese-sul-titanic--49902887) · licenza: terzi  
+  page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
+- 🎞️ **2022** · Ciao, Internet! con Matteo Flora — [KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!](https://www.spreaker.com/episode/kaspersky-antivirus-e-pericoloso-va-rimosso-e-un-malware-russo-tutte-le-risposte--49065639) · licenza: terzi  
+  page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
+- 🎞️ **2022** · Il podcast di Marco Canestrari — [Pacifici si ma incazzati pure](https://www.spreaker.com/episode/pacifici-si-ma-incazzati-pure--49249201) · licenza: terzi  
+  page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
+- 🎞️ **2023** · Ciao, Internet! con Matteo Flora - Garan — [[Garantismi LIVE] - Le Sfide della Privacy nel 2023](https://www.spreaker.com/episode/garantismi-live-le-sfide-della-privacy-nel-2023--52379256) · licenza: terzi  
+  page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
+- 🎞️ **2023** · Associazione Copernicani (YouTube) — [Privacy By Design - Privacy Coins](https://www.youtube.com/watch?v=SEQQOGEBnXo) · licenza: terzi  
+  page copy saved; video/audio not downloaded: ERROR: [youtube] SEQQOGEBnXo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extract
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
@@ -394,12 +416,17 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2001** · Hackmeeting 2001 (Hackit01), Catania (CS — [Hackit01 - Adesioni (sign-up list)](https://www.hackmeeting.org/hackit01/adesioni.html) · copia: `2001/0277a8f792ae` (Web Archive 20100202) · licenza: terzi
 - **2001** · Punto Informatico — [Un raggio di luce su SMAU?](https://www.punto-informatico.it/un-raggio-di-luce-su-smau/) · copia: `2001/857c85188b7a` (Web Archive 20200809) · licenza: terzi
 - **2001** · BFi (Butchered From Inside) n.10 - edito — [BFi numero 10, file 1 di 18: indice e redazione (naif listed in the editorial staff)](https://www.s0ftpj.org/bfi/online/bfi10/BFi10-01.html) · copia: `2001/c98d4006e67c` (Web Archive 20020615) · licenza: terzi
+- **2001** · Zeus News — [Un raggio di luce su SMAU](https://www.zeusnews.it/n.php?c=873) · copia: `2001/5e381a22fe04` (live) · licenza: terzi
 - **2002** · La Stampa - Vivere Milano (9 ottobre 200 — [Nelle strade di Milano a caccia di reti da violare (inchiesta sul wardriving, di Alessandr](http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,3/articleid,0306_01_2002_0276_0074_2761192/) · copia: `2002/5c8deadf35e1` (live) · licenza: terzi
 - **2002** · La Stampa (archivio storico, ed. 9 ottob — [Gli «ethical hackers» si ritrovano in Blackhats.it (box 'Le guide III')](http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,3/articleid,0306_01_2002_0276_0074_2761193/) · copia: `2002/1161da4c9568` (live) · licenza: terzi
 - **2002** · Hacker Journal n.10 (WLF Publishing) — [HJ ha surfato per voi: blackhats.it](https://archive.org/details/hackerjournal-10) · copia: `2002/9f66dc6f79ed` (live) · licenza: terzi
 - **2002** · Hacker Journal n.11 (24 ottobre-7 novemb — [News: reti wireless aperte - indagine sul campo a Milano da Naif e Vodka per conto di Port](https://archive.org/details/hackerjournal-11) · copia: `2002/6d17d2672c33` (live) · licenza: terzi
 - **2002** · CeAS - Centro Alti Studi Lotta al Terror — [Il ruolo dei carrier nella security (Fabio Pietrosanti, Network Security Manager I.NET S.p](https://web.archive.org/web/2003/http://www.1ceas.org/rel2002/marzo/marzo.htm) · copia: `2002/e897e1c84a86` (Web Archive 20020819) · licenza: terzi
 - **2002** · Sikurezza.org @ Webb.it 02, Padova Fiere — [Presentazione sikurezza.org (Fabio Pietrosanti 'naif', Stefano Venturoli)](https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html) · copia: `2002/eaa7085c2c1c` (Web Archive 20020821) · licenza: terzi
+- **2002** · sikurezza.org @ Webb.it 02, Padova — [SIKUREZZA.ORG - Italian Security Mailing List (slide di presentazione, PDF)](https://web.archive.org/web/20030311060208/http://sikurezza.org:80/webbit02/sikurezza_org.pdf) · copia: `2002/66cbe4c20452` (Web Archive 20030311) · licenza: propria
+- **2002** · Italian Black Hats - Infosecurity Italia — [Ethical Hacker's speech: interventi tecnici e tavola rotonda - programma (PDF)](https://web.archive.org/web/20030521231608/http://www.blackhats.it:80/en/events/24012002/programma.pdf) · copia: `2002/93b76f757a6b` (Web Archive 20030521) · licenza: terzi
+- **2002** · Italian Black Hats (blackhats.it) - SMAU — [Wireless (in)security @ SMAU 02 - slide originali su blackhats.it (PDF)](https://web.archive.org/web/20030623124848/http://www.blackhats.it:80/en/events/26102002/wireless.pdf) · copia: `2002/118c3da6110b` (Web Archive 20030623) · licenza: propria
+- **2002** · Italian Black Hats - SMAU 2002, Fiera di — [Ethical Hacker's Speech II - programma (PDF)](https://web.archive.org/web/20040217095659/http://www.blackhats.it:80/en/events/26102002/programma.pdf) · copia: `2002/272f12e33167` (Web Archive 20040217) · licenza: terzi
 - **2002** · WeekIT (Mondadori weekly, weekit.it) — [Crittografia e backdoor, parla Phil Zimmermann](https://web.archive.org/web/20040905220529/http://www.weekit.it:80/weekit/unico/art006004035348.jsp) · copia: `2002/28d7eb3aca2e` (Web Archive 20040905) · licenza: propria
 - **2002** · sikurezza.org wiki - Risorse/Itbh (Itali — [ITBH Ethical Hacker's Speech (SMAU 2002) resources page: Wireless (in)security - Fabio Pie](https://web.archive.org/web/20060428044642/http://www.sikurezza.org:80/wiki/Risorse/Itbh) · copia: `2002/95b156d1d0c8` (Web Archive 20060428) · licenza: terzi
 - **2002** · Apogeonline (Portel survey) — [A caccia di reti wireless insicure](https://www.apogeonline.com/articoli/a-caccia-di-reti-wireless-insicure-redazione-apogeonline/) · copia: `2002/937ccc909111` (Web Archive 20190817) · licenza: terzi
@@ -412,6 +439,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2002** · SMAU 2002 - Italian Blackhats Ethical Ha — [2002: SMAU ITBH: Wireless (in)security](https://www.slideshare.net/slideshow/smau-itbh-wireless-insecurity/1669215) · copia: `2002/e0d0973f4833` (live) · licenza: terzi
 - **2003** · Hacker Journal n.38 (WLF Publishing) — [Fastweb hacking article: 'Il metodo individuato da naif (pubblicato su BFi, Butchered from](https://archive.org/details/hackerjournal-38) · copia: `2003/56992e74f26b` (live) · licenza: terzi
 - **2003** · Win Magazine n.48 (Edizioni Master), gen — [Caccia alle reti wireless - Lo sviluppo delle reti Wi-Fi cresce giorno dopo giorno, ma eme](https://archive.org/details/win-magazine-italia-48) · copia: `2003/947b78407cfc` (live) · licenza: propria
+- **2003** · Webbit03, Padova Fiere - Relatori indipe — [Wireless (in)security: Problemi di (in)sicurezza dell'802.11b (seminario 886)](https://web.archive.org/web/20030510054644/http://www.webb.it:80/event/eventview/886/) · copia: `2003/fc6136121ddd` (Web Archive 20030510) · licenza: terzi
 - **2003** · Webbit03, Padova Fiere — [Wireless (in)Security: problemi di sicurezza dell'802.11b](https://web.archive.org/web/20040209212540/http://fabio.pietrosanti.it/curriculum.shtml) · copia: `2003/a98c87a246e3` (Web Archive 20030214) · licenza: propria
 - **2003** · PuntoSicuro — [Wireless Lan, la sicurezza dell'insicurezza](https://www.puntosicuro.it/security-C-124/sicurezza-informatica-C-90/wireless-lan-la-sicurezza-dell-insicurezza-AR-2853/) · copia: `2003/183a2734dab3` (live) · licenza: propria
 - **2003** · BFi (Butchered From Inside) n.11 — [BFi numero 11 (collected issue): reprints naif mentions in BFi11-02 (hacking is NOT politi](https://www.s0ftpj.org/bfi/bfi11.tar.gz) · copia: `2003/74134833bd98` (Web Archive 20051225) · licenza: terzi
@@ -950,6 +978,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · 코인리더스 (CoinReaders, Korea) — [이더리움 핵심 개발자, 北에 암호화폐 기술 제공한 혐의로 체포…로저버, 美 정부 비난](http://coinreaders.com/6114) · copia: `2019/96fc722ed605` (Web Archive 20191210) · licenza: terzi
 - **2019** · 코인리더스 (CoinReaders, Korea) — [무허가 방북으로 체포된 이더리움 개발자 '석방' 결정...재판은 받아야](http://coinreaders.com/6123) · copia: `2019/741d26cb9092` (live) · licenza: terzi
 - **2019** · nohat.it — [R. Chiccarelli, Storia e storie degli hacker — slide No Hat 2019](http://www.nohat.it/slides/2019/chiccarelli.pdf) · copia: `2019/311cb5a52f3d` (Web Archive 20250226) · licenza: terzi
+- **2019** · P&R Foundation / Digital Italy Summit 20 — [Tavolo di lavoro sulla protezione dei dati personali al Digital Italy Summit 2019 («La pro](http://www.pr-foundation.org/tavolo-lavoro-sulla-protezione-dei-dati-personali-al-digital-italy-summit-2019/) · copia: `2019/d2a4f911b749` (Web Archive 20210618) · licenza: terzi
 - **2019** · CRVD — blog.crvd.org (URL originale, Way — [Come non sprecare un milione di euro](https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/) · copia: `2019/5e24ced344f5` (Web Archive 20200813) · licenza: terzi
 - **2019** · Laterza — [L'esecuzione. 5 Stelle da movimento a governo](https://books.google.com/books?id=rO2ODwAAQBAJ) · copia: `2019/8948d22cfd5e` (live) · licenza: terzi
 - **2019** · Copernicani — [Overlay Network Crittografici](https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/) · copia: `2019/0752d3df8d0b` (Web Archive 20190718) · licenza: terzi
