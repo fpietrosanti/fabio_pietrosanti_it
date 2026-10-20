@@ -5,7 +5,7 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1486**; dopo deduplica: **1082**
+- Risultati grezzi dalle ricerche: **1488**; dopo deduplica: **1082**
 - Già presenti sul vecchio sito: **49** (su 35 voci elencate lì)
 - **Nuovi rispetto al vecchio sito: 1033**
 - Verificati aprendo la pagina: **1013**; solo da risultato di ricerca: **69**

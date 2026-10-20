@@ -1469,45 +1469,105 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" Kaspersky 2017 Farnesina OR ministeri",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
    "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
-   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)"
+   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)",
+   "done": "2026-10-20",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" Hermes \"diritti digitali\" convegno 2016 OR 2017",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
    "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
-   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)"
+   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)",
+   "done": "2026-10-20",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" \"voto elettronico\" OR e-voting 2019 OR 2020",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
    "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
-   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)"
+   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)",
+   "done": "2026-10-20",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" Copernicani 2019 OR 2020 OR 2021",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
    "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
-   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)"
+   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)",
+   "done": "2026-10-20",
+   "found": 10
   },
   {
    "query": "\"naif\" Pietrosanti \"Winston Smith\" OR \"e-privacy\" 2010 OR 2011",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
    "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
-   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)"
+   "retry_note": "2026-10-19 16:40: risultati raccolti ma link /goto non risolti (estrazione bloccata dal classificatore)",
+   "done": "2026-10-20",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" whistleblowing \"Transparency International\" 2022 OR 2023",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
    "note": "aggiunta 2026-10-14 21:30: coda esaurita; filoni emersi (EJO/ExpoLeaks, DIMT-ANAC, Kaspersky 2017) e anni deboli",
-   "retry_note": "2026-10-19 16:40: robot check Google"
+   "retry_note": "2026-10-19 16:40: robot check Google",
+   "done": "2026-10-20",
+   "found": 9
+  },
+  {
+   "query": "\"Pietrosanti\" sikurezza.org OR \"Metro Olografix\" 2003",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"sicurezza informatica\" 2005 OR 2006 intervista",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+  },
+  {
+   "query": "\"Pietrosanti\" Tor2web OR \"hidden services\" 2023 OR 2024",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" GlobaLeaks 2023 OR 2024 OR 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+  },
+  {
+   "query": "\"Pietrosanti\" biohacking OR longevità 2024 OR 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Latina 2023 OR 2024 OR 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+  },
+  {
+   "query": "\"Pietrosanti\" whistleblowing \"decreto legislativo 24/2023\" OR \"d.lgs. 24/2023\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" podcast OR webinar 2021 OR 2022",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
   }
  ],
  "history": [
@@ -2139,6 +2199,14 @@
    "captcha": true,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Rete tornata, estensione connessa. 7 query eseguite, alla 8ª (Transparency International 2022-23) robot check Google: stop immediato, nessun tentativo di superarlo. NOVITÀ: Google ora restituisce link-redirect /goto?url=<token cifrato> invece degli URL reali, e lo strumento Chrome blocca l'output con query string; l'estrazione dei token e il loro inseguimento automatico in serie sono stati negati dal classificatore di sicurezza di Claude Code, quindi risolti (seguendo il link nel browser) solo i risultati delle query 1-2. 7 candidati verificati: 0 confermati nuovi (corriere 2018 buone-notizie, EJO ExpoLeaks e video YouTube 'Whistleblowing digitale con GlobaLeaks' già in archivio; tesi uniupo, relazione giustizia 2025, PDF senato senza il nome). Non verificabile: Radio Radicale scheda 479123 'Presentazione del primo monitoraggio italiano sul whistleblowing ed il prototipo di applicazione' (pagina resa via JS, partecipanti non leggibili) — da controllare a mano/Wayback. Query 3-7 (Kaspersky 2017, Hermes diritti digitali 2016-17, voto elettronico 2019-20, Copernicani 2019-21, naif Winston Smith 2010-11) e 8 rimesse in 'retry'. Titoli visti tra i loro risultati da controllare: startmag 'Anonymous, c'è un caso Kaspersky in Italia?', ilriformista 'Disinstallate Kaspersky dai PC', formiche 2022/03 Ferrari-Viminale, europa.today Kaspersky, wired 'Come sono riuscito a votare due volte su Rousseau', agendadigitale voto estero, key4biz comitato quantistico, theinnovationgroup speaker, copernicani 'Overlay Network Crittografici', open.gov.it Milano Digital Week, partecipami/radioradicale Milano Partecipa, CCC Camp 2011 Italian Embassy wiki, e-privacy VIII 2009/XXIII/XXX. archive_copies non eseguito (nessuna voce nuova)."
+  },
+  {
+   "date": "2026-10-20 12:35",
+   "engine": "google-chrome",
+   "searched": 6,
+   "captcha": true,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Le 6 query in 'retry' (Kaspersky 2017, Hermes diritti digitali 2016-17, voto elettronico 2019-20, Copernicani 2019-21, naif Winston Smith 2010-11, Transparency International 2022-23) eseguite senza robot check: 56 risultati. Google dà ancora link /goto: raccolti titolo e dominio visibile e confrontati con media.json invece di risolvere i link. Quasi tutto già in archivio (startmag/ilriformista/formiche/europa.today Kaspersky 2022, agendadigitale voto estero, giornalettismo, open.gov.it, partecipami/radioradicale Milano Partecipa, e-privacy XVII/XXI/XXIII/XXX, radioradicale e-privacy XXIV e Singolarità, startmag Casaleggio blockchain, slide Voice communication security, ResearchGate/Academia TI, dig-awards). Scartati senza verifica: pagine-tag (dicorinto cyberwar, euronews), mailing list nexa, forum.italia.it, codice GitHub monitorapa, profilo LinkedIn, Wikipedia. Verificati 2 URL pr-foundation (CdA, incontro rider con Copernicani) ricavati dalla home del sito: il nome è solo nel riquadro laterale 'Novità' → esclusi in decisions.json. Una ricerca supplementare (site:docenti.unina.it) ha fatto scattare il robot check: stop immediato, nessun tentativo di superarlo. Non risolti (URL ignoto, non inventato): PDF docenti.unina.it 'Lo Stato vis à vis i poteri economici e privati', europa.today 'Cereali da Russia e Ucraina' (probabile solo correlato), canale YouTube VoidSec (pagina canale). archive_copies non eseguito (nessuna voce nuova). Coda esaurita: aggiunte 8 query per 2003, 2005-06, 2023-25."
   }
  ]
 }
