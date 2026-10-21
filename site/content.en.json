@@ -708,5 +708,15 @@
   "label": "WeChat",
   "handle": "fpietrosanti",
   "note": "Scan the code or add the handle on WeChat."
- }
+ },
+ "appointments_title": "Institutional appointments",
+ "appointments": [
+  {
+   "role": "Member, Technical Committee of Experts",
+   "org": "Data Protection Authority, Republic of San Marino",
+   "since": "since 2023",
+   "note": "Technical committee of the independent authority (art. 52 §11 of Law 171/2018).",
+   "url": "https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html"
+  }
+ ]
 }

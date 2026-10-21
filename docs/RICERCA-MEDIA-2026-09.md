@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1498**; dopo deduplica: **1090**
+- Risultati grezzi dalle ricerche: **1501**; dopo deduplica: **1093**
 - Già presenti sul vecchio sito: **50** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1040**
-- Verificati aprendo la pagina: **1021**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1043**
+- Verificati aprendo la pagina: **1024**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 72, Citato 51, article 35, Progetto 33, Ricerca 31, Altro 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Slide 15, Comunicato 15, Paper 12, Podcast 12, audio 11, Intervista 7, TV 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 214, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 72, Citato 51, article 35, Progetto 33, Ricerca 31, Altro 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Slide 15, Comunicato 15, Paper 12, Podcast 12, audio 11, Intervista 7, TV 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -41,14 +41,14 @@ Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity
 | 2020 | 0 | 173 | 173 |
 | 2021 | 0 | 90 | 90 |
 | 2022 | 0 | 64 | 64 |
-| 2023 | 0 | 17 | 17 |
+| 2023 | 0 | 18 | 18 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 13 | 13 |
-| 2026 | 0 | 43 | 43 |
+| 2026 | 0 | 42 | 42 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 43 voci, 43 nuove
+## 2026 — 42 voci, 42 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
@@ -134,8 +134,6 @@ Anni senza nessun risultato: nessuno
   AGPL-3.0 platform for structured biohacking protocols and biomarkers, founded by Fabio
 - 🆕 **2026** · Menzionato · make-ai-good.org — [Hermes Center for Transparency and Digital Human Rights — Make AI Good (graph)](https://make-ai-good.org/graph/org-hermes-center/)  
   verified via live; context: …s network it has belonged to since 2018. Founding and structure Hermes was formally registered in 2012 after the GlobaLeaks project — initiated in late 2010 by Fabio Pietrosanti and shared into the Italian hacktivist com… | scheda del grafo Make AI Good: GlobaLeaks avviato da Fabio Pietrosanti nel 2010
-- 🆕 **2026** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
-  «Dott. Fabio Pietrosanti» nel comitato tecnico di esperti dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino; confermato da Fabio il 2026-10-07 (data di nomina non indicata nella pagina).
 
 ## 2025 — 13 voci, 13 nuove
 
@@ -193,7 +191,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2024** · Report · Ufficio Scolastico Regionale per il Lazio (MIM) - monitoraggio trasparenza e anticorruzione 2023, copia pubblicata da I.I.S. di Ceccano — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituzioni scolastiche del Lazio)](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf)  
   Rilevazione ufficiale dell'USR Lazio sulle misure di trasparenza nelle scuole. A riga 1315 del testo estratto compare la voce 'MONITORA PA DEL DOTT. FABIO PIETROSANTI - OTTOBRE 2022 - TRASPARENZA', registrata come causa di istanze di accesso civico ricevute dagli istituti.
 
-## 2023 — 17 voci, 17 nuove
+## 2023 — 18 voci, 18 nuove
 
 - 🆕 **2023-07-09** · website · Hacking Biology (hackingbiology.com) – sito proprio / Hacking Biology Foundation — [Hacking Biology – The non-profit foundation stewarding biohack.it (blog di ricerca dal luglio 2023, pagine News e About)](https://hackingbiology.com/)  
   Sito proprio, NON copertura di terzi: incluso solo come fonte primaria del filone biohacking (non presente in media.json). Letto 2026-10-07: «Hacking Biology was started by Fabio Pietrosanti». Primo post archiviato: https://hackingbiology.com/2023/07/09/a-data-driven-applied-aging-research-project/ (Wayback). La pagina /news/ elenca: 22/08/2024 presentazione alla comunita' Rapamycin News; 05/01/2025 Speciale Tg1; 17/05/2025 Codice Beta (data diversa dall'URL 2025/01 gia' noto: da chiarire con Fabio); 27/06/2025 Codice Rai 1; 02/07/2025 partecipazione al Longevity Summit Dublin (Trinity College, 2-4/7); 08/04/2026 Fund Longevity rally a Roma (Largo di Torre Argentina); 18/08/2026 migrazione del sito da WordPress.com. La sezione 'In the press' di /about/ cita solo i tre Rai gia' noti.
@@ -229,6 +227,8 @@ Anni senza nessun risultato: nessuno
   New PECs now sent by Giacomo Tesio instead of Fabio Pietrosanti, who keeps collaborating
 - 🆕 **2023-01-07** · audio · Ciao, Internet! con Matteo Flora - Garantismi LIVE — [[Garantismi LIVE] - Le Sfide della Privacy nel 2023](https://www.spreaker.com/episode/garantismi-live-le-sfide-della-privacy-nel-2023--52379256) _(non verificato)_  
   Diretta con Guido Scorza. iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto.
+- 🆕 **2023** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
+  «Dott. Fabio Pietrosanti» nel Comitato Tecnico degli Esperti (art. 52 c. 11) dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino. Confermato da Fabio il 2026-10-07. Prima comparsa sulla pagina ufficiale fra il 2023-02-04 (assente) e il 2023-12-03 (presente), da copie Web Archive.
 
 ## 2022 — 64 voci, 64 nuove
 
@@ -2266,6 +2266,9 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · festivaldelgiornalismo.com — [Digital whistleblowing nel giornalismo moderno #ijf15](https://www.festivaldelgiornalismo.com/digital-whistleblowing-nel-giornalismo-moderno/)
 - 🆕 Menzionato · dimt.it — [Whistleblowing e Pa, quali garanzie per i segnalanti? Coccagna (Anac): "Uno speciale protocollo tutela chi invia le email. Presto possibilità per tutti i cittadini" - Diritto Mercato Tecnologia](https://www.dimt.it/news/8whistleblowing-e-pa-quali-garanzie-per-i-segnalanti-coccagna-anac-uno-speciale-protocollo-tutela-chi-invia-le-email-presto-possibilita-per-tutti-i-cittadini/)
 - 🆕 Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202022%20l'accoglienza%208.htm)
+- 🆕 Menzionato · dig-awards.org — [A DIG 12 incontri speciali, aperti a tutti, sulle sfide del giornalismo](https://dig-awards.org/it/news/dig-academy-2022-formazione-giornalisti/)
+- 🆕 Menzionato · facebook.com — [Reazioni: 18 | Dentro Anonymous. Come operano i guerrieri della rete impegnati a difesa dell'Ucraina con incursioni telematiche su obiettivi russi? Quali tecniche usano? Chi c'è dietro? Ne ho parlato con uno degli hacker storici italiani, che conoscono a fondo le attività di questi pirati del web, in parte animati da schietto idealismo per le cause dei deboli, in parte ombrello dietro cui nascondere operazioni di Stati sovrani. E' Fabio Pietrosanti, presidente del Centro Ermes sui diritti umani digitali. Trovate l'intervista nel video qui sotto. Ma Pietrosanti è anche uno degli ospiti della nuova puntata di Eta Beta in onda alle 11.30 su Radio1 Rai e poi disponibile in podcast sul sito www.etabeta.rai.it o su Raiplaysound. Parliamo in generale della cyberwar tra russi e ucraini e di come sta già impattando sui nostri computer. Rischiamo una paralisi di ospedali, trasporti e altre infrastrutture critiche? Con Arturo Di Corinto, giornalista esperto di cybercrime e un contributo di Stefano Mele dal podcast Codice Beta che faccio con Barbara Carfagna. Vi aspetto! | Eta Beta - Radio1 Rai](https://www.facebook.com/Etabetaradio1/videos/dentro-anonymous-come-operano-i-guerrieri-della-rete-impegnati-a-difesa-dellucra/1078010332773465/)
+- 🆕 Menzionato · tipiloschi.net — [corsi | TipiLoschi.net](https://www.tipiloschi.net/drupal/taxonomy/term/11)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

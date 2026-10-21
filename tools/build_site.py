@@ -234,6 +234,13 @@ def build(lang="en"):
              f'<h3>{esc(dn.get("title", ""))}</h3><p>{esc(dn.get("text", ""))}</p>'
              f'<a href="{esc(dn["link"][1])}" rel="noopener">{esc(dn["link"][0])} →</a></div>') if dn else ""
 
+    appts = "".join(
+        f'<div class="pat appt"><h4>{esc(a["role"])}</h4><div class="pref">{esc(a["org"])} · {esc(a["since"])}</div>'
+        f'<div class="meta">{esc(a["note"])}</div>'
+        f'<div class="plinks"><a href="{esc(a["url"])}" rel="noopener">source</a></div></div>'
+        for a in c.get("appointments", []))
+    appt_html = (f'<div class="pats"><h3 class="subh">{esc(c.get("appointments_title", ""))}</h3>{appts}</div>') if appts else ""
+
     # patents
     pats = "".join(
         f'<div class="pat"><h4>{esc(x["title"])}</h4><div class="pref">{esc(x["refs"])}</div>'
@@ -297,7 +304,7 @@ def build(lang="en"):
         "KICKER": esc(c["hero"]["kicker"]), "FIRST": esc(intro["first_name"]), "LAST": esc(intro["last_name"]),
         "AKA": esc(c["hero"]["aka"]), "HEADLINE": esc(intro["headline"]), "HERO_LINKS": hero_links, "STATS": stats_html,
         "H_ABOUT": head("about", 1), "ABOUT": about, "H_STORY": head("story", 2), "STORY": "".join(story),
-        "H_WORK": head("work", 4), "EXP": "".join(exp), "PATENTS": pat_html, "H_PROJECTS": head("projects", 5), "PROJECTS": proj_html,
+        "H_WORK": head("work", 4), "EXP": "".join(exp), "APPOINT": appt_html, "PATENTS": pat_html, "H_PROJECTS": head("projects", 5), "PROJECTS": proj_html,
         "H_ARCHIVE": head("archive", 6), "SEARCH": esc(ui["search"]), "CATS": cat_btns, "TAGCHIPS": tagchips, "HIST": hist,
         "NICK": esc(ident["nick"]), "ZH": esc(ident["zh"]), "ZHNOTE": esc(ident["zh_note"]),
         "ROLES": "".join(f'<span{" class=\"first\"" if n == 0 else ""}>{esc(r)}</span>'

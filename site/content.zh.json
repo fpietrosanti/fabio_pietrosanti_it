@@ -708,5 +708,15 @@
   "label": "微信",
   "handle": "fpietrosanti",
   "note": "扫码或搜索微信号添加。"
- }
+ },
+ "appointments_title": "公职任命",
+ "appointments": [
+  {
+   "role": "技术专家委员会委员",
+   "org": "圣马力诺共和国 个人数据保护监管局",
+   "since": "2023 年起",
+   "note": "该独立监管机构的技术专家委员会（2018 年第 171 号法律第 52 条第 11 款）。",
+   "url": "https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html"
+  }
+ ]
 }

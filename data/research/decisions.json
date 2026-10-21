@@ -1031,13 +1031,6 @@
    }
   },
   {
-   "url": "https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html",
-   "set": {
-    "verified": true,
-    "note": "«Dott. Fabio Pietrosanti» nel comitato tecnico di esperti dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino; confermato da Fabio il 2026-10-07 (data di nomina non indicata nella pagina)."
-   }
-  },
-  {
    "url": "https://www.slideshare.net/slideshow/infosecurity-06-tecnologie-di-firma-digitale-e-tutela-della-riservatezza/1669276",
    "set": {
     "date": "2006-02-10",
@@ -1070,6 +1063,14 @@
    "url": "https://www.youtube.com/watch?v=6-T6nVSTd14",
    "set": {
     "note": "Conferenza PouL «GlobaLeaks e TOR» con Claudio Agosti; 2026-10-14: confermato da Fabio: entrambi hanno parlato sia di Tor sia di GlobaLeaks"
+   }
+  },
+  {
+   "url": "https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html",
+   "set": {
+    "year": 2023,
+    "date": "2023",
+    "note": "«Dott. Fabio Pietrosanti» nel Comitato Tecnico degli Esperti (art. 52 c. 11) dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino. Confermato da Fabio il 2026-10-07. Prima comparsa sulla pagina ufficiale fra il 2023-02-04 (assente) e il 2023-12-03 (presente), da copie Web Archive."
    }
   }
  ],
