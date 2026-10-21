@@ -35,10 +35,6 @@
    "书籍"
   ],
   [
-   "quotes",
-   "引述"
-  ],
-  [
    "communities",
    "社区"
   ],
@@ -131,10 +127,6 @@
   ],
   "books": [
    "书籍——引用与参与",
-   ""
-  ],
-  "quotes": [
-   "引述",
    ""
   ]
  },
@@ -715,10 +707,5 @@
   "label": "微信",
   "handle": "fpietrosanti",
   "note": "扫码或搜索微信号添加。"
- },
- "quotes_table": {
-  "year": "年份",
-  "quote": "引述",
-  "source": "出处"
  }
 }

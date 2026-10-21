@@ -35,10 +35,6 @@
    "Books"
   ],
   [
-   "quotes",
-   "Quotes"
-  ],
-  [
    "communities",
    "Communities"
   ],
@@ -131,10 +127,6 @@
   ],
   "books": [
    "Books — citations & contributions",
-   ""
-  ],
-  "quotes": [
-   "Quotes",
    ""
   ]
  },
@@ -715,10 +707,5 @@
   "label": "WeChat",
   "handle": "fpietrosanti",
   "note": "Scan the code or add the handle on WeChat."
- },
- "quotes_table": {
-  "year": "Year",
-  "quote": "Quote",
-  "source": "Source"
  }
 }

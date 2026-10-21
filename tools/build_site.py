@@ -212,16 +212,6 @@ def build(lang="en"):
                   + "".join(f"<th>{esc(btab.get(k, k))}</th>" for k in ("year", "title", "how", "authors", "what", "links"))
                   + f'</tr></thead><tbody>{brows}</tbody></table>'
                   + f'<p class="note">{esc(bui.get("note", ""))}</p>') if book_list else ""
-    qt = c.get("quotes_table", {})
-    qlist = load(ROOT / "data/quotes.json") if (ROOT / "data/quotes.json").exists() else []
-    qrows = "".join(
-        f'<tr><td class="py">{esc(str(q["year"] or ""))}</td>'
-        f'<th class="qt">“{esc(q["text"])}”</th>'
-        f'<td class="qs"><a href="{esc(q["url"])}" rel="noopener">{esc(q["outlet"])}</a>'
-        f'<span>{esc(q["date"] or "")}</span></td></tr>' for q in qlist)
-    quotes_html = ('<table class="ptable qtable"><thead><tr>'
-                   + "".join(f"<th>{esc(qt.get(k, k))}</th>" for k in ("year", "quote", "source"))
-                   + f'</tr></thead><tbody>{qrows}</tbody></table>') if qlist else ""
     contact = "".join(f"<p>{linkify(x)}</p>" for x in c.get("contact_lines", []))
     wc = c.get("wechat") or {}
     wechat = (f'<div class="wechat"><img src="{pre}assets/wechat@1x.png" '
@@ -306,7 +296,6 @@ def build(lang="en"):
         "H_FOCUS": head("focus", 3), "FOCUS": focus, "CONTACT": contact,
         "H_ARTIFACTS": head("artifacts", 8), "ARTIFACTS": artifacts,
         "H_BOOKS": head("books", 7) if "books" in st else "", "BOOKS": books_html,
-        "H_QUOTES": head("quotes", 8) if "quotes" in st else "", "QUOTES": quotes_html,
         "TAGS": json.dumps({k: (v.get("label_" + lang) or v["label_en"]) for k, v in tagdefs.items()
                             if not k.startswith("_")}, ensure_ascii=False),
         "H_COMM": head("communities", 9), "COMM": comm, "H_PAST": head("past", 10), "PAST": past,
