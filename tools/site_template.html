@@ -277,7 +277,9 @@ details p{font-size:14.5px;color:var(--ink2);margin:8px 0;max-width:740px;white-
 .past a:hover{border-color:var(--acc);color:var(--acc);text-decoration:none}
 .contact{font:400 20px/1.5 var(--sans);max-width:720px}
 footer{border-top:1px solid var(--line);padding:30px 0 50px;font-size:12.5px;color:var(--ink3)}
-footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
+footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap;align-items:center}
+.flinks{display:flex;flex-wrap:wrap;gap:14px}
+.flinks a{font:500 12.5px var(--sans);border:0;padding:0;color:var(--ink2)}
 .draft{display:inline-block;background:var(--acc2);color:#15160f;font:600 10.5px var(--mono);padding:2px 8px;border-radius:4px;letter-spacing:.08em;text-transform:uppercase}
 @media (max-width:900px){
   .ptable,.ptable tbody,.ptable tr,.ptable th,.ptable td{display:block;width:auto}
@@ -368,8 +370,8 @@ footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
 </div></section>
 
 <footer><div class="wrap">
-  <span>© {{YEAR}} Fabio Pietrosanti · {{LOCATION}}</span>
-  <span>{{SYNC}}</span>
+  <span>© {{YEAR}} Fabio Pietrosanti</span>
+  <span class="flinks">{{FOOTLINKS}}</span>
 </div></footer>
 
 <script id="data" type="application/json">{{DATA}}</script>

@@ -311,7 +311,7 @@ def build(lang="en"):
                             if not k.startswith("_")}, ensure_ascii=False),
         "H_COMM": head("communities", 9), "COMM": comm, "H_PAST": head("past", 10), "PAST": past,
         "H_CONTACT": head("contact", 11), "DONOR": donor, "SYNC": esc(sync), "DRAFT": esc(c["footer"]["draft"]),
-        "PORTRAIT": portrait, "WECHAT": wechat, "MORE": esc(uiL.get("more", "Show more")), "LANGSW": langsw, "ALTS": alts, "BASE": base, "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
+        "PORTRAIT": portrait, "WECHAT": wechat, "MORE": esc(uiL.get("more", "Show more")), "FOOTLINKS": hero_links, "LANGSW": langsw, "ALTS": alts, "BASE": base, "DATA": data_json, "UI": ui_json, "YEAR": str(date.today().year), "LOCATION": esc(intro.get("location", "")),
     }.items():
         page = page.replace("{{" + k + "}}", v)
     if lang != "en":
