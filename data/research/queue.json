@@ -1563,21 +1563,75 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" Latina 2023 OR 2024 OR 2025",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari; 2026-10-21: robot check Google, da rifare"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari; 2026-10-21: robot check Google, da rifare",
+   "date": "2026-10-21",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" whistleblowing \"decreto legislativo 24/2023\" OR \"d.lgs. 24/2023\"",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari; 2026-10-21: robot check Google, da rifare"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari; 2026-10-21: robot check Google, da rifare",
+   "date": "2026-10-21",
+   "found": 4
   },
   {
    "query": "\"Fabio Pietrosanti\" podcast OR webinar 2021 OR 2022",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari; 2026-10-21: robot check Google, da rifare"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari; 2026-10-21: robot check Google, da rifare",
+   "date": "2026-10-21",
+   "found": 10
+  },
+  {
+   "query": "\"naif\" Pietrosanti 1998 OR 1999 hacker OR BBS OR FidoNet",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2004 OR 2007 OR 2008 sicurezza OR VoIP OR intercettazioni",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" PrivateWave OR \"cifratura voce\" 2008 OR 2009",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Hermes Center\" 2023 OR 2024 intervista OR dichiarazione",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2025 intervento OR convegno OR panel",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" GlobaLeaks \"anticorruzione\" 2024 OR 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+  },
+  {
+   "query": "\"naif\" Pietrosanti \"Hackmeeting\" OR \"HackIt\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" OR \"naif Pietrosanti\" libro OR saggio citato",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
   }
  ],
  "history": [
@@ -2233,6 +2287,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Nessun browser Chrome connesso (list_connected_browsers vuoto): blocco Google saltato. Le 3 query in 'retry' (Latina 2023-25, d.lgs. 24/2023, podcast/webinar 2021-22) restano da fare. Nessun candidato: verify/merge/archive_copies non eseguiti."
+  },
+  {
+   "date": "2026-10-21 20:45",
+   "engine": "google-chrome",
+   "searched": 3,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Le 3 query in 'retry' (Latina 2023-25, d.lgs. 24/2023, podcast/webinar 2021-22) eseguite senza robot check: 23 risultati, link ancora /goto → confrontati titolo+dominio con media.json/decisions.json. Già in archivio: raiplaysound Eta Beta 2022, dig-awards DIG Academy 2022, open.gov.it Milano Digital Week, RomHack, Think: Digital Futures (podnews = stesso podcast già in archivio via Apple Podcasts), attivissimo 2022/06 Google Analytics, tipiloschi, ondata, 'Dentro Anonymous'. Scartati: richieste FOIA/accesso civico Monitora PA su siti di scuole e gazzettaamministrativa (atti amministrativi con dati personali, regola già in decisions.json), Scribd 'Fabio Pietrosanti' (già escluso), atti amministrativi parcolucretili/Regione Lazio/unitn senza il nome di Fabio nello snippet, profili LinkedIn/X/Facebook. Nessun candidato: verify/merge/archive_copies non eseguiti. Coda esaurita: aggiunte 8 query per 1998-99, 2003-08, 2023-25."
   }
  ]
 }
