@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1501**; dopo deduplica: **1093**
+- Risultati grezzi dalle ricerche: **1508**; dopo deduplica: **1099**
 - Già presenti sul vecchio sito: **50** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1043**
-- Verificati aprendo la pagina: **1024**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1049**
+- Verificati aprendo la pagina: **1030**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 214, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 72, Citato 51, article 35, Progetto 33, Ricerca 31, Altro 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Slide 15, Comunicato 15, Paper 12, Podcast 12, audio 11, Intervista 7, TV 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 220, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 72, Citato 51, article 35, Progetto 33, Ricerca 31, Altro 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Slide 15, Comunicato 15, Paper 12, Podcast 12, audio 11, Intervista 7, TV 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -2269,6 +2269,13 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · dig-awards.org — [A DIG 12 incontri speciali, aperti a tutti, sulle sfide del giornalismo](https://dig-awards.org/it/news/dig-academy-2022-formazione-giornalisti/)
 - 🆕 Menzionato · facebook.com — [Reazioni: 18 | Dentro Anonymous. Come operano i guerrieri della rete impegnati a difesa dell'Ucraina con incursioni telematiche su obiettivi russi? Quali tecniche usano? Chi c'è dietro? Ne ho parlato con uno degli hacker storici italiani, che conoscono a fondo le attività di questi pirati del web, in parte animati da schietto idealismo per le cause dei deboli, in parte ombrello dietro cui nascondere operazioni di Stati sovrani. E' Fabio Pietrosanti, presidente del Centro Ermes sui diritti umani digitali. Trovate l'intervista nel video qui sotto. Ma Pietrosanti è anche uno degli ospiti della nuova puntata di Eta Beta in onda alle 11.30 su Radio1 Rai e poi disponibile in podcast sul sito www.etabeta.rai.it o su Raiplaysound. Parliamo in generale della cyberwar tra russi e ucraini e di come sta già impattando sui nostri computer. Rischiamo una paralisi di ospedali, trasporti e altre infrastrutture critiche? Con Arturo Di Corinto, giornalista esperto di cybercrime e un contributo di Stefano Mele dal podcast Codice Beta che faccio con Barbara Carfagna. Vi aspetto! | Eta Beta - Radio1 Rai](https://www.facebook.com/Etabetaradio1/videos/dentro-anonymous-come-operano-i-guerrieri-della-rete-impegnati-a-difesa-dellucra/1078010332773465/)
 - 🆕 Menzionato · tipiloschi.net — [corsi | TipiLoschi.net](https://www.tipiloschi.net/drupal/taxonomy/term/11)
+- 🆕 Menzionato · cfp.romhack.io — [RomHack Camp 2026
+            :: pretalx](https://cfp.romhack.io/romhack-camp-2026/speaker/)
+- 🆕 Menzionato · osservatoriorepressione.info — [Caro abbonato, risulta che stai partecipando agli scontri - Osservatorio Repressione](https://www.osservatoriorepressione.info/caro-abbonato-risulta-che-stai-partecipando-agli-scontri/)
+- 🆕 Menzionato · milanotoday.it — [Due giorni di informatica forense a Milano con IISFA Forum](https://www.milanotoday.it/cronaca/informatica-forense-iisfa-forum.html)
+- 🆕 Menzionato · centroriformastato.it — [Scopi e iniziative della Scuola critica del digitale - CRS - Centro per la Riforma dello Stato](https://www.centroriformastato.it/scopi-e-iniziative-della-scuola-critica-del-digitale-2/)
+- 🆕 Menzionato · media.journalismfestival.com — [panel discussion International Journalism Festival #ijf18](https://media.journalismfestival.com/programme/2018/category/panel-discussion/0/)
+- 🆕 Menzionato · hackingbiology.com — [About Fabio · Hacking Biology](https://hackingbiology.com/about/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

@@ -1587,51 +1587,107 @@
   },
   {
    "query": "\"naif\" Pietrosanti 1998 OR 1999 hacker OR BBS OR FidoNet",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)",
+   "done": "2026-10-22"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2004 OR 2007 OR 2008 sicurezza OR VoIP OR intercettazioni",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)",
+   "done": "2026-10-22"
   },
   {
    "query": "\"Pietrosanti\" PrivateWave OR \"cifratura voce\" 2008 OR 2009",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)",
+   "done": "2026-10-22"
   },
   {
    "query": "\"Pietrosanti\" \"Hermes Center\" 2023 OR 2024 intervista OR dichiarazione",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)",
+   "done": "2026-10-22"
   },
   {
    "query": "\"Fabio Pietrosanti\" 2025 intervento OR convegno OR panel",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)",
+   "done": "2026-10-22"
   },
   {
    "query": "\"Pietrosanti\" GlobaLeaks \"anticorruzione\" 2024 OR 2025",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)",
+   "done": "2026-10-22"
   },
   {
    "query": "\"naif\" Pietrosanti \"Hackmeeting\" OR \"HackIt\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)",
+   "done": "2026-10-22"
   },
   {
    "query": "\"Fabio Pietrosanti\" OR \"naif Pietrosanti\" libro OR saggio citato",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)",
+   "done": "2026-10-22"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2000 OR 2001 OR 2002 sicurezza OR hacker OR Linux",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-21: coda esaurita; anni più deboli (1998-99, 2003-08, 2023-25)"
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Anatomia di un DRM\" OR \"DRM editoriale\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Wired intervista telefonia OR localizzazione OR IMSI",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" IISFA OR \"informatica forense\" OR captatori",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Scuola critica del digitale\" OR \"Centro per la Riforma dello Stato\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2026 biohacking OR longevità OR intervista",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+  },
+  {
+   "query": "\"Pietrosanti\" GlobaLeaks whistleblowing 2026",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+  },
+  {
+   "query": "\"naif\" Pietrosanti s0ftpj OR \"Butchered From Inside\" OR BFi",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
   }
  ],
  "history": [
@@ -2295,6 +2351,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Le 3 query in 'retry' (Latina 2023-25, d.lgs. 24/2023, podcast/webinar 2021-22) eseguite senza robot check: 23 risultati, link ancora /goto → confrontati titolo+dominio con media.json/decisions.json. Già in archivio: raiplaysound Eta Beta 2022, dig-awards DIG Academy 2022, open.gov.it Milano Digital Week, RomHack, Think: Digital Futures (podnews = stesso podcast già in archivio via Apple Podcasts), attivissimo 2022/06 Google Analytics, tipiloschi, ondata, 'Dentro Anonymous'. Scartati: richieste FOIA/accesso civico Monitora PA su siti di scuole e gazzettaamministrativa (atti amministrativi con dati personali, regola già in decisions.json), Scribd 'Fabio Pietrosanti' (già escluso), atti amministrativi parcolucretili/Regione Lazio/unitn senza il nome di Fabio nello snippet, profili LinkedIn/X/Facebook. Nessun candidato: verify/merge/archive_copies non eseguiti. Coda esaurita: aggiunte 8 query per 1998-99, 2003-08, 2023-25."
+  },
+  {
+   "date": "2026-10-22 00:40",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 6,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (anni deboli 1998-99, 2004-08, PrivateWave 2008-09, Hermes 2023-24, convegni 2025, GlobaLeaks anticorruzione, Hackmeeting, libri) eseguite senza robot check: 72 risultati, URL risolti. 16 candidati verificati: 7 OK, 1 escluso a mano. NUOVE (6): RomHack Camp 2026 speaker (talk 'Anatomia di un DRM editoriale'), Osservatorio Repressione (citazione da Wired, esperto di telefonia), MilanoToday IISFA Forum (intervento), CRS Scuola critica del digitale (docente), IJF18 'Italian privacy nightmare' (programma panel 11/04/2018), hackingbiology.com/about. ESCLUSA: schneier.com 2010/05 'Nobody encrypts' — solo un commento firmato da Fabio (= post di forum). Scartati: s0ftpj PDF 'PGP luci e ombre' (= atti e-privacy 2005 già in archivio da urna.winstonsmith.org), slideserve (mirror), giac/pr-foundation/romhack-schedule/CRS pag.2 (nome assente), ResearchGate/Academia paper TI Italia ed ebin 'Profiling Hackers' (non scaricabili), Amazon 'Incontri DiVersi'/hodexcodicerosso/Instagram (autore omonimo, già in not_me), forum.italia.it e liste autistici/inventati (forum/mailing list). Copie offline: 6 ottenute (wayback). Coda di nuovo esaurita: aggiunte 8 query."
   }
  ]
 }
