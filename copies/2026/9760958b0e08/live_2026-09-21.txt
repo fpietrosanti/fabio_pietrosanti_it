@@ -1,0 +1,202 @@
+BIOHACK.IT — Open Laboratory for Longevity 
+
+ BIOHACK.IT Hacking Biology 
+
+ What 
+ How 
+ Plan 
+ Join 
+ Specs 
+ About 
+ HackingBiology 
+
+ Open source · Non-profit · AGPL-3.0
+
+ BIOHACK.IT
+
+ Turn self-experimentation into evidence.
+
+ Open infrastructure for structured human self-experimentation.
+
+ Document what you take and do, measure it with standards-coded biomarkers, and share it — so that thousands of individual experiments become comparable human data , with safety engineered in rather than bolted on.
+
+ Intervention → 
+ Measurement → 
+ Individual effect → 
+ Cohort → 
+ Evidence 
+
+ Read the plan 
+ Join the community 
+
+ Built on an existing community — Rapamycin News 
+ Standing on Evipedia · AI4L · get-based 
+
+ What it is
+
+ Document your protocol. Measure it. Share it.
+
+ Today a biohacker's protocol lives in spreadsheets, forum posts and chat prompts — not comparable, not followable, not readable by a physician. BIOHACK.IT turns it into structured, shareable data.
+
+ 01 — Document What you take & do
+ Substances, therapies, exercise and nutrition — with dose, timing and real cycle schemas. Create from scratch, or copy any public protocol with one click.
+
+ 02 — Measure Efficacy & safety
+ Biomarkers with reference, optimal and safety ranges — plus biological clocks (PhenoAge, epigenetic, glycation). Upload your past lab reports and get your history in graphs, free.
+
+ 03 — Share Open by default
+ Publish your protocol and its outcomes. Follow and copy the people who get results, seeing their public biomarkers. Quality comes from three layers: deterministic validation, community review, expert oversight .
+
+ What makes it computable
+
+ The same protocol, written three ways, is one entity.
+
+ This is the whole project in three lines. Today a dose lives as prose in a forum post, a screenshot, or a spreadsheet nobody else can read. We turn it into something a machine — and a researcher — can actually use.
+
+ "rapamycin 6mg weekly"
+
+"sirolimus 6 mg every Sunday"   ──▶    RxNorm 35302 · 6 mg · every 7 days · pulsed 
+
+"Rapa 6 mg q7d"
+
+ human-readable, research-useless          one computable entity, linked to your biomarkers over time 
+
+ GitHub for biological self-experimentation.
+
+ If you have ever used version control, you already know how this works.
+
+ Git biohack.it 
+
+ repository a protocol 
+
+ fork copying someone's protocol 
+
+ commit a dose or intervention change, with its reason 
+
+ release a protocol version 
+
+ CI safety monitoring — baseline, inherited markers, overdue checks 
+
+ issues a contested claim, discussed in public 
+
+ telemetry your biomarkers over time 
+
+ README the doctor sheet 
+
+ dataset the open research output 
+
+ The plan
+
+ From one person to a distributed trial.
+
+ We are building in the open. The full functional specification — 26 capabilities, 150+ requirements across protocols, biomarkers, safety, community and open data — is public and browsable, and grows with community review. What we build first is deliberately much narrower than what we have specified.
+
+ Read the functional specification → White paper → 
+
+ Also as documents — Specification : PDF · HTML  ·  White paper : PDF · HTML   v0.1 · 2026-08-20 
+
+ PHASE 0
+ Foundations
+ Domain model, biomarker registry, coded catalogue, safety rules.
+
+ MVP
+ Useful to one
+ Protocol · Blood Layer · Safety · Doctor sheet — value in ten minutes, zero spend.
+
+ NEXT
+ Adherence
+ Daily log — thirty seconds a day, and the reason any later number means something.
+
+ THEN
+ Useful to many
+ Public protocols, follow & copy, safety on copy, pre-registered N-of-1.
+
+ THEN
+ Open data
+ Cohorts, self-generated open & linked data, then a research API.
+
+ DESTINATION
+ Distributed trials
+ Shared protocols with endpoints declared in advance, meeting a published bar.
+
+ Deliberately deferred until those land: procurement, advanced nutrition, therapeutics scheduling, genomics beyond import, agent access. Breadth in thinking, discipline in shipping. 
+
+ Rigor is a design decision, not a disclaimer. The platform describes, never prescribes; every claim is graded to its evidence. 
+
+ The LLM writes words, never numbers. Extraction, thresholds and indices are deterministic and reproducible. 
+
+ Safety is not opt-in. Follow a protocol and you inherit its safety markers and a mandatory baseline. 
+
+ Open by code and by data. AGPL software; the public dataset is a clonable snapshot anyone can self-host. 
+
+ Join us
+
+ Build this with us.
+
+ This is open infrastructure, and it is early. Every one of these roles is genuinely open — and each one changes what the project becomes.
+
+ Biohackers Bring your experience
+ Shape the specification with what you actually do, and bring your protocols and measurements into the software. The domain model is only as good as the people who practise the domain.
+
+ Software hackers Build it
+ AGPL, public specification, open issues. Backend, data pipelines, front-end, standards mapping — the whole thing is written down before it is written in code.
+
+ Researchers & scientists Keep us honest
+ Help make the data defensible — validity, uncertainty, evidence grading — while keeping the software usable by a beginner. Both constraints are real; we need people who hold them together.
+
+ Longevity enthusiasts Spread it
+ Volunteer to tell people it exists: community, translation, events, content. A tool nobody knows about produces no data.
+
+ Fundraisers & philanthropy Make it sustainable
+ Help build a funding pipeline — public grants and philanthropic support — so development continues without the project ever becoming commercial.
+
+ Write to us
+
+ research@hackingbiology.com 
+ Tell us which of the five you are — and what you would like to work on.
+
+ Code
+
+ github.com/hackingbiology/biohackit 
+
+ Telegram Group Chat
+
+ Join and contribute
+
+ Scan or tap to join — project updates and open discussion.
+
+ WeChat 微信
+
+ Scan to add Fabio — he will then add you to the biohack.it group chat.
+ 扫码添加 Fabio，随后拉你进 biohack.it 群聊。 
+
+ About
+
+ The Software and the Foundation.
+
+ biohack.it is an effort begun in 2022 by Fabio Pietrosanti — a hacker who turned to biology when his mother died of lung cancer. That loss set his focus on the biology of aging; he became a biohacker himself, and set out to give the international community the instrument he wished for himself in hacking his own biology.
+
+ BIOHACK.IT
+ The software and the initiative : an open platform for the biohacking and longevity community to document protocols and measure them, together, in the open.
+
+ Hacking Biology Foundation
+ The non-profit foundation behind the initiative — it manages the project and its development, guarantees it never becomes commercial, and pursues social objectives in the service of biohackers and longevity.
+
+ We build on the shoulders of others and act as a connector of their data effort: Evipedia ( Forever Healthy , CC BY 4.0 ), the AI4L evidence framework, get-based , and open vocabularies ( LOINC , UCUM , RxNorm , OMOP , FHIR ). The community already exists on Rapamycin News ; now it gets its instrument.
+
+ Visit HackingBiology.com ↗ 
+
+ BIOHACK.IT
+
+ An open laboratory for longevity 
+
+ Specs 
+ White paper 
+ Communication guide 
+ Logos ↓ 
+ Foundation 
+ Deck 
+ Source ↗ 
+ Rapamycin News 
+
+ Open source under AGPL-3.0 · Hacking Biology, non-profit · An open laboratory for longevity.

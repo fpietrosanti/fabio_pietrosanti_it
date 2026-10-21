@@ -20,8 +20,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 LIB = ROOT.parent / "fabio_pietrosanti_it-copies"
 OUT = ROOT / "copies"
-LIGHT_MAX = 20_000_000
-SKIP = re.compile(r"^media\.|\.(mp4|webm|mkv|mov|mp3|m4a|ogg|opus|wav|flac)$", re.I)
+LIGHT_MAX = 10_000_000
+SKIP = re.compile(r"\.(mp4|webm|mkv|mov|mp3|m4a|ogg|opus|wav|flac)$", re.I)  # media live on Drive
 BANNER = ('<div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;'
           'font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a>'
           ' · source: <a style="color:#f2b134" href="{url}">{url_short}</a>{cap} · scripts removed</div>')
@@ -78,6 +78,10 @@ def main():
         if link:
             index[r["url"]] = str(link.relative_to(ROOT)).replace("\\", "/")
     json.dump(index, io.open(ROOT / "site/copies.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0, sort_keys=True)
+    wb = {r["url"]: r["capture"] for r in copies
+          if r.get("method") == "wayback" and r.get("capture") and r["url"] in ok}
+    json.dump(wb, io.open(ROOT / "data/wayback.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0, sort_keys=True)
+    print(f"data/wayback.json: {len(wb)} captures")
     print(f"published {len(index)} copies, {n_files} files, {size / 1e6:.0f} MB -> copies/")
 
 

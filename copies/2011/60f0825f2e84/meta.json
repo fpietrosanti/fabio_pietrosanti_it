@@ -6,6 +6,6 @@
  "content_type": "text/html; charset=utf-8",
  "bytes": 25184,
  "sha256": "81737b1027d4b1f0e0e396d55640a29fb313bddc82e03c36c3606b736732ba94",
- "name_found": false,
+ "name_found": true,
  "fetched_at": "2026-09-18T00:51:01+00:00"
 }

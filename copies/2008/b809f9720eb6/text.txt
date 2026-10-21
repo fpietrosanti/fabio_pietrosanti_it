@@ -1,0 +1,1100 @@
+ITRM20060426A1 - 
+ METHOD FOR NON-REPAIR RECORDING OF A DIGITAL TRANSMISSION OF INFORMATION AND FOR THE IDENTIFICATION OF COMMUNICATION PARTICIPANTS
+
+ - Google Patents 
+
+ ITRM20060426A1 - 
+ METHOD FOR NON-REPAIR RECORDING OF A DIGITAL TRANSMISSION OF INFORMATION AND FOR THE IDENTIFICATION OF COMMUNICATION PARTICIPANTS
+
+ - Google Patents
+
+ METHOD FOR NON-REPAIR RECORDING OF A DIGITAL TRANSMISSION OF INFORMATION AND FOR THE IDENTIFICATION OF COMMUNICATION PARTICIPANTS
+
+ Download PDF 
+ Info
+
+ Publication number 
+ ITRM20060426A1 
+
+ ITRM20060426A1 
+
+ ITRM20060426A 
+ ITRM20060426A1 
+ IT RM20060426 A1 
+ ITRM20060426 A1 
+ IT RM20060426A1 
+
+ IT RM20060426 A 
+ ITRM20060426 A 
+ IT RM20060426A 
+ IT RM20060426 A1 
+ ITRM20060426 A1 
+ IT RM20060426A1 
+
+ Authority 
+ IT 
+ Italy 
+
+ Prior art keywords 
+ communication 
+ key 
+ biometric 
+ identifier 
+ verification 
+
+ Prior art date 
+ 2006-08-04 
+
+ Application number 
+
+ Other languages 
+
+ Italian ( it )
+
+ Inventor 
+ Lorenzo Boccaccia 
+ Federico Moro 
+ Fabio Pietrosanti 
+
+ Original Assignee 
+ Khamsa Italia S R L 
+
+ Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.) 
+ 2006-08-04 
+
+ Filing date 
+ 2006-08-04 
+
+ Publication date 
+ 2008-02-05 
+
+ 2006-08-04 
+ Application filed by Khamsa Italia S R L 
+ filed 
+ Critical 
+
+ Khamsa Italia S R L 
+
+ 2006-08-04 
+ Priority to ITRM20060426 
+ priority 
+ Critical 
+
+ patent/ITRM20060426A1/en 
+
+ 2007-08-03 
+ Priority to PCT/IT2007/000565 
+ priority 
+
+ patent/WO2008015723A2/en 
+
+ 2007-08-03 
+ Priority to EP07805758A 
+ priority 
+
+ patent/EP2057777A2/en 
+
+ 2008-02-05 
+ Publication of ITRM20060426A1 
+ publication 
+ Critical 
+
+ patent/ITRM20060426A1/en 
+
+ Links
+
+ Espacenet 
+
+ Global Dossier 
+
+ Discuss 
+
+ 238000004891 
+ communication 
+ Methods 
+
+ 0.000 
+ title 
+ claims 
+ description 
+ 88 
+
+ 238000000034 
+ method 
+ Methods 
+
+ 0.000 
+ title 
+ claims 
+ description 
+ 53 
+
+ 230000005540 
+ biological transmission 
+ Effects 
+
+ 0.000 
+ title 
+ claims 
+ description 
+ 14 
+
+ 238000012795 
+ verification 
+ Methods 
+
+ 0.000 
+ claims 
+ description 
+ 30 
+
+ 230000007246 
+ mechanism 
+ Effects 
+
+ 0.000 
+ claims 
+ description 
+ 7 
+
+ 230000006870 
+ function 
+ Effects 
+
+ 0.000 
+ claims 
+ description 
+ 5 
+
+ 238000012790 
+ confirmation 
+ Methods 
+
+ 0.000 
+ claims 
+ description 
+ 3 
+
+ 238000009434 
+ installation 
+ Methods 
+
+ 0.000 
+ claims 
+ description 
+ 3 
+
+ 230000002452 
+ interceptive effect 
+ Effects 
+
+ 0.000 
+ claims 
+ description 
+ 2 
+
+ 230000002457 
+ bidirectional effect 
+ Effects 
+
+ 0.000 
+ claims 
+ 1 
+
+ 238000013519 
+ translation 
+ Methods 
+
+ 0.000 
+ claims 
+ 1 
+
+ 238000010586 
+ diagram 
+ Methods 
+
+ 0.000 
+ description 
+ 4 
+
+ 238000007620 
+ mathematical function 
+ Methods 
+
+ 0.000 
+ description 
+ 2 
+
+ 238000012419 
+ revalidation 
+ Methods 
+
+ 0.000 
+ description 
+ 2 
+
+ 230000000295 
+ complement effect 
+ Effects 
+
+ 0.000 
+ description 
+ 1 
+
+ 238000005516 
+ engineering process 
+ Methods 
+
+ 0.000 
+ description 
+ 1 
+
+ 239000007943 
+ implant 
+ Substances 
+
+ 0.000 
+ description 
+ 1 
+
+ 230000000737 
+ periodic effect 
+ Effects 
+
+ 0.000 
+ description 
+ 1 
+
+ 230000011218 
+ segmentation 
+ Effects 
+
+ 0.000 
+ description 
+ 1 
+
+ Classifications
+
+ H — ELECTRICITY 
+
+ H04 — ELECTRIC COMMUNICATION TECHNIQUE 
+
+ H04L — TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION 
+
+ H04L9/00 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols 
+
+ H04L9/32 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of a user of the system or for message authentication, e.g. authorization, entity authentication, data integrity or data verification, non-repudiation, key authentication or verification of credentials 
+
+ H04L9/3263 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of a user of the system or for message authentication, e.g. authorization, entity authentication, data integrity or data verification, non-repudiation, key authentication or verification of credentials involving certificates, e.g. public key certificate [PKC] or attribute certificate [AC]; Public key infrastructure [PKI] arrangements 
+
+ H — ELECTRICITY 
+
+ H04 — ELECTRIC COMMUNICATION TECHNIQUE 
+
+ H04L — TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION 
+
+ H04L63/00 — Network architectures or network communication protocols for network security 
+
+ H04L63/12 — Applying verification of the received information 
+
+ H04L63/126 — Applying verification of the received information the source of the received data 
+
+ H — ELECTRICITY 
+
+ H04 — ELECTRIC COMMUNICATION TECHNIQUE 
+
+ H04L — TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION 
+
+ H04L9/00 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols 
+
+ H04L9/32 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of a user of the system or for message authentication, e.g. authorization, entity authentication, data integrity or data verification, non-repudiation, key authentication or verification of credentials 
+
+ H04L9/3226 — Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols including means for verifying the identity or authority of a user of the system or for message authentication, e.g. authorization, entity authentication, data integrity or data verification, non-repudiation, key authentication or verification of credentials using a predetermined code, e.g. password, passphrase or PIN 
+
+ H04L9/3231 — Biological data, e.g. fingerprint, voice or retina 
+
+ H — ELECTRICITY 
+
+ H04 — ELECTRIC COMMUNICATION TECHNIQUE 
+
+ H04L — TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION 
+
+ H04L2209/00 — Additional information or applications relating to cryptographic mechanisms or cryptographic arrangements for secret or secure communication H04L9/00 
+
+ H04L2209/60 — Digital content management, e.g. content distribution 
+
+ H — ELECTRICITY 
+
+ H04 — ELECTRIC COMMUNICATION TECHNIQUE 
+
+ H04L — TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION 
+
+ H04L63/00 — Network architectures or network communication protocols for network security 
+
+ H04L63/08 — Network architectures or network communication protocols for network security for authentication of entities 
+
+ H04L63/0861 — Network architectures or network communication protocols for network security for authentication of entities using biometrical features, e.g. fingerprint, retina-scan 
+
+ Landscapes
+
+ Engineering & Computer Science 
+ ( AREA )
+
+ Computer Security & Cryptography 
+ ( AREA )
+
+ Computer Networks & Wireless Communication 
+ ( AREA )
+
+ Signal Processing 
+ ( AREA )
+
+ Health & Medical Sciences 
+ ( AREA )
+
+ Life Sciences & Earth Sciences 
+ ( AREA )
+
+ Biodiversity & Conservation Biology 
+ ( AREA )
+
+ Biomedical Technology 
+ ( AREA )
+
+ General Health & Medical Sciences 
+ ( AREA )
+
+ Computer Hardware Design 
+ ( AREA )
+
+ Computing Systems 
+ ( AREA )
+
+ General Engineering & Computer Science 
+ ( AREA )
+
+ Mobile Radio Communication Systems 
+ ( AREA )
+
+ Data Exchanges In Wide-Area Networks 
+ ( AREA )
+
+ Two-Way Televisions, Distribution Of Moving Picture Or The Like 
+ ( AREA )
+
+ Credit Cards Or The Like 
+ ( AREA )
+
+ Description
+
+ Translated from Italian 
+
+ " METODO PER LA REGISTRAZIONE NON RIPUDIABILE DI UNA TRASMISSIONE DIGITALE DI INFORMAZIONI E PER L’IDENTIFICAZIONE DEI PARTECIPANTI ALLA COMUNICAZIONE " "METHOD FOR THE NON-REPUDIABLE RECORDING OF A DIGITAL TRANSMISSION OF INFORMATION AND FOR THE IDENTIFICATION OF PARTICIPANTS IN THE COMMUNICATION" 
+
+ DESCRIZIONE SETTORE IN CUI SI ESPLICA IL TROVATO DESCRIPTION OF THE SECTOR IN WHICH THE FOUND IS EXPLAINED 
+
+ L’invenzione fa riferimento in generale al settore della protezione dell’integrità della comunicazione così come pure al settore delle certificazioni e della crittografia applicati nelle reti di telecomunicazioni al fine di evitare intrusioni illegali nel corso della trasmissione. Più in particolare essa tratta di un metodo per l’identificazione delle credenziali dei partecipanti alla comunicazione ai fini della registrazione non ripudiabile della trasmissione digitale di informazioni. The invention refers in general to the field of communication integrity protection as well as to the sector of certifications and cryptography applied in telecommunications networks in order to avoid illegal intrusions during transmission. More specifically, it deals with a method for identifying the credentials of the participants in the communication for the purpose of the non-repudiable registration of the digital transmission of information. 
+
+ STATO DELL'ARTE STATE OF THE ART 
+
+ Attualmente sono presenti sul mercato apparecchi e metodi per effettuare comunicazioni sicure tra due o più individui, ma nessuno di essi è stato sviluppato e pensato per offrire agli utilizzatori la massima sicurezza e semplicità di utilizzo. Inoltre tute queste tecniche basano l'identificazione della controparte su metodi insicuri per la natura stessa degli strumenti utilizzati: sebbene vengano utilizzate metodologie critografiche sicure mutuate, ad esempio, dai sistemi di posta eletronica, la natura stessa degli apparati rende facile la sotrazione fisica della proprietà con tute le chiavi annesse. Currently there are devices and methods on the market for carrying out secure communications between two or more individuals, but none of them have been developed and designed to offer users maximum safety and ease of use. Furthermore, all these techniques base the identification of the counterpart on methods that are insecure due to the very nature of the tools used: although secure cryptographic methods are used, borrowed, for example, from electronic mail systems, the very nature of the equipment makes it easy to physically subtract the property. with all keys attached. 
+
+ Oggeto della presente invenzione è un metodo e un dispositivo di comunicazione in tal modo programmato per raggiungere lo scopo prefissato di comunicazione e identificazione sicura. The object of the present invention is a communication method and device thus programmed to achieve the intended purpose of secure communication and identification. 
+
+ E’ ancora scopo della presente invenzione quello di fornire un metodo per l’identificazione delle credenziali dei partecipanti alla comunicazione ai fini anche della registrazione non ripudiabile della trasmissione digitale di informazioni, che impieghi mezzi e tecnologie note nell’ambito degli apparati e dei protocolli delle reti di telecomunicazioni al fine di operare con tecniche di colloquio affidabili e di immediata implementabilità. Another object of the present invention is to provide a method for identifying the credentials of the participants in the communication for the purposes also of the non-repudiable registration of the digital transmission of information, which uses means and technologies known in the field of apparatuses and protocols of the telecommunications networks in order to operate with reliable and immediately implementable communication techniques. 
+
+ Questi ed altri scopi che saranno chiari nel corso della descrizione sono otenuti mediante un metodo per la registrazione non ripudiabile di una trasmissione digitale di informazioni e per l’identificazione dei partecipanti alla comunicazione secondo il principio enunciato nelle rivendicazioni allegate. These and other purposes that will be clear in the course of the description are achieved by a method for the non-repudiable registration of a digital transmission of information and for the identification of the participants in the communication according to the principle set out in the attached claims. 
+
+ Grazie all'utilizzo di speciali protocolli e algoritmi critografici, questo dispositivo e metodo permete di instaurare un canale sicuro sul quale comunicare e scambiarsi informazioni riservate, senza che nessuno possa intercetare il contenuto di tali comunicazioni. Tali protocolli di comunicazione esistono allo stato dell'arte ma da soli non risolvono il problema dell'identificazione delle controparti. In aggiunta alla sicurezza crittografica della comunicazione, particolare attenzione è posta quindi sulla sicurezza dell'identificazione dei partecipanti alla comunicazione, fornendo meccanismi di identificazione biometrica di facile impiego e sistemi di memorizzazione non ripudiabile della conversazione in grado da fornire un adeguato complemento alla verifica dell'identità. Thanks to the use of special cryptographic protocols and algorithms, this device and method allows to establish a secure channel on which to communicate and exchange confidential information, without anyone being able to intercept the content of such communications. Such communication protocols exist at the state of the art but by themselves they do not solve the problem of identifying the counterparties. In addition to the cryptographic security of the communication, particular attention is therefore placed on the security of identification of the participants in the communication, providing easy-to-use biometric identification mechanisms and non-repudiable storage systems of the conversation capable of providing an adequate complement to the verification of the identity. 
+
+ Allo stato dell'arte è possibile dunque stabilire una comunicazione sicura e non intercettabile nel caso tutti i partecipanti alla comunicazione dispongano di tutte le chiavi pubbliche degli altri, se e solo se queste chiavi pubbliche sono ottenute in modo sicuro. Questo pone il problema di fornire ai partecipanti la propria chiave in modo sicuro su un canale non sicuro, poiché prima dello scambio della chiave non si può essere certi ne che le controparti siano effettivamente i possessori dei certificati, ne che i certificati siano effettivamente quelli inviati dalle controparti, proprio in quanto il canale non è sicuro. At the state of the art it is therefore possible to establish a secure and non-interceptable communication if all the participants in the communication have all the public keys of the others, if and only if these public keys are obtained in a secure way. This poses the problem of providing participants with their own key in a secure way on an insecure channel, since before the exchange of the key it is not possible to be sure that the counterparties are actually the holders of the certificates, nor that the certificates are actually those sent. from the counterparts, precisely because the channel is not safe. 
+
+ DESCRIZIONE DESCRIPTION 
+
+ Secondo il trovato all'instaurazione della comunicazione viene creato un canale sicuro tramite un apposito protocollo che garantisca un associazione tra le chiavi pubbliche e le identità dei partecipanti. According to the invention, when communication is established, a secure channel is created by means of a special protocol which guarantees an association between the public keys and the identities of the participants. 
+
+ Le chiavi pubbliche sono dunque distinte in due gruppi, sicure e non sicure. Tute le chiavi non note all'utente sono considerate insicure, e tute le chiavi che vengono corretamente identificate e accetate dall'utente sono considerate sicure. The public keys are therefore divided into two groups, secure and non-secure. All keys not known to the user are considered insecure, and all keys that are correctly identified and accepted by the user are considered safe. 
+
+ Se le chiavi pubbliche ricevute dalla controparte differiscono da quelle memorizzate in precedenti conversazioni con la controparte o non sono presenti nella memoria locale degli utenti sono considerate insicure e si procede alla mutua verifica delle identità. Per le chiavi sicure si procede alla verifica dell'identità solo nel caso in cui l'utente lo richieda espressamente (nel caso la chiave ritorna a essere considerata insicura). If the public keys received from the counterpart differ from those stored in previous conversations with the counterpart or are not present in the users' local memory, they are considered insecure and mutual identity verification is carried out. For secure keys, the identity is verified only if the user specifically requests it (if the key returns to be considered insecure). 
+
+ Per l'identificazione dell'utente e la verifica delle identità si attua il seguente protocollo. The following protocol is used for user identification and identity verification. 
+
+ Tramite una funzione matematica non invertibile (pura o procedurale) viene creato un identificativo della chiave critografica pubblica del mitente, questo identificativo viene reso interpretabile da una persona e visualizzato al mitente in modo da permetere la realizzazione di una versione biometrica del medesimo. La versione biometria dell'identificativo viene inviata al destinatario. Questa versione può essere firmata con la chiave privata del mitente per una maggiore sicurezza. Through a non-invertible mathematical function (pure or procedural) an identifier of the public cryptographic key of the issuer is created, this identifier is made interpretable by a person and displayed to the issuer in order to allow the creation of a biometric version of the same. The biometric version of the identifier is sent to the recipient. This version can be signed with the sender's private key for added security. 
+
+ Tale identificativo numerico nella sua versione biometrica viene interpretato dal destinatario e paragonato con l'identificativo calcolato sulla base del certificato pubblico ricevuto durante l'instaurazione del canale sicuro di comunicazione o della chiave con la quale è stato firmato. Se gli identificativi corrispondono, il mittente è identificato e si ripete lo scambio di identificativi a ruoli invertiti. This numerical identifier in its biometric version is interpreted by the recipient and compared with the identifier calculated on the basis of the public certificate received during the establishment of the secure communication channel or the key with which it was signed. If the identifiers match, the sender is identified and the exchange of identifiers with reversed roles is repeated. 
+
+ In caso di verifica positiva di entrambe le chiavi le medesime vengono memorizzate e associate univocamente alla controparte della comunicazione, ottenendo un riscontro non ripudiabile dei certificati scambiati. In the event of a positive verification of both keys, they are stored and univocally associated with the communication counterpart, obtaining a non-repudiable confirmation of the exchanged certificates. 
+
+ Se invece le chiavi pubbliche scambiate inizialmente corrispondono a quelle memorizzate, la comunicazione prosegue senza bisogno dei precedenti passaggi di autenticazione. If, on the other hand, the public keys initially exchanged correspond to those stored, the communication continues without the need for the previous authentication steps. 
+
+ Una volta che le chiavi pubbliche sono autenticate possono venire utilizzate per firmare e/o cifrare la comunicazione tra le parti, ottenendo così un canale sicuro e non ripudiabile. Once the public keys are authenticated they can be used to sign and / or encrypt the communication between the parties, thus obtaining a secure and non-repudiable channel. 
+
+ La registrazione avviene secondo il meccanismo descritto di seguito. Ciascun terminale può procedere indipendentemente dagli altri alla conservazione del flusso trasmesso e/o ricevuto, o in versione con flusso ricevuto e trasmesso conservati separatamente 0 nella loro versione miscelata. Registration takes place according to the mechanism described below. Each terminal can proceed independently from the others to the conservation of the transmitted and / or received flow, or in the version with received and transmitted flow stored separately or in their mixed version. 
+
+ 1 dispositivi che stanno registrando si accordano su un intrevallo temporale periodico di segmentazione del flusso registrato. Tali flussi vengono firmati digitalmente da ciuscun dispositivo e la firma scambiata tra i dispositivi coinvolti con detta frequenza. Al solo fine di meglio chiarire l invenzione e senza con ciò volerne limitare l ambito ed i settori in cui essa può trovare applicazione, di seguito si descriveranno alcune realizzazioni specifiche. The devices that are recording agree on a periodic time interval for segmentation of the recorded stream. These flows are digitally signed by each device and the signature exchanged between the devices involved with said frequency. For the sole purpose of clarifying the invention better and without thereby wanting to limit the scope and sectors in which it can be applied, some specific realizations will be described below. 
+
+ DESCRIZIONE DI UN ESEMPIO DI REALIZZAZIONE PREFERITA DESCRIPTION OF AN EXAMPLE OF PREFERRED EMBODIMENT 
+
+ Entrando nel dettaglio procedurale viene fornito agli utenti un applicativo in grado di svolgere operazioni crittografiche che utilizzino chiavi asimmetriche per firmare o crittografare dati digitali e di utilizzare chiavi simmetriche per cifrare dati o flussi digitali. Tale applicativo prevede le fasi procedurali che seguono. Durante la fase di installazione o a richiesta dell’utente esso genera un certificato digitale contenente i dati dell’utente e una coppia di chiavi asimmetriche. Going into procedural detail, users are provided with an application capable of performing cryptographic operations that use asymmetric keys to sign or encrypt digital data and to use symmetric keys to encrypt data or digital streams. This application provides for the following procedural steps. During the installation phase or at the request of the user, it generates a digital certificate containing the user data and a pair of asymmetric keys. 
+
+ Alternativamente il programma può essere distribuito con allegato un certificato già pronto all’utilizzo. Alternatively, the program can be distributed with a ready-to-use certificate attached. 
+
+ Dopo la generazione di ogni chiave pubblica o privata viene generato un identificativo univoco, detto “figerprint”, risultante da una funzione matematica non invertibile nota e presente in diverse varianti allo stato dell’arte, detta “funzione di hashing”. A partire da ogni identificativo univoco viene generato un identificativo biometrico. Questo viene realizzato traducendo l identificativo precedentemente ottenuto in una sequenza alfanumerica che ne rappresenti univocamente il valore, quindi visualizzando all'utente tale valore e infine memorizzando una rappresentazione biometrica dell'utente da associare a tale valore, sia essa una registrazione dell'utente che recita la sequenza alfanumèrica generata piuttosto che una foto dell'utente recante un cartello con iscritti i codici alfanumerici della sequenza stessa. After the generation of each public or private key, a unique identifier is generated, called "figerprint", resulting from a known non-invertible mathematical function present in various variants of the state of the art, called "hashing function". A biometric identifier is generated from each unique identifier. This is achieved by translating the previously obtained identifier into an alphanumeric sequence that uniquely represents its value, then displaying this value to the user and finally storing a biometric representation of the user to be associated with this value, be it a user registration that reads the alphanumeric sequence generated rather than a photo of the user bearing a sign with the alphanumeric codes of the sequence itself inscribed. 
+
+ Questo identificativo può essere ulteriormente firmato con la chiave privata dell'utente per offrire un ulteriore meccanismo di sicurezza. This identifier can be further signed with the user's private key to provide an additional security mechanism. 
+
+ All'instaurazione della comunicazione si genera una chiave simmetrica valida solo per quella sessione di comunicazione da utilizzare per cifrare tutta la seguente comunicazione, in modo da proteggere i contenuti. Questa chiave può essere generata in modi diversi, tramite algoritmi di generazione di chiave in grado di proteggere la chiave da ascoltatori estranei alla comunicazioni, esistenti allo stato dell'arte, oppure generato dal chiamante utilizzando la chiave pubblica del destinatario (se disponibile) per inviarlo cifrato al destinatario stesso, oppure generata a partire da un segreto condiviso. La negoziazione della metodologia di generazione di questa prima chiave da utilizzare è a discrezione delle implentazioni. Se non viene utilizzata la metodologia di generazione e invio tramite chiave pubblica la chiave viene utilizzata solo temporaneamente per proteggere lo scambio di credenziali, non essendo le chiavi generate con altre metodologie in grado di garantire la sicurezza dei contenuti, e sostituita non appena i certificati delle controparti vengono identificati e considerati sicuri con una nuova chiave. When communication is established, a symmetric key valid only for that communication session is generated to be used to encrypt all subsequent communication, in order to protect the contents. This key can be generated in different ways, using key generation algorithms capable of protecting the key from unrelated listeners, existing at the state of the art, or generated by the caller using the recipient's public key (if available) to send it encrypted to the recipient himself, or generated from a shared secret. The negotiation of the method of generating this first key to be used is at the discretion of the implants. If the method of generation and sending via public key is not used, the key is used only temporarily to protect the exchange of credentials, as the keys generated with other methods are not able to guarantee the security of the contents, and replaced as soon as the certificates of the counterparties are identified and considered safe with a new key. 
+
+ Sul canale vengono distribuite le chiavi pubbliche dei partecipanti da utilizzare, nel caso vengano verificate e considerate sicure, per generare la chiave di sessione definitiva da utilizzare durante la comunicazione. Queste chiavi possono opzionalmente includere come allegato l identificativo in formato biometrico della chiave stessa, per automatizzare il processo. Nella fase di instaurazione della connessione tutti i partecipanti hanno opzionalmente l'opportunità di rigenerare il proprio identificativo in formato biometrico (essendo l'identifìcativo alfanumerico stesso funzione della chiave utilizzata e quindi sempre identico per una data chiave) The public keys of the participants are distributed over the channel to be used, in case they are verified and considered safe, to generate the definitive session key to be used during communication. These keys can optionally include the biometric identifier of the key as an attachment, to automate the process. During the connection establishment phase, all participants optionally have the opportunity to regenerate their identifier in biometric format (the alphanumeric identifier being the same function as the key used and therefore always identical for a given key) 
+
+ La verifica della chiave pubblica consiste nei seguenti passi, che possono essere compiuti in contemporanea dai partecipanti della comunicazione, di cui verrà esplicato il processo dal punto di vista di un solo utente: The verification of the public key consists of the following steps, which can be carried out simultaneously by the communication participants, whose process will be explained from the point of view of a single user: 
+
+ 1) l'utente chiede a una controparte l’identifìcativo biometrico univoco della chiave pubblica, se non già distribuito allegato alla chiave pubblica. 1) the user asks a counterpart for the unique biometric identifier of the public key, if not already distributed attached to the public key. 
+
+ 2) Appena ricevuto, l’utente calcola l'identifìcativo della chiave pubblica della controparte a partire dalla chiave stessa, usando lo stesso algoritmo che la controparte ha utilizzato per la generazione dell'identifìcativo alfanumerico. 2) Upon receipt, the user calculates the identifier of the counterpart's public key starting from the key itself, using the same algorithm that the counterpart used for the generation of the alphanumeric identifier. 
+
+ 3) L'utente verifica che l'identifìcativo effettivamente corrisponda con l'identifìcativo biometrico. 3) The user verifies that the identifier actually corresponds with the biometric identifier. 
+
+ Se la verifica ha successo, allora il certificato viene memorizzato come valido; se la verifica fallisce il certificato viene scartato e la comunicazione interrotta; opzionalmente in caso di incertezza si può utilizzare un meccanismo di ulteriore verifica interattiva che consiste nel generare in maniera casuale un identificativo temporaneo, spedirlo alla controparte e aspettarne un corrispettivo biometrico. If the verification is successful, then the certificate is stored as valid; if the verification fails the certificate is discarded and the communication interrupted; optionally, in the event of uncertainty, a further interactive verification mechanism can be used which consists in randomly generating a temporary identifier, sending it to the counterparty and waiting for a biometric payment. 
+
+ Nel caso di una prima comunicazione tra le parti, successivamente alla verifica, le chiavi vengono memorizzate e associate univocamente alla controparte della comunicazione, ottenendo così un riscontro non ripudiabile delle chiavi scambiate, necessarie per le successive operazioni di verifica della comunicazione. In the case of a first communication between the parties, after the verification, the keys are stored and univocally associated with the communication counterpart, thus obtaining a non-repudiable confirmation of the exchanged keys, necessary for the subsequent communication verification operations. 
+
+ Nelle successive comunicazioni invece, se le chiavi pubbliche scambiate corrispondono a quelle memorizzate, la comunicazione prosegue senza bisogno dei vari passaggi di autenticazione e la generazione della chiave di sessione può essere effettuata direttamente dal chiamante utilizzando la metodologia dettagliata in precedenza, consistente nel cifrare la chiave di sessione con le chiavi pubbliche delle controparti e distribuirla alle medesime. Per maggiore sicurezza, prima dell'instaurazione della connessione il chiamante può richiedere di ripetere lo scambio di credenziali biometriche, indipendentemente dal fatto di aver precedentemente memorizzato la chiave della controparte. In subsequent communications, on the other hand, if the public keys exchanged correspond to those stored, the communication continues without the need for the various authentication steps and the generation of the session key can be carried out directly by the caller using the previously detailed methodology, consisting in encrypting the key. session with the public keys of the counterparties and distribute it to them. For greater security, before establishing the connection, the caller can request to repeat the biometric credential exchange, regardless of whether they have previously memorized the other party's key. 
+
+ Come ulteriore misura di sicurezza, lo scambio di identificativi biometrici può avvenire anche in maniera interattiva durante o all'inizio della comunicazione. In questo caso si può richiedere di identificare in maniera biometrica la chiave di sessione corrente, come garanzia che la chiave sia quella effettivamente in utilizzo dalle controparti. As an additional security measure, the exchange of biometric identifiers can also take place interactively during or at the beginning of the communication. In this case, you can request to biometric identification of the current session key, as a guarantee that the key is the one actually used by the counterparties. 
+
+ In questo modo si ottiene il risultato di associare in maniera univoca le chiavi utilizzate per rendere sicura la comunicazione ai destinatari stessi della comunicazione. In this way we obtain the result of uniquely associating the keys used to secure the communication to the recipients of the communication. 
+
+ Durante la comunicazione tra le parti tutti i dispositivi coinvolti registrano il contenuto del flusso telematico. Questo può essere fatto in diversi modi: ciascun apparato può o memorizzare il flusso delle controparti, o memorizzare tutti i flussi uniti mantenendoli separati. During the communication between the parties, all the devices involved record the content of the telematic flow. This can be done in different ways: each device can either memorize the flow of the counterparts, or memorize all the merged flows keeping them separate. 
+
+ Alla fine della comunicazione o a intervalli determinati ciascun dispositivo firma la parte di comunicazione generata e invia l’hash ottenuto alle controparti, utilizzando eventualmente un apposito algoritmo di scambio per le firme digitali che garantisca che i dispositivi ottengano le firme contemporaneamente. At the end of the communication or at certain intervals, each device signs the part of the communication generated and sends the hash obtained to the counterparties, possibly using a special exchange algorithm for digital signatures that ensures that the devices obtain the signatures at the same time. 
+
+ Tale processo utilizza le chiavi private dei partecipanti per generare le firme utilizzando protocolli esistenti allo stato dell’ arte. La memorizzazione delle firme da parte di tutti i partecipanti alla comunicazione garantisce che chiunque possa dimostrare la presenza della controparte alla discussione utilizzando la firma, la chiave pubblica fornita e l identificativo biometrico associato. This process uses the private keys of the participants to generate signatures using existing state-of-the-art protocols. The storage of signatures by all communication participants ensures that anyone can demonstrate the presence of the other party to the discussion using the signature, the public key provided and the associated biometric identifier. 
+
+ In tale modo si è ottenuto il risultato di ottenere una comunicazione non ripudiabile. In this way the result of obtaining a communication that cannot be rejected was obtained. 
+
+ Di seguito si descriveranno alcune realizzazioni specifiche con riferimento alle Figure allegate al solo scopo esemplificativo e senza con ciò volerne limitare l’ambito ed i settori in cui essa può trovare applicazione, tali figure fanno rispettivamente riferimento a: Some specific realizations will be described below with reference to the attached Figures for illustrative purposes only and without thereby wanting to limit the scope and sectors in which it can be applied, these figures refer respectively to: 
+
+ Fig. 1 è un diagramma temporale delle fasi esecutive di una telefonata verso destinatario di cui non si conosce il certificato Fig. 2 è un diagramma temporale delle fasi esecutive di una telefonata verso destinatario di cui non si conosce il certificato con rifiuto dell’ identificativo biometrico. Fig. 1 is a time diagram of the executive phases of a telephone call to a recipient whose certificate is not known Fig. 2 is a time diagram of the executive phases of a phone call to a recipient whose certificate is not known with refusal of the biometric identification . 
+
+ Fig. 3 è un diagramma temporale delle fasi esecutive di una telefonata verso destinatario di cui si conosce il certificato. Fig. 3 is a time diagram of the executive phases of a telephone call to the recipient whose certificate is known. 
+
+ Fig. 4 è un diagramma temporale delle fasi esecutive di una telefonata verso destinatario di cui si conosce il certificato con richiesta di rivalidazione dell’impronta biometria. Fig. 4 is a time diagram of the executive phases of a phone call to the recipient whose certificate is known with a request for revalidation of the biometric fingerprint. 
+
+ In questi esempi la sequenza di operazioni viene descritta solo per la verifica d'identità da parte del chiamante e si presuppone la presenza di due soli partecipanti alla comunicazione. Il ricevente effettua prima della creazione del canale di comunicazione vero e proprio e contemporaneamente al chiamante una verifica analoga a quella del chiamante, che avviene subordinata all’accettazione dell'identificativo da parte del chiamante, in maniera indipendente rispetto alla procedura utilizzata fra quelle proposte dal chiamante: il ricevente effettuerà una procedura di verifica adeguata alle condizioni del proprio telefono e allo stato dei propri certificati memorizzati. In these examples the sequence of operations is described only for the identity verification by the caller and it is assumed that there are only two participants in the communication. Before the creation of the actual communication channel and at the same time as the caller, the receiver carries out a check similar to that of the caller, which takes place subject to the acceptance of the identifier by the caller, independently of the procedure used among those proposed by the caller: the recipient will carry out a verification procedure appropriate to the conditions of their telephone and the status of their stored certificates. 
+
+ Figura 1 : Telefonata verso destinatario di cui non si conosce il certificato: Figure 1: Phone call to recipient whose certificate is unknown: 
+
+ 1. Il chiamante "a" attiva il programma e sceglie il destinatario "e", da rubrica o componendo il numero. 1. The caller "to" activates the program and chooses the recipient "e", from the directory or by dialing the number. 
+
+ 2. Il telefono "b" contatta il telefono "d" e stabiliscono una chiave di sessione. In questo caso data l'assenza di certificati viene utilizzato un protocollo per la generazione di chiavi di sessione, esistente allo stato dell'arte. In alternativa la chiave di sessione può essere ottenuta a partire da un segreto condiviso dalle due parti della telefonata, o tramite protocolli alternativi equivalenti. 3. II telefono "b" contatta il telefono "d" del destinatario e ottiene il certificato. 2. Phone "b" contacts phone "d" and they establish a session key. In this case, given the absence of certificates, a protocol for the generation of session keys, existing at the state of the art, is used. Alternatively, the session key can be obtained starting from a secret shared by the two parties of the phone call, or through equivalent alternative protocols. 3. Phone "b" contacts the recipient's phone "d" and obtains the certificate. 
+
+ 4. Il telefono "b" controlla tramite servizio "c” (che può essere la memoria del telefono piuttosto che un servizio di verifica certificati esterno) se il certificato è presente nella rubrica con il dato identificativo. 4. The telephone "b" checks through the "c" service (which may be the telephone memory rather than an external certificate verification service) if the certificate is present in the phonebook with the given identification. 
+
+ 5. In questo caso il servizio "c" comunica al telefono "b" che il certificato non è conosciuto. 5. In this case, the "c" service informs telephone "b" that the certificate is not known. 
+
+ 6. Il telefono "b" contatta il telefono "d" e richiede al telefono di fornire un identificativo biometrico. 6. Phone "b" contacts phone "d" and asks the phone to provide a biometric identifier. 
+
+ 7. Il telefono "d" richiede all'utente "e" una versione biometrica dell'identificativo numerico del certificato. 7. Phone "d" asks user "e" for a biometric version of the certificate's numeric identifier. 
+
+ 8. L'utente "e" fornisce al telefono l'identificativo biometrico. 8. User "e" provides the phone with the biometric identifier. 
+
+ 9. II telefono "e" fornisce al telefono “b” Γ identificativo biometrico del certificato. 9. The phone "e" gives the phone "b" Γ biometric identification of the certificate. 
+
+ 10. II telefono "b" mostra all'utente "a” l'identificativo biometrico del certificato. 10. Phone "b" shows user "a" the biometric identifier of the certificate. 
+
+ 11. L'utente "a" in questo caso decide di accettare l'identificativo biometrico ricevuto. 11. User "a" in this case decides to accept the biometric identifier received. 
+
+ 12. Il telefono "b" spedisce il certificato al servizio di deposito "c". 12. Telephone "b" sends the certificate to the deposit service "c". 
+
+ 13. II deposito "c " conferma la ricezione del certificato. 13. Filing "c" confirms receipt of the certificate. 
+
+ 14. Il telefono "b" comunica al telefono "d" che l'autenticazione è stata accettata. 14. Phone "b" tells phone "d" that authentication has been accepted. 
+
+ X. La procedura di riconoscimento viene effettuata a parti invertite. X. The recognition procedure is performed with reversed parts. 
+
+ 15. I telefoni avvisano i rispettivi utenti che la comunicazione è sicura e può incominciare. Poiché in questo caso la chiave di sessione iniziale è stata generata in maniera insicura, il chiamante rigenera una nuova chiave di sessione e la invia crittografata con la chiave pubblica del chiamato alla controparte. 15. Phones notify their users that communication is secure and can begin. Since in this case the initial session key was generated in an insecure way, the caller regenerates a new session key and sends it encrypted with the callee's public key to the other party. 
+
+ Figura 2: verso destinatario di cui non si conosce il certificato, con rifiuto dell'impronta biometrica: Figure 2: to recipient whose certificate is not known, with refusal of the biometric fingerprint: 
+
+ 1. Il chiamante “a” attiva il programma e sceglie il destinatario “e”da rubrica o componendo il numero. 1. The caller “to” activates the program and chooses the recipient “e” from the directory or by dialing the number. 
+
+ 2. Il telefono “b” contatta il telefono "d" e stabiliscono una chiave di sessione. In questo caso data l'assenza di certificati viene utilizzato un protocollo per la generazione di chiavi di sessione, esistente allo stato dell'arte. In alternativa la chiave di sessione può essere ottenuta a partire da un segreto condiviso dalle due parti della telefonata, o tramite protocolli alternativi equivalenti. 3. Il telefono ”b” contatta il telefono “d” del destinatario e ottiene il certificato. 2. Phone "b" contacts phone "d" and they establish a session key. In this case, given the absence of certificates, a protocol for the generation of session keys, existing at the state of the art, is used. Alternatively, the session key can be obtained starting from a secret shared by the two parties of the phone call, or through equivalent alternative protocols. 3. Phone "b" contacts the recipient's phone "d" and obtains the certificate. 
+
+ 4. Il telefono “b” controlla tramite servizio “c” (che può essere la memoria del telefono piuttosto che un servizio di verifica certificati esterno) se il certificato è presente nella rubrica con il dato identificativo. 4. The telephone “b” checks through the service “c” (which may be the telephone memory rather than an external certificate verification service) if the certificate is present in the directory with the given identification. 
+
+ 5. In questo caso il servizio “c” comunica al telefono “b” che il certificato non è conosciuto. 5. In this case the “c” service informs the “b” telephone that the certificate is not known. 
+
+ 6. Il telefono “b” contatta il telefono "d" e richiede al telefono un identificativo biometrico. 6. Phone "b" contacts phone "d" and asks the phone for a biometric identification. 
+
+ 7. Il telefono “d” richiede all’utente “e” una versione biometria dell’ identificativo numerico del certificato. 7. The phone "d" asks the user "e" for a biometric version of the numerical identification of the certificate. 
+
+ 8. L’utente “e” fornisce al telefono l identificativo biometrico. 9. Il telefono “d” fornisce al telefono “b” l identificativo biometrico del certificato. 8. The user "e" provides the phone with the biometric identification. 9. Telephone “d” provides telephone “b” with the biometric identification of the certificate. 
+
+ 10.11 telefono “b” mostra all’utente “a” l identificativo biometrico del certificato. 10.11 phone "b" shows user "a" the biometric identification of the certificate. 
+
+ 11. L'utente "a" in questo caso decide di rifiutare l identificativo biometrico ricevuto. 11. User "a" in this case decides to reject the biometric identifier received. 
+
+ 12. II telefono “b” chiude la connessione immediatamente. 12. Phone “b” closes the connection immediately. 
+
+ Fig 3: Telefonata verso destinatario di cui si conosce il certificato: 1. Il chiamante "a" attiva il programma e sceglie il destinatario “e”, da rubrica o componendo il numero. Fig 3: Phone call to recipient whose certificate is known: 1. The caller "a" activates the program and chooses the recipient "e", from the address book or by dialing the number. 
+
+ 2. Poiché il numero era già stato verificato, il telefono "d" reperisce tramite servizio “c” (che può essere la memoria del telefono piuttosto che un servizio di verifica certificati esterno) il certificato corrispondente al destinatario. 2. Since the number had already been verified, the phone "d" retrieves the certificate corresponding to the recipient via the "c" service (which may be the phone's memory rather than an external certificate verification service). 
+
+ 3. Il servizio comunica al telefono il certificato. 3. The service communicates the certificate over the phone. 
+
+ 4. Il telefono “b” chiede all’utente “a” se accettare il certificato 5. L’utente “a” riconosce il certificato. 4. Phone "b" asks user "a" whether to accept the certificate 5. User "a" recognizes the certificate. 
+
+ 6. Il telefono “b” comunica al telefono “d” l’accettazione del certificato e invia una chiave di sessione randomica crittografata con la chiave pubblica della controparte. (Se la controparte avesse cambiato il certificato, non potendo accettare la chiave di sessione chiederebbe al chiamante una chiave di sessione generata con un altro dei meccanismi disponibili e fornirebbe al chiamante il nuovo certificato, ripetendo la procedura di identificazione biometrica). 6. Phone "b" communicates acceptance of the certificate to phone "d" and sends a random session key encrypted with the counterpart's public key. (If the counterparty had changed the certificate, not being able to accept the session key, it would ask the caller for a session key generated with another of the available mechanisms and would provide the caller with the new certificate, repeating the biometric identification procedure). 
+
+ X. La procedura di riconoscimento viene effettuata a parti invertite. X. The recognition procedure is performed with reversed parts. 
+
+ 7. I telefoni avvisano i rispettivi utenti che la comunicazione è sicura e può incominciare. 7. The phones notify their users that communication is secure and can begin. 
+
+ Fig 4; Telefonata verso destinatario di cui si conosce il certificato, con richiesta di rivalidazione dell'impronta biometrica: Fig 4; Phone call to recipient whose certificate is known, with request for revalidation of the biometric fingerprint: 
+
+ 1. Il chiamante "a" attiva il programma e sceglie il destinatario "e", da rubrica o componendo il numero. 1. The caller "to" activates the program and chooses the recipient "e", from the directory or by dialing the number. 
+
+ 2. Poiché il numero era già stato verificato, il telefono "b" reperisce tramite servizio "c" (che può essere la memoria del telefono piuttosto che un servizio di verifica certificati esterno) il certificato corrispondente al destinatario. 2. Since the number had already been verified, phone "b" retrieves the certificate corresponding to the recipient via service "c" (which may be the phone's memory rather than an external certificate verification service). 
+
+ 3 . Il servizio comunica al telefono il certificato. 3. The service communicates the certificate over the phone. 
+
+ 4. Il telefono "b" chiede all'utente "a" se accettare il certificato. 5. L'utente "a" non riconosce il certificato. 4. Phone "b" asks user "a" whether to accept the certificate. 5. User "a" does not recognize the certificate. 
+
+ 6. Il telefono "b" contatta il telefono "d" e stabiliscono una chiave di sessione. In questo caso poiché non viene riconosciuto il certificato viene utilizzato un protocollo per la generazione di chiavi di sessione, esistente allo stato dell'arte. In alternativa la chiave di sessione può essere ottenuta a partire da un segreto condiviso dalle due parti della telefonata, o tramite protocolli alternativi equivalenti. 6. Phone "b" contacts phone "d" and they establish a session key. In this case, since the certificate is not recognized, a protocol is used for the generation of session keys, existing at the state of the art. Alternatively, the session key can be obtained starting from a secret shared by the two parties of the phone call, or through equivalent alternative protocols. 
+
+ 7. Il telefono "b" contatta il telefono "d" e richiede un nuovo identificativo biometrico. 7. Phone "b" contacts phone "d" and requests a new biometric identifier. 
+
+ 8. Il telefono "d" richiede all'utente "e" una versione biometrica dell'identificativo numerico del certificato. 8. Phone "d" prompts user "e" for a biometric version of the certificate's numeric identifier. 
+
+ 9. L'utente "e" fornisce al telefono l identificativo biometrico. 10. Il telefono "e" fornisce al telefono "b" l identificativo biometrico del certificato. 9. The user "e" provides the phone with the biometric identifier. 10. The phone "e" provides the phone "b" with the biometric identification of the certificate. 
+
+ 11. Il telefono "b" mostra all'utente "a" l'identificativo biometrico del certificato. 11. Phone "b" shows user "a" the biometric identifier of the certificate. 
+
+ 12. L'utente "a" in questo caso decide di accettare l identificativo biometrico ricevuto. 12. User "a" in this case decides to accept the biometric identifier received. 
+
+ 13. Il telefono "b" spedisce il certificato al servizio di deposito "c". 13. Telephone "b" sends the certificate to the deposit service "c". 
+
+ 14. Il servizio "c" conferma la ricezione del certificato. 14. The "c" service confirms receipt of the certificate. 
+
+ 15. Il telefono "b" comunica al telefono "d" che l'autenticazione è stata accettata. 15. Phone "b" tells phone "d" that authentication has been accepted. 
+
+ X La procedura di riconoscimento viene effettuata a parti invertite. X The recognition procedure is performed with reversed parts. 
+
+ 16. I telefoni avvisano i rispettivi utenti che la comunicazione è sicura e può incominciare. Poiché in questo caso la chiave di sessione iniziale è stata generata in maniera insicura, il chiamante rigenera una nuova chiave di sessione e la invia crittografata con la chiave pubblica del chiamato alla controparte. 16. Phones notify their users that communication is secure and can begin. Since in this case the initial session key was generated in an insecure way, the caller regenerates a new session key and sends it encrypted with the callee's public key to the other party. 
+
+ Claims ( 27 )
+
+ Translated from Italian 
+
+ RIVENDICAZIONI
+1. Metodo per l’identificazione dei partecipanti alla comunicazione caratterizzato dal fatto di impiegare protocolli crittografici per il riscontro della integrità e della correttezza dello scambio di informazioni su canale digitale, basati su verifica biometrica bidirezionale e l’acquisizione delle credenziali da parte di ciascun partecipante alla comunicazione, garantendo che la presenza della controparte possa essere autenticata per mezzo della firma, della chiave pubblica fornita e dell’ identificativo biometrico associato.
+ CLAIMS
+1. Method for the identification of communication participants characterized by the fact of using cryptographic protocols for verifying the integrity and correctness of the exchange of information on a digital channel, based on biometric biometric verification and the acquisition of credentials by each participant to communication, ensuring that the presence of the counterparty can be authenticated by means of the signature, the public key provided and the associated biometric identifier.
+
+ 2. Metodo per la registrazione non ripudiabile di una trasmissione digitale di informazioni in base alla rivendicazione 1, caratterizzato dal fatto di impiegare protocolli crittografici per il riscontro della integrità e della correttezza dello scambio di informazioni su canale digitale, basati su verifica bidirezionale e sullo scambio e la verifica preliminare di chiavi crittografiche asimmetriche tramite le quali far proseguire la conversazioni con protocolli di cifratura standard, l’acquisizione delle credenziali da parte di ciascun partecipante alla comunicazione, garantendo che la presenza della controparte possa essere autenticata per mezzo della firma, della chiave pubblica fornita e dell’ identificativo associato.
+ 2. Method for the non-repudiable registration of a digital transmission of information according to claim 1, characterized by the fact of using cryptographic protocols for the verification of the integrity and correctness of the exchange of information on a digital channel, based on bidirectional verification and on the exchange and the preliminary verification of asymmetric cryptographic keys through which to continue the conversations with standard encryption protocols, the acquisition of credentials by each participant in the communication, ensuring that the presence of the counterpart can be authenticated by means of the signature, the key public provided and the associated identifier.
+
+ 3. Metodo per la registrazione non ripudiabile di una trasmissione digitale di informazioni e per l’identificazione dei partecipanti alla comunicazione secondo ciascuna delle rivendicazioni precedenti caratterizzato dal fatto che
+I - durante la fase di inizializzazione vengano generati o allegati un certificato digitale contenente i dati dell’utente e una coppia di chiavi asimmetriche,
+II - dopo la generazione di ogni chiave pubblica o privata sia fornito un identificativo univoco, risultante da una funzione matematica nota, di hashing, non invertibile, ricavando da ogni identificativo univoco un identificativo biometrico mediante: a - traduzione dell’ identificativo precedentemente ottenuto, in una sequenza alfanumerica che ne rappresenti univocamente il valore, b - visualizzazione all'utente di tale valore, e infine
+c - memorizzazione di una rappresentazione biometrica dell'utente da associare a detto valore;
+III- all'instaurazione della comunicazione sia generata una chiave simmetrica valida solo per una sessione di comunicazione da utilizzare per cifrare tutta la comunicazione seguente, in modo da proteggerne i contenuti;
+IV- sul canale vengano distribuite le chiavi pubbliche dei partecipanti da impiegare, se verificate, per generare la chiave di sessione definitiva da utilizzare durante la comunicazione, potendo queste chiavi includere opzionalmente come allegato l identificativo in formato biometrico della chiave stessa,
+V- sia eseguita la verifica della chiave pubblica attraverso le seguenti fasi:
+a) l'utente chiede a una controparte l identificativo univoco della chiave pubblica, se non già distribuito allegato alla chiave pubblica,
+b) il chiamante calcola l'identificativo della chiave pubblica del ricevente a partire dalla chiave stessa, usando lo stesso algoritmo che la controparte ha utilizzato per la generazione dell'identificativo alfanumerico,
+c) l'utente verifica che l'identificativo effettivamente corrisponda con l'identificativo biometrico,
+c-1) se la verifica ha successo, allora il certificato viene memorizzato come valido;
+c-2) se la verifica fallisce il certificato viene scartato e la comunicazione interrotta;
+c-3) opzionalmente in caso di incertezza viene utilizzato un meccanismo di ulteriore verifica interattiva che consiste nel generare in maniera casuale un identificativo temporaneo, spedirlo alla controparte e aspettarne un corrispettivo biometrico, Vl-a nel caso di una prima comunicazione tra le parti, successivamente alla verifica, le chiavi vengano memorizzate e associate univocamente alla controparte della comunicazione, ottenendo così un riscontro non ripudiabile delle chiavi, scambiate, necessarie per le successive operazioni di verifica della comunicazione,
+VI-b nelle successive comunicazioni in condizioni di corrispondenza tra le chiavi pubbliche scambiate e quelle memorizzate, la comunicazione prosegua senza bisogno dei vari passaggi di autenticazione e la generazione della chiave di sessione sia effettuata direttamente dal chiamante, cifrando la chiave di sessione con le chiavi pubbliche delle controparti e distribuendola alle medesime,
+VII- durante la comunicazione tra le parti tutti i dispositivi coinvolti registrino il contenuto del flusso telematico,
+Vili- alla fine della comunicazione o a intervalli determinati ciascun dispositivo firmi la parte di comunicazione generata e la invii alle controparti, utilizzando eventualmente un algoritmo di scambio, per le firme digitali, che garantisca che i dispositivi ottengano le firme contemporaneamente.
+ 3. Method for the non-repudiable registration of a digital transmission of information and for the identification of participants in the communication according to each of the preceding claims characterized by the fact that
+I - during the initialization phase, a digital certificate containing user data and a pair of asymmetric keys are generated or attached,
+II - after the generation of each public or private key, a unique identifier is provided, resulting from a known mathematical hashing function, non-invertible, obtaining a biometric identifier from each unique identifier by: a - translation of the identifier previously obtained, in an alphanumeric sequence that uniquely represents its value, b - display to the user of this value, and finally
+c - storing a biometric representation of the user to be associated with said value;
+III - when the communication is established, a symmetric key valid only for one communication session is generated to be used to encrypt all subsequent communication, in order to protect its contents;
+IV - the public keys of the participants are distributed on the channel to be used, if verified, to generate the definitive session key to be used during communication, these keys being able to optionally include as an attachment the identifier in biometric format of the key itself,
+V- Verification of the public key is performed through the following steps:
+a) the user asks a counterparty for the unique identifier of the public key, if not already distributed attached to the public key,
+b) the caller calculates the identifier of the recipient's public key starting from the key itself, using the same algorithm that the counterpart used for the generation of the alphanumeric identifier,
+c) the user verifies that the identifier actually matches the biometric identifier,
+c-1) if the verification is successful, then the certificate is stored as valid;
+c-2) if the verification fails, the certificate is discarded and the communication interrupted;
+c-3) optionally in case of uncertainty a further interactive verification mechanism is used which consists in randomly generating a temporary identifier, sending it to the counterparty and waiting for a biometric fee, Vl-a in the case of a first communication between the parties, after verification, the keys are stored and uniquely associated with the communication counterpart, thus obtaining a non-repudiable confirmation of the keys, exchanged, necessary for the subsequent communication verification operations,
+VI-b in subsequent communications in conditions of correspondence between the public keys exchanged and those stored, the communication continues without the need for the various authentication steps and the generation of the session key is carried out directly by the caller, encrypting the session key with the keys public counterparties and distributing it to them,
+VII- during the communication between the parties, all the devices involved record the content of the telematic flow,
+VIII - at the end of the communication or at specific intervals each device signs the part of the communication generated and sends it to the counterparties, possibly using an exchange algorithm, for digital signatures, which guarantees that the devices obtain the signatures at the same time.
+
+ 4. Metodo per la registrazione non ripudiabile di una trasmissione digitale di informazioni e per l identificazione dei partecipanti alla comunicazione secondo ciascuna delle rivendicazioni precedenti caratterizzato dal fatto che dopo la generazione di ciascuna chiave pubblica o privata fornendo P identificativo univoco, ed il corrispondente identificativo biometrico, quest’ultimo venga ancora ulteriormente firmato con la chiave privata dell'utente per offrire un ulteriore meccanismo di sicurezza.
+ 4. Method for the non-repudiable registration of a digital transmission of information and for the identification of the participants in the communication according to each of the preceding claims characterized by the fact that after the generation of each public or private key by providing the unique identifier, and the corresponding biometric identifier , the latter is still further signed with the user's private key to provide an additional security mechanism.
+
+ 5. Metodo per la registrazione non ripudiabile di una trasmissione digitale di informazioni e per l’identificazione dei partecipanti alla comunicazione secondo ciascuna delle rivendicazioni precedenti caratterizzato dal fatto che nella fase di instaurazione della comunicazione la chiave simmetrica da utilizzare per cifrare la comunicazione seguente, sia generata tramite i soliti algoritmi di generazione di chiave in grado di proteggere la chiave da ascoltatori estranei alla comunicazioni.
+ 5. Method for the non-repudiable registration of a digital transmission of information and for the identification of the participants in the communication according to each of the preceding claims characterized by the fact that in the phase of establishing the communication, the symmetric key to be used to encrypt the following communication, is generated through the usual key generation algorithms able to protect the key from listeners unrelated to communications.
+
+ 6. Metodo per la registrazione non ripudiabile di una trasmissione digitale di informazioni e per l identificazione dei partecipanti alla comunicazione secondo ciascuna delle rivendicazioni precedenti caratterizzato dal fatto che nella fase di instaurazione della comunicazione la chiave simmetrica da utilizzare per cifrare la comunicazione che segue, sia generata dal chiamante utilizzando la chiave pubblica del destinatario con l’invio cifrato al destinatario stesso.
+ 6. Method for the non-repudiable registration of a digital transmission of information and for the identification of the participants in the communication according to each of the preceding claims characterized by the fact that in the phase of establishing the communication, the symmetric key to be used to encrypt the communication that follows, is generated by the caller using the recipient's public key with encrypted sending to the recipient.
+
+ 7. Metodo per la registrazione non ripudiabile di una trasmissione digitale di informazioni e per l identificazione dei partecipanti alla comunicazione secondo ciascuna delle rivendicazioni precedenti caratterizzato dal fatto che in seguito alla distribuzione delle chiavi pubbliche dei partecipanti da utilizzare, se verificate, per generare la chiave di sessione definitiva, tutti i partecipanti abbiano, opzionalmente, l'opportunità di rigenerare il proprio identificativo in formato biometrico, essendo l'identificativo alfanumerico funzione della chiave utilizzata e quindi sempre identico per una data chiave.
+ 7. Method for the non-repudiable registration of a digital transmission of information and for the identification of the participants in the communication according to each of the preceding claims characterized by the fact that following the distribution of the public keys of the participants to be used, if verified, to generate the key of the definitive session, all participants have, optionally, the opportunity to regenerate their identifier in biometric format, since the alphanumeric identifier is a function of the key used and therefore always identical for a given key.
+
+ 8. Metodo per la registrazione non ripudiabile di una trasmissione digitale di informazioni e per l identificazione dei partecipanti alla comunicazione secondo ciascuna delle rivendicazioni precedenti caratterizzato dal fatto che nelle comunicazioni successive alla prima, seppur in condizioni di corrispondenza tra le chiavi pubbliche scambiate e quelle memorizzate, prima dell'instaurazione della connessione il chiamante possa richiedere di ripetere lo scambio di credenziali biometriche, indipendentemente dal fatto di aver precedentemente memorizzato la chiave della controparte.
+ 8. Method for the non-repudiable registration of a digital transmission of information and for the identification of the participants in the communication according to each of the preceding claims characterized by the fact that in communications subsequent to the first, albeit in conditions of correspondence between the public keys exchanged and those stored , before establishing the connection, the caller can request to repeat the exchange of biometric credentials, regardless of whether they have previously memorized the counterpart's key.
+
+ 9. Metodo per la registrazione non ripudiabile di una trasmissione digitale di informazioni e per l’identificazione dei partecipanti alla comunicazione secondo ciascuna delle rivendicazioni precedenti caratterizzato dal fatto che come ulteriore misura di sicurezza, lo scambio di identificativi biometrici avvenga anche in maniera interattiva durante o all'inizio delle comunicazioni successive, richiedendo di identificare in maniera biometrica la chiave di sessione corrente, come garanzia che la chiave sia quella effettivamente in utilizzo dalle controparti.
+ 9. Method for the non-repudiable registration of a digital transmission of information and for the identification of the participants in the communication according to each of the preceding claims characterized by the fact that as a further security measure, the exchange of biometric identifiers also takes place interactively during or at the beginning of subsequent communications, requesting the biometric identification of the current session key, as a guarantee that the key is the one actually used by the counterparties.
+
+ 10. Metodo sicuro, secondo ciascuna delle rivendicazioni precedenti, di generazione di identificativi di chiavi crittografiche interpretabile da persone e/o umanamente intelligibili.
+ 10. Secure method, according to each of the preceding claims, for generating identifiers of cryptographic keys that can be interpreted by people and / or humanly intelligible.
+
+ 11. Metodo sicuro, secondo ciascuna delle rivendicazioni precedenti, di generazione di identificativi biometrici a partire da identificativi numerici.
+ 11. Secure method, according to each of the preceding claims, of generating biometric identifiers starting from numerical identifiers.
+
+ 12. Metodo secondo ciascuna delle rivendicazioni precedenti, che consenta la verifica del possessore di una chiave crittografica Method according to each of the preceding claims, which allows the verification of the owner of a cryptographic key 
+
+ 13. Metodo secondo ciascuna delle rivendicazioni precedenti, che consenta la verifica del possessore di una chiave crittografica mediante un identificativo biometrico.
+ 13. Method according to each of the preceding claims, which allows the verification of the owner of a cryptographic key by means of a biometric identifier.
+
+ 14. Metodo secondo ciascuna delle rivendicazioni precedenti, che consenta la verifica di una chiave di sessione o chiave simmetrica che utilizzi identificativi biometrici.
+ Method according to each of the preceding claims, which allows the verification of a session key or symmetric key that uses biometric identifiers.
+
+ 15. Dispositivo per l implementazione a livello di programma software dei metodi secondo le rivendicazioni 10 e 11.
+ 15. Device for the implementation at software program level of the methods according to claims 10 and 11.
+
+ 16. Dispositivo per l implementazione a livello di programma software dei metodi secondo le rivendicazioni 10 e 11 per l'identificazione sicura delle identità degli attori di una comunicazione.
+ 16. Device for the implementation at software program level of the methods according to claims 10 and 11 for the secure identification of the identities of the actors of a communication.
+
+ 17. Dispositivo per P implementazione a livello di programma software dell’utilizzo delle chiavi pubbliche sicure secondo la rivendicazioni 13 per la creazione di un canale di comunicazione sicuro tra gli attori di una comunicazione.
+ 17. Device for implementation at software program level of the use of secure public keys according to claim 13 for the creation of a secure communication channel between the actors of a communication.
+
+ 18. Dispositivo per P implementazione a livello di programma software dei metodi secondo le rivendicazioni 10 e 11, utilizzando i metodi secondo le rivendicazioni 13 e 14 per creare una comunicazione sicura tale da impedire a terze parti di intercettarne il contenuto.
+ 18. Device for the implementation at software program level of the methods according to claims 10 and 11, using the methods according to claims 13 and 14 to create a secure communication such as to prevent third parties from intercepting its content.
+
+ 19. Dispositivo per P implementazione a livello di programma software dei metodi secondo le rivendicazioni 10 e 11, utilizzando i metodi delle rivendicazioni 13 e 14 per creare una comunicazione sicura tale da garantire l'identità del chiamante 19. Device for implementation at software program level of the methods according to claims 10 and 11, using the methods of claims 13 and 14 to create a secure communication such as to guarantee the identity of the caller 
+
+ 20. Dispositivo per P implementazione a livello di programma software dei metodi secondo le rivendicazioni 10, 11, 12, 13, 14, 15 e 16 che necessita solo di una semplice installazione del programma.
+ 20. Device for implementation at software program level of the methods according to claims 10, 11, 12, 13, 14, 15 and 16 which requires only a simple installation of the program.
+
+ 21. Dispositivo per P implementazione a livello di programma software dei metodi secondo la rivendicazioni 16 che permette di effettuare comunicazioni sicure con una semplice installazione del relativo programma.
+ 21. Device for the implementation at software program level of the methods according to claim 16 which allows to carry out secure communications with a simple installation of the relative program.
+
+ 22. Metodo crittografico secondo ciascuna delle rivendicazioni precedenti, per firmare le registrazioni.
+ 22. Cryptographic method according to each of the preceding claims, for signing the records.
+
+ 23. Metodo secondo ciascuna delle rivendicazioni precedenti, per garantire la privacy in una comunicazione.
+ 23. Method according to each of the preceding claims, for ensuring privacy in a communication.
+
+ 24. Metodo secondo ciascuna delle rivendicazioni precedenti, per garantire la certezza della identità delle parti coinvolte in una comunicazione.
+ 24. Method according to each of the preceding claims, to guarantee the certainty of the identity of the parties involved in a communication.
+
+ 25. Metodo per la creazione e distribuzione di pacchetti comunicativi digitali secondo ciascuna delle rivendicazioni precedenti, tale da garantire l'identicità del pacchetto su tutti i dispositivi partecipanti alla comunicazione.
+ 25. Method for the creation and distribution of digital communication packages according to each of the preceding claims, such as to guarantee the identicality of the package on all the devices participating in the communication.
+
+ 26. Metodo per la firma digitale di pacchetti comunicativi digitali generati secondo la rivendicazione 22, tale da garantire la interoperabilità delle operazioni di verifica.
+ 26. Method for the digital signature of digital communication packets generated according to claim 22, such as to guarantee the interoperability of the verification operations.
+
+ 27. Metodo secondo le rivendicazioni 22, 23 e 24 per la firma contemporanea delle comunicazioni che permetta a tutti i partecipanti di avere una versione non ripudiabile della medesima, grazie alle funzioni di firma crittografica delle registrazioni ed alla garanzia di privacy della comunicazione stessa. 27. Method according to claims 22, 23 and 24 for the simultaneous signature of communications which allows all participants to have a non-repudiable version of the same, thanks to the cryptographic signature functions of the recordings and to the guarantee of privacy of the communication itself. 
+
+ ITRM20060426 
+ 2006-08-04 
+ 2006-08-04 
+
+ METHOD FOR NON-REPAIR RECORDING OF A DIGITAL TRANSMISSION OF INFORMATION AND FOR THE IDENTIFICATION OF COMMUNICATION PARTICIPANTS
+
+ ITRM20060426A1 
+ ( en )
+
+ Priority Applications (3)
+
+ Application Number 
+ Priority Date 
+ Filing Date 
+ Title 
+
+ ITRM20060426 
+
+ ITRM20060426A1 
+ ( en )
+
+ 2006-08-04 
+ 2006-08-04 
+
+ METHOD FOR NON-REPAIR RECORDING OF A DIGITAL TRANSMISSION OF INFORMATION AND FOR THE IDENTIFICATION OF COMMUNICATION PARTICIPANTS
+
+ PCT/IT2007/000565 
+
+ WO2008015723A2 
+ ( en )
+
+ 2006-08-04 
+ 2007-08-03 
+ Method of recording a not repudiable digital transmission of information and identifying the participants in the communication 
+
+ EP07805758A 
+
+ EP2057777A2 
+ ( en )
+
+ 2006-08-04 
+ 2007-08-03 
+ Method of recording a not repudiable digital transmission of information and identifying the participants in the communication 
+
+ Applications Claiming Priority (1)
+
+ Application Number 
+ Priority Date 
+ Filing Date 
+ Title 
+
+ ITRM20060426 
+
+ ITRM20060426A1 
+ ( en )
+
+ 2006-08-04 
+ 2006-08-04 
+
+ METHOD FOR NON-REPAIR RECORDING OF A DIGITAL TRANSMISSION OF INFORMATION AND FOR THE IDENTIFICATION OF COMMUNICATION PARTICIPANTS
+
+ Publications (1)
+
+ Publication Number 
+ Publication Date 
+
+ ITRM20060426A1 
+
+ true 
+
+ ITRM20060426A1
+ ( en )
+
+ 2008-02-05 
+
+ Family
+
+ ID=38795823
+
+ Family Applications (1)
+
+ Application Number 
+ Title 
+ Priority Date 
+ Filing Date 
+
+ ITRM20060426 
+
+ ITRM20060426A1 
+ ( en )
+
+ 2006-08-04 
+ 2006-08-04 
+
+ METHOD FOR NON-REPAIR RECORDING OF A DIGITAL TRANSMISSION OF INFORMATION AND FOR THE IDENTIFICATION OF COMMUNICATION PARTICIPANTS
+
+ Country Status (3)
+
+ Country 
+ Link 
+
+ EP 
+ ( 1 )
+
+ EP2057777A2 
+ ( en )
+
+ IT 
+ ( 1 )
+
+ ITRM20060426A1 
+ ( en )
+
+ WO 
+ ( 1 )
+
+ WO2008015723A2 
+ ( en )
+
+ Families Citing this family (1)
+
+ * Cited by examiner, † Cited by third party 
+
+ Publication number 
+ Priority date 
+ Publication date 
+ Assignee 
+ Title 
+
+ US8917840B2 
+ ( en )
+
+ 2009-12-14 
+ 2014-12-23 
+ International Business Machines Corporation 
+ Enhanced privacy caller identification system 
+
+ Family Cites Families (3)
+
+ * Cited by examiner, † Cited by third party 
+
+ Publication number 
+ Priority date 
+ Publication date 
+ Assignee 
+ Title 
+
+ US5872848A 
+ ( en )
+
+ * 
+
+ 1997-02-18 
+ 1999-02-16 
+ Arcanvs 
+ Method and apparatus for witnessed authentication of electronic documents 
+
+ NL1007472C2 
+ ( en )
+
+ * 
+
+ 1997-11-06 
+ 1999-05-10 
+ Koninkl Kpn Nv 
+
+ Method and device for the secure storage of data from message traffic.
+
+ US7047416B2 
+ ( en )
+
+ * 
+
+ 1998-11-09 
+ 2006-05-16 
+ First Data Corporation 
+ Account-based digital signature (ABDS) system 
+
+ 2006 
+
+ 2006-08-04 
+ IT 
+ ITRM20060426 
+ patent/ITRM20060426A1/en 
+ unknown 
+
+ 2007 
+
+ 2007-08-03 
+ EP 
+ EP07805758A 
+ patent/EP2057777A2/en 
+ not_active 
+ Withdrawn 
+
+ 2007-08-03 
+ WO 
+ PCT/IT2007/000565 
+ patent/WO2008015723A2/en 
+ not_active 
+ Ceased 
+
+ Also Published As
+
+ Publication number 
+ Publication date 
+
+ EP2057777A2 
+ ( en )
+
+ 2009-05-13 
+
+ WO2008015723A3 
+ ( en )
+
+ 2008-04-10 
+
+ WO2008015723A2 
+ ( en )
+
+ 2008-02-07 
+
+ Similar Documents
+
+ Publication 
+ Publication Date 
+ Title 
+
+ US10742426B2 
+ ( en )
+
+ 2020-08-11 
+
+ Public key infrastructure and method of distribution 
+
+ US7020778B1 
+ ( en )
+
+ 2006-03-28 
+
+ Method for issuing an electronic identity 
+
+ US7937584B2 
+ ( en )
+
+ 2011-05-03 
+
+ Method and system for key certification 
+
+ CN111865603B 
+ ( en )
+
+ 2025-02-28 
+
+ Authentication method, authentication device and authentication system
+
+ CN100574511C 
+ ( en )
+
+ 2009-12-23 
+
+ Method and system for peer identity confirmation in mobile terminal communication
+
+ CN106101068A 
+ ( en )
+
+ 2016-11-09 
+
+ Terminal communicating method and system 
+
+ CN112766962A 
+ ( en )
+
+ 2021-05-07 
+
+ Method for receiving and sending certificate, transaction system, storage medium and electronic device 
+
+ CN112242993B 
+ ( en )
+
+ 2022-10-21 
+
+ Bidirectional authentication method and system 
+
+ US10044684B2 
+ ( en )
+
+ 2018-08-07 
+
+ Server for authenticating smart chip and method thereof 
+
+ CN104301115B 
+ ( en )
+
+ 2017-09-15 
+
+ Mobile phone and Bluetooth key signature verification ciphertext communication method 
+
+ CN105827620B 
+ ( en )
+
+ 2019-04-02 
+
+ A data transmission system and method thereof
+
+ WO2010066127A1 
+ ( en )
+
+ 2010-06-17 
+
+ Safe communication method and device for mobile financial service based on application layer 
+
+ CN106549858B 
+ ( en )
+
+ 2019-12-10 
+
+ Instant messaging encryption method based on identification password 
+
+ CN101645776A 
+ ( en )
+
+ 2010-02-10 
+
+ Method for distinguishing entities introducing on-line third party 
+
+ CN117675177A 
+ ( en )
+
+ 2024-03-08 
+
+ A secure access method and system for Internet of Things terminals based on identification keys
+
+ CN105704711A 
+ ( en )
+
+ 2016-06-22 
+
+ Method for ensuring call communication security, device and user terminal 
+
+ CN103414707B 
+ ( en )
+
+ 2016-08-10 
+
+ message access processing method and device 
+
+ WO2007073659A1 
+ ( en )
+
+ 2007-07-05 
+
+ Terminal access method based on h.323 protocol applied to packet network 
+
+ US8085937B1 
+ ( en )
+
+ 2011-12-27 
+
+ System and method for securing calls between endpoints 
+
+ CN108768958B 
+ ( en )
+
+ 2022-01-14 
+
+ Verification method for data integrity and source based on no leakage of verified information by third party 
+
+ CN106788997A 
+ ( en )
+
+ 2017-05-31 
+
+ A kind of real-time multimedia encryption method based on id password 
+
+ CN109379194A 
+ ( en )
+
+ 2019-02-22 
+
+ With the safe encryption and decryption of tagged keys, signature, the network system for transmitting file 
+
+ CN104469750A 
+ ( en )
+
+ 2015-03-25 
+
+ Autonomous controllable mobile internet business method and device 
+
+ CN101174945B 
+ ( en )
+
+ 2011-03-16 
+
+ Method for validating PUSH message and identity of its transmission part 
+
+ Ruiz-Agundez et al. 
+
+ 2012 
+
+ Service authentication via electronic identification cards: voip service authentication through the DNIe

@@ -1,0 +1,1396 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:18] Senti me. Buongiorno a tutti. Siamo il centro Hermes per la trasferenza di Tumani in rete.
+[00:24] Siamo l'anoprofit italiana che sviluppa Software Global X e che si dedica appunto a migliorare questo software che abbiamo utilizzato da giornalisti, attivisti o organizzazioni che vogliono ricevere segnalazioni anonime al fine di pubblica trasparenza, pubblico interesse e così via.
+[00:45] Questo sarà un workshop molto interattivo, di conseguenza appena avete delle domande a stella mano e facciamola, servirà a avere un microfono perché c'è una listazione di streaming.
+[00:54] Lo scopo di questo workshop è abilitare, farvi provare praticamente con una piattaforma che abbiamo messo su per questo esperimento,
+[01:06] come funziona la vita di un ricevente di segnalanime e avrete a fine giornata oppure nei prossimi giorni visto che è un esperimento in fase di completamento anche sulla base delle vostre risposte e necessità che esprimerete.
+[01:23] Un link che potete mettere abitamente nel vostro blog o infonda i vostri articoli a fine di stimolare un follow up dalle sorgenti potenziali e così via.
+[01:35] Adesso quello che servirà, farò passare questo taquino in cui dovreste scrivere un nome che volete far apparire che sarà visibile nel nodo come possibile ricevente,
+[01:54] quindi può essere vostro nome con nome reale oppure potete usare un pseudonimo se ritenete questa opzione.
+[02:01] E la vostra e mail, questo è necessario perché GlobalX utilizza un meccanismo di notifiche per cui non è necessario che voi state collegati a GlobalX costantemente.
+[02:11] Quando ricevete del materiale ricevete un e mail che vi segnala che qualcosa è arrivato o che punto vi è collegato sulla piattaforma e da lì iniziate la relazione con la fonte o scaricate il materiale.
+[02:21] Ma sto dimenticando la cosa più importante che è presentare i miei colleghi.
+[02:25] Abbiamo l'ingegnere Marco Calamari, divulgatore e tecnico di vecchia data, Giovanni Pellerano, il capo sviluppatore di GlobalX e la nostra ultima entry, Michele Frettolli tra gli sviluppatori.
+[02:42] E io sono Claudio Agosti.
+[02:47] Passerà questo acquino, se avete delle maiche potete indicare può essere una vostra mail, potete scegliere se avete più di un indirizzo, sceglete quello che sia più appropriato, perché comunque sarà un indirizzo che terrete associato alle notifiche.
+[03:04] Quindi se avete magari una mail su Gmail ed una su RiseUp e conoscete differenti politiche di sicurezza, questi due servizi offrono, fate la vostra votazione in virtù di quello.
+[03:29] No, handle and email, perché servirà per farvi la registrazione, lo faremo da qui, qui opereremo come amministratorio del sistema in cui sarete registrati.
+[03:38] Poi apriete vostro portatile e proverete a utilizzare il sistema come riceventi.
+[03:43] Faremo delle segnalazioni di test, vedrete effettivamente come funziona il flusso.
+[03:47] Poi simuleremo il fatto che la finestra di segnalazione, anziché andare a prenderla da questo servizio online, Experiment Global Xorg, sarà raggiungibile dal vostro blog.
+[03:59] Più meno questi qui sono i due obiettivi che abbiamo per la giornata di oggi.
+[04:09] Esattamente, il computer è necessario e per questo motivo ho scritto un altro email a Projects.logio.srms, così vi spiegheremo i requisiti.
+[04:27] Se avete interesse anche a partecipare in seguitore, registratevi pure sul...
+[04:31] Nel senso che comunque ti faremo vedere qual è la procedura.
+[04:35] Tu puoi essere registrata e quando arrivere a casa, utilizzerai la procedura molto semplice che vedrai su questo produttore e da lì farai come tutti gli altri, quindi registrate pure.
+[04:46] Mail è il nome che appagrà.
+[04:48] Sì, uno è abilitato per il futuro, il progetto lo stiamo immaginando con una durata di 6-9 mesi, nel senso che è un esperimento.
+[05:01] In questi 6-9 mesi, capite se effettivamente ricevere informazioni confidenziali come parte del vostro processo editoriale è utile.
+[05:11] Se noterete che è una risorsa, la si potrà continuare.
+[05:16] Quello che noi speriamo è che si crea un'altra organizzazione, un gruppetto di persone motivate che gestiscono questo esperimento rendendolo poi una cosa stabile.
+[05:28] Non è a scopo di nostra situazione fare questo, quindi ne parleremo affrontere una situazione tra 6 e 9 mesi,
+[05:35] ma in generale a lungo termine se la cosa funziona sovevello che si crasse un'altra organizzazione che ne tenga ready.
+[05:49] Ora staggiamo dal taquino, quindi cosa possiamo fare?
+[05:53] Potremmo mostrare il sistema.
+[05:56] Ok.
+[05:58] Ah, va bene, Green World, il famoso giornalista che ha ricevuto le relazioni di Snowden, ha avuto un problema iniziale
+[06:05] con il fatto che non sapesse utilizzare alcuni meccanismi basiliari di sicurezza.
+[06:10] Allora, perché questo non avvenga mai più?
+[06:14] Ah, grazie, effettivamente è compito a Queenie, si fa prima.
+[06:19] Per far sì questo non avvenisse più, abbiamo cercato di dare uno strumento semplice e funzionante.
+[06:28] Potremmo effettare una demo, vuoi farla tu?
+[06:33] Sì, molti peccati da Queenie.
+[06:40] Allora, quello in cui si esplica la piattaforma GlobalX è fondamentalmente un sito internet, quello che vedete è la pagina iniziale di questo sito che è dedicata al Whistleblower, che sarà la vostra fonte,
+[07:01] il quale, arrivando su questo sito, potrà leggere le informazioni relative all'iniziativa, che per il momento sono dei testi che abbiamo inserito così, giusto per questa presentazione,
+[07:17] poi potranno essere ottimizzati capendo con voi anche come si può configurare meglio questo progetto.
+[07:25] Il Whistleblower, arrivando sulla piattaforma, oltre a leggere queste informazioni, trova le semplici funzionalità che il sistema offre, che sono quelle di effettare una segnalazione,
+[07:37] o tornare su una segnalazione precedente in modo di aggiungere materiale aggiuntivo o rispondere a commenti che li avrete fornito.
+[07:51] Per questo motivo, ad esempio, abbiamo configurato un bottone con scritto Choose Your Journalist, che è lo step iniziale che il Whistleblower dovrà effettuare.
+[08:05] Procedendo in questa demo, il Whistleblower avrà necessità di selezionare un giornalista, in realtà qualora avremo completato con voi la registrazione e l'integrazione nel vostro blog.
+[08:26] Il Whistleblower non perverrà sulla piattaforma come sto effettuando adesso, ma direttamente cliccando un bottone sul vostro blog e si troverà di fronte direttamente le domande e i questionari che voi stessi avrete scritto per lui.
+[08:46] In questa demo, invece, il Whistleblower dovrà selezionare anche la recevente a cui vuole indiare la sua segnalazione, in questo caso vado a selezionare Claudio.
+[09:00] Procedendo nello step successivo, il Whistleblower trova il questionario che al momento ha configurato delle semplici domande, quali un titolo dell'assineazione, una descrizione completa, una descrizione dei file che va a allegare e poi avrà la possibilità di allegare dei documenti.
+[09:31] Non essendo questo il mio computer non vorrei allegare file compidenziali di Claudio, ma lo farò ugualmente.
+[09:43] Per cui compilo una segnalazione dicendo materiale molto confidenziale, sono a conoscenza che tizio è coinvolto, che tizio è puntini puntini.
+[10:14] Ammettiamo anche che la vostra fonte vi stia fornendo inizialmente un titolo, una descrizione che sembra interessante ma che non stia allegando delle evidenze.
+[10:29] Procedendo, il Whistleblower potrà anche confermare a determinati condizioni, che generalmente sono un'informativa per il Whistleblower,
+[10:45] che del fatto che una volta effettuata un'assineazione non può più tornare indietro, quindi è un mondo per renderlo più consapevole di quello che sta effettuando.
+[11:03] Al termine della propria segnalazione, attendendo un certo quantitativo di tempo in quanto la piattaforma si basa sulla tecnologia Tor che è persona natura, lenta, molto lenta.
+[11:21] Al termine dell'assineazione, lo vedremo fra poco, il Whistleblower riceverà una ricevuta che è fondamentalmente una sequenza di 16 numeri che potrà appuntarsi e utilizzare per tornare sulla piattaforma in un successivo momento.
+[12:01] Al termine dell'assineazione, il Whistleblower stesso può loggersi sulla piattaforma, vedere quella che è l'assineazione che lui è effettuato e avrà a disposizione una interfaccia attraverso cui continuare a comunicare in sicurezza con voi stessi.
+[12:22] In questo caso, ad esempio, io, Giovanni, in modo anonimo, ho effettuato un'assineazione verso Claudio, al momento a Claudio è arrivata un'email nella sua casella iposta nella quale è indicato semplicemente che sulla piattaforma è pervenuto del materiale e adesso Fabio avrà accesso questo materiale attraverso la piattaforma.
+[12:50] Io, invece, come Whistleblower, arrivando su questa stessa interfaccia posso aggiungere ulteriore materiale come una foto di una persona compromessa e posso continuare a comunicare attraverso la piattaforma aggiungendo informazioni.
+[13:16] La persona, la stessa cosa può farla a Claudio che può accedere al sistema, scaricare il materiale che sarà fornito a lui trittografato, quindi scaricabile solo in maniera sicura.
+[13:41] E quello che Claudio potrà fare è porre dei commenti, in quanto l'assineazione iniziale potrebbe essere interessante ma non completa e quindi non utile per un fine di investitazione o per un procedimento legale, potrebbe non contenere alcuna evidenza utile in un procedimento legale.
+[14:02] E quindi Claudio potrebbe esprimere questo commento e Whistleblower è un secondo momento a legare materiale aggiuntivo.
+[14:12] Questa è una chat assincrona, in quanto a meno che non vi troviate esattamente in uno stesso momento sulla piattaforma, la vostra fonte non avrà alcun tipo di notifica, perché Anonimo non ha fornito alcun tipo di e-mail.
+[14:42] Sarà lui doveva tornare sulla piattaforma e inserire la sua ricevuta e proseguire. Il processo è questo che vado a mostrarvi.
+[14:55] Non so se uno è online in qualche modo, non la spuntatina però se qualcuno c'è vede l'informazione oppure non c'è offline, quante volte ci va?
+[15:10] Allora, al momento non è implementato un sistema di stato che avverta la fonte, era online tre minuti fa, anche perché questo può offrire anche una sorta di tracciamento, quindi non abbiamo inserito questo tipo di funzionalità in questa prima versione.
+[15:32] È in fase di analisi quale informazione inserire o meno, è tracciato il numero di accessi che vengono effettuati, principalmente è tracciato il vostro, come riceventi, in un'ottica di trasparenza nei confronti il whistleblower in modo che possa vedere se state prendendo in carico la sua assinnazione,
+[15:53] se fra i destinatari che ha scelto, fra i giornalisti che ha scelto, c'è qualcuno che lavora meglio degli altri e quindi possa perseguire solo con questi.
+[16:04] Intanto, non so se sono pervenuti, Claudio sta registrando sulla piattaforma, supponiamo che io sia il whistleblower e che stia tornando sulla piattaforma in un successivo momento, quello che posso fare è inserire la mia ricevuta e entrare nel sistema.
+[16:31] C'era una domanda?
+[16:34] Io volevo capire se quando voi parlate di aggiungere questo sistema al proprio blog, se intendete che il sistema deve essere installato sul server, cioè sul mio server, o se voi lo fornite, o se hai qualcosa altro ancora.
+[16:51] Questo non è stato chiarito effettivamente. Il software GlobalX è un free software, Open Source, è pubblicato su Repositori Pubblici, per cui se la vostra organizzazione o voi come freelance siete in possibilità di dotarvi di un server e di installare autonomamente l'applicazione, potete farlo.
+[17:17] E tutto il processo è documentato su internet e anche se contattate la nostra organizzazione, abbiamo dei programmi che chiamo di FastTrack con i quali supportarvi nell'installazione e nello sviluppo dell'iniziativa.
+[17:38] In questo progetto si considera che voi non abbiate queste risorse e si vuole mettere a disposizione una installazione facilmente fruibile, quindi in questo esperimento sul vostro blog inserirete semplicemente un link che punterà direttamente alla piattaforma.
+[18:02] Abbiamo completato la registrazione.
+[18:14] Hai anche associato ai contesti?
+[18:16] Non ancora, hai ragionissima.
+[18:34] C'è registrato su Experiment GlobalX, ci arriverà un email, dobbiamo confermare il link?
+[18:40] No, in questo momento non serve a questo conferma, però appena faremo una submission di prova, arriveranno delle mail, che vi dicono c'è una submission per te questo indirizzo.
+[18:48] Ho capito, ma solamente in questo esempio o è il funzionamento standard?
+[18:52] È il funzionamento standard, poi configurare una tua preferenza se lo vuoi o non lo vuoi le notifiche.
+[18:56] Ma sulla conferma delle mail?
+[19:00] No, quella non esiste.
+[19:01] Quella momento non è implementata, in quanto fino a questo momento abbiamo previsto di abilitare i giornalisti direttamente tramite un contatto diretto fra il nodo administrator e il ricevente.
+[19:17] Una cosa importante, non abbiamo chiesto se avete già in mente qualche tipo di uso specifico.
+[19:23] Questa domanda non è fatta per curiosità, ma perché a seconda del tipo di elementi che volete ricevere, potete migliorare le domande fatte alla fonte.
+[19:40] Potete obbligare che la fonte non possa completare l'invio se non ha completato alcuni campi, così da specificare quali sono quelli necessari rispetto a quelli opzionali.
+[19:51] E più mettete dei campi, più riuscete a avere una segnalazione che sarà circostanziata e dettagliata.
+[19:57] Siccome vi troverete una situazione in cui se ricevete molto materiale, vago, non circostanziato, vi troverete a lasciar perdere cercando di avere più informazioni dalla fonte che può tornare o può non tornare.
+[20:12] In generale, passate ad una situazione un po' frustrante in cui potrebbe essere interessante, ma vi manca questo dettaglio, vi manca questo dato.
+[20:19] Intanto avete perso del tempo, senza poi finalizzare un'indagine, un articolo.
+[20:28] Per evitarlo, è molto meglio avere meno segnalazioni, ma di maggior qualità.
+[20:33] E questo lo soutiene con dei campi più dettagliati.
+[20:37] Quindi adesso mi ha messo dei campi generici, descrivi brevemente, descrivi in modo completo, descrivi file.
+[20:43] Ma nel caso a veste, in esigenza specifica, perché volete seguire un tema di inquiamamento ambientale o di corruzione, ci possono essere dei campi dedicati, dei questionari dettagliati.
+[20:54] E per noi non è un problema, far sì che alla vostra utente corrispondano queste domande, questo questionario.
+[21:01] Quindi pensate anche in questa optica perché può essere interessante per voi.
+[21:08] Da il vostro computer accedere a questo indirizzo, experiment.globalx.org, seguito da slash, cancelletto slash login.
+[21:25] E dovreste trovarvi in fronte questa interfaccia in cui poter selezionare il vostro utente e inserire una password che nella fase inizializzazione è globalx.
+[21:43] È calzante la domanda di Francesco, ovviamente questa procedura non è al momento sicura.
+[21:51] Quella che abbiamo adottato fino adesso è quello di effettuare con una registrazione in parallelo con l'utente.
+[22:00] In questo caso chiunque nell'aula e vi prego di non farlo, potrebbe sostituirsi a un'altra persona, entrare e cambiare la password.
+[22:12] Ma è solo per finalità di deno.
+[22:15] Physicamente.
+[22:20] Se entrate con il vostro utente con la password globalx, vi viene proposta una schermata in cui rinserire la password corrente globalx e una nuova password di vostra scelta.
+[22:40] Per file login dovete inserire esattamente l'URL che ho inserito.
+[22:48] Il motivo per cui non viene l'interfaccia un link da cliccare per entrare direttamente nell'interfaccia i login
+[22:59] è dovuto al fatto che la piattaforma è studiata dal punto di vista della user experience per il whistleblower che deve trovarla.
+[23:07] Quindi molto semplificata e senza nessuna informazione aggiuntiva.
+[23:12] Anche perché nella piattaforma sono presenti un certo numero di informazioni aggiuntive necessari a informare il whistleblower di rischi eventuali nell'effettuare la segnazione.
+[23:26] Quindi bisogna cercare di limitare tutto il resto che non è necessario.
+[23:33] Avete provato ad accedere?
+[23:35] Mi date qualche conferma?
+[23:45] Giusto per capire quanti stanno provando.
+[23:48] E siete riusciti a accedere e cambiare la vostra password.
+[23:55] Quindi adesso siete dentro del sistema.
+[23:58] È probabile, puoi provare.
+[24:07] La domanda è quanti che stanno provando non sono ancora riuscite a cambiare la password?
+[24:21] Quali problemati che ha stato incontrato?
+[24:24] Purtroppo sulla lenticeit ora ancora non è possibile fare molto se non attendere.
+[24:38] Adesso le persone che sanno fare le cose passeranno a fare di voi per darvi una mano.
+[24:56] Io che le soffrere di meno farò un riassunto della situazione.
+[25:00] Dunque noi siamo qui per mettervi di usare una versione facilitata di GlobalX
+[25:06] che è un software che potrebbe installarvi su un vostro server da qualche parte
+[25:11] e configurarvi da soli, usare da soli senza aiutare nessuno,
+[25:16] guardando le istruzioni che trovate su internet, sul sito,
+[25:20] dove disponibile il software a livello sorgente.
+[25:23] Quindi sostanzialmente non avete bisogno di noi e di questo seminario.
+[25:27] Il seminario è un facilitatore per permettervi di fare subito una prova
+[25:32] in una maniera un po' più facile in cui noi ci prendiamo la briga di tenere una copia
+[25:39] di ognuno dei vostri siti e permettervi un accesso facilitato
+[25:46] in cui non avete bisogno di installarvi niente perché ci facciamo noi cura
+[25:50] in maniera automatica di creare una cosa che somiglia molto
+[25:54] sostanzialmente è il sito GlobalX.
+[25:57] Però si tratta di un'esercitazione per provare a mettervi in grado persone
+[26:02] che non sono mai cimentate con il problema di installare un qualche cosa
+[26:06] su un server, magari oddio addirittura Linux,
+[26:10] di arrivare a dama rapidamente di poi farsi venire anche la voglia
+[26:15] magari di provare il modo completo che è ovviamente più sicuro
+[26:21] perché non prevede di dover sifidare di qualcuno ma sifidarsi solo di se stessi.
+[26:26] L'idea poi di ulteriore che ci piacerebbe che Claudio ha appena accennato
+[26:33] ma che è interessante è che siccome questo gruppo di utenti che alla fine
+[26:37] si verrà a creare lo si potrebbe vedere anche come una comunità,
+[26:41] come un'associazione di media, da questo esperimento
+[26:46] se voi effettivamente chi riuscirà a utilizzarlo,
+[26:49] voi userete questa cosa qui di far da diventare un'entità semipermanente
+[26:55] o permanente magari completamente separata da Hermes, da GlobalX etc.
+[27:02] Perché allora se ne risconterebbe un'utilità è chiaro che sarebbe una cosa meno sicura
+[27:07] perché ciascuno si dovrebbe fidare di tutti e gli altri
+[27:10] però è anche una cosa molto più facile da usare e da gestire.
+[27:14] Per fare un riassunto della situazione attuale
+[27:18] ora che la situazione si sta un po' sfrengiando
+[27:21] perché è necessario aiutare le persone che si cimentano, questo è un workshop
+[27:25] non è un seminario quindi non aspettatevi la stessa coerenza e continuità.
+[27:31] Tutti quanti quelli che stavano provando che mi repasso danno fatto login?
+[27:39] Perfetto, allora adesso?
+[27:42] Ah, GlobalX con una solaria nel mezzo come ci tengo sempre a ricordare
+[27:50] perché non so perché tutti usano sempre duale.
+[27:54] È un problema di branding.
+[27:57] No, branding no, ti prego.
+[27:59] Ok, scusate.
+[28:02] Adesso pensavo che si potesse procedere con una senalazione di prova
+[28:05] così che vedrete le mail che si riceve
+[28:08] e magari se non ricevete ho un sito male io o Michele
+[28:11] il vostro indivizio e mail, cosa che non è da scludersi.
+[28:17] No, ho provato tutta una sezzo.
+[28:24] Ho provato quali immagini sotto e plodate e mia senza.
+[28:28] Volendo la senalazione poteste farla voi a voi stessi.
+[28:37] Infatti questo era la prova che di sotto facevamo, però...
+[28:41] Scusa, io non ho del tutto capito in che senso il sistema usa Tor.
+[28:55] Certo, perché in questo momento l'avemo reso non visibile
+[28:59] ma Tor è l'unico modo con il quale questo server si espone su internet
+[29:04] tramite la darknet.
+[29:06] Esiste però un altro servizio che sviluppiamo, che si chiama Tor2Web.
+[29:10] Tor2Web consente di fare da proxy HTTPS verso la darknet.
+[29:16] Quello che succede è che il sistema GlobalX
+[29:21] capisce prende se tu stai raggiungendo il nodo da Tor2Web,
+[29:27] quindi passando per i proxy, quindi se tu utente non sei anonimo
+[29:31] su una connessione HTTPS o se stai usando Tor Browser.
+[29:35] A seconda delle condizioni ti può dare dei messaggi di allarme.
+[29:38] Infatti una cosa che ora vi mostro su un altro nodo,
+[29:43] quello SecureWildLix.org,
+[29:50] a seconda della impostazione del nodo è possibile impedire le sensazioni
+[29:56] senza Tor oppure semplicemente far uscire un messaggio di attenzione
+[30:02] se non addirittura far uscire un questionario che dimostra che tu sappia
+[30:07] quella differenza tra Tor e HTTPS.
+[30:10] Devi leggere un po' di frasi, cliccare sulla risposta giusta
+[30:14] e se la sbagli dice no, retorno indietro.
+[30:17] Quindi in questo momento Tor ti dà protezione
+[30:21] Nessuno sa a eccezioni di InnoE4, che siamo un punto l'anello debole
+[30:25] in questa catena, di dove sta il server fisicamente.
+[30:28] Tutte le iniziative GlobalLix hanno proprietà per cui non c'è
+[30:34] esposizione su internet di dove sta il server fisicamente,
+[30:37] questo per evitare hacking che passa da tassente,
+[30:39] piuttosto che furto, piuttosto che sequestro,
+[30:42] o censura passando da altri canali.
+[30:45] Nulla. Questo è quanto, solitamente,
+[30:51] a seconda del modello di rischio del nodo,
+[30:53] è necessario capire se si vuole lasciare una segnalazione solo con Tor,
+[30:57] ad esempio le persone che hanno fatto ExpoLix
+[30:59] hanno messo da questo tipo di configurazione,
+[31:02] oppure anche confidenziale.
+[31:06] Valutiamo insieme, diteci cosa ne pensate,
+[31:09] in questo momento abbiamo scelto di disabitare anche gli allarmi
+[31:12] che dopo li rimettiamo così li vedete,
+[31:15] perché la comodità è rendere
+[31:20] qualunque persona potenzialmente una fonte,
+[31:23] non solamente qualcuno che utilizzi Tor.
+[31:25] Questo però è un trade-off di sicurezza e pravassi
+[31:28] che dobbiamo valutare insieme.
+[31:46] Quindi l'experimenta rimane attivo per 6-9 mesi da oggi.
+[31:52] Possiamo provare a implementare il bottone sul nostro blog.
+[32:00] Ma gli utenti possono raggiungere questo experiment
+[32:04] anche senza avere Tor installato sul loro computer.
+[32:06] L'utente lo può utilizzare dalla sua DSL Casalinga,
+[32:11] non sarà sicuro come l'utilizzo di Tor,
+[32:14] però è molto facilitato.
+[32:16] Capiamo cosa significa non è sicuro quanto Tor.
+[32:20] Da punto di vista pratico,
+[32:22] se qualcuno sta monitorando le connessioni della fonte,
+[32:26] sa che si è collegato a experiment.globalix.org.
+[32:31] Se qualcuno monitora la potenziale fonte
+[32:34] quando un leak è già stato pubblicato
+[32:36] e quindi pensa che potrebbe essere lui o lei,
+[32:40] le connessioni non avvengono più
+[32:42] e di conseguenza non è che rimaggono delle tracce permanenti.
+[32:51] A meno che un proxie aziendale
+[32:53] non tiene traccia delle connessioni di TPS
+[32:55] che è fatto questo motivo per cui,
+[32:57] nello step finale, viene indicato
+[33:00] Please do not submit your report on a PC provided by your employer.
+[33:05] Però, adesso vediamo di abilitare gli allarmi
+[33:09] così che vedete quello che...
+[33:11] Ora, la submission è finalizzata,
+[33:14] questa è la ricevuta
+[33:15] e tutti voi dovreste ricevere un email.
+[33:18] Anche chi non ha cambiato la...
+[33:21] Anche chi non ha cambiato la password,
+[33:23] che non è ancora quindi abilitato il ricevente, riceverà?
+[33:29] Quindi se anche...
+[33:31] No, no, no, non dovrebbe, non dovrebbe.
+[33:33] Ok.
+[33:35] In questo momento,
+[33:37] atipicamente, abbiamo fatto l'assennazione a tutti.
+[33:39] Una volta che il warshop di oggi è finito,
+[33:42] l'impostazione sarà che solamente
+[33:44] un ricevente può essere sezionato.
+[33:46] Quindi questa intera lista di...
+[33:49] di tester, tra cui voi,
+[33:54] sarà composta da una sola persona
+[33:56] e mai da più di una.
+[33:58] Quindi sarà solamente comunicazione tra fonte e voi.
+[34:27] Io volevo fare un po' l'ultimo...
+[34:30] l'ultimo arrivato e...
+[34:33] e volevo...
+[34:34] mi chiedevo se tutti sapessero cosa torre, per esempio.
+[34:37] Bravissimo.
+[34:39] Quanti di voi che stanno facendo parte
+[34:41] dell'esperimento non sanno cos'è torre?
+[34:50] Vuol dire che io per le supercassole
+[34:52] sono l'ideale.
+[34:53] Mi ha subito girato il microfono.
+[34:55] Allora, torre è una nuvola
+[34:57] che sta dentro internet sostanzialmente
+[35:00] di 5-10.000 server
+[35:03] che fra di loro comunicano
+[35:05] solo in maniera criptografata
+[35:07] e che permettono di scambiare informazioni
+[35:09] eventualmente anche di navigare
+[35:11] in maniera anonima su internet.
+[35:13] Per far questo, voi scaricate
+[35:15] un programmino che si chiama Tor Browser,
+[35:17] lo avanzate sul vostro computer
+[35:19] senza installarlo,
+[35:21] cliccate, parte una cosa che sembra
+[35:24] e in effetti è Firefox,
+[35:26] ma è un Firefox particolare
+[35:28] e da quel momento in poi
+[35:30] voi passate da questa nuvola
+[35:32] per fare qualunque cosa.
+[35:34] Se volete entrare su un sito
+[35:36] e scrivete normalmente
+[35:38] il nome del sito
+[35:40] su questo browser,
+[35:42] succederà una cosa molto diversa
+[35:44] del solito, intanto voi vedrete
+[35:46] che è tutto molto più lento.
+[35:48] Ma la connessione non verrà fatta
+[35:50] direttamente col sito,
+[35:52] ma attraverso uno dei nodi
+[35:54] di questa nuvola presa al caso
+[35:56] che state credendo.
+[35:58] Alte due di questi nodi se la rimbalzeranno
+[36:00] a caso tra di loro, i nodi tipicamente
+[36:02] sono in paesi diverse,
+[36:04] quindi la connessione farà
+[36:06] probabilmente il giro del mondo.
+[36:08] Alla fine l'ultimo di questi nodi effettivamente
+[36:10] si connetterà
+[36:12] col sito che volete,
+[36:14] farà quello che deve fare
+[36:16] a vedere indietro la pagina Web.
+[36:18] Il sito vede la connessione
+[36:20] da un nodo Tor che può essere
+[36:22] usato da chiunque, quindi
+[36:24] navigato in forma anonima.
+[36:26] È chiaro che se poi vi loggate con nome utente
+[36:28] e password su quel sito
+[36:30] il vostro anonymato
+[36:32] è andato all'amengo, però
+[36:34] la connessione che è avvenuta
+[36:36] è estremamente forte
+[36:38] in quanto al anonymato.
+[36:40] Noi stiamo usando, anche se non ve ne accorgete
+[36:42] perché alla fine usate un browser
+[36:44] e vedete un sito Web
+[36:46] Tor in un modo un pochino diverso.
+[36:48] Tor ci permette anche
+[36:50] di fare l'operazione
+[36:52] di pubblicare un sito dentro Tor.
+[36:54] Il GlobalX che voi vedete
+[36:56] non è su un server Web
+[36:58] ordinario che sta da qualche provider
+[37:00] o a casa vostra
+[37:02] o sulla nostra scrivenia in un portatile.
+[37:04] Ma è un oggetto che Tor
+[37:06] permette di fare molto facilmente
+[37:08] che si chiama hidden service
+[37:10] cioè servizio nascosto.
+[37:12] In pratica vuol dire che voi
+[37:14] potete mettere un server Web
+[37:16] all'interno di Tor
+[37:18] e nessuno è in grado
+[37:20] sempre a meno di stupidargini
+[37:22] anche con sforzi considerevoli
+[37:24] di capire dove questo server
+[37:26] si trova.
+[37:28] Tra l'altro perché
+[37:30] può trovarsi anche non su un server
+[37:32] Tor, ma su una macchina
+[37:34] che fa che è solo collegata alla retetora.
+[37:36] L'alta proprietà di sicurezza
+[37:38] che è implicita con un hidden
+[37:40] service Tor è che
+[37:42] tutte le connessioni che raggiungono
+[37:44] il servizio sono anonime.
+[37:46] Quindi non esiste un ipidentificativo
+[37:48] per questo motivo anche se
+[37:50] la persona che sta amministrando
+[37:52] il servizio
+[37:54] fosse corrotta o cambiasse idea
+[37:56] o volesse modificare la tecnologia
+[37:58] o
+[38:00] il suo computer venisse compromesso
+[38:02] così attaccante e modificasse la tecnologia
+[38:04] c'è un ostante
+[38:06] l'informazione identificativa della fonte
+[38:08] non arriva fisicamente
+[38:10] mai alla macchina.
+[38:12] È protetto da la retestessa che lo collega.
+[38:14] Qui volevo mostrare la differenza tra
+[38:16] il browser, che è questo qua sulla sinistra
+[38:18] che ti dice con gratulazioni
+[38:20] sembra che sei usando Tor
+[38:22] usa Tor Browser, sto usando Tor Browser
+[38:24] quindi grazie.
+[38:26] Invece qui mi dice attento
+[38:28] tu non stai usando Tor
+[38:30] quindi scarica ti Tor Browser
+[38:32] e copiencolati questo indirizzo.
+[38:34] Quando una persona con Tor Browser
+[38:36] accede a questo indirizzo
+[38:38] avviene automaticamente
+[38:40] una redirezione
+[38:42] all'indirizzo
+[38:44] su leading service
+[38:46] così che
+[38:48] non venga mai toccato
+[38:50] la parte esposa su internet.
+[38:54] Avete ricevuto le mail?
+[38:57] Ok.
+[38:59] Per la tratta di mano è chi che ha iscritto
+[39:01] non ha ricevuto le mail?
+[39:03] Ottimo.
+[39:05] Poi venire qui e verificiamo se
+[39:07] l'indirizzo mi ha scritto correttamente?
+[39:11] Lui non fosse ancorabilitato nel momento in cui
+[39:13] abbiamo fatto l'assinnazione.
+[39:15] È indireta?
+[39:17] È indireta?
+[39:19] E mi ha andato mobilitato all'ultimo.
+[39:21] Va bene.
+[39:23] Avete domande?
+[39:25] Credo di sì.
+[39:29] Giusto.
+[39:31] La password è in video dall'altro ieri
+[39:33] quindi quanti
+[39:35] non hanno ancora cambiato la password?
+[39:37] Ecco fallo
+[39:39] è meglio.
+[39:41] È che lui sta usando un cellulare
+[39:43] quindi magari ha difficoltà.
+[39:45] Vediamo un supporto noi usi
+[39:47] un atto di questi portatili.
+[39:50] Lei sei scritto?
+[40:02] Microphone.
+[40:04] Sì dalla mail dal cellulare
+[40:06] clicco sull'indirizzo che c'è
+[40:08] è normale che mi dice
+[40:10] è impossibile trovare il server?
+[40:12] È un indirizzo
+[40:14] un hidden service qui.
+[40:16] L'indirizzo che leggi
+[40:18] termina per puntoneon
+[40:20] se
+[40:22] è una sequenza strana diversa
+[40:24] e termina per puntoneon
+[40:26] quell'indirizzo è raggiungibile
+[40:28] solo se tu utilizzi il tor browser
+[40:30] il tor browser
+[40:32] che è questo browser
+[40:34] speciale che ti permette accedere
+[40:36] al hidden service dentro la retetor.
+[40:38] Per farla semplice
+[40:40] se l'indirizzo che tu stai battendo
+[40:42] termina con puntoneon
+[40:44] non è un indirizzo di internet
+[40:46] è un indirizzo della retetor
+[40:48] e se non hai modo di entrare nella retetor
+[40:50] internet non è un introdurre a mai.
+[40:52] Quindi se io volessi utilizzarlo dal cellulare
+[40:54] dovresti caricare il cellulare?
+[40:56] No, no, perché
+[40:58] l'indirizzo esposto su internet è questo
+[41:00] experiment.globalx.org
+[41:02] che comunque le tue fonti
+[41:04] non vedranno, le tue fonti vedranno
+[41:06] un bottone sul tuo blog
+[41:08] questo bottone contiene un link
+[41:10] a experiment.globalx.org
+[41:12] e le fa passare tramite questo meccanismo
+[41:14] che si chiama torto web che quindi è sposto su internet.
+[41:16] Appunto con il cellulare?
+[41:20] Sì.
+[41:22] Dovresti installare
+[41:24] un'applicazione? No, no.
+[41:26] Experiment.globalx.org lo potresti usare al cellulare.
+[41:28] Ok, va bene.
+[41:31] Sì, ma adesso ho capito che devo usare experiment.
+[41:33] Sì, sì.
+[41:39] Comunque se avete Android
+[41:41] esiste
+[41:43] il tor browser
+[41:45] come si chiama l'applicazione?
+[41:47] Orbot, grazie.
+[41:49] Orbot è l'applicazione anche sul
+[41:51] Google Marketplace
+[41:53] che è praticamente il tor browser
+[41:55] che dovrebbe essere.
+[42:03] Una è Freetal Browser, lo ripeto per lo streaming
+[42:05] e Ognon Browser che sono su iPhone.
+[42:07] Come procediamo?
+[42:17] Se ti sei creato l'assignazione
+[42:19] entra e mostro l'interfaccia.
+[42:21] Giusto.
+[42:23] Ok, ora simulo
+[42:25] quello che duraste a fare
+[42:27] in quanto riceventi.
+[42:29] Qui ero la fonte, la ricevuta
+[42:31] mi sono messa un commento
+[42:38] lo su login, seleziono il mio account
+[42:40] cloud test
+[42:43] faccio lo login
+[42:47] vedrò almeno
+[42:49] perché?
+[42:51] No, magari dimenticato
+[42:53] il password che ho messo io.
+[43:09] Niente, un gioco perché
+[43:11] anni fa ho usato un portatile
+[43:13] essenziale 3F per almeno 6 mesi
+[43:15] da tenevo copia incollata
+[43:17] è stata un'esperienza formativa.
+[43:19] Scusate, ma
+[43:26] facciamo che
+[43:28] nel caso perdesse la password
+[43:30] è comunque possibile per le amministratori
+[43:32] cambiarvi la password.
+[43:42] Ora saprete che
+[43:57] perché non l'avevo ancora cambiata
+[43:59] al primo login.
+[44:05] Qui vedrete la tip list
+[44:10] e le preferenze.
+[44:12] La tip list mostra
+[44:14] le assignazioni che sono arrivate.
+[44:16] Questa qui
+[44:18] sending to torlic
+[44:20] selezioniamo quasi, ecco la verità, questa qui è la mia.
+[44:22] Qui invece sono qua, ecco un'altra
+[44:24] che ha fatto una assignazione di prova.
+[44:26] Non volesse aprirla, potrei cancellarla
+[44:28] prima ancora accedervi, sarebbe stupido.
+[44:30] Cliccando sulla
+[44:35] lista di tip, ci accedete.
+[44:37] Potete scaricare i file, li potete scaricare
+[44:41] tutti insieme oppure
+[44:43] separatamente
+[44:45] ed è qui il addition information
+[44:47] il posto in cui chiedete
+[44:49] ulteriori
+[44:51] informazioni se ne avete bisogno
+[44:53] perché la cosa interessante
+[44:55] del processo di whisked blowing
+[44:57] è che
+[44:59] quello che fa la fonte non è
+[45:01] dare dati e poi terminare la soprazione.
+[45:03] Quello lì è l'inizio.
+[45:05] È importante riuscire da una fonte
+[45:07] ad avere una relazione
+[45:09] in cui però la fonte
+[45:11] spiega il contesto
+[45:13] che sta vivendo perché
+[45:15] le sue conoscenze della situazione sono
+[45:17] lunga più approfondite di quelle che
+[45:19] voi potete dedurre da i dati ricevuti.
+[45:21] Quindi questo tipo di scambio
+[45:23] è molto importante
+[45:25] è raro perché non sempre
+[45:27] il olalist whisked blower
+[45:29] torna sulla segnalazione
+[45:31] forse non le procediscono l'importanza
+[45:33] ma se riusciste a comunicarglielo
+[45:35] anche a qualità del materiale
+[45:37] aumenterebbe.
+[45:39] Quello che vuol dire Beckman
+[45:41] è che se al termine della segnalazione
+[45:43] il whisked blower non si segna
+[45:45] quel numero di 16 cifre
+[45:47] quel numero non riapprerà mai più
+[45:49] e senza quel numero nessuno
+[45:51] può entrare nella segnalazione
+[45:53] tra ne ovviamente il
+[45:55] whisked blower
+[45:57] per cui se
+[45:59] voi volete sollicitare questo colloquio
+[46:01] sarà magari importante
+[46:03] che nella vostra installazione
+[46:05] ci sia una bella indicazione
+[46:07] caro whisked blower
+[46:09] se noi potremmo parlare
+[46:11] in maniera completamente anonima
+[46:13] però se tu vuoi fare questo
+[46:15] ricordati di scriverti
+[46:17] la sigla di stessi cifre
+[46:19] e ogni tanto di provare a collegarti
+[46:21] perché ovviamente per mantenere
+[46:23] che non riceverà mai una mail
+[46:25] che gli dice ah, il tuo receive
+[46:27] ti ha mandato un messaggio
+[46:29] perché altrimenti il gioco sarebbe
+[46:31] immediatamente scoperto
+[46:33] quindi bisogna che impositivo
+[46:35] la fonte capisca il meccanismo
+[46:37] e potrebbe essere una persona
+[46:39] che non apprende niente pratica
+[46:41] e B
+[46:43] che voi li date il modo
+[46:45] e gli spiegate come farlo
+[46:47] lui deve fare un polling
+[46:49] ogni tanto connettersi
+[46:51] in questo modo è scritto
+[46:53] voi non siete obbligati a scrivergli
+[46:55] lui non è obbligato da andare a vedere
+[47:08] segli avete scritto
+[47:10] scusa, a me non è del tutto chiaro
+[47:12] come faccio a mandare un messaggio
+[47:14] a Mr. Blower
+[47:16] io che sono ricevente
+[47:18] certo, in questa interfaccia
+[47:20] la interfaccia del receive interface
+[47:22] tip status page
+[47:24] ah, la lingua può essere cambiata con l'italiano
+[47:27] stavo dimenticando di dirvelo
+[47:29] avete la possibilità
+[47:31] avete una sua possibilità
+[47:33] avete una sola casella
+[47:35] ora vedete due perché siamo in una situazione
+[47:37] sperimentale in cui ci sono molti
+[47:39] riceventi, dopo ne facciamo una
+[47:41] conoscimento ricevente
+[47:43] e in questa casella
+[47:45] l'informazione
+[47:47] quello che scrivete, ad esempio
+[47:49] chiedete ulteriori informazioni
+[47:51] fatto agli 1851
+[47:53] sono
+[47:55] commenti
+[47:57] che possono contenere
+[47:59] domande per la fonte
+[48:01] la fonte, grazie alla ricevuta
+[48:03] si ricollegherà
+[48:05] all'assignazione in questo modo
+[48:07] inserendola
+[48:11] la ricevuta univoca
+[48:13] e da lì vedrà quello che avete scritto
+[48:15] quindi dovete immaginare che
+[48:17] più o meno quello che dovrebbe succedere
+[48:19] è cara fonte, obbligato materiale
+[48:21] mi sembra interessante, vorrei sapere
+[48:23] se c'è un modo di validare
+[48:25] i dati che mi hai inviato
+[48:27] vorrei sapere
+[48:29] ora, qui mi ho ceduto in quanto
+[48:31] fonte
+[48:33] ho visto che Claudio ha ceduto tre volte
+[48:35] edobet 2 etc
+[48:37] se
+[48:42] il shishis the world
+[48:47] vedete, quindi
+[48:54] l'uist blower commenta
+[48:56] in questo caso qui si ha una situazione di
+[48:58] commenti condivisi tra tutte le
+[49:00] riceventi
+[49:02] nella situazione realistica ci sono solamente voi
+[49:04] con l'uist blower e quindi sarà visibile
+[49:06] solamente a voi due
+[49:14] quello che
+[49:16] ora avete visto per accedere
+[49:18] alla pagina per la seconda volta
+[49:20] è l'instrumento ricevuta
+[49:22] ho detto che vediamo un link
+[49:24] in realtà vediamo due
+[49:26] un link porta a creare una submission
+[49:28] l'altro link è quello che
+[49:30] può essere utilizzato
+[49:32] per far sì che
+[49:34] il uist blower
+[49:36] possa immettere la ricevuta
+[49:38] senza dover andare su questo indirizzo
+[49:40] visto che questo indirizzo
+[49:42] lo potrei vedere
+[49:46] come è la situazione?
+[49:48] la domanda che dovrei farvi è
+[49:50] quanti
+[49:52] che sono riceventi
+[49:54] non sono riusciti a collegarsi
+[50:19] ma lo potrei vedere chiaramente
+[50:21] da qui
+[50:23] qualcuno di voi già sa in quale
+[50:25] piattaforma vorrà integrare il bottone
+[50:27] ad esempio
+[50:29] blogspot o woropress
+[50:31] perché su queste due abbiamo già fatto le prove
+[50:33] poi nel presente workshop
+[50:35] Blasphemia
+[50:37] ma vedo che qualcuno ci sta accedendo
+[50:44] chi ha problemi ad accederci?
+[50:48] se possiamo aiutare?
+[50:50] allora nel frattempo una domanda
+[50:56] che magari a cui qualcuno saprà
+[50:58] rispondere
+[51:00] qual'è il punto più debole
+[51:02] rispetto a un uso di global X
+[51:04] puro
+[51:06] della modalità semicomunitaria
+[51:08] che stiamo trattando
+[51:10] cioè di experiment
+[51:12] qual'è la seconda idea
+[51:15] vedete che c'è un punto debole
+[51:17] la fu
+[51:24] sia ancora di più il fatto che
+[51:26] voi vi state collegando ad experiment
+[51:28] appunto
+[51:30] voi vi state collegando
+[51:32] in HTTPS normale
+[51:34] si vede che state partecipando
+[51:36] all'esperimento, in realtà
+[51:38] bisognerebbe collegarsi
+[51:40] a experiment almeno utilizzando
+[51:42] tor
+[51:44] in questo modo si sarebbe garantiti
+[51:46] questo esperimento è ripreso
+[51:48] per cui non è
+[51:50] particolarmente sicuro
+[51:54] per motivi di velocità
+[51:56] non abbiamo acceduto anche
+[51:58] experiment via tor
+[52:00] perché se no probabilmente la cosa
+[52:02] avrebbe portato via ancora più tempo
+[52:04] non stiamo costruendo un sistema
+[52:06] particolarmente sicuro
+[52:08] da questo punto di vista
+[52:10] Marco
+[52:12] ma è normale che
+[52:14] nell'ambito della chat
+[52:16] venga inserito lì
+[52:18] di identificativo tra i messaggi
+[52:20] non dovrebbe essere una cosa
+[52:22] riservata e
+[52:24] lo ha inserito Claudio per ricordarselo
+[52:26] si, per mandarlo a tutti
+[52:28] però normalmente è qualcosa che
+[52:30] non dovrebbe essere fatto
+[52:32] chi ci manda l'informazione
+[52:34] dovrebbe tenersi quel numerino
+[52:36] è stato solo per
+[52:38] qualcuno potrebbe impressionare
+[52:43] whistleblower e poi fare
+[52:45] mandare fake documenti
+[52:47] è stato solo per finalità amnemonica
+[52:49] di Claudio, penso
+[52:53] se la parte encryption la fate vedere
+[52:55] sulla pgp
+[52:57] oppure allo scope
+[52:59] allora sì, per quel che riguarda
+[53:01] l'encryption al momento il sistema
+[53:03] utilizza pgp
+[53:05] e abbiamo osservolato di
+[53:07] raccontarvelo in quanto
+[53:09] stiamo implementando le funzionalità
+[53:11] di end-to-end encryption
+[53:13] che saranno
+[53:15] attivate entro un mese
+[53:17] e terminando l'implementazione
+[53:19] siamo in fase di review
+[53:21] dell'implementazione
+[53:23] con l'end-to-end encryption
+[53:25] succederà in pratica che
+[53:31] verrà generata una chiave
+[53:33] pubblica e una chiave privata
+[53:35] automaticamente quando voi farete login
+[53:37] la chiave pubblica
+[53:39] sarà
+[53:41] utilizzabile dalla fonte
+[53:43] in modo automatico, il software
+[53:45] cirerà solamente per voi
+[53:47] in questo modo, dal vostro computer
+[53:49] quello che
+[53:51] dal computer della fonte
+[53:53] quello che esce e decifraabile
+[53:55] solo da
+[53:57] il giornalista sezionato
+[53:59] questa è la nuova garanzia che si vuol dare
+[54:01] in questo momento altrimenti
+[54:03] in questo
+[54:05] mesi di ibrido
+[54:07] c'è bisogno di applaudare una vostra chiave
+[54:09] già pregenerata
+[54:11] e appena il dato arriva sul nodo
+[54:13] viene cifrato per la vostra chiave
+[54:15] non l'abbiamo spiegato
+[54:17] perché
+[54:19] sono tecnicismi che appunto
+[54:21] sono utili per rispondere la domanda che
+[54:23] è stata fatta
+[54:25] per tutti gli altri che non hanno
+[54:27] capito cosa si intendesse
+[54:29] non preoccupatevi
+[54:31] quando abbiamo parlato di
+[54:33] end-to-end encryption di questa nuova
+[54:35] funzionalità che stiamo implementando
+[54:37] e diciamo la massima
+[54:39] offerta di sicurezza
+[54:41] che si può garantire in quanto
+[54:43] nemmeno il server sarà in grado
+[54:45] in alcun modo di leggere
+[54:47] le
+[54:49] informazioni che vengono inviate
+[54:51] in quanto sarà direttamente
+[54:53] il vostro browser a
+[54:55] cifrare i dati
+[54:57] quindi a renderli illegibili
+[54:59] per un attaccante
+[55:01] e per il server stesso
+[55:03] e renderle fluibili solo
+[55:05] tra voi e la fonte
+[55:07] integrò solo una cosa, quando Giovanni è detto
+[55:09] non preoccupatevi
+[55:11] è proprio
+[55:13] lo scopo in qualche modo di GlobalX
+[55:15] e abbassare l'abbarirà l'ingresso
+[55:17] a delle tecnologie molto sicure
+[55:19] perché il fatto che tu debba essere
+[55:21] conoscenza di come funziona Tor
+[55:23] o
+[55:25] o pgp è un abbarirà l'ingresso
+[55:27] che appunto è stato problema di Grand Green World
+[55:29] tre anni fa
+[55:31] ora con questo tipo di integrazione
+[55:33] che una mano diventa sempre più presente
+[55:35] applicazione riusciamo a evitarlo
+[55:37] considerate che
+[55:39] GlobalX è utilizzato in vari contesti
+[55:41] e avevo fatto un training in Africa
+[55:43] servia per la
+[55:45] i training di AfriLix che è stato presentato
+[55:47] questa mattina a quel festival
+[55:49] l'effetto è stato che su 10 persone
+[55:51] il blocco principale è stato
+[55:53] capire come
+[55:55] gestirti le chiavi, nonostante avessimo pensato
+[55:57] una procedura comunque semplificata
+[55:59] è un livello di complessità
+[56:01] ogni volta che c'è uno, se riusciamo a toglierlo
+[56:03] abbiamo una fetta di
+[56:05] giornalisti che si viene abilitata
+[56:07] senza dover apprendere
+[56:09] dei concetti di sicurazione informatica
+[56:11] quindi
+[56:13] per questo non preoccupatevi
+[56:15] proprio che questo è proprio un sito
+[56:17] non so se ha senso
+[56:19] però chi base
+[56:21] usare un'integrazione
+[56:23] con chi base
+[56:25] quello può essere comodo per le condivisioni
+[56:27] delle chiavi, è un passo successivo
+[56:29] nel senso che per adesso
+[56:31] la chiave
+[56:33] sta
+[56:35] andata da client in protetta
+[56:37] dalla tua password
+[56:39] la tua password è sciata in un modo
+[56:41] differente da quella che viene enviata a server
+[56:43] così che si utilizza
+[56:45] un meccanismo simulato di hashmail
+[56:47] ovvero il server contiene
+[56:49] un blocco cifrato
+[56:51] che tu puoi solo decifrare
+[56:53] all'interno di avere la tua chiave
+[56:55] ne possiamo parlare dopo
+[56:57] perché usi chi base
+[56:59] si e per lavoro dovrò implementare
+[57:01] usando che i bpgp
+[57:03] un sistema proprio che faccia
+[57:05] la gestione delle chiavi semplificata
+[57:07] per utenti enterprise
+[57:09] non ho comprendo
+[57:11] in verità qui non avevo mai avuto
+[57:13] problemi grossi ipotetici di gestione
+[57:15] delle chiavi perché tu sei la fonte
+[57:17] ti colleghi al nodo, ricevi le chiavi che ti servono
+[57:19] non possiamo parlare perché comunque
+[57:21] l'obiettivo è realizzare qualcosa di open
+[57:23] quindi sarebbe interessante
+[57:25] una altra domanda c'era lì mi sembra
+[57:27] posso fare un intervallo
+[57:29] ho visto qualche occhio sbarrato
+[57:31] non sono state dette un paio di cose
+[57:33] farà un'installazione
+[57:35] di globalx
+[57:37] io l'ho cercato di descrivere la prima
+[57:39] in termini operativi
+[57:41] ma in termini molto terra a terra
+[57:43] non è indossare una tunica
+[57:45] col pentolone e cominciare a girare
+[57:47] le pozioni recitando strane cose
+[57:49] voi prendete un computer
+[57:51] anche scassato che avete in casa
+[57:53] portati le golo schermo rotto
+[57:55] anche di 10 anni fa
+[57:57] ci installate sopra Ubuntu
+[57:59] un'installazione Linux che si installa con 3 click
+[58:01] dopo di che
+[58:03] vi collegate al sito
+[58:05] dove c'è il software globalx
+[58:07] copiate e incollate una linea di comando
+[58:09] sulla vostra
+[58:11] su una shell
+[58:13] scusatemi il termine
+[58:15] una finestra inanera
+[58:17] e lanciate
+[58:19] se le cose vanno come vanno
+[58:21] quando ho approvato io per la prima volta mi ha funzionato
+[58:23] e voi avete la vostra installazione
+[58:25] pronta ai massimi livelli
+[58:27] di sicurezza e sperabilmente
+[58:29] mentre avveniva
+[58:31] vi siete letti la guida e l'installazione
+[58:33] che c'è sul wiki sempre del sito
+[58:35] dove il software è distribuito
+[58:37] che magari potremmo fare anche un attimo a vedere
+[58:39] dove ci sono spiegate le cose
+[58:41] prima cose da fare anche quelle da non fare
+[58:43] tipo direi agli amici
+[58:45] io ho messo sul sito globalx
+[58:47] quello non lo dovete fare
+[58:49] evidentemente almeno se lo volete usare
+[58:51] seriamente perché il fatto che
+[58:53] ci sia il sito globalx
+[58:55] è il vostro
+[58:57] è il vostro segreto più prezioso
+[58:59] è in annulatore
+[59:01] si raggiunge soltanto così
+[59:03] se voi dite che ce l'avete
+[59:05] vuol dire che vi trovate
+[59:07] in una situazione molto particolare
+[59:09] perché siete la redazione di un giornale
+[59:11] e che vuol far sapere
+[59:13] che ha un sito globalx
+[59:15] malgrado questo potrebbe
+[59:17] non voler far sapere dove si trova
+[59:19] perché se la macchina
+[59:21] su cui si trova il sito fosse sequestrata
+[59:23] malgrado molte precauzioni
+[59:25] che sono state prese
+[59:27] potrebbero anche
+[59:29] essere carbite
+[59:31] alcune informazioni
+[59:33] ma anche no
+[59:35] se per esempio non c'è la
+[59:37] end to end encryption
+[59:39] di cui tu parli sempre
+[59:41] potrebbero essere carbite delle informazioni
+[59:43] quindi siccome la macchina non è rintracciabile
+[59:45] a priori perché non è
+[59:47] subarete internet
+[59:49] non lo dite a tutto il mondo
+[59:51] le informazioni carbibili sarebbero
+[59:53] il numero di submission che ha
+[59:55] in questo momento sul nodo
+[59:57] pur sapendo che abbiamo un meccanismo
+[59:59] che si chiama
+[60:01] auto pulizia
+[60:03] fai sabbro cifrati
+[60:05] se si utilizza
+[60:07] appunto
+[60:09] fai potrebbero non essere cifrati
+[60:11] se chi lo usa
+[60:13] anche come ricevere particolarmente
+[60:15] ingenuo e voi li lo permettete
+[60:17] per cui è bene
+[60:19] comunque non si è rintracciata
+[60:21] anche se l'esistenza del vostro nodo
+[60:23] global x è nota tutto il mondo
+[60:25] io vorrei chiedere
+[60:32] la end to end encryption
+[60:34] è implementata
+[60:36] con javascript o cosa?
+[60:38] con javascript, sì
+[60:40] dagli più dettagli
+[60:42] utilizzando la libreria
+[60:44] OpenPGPJS
+[60:46] che è una libreria
+[60:48] innovativa
+[60:50] e auditata
+[60:52] recentemente
+[60:54] con vari penetration test
+[60:56] con vari analisi di sicurezza
+[60:58] e che abbiamo valutato
+[61:00] di essere
+[61:02] un
+[61:04] adeguato
+[61:08] trade off
+[61:10] tra l'usabilità che si vuole
+[61:12] offrire e la sicurezza che si vuole ottenere
+[61:14] la seconda domanda era
+[61:16] non mi so cosa chi beisa
+[61:18] se ho che è un po' optopric
+[61:20] ma da che eravamo qui?
+[61:22] ne parli dopo con Marcello e con noi
+[61:24] ma è davvero
+[61:26] insomma che in istituzione è chiave
+[61:28] che non c'entra con global x
+[61:31] intanto avevo mostrato quello che è l'indirizzo
+[61:33] di dove si trova
+[61:35] il software global x
+[61:37] avevo messo anche la mail list global x talk
+[61:39] che è il posto
+[61:41] nel quale se voleste
+[61:43] iscrivervi a una mail list
+[61:45] in cui ogni domanda
+[61:47] ogni dubbio che avete sull'utilizzo di global x
+[61:49] visto che ora sarete
+[61:51] degli utilizzatori
+[61:53] che non hanno punti di riferimento
+[61:55] quella mail list è quella che può darvi
+[61:57] sostegno
+[61:59] noi la leggiamo quindi vi daremo supporto
+[62:01] però l'ideale è che
+[62:03] anche altre persone a esterno al progetto
+[62:05] se vogliono aiutarvi
+[62:07] possano
+[62:09] avere un unico riferimento
+[62:11] potete tenere riferimento
+[62:13] questo indirizzo
+[62:15] e trovate
+[62:17] in calce la pagina
+[62:19] riferimento alla mail list
+[62:23] quindi
+[62:28] se c'è qualche domanda c'è tempo per
+[62:32] ormai andiamo a
+[62:34] vi indico quale sanno i prossimi passi
+[62:36] che ricevete una mail
+[62:38] in cui vi indichiamo
+[62:40] l'url
+[62:42] visto che
+[62:44] non abbiamo visto un meccanismo per darvi l'url
+[62:46] questa oggi nel workshop
+[62:48] vi manderemo via mail
+[62:50] gli indirizzi con il vostro url
+[62:52] nel frattempo cambieremo la configurazione
+[62:54] così che solamente un giornalista sarebbe
+[62:56] selezionabile
+[62:58] e da lì potete provare a integrarvi
+[63:00] da lì poi
+[63:02] sta voi, sta voi riusci a
+[63:04] promovervi come un giornalista che vuole
+[63:06] incentevarne proprie fonti
+[63:08] a parlare a loro
+[63:10] chiedo scusa
+[63:12] sono arrivato un po' tardi quindi magari dico
+[63:14] faccio una domanda
+[63:16] che era alle basi proprio dell'inizio
+[63:18] della del workshop
+[63:20] mi riferisco a quello che ha detto Calamari
+[63:22] proprio all'ultimo
+[63:24] e cioè dice non dite
+[63:26] ad amici che avete un sito
+[63:28] global x
+[63:30] mi sfugge questo passaggio mentale
+[63:32] quindi magari sto dicendo una stupidaggine
+[63:34] se il meccanismo si basa
+[63:36] sul fatto che
+[63:38] una fonte
+[63:40] conosce il giornalista e si affida a quel
+[63:42] giornalista quindi come può
+[63:44] cioè perché allora
+[63:46] secretare anche e questo
+[63:48] la domanda è concettuale
+[63:50] ti siamo confusi sulla tecnologia
+[63:52] quello che non devi dire è
+[63:54] dove sta il computer
+[63:56] che fa girare il servizio
+[63:58] perché c'è una tecnologia che abbiamo spiegato
+[64:00] fosse prima che lei fosse arrivato
+[64:02] che consente di pubblicare un servizio
+[64:04] in modo anonimo quindi
+[64:06] sei accessibile da internet
+[64:08] anche da internet grazie a il meccanismo
+[64:10] che abbiamo fatto
+[64:12] ma nessuno può sapere dove sta quel computer
+[64:14] quindi non deve essere potuta dirlo
+[64:16] quindi il computer che non va detto
+[64:18] il computer fisicamente
+[64:20] però l'indrizzo è naturale che debitarlo
+[64:22] è quello che noi ti daremo
+[64:24] esattamente
+[64:26] scusate no, volevo completare
+[64:28] abbiamo fatto
+[64:30] un altro seminario dove si spiegavano
+[64:32] che il modello
+[64:34] di
+[64:36] domanda e richiesta
+[64:38] di informazioni in forma anonima
+[64:40] può essere completamente
+[64:42] dei più variati
+[64:44] e non è detto che sia questo
+[64:46] quello semplice del tipo
+[64:48] io ho un nome cognome, sono Greenwald
+[64:50] ho già fatto
+[64:52] ho già gestito
+[64:54] se avete dei problemi
+[64:56] parlate con me
+[64:58] probabilmente questo potrebbe avere un senso
+[65:00] ma io sono un illustre sconosciuto
+[65:02] però raccoglierò
+[65:04] le vostre informazioni
+[65:06] vi prometto di darle
+[65:08] di fare in modo che la giustizia sia fatta
+[65:10] eccetera eccetera
+[65:12] forse non paga tanto
+[65:14] allora per quale motivo
+[65:16] metterci la faccia
+[65:18] è una domanda, non è
+[65:20] non metteteci la faccia
+[65:22] nella vostra iniziativa
+[65:24] che solo voi inventerete e saprete
+[65:26] è utile che ci sia la mia faccia
+[65:28] probabilmente disconosciuto
+[65:30] oppure è meglio che ci sia la figura misteriosa
+[65:32] che invoglia fare qualche cosa
+[65:34] è una domanda che ti devi posere
+[65:36] la prima è evidente che non c'è problema
+[65:38] anzi tu dirai che sei te
+[65:40] ma la risposta è la seconda
+[65:42] a quel punto bisogna che tu non abbia detto
+[65:44] agli amici che hai un sito GlobalX
+[65:46] anche se non li hai detto la macchina
+[65:48] la voce si diffonderà
+[65:50] e verrà fuori che la misteriosa entità
+[65:52] che sollecita informazioni
+[65:54] sullo stato dei campi di carote
+[65:56] vicino al flume Lambrou
+[65:58] sei probabilmente te
+[66:00] anche perché l'ambito si restringe
+[66:02] e quindi alla fine
+[66:04] vedrai prima il compromesso tu
+[66:06] e poi ci sarà la possibilità
+[66:08] che vengano compromessi anche ai tuoi fonti
+[66:10] la seconda domanda invece sempre
+[66:12] riferendo nella tua frase proprio adesso
+[66:14] la giustizia è fatta
+[66:16] chiedo questa cosa semplice
+[66:18] senza aprire questo nuovo campo
+[66:20] GlobalX è usato anche
+[66:22] sono giornalista
+[66:24] però dimentico la mia
+[66:26] professione invece come cittadino
+[66:28] ci sono siti
+[66:30] diciamo di giustizia
+[66:32] cioè entità autorità
+[66:34] che invitano a questo
+[66:36] nel senso io ho visto un reato
+[66:38] un grave reato di cui ho paura
+[66:40] a raccontare per non espormi
+[66:42] problemi gravi dopo
+[66:44] c'è un sistema
+[66:46] sto rovesciando completamente alla visione
+[66:48] non esistono
+[66:50] per due motivi potrebbe essere molto problematici
+[66:52] il primo è che
+[66:54] per come funziona
+[66:56] lo stato diritto
+[66:58] quando tu vuoi denunciare un reato
+[67:00] il stato di protegge ma tu vi faremo
+[67:02] identificato ed è il segno di uno stato
+[67:04] diritto elevato che non esistono
+[67:06] denuncia anonime quindi quando parliamo
+[67:08] di segnare l'azione anonima parliamo di
+[67:10] l'ide investigativa per un giornalista
+[67:12] che fa un'attività non associata
+[67:14] alle forze dell'ordine non associata
+[67:16] al percorso di giustizia sia perché
+[67:18] non sono accettabili denuncia anonime
+[67:20] sia perché non stai
+[67:22] mandando la forza pubblica
+[67:24] sullo stimolo di
+[67:26] un dato non circostanziato
+[67:28] quindi non per questi motivi
+[67:30] esistono alcuni livelli
+[67:32] di compromesso
+[67:34] che sono ad esempio
+[67:36] l'autorità nazional anti corruzione
+[67:38] può ricevere segnalazioni
+[67:40] confidenziali ovvero
+[67:42] è protetto la connessione
+[67:44] non si sa chi l'ha effettuata
+[67:46] ma all'interno della connessione
+[67:48] puoi dimostrare che sia un dipendente pubblico
+[67:50] perché l'autorità nazional anti corruzione
+[67:52] funziona sopra i dipendenti pubblici che segnano
+[67:54] reati corruzioni interna della PA
+[67:56] e di conseguenza
+[67:58] è l'autorità che protegge il segnalante
+[68:00] e persegue il reato
+[68:02] e questo ti conosce però
+[68:04] ti protegge l'autorità
+[68:06] ma in più hanno anche un meccanismo di segnalazioni anonime
+[68:08] ovvero
+[68:10] se il dato è molto circostanziato
+[68:12] ed è associato alla pubblica amministrazione
+[68:14] possono comunque tenerlo in considerazione per fare
+[68:16] delle attività di indagile
+[68:18] ma si tratta di un'autorità specifica
+[68:20] che ha definito
+[68:22] questi
+[68:24] rispuggi la parola
+[68:26] queste condizioni
+[68:28] limite e corretto
+[68:32] si integro anche
+[68:34] in relazione erano proprio ieri
+[68:36] a discutere con l'autorità nazionale
+[68:38] anti corruzione
+[68:40] e
+[68:42] per legge è necessaria
+[68:44] questa segnalazione confidenziale
+[68:46] e non anonima
+[68:48] ma con un anonimato protetto
+[68:50] solo in relazione a
+[68:52] circa dipendenti pubblica amministrazione
+[68:56] e l'autorità nazionale anti corruzione
+[68:58] è al momento disponibile
+[69:00] a provare a offrire
+[69:02] anche altri servizi
+[69:04] accettando
+[69:06] segnalazioni anonime
+[69:08] e poi prendendoli in considerazione
+[69:10] considera che abbiamo
+[69:12] un'ultima cosa
+[69:14] noi poi siamo dimostrando
+[69:16] GlobalX facciamo questa esercitazione
+[69:18] in un contesto fortemente caratterizzato
+[69:20] che è il mondo del giornalismo
+[69:22] in realtà GlobalX
+[69:24] è soltanto un programma
+[69:26] imparagonato un po' a World Processor
+[69:28] sarebbe come se illustrassimo
+[69:30] l'uso di World Processor
+[69:32] in un contesto di scrittori di fantascienza
+[69:34] niente dietro
+[69:36] che sia usato per scrivere
+[69:38] il vostro diario
+[69:40] tanto per parlare di un'altra cosa
+[69:42] e cosa intendo con questo
+[69:44] se da una parte
+[69:46] l'uso nel processo di Whist Blowing
+[69:48] un mondo pensato
+[69:50] fonte, giornalista
+[69:52] ha subito dei problemi che abbiamo cercato di descrivere
+[69:54] questo oggetto qua può essere
+[69:56] installato per esempio in una SPI italiana
+[69:58] o americana
+[70:00] dove per leggere per potersi
+[70:02] cuotare in borsa
+[70:04] deve esistere un processo aziendale interno
+[70:06] che garantisca
+[70:08] ogni dipendente di questa società
+[70:10] di poter contattare
+[70:12] un incaricato alle indagini
+[70:14] sui malfatti
+[70:16] in maniera da non subire
+[70:18] le ritorsioni
+[70:20] la maniera più semplice di implementare una cosa del genere
+[70:22] di permettere una segnalazione anonima
+[70:24] con certe condizioni
+[70:26] perché anche qui di nuovo
+[70:28] la cosa è pensata in un ambito
+[70:30] limitato per esempio
+[70:32] una compagnia
+[70:34] il software configurabile
+[70:36] da diversi aspetti sistemistici
+[70:38] per poter essere configurato anche in questo modo
+[70:40] dove per esempio scegliere
+[70:42] le ricevente
+[70:44] in questo senso
+[70:46] tu sai semplicemente
+[70:48] che se ti dici una cosa
+[70:50] la compagnia arriverà nel posto giusto
+[70:52] appunto basta e non ti interessa
+[70:54] Giambattista?
+[70:56] Sì volevo semplicemente
+[70:58] aggiungere due considerazioni
+[71:00] in ordine da un lato le denunce anonime
+[71:02] e dall'altro
+[71:04] alla norma
+[71:06] sulle denunce
+[71:08] lato ANAC o pubblica amministrazione
+[71:10] primo punto
+[71:12] giustamente detto le denunce anonime
+[71:14] sono inutilizzabili
+[71:16] anche quando vanno ad autorità giudiziaria
+[71:18] ma in realtà vengono utilizzate
+[71:20] come notizia crimini
+[71:22] spero usare un latinorum
+[71:24] quindi in buona sostanza
+[71:26] le forze dell'ordine
+[71:28] possono indagare e indagano
+[71:30] sulla base di notizia anonime
+[71:32] normalmente è la classica lettera anonima
+[71:34] ma in questo caso
+[71:36] potrebbe essere utilizzata
+[71:38] naturalmente è molto
+[71:40] sotto questo profilo
+[71:42] è un terreno molto scivoloso
+[71:44] mettiamolo in questi termini
+[71:46] nell'ambito pubblica amministrazione
+[71:48] il
+[71:50] l'attività di
+[71:52] il blowing all'italiana
+[71:54] in questo caso dalla matriciana è stato introdotto
+[71:56] dalla legge anticorruzione
+[71:58] che però attenzione
+[72:00] non solo parla di confidenzialità
+[72:02] come giustamente stavate dicendo
+[72:04] ma è una confidenzialità condizionata
+[72:06] nel senso che
+[72:08] si tratta di notizie che possono riguardare
+[72:10] anche malversazioni dei dipendenti pubblici
+[72:12] quindi si può aprire un procedimento
+[72:14] disciplinare
+[72:16] contro il dipendente che viene accusato
+[72:18] determinati fatti
+[72:20] quel dipendente ha
+[72:22] diritto a conoscere la fonte
+[72:24] se risulta indispensabile per la sua
+[72:26] per la sua difesa
+[72:28] quindi in Italia
+[72:30] sotto questo profilo
+[72:32] sono molto interessanti
+[72:34] queste piattaforme
+[72:36] da lato pubblica amministrazione
+[72:38] ci sono alcuni profili
+[72:40] problematici però
+[72:42] certamente
+[72:44] come dite
+[72:46] è ampiamente configurabile
+[72:48] ci sono molti margini in cui le due esigenze
+[72:50] si possono contemporaneo
+[72:52] giusto per chiudere il capitolo
+[72:54] annumato ed etica
+[72:56] abbiamo avuto vari dibattiti
+[72:58] intorno a una situazione su come fosse possibile
+[73:00] descrivere
+[73:02] cosa fosse giusto
+[73:04] o costruttivo
+[73:06] cosa fosse invece di evitare
+[73:08] ovviamente il fenomeno che è evitare è quello dell'atorio
+[73:10] in cui
+[73:12] non fai altro che
+[73:14] prendere una minoranza
+[73:16] o una
+[73:18] un'affetta di popolazione più debole
+[73:20] e grazie all'azione anonime
+[73:22] non fai altro che scagliare la forza pubblica
+[73:24] contro che è avvenuto
+[73:26] in varie situazioni della storia
+[73:28] quindi era proprio il tipo di esempio che vogliamo avvitare
+[73:30] definirlo con una definizione
+[73:32] scusate giocare parole
+[73:34] non è stato facile
+[73:36] ci stiamo ancora lavorando
+[73:38] ma sinceramente siamo un po' bloccati
+[73:40] e questo è quanto
+[73:42] diciamo che in generale noi c'è come da supporto
+[73:44] a Luiste Blowin teso come
+[73:46] attività di trasparenza
+[73:48] attività come
+[73:50] giornalismo di inchiesta
+[73:52] o in generale per riuscire a avvantaggiare
+[73:54] una fetta di popolazione che può avere
+[73:56] dei problemi a riportare
+[73:58] pubblicamente i dati perché ne ha paura
+[74:00] e quindi per superare questo livello di omerità
+[74:02] da te congelare l'onimato
+[74:04] può essere un deterrente
+[74:06] a silenzio
+[74:09] se non ci sono altre domande
+[74:11] perché avevano 10 minuti
+[74:13] vorrei solamente ripetere i prossimi passi
+[74:15] che avverranno
+[74:17] che alcuni sono in mano vostra
+[74:19] e alcuni in mano nostra
+[74:21] in mano vostra c'è
+[74:23] pensare a come volete usare questo sistema
+[74:25] per farci prove
+[74:27] è un utilizzo tutto legittimo
+[74:29] ma se voleste
+[74:31] utilizzarlo come risorsa
+[74:33] per la vostra attività giornalistica
+[74:35] cercate più possibile di
+[74:37] capire chi sono
+[74:39] potenzialmente i vostri fonti
+[74:41] se guardate sul archivio streaming
+[74:43] del festival giornalismo
+[74:45] questa mattina abbia tenuto un altro workshop
+[74:47] che spiegava per l'appunto tutti i passi necessari
+[74:49] ad un'iniziativa di Whist Blowing
+[74:51] per far sì che
+[74:53] sia mantenibile, sia strutturata
+[74:55] e sia ben comunicata
+[74:57] le pezze che non sono per una scontata
+[74:59] durano in circa un'ora venti
+[75:01] si chiamava
+[75:03] proteggi
+[75:05] Newsroom Empowering
+[75:07] comunque era
+[75:09] questo oggi alle 11
+[75:11] guarda il suo programma e lo troverete già online
+[75:13] perché lo streaming è così efficiente
+[75:15] vi consiglio di guardarla prima
+[75:17] di iniziare a far la vostra comunicazione
+[75:19] verso l'esterno
+[75:21] se avete suggerimenti una necessità
+[75:23] da punto di vista di funzionalità
+[75:25] potete scriverle sulla mail list global extolk
+[75:27] oppure
+[75:29] scrivete a
+[75:31] la nostra mail di progetto
+[75:33] se avete delle cose che potete
+[75:35] più riservate
+[75:37] e riceverete da noi
+[75:39] appunto i link
+[75:41] che potrete mettere nelle vostre blog
+[75:43] in cui
+[75:45] sarà l'equivente del bottone
+[75:49] se non ci sono altre domande
+[75:51] invito solamente chi non è riuscito a cambiarla
+[75:53] sua password da venire qua
+[75:55] al di fuori della sala
+[75:57] e
+[75:59] un altro aggiungere
+[76:01] grazie a tutti
+[76:03] all'ora di attenzione

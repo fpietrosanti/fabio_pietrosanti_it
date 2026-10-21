@@ -1,0 +1,3299 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:00] Quello più in questa mezza, per questo chiesto di parlare di uno speciale prodotto su quale stiamo lavorando,
+[00:07] che siamo a GlobalX, non so se l'avete marito a nominare.
+[00:11] Comunque è un sistema che garantisciano l'immatto delle fonti, che stanno delle tue giornalistiche
+[00:17] e di conseguenza hanno dei miei sistemi che si attivano alla retatorra.
+[00:20] Anziché a spiegare questo progetto, per uscire a fare più un capello sulla questione di sicurezza
+[00:25] delle tre comunicazioni hanno un'immatto della persona che sta online,
+[00:30] questa conferenza che lo più parlerà di ha un'immatto tecnologico.
+[00:36] È più o meno quello che lo aspettavate.
+[00:38] Avete già esperienza dai usi di sistemi della un'immatto?
+[00:42] Qualcosine.
+[00:45] È buono.
+[00:46] Comunque, l'elemento più castico che si immagina della un'immatto
+[00:52] è fatto che mi presento con un approccio da nuovo differente del mio
+[00:56] quando sono in suon network, piuttosto che con sui presenti con qualche sito o persona.
+[01:02] In punto quale è?
+[01:03] I modi per compromettere l'elemento, anche da un sacco di provegge in questo modo così semplice,
+[01:07] è si analizzare la sua connessione dirette, quindi capire dove è stata etichemente lui
+[01:11] a comunicare, identificare, associare questa comunicazione alla persona reale,
+[01:15] sia riuscire a comprendere parte della sua vita,
+[01:18] che la sono di quello che lui ti racconta o,
+[01:20] piuttosto che il suo tipo di utile del computer sono in certe fasce della giornata
+[01:24] o il tipo di ricerche che fa, quindi che fa capire il suo livello culturale,
+[01:29] la sua lingua, il suo interesse principale,
+[01:32] questi elementi, che riguardano la fortilazione,
+[01:37] ovvero parlare con una persona che non è mara,
+[01:39] accoglierà dati a lui da quello che vi sta dando
+[01:41] e da farne un'idea più o meno qualsina prima di chiedere a lui.
+[01:45] Questi sono gli obiettivi di attacco che si fanno per svelare in un'identità.
+[01:50] Gli obiettivi di questa giornata qui sono proprio percorrononimo,
+[01:53] cosa non lo è.
+[01:54] Questo che non mi matta è una proprietà di sicurezza
+[01:58] che deve proiedere la restenza a certi obiettivi di attacco
+[02:01] e tutto quello che non carnici questo tipo di difesa a me è un animato,
+[02:05] è un animato debole.
+[02:06] Quindi iniziamo a identificare bene cosa sia un animato forte e cosa non lo sia.
+[02:11] L'attaccante è, si chiama un pochino che sono le minacce
+[02:29] da cui dobbiamo riuscire a proteggersi.
+[02:31] L'attaccante è quello che sta nella rete,
+[02:36] nella rete è possibile attuare la cattura del traffico,
+[02:40] l'intercettazione, quella che può finire la comunicazione,
+[02:43] un'intercettazione, c'è una comunicazione a questo punto,
+[02:46] a questo punto in ogni uno degli elementi della rete,
+[02:49] il progettatore, il passaggio e nella loro subnet
+[02:53] è possibile collezionare da quello che sta passando.
+[02:56] Di conseguenza, sia che sia un operatore nazionale
+[03:00] o un provider nazionale che sta accettando
+[03:02] tutta la rete dei suoi venti o sono anche con le parti,
+[03:05] sia che sia la vostra rete di ufficio o di casa
+[03:08] in cui c'è un sistema di intercettazione locale,
+[03:10] sono entrambi i due adversari che possono controllare
+[03:13] le vostre comunicazioni, con le vostre comunicazioni
+[03:16] conoscerà le vostre volte.
+[03:19] La soluzione a questo tipo di attacco base
+[03:22] è stata la fotografia, proprio riuscire a passare
+[03:24] che l'attaccante incettasse a curare le comunicazioni
+[03:26] perché tanto così funzionarete,
+[03:29] quindi non si può evitare che se sei nel mezzo
+[03:32] tu possa salvare i dati che si intrasse tanto,
+[03:35] però può evitare che siano legivi da lui
+[03:37] da qui si sono utilizzati perché c'è di fotografia.
+[03:40] Il primo sistema è quello che si chiama fotografia
+[03:43] che è avesse inmetrica, ovvero il segreto
+[03:46] che conosce l'utente che trasmetterà
+[03:48] il segreto che ha anche a utente,
+[03:50] quindi un appasso con una chiave binaria.
+[03:53] L'operazione questa password è divertibile
+[03:57] quindi decimbrò il dato.
+[03:59] Il problema di questo tipo di utilizzo
+[04:01] è che serve per le due personi
+[04:03] se non scambiati la chiave o il password prima.
+[04:05] Se si sono scambiati in prima di mettere la...
+[04:08] se si sono scambiati con il segreto
+[04:11] si chiama out of band,
+[04:13] cioè fuori dalla barb of transmission
+[04:16] perché se uno scambio
+[04:18] dove si è intercettando il l'attaccante
+[04:20] non c'è anche il segreto.
+[04:22] Quindi si sono odiasse la voce, odiasse altri meccanismi.
+[04:24] Non è un meccanismo portabile
+[04:26] non è un meccanismo funzionare su una rete globale.
+[04:28] Di conseguenza non è mai
+[04:30] stato utilizzato modo professionale.
+[04:33] Il meccanismo che invece ha dato
+[04:35] più robustezza e stabilità
+[04:37] e scraveità nella userline
+[04:39] è il sistema di chiave asimmetrica.
+[04:41] Ovvero,
+[04:43] il sistema è che per la figlia come RSA
+[04:45] o per le ellittiche
+[04:47] è consente di avere due coffini chiavi.
+[04:49] Voi conoscete la fotografia asimmetrica?
+[04:51] Sto per capire.
+[04:54] Sto parlando per il tuo veloce?
+[04:56] No, ok.
+[05:00] Perché se la fotografia è semmetrica
+[05:02] è che bucciare a questo punto in vista
+[05:04] perché è consentiva di
+[05:06] avere un algoritmo che con una chiave
+[05:08] potesse cifrare e con altra chiave
+[05:10] differente, immaginata insieme nella prima,
+[05:12] potesse cifrare.
+[05:14] Quindi con un lucchetto di cui una chiave
+[05:16] chiude l'altra apre.
+[05:18] In una teoreca
+[05:20] la persona a genera
+[05:22] una coppia di chiavi
+[05:24] si stavouce la chiave pubblica a tutti
+[05:26] chi usa la chiave pubblica per cifrare
+[05:28] solamente la chiave privata la poter aprire.
+[05:30] Qua la quale
+[05:32] si garantici la confidenza
+[05:34] delle comunicazioni, quindi
+[05:36] SSL, SSH, OTR
+[05:38] scambi di e-mail, cifrate
+[05:40] si basano su
+[05:42] questo tipo di autonomia, HPVS
+[05:44] di lucchetto su browser
+[05:46] su questo tipo di cifratura.
+[05:48] E questo
+[05:52] è meccanismo da qualsiasi
+[05:54] garantici la confidenza di patro
+[05:56] di una connessione, non ancora da ranimato
+[05:58] perché pure avendo una connessione illegibile
+[06:00] di questo punto, ho parlato con questo
+[06:02] conoscendo l'unità di 2 punti
+[06:04] potrei già immaginare
+[06:06] il tipo di stress
+[06:08] che possa essere, piuttosto che
+[06:10] a continui di connessione
+[06:12] possono essere estremamente specifici
+[06:14] se stai magari comunicando con un dottore
+[06:16] se vuoi forre che vuoi siamalato
+[06:18] piuttosto che, secondo me, dicono una persona
+[06:20] che si pensava non daste di frequentare
+[06:22] o che non frequentasse più
+[06:24] quindi si è specifico da fatto che
+[06:26] è anche una relazione unico.
+[06:28] Allora, se hai provato
+[06:30] con l'EUPN
+[06:33] potete usare
+[06:35] nella mano che di
+[06:37] il problema dell'unimato
+[06:39] della relazione trama
+[06:41] soggente una distrazione
+[06:43] potrebbe essere sincrono di problemi
+[06:45] più utenti, per esempio, si può usare
+[06:47] segno dell'EUPN, ma è veramente anonimo
+[06:49] un EUPN
+[06:51] un altro consertizio che possa integrare un tubo cifrato
+[06:53] ovvero una connessione
+[06:55] in cui tutte le vostre connessioni entrano
+[06:57] e anziché, raggiungere internet
+[06:59] da vostro computer
+[07:03] arriva a osservare quella quale
+[07:05] avete stabilito questo servizio EUPN
+[07:07] questo servizio inoltre ha le vostre
+[07:09] connessioni su internet. Di conseguenza
+[07:11] voi uscite su internet a nome
+[07:13] del servizio EUPN, non a nove mostra.
+[07:15] Se alcuno s'ha un'altra città
+[07:17] o il trafico, quello che vedrai
+[07:19] è un tubo cifrato, non si capisce serait
+[07:21] se voi state andando sul Facebook o a conciattare
+[07:23] se assolutamente voi fate il trafico
+[07:25] per il servizio EUPN
+[07:27] questo viene ad un servizio anonimato
+[07:29] finché
+[07:31] l'FBI non ha preso un gruppo di persone
+[07:33] che si possono passare per anonimus
+[07:35] che utilizzava un sistema di VPN
+[07:37] un giorno justamente
+[07:39] gli è per casa che stanno dicendo
+[07:41] ma come non era manonimo di usare anonimus
+[07:43] per anonimus
+[07:45] perché c'è sempre un server
+[07:47] che sta ad un servizio
+[07:49] questo servizio tu per l'ho pagato
+[07:51] fa tosta che lui ha i tuoi dati
+[07:53] ha fatto connessione
+[07:55] un canale di comunicazione contatto
+[07:57] con cui potrà intercettare
+[07:59] quello che sta uscendo anonimo il suo
+[08:01] anonimo il suo
+[08:08] allora la ricerca
+[08:10] è proseguita e ne fra tempo
+[08:12] si capiva anche che l'avversario
+[08:14] aveva un po' di potere
+[08:16] quello che si immaginava
+[08:18] se prima si analizzava solamente
+[08:20] chi potrebbe accedere al tuo trafico
+[08:22] e sobbè visto che chi vuole scoprire
+[08:24] non un anonimato potrebbe compromettere
+[08:26] e conseguente bisogna usare
+[08:28] a pensare anche le tecnologie
+[08:30] che possono resistere alla compronensione di un servizio
+[08:32] quindi si ripartono un po' di più
+[08:34] su quel tipo di
+[08:36] l'avversario che sia
+[08:38] e si capisce wa che gli avversario
+[08:40] possono essere vari
+[08:42] chi sta ingerendo tutto perché
+[08:44] è una gente privata che vuole aver
+[08:46] delle formazioni sui te
+[08:48] quali sia il tuo nemico concorrente
+[08:50] quali sia il governo cinese
+[08:52] o del mario
+[08:54] gli avversari sono vadegati
+[08:56] per uscire con una tecnologia
+[08:58] che sia più possibile utilizzabile
+[09:00] in grazie a un test
+[09:02] serve prevedere un avversario peggiore
+[09:04] come diciamo i personaggi
+[09:08] esistentografi che ti protegge
+[09:10] dalla sorella di tv di aria
+[09:12] esistentografi che ti proteggete ai governi
+[09:14] quando si dice come un metodo di sicurezza
+[09:16] con un proprio modo scientifico
+[09:18] se ti suppone l'avversario peggiore
+[09:20] o più potente quanto risorse e attribuzione
+[09:22] e
+[09:24] su questo tipo di stima
+[09:26] che si fanno le tecnologie di protezione
+[09:28] nello specifico
+[09:30] l'avversario ha convettuto con il scoprire
+[09:32] che il tente A ha interagito con
+[09:34] il tente B e può essere
+[09:36] sia un sito con un tente con un servizio
+[09:38] l'avversario può controllare la rete
+[09:40] e quindi accettare la comunicazione
+[09:42] l'avversario può prendere il controllo
+[09:44] dell'interlocutore quindi
+[09:46] essere un fito esterario
+[09:48] e cercare di
+[09:50] scoprire chi sta dietro
+[09:52] può indettare i dati fasuri da una rete
+[09:54] per riuscire magari a stimolare
+[09:56] dei comportamenti
+[09:58] della parte personanima
+[10:00] e le foglie e salve di informazioni
+[10:02] oppure
+[10:06] anche per rompere le comunicazioni
+[10:08] riusciva a scoprire tuttamente
+[10:10] chi è a che sta comunicando
+[10:12] questo fito
+[10:14] c'è qualcosa che mi sta dicendo
+[10:18] questo fito è il tipo di
+[10:20] difesi
+[10:22] possibilitati a attaccare
+[10:24] il tipo di utente comune
+[10:26] utilizza gli strumenti molto più
+[10:28] planti e semplici
+[10:30] quando soccate tecnici di animato
+[10:32] si tornano un tipo di risposte
+[10:34] o quelli che servono per proteggere di
+[10:36] in un modo che ora vedremo
+[10:38] dalla profilazione fatta dai
+[10:40] dei servizi
+[10:42] che ripropilano
+[10:44] oppure tipo di dvm
+[10:46] però
+[10:48] questo non è il vero animato
+[10:50] ma questo è il valore di utenti in rispetto
+[10:52] di fare con questi software
+[10:54] o comunque quelli che trovate
+[10:56] su www.download.com
+[10:58] molto spesso trovate
+[11:00] i meccanismi di conto scientifico
+[11:02] anche sicuro, ma sono solamente
+[11:04] una parvenza di
+[11:06] di protezione
+[11:08] uno dei tecnici
+[11:10] più tipicamente confusi con animato
+[11:12] è il duno track
+[11:14] ovvero si sa bene che
+[11:16] una buona parte del business online
+[11:18] si causa un fatto che i servizi utenti
+[11:20] con questi servizi
+[11:22] stanno studiando i vostri interessi
+[11:24] le vostre relazioni
+[11:26] e il quello di cui parlate
+[11:28] anche di riuscire a ottervi
+[11:30] nella velocità semplificata
+[11:32] o comunque una visione di internet
+[11:34] più possibile in linea
+[11:36] quello che la macchina pensa che vi interesse
+[11:38] questo ha come fatto il protrale
+[11:40] quello di creare le grosse banche dati
+[11:42] che effettivamente conoscono
+[11:44] tutte vostre abitudini
+[11:46] dei vostri interessi
+[11:48] in quel momento
+[11:50] stai interagendo con il mercato
+[11:52] perché ci studi chissà tu come cliente
+[11:54] per darti quello che tu vuoi
+[11:56] ma quando esci dal negozio
+[11:58] la tua esperienza di acquista è finita
+[12:00] invece il meccanismo che
+[12:02] avviene online
+[12:04] è che navighi considerano un negozio
+[12:06] mantieni delle informazioni
+[12:08] che significano in modo umivoco
+[12:10] navighi su un altro che fa parte
+[12:12] di scelere in queste informazioni
+[12:14] e si sta popolando il fatto che
+[12:16] è un negozio per un altro
+[12:18] quindi l'impassività
+[12:20] di questa raccolta dati
+[12:22] è di lunga maggiore
+[12:24] che fa parte non digitale
+[12:26] il Uno Track è una tecnologia
+[12:28] che dovrà teoricamente risolvere
+[12:30] questa cosa, ovvero un piccolo flag
+[12:32] che è una delle richieste
+[12:34] che i client può dire
+[12:36] non tracciarmi
+[12:38] è stata richiesta dalla
+[12:40] Federated Commission in America
+[12:42] perché c'erano porti che
+[12:44] stanno attivamente in Google, Facebook
+[12:46] Annovi, Amazon
+[12:48] eBay, è così grossa
+[12:50] che potrebbe avere delle conseguenze
+[12:52] estremamente tricolose
+[12:54] per le singolenti persone
+[12:56] e questa teoria
+[12:58] di questa tecnologia
+[13:00] teoricamente va a sedere a questo
+[13:02] però è come chiedere a chi ti sta controllando
+[13:04] questa cosa qui, non guardarla
+[13:06] non la considerare
+[13:08] ti stai fidando, ti stai fidando
+[13:10] a chi vive
+[13:12] grazie a questi dati
+[13:14] quindi c'è un dubbio
+[13:16] un po' di digitale o una certezza
+[13:18] della carnazzia che dà
+[13:20] comunque sì, se vuoi raccattare
+[13:22] stai accettando la rete
+[13:24] quello che fate lo vedete
+[13:26] ma io ho notato che ultimamente
+[13:28] se hai il Uno Track attivo
+[13:30] ti esce
+[13:32] una finestrella su alcuni siti
+[13:34] cioè gran parte dei siti
+[13:36] che ti dice ah guarda che stiamo usando
+[13:38] i cookie per questo, ti va bene
+[13:40] no, ti butta fuori dal sito
+[13:42] sì, e entra
+[13:44] ma si entra, vuol dire
+[13:46] ti ignoro il Uno Track
+[13:48] o vuol dire comunque
+[13:50] ti do il cookie, sì comunque
+[13:52] ti do il cookie, di conseguenza
+[13:54] no comunque ti traccia
+[13:56] no, questa non era mai capitata
+[13:58] no, a me è capitata parecchie volte
+[14:00] ormai
+[14:02] sì anche Google lo fa
+[14:06] è una cosa che puoi
+[14:10] sbloccare esettamente
+[14:12] quando abiti il Uno Track
+[14:14] ti faccia il polto su tutti i siti
+[14:16] sì, ma a livello di client
+[14:18] tu invi sempre il Uno Track
+[14:20] però un certo sito ti dice ah tu
+[14:22] mi hai inviato il Uno Track
+[14:24] però io ne ho bisogno
+[14:26] e io ne ho bisogno quindi attiva
+[14:28] oppure get fuck out
+[14:30] un segno di recente ha avvado un attimo
+[14:32] che ha avuto una configurazione
+[14:34] è notato che
+[14:36] con alcuni profini di Chromium
+[14:38] non puoi andare e manca troppe cose
+[14:40] nicole coglie aree sclaribili
+[14:42] però siccome ora ti manca la ciascola
+[14:44] a plugin
+[14:46] piuttosto che questi tv che non mi stanno pensando
+[14:48] quindi per sé che sia
+[14:50] una sintoma ossiglia, cioè
+[14:52] siccome stiamo andando il Uno Track
+[14:54] non ti faccio andare, però che me non chiedevo
+[14:56] l'operta di abitare i miei cookie
+[14:58] no, alcuni siti ti permettono
+[15:00] di mantenere la finestra e la
+[15:02] e quindi vai avanti e fai le più cose
+[15:04] altri proprio ti oscurano
+[15:06] il sito e ti esce
+[15:08] solo la finestrella
+[15:10] sei interessato di qui non puoi entrare
+[15:12] esatto, preoccupante
+[15:15] ah ok, come definizione
+[15:17] dell'anonimato, cioè
+[15:19] è una proprietà tecnologica
+[15:21] di una connessione, molto scaso
+[15:23] senso che l'anonimato sia una proprietà
+[15:25] della persona, senso che nel dibattito
+[15:27] pubblico quando c'è la metana
+[15:29] che si lamenta ai twitteranonimi
+[15:31] no, l'anonimato che si parla
+[15:33] quando si parla di tecnologia, è una proprietà
+[15:35] è una rossmissione di cipì
+[15:37] in cui non si è evidente che l'ha
+[15:39] messa in rete e magari non si è dov'è arrivata
+[15:41] quando si parla di
+[15:43] umani, con l'anonimato
+[15:45] non si deve considerare che il modo con cui
+[15:47] saranno tracciati
+[15:49] o attaccati sarà
+[15:51] con
+[15:53] non legato all'analisi informatiche
+[15:55] che sono più cosa sporteggersi
+[15:57] ma sarà legato al restante
+[15:59] dita di loro vita che riescono
+[16:01] a ricomplaggiare e associare
+[16:03] di un profilo reale
+[16:09] quindi niente, questa proprietà
+[16:11] consente che i dati sono giudimenti
+[16:13] del satale, che non siano accettati
+[16:15] e che il del satale non possa risalire a che emitte
+[16:19] L'utilizzo di convenziali
+[16:21] che prende i usi dell'anonimato
+[16:23] sono la protezione del
+[16:25] dato dell'emittente
+[16:27] per essere a battere l'estato
+[16:29] del confidenza etatica
+[16:31] e il sottile di comunicazione
+[16:33] ad esempio, c'è un servizio
+[16:35] che ne passa di studio
+[16:37] questa vende cos'è, il loro fusso metria
+[16:39] per il problema, no
+[16:41] però tutti quelli che hanno avuto i 100 anni
+[16:43] iniziano a riconoscerlo
+[16:45] è un problema che è un esame
+[16:47] che si fa per il domesticale
+[16:49] per la prostata
+[16:51] in pratica
+[16:53] funziona con una rotellina
+[16:55] sulla quale tu fai la P
+[16:57] e lui riesce a disegnare
+[16:59] un'onda che dimostra
+[17:01] un meccanismo per riuscire a farlo
+[17:03] fuoco, ma vai
+[17:05] perché comunque sia
+[17:07] in modo dell'altro per riuscire a misurare
+[17:09] da qualunque flusso arriva in un contenitore
+[17:11] o si muove
+[17:13] però qual'è il problema
+[17:15] se tu stai facendo un esame
+[17:17] di quale comunque già fatto di parlo
+[17:19] questo è un'informazione diservata
+[17:21] o comunque personale
+[17:23] e tu si vende lo smartphone
+[17:25] il tuo smartphone è attaccato a una wi-fi aperta
+[17:27] e chi interessa quella rete
+[17:29] con la tal modizione personale
+[17:31] senza capire il contenuto della connessione
+[17:33] solamente capendo il diservatario
+[17:35] quando si parla di tutta la riservata
+[17:37] si parla del fatto che già un diservatario
+[17:39] può essere comunque un elemento sensibile
+[17:41] e in questo caso si deve usare la connessione
+[17:43] o a una posta per far sì che
+[17:45] anche chi interessa la rete non sa
+[17:47] che tu usi costruite i servizi
+[17:51] ho un immatto serve anche
+[17:53] in tutte quelle minoranze
+[17:55] la quale
+[17:57] espressione spontanea
+[17:59] non so
+[18:01] se fai una di 70
+[18:03] e steri colore
+[18:05] il tosto che hai in texas
+[18:07] con la minoranza
+[18:09] cercare di
+[18:11] se non sei uno stato democratico
+[18:13] comunque sia
+[18:15] se non sei uno stato in cui la minoranza è tutelata
+[18:17] c'è il rischio che
+[18:19] la maggioranza destigmatizzata
+[18:21] è quello che tu hai sposto
+[18:23] in alcune istruzioni
+[18:25] di limitazione
+[18:27] il risultato è
+[18:29] che si estrimerò
+[18:31] il ordinario e il parlare
+[18:33] è un po' quello che succede
+[18:35] nei stati del sud asia
+[18:37] quando si sa del controllo
+[18:39] controllo di censura
+[18:41] per lo più sospetti culturali
+[18:43] chi non è contraria
+[18:45] chi non è d'acqua un consiglio di cultura
+[18:47] non ha accesso l'acquilo di risorse
+[18:49] non ha un immatto
+[18:51] si dà questa possibilità
+[18:53] gli utilizzatori possono essere
+[18:55] trattati da stavuto al cuore
+[18:57] di un certo tipo di sistemi
+[18:59] potrebbero poter proteggere persone
+[19:01] in l'alzabilia
+[19:03] cittadini normali
+[19:05] potrebbero poter proteggere
+[19:07] l'informatticatore connessione
+[19:09] con un flusso motore
+[19:15] svilovolato in cui alberno
+[19:17] di perché è utile un animato
+[19:19] e come si attacca un animato
+[19:21] ritorniamo su
+[19:23] come si attacca i VPN
+[19:25] i prossimi anni scorsi
+[19:27] la VPN è appunto
+[19:29] una personalizzazione di avere un noto
+[19:31] che sta fra in un servizio
+[19:33] e questo servizio può essere compromesso
+[19:35] o ad attacchi informati
+[19:37] che una cosa è l'ordine
+[19:39] va ad obbligare i stessi rivizio
+[19:41] e dice da me c'è soprattutto o se lo faccio più
+[19:43] questo è così, nel 1998
+[19:45] quando scentologi
+[19:47] aveva fatto causa a un anonymous
+[19:49] email
+[19:51] anonapenac.fi
+[19:53] è un servizio di mail anonime
+[19:55] io scrivo come avere mail
+[19:57] e tu mi dai un alias
+[19:59] e io da te posso mandare delle mail
+[20:01] con il tuo alias
+[20:03] il servizio tenia la traccia di utente
+[20:05] con la quale io sei di Robin
+[20:07] e di cui mi dico che fa solo
+[20:09] per conseguenza il giorno che hanno compromesso
+[20:11] quel server hanno capito
+[20:13] chi era avventato i nostri email
+[20:15] JAP, Javanonus Proloxi
+[20:17] era un servizio dato nel 2005
+[20:19] in Germania
+[20:21] la polizia che ci ha fatto l'attività
+[20:23] ha fatto sì che
+[20:25] il software ha utilizzato una forma di fotografia
+[20:27] più debole o che addirittura
+[20:29] avessi controllato costruttamente
+[20:31] della connessione
+[20:33] e servataggio della connessione
+[20:35] della polizia
+[20:37] e sei intercettata in questo modo
+[20:39] il concetto dei personaggi
+[20:41] che stava studiando
+[20:43] oppure di dicer di anonymous
+[20:45] che sono discoberti perché
+[20:47] i nostri anonimi in realtà usavano IDMIS
+[20:49] che ha un sistema di PM
+[20:53] ma JAP non usavano la fotografia
+[20:55] di qualunque loco
+[20:56] per scrivere un'esca compromesa
+[20:58] e che era un senso di servizio
+[21:00] allora io sono entrato nel nostro software
+[21:02] però hanno già accanto i PM
+[21:05] e sono dovuto i PM
+[21:07] non so che hai fitto due passi
+[21:09] comunque sia servito solo uno, quindi
+[21:11] di fatto che tu hai la possibilità
+[21:13] di sapere come si hanno dovuto uscita
+[21:15] quella connessione in chiaro di trascendare
+[21:17] o di integruire la fotografia
+[21:19] perché comunque sia
+[21:21] una chiave che ti aspetti sarandome
+[21:23] che in realtà è un periodo qualsitisso
+[21:25] o con 5 bit dentro dia
+[21:27] appena l'attacchi
+[21:29] la sei a rompere
+[21:31] però chi sta con una mesi passiva
+[21:33] non si accorce una carita
+[21:35] ma che è un problema la chiave
+[21:37] questo è un meccanismo in cui tu puoi
+[21:39] passare a sicurezza di una connessione
+[21:41] pure utilizzando
+[21:43] la fotografia
+[21:45] per evitare le chiave che non utilizzate
+[21:47] chi ha una modifica lo sa
+[21:49] per essere uno scuri di
+[21:51] il sovrino ragazzante
+[21:53] però semplicemente
+[21:55] ricordo già quanto si è fatto
+[21:57] non si è fatto, so che non si sono usati
+[21:59] uno di questi elementi
+[22:08] il modo in cui è comunque possibile
+[22:10] denonizzare uno scambio
+[22:12] di dati anonimo
+[22:14] il senso è tremente
+[22:16] i metadati, i metadati sono
+[22:18] quelli elementi invisivi in un file
+[22:20] che posso contenere
+[22:22] affronti in piadini
+[22:24] e le mani di migliorare
+[22:26] di conseguenza se non tolgo
+[22:28] studato dalla foto
+[22:30] può essere ricotta a migliorare
+[22:32] poi non è detto che possa
+[22:34] lavorare di tazone
+[22:36] però inizia a identificare
+[22:38] e a riconduire
+[22:40] a una persona un dato
+[22:42] per aver una serie modulcita
+[22:47] utilizzarvi l'account
+[22:49] di conseguenza
+[22:51] averassi un edizione
+[22:53] quella quale si è registrata su diversi account di facebook
+[22:55] per riuscire a avere risolto
+[22:57] delle diverse risolciali
+[22:59] che stiamo affidando
+[23:01] per avere le sue internazioni come famiglia
+[23:03] un utente per avere i gruppi di amici da scuola
+[23:05] un utente per avere i gruppi di amici del lavoro
+[23:07] così non parli
+[23:09] nessun altro a loro
+[23:11] perché vorratemi separati
+[23:13] un edizione con un edizione mail
+[23:15] Facebook comunque
+[23:17] che dietro c'era la stessa persona
+[23:20] oppure comportamenti univoci
+[23:22] per cui se condivendo
+[23:24] le persone che potano aver questo dato
+[23:26] sono due o tre di conseguenza
+[23:28] si conduce comunque sia
+[23:30] un potente online o tutta questa cosa
+[23:32] ma sono alcune persone del mondo reale
+[23:34] ora vediamo
+[23:39] un sistema di attacco all'anonamato
+[23:41] delle WPM che siamo appassite trafica analisi
+[23:43] ovvero
+[23:45] adesso l'attacco d'obiettiene che abbiamo visto
+[23:49] è che è che venga compromesso
+[23:51] in servizio quindi
+[23:53] ci sia un hacker che via il servizio
+[23:55] modifica
+[23:57] l'applicazione piuttosto che interaccettuale
+[23:59] la trattura che è uscita
+[24:01] piuttosto che le forze dell'ordine
+[24:03] che chiedono al gestorio
+[24:05] del servizio di fare delle cose
+[24:07] piuttosto che chido
+[24:09] per servizio in realtà ha stato
+[24:11] praticamente la che volevo controllare
+[24:13] e
+[24:15] però richiede sempre
+[24:17] una competentativa ovvero
+[24:19] devo fare delle modifiche all'applicazione
+[24:21] devo conoscere il sistema
+[24:23] non funziona ancora in modo scalabile
+[24:25] che
+[24:27] un po' più consumato possono realizzare
+[24:29] attacchi invece di controllo massivo
+[24:31] sono molto più scarabili
+[24:33] basta la tecnologia sola per poter controllare
+[24:35] un milionato di indenti
+[24:37] da passi di trafica analisi
+[24:39] però è applicata al servizio WPM
+[24:41] allora immaginiamo che abbiamo
+[24:43] un servizio che sta prendendo servizio WPM
+[24:45] e ha un po' di utenti in questo caso 20
+[24:47] noi stiamo controllando i server
+[24:49] che ho per lo servizio
+[24:51] vediamo 20 collezioni cibrate che arrivano
+[24:53] e inviano andati da un
+[24:55] da un client
+[24:57] da un server
+[24:59] da canale WPM a servizio WPM
+[25:01] da questo servizio WPM
+[25:05] vediamo che sono 30 commissioni in chiaro
+[25:07] di varia natura
+[25:09] chat, facebook
+[25:11] web, tipo, mail
+[25:13] commissioni che stanno scendo 30
+[25:15] quindi alcuni di questi
+[25:17] bucifrati magari avranno
+[25:19] una connessione sua stabilita
+[25:21] altri avranno 30 e avranno due
+[25:28] che vedremo
+[25:30] molto semplice l'immagine non che abbiamo
+[25:32] 20 cibrati in cui non sappiamo
+[25:34] traducere all'interno
+[25:36] e 30 sessioni anoni
+[25:38] mentre non sappiamo che ha fatto di cosa
+[25:43] noi non abbiamo accesso a server
+[25:45] ma abbiamo un controllo da reten
+[25:52] non lo identificavano, lo blocchiamo
+[25:54] stiamo sempre leggendo questi 50 plus
+[25:56] per le zone dei flussi
+[25:58] quello che vedete è ogni singolo plus
+[26:00] che può essere dei pacchetti
+[26:02] così, sì
+[26:04] che vedete, pacchetti
+[26:06] che componmo dei flussi
+[26:08] la cosa importante
+[26:10] per questo tubo di anavesi non è
+[26:12] analizzare i singoli pacchetti
+[26:14] in cui sappiamo che con tutto il protetto
+[26:16] della fotografia, quello che c'è interessa
+[26:18] è capire la forma che il singolo plus
+[26:20] ha, a singola connessione, quindi se la connessione
+[26:22] ha una forma particolare
+[26:24] che so, HGP è catelizzata da una
+[26:26] piccola richiesta iniziale
+[26:28] e una grande massa di dati ricevuti in seguito
+[26:30] mentre una chat è catelizzata
+[26:32] tanti piccoli
+[26:34] chat anche di dati
+[26:36] che in V quando si è scrivendo
+[26:38] è un arrivo costante
+[26:40] di piccoli chat anche di dati che sono
+[26:42] gli aggiornamenti della chat
+[26:44] di conseguenza, analizzando la connessione cifrata
+[26:46] guarda solamente il tempo
+[26:48] e la dimensione dei pacchetti, si può capire
+[26:50] di quello che il tipo di protocollo c'è sotto
+[26:52] però stassamente con il protocollo
+[26:54] non è ancora chiatato di cose
+[26:56] quello che dobbiamo fare è una correlazione
+[26:58] ovvero riuscire a capire quali sono
+[27:00] cioè riuscire a trovare che una connessione
+[27:02] riuscita a un tipo di forma
+[27:04] e riuscire a cercare questo tipo di
+[27:06] pattern all'interno di tutti i cifrati
+[27:08] in questo caso è un preferito trafitto
+[27:17] questo qui è, ad esempio, una connessione
+[27:19] una sequenza di connessioni
+[27:21] che è un intercetto con me
+[27:25] come cosa si sta facendo in browser
+[27:27] con cose, però mi sembra
+[27:29] che fossero un despettino
+[27:33] in navigazione web, ovvero
+[27:35] faccio un piccolo richiesta
+[27:37] un piccolo, tanto risposta
+[27:39] così probabilmente non vedi
+[27:41] che sto guardando
+[27:42] questo qui invece è un pagino
+[27:43] magari con molti contributi
+[27:44] questo qua è un pagino con meno contenuti
+[27:46] quindi quando tu fai la richiesta
+[27:48] all'interno della tua connessione
+[27:50] anche se ne vi hai parlato
+[27:52] della tua connessione
+[27:53] poco dopo potremmo risposta
+[27:55] questo tipo di pattern
+[27:57] lo si vede sia nel trafitto
+[27:59] in chiaro che si sta intercettando
+[28:01] ma non si sa a che attribuirlo
+[28:02] sia se vede anche nel trafitto cifrato
+[28:04] quindi mettendo
+[28:06] un'una di queste
+[28:08] comparando
+[28:10] il profilo
+[28:12] il profilo
+[28:18] comparando il profilo
+[28:20] delle connessioni
+[28:21] si può trovare
+[28:22] delle connessioni che sono sicuramente
+[28:24] all'interno di quello che ci tratta
+[28:26] e l'allicco dell'altro
+[28:28] che sono spiegato bene, mi sembra
+[28:32] sei capito? ah ok
+[28:34] allora la soluzione
+[28:38] che la comunità scientifica ha
+[28:40] attrapo giù, attrapo fuori da molti anni
+[28:42] sono le mixed network
+[28:44] le mixed network riescono
+[28:46] a garantire il massimo livello
+[28:48] di anonimi anche che si può fare
+[28:50] e vengono in varie salse
+[28:54] si basa sul concetto per cui
+[28:55] se si vuole essere anonimi
+[28:56] bisogna essere partito in una rete
+[28:58] e questa rete vi faccio
+[29:00] dopo che fai prestanone
+[29:01] ovvero, lascio partito in una rete di mille persone
+[29:03] come ricada in modo anonimo
+[29:05] vuol dire che io potrò
+[29:06] massimo farlo in uno di queste mille
+[29:08] se la rete è di milioni di persone
+[29:10] la possibilità che usa anonimo
+[29:13] è maggiore
+[29:15] se la rete anonimo lo usano
+[29:16] molte poche persone
+[29:19] anche se sei anonimo
+[29:20] all'interno di questa rete
+[29:21] comunque si può essere significati
+[29:24] perché l'anonimi di set
+[29:26] ovvero la quanta di persone
+[29:28] che non fatti un gruppo
+[29:29] che si mette in situazione
+[29:30] per anonimizare i propri membri
+[29:34] deve essere una sottremissione
+[29:36] per poter essere sensato
+[29:38] queste ecologiche
+[29:39] che si basano quindi
+[29:40] sulla collaborazione degli tenti
+[29:42] esiste già dagli anni 80
+[29:44] il primo mecanismo serio
+[29:46] che si è utilizzato
+[29:47] era quello degli anonimus rimele
+[29:50] ovvero
+[29:51] immaginate
+[29:53] in una rete di entità anonime
+[29:55] e di entità anonimi
+[29:57] come possavano comunicare
+[29:58] con una destinazione
+[30:00] ci fatto più uscire
+[30:01] questo servizio
+[30:02] o questo
+[30:03] o questo
+[30:04] non si servì
+[30:05] è indifferente
+[30:06] per il ritmo
+[30:07] io per me
+[30:08] c'è la possibilità di analizzare
+[30:09] a rete
+[30:10] sa che ogni utente potrebbe andare
+[30:11] su un colunque macchina
+[30:12] da colunque macchina
+[30:13] che ho rimandato
+[30:14] che ho incontrato
+[30:15] che ho incontrato
+[30:16] che ho incontrato
+[30:17] quando esce
+[30:18] è stato impossibile
+[30:19] perché iniziava la rete
+[30:20] e riconturre
+[30:21] il mittento del satario
+[30:22] e nel frattempo
+[30:23] incontra un città anonimizzata
+[30:25] in questo modo
+[30:26] avendo quindi
+[30:27] più rimbalzi
+[30:28] da vostra
+[30:29] del vostro dato
+[30:31] fatti in modo che non divenete
+[30:33] estremamente da un elemento
+[30:35] se si dipende da solo elemento
+[30:36] come andrà in le cose dvm
+[30:37] c'è un 5 punto feluro
+[30:39] c'è un elemento che si attacchi
+[30:40] un certo prometto
+[30:41] nel momento più raffili
+[30:43] a una rete
+[30:44] non c'è più un single elemento
+[30:45] supponiamo infatti
+[30:46] che ci sono meno
+[30:47] tre modi
+[30:48] anonimentazione
+[30:49] quindi io mando
+[30:51] un dato
+[30:52] al primo
+[30:53] fino a il secondo
+[30:54] secondo passa al terzo
+[30:55] e al terzo passa al destinatario
+[30:56] se
+[30:57] il
+[30:59] a essere compromesso
+[31:02] è il primo nodo
+[31:03] quello che vedrà
+[31:04] è solamente
+[31:05] io sono dato un messaggio
+[31:07] ma non c'è nel contunto
+[31:08] o nel destinatario finale
+[31:12] se mi è compromesso invece
+[31:13] il secondo
+[31:14] nodo
+[31:15] conosco che c'è un dato
+[31:17] che viene dal primo nodo
+[31:18] ma non so da chi viene
+[31:19] all'inforzionale mente
+[31:20] e se deve andare al terzo
+[31:21] non lo sa che andrà
+[31:22] insieme
+[31:23] se invece sto compromettendo
+[31:24] il terzo nodo
+[31:25] so che arrivo dentro a noi
+[31:26] ma non so
+[31:27] chi va
+[31:28] ma non sto chime dal generato
+[31:29] e la sua suezza
+[31:30] serve a compromettere
+[31:32] più di
+[31:34] almeno due nodi
+[31:35] per uscire a avere
+[31:36] dei dati
+[31:39] dei dati di analisi possibile
+[31:41] e più sono
+[31:43] tanti di un digame
+[31:44] i vittimani più difficili
+[31:45] ad averne compromessi
+[31:46] e passati
+[31:47] per poter portare i siti a tarti
+[31:49] questo richiede
+[31:50] che ci sta parlando
+[31:51] a chiedere un cembratura
+[31:52] ovvero che chi
+[31:53] deve avere un operazione
+[31:55] inoltre il dato
+[31:56] che questo consiene
+[31:57] all'ambiente finale
+[31:59] sia lungo
+[32:00] il cittimato
+[32:01] alle gioca studiato
+[32:02] allora si è creato
+[32:03] questa gratificazione
+[32:05] pensate a avere
+[32:06] un messaggio
+[32:07] un dato
+[32:08] e voi riusciamo
+[32:09] a darlo in modo anonimo
+[32:10] a descantare
+[32:11] in questo caso
+[32:13] questo è quello
+[32:14] che succedeva
+[32:15] con gli anonymous email
+[32:16] si creava un email
+[32:17] che era cifrato
+[32:18] inizialmente per il descantario
+[32:19] quello cifravo
+[32:20] per il email
+[32:22] quindi
+[32:23] l'installazione di
+[32:24] un mandino alto di email
+[32:31] cifrata con
+[32:32] la chiave dell'ultimo e-mailer
+[32:34] quello che infrariano bucito
+[32:35] questo messaggio cifrato
+[32:36] per l'ultimo e-mailer
+[32:37] lo cifravo
+[32:38] per il secondo e-mailer
+[32:39] questo messaggio cifrato
+[32:40] per il secondo e-mailer
+[32:41] lo cifravo per il primo
+[32:42] alla fine
+[32:43] ho un locco
+[32:44] di dati cifrati
+[32:45] in modo stratificato
+[32:46] quando così
+[32:47] a questo blocco
+[32:48] al primo e-mailer
+[32:49] al primo modo
+[32:50] solamente lui
+[32:51] è cittimato
+[32:52] a conoscere il contenuto
+[32:53] perché l'ho cifrato
+[32:54] per la sua chiave pubblica
+[32:55] quindi lui
+[32:56] era un portiero
+[32:57] troverà all'interno
+[32:58] un messaggio per un altro e-mailer
+[32:59] cifrato per
+[33:00] la chiave dell'altro e-mailer
+[33:02] e solamente il secondo e-mailer
+[33:03] avrà la possibilità
+[33:04] di aprirlo
+[33:05] questo modo
+[33:06] si sta conservandola
+[33:08] la riservatezza del dato
+[33:10] e si passi che in una catena
+[33:12] di nodi
+[33:13] che sta collaborando
+[33:14] con uno scopo
+[33:15] si esce
+[33:16] anche la comunicazione anonima
+[33:17] quando
+[33:18] l'e-mailer
+[33:19] esce
+[33:20] dal terzo e-mailer
+[33:21] ci sono per se le tracce
+[33:22] e per l'aspargazione
+[33:23] per una del minimo 3-HOP
+[33:25] si garantice
+[33:26] fatto che
+[33:27] anche con la contenuzione
+[33:28] di un nodo
+[33:29] non si sappia che
+[33:30] ha altre cose
+[33:31] questo qui
+[33:32] è un meccanismo
+[33:33] che ora
+[33:34] con disuso
+[33:35] era
+[33:36] è nato
+[33:37] in Nova Toto
+[33:38] una tecnologia molto semplice
+[33:39] esplicata
+[33:40] in questo bel libro online
+[33:42] e
+[33:43] avere
+[33:44] la necessità
+[33:45] per funzionare
+[33:46] di
+[33:47] avere un server di posta
+[33:48] con un dirizionale
+[33:49] dedicato
+[33:50] per
+[33:51] gestire le mette
+[33:52] e-mailer
+[33:53] quindi tu avevi
+[33:54] come dirizionale
+[33:55] e-mailer
+[33:56] un dirizionale
+[33:57] di posta
+[33:58] che si aveva dunque
+[33:59] non pudente
+[34:00] e manzica utente
+[34:01] semplicemente
+[34:02] questo proprio dichiede
+[34:03] un
+[34:04] un sistemistro dedicato
+[34:06] la volontà di farlo girare
+[34:07] la percezione di utilità
+[34:09] e
+[34:10] siccome conciano
+[34:11] queste casteristiche
+[34:12] non ci sono qualsiasi cosi
+[34:13] la regge di uno nostro e-mailer
+[34:14] è andata a Moreno
+[34:15] si è substituita
+[34:16] e in modo molto più forte
+[34:18] con la rete
+[34:20] che ho fatto
+[34:21] alcuna altra
+[34:22] in realtà
+[34:23] la rete Tor
+[34:24] che la rete
+[34:25] abbassa la tensa
+[34:26] e ti adalta la tensa
+[34:27] sono quelli
+[34:28] in cui tu comunichi un dato
+[34:29] auto contenuto
+[34:30] come un e-mailer
+[34:31] tramando
+[34:32] e poi arriva a dessinatario
+[34:33] in un po' di ore
+[34:34] perchè comunque
+[34:35] e-mailer
+[34:36] ha delle rosigenze di manda
+[34:37] o di
+[34:38] anche
+[34:39] aspettare
+[34:42] nel rivio dell'e-mailer
+[34:43] per riuscire
+[34:44] a potersi ad attacchi
+[34:45] di correlazione
+[34:46] se
+[34:47] se l'impio è immediato
+[34:48] quando un e-mailer
+[34:49] so che meravendopo
+[34:50] viene impiata
+[34:51] a un secondo e-mailer
+[34:52] più dal terzo
+[34:53] per il quarto per qui
+[34:54] poi al dessinatario
+[34:55] che analizzarete
+[34:56] vede basto tipo di
+[34:57] effetto
+[34:59] e di conseguenza
+[35:00] che collega che l'e-mailer
+[35:01] che è arrivata
+[35:02] è partita come i secondi prima
+[35:03] dal e-mailer
+[35:05] invece di e-mailer
+[35:06] tutti i tempi
+[35:07] che sono di ritardo fortesco
+[35:08] per cui accumulano un po' di e-mail
+[35:10] dopo di che le rimandano
+[35:12] in questo modo
+[35:13] questo tipo di correlazione
+[35:14] è insieme
+[35:15] però sono
+[35:16] recanonime
+[35:17] abbassa la tensa
+[35:18] che la comunicazione
+[35:19] che potete fare
+[35:20] deve essere auto contenuta
+[35:21] poi adolta la te
+[35:22] abbassa
+[35:23] in realissimo
+[35:24] l'avete all'altra tensa
+[35:25] quella abbassa la tensa
+[35:26] sono quelli che
+[35:27] analizzano le conoscenze
+[35:28] interattive
+[35:29] potete poter
+[35:30] poter un contenuto anonimo
+[35:31] avere lo metodo
+[35:32] dopo
+[35:33] dopo poco
+[35:34] e potete rinviare
+[35:35] in modo rapido
+[35:40] POR
+[35:41] questo progetto
+[35:42] nato a più
+[35:43] al torno al 2001
+[35:44] e finanziato
+[35:45] da entità
+[35:47] sia
+[35:48] accademiche che privase
+[35:51] da una decina d'anni
+[35:52] hai nato
+[35:53] un contenuto dell'arte
+[35:54] è un animato
+[35:55] perché ha utilizzato
+[35:56] un meccanismo di protezioni
+[35:57] che è arrivato
+[35:58] dal e-mailer
+[35:59] però
+[36:00] ha applicato
+[36:01] una rate di nodi
+[36:03] in cui si parte
+[36:04] in base di volta realistica
+[36:05] che dà un animato
+[36:06] alle conoscenze carattine
+[36:08] è cosa forte di torre
+[36:12] è che hanno un'unitere conoscenze tcp
+[36:14] se prima istimidiano un animato
+[36:15] come
+[36:16] gli auguri
+[36:17] gli auguri e mailer
+[36:18] hanno dedicato un protocollo solo
+[36:19] quindi le mail
+[36:20] o con framerate
+[36:21] che hanno dedicato al file sharing
+[36:23] quando sono le mitzi tcp
+[36:25] qualunque il protocollo
+[36:26] che si pica su tcp
+[36:27] che sia mail
+[36:28] che sia file sharing
+[36:29] che sia chat
+[36:30] che sia web
+[36:31] comunque hanno appizzato
+[36:33] poi, naturalmente
+[36:40] ok, con un tuzzatore di conseguenza
+[36:41] con questo concetto
+[36:44] del loco di dati cifratin
+[36:48] con tre chiavi alice
+[36:49] invia un messaggio
+[36:51] a
+[36:52] il
+[36:56] nodo R1
+[36:57] il nodo R1
+[36:58] è quello con la cave verde
+[37:00] toglie la sua data in certura
+[37:02] il caso indicato con il verde
+[37:03] non via il secondo
+[37:04] non via il terzo
+[37:05] non via il terzo
+[37:06] arriva dei scatali
+[37:10] riescono a gestire
+[37:11] per essere ritroso
+[37:13] perché c'è uno scambio di chiavi
+[37:15] tra alice e R3
+[37:16] e di conseguenza
+[37:17] impostrano R3
+[37:18] per dire
+[37:19] dopo dover rispondere
+[37:20] usando queste chiavi
+[37:21] a ritroso
+[37:22] per fare rimanere
+[37:23] il contenuto
+[37:24] c'è una rostante
+[37:29] anche allora
+[37:30] per quanto sia
+[37:32] la vete che è
+[37:33] un dirittabile
+[37:34] modo facile
+[37:35] un animato
+[37:37] più sicuro
+[37:38] ha
+[37:39] ancora le
+[37:41] anche lui
+[37:42] delle possibilità di
+[37:43] liberazione
+[37:44] che è una cosa
+[37:45] è una tecnologia
+[37:46] di conseguenza
+[37:47] più dove saremo motivato
+[37:48] prima da attaccararsi
+[37:49] da tutto il tecnologico
+[37:50] ma sopra l'umano
+[37:51] quindi dovrà correlazione
+[37:52] tra il comportamento
+[37:54] nell'abitareale
+[37:55] e il comportamento
+[37:56] della teorattività online
+[37:57] anche se ripemmo da noi
+[37:59] e questo è quello che è successo
+[38:00] per l'attunto
+[38:01] quando
+[38:02] c'erano
+[38:03] un posto un po' di passore
+[38:04] che spaccava
+[38:05] passavate sincrod
+[38:07] ma dalite
+[38:08] l'infiltrazione di una gente
+[38:09] anche se
+[38:10] le persone sono
+[38:12] quando riesci a avere
+[38:13] un centettetri trap
+[38:14] che può comunicare
+[38:15] con le persone anonime
+[38:16] da lì capire
+[38:17] dei dettagli
+[38:18] sulla loro vita
+[38:19] usciare a estringere
+[38:20] l'anonimity 7
+[38:21] perché le persone
+[38:22] che risponsono a questi dettagli
+[38:23] sono comunque poche
+[38:24] far lavoro di analisi
+[38:25] alle
+[38:26] alle spalle
+[38:27] e di riuscire a tolare
+[38:29] effettivamente
+[38:30] che la persona
+[38:31] che sta utilizzando
+[38:32] tor in verità
+[38:33] è quello che è
+[38:34] individuato
+[38:35] e da ricatturare
+[38:37] interessate
+[38:38] anche un evento
+[38:39] quando dei compiti anonimus
+[38:41] sono americani
+[38:42] che hanno
+[38:43] preso con i due nemici
+[38:44] chiede tasse
+[38:45] che è un gruppo di narcos
+[38:47] pesicani
+[38:49] in cui
+[38:50] combinaccia del tipo
+[38:51] ah, avete combinaciato
+[38:52] una persona
+[38:53] che è la parte
+[38:54] del nostro gruppo
+[38:55] allora noi
+[38:56] vi preveremo
+[38:57] le dati
+[38:58] che parlano
+[38:59] la vostra inventazione
+[39:00] se libretti i dati
+[39:01] della sua inventazione
+[39:02] le usciano
+[39:03] tutte le vostre famiglie
+[39:04] e così via
+[39:05] da lì comunque
+[39:06] hanno
+[39:07] con la pressione
+[39:10] che avrebbe le minacce
+[39:11] da parte dei
+[39:12] tuoi
+[39:13] narcotrafficanti
+[39:15] al confine
+[39:16] hanno scoperto che
+[39:17] erano queste persone qui
+[39:18] e le minacce sono finite
+[39:20] oppure anche
+[39:21] il saputo
+[39:22] il caso della
+[39:23] rossaccia a parte
+[39:24] il gruppo Lutzerk
+[39:25] che aveva un gruppo
+[39:26] varenfacchi
+[39:27] a varie funzioni
+[39:28] come lì fa
+[39:31] le FIA
+[39:33] utilizzando anche
+[39:34] gli agenti filtrati
+[39:35] e analisi di tratto
+[39:36] se veramente
+[39:37] a quel punto hanno convinto
+[39:38] a fare la
+[39:39] la spia per
+[39:40] per loro
+[39:41] e per 6 mesi
+[39:42] o forse stanno continuando
+[39:44] a fare la spia per
+[39:45] le FIA
+[39:46] qua è successo
+[39:47] uno satiruso settore
+[39:49] perché
+[39:50] in
+[39:51] un 6 mesi di analisi
+[39:53] mentre lui era anonimo
+[39:54] l'avevo spiegato
+[39:55] le vicende che hanno avuto
+[39:56] un suo amico
+[39:57] le vicende che hanno avvenute
+[39:59] a lui
+[40:00] in sua vita
+[40:01] pochi dati
+[40:02] comunque per chi c'è
+[40:03] quando sei la FIA
+[40:04] che c'è l'analisi
+[40:05] che riuscite a provare
+[40:06] e poche persone
+[40:07] avevano questa
+[40:08] la possibilità
+[40:09] di spacciare
+[40:10] quando hanno messo
+[40:11] tutto il suo controllo
+[40:12] telematico
+[40:13] queste poche persone
+[40:14] hanno visto che sono
+[40:15] un usatore
+[40:16] ed era online
+[40:17] quando c'è
+[40:18] che sapevo online
+[40:19] di conseguenza
+[40:20] una mattina
+[40:21] che sono incocati in casa
+[40:22] e li ha inventato
+[40:23] un colopatore
+[40:27] questo deve comunque
+[40:28] quando sei anonimo
+[40:29] appunto
+[40:30] è proprio un senso anonimo
+[40:31] ma se tu dai
+[40:32] i dati tuoi
+[40:34] ah
+[40:38] infatti
+[40:39] quello che c'è da far capire
+[40:40] è che
+[40:41] se davvero un loro savo
+[40:42] far attività criminali
+[40:43] non deve
+[40:44] utilizzarla un'animato
+[40:45] degli utenti
+[40:46] perché a poter
+[40:47] sfondere un'animato
+[40:48] molto
+[40:49] più a un mercato
+[40:50] molto perfidabile
+[40:52] utilizzare
+[40:53] le botnet
+[40:54] che comunque
+[40:55] vi convintute
+[40:56] hanno letto
+[40:57] sul mercato
+[41:00] sul mercato rosco
+[41:01] dell'internet
+[41:03] è un metodo
+[41:04] è un metodo inizio
+[41:06] per
+[41:08] grazie
+[41:09] quindi
+[41:10] il concetto che
+[41:11] gli strumenti
+[41:12] l'animato pubblici
+[41:13] possa favorire
+[41:14] e potrebbe essere crime
+[41:15] a poco senso
+[41:16] siccome sape crime
+[41:17] si può avere strumenti
+[41:18] in loro possesse
+[41:19] ah
+[41:29] c'erano un po' di dettacchi
+[41:30] che si sono impatti
+[41:31] su
+[41:33] facendo parte
+[41:34] da reti
+[41:35] ovvero
+[41:38] assi
+[41:39] siccome
+[41:40] non riesci
+[41:41] comunque
+[41:42] un po'
+[41:44] non lo farebbe
+[41:45] eh
+[41:46] conto che
+[41:47] sapevo potesse usare
+[41:48] una VPN
+[41:49] semplicemente
+[41:50] se avrete d'or
+[41:51] usavo VPN
+[41:52] non lo senti?
+[41:53] no
+[41:54] in caso di potere
+[41:55] in caso di potere
+[41:56] vuole essere usato
+[41:57] poteva
+[41:58] garantire
+[41:59] un massattere di
+[42:00] animati
+[42:01] di più
+[42:02] però comunque
+[42:03] sia che l'oglio
+[42:04] la VPN
+[42:05] o che l'oglio
+[42:06] non lo resti
+[42:07] però
+[42:08] comunque
+[42:09] l'oglio di più
+[42:10] con me
+[42:11] allora quello che ho riuscito a fare
+[42:12] è successo
+[42:13] allora
+[42:14] se analizzavano i trappi
+[42:15] per avere un po' di animati
+[42:16] per avere l'oglio
+[42:17] in caso di più
+[42:18] adesso
+[42:19] analizzavano i trappi
+[42:20] per non fosse stato
+[42:21] attaccato a VPN
+[42:22] diciamo questa
+[42:23] non potevano attaccarsi
+[42:25] e visto
+[42:26] però conto questo
+[42:28] già
+[42:29] Tor
+[42:30] eh
+[42:31] ah se vuoi
+[42:32] un patto di profilo
+[42:33] cioè un patto
+[42:34] di trappi
+[42:35] che sembra
+[42:36] di TDS
+[42:37] di conseguenza
+[42:38] già perché diricare
+[42:39] non devi sentire
+[42:40] guarda
+[42:41] tanto che la trova 4.3
+[42:42] ma così pensare
+[42:43] che sta andando
+[42:44] su un sito
+[42:45] con una TDS
+[42:46] potete dire che torne
+[42:47] di fare una resi legata
+[42:48] a l'utilizzo pattern
+[42:50] quindi non manda mai
+[42:51] macchettini per resi
+[42:52] come su 12 byte
+[42:53] perché la certa minima
+[42:54] è questo
+[42:55] piuttosto che
+[42:56] ha una guada con i negli
+[42:57] scambi iniziali
+[42:58] perché è stato
+[42:59] descendito con i nodi
+[43:00] e
+[43:01] ha dei pattern gratis
+[43:02] questo tipo
+[43:03] di
+[43:04] dato
+[43:05] una
+[43:06] unitità che farà
+[43:07] il sito di trappi
+[43:08] di potere avere
+[43:09] se uno in TDS
+[43:10] è una resi del trattico
+[43:11] lo fa sua VPN
+[43:12] ne ha su di rispovole
+[43:13] ma c'è una VPN
+[43:14] di torne
+[43:15] quindi se l'oro obiettivo
+[43:16] da scoprire
+[43:17] quali è tra questi 2
+[43:18] si indagano
+[43:19] o se qualcuno
+[43:20] che già è
+[43:21] sia effettivamente esperto
+[43:22] per usare un kanji
+[43:23] prato
+[43:24] e non c'è anche uno
+[43:25] che fa sé
+[43:26] magari un torne
+[43:27] che comunque sia
+[43:28] un interagimento
+[43:29] di concentrazione
+[43:30] passatezza
+[43:31] e questo comunque
+[43:32] è una stazione
+[43:33] in cui magari
+[43:34] gli indagati
+[43:35] erano una decina
+[43:36] fatta di uno
+[43:37] dito un kanji prato
+[43:38] e' già discheminante
+[43:39] per dire
+[43:41] quindi
+[43:42] capisco questo tipo
+[43:43] di ragionamento
+[43:44] perchè
+[43:45] per la volta
+[43:46] viene suggerito
+[43:47] anche la qualcuno
+[43:48] che dice
+[43:49] siccome può essere
+[43:50] ridurato
+[43:51] con una VPN
+[43:52] quindi protegge
+[43:53] tutto questo
+[43:54] un torne
+[43:55] e poi usa un torne
+[43:56] seronimo
+[43:57] però
+[43:58] appunto
+[43:59] l'anno del pensato
+[44:00] lo capisco
+[44:01] però siccome
+[44:02] tutta anche l'ASL
+[44:03] lo fa
+[44:04] quindi
+[44:05] il problema
+[44:06] è che non si fa
+[44:07] capire che è torne
+[44:08] lo che non esplica
+[44:09] ma si fa capire
+[44:10] che è un saluto al sito
+[44:11] poi il talsito
+[44:12] quals'è
+[44:13] vedete che c'è una connessione
+[44:14] che è TPS
+[44:15] però non riuscite
+[44:16] effettivamente
+[44:17] la natura
+[44:18] della tua connessione
+[44:19] assolutamente in cui
+[44:20] tutta la connessione
+[44:21] che è TPS
+[44:22] l'informazione
+[44:23] importante a capire
+[44:24] è
+[44:25] questa connessione
+[44:26] è torne
+[44:27] per ottenere
+[44:28] questa connessione
+[44:29] devi fare
+[44:30] con un canis del trappico
+[44:31] se fa un canis del trappico
+[44:32] appunto anche a VPN
+[44:33] riesce a sostrarlo
+[44:34] quindi
+[44:35] in questo modo
+[44:36] come diciamo
+[44:37] un login proxy
+[44:38] un canis
+[44:39] in più
+[44:40] proprio per consiglio
+[44:42] queste che sono lecce
+[44:43] ne crisi in attacco
+[44:48] che erano infatti
+[44:49] iniettando exploit
+[44:51] piuttosto che flash malevolo
+[44:53] piuttosto che altri meccanismi
+[44:55] a chi
+[44:56] avviva la torna
+[44:58] ovvero
+[45:00] arrivo da torna
+[45:01] esco
+[45:03] da una serie
+[45:04] da una exet node
+[45:05] sono un numero limitato di ser
+[45:07] quindi posso avere
+[45:08] questa lista di rizzi di
+[45:09] di conseguenza un serial web
+[45:10] può sapere
+[45:11] che l'utente
+[45:12] che arriva da torna
+[45:13] da chi avevi conosce
+[45:14] le eset node
+[45:15] e in questo caso
+[45:16] facevano un esempio di come
+[45:18] se l'utente arriva da torna
+[45:20] allora
+[45:21] anziché offer it in
+[45:22] in tutto
+[45:23] legittimo
+[45:24] ti offre un contenuto
+[45:25] che ti exploita
+[45:26] quindi magari
+[45:27] ad un'ora metà
+[45:28] al zero day
+[45:30] un attacchi su flash
+[45:32] o se non
+[45:34] il browser
+[45:35] siccome arrivi da torna
+[45:36] te lo mando
+[45:37] la conseguenza di quello
+[45:38] il computer
+[45:39] se non si è piaciuto
+[45:41] e un'ora ti ha provato
+[45:42] il computer
+[45:43] posso sapere quale è il rizzo
+[45:44] con la quale si è collegato
+[45:49] e questo piaconto
+[45:50] non è mesmo di exploiting
+[45:52] si è un contest radio
+[45:53] perché sono del contest
+[45:55] utilizzo
+[45:56] si è un pinteronimo
+[45:57] te lo posso andare
+[45:59] le eset node
+[46:00] anche loro
+[46:01] cioè gli elementi che ti
+[46:02] hanno diventato
+[46:03] e mettono il loro rizzo di
+[46:04] per quanto è la connessione
+[46:06] sono comunque
+[46:07] servizi che hanno
+[46:09] stata connessione in chiaro
+[46:10] sono sempre più cento
+[46:12] successo questi
+[46:14] nel 2007 che
+[46:15] per dimostrare il fatto che
+[46:17] ti usi il tasto di connessioni
+[46:19] non riservate
+[46:20] all'interno del retro torno
+[46:23] un tente ha usato una connessione
+[46:24] ciprata
+[46:27] questo
+[46:28] era naturalmente un rischio
+[46:29] un piccolo tente
+[46:30] perché gli
+[46:31] non c'è l'eset node
+[46:32] ha avuto la possibilità
+[46:33] di vedere il tratto
+[46:34] che stai ricevendo
+[46:35] e impianto
+[46:37] in questo caso
+[46:38] l'ambasciata
+[46:39] mi sembra
+[46:40] indiana
+[46:41] ha avato una direttiva
+[46:42] di tutti i suoi ambasciatori
+[46:43] di usare torpe
+[46:44] con la grazie delle mail
+[46:45] siccome
+[46:46] il fatto che
+[46:47] un ambasciatore
+[46:49] mandi un avvence
+[46:50] di questa radio
+[46:51] magari l'informazione sia
+[46:52] simile per
+[46:53] per l'ambasciata in sé
+[46:54] utilizzare torpe
+[46:55] avevo una soluzione
+[46:56] di quelle ideali
+[46:57] per
+[46:58] poter usare i compi
+[46:59] gli inviati
+[47:00] e penso
+[47:01] siccome utilizzavano
+[47:02] login e password
+[47:03] in chiaro
+[47:04] questo è piuttosto che
+[47:06] su smdv
+[47:08] senza una identificazione
+[47:09] più cifrata
+[47:12] per dimostrare
+[47:13] il suo spagliato
+[47:15] questo finandese
+[47:16] aveva messo
+[47:17] un'esistenza d'autora
+[47:18] se ha colpito il trattico
+[47:19] per le tre mesi
+[47:20] lo potete conflugare
+[47:21] le password
+[47:22] sento, ah guardate
+[47:23] sono paranoidi
+[47:24] i mastupiti
+[47:25] perché non stanno
+[47:26] cercando la connessione
+[47:27] l'unica
+[47:28] la scuzione
+[47:29] che stiega a fare
+[47:30] è che di comunque
+[47:31] una trattografia
+[47:32] L2E
+[47:33] una trattografia
+[47:34] un'esperienza
+[47:35] un'esperienza
+[47:36] che parta
+[47:37] ad un client
+[47:38] e arriva
+[47:39] al destinavario
+[47:40] In questo modo
+[47:41] sia le g-node che
+[47:42] provare
+[47:43] perché
+[47:44] il server
+[47:45] di una destinavaria
+[47:46] chi sta
+[47:47] analizzando
+[47:48] il trattico
+[47:49] del server
+[47:50] di destinazione
+[47:51] non può terciare
+[47:52] l'ultimo
+[47:53] perché
+[47:54] sapete che un punto
+[47:54] cononimo
+[47:55] potete
+[47:55] portare il modello
+[47:56] il processo
+[48:02] contenuto
+[48:03] potrebbe comunque
+[48:04] essere davanti
+[48:05] in strade
+[48:06] Dunque torre
+[48:07] in un modo interattivo, a queste piccole minoranze a cui distinghmatizzate,
+[48:12] all'etato ritalvolta, i vari regimi che hanno soltino a spendere,
+[48:17] anzi che, di ricasse solamente a sensuare,
+[48:19] internet cercano specificamente il sensuare Tor, perché Tor è utilizzato
+[48:22] quella piccola partita di persone che è proprio da fastiglia.
+[48:25] Allora, questo è per esempio di quando la Cina si è messa a mappare
+[48:30] tutti i indrizi degli servizi dei computer che sono esposti,
+[48:37] che utilizzano Tor, a partire da Tor, e appena c'è una condizione
+[48:42] basso in questi indrizi, ne è per rompire.
+[48:44] E questo è stato il segno di effetti,
+[48:47] sicuramente dalla Cina hanno certo più il risultato di Tor e Tor.
+[48:50] Però, la foto di questi redi qua, quanti autenti
+[48:54] che vivono costantemente il conflitto con questi regini,
+[48:57] è di trovare i nuovi sistemi che di conseguenza passano attenti i bridge.
+[49:02] I bridge non sono anche gli indri di servizi che fanno da Internet per la Cina,
+[49:08] Internet è il primo noto a quella fila, il Exit-Node,
+[49:13] c'è un'altra venuta.
+[49:14] Internet con l'utilità l'uscita,
+[49:17] e in questo caso, Internet dov'è essere una risorsa
+[49:23] inisteguita in modo pubblico, peccatamente,
+[49:26] sarebbe stata affadata di due anni.
+[49:28] Allora, come il risultato di condizione dei bridge,
+[49:32] si faceva sì che c'era una lista di entry-node o Tor,
+[49:36] gli utenti di richiedere avevano dato degli entry-node randomici,
+[49:40] e in questo modo c'è anche un utente post parte del governo
+[49:43] che vuole avere un po' di bridge locali,
+[49:46] ne aveva sempre pochi per volta,
+[49:49] che in cambio lo stesso, di conseguenza, si riesce in questo modo
+[49:53] a passi che rimangono segreti
+[49:56] la maggior parte di questa pubblica di entry-node.
+[50:01] Vedremo altri tipi di attacchi difese
+[50:03] per un questo momento rialcio dalla pausa da 10 minuti
+[50:05] o se non c'hanno delle domande,
+[50:07] pausa.
+[50:14] Ma tutto chiaro però, l'ora?
+[50:16] Grazie.
+[50:18] Comunque, ma ancora una collicina di slides,
+[50:20] se volete, se per presti continuo via.
+[50:23] Sì, ok.
+[50:26] Con il successo dopo, tra l'altro,
+[50:31] è che la collicina a quel punto non ha bisogno
+[50:35] ancora l'analisi del patto dei tratti, no?
+[50:38] Perché è molto oneroso in termini di risorse computerziali
+[50:43] vedere se una connessione che sembra che è TDS
+[50:46] in realtà sia Tor,
+[50:48] ossia però che è TDS,
+[50:50] richiede che tu memoria,
+[50:52] apri allo storico della connessione,
+[50:54] non hai realtà in me delì
+[50:56] avere un'unta certa consistenza di indicazione
+[50:58] che sta tenendo sé in memoria
+[51:00] quando uno è fatta la connessione,
+[51:02] devi riuscire a aspettare abbastanza
+[51:04] perché non ci siano passi così,
+[51:06] ed altrimenti sembra che inizia
+[51:08] una connessione HTTPS subito ora
+[51:10] e poi ti interrompa HTTPS
+[51:12] quando invece è un dizio legittimo per te.
+[51:15] Di conseguenza
+[51:17] non c'erano ancora meccanismi di
+[51:19] pattern analysis
+[51:23] sulle
+[51:25] connessione Tor.
+[51:27] Dopo l'uscità di Brist
+[51:28] poche mese
+[51:30] la Cina ne fanno un meccanismo attivo
+[51:32] di individuazione
+[51:34] della Cina di Tor.
+[51:37] Quindi anche se ti collegate con Bridge
+[51:39] ed era un indizio che non avevano
+[51:41] in pratica entro quindici minuti
+[51:43] da ogni connessione HTTPS
+[51:45] che non è riconosciuta
+[51:47] da i grandi faurori uccinesi
+[51:49] arriverà una connessione
+[51:51] da un connessione HTTPS
+[51:53] e questa connessione diretta
+[51:55] verifica se il conto che espone
+[51:57] HTTPS o se invece si è Tor.
+[51:59] Se è Tor, viene messo in una blacklist
+[52:01] che viene bloccato.
+[52:03] Però questo è stato uno step
+[52:05] della risposta...
+[52:07] c'è una struttata
+[52:09] perché è la prima volta che sono
+[52:11] dei meccanismi attivi
+[52:13] di indagini automatici
+[52:15] perché se in nodo con la quale c'è una connessione
+[52:17] sta dando Tor o sta dando HTTPS.
+[52:19] Da lì allora
+[52:21] la conto difesa è scalata
+[52:23] adesso si usa un sistema di obfuscamento
+[52:25] che si chiama... ho fatto con obfuscroxy
+[52:27] un sistema mechanic server
+[52:29] che non fa altro che modificare
+[52:31] il modo con cui Tor ne è trasmesso
+[52:33] così da apparire
+[52:35] altra roba
+[52:37] e incannare
+[52:39] in questi scadescioni ancora
+[52:41] i risposti di Tor.
+[52:43] Ah, quindi esattamente
+[52:45] taglia al secondo posto per uso di Tor.
+[52:47] La prima come utenti
+[52:49] corniti è l'America
+[52:51] che è la seconda d'Italia
+[52:53] La prima nazione invece come
+[52:55] percentuale pizzo
+[52:57] all'interno della sua popolazione è la rabbia saudita
+[52:59] perché anche se
+[53:01] i sauditi sono di nuovo del
+[53:05] la quanta di venti maggiore
+[53:07] viene dall'America
+[53:09] però percentualmente non è così diffuso
+[53:11] in rabbia sudita è così diffuso
+[53:13] l'Italia è ancora secondo posto
+[53:15] e chi sa perché?
+[53:17] L'avete di poposi?
+[53:19] In rabbia l'acqua è una problematia
+[53:21] Sì, persona che vi taglia
+[53:23] e ci sono molti sistemi di
+[53:25] in rabbia
+[53:27] e c'è un sistema di controllo
+[53:29] di sensuale tonografia
+[53:31] in rabbia però quelle aziendali
+[53:33] comunque fanno su finite categorizzate
+[53:35] quindi
+[53:37] sai che un secondo dirizzo di
+[53:39] Ovo Cantorostaname
+[53:41] fornisce
+[53:43] altri tipi contenuti
+[53:45] per esempio WebSense
+[53:47] che hanno categorizzato
+[53:49] con Keyword i vari contenuti
+[53:51] e così il sistemista può dire
+[53:53] potete
+[53:55] nei dipendenti
+[53:57] potete andare su skinny news
+[53:59] quel giorno
+[54:01] o se avete un'altra cosa pratto
+[54:03] c'è un'ografia mai
+[54:05] potete giocare in linee
+[54:07] potete andare a cercarli
+[54:09] a fare una prova
+[54:11] costituzione di categorizzazione
+[54:13] anche dipendenti magari
+[54:15] di come è genitresa, dicono
+[54:17] ma io voglio andare a due vogliavi
+[54:19] e quindi che sono qua
+[54:21] però questo diruso un po'
+[54:23] un po'
+[54:25] distotto e com'è
+[54:27] non sapeva di averlo anonimato
+[54:29] sapessamente fare quello che siamo a circumversion
+[54:31] cioè
+[54:33] aggiorare la censura
+[54:35] una rabbiana è sufficiente per aggiorare la censura
+[54:37] non sei che
+[54:39] mi ho utilizzata per esempio
+[54:41] questo non visite solamente
+[54:43] se sei in carina
+[54:45] che esce da un inglese
+[54:47] quindi un servizio per i dipendenti ad il vc
+[54:49] che è a pagare le lasti negli interna
+[54:51] che deve essere potente in streaming
+[54:53] e tu esci da un dipendente in inglese
+[54:55] e poi vedete un vc per le partite
+[54:57] ecco quello che fa
+[54:59] questo gg è
+[55:01] a girare un tipo di intro
+[55:03] basato su
+[55:05] nel caso della Delta
+[55:07] e tu sono dipendente e non vai sulla conografia
+[55:09] nel caso delle partite
+[55:11] tu non vedi delle partite
+[55:13] non vedi le partite
+[55:15] se puoi aggirare questa cosa
+[55:17] il tuo obiettivo non è che forse saranno molestamente
+[55:19] riuscire a
+[55:22] andare con le cantistiche giuste
+[55:24] e non viene sufficiente in questi campi
+[55:26] è sufficiente
+[55:28] e è più controllato
+[55:30] da 7 punti di scena
+[55:32] comunque toro è gratuito
+[55:34] e secondo me toro è gratuito e copo
+[55:36] è un obbio stato quello
+[55:38] di utilizzatori
+[55:43] comunque attacchia l'antato che bisogna fare
+[55:45] sulle reti dell'onato
+[55:47] l'analisi passiva è pratico all'overvista
+[55:49] ma un tipo di analisi è ancora più
+[55:51] letale e collettivo
+[55:53] ovvero supponiamo che
+[55:55] stiamo osservando
+[55:57] la retetor
+[55:59] e quindi abbiamo una media di condizioni
+[56:01] che per lo più sono fatte
+[56:03] tra server intermedi
+[56:05] e non si riesce a ricondurre
+[56:07] chi sta facendo di cose
+[56:09] però avete
+[56:11] a che
+[56:13] le connessioni riescono a vedere
+[56:15] quindi vedete le connessioni in chiaro
+[56:17] che lo restano riuscire a associare
+[56:19] a un intento reale
+[56:21] quello che bisogna fare
+[56:23] è prendere un intento reale
+[56:25] e iniziate a dire connessioni
+[56:27] chi di prima uono, poi più dell'altro
+[56:29] più dell'altro
+[56:31] in relazione a una tua chiusura
+[56:33] di una connessione ciprata
+[56:35] mai identificata
+[56:37] per la ciprata dell'utente in indagina
+[56:39] vedo che una delle connessioni ciprate
+[56:41] in una delle connessioni in chiaro
+[56:43] si interrompe
+[56:45] allora tutta la correlazione
+[56:47] quindi immaginate che c'è
+[56:49] in quel drone in cui le robe vengono analizzate
+[56:51] però a un certo punto io posso
+[56:53] vederamente togliere uno di queste persone
+[56:55] che sta comunicando dalla rete
+[56:57] la sua connessione
+[56:59] siccome è interattiva
+[57:01] se si interrompe
+[57:03] allora ho successo che lui
+[57:05] ovviamente è possibile farlo però
+[57:07] all'interno del contesto il rischio
+[57:09] si accetta ancora che
+[57:11] la sua connessione ha
+[57:13] costituto l'attacco
+[57:15] perché comunque sia se un attaccante
+[57:18] la possibilità di togliervi dalla rete
+[57:20] e tu stai usando una connessione
+[57:22] che diventa ancora a completare
+[57:28] non c'è modo per riuscire a
+[57:30] evitare che la tua
+[57:32] sparizione della rete non cause
+[57:34] che un traduzione quindi non si accorrerà
+[57:36] c'è una sorta
+[57:38] di non saperificare così poco il rischioso
+[57:40] che non è usato un problema
+[57:42] un altro meccanismo
+[57:48] avanzato per
+[57:50] sforo ai utenti anonimi
+[57:52] è quello della lessica analisis
+[57:54] ovvero
+[57:56] e siamo studiato ad un bel paper
+[57:58] in che modo
+[58:00] analizzando
+[58:02] dei testi padotti da un utente
+[58:04] identificato quindi sapere
+[58:06] quali sono i testi padotti all'ultimo anno
+[58:08] analizzarli che più nemmeno di scrivo
+[58:10] e puoi sentire l'estrazione
+[58:12] di un profilo in scrittura
+[58:14] derivato da le parole così comunmente
+[58:16] con le frasi
+[58:18] e con le elementi corrente che hai
+[58:20] una volta raccolti questi dati
+[58:22] comunque sia hai un dato
+[58:24] molto personale
+[58:26] una volta che
+[58:28] hai profilato quindi i possibutenti
+[58:30] poi faccio l'analisi per fare questa cosa
+[58:32] questo è un utente anonimi
+[58:34] se la figlia rimane pronta
+[58:36] il tipo di pattern
+[58:38] che tra sforo e utenti anonimi
+[58:40] ero stesso che tornato a pardo
+[58:42] ha identificato che questo documentanonimo
+[58:44] è accosto a quello che era fatto prima
+[58:46] anche qui non è una cosa
+[58:48] che si può risolvere la tecnologia
+[58:50] si può risolvere solamente ricordandosi
+[58:52] che una volta che sia anonimo
+[58:54] da fare il momento in poi
+[58:56] si può risolvere
+[58:58] gli ospetti artistici di te
+[59:00] che poi siamo vettodato
+[59:02] o che sia la storia del tonico
+[59:04] o quella quale poi
+[59:06] in campo o che sia
+[59:08] in tuo modo di scrivere le due
+[59:10] e il modo con le frasi
+[59:12] sono sempre le elementi di sexi d'anno
+[59:14] mi consentono di
+[59:16] ricondulli a una persona
+[59:18] la dark metto invece
+[59:21] è un uso di
+[59:23] di torra un pochino più
+[59:25] avanzato
+[59:27] per adesso che ho fatto di torra
+[59:29] ho comunque a questi demi
+[59:31] da un uscimelling come meccanismi
+[59:33] per riuscire a dare un dato
+[59:35] per poter tenere una dark metto
+[59:37] invece di ottenere un servizio anonimo
+[59:39] però che non si scappia dove sta fisicamente
+[59:41] che non si possa censurare
+[59:43] perchè non si capisce specie quale macchina è
+[59:45] che non si sape a quali tendisi quell'evento lui
+[59:47] e poi ho per questo tipo di
+[59:52] di servizio
+[59:54] cioè il protocollo d'or
+[59:56] si conosce con questo tipo di
+[59:58] di tecnologia
+[60:00] e consente di
+[60:02] con un potente di generare
+[60:04] un indirizzo
+[60:06] in quale la riga apparellmente
+[60:08] non è che Qmesh
+[60:10] che sarebbero inutilificare
+[60:12] la vostra cara pubblica
+[60:14] che poi sarebbero riuscire a
+[60:16] comunitare con voi
+[60:18] e sempre ha comunque utente di
+[60:20] crearsi dei servizi che siano
+[60:22] personali associati a una chiave che sono integriati
+[60:24] e dando un gioco a questo indirizzo
+[60:26] si può far sì che anche passare
+[60:28] con Topsi colleghino a tuo servizio
+[60:30] quindi se dite che sta sotto computer
+[60:32] c'è bisogno di V pubblico
+[60:34] di V
+[60:36] non c'è bisogno di dominio registrato
+[60:38] perché il dominio anche
+[60:40] è l'indirizzo
+[60:42] d'altra chiave
+[60:44] l'identificativo della risorsa
+[60:46] e in questa cosa è
+[60:48] per la creazione di servizi anonimi
+[60:50] con queste caratteristiche
+[61:03] un altro perché il suo per attaccare
+[61:05] per attaccare l'anonimato
+[61:07] per scoprire chi è un potente
+[61:09] che sta posendo il trasferito anonimo
+[61:11] è quello che con tutti attivi
+[61:13] il fatto che uno script flash
+[61:15] possa forzarti una connessione
+[61:17] non bastamente al proxy
+[61:19] ma che va verso un server
+[61:21] attaccante e causa che sia attaccante
+[61:23] mette uno script in flash
+[61:25] e tu utente l'anonimato
+[61:27] di sopra, lo siano di tutto browser
+[61:29] il tuo browser esegue questa connessione
+[61:31] si è attraverso al tuo proxy
+[61:35] questa connessione
+[61:37] è fatta al tuo IP di casa
+[61:39] di conseguenza tua è un altro potuto attivo
+[61:41] che riesce a generare
+[61:43] un comportamento, questo comportamento
+[61:45] di intracciare
+[61:47] altri meccanismi di tracciamento
+[61:49] si guardava sui cookie
+[61:51] cioè tu sei utente
+[61:53] non anonimo, ti ho dato un cookie
+[61:55] poi intendo le torre, mi raggiungi tramite torre
+[61:57] ce l'ho stato i tui cookie e l'ho visto di prima
+[61:59] quindi sono ancora chi sei
+[62:01] questo motivo si è capito che la connessione
+[62:03] con tutti attivi, su browser
+[62:05] è che deva una attenzione
+[62:07] della parte udente troppo elevata
+[62:09] per mantenere l'anonimo
+[62:11] per incentivare l'utente
+[62:13] di usare i torso e non il tuo proxy
+[62:15] ha sviluppato il tuo browser
+[62:17] mando che è un Firefox
+[62:19] customizzato
+[62:21] con vidaglia che è interfaceratica che serve
+[62:23] per gestire il programmatore
+[62:25] con torre, tutto quanto
+[62:27] in un source pubblico restino i partimi differenti
+[62:29] in questo modo hai già un browser
+[62:31] customizzato per non accedere a cookie
+[62:33] per risolvere gli attacchi attivi
+[62:35] che possano essere fatti
+[62:37] sulla connavigazione
+[62:39] un attacco più letale che non ho raccontato
+[62:43] in pratica serve
+[62:45] per riuscire a eseguire
+[62:47] del codice sascript
+[62:49] e riuscire a profilare
+[62:51] l'hardware del udente
+[62:53] avete visto che sono
+[62:55] le opengl, le brie di grattica
+[62:57] e queste brie di grattica
+[62:59] danno l'uspensione delle funzionalità
+[63:01] possano essere chiamate anche la browser
+[63:03] a quelle funzionalità come esempio
+[63:05] blur, piuttosto che
+[63:07] sfuma
+[63:09] piuttosto che metti la luce
+[63:11] piuttosto che fai effetti di shadow
+[63:13] queste effetti come con computati
+[63:15] dalle liberi radiografice
+[63:17] sono realizzati in hardware
+[63:19] l'attacco consiste
+[63:21] in avere un tentanonimo
+[63:23] con tutto javascript
+[63:25] javascript inizia
+[63:27] a realizzare con operazioni di
+[63:29] blurring e shadowing
+[63:31] grazie a
+[63:33] la liberia javascript canvas
+[63:35] in questo caso
+[63:37] dopo che ha generato questo tipo di
+[63:39] immagine, lo invia al server
+[63:41] che ha fatto il contenuto
+[63:43] questo anonimo, sufficiente
+[63:45] di essere generato delle immagini
+[63:47] semi-invisibili o non visibili
+[63:49] nel vostro frame principale
+[63:51] da vostro browser, queste immagini
+[63:53] vengono inviate a server
+[63:55] siccome
+[63:57] è stato scoperto che a modo con cui
+[63:59] blurring viene effettuato dipende
+[64:01] da coi grattisti che hardware
+[64:03] si fa quattra di bit
+[64:05] in donacchie differenti
+[64:07] perché in modo in cui è inventata
+[64:09] la gpu, influisce spegne
+[64:11] nel modo in cui verrà fatto
+[64:13] il blurring
+[64:15] di conseguenza riesce a capire
+[64:17] qual è l'hardware, la qualità connessione anonima
+[64:19] anche se ho dentro un
+[64:21] accidente contatto che è
+[64:23] anche stabilizzando
+[64:25] un utente mobilizzato con un cookie
+[64:27] senza cookie, con utilità
+[64:29] continuativi come flash
+[64:31] è sufficiente per uscire
+[64:33] in fronte questa motiva
+[64:35] questo motivo torna osservando
+[64:37] quando vede che viene utilizzata la canvas
+[64:39] ti dà un messaggio di warning
+[64:41] delicato così che tu capisca
+[64:43] così che tu capisca che
+[64:45] se la CIA ti sta inseguendo
+[64:47] può far attacco simile
+[64:49] in tutti gli altri casi non devo
+[64:51] preoccuparsi perché
+[64:53] è un attacco molto più teoreco
+[64:55] di pratica
+[64:57] come ti trovi dei service
+[64:59] non è
+[65:01] se tu hai un attacco più
+[65:03] che ti ingretano in coltette
+[65:05] anche nella ciboio quindi
+[65:07] sono tanti vidi
+[65:09] e in coltette in ciboio
+[65:11] non sono anche in coltette
+[65:13] ah no, non è che ti capisca
+[65:15] un ciboio, non è che ti capisca
+[65:17] un ciboio, capisco con le
+[65:19] statistiche sui ciboio
+[65:21] quello che devo fare
+[65:23] per compararlo è che
+[65:25] quando puoi con l'utilitore
+[65:27] è il ciboio che si migliora
+[65:29] in ciboio
+[65:31] quando puoi con l'utilitore
+[65:33] cerchiamo di fare un ciboio
+[65:35] che è l'utilitore che si migliora
+[65:37] in coltette
+[65:39] per i ciboio
+[65:41] si migliora in coltette
+[65:43] perchè è che non è che ti capisca
+[65:45] un ciboio
+[65:47] non è che ti capisca
+[65:49] un ciboio
+[65:51] non è che ti capisca
+[65:53] un ciboio
+[65:55] che hanno nominato ora il suo nome e il tuo,
+[65:58] perché senti un fenomeno, no?
+[65:59] No, è molto grello che vi ho preso,
+[66:01] avevo fatto un'altra situazione,
+[66:02] perché mi ha dimenticato di più,
+[66:03] però che io non ci chiude,
+[66:04] perché non avevo attenzione,
+[66:05] quindi mi ha dimenticato di mirare
+[66:07] queste immagini.
+[66:08] Ah no, non è così per l'alto,
+[66:10] di più o se così tanto,
+[66:11] per cui l'imagine si sente diversi.
+[66:15] Hanno fatto le vedi che ricercano,
+[66:17] un'altra, un'altra cosa
+[66:19] che tu hai detto in questo tipo di,
+[66:20] in fronte all'altro,
+[66:22] è che
+[66:24] con l'immagine
+[66:26] nero pesa molto di meia.
+[66:28] Per questo motivo,
+[66:29] c'è una macchina,
+[66:30] ma per l'altro è un primo vincettario.
+[66:31] Questo è che si va con le d'assommate di cui,
+[66:33] e quindi riesci a fare un'inversione
+[66:35] di ingressione
+[66:36] che ne incontra un altro.
+[66:39] Alguieni di questa ingressione
+[66:42] sono artistici
+[66:44] da una macchina,
+[66:46] una macchina di macchina.
+[66:47] Quindi, ma quando si vede
+[66:49] un po' di macchina,
+[66:50] riesci a estraplare
+[66:52] ancora le sue fibre carteristiche
+[66:54] per essere le vittime sindicate
+[66:56] della comprensione
+[66:57] con un compilere comprensionale ottico.
+[67:00] E riesci a farne lo comprensionato con lui.
+[67:02] La protezione che c'è
+[67:03] è far passare un libero
+[67:05] di tutto,
+[67:06] di tutto questo che
+[67:07] il dimensionamento,
+[67:08] di tutto questo che di
+[67:09] ritorco da l'umosità.
+[67:11] Già ho un tipo di applicazione
+[67:13] di un sestato di ritorco
+[67:15] che riesce a versare
+[67:16] con tutto quasi un alterato.
+[67:18] Però
+[67:19] i vittime sindicativi,
+[67:21] gli elementi siano apprezzati
+[67:23] da manave sissi delle contesti.
+[67:25] Se non c'è la tua macchina,
+[67:27] il tuo alterato diretto
+[67:29] viene analizzato
+[67:31] dei batteri carteristici
+[67:33] dell'Azure,
+[67:34] già possono stare.
+[67:37] Per trovare di forza di questo quale
+[67:39] mi sembra che devi cercare
+[67:41] fotocamera,
+[67:42] artwork,
+[67:43] film,
+[67:44] di ursi.
+[67:45] In un caso della fotocamera,
+[67:46] poi spesso ci sono i dati exit
+[67:48] ma in alcuni casi,
+[67:50] io so,
+[67:51] anche probabilmente li tolgono,
+[67:52] gli exit.
+[67:53] Però,
+[67:54] non c'è tutto il filo di inventare
+[67:55] il modo in cui
+[67:57] la compressione gettegna
+[67:59] viene applicata
+[68:01] a certi difficili,
+[68:02] a meno esplicito di
+[68:04] un certo corpus di immaginalizzare
+[68:06] però intanto si riuscite a togliere
+[68:08] a rincarciare davvero
+[68:09] un elemento
+[68:10] molto intensificativo che era
+[68:12] un exit per non so,
+[68:14] tra l'altro se
+[68:18] in un modo di spesso non so
+[68:20] non c'è una talia tess
+[68:22] che è una fotografica.
+[68:23] Alcune,
+[68:24] anzi,
+[68:25] con le lead dei telefonini,
+[68:27] sono talmente simpatici
+[68:29] e io le adoro
+[68:30] perché alcune volte
+[68:31] lasciano anche la geolocation dentro.
+[68:33] Quindi,
+[68:34] sai esattamente la foto
+[68:35] quando è stata presa,
+[68:36] con cosa è stata presa,
+[68:38] magari anche la posizione
+[68:40] GDS esatta
+[68:42] e tutto quello.
+[68:44] Sì, sì, sì.
+[68:46] Ma questo GDS
+[68:47] diventa un tutto abilitato
+[68:49] o può anche venire in modo
+[68:51] dipendente da questa...
+[68:53] mi sa che anche alcune
+[68:55] fotocamere c'hanno il GDS
+[68:57] però non vorrei sbagliarmi.
+[69:03] Quindi,
+[69:04] gli exit sono devastanti.
+[69:06] Però gli exit
+[69:07] è una quantità di dati
+[69:09] che, volendo,
+[69:10] le coglia comunque sono
+[69:11] stutturetati
+[69:13] e di quanto loro
+[69:14] la foto non sta neanche
+[69:15] le fotocamere
+[69:16] e le coglia in un tempo
+[69:17] di migliore, quasi.
+[69:18] E, certo, con questo entrenamento
+[69:19] non lo fa
+[69:20] o, dipendere,
+[69:21] non altresse tutto lo fa.
+[69:23] Però quello che notavo
+[69:24] dell'antica applet hardware
+[69:26] che sta comunque
+[69:27] un po'
+[69:28] se lo manco
+[69:29] se non lo cerca
+[69:30] è come si riesce
+[69:32] ad indicare
+[69:33] una...
+[69:34] un amparecchio reale
+[69:36] di tutto funzionatore
+[69:37] che, in tutto caso,
+[69:38] è usare anche i contuali
+[69:40] da fare le emozioni.
+[69:41] Il GDS
+[69:42] non lo farà con le vincite
+[69:44] in programmi che
+[69:45] integra la relazione
+[69:46] in mani che vede come fare i robot
+[69:48] e ogni volta che sono un appletto
+[69:50] di la complicità fotografica
+[69:52] questo programma che migliora
+[69:53] il giorno deve ränvere
+[69:54] è stato aggiunto
+[69:55] il supporto del robot
+[69:57] di questo modello
+[69:58] che è gewe di un appletto
+[69:59] che non è encourages
+[70:00] e che possiede un ISO
+[70:01] indatà per dire
+[70:04] che questo è un appletto
+[70:05] del modello
+[70:06] con il modello
+[70:07] dismenso
+[70:09] Sì, sottotitoli.
+[70:10] La settimana
+[70:11] c'è giusto
+[70:12] il supporto del modello
+[70:13] di questo modello
+[70:14] per un modello che è appena uscito su un'artea, per cui perché ogni modello con il nostro impatte hanno l'oro di venerdì sotto il tuo lato.
+[70:23] Sì, il capito del peroro, io lo conosco un po' in dettaglio, so che ai pure delle macchine comunque ci cambiano i pure già in un motocompresso,
+[70:33] perché sia più vestito del tente e questo è un po' un passo di compressione che incollata il tempo direttamente al tuo lato.
+[70:45] C'è però il uso del peroro che lo conosco in dettaglio.
+[70:49] Ma è possibile identificare che ne so, con una fotocamera semplicemente con, diciamo, i5 RAW, però senza i dati exit diciamo.
+[70:59] Dovrebbe essere relativo e legato di qualche modo al cipi del sensore.
+[71:05] Guarda i dettagli su quello che lascia più l'impronta poi alla lista, non me ne ricordo.
+[71:14] So che comunque sono un po' attenato.
+[71:19] Magari si nota che c'è un comportamento particolare su alcuni sucumature.
+[71:24] Questo tipo di comportamento è quello che poi dà le tristecchiani visibili, al finuto visibilizzati.
+[71:30] Però è un tipo di ricerca un po' in dettaglio che si chiama how to finger printing e bisogna indicare il tempo di indicare.
+[71:42] Quindi questo di servire per postati come c'è, come c'è il services.
+[71:47] Quindi come è possibile instavire una comune che ha un anima, con un server che non ci dò istrò.
+[71:55] Bob, il nostro service ha un circuito.
+[72:02] Ho però una connessione con tre elementi anonimi.
+[72:07] Con questo anima con tre servizi della rete.
+[72:11] Quindi dice, guarda che io sono questo service.
+[72:16] Stio Gisper sempre in modo anonimo tramite questo introdacco di bonnet, quindi dei servizi di introduzione.
+[72:21] Qui dirà che questi servizi di introduzione sono un nuovo service su una macchiave.
+[72:26] Siccome la scelta in modo random, scolesterà un modo anonimo,
+[72:29] la garanzia per cui non posso su tutti quanti compromessi e che a menù gli pubblicherà il fatto di uscire un database.
+[72:38] Il database ha un punto conosciuto da Alice.
+[72:42] Il database si è intralentato dalla retorna.
+[72:44] Possibilmente quando Alice raggiunge la retorna, lo raggiunge in modo anonimo.
+[72:47] Si può sapere che Alice sta saccando quali del service specifico.
+[72:50] Da lì riesce a sapere che esiste la chiave di Bob,
+[72:57] che quindi inizio effettivamente associato a una chiave reale.
+[73:01] E cercherà un random moment, un punto che questo è vera per potersi con Bob.
+[73:07] E di là ha un punto.
+[73:09] Guarda con gli contrami con una persona che ha cattivate ristiche.
+[73:12] Questa chiave è la nostra chiave temporanea, questa chiave è sui 10.
+[73:16] No, non lo posso dire.
+[73:18] Questa chiave temporanea è la sua.
+[73:20] Lo comunica il database con le chiave reale di Bob.
+[73:26] Traviste un tutto printolato di point, riesce a far arrivare a Bob
+[73:30] la notizia è fatta che sta aspettando una professione sul random di Bob.
+[73:34] Bob è giusta con la professione sul random di Bob
+[73:38] e il punto è un modo anonimo scelto dal rinaldo che vede in un periodo anonimo.
+[73:42] Bob lo aggiunge in modo anonimo, alizia lo usi in modo anonimo,
+[73:46] alizia e Bob sul sistema che si è in contatto,
+[73:48] pur evitando che alizia conoscesse dei dati differenti dalla chiave di Bob
+[73:54] e così tutt'è una condizione anonima.
+[73:58] Il problema è dal giro.
+[74:04] Il problema principale del usare del service è comparato solamente con chi usatora.
+[74:09] L'ereti hanno un valore in pari ai quadrati dei propri nodi.
+[74:15] Più sono grandi ereti,
+[74:17] qui c'è possibilità che una persona si attratta da questa retta
+[74:21] perché è più la possibilità di trovare dei suoi conosceni.
+[74:24] La differenza tra Facebook e il giro che è nascito dopo domani.
+[74:28] In quello che è nascito dopo domani non c'è nessuno
+[74:31] e uno è disintibrato a rischivarsi.
+[74:34] Il motivo per cui il leader di mercato di plastiche di aggregazione
+[74:40] poi tenda a diventare semplicemente monopolista
+[74:43] è che più uno ti hai, più possibilità di uno abbia altri
+[74:46] perché hai bisogno di offrire ai tuoi futuri clienti,
+[74:49] non è un subito sull'Network.
+[74:51] Ma il subito sull'Network come tutto è molto interessa.
+[74:55] Il problema del dettono è che l'utilizzato
+[74:58] quello più ovviamente che fanno trafficoli in uscita
+[75:01] non che fanno servizi.
+[75:03] Non è di conseguenza la causa che i meno utenti
+[75:06] insistono clientor per utilizzare questi servizi
+[75:09] e meno clientor ci sono o meno servizi sangue al futuro.
+[75:14] Quindi è un pochino il limite che c'è,
+[75:17] che c'è della tricostattuizione.
+[75:20] Il vantaggio è che gli servi sono un'anitraggiabile
+[75:23] non si può sapere chi si collega.
+[75:25] Ogni connessione è anche riservata e garantita
+[75:28] da uno tuturista e non è censurabile
+[75:30] il motivo che lo sta.
+[75:42] Quindi, con il riservato di sapatetta,
+[75:43] hanno rimatato dei cambi di elementi.
+[75:45] La comunicazione di serva,
+[75:46] perché in questo momento le autenticazioni
+[75:48] hanno un problema che le risotto
+[75:50] sono intercettivili da certificati SSL.
+[75:52] La comunicazione è la proprietà
+[75:54] per cui, quando con leico con un cartassi.it
+[75:57] ho certezza che si è cartassi
+[75:59] e non siamo officiali,
+[76:00] quindi sta dando un sito fasullo.
+[76:02] Il certificato che loro hanno
+[76:04] gli è stato dato una certification authority,
+[76:06] ovvero queste aziende che hanno
+[76:08] come l'unico stopo di verificare che
+[76:10] a te, a quale dò l'indirizzo
+[76:12] il certificato cartassi.it
+[76:14] tu sei davvero come persona
+[76:16] che lavora in cartassi e che ha
+[76:18] interessato il dominio cartassi.it
+[76:20] e che sei quello che dice di essere.
+[76:22] No, no, in qualche modo
+[76:24] svolgono questo volto di notai, di garanti,
+[76:26] per cui, se emettono
+[76:28] un certificato firmato da loro,
+[76:30] allora tu devi darti in modo automatico
+[76:32] che
+[76:34] che mi intente
+[76:36] cioè, il tutto interromputo o regalo
+[76:38] che dice di essere.
+[76:40] Qua stanno bene, finché 2 anni fa
+[76:42] non ho riuscito a compromettere
+[76:44] il certificato authority.
+[76:46] Quindi, come comodo, come global sign
+[76:48] o
+[76:50] non ricordo quali altre ci utilizzano
+[76:52] torti, poto stare che la forza di
+[76:54] il certificato authority è
+[76:56] essere delle chiavi pubiche
+[76:58] harco date di default nei browser
+[77:00] in questo modo, se tu sei parte
+[77:02] di questa piccola lobby che ha
+[77:04] certamente, che inutente
+[77:06] che non ha mai avuto, fa niente fotografia
+[77:08] ha dato un sito
+[77:10] cattocertificato
+[77:12] avrà notizia che al suo sito è sicuro
+[77:14] quindi tu potrai fare il business
+[77:16] che potrebbe essere disposto a pagare qualcosa
+[77:18] perché le persone che hanno
+[77:20] le certificato authority
+[77:22] finono certificati
+[77:24] così come funzionare quelle modelle di mercato.
+[77:26] Votro sta che
+[77:28] il certificato authority è sempre una azienda
+[77:30] sempre una unità telematica
+[77:32] è sempre comunque una chiave
+[77:34] che tu lo possa caccare con questa cartografia
+[77:36] tu puoi uscire a rubarla, tu puoi uscire a comprometterla
+[77:38] vuoi dire che c'è
+[77:40] un single point of failure
+[77:42] che può andare a far cadere
+[77:44] l'unico elemento di garanzia che tu hai
+[77:46] può poter dire, visto poi vivendo con una carta
+[77:48] sì e da una carta sì.
+[77:50] Nel caso di tor
+[77:52] questo è dato al protogloro stesso
+[77:54] l'indirizzo si riporta una chiave
+[77:56] la chiave serve a comunicare in modo conservato
+[77:58] sia per avere l'authenticazione del mittente
+[78:00] quindi
+[78:02] da un secondo punto di vista risolve il problema di assistele
+[78:04] perché
+[78:06] ti garantici una
+[78:08] notificazione senza avere
+[78:10] una trassa di parti
+[78:12] e più il fatto che tu possa esporti
+[78:14] in un suo servizio TCP
+[78:16] quindi la mia portata 80, la spongo in coste in diritto
+[78:18] la portata 25, la spongo in coste in diritto
+[78:20] fai in modo che tu ti spendo story
+[78:22] e si mette in un servizio quello che hai deciso
+[78:24] a un'unità che telematica si possa
+[78:26] portare a un servizio
+[78:28] e quindi si basa sul fatto che un solo server
+[78:30] offre più servizi
+[78:32] quindi voglio attaccarvi un web
+[78:34] ma con la web devo scantare
+[78:36] proprio che c'è poste
+[78:38] proprio che ci sono altre
+[78:40] altre cose sposte
+[78:42] posso utilitare degli exploit
+[78:44] e violare questo questo server da lì
+[78:46] ad avere al promesso quello che mi è interessato
+[78:48] in questo modo riesci invece a assistire
+[78:50] il tiro
+[78:52] quindi ogni volta
+[78:54] come è scosso un nome
+[78:56] cioè
+[78:58] un nome casuale e puntomino
+[79:00] però noi abbiamo preso la setpoint
+[79:02] no no
+[79:04] non hai le le
+[79:06] non hai le le le
+[79:08] però ogni forza
+[79:10] per cui funziona la configurazione
+[79:12] tu decidi un tuo ostro local
+[79:14] o della tua subnet
+[79:16] e nell'alto del produttore
+[79:18] dici ora creami un interservice
+[79:20] che riporti a questo tipo di questa porta
+[79:22] la tua directory
+[79:24] per te per questo interservice è
+[79:26] x
+[79:28] poi tu hai che fare una sola direttiva
+[79:30] che è ora che noi interservice che vada
+[79:32] un interservice alla tua porta
+[79:34] la tua direttore è y
+[79:36] poi la tua parte guarda il mix e y
+[79:38] se trova la chiave
+[79:40] vuol dire che il interservice
+[79:42] si stava già
+[79:44] se non la trova genera una chiave
+[79:46] quindi da poi le piene uno straneio
+[79:48] e la registra
+[79:50] poi tu darai queste due interizi
+[79:52] e il punto che ha fatto che la macchina è la stessa
+[79:54] però ogni connessione
+[79:56] che entra intorno è una
+[79:58] no perché quando fanno delle connessioni
+[80:00] e hanno un bel davvero circuit
+[80:02] il circuit
+[80:04] è
+[80:06] una connessione di loro anonima
+[80:08] quindi questa qui sono 3 op
+[80:10] che saltano
+[80:12] il punto di ingresso può essere lo stesso
+[80:14] o può essere anche diverso
+[80:16] costante quando arriva l'RSP
+[80:18] non si sa di
+[80:20] le stesse quindi non c'è con relazione
+[80:22] ah
+[80:27] ho finito
+[80:29] qui c'è un pò di bibliografia
+[80:31] se non siete un pò stramati
+[80:33] qui posso parlare di gola d'alixie
+[80:35] c'è un pò di scuola
+[80:37] un pò di scuola
+[80:39] un pò di scuola
+[80:41] un pò di scuola
+[80:43] un pò di scuola
+[80:45] un pò di scuola
+[80:47] un pò di scuola
+[80:49] un pò di scuola
+[80:51] un pò di scuola
+[80:53] un pò di scuola
+[80:55] un pò di scuola
+[80:57] un pò di scuola
+[80:59] un pò di scuola
+[81:01] un pò di su manufactured
+[81:03] una no
+[81:04] un pò di los realistic
+[81:06] connessione
+[81:08] un pò di cemento
+[81:10] e una no
+[81:12] stassachela
+[81:14] brillo
+[81:15] promotissa
+[81:18] multifilale
+[81:19] e adesso ti dà più possibilità di farsi che a prendere la connessione che tenga dal
+[81:27] sindrizzo. Può essere da aiuto. Ho detto che ogni volta chiude il browser, comunque ti
+[81:35] cambi tutti i lifi puoi così e qui. Volevo dire che se non volevo farlo oggi, si,
+[81:42] a ogni page ha visitato e volete cambiarla. Però è una cosa per cui non apprezzo ancora
+[81:47] una reale esigenza perché non ci sono attacchi in grado di memorizzare o di capire proprio
+[81:55] da una persona anche la descrizione e l'intera connessione, c'è un'intera navigazione senza
+[81:59] che si chiama identità. Comunque si fa una connessione anonima, non dà i modi automatici
+[82:06] o i dati personali, il modo accessivo. Quindi non è che... Quello che ti rende
+[82:14] più spesso è sposto è quello che tu dici te, quindi che tu stai cambiando
+[82:18] costantemente o che non la cambi comunque sia che stai squelendo lo quello che hai detto
+[82:22] oppure quello che è in vimodo inconsapevole perché lo fa il tutto già script che perché
+[82:29] lo fa uno script che si sta arrivando sulla macchina. Quindi alla fronte di attacchi che
+[82:33] ti viene portata ad un animato non è col cambio di frequente che avviene la posizione
+[82:39] maggiore però non lo ti nega di far, non lo ti piaci di farlo perché lo stai
+[83:19] ci si chiede le volte qualunque sia possibile che un'organizzazione possa mettere una grada
+[83:25] con la di macchine a mazzone, voglio dire ora inizio a parlare il 5% di exit nod e quindi
+[83:32] l'intercetto il 5% è stato di uscita. È possibile... Non è qua successo, si sa
+[83:40] più o meno quando uno può sapere tanti exit nod perché comparte un'organizzazione
+[83:45] con un server che promvede l'esservizio di gestire dei sindatori, ma la cercherei
+[83:50] di mantenere le pizzerie come adotta il due server e chi gestisceonto server che
+[83:59] tanti exit nod, quindi non è legato a questo tipo di scopi di soldi, di exit nod che nascono
+[84:04] sono molto più quantitati di exit nod che sono molto più quantitati da essere retidense
+[84:08] da loro, non di contigui, non sono dei papp che possono farlo immaginare con closing
+[84:16] Anche se fosse possibile, sei comunque cercando di cattuare la piccola percentuale di dati
+[84:23] in armi della rete.
+[84:24] E c'è una stanza?
+[84:25] Sì, siccome io sto facendo l'exit di una volta, perché esito quello che c'è una volta
+[84:35] durante un due anni fa, e c'è un punto, in due ore sono a due ore e sono a due ore
+[84:43] che sono scesi.
+[84:44] Questo fosse un test di qualche tipo di organizzazione che volevo cercare di prendere una parte di
+[84:50] il tratto del Tor, creando ExitNode.
+[84:53] Quest'ultima ExitNode ha i suchimitichi solamente con l'entuand encryption, cioè c'è un
+[84:59] prodotto per il distratario, anche dentro del cattimo di ginura, non sa che l'ha fatto.
+[85:04] L'amianza che a qualcun maggi, cioè il controllo sarà entuand, che è ExitNode, certamente
+[85:09] non ho mai visto nessun tipo di vappe, anche le possa far pensare, e sono costanti, non
+[85:14] dico, per cui temo che la percentuale di circuiti che si esporre, se lo avrò.
+[85:20] Cosa si dice?
+[85:21] C'è l'acqua o l'acqua?
+[85:22] Eh, il punto è che la grittografia e l'amianato non possano prodeggiare tutto, fanno sì
+[85:33] che l'attacante va spendere molti di tutto.
+[85:36] E questo è un attacante, se cercando di controllare qualcuno che sta vedendo la connessione cifrata,
+[85:43] è già meno costoso utilizzare un Trojan.
+[85:45] Quindi io riuscivo a utilizzare un Trojan, ho fatto un profilo e ho comprato la tua macchina,
+[85:48] e da lì ho fatto la connessione cifrata, l'anomima, è come se fossero su quanto spalla la colpa.
+[85:53] Non è tanto costoso, perché vuoi iniziare a vendere la mischia, la mischia più disperse,
+[86:00] che tu paghi, sono utile, che può essere qualsiasi, il tuo gio vai a tirare,
+[86:08] che dà al tipo 40 kb di cilio, a kilo orto si corpugia da l'alto, a l'alto, a l'alto,
+[86:15] e quindi non hai capito che questo potrebbe essere.
+[86:19] Se pensi all'entri, all'entri deve essere una suona tipica se non una persona sta usando
+[86:25] una connessione ognuna.
+[86:27] Se tu hai entri exit, puoi riuscire a dire questa persona ha fatto questa cosa,
+[86:32] ma per riuscire a sessente che exit, cosendo che vi sceglie il clio è glutente,
+[86:37] qual è l'entri e qual è l'exit, riuscire a randomidamente.
+[86:40] Devi avere tantissimi, ma continui a sessente.
+[86:43] Ecco se c'è nessuno, perché stai colpciando da trappi dell'uscita,
+[86:46] che comunque si ha la suona tipica.
+[86:52] E' quello successo in quelle due ore, però sono abbastanza comunque un'intensione.
+[86:58] Per caso lì, exit in modo solo, ha avuto quel evento,
+[87:02] non si è qui ripetuto, o meno, magari non è in quel modo lanciato,
+[87:06] non ha una verità, magari adesso c'è, ma è più percentuale di exit in modo,
+[87:09] di qualche nuova agenzia che ha messo su dei suoi exit non-drug.
+[87:13] È sempre così l'etrucceta, e per la suolità anche che lo sta dutente,
+[87:17] ci prendo entro e via.
+[87:19] Però pensare alla grazione automatica di inauditora per riuscire a sessente che exit,
+[87:25] sapendo che riuscire a riuscire a randomidamente,
+[87:27] mi sembra da più di sessamistico, molto più esposso che parata che troia.
+[87:33] Alla fine quello che si seduce per l'attaccante, quanto costa,
+[87:38] ne va alla fine, ne va alla fine.
+[87:40] Come vada la fine anche a fare attacchitente,
+[87:43] cioè riuscire a vedere le missioni del momento del computer
+[87:50] al dià dei muri, costa un sacco, però si dovrà ripare.
+[87:56] Perché è sempre del fatto di spendere l'attaccante.
+[88:00] Basta attacchia.
+[88:02] Un altro tipo di leakage è inaspettato,
+[88:04] si anche hanno inaspettato di leakage,
+[88:06] cioè sono mettenti dai dati e anche al dià dei muri si escono a raccogliere.
+[88:11] Un altro leakage particolare sta in chiusa il contattore elettronico.
+[88:20] Il contattore elettronico riesce a misurare con estrema precisione il tuo consumo.
+[88:25] Il tuo consumo è influitato direttamente da quello che fa su tutto computer.
+[88:29] Quindi puoi trovare che se c'è una proiezione di un produtto multimediale
+[88:34] che ha molte particiari come esempio della Belle,
+[88:36] ci ha fatto il carteristico di spesa.
+[88:40] E questo è stato dimostrato a Gigi C,
+[88:42] che fa Gigi C è il caos di computer clever,
+[88:45] un evento che si crea quest'annualmente,
+[88:47] a fine anno a Germania,
+[88:50] un gruppo di hacker con più di 20 anni di storia,
+[88:53] più che 20 anni fa con 30 anni.
+[88:55] Quindi mi ha spiegato questo tipo di più in realtà.
+[88:59] Se siete ancora lucidivi, parla di BubbleX.
+[89:04] Se non ho t'ho domande, sono più vero.
+[89:10] Con BubbleX lo faccio un pochissimo tecnico,
+[89:20] perché è quello che spiega come un'applicazione
+[89:25] della non rimanere a dei risulti utili.
+[89:31] BubbleX è un software libro fatto da 5 persone,
+[89:56] Siamo una situazione che si chiama Hermes Center per traspare l'esendicio dalle human rights.
+[90:01] In pratica la storia sono tutte diverse, per lo più quello che ci interessa a spiegare
+[90:08] è perché le tecnologie che vengono attornamenti usate sono un po' frenetese sia dall'opinia pubblica
+[90:13] che dalla politica, che dai tecnici che la usano, che dagli denti che affidano loro vita che stanno qua
+[90:18] e in questa incomprensione stanno perdendo gli aspetti di cibili
+[90:23] perché la rovina è diventavidata da tecnologie che non rispettano a qualsiasi tipi di lecice
+[90:30] che hanno sollegato al nostro Stato o che non danno le garanzie che sembrava che di anando vita
+[90:34] e per farlo capire è una situazione che fa anche di divulgazione.
+[90:39] Il più importante progetto che mi ho creato è GlobalX, appunto questo.
+[90:44] GlobalX è un progetto che ora ha più di due anni
+[90:51] che siamo stifinantiati nell'ultimo anno per sviluppare questa tecnologia
+[90:56] l'obiettivo di GlobalX è riuscire a stimolare per un modo del Whist Blowing
+[91:05] chi di voi ha situato questa parola?
+[91:07] Whist Blowing, l'ho mai sentita o letto?
+[91:10] Comunque, il Whist Blowing è un auto in nord-europa di Stania questa parte
+[91:16] che è un documento famoso dopo che GlobalX fa le cose che vuol dire
+[91:20] ovvero un sito di GlobalX che riusciva a ricevere sanazioni da parte di Whist Blower
+[91:26] ovvero le persone che danno le soffiate pubblicano questi dati che hanno l'autotipo di impatto
+[91:32] GlobalX era in attività già da un po' di anni
+[91:35] ed è da semplice perché accettava documenti e dati dati da autentiani online
+[91:41] l'unico tipo di regola era il documento che in via non deve essere scrittore
+[91:45] quindi se è qualcosa che pensi che sia utile da conoscere mandalo qua
+[91:51] è un approccio un po' insicuro se volete
+[91:55] perché era una comunità centrale
+[92:00] un'unica centrale non è dissimile dal servizio DM che vuol essere compromesso
+[92:04] o avuto congiù o intercettato
+[92:06] non è diverso da Master che quando è andato ha resovuto compressioni legali
+[92:12] per cui ne ha smesso di incendere alcuni file
+[92:14] quando sei il single point of failure
+[92:16] l'entità che gestisceIndicerello se servizio è possibile attacca
+[92:20] così è faccia solo Wood Elix e la sua persona c'era Sanj
+[92:23] e vedete il chiaro che non sembra un successo più un vero momento aspargno simile
+[92:28] gestito da un interaccio centrale
+[92:31] anche perché un altro limite di Wood Elix veniva chiaro
+[92:35] ovvero l'impossibilità di trattare dei temi specifici
+[92:43] di un contesto dettagliato
+[92:45] ad esempio se aveste mandato voi dei dati di ordine di diverse pubbliche
+[92:51] che spegavano un appalto dato per l'expo
+[92:54] a un gruppo di divisori che sta più in nord america o in nord europea
+[93:00] e rificere capisso il contesto legale
+[93:03] e politico che c'è nella questione expo
+[93:08] quindi cosa capiamo?
+[93:10] comprendere le sienazioni che sono legate a un ambito ristretto, un ambito locale
+[93:14] richiede persone dello stesso ambito per potendere capire
+[93:18] e per questo il costo però non può funzionare
+[93:23] vero utilizza non anche la nomea
+[93:25] di essere un sito semplicemente sicuro
+[93:27] quindi potete proteggere l'identità delle pubbliche fonti
+[93:30] riuscire a essere ristente da attacchi
+[93:33] ma questo per esistere richiede la competenza tecnologica
+[93:37] quindi abbiamo detto
+[93:39] vorremmo fare sì che ci sia più di istituzione in questi nodi
+[93:42] che sia anche più locale
+[93:44] ma nel contempo servono una competenza tecnologica
+[93:48] tanto elevata
+[93:49] allora cosa possiamo fare?
+[93:50] facciamo un software di libro che viaggia questa competenza nel software
+[93:53] e poi chiamo la procedura
+[93:54] con le far creare tante piccoli sistemi distribuiti di liste blowing
+[93:58] quello che è perso aperto
+[94:00] è che il mondo del liste blowing
+[94:03] era molto più vissuto
+[94:07] tipicamente quello che vi ha stato chiamato list blowing
+[94:13] è quello che un giornista chiama la protezione da suo fonte
+[94:15] ovvero o il mio formatore
+[94:17] è la fonte che mantengo nonima
+[94:19] o per diritto la possibilità di manterlo nonimo
+[94:22] in che quello che mi ha detto è vero
+[94:24] e quindi a vera casa esistente di il primo
+[94:29] quello che portò i dati di pentagon paver
+[94:32] è quello del suo target
+[94:34] che si chiama proprio in 30 anni
+[94:36] il secondo Pallimenni che è presente
+[94:38] stava vivendo il suo processo
+[94:42] e il suo santità è il libro di Zonginucci
+[94:46] in cui un maggior domo del papa
+[94:49] si è messo a tre acquore documenti di servati
+[94:51] che erano estinati all'ex-papa
+[94:55] e ha cercato di nero progetto
+[94:57] finché però dopo le indagini
+[94:59] non hanno esposto chi fosse effettivo
+[95:01] vediamo anche uno dei modi per cui
+[95:03] è difficile che una fonte
+[95:06] attuale possa essere un titulato anonima
+[95:08] siamo in una situazione totalmente controllata
+[95:10] con un tipo di progetto perfesivo
+[95:12] che è una cianantina in tasca
+[95:14] quindi a molti dagli istitutivi
+[95:17] fossero protetti nel loro animato
+[95:19] era molto più difficile
+[95:20] rispetto a quello che avrebbe affrontato il papa
+[95:23] quindi riuscire ad avere una soluzione tecnologica
+[95:25] che ossettisse di portare allo sotto dell'arte
+[95:28] la protezione del fonte per i giornalisti
+[95:30] per il nostro gold
+[95:35] questo tipo di posizioni
+[95:37] era fatto a festa del giornalismo
+[95:39] quindi comunque i target dei giornalisti
+[95:41] per capire perché gli costriggerà una tecnologia
+[95:43] che gli garantisce dyed che le loro conti si hanno tonterri
+[95:46] questo però è magari una cosa che
+[95:48] il primo leggero è una tecnica di quelle che ha aspettato
+[95:51] il punto con cui è
+[95:54] bisogna mettere in contatto
+[95:56] una fonte, una persona che ha qualcosa da dire
+[95:58] che vorrebbe uscire a connicarlo a un giornalista
+[96:01] con le giornalista, ma come si fanno a conoscere a questo personale
+[96:04] se si conosce essero non sape bisogno di un sistema
+[96:06] andare per un serato di persona, non sapevano una mail e la risolta
+[96:10] ma che so questo personale?
+[96:14] il first blower è qualuncutente
+[96:16] c'è una fonte qualuncutente possibile
+[96:18] che ha visto un fatto da cui avrebbe poterne parlare
+[96:22] il giornalista invece è quello che può
+[96:24] avere questa informazione e capire se è vera
+[96:26] se inizieranno di modo anonimo deve non fidarsi assolutamente
+[96:28] e verificare se è vera
+[96:30] e capire se è importante per la risultata in questa
+[96:34] riuscirà a scrivere c'è una storia e c'è a capire che c'è una bicca
+[96:37] quindi sono due lavori da partire entrambe che vanno a considerare
+[96:42] e internet è in posto meno sicuro
+[96:48] assoluto per questo tipo di relazione
+[96:50] perché ti mette a cercare in modo casuale
+[96:53] un giornalista giusto qualsiasi uno lo trova
+[96:56] qualsiasi uno stenga di trovarlo
+[96:58] qualsiasi che lui ti consideri
+[97:00] che ti considera uno dei tanti rumori di mondo
+[97:03] che lo stanno tampiando una giornata
+[97:05] può essere che c'è uno controllo nel tuo
+[97:08] ed ufficio per cui se tu sei l'unico che si contatta
+[97:11] che va in contatto con questo giornalista
+[97:13] vuoi essere ricondotto a fatto che hai parlato
+[97:15] di questo camion all'interno
+[97:17] siccome questo blowing in ordre
+[97:19] in ordre Europa viene utilizzato
+[97:22] per questioni di l'asparenza aziendale
+[97:25] o ogni azienda che votata su un NASDAQ
+[97:27] deve avere una storia di questo blowing interno
+[97:29] perché
+[97:32] una buona parte di crimini
+[97:34] di un momento in cui vatti il white collar crime
+[97:36] non c'è crimini fatti negli uffici
+[97:39] è una che tristica di non avere
+[97:42] una scena di crimine evidente
+[97:45] hanno la tendenza a
+[97:47] che sono le tue volamertà
+[97:49] o con la segretezza
+[97:51] e muoversi nei plausibili
+[97:53] che sono le proprietà per molti anni
+[97:55] se qualcuno ne fa parte
+[97:57] di poterlo riportare
+[97:59] però se non c'è un sistema di whistleblowers
+[98:01] si trova che il suo interno naturale
+[98:03] è suo capo e suo capo
+[98:04] magari a parte di questo tipo di
+[98:06] di male fatta
+[98:08] allora in ordre Europa
+[98:09] perché non si usano
+[98:10] delle outline
+[98:12] delicate di apocarte
+[98:14] che giustiscono psicologicamente anche il whistleblower
+[98:16] che può prendere sul telefono
+[98:18] che è male 24.24
+[98:19] e dire guarda c'è qualcosa di succedere
+[98:21] che in uno va bene e più ufficio
+[98:22] l'operale con uno di fidato
+[98:24] loro sono pagati allo stato
+[98:26] intermediano la segretazione che c'è
+[98:28] così da far sì che il problema non
+[98:30] continui a radicarsi
+[98:32] e che si risulta bene
+[98:34] il prima possibile
+[98:35] nel 2002
+[98:36] il New York Times
+[98:37] a me, no, New Times
+[98:39] ha messo come una copertina
+[98:41] di fine anno
+[98:42] 3 whistleblowers
+[98:43] una dell'FBI, una di Erlon
+[98:44] una di Warcom
+[98:45] tutte 3
+[98:46] 3 donne che hanno capito
+[98:48] cosa non stava andando
+[98:49] che doveva essere pubblico
+[98:51] di succedere perché avete a portare
+[98:52] un cracfinanziario
+[98:54] con la verità di vendagini
+[98:56] o la verità su vendagini
+[98:58] su lettore gemelli
+[99:00] e di conseguenza ha fatto
+[99:02] questa actività di
+[99:04] di vedetta civica
+[99:05] così si traduce in italiano
+[99:07] questo blowing vedetta civica
+[99:10] parlando del controllo in uffici
+[99:12] se voi siete in un ufficio
+[99:14] in cui
+[99:16] alcune parti, alcune delle persone
+[99:18] sono impecate in questa parte
+[99:20] che si potrai
+[99:21] e nel prossimo tentale c'è una connessione
+[99:23] che l'utente ha fatto verso
+[99:25] un sistema di sanazione
+[99:26] un giornalista
+[99:27] è evidente che si fa ocuno più uno
+[99:30] l'utente che ha fatto il sanazione
+[99:31] ha fatto quell'uno
+[99:32] e quindi
+[99:33] l'ha messo aperto
+[99:34] l'ha animato
+[99:35] per essere garantito
+[99:37] per questo tipo di attacco
+[99:38] non si fa così
+[99:40] non è quelli posti in questo blowing
+[99:42] sono impecati
+[99:43] quindi sono incentivati
+[99:44] a fare questa continuità
+[99:45] e poi saranno protetti
+[99:46] come testimoni
+[99:48] a quale saranno anche
+[99:49] l'integrati
+[99:50] nel loro loro
+[99:51] in altri posti
+[99:52] in cui se questo blowing
+[99:53] possano protetti
+[99:54] ma altrimenti lo stengono
+[99:55] stengono attizzati
+[99:56] con un amminaccio
+[99:57] di tipo aiuto il nemico
+[99:58] rischi al gas per il demanding
+[100:00] quindi assoluto
+[100:01] del contesto legale
+[100:02] vorranno valutare
+[100:03] se è valutare un sistema
+[100:05] di
+[100:07] blowing anonimo
+[100:08] o meno
+[100:09] e poi
+[100:11] il fatto che se coprono
+[100:12] considerare
+[100:13] un contesto
+[100:14] magari piccolo
+[100:15] in cui
+[100:16] se è un potere chiminale
+[100:17] particolarmente filtrato
+[100:18] se è una pubblica amministrazione
+[100:20] che è una rapporzione
+[100:21] che è nella musicalità
+[100:23] e se ovviamente qualcosa
+[100:24] non è un caso
+[100:25] allora
+[100:26] l'anomimato dell'utente
+[100:28] è l'unica soluzione
+[100:30] che gli consente di dire
+[100:31] la tecnologia sta proteggendo
+[100:33] il resto non posso filarmi
+[100:34] però intanto posso
+[100:35] entrare fuori quello che
+[100:36] vi voglio riuscire a dire
+[100:38] questo tipo di problemi
+[100:39] risquadrezzo
+[100:41] messi in mente di poter risolvere
+[100:42] quanta tecnologia
+[100:43] che vuole essere utilizzata
+[100:45] sia da gruppi attivistici
+[100:46] sia da giornali
+[100:47] che vogliono
+[100:48] utilizzarlo
+[100:49] per avere informazioni
+[100:50] per essere conservate
+[100:51] a parte dei loro conti
+[100:52] sia da
+[100:53] sistemi di multibrowing
+[100:54] istituzionale
+[100:55] che vogliono
+[100:56] adeguarsi a questa usanza
+[100:58] del Nord Europa
+[101:00] questo è un motivo
+[101:01] che ha fatto questo posto
+[101:02] e che si vada intrammiente
+[101:03] su torre
+[101:04] per esforzi
+[101:05] in l'anomimato
+[101:09] quello che mi è capito
+[101:11] è anche che
+[101:12] è un profissimo servizio
+[101:14] che offre servizio
+[101:15] comunque responsabile
+[101:16] dei conti che stanno esitando
+[101:17] per riuscire a mantenere
+[101:18] una maggiore separazione
+[101:19] di responsabilità
+[101:20] noi portiamo somente i software
+[101:22] e le prossime ho utilizzato
+[101:23] la documentazione
+[101:24] e i casi di uso
+[101:25] la customizzazione
+[101:27] se serve
+[101:28] però è un sacco che giocare
+[101:29] è possibile non precisione a community
+[101:31] chi invece utilizza software
+[101:35] fa parte di 3 ruoi
+[101:36] quindi l'inode administrator
+[101:38] è quello che ha
+[101:39] la visione
+[101:41] politica
+[101:42] alta sparenza
+[101:43] o islariale
+[101:44] per cui capisce지막i
+[101:45] che si avranno un nodo
+[101:47] i receiver
+[101:48] invece hanno un lista
+[101:49] o un esperto
+[101:50] un ufficiale
+[101:51] sono le persone che ricevono i dati di assenazione, i dati che non rilicevano di residere.
+[101:55] I residere sono gli utenti del nodo global X e poi il misto pilover, oppure il fonte,
+[102:00] è l'utente che il modanonimo arriva sul nodo e fa l'assenazione.
+[102:06] Questo tipo di gusto comunque sia una bella quantità di problemi,
+[102:13] perché la possibilità più semplice è di avere un nemico
+[102:20] invenuto l'informazione di questo nemico, l'ambiente possibile è lavando a qualcuno
+[102:24] e lo sto pranto sputtando modo gratuito, sputtando il vostro sistema.
+[102:27] Questo perché non succede senza tecnologia?
+[102:31] Perché il giornista si chida non da dati della fonte, ma si chida della fonte,
+[102:36] quindi so che sei una persona adorevole, so che sei sferto questa cosa
+[102:40] e puoi dire quello che mi dici, ti proteggerò, perché so che posso fidere a me e te.
+[102:44] Il momento in cui la fonte è anonima, non ti puoi fidere dalla fonte,
+[102:47] ti puoi fidere su mette delle date che ti dà.
+[102:49] Ma i dati che ti dà, non devono essere detesti, scritti su pugno,
+[102:54] altrimenti rischi di mescolarti chi ha visto gli aglieni con chi vuole scusare il vicino,
+[103:00] questo è un'apida, però sta provando anche qualche tutta esperienza.
+[103:03] I dati che devi dare, di cui si vedono che essere file, file contengono degli elementi
+[103:09] riprovavi e verificavi in altri modi.
+[103:11] Ad esempio, quando è arrivato il fax al protocutetiano,
+[103:14] inoltrato da un cardinale, qui c'era una dichiarazione di un altro cardinale che c'era
+[103:19] il Papa Maurirandi in 10 mesi, non l'hanno detto, ma potrebbe essere basullo,
+[103:23] ma chiamiamo il medicano, chiediamo se è vero, l'hanno detto sì, è vero,
+[103:26] ma ora il contenuto potrebbe essere una follia del titolo della scrivita.
+[103:34] Quindi c'era un dato e se puoi verificare questo modo,
+[103:37] quello che succederebbe in uno sistema che si vuole basare su dei dati anonimi
+[103:42] per fare del giornalismo, per fare delle intagine, serve per li verificare.
+[103:47] Per l'astitutivo, se bisogna orchè le persone che comprendano questi dati,
+[103:52] siano non giornalisti generalisti, ma possibili non sono esperte
+[103:57] del contesto che si va a trattare.
+[103:58] Di conseguenza il nodo non è mai dammi dati che vuoi li ascoltremo,
+[104:04] ma è, io sono il nodo della città di Paria e voglio trovarevi
+[104:08] dell'incranamento che è fatto sullo Fiume Po,
+[104:10] della corruzione che è fatta durante la transizione della pubblica amministrazione.
+[104:14] Queste due temi su due contesti.
+[104:16] I due contesti hanno dei riceventi differenti,
+[104:18] nemmeno ci sanno persone legate alle ecologie, ai decimici,
+[104:21] e se non ci sanno delle persone legate magari l'aspetto di monitoraggio degli appalti
+[104:27] o studio su un'interorganizzata e sui canoni corruptivi.
+[104:31] Quindi poter creare dei nodi che avranno dei contesti
+[104:35] con senti di farsi che nel futuro sarebbe possibile con lo specifico.
+[104:39] E poi non stata di un sistema di inbio, un dato,
+[104:46] un modanonimo e dopodichè esparisca.
+[104:49] Un istante meccanismo che alla fine di una salazione
+[104:53] è da una ricevuta, una ricevuta altrimenti non è che è una password randomica
+[104:56] generata per l'oppasione.
+[104:58] Questa è il ricevuta, la ponte, pota tornare su una rassicura
+[105:03] nella quale tutti i riceventi hanno ricevuto i rispedati,
+[105:07] i riceventi possono commentare che degli ulteriori dati
+[105:10] lui può spiegare meglio quello che ha inviato con integrare come nuovi dati.
+[105:13] In questo modo gli stassignano di step dando una fontanonima realizzata dai file.
+[105:18] Ma la fontanonima le stai cercando di terafori che possibili
+[105:22] così da farvi un'idea nell'insieme e poter mitigare il fatto che un autofasullo
+[105:28] non potessualizzato potrebbe portarti in diga.
+[105:31] Se invece riesci a estacquare il contesto
+[105:34] un autofasullo è passato sicuramente scoperto come faccio un autofasullo
+[105:37] e quindi il raggiro al giornalista può venire meno facilmente.
+[105:43] Significa il whistleblower perché il nodo è esposso sull'autore
+[105:50] e di conseguenza un nodo esposso sull'autore, un po' di del service
+[105:54] non si sa chi l'ha collegato, chi l'ha contattato.
+[105:57] Anche se quindi il nodo ad un istantato
+[106:00] fosse un infiltrato come se fosse un autofasullo
+[106:03] venisse costretto, minacciato o lo subito fosse compromesso
+[106:07] il dato di chi è whistleblower non so.
+[106:09] Che più non può essere successo l'autore su torre
+[106:13] e non comunico dove si trova fisicamente il server perché è un po'
+[106:17] Qui c'era una live demo che è restata qua.
+[106:22] No internet.
+[106:25] Nel nostro modello di trizzo è che è una persona che ha una visione
+[106:30] su un posto dove possedere una chiedente asparenza
+[106:33] a poca assi un modo di lo bell'ixtra.
+[106:35] Posso dire sì i receiver in relazione alle persone giuste
+[106:39] per problemi di dato di quel tema.
+[106:42] Può iniziare a fare pubblicità a chi potete avere queste informazioni
+[106:46] quindi se voglio trovare chi paga male le mazzette per un cioto apparto
+[106:52] cercherò persone con l'azienda che potrebbero
+[106:54] ad essere interessi a parlarne, a spegare, a bloccare questo fenomeno.
+[106:58] Intosto che se c'è qualcuno, se c'è un contesto legato a interventale
+[107:04] posso segnare a chi lavora in quel settore o poi a tutti le pubbliche.
+[107:10] Il vero è si, per quello punto questa persona è scezzionata
+[107:17] perché è stata con lui con lo quale si intanto qui.
+[107:19] Deve essere venuto parlando di riuscire a sfontire
+[107:26] quello che potrebbe essere manifestato con lo che non lo è.
+[107:28] Non riuscire ad trasformare l'informazione in una azione
+[107:34] piuttosto che in una storia, in una notizia.
+[107:37] Questa è una possibilità.
+[107:39] Deve essere una persona fidabile o comunque legata ad iniziativa
+[107:42] perché il rischio è che pubbliche tanti non si diventate correttamente
+[107:50] e costo che non faccia la visione di ricubblico di questo principale
+[107:59] cioè è fatto che un dato non calorificato inizia a essere pubblicato
+[108:02] perché magari si fa guidare da una logica di
+[108:05] un pubblico che esce con la notizia e con lo che ha l'intro.
+[108:08] Di conseguenza si trai da fare la revisione della tridicità
+[108:13] quindi avremo l'autizia su.
+[108:19] A stondo del contesto, può pensare che la segnalazione vada a tutti i residenti
+[108:27] quindi tutti i gruppi di persone collegate
+[108:30] così da magari essere più garantisti e compagnati della fonte
+[108:35] che la tua persona sia gestita.
+[108:37] Se hai la certezza tu da ricevente che anche gli altri tu colleghi
+[108:42] ad un giudon d'orso dato, sai che c'è un tempo minimo
+[108:45] a quello che gestirlo, però non puoi mettere a cosciere, non puoi ignorare
+[108:49] non puoi lasciare l'onda del secondo dialtro che altri hanno ricevuto
+[108:53] quindi in alcuni contesti magari obbligare a fatto che l'informazione arriva
+[108:57] a tutte persone destinate
+[108:59] è una forma di garantizia che sarà seguita.
+[109:03] Piuttosto che in alcuni stati come in l'Iran
+[109:05] il fatto di essere una persona che riceve è un rischio
+[109:09] perché il sezione o l'obbligazione della tua identità
+[109:13] potrebbe essere una passione di minacce
+[109:15] allora va a avere una lista di residenti anoni
+[109:18] cioè c'è una pubblica messa di stazione italiana
+[109:20] in cui con il deputato di corruzione
+[109:22] ora che i sviluppi di liste blowing avvengono spinti
+[109:25] e soffreddati a pubblica amministrazione
+[109:27] i residenti sanno di apricati dedicati
+[109:29] che franno da interlocutori per i dipendenti di apriacchi
+[109:33] o di osservar qualcosa
+[109:35] dipende un po' da contesto di rischio
+[109:37] come si vuole verificare questo tipo di...
+[109:39] quindi è un software che ci dà su Linux
+[109:47] l'Iran alfa e so imbeta
+[109:49] è fatto in Python, si basa sul framework twisted
+[109:52] o conto il programma in Python
+[109:54] comunque si basa sul framework twisted
+[110:02] serve in pratica sediti HTTP
+[110:05] questo che usa JSON per comunicare
+[110:07] JSON per meccanismo di aggregazione dei dati
+[110:10] che si fa spazio HTTP
+[110:12] normalmente i pagi HTTP contengono dati HTML
+[110:16] con JSON si farà transmissione che sarebbe più
+[110:18] alle applicazioni che girano su browser
+[110:20] per poter avere sommetate di servo
+[110:22] in
+[110:44] ho una domanda che potrebbe sembrare un po' un'opportuna
+[110:47] why you know Django?
+[110:49] guarda, non lo c'è tra io
+[110:51] mi posso risponderti
+[110:53] perché non Django?
+[110:55] perché che ha fatto la messa tecnologica ha detto
+[110:57] ma usiamo o cyclone storm
+[110:59] e io non avevo fatto questa esperienza in Python al tempo
+[111:02] quindi non potevo farla
+[111:04] va detta per me
+[111:06] se arriva magari a serve possibili minimali
+[111:08] quando avrò un'insicurezza, un che può andare in contesti di molto rischio
+[111:11] il modo migliore per avere controllo sul tuo codice
+[111:14] è non avere il framework molto grossi
+[111:16] ma essere possibili ridotti
+[111:18] quindi Twisted ha framework molto minimale
+[111:21] che ha fatto vita di rete
+[111:23] la parte di Strato
+[111:25] che era da sopra di
+[111:27] sopra Twisted ha fatto da Cycler
+[111:29] che
+[111:31] giustizia la parte di connessione web
+[111:33] quindi si riesce comunque a avere
+[111:35] un poco l'essenziale
+[111:37] la parte di DB è un ORM
+[111:39] con un sviluppatore canonical
+[111:42] ci ha guardato le persone professionale sopra
+[111:45] e ha pensato
+[111:47] ti riesce a garantire una sequenza maggiore
+[111:49] comunque il rischio principale
+[111:51] in applicazioni simili
+[111:53] fate un gran framework di roba entratetata
+[111:56] perché tu puoi essere possibile sforzato a tachi
+[111:59] e sia più difficile per chi fa la riuscione di sicurezza
+[112:01] scopri questa gunna della vita
+[112:03] quindi ma tu per cui Django l'abbiamo scusa per quello
+[112:06] poi
+[112:08] poi tu sono atto a bene così
+[112:10] io ancora adesso non conosco
+[112:12] bene
+[112:14] la grande rte di Django
+[112:16] mi sono fidato di
+[112:18] la tecnologica
+[112:21] certo ho fatto molto l'inizio
+[112:23] perché c'è da fare di verire
+[112:25] il secondo più alto
+[112:27] va bene
+[112:29] anche i client androide
+[112:31] è in fase di elaborazione
+[112:33] e comunque sia
+[112:35] quando hai una
+[112:37] API REST
+[112:39] e API REST sono un modo con la quale
+[112:41] un'applicazione già scrivita con un'unica
+[112:43] con un backend
+[112:45] che si chiama l'ossimente dei messaggi
+[112:47] questi messaggi sono documentati
+[112:49] in questi due specifici che si chiama la API REST
+[112:51] e
+[112:57] il client androide è stato formato
+[112:59] è stato in fase di sviluppo
+[113:01] così che si possa trascarsi anche l'applicazione mobile
+[113:04] poi si può essere rischio a un termine
+[113:06] che si copnascano dei noti
+[113:08] fasuldi
+[113:10] che vogliono parlare al scorso servizio
+[113:12] ma li direttoli per un momento è a un wiki
+[113:14] un wiki che mi attraccia in tutti i sistemi
+[113:16] di Wista Blowering di Sistono al Mondo
+[113:18] ed è lì degli articoli che
+[113:20] rimandano a
+[113:22] come funziona l'oro
+[113:24] quali sono le carattie che spongono
+[113:26] quali i vini notizianti al fuori nel passato
+[113:28] in questo modo ci sia un po'
+[113:30] un punto a traccia la storia del signo inodino
+[113:32] dovete pensare che deve
+[113:34] dare un seguito di effetto che c'è con il feedback di Amazon
+[113:36] per
+[113:38] verificare Amazon
+[113:42] ho diventato l'idea
+[113:44] di fatto che se un nodo non giustice
+[113:47] delle segnalazioni posso avere
+[113:49] un po' di retti negativi da parte di lui
+[113:51] e di te così che si sappia e sono doppitabili
+[113:53] per questo salveremo
+[113:55] una tema un po' centrale che nega
+[113:57] il traccio di questa reputazione
+[113:59] che si traccia di poter essere
+[114:01] ci lo vorremmo sopra da
+[114:03] quando dal prossimo giusto che c'è
+[114:05] attualmente a prenderare
+[114:07] il progresso
+[114:09] secondo la spazia international italia
+[114:11] che vuole portare intorno ai comuni
+[114:13] pubblicamenti di situazione
+[114:15] il sistema di boosted blowing
+[114:17] perché adesso c'è la legge adduzione
+[114:19] che è il giusto
+[114:21] l'incentiva
+[114:23] ci saranno alcune solità conservazioni
+[114:25] di pagamento
+[114:27] siccome per un'altra normativa
+[114:29] se la pubblicamentia stazionata
+[114:31] sotto il libro e sotto il raccontacciale
+[114:33] a parte di funzionalità
+[114:35] che è proprio gratuito
+[114:37] allora è un concettione più
+[114:39] di fondere il nostro
+[114:41] dei dissenadesi che stanno
+[114:43] avendo solo un sistema di boosted blowing
+[114:45] interno
+[114:47] dei gruppi con gli sti investigativi
+[114:49] come sempre
+[114:52] quello per ricevuto offshore leaks
+[114:54] quindi gli artisti
+[114:56] che venivano da
+[114:58] una collezione di dati sulle setà offshore
+[115:00] che riusciva a fare questo tipo di indagene
+[115:02] a ciascione come si fa
+[115:04] gruppo di quel tipo
+[115:06] cittadini
+[115:08] attivi come è successo
+[115:10] in che momento per cui
+[115:12] stanno facendo delle attività
+[115:14] per riuscire a fare un nodo
+[115:16] per muovire la transizione della sanità
+[115:18] da privata
+[115:20] da pubblica
+[115:22] a privata
+[115:24] alcuni giornali come
+[115:26] Presidiberia o Balcalix
+[115:28] che poi nelle zone
+[115:30] delle stesse asiattiche
+[115:32] qui si trovate i nostri tempi
+[115:36] e lì invece
+[115:38] la sua transizione come si usa
+[115:40] era molto meno tecnico
+[115:43] questo è l'ultima
+[115:45] questo è comunque il progetto
+[115:47] chi vuole sul barenglo Balcalix con noi?
+[116:01] Magari avessi
+[116:03] comunque
+[116:06] Python sul web
+[116:08] ottimo scelto
+[116:10] sì sì
+[116:12] siamo in fase di revisione di sicurezza
+[116:14] da parte di
+[116:16] dei revisori
+[116:18] hanno trovato
+[116:20] una cosa critica al tetente
+[116:22] vorrei farlo vedere perché c'era un barenglo
+[116:24] di logica, però un momento di internet
+[116:26] voi posso farci lo spot
+[116:28] sì, qual è il spot?
+[116:30] so che lo spot è potutale
+[116:32] e quali farci?
+[116:34] ah
+[116:36] sì, fammelo, fammelo
+[116:38] è un affatto di infatti
+[116:40] quindi non potrei niente che attività
+[116:42] se vuoi
+[116:44] ti faccio uscire tramite
+[116:46] tor dal mio client
+[116:48] non c'è problema
+[116:50] fatto che la funzione
+[116:52] questa potesse archiprogramma
+[116:54] la funzione in cui

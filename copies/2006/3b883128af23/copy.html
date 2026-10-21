@@ -1,0 +1,756 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<link href="/default.css" rel="STYLESHEET" type="text/css">
+<LINK rel="home" href="/">
+<LINK rel="top" href="/">
+<LINK rel="copyright" href="/copyright/">
+<LINK rel="search" href="/search/">
+<LINK rel="author" href="/contact_secunia/">
+<link rel="alternate" title="RSS" href="http://secunia.com/information_partner/anonymous/o.rss" type="application/rss+xml">
+<LINK REL="SHORTCUT ICON" href="/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Content-Language" content="en">
+<meta name="Keywords" CONTENT="secunia, stay secure, vulnerabilities, vulnerability, vulnerability tracking, tracking, latest advisories, advisories, advisory, advisory tracking, customised alerts, customised advisories, customized alerts, customized advisories, security alerts, alert, alerts, latest alerts, latest, exploit, buffer overflow">
+<meta name="Description" CONTENT="Parallels Desktop for Mac Insecure File Permissions - Advisories - Secunia">
+<TITLE> Parallels Desktop for Mac Insecure File Permissions - Advisories - Secunia </TITLE>
+
+</HEAD>
+
+<BODY bgcolor="#FFFFFF"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://secunia.com/advisories/22634/">secunia.com/advisories/22634/</a> · captured 2007-04-29 · scripts removed</div>
+
+
+</script>
+
+
+<center>
+
+<TABLE width="902" cellspacing="0" cellpadding="0" border="0">
+	<TR>
+		<TD width="1"></TD>
+		<TD width="900" align="right" valign="top">
+			<form method="GET" action="/search/">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td colspan="2"><img src="/gfx/blank.gif" height="3" width="5" ALT=""></td>
+				</tr>
+				<TR>
+					<TD colspan="2" align="center" height="4" bgcolor="#000000"></TD>
+				</TR>
+				<TR valign="bottom">
+					<TD width="154" valign="top" align="left" style="padding-left: 5px; border-left: 1px black solid;">
+						<img src="/gfx/blank.gif" height="7" width="1" ALT=""><br>
+						<a href="/"><img src="/gfx/logo.gif" border="0" title="Secunia - Stay Secure" width="153" height="58" alt="Secunia - Stay Secure"></a><br><img src="/gfx/blank.gif" height="3" width="1" ALT="">
+					</TD>
+					<TD width="746" align="right" valign="middle" style="padding-bottom: 3px; padding-right: 3px; border-right: 1px black solid;">
+<div style="height: 90px; width: 100%;">&nbsp;</div>
+
+					</TD>
+				</TR>
+				<TR>
+					<TD colspan="2" style="padding-top: 2px; border: 1px black solid;" height="25" bgcolor="#E3E3E3" align="center">
+						<table width="100%" cellspacing="0" cellpadding="0">
+							<tr>
+								<td style="padding-left: 13px;" width="80">
+									<a href="/"><b>Home</b></a>
+								</td>
+								<td width="170">
+									<a href="http://corporate.secunia.com/"><b>Corporate Website</b></a>
+								</td>
+								<td align="center" width="80">
+									<a href="/secunia_vacancies/"><b>Jobs</b></a>
+								</td>
+								<td width="130" align="center">
+									<a href="/mailing_lists/"><b>Mailing Lists</b></a>
+								</td>
+								<td align="center" width="105">
+									<a href="/rss_feeds/"><b>RSS</b></a>
+								</td>
+								<td align="center" width="105">
+									<a href="/blog/"><b>Blog</b></a>
+								</td>
+								<td align="center" width="130">
+									<a href="/advertise/"><b>Advertise</b></a>
+								</td>
+								<td align="right" width="200" style="padding-rigth: 3px;">
+									<input type="text" name="search" value="" class="text" style="width: 110px;"> <input type="submit" value="Search" class="text" style="width: 50px;">
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<div id="spacer"></div></form>
+		</TD>
+		<TD width="1"></TD>
+	</TR>
+
+	<TR>
+		<TD width="1"></TD>
+		<TD width="900" align="right" valign="top" style="border: 1px black solid; padding: 3px;">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="padding-left: 10px;" height="15">
+						
+
+
+					</td>
+				</tr>
+			</table>
+		</TD>
+		<TD width="1"></TD>
+	</TR>
+	<tr>
+		<td colspan="3"><br></td>
+	</tr>
+	<TR>
+		<TD></TD>
+		<TD align="center" bgcolor="#FFFFFF">
+			<TABLE width="100%" cellspacing="0" cellpadding="0" border="0">
+				<TR>
+					<TD width="140" bgcolor="#FFFFFF" valign="top" style="border-left: 1px black solid; border-right: 1px black solid; border-bottom: 1px black solid;">
+						<table width="100%" cellpadding="0" cellspacing="0">
+							<tr>
+								<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border-top: 1px black solid; border-bottom: 1px black solid;">
+									<font color="BLACK" style="font-size: 11px;"><b>Solutions For</b></font>
+								</td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125">
+									<A HREF="/solutions_for_security_professionals/">Security Professionals</a>
+								</td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125">
+									<A HREF="/solutions_for_security_vendors/">Security Vendors</a>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2"><br></td>
+							</tr>
+							<tr>
+								<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border-top: 1px black solid; border-bottom: 1px black solid;">
+									<font color="BLACK" style="font-size: 11px;"><b>Free Solutions For</b></font>
+								</td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/solutions_for_open_communities/">Open Communities</a></td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/solutions_for_journalists_media/">Journalists & Media</a></td>
+							</tr>
+							<tr>
+								<td colspan="2"><br></td>
+							</tr>
+
+							<tr>
+								<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border-top: 1px black solid; border-bottom: 1px black solid;">
+									<font color="BLACK" style="font-size: 11px;"><b>Online Services</b></font> <font color="red"><b>New!</b></font>
+								</td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/blog/">Secunia Blog</a> <font color="red"></font></td>
+							</tr>
+                                                        <tr>
+                                                                <td height="4" width="5"></td>
+                                                        </tr>
+                                                        <tr>
+                                                                <td valign="top" width="10">&nbsp;</td>
+                                                                <td width="125"><A HREF="/software_inspector/">Software Inspector</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                                <td height="4" width="5"></td>
+                                                        </tr>
+                                                        <tr>
+                                                                <td valign="top" width="10">&nbsp;</td>
+                                                                <td width="125"><A HREF="/network_software_inspector/">Network Software Inspector</a> (<font color="red">BETA</font>)</td>
+                                                        </tr>
+							<tr>
+								<td colspan="2"><br></td>
+							</tr>
+
+							<tr>
+								<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border-top: 1px black solid; border-bottom: 1px black solid;">
+									<font color="BLACK" style="font-size: 11px;"><b>Secunia Advisories</b></font>
+								</td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/search/">Search</a></td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/historic_advisories/">Historic Advisories</a></td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/product/">Listed By Product</a></td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/vendor/">Listed By Vendor</a></td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/advisory_statistics/">Statistics / Graphs</a></td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/secunia_research/">Secunia Research</a></td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/report_vulnerability/">Report Vulnerability</a></td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/about_secunia_advisories/">About Advisories</a></td>
+							</tr>
+							<tr>
+								<td colspan="2"><br></td>
+							</tr>
+							<tr>
+								<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border-top: 1px black solid; border-bottom: 1px black solid;">
+									<font color="BLACK" style="font-size: 11px;"><b>Virus Information</b></font>
+								</td>
+							</tr>
+							<tr><td height="4" width="5"></td></tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/chronological_virus_list/">Chronological List</a></td>
+							</tr>
+							<tr><td height="4" width="5"></td></tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/last_10_virus_alerts/">Last 10 Virus Alerts</a></td>
+							</tr>
+							<tr><td height="4" width="5"></td></tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="/about_secunia_virus_information/">About Virus Information</a></td>
+							</tr>
+							<tr>
+								<td colspan="2"><br></td>
+							</tr>
+							<tr>
+								<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border-top: 1px black solid; border-bottom: 1px black solid;">
+									<font color="BLACK" style="font-size: 11px;"><b>Secunia Customers</b></font>
+								</td>
+							</tr>
+							<tr>
+								<td height="4" width="5"></td>
+							</tr>
+							<tr>
+								<td valign="top" width="10">&nbsp;</td>
+								<td width="125"><A HREF="https://ca.secunia.com/">Customer Area</a></td>
+							</tr>
+							<tr>
+								<td align="center" colspan="2">
+									<br><br>
+									<a href="/software_inspector/"><img src="/gfx/si_120x120.png" border="0" alt="Software Inspector"></a><br>
+<br>
+
+								</td>
+							</tr>
+						</table>
+						<img src="/gfx/blank.gif" alt="" width="140" height="0">
+					</TD>
+					<TD width="15"><IMG SRC="/gfx/15line.gif" border="0" ALT=""></TD><TD width="590" align="left" valign="top">
+<table width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border: 1px black solid;">
+			<font color="BLACK" style="font-size: 11px;"><b>
+	<table width="100%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="*">
+				<b>Parallels Desktop for Mac Insecure File Permissions</b>
+			</td>
+			<td width="80" align="right" style="padding-top: 2px;">
+				
+						<a href="/advisories/22634/danish/"><img src="/gfx/danish.gif" style="border: 1px solid black;" border="0" alt="Advisory Available in Danish"></a>&nbsp;
+						<a href="/advisories/22634/german/"><img src="/gfx/german.gif" style="border: 1px solid black;" border="0" alt="Advisory Available in German"></a>&nbsp;
+			</td>
+		</tr>
+	</table></b></font>
+		</td>
+	</tr>
+	<tr>
+		<td><br></td>
+	</tr>
+	<tr>
+		<td colspan="2" style="padding-left: 3px;">
+			<table width="586" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="30%">
+						<b>Secunia Advisory:</b>
+					</td>
+					<td width="45%">
+						SA22634
+					</td>
+					<td rowspan="5" width="25%" valign="top" align="right">
+						&nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<b>Release Date:</b>
+					</td>
+					<td>
+						2006-11-06
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<b>Last Update:</b>
+					</td>
+					<td>
+						2006-11-10
+					</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td valign="top">
+						<b>Critical:</b>
+					</td>
+					<td colspan="2">
+						<a href="/about_secunia_advisories/" title="Less critical. Critical Level 2 of 5."><img src="/gfx/crit_2.gif" alt="" border="0"><br>
+						Less critical</a>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+						<b>Impact:</b>
+					</td>
+					<td colspan="2">
+						Unknown<br>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+						<b>Where:</b>
+					</td>
+					<td colspan="2">
+						Local system<br>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+						<b>Solution Status:</b>
+					</td>
+					<td colspan="2">
+						Unpatched
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3"><br></td>
+				</tr><tr><td valign="top"><b>Software:</b></td><td><a href="/product/12498/">Parallels Desktop for Mac</a><br></td></tr><tr><td colspan="2"><br></td></tr><tr><td valign="top"><b>CVE reference:</b></td><td><a href="/cve_reference/CVE-2006-5817/">CVE-2006-5817</a> (Secunia mirror)<br></td></tr>
+				<tr>
+					<td colspan="3"><br></td>
+				</tr>
+                                <tr>
+					<td></td>
+                                        <td colspan="2"></td>
+                                </tr>
+                                <tr>
+                                        <td colspan="3"><br><br></td>
+                                </tr>
+				<tr>
+					<td colspan="3">
+						<div style="float: right; clear: right; padding-left: 10px; padding-bottom: 10px; width: 300px; height: 250px;">
+
+</div>
+						<b>Description</b>:<br>Fabio Pietrosanti has reported a security issue with unknown impact in Parallels Desktop for Mac.<br />
+<br />
+The security issue is caused due to /Library/StartupItems/Parallels/prl_dhcpd creating the file &quot;/Library/Parallels/.dhcpd_configuration&quot; with insecure file permissions (set to 666). <br />
+<br />
+The security issue is reported in Parallels Desktop for Mac Build 1940. Other versions may also be affected.<br /><br><b>Solution</b>:<br>Grant only trusted users to affected systems.<br /><br><b>Provided and/or discovered by</b>:<br>Fabio Pietrosanti<br /><br><b>Changelog</b>:<br>2006-11-10: Added CVE reference.<br /><br>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3"><br></td>
+				</tr>
+				<tr>
+					<td colspan="3">
+
+</td>
+				</tr>
+				<tr>
+					<td><br></td>
+				</tr>
+				<tr>
+					<td colspan="3">
+						<i>Please note: The information that this Secunia Advisory is based on comes from a third party unless stated otherwise.<br>
+						<br>
+						Secunia collects, validates, and verifies all vulnerability reports issued by security research groups, vendors, and others.</i>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"><br></td>
+	</tr>
+	
+	<tr>
+		<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border: 1px black solid;">
+			<font color="BLACK" style="font-size: 11px;"><b>1 Related Secunia Security Advisories</b></font>
+		</td>
+	</tr>
+	<tr>
+		<td><br></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			1. <a href="/advisories/24171/">Parallels Desktop for Mac Shared Folder Security Issue</a>
+		</td>
+	</tr>
+	<tr>
+		<td><br><br></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<table width="100%" cellspacing="0" cellpadding="0" align="center">
+				
+	<tr>
+		<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border: 1px black solid;">
+			<font color="BLACK" style="font-size: 11px;"><b>Send Feedback to Secunia</b></font>
+		</td>
+	</tr>
+	<tr>
+		<td><br></td>
+	</tr>
+				<tr>
+					<td colspan="2" style="padding-left: 3px;">
+						If you have new information regarding this Secunia advisory or a product in our database, please send it to us using either our <a href="/contact_form/?type=advisory&amp;SAID=22634">web form</a> or email us at vuln@secunia.com.<br>
+<br>
+Ideas, suggestions, and other feedback are most welcome.
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td><br></td>
+	</tr>
+	<tr>
+		<td colspan="2"><br><br></td>
+	</tr>
+</table>
+						<img src="/gfx/blank.gif" alt="" width="590" height="0"><br>
+						<br>
+						<br>
+						<br>
+						<br>
+					</TD>
+					<TD width="15"><IMG SRC="/gfx/15line.gif" alt="" border="0"></TD>
+
+					<TD width="140" valign="top">
+
+						<table width="100%" cellpadding="0" cellspacing="0">
+
+							<tr>
+								<td colspan="2" style="height: 145px; cursor: hand;" align="center">
+									<a href="http://secunia.com/network_software_inspector/"><img src="/gfx/nsi_button_140.png" alt="BETA test the Network Software Inspector" border="0"></a>
+								</td>
+							</tr>
+
+							<tr><td colspan="2"><br></td></tr>
+
+							
+	<tr>
+		<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border: 1px black solid;">
+			<font color="BLACK" style="font-size: 11px;"><b>Secunia Poll</b></font>
+		</td>
+	</tr>
+	<tr>
+		<td><br></td>
+	</tr>
+
+							<tr><td colspan="2" style="padding-left: 3px;">
+<form method="GET" action="">
+<table width="137" cellspacing="0" cellpadding="0">
+	<tr>
+		<td colspan="2">
+			Do you have products, that have reached End-of-Life support, installed across your network?
+		</td>
+	</tr>
+	<tr>
+		<td><br></td>
+	</tr>
+		<tr>
+			<td width="10%" valign="top">
+				<input type="radio" name="answer" id="answer1" value="57">
+			</td>
+			<td width="90%" valign="top">
+				<label for="answer1">Yes</label>
+			</td>
+		</tr>
+		<tr>
+			<td width="10%" valign="top">
+				<input type="radio" name="answer" id="answer2" value="58">
+			</td>
+			<td width="90%" valign="top">
+				<label for="answer2">No</label>
+			</td>
+		</tr>
+		<tr>
+			<td width="10%" valign="top">
+				<input type="radio" name="answer" id="answer3" value="59">
+			</td>
+			<td width="90%" valign="top">
+				<label for="answer3">I don't know</label>
+			</td>
+		</tr>
+	<tr>
+		<td><br></td>
+	</tr>
+	<tr>
+		<td align="right" colspan="2"><a href="?show_result=1">See Results</a>&nbsp;&nbsp;<input type="submit" value="Vote!" class="text" style="width: 50px;">&nbsp;</td>
+	</tr>
+</table>
+</form></td></tr>
+
+							<tr><td colspan="2"><br></td></tr>
+
+							
+	<tr>
+		<td colspan="2" bgcolor="#E3E3E3" height="20" style="padding-left: 3px; border: 1px black solid;">
+			<font color="BLACK" style="font-size: 11px;"><b>Most Popular Advisories</b></font>
+		</td>
+	</tr>
+	<tr>
+		<td><br></td>
+	</tr>
+
+							<tr>
+								<td style="padding-left: 5px;">
+									<table width="100%">
+										
+										<tr>
+											<td valign="top">
+												1.
+											</td>
+											<td valign="top">
+												<a href="/advisories/25023/"><img src="/gfx/crit_4.gif" alt="" border="0"><br>
+												Adobe Photoshop Bitmap File Handling Buffer Overflow Vulnerability</a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<img src="/gfx/blank.gif" height="4" width="0" alt="">
+											</td>
+										</tr>
+										<tr>
+											<td valign="top">
+												2.
+											</td>
+											<td valign="top">
+												<a href="/advisories/25057/"><img src="/gfx/crit_3.gif" alt="" border="0"><br>
+												Ubuntu update for php</a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<img src="/gfx/blank.gif" height="4" width="0" alt="">
+											</td>
+										</tr>
+										<tr>
+											<td valign="top">
+												3.
+											</td>
+											<td valign="top">
+												<a href="/advisories/25021/"><img src="/gfx/crit_2.gif" alt="" border="0"><br>
+												Invision Power Board class_upload.ph p Cross-Site Scripting</a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<img src="/gfx/blank.gif" height="4" width="0" alt="">
+											</td>
+										</tr>
+										<tr>
+											<td valign="top">
+												4.
+											</td>
+											<td valign="top">
+												<a href="/advisories/25045/"><img src="/gfx/crit_3.gif" alt="" border="0"><br>
+												IBM WebSphere Application Server Unspecified Vulnerability</a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<img src="/gfx/blank.gif" height="4" width="0" alt="">
+											</td>
+										</tr>
+										<tr>
+											<td valign="top">
+												5.
+											</td>
+											<td valign="top">
+												<a href="/advisories/25051/"><img src="/gfx/crit_4.gif" alt="" border="0"><br>
+												IncrediMail IMMenuShellExt ActiveX Control Buffer Overflow</a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<img src="/gfx/blank.gif" height="4" width="0" alt="">
+											</td>
+										</tr>
+										<tr>
+											<td valign="top">
+												6.
+											</td>
+											<td valign="top">
+												<a href="/advisories/25037/"><img src="/gfx/crit_2.gif" alt="" border="0"><br>
+												Sun Solaris PostgreSQL SECURITY DEFINER Privilege Escalation</a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<img src="/gfx/blank.gif" height="4" width="0" alt="">
+											</td>
+										</tr>
+										<tr>
+											<td valign="top">
+												7.
+											</td>
+											<td valign="top">
+												<a href="/advisories/18787/"><img src="/gfx/crit_2.gif" alt="" border="0"><br>
+												Internet Explorer Drag-and-Drop Vulnerability</a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<img src="/gfx/blank.gif" height="4" width="0" alt="">
+											</td>
+										</tr>
+										<tr>
+											<td valign="top">
+												8.
+											</td>
+											<td valign="top">
+												<a href="/advisories/24999/"><img src="/gfx/crit_2.gif" alt="" border="0"><br>
+												Trustix update for postgresql</a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<img src="/gfx/blank.gif" height="4" width="0" alt="">
+											</td>
+										</tr>
+										<tr>
+											<td valign="top">
+												9.
+											</td>
+											<td valign="top">
+												<a href="/advisories/25011/"><img src="/gfx/crit_4.gif" alt="" border="0"><br>
+												Apple QuickTime Java Handling Unspecified Code Execution</a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<img src="/gfx/blank.gif" height="4" width="0" alt="">
+											</td>
+										</tr>
+										<tr>
+											<td valign="top">
+												10.
+											</td>
+											<td valign="top">
+												<a href="/advisories/25006/"><img src="/gfx/crit_2.gif" alt="" border="0"><br>
+												Sun Solaris X11 Multiple Vulnerabilities</a>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<img src="/gfx/blank.gif" height="4" width="0" alt="">
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+
+							<tr>
+								<td><br><br><br><br></td>
+							</tr>
+						</table>
+
+						<img src="/gfx/blank.gif" alt="" width="140" height="0">
+				</TR>
+			</TABLE>
+		</TD>
+		<TD width="1"></TD>
+	</TR>
+	<TR>
+		<TD colspan="3"><br></TD>
+	</TR>
+	<TR>
+		<TD align="center" colspan="3" bgcolor="#E3E3E3" style="border-left: 1px black solid; border-right: 1px black solid; border-top: 1px black solid;" height="25">
+			<a href="http://corporate.secunia.com/products/8/vulnerability_management_solutions_process/" title="Vulnerability Management">Vulnerability Management</a> - 
+			<a href="/terms_and_conditions/" title="Terms & Conditions">Terms & Conditions</a> - 
+			<a href="/copyright/" title="Copyright Secunia">Copyright 2002-2007 Secunia</a> -
+			<a href="/compliance/" title="Compliance">Compliance</a> -
+			<a href="/contact_secunia/?menu=info" title="Contact Secunia">Contact Secunia</a>
+		</TD>
+	</TR>
+	<TR>
+		<TD colspan="3" align="center" height="4" bgcolor="#000000"></TD>
+	</TR>
+	<TR>
+		<TD colspan="3"><br></TD>
+	</TR>
+</TABLE>
+
+</center>
+
+</BODY>
+
+</HTML>

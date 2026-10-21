@@ -1,0 +1,1994 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:00] ed è normale e questo lo si può rivedere anche nel caso del giornalista che va in
+[00:05] giro che deve trasferire informazioni deve poter accedere la sua azienda
+[00:08] dalla ipad, al iphone, al telefono, micro perché se non rimane una registrazione
+[00:14] tristissimo, odio, alza il volume, no sono contro, scusate materialmente quindi
+[00:28] all'interno dell'azienda devo poter accedere con qualunque tipo di prodotto
+[00:32] mobile, classico sviluppo oramai di iphone, ipad come dicevo poco fa, devo garantire di
+[00:38] non portare problemi all'interno della mia azienda quindi il virus che potrei
+[00:42] avere a bordo ma l'esempio del virus oramai è strausato qualunque cosa anche il
+[00:48] solo fatto che mentre accedo non devo poter né trasferire in un verso né
+[00:51] nell'altro informazioni che non sono di mia competenza posso accedere, posso
+[00:56] trasferire le fotografie che ho fatto, lo devo poter fare in maniera sicura quindi
+[01:01] con un canale che mi garantisca che da dove mi trovo a dove arrivano questi dati non
+[01:06] ci sono intromissioni di nessun tipo, nessun altro vede quello che io sto
+[01:10] facendo, nello stesso tempo deve garantire appunto di non farmi andare
+[01:14] anche a vedere magari i documenti di altri in quello stesso ambiente e uno
+[01:19] degli scopi di questi prodotti è anche questo quindi garantirmi di
+[01:22] poter accedere da ovunque in maniera sicura questo è il concetto base ma senza
+[01:28] darmi troppa libertà all'interno di quell'ambiente all'interno di quella rete
+[01:32] io non so se siete abituati a trasferire informazioni che siano esse
+[01:36] testo immagini o qualunque altra cosa in modalità mobile ovvero siete in
+[01:43] giro riprendete qualcosa scrivete un articolo al volo oramai io ho visto
+[01:48] eravamo giù a sentire un pezzetto della presentazione di rodotà e su twitter
+[01:52] stavo ricevendo in tempo reale i commenti e piccoli estratti di quello che lui
+[01:57] diceva oltretutto in quanti caratteri meno di 200 con quindi la impossibilità
+[02:04] di posizionare correttamente quella informazione perché in 170 caratteri o
+[02:09] delle grosse difficoltà a mettere in un corretto contesto quello che è
+[02:12] arrivato se non fossi stato lì su un paio di commenti twitter con vista
+[02:16] arrivare non avrei capito se stavano giudicando positivamente
+[02:19] positivamente negativamente quello che rodotà stava dicendo non c'era lo
+[02:23] spazio per capirlo dall'altro lato un articolo che viene inviato una
+[02:28] fotografia che viene inviata non deve essere manipolata da nessuno dal mio
+[02:33] twitter parte il commento che bello e qualcuno nel mezzo ci va scrivere
+[02:38] qualcos'altro e arriva tutti gli altri con scritto dentro qualcos'altro
+[02:42] questo deve essere evitabile si può i sistemi esistono con zicardi ci siamo
+[02:47] lanciati in una idea un po particolare che era quella di proporre di andare in
+[02:51] giro con un firewall portatile il più piccolo che esiste a livello hardware o
+[02:57] delle versioni software nel nostro caso non lo produciamo quello software ma
+[03:00] siamo qua possa per far cultura in questa direzione quindi qualcosa che
+[03:06] aiuti a garantire che mi posso collegare che non porto problemi alla
+[03:10] mia azienda e che nello stesso tempo mi garantisca che nessun altro tocca quei
+[03:14] dati mentre io li trasferisco in gergo è una vpn virtual private network vuol dire
+[03:21] creare un tubo virtualmente perché non è reale all'interno di quella che è la
+[03:26] comunicazione ip per tutti quelli che non conoscono questi termini hanno dei
+[03:31] dubbi si pongono delle domande possiamo farlo assolutamente interattivo
+[03:34] mentre io ve lo dico cioè se c'è qualcuno dice aspetta rispiega mi che
+[03:37] cos'è una vpn ditemelo ora perché sono anche i concetti che ci sono dietro dopo
+[03:41] saranno ancora più difficili da comprendere la presentazione di oggi lo
+[03:45] spazio di oggi voleva essere una un racconto su come ci si può securizzare
+[03:51] senza passare per paranoici ma per dei motivi ben precisi mi trovo all'estero
+[03:56] mi trovo in un albergo siamo due o tre colleghi dobbiamo trasferire
+[04:00] informazioni ci possiamo collegare singolarmente con il wi-fi dell'hotel
+[04:06] e passare sulle loro linee sappiate che tecnicamente
+[04:11] il vostro dialogo sul wireless se non è sicurizzato in qualche modo è
+[04:15] assolutamente leggibile
+[04:18] questo non è terrorismo psicologico vi garantisco che è una delle cose più
+[04:23] semplici che possono accadere ecco legato a un sistema wi-fi aperto o
+[04:27] comunque con delle chiavi ma molto semplici anche da sfruttare pur
+[04:31] troppo per fortuna dipende dai lati da chi è a fianco a voi dalla stanza
+[04:36] fianco da tre piani sotto possono intromettersi in quella comunicazione
+[04:40] sfruttarla per acquisire informazioni sulla vostra realtà sulla vostra
+[04:44] azienda e nel frattempo vedere quello che voi state trasferendo quindi lo
+[04:48] scopo di una vpn è quello di creare un tubo sul quale solo io e il
+[04:53] destinitario dell'altra parte siamo in grado di dialogare in maniera tale
+[04:57] che nessun altro si intrometta adesso cosa lo risolviamo e una delle analisi
+[05:13] che bisogna fare è garantire l'integrità non solo del dialogo fra un punto e
+[05:18] l'altro ma anche l'integrità dell'oggetto che viene usato per fare
+[05:22] il dialogo perché il secondo livello se volete la mettiamo sul lato paranoia
+[05:26] della comunicazione il secondo livello di problema è la comunicazione
+[05:30] sicurissima e sicurissima peccato che il mio device sia già onato da
+[05:35] qualcuno qualcuno già al pieno controllo del mio cellulare del mio ipad della mia
+[05:40] azienda per qualche altro motivo e di conseguenza anche se io parlo cifrato
+[05:45] da un punto all'altro in realtà i due in point i due lati che si parlano
+[05:49] sono talmente già controllati che il fatto di parlarci fratto ormai serve
+[05:53] veramente a poco avere prodotti che abbiano la capacità di fare
+[05:56] questo tipo di controlli il fatto di essere un aziende che investono in
+[05:59] questa direzione è perché è un'esigenza che sta diventando sempre più comune su
+[06:05] tutti i fronti da quello dell'informazione in realtà quello classico aziendale di
+[06:08] qualunque tipo di attività di lavoro e ci si trova spesso a scontrarsi con
+[06:13] aziende che hanno fatto enormi investimenti per server hardware di
+[06:18] ogni tipo laptop parmari nuovi per i dipendenti e hanno curato molto poco
+[06:24] la modalità con la quale poi si dialoga o si trasferiscono le
+[06:27] informazioni vitali poi per l'azienda stessa poter fare controlli di questo
+[06:32] tipo ecco perché ho il microfono poter fare controlli di questo tipo significa
+[06:38] però alle volte rallentare il dialogo creare delle problematiche per accedere
+[06:42] alle risorse io devo poter vedere velocemente quelle che sono le
+[06:46] fotografie all'interno di un database di foto sulla mia azienda oppure devo
+[06:50] velocemente scorrere gli articoli che ci sono dell'altra parte se io ci
+[06:54] metto in mezzo qualcosa alle volte rallenta alle volte mi crea una
+[06:58] difficoltà in più sono in quel famoso tele siamo in wireless e in cominciò a
+[07:03] cercare di collegarmi la mia azienda in chiaro e qualche di un altro si
+[07:06] intromette al mio posto in queste comunicazioni tutto questo si può
+[07:11] evitare si può evitare con dei sistemi anche a basso costo oggi proprio per
+[07:16] dimostrare come detto qualcuno che sono super partes benché lavori per una
+[07:20] azienda specifica che vende prodotti di questo tipo vi ho portato un
+[07:23] esempio di un giocattolo dedicato hanno fatto anche una bella custodia simpaticissima
+[07:29] un giocattolo dedicato a creare un sistema operativo virtuale temporaneo su
+[07:36] qualunque hardware quasi qualunque hardware questo banalmente è una chiave usb
+[07:43] vedo alcune espressioni è caduta la mandibola sono rimasti questo giocattolo
+[07:48] è semplicemente un sistema operativo che cifra con una password che ho
+[07:53] scelto io fin dall'inizio che posso inserire in un portatile imprestito e che
+[07:58] a bordo tutte quelle funzioni di innanzitutto è temporaneo qualunque
+[08:02] cosa faccia rimane in quello spazio dopo di che quando lo stacco sparisce
+[08:07] primo secondo tutti i dialoghi che va a generare verso fuori possono essere
+[08:14] securizzati cioè a bordo quei tool quei servizi quei sistemi che mi
+[08:17] permettono di creare un tunel vpn quindi di cifrare eventualmente di
+[08:22] controllare se questa cifratura è corretta di controllare se c'è qualcuno che si
+[08:26] intromette il uno dei primi pensieri di chi controlla è quello di riuscire a
+[08:35] controllare tutto non solo per il virus o per l'attacco applicativo devo poter
+[08:40] controllare tutto in maniera tale che in caso di bisogno posso reperire tutti
+[08:44] i dati se me lo chiedete quando ho il cappellino sonico alcohol brand e
+[08:48] verico si il nostro prodotto hardware software le varie versioni che esistono
+[08:52] è in grado di controllare al bit ogni singola transazione che gli passa
+[08:57] attraverso quindi se è aziendalmente davanti a voi come ho letto in qualche
+[09:01] poste in qualche università c'è un sonico nel mezzo e fa filtri riesce a
+[09:08] identificare la differenza tra un normale traffico http quindi la
+[09:11] navigazione su un sito rispetto a tor che mi passa sulla porta 80 e se l'
+[09:17] amministratore direte decide di chiudere tor non ha il problema che deve chiudere
+[09:21] la porta 80 e impedirebbe di navigare può continuare a lasciare navigare tutti ma
+[09:27] riconoscere tor nello specifico e bloccare lo esempio di tor non è a caso non
+[09:33] penserò te mi manca la voce bravissimo per un attimo ho detto strano che
+[09:39] nessuno me lo chieda quanti di voi conoscono tor ok giusta scusate ma
+[09:45] un minimo di statistica per capire beh dall'anno scorso vi posso garantire che la
+[09:51] quantità di persone che hanno scoperto cos'è che lo usano è quadruplicata
+[09:56] probabilmente è un sistema che per me chi è che ha fatto la domanda cos'è tor che
+[10:00] non vedo più ok era mirata allora sei circondato da persone che lo sanno mi
+[10:07] suona strano che tu non abbia questa informazione vuoi la versione ufficiale
+[10:11] è comunque un sistema che ti permette di navigare in modalità anonima che cerca
+[10:16] di garantirti la capacità di non essere tracciato quando vai a navigare susiti
+[10:21] internet pregi difetti e più nel dettaglio o qualcosa lo potranno raccontare un
+[10:26] paio di persone che dovrebbe essere qua ma non stanno arrivando io reggo
+[10:31] banco fino a che non si aggiungono limitato la navigazione internet quindi
+[10:37] non si potrebbe usare per spedire posta per esempio non si potrebbe ha una serie
+[10:43] di vincoli e la cosa più bufa di tutte è che uno dei super nodi di tor per chi
+[10:47] conosce veramente tor a fondo passa giusto sempre per da casa di un team
+[10:53] che si occupa di sicurezza nazionale internazionale quindi fa tutto per
+[10:57] anonymizzare però è come se dicessi passa in casa della polizia di stato
+[11:03] per sicurezza però anonymizza mi ha lasciato un po stupito la prima volta
+[11:08] avuto la certezza che il team simru aveva uno dei tre nodi più grossi di tor a
+[11:13] livello europeo però stanno dalla parte dei buoni e quindi sono quelli che si
+[11:18] occupano di evitare che da lì succede qualcosa di spiacevole anonymizzare la
+[11:22] navigazione su internet tanto quanto garantire un tubo sicuro nel quale
+[11:26] non si può leggere cosa state trasferendo potrebbe anche significare
+[11:31] che vi viene permesso di trasferire qualcosa che non andrebbe trasferito vi
+[11:36] potrebbe permettere di utilizzare delle informazioni o delle o di andare a
+[11:41] visitare dei siti che sappiamo perfettamente non vogliamo che siano
+[11:44] utilizzati vorremmo tutti che sparissero e di conseguenza poter
+[11:49] anonymizzare qualcuno che va in quella direzione potrebbe anzi andrebbe
+[11:53] considerato grave quindi bisogna essere in grado probabilmente di concepire il
+[11:58] sistema come evito di farmi tracciare per tutto quello che riguarda il generale
+[12:03] statistiche quali prodotti devono andare a vendere il mese dopo chi sono quali
+[12:08] abitudini o eccetera ma nello stesso tempo per tutto ciò che è illegale
+[12:12] rimane corretto il fatto di poterlo comunque inibire controllare
+[12:17] eventualmente spero di non urtare nessuno con questa affermazione
+[12:21] estremamente personale però ho sentito commenti sulla libertà dell'uso di
+[12:25] internet che oramai poi c'è tantissima gente ognuno con la sua visione sono
+[12:31] abbastanza particolari ci sono guai a togliere la cittadinanza internet a
+[12:37] qualcuno famoso riscorso e faceva con rodota prima in francia è già arrivato a
+[12:41] questa problematica se per più di tre volte e ne volte viene commesso un
+[12:46] illecito allora ti tolgo l'accesso a internet quindi ti imprigiono fuori
+[12:52] dal mondo internet sono situazioni abbastanza particolari
+[12:55] bisogna vedere a livello legale giusto appunto quali sono le tre azioni
+[12:59] sbagliate fatte perché se ho commesso delle rapine in banca grazie all'uso di
+[13:05] internet ci può anche stare che gli togli il mezzo come lo faresti con un
+[13:09] qualunque rapinatore gli togli la possibilità di farlo se l'illecito
+[13:13] ho danno dato qualcosa di musicale e ho violato dei diritti qui entre un
+[13:18] altro ambito di nuovo difficilissimo devo capire quanto reale quanto è vero e
+[13:22] anche qua posso intervenire però non posso intervenire a escludere al 100%
+[13:27] l'uso di un sistema perché stato usato in maniera sbagliata su un argomento
+[13:32] specifico purtroppo per farlo esist questi sistemi quelli che abbiamo
+[13:36] parlato fino adesso sono quelli che aiutano a capire chi sta commettendo
+[13:40] l'illecito e quando quindi da un lato le macchine in grado di analizzare
+[13:44] il traffico a questo livello sono da considerarsi un controllore
+[13:50] un controllore è capace di identificare la differenza appunto diciamo prima tra la
+[13:53] pura navigazione per esempio e qualcos'altro e quindi decidere di gestirla
+[13:58] ma anche qua se state navigando regolarmente se state usando siti più
+[14:04] o meno istituzionali o comunque regolari che non viano nessun'altra legge
+[14:08] dimenticate internet per un attimo ma in generale sarebbe illegale andare a
+[14:12] rubare a mano in una banca sarebbe illegale riuscire a entrare nei sistemi
+[14:16] della banca e riuscire a creditarsi sul proprio conto soldi di altri
+[14:20] l'illecito è lo stesso identico la differenza del mezzo non è eliminando
+[14:27] il mezzo in generale che risolviamo il problema dell'illecito dall'altra
+[14:30] parte quindi quello che rimane da fare è avere dei sistemi che siano
+[14:33] corretti che si rendano conto della differenza che gli utenti siano
+[14:38] informati sì se da qua adesso navigate se andate su un sito particolarmente
+[14:43] grave potrebbe esserci qualcuno che lo scopre che lo sa e che vi viene a
+[14:47] cercare sarebbe la stessa cosa e se adesso uscite prendete un sasso andate
+[14:51] a rompere una vetrina se qualcuno lo scopre vi viene dietro identico dall'altro
+[14:56] lato devo poter intervenire a livello personale per tutelarmi dall'abuso di
+[15:02] questo dell'uso di queste informazioni non deve diventare un abuso
+[15:07] quindi i sistemi che mi permettono di collegarmi a internet e tutelare
+[15:11] dall'anonimato fino a un tubo sicuro da un lato all'altro devono anche essere
+[15:17] noti dovete essere abituati all'idea che tanto quanto voi potete fare un tunnel
+[15:22] cifrato per esempio in ssl esistono attacchi perché sono veri i propri
+[15:27] attacchi o tecniche che nascono da attacchi che permettono di spezzare la
+[15:31] catena ssl ovvero quella che vi permette di dialogare in maniera
+[15:35] cifrata sul sito concetto di ssl o velocizzandolo quando andate su una banca a
+[15:40] fare un banking piuttosto susciti che hanno quel famoso lucchettino che compare
+[15:44] è perché usa un dialogo che non è in chiaro ma è cifrato questa cifratura in
+[15:50] realtà è basata su un sistema di certificati che può essere violata
+[15:55] però l'utente se conosce il sistema può perfettamente accorgersene sa di
+[16:01] non stare parlando cifrato da un punto all'altro sa che sei intromesso qualcuno
+[16:06] nel mezzo e quindi sa se può e se deve trasferire determinati tipi di
+[16:10] informazione o meno vai perfetto in ssl hai due argomenti uno pericolosissimo e
+[16:20] uno più semplice parto da quello più semplice in generale per andare su un
+[16:23] qualunce normale il mio sito in htps se viene a parlare col mio sito ti
+[16:29] rilascia un certificato per decidere appunto il sistema con cui cifrare e
+[16:33] per farsi identificare soprattutto e riconoscere che il sito è realmente quello
+[16:38] e che stai creando quel tubo sicuro fra me e lui la caratteristica primaria del
+[16:43] certificato sarebbe e sottolineo sarebbe perché questa è la parte
+[16:47] difficilissima di cui andare a parlare potrebbero legarmi è un evoco ne
+[16:54] può esistere uno e non ce ne possono essere altri ora vengono fuori i
+[16:58] due casi uno più evidente te ne accorgi perché quando inizia a dialogare ti
+[17:04] viene fuori la proposta del certificato l'analisi tu dovresti cosa che non fate
+[17:10] quasi mai andare a controllare il certificato cioè legge non basta che mi
+[17:15] passe hai la carta identità sì e te la rimetti in tasca no spettala apro la
+[17:19] guardo ti confronto controllo che combaci controllo che non sia
+[17:23] contraffatta e a quel punto ti parlo esattamente quello è inutile solo
+[17:28] passare con la carta identità in mano bene il certificato fatto passare in
+[17:32] automatico è come non averlo usato perché ci può essere scritto dentro qualunque
+[17:36] cosa quindi se controllo per rispondere a tua domanda mi accorgo se è veramente il
+[17:40] certificato del mio sito oppure è qualcos'altro purtroppo ora la parte
+[17:45] brutta questa ve lo dico per il nuovo se non c'è grande di far cultura in questa
+[17:48] direzione non è detto che il certificato sia un evoco quindi se
+[17:53] qualche d'un altro si mette in mezzo con un certificato falso sta all'utente
+[17:58] accorgersene e decidere di non utilizzare quella connessione quel sito se però
+[18:03] qualche d'un altro vedi a livello magari più alto uno stato decide di avere una
+[18:10] copia dei certificati di un determinato ambiente credo che quella su google
+[18:14] purtroppo sia pubblica l'unica che posso nominare pubblicamente che parrebbe
+[18:19] anche qua non c'è zicardi a fianco non posso espormi troppo se non non
+[18:23] legale che mi ferma aver lasciato utilizzare i propri certificati a
+[18:29] terzi per far sì che si potessero intromettere sui dialoghi gmail di
+[18:34] qualche d'uno affindi bene contro il terrorismo tutto vero è assolutamente
+[18:38] non lo metto minimamente in dubbio però è stata una delle più grosse
+[18:41] violazioni del criterio di sicurezza di un certificato in assoluto poi vengono
+[18:45] anche fuori tutte quelle storie di bucata una certification authority
+[18:50] grazie a quella sono risalite dei nuovi certificati allora grazie a quelli sono
+[18:54] riusciti a leggere i dialoghi cifrati già stava in piedi per la pratica poi
+[18:58] emerso che in altre situazioni invece non era così per cui me ne devo accorgere
+[19:01] come utente in certi casi molto gravi come quello invece non te ne puoi accorgere
+[19:06] ok innanzitutto il certificato ha una validità ed è emesso da una realtà
+[19:19] nota quindi faccio un esempio di nomi dentro il vostro browser questa è una
+[19:23] cosa gravissima dovete imparare questi sistemi qualo prevedono le cancelle
+[19:27] in automatico dentro il vostro pc qualunque sistema operativo voi usiate
+[19:33] qualunque browser voi usiate se andate alla pagina al tab relativo ai
+[19:37] certificati anzi alle certification authority cioè quegli enti che
+[19:42] rilasciano certificati e che dovrebbero validare un certificato sono
+[19:46] già pre impostati nel sistema bellissimo questo vuol dire che se
+[19:51] microsoft decidere di pre impostare godeddi come autoriti valida quando mi
+[19:57] passa attraverso un certificato di godeddi viene comunque riconosciuto come
+[20:01] valido perché la macchina sa parlare con godeddi in pratica un controllore gli
+[20:06] chiede se il certificato è reale godeddi gli dice di sì e la mia macchina
+[20:10] accetta quel certificato se lo vada a guardare mi risulta valido nel
+[20:14] momento in cui io faccio questo tipo di controllo mi affido al giudizio di
+[20:18] una terza parte che nel browser è in automatico in alcune situazioni
+[20:22] questo è grave io devo poter togliere da dentro il mio browser tutte le
+[20:26] certification authority e ritenere valide solo quelle che voglio io per esempio non
+[20:30] quella lista enorme che ci trovate dentro in questo momento questo per
+[20:34] evitare che mi vengono utilizzati in giro certificati di realtà magari
+[20:39] molto poco conosciute e magari controllate da qualcuno che
+[20:43] verrebbero accettati e validati in automatico verisign è estremamente nota
+[20:49] rsa estremamente nota godeddi forse incomincerò già un po meno taute è nota
+[20:55] ma fino a un certo punto c'è nessuno poi dentro altre 25 30 che
+[21:00] assolutamente nessuno che non lavora nel settore conosce e che possono essere
+[21:05] utilizzate per validare quindi i certificati per accorgermi se il
+[21:09] certificato è valido o meno io lo devo aprire nel momento in cui vado su un
+[21:13] sito in HTTPS mi viene proposto il certificato devo aprirlo devo scorrere
+[21:19] lo e devo andare a controllare da chi lo è messo fino alla data di validità tutta una
+[21:23] serie di parametri esattamente come come ti accorgi che la mia carte d'intità è
+[21:27] vera o falsa o il mio passaporto è vero o falso facendo un confronto leggendo
+[21:32] nei vari campi cercando di capire se sono validi se sono veritieri oppure
+[21:37] se non lo sono è molto difficile assolutamente si son d'accordo
+[21:42] ecco perché per comodità ci sono una serie di certificati autoriti
+[21:45] integrate nel browser che fanno questo lavoro per noi può avere senso sina che
+[21:51] mi devo collegare a n mila siti la volta in cui sono in un ambiente ostile
+[21:56] parliamo di questa senza dare precisazioni di quale ambiente può
+[22:00] essere qualunque per me ostile può anche essere wifi dell'albergo dell'aeroporto
+[22:04] può essere un paese straniero può essere qualunque cosa sono un ambiente
+[22:08] ostile e mi devo collegare al mio sito dentro al quale ho i miei dati o magari
+[22:16] mi devo collegare al mio sito perché lo uso come sponda sicura per trasferire
+[22:22] le informazioni il mio sito il certificato me lo sono comprato e fatto lo
+[22:28] conosco e ne ho copia in tasca a quel punto il paragone è facile non devo
+[22:33] andarmi a leggere tutti i campi di tutti quanti di tutti i certificati di
+[22:37] ogni cosa che mi passa davanti è importante tenerlo presente per alcune
+[22:41] specifiche situazioni nelle quali avere magari di coin tasca nel senso avere la
+[22:45] capacità di confrontarlo che sia digitale elettronica ovviamente per
+[22:49] riuscire a accorgemi se qualcuno si sta entromettendo fra me e il mio sito vi
+[22:56] spiego il frame il mio sito in un altro modo
+[24:28] e magari non vengono indirizzato veramente a google ma finisco da parter
+[24:32] prima se io da qua mi collero un ufo scontro in mezzo alla strada non
+[24:47] pubblico pubblico ma non ne tolgo il pubblico fa il diritto la censura che
+[24:53] c'è all'estero e sapete vero quello che c'è l'Italia
+[24:58] quello non è un paese che è senza censura anche su internet ci sono una
+[25:03] serie di controlli però esiste da qua che si ammuragna o meno nel momento in cui
+[25:13] io chiedo quel sito avrei detto transito su dei sistemi che decidono per me
+[25:19] possono decidere per me se io dal mio piccino creo un tubo
+[25:26] e io avrei detto essere un po' sicuro sono rientrato in italia e ho creato un tubo
+[25:36] che qualunque cosa io chieda viene prima a mandare qua e su questo dialogo sono per
+[25:43] esempio dialogo fino a casa mia e da qua richiedo in automatico quel sito
+[25:59] questo sistema disponda se riesco a rendere più semplice è quello che mi
+[26:04] garantisceзce e da qui fino a oltre il muro parlo cifrato cifrato vuol dire che
+[26:12] non può interpretare cosa sto chiedendo non può sapere se stavo chiedendo google
+[26:17] se stavo chiedendo qualcos'altro questi sono sistemi semplicissimi da usare
+[26:22] che mi faccio fare sponda o tor che mi faccio riuscire da questa qual'è l'altro
+[26:28] ambiente e giro per internet fa esattamente questo tor mi fa passare in
+[26:34] casa di n altre persone in casa mia si occupa di fare questo è più semplice ma
+[26:44] soprattutto è personale sono io che tengo le chiave di casa sono io che
+[26:48] rinvoldeci prature sono le persone che sono certificato che sono all'estero
+[26:54] un pronto subito se quello che mi arriva il mio
+[26:57] ma
+[27:07] ufficio potrebbe essere l'ambiente stile così rispetto al tu che navighi su
+[27:12] internet in italia
+[27:18] ma come fa allora lo stato mettiamo che ha l'interesse tutto l'interesse a
+[27:30] filtrare tutto quello che passare che esce insomma come può decidere di
+[27:35] cioè come può ammettere l'esistenza di questi sistemi perché praticamente io gli
+[27:39] sto dicendo ok tu questa parte qui non la vedi non la vedrai e sono io a
+[27:43] stabilirlo e non c'è a così altrimenti come dire anche
+[27:50] questo esempio
+[28:13] a cercare di ciprarli o a chiedere a chi li crea di lasciare degli spazi per loro
+[28:19] per poter interagire con questo tipo di transazione
+[28:23] è un controsenso teoricamente
+[28:32] ecco perché nascono sistemi come di torte l'occasione che dice di essere
+[28:38] indipendente rispetto a vendor che qua sono vendor americano sai la barzelletta
+[28:43] che si racconta di vendor americano e tutti quelli che fanno si si cifrattura in realtà
+[28:47] lascia un appendor per fbhc a snm
+[28:51] bene voi sapete c'è mi fa quando inizia a trovare con questi prodotti in italia
+[28:56] chi mi è venuto a chiedere di lasciarli spazio
+[28:59] per poter controllare cosa gli utenti facevano
+[29:02] mamma pirelli
+[29:04] ma c'è un pirelli che cosa fa?
+[29:12] non le go
+[29:14] non le go
+[29:16] da la reazione
+[29:18] c'è un pirelli che fa
+[29:20] ma c'è un pirelli che stanno
+[29:25] che stanno
+[29:27] con uteri che stanno
+[29:31] siccome non stanno
+[29:33] dai prodotti che stanno dietro
+[29:36] e siccome il prodotto che sta dietro per l'infrastruttura
+[29:39] perché una realtà
+[29:41] per esempio il pirelli ma attenzione è solo un esempio
+[29:45] lo posso garantire
+[29:47] perché dal dupici
+[29:49] aiutavo
+[29:51] che va
+[29:53] alla mia scatola super sicura
+[29:55] che va
+[29:57] a router modern pirelli
+[30:00] guardate pirelli
+[30:02] ma è nere assolutamente
+[30:05] sina che non c'era una scatola super sicura che faceva
+[30:08] io da qua dicevo ciao
+[30:10] massava
+[30:12] e questo oggetto leggeva ciao
+[30:14] e comunicava
+[30:15] cristiano leggeva ciao
+[30:17] era in grado di farlo e lo faceva già
+[30:19] la parola che andava ad analizzare non era ciao
+[30:21] andava ad analizzare cosa compravamo
+[30:23] su quali siti lavorava con la carta di credo
+[30:25] una serie di altre informazioni
+[30:27] metto la scatola super sicura
+[30:29] e dall'altra parte
+[30:31] via con un altro router
+[30:33] con un altro pirelli
+[30:35] e con un altro PC
+[30:37] nei momenti in cui queste due scatole
+[30:40] creano quel tubo
+[30:42] questo oggetto qua piange
+[30:44] perché non riesce più a leggere
+[30:46] perché ciao quando arriva qua viene trasformato
+[30:48] in IOC
+[30:50] ve la so ovviamente semplicitando
+[30:52] lui non sa come fare
+[30:54] qual è l'algoritmo con cui ritornere
+[30:56] la parola iniziale che piange
+[30:58] per dare informazioni
+[31:00] signori, stiamo forti, siamo potenti
+[31:02] veniamo da voi e richiediamo
+[31:04] non è che lo potete fare a voi per noni
+[31:06] il gesto che ho fatto io sul tavolo di pirelli
+[31:08] non lo ho ripeto
+[31:10] dopo 15 anni passate a far segurizzazione
+[31:12] lavorare con il concetto di non voglio
+[31:14] avere data mai nella l'interno
+[31:16] in casa mia, figure che possiamo facevete
+[31:18] nel prodotto che vada a vendere in giro
+[31:20] vero è che alcuni algoritmi
+[31:22] di cifratura e alcuni sistemi
+[31:24] di cifratura e di algo sicuro
+[31:26] sono comunque da sempre già noti
+[31:28] sono i lucchetti TSA
+[31:30] dell'aeroporto, piace con quella quale
+[31:32] il lucchetto lo metti ma mi dà qualcuno la chiave
+[31:34] per averli sempre ce l'ha
+[31:36] perché deve poterlo fare
+[31:38] per questioni di sicurezza, ci sta
+[31:40] ritorniamo a considerare
+[31:42] il lavoro che c'era fuori
+[31:44] se io sto navigando correttamente
+[31:46] se io sto trasferendo informazioni normali
+[31:48] non mi devo preoccupare
+[31:50] metto il lucchetto alla valigia
+[31:52] perchè so che quello che la trasporta
+[31:54] potrebbe fregarmi il regalo che ho comprato
+[31:56] non metto il lucchetto alla valigia
+[31:58] perché ci sono 10 mili di cocaína
+[32:00] perché ci sono 10 mili di cocaína
+[32:04] l'ultimo dei miei problemi è il lucchetto
+[32:06] qua è uguale
+[32:08] sì, attenzione
+[32:10] in giro ci sono 700 telecamere
+[32:12] per la città di Milano, ok?
+[32:14] da sole, ma c'è
+[32:16] che mi riprendano pure, sto passeggiando
+[32:18] se non mi consegnano a fare con un cliente
+[32:20] se non mi fa una consulenza
+[32:22] non ho problemi, ah però potrebbe
+[32:24] essere usato per, ok, allora quasi
+[32:26] in un altro ambito, se le informazioni che io trasferisco
+[32:28] e torniamo all'ambito specifico
+[32:30] che vuole poter cifrare
+[32:32] per tornare fino a casa mia
+[32:34] e farli uscire
+[32:36] la casa mia con una barba italiana
+[32:38] perché se le faccio uscire
+[32:40] oltre una muraglia, magari non escono
+[32:42] o non potrei farlo
+[32:44] beh, in questo caso non sto teoricamente
+[32:46] facendo nulla di male
+[32:48] e devo avere un diritto di poterlo fare
+[32:50] quindi, se me lo impedi profondo
+[32:52] e impedirlo con un muro
+[32:54] io posso provare a usare
+[32:56] dei sistemi che mi garantiscano
+[32:58] di poter comunque trasferire
+[33:00] queste informazioni
+[33:02] qua viene il rovescio della medaglia
+[33:04] se lo può fare, il giornalista
+[33:06] non da salto, il giornalista povere
+[33:08] fa la parlando, e che voglio impedire
+[33:10] di trasferire due foto gratissime
+[33:12] di qualcosa di importante che avreste
+[33:14] per uno il caso più
+[33:16] lo può fare lui
+[33:18] allo stesso modo, guardate che ci scontremo noi
+[33:20] con dubbio che un
+[33:22] pornografo usi questo sistema
+[33:24] per andarsi nel giro liberamente
+[33:26] quindi è ovvio
+[33:28] che ci debba e ci possa essere un sistema
+[33:30] per controllare questo tipo di comunicazioni
+[33:32] più semplice
+[33:34] quando l'abbiamo messi sul mercato
+[33:36] quali pavano aziende al mente
+[33:38] vuole sapere qual'è stato il mercato più forte
+[33:40] in cui avevamo spondato
+[33:42] commercialisti e banchiere
+[33:44] in questo almeno dovevamo venduto
+[33:46] più macchine in assoluto
+[33:48] un po' al nord-est di Italia
+[33:50] ve lo abbia alzato di
+[33:52] e compravano qua e stavano là
+[33:54] non si capiva mai perché
+[33:56] non ci voleva tanto a capirlo, no?
+[33:58] quindi è ovvio che un sistema di questo tipo
+[34:00] dobbiamo un concetto iniziale
+[34:02] e va utilizzato
+[34:04] e bisogna conoscere come funziona
+[34:06] perché è fondamentale che abbiamo
+[34:08] i mezzi per utilizzare il caso di bisogno
+[34:10] sono primo, io ho dubbio di due giorni
+[34:12] voglio che sappiano che quando vanno
+[34:14] sul sito devono fare attenzione
+[34:16] cosa ci trovano, devono fare attenzione
+[34:18] una cosa scrivono perché può finire
+[34:20] o comunque quindi devono riflettere
+[34:22] su cosa vuol dire scrivere pubblicamente
+[34:24] da qualche parte, dall'altro lato
+[34:26] gli voglio anche insegnare obligatoriamente
+[34:28] a controllare
+[34:30] quello che stanno facendo
+[34:32] e sapere che loro possono essere controllate
+[34:34] non è giusto
+[34:36] che qualcuno sappia tutti i siti di dove io vado
+[34:38] non ce n'è motivo
+[34:40] perché comunque nei commenti della mia libertà personale
+[34:42] non mi sembra del normale
+[34:44] ma nello stesso tempo, se penso a loro
+[34:46] potete sapere che è qualche di un altro vero
+[34:48] quello che fanno loro
+[34:50] o che si intromette nel loro comunicazione
+[34:52] quindi se loro devono utilizzare sistemi
+[34:54] voglio che sappiano entrambi i lati
+[34:56] bisogna sapere che la mia azienda
+[34:58] può controllare ogni singola mail
+[35:00] che sperisco
+[35:02] e devo anche sapere che il caso di bisogno
+[35:04] per fortuna le me ci sono
+[35:06] sono una copia fondamentale di tutto quello che è stato fatto
+[35:08] e che posso utilizzare in caso di bisogno
+[35:10] però deve essere in formato per esempio
+[35:12] in cui la mia azienda non può pensare
+[35:14] di controllare ogni mio singolo blitz
+[35:16] ogni mia singola telefonata
+[35:18] senza avermelo detto
+[35:20] quindi legalmente anche dall'altro lato
+[35:22] chi usa quell'arma lo deve fare
+[35:24] con dei concetti corretti
+[35:26] con l'informazione dei confronti
+[35:28] di chi utilizzare le linee
+[35:30] quanti voi sono universitari
+[35:34] usate internet e in università
+[35:36] sicuramente c'è un fargolo
+[35:38] sicuramente c'è un oggetto
+[35:40] più o meno funzionale
+[35:42] più o meno bravo, noi siamo più bravi
+[35:44] non sono meno, non è importanza
+[35:46] che controlla cosa fate cosa andate
+[35:48] nessuno in anni di università
+[35:50] aveva mai dovuto dire
+[35:52] che le doate avevano beccato
+[35:54] per andare su quel sito che lo dico
+[35:56] per esperienza personale
+[35:58] ovvero in un enorme università
+[36:00] nella nostra Italia
+[36:02] abbiamo messo in analisi il traffico
+[36:04] per un problema ben preciso
+[36:06] che è specifico
+[36:08] e sono uno dei fori tanti di quei sigli
+[36:10] per quattro ore di analisi
+[36:14] e non si l'aspettava
+[36:16] perché non ho domiti che il proxy
+[36:18] fosse sufficiente a ablocare
+[36:20] tutte le serie di situazioni
+[36:22] potete sapere come uscivano quelli che andavano di formografia
+[36:24] tor, proxy esterni
+[36:26] tutte le serie di altre situazioni
+[36:28] però signa che vanno in questa direzione
+[36:30] formografia gliela concediamo
+[36:32] io lo sempre ho fatto la battuta
+[36:34] sempre un problema dello studente
+[36:36] è quello di poter visitare un studio con una caffè
+[36:38] andiamo a gliela tempo che si rilassi
+[36:40] perché li comincia a studiare
+[36:42] non è un problema
+[36:44] dall'altro lato voglio la garanzia
+[36:46] che si fermi
+[36:48] che non diventino autore
+[36:50] che non sei lui che usi server
+[36:52] dell'università per ospitare siti
+[36:54] di quel tipo
+[36:56] e soprattutto che quando va su quei siti
+[36:58] non mi porti un universitario
+[37:00] è un problema di qualche tipo
+[37:02] che non è solo quello dell'immagine
+[37:04] ma anche il virus
+[37:06] sembra una barzelletta
+[37:08] ma guardate che continua a rimanere assolutamente
+[37:10] efficaci
+[37:12] tutti quelli che sono virus, troia,
+[37:14] e problematiche di internet
+[37:16] presi gratuitamente a una università
+[37:18] che si fa sbagliato
+[37:20] o rispondendo la mia sbagliata
+[37:22] leggendo il guard post sbagliato
+[37:24] perché adesso non si dice
+[37:29] adesso non usate più più di quanti
+[37:31] stanno da nutrici o quanti hanno lo smartphone in tasca
+[37:33] la maggior parte di quelli che lavorano
+[37:35] che girano per pubblicazioni
+[37:37] e se però per code
+[37:39] per andare velocemente da qualche parte
+[37:41] lo usano
+[37:43] non l'ho pagato
+[37:47] però fa benissimo, bravo
+[37:49] è visto quello strano
+[37:51] molattino giallo
+[37:53] che poi mi ha interventato
+[37:55] sui tavoli con quel disegno
+[37:57] tutto a cui il governo di l'Ucetaco
+[37:59] ha sostituto un popolo
+[38:01] ha esistito in questa parlamento
+[38:03] una cosa del genere
+[38:05] quel formato di quadrato
+[38:07] è un quadriciaparte
+[38:09] con un sommato diverso da quello classico
+[38:11] è un sistema che identifica
+[38:13] un qualcosa
+[38:15] quando viene letto
+[38:17] apre per esempio in una pagina web
+[38:19] quindi lo trovi come un sistema
+[38:21] per anziché scrivere
+[38:23] www.pippo.it
+[38:25] ci trovi in questo quadrato
+[38:27] con questi quadratini sparsi dentro
+[38:29] che hanno questo sommato di sciaparte
+[38:31] legcento, in automatico fare
+[38:33] perché i software in direttura
+[38:35] non prevedono solo di leggero
+[38:37] prevedono di interpreparlo
+[38:39] secondo me su di smartphone
+[38:41] anziché non c'è androide
+[38:43] mera che penta
+[38:45] che non avevano problemi di sicurezza
+[38:47] anche sui dras assolutamente
+[38:49] questi quando esecuano
+[38:51] nevano su un sito
+[38:53] se c'è una ponte della metà nota
+[38:55] per l'androide del caso
+[38:57] piuttosto che per le ponte del caso
+[38:59] e quant'altro
+[39:01] e siccome
+[39:03] mettere un virus su 100.000plici
+[39:07] o mettere un virus su 200.000
+[39:09] per le pagini
+[39:11] potenzialmente il mercato
+[39:13] è ancora più alto
+[39:15] e poi è sempre in tasca
+[39:17] è sempre carico
+[39:19] è sempre connesso costantemente
+[39:21] è quello che usate per trittare
+[39:23] il volo se per caso c'è una luce importante
+[39:25] sta diventando
+[39:27] uno dei punti fondamentali
+[39:29] per forza
+[39:31] è più usato
+[39:33] è inutile che vado a cercare di fare
+[39:35] una pianza vuota
+[39:37] e quindi
+[39:42] non è le soluzioni esatto
+[39:44] mi sa che non vi riquare sarebbe la soluzione
+[39:46] per queste problematiche
+[39:48] ci sono e le soluzioni
+[39:50] io ho portato questo
+[39:52] perché mi avevo accolpito il modo in cui l'hanno studiato
+[39:54] questo qua è carino da tenersi dietro
+[39:56] è come avere una chiavetta usb
+[39:58] con un sistema operativo pronto a bordo
+[40:00] mentre ovviamente tutti quei tool che possono servire
+[40:02] ottima domanda
+[40:04] non lo vedo io
+[40:06] non ho commercia macchia sul prezzo
+[40:08] non lo vedo
+[40:10] non lo commercializo
+[40:12] però ammetto che mi ha colpito il fatto
+[40:14] che la loro pubblicità fosse
+[40:16] a Dio vecchio PC
+[40:18] perché dal loro punto di vista
+[40:20] il PC è morto perché basta avere una di quei
+[40:22] è vero con queste in tasca io arrivo
+[40:24] prendo un qualunque PC di là
+[40:26] e ci lavoro esattamente come se fossi sul mio
+[40:28] scritto quello su cui vado a lavorare
+[40:30] perché me lo genera un sistema operativo
+[40:32] virtuale dentro il PC
+[40:34] il PC fa solo da hardware
+[40:36] hai la posta
+[40:38] ha internet explorer
+[40:40] l'office
+[40:42] esattamente
+[40:44] no no poi si si
+[40:46] puoi anche lavorarci installare nuovi programmi
+[40:48] eventualmente perché il cuore
+[40:50] dell'oggetto è il fatto di crearlo
+[40:52] virtuale cifrato
+[40:54] poi se tu sopra ci vuoi aggiungere qualcosa lo puoi fare
+[40:56] assolutamente sì
+[40:58] a livello applicativo attenzione non i dati
+[41:00] dati non hai nessun
+[41:02] tu non vuoi mentre sei in un paese ostile
+[41:04] avere i dati qua sopra
+[41:06] io sto rischiando la pelle con la mia azienda
+[41:08] per finire a raccontartelo
+[41:10] e tu mi vera dove andare a lavorare
+[41:12] tu non vuoi avere i dati qua sopra
+[41:14] simile
+[41:21] con una differenza questi sono pronti
+[41:23] puoi scegliere gli algoritmi
+[41:25] e sono a livello
+[41:27] il problema principale è quello di crearsi
+[41:29] e compreso quello
+[41:31] una chiavetta che parta con tutto
+[41:33] che riconosca l'hardware di qualunque tipo
+[41:35] perché non è che puoi arriver in internet caffè e chiede
+[41:37] ah però io lo voglio col processore tal dei tali
+[41:39] perché se no la mia chiavetta non funziona
+[41:41] la scheda grafica fatta in un certo modo se non non va
+[41:43] il bello di questo ha metto che tutto
+[41:45] lo spazio che ha a bordo è dedicato
+[41:47] alla compatibilità con l'hardware
+[41:49] quindi in grado di bus trappare
+[41:51] di partire con quasi
+[41:53] qualunque tipo di hardware tendenzialmente
+[41:55] dico quasi perché sarebbe una bugia
+[41:57] testata o in qualunque situazione
+[41:59] però per esempio è estremamente utile
+[42:01] fare un test, uno sa che
+[42:03] incomincia a provarlo su due o tre macchine
+[42:05] quando vedi che su macchine a caso funziona
+[42:07] compreso in università, compreso in un ambiente
+[42:09] lavorativo, si trova
+[42:11] più compatibilità con questo
+[42:13] che con n altri sistemi, le n altri sistemi
+[42:15] sono molto belli perché sono aperti
+[42:17] però devi essere capace di modificartelo
+[42:19] per farlo funzionare eventualmente
+[42:21] questa in teoria è pronto
+[42:23] tutto quello di entrascia
+[42:25] ti sento, vai?
+[42:29] allora si
+[42:31] e soprattutto
+[42:36] durante l'uso è
+[42:38] in una sessione cifrata
+[42:40] allora ragazzi se lo chiedete a me
+[42:42] la certezza è una parola che non conosce
+[42:44] c'e non due di certezze
+[42:46] sono tutte molto oltre
+[42:48] e che non riguardano l'informatica
+[42:50] esattamente
+[42:54] vai
+[42:59] allora
+[43:03] ok, cappellino marketing
+[43:05] e lo sai che quei nostri prodotti vuoi farlo
+[43:07] allora si
+[43:09] in realtà puoi farlo, ci mancherebbe
+[43:11] un sonico al messo in casa tua
+[43:13] io ora forse non riesco a farvi una demo al volo
+[43:15] un sonico al messo in casa
+[43:17] che era uno dei trucchi che io
+[43:19] oltre tutto usavo, ma quasi tutti
+[43:21] dico di noi, di quelli che lavorano in questo settore
+[43:23] mettiamola così più di notte che di giorno
+[43:25] tendenzialmente
+[43:27] i filosofi, certo
+[43:29] erano abituati
+[43:31] parli in terza persona
+[43:33] o addirittura in quinta
+[43:35] sono andato lontano obbligatoriamente
+[43:37] si era abituati
+[43:39] a andare magari che ne so
+[43:41] sai cosa è un hacker camp
+[43:43] quel postaccio dove ci sono 300 ragazzi
+[43:45] di tutte l'età che giocano quei pc
+[43:47] semplifichiamo anche questa
+[43:49] mentre sei lì andresti
+[43:51] mai a collegarti al tuo server in casa
+[43:53] o su internet
+[43:55] liberamente grazie alla linea
+[43:57] che l'hacker camp ti mette a disposizione
+[43:59] è peggio che quella aziendale e quella linea
+[44:01] è peggio che l'ho stato da quel punto di vista
+[44:03] ci puoi
+[44:07] del deficiente
+[44:09] che sia esatto
+[44:11] non sta scherzando eh
+[44:13] grazie per aver dato l'asplicazione
+[44:15] non ricordo bene
+[44:17] ne ho visto
+[44:19] quando
+[44:21] vai in un ambiente ostile
+[44:23] e ti garantisco che fra i coni di quell'ambiente
+[44:25] è considerato un ambiente B ostile
+[44:27] che è capace a far la differenza dello stato
+[44:29] ogni tanto si perde
+[44:31] per fortuna c'è chi li aiuta
+[44:33] però lì sono tutti capace a farlo
+[44:35] in quell'ambiente lì la prima cosa che fai
+[44:37] eh quando esci di casa per andarci
+[44:39] ti sei scritto su un foglio
+[44:41] il fingerprint del tuo server
+[44:43] per essere sicuro che quando usi
+[44:45] un sistema SSH c'è un tubo
+[44:47] lo leggi ma proprio col foglietto
+[44:49] eh leggi lettera per lettera numero per numero
+[44:51] e qua
+[44:53] spiega
+[44:59] si
+[45:04] allora e qua c'è il mix
+[45:09] sei fuori e devi trasferire o sei a casa tua
+[45:11] ti ti rispondo hai ragione
+[45:13] la rendo più chiara perché è assolutamente
+[45:15] ragione
+[45:17] nel momento in cui sei a casa tua
+[45:19] e vuoi navigare
+[45:21] in pura anonymato esistono
+[45:23] il tordo del caso
+[45:25] piuttosto che proxima anonymizer
+[45:27] del caso
+[45:29] che sono gente che gratuitamente
+[45:31] mette a disposizione risorse
+[45:33] vuoi farvi scattare
+[45:35] una lampadina più che rossa nella testa
+[45:37] dei sistemi tramite i quali
+[45:39] tu dici nel tuo browser
+[45:41] in internet explorer, firefox o per quello che vuoi
+[45:43] passa dal proxital dei tagli
+[45:45] dai un nome, un ip e una porta
+[45:47] a quel punto tutte le tue richieste
+[45:49] vengono anziché buttate su internet
+[45:51] direttamente anziché uscire direttamente
+[45:53] fanno prima da qualche altra
+[46:02] parte questo
+[46:04] è una serie di informazioni di casa tua
+[46:06] al tuo dirizzo
+[46:08] e da quattro rilancia
+[46:10] verso il sito che avevi chiesto
+[46:12] quindi dall'etnici da dentro casa
+[46:14] ti mi sono tolto il primo problema
+[46:16] che è quello di famigli tracciare
+[46:18] perché l'ultima traccia era da
+[46:20] il lascio qui
+[46:22] è chiaro con un messaggio
+[46:24] l'ultima traccia lo lascio qui
+[46:26] gli altri da fuori, l'unita cosa che
+[46:28] sanno, potranno distalire
+[46:30] i vari operi, ma solo fino a qui
+[46:32] e non è a casa mia
+[46:34] sì, perché è cultura
+[46:36] guarda che qui
+[46:38] la casa tua lo sanno
+[46:40] sanno l'intervava l'ultima traccia in piedi
+[46:42] la lina è uguale a stelle vicine
+[46:49] la lina è uguale a stelle vicine
+[46:51] la lina è uguale a stelle vicine
+[46:53] il 12 al genno va a cercare il tesoro
+[46:55] già che me l'hai detto
+[46:57] venite a imparare come si fa eventualmente
+[46:59] ti colleghi la lina del vicino
+[47:01] e con la sua lina vai su un anonymizer
+[47:03] e vai fuori
+[47:05] a quel punto se anche facessi qualcosa di illegale
+[47:07] e quindi ti vengono a cercare
+[47:09] un anonymizer finiscono dall'animizer
+[47:11] se hanno un motivo sufficientemente forte
+[47:13] per rintracciare quella navigazione
+[47:15] quella sessione anonima
+[47:17] vanno a cercare il tuo vicino
+[47:19] quale che sossienza che te
+[47:23] divertente
+[47:25] pensa un po' se un terrorista che sta organizzando
+[47:27] la bomba a casa tua o se non nella tua stazione
+[47:29] mentre stai andando in ufficio
+[47:31] questo è il nostro problema in questo momento
+[47:33] ok quindi occhio che il divertimento
+[47:35] dall'altro lato ha anche
+[47:37] delle complicazioni non indifferenti
+[47:39] che sei fuori
+[47:41] l'SSL è un altro pezzo ancora
+[47:45] esatto
+[47:47] l'SSL è in uso anche su quella sessione
+[47:49] lì
+[47:51] come protocollo
+[47:53] Secure Socket Liar
+[47:55] che è la traduzione dell'acronimo
+[47:57] c'è qualcuno che sta facendo la battaglia
+[47:59] contro gli acronimi giustamente
+[48:01] perché se non si sa di cosa si sta parlando
+[48:03] alle volte
+[48:05] è un protocollo quindi un sistema
+[48:07] definito per comunicare
+[48:09] nel caso specifico una cifratura
+[48:11] cifrare i dati con una chiave che abbiamo noi
+[48:13] e che quindi solo noi siamo in grado
+[48:15] di decifrare eventualmente
+[48:17] l'altro esempio dell'SSL
+[48:19] che vi facevo prima è quello di dire
+[48:21] io mi lascio in azienda
+[48:23] siamo 20 giornalisti andiamo in giro
+[48:25] facciamo posizionare in azienda
+[48:27] un apparato di SSL WPN
+[48:29] che è visibile su internet
+[48:31] è un oggetto che viene pubblicato
+[48:33] ascolta e parla
+[48:35] solo in SSL
+[48:37] solo in quel linguaggio cifrato
+[48:39] con quel certificato che io so
+[48:41] poter riconoscere, ce l'ho nel mio pc
+[48:43] lo guardo e lo confronto con quello che lui mi manda
+[48:45] quando vedo che il confronto è giusto
+[48:47] accetto e quindi creo il tubo
+[48:49] da dove mi trovo internet caffè
+[48:51] aeroporto, telle
+[48:53] ambiente ostile quello che voglio
+[48:55] creo un tubo cifrato
+[48:57] fino a casa mia
+[48:59] no è diverso ancora
+[49:06] è come dire allora
+[49:08] vediamo se troviamo un altro modo
+[49:11] se tu provi a prendere l'autostrada
+[49:13] e cerchi di andare da qualche parte
+[49:15] telepass e caselli
+[49:17] bene o male sanno esattamente
+[49:19] dove sei entrato dove sei uscito
+[49:21] immagina di
+[49:23] prendere un
+[49:25] telepass francese
+[49:27] temporaneamente che l'hai messo lì a posta
+[49:29] che ti lascia comunque aprire
+[49:31] chiudere le sbarre, ti lascia passare in giro
+[49:33] ma prima va fino in Francia
+[49:35] a livello logico non fisicamente
+[49:37] quindi sembri essere uscito
+[49:39] da là e poi sei in giro
+[49:41] ok totalmente
+[49:43] diverso il concetto quindi in realtà
+[49:45] il sito è raggiungibile ci mancherebbe
+[49:47] ed è anche modificabile eventualmente
+[49:49] la differenza è intanto
+[49:51] se è dietro questo sistema solo tu che
+[49:53] hai le chiavi puoi accedervi allora sì
+[49:55] che diventa immodificabile eccetera
+[49:57] secondo lo usi proprio come una
+[49:59] sponda tu immagina che
+[50:01] parli in un linguaggio incomprensibile
+[50:03] fino
+[50:05] ad all'altra parte di un muro
+[50:07] e così quel muro non ti può guardare non ti può bloccare
+[50:09] perché non capisci cosa stai dicendo
+[50:11] poi da di là ci pensa
+[50:13] al tuo oggetto a ripropagare
+[50:15] quello che tu hai detto però in chiaro
+[50:17] giustamente e quindi l'informazione
+[50:19] o la richiesta dell'informazione
+[50:21] va al vero sito e ritorna
+[50:23] la sponda di questo tipo
+[50:25] veniva fatta con sistemi
+[50:27] e anche qua SSH
+[50:29] prima che l'SSL diventasse così
+[50:31] di largo uso e adesso con SSL
+[50:33] che è più semplice che a meno problematiche
+[50:35] il protocollo è più semplice da usarsi
+[50:37] quindi avere vediamo se ho una qualche
+[50:39] immagine
+[50:41] perché poi queste non le best practice
+[50:43] che avrei dovuto darvi ma non so più neanche
+[50:45] i tempi sono le due abbiamo più
+[50:47] pochissimo tempo volevo uno schema
+[50:56] grafico per riuscire a farvi vedere
+[50:58] la differenza
+[51:00] no su questi non ci sono
+[51:02] no
+[51:04] è garantirsi
+[51:06] di avere
+[51:08] dei prodotti che mi tutelino
+[51:10] da queste problematiche
+[51:12] l'intrusione verso di me
+[51:14] e garantirsi di poter dialogare
+[51:16] in maniera cifrata sicura fino all'altro lato
+[51:18] o con un qualcosa che ok
+[51:20] la CIA magari ha le chiavi
+[51:22] per decifrare però
+[51:24] io so che lo uso
+[51:26] in un ambiente dove
+[51:28] non ha interesse la CIA a intervenire
+[51:30] e mi garantiscia che posso comunicare
+[51:32] tranquillamente con casa o con il mio database
+[51:34] o con le mie informazioni
+[51:36] per fare il disso soccupare i nostri
+[51:38] c'è una lieve differenza
+[51:40] esistono vendor di vari prodotti
+[51:42] di vari ambienti
+[51:44] e non ti nascondo che questo
+[51:46] è israeliano il mio
+[51:48] è americano e io posso comunicare
+[51:50] da un paese all'altro probabilmente
+[51:52] usando le non backdoor di uno dell'altro
+[51:54] se arrivo a quel livello
+[51:56] di paranoia potrei anche
+[51:58] usarli entrambi nella mia cifratura
+[52:00] americana prego
+[52:02] ovvio infatti
+[52:04] il problema principale è culturalmente
+[52:06] imparare a farlo allora
+[52:08] concetto e con zic l'idea era questa
+[52:10] ragazzi cose come queste sono semplici
+[52:12] perché bene o male funzionano praticamente
+[52:14] da sole
+[52:16] scatolotti come quello di sonical
+[52:18] a basso costo preparati
+[52:20] per fare questo per voi esistono
+[52:22] quindi che sia il firewall software
+[52:24] sia il firewall sonical hardware
+[52:26] lo scatolino che mi porto dietro prevede
+[52:28] una chiavetta umts inserita
+[52:30] di condividere il suo wifi
+[52:32] con i 3-4 pc di noi amici
+[52:34] che stiamo lavorando lì in maniera sicura
+[52:36] attenzione bene
+[52:38] quindi con la garanzia che nessun altro ci entra
+[52:40] in quella parte radio
+[52:42] e ha tutta una serie di regole che dicono
+[52:44] appena lo accendo il mio e non sto scherzando
+[52:46] io ce l'ho in borsa normalmente quando sono in altri ambienti
+[52:48] è già pronto
+[52:50] per da subito appena trovo una linea internet
+[52:52] che sia wireless o che sia l'umts
+[52:54] della chiavetta che l'ho inserito dentro
+[52:56] per fare un tubo vpn
+[52:58] fino a un mio centro o stella
+[53:00] posso scegliere quali
+[53:02] uno negli Stati Uniti, uno in Italia
+[53:04] sono... vai?
+[53:06] prego
+[53:08] crea lui il tubo
+[53:10] l'oggetto crea lui
+[53:12] tutta questa configurazione a bordo
+[53:14] si
+[53:18] come nasce ok
+[53:20] allora
+[53:22] il punto per sito, occhio perché devo anche che è il sito
+[53:24] intendi pagina web
+[53:26] o l'ambiente, l'ambiente
+[53:28] il sito è un ambiente che ha
+[53:30] una linea internet
+[53:32] un apparato di ssl vpn
+[53:34] stop
+[53:39] fisicamente tu puoi
+[53:41] a livello personale
+[53:43] puoi avercela in casa
+[53:45] sulla tua dsl alice
+[53:47] piuttosto che tiscali
+[53:49] puoi averlo in casa
+[53:51] puoi decidere di pubblicarti
+[53:53] un oggetto di questi
+[53:55] e usarlo con questo scopo
+[53:57] mentre sei in giro poter usare lui
+[53:59] per fare questa sponda sicura
+[54:01] il resto del mondo
+[54:06] mi
+[54:08] le basi e wizard e dipende dai prodotti
+[54:10] mi permetto di dire
+[54:12] ci sono prodotti dei nostri che ci vado
+[54:14] in due ingegneri e una settimana di lavoro
+[54:16] a 24
+[54:18] ci sono prodotti dei nostri che con il wizard
+[54:20] avanti avanti avanti bene o male
+[54:22] le basi che le sei fatte poi con l'uso
+[54:24] esatto
+[54:28] mi piace che mi traduci wizard in tutorial
+[54:30] ma l'avessi detto in italiano? comunque sì
+[54:32] è un tutorial o un wizard
+[54:34] la bacchetta magica che ti aiuta
+[54:36] dice ci penso io, ci penso io, ci penso io
+[54:38] dimmi solo dove vuoi arrivare della serie
+[54:40] come vuoi farlo e te lo dice in italiano
+[54:42] anziché in numeri in cose strane
+[54:44] tu ci clicchi e vai avanti
+[54:46] quindi nella peggiore delle ipotesi
+[54:48] se è a scopo personale
+[54:50] poi certi gli scrivo anche peggio
+[54:54] volevo regalarla a qualcuno
+[54:56] ma non sarei tu
+[54:58] peggio che bambino
+[55:00] materialmente se è per questioni personali
+[55:02] oggetti a basso costo
+[55:04] e possibilmente
+[55:06] con l'aiuto di qualcuno che è esperto
+[55:08] amici, colleghi, parenti
+[55:10] consulenti che lo fanno di mestiere
+[55:12] che ti dà una mano a metterlo su
+[55:14] se è aziendale, università
+[55:16] piuttosto che il giornale o la redazione
+[55:18] quant'altro
+[55:20] anche lì ci sono società che si occupano di fare quello
+[55:22] come mestiere quindi ammetto che
+[55:24] per securizzare
+[55:26] 2000 operatori
+[55:28] dipendenti che vanno in giro
+[55:30] che fanno questo tipo di attività
+[55:32] al titolare dell'azienda da solo
+[55:34] manderei un sistema integrato
+[55:36] viene così definito comunque un venditore
+[55:38] e un installatore di quei prodotti
+[55:40] che fa lui anche quella parte
+[55:42] quindi è molto commerciale
+[55:44] su quel fronte
+[55:46] però a seconda anche dell'università che è un affatto
+[55:48] non so quanto
+[55:50] che ne so il giornalismo, se è avvicino, informatica
+[55:52] però se vai a busare la porta di quelli a fianco
+[55:54] trovi qualcuno che te lo mette su
+[55:56] e gratis ci mancherebbe
+[55:58] dico, la nostra idea era quella
+[56:00] di dire per tutti quelli che sono qua
+[56:02] una cosa facile
+[56:04] una cosa semplice da usarsi
+[56:06] se no è inutile perché vi diventa troppo impegnativo
+[56:08] allora, scatolette piccole
+[56:10] proprio sono così delle nostre
+[56:12] anni wizard
+[56:14] del software che trovate in rete è gratuito
+[56:16] anziché essere a pagamento
+[56:18] e in più magari ha delle spiegazioni che vi aiutano a farlo anche da soli
+[56:20] la consulenza di qualcuno
+[56:22] però sicuramente l'aiuto più forte
+[56:24] anche perché i concetti di come
+[56:26] controllare un certificato
+[56:28] per l'SSL non li trovi nel wizard
+[56:30] tu puoi aver fatto tutto bene
+[56:32] ma se poi non sei a fare il confronto
+[56:34] dei certificati è perfettamente inutile
+[56:36] che hai messo su quel sistema lì
+[56:38] quindi cultura rimane un dei punti fondamentali
+[56:40] per forza, ci era già lui
+[56:42] e poi passo a te subito
+[56:45] anche
+[56:51] ha già il sistema di VPN e IPsec
+[56:53] ha dei tool per VPN e IPsec
+[56:55] ovviamente l'SSL
+[56:57] il protocollo che fa parte dei sistemi operativi c'è
+[56:59] non hai bisogno di installare qualcosa per usarle
+[57:01] questi sono dei tanti vantaggi rispetto all'IPsec
+[57:03] l'IPsec è di nuovo un protocollo
+[57:05] con il quale si cifroni
+[57:07] dati da un punto all'altro
+[57:09] l'IPsec però ha delle esigenze molto forti
+[57:11] cioè devi saperlo usare
+[57:13] già dal punto di vista della configurazione
+[57:15] se voglio fare un tubo in IPsec
+[57:17] devo sapere cosa c'è da l'altra parte
+[57:19] qual'è l'IP, qual'è la password, qual'è la configurazione
+[57:21] qual'è le reti
+[57:23] in SSL punto una pagina web
+[57:25] con un browser fine
+[57:27] ho già praticamente tutto quello che mi serve
+[57:29] ci sono degli esempi anche che si possono fare
+[57:31] live
+[57:33] siti, tramite i quali
+[57:35] con un solo click sono rilanciato in maniera sicura
+[57:37] su un altro
+[57:39] ripeto il classico esempio dell'on banking
+[57:41] non vi chiede di installare qualcosa
+[57:43] di configurare qualcosa
+[57:45] vi chiede solo di andarsi una pagina in serie username e password
+[57:47] questo è
+[57:49] perché il protocollo già di suo si occupa di tutto il resto
+[57:51] vai
+[57:53] faccio sempre la domanda senza il microfono
+[57:57] domanda
+[57:59] forse banale è anche difficilissima
+[58:01] sullo smartphone
+[58:03] o sul tablet
+[58:05] a livello di software
+[58:07] come posso tutelarmi
+[58:09] banale
+[58:11] no
+[58:13] domanda assolutamente geniale perché sono la maggior parte
+[58:15] dei prodotti che si usano in questo momento
+[58:17] e sembrano essere chiusi
+[58:19] quindi non gli potreste installare nulla
+[58:21] non difficile la domanda
+[58:23] a metto qua un po' per questo motivo
+[58:25] un po' per cultura generale
+[58:27] esistono oggetti
+[58:29] da installare comunque
+[58:31] che sono liberamente sul market
+[58:33] se tu vai a cercare sonical sul market
+[58:35] che sia di androido che sia di
+[58:37] ios quindi sia agli iphone
+[58:39] che l'ipad veri seguito trovi
+[58:41] il plugin
+[58:43] l'app
+[58:45] il quello che vuoi dedicato a fare questo tipo di tubo
+[58:47] quindi in realtà proprio una delle presentazioni
+[58:49] diciamo istituzionali molto commerciale
+[58:51] ti faccio vedere come col tuo ipad
+[58:53] ti puoi collegare in maniera sicura
+[58:55] a far esponda e fare tutte queste cose
+[58:57] perché in realtà sui market queste cose le trovi
+[58:59] quindi puoi comunque installarla
+[59:01] anche lì veramente con un solo click
+[59:03] direttamente comprando
+[59:05] nell'apple store, nel market
+[59:07] in quello che deve essere
+[59:11] esattamente
+[59:13] puoi scegliere poi anche lì si possono preconfigurare
+[59:15] per essere attivi sempre
+[59:17] li puoi preconfigurare per essere attivi solo
+[59:19] su determinate destinazioni quindi
+[59:21] mentre faccio il resto no
+[59:23] ma quando chiedo quella cosa specifica me lo usi
+[59:25] o esattamente come torco l'interruttore
+[59:27] decido di attivarlo
+[59:29] perché voglio garantire che ci sia una differenza
+[59:31] nel dialogo e quindi sicurizzare
+[59:33] col pezzo di dialogo
+[59:37] altre domande
+[59:40] avete mai usato sistemi di cifratura
+[59:42] per dialogare?
+[59:44] però usate internet ovviamente
+[59:46] il cellulare per trasferire informazioni
+[59:48] anche come mode, ma è attenzione
+[59:50] perché poi non dimenticatevi che alle volte
+[59:52] non dimenticatevi di fare grandi cose
+[59:54] ma avete il cellulare collegato al pc
+[59:56] lo usate come modem o wireless
+[59:58] e magari lo usate wireless il più delle volte
+[60:00] quindi su quel tipo di dialogo di nuovo
+[60:02] ripetore all'evento del cat
+[60:04] è una cosa particolare, non so quanto i voi lo conoscano
+[60:06] però e faccio qua la pubblicità non occulta
+[60:08] cat
+[60:10] sta per crack al tesoro
+[60:12] anziché la caccia al tesoro classica
+[60:14] abbiamo invitato i ragazzi di qualunque età
+[60:16] in realtà a venire a sfidarsi
+[60:18] in una caccia
+[60:20] al tesoro su wi-fi
+[60:22] quindi devono prima a carare, bucare
+[60:24] le reti wireless che li mettiamo noi in disposizione
+[60:26] poi devono provare a trovare i server
+[60:28] che ci sono dietro
+[60:30] devono bucarne le vulnerabilità
+[60:32] per trovare gli indizi e passare all'oggetto successivo
+[60:34] ovviamente compremi
+[60:36] questo per far mettere alla prova
+[60:38] in maniera però legale
+[60:40] non che lo vado a fare in giro per la città a caso
+[60:42] ed è un contest nel quale si gioca
+[60:44] in giro per la città, lo abbiamo fatto al vieto
+[60:46] lo abbiamo fatto a Milano, questa edizione sarà a Genova
+[60:48] quindi è uno spazio nel quale anche chi non conosce
+[60:50] magari quell'ambiente
+[60:52] scopre che la chiave web
+[60:54] del proprio router o del proprio modem wi-fi
+[60:56] è bucabile in circa 30 secondi
+[60:58] anche dalle mie figlie
+[61:00] con un tool, sa non solo che devono scriverci una cosa
+[61:02] dentro e copiare Piugiaro un pulsante
+[61:04] molto bene
+[61:06] eh
+[61:08] nessuno di voi ha visto il servizio alle iene
+[61:10] mi preoccupa questa cosa
+[61:12] ci siamo riusciti a finire fino lì
+[61:14] grazie
+[61:19] il servizio alle iene
+[61:21] in particolare
+[61:23] si vado proprio l'esempio live
+[61:25] di cosa vuol dire bucare
+[61:27] una di quelle classiche reti
+[61:29] a lice, prego
+[61:33] si, a lice fast web
+[61:37] si si
+[61:42] l'altro è gratis
+[61:44] bella questa domanda, legalia
+[61:46] ci vorrebbe l'avvocato a fianco
+[61:48] ragazzi, bussare a una porta
+[61:50] non è illegale
+[61:52] bussare a una porta non è illegale
+[61:54] bussare tutti i giorni
+[61:56] per scoprire
+[61:59] quando in casa il proprietario non c'è
+[62:01] incomincia a diventare un po'
+[62:03] un po' diverso
+[62:05] aprirla con i propri sistemi
+[62:07] non è legale
+[62:11] lui era preoccupato che dicessi no
+[62:13] insisto, telecamera e 50 persone davanti
+[62:15] secondo te gli dico, si tranquilli
+[62:17] grimmaldello, aprite
+[62:19] no, è illegale, guai
+[62:21] si, ovviamente
+[62:23] ovviamente, vabbè
+[62:25] questa lui ora
+[62:27] lancia la polemica specifica
+[62:29] per il paese
+[62:31] lo stato di residenza, però mi rendo conto
+[62:33] questo è assolutamente vero
+[62:40] vabbè, vista così è tornato
+[62:42] è tornato nei canoni
+[62:44] assolutamente reale
+[62:46] sull'ambito wifi
+[62:48] c'è un problema diverso
+[62:50] abbiamo provato a sensibilizzare chi vendeva
+[62:52] quei router e quei modem
+[62:54] loro le misure minimi dicono di averlo adottate
+[62:56] abbiamo provato, prego
+[62:58] fin da questa discussione, vorrei sapere
+[63:02] se è possibile vedere quelle 10 regole
+[63:04] reccomandozioni
+[63:06] sì, assolutamente, se c'è tempo, visto che l'abbiamo intraviste
+[63:08] assolutamente sì
+[63:18] vediamo se riesco
+[63:20] le best practice prevedono
+[63:22] allora andiamo al volo su queste
+[63:24] e poi su wifi magari s'fanno anche sessioni extra
+[63:26] pari che su google oramai trovate
+[63:28] assolutamente tutto
+[63:30] oppure venite al cat, è ancora più divertente
+[63:32] primo, cercare di usare
+[63:34] un sistema di reverse proxy
+[63:36] cosa vuol dire?
+[63:38] garantirsi che per chi da fuori
+[63:40] deve trasferire i dati verso dentro
+[63:42] ci sia un sistema che non lascia dialogare
+[63:44] direttamente, cioè tu che vuoi
+[63:46] mandare informazioni verso l'azienda
+[63:48] devi essere
+[63:50] filtrato anche in ingresso
+[63:52] questo per garantire che
+[63:54] altri non entri nel tuo posto
+[63:56] e che tu non possa trasferire qualcosa di pericoloso
+[63:58] per il server stesso
+[64:00] perché le foto che tu trasferisci
+[64:02] magari te la passate con sd card
+[64:04] il fotografo a fianca te
+[64:06] non per forzare le tue
+[64:08] e per quello che ne sai su quella memory card
+[64:10] o su quella usb
+[64:12] o quant'altro c'era anche qualcos'altro
+[64:14] questo è uno dei primi
+[64:16] sistemi che garantisce
+[64:18] di
+[64:20] rendere accessibile
+[64:22] il servizio che hai dall'altra parte
+[64:24] perché? perché se deve
+[64:26] a livello proprio sistema operativo, se la mia macchina
+[64:28] deve parlare con qualcosa
+[64:30] contemporaneamente un'altra che un android
+[64:32] chi ha fatto il software base
+[64:34] quello con cui devi parlare
+[64:36] dovrebbe aver tenuto conto di tutte le differenze
+[64:38] di dialogo che ci sono fra i vari sistemi
+[64:40] il proxy nel mezzo
+[64:42] è un qualcuno che nasce
+[64:44] col concetto di saper ascoltare
+[64:46] chiunque arriva da fuori
+[64:48] ma che maniera un'ivoca molti a uno
+[64:50] va verso quel servizio
+[64:52] quindi garantisce anche di rendere
+[64:54] più semplice utilizzare
+[64:56] i sistemi che sono all'interno
+[64:58] da più sistemi diversi
+[65:00] il punto due per forza questo
+[65:02] creare dei tunnel
+[65:04] ora nello specifico si parla di SSL proprio per comodità
+[65:06] ripetano non hai il bisogno
+[65:08] di andare a configurare la parte di ipsec
+[65:10] l'analisi
+[65:13] i firewall di nuova generazione
+[65:15] vuoi che sia quello portatile che ti tieni dietro tu
+[65:17] quando sei in giro, vuoi che sia quello in azienda
+[65:19] o sul posto dove trasferisci le informazioni
+[65:21] garantiscono anche di controllare
+[65:23] nel minimo dettaglio
+[65:25] quelle informazioni che stai trasferendo
+[65:27] quel dato che stai trasferendo
+[65:29] e quindi mi garantiscono di
+[65:31] prima non far uscire involontariamente
+[65:33] dati dall'azienda
+[65:35] secondo evitare nuovamente
+[65:37] che quel dato che tu stai trasferendo
+[65:39] contenga qualcosa di dannoso
+[65:41] immagina che dopo 5 anni di lavoro
+[65:43] sul db delle immagini
+[65:45] una di quelle che trasferisci tu si porti dentro un virus
+[65:47] e ti rasi tutto quello che hai dentro
+[65:49] compreso quello dei colleghi
+[65:51] ci vuole qualcosa che sia capace
+[65:53] di vedere all'interno della tua transazione
+[65:55] che non ci siano problemi di questo tipo
+[65:59] Sistemi di autenticazione
+[66:01] non li usa, vengono usati
+[66:03] molto poco, però un sistema di
+[66:05] autenticazione forte
+[66:07] vuol dire non la username e la password
+[66:09] che valgono ovunque, valgono a vita
+[66:11] e si usano costantemente da qualunque ambiente
+[66:13] vuol dire usare i token
+[66:15] quindi la chiavettina che mi genera un numero
+[66:17] che vale una sola volta
+[66:19] che vale per quella volta lì e che se anche
+[66:21] la copia non possono riutilizzarla
+[66:23] perchè 30 secondi dopo non è più lei
+[66:25] e quindi mi garantice che se anche
+[66:27] mi hanno copiato il mio accesso
+[66:29] da un internet cafe comunque
+[66:31] non lo possono riutilizzare, quindi usare
+[66:33] sistemi di autenticazione
+[66:35] dall'esterno
+[66:37] come minimo avere
+[66:39] la garanzia di controllare cosa c'è
+[66:41] sull'oggetto che si usa per collegarsi
+[66:43] quindi avere la garanzia che
+[66:45] prima di fare entrare il mio portatile
+[66:47] o il mio telefono sulla rete
+[66:49] viene momento errogato
+[66:51] diviene chiesto, sei veramente tu
+[66:53] corrisponde a quello che dovrebbe essere
+[66:55] quello autorizzato
+[66:57] perchè a parità di username e password
+[66:59] sei la uso e questo è uno dei concetti
+[67:01] in next generation dei prodotti
+[67:03] usare la tua username e password
+[67:05] dal tuo pc è diverso
+[67:07] e deve essere diverso
+[67:09] dall' usarla identica a username e password
+[67:11] dal suo dpc
+[67:13] perchè il tuo e aziendale e controllato
+[67:15] c'è l'antivirus, il suo magari no
+[67:17] quindi la username e password non possono essere
+[67:19] da sole la discriminante
+[67:21] per il livello di accesso alle informazioni
+[67:23] io devo avere username e password
+[67:25] e in controllo di
+[67:27] come posso dire
+[67:29] assolutamente più garanzie
+[67:31] sul fatto che il sistema
+[67:33] che stai usando non solo quello che
+[67:35] sai, ma quello che hai come
+[67:37] mezzo per accedere
+[67:39] sia sano e non mi crei problematiche
+[67:41] pulire la cache
+[67:43] sistemi virtuali, spero che questo qua
+[67:45] appunto è il controllo dell'endpoint
+[67:47] soprattutto desktop virtuale
+[67:49] gli oggetti di ssl, quello che dicevamo
+[67:51] metti in casa o metti in azienda
+[67:53] da aspettarti sul quale ti colleghi
+[67:55] prevedono un'ulteriore funzione
+[67:57] molto simile a questa quasi che rendono
+[67:59] inutile questa in questo caso
+[68:01] tutti i colleghi
+[68:03] col tuo sistema operativo, pgm pulsante
+[68:05] da di là
+[68:07] ti manda giù un software
+[68:09] praticamente come questo oggetto
+[68:11] che crea sul pc dove ti trovi
+[68:13] un desktop virtualizzato ovvero
+[68:15] cifrato
+[68:17] temporaneo e chiuso solo
+[68:19] a quel dialogo
+[68:21] quindi tu dali dentro puoi usare i tuoi applicativi
+[68:23] puoi navigare su intra e puoi spedire la posta
+[68:25] puoi leggere un documento, puoi scrivere un documento
+[68:27] ma quando staccherai
+[68:29] il cavo di rete, la connessione o farai logout
+[68:31] e ti sgancerai
+[68:33] quello oggetto che era sul pc come se fosse
+[68:35] un eseguibile in realtà
+[68:37] era un sistema operativo dentro un altro
+[68:39] sistema operativo che ha mentre c'è
+[68:41] cifrato
+[68:43] quindi non è leggibile
+[68:45] B, appena chiudi, viene cancellato
+[68:47] se anche non venisse cancellato è comunque
+[68:49] leggibile, perché è fatto con un criterio
+[68:51] di non reversibilità, la chiave usata
+[68:53] per crearlo è quella
+[68:55] di quella singola volta in cui ti sei collegato
+[68:57] la volta dopo quando rientri
+[68:59] tutto quello che avevi fatto non lo ritrovi
+[69:01] quindi questo è uno dei tanti
+[69:03] ambienti
+[69:05] la cache dei laptop
+[69:07] questo di nuovo è una dei controlli
+[69:09] di pulizia, se è sempre lì
+[69:11] qua o sul virtual desktop che crea
+[69:13] il sistema risonico per fare le paragone
+[69:15] non rimane cache
+[69:17] e viene pulita la cache della macchina
+[69:19] in automatico da un tool
+[69:21] quando usate il vostro pc
+[69:23] credo che si è iniziata io
+[69:25] 15 anni fa abbondanti
+[69:27] la prima volta sono stato chiamato a cercare
+[69:29] dove aveva navigato un utente
+[69:31] e a partir dai cookie
+[69:33] che sapete cosa sono
+[69:35] a partir dai cookie
+[69:37] fino a tutta una serie di altre cose
+[69:39] ben che avessi fatto secondo lui
+[69:41] pulizia se risaliva e come
+[69:43] dove aveva navigato
+[69:45] pulire la cache della macchina
+[69:47] e sapere dove andare a interagire
+[69:49] per pulirla veramente
+[69:51] è fondamentale, l'anno scorso abbiamo spiegato
+[69:53] forse anche quest'anno c'è un workshop specifico
+[69:55] su come veramente cancellare una memory card
+[69:57] quando fate delete
+[69:59] di una fotografia dentro la macchina fotografica
+[70:01] ragazzi ridateci 30 secondi
+[70:03] 40 quella memory card
+[70:05] vi facciamo vedere quante foto tiriamo ancora fuori
+[70:07] per cui il delete
+[70:09] non vuol dire nulla in questo caso
+[70:11] oltre al delete mi servono dei sistemi
+[70:13] che mi garantiscono veramente da aver cancellato
+[70:15] quei dati se li voglio cancellare
+[70:17] attenzione se sono discorso di più
+[70:19] io guardo lei perché la persona cui ne paravo più spesso
+[70:21] prima è un'arma
+[70:23] devo sapere che esiste
+[70:25] il problema voglio poter cancellare
+[70:27] tutto perché sono
+[70:29] in aeroporto su un internet caffè
+[70:31] e accedo ai dati
+[70:33] di una farmaciautica a mia cliente
+[70:35] e non voglio per nessun motivo
+[70:37] che un abricio di quelle informazioni
+[70:39] rimangono su un posto pubblico
+[70:41] questo è usato in bene
+[70:43] sono uno che scrive
+[70:45] ricette contrafatte o che
+[70:47] trasferisce mondial che non va bene
+[70:49] è un'arma usata in male
+[70:51] perché anche lui può far sparire le informazioni
+[70:53] su cui stava lavorando
+[70:55] questo è il concetto di base che rimane per fortuna
+[70:57] da sapere e rimane sempre
+[71:01] controllare il traffico wifi
+[71:03] è uno dei punti più deboli di tutta la catena
+[71:05] quando si lavora in wireless
+[71:07] anziché in wired
+[71:09] ci si espone immediatamente
+[71:11] sia la parte di sniffing delle informazioni
+[71:13] quindi qualcuno che mi legge
+[71:15] sia la sostituzione delle informazioni
+[71:17] quindi massima attenzione
+[71:19] all'uso del wireless
+[71:21] quando crea un tubo SSL
+[71:23] anche se sono in wireless collegato
+[71:25] questo mi garantice che si mi possono guardare
+[71:27] ma non possono entrare
+[71:29] non possono leggere quelle che sono le informazioni che ci transitano dentro
+[71:32] ora mai invece uno dei tanti
+[71:34] problemi
+[71:36] che si gestiscono a questo più aziendalmente
+[71:39] che non best practice per chi va in giro a lavorare
+[71:41] è quello di inibire
+[71:43] il dialogo verso le botnet
+[71:45] perché più delle volte
+[71:47] l'azienda è messa a rischio dal fatto che
+[71:49] 50 pc al suo interno
+[71:51] vanno fuori a far dell'altro
+[71:53] anche magari in volontariamente all'insaputa del utente
+[71:55] le botnet avete tutti quanti chiaro cosa sono?
+[71:58] No, lui mi fa da sponda
+[72:01] ci sono dei signori che pur di guadagnare
+[72:03] soldi hanno scritto
+[72:05] virus e trojan
+[72:07] affinché il prendere controllo di un pc
+[72:09] fruttasse
+[72:11] non c'è più il prendere il controllo
+[72:13] del pc della nasa
+[72:15] perché è un supercalcolatore e lo uso per vedere
+[72:17] cosa fa perché io non me lo potrei mai permettere
+[72:19] sono tornato dietro di 30 anni
+[72:21] questa era una delle logiche per le quali
+[72:23] si cercava di accedere a una macchina di altri
+[72:26] per dire rubona ferrari
+[72:28] perché non potrei mai permettere
+[72:29] me la voglio poter fare un giro veloce
+[72:31] poi li faccio il pieno e gli la riparcheggio
+[72:33] questa era una logica antica
+[72:35] adesso rubona ferrari
+[72:37] per andare a
+[72:39] affittarla per 5 giorni
+[72:41] a gente che ne ha bisogno
+[72:43] per di più con una targa che non è la loro
+[72:45] mi pagano molto bene
+[72:47] poi se anche la sfasciano chi se ne frega
+[72:49] se la riparcheggiano al suo posto chi se ne frega
+[72:51] Paragone spero che sia chiaro
+[72:53] nella botnet sono tante piccole ferrari
+[72:55] ogni singolo pc che viene catturato
+[72:57] da qualcuno che lo può controllare
+[72:59] non ne può fare uso eventualmente
+[73:01] remotamente
+[73:03] generano traffico, sparano informazioni
+[73:05] vengono usati il più delle volte
+[73:07] siccome non devono farsi notare troppo
+[73:09] e fare poco traffico
+[73:11] magari per lanciare attacchi distribuiti
+[73:13] o 50.000 piccoli indirizzi
+[73:15] che quando gli dico ok sparano tutti
+[73:17] contemporaneamente
+[73:19] queste sono dei sistemi coi quali
+[73:21] viene tenuto fermo magari un sito istituzionale
+[73:23] dei sistemi coi quali magari si cerca di
+[73:25] accendere una protesta
+[73:27] verso qualcosa o qualcuno
+[73:29] e si usano più risorse che si possono trovare
+[73:31] in giro le bottene ovviamente le fanno parte
+[73:33] e chi le detiene le vende
+[73:35] le presta le noleggia le affitta
+[73:37] ci sono un sacco di soldi
+[73:39] dietro tutto questo
+[73:41] formattando potrei
+[73:49] 99.9%
+[73:51] si perde il controllo
+[73:53] due note importanti
+[73:55] se fosse vero al 100%
+[73:57] non ci fossero casi di
+[73:59] rootkit che arrivano a livello di
+[74:01] residenti sulla macchina
+[74:03] anche indipendentemente dal disco
+[74:05] perché non è detto che lo formatti tutto
+[74:07] non è detto che non sia diventato residente
+[74:09] da qualche altra parte e quindi quando re-installi
+[74:11] te lo ritrovi
+[74:13] non è detto che quel sistema operativo che re-installi
+[74:15] a sua volta non ti rende il nuovo passibile
+[74:17] di riavvere il problema
+[74:19] tieni presente che addirittura sono un paio di case produttrici
+[74:21] che hanno creato dei pc che si chiamano risk
+[74:23] con due c finali
+[74:25] che hanno dedicati ad avere
+[74:27] BIOS e memorie isolate
+[74:29] per garantire che anche problemi come quelli
+[74:31] non si possono verificare
+[74:33] il solo fatto che esistono ti dimostra
+[74:35] vuol dire il contrario, occhio che in realtà
+[74:37] può succedere un rootkit
+[74:39] è ancora livello di sistema operativo
+[74:41] tendenzialmente a prendere il controllo della macchina
+[74:43] a un livello talmente basso e quindi talmente bene
+[74:45] eradicato che non ti accorgi che c'è
+[74:47] che quando dai dei comandi per visualizzare
+[74:49] cosa succede sulla macchina
+[74:51] ha insegnato a quei comandi
+[74:53] per vedere che lui c'è
+[74:55] c'è un modificato completamente
+[74:57] il cuore del sistema operativo della macchina
+[74:59] però è ancora livello di sistema operativo
+[75:01] c'è qualcuno che dice che
+[75:03] parte di rootkit
+[75:05] si è andato a insediare
+[75:07] addirittura a livello
+[75:09] di processori sulle macchine
+[75:11] è discutibile
+[75:13] ci sono case in cui vendo
+[75:15] l'addirittura avevano che i logger
+[75:17] installati volontariamente
+[75:19] direttamente nel sistema
+[75:21] il criterio di sicurezza è sempre quello
+[75:23] secondo me iniziale che vi dicevo prima
+[75:25] se sono in giro che transito
+[75:27] tranquillamente per i cavoli miei
+[75:29] anche se mi riprendono chi se ne frega
+[75:31] deve essere quella la logica
+[75:33] tu mi dici ok il pc che è strano
+[75:35] si comporti in un modo strano
+[75:37] beh se un microsoft faccio la battuta cattiva
+[75:39] non è una guerra di religione inutile
+[75:41] potrebbe essere il sistema operativo
+[75:43] che c'è il problema non è che c'è un virus per forza
+[75:45] gli ultimi che abbiamo visto uscire
+[75:47] sono salute
+[75:49] mac 700.000
+[75:51] vittime così
+[75:53] in un lampo
+[75:55] sappiana lui è contento perché
+[75:57] questo è un caso che oggi abbia questo
+[75:59] lo sa perfettamente che uso qualunque cosa
+[76:01] questa è la differenza
+[76:03] non è che c'è un sistema operativo
+[76:05] sicuro al 100% ma neanche questo
+[76:07] dipende come lo usi
+[76:09] magari le vulnerabilità di questo ci sono
+[76:11] è che non è ancora studiata nessuno
+[76:13] non c'è investimento perché in giro
+[76:15] ce ne sono 7
+[76:17] ci sono 5 milioni mentre di microsoft
+[76:19] ce ne sono 50 milioni
+[76:21] quindi cosa fa se devo investire
+[76:23] sprecare tempo solito di scorso
+[76:25] per creare qualcosa
+[76:27] beh lo faccio per qualcosa che abbia
+[76:29] il più vasto raggio di copertura
+[76:31] che mi vada a prendere i 50.000 pc microsoft
+[76:33] di certo non per 7 di queste
+[76:35] però magari anche questa è vulnerabile a qualcosa
+[76:37] quindi il concetto deve rimanere a
+[76:39] controllare, sapere che potrebbe esserci il problema
+[76:41] usare il sistema in modo corretto
+[76:46] wifi, gestire il traffico
+[76:48] dell'applicazione da quella differenza che vi dicevo prima
+[76:50] il fatto di avere un firewall
+[76:52] che sia capace di controllare
+[76:54] la differenza tra
+[76:56] a parità di porta usata
+[76:58] quando si naviga su internet si usa la porta 80
+[77:00] lì dentro ci può essere
+[77:02] la navigazione su internet, tanto quanto
+[77:04] tor, tanto quanto skype
+[77:06] tanto quanto n altre applicazioni
+[77:08] o peggio ancora, vado su facebook
+[77:10] e devo avere un oggetto
+[77:12] che sia capace di vedere la differenza
+[77:14] tra un'immagine e un virus, prima cosa
+[77:16] secondo
+[77:18] dentro facebook, magari a livello aziendale
+[77:20] è normale usarlo perché ci fanno marketing
+[77:22] oramai, ma magari
+[77:24] voglio inibire i giochi, perché invece
+[77:26] non voglio permettere a livello aziendale
+[77:28] faccio una policy, la comunico
+[77:30] deve avere un oggetto che sia capace di
+[77:32] vedere questa differenza, sempre il concetto iniziale
+[77:34] permette di controllare talmente bene
+[77:36] che a secondo di come viene usato
+[77:38] può essere considerato impositivo e negativo
+[77:40] l'importante è sapere che c'è
+[77:42] prevenire fuga di dati
+[77:45] dal vostro pc una botnet
+[77:47] sia che sia all'interno dell'azienda
+[77:49] che sia in giro, o un virus
+[77:51] o un trojan che inizia a sparare fuori
+[77:53] documenti, una delle casistiche
+[77:55] più particolari, forse voi
+[77:57] all'età media
+[77:59] non so se ve lo ricordate o se ci eravate
+[78:01] a usare internet in quel momento, ma una
+[78:03] decina d'anni fa, 12 anni
+[78:05] 12 anni fa c'è stato un virus simpaticissimo
+[78:07] che prendeva
+[78:09] le prime 10 righe di un doc a caso
+[78:11] e lo spediva a tutti l'indirizzo
+[78:13] della rubrica
+[78:15] avete idea di quanta gente ha
+[78:17] tremato quando è uscito quel virus
+[78:19] avete idea di quanta gente aveva un file
+[78:21] di testo con dentro scritto anche delle cose
+[78:23] gravi magari e se l'ha visto spargere
+[78:25] a tutti gli indirizzi di rubrica
+[78:27] perché il virus ha pescato veramente random
+[78:29] e per fortuna che pescava random
+[78:31] questa sera mirato che cosa ne veniva fuori
+[78:33] può succedere che la nostra
+[78:35] macchina mandi fuori delle informazioni
+[78:37] se nel mezzo fra noi e internet
+[78:39] c'è un sistema che riconosce
+[78:41] determinate parole, riconosce determinate chiavi
+[78:43] ed è in grado di fermarle
+[78:45] e avvisarne e occhio
+[78:47] stai manando fuori i dati di la carta di credita aziendale
+[78:49] non lo volevi fare o lo volevi fare
+[78:51] e mi fa dare una conferma umana
+[78:53] a vista di quello che sto facendo
+[78:55] ovviamente è un vantaggio
+[78:57] installo un
+[79:05] un software Sony
+[79:07] qualsiasi cosa, risolvo il problema
+[79:09] o no
+[79:11] guarda il tuo probabilmente
+[79:13] è unato da quello che mi sta telefonando
+[79:15] in questo momento, pronto
+[79:17] e ora ti rispondo la domanda
+[79:19] ciao sto finendo la presentazione mi hanno appena chiesto
+[79:21] se un cellulare
+[79:23] me lo son perso
+[79:25] c'ho Raul al telefono in questo momento
+[79:27] niente
+[79:31] in down col telefono
+[79:33] guarda te lo preso al volo
+[79:35] perché te lo mettevo in viva voce
+[79:37] due analisi da fare sempre
+[79:39] qualunque software ci metti sopra
+[79:41] non risolve il problema
+[79:43] lo devi dare a qualcuno che come minimo
+[79:45] quello che hai di software a bordo del tuo oggetto
+[79:47] e lo confronta con quelli ufficiali
+[79:49] e poi fa un analisi
+[79:51] più nella direzione forense che altro
+[79:53] per capire che tipo di problema a bordo
+[79:55] se installi un tool
+[79:57] di VPN
+[79:59] ti porti in azienda
+[80:01] con la maggior parte dei prodotti
+[80:03] buongiorno
+[80:05] questi sono quelli di cui più ho parlato prima
+[80:07] vi ricordate?
+[80:09] esatto
+[80:11] mi sembrava corretto
+[80:13] mi sembrava di mettervi in difficoltà
+[80:15] visto che io in già che gravata sudante
+[80:17] per tutta l'ora e mezza ho raccontato cose
+[80:19] che dovevate raccontare voi
+[80:21] non so
+[80:23] c'è quell'animale
+[80:25] che si capotta e rimane così e fa il morto
+[80:27] Fabio
+[80:29] era il talk con noi oggi
+[80:31] per sua moglie ricordati che era qua
+[80:33] c'era no?
+[80:35] il problema era la telecamera
+[80:37] c'è stata la telecamera attiva
+[80:39] per tutto il tempo
+[80:41] è saltata la copertura
+[80:43] è un casino, lo gestiremo
+[80:45] no, partere battute
+[80:47] se sul telefono c'è già un virus, un trojan
+[80:49] c'è già un problema
+[80:51] ci rimane, installare quel tipo di software o di tool
+[80:53] ti serve per creare la comunicazione sicura
+[80:55] con l'altro lato
+[80:57] naif
+[80:59] lo ho tirato in ball
+[81:01] Fabio, lo ho tirato in ball
+[81:03] per un motivo, se vuoi usare il telefono
+[81:05] per comunicare in maniera sicura credo che Fabio
+[81:07] sia uno di quelli che ne sa qualcosa
+[81:09] a livello tecnico
+[81:11] e anche concettuale
+[81:13] esistono software e sistemi
+[81:15] per garantire che la tua telefonata
+[81:17] anche la parte voce venga considerata sicura
+[81:19] e cifrata, non solo i dati che trasmetti
+[81:23] no, vabbè, non vuole partecivarsi
+[81:25] ha deciso che è rinuncia
+[81:31] ah, sei ripreso
+[81:33] la diffusione delle reti mobile
+[81:35] ad alta velocità e degli smartphone
+[81:37] è di fatto possibile fare voice over IP
+[81:39] per esempio skype sul proprio cellulare
+[81:41] o usando altri strumenti
+[81:43] magari più standard
+[81:45] rispetto che skype usa nostro
+[81:47] diciamo, procritografia proprietaria
+[81:49] che permettono di avere un link di comunicazione
+[81:51] dati, protetto fra un terminale
+[81:53] e un altro, quindi tra un iphone
+[81:55] un iphone, un iphone android
+[81:57] non è bevuto, è il tapolo che donna
+[81:59] che c'è una sensazione stranissima
+[82:01] e in questo modo avere la voce
+[82:03] che viene registrata dal microfono
+[82:05] in pacchettata, cifrata
+[82:07] spedita sulla rete dati come se fosse
+[82:09] una trasmissione ip quindi come una navigazione web
+[82:11] portata sull'altro cellulare
+[82:13] attraverso internet
+[82:15] poi viene fatto il play dell'audio
+[82:17] come il tipo di meccanismo normale
+[82:19] come ulteriore, unico elemento importante
+[82:21] che poi magari Claudio
+[82:23] cosa successiva approfondirà
+[82:25] è non solo proteggere il contenuto della comunicazione
+[82:27] ma anche tutti i dati
+[82:29] e metadati associati a una comunicazione
+[82:31] cioè chi chiama chi
+[82:33] quando e per quanto tempo
+[82:35] se come dato
+[82:37] viene storicizzato e analizzato
+[82:39] il famoso tabulato telefonico
+[82:41] permette di creare una mappatura
+[82:43] sociale molto dettagliata
+[82:45] della propria rete di soggetti
+[82:47] con cui si comunica
+[82:49] è spesso l'analisi sociale
+[82:51] della rete dei soggetti con cui
+[82:53] si entra in comunicazione
+[82:55] è più rilevante e più importante
+[82:57] del cosa si sta dicendo
+[82:59] non tutti sanno che
+[83:01] quando si effetto a una comunicazione telefonica
+[83:03] parlando di rete gsm
+[83:05] non viene solo da parte dell'operatore telefonico
+[83:07] registrato chi ha chiamato chi
+[83:09] se il telefono ha risposto
+[83:11] e per quanto hanno parlato
+[83:13] ma anche la posizione geografica
+[83:15] che in quel momento chi ha fatto la chiamata
+[83:17] e chi la risposta
+[83:19] in posto in cui si trovavano
+[83:21] questi dati dal punto di vista di
+[83:23] attività investigativa
+[83:25] a quel punto la si chiama
+[83:26] investigazione o spionaggio
+[83:27] a seconda dell'ambio di liceità
+[83:29] permette al soggetto
+[83:31] che guarda l'informazione di avere
+[83:33] molti più dati che
+[83:35] avere il contenuto della comunicazione
+[83:37] ora tu immagina che col tool
+[83:39] sei in grado di creare un tubo
+[83:41] sicuro tramite il quale dal mio cellulare
+[83:43] tutti i miei dati transitano
+[83:45] prima sono in paese ostile
+[83:47] dicevamo in ambiente ostile
+[83:49] mi collego, creo la vpn
+[83:51] e i miei dati entrano
+[83:53] e escano dal mio paese
+[83:55] però collegato la rete gsm
+[83:57] come Fabio stava dicendo sono collegato
+[83:59] fisicamente in quella rete
+[84:01] sono in quel punto
+[84:03] quindi comunque una parte di tracciabilità
+[84:05] di queste informazioni rimane ovviamente
+[84:07] attenzione anche a questo
+[84:09] sul lato del risolvo il problema del virus
+[84:11] del troia non così risponiamo al centro
+[84:13] alla tua domanda no
+[84:15] salvo l'azienda
+[84:17] nel senso che internamente
+[84:19] l'oggetto che ti riceve
+[84:21] su quel tubo
+[84:23] ha la capacità di controllare se il tuo portatile
+[84:25] ha questo problema
+[84:27] e ti ferma dal trasferirlo all'interno della rete
+[84:29] questo sì
+[84:31] però non te lo toglie dal portatile
+[84:33] dello smartphone
+[84:35] per togliere dello smartphone devi lavorare
+[84:37] sullo smartphone volontariamente per
+[84:39] facci girare l'antivirus
+[84:41] o andare a fare forensiche e scoprire
+[84:43] se ha una build modificata
+[84:45] nel sistema operativo o quant'altro
+[84:47] o buttare il telefono
+[84:49] si
+[84:51] magari è giusto uno dei temi che è opportuno
+[84:53] sapere
+[84:59] buttare
+[85:01] sì sì non ho a buttare ragione
+[85:03] cacciare via il telefono
+[85:05] dopo aver telefonato a Fabio
+[85:07] io una volta ogni due settimane
+[85:09] butto via il telefono e ne compro un nuovo
+[85:11] un'altra cosa
+[85:13] che diciamo piccolo dettaglio
+[85:15] che magari è utile sapere
+[85:17] sempre sul fronte telefonico smartphone
+[85:19] è che i applicativi
+[85:21] spyware
+[85:23] per smartphone
+[85:25] normalmente per poter operare
+[85:27] parlando degli ambienti operativi Android
+[85:29] o dell'ambiente operativo iOS
+[85:31] per l'iPhone
+[85:33] richiedono che sia stato fatto il jailbreak
+[85:35] tutti gli strumenti usati sia
+[85:37] nell'ambio dello spionaggio che nell'ambio
+[85:39] dei datori da giudiziare richiedono che
+[85:41] io mi avvicino al target
+[85:43] entro in possesso del suo terminale per
+[85:45] non so 30 secondi un minuto
+[85:47] e aggancia diciamo
+[85:49] lo spyware che poi permette di fare
+[85:51] tutte le cose fra virgolette
+[85:53] più o meno più o meno negative
+[85:55] però mantenendo un'integrità
+[85:57] dell'ambiente operativo
+[85:59] i sistemi operativi smartphone moderni
+[86:01] sono abbastanza sicuri
+[86:03] tale per cui se uno non installa
+[86:05] le applicazioni gratuite che permettono di fare le scorreggie
+[86:07] poi all'interno hanno all'interno
+[86:09] strumenti di spyware
+[86:11] quindi se uno non diciamo si fa del male
+[86:13] da solo tandosi le martellate sui piedi
+[86:15] hanno scaricato la bussola
+[86:17] meno una
+[86:19] quanti di voi hanno scaricato quei due o tre giocchini
+[86:21] gratuiti bellissimi sul proprio smartphone
+[86:25] per esempio
+[86:27] per esempio
+[86:29] su tutti questi spesse volentieri
+[86:31] ci trovate la sorpresa
+[86:33] ora mai sta di me
+[86:35] è sentito
+[86:37] è preoccupato ora
+[86:39] conviene essere preoccupati
+[86:41] perché non sempre viene tutto controllato
+[86:43] al 100% o perlomeno
+[86:45] poi il concetto base era quello del
+[86:47] gel break, del telefono
+[86:49] o del rutare il telefono
+[86:53] sei più vulnerabile
+[86:55] se non addirittura ti sei proprio messo in mano a qualcuno
+[86:57] perché
+[86:59] la rom cuquede a casa mia
+[87:01] fatta da me secondo te avendo l'onore
+[87:03] di poterla cucinare io per tutti quelli
+[87:05] che se la vogliono scaricare
+[87:07] soprattutto se ci scrivo e con questa consumate
+[87:09] meno batteria che casualmente è la build
+[87:11] più scaricata in assoluto
+[87:13] e l'altro li voglio lasciare un egg di qualunque tipo
+[87:15] li lascio, senza che un egg trogliene
+[87:17] peggia ancora
+[87:19] e nessuno di noi è in grado di controllare quella build
+[87:21] se fa qualcosa di strano
+[87:23] per qui è un rischio
+[87:25] ragazzi per informazioni io lascio la parola
+[87:27] a chi è Claudio ora
+[87:29] no
+[87:45] ok allora grazie
+[87:47] della attenzione e ci riparliamo
+[87:49] grazie Claudio

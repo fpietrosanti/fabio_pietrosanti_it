@@ -1,0 +1,1507 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  
+
+
+  <head>
+    <title>
+      #18472 (Enforce the uses of HTTPS for all websites of VLC/videolan.org to prevent MITM exploits)
+     – VLC
+    </title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--[if IE]><![endif]-->
+          <link rel="search" href="/vlc/search" />
+          <link rel="prev" href="/vlc/ticket/18471" title="Ticket #18471" />
+          <link rel="last" href="/vlc/ticket/25534" title="Ticket #25534" />
+          <link rel="help" href="/vlc/wiki/TracGuide" />
+          <link rel="alternate" href="/vlc/ticket/18472?format=csv" type="text/csv" class="csv" title="Comma-delimited Text" />
+          <link rel="alternate" href="/vlc/ticket/18472?format=tab" type="text/tab-separated-values" class="tab" title="Tab-delimited Text" />
+          <link rel="alternate" href="/vlc/ticket/18472?format=rss" type="application/rss+xml" class="rss" title="RSS Feed" />
+          <link rel="next" href="/vlc/ticket/18473" title="Ticket #18473" />
+          <link rel="start" href="/vlc/wiki" />
+          <link rel="stylesheet" href="/vlc/chrome/common/css/trac.css" type="text/css" />
+          <link rel="stylesheet" href="/vlc/chrome/common/css/ticket.css" type="text/css" />
+          <link rel="stylesheet" href="/vlc/chrome/common/css/jquery-ui/jquery-ui.css" type="text/css" />
+          <link rel="stylesheet" href="/vlc/chrome/common/css/jquery-ui-addons.css" type="text/css" />
+          <link rel="icon" href="/vlc/chrome/common/trac.ico" type="image/x-icon" />
+          <link rel="first" href="/vlc/ticket/1" title="Ticket #1" />
+    <style id="trac-noscript" type="text/css">.trac-noscript { display: none !important }</style>
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+    
+    
+  </head>
+  <body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://code.videolan.org/videolan/vlc/-/work_items/18472">code.videolan.org/videolan/vlc/-/work_items/18472</a> · captured 2021-05-02 · scripts removed</div>
+    <div id="banner">
+      <div id="header">
+        <a id="logo" href="/vlc/"><img src="/vlc/chrome/site/cone2.png" alt="VideoLAN" height="50" width="41" /></a>
+      </div>
+      <form id="search" action="/vlc/search" method="get">
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first"><a href="/vlc/prefs">Preferences</a></li><li><a href="/vlc/wiki/TracGuide">Help/Guide</a></li><li><a href="/vlc/about">About Trac</a></li><li class="last"><a href="/vlc/rpc">API</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first"><a href="/vlc/timeline">Timeline</a></li><li><a href="/vlc/roadmap">Roadmap</a></li><li class="active"><a href="/vlc/report">View Tickets</a></li><li class="last"><a href="/vlc/wiki">Wiki</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+        <ul>
+          <li class="first"><span>&larr; <a class="prev" href="/vlc/ticket/18471" title="Ticket #18471">Previous Ticket</a></span></li><li class="last"><span><a class="next" href="/vlc/ticket/18473" title="Ticket #18473">Next Ticket</a> &rarr;</span></li>
+        </ul>
+        <hr />
+      </div>
+      <div id="notice" class="system-message">
+        <a class="trac-close-msg" href="#" title="Hide this notice"><span>close</span></a>
+          <p>This ticket was migrated to our <a href="https://code.videolan.org/">GitLab</a> and can now be found here: <a href="https://code.videolan.org/videolan/vlc/-/issues/18472">#18472</a></p>
+      </div>
+    <div id="content" class="ticket">
+        <div id="ticket" class="trac-content ">
+  <div class="date">
+    <p>Opened <a class="timeline" href="/vlc/timeline?from=2017-06-30T12%3A52%3A05%2B02%3A00&amp;precision=second" title="See timeline at Jun 30, 2017, 12:52:05 PM">4 years ago</a></p>
+    <p>Closed <a class="timeline" href="/vlc/timeline?from=2017-07-01T12%3A23%3A02%2B02%3A00&amp;precision=second" title="See timeline at Jul 1, 2017, 12:23:02 PM">4 years ago</a></p>
+    <p>Last modified <a class="timeline" href="/vlc/timeline?from=2017-07-05T17%3A52%3A30%2B02%3A00&amp;precision=second" title="See timeline at Jul 5, 2017, 5:52:30 PM">4 years ago</a></p>
+  </div>
+  <h2>
+    <a href="/vlc/ticket/18472" class="trac-id">#18472</a>
+    <span class="trac-status">
+      <a href="/vlc/query?status=closed">closed</a>
+    </span>
+    <span class="trac-type">
+      <a href="/vlc/query?status=!closed&amp;type=defect">defect</a>
+    </span>
+    <span class="trac-resolution">
+      (<a href="/vlc/query?status=closed&amp;resolution=duplicate">duplicate</a>)
+    </span>
+  </h2>
+  <h1 id="trac-ticket-title" class="searchable">
+    <span class="summary">Enforce the uses of HTTPS for all websites of VLC/videolan.org to prevent MITM exploits</span>
+  </h1>
+  <table class="properties">
+    <tr>
+      <th id="h_reporter">Reported by:</th>
+      <td headers="h_reporter" class="searchable"><a class="trac-author" href="/vlc/query?status=!closed&amp;reporter=naif">Fabio Pietrosanti (naif)</a></td>
+      <th id="h_owner" class="missing">Owned by:</th>
+      <td headers="h_owner"></td>
+    </tr>
+    <tr>
+        <th id="h_priority">
+          Priority:
+        </th>
+        <td headers="h_priority">
+              <a href="/vlc/query?status=!closed&amp;priority=normal">normal</a>
+        </td>
+        <th id="h_milestone">
+          Milestone:
+        </th>
+        <td headers="h_milestone">
+              <a class="milestone" href="/vlc/milestone/Bugs%20paradize" title="No date set">Bugs paradize</a>
+        </td>
+    </tr><tr>
+        <th id="h_component">
+          Component:
+        </th>
+        <td headers="h_component">
+              <a href="/vlc/query?status=!closed&amp;component=Unknown">Unknown</a>
+        </td>
+        <th id="h_version">
+          Version:
+        </th>
+        <td headers="h_version">
+              <a href="/vlc/query?status=!closed&amp;version=master+git">master git</a>
+        </td>
+    </tr><tr>
+        <th id="h_severity">
+          Severity:
+        </th>
+        <td headers="h_severity">
+              <a href="/vlc/query?status=!closed&amp;severity=normal">normal</a>
+        </td>
+        <th id="h_keywords">
+          Keywords:
+        </th>
+        <td headers="h_keywords" class="searchable">
+              <a href="/vlc/query?status=!closed&amp;keywords=~security">security</a>
+        </td>
+    </tr><tr>
+        <th id="h_cc" class="missing">
+          Cc:
+        </th>
+        <td headers="h_cc" class="searchable">
+        </td>
+        <th id="h_difficulty">
+          Difficulty:
+        </th>
+        <td headers="h_difficulty">
+              <a href="/vlc/query?status=!closed&amp;difficulty=unknown">unknown</a>
+        </td>
+    </tr><tr>
+        <th id="h_platform">
+          Platform(s):
+        </th>
+        <td headers="h_platform">
+              <a href="/vlc/query?status=!closed&amp;platform=all">all</a>
+        </td>
+        <th id="h_wip">
+          Work status:
+        </th>
+        <td headers="h_wip">
+              <a href="/vlc/query?status=!closed&amp;wip=Not+started">Not started</a>
+        </td>
+    </tr>
+  </table>
+  <div class="description">
+    <h3 id="comment:description">
+      Description
+    </h3>
+    <div class="searchable">
+      <p>
+VLC website does not use HTTPS by default, enforcing it.
+VLC website for download redirection does not use HTTPS by default, enforcing it.
+VLC download mirrors does not use HTTPS by default, enforcing it.
+</p>
+<p>
+VLC is the most used video player opensource but it's website is by default in clear-text, exposing to any kind of of digital attacks that manipulate traffic between end-users and VLC website in order to inject computer malware bundled with the software package.
+</p>
+<p>
+VLC trust and diffusion has been also being exploited by CIA:
+<a class="ext-link" href="https://www.reddit.com/r/The_Donald/comments/5y0nh8/cia_using_vlc_media_player_to_hack_into_computers/"><span class="icon">​</span>https://www.reddit.com/r/The_Donald/comments/5y0nh8/cia_using_vlc_media_player_to_hack_into_computers/</a>
+</p>
+<p>
+That's a serious security issue for end-users and reputation for <a class="missing wiki">VideoLan?</a> Project that should take action by securing all it's website and download procedures in order to guarantee end-users that the software that delivered from the VLC website is exactly what's being installed on the end-user computer.
+</p>
+<p>
+This ticket is to:
+</p>
+<ul><li>Enable HTTPS by default on all Videolan hosted resources (such as videolan.org, get.videolan.org, etc) so that it achieve a rating of A+ on <a class="ext-link" href="https://www.ssllabs.com"><span class="icon">​</span>https://www.ssllabs.com</a> testing
+</li></ul><ul><li>Make all of the Videolan mirror to serve the VLC client over HTTPS (that may need another ticket to be tracked, requiring other organization to update)
+</li></ul>
+    </div>
+  </div>
+</div>
+          
+
+        <div>
+          <div class="trac-noscript" style="position: relative">
+            <form id="prefs" method="get" action="/vlc/prefs" style="position: absolute; right: 0">
+              <div id="trac-comments-order">
+                <input type="radio" id="trac-comments-oldest" name="trac-comments-order" value="oldest" checked="checked" />
+                <label for="trac-comments-oldest">Oldest first</label>
+                <input type="radio" id="trac-comments-newest" name="trac-comments-order" value="newest" />
+                <label for="trac-comments-newest">Newest first</label>
+                <span id="trac-threaded-toggle" style="display: none">
+                  <input type="radio" id="trac-comments-threaded" name="trac-comments-order" value="threaded" />
+                  <label for="trac-comments-threaded">Threaded</label>
+                </span>
+              </div>
+              <div>
+                <input id="trac-show-comments-toggle" type="checkbox" checked="checked" />
+                <label for="trac-show-comments-toggle">Show comments</label>
+                <input id="trac-show-property-changes-toggle" type="checkbox" />
+                <label for="trac-show-property-changes-toggle">Show property changes</label>
+              </div>
+            </form>
+          </div>
+          <h3 class="foldable">Change History <span class="trac-count">(26)</span></h3>
+          <div id="changelog">
+              <div class="change" id="trac-change-1-1498904582789439">
+                
+  <h3 class="change" id="comment:1">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:1">comment:1</a>
+  </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-01T12%3A23%3A02%2B02%3A00&amp;precision=second" title="See timeline at Jul 1, 2017, 12:23:02 PM">4 years ago</a> by <span class="trac-author">Jean-Baptiste Kempf</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+    <table class="changes">
+      <tr class="trac-field-resolution">
+        <th class="trac-field-resolution">Resolution:</th>
+        <td>
+            → <span class="trac-field-new">duplicate</span>
+        </td>
+      </tr><tr class="trac-field-status">
+        <th class="trac-field-status">Status:</th>
+        <td>
+            <span class="trac-field-old">new</span> →
+            <span class="trac-field-new">closed</span>
+        </td>
+      </tr>
+    </table>
+  </div>
+    <div class="comment searchable">
+      <p>
+For the n'th time, VLC binaries are async-signed with strong cryptography.
+</p>
+<p>
+You cannot inject 'malware bundled with the software package'.
+</p>
+<p>
+See all the EXISTING tickets about that.
+</p>
+<p>
+Not to mention that the CIA used their OWN fork of VLC.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-2-1499082292313965">
+                
+  <h3 class="change" id="comment:2">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:2">comment:2</a>
+  </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:6" class="follow-up"> 6</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-03T13%3A44%3A52%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 1:44:52 PM">4 years ago</a> by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Exactly, CIA used their own fork of VLC and managed to do MITM to attack VLC users <span class="underline"></span>BECAUSE VLC WEBSITE AND MIRRORS ARE NOT USING HTTPS<span class="underline"></span> .
+</p>
+<p>
+So VLC is responsible to let attacks inject malware bundled with the software package, because it's only VLC project maintainer responsibility to use HTTPS as the only method to prevent a third party attacker to hijack VLC website content and files.
+</p>
+<p>
+async-signed VLC package with strong cryptography are a good thing, but can protect only the "self update method" while leaving 100% completely vulnerable the "installation method" .
+</p>
+<p>
+To summarise:
+</p>
+<ul><li>VLC is vulnerable to MITM attack against the installation of the software because is missing HTTPS
+</li></ul><ul><li>VLC is NOT vulnerable to MITM attack against the update of the software because it's using digital signing of released package
+</li></ul><p>
+Different security mechanism, provide protection against different attacks, unfortunately digital signing of package does not provide any kind of protection against MITM of the installation process of a user visiting videolan.org website and following the instructions.
+</p>
+
+    </div>
+  <div class="trac-lastedit ">
+    Last edited <a class="timeline" href="/vlc/timeline?from=2017-07-03T13%3A47%3A52%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 1:47:52 PM">4 years ago</a>
+        by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+      (<a href="/vlc/ticket/18472?cversion=0&amp;cnum_hist=2#comment:2">previous</a>)
+      (<a href="/vlc/ticket/18472?action=comment-diff&amp;cnum=2&amp;version=1">diff</a>)
+  </div>
+
+              </div>
+              <div class="change" id="trac-change-3-1499082344742185">
+                
+  <h3 class="change" id="comment:3">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:3">comment:3</a>
+  </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-03T13%3A45%3A44%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 1:45:44 PM">4 years ago</a> by <span class="trac-author">Jean-Baptiste Kempf</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+CIA used USB keys...
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-4-1499086326050908">
+                
+  <h3 class="change" id="comment:4">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:4">comment:4</a>
+  </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-03T14%3A52%3A06%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 2:52:06 PM">4 years ago</a> by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+<a class="missing wiki">OpenSource?</a> tool and plugin to MITM VLC download (PoC with screencast coming soon) exploiting trust on videolan.org non-HTTPS website:
+<a class="ext-link" href="https://github.com/evilsocket/bettercap-proxy-modules/blob/master/http/download_hijack.rb"><span class="icon">​</span>https://github.com/evilsocket/bettercap-proxy-modules/blob/master/http/download_hijack.rb</a>
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-5-1499103276863095">
+                
+  <h3 class="change" id="comment:5">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:5">comment:5</a>
+  </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:7" class="follow-up"> 7</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-03T19%3A34%3A36%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 7:34:36 PM">4 years ago</a> by <span class="trac-author">etix</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Either come with a valid proof of concept or stop wasting our time, bandwidth and disk space please.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-6-1499107265894791">
+                
+  <h3 class="change" id="comment:6">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:6">comment:6</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:2" class="in-reply-to"> 2</a>
+        ;
+      </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:8" class="follow-up"> 8</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-03T20%3A41%3A05%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 8:41:05 PM">4 years ago</a> by <span class="trac-author">Rémi Denis-Courmont</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:2" title="Comment 2">naif</a>:
+</p>
+<blockquote class="citation">
+<ul><li>VLC is vulnerable to MITM attack against the installation of the software
+</li></ul></blockquote>
+<p>
+Yes.
+</p>
+<blockquote class="citation">
+<p>
+because is missing HTTPS
+</p>
+</blockquote>
+<p>
+No.
+</p>
+<p>
+It is vulnerable because:
+</p>
+<ul><li>the CIA (and some other intelligence services) can obtain TLS certificates for videolan.org issued by domestic certificate authorities,
+</li><li>the relevant intelligence services can get physical access to the VideoLAN servers and steal the certificates there,
+</li><li>there are probably ways to abuse the trust of VideoLAN admins or committers (e.g. myself),
+</li><li>most importantly, users do not know to download VLC from "videolan.org".
+</li></ul><p>
+TLS does not fix any of those problems.
+</p>
+<p>
+To fix this, what you need is the operating system (vendor) to block unsigned software installation. That's outside the scope of the VLC project (and probably a case of cure worse than the disease).
+</p>
+
+    </div>
+  <div class="trac-lastedit ">
+    Last edited <a class="timeline" href="/vlc/timeline?from=2017-07-03T20%3A42%3A30%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 8:42:30 PM">4 years ago</a>
+        by <span class="trac-author">Rémi Denis-Courmont</span>
+      (<a href="/vlc/ticket/18472?cversion=0&amp;cnum_hist=6#comment:6">previous</a>)
+      (<a href="/vlc/ticket/18472?action=comment-diff&amp;cnum=6&amp;version=1">diff</a>)
+  </div>
+
+              </div>
+              <div class="change" id="trac-change-7-1499107424787866">
+                
+  <h3 class="change" id="comment:7">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:7">comment:7</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:5" class="in-reply-to"> 5</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-03T20%3A43%3A44%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 8:43:44 PM">4 years ago</a> by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:5" title="Comment 5">etix</a>:
+</p>
+<blockquote class="citation">
+<p>
+Either come with a valid proof of concept or stop wasting our time, bandwidth and disk space please.
+</p>
+</blockquote>
+<p>
+The PoC is coming, it has been developed using few lines of ruby as a Bettercap plugin that can be exploited by anyhow in between the end-user and the videolan.org website, mirrorbits server and mirrors.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-8-1499108067992098">
+                
+  <h3 class="change" id="comment:8">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:8">comment:8</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:6" class="in-reply-to"> 6</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-03T20%3A54%3A27%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 8:54:27 PM">4 years ago</a> by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:6" title="Comment 6">courmisch</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:2" title="Comment 2">naif</a>:
+</p>
+<blockquote class="citation">
+<ul><li>VLC is vulnerable to MITM attack against the installation of the software
+</li></ul></blockquote>
+<p>
+Yes.
+</p>
+<blockquote class="citation">
+<p>
+because is missing HTTPS
+</p>
+</blockquote>
+<p>
+No.
+</p>
+</blockquote>
+<p>
+Nope, it's simply because of missing HTTPS.
+</p>
+<p>
+Let me explain below:
+</p>
+<blockquote class="citation">
+<p>
+It is vulnerable because:
+</p>
+<ul><li>the CIA (and some other intelligence services) can obtain TLS certificates for videolan.org issued by domestic certificate authorities,
+</li></ul></blockquote>
+<p>
+Wrong.
+</p>
+<p>
+Actually the uses of HSTS Preload List prevent completely this problem <a class="ext-link" href="https://hstspreload.org/"><span class="icon">​</span>https://hstspreload.org/</a> .
+</p>
+<p>
+Anyhow, even without HSTS Preload List, the actual mandatory uses of Certificate Transparency (<a class="ext-link" href="https://www.certificate-transparency.org/"><span class="icon">​</span>https://www.certificate-transparency.org/</a>) make any kind of this attack to become detected in few hours worldwide.
+</p>
+<blockquote class="citation">
+<ul><li>the relevant intelligence services can get physical access to the VideoLAN servers and steal the certificates there,
+</li></ul></blockquote>
+<p>
+OT.
+From a security threat modelling perspective we are not speaking about an attacker with physical access but about anyone using free-software to make MITM attacks being able to sit in the middle of the traffic between end-users and videolan infrastructure.
+</p>
+<blockquote class="citation">
+<ul><li>there are probably ways to abuse the trust of VideoLAN admins or committers (e.g. myself),
+</li></ul></blockquote>
+<p>
+OT.
+That's not the kind of attack that an untrained, unskilled attacker can do using opensource tools (or tools available for cheap price to law enforcement).
+</p>
+<blockquote class="citation">
+<ul><li>most importantly, users do not know to download VLC from "videolan.org".
+</li></ul></blockquote>
+<p>
+Users trust the click that they do by following the website user interface from videolan.org so the implicit trust is in following your website.
+</p>
+<p>
+The fact that videolan.org website and any link or html contained in it can be easily modified by an unskilled attacker using simple and cost-effective opensource tools, means that the vulnerability is very relevant.
+</p>
+<blockquote class="citation">
+<p>
+TLS does not fix any of those problems.
+</p>
+</blockquote>
+<p>
+As you read above TLS fix all direct attacks problems, except those that require aggressive actions "against you" (physical access or hacking sysadmins).
+</p>
+<blockquote class="citation">
+<p>
+To fix this, what you need is the operating system (vendor) to block unsigned software installation. That's outside the scope of the VLC project (and probably a case of cure worse than the disease).
+</p>
+</blockquote>
+<p>
+That's not really a good excuse to avoid implementing HTTPS and fixing most of your security problem related with MITM of first download.
+</p>
+<p>
+Because only some very high level and sophisticated attacker may use a nuclear weapon against my house, it doesn't mean that i'm not going put a lock that protect my house against most of the attacks.
+</p>
+<p>
+Really, with 2.3 billion download, that's a problem to be fixed ASAP because represent a threats to internet security of a huge amount of users.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-9-1499108416386241">
+                
+  <h3 class="change" id="comment:9">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:9">comment:9</a>
+  </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:10" class="follow-up"> 10</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-03T21%3A00%3A16%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 9:00:16 PM">4 years ago</a> by <span class="trac-author">Rémi Denis-Courmont</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+While it is true that HSTS mitigates the first problem, this bug report made no mention of  HSTS... And it's rather easy hand-wave to ignore the other problems, especially the last one.
+</p>
+<p>
+The reality is that, until the main search engine(s) route all searches for VLC to "videolan.org", we are hosed. And it does not seem like they would want to skip on the scam advertisement revenue with simply not doing that.
+</p>
+<p>
+It also does not seem like the VLC users want to pay for the cost of switching the website and all the mirrors to TLS.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-10-1499109361487627">
+                
+  <h3 class="change" id="comment:10">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:10">comment:10</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:9" class="in-reply-to"> 9</a>
+        ;
+      </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:11" class="follow-up"> 11</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-03T21%3A16%3A01%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 9:16:01 PM">4 years ago</a> by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:9" title="Comment 9">courmisch</a>:
+</p>
+<blockquote class="citation">
+<p>
+While it is true that HSTS mitigates the first problem, this bug report made no mention of  HSTS... And it's rather easy hand-wave to ignore the other problems, especially the last one.
+</p>
+</blockquote>
+<p>
+The bug made mention to rating A+ on ssllabs.com that include using HSTS.
+</p>
+<blockquote class="citation">
+<p>
+The reality is that, until the main search engine(s) route all searches for VLC to "videolan.org", we are hosed. And it does not seem like they would want to skip on the scam advertisement revenue with simply not doing that.
+</p>
+</blockquote>
+<p>
+You can get $10.000/month of Google Search Adwords with <a class="ext-link" href="https://www.google.com/intl/fr/grants/"><span class="icon">​</span>https://www.google.com/intl/fr/grants/</a> . 
+I've done it for <a class="missing wiki">GlobaLeaks?</a> Project, you first need to make a <a class="missing wiki">TechSoup?</a> Account with the French techsou partner to identify yourself in front of Google as a non-profit and in few days you'll have $329/day of Google Adwords advertising with a cap of $2 of CPC.
+</p>
+<blockquote class="citation">
+<p>
+It also does not seem like the VLC users want to pay for the cost of switching the website and all the mirrors to TLS.
+</p>
+</blockquote>
+<p>
+There are several options to starts securing the VLC website:
+</p>
+<ol><li>Uses HTTPS content delivery networks such as cloudflare.com (Mozilla with www.mozilla.org is doing this)
+</li></ol><p>
+or 
+</p>
+<ol start="2"><li>Just enable HTTPS that costs about +2% in CPU usage, or even less if you have CPU with dedicated crypto offloading instructions 
+</li></ol><p>
+<a class="ext-link" href="https://www.keycdn.com/blog/https-performance-overhead/"><span class="icon">​</span>https://www.keycdn.com/blog/https-performance-overhead/</a>
+<a class="ext-link" href="https://www.maxcdn.com/blog/ssl-performance-myth/"><span class="icon">​</span>https://www.maxcdn.com/blog/ssl-performance-myth/</a>
+<a class="ext-link" href="https://www.trueneutral.eu/2016/ssl-performance.html"><span class="icon">​</span>https://www.trueneutral.eu/2016/ssl-performance.html</a>
+</p>
+<p>
+For what's related to the mirrors I opened a ticket at <a class="closed ticket" href="/vlc/ticket/18484" title="#18484: enhancement: Map all the existing VLC mirrors that already support HTTPS (closed: wontfix)">#18484</a> to analyse which mirror already support HTTPS and which percentage of the total download they account for. 
+</p>
+<p>
+For what's related to the software side, opened a ticket on mirrorbits <a class="missing wiki">GitHub?</a> repository to support HTTPS as a property of a mirror <a class="ext-link" href="https://github.com/etix/mirrorbits/issues/59"><span class="icon">​</span>https://github.com/etix/mirrorbits/issues/59</a>
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-11-1499117803849309">
+                
+  <h3 class="change" id="comment:11">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:11">comment:11</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:10" class="in-reply-to"> 10</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-03T23%3A36%3A43%2B02%3A00&amp;precision=second" title="See timeline at Jul 3, 2017, 11:36:43 PM">4 years ago</a> by <span class="trac-author">Jean-Baptiste Kempf</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:10" title="Comment 10">naif</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:9" title="Comment 9">courmisch</a>:
+</p>
+<blockquote class="citation">
+<p>
+While it is true that HSTS mitigates the first problem, this bug report made no mention of  HSTS... And it's rather easy hand-wave to ignore the other problems, especially the last one.
+</p>
+</blockquote>
+<p>
+The bug made mention to rating A+ on ssllabs.com that include using HSTS.
+</p>
+<blockquote class="citation">
+<p>
+The reality is that, until the main search engine(s) route all searches for VLC to "videolan.org", we are hosed. And it does not seem like they would want to skip on the scam advertisement revenue with simply not doing that.
+</p>
+</blockquote>
+<p>
+You can get $10.000/month of Google Search Adwords with <a class="ext-link" href="https://www.google.com/intl/fr/grants/"><span class="icon">​</span>https://www.google.com/intl/fr/grants/</a> . 
+I've done it for <a class="missing wiki">GlobaLeaks?</a> Project, you first need to make a <a class="missing wiki">TechSoup?</a> Account with the French techsou partner to identify yourself in front of Google as a non-profit and in few days you'll have $329/day of Google Adwords advertising with a cap of $2 of CPC.
+</p>
+<blockquote class="citation">
+<p>
+It also does not seem like the VLC users want to pay for the cost of switching the website and all the mirrors to TLS.
+</p>
+</blockquote>
+<p>
+There are several options to starts securing the VLC website:
+</p>
+<ol><li>Uses HTTPS content delivery networks such as cloudflare.com (Mozilla with www.mozilla.org is doing this)
+</li></ol><p>
+or 
+</p>
+<ol start="2"><li>Just enable HTTPS that costs about +2% in CPU usage, or even less if you have CPU with dedicated crypto offloading instructions 
+</li></ol><p>
+<a class="ext-link" href="https://www.keycdn.com/blog/https-performance-overhead/"><span class="icon">​</span>https://www.keycdn.com/blog/https-performance-overhead/</a>
+<a class="ext-link" href="https://www.maxcdn.com/blog/ssl-performance-myth/"><span class="icon">​</span>https://www.maxcdn.com/blog/ssl-performance-myth/</a>
+<a class="ext-link" href="https://www.trueneutral.eu/2016/ssl-performance.html"><span class="icon">​</span>https://www.trueneutral.eu/2016/ssl-performance.html</a>
+</p>
+<p>
+For what's related to the mirrors I opened a ticket at <a class="closed ticket" href="/vlc/ticket/18484" title="#18484: enhancement: Map all the existing VLC mirrors that already support HTTPS (closed: wontfix)">#18484</a> to analyse which mirror already support HTTPS and which percentage of the total download they account for. 
+</p>
+<p>
+For what's related to the software side, opened a ticket on mirrorbits <a class="missing wiki">GitHub?</a> repository to support HTTPS as a property of a mirror <a class="ext-link" href="https://github.com/etix/mirrorbits/issues/59"><span class="icon">​</span>https://github.com/etix/mirrorbits/issues/59</a>
+</p>
+</blockquote>
+<p>
+If you want to be secure, use the https version of videolan.org, and check the sha1 and the signature.
+</p>
+<p>
+As for the suggestion of using cloudflare, in order to MITM our HTTPS connections, this is a nice joke.
+</p>
+<p>
+If you are able to send us around 20k€/month to have our own mirrors, please be very free to send that.
+</p>
+<p>
+Now, as you are obviously trolling, please stop right now, or I'll be forced to block your account.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-12-1499171262823574">
+                
+  <h3 class="change" id="comment:12">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:12">comment:12</a>
+  </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:13" class="follow-up"> 13</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T14%3A27%3A42%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 2:27:42 PM">4 years ago</a> by <span class="trac-author">mane</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+</p>
+<p>
+Please contact me privately for further discussion.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-13-1499172091272630">
+                
+  <h3 class="change" id="comment:13">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:13">comment:13</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:12" class="in-reply-to"> 12</a>
+        ;
+      </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:14" class="follow-up"> 14</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T14%3A41%3A31%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 2:41:31 PM">4 years ago</a> by <span class="trac-author">Jean-Baptiste Kempf</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:12" title="Comment 12">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+</p>
+<p>
+Please contact me privately for further discussion.
+</p>
+</blockquote>
+<p>
+How can we contact you?
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-14-1499172260539433">
+                
+  <h3 class="change" id="comment:14">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:14">comment:14</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:13" class="in-reply-to"> 13</a>
+        ;
+      </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:15" class="follow-up"> 15</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T14%3A44%3A20%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 2:44:20 PM">4 years ago</a> by <span class="trac-author">mane</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:13" title="Comment 13">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:12" title="Comment 12">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+</p>
+<p>
+Please contact me privately for further discussion.
+</p>
+</blockquote>
+<p>
+How can we contact you?
+</p>
+</blockquote>
+<p>
+you should be able to see my email address, if not, please let me know and I'll provide it to you.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-15-1499172932932693">
+                
+  <h3 class="change" id="comment:15">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:15">comment:15</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:14" class="in-reply-to"> 14</a>
+        ;
+      </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:18" class="follow-up"> 18</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T14%3A55%3A32%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 2:55:32 PM">4 years ago</a> by <span class="trac-author">Jean-Baptiste Kempf</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:14" title="Comment 14">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:13" title="Comment 13">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:12" title="Comment 12">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+</p>
+<p>
+Please contact me privately for further discussion.
+</p>
+</blockquote>
+<p>
+How can we contact you?
+</p>
+</blockquote>
+<p>
+you should be able to see my email address, if not, please let me know and I'll provide it to you.
+</p>
+</blockquote>
+<p>
+I don't think I can, but I will check.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-16-1499179589608014">
+                
+  <h3 class="change" id="comment:16">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:16">comment:16</a>
+  </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:17" class="follow-up"> 17</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T16%3A46%3A29%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 4:46:29 PM">4 years ago</a> by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+FYI references to documents related to the Commercial Infection Appliance used by dictatorship to infect executable downloads.
+</p>
+<p>
+Please have a read at the technical specification of the "infection applications" in order get an idea of their capabilities, that can be fully defeated having the entire website and download process with HTTPS+HSTS
+</p>
+<p>
+<a class="ext-link" href="https://twitter.com/botherder/status/882243803448561665"><span class="icon">​</span>https://twitter.com/botherder/status/882243803448561665</a>
+ 
+</p>
+
+    </div>
+  <div class="trac-lastedit ">
+    Last edited <a class="timeline" href="/vlc/timeline?from=2017-07-04T16%3A48%3A20%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 4:48:20 PM">4 years ago</a>
+        by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+      (<a href="/vlc/ticket/18472?cversion=0&amp;cnum_hist=16#comment:16">previous</a>)
+      (<a href="/vlc/ticket/18472?action=comment-diff&amp;cnum=16&amp;version=1">diff</a>)
+  </div>
+
+              </div>
+              <div class="change" id="trac-change-17-1499180558301673">
+                
+  <h3 class="change" id="comment:17">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:17">comment:17</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:16" class="in-reply-to"> 16</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T17%3A02%3A38%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 5:02:38 PM">4 years ago</a> by <span class="trac-author">Jean-Baptiste Kempf</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:16" title="Comment 16">naif</a>:
+</p>
+<blockquote class="citation">
+<p>
+FYI references to documents related to the Commercial Infection Appliance used by dictatorship to infect executable downloads.
+</p>
+<p>
+Please have a read at the technical specification of the "infection applications" in order get an idea of their capabilities, that can be fully defeated having the entire website and download process with HTTPS+HSTS
+</p>
+<p>
+<a class="ext-link" href="https://twitter.com/botherder/status/882243803448561665"><span class="icon">​</span>https://twitter.com/botherder/status/882243803448561665</a>
+</p>
+</blockquote>
+<p>
+Continuing to attack us on twitter and other media will not make us listen to you.
+</p>
+<p>
+Please learn how to behave.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-18-1499180644596662">
+                
+  <h3 class="change" id="comment:18">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:18">comment:18</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:15" class="in-reply-to"> 15</a>
+        ;
+      </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:19" class="follow-up"> 19</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T17%3A04%3A04%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 5:04:04 PM">4 years ago</a> by <span class="trac-author">mane</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:15" title="Comment 15">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:14" title="Comment 14">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:13" title="Comment 13">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:12" title="Comment 12">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+</p>
+<p>
+Please contact me privately for further discussion.
+</p>
+</blockquote>
+<p>
+How can we contact you?
+</p>
+</blockquote>
+<p>
+you should be able to see my email address, if not, please let me know and I'll provide it to you.
+</p>
+</blockquote>
+<p>
+I don't think I can, but I will check.
+</p>
+</blockquote>
+<p>
+I haven't heard back from you on this regard, do you have an update?
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-19-1499180879049649">
+                
+  <h3 class="change" id="comment:19">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:19">comment:19</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:18" class="in-reply-to"> 18</a>
+        ;
+      </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:20" class="follow-up"> 20</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T17%3A07%3A59%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 5:07:59 PM">4 years ago</a> by <span class="trac-author">Jean-Baptiste Kempf</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:18" title="Comment 18">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:15" title="Comment 15">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:14" title="Comment 14">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:13" title="Comment 13">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:12" title="Comment 12">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+</p>
+<p>
+Please contact me privately for further discussion.
+</p>
+</blockquote>
+<p>
+How can we contact you?
+</p>
+</blockquote>
+<p>
+you should be able to see my email address, if not, please let me know and I'll provide it to you.
+</p>
+</blockquote>
+<p>
+I don't think I can, but I will check.
+</p>
+</blockquote>
+<p>
+I haven't heard back from you on this regard, do you have an update?
+</p>
+</blockquote>
+<p>
+So far, no, because we need to work on our infrastructure, because @naif and their (italian) friends are attacking us from all over. And not only on social networks, but also physically on our servers.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-20-1499181614269315">
+                
+  <h3 class="change" id="comment:20">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:20">comment:20</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:19" class="in-reply-to"> 19</a>
+        ;
+      </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:21" class="follow-up"> 21</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T17%3A20%3A14%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 5:20:14 PM">4 years ago</a> by <span class="trac-author">mane</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:19" title="Comment 19">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:18" title="Comment 18">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:15" title="Comment 15">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:14" title="Comment 14">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:13" title="Comment 13">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:12" title="Comment 12">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+</p>
+<p>
+Please contact me privately for further discussion.
+</p>
+</blockquote>
+<p>
+How can we contact you?
+</p>
+</blockquote>
+<p>
+you should be able to see my email address, if not, please let me know and I'll provide it to you.
+</p>
+</blockquote>
+<p>
+I don't think I can, but I will check.
+</p>
+</blockquote>
+<p>
+I haven't heard back from you on this regard, do you have an update?
+</p>
+</blockquote>
+<p>
+So far, no, because we need to work on our infrastructure, because @naif and their (italian) friends are attacking us from all over. And not only on social networks, but also physically on our servers.
+</p>
+</blockquote>
+<p>
+I would suggest you to leave nationality related comments out of this discussion.
+</p>
+<p>
+I am sorry to read that you are experiencing attacks on your servers at current. In case you need a secure and reliable mirror please let me know as I could run one and give it 1Gb/s connectivity to it, free of charge and with enforced HTTPS.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-21-1499182056265955">
+                
+  <h3 class="change" id="comment:21">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:21">comment:21</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:20" class="in-reply-to"> 20</a>
+        ;
+      </span>
+      <span class="trac-follow-ups">
+          <span>follow-up:</span>
+    <a href="#comment:22" class="follow-up"> 22</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T17%3A27%3A36%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 5:27:36 PM">4 years ago</a> by <span class="trac-author">Jean-Baptiste Kempf</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:20" title="Comment 20">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:19" title="Comment 19">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+So far, no, because we need to work on our infrastructure, because @naif and their (italian) friends are attacking us from all over. And not only on social networks, but also physically on our servers.
+</p>
+</blockquote>
+<p>
+I would suggest you to leave nationality related comments out of this discussion.
+</p>
+</blockquote>
+<p>
+Seeing that they makes this a italian-vs-france hacker fight, it's not really easy, tbh.
+But fair enough...
+</p>
+<blockquote class="citation">
+<p>
+I am sorry to read that you are experiencing attacks on your servers at current. In case you need a secure and reliable mirror please let me know as I could run one and give it 1Gb/s connectivity to it, free of charge and with enforced HTTPS.
+</p>
+</blockquote>
+<p>
+OK, thanks for the proposal.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-22-1499183336945609">
+                
+  <h3 class="change" id="comment:22">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:22">comment:22</a>
+  </span>
+      <span class="trac-in-reply-to">
+        in reply to:
+    <a href="#comment:21" class="in-reply-to"> 21</a>
+      </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T17%3A48%3A56%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 5:48:56 PM">4 years ago</a> by <span class="trac-author">mane</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:21" title="Comment 21">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:20" title="Comment 20">mane</a>:
+</p>
+<blockquote class="citation">
+<p>
+Replying to <a class="ticket" href="/vlc/ticket/18472#comment:19" title="Comment 19">jb</a>:
+</p>
+<blockquote class="citation">
+<p>
+So far, no, because we need to work on our infrastructure, because @naif and their (italian) friends are attacking us from all over. And not only on social networks, but also physically on our servers.
+</p>
+</blockquote>
+<p>
+I would suggest you to leave nationality related comments out of this discussion.
+</p>
+</blockquote>
+<p>
+Seeing that they makes this a italian-vs-france hacker fight, it's not really easy, tbh.
+But fair enough...
+</p>
+</blockquote>
+<p>
+I see your point but keep in mind that there could be Italians willing to help you guys, indistinctly if you are French or of any other nationality.
+</p>
+<blockquote class="citation">
+<blockquote class="citation">
+<p>
+I am sorry to read that you are experiencing attacks on your servers at current. In case you need a secure and reliable mirror please let me know as I could run one and give it 1Gb/s connectivity to it, free of charge and with enforced HTTPS.
+</p>
+</blockquote>
+<p>
+OK, thanks for the proposal.
+</p>
+</blockquote>
+<p>
+No worries, I am happy to help.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-23-1499183665768431">
+                
+  <h3 class="change" id="comment:23">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:23">comment:23</a>
+  </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-04T17%3A54%3A25%2B02%3A00&amp;precision=second" title="See timeline at Jul 4, 2017, 5:54:25 PM">4 years ago</a> by <span class="trac-author">Jean-Baptiste Kempf</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Thanks.
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-24-1499269886597334">
+                
+  <h3 class="change" id="comment:24">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:24">comment:24</a>
+  </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-05T17%3A51%3A26%2B02%3A00&amp;precision=second" title="See timeline at Jul 5, 2017, 5:51:26 PM">4 years ago</a> by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+For proper IE compatibility: <a class="ext-link" href="https://github.com/client9/sslassert/wiki/IE-Supported-Cipher-Suites"><span class="icon">​</span>https://github.com/client9/sslassert/wiki/IE-Supported-Cipher-Suites</a>
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-25-1499269924878954">
+                
+  <h3 class="change" id="comment:25">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:25">comment:25</a>
+  </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-05T17%3A52%3A04%2B02%3A00&amp;precision=second" title="See timeline at Jul 5, 2017, 5:52:04 PM">4 years ago</a> by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+Microsoft documentation: HSTS is supported in IE only from IE11, no problem on XP as unknown additional header 
+<a class="ext-link" href="https://support.microsoft.com/en-us/help/3071338/internet-explorer-11-adds-support-for-http-strict-transport-security-s"><span class="icon">​</span>https://support.microsoft.com/en-us/help/3071338/internet-explorer-11-adds-support-for-http-strict-transport-security-s</a>
+</p>
+
+    </div>
+
+              </div>
+              <div class="change" id="trac-change-26-1499269950916410">
+                
+  <h3 class="change" id="comment:26">
+    <span class="threading">
+      <span class="cnum">
+    <a href="#comment:26">comment:26</a>
+  </span>
+    </span>
+        Changed <a class="timeline" href="/vlc/timeline?from=2017-07-05T17%3A52%3A30%2B02%3A00&amp;precision=second" title="See timeline at Jul 5, 2017, 5:52:30 PM">4 years ago</a> by <span class="trac-author">Fabio Pietrosanti (naif)</span>
+  </h3>
+  <div class="trac-change-panel">
+    <div class="trac-ticket-buttons">
+    </div>
+  </div>
+    <div class="comment searchable">
+      <p>
+That’d the specific User Agent compatibility of IE8 on XP 
+<a class="ext-link" href="https://www.ssllabs.com/ssltest/viewClient.html?name=IE&amp;version=8&amp;platform=XP"><span class="icon">​</span>https://www.ssllabs.com/ssltest/viewClient.html?name=IE&amp;version=8&amp;platform=XP</a>
+</p>
+
+    </div>
+
+              </div>
+          </div>
+        </div>
+      <div id="help"><strong>Note:</strong> See
+        <a href="/vlc/wiki/TracTickets">TracTickets</a> for help on using
+        tickets.</div>
+    </div>
+    <div id="altlinks">
+      <h3>Download in other formats:</h3>
+      <ul>
+        <li class="first">
+          <a rel="nofollow" href="/vlc/ticket/18472?format=csv" class="csv">Comma-delimited Text</a>
+        </li><li>
+          <a rel="nofollow" href="/vlc/ticket/18472?format=tab" class="tab">Tab-delimited Text</a>
+        </li><li class="last">
+          <a rel="nofollow" href="/vlc/ticket/18472?format=rss" class="rss">RSS Feed</a>
+        </li>
+      </ul>
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr />
+      <a id="tracpowered" href="http://trac.edgewall.org/"><img src="/vlc/chrome/common/trac_logo_mini.png" height="30" width="107" alt="Trac Powered" /></a>
+      <p class="left">Powered by <a href="/vlc/about"><strong>Trac 1.2</strong></a><br />
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right">VideoLAN</p>
+    </div>
+  </body>
+</html>

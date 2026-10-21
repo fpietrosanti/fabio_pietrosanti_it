@@ -1,0 +1,115 @@
+Riconoscimento facciale usato dalle forze dell'ordine, strumento o arma? (#DialoghiCopernicani con Paolo Cirio)
+https://www.youtube.com/watch?v=Payk7MfIeFs
+Segmento da 21:01 a 32:35 della registrazione (media.mp4); timestamp relativi all'inizio della clip.
+Trascrizione automatica (faster-whisper small, dalla trascrizione completa transcript.txt).
+
+[00:00] attimo Fabio se ha dei commenti su quello che abbiamo scelto finora e si porta la sua
+[00:07] la sua visione dal da cultura di diritti e delle libertà individuali dello spazio informatico
+[00:19] grazie carlo grazie paolo allora io come contributo credo di voler dare qualche
+[00:28] elemento che le volte non è chiaro e che mi trovo spesso e volentieri a ripetere ripostruire
+[00:34] più volte quando parliamo di riconoscimento facciale che di identificazione stiamo parlando
+[00:41] di un dato biometrico ne più nemmeno che il nostro DNA nemmeno che impronta della nostra
+[00:49] idea o della nostra impronta di nostro vita quindi stiamo parlando di un dato che inserì
+[00:53] è molto sensibile oggi però i vittimi dei social network i vittimi degli smartphone
+[00:58] moderni troviamo questa caratteristica molto conveniente molto una funzionalità molto
+[01:04] interessante allora le volte nel porzi ai vari estremi bisogna dire qual è l'uso che può
+[01:13] essere positivo e qual è l'uso che può essere negativo è ovvio che se devo riorganizzare il
+[01:18] mio buc fotografico e la mia applicazione testo di organizzazione delle foto riconosce le
+[01:23] foto mi propone di clasterizzarle per metterci meno tempo organizzarmi va beh è una funzionalità
+[01:29] di machine learning di computer vision che viene applicata da me e me nella gestione del mio archivio
+[01:34] è completamente diverso e qui secondo me vorrei riportare a un esempio di quella che è stata
+[01:42] una ricerca fatta da riccardo colluccini il nostro centro Hermes con delle richieste foie
+[01:48] poi richiesta giornalistica prendendo l'esempio di cosa abbiamo in italia in italia esiste
+[01:53] il sistema sari sistema di automatici di conoscimento immagino il nome di grande ansia questo
+[02:02] sistema sari in dotazione al ministero dell'interno esiste in due versioni una versione che potremmo
+[02:10] quasi considerare legittima ma discutiamo della base legale di che cosa c'è dentro cioè quello
+[02:15] che serve dato un sospetto e data una base dati di persone con precedenti e anche nella
+[02:20] collaborazione internazionale nell'ambio del terrorismo e dire questa faccia di cui ho una base
+[02:26] legale per chiedere se effettivamente esiste nell'archivio esiste nell'archivio e in quel caso
+[02:32] ho un processamento che è abbastanza ben codificato in un interi investito e di cui viene uno di
+[02:39] tinghe quindi ho magari un una persona sospetta di cui ho già fatto un fermo ho un database di
+[02:45] persone che hanno già seguito un interp di giustizia e possiamo discutere qual è il giusto livello
+[02:51] di compromesso tra sicurezza e libertà e ne vado a fare una verifica e questo prodotto
+[02:56] comprato dal ministero dell'interno di cui ci sono tutti i documenti online perché il capitolato
+[03:01] tecnico è stato poi pubblicato grazie alle richieste foia fatta da Coluccini si chiama sari
+[03:07] enterprise va bene o uno dice va bene è una funzionalità in dotazione alle forze di
+[03:13] polizia ma sari è stato fatto anche in una versione real time cioè quello che noi a cui in realtà
+[03:20] facciamo maggiormente riferimento quando parliamo di questi temi cioè una edizione del sistema che è
+[03:26] in grado di ricevere dei flussi video in tempo reale e scandaiare il database frame per frame da
+[03:32] tutti i singoli flussi video sono due cose completamente diverse in un caso ho due basi
+[03:38] dati biometriche di cui magari sono stato legittimato alla sua acquisizione conservazione
+[03:45] successiva comparazione nel caso in cui invece ho un sistema di videocamere che sorveglia un'area
+[03:52] una strada una piazza una stazione un luogo chiuso chi che sia e lo vado vado a comparare i
+[03:58] singoli frame le singole immagini catturate delle camere e come se stessi facendo il
+[04:03] preliore del sangue l'analisi del DNA a tutte le persone che passano senza neanche chiederevo quindi
+[04:09] è qui su questo questo tipo di fatti specie su cui in particolar modo bisogna soffermarsi
+[04:16] la fatti spettiva e in grado di utilizzo delle tecnologie di riconoscimento facciale e di
+[04:24] identificazione biometrica facciale queste sono diciamo le tecnologie che sono maggiormente
+[04:31] invasive da cui ci dobbiamo tutelare e su cui ci sono le tantissime iniziative sia diciamo di tutela
+[04:40] dal lato attivistico secondo me un paio interessanti che devono essere anche note degli anni precedenti
+[04:47] non tutti sanno che in Italia dal 2009 bravo hacker veneto e pto avviato un progetto che si
+[04:57] chiama un opticon un opticon un opticon un opticon punto org che ovviamente si rifa al panopticon e fa
+[05:03] la mappatura delle telecamere di venezia per consentire eventualmente di sviare i percorsi in
+[05:09] cui sono le telecamere o nel 2016 è stato presentato un progetto molto interessante si
+[05:14] chiama computer vision da sol che prende tecniche di makeup i tecniche di trucco
+[05:23] sia di diciamo di taglio di capelli che di trucco pensate per riuscire a ingannare gli algoritmi
+[05:28] di riconoscimento facciale quindi c'è poi un bel movimento diciamo di cui l'iniziativa di
+[05:35] paulo è una forte però che è provocatoria e quindi riesce a stimolare il dibattio nel
+[05:40] contrastare e nel tutelarci da questo tipo di diciamo di problematiche non ultimo se posso
+[05:50] aggiungere quella che è un'esperienza abbastanza recente perché ha visto anche un intervento del
+[05:55] garante proprio quest'anno quello che è successo al comune di comu cosa che è arrivata fin in
+[06:02] parlamento e intervento la parte del garante il comune di comu si è presentata l'azienda A2A
+[06:09] smart city che fa le soluzioni di smart city in partnership con Huawei ha detto potremmo
+[06:14] riutilizzare i pali della luce perché questo fa parte delle soluzioni di smart city per introdurre
+[06:20] un sistema anche di sicurezza e disorveglianza uno potrebbe essere d'accordo non d'accordo sta
+[06:25] di fatto che il stato proposto è stato accettato assolutamente di buon grado l'addozione di un
+[06:32] sistema di telecambre con riconoscimento facciale di Huawei questo è stato scoperto da
+[06:39] un'inchiesta fatta da Laura Carrere Riccardo Colcini e Filippi Salvo che quando ha avuto un
+[06:45] outcam mediato tra l'altro ha utilizzato lo strumento del foia e è è doveroso dire che è
+[06:50] stato uno dei casi in cui lo strumento del foia l'accesso civico generalizzato ha funzionato
+[06:55] particolarmente bene perché diciamo i giornalisti attivisti sono riusciti ad avere anche copia
+[07:00] delle email scambiate tra l'amministrazione comunale e i tecnici Huawei A2A smart city
+[07:05] ma in buona sostanza hanno attivato un sistema di riconoscimento facciale per basivo all'interno
+[07:13] della città senza avere alcuna base legale e senza avere alcun tipo di base legale è risultato
+[07:18] il provvedimento il garante gli ha detto spegnete questo sistema quindi ci troviamo anche in una
+[07:23] situazione in cui quelle che sono delle iniziative che potrebbero essere interessanti per esempio
+[07:30] le smart city coniucate magari ha desigenze di sicurezza siccome c'è una feature del prodotto da
+[07:35] quello che può essere una esigenza particolare magari di video sorveglianza di una strada sensibile
+[07:41] che potrebbe essere legittima ma con una data retention decisamente estreta provuale la
+[07:50] proporzionalità so caso tutto siccome il prodotto ha una feature che è figata questa face recognition
+[07:56] aspetta che anciamola a un paio di database a quel punto si crea un vero proprio panottimo io ricordo
+[08:02] ulteriormente quello che è l'effetto il chilling effect cioè del avere i sistemi di
+[08:08] sorveglianza pervasivi è uno degli effetti veri di limitazione delle nostre libertà
+[08:13] individuali nel momento in cui c'è un sistema di video sorveglianza abbastanza
+[08:18] pervasiva per di più con la notorietà che è interconnesso a sistemi intelligenti è ovvio
+[08:23] io limiterò le mie azioni mi starò limitando quello che fare come voglio esprimermi e quello
+[08:32] che voglio dire è una forma diretta di limitazione delle nostre libertà civili però il caso di
+[08:37] comodo è veramente importante perché nell'autonomia dell'amministrazione locale si insidiano tanti
+[08:43] casi di tecnologia di questo tipo che fino a qualche anno fa diciamo un cinque anni fa
+[08:50] riconoscimento facciale tempo reale ad alta risoluzione era comunque una cosa un po' sofisticata
+[08:57] oggi dei prodotti di categoria prosumer cioè oggetti da 60 100 euro hanno questo tipo di
+[09:05] caratteristiche per cui la loro diffusione la loro proliferazione se vogliamo riferirci
+[09:11] a questi come delle cose che devono essere regolamentate e ormai è a macchia di lopardo
+[09:17] c'è una canzia macchia d'olio e nei consegni di regolamentazione in questo dice bene paulo al
+[09:27] fatto che se c'è stato in passato un orientamento comunitario per guardare una moratoria del
+[09:33] riconoscimento facciale abbiamo poi visto invece inizia a dire come il prum database biometrico
+[09:39] europeo ha detto ma magari tra gli stati membri potremmo iniziare a condividere meglio
+[09:44] anche anche i volti per cui ci troviamo è ovviamente in democrazia quindi possiamo
+[09:50] trovarci tutto il mondo più vicino all'esigenza investigaire dell'euro polla che si contrappone
+[09:55] alle visioni più progressiste di quelle della comunità della comunità della Commissione
+[10:00] europea da questo punto di vista i garanti fanno quello che possono è fondamentale fare
+[10:11] informazione è fondamentale fare azione divulgazione di attivismo per raggiungere quell'obiettivo
+[10:17] cioè l'obiettivo della moratoria di questo tipo di questo tipo di soluzioni io ricordo
+[10:22] parlando dell'ordinamento nazionale e qui faccio il giudista della domenica pomeriggio
+[10:26] perché appocato non sono il giudista anche meno che in italia installare una telecamera
+[10:34] al pubblico o installare anche una telecamera all'interno dei locali lavoro è fortemente
+[10:38] deregolamentato cioè il devo se devo mantenere la data retention dei dati delle telecamere
+[10:44] di sorveglianze esterne deve essere un'unicata alla costura e deve essere assolutamente limitata
+[10:52] nel tempo si parla mi pare qui potrei dire gastronarie 24 48 ore normalmente si può arrivare fino
+[10:57] a 30 ore con comunicazione alla costura quindi siamo in un contesto che è già molto
+[11:02] tutelante parlo dell'italia in questo caso dal punto di vista dell'uso prevenzione abuso
+[11:08] della video sorveglianza poi però vediamo cose del genere come il sistema salio il time vediamo
+[11:14] cose come quello che è capitato alcune di come e quindi ci troviamo un quadro normativo che in
+[11:19] teoria abbastanza consolidato ma c'è una consapevolezza che è veramente bassa iniziative
+[11:25] come anche questa diciamo questa serata servono anche a far capire che stiamo parlando di
+[11:30] qualcosa di estremamente invasivo che non va preso normalmente sotto gamba

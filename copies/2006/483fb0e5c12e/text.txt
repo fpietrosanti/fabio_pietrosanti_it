@@ -1,0 +1,134 @@
+s0ftpr0ject 03 - Digital Security for Y2K 
+
+ [ 
+
+ main | members | docs 
+
+ | tools | bfi 
+
+ | archive 
+
+ | links | contact 
+
+ ] 
+
+ Il sottile confine tra privacy e sicurezza: i dispositivi biometrici ( pdf slides / 
+ ogg audio) by vodka ( 15 May 2004 ) [Italian] 
+
+ E-Money: dove sono i miei soldi? 
+ ( pdf slides) by nail and naga@antifork.org ( 08 May 2004 ) [Italian] 
+
+ Free & Secure: alcune feature di sicurezza nei sistemi operativi free 
+ ( pdf slides) by zen ( 08 May 2004 ) [Italian] 
+
+ Secure by default? 
+ ( pdf slides) by Kobaiashi ( 08 May 2004 ) [Italian] 
+
+ wireless (in)security: (in)sicurezza dell'802.11 
+ ( pdf and ppt slides) by naif and vodka ( 07 May 2004 ) [Italian] 
+
+ iN-FiT: IDA based network file transfer 
+ ( pdf slides) by valv0 ( 06 May 2004 ) [Italian] 
+
+ Hacking della firma digitale e attacco ai contenuti della smartcard: alcune casistiche 
+ ( pdf slides) by Kobaiashi ( 06 May 2004 ) [Italian] 
+
+ Unsupervised Learning and Data Mining for Intrusion Detection 
+ ( pdf slides) by Raistlin ( 21 April 2004 ) [English] 
+
+ s0ftpj Digital Security 
+ by NeURo@olografix.org ( March 2004 ) [Italian] 
+
+ BFi, la rivista digitale dell'underground italiano 
+ by NeURo@olografix.org ( February 2004 ) [Italian] 
+
+ Ethical hacking, unethical laws 
+ ( pdf slides) by Raistlin ( 14 October 2003 ) [Italian] 
+
+ Firma digitale e problemi di sicurezza 
+ ( pdf slides) by Raistlin ( 20 September 2003 ) [Italian] 
+
+ Nuovi progetti di steganografia 
+ ( pdf slides) by vecna ( 20 September 2003 ) [Italian] 
+
+ La programmazione sicura secondo 
+ D. J. Bernstein ( pdf slides / mp3 audio) by Quest ( 20 June 2003 ) [Italian] 
+
+ Invisible Irc Project, anonymous real time communication 
+ ( pdf slides / ogg audio) by vodka ( 14 June 2003 ) [Italian] 
+
+ Steganografia, l'arte della scrittura nascosta 
+ ( pdf slides / ogg audio) by vecna ( 14 June 2003 ) [Italian] 
+
+ Linux kernel hacking 
+ ( pdf slides) by valv0 and quest ( 15 April 2003 ) [Italian] 
+
+ IDS: 
+ intrusione, controllo e contenimento nel digital warfare 
+ by Raistlin ( 22 June, 2002 ) [Italian] 
+
+ OTU: 
+ advanced man in the middle concept and code for linux 
+ by vecna ( BFi#10 , 
+ file 11 of 18 , 30 September, 2001 ) [English] 
+
+ Detecting 
+ Loadable Kernel Modules (LKM) (featuring 
+ KSTAT ) by Toby Miller ( 09 April, 2001 ) 
+ [English] 
+
+ Covert 
+ Shells (featuring 
+ 007Shell and B0CK ) 
+ by J. Christian Smith ( 12 November, 2001 ) [English]
+
+ S0ft 
+ Project Speaks to Antioffline.com by Sil@ Antioffline.com 
+ ( 15 July, 2000 ) [English] 
+
+ Informazione: 
+ libera o privata? by Tom Maddox ( 10 March, 2000 ) [Italian] 
+
+ Winamp 
+ Reversing by .+Ma+. ( BFi#7 , 
+ file 18 of 22, 25 December, 1999 ) [English]
+
+ Here are available 
+ for downloading the advisories published by s0ftpr0ject.
+
+ If you want to inform us about bugs or software problems, write to advisory@s0ftpj.org . 
+ Our members will verify what you wrote and will distribute the advisory 
+ with care.
+
+ SPJ-001-000 : 
+ (July 12, 1999) World writable root owned script in SalesBuilder 
+ ( RedHat 6.0 )
+
+ SPJ-002-000 : (July 19, 
+ 1999) Possible Denial Of Service using DNS 
+
+ SPJ-003-000 : (Apr 30, 
+ 2000) Remotely Exploitable Buffer Overflow in Sniffit 
+
+ SPJ-004-000 : (June 10, 
+ 2000) Multiple Remote CGI Vulnerabilities in MailStudio2000 
+
+ [ 
+
+ main | members | docs 
+
+ | tools | bfi 
+
+ | archive 
+
+ | links | contact 
+
+ ] 
+
+ s0ftpr0ject 
+ digital security for y2k 
+ is no (c)opyright 1997-2003 of s0ftpr0ject team
+
+ Webmaster is smaster 
+ ( PGP Key ) - Contact us at staff@s0ftpj.org 
+ (public PGP Key )

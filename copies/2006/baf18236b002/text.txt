@@ -1,0 +1,102 @@
+www.sikurezza.org - Italian Security Mailing List | Risorse / Infosecurity06 
+
+ Main 
+
+ Home 
+
+ Faq 
+
+ Liste 
+
+ Risorse 
+
+ Cerca 
+
+ Risorse : Infosecurity06 
+
+ Grazie al cortese invito dell'organizzazione, saremo presenti ad Infosecurity 2006 (8-10 Febbraio, Milano) con uno stand (Pad.17/2 stand H22) e presenteremo alcuni seminari.
+
+ Per ricevere i codici che permettono di registrarsi sul sito di Infosecurity ed ottenere un biglietto d'ingresso omaggio, inserisci il tuo indirizzo di posta elettronica:
+
+ E-mail: 
+Quantit� (max. 3): 
+
+ ATTENZIONE: 
+
+ dopo aver ricevuto i codici, dovete registrarvi sul sito di Infosecurity e stampare il biglietto che otterrete dopo la registrazione 
+
+ i biglietti omaggio valgono solamente per una giornata (a vostra scelta), non per tutti i 3 giorni
+
+ Tutti i seminari si terranno nell' areademo (Pad. 17, primo piano) dello spazio fieristico dedicato ai convegni.
+
+ Seminari
+
+ Mercoled� 8
+
+ Ore 13:30
+
+ Mi hanno rubato il laptop. Che succeder� ora ai miei dati? - Alessio Pennasilico ( mayhem )
+
+ Risultano sempre maggiori e sempre pi� riservate, anche per la legge italiana, le informazioni contenute nei nostri computer. Come possiamo tutelarci, cos� da ridurre il furto di un computer ad una mera perdita economica dell'hardware? Il mondo OpenSource mette a disposizione diversi strumenti: gpg, cryptoloop, dm-crypt, loop-AES, GBDE/svnd. Breve panoramica sui pro ed i contro di questi strumenti ed il loro funzionamento.
+
+ Ore 16:30
+
+ Il mio IDS e' meglio del tuo... o forse no ? - Stefano Zanero ( raistlin )
+
+ Cosa dobbiamo sapere, come clienti o come ricercatori, sulle metodologie di test dei sistemi di intrusion detection? Cosa si puo' dire sulle metodologie "standard" di test attuali? Cerchiamo di fare luce (o di disperdere l'aria fritta) nella nebbia di statistiche che i vendor usano per nascondere i difetti delle loro tecnologie. Inoltre, se dovessimo pianificare un test di valutazione per decidere quale tipo di tecnologia adottare nella nostra organizzazione, come possiamo integrare correttamente in esso i vari indici di prestazioni dei sistemi di IDS?
+
+ Gioved� 9
+
+ Ore 10:00
+
+ Condivisione anonima di informazioni: remailer anonimi, server di pseudonimi, Freenet, Darknet - Marco Calamari ( PWS )
+
+ In questo seminario saranno presentati i sistemi di comunicazione ad alta latenza che permettono di mantenere la privacy e/o l'anonimato di chi pubblica, detiene e consulta informazioni. I sistemi di mailing anonimo ed i sistemi di pubblicazione anonima verranno illustrati nelle linee generali di funzionamento; saranno inoltre brevemente discussi stato di sviluppo e prestazioni delle implementazioni esistenti.
+
+ Ore 13:30
+
+ La difficile arte del compromesso fra semplicit� e sicurezza in architetture complesse - Andrea Gelpi
+
+ Nel corso del seminario si affronter� il dilemma fra sicurezza e semplicit� che sono due aspetti particolarmente contrastanti in architetture complesse. Verr� mostrata la versatilit� degli strumenti Open Source in ambiente Linux. [questo intervento era originariamente previsto per Venerd� 10]
+
+ Ore 15:00
+
+ Modello di sicurezza di Windows - dalla A(CL) alla (Auth)z - Michele Cicciotti
+
+ DACL, SACL, ACE, SID, SSPI, LSA, SAM, SSP/AP... un umile tentativo di fare chiarezza sul complesso modello di sicurezza del controverso sistema operativo Microsoft. La filosofia dietro gli acronimi, filosofia contro dura realt�, i miti pi� comuni, i problemi pi� noti (e quelli meno noti), e le novit� di Windows Vista che l'ufficio marketing non pu� spiegarvi con uno screenshot
+
+ Ore 16:30
+
+ Hardening della configurazione di PHP: limitare il danno - Igor Falcomat� ( kobaiashi )
+
+ Verranno analizzate le direttive di configurazione di PHP e alcune impostazioni dell'ambiente (permessi, directory, direttive di Apache) utili a ridurre/limitare i rischi di intrusione legati a vulnerabilita' nelle applicazioni web. Si valuteranno le risposta di alcuni script vulnerabili a tentativi di attacco portati verso un ambiente configurato "by default" ed il comportamento degli stessi in presenza di un ambiente "hardenato"
+
+ Venerd� 10
+
+ Ore 10:00
+
+ Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialit� - Fabio Pietrosanti ( naif )
+
+ L'intervento illustrera l'impiego delle tecnologie di firma digitale ampiamente diffuse per finalit� di autenticazione, per la tutela della confidenzialit� su diversi mezzi di comunicazione e scambio di informazioni. Saranno evidenziate le opportunit� di impiego di tecnologie e mezzi disponibili gratuitamente per la tutela delle informazioni sia in ambito privato che aziendale. 
+
+ Ore 12:00
+
+ Solaris Hardening: alla scoperta di JASS - Christian Nicita ( quest )
+
+ JASS � molto pi� che una mera collezione di script, e l'hardening di un sistema � tutt'altro che un "tuning" volto alla sicurezza. Lo speech vuole introdurre alla comprensione della buona pratica dell'hardening nel vero senso della parola (oltre il senso comune del termine) ed alla scoperta di SUN JASS come strumento qualificato per lo scopo.
+
+ Ore 13:30
+
+ Tecnologie emergenti per la privacy e l'anonimato in rete: Tor, Privoxy, Darknet - Marco Calamari ( PWS )
+
+ In questo seminario saranno presentate alcune tecnologie di recente sviluppo per la tutela della riservatezza nella navigazione in rete, la pubblicazione anonima di documenti ed il file sharing anonimo. Particolare enfasi sar� posta sui sistemi di comunicazione anonima a bassa latenza di impiego indipendente dall'applicazione e basati su tecniche di onion routing. Verranno trattate nei dettagli i relativi problemi di installazione e configurazione. Saranno infine brevemente discusse alcune questioni di sicurezza legate all'uso di queste tecnologie. [questo intervento era originariamente previsto per Gioved� 9]
+
+ ultima modifica: February 07, 2006, at 05:08 PM di 
+
+ Saremo presenti ad Infosecurity 2006 (8-10 Febbraio, Milano) con uno stand ed alcuni seminari. Chiedi il biglietto omaggio !
+
+ Ringraziamenti: 
+Dal 26 Agosto '05 questo server � ospitato gratuitamente dal Cineca , che fornisce anche la connettivit�.
+In precedenza hardware e connettivit� sono stati forniti gratuitamente da Creative Web (dal Marzo '04) e Infosec (dal Novembre '99).
+
+ Salvo dove diversamente specificato, i contenuti di questo sito sono protetti da licenza Attribuzione-NonCommerciale-StessaLicenza 2.0

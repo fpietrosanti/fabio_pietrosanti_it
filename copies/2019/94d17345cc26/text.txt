@@ -1,0 +1,792 @@
+Current State of Pipeline 0 · Issue #2 · osservatoriosicurezza/Perimetro-Cibernetico-Italiano · GitHub 
+
+ Skip to content 
+
+ Sign up
+
+ Why GitHub?
+
+ Features → 
+
+ Code review 
+
+ Project management 
+
+ Integrations 
+
+ Actions 
+
+ Packages 
+
+ Security 
+
+ Team management 
+
+ Hosting 
+
+ Mobile 
+
+ Customer stories → 
+
+ Security → 
+
+ Team 
+
+ Enterprise 
+
+ Explore
+
+ Explore GitHub → 
+
+ Learn & contribute
+
+ Topics 
+
+ Collections 
+
+ Trending 
+
+ Learning Lab 
+
+ Open source guides 
+
+ Connect with others
+
+ Events 
+
+ Community forum 
+
+ GitHub Education 
+
+ GitHub Stars program 
+
+ Marketplace 
+
+ Pricing
+
+ Plans → 
+
+ Compare plans 
+
+ Contact Sales 
+
+ Nonprofit → 
+
+ Education → 
+
+ --> 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ No suggested jump to results 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ Sign in
+
+ Sign up
+
+ {{ message }}
+
+ osservatoriosicurezza 
+
+ / 
+
+ Perimetro-Cibernetico-Italiano 
+
+ Watch
+
+ 15
+
+ Star
+
+ 14
+
+ Fork
+
+ 1
+
+ Code 
+
+ Issues 
+ 2 
+
+ Pull requests 
+ 0 
+
+ Actions 
+
+ Projects 
+ 1 
+
+ Security 
+
+ Insights 
+
+ More 
+
+ Code
+
+ Issues
+
+ Pull requests
+
+ Actions
+
+ Projects
+
+ Security
+
+ Insights
+
+ Dismiss
+
+ Join GitHub today
+
+ GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
+
+ Sign up 
+
+ New issue
+
+ Have a question about this project? Sign up for a free GitHub account to open an issue and contact its maintainers and the community.
+
+ --> 
+ Pick a username 
+
+ Email Address 
+
+ Password 
+
+ Sign up for GitHub 
+
+ By clicking “Sign up for GitHub”, you agree to our terms of service and
+ privacy statement . We’ll occasionally send you account related emails.
+
+ Already on GitHub?
+ Sign in 
+ to your account
+
+ Jump to bottom 
+
+ Current State of Pipeline 0
+
+ #2 
+
+ Open
+
+ CarloMara opened this issue
+ Nov 15, 2019 
+· 17 comments
+
+ Open
+
+ Current State of Pipeline 0 
+ #2 
+
+ CarloMara opened this issue
+ Nov 15, 2019 
+· 17 comments
+
+ Projects 
+
+ Pipeline 0 
+
+ Comments
+
+ Copy link
+
+ Quote reply
+
+ CarloMara 
+
+ commented
+
+ Nov 15, 2019 
+
+ • 
+
+ edited by fpietrosanti 
+
+ Pipeline 0 - Research for technical definition of Italian Cyberspace
+
+Hi All,
+
+ @fpietrosanti told me in a phone conversation that other people were working on this. Can we get them ether in the @osservatoriosicurezza/coredev team or at least under this issue?
+
+ The least thing I want to do is to solve merge conflicts from the beginning, so before pushing anything we should decide how to move forward in a collaborative and distributed way.
+
+ My suggestion is as follows: as the current running idea is to use as much as possible other tools, I propose including them as git submodules. After this first round of "tool gathering" we should find the tool output's GCD and standardize on that. It wouldn't surprise me the least if we have to fork a project to add an export option to make it compatible with the other tools. We should try our best to push the modification upstream. We all know that maintaining forks is draining.
+
+ Cheers all,
+
+Carlo
+
+ CarloMara 
+
+ added this to To do 
+ in Pipeline 0 
+
+ Nov 15, 2019 
+
+ Copy link
+
+ Quote reply
+
+ Contributor
+
+ simoneonofri 
+
+ commented
+
+ Nov 16, 2019 
+
+ Hi all,
+
+ I was experimenting a bit in bash with the objective to have a simple txt/csv at the moment. I am actually focused on:
+
+ Starting from the ASN, find a way to filter to Italians
+
+ Then from the ASN identify the routes
+
+ Analyse the results an iterate on this
+
+ Main observations are:
+
+ We need to end the pipeline, analyse and find some methodologies to filter the results, then re-apply
+
+ Quick manual checks identified that the Country tag is not reliable
+
+ Looking for reverse DNS there are also interesting. In some cases there are foreign domains on the Italian ASN
+
+ Todos/Ideas:
+
+ Can be interesting to look into common ip2location databases (also free) to get some tags/point
+
+ Extrapolate/use more information from the RIPE database
+
+ Obtain ASN marked as IT from RIPE
+
+ Procedures
+
+ curl https://ftp.ripe.net/ripe/asnames/asn.txt > asn.txt
+cat asn.txt | grep ", IT$" > asn_full_it.txt
+cat asn_full_it.txt | cut -d " " -f1 > asn_ripe_it.txt 
+
+ Observations
+
+ Some Italian ASs have the EU mark (e.g. WIND)
+
+ Vatican (and probably San Marino) has been marked as IT
+
+ So it's needed something else
+
+ Obtain ASN from ipinfo marked as IT
+
+ Procedure
+
+ curl https://ipinfo.io/countries/it > ipinfo.txt
+cat ipinfo.txt | grep "/AS" | cut -d ">" -f3 | cut -d "<" -f1 | sed -e "s/AS//" > asn_ipinfo_it.txt
+
+ Observations
+
+ They filtered some EU and marked correctly as Italian
+
+ It's a third party
+
+ From AS to IPv4 CIDR
+
+ Procedure
+
+ for asn in $(cat asn_ripe_it.txt); do whois -h whois.radb.net -- '-i origin '"$asn"'' | grep route: | grep -Eo "([0-9.]+){4}/[0-9]+" | sed -e 's/^/'$asn',/' >> asn_ripe_it_routes.txt; done
+cat asn_routes.txt | cut -d “ “ -f2 > asn_ripe_it_networks.txt
+
+ Observations
+
+ Should be nice to have also IPv6 space
+
+ Copy link
+
+ Quote reply
+
+ Author
+
+ CarloMara 
+
+ commented
+
+ Nov 16, 2019 
+
+ • 
+
+ edited
+
+ Hi Simone,
+
+ on this topic @fpietrosanti told me that @rfc1036 has some magic sauce starting from bpg route tables instead of ripe data.
+
+ I have tried working with raw bgp dumps, but I couldn't achieve much. Most likely this is due to my skills(or lack thereof)
+
+ Carlo
+
+ Copy link
+
+ Quote reply
+
+ fnzv 
+
+ commented
+
+ Nov 16, 2019 
+
+ Ciao @CarloMara @fpietrosanti 
+
+Another way to get the IPs could be using Ripe RIR Geo from the APIs
+
+Example:
+
+ https://stat.ripe.net/data/country-resource-list/data.json?resource=IT&time=2019-11-15 
+
+Lists all the IPv4/IPv6 and ASN for the country IT on the day 2019-11-15 in JSON format
+
+ Copy link
+
+ Quote reply
+
+ rfc1036 
+
+ commented
+
+ Nov 16, 2019 
+
+ • 
+
+ edited
+
+ The RIPE geolocation API is worthless because the country is self-declared by the resource holders. And I am sure that a) some corporate networks and b) some customers of large multinational ISPs without their own allocations are not listed there because they use ARIN or foreign or EU (RIPE legacy pseudo-country) space.
+
+ What I would do is:
+
+ Make a list ( LIST1 ) of the ASNs of OTTs with their own multinational backbone which peer in Italy but announce networks from elsewhere: e.g. Google, Amazon, Facebook, Apple and so on. You will need to figure out later some way to find out their italian networks, if considered relevant. This cannot be automated but the list does not change much.
+
+ Make a list ( LIST2 ) of the Tier 1 ISPs ASNs ( https://en.wikipedia.org/wiki/Tier_1_network is good enough) and other large multinational ISPs or hosters (e.g. Cogent, COLT, Interoute, OVH). This cannot be automated but the list does not change much.
+
+ For each ASN in LIST2 figure out which BGP community or communities they use to tag italian routes: for most networks (they will almost never change). https://onestep.net/communities/ will help for most networks, but others may require looking at route servers and taking some educated guesses. Make LIST4 a list of these (ASN, community) tuples.
+
+ Manually get the list of italian IXPs (it will not change frequently) from https://ixpdb.euro-ix.net/en/ixpdb/ixps/?sort=country&q=IT&region=1 and take note of their IX-F IDs.
+
+ For each IX-F ID get from https://api.ixpdb.net/v1/provider/{id}/participants the JSON list of the IXP members and collect their ASNs as LIST0 .
+
+ Have a look at LIST0 and manually make a list LIST3 of the foreign networks which peer in Italy but do not have infrastructure here. There are a few from all over the world and it will not change frequently.
+
+ Subtract LIST1 , LIST2 and LIST3 from LIST0 and you will have a list of italian-only networks ( LIST5 ). Also add to this list AS3269 for Telecom Italia national: they do not peer publically but everything in it or behind it is in Italy.
+
+ Get the latest routing table dump from http://data.ris.ripe.net/rrc00/ and process it to extract the routes announced by LIST5 and by every ASN behind the members of LIST5 .
+
+ From the same dump extract the routes announced by the ASNs of LIST4 with these communities.
+
+ My https://github.com/rfc1036/zebra-dump-parser can be used to parse the routing table dumps, but there are also other tools available.
+
+ This can be automated except for the first few steps, which can be refreshed infrequently.
+
+ Copy link
+
+ Quote reply
+
+ Contributor
+
+ fpietrosanti 
+
+ commented
+
+ Nov 17, 2019 
+
+ @rfc1036 quite articulated and detailed internet network architecture analysis perspective!
+
+Just considering that it could be almost be automated in it's data download and extractions, with some web scraping or telnet automation.
+
+As that's a kind of very finely granted contextual extraction, that could also be adjusted if made as a piece of software, to other countries
+
+ There's some list to be kept up to date. But when a web resource change and a new object of interests to be evaluated is present, it could just send a poll over telegram group channel or irc channels such as ITNog, if that's classified in a way or another way, so it will goes or not in a list. This could just trigger a github commit :->
+
+That could be a way way to have a community to collaboratively help maintain it kept up to date that lists with their network infrastructures and peering contextual awareness.
+
+ Instead from your experience which are the possible pitfalls in terms of accuracy/errors of the text-based interpolation of asn/ripe (with the remarks on EU* marked issues) done by @simoneonofri ?
+
+I mean, what's likely to be missing or wrong compared to the methodology you described (that's could be possibly more precise)
+
+ I'm also wondering why those "foreign networks which peer in Italy but do not have infrastructure here" does their BGP peering?
+
+ As per "OTT multinational networks (Google, Amazon, Facebook, Apple and so on. )", i think that we have to include it by considering those relevant.
+
+The "italian entities" run often their services on those clouds (On Agenzia Italia Digitale IAAS certified companies for uses by public agencies does include Amazon and Google https://cloud.italia.it/marketplace/supplier/market/index_IaaS.html , furthermore Amazon announced will open a datacenter in Milan by 2020.
+
+ Copy link
+
+ Quote reply
+
+ rfc1036 
+
+ commented
+
+ Nov 17, 2019 
+
+ I have explained in the second sentence what I expect that will be missing by relying on the the self-reported country attribute in inetnum objects.
+
+ Some foreign networks just get a circuit to Italy to peer locally, just like some italian networks get circuits to other countries, but do not have any local infrastructure except maybe a router.
+
+ I do not think that content networks like Facebook and Apple document in any way which networks are local to Italy (e.g. Facebook's 31.13.86.36 is obviously in Milano), so good luck in finding them.
+
+ WRT cloud providers, some do actually document which networks are where, e.g. for Amazon check https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html . I am not aware of any other global cloud provider having or planning to open an Italian region.
+
+ The problem of italian entities hosting services on servers located in other countries is more general than cloud providers (e.g. there are random hosters renting a server from Hetzner or OVH) and cannot be solved with an IP-based approach.
+
+ Copy link
+
+ Quote reply
+
+ gbonfiglio 
+
+ commented
+
+ Nov 17, 2019 
+
+ • 
+
+ edited
+
+ Thumbs down to the analysis of RIPE objects.
+
+ By looking for IT ASNs, you are pretty much searching for italian entities who requested an ASN, but:
+
+ There are italian entities which have resources around the world, those shall be excluded. How?
+
+ There are italian entities which do not have an AS and have their IP space behind a Tier1/Tier2, most of which aren't registered in Italy - those will never show up in the above analysis
+
+ There are foreign cloud providers (AWS, Google) and CDNs which have some sort of presence in Italy - you want them, but can't get with the above method
+
+ GeoIP might seem unreliable (and it is, mainly during transition of allocations between different entities, which are increasing due to the IP exhaustion) but having it misconfigured at a country level would have an impact on users (CDN routing, Access to resources locked to a specific country, streaming issues) and this leads me to think networks have an interest in keeping it up to date enough.
+
+ I took some sample IPs from http://ec2-reachability.amazonaws.com/ and they are correctly geolocalised.
+
+ I've also found CDNs geo details to be unreliable, even where anycast is not involved, but I'm not sure they should be in scope for this analysis.
+
+ Copy link
+
+ Quote reply
+
+ rfc1036 
+
+ commented
+
+ Nov 17, 2019 
+
+ I did not suggest to look for "italian ASNs" but for "ASNs with a network presence in Italy"
+
+ they will probably not be announced from Italy. If they are, then BGP communities are a possible method
+
+ wrong: see LIST4 
+
+ CDNs, yes. Cloud infrastructure for customers, no. All this was discussed in my latest comment
+
+ Commercial GeoIP would be highly reliable for access networks because it is used by streaming providers, etc..., I expect much less for servers.
+
+ Copy link
+
+ Quote reply
+
+ gbonfiglio 
+
+ commented
+
+ Nov 17, 2019 
+
+ I took a few samples of IPs for servers hosted in Italy and they are all correctly reported as such by GeoIP ( https://www.maxmind.com/en/geoip-demo ).
+
+ Not sure about a method to check the other way round, but I don't expect many outliers except maybe a few VPN providers that want to pretend to be in Italy.
+
+ Copy link
+
+ Quote reply
+
+ Antonio-Prado 
+
+ commented
+
+ Nov 17, 2019 
+
+ Please, keep an eye on definitions. What the law describes is the "Italian cyber perimeter" meaning by that:
+
+public administrations, national, public and private bodies, and operators - having an office in the national territory - whose networks and information and computer systems:
+
+ are necessary for the exercise of an essential function of the State;
+
+ are necessary for the performance of an essential service for the maintenance of civil, social or economic activities fundamental to the interests of the Country;
+
+ whose malfunction, interruption - even partial - or improper use can prejudice national security.
+
+ Therefore, the Italian Prime Minister will define a list of all the Italian bodies belonging to the Italian cyber perimeter worth the national strategic protection.
+
+ https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit?usp=sharing 
+
+ Copy link
+
+ Quote reply
+
+ gbonfiglio 
+
+ commented
+
+ Nov 18, 2019 
+
+ So, next steps:
+
+ wait for the govt to publish this list
+
+ start from scratch as we'll most likely be given entity names and will have to translate them in IP addresses
+
+ Am I missing something, or based on latest findings from @Antonio-Prado anything done until now turned to be useless?
+
+ Copy link
+
+ Quote reply
+
+ Contributor
+
+ fpietrosanti 
+
+ commented
+
+ Nov 18, 2019 
+
+ Naaa, we are not just doing lists of various entities, the reference is for
+the name to be institutionally sounding :-)
+
+Sent from mobile
+
+On 18 Nov 2019, at 01:59, Giorgio Bonfiglio <notifications@github.com> wrote:
+
+So, next steps:
+
+ - wait for the govt to publish this list
+ - start from scratch as we'll most likely be given entity names and will
+ have to translate them in IP addresses
+
+Am I missing something, or based on latest findings from @Antonio-Prado 
+< https://github.com/Antonio-Prado > anything done until now turned to be
+useless?
+
+—
+You are receiving this because you were mentioned.
+Reply to this email directly, view it on GitHub
+< #2 >,
+or unsubscribe
+< https://github.com/notifications/unsubscribe-auth/AAF4CO7S7CP2L6VAZI3QMG3QUHSHNANCNFSM4JNZNQBA >
+.
+
+ Copy link
+
+ Quote reply
+
+ Author
+
+ CarloMara 
+
+ commented
+
+ Nov 18, 2019 
+
+ @Antonio-Prado 
+
+While generally agreeing with you that we need a better specification for pipeline0's targets, I believe that your suggestion is far to restrictive. This project, and more generally the Osservatorio, should try to drive policy, not merely follow it, even if it's harder.
+
+ @gbonfiglio @simoneonofri 
+
+In the name of science, why not trying both methods you suggested? It would be nice to compare the two and see if there are any meaningful differences. I will try to work on Marco's ideas so that hopefully we can make an educated guess on how to move forward.
+
+ Carlo
+
+ Copy link
+
+ Quote reply
+
+ Antonio-Prado 
+
+ commented
+
+ Nov 18, 2019 
+
+ @CarloMara , just to be clear: that's not my suggestion.
+
+that's how the Italian law is currently ruling the matter, willy-nilly.
+
+ Copy link
+
+ Quote reply
+
+ Author
+
+ CarloMara 
+
+ commented
+
+ Nov 18, 2019 
+
+ • 
+
+ edited
+
+ Absolutely, but in this context it doesn't matter. Perimeter as defined by law is reductive because we're seeking a broader analysis.
+
+ See the telegram chat for more details and discussion.
+
+ Carlo
+
+ Copy link
+
+ Quote reply
+
+ Antonio-Prado 
+
+ commented
+
+ Nov 18, 2019 
+
+ @gbonfiglio 
+
+ start from scratch as we'll most likely be given entity names and will have to translate them in IP addresses
+
+ If I wanted to follow what the law says, I would include a lot more than "IP addresses":
+
+ una rete di comunicazione elettronica riconducibile a sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse (a commutazione di circuito e a commutazione di pacchetto, compresa Internet), le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato;
+
+qualsiasi dispositivo o gruppo di dispositivi interconnessi o collegati, uno o più dei quali eseguono, in base ad un programma, un trattamento automatico di dati digitali;
+
+i dati digitali conservati, trattati, estratti o trasmessi per mezzo di reti o dispositivi definiti nei due punti precedenti, per il loro funzionamento, uso, protezione e manutenzione.
+
+ That's really a mess, actually, but the lawmaker is aware of that as well, I guess. This is why the proposed solution is a list, otherwise, he would have been in trouble with definitions (just like ourselves now).
+
+ Copy link
+
+ Quote reply
+
+ Antonio-Prado 
+
+ commented
+
+ Nov 18, 2019 
+
+ @CarloMara 
+
+ but in this context this doesn't matter
+
+ Well, I wouldn't be so hasty here. Bear in mind that there is already literature about cyberspace where definitions have been shaped.
+
+ Look at what Research Dept. of the Italian Parliament has recently (Sept. 2019) produced:
+
+ Lo “spazio cibernetico” rappresenta un nuovo dominio operativo di natura artificiale, trasversale agli altri quattro domini tradizionali (dominio terrestre, dominio aereo, dominio marittimo, dominio spaziale), nel quale gli esseri umani, e nel prossimo futuro verosimilmente anche le intelligenze artificiali, possono agire e interagire a distanza.
+
+ Un ecosistema complesso nel cui ambito gli esperti della materia sono soliti distinguere i seguenti tre livelli essenziali: : il livello fisico infrastrutturale, rappresentato dalle macchine (le architetture delle reti, i computer, i router...); il livello logico informativo rappresentato dal volume dei dati gestiti dalle macchine (database, file, ma anche software gestiti dalle macchine); il livello sociale cognitivo, ovvero l’insieme delle relazioni umane e delle caratteristiche socio-cognitive che possono costituire le identità virtuali (l’indirizzo e-mail, il profilo nei social network, gli indirizzi IP delle macchine).
+
+ Da un punto di vista ambientale lo spazio cibernetico si presenta come un ambiente virtuale, privo di confini
+
+fisici nel senso tradizionale del termine, uno
+
+spazio indefinito nel cui ambito non esiste
+
+divisione tra pubblico e privato, tra la sfera militare e civile.
+
+ So, basically I suggest taking into account what has been studied, defined and produced; therefore starting from there.
+
+ --> 
+
+ Sign up for free 
+ to join this conversation on GitHub .
+ Already have an account?
+ Sign in to comment 
+
+ --> 
+
+ Assignees
+
+ No one assigned
+
+ Labels
+
+ None yet
+
+ --> 
+
+ Projects
+
+ Pipeline 0 
+
+ To do
+
+ --> 
+
+ Milestone
+
+ No milestone
+
+ --> 
+
+ Linked pull requests
+
+ Successfully merging a pull request may close this issue.
+
+ None yet
+
+ 7 participants
+
+ © 2020 GitHub, Inc.
+
+ Terms 
+
+ Privacy 
+
+ Security 
+
+ Status 
+
+ Help 
+
+ Contact GitHub 
+
+ Pricing 
+
+ API 
+
+ Training 
+
+ Blog 
+
+ About 
+
+ You can’t perform that action at this time.
+
+ You signed in with another tab or window. Reload to refresh your session. 
+ You signed out in another tab or window. Reload to refresh your session.

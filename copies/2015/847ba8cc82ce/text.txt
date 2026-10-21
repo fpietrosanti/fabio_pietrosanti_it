@@ -1,0 +1,460 @@
+ESC15-Programma - Enter the ESC 
+
+ ESC15-Programma 
+
+ From Enter the ESC
+
+ Jump to navigation Jump to search 
+
+ 2-6 settembre 2015 => Forte Bazzera (VE)
+
+ HOME | CAMPEGGIO | PROGRAMMA | TALKS | LABS | VILLES | CAPS | W00T | ARRIVARE | FAQ | MATERIALI 
+
+ HOME | CAMPEGGIO | PROGRAMMA | TALKS | CAPS | LABS | VILLES | W00T | ARRIVARE | FAQ | MATERIALI 
+
+ Mercoledi' 2 settembre 
+
+ 11:00 - 16:00 : Apertura / arrivi 
+
+ 16:20 - 20:00 : LABS {Soldering, 3D Printing} 
+
+ 18:00 - 19:00 : Aperitivo di benvenuto 
+
+ 19:00 - 21:00 : Cena 
+
+ 21:00 - 00:00 : CAPS 
+
+ 00:00 - 04:00 : Sleeping Hackers & Overnight Fun 
+
+ Giovedi' 3 settembre 
+
+ 09:00 - 11:00 : Colazione 
+
+ 11:00 - 19:00 : CAPS 
+
+ 15:00 - 19:00 : LABS {Arduino, Premoboard, 3D Printing, Backup} 
+
+ 19:00 - 21:00 : Cena 
+
+ 21:00 - 00:00 : TALKS 
+
+ Codice
+
+ Ore
+
+ Titolo
+
+ Relatore
+
+ --
+
+ 20:30 - 20:50
+
+ Bitcoins
+
+ 1530
+
+ 21:00 - 21:20
+
+ DIY legge privacy e sicurezza - cose da sapere
+
+ Nora M.
+
+ 1531
+
+ 21:30 - 21:50
+
+ Securcube bts tracker correlazione tra tabulati telefonici, estrazioni forensi e copertura celle
+
+ Nicola Chemello
+
+ 1504
+
+ 22:00 - 22:20
+
+ youpwn
+
+ b3rito/epto
+
+ 1506
+
+ 22:30 - 22:50
+
+ Non ho nulla da nascondere
+
+ mes3hacklab (klez & m)
+
+ 1508
+
+ 23:00 - 23:30
+
+ Progetto Anopticon - Tracciamento e controllo
+
+ Epto
+
+ 1509
+
+ 23:30 - 00:00
+
+ Autovaneggiatore elettrico
+
+ Epto
+
+ 00:00 - 04:00 : Sleeping Hackers & Overnight Fun 
+
+ Venerdi' 4 settembre 
+
+ 09:00 - 11:00 : Colazione 
+
+ 11:00 - 20:00 : CAPS 
+
+ 14:00 - 18:00 : LABS {Autocostruzione PCB, Premoboard, 3D Printing} 
+
+ 15:00 - 20:00 : TALKS 
+
+ Codice
+
+ Ore
+
+ Titolo
+
+ Relatore
+
+ 1517
+
+ 15:00 - 15:20
+
+ Mempo Project - Hardened Privacy for paranoic people
+
+ Ryuw
+
+ 1526
+
+ 15:30 - 15:50
+
+ The ZSH completion system
+
+ g5pw
+
+ 1527
+
+ 16:00 - 16:20
+
+ VIM: the standard editor
+
+ g5pw
+
+ 1501
+
+ 16:30 - 16:50
+
+ CEPH, Il filesystem infinito
+
+ fabioFVZ
+
+ 1507
+
+ 17:00 - 17:20
+
+ HTPcap - web application analysis tool
+
+ Filippo Cavallarin
+
+ 1516
+
+ 18:30 - 18:50
+
+ PREMOBOX: dall'idea al prodotto finito
+
+ Roberto P
+
+ 1529
+
+ 19:00 - 19:20
+
+ smarzlogio, un orologio da polso binario open source
+
+ Emanuele S
+
+ 1525
+
+ 19:30 - 20:00
+
+ Car hacking basics
+
+ Mastro Gippo
+
+ 20:00 - 22:00 : Cena 
+
+ 22:00 - 00:00 : TALKS 
+
+ Codice
+
+ Ore
+
+ Titolo
+
+ Relatore
+
+ 1514
+
+ 22:00 - 22:20
+
+ Decentralization - bring back the indie
+
+ mes3hacklab
+
+ 1513
+
+ 22:30 - 23:00
+
+ XSS collection
+
+ mes3hacklab
+
+ GT
+
+ 23:00 - 00:00
+
+ SUPER-SURPRISE-TALK
+
+ ?
+
+ 00:00 - 01:00 : Presentazione e Apertura CTF 
+
+ 01:00 - 04:00 : Sleeping Hackers & Overnight Fun 
+
+ Sabato 5 settembre 
+
+ 09:00 - 11:00 : Colazione 
+
+ 11:00 - 20:00 : CAPS 
+
+ 11:00 - 18:00 : LABS {OpenHardware, Car Hacking, Premoboard, Lockpicking, 3D Printing} 
+
+ 11:00 - 20:00 : TALKS 
+
+ Codice
+
+ Ore
+
+ Titolo
+
+ Relatore
+
+ 1521
+
+ 11:00 - 11:20
+
+ Bacula, backup per reti di server e client
+
+ Davide G.
+
+ 1515
+
+ 11:30 - 11:50
+
+ Software Libero su Hardware Libero
+
+ Valhalla
+
+ 1519
+
+ 12:00 - 12:50
+
+ Collegamenti EME - Earth->Moon->Earth
+
+ Fabio IW3FVZ
+
+ 1518
+
+ 13:30 - 13:50
+
+ Zanshin Tech: la prima arte marziale digitale
+
+ Rebus feat.CoD & GVNN
+
+ 1512
+
+ 14:00 - 14:50
+
+ Hacking dei passcode su dispositivi mobili
+
+ Rebus
+
+ 1520
+
+ 15:00 - 15:50
+
+ From 0xd34db33f to shell
+
+ Swappage
+
+ 1502
+
+ 16:00 - 16.50
+
+ PHP web backdoor obfuscation
+
+ Guly
+
+ 1505
+
+ 18:00 - 18:50
+
+ Image Forensics with Ghiro
+
+ Jekil & Burlone
+
+ 1503
+
+ 19:00 - 20:00
+
+ Sicurezza di BGP
+
+ Marco D'Itri
+
+ 20:00 - 22:00 : Cena 
+
+ 22:00 - 00:00 : TALKS 
+
+ Codice
+
+ Ore
+
+ Titolo
+
+ Relatore
+
+ 15xx
+
+ 22:00 - 22:50
+
+ Hermes Overview 2015
+
+ Naif
+
+ 1523
+
+ 23:00 - 23:20
+
+ OnionMail
+
+ Epto
+
+ 1524
+
+ 23:30 - 23:50
+
+ Messaggio Fantasma
+
+ Epto
+
+ 00:00 - 01:00 : Conclusione e Premiazione CTF 
+
+ 01:00 - 04:00 : Hacker Jeopardy & Overnight Fun 
+
+ Domenica 6 settembre 
+
+ 09:00 - 10:00 : Colazione 
+
+ 10:00 - 12:00 : Assemblea dei Soci ItalianGrappa 
+
+ 12:00 - 13:00 : Asta finale + Foto di Gruppo + Keysigning Party + Chiusura 
+
+ 13:00 - 15:00 : Pranzo Finale 
+
+ 15:00 - 17:00 : Partenze 
+
+ Retrieved from " https://endsummercamp.org/index.php?title=ESC15-Programma&oldid=11366 "
+
+ Navigation menu
+
+ Page actions
+
+ Page 
+ Discussion 
+ Read 
+ View source 
+ History 
+
+ Page actions
+
+ Page 
+ Discussion 
+ More 
+ Tools 
+
+ Personal tools
+
+ Log in 
+
+ custom-menu
+
+ Stai visitando l'archivio storico dell'ESC
+
+ ˪ VISITA IL SITO PRINCIPALE! 
+
+ ˪ 2005 
+
+ ˪ 2006 
+
+ ˪ 2007 
+
+ ˪ 2008 
+
+ ˪ 2009 
+
+ ˪ 2010 
+
+ ˪ 2011 
+
+ ˪ 2012 
+
+ ˪ 2013 
+
+ ˪ 2014 
+
+ ˪ 2015 
+
+ ˪ 2016 
+
+ ˪ 2017 
+
+ ˪ 2018 
+
+ ˪ 2019 
+
+ ˪ 2020 
+
+ ˪ 2021 
+
+ ˪ 2022 
+
+ ˪ 2023 
+
+ ˪ 2024 
+
+ Search 
+
+ Navigation
+
+ Main Page 
+ Recent changes 
+ Help 
+
+ Tools
+
+ What links here 
+ Related changes 
+ Special pages 
+ Printable version 
+ Permanent link 
+ Page information 
+
+ This page was last edited on 5 November 2015, at 21:00.
+ Content is available under Attribution-ShareAlike 3.0 Unported unless otherwise noted.
+
+ Privacy policy 
+ About Enter the ESC 
+ Disclaimers

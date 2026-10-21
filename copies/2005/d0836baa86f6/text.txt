@@ -1,0 +1,56 @@
+Fabio Pietrosanti ~ Securing the information for fun and profit 
+
+ Fabio Pietrosanti 
+
+ Language:
+ Italiano 
+ English 
+
+ Indice 
+
+ Competenze ed Esperienze 
+
+ Servizi Professionali 
+
+ Pubblicazioni e Convegni 
+
+ Link di interesse 
+
+ Referenze 
+
+ Contatti 
+
+ Le reti anonime sono affascinanti.
+
+Consentono lo scambio di informazioni in modo completamente anonimo per entrambe parti di una comunicazione.
+Le comunicazioni non sono intercettabili e non è tecnicamente possibile risalire al nodo tramite cui un dato è stato inserito o a cui si ha avuto accesso.
+
+I due principali network di anonimizzazione sono FreeNET ed Entropy .
+
+Io mantengo due nodi a supporto di tali reti che tengono occupato un pentium 4 a 1.7ghz con 512mb di ram gran parte del tempo.
+
+L'accesso alle reti anonime avviene principalmente tramite web browser sul proprio "proxy" locale, ovvero un server web installato ed accessibile solo al proprio computer che comunica con il resto della rete anonima.
+
+Alle volte le prestazioni di un nuovo nodo non sono accettabili se non dopo qualche giorno di utilizzo e l'installazione e configurazione non è per tutti facile.
+
+Per questo fornisco accesso ai miei proxy server FreeNET ed Entropy su un canale protetto SSL e autenticato con login e password.
+
+Vi domanderete, perchè non metto a disposizione i proxy server di accesso a tutti? 
+
+Per vari motivi:
+
+1) Sulle reti anonime sono presenti contenuti eticamente discutibili e per persone ignoranti questi contenuti potrebbero apparire come se fossero manutenuti da me.
+
+Noi sappiamo che i contenuti di FreeNET ed Entropy sono all'interno delle rispettive reti.
+
+2) Preferisco che le persone realmente interessate ne possano fare uso in modo efficiente, quindi vorrei evitare di avre migliaia di client collegati e tutti di una lentezza inaccettabile.
+
+Quindi, se vuoi accedere alle reti anonime FreeNET o Entroy mandami una email richiedendomi login e password.
+
+Non è vietato dare ad amici e altre persone interessate la tua password, tuttavia è importante non inviarla in forum pubblici, siti web o mailing list al fine di non sovraccaricare inutilmente il sistema.
+
+Se hai già username e password accedi cliccando su FreeNET o Entropy .
+
+Se non hai ancora installato la chiave pubblica della certification authority ITAPAC SA clicca Qui .
+
+Se non hai ancora username e password ma vuoi conoscere le reti anonime e i suoi contenuti inviami una email con subject "Richiesta account Rete Entropy|FreeNET" .

@@ -1,0 +1,103 @@
+TorSNIP Hidden Service Proxy with End-to-End Security 
+
+ Hyppää sisältöön 
+
+ Näytä/piilota sivun navigointi 
+
+ Suomeksi 
+
+ In English 
+
+ Trepo 
+
+ Suomeksi 
+
+ In English 
+
+ Kirjaudu 
+
+ Näytä/piilota sivun navigointi 
+
+ Näytä viite  
+
+ Etusivu 
+
+ Trepo 
+
+ Opinnäytteet - ylempi korkeakoulututkinto 
+
+ Näytä viite 
+
+ Etusivu 
+
+ Trepo 
+
+ Opinnäytteet - ylempi korkeakoulututkinto 
+
+ Näytä viite
+
+ Hae Treposta 
+
+ Tämä kokoelma 
+
+ JavaScript is disabled for your browser. Some features of this site may not work without it.
+
+ TorSNIP Hidden Service Proxy with End-to-End Security
+
+ Kiyani, Shoaib (2017)
+
+ Tweet 
+
+ Avaa tiedosto
+
+ Kiyani.pdf (3.129Mt) 
+
+ Lataukset:  
+
+ Kiyani, Shoaib
+
+ 2017
+
+Information Technology
+Tieto- ja sähkötekniikan tiedekunta – Faculty of Computing and Electrical Engineering
+
+ This publication is copyrighted. You may download, display and print it for Your own personal use. Commercial use is prohibited.
+
+ Hyväksymispäivämäärä
+2017-12-07 
+ Näytä kaikki kuvailutiedot 
+
+ Julkaisun pysyvä osoite on 
+
+ http://urn.fi/URN:NBN:fi:tty-201711232247 
+
+ Tiivistelmä
+
+ The onion router (Tor) is a software that provides an opportunity to access the blocked content over the Internet. It also provides anonymity to its users with the help of a protocol called Hidden Service (HS) protocol. It provides the ability to the users to conduct confidential communication without the possibility of getting trace back. It allows the operators to publish anonymous content without compromising their anonymity. 
+The ‘.onion’ address can only be accessed using Tor browser. To access the HS with a regular Internet browser, for example, Google Chrome, Firefox etc., a service called Tor2web is used. It is a proxy server, which receives the user’s request and forwards it to the targeted HS. The main issue identified in this service is that the service is not end-to-end secure and is prone to various attacks including content injection and content modification.
+One of the possible solutions to this problem is to make an HTTPS connection directly to the onion site, rather than decrypting the packet at the intermediate node. This could make the communication secure from the user’s browser until termination at the onion site i.e. makes it end-to-end secure. This is achievable with the deployment of TLS’s Server Name Indication (SNI), which identifies the server name in the initial request.
+The idea is to register a domain name and add an ‘A’ and ‘AAAA’ records and get a valid certificate from the certificate authority. Then create a hidden service and obtain its onion address. Map an onion:domain address and obtain a valid certificate for it. Modify the SNI script file according to the requirements and update the ‘Table’ field in the script. Finally, choose a virtual port and delegate the onion service name and all subsequent packets to the targeted hidden service.
+
+ Kokoelmat
+
+ Opinnäytteet - ylempi korkeakoulututkinto [32942]
+
+ Kalevantie 5
+PL 617
+33014 Tampereen yliopisto
+
+ oa[@]tuni.fi | Yhteydenotto | Tietosuoja | Saavutettavuusseloste 
+
+ Selaa kokoelmaa
+
+ Tekijät Nimekkeet Tiedekunta (2019 -) Tiedekunta (- 2018) Tutkinto-ohjelmat ja opintosuunnat Avainsanat Julkaisuajat Kokoelmat 
+
+ Omat tiedot
+
+ Kirjaudu sisään Rekisteröidy 
+
+ Kalevantie 5
+PL 617
+33014 Tampereen yliopisto
+
+ oa[@]tuni.fi | Yhteydenotto | Tietosuoja | Saavutettavuusseloste

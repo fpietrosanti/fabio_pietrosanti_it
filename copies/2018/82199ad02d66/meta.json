@@ -1,0 +1,11 @@
+{
+ "source_url": "https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180831-2024.mp3",
+ "fetched_url": "https://podcast-radio24.ilsole24ore.com:443/radio24_audio/2018/180831-2024.mp3?listeningSessionID=0CD_382_267__abafaee5ca10ed9825af093b7a1d399a09a30af4",
+ "method": "live",
+ "capture": null,
+ "content_type": "audio/mpeg",
+ "bytes": 50879651,
+ "sha256": "1fb6d44c28ce5a656eb34693e50c7c0ed00ba4ace7a3bb985e13c6a167cfe31a",
+ "name_found": false,
+ "fetched_at": "2026-09-25T12:18:45+00:00"
+}

@@ -1,0 +1,1508 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:00] Buongiorno a tutti, grazie per essere presenti presto, domenica a mattina,
+[00:05] l'ultimo giorno di International Journalism Festival.
+[00:09] Qui oggi si parlerà di piattaforme di whistleblowing realizzate con un software
+[00:14] che si chiama GlobalX, il cui responsabile Fabio Pietrosanti qui alla mia destra.
+[00:22] C'è anche Davide Dal Monte di Transparency International Italia,
+[00:27] che parlerà di come la sua organizzazione utilizza questo software
+[00:32] in funzione di facilitare e sulle citare il whistleblowing digitale.
+[00:36] Io invece sono Filippi DiSalvo, sono ricercatore dell'Università della Svizzera Italiana,
+[00:41] dove faccio ricerca sul whistleblowing digitale,
+[00:44] il modo in cui viene utilizzato principalmente nel giornalismo.
+[00:48] Lavoro per un progetto che si chiama Observatore europeo di giornalismo
+[00:53] e collaboro come giornalista per Wild.
+[00:56] Io farò un'introduzione su perché, per quale ragione questa tecnologia,
+[01:02] questi strumenti sono importanti.
+[01:07] Questo è uno screenshot del progetto per cui lavoro io,
+[01:10] trovate anche sotto il link,
+[01:11] pubblichiamo notizie sulla ricerca nell'ambito di media e del giornalismo
+[01:16] e notizie attinenti anche alle cose di cui parliamo qui oggi.
+[01:20] Finito la parte istituzionale e promozionale del nostro talk.
+[01:27] Qui, all'International Journallies Festival,
+[01:29] si è parlato tanto di whistleblowing, di sicurezza digitale,
+[01:33] di giornalismo investigativo, di strumenti che li facilitano.
+[01:36] Abbiamo ovviamente avuto come ospite via Google Hangout,
+[01:43] Edward Snowden, che ha parlato di sorveglianza digitale
+[01:46] e il ruolo del giornalismo e dell'attivismo nel combattere.
+[01:50] L'ha parlato anche di WikiLeaks, di Chelsea Manning e tutti questi temi
+[01:55] sono in qualche modo connessi e molto urgenti.
+[02:00] Due parole sul whistleblowing, una parola che non ha una traduzione italiana efficace.
+[02:08] Sostanzialmente si tratta dell'esposizione da parte di qualcuno
+[02:10] che sta all'interno di una organizzazione di cose illegali,
+[02:15] cose che non funzionano bene, reati, corruzione e quant'altro.
+[02:21] Chiaramente dall'interno di un'organizzazione che magari tiene segrete,
+[02:24] queste cose, l'informazione, i dati, le prove devono essere portate fuori.
+[02:29] Portate fuori a organi competenti, autorità, magistratura,
+[02:34] organizzazioni per la trasparenza oppure i media.
+[02:39] Il fine è quello di simulare il dibattito,
+[02:43] portare alla luce quanto sta avverendo e di conseguenza
+[02:48] occorrono degli strumenti che facilitino in qualche modo
+[02:52] e rendono questa pratica sicura.
+[02:56] E chiaramente il caso più urgente, più importante, più grande di whistleblowing recente
+[03:02] è chiaramente quello di Edward Snowden e sul data gate
+[03:07] e la sorveglianza dell' NSA, fatto appunto tramite dei giornalisti.
+[03:11] Una curiosità sul caso è che Edward Snowden cerca di contattare Glenn Greenwald
+[03:16] alla fine del 2012 e per sei mesi non riescono a mettersi in contatto
+[03:21] perché Snowden è una persona molto esperta,
+[03:23] molto attenta alle tematiche di security, di criptografia
+[03:27] e la sa usare potentemente.
+[03:30] Invece Greenwald, paradossalmente, è totalmente all'oscuro.
+[03:33] Edward Snowden chiaramente vuole proteggersi
+[03:37] e non inizia a parlare con Glenn Greenwald fino a quando Greenwald non decide che è A.
+[03:43] Se non installo PgP o altri software di security,
+[03:47] non saprò mai cosa questa persona da dirmi e non vincerò un premio Pulitzer.
+[03:52] Questo per dire che security, protezione delle fonti,
+[03:58] tutte queste tematiche sono fondamentali per il giornalismo contemporaneo
+[04:04] e per altri settori connessi.
+[04:06] Perché lo sono?
+[04:07] Perché il data gate più di qualsiasi altra avvenimento recente
+[04:12] ha portato in superficie quanto sia esteso il problema della sorveglianza,
+[04:17] dell'imbasione della privacy, della protezione dei dati personali
+[04:22] e temi connessi che riguardano anche strettamente il giornalismo.
+[04:26] Ci citò solamente due rivelazioni fatte da Snowden in questo senso.
+[04:29] Nel 2008, GCHQ e i servizi gubitannici hanno messo in un grande archivio
+[04:34] le mail di alcuni giornalisti di grandi testati internazionali,
+[04:40] come il Gardner, l'Associete Press e quant'altro.
+[04:43] E un altro programma di sorveglianza, invece, XK Score,
+[04:46] veniva proprio indirizzato verso tutte quelle persone che utilizzavano Tor,
+[04:50] che è un browser di navigazione anonima,
+[04:53] e il semplice fare ricerche su Tor trasformavate in un target per l'NSA.
+[04:58] Ora, è probabilmente troppo grande parlare dell'NSA
+[05:03] come una minaccia immediata sulla maggior parte dei giornalisti,
+[05:07] ma esempi simili ci sono anche in casi più ristretti.
+[05:10] Il Regno Unito ha messo sorveglianza a tanti giornalisti
+[05:13] abusando di una legge anti-terrorismo in tempi recenti
+[05:18] e la National Union of Journalists ha denunciato il fatto
+[05:20] che sei giornalisti erano target di sorveglianza costante per lungo tempo.
+[05:27] Nel 2012 si era già scoperto che le linee telefoniche della Associete Press
+[05:31] erano state echerate e messe sotto sorveglianza
+[05:35] dal Dipartimento di Giustizio Americano.
+[05:36] Questo per dire che non c'è solo l'NSA rappresentare una minaccia.
+[05:40] Anzi ce ne sono altre più stringenti.
+[05:45] Il caso limite è forse quello di James Risen,
+[05:48] un giornalista del New York Times che è stato portato in tribunale
+[05:51] e quasi costretto a rivelare il nome di una sua fonte.
+[05:55] Questo per dire che la protezione delle fonti è per il giornalismo
+[05:59] qualcosa di fondamentale e qui parleremo di come farlo.
+[06:03] Accednavo prima all'NSA, al datagate e quant'altro.
+[06:07] Ayeri qui, Giliang York dell'Electronic Frontier Foundation
+[06:11] ha parlato di threat modeling,
+[06:12] ovvero quando si tratta di security, di protezione delle fonti,
+[06:16] di strumenti, di crittografia e quant'altro,
+[06:18] ognuno di noi dovrebbe avere in mente
+[06:20] qual'è la minaccia effettiva e più importante sulle proprie attività.
+[06:25] È un consiglio che vi do molto pratico quello di visitare
+[06:29] il sito dell'Electronic Frontier Foundation
+[06:31] che ha proprio questo schema di threat modeling
+[06:34] che si adatta alle necessità di chiunque,
+[06:37] perché l'NSA ha la sorveglianza riguarda assolutamente tutti noi,
+[06:41] ma ci sono, come dicevo prima, anche minacce più stringenti.
+[06:45] E questo modello ideato dall'Electronic Frontier Foundation
+[06:50] è esattamente quello che vi aiuterà a capire
+[06:53] quali strumenti vi sono più utili
+[06:56] e quali dovrete iniziare a utilizzare per primi.
+[07:01] With the blowing, protezione delle fonti.
+[07:03] Quali sono i problemi connessi
+[07:06] e in che modo GlobalX può aiutarvi a superarli?
+[07:11] Come dicevo prima, la necessità etica fondamentale
+[07:14] per il giornalista di difendere l'identità delle poppe fonti,
+[07:19] quindi gestire i rapporti, le comunicazioni con queste persone
+[07:24] in un modo sicuro ed efficace, anche online.
+[07:27] E ovviamente, anche senza dover necessariamente proteggerli
+[07:32] da una minaccia immediata,
+[07:34] c'è la necessità di un grado di confidenzialità
+[07:36] in certi casi,
+[07:39] qualcuno che non vuole esporsi eccessivamente,
+[07:42] qualcuno che ha paura di esporsi necessariamente,
+[07:44] deve essere chiaramente trattato dal giornalista nel modo migliore.
+[07:49] E ci sono poi chiaramente dall'altro lato,
+[07:51] tutti i rischi cui il with the blowing va incontro,
+[07:54] qualora venisse risposto, venisse rivelata l'identità,
+[07:57] che vanno chiaramente la possibilità di perdere il lavoro
+[08:00] o a minaccia più gravi, come il carcere se non addirittura la morte.
+[08:04] E ci sono alcuni dati interessanti recenti,
+[08:08] pubblicati dal Pure Research Center,
+[08:10] che è un centro di ricerca americano
+[08:12] tra i più prestigiosi in questo ambito,
+[08:16] che sulla scia di Snowden ha intervistato
+[08:18] un centinaio e più di giornalisti investigativi americani.
+[08:22] I dati, quindi, hanno a che vedere principalmente
+[08:24] con gli Stati Uniti, ma penso sia d'attino bene,
+[08:27] anche ad altri contesti.
+[08:30] E dopo le rivelazioni di Snowden,
+[08:33] il 64% dei giornalisti teme o addirittura è convinto
+[08:37] che le vope comunicazioni siano state messe sotto sorveglianza,
+[08:41] ma solo il 29% di questi ha cambiato le sue abitudini
+[08:46] e, nel senso di, ha iniziato a utilizzare strumenti differenti,
+[08:51] il 49% l'ho fatto per in modo in cui archivia i documenti,
+[08:55] ma i numeri più interessanti sono quelli che dicono
+[08:57] che 70% di queste persone non si fida del service provider
+[09:02] quando si tratta di proteggere dati e la sicurezza delle comunicazioni,
+[09:06] ma i numeri più preoccupanti sono che solo il 21%
+[09:10] delle redazioni interpellate ha attuato una polisi di
+[09:14] utilizziamo strumenti migliori, il 36% non lo sa,
+[09:17] il 34% non l'ho fatto, scusate, il 42% non lo sa,
+[09:21] quindi non sa nemmeno se effettivamente hanno strumenti migliori
+[09:24] per comunicare con le fonti e per proteggerle
+[09:27] e il 54% dei giornalisti non ha alcun training alle spalle
+[09:33] quindi non sa come utilizzarli, come poter migliorare la situazione
+[09:38] però qualcosa si sta movendo all'interno delle redazioni
+[09:44] e una cosa che vedo succedere sempre più spesso è che giornalisti usano PGP
+[09:48] che è un software per cryptare le mail,
+[09:52] rendere quindi la comunicazione via mail più sicura
+[09:54] e qui ci sono degli esempi, Michalidi di the Intercept
+[09:58] è uno dei maggiori esperti di criptografia,
+[10:01] lo stesso modo Scott Klein di ProPublica
+[10:04] e, cioè, Guido Romeo di Wired in Italia è uno di questi
+[10:09] Henry Cleed è un giornalista norvegesa,
+[10:11] Julian Schmidli è un mio collega svizzero
+[10:14] e anche Batsfeed nell'ultimo caso ha, diciamo,
+[10:18] implementato l'uso di strumenti di cripto nella redazione
+[10:23] e questi sono chiaramente dei profili Twitter di giornalistiche pubblici
+[10:27] che hanno il fatto di avere questi strumenti
+[10:29] e per dire che strumenti di questo genere
+[10:32] iniziano a circolare nelle redazioni
+[10:36] e un buon esempio che introduce ancora di più
+[10:40] il discorso di whistleblowing è quello che ha fatto Dizite
+[10:44] Dizite è stata una delle prime redazioni giornalistiche
+[10:49] a dotarsi di sistemi di questo genere
+[10:51] tutti i giornalisti che sono nel team investigativo
+[10:54] sono user di PgP, chi vuole contattarli sa come fare
+[10:59] ha tutti i contatti e già nel 2012 Dizite ha creato
+[11:03] una sorta di piattaforma di whistleblowing
+[11:06] creandosela in-house, hanno preso i programmatori
+[11:09] hanno detto creiamo una piattaforma di whistleblowing
+[11:13] per inviarci le fonti
+[11:15] loro hanno creato la loro strumento
+[11:19] e le loro codice e lo utilizzano attivamente
+[11:24] e così entriamo nel discorso piattaforma di whistleblowing
+[11:28] è quello che ci interessa di più
+[11:30] la cosa che probabilmente vi viene in mente per prima è Wikileaks
+[11:34] Wikileaks agli esordi aveva la possibilità di inoltrare
+[11:39] al team di Assange documenti in un modo anonimo e sicuro online
+[11:45] e sostanzialmente utilizzando la piattaforma
+[11:48] che aveva quindi da tramite tra il whistleblower
+[11:51] lato fonte e il team di Wikileaks come recipients
+[11:55] quindi a cosa serve una piattaforma di whistleblowing
+[11:59] e in che modo può essere utile a una redazione giornalistica
+[12:03] a una organizzazione di advoca si ha un gruppo attivisto
+[12:07] attivista e via dicendo
+[12:09] consente appunto che qualcuno che vuole comunicare
+[12:13] qualcosa o inoltrare dei contenuti a queste persone
+[12:17] in modo anonimo e in modo sicuro utilizzando internet
+[12:20] ed è anche uno strumento per sollicitare che queste cose avvengano
+[12:23] perché se lo strumento è disponibile, lo strumento è visibile
+[12:27] e lo strumento funziona
+[12:28] è più probabile che le persone all'interno delle organizzazioni
+[12:31] denunci, non è che un whistleblower si faccia avanti
+[12:34] per me che studia il giornalismo
+[12:36] la domanda è
+[12:38] questo impone che le redazioni giornalistiche si dotino
+[12:41] di programmatori che lo sappiano fare
+[12:43] e i giornalisti stessi devono saper programmare
+[12:46] io non penso che tutti i giornalisti debbano necessariamente saper programmare
+[12:50] o saper creare questo genere di strumenti
+[12:53] Dan Gilmore qui diceva che non tutti devono saper programmare
+[12:57] ma devono saper capire come funzionano
+[13:00] e la necessità di avere questo genere di cose
+[13:04] ed è qui che entra in gioco GlobalX
+[13:06] il gruppo di GlobalX realizza questo software
+[13:12] che consente di creare una piattaforma di whistleblowing
+[13:15] non è pensato necessariamente per il giornalismo
+[13:18] ma poi vedremo che con Davide funziona bene
+[13:21] in altri settori
+[13:24] e butto già qualche idea
+[13:27] poi sicuramente Fabio approfondirà
+[13:30] GlobalX viene utilizzata in tanti modi
+[13:33] in tutto il mondo
+[13:36] io faccio ricerca appunto nel modo in cui queste piattaforme vengono utilizzate
+[13:40] il modo più semplice
+[13:44] d'immaginare è quello che fa Atlatso
+[13:47] che è un gruppo di giornalisti investigativi ungheresi
+[13:51] che ha creato una piattaforma che si chiama Maggerlix
+[13:54] loro utilizzano una piattaforma per ricevere documenti sui quali produrre giornalismo
+[13:59] loro sono una testata, utilizzano questo come strumento
+[14:02] e generano i loro contenuti
+[14:05] Irpi in Italia fa qualcosa di simile
+[14:07] loro sono un gruppo di giornalisti investigativi
+[14:09] che hanno la loro piattaforma per ottenere i documenti
+[14:13] e poi pubblicano i loro articoli su grandi testate italiane
+[14:19] un esempio molto interessante
+[14:22] è quello del multi-stakeholder with the blowing
+[14:25] realizzato dove c'è una piattaforma
+[14:28] che colabbra con tante testate giornalistiche
+[14:31] il with the blower si presenta sulla piattaforma
+[14:33] seleziona quali testate possono ricevere la sua segnalazione
+[14:37] e poi i giornalisti gestiranno il tutto
+[14:40] in Francia è stato lanciato da poco si chiama source sur
+[14:43] ecco in volto anche Le Monde per dire la portata del progetto
+[14:48] ma l'esempio originario e più interessante è quello di Publix
+[14:52] in Olanda dove oltre 40 testate giornalistiche di diversa estrazione
+[14:58] hanno deciso di partecipare al progetto
+[15:00] e a quanto so è probabilmente anche Fabio Giungera
+[15:03] qualcosa sta funzionando bene
+[15:05] e hanno pubblicato cose molto importanti
+[15:08] al di fuori del giornalismo global extrava applicazione
+[15:11] anche in altri settori
+[15:14] il caso interessante è quello di Transparency International in Italia
+[15:17] che ha lanciato un'alerta anticorruzione a piattaforma
+[15:20] di cui sicuramente da Studavide vi parlerà
+[15:25] Fabio, giusto
+[15:27] Forse ha più senso di inventare prima tu
+[15:29] Sì, è che arriva al terzo
+[15:34] Vola
+[15:53] Guarda che si facesse, scusate, sto sistemando
+[16:04] cliccato, fammi vedere la presentazione
+[16:09] però internet non è da la nostra, ma intanto che carica
+[16:12] Allora, buongiorno a tutti
+[16:16] In questa parte della presentazione
+[16:20] vorremmo condividere con voi l'esperienza
+[16:23] una panoramica abbastanza ampia e dettagliata
+[16:27] ma ovviamente andando al succo della questione
+[16:31] visti tempi
+[16:33] su tutti i diversi utilizzi
+[16:36] della piattaforma di Whistleblowing Globalics
+[16:39] esattamente come noi li abbiamo sperimentati
+[16:41] nel supportare diverse organizzazioni
+[16:44] nell'ambito del giornalismo, dell'attivismo
+[16:46] e anche della pubblica amministrazione
+[16:48] nell'implementare queste piattaforme di Whistleblowing
+[16:51] per poi arrivare a quello che è
+[16:54] un'analisi molto più dettagliata e puntuale
+[16:56] incluso al mostrarvi i risultati
+[16:58] dell'iniziativa di trasparenzi
+[17:00] con allerta anticorruzione
+[17:02] Allora, siccome internet ha deciso di abbandonarci
+[17:05] noi allora andiamo un po' a braccio
+[17:10] Ci mancano i logi
+[17:12] Beh, allora
+[17:14] uno degli utilizzi primari
+[17:16] sulla base di Globalics
+[17:18] è quello che nasce
+[17:20] dal mondo del giornalismo di inchiesta
+[17:23] e non si allarga
+[17:25] si può fare così forse
+[17:27] però la wifi ha deciso che
+[17:30] ci abbandona
+[17:34] Va bene, vai sereno
+[17:37] Dicevo, uno degli utilizzi principali
+[17:39] è quello sicuramente
+[17:41] dei gruppi di giornalismo di inchiesta
+[17:44] che sono di fatto organizzazioni
+[17:46] no profit
+[17:48] che operano il giornalismo
+[17:50] nell'ambito del pubblico interesse
+[17:52] Abbiamo tre esempi molto interessanti
+[17:54] Uno è quello di ERP
+[17:57] l'Italia Investiglia di Reporting Project
+[17:59] che è avviato ERPX
+[18:01] siamo stati molto felici perché è stato il primo utilizzo
+[18:03] della piattaforma Globalics in Italia
+[18:05] essendo noi partiti
+[18:07] essendoci rivolti prevalentemente al mondo
+[18:10] a 360 gradi
+[18:12] abbiamo trovato una certa lungimiranza da parte dei ragazzi di ERPI
+[18:15] nel
+[18:17] implementare
+[18:19] a modino, devo dire
+[18:21] un sistema di whistleblowing
+[18:23] che consenta a delle fonti
+[18:25] che vogliono dialogare con loro
+[18:27] all'interno del loro sito
+[18:29] quindi il percorso con cui
+[18:31] un whistleblower che approccia ERPI
+[18:33] e va sul suo sito, vuole entrare in contatto con loro
+[18:35] viene dato come percorso preferenziale
+[18:37] è quello di istruzioni
+[18:39] per poter scaricare un software di anonimato
+[18:41] chiamato Tor, il Tor Browser
+[18:43] poter utilizzando la piattaforma Globalics
+[18:45] condividere con queste informazioni
+[18:47] che possano essere
+[18:49] confidenziali e vogliono essere trasmesse
+[18:51] con un layer di anonimato
+[18:53] orrete, fantastico
+[18:55] vediamo se ricarica i loghi
+[18:57] scusate
+[19:03] più present
+[19:05] vediamo, forse ci lo può fare
+[19:07] oltre a ERPI, nell'ambito del giornalismo
+[19:09] di inchiesta, propriamente detto
+[19:11] fantastico, nell'ambito del giornalismo
+[19:13] di inchiesta, propriamente detto
+[19:15] ma no, qui non
+[19:17] le slide non ci vogliono bene, scusate
+[19:19] abbiamo anche
+[19:21] Maggiarlix
+[19:23] per uno che sono delle iniziative fatte in Ungheria
+[19:25] e fatte in Serbia
+[19:27] io ci tengo sempre a notare
+[19:29] come ogni iniziativa di whistleblowing
+[19:31] a un workflow, una modalità di lavorazione
+[19:33] delle informazioni da quando queste entrano
+[19:35] a quando queste si trasformano
+[19:37] in un'azione che è diversa
+[19:39] fra loro, quello di un newsroom
+[19:41] diciamo di un gruppo di
+[19:43] giornalismo di inchiesta
+[19:45] è abbastanza semplice dal punto di vista
+[19:47] di macro workflow
+[19:49] dove viene fatta un'attività
+[19:51] di giornalismo di inchiesta
+[19:53] che poi porta a una pubblicazione
+[19:55] di solito con dei media partner
+[19:57] un'altra iniziativa
+[19:59] dell'ambito media
+[20:01] che hanno una loro semplicità
+[20:03] ma che sono state molto efficace
+[20:05] troviamo una whatlix
+[20:07] in Tunisia
+[20:09] che è il media più importante
+[20:11] per tipo di coinvolgimento
+[20:13] all'interno della cosiddetta primavera
+[20:15] araba della Tunisia
+[20:17] troviamo OCCRP
+[20:19] l'Organize Crime and Corruption
+[20:21] Reporting Project
+[20:23] che è un gruppo di giornalismo di inchiesta
+[20:25] tra l'altro i fondatori e il lead investigator
+[20:27] sono qui al festival
+[20:29] che hanno avviato una piattaforma
+[20:31] di whistleblowing a Sarajevo
+[20:33] e adesso stanno supportando
+[20:35] i 15 media partner
+[20:37] all'Alzervai Jan
+[20:39] per stare per tutta l'area dei Balkani
+[20:41] affinché questi, magari gruppi un po' più piccolini
+[20:43] possono avere sul loro sito
+[20:45] uno spazio
+[20:47] che consenta una fonte
+[20:49] di dialogare con loro in forma anonima
+[20:51] uno degli aspetti di questo dialogo
+[20:53] da tenere in considerazione
+[20:55] è che una fonte
+[20:57] quando parla tramite un mezzo digitale
+[20:59] e se non è adeguatamente istruita
+[21:01] di quali sono i rischi
+[21:03] e quali sono i giusti modi
+[21:05] con cui entrare in contatto
+[21:07] con un gruppo di giornalismo investigativo
+[21:09] magari semplicemente cliccando a caso
+[21:11] su un sito e alla fine compilando in forma
+[21:13] fa una segnalazione che poi può costargli
+[21:15] la vita o il posto di lavoro
+[21:17] per cui il fatto di iniziare a vedere
+[21:19] organizzazioni come OCCRP
+[21:21] che prendono anche come mission
+[21:23] quella di aiutare
+[21:25] supportare altri media
+[21:27] avere questo tipo di strumenti
+[21:29] di comunicazione sicure e anonima
+[21:31] tra fonti e giornalisti
+[21:33] molto interessante
+[21:35] NewsLeaks è partito di recente
+[21:37] una testata belga
+[21:39] siamo stati estremamente felici di scoprire
+[21:41] che NewsLeaks sia partito perché non li conosciamo
+[21:43] si sono scaricati GlobalLeaks
+[21:45] dal nostro sito hanno letto le istruzioni
+[21:47] come funziona il software
+[21:49] hanno guardato altre iniziative
+[21:51] che hanno avuto un approccio abbastanza simile
+[21:53] hanno scritto anche dei bei testi
+[21:55] e questo media belga è partito in completa autonomia
+[21:57] come iniziativa di GlobalLeaks
+[21:59] per noi che siamo softwareisti e tecnologi
+[22:01] un discreto successo
+[22:03] che un'iniziativa parte
+[22:05] senza che ci sia bisogno di coinvolgimento
+[22:07] da parte nostra
+[22:09] ExtremeLeaks in Svezia
+[22:11] è sempre l'ambito dell'ICA
+[22:13] del gruppo di giornalismo richiesto
+[22:15] ma fa parte di quelle iniziative
+[22:17] di giornalismo che hanno un focus verticale
+[22:19] cioè loro si occupano di
+[22:21] investigazioni transnazionali
+[22:23] su temi di razzismo organizzato
+[22:25] e quindi hanno deciso di avviare una piattaforma
+[22:27] che si chiama ExtremeLeaks
+[22:29] che è stata a fonti o whistleblower
+[22:31] che sappiano di
+[22:33] atti o organizzazioni
+[22:35] che praticano di fatto razzismo organizzato
+[22:37] su cui loro si impegnano poi a fare attività di inchiesta
+[22:41] il mondo interessante anche l'esperienza
+[22:43] che ha avuto in Fodio Alex
+[22:45] in Venezuela
+[22:47] un blogger che si è trasformato
+[22:49] diciamo anche anti-corruption activist
+[22:51] e ha iniziato a raccogliere
+[22:53] tramite il suo blog con di fianco
+[22:55] un GlobalLeaks abbastanza bene comunicato
+[22:57] atti e fatti di corruzione
+[22:59] facendo anti-corruption blogging
+[23:01] che è una forma un po' particolare
+[23:03] tra giornalismo e attivismo anti-corruzione
+[23:05] ha pubblicato
+[23:07] parecchi documenti di alcuni top
+[23:09] politician venezuelani
+[23:11] io non lo so se è un risultato
+[23:13] effettivo o meno, sta di fatto che è censurato
+[23:15] dal Venezuela a partire dal 17 gennaio 2014
+[23:17] quindi forse forse qualche risultato
+[23:19] che ha dato fastidio al governo
+[23:21] venezuelano al portato
+[23:23] iniziativa molto interessante
+[23:25] magari alcuni di voi la conoscono
+[23:27] già ExpoLeaks
+[23:29] che sempre è stata lanciata dal gruppo di IRP
+[23:31] ma in collaborazione
+[23:33] e partnership con Wired
+[23:35] iniziativa verticale
+[23:37] che vede a punto Wired
+[23:39] e IRP una testata
+[23:41] e un gruppo di giornalismo di inchiesta
+[23:43] noi come technical partner
+[23:45] che invita fonti che sappiano
+[23:47] di atti affatti riguardanti
+[23:49] corruzione nell'Expo
+[23:51] e altre male pratiche a comunicare
+[23:53] con il gruppo di giornalismo di inchiesta
+[23:55] sempre nell'ambito
+[23:57] tra l'altro anche questo ha ottenuto dei risultati
+[23:59] come IRP-Leaks, se non sbaglio in Italia
+[24:01] già quattro inchieste
+[24:03] sono state pubblicate a partire
+[24:05] da lidi infesticative
+[24:07] di provenienza
+[24:09] whistleblowing se vogliamo
+[24:11] altra iniziativa estremamente interessante
+[24:13] è Wiredleaks di quelle verticale
+[24:15] iniziativa di whistleblowing
+[24:17] che hanno uno scopo ben preciso
+[24:19] che partono, Wiredleaks è
+[24:21] una iniziativa organizzata
+[24:23] inizialmente
+[24:25] dalla Elephant Action League
+[24:27] un aneggio che si occupa di tutela
+[24:29] della fauna selvatica
+[24:31] che ha coinvolto altre organizzazioni
+[24:33] che hanno scopi simili
+[24:35] e sono anche andati sulla prima pagina
+[24:37] del National Geographics online
+[24:39] non cartaceo
+[24:41] e loro raccolgono informazioni
+[24:43] sul traffico di avorio
+[24:45] l'uccisione legale di elefanti
+[24:47] sia da chi fa il 3D ronkong
+[24:49] dell'uccisione traffico
+[24:51] degli animali in Kenya per esempio
+[24:53] e hanno creato
+[24:55] questa iniziativa che sta crescendo
+[24:57] e si sta ampliando verticalmente
+[24:59] MafialX è stata avviata in Italia
+[25:01] da alcuni sconosciuti
+[25:03] è un progetto che ha avuto
+[25:05] un hype mediatico incredibile
+[25:07] anche questa iniziativa verticale di whistleblowing
+[25:09] quindi lo scopo è Challenging Mafia
+[25:11] possiamo dire che è stato
+[25:13] un grande successo mediatico
+[25:15] e purtroppo un fallimento come progetto
+[25:17] successo mediatico perché ha toccato
+[25:19] le pagine della CNN
+[25:21] della BBC del DSP
+[25:23] che è quando è stato annunciato
+[25:25] ma un fallimento perché
+[25:27] chi l'ha avviato per paura di ritorzioni
+[25:29] da parte dell'organizzazione criminali
+[25:31] non ha voluto metterci la faccia
+[25:33] comprensibile, tuttavia
+[25:35] questa scelta ha avuto un impatto
+[25:37] devastante sulla fiducia
+[25:39] e affidabilità dell'iniziativa
+[25:41] se io sono whistleblower anonimo
+[25:43] e devo mandare delle informazioni
+[25:45] ad un anonimo che mi fa una promessa
+[25:47] di fare qualcosa
+[25:49] qui c'è qualche problema nel concetto
+[25:51] per fare un'iniziativa di whistleblowing
+[25:53] bisogna metterci la faccia
+[25:55] chi avvia un'iniziativa di whistleblowing
+[25:57] deve essere affidabile
+[25:59] ci si deve poter fidare
+[26:01] perché, diciamo, whistleblower italiani
+[26:03] fanno una segnalazione
+[26:05] a Transparenza International Italia
+[26:07] su temi di corruzione
+[26:09] perché un'organizzazione affidabile
+[26:11] fanno da vent'anni il attivismo anticorruzione
+[26:13] e ci sarà
+[26:15] ma Fialix alla fine ha chiuso i battenti
+[26:17] perché nel mantenere il suono animato
+[26:19] non è riuscito a acquisire una fiducia
+[26:21] o affidabilità verso possibili fonti
+[26:23] ehm, beh, il JOS è stato
+[26:25] un'interessante iniziativa fatta in Islanda
+[26:27] per raccogliere informazioni
+[26:29] dopo che c'è stato il collapse finanziario
+[26:31] della... se stai in Islanda
+[26:33] non ricevuto un po' di Excel
+[26:35] sul ex-ministro delle finanze
+[26:37] e alcuni conflitti di interessi
+[26:39] nel momento in cui passano i piani di ristrutturazione del debito
+[26:41] un ambito abbastanza
+[26:43] recente, ma interessante
+[26:45] di utilizzo del whistleblown
+[26:47] digitale come forma di attivismo
+[26:49] quanto manca, scusate
+[26:51] e è quello del
+[26:53] è quello
+[26:55] dell'attivismo politico
+[26:57] noi abbiamo visto come il partito
+[26:59] pirata dalla città di Salisburgo
+[27:01] ha avviato una sua elixite
+[27:03] dicendo alla cittadinanza
+[27:05] se sapete qualche fattaccio
+[27:07] di cui volete che
+[27:09] ne prendiamo cura
+[27:11] con un'azione inconsiocamunale
+[27:13] o eventualmente una campagna mediatica
+[27:15] che riguarda la città di Salisburgo
+[27:17] le società controllate dalla città di Salisburgo
+[27:19] prego, siamo qui a vostra disposizione
+[27:21] questo è un canale di report inganonimo
+[27:23] qualcosa di molto simile
+[27:25] era fatto la Coupe del Villanova
+[27:27] in Catalogna e Spagna
+[27:29] facendo trasparencia a punto click
+[27:31] che sostanzialmente ha una focalizzazione
+[27:33] di contrasto alla corruzione
+[27:35] ma organizzata da un movimento
+[27:37] che ha fra i suoi
+[27:39] elementi principali
+[27:41] anche quello del contrasto alla corruzione
+[27:43] come ha accennato prima Filippe
+[27:45] le iniziative
+[27:47] ha in assoluto più potenti
+[27:49] o più resilienti
+[27:51] o più efficienti di whistleblow
+[27:53] in cui usano global leaks che stiamo
+[27:55] scoprendo ormai da quando si siamo
+[27:57] imbarcati in questa avventura
+[27:59] sono le iniziative che noi chiamiamo di tipo
+[28:01] multi stakeholder, la prima tra le quali
+[28:03] è stata Publix
+[28:05] che è un'iniziativa in Holanda
+[28:07] nella civillissima Holanda, ci tengo a sottolinearlo
+[28:09] che ha messo assieme 42 media
+[28:11] testate nazionali
+[28:13] carta stampata online
+[28:15] locali all'interno di una fondazione
+[28:17] la Publix Foundation
+[28:19] che dove tutti assieme fanno
+[28:21] la whistleblow in solicitation
+[28:23] cercano di invitare possibili fonti
+[28:25] a poter mandare informazioni su temi di pubblico interesse
+[28:27] ma alcune particolarità
+[28:29] la particolarità è che il whistleblower
+[28:31] quando va a fare una segnalazione
+[28:33] non è che può fare e seleziona tutto
+[28:35] ma andrà a 42 media
+[28:37] lo poteva fare, ci siamo resi conto che erano tutti spam
+[28:39] di varie catotipo
+[28:41] ma adesso deve selezionare
+[28:43] 3 su 42 delle testate
+[28:45] quindi whistleblower sceglie all'interno di quello
+[28:47] che ha una sorta di marketplace
+[28:49] di media sulla base della loro autorevolezza
+[28:51] della loro affidabilità
+[28:53] e sulla base di quello che ha il pensiero della fonte
+[28:55] il generale sentire nel confronto
+[28:57] fra i media di chi è più affidabile
+[28:59] e chi magari darà seguito a una certa segnalazione
+[29:01] sì, una segnalazione che viene fatta
+[29:03] un solo media, ok, quel media ha l'esclusività
+[29:05] ma se viene mandata più d'uno
+[29:07] quindi fino al massimo di 3
+[29:09] beh, allora questi hanno firmato un accordo
+[29:11] nella deliria della public foundation
+[29:13] in cui si impegnano ad avere un periodo
+[29:15] di embargo in cui non pubblicano niente
+[29:17] per le prime 2 settimane, ma soprattutto
+[29:19] devono collaborare sull'investigazione
+[29:21] questo è un modello molto particolare e premiale
+[29:23] perché sono media che sono concorrente
+[29:25] sul mercato, ma su questa iniziativa
+[29:27] per tutelare le fonti e dare seguito
+[29:29] per chi interessa si impegna a collaborare
+[29:31] veramente diciamo
+[29:33] ingegnosa, quando diciamo
+[29:35] whistleblow in solicitation non parliamo soltanto
+[29:37] di un sito web con un banner che dice
+[29:39] eh, mandateci qui le vostre informazioni
+[29:41] ma questo è uno dei partner che
+[29:43] stampa su ogni giorno, su carta stampata
+[29:45] se sai qualcosa, vuoi comunicare con noi in forma
+[29:47] sicura e anonima, utilizza Publix
+[29:49] vediamo che la potenza
+[29:51] di una attività di whistleblow
+[29:53] in solicitation può essere anche molto
+[29:55] molto efficace
+[29:57] Source Sure
+[29:59] è un'iniziativa diciamo di tipo Publix
+[30:01] che ha avuto come lead media
+[30:03] Le Monde
+[30:05] francese e 3 media
+[30:07] nel belgio francofono
+[30:09] la Libre Beljicker, Tbf e Le Suards
+[30:11] e si sta adesso espandendo
+[30:13] anche con nuovi partner che saranno
+[30:15] annunciati in
+[30:17] Svizzera
+[30:19] e
+[30:21] Marocco
+[30:23] e vuole essere il Publix
+[30:25] del mondo francofono, quindi unire
+[30:27] tanti media
+[30:29] del mondo francofono per poter
+[30:31] avere, dare diciamo un percorso
+[30:33] uno strumento organizzativo e tecnico
+[30:35] a queste fonti
+[30:37] Lo stesso abbiamo fatto in Africa
+[30:39] insieme all'African Media Initiative
+[30:41] Justin Anderson, Venca di Ascerife
+[30:43] che sono stati qui con diversi panel
+[30:45] mettendo assieme un nutrito gruppo di
+[30:47] media
+[30:49] progetto devo dire che abbiamo preso forse un po' troppo sotto gamba
+[30:51] perché l'Africa non è una region
+[30:53] l'area balkanica ma è un continente
+[30:55] per cui adesso ripartiremo con 3
+[30:57] Competence Center in Nigeria
+[30:59] Sud Africa
+[31:01] e Kenya
+[31:03] e diciamo rialargheremo la base
+[31:05] di utilizzatori
+[31:07] MexicoLix segue esattamente lo stesso modello
+[31:09] in Messico, vediamo l'elenco di tutti
+[31:11] quanti media partner che hanno aderito
+[31:13] all'iniziativa, quindi iniziativa di
+[31:15] Digital History Blow in Multistakeholder
+[31:17] più media o in alcuni casi
+[31:19] attori della civil society che siano
+[31:21] essi gruppi di giornalismo di inchiesta o gruppi di attivismo
+[31:23] che hanno legami con il mondo
+[31:25] e il giornalismo che si mettono assieme
+[31:27] ricordiamo il Messico è un contesto particolarmente
+[31:29] spesso o particolarmente
+[31:31] rischioso, sono stati giornalisti
+[31:33] attivisti decapitati con la foto
+[31:35] postata su Twitter dai Narcos
+[31:37] dopo che questi avevano usato
+[31:39] sfidarli pubblicamente, quindi
+[31:41] diciamo l'iniziativa dei partner
+[31:43] che parteciva da MexicoLix
+[31:45] Shapo
+[31:47] Filtrala è l'iniziativa
+[31:49] di tipo Publixlike
+[31:51] avviata in Spagna
+[31:53] anche qui è molto interessante perché
+[31:55] l'iniziativa è nata come per Publix
+[31:57] da soggetti che si frequentano il mondo
+[31:59] del giornalismo, ma provengono dal mondo
+[32:01] dell'attivismo, quindi ci sono gli attivisti
+[32:03] pro trasparenza e sviluppo democratico
+[32:05] che usano in media
+[32:07] e danno uno strumento ai media
+[32:09] per trovare un intento comune
+[32:11] però questi iniziativi spesso non nascono
+[32:13] nel ambito giornalismo attivistico
+[32:15] in Gia
+[32:17] Masayuki Atta ha seguito
+[32:19] della cosiddetta Japan in secret
+[32:22] tale per cui se sei un giornalista
+[32:24] e semplicemente richiedi informazioni
+[32:26] che possono riguardare
+[32:28] termini di sicurezza nazionale, quindi
+[32:30] non le hai pubblicate, analizzate, ricevute
+[32:32] le richiedi pubblicamente
+[32:34] puoi andare in galera fino a 5 anni
+[32:36] è come se un giornalista che si occupa
+[32:38] di termini di sicurezza nazionale dice
+[32:40] io mi occupo di termini di sicurezza nazionale
+[32:42] cosa vuoi che dica le mie fonti
+[32:44] se conoscete termini di sicurezza nazionale
+[32:46] possono essere diciamo di interesse pubblico
+[32:48] condivideteli con me ok fino a 5 anni in galera
+[32:51] per rispondere a questo tipo di
+[32:54] questo tipo di legge Masayuki Atta
+[32:56] sta avviando la Stegolder Community
+[32:58] quindi sta coinvolgendo vari media
+[33:00] per fare whistleblow in Japan
+[33:02] una piattaforma simile Publix
+[33:04] ma in Giappone ovviamente è un processo
+[33:06] molto complicato e vediamo come
+[33:08] gruppo di attivisti cerca di coinvolgere
+[33:10] i media che dovrebbero fare da guardia
+[33:12] della democrazia per rispondere
+[33:14] è troppo restrittiva del governo
+[33:18] Pistalka è un'altra iniziativa
+[33:20] di attivismo fatta in Serbia
+[33:22] da parte di anti-corruption
+[33:24] attivismo è interessante vedere come
+[33:26] loro operano poi vediamo la differenza
+[33:28] per esempio con Alac in cui ricevono
+[33:30] segnazioni, sollecchino
+[33:32] su temi di corruzione in Serbia
+[33:34] dove hanno un FOIA, un freedom of information act
+[33:36] che noi non abbiamo by the way
+[33:38] quindi i servi sono più avanti di noi
+[33:40] e verificano questa informazione
+[33:42] che hanno poi una esposta all'autorità
+[33:44] se le autorità non li danno seguito vanno dai media
+[33:46] questo è il loro workflow di attivismo anticoorruzione
+[33:48] con GlobalX, quando l'abbiamo scoperto
+[33:50] abbiamo detto che è fichissimo
+[33:52] BuzonX di Xnet
+[33:54] è un'altra iniziativa di attivismo
+[33:56] anti-corruzione fatta da gruppi
+[33:58] di attivismo, in questo caso
+[34:00] gruppo di attivismo politico
+[34:02] che ha nella sua area anche
+[34:04] l'attivismo anticoorruzione
+[34:06] e arrivando, stando all'interno
+[34:08] di questo ambito dell'anticoorruzione
+[34:10] reale che si va sviluppando
+[34:12] in diversi
+[34:14] declinazioni
+[34:16] abbiamo troviamo la ESL di Brescia
+[34:18] una pubblica amministrazione
+[34:20] con un responsabile tecnico particolarmente
+[34:22] lungimirante nell'ambito tecnologico
+[34:24] che all'interno
+[34:26] delle esigenze di compliance
+[34:28] con una normativa anticoorruzione
+[34:30] quindi lo sviluppo dei programmi di prevenzione
+[34:32] della corruzione ha voluto dotarsi
+[34:34] un cisario whistleblowing basato su GlobalX
+[34:36] e quindi di contribuire per la pubblica amministrazione
+[34:38] sul software orientato a riutilizzo
+[34:40] sicuramente l'iniziativa più interessante
+[34:42] nell'ambito dell'anticoorruzione
+[34:44] o per vicinanza o per competenza
+[34:46] è quella di ALAC
+[34:48] quindi l'alerta anticoorruzione
+[34:50] avviato da trasparenze internazionali
+[34:52] tali a di cui adesso vi parlerà Davide
+[34:54] prima di passare la parola a Davide
+[34:56] volevo solo dire che su questo tema
+[34:58] dell'anticoorruzione per chi non l'avesse
+[35:00] seguito a livello macroscopico
+[35:02] se lo scorso decennio
+[35:04] per i paesi G20
+[35:06] il contrasto al riciclaggio di denaro
+[35:08] è stata la priorità
+[35:10] per i paesi G20 in questo decennio
+[35:12] la priorità è il contrasto alla corruzione
+[35:14] il whistleblowing è uno strumento
+[35:16] fondamentale della
+[35:18] lotta alla corruzione
+[35:20] quindi sia la società civile
+[35:22] sia la pubblica amministrazione
+[35:24] sia ambito di giornalismo
+[35:26] più istituzionalizzato, più non profit
+[35:28] lavorano tutti in modo differenziato
+[35:30] utilizzando lo strumento del whistleblowing
+[35:32] per il contrasto alla corruzione
+[35:34] che è destinato solo a crescere
+[35:36] e vediamo anche adesso un esempio
+[35:38] lungimirante di un'iniziativa
+[35:40] che funziona che ha alerta anticoorruzione
+[35:42] ok, allora come diceva Fabio
+[36:13] alac, alerta anticoorruzione
+[36:17] è un esperimento che abbiamo
+[36:19] voluto provare a fare in Italia
+[36:21] cioè vedere se effettivamente
+[36:23] il paese è pronto a combattere
+[36:25] la corruzione
+[36:27] in maniera più attiva
+[36:29] quindi diciamo noi per
+[36:31] i primi 15 anni di esperienza
+[36:33] della nostra organizzazione
+[36:35] ci siamo rivolti come attività
+[36:37] alla ricerca, all'advocasi istituzionale
+[36:39] quindi collaborazione
+[36:41] con istituzioni
+[36:43] politici per cercare di
+[36:45] migliorare il contesto legislativo
+[36:47] ma non eravamo mai entrati veramente
+[36:49] sul campo d'azione
+[36:51] quando abbiamo
+[36:53] visto
+[36:55] casualmente una presentazione
+[36:57] appunto di GlobalX abbiamo pensato
+[36:59] eh proviamo, ci vediamo
+[37:01] cosa ne viene fuori, programma da dare
+[37:03] ai cittadini la possibilità
+[37:05] di inviarci le segnalazioni
+[37:07] dato che
+[37:09] non parliamo di un contesto particolarmente facile
+[37:11] l'Italia non sarà al Messico
+[37:13] come diceva Fabio
+[37:15] però è un paese in cui
+[37:17] culturalmente si è molto resti
+[37:19] a denunciare o a segnalare
+[37:21] fatti
+[37:23] di cui si ha conoscenza
+[37:25] questa è la statistica
+[37:27] del Global Corruption Barometer
+[37:29] che ci mostra come in Italia
+[37:31] solo il 56% dei cittadini
+[37:33] intervistati si sia dichiarato
+[37:35] come dire disponibile
+[37:37] a segnalare un caso di corruzione
+[37:39] di cui venisse conoscenza
+[37:41] la media europea è il 71%
+[37:43] quella mondiale del 69 quindi
+[37:45] siamo molto al di sotto
+[37:47] per di più
+[37:49] la domanda seguente è se non
+[37:51] segnaleresti perché
+[37:53] quali sono i motivi che ti spingono a segnalare
+[37:55] come potete vedere
+[37:57] per l'Italia
+[37:59] la bilancia
+[38:01] è fra due risposte
+[38:03] che ottengono quasi il 50%
+[38:05] la prima è la sfiducia
+[38:07] non cambiarebbe nulla
+[38:09] cioè se io segnalo
+[38:11] ma poi l'Italia corrotte
+[38:13] corrotta rimarrà quindi che lo faccio a fare
+[38:15] la seconda però invece
+[38:17] è quella che c'è interessato di più
+[38:19] ho paura di subire ritorzioni
+[38:21] per la segnalazione che faccio
+[38:23] una
+[38:25] una percentuale che
+[38:27] insomma ci ha
+[38:29] fatto capire che dovevamo cercare
+[38:31] anche di utilizzare degli strumenti
+[38:33] che non solo ci permettessero di
+[38:35] ricevere delle segnalazioni
+[38:37] ma ci consentissero allo stesso tempo
+[38:39] di proteggere le fonti di queste informazioni
+[38:41] tanto più che
+[38:43] sempre questo è il dato
+[38:45] relativo all'Italia
+[38:48] per i cittadini italiani
+[38:50] non c'è grande fiducia
+[38:52] nelle istituzioni esterne
+[38:54] al proprio ente per fare le segnalazioni
+[38:56] probabilmente per quello che si diceva prima
+[38:58] quindi una sfiducia generica
+[39:00] per il re sul fatto che
+[39:02] poco
+[39:04] cambierà anche semiattivo
+[39:06] personalmente a fare
+[39:08] la segnalazione quindi tanto vale
+[39:10] o riportarla internamente in aziende
+[39:12] magari dove ci sono canali predisposti
+[39:14] a questo oppure meglio stare ziti
+[39:18] quello che abbiamo quindi
+[39:20] aperto un annetto non è anche
+[39:22] sei mesi fa
+[39:24] alla calerta anticorruzione è un sistema
+[39:26] basato su global leaks poi
+[39:28] vedremo come funziona
+[39:30] per cui fondamentalmente
+[39:32] noi cerchiamo di aiutare
+[39:34] chi ci invia le segnalazioni
+[39:36] a capire quale strada intraprendere
+[39:38] identifichiamo
+[39:40] insieme a lui il destinatario più appropriato
+[39:42] cioè noi non siamo ne una forza
+[39:44] di polizia non possiamo fare indagini
+[39:46] non abbiamo più con le competenze
+[39:48] nelle capacità
+[39:50] indagini dico oltre quelle che possono essere
+[39:52] indagini giornalistiche
+[39:54] e non siamo neanche un'istituzione
+[39:56] cioè non è che possiamo sanzionare
+[39:58] il corrotto direttamente
+[40:00] quello che possiamo fare è
+[40:02] in questa nebulosa
+[40:04] come dire
+[40:06] in questo nebuloso paese in cui ci sono
+[40:08] 50 enti diversi che si occupano
+[40:10] di anticorruzione, autorità
+[40:12] forse di polizia, ministeri
+[40:14] corte dei conti, cercare di capire
+[40:16] il secondo di quello che ci viene segnalato
+[40:18] dove andare per ottenere il risultato
+[40:20] eventualmente
+[40:22] ma poi quasi sempre affianchiamo
+[40:24] il segnalante
+[40:26] questo cosa vuol dire
+[40:28] vuol dire che laddove
+[40:30] il segnalante è un whistleblower
+[40:32] cioè qualcuno che lavora all'interno del lente
+[40:34] per cui sta facendo la segnalazione
+[40:36] noi ci sostituiamo a lui
+[40:38] perché lui
+[40:40] tendenzialmente non vuole apparire
+[40:42] non vuole che si sappia
+[40:44] a questo momento lui a fare la segnalazione
+[40:46] quindi
+[40:48] ma questo adesso lo vediamo, noi cerchiamo di avere
+[40:50] segnalazioni il più circostanziate
+[40:52] possibili, cioè il più dettagliate
+[40:54] in modo tale da poter
+[40:56] di sgiungere il segnalante
+[40:58] e la segnalazione
+[41:00] cioè il nostro obiettivo è avere una segnalazione
+[41:02] per cui non sia assolutamente necessario
+[41:04] avere il segnalante di fianco
+[41:06] quello che vogliamo fare noi
+[41:08] nel caso abbiamo il nome con il nome del segnalante
+[41:10] poterlo buttare via al più presto
+[41:12] e poterci dedicare
+[41:14] alla segnalazione così come
+[41:16] per fare questo
+[41:18] ovviamente
+[41:20] ti serve ricevere una segnalazione
+[41:22] circostanziata
+[41:24] quindi abbiamo deciso di scudere le mail
+[41:26] perché già ricevevamo diverse mail
+[41:28] come associazione della società civile
+[41:30] generalmente paginate
+[41:32] di cose magari anche interessanti
+[41:34] ma totalmente inutilizzabili
+[41:36] e no telefonate
+[41:38] perché la telefonata almeno per un primo contatto
+[41:40] è il metodo peggiore
+[41:42] se si vogliono avere delle informazioni utilizzabili
+[41:44] abbiamo quindi
+[41:46] sviluppato insieme, cioè o meglio
+[41:48] GlobalX ha sviluppato insieme a noi
+[41:50] questa piattaforma speciale
+[41:52] chiamata ALAC basata sul software GlobalX
+[41:54] che ci permette
+[41:56] di ricevere le segnalazioni
+[41:58] nella maniera che vogliamo noi
+[42:00] cioè noi la vogliamo ricevere
+[42:02] in un determinato modo
+[42:04] perché sappiamo che le informazioni che ci servono
+[42:06] sono alcune e non altre
+[42:08] una piattaforma che ci garanti
+[42:10] che chi ci invia le segnalazioni
+[42:12] è tutelato e protetto
+[42:14] noi possiamo mantenere
+[42:16] sononimato, possiamo dirgli
+[42:18] mandaci questa segnalazione a noi
+[42:20] non interessa ne sapere chi sei
+[42:22] e se ce lo vuoi dire comunque
+[42:24] ti assicuriamo che
+[42:26] a meno di scelta contraria da parte tua
+[42:28] non riveleremo mai
+[42:30] le tue informazioni
+[42:32] ma cos'è che ci serviva
+[42:34] e che poi c'è fatto
+[42:36] decidere di utilizzare GlobalX
+[42:38] ci serviva la possibilità però
+[42:40] di dialogare
+[42:42] con il segnalante
+[42:44] cosa che non è banale perché se il segnalante
+[42:46] è anonimo, ma a te
+[42:48] necessita di chiedere delle informazioni
+[42:50] come fai a ripescarlo
+[42:52] e questo non è stato il grande punto di domanda
+[42:54] per chiunque si sia occupato di corruzione
+[42:56] e di segnalazioni fino ad ora
+[42:58] quindi abbiamo
+[43:00] abbiamo visto
+[43:02] che GlobalX ti permette attraverso
+[43:04] un ticket che viene rilasciato alla fine
+[43:06] della segnalazione
+[43:08] di poter dialogare tra organizzazione ricevente
+[43:10] e segnalante
+[43:12] e dobbiamo dire
+[43:14] che questa
+[43:16] poi dopo 6 mesi di esperienza
+[43:18] è la caratteristica probabilmente più importante
+[43:20] perché
+[43:22] non solo
+[43:24] ci permette di ottenere
+[43:26] delle informazioni che all'inizio
+[43:28] cioè quando riceviamo la segnalazione
+[43:30] non abbiamo, ma possiamo richiederle
+[43:32] ma perché si instaura un vero e proprio
+[43:34] rapporto di fiducia con il segnalante
+[43:36] non c'è ancora accaduto
+[43:38] che un segnalante
+[43:40] la cui segnalazione è inizialmente
+[43:42] anonima
+[43:44] dopo un dialogo
+[43:46] diciamo durato una o due settimane
+[43:48] alla fine non decide di rivelarsi a noi
+[43:50] questo vuol dire che da una parte
+[43:52] siamo riusciti a creare
+[43:54] un rapporto di fiducia
+[43:56] con la persona
+[43:58] dall'altra significa che
+[44:00] in certa forma che ci permette il dialogo riusciamo
+[44:02] allo stesso tempo
+[44:04] a
+[44:06] migliorare le informazioni che abbiamo ricevuto
+[44:08] a circostanziare
+[44:10] e a rendere la segnalazione
+[44:12] qualcosa di effettivamente utilizzabile
+[44:14] quindi abbiamo
+[44:18] disegnato uno schema di domande
+[44:20] specifica e noi non vogliamo
+[44:22] ricevere segnalazioni come dire
+[44:24] aperte, richiediamo
+[44:26] delle informazioni
+[44:28] che dalla nostra esperienza
+[44:30] ci consentiranno
+[44:32] di
+[44:34] arrivare ad avere un prodotto finito
+[44:36] diciamo consistente
+[44:38] questo spesso
+[44:40] è vissuto un po' male dal segnalante
+[44:42] ogni tanto chi non vuole rimanere anonimo
+[44:44] ci telefona e ci dice no ma io volevo dirvi
+[44:46] delle altre cose rispetto a quelle che mi chiedete
+[44:48] e noi gli rispondiamo a beh allora non ci interessa
+[44:50] chiamate i orpi
+[44:52] perché
+[44:54] chiaramente
+[44:56] se si arriva ad avere
+[44:58] abbastanza consistenti di segnalazioni
+[45:00] tu devi avere anche
+[45:02] un modello che ti permetta di
+[45:04] gestirle in un modo
+[45:06] agile ed efficace per te
+[45:08] ne abbiamo ricevute
+[45:12] nei primi 6 mesi
+[45:14] 70
+[45:16] in realtà le segnalazioni sono di più
+[45:18] perché poi ci sono segnalanti
+[45:20] che colgono l'occasione e ti fanno
+[45:22] una duplice o triplici segnalazioni
+[45:24] diciamo che segnalanti
+[45:26] in questi primi 6 mesi sono
+[45:28] 64
+[45:30] come vedete le regioni
+[45:32] da cui sono arrivati il maggior numero
+[45:34] di segnalazioni sono il Lazio
+[45:36] e la Campania
+[45:38] seguiti dalla Lombardia
+[45:40] più o meno tutte le altre regioni
+[45:42] si attestano su i due
+[45:44] tre segnalanti a testa
+[45:46] ci sono delle regioni da cui non c'è arrivato nulla
+[45:48] ed è particolarmente interessante
+[45:50] che tutto Liguria, Piemonte, Valdosta
+[45:52] 0
+[45:54] Trentino 0
+[45:56] basilicata
+[45:58] niente
+[46:00] all'inizio ci ha un po colpito
+[46:02] il dato sulla Sicilia
+[46:04] che tendenzialmente uno si immagina
+[46:06] è una delle regioni
+[46:08] in cui ci sono più casi di corruzione
+[46:10] che fino a pochi mesi
+[46:12] fino a 1 o 2 mesi fa era 0
+[46:14] anche essa
+[46:16] abbiamo partecipato
+[46:18] a un convenio con
+[46:20] va organizzato dal Movimento 5 Stelle
+[46:22] a Palermo perché loro hanno lanciato
+[46:24] un sistema che non è affidabile
+[46:26] come il nostro devo dire
+[46:28] non usa GlobalX ma è più un form
+[46:30] un form
+[46:32] come dire aperto su internet
+[46:34] per ricevere le segnalazioni
+[46:36] insomma in questo convenio
+[46:38] si è capito
+[46:40] anche da degli interventi del
+[46:42] pubblico
+[46:44] che lì il fatto culturale
+[46:46] cioè
+[46:48] il whistleblower, whistle come delatore
+[46:50] quindi come comportamento soleale
+[46:52] affronti della tua collettività
+[46:54] è veramente forte
+[46:56] cioè sarà veramente difficile ottenere
+[46:58] delle segnalazioni da queste aree
+[47:00] perché è importante avere
+[47:02] e questo
+[47:04] penso proprio anche a livello
+[47:06] nostro, di organizzazioni
+[47:08] da società civile ma a maggior ragione
+[47:10] lo sarebbe per chi si occupa
+[47:12] di corruzione a livello istituzionale
+[47:14] quindi un autoritante corruzione
+[47:16] o un ente pubblico che deve gestire
+[47:18] il problema della corruzione a suo interno
+[47:20] è importante avere un sistema
+[47:22] come quello di GlobalX
+[47:24] quindi molto strutturato
+[47:26] perché intanto ti consente di avere
+[47:28] delle statistiche precise
+[47:30] affidabili
+[47:32] questa è una statistica che magari a noi
+[47:34] non interessa particolarmente
+[47:36] però la lotta e la corruzione si fa anche
+[47:38] aumentando sempre di più la conoscenza
+[47:40] del fenomeno
+[47:42] e ovviamente più dati, informazioni
+[47:44] tu riesci ad avere sul fenomeno
+[47:46] meglio riesci a capirlo e meglio riesci a combatterlo
+[47:48] questo ovviamente è la statistica
+[47:52] su successo dei segnalanti
+[47:54] come vedete
+[47:56] praticamente 30 uomini
+[47:58] 12 donne
+[48:00] e 24 sconosciuti
+[48:02] c'è quelli che non hanno deciso
+[48:04] o di rivelarlo sono rimasti anonimi
+[48:06] livello geografico
+[48:08] questo è interessante
+[48:10] solo una segnalazione
+[48:12] che riguarda un caso internazionale
+[48:14] solo 5 che riguardano
+[48:16] un caso diciamo nazionale quindi
+[48:18] ministerio comunque politica nazionale
+[48:20] sono tantissimi invece
+[48:22] i casi relativi a il comune
+[48:24] la provincia
+[48:26] il mio
+[48:28] singolo ente
+[48:30] pubblico
+[48:32] chi segnala, la maggior parte sono whistleblower
+[48:34] quindi persone che lavorano
+[48:36] all'interno del lente
+[48:38] da cui arriva la segnalazione
+[48:40] il 19 sono vittime, cioè ritengono
+[48:42] di essere principalmente
+[48:44] di aver subito il danno principale
+[48:46] dal lato corruptivo, il 19 sono terrasimoni
+[48:48] gli altri non si sa
+[48:50] i settori coinvolti sono soprattutto
+[48:52] il settore
+[48:54] della pubblica amministrazione in generale
+[48:56] e il settore sanitario
+[48:58] sono dati che ci aspettavamo
+[49:00] poi seguono edilizia
+[49:02] quindi rispecchiano un po' quello che
+[49:04] è anche la percezione
+[49:06] della corruzione
+[49:08] ci danno una conferma
+[49:10] sulla percezione della corruzione
+[49:12] le procedure coinvolte, questo qua per esempio
+[49:14] è un momento pubblico
+[49:16] è un dato fondamentale perché
+[49:18] permette anche
+[49:20] se si hanno delle cifre consistenti
+[49:22] di fare un'analisi del rischio
+[49:24] è uno strumento che ti permette
+[49:26] grazie da ti raccolti anche di capire
+[49:28] dove tu sei più esposto a rischi
+[49:30] e qua per esempio noi pensavamo
+[49:32] che il maggior numero di segnalazioni
+[49:34] ci sarebbe arrivati sugli appalti
+[49:36] si parla sempre gli appalti invece no
+[49:38] il maggior numero di segnalazioni
+[49:40] ci è arrivato sulle nomine
+[49:42] l'incredimento di incarichi all'interno
+[49:44] degli enti, poi ci sono gli appalti
+[49:46] e poi ben distanziati
+[49:50] accounting quindi diciamo
+[49:52] problemi con il bilancio
+[49:54] evasione fiscale
+[49:58] e così via
+[50:00] però anche qui la percezione dell'Italia
+[50:02] come un paese
+[50:04] che non si basa su un sistema
+[50:06] meritocratico ma piuttosto nepotistico
+[50:08] ci viene diciamo
+[50:10] una informata da questa statistica
+[50:12] purtroppo non ho tempo
+[50:14] diciamo che fondamentalmente
+[50:16] qua ho riportato due casi per farvi
+[50:18] vedere come noi dobbiamo lavorare in maniera diversa
+[50:20] da
+[50:22] come può lavorare un giornalista
+[50:24] che invece riceve una segnalazione
+[50:26] molto spesso noi il caso
+[50:28] lo dobbiamo trattare senza poter
+[50:30] andare pubblicamente
+[50:32] in questo che è uno dei casi su cui
+[50:34] stiamo lavorando e che ci sta più a cuore
+[50:36] un militare ha segnalato
+[50:38] che non lo fa
+[50:40] all'interno della sua arma
+[50:42] che il luogo dove stanno costruendo la caserma nuova
+[50:44] era un luogo contaminato da amianto
+[50:46] i lavori sono andati
+[50:48] avanti lo stesso
+[50:50] lui ha subito delle ritorzioni molto pesanti
+[50:52] immaginatevi poi un corpo
+[50:54] militare
+[50:56] e ritorzioni
+[50:58] soprattutto a livello lavorativo
+[51:00] quindi sapete che poi
+[51:02] per i militari c'è tutta una questione di carriere
+[51:04] legata adesso non lo sa di uno specifico
+[51:06] ha i gradi quindi l'hanno degradato
+[51:08] e bla bla bla
+[51:10] e quindi fondamentalmente si è rivolta a noi
+[51:12] e noi l'abbiamo detto per la prima cosa
+[51:14] questo è un caso esplosivo
+[51:16] amianto
+[51:18] arma militare
+[51:20] tutte le evidenze che c'è portato
+[51:22] andiamo
+[51:24] direttamente
+[51:26] anche cerchiamo subito un bersaglio grosso
+[51:28] anche report, lui ci ha detto no vi prego
+[51:30] fate tutto quello che volete
+[51:32] ma non deve uscire il mio nome
+[51:34] la ritorzione
+[51:36] in un
+[51:38] in un'arma militare arriva anche
+[51:40] al tisparo
+[51:42] domattina quindi noi stiamo cercando di trattare
+[51:44] questo caso senza poter
+[51:46] minimamente andare pubblicamente
+[51:48] lo stiamo quindi trattando con
+[51:50] autoritanti corruzione soprattutto con il
+[51:52] dipartimento della funzione pubblica che è
+[51:54] quell'istituzione che dovrebbe
+[51:56] occuparsi
+[51:58] delle situazioni lavorative
+[52:00] dei dipendenti pubblici
+[52:02] qualcuno ha avuto a che fare evidentemente
+[52:04] una percessione di corsa
+[52:06] di senso di affidabilità
+[52:08] il secondo caso invece
+[52:10] qua la difficoltà appunto di lavorare
+[52:12] invece con i media
+[52:14] perché un caso come il precedente io sono
+[52:16] sicuro che avremmo trovato il giornalista
+[52:18] interessato a farci il caso
+[52:20] invece
+[52:22] il secondo caso che vi porto e chiudo
+[52:24] è un caso per noi interessantissimo
+[52:26] un appalto di 400.000 euro
+[52:28] però non è una storia sexy per un giornalista
+[52:30] perché è una storia complicata
+[52:32] è una storia in un
+[52:34] come dire
+[52:36] difficilmente raccontabile
+[52:38] e quindi invece lì dove vorremmo
+[52:40] farci un caso giornalistico
+[52:42] abbiamo delle difficoltà, stiamo procedendo
+[52:44] per vie più istituzionali
+[52:46] quindi anche qui
+[52:48] autoritanti corruzione
+[52:50] ma è lentissimo, è un processo lentissimo
+[52:52] con l'autoritanti corruzione
+[52:56] di seguito corte dei conti e procura
+[52:58] però ecco in questo caso stiamo facendo un lavoro
+[53:00] quello che vi diceva inizialmente di
+[53:02] sostituzione tra i regolette del whistleblower
+[53:04] cioè
+[53:05] siamo seguendo un percorso standard
+[53:07] che avrebbe potuto fare anche lui
+[53:09] cioè banalmente vado in procura
+[53:11] e faccio la denuncia, lo facciamo noi al posto suo
+[53:13] perché lui non vuole sporsi
+[53:15] perché è un dipendente del lente
+[53:17] per cui ha segnalato questo appalto
+[53:20] direi che qui mi fermo
+[53:22] e se avete domande
+[53:24] ben volentieri
+[53:28] ecco mi raccomando
+[53:30] se avete domande fateli nel microfono
+[53:32] per via dello streaming
+[53:33] se non non si sente niente
+[53:44] abbiamo detto tutto evidentemente
+[53:46] tutti whistleblower
+[53:48] ho fomentato il senso di paura
+[53:59] intanto qui c'è qualcuno che ha utilizzato
+[54:01] utilizzo un sistema
+[54:03] per ricevere segnalazioni
+[54:05] che è interessato
+[54:13] ciao sono l'Isabel Tatola e sono una giornalista scientifica
+[54:16] allora avevo una curiosità
+[54:18] cioè se uno pensasse di poter utilizzare la piattaforma
+[54:21] mettendo insieme anche un processo multiplayer
+[54:23] per avviare questa cosa
+[54:25] io da giornalista appunto non ho veramente
+[54:27] nessuna competenza
+[54:28] poi Fabio lo sa benissimo
+[54:30] di gestione diciamo così
+[54:32] dell'aspetto
+[54:34] più informatico tecnico
+[54:37] voi come GlobalX siete di supporto
+[54:39] perché state esplodendo
+[54:41] mi sembra di capire che state
+[54:43] veramente avviando a progetti ovunque
+[54:45] qual è poi vostro ruolo
+[54:46] cioè voi date anche un supporto
+[54:48] un aiuto nello sviluppare il progetto
+[54:50] perché vedo che ci sono newsroom che prendono
+[54:52] la piattaforma come dicevi tu a Modino
+[54:54] e fanno tutto da soli
+[54:56] per esempio nel nostro caso mi viene da dire
+[54:58] pensando anche all'idea di mettere insieme più piattaforme
+[55:00] giornalistiche però non avremo sicuramente
+[55:02] la competenza di lavorare poi
+[55:04] invece su quell'altro lato
+[55:06] quindi volevo capire un po' qual era
+[55:08] il tipo di modalità con cui di solito
+[55:10] interagite con queste realtà
+[55:12] allora il
+[55:14] centro Hermes che è la
+[55:16] no profit che gestisce Harlem
+[55:18] il progetto global X
+[55:20] nei riguardi di iniziative
+[55:22] soprattutto che operano per finalità di pubblico
+[55:24] interesse
+[55:26] e quello che fa è dare una
+[55:29] non è un'assistenza per eliminare
+[55:31] per la fase di sviluppo del progetto
+[55:33] cioè chiarirsi le idee
+[55:35] e cercare di condividere al massimo
+[55:38] quelle che sono le esperienze che noi
+[55:40] abbiamo maturato con altre iniziative
+[55:42] per valorizzare magari
+[55:45] alcune idee che sono venute da
+[55:47] varie iniziative fatte in giro per il mondo
+[55:49] e soprattutto evitare di rifare
+[55:51] gli stessi errori
+[55:52] nel fare questo lo facciamo diciamo
+[55:54] sia con un'assistenza ongoing
+[55:56] con i progetti da ci si vede
+[55:58] Skype call, ricca e mail
+[56:00] grandi quantità di wall docs
+[56:02] sia con quello che poi
+[56:05] è il supporto più di natura
+[56:07] tecnica e legato al software
+[56:10] quindi la sua personalizzazione
+[56:12] l'aggiunta di feature, modifiche di feature
+[56:14] le sue personalizzazioni
+[56:16] e il training
+[56:18] magari di chi poi gesture operativamente
+[56:20] la piattaforma, io dico il training
+[56:22] di che gestiscia la piattaforma perché
+[56:24] normalmente noi abbiamo un solo vincolo
+[56:26] facciamo tutto, tranne mettere le mani sui server
+[56:28] su cui gira la piattaforma
+[56:30] questo per una separazione
+[56:32] dei profili di rischio in cui non è che noi facciamo
+[56:34] il software, diamo una mano a avviare
+[56:36] l'iniziative whistleblowing
+[56:38] e poi visto che ci stiamo
+[56:40] accediamo anche alle informazioni
+[56:42] delle segnalazioni, ovviamente
+[56:44] a ognuno il suo ruolo
+[56:46] quindi il supporto che viene dato
+[56:48] è proprio quello di
+[56:50] accompagnare
+[56:52] fino all'avvio di una iniziativa
+[56:54] e per noi è estremamente
+[56:56] importante imparare
+[56:58] nel fare questo, perché è proprio un percorso
+[57:00] diverso ogni volta
+[57:02] anche tematiche di carattere organizzativo
+[57:04] perché mettere in piedi
+[57:06] un'iniziativa di tipo multi-stakeholder
+[57:08] in cui devi avere
+[57:10] diversi play tra loro che magari
+[57:12] sul mercato sono anche in concorrenza
+[57:14] ma devi trovare quel giusto tricks
+[57:16] organizzativo, cultural
+[57:18] antani
+[57:20] per poterli
+[57:22] per poterli mettere assieme
+[57:24] ci sono tante esperienze
+[57:26] che noi altri hanno condivise
+[57:28] su questo paio vado a aggiungere
+[57:30] che nel senso
+[57:32] all'interno della mia organizzazione per esempio
+[57:34] non c'è nessuna
+[57:36] nessuna persona che abbia
+[57:38] le minime competenze informatiche
+[57:40] quindi se lo utilizziamo noi
+[57:42] vuol dire che proprio approva di scemo
+[57:44] loro
+[57:46] adesso questo lo dico
+[57:48] perché noi abbiamo fatto il lavoro
+[57:50] l'estate prima
+[57:52] di mettere online la piattaforma
+[57:54] molto interessante perché ci siamo trovati tre giorni
+[57:56] io
+[57:58] il mio staff che poi si occupa
+[58:00] di gestire effettivamente
+[58:02] le segnalazioni che arrivano
+[58:04] Fabio e gli altri
+[58:06] colleghi di GlobalX
+[58:08] abbiamo cercato veramente
+[58:10] brainstorming di capire
+[58:12] cosa ci serve, come ci serve, quando ci serve
+[58:14] perché ci serve
+[58:16] insieme quindi abbiamo
+[58:18] costruito la piattaforma
+[58:20] diciamo noi mettendoci dentro
+[58:22] il contenuto
+[58:24] di cui necessitavamo
+[58:26] loro mettendo tutta la struttura tecnica
+[58:28] ma una volta che poi GlobalX
+[58:30] diciamo
+[58:32] ti rilascia la piattaforma
+[58:34] in questo caso Alac
+[58:36] veramente
+[58:38] se riesci ad utilizzare
+[58:40] un qualsiasi blog
+[58:42] riesci ad utilizzare anche la tua piattaforma
+[58:44] su questo sono un'ambito
+[58:46] una cosa interessante, tre settimane fa
+[58:48] siamo stati nelle Filippine
+[58:50] presto dalla sparenza internazion a Filippine
+[58:52] che sta facendo un progetto
+[58:54] per qualcosa di simile a un'autorità
+[58:56] nazionale di antichorruzione
+[58:58] Filippine e lì per esempio
+[59:00] ci siamo resi conto che il
+[59:02] Knowledge Reuse
+[59:04] sviluppato insieme a
+[59:06] Davide e lo staff di Transparenza
+[59:08] è stato totale e globale
+[59:10] nel senso che noi li abbiamo affiancati
+[59:12] abbiamo condiviso tutta quanto l'esperienza che abbiamo avuto
+[59:14] loro hanno condiviso direttamente con Transparenza
+[59:16] Filippine la struttura dei questionari
+[59:18] siamo stati dall'agenzia pubblica
+[59:20] a fare presentazioni workshop da loro
+[59:22] che sostanzialmente era le esperienze fatte assieme
+[59:24] però tramutate in salsa Filippina
+[59:26] cioè
+[59:28] è un percorso on going
+[59:30] è fissima questa cosa
+[59:34] ci fanno ampi segni di
+[59:36] tagliare quindi
+[59:38] sicuramente avremo modo di
+[59:40] discutere ancora fuori da questa sala
+[59:42] che dobbiamo liberare urgentemente
+[59:44] grazie per la nutrita partecipazione
+[59:52] globalx.org trovate
+[59:54] grosso modo tutto quello di cui abbiamo parlato
+[59:56] e buona ultimo giorno di festival

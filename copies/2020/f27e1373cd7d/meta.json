@@ -1,0 +1,11 @@
+{
+ "source_url": "https://books.google.com/books?id=gkThDwAAQBAJ",
+ "fetched_url": "https://books.google.it/books?id=gkThDwAAQBAJ&redir_esc=y",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 308001,
+ "sha256": "8dbf1b36dffffc62105ab043c5c7b3f167b08bde1384103101acee6460f2fa8e",
+ "name_found": false,
+ "fetched_at": "2026-09-25T12:20:45+00:00"
+}

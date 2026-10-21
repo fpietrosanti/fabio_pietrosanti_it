@@ -397,7 +397,8 @@
   "copy": "local copy",
   "count": "items",
   "none": "Nothing matches.",
-  "wayback": "Web Archive"
+  "wayback": "Web Archive",
+  "drive": "video / audio"
  },
  "communities": [
   [

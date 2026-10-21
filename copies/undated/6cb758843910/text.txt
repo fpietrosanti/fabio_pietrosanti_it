@@ -1,0 +1,315 @@
+Il M5S ha toppato, difendiamo gli hacker etici | Tom's Hardware 
+
+ -->
+
+ -->
+
+ -->
+
+ --> 
+
+ Tom’s hardware 
+
+ Game Division 
+
+ MobileLabs 
+
+ Cultura Pop 
+
+ MotorLabs 
+
+ B2BLABS 
+
+ More 
+
+ forum 
+
+ offerte 
+
+ forum 
+
+ -->
+
+ AMD Ryzen 3000 
+
+ The Division 2 
+
+ Google Stadia 
+
+ Amazon Echo 
+
+ Windows May Update 
+
+ Snapdragon 
+
+ Gamescom 2019 
+
+ 19-24 agosto 2019 
+
+ Tutte le news » 
+
+ 2018-02-07 
+ Tom's Hardware Italia 
+
+ Sicurezza 
+ Il M5S ha toppato, difendiamo gli hacker etici
+
+ di 
+ Valerio Porcu 
+
+ mercoledì 7 febbraio 2018 11:34 
+
+ 4 min 
+
+ vai ai commenti 
+
+ Più informazioni su
+
+ Hacker 
+ Italia Digitale 
+ Sicurezza 
+
+ L'hacker indagato per l'attacco alla piattaforma Rousseau è quello che ha operato un'azione etica mirata a migliorare la sicurezza. L'intervento delle forze dell'ordine dopo una denuncia del M5S, ma l'hacker che aveva sottratto e messo in vendita i dati resta a piede libero. 
+
+ Ieri è stata creata una petizione online ( change.org ) a sostegno di Evariste Galois , hacker che lo scorso agosto violò la piattaforma online del Movimento Cinque Stelle (M5S) con un'operazione di hacking etico. Rilevò alcuni problemi di sicurezza e informò i gestori della piattaforma descritta come "sistema operativo del M5S".
+
+ L'hacker è stato di recente identificato in L. Gubello, ricercatore (studente secondo quanto riportato dal Corriere della Sera) presso l'Università di Padova. Gubello è stato iscritto al registro degli indagati. "È stato fermato l'esecutore materiale ma ora spero vengano individuati al più presto anche i mandanti e gli eventuali finanziatori delle operazioni criminali contro Rousseau, il M5S, e i suoi iscritti", ha dichiarato Davide Casaleggio intervistato dai cronisti di ANSA.
+
+ A onor del vero, al momento non c'è alcun segnale che si sia trattato di un'operazione politica. Piuttosto, l'azione di Gubello ha tutti i tratti di un'ordinaria incursione hacker "etica". Gubello ha esaminato il sito, ha rilevato alcuni problemi di sicurezza e ha avvisato i gestori. Questi ultimi, poi, hanno trascurato o gestito con leggerezza la segnalazione. E hanno denunciato l'autore.
+
+ L'ho fatto per testare la vulnerabilità, non avevo fini o motivazioni politiche. Questa pagina non è un attacco politico. È stata pubblicata solo con l'intento di rendere trasparente e semplice una questione importante: i dati personali di molte persone erano ottenibili a causa di una vulnerabilità presente nel sito. È quindi corretto che le persone vengano a saperlo, essendo quei dati i loro. 
+
+ È inoltre importante sottolineare che Gubello non è Rogue0 , l'altro hacker che invece aveva sottratto dati alla piattaforma Rosseau per poi metterli in vendita . Anzi, Rogue0 non solo resta a piede libero ma stanotte è tornato a colpire la piattaforma: stavolta si è "limitato" a pubblicare i dati personali di Davide Casaleggio, ivi compreso il numero di cellulare. L'azione di Gubello è stata molto diversa, come si può capire dal riassunto di Jacopo Iacoboni.  Agli accadimenti fece poi seguito un'indagine da parte del Garante Privacy , sull'ipotesi che il M5S non tutelasse adeguatamente i dati degli utenti.
+
+ "Riteniamo che Evariste Galois abbia agito in maniera etica e responsabile ", si legge sul sito della petizione" "Sottolineiamo come il comportamento del M5S sia assolutamente irresponsabile e persecutorio, poiché anziché ringraziare pubblicamente l'hacker etico per il suo contributo (come fanno grandi aziende come Facebook e Google quando gli vengono segnalati problemi di sicurezza), lo hanno denunciato".
+
+ La petizione è nata con il sostegno di alcuni tra i più influenti nomi della comunità italiana, tra cui segnaliamo – senza pretesa di completezza – Stefano Zanero (Politecnico di Milano), Stefano Fratepietro ( DEFT Project ), David Puente , Jacopo Iacoboni, Matteo Flora, Riccardo Coluccini, Fabio Pietrosanti (Centro Hermes).  
+
+ "Un po' come se qualcuno mi dicesse hai un problema sul lucchetto di casa , e lui mi denunciasse" ha commentato Matteo Flora di The Fool SRL, che poi aggiunge. "Forse non è stata una grande idea quella di usare un White Hat come capro espiatorio durante la campagna elettorale".
+
+ Tom's Hardware sposa la teoria di questa petizione: un hacker white hat non può essere considerato un colpevole né un criminale. L'operazione di Gubello ha rispettato tutti i dettami dell'hacking etico e non ha creato danni. Anzi, Casaleggio e il M5S dovrebbero ringraziarlo e ritirare la denuncia.
+
+ Aggiornamento : Si potrebbe contestare a Gubello il fatto di non aver preso accordi con i gestori della piattaforma Rosseau, prima di agire. E proprio per questo si è esposto al reato di accesso abusivo a sistema telematico (Art. 615 ter CP). Fatto salvo questo particolare, resta valido quanto esposto sopra. 
+
+ Aggiornamento 8 feb 2018
+
+ Ieri pomeriggio sul Blog delle stelle è stato pubblicato questo post:
+
+ Salve, sono F. P., che ieri ha avviato la petizione come comunità hacker in favore dell’hacker etico Evariste (non di rogue, da cui prendiamo le distanze), che è stato indicato da lei e di maio come “motivato politicamente, finanziato e con un mandante” quando è solo un giovane hacker, un po’ spavaldo, ma di sicuro senza mandanti ne soldi. Mi hanno notificato da social media che è stato violato il sito m5s e i suoi dati online, da lì io suo cellulare su cui le sto scrivendo. Sarei/saremmo interessati se faceste una errata corrige per ringraziare gli hacker etici che mostrano vulnerabilità, in particolare in questo caso il povero evariste, perseguito come un criminale in una vostra lotta politica che non appartiene al mondo dell’hacking. Sarebbe un grande gesto di onestà intellettuale ritirare la denuncia a suo carico. Sono a disposizione per supportare ulteriormente la campagna a favore dell’hacking etico. Saluti
+
+ Buongiorno, 
+
+le rispondo perché credo lei sia in buona fede e apprezzo sempre le persone che si spendono per gli altri. In seguito agli attacchi ricevuti la scorsa estate da più persone, organizzate tra loro o meno, abbiamo presentato una denuncia a tutela degli iscritti. Ad oggi ci sono indagini in corso. Ovviamente le persone che non avranno agito con dolo non saranno perseguite. Come in passato abbiamo ringraziato molte persone che ci hanno aiutato. Se lei ha informazioni esatte sulle attività fatte dalla persona che cita al di là di quelle pubblicate sui giornali o dichiarate dalla persona stessa la invito a condividerle con la polizia postale. Cordiali saluti, 
+
+Davide Casaleggio 
+
+-->
+
+ -->
+
+ -->
+
+ di 
+
+ Valerio Porcu 
+
+ mercoledì 7 febbraio 2018 11:34 
+
+ 4 min 
+
+ vai ai commenti 
+
+ Più informazioni su
+
+ Hacker 
+ Italia Digitale 
+ Sicurezza 
+
+ Scarica gratis 
+
+ l'app di Tom's Hardware
+
+ Vuoi ricevere aggiornamenti sui tuoi topics preferiti ogni giorno?
+
+ Iscriviti alla newsletter 
+
+ Guide all’acquisto
+
+ CPU 
+
+ Scheda Video 
+
+ Scheda Madre 
+
+ RAM 
+
+ PSU 
+
+ Monitor 
+
+ SSD 
+
+ Case 
+
+ PC assemblati 
+
+ Router 
+
+ MacBook 
+
+ Notebook 
+
+ Smartphone 
+
+ Accessori smartphone 
+
+ Mouse Gaming 
+
+ Tastiera Gaming 
+
+ Cuffie Gaming 
+
+ Accessori gaming 
+
+ Copertura Fibra
+
+ -->
+ -->
+
+ -->
+ -->
+
+-->
+
+ -->
+ -->
+
+ -->
+ Leggi anche
+-->
+ -->
+
+-->
+
+ -->
+
+ -->
+ I più letti su Tom's
+-->
+ -->
+
+-->
+
+ -->
+
+ articolo precedente: Bitcoin, i nuovi ricchi fondano una città a Porto Rico 
+
+ prossimo articolo: Fastweb: 13 mln di abitazioni coperte in fibra FTTC o FTTH 
+
+ Home 
+
+ Tom’s hardware 
+
+ Game Division 
+
+ MobileLabs 
+
+ Cultura Pop 
+
+ MotorLabs 
+
+ B2BLABS 
+
+ More 
+
+ forum 
+
+ Tariffe 
+ Offerte 
+
+ Windows May Update 
+
+ Amazon Echo 
+
+ AMD Ryzen 3000 
+
+ Snapdragon 
+
+ Google Stadia 
+
+ The Division 2 
+
+ Privacy 
+
+ Chi siamo 
+
+ Contattaci 
+
+ Feed RSS 
+
+ Iscriviti alla newsletter 
+
+ P.Iva 04146420965
+
+ Testata giornalistica associata all'USPI Unione Stampa Periodica Italiana, registrata presso il Tribunale di Milano, nr. 285 del 9/9/2013, Direttore Responsabile Pino Bruno
+
+ Copyright © 2018 - 3Labs Srl. - Tutti i diritti riservati. - credits: 
+
+ impostazioni privacy 
+
+ post_parent != 0 -->
+
+ -->
+ -->
+
+ 2 
+
+ 0 
+
+ Cinema e Serie TV 
+
+ D23 Expo: in arrivo la serie animata Marvel’s Moon Girl and Devil Dinosaur 
+
+ Disney Channel sta lavorando sulla serie Marvel's Moon Girl and Devil Dinosaur, serie basata sui…
+
+ di
+ Luciana Perrucci - 4 ore fa 
+
+ 2 
+
+ 0 
+
+ Cinema e Serie TV 
+
+ D23 Expo: i poster di Black Widow, WandaVision e The Falcon and the Winter Soldier 
+
+ Diffuse su Twitter le foto dei poster promozionali di Black Widow, WandaVision e The Falcon…
+
+ di
+ Mabelle Sasso - 5 ore fa 
+
+ Tom's Hardware 
+
+ Game division 
+
+ MobileLabs 
+
+ Cultura Pop 
+
+ MotorLabs 
+
+ B2BLabs 
+
+ More 
+
+ Home 
+
+ Le news di oggi 
+
+ Le news di ieri 
+
+ Le news dell'altro ieri 
+
+ Ultime news
+
+ Ultimo video

@@ -1,0 +1,483 @@
+# Trascrizione automatica (faster-whisper small) di original.mp3
+[00:16] Ben tornati questo è il programma di tecnologia di Radio 24 in onda il venerdì tra le 22 e
+[00:25] le 23 domeniche fra le 13 e le 14 io sono Enrico Pagliarini il nostro indirizzo di poste
+[00:30] eletroniche 2024 e tradio 24.it mi trovate anche su facebook oppure su twitter ci sono
+[00:38] anche altre modalità per comunicare con noi ad esempio ci sono quelli che mi contattano
+[00:42] via LinkedIn in ogni caso la modalità che noi preferiamo è quella della poste eletronica
+[00:49] della email dove concentriamo e dove condividiamo tutti i vostri messaggi bene come è sempre iniziamo
+[00:57] con alcune notizie in breve selezionate durante la settimana iniziamo da alcuni dati che ci
+[01:14] raccontano come stanno andando le vendite di smartphone nel mondo secondo i nuovi dati
+[01:19] pubblicati da garner questa settimana nel secondo trimestre dell'anno sono stati venduti più di
+[01:24] 374 milioni di smartphone quindi in un trimestre 3 mesi 374 milioni di smartphone un mercato che
+[01:32] continua a crescere e mentre samsung rimane leader con una quota del 19.3 per cento ma in calo sale
+[01:40] al secondo posto wow away con il 13.3 per cento in aumento apole il terzo produttore con una
+[01:47] quota che sostanzialmente è stabile all 11.9 per cento poi ci sono altri due importanti produttori
+[01:54] cinesi ovvero oppo e xiaomi il resto dei produttori copre il 39 per cento del mercato mondiale
+[02:00] conferma che nel mercato android c'è una grandissima frammentazione una delle sfide
+[02:09] del marketing digitale capire quanta influenza hanno le campagne pubblicitarie online su
+[02:14] internet per gli acquisti offline cioè gli acquisti nei punti vendita fisici e magari mi
+[02:20] informo sul sito di una di una marca di un distributore prevalentemente online e poi
+[02:26] vado a fare l'acquisto su una catena di negozi di un'altra marca allora esistono vari sistemi
+[02:33] più o meno efficaci per tracciare questi comportamenti e molti ovviamente si basano
+[02:38] sulla geolocalizzazione secondo blumberg google avrebbe un accordo segreto con master card per
+[02:45] chiudere il cerchio e sapere che ha comprato e dove e quindi utilizzando i dati di pagamento con carta
+[02:53] di credito dati che servono a google per dimostrare l'efficacia della pubblicità online sulla
+[02:59] rete di esercizi fisici per i momenti questi dati sono disponibili solo ad alcuni
+[03:04] esercenti negli stati uniti e secondo google questi dati sarebbero non puntuali con nome
+[03:10] e con nome dell'utente ma vengono anonymizzati e in corso in questi giorni a berlino li fa che
+[03:21] molti di voi conosceranno è uno delle più importanti fiera al mondo per quanto riguarda
+[03:25] l'elettronica di consumo ci sono molte molte tendenze in attima sostanzialmente molte
+[03:30] conferme e anche molti prodotti presentanti che sono come abbiamo visto anche nelle ultime
+[03:36] fiere un incremento di tecnologia so no novità incrementale quindi nulla di particolarmente
+[03:43] interessante però c'è una tendenza interessante direi una conferma che è quella dei produttori di
+[03:49] tv di puntare ora sull'8k cioè esaurite le cartucce per il 4k si punta su questa
+[03:57] risoluzione ancor più alta samsung ha presentato alcuni prodotti che si spingono fino a 85 pollici
+[04:04] e che fra circa due mesi dovrebbero arrivare anche sul nostro mercato rimane ovviamente da capire a che
+[04:10] cosa serve oggi un tv con questa risoluzione visto che non esistono contenuti a parte le
+[04:16] fotografie ma di questo tema parleremo in una delle prossime puntate di 2024 da segnalare
+[04:21] sempre dall'ifa di berlino e sempre a proposito di tv con questa risoluzione il nuovo televisore che
+[04:28] per il momento non ha una data d'arrivo sul mercato e non ha nemmeno un prezzo ma è un prodotto
+[04:33] sicuramente molto interessante un OLED 8k di LG da 88 pollici. Dalliamo ancora di tv ma non
+[04:45] di prodotti bensì di televisione ad un anno dal lancio negli Stati Uniti è ora disponibile
+[04:51] anche in italia facebook watch il canale televisivo con contenuti di vario genere
+[04:56] anche dal vivo e altamente personalizzabile in base alle preferenze degli utenti facebook punterà
+[05:03] molto sul coinvolgimento degli utenti che possono ovviamente commentare una delle
+[05:09] caratteristiche di facebook durante programmi dal vivo quindi non solo più commenti su
+[05:15] canali televisivi di altri produttori ma direttamente sul canale televisivo di facebook
+[05:23] questo è facebook watch. Un'ultima notizia riguarda apple che si prepara a presentare
+[05:32] nuovi prodotti il 12 settembre e ha confermato in settimana di vera acquistato una startup
+[05:38] chiamata aconia holographics specializzata nella progettazione di lenti perocchiali per
+[05:44] realtà aumentata ovviamente apple compra molte startup a volte ne utilizza la tecnologia a volte
+[05:53] non la utilizza a volte non lo sappiamo nemmeno però questa è una notizia interessante perché
+[05:58] conferma il grande fermento che c'è nel mondo nel settore della realtà aumentata in questa
+[06:26] che è la nostra ultima puntata della versione estiva anche se per la maggior parte
+[06:32] dei nostri puntati anche d'estate ve abbiamo proposto contenuti originali nuovi seguendo
+[06:37] le cronache di questi ultimi mesi per l'ultima puntata vi ripropongo alcune interviste interessanti che
+[06:43] abbiamo realizzato nel corso degli ultimi mesi come quella su hyperloop transportation technology il
+[06:52] fondatore e bpop gresta benvenuto 2024 grazie diciamo subito che cos'è hyperloop il concetto
+[07:01] l'idea poi entriamo pian pianino in questa cosa nuova veramente che io dico rivoluzionare
+[07:07] al trasporto poi vedremo per quale motivo che cos'è dice bene immaginati una capsula piena di
+[07:13] persone la metti dentro un tubo evacui il tubo dall'aria quindi non c'è resistenza e con un
+[07:21] sistema di levitazione la fai praticamente levitare dentro il tubo e poi muovere questa capsule
+[07:28] da punto al punto b ha quasi la velocità del suono utilizzando un decimo della energia necessaria
+[07:35] per muovere un treno quindi un sistema d'altissima velocità 1200 chilometri a loro una roba del
+[07:41] genere ha bassissimo consumo questa è una cosa importante questa è la parte molto importante
+[07:47] da dire perché tutti parlano di questa velocità però la velocità ha costi di quelli che
+[07:56] abbiamo visto fino oggi le costi del concordo la costi dell'alta velocità hanno dei risultati
+[08:03] terribili nel nostro società perché non c'è un treno un metro o un altro sistema che attualmente
+[08:11] fa soldi sono tutti sovenzionati dalle tasse dallo stato hyperloop ha una grandissima
+[08:17] opportunità è quella di riuscire a creare più energia di quella che consuma utilizzando
+[08:24] una combinazione di energie rinnovabili vuol dire che utilizziamo i paneli solari e combiniamo con
+[08:30] l'eolico li aggiungiamo anche il recupero dell'energia cinetica cioè quando muoviamo la capsula
+[08:37] possiamo generare elettricità anche i freni possono generare elettricità si chiamano
+[08:42] geni freni rigenerativi e in alcuni climi dove i paneli solari non sono efficienti usiamo
+[08:49] l'energia geotermica la combinazione di questo può raggiungere fino al 30% in più di energia di
+[08:57] quella che consumiamo e questo non è una cosa che facciamo con tecnologie pazzesche stiamo utilizzando
+[09:05] tecnologie che già esistono piacerebbe dire che siamo inventori tutto in realtà abbiamo
+[09:11] assemblato tecnologie esitenti giusto per ribadire e ricapitolare questa immagine di questo
+[09:19] chiamiamolo tre non giusto perché uno ce l'ha intendo e tu dici non si può dire si chiama hyperloop
+[09:24] ok però è una un tubo un tubo che è largo qualche metro quattro quattro metri e dentro
+[09:31] questo tubo ci sono questi possiamo chiamarli vagoni no non ti piace esatto per dare delle
+[09:37] immagini agli ascoltatori delle capsule dove ci sono i passeggi riseduti si immaginatevi queste
+[09:42] cose con le ruote che a un certo punto decollano di pochi centimetri da il terreno su delle guide
+[09:48] quindi non è che si muovono non può uscire dai binari di ragliare come i treni con protetto
+[09:55] completamente dalle intemperie e ha una pressione che sono da uno e dieci pascal cioè molto
+[10:02] basso però con un sistema che è totalmente sicuro perché utilizziamo le stesse tecnologie
+[10:09] degli aerei senza i rischi dell'aereo che non abbiamo i punti di ruotura degli aerei non abbiamo
+[10:16] l'ambiente esterno ostile come gli aerei tu quando decoli con un aereo tutto quello che ti
+[10:23] circoda cerca di ucciderti non voglio spaventare la pressione a partire la pressione noi
+[10:29] stiamo in un in un sistema di bassa pressione ma il sistema ti protegge perché non ha
+[10:37] attrito è così come nello spazio però la cosa bella è che in qualsiasi momento puoi aprire
+[10:43] le valvole e se a 20 secondi da tornare nel si chiama nel limite amstrong e quindi alla
+[10:50] possibilità di respirare di sicurezza senti tu dicevi non stiamo utilizzando
+[10:57] tecnologie spazial comunque volutissime in effetti questa questa idea esiste già da un po
+[11:05] di tempo ma per quale motivo sono negli ultimi 3 4 5 anni si sta parlando di hyperloop perché voi
+[11:13] siete una delle aziende che sta sviluppando un sistema di questo tipo noi siamo un'azienda
+[11:20] originale quando il onmask il fondatore di space x e n tesla ha pubblicato il white paper
+[11:27] comunicando al mondo che voleva realizzare questo progetto lui ha anche detto che era troppo impegnato
+[11:33] in tesla in space x e ha detto io non lo posso fare ma chiunque vuole raccogliere questa sfida io
+[11:40] sarò molto disponibile a supportarvi e due settimane dopo il mio socio a dr calbor non
+[11:48] brillante impreditore tedesco ha pensato di prendere questo documento e di metterlo in
+[11:54] il nostro sito jumpstart fund che è un sito che per la prima volta al mondo ha proposto di realizzare
+[12:01] progetti innovativi in cambio di stock options di questi progetti se il progetto viene votato
+[12:06] dalla community lo realizziamo questo era il progetto perfetto e quello che è successo
+[12:11] subito dopo è stato magico perché nel poco tempo già nel primo mese circa 100 scienziati
+[12:19] da tutto il mondo hanno iniziato ad aderire quando io ho incontrato il mio socio e mi ha
+[12:23] proposto di fare questa cosa all'inizio ho detto ma tu sei mato perché ma pochettino sì però
+[12:30] beh ma io sono un altro mato quindi siamo perfetti insieme però la cosa che mi ha interusato
+[12:36] sia smato fino all'inizio era questa capacità di innovare anche il concetto di azienda e io l'ho
+[12:42] trovato forse anche più interessante di hyperloop era la prima volta che c'era una proposta di
+[12:48] realizzare un progetto così importante utilizzando le migliori menti del pianeta e quindi abbiamo
+[12:53] io ho lavorato per dare a questa azienda una organizzazione aziendale per trasformarlo
+[13:00] in una vera azienda io nel passato ho fatto costruito il più grosso incubatore italiano
+[13:05] digital magics e poi ho fatto ho partecipato a tre quotazioni in borsa quindi ho fatto
+[13:11] diverse volte dal garage all'ipo e credo che i miei skill sono proprio sulla organizzazione e
+[13:20] quindi dopo un po abbiamo iniziato a crescere in termini di adesioni per lavorare nella
+[13:26] nostra azienda puoi contribuire con la tua knowledge col tuo come si dice con la tua
+[13:31] competenza di conoscenza sì con o con dei soldi o con assets e quello che è successo in cinque
+[13:39] anni dopo la fondazione noi siamo la prima e la più grande azienda abbiamo anche il brand
+[13:45] hyperloop che possediamo in 37 paesi ma la cosa starordinaria come l'abbiamo realizzato
+[13:52] abbiamo meno di 40 dipendenti e 920 scienziati da tutto il mondo abbiamo persone da 42 paesi
+[13:59] persone da nasa space ex tesla boeing aero space lucky martin mht stanford grossissime aziende in
+[14:08] giro per il mondo hanno iniziato a contribuire le inventori delle pompe a vacuum labelled che
+[14:15] hanno costruito pompe che servono per creare il vuoto comunque per creare questa situazione
+[14:19] di bassa pressione bravissimo si aiuto a me appare l'italiano scusate perché tu poi magari
+[14:24] lo diciamo lo subito tu vivi tra duba e los angeles e in altre 40 paesi quindi non parli
+[14:33] spessissimo italiana anche se mi comporto bene si si si guarda molto spesso ospiti che sono
+[14:41] italianissimi stanno sempre in italia che parlano in ambienti effettivamente dove l'inglese
+[14:47] la loro lingua di tutti i giorni e mettono parole in inglese molto più di quelle che
+[14:51] metti super complicato il tuo cervello inizia a fare twist però diciamo che la cosa più
+[14:56] importante di quello che abbiamo realizzato è un progetto che hanno definito la più
+[15:00] grande startup del pianeta a me non mi piace particolarmente questa visione io preferisco
+[15:05] dire che siamo il più grosso progetto che l'umanità ha fatto per mettere insieme
+[15:10] le migliori menti per risolvere uno dei problemi più grandi che è il trasporto
+[15:14] e noi siamo stati pubblicati da arvard business review sono particolarmente orgoglioso perché
+[15:20] da settembre dell'anno scorso c'è un corso ad arvard che insegna noi il nostro progetto e il
+[15:26] modo in cui possiamo mettere insieme le risorse umani per risolvere tutti i problemi del mondo
+[15:31] energia le case e le trasporti tutto può essere risolta abbiamo le tecnologie che se le mettiamo
+[15:40] insieme l'umanità si mette insieme possiamo risolvere tutti i problemi del piano
+[15:44] voi tu hai citato prima questa piattaforma di crowdfunding quindi che raccoglie finanziamenti
+[15:53] donazioni da tutto il mondo crowdsourcing crowdsourcing si mi mi extra crowdsourcing
+[15:59] crowdfunding e potete e questa è un'altra cosa straordinaria potete contare su un budget
+[16:05] importante sì abbiamo raccolto 32 milioni di dollari più 100 milioni in assets e contributions
+[16:14] quindi tutti questi scienziati hanno contribuito per 70 mila ore di engineering e progettazione
+[16:23] quindi siamo potuti passare da un white paper di Elon Musk a costruire il primo in to lose abbiamo
+[16:30] iniziato la realizzazione del primo hyper of della storia dell'umanità in to lose è un
+[16:37] chilometro e quattro luse tolose in francia tolose si tolose e dentro l'aeroporto di
+[16:45] franca salche un ex l'oporto militare dove ci hanno dato non solo la terra per costruire il primo
+[16:50] hyper lo poma anche un palazzo dove stiamo costruendo il primo centro di ricerca mondiale
+[16:56] sul airframing la stessa cosa è successa poi in brasil e quando il governo brasiliano in
+[17:01] un competizione internazionale hanno vinto il centro di ricerca per la logistica hyper loop e
+[17:08] quindi ci hanno contribuito per 26 milioni di re ice in un matching found il governo francese ha
+[17:15] contribuito per 20 milioni di euro in matching found quindi per ogni dollaro che mettiamo
+[17:22] loro mettono un altro dollaro quindi stiamo realizzando un progetto che fa della evoluzione
+[17:31] la propria natura se vuoi sta succedendo quello che è successo quando siamo andati sulla luna
+[17:38] siamo andati sulla luna abbiamo innovato 60 industrie noi nel nostro pippo ne stiamo
+[17:45] innovando 15 e siamo molto contento perché abbiamo scoperto che tante tecnologie che noi
+[17:55] avevamo bisogno erano già là fuori ci serviva solo di avere un progetto appassionante dove questi
+[18:02] scienziati potessero inviarci le loro soluzioni e quali quali sono i principali sviluppi
+[18:10] tecnologici che devono essere portati a compimento per poi realizzare hyper loop e
+[18:14] poterlo far utilizzare le persone ma hyper loop è in costruzione quindi quindi c'è tutto
+[18:19] pronto il modello numero uno in costruzione la capsula arriva settembre in to lose stiamo iniziando
+[18:25] a fare le prime prototyping per la certificazione e lo so la gente non pensa a questo come al
+[18:33] presente pensa sempre al futuro ma io credo che sia molto più presente di tante altre
+[18:39] tecnologie come la self driving car o i droni per i passeggeri noi siamo in una fase molto
+[18:48] avanzata nel progetto abbiamo anche firmato 11 contratti con 11 governi in giro per il mondo e
+[18:54] abbiamo qualche settimana fa ho firmato dopo la sponsor ship che ho ricevuto di
+[19:02] su altezza reale che è personalmente il mio socio si in Abu Dhabi abbiamo realizzato abbiamo
+[19:12] siglato un accordo con al dar la più grande società di costruzione in Abu Dhabi che è
+[19:17] posseduta lo secco per la realizzazione del primo tratto commerciale e quindi siamo proprio in una
+[19:24] fase di rollout che verrà fatto negli emirati si al gadir che è un sviluppo real estate come
+[19:34] si dice di un nuovo quartiere al bordi di Abu Dhabi che è vicino all expo 2020 molto presto
+[19:44] quindi contiamo di avere la prima linea commerciale funzionante per l'expo 2020 quanti chilometri
+[19:50] questa è il primi dieci di una linea molto più lunga che collegherà al gadir all'aeroporto e
+[19:56] alla yas island dove c'è il ferrari park sì sì esatto dove c'è il circuito di yas marina bravissima
+[20:02] la formula 1 si si guarda la formula 1 quindi so che poi sono anche stato a vedere questo circuito
+[20:08] e io vivo lì vicino è molto fascinante molto futuristico e senti ma in 10 chilometri
+[20:15] riesce a raggiungere in 1200 chilometri no riusciamo a raggiungerlo senza passeggeri ma è qua il
+[20:21] concetto non è andare veloce e basta e raggiunge un livello di efficienza che ti permette di essere
+[20:28] profittevole cosa vuol dire se noi vogliamo un sistema che fa cambia lo stato squadre i
+[20:35] sistemi di trasporti abbiamo bisogno di un sistema che non lavora sui consumi come la
+[20:41] benzina e come tutto questo economia dei consumi che avevamo costruito in maniera così
+[20:46] stupida perché il nostro pianeta risorse limitate come fai a creare un economia risorse
+[20:51] limitati non pianeta risorse limitate perché tanti anni fa sembravano illimitate poi ci siamo
+[20:55] accordi che invece oltre che limitate sono anche un problema di inquinamento ambientale
+[21:01] quindi noi ci siamo concentrati proprio su questo come poter realizzare un progetto che
+[21:05] riesce a lavorare sull'abondanza e cos'è più abbondante del sole niente abbiamo un'abondanza
+[21:15] in vari paesi che ci può far raggiungere il 30 per cento di eccesso di energia che significa
+[21:22] un bassissimo costo del biglietto e nella efficienza dei pannelli solari oggi siamo
+[21:31] al 21 per cento anche di efficienza ma il grafico di efficienza sale e il costo scende c'è un livello
+[21:39] di break even in 8-10 anni dove la generazione di energia è talmente efficiente che può ripagare
+[21:47] interamente il costo del viaggio e quindi abbiamo un sistema che può permettere all'umanità di
+[21:55] equilibrare i sistemi di trasporto renderli accessibili a tutti un'umanità che può
+[22:02] ridisignare il modo in cui trasportiamo le passeggeri e merci ricostruendo anche il concetto
+[22:12] di viaggio perché noi ora classifichiamo le persone tramite prima classe e seconda classe
+[22:19] questo è stupido non ha nessun senso noi siamo delle persone diverse quando viaggiamo per esempio
+[22:26] andando a lavorare o tornando da lavoro abbiamo bisogno di cose diverse siamo la stessa persona ma se
+[22:32] sono con mia ragazza o mia moglie o sono col mio partner o con sono con un turista ho bisogno di
+[22:40] cose diverse sono come i figli ho bisogno di cose diverse e quindi stiamo ridisegnando la
+[22:45] esperienza del passeggero basato sulle proprie funzioni e quindi siamo in grado di leggere
+[22:51] il profilo di questo che chiamiamo il passeggero nudo perché non ha bisogno di niente ha bisogno
+[22:57] della sua biometrica quindi del suo volto e può accedere a una serie di servizi disegnati
+[23:05] per lui per quel momento preciso tipo per esempio noi abbiamo un sistema di finestre
+[23:14] avanzate sto traducendo in tempo reale un sistema di finestre avanzate che ci permette di
+[23:22] simulare la definizione dell'occhio umano l'occhio vede se lo definisci in pixel in 120 k però in
+[23:30] realtà già dai 10 k in su noi non distribuiamo se è una finestra o se è uno schermo l'unica
+[23:36] differenza è che se tu guardi fuori dalla finestra quando ti muovi ovviamente la
+[23:41] proporzione delle cose cambia giusto e il modo in cui la prospettiva non la proporzione
+[23:47] sguida grazie e la prospettiva cambia quindi noi abbiamo questa sensazione di reale noi le abbiamo
+[23:53] replicato con un sistema di motion capturing che riesce a ridarti l'esatta prospettiva e quindi ora
+[23:59] dove vuoi andare a certi posso portare non so e poi guarda 1200 chilometri allora diventa un
+[24:05] po complicato esatto quindi puoi guardare fuori dal finestrino la funzione ma anche poi
+[24:11] vedere una versione decelerata oppure puoi guardare il futuro nel passato o vuoi andare a Parigi vuoi
+[24:18] vedere ora stiamo lavorando con una serie di brand per esempio vedere spider man che ti busta
+[24:24] la finestra e ti dice oh vai al cinema e sono vicità e voluta beh sono servizi primi diciamo che
+[24:31] possono anche riequilibrare tutto il discorso dei trasporti perché magari possiamo dare gratis a
+[24:36] tutti il trasporto e solo a quelli premium facciamo pagare questi servizi evoluti dunque
+[24:42] adesso abbiamo una breve pausa rimani con noi riprendiamo tra poco bentornati questo è il
+[24:51] programma di tecnologia di radio 24 stiamo parlando di hyperloop questa nuova tecnologia ci sono
+[24:57] vari aziende che stanno tentando di prima sperimentare progettare costruire e poi realizzare
+[25:06] concretamente delle linee secondo questo nuovo concetto all'interno di questi tubi quasi vuoti
+[25:14] dove l'attrito è molto basso sono sistemi all'evitazione magnetica che possono andare quindi
+[25:21] a velocità molto molto elevate dunque con noi b-pop gresta che uno dei fondatori di hyperloop
+[25:28] transportation technology una di questa società ma come avete sentito detto anche dalla sua voce la
+[25:35] prima vera società che rappresenta il nucleo di sviluppo di questa tecnologia b-pop per realizzare
+[25:43] concretamente un'infrastruttura sul territorio siamo all'Italia in europe insomma in giro per il mondo
+[25:49] ecco come che cosa è necessario trovare noi possiamo utilizzare quello che già esiste questo
+[25:55] è la cosa bella di hyperloop che viene costruito sui piloni e quindi può seguire il tracciato
+[26:00] delle autostrade quindi potreste farlo sull'autostrada del sole da anzi su tutte le
+[26:05] autostrade principali da nord a sud si quasi tutto ovviamente vanno vanno visti caso per caso per
+[26:13] fare le curve come gestite ancora non è questione di andare alla velocità del suono sempre è come
+[26:20] un treno l'importante è che tu acceleri e deceleri abbastanza slow come si dice lentamente
+[26:29] da poter non far percepire al passeggero questa velocità se tu stai sotto un g di accelerazione
+[26:39] e decelerazione e 0.5 laterale non sete praticamente niente è meno di una macchina o di un aereo
+[26:45] certo sarebbe fastidioso a fare delle accelerazioni poco come quando uno va sulle montagne russe
+[26:53] ci sono alcune montagne russe che ti fanno star male perché hanno delle accelerazioni
+[26:57] troppo elevate anche 5 g sì sì sì quindi sempre una questione di quanto acceleri velocemente
+[27:05] quando vedremo il primo pezzo di hyperlop funzionante il primo hyper della storia lo
+[27:11] stiamo costruendo a tuluse un full scale che trasporterà passageri e cargo e freight quindi
+[27:19] la linea commerciale in abu dhabi e prevista per il 2020 quando ci sarà l'expo e tolosa
+[27:28] invece un po prima tolosa iniziamo a far vedere delle cose del 2019 quindi dal prossimo anno
+[27:34] grazie a bbop gresta per essere stato con noi per il lavoro che stai facendo in bocallupo
+[27:39] grazie a presto proseguiamo questa puntata di 2024 parlando di anonimato in rete
+[27:58] anonimato digitale questo è un tema molto importante che affronteremo anche in futuro
+[28:06] in altre puntate di 2024 ne abbiamo parlato con fabbio pietro santi che presidente non
+[28:11] che uno dei fondatori del centro hermes per la trasparenza e diritti umani digitali
+[28:18] l'orgometto molto importante non solo in paesi dove non ci sono i processi democratici che
+[28:27] conosciamo in occidente ma anche nei nostri paesi abbiamo parlato di anonimato online
+[28:33] anonimato digitale partendo e parlando di tor la famosa famosa per molti solo per nome perché
+[28:42] magari molti non la conoscono e non l'hanno mai provata comunque la famosa retta tor l'anonimato
+[28:48] tecnologico è garantito esclusivamente dalla retta tor che di fatto oggi rappresenta la
+[28:54] tecnologia di un animato più utilizzata al mondo parliamo di oltre un milione e mezzo di
+[28:58] utilizzatori ogni giorno che è gestita dal tor progett un'organizzazione statunitense ma
+[29:05] i cui sviluppatori e supporter sono diffusi in tutto il mondo basti pensare che la
+[29:09] infrastruttura di server della retta tor conta oltre sei mila volontari in tutti i singoli
+[29:15] paesi del mondo che mettono a disposizione i propri server per poter garantire il
+[29:20] funzionamento dell'anonimato della retta tor tor è un progetto che nasce con l'esigenza di
+[29:27] fornire l'anonimato nella navigazione su internet quindi questo è il requisito principale della
+[29:32] retta tor ma evolve per superare i filtri censori praticati da molti governi diciamo
+[29:39] diversamente democratici se vogliamo utilizzare un termine e diciamo perché molti paesi dove
+[29:46] non c'è la libertà d'espressione e neanche la tutela dei diritti civili di base praticano
+[29:50] censura internet quindi il blocco dell'accesso a siti internet che tanno informazione indipendente o
+[29:56] che magari fanno contro informazione informazione dell'ambito politico di opposizione al governo
+[30:01] di conseguenza in questi paesi possiamo citarne uno l'arabbia saudita o la cina ad
+[30:05] esempio l'accesso a tutti i siti che vogliono criticare magari anche in modo costruttivo
+[30:12] il governo è bloccato di conseguenza l'unico modo per accedervi è l'utilizzo della retta tor
+[30:16] quindi in questo caso il superamento della censura va di pari passo con l'anonimato perché se
+[30:24] il governo locale venisse a sapere che una certo attivista avvocato giornalista è solito
+[30:31] pubblicare una certa informazione potrebbe avere delle di percussioni chiarissimo senti
+[30:35] la retta tor come si utilizza è una cosa perché alcuni ascoltatori potrebbero pensare
+[30:40] chissà di cosa difficilissima devo essere un esperto di tecnologia si o no usare tor è
+[30:46] estremamente semplice di fatto l'utilizzo principale di tor viene fatto attraverso il
+[30:51] cosiddetto tor browser che non è altro che una applicazione desktop disponibile per windows
+[30:57] linux mac os x anche per dispositivi android e iphone che è a tutti effetti un mozilla
+[31:06] firefox modificato per avere alcune caratteristiche di sicurezza e antitracciamento in più che
+[31:11] integra al suo interno la retta tor quindi oggi voler provare l'utilizzo di tor significa andare
+[31:17] sul sito del tor project scaricare il tor browser e fare doppio clic che trovarsi davanti a sé un
+[31:21] browser che ogni volta che ci si collega alla rete internet a un sito web uscirà da un paese
+[31:28] diverso e ogni 10 minuti cambierà il percorso che attraversa la retta tor quando dico percorso
+[31:34] della retta tor è utile sapere che ogni collegamento che attraversa la retta tor usando il tor browser
+[31:39] effetto un passaggio sempre in 3 server un punto di ingresso un punto di mezzo e un punto di uscita
+[31:46] e ognuno di questi 3 server non sa qual è quello successivo e qual è quello precedente questo è
+[31:51] un metodo con cui è possibile diciamo anche impedire la coercizione di gestori di server tor che
+[31:58] non devono necessariamente essere soggetti fiduciari dell'anno siano d'identità questo
+[32:02] un meccanismo che secondo non non non dico che si esperta però se non segue un po' le notizie di
+[32:08] tecnologia fa fatica a comprendere quindi ma no io voglio e pretendo di sapere che no
+[32:14] tecnologicamente questa cosa nasce in questo modo quindi anche se il magistrato va a scoprire
+[32:20] il primo server non saprà mai qual è sarà il secondo nell'ambito della sicurezza informatica
+[32:27] esiste una area di la criptografia che sono le tecnologie di così detto uso un inglesismo
+[32:33] and to and encryption in cui la cifratura dei dati o delle comunicazioni avviede in modo tale che
+[32:40] qualunque pezzo intermedio tra noi e il destinatario non possa in alcun modo accedere alle
+[32:47] informazioni e quindi anche i tramite si trovano dei responsabilizzati del poter tecnicamente sapere
+[32:53] a quali informazioni sto accedendo e l'arretitor ha questo sistema by design questa tecnologia
+[32:58] veniva utilizzata anche da whatsapp c'è tanto su per fare un esempio whatsapp stessa come anche
+[33:04] adesso skype opzionalmente piuttosto che telegram che telegram offrono la possibilità di fare
+[33:12] chat and to and encrypted quindi criptografate senza che sia possibile per l'intermediale
+[33:18] che gestisco il server accedere alle comunicazioni questo tipo di tecnologie fino a 10 15 anni fa
+[33:24] venivano considerate tecnologie come dire ad appannaggio esclusivo dell'ambito militare o
+[33:30] dell'ambito dell'attivismo molto forte nell'ambito della nell'ambito della tutela di diritti
+[33:37] digitali oggi ci troviamo che abbiamo miliardi di persone che quando usano whatsapp usano
+[33:42] queste tecnologie quindi c'è stato una vera rivoluzione bisogna dare sicuramente merito
+[33:47] anche alle disclosure le diciamo le rilevazioni fatte da idouard snowden sulla sorveglianza massiva
+[33:53] che hanno ispirato tutto il mondo della tecnologia su scala planetaria non che tutto il mondo della
+[33:58] politica che forse forse è necessario avere sistemi di security by design cioè il design della
+[34:05] tecnologia è sicuro esattamente la stessa in isa lente europeo per la sicurezza delle
+[34:10] informazioni nelle sue linee guida dell'anno scorso ha identificato che il privacy by design
+[34:16] cioè l'integrazione di tecnologia di cifratura forte di questo tipo dovrebbe essere alla base di
+[34:21] tutte le tecnologie futura adottate in europea c'è tu senti dentro a tor che cosa ci si trova
+[34:26] non vado su tor per vedere il sole 24 ore punto com innanzitutto posso andare sul sito del sole
+[34:34] 24 ore utilizzando tor perché magari vorrei non far sapere al sito del sole 24 ore il mio
+[34:41] indirizzo di provenienza che potrebbe essere utilizzato per la mia identificazione tuttavia
+[34:46] li può essere un modo scuso se ti interrompo un modo per navigare nella internet tra virgolette
+[34:53] normale senza essere tracciati con cookies che poi vogliono darci la pubblicità profilata
+[35:00] beh molte persone utilizzano tor esattamente per questo e anche per poter fruire di
+[35:05] informazioni neutrali dalla profilazione nel momento in cui vado ad utilizzare un
+[35:10] motore di ricerca come google e questo anche se non sono se non ho acceduto il mio google
+[35:15] account lo sa che quel telefonino quel computer e quell'indirizzo internet è di casa mia perché
+[35:22] in altri modi sarà riuscito a inferirlo e quindi mi presenterà sempre dei risultati che sono
+[35:26] consoni alla mia profilazione seppur non precisa nel momento in cui utilizzo tor la
+[35:31] profilazione viene completamente eliminata e non solo se il indirizzo con cui mi presenterò
+[35:36] su internet ai server di google potrà essere adesso il giappone ricarico la pagina web uscirò
+[35:41] dalla argentina ricarico la pagina web uscirò dal sud africa di conseguenza impedisco e rendo
+[35:47] sostanzialmente impossibile la profilazione della mia navigazione a quel punto le mie ricerche
+[35:51] su internet possono essere del tutto neutrali questo è un elemento importante per chi fa
+[35:56] ricerche vuole eliminare l'effetto profilazione molto interessante certo e poi che cosa ci si
+[36:01] trova beh tor oltre a essere un mezzo di tramite per raggiungere la rete internet ai siti internet
+[36:08] in modo anonimo e superare i filtri di censura anche al suo interno una rete comunemente chiamata
+[36:15] dip web basata sui cosiddetti onion service cioè dei siti internet che esistono e sono
+[36:22] raggiungibili solo ed esclusivamente all'interno dell'arte tor in quest'ambito ci sono molti
+[36:29] siti raggiungibili solo sulla rete tor ne dico uno più famoso fra tutti facebook è raggiungibile
+[36:35] sulla rete tor ma esistono anche molti siti nell'ambito giornalistico negli stati uniti
+[36:42] soprattutto c'è stata una fortissima diffusione sull'utilizzo della rete tor per erogare i
+[36:47] siti web delle testate parliamo del new york times non del giornale di provincia accessibili
+[36:55] direttamente tramite la rete tor oltre a questo troviamo anche molte iniziative per il lui
+[37:00] star blowing quindi molte iniziative che servono per effettuare segnalazioni di atti offatti di
+[37:05] corruzione avendo un una tutela dell'anonimato mutua in cui il segnalante non sa dove si
+[37:15] trova il server tramite cui sta facendo la segnalazione benché magari conosce l'identità
+[37:21] dell'organizzazione che gestisceombi la specifica iniziativa va detto che dentro a tor proprio
+[37:28] perché c'è un animato esiste anche il crimine questo questo è il motivo per cui tor è maggiormente
+[37:35] nota lo cron che pubblicamente ovviamente la storia degli hacker che vengano identificati per una
+[37:42] parte che non so se la maggioranza o la miglioranza però comunque non sono il tutto ovviamente
+[37:48] nel momento in cui ci sono caratteristiche di animato forte anche soggetti criminali tenderanno
+[37:54] ad utilizzarle perché quando voglio non utili non dare alcun meccanismo di fiducia a terzi quindi
+[38:00] le tecnologie diciamo che non possono essere accedute da una terza parte di fiducia ci
+[38:06] saranno anche iniziative di vendita di droga vendita di armi piuttosto che forum con contenuti
+[38:13] sessuali espliciti e questo esiste ma c'è da dire una cosa esiste anche su internet sono
+[38:20] stati fatti degli studi e delle analisi circa tre anni fa su la quantità di siti che vendono
+[38:27] droga su internet la quantità di siti che vendono droga all'interno di tor beh su internet
+[38:31] parliamo di rapporto 10 a 1 è ovvio che fa molto più notizia perché perché il di
+[38:37] web perché è nascosto perché ci sono caratteristiche di animato molto forte quindi essendo
+[38:41] mediaticamente diciamo più notizia più affascinante se ne parla molto di più ma quando parliamo
+[38:48] di dip web o web nascosto in realtà parliamo del web non indicizzato dai motori di ricerca
+[38:55] non necessariamente il la componente di web che si trova all'interno della retta tor le cui
+[39:00] statistiche aggiornate a qualche mese fa vedevano non più di 50 mila siti confronta
+[39:05] in miliardi di siti che troviamo su internet certo senti a cos'altro può servire tor perché
+[39:12] ci sono delle evoluzioni interessanti visto che noi parliamo ed è un tema industriale di
+[39:19] internet degli oggetti ci sono sappiamo benissimo nelle nostre case ma sempre più nelle nostre
+[39:25] città e nelle nostre aziende oggetti che sono connessi alla rete che parlano tra di loro
+[39:31] e in alcuni casi non sappiamo nemmeno quello che si dicono lo sappiamo ma non passano attraverso
+[39:36] l'interazione umana sì questa è un'evoluzione molto interessante e recente dell'utilizzo
+[39:41] della tecnologia tor e della retta tor e di cosiddetti server onion quelli raggiungibili
+[39:46] sulla dentro tor che è l'applicazione dell'internet delle cose questo perché una delle principali
+[39:51] problematiche di cyber security desist dell'internet delle cose riguarda e la sicurezza del
+[39:57] mezzo trasmissivo dei oggetti che ci troviamo in casa con dei server su internet ma anche
+[40:04] l'affidabilità di questi server su internet cioè il collegamento deve essere messo in sicurezza ma si
+[40:10] vuole un problema di centralizzazione cioè se ho 10.000 frigoriferi che si collegano tutti a
+[40:14] un unico server se questo server viene meno l'applicazione mobile che permetterà di vedere
+[40:19] la temperatura del mio frigorifero non funzionerà più la retta tor essendo nata e
+[40:25] cresciuta con dei meccanismi di resilienza anche rispetto ad attacchi governativi è una tipica
+[40:30] rete di tipo peer-to-peer cioè è una rete in cui decentralizzata decentralizzata in cui tutti
+[40:36] i partecipanti hanno un ruolo attivo di conseguenza adottare tor e cosa che sta accadendo nell'ambito
+[40:43] dell'internet delle cose permette di dare sicurezza al mezzo di trasporta autenticazione al
+[40:47] mezzo di trasporta ma soprattutto acquisire quella affidabilità e indipendenza rispetto al usiamo
+[40:53] termine semplice il server che si rompe a riguardo è utile fare un esempio di alcuni capitato
+[40:58] alcuni mesi fa un'azienda che offre una piattaforma di sviluppo per consentire ai
+[41:04] integratori di sistema di creare piattaforma io ti in modo molto veloce è andata fallita e
+[41:10] decine di migliaia di dispositivi prodotti da altre aziende che si sono appoggiate su questa
+[41:16] tecnologia si sono trovati sconnessi perché essendo l'azienda con i server centrali
+[41:20] andata fallita i dispositivi non avevano più il server centrale a cui collegarsi l'utilizzo di
+[41:25] tor all'interno dell'internet delle cose previene questo tipo di rischio certo senti tornando a
+[41:30] al punto dal quale siamo partiti cioè l'utilizzo della tecnologia che garantisceombia non imato per
+[41:37] o temi antichorruzioni di antichorruzione e qui c'è il legame con la scelta di di anac di andare
+[41:45] in questa direzione e poi tutto quello che succede in paesi dove come tu dicevi sono dei problemi più
+[41:52] gravi di democrazia rispetto a quelli che conosciamo nei paesi occidentali ecco ma su questo tema
+[41:58] nei paesi occidentali nei nostri paesi ci sono delle altre applicazioni sulle quali voi state
+[42:07] lavorando come centro Hermes? Beh nell'ambito tecnologico c'è tanta attività fatta per
+[42:14] la trasparenza nella pubblica amministrazione e per la misurazione della sicurezza del web
+[42:19] italiano sono progetti in questo momento in itinere ma c'è in corso ad esempio una mappatura di tutti
+[42:26] i siti della pubblica amministrazione italiana che nascondono la propria sezione amministrazione
+[42:31] trasparente obbligatoria per legge con tutti i contratti consulenti e compenti dirigenti dai
+[42:36] motori di ricerca che è un'azione di opacità per cercare di nascondersi all'adempimento
+[42:41] trasparenza un'altra inizia diventa interessante in itinere che presenteremo nei prossimi mesi è
+[42:46] la mappatura della sicurezza dei siti web per settori verticali cioè la sicurezza https il
+[42:52] cosiddetto lucchetto che permette la protezione tra il browser dell'utente e il server web
+[42:56] del destinatario nei diversi settori l'ambito media l'ambito pubblica amministrazione
+[43:02] l'ambito utilities l'ambito telecomunicazioni che serve per mostrare quali sono gli ambiti di
+[43:08] insicurezza e quindi insicurezza dei dati dei cittadini che fruiscono di quei servizi che potrebbero
+[43:16] essere migliorati se ti ti faccio un'ultima domanda che è legata al al business che gira
+[43:24] attorno alla sicurezza perché voi è vero vi occupate di diritti digitali ma di fatto lavorate
+[43:30] su tecnologie che poi vengono utilizzate anche da azienda professionisti che si occupano di
+[43:36] cyber security no come tu vedi la trasformazione e soprattutto quanto sta crescendo questo questo
+[43:43] business con l'utilizzo di questo tipo di tecnologie beh la legge e l'infrastruttura
+[43:51] normativa va nella direzione di obbligare tutte le aziende pubbliche e private a dotarsi di
+[43:58] sistemi di sicurezza in questo il famoso gdpr regolamento europeo sulla protezione
+[44:03] dei dati porta anche delle pesanti sanzioni fino al 4% del fatturato se non si è applicata la
+[44:09] protezione dei dati questa è la prima volta in cui l'unione europea con un regolamento che è legge
+[44:14] da maggio in tutti i stati membri inizia a fare sul serio questo significa che la sicurezza
+[44:19] informatica non va più considerata come un costo ma come una vera e propria necessità e questo
+[44:25] percorso di trasformazione si sta vedendo non più solo come un aggiunta che faccio al
+[44:32] sistema informativo che già ho ma come una prassia e pratica che deve essere di default che
+[44:38] deve essere implementata fin da subito questo riguarda sia chi produce software e infrastrutture
+[44:43] sia chi si occupa dell'organizzazione aziendale in cui oggi non può più tralasciare quella
+[44:47] scociatura della sicurezza informatica ma deve tenerne considerazione quindi il mondo sta
+[44:52] realmente cambiando pensiamo soltanto alla cifratura dei dispositivi che abbiamo in
+[44:57] tasca dei iphone dei dispositivi android che fino a qualche anno fa potevano essere acquisiti
+[45:04] fisicamente oggi invece hanno tutta una cifradura forte in cui neanche l'fbi è stato in grado di
+[45:09] in grado di accedere diciamo un grande dibattito ma la cyber security oggi è diventata da
+[45:17] semplice business collaterale per chi si vuole proteggere di più a una necessità operativa
+[45:27] di qualunque azienda in qualunque settore non a caso siamo nella società dell'informazione
+[45:31] dobbiamo occuparci della sicurezza delle informazioni stesse adesso che abbiamo argomento vi propongo
+[45:41] una breve chiacchierata che ho fatto con stefano linari fondatore di alle anzia per parlare di
+[45:48] industria 4.0 avere la fine industria 4.0 vuol dire avere dei dati e cominciare a pensare
+[45:55] come usarli quello che l'italiano siccome grazie al come dicevi tu avere tutte queste
+[46:02] tecnologie mutuate dal consumer le arresi anche a costi abortabili l'italiano è bravo a inventarsi
+[46:08] cose da fare no siamo un popolo di inventori adesso abbiamo una co dire cassetta di lego con
+[46:16] cui possiamo giocare inventarsi macchine più nuo più come dire performanti piuttosto che
+[46:21] nuovi servizi intorno e si stanno muovendo cose interessanti dicito un caso di un di un nostro
+[46:28] cliente che fa macchine utenzili veramente di basso valore quando hai una macchina che costa 5
+[46:35] 10 20 mille euro modello del lux sai attira molto anche i consultori di basso tagli questi macchine
+[46:42] sono delle segatrici cioè affette fanno fette di acciaio partendo da cilindri rettangoli
+[46:48] così via e poi le avviano le lavorazioni successive cosa ti vuole inventare su una macchina che esiste
+[46:55] da 100 anni la tecnologia è finita che poco da inventarsi beh questo imprenditore si è inventato
+[47:00] che smesso di venderle segatrici ha smesso di vendere le sigatrici cioè non le fa più sì
+[47:06] dici te è andato a fare il barista no ha aiutizzato passatemi questo brutto neologismo
+[47:11] ah questa non l'avevo quasi mai sentita però è interessante le proprie macchine ha raccolto
+[47:16] le informazioni ha imparato un po come i clienti la usano quanto gli costa per le lame l'olio che
+[47:24] usano per tagliare e lubrificare ha detto sai che c'è non la comprare più pagami per ogni
+[47:28] centimetro quadrato di fetta che fai quindi io so quanto ti costa io in base al materiale che
+[47:35] vuoi tagliare ti do la lama più affilata più giusta per tagliare l'acciaio l'aluminio al
+[47:40] titanio e quindi so quanto durerà quindi so quanto mi costerà per fare n fette e tu mi paghi
+[47:49] perfetta più grande la fetta più costa certo quindi è la segatrice as a service esatto si
+[47:56] è questo è un esempio pratico di che cosa vuol dire trasformare un prodotto che prima
+[48:02] vendevi in servizio sì sì molto interessa e secondo te questa è una è una cosa che
+[48:07] vedremo sempre più spesso sì secondo me è quello che manca non sono i mezzi è la statistica cioè
+[48:17] loro sono partiti prima hanno accumulato i dati perché come fai a determinare il prezzo che
+[48:23] vuole un po d'esperienza il cliente non te l'ha fatta la devi fare da solo certo quando tu
+[48:27] parlavi di internet degli oggetti ci sono varie tipologie di internet degli oggetti cioè io che
+[48:35] nella fabbrica metto dei sensori e ogni macchina diventa un pezzo diventa un oggetto della internet
+[48:42] degli oggetti quindi metto assieme tutti i dati collego le macchine e posso fare la
+[48:47] azienda virtuale oppure raccolgo dati per fare delle elaborazioni per capire se le
+[48:51] macchine si stanno per rompere io faccio la manutenzione pure sostituisco pezzi mille cose
+[48:56] no sì questa è una modalità sì questa è quella che noi c'è noi si può definire
+[49:03] smart factory una fabbrica intelligente però se tu metti al centro la macchina e la guardi
+[49:09] dal punto di vista di chi la costruita per esempio il nostro costruttore consultore di
+[49:13] segatrici per lui la sua macchina il suo bene è uno smart product cioè un prodotto
+[49:19] intelligente qualcosa che quando esce della fabbrica comunque ha un cordone umbilicale che
+[49:24] lo lega se vuoi per gestire veramente l'erogazione di un servizio di taglio ma in casi diciamo
+[49:32] meno sofisticati un aftermarket più pronto piuttosto che una proattività nel risolvere
+[49:40] problemi in caso di garanzia o contratti manutenzione ma non è l'unico modo in cui tu puoi pensare
+[49:46] di usare dati aiutti il terzo che quello più promettente meno capito però ad oggi
+[49:52] è quello degli smart service cioè servizi erogati sui dati generati da una macchina
+[49:59] ipotesi un un torno un robot da colui che né è proprietario né è costruttore e sono
+[50:08] tutti coloro che hanno interessenze con le macchine facciamo una lista che può essere
+[50:12] chi vende l'energia elettrica che l'alimenta chi ne fa le pulizie chi lo ha assicurato
+[50:17] la banca che l'ha finanziato l'azienda che ha in cura la manutenzione l'azienda
+[50:23] che deve curarne per esempio la la conformità a certi norme per esempio i geni che ho quant'altro
+[50:30] ecco se questi signori domani potranno avere una app che prende una parte di dati di quella
+[50:39] macchina per abilitarle a fare un servizio più efficiente pensa a chi non può permettersi
+[50:46] per esempio di fare un vero paper use della propria macchina perché il consumo è
+[50:51] troppo al talenante o fa lavorazioni il cui valore non è correlato all'utilizzo è importante
+[50:58] averla non tanto quanto la banca potrebbe sviluppare un sistema tipo di leasing a tasso indicizzato
+[51:07] col colluso se io so quanto la usi e so che questa macchina fa un lavoro stagionale ho
+[51:14] fatto un impianto che confeziona pelati a dicembre sta spento quindi pomodori si pomodori
+[51:21] pelati no le persone non si sacchietano potresti pensare avendo l'interesse comunque a condividere
+[51:31] i tuoi dati di produzione con una banca che è un è limite da superare concettuale bene io se
+[51:37] la uso 0 ore al giorno pago 5 euro se 5 per cento diciamo una scala arbitraria se la uso 8 ore
+[51:47] pagherò 10 se la uso 24 ore su 24 pagherò 30 questo vuol dire che alla fine dell'anno magari
+[51:53] paghi anche di più di averlo pagato uniforme però venendo incontro ai flussi finanziari dell'azienda
+[52:00] l'impeditore è più disponibile investire nel momento in cui vende ai soldi e quindi il scoso
+[52:08] del denaro come dire se indicizza con la sua scena scenario molto interessante anche perché
+[52:17] questo scenario apre il grande dibattito sul sulla proprietà del dato di chi sono i dati e quanta
+[52:25] condivisione posso fare con i miei dati molto interessante torneremo ovviamente su questo
+[52:32] tema queste 2024 concludiamo questa puntata io sono Enrico Pagliarini come sempre grazie
+[52:37] per la vostra attenzione appuntamento alla prossima settimana

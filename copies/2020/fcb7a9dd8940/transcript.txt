@@ -1,0 +1,599 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:03] Buonasera, buonasera a tutti, benvenuti a questo che è il 25esimo appuntamento dei Copernicani. Nell'occasione io,
+[00:14] che sono Carlo Piana, che sono un socio dei Copernicani, ho il privilegio di
+[00:18] introdurre questa serata sul riconoscimento facciale e ho il piacere di avere i nostri
+[00:27] ospiti che introduco subito, sono Paolo Ciro che è un artista, fotografo attivista dei
+[00:37] diretti digitali e che ha dato spunto a questo incontro con una sua opera o installazione o
+[00:47] ottidità o poi ci spiegherà lui cos'è in tema di appunto riconoscimento facciale e di
+[00:55] acquisizione di massa, di fotografie e ha fatto questa operazione che ha suscitato un grande
+[01:04] clamore in Francia che ha messo alla Berlina il problema del fatto che non è vero che nessuno di
+[01:15] noi ha niente da nascondere perché ha ripreso i tramiti software di riconoscimento facciale e
+[01:22] riconosciuto numerosi agenti della pubblica sicurezza e ha anche fatto un'installazione proprio
+[01:28] di fotografie che espongono queste persone facendo vedere dall'altra parte della telecamera in cui
+[01:38] i riprendenti diventano ripresi che ci sono delle situazioni in cui essere ripresi ed essere
+[01:47] esposte a questo sistema di sorveglianza in cui i nostri fatti vengono raccolti è un problema
+[01:55] soprattutto quando non si tratta semplicemente di una raccolta ma di un sistema che prende decisioni
+[02:03] in Daga si fa un po' i fatti nostri. L'altro ospite che è un copernicano della prima ora
+[02:11] Fabio Pietro Santi detto Knife che anche lui è un artista anche sui sottodiverse spoglie e è un
+[02:21] attivista sicuramente anche lui dei diritti digitali presidente di Hermes Center che è a parte
+[02:28] che è un mio cliente è un personale amico ma con cui recentemente abbiamo fatto una bella
+[02:36] azione per chi è interessato di compliance dei diritti del software su un'applicazione che è molto
+[02:48] importante per la legalità che è GlobalX è un'applicazione web per il cosiddetto whistleblowing
+[02:58] ovvero la possibilità per gli appartenenti o un'organizzazione di segnalare senza temere
+[03:06] ritorzioni da parte dei segnalati e segnalare eventuali i legalità all'interno della propria
+[03:13] organizzazione. Questa sera come abbiamo anticipato parliamo appunto di riconoscimento facciale,
+[03:22] intelligenza artificiale applicata alla sorveglianza di massa e ai rischi e alla
+[03:32] necessità di prevenire e di agire per prevenire questa sorveglianza di massa.
+[03:41] Presento anche me stesso io sono Carlo Piana, sono un avvocato e anche io sono un attivista per
+[03:51] i diritti digitali anche se muovo da altre premesse software libero ho detto anche open
+[03:58] source, antitrust e professionale perché tutti dobbiamo amcampari di privacy e che
+[04:07] quindi sono elementi, sono argomenti che secondo me sono affini e interessanti comunque sono
+[04:15] decisamente interessato a tutti gli elementi dell'intelligenza artificiale soprattutto quando
+[04:23] è una macchina degli algoritmi, persone che non sono confrontabili con cui non ci si può
+[04:29] confrontare a prendere decisioni sulla nostra vita e che impattano sui nostri diritti. Poi nel
+[04:38] corso della serata faremo alcuni esempi in cui questa bellissima cosa tecnologica in realtà va
+[04:45] a buon fine, si va a cattivo fine e in cui insomma non si sa con chi prendersi. Passo subito la parola
+[04:57] a Paolo che introdurrà meglio quanto abbia fatto io in questa breve esposizione iniziale come
+[05:06] è nata la sua opera, perché è nata la sua opera e cosa gli è successo? Questa ha fatto
+[05:12] decisamente molto rumore nel territorio transalpino e ha sotticitato scuotimenti ben in alto della
+[05:23] girarchia politica e amministrativa dei nostri gulgini, oltre altre Paolo se vuoi dare due parole.
+[05:32] Grazie, grazie per l'invito, grazie per l'introduzione, sono Paolo Cirio, sono diciamo
+[05:41] ufficialmente artista però mi occupo di diritti della privacy da diversi anni. Al punto quale che
+[05:52] ho quasi parlo di Regulatori Art, a un certo punto uno dei miei primissimi progetti sul riconoscimento
+[06:00] facciale e di dieci anni fa riguardava Facebook e anche quello ho generato molto
+[06:07] clamore. All'epoca il riconoscimento facciale era una cosa molto difficile da utilizzare anche
+[06:15] tecnici e nessuno veramente conosceva cosa avrebbe portato. Quello ha anche stato un progetto
+[06:24] che ha portato molto, molto clamore e dieci anni dopo mi ritrovo qui a realizzare un nuovo
+[06:30] progetto sul riconoscimento facciale, quando ormai è diventato molto facile usarlo, è molto
+[06:38] diffuso e tuttavia posso ancora creare clamore, posso anche parlare finalmente della possibilità
+[06:50] di regolamentare il riconoscimento facciale o addirittura prohibirlo completamente che è
+[06:57] la mia proposta. Spiegando come questo progetto in particolare è finanziato, sono stato invitato
+[07:03] in questa università francese vicino all'Ile, si chiama Franois a Cittadine, come professore per
+[07:13] alcuni studenti per un master in università pubblica e nell'invito c'era anche la possibilità
+[07:21] di creare un nuovo progetto finanziato dall'università francese e per qui non mi ha nato
+[07:30] molto tempo per pensare a una nuova idea, ho fatto un po' di ricerca e ho scoperto che in Francia
+[07:37] c'era già l'utilizzo del riconoscimento facciale, in più c'era addirittura un progetto per
+[07:47] utilizzare riconoscimento facciale su tutti i cittadini francesi con praticamente una carte
+[07:54] di identità digitale che Macron suggeriva, per cui c'era già questo progetto, questo mi ha
+[08:00] stupito molto perché conoscendo un minimo regolamentazione di privacy in Europa ma anche in
+[08:08] generale nel mondo mi faceva molto molto strano che in Francia questo poteva succedere perché
+[08:17] era già in atto e in più c'era addirittura questo progetto folle di propriamente prendere i dati
+[08:24] biometrici di tutte i cittadini francesi per cui continuatelo a cercare, chiaramente cercare perché
+[08:30] in Europa in Francia l'iconoscimento facciale non era proibito, non era regolamentato e ho scoperto
+[08:41] che l'Unione Europea, la Commissione Europea era molto, non tanto lenta perché in realtà i dibattiti
+[08:48] stavano venendo anzi molto più bellissimi in altri paesi nel mondo però c'era qualcosa che
+[08:56] bloccava la possibilità di veramente regolamentare questo. Infatti c'era una proposta già in atto per
+[09:04] proibire per cinque anni l'uso del riconoscimento facciale in tutta Europa, questa doveva essere una
+[09:12] proposta doveva passare all'inizio di quest'anno e quanto pare non è riuscita a passare proprio
+[09:21] perché la polizia e i ministri degli interni dei vari paesi membri dell'Europa ritengono, ritenevano
+[09:30] che invece l'utilizzo del riconoscimento facciale possa potesse migliorare la sicurezza nazionale
+[09:38] fondamentalmente e questo poi diventato evidente quando cercavo e notato che anche in Germania
+[09:43] e lo stesso ministro dell'interno ha cominciato un programma per inserire telecamere e un sistema
+[09:53] di riconoscimento facciare in tutte le stazioni delle Germaglie, principali in stazioni delle
+[09:57] Germaglie, questo mi è subito ancora e più, però diventava molto chiaro che la forza di lobby
+[10:03] per mantenere possibile l'utilizzo del riconoscimento facciale in Europa venia proprio della
+[10:08] polizia e magari i monti non si stupiranno, però è interessante che veniva proprio dal
+[10:15] ministro dell'interno, dunque il ministro dell'interno può andare al Parlamento, può fare comunque
+[10:19] l'opio e influenzo del Parlamento europeo e bloccare questi tipi di incrementazioni e questo è
+[10:25] abbastanza chiave. In ogni caso ho continuato a cercare di cercare e nello suo tempo in Francia
+[10:33] un anno fa c'erano ancora molte manifestazioni dei giubbetti gialli, possiamo tradurre, e per cui
+[10:42] c'era molta violenza della polizia e la città di i francesi sentivano molto questo conflitto e si
+[10:51] notava anche che i poliziotti negli anni francesi, ma non sono francesi, si coprono sempre di più
+[10:58] viso, al punto quale che ormai nelle manifestazioni i poliziotti vengono a banno a volto coperto e
+[11:07] questo chiaramente dimostra come ci sia un sbilanciamento di potere o comunque sia di
+[11:14] trasparenza in un certo senso, per cui i cittadini possono essere sorvegliati, riconosciuti in modo
+[11:22] massivo mentre i poliziotti quando scendono in piazza si coprono completamente il viso e non si
+[11:29] fanno riconoscere. Questo è diventato un fulcro di questo progetto in cui è stato pubblicato
+[11:39] in realtà solo due trascittimane fa molto recentemente che si chiama capture, capture come
+[11:46] capture della macchina fotografica, ma anche capture di come i poliziotti utilizzano
+[11:52] facial recognition per appunto prendere qualcuno in certo senso. Il progetto consiste diciamo in
+[12:02] due fasi, una è la proposta di una diciamo di una proibizione del riconosciuto facciale
+[12:11] a livello legale per cui ho continuato a ricercare e ho creato delle partnership con altre
+[12:17] organizzazioni tipo la quadra Tour du Net che in Francia è molto forte e altri avvocati vari
+[12:25] internazionali che mi hanno dovuto scrivere questa peticione per cui il progetto è anche
+[12:32] una peticione dove ci sono quasi ormai 20.000 firme per bloccare il riconosciuto facciale in
+[12:43] Europa e poi per diciamo promuovere questa campagna ho utilizzato questa provocazione
+[12:49] artistica molto diretta e per cui ho raccolto mille fotografie pubbliche, fotografie di
+[13:00] manifestazioni fondamentalmente in Francia negli ultimi 4-5 anni. Questo semplicemente cercando su
+[13:07] Google parole chiavi tipo manifestazione, parigi, giubbetti gialli oppure show però generale
+[13:15] in Francia parigi e poi anche raccogliendo fotografie direttamente da fotografie che
+[13:21] vanno alle manifestazioni per cui giornalissimi ma anche persone comuni. Bisogna capire,
+[13:28] bisogna comunque far capire che queste erano venti pubblici nel senso comunque prendere
+[13:32] fotografie un avvento pubblico non è un'invasione in privacy diretta anzi semplicemente chiamato
+[13:37] giornalismo fotografico se si vuole o anche street photography un ambito un più più artistico.
+[13:43] Poi ho utilizzato queste foto con questo grande archivio di mille foto,
+[13:49] l'ho processato con il riconoscimento facciale e questo ha prodotto 4.000 fotografie facce di
+[13:59] poliziotti chiaramente dovuto fare un lavoro manuale togliendo le fotografie dove c'erano
+[14:06] delle persone che protestavano cittadini e il database di queste 4.000 fotografie l'ho
+[14:13] caricato su un sito pluralizzato che si chiamava capturepolice ossia capturepolice.com ossia
+[14:21] diciamo prendere i poliziotti o riconoscere i poliziotti e in questo sito ognuno poteva
+[14:28] scrivere il nome identificare in un poliziotto questo è stata una provocazione esplosiva
+[14:38] per la polizia francese che ha reagito quasi iniziatamente partendo dai sindacati
+[14:46] sindacati della polizia francese sono molto forti molto potenti e successivamente la notizia
+[14:53] deve essere arrivata direttamente al ministro dell'interno della Francia d'Arminine che ha
+[15:01] subito reagito nell'arco addirittura di 6 ore dal lancio del progetto ma facendo un tweet in cui
+[15:10] mi accusava a me personalmente come artista di com'è di mettere a rischio la vita addirittura
+[15:16] dei poliziotti francesi e mi assolutamente mi minacciava legalmente di prenderazione
+[15:26] contro di me se non farmavo questo sito e poi anche mi minacci direttamente a questa università
+[15:33] francese chiedendo che la mia opera che il mio progetto non venisse presentato questo purtroppo è
+[15:40] successo l'università francese non ha avuto il coraggio di confrontare questa minaccia e ha
+[15:48] veramente rimosso l'installazione artistica dalla nostra assurdo però per una quasi una
+[15:59] combinazione il ministro interno francese era della stacità dell'università ed era anche
+[16:07] all'interno era anche un vice presidente di questa università per cui la connessione era molto
+[16:12] vicina ha dovuto assolutamente reagire assolutamente dovuto pittare l'università non ha avuto scelta
+[16:18] perché se non in vista pubblica rischiava di perdere fondi se si metteva contro il nuovo
+[16:25] governo di macron e ma senza in realtà veramente capire che quello che stavo facendo era una
+[16:32] pura provocazione prima di tutto e anche se nel comunicato stampa ripetevo che quello che
+[16:39] facevano la provocazione anche per proteggere la polizia semplicemente dicendo che il ricrocento
+[16:46] pacciaio è talmente pericoloso che può mettere in pericolo anche i poliziotti stessi che ne
+[16:50] vorrebbero farne uso questo questa questa informazione non è passata si sono semplicemente
+[16:57] spaventati a tal punto che non ho voluto assolutamente sentire nessun tipo di giustificazione
+[17:02] di scosso riguardo questa questione qua è importante anche definire quello quello che
+[17:10] realmente è realizzato con questo con questo progetto anche perché secondo me spiega un attimo
+[17:16] come il ricrocento facciare funziona dopo tutto perché in questo caso per esempio io non ho
+[17:21] raccolto i dati biometrici ho usato degli algoritmi solo per identificare i visi e non ho raccolto
+[17:30] i dati biometrici però ho creato la possibilità di avere un database dove venivano correlate le
+[17:38] fotografie l'immagine di questi visi ad i dati personali anche solo un nome comune però questi
+[17:46] dati non venivano racconti non venivano veramente verificati per cui fondamentalmente la mia
+[17:51] provocazione è come se fosse stata ritagliare fotografie da un giorno un anno in modo
+[17:58] automatico fotografi di poliziotti puoi fare un collage sul muro e questa è stata l'installazione
+[18:05] che hanno censurato in questa università perché l'installazione artistica era composta solo
+[18:11] di fotografie e divisi di poliziotti senza nessun nome nessuna data nessuna correlazione però
+[18:17] la paura che questo potesse succedere già ha fatto in modo che viniste censurato completamente
+[18:27] ecco Paolo grazie per questa prima introduzione al tuo lavoro è molto interessante ed è soprattutto
+[18:33] molto interessante il fatto che abbiamo una rappresentazione plastica dal punto di vista
+[18:40] dei poliziotti appunto di come i dati che sono comunque pubblici sono pericolosi perché le
+[18:47] parole che hanno usato non sono sbagliate posso metterli di schio l'incolonità di queste
+[18:55] persone ma questo vale non solo per i poliziotti cioè noi per noi è facile ma si probabilmente
+[19:01] in poliziotti se non abbiamo avuto esperienze particolari da prima linea nella nostra gioventù
+[19:07] è abbastanza facile rispecchiarci nelle forze dell'ordine ma siamo tutti nella stessa nella
+[19:14] stessa barca sono tutti in una stessa situazione di dover temere che questo strumento potente
+[19:21] possa essere utilizzato male e il problema non è soltanto quando il riconoscimento facciale ad
+[19:29] esempio non funziona e ci scambia abbiamo dei farsi positivi un sacco di esempi di installazioni in
+[19:37] cui le persone vengono riprese riconosciuti facilmente fermate per una futura identificazione e
+[19:44] nella maggior parte dei casi di rilasciata c'è un'applicazione anche temporanea dalla propria
+[19:48] libertà in alcuni casi nel quale avevamo nella preparazione questo appuntamento con con Fabio ci
+[19:56] sono delle situazioni ben più pericolose in cui dei farsi positivi hanno causato la morte di una
+[20:03] persona che non si ridice circostanzi sorortunati ma in genere come si dice il fatto che esista
+[20:12] un potere così grande una raccolta così grande di dati e una capacità di elaborazione così
+[20:18] grande di dati comporta un potere e come diciamo un famoso adagio power corrupts absolutely
+[20:29] il potere corrompe il potere assoluto corrompe assolutamente quindi il fatto di dare questo
+[20:36] tipo di potere ha le forze dell'ordine eccetera crea una situazione potenziale pericolo che
+[20:45] deve essere prevenuta se non sappiamo come come affrontarla e deve essere anche fronteggiata
+[20:54] bilanciata da dei controlli che siano indipendenti ecco questo mi dà l'aspetto per sentire un
+[21:01] attimo Fabio se ha dei commenti su quello che abbiamo scelto finora e si porta la sua
+[21:08] la sua visione dal da cultura di diritti e delle libertà individuali dello spazio informatico
+[21:20] grazie carlo grazie paolo allora io come contributo credo di voler dare qualche
+[21:29] elemento che le volte non è chiaro e che mi trovo spesso e volentieri a ripetere ripostruire
+[21:35] più volte quando parliamo di riconoscimento facciale che di identificazione stiamo parlando
+[21:42] di un dato biometrico ne più nemmeno che il nostro DNA nemmeno che impronta della nostra
+[21:50] idea o della nostra impronta di nostro vita quindi stiamo parlando di un dato che inserì
+[21:54] è molto sensibile oggi però i vittimi dei social network i vittimi degli smartphone
+[21:59] moderni troviamo questa caratteristica molto conveniente molto una funzionalità molto
+[22:05] interessante allora le volte nel porzi ai vari estremi bisogna dire qual è l'uso che può
+[22:14] essere positivo e qual è l'uso che può essere negativo è ovvio che se devo riorganizzare il
+[22:19] mio buc fotografico e la mia applicazione testo di organizzazione delle foto riconosce le
+[22:24] foto mi propone di clasterizzarle per metterci meno tempo organizzarmi va beh è una funzionalità
+[22:30] di machine learning di computer vision che viene applicata da me e me nella gestione del mio archivio
+[22:35] è completamente diverso e qui secondo me vorrei riportare a un esempio di quella che è stata
+[22:43] una ricerca fatta da riccardo colluccini il nostro centro Hermes con delle richieste foie
+[22:49] poi richiesta giornalistica prendendo l'esempio di cosa abbiamo in italia in italia esiste
+[22:54] il sistema sari sistema di automatici di conoscimento immagino il nome di grande ansia questo
+[23:03] sistema sari in dotazione al ministero dell'interno esiste in due versioni una versione che potremmo
+[23:11] quasi considerare legittima ma discutiamo della base legale di che cosa c'è dentro cioè quello
+[23:16] che serve dato un sospetto e data una base dati di persone con precedenti e anche nella
+[23:21] collaborazione internazionale nell'ambio del terrorismo e dire questa faccia di cui ho una base
+[23:27] legale per chiedere se effettivamente esiste nell'archivio esiste nell'archivio e in quel caso
+[23:33] ho un processamento che è abbastanza ben codificato in un interi investito e di cui viene uno di
+[23:40] tinghe quindi ho magari un una persona sospetta di cui ho già fatto un fermo ho un database di
+[23:46] persone che hanno già seguito un interp di giustizia e possiamo discutere qual è il giusto livello
+[23:52] di compromesso tra sicurezza e libertà e ne vado a fare una verifica e questo prodotto
+[23:57] comprato dal ministero dell'interno di cui ci sono tutti i documenti online perché il capitolato
+[24:02] tecnico è stato poi pubblicato grazie alle richieste foia fatta da Coluccini si chiama sari
+[24:08] enterprise va bene o uno dice va bene è una funzionalità in dotazione alle forze di
+[24:14] polizia ma sari è stato fatto anche in una versione real time cioè quello che noi a cui in realtà
+[24:21] facciamo maggiormente riferimento quando parliamo di questi temi cioè una edizione del sistema che è
+[24:27] in grado di ricevere dei flussi video in tempo reale e scandaiare il database frame per frame da
+[24:33] tutti i singoli flussi video sono due cose completamente diverse in un caso ho due basi
+[24:39] dati biometriche di cui magari sono stato legittimato alla sua acquisizione conservazione
+[24:46] successiva comparazione nel caso in cui invece ho un sistema di videocamere che sorveglia un'area
+[24:53] una strada una piazza una stazione un luogo chiuso chi che sia e lo vado vado a comparare i
+[24:59] singoli frame le singole immagini catturate delle camere e come se stessi facendo il
+[25:04] preliore del sangue l'analisi del DNA a tutte le persone che passano senza neanche chiederevo quindi
+[25:10] è qui su questo questo tipo di fatti specie su cui in particolar modo bisogna soffermarsi
+[25:17] la fatti spettiva e in grado di utilizzo delle tecnologie di riconoscimento facciale e di
+[25:25] identificazione biometrica facciale queste sono diciamo le tecnologie che sono maggiormente
+[25:32] invasive da cui ci dobbiamo tutelare e su cui ci sono le tantissime iniziative sia diciamo di tutela
+[25:41] dal lato attivistico secondo me un paio interessanti che devono essere anche note degli anni precedenti
+[25:48] non tutti sanno che in Italia dal 2009 bravo hacker veneto e pto avviato un progetto che si
+[25:58] chiama un opticon un opticon un opticon un opticon punto org che ovviamente si rifa al panopticon e fa
+[26:04] la mappatura delle telecamere di venezia per consentire eventualmente di sviare i percorsi in
+[26:10] cui sono le telecamere o nel 2016 è stato presentato un progetto molto interessante si
+[26:15] chiama computer vision da sol che prende tecniche di makeup i tecniche di trucco
+[26:24] sia di diciamo di taglio di capelli che di trucco pensate per riuscire a ingannare gli algoritmi
+[26:29] di riconoscimento facciale quindi c'è poi un bel movimento diciamo di cui l'iniziativa di
+[26:36] paulo è una forte però che è provocatoria e quindi riesce a stimolare il dibattio nel
+[26:41] contrastare e nel tutelarci da questo tipo di diciamo di problematiche non ultimo se posso
+[26:51] aggiungere quella che è un'esperienza abbastanza recente perché ha visto anche un intervento del
+[26:56] garante proprio quest'anno quello che è successo al comune di comu cosa che è arrivata fin in
+[27:03] parlamento e intervento la parte del garante il comune di comu si è presentata l'azienda A2A
+[27:10] smart city che fa le soluzioni di smart city in partnership con Huawei ha detto potremmo
+[27:15] riutilizzare i pali della luce perché questo fa parte delle soluzioni di smart city per introdurre
+[27:21] un sistema anche di sicurezza e disorveglianza uno potrebbe essere d'accordo non d'accordo sta
+[27:26] di fatto che il stato proposto è stato accettato assolutamente di buon grado l'addozione di un
+[27:33] sistema di telecambre con riconoscimento facciale di Huawei questo è stato scoperto da
+[27:40] un'inchiesta fatta da Laura Carrere Riccardo Colcini e Filippi Salvo che quando ha avuto un
+[27:46] outcam mediato tra l'altro ha utilizzato lo strumento del foia e è è doveroso dire che è
+[27:51] stato uno dei casi in cui lo strumento del foia l'accesso civico generalizzato ha funzionato
+[27:56] particolarmente bene perché diciamo i giornalisti attivisti sono riusciti ad avere anche copia
+[28:01] delle email scambiate tra l'amministrazione comunale e i tecnici Huawei A2A smart city
+[28:06] ma in buona sostanza hanno attivato un sistema di riconoscimento facciale per basivo all'interno
+[28:14] della città senza avere alcuna base legale e senza avere alcun tipo di base legale è risultato
+[28:19] il provvedimento il garante gli ha detto spegnete questo sistema quindi ci troviamo anche in una
+[28:24] situazione in cui quelle che sono delle iniziative che potrebbero essere interessanti per esempio
+[28:31] le smart city coniucate magari ha desigenze di sicurezza siccome c'è una feature del prodotto da
+[28:36] quello che può essere una esigenza particolare magari di video sorveglianza di una strada sensibile
+[28:42] che potrebbe essere legittima ma con una data retention decisamente estreta provuale la
+[28:51] proporzionalità so caso tutto siccome il prodotto ha una feature che è figata questa face recognition
+[28:57] aspetta che anciamola a un paio di database a quel punto si crea un vero proprio panottimo io ricordo
+[29:03] ulteriormente quello che è l'effetto il chilling effect cioè del avere i sistemi di
+[29:09] sorveglianza pervasivi è uno degli effetti veri di limitazione delle nostre libertà
+[29:14] individuali nel momento in cui c'è un sistema di video sorveglianza abbastanza
+[29:19] pervasiva per di più con la notorietà che è interconnesso a sistemi intelligenti è ovvio
+[29:24] io limiterò le mie azioni mi starò limitando quello che fare come voglio esprimermi e quello
+[29:33] che voglio dire è una forma diretta di limitazione delle nostre libertà civili però il caso di
+[29:38] comodo è veramente importante perché nell'autonomia dell'amministrazione locale si insidiano tanti
+[29:44] casi di tecnologia di questo tipo che fino a qualche anno fa diciamo un cinque anni fa
+[29:51] riconoscimento facciale tempo reale ad alta risoluzione era comunque una cosa un po' sofisticata
+[29:58] oggi dei prodotti di categoria prosumer cioè oggetti da 60 100 euro hanno questo tipo di
+[30:06] caratteristiche per cui la loro diffusione la loro proliferazione se vogliamo riferirci
+[30:12] a questi come delle cose che devono essere regolamentate e ormai è a macchia di lopardo
+[30:18] c'è una canzia macchia d'olio e nei consegni di regolamentazione in questo dice bene paulo al
+[30:28] fatto che se c'è stato in passato un orientamento comunitario per guardare una moratoria del
+[30:34] riconoscimento facciale abbiamo poi visto invece inizia a dire come il prum database biometrico
+[30:40] europeo ha detto ma magari tra gli stati membri potremmo iniziare a condividere meglio
+[30:45] anche anche i volti per cui ci troviamo è ovviamente in democrazia quindi possiamo
+[30:51] trovarci tutto il mondo più vicino all'esigenza investigaire dell'euro polla che si contrappone
+[30:56] alle visioni più progressiste di quelle della comunità della comunità della Commissione
+[31:01] europea da questo punto di vista i garanti fanno quello che possono è fondamentale fare
+[31:12] informazione è fondamentale fare azione divulgazione di attivismo per raggiungere quell'obiettivo
+[31:18] cioè l'obiettivo della moratoria di questo tipo di questo tipo di soluzioni io ricordo
+[31:23] parlando dell'ordinamento nazionale e qui faccio il giudista della domenica pomeriggio
+[31:27] perché appocato non sono il giudista anche meno che in italia installare una telecamera
+[31:35] al pubblico o installare anche una telecamera all'interno dei locali lavoro è fortemente
+[31:39] deregolamentato cioè il devo se devo mantenere la data retention dei dati delle telecamere
+[31:45] di sorveglianze esterne deve essere un'unicata alla costura e deve essere assolutamente limitata
+[31:53] nel tempo si parla mi pare qui potrei dire gastronarie 24 48 ore normalmente si può arrivare fino
+[31:58] a 30 ore con comunicazione alla costura quindi siamo in un contesto che è già molto
+[32:03] tutelante parlo dell'italia in questo caso dal punto di vista dell'uso prevenzione abuso
+[32:09] della video sorveglianza poi però vediamo cose del genere come il sistema salio il time vediamo
+[32:15] cose come quello che è capitato alcune di come e quindi ci troviamo un quadro normativo che in
+[32:20] teoria abbastanza consolidato ma c'è una consapevolezza che è veramente bassa iniziative
+[32:26] come anche questa diciamo questa serata servono anche a far capire che stiamo parlando di
+[32:31] qualcosa di estremamente invasivo che non va preso normalmente sotto gamba
+[32:35] ecco aspettando che poi anzi solicitando domande da parte del pubblico io vedo soltanto la chat di
+[32:46] di zoom non vedo le domande che sono state state fatte sul slido o che vengono raccolte dagli
+[32:54] altri canali faccio un attimo la parte della voca del diavolo cosa che forse mi viene particolarmente
+[33:04] bene ecco diciamo ma se si tratta di creare sicurezza prevenire il terrorismo e prevenire la
+[33:18] criminalità di sua fare di suazione rispetto comportamenti legali qual è cos'è che dobbiamo
+[33:26] temere nuovi cittadini che non non abbiamo nulla poi da nascondere che non dobbiamo temere dal fatto
+[33:33] che la nostra faccia venga verrà qualcuno la guarderà dice questo qui non sta facendo
+[33:38] niente di male e tutto e tutto sarà tutto passerà no qual è qual è il problema che ci
+[33:44] stiamo facendo tutte queste masturbazioni mentali su io cosa succede se il governo tiendrà
+[33:52] la nostra faccia e cerca di riconoscere dove stiamo cosa stiamo facendo cosa vogliamo fare qual è il
+[33:59] problema ma se posso dire qualcosa aggiungere vorrei sicuramente la risposta con una domanda
+[34:09] che utilizzano a tecnologia così pericolosa dovrebbe essere l'ultima risorsa possibile
+[34:18] nel caso di un'indagine per esempio per la sicurezza basterebbe anche solo utilizzare più
+[34:24] i testimoni un caso specifico per esempio se proprio non c'è nessun tipo di altra soluzione
+[34:32] forse si usare facial recognition ma è diverso utilizzarlo in caso di terrorismo quando non
+[34:39] ci sono testimoni quando è possibile trovare qualsiasi indizio rispetto ad avere facial recognition
+[34:44] sempre attivo su delle telecamera giorni a notte quando non succede niente e poi utilizzarlo su
+[34:51] database che adesso stiamo parlando quelli delle foto segneretiche però un giorno potrebbe
+[34:57] anche essere un altro database per me per me la questione è ancora più radicale perché
+[35:04] sì la e la polizia però come si diceva questa tecnologia sempre più disponibile per cui chi
+[35:12] potrebbe evitare qualcun altro a fare quello che ho fatto io non sono sui poliziotti ma che so su
+[35:18] tutte le donne di una città e poi costruirmi una mia piccola app sul mio cellulare andare in
+[35:24] giro per la città e riconoscerle questa è una cosa che probabilmente già sta succedendo
+[35:28] e succederà molto presto perché è così facile costruire la propria e la propria app di riconoscimento
+[35:36] facciare ed è anche facile collezionare dati pubblici perché sono già su internet questo è già
+[35:41] successo con il caso di clear view in america questo database enorme semplicemente prendendo
+[35:50] immagini da internet e immagini dai social network facendo la profilazione di milioni di
+[35:56] persone senza neanche muoversi da casa si non è real time una volta che ci sono questi dati
+[36:02] biometrici e questi dati biometrici diventano disponibili perché magari vengono venduti o
+[36:09] magari ci sarà un leaks e io ho il terrore del primo leaks di dati biometrici perché finora
+[36:15] abbiamo visto il leaks di dati personali sensibili che erano email password in grizzi di
+[36:22] case però il leaks di dati biometrici sono ancora più spaventosi perché poi chiunque
+[36:28] può utilizzare questi dati biometrici contro chiunque per cui non è soltato la polizia ma qua
+[36:33] stiamo quasi parlando di guerra civile in certo senso e guerra civile può anche essere contro la
+[36:38] polizia infatti c'è questo bellissimo esempio in bielorussia proprio questo base gli
+[36:44] attivisti usano hanno fatto questa cosa che faccio io ma in modo molto effettivo l'hanno
+[36:50] utilizzato contro la polizia per riconoscere le forze speciali e ha funzionato le forze speciali
+[36:55] riconosciute si sono licenziate non lasciato il governo lasciato la dittatura però questo è un caso
+[37:01] estremo di nuovo ed è un caso di lotta armata cioè l'intelligenza artificiale è una è un
+[37:10] arma è un arma pericolosissima e se gli attivisti lo incomincio a usare contro la polizia
+[37:16] la polizia lo useremo ancora di più contro i cittadini per cui per me non deve assolutamente
+[37:22] esistere non deve neanche esistere i nostri iphone non deve esistere nei nostri software perché se
+[37:28] permettiamo che questo succeda questi dati biometrici di tutti verranno ancora più
+[37:32] saranno ancora più disponibili saranno ancora più correlati alla nostra vita perché poi c'è
+[37:37] anche quello la correlazione non conta avere un dato biometrico e poi correlarlo al nostro
+[37:43] profilo facebook lo rende ancora più pericolosti per cui sì il problema come si diceva sono questi
+[37:49] dati biometrici che non sono regolamentati abbastanza e sono assolutamente da fermare e da vietare
+[37:59] loro in realtà non è che non sono regolamentati di per sé il loro uso da parte dei dei governi
+[38:10] dovrebbe essere soggetto a una serie di passaggi tra il quale la la valutazione di
+[38:17] impatto ci dovrebbero essere un passaggio anche della una fonte normativa per per giustificare il
+[38:31] trattamento perché sono cose piuttosto invasive e se è una base normativa il problema è che
+[38:36] queste ci sono nel senso che c'è una volontà politica e una disponibilità e una qui escenza
+[38:41] politica da parte dell'opinione pubblica ad accettare queste come forme di maggiore sicurezza
+[38:46] con la paura quindi con la sicurezza e con l'altra grande con l'altra grande glanto grande
+[38:56] cavallo di troia della introduzione di qualsiasi tipo di forma di sorveglianza o di
+[39:01] evoluzioni di uno spazio di privacy di riservatezza di anonimato di anche di cifratura di
+[39:10] cifratura delle comunicazioni e l'appedopornografia quindi con queste che sono delle cose assolutamente
+[39:18] fondamentale assolutamente importanti ma che vengono usate come scuse per fare il
+[39:25] passaggio della della rana volite quindi alzare la temperatura ci abituiamo e quindi
+[39:30] siamo pronti per citare un altro livello di compromissione dei nostri diritti e questo che è il
+[39:36] problema l'evoluzione ci sono ma ci sono altre norme che vengono introdotte che vengono giustificati
+[39:42] accettate socialmente quindi non c'è una coscienza un'opposizione a questo tipo di
+[39:47] norme e quindi sempre più intercettazione del tron di come dicevo prima ci sono dei magistrati
+[39:53] che vanno in giro a dire che chi viene chi viene assolto soltanto perché non è stato
+[39:59] peccato per cui tutti chiunque va a processo è già di per sé già di per sé colpevole e gli
+[40:06] avvocati nel processo sono soltanto delle delle carte d'autore di balle e che se non ci fossero
+[40:12] sarebbe più ecco è tutto una serie di atteggiamenti di modi di pensare che si stanno insinuando
+[40:21] in una in una parte della popolazione non necessariamente in quella meno istruita o meno
+[40:27] sofisticata e attenzione Fabio tu avevi delle cose da aggiungere su in tema di rischi
+[40:34] nuove da temere e caso di Fabio voglio dire ma rischi e nulla da temere come dire solo
+[40:44] che questa è la solita narrativa dei manettisti contro la criptografia che viviamo da 20 e
+[40:51] a passani anzi facciamo pure da 30 a passani quando giocavo a nintendo 8 bit oggi noi dobbiamo
+[40:59] avere una tutela dei diritti fondamentali di base e ogni singola apertura deve essere vigilata
+[41:08] e fortemente regolamentata sotto linea vi assolutamente bene la mancanza di una consapevolezza
+[41:15] perché diciamo che lo facebook ha mandato tutto all'aria perché a un certo punto la convenienza
+[41:23] ha superato diciamo ogni forma di attenzione e in generale e questa senza di consapevolezza
+[41:30] porta ad ozioni pervasive io sono abituato a raccontare le storie dell'orrore perché diciamo
+[41:38] all'interno di quello che è un ampio tema della comunità degli attivisti su dei miei diritti
+[41:42] digitali vedi più cose brutte che cose belle dal punto di vista delle soluzioni e mi piaceva
+[41:48] ricordare sempre parlando del trattamento del dato biometrico del nostro vero nostro volto quella
+[41:54] che è stata l'esperienza anche staviva da fuori come dinamica di attivismo come scoperta che
+[42:05] è stata fatta da rimas gaio con giovani pellerano e tirato fuori da raffaele angios su wired di
+[42:11] grandi stazioni che ha diffuso quei bellissimi totem pubblicitari in tutte le stazioni d'italia
+[42:19] peccato che era una piccola telecamera sopra e quella piccola telecamera sopra registrava chi guardava
+[42:26] la pubblicità sul totem pubblicitario e tramite processamento biometrico real time senza
+[42:31] al cultivo di informativa riconosceva e da sesso se è risottisfatto non soddisfatto se ridevi
+[42:38] se era pagato quindi l'aspetto emozionale e questa informazione finiva come input per contare
+[42:46] quante persone quali persone quale categoria democrafica e che tipo di impatto avesse avuto
+[42:51] quella pubblicità questa è stata una diffusione su scala nazionale nessuno se ne è in alcun modo
+[42:57] interessata intanto che non è stata poi scoperta e a questo punto la risoluzione non è stata
+[43:02] certamente ancora delle migliori c'è molto da fare ovvero introdurre un bellissimo bollino di
+[43:06] informativa della privacy che a distanza di un metro e mezzo non puoi neanche lontanamente
+[43:11] leggere però questo è per dare la misura di come le norme ci siano ma addirittura grandi
+[43:20] in realtà se ne infischiano oggi con il GDPR in piedi e i DPO che un minimo quantomeno alle loro
+[43:31] responsabilità personali e professionali ci guardano si è creata una piccola forma di
+[43:36] deterrenza però scandali di questo genere capitano di unitdove ricordo anche quando parlavo
+[43:44] del sistema sari del sistema automatico riconoscimento in magia il ministerio l'interno dove ci fu
+[43:50] nella precedente l'agisla dura un intervento e che dopo che il garante aperto l'istruttoria
+[44:03] non da bene garante privacy perso il ministerio l'interno l'istruttoria è rimasta lì cioè
+[44:07] ci sono alcuni tipi di interventi da parte dell'autorità dipendenti che non è che vanno sempre
+[44:12] a buon fine perché lì si entra l'interno dei giochi di potere istituzionale e se non c'è la
+[44:18] pressione mediatica il punzecchiamento della consapevolezza quello che è il risultato dell'azione
+[44:24] fatta da paulo non si muovono queste pratiche perché non è sufficiente la denuncia di un
+[44:31] cittadino quello può essere un simpatico esposto ma dopo c'è un autore di indipendente che deve
+[44:35] portarla a termine e l'autore di indipendente in questo caso per quanto possa essere fatta
+[44:41] di persone assolutamente preparate è di nomina politica eccetera eccetera eccetera quindi ci troviamo
+[44:47] in un contesto in cui tutti quanti devono fare la loro parte punze chiare continuamente istituzioni
+[44:54] aziende e l'obiettivo della moratoria è certamente un grande obiettivo per diciamo come battaglia e
+[45:03] diritti digitali qualunque forma di avanzamento e di regolamentazione supplementare che riusciamo
+[45:08] a tenere è un grande risultato e tutti dobbiamo farci attenzione siamo nel tema del riconoscimento
+[45:16] facciale ma vi voglio far notare piccole cose che spesso non vengono notati per qualunque il
+[45:22] fumatore di tabacco quante volte può essere capitato di vedere la possibilità di depositare
+[45:30] la propria impronta digitale presso il distributore automatico in modo a non dover inserire la
+[45:35] testera del prodigio che scade quello è un depositamento di un dato biometrico quanti
+[45:42] di questi dispositivi fanno questa operatività nel rispetto della normativa praticamente nessuno
+[45:48] quindi già fare grande attenzione uno per uno martellare e rendere evidente quando c'è una
+[45:55] problematica operare sotto il piano legale sotto il piano della visibilità mediatica della
+[46:02] creatività attivistica e una volta una volta alla fine renderemo il mondo un po più consapevole di
+[46:08] questi ok non vorrei lasciare impressione che vogliamo monopolizzare il dibattito e solo che
+[46:17] io in questo momento non vedo nessun tipo di domande perché ho soltanto un canale solo e
+[46:23] invito i partecipanti quanto meno sul zoom che sono quelli che riusciamo a vedere in questo
+[46:28] momento a dare il loro dal lavoro voce e se hanno delle delle domande o dei commenti da fare
+[46:36] assolutamente non non si sentono non si sentono imbarazzati e volevo dire che questo utilizzo
+[46:49] molto mirato molto pervasivo dei dati personale è un pericolo ma non soltanto per il nostro
+[46:56] evito individuale che già dovrebbe dovrebbe essere abbastanza importante potrebbe essere abbastanza
+[47:03] fonte di attenzione perché se un domani magari siamo confusi con con nostro sosia o con qualcuno
+[47:12] che è stato visto in compagnia di terroristi finiamo su un anno flason e magari ci troviamo
+[47:18] a dare in istituzioni e veniamo arrestati oppure anche se si riusciamo a rivarci e non
+[47:25] riusciamo a tornare perché finiamo in una no flies list che che c'impeccie di questo tipo di
+[47:31] contro questo tipo di decisioni non abbiamo nessun nessun modo di di di appellaccio se abbiamo
+[47:39] modo di appellaccio costoso lungo ed difficile tutto questo non perché un funzionario che per
+[47:46] carità tutte le persone sono farli ma almeno un funzionario possiamo affidarci che abbia
+[47:51] sua coscienza i suoi interessi si possa rispecchiare ma per un algoritmo che tra l'altro non sappiamo
+[47:59] nemmeno come è stato come stato realizzato e decisioni di questo tipo si stanno diffondendo
+[48:07] in molti in molti abiti nel campo dell'estruzione nel campo addirittura del sono dei robo che
+[48:14] cercano di predire il risultato dei processi e quindi avere una la possibilità di di di
+[48:25] influenzare anche il giudice a Giulia su quello che potrà essere l'esito e di evitare di andare a
+[48:32] difenda i propri diritti in tribunale per questo tipo di di situazioni e negli Stati Uniti
+[48:39] quattro anni fa non non non non ieri è stato il caso di Cambridge Analytica che insomma non si sa
+[48:50] bene tutto ma è abbastanza chiaro che utilizzando target advertisement quindi pubblicità messaggi
+[49:04] veicolando un certo tipo di profili che è stato riconosciuto grazie a questa massa che è stata
+[49:14] consentito di a Cambridge Analytica è stata consentito di di raccogliere insomma hanno dato una
+[49:22] spinta forse anche decisiva nel decidere il futuro democratico di una nazione che non è la
+[49:29] Bielovus che non è Taiwan che non è lo stato libero di bananas ma sono gli Stati Uniti la più
+[49:36] una delle più grandi democrazie del mondo per cui ecco il tema del riconoscimento facciale è uno
+[49:44] dei temi in cui la tecnologia sia la raccolta massiva di dati la crocata pervasiva di dati
+[49:51] sia la capacità di elaborare informazioni in modo molto precise molto efficiente sono sono fonti
+[50:00] di possibili danno e che devono trovare un bilanciamento una garanzia una tutela affinché di questi
+[50:11] dei che non si abusino vedo che ci sono degli interventi sulla chat dice patrizia dice è una
+[50:22] domanda che ci pogniamo tutti c'è da temere un leak dai database che ricolgono i dati biometrici
+[50:29] che vado ad alimentare un mercato underground dei dati biometrici Fabio forse tu sei posizionato
+[50:39] per rispondere beh come dire quando esiste un database che contiene all'interno dati in chiaro il
+[50:47] punto non è se sarà violato il punto è quando sarà violato la problematica della raccolta
+[50:57] indiscriminata di grandi quantità di dati sensibili è il fatto stesso della raccolta indiscriminata
+[51:03] e ad oggi sostanzialmente qualunque grande basi dati è stata o l'iccata in una ottica pubblica o è
+[51:12] stata violata così giusto per ricordarci il database di Schengen a cui addiscono tutti i vari
+[51:20] pesi nei percorsi della brexit è stato beccato sgamato che il gch cui servizi segrete
+[51:29] inglesi hanno violato il database di Schengen per farci ne una copia dicendo sai quando c'è
+[51:35] una brexit può essere problematico quindi ci troviamo che basi dati che addirittura hanno
+[51:41] figlie della cooperazione internazionale tra stati di sovrani, stati di sicurezza e di accesso
+[51:49] elevatissimi dai stessi stati vengono poi violate e finiscono in mano a soggetti senza
+[51:54] alcun tipo di accampabilità oversight quali i servizi segreti inglesi che ovviamente
+[51:58] opere nel raccordo e collaborazione e cooperazione scambio dati con n altri paesi quindi la domanda
+[52:04] che faceva Patrizia è c'è da temere certo che c'è da temere l'unico modo per mettere in sicurezza
+[52:10] grandi quantità di dati è non raccogliergli esattamente questo è il principio di minimizzazione
+[52:17] che peraltro è uno dei principi fondamentali del GDPR peccato che non vengo applicato nel
+[52:24] senso che c'è il dito di privacy per come anche etimologicamente nasce è un dito di privatezza
+[52:32] che è del privato del cittadino del singolo rispetto alla comunità e quindi per l'extensione del termine
+[52:39] nel cofone dello Stato in realtà lo spazio di privacy è letto come una da punto di vista
+[52:47] dell'utente è con lo sale rotturo di balle perché ogni volta che andiamo su un nuovo sito
+[52:51] dobbiamo applicare con l'idiozia dei coupi che si frappone nell'economia perché rende poco
+[53:03] fluido il trasferimento dei dati e fra un po' ci imporrà di non poter utilizzare i servizi,
+[53:11] alcuni servizi cloud americani ma c'è il grande elefante nella stanza come so dire che è lo Stato
+[53:20] e non ce n'è meno bisogno parlando di l'eaks di avere un leak di queste database perché ci sono una
+[53:28] serie di soggetti che possono per finalità attenienti al loro ufficio accedere a questi dati e quando uno
+[53:37] c'è gli ali la tentazione è sempre molto forte che vengono da abusati ricordo uno scandale
+[53:44] di qualche anno fa parlando di dati di traffico telefonico di caso telecom ti abuso del fatto che
+[53:55] alcuni funzionari compliacenti affini a determinati persone che non nominiamo qua perché non vogliamo
+[54:02] finire in galera per difamazione mai ufficiale sono c'è stato dei casi in cui hanno fatto un
+[54:08] accesso abusivo ed erano titolati ad accedere solo per altre ragioni e se ne sono fatti i
+[54:15] fatti loro per dirla così per cui anche senza avere un leak abbiamo che comunque questi dati sono
+[54:21] a disposizione di molte persone e è facile che queste ne abusi abbiamo un altro domande adesso se
+[54:29] vuole paulo vuole aggiungere qualcosa magari no no no ok perfetto abbiamo una domanda di Gianmarco
+[54:39] Gabrielli che dice come si concilia la legislazione sul riconoscimento facciale quella diritto l'oblio
+[54:45] se vado nella banca d'esempio ci sono delle telecamere posso chiedere che l'immagine con
+[54:49] il mio volto vengono annumizzate rispondo da punto di vista dell'avvocato è vero esiste il
+[54:56] diritto all'oblio dito l'oblio ovviamente non è assoluto è un diritto che nasce col passale del
+[55:04] tempo e per quanto riguarda i privati sicuramente matura molto molto presto ma come ho detto prima
+[55:13] nei confronti dei soggetti pubblici è molto più difficile intanto è difficile sapere perché
+[55:21] nonostante tutto questo non ha una sua trasparenza nonostante il dovere d'informativa eccetera eccetera
+[55:26] ci traccia molto poco trasparenza di quale sia la consistenza effettiva dei dati e finché non
+[55:31] facciamo accessi per sapere quali dati esistono è difficile esercitarlo per quanto riguarda
+[55:37] l'oblio tec teoricamente ci dovrebbe essere anche per per questi dati però questo vale per me
+[55:43] paolo fabbio per tutti noi non vale necessariamente per le forze dell'ordine
+[55:50] teniamo presente che noi in italia abbiamo la normativa più espansiva per quanto riguarda la
+[56:00] data retention dei dati di comunicazione possono essere tenuti se non ricordo male 72 mesi vuol dire
+[56:07] sei anni è una cosa che dovrebbe in realtà di dare vendetta e questo in realtà fa qualcuno vuole
+[56:17] aggiungere intanto io leggo la domanda successiva evito di parlare legge che non è mai una cosa
+[56:26] bella perfetto no non c'è nessuno che vuole benissimo abbiamo un'altra domanda da paola
+[56:36] bonomo a dar spero di dirlo bene identità biometrica con scandal iride in india segnata
+[56:46] oltre un miliardo di persone ha avuto enormi benefici per esempio nel fare arrivare aiuto
+[56:52] economici direttamente dei sinattari senza subire il rubere dei capevillaggio in termini di arrivare
+[56:57] non è il caso di fare un'analisi costi benefici piuttosto dire che i dati non devono
+[57:02] mai essere raccolti a volte mi fanno questa contro contro esempio anche contro esempio per
+[57:11] esempio dei migranti che non avevano nessun tipo di documentazione l'utilizzo del dato biometrico
+[57:19] potrebbe potrebbe essere usato come un passaporto universale globale secondo me ci sono diversi
+[57:27] altri strumenti che possono essere utilizzati posso anche una chiavetta usb con dei dati criptati per
+[57:34] dire non credo che sia necessario un utizzo del dato biometrico perché appunto proprio perché
+[57:43] i costi benefici non si possono equilibrare abbastanza il rischio è troppo vasto dunque anche
+[57:52] se c'è un beneficio di questo tipo non vale la pena se posso aggiungere un tema sull'aspetto
+[58:01] specifico che riguarda l'india che mi ha visto sono andato forse cinque anni fa a una conferenza
+[58:09] in india sui temi di contrasto alla corruzione di riti civili erano tutti due assieme e c'era una
+[58:15] delle persone del giro di privacy international che segue il diciamo il fronte indiano parte
+[58:21] dell'equivalente del center for intermesso site locale allora parlando ho fatto un po il mio diciamo
+[58:28] ha portato la mia divulgazione dal punto di vista dei diritti digitali della privacy intorno in un
+[58:34] paese dove ricorda è stato introdotto il cms il central monitoring system che non è ne più
+[58:40] nemmeno dell nsi x chi scor fatto negli stati uniti solo che è stato fatto con una legge
+[58:46] ordinaria dello stato nessuno ha detto niente non ci sono state rivolte non ci sono state
+[58:50] interrogazioni parlamentari e la popolazione l'accettato allora quando ho discusso di questo
+[58:57] tema è ovvio che è stato portato il tema del compromesso perché della la popolazione per dare
+[59:03] dei sussiti però mi è stato fatto mi è stato sottolineato come qui devo dire una cosa importante
+[59:12] è una questione filosofica che vuoi anche sociologica e antropologica e la differenza
+[59:19] culturale cioè il fatto che noi del mondo chiamiamolo occidentale europea stati uniti abbiamo
+[59:26] una scala valoriale fortemente incentrata sull'individuo e privacy è un valore individuale mentre
+[59:31] nelle società soprattutto nell'area dell'oriente in generale per fare un grande calderone però
+[59:37] caratt connotando l'india come oriente il concetto di collecti society e di valore del noi è più
+[59:45] importante del io e questa differenza culturale rende molto difficile la accettazione in quelle
+[59:54] culture del valore che noi invece diamo alla privacy è quello che rappresenta dal punto
+[60:02] di vista dei diritti digitali che poi sono diritti umani ovviamente nella nostra base
+[60:08] culturale e quindi quando mi sono trovato a confrontarmi esattamente su questo tema
+[60:13] che è la dura massiva biometrica degli indiani e sistema di sorveglianza internet massivo sistema
+[60:21] di censura diffuso passato senza un plissé senza che ci fosse un partito all'interno del parlamento
+[60:27] che sia opposto in modo sensibile detto stiamo parlando di un'altra cultura e qualcosa che
+[60:32] deve essere sviluppato e l'esempio che mi è stato stato proprio qui in questo momento
+[60:37] la vera battaglia è fare sì che mi ha stato del punjab il l'uomo adulto che ha 35 anni si può
+[60:44] permettere dire no alla madre che gli chiede di sbloccare il suo telefono per guardare i suoi
+[60:49] cose dice questo è il tipo di evoluzione progressista culturale che noi stiamo facendo per cui
+[60:55] quando viene a parlare dei valori della privacy in una salza occidentale io posso solo che
+[61:01] farti questo ragionamento e dirti che dovresti guardare da un punto di vista culturale
+[61:04] questo era la riflessione esperienza nel caso dell'india ecco è fatto bene a sottolineare
+[61:13] questo questa differenza culturale perché noi viviamo bene o male e dicono bene o male da
+[61:20] qualche anno da qualche decina d'anni in una società liberale che ha avuto un po'
+[61:25] di altre basse nella nostra storia però nel panorama del storico è un attimo un'alito di
+[61:36] vento nella storica ho visto la servitude della glieba visto il potere assoluto visto le
+[61:42] le evoluzioni liberali degli 7800 ha visto anche i fascismi ha visto anche un tante
+[61:50] denominazione e quindi il nostro concetto di società liberale in cui l'individuo è
+[61:56] quanto meno sullo stesso piano e non sudito e non non cosa di proprietà dello Stato o della società
+[62:06] o della coltività eccetera è una cosa molto preziosa da conservare molto fragile e che
+[62:15] c'è solo da noi ne basta andare non tanto distante da noi e questa questa questa obbia che ci
+[62:23] sta facendo queste queste queste preoccupazioni non sono viste non è visto come il cittadino
+[62:29] è a titolare di diritti e dè al suo stesso piano dello Stato che pretende di sorvegliarlo
+[62:37] punirlo istruirlo dirgli cosa deve fare cosa non deve fare eccetera per cui io temo che
+[62:43] anche da noi che abbiamo raggiunto una democrazia occidentale costituzionale in cui ci sono una
+[62:51] forte set di diritti dell'individuo anche di doveri di l'individuo nel confronto dello Stato ma
+[62:56] anche di diritti del procedure e tutte le questa questo pendolo non sia mai andato abbastanza
+[63:05] anzi abbia abbia swingato e c'è nel suo punto massimistia rifluendo e si rifluendo non perché
+[63:14] ci siano non so perché ci siano delle forze che chiaramente stanno cercando di convincere che in
+[63:21] realtà liberale nel senso di diritti individuali è brutto e che le modelli democratici veri
+[63:29] sono quelli in cui c'è una democrazia aperta in cui è la maggioranza che decide gli altri
+[63:36] da mostrare zitti l'audice della maggioranza questo tipo di importazione non si sta perdendo anche
+[63:45] da noi che dovremmo essere il faro l'esempio si sta perdendo negli Stati Uniti si sta perdendo
+[63:51] in Francia si sta perdendo nell'altra culla della civiltà liberale che è il Regno Unito
+[63:58] io sono molto preoccupato perché penso il tempo di aver visto nel corso della mia vita il massimo
+[64:06] dell'espansione di una civiltà liberale che tutti i cittadini e che dai cittadini un potere di
+[64:12] sorveglianza un potere di difendersi un potere di interrogare di i porzi come come
+[64:23] contraltare questa cosa secondo me si sta è molto rischio se non la teniamo viva la perdiamo
+[64:30] perché la libertà è molto difficile da ottenere ci sono valuti milioni di morti centina di milioni
+[64:36] morti milioni morti per difenderla ci vuole molto poco a perdere e quindi ogni piccolo spazio di
+[64:42] libertà che c'è diamo è una spazio di libertà che non rievremo più soprattutto quando
+[64:49] nell'opinione pubblica è questo questo senso non si non si non si avverte e ci si groggono nella
+[64:57] che bello che siamo tutti più più sicuri in questi giorni di ritorno al lockdown di
+[65:05] auspicio che tutto venga chiuso che che che ci pensi sempre o stato ci mantenga è molto
+[65:14] rilevante io ringrazio ringrazio voi che avete avuto la pazienza di ascoltarci fare un ultimo
+[65:23] giro se non ci sono altre domande e qualcuno che vuole che vuole idioticamente propormi come
+[65:32] presente alle pubbliche è in me anagraficamente lo potrei anche diventare purtroppo sono ho
+[65:37] raggiunto quella quella fase farei un picco se non ci sono domande serie non quelle di fabbio
+[65:45] farei un piccolo intervento di chiusura da parte di paolo e di fabbio io ormai ho sprovocchiato
+[65:52] fin troppo e poi darei dare dare la chiusura bella che l'ultimo commento può essere solo
+[66:04] promuovere la peticione che è ancora online adesso tradotta in francese inglese tedesco sto
+[66:13] aggiungendo dei partner di livello europeo chiaramente stiamo per progettare delle altre
+[66:22] tipi di azioni però magari azioni un po più regali non come quella che ho fatto in francia
+[66:27] anche se ha funzionato molto bene chissà magari posso riutilizzarla però nel mentre potete
+[66:33] partecipare si chiama ben facial recognition e ed è molto simile a quella che c'è in america
+[66:42] che ha avuto qualche successo perché in una comunità americana facial recognition è stato
+[66:48] vannato stato stato una moratoria per davvero questo è per per averlo in europea in tutta
+[66:55] europa e per cui si guardate non se potete firmare che fabbio eccomi se se riesco a fare
+[67:07] una cosa volevo quanto meno farvi vedere una cosa molto bellina questa ovvero non so se si
+[67:14] vede il mio schermo sì questo è il progetto computer vision dazzle è un'iniziativa
+[67:22] ovviamente di tipo artisti che porta tecniche di camouflage per riuscire a creare makeup di
+[67:38] capelli vestiario e trucco per riuscire a ingannare sistemi di riconoscimento facciale è una
+[67:47] iniziativa molto carina secondo me nel mostrare quella che è la creatività nella difesa diciamo
+[67:54] questo caso i diritti di diritti digitali rifacendo a quella che invece l'esperienza
+[67:59] e iniziativa via da da paolo rimanendo nell'ambito artistico benissimo grazie è un po è un po
+[68:14] imbarazzante del giro conciato così però se serve proprio non penso che sia un'attività di
+[68:23] difesa civica che avrà molto molto seguito invece in posti come hong kong questo sicuramente ha più
+[68:33] senso di essere peccato che fare questi investieri e se non vado il reto sia di per se un legido che
+[68:42] può portarti a andare in galera perché ma senza andare tanto lontano non c'è carina di ingannare
+[68:50] sistemi riconoscimento facciale e se non vado il reto sono un avvocato cinese e di per sé le
+[68:58] cose io due debiti da pagare i debiti di disunco i debiti di gioco vanno pagati prima della
+[69:04] fine del della diretta il primo è la domanda di stefano sul fatto che la sentenza della corte di
+[69:14] giustizia dell'Unione europea vi ha dichiarato che la data retention sia possibile soltanto se oltre i
+[69:26] termini i termini minimi soltanto mi sarebbero si mesi in teoria soltanto per casi specifici
+[69:33] vero faccio notare che questa norma che è stata criticata da chiunque si occupasse di privacy
+[69:43] che è stata detto guardate che è contraria alle norme europei perché un antratamento
+[69:49] cessivo bla bla bla bla è stata è stata provata è stata in vigore e ha fatto tenere dati per anni e
+[70:00] anni e anni causando anche notevoli costi perché queste cose qui costano tutte le tutte le formi
+[70:05] di sorveglianza comunque hanno un costo anche quelle che impostano per vedere che non ci scambiamo
+[70:10] la musica hanno un costo e invece il secondo debito che devo assolutamente saldare entro la fine
+[70:18] della serata e darvi il prossimo appuntamento il prossimo appuntamento dei coperricani sarà
+[70:26] per martedì 27 ottobre a l'ora 21 ci sarà Federico testa presidente di Enea per parlare
+[70:37] dei sistemi tagliano della ricerca quindi in vito tutti ma scusami si si si si scusa Federico test
+[70:49] no è ragione di un'altra sorgegna forse no no no no no un'elitricità futura tante cose ma non
+[71:06] in a ok no e fai scusate scusate scusate scusate Federico testa presidente di nea per parlare
+[71:14] ripeto parte la mia gaffa per parlare di sistema italiana da ricerca un argomento assolutamente
+[71:22] importante trattato siamo anche in tema di Nobel diciamo imperio di Nobel per cui la ricerca
+[71:32] italiana che ha dato dei 9 speriamo che che che che di avere delle delle delle discussioni importanti
+[71:45] in vito questa sera non ho avuto l'accesso al aslido però a chi vuole fare delle domande di
+[71:55] farle che si possono fare anche in anticipo e quindi da magari più più interattività alle
+[72:02] discussioni spero che sia stato interessante ringrazio gli interlocutori ringrazio chiunque ha
+[72:11] avuto la pazienza di starci ad ascoltare ringrazio chiunque avrà modo di pensare di ragionare
+[72:18] eventualmente di firmare la petizione che paolo magari vorrà e che comunque è sul è sul sito di
+[72:28] paolo e può essere può essere firmato da lì quindi di portate a casa portate un pezzettino
+[72:39] della vostra della vostra del vostro observello questi questi pensieri che possono sembrare
+[72:49] lontani ma che sono molto meno lontani quanto di quanto sempre io taccio se non ci sono ulteriori
+[72:57] in commenti da da realizzare finisco che ringraziamenti e vi do appunto appuntamento martedì
+[73:08] 27 ottobre quindi martedì prossimo ore 21 Federico nonchicco testa presidente di nera

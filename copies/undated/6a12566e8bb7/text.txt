@@ -1,0 +1,159 @@
+I trojan di Stato sono la nuova arma del potere 
+
+ -->
+
+ Homepage 
+
+ Attualità 
+
+ Politica 
+
+ Atlas 
+
+ Cultura 
+
+ Habitat 
+
+ Innovazione 
+
+ Archive 
+
+ # 
+
+ About 
+
+ Manifesto 
+
+ Privacy Policy della newsletter 
+
+ Contacts 
+
+ Log In 
+
+ # 
+
+ © 2026 THE VISION. All right are reserved.
+
+ Generic selectors 
+
+ Exact matches only 
+
+ Search in title 
+
+ Search in content 
+
+ Post Type Selectors 
+
+ Filter by Categories 
+
+ Anticorpi 
+
+ Architettura 
+
+ Archive 
+
+ Atlas 
+
+ Attualità 
+
+ Coronavirus 
+
+ Cultura 
+
+ Design 
+
+ Habitat 
+
+ Innovazione 
+
+ Intrattenimento 
+
+ Musica 
+
+ Parallax 
+
+ Podcast 
+
+ Politica 
+
+ Scienza 
+
+ -->
+
+ I trojan di Stato sono la nuova arma del potere
+
+ DI Giovanni Bitetto 
+
+    6 August 2018 
+
+ -->
+
+ Share
+
+ Tweet
+
+ di Giovanni Bitetto 
+
+ 6 August 2018 
+
+ -->
+
+ Nel film Minority report si metteva in scena il funzionamento di un’ipotetica divisione di polizia che operava attraverso un meccanismo di prevenzione, sfruttando le capacità di tre gemelli sensitivi. Oggi, la fantascienza è diventata realtà, e non serve affidarsi alle arti magiche, è sufficiente saper usare gli strumenti tecnologici predisposti per la sorveglianza. Il ricorso massiccio alle nuove tecnologie per svolgere le indagini è sempre più diffuso. Basti pensare a software come PredPol – usato in 60 dipartimenti americani fra cui quello di Los Angeles – che incrocia e analizza i dati su effrazioni e furti con la composizione sociale di un determinato quartiere, così da “prevedere” le probabilità di un crimine in un’area specifica. Non mancano le polemiche , perché gli algoritmi sono programmati da umani, e sono dunque soggetti all’influenza di pregiudizi che possono essere discriminatori, come l’idea che certi gruppi etnici o ceti sociali siano più inclini a commettere crimini.
+
+ Still dal film “Minority Report” 
+ “Per capire l’autoritarismo moderno dobbiamo mischiare elementi di Orwell e elementi di Huxley,” scrive il sociologo Evgenij Morozov ne L’ingenuità della rete . “Alcuni credono che solo nelle dittature prevalgano gli strumenti repressivi, e viceversa. In realtà ci sono molte componenti huxleyane nei sistemi non democratici e, al contrario, molte componenti orwelliane in quelli che si credono tali.” Le componenti orwelliane della nostra società sono rappresentate dagli strumenti di sorveglianza caratterizzati da una tendenza al controllo che opera in maniera preventiva piuttosto che repressiva.
+
+ Evgenij Morozov 
+ Senza spingerci verso frontiere futuribili come quelle della sorveglianza algoritmica, una delle pratiche investigative oggi più utilizzate dalle forze dell’ordine, anche italiane, riguarda i cosiddetti “captatori informatici” , comunemente conosciuti come trojan . I trojan sono virus piuttosto comuni che agiscono installando sui dispositivi software che ne aggirano la protezione, per potervi accedere da remoto, o che danneggiano e controllano i dati senza il consenso dell’utente. A tutti, prima o poi, è capitato che il proprio computer ne venisse infettato. I trojan di Stato possono funzionare in due modi differenti: sotto forma di online search oppure come online surveillance . Nel primo caso si tratta di programmi che permettono di copiare dati, tutti o in parte, dal dispositivo infettato. Nel secondo invece si intende l’attività di acquisizione del flusso informatico che passa attraverso le periferiche – schermo, microfono, tastiera, webcam.
+
+ La pericolosità di questi sistemi d’indagine riguarda la sfera della privacy:  le critiche sottolineano l’incapacità di questi programmi di stabilire cosa sia oggetto dell’attività d’indagine e cosa invece sia lecita attività di tutti giorni: il trojan opera quindi una raccolta diffusa e invasiva. Questo tipo di spionaggio, inoltre, ha potenzialità infinite perché può essere applicato a qualsiasi dispositivo tecnologico: non solo il computer, ma anche il telefono, il tablet, la televisione, l’auto. Si predispone dunque una continua violazione della privacy dell’utente messo sotto controllo. Un’invasione così massiccia della vita privata non potrebbe essere legalmente permessa, se non in casi specifici, come avviene già nell’autorizzazione di altri mezzi di ricerca della prova – l’intercettazione, la perquisizione, l’ispezione, il sequestro – regolati dal codice di procedura penale. Ma le tecnologie di intelligenza artificiale hanno molte potenzialità in più rispetto ai mezzi “tradizionali” e spesso risultano più efficaci. Secondo Fabio Pietrosanti, presidente e co-fondatore del Centro Hermes per la trasparenza dei diritti umani digitali , “Le frontiere verso cui si spinge la profilazione comportamentale degli utenti, grazie alle tecnologie di intelligenza artificiale, sono sempre più preoccupanti soprattutto perché spesso riescono a sfuggire agli interventi regolatori dei garanti privacy.”
+
+ Le vicende di cronaca giudiziaria legate ai trojan hanno sollevato molte polemiche. Dal caso del “Querela”, il trojan installato sul computer di Luigi Bisignani e utilizzato dalle forze dell’ordine come cimice, nell’ambito dell’inchiesta della procura di Napoli sulla P4 nel 2011; a quello del Remote Control System Galileo , il malware prodotto – fino al 2016, prima che ne fosse revocata l’autorizzazione alla commercializzazione – dall’azienda milanese Hacking Team (HT) e venduto a diversi sistemi governativi nel mondo, tra cui l’Egitto. Secondo alcune ipotesi sarebbe stato utilizzato dalla National Defense Council per accedere al telefono del ricercatore Giulio Regeni .
+
+ Luigi Bisignani 
+ Eyepiramid è invece il software malevolo alla base di una vasta operazione di cyberspionaggio che i fratelli Giulio e Francesca Maria Occhionero avrebbero sfruttato per introdursi nei dispositivi di personaggi di spicco, con lo scopo di conservarne le informazioni probabilmente a fini di estorsione. Nel corso dell’indagine, agli inizi del 2017, è stato emanato un provvedimento di custodia cautelare nei loro confronti, che però sono riusciti a impugnare, lamentando l’inutilizzabilità in sede processuale degli elementi estratti dai loro computer attraverso trojan di Stato. La polizia infatti aveva captato i dati in tempo reale mentre il computer si trovava in casa, principalmente attraverso screenshot, e non flussi informatici. Dunque, secondo la difesa degli Occhionero le autorità avrebbero superato il limite di controllo informatico previsto dalla legge. La Cassazione ha ritenuto il ricorso infondato, aprendo di fatto la strada all’utilizzo di questi software anche in caso di delitti ordinari, come hanno sottolineato gli avvocati Giovanni Battista Gallus e Francesco Micozzi .
+
+ Il dibattito nato tra i tecnici ha contribuito ad arrivare, lo scorso anno, alla cosiddetta  legge Orlando . Con questo provvedimento, tra le altre cose, si delega al governo di rivedere le regole sulle intercettazioni e, in particolare, sui captatori informatici, lasciando molta libertà ai gruppi investigativi.   La nuova norma apre la strada all’intercettazione tramite trojan – ovvero all’utilizzo del computer come una cimice – non solo per reati di mafia e terrorismo, ma anche per quelli meno gravi come le molestie e le minacce. Persino l’Ong britannica Privacy International si è sbilanciata, producendo un’analisi approfondita sui rischi in questione, e chiedendo in un comunicato alle Camere italiane di riportare la normativa in linea con gli standard internazionali di protezione dei diritti umani. Lo scopo delle politiche in materia di sicurezza è normalizzare gradualmente queste misure, far sì che non siano più giudicate estreme, ampliandone lo spettro d’azione e il ventaglio di possibilità in cui è lecito utilizzarle. Così, si erode silenziosamente la sfera della privacy fino a instaurare una forma di controllo onnicomprensiva, che si definisce “preventiva” ma non ha nulla di diverso dalla normale repressione da cui si dice lontana la retorica democratica.
+
+ La regolamentazione in materia di diritto informatico è molto in ritardo rispetto alle possibilità del mezzo tecnologico, e non solo in in Italia. In Olanda una legge per  impedire la violazione della privacy informatica è stata approvata solo l’anno scorso , negli Stati Uniti il fondatore di Silk Road , Ross Ulbricht, ha basato la sua difesa sulla presunta acquisizione illegale di dati informatici da parte dell’accusa.
+
+ Nel clima di confusione e disinformazione che si crea quando si parla di legislazione digitale, l’unico a guadagnarci è lo Stato, che può introdurre misure coercitive senza che queste siano contestate dall’opinione pubblica. Anche se lo Stato e le pubbliche autorità dovranno in ogni caso attenersi ai disposti del GDPR e anche della recepita direttiva europea circa il trattamento dei dati personali ai fini di indagine, prevenzione e repressione dei reati, dovremo aspettare ancora molto prima di metterci al passo con i tempi e avere tutte le garanzie necessarie. Lo ha già fatto la Corte Costituzionale tedesca nel 2008 , che ha inaugurato un nuovo diritto costituzionale di “autodeterminazione informatica” o “sicurezza informatica”, davanti all’inadeguatezza dei diritti “classici” di tutelare in modo efficace l’integrità e la riservatezza dei dati telematici. Si tratta di un ritardo decennale che è indispensabile colmare, prima di tutto, informandosi sulla materia.
+
+ Segui Giovanni su The Vision 
+
+ Segui Giovanni su Twitter .
+
+ Seguici anche su 
+
+ Segui @thevisioncom
+
+ Follow @thevisioncom 
+
+ Segui @thevisioncom
+
+ Seguici anche su: 
+
+ Segui @thevisioncom
+
+ Follow @thevisioncom 
+
+ Segui @thevisioncom
+
+ Condividi l'articolo su     
+
+ Share
+
+ Tweet
+
+ Condividi l'articolo su     
+ Share
+
+ Tweet
+
+ About 
+
+ Manifesto 
+
+ Contacts 
+
+ 2026 THE VISION. All rights are reserved.

@@ -1,0 +1,296 @@
+Rendere “ricercabile” il XXI secolo • onData APS 
+
+Salta al contenuto 
+
+ Dona 
+
+ Blog 
+
+ Noi 
+
+ Progetti 
+
+ Azioni 
+
+ Risorse 
+
+ Social 
+
+ Newsletter 
+
+ Azioni
+
+ Dati Bene Comune
+
+ Strumenti
+
+ Rendere “ricercabile” il XXI secolo 
+
+ Di Andrea Borruso 
+
+ Set 8, 2020 
+
+ accessibilità , coronavirus , Covid-19 , sars-cov-2 , verbali 
+
+ Uno degli ultimi post del blog di  Internet Archive  ha come titolo “ Can You Help us Make the 19th Century Searchable? “. In questo si sottolineano le difficoltà nel rendere ricercabili testi ad esempio del 1850, per i quali l’unico modo per farlo è utilizzare il riconoscimento ottico dei caratteri (OCR). Su testi del XIX secolo purtroppo non funziona sempre bene.
+
+ Un  testo  del  XXI   secolo nasce  invece già  pronto  alle  ricerche testuali , ma purtroppo alle volte viene  trasformato  in  non accessibile , con diverse  barriere  alla sua  fruizione . E avviene anche con  file  prodotti dalla  Pubblica Amministrazione , con decreti legge, pubblicazioni in albo pretorio, verbali, ecc..
+
+ Il  4 settembre 2020  sono stati pubblicati i  verbali  delle  riunioni  del “ Comitato Tecnico Scientifico  (CTS) con competenza di consulenza e supporto alle attività di coordinamento per il superamento dell’ emergenza epidemiologica  dovuta alla diffusione del Coronavirus “: sono ad oggi  95 file  in formato  PDF , molti di questi sono stati pubblicati come raccolte immagini, non è possibile pertanto effettuare ricerche testuali e  presentano  delle  barriere  di accessibilità  e fruizione .
+
+ Fabio Pietrosanti  ha notato la cosa e li ha resi accessibili, grazie ( qui  i riferimenti).
+
+ Le normative vigenti (da tempo) indicano che la PA non deve pubblicare documenti in queste modalità. Ma sopratutto a nostro avviso è essenziale e propedeutico che  qualsiasi documento  che abbia a che fare con  scelte  che hanno un  impatto  sulla  vita  delle  persone ,  non debba contenere barriere .
+
+ Chiediamo alla  Presidenza del Consiglio dei Ministri  di  pubblicare  i verbali che verranno messi  online  da qui in avanti, in modo che il testo sia ricercabile e  machine readable (non come immagini). E di farlo anche per quelli già pubblicati, al limite nelle  modalità  descritte proprio da Fabio.
+
+ 💥 Noi li abbiamo  pubblicati  su  Internet Archive : facendolo, automaticamente, vengono rimossi i problemi (non tutti purtroppo) di accesso e fruizione.
+
+ La pubblicazione dei verbali su Internet Archive
+
+ Internet Archive  è una biblioteca digitale non profit che ha lo scopo dichiarato di consentire un “accesso universale alla conoscenza” (da  Wikipedia )
+
+ La pubblicazione dei verbali in questa biblioteca digitale – visto quanto descritto sopra – ci sembra un arricchimento, per diverse ragioni:
+
+ è un  archivio  dati “ globale ” indicizzato, quindi anche uno studente del Perù che sta studiando la gestione dell’epidemia, potrà farne tesoro;
+ i  documenti  di testo pubblicati qui, vengono  trasformati  per  essere resi leggibili  in diverse modalità. Ad esempio a un PDF testuale archiviato come immagine, viene applicato il riconoscimento ottico dei caratteri (OCR), ed estratto il testo;
+ è possibile  metadatare  i  documenti , ed associare ad esempio a ognuno di questi PDF delle parole chiave, degli attributi (come il numero di verbale e/o la data di pubblicazione) o la fonte;
+ è possibile  interrogare  questi  archivi , sia in modo  visuale , che tramite  API .
+
+ La trasformazione dei file originali
+
+ Un verbale come il  n. 68 del 8 e 10 maggio 2020 , fatto sia da pagine come immagine che da pagine di testo, una volta inserito su Internet Archive, viene trasformato in diversi formati (vedi immagine di sotto a destra). Tra questi ad esempio:
+
+ PDF WITH TEXT , ovvero un file PDF in cui è stata abilitata la ricerca anche nel testo come immagine (purtroppo non disponibile per ogni file);
+ FULL TEXT , il testo di  ouput  dell’OCR;
+ EPUB , un classico formato  standard  di lettura di testi.
+
+ L’estrazione del testo che viene fatta non è esente da errori, ma è sicuramente – vista la situazione di partenza – un avanzamento.
+
+ Questa trasformazione consente anche di “ ascoltare ” il  testo estratto , contribuendo ad abbattere un po’ altre barriere di accessibilità. Basterà fare click sul pulsante “cuffie”, presente nella barra degli strumenti del visualizzatore del documento (vedi immagine di sotto).
+
+ Metadati
+
+ Ogni documento viene associato a diversi metadati, alcuni generati automaticamente, altri inseriti in fase di upload (sotto un esempio). Sono stati aggiunti ad esempio per ogni file:
+
+ il/i numero/i di verbale associato/i, ovvero il campo  numero ;
+ la/e data/e associata/e, ovvero il campo  data ;
+ la lingua del documento (utile per il riconoscimento ottico dei caratteri), ovvero il campo  language ;
+ delle parole chiave come “COVID-19, Italia, verbali, CTS”, ovvero il campo  subject ;
+ un titolo e una descrizione, ovvero i campi  title  e  description .
+
+ Si possono aggiungere e correggere in qualsiasi momento e ce ne è un  ricco insieme di predefiniti .
+
+ {
+ "metadata": {
+ "publicdate": "2020-09-06 15:25:54",
+ "addeddate": "2020-09-06 15:25:54",
+ "page_number_confidence": "83.48",
+ "description": "Verbale del Comitato Tecnico Scientifico Coronavirus. \nInformazioni qui http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/verbali-comitato-tecnico-scientifico-coronavirus",
+ "language": "ita",
+ "title": "COVID-19 CTS - Verbale n. 68 del 8 e 10 maggio 2020",
+ "external-identifier": "https://raw.githubusercontent.com/pcm-dpc/COVID-19-Verbali-CTS/master/2020-05/covid-19-cts-verbale-068-2020050810.pdf",
+ "curation": "[curator]validator@archive.org[/curator][date]20200906153132[/date][comment]checked for malware[/comment]",
+ "ppi": "300",
+ "identifier-access": "http://archive.org/details/covid-19-cts-verbale-068-2020050810_ia",
+ "subject": [
+ "COVID-19",
+ "Italia",
+ "verbali",
+ "CTS"
+ ],
+ "mediatype": "texts",
+ "numero": "68",
+ "identifier-ark": "ark:/13960/t3rv9r754",
+ "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+ "collection": "opensource",
+ "licenseurl": "http://creativecommons.org/licenses/by/4.0/",
+ "identifier": "covid-19-cts-verbale-068-2020050810_ia",
+ "data": [
+ "2020-05-08",
+ "2020-05-10"
+ ],
+ "scanner": "Internet Archive Python library 1.9.4"
+ }
+} 
+
+ Interrogare Internet Archive
+
+ Internet Archive (IA) è interrogabile in modo ricco, a partire dalla sua homepage  https://archive.org/ . La trasformazione dei file caricati e la loro metadatazione, consentono di farlo in modo più efficiente.
+
+ Si possono usare ad esempio i  metadati  inseriti sopra e cercare il documento con  subject = COVID-19  e  numero = 68 , che nella sintassi di IA si scrive  subject:COVID-19 AND numero:68 .
+
+ Sia in modo visuale
+
+ Che tramite le  API  (basate su  elastich search ), ed avere il risultato della ricerca in:
+
+ JSON ;
+ XML ;
+ CSV .
+
+ La chiamata via URL ha la struttura di sotto, in cui viene definita la query di base, i campi di cui si desidera l’output e il formato di output.
+
+ q=subject:COVID-19 AND numero:68&fl[]=creator&fl[]=identifier&fl[]=item_size&fl[]=licenseurl&fl[]=mediatype&fl[]=year&fl[]=numero&sort[]=&sort[]=&sort[]=&rows=100&page=1&callback=callback&save=yes&output=json
+
+ Una cosa molto interessante è che uno degli output possibili è l’ RSS : ci si può “iscrivere” ed essere avvisati quando sarà pubblicato un nuovo documento, che soddisfa i criteri di ricerca scelti.
+
+ Ed è possibile fare le  ricerche testuali , come ad esempio “ ministro speranza verbale covid-19 “. Ci sono però delle problematicità:
+
+ una è la ricchezza di archive , e quindi con le stesse parole chiave, si possono avere anche “altri” documenti. Questo problema sarà superato non appena questi verbali saranno inseriti in una collezione di documenti (abbiamo fatto richiesta);
+ l’interfaccia di ricerca non funziona bene. È possibile infatti combinare la ricerca di testo con quella per metadati ( sotto un esempio ), ma se si cambiano le parole chiave si perde l’associazione al filtro per metadati.
+
+ Strumenti usati
+
+ Fare tutto questo è semplice. Il punto di partenza è creare un  file  con le  informazioni  sui file da caricare. Ne è stato usato uno come questo CSV  ( qui la parte di documentazione dedicata all’ upload di più risorse).
+E poi si può usare l’ utility ufficiale a riga di comando  per fare tutto il resto:  https://archive.org/services/docs/api/internetarchive/cli.html 
+
+ Questi i comandi di base
+
+ # per fare il primo upload leggendo i dati su una tabella CSV come quella di sopra
+ia upload --spreadsheet=ia.csv
+
+# per leggere i metadati di una risorsa
+ia metadata covid-19-cts-verbale-059-2020042425_ia
+
+# per fare una ricerca
+ia search 'subject:"CTS" AND subject:"Italia" AND subject:"COVID-19"' --itemlist 
+
+ Navigazione articoli
+
+ Le API di ISTAT documentate sul catalogo delle API REST italiane 
+
+ Nasce la campagna DatiBeneComune: il Governo apra finalmente i dati sull’emergenza Covid-19 
+
+ Di Andrea Borruso 
+
+ Articoli correlati
+
+ Advocacy
+
+ Azioni
+
+ Dati
+
+ Dal Data Analytics Framework (DAF) alla Piattaforma Digitale Nazionale Dati (PDND) 
+
+ Nov 30, 2021 
+ Vincenzo Patruno 
+
+ Dati Bene Comune
+
+ Webinar
+
+ Workshop: “Open data e politiche pubbliche: utilizzo e gestione dei dati per la salute dei cittadini” 
+
+ Feb 25, 2021 
+ onData 
+
+ Dati Bene Comune
+
+ Webinar
+
+ Social & Geo Open Data 
+
+ Feb 22, 2021 
+ onData 
+
+ Lascia un commento Annulla risposta 
+ Il tuo indirizzo email non sarà pubblicato. I campi obbligatori sono contrassegnati * 
+ Commento * 
+ Nome * 
+
+ Email * 
+
+ Sito web 
+
+ Do il mio consenso affinché un cookie salvi i miei dati (nome, email, sito web) per il prossimo commento. 
+
+ onData APS
+
+ Associazione di promozione sociale
+
+Via Damiani Almeyda, 5
+
+90141 – Palermo
+
+Codice fiscale: 97309210827
+
+ Associati a onData 
+
+ Scopri come 
+
+ Sostieni onData!
+
+ Puoi sostenere l’associazione in tanti modi: attraverso il tuo 5X1000 , un bonifico bancario o una donazione PayPal .
+
+ Dona 
+
+ Aderiamo a
+
+ Meta
+
+ Accedi 
+
+ Feed dei contenuti 
+
+ Feed dei commenti 
+
+ WordPress.org 
+
+ Proudly powered by WordPress 
+ | 
+ Tema: Newsup di Themeansar . 
+
+ Home 
+
+ Dona 
+
+ Privacy Policy 
+
+ Gestisci Consenso Cookie
+
+ Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni.
+
+ Funzionale 
+
+ Funzionale 
+
+ Sempre attivo 
+
+ L'archiviazione tecnica o l'accesso sono strettamente necessari al fine legittimo di consentire l'uso di un servizio specifico esplicitamente richiesto dall'abbonato o dall'utente, o al solo scopo di effettuare la trasmissione di una comunicazione su una rete di comunicazione elettronica. 
+
+ Preferenze 
+
+ Preferenze 
+
+ L'archiviazione tecnica o l'accesso sono necessari per lo scopo legittimo di memorizzare le preferenze che non sono richieste dall'abbonato o dall'utente. 
+
+ Statistiche 
+
+ Statistiche 
+
+ L'archiviazione tecnica o l'accesso che viene utilizzato esclusivamente per scopi statistici. 
+ L'archiviazione tecnica o l'accesso che viene utilizzato esclusivamente per scopi statistici anonimi. Senza un mandato di comparizione, una conformità volontaria da parte del vostro Fornitore di Servizi Internet, o ulteriori registrazioni da parte di terzi, le informazioni memorizzate o recuperate per questo scopo da sole non possono di solito essere utilizzate per l'identificazione. 
+
+ Marketing 
+
+ Marketing 
+
+ L'archiviazione tecnica o l'accesso sono necessari per creare profili di utenti per inviare pubblicità, o per tracciare l'utente su un sito web o su diversi siti web per scopi di marketing simili. 
+
+ Gestisci opzioni 
+ Gestisci servizi 
+ Gestisci fornitori 
+ Per saperne di più su questi scopi 
+
+ Accetta 
+ Nega 
+ Visualizza le preferenze 
+ Salva preferenze 
+ Visualizza le preferenze 
+
+ {title} 
+ {title} 
+ {title} 
+
+ Gestisci consenso

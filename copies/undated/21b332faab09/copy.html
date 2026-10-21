@@ -1,0 +1,712 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html  lang="it">
+  <head>
+    <title>Configurazione dei dispositivi 802.11</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Alessandro Falaschi">
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+    <meta name="description" content="Analisi e cattura del traffico WiFi ed elementi di sicurezza">
+  </head>
+  <body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://teoriadeisegnali.it/story/802.11/on_desk/configurazione.html">teoriadeisegnali.it/story/802.11/on_desk/configurazione.html</a> · captured 2021-09-20 · scripts removed</div>
+    <span  style="font-style: italic;"><a  href="../index.html">Laboratorio
+        di Elettronica e Telecomunicazioni</a> - Semi-modulo di analisi di reti
+      802.11</span><br>
+    <h2>Configurazione dei dispositivi</h2>
+    Eseguiamo i passi necessari a far funzionare un access point, ed utilizzarlo
+    come accesso alla rete
+    <hr  style="width: 100%; height: 2px;">
+    <h3><a  name="Indice"></a>Indice</h3>
+    <ul>
+      <li><a  href="#Attivazione_dellAccess_Point">Attivazione dell'Access Point</a></li>
+      <li><a  href="#Associazione_di_una_stazione_mobile">Associazione di una
+          stazione mobile</a></li>
+      <li><a  href="#Stato_delle_connessioni">Stato delle connessioni</a></li>
+      <li><a  href="#Analisi_del_traffico">Analisi del traffico</a></li>
+      <li><a  href="#Controllo_di_Potenza">Controllo di Potenza</a></li>
+      <li><a  href="#Autenticazione_ed_associazione">Autenticazione ed
+          associazione</a></li>
+      <li><a  href="#Sicurezza">Sicurezza</a></li>
+      <li><a  href="#Debolezza_del_WEP_e_soluzioni_recenti">Debolezza del WEP
+          e soluzioni recenti</a></li>
+      <li><a  href="#Letture_ulteriori_">Letture ulteriori</a></li>
+    </ul>
+    <div  style="text-align: center;">
+      <div  style="text-align: left;">
+        <div  style="text-align: right;"><a  href="#Indice">^ indice</a> </div>
+        <hr  style="width: 100%; height: 2px;"></div>
+      <div  style="text-align: left;">
+        <h3><a  name="Attivazione_dellAccess_Point"></a>Attivazione dell'Access
+          Point</h3>
+        Il manuale del modello che utilizziamo (<a  href="http://www.usr.com/support/product-template.asp?prod=5450"
+           target="">USRobotics 5450</a>), che � venduto come configurabile
+        mediante una <span  style="font-style: italic;">interfaccia web</span>,
+        dice di inserire prima di tutto <span  style="font-style: italic;">il
+          CD di installazione</span>!!! che ovviamente, contiene un <span  style="font-style: italic;">eseguibile
+          per Windows</span>!!! ma come? non e' un dispositivo di rete, che
+        funziona per i fatti suoi ??? Occorre.. avere Windows ??? noooo<br>
+        <br>
+        Per capire qualcosa, colleghiamo l'interfaccia di rete dell'AP
+        direttamente al computer, e sniffiamo il traffico, trovando:<br>
+        <div  style="text-align: left; margin-left: 40px;">
+<pre>No. Time        Source        Destination           Protocol Info<br>
+ 12 24.595925�� 0.0.0.0������ 255.255.255.255������ DHCP���� DHCP Discover - Transaction ID 0x22334459
+ 13 26.796113�� 0.0.0.0������ 255.255.255.255������ DHCP���� DHCP Discover - Transaction ID 0x2233445a
+ 16 31.196379�� 0.0.0.0������ 255.255.255.255������ DHCP���� DHCP Discover - Transaction ID 0x2233445b
+ 17 39.996999�� 0.0.0.0������ 255.255.255.255������ DHCP���� DHCP Discover - Transaction ID 0x2233445c</pre>
+        </div>
+        quindi l'arcano e' risolto: il CD di installazione semplicemente
+        lancerebbe un server <span  style="font-weight: bold;">DHCP</span>
+        su di una macchina Windows. Nessuna paura quindi, con Linux �
+        presente il <a  href="http://www.isc.org/index.pl?/sw/dhcp/"  target="">DHCP
+        di ISC</a> (Internet Systems Consortium) che viene configurato nel file
+        <span  style="font-family: monospace;">/etc/dhcp3/dhcpd.conf</span>;
+        una sua configurazione minimale, tale da�fornire�i soli
+        parametri necessari, �:<br><br>
+        
+        <div  style="margin-left: 40px;"><span  style="font-family: monospace;">ddns-update-style none;</span>
+          <br  style="font-family: monospace;">
+          <span  style="font-family: monospace;">subnet 192.168.0.0 netmask 255.255.255.0 {</span><br  style="font-family: monospace;">
+          <span  style="font-family: monospace;">����� �range 192.168.0.210 192.168.0.220;</span><br  style="font-family: monospace;">
+          <span  style="font-family: monospace;">����� �default-lease-time 7200;���� # ten hours</span><br  style="font-family: monospace;">
+          <span  style="font-family: monospace;"></span>
+          <span  style="font-family: monospace;">}<br><br></span>
+        </div>
+
+        che imposta un intervallo di 10 indirizzi da assegnare a chi li chiede.
+        A questo punto si imposta l'indirizzo 192.168.0.40/24 all'interfaccia 
+        <span style="font-family: monospace;">eth0</span>, si fa partire il demone 
+        <span style="font-family: monospace;">dhcpd</span> con il comando 
+        <span style="font-family: monospace;">sudo /etc/init.d/dhcp3-server start</span>,
+        e si osserva l'AP inizializzarsi felice:
+        <span  style="font-family: monospace;"></span><br  style="font-family: monospace;">
+
+        <span  style="font-family: monospace;"></span><br>
+
+        <pre  style="margin-left: 40px;">No.   Time     Source                Destination           Protocol Info
+�1 0.000000    0.0.0.0               255.255.255.255       DHCP     DHCP Discover - Transaction ID 0x22334455
+ 2 0.006024    Micro-St_f0:9c:04     Broadcast             ARP      Who has 192.168.0.219?  Tell 192.168.0.40
+ 3 0.494285    151.100.8.236         192.168.0.219         DHCP     DHCP Offer    - Transaction ID 0x22334455
+ 4 0.494866    0.0.0.0               255.255.255.255       DHCP     DHCP Request  - Transaction ID 0x22334455
+ 5 0.500018    151.100.8.236         192.168.0.219         DHCP     DHCP ACK      - Transaction ID 0x22334455
+ 6 1.006034    Micro-St_f0:9c:04     Broadcast             ARP      Who has 192.168.0.219?  Tell 192.168.0.40
+ 7 1.006328    USRoboti_60:41:9e     Micro-St_f0:9c:04     ARP      192.168.0.219 is at 00:c0:49:60:41:9e
+ 8 1.006342    192.168.0.40          192.168.0.219         ICMP     Echo (ping) request
+ 9 1.006636    192.168.0.219         192.168.0.40          ICMP     Echo (ping) reply</pre>
+
+        notiamo come prima di assegnare l'indirizzo <span  style="font-family: monospace;">192.168.0.219</span>,
+        si verifichi che questo sia libero mediante un <span  style="font-family: monospace;">arp</span>,
+        mentre ad assegnazione avvenuta, una richiesta ARP unicast ne verifica l'esito.<br>
+        <br>
+
+        A questo punto finalmente si pu� configurare l'AP via web,
+        inserendo http://192.168.0.219 nel browser, e rispondendo "<span  style="font-family: monospace;">admin</span>"
+        alla richiesta di autenticazione HTTP. Di qui � quindi possibile assegnare i parametri IP in modo stabile, in modo da evitare
+        il ricorso al DHCP esterno per le volte successive.<br>
+        <br>
+
+        <div  style="text-align: center;"><img  style="width: 724px; height: 635px;"  alt="" src="../img/AP_web_IP.png"><br>
+        <br>
+
+        <div  style="text-align: left;">Inoltre, l'access point stesso 
+        pu� essere configurato come un server DHCP dal lato wireless, e 
+        quindi una stazione mobile pu� autoconfigurarsi. Notiamo 
+        per� che l'AP non � equipaggiato con un NAT, e quindi 
+        occorrer� impostare degli IP pubblici, oppure appoggiarsi ad 
+        un NAT esterno.<br>
+        <br>
+
+        <div  style="text-align: center;">
+            <img  style="width: 504px; height: 202px;"  alt="" src="../img/AP_&_NAT.png"><br>
+        </div>
+
+        <div  style="text-align: right;"><a  href="#Indice">^indice</a><br>
+        </div>
+
+       <hr  style="width: 100%; height: 2px;">
+       <h3><a  name="Associazione_di_una_stazione_mobile"></a>Associazione di una stazione mobile</h3>
+
+       Una macchina Linux dispone di alcuni comandi 
+       (<a  href="http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html" target="">Wireless tools</a>)
+       per la gestione dei collegamenti wireless, corredati da�un prezioso sforzo di 
+       <a  href="http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Wireless.html"  target="">documentazione</a>.
+       I comandi che useremo per�,�sono solo due:<br>
+       
+       <ul>
+           <li><a  style="font-weight: bold;"  href="http://www.die.net/doc/linux/man/man8/iwlist.8.html" target="">iwlist</a>:
+           rapporta a riguardo degli access point nei paraggi, dei loro parametri
+           di configurazione, nonch� dei parametri ammessi dalla propria scheda wireless;</li>
+           <li><a  style="font-weight: bold;"  href="http://www.die.net/doc/linux/man/man8/iwconfig.8.html" target="">iwconfig</a>:
+           permette di configurare i parametri associati ad una scheda di rete
+           wireless, in modo da permetterne il funzionameno con gli AP circostanti</li>
+       </ul>
+       
+       Questi comandi sono stati inseriti in un apposito file di script, che
+       li esegue nella corretta sequenza, e permette un minimo di 
+       configurazione manuale. Eccone un esempio:<br>
+       
+       <pre  style="margin-left: 40px;">#!/bin/bash<br># questo file ha nome wlan.ipw2200
+<br>BOARD=ipw2200��������������� # il nome di convenienza della scheda
+WIFACE=eth1����������������� # il nome dell'interfaccia di rete
+ADDR=192.168.120.40��������� # l'indirizzo IP che intendiamo assegnargli
+GW=192.168.120.1������������ # il default Gateway relativo
+ESSID=USR5450��������������� # l'identificativo dell'access point<br>
+up () {<br>
+ echo attivazione di $BOARD su $WIFACE
+ modprobe -r ipw2200
+ echo "per sicurezza ho prima rimosso il modulo ipw2200"
+ sleep 2
+ modprobe ipw2200
+�echo "ora l'ho rimesso"<br>
+ iwconfig��������������������       # verifica che interfaccia sia riconosciuta e funzionante
+ iwlist $WIFACE scanning�����       # verifica di ricevere AP 
+ iwconfig $WIFACE mode Managed����� # configura il driver per il tipo di rete
+ iwconfig $WIFACE essid $ESSID����� # ed il suo identificativo
+ ip addr add $ADDR/24 dev $WIFACE�� # assegna indirizzo IP e Netmask
+ ip link set $WIFACE up������������ # abilita l'interfaccia
+ ip addr��������������������������� # vediamo se tutto e' andato bene
+ ip route del default�������������� # reimposta la default route
+ ip route add default via $GW
+ ip route�������������������������� # tutto bene ?
+ return
+}<br>
+down () {
+�echo disattivazione di $BOARD su $WIFACE<br>
+�ip link set dev $WIFACE down
+�ip link<br>
+�return<br>}</pre>
+
+<pre  style="margin-left: 40px;">echo "Scheda $BOARD su interfaccia $WIFACE,"
+echo "con IP $ADDR e default gateway $GW, verso"
+echo "l'accesspoint USR con essid $ESSID, senza WEP."<br>
+case "$1" in
+  up)
+��� up
+��� ;;
+� down)
+��� down
+��� ;;
+� *)
+��� echo "usage $0 up | down"
+��� exit 1
+esac<br>
+exit</pre>
+
+
+       Questo script, una volta reso eseguibile con il comando 
+       <span  style="font-family: monospace;">chmod 755 wlan.ipw2200</span> 
+       e lanciato da <span style="font-family: monospace;">root</span>, 
+       accetta le opzioni <span  style="font-style: italic;">up</span> o 
+       <span style="font-style: italic;">down</span>,
+       e dopo aver rimosso e reinserito il modulo del chipset wireless (in
+       modo da resettarlo completamente) provvede a far associare 
+       l'interfaccia al nostro �access point. Allo scopo di monitorare
+       ci� che succede dietro le quinte, possimo configurare una
+       seconda interaccia di rete wireless in� 
+       <a  href="#Analisi_del_traffico">modalit� monitor</a>.<br>
+
+       <div  style="text-align: right;"><a  href="#Indice">^ indice</a></div>
+
+       <hr  style="width: 100%; height: 2px;">
+      <h3><a  name="Stato_delle_connessioni"></a>Stato delle connessioni</h3>
+
+      Sempre in Linux, esiste un 
+      <span  style="font-style: italic;">filesystem virtuale</span>, 
+      <span  style="font-family: monospace;">/proc</span>, i
+      cui contenuti sono generati <span  style="font-style: italic;">al volo</span>
+      dal kernel, e che costituisce un pratico mezzo per raccogliere
+      informazioni sul sistema. Nel caso del wireless, le informazioni sono
+      mostrate visualizzando <span  style="font-family: monospace;">/proc/net/wireless</span>,
+      che mostra ad esempio:<br>
+
+      <pre  style="margin-left: 40px;">root@alef-laptop:~# cat /proc/net/wireless
+Inter-| sta-|   Quality        |   Discarded packets               | Missed | WE
+ face | tus | link level noise |  nwid  crypt   frag  retry   misc | beacon | 20
+  eth1: 0000   88.  -41.  -86.       0      0      0      0      4        0
+  eth2: 021f   82.  -55.  -100.      6      0      0      0  13752        9
+ wifi0: 021f   82.  -55.  -100.      6      0      0      0  13752        9</pre>
+
+      in cui il numero di pacchetti scartati, d� un idea della qualit� del collegamento,
+      cos� come il numero <span  style="font-style: italic;">Quality Link</span>,
+      mentre <span  style="font-style: italic;">Quality Level</span>, � relativo
+      alla <span  style="font-style: italic;">forza</span> del segnale
+      ricevuto. In particolare, notiamo l'esistenza di ben 3 interfacce di rete,
+      di cui solo due reali, 
+      <span style="font-family: monospace;">eth1</span> ed 
+      <span style="font-family: monospace;">eth2</span>, mentre 
+      <span style="font-family: monospace;">wifi0</span> � un alias della�interfaccia di
+      <span style="font-family: monospace;">eth2</span>, configurata in modo da permettere la cattura del traffico.
+      <br>
+
+      <div  style="text-align: right;"><a  href="#Indice">^ indice</a></div>
+
+
+      <hr  style="width: 100%; height: 2px;">
+      <h3><a  name="Analisi_del_traffico"></a>Analisi del traffico</h3>
+
+      I driver (o <span  style="font-style: italic;">moduli</span>, nel gergo
+      Linux) di alcuni chipset wireless, permettono di configurare gli stessi
+      in modalit� <span  style="font-style: italic;">monitor</span>,
+      in modo tale cio� che non funzionino pi� come interfacce
+      di rete, ma permettano ad una applicazione di monitorare il traffico
+      radio che viene ricevuto. In tal modo, <span  style="font-style: italic;">Ethereal</span>
+      viene messo in grado di sniffare anche i protocolli di strato di collegamento, che normalmente
+      si svolgono tutti tra l'interfaccia e l'AP, senza notificare nulla agli
+      strati superiori.<br>
+      <br>
+
+      Il sito di wireshark racconta di come sniffare il traffico radio, presso 
+      <a href="http://www.wireshark.org/faq.html#q10.1"><span  style="font-family: monospace;">http://www.wireshark.org/faq.html#q10.1</span></a>,
+      e fa notare come, in linea generale, il driver debba essere messo in
+      modalit� monitor, che provoca la perdita del traffico 
+      <span  style="font-style: italic;">normale</span>. Presso il 
+      <a  href="http://wiki.wireshark.org/CaptureSetup/WLAN">wiki</a>
+      viene approfondito molto bene il tema della cattura di
+      pacchetti 802.11, e sono riportate le modalit� di cattura per i
+      diversi adattatori di rete. Il 
+      <span  style="font-family: monospace; font-style: italic;">setup</span>
+      sperimentale che � stato usato per produrre i file di 
+      <span style="font-style: italic;">capture</span> 
+      allegati a questa sezione, equipaggia un portatile Linux con due interfacce di rete, che corrispondono a 
+      <span style="font-family: monospace;">eth1</span> ed 
+      <span style="font-family: monospace;">eth2</span>: 
+      la prima, � quella integrata nella scheda madre, mentre la seconda, � aggiunta�in uno slot 
+      <span style="font-family: monospace;">pcmcia</span>. 
+      A queste due interfacce fisiche, ne vengono affiancate altre due 
+      <span style="font-style: italic;">virtuali</span>, rispettivamente 
+      <span style="font-family: monospace;">rtap0</span> e 
+      <span style="font-family: monospace;">wifi0</span>, come illustrato sotto.<br>
+
+      <a  name="setup"></a><br>
+
+      <table  style="text-align: left; width: 100%;"  border="1"  cellpadding="2"  cellspacing="2">
+  <tbody>
+    <tr>
+      <td  style="font-style: italic;">interfaccia</td>
+      <td><span  style="font-style: italic;">indirizzo MAC<br>
+      note Wireshark</span></td>
+      <td  style="font-style: italic;">modulo kernel</td>
+      <td  style="font-style: italic;">standard</td>
+      <td  style="font-style: italic;">modalit� monitor</td>
+    </tr>
+
+    <tr>
+      <td><span  style="font-family: monospace;">eth1</span></td>
+      <td><span  style="font-family: monospace;">00:16:6f:54:3b:a5<br>
+      </span><a  href="http://wiki.wireshark.org/CaptureSetup/WLAN#head-84f7dbf65649906eedf23c185e84449a047d092c">Intel/Centrino</a></td>
+      <td><a  href="http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Linux.Wireless.drivers.802.11ag.html#CentrinoAG">ipw2200</a></td>
+      <td>802.11b/g</td>
+      <td><tt>iwconfig eth1 </tt><tt>mode�monitor</tt><span  style="font-style: italic;"></span></td>
+    </tr>
+
+    <tr>
+      <td><span  style="font-family: monospace;">rtap0</span></td>
+      <td><br>
+</td>
+
+      <td  style="font-family: monospace; text-align: right;"  rowspan="1"  colspan="2"><span
+ style="font-style: italic;">aggiungere<br>
+      <br>
+      </span><span  style="font-style: italic;">nel file<br>
+      <br>
+
+      </span><span  style="font-style: italic;">e quindi eseguire</span></td>
+      <td><span  style="font-style: italic;"></span><span  style="font-family: monospace;">options ipw2200 rtap_iface=1<br>
+      </span><span  style="font-family: monospace;"><br>
+      </span><span  style="font-family: monospace;">/etc/modprobe.d/ipw2200<br>
+      <br>
+      </span><tt>ip link set dev rtap0 up</tt><span  style="font-family: monospace;"></span></td>
+    </tr>
+
+    <tr>
+      <td><span  style="font-family: monospace;">eth2</span></td>
+      <td><span  style="font-family: monospace;">00:11:20:a1:43:10<br>
+      </span><a  href="http://wiki.wireshark.org/CaptureSetup/WLAN#head-3c0c9a2cb01564933c235e11122bc0aa45df884c-2">Cisco/Aironet</a></td>
+      <td><a  href="http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Linux.Wireless.drivers.802.11b.html#Arlan802">airo</a></td>
+      <td>802.11b</td>
+      <td  style="white-space: nowrap;"><br>
+      </td>
+    </tr>
+
+    <tr>
+      <td><span  style="font-family: monospace;">wifi0</span></td>
+      <td><br></td>
+      <td  style="text-align: right;"  colspan="2"  rowspan="1">
+          <span  style="font-family: monospace; font-style: italic;">eseguire</span>
+          <br style="font-family: monospace; font-style: italic;">
+          <br style="font-family: monospace; font-style: italic;">
+      <span  style="font-family: monospace; font-style: italic;">e quindi</span></td>
+
+      <td  style="white-space: nowrap;"><tt>echo�"Mode: y"�>/proc/driver/aironet/eth2</tt><em></em><tt>/Config<br>
+      <br>
+ip link set dev wifi0 up</tt></td>
+    </tr>
+
+    <tr>
+      <td>Access Point</td>
+      <td><span  style="font-family: monospace;">00:c0:49:60:41:9e</span><br>USRobotics</td>
+      <td><br></td>
+      <td>802.11b/g</td>
+      <td><br></td>
+    </tr>
+  
+  </tbody>
+</table>
+
+<br>
+
+Con i comandi riassunti in tabella, se <span  style="font-family: monospace;">eth1</span>
+� posta in modalit� monitor, questa cessa di funzionare
+come interfaccia di rete, e riesce solo a catturare in modo passivo il
+traffico radio che vede. Allo stesso tempo per�, � in
+grado di riportare allo strato applicativo il contenuto degli header <a  href="http://madwifi.org/wiki/DevDocs/RadiotapHeader">radiotap</a>, che informano a riguardo di parametri relativi al funzionamento dello strato fisico. In alternativa, <span
+ style="font-family: monospace;">eth1</span> pu� essere mantenuta operativa come interfaccia di rete (<span
+ style="font-family: monospace;">iwconfig eth1 mode managed</span>), e pu� essere creato (in accordo alle istruzioni nella seconda riga) un suo alias indicato come <span
+ style="font-family: monospace;">rtap0</span>,
+in grado di permettere�il capture completo di intestazioni 802.11.
+Sembrerebbe la migliore delle soluzioni possibili, tranne che... in
+questa configurazione, non siamo riusciti a catturare il traffico di
+gestione che passa da <span  style="font-family: monospace;">eth1</span> :-(<br>
+
+<br>
+
+Si � quindi optato per usare <span  style="font-family: monospace;">eth1</span> in una modalit� di funzionamento <span
+ style="font-style: italic;">normale</span>, e di usare <span  style="font-family: monospace;">eth2</span> per catturare il traffico sviluppato con <span
+ style="font-family: monospace;">eth1</span>.
+A tal fine, si sono immessi i comandi indicati nella terza riga,
+cos� come appaiono nel wiki di wireshark, di fatto disabilitando
+<span  style="font-family: monospace;">eth2</span>, e creado al contempo una sua interfaccia-alias, <span
+ style="font-family: monospace;">wifi0</span>, mediante la quale�ci si pu� porre in ascolto del traffico in aria.<br>
+
+<br>
+
+Catturando ora il segnale radio in assenza di attivit� da parte
+delle stazioni mobili, possiamo osservare le trame di gestione
+trasmesse dall'Access Point, inviate�in broadcast�con
+il periodo�specificato come <a  href="#soglie_AP"  target=""><span  style="font-style: italic;">Beacon Interval</span></a>:<br>
+<br>
+
+<div  style="margin-left: 40px;"><span  style="font-family: monospace;">�No.
+Time�������
+Source���������������
+Destination���� Protocol Info</span><br  style="font-family: monospace;">
+
+<span  style="font-family: monospace;">�
+22
+0.869161���
+USRoboti_60:41:9e����
+Broadcast������
+IEEE 802.11 Beacon frame,
+SSID: "USR5450"</span><br  style="font-family: monospace;">
+
+<span  style="font-family: monospace;">�
+23
+0.971585���
+USRoboti_60:41:9e����
+Broadcast������
+IEEE 802.11 Beacon frame,
+SSID: "USR5450"</span><br  style="font-family: monospace;">
+
+<span  style="font-family: monospace;">�
+24
+1.073983���
+USRoboti_60:41:9e����
+Broadcast������
+IEEE 802.11 Beacon frame,
+SSID: "USR5450"</span><br  style="font-family: monospace;">
+</div>
+
+<br>
+provando ad aprirne uno, troviamo le seguenti informazioni, che
+possiamo interpretare ricordando la struttura della sotto-trama MAC:<br><br>
+
+<div  style="text-align: center;"><img  style="width: 555px; height: 133px;"  alt=""
+ src="../img/802.12_MAC_frame.png"><br><br>
+</div>
+
+<div  style="margin-left: 40px;">
+<pre>IEEE 802.11<br>��� Type/Subtype: Beacon frame (8)<br>��� Frame Control: 0x0080 (Normal)<br>������� Version: 0<br>������� Type: Management frame (0)<br>������� Subtype: 8<br>������� Flags: 0x0<br>����������� DS status: Not leaving DS or network is operating in AD-HOC mode (To DS: 0� From DS: 0) (0x00)<br>����������� .... .0.. = More Fragments: This is the last fragment<br>����������� .... 0... = Retry: Frame is not being retransmitted<br>����������� ...0 .... = PWR MGT: STA will stay up<br>����������� ..0. .... = More Data: No data buffered<br>����������� .0.. .... = WEP flag: WEP is disabled<br>����������� 0... .... = Order flag: Not strictly ordered<br>��� Duration: 0<br>��� Destination address: ff:ff:ff:ff:ff:ff (Broadcast)<br>��� Source address: 00:c0:49:60:41:9e (USRoboti_60:41:9e)<br>��� BSS Id: 00:c0:49:60:41:9e (USRoboti_60:41:9e)<br>��� Fragment number: 0<br>��� Sequence number: 3242<br>IEEE 802.11 wireless LAN management frame<br>��� Fixed parameters (12 bytes)<br>������� <a
+ name="Timestamp"></a>Timestamp: 0x000000026AA89129<br>������� Beacon Interval: 0,102400 [Seconds]<br>������� Capability Information: 0x0001<br>����������� .... .... .... ...1 = ESS capabilities: Transmitter is an AP<br>����������� .... .... .... ..0. = IBSS status: Transmitter belongs to a BSS<br>����������� .... .... .... 00.. = CFP participation capabilities: No point coordinator at AP (0x0000)<br>����������� .... .... ...0 .... = Privacy: AP/STA cannot support WEP<br>����������� .... .... ..0. .... = Short Preamble: Short preamble not allowed<br>����������� .... .... .0.. .... = PBCC: PBCC modulation not allowed<br>����������� .... .... 0... .... = Channel Agility: Channel agility not in use<br>����������� .... .0.. .... .... = Short Slot Time: Short slot time not in use<br>����������� ..0. .... .... .... = DSSS-OFDM: DSSS-OFDM modulation not allowed<br>��� Tagged parameters (40 bytes)<br>������� Tag Number: 0 (SSID parameter set)<br>������� Tag length: 7<br>������� Tag interpretation: USR5450<br>������� Tag Number: 1 (Supported Rates)<br>������� Tag length: 4<br>������� Tag interpretation: Supported rates: 1,0(B) 2,0(B) 5,5(B) 11,0(B) [Mbit/sec]<br>������� Tag Number: 3 (DS Parameter set)<br>������� Tag length: 1<br>������� Tag interpretation: Current Channel: 1<br>������� Tag Number: 221 (Vendor Specific)<br>������� Tag length: 6<br>������� Tag interpretation: Not interpreted<br>������� Tag Number: 5 ((TIM) Traffic Indication Map)<br>������� Tag length: 4<br>������� Tag interpretation: DTIM count 0, DTIM period 3, Bitmap control 0x0, (Bitmap suppressed)<br>������� Tag Number: 7 (Country Information)<br>������� Tag length: 6<br>������� Tag interpretation: Country Code: EU, Any Environment, Start Channel: 1, Channels: 13, Max TX Power: 20 dBm</pre>
+</div>
+
+Tralasciando la discussione sui campi indirizzo, notiamo come la parte
+dati sia divisa in parametri <span  style="font-style: italic;">fissi</span>
+e <span  style="font-style: italic;">tagged</span> (etichettati): il
+tipo,�numero ed ordine dei primi � fisso, ed �
+legato al tipo/sottotipo della trama di gestione; ognuno dei secondi
+invece e' suddiviso nei tre campi <span  style="font-style: italic;">Numero</span>,
+<span  style="font-style: italic;">Lunghezza</span>
+e <span  style="font-style: italic;">Valore</span>,
+e possono essere presenti o
+meno in qualsiasi ordine, permettendo di estendere il protocollo, anche
+con tecnologie proprietarie.<br><br>
+
+In questa fase, i parametri importanti sono le velocit�
+supportate, l'uso di crittografia WEP,�le opzioni di modulazione,
+ed�il SSID, ossia l'identit� dell'<span  style="font-style: italic;">Extended Service�Set</span> (ESS),
+che permette di distinguere un Access Point da un altro, ovvero un <span  style="font-style: italic;">insieme</span>
+di AP, gestiti dalla stessa organizzazione. La trasmissione del <span  style="font-style: italic;">Beacon</span>
+pu� essere disabilitata rendendo pi� difficile aderire
+alla rete Wireless, senza conoscerne il SSID.<br>
+
+<a  name="soglie_AP"></a><br>
+<div  style="text-align: center;"><img  style="width: 540px; height: 632px;"  alt=""
+ src="../img/AP_web_adv.png"><br>
+<br>
+
+<div  style="text-align: left;">Come
+si vede, oltre al tipo di
+modulazione (11b, 11g, o entrambi) ed al controllo di potenza, alcuni
+dei parametri presenti nel Beacon, sono configurabili. Inoltre,
+� possibile definire la soglia di intervento per l'uso delle
+trame di controllo <a  href="accesso.html#Terminale_nascosto">RTS/CTS</a>, e quella oltre la quale si ricorre alla <a
+ href="accesso.html#Frammentazione">frammentazione</a>.<br>
+
+<div  style="text-align: right;"><a  href="#Indice">^ indice</a><br></div>
+
+<hr  style="width: 100%; height: 2px;">
+<h3><a  name="Controllo_di_Potenza"></a>Controllo di Potenza</h3>
+
+Le stazioni wireless sono in genere alimentate a pile, e per
+risparmiare energia, se non devono trasmettere cadono in uno stato di <span  style="font-style: italic;">Power Save</span>,
+da cui escono per porsi in ricezione, in occasione della trasmissione dei�Beacon
+frame. <br><br>
+
+La <span  style="font-style: italic;">Traffic Indication Map</span>
+(TIM),�presente nel Beacon, serve ad indicare che l'AP sta mantenendo in memoria informazioni destinate alle
+stazioni�in�risparmio energetico, e specifica quali sono le
+stazioni che dovrebbero risvegliarsi, per ricevere i dati. Il Delivery
+Traffic Indication Map (DTIM) non viene�trasmesso ad ogni Beacon
+come il TIM, ma solo agli�intervalli impostati, e serve ad
+indicare la disponibilit�di dati multicast o broadcast,
+destinati a tutti. <br><br>
+
+Quando una (o pi�) stazioni sono notificate della giacenza,
+annunciano il proprio risveglio inviando all'AP delle trame <span  style="font-style: italic;">PS-Poll</span>,
+ed iniziano a recuperare i loro dati.<br>
+
+<div  style="text-align: right;"><a  href="#Indice">^ indice</a><br>
+</div>
+</div>
+</div>
+
+<hr  style="width: 100%; height: 2px;">
+<h3><a  name="Autenticazione_ed_associazione"></a>Autenticazione ed associazione</h3>
+
+Mantenendo attivo lo sniffing, possiamo osservare cosa accade quando
+una nuova stazione si attiva. Inseriamo la seconda interfaccia di rete,
+ed eseguendo lo script <span  style="font-family: monospace;">wlan.ipw2200</span>,
+si ottiene:<br>
+
+<pre  style="margin-left: 40px;">No.�Time������� Source��������������� Destination���������� Protocol Info
+387 24.634576�� USRoboti_60:41:9e���� Broadcast������������ IEEE 802.11 Beacon frame, SSID: "USR5450"
+388 24.698612�� 3comEuro_aa:07:3d���� Broadcast������������ IEEE 802.11 Probe Request, SSID: "USR5450"
+389 24.699260�� USRoboti_60:41:9e���� 3comEuro_aa:07:3d���� IEEE 802.11 Probe Response, SSID: "USR5450"
+397 25.014964�� 3comEuro_aa:07:3d���� USRoboti_60:41:9e���� IEEE 802.11 Authentication
+398 25.015747�� USRoboti_60:41:9e���� 3comEuro_aa:07:3d���� IEEE 802.11 Authentication
+399 25.016822�� 3comEuro_aa:07:3d���� USRoboti_60:41:9e���� IEEE 802.11 Association Request, SSID: "USR5450"
+400 25.018777�� USRoboti_60:41:9e���� 3comEuro_aa:07:3d���� IEEE 802.11 Association Response</pre>
+
+
+In pratica, in corrispondenza al comando <span  style="font-family: monospace; font-style: italic;">iwconfig
+$WIFACE
+essid $ESSID</span>, la scheda invia
+un <span  style="font-style: italic;">Probe
+Request</span> (388) per il SSID
+impostato, e di cui mostriamo i campi salienti:<br>
+
+<pre  style="margin-left: 40px;">��� Type/Subtype: Probe Request (4)<br>������� Tag Number: 0 (SSID parameter set)<br>������� Tag length: 7<br>������� Tag interpretation: USR5450<br>������� Tag Number: 1 (Supported Rates)<br>������� Tag length: 4<br>������� Tag interpretation: Supported rates: 1,0 2,0 5,5 11,0 [Mbit/sec]<br>������� Tag Number: 50 (Extended Supported Rates)<br>������� Tag length: 8<br>������� Tag interpretation: Supported rates: 6,0 9,0 12,0 18,0 24,0 36,0 48,0 54,0 [Mbit/sec]</pre>
+
+come si vede, essendo la scheda una <span  style="font-family: monospace;">802.11g</span>,
+annuncia anche il supporto�di velocit� pi� elevate.<br>
+
+Quindi, dopo un�<span  style="font-style: italic;">Probe Response</span>
+(389) che non � molto di diverso dal <span  style="font-style: italic;">Beacon</span>,
+la stazione <span  style="font-family: monospace;">3com</span>
+tenta di effettuare il <span  style="font-style: italic;">join</span> (397) verso�l'AP,
+mediante il messaggio di <span  style="font-family: monospace;">Authentication</span>,
+di cui�sono riportati i tratti salienti:
+<pre  style="margin-left: 40px;"> Type/Subtype: Authentication (11)<br> Type: Management frame (0)<br>������� Subtype: 11<br>��� Fixed parameters (6 bytes)<br>������� Authentication Algorithm: Open System (0)<br>������� Authentication SEQ: 0x0001<br>������� Status code: Successful (0x0000)</pre>
+
+Il contenuto della risposta (398) non � molto differente; il
+termine <span  style="font-style: italic;">Open System</span> significa
+che non � attiva nessuna forma di crittografia, e quindi l'AP
+accetta tutti. Esaurita questa fase, la stazione procede con una
+richiesta di <span  style="font-style: italic;">associazione</span>
+(399) verso l'AP, in cui si comunica il valore di�<span  style="font-family: monospace;">Listen Interval</span>,
+che rappresenta ogni quanti <span  style="font-style: italic;">Beacon</span>
+la stazione si risveglier� dallo stato di Power Save,
+e�consente all'AP di valutare le sue capacit� di memorizzazione:<br>
+
+<pre  style="margin-left: 40px;">��� Type/Subtype: Association Request (0)<br>��� Frame Control: 0x0000 (Normal)<br>��� Fixed parameters (4 bytes)<br>������� Capability Information: 0x0421<br>������� Listen Interval: 0x0001</pre>
+
+A questo�fa seguito la relativa risposta di <span  style="font-family: monospace;">Association Response</span>,
+in cui l'AP comunica le modalit� di trasmissione seguenti:<br>
+
+<pre  style="margin-left: 40px;">��� Type/Subtype: Association Response (1)<br>��� Frame Control: 0x0010 (Normal)<br>������� Version: 0<br>������� Type: Management frame (0)<br>������� Subtype: 1<br>������� Flags: 0x0<br> �� Fixed parameters (6 bytes)<br>������� Capability Information: 0x0001<br>����������� .... .... .... ...1 = ESS capabilities: Transmitter is an AP<br>����������� .... .... .... ..0. = IBSS status: Transmitter belongs to a BSS<br>����������� .... .... .... 00.. = CFP participation capabilities: No point coordinator at AP (0x0000)<br>����������� .... .... ...0 .... = Privacy: AP/STA cannot support WEP<br>����������� .... .... ..0. .... = Short Preamble: Short preamble not allowed<br>����������� .... .... .0.. .... = PBCC: PBCC modulation not allowed<br>����������� .... .... 0... .... = Channel Agility: Channel agility not in use<br>����������� .... .0.. .... .... = Short Slot Time: Short slot time not in use<br>����������� ..0. .... .... .... = DSSS-OFDM: DSSS-OFDM modulation not allowed<br>������� Status code: Successful (0x0000)<br>������� Association ID: 0x0002<br>��� Tagged parameters (14 bytes)<br>������� Tag Number: 1 (Supported Rates)<br>������� Tag length: 4<br>������� Tag interpretation: Supported rates: 1,0(B) 2,0(B) 5,5(B) 11,0(B) [Mbit/sec]<br>������� Tag Number: 221 (Vendor Specific)<br>������� Tag length: 6<br>������� Tag interpretation: Not interpreted</pre>
+
+L'esito positivo dell'associazione � codificato nello <span  style="font-family: monospace;">Status code</span>, che potrebbe
+essere negativo, se l'AP ha accettato richieste da un numero gi� elevato di stazioni. Inoltre, mediante 
+l'<span style="font-family: monospace;">Association ID</span> 
+(<span  style="font-weight: bold;">AID</span>), l'AP distingue
+le stazioni le une dalle altre, ad esempio nell'ambito�nella
+tabella TIM (mentre il DTIM � associato all'AID pari a zero).<br><br>
+
+Per verificare personalmente ci� che accade, nel file 
+ <a  href="../pcap/assoc-centr.pcap">assoc-cent.pcap</a> possiamo trovare il risultato della cattura della associazione tra
+ <span style="font-family: monospace;">eth1</span> ed AP, mentre in 
+ <a  href="../pcap/assoc-airo.pcap">assoc-airo.pcap</a>, l'associazione di eth2, completa degli header 
+ <span style="font-style: italic;">radiotap</span>.<br>
+
+<div  style="text-align: right;"><a  href="#Indice">^ indice</a><br></div>
+
+<hr  style="width: 100%; height: 2px;">
+<h3><a  name="Sicurezza"></a>Sicurezza</h3>
+
+Oltre a poter omettere la trasmissione dei frame Beacon che pubblicano
+l'SSID, esiste la possibilit� di configurare in modo statico gli
+indirizzi MAC che possono chiedere l'associazione all'AP.<br><br>
+
+
+<div  style="text-align: center;"><img  style="width: 421px; height: 239px;"  alt=""
+ src="../img/AP_web_macfil.png"><br>
+</div>
+<br>
+
+Il primo caso per� depriva l'architettura di alcune sue
+funzionalit�, mentre il secondo � inapplicabile ai siti
+pi� frequentati. Nello standard emesso nel 1999, si �
+introdotto un metodo di cifratura noto come <span  style="font-style: italic;">Wired Equivalent Privacy</span>
+(<span  style="font-weight: bold;">WEP</span>),
+che si basa su di una�<span  style="font-style: italic;">Secret Key</span>
+di 40 bit (5 byte), nota sia all'AP che a tutte le stazioni, a cui si aggiunge un 
+<span  style="font-style: italic;">Initialization Vector</span>
+(<span  style="font-weight: bold;">IV</span>)
+di 24 bit (3 byte), che pu� cambiare anche per tutte le trame. Il 
+<span  style="font-style: italic;">Seed</span>
+risultante di 64 bit, viene fornito in ingresso ad un algoritmo 
+<span  style="font-style: italic;">Pseudo Random Number Generator</span> 
+(<span  style="font-weight: bold;">PRNG</span>)
+(che poi � l'<a  href="http://en.wikipedia.org/wiki/RC4">RC4</a> di RSA), e la risultante 
+<span style="font-style: italic;">Key Sequence</span>�pseudo-casuale
+� posta in ex-OR con i dati�da�trasmettere
+nella trama, a cui � stato aggiunto �un <span  style="font-style: italic;">Integrity Check Value</span>
+(<span  style="font-weight: bold;">ICV</span>)
+che ne attesta appunto
+l'integrit�, calcolato con un algoritmo di checksum CRC-32.<br>
+<br>
+
+<div  style="text-align: center;"><img  style="width: 695px; height: 212px;"  alt=""
+ src="../img/WEP_cyph.png"><br>
+
+<div  style="text-align: left;">Il
+valore IV usato come <span  style="font-style: italic;">Seed</span>
+nel PRNG assieme alla <span  style="font-style: italic;">Secret Key</span>,
+viene trasmesso in
+chiaro, in testa al <span  style="font-style: italic;">Ciphertext</span>,
+in modo che il ricevente (che conosce la�<span  style="font-style: italic;">Secret Key</span>)
+possa eseguire il
+procedimento inverso, e risalire al Plaintext, dopo averne verificato
+l'ICV. La figura seguente mostra il risultato finale, ed evidenzia che
+si possono definire fino a 4 diverse <span  style="font-style: italic;">Secret
+Keys</span>, il cui indice viene
+trasmesso in chiaro assieme all'IV.<br>
+
+<div  style="text-align: center;"><img  style="width: 679px; height: 337px;"  alt=""
+ src="../img/WEP_frame.png"><br>
+
+<br>
+
+<div  style="text-align: right;"><a  href="#Indice">^
+indice</a><br>
+
+<hr  style="width: 100%; height: 2px;">
+<div  style="text-align: left;">
+<h3><a  name="Debolezza_del_WEP_e_soluzioni_recenti"></a>Debolezza del WEP e�soluzioni recenti</h3>
+
+Sicuramente, usare uno stesso segreto da parte di pi� persone
+(tutte quelle che devono utilizzare lo stesso AP) � una ottima
+maniera per rendere <span  style="font-style: italic;">palese</span> il segreto.
+Cambiare la chiave di frequente � problematico, e doverla
+comunicare agli utenti occasionali, riduce ancor di pi� il
+grado di sicurezza.<br>
+<br>
+
+Da quando presso l'Universit� della California a Berkley si
+�<a  href="http://www.drizzle.com/%7Eaboba/IEEE/wep-draft.zip"  target="">dimostrato</a>
+come fosse facile indovinare la chiave WEP usata, non sono tardate ad
+essere disponibili applicazioni (vedi ad es. 
+<a  href="http://airsnort.shmoo.com/" target="">AirSnort</a>) che
+permettono di entrare nelle reti wireless altrui, anche se protette da
+WEP. Questa attivit� ha preso il nome di 
+<a  href="http://en.wikipedia.org/wiki/Wardriving" target=""><span  style="font-style: italic;">Wardriving</span></a>,
+in quanto (in America, almeno) si pu� provare a girare in auto finch�
+non si trova una zona coperta da una trasmissione wireless, tentare di
+scoprire la chiave WEP in uso, e quindi collegarsi a sbafo (oltre che
+eventualmente spiare le comunicazioni�<span  style="font-style: italic;">in aria</span>).
+A questo proposito sono disponibili molti diversi 
+<a  href="http://www.wardrive.net/wardriving/tools/"  target="">strumenti</a>
+per le pi� diverse esigenze in tal senso.<br>
+<br>
+
+Le iniziative sorte per rendere pi� sicuro l'accesso
+wireless si sono a quel punto succedute in modo quasi tumultuoso, e le sigle
+che�descrivono le varie attivit�, rischiano�di 
+lasciare disorientati. La <a  href="http://www.wifialliance.com/"  target="">WiFiAlliance</a>
+(che definisce i test di compatibilit� che � necessario
+superare per potersi certificare con il�marchio <a  href="http://www.wifialliance.com/brand_usage.php"
+ target="">Wi-Fi</a>), nell'attesa del completamento dello standard
+<a  href="http://it.wikipedia.org/wiki/IEEE_802.11i">802.11i</a>, ha definito il WPA (Wireless Protected Acces). L'802.11i e'
+stato approvato a Giugno 2004, ed a questo ha fatto seguito�il
+<a  href="http://en.wikipedia.org/wiki/WPA2"  target="">WPA2</a>
+che invece definisce una implementazione
+interoperabile delle piene specifiche 802.11i, �descritta in
+questo <a  href="http://www.wi-fi.org/getfile.asp?f=WFA_02_27_05_WPA_WPA2_White_Paper.pdf"
+ target="">white paper</a>.<br>
+<br>
+
+I risultati di 802.11i sono�basati sui meccanismi individuati
+da <a  href="http://en.wikipedia.org/wiki/IEEE_802.1X">802.1x</a> (si badi 1x e non 11x !), che a loro volta si basano sui
+meccanismi definiti da EAP (Extensible Access Protocol, definito nella�
+<a  href="http://www.ietf.org/rfc/rfc3748.txt"  target="">RFC 3748</a> di IETF).<br>
+
+<div  style="text-align: right;"><a  href="configurazione.html#Indice">^ indice</a></div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<hr  style="width: 100%; height: 2px;">
+<h3><a  name="Letture_ulteriori_"></a>Letture ulteriori<br></h3>
+
+<ul>
+  <li>
+      <a  href="http://www.tomshw.it/network.php?guide=20030926&page=index">Tom's
+      Hardware guide: recensione USR5450</a>,
+      <span  style="font-style: italic;">�Tim Higgins</span></li>
+  <li>
+      <a  href="http://www.oreillynet.com/pub/a/wireless/2001/03/06/recipe.html"
+       target="">Recipe for a Linux 802.11b Home Network</a>,
+    <span  style="font-style: italic;">Schuyler Erle</span></li>
+  <li>
+      <a  href="http://standards.ieee.org/getieee802/802.11.html"  target="">802.11 standard</a>
+      <span style="font-style: italic;">, IEEE,�</span></li>
+  <li><a  href="http://it.wikipedia.org/wiki/Wired_Equivalent_Privacy"  target="">Wired Equivalent Privacy</a>,
+    <span  style="font-style: italic;">WiKiPedia GNU FDL</span></li>
+  <li><a  href="http://www.drizzle.com/%7Eaboba/IEEE/"  target="">The Unofficial 802.11 Security Web Page</a>,
+    <span  style="font-style: italic;">Bernard Aboba</span>,
+    [<a  href="../Unoff-SecurityPage.html"  target=""><span  style="font-style: italic;">local</span></a>]</li>
+  <li><a  href="http://www.s0ftpj.org/docs/webbit04_wifi.pdf">Wireless (in)security: (in)sicurezza dell'802.11</a>, Fabio (naif) Pietrosanti - Yvette (vodka) Agostini<br>
+  </li>
+
+</ul>
+
+<div  style="text-align: right;"><a  href="#Indice">^ indice</a><br><hr  style="width: 100%; height: 2px;"></div>
+
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

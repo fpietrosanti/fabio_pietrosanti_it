@@ -1,0 +1,580 @@
+GlobaLeaks - Wikipedia 
+
+ Jump to content 
+
+ Main menu 
+
+ Main menu
+
+ move to sidebar 
+ hide 
+
+ Navigation
+
+ Main page 
+ Contents 
+ Current events 
+ Random article 
+ About Wikipedia 
+ Contact us 
+
+ Contribute
+
+ Help 
+ Learn to edit 
+ Community portal 
+ Recent changes 
+ Upload file 
+ Special pages 
+
+ Search 
+
+ Search 
+
+ Appearance 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Personal tools 
+
+ Donate 
+
+ Create account 
+
+ Log in 
+
+ Contents
+
+ move to sidebar 
+ hide 
+
+ (Top)
+
+ 1 
+ History 
+
+ 2 
+ Operation 
+
+ 3 
+ Implementations 
+
+ 4 
+ Funding 
+
+ 5 
+ See also 
+
+ 6 
+ References 
+
+ 7 
+ External links 
+
+ Toggle the table of contents 
+
+ GlobaLeaks 
+
+ 14 languages 
+
+ العربية 
+ Català 
+ Čeština 
+ Deutsch 
+ Español 
+ فارسی 
+ Français 
+ हिन्दी 
+ Italiano 
+ Polski 
+ ไทย 
+ Türkçe 
+ Українська 
+ 中文 
+
+ Edit links 
+
+ Article 
+
+ Talk 
+
+ English 
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ Tools 
+
+ Tools
+
+ move to sidebar 
+ hide 
+
+ Actions
+
+ Read 
+
+ Edit 
+
+ View history 
+
+ General
+
+ What links here 
+ Related changes 
+ Upload file 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Switch to legacy parser 
+
+ Print/export
+
+ Download as PDF 
+ Printable version 
+
+ In other projects
+
+ Wikidata item 
+
+ Appearance
+
+ move to sidebar 
+ hide 
+
+ From Wikipedia, the free encyclopedia
+
+ Open-source, free software
+
+ GlobaLeaks 
+
+ Stable release 5.0.99 [ 1 ] 
+ / 26 July 2026 ; 57 days ago   ( 26 July 2026 ) 
+
+ Written in Python , JavaScript 
+ Operating system Linux 
+ License Affero General Public License 
+ Website https://www.globaleaks.org/ 
+ Repository https://github.com/globaleaks/GlobaLeaks 
+
+ GlobaLeaks is a free and open source software intended to enable secure and anonymous whistleblowing initiatives.
+
+ Based on its design principle and threat model, [ 2 ] [ 3 ] the software is recognized as a Digital Public Good (DPG) by the Digital Public Goods Alliance . [ 4 ] [ 5 ] 
+
+ History
+ [ edit ] 
+
+ The project started on 15 December 2010, [ 6 ] and the first software prototype was announced on 6 September 2011. [ 7 ] 
+
+ Relevant figures in the first development are Arturo Filastò, Claudio Agosti, Fabio Pietrosanti, Giovanni Pellerano, and Michele Orrù. [ 8 ] 
+
+ Operation
+ [ edit ] 
+
+ GlobaLeaks utilizes Tor Onion Services to guarantee the anonymity of the source. [ 9 ] 
+
+ Once the submission is performed the data is encrypted and made available only to configured recipients. The platform does not store anything permanently. Information and files that are submitted are deleted as soon as possible due to a strict data retention policy . [ 10 ] [ 11 ] 
+
+ The process is generally improved by suggesting sources and recipients to use Qubes OS or Tails operating systems while connecting to the platform. [ citation needed ] 
+
+ Implementations
+ [ edit ] 
+
+ By 2023, GlobaLeaks has been internationalized in over 90 languages and implemented by several thousand of projects and initiatives. The vast range of adopters include independent media, activists, media agencies, and corporations.
+
+ In 2013, Free Press Unlimited (FPU), [ 12 ] a Netherlands-based non-profit organization, created Publeaks NL, [ 13 ] [ 14 ] a foundation that counts around 20 of the country's biggest media organizations among its members that uses the platform to perform investigative journalism under a same umbrella project.
+
+ FPU has replicated this model in other countries, creating MéxicoLeaks, [ 15 ] IndonesiaLeaks, [ 16 ] Leaks.ng [ 17 ] and Kenekanko [ 18 ] in Mexico , Indonesia , Nigeria and Mali respectively. MexicoLeaks aimed at revealing information for the public interest in Mexico, and was awarded the FRIDA award in 2016. [ 19 ] Another project, Africaleaks, was discontinued. [ 20 ] 
+
+ AWP, a Belgium-based organization, created Ljost ( Iceland ), Filtrala ( Spain ), EcuadorTransparente ( Ecuador ) [ 21 ] [ 22 ] and PeruLeaks ( Peru ). [ 23 ] 
+
+ Considered one of the most successful GlobaLeaks projects, WildLeaks is the world's first whistleblower initiative dedicated to wildlife and forest crime funded and managed by the Elephant Action League (EAL) which reported and investigated various crimes. One of the investigations was highlighted in the award-winning Netflix documentary The Ivory Game . [ 24 ] [ 25 ] [ 26 ] 
+
+ GlobaLeaks also partnered with major anticorruption and human rights NGOs like Transparency International (Allerta Anticorruzione), [ 27 ] OCCRP , [ 28 ] and Amnesty International (Amlea). [ 29 ] 
+
+ In 2017, Xnet , an activist project which has been working on and for networked democracy and digital rights since 2008, launched the first public Anti-Corruption Complaint Box using anonymity protection technology like Tor and GlobaLeaks ("Bústia Ètica" in Catalan) in the Barcelona City Hall , making it the first municipal government to enable citizens to send information privately. [ 30 ] 
+
+ In 2018, the Italian Anti-Corruption Authority (ANAC) , an administrative watchdog, launched their national online whistleblowing platform using GlobaLeaks and onion services. [ 31 ] 
+
+ Since 2020, the software is now recommended by Transparency International among the available solutions that could be used to implement whistleblowing systems for anti-corruption purposes. [ 32 ] 
+
+ Funding
+ [ edit ] 
+
+ The GlobaLeaks project maintains public and transparent documentation of the funds and partners that have supported its research and development. [ 33 ] 
+
+ See also
+ [ edit ] 
+
+ Journalism portal 
+
+ Whistleblowing 
+
+ Digital public goods 
+
+ WikiLeaks 
+
+ SecureDrop 
+
+ References
+ [ edit ] 
+
+ ↑ "Release 5.0.99" . 26 July 2026 . Retrieved 27 July 2026 . 
+
+ ↑ "Design principles — GlobaLeaks 5.0.79 documentation" . docs.globaleaks.org . Retrieved 3 September 2025 . 
+
+ ↑ "Threat model — GlobaLeaks 5.0.79 documentation" . docs.globaleaks.org . Retrieved 3 September 2025 . 
+
+ ↑ "GlobaLeaks Whistleblowing Software - DPGA Details" . app.digitalpublicgoods.net . Retrieved 11 September 2024 . 
+
+ ↑ "GlobaLeaks advances transparency by empowering whistleblowers" . interoperable-europe.ec.europa.eu . European Commission Open Source Observatory (OSOR) . Retrieved 10 June 2025 . 
+
+ ↑ Pietrosanti, Fabio (15 December 2010). "An idea of leaking alternative to wikileaks" . Full Disclosure. Archived from the original on 20 December 2010 . Retrieved 24 December 2016 . 
+
+ ↑ Filastò, Arturo (6 September 2011). "GlobaLeaks demo of the Prototype online!" . Full Disclosure (Mailing list). Archived from the original on 4 January 2017 . Retrieved 21 January 2012 . 
+
+ ↑ "AUTHORS" . GitHub . Archived from the original on 14 February 2022 . Retrieved 2 February 2021 . 
+
+ ↑ Steele, Shari. "Tor at the Heart: GlobaLeaks" . Tor Blog . Archived from the original on 17 December 2016 . Retrieved 3 January 2017 . 
+
+ ↑ "GlobaLeaks Threat Model" . Archived from the original on 24 June 2021 . Retrieved 20 June 2021 . 
+
+ ↑ "GlobaLeaks Application Security" . Archived from the original on 24 June 2021 . Retrieved 20 June 2021 . 
+
+ ↑ "Publeaks connects whistleblowers with the media" . freepressunlimited.org. Archived from the original on 24 November 2020 . Retrieved 17 March 2021 . 
+
+ ↑ "Vanaf vandaag: anoniem lekken naar media via doorgeefluik Publeaks" . volkskrant.nl. Archived from the original on 8 October 2013 . Retrieved 22 February 2014 . 
+
+ ↑ "Handling ethical problems in counterterrorism An inventory of methods to support ethical decisionmaking" (PDF) . RAND Corporation. Archived (PDF) from the original on 19 December 2020 . Retrieved 24 February 2014 . 
+
+ ↑ "Mexicoleaks" . Archived from the original on 10 September 2023 . Retrieved 17 March 2021 . 
+
+ ↑ "IndonesiaLeaks" . Archived from the original on 20 September 2023 . Retrieved 17 March 2021 . 
+
+ ↑ "Leaks.ng" . Archived from the original on 5 May 2023 . Retrieved 17 March 2021 . 
+
+ ↑ "Kenekanko" . Archived from the original on 11 February 2021 . Retrieved 17 March 2021 . 
+
+ ↑ "Frida Award by MexicoLeaks" . Archived from the original on 4 January 2017 . Retrieved 1 February 2017 . 
+
+ ↑ Cummings, Basia (13 January 2015). "Wikileaks for Africa? Introducing Afrileaks" . The Guardian . Archived from the original on 8 November 2020 . Retrieved 11 December 2016 . 
+
+ ↑ Rodriguez, Katitza (24 April 2016). "Leaked Documents Confirm Ecuador's Internet Censorship Machine" . Electronic Frontier Foundation . Archived from the original on 4 January 2017 . Retrieved 3 January 2017 . 
+
+ ↑ Franceschi Biccherai, Lorenzo (14 April 2016). "Ecuador Briefly Censored Google and YouTube, Leaked Document Shows" . Vice . Archived from the original on 4 January 2017 . Retrieved 3 January 2017 . 
+
+ ↑ "La República se suma a 'Perúleaks' " . La República . Archived from the original on 4 January 2017 . Retrieved 3 January 2017 . 
+
+ ↑ Neme, Lauren. "New WildLeaks Website Invites Whistle-Blowers on Wildlife Crime" . National Geographic . Archived from the original on 2 March 2014 . Retrieved 22 February 2014 . 
+
+ ↑ Drake, Nadia . "A New Website That Lets Tipsters Report Wildlife Crimes" . Wired . wired.com. Archived from the original on 19 February 2014 . Retrieved 22 February 2014 . 
+
+ ↑ Carrington, Damian (12 June 2014). "WildLeaks attracts major wildlife crime leads in first three months" . The Guardian . Archived from the original on 13 June 2014 . Retrieved 13 June 2014 . 
+
+ ↑ "Allerta Anticorruzione project by Transparency International" . Archived from the original on 19 March 2016 . Retrieved 3 January 2017 . 
+
+ ↑ "OCCRP Leaks" . Archived from the original on 6 May 2016 . Retrieved 30 October 2025 . 
+
+ ↑ "Amlea project by Amnesty International" . Archived from the original on 23 February 2019 . Retrieved 3 January 2017 . 
+
+ ↑ "Xnet installs a Whistleblowing Platform against corruption for the City Hall of Barcelona – powered by GlobaLeaks and Tor friendly" . Archived from the original on 4 June 2019 . Retrieved 17 February 2018 . Material was copied from this source, which is available under a Creative Commons Attribution-ShareAlike 3.0 Unported Archived 22 February 2011 at the Wayback Machine license. 
+
+ ↑ "Italian Anti-Corruption Authority (ANAC) Adopts Onion Services" . Archived from the original on 11 July 2019 . Retrieved 17 February 2018 . 
+
+ ↑ Jenkins, Matthew. "Overview of Whistleblowing Software" . [Transparency International] . Archived from the original on 15 November 2020 . Retrieved 2 February 2020 . 
+
+ ↑ "Funding" . Archived from the original on 24 June 2021 . Retrieved 2 February 2021 . 
+
+ External links
+ [ edit ] 
+
+ Official website 
+
+ v 
+ t 
+ e 
+
+ Tor onion services 
+
+ List 
+
+ Category 
+
+ Search engines 
+ Ahmia 
+
+ DuckDuckGo [ a ] 
+
+ Grams [ b ] 
+
+ Kagi [ a ] 
+
+ MetaGer [ a ] 
+
+ Searx [ b ] [ a ] 
+
+ News 
+ BBC News [ a ] 
+
+ Bellingcat [ a ] 
+
+ Current Time TV [ a ] 
+
+ Die Tageszeitung [ a ] 
+
+ Deutsche Welle [ a ] 
+
+ The Daily Stormer [ a ] 
+
+ Darknetlive [ b ] 
+
+ DeepDotWeb [ b ] 
+
+ ProPublica [ a ] 
+
+ Radio Free Asia [ a ] 
+
+ Radio Free Europe/Radio Liberty [ a ] 
+
+ The Guardian [ a ] 
+
+ Independent Media Center [ a ] 
+
+ The Intercept [ a ] 
+
+ The New York Times [ a ] 
+
+ ProPublica [ a ] 
+
+ Voice of America [ a ] 
+
+ File storage and file sharing 
+ BTDigg [ a ] 
+
+ Freedom Hosting [ b ] 
+
+ Free Haven Project [ b ] 
+
+ KickassTorrents [ b ] 
+
+ The Pirate Bay [ a ] 
+
+ Proton Drive [ a ] 
+
+ Email and
+instant messaging 
+ Bitmessage.ch 
+
+ Briar 
+
+ Keybase [ a ] 
+
+ OpenPGP [ a ] 
+
+ Proton Mail [ a ] 
+
+ Riseup [ a ] 
+
+ Tor Mail [ b ] 
+
+ TorChat [ b ] 
+
+ Social media and forums 
+ 8chan [ a ] 
+
+ Dark0de 
+
+ Dread 
+
+ Facebook [ a ] 
+
+ HackBB [ b ] 
+
+ The Hub 
+
+ The Hidden Wiki 
+
+ Darknet markets 
+ Agora [ b ] 
+
+ AlphaBay [ b ] 
+
+ Atlantis [ b ] 
+
+ Archetyp [ b ] 
+
+ Black Market Reloaded [ b ] 
+
+ Dream Market [ b ] 
+
+ Evolution [ b ] 
+
+ The Farmer's Market [ b ] 
+
+ Hansa [ b ] 
+
+ Hydra Market [ b ] 
+
+ Sheep Marketplace [ b ] 
+
+ Silk Road [ b ] 
+
+ TheRealDeal [ b ] 
+
+ Russian Anonymous Marketplace [ b ] 
+
+ Tor Carding Forum [ b ] 
+
+ Utopia [ b ] 
+
+ White House Market [ b ] 
+
+ Archives 
+ Archive.today [ a ] 
+
+ Doxbin (darknet) [ b ] 
+
+ Internet Archive [ a ] 
+
+ Sci-Hub [ a ] 
+
+ Z-Library [ a ] 
+
+ Activism 
+ Associated Whistleblowing Press 
+
+ Elephant Action League 
+
+ Freedom of the Press Foundation [ a ] 
+
+ GlobaLeaks 
+
+ NawaatLeaks 
+
+ SecureDrop [ a ] 
+
+ WikiLeaks [ a ] 
+
+ Operating systems 
+ DivestOS [ a ] 
+
+ Qubes OS [ a ] 
+
+ Tails [ a ] 
+
+ Whonix [ a ] 
+
+ Government 
+ Central Intelligence Agency [ a ] 
+
+ Pornography 
+ Boystown [ b ] 
+
+ Childs Play [ b ] 
+
+ Lolita City [ b ] 
+
+ Playpen [ b ] 
+
+ Pornhub [ a ] 
+
+ Welcome to Video [ b ] 
+
+ Other 
+ 1.1.1.1 [ a ] 
+
+ Brave [ a ] 
+
+ BusKill [ a ] 
+
+ DEF CON [ a ] 
+
+ F-Droid [ a ] 
+
+ Mailpile [ a ] 
+
+ Mullvad [ a ] 
+
+ Njalla [ a ] 
+
+ OnionShare [ a ] 
+
+ Terms of Service; Didn't Read [ a ] 
+
+ Tor 
+
+ .onion domain 
+
+ Tor2web 
+
+ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 Maintains additional presence on the surface web 
+
+ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 Offline or discontinued 
+
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=GlobaLeaks&oldid=1365856665 "
+
+ Categories : 2011 software 
+ Free content management systems 
+ Free software programmed in JavaScript 
+ Free software programmed in Python 
+ Free system software 
+ Investigative journalism 
+ Software using the GNU Affero General Public License 
+ Sources (journalism) 
+ Tor onion services 
+ Whistleblower support organizations 
+
+ Hidden categories: Articles with short description 
+ Short description is different from Wikidata 
+ Use dmy dates from March 2021 
+ All articles with unsourced statements 
+ Articles with unsourced statements from October 2025 
+ Webarchive template wayback links 
+ Official website different in Wikidata and Wikipedia 
+
+ This page was last edited on 24 July 2026, at 21:06  (UTC) .
+
+ Page was rendered with Parsoid .
+
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+
+ Privacy policy 
+
+ About Wikipedia 
+
+ Disclaimers 
+
+ Contact Wikipedia 
+
+ Legal & safety contacts 
+
+ Code of Conduct 
+
+ Developers 
+
+ Statistics 
+
+ Cookie statement 
+
+ Mobile view 
+
+ Search 
+
+ Search 
+
+ Toggle the table of contents 
+
+ GlobaLeaks 
+
+ 14 languages 
+
+ Add topic

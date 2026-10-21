@@ -1,0 +1,713 @@
+#18472 (Enforce the uses of HTTPS for all websites of VLC/videolan.org to prevent MITM exploits)
+ – VLC
+
+ Preferences 
+ Help/Guide 
+ About Trac 
+ API 
+
+ Timeline 
+ Roadmap 
+ View Tickets 
+ Wiki 
+
+ Context Navigation
+
+ ← Previous Ticket 
+ Next Ticket → 
+
+ close 
+ This ticket was migrated to our GitLab and can now be found here: #18472 
+
+ Opened 4 years ago 
+
+ Closed 4 years ago 
+
+ Last modified 4 years ago 
+
+ #18472 
+
+ closed 
+
+ defect 
+
+ ( duplicate )
+
+ Enforce the uses of HTTPS for all websites of VLC/videolan.org to prevent MITM exploits 
+
+ Reported by: 
+ Fabio Pietrosanti (naif) 
+ Owned by: 
+
+ Priority:
+
+ normal 
+
+ Milestone:
+
+ Bugs paradize 
+
+ Component:
+
+ Unknown 
+
+ Version:
+
+ master git 
+
+ Severity:
+
+ normal 
+
+ Keywords:
+
+ security 
+
+ Cc:
+
+ Difficulty:
+
+ unknown 
+
+ Platform(s):
+
+ all 
+
+ Work status:
+
+ Not started 
+
+ Description
+
+VLC website does not use HTTPS by default, enforcing it.
+VLC website for download redirection does not use HTTPS by default, enforcing it.
+VLC download mirrors does not use HTTPS by default, enforcing it.
+
+VLC is the most used video player opensource but it's website is by default in clear-text, exposing to any kind of of digital attacks that manipulate traffic between end-users and VLC website in order to inject computer malware bundled with the software package.
+
+VLC trust and diffusion has been also being exploited by CIA:
+ ​ https://www.reddit.com/r/The_Donald/comments/5y0nh8/cia_using_vlc_media_player_to_hack_into_computers/ 
+
+That's a serious security issue for end-users and reputation for VideoLan? Project that should take action by securing all it's website and download procedures in order to guarantee end-users that the software that delivered from the VLC website is exactly what's being installed on the end-user computer.
+
+This ticket is to:
+
+ Enable HTTPS by default on all Videolan hosted resources (such as videolan.org, get.videolan.org, etc) so that it achieve a rating of A+ on ​ https://www.ssllabs.com testing
+
+ Make all of the Videolan mirror to serve the VLC client over HTTPS (that may need another ticket to be tracked, requiring other organization to update)
+
+ Oldest first 
+
+ Newest first 
+
+ Threaded 
+
+ Show comments 
+
+ Show property changes 
+
+ Change History (26) 
+
+ comment:1 
+
+ Changed 4 years ago by Jean-Baptiste Kempf 
+
+ Resolution: 
+
+ → duplicate 
+
+ Status: 
+
+ new →
+ closed 
+
+For the n'th time, VLC binaries are async-signed with strong cryptography.
+
+You cannot inject 'malware bundled with the software package'.
+
+See all the EXISTING tickets about that.
+
+Not to mention that the CIA used their OWN fork of VLC.
+
+ comment:2 
+
+ follow-up: 
+  6 
+
+ Changed 4 years ago by Fabio Pietrosanti (naif) 
+
+Exactly, CIA used their own fork of VLC and managed to do MITM to attack VLC users BECAUSE VLC WEBSITE AND MIRRORS ARE NOT USING HTTPS .
+
+So VLC is responsible to let attacks inject malware bundled with the software package, because it's only VLC project maintainer responsibility to use HTTPS as the only method to prevent a third party attacker to hijack VLC website content and files.
+
+async-signed VLC package with strong cryptography are a good thing, but can protect only the "self update method" while leaving 100% completely vulnerable the "installation method" .
+
+To summarise:
+
+ VLC is vulnerable to MITM attack against the installation of the software because is missing HTTPS
+
+ VLC is NOT vulnerable to MITM attack against the update of the software because it's using digital signing of released package
+
+Different security mechanism, provide protection against different attacks, unfortunately digital signing of package does not provide any kind of protection against MITM of the installation process of a user visiting videolan.org website and following the instructions.
+
+ Last edited 4 years ago 
+ by Fabio Pietrosanti (naif) 
+ ( previous )
+ ( diff )
+
+ comment:3 
+
+ Changed 4 years ago by Jean-Baptiste Kempf 
+
+CIA used USB keys...
+
+ comment:4 
+
+ Changed 4 years ago by Fabio Pietrosanti (naif) 
+
+ OpenSource? tool and plugin to MITM VLC download (PoC with screencast coming soon) exploiting trust on videolan.org non-HTTPS website:
+ ​ https://github.com/evilsocket/bettercap-proxy-modules/blob/master/http/download_hijack.rb 
+
+ comment:5 
+
+ follow-up: 
+  7 
+
+ Changed 4 years ago by etix 
+
+Either come with a valid proof of concept or stop wasting our time, bandwidth and disk space please.
+
+ comment:6 
+
+ in reply to:
+  2 
+ ;
+
+ follow-up: 
+  8 
+
+ Changed 4 years ago by Rémi Denis-Courmont 
+
+Replying to naif :
+
+ VLC is vulnerable to MITM attack against the installation of the software
+
+Yes.
+
+because is missing HTTPS
+
+No.
+
+It is vulnerable because:
+
+ the CIA (and some other intelligence services) can obtain TLS certificates for videolan.org issued by domestic certificate authorities,
+
+ the relevant intelligence services can get physical access to the VideoLAN servers and steal the certificates there,
+
+ there are probably ways to abuse the trust of VideoLAN admins or committers (e.g. myself),
+
+ most importantly, users do not know to download VLC from "videolan.org".
+
+TLS does not fix any of those problems.
+
+To fix this, what you need is the operating system (vendor) to block unsigned software installation. That's outside the scope of the VLC project (and probably a case of cure worse than the disease).
+
+ Last edited 4 years ago 
+ by Rémi Denis-Courmont 
+ ( previous )
+ ( diff )
+
+ comment:7 
+
+ in reply to:
+  5 
+
+ Changed 4 years ago by Fabio Pietrosanti (naif) 
+
+Replying to etix :
+
+Either come with a valid proof of concept or stop wasting our time, bandwidth and disk space please.
+
+The PoC is coming, it has been developed using few lines of ruby as a Bettercap plugin that can be exploited by anyhow in between the end-user and the videolan.org website, mirrorbits server and mirrors.
+
+ comment:8 
+
+ in reply to:
+  6 
+
+ Changed 4 years ago by Fabio Pietrosanti (naif) 
+
+Replying to courmisch :
+
+Replying to naif :
+
+ VLC is vulnerable to MITM attack against the installation of the software
+
+Yes.
+
+because is missing HTTPS
+
+No.
+
+Nope, it's simply because of missing HTTPS.
+
+Let me explain below:
+
+It is vulnerable because:
+
+ the CIA (and some other intelligence services) can obtain TLS certificates for videolan.org issued by domestic certificate authorities,
+
+Wrong.
+
+Actually the uses of HSTS Preload List prevent completely this problem ​ https://hstspreload.org/ .
+
+Anyhow, even without HSTS Preload List, the actual mandatory uses of Certificate Transparency ( ​ https://www.certificate-transparency.org/ ) make any kind of this attack to become detected in few hours worldwide.
+
+ the relevant intelligence services can get physical access to the VideoLAN servers and steal the certificates there,
+
+OT.
+From a security threat modelling perspective we are not speaking about an attacker with physical access but about anyone using free-software to make MITM attacks being able to sit in the middle of the traffic between end-users and videolan infrastructure.
+
+ there are probably ways to abuse the trust of VideoLAN admins or committers (e.g. myself),
+
+OT.
+That's not the kind of attack that an untrained, unskilled attacker can do using opensource tools (or tools available for cheap price to law enforcement).
+
+ most importantly, users do not know to download VLC from "videolan.org".
+
+Users trust the click that they do by following the website user interface from videolan.org so the implicit trust is in following your website.
+
+The fact that videolan.org website and any link or html contained in it can be easily modified by an unskilled attacker using simple and cost-effective opensource tools, means that the vulnerability is very relevant.
+
+TLS does not fix any of those problems.
+
+As you read above TLS fix all direct attacks problems, except those that require aggressive actions "against you" (physical access or hacking sysadmins).
+
+To fix this, what you need is the operating system (vendor) to block unsigned software installation. That's outside the scope of the VLC project (and probably a case of cure worse than the disease).
+
+That's not really a good excuse to avoid implementing HTTPS and fixing most of your security problem related with MITM of first download.
+
+Because only some very high level and sophisticated attacker may use a nuclear weapon against my house, it doesn't mean that i'm not going put a lock that protect my house against most of the attacks.
+
+Really, with 2.3 billion download, that's a problem to be fixed ASAP because represent a threats to internet security of a huge amount of users.
+
+ comment:9 
+
+ follow-up: 
+  10 
+
+ Changed 4 years ago by Rémi Denis-Courmont 
+
+While it is true that HSTS mitigates the first problem, this bug report made no mention of HSTS... And it's rather easy hand-wave to ignore the other problems, especially the last one.
+
+The reality is that, until the main search engine(s) route all searches for VLC to "videolan.org", we are hosed. And it does not seem like they would want to skip on the scam advertisement revenue with simply not doing that.
+
+It also does not seem like the VLC users want to pay for the cost of switching the website and all the mirrors to TLS.
+
+ comment:10 
+
+ in reply to:
+  9 
+ ;
+
+ follow-up: 
+  11 
+
+ Changed 4 years ago by Fabio Pietrosanti (naif) 
+
+Replying to courmisch :
+
+While it is true that HSTS mitigates the first problem, this bug report made no mention of HSTS... And it's rather easy hand-wave to ignore the other problems, especially the last one.
+
+The bug made mention to rating A+ on ssllabs.com that include using HSTS.
+
+The reality is that, until the main search engine(s) route all searches for VLC to "videolan.org", we are hosed. And it does not seem like they would want to skip on the scam advertisement revenue with simply not doing that.
+
+You can get $10.000/month of Google Search Adwords with ​ https://www.google.com/intl/fr/grants/ . 
+I've done it for GlobaLeaks? Project, you first need to make a TechSoup? Account with the French techsou partner to identify yourself in front of Google as a non-profit and in few days you'll have $329/day of Google Adwords advertising with a cap of $2 of CPC.
+
+It also does not seem like the VLC users want to pay for the cost of switching the website and all the mirrors to TLS.
+
+There are several options to starts securing the VLC website:
+
+ Uses HTTPS content delivery networks such as cloudflare.com (Mozilla with www.mozilla.org is doing this)
+
+or 
+
+ Just enable HTTPS that costs about +2% in CPU usage, or even less if you have CPU with dedicated crypto offloading instructions 
+
+ ​ https://www.keycdn.com/blog/https-performance-overhead/ 
+ ​ https://www.maxcdn.com/blog/ssl-performance-myth/ 
+ ​ https://www.trueneutral.eu/2016/ssl-performance.html 
+
+For what's related to the mirrors I opened a ticket at #18484 to analyse which mirror already support HTTPS and which percentage of the total download they account for. 
+
+For what's related to the software side, opened a ticket on mirrorbits GitHub? repository to support HTTPS as a property of a mirror ​ https://github.com/etix/mirrorbits/issues/59 
+
+ comment:11 
+
+ in reply to:
+  10 
+
+ Changed 4 years ago by Jean-Baptiste Kempf 
+
+Replying to naif :
+
+Replying to courmisch :
+
+While it is true that HSTS mitigates the first problem, this bug report made no mention of HSTS... And it's rather easy hand-wave to ignore the other problems, especially the last one.
+
+The bug made mention to rating A+ on ssllabs.com that include using HSTS.
+
+The reality is that, until the main search engine(s) route all searches for VLC to "videolan.org", we are hosed. And it does not seem like they would want to skip on the scam advertisement revenue with simply not doing that.
+
+You can get $10.000/month of Google Search Adwords with ​ https://www.google.com/intl/fr/grants/ . 
+I've done it for GlobaLeaks? Project, you first need to make a TechSoup? Account with the French techsou partner to identify yourself in front of Google as a non-profit and in few days you'll have $329/day of Google Adwords advertising with a cap of $2 of CPC.
+
+It also does not seem like the VLC users want to pay for the cost of switching the website and all the mirrors to TLS.
+
+There are several options to starts securing the VLC website:
+
+ Uses HTTPS content delivery networks such as cloudflare.com (Mozilla with www.mozilla.org is doing this)
+
+or 
+
+ Just enable HTTPS that costs about +2% in CPU usage, or even less if you have CPU with dedicated crypto offloading instructions 
+
+ ​ https://www.keycdn.com/blog/https-performance-overhead/ 
+ ​ https://www.maxcdn.com/blog/ssl-performance-myth/ 
+ ​ https://www.trueneutral.eu/2016/ssl-performance.html 
+
+For what's related to the mirrors I opened a ticket at #18484 to analyse which mirror already support HTTPS and which percentage of the total download they account for. 
+
+For what's related to the software side, opened a ticket on mirrorbits GitHub? repository to support HTTPS as a property of a mirror ​ https://github.com/etix/mirrorbits/issues/59 
+
+If you want to be secure, use the https version of videolan.org, and check the sha1 and the signature.
+
+As for the suggestion of using cloudflare, in order to MITM our HTTPS connections, this is a nice joke.
+
+If you are able to send us around 20k€/month to have our own mirrors, please be very free to send that.
+
+Now, as you are obviously trolling, please stop right now, or I'll be forced to block your account.
+
+ comment:12 
+
+ follow-up: 
+  13 
+
+ Changed 4 years ago by mane 
+
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+
+Please contact me privately for further discussion.
+
+ comment:13 
+
+ in reply to:
+  12 
+ ;
+
+ follow-up: 
+  14 
+
+ Changed 4 years ago by Jean-Baptiste Kempf 
+
+Replying to mane :
+
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+
+Please contact me privately for further discussion.
+
+How can we contact you?
+
+ comment:14 
+
+ in reply to:
+  13 
+ ;
+
+ follow-up: 
+  15 
+
+ Changed 4 years ago by mane 
+
+Replying to jb :
+
+Replying to mane :
+
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+
+Please contact me privately for further discussion.
+
+How can we contact you?
+
+you should be able to see my email address, if not, please let me know and I'll provide it to you.
+
+ comment:15 
+
+ in reply to:
+  14 
+ ;
+
+ follow-up: 
+  18 
+
+ Changed 4 years ago by Jean-Baptiste Kempf 
+
+Replying to mane :
+
+Replying to jb :
+
+Replying to mane :
+
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+
+Please contact me privately for further discussion.
+
+How can we contact you?
+
+you should be able to see my email address, if not, please let me know and I'll provide it to you.
+
+I don't think I can, but I will check.
+
+ comment:16 
+
+ follow-up: 
+  17 
+
+ Changed 4 years ago by Fabio Pietrosanti (naif) 
+
+FYI references to documents related to the Commercial Infection Appliance used by dictatorship to infect executable downloads.
+
+Please have a read at the technical specification of the "infection applications" in order get an idea of their capabilities, that can be fully defeated having the entire website and download process with HTTPS+HSTS
+
+ ​ https://twitter.com/botherder/status/882243803448561665 
+
+ Last edited 4 years ago 
+ by Fabio Pietrosanti (naif) 
+ ( previous )
+ ( diff )
+
+ comment:17 
+
+ in reply to:
+  16 
+
+ Changed 4 years ago by Jean-Baptiste Kempf 
+
+Replying to naif :
+
+FYI references to documents related to the Commercial Infection Appliance used by dictatorship to infect executable downloads.
+
+Please have a read at the technical specification of the "infection applications" in order get an idea of their capabilities, that can be fully defeated having the entire website and download process with HTTPS+HSTS
+
+ ​ https://twitter.com/botherder/status/882243803448561665 
+
+Continuing to attack us on twitter and other media will not make us listen to you.
+
+Please learn how to behave.
+
+ comment:18 
+
+ in reply to:
+  15 
+ ;
+
+ follow-up: 
+  19 
+
+ Changed 4 years ago by mane 
+
+Replying to jb :
+
+Replying to mane :
+
+Replying to jb :
+
+Replying to mane :
+
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+
+Please contact me privately for further discussion.
+
+How can we contact you?
+
+you should be able to see my email address, if not, please let me know and I'll provide it to you.
+
+I don't think I can, but I will check.
+
+I haven't heard back from you on this regard, do you have an update?
+
+ comment:19 
+
+ in reply to:
+  18 
+ ;
+
+ follow-up: 
+  20 
+
+ Changed 4 years ago by Jean-Baptiste Kempf 
+
+Replying to mane :
+
+Replying to jb :
+
+Replying to mane :
+
+Replying to jb :
+
+Replying to mane :
+
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+
+Please contact me privately for further discussion.
+
+How can we contact you?
+
+you should be able to see my email address, if not, please let me know and I'll provide it to you.
+
+I don't think I can, but I will check.
+
+I haven't heard back from you on this regard, do you have an update?
+
+So far, no, because we need to work on our infrastructure, because @naif and their (italian) friends are attacking us from all over. And not only on social networks, but also physically on our servers.
+
+ comment:20 
+
+ in reply to:
+  19 
+ ;
+
+ follow-up: 
+  21 
+
+ Changed 4 years ago by mane 
+
+Replying to jb :
+
+Replying to mane :
+
+Replying to jb :
+
+Replying to mane :
+
+Replying to jb :
+
+Replying to mane :
+
+If the problem to mitigate this (real) security issue is the cost of running your own mirrors then I can help you with this.
+
+Please contact me privately for further discussion.
+
+How can we contact you?
+
+you should be able to see my email address, if not, please let me know and I'll provide it to you.
+
+I don't think I can, but I will check.
+
+I haven't heard back from you on this regard, do you have an update?
+
+So far, no, because we need to work on our infrastructure, because @naif and their (italian) friends are attacking us from all over. And not only on social networks, but also physically on our servers.
+
+I would suggest you to leave nationality related comments out of this discussion.
+
+I am sorry to read that you are experiencing attacks on your servers at current. In case you need a secure and reliable mirror please let me know as I could run one and give it 1Gb/s connectivity to it, free of charge and with enforced HTTPS.
+
+ comment:21 
+
+ in reply to:
+  20 
+ ;
+
+ follow-up: 
+  22 
+
+ Changed 4 years ago by Jean-Baptiste Kempf 
+
+Replying to mane :
+
+Replying to jb :
+
+So far, no, because we need to work on our infrastructure, because @naif and their (italian) friends are attacking us from all over. And not only on social networks, but also physically on our servers.
+
+I would suggest you to leave nationality related comments out of this discussion.
+
+Seeing that they makes this a italian-vs-france hacker fight, it's not really easy, tbh.
+But fair enough...
+
+I am sorry to read that you are experiencing attacks on your servers at current. In case you need a secure and reliable mirror please let me know as I could run one and give it 1Gb/s connectivity to it, free of charge and with enforced HTTPS.
+
+OK, thanks for the proposal.
+
+ comment:22 
+
+ in reply to:
+  21 
+
+ Changed 4 years ago by mane 
+
+Replying to jb :
+
+Replying to mane :
+
+Replying to jb :
+
+So far, no, because we need to work on our infrastructure, because @naif and their (italian) friends are attacking us from all over. And not only on social networks, but also physically on our servers.
+
+I would suggest you to leave nationality related comments out of this discussion.
+
+Seeing that they makes this a italian-vs-france hacker fight, it's not really easy, tbh.
+But fair enough...
+
+I see your point but keep in mind that there could be Italians willing to help you guys, indistinctly if you are French or of any other nationality.
+
+I am sorry to read that you are experiencing attacks on your servers at current. In case you need a secure and reliable mirror please let me know as I could run one and give it 1Gb/s connectivity to it, free of charge and with enforced HTTPS.
+
+OK, thanks for the proposal.
+
+No worries, I am happy to help.
+
+ comment:23 
+
+ Changed 4 years ago by Jean-Baptiste Kempf 
+
+Thanks.
+
+ comment:24 
+
+ Changed 4 years ago by Fabio Pietrosanti (naif) 
+
+For proper IE compatibility: ​ https://github.com/client9/sslassert/wiki/IE-Supported-Cipher-Suites 
+
+ comment:25 
+
+ Changed 4 years ago by Fabio Pietrosanti (naif) 
+
+Microsoft documentation: HSTS is supported in IE only from IE11, no problem on XP as unknown additional header 
+ ​ https://support.microsoft.com/en-us/help/3071338/internet-explorer-11-adds-support-for-http-strict-transport-security-s 
+
+ comment:26 
+
+ Changed 4 years ago by Fabio Pietrosanti (naif) 
+
+That’d the specific User Agent compatibility of IE8 on XP 
+ ​ https://www.ssllabs.com/ssltest/viewClient.html?name=IE&version=8&platform=XP 
+
+ Note: See
+ TracTickets for help on using
+ tickets.
+
+ Download in other formats:
+
+ Comma-delimited Text 
+
+ Tab-delimited Text 
+
+ RSS Feed 
+
+ Powered by Trac 1.2 
+
+ By Edgewall Software .
+
+ VideoLAN

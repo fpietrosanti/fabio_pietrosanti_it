@@ -1,0 +1,103 @@
+Google Analytics viola il GDPR: cause ed effetti di un'altra battaglia nella guerra degli Analytics - Meleam S.p.A. Salta al contenuto 
+
+ Numero Verde: 800 621 247 | info@meleam.com 
+
+ Facebook Twitter YouTube Email Instagram LinkedIn 
+
+ Cerca per: 
+
+ AZIENDA SEDI MELEAM 
+ VALORI 
+ PARTNER 
+
+ SERVIZI MEDICINA DEL LAVORO 
+ FORMAZIONE 
+ SICUREZZA SUL LAVORO 
+ PRIVACY 
+ HACCP 
+ CERTIFICAZIONI 
+ APPALTI 
+ WEB MARKETING 
+ MEDICINA DELLO SPORT 
+ INTEGRATORI 
+ POLISPECIALISTICA 
+
+ CORSI 
+ E-COMMERCE 
+ PROGETTI DIKE MEDICINA 
+ REATI SICUREZZA LAVORO 
+ MELEAM FARMACEUTICS 
+
+ MAGAZINE ARTICOLI 
+ PUBBLICAZIONI 
+
+ CONTATTI 
+
+ Google Analytics viola il GDPR: cause ed effetti di un’altra battaglia nella guerra degli Analytics
+
+ Ingrandisci immagine 
+
+ Google Analytics viola il GDPR: cause ed effetti di un’altra battaglia nella guerra degli Analytics
+ Nel mese di gennaio 2022, il DSB (garante austriaco per la protezione dei dati) ha dichiarato che l’utilizzo di Google Analytics (servizio di analisi web gratuito che, fornendo statistiche e dati relativi agli accessi degli utenti, offre un efficiente servizio di monitoraggio del sito internet) è illegittimo poiché in contrasto con il Reg. Ue 679/2016. Il parere cita, fra l’altro, la sentenza Schrems II di luglio 2020, la quale stabiliva che il Privacy Shield, norma di riferimento per lo scambio di dati fra Unione Europea e Stati Uniti d’America, non era conforme al GDPR e quindi veniva ufficialmente annullato.
+ Di fatto, alla luce della sentenza Schrems II, si potrebbe addirittura affermare che l’impiego di qualunque strumento di analytics, i cui server sono fisicamente collocati negli USA, sia illegale in UE (ivi compresi anche quelli utilizzati dai social media come Instagram e Facebook, per fare un esempio).
+ Questo assunto deriva dall’incompatibilità delle leggi europee con quelle statunitensi, profondamente invasive in materia di trattamento dei dati personali: la legge Usa denominata FISA 702 impone ai “fornitori di servizi di comunicazione elettronica” con sede collocata in territorio americano, di consentire alle Agenzie di intelligence l’accesso ai dati personali di “persone non statunitensi” per ragioni di contrasto al terrorismo e di sicurezza nazionale. Il GDPR sancisce che il passaggio di dati fra stati membri della UE e realtà ad essa esterne, infatti, è legittimo solo se i Titolari del Trattamento, destinatari di quei dati, offrono adeguate garanzie di tutela e protezione in materia di trattamento dei dati personali.
+ Alla linea adottata dal garante austriaco, in seguito, si sono associati anche il garante francese e quello olandese, esprimendo il medesimo parere in materia.
+
+ Attivisti digitali sul piede di guerra: quale credito attribuire loro? 
+
+ Contattaci 
+
+ Prima ancora che il Garante italiano si esprimesse, la comunità di hacker Monitora PA (organizzazione di volontari che si è posta come scopo quello di “individuare e segnalare i problemi di conformità al GDPR delle pubbliche amministrazioni italiane), nella persona del suo co-fondatore Fabio Pietrosanti, ha inondato di pec dai toni alquanto minacciosi tutte le PA che utilizzavano Google Analytics, invitandole a sostituire in breve tempo il cookie in questione con altri servizi similari (come ad esempio Statecounter, Plausible Analytics, Splitbee, Friendly analytics, Smartlook, Hotjar, Etracker, Stormly ecc.) e minacciando le stesse di segnalarle al Garante nel caso di non adempimento alla richiesta entro un certo numero di giorni. I toni dei messaggi inviati erano inizialmente sembrati allarmistici ed eccessivi, considerando che il mittente asseriva di essere rappresentante di attivisti mossi da un (probabilmente) genuino furore ideologico, ma, a conti fatti, il contenuto delle comunicazioni non si è rivelato infondato, anzi: nei giorni scorsi anche il Garante Italiano in materia di protezione dei dati, con buona pace di alcuni giornalisti mainstream, si è accodato al parere degli altri suoi colleghi europei.
+ Egli, infatti, è di recente intervenuto con un’ammonizione nei confronti dell’azienda Caffeina Media Srl, la quale usava Google Analytics sul proprio sito, imponendo un fermo di 90 giorni sul trasferimento dati operato dal cookie in questione al fine di concedere all’azienda il tempo sufficiente per implementare nuovi meccanismi atti a scongiurare ulteriori violazioni del GDPR. Ovviamente, un provvedimento del genere non ha implicazioni per la sola azienda attenzionata dal garante ma, indirettamente, per tutte le aziende che utilizzano Google Analytics sul proprio sito.
+ Il gigante di Mountain View, dal canto suo, ha preso alcuni provvedimenti al fine di rendere compliant al GDPR il proprio servizio di analytics: Google, infatti, ha rilasciato la versione 4 del proprio tool la quale, stando alle descrizioni fornite, dovrebbe anonimizzare i dati. Alcuni addetti ai lavori del settore digitale, tuttavia, stanno già avanzando forti perplessità su questa recentissima release, più o meno le stesse che sussistevano per la versione precedente, asserendo che l’anonimizzazione dei dati non è da sola una misura sufficiente, che allo stato attuale il problema di compliance al Reg. UE 679/2016 non può assolutamente considerarsi risolto e che il provvedimento attuato dal provider californiano non è altro che “il solito fumo negli occhi”.
+ Vi sono, ovviamente, ulteriori soluzioni che potrebbero essere implementate: si caldeggia, ad esempio, l’ipotesi di attuare delle misure tecniche atte ad evitare il trasferimento dei dati al di fuori dei confini dell’UE, mantenendo quindi gli stessi all’interno di server siti sul suolo europeo. Questo tipo di misura, ad esempio, garantirebbe (in teoria) il rispetto del GDPR.
+ Ad ogni modo, è necessario considerare che, come chiarito dal componente del Collegio del Garante Guido Scorza, questo tipo di problemi non troveranno mai soluzione definitiva se non saranno implementati degli accordi atti a risolvere il vuoto normativo lasciato dall’annullamento del Privacy Shield.
+
+ Mario Mele
+ Privacy Consultant – DPO
+ Area Privacy Meleam 
+
+ Google Analytics è utilizzato da innumerevoli realtà: vuoi sapere quali siano le soluzioni allo stato attuale, contatta Meleam al 800 621 247 . 
+
+ Condividi:
+ Fai clic qui per condividere su Twitter (Si apre in una nuova finestra) 
+ Fai clic per condividere su Facebook (Si apre in una nuova finestra) 
+
+ Correlati 
+
+ Di Meleam S.p.A. | 2022-07-08T11:35:37+02:00 Luglio 6th, 2022 | News , Privacy | 
+
+ Share This Post With Others!
+ Facebook Twitter LinkedIn WhatsApp Email 
+
+ Meleam, acronimo di MEdicina Lavoro e AMbiente, è una Società per Azioni che offre dal 1998 servizi di differente tipologia ai propri clienti con il chiaro obiettivo di offrire soluzioni che permettano loro di lavorare in modo sicuro e sereno.
+
+ Chi Siamo 
+
+ Link Utili
+ Lavora con Noi 
+ Area Riservata 
+
+ Privacy Policy & Cookie Policy
+ Privacy Policy Cookie Policy 
+
+ Contattaci Oggi
+ Sede Legale
+ Via Savoia, 78
+ Scala A, Interno 3, Box 20
+ 00198 – Roma (RM)
+
+ 800 621 247
+
+ info@meleam.com 
+
+ Lunedì - Venerdì: 9:00 - 18:00
+
+ COPYRIGHT 1998 - 2018 Meleam S.p.A.    |   P.IVA: 11328491003   |   ALL RIGHTS RESERVED   |    NOTE LEGALI    |    info@meleam.com 
+
+ Traduci » 
+
+ error: Contenuto protetto
+ Utilizziamo i cookie per essere sicuri che tu possa avere la migliore esperienza sul nostro sito. Se continui ad utilizzare questo sito noi assumiamo che tu ne sia felice. Ok Privacy Policy 
+
+ Torna in cima

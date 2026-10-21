@@ -1,0 +1,222 @@
+Sim Toolkit uses notes for covid-19 – Eclecticism Now! 
+
+ Vai al contenuto 
+
+ Eclecticism Now! 
+
+ Quando tematiche non correlate fra loro potrebbero….
+
+ Menu 
+
+ Twitter 
+
+ Facebook 
+
+ Google+ 
+
+ GitHub 
+
+ WordPress.com 
+
+ Sim Toolkit uses notes for covid-19
+
+ Sim Application Toolkit (STK) is a development application environment that’s executed into the SIM card of a telco subscriber.
+
+ This notes try to analyze which are the possibilities of using the SIM with SIM Tookit to perform local Bluetooth Search of devices around a Phone.
+
+ Applications are deployed trough SIM provisioning by the operators themselves “ Over the Air ” and it’s possible to do Execution of a Remote SIM Tool Kit. 
+
+ From a hacker perspective the wonderful thesis SIM Toolkit In Practice using Bladox TurboSIM as SDK environment.
+
+ STK has been recently (2019) exploited by SIMJacker attack , capable of executing remotely command on the SIM in an abusive way.
+
+ A nice explaination of the technology is in The SIM – the tiny computer in your pocket that’s really in control .
+
+ Interoperability of application specification is defined by SIM Alliance (now Trusted Connectivity Alliance ) that provide:
+
+ S@T Browser 
+
+ WIB (Wireless Internet Browser)
+
+ As of October 2010 mobile network operators can, for example, deliver updated STK application menus by sending a secure SMS to handsets that include a Toolbox (S@T) compliant wireless internet browser (WIB). 
+
+ The specification of STK see the bibble in the ETSI Smart Cards; Card Application Toolkit (CAT) (Release 8) that we now explore:
+
+ 8.65 Service search
+
+ Local Bearer Technology identifier: see clause 8.63. 
+
+ Service search:
+
+ If the Local Bearer Technology Identifier is different from ’00’, the Service search coding is technology dependent
+
+ Bluetooth : 
+
+ The Service Search field is the ServiceSearchPattern parameter of the SDP_ServiceSearchRequest command as defined in the Bluetooth specification [16]. 
+
+ Local Bearer Technology identifier: see clause 8.63. 
+
+ Attribute Information: If the Local Bearer Technology Identifier is different from ’00’, the Attribute Information coding is technology dependent.
+
+ Bluetooth:
+
+ The Attribute Information field consists of a BD_ADDR, followed by the ServiceRecordHandle and the AttributeIDList parameters of the SDP_ServiceAttributeRequest command as defined in the Bluetooth specification [16].
+
+ The BD_ADDR is the Bluetooth device address of the device the terminal shall connect to. The terminal shall use the ServiceRecordHandle and the AttributeIDList parameters to perform the SDP_ServiceAttributeRequest. The ServiceRecordHandle has been previously retrieved with the SERVICE SEARCH command. 
+
+ 6.8.7 Local information
+
+ When the terminal issues a successful TERMINAL RESPONSE for a PROVIDE LOCAL INFORMATION command, it shall supply the requested local information:
+
+ Where the UICC has requested location information, TERMINAL RESPONSE shall contain the location information data object.
+
+ Where the UICC has requested location information for multiple access te chnologies, TERMINAL RESPONSE shall contain the Access Technology data object listing all current access technologies, followed by one location information data object for each current access technology in the same sequence. If no location information is available for an access technology, the respective data object shall have length zero.
+
+ Where the UICC has requested the Search Mode information, the TERMINAL RESPONSE shall contain the Search Mode data object.
+
+ Where the UICC has requested broadcast network information, TERMINAL RESPONSE shall contain the broadcast network information data object (if class “o” is supported).
+
+ To check if the SIM can access Bluetooth of the Terminal, we look at the Terminal Profile Indication that the Terminal announce to the SIM:
+
+ The Osmocom project collected a set of  Terminal Profiles Databases of Phone (from the perspective of the SIM).
+
+ Here we can see a Sim Toolkit SDK that provide the juicy SEVICE SEARCH command
+
+ SERVICE SEARCH
+
+ This command is used to search for the availability of a service in the environment of the terminal. This is typically used to access the services on devices that are connected using Bluetooth or IrDA.
+
+ We also see the example matrix of support of another SIM Toolkit SDK :
+
+ Event: Access Technology changed 
+
+ YES
+
+ Baseband
+
+ On Microsoft Sim Toolkit Command the Search Mode is said to be unsupported:
+
+ \ PROVIDE LOCAL INFORMATION, Search Mode information—Network search mode **Not supported*\ 
+
+ Share this:
+ Twitter 
+ Facebook 
+
+ Mi piace:
+ Mi piace Caricamento... 
+
+ Autore: eclecticismnow
+
+ Tecnologo, imprenditore, curioso, perennemente in viaggio, interessanto a moltissime tematiche profondamente diverse fra loro.
+Per il momento questo blog è un modo veloce di fare sintesi, miste italiano e miste in inglese, su tematiche scorrelate fra loro.
+Non bloggo dal 2011, per colpa dei social media. 
+ Leggi tutti gli articoli di eclecticismnow 
+
+ Autore eclecticismnow Scritto il marzo 29, 2020 marzo 29, 2020 
+
+ Rispondi Cancella risposta 
+
+ Scrivi qui il tuo commento... 
+
+ Inserisci i tuoi dati qui sotto o clicca su un'icona per effettuare l'accesso:
+
+ E-mail (obbligatorio) (L'indirizzo non verrà pubblicato) 
+
+ Nome (obbligatorio) 
+
+ Sito web 
+
+ Stai commentando usando il tuo account WordPress.com. 
+ (  Chiudi sessione  / 
+ Modifica  )
+
+ Stai commentando usando il tuo account Google. 
+ (  Chiudi sessione  / 
+ Modifica  )
+
+ Stai commentando usando il tuo account Twitter. 
+ (  Chiudi sessione  / 
+ Modifica  )
+
+ Stai commentando usando il tuo account Facebook. 
+ (  Chiudi sessione  / 
+ Modifica  )
+
+ Annulla 
+
+ Connessione a %s...
+
+ Notificami nuovi commenti via e-mail 
+ Mandami una notifica per nuovi articoli via e-mail 
+
+ Navigazione articoli
+
+ Precedente Articolo precedente: Come funziona la trasmissione degli elettori e dei dati elettorali dai seggi al ministero? 
+ Avanti Articolo successivo: Cooperative urban logistic networks 
+
+ Articoli recenti
+
+ Osteoporosi e Rapacimina 
+ febbraio 22, 2021 
+
+ Ossigenazione Iperbarica per Senescenza Cellulare e Osteoporosi 
+ gennaio 14, 2021 
+
+ Commissione Voto Elettronico: Rigetto FOIA 
+ dicembre 19, 2020 
+
+ Evasione IRES tramite Amazon FBA? 
+ dicembre 19, 2020 
+
+ Passive Income for Bandwidth & IP 
+ novembre 21, 2020 
+
+ Circa questo blog
+ Questo Blog nasce per raccogliere, prevalentemente in lingua italiana, sintesi di ragionamenti su una varie tematiche di cui mi interesso. 
+Tematiche eclettiche, appunto, ma prevalentemente di carattere tecnologico e sociale.
+
+Ho smesso di bloggare nel 2011 per merito/colpa dei social network. E comunque scrivevo in inglese...e il titolo che ho scelto ne porta memoria. 
+Per contattarmi clicca qui 
+
+ Ricerca per: 
+
+ Cerca 
+
+ Twitter 
+
+ Facebook 
+
+ Google+ 
+
+ GitHub 
+
+ WordPress.com 
+
+ Eclecticism Now! 
+ Crea un sito o un blog gratuito su WordPress.com. 
+
+ Scrivi qui i tuoi pensieri... (facoltativo) 
+
+ Pubblica su 
+
+ Annulla 
+
+ E-mail (Obbligatorio) 
+
+ Nome (Obbligatorio) 
+
+ Sito web 
+
+ Caricamento commenti... 
+
+ Commento 
+
+ × 
+
+ Privacy e cookie: Questo sito utilizza cookie. Continuando a utilizzare questo sito web, si accetta l’utilizzo dei cookie. 
+
+Per ulteriori informazioni, anche sul controllo dei cookie, leggi qui:
+
+ Informativa sui cookie 
+
+ %d blogger hanno fatto clic su Mi Piace per questo:

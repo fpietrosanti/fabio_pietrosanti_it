@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+                         <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fi"> <![endif]-->
+                        <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="fi"> <![endif]-->
+                        <!--[if IE 8]>    <html class="no-js lt-ie9" lang="fi"> <![endif]-->
+                        <!--[if gt IE 8]><!--> <html class="no-js" lang="fi"> <!--<![endif]-->
+                        <head><META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link rel="shortcut icon" href="/themes/trepo56/images/favicon.ico">
+<link rel="apple-touch-icon" href="/themes/trepo56/images/apple-touch-icon.png">
+<meta name="Generator" content="DSpace 5.6">
+<link href="/themes/trepo56/styles/main.css" rel="stylesheet">
+<link type="text/css" href="/static/css/creativecommons/cc-icons.min.css" rel="stylesheet">
+<link href="/themes/trepo56/styles/shared/flatpickr.min.css" rel="stylesheet">
+<link href="/themes/trepo56/styles/shared/bootstrap-tokenfield.min.css" rel="stylesheet">
+<link type="application/opensearchdescription+xml" rel="search" href="https://trepo.tuni.fi:443/open-search/description.xml" title="DSpace">
+<!--[if lt IE 9]>
+                
+                
+                <![endif]-->
+<title>TorSNIP Hidden Service Proxy with End-to-End Security</title>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.creator" content="Kiyani, Shoaib" />
+<meta name="DCTERMS.dateAccepted" content="2017-11-23T07:39:04Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.dateAccepted" content="2019-05-23T11:20:59Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.available" content="2017-11-23T07:39:04Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.available" content="2019-05-23T11:20:59Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.issued" content="2017" scheme="DCTERMS.W3CDTF" />
+<meta name="DC.identifier" content="https://trepo.tuni.fi//handle/123456789/25394" scheme="DCTERMS.URI" />
+<meta name="DCTERMS.abstract" content="The onion router (Tor) is a software that provides an opportunity to access the blocked content over the Internet. It also provides anonymity to its users with the help of a protocol called Hidden Service (HS) protocol. It provides the ability to the users to conduct confidential communication without the possibility of getting trace back. It allows the operators to publish anonymous content without compromising their anonymity. &#xA;The ‘.onion’ address can only be accessed using Tor browser. To access the HS with a regular Internet browser, for example, Google Chrome, Firefox etc., a service called Tor2web is used. It is a proxy server, which receives the user’s request and forwards it to the targeted HS. The main issue identified in this service is that the service is not end-to-end secure and is prone to various attacks including content injection and content modification.&#xA;One of the possible solutions to this problem is to make an HTTPS connection directly to the onion site, rather than decrypting the packet at the intermediate node. This could make the communication secure from the user’s browser until termination at the onion site i.e. makes it end-to-end secure. This is achievable with the deployment of TLS’s Server Name Indication (SNI), which identifies the server name in the initial request.&#xA;The idea is to register a domain name and add an ‘A’ and ‘AAAA’ records and get a valid certificate from the certificate authority. Then create a hidden service and obtain its onion address. Map an onion:domain address and obtain a valid certificate for it. Modify the SNI script file according to the requirements and update the ‘Table’ field in the script. Finally, choose a virtual port and delegate the onion service name and all subsequent packets to the targeted hidden service." />
+<meta name="DCTERMS.extent" content="54" xml:lang="en" />
+<meta name="DC.language" content="en" xml:lang="en" scheme="DCTERMS.RFC1766" />
+<meta name="DC.rights" content="This publication is copyrighted. You may download, display and print it for Your own personal use. Commercial use is prohibited." />
+<meta name="DC.title" content="TorSNIP Hidden Service Proxy with End-to-End Security" />
+<meta name="DC.type" content="fi= Diplomityö | en=Master’s thesis (technology)|" />
+<meta name="DC.identifier" content="URN:NBN:fi:tty-201711232247" />
+<meta name="DC.subject" content="Information Technology" />
+<meta name="DC.date" content="2017-12-07" scheme="DCTERMS.W3CDTF" />
+<meta name="DC.contributor" content="Elektroniikka ja tietoliikennetekniikka – Electronics and Communications Engineering" />
+<meta name="DC.contributor" content="Tieto- ja sähkötekniikan tiedekunta – Faculty of Computing and Electrical Engineering" />
+<meta name="DC.format" content="fulltext" />
+<meta name="DC.contributor" content="Tampere University of Technology" />
+<meta name="DC.rights" content="openAccess" />
+<meta name="DC.type" content="masterThesis" />
+<meta name="DC.contributor" content="Brumley, Billy" />
+<meta name="DC.contributor" content="Kannisto, Joona" />
+<meta content="TorSNIP Hidden Service Proxy with End-to-End Security" name="citation_title">
+<meta content="en" name="citation_language">
+<meta content="Kiyani, Shoaib" name="citation_author">
+<meta content="https://trepo.tuni.fi/bitstream/123456789/25394/4/Kiyani.pdf" name="citation_pdf_url">
+<meta content="2017" name="citation_date">
+<meta content="https://trepo.tuni.fi/handle/123456789/25394" name="citation_abstract_html_url">
+</head><body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://trepo.tuni.fi/handle/123456789/25394">trepo.tuni.fi/handle/123456789/25394</a> · captured 2021-05-15 · scripts removed</div>
+<a href="#maincontent" class="skip-nav screen-reader-text" id="skip-nav">Hypp&auml;&auml; sis&auml;lt&ouml;&ouml;n</a>
+<header>
+<div role="navigation" class="navbar navbar-default navbar-static-top">
+<div id="navbarheader" class="container">
+<div id="tampub-logo" class="navbar-header">
+<button data-toggle="offcanvas" class="navbar-toggle" type="button"><span class="sr-only">N&auml;yt&auml;/piilota sivun navigointi</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/" aria-label="Trepo Etusivu"></a>
+<div class="navbar-header pull-right visible-xs hidden-sm hidden-md hidden-lg">
+<ul class="nav nav-pills pull-left ">
+<li class="dropdown" id="ds-language-selection-xs">
+<button data-toggle="dropdown" class="dropdown-toggle navbar-toggle navbar-link" role="button" href="#" id="language-dropdown-toggle-xs"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-globe"></b></button>
+<ul data-no-collapse="true" aria-labelledby="language-dropdown-toggle-xs" role="menu" class="dropdown-menu pull-right">
+<li role="presentation">
+<a id="langlink" href="javascript:document.repost.locale.value='lfi'; document.repost.submit();" lang="fi">Suomeksi</a>
+</li>
+<li role="presentation">
+<a id="langlink" href="javascript:document.repost.locale.value='len'; document.repost.submit();" lang="en">In English</a>
+</li>
+</ul>
+</li>
+<li>
+<form method="get" action="/login" style="display: inline">
+<button class="navbar-toggle navbar-link"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-user"></b></button>
+</form>
+</li>
+</ul>
+</div>
+<div id="treposaate">
+<span>Trepo</span>
+</div>
+</div>
+<div id="langSelection" class="navbar-header pull-right hidden-xs">
+<div id="langcontainer">
+<form method="post" name="repost" action="">
+<input type="hidden" name="type"><input type="hidden" name="locale"><input value="" type="hidden" name="author">
+</form>
+<ul class="nav navbar-nav pull-left" id="languageSelection">
+<li role="presentation">
+<a id="langlink" href="javascript:document.repost.locale.value='lfi'; document.repost.submit();" lang="fi">Suomeksi</a>
+</li>
+<li role="presentation">
+<a id="langlink" href="javascript:document.repost.locale.value='len'; document.repost.submit();" lang="en">In English</a>
+</li>
+</ul>
+<ul id="login-button" class="nav navbar-nav pull-left">
+<li>
+<a href="/login"><span class="hidden-xs">Kirjaudu</span></a>
+</li>
+</ul>
+<button type="button" class="navbar-toggle visible-sm" data-toggle="offcanvas"><span class="sr-only">N&auml;yt&auml;/piilota sivun navigointi</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="trail-wrapper hidden-print">
+<div class="container">
+<div id="topsearchbar" class="row">
+<div class="col-xs-12">
+<div class="breadcrumb dropdown visible-xs">
+<a data-toggle="dropdown" class="dropdown-toggle" role="button" href="#" id="trail-dropdown-toggle">N&auml;yt&auml; viite&nbsp;<b class="caret"></b></a>
+<ul aria-labelledby="trail-dropdown-toggle" role="menu" class="dropdown-menu">
+<li role="presentation">
+<a role="menuitem" href="/"><i aria-hidden="true" class="glyphicon glyphicon-home"></i>&nbsp;
+                        Etusivu</a>
+</li>
+<li role="presentation">
+<a role="menuitem" href="/handle/10024/105878">Trepo</a>
+</li>
+<li role="presentation">
+<a role="menuitem" href="/handle/10024/105882">Opinn&auml;ytteet - ylempi korkeakoulututkinto</a>
+</li>
+<li role="presentation" class="disabled">
+<a href="#" role="menuitem">N&auml;yt&auml; viite</a>
+</li>
+</ul>
+</div>
+<ul class="breadcrumb hidden-xs">
+<li>
+<i aria-hidden="true" class="glyphicon glyphicon-home"></i>&nbsp;
+            <a href="/">
+<trail target="/">Etusivu</trail>
+</a>
+</li>
+<li>
+<a href="/handle/10024/105878">
+<trail target="/handle/10024/105878">Trepo</trail>
+</a>
+</li>
+<li>
+<a href="/handle/10024/105882">Opinn&auml;ytteet - ylempi korkeakoulututkinto</a>
+</li>
+<li class="active">N&auml;yt&auml; viite</li>
+</ul>
+<div class="ds-option-set" id="ds-search-option">
+<form method="get" class="" id="ds-search-form" action="/discover">
+<fieldset>
+<div class="input-group">
+<input aria-label="untranslated" placeholder="Haku" type="text" class="ds-text-field form-control" name="query">
+<div class="radio">
+<label><input value="" name="scope" type="radio" id="ds-search-form-scope-all">Hae Treposta</label>
+</div>
+<div class="radio">
+<label><input checked name="scope" type="radio" id="ds-search-form-scope-container" value="10024/105882">T&auml;m&auml; kokoelma</label>
+</div>
+<span class="input-group-btn"><button title="Hae" class="ds-button-field btn btn-primary"><span aria-hidden="true" class="glyphicon glyphicon-search"></span></button></span>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden" id="no-js-warning-wrapper">
+<div id="no-js-warning">
+<div class="notice failure">JavaScript is disabled for your browser. Some features of this site may not work without it.</div>
+</div>
+</div>
+<div class="container" id="main-container">
+<div class="row row-offcanvas row-offcanvas-right">
+<div class="horizontal-slider clearfix">
+<div id="maincontent" class="col-xs-12 col-sm-12 col-md-9 main-content">
+<div>
+<div id="aspect_artifactbrowser_ItemViewer_div_item-view" class="ds-static-div primary">
+<!-- External Metadata URL: cocoon://metadata/handle/123456789/25394/mets.xml-->
+<div class="item-summary-view-metadata">
+<h1>TorSNIP Hidden Service Proxy with End-to-End Security</h1>
+<h5>Kiyani, Shoaib (2017)</h5>
+<hr>
+<div style="margin-bottom: 10px;" class="somelinks">
+<style type="text/css" media="screen">
+            .fb_iframe_widget span
+            {
+                vertical-align: baseline !important;
+            }
+            .IN-2bc0215c-7188-4274-b598-1969e06d4d7c-1G9ISYhSF8XoOmdcl0yKDu, .IN-2bc0215c-7188-4274-b598-1969e06d4d7c-1G9ISYhSF8XoOmdcl0yKDu.IN-2bc0215c-7188-4274-b598-1969e06d4d7c-3uCBSbQNVNf2QjqHe1rfb6
+            {
+                margin-bottom: 5px;
+            }
+        </style>
+
+<div data-layout="button_count" class="fb-share-button">&nbsp;</div>
+<a class="twitter-share-button" href="https://twitter.com/share">Tweet</a>
+        
+      <a href="http://www.refworks.com/express/ExpressImport.asp?filter=RefWorks%20Tagged%20Format&amp;url=https://refworks.julki.kansalliskirjasto.fi/refworks/api/q/trepo.tuni.fi/123456789/25394&amp;vendor=Kansalliskirjasto&amp;encoding=65001 " target="_blank" style="display: inline-block;"><img style="width: 100px" class="img-responsive" alt="refworks" src="/themes/trepo56/../../static/icons/refworks_hi.png"></a>
+<div data-badge-popover="right" data-badge-type="1" data-hide-no-mentions="true" class="altmetric-embed" data-urn="URN:NBN:fi:tty-201711232247">
+
+
+
+
+            &nbsp;
+        </div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<div class="row">
+<div class="col-xs-4 col-sm-10">
+<div class="thumbnail">
+<a href="/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&amp;isAllowed=y"><img alt="" class="img-responsive" src="/bitstream/handle/123456789/25394/Kiyani.pdf.jpg?sequence=6&amp;isAllowed=y"></a>
+</div>
+</div>
+<div class="col-xs-6 col-sm-12">
+<div class="item-page-field-wrapper table word-break">
+<h5>Avaa tiedosto</h5>
+<div>
+<a href="/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&amp;isAllowed=y"><i aria-hidden="true" class="glyphicon  glyphicon-file"></i> Kiyani.pdf (3.129Mt)</a>
+</div>
+</div>
+<div>
+<span class="bold">Lataukset:&nbsp;</span><span id="file_downloads"></span>
+</div>
+<br>
+</div>
+</div>
+<br>
+<br>
+<div class="simple-item-view-authors item-page-field-wrapper table">
+<div>Kiyani, Shoaib</div>
+</div>
+<div class="simple-item-view-date word-break item-page-field-wrapper table">2017</div>
+<br>Information Technology<br>Tieto- ja s&auml;hk&ouml;tekniikan tiedekunta &ndash; Faculty of Computing and Electrical Engineering<br>
+<div class="simple-item-view-rights table">This publication is copyrighted. You may download, display and print it for Your own personal use. Commercial use is prohibited.<br>
+</div>
+<h5>Hyv&auml;ksymisp&auml;iv&auml;m&auml;&auml;r&auml;</h5>2017-12-07<div class="simple-item-view-show-full item-page-field-wrapper table">
+<a href="/handle/123456789/25394?show=full">N&auml;yt&auml; kaikki kuvailutiedot</a>
+</div>
+</div>
+<div class="col-sm-8">
+<b>Julkaisun pysyv&auml; osoite on </b>
+<br>
+<a href="http://urn.fi/URN:NBN:fi:tty-201711232247">http://urn.fi/URN:NBN:fi:tty-201711232247</a>
+<div class="simple-item-view-description item-page-field-wrapper table">
+<h5 class="visible-xs">Tiivistelm&auml;</h5>
+<div>The onion router (Tor) is a software that provides an opportunity to access the blocked content over the Internet. It also provides anonymity to its users with the help of a protocol called Hidden Service (HS) protocol. It provides the ability to the users to conduct confidential communication without the possibility of getting trace back. It allows the operators to publish anonymous content without compromising their anonymity. <br>The ‘.onion’ address can only be accessed using Tor browser. To access the HS with a regular Internet browser, for example, Google Chrome, Firefox etc., a service called Tor2web is used. It is a proxy server, which receives the user’s request and forwards it to the targeted HS. The main issue identified in this service is that the service is not end-to-end secure and is prone to various attacks including content injection and content modification.<br>One of the possible solutions to this problem is to make an HTTPS connection directly to the onion site, rather than decrypting the packet at the intermediate node. This could make the communication secure from the user’s browser until termination at the onion site i.e. makes it end-to-end secure. This is achievable with the deployment of TLS’s Server Name Indication (SNI), which identifies the server name in the initial request.<br>The idea is to register a domain name and add an ‘A’ and ‘AAAA’ records and get a valid certificate from the certificate authority. Then create a hidden service and obtain its onion address. Map an onion:domain address and obtain a valid certificate for it. Modify the SNI script file according to the requirements and update the ‘Table’ field in the script. Finally, choose a virtual port and delegate the onion service name and all subsequent packets to the targeted hidden service.</div>
+</div>
+<div class="simple-item-view-collections item-page-field-wrapper table">
+<h5>Kokoelmat</h5>
+<ul class="ds-referenceSet-list">
+<!-- External Metadata URL: cocoon://metadata/handle/10024/105882/mets.xml-->
+<li>
+<a href="/handle/10024/105882">Opinn&auml;ytteet - ylempi korkeakoulututkinto</a> [32942]</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="visible-xs visible-sm">
+<footer>
+<div class="row" id="bottomrow">
+<div class="col-xs-7 col-sm-8">
+<div>Kalevantie 5<br>PL 617<br>33014 Tampereen yliopisto</div>
+<div class="hidden-print">
+<a href="/contact">oa[@]tuni.fi</a> | <a href="/feedback">Yhteydenotto</a> | <a href="https://www.tuni.fi/fi/yksityisyys/tietosuojailmoitus-trepo-sahkoinen-julkaisuarkisto">Tietosuoja</a> | <a href="/trepo_saavutettavuusseloste.html">Saavutettavuusseloste</a>
+</div>
+</div>
+</div>
+<a class="hidden" href="/htmlmap">&nbsp;</a>
+<p>&nbsp;</p>
+</footer>
+</div>
+</div>
+<div role="navigation" id="sidebar" class="col-xs-6 col-sm-3 sidebar-offcanvas">
+<div class="word-break hidden-print" id="ds-options">
+<h4 class="ds-option-set-head  h6">Selaa kokoelmaa</h4>
+<div id="aspect_viewArtifacts_Navigation_list_browse" class="list-group">
+<a href="/handle/10024/105882/browse?type=author" class="list-group-item ds-option">Tekij&auml;t</a><a href="/handle/10024/105882/browse?type=title" class="list-group-item ds-option">Nimekkeet</a><a href="/handle/10024/105882/browse?type=faculty" class="list-group-item ds-option">Tiedekunta (2019 -)</a><a href="/handle/10024/105882/browse?type=oldfaculty" class="list-group-item ds-option">Tiedekunta (- 2018)</a><a href="/handle/10024/105882/browse?type=programmes" class="list-group-item ds-option">Tutkinto-ohjelmat ja opintosuunnat</a><a href="/handle/10024/105882/browse?type=subject" class="list-group-item ds-option">Avainsanat</a><a href="/handle/10024/105882/browse?type=dateissued" class="list-group-item ds-option">Julkaisuajat</a><a href="/community-list" class="list-group-item ds-option">Kokoelmat</a>
+</div>
+<div id="aspect_viewArtifacts_Navigation_list_browse2" class="list-group"></div>
+<h4 class="ds-option-set-head  h6">Omat tiedot</h4>
+<div id="aspect_viewArtifacts_Navigation_list_account" class="list-group">
+<a href="/login" class="list-group-item ds-option">Kirjaudu sis&auml;&auml;n</a><a href="/register" class="list-group-item ds-option">Rekister&ouml;idy</a>
+</div>
+<div id="aspect_viewArtifacts_Navigation_list_context" class="list-group"></div>
+<div id="aspect_viewArtifacts_Navigation_list_administrative" class="list-group"></div>
+<div id="aspect_discovery_Navigation_list_discovery" class="list-group"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden-xs hidden-sm">
+<footer>
+<div class="row" id="bottomrow">
+<div class="col-xs-7 col-sm-8">
+<div>Kalevantie 5<br>PL 617<br>33014 Tampereen yliopisto</div>
+<div class="hidden-print">
+<a href="/contact">oa[@]tuni.fi</a> | <a href="/feedback">Yhteydenotto</a> | <a href="https://www.tuni.fi/fi/yksityisyys/tietosuojailmoitus-trepo-sahkoinen-julkaisuarkisto">Tietosuoja</a> | <a href="/trepo_saavutettavuusseloste.html">Saavutettavuusseloste</a>
+</div>
+</div>
+</div>
+<a class="hidden" href="/htmlmap">&nbsp;</a>
+<p>&nbsp;</p>
+</footer>
+</div>
+</div>
+
+<div id="fb-root"></div>
+        
+        
+        
+</body></html>

@@ -1,0 +1,189 @@
+Parallels Desktop for Mac Insecure File Permissions - Advisories - Secunia 
+
+ Home 
+
+ Corporate Website 
+
+ Jobs 
+
+ Mailing Lists 
+
+ RSS 
+
+ Blog 
+
+ Advertise 
+
+ Solutions For 
+
+ Security Professionals 
+
+ Security Vendors 
+
+ Free Solutions For 
+
+ Open Communities 
+
+ Journalists & Media 
+
+ Online Services New! 
+
+ Secunia Blog 
+
+ Software Inspector 
+
+ Network Software Inspector ( BETA ) 
+
+ Secunia Advisories 
+
+ Search 
+
+ Historic Advisories 
+
+ Listed By Product 
+
+ Listed By Vendor 
+
+ Statistics / Graphs 
+
+ Secunia Research 
+
+ Report Vulnerability 
+
+ About Advisories 
+
+ Virus Information 
+
+ Chronological List 
+
+ Last 10 Virus Alerts 
+
+ About Virus Information 
+
+ Secunia Customers 
+
+ Customer Area 
+
+ Parallels Desktop for Mac Insecure File Permissions 
+
+ Secunia Advisory: 
+
+ SA22634
+
+ Release Date: 
+
+ 2006-11-06
+
+ Last Update: 
+
+ 2006-11-10
+
+ Critical: 
+
+ Less critical 
+
+ Impact: 
+
+ Unknown
+
+ Where: 
+
+ Local system
+
+ Solution Status: 
+
+ Unpatched
+
+ Software: Parallels Desktop for Mac 
+
+ CVE reference: CVE-2006-5817 (Secunia mirror)
+
+ Description :
+Fabio Pietrosanti has reported a security issue with unknown impact in Parallels Desktop for Mac.
+
+The security issue is caused due to /Library/StartupItems/Parallels/prl_dhcpd creating the file "/Library/Parallels/.dhcpd_configuration" with insecure file permissions (set to 666). 
+
+The security issue is reported in Parallels Desktop for Mac Build 1940. Other versions may also be affected.
+
+ Solution :
+Grant only trusted users to affected systems.
+
+ Provided and/or discovered by :
+Fabio Pietrosanti
+
+ Changelog :
+2006-11-10: Added CVE reference.
+
+ Please note: The information that this Secunia Advisory is based on comes from a third party unless stated otherwise.
+
+ Secunia collects, validates, and verifies all vulnerability reports issued by security research groups, vendors, and others. 
+
+ 1 Related Secunia Security Advisories 
+
+ 1. Parallels Desktop for Mac Shared Folder Security Issue 
+
+ Send Feedback to Secunia 
+
+ If you have new information regarding this Secunia advisory or a product in our database, please send it to us using either our web form or email us at vuln@secunia.com.
+
+Ideas, suggestions, and other feedback are most welcome.
+
+ Secunia Poll 
+
+ Do you have products, that have reached End-of-Life support, installed across your network?
+
+ Yes 
+
+ No 
+
+ I don't know 
+
+ See Results      
+
+ Most Popular Advisories 
+
+ 1.
+
+ Adobe Photoshop Bitmap File Handling Buffer Overflow Vulnerability 
+
+ 2.
+
+ Ubuntu update for php 
+
+ 3.
+
+ Invision Power Board class_upload.ph p Cross-Site Scripting 
+
+ 4.
+
+ IBM WebSphere Application Server Unspecified Vulnerability 
+
+ 5.
+
+ IncrediMail IMMenuShellExt ActiveX Control Buffer Overflow 
+
+ 6.
+
+ Sun Solaris PostgreSQL SECURITY DEFINER Privilege Escalation 
+
+ 7.
+
+ Internet Explorer Drag-and-Drop Vulnerability 
+
+ 8.
+
+ Trustix update for postgresql 
+
+ 9.
+
+ Apple QuickTime Java Handling Unspecified Code Execution 
+
+ 10.
+
+ Sun Solaris X11 Multiple Vulnerabilities 
+
+ Vulnerability Management - 
+ Terms & Conditions - 
+ Copyright 2002-2007 Secunia -
+ Compliance -
+ Contact Secunia

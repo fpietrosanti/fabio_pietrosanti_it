@@ -1,0 +1,520 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta name="blogcatalog" content="9BC10102186" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="title" content="ZRTP Voice Encryption is Finally a Standard RFC" />
+<meta name="keywords" content="security,security blog,security discussion,ZRTP Voice Encryption is Finally a Standard RFC,Encryption,VoIP,Protocols,E2EE,ZRTP,General,Informat" />
+<meta name="description" content="ZRTP Voice Encryption is Finally a Standard RFC
+A new wave is coming to the voice encryption world, erupting to fill a gray area where most of the companies doing phone encryption have been implementing custom systems. Now a standard has been setup and there are few reasons left to continue implementing anything different..." />
+<meta name="robots" content="index, follow" />
+<meta name="language" content="en" />
+<title>ZRTP Voice Encryption is Finally a Standard RFC</title>
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Infosec Island - Latest Articles" href="http://www.infosecisland.com/rss.html" />
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/infosecisland/main.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/infosecisland/layout.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/infosecisland/default.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/infosecisland/clearfix.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/infosecisland/forum.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/infosecisland/jquery.autocomplete.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/infosecisland/newdesign.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/sfPropelActAsRatableBehaviorPlugin/css/sf_rating.css" />
+</head>
+<body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="http://sktguow.infosecisland.com/blogview/12929-ZRTP-Voice-Encryption-is-Finally-a-Standard-RFC.html">sktguow.infosecisland.com/blogview/12929-ZRTP-Voice-Encryption-is-Finally-a-Stan</a> · captured 2011-12-06 · scripts removed</div>
+<div id="top_wrapper">
+<div style="float:left">
+<a href="/rss.html"><img src="/images/rss-small.gif" border="0"/></a>&nbsp;&nbsp;<a href="http://www.twitter.com/infosecisland" target="_blank"><img src="/images/twitter-small.gif" border="0"/></a>
+&nbsp;<a href="http://www.facebook.com/pages/Infosec-Island/239789931216?ref=ts" target="_blank"><img src="/images/facebook.gif" target="_blank"/></a>
+&nbsp;<a href="http://www.linkedin.com/groups?home=&gid=2838730&trk=anet_ug_hm" target="_blank"><img src="/images/linkedin-small.gif"/></a>
+&nbsp;<a href="http://www.digg.com/infosecisland" target="_blank"><img src="/images/digg.png"/></a>
+</div> <div style="float:left">
+ 
+</div>
+<div id="search_bar" >
+
+        <form id="form2" method="post" action="/advanced_search.html"><label for="textfield3" class="text2" style="font-size: 14px; ">Search:</label>
+<input type="text" name="filters[text]" id="textfield3" value="" class="input2" /><input type="hidden" name="filter" id="filter" value="filter" />&nbsp;
+<input type="image" name="commit" src="/images/homepage34.gif" id="imagefield2" style="position:relative; top: 4px" />&nbsp;
+</form>
+
+        </div>
+
+
+
+
+</div>
+<div id="wrapper">
+	<div id="header">
+        <div id="logo" style="height:91px">
+                <a href="/" ><img border="0" style="position:relative; top:1px" src="/images/Islandlogo-small.png" /></a>
+        </div>
+
+             <div id="bannerzone_top" style="height:91px">&nbsp;</div>
+				                      <div id="login">
+                                                </div>
+	</div>
+      <div id="search_bar" >
+	 <span></span>
+ 
+
+	        </div>
+
+           <table class="menus" cellpadding="0" cellspacing="0" >
+                <tr style="background-color:white"><td>
+		                <a href="/">Front Page</a> &nbsp;|&nbsp;
+                                                
+
+                <a href="/blogs.html">Blog Posts</a>                &nbsp;|&nbsp;
+                <a href="/documents.html">Downloads</a>		&nbsp;|&nbsp;
+		<a href="/security-videos/1.html">Videos</a>		&nbsp;|&nbsp;
+		<a href="/articles.html">From the Web</a>                &nbsp;|&nbsp;
+
+		<a href="/forum/list.html">Forums</a>	 	&nbsp;|&nbsp;
+                <a style="color:#ffff66" href="/tools.html">Free Tools</a>		 &nbsp;|&nbsp;
+                <a href="/security-breaches/1.html">Breaches</a>
+                &nbsp;|&nbsp;
+                <a href="/security-alerts/1.html">Vulnerabilities</a>                
+	
+</td>
+
+<td align="right" height="18">
+<!--
+<a href="/rss.html"><img src="/images/rss-small.gif" border="0"/></a>&nbsp;&nbsp;<a href="http://www.twitter.com/infosecisland" target="_blank"><img src="/images/twitter-small.gif" border="0"/></a>
+&nbsp;<a href="http://www.facebook.com/pages/Infosec-Island/239789931216?ref=ts" target="_blank"><img src="/images/facebook.gif" target="_blank"/></a>
+-->
+</td>
+
+<td  align="right">
+                
+                <a href="/login.html">Login</a> &nbsp;|&nbsp;
+                <a href="/register.html">Register for Free</a>                		
+</td></tr>
+</table>
+	<div id="content" class="three-col">
+
+	<div class="colB">
+			            		        		            		<!--<h1 class="page_heading"><?php// echo sfConfig::get('app_default_page_heading');?></h1>-->
+        		
+		
+
+		<div class="bg16">
+			<div class="bg17">
+				
+
+<h1>ZRTP Voice Encryption is Finally a Standard RFC</h1>
+<br />
+<div style="float:right; padding-right: 30px">
+</div>
+<span style="padding-left:32px; color: black; font-size: 12px;font-weight:bold ">Thursday, April 14, 2011</span><br/>
+<div style="float:left; width:110px; padding-left: 40px; padding-bottom: 10px;z-index:2 ">
+					<br/>
+				<label>Contributed By:</label><br/>
+				<strong><a href="/userprofile/2641.html">Fabio Pietrosanti</a></strong>
+								<br/>
+																																						                				<br/>
+                						<a href="/userprofile/2641.html"><img src="/images/../uploads/avatar/e94a37c9b33d6a973b40a831d810b0c6.jpg" alt="E94a37c9b33d6a973b40a831d810b0c6" /></a>				
+
+		</div>
+
+<div class="post_text" style="padding-top:10px">
+<p>Finally <a href="http://en.wikipedia.org/wiki/ZRTP" target="_blank">ZRTP</a> has been assigned an official RFC assignment, <a href="http://tools.ietf.org/html/rfc6189" target="_blank">RFC6189</a> ZRTP: Media Path Key Agreement for Unicast Secure RTP.<br /><br />It had as a dependency the <a href="http://en.wikipedia.org/wiki/Secure_Real-time_Transport_Protocol" target="_blank">SRTP</a> with AES key size of 256bit that now has been defined as <a href="http://tools.ietf.org/html/rfc6188" target="_blank">RFC6188</a>.<br /><br />It's exciting to see the RFC finally released, as it's an important milestone to set ZRTP as the official standard for end-to-end encryption much like <a href="http://tools.ietf.org/html/rfc4880" target="_blank">PGP</a> has been for emails.<br /><br />Now any organization in the world will be officially able to implement ZRTP for end-to-end protocol voice encryption.<br /><br />Currently 3 different public implementations of ZRTP protocol exists: </p><ul><li><a href="http://www.philipzimmermann.com/" target="_blank">Philip Zimmermann's</a> <a href="http://zfoneproject.com/" target="_blank">LibZRTP</a> (c code)</li></ul><ul><li><a href="http://www.zrtp.org/" target="_blank">PrivateWave's ZORG</a> (c++ code / Java code)</li></ul><ul><li><a href="http://www.gnutelephony.org/index.php/GNU_ZRTP" target="_blank">GNU Telephony ZRTP</a> (c++ code / Java code)</li></ul><p>Each of them provide different features of the protocol, but most importantly are known to be interoperable. </p><p>A new wave is coming to the voice encryption world, erupting to fill a gray area where most of the companies doing phone encryption systems have been implementing custom encryption.<br /><br />Now a standard has been setup and there are few reasons left to continue implementing something different.<br /><br />Hurray to <a href="http://www.philzimmermann.com/" target="_blank">Mr. Zimmermann</a> and all in the community of companies (like <a href="http://www.privatewave.com/security/security-protocols/zrtp.html" target="_blank">PrivateWave</a>) and individuals (like <a href="http://programm.froscon.org/2008/events/169.en.html" target="_blank">Werner Dittmann</a>) that worked on it.</p><p>Today is a great day, as this technology is now official and available with multiple existing implementations.</p><p>Philip, you did it again, my compliments to your pure spirit and determination :-)</p>Now there are no more excuses to keep voice 'crypto systems' closed.
+</div>
+<br/>
+<br/>
+<div style="padding-left: 30px">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style">
+<a href="https://www.addthis.com/bookmark.php?v=250&amp;username=donwalrus" class="addthis_button_compact" >Share This!</a>
+<span class="addthis_separator">|</span>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_linkedin"></a>
+<a class="addthis_button_digg"></a>
+<a class="addthis_button_delicious"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_google"></a>
+</div>
+
+
+<!-- AddThis Button END -->
+
+</div>
+<br/>
+<br />
+<div style="padding-left:30px">
+<h4 style="color:black; text-decoration:underline; padding-bottom: 2px">Possibly Related Articles:</h4>
+<ul style="padding-left:30px;list-style-type:disc; font-size: 1.2em">
+    <li style="font-weight:bold"><a href="/blogview/12166-Top-Six-Misconceptions-About-IPv6-Adoption.html">Top Six Misconceptions About IPv6 Adoption</a></li>
+    <li style="font-weight:bold"><a href="/articleview/554-Another-New-AES-Attack.html">Another New AES Attack</a></li>
+    <li style="font-weight:bold"><a href="/blogview/12513-Beware-of-Erasure-Problems-on-SSD-Drives.html">Beware of Erasure Problems on SSD Drives</a></li>
+    <li style="font-weight:bold"><a href="/blogview/2277--Its-Defense-in-Depth-not-Dense-in-Depth.html"> It’s ‘Defense in Depth’, not ‘Dense in Depth’</a></li>
+    <li style="font-weight:bold"><a href="/blogview/13085-The-History-Behind-EIGRP.html">The History Behind EIGRP</a></li>
+</ul>
+</div>
+
+        <br/>
+<div id="post_info" >
+<table border="0" cellspacing="2">
+        <tbody>
+
+
+
+
+        <!--    <tr>
+                        <td>
+                                <label>Rating:</label>
+                        </td>
+                        <td>
+
+                                                                                        </td>
+
+                </tr> -->
+                <tr>
+                        <td width="80px" style="padding-left:20px">
+                                <label>Views:</label>
+                        </td>
+                        <td>
+                                1419                        </td>
+                </tr>
+                                <tr>
+                        <td style="padding-left:20px">
+                                <label>Categories:</label>
+                        </td>
+                        <td>
+                                                                                        <a href="/blogcategory/24/General.html">General</a>                                                                </td>
+                </tr>
+                                                <tr>
+                        <td style="padding-left:20px">
+                                <label>Industries:</label>
+                        </td>
+                        <td>
+                                                                                        <a href="/blogindustry/13/Information+Security.html">Information Security</a>                                                                </td>
+                </tr>
+                
+                                <tr>
+                        <td style="padding-left:20px">
+                                <label>Tags:</label>
+                        </td>
+                        <td>
+                                                                                        <a href="/blogtag/211/Encryption.html">Encryption</a>                                                                                        <a href="/blogtag/495/VoIP.html">VoIP</a>                                                                                        <a href="/blogtag/881/Protocols.html">Protocols</a>                                                                                        <a href="/blogtag/889/E2EE.html">E2EE</a>                                                                                        <a href="/blogtag/1497/ZRTP.html">ZRTP</a>                                                                </td>
+                </tr>
+                
+        </tbody>
+</table>
+</div>
+
+
+<div style="padding-left:20px">
+<strong style="color:#006ba7">Post Rating:</strong><br/><br/> 
+<ul class="star-rating" style="width:125px">  <li class="current-rating" id="current_rating_0c276d5cf4fa3e6f5be2f31038ce6636" style="width:125px;">Currently rated 5 star(s) on 5  </li>  <li><a class="r1stars" title="Rate it 1 stars" href="#">Rate it 1 stars</a></li>  <li><a class="r2stars" title="Rate it 2 stars" href="#">Rate it 2 stars</a></li>  <li><a class="r3stars" title="Rate it 3 stars" href="#">Rate it 3 stars</a></li>  <li><a class="r4stars" title="Rate it 4 stars" href="#">Rate it 4 stars</a></li>  <li><a class="r5stars" title="Rate it 5 stars" href="#">Rate it 5 stars</a></li></ul><div id="rating_message_0c276d5cf4fa3e6f5be2f31038ce6636"></div><i>(Rate this Post)</i>
+</div>
+<br/><br/>
+<h4 style="padding-left: 20px; color:black; font-size: 16px"><a name="comments" style="color:black">Comments:</a></h4>
+<br/>
+<div class="article_comment">
+        
+<br/>
+<h4 style="padding-left: 30px; color:black">You Must <a href="/register.html">Register</a> or <a href="/login.html">Login</a> to Comment</h4>
+</div>
+<div class="disclaimer">
+The views expressed in this post are the opinions of the Infosec Island member that posted this content. Infosec Island is not responsible for the content or messaging of this post. <br/><br/>
+<strong>Unauthorized reproduction of this article (in part or in whole) is prohibited without the express written permission of Infosec Island and the Infosec Island member that posted this content--this includes using our RSS feed for any purpose other than personal use.</strong>
+</div>
+				<br style="clear: both" />
+			</div>
+		</div>
+		<div class="extra">
+			<div class="extraL"></div>
+			<div class="extraR"></div>
+		</div>
+	</div>
+		<!-- end .colB -->
+
+
+	<div class="colC" style="padding-top:3px; border-left:0px solid #393939">
+		<!-- end #box4 -->
+                <div class="box bg6" style="border: 1px solid #ffddbb">
+                        <div class="bg7">
+                                <div class="title text1" style="padding-top:3px; padding-bottom:3px"><img src="/images/thumbs.gif">&nbsp;<b>Most Popular</b></div>
+                                <div style="border: 0px solid grey; text-align:left; width:290px; padding-left:10px; background-color:white;">
+                                        <ul >
+     <li class="mp_link" ><a href="/blogview/18536-Was-Irans-Downing-of-RQ-170-Related-to-the-Malware-Infection-at-Creech-AFB.html">Was Iran's Downing of RQ-170 Related to the Malware Infection at Creech AFB?</a></li>
+     <li class="mp_link" ><a href="/blogview/18315-DDoS-The-Message-is-Often-Lost-in-the-Noise.html">DDoS: The Message is Often Lost in the Noise</a></li>
+     <li class="mp_link" ><a href="/blogview/18316-How-to-Recover-a-Hacked-Facebook-Account.html">How to Recover a Hacked Facebook Account</a></li>
+     <li class="mp_link" ><a href="/blogview/18344-Five-Key-Aspects-of-a-Good-Infosec-Risk-Assessment.html">Five Key Aspects of a Good Infosec Risk Assessment</a></li>
+     <li class="mp_link" ><a href="/blogview/18380-The-War-Over-SCADA-An-Insiders-Perspective.html">The War Over SCADA - An Insider's Perspective</a></li>
+</ul>
+                                </div>
+                        </div>
+                </div>
+                 <div class="box bg6">
+                        <div class="bg7">
+                                <div class="title"><h2 class="text1"><b>Latest Member Comments</b></h2></div>
+                                <div style="border: 0px solid grey; text-align:left; width:290px; padding-left:10px; background-color:white; border-bottom: 5px solid white">
+                                        <div style="margin-bottom: 10px">
+	<div class="bubblesmall">
+		<br/>
+	<blockquote style="font-size: 12px">
+	<p><i>&quot;<a href="/blogview/18536-Was-Irans-Downing-of-RQ-170-Related-to-the-Malware-Infection-at-Creech-AFB.html">Jeff, read this.
+
+http://www.flightglobal.com/blogs/the-dewline/2011/12/avtobaza-irans-weapon-in-rq-17.html?utm_source=twitterfeed&am...</a>&quot;</i></p>
+	</blockquote>
+	<span class="comment_article">
+	<a href="/blogview/18536-Was-Irans-Downing-of-RQ-170-Related-to-the-Malware-Infection-at-Creech-AFB.html">Was Iran's Downing of RQ-170 Related to the ...</a>	</span><br/>
+	<cite style="text-align:left;padding-bottom: 3px; border-bottom: 1px solid #efefef ">
+	<a href="/userprofile/3683.html">Krypt3ia </a> on 12-05-2011</cite> 
+	<br/>
+</div>
+
+	<div class="bubblesmall">
+		<br/>
+	<blockquote style="font-size: 12px">
+	<p><i>&quot;<a href="/blogview/18536-Was-Irans-Downing-of-RQ-170-Related-to-the-Malware-Infection-at-Creech-AFB.html">... That is.. IF this happened at all like they say it did. Could be we just lost control and it fell out of the sky.</a>&quot;</i></p>
+	</blockquote>
+	<span class="comment_article">
+	<a href="/blogview/18536-Was-Irans-Downing-of-RQ-170-Related-to-the-Malware-Infection-at-Creech-AFB.html">Was Iran's Downing of RQ-170 Related to the ...</a>	</span><br/>
+	<cite style="text-align:left;padding-bottom: 3px; border-bottom: 1px solid #efefef ">
+	<a href="/userprofile/3683.html">Krypt3ia </a> on 12-05-2011</cite> 
+	<br/>
+</div>
+
+	<div class="bubblesmall">
+		<br/>
+	<blockquote style="font-size: 12px">
+	<p><i>&quot;<a href="/blogview/18536-Was-Irans-Downing-of-RQ-170-Related-to-the-Malware-Infection-at-Creech-AFB.html">Jeff,
+I doubt any malware was involved. They likely used just RF and similar if not the same software packages. Remember, this is the ...</a>&quot;</i></p>
+	</blockquote>
+	<span class="comment_article">
+	<a href="/blogview/18536-Was-Irans-Downing-of-RQ-170-Related-to-the-Malware-Infection-at-Creech-AFB.html">Was Iran's Downing of RQ-170 Related to the ...</a>	</span><br/>
+	<cite style="text-align:left;padding-bottom: 3px; border-bottom: 1px solid #efefef ">
+	<a href="/userprofile/3683.html">Krypt3ia </a> on 12-05-2011</cite> 
+	<br/>
+</div>
+
+	<div class="bubblesmall">
+		<br/>
+	<blockquote style="font-size: 12px">
+	<p><i>&quot;<a href="/blogview/18486-Researcher-Traces-StuxnetDuqu-Timeline-Back-to-2006.html">"The entire thing is probably bullfrak." Why? Read @pr0f_srs' reflection on Bumgarner's claims: http://pastebin.com/Dp08VhT2</a>&quot;</i></p>
+	</blockquote>
+	<span class="comment_article">
+	<a href="/blogview/18486-Researcher-Traces-StuxnetDuqu-Timeline-Back-to-2006.html">Researcher Traces Stuxnet/Duqu Timeline Back...</a>	</span><br/>
+	<cite style="text-align:left;padding-bottom: 3px; border-bottom: 1px solid #efefef ">
+	<a href="/userprofile/4084.html">Matthijs R. Koot</a> on 12-03-2011</cite> 
+	<br/>
+</div>
+
+</div>
+                                </div>
+                        </div>
+<div id="userhome_banner" ></div>
+
+
+
+                <div class="box bg6">
+                        <div class="bg7">
+                                <div class="title text1" style="padding-top:3px; padding-bottom:3px"><img src="/images/latest.gif">&nbsp;<b>Latest Posts</b></div>
+                                <div style="border: 0px solid grey; text-align:left; width:290px; padding-left:10px; background-color:white; border-bottom: 1px solid white">
+                                        <ul>
+    <li class="mr_link"><a href="/blogview/18557-Android-Apps-Violate-Permissions-But-Who-Cares-Right.html">Android Apps Violate Permissions - But Who Cares, Right?</a></li>
+    <li class="mr_link"><a href="/blogview/18555-RSA-Hack-Analysis-Windows-DEP-Not-Enabled.html">RSA Hack Analysis: Windows DEP Not Enabled</a></li>
+    <li class="mr_link"><a href="/blogview/18266-Getting-Past-Securitys-Fuzzy-Math-ROI.html">Getting Past Security's Fuzzy Math ROI</a></li>
+    <li class="mr_link"><a href="/blogview/18515-HP-Printer-Hack-Video-Shows-Sensitive-Data-Tweet-Too.html">HP Printer Hack Video Shows Sensitive Data Tweet Too</a></li>
+    <li class="mr_link"><a href="/blogview/17950-Run-POST-Modules-On-All-Sessions.html">Run POST Modules On All Sessions</a></li>
+    <li class="mr_link"><a href="/blogview/18540-Is-the-Security-Response-System-for-SCADA-ICS-Broken.html">Is the Security Response System for SCADA-ICS Broken?</a></li>
+    <li class="mr_link"><a href="/blogview/18452-Mobile-App-Makers-Must-Protect-Childrens-Privacy.html">Mobile App Makers Must Protect Children’s Privacy</a></li>
+    <li class="mr_link"><a href="/blogview/18539-NICE-Seeks-Feedback-on-Cybersecurity-Workforce-Framework.html">NICE Seeks Feedback on Cybersecurity Workforce Framework</a></li>
+    <li class="mr_link"><a href="/blogview/18538-Top-Ten-Password-Cracking-Methods.html">Top Ten Password Cracking Methods</a></li>
+    <li class="mr_link"><a href="/blogview/18505-Gleg-Releases-Version-18-of-the-SCADA-Exploit-Pack.html">Gleg Releases Version 1.8 of the SCADA+ Exploit Pack</a></li>
+</ul>
+                                </div>
+                        </div>
+                </div>
+                <div class="box bg6">
+                        <div class="bg7">
+                                <div id="poll_home" class="poll_home">
+                <div class="title text1"  style="padding:8px 3px 8px 3px">Latest Survey Results:</div>
+<br />
+<div class="poll_results" style="margin:5px;">
+<div style="font-weight:bold; color:black; font-size: 12px;" >What is the value of large security conventions?</div>
+<div >
+	    		<img alt="results" src="/system/pollsresultimage/id/22.html" />	
+</div>
+</div>
+                                        </div>
+                        </div>
+</div>
+
+		
+<div class="box bg6">
+	<div class="bg7">
+	<div class="title"><h2 class="text1"><b>Popular Topics</b></h2>
+	    </div>
+	    <div class="content bg5">
+<div class="tagcloud">
+						            <a class="link1" href="/blogtag/699/Anonymous.html"><span class="w1">Anonymous</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/358/Application-Security.html"><span class="w2">Application Security</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/533/Attacks.html"><span class="w1">Attacks</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/301/Authentication.html"><span class="w2">Authentication</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/332/China.html"><span class="w3">China</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/421/Cloud-Computing.html"><span class="w1">Cloud Computing</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/311/Cloud-Security.html"><span class="w2">Cloud Security</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/308/Compliance.html"><span class="w0">Compliance</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/510/Cyber-Crime.html"><span class="w1">Cyber Crime</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/492/Cyber-Security.html"><span class="w1">Cyber Security</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/463/Data-Loss-Prevention.html"><span class="w3">Data Loss Prevention</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/211/Encryption.html"><span class="w3">Encryption</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/312/Enterprise-Security.html"><span class="w0">Enterprise Security</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/282/Facebook.html"><span class="w3">Facebook</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/389/Government.html"><span class="w0">Government</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/390/Hacking.html"><span class="w3">Hacking</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/709/Hacktivist.html"><span class="w2">Hacktivist</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/592/Headlines.html"><span class="w0">Headlines</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/285/Identity-Theft.html"><span class="w3">Identity Theft</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/859/Information-Security.html"><span class="w0">Information Security</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/860/Infosec.html"><span class="w2">Infosec</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/230/Legal.html"><span class="w1">Legal</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/467/Mobile-Devices.html"><span class="w2">Mobile Devices</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/768/National-Security.html"><span class="w1">National Security</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/616/Network-Security.html"><span class="w0">Network Security</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/293/PCI-DSS.html"><span class="w2">PCI DSS</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/241/Passwords.html"><span class="w3">Passwords</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/300/Privacy.html"><span class="w0">Privacy</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/253/SCADA.html"><span class="w2">SCADA</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/649/Security.html"><span class="w1">Security</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/364/Security-Awareness.html"><span class="w3">Security Awareness</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/554/Stuxnet.html"><span class="w3">Stuxnet</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/435/Training.html"><span class="w0">Training</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/400/Vulnerabilities.html"><span class="w1">Vulnerabilities</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/921/breach.html"><span class="w2">breach</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/280/breaches.html"><span class="w1">breaches</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/291/fraud.html"><span class="w2">fraud</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/796/hackers.html"><span class="w0">hackers</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/341/malware.html"><span class="w0">malware</span></a>&nbsp;
+					            <a class="link1" href="/blogtag/597/report.html"><span class="w3">report</span></a>&nbsp;
+			</div>
+</div>
+	</div>
+	<div class="extra"></div>
+	</div>		<!--
+		<div id="bannerzone_left_top" style="background-color:#efefef; text-align:left"></div>
+		--!>
+		
+					
+				
+
+				
+		<!--<br/>
+            <a href="http://www.twitter.com/infosecisland" target="_blank"><img src="/images/twitter-badge.png" style="border:1px solid #abcdef" /></a><br/>-->
+
+	<div id="bannerzone_left_bottom"> 
+	</div>
+
+			
+		</div>
+		</div>
+		<!-- end .colC -->
+		<div class="colA">
+                                			<div id="bannerzone_right_top"></div>
+	                        	        <div id="bannerzone_right_bottom"></div>
+                	
+			
+                        
+	<div class="box bg6">
+	<div class="bg7">
+	<div class="title"><h2 class="text1"><b>Categories</b></h2>
+	    </div>
+	    <div class="content bg5"><ul class="ul1">
+		<li><a class="link1" href="/blogcategory/28/Cloud-Computing.html"><b>Cloud Computing&nbsp;(<span class="style4">1</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/10/Compliance.html"><b>Compliance&nbsp;(<span class="style4">3</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/12/Database-Security.html"><b>Database Security&nbsp;(<span class="style4">1</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/11/Encryption.html"><b>Encryption&nbsp;(<span class="style4">1</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/45/Infosec-Island-News.html"><b>Infosec Island News&nbsp;(<span class="style4">1</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/5/Network-Security.html"><b>Network Security&nbsp;(<span class="style4">4</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/31/OS--Software.html"><b>OS & Software&nbsp;(<span class="style4">3</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/36/Security-Management.html"><b>Security Management&nbsp;(<span class="style4">5</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/14/Social-Engineering.html"><b>Social Engineering&nbsp;(<span class="style4">4</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/26/Vulns--Alerts.html"><b>Vulns & Alerts&nbsp;(<span class="style4">3</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/6/Web-App-Security.html"><b>Web App Security&nbsp;(<span class="style4">3</span>)</b></a></li>
+		<li><a class="link1" href="/blogcategory/15/Wireless-Security.html"><b>Wireless Security&nbsp;(<span class="style4">2</span>)</b></a></li>
+	</ul>
+</div>
+	</div>
+	<div class="extra"></div>
+	</div>                        
+	<div class="box bg6">
+	<div class="bg7">
+	<div class="title"><h2 class="text1"><b>Industries</b></h2>
+	    </div>
+	    <div class="content bg5"><ul class="ul1">
+		<li><a class="link1" href="/blogindustry/14/Education.html"><b>Education&nbsp;(<strong class="style4">3</strong>)</b></a></li>
+		<li><a class="link1" href="/blogindustry/39/Financial.html"><b>Financial&nbsp;(<strong class="style4">3</strong>)</b></a></li>
+		<li><a class="link1" href="/blogindustry/34/Government.html"><b>Government&nbsp;(<strong class="style4">4</strong>)</b></a></li>
+		<li><a class="link1" href="/blogindustry/37/Healthcare.html"><b>Healthcare&nbsp;(<strong class="style4">2</strong>)</b></a></li>
+		<li><a class="link1" href="/blogindustry/38/Legal.html"><b>Legal&nbsp;(<strong class="style4">1</strong>)</b></a></li>
+		<li><a class="link1" href="/blogindustry/35/Manufacturing.html"><b>Manufacturing&nbsp;(<strong class="style4">0</strong>)</b></a></li>
+		<li><a class="link1" href="/blogindustry/12/Technology.html"><b>Technology&nbsp;(<strong class="style4">6</strong>)</b></a></li>
+	</ul>
+</div>
+	</div>
+	<div class="extra"></div>
+	</div>                                                        			<br/>
+<div style="text-align: center;background-color: #efefef; padding: 10px; border: 1px solid orange">
+<span style="font-size: 12px;">
+Infosec Island is community-supported. <br/><br/>Please donate to show your appreciation and to help keep us up and running with new content and ways to interact. <br/><br/>
+</span>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="L9A6SP7YATKC4">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+<br/>
+                        <!--
+			<div class="box bg6">
+                  <div class="bg7">
+                    <div class="title"><h2 class="text1"><b>Forum Categories</b></h2></div>
+                    <div style="border: 0px solid grey; text-align:left; background-color:white; padding-left:10px">
+                                          </div>
+                  </div>
+                </div>
+ 		-->
+			</div>
+			<br style="clear: both" />
+		</div>
+	</div>
+
+	        <div id="footer">
+                <p class="style2">
+                <span style="font-size: 12px">
+                <a href="/">Home</a> &nbsp;|&nbsp;
+                <a href="/articles.html">Articles</a>                &nbsp;|&nbsp;
+                <a href="/documents.html">Downloads</a>                &nbsp;|&nbsp;
+                <a href="/blogs.html">Blog Posts</a>&nbsp;|&nbsp;
+                <a href="/contacts.html">Contact Us</a>&nbsp;|&nbsp;
+                <a href="/messages/whyregister.html">Register for Free</a>&nbsp;|&nbsp;
+                <a href="/messages/about.html">About Us</a>&nbsp;|&nbsp;
+               <a href="/advertise.html">Advertise</a>&nbsp;|&nbsp;
+
+        <a href="/privacy.html">Privacy</a> </span>
+	
+                <br/>
+        <br/>
+        Copyright &copy; 2009 - 2011 Infosec Island, LLC. All rights reserved.
+        </p>
+        <br />
+               <div id="bannerzone_bottom"></div>
+                        </div>
+</body>
+</html>

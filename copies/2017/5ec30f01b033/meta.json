@@ -1,0 +1,12 @@
+{
+ "source_url": "https://code.videolan.org/videolan/vlc/-/work_items/18472",
+ "fetched_url": "https://web.archive.org/web/20210502015439id_/https://trac.videolan.org/vlc/ticket/18472",
+ "method": "wayback",
+ "capture": "20210502015439",
+ "content_type": "text/html",
+ "bytes": 66435,
+ "sha256": "5b7f4e22ffc39b280b14bddd6a65f357de5cefb7c1f81666e5d480b6c974e241",
+ "name_found": true,
+ "fetched_at": "2026-09-19T00:52:35+00:00",
+ "note": "original Trac ticket (VLC moved Trac -> GitLab; code.videolan.org answers HTTP 418 to non-browsers)"
+}

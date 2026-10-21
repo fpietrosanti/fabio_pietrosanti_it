@@ -1,0 +1,498 @@
+# Trascrizione automatica (faster-whisper small) di original.mp3
+[00:16] Ben tornati questo è il programma di tecnologia di radio 24 siamo in onda come sempre il
+[00:26] venerdì tra le 22 e le 23 domenica fra le 13 e le 14 io sono Enrico Pagliarini il nostro
+[00:32] indirizzo di posto eletronica è 2024 e radio 24.it questa è una settimana importante
+[00:39] per tutti gli appassionati o gli esperti o i curiosi di crypto monete perché a metà
+[00:45] di questa settimana abbiamo festeggiato i primi dieci anni del bitcoin la più nota
+[00:51] fra le 1500 crypto monete nata dalla intuizione dal genio di Satoshi Nakamoto che è un
+[00:59] pseudonimo usato dall'inventore o dagli inventori perché non è detto che sia uno magari era una
+[01:04] squadra di matematici che ha deciso di utilizzare questo nome Satoshi Nakamoto non si sa chi sia
+[01:12] ma a lui si deve o a loro o a lei si deve si deve la invenzione del bitcoin nel 31 ottobre del 2008
+[01:21] venne infatti pubblicato il documento di nove pagine tra l'altro è un documento che si trova
+[01:26] facilmente online e devo dire non è nemmeno troppo complicato ci sono magari alcuni
+[01:32] passaggi che si possono omettere ma se uno non è un esperto di tecnologie di matematica può
+[01:39] tranquillamente leggere lo so ha molti molte pagine di questo documento sono tranquillamente
+[01:45] digeribili che cosa c'è scritto in questo documento di nove pagine viene spiegato il
+[01:51] funzionamento del bitcoin e soprattutto della blockchain questo database questo registro
+[01:58] digitale distribuito che sta alla base del bitcoin che secondo molti esperti è la tecnologia
+[02:05] destinata a cambiare le dinamiche di molti servizi non solo digitali di molti processi
+[02:11] industriali e commerciali abbiamo già visto alcune cose però devo dire che soprattutto negli ultimi
+[02:19] tempi molto di quello che abbiamo visto che va sotto l'etichetta di blockchain è molto
+[02:26] marketing e poca tecnologia e poi soprattutto c'è un grande dibattito su cose simili alla
+[02:33] blockchain del bitcoin sulla qualsiasi po sulla quale si possono costruire anche altri servizi
+[02:39] basandosi proprio sulla blockchain originale del bitcoin e invece altre cose che sono costruite
+[02:46] simili al blockchain del bitcoin è un dibattito molto ampio fra detti ai lavori tra anche
+[02:56] persone che solamente sono curiose dello sviluppo di questa tecnologia però non abbiamo visto
+[03:02] ancora applicazioni rivoluzionarie ma secondo molti vedremo nei prossimi anni applicazione
+[03:09] rivoluzionare va anche detto questo abbiamo passato solamente dieci anni dalla dall'avvento del bitcoin
+[03:17] tra l'altro i primissimi anni nei primissimi anni questa questa tecnologia questa novità era
+[03:24] veramente sconosciuta e più poi soprattutto negli ultimissimi direi negli ultimi due anni
+[03:30] viste anche le quotazioni del bitcoin questa novità è conosciuta dai più se non altro per
+[03:38] nome molti sanno che esistono i bitcoin molti sanno che esiste la blockchain ecco dicevo sono passati
+[03:46] solo dieci anni se pensiamo ad internet internet per diventare una cosa popolare o comunque
+[03:52] diffusa ha impiegato una trentina di anni grosso modo se pensiamo che stiamo parlando di una tecnologia
+[04:01] nata i primi degli anni 70 se pensiamo che il world wide web che è uno dei servizi della
+[04:08] rete internet non è la rete internet due cose non vanno mai confuse è del 1991 e anche in quel
+[04:15] caso sono passati almeno dieci anni per poi vederne una diffusione popolare forse in alcuni
+[04:23] casi tra virgolette perché ancora oggi stiamo parlando della scarsa diffusione della rete
+[04:28] internet in alcuni paesi tra cui anche l'Italia soprattutto tra alcuna in una parte della
+[04:33] popolazione quindi per la diffusione non solo di bitcoin ma direi soprattutto di applicazioni
+[04:41] con la blockchain dovranno passare ancora anni se poi le promesse verranno mantenute
+[04:46] alcune notizie in breve selezionate durante la settimana sicuramente la notizia più importante
+[05:01] della settimana arriva da armon che è un piccolo paese poco più di 4 mila anime dove assede
+[05:08] la ibm che ha messo sul piatto 34 miliardi di dollari per acquistare red hat uno dei
+[05:15] nomi più noti nel software open source in particolar modo sul sistema operativo linux
+[05:21] sul quale si basa buona parte del business di red hat con questa acquisizione ibm diventa il primo
+[05:29] player mondiale del cosiddetto hybrid cloud in competizione con amazon microsoft e google che
+[05:38] sono particolarmente attive in questo settore dei servizi cloud e appunto sempre più in quello
+[05:46] che viene definito hybrid cloud la notizia è importante anche perché si tratta della più
+[05:52] grande acquisizione nella storia di ibm apple ha presentato una serie di nuovi prodotti a
+[06:00] partire dal nuovo macbook era molto atteso è il modello più venduto fra i computer
+[06:06] della apple noto per il peso leggero le dimensioni contenute molto sottile arriva su questo prodotto
+[06:13] il retina display e confermando anche una tendenza di altri prodotti le porte di connettività si
+[06:21] riducono a due thunderbolt 3 con connettore usb c questo tipo di connettore che è uno standard
+[06:28] è un connettore standard lo troviamo anche su alcuni smartphone su computer ecco questo tipo
+[06:34] di connettore fa il suo esordio anche nei nuovi ipad pro che sono stati presentati sempre
+[06:39] questa settimana i nuovi ipad pro da 11 e 12 9 pollici sui quali scompare il tasto home e questi
+[06:48] prodotti si sbloccano con il face i d cioè il riconoscimento facciale come sull iphone 10 però
+[06:54] è molto interessante questa scelta di apple di passare ad usb c anche su ipad ed è da registrare
+[07:01] con una scelta positiva visto che giustamente apple veniva criticata per la la dozione di standard
+[07:09] di connettività proprietari pensati il connettore lightning che è solamente su su iphone beh in questo
+[07:16] caso invece apple ha fatto una scelta oltre che appunto sui computer avevamo già visto questo
+[07:24] tipo di scelta anche su l ipad pro vedremo se questa scelta verrà mantenuta anche sulla prossima
+[07:32] generazione di iphone alcuni dicono di sì alcuni dicono di no chi lo sa aspettiamo parliamo di
+[07:41] una startup italiana c'è stato un primo importante round di investimento parliamo di
+[07:47] 1,5 milione di euro che in generale non sono tantissimi soldi ma per il mercato italiano
+[07:53] sono una cifra considerevole parliamo di fluentify che è una startup italiana attiva
+[07:59] dal 2013 che ha creato un servizio per insegnare l'inglese online destinato in particolare alle
+[08:06] aziende che hanno necessità di fare studiare l'inglese ai propri dipendenti direi quindi a
+[08:12] tutte le aziende quasi tutte le aziende con tutti i vantaggi ovviamente dell'insegnamento a
+[08:17] distanza certamente come fanno tutte le startup e le aziende in questo caso anche
+[08:24] tutte le scuole online fluentify dichiara di avere un proprio sistema per far apprendere
+[08:31] far imparare la lingua molto velocemente agli studenti questi dipendenti che devono imparare
+[08:38] fluentify un'ultima notizia riguarda la guida autonoma ogni settimana ci sono molte notizie
+[08:45] che riguardano i veicoli a guida autonoma questa però è particolare direi molto importante perché
+[08:54] non è il solito annuncio che ne so ad esempio questa settimana ford assieme ad un'azienda
+[09:00] cinese by doing china ha annunciato di avere iniziato a fare sperimentazioni insomma di
+[09:06] cose del genere ne leggiamo molto spesso ma la notizia che vorrei leggere vi riguarda
+[09:10] weymo che è la divisione di google in realtà divisione di alphabet che la società a cui appartiene
+[09:16] google la divisione per la guida autonoma allora weymo è la prima società davvero
+[09:22] ricevuto dello stato della california il permesso di condurre test senza alcuna persona a bordo
+[09:28] veicolo dovete sapere che finora tutte le sperimentazioni nel mondo si svolgono con
+[09:34] un pilota d'emergenze in grado di prendere il controllo del veicolo in caso di mal
+[09:38] funzionamento dei sistemi poi che ci riesca o no è un altro discorso nel senso che mentre
+[09:44] il veicolo sta andando da solo ovviamente questa persona che è lì seduta con le braccia concerto
+[09:48] che sta facendo altro ma volte non è effettivamente attenta attenta e quindi non
+[09:53] riesce a prendere il controllo del veicolo in tempo se succede qualcosa comunque è
+[09:57] obbligatorio per leggio che ci sia una persona a bordo allora in questo caso
+[10:02] e google ha ricevuto il permesso per circa 36 veicoli nella contea di santa clara ribadiamo
+[10:11] che la california è lo stato con il maggior numero di società che stanno sperimentando
+[10:17] veicoli a guida autonoma e pensate che ce ne sono 60 ci sono 60 società quindi direi alcune
+[10:25] centinaia di veicoli sono non migliaia di veicoli che hanno il permesso di testare
+[10:30] sistemi di guida autonoma sulle strade sulle famose strade della california la prossima settimana
+[10:46] negli estati uniti si vota il 6 novembre elezioni di medio termine e soprattutto negli
+[10:53] estati uniti c'è un accesissimo dibattito sul voto elettronico si può votare elettronicamente
+[11:00] alcuni dicono che sia pericoloso per quale motivo allora innanzitutto va fatta una distinzione
+[11:08] tra voto elettronico al sedgio quindi con una macchina sulla quale l'elettore esprime la
+[11:15] propria preferenza e il voto online quindi a distanza via computer via smartphone addirittura
+[11:22] per alcuni ancor più pericoloso fabbio pietro santi bentornata 2024 grazie tutti i
+[11:33] occupi di cyber security sei presidente del centro hermes che si occupa di trasparenza
+[11:39] diritti digitali online e da poco fai parte di un comitato per i requisiti del voto in
+[11:47] democrazia e ovviamente questo comitato è nato su basi tecnologiche siete dei degli aspetti di
+[11:54] tecnologia le persone che fanno parte di questo di questo comitato sì il comitato nasce con
+[12:01] l'intenzione di fare chiarezza e produrre conoscenza sulla applicazione nel mondo dei sistemi di voto
+[12:11] elettronico e di voto online in modo che quelle che sono poi le anime della politica e del governo
+[12:17] possono fare delle scelte consapevoli spesso magari senza lasciarsi a leggerezza di scelte
+[12:24] soluzioniste qui e lì quindi il comitato è un gruppo a cui ci si può aderire tramite una
+[12:31] mel inglista che produce articoli di tipo scientifico e anche di tipo politico entrando
+[12:37] nel merito di quelle che sono gli accadimenti istituzionali non che gli accadimenti tecnologici
+[12:43] legati al voto elettronico il voto online nel mondo partendo dagli stati uniti visto che
+[12:47] tra poco ci sarà questo questo appuntamento con le elezioni di mitterman che cosa sta
+[12:53] succedendo perché il voto elettronico negli stati uniti ha un'esperienza già attiva d'anni
+[13:00] quindi c'è stata una discussione ci sono stati studi e ci sono anche delle evidenze da cui ripartire
+[13:06] il voto elettronico negli stati uniti è stato introdotto all'inizio del 2000 e lasciando
+[13:12] ampia disponibilità a livello addirittura di contea di scegliere qual era la soluzione
+[13:17] tecnologica cioè quale produttore scegliere quindi hanno un'elevatissima etere un'elitizia
+[13:23] heterogenità tecnologica e hanno sperimentato un po tutti i metodi possibili e immaginabili
+[13:28] cioè grosso modo quali metodi sono tutte macchine hardware che sembra dei bancomat no beh
+[13:35] esistono sistemi di voto elettronico che prevedono l'espressione del voto direttamente su un
+[13:41] dispositivo quindi su un tablet touch che effettuano su un display che ha un computer tutti gli effetti
+[13:47] che effettuano direttamente lo scrutinio e l'eventuale trasmissione mentre esistono altri
+[13:52] sistemi basati su scanning ottico in cui l'espressione del voto viene fatta su una scheda
+[13:58] elettorale particolare che poi viene inserita in un macchinario simile a una fotocopiatrice
+[14:03] che effettuano lo scrutinio fino a via di mezzo in cui si esprime il voto su un
+[14:08] dispositivo elettronico e questo stampa un tallancino che rappresenta l'espressione di voto
+[14:13] queste sono grosso modo le tre principali modalità attualmente diffuse negli istantigli l'obiettivo di
+[14:18] tutto ciò è velocizzare il voto e lo scrutinio di fatto tecnicamente l'obiettivo è quello
+[14:24] di velocizzare il voto e anche di ridurre alcune specifiche fatti specie di frode
+[14:29] elettorali quali ad esempio la pre creazione di decine di miei e di schede già votate
+[14:36] cosa che è fattibile nel momento in cui viene registrato un timestamp quindi data è ora esatta
+[14:42] di quando viene è stata conteggiata una scheda o quando è stata creata una scheda e tuttavia
+[14:48] i sistemi in questione portano con sé delle criticità legate in particolar modo alla sicurezza
+[14:57] e i stati uniti dopo l'esperienza dell'influenza e interferenza russa che
+[15:03] è stata accertata dall'fbi come anche dall'intelligenza statunitense ha deciso di metterci
+[15:10] una pezza metterci una pezza significa che si è avviato un grande forte dibattito a livello
+[15:16] politico a livello di comunità scientifica e a livello di intelligence community quindi
+[15:20] tutte le agenzie di sicurezza che ha portato alla definizione di una una policy proposa
+[15:25] una legge che su cui c'è un grande consenso s'è stata per passare che si chiama secure
+[15:30] election act secure election act nei stati uniti reintroduce l'obbligatorietà dell'utilizzo
+[15:36] della carta nei sistemi di voto elettronico partendo dall'assunzione che l'evidenza scientifica
+[15:41] su cui c'ha consensus degli addetti al settore della cyber security ci sia bisogno
+[15:45] di così dei top paper trail cioè della prova cartacia e a questo punto non dice ma per
+[15:51] quale ragione forse i sistemi che sono stati utilizzati fino ad oggi non sono
+[15:57] stati progettati in modo opportuno cioè se io progetto in modo opportuno con tutte le
+[16:03] caratteristiche che un sistema del genere deve avere un sistema di voto non dovrei avere
+[16:09] problemi a livello teorico è possibile progettare il sistema informatico perfetto dal punto
+[16:16] di vista della cyber security perché quando vogliamo di informatica possiamo parlare
+[16:21] di matematica a livello pratico tutti i sistemi informatici anche i più sicuri
+[16:26] sono stati violati nel tempo perché il livello di complessità della logica hardware software
+[16:31] sottostante parliamo di milioni di righe di codice software su sistemi operativi complessi
+[16:37] non consente di riuscire a avere la certezza che non ci sia stata la compromissione e nell'ambito
+[16:43] della cyber security di cui oggi si parla con termini un po' più alti sono anti quali
+[16:48] la cyber war nel contesto geopolitico fra nazioni ci sono due problematiche principali
+[16:54] la prima è la difficoltà di rilevamento di un attacco cioè anche solo capire se c'è
+[16:59] stato un attacco informatico e quindi se un sistema è stato compromesso o meno si tra
+[17:04] l'altro a proposito di quello che stai dicendo molti studi dimostrano che ci sono tantissime
+[17:11] aziende che vengono attaccate ma non se ne accorgono questa è una cosa drammatica
+[17:16] e il rilevamento degli attacchi è una delle cose più complicate addirittura i
+[17:22] sistemi di di provisione cioè di configurazione e gestione dei sedgi negli stati uniti di alcuni
+[17:28] stati sono stati riscontrati mesi dopo dopo l'intervento a campione fatto dalle FBI
+[17:33] essere stati compromessi dei russi se ne risiconto solo dopo le lezioni e non è stato possibile
+[17:39] determinare se i voti siano stati alterati o meno in cui sedgi che è il secondo grande
+[17:45] problema cioè la attribution chi ha fatto quell'eventuale attacco e che cosa quell'attacco
+[17:52] è riuscito a portare a termine non potendo avere alcun tipo di certezza qualunque sistema
+[17:58] informatico porta con sé poi la certezza del risultato elettorale questo nell'ambito democratico
+[18:04] moderno diciamo è difficilmente accettabile certo tra l'altro ha proposito di evidenza
+[18:08] scientifiche queste state leggevo le notizie che arrivavano da death con che è una
+[18:15] se non la più grande la chiamiamo fiera è una conferenza di hacking e sicurezza informatica
+[18:22] ecco e lì e lì hanno fatto una prova sul campo giusto esatto negli stati uniti al death con
+[18:27] è stato avviato in realtà già da due anni quindi già la seconda edizione il cosiddetto
+[18:33] vote hacking village è un'iniziativa carattere scientifico ma come società civile in cui
+[18:40] matt blaze che uno dei massimi esperti di sicurezza informatica e criptografia
+[18:44] al mondo con un altro gruppo hanno raccolto tutti i dispositivi hardware e software utilizzati
+[18:50] negli stati uniti tutte le con tei per il voto elettronico e li hanno messi a disposizione
+[18:55] delle circa tra i venti e 30 mila hacker che vengono a frequentare questa conferenza con
+[19:01] l'obiettivo di rompiamoli nel senso studiamoli cerchiamo di trovarne le vulnerabilità per
+[19:06] migliorarli e rendere noto a tutti quale possono essere le problematiche quale può
+[19:11] essere l'indirizzo e il primo risultato di compromissione è avvenuto 43 secondi dopo
+[19:18] l'apertura del contest e tutti i singoli macchinari sono stati oggetto di vulnerabilità di manipolazione
+[19:26] del voto creazione di voti cancellazione di voti e l'intero report anche prodotto
+[19:31] in un ambito non di un'agenzia di sicurezza nazionale ma di un gruppo di appassionati
+[19:36] e diciamo con metodica scientifica è stato poi pubblicato e dibattuto presso il senato
+[19:42] degli stati uniti in cui c'è una evidenza scientifica delle problematiche di sicurezza
+[19:46] dei dispositivi di voto elettronico fatto no frills fatto senza filtri si ricordiamo
+[19:51] che le possibili compromissioni possono avvenire in locale cioè sulla macchina io vado
+[19:58] faccio il voto schiaccio che ne so voto per pincopallino pure schiaccio si o no
+[20:03] dipende che tipo di votazione è e il sistema è stato acherato potrebbe essere stato acherato
+[20:10] e quel voto non viene conteggiato come io l'ho impostato un altro problema è nella connessione
+[20:20] cioè a meno di pensare di portare tutte le macchine oppure con una chiavetta usb portare
+[20:26] o un altro sistema d'archiviazione la registrazione di tutti i voti presso un centro unico
+[20:32] di di raccolta ci deve essere una connessione internet quindi anche lì ci può essere una
+[20:37] compromissione e poi arriviamo a il punto dove che ne so potrebbe essere il ministero dell'interno
+[20:43] che potrebbe venire acherato e quindi anche lì potrebbe esserci un'alterazione del voto
+[20:47] si tutti i percorsi in cui abbiamo un pezzo di software che gira su un computer possono
+[20:55] nel processo elettorale dalla preparazione delle schede cartacee la raccolta dell'espressione
+[21:00] di voto lo scrutinio e poi la trasmissione del voto possono essere oggetto di attacco informatico
+[21:06] quello che un sistema di voto deve avere e questo è diciamo una base un requisito accettato
+[21:13] a livello scientifico e la cosiddetta si chiama software independenzi cioè il requisito
+[21:18] che l'intera infrastruttura organizzativa e il workflow del processo elettorale deve
+[21:24] usare la tecnologia perché siamo nel 2018 è normale ma il sistema non deve fallire di
+[21:30] fronte a un problema software dove il problema software può essere la sovversione da punto
+[21:35] vista della sicurezza informatica come un'attività malevola di creazione di voti e rilevamento
+[21:40] di voti piuttosto che modificazione quindi la software independenzi è il requisito
+[21:45] fondamentale attorno al quale è necessario guardare all'introduzione di tecnologia
+[21:50] nel processo elettorale che non significa in modo semplificato come tutti immagino avere
+[21:55] un table su cui piggiare un bottone per esprimere la propria preferenza e quindi come facciamo
+[22:00] cioè possibile che non possiamo usare la tecnologia per votare cioè mi sembra di capire
+[22:04] e lo dicono veramente tantissime persone tantissimi esperti di cyber security che attualmente
+[22:11] il sistema più sicuro può sembrare strano in effetti alcuni ascoltatori hanno scritto
+[22:16] negli ultimi mesi cito una una mail di un ascoltatore che dice personalmente ho sempre
+[22:23] pensato che anche l'attività di voto prima o poi seguirà questo destino inelluttabile
+[22:28] cioè parlava della digitalizzazione di un sacco di cose con incalcolabili vantaggi
+[22:34] di abbattimento degli errori di conteggio dei costi spaventosi dell'astensionismo
+[22:39] attuale e quindi non c'è mica tanta soluzione al momento o c'è esistono molte soluzioni
+[22:48] che permettono di introdurre la tecnologia in modo ponderato all'interno dei processi
+[22:54] elettivi ma mantenendo quelli che sono i rigidi requisiti di software independenzi di cui
+[23:01] parlavamo prima un esempio tra tutti è quello dell'utilizzo di schede elettorali
+[23:07] cartace in cui lo scrutinio viene effettuato tramite sistemi di scansione ottica
+[23:13] queste specie di fotocopiatrice in cui viene insedita e lo scrutinio viene fatto in tempo
+[23:18] reale alla presenza delle lettore questi sono sistemi che mantengono la possibilità di
+[23:22] effettuare un riconteggio manuale su carta da un gruppo scelto con procedure di garanzia
+[23:29] democratica che in caso di broglie possa lavorare ma al tempo stesso facendo uno
+[23:32] scrutinio in tempo reale impedisceaky la creazione e preconteggio di decine di migliaia di
+[23:36] schede quindi strumenti che vada a contrastare i meccanismi di frode elettorale che esistono
+[23:44] sulla base un sistema cartaceo ma che non aprano alle nuove vulnerabilità che invece
+[23:49] introduce un sistema di tipo elettronico certo però questo sistema che tu hai citato non
+[23:52] è che mi entusiasma moltissimo anche perché comunque è un costo che va sommato al vecchio
+[23:58] sistema che deve rimanere più o meno in piedi anche la distribuzione territoriale deve rimanere
+[24:03] giusto la distribuzione territoriale è una dei temi fondamentali diciamo di garanzia di sicurezza
+[24:13] e quindi di integrità del sistema di voto chiamiamolo cartaceo perché perché nel momento
+[24:18] in cui si va di introdurre un sistema di voto elettronico o ancora peggio come requisiti
+[24:22] di sicurezza di voto online ci si sta affidando a una infrastruttura centrale cioè a chi
+[24:27] controlla, governa e gestisce specia la tecnologia immaginiamo un ufficetto di 20 persone e un
+[24:33] fornitore presso il mio inserito dell'interno che governa l'intero processo elettorale di
+[24:37] tutti gli italiani mentre oggi ci ritroviamo 50.000 seggi con dentro decine di persone con
+[24:44] idee politiche diverse tra loro e un meccanismo procedurale che permette anche attivisti politici
+[24:49] di verificare che non ci siano broglie oggi la compromissione di un singolo seggio quindi
+[24:54] la 12 si è stata una frode elettorale porta un danno quindi una quantità di voti compromessi
+[25:00] marginale nel momento in cui avessi un sistema centralizzato a prescindere dalla tecnologia
+[25:06] utilizzata avrei la compromissione dell'intera elezione nazionale quindi in questo caso la
+[25:11] distribuzione territoriale su una grande quantità di persone e su una grande quantità di seggi
+[25:16] fa sì che anche la 12 ha la compromissione il danno comunque stato marginale o mitigato
+[25:21] certo invece in un'ipotesi di voto completamente digitale la possibilità di compromissione è totale
+[25:32] cioè se ti hackerano fai bingo e quindi quindi esponi alla desiderio di stati stranieri questo
+[25:41] questo sistema che potrebbe appunto essere achierato contro l'altro investimenti anche in questo
+[25:47] caso quando parliamo di azioni di hackeraggio stiamo parlando di budget che vengono allocati così
+[25:52] come le aziende decidono di investire per sviluppare una certa tecnologia e i o gli hacker che
+[25:58] lavorano per i governi o gli hacker che lavorano per il cybercrime per il crimine decidono di
+[26:04] investire un certo budget per hackerare per attaccare per compromettere una certa
+[26:09] infrastruttura tu che sei più esperto di me corregimi spiega meglio quello che ho detto io per
+[26:14] avere un'idea nel mondo dell'acquisizione delle cosiddetti armamenti digitali o diciamo
+[26:21] i detti al settore che chiamano exploit zero day cioè strumenti digitali che permettono di
+[26:26] accedere sfruttando vulnerabilità non note ai produttori ad esempio di dispositivo e polcona
+[26:31] us google android piuttosto che windows o acrobat reader un un arma che permetta a distanza di
+[26:38] accedere a un computer costa sempre meno di due milioni di dollari dare in mano questa arma a
+[26:44] un team specializzato potremmo metterci sopra un altro paio di milioni di dollari significa che
+[26:49] con un budget inferiore a 5 milioni di dollari sarebbe possibile compromettere un sistema centrale
+[26:54] elettivo questo è ovvio un budget incredibile per un singolo e privato ma è una inezia all'interno
+[27:01] dei budget dell'intelligenza della counter intelligence per governi ostili che vogliano
+[27:04] magari orientare il voto e non fare una compromissione incredibile magari spostare
+[27:09] di pochi punti percentuali da una parte o dall'altra il risultato di voto queste sono diciamo
+[27:15] realtà fattuali su cui ci sono report del Dipartimento di giustizia statunitense
+[27:19] condovizia i dettagli tecnici di quello che è stata l'azione intrusiva russa se fabbi adesso
+[27:24] ci fermiamo per una breve pausa poi riprendiamo e vorrei chiederti tra le altre cose se
+[27:32] ad esempio la blockchain potrebbe risolvere alcuni problemi aiutarci a risolvere alcuni dei
+[27:37] problemi che tu ci hai espresso attra poco questa è 2024 siete all'ascolto di radio 24 ben tornati
+[27:53] questo è il programma di tecnologia di radio 24 io sono Enrico Pagliarini potete contattarci
+[27:59] contattarmi scrivendo a 2024 e tradi 24.it usando link din facebook twitter in questo modo se usate
+[28:10] questi sistemi cercate Enrico Pagliarini oppure 2024 dunque stiamo parlando di voto online voto
+[28:20] digitale ne stiamo parlando con Fabio Pietro Santi che è un esperto di cyber security non
+[28:25] che presidente del centro Hermes e tornando all'ascoltatore che citavo prima dice nella sua
+[28:33] email che mi ha scritto recentemente non riesco a non fare un paragone con il denaro il denaro
+[28:39] sta perdendo negli ultimi decenni ogni consistenza fisica in effetti a vero uno potrebbe fare
+[28:46] il paragone tra il voto digitale e chiedersi come mai non riusciamo ad andare verso il voto
+[28:52] digitale mentre invece nel denaro ci stiamo quasi riuscendo ci siamo fondamentalmente quasi
+[28:59] riusciti perché se uno vuole può in moltissimi casi pagare in modo digitale comunque non in modo
+[29:07] fisico però c'è però un problema una delle caratteristiche fondamentali che deve avere il
+[29:13] voto è la segretezza tutti siamo d'accordo che il voto deve essere segreto ovviamente nono a
+[29:20] me perché non è che vado ben dato io so chi voto però gli altri non devono sapere chi ho votato
+[29:27] ora il paragone con il denaro cotta appunto su questo tema quello della segretezza perché già
+[29:34] c'è un altro attore cioè chi riceve il denaro sa quanto io ho pagato e sa conosce la transazione
+[29:41] poi nel denaro digitale esiste almeno un altro soggetto ma sto semplificando molto in realtà
+[29:48] sono tanti soggetti parliamo del sistema finanziario cioè chi gestisce kat gestisce promote
+[29:54] tutti il passaggio tra me e un'altra persona che riceve l'esercente commerciale o anche un'altra persona
+[30:01] che riceve il denaro e l'in mezzo c'è il sistema finanziario che può essere solo la banca con loro che
+[30:07] gestiscono i circuiti di carta di credito ecc. etc. questo mi sembra l'elemento più
+[30:14] esclatante non so se c'è ne sono degli altri non a caso la cashless society c'è quella senza denaro
+[30:20] fisico la senza denaro fisico benché rappresenta la panacea di tutti i mali rispetto alle problematica di
+[30:27] esempio di evasione fiscale rappresenta dall'altro l'avvento del grande fratello finanziario che
+[30:32] può vedere tutto e sapere tutto delle abitudini di spesa non solo delle consistenze
+[30:38] patrimoniali e intervenire nella vita di qualcuno per poter bloccare interrompere o manipolare il suo
+[30:45] stato di benessere quindi il momento in cui guardiamo alla però quella ci siamo praticamente
+[30:49] quasi già arrivati ci siamo molto vicini diciamo che la comodità fa sì che la comodità spesso porta
+[30:56] una considerevole perdita di diritti sì però diciamo lici siamo arrivati ma non ci sono problemi
+[31:02] democratici così come per quanto riguarda il voto digitale dobbiamo pensare quando
+[31:08] ci approcciamo a una cosa così importante come il processo elettorale base fondamentale
+[31:15] del sistema democratico che questo sistema deve poter funzionare anche in condizioni di
+[31:20] difficoltà anche in condizioni non di pace anche in condizioni non di benessere noi
+[31:27] oggi siamo nati e cresciuti in una condizione di pace e benessere ma mio nonno ha vissuto la
+[31:33] guerra ha vissuto un'esperienza di disagio dal punto di vista del benessere il sistema di voto
+[31:39] deve funzionare essere resiliente nel suo metodo procedurale anche la dove ci siano delle difficoltà
+[31:46] per la nostra società e su questo è utile aggiungere l'esperienza tedesca che ha portato
+[31:52] alla incostituzionalità del voto elettronico da parte della corte suprema questo per un motivo
+[31:58] tutto sommato abbastanza semplice la corte suprema tedesca dice il sistema di voto elettronico è
+[32:05] incostituzionale perché i cittadini non possono partecipare all'intero processo elettorale
+[32:12] quindi scrutinio riscrutinio in caso di sospetto di broghi senza avere delle particolarissime
+[32:19] competenze specialistiche cioè è necessario un ingegnere informatico con vent'anni
+[32:24] di esperienza per capire come viene fatto lo scrutinio nel software del computer della
+[32:29] macchina di voto e mia madre non potrà partecipare al processo democratio quindi esclude
+[32:34] nemmeno io diciamo scegliere un processo elettivo che esclude l'astragrande maggioranza della
+[32:40] popolazione dal processo elettorale è un criterio certo certo però se io di fronte ad
+[32:45] un aspetto di cyber security questo aspetto mi dice se guarda che questo sistema è sicuro
+[32:50] io mi fiduo degli esperti e dico ok votiamo digitalmente perché invece questo anche per
+[32:59] rispondere ai non dico moltissimi però alcune decine di persone che mi hanno scritto che dicono
+[33:05] ma come voi che parlate di digitalizzazione dei processi siete fan perché siamo consapevoli
+[33:12] dei grandi vantaggi della digitalizzazione di tantissime attività state spesso almeno
+[33:18] quando c'è una occasione dicendo che invece per quanto riguarda il voto ci sono ancora una
+[33:23] serie di problemi che magari verranno risolti non so se fra 5 6 10 20 anni quando rapporti
+[33:31] rapportiamo al funzionamento dei sistemi di voto possiamo dargli un un punteggio dal
+[33:40] punto di vista della garanzia che viene data del sistema di voto elettorale ma un sistema di
+[33:46] voto cartaceo ben fatto può avere un livello di garanzia 100 in cui la singola compromissione
+[33:51] sicurezza porta un impatto marginale un sistema di voto elettronico può avere magari con una
+[33:56] buona distribuzione so un impatto di sicurezza 70 un sistema di voto online può avere un
+[34:02] impatto di diciamo di sicurezza un punteggio di sicurezza 30 questo perché man mano che
+[34:08] noi introduciamo la pervasività tecnologica perdiamo il controllo di alcuni requisiti
+[34:15] di sicurezza e il bilanciamento tra comodità rispetto a sicurezza e il tipo di bilanciamento
+[34:22] verso cui dobbiamo guardare illustri giuristi dicono se io oggi ho un livello di sicurezza
+[34:27] di garanzia e integrità del processo elettorale non devo cercare di ridurlo ma devo cercare
+[34:31] di aumentarlo chi invece diciamo guardando anche la realtà della riduzione della partecipazione
+[34:39] ai processi elettorali dice no io devo aumentare la partecipazione quindi sono disponibile a
+[34:46] ridurre qualche requisito di sicurezza in cambio dell'aumento di partecipazione non
+[34:50] a caso le principali proposte per introdurre il voto online non sono in italia ma anche
+[34:56] in altri paesi riguardano il voto dei cittadini residenti all'estero dove c'è una oggettiva
+[35:02] condizione di difficoltà logistica per il voto e il sistema corrente quello postale ha un livello
+[35:10] di garanzia molto basso per cui un sistema online potrebbe per cui il processo dell'introduzione
+[35:16] di un sistema di voto online per l'italiano all'estero per esempio potrebbe dare qualcosa in più
+[35:21] rispetto al sistema corrente ma lo dobbiamo sempre guardare al miglioramento dei sistemi
+[35:26] di sicurezza e integrità e garanzia del processo elettorale certo certo anche in questo caso
+[35:30] il tema della gestione del rischio è un tema estremamente importante cito una campagna che il
+[35:37] comitato per i requisiti del voto in democrazia lanciato che si chiama in modo molto chiaro
+[35:43] chiamo campagna per l'incostituzionalità del voto elettronico ma non è che la blockchain risolve
+[35:49] tutti i problemi ci troviamo di fronte io la so la risposta io ci troviamo di
+[35:55] fronte a un approccio soluzionista in cui il voto online con la blockchain risolverà
+[36:02] tutti i problemi del mondo in realtà oggi i sistemi di voto basati su blockchain sono per
+[36:10] lo più iniziative sperimentali cioè siamo nell'ambio della ricerca preliminare accademica
+[36:15] stiamo parlando di tecnologia che su cui c'è una certa attività di ricerca ma che nominalmente
+[36:20] introducono più problemi di quelli che possono essere risolti cioè le problematiche di segretezza
+[36:25] del voto quando parliamo della blockchain possono essere una problematica il tempo stesso la blockchain
+[36:30] può essere semplificata come un sistema di data base distribuito un po lento e con garanzia di
+[36:38] integrità queste stesse caratteristiche possono essere soddisfatte con altri tipi di
+[36:42] tecnologia allora la domanda da porzie quali sono i requisiti che io voglio raggiungere
+[36:48] oggi ci troviamo di fronte a questo hype della blockchain in cui vogliamo mettere la blockchain
+[36:55] dentro tutto ma l'utilizzo della blockchain è fondamentalmente funzionante quando una pluralità
+[37:01] di soggetti che non hanno fiducia tra di loro debbono scambiarci informazioni e controscambiare
+[37:08] informazioni che possono rappresentare anche del valore come nelle criptovalute tra di loro
+[37:13] ma un processo elettorale gestito dallo stato deve avere solo la garanzia localizzata del processo
+[37:19] elettorale quindi c'è già un'entità centrale a cui in qualche modo ci stiamo affidando che è quella
+[37:25] che definisce specia le regole del gioco in quest'ottica la blockchain è tutt'altro che
+[37:30] funzionale o utilizzabile questa è la dura verità e di fronte al soluzionismo non possiamo che
+[37:36] documentare con la grande quantità di ricerca scientifici assolutamente per eliminare pre-competitiva
+[37:42] che c'è nel mondo del blockchain magari tra dieci anni ne possiamo riparare esatto grazie a fabbio
+[37:47] pietro santi per essere stato con noi ma presto buon lavoro grazie ancora e per noi c'è una nuova
+[37:51] pausa questo è 2024 siete a l'ascolto di radio 24 ci risentiamo tra poco l'ultima parte
+[38:10] del nostro programma ancora insieme io sono ricco paglierini vi ricordo il nostro ingirizzo di
+[38:15] posteletroni che se volete comunicare con noi 2 0 2 4 quindi 2024 e tradio 24 punto it ricordo
+[38:22] anche il nostro super podcast la nostra edizione digitale il nostro file mp3 che trovate online con
+[38:28] tutte le nostre interviste in edizione integrale online sul nostro sito internet o attraverso la
+[38:36] nostra applicazione per smartphone androide o ios dopo aver ascoltato quello che abbiamo
+[38:44] raccontato sul voto digitale alcuni potrebbero automaticamente dire e vedi che è meglio rimane
+[38:54] in un mondo di carta e non digitalizzare servizi processi e buona parte della nostra vita e no
+[39:04] però attenzione stavamo parlando di voto online un processo particolarmente delicato per tutto
+[39:12] il resto mi verrebbe da dire è invece importantissimo digitalizzare processi servizi con innumerevoli
+[39:19] vantaggi è un po come dire non uso l'automobile perché mi potrei schiantare mi sembra un ragionamento
+[39:26] stupido e in effetti tutti utilizzano l'automobile e laddove è necessario e quindi laddove è
+[39:33] necessario in molti processi aziendali ebbene digitalizzare i processi ma lo vediamo del
+[39:38] resto anche nella vita di tutti i giorni abbiamo in mano uno smartphone nelle nostre
+[39:42] case c'è tantissima tecnologia in moltissimi di questi casi questa tecnologia è utile con
+[39:48] vantaggi evidenti ai più e la stessa cosa dovrebbe accadere in molte aziende la tecnologia
+[39:55] esiste molto spesso è la cultura aziendale la cultura del management la cultura degli
+[40:01] imprenditori che frena questo processo allora parliamo di digitalizzazione di processi di
+[40:07] trasformazione digitale quale è la situazione in italia alcuni potrebbero dire lo sappiamo
+[40:14] ma visto che è stata recentemente pubblicata una ricerca realizzata da i why laura vigiano ha
+[40:22] incontrato donato iacovone che è l'amministratore delegato di i why che nella sua attività
+[40:28] quotidiana si scontra con i problemi che abbiamo nel nostro paese soprattutto in una
+[40:34] fascia di aziende sentiamo qual è la situazione dalla voce di donato iacovone abbiamo diviso
+[40:41] il sondaggio è stato diviso tra piccole e medie imprese quindi quelle con meno di 50 addetti poi
+[40:47] siamo andati a vedere l'altro campione che era ovviamente quello superiore a 250 e quello tra
+[40:52] 50 a 250 prendendo le due i due estremi sotto i 50 addetti noi abbiamo purtroppo una
+[40:59] bassissima digitalizzazione quindi abbiamo l'85% che non ha avviato nessun processo di
+[41:07] digitalizzazione delle pme italiane con per altro moltissimo di queste che non hanno neanche
+[41:12] un sito web quindi è un ritardo forte su questo su questo tema mentre invece la percentuale sale
+[41:18] enormemente su quelle sopra i 250 addetti dove si avviciniamo alle medie europeo sempre più
+[41:24] bassi ma siamo abbastanza abbastanza più alti siamo sopra sopra la metà dell'azienda che
+[41:29] comunque hanno iniziato un percorso di digitalizzazione la differenza tra chi si è
+[41:35] internazionalizzato e quindi è stato spinto dalla digitalizzazione dai propri clienti sia
+[41:42] nel b2b che nel b2c sia sia che forniscono altre aziende che forniscono consumatori quelli che
+[41:47] hanno un mercato locale sono quelle che invece non hanno sentito il bisogno ancora di il problema
+[41:54] è che tutto si sposta sulla digitalizzazione chi non ha competenze o non ha diciamo la
+[42:00] cultura per a o non ha o non vuole rischiare di andare su piattaforme condivise probabilmente
+[42:06] avrà problemi nel prossimo futuro a resistere sul mercato che impatto ha avuto la digital
+[42:12] transformation sui fatturati comunque sulle dimensioni anche aziendali questo è interessante
+[42:19] quello che viene fuori dal sondaggio perché noi abbiamo visto il 90 per cento delle aziende
+[42:24] che hanno fatti investimenti sul digitale hanno avuto un ritorno dell'investimento
+[42:28] superiore a quanto investito che 90 per cento vuol dire che quasi tutti sono contenti l'investimento
+[42:34] ma quello più interessante è che nel segmento star e nel segmento giovani imprese saliamo al 97%
+[42:41] il che vuol dire praticamente la totalità che in quel settore ha investito un euro sul digitale ha
+[42:48] avuto indietro questi soldi nei primi due anni questo è un dato molto significativo è molto
+[42:54] interessante che dovrebbe aiutarci a convincere gli imprenditori a investire in questa area del
+[43:01] digitale se guardiamo agli europea come sono posizionati come sono messi agli aziende italiane
+[43:06] purtroppo noi siamo in ritardo un po meno adesso sulle infrastrutture che stiamo recuperando
+[43:13] e dentro il 2020 il gap cioè la differenza tra noi gli altri paesi è colmata quindi è zero
+[43:20] siamo ancora indietro sulla le persone gli utenti che utilizzano il digitale siamo molto
+[43:26] indietro sulla pubblica amministrazione la digitazione della pia siamo finiti qua siamo finiti
+[43:32] dietro 21esimo ma con la spagna che ha l'ottavo posto quindi noi siamo finiti decisamente
+[43:39] indietro anche a paesi che sono vicini all'Italia perché la spagna ha 8.100 comuni più o meno
+[43:45] quelli dell'Italia un sistema regionale più o meno che l'Italia quindi se loro ce l'hanno
+[43:49] fatta vuol dire che è fattibile anche da noi quindi gli alibi non si possono più portare avanti
+[43:54] dobbiamo accelerare su questo e questo vale anche per le piccole e medie imprese insomma la
+[43:59] spagna ne ha meno è vero ha un tessuto più omogeneo di imprese però sono stanno stanno
+[44:05] cavalcando l'onda del digitale molto velocemente e abbracciando la modernità molto più
+[44:10] velocemente appunto di quando sta facendo l'Italia sul versante privato possiamo dire che c'è ancora
+[44:16] un eccesso di individualismo sul versante pubblico non si fa ancora abbastanza sistema che sfide
+[44:23] dunque bisogna affrontare per superare questi due elementi che determinano gap ma qui diciamo ci
+[44:28] sono molta letteratura nata negli ultimi anni che va sotto da eco da eco a eco cioè il mondo
+[44:36] si sta spostando dall'individualismo delle imprese delle organizzazioni ma anche delle
+[44:41] persone a sistemi e eco che poi sta per ecosystem cioè quindi per sistemi aperti in cui si lavora
+[44:48] insieme ai fornitori ai propri dipendenti alle banche agli stakeholder in generale quindi un
+[44:54] sistema molto più aperto in cui non bisogna avere paura di perdere no ao di perdere
+[44:58] conoscenza che è il timore che gli impreditori spesso hanno in italia e quello che se io
+[45:02] vado su una piattaforma condiviso posso perdere tutto il mio no ao che oggi è ipoteticamente
+[45:08] protetto dalla fabbrica degli uffici in cui ho lavoro e quindi questo timore di perdere
+[45:14] il proprio no ao sta frenando il passaggio al digitale da un lato dall'altro che bisogna
+[45:19] assumere giovani o comunque persone che avevano quelle competenze in grado di fare
+[45:24] leverage le tecnologie cioè utilizzare le tecnologie per trasformare il business e quindi
+[45:28] per portarmi verso il digitale la sfida che si gioca sui distretti il distretto è un
+[45:33] bel esempio dove potrebbe spingere l'incentivazione anziché esclusivamente sull'impresa che compra
+[45:40] qualcosa di digitale un software una tecnologia una formazione spingere il distretto il
+[45:46] distretti hanno avuto grande successo in italia sono parte del successo del sistema italiano
+[45:51] però credo che debbano abbracciare e andare a muoversi sulla parte digitale
+[45:56] sulla nuove piattaforme e io credo che se noi incentiviamo i distretti per esempio li
+[46:00] aiutiamo ad evolversi quindi a restare sul territorio per quanto riguarda la produzione
+[46:05] ma ad allargarsi per quanto riguarda gli altri fornitori che hanno magari fuori da quel
+[46:10] territorio gli altri sub fornitori che loro hanno fuori quel territorio ma soprattutto
+[46:14] abbracciare i clienti che quasi mai sono solo in quel territorio ma sono quasi sempre
+[46:18] fuori dal territorio un'ultima domanda la trasformazione digitale comporta inevitabilmente
+[46:24] anche una trasformazione del mondo del lavoro del lavoro in sé siamo pronti allora il mondo
+[46:31] del lavoro noi abbiamo vissuto una fase ancora viviamo una fase in cui digitale vuol dire
+[46:36] cancellare posti di lavoro e quindi c'è un terrore anche di questa digital transformation
+[46:43] digital wave chiamiamola come ci pare che che cancella posti di lavoro e le vero ne
+[46:49] cancellerà tanti di posti di lavoro ma ne crea tanti il problema è creare le competenze
+[46:55] generare trasformare formare le competenze che saranno richieste in futuro per i nuovi
+[47:02] investieri che comunque nasceranno col digitale se ho un supermercato e ho 100
+[47:08] cassiere e è quasi sicuro che io fra dieci anni non avrò più cassiere è quasi sicuro che non ci
+[47:13] saranno più le cassiere supermercati perché ci sarà un riconoscimento del bene che
+[47:18] compro tramite digitale per cui io uscirò e già è così tecnologia già disponibile con un
+[47:24] carrello che automaticamente mi manda la debito sul mio conto corrente su una carta di credo c'è
+[47:28] questo non ci si può far nulla sarà così ma io non è detto che non possa trasformare quelle
+[47:33] 100 persone per fare per esempio una cura dei clienti per fare un consiglio una consegna
+[47:38] domicilio oppure avrò bisogno di dieci persone che mi fanno l'analisi di quei clienti che
+[47:44] cosa comprano quindi una segmentazione di quella clientela quindi che mi aiutano a capire il
+[47:48] cliente quindi come dire poi cento probabilmente saranno ancora cento ma sanno cento diversi
+[47:53] sanno cento che hanno competenze diverse che saranno prendersi cura del cliente che
+[47:57] sapranno parlarci che sapranno portare la spesa a casa che sapranno analizzare i dati che
+[48:02] arrivano da quei clienti per avere un servizio più su misura e qui siamo nel diciamo
+[48:07] in un supermercato ma l'immagine se siamo in un negozio che invece siamo nel settore
+[48:11] della moda quanto più servizio ci sarà e quanto meno fatica quando fatica diciamo persone
+[48:17] con attività bassa di o manuali oppure cognitive di base se lei si sposta in qualsiasi ambito
+[48:23] sarà tutto così si perdereanno di posti la volazione creano degli altri se tu non formi
+[48:27] però quegli altri tu di perde basta questo è il punto c'è per esempio tutti i centri
+[48:32] di ricerca tutti i centri di servizio si spostano dove ci sono le come prima si
+[48:38] spostano solo dove costava meno oggi si spostano dove ha un costo basso ma anche
+[48:42] dove c'è molta disponibilità di quelle competenze cioè se io voglio fare per
+[48:46] esempio qualcosa sul blockchain e in italia vessi i migliori mille laureanti che sanno
+[48:50] utilizzare blockchain io vengo e metto lo metto in italia così come fanno moltissime
+[48:54] aziende nel mondo ma se in italia non le ho quelle competenze non vengo qui lo vado a
+[48:57] mettere in romania perché in romania sono posti questo problema allora se
+[49:01] noi intercettiamo le competenze che avrà bisogno il futuro noi perdiamo
+[49:06] sicuro i posti di lavoro come tutto il mondo perderà ma intercettiamo
+[49:10] quei quei bisogni quelle competenze quel mondo avrà bisogno
+[49:14] sembra di capire che però non sono tutte competenze digitali sono relazionali
+[49:19] sono come di analisi sono sono le più svariate quindi avremo bisogno solo di
+[49:24] statistici matematici e fisici avremo bisogno anche di gente che si ha
+[49:29] quelle comunicazione ma che capisce matte come relazionarsi con le persone come
+[49:32] comunicare quindi questo è secondo me il passaggio
+[49:39] comunque io nel dubbio studierei ingegneria perché sicuramente di
+[49:43] ingegneri ne avremo sempre bisogno non solo per digitalizzare i processi ma vista
+[49:48] anche l'importanza della manifestura che in alcuni casi proprio grazie a la
+[49:54] digitalizzazione riusciamo a non far scappare dal nostro territorio poi c'è
+[49:59] tutto un tema fiscale burocratico eccetera eccetera che non affrontiamo in
+[50:04] questa occasione soprattutto perché siamo arrivati ai saluti grazie anche
+[50:09] questa settimana come sempre i nostri ascoltatori a chi ha scaricato ho
+[50:13] ascoltato in streaming questa che è la versione podcast il nostro super podcast
+[50:18] con tutte le nostre interviste le nostre chiacchierate in edizione integrale
+[50:22] torniamo alla prossima settimana per parlare sempre del mondo che ci
+[50:27] circonda dal punto di vista digitale per cercare di capire come la
+[50:33] tecnologia ci cambia la vita io sono Enrico Pagliarini il nostro
+[50:37] indirizzo di posta elettronica se volete raggiungermi è 2024 e tradi 24
+[50:41] punto it potete utilizzare anche facebook twitter o link din ancora un
+[50:47] ringraziamento appuntamente alla prossima settimana

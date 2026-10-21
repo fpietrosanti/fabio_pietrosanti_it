@@ -1,0 +1,85 @@
+Italians Do It Better: Truecrypt su MAC grazie a OsxCrypt » Matteo Flora su mgpf.it 
+
+ Home •
+ Chi Sono •
+ Archivio •
+ Twitter •
+ Video & Talk 
+
+Sono Matteo Flora e qui scrivo .
+
+Come curioso visionario perso nel Digital Dharma .
+
+ « Riparliamone... 
+
+ Italians Do It Better: Truecrypt su MAC grazie a OsxCrypt
+
+E’ vero, siamo un paese di Bamboccioni. Ci lamentiamo sempre, siamo sempre scontenti e siamo pasticcioni. A volte . 
+
+ Già, perché diamine, quando ci muoviamo siamo irrefrenabili. Quando ci muoviamo, noi Italiani (con la maiuscola, prego) facciamo gli spettacoli più impensati . 
+
+ Come questa volta: anni e anni passati io e Naif a chiedere al team di sviluppo di TrueCrypt di uscire con una versione MAC. Anni a contattarli, a proporre soldi, a proporre sottoscrizioni ed un’unica risposta: “ picche finché non vogliamo noi ”. Nulla, ad attendere e senza poter utilizzare il prodotto su MAC.
+
+E quindi che abbiamo fatto? Nulla, se non muoverci noi . 
+
+ E a Ottobre su Fundable si apriva la ricerca di fondi: 1500 dollari per riuscire a pagare un programmatore esperto , qualcuno che portasse a termine un porting della applicazione. Non solo, ma che facesse la cosa in Open Source. E che predisponesse un Framework in grado, all’occorrenza, di essere semplicemente adattato ad altre differenti tecnologie di encrypt su File, come ad esempio Luks e DM-Crypt. 
+
+ E qui abbiamo trovato prima il developer, il poliedrico (italianissimo) Orlando, e dopo tanti piccoli passi oggi si pubblica la versione Alpha di OsxCrypt. Italianissima. Battendo sul tempo un Truecrypt.org che in fretta e furia ha scritto la data di Gennaio 2008 come data di rilascio, in una corsa sul tempo. 
+
+ Siamo grandi, noi piccoli Italiani , quando ci muoviamo. Grandi veramente . 
+
+ Grazie Fabio, grazie Orlando.
+
+ Ci siamo riusciti ! 
+
+ E voi godetevi il Tutorial tenuto dal sottoscritto .
+
+E scaricatevi il software .
+
+E date un occhio al progetto in generale : OsxCrypt.
+
+E già che ci siete date un occhio a chi ha sponsorizzato : è anche lì pieno di italiani.
+
+ Happy Secrets! 
+
+ about-me 
+
+ paranoia 
+
+ security 
+
+ » Charlie fa Surf... 
+
+Questo post è stato originariamente pubblicato il 24/01/2008.
+
+ Share 
+
+ Tweet 
+
+ Articoli (probabilmente) correlati
+
+ Aggiornamento Censura e G8 del 06/2007
+
+ Eludere i Controlli di Polizia - il video completo del 03/2007
+
+ L'Espresso: la mia intervista sull'affaire leak del 11/2012
+
+ In difesa di Riccardo Luna: da SilkRoad a TOR del 04/2012
+
+ Forza, Microsoft! Avanti! del 02/2008
+
+ Microsoft compera Yahoo!? del 02/2008
+
+ Heil, Fruhrer! Quando Frattini prende a modello il Reich del 09/2007
+
+ Un due trè, Volontè del 07/2007
+
+ L'Hacker, il Terrorismo, le PSYOP e la Sicurezza del 05/2007
+
+ Rilevare e rubare un Notebook in macchina del 03/2007
+
+ Home •
+ Chi Sono •
+ Archivio •
+ Twitter •
+ Video & Talk

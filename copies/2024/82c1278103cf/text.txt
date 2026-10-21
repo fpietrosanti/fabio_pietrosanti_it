@@ -1,0 +1,421 @@
+CTO at NCSC Summary: week ending November 17th 
+
+ CTO at NCSC - Cyber Defence Analysis 
+
+ Subscribe Sign in 
+
+ Share this post
+
+ CTO at NCSC Summary: week ending November 17th
+ ctoatncsc.substack.com
+
+ Copy link
+
+ Facebook
+
+ Email
+
+ Note
+
+ Other
+
+ CTO at NCSC Summary: week ending November 17th
+ Zero-days everywhere... 
+
+ Ollie Whitehouse 
+
+ Nov 16, 2024
+
+ Share this post
+
+ CTO at NCSC Summary: week ending November 17th
+ ctoatncsc.substack.com
+
+ Copy link
+
+ Facebook
+
+ Email
+
+ Note
+
+ Other
+
+ Share
+
+ Welcome to the weekly highlights and analysis of the  blueteamsec  subreddit (and my wider reading). Not everything makes it in, but the best bits do. 
+ Operationally this week nothing overly of note..
+ In the high-level this week:
+ UK and allies warn about shift in cyber attackers exploiting zero-day vulnerabilities - NCSC announces in collaboration with partners: 
+ Majority of top vulnerabilities were first exploited as zero-days allowing malicious actors to compromise higher-priority targets 
+
+ Network defenders and technology developers called upon to play their part in reducing the risk of compromise” 
+
+ A decade of Cyber Essentials: the journey towards a safer digital future - NCSC reflects - “Over 10 years we’ve seen it grow from a handful of companies to over 360 Certification Bodies and just short of 1,000 Assessors adding value to the economy by providing employment and upskilling opportunities.” 
+
+ The 4th Republic of Korea-UK Cyber Dialogue held in London - UK Government details - “Both chairs agreed to further strengthen cooperation on cybersecurity as a key area of cooperation in the bilateral relationship, and reviewed implementation of the Strategic Cyber Partnership which was agreed during the State Visit of President Yoon in November 2023.” 
+ South Korea strengthens NATO cyber ties as new threats emerge globally - Korea Pro publishes. 
+
+ New £6m initiative to boost UK-wide cyber resilience - Hollyrood publishes - “Funded by UKRI’s Engineering and Physical Sciences Research Council (EPSRC), the initiative is expected to provide new insights into how to achieve security by design and forms part of wider efforts to make the UK “the safest place to live and work online”."" 
+
+ lowRISC and SCI Semiconductor Partner to Create First CHERIoT Commercial Tapeout - lowRISC CIC announces - “publicly available design verification (DV) dashboards — based on lowRISC’s Sonata platform (which itself leverages Microsoft's Ibex®-based CHERIoT core). It will support the innovation required for the creation of a commercially available device from SCI Semiconductor within their advanced ICENI device family, targeting a wide array of operational technology (OT) applications.” 
+
+ TSA announces proposed rule that would require the establishment of pipeline and railroad cyber risk management programs - Transportation Security Administration announces - “this rule proposes: 
+ To require that certain pipeline, freight railroad, passenger railroad and rail transit owner/operators with higher cybersecurity risk profiles establish and maintain a comprehensive cyber risk management program; 
+
+ To require these owner/operators, and higher-risk bus-only public transportation and over-the-road bus owner/operators, currently required to report significant physical security concerns to TSA to report cybersecurity incidents to CISA; and 
+
+ To extend to higher-risk pipeline owner/operators TSA’s current requirements for rail and higher-risk bus operations to designate a physical security coordinator and report significant physical security concerns to TSA.” 
+
+ Operational resilience: Critical third parties to the UK financial sector - Bank of England publishes - “Respondents were particularly concerned about potential requirements or expectations on CTPs to disclose unremedied vulnerabilities (in the cyber-security sense) to the regulators and to the firms they provide systemic third party services, as this could increase the risk of threat actors exploiting these vulnerabilities, which would go against the Overall Objective.” - transparency is not a bad thing! 
+
+ Anticipating security trends – an exercise in creative writing - Simon Shiu creates - “I recently had the opportunity to take a very different approach. Specifically, inspired by the futures thinking research of RISCs, I used creative writing to explore and enhance my knowledge of the way security information flows between stakeholders.” 
+ The result is the story “Bringing rigour to security: how hard could that be?” . 
+
+ Ukrainian Delegation Participates in Cybersecurity Training Programs in Germany - State Service of Special Communications and Information Protection of Ukraine announces - “Cybersecurity specialists from 23 Ukrainian government agencies attended the "Partnership for Strengthening Cybersecurity" trainings, jointly organized by the German Agency for International Cooperation (GIZ) and SSSCIP, in Bonn, Germany.” 
+
+ Stitching Together the Cybersecurity Patchwork Quilt: Infrastructure - Lawfare asserts - “Pipelines. Railroads. Aviation. Connected medical devices. Now ship-to-shore cranes. Initial steps on internet routing. Soon(ish) sensitive data. Maybe connected cars. Piece-by-piece, the Biden administration, in part building on Trump initiatives, has been stitching together a patchwork quilt of cybersecurity regulation for critical infrastructure. But key sectors, some identified above, still need to be addressed, and some complicated rulemakings need to be brought to completion.” 
+
+ Healthcare Cybersecurity:HHS Continues to Have Challenges as Lead Agency - US Government Accountability Office asserts - “analysis found that participating hospitals had self-assessed that they had adopted 70.7 percent of the National Institute of Standards and Technology Cybersecurity Framework's functional areas of identify, detect, protect, respond, and recover.” 
+
+ Partnership against Cybercrime - World Economic Forum outlines - “this paper highlights three main pillars of collaboration: incentives for organizations to collaborate, elements of a good governance structure, and resources required to set up, maintain and accelerate partnerships.” 
+
+ FBI: Spike in Hacked Police Emails, Fake Subpoenas - Krebs on Security reports - “The Federal Bureau of Investigation (FBI) is urging police departments and governments worldwide to beef up security around their email systems, citing a recent increase in cybercriminal services that use hacked police email accounts to send unauthorized subpoenas and customer data requests to U.S.-based technology companies.” 
+
+ Semiconductors
+ US funds $1bn centre for next generation EUV lithography - EE News publishes - “The $825m EUV Accelerator will be hosted at the Albany NanoTech Complex as the first CHIPS for America R&D flagship facility with additional funding from users. A key player is expected to be US company Applied Materials which competes directly with ASML, which in June opened a similar lab with imec in Belgium” 
+
+ TSMC to close door on producing advanced AI chips for China from Monday - The Times reports - “Taiwan Semiconductor Manufacturing Company has notified Chinese chip design companies that it will suspend production of their most advanced artificial intelligence chips, as Washington continues to impede Beijing’s AI ambitions.” 
+
+ House Committee Targets Chip Technology Firms for China Ties - New York Times reports - “The letters were sent to three U.S.-based companies that make semiconductor manufacturing equipment — Applied Materials, Lam Research and KLA — as well as the Japanese firm Tokyo Electron and the Dutch equipment maker ASML.” 
+
+ Huawei keeps trying to poach TSMC engineers by offering to triple their salaries - TechSpot reports - “A lot of TSMC workers turn down these offers. They may be lucrative, but they come with a potential risk to their careers: it's hard to get another job after switching sides to a sanctioned Chinese firm.” 
+
+ Reporting on/from China
+ Two national standards on software supply chain security developed with the participation of NSFOCUS officially implemented - anquan 419 publishes - “"Security Requirements for Cybersecurity Technology Software Supply Chain" (GB/T 43698-2024) and "Security Evaluation Method for Open Source Code of Cybersecurity Technology Software Products" (GB/T 43848-2024), were officially implemented on November 1, 2024.” 
+
+ A Xi Enforcer Is Revving Up China’s Spy Machine—and Alarming the West - The Wall Street Journal reports - “In the two years since Xi installed Chen Yixin at the helm of the Ministry of State Security, a secretive organization whose mandate includes intelligence gathering and counterespionage, Chinese spying has swelled to what Western officials describe as a formidable threat. The expansive effort, officials say, has mobilized security agencies, private firms and civilians to amass troves of information.” 
+
+ AI
+ Cybersecurity Risks of AI-Generated Code - Jessica Ji, Jenny Jun, Maggie Wu, and Rebecca Gelles research - ”A variety of code generation models often produce insecure code, some of which contain impactful bugs. As more individuals and organizations rely on code generation models to generate and incorporate code into their projects, these practices may pose problems for software supply chain security.” 
+
+ Canada launches Canadian Artificial Intelligence Safety Institute - Government of Canada announces - “The Canadian AI Safety Institute is part of the government’s broader strategy to promote safe and responsible AI development in Canada, which includes the proposed Artificial Intelligence and Data Act and the Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems .” 
+
+ Key questions for the International Network of AI Safety Institutes - Sumaya Nur Adan asserts - “The network should prioritize topics that are urgent and important for AI safety, align well with AISIs’ competencies, and are elevated by collaboration, leading to more than the sum of each individual AISI.” 
+
+ Cyber proliferation
+ More Spyware, Fewer Rules: What Trump’s Return Means for US Cybersecurity - Wired reports - “There’s a high probability that we see big rollbacks on spyware policy,” says Steven Feldstein, a senior fellow in the Carnegie Endowment for International Peace’s Democracy, Conflict, and Governance Program. Trump officials are likely to care more about spyware makers’ counterterrorism arguments than about digital-rights advocates’ criticisms of those tools. 
+
+ NSO Group used another WhatsApp zero-day after being sued, court docs say - Bleeping Computer reports - “even after the Eden exploit was blocked in May 2019, the court documents say that NSO admitted that it developed yet another installation vector (named 'Erised') that used WhatsApp's relay servers to install Pegasus spyware.” 
+
+ How Italy became an unexpected spyware hub - The Record reports - “Spyware is being used more in Italy than in the rest of Europe because it's more accessible,” Fabio Pietrosanti, president of Italy’s Hermes Center for Transparency and Digital Human Rights 
+
+ Bounty Hunting
+ Joint Statement on Ransomware - UN Security Council video 
+
+ Idaho Man Sentenced for Computer Hacking and Extortion Scheme - US Department of Justice announces - “Robert Purbeck, 45, of Meridian, purchased access to the computer server of a Griffin, Georgia, medical clinic on a darknet marketplace. He then used the stolen credentials to illegally access the computers of the medical clinic and removed records that contained sensitive PII for over 43,000 individuals, including names, addresses, birth dates, and social security numbers.” 
+
+ Reflections this week as from the the article S oftware providers beware: They are now liable for defective products in which they state: 
+ A lack of cyber security and therefore a breach of the new CRA, among other things, can now also constitute a product defect. Liability for defective products has also been extended in terms of time. According to the Product Liability Directive, the manufacturer is no longer only liable up to the point at which the product reaches the user. The decisive factor is when the product leaves the "control of the manufacturer". However, as long as the manufacturer is able to provide software updates, he continues to exercise control and can be held liable for any defects that occur.
+ Europe will likely do more good for product security through this than any other initiate to date.. well done Europe!
+ Not getting this via email? Subscribe:
+
+ Subscribe 
+
+ Think someone else would benefit? Share:
+ Share 
+ All attribution is by others and not the UK Government unless specifically stated as such, please see the legal text at the end. 
+ Have a lovely Saturday.. 
+ Ollie
+ Cyber threat intelligence 
+
+ Who is doing what to whom and how allegedly.
+ Reporting on Russia 
+
+ CVE-2024-43451: A New Zero-Day Vulnerability Exploited in the wild 
+
+ ClearSky detail the exploitation of a zero day which is allegedly Russia in origination. Again demonstrates that slightly clunky exploits work in practice.. 
+ A new zero-day vulnerability, CVE-2024-43451, was discovered by ClearSky Cyber Security in June 2024. This vulnerability affects Windows systems and is being actively exploited in attacks against Ukrainian entities.
+ The vulnerability activates URL files containing malicious code through seemingly innocuous actions:
+ A single right-click on the file (all Windows versions).
+
+ Deleting the file (Windows 10/11).
+
+ Dragging the file to another folder (Windows 10/11 and some Windows 7/8/8.1 configurations).
+
+ The attack begins with a phishing email sent from a compromised Ukrainian government server. The email prompts the recipient to renew their academic certificate. The email contains a malicious URL file. When the user interacts with the URL file by right-clicking, deleting, or moving it, the vulnerability is triggered. This action establishes a connection with the attacker’s server and downloads further malicious files, including SparkRAT malware.
+ CERT-UA linked this campaign to the threat actor UAC-0194 , suspected to be Russian. ClearSky also noted similarities with previous campaigns by other threat actors, suggesting the use of a common toolkit or technique. 
+ https://www.clearskysec.com/0d-vulnerability-exploited-in-the_wild/ 
+ Reporting on China 
+
+ Joint Statement from FBI and CISA on the People's Republic of China (PRC) Targeting of Commercial Telecommunications Infrastructure 
+
+ FBI and CISA detail the extent of this campaign thus far.. 
+ Specifically, we have identified that PRC-affiliated actors have compromised networks at multiple telecommunications companies to enable the theft of customer call records data, the compromise of private communications of a limited number of individuals who are primarily involved in government or political activity, and the copying of certain information that was subject to U.S. law enforcement requests pursuant to court orders. We expect our understanding of these compromises to grow as the investigation continues. 
+ https://www.cisa.gov/news-events/news/joint-statement-fbi-and-cisa-peoples-republic-china-prc-targeting-commercial-telecommunications 
+ BrazenBamboo Weaponizes FortiClient Vulnerability to Steal VPN Credentials via DEEPDATA 
+
+ Callum Roxan , Charlie Gardner and Paul Rascagneres detail a well known vulnerability class (credentials clear-text in memory) being allegedly exploited by a Chinese threat actor. I once wrote a tool along with some example signatures to find similar instances in other products (over a decade ago now). Anyway some post compromise activity everyone should be aware of. 
+ Volexity discovered and reported a vulnerability in Fortinet's Windows VPN client, FortiClient, where user credentials remain in process memory after a user authenticates to the VPN.
+
+ This vulnerability was abused by BrazenBamboo in their DEEPDATA malware.
+
+ BrazenBamboo is the threat actor behind development of the LIGHTSPY malware family.
+
+ LIGHTSPY variants have been discovered for all major operating systems, including iOS, and Volexity has recently discovered a new Windows variant.
+
+ https://www.volexity.com/blog/2024/11/15/brazenbamboo-weaponizes-forticlient-vulnerability-to-steal-vpn-credentials-via-deepdata/ 
+ Related reporting
+ https://blogs.blackberry.com/en/2024/11/lightspy-apt41-deploys-advanced-deepdata-framework-in-targeted-southern-asia-espionage-campaign 
+ China-Nexus TAG-112 Compromises Tibetan Websites to Distribute Cobalt Strike 
+
+ Insikt Group detail a campaign they allege is Chinese in origin and which hints at the fact that watering hole attacks may not entirely require finesse to be a success. 
+ TAG-112 likely compromised the Tibet Post (tibetpost[.]net) and Gyudmed Tantric University (gyudmedtantricuniversity[.]org) websites on or around May 23, 2024. These websites remain compromised as of this writing. 
+
+ The compromised websites were manipulated to prompt visitors to the sites to download a malicious executable disguised as a “security certificate” that ultimately loaded a Cobalt Strike payload upon execution. 
+
+ The group likely exploited a vulnerability in the website's content management system, Joomla, to upload the malicious JavaScript. 
+
+ TAG-112 is likely a subgroup of TAG-102 (Evasive Panda), working toward the same or similar intelligence requirements, mainly focusing on targeting Tibetan entities. Despite these overlaps, Insikt Group is tracking this activity as a separate entity due to the difference in maturity between these campaigns
+
+ https://go.recordedfuture.com/hubfs/reports/cta-cn-2024-1112.pdf 
+ The Botnet is Back - VOLT TYPHOON 
+
+ Ryan Sherstobitoff details what they alleged is the reemergence of the covert infrastructure related to this threat actor. The scale and pace are of note.. 
+ Once thought dismantled, Volt Typhoon has returned, more sophisticated and determined than ever. Unlike attackers who vanish when discovered, this adversary digs in even deeper when exposed. According to the STRIKE Team, Volt Typhoon’s tactics are adaptive and multifaceted. They exploit legacy weaknesses in Cisco RV320/325 routers and Netgear ProSafe routers, devices long past their prime, using them as operational relay boxes. These end-of-life devices become perfect entry points, and in just 37 days, Volt Typhoon compromised 30% of visible Cisco RV320/325 routers.
+ https://securityscorecard.com/blog/botnet-is-back-ssc-strike-team-uncovers-a-renewed-cyber-threat/ 
+ New Zero-Detection Variant of Melofee Backdoor from Winnti Strikes RHEL 7.9 
+
+ Alex.Turing curiously reports from China on an alleged Chinese threat actor. Curiousness aside the upgrade in capability of this Linux implant is notable due to the anti-forensics capabilities. 
+ Originally exposed by ExaTrack in March 2023 and attributed to the APT group Winnti, this latest variant has notable upgrades. Structurally, it embeds an RC4-encrypted kernel driver to mask traces of files, processes, and network connections. Functionally, it adds improvements in persistence, single-instance control, and function ID design.
+ https://blog.xlab.qianxin.com/analysis_of_new_melofee_variant_en/ 
+ Reporting on North Korea 
+
+ APT Actors Embed Malware within macOS Flutter Applications 
+
+ Jamf Threat Labs details an alleged a North Korean campaign which shows a degree of persistence and more importantly a potential ability to bypass Apple’s notarization processes. 
+ The discovered malware came in three forms. A Go variant, a Python variant built with Py2App and a Flutter-built application.
+ The Flutter applications that were created by the malware author are considered to be a stage one payload. We initially identified six infected applications, five of which were signed using a developer account signature. At the time of our discovery, Apple had already revoked these signatures.
+ The domains and techniques in the malware align closely with those used in other DPRK malware and show signs that, at one point in time, the malware was signed and had even temporarily passed Apple’s notarization process.
+ https://www.jamf.com/blog/jamf-threat-labs-apt-actors-embed-malware-within-macos-flutter-applications/ 
+ Fake North Korean IT Worker Linked to BeaverTail Video Conference App Phishing Attack 
+
+ Unit 42 alleged a North Korean which shows the contemporary blended threat where state actors may operate from foreign territories. 
+ Unit 42 researchers identified a North Korean IT worker activity cluster that we track as CL-STA-0237. This cluster was involved in recent phishing attacks using malware-infected video conference apps. It likely operates from Laos, using Lao IP addresses and identities.
+ CL-STA-0237 exploited a U.S.-based, small-and-medium-sized business (SMB) IT services company to apply for other jobs. In 2022, CL-STA-0237 secured a position at a major tech company.
+ We believe CL-STA-0237 is another cluster of a broader network of North Korean IT workers supporting the nation's illicit activities, including weapons of mass destruction (WMD) and ballistic missile programs. This article highlights the IT workers’ shift from stable income-seeking activities to involvement in more aggressive malware campaigns. Additionally, the article illustrates the global reach of North Korean IT workers.
+ https://unit42.paloaltonetworks.com/fake-north-korean-it-worker-activity-cluster/ 
+ Reporting on Iran 
+
+ Iranian “Dream Job” Campaign 11.24 
+
+ ClearSky detail a campaign they alleged is Iranian which is trying to pretend to be North Korean. Anyway, more social engineering.. 
+ The similar “Dream Job” lure, attack techniques, and malware files suggest that either Charming Kitten was impersonating Lazarus to hide its activities, or that North Korea shared attack methods and tools with Iran. 
+ The Iranian “Dream Job” campaign has been active since at least September 2023. Mandiant had previously reported on suspected Iranian espionage activity targeting aerospace, aviation, and defense industries in Middle East countries, including Israel and the United Arab Emirates (UAE), as well as Turkey, India, and Albania. 
+ The LinkedIn profiles of the fake recruiters in our report seem to be newer versions of the profiles Mandiant previously reported. For example, ClearSky discovered a profile associated with a fake company called “Careers 2 Find,” which previously worked for “1st Employer,” a fake recruiting website highlighted by Mandiant. 
+ https://www.clearskysec.com/irdreamjob24/ 
+ Reporting on Other Actors 
+
+ Hamas-affiliated Threat Actor WIRTE Continues its Middle East Operations and Moves to Disruptive Activity 
+
+ Check Point Research detail a campaign they alleged is a Hamas aligned threat group. Noteworthy as they appear to have moved into the wiper game.. 
+ [We have] been tracking ongoing activity of WIRTE threat actor, previously associated with the Hamas-affiliated group Gaza Cybergang, despite the ongoing war in the region.
+
+ The conflict has not disrupted the WIRTE’s activity, and they continue to leverage recent events in the region in their espionage operations, likely targeting entities in the Palestinian Authority, Jordan, Iraq, Egypt, and Saudi Arabia.
+
+ Our research indicates that WIRTE group has expanded beyond espionage to conduct disruptive attacks. We have identified clear links between the custom malware used by the group and SameCoin, a wiper malware targeting Israeli entities in two waves in February and October 2024.
+
+ While WIRTE’s tools have evolved since the group emerged, key aspects of their operations remain consistent: domain naming conventions, communication via HTML tags, responses limited to specific user agents, and redirection to legitimate websites.
+
+ https://research.checkpoint.com/2024/hamas-affiliated-threat-actor-expands-to-disruptive-activity/ 
+ Discovery 
+
+ How we find and understand the latent compromises within our environments.
+ Nothing this week 
+ Defence 
+
+ How we proactively defend our environments.
+ How Memory-Safe is IoT? Assessing the Impact of Memory-Protection Solutions for Securing Wireless Gateways 
+
+ Vadim Safronov , Ionut Bostan , Nicholas Allott and Andrew Martin show how far we have come, yet how far we have to go.. 
+ Legacy memory protection mechanisms, such as canaries, RELRO, NX, and Fortify, have enhanced memory safety but remain insufficient for comprehensive protection. Emerging technologies like ARM-MTE, CHERI, and Rust are based on more universal and robust Secure-by-Design (SbD) memory safety principles, yet each entails different trade-offs in hardware or code modifications. Given the challenges of balancing security levels with associated overheads in IoT systems, this paper explores the impact of memory safety on the IoT domain through an empirical large-scale analysis of memory-related vulnerabilities in modern wireless gateways. Our results show that memory vulnerabilities constitute the majority of IoT gateway threats, underscoring the necessity for SbD solutions, with the choice of memory-protection technology depending on specific use cases and associated overheads.
+ https://arxiv.org/abs/2411.01377 
+ Incident Writeups & Disclosures 
+
+ How they got in and what they did.
+ Defending the Tor network: Mitigating IP spoofing against Tor 
+
+ Tor project details an interesting operation against their infrastructure. 
+ This attack focused on non-exit relays, using spoofed SYN packets to make it appear that Tor relay IP addresses were the sources of these scans. This led to automated abuse complaints directed at data centers such as OVH, Hetzner, and other providers. The attacker's intent seems to have been to disrupt the Tor network and the Tor Project by getting these IPs on blocklists with these unfounded complaints.
+ Pierre Bourdon, a relay operator, shared insights into the attack in his post, "One weird trick to get the whole planet to send abuse complaints to your best friend(s)" , which sheds light on how the attacker used spoofed IP packets to trigger automated abuse complaints across the network. A huge thank you to Pierre for his detailed analysis and for sharing his findings with the community! 
+ https://archive.ph/eeHL0 
+ Vulnerability 
+
+ Our attack surface.
+ Command Injection Vulnerability in `name` parameter for D-Link NAS 
+
+ End-of-life products bite hard and great material global attack surfaces facilitating among other things the potential for misuse as covert infrastructure. 
+ A command injection vulnerability has been identified in the account_mgr.cgi URI of certain D-Link NAS devices. Specifically, the vulnerability exists in the handling of the name parameter used within the CGI script cgi_user_add command. This flaw allows an unauthenticated attacker to inject arbitrary shell commands through crafted HTTP GET requests, affecting over 61,000 devices on the Internet.
+ https://netsecfish.notion.site/Command-Injection-Vulnerability-in-name-parameter-for-D-Link-NAS-12d6b683e67c80c49ffcc9214c239a07 
+ Veeam Backup Enterprise Manager Vulnerability 
+ (CVE-2024-40715) 
+
+ Eeep!
+ This vulnerability in Veeam Backup Enterprise Manager allows attackers to bypass the authentication while performing a Man-in-the-Middle (MITM) attack.
+ https://www.veeam.com/kb4682 
+ Offense 
+
+ Attack capability, techniques and trade-craft. 
+ KexecDDPlus 
+
+ Clément Labro and Romain Melchiorre show off a powerful technique which can only be run four times before causing a kernel crash. Maybe consider running it three times on your entire fleet to catch anyone trying to exploit it.. 
+ It relies on Server Silos to access the KsecDD driver directly, without having to inject code into LSASS. This capability therefore allows it to operate even on systems on which LSA Protection is enabled.
+ https://github.com/scrt/KexecDDPlus 
+ https://blog.scrt.ch/2024/11/11/exploiting-ksecdd-through-server-silos/ 
+ Lights Out 
+
+ Andrey Konovalov shows the art of the possible.. 
+ These tools allow getting software control of the webcam LED on ThinkPad X230 over USB without physical access to the laptop. (The webcam is internally connected over USB, like in many other laptops, and its firmware can be reflashed over USB.)
+ Note: Running these tools might brick the webcam, use with caution.
+ https://github.com/xairy/lights-out 
+ Using VBS enclaves for anti-cheat purposes 
+
+ Samuel Tulach details a technique which may have applications for those trying to avoid endpoint detection.. 
+ while it would prevent any attempt to manipulate the game from programs or drivers loaded in the OS, experienced developers would have no issues getting around these restrictions by writing firmware apps that would manipulate the entire Windows bootchain.
+ https://tulach.cc/using-vbs-enclaves-for-anti-cheat-purposes/ 
+ Early Cascade Injection 
+
+ Cracked5pider publishes a proof-of-concept of this technique 
+ Early Cascade Injection technique targets the user-mode part of process creation and combines elements of the well-known Early Bird APC Injection technique with the recently published EDR-Preloading technique by Marcus Hutchins [1] . Unlike Early Bird APC Injection, this new technique avoids queuing cross-process Asynchronous Procedure Calls (APCs), while having minimal remote process interaction. This makes Early Cascade Injection a stealthy process injection technique that is effective against top tier EDRs while avoiding detection. 
+ https://github.com/Cracked5pider/earlycascade-injection 
+ Circumventing MDATP for full endpoint compromise 
+
+ From China ..
+ However, from the tests I've performed on the solution, the response part of the endpoint detection and response seems a bit slow to me. This may not usually be a big problem, for example the Empire agent is killed after the first command, however, for critical operations such as LSASS access, an attacker may simply redirect the output or even copy the results after the dump is complete, which may is a serious flaw.
+ https://mp-weixin-qq-com.translate.goog/s/0oMDIGWw7YdiOQF0Fdb8iw?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp 
+ Exploitation 
+
+ What is being exploited.. 
+ Malicious Python Package Typosquats Popular 'fabric' SSH Library, Exfiltrates AWS Credentials 
+
+ Dhanesh Dodia , Sambarathi Sai and Dwijay Chintakunta detail a campaign which should give everyone pause for thought due to the length of time it went undetected and the potential scale of impact. 
+ a typosquatting package that has been live on PyPI since 2021, silently exfiltrating AWS credentials, with more than 37,000 total downloads.
+ https://socket.dev/blog/malicious-python-package-typosquats-fabric-ssh-library 
+ Tooling and Techniques 
+
+ Low level tooling and techniques for attack and defence researchers…
+ Offset-free DSE bypass across Windows 11 & 10: utilising ntkrnlmp.pdb 
+
+ Daniil Nababkin detail some interesting techniques here which should however be relatively easy to detect. Racing KPP is fun.. 
+ Parsing ntkrnlmp.pdb on the target to eliminate the need for static offsetting and thus safely and dynamically bypassing driver signature enforcement across multiple Windows 10 & 11 versions.
+ In our specific case, the exploit does the following (high-level overview):
+ Parse the “C:\Windows\System32\ntoskrnl.exe” PE on the target system, looking for the PDB GUID.
+
+ Download the corresponding PDB file from the Microsoft servers.
+
+ Parse the PDB, calculating the relative SeValidateImageHeader & SeValidateImageData virtual offsets.
+
+ Open a handle to a vulnerable driver for exploitation (specifically, the ZwMapViewOfSection exploitation was performed in our proof of concept, although almost any complete r/w primitive or mapping vulnerability can be used).
+
+ Map and scan the kernel physical memory in 0x100000 chunks (this can be adjusted), looking for the MZ (0x4D, 0x5A) magic numbers.
+
+ If the MZ magic number is found, check if it corresponds to the base of ntoskrnl by comparing the PDB GUID at the relative offset in mapped kernel physical memory to the mapped ntoskrnl on disk.
+
+ If the address of ntoskrnl is found, patch SeValidateImageHeader & SeValidateImageData functions using their relative offsets from PDB in the mapped kernel physical memory to “mov rax, 0; ret” while preserving their original bytes in a local structure.
+
+ Load our unsigned driver in the system while the driver signature checks are disabled.
+
+ Restore original SeValidateImageHeader & SeValidateImageData bytes to re-enable DSE.
+
+ It must be noted that the timing of steps 7-9 is crucial, and it is vital to restore original protections, as the KPP periodically checks important kernel areas for modification and BSODs if a change is detected.
+ https://blog.cryptoplague.net/main/research/windows-research/offset-free-dse-bypass-across-windows-11-and-10-utilising-ntkrnlmp.pdb 
+ Footnotes 
+
+ Some other small (and not so small) bits and bobs which might be of interest.
+ Aggregate reporting
+ A three beats waltz: The ecosystem behind Chinese state-sponsored cyber threats 
+
+ A Risk Assessment Analysis to Enhance the Security of OT WAN with SD-WAN 
+
+ Repo for Analyzing Bitcoin Consensus: Risks in Protocol Upgrades 
+
+ Hack-and-leak operations in Latin America: the case of Guacamaya 
+
+ An AVR Emulator written in LaTeX 
+
+ HM Treasury Areas of Research Interest 
+
+ A review of research on tracing and reasoning of APT attacks 
+
+ Digital Identities: Getting to Know the Verifiable Digital Credential Ecosystem 
+
+ Artificial intelligence
+ Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks 
+
+ Qwen2.5-Coder Technical Report - Qwen-2.5-Coder 32B LLM model, you can now have GPT4-grade model on a laptop with lots of RAM which is sufficient for coding tasks 
+
+ Books
+ Nothing this week 
+
+ Events
+ HEXACON2024 - Caught in the wild, past, present and future by Clem1 
+
+ Bluehat 2024 videos 
+
+ Unless stated otherwise, linked or referenced content does not necessarily represent the views of the NCSC and reference to third parties or content on their websites should not be taken as endorsement of any kind by the NCSC. The NCSC has no control over the content of third party websites and consequently accepts no responsibility for your use of them. 
+ This newsletter is subject to the NCSC website terms and conditions which can be found at https://www.ncsc.gov.uk/section/about-this-website/terms-and-conditions and you can find out more about how will treat your personal information in our privacy notice at https://www.ncsc.gov.uk/section/about-this-website/privacy-statement. 
+
+ Thanks for reading CTO at NCSC - Cyber Defence Analysis! Subscribe for free to receive new posts and support my work.
+
+ Subscribe 
+
+ Share this post
+
+ CTO at NCSC Summary: week ending November 17th
+ ctoatncsc.substack.com
+
+ Copy link
+
+ Facebook
+
+ Email
+
+ Note
+
+ Other
+
+ Share
+
+ Previous 
+
+ Discussion about this post
+ Comments
+ Restacks
+
+ Top
+ Latest
+ Discussions
+
+ No posts
+
+ Ready for more?
+
+ Subscribe 
+
+ © 2024 NCSC
+ Privacy ∙ Terms ∙ Collection notice 
+
+ Start Writing Get the app 
+ Substack is the home for great culture
+
+ Share
+
+ Copy link
+
+ Facebook
+
+ Email
+
+ Note
+
+ Other

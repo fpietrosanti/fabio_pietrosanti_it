@@ -21,8 +21,8 @@
   "url": "https://www.youtube.com/watch?v=HKFkvkZCvrQ",
   "language": "it",
   "role": "context",
-  "note": "Versione YouTube della puntata Spreaker del 2020-11-11 già in archivio (intervista a Denis 'Jaromil' Roio su OpenRousseau). Trovata con ricerca YouTube 'OpenRousseau'. Descrizione e sottotitoli non leggibili (YouTube 'Sign in to confirm you are not a bot', non aggirato; WebFetch restituisce solo il titolo). Nessuna prova del nome: da unire alla voce Spreaker come mirror, oppure scartare se l'ascolto non lo cita. Data presunta = quella della puntata Spreaker.",
-  "verified": false,
+  "note": "Versione YouTube della puntata Spreaker del 2020-11-11 già in archivio (intervista a Denis 'Jaromil' Roio su OpenRousseau). Trovata con ricerca YouTube 'OpenRousseau'. Descrizione e sottotitoli non leggibili (YouTube 'Sign in to confirm you are not a bot', non aggirato; WebFetch restituisce solo il titolo). Nessuna prova del nome: da unire alla voce Spreaker come mirror, oppure scartare se l'ascolto non lo cita. Data presunta = quella della puntata Spreaker. | 2026-10-21: descrizione YouTube letta dalla copia: «ERRATA: nel video attribuisco l'aver trovato la \"falla\" di Rousseau della doppia votazione a Naif, che invece ha solo prestato la sua identità…» → nominato (nick). Versione video della puntata Spreaker già nota.",
+  "verified": true,
   "known": false
  }
 ]

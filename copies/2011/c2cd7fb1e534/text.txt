@@ -1,0 +1,149 @@
+ESC11-Contenuti - Enter the ESC 
+
+ ESC11-Contenuti 
+
+ From Enter the ESC
+
+ Revision as of 13:20, 15 August 2011 by Nex` ( talk | contribs ) ( → Talks & Seminari ) 
+ ( diff ) ← Older revision | Latest revision ( diff ) | Newer revision → ( diff )
+
+ Jump to navigation Jump to search 
+
+ HOME | CAMPEGGIO | PROGRAMMA | TALKS | LABS | WOOT | ARRIVARE | DOMANDE | MATERIALI 
+
+ Questo è il contenuto provvisorio di ESC 2K11. Puoi editarlo liberamente se hai nuove idee da proporre! :) ATTENZIONE: La "Griglia" con lo schedule esatto di ESC2K11 sarà pubblicata a partire dal 31 agosto, e dal 28 agosto verrà dato il Freeze di questa pagina! Questo significa che la DEADLINE per il Call for Papers (C4P) e' il 28 agosto. Se sei intenzionato a fare un talk scrivilo in questa pagina prima di quella data. La griglia dei talk sarà disponibile alla pagina TALKS , i laboratori alla pagina LABS , gli eventi alla pagina EVENTI  :) 
+
+ I contenuti sono da sempre una componente importante dell'ESC, se ritieni di voler parlare di qualcosa di interessante edita questa pagina e inserisci quello di cui vorresti parlare, o in alternativa invia una mail alla COMMISSIONE . Collocare subito il tuo contenuto all'interno del sito dell'evento permette che questo sia pubblicizzato con buon anticipo, e che le persone possano saperlo prima e organizzarsi per partecipare.
+
+ E' fortemente incoraggiata la pubblicazione e diffusione di informazioni frutto della propria ricerca personale e workshop di ogni genere. Gli argomenti tecnici suggeriti a titolo esemplificativo sono sviluppo, sistemi e sicurezza, il tutto rigorosamente fatto con Software Libero. In generale ti consigliamo di pensare a qualcosa che possa interessare all'audience, che e' assolutamente informale e ben disposta ad argomenti tecnici e sociali. 
+
+ Una settimana prima dell'evento la commissione tecnica, diretta emanazione di antani.gov , provvederà a selezionare insindacabilmente i contenuti migliori e dargli collocazione all'interno della scaletta principale; tutti gli altri contenuti potranno comunque trovare spazio nei vari ambiti e momenti dell'ESC.
+
+ Contents
+
+ 1 Talks & Seminari 
+
+ 1.1 1101 - ZFS, La Z dei filesystem - by fabioFVZ < fabio @ openbeer.it > 
+
+ 1.2 1102 - Cluster NFS - by fabioFVZ < fabio @ openbeer.it > 
+
+ 1.3 1103 - 2 Firewall and 2 BGP - by fabioFVZ < fabio @ openbeer.it > 
+
+ 1.4 1104 - "ph33r th3 ph0n3" by naif & nex` 
+
+ 1.5 1105 - "Fun In The Pot" by nex` 
+
+ Talks & Seminari 
+
+ 1101 - ZFS, La Z dei filesystem - by fabioFVZ < fabio @ openbeer.it > 
+
+ Finalmente dopo anni e anni qualcuno ha la lettera Z sui filesystems. Ma sara' veramente cosi? Vedremo ZFS in tutte le sue caratteristiche passando dalla teoria alla pratica. DISTRUGGEREMO UN HARD DISK IN DIRETTA grazie al mala per vedere se e' vero quello che dicono di questo filesystem :)
+
+ 1102 - Cluster NFS - by fabioFVZ < fabio @ openbeer.it > 
+
+ Vediamo un piccolo Cluster NFS di 2 nodi che ci permette di avere un NAS ad alta affidabilità in maniera facile ed economica.
+
+ 1103 - 2 Firewall and 2 BGP - by fabioFVZ < fabio @ openbeer.it > 
+
+ Come ridondare 2 firewall e 2 BGP in un Datacenter. Sponsored by mala
+
+ 1104 - "ph33r th3 ph0n3" by naif & nex` 
+
+ mobile antani supercazzola aka To Be Defined
+
+ 1105 - "Fun In The Pot" by nex` 
+
+ Spin-off della Honeypot demo dalla presentazione "Kicking the Bad Guys in the Ass" dell'edizione 2010.
+
+ Retrieved from " https://endsummercamp.org/index.php?title=ESC11-Contenuti&oldid=6755 "
+
+ Navigation menu
+
+ Page actions
+
+ Page 
+ Discussion 
+ Read 
+ View source 
+ History 
+
+ Page actions
+
+ Page 
+ Discussion 
+ More 
+ Tools 
+
+ Personal tools
+
+ Log in 
+
+ custom-menu
+
+ Stai visitando l'archivio storico dell'ESC
+
+ ˪ VISITA IL SITO PRINCIPALE! 
+
+ ˪ 2005 
+
+ ˪ 2006 
+
+ ˪ 2007 
+
+ ˪ 2008 
+
+ ˪ 2009 
+
+ ˪ 2010 
+
+ ˪ 2011 
+
+ ˪ 2012 
+
+ ˪ 2013 
+
+ ˪ 2014 
+
+ ˪ 2015 
+
+ ˪ 2016 
+
+ ˪ 2017 
+
+ ˪ 2018 
+
+ ˪ 2019 
+
+ ˪ 2020 
+
+ ˪ 2021 
+
+ ˪ 2022 
+
+ ˪ 2023 
+
+ ˪ 2024 
+
+ Search 
+
+ Navigation
+
+ Main Page 
+ Recent changes 
+ Help 
+
+ Tools
+
+ What links here 
+ Related changes 
+ Special pages 
+ Printable version 
+ Permanent link 
+ Page information 
+
+ This page was last edited on 15 August 2011, at 13:20.
+ Content is available under Attribution-ShareAlike 3.0 Unported unless otherwise noted.
+
+ Privacy policy 
+ About Enter the ESC 
+ Disclaimers

@@ -1,0 +1,492 @@
+ESC14-BBS - Enter the ESC 
+
+ ESC14-BBS 
+
+ From Enter the ESC
+
+ Jump to navigation Jump to search 
+
+ HOME | CAMPEGGIO | PROGRAMMA | VILLES | TALKS | LABS | W00T | ARRIVARE | FAQ | MATERIALI 
+
+ Contents
+
+ 1 BBS Back to the Future Project 
+
+ 2 Call 
+
+ 2.1 BBS Back to the Future -kirone 
+
+ 2.2 Cercasi reperti archeologici per BBS - daneel Olivaw 
+
+ 3 Brainstorming 
+
+ 3.1 1 - Marco C 
+
+ 3.2 2 -void 
+
+ 3.3 3 -Samuele 
+
+ 3.4 4 -Jeky99 
+
+ 3.5 5 -Toni T 
+
+ 3.6 6 -kirone 
+
+ 3.7 7 -Samuele 
+
+ 3.8 8 -ammammata 
+
+ 3.9 9 - Massimo S 
+
+ 3.10 10 -nuzzler 
+
+ 3.11 11 -tn 
+
+ 3.12 12 -Marco G 
+
+ 3.13 13 -BIG 
+
+ 4 Lista della Spesa 
+
+ 4.1 Infrastruttura 
+
+ 4.2 Hardware 
+
+ 4.3 Software 
+
+ BBS Back to the Future Project 
+
+ Tra una chiacchiera e l'altra, si parlava di allestire una zona in cui riportare in vita una BBS con qualche nodo, un centralino telefonico di mezzo ecc. in modo da poter mostrare ai più giovincelli e ai più anzianotti che all'epoca non ne avevano la possibilità come funzionavano le BBS.Tra l'altro quest'anno ricorre il 20° dell' italian crackdown . Ovviamente occorrono persone che hanno vissuto quel periodo e siano disposte a dedicare un po' di tempo per la preparazione del tutto, qualche mini talk in cui ne viene spiegato il funzionamento ecc. -Samuele
+
+ Call 
+
+ Mail inviate (o da inviare) in giro.
+
+ BBS Back to the Future -kirone 
+
+ A fine agosto si terrà vicino a Venezia (per la precisione, a un tiro di
+sputo dall'aeroporto di Tessera) l'End Summer Camp; cito: "ESC è un
+incontro di persone interessate al Software e Hardware Libero,
+all'Hacking e al DIY".
+
+ Per caratterizzare questa edizione è stata avanzata l'idea di ricreare
+una BBS, possibilmente con centrale telefonica e hw e sw dell'epoca i
+quali, ovviamente, ai giorni nostri non brillano per diffusione e
+reperibilità:D
+Servirebbero anche competenze e aneddoti da parte di chi all'epoca ne
+gestiva una...
+
+ Insomma, al momento si è alle fasi pre-preliminari e mi sono offerto di
+chiedere qui se ci sono disponibilità in tal senso:
+mezzi/competenze/interesse/whatever :)
+
+ Ora che ci penso, finora si è parlato solo di pc... HomeC e roba apple
+avevano modem e sw client per partecipare? ^_^;;
+
+ Sul sito trovate le informazioni (anche quelle, work in progress)
+sull'evento.
+
+ Grazie dell'attenzione. :)
+
+ Cercasi reperti archeologici per BBS - daneel Olivaw 
+
+ Buongiorno gente.
+
+ So che qui sto chiedendo cose mooooooolto antiche e che difficilmente
+qualcuno avrà, ma non si sa mai :-)
+
+ Per quest'anno all'ESC (
+ http://www.endsummercamp.org/index.php?title=End_Summer_Camp ) c'è
+l'intenzione di costruire una BBS (
+ http://it.wikipedia.org/wiki/Bulletin_board_system ) per rievocare i
+fasti dei tempi in cui un modem 56k era pura fantascienza... e che
+subì un duro colpo col cosiddetto "Italian crackdown" (cercatevelo voi
+che io non ne ho voglia).
+
+ Se qualcuno ha qualcosa (dai telefoni ai modem, passando per le
+centraline telefoniche, il software o quant'altro) che possa essere
+usato allo scopo e vuole prestarcelo, mi faccia sapere.
+Ah, naturalmente se avete conoscenze che potrebbero essere iteressate
+alla cosa e/o hanno software, hardware, sanno come funzionano i
+sistemi o altro, sentitevi liberi di estendere l'invito anche a loro.
+
+ Qui potete vedere lo stato dei lavori:
+ http://www.endsummercamp.org/index.php/ESC14-BBS 
+
+ Grazie per l'attenzione e a presto :-)
+
+ Daneel Olivaw
+
+ Brainstorming 
+
+ Una selezione di post dalla ml-fellows e it.comp.retrocomputing 
+
+ 1 - Marco C 
+
+ A parte l'ovvio agremeent sull'altro suggerimento, questo IMNSHO
+varrebbe da solo un bell'articolo/servizio su una
+rivista/televisione seria .... od anche su wired.it ...... 
+
+ 2 -void 
+
+ idea fantastica
+
+ gli unici (di cui sono a conoscenza) ad aver fatto qualcosa simile sono
+stati rhizome.org (ma sono artisti, quindi non vale ;) )
+
+ http://rhizome.org/events/internet-web-preserving-early-networked-cultures/ 
+
+ http://www.theverge.com/2013/3/15/4104494/the-thing-reloaded-bringing-bbs-networks-back-from-the-dead 
+
+ https://archive.org/details/TheInternetBeforeTheWeb 
+
+ segnalo poi: 
+
+ https://archive.org/details/nubi-all-orizzonte 
+
+ e qualche altro materiale su
+
+ http://grafton9.net 
+
+ 3 -Samuele 
+
+ Il discorso era di vedere come funzionavano dal vivo le BBS. Per molti 
+di noi sono soltanto "un modo di connettere i computer prima di 
+internet". Io ad esempio ho potuto mettere le mani su un computer per la 
+prima volta solo alle superiori, giusto 20 anni fà. Il modem (e relativa 
+bolletta) era roba da ricchi o da addetti ai lavori. L'idea era da una 
+parte di vedere come erano fatte dal punto di vista hardware e software, 
+cosa ci si poteva fare e come. Dall'altra, visto che ci sono tra di noi 
+persone che le hanno utilizzate, serebbe bello se avessero qualche 
+aneddoto da raccontare.
+Poi, quest'anno ricade anche l'anniversario del crackdown, quindi magari 
+uno stimolo in più per rievocare quell'epoca terminata in modo così 
+inglorioso.
+
+ Per fare il tutto però c'è soprattutto bisogno di persone attive a quel 
+tempo come SO capaci di mettere su la rete e che abbiano un po' di tempo 
+per farlo. Qualcosa si sta muovendo, bisogna vedere quanto riscontro e 
+voglia di fare salterà fuori.
+
+ 4 -Jeky99 
+
+ (...)
+
+ E se considerassimo quello "apposto" come si dovrebbe procedere?!?!
+Nel senso, so che farà accapponare la pelle ai più.. ma visto che non abbiamo da rincorrere particolari requisiti di velocità, dei semplicissimi ATA VoIP possono fare lo scopo. Ci sono ata con 4 o 8 porte della grandstream che costano relativamente poco, e se davvero riusciamo ad avere X BBS per fare il revival, io sono dispostissimo a sponsorizzarne l'acquisto.
+
+ L'alternativa è un centralino analogico con un po’ di interni analogici.. se qualcuno ne ha uno in cantina.. (naif forse te stavi macerando quello dei tuoi a latina, o era ISDN?)
+
+ Ad ogni modo, io mi potrei far carico delle linee se però qualcuno si fa carico delle BBS!
+Nei miei sogni vedo 4 tendoni all'ESC con 4 cartelli con nomi di città diverse ed i numeri di telefono delle BBS, i numeri di un tempo. un sistema telefonico fittizio con 8/10 linee che permette di far parlare queste BBS sia tra loro sia con gli utenti che desiderano connettersi. Non manca una cabina telefonica/telefono a rotore con lucchetto a disposizione che può ovviamente far raggiungere le BBS a chi sia fornito di accoppiatore acustico!
+
+ Dovrei anche dell'hardware d'annata se può venir buono lo recupero.. ma mi servirebbe almeno una lista delle cose che servono per tirar su una "BBS come una volta". Nel mio sogno sia il software che l'hardware sono autentici e di 20 anni fa... sennò se ci dobbiamo mettere a giocare con gli emulatori, facciamo una APP BBS :((
+
+ Dai cazzo! L'idea è buona, la vogliamo fare sta FIGATA?
+
+ (un balzo indietro di 15 anni e rispolvero il mio Nick :D)
+
+ ...ovviamente nel mio sogno anche l'abbigliamento e le mode sono tornate indietro di 20 anni!
+
+ Vi prego non svegliatemi :S
+
+ 5 -Toni T 
+
+ Il mio uomo-bbs mi ha chiamato oggi che questo weekend si attrezza per verificare il boot del vecchio sistema. Mi ha chiesto anche connetivitià (gli mollerò un centralino PSTN), quindi portatevi un modem se il test che farà passerà :D
+
+ 6 -kirone 
+
+ dovrei avere qualche 486, stato di salute ignoto; anche macchine 
+precedenti (286), sempre da testare
+immagino che gli 8086 siano da escludere, dato che non hanno hdd
+Altrimenti si sale su: pentiumerie varie
+Ovviamente svariati crt
+
+ - vari modem, tra cui un paio di chicche SIP da 1200 o 600 o meno, 
+scatolotti informi (questi ultimi non li ho mai provati...)
+- un accoppiatore acustico, ma è abbinato a un olivetti M10 e integra il 
+modem; il connettore sarebbe seriale rs232c, ma da qui a farlo andare 
+con un pc, non saprei (per l'M10 non credo ci siano sw bbs :D al più 
+funziona da terminale seriale)
+
+ faccio notare che hw così vecchio, rimasto fermo a lungo, ha la tendenza 
+a smettere di funzionare improvvisamente (talvolta con notevoli effetti 
+acustici e pirotecnici (vedi condensatori rifa)) :D
+
+ sul lato retrocomputeristico, posso chiedere su it.comp.retrocomputing 
+se ci sono mezzi/competenze/interesse nell'argomento (l'ultimo sicuramente)
+Circa i mezzi, si può chiedere qualche prestito al museo 
+dell'informatica di PD (credo che il pluto ci collabori, quindi anche 
+loro possono fare da tramite) e forse anche al faber libertatis, sempre 
+di PD (c'è una filiale a marghera)
+
+ riguardo il far funzionare una connessione minitel (in italia videotel) 
+(quelli sono i nomi dei terminali, la connessione è videotex) , oltre ai 
+terminali è necessiario un server il cui sw non so se sia reperibile; 
+cmq, il terminale è un terminale "stupido" a caratteri, difatti certi 
+modelli sono convertiili a terminali seriali
+ http://en.wikipedia.org/wiki/Minitel#Technology 
+
+ Bon, non mi viene in mente altro, sappiatemi dire da che parte devo 
+muovermi :D
+
+ CYA
+
+ 7 -Samuele 
+
+ (...)
+
+ Imho dividerei il lavoro da fare in tre parti:
+
+ - infrastruttura (recupero cavi telefonici + centralino): a meno che non
+avessero particolarità degne di nota le centrali degli anni 80/90 penso
+che un normale centralino analogico vada più che bene; la butto li...
+esiste qualche coso che si possa mettere sui cavi e che disturbi la
+linea? Giusto per rendere più realistico il trasferimento di file da
+pochi KB che si corrompono :-D.
+
+ - hardware: recupero di modem a bassa velocità, accoppiatori acustici e
+pc dotati di porta seriale, cavi seriali ed adattatori vari da 25 a 9 pin;
+
+ - software: qui è dove si è parlato meno di tutto. Che sistemi operativi
+venivano usati? DOS, qualche versione di windows? OS/2? Altro?
+Che software venivano usati lato server? Come client?
+
+ (...)
+
+ 8 -ammammata 
+
+ c'era, se ben ricordo, su un vecchio mc microcomputer, un programma bbs per
+c64... numero intorno al 30-35
+
+ vado a ravanare
+
+ (...)
+
+ uhm... gestione RTTY
+
+ http://www.digitanto.it/mc-online/PDF/Articoli/030_081_085_0.pdf 
+
+ 9 - Massimo S 
+
+ Il software che faceva marciare Fidonet dovrebbe essere ancora
+dispoonibile, se uno ha la pazienza di andarselo a cercare. Mi pare che
+che si chiamasse BlueWave, ma potrei confondermi con qualcos'altro...
+
+ Dubito assai che possa girare sotto Win7, perï¿œ. Probabilmente dovrete
+usare una macchina con FreeDOS.
+Modem e altro hardware si puï¿œ ancora trovare, spesso a pochi euro.
+Bisogna cercarsi pure quello perï¿œ. 
+
+ 10 -nuzzler 
+
+ Blue Wave dovrebbe essere uno dei formati utili per scaricare, da parte dei
+point di un BBS (utenti fidelizzati e piu' esperti), i post delle aree
+messaggi per poterli leggere off-line. Un altro formato dovrebbe essere il
+QWK.
+
+ I BBS hanno sempre tirato forte sugli 8bit Commodore, tantoche' c'erano BBS
+anche italiane su C64 e C128 (ce n'era almeno una su quest'ultimo qui in
+Lombardia), ma gia i VIC20 sono stati dei pionieri negli USA.
+Anche gli Amiga erano ben piazzati nel giro, sia come server BBS (DLG, CNet,
+Max BBS e Zeus, per fare qualche nome) che come client. Il vantaggio del
+software Amiga, come potete immaginare, era legato alla presenza di una
+interfaccia grafica che ne rendeva l'uso molto piu' user friendly rispetto
+a programmi PC come Terminate (usatissimo sia come client che come server,
+sempre se ricordo bene).
+Su Aminet si trova di tutto a riguardo (ci sono varie sezioni apposta) ed
+anche in rete si trovano i sw citati che ora si dovrebbero poter utilizzare
+(piu' o meno) liberamente.
+
+ Per tirare insieme un BBS non serve molto in quanto ad hw e sw: un programma
+server, uno client, due modem e si e' a cavallo (se c'e' la linea). Il
+lavoraccio e' configurarlo (aree file e messaggi, "door" per eventuali
+giochi, livelli, ecc.). Sara' necessario anche darsi una rinfrescata dei
+comanti Hayes AT che sono necessari per configurare via sw i modem.
+Per aggiungere dei point oltre alla configurazione lato server forse basta
+un altro sw client e niente di piu', mentre per ricreare una rete stile
+Fidonet serve smazzarsi un molto di piu' da entrambi i lati, sempre a
+memoria.
+
+ In ogni caso... bei tempi. Tempi d'oro.
+
+ Le riviste di settore erano mensili, ma le notizie che riportavano erano
+comunque vecchie di almeno un altro mese. Le aree Fidonet riducevano il gap
+ad una settimana al massimo. Una risposta (ad esempio su un'are messaggi HW
+Amiga) arrivava in genere in un massimo di tre giorni.
+Chi sgarrava su qualche area messaggi veniva bannato anche per settimane.
+Yeah. :-D
+Ho ancora qualcosa su dischetto, forse proprio in formato Blue Wave o QWK.
+
+ (...)
+
+ Se vi servono dei testi tematici questo e' eccezionale:
+"La bibbia deL modem" di Giorgio Banaudi, Franco Muzzio Editore.
+
+ Non credo sia rintracciabile on-line, ma cercando sul sito del servizio
+bibliotecario nazionale (www.sbn.it) se ne trovano parecchi in giro per
+l'Italia.
+
+ 11 -tn 
+
+ E non dimenticate "Telematicus", la rivista "ufficiale" della rete FidoNet.
+Tutti i 50 numeri qui: http://www.jurassicnews.com/EmerotecaScheda.asp?IDTitolo=6 
+
+ 12 -Marco G 
+
+ Beh, complimenti.
+
+ Tecnicamente, io sono ancora 2:333/1016, poi sono quasi 13 anni che sono
+senza feed, da quando 'giancheese', al tempo 2:333/1, ha chiuso.
+
+ Purtroppo a fine agosto mi sa che sono in ferie con la famiglia... ;(
+Ad ogni modo, giro la cosa a vecchie conoscenze.
+
+ Un suggerimento:
+
+ 1) la mia BBS ï¿œ ancora formalmente attiva perchï¿œ quella ventina di anni fa
+ho scelto di farla sotto linux, e li ï¿œ rimasta.
+Esistono alcune software, almeno di trasporto per linux che, magari non
+ancora pienamnete manutenuti, perï¿œ sono ancora nelle principali distro
+mainstream, vedi ifmail e fidogate.
+
+ 2) le bbs usavano una comunissima connessione terminale, con dei modem, ma
+nulla che non possa oggi essere replicata in telnet/ssh; tecnicamente non
+so quando arduo sia, nel concreto, ma credo che sia possibile attaccare 
+a una seriale di dosbox invece che una seriale vera, un telnet.
+
+ Insomma, giusto per non tagliare fuori tutti... ;-)))
+
+ (...)
+
+ ...e non dimenticare il manuale del modem ,di Frank Stajano:
+
+ https://www.cl.cam.ac.uk/~fms27/manmod/ 
+
+ 13 -BIG 
+
+ A parte il giurassico winqwk che girava sotto w3.11, per i pinguini esiste
+multimail, un lettore in modalita testo simile a lynx che legge i files in
+formato qwk.
+Lo uso tutt'ora quando mi voglio riguardare i vecchi salvataggi che facevo
+allora delle aree che mi interessavano, per la lettura offline (sapete, i
+costi telefonici...).
+
+ Lista della Spesa 
+
+ Infrastruttura 
+
+ (aggiungi voce...)
+
+ ...
+
+ ...
+
+ Hardware 
+
+ (aggiungi voce...)
+
+ ...
+
+ ...
+
+ Software 
+
+ (aggiungi voce...)
+
+ ...
+
+ ...
+
+ Retrieved from " https://endsummercamp.org/index.php?title=ESC14-BBS&oldid=10337 "
+
+ Navigation menu
+
+ Page actions
+
+ Page 
+ Discussion 
+ Read 
+ View source 
+ History 
+
+ Page actions
+
+ Page 
+ Discussion 
+ More 
+ Tools 
+
+ Personal tools
+
+ Log in 
+
+ custom-menu
+
+ Stai visitando l'archivio storico dell'ESC
+
+ ˪ VISITA IL SITO PRINCIPALE! 
+
+ ˪ 2005 
+
+ ˪ 2006 
+
+ ˪ 2007 
+
+ ˪ 2008 
+
+ ˪ 2009 
+
+ ˪ 2010 
+
+ ˪ 2011 
+
+ ˪ 2012 
+
+ ˪ 2013 
+
+ ˪ 2014 
+
+ ˪ 2015 
+
+ ˪ 2016 
+
+ ˪ 2017 
+
+ ˪ 2018 
+
+ ˪ 2019 
+
+ ˪ 2020 
+
+ ˪ 2021 
+
+ ˪ 2022 
+
+ ˪ 2023 
+
+ ˪ 2024 
+
+ Search 
+
+ Navigation
+
+ Main Page 
+ Recent changes 
+ Help 
+
+ Tools
+
+ What links here 
+ Related changes 
+ Special pages 
+ Printable version 
+ Permanent link 
+ Page information 
+
+ This page was last edited on 17 July 2014, at 06:44.
+ Content is available under Attribution-ShareAlike 3.0 Unported unless otherwise noted.
+
+ Privacy policy 
+ About Enter the ESC 
+ Disclaimers

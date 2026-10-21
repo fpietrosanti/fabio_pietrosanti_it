@@ -1,0 +1,515 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-Type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="/favicon.ico">
+
+
+<link rel="stylesheet" type="text/css" href="/sitedesign/standard/style.css">
+<title>wireless (in)security: problemi di (in)sicurezza dell'802.11b by relatori indipendenti area sicurezza :: seminari & workshop :: webbit :: padovafiere :: mostra d'oltremare :: fiera di padova</title>
+<meta name="author" content="Webbit Lab"><meta name="copyright" content="Webbit Lab &copy; 2002">
+<meta name="description" content="Tre giorni non - stop d' incontro dei talenti e delle comunit� del mondo ICT, un evento open in cui appassionati e professonisti condividono conoscenze, progetti e attivit�.">
+<meta name="keywords" content="webbit, web development, web design, amiga, sistemi, new media, e-business, flash art, final cut, it, data, computer, pc, network, server, programming, code, hacking, software, database, open source, unix, linux, bsd, apache, c++, php, html, xml, java, javascript, python, perl, mysql, sql, ooa, ood, oop, nerd">
+</head>
+<body bgcolor="#ffffff"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://web.archive.org/web/20030510054644/http://www.webb.it:80/event/eventview/886/">web.archive.org/web/20030510054644/http://www.webb.it:80/event/eventview/886/</a> · captured 2003-05-10 · scripts removed</div>
+<!-- start:header -->
+<table width="770" border="0" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>
+
+<img src="/images/webbit03/home/home.gif" width="278" height="142" alt="webbit03" border="0" usemap="#home">
+<map name="home">
+<area shape="rect" coords="1,19,241,142" href="/webbit03" alt="webbit03">
+<area shape="poly" coords="0,2,277,1,277,141,243,140,243,15,0,16" href="/webbitpro" alt="webbitpro">
+</map>
+
+</td>
+<td>
+
+
+
+<!-- start:menu:template -->
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+			<td><img src="/images/webbit03/ad_cor_tl.gif" width="8" height="8" alt=""></td>
+			<td class="boxtop"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td>
+			<td><img src="/images/webbit03/ad_cor_tr.gif" width="8" height="8" alt=""></td>
+		</tr>
+		<tr>
+			<td class="boxlft"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td>
+			<td bgcolor="#ffffff" width="100%">
+<!-- start:inner:template -->
+
+<!-- loghi -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td colspan="10"><img src="/images/webbit03/pix.gif" width="1" height="8" border="0" alt=""></td></tr>
+<tr>
+<td>&nbsp;</td><td align="center"><a href="/article/articleview/191"><img src="/images/webbit03/partners/logo_adobe75x25.gif" width="75" height="25" border="0" alt="adobe"></a>
+</td>
+<td>&nbsp;</td><td align="center"><a href="/article/articleview/14"><img src="/images/webbit03/partners/logo_sun.gif" width="68" height="30" border="0" alt="sun"></a>
+</td>
+<td>&nbsp;</td><td align="center"><a href="/article/articleview/618"><img src="/images/webbit03/partners/logo_colt77x27.gif" width="77" height="27" border="0" alt="colt"></a>
+</td>
+<td>&nbsp;</td><td align="center"><a href="/article/articleview/561"><img src="/images/webbit03/partners/logo_netform77x23.gif" width="77" height="23" border="0" alt="netform"></a>
+</td>
+<td>&nbsp;</td><td align="center"><a href="/article/articleview/15"><img src="/images/webbit03/partners/logo_cisco.gif" width="57" height="31" border="0" alt="cisco"></a>
+</td>
+</tr>
+<tr><td colspan="10"><img src="/images/webbit03/pix.gif" width="1" height="8" border="0" alt=""></td></tr>
+<tr>
+<td>&nbsp;</td><td align="center"><a href="/article/articleview/566"><img src="/images/webbit03/partners/logo_mit75x25.gif" width="75" height="25" border="0" alt="mit"></a>
+</td>
+<td>&nbsp;</td><td align="center"><a href="/article/articleview/700"><img src="/images/webbit03/partners/logo_bancaav77x21.gif" width="77" height="21" border="0" alt="bancaav"></a>
+</td>
+<td>&nbsp;</td><td align="center"><a href="/article/articleview/188"><img src="/images/webbit03/partners/logo_m$85x25.gif" width="85" height="25" border="0" alt="microsoft"></a>
+</td>
+<td>&nbsp;</td><td align="center"><a href="/article/articleview/665"><img src="/images/webbit03/partners/logo_corsera75x25.gif" width="75" height="25" border="0" alt="corrieresera"></a>
+</td>
+<td>&nbsp;</td><td align="center"><a href="/article/articleview/199"><img src="/images/webbit03/partners/logo_macro75x26.gif" width="75" height="26" border="0" alt="macromedia"></a>
+</td>
+</tr>
+<tr><td colspan="10" align="right"><div class="menulight">Main Partners</div></td></tr>
+</table>
+<!--/ loghi -->
+
+
+<!-- end:inner:template -->
+			</td>
+			<td class="boxrgt"><img src="/images/webbit03/pix.gif" width="8" height="3" alt=""></td>
+		</tr>
+		<tr>
+			<td><img src="/images/webbit03/ad_cor_bl.gif" width="8" height="8" alt=""></td>
+			<td class="boxbtm"><img src="/images/webbit03/pix.gif" width="10" height="3" alt=""></td>
+			<td><img src="/images/webbit03/ad_cor_br.gif" width="8" height="8" alt=""></td>
+		</tr>
+		<tr>
+			<td colspan="3"><img src="/images/webbit03/pix.gif" width="3" height="10" alt=""></td>
+		</tr>
+	</tbody>
+	</table>
+<!-- end:menu:template -->
+
+
+
+</td>
+</tr>
+</table>
+<!-- end:header -->
+<table width="770" cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+        <tr>
+		<td>
+		</td>
+        <td valign="top">
+
+<!-- start:menu:left -->
+
+<!-- start:menu:template --><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/webbit03/ad_cor_tl.gif" width="8" height="8" alt=""></td><td class="boxtop"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_tr.gif" width="8" height="8" alt=""></td></tr><tr><td class="boxlft"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td bgcolor="#ffffff" width="100%"><!-- start:inner:template --><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#ffffff"><tbody><tr><td colspan="2" class="menulight"><div class="menulight">Webbit 2003</div></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/webbit03" class="menunero" target="_self">Webbit</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/webbitpro" class="menunero" target="_self">WebbitPro</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/articleview/125" class="menunero" target="_self">Come partecipare</a></td></tr></tbody></table><!-- end:inner:template --></td><td class="boxrgt"><img src="/images/webbit03/pix.gif" width="8" height="3" alt=""></td></tr><tr><td><img src="/images/webbit03/ad_cor_bl.gif" width="8" height="8" alt=""></td><td class="boxbtm"><img src="/images/webbit03/pix.gif" width="10" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_br.gif" width="8" height="8" alt=""></td></tr><tr><td colspan="3"><img src="/images/webbit03/pix.gif" width="3" height="10" alt=""></td></tr></tbody></table><!-- end:menu:template --><!-- start:menu:template --><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/webbit03/ad_cor_tl.gif" width="8" height="8" alt=""></td><td class="boxtop"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_tr.gif" width="8" height="8" alt=""></td></tr><tr><td class="boxlft"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td bgcolor="#ffffff" width="100%"><!-- start:inner:template --><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#ffffff"><tbody><tr><td colspan="2" class="menulight"><div class="menulight">Certificazioni</div></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/event/archive/11,11/" class="menunero" target="_self">Elenco</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/articleview/629/" class="menunero" target="_self">Cos'� / Come ci si iscrive</a></td></tr></tbody></table><!-- end:inner:template --></td><td class="boxrgt"><img src="/images/webbit03/pix.gif" width="8" height="3" alt=""></td></tr><tr><td><img src="/images/webbit03/ad_cor_bl.gif" width="8" height="8" alt=""></td><td class="boxbtm"><img src="/images/webbit03/pix.gif" width="10" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_br.gif" width="8" height="8" alt=""></td></tr><tr><td colspan="3"><img src="/images/webbit03/pix.gif" width="3" height="10" alt=""></td></tr></tbody></table><!-- end:menu:template --><!-- start:menu:template --><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/webbit03/ad_cor_tl.gif" width="8" height="8" alt=""></td><td class="boxtop"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_tr.gif" width="8" height="8" alt=""></td></tr><tr><td class="boxlft"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td bgcolor="#ffffff" width="100%"><!-- start:inner:template --><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#ffffff"><tbody><tr><td colspan="2" class="menulight"><div class="menulight">Seminari & Workshop</div></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/event/archive/8,8/" class="menunero" target="_self">Elenco Seminari</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="http://www.webb.it/seminari" class="menunero" target="_blank">Tabellone Seminari</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/event/archive/9,9/" class="menunero" target="_self">Elenco Workshop</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="http://www.webb.it/workshop" class="menunero" target="_blank">Tabellone Workshop</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/articleview/126/" class="menunero" target="_self">Cos'� / Come ci si iscrive</a></td></tr></tbody></table><!-- end:inner:template --></td><td class="boxrgt"><img src="/images/webbit03/pix.gif" width="8" height="3" alt=""></td></tr><tr><td><img src="/images/webbit03/ad_cor_bl.gif" width="8" height="8" alt=""></td><td class="boxbtm"><img src="/images/webbit03/pix.gif" width="10" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_br.gif" width="8" height="8" alt=""></td></tr><tr><td colspan="3"><img src="/images/webbit03/pix.gif" width="3" height="10" alt=""></td></tr></tbody></table><!-- end:menu:template --><!-- start:menu:template --><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/webbit03/ad_cor_tl.gif" width="8" height="8" alt=""></td><td class="boxtop"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_tr.gif" width="8" height="8" alt=""></td></tr><tr><td class="boxlft"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td bgcolor="#ffffff" width="100%"><!-- start:inner:template --><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#ffffff"><tbody><tr><td colspan="2" class="menulight"><div class="menulight">Elenco Aziende e Relatori</div></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/archive/10,20/" class="menunero" target="_self">WebbitPro</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/archive/11,20/" class="menunero" target="_self">WebbitCon</a></td></tr></tbody></table><!-- end:inner:template --></td><td class="boxrgt"><img src="/images/webbit03/pix.gif" width="8" height="3" alt=""></td></tr><tr><td><img src="/images/webbit03/ad_cor_bl.gif" width="8" height="8" alt=""></td><td class="boxbtm"><img src="/images/webbit03/pix.gif" width="10" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_br.gif" width="8" height="8" alt=""></td></tr><tr><td colspan="3"><img src="/images/webbit03/pix.gif" width="3" height="10" alt=""></td></tr></tbody></table><!-- end:menu:template --><!-- start:menu:template --><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/webbit03/ad_cor_tl.gif" width="8" height="8" alt=""></td><td class="boxtop"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_tr.gif" width="8" height="8" alt=""></td></tr><tr><td class="boxlft"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td bgcolor="#ffffff" width="100%"><!-- start:inner:template --><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#ffffff"><tbody><tr><td colspan="2" class="menulight"><div class="menulight">Riservato a Espositori/Relatori</div></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/articleview/123/" class="menunero" target="_self">Il progetto 2003</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/articleview/314/" class="menunero" target="_self">WebbitPro</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/articleview/315/" class="menunero" target="_self">WebbitEdu</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/articleview/313/" class="menunero" target="_self">WebbitCon</a></td></tr></tbody></table><!-- end:inner:template --></td><td class="boxrgt"><img src="/images/webbit03/pix.gif" width="8" height="3" alt=""></td></tr><tr><td><img src="/images/webbit03/ad_cor_bl.gif" width="8" height="8" alt=""></td><td class="boxbtm"><img src="/images/webbit03/pix.gif" width="10" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_br.gif" width="8" height="8" alt=""></td></tr><tr><td colspan="3"><img src="/images/webbit03/pix.gif" width="3" height="10" alt=""></td></tr></tbody></table><!-- end:menu:template --><!-- start:menu:template --><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/webbit03/ad_cor_tl.gif" width="8" height="8" alt=""></td><td class="boxtop"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_tr.gif" width="8" height="8" alt=""></td></tr><tr><td class="boxlft"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td><td bgcolor="#ffffff" width="100%"><!-- start:inner:template --><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#ffffff"><tbody><tr><td colspan="2" class="menulight"><div class="menulight">Extra</div></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/articleview/163/" class="menunero" target="_self">Press</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="javascript:openWindow('http://www.padovafiere.it/pages/ComeArrivare.jsp','_fiera','600','600');" class="menunero" target="_self">Come arrivare</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="javascript:openImage('/images/webbit03/mappe/pianta03.gif','_mappone','mappone','425','567');" class="menunero" target="_self">Mappa quartiere 03</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="/article/articleview/675/" class="menunero" target="_self">Alberghi in Padova</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="http://www.webbitcon.org/article/articleview/533/" class="menunero" target="_blank">Survival Guide & F.A.Q.</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="http://www.webbitcon.org/article/articleview/710/" class="menunero" target="_blank">Presentazioni serali</a></td></tr><tr><td width="5%"><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt=""></td><td><a href="javascript:openResize('/icy/stream','_radio','600','400');" class="menunero" target="_self">Radio Webbit</a></td></tr></tbody></table><!-- end:inner:template --></td><td class="boxrgt"><img src="/images/webbit03/pix.gif" width="8" height="3" alt=""></td></tr><tr><td><img src="/images/webbit03/ad_cor_bl.gif" width="8" height="8" alt=""></td><td class="boxbtm"><img src="/images/webbit03/pix.gif" width="10" height="3" alt=""></td><td><img src="/images/webbit03/ad_cor_br.gif" width="8" height="8" alt=""></td></tr><tr><td colspan="3"><img src="/images/webbit03/pix.gif" width="3" height="10" alt=""></td></tr></tbody></table><!-- end:menu:template -->
+<!-- end:menu:left -->
+
+</td>
+<td></td>
+<td valign="top" align="left">
+
+<!-- start:main -->
+
+<table width="430" border="0" cellpadding="5" cellspacing="2">
+<tbody>
+<tr>
+	<td>
+
+<table width="100%" border="0" cellpadding=3 cellspacing="0"><tr><td class=titolo>Wireless (in)security: Problemi di (in)sicurezza dell'802.11b &nbsp; (886)</td><td align=right><a class=menunero href="#"><img src="/images/back-arrow.gif" height="10" width="12" border="0" alt="Go back"></a></td></tr></table><table border="0" cellspacing="0" cellpadding="2" width="100%"><tr><td colspan=2><span class="private"></span></td></tr></table><table width="100%" cellspacing="0" cellpadding="5" border="0" class="bglight"><tr><td></td><td valign="middle" width="70%">    <a class="path" href="/article/articleview/520">Relatori indipendenti area sicurezza</a></td></tr><tr><td valign="top">Relatore:</td><td width="70%">Yvette Agostini e Fabio Pietrosanti&nbsp;</td></tr><tr><td valign="top">Posti disponibili:</td><td valign="top">17&nbsp;</td></tr><tr><td valign="top">Sala:</td><td valign="top">8B&nbsp;</td></tr><tr><td valign="top">Data :</td><td valign="top">Padova 11.05.03 13:00</td></tr><tr><td valign="top">Categoria :</td><td valign="top">Seminari</td></tr><tr><td valign="top">Area:</td><td valign="top"><img src="/images/webbit/square/eventcategory4.gif" width="10" height="10" border="0" hspace="3" alt="">Hardware-System-Networking<img src="/images/webbit/square/eventcategory13.gif" width="10" height="10" border="0" hspace="3" alt="">Live Streaming (non definitivo)</td></tr><tr><td valign="top">Difficolt&agrave;:</td><td valign="top"><img src="/images/dot.gif" width="10" height="12" border="0" alt=""></td></tr><tr><td valign="top">Dettagli:</td><td valign="top"></td></tr><tr><td colspan=2 valign="top">Durante l'intervento, della durata di un'ora, sara' presentata al pubblico una panoramica dei problemi di sicurezza di wi-fi, in realzione sia allo standard che alla malconfigurazione degli apparati; verranno illustrate le reali possiblita' di attacco e si esporranno i risultati di una ricerca sul wardriving.<br><br>NOTE SUI RELATORI:<br><br>Yvette Agostini e' laureata in ingegneria, sistemista UNIX, segue con passione il tema della diffusione della cultura della sicurezza nelle aziende. <br>Collabora saltuariamente con week.it (Mondadori) e scrive articoli divulgativi su temi di informatica per siti femminili (<a href="http://www.dols.net">www.dols.net</a>). <br><br>Fabio Pietrosanti si interessa di sicurezza informatica dal 1997, professionalmente dal 1999. Collabora con alcune riviste di settore ed e' impegnato nella diffusione della cultura della sicurezza informatica promuovendo e coordinando incontri fra gli addetti al settore e il grande pubblico.&nbsp;</td></tr></table><p><div align="center">| <a class="path" href="/event/eventprint/886/">Printer-friendly version</a> | <a class="path" href="/user/suggest/eventview/886/">Segnala ad un amico</a> |</div><p>
+
+<div class="error">Per iscriverti devi aver fatto <a class=path href="http://www.webb.it/user/login?RedirectURL=/event/eventview/886">LOGIN</a> con username e password</div><h2>Elenco certificazioni collegate al seminario</h2><table width="100%" cellspacing="0" cellpadding="2" border="0"><tr><th width="1%">Cod.</th><th width="10%"></th><th width="30%">Titolo</th><th width="10%">Liv.</th><th width="20%">Data</th></tr><tr><td class="bglight"><a class="menulist" href="/event/eventview/1473/"><b>1473</b></a></td><td class="bglight"><img src="/images/webbit/square/eventcategory4.gif" width="10" height="10" border="0" hspace="1" alt=""></td><td class="bglight"><a class="menulist" href="/event/eventview/1473/"><b>Security in wireless technology</b></a><br>[by <a class="menulist" href="/article/articleview/694" >Week.it</a>]</td><td class="bglight"><img src="/images/dot.gif" width="10" height="12" border="0" alt=""><img src="/images/dot.gif" width="10" height="12" border="0" alt=""><img src="/images/dot.gif" width="10" height="12" border="0" alt=""></td><td class="bglight" height="32">Padova 11.05.03 </td></tr><tr><td class="bgdark"><a class="menulist" href="/event/eventview/1479/"><b>1479</b></a></td><td class="bgdark"><img src="/images/webbit/square/eventcategory5.gif" width="10" height="10" border="0" hspace="1" alt=""></td><td class="bgdark"><a class="menulist" href="/event/eventview/1479/"><b>Wireless: il futuro � gi� qui!</b></a><br>[by <a class="menulist" href="/article/articleview/589" >Editoriale Chip</a>]</td><td class="bgdark"><img src="/images/dot.gif" width="10" height="12" border="0" alt=""><img src="/images/dot.gif" width="10" height="12" border="0" alt=""></td><td class="bgdark" height="32">Padova 11.05.03 </td></tr><tr><td class="bglight"><a class="menulist" href="/event/eventview/1482/"><b>1482</b></a></td><td class="bglight"><img src="/images/webbit/square/eventcategory4.gif" width="10" height="10" border="0" hspace="1" alt=""></td><td class="bglight"><a class="menulist" href="/event/eventview/1482/"><b>Wi-Fi: Starter-Kit and Beyond</b></a><br>[by <a class="menulist" href="/article/articleview/635" >Corriere delle Telecomunicazioni</a>]</td><td class="bglight"><img src="/images/dot.gif" width="10" height="12" border="0" alt=""><img src="/images/dot.gif" width="10" height="12" border="0" alt=""></td><td class="bglight" height="32">Padova 11.05.03 </td></tr><tr><td class="bgdark"><a class="menulist" href="/event/eventview/1687/"><b>1687</b></a></td><td class="bgdark"><img src="/images/webbit/square/eventcategory5.gif" width="10" height="10" border="0" hspace="1" alt=""><img src="/images/webbit/square/eventcategory4.gif" width="10" height="10" border="0" hspace="1" alt=""></td><td class="bgdark"><a class="menulist" href="/event/eventview/1687/"><b>Sviluppo e sicurezza delle reti Wireless</b></a><br>[by <a class="menulist" href="/article/articleview/739" >Internet Magazine</a>]</td><td class="bgdark"><img src="/images/dot.gif" width="10" height="12" border="0" alt=""></td><td class="bgdark" height="32">Padova 11.05.03 </td></tr></table>	</td>
+</tr>
+</tbody>
+</table>
+
+<!-- end:main -->
+
+</td>
+<td>�</td>
+
+<td valign="top">
+
+<!-- start:menu:right -->
+<!-- start:menu:template -->
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+			<td><img src="/images/webbit03/ad_cor_tl.gif" width="8" height="8" alt=""></td>
+			<td class="boxtop"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td>
+			<td><img src="/images/webbit03/ad_cor_tr.gif" width="8" height="8" alt=""></td>
+		</tr>
+		<tr>
+			<td class="boxlft"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td>
+			<td bgcolor="#ffffff" width="100%">
+<!-- start:inner:template -->
+
+    <form method="post" action="/user/login/login/">
+
+<table width="100%" cellspacing="0" cellpadding="2" border="0">
+<!-- inizio -->
+<tr>
+	<td colspan="2">
+	<!-- menuarrow -->
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td width="1%"><img src="/images/webbit03/arrow.gif" width="8" height="8" alt=""></td>
+				<td width="1%"><img src="/images/webbit03/pix.gif" width="8" height="8" alt=""></td>
+				<td class="menulight"><div class="menulight">Nuovo Utente</div></td>
+			</tr>
+		</table>
+	<!-- menuarrow -->
+	</td>
+</tr>
+<!-- fine -->
+
+
+
+
+
+
+
+<tr>
+	<td colspan="2" class="testorossos"><a class="testorossos" href="/user/user/new/">Pre-accredito qui !</a></td>
+</tr>
+
+<tr>
+	<td colspan="2" class="menuspacer">&nbsp;</td>
+</tr>
+
+<!-- inizio -->
+<tr>
+	<td colspan="2">
+	<!-- menuarrow -->
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td width="1%"><img src="/images/webbit03/arrow.gif" width="8" height="8" alt=""></td>
+				<td width="1%"><img src="/images/webbit03/pix.gif" width="8" height="8" alt=""></td>
+				<td class="menulight"><div class="menulight">
+				Login
+				</div></td>
+			</tr>
+		</table>
+	<!-- menuarrow -->
+	</td>
+</tr>
+<!-- fine -->
+
+
+<tr>
+	<td class="menunero">
+	User name:
+	</td>
+	<td class="menunero">
+	Password:
+	</td>
+</tr>
+<tr>
+	<td class="menu">
+	<input type="text" size="6" name="Username"/>
+	</td>
+	<td class="menu">
+	<input type="password" size="6" name="Password" />
+	</td>
+</tr>
+<tr>
+	<td colspan="2">
+	<input class="stdbutton" type="submit" value=" OK ">
+	</td>
+</tr>
+
+<tr>
+	<td colspan="2" class="menuspacer">&nbsp;</td>
+</tr>
+
+
+<tr>
+	<td colspan="2" ><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt="">&nbsp;<a class="menu" href="/user/forgot/">Dimenticata la password ?</a></td>
+</tr>
+
+<tr>
+	<td colspan="2" ><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt="">&nbsp;<a class="menu" href="/static/contact/info">info@webbit</a></td>
+</tr>
+<tr>
+	<td colspan="2" ><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt="">&nbsp;<a class="menu" href="http://rs4.anti-leech.com/spam/spambot_stopper.php">Anti-spam link</a></td>
+</tr>
+<tr>
+	<td colspan="2" ><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt="">&nbsp;<a class="menu" href="http://www.webbitcon.org/" target="_webbitcon">... e il guestbook ?</a></td>
+</tr>
+
+
+
+
+<tr>
+	<td colspan="2" class="menuspacer">&nbsp;</td>
+</tr>
+
+</table>
+<input type="hidden" name="RedirectURL" value="/event/eventview/886">
+</form>
+
+
+<!-- end:inner:template -->
+			</td>
+			<td class="boxrgt"><img src="/images/webbit03/pix.gif" width="8" height="3" alt=""></td>
+		</tr>
+		<tr>
+			<td><img src="/images/webbit03/ad_cor_bl.gif" width="8" height="8" alt=""></td>
+			<td class="boxbtm"><img src="/images/webbit03/pix.gif" width="10" height="3" alt=""></td>
+			<td><img src="/images/webbit03/ad_cor_br.gif" width="8" height="8" alt=""></td>
+		</tr>
+		<tr>
+			<td colspan="3"><img src="/images/webbit03/pix.gif" width="3" height="10" alt=""></td>
+		</tr>
+	</tbody>
+	</table>
+<!-- end:menu:template -->
+
+<!-- start:menu:template -->
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+			<td><img src="/images/webbit03/ad_cor_tl.gif" width="8" height="8" alt=""></td>
+			<td class="boxtop"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td>
+			<td><img src="/images/webbit03/ad_cor_tr.gif" width="8" height="8" alt=""></td>
+		</tr>
+		<tr>
+			<td class="boxlft"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td>
+			<td bgcolor="#ffffff" width="100%">
+<!-- start:inner:template -->
+
+    <table width="100%" cellspacing="0" cellpadding="3" border="0">
+<!-- inizio -->
+<tr>
+	<td colspan="2">
+	<!-- menuarrow -->
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td width="1%"><img src="/images/webbit03/arrow.gif" width="8" height="8" alt=""></td>
+				<td width="1%"><img src="/images/webbit03/pix.gif" width="8" height="8" alt=""></td>
+				<td class="menulight">
+				<div class="menulight">
+				Fast Track
+				</div></td>
+			</tr>
+		</table>
+	<!-- menuarrow -->
+	</td>
+</tr>
+<!-- fine -->
+
+<tr>
+	<td colspan="2">
+	Ricerca per codice di seminari / certificazione / workshop
+	</td>
+</tr>
+
+</table>
+
+
+<form action="/event/archive/" method="post">
+<input type="hidden" name="CategoryID" value="0" />
+<table cellspacing="0" cellpadding="2" border="0" align=center>
+<tr valign=top>
+	<td class="boxtext">
+	<input type="text" size="6" name="SearchText"/>
+	</td>
+	<td>
+	<input class="stdbutton" type="submit" value="GO">
+	</td>
+</tr>
+</table>
+</form>
+
+<table width="100%" cellspacing="0" cellpadding="2" border="0" align=center>
+<tr>
+	<td class="menuspacer">&nbsp;</td>
+</tr>
+<tr>
+	<td>
+	<!-- menuarrow -->
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td width="1%"><img src="/images/webbit03/arrow.gif" width="8" height="8" alt=""></td>
+				<td width="1%"><img src="/images/webbit03/pix.gif" width="8" height="8" alt=""></td>
+				<td class="menulight">
+				<div class="menulight">
+				Scarica gli elenchi
+				</div></td>
+			</tr>
+		</table>
+	<!-- menuarrow -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<img src="/images/xls.gif" width="18" height="18" border="0" alt="">&nbsp;
+	<a class="menu"  href="/event/xls/business/">Solo Business</a>
+	</td>
+</tr>
+<tr>
+	<td>
+	<img src="/images/xls.gif" width="18" height="18" border="0" alt="">&nbsp;
+	<a class="menu"  href="/event/xls/completo/">Completo</a>
+	</td>
+</tr>
+
+<tr>
+	<td>
+	<img src="/images/xls.gif" width="18" height="18" border="0" alt="">&nbsp;
+	<a class="menu"  href="/event/xls/certificazioni/">Certificazioni</a>
+	</td>
+</tr>
+
+<tr>
+	<td class="menuspacer">&nbsp;</td>
+</tr>
+</table>
+
+<!-- end:inner:template -->
+			</td>
+			<td class="boxrgt"><img src="/images/webbit03/pix.gif" width="8" height="3" alt=""></td>
+		</tr>
+		<tr>
+			<td><img src="/images/webbit03/ad_cor_bl.gif" width="8" height="8" alt=""></td>
+			<td class="boxbtm"><img src="/images/webbit03/pix.gif" width="10" height="3" alt=""></td>
+			<td><img src="/images/webbit03/ad_cor_br.gif" width="8" height="8" alt=""></td>
+		</tr>
+		<tr>
+			<td colspan="3"><img src="/images/webbit03/pix.gif" width="3" height="10" alt=""></td>
+		</tr>
+	</tbody>
+	</table>
+<!-- end:menu:template -->
+
+
+
+<!-- start:menu:template -->
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tbody>
+		<tr>
+			<td><img src="/images/webbit03/ad_cor_tl.gif" width="8" height="8" alt=""></td>
+			<td class="boxtop"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td>
+			<td><img src="/images/webbit03/ad_cor_tr.gif" width="8" height="8" alt=""></td>
+		</tr>
+		<tr>
+			<td class="boxlft"><img src="/images/webbit03/pix.gif" width="3" height="3" alt=""></td>
+			<td bgcolor="#ffffff" width="100%">
+<!-- start:inner:template -->
+
+    <table width="100%" cellspacing="0" cellpadding="3" border="0">
+<!-- inizio -->
+<tr>
+	<td colspan="2">
+	<!-- menuarrow -->
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td width="1%"><img src="/images/webbit03/arrow.gif" width="8" height="8" alt=""></td>
+				<td width="1%"><img src="/images/webbit03/pix.gif" width="8" height="8" alt=""></td>
+				<td class="menulight">
+				<div class="menulight">
+				Live Streaming
+				</div></td>
+			</tr>
+		</table>
+	<!-- menuarrow -->
+	</td>
+</tr>
+<!-- fine -->
+
+<tr>
+	<td colspan="2"><a class="menu" href="/article/articleview/841/"><img src="/images/webbit03/r24.gif" width="147" height="91" alt="www.radio24.it" border="0"></a></td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+	radio ufficiale webbit03
+	</td>
+</tr>
+
+<tr>
+	<td colspan="2" ><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt="">&nbsp;<a class="menu" href="javascript:openResize('/icy/stream','_radio','600','400');">Elenco canali attivi</a></td>
+</tr>
+<tr>
+	<td colspan="2" ><img src="/images/webbit03/arrowsm.gif" width="5" height="5" alt="">&nbsp;<a class="menu" href="/radio" target="_radio">Programma completo</a></td>
+</tr>
+
+</table>
+
+
+<!-- end:inner:template -->
+			</td>
+			<td class="boxrgt"><img src="/images/webbit03/pix.gif" width="8" height="3" alt=""></td>
+		</tr>
+		<tr>
+			<td><img src="/images/webbit03/ad_cor_bl.gif" width="8" height="8" alt=""></td>
+			<td class="boxbtm"><img src="/images/webbit03/pix.gif" width="10" height="3" alt=""></td>
+			<td><img src="/images/webbit03/ad_cor_br.gif" width="8" height="8" alt=""></td>
+		</tr>
+		<tr>
+			<td colspan="3"><img src="/images/webbit03/pix.gif" width="3" height="10" alt=""></td>
+		</tr>
+	</tbody>
+	</table>
+<!-- end:menu:template -->
+
+
+
+
+
+<center>
+<p>
+<a href="http://validator.w3.org/check/referer" target="_w3c"><img border="0" src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01!" height="31" width="88"></a>
+</p>
+</center>
+
+<!--
+
+-->
+<!-- end:menu:right -->
+
+</td>
+<td>
+</td>
+</tr>
+<!-- last -->
+
+<tr>
+        <td>
+<img src="/images/webbit03/pix.gif" width="3" height="1" alt="">
+        </td>
+        <td>
+<img src="/images/webbit03/pix.gif" width="140" height="1" alt="">
+        </td>
+        <td>
+<img src="/images/webbit03/pix.gif" width="3" height="1" alt="">
+        </td>
+        <td>
+<img src="/images/webbit03/pix.gif" width="430" height="1" alt="">
+        </td>
+        <td>
+<img src="/images/webbit03/pix.gif" width="3" height="1" alt="">
+        </td>
+        <td>
+<img src="/images/webbit03/pix.gif" width="140" height="1" alt="">
+        </td>
+        <td>
+<img src="/images/webbit03/pix.gif" width="3" height="1" alt="">
+        </td>
+
+        </tr>
+<!-- last -->
+
+</tbody>
+</table>
+
+
+
+</body>
+</html>

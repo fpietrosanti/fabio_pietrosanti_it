@@ -1,0 +1,20 @@
+# Foto - 生物极客闭门论坛, 时光派 7th International Longevity Forum, Shanghai 12/9/2026
+
+Articolo: "高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕" (时光派, WeChat 12/9/2026).
+L'originale mp.weixin.qq.com NON e' stato ottenuto (i link Sogou rimandano alla pagina antispider di weixin.sogou.com; nessun URL mp.weixin trovato via ricerca web).
+Fonte delle foto: ripubblicazione identica dello stesso articolo su Baijiahao (account 时光派健康抗衰, 18/9/2026), https://baijiahao.baidu.com/s?id=1876633550786371641 (copia gia' archiviata in ../ad08bc661e1e/).
+Foto = immagini 67-76 dell'articolo, cioe' la sezione "下午，论坛另设了生物极客闭门论坛" (testo: "开源抗衰数据平台开发者Fabio Pietrosanti"), firma accordo Kelun e premiazione 返老还童大赛. Le immagini hanno il watermark Baijiahao "@时光派健康抗衰".
+Le immagini dell'articolo non hanno didascalie individuali: le identificazioni sono dedotte da slide/testo visibile.
+
+| File | Bytes | Sezione | Descrizione | URL sorgente |
+|---|---|---|---|---|
+| 01.jpg | 107824 | 闭门论坛 | Panoramica della sala del 生物极客闭门论坛 (pubblico e prima fila dei relatori con segnaposto). Fabio: non determinabile (in prima fila c'e' un uomo in camicia bianca con badge rosso simile al relatore della foto 05). | https://pics0.baidu.com/feed/1e30e924b899a901af3192e3f0ec5b690308f568.jpeg@f_auto?token=4a79f78c9c323749f6918cbb40b96d3b |
+| 02.jpg | 138347 | 闭门论坛 | Jose Cordeiro sul palco, slide 'The Three Laws of Sir Arthur C. Clarke' (sottotitoli che lo annunciano). Fabio: no. | https://pics1.baidu.com/feed/4bed2e738bd4b31c6e804ac16aaf766d9f2ff89d.jpeg@f_auto?token=10b402f37502f6b83d27b61595e373b4 |
+| 03.jpg | 85870 | 闭门论坛 | Relatore in t-shirt nera e jeans davanti a slide con loghi di provider AI (ChatGPT, Claude, DeepSeek, Gemini...); corrisponde all'intervento di Dave Pascoe su AI e biohacking. Fabio: no. | https://pics1.baidu.com/feed/023b5bb5c9ea15ce342fcda25b796be13887b2e7.jpeg@f_auto?token=f6839e0f704b0bf063bd9a25942a37d1 |
+| 04.jpg | 108366 | 闭门论坛 | Sala piena; sullo schermo 刘革新 Gexin Liu (presidente Kelun/科伦药业) che parla. Fabio: non determinabile (relatore non visibile in dettaglio). | https://pics1.baidu.com/feed/562c11dfa9ec8a139a06917a1a7ac09da1ecc09d.jpeg@f_auto?token=ddbc203bbf5b8b3faed9db763ab6f731 |
+| 05.jpg | 68993 | 闭门论坛 | Relatore in camicia bianca con microfono davanti alla slide '130+ biomarkers / N = 1 / 0 shared representation layer for protocol & biomarker across people and labs' (tema protocolli+biomarcatori, coerente con '开源抗衰数据平台开发者Fabio Pietrosanti' e con biohack.it). Fabio: probabile per contenuto della slide, ma nessuna didascalia lo nomina esplicitamente. | https://pics7.baidu.com/feed/37d12f2eb9389b5018043a9b684cb4cfe5116e88.jpeg@f_auto?token=bb980d01dcfb4d037209a6d21ea233fe |
+| 06.jpg | 58463 | 闭门论坛 | Brian M. Delaney (BioFutures) al leggio, slide 'OSK gene therapy from mice to primates'. Fabio: no. | https://pics6.baidu.com/feed/7e3e6709c93d70cf9cfe464a16a58012bba12bf9.jpeg@f_auto?token=65643281e0f66b1e6368e5c162048c4d |
+| 07.jpg | 103447 | 闭门论坛 | Sala durante un intervento; slide in cinese sulla gestione della vita/animali domestici ('当动物开始有医保...'). Fabio: non determinabile. | https://pics0.baidu.com/feed/38dbb6fd5266d016fbf006de7a52851537fa35e3.jpeg@f_auto?token=43f8b760c5b9d3e80ebe3f4e6be0769d |
+| 08.jpg | 93644 | 签约 | Firma dell'accordo strategico 科伦永年 & 时光派 (Kelun Yongnian x Timepie), otto persone con striscione. Fabio: no. | https://pics7.baidu.com/feed/37d12f2eb9389b50c0af63646b4cb4cfe6116ec4.jpeg@f_auto?token=83378d7b04f719547c66dd669fa1a236 |
+| 09.jpg | 86148 | 颁奖 | Cerimonia di premiazione del secondo 'Rejuvenation Contest' (返老还童大赛): quattro persone sul palco con attestato. Fabio: no. | https://pics1.baidu.com/feed/9d82d158ccbf6c811e3bd78d5147e02732fa40d7.jpeg@f_auto?token=07af334ebe0c02c7668cab884933cbd1 |
+| 10.jpg | 94645 | 颁奖 | Premiazione del Rejuvenation Contest: vincitori con maxi-assegni (35.000, 50.000, 15.000 RMB). Fabio: no. | https://pics5.baidu.com/feed/6609c93d70cf3bc73f0f1a6b3c79ebb3cc112ab2.jpeg@f_auto?token=b1b60cdfede576292578d735b3d0260f |

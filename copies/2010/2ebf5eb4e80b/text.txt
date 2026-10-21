@@ -1,0 +1,442 @@
+Voice crypto fails spark astroturf claims 
+
+ Jump to main content 
+
+ Search 
+
+ TOPICS
+
+ Security 
+
+ All Security 
+
+ Cyber-crime 
+
+ Patches 
+
+ Research 
+
+ CSO 
+
+ Off-Prem 
+
+ All Off-Prem 
+
+ Edge + IoT 
+
+ Channel 
+
+ PaaS + IaaS 
+
+ SaaS 
+
+ On-Prem 
+
+ All On-Prem 
+
+ Systems 
+
+ Storage 
+
+ Networks 
+
+ HPC 
+
+ Personal Tech 
+
+ Cx0 
+
+ Public Sector 
+
+ Software 
+
+ All Software 
+
+ AI + ML 
+
+ Applications 
+
+ Databases 
+
+ DevOps 
+
+ OSes 
+
+ Virtualization 
+
+ Offbeat 
+
+ All Offbeat 
+
+ Columnists 
+
+ Science 
+
+ BOFH 
+
+ Legal 
+
+ Bootnotes 
+
+ Site News 
+
+ About Us 
+
+ Special Features 
+
+ All Special Features 
+
+ HPE: AI Explainers 
+
+ RSA Conference 
+
+ Agentic AI 
+
+ The Future of the Datacenter 
+
+ AWS:Reinvent 
+
+ Nvidia GTC 
+
+ SC25 
+
+ Supercomputing Month 
+
+ Vendor Voice 
+
+ All Vendor Voice 
+
+ Infinidat 
+
+ Everpure 
+
+ Rubrik 
+
+ Make it real with Capgemini and AWS 
+
+ Money Movement Hub 
+
+ ZTE 
+
+ Nutanix: Scale Kubernetes. Not Chaos. 
+
+ AWS New Horizon 
+
+ Resources 
+
+ Intelligence 
+
+ Webinars & Events 
+
+ Newsletters 
+
+ Search 
+
+ Sign in 
+
+ Datacenter 
+
+ Security 
+
+ Microsoft 
+
+ Amazon 
+
+ Developers 
+
+ Open Source 
+
+ IT Careers 
+
+ Digital Sovereignty 
+
+ Columnists 
+
+ Who, Me? 
+
+ On Call 
+
+ REG AD 
+
+ Security 
+
+ Voice crypto fails spark astroturf claims
+
+ SecurStar denies running dirty tricks marketing campaign
+
+ John Leyden 
+
+ John 
+ Leyden 
+
+ Published 
+ mon 1 Feb 2010 // 15:07 UTC 
+
+ Doubts have arisen about the integrity of supposedly anonymous tests on the security of voice encryption products.
+
+ As previously reported, an "anonymous hacker" called Notrax claims to have defeated 11 out of 15 phone scrambling technologies using the commercially available FlexiSpy wiretapping utility and a 'homemade' Trojan. Notrax published findings from his ongoing work on a blog at infosecurityguard.com .
+
+ Other security watchers were suspicious of what the tests actually proved and whether they were actually a marketing exercise disguised as a security review. News of the tests was publicised last week via a press release issued by SecurStar, the developers of PhoneCrypt, one of only three products and the only software technology to come out clean from the tests.
+
+ REG AD 
+
+ The previously unknown infosecurityguard.com used by Notrax is anonymously registered. Security blogger Fabio Pietrosanti (naif) turned Veronica Mars by baiting a blog post on infosecurityguard.com back to a post on his blog at infosecurity.ch.
+
+ REG AD 
+
+ This meant that when the blog post on infosecurityguard.com was approved the IP address of a machine making the approval was recorded in infosecurity.ch logs. Sure enough this happened, allowing the IP address of the infosecurityguard.com blog to be traced back to SecurStar.
+
+ "This is evidence that the security review made by an anonymous hacker on infosecurityguard.com is in facts a dishonest marketing plan by the SecurStar GmbH to promote their voice crypto product," Pietrosanti writes in a post containing screenshots and evidence to support his conclusion.
+
+ Pietrosanti added in an email to El Reg : "I don't remember in all my life a so irresponsible and dirty marketing trick in the security world, abusing of hackers reputations."
+
+ Asked to comment on this evidence, SecurStar chief exec Wilfried Hafner denied any contact with Notrax. Notrax, he said, must have been using his firm's anonymous browsing service, SurfSolo, to produce the results reported by Pietrosanti.
+
+ Hafner firmly denied suggestions SecureStar had commissioned the research. "If we had done this research we would have published the results ourselves and taken the credit," Hafner told El Reg . "We don't know of Notrax, although it's possible he might have been a tester we gave products to in order to test."
+
+ Notrax's work had only publicised a well-known problem, according to Hafner, the susceptibility of phone encryption technology to viruses (malware). "The difference is he taped the tests and posted a YouTube video," Hafner said.
+
+ Hafner argued more attention ought to be focused on the results of the tests rather than who is behind them. He criticised Pietrosanti for trying to discredit the results of the tests but acknowledged that other criticism of the test methodology being less than objective may have some validity.
+
+ He denied running an astroturfing campaign. "The results were quite favourable. I think that many firms when they see such research would jump on the horse and use it for marketing."
+
+ REG AD 
+
+ SecurStar's decision to use Notrax's research for publicity purposes just days away from the Mobile World Congress has sparked a scrap that has turned personal. Pietrosanti's blog post points out that Hafner was jailed for three years for phone phreaking offences in Germany back in 1994.
+
+ Hafner acknowledged this but said this happened well before he co-founded SecurStar in 2001. "I broke into satellites. It was wrong but it was a long time ago and gave me a solid understanding of security. People are mashing [throwing] dirt to make me and SecurStar look bad, as if we had done something wrong."
+
+ Pietrosanti works for a Swiss firm called Khamsa who make phone encryption software called PrivateGSM and have crypto luminary Phil Zimmermann on the board. Zimmerman's Zfone software was one of the 11 products that failed the test. "This is why he [Pietrosanti] is trying to discredit the tests," Hafner alleged. ®
+
+ security 
+ malware 
+ hacking 
+
+ REG AD 
+
+Software
+
+ NHS code clampdown draws open source backlash
+
+ Plus a petition for the UK Civil Service to go FOSS by default
+
+Security
+
+ The network password was a key plot point in one of the most famous movies of all time
+
+ Fortunately, it was a legit contractor who guessed it
+
+PARTNER CONTENT
+
+ ZTE and China Telecom win GSMA GLOMO "Best Private Network Solution" for EasyOn 5G-A-RobotNet
+
+ Award-winning EasyOn 5G-A-RobotNet integrates connectivity and edge computing to accelerate scalable humanoid robotics
+
+AI
+
+ Chrome silently installs a 4 GB local LLM on your computer
+
+ You did remember to opt out of AI, didn't you?
+
+Software
+
+ Microsoft's bad obsession is showing up in shabby services and slipshod software. Here's proof
+
+ If you can't bother to keep GitHub running, why should we bother with you?
+
+Public Sector
+
+ Home Office seeks three CTOs to keep borders, passports, and core IT ticking
+
+ Roles span eGates, passports, visas, asylum applications, and enterprise services – yours for up to £105K
+
+ MOST POPULAR
+
+ Cyber-crime 
+
+ Taiwan cops say student's radio kit brought bullet trains to a standstill
+
+ AI + ML 
+
+ Brit mathematician lets AI agent loose with credit card – cue password leaks, CAPTCHA chaos and more
+
+ Software 
+
+ Firefox integrates an ad-blocker, but not to block ads
+
+ PaaS + IaaS 
+
+ AWS lets agents drive its virtual cloudy desktops – which could cost 500,000 tokens per click
+
+ Software 
+
+ NHS to close-source hundreds of GitHub repos over AI, security concerns
+
+ EVENTS
+
+ Securing the Untrusted Agentic Development Layer
+
+ Join us to learn how to architect a development environment where your builders and their agents can move fast and securely.
+
+ Toxic Flows: When Your AI Agent Skill Becomes a Supply Chain Attack
+
+ When a developer installs an AI agent skill – granting it access to secured IT resources and data – they make a significant trust decision.
+
+ The Hardware Crunch: How Supply Chain Turbulence Is Forcing a New IT Playbook
+
+ Infrastructure teams are facing a perfect storm: extended hardware lead times, rising costs driven by AI demand, and accelerated platform timelines.
+
+ Identity Resilience: The New Mandate for Cyber Survival
+
+ Join Druva experts for a compelling deep dive into what it takes to build an identity-first recovery strategy in this new threat landscape.
+
+ Identity Resilience: The New Mandate for Cyber Survival
+
+ Join Druva experts for a compelling deep dive into what it takes to build an identity-first recovery strategy in this new threat landscape.
+
+ Unfriendly Followers: The Black Market For Your Identity
+
+ They’ll reveal how attackers use your profile as intel and show you how to make yourself harder to target
+
+ EXPLORE ALL OF OUR EVENTS
+
+ AI 
+
+ Software
+
+ NHS code clampdown draws open source backlash
+
+ Plus a petition for the UK Civil Service to go FOSS by default
+
+ Security
+
+ The network password was a key plot point in one of the most famous movies of all time
+
+ Fortunately, it was a legit contractor who guessed it
+
+ AI + ML
+
+ Chrome silently installs a 4 GB local LLM on your computer
+
+ You did remember to opt out of AI, didn't you?
+
+ Public Sector
+
+ Home Office seeks three CTOs to keep borders, passports, and core IT ticking
+
+ Roles span eGates, passports, visas, asylum applications, and enterprise services – yours for up to £105K
+
+ PaaS + IaaS
+
+ Minister gives Palantir's NHS platform a clean bill of health
+
+ £330M contract defended as value for money despite concerns over IP and lock-in
+
+ Infosec 
+
+ Software
+
+ NHS code clampdown draws open source backlash
+
+ Plus a petition for the UK Civil Service to go FOSS by default
+
+ Security
+
+ The network password was a key plot point in one of the most famous movies of all time
+
+ Fortunately, it was a legit contractor who guessed it
+
+ AI + ML
+
+ Chrome silently installs a 4 GB local LLM on your computer
+
+ You did remember to opt out of AI, didn't you?
+
+ Public Sector
+
+ Home Office seeks three CTOs to keep borders, passports, and core IT ticking
+
+ Roles span eGates, passports, visas, asylum applications, and enterprise services – yours for up to £105K
+
+ PaaS + IaaS
+
+ Minister gives Palantir's NHS platform a clean bill of health
+
+ £330M contract defended as value for money despite concerns over IP and lock-in
+
+ FOSS 
+
+ NHS code clampdown draws open source backlash
+
+ Plus a petition for the UK Civil Service to go FOSS by default
+
+ The network password was a key plot point in one of the most famous movies of all time
+
+ Fortunately, it was a legit contractor who guessed it
+
+ Chrome silently installs a 4 GB local LLM on your computer
+
+ You did remember to opt out of AI, didn't you?
+
+ Home Office seeks three CTOs to keep borders, passports, and core IT ticking
+
+ Roles span eGates, passports, visas, asylum applications, and enterprise services – yours for up to £105K
+
+ Minister gives Palantir's NHS platform a clean bill of health
+
+ £330M contract defended as value for money despite concerns over IP and lock-in
+
+ Neocloud IREN buys OpenStack champion Mirantis
+
+ Former bitcoin miner plans to build an easier cloudy AI on ramp while remaining a friend to FOSS
+
+ FEATURES 
+
+ GNOME may rule Ubuntu Resolute Raccoon, but X.org isn't roadkill yet
+
+ OpenClaw, but in containers: Meet NanoClaw
+
+ Open source registries don't have enough money to implement basic security
+
+ Contain your Windows apps inside Linux Windows
+
+ The Linux mid-life crisis that's an opportunity for Tux-led transformation
+
+ Too much AI for some, too little for others: Why AMD can't win with investors
+
+ How agentic AI can strain modern memory hierarchies
+
+ 'Ralph Wiggum' loop prompts Claude to vibe-clone commercial software for $10 an hour
+
+ How one developer used Claude to build a memory-safe extension of C
+
+ No one talking about a datacenter could be a sign one is coming
+
+ ✕ 
+
+ Biting the hand that feeds IT
+
+ About Us
+
+ Contact us 
+ Advertise with us 
+ Who we are 
+
+ Our Websites
+
+ The Next Platform 
+ DevClass 
+ Blocks and Files 
+ Situation Publishing 
+
+ Your Privacy
+
+ Cookies Policy 
+ Privacy Policy 
+ Ts & Cs 
+ Do not share my personal information 
+ Your Consent Options 
+
+ Archives 27 years of articles 
+
+ Copyright. All rights reserved © 1998-2026.

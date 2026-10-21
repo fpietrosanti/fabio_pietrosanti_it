@@ -1,0 +1,270 @@
+With WikiLeaks On Ice, What Has Happened To All Those Digital Whistle-Blowers? 
+
+ Accessibility links
+
+ Skip to main content 
+
+ Skip to main Navigation 
+
+ Skip to Search 
+
+ Close 
+
+ Previous 
+
+ Next 
+
+ Gallery: 
+
+ Print Options:
+
+ Images 
+
+ Multimedia 
+
+ Embedded Content 
+
+ Comments 
+
+ Cancel 
+
+ Print 
+
+ toggle search input 
+
+ toggle main navigation 
+
+ All RFE/RL sites 
+
+ Search 
+
+ Search 
+
+ Search 
+
+Russia
+
+ Russia 
+
+ Tatar-Bashkir 
+
+ North Caucasus 
+
+ Iran 
+
+Central Asia
+
+ Kazakhstan 
+
+ Kyrgyzstan 
+
+ Tajikistan 
+
+ Turkmenistan 
+
+ Uzbekistan 
+
+Caucasus
+
+ Armenia 
+
+ Azerbaijan 
+
+ Georgia 
+
+South Asia
+
+ Afghanistan 
+
+ Pakistan 
+
+Balkans
+
+ Bosnia 
+
+ Kosovo 
+
+ Macedonia 
+
+ Montenegro 
+
+ Serbia 
+
+East Europe
+
+ Belarus 
+
+ Moldova 
+
+ Ukraine 
+
+ Visuals 
+
+ Pressroom 
+
+ About 
+
+ More 
+
+ Search 
+
+ Search 
+
+ Previous 
+
+ Next 
+
+ Breaking News 
+
+ Tangled Web 
+
+With WikiLeaks On Ice, What Has Happened To All Those Digital Whistle-Blowers?
+
+August 24, 2012 09:39 GMT
+
+ Share 
+
+With WikiLeaks On Ice, What Has Happened To All Those Digital Whistle-Blowers?
+
+ share 
+
+ See comments 
+
+ Print 
+
+It is hard sometimes to divide the story of Julian Assange from that of WikiLeaks. But once upon a time, before Bradley Manning, the rape allegations, the house arrest, the TV show on RT, and then the Ecuador gambit, WikiLeaks, as an organization and as an idea, was brimming with promise. For many, the age of the anonymous digital whistle-blower was the dawn of a bright new era of radical transparency.
+
+WikiLeaks was just the beginning. Whatever you might think of Assange, it was the game-changer and it spawned a multitude of clones. Expectations about the potential of digital whistle-blowing were sky high. A bevy of decentralized organizations, many of them stateless and thus hard to act against in a technical or legal capacity, would spring up. These organizations were of the Internet and thus able to bypass and route around the efforts of censoring governments and corporations.
+
+And sure enough, a slew of WikiLeaks clones followed, many of them in more specialized markets: BalkanLeaks, Enviroleaks, MagyarLeaks. Mainstream media outlets -- who had sometimes turned their noses up at Assange's methods -- tried their hands at building their own dropboxes for anonymous leakers.
+
+Journalists expected bounties (how hard can it be, right?), some activists expected regimes to fall, and openness advocates looked to a brave new world where the power of the leak (or at least the threat of a leak) would keep governments and corporations in check. 
+
+But it never quite happened like that. Many of the digital-whistle-blowing projects, the WikiLeaks clones, are either dead or dormant and efforts to create secure and anonymous dropboxes have floundered.
+
+The possibly exaggerated claims of radical transparency were taken on in a paper by Alasdair Roberts , an academic at Suffolk University Law School in Boston. He wrote that "Advocates of WikiLeaks have overstated the scale and significance of the leaks. They also overlook many ways in which the simple logic of radical transparency -- leak, publish, and wait for the inevitable outrage -- can be defeated in practice."
+
+There was always plenty of techno-determinism and Internet-centrism in the WikiLeaks-era notions of radical transparency: just engineer a secure solution and they will leak.
+
+ The novelty, it is argued, is that technological change has eliminated many of the practical barriers to executing this program -- because digitized information is easier to leak; because appropriately designed technologies can protect the anonymity of leakers; because the Internet allows the instantaneous and universal sharing of information, and perhaps also because it is easier to mobilize outraged citizens. 
+
+But actually those technological solutions to ensure a leaker couldn’t be traced were much harder than perhaps anticipated, especially under the watchful and scrutinous eyes of ever-vigilant privacy and security researchers.
+
+A former WikiLeaker, Daniel Domscheit-Berg, test-launched OpenLeaks in 2011 and asked 3,000 hackers to test its systems, but over 18 months later there is still no active submission system. "The Wall Street Journal's" SafeHouse, its WikiLeaks-style submissions site, was widely criticized by security researchers for its holes. 
+
+Public Intelligence, a site that relies on some leaked documents, has disabled its submissions system "following a recent intrusion into our server." They add, "Submissions will resume when we are confident that the information can be handled in a secure manner." Looking down a list of whistle-blowing sites in the Leak Directory , many of the sites are dormant or defunct.
+
+"A truly anonymous electronic dropbox is a very hard problem in computer science terms, particularly if you wanted to make it open-source code,” says Suelette Dreyfus, an academic and expert in digital whistle-blowing.
+
+It's also expensive. “My back of the envelope estimate based on discussions with technical experts in the area is that it would take close to $1 million to do it properly, and probably at least 6-12 months -- with no absolute guarantee it would work," Dreyfus says.
+
+"That's to make a highly portable, free open-source software version of a drop box, publicly available and easy to use for any NGO or news organization," she says. "You'd need a project manager who understands journalism, leaks, the NGO world, and technical people. And you'd need a really trusted team of programming experts, who are likely to be scattered around the globe. It's a hard, hard task.”
+
+One of those organizations striving to make an open-source secure dropbox is GlobaLeaks . Their project aims to make a suite of software available to organizations who want to set up and maintain a whistle-blowing platform. According to Fabio Pietrosanti, one of GlobaLeaks' developers, the goal is to lower the entrance barrier to people wanting to set up whistle-blowing platforms.
+
+"Our goal is to allow anyone with political motivation willing to start a whistle-blowing initiative not to be dependent on a technician's skills to set up a safe drop box," Pietrosanti says.
+
+"We need to reach a point where setting up a whistle-blowing initiative will require only determination and management skills by using easy-to-use GlobaLeaks software, doing publishing through [the] Tor2web network, leveraging public visibility through social networks, Facebook, Twitter, and cloud tools (hosted blogs)," Pietrosanti says.
+
+But for other whistle-blowing practitioners, the idea of a secure and anonymous drop box is a chimera, a techno-solve-all that would do for transparency what tablets were supposed to do for magazines' business models.
+
+John Young, who runs the Cryptome website, which hosts leaked documents, says that the open-source drop boxes out there are "evanescent, variable, deceptive, self-serving, and none are risk-free."
+
+While the digitization of data has made it much easier to copy, share, and publish, it has also made it easier for people to snoop on what we are sharing. Aaron Caplan , an associate professor at Loyola Law School in Los Angeles, wrote:
+
+ For every exchange of data over the Internet, be it via e-mail or by viewing a website, a trail of metadata is automatically logged that includes, among other things, the IP addresses of the computers involved. In many ways, it is easier to be an anonymous tipster using older media, such as oral communication, an unmarked envelope, or a phone call on a landline. The Internet makes it far easier than before for law enforcement to attribute communications to particular speakers and listeners -- including communications between sources and journalists. 
+
+With these risks in mind, many of those working in the digital whistle-blowing community are increasingly aware that offering fail-safe anonymity and protection is misleading. Whistle-blowing practitioners have realized they have a responsibility to educate potential leakers in the art of anonymity, rather than promising that they will do it for them.
+
+Claudio Agosti, a developer with the GlobaLeaks project, says: "We, as information and privacy experts, have analyzed the requirements from the security point of view, therefore what we're aiming for is not just software, but a wider project also involving advocacy in personal security for dealing with sensitive documents."
+
+That could mean just advising potential leakers to use the Tor anonymizing software or putting together guides that will help whistle-blowers stay safe.
+
+"We advise sources to protect themselves, that we cannot do that nor can any other outlet," says Cryptome's Young. "Promised protection and security is always fraudulent, either by design or by ignorance. This is not limited to disclosures but covers all forms of security from national to personal."
+
+Security is only one of the challenges that digital whistle-blowing sites face. There is the potential political pressure from governments or litigious corporations. Another is the legal risks of hosting such information or being cut loose by service providers, just as WikiLeaks was when Amazon and PayPal withdrew their services. Opponents could easily try to get a site shut down, for example by flooding it with child pornography.
+
+With sometimes mammoth data dumps, dividing the wheat from the chaff is a laborious task that often requires teams of people who know what they are looking for (much as "The Guardian" used its beat reporters to drill down into the leaked cables). Analysis, verification, and packaging takes time and expertise and can be costly for organizations on shoestring budgets who often have little experience in navigating the myriad logistical, legal, and technical minefields.
+
+“Most of them are run on the smell of an oily rag. They are largely volunteer sites that struggle to cover expenses and don't pay a salary. Many won't accept government money in order to remain independent," Dreyfus says. With media organizations facing budget cuts and with NGO funding at rock bottom it's possible that -- after the enthusiasm surrounding WikiLeaks has died down -- whistle-blowing platforms will increasingly be seen as indulgences.
+
+But despite the many stalled or dormant whistle-blowing projects, Dreyfus, who worked with Julian Assange on "Underground," a seminal book on hacking culture, is sanguine about the future of online whistle-blowing sites.
+
+“The sites have actually succeeded a good deal more than I expected on the whole. The fact that so many sprang up and so many are still standing (if moving slowly) -- and many are still active -- is a testimony to success, not failure, on this front,” she says.
+
+There is much focus on large generic leak sites, such as WikiLeaks, but the success stories are often found in sites serving more niche communities. “This means that even if they are breaking good stories, you may not hear about it," Dreyfus says, "because they target a specific and sometimes quite narrow community."
+
+For example, she says that Balkanleaks.org broke a story about a government prosecutor accused of money laundering, "but if you don't read Russian or Bulgarian, chances are you haven't read it."
+
+"Similarly Enviroleaks published a piece on a controversial dam in Brazil," Dreyfus says. "Again, if you're not up on environmental issues or on Brazilian news you may not have seen this."
+
+A decentralized, sometimes chaotic future is likely what's in store for digital-whistle-blowing initiatives. As Cryptome’s Young says, "multiplicity diffuses targetability." The prominence and centrality of WikiLeaks might well be the exception to the rule. Another model for the future might be the hacktivist collective Anonymous, with its loose ties and culture that (at least in public) shuns leadership. Last year, Anonymous leaked e-mails from Stratfor, a global security firm, after hacking into the company's servers.
+
+In December 2012, Anonymous activists are launching TYLER , which it describes as "WikiLeaks on steroids." In a promotional video, the activists said that "TYLER is a massively distributed and decentralized Wikipedia-style P2P cipherspace structure impregnable to censorship. TYLER will improve where WikiLeaks could not."
+
+There is certainly no lack of desire among the public for secrets to be spilled. In Australia, Griffith University and the University of Melbourne are running an international survey about attitudes toward whistle-blowing. The first stage of the survey, which Dreyfus is involved with, found that support for whistle-blowing in Australia is strong, with 87 percent of Australians believing that whistle-blowers should be able to go to the media. Whistle-blowers and leakers, with all their subterfuge, tend to generate headlines, but as GlobaLeaks’ Pietrosanti points out, whistle-blowing is just one part -- a radical part, perhaps -- of a larger transparency movement comprising initiatives such as OpenData and OpenGov.
+
+Just as the entertainment industry has been engaged in an often futile game of whack-a-mole with torrent sites and peer-to-peer networks, secretive governments and corporations will likely experience the same struggle against a raft of whistle-blowers in different guises who, unlike WikiLeaks, will gain their strength from decentralization and relative obscurity.
+
+Your opinion
+
+Show comments
+
+Loading comments...
+
+ Back to top 
+
+Follow Us
+
+Quick Hits
+
+ About RFE/RL 
+
+ Contact Us 
+
+ Press Room 
+
+ Terms Of Use 
+
+ Jobs 
+
+ U.S. Agency For Global Media 
+
+ Legal 
+
+Browse
+
+ News 
+
+ Features 
+
+ Blogs 
+
+ Multimedia 
+
+ RFE/RL Newsline (Jan 2000-May 2008) 
+
+ Analytical Reports (Jan 2000-June 2008) 
+
+ Radio Free Europe/Radio Liberty © 2018 RFE/RL, Inc. All Rights Reserved.
+
+ To comment on a portion of text or report a mistake or typo, select the text in the article and press Ctrl + Enter (or click here )
+
+ XS
+
+ SM
+
+ MD
+
+ LG
+
+ Send us your feedback
+
+ Cancel 
+
+ The selected text has limit of 300 characters
+
+Your feedback here
+ * 
+
+ Send

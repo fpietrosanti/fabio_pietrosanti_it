@@ -1,0 +1,284 @@
+ZRTP Voice Encryption is Finally a Standard RFC 
+
+ Search: 
+
+ Front Page  | 
+
+ Blog Posts  | 
+ Downloads  | 
+ Videos  | 
+ From the Web  | 
+
+ Forums  | 
+ Free Tools  | 
+ Breaches 
+  | 
+ Vulnerabilities 
+
+-->
+
+ Login  | 
+ Register for Free 
+
+--> 
+
+ ZRTP Voice Encryption is Finally a Standard RFC
+
+ Thursday, April 14, 2011 
+
+ Contributed By: 
+
+ Fabio Pietrosanti 
+
+ Finally ZRTP has been assigned an official RFC assignment, RFC6189 ZRTP: Media Path Key Agreement for Unicast Secure RTP.
+
+It had as a dependency the SRTP with AES key size of 256bit that now has been defined as RFC6188 .
+
+It's exciting to see the RFC finally released, as it's an important milestone to set ZRTP as the official standard for end-to-end encryption much like PGP has been for emails.
+
+Now any organization in the world will be officially able to implement ZRTP for end-to-end protocol voice encryption.
+
+Currently 3 different public implementations of ZRTP protocol exists: 
+ Philip Zimmermann's LibZRTP (c code)
+ PrivateWave's ZORG (c++ code / Java code)
+ GNU Telephony ZRTP (c++ code / Java code)
+ Each of them provide different features of the protocol, but most importantly are known to be interoperable. 
+ A new wave is coming to the voice encryption world, erupting to fill a gray area where most of the companies doing phone encryption systems have been implementing custom encryption.
+
+Now a standard has been setup and there are few reasons left to continue implementing something different.
+
+Hurray to Mr. Zimmermann and all in the community of companies (like PrivateWave ) and individuals (like Werner Dittmann ) that worked on it.
+ Today is a great day, as this technology is now official and available with multiple existing implementations.
+ Philip, you did it again, my compliments to your pure spirit and determination :-)
+Now there are no more excuses to keep voice 'crypto systems' closed. 
+
+ Share This! 
+ | 
+
+ Possibly Related Articles:
+
+ Top Six Misconceptions About IPv6 Adoption 
+
+ Another New AES Attack 
+
+ Beware of Erasure Problems on SSD Drives 
+
+ It’s ‘Defense in Depth’, not ‘Dense in Depth’ 
+
+ The History Behind EIGRP 
+
+ Rating: 
+
+ --> 
+
+ Views: 
+
+ 1419 
+
+ Categories: 
+
+ General 
+
+ Industries: 
+
+ Information Security 
+
+ Tags: 
+
+ Encryption VoIP Protocols E2EE ZRTP 
+
+ Post Rating: 
+
+ Currently rated 5 star(s) on 5 
+ Rate it 1 stars 
+ Rate it 2 stars 
+ Rate it 3 stars 
+ Rate it 4 stars 
+ Rate it 5 stars 
+
+ (Rate this Post) 
+
+ Comments: 
+
+ You Must Register or Login to Comment
+
+The views expressed in this post are the opinions of the Infosec Island member that posted this content. Infosec Island is not responsible for the content or messaging of this post. 
+
+ Unauthorized reproduction of this article (in part or in whole) is prohibited without the express written permission of Infosec Island and the Infosec Island member that posted this content--this includes using our RSS feed for any purpose other than personal use. 
+
+   Most Popular 
+
+ Was Iran's Downing of RQ-170 Related to the Malware Infection at Creech AFB? 
+
+ DDoS: The Message is Often Lost in the Noise 
+
+ How to Recover a Hacked Facebook Account 
+
+ Five Key Aspects of a Good Infosec Risk Assessment 
+
+ The War Over SCADA - An Insider's Perspective 
+
+ Latest Member Comments 
+
+ " Jeff, read this. 
+
+http://www.flightglobal.com/blogs/the-dewline/2011/12/avtobaza-irans-weapon-in-rq-17.html?utm_source=twitterfeed&am... " 
+
+ Was Iran's Downing of RQ-170 Related to the ... 
+
+ Krypt3ia on 12-05-2011 
+
+ " ... That is.. IF this happened at all like they say it did. Could be we just lost control and it fell out of the sky. " 
+
+ Was Iran's Downing of RQ-170 Related to the ... 
+
+ Krypt3ia on 12-05-2011 
+
+ " Jeff, 
+I doubt any malware was involved. They likely used just RF and similar if not the same software packages. Remember, this is the ... " 
+
+ Was Iran's Downing of RQ-170 Related to the ... 
+
+ Krypt3ia on 12-05-2011 
+
+ " "The entire thing is probably bullfrak." Why? Read @pr0f_srs' reflection on Bumgarner's claims: http://pastebin.com/Dp08VhT2 " 
+
+ Researcher Traces Stuxnet/Duqu Timeline Back... 
+
+ Matthijs R. Koot on 12-03-2011 
+
+   Latest Posts 
+
+ Android Apps Violate Permissions - But Who Cares, Right? 
+
+ RSA Hack Analysis: Windows DEP Not Enabled 
+
+ Getting Past Security's Fuzzy Math ROI 
+
+ HP Printer Hack Video Shows Sensitive Data Tweet Too 
+
+ Run POST Modules On All Sessions 
+
+ Is the Security Response System for SCADA-ICS Broken? 
+
+ Mobile App Makers Must Protect Children’s Privacy 
+
+ NICE Seeks Feedback on Cybersecurity Workforce Framework 
+
+ Top Ten Password Cracking Methods 
+
+ Gleg Releases Version 1.8 of the SCADA+ Exploit Pack 
+
+ Latest Survey Results:
+
+ What is the value of large security conventions?
+
+ Popular Topics 
+
+ Anonymous   
+ Application Security   
+ Attacks   
+ Authentication   
+ China   
+ Cloud Computing   
+ Cloud Security   
+ Compliance   
+ Cyber Crime   
+ Cyber Security   
+ Data Loss Prevention   
+ Encryption   
+ Enterprise Security   
+ Facebook   
+ Government   
+ Hacking   
+ Hacktivist   
+ Headlines   
+ Identity Theft   
+ Information Security   
+ Infosec   
+ Legal   
+ Mobile Devices   
+ National Security   
+ Network Security   
+ PCI DSS   
+ Passwords   
+ Privacy   
+ SCADA   
+ Security   
+ Security Awareness   
+ Stuxnet   
+ Training   
+ Vulnerabilities   
+ breach   
+ breaches   
+ fraud   
+ hackers   
+ malware   
+ report   
+
+ --!> 
+
+--> 
+
+ Categories 
+
+ Cloud Computing ( 1 ) 
+
+ Compliance ( 3 ) 
+
+ Database Security ( 1 ) 
+
+ Encryption ( 1 ) 
+
+ Infosec Island News ( 1 ) 
+
+ Network Security ( 4 ) 
+
+ OS & Software ( 3 ) 
+
+ Security Management ( 5 ) 
+
+ Social Engineering ( 4 ) 
+
+ Vulns & Alerts ( 3 ) 
+
+ Web App Security ( 3 ) 
+
+ Wireless Security ( 2 ) 
+
+ Industries 
+
+ Education ( 3 ) 
+
+ Financial ( 3 ) 
+
+ Government ( 4 ) 
+
+ Healthcare ( 2 ) 
+
+ Legal ( 1 ) 
+
+ Manufacturing ( 0 ) 
+
+ Technology ( 6 ) 
+
+Infosec Island is community-supported. 
+
+Please donate to show your appreciation and to help keep us up and running with new content and ways to interact. 
+
+ Forum Categories 
+
+ --> 
+
+ Home  | 
+ Articles  | 
+ Downloads  | 
+ Blog Posts  | 
+ Contact Us  | 
+ Register for Free  | 
+ About Us  | 
+ Advertise  | 
+
+ Privacy 
+
+ Copyright © 2009 - 2011 Infosec Island, LLC. All rights reserved.

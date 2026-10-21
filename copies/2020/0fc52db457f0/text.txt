@@ -1,0 +1,440 @@
+Documentare e re-integrare tutte le modifiche di partecipa.gov.it di Decidim nel main branch del progetto · Issue #2 · dipartimentofunzionepubblica/partecipa · GitHub 
+
+ Skip to content 
+
+ Sign up
+
+ Product
+
+ Features
+
+ Mobile
+
+ Actions
+
+ Codespaces
+
+ Copilot
+
+ Packages
+
+ Security
+
+ Code review
+
+ Issues
+
+ Discussions
+
+ Integrations
+
+ GitHub Sponsors
+
+ Customer stories
+
+ Team 
+
+ Enterprise 
+
+ Explore
+
+ Explore GitHub
+
+ Learn and contribute
+
+ Topics
+
+ Collections
+
+ Trending
+
+ Skills
+
+ GitHub Sponsors
+
+ Open source guides
+
+ Connect with others
+
+ The ReadME Project
+
+ Events
+
+ Community forum
+
+ GitHub Education
+
+ GitHub Stars program
+
+ Marketplace 
+
+ Pricing
+
+ Plans
+
+ Compare plans
+
+ Contact Sales
+
+ Education
+
+ --> 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ No suggested jump to results 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ In this organization
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ In this repository
+
+ All GitHub
+
+ ↵ 
+
+ Jump to
+ ↵ 
+
+ Sign in
+
+ Sign up
+
+ {{ message }}
+
+ dipartimentofunzionepubblica 
+
+ / 
+
+ partecipa 
+
+ Public 
+
+ Notifications
+
+ Fork
+ 2 
+
+ Star
+ 6 
+
+ Code 
+
+ Issues 
+ 1 
+
+ Pull requests 
+ 0 
+
+ Actions 
+
+ Projects 
+ 0 
+
+ Security 
+
+ Insights 
+
+ More 
+
+ Code
+
+ Issues
+
+ Pull requests
+
+ Actions
+
+ Projects
+
+ Security
+
+ Insights
+
+ New issue
+
+ Have a question about this project? Sign up for a free GitHub account to open an issue and contact its maintainers and the community.
+
+ --> 
+ Pick a username 
+
+ Email Address 
+
+ Password 
+
+ Sign up for GitHub
+
+ By clicking “Sign up for GitHub”, you agree to our terms of service and
+ privacy statement . We’ll occasionally send you account related emails.
+
+ Already on GitHub?
+ Sign in 
+ to your account
+
+ Jump to bottom 
+
+ Documentare e re-integrare tutte le modifiche di partecipa.gov.it di Decidim nel main branch del progetto 
+ #2 
+
+ Closed
+
+ fpietrosanti opened this issue
+ Oct 2, 2020 
+· 3 comments
+
+ Closed
+
+ Documentare e re-integrare tutte le modifiche di partecipa.gov.it di Decidim nel main branch del progetto
+
+ #2 
+
+ fpietrosanti opened this issue
+ Oct 2, 2020 
+· 3 comments
+
+ Comments
+
+ Copy link
+
+ fpietrosanti 
+
+ commented
+
+ Oct 2, 2020 
+
+ Secondo quanto previsto dalla linee guida di acquisizione e riuso del software nella pubblica amministrazione, questo ticket è per completare lo sviluppo re-integrando tutte le modifiche apportate al progetto all'interno del Decidim principale.
+
+ E' stato aperto un item di roadmap apposito su
+
+ https://meta.decidim.org/processes/roadmap/f/122/proposals/15706 
+
+ Per tale attività è possibile partecipare ed aderire alla comunità Decidiamo!, comunità Italian di Decidim https://decidiamo.it 
+
+ The text was updated successfully, but these errors were encountered:
+
+ ❤️ 
+ 1 
+ olistik reacted with heart emoji 
+
+ All reactions
+
+ ❤️ 
+ 1 reaction 
+
+ --> 
+
+ bhack 
+
+ mentioned this issue
+
+ Oct 3, 2020 
+
+ Integrate Flutter to works with Decidim Backend, instead of Rousseau
+ associazione-rousseau/camelot-flutter#170 
+
+ Open
+
+ Copy link
+
+ Collaborator
+
+ maintainer-partecipa 
+
+ commented
+
+ Nov 30, 2020 
+
+ L’implementazione della autenticazione Spid si inquadra nelle specifiche del progetto ParteciPa, che integra e modifica Decidim ad uso specifico del Governo italiano, nel pieno rispetto di quanto previsto dalla licenza di Decidim. Il progetto ParteciPa non prevede di contribuire allo sviluppo del progetto Decidim; i due progetti rimangono separati ed indipendenti, con l’unico punto di contatto dato dal fatto che ParteciPa è basato sul riuso di Decidim. Nel caso si voglia modificare, sviluppare e contribuire a Decidim è possibile farlo liberamente aderendo alle regole di sviluppo del progetto, dopo aver contattato i responsabili dello stesso.
+
+ All reactions
+
+ --> 
+
+ Sorry, something went wrong.
+
+ Copy link
+
+ Author 
+
+ fpietrosanti 
+
+ commented
+
+ Nov 30, 2020 
+
+ Il progetto ParteciPa non prevede di contribuire allo sviluppo del progetto Decidim; i due progetti rimangono separati ed indipendenti, con l’unico punto di contatto dato dal fatto che ParteciPa è basato sul riuso di Decidim.
+
+ Quanto su affermato è in netta contrapposizione alle Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni.
+
+ In particolare l'amministrazione con il progetto ParteciPa, si trova ad operare in contrasto con una molteplicità di punti previsti dall'Allegato D: "Guida alla presa in riuso di software open source" nella sezione "Interazione con il maintainer del progetto originale" al successivo punto OBBLIGATORIO (cioè MUST):
+
+"- Al termine dello sviluppo, l’Incaricato è tenuto a proporre al maintainer originale le proprie modifiche (MUST), con delle proposte di codice (pull request) granulari, ovvero distinte per singole funzionalità in modo da consentire al maintainer di valutarle singolarmente."
+
+ Tale mancanza può a tutti gli effetti rappresentare la determinazione di un danno erariale, per mancata soddisfazione dei requisiti normativi-procedurali di riuso.
+
+ Ravvedendo una pluralità di ulteriori mancanze, sulle quali l'ente nella sua funzione preposta può intervenire, si riporta in seguito una analisi delle non-compliance rispetto al dettame regolatorio su indicato:
+
+ NON RISULTA DOCUMENTAZIONE DA CUI SI POSSA EVINCERE COMPLIANCE:
+
+ laddove il software originale preveda un meccanismo di plugin le nuove funzionalità dovranno (MUST) essere sviluppate sotto forma di plugin senza modificare il core (ad esempio, nel caso di un Content Management System);
+
+ laddove sia possibile estendere le classi o in generale moduli esistenti senza modificarne il codice (cioè per aggiunta, sfruttando punti di estensione esistenti), è necessario (MUST) seguire questa strada.
+
+ NON COMPLIANCE:
+
+ ogni intervento deve essere un miglioramento e deve essere concepito in modo che possa essere recepito come contributo da parte dei maintainer del software originale (SHOULD).
+
+ Il repository pubblicato dovrebbe (SHOULD) contenere tutta la storia delle modifiche dei “code commit” che l’Incaricato ha effettuato durante il processo di sviluppo, preservando lo storico dell’operato dell’attività di sviluppo, necessario e utile a tutti gli sviluppatori che vorranno contribuire per ridurre la curva di apprendimento.
+
+ All’Incaricato è richiesto di massimizzare l’interazione con il maintainer del progetto originale (SHOULD), con approccio collaborativo e con l’obiettivo di consolidare il lavoro in una unica base di codice a beneficio del successivo riuso.
+
+ Nel caso di correzioni di bug, l’Incaricato è tenuto (MUST) ad inviare al maintainer originale la proposta di correzione usando gli strumenti di collaborazione previsti dalla piattaforma di code hosting (ad es. pull request).
+
+ Nel caso di modifiche necessarie per implementare le nuove funzionalità, l’Incaricato è tenuto (MUST) a prendere contatto con il maintainer attraverso i canali pubblici del repository (issue tracker) in modo da presentare il nuovo caso d’uso, proporre la modifica ed ottenere feedback sulle modalità da seguire soprattutto nell’ottica di scrivere modifiche che possano essere incorporate dal maintainer originale.
+
+ Al termine dello sviluppo, l’Incaricato è tenuto a proporre al maintainer originale le proprie modifiche (MUST), con delle proposte di codice (pull request) granulari, ovvero distinte per singole funzionalità in modo da consentire al maintainer di valutarle singolarmente.
+
+ l’Incaricato è inoltre tenuto (MUST) a tenere traccia di tutte le contribuzioni al software inviate al maintainer del software originale, documentandone lo stato di integrazione all’interno del file README del repository.
+
+"
+
+ Il riferimento regolatorio a cui l'ente deve attenersi è il seguente:
+
+ https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-d-guida-alla-modifica-di-software-open-source-preso-a-riuso-o-di-terzi.html 
+
+ Attendo con fiducia una risposta puntuale in merito alla risoluzione delle problematiche di complianc con le linee guida acquisizione e riuso del progetto ParteciPa, nell'attesa sono a riportare tale condizione nel forum italia digitale nella apposita sezione sul software libero e riuso https://forum.italia.it/c/software-open-source-per-la-pa/49 .
+
+ 👍 
+ 10 
+ coppolapaolo, jaromil, amreo, atrent, nemobis, Mte90, mnovait, dosisimone, endelwar, and bhack reacted with thumbs up emoji 
+ ❤️ 
+ 2 
+ olistik and dosisimone reacted with heart emoji 
+
+ All reactions
+
+ 👍 
+ 10 reactions 
+
+ ❤️ 
+ 2 reactions 
+
+ --> 
+
+ Sorry, something went wrong.
+
+ Copy link
+
+ Collaborator
+
+ maintainer-partecipa 
+
+ commented
+
+ Dec 21, 2021 
+
+ Chiudiamo la issue sulla base di quanto deciso dal Difensore Civico per il Digitale che in data 15/02/2021, in relazione alla segnalazione n. 180/2020, non ha rilevato le presunte violazioni segnalate sopra.
+
+ All reactions
+
+ --> 
+
+ Sorry, something went wrong.
+
+ maintainer-partecipa 
+
+ closed this as completed 
+
+ Dec 21, 2021 
+
+ --> 
+
+ Sign up for free 
+ to join this conversation on GitHub .
+ Already have an account?
+ Sign in to comment 
+
+ --> 
+
+ Assignees
+
+ No one assigned
+
+ Labels
+
+ None yet
+
+ --> 
+
+ Projects
+
+ None yet
+
+ --> 
+
+ Milestone
+
+ No milestone
+
+ --> 
+
+ Development
+
+ No branches or pull requests
+
+ 2 participants
+
+ Footer
+
+ © 2022 GitHub, Inc.
+
+ Footer navigation
+
+ Terms 
+
+ Privacy 
+
+ Security 
+
+ Status 
+
+ Docs 
+
+ Contact GitHub 
+
+ Pricing 
+
+ API 
+
+ Training 
+
+ Blog 
+
+ About 
+
+ You can’t perform that action at this time.
+
+ You signed in with another tab or window. Reload to refresh your session. 
+ You signed out in another tab or window. Reload to refresh your session.

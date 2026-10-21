@@ -1,0 +1,1319 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:58] Buongiorno, grazie a tutti, sono Cristina Vicarelli, sono un avvocato modero adesso questo panel che si occuperà della sicurezza in Europa e anche in Italia.
+[01:12] Cercheremo in particolare, visto che abbiamo la fortuna di avere anche persone che possono occuparsi degli aspetti tecnici, di concentrarsi sulla cyber sicurezza.
+[01:25] Presento i relatori, abbiamo l'avvocato Nello Rossi, l'avvocato general della corte di castazione, ma di strato, ma di strato, ma scusi, scusi, no, no, no, assolutamente non volevo.
+[01:43] Poi abbiamo invece Fabio Pietrosanti, che è il Presidente di Hermes Center, e poi abbiamo Marco Valeri, che è esperto di sicurezza, di sicurezza offensive fondatore di Neutrino Cyber Security Lab.
+[02:05] Scusate, il nostro panel vorrà che fosse rientato al problema soprattutto della sorveglianza di massa.
+[02:18] Se voi pensate, prima faccio una piccola introduzione, se voi pensate a quanti dati lasciate ogni giorno sparsi per i web, quanti dati voi lasciate nei telefoni, quanti dati vengono assorbiti da social network.
+[02:38] Quanti strumenti ci sono oggi per sapere ognuno di noi che cosa fa in un determinato momento? I nostri telefoni cellulari, i nostri smartphone, sono stati definiti nelle nostre scatole nere, ma non è l'unico sistema quello per riconoscere che cosa fa una persona.
+[02:54] Possiamo riconoscere che cosa fa una persona attraverso il modo in cui navi l'internet, attraverso il modo in cui è impostato un browser, attraverso il modo in cui posiziona il mouse sulla pagina a quale velocità scrive.
+[03:09] Abbiamo tantissime informazioni oggi che ci consentono di sapere che cosa esattamente fa una persona in un determinato momento.
+[03:17] Abbiamo la possibilità di sapere con chi parla al telefono, a chi manda i messaggi. Possiamo non sapere il contenuto delle comunicazioni, ma possiamo sapere con chi ha parlato per quanto tempo.
+[03:28] Questo è un problema che riguarda la gestione di metadati, dati esterni rispetto alle comunicazioni, ma che comunque sono tantissimi, quando raggiungono una mole considereole consistente, possono comunque fornire indicazioni molto importanti sulle relazioni di una persona.
+[03:51] Tutti questi aspetti, ma non solo questo, noi abbiamo anche le videocamere oggi che sono in grado di riconoscere una persona ad alignmenti, abbiamo riconoscimento facciale, abbiamo le videocamere intelligenti, le videocamere che consentono a qualcuno di dare un significato agli spostamenti e movimenti di qualcuno.
+[04:12] Tutte queste cose, se noi le mettiamo tutte insieme e in un certo senso fanno anche un po' paura, se noi pensiamo a tutti questi dati che li gestisce spezziamo.
+[04:21] Ecco, se noi immaginiamo chi può gestire questi dati, chi può vederli, chi può accedere, chi ci controlla, immaginiamo veramente un grande fratello.
+[04:34] Come l'hanno considerato altri, un piccolo fratello, un fratello che sta dentro al telefono, che sembra il nuoco, che ci accompagna tutto il giorno, un occhio che ci spia, che ci guarda da questi nostri device.
+[04:49] In realtà tutto questo genera scenari dystopici, forse ad atti, magari alla fantascienza, ma nella realtà al giorno d'oggi noi questo problema lo dobbiamo comunque in qualche maniera affrontare.
+[05:02] Soprattutto di fronte a minacce che sono, non dobbiamo fare confusione fra quelli che sono i dati che noi lasciamo a società commerciali, quelli che sono i dati che noi vediamo acquisire dalle forze di polizia
+[05:19] o ancora quelli che sono i dati che possono trattare i servizi segreti.
+[05:23] Noi abbiamo tutta questa mole di dati e dobbiamo capire chi ci può accedere, quando ci può accedere, per quali ragioni ci può accedere e come ci può accedere.
+[05:31] Perché se noi lasciamo tutto questo, senza una regolamentazione, ignorando questo problema, il problema non si risolve, la tecnologia c'è e resta,
+[05:41] e quello che la tecnologia può fare, lo può fare sia dalla parte dei buoni, sia dalla parte dei cattivi,
+[05:51] non è che questi strumenti sono disponibili soltanto alle forze dell'ordine, questi strumenti possono essere disponibili anche ai malintenzionati.
+[06:00] Noi ci troviamo in un momento delicato, ci troviamo di fonte a grandi minacce e queste minacce occorrerebbe in qualche maniera, alcuni dicono,
+[06:11] fronteggiarle ricorrendo agli estremi rimedi, altri hanno una posizione più moderata.
+[06:18] La nostra riservatezza, la nostra privacy sono così inconsigliabili con la sicurezza, da questo che vorrei partire, da questa domanda iniziale.
+[06:26] A che punto siamo, a che punto è, per esempio, partiamo subito dalla giurisprudenza?
+[06:30] Che cosa dicono le forze di polizia prima? Che cosa fanno i giudici?
+[06:35] Che è chiaro che in un convenio che si pone il problema di come governare l'Europa, il capitolo della sicurezza si sente?
+[06:47] Il capitolo della sicurezza è un capitolo straordinariamente importante.
+[06:52] E come è stato detto, noi oggi ci troviamo in questa situazione, che ci sono nuove inedite e anche gravi minacce alla sicurezza europea.
+[07:01] E per certi versi, però, sotto altro profilo, noi disponiamo di tecniche investigative particolarmente incisive,
+[07:08] proprio per contrastare pericoli, primo tra tutti proprio il pericolo di un terrorismo che c'è in larga misura ignoto.
+[07:17] E quindi si crea una tensione, come spesso accade nel mondo del diritto, quando ci sono dei problemi veri, dei problemi spinosi.
+[07:24] Perché da un lato c'è una drammatica esigenza di sicurezza e anche un'intensa domanda di tutela che viene dai cittadini
+[07:35] di fronte a minacce terroristiche che abbiamo visto in altri paesi europei, una dimensione davvero sconvolgente.
+[07:43] Dall'altro, noi sentiamo e sappiamo che abbiamo un vitale bisogno di preservare le nostre libertà fondamentali e il diritto alla riservatezza.
+[07:52] Cioè, come sempre accade, come è accaduto anche in passato, nella stagione del terrorismo.
+[07:56] Vogliamo sconfiggere il terrorismo, ma insieme non vogliamo pregiudicare il diritto di libertà personale, il diritto alla segretezza della corrispondenza,
+[08:06] il diritto alla inviolabilità del domicilio.
+[08:09] Non vogliamo pregiudicare questo importante diritto, che è quello alla privacy, che non solo nasce da norme e da fonti legislative nazionali,
+[08:20] ma soprattutto dall'opera anche dei giudici europei e anche gli organismi di giudici internazionali come la Corte Europea, dei diritti dell'uomo.
+[08:30] Quindi si tratta di cercare un equilibrio. Normalmente i giuristi teorici arrivano a questo punto e si fermano.
+[08:37] Io li invidio molto, perché una cosa è dire che bisogna cercare di trovare un equilibrio,
+[08:43] e una cosa poi è realizzarlo in concreto nei tanti casi spinosi che si presentano.
+[08:49] E qui in parte poi sono i giudici chiamati in concreto a tentare di realizzare questo difficile equilibrio.
+[08:59] Sinteticamente, Già di Centrodotto ha detto che ci sono appunto delle tecniche così incisive,
+[09:07] ma anche così invasive, che sono a disposizione degli investigatori di colori
+[09:13] quali oprono sul versante del contrasto al terrorismo, ma anche alla grande criminalità organizzata nel nostro Paese.
+[09:20] È possibile, ad esempio, questo è già molto elementare e meno sconvolgente,
+[09:26] è possibile, per esempio, usare dei localizzatori satellitari che, applicati a una macchina,
+[09:31] permettono una sorta di pedinamento elettronico, precisissimo, dettagliatissimo, infallibile,
+[09:37] soprattutto è possibile oggi usare dei virus informatici,
+[09:42] i quali possono essere inoculati in tutti gli apparecchi elettronici che oramai affolano la nostra vita,
+[09:48] si può trattare di un computer, si può trattare di uno smartphone, di un tablet,
+[09:53] possono essere inoculati, come dire, materialmente, se sia anche solo per qualche ora la disponibilità di questo apparecchio,
+[10:00] oppure possono essere inoculati a distanza attraverso una mail civetta quando uno apre e risponde un messaggio.
+[10:08] E naturalmente voi vi rendete conto che se questo programma, questo virus informatico, viene inoculato in uno degli apparecchi che noi usiamo,
+[10:19] diventa uno strumento di intercettazione ambientale itinerante, ci segue dappertutto e questa è una sola delle potenzialità
+[10:26] perché può anche girare immagini, quindi è una prospettiva naturalmente inquietante, così come una prospettiva inquietante
+[10:33] che questi virus possono realizzare una sorta di perquisizione sequestro informatico occulto
+[10:40] e acquisire tutti i contenuti dei nostri apparecchi.
+[10:44] Quindi tutto questo genera naturalmente delle preoccupazioni quando viene narrato, quando viene raccontato.
+[10:53] Però dobbiamo anche avere presente un'altra cosa che non è meno importante.
+[10:58] È vero che questi strumenti hanno una capacità invasiva che era ignota agli antichi strumenti di investigazione,
+[11:05] però è più un recupero di efficacia che non un potenzialmente in assoluto
+[11:11] perché oggi ci sono tutta una serie di canali di comunicazione che vengono propagandati
+[11:18] e vengono offerti al pubblico con la garanzia della loro inaccessibilità.
+[11:23] Per esempio chiunque di voi abbia così, si sia sintonizzato su Whatsapp, vede che Whatsapp promette che le conversazioni sono cryptate,
+[11:32] lo promette e naturalmente rispetto alle tecniche tradizionali di intercettazione questo è vero.
+[11:40] Questo è vero, è solo attraverso un virus informatico inoculato direttamente nell'apparecchio che si può superare questa sorta di barriera.
+[11:50] E avete sentito tutti la polenica che ha contrapposto il governo americano, l'SBI e l'Apple che si è rifiutata di fornire la chiave di accesso a un apparecchio
+[12:03] perché questa riservatezza viene considerata come dire un valore straordinario.
+[12:08] Quindi abbiamo davvero due esigenze a confronto, due istanze a confronto di fronte allo sviluppo di queste nuove tecniche.
+[12:20] E naturalmente come ho già accennato abbiamo non solo il capitolo importantissimo dei diritti di libertà che vogliamo salvaguardare
+[12:29] ma anche un equilibrio interno al processo penale, questo è forse più per addetti i lavori, ma voglio sottolinearlo.
+[12:38] Noi abbiamo un processo penale in cui la prova si forma di battimento, si forma nel confronto tra le parti con la partecipazione della difesa e nel contraddittorio.
+[12:48] Ora è evidente che la messa in campo nella fase delle indagini, di strumenti di questo genere così invasivi e capaci di realizzare risultati così precisi
+[12:58] e altra a questo equilibrio, si finisce specia col formare la prova solo nella fase delle indagini quando è solo il Pubblico Ministerio e solo la Polizia Giuriziale operare
+[13:07] e anche questa è una preoccupazione. Sinteticamente a che punto siamo nella ricerca di questo difficile equilibrio?
+[13:16] Tre notazioni. Primo, c'è un silenzio del legislatore. Silenzio non significa inerzia, significa che si ad ora non sono state approvate nuove norme
+[13:27] che regolano queste tecnologie, diciamo, captative di suoni, immagini, non ci sono ancora, anche se c'è un lavoro molto intenso in corso.
+[13:38] Da un lato, nel disegno di legge di riforma del processo penale, c'è proprio una norma, l'ultima che è stata aggiunta, che delega il governo a intervenire in questa materia
+[13:49] e dice una cosa molto importante, indica alcune modalità tecniche con cui dovranno essere utilizzati questi captatori, ma dice anche una cosa molto importante
+[14:00] che questi captatori potranno essere usati solo nel contrasto e delle intercettazioni perreati non solo gravissimi, ma io aggiungo anche odiosi
+[14:11] perché è solo se verranno usati in questo campo che la collettività potrà accettare l'uso di strumenti così imbattivi
+[14:20] altrimenti se tutti noi potessimo avere il timore che per un banale reato siamo intercettati, credo che ci sarebbe una salutare in reazione di rigetto rispetto a questi strumenti
+[14:32] e ancora c'è, forse ne parlavano altri, in questo incontro c'è una proposta di legge in stato avanzata e elaborazione
+[14:42] ad opera dell'onorevole Quintarelli e di altri che si propone proprio di regolare anche molti degli aspetti tecnici di queste volte
+[14:54] nel silenzio comunque dei legislatori che fino adesso non ha prodotto norme, cerco di essere sintetico ma
+[15:00] chi è intervenuto? I giudici, come spesso accade, perché i giudici intervengono? Non perché hanno solo smania di protagonismo
+[15:08] ma perché sono prestati dalla realtà? Perché ricevono delle domande e devono dare delle risposte
+[15:14] allora nella pratica lo strumento dei Trojanors, dei captatori informatici di questi virus informatici
+[15:22] in alcuni processi appunto per fatte di criminalità sono stati utilizzati e si è apposta alla questione della loro legittimità
+[15:31] io vi risparmio il contrasto anche il percorso che ha fatto la giudisprudenza che non è stato lineare
+[15:38] quello che sappiamo però che si è arrivati a un approdo, cioè c'è stata una sentenza importante delle sezioni unite
+[15:45] che ha detto che l'uso di questi captatori informatici, l'uso dei Trojanors è legittimo
+[15:53] ed è legittimo solamente però nei confronti, nei procedimenti in cui si opera per reati associativi
+[16:02] cioè per gradi reati nei confronti di associazioni ad elinquore
+[16:07] così come c'è stata un'altra sentenza che ha per dirvi come a volte questo è il campo della stuzia, il campo delle invenzioni
+[16:16] un'altra sentenza che si è occupato di un caso singolarissimo, di una comunicazione che veniva realizzata
+[16:21] non attraverso mail ma parcheggiando le mail nella casella Bozza
+[16:26] perché se io scrivo una mail e non la invio e la parcheggio nella casella Bozza
+[16:33] ma comunico a un altro le credenziali di accesso alla mia posta elettronica
+[16:39] in realtà senza alcuno scambio e senza quindi niente di intercettabile
+[16:45] possiamo comunicare tra di noi e anche in questo caso la giudisprudenza se ne è occupata
+[16:52] dicendo che è legittima l'acquisizione di questi flussi di comunicazione
+[16:57] e da ultimo la dottrina italiana di fronte a questi tentativi della giudisprudenza
+[17:07] di intervenire anche per regolare, per fissare dei confini
+[17:11] ha manifestato delle preoccupazioni, ha lanciato un allarme, ha detto occorre l'intervento del legislatore
+[17:18] noi non siamo pregiudizialmente contrari all'impiego di questi strumenti
+[17:23] ma chi può realizzare quell'equilibrio non è la giudisprudenza che lo sta facendo
+[17:27] in funzione di suplenza ai legislatori che può stabilire modi, intervento, tipi di reato
+[17:34] e situazioni in cui è legittimo ricorso a strumenti così invasivi
+[17:39] in conclusione questa ricerca non è facile
+[17:42] io credo che per primi, io sono magistrato appunto lo precisavo prima
+[17:46] perché questa formula avvocata generale crea sempre equivoci
+[17:49] ma sono un magistrato diciamo del pubblico ministero sia pure in cassazione
+[17:54] e diciamo i magistrati italiani si sono mossi, spinti dalla necessità di risolvere i casi concreti
+[18:00] come sempre accade ai giudici
+[18:02] ma credo che sono i primi ad attendersi un intervento del legislatore
+[18:06] che sarebbe un elemento diciamo di sicurezza e di tranquillità anche per loro
+[18:10] e questo è una prima risposta alle domande che le è apposta
+[18:15] io a questo punto passerei agli aspetti magari più tecnici
+[18:19] cioè un captatore dal punto di vista giurisprudenziale ha creato questo
+[18:23] iter, questo escurso, questa difficoltà anche
+[18:26] di questa capacità di invenzione anche della magistratura
+[18:29] di sostituirsi a un legislatore che non riusciva ancora
+[18:32] ma forse anche perché non era ancora pronto ad intervenire
+[18:35] quando già i giudici si trovavano costretti a dare delle risposte
+[18:40] e quindi la domanda è perché è così difficile
+[18:43] normare un captatore? Che cosa fa il captatore?
+[18:46] Già ha fatto scenno il dottore
+[18:49] ad alcune delle problematiche che riguardano un captatore
+[18:53] cosa riesce entra nei vostri telefoni
+[18:57] che cosa fa?
+[18:59] Ascolta le conversazioni perché si diceva
+[19:01] uno strumento che consente una intercettazione
+[19:05] anche in luoghi diversi dalla dimora
+[19:08] ve lo portate dietro e quello vi intercetta
+[19:11] quando parlate perché si può accendere il microfono
+[19:14] oppure che cosa può fare?
+[19:17] Può prelevare dei dati dal vostro telefono
+[19:20] e poi che cosa altro può fare?
+[19:23] Io chiederei
+[19:26] prima Marco e poi Fabio
+[19:29] così tutti o due spiegate un po'
+[19:32] per chi non mi conoscesse penso la maggior parte
+[19:35] delle persone qui.
+[19:37] Io ho sviluppato questo tipo di strumenti di captatori informatici
+[19:40] negli ultimi 15 anni quindi sono proprio qui
+[19:43] a fare la parte del cattivo e a dire le cose scomode diciamo.
+[19:46] Rialacciandomi a quanto detto
+[19:49] giustamente dall'avvocato Rossi
+[19:51] in questo caso l'utilizzo di questi strumenti
+[19:54] non riguarda l'acquisizione di nuove capacità
+[19:57] non capaci da parte degli investigatori
+[19:59] ma quanto riacquisire delle capacità
+[20:02] che andavano perse con l'utilizzo della cifratura
+[20:05] della dark net eccetera eccetera
+[20:08] e un altro elemento molto importante
+[20:11] è che la mancanza normativa in questo caso
+[20:14] porta anche a un cattivo
+[20:17] utilizzo degli elementi raccolti
+[20:20] tramite questi strumenti che per la maggior parte
+[20:23] nella mia esperienza vengono utilizzati non tanto in ambito probatorio
+[20:26] perché è molto facile smontarne
+[20:29] la bontà
+[20:32] per cavili legali riguardanti l'acquisizione
+[20:35] della prova stessa quanto più in ambito investigativo
+[20:38] per cui è molto importante anche da parte
+[20:41] dalla parte del produttore
+[20:44] del fornitore di questo tipo di servizio che ci sia una normativa
+[20:47] chiara e comune per tutti
+[20:50] la normativa è molto importante anche perché è necessario
+[20:53] che vengano verificate la rispondenza di questi strumenti
+[20:56] adeterminati norme o best practice
+[20:59] che sono banalmente di chiunque
+[21:02] ci può arrivare con un po' di ragionamento ad esempio
+[21:05] la possibilità che i dati intercettati tramite questi strumenti
+[21:08] non possono essere frutiti da terzi
+[21:11] e men che meno dal fornitore dello strumento
+[21:14] oppure nel caso di strumenti molto invasivi come i Trojanorts
+[21:17] che vengono appunto installati sui dispositivi
+[21:20] è importante che l'operatore non sia in grado di effettuare
+[21:23] delle operazioni che vadano al di là di quelle permesse
+[21:26] ad esempio dal decreto del magistrato
+[21:29] per certificare che gli strumenti utilizzati
+[21:32] in sede investigativo e in siti di acquisizione le proprie rispondono
+[21:35] a questi requisiti c'è bisogno
+[21:38] che questi strumenti vengono in qualche modo certificati
+[21:41] come per esempio nella proposta di legge
+[21:44] che ho anche letto con molto piacere dell'onorevole Quintarelli
+[21:47] sono state fatte varie proposte anche scritte molto bene
+[21:50] relativamente a questo tema
+[21:53] però mi sembra che in tutte queste proposti
+[21:56] manchi un elemento che secondo me
+[21:58] c'è almeno dal mio punto di vista è fondamentale
+[22:00] nel senso che al primo posto va messa sicuramente
+[22:02] la tutela della privacy del cittadino
+[22:04] anche perché questi strumenti fanno paura
+[22:06] quindi per poterli utilizzare
+[22:08] senza riuscendo a dormire anche la notte
+[22:11] c'è bisogno che al primo posto venga tutelato questo elemento
+[22:14] non bisogna però dimenticarsi di un altro elemento
+[22:17] che è la tutela del fornitore e del prodotto
+[22:20] questo perché strumenti di questo tipo sono molto delicati
+[22:24] e la loro efficacia è direttamente proporzionale
+[22:27] alla loro riservatezza
+[22:29] per cui uno strumento di questo tipo
+[22:31] che ad esempio è in grado di penetrare
+[22:33] attraverso delle vulnerabilità all'interno del nostro computer
+[22:36] all'interno del nostro cellulare
+[22:38] nel momento in cui viene reso pubblico
+[22:39] di fatto diventa inefficacia
+[22:41] vi faccio un esempio banalissimo
+[22:43] una società israeliana molto famosa
+[22:45] produttrice di un software di questo tipo
+[22:47] che veniva venduto anche in Europa
+[22:49] a svariati milioni di euro
+[22:51] e molti hanno già pronti ad acquistarlo
+[22:54] è stato individuato
+[22:57] da dei ricercatori degli analisi indipendenti
+[23:00] durante un tentativo di attacco
+[23:03] un po' maldestro ai danni di un
+[23:05] Ahmed Mansour, un espon...
+[23:08] difensore dei diritti civili
+[23:10] negli Emirati Arabi
+[23:12] e di fatto nel giro di 24 ore
+[23:14] questo strumento da che rappresentava
+[23:16] diciamo l'avanguardia
+[23:18] lo stato dell'arte
+[23:20] il più prezzolato fra
+[23:22] gli strumenti di investigazione
+[23:24] e diventa di fatto carta straccia
+[23:26] questo andando a vanificare
+[23:28] tanto l'investimento che era stato fatto
+[23:30] per l'acquisizione da parte di altri paesi
+[23:32] che nulla avevano a che fare con gli Emirati Arabi
+[23:34] quanto anche
+[23:36] magari operazioni che erano in corso
+[23:38] quindi andando a inficiare proprio su operazioni
+[23:40] sui investigazioni che erano attualmente in corso
+[23:42] quindi è importante
+[23:44] secondo me quindi anche andare a tutelare
+[23:46] questo tipo di
+[23:48] il prodotto
+[23:50] all'interno di queste normative
+[23:52] e
+[23:54] tra l'altro una cosa anche molto importante
+[23:56] è che questo tipo di prodotti
+[23:58] che hanno degli investimenti ingenti
+[24:00] per avere un livello qualitativo
+[24:02] sufficiente che non ci faccia rimpiangere
+[24:04] i prodotti che arrivano dall'estero
+[24:06] inoltre questo tipo di prodotti
+[24:08] per avere sia un livello qualitativo
+[24:10] alto sia essere
+[24:12] rispettare le nuove norme
+[24:14] che verranno introdotte
+[24:16] richiedono gli investimenti ancora più ingenti
+[24:18] e al momento è impraticabile
+[24:20] pensare di investire in questo tipo di mercato
+[24:22] se non c'è anche a livello europeo
+[24:24] un mercato pronto ad accogliere
+[24:26] come valore aggiunto questo tipo di normative
+[24:28] quindi dovrebbe rappresentare
+[24:30] un plus
+[24:32] per il produttore che vuole
+[24:34] certificare il proprio prodotto
+[24:36] proprio perché altrimenti
+[24:38] non avrebbe mercato all'interno
+[24:40] degli Stati Europei
+[24:42] o magari anche potrebbe rappresentare
+[24:44] un
+[24:46] un elemento preferenziale
+[24:48] nella scelta di quale strumento utilizzare
+[24:50] il fatto di questo strumento
+[24:52] non venga venduto a paesi
+[24:54] fuori della comunità europea
+[24:56] questo per disincentivare
+[24:58] appunto le sportazioni in paesi
+[25:00] che magari hanno più possibilità di spesa
+[25:02] come i paesi del Medio Oriente
+[25:04] ma proprio per questo magari hanno meno attenzione
+[25:06] di questo tipo di prodotti
+[25:08] anche perché è forse l'unica tipologia
+[25:10] di prodotti dove
+[25:12] un utilizzo poco attento
+[25:14] da parte di un paese può compromettere
+[25:16] l'utilizzo da parte di altri paesi
+[25:18] che sono clienti dello stesso
+[25:20] dello stesso fornitore
+[25:22] inoltre volevo spendere due parole
+[25:24] ricollegandoci al primo punto
+[25:26] che era stato
+[25:28] trattato durante l'introduzione
+[25:30] ecco della privacy
+[25:32] e secondo me c'è una
+[25:34] visione un po' distorta
+[25:36] di quello che rappresenta la privacy
+[25:38] da parte del singolo cittadino
+[25:40] vi faccio un esempio
+[25:42] Google ha
+[25:44] di recenti introdotto una nuova funzione
+[25:46] che si chiama Smart Reply
+[25:48] una funzione molto carina
+[25:50] che di fatto si siamo di fretta
+[25:52] quando riceviamo una mail
+[25:54] ci precompila delle risposte plausibili
+[25:56] che noi possiamo inviare semplicemente premendo un tasto
+[25:58] come funziona questo sistema
+[26:00] Google con i suoi algoritmi
+[26:02] maschi learning per essere più tecnici
+[26:04] legge il contenuto delle mail che ci arrivano
+[26:06] cerca di interpretarlo
+[26:08] cerca di fornire delle risposte plausibili
+[26:10] è una macchina che fa questa cosa
+[26:12] però di fatto legge il contenuto
+[26:14] di tutte le nostre mail
+[26:16] ora mi chiedo che cosa succederebbe
+[26:18] se domani venisse fuori che
+[26:20] ad esempio il governo Renzi ha finanziato
+[26:22] lo sviluppo di un software di un algoritmo
+[26:24] che leggendo le intestazioni
+[26:26] quindi non anche il contenuto delle mail
+[26:28] le intestazioni delle mail
+[26:30] le dormiente
+[26:32] quindi un intento nobile
+[26:34] succederebbe un po' di ferio
+[26:36] il grande fratello è tornato
+[26:38] o dico siamo controllati
+[26:40] questo perché si può creare
+[26:42] un'analogia un po' distorta
+[26:44] dove c'è questa analogia
+[26:46] stato, governo, stato
+[26:48] che è un elemento di cui un po'
+[26:50] tutti dovremmo sentirci in qualche modo
+[26:52] parte come cosa brutta e cattiva
+[26:54] e Google, società americana
+[26:56] per cui di fatto le leggi italiane
+[26:58] hanno molto poco
+[27:00] molto poca influenza su di loro
+[27:02] Google siccome è colorata e buona
+[27:04] è una cosa che non ci può mai fare del male
+[27:06] è una cosa assolutamente innocua
+[27:08] quindi si è venuta a creare un po'
+[27:10] questo scollamento
+[27:12] fra quello che è la realtà dei fatti
+[27:14] nel trattamento dei nostri dati sensibili
+[27:16] e quello che è nella nostra percezione
+[27:18] volevo fare anche una precisazione
+[27:20] riguardo a quanto detto prima
+[27:22] sulle intercettazioni di massa
+[27:24] intercettazioni di massa contrapposte
+[27:26] tra le targeted in gergo
+[27:28] e non significa che intercettiamo tutto di tutti
+[27:30] significa semplicemente
+[27:32] vengono presi dei grossi set di dati
+[27:34] che sono riferiti magari
+[27:36] a una buona fetta della popolazione
+[27:38] e su questo set di dati
+[27:40] su questo set di dati
+[27:42] vengono fatti girare degli algoritmi
+[27:44] intelligenza artificiale
+[27:46] non diversi da quelli che utilizza Google
+[27:48] alla ricerca di pattern
+[27:50] o di comportamenti sospetti che possono
+[27:52] girare degli allarmi relativamente
+[27:54] a delle persone o a dei gruppi di persone
+[27:56] poi non è che queste persone vengono
+[27:58] prese e arrestate immediatamente
+[28:00] questo qui succede nei film
+[28:02] tipo Minority Report è una cosa che succede nei film
+[28:04] nella realtà invece
+[28:06] vengono fatti diciamo
+[28:08] quello che rappresenta l'ottimo
+[28:10] vengono fatti poi delle verifiche manuali
+[28:12] per vedere se c'è una corrispondenza nei fatti
+[28:14] un legittimo sospetto
+[28:16] per cui magari procedere
+[28:18] a un altro tipo di intercettazione
+[28:20] in mirato quindi magari all'utilizzo
+[28:22] di troia o altri tipi di investigazione
+[28:24] di investigazione più classici
+[28:26] so che anche detto così
+[28:28] spiegato in questi termini
+[28:30] è comunque una cosa che fa tremare polzzi
+[28:32] sembra una cosa che fa ribitire
+[28:34] però proviamo a dire un altro modo
+[28:36] Google
+[28:38] utilizzando un suo incubatore che si chiama Jigsaw
+[28:40] sta sperimentando una fitur
+[28:42] molto carina che analizzando
+[28:44] i comportamenti degli utenti sul motore di ricerca
+[28:46] su Gmail
+[28:48] su tutti i servizi Google
+[28:50] anche su Youtube
+[28:52] cerca di capire quale persone sono più
+[28:54] a rischio di essere recrutate
+[28:56] dal visis o di subire
+[28:58] un processo di radicalizzazione
+[29:00] e sulla base di questi
+[29:02] di questi dati
+[29:04] mostra a queste persone
+[29:06] video correlati
+[29:08] pubblicità o fa comparire
+[29:10] nei primi risultati del suo motore di ricerca
+[29:12] dei contenuti
+[29:14] che disincentivano
+[29:16] questo tipo di affiliazione quindi
+[29:18] dei video contenuti antisis
+[29:20] per dirlo in parole povere
+[29:22] ora di fatto
+[29:24] se provate a sostituire
+[29:26] la parola Google
+[29:28] alla parola governo
+[29:30] in questa stessa identica cosa
+[29:32] mettendo Google sembra una cosa nobbia
+[29:34] che quante cose belle che stanno facendo dentro Google
+[29:36] se ci metti dentro la parola governo
+[29:38] il governo controlla le nostre menti
+[29:40] i nostri spostamenti
+[29:42] cerca di influenzarci
+[29:44] per cui c'è un po' questo scollamento
+[29:46] in realtà dei fatti
+[29:48] è quello che è
+[29:50] la nostra percezione
+[29:52] prima di dare la parola
+[29:54] a Fabio
+[29:56] se volete possiamo continuare
+[29:58] prima di dare la parola a Fabio
+[30:00] vorrei
+[30:02] sottrennare alcune cose che sono state dette
+[30:04] se
+[30:06] se quello che fa Google
+[30:08] lo facesse il governo
+[30:10] io questa equazione la farei con molta cautela
+[30:12] perché come ha detto mio collega
+[30:14] che fa Google
+[30:16] se Google sbaglia a profilarmi
+[30:18] a me mi arriva la complicità sbagliata
+[30:20] se lo fa un governo
+[30:22] non lo so per quale fine lo fa
+[30:24] noi non sappiamo come vero
+[30:26] utilizzare i dati che poi Google accoglie
+[30:28] il problema è quando i governi
+[30:30] mai entrano dentro i dati raccolti
+[30:32] da Google
+[30:34] e più probabilmente con l'americano rispettano
+[30:36] però è il problema che aveva evidenziato
+[30:38] ancora prima il Dr. Rossi
+[30:40] noi abbiamo un problema dobbiamo capire
+[30:42] che ci siano i nostri motivi
+[30:44] fino a che punto li possiamo utilizzare
+[30:46] e fino a quel punto le dobbiamo
+[30:48] bilanciare con i nostri diretti fondamentali
+[30:50] con la nostra riservatezza
+[30:52] con la nostra libertà personale
+[30:54] perché a mio avviso
+[30:56] in questo momento storico
+[30:58] in cui la tecnologia così pervasiva
+[31:00] l'equazione libertà personale
+[31:02] e riservatezza
+[31:04] e privacy
+[31:06] è piuttosto fondata
+[31:08] non abbiamo la possibilità di sapere
+[31:10] fino a che punto siamo influenzati
+[31:12] nei nostri comportamenti
+[31:14] da ciò che vediamo
+[31:16] da ciò che
+[31:18] ci viene propinato spesso
+[31:20] anche se non lo cerchiamo
+[31:22] questo equilibrio che lo deve trovare
+[31:24] a mio avviso lo deve trovare
+[31:26] o lo trova la giurisprudenza caso per caso
+[31:28] oppure lo trova il registratore
+[31:30] e qui vorrei agganciare il discorso
+[31:32] sulla proposta di legge che cosa è stato proposto
+[31:34] e come si è trovato un equilibrio
+[31:36] fra tutte queste istanze
+[31:38] Salve
+[31:40] su questo tema specifico
+[31:42] cioè l'elaborazione
+[31:44] di una polisi
+[31:46] quindi una regolamentazione
+[31:48] di un legge
+[31:50] e regolamentazione omni comprensiva
+[31:52] per affrontare
+[31:54] la problematica della
+[31:56] raccolta
+[31:58] di informazioni
+[32:00] tramite agenti software su dispositivi elettronici
+[32:02] quindi dispositivi cellulari
+[32:04] computer portatili
+[32:06] e quello che sarà il futuro anche
+[32:08] dell'internet of things
+[32:10] lampadine, frigorifere, auto-vetture
+[32:12] l'approccio è stato particolarmente
+[32:14] articolato
+[32:16] per due
+[32:18] fattori principali
+[32:20] questo ci tengo
+[32:22] a condividere quella che è la difficoltà
+[32:24] nell'ambito della sicurezza
+[32:26] investigazione
+[32:28] cybersecurity in generale
+[32:30] quando si
+[32:32] approccia
+[32:34] lo sviluppo di una polisi
+[32:36] prima di tutto ci sono
+[32:38] fazioni opposte
+[32:40] ci si trova che in un
+[32:42] argomento molto complesso
+[32:44] che va a toccare esigenze investigative
+[32:46] esigenze di
+[32:48] sicurezza delle informazioni
+[32:50] esigenze di tutela di diritti
+[32:52] fondamentali
+[32:54] ci sono spesso gruppi di interesse
+[32:56] quindi stakeholder che hanno
+[32:58] posizioni ideologicamente
+[33:00] contrapposte quindi riuscire a favorire
+[33:02] un dialogo fra tutti i stakeholder
+[33:04] di qualcosa che ha a che fare
+[33:06] con sentire
+[33:08] il giusto potere investigativo
+[33:10] e esigenze di sicurezza dei cittadini
+[33:12] preservante dei diritti civili
+[33:14] è un primo scoglio
+[33:16] particolarmente complesso
+[33:18] dall'altro lato
+[33:20] ci sono delle sincere
+[33:22] complessità di
+[33:24] eterogenità di competenze
+[33:26] nel momento in cui
+[33:28] si va a far
+[33:30] sviluppare una dialettica
+[33:32] multidisciplinale
+[33:34] dove vengono toccati
+[33:36] temi di diritti fondamentali
+[33:38] tematiche di carattere
+[33:40] giurisprudenziali di processo penale
+[33:42] l'impatto che possono avere
+[33:44] sui servizi di intelligence
+[33:46] tematiche tecniche che possono essere
+[33:48] viste tanto dal punto di vista
+[33:50] di breve termine
+[33:52] quanto di lungo termine
+[33:54] e allo stesso tavolo
+[33:56] sull'ossesso obiettivo
+[33:58] nel stesso testo si trono
+[34:00] questi soggetti che parlano lingue diverse
+[34:02] e riuscire a conseguire un obiettivo
+[34:04] particolarmente complesso
+[34:06] questo penso che
+[34:08] almeno
+[34:10] la lezione imparata
+[34:12] nel collaborare
+[34:14] con questo gruppo di lavoro
+[34:16] organizzato
+[34:18] dall'onorevole Quintarelli
+[34:20] per la realizzazione la proposta di legge
+[34:22] probabilmente la più avanzata
+[34:24] nel mondo quando adesso
+[34:26] in breve sulla regolamentazione
+[34:28] l'utilizzo della captazione informatica
+[34:30] parte
+[34:32] dei maggiori difficoltà che abbiamo
+[34:34] veramente affrontato
+[34:36] ci tengo guardando
+[34:38] il contesto europeo
+[34:40] dare due elementi di contesto
+[34:42] più che scendere magari nel dettaglio
+[34:44] del tecnicismo giuridico
+[34:46] che potrebbe non essere
+[34:48] di interesse specifico
+[34:50] il contesto in cui ci troviamo oggi
+[34:52] per le esigenze
+[34:54] di sicurezza
+[34:56] e dall'altro lato di
+[34:58] di sicurezza
+[35:00] ovvero diamo del potere
+[35:02] investigativo per tutelare la sicurezza dei cittadini
+[35:04] e di private, quindi tutelare
+[35:06] i diritti civili dei cittadini
+[35:08] è quello in cui l'evoluzione tecnologica
+[35:10] sotto il profilo
+[35:12] della protezione delle informazioni
+[35:14] e della protezione dei dispositivi
+[35:16] di comunicazione
+[35:18] sta procedendo a una velocità
+[35:20] rispetto a 15 anni fa
+[35:22] incredibile
+[35:24] fino a due anni fa
+[35:26] era impensabile
+[35:28] che il più grande operatore
+[35:30] di telecomunicazione nel mondo
+[35:32] Facebook
+[35:34] dopo aver acquisito
+[35:36] whatsapp, abilitasse
+[35:38] la protezione delle comunicazioni
+[35:40] cosiddette punto punto
+[35:42] cioè il messaggio è protetto dal dispositivo
+[35:44] ammittente al dispositivo del destinatario
+[35:46] e dovea anche una richiesta
+[35:48] con un, diciamo,
+[35:50] dado, chiamato angiudice
+[35:52] nei confronti di Facebook
+[35:54] non consente di acquisire queste informazioni
+[35:58] fino a 5 anni fa
+[36:00] era impensabile
+[36:02] immaginare che dispositivi
+[36:04] consumer, cioè dispositivi
+[36:06] che posso comprare al negozietto di telefonia
+[36:08] qui sotto
+[36:10] fossero dotati di
+[36:12] tecniche di cifratura e protezione
+[36:14] dei dati di avant-gardea
+[36:16] che 5 anni fa erano disponibili
+[36:18] soltanto come dispositivi professionali
+[36:20] in ambito militare intelligence
+[36:22] quindi alcune tecnologie
+[36:24] di sicurezza e protezione
+[36:26] delle informazioni e delle telecomunicazioni
+[36:28] che oggi sono
+[36:30] consumerizzate, si dice quindi
+[36:32] a disposizione di tutti i cittadini
+[36:34] fino a pochi anni fa era un appannaggio
+[36:36] esclusivo di, diciamo, chi ha
+[36:38] esigenze di sicurezza medio-alte
+[36:40] quindi un'utenza tipicamente militare
+[36:42] diplomatica o comunque
+[36:44] di intelligenza e di sicurezza
+[36:46] di un certo, diciamo, spessore
+[36:50] questo sta accadendo
+[36:52] in quella che viene chiamata all'epoca
+[36:54] chiamiamola post-snowden
+[36:56] laddove gli ecosistemi tecnici
+[36:58] e tecnologici hanno infuso
+[37:00] un'esigenza nel cittadino
+[37:02] di maggior tutela della privacy
+[37:04] la privacy dei dati
+[37:06] dei contatti della propria rubrica
+[37:08] nel proprio telefonino 15 anni fa
+[37:10] aveva un valore economico basso
+[37:12] oggi invece avendo l'intera digital life
+[37:14] di persona sul proprio dispositivo
+[37:16] questo è un valore economico alto
+[37:18] quindi il consumatore finale
+[37:20] miliardi di persone sono disposti a pagare
+[37:22] i produttori che rispondono
+[37:24] legittima domanda per offrire sicurezza
+[37:26] questo ovviamente mette poi in difficoltà
+[37:28] chi deve operare
+[37:30] nell'interesse della sicurezza dei cittadini
+[37:32] quindi col potere investigativo
+[37:34] il contesto in cui ci stiamo
+[37:36] movendo è il contesto in cui
+[37:38] Google e qui
+[37:40] senza volere dare colpi o meriti
+[37:42] sta portando con
+[37:44] delle scelte
+[37:46] nel dispositivo di accesso alla rete
+[37:48] più utilizzata al mondo si chiama
+[37:50] Google Chrome, cioè browser
+[37:52] a forzare
+[37:54] entro fine del 2017
+[37:56] tutte le comunicazioni
+[37:58] internet web ad essere
+[38:00] criptografate
+[38:02] questo facendo come?
+[38:04] facendo sì che il browser internet
+[38:06] quando si collegherà un sito non dotato
+[38:08] di funzionalità di criptografia
+[38:10] fornirà un messaggio di alerta
+[38:12] che nessuno vuole
+[38:14] far vedere ai propri
+[38:16] visitatori dal proprio sito o servizio
+[38:18] quindi fornendo
+[38:20] questo tipo di messaggi
+[38:22] porterà entro fine del 2017
+[38:24] ad avere il 99.99%
+[38:26] del traffico internet
+[38:28] essere criptografato questo cosa significa
+[38:30] che il potere investigativo
+[38:32] che era precedentemente disponibile
+[38:34] magari con uno strumento di intercettazione telematica
+[38:36] cioè intercetto il traffico internet
+[38:38] di un certo dispositivo
+[38:40] quindi potere investigativo
+[38:42] quindi esigenza di sicurezza ai cittadini
+[38:44] non sarà più disponibile
+[38:46] da lì quello che stiamo vedendo
+[38:48] e vedremo sempre di più sarà un incremento
+[38:50] anche dell'utilizzo dei strumenti di captazione informatica
+[38:52] quindi
+[38:54] oggetti software che inoculati
+[38:56] tramite tecniche più o meno sofisticate
+[38:58] vanno direttamente ad acquisire
+[39:00] le informazioni
+[39:02] direttamente sui dispositivi
+[39:04] qui a livello europeo
+[39:06] c'è una livello di
+[39:08] chaos se vogliamo
+[39:10] o quantomeno di heterogeneità
+[39:12] nell'approccio profondamente
+[39:14] diciamo molto variagato
+[39:16] in Germania nel 2008 l'utilizzo
+[39:18] degli strumenti di captazione informatica
+[39:20] che sono appunto una frontiera
+[39:22] l'ultima era la frontiera di disposizione per l'intelligia
+[39:24] quando le telecomunicazioni diventano tutte
+[39:26] o quasi tutte criptografate
+[39:28] è ovvio che solo lì si può andare
+[39:32] in Germania nel 2008
+[39:34] di fatto intervenuta la Corte Suprema
+[39:36] per indicare che lo strumento
+[39:38] della captazione informatica
+[39:40] può essere utilizzato solo per ascoltare
+[39:42] le telecomunicazioni che vengono fatta a bordo
+[39:44] del dispositivo, quindi faccio una telefonata
+[39:46] con Skype installato sul telefonino
+[39:48] la posso intercettare
+[39:50] se ho un video
+[39:52] un file sul dispositivo non lo posso
+[39:54] acquisire. In Inghilterra
+[39:56] recentemente è passato l'IP bill
+[39:58] cioè l'investigate di power bill
+[40:00] che attribuisce
+[40:02] l'instituzione proposta alla sicurezza
+[40:04] una gran quantità di ulteriori poteri investigativi
+[40:06] tra questi
+[40:08] liberalizza in modo abbastanza
+[40:12] poco sofisticato
+[40:14] l'utilizzo dello strumento
+[40:16] della captazione informatica
+[40:18] l'Olanda ha adottato un approccio completamente differente
+[40:20] l'Olanda è il primo paese
+[40:22] europeo
+[40:24] che in modo esplicito
+[40:26] ha regolamentato
+[40:28] per finalità di cyber security
+[40:30] ha le proprie forze del lord
+[40:32] e di fare quello che è chiamato cross border hacking
+[40:34] cioè
+[40:36] nell'ambito della cyber security intelligence
+[40:38] non ci sono confini
+[40:40] noi li percepiamo come territoriali
+[40:42] ma quando utilizziamo
+[40:44] la rete globale e internet
+[40:46] i confini vengono meno
+[40:48] quindi quando un attacco
+[40:50] informatico
+[40:52] piuttosto che una traccia informatica
+[40:54] ci porta nei confronti di un sistema informatico
+[40:56] che si trova in un altro paese
+[40:58] e si pongono tutti i problemi
+[41:00] di posso fare l'arrogatoria
+[41:02] con quali tempi, ma avrò la collaborazione
+[41:04] se si tratta di intelligence lasciamo perdere
+[41:08] l'Olanda
+[41:10] è stato il primo paese europeo
+[41:12] che ha consentito
+[41:16] l'attività intrusiva
+[41:18] nei confronti di sistemi informatici
+[41:20] posti all'estero
+[41:22] rispetto al territorio olandese
+[41:24] da parte delle forze dell'ordine
+[41:26] per acquisire informazioni
+[41:28] quindi i vettori di inoculazione di questi captatori informatici
+[41:30] a livello europeo
+[41:32] vediamo che l'argomento è estremamente sofisticato
+[41:34] la problematica
+[41:36] di
+[41:38] sviluppo di polisi principale
+[41:40] è un argomento
+[41:42] complesso che richiede
+[41:44] attorno allo stesso tavolo
+[41:46] persone che parlano spesso lingue
+[41:48] differenti
+[41:50] di competenza specifica
+[41:52] e una velocità
+[41:54] di intervento che abbiamo
+[41:56] grande difficoltà a portare
+[41:58] a livello nazionale
+[42:00] figuriamoci in sede europea
+[42:02] queste sono tutte complessità
+[42:04] che volevo condividere
+[42:06] rispetto al contesto in cui ci troviamo
+[42:08] e rispetto a come si può muovere
+[42:10] dal punto di vista anche politico
+[42:12] io ho trovato molto interessante
+[42:14] che si sia
+[42:16] guardato anche al di là dei confini
+[42:18] del nostro paese
+[42:20] questo è vero per le proposte di legge
+[42:22] è importante anche guardare la giurisprudenza
+[42:24] in altri paesi che ha dato
+[42:26] degli esiti abbastanza differenti
+[42:28] per esempio negli Stati Uniti
+[42:30] noi qui in Italia
+[42:32] abbiamo assolutamente pescontato
+[42:34] che si possa fare il cosiddetto
+[42:36] pedinamento elettronico
+[42:38] quello a quale ha accennato io
+[42:40] cioè attraverso un GPS
+[42:42] un localizzatore statelitare
+[42:44] perché facciamo un ragionento di questo tipo
+[42:46] diciamo ma così come si può
+[42:48] fare il pedinamento
+[42:50] è possibile usare strumenti nuovi
+[42:52] e quindi non c'è bisogno néppure
+[42:54] in questa materia néppure di un decreto
+[42:56] del pubblico ministero
+[42:58] per autorizzare l'uso del GPS
+[43:00] del statelitare per un
+[43:02] pedinamento elettronico
+[43:04] se andiamo negli Stati Uniti
+[43:06] e per esempio vediamo che la Corte Suprema
+[43:08] americana ha fatto una sentenza importante
+[43:10] United States versus
+[43:12] Jones si trattava
+[43:14] di un trascicante di droga
+[43:16] che era stato condannato in appello all'ergastro
+[43:18] che si era rivolto alla Corte Suprema
+[43:20] sostanzialmente
+[43:22] affermando che
+[43:24] l'applicazione di un satelitare
+[43:26] sulla sua macchina
+[43:28] era come dire illegittimo
+[43:30] perché era stato adottato dalla polizia
+[43:32] senza particolari autorizzazioni del giudice
+[43:34] e qui è singolare
+[43:36] che un giudice
+[43:38] straordinariamente conservatore
+[43:40] al suo morto della Corte Suprema
+[43:42] il giudice Scalia
+[43:44] ha accolto la tesi
+[43:46] di questo imputato
+[43:48] facendo un ragionamento molto singolare
+[43:50] che è interessante
+[43:52] ha detto nel nostro paese
+[43:54] il diritto alla proprietà
+[43:56] e quindi ha citato le vecchie sentenze
+[43:58] in materia di proprietà
+[44:00] è tutelato in modo così rigoroso
+[44:02] che anche se qualcuno si appoggia
+[44:04] un piedi alla staccionata della mia casa
+[44:06] io posso ritenere
+[44:08] che stia ledendo la mia proprietà
+[44:10] e allora
+[44:12] nel momento in cui qualcuno si è
+[44:14] una macchina
+[44:16] e ha applicato questo localizzatore
+[44:18] in realtà stava entrando
+[44:20] nella mia sfera di proprietà
+[44:22] e avrebbe avuto bisogno di un mandato
+[44:24] dell'autorità giudiziaria
+[44:26] perché aveva come dire superato
+[44:28] il cosiddetto trespassing test
+[44:30] negli Stati Uniti
+[44:32] cioè io ho barcato la soglia del tuo domicilio
+[44:34] dell'area di tua proprietà
+[44:36] e posso farlo
+[44:38] o lo si può fare nel nostro ordinamento
+[44:40] nel ordinato Stati Uniti
+[44:42] un mandato del giudice
+[44:44] un mandato che in quel caso non c'era
+[44:46] e la conseguenza è stata anche straordinariamente rilevante
+[44:48] perché c'è stato poi un annullamento
+[44:50] di una sentenza
+[44:52] di un traficante di droga
+[44:54] condannato all'ergastro in sede di appena
+[44:56] aggiungo un'altra cosa
+[44:58] sempre per guardare anche dal lato dei giudici
+[45:00] oltre i confini
+[45:02] cosa assolutamente necessaria
+[45:04] perché tutte queste problematiche
+[45:06] barcano i confini ad ogni momento
+[45:08] e quindi per esempio
+[45:10] la Corte Costituzionale tedesca
+[45:12] è stata già ricordata una pronuncia del 2008
+[45:14] ma c'è stata una più recente
+[45:16] nel 2014
+[45:18] in cui la Corte Costituzionale tedesca
+[45:20] voi sapete che l'articolo 1
+[45:22] della Corte Costituzione tedesca
+[45:24] contiene il riferimento
+[45:26] al diritto alla dignità
+[45:28] che si comprende anche
+[45:30] alla luce della storia
+[45:32] travagliata di quel popolo
+[45:34] perché abbiano sentito di scrivere come dire
+[45:36] come prima norma un diritto alla dignità
+[45:38] del cittadino o dello stradio
+[45:40] bene la Corte Costituzione tedesca
+[45:42] analizzando proprio un caso di uso
+[45:44] di questi strumenti così invasivi
+[45:46] ha teorizzato
+[45:48] l'esistenza
+[45:50] a come dire creato il diritto
+[45:52] ha detto io ritengo che
+[45:54] anche se non sta scritto nel catalogo dei diritti
+[45:56] ci sia
+[45:58] un diritto del cittadino
+[46:00] alla tutela
+[46:02] di una sfera diciamo
+[46:04] di tutta l'area delle sue comunicazioni
+[46:06] delle sue attività
+[46:08] nel campo dell'informatica
+[46:10] perché questo è diventato una componente
+[46:12] della vita di tutti noi quotidiana
+[46:14] e quindi questo diritto
+[46:16] abbraccia tutto quello che facciamo
+[46:18] con l'informatica attraverso l'informatica
+[46:20] e ha collegato
+[46:22] questo diritto
+[46:24] proprio al diritto alla dignità
+[46:26] detto questa è un'espressione
+[46:28] della dignità della persona
+[46:30] quindi sono tematiche
+[46:32] diciamo estremamente interessanti
+[46:34] su cui tutti stanno
+[46:36] cercando di trovare
+[46:38] soluzioni che avevi di accesso
+[46:40] senza che nessuno pretenda
+[46:42] come dire di avere
+[46:44] la verità in tasto
+[46:46] il punto di fondo è quello che ho cominciato a dirlo
+[46:48] io è stato ripetuto
+[46:50] qui è un gioco a guardia e ladri
+[46:52] cioè è vero queste tecniche
+[46:54] di capitazione sono invasive
+[46:56] ma le tecniche di elusione
+[46:58] sono altrettanto raffinate
+[47:00] allora noi o accettiamo
+[47:02] che siccome le comunicazioni sono
+[47:04] criptografate
+[47:06] possono passare i messaggi
+[47:08] dei traficati di droga
+[47:10] dei terroristi
+[47:12] diciamo
+[47:14] della grande criminalità organizzata
+[47:16] possono avere dei canali inaccessibili
+[47:18] oppure entriamo
+[47:20] in questo ordine di idee
+[47:22] di regolare
+[47:24] con cautela, con attenzione
+[47:26] con una serie di garanzie
+[47:28] l'uso di strumenti che ci permettono
+[47:30] in questo gioco a guardia e ladri
+[47:32] di risalire a livello
+[47:34] diciamo che ci permette di
+[47:36] contrastare offese
+[47:38] quindi anche
+[47:40] la magistratura italiana non ha mai avuto atteggiamenti
+[47:42] insomma no come dire
+[47:44] forcaioli
+[47:46] oppure del tipo datemi
+[47:48] tutti gli strumenti possibili
+[47:50] siamo forse i primi a sentire
+[47:52] l'esigenza dei limiti
+[47:54] perché altrimenti come ho detto
+[47:56] se si varca questo limite
+[47:58] è intollerabile e non è accettata socialmente
+[48:00] e questo è un dato di straordinaria
+[48:02] importanza
+[48:04] però si sappia che comunque
+[48:06] la preoccupazione
+[48:08] a volte l'inquietudine
+[48:10] deve avere dall'altro lato
+[48:12] una pari inquietudine
+[48:14] possiamo accettare che messaggi criminali
+[48:16] non siano più ascoltati
+[48:18] perché ci sono dei nuovi strumenti
+[48:20] ripetati insondabili
+[48:22] ecco questo poi
+[48:24] è una domanda a cui risponde ogni cittadino
+[48:26] risponde il giudice
+[48:28] poi risponde il legislatore
+[48:30] quindi io vorrei capire un attimo
+[48:32] noi abbiamo
+[48:34] abbiamo messo sul piatto
+[48:36] diversi argomenti
+[48:38] abbiamo messo da una parte la sorveglianza di massa
+[48:40] che può essere attuata
+[48:42] in diverse maniere
+[48:44] può essere attuata appingendo direttamente da google
+[48:46] può essere attuata attraverso
+[48:48] questi sistemi di captazione
+[48:50] abbiamo poi
+[48:52] provato
+[48:54] a
+[48:56] classificare più o meno quali sono i problemi
+[48:58] i diritti
+[49:00] che vengono coinvolti
+[49:02] da una parte la difesa
+[49:04] da una parte la giustizia
+[49:06] che comunque debbano essere garantite
+[49:08] e dall'altra invece la riservatezza
+[49:10] la libertà del singolo sono stati
+[49:12] questi argomenti talmente ben
+[49:14] sviserati
+[49:16] che io non ci vorrei tornare
+[49:18] però
+[49:20] ora si parlava del respiro europeo
+[49:22] non è solo una cosa
+[49:24] ci sono questi temi che vengono di cambiare
+[49:26] nel senso che
+[49:28] l'elemento normativo
+[49:30] di cui abbiamo parlato finora
+[49:32] e
+[49:34] tutto questo insieme di norme
+[49:36] di regolamentazioni
+[49:38] crolla un po' nel momento in cui ci si sposta
+[49:40] dal mondo della polizia di tribunali
+[49:42] al mondo dell'intelligence
+[49:44] per esempio questo elemento molto delicato
+[49:46] anche a quel che ha detto Fabio prima
+[49:48] era impensabile 5 anni fa
+[49:50] credere che facebook
+[49:52] avrebbe rinunciato i messaggi
+[49:54] introducendo la cifratura da dispositivo
+[49:56] a dispositivo all'interno di whatsapp
+[49:58] ora faccio un po' di fanta politica
+[50:00] diciamo
+[50:02] si è sempre parlato tanto che
+[50:04] alcune agenze governative come ad esempio
+[50:06] l'N6 introducessero appositamente
+[50:08] delle piccole falle
+[50:10] all'interno di determinati prodotti
+[50:12] per ufficialmente
+[50:14] dichiarare questi prodotti
+[50:16] sono assolutamente sicuri
+[50:18] e inattaccabili
+[50:20] e viceversa a chi avessa
+[50:22] disposizione determinate che avete accesso
+[50:24] invece poter bellamente
+[50:26] vedere tutto il trafio come se fosse in chiaro
+[50:30] se ne è parlato a proposito di whatsapp
+[50:32] come se ne è parlato a proposito di tanti altri elementi
+[50:34] soprattutto andando a guardare il paese di
+[50:36] produzione del software in questione
+[50:38] ora io non ho nessun elemento
+[50:40] per poter dire sia vero
+[50:42] non è vero che all'interno di questi software
+[50:44] c'è una backdoor che è controllata solo
+[50:46] a questo punto dal governo americano
+[50:48] quindi tutto il mondo crede di usare una piattaforma sicura
+[50:50] invece un singolo governo
+[50:52] che non è nostro o un governo europeo
+[50:54] ha accesso a queste informazioni
+[50:56] però posso ribaltare
+[50:58] la visuale
+[51:00] dall'altro lato
+[51:02] dal lato dell'attacco
+[51:04] facciamo un esempio molto banale
+[51:06] io sono il Dipartimento della difesa
+[51:08] un gruppo di ricercatori trova una vulnerabilità
+[51:10] una falla per penetrare l'intro del mio cellulare
+[51:12] ed estrarne tutti i dati
+[51:14] se posso fare o due scelte
+[51:16] devo valutare l'impatto di questa vulnerabilità
+[51:18] o posso utilizzarla
+[51:20] per penetrare all'interno dei cellulari
+[51:22] dei miei nemici all'estro
+[51:24] ed estrarne informazioni
+[51:26] per passarle alla mia intelligence
+[51:28] oppure valuto che il rischio che altre persone
+[51:30] all'estro conosco la medesia vulnerabilità
+[51:32] e applicano questa vulnerabilità
+[51:34] sui miei cittadini, sui miei militari
+[51:36] sui miei esperienti del mio governo
+[51:38] sia più rischioso
+[51:40] del fatto di poter utilizzare questa capacità
+[51:42] ora, in 15 anni di esperienza
+[51:44] non mi è mai capitato di vedere che un governo
+[51:46] che acquisisca questo tipo di funzionalità
+[51:48] piuttosto che utilizzarla a danno di altri paesi
+[51:50] la renda pubblica
+[51:52] questa cosa non mi è mai capitata
+[51:54] quindi, se a questo punto
+[51:56] in un contesto sia diciamo di utilità
+[51:58] sia etico il governo
+[52:00] propende sempre per
+[52:02] privilegiare le capacità
+[52:04] di monitoraggio rispetto a quelle
+[52:06] difesa
+[52:08] a questo punto mi viene da pensare che in alcuni casi
+[52:10] si è all'ecito credere che in alcuni
+[52:12] di questi strumenti ci procura effettivamente
+[52:14] delle chiavi di accesso privilegiate
+[52:16] ci siano, non ci sono le proprie, ovviamente
+[52:18] però
+[52:20] si può ipotizzare
+[52:28] Sì, io
+[52:32] volevo
+[52:34] sul discorso dell'intelligence
+[52:36] ogni paese
+[52:38] fa un po' quello che gli pare
+[52:40] questa è lo stato credo di fatto
+[52:42] ora io non voglio fare scenari
+[52:44] noi
+[52:46] dobbiamo distinguere un po' dal punto di vista
+[52:48] faccio una piccola distinzione
+[52:50] noi abbiamo
+[52:52] una protezione dei dati che riguarda
+[52:54] i dati che trattiamo normalmente noi, i privati
+[52:56] i cittadini, quelli che noi trattiamo attraverso
+[52:58] il codice della privacy, attraverso una direttiva
+[53:00] che c'era da prima
+[53:02] e che ora verrà sostituita
+[53:04] il regolamento europeo, quindi
+[53:06] abbiamo una normativa che funziona
+[53:08] soltanto per le imprese
+[53:10] per
+[53:12] le pubbliche amministrazioni, per chi non si occupa
+[53:14] di
+[53:16] intelligenza e sicurezza, poi ci sono
+[53:18] delle materie che vengono lasciate fuori
+[53:20] dalla normativa europea, dove gli stati
+[53:22] non vogliono
+[53:24] rinunciare alle loro sovranità, questo lo dico
+[53:26] penso che lo sappiate tutti, però tanto
+[53:28] per far ritornare un po' le cose
+[53:30] altrimenti secondo me allarghiamo troppo il discorso
+[53:32] quindi è chiaro che quando noi parliamo
+[53:34] di una normativa nazionale, parliamo di una normativa
+[53:36] di rango europeo, ci rivolgiamo
+[53:38] a una normativa che possiamo
+[53:40] realisticamente al momento
+[53:42] può rinessere
+[53:44] noi, cioè
+[53:46] il lavoro da fare su questi argomenti
+[53:48] sicuramente è infinito
+[53:50] anche dal punto di vista
+[53:52] che tratto più io, quello
+[53:54] delle imprese, delle aziende
+[53:56] che si trovano
+[53:58] a gestire
+[54:00] i normali problemi di privacy
+[54:02] che derivano dalla direttiva
+[54:04] e poi successivamente dal codice
+[54:06] della privacy
+[54:08] anche nel nostro piccolo
+[54:10] noi abbiamo la difficoltà
+[54:12] che in mancanza di una regolamentazione
+[54:14] mondiale, perché questo una la fine
+[54:16] chiede, abbiamo
+[54:18] delle difficoltà enormi, magari perché
+[54:20] abbiamo un server negli Stati Uniti e non ci possiamo
+[54:22] spostare i dati, perché è cascato
+[54:24] il sayfarbore, quindi abbiamo
+[54:26] detto che quel
+[54:28] spostamento di dati non è più sicuro, non sappiamo
+[54:30] come fare, allora lo abbiamo adottato
+[54:32] delle strategie, cioè questo del
+[54:34] problema della globalizzazione
+[54:36] è un problema che purtroppo
+[54:38] per fortuna
+[54:40] riguarda un po' tutte le materie
+[54:42] noi abbiamo la possibilità
+[54:44] di avere tante facilitazioni, abbiamo
+[54:46] delle difficoltà, abbiamo normative
+[54:48] che erano fortemente territoriali, abbiamo
+[54:50] ancora regli Stati che sono territoriali
+[54:52] oggi noi non abbiamo
+[54:54] non è potuta essere con noi
+[54:56] anche la Presidente del Comitato
+[54:58] Sicurezza e Difesa del Parlamento Europeo
+[55:00] che sicuramente avrebbe contribuito
+[55:02] la dottoressa Anna Fuotiga
+[55:04] che probabilmente avrebbe contribuito
+[55:06] sul livello in cui siamo
+[55:08] sullo scambio di informazioni
+[55:10] però oltre l'Unione Europea, quello che volevo
+[55:12] dire io, è che noi abbiamo
+[55:14] un altro organismo
+[55:16] importante, la sedula
+[55:18] convenzione europea dei diritti dell'uomo
+[55:20] quella non combaccia esattamente con l'Unione Europea
+[55:22] è un trattato molto più ampio, hanno
+[55:24] aderito molti più paesi e l'anno scorso
+[55:26] mi tornava in mente ora, o forno
+[55:28] all'inizio del 2016 e alla fine del
+[55:30] 2015 sono state due sentenze importanti
+[55:32] mi sembra sulla sorveglianza di massa
+[55:34] una, mi sembra che lì
+[55:36] sono stato dato una sorta di decalovo
+[55:38] la sorveglianza di massa non si può fare
+[55:40] se a pesca strascico, non si può
+[55:42] fare se non vengono date garanzie, non si può fare
+[55:44] questa secondo me è importante e ci ragancia
+[55:46] al discorso anche di Fabio
+[55:48] non si può fare al di fuori di un quadro normativo
+[55:50] cioè
+[55:52] di un quadro normativo della legge
+[55:54] è la legge che deve attribuire i poteri
+[55:56] è la legge che deve attribuire le garanzie
+[55:58] se non sbaglio
+[56:00] adesso io vado un po' a memoria, mi era stato questo
+[56:02] l'argomento
+[56:04] se posso solo su questo tema
+[56:06] poi, vogliate mi scusare, devo scappare
+[56:08] un aspetto
+[56:10] legato alla sorveglianza di massa
+[56:12] che è e può essere attuata
+[56:14] soltanto da
+[56:16] il mondo dell'intelligenza e della difesa
+[56:18] ma almeno nel contesto europeo
+[56:20] non da parte delle forze dell'ordine
+[56:22] dopo la sorveglianza di massa si intende
+[56:24] un tubo in cui passa una fibra
+[56:26] un pezzo di rame e sopra ho
+[56:28] scoperto di collegamenti, ovvero
+[56:30] milioni di persone che fanno
+[56:32] conversazioni elettroniche che siano voce
+[56:34] o date sopra, le ha ascolto tutte
+[56:36] dalle di stillo solo ciò che mi serve
+[56:38] si potrebbero fare e si fanno
+[56:40] conveni su questo tema e su quali sono
+[56:42] i limiti dal punto di vista etico
+[56:44] anche la prospettia di futuro
+[56:46] un aspetto del contesto
+[56:48] che ricade proprio
+[56:50] sull'oggetto di questo pane
+[56:52] cioè la collaborazione dell'intelligenza
+[56:54] a livello europeo e la sorveglianza
+[56:56] massiva, allora le collaborazioni
+[56:58] dell'intelligenza a livello europeo
+[57:00] esistono su tavoli di raccordo
+[57:02] sulle tematiche specifiche
+[57:04] che possono riguardare
+[57:06] un terrorismo
+[57:08] possono riguardare certi
+[57:10] diciamo certi ambiti
+[57:12] della difesa e della geopolidica
+[57:14] dove c'è un certo
+[57:16] raccordo e interesse
+[57:18] a livello comunitario
+[57:20] ma di fatto
+[57:22] quelli che sono i tavoli
+[57:24] di lavoro
+[57:26] del mondo dell'intelligenza
+[57:28] sono spesso dei
+[57:30] dei tavoli di mercanteggiamento
+[57:32] di rapporti tra crediti e debiti
+[57:34] tra le diverse intelligence
+[57:36] cioè
+[57:38] nel momento in cui allo stesso tavolo sono presenti
+[57:40] rappresentanti di intelligence di diversi paesi
+[57:42] e taluni
+[57:44] hanno dei poteri di raccolta
+[57:46] di acquisizione informativa
+[57:48] più ampia di altri
+[57:50] e ovvio che saranno disponibili
+[57:52] per condividere di più
+[57:54] in cambio di quello che sarà
+[57:56] un favore che verrà scambiato in seguito
+[57:58] perché funziona tutto così
+[58:00] di conseguenza riportando
+[58:02] il tema della sorveglianza massiva
+[58:04] quando la Svezia
+[58:06] ha la possibilità
+[58:08] dal punto di vista legale
+[58:10] di fare operatività di sorveglianza massiva
+[58:12] sulle linee di comunicazione
+[58:14] perché non riguardi cittadini svedesi
+[58:16] quando la Svizzera ha passato
+[58:18] da poco
+[58:20] passano tantissime fibre di collegamento
+[58:22] in particolar modo dell'Italia
+[58:24] verso l'Europa
+[58:26] può fare sorveglianza massiva
+[58:28] perché non riguardi cittadini svedesi
+[58:30] allora ci troviamo
+[58:32] in una prospettiva
+[58:34] e questo non è il comodo toccato
+[58:36] dalla politica, dal legislatore
+[58:38] ci troviamo in una situazione in cui
+[58:40] nell'arco di pochi anni
+[58:42] ah, in Inghilterra, ovviamente
+[58:44] in Inghilterra ha dei sistemi di sorveglianza massiva
+[58:46] in cui nell'arco di pochi anni
+[58:48] di sveglianza massiva, dell'intelligenza
+[58:50] i pochi paesi che hanno
+[58:52] integrato sistemi di sorveglianza massiva
+[58:54] si doveranno un maggior livello di
+[58:56] crediti informativi nei confronti
+[58:58] dei paesi che non ce l'hanno
+[59:00] questo non significa che dobbiamo
+[59:02] diciamo spingere per introdurli, tutt'altro
+[59:04] ma questo rispetto ai temi di sorveglianza massiva
+[59:06] è uno dei temi perché poi va
+[59:08] impattare veramente delicati equilibri
+[59:10] anche di rapporti fra stati
+[59:14] io credo che noi siamo arrivati
+[59:16] nel limite di tempo che avevamo
+[59:18] spero che l'argomento vi sia sembrato
+[59:20] interessante, spero che abbia dato
+[59:22] gli spunti di
+[59:24] riflessione e spero che questo dibattito
+[59:26] poi prosegua, perché secondo me
+[59:28] è un dibattito importante
+[59:30] ed è un dibattito che forse dovrebbe coinvolgere
+[59:32] maggiormente le addetti ai lavori
+[59:34] io parlo degli avvocati, ma penso
+[59:36] anche, non lo so, i magistrati se sono così coinvolti
+[59:38] e anche
+[59:40] ma anche i propri cittadini
+[59:42] che si interessassero di queste materie
+[59:44] che a volte c'è una sottovalutazione
+[59:46] e anche magari un
+[59:48] lasciare che siano gli aspetti
+[59:50] ideologici
+[59:52] a prevalere
+[59:54] quindi io chiuderei su questo
+[59:56] ringrazio tutti per averci seguito

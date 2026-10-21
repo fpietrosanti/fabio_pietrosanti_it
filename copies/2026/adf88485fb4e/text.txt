@@ -1,0 +1,196 @@
+WhatsApp notifies 200 users who installed fake app built by Italian spyware maker SIO 
+
+ Skip to content 
+
+ Toggle Navigation 
+
+ News
+
+ Events 
+
+ TNW Conference 
+ June 19 & 20, 2025 
+
+ All events 
+
+ Spaces
+
+ Programs
+
+ Newsletters 
+
+ Partner with us 
+
+ Jobs 
+
+ Contact 
+
+ News 
+
+ Error 404: Page Not Found 
+ Error 404: Page Not Found 
+ Error 404: Page Not Found 
+
+ Latest 
+
+ Deep tech 
+
+ Sustainability 
+
+ Ecosystems 
+
+ Data and security 
+
+ Fintech and ecommerce 
+
+ Future of work 
+
+ Conference media hub 
+
+ More 
+
+ Startups and technology 
+
+ Investors and funding 
+
+ Government and policy 
+
+ Corporates and innovation 
+
+ Podcast 
+
+ Apple 
+
+ WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhones
+
+ April 1, 2026 - 9:06 pm 
+
+ WhatsApp has notified approximately 200 users, primarily in Italy, that they were tricked into installing a counterfeit version of the messaging app that was actually government spyware. The fake application was built by SIO, an Italian surveillance technology company that develops spyware for law enforcement and intelligence agencies through its subsidiary ASIGINT. WhatsApp said it had proactively identified the affected users, logged them out of their accounts, warned them about the privacy risks, and urged them to delete the fake client and install the official app from a trusted source. The company told TechCrunch it also plans to send a formal legal demand to SIO to halt any malicious activity linked to the campaign.
+
+ The disclosure, first reported by Italian newspaper La Repubblica and news agency ANSA, marks the second time in little more than a year that WhatsApp has publicly named a spyware vendor operating against its users in Italy. In early 2025, WhatsApp alerted around 90 users, including journalists and pro-immigration activists, that they had been targeted by Paragon Solutions, a U.S.-Israeli surveillance firm whose flagship product, Graphite, was deployed by Italy’s domestic and foreign intelligence services. That revelation triggered a political crisis in Rome. Italy’s parliamentary intelligence oversight committee, COPASIR, confirmed the use of Graphite and found that seven Italians had been targeted. Paragon subsequently cut ties with Italy’s spy agencies after the government declined to verify whether the spyware had been used against a specific journalist, Francesco Cancellato of the news site Fanpage.
+
+ SIO’s spyware operates through a different model. The malware, identified in its own code as Spyrtacus, is embedded in fake applications designed to look like legitimate software. Researchers have found 13 different samples of Spyrtacus dating back to 2019, with the most recent from late 2024. Previous versions impersonated Android apps from Italian mobile providers TIM, Vodafone, and WINDTRE, as well as earlier fake versions of WhatsApp itself. TechCrunch first exposed SIO’s Android distribution campaign in February 2025. The latest operation, targeting iPhones, represents an expansion of the tactic to Apple’s ecosystem. Once installed, Spyrtacus can steal text messages, chat histories, and call logs, as well as record audio and video directly from the device’s microphone and camera.
+
+ The delivery mechanism is as revealing as the malware itself. In Italy, authorities routinely obtain cooperation from mobile carriers, who send phishing links to their own customers on behalf of law enforcement. The target receives what appears to be a routine update notification from their provider, directing them to install what looks like a standard WhatsApp update. The Italian justice ministry has maintained a price list and catalogue showing how authorities can compel telecom companies to send such messages, a system that effectively turns the mobile network itself into a distribution channel for state surveillance tools. The cost of renting spyware in Italy is remarkably low: as of late 2022, law enforcement could access these tools for as little as €150 per day, without the large upfront acquisition costs that typically limit deployment in other countries.
+
+ TNW City Coworking space - Where your best work happens
+ A workspace designed for growth, collaboration, and endless networking opportunities in the heart of tech.
+
+ Book a tour now 
+
+ Italy’s position as a spyware hub is unusual among Western democracies. Companies including Hacking Team, Cy4Gate, RCS Lab, and Raxir have all been based in the country, drawn by a legal framework that provides a formal statutory basis for the “captatore informatico,” or computer interceptor, effectively state-sanctioned trojan software. Fabio Pietrosanti, president of the Hermes Center for Transparency and Digital Human Rights, has said that   spyware is deployed more frequently in Italy than anywhere else in Europe   because the low cost and permissive regulation make it accessible to a far wider range of law enforcement agencies than in neighbouring countries. The result is an ecosystem in which municipal police forces, not just national intelligence agencies, can commission surveillance operations against individuals.
+
+ WhatsApp spokesperson Margarita Franklin told TechCrunch the company could not yet confirm whether the 200 affected users included journalists or members of civil society. “Our priority has been protecting the users who may have been tricked into downloading this fake iOS app,” she said. The company did not specify whether it had referred the matter to Italian prosecutors or to any regulatory authority. Apple and SIO did not respond to requests for comment.
+
+ The legal landscape around commercial spyware has shifted substantially in the past year. In May 2025, a California jury ordered NSO Group, the Israeli maker of Pegasus, to pay WhatsApp $167 million in punitive damages after finding it had enabled hacks of approximately 1,400 users through zero-click attacks. A federal judge later reduced the award to $4 million but imposed a permanent injunction barring NSO from targeting WhatsApp’s infrastructure. NSO has appealed. WhatsApp’s parent company Meta described the verdict as a landmark, and it has since expanded its legal strategy against the broader surveillance industry. The formal legal demand WhatsApp intends to send SIO follows the same pattern: use litigation and public disclosure as deterrents against companies that profit from compromising encrypted messaging platforms.
+
+ The proliferation of spyware vendors presents a challenge that extends well beyond any single platform. Apple has sent mercenary-spyware threat notifications to users in more than 150 countries since 2021, alerting individuals it believes have been individually targeted by state-sponsored attacks. In April 2025, Apple notified the Italian journalist Ciro Pellegrino, one of the Paragon victims, that he had been targeted. The notification systems run by Apple and WhatsApp now represent the primary mechanism by which victims of government surveillance learn they have been compromised, a function that was once the exclusive domain of   the cybersecurity industry’s specialist researchers .
+
+ The global lawful-interception market was valued at $4 billion in 2023 and is projected to reach $15 billion by 2032, growing at roughly 16 per cent annually. That growth is being driven not by the Pegasus-style zero-click exploits that attract headlines, but by the kind of low-cost, phishing-based tools that SIO sells. The barrier to entry for government surveillance has dropped to the point where a local police department in a midsize Italian city can commission the same class of spyware deployment that was once the preserve of national intelligence agencies. The   gap between regulatory ambition and enforcement capacity   in Europe means that the legal frameworks governing these tools have not kept pace with the speed at which they are being adopted.
+
+ What makes the SIO case distinct from the Paragon scandal is the method. Paragon’s Graphite used zero-click exploits that required no action from the target. SIO’s Spyrtacus requires the target to install a fake application, a social-engineering approach that relies on trust in the carrier and familiarity with routine app updates. The fact that Italian telecoms participate in the delivery chain, sending phishing messages to their own subscribers at the state’s request, turns the mobile infrastructure itself into an instrument of surveillance. It is one thing for a government to hack a phone. It is another for the phone company to help.
+
+ WhatsApp’s decision to publicly name SIO and notify the affected users follows   the broader pattern of tech platforms asserting themselves as counterweights to state surveillance   in ways that would have been unthinkable a decade ago. The company is not merely patching a vulnerability. It is identifying the vendor, alerting the victims, and threatening legal action, a posture that positions a messaging app owned by Meta as a more effective check on government spyware abuse than any European regulatory body has managed to date. Whether that dynamic is reassuring or alarming depends on your view of where the responsibility for protecting citizens from their own governments should ultimately rest.
+
+ For the 200 users in Italy who received WhatsApp’s notification, the immediate question is narrower: who authorised the surveillance, and on what legal basis? The answer may never become public. Italy’s lawful-intercept framework permits the use of these tools under judicial oversight, but the oversight mechanisms have   repeatedly proven inadequate to prevent abuse . The Paragon scandal demonstrated that intelligence agencies could target journalists and activists under the cover of lawful authority. The SIO case suggests the problem runs deeper, extending to less prominent vendors, cheaper tools, and a distribution model that exploits the trust citizens place in their mobile carriers. The spyware industry does not need zero-click exploits to be dangerous. It just needs a convincing notification from your phone company.
+
+ Story by
+
+ Alina Maria Stan
+
+ Alina Maria Stan builds connections that people actually feel. As co-founder and COO of Tekpon, she turns product intuition into real moment
+
+ (show all)
+
+ Alina Maria Stan builds connections that people actually feel. As co-founder and COO of Tekpon, she turns product intuition into real moments of discovery, shaping how teams find and adopt SaaS every day. Since 2020, she has led Tekpon’s brand voice, media strategy, and growth plays with a clear focus on human outcomes behind every metric. 
+Before Tekpon, Alina followed curiosity across industries and countries. She was CEO of King Casino Bonus and led affiliate and brand strategy at Extremoo Media and Fable Media in Denmark, where she learned how to build partnerships that last. Early on, she sharpened her CRM and pricing instincts at K.H. ApS, always asking why customers choose what they choose. 
+Her approach is rooted in more than a decade of international experience and two master’s degrees, one in Sustainable Consumption from the Technical University of Munich and one in Consumer Affairs Management from Aarhus University.
+
+ Get the TNW newsletter
+
+ Get the most important tech news in your inbox each week.
+
+ Also tagged with
+
+ WhatsApp 
+
+ Published April 1, 2026 - 9:06 pm UTC 
+
+ Back to top 
+
+ Story by 
+ Alina Maria Stan 
+
+ Popular articles
+
+ 1 
+
+ Apple Intelligence briefly goes live in China without approval, raising the spectre of regulatory penalties 
+
+ 2 
+
+ UK fines Apple subsidiary for paying a sanctioned Russian streaming service through the App Store 
+
+ 3 
+
+ EU brings Apple, Google to heel in €15.4B courtroom double-whammy 
+
+ 4 
+
+ Apple begrudgingly allows EU customers to use rival app stores on iPhone 
+
+ 5 
+
+ Sideloaded app stores are coming to iOS in the EU: Here’s how they’ll work 
+
+ Related Articles
+
+ deep tech
+
+ Apple’s rumoured mixed reality headset may be the miracle the European XR industry needs 
+
+ plugged
+
+ How to update macOS as unsafely as possible 
+
+ Discover TNW All Access
+
+ Watch videos of our inspiring Talks for free 
+
+ Sign up now
+
+ ecosystems
+
+ Apple store workers in France to strike during iPhone 15 launch 
+
+ plugged
+
+ 8 foolproof ways to clutter up your Mac 
+
+ The heart of tech
+
+ More TNW
+
+ Media 
+
+ Events 
+
+ Spaces 
+
+ Newsletters 
+
+ About TNW
+
+ Partner with us 
+
+ Terms & Conditions 
+
+ Cookie Statement 
+
+ Privacy Statement 
+
+ A Tekpon Company
+
+ Copyright © 2006—2026, Cogneve, INC. Made with 
+
+ We use cookies and other data for a number of reasons, such as keeping TNW sites reliable and secure, personalizing content and ads, providing social media features and to analyze how our sites are used. ","linkColor":"6644ff","linkHoverColor":"7755ff","primaryBtnText":"Accept & continue","primaryBtnBgColor":"","primaryBtnBgHoverColor":"","primaryBtnColor":"","primaryBtnHoverColor":"","secondaryBtnText":"Manage cookies","secondaryBtnURL":"\/cookie-statement","secondaryBtnRedirectURL":"https:\/\/thenextweb.com\/news\/whatsapp-italian-spyware-fake-app-sio","secondaryBtnColor":"6644ff","secondaryBtnHoverColor":"7755ff","debugMode":false}'>

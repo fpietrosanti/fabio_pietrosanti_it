@@ -1,0 +1,11 @@
+{
+ "source_url": "https://www.infonodes.org/",
+ "fetched_url": "https://www.infonodes.org/",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 41065,
+ "sha256": "c9a7738a3243640dc6f07f16715c3194a67d5eab5db806ce38197d2848a7b0f8",
+ "name_found": true,
+ "fetched_at": "2026-10-14T10:36:40+00:00"
+}

@@ -1,0 +1,11 @@
+{
+ "source_url": "https://books.google.com/books?id=KOREEAAAQBAJ",
+ "fetched_url": "https://books.google.it/books?id=KOREEAAAQBAJ&redir_esc=y",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 309818,
+ "sha256": "c1a9790688bc4ecbe37166b80f388da60c44006f903f419d3924543a34177aab",
+ "name_found": false,
+ "fetched_at": "2026-09-25T12:23:00+00:00"
+}

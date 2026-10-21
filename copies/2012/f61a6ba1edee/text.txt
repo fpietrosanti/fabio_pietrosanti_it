@@ -1,0 +1,888 @@
+How The Great Firewall of China Is Blocking Tor | PDF | Proxy Server | Domain Name System 
+
+ Open navigation menu Close suggestions Search Search 
+
+ en Change Language 
+
+ Upload Sign in 
+ Sign in 
+
+ 0 ratings 0% found this document useful (0 votes) 
+ 27 views 7 pages 
+ How The Great Firewall of China Is Blocking Tor
+
+ The paper investigates the mechanisms used by the Great Firewall of China (GFC) to block access to the Tor network, revealing that the GFC employs dynamic blocking techniques rather than simple IP blacklisting. It discusses the results of experiments conducted to analyze the blocking infrastructure, including the identification of active scanning methods and the behavior of blocked bridges. The authors propose circumvention techniques and emphasize the importance of understanding the GFC's capabilities for future efforts to bypass censorship.
+
+ Uploaded by
+ ahmed hussein 
+ AI-enhanced title and description
+
+ Copyright
+ © © All Rights Reserved
+
+ We take content rights seriously. If you suspect this is your content, claim it here .
+ Available Formats
+ Download as PDF, TXT or read online on Scribd
+
+ Download 
+
+ Save Save How the Great Firewall of China is Blocking Tor For Later 
+
+ Share 
+
+ 0% 0% found this document useful, undefined 
+
+ 0% , undefined 
+
+ Print 
+
+ Embed 
+
+ Report 
+
+ 0 ratings 0% found this document useful (0 votes) 
+ 27 views 7 pages 
+ How The Great Firewall of China Is Blocking Tor
+
+ The paper investigates the mechanisms used by the Great Firewall of China (GFC) to block access to the Tor network, revealing that the GFC employs dynamic blocking techniques rather than simple IP blacklisting. It discusses the results of experiments conducted to analyze the blocking infrastructure, including the identification of active scanning methods and the behavior of blocked bridges. The authors propose circumvention techniques and emphasize the importance of understanding the GFC's capabilities for future efforts to bypass censorship.
+
+ Uploaded by
+ ahmed hussein 
+ AI-enhanced title and description
+
+ Copyright
+ © © All Rights Reserved
+
+ We take content rights seriously. If you suspect this is your content, claim it here .
+ Available Formats
+ Download as PDF, TXT or read online on Scribd
+
+ Go to previous items Go to next items Download 
+
+ Save Save How the Great Firewall of China is Blocking Tor For Later 
+
+ Share 
+
+ 0% 0% found this document useful, undefined 
+
+ 0% , undefined 
+
+ Print 
+
+ Embed 
+
+ Report 
+
+ Download 
+
+ Save How the Great Firewall of China is Blocking Tor For Later 
+
+ Search 
+
+ Fullscreen 
+
+ How the Great Firewall of China is Blocking Tor
+ Philipp Winter and Stefan Lindskog
+ Karlstad University {philwint, steflind}@[Link]
+ Abstract Tor blocking infrastructure is designed and (3) we dis-
+ cuss and propose circumvention techniques. Internet censorship in China is not just limited to the We also point out that censorship is a fast moving tar- web: the Great Firewall of China prevents thousands get. Our results are only valid at the time of writing1 and of potential Tor users from accessing the network. In might—and probably will—be subject to change. Nev- this paper, we investigate how the blocking mechanism ertheless, we believe that a detailed understanding of the is implemented, we conjecture how China’s Tor block- GFC’s current capabilities, a “censorship snapshot”, is ing infrastructure is designed and we propose circumven- important for future circumvention work. tion techniques. Our work bolsters the understanding of China’s censorship capabilities and thus paves the way towards more effective circumvention techniques. 2 Related Work In [28], Wilde revealed first crucial insights about the 1 Introduction block of Tor traffic. Over a period of one week in Decem- ber 2011, Wilde analysed how unpublished Tor bridges On October 4, 2011 a user reported to the Tor bug tracker are getting scanned and, as a result, blocked by the GFC. that unpublished bridges stop working after only a few Wilde’s results showed that when a Tor user in China minutes when used from within China [17]. Bridges are establishes a connection to a bridge or relay, deep packet unpublished Tor relays and their very purpose is to help inspection (DPI) boxes identify the Tor protocol. Shortly censored users to access the Tor network if the “main after a Tor connection is detected, active scanning is ini- entrance” is blocked [4]. The bug report indicated that tiated. The scanning is done by seemingly random Chi- the Great Firewall of China (GFC) has been enhanced nese IP addresses. The scanners connect to the respec- with the potentiality of dynamically blocking Tor. tive bridge and try to establish a Tor connection. If it This censorship attempt is by no means China’s first succeeds, the bridge is blocked. attempt to block Tor. In the past, there have been efforts Wilde was able to narrow down the suspected cause to block the website [27], the public Tor network [24, 22] for active scanning to the cipher list sent by the Tor client and parts of the bridges [18]. According to a report [27], inside the TLS client hello2 . This cipher list appears to these blocks were realised by simple IP blacklisting and be unique and only used by Tor although for a long time HTTP header filtering. All these blocking attempts had it was identical to the cipher list advertised by Firefox in common that they were straightforward and inflexible. 3. That gives the GFC the opportunity to easily identify In contrast to the above mentioned censorship at- Tor connections. Furthermore, Wilde noticed that active tempts, the currently observable block appears to be scanning is started at the beginning of multiples of 15 much more flexible and sophisticated. The GFC blocks minutes. An analysis of the Tor debug logs yielded that bridges dynamically without simply enumerating their IP Chinese scanners initiate a TLS connection, conduct a addresses and blacklisting them (cf. [7]). renegotiation and start building a Tor circuit, once the In this paper, we try to deepen the understanding of TLS connection was set up. After the scan succeeded, the the infrastructure used by the GFC to block the Tor 1 The data was mostly gathered in March 2012 and the paper written anonymity network. Our contributions are threefold: (1) in April 2012. we reveal how users within China are hindered from ac- 2 The TLS client hello is sent by the client after a TCP connection
+ cessing the Tor network, (2) we conjecture how China’s has been established. Details can be found in the Tor design paper [5].
+ 1 IP address together with the associated port (we hereafter proxies and a VPS. We compiled a list of public Chi- refer to this as “IP:port tuple”) of the freshly scanned nese SOCKS proxies by searching Google. We were bridge is blocked resulting in users in China not being able to find a total of 32 SOCKS proxies which were dis- able to use the bridge anymore. tributed amongst 12 distinct autonomous systems. We With respect to Wilde’s contribution, we (1) revisit connected to these SOCKS proxies from computers out- certain experiments in greater detail and with signif- side of China and used them to rerun certain experiments icantly more data, we (2) rectify observations which on a smaller scale to rule out phenomena limited to our changed since Wilde’s analysis, and we (3) answer yet VPS. open questions. Our second vantage point and primary experimental machine is a VPS we rented. The VPS ran Linux and resided in the autonomous system number (ASN) 4808. 3 Experimental Setup We had full root access to the VPS which made it pos- sible for us to sniff traffic and conduct experiments be- During the process of preparing and running our experi- low the application layer. Most of our experiments were ments we took special care to not violate any ethical stan- conducted from our VPS, whereas the SOCKS proxies’ dards and laws. In addition, all our experiments were primary use was to verify the results. in accordance with the terms of service of our service providers. In order to ensure reproducibility and en- courage further research, we publish our gathered data 3.2 Shortcomings and developed code3 . The data includes Chinese IP ad- Active analysis of a censorship system can easily attract dresses which were found to conduct active scanning the censor’s attention if no special care is taken to “stay of our bridge. We carefully configured our Tor bridges under the radar”. Due to the fact that China is a sophis- to remain unpublished and we always picked randomly ticated censor with the potential power to actively fal- chosen high ports to listen to so that we can be sure that sify measurement results, we have to point out potential the data is free from legitimate Tor users. shortcomings in our experimental setup. We have no reliable information about the owners of 3.1 Vantage Points our public SOCKS proxies. Whois lookups did not yield anything suspicious but the information in the records In order to ensure a high degree of confidence in our re- can be spoofed. It might even be possible that the sults, we used different vantage points. We had a relay SOCKS proxies are operated by Chinese authorities. in Russia, bridges in Singapore and Sweden and clients Second, our VPS was located in a data center where Tor in China. There is, however, no technical reason why we connections typically do not originate. We also had no chose Russia, Singapore and Sweden. information about whether our service provider conducts Bridge in Singapore: A large part of our experiments Internet filtering and the type or extent thereof. was conducted with our Tor bridge located in Singapore. The bridge was running inside the Amazon EC2 cloud [1, 23]. The OpenNet Initiative reports Singapore as a 4 Analysis country conducting minimal Internet filtering involving only pornography [9]. Hence, we assume that our ex- 4.1 How Are Bridges and Relays Blocked? perimental results were not interfered with by Internet filtering in Singapore. The first step in bootstrapping a Tor connection requires Bridge in Sweden: To reproduce certain experiments, connecting to the directory authorities to download the we set up Tor bridges located at our institution in Swe- consensus which contains all public relays. We noticed den. Internet filtering for these bridges was limited to that seven of all eight directory authorities are blocked well-known malware ports, so we can rule out filtering on the IP layer. These machines responded neither to mechanisms interfering with our results. TCP, nor to ICMP packets. One authority turned out to Relay in Russia: A public Tor relay located in a Rus- be reachable and it was possible for us to download the sian data center was used to investigate the type of block, consensus. We have no explanation why this particular public Tor relays are undergoing. The relay served as a machine was unblocked. middle relay, meaning that it is not picked as the first hop After the consensus has been downloaded, clients can in a Tor circuit and it does not see the exit traffic of users. start creating a circuit. Using our Russian relay, we Clients in China: To avoid biased results, we used found out that when a client in China connects to a re- two types of vantage points inside China: open SOCKS lay, the GFC lets the TCP SYN pass through but drops the SYN/ACK sent by the bridge to the client. The 3 [Link] same happens when a client tries to connect to a blocked
+ 2 bridge. However, clients are still able to connect to dif- 4.4 Where Does the Fingerprinting Hap- ferent TCP ports as well as ping the bridge. We believe pen? that the reason for the GFC blocking relays and bridges by IP:port tuples rather than by IPs is to minimise collat- We want to gain a better understanding of where the Chi- eral damage. nese DPI boxes are looking for the Tor fingerprint. In detail, we tried to investigate whether the DPI boxes also analyse domestic and ingress traffic. 4.2 How Long Do Bridges Remain We used six open Chinese SOCKS proxies (in ASN Blocked? 4134, 4837, 9808 and 17968) as well as six PlanetLab nodes (in ASN 4538 and 23910) to investigate domestic To answer this question, we started two Tor bridges on fingerprinting. We simulated the initiation of a Tor con- our machine in Singapore. Both Tor processes were pri- nection multiple times to randomly chosen TCP ports on vate bridges and listening on TCP port 27418 and 23941, our VPS, but could not attract any active scans. respectively. Both ports were chosen randomly. Previous research confirmed that HTTP keyword fil- In the next step, we made the GFC block both IP:port tering done by the GFC is bidirectional [2], i.e., key- tuples by initiating Tor connections to them from our words are scanned in ingress as well as in egress traffic. VPS in China. After both tuples were blocked, we set We wanted to find out whether this holds true for the Tor up iptables [16] rules on our machine in Singapore to DPI infrastructure too. To verify that, we tried to initiate whitelist our VPS in China to port 23941 and drop all Tor connections to our Chinese VPS from our vantage other connections to the same port. That way, the tuple points in Sweden, Russia and Singapore. Despite multi- appeared unreachable to the GFC but not to our Chinese ple attempts we were not able to attract a single scan. VPS. Port 27418 remained unchanged and hence reach- The above mentioned results indicate that Tor finger- able to the GFC. We then started monitoring the reach- printing is probably not done in domestic traffic and only ability of both Tor processes by continuously trying to with traffic going from inside China to the outside world. connect to them using telnet from our VPS. We believe that there are two reasons for that. First, fin- After approximately 12 hours, the Tor process behind gerprinting domestic traffic in addition to international port 23941 (which appeared to be unreachable to the traffic would dramatically increase the amount of data to GFC) became reachable again whereas connections to analyse since domestic traffic is believed to be the largest port 27418 still timed out and continued to do so. In fraction of Chinese traffic [12]. Second, at the time of our iptables logs we could find numerous connection at- this writing there are no relays in China so there is no tempts originating from Chinese scanners. This obser- need to fingerprint domestic or ingress traffic. Tor us- vation shows that once a Tor bridge has been blocked, age in China means being able to connect to the outside it only remains blocked if Chinese scanners are able to world. continuously connect to the bridge. If they cannot, the block is removed. 4.5 Where Are the Scanners Coming From? 4.3 Is the Public Network Reachable? To get extensive data for answering this question, we To verify how many public relays are reachable from continuously attracted scanners over a period of 17 days within China, we downloaded the consensus published ranging from March 6 to March 23. We attracted scan- at February 23 at 08:00 (UTC). At the time, the consen- ners by simulating Tor connections from within China to sus contained descriptors for a total of 2819 relays. Then, our bridge in Singapore4 . To simulate a Tor connection, from our Chinese VPS we tried to establish a TCP con- we developed a small tool whose sole purpose was to nection to the Tor port of every single relay. If we were send the Tor TLS client hello to the bridge and terminate able to successfully establish a TCP connection we clas- after receiving the response. We could also have used sified the relay as reachable, otherwise unreachable. the original Tor client to do so, but our tool was much We found that our VPS could successfully establish more lightweight which was helpful, given our resource- TCP connections to 47 out of all 2819 (1.6%) public re- constrained VPS. After every Tor connection simulation, lays. We manually inspected the descriptors of the 47 our program remained inactive for a randomly chosen relays, but could not find any common property which value between 9 and 14 minutes. The experiment yielded could have been responsible for the relays being un- 3295 scans of our bridge. Our findings described below blocked. We checked the availability of the reachable are based on this data. relays again after a period of three days. Only one out of 4 Wereproduced this experiment with a bridge in Sweden and with the original 47 unblocked relays was still reachable. open Chinese SOCKS proxies. Our findings were the same.
+ 3 4.5.1 Scanner IP Address Distribution
+ 10 Amount of IP addresses Amount of IP addresses 10 20 30 40 50
+ 8 We are interested in the scanner’s IP address distribution, i.e., how often can we find a particular IP address in our
+ 6 logs? Our data exhibits two surprising characteristics:
+ 4 1. More than half of all connections—1680 of 3295
+ 2 (51%)—were initiated by a single IP address:
+ 0 0 2 4 6 8 10 12 14 [Link]. −2 −1 0 1 2 3 4 TTL difference Minutes until ping reply
+ 2. The second half of all addresses is almost uniformly (a) The IP TTL difference between (b) The amount of minutes until distributed. Among all 1615 remaining addresses, after and during the scan. the hosts started replying to pings. 1584 (98%) were unique. The IP address [Link] clearly stands out from Figure 1: IP TTL difference (a) and duration until ping all observed scanners. Aside from its heavy activity we replies (b). could not observe any other peculiarities in its scanning behaviour. The whois record of the address states a com- pany named “Beijing Guanda Technology [Link]” as 4.5.3 IP Address Spoofing owner. We could only find a company named “Guanda During manual tests we noticed that sometimes shortly Technology Amusement Equipment Co., Ltd” on the In- after a scan, the respective IP address starts replying to ternet. It is not clear whether this is the same company. pings6 , but with a different IP Time-to-Live (TTL) than However, as explained below, we have reason to believe during the scan. In order to have more data for our anal- that the scanner’s IP addresses are spoofed by the GFC so ysis, we wrote a script to automatically collect additional the owner of the IP address, assuming that it even exists, data as soon as a scanner connects and again some min- might not be aware of the scanning activity. utes afterwards. In particular, the script (1) runs TCP, Whois and reverse DNS lookups of all the seemingly UDP and ICMP traceroutes immediately after a scan and random IP addresses suggested that the IP addresses again 15 minutes later, (2) continuously pings the scan- were coming from ISP pools. For example, all valid re- ning IP address for 15 minutes and (3) captures all net- verse DNS lookups contained either the strings adsl or work traffic during these 15 minutes using tcpdump. dynamic. Between March 21 and 26 we started an independent experiment to attract scanners and let our script gather 4.5.2 Autonomous System Origin the above mentioned data. We caused a total of 429 scans coming from 427 unique IP addresses. From all We used the IP to ASN mapping service provided by 429 scans we then extracted all connections where the Team Cymru [15] to get the autonomous system num- continuous 15 minutes ping resulted in at least one ping ber for every observed scanner. The result reveals that reply. This process yielded a subset of 85 connections all scanners come from one of three ASes5 with the re- which corresponds to approximately 20% of all observed spective percentage in parantheses: connections. We analysed the 85 connections by com- • AS4837: CHINA169-BACKBONE CNCGROUP puting the amount of minutes until the respective IP ad- China169 Backbone (65.7%) dress started replying to our ping requests and the IP TTL • AS4134: CHINANET-BACKBONE No.31,Jin- difference (new TTL – old TTL) between packets during rong Street (30.5%) the scan and ping replies. The results are shown in Figure 1(a) and 1(b). Figure • AS17622: CNCGROUP-GZ China Unicom 1(b) illustrates how long it took for the hosts to start re- Guangzhou network (3.8%) plying to the ping requests. No clear pattern is visible. AS4134 is owned by China Telecom while AS4837 Figure 1(a) depicts all IP TTL differences after the scan and AS17622 is owned by China Unicom. AS4134 and (when the host starts replying to ping packets) and dur- AS4837 are the two largest ASes in China [13] and play a ing the scan. We had 14 outliers with a TTL difference crucial role in the country-wide censorship as pointed out of 65 and 192 but did not list them in the histogram. It by Xu, Mao and Halderman [29]. Furthermore, Roberts is clearly noticeable that the difference was mostly one, et al. [13] showed that China’s AS level structure is far meaning that after the scan, the TTL was by one more from uniform with a significant fraction of the countries than during the scan. traffic being routed through AS4134 or AS4837. One explanation for the changing TTL, but definitely 5 Recent research efforts by Roberts et al. showed that China oper- 6 Note that this is never the case during or immediately after scans. ates 177 autonomous systems [13]. All ICMP packets are being dropped.
+ 4 55m ● ● ● ● ● ● ●●● ● ● ●● ● ●● ● ●● ●● ●● ● ● ●● ● ● ● ● ● ● ● ● ●● ● ● ● ● ●● ●●●●●● ● ● ● ●● ● ●●●● ●● ● ● ● ● ● ●● ● ●●●● ●● ● ● 3m 20m ● ● ● ● ●●●●● ●● ● ●●●● ● ● ●●● ●●●● ●● ● ● ● ● ● ●● ● ● ● ●●● ● ●● ● ● ●●● ●●● ● ● ●●● ●●●● ●●●●● ● ● ● ● ●●●● ● ●●●● ●●●● ● ● ● ● ● ●●●● ●● ● ● ●● ● ●●● ● ● ● ● ●● ● ●● ● ● ●●● ● ●● ●●●●● ●●●●● ●●●● ●● ● ● ● ● ●● ● ●● ●● ● ● ● ●● ● ● ●● ● ● ● ● ● ●●●● ● ● ●●●● ● ●● ● ●● ●●● ●●● ● ● ● ●● ●● ● ● ●● ● ● ●●● ●● ● ● ●● ●●● ●● ● ● ● ● ● ● ● ●● ●●●●● ●●
+ Minutes
+ Minutes ●● ● ● ● ●●● ● ●●● ●●● ● ●●● ● ● ● ● ●● ● ● ● ●● ●●● ●●● ● ●●●● ● ●●● ●●●●●● ● ●●●● ● ● ●●● ●● ● ● ●● ●● ● ●● ● ● ● ● ● ●●●●● ● ● ●●●●● ● ● ●●●● ● ●●●● ●● ●● ●● ●● ●●● ●● ●●●● ●● ●● ● ●●●● ●●● ●● ● ●●●●● ● ● ● ● ● ●● ● ●● ● ● ●● ● ● ●● ● ● ●●● ●● ● ●● ●● ● ● ● ●● ● ●● ● ● ●●● ● ● ● ● ● ● ● ● ● ●●●● ● ●●● ● ● ● ● ● ●● ● ●●● ●● ● ● ● ● ● ● ● ● ●●●●●● ●● ● ● ● ● ● ● ● ●●● ●● ●●●● ● ● ● ● ● ● ● ● ● ● ●●● ● ● ● ● ● ● ● ●● ● ● ● ● ● ● ● ● ● ● ●● ● ● ● ● ●● ● ●●● ● ● ● ● ● ● ● ● ●● ● ● ● ●●●● ● ●● ● ● ● ● ●●● ● ● ●● ● ●● ● ● ● ● ● ●● ● ●● ● ● ● ● ●● ● ● ●●● ● ● ● ● ● ● ● ●● ● ● ● ● ●● ●● ●● ●● ●● ● ● ● ●●● ● ●● ●● ● ●● ● ● ● ●● ● ● ●●● ● ● ● ● ● ● ● ● ● ● ● ●● ● ● ●● ●● ●● ● ●● ● ●● ● ● ●● ●● ●● ● ● ● ●● ●●●● ●● ●● ●● ● ●● ● ●●● ●● 45m ● ● ●●●●●●● ● ● ● ● ●● ● ● ● ● ● ●● ● ● ● ● ● ● ●● ● ● ● ●
+ 2m 19m 40m ● ● ● ●●●● ● ● ● ●●● ●● ● ● ● ●● ● ● ●● ● ●● ● ●● ●● ● ●● ●●● ●●● ●● ●● ● ● ●●● ●● ● ●● ● ●● ●●● ● ●●●● ● ● ● ● ● ●●● ● ● ● ● ●●●● ● ●● ● ●●●● ●●●●●●●● ● ● ●● ●● ●● ●● ●●● ● ● ●● ●● ● ●● ●● ● ● ● ● ●● ● ●● ● ●● ● ● ●● ●●●●●●● ●● ● ● ●●● ●● ● ● ●● ●● ● ● ● ●● ● ●●●● ● ●●● ● ● ● ●● ● ●● ● ● ● ●● ●●●● ● ●● ●● ●● ●●● ● ● ● ● ● ● ●●● ● ●●●●● ● ●●● ●●● ● ● ● ●●●● ● ● ●● ●●● ●● ● ● ● ●● ●● ● ●● ● ● ●●● ● ●● ● ● ● ● ●● ●●● ●●● ●● ● Minutes
+ ● ● ●● ●● ● ● ● ● ● ●●● ● ●●●● ●● ●● ●● ●● ●● ● ● ● ● ●● ● ●● ● ●● ● ●● ● ●● ● ●● ● ●● ● ● ●●● ● ● ●● ● ●● ● ●● ● ● ● ● ● ● ●● ● ● ●●●●● ● ● ● ● ● ● ● ● ● ●● ● ● ● ●● ●● ● ●●● ● ● ● ●● ● ● ● ● ● ● ● ● ● ●● ●●● ● ● ● ● ● ● ● ●●● ● ● ● ● ● ● ● ● ● ●● ● ● ●●● ●● ● ● ● ●● ● ● ● ● ● ● ● ● ● ● ● ●●● ● ● ● ● ● ● ●● ● ● ●● ● ● ● ● ●● ● ● ● ●● ●● ● ● ● ● ●● ● ●● ● ● ● ●● ● ● ● ● ● ● ● ● ● ● ●● ● ●●● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●●● ● ● ● ● ●● ● ●● ● ● ● ● ● ● ● ●● ●● ●● ●● ● ● ● ● ●●●● ● ●● ● ●● ●●● ●● ● ● ● ● ● ● ● ● ● ● ● ●● ● ● ● ● ●● ● ● ● ●● ●● ● ●● ●● ● ● ● ●●●● ●● ● ● ● ● ●● 18m ●● ●● ●●● ● ● ●● ●● ●● ● ●● ● ● ● ● ●●● ● ● ● ● ● ● ● ●● ● ● ● ●●●● ●● ● ● ● ●●● ● ●● ●● ● ●●● ● ● ●● ● ●●●● ●●●● ● ●●● ● ●● ● ● ● ● ●●●● ● ●● ●●●● ● ●●● ●● ● ●● 30m ●● ● ● ●● ● ● ● ● ● ● ● ●● ● ● ● ●● ●● ● ● ● ● ● 1m ● ● 25m ● ● ● ● ● ● ● ●● ●●● ● ● ●● ● ● Mar 17 Mar 21 Mar 17 Mar 21 ● ● ● ● ●●● ● ● ● ●● ●● ● ●● ●● ●● ● ● ● ● ● ●● ● ● ● ● ● ●● ● ● ●● ● ● ●●● ●● ●●●● ●●● ● ●● ●● ● ●●● ●●●●●● ● ● ●● ● ●● ● ●●● ● ● ● ● ● ●● ● ● ● ●● ●●● ● ●●● ● ●● ●● ● ●● ● ●●● ● ●●●● ● ● ●●● ● ● ● ● ●● ● ●● ● ● ● ● ● ● ●● ● ● ● ● ● ● ● ●●●●● ●● ● ●● ● ●● ● ● ● ●●● ●● ●● ●● ●● ● ● ●●● ●● ●● ● ● ● ● ●●● ●● ●● ● ●●● ●● ● ●● ● ●● ●● ● ● ● ● ●● ● ● ● ● ● ●● ● ●● ● ● ● ● ●●● ● ●●● ● ●●● ●●● ● ● ● ● ● ● ● ● ● ● ●● ● ●● ●● ● ●● ● ●● ● ● ●● ● ● ● ● ●● ● ● ●● ● ●● ● ●● ●●● ● ● ● ● ● ● ● ● ● ● ● ● ●● ● ●● ● ● ● ● ●● ● ● ● ●● ● ●●●●● ●● ● ● ● ●●●● ● ● ● ● ● ●● ● ● ● ● ●●● ●●●●● ● ●● ● ● ● ● ● ● ● ● ● ● ● ●●●●●●●● ●● ●● ● ●● ● ● ● ● ● ● ● ● ●● ● ● ● ● ● ● ●●● ● ● ● Time Time ● ●● ●●●●● ● ●● ● ●● ● ● ●●● ● ●●● ● ●●●●● ● ● ● ●●●● ● ● ● ● ●● ● ●● ●● ●● ●● ● ●● ● ● ● ●● ● ● ●● ● ● ● ●● ●● ● ● ● ●●● ● ● ● ●● ●● ●● ● ●●● ●●● ● ● ● ●● ● ● ● ● ● ●● ● ● ● ● ●● ● ● ● ●●● ● ●● ● ● ● ● ● ● ●● ● ● ●● ●●● ●● ● ●● ● ●● ● ● ● ● ●● ●● ●● ●● ●●● ●●● ● ● ● ●● ●● ● ● ● ●● ●●● ●● ● ●● ● ● ● ● ● ● ●●● ● ● ●●●●● ●●●● ●● ● ● ● ● ● ● ●● ● ● ●●● ●● ●● ● ● ●● ●● ● ● ●● ● ● ●● ● ● ● ● ● ● ●● ● ● ● ● ● ● ●● ●● ● ● ●●● ● ● ● ● ●●● ● ● ●● ● ● ● ● ● ● ●● ● ●● ● ● ●● ●●● ● ●●● ● ● ● ● ● ● ● ● ● ●● ● ●● ●● ● ● ● ● ●● ●● ● ●● ●● ●● ●● ● ●● ●● ●●● ● ● ● 15m ● ● ● ● ● ● ● ● ●
+ ● 10m ● ● ● ●● ● ● ●●●● ●● ● ● ●●● ● ●● ●●● ● ● ● ●● ● ●● ● ● ● ●●● ● ● ● ●● ● ● ● ● ● ● ● ●●● ● ● ●●●●● ● ●● ● ● ● ● ● ●● ● ● ●●●● ●●● ●●● ● ●●●● ● ● ● ●●● ●● ●●● ● ● ●● ● ● ● ●● ● ●● ● ● ●●● ●●● ●● ● ● ●●● ● ●● ● ● ● ●● ●● ● ● ● ●● ● ● ●●● ●●● ●● ●● ● ● ● ●● ●●● ●● ● ●● ● ● ●●●● ●● ● ● ●●● ● ● ●● ● ●● ● ● ●●●● ● ●● ●● ● ● ●●●● ●● ●● ●●●● ●●● ● ● ●●●●● ●●● ● ● ● ●● ●● ● ● ●● ●●●●● ● ●● ●●● ● ● ● ●● ● ● ●● ● ●● ●●● ● ●●● ● ● ● ●●●● ● ● ●● ●● ●● ● ● ● ● ● ●● ● ● ●● ● ● ●● ●● ● ● ●● ● ● ●● ● ● ●● ● ●● ● ● ● ●● ●● ● ● ●●● ● ● ●● ●●●● ●● ● ●● ● ● ● ●● ● ●● ●● ● ● ●● ● ● ● ● ●● ● ● ● ●● ●●● ● ●● ● ● ● ●●●● ● ●●● ● ● ●● ●●●● ● ● ●● ● ●● ●● ●●● ● ● ●●● ●●● ●● ● ● ●●●● ● ● ●●● ● ●●● ● ●● ●● ● ●● ● ● ● ●● ●● ● ● ● ● ● ● ●● ●● ●●● ● ● ●●● ●● ● ● ●● ●●● ● ●● ●● ●●●● ● ● ● ● ●● ●● ●● ● ● ● ●● ● ●● ●● ● ● ● ●● ●● ● ● ● ●● ●●●● ●● ● ●● ● ● ●●● ●● ● ● ●●● ●● ● ● ●●● ● ●● ● ● ● ● ●● ● ● ● ● ● ●● ● ● ●●● ● ●●● ●● ●● ● ●● ● ● ●●●●● ● ●● ●●● ●●●● ● ● ● ●● ●● ● ● ●● ● ●●●●●●● ●●●● ● ● ● ● ●● ● ● ●●● ● ● ●●●●●● ● ●●● ● ● ● ● ● ● ●● ● ● ● ● ●●● ● ● ● ● ●●● ● ●● ● ● ● ● ● ●● ●● ●●● ● ● ● ● ● ●● ● ●● ● ●● ● ●● ● ● ●● ●● ●●● ● ● ● ● ● ● ● ●●● ● ●● ● ● ●●●●● ● ●●●● ●● ●● ● ● ●● ● ●● ● ●●●● ● ● ● ●● ● ● ● ●●●●●● ● ●● ●● ●● ● ● 50m 0m ● ● ●● ● ● ● ● ● ● ●● ● ● ● ●● ● ● ●● ●● ● ● ●●
+ Mar 06 Mar 11 Mar 16 Mar 21 34m 49m
+
+ Minutes
+ Minutes Time 48m 33m 47m Figure 2: Time points when scanners were found con- Mar 17 Mar 21 Mar 17 Mar 21 necting to our bridge. Time Time
+ Figure 3: Diurnal scanning connection pattern.
+ not the only one, is that the GFC could be spoofing IP ad- dresses. The firewall could be abusing several IP address pools intended for Internet users to allocate short-lived 4.7 Blocking Malfunction IP addresses for the purpose of scanning. During our experiments we noticed several sudden disap- pearences of active scanning. This lack of scanning made 4.6 When Do the Scanners Connect? it possible for us to successfully initiate Tor connections without causing bridges to get scanned and blocked. The Figure 2 visualises when the scanners in our data set con- Tor bridge usage statistics between January and June nected. The y-axis depicts the minutes of the respective 2012 contain several usage spikes which confirm outages hour. Contrary to December 2011, when Wilde ran his in the blocking infrastructure [26]. Another downtime experiments, the scanners now seem to use a broader was observed by Wilde [19]. time interval to launch the scans. In addition, the data contains two time intervals which are free from scanning. These intervals lasted from March 8 at around 16:30 to 5 Circumvention March 9 at 09:00 and from March 14 at 09:30 to March 16 at 3:30 (UTC). We have no explanation why the GFC While there is a large body of work dedicated to anti- did not conduct scanning during that time. censorship, we limit this section to the discussion of the recently developed obfsproxy [21] and propose a novel Closer manual analysis yielded that the data exhibits a way to evade the GFC’s DPI boxes. diurnal pattern. In order to make the pattern visible, we processed the data as four distinct time series with ev- ery 15 minutes interval forming one time series, respec- 5.1 Obfsproxy tively. We smoothed the time series’ data points using The Tor Project is developing a tool called obfsproxy. simple exponential smoothing with a smoothing factor The tool runs independently of Tor and is obfuscating the α = 0.05. The result—a subset of the data ranging from network traffic it receives from the Tor process. As long March 16 to March 23—is shown in Figure 3. Each of as both, the bridge and the client, are running the tool, the the four diagrams represents one of the 15 minutes inter- Tor traffic transmitted between them can be obfuscated vals. The diagrams show that depending on the time of so that the Chinese DPI boxes are not able to identify the the day, on average, scanners connect either close to the TLS cipher list anymore. respective 15 minutes multiple or a little bit later. Obfsproxy implements a pluggable transport layer We conjecture that the GFC maintains scanning which means that modules can be written that support queues. When the DPI boxes discover a potential Tor different types of obfuscation7 . At the time of this writ- connection, the IP:port tuple of the suspected bridge is ing, obfsproxy contains an obfuscation module called added to a queue. Every 15 minutes, these queues are obfs2 [20] which is based on Leidl’s obfuscated ssh [6]. processed and all IP:port tuples in the queue are being Obfs2 relies on a key establishment phase which is fol- scanned. We believe that during the day, the GFC needs lowed by the two involved parties exchanging superen- more time to process the queues since there are proba- ciphered messages. A passive woman-in-the-middle is bly more Chinese users trying to access the Tor network which leads to more scans. 7 An overview of currently developed modules can be found at [25].
+ 5 able to decrypt obfs2’s obfuscation layer and reveal the leads to the block of the respective bridge. Another dis- encapsulated data8 but this is more complex than con- advantage is the significant protocol overhead due to the ducting simple pattern matching as it is frequently done shortened TCP segments which leads to a decrease in by DPI boxes. throughput. As of March 24, the official obfsproxy bundle [21] Due to these shortcomings, we propose a way to re- contained a list of 13 hard-coded obfsproxy bridges in its alise server side fragmentation. We developed a tool9 configuration file. From our VPS we tested the reachabil- which transparently rewrites the TCP window size an- ity of all of these bridges by trying to connect to them via nounced by the bridge to the client inside the SYN/ACK telnet. We found that not a single connection succeeded. segment. The diminished window size makes the client One bridge seemed to be offline and the connection to split its TLS cipher list across two TCP segment. That the remaining 12 bridges was aborted by spoofed RST way, the DPI boxes are not able to identify the Tor con- segments. nection. At the time of this writing, the tool is already The above result raises the question whether the GFC deployed to several bridges. So far, these bridges were is able to block all obfsproxy connections or just the 13 not scanned and keep getting connections from legiti- hard-coded bridges. To answer this question, we set up mate users in China. a private obfsproxy bridge in Sweden and connected to Our server side fragmentation tool has the advantage it from within China. We initiated several connections to that it is easy to deploy and it only interferes with Tor it over several hours and we could always successfully connections by rewriting the announced TCP window establish a Tor circuit. We conclude that the IP:port tu- during the TCP handshake. Hence, there are virtually ples of the 13 hard-coded obfsproxy bridges were added no performance implications. to a blacklist to prevent widespread use of the official obfsproxy bundle. However, private obfsproxy bridges 6 Conclusions remain undetected by the GFC. Similar to obfs2, Moghaddam et al. proposed a plug- We showed how access to Tor is being denied in China gable transport for Tor to mimic Skype video traffic [8]. and we conjectured how the blocking infrastructure is de- This concept will make it significantly harder to block signed. In addition, we discussed countermeasures in- Tor by fingerprinting because DPI boxes would have to tended to “unblock” the Tor network. Our findings in- distinguish between legitimate and camouflaged Skype clude that the Great Firewall of China might spoof IP traffic. addresses for the purpose of scanning Tor bridges and that domestic as well as ingress traffic does not seem to 5.2 Packet Fragmentation be subject to Tor fingerprinting. We also showed that the firewall is easily circumvented by fragmented pack- One circumvention technique described by Ptacek and ets. Tor traffic is currently distinguishable from what is Newsham [11] is packet fragmentation which exploits regarded as harmless traffic in China. Since Tor is being the fact that some network intrusion detection systems used more and more as censorship circumvention tool, it do not conduct packet reassembly. Crandall et al. also is crucial that this distinguishability is minimised. considered fragmentation to evade the GFC’s keyword- based detection [3]. We used the tool fragroute [14] to enforce packet frag- Acknowledgments mentation on our VPS in China. We configured fragroute to split the TCP stream to segments of 16 bytes each. We thank the Tor developers for their helpful feedback In our test it took 5 TCP segments to transmit the frag- and support, the anonymous reviewers for their valu- mented cipher list to our bridge. Despite initiating sev- able suggestions, Harald Lampesberger, Simone Fischer- eral fragmented Tor connections, we never observed any Hübner and Rose-Mharie Åhlfeldt for feedback and active scanning and could use Tor without interference. Fabio Pietrosanti for helping with the experiments. This experiment indicates that the GFC does not conduct The work conducted by the second author has been packet reassembly. A similar observation was made by supported by the Compare Business Innovative Centre Park and Crandall [10]. phase 3 (C-BIC 3) project, funded partly by the European However, client side fragmentation is an unpractical Regional Development Fund (ERDF). solution given that this method must be supported by all Our raw data and code are available at: connecting Chinese users. A single user who does not [Link] use fragmentation, triggers active scanning which then 8 We note that this does not affect the security of the TLS connection 9 The tool is available on our project website: [Link] used by Tor. [Link]/philwint/static/gfc/
+ 6 References [15] T EAM C YMRU , I NC . IP to ASN Mapping. https: //[Link]/Services/[Link] [Ac- [1] A MAZON W EB S ERVICES LLC. Amazon Elastic Compute cessed: Jun. 29, 2012]. Cloud (Amazon EC2). [Link] [Ac- [16] T HE NETFILTER . ORG PROJECT. netfilter/iptables project home- cessed: Jun. 29, 2012]. page. [Link] [Accessed: Jun. 29, 2012]. [2] C LAYTON , R., M URDOCH , S. J., AND WATSON , R. N. M. Ig- [17] T HE T OR P ROJECT. Bridge easily detected by GFW. https:// noring the Great Firewall of China. In Privacy Enhancing Tech- [Link]/projects/tor/ticket/4185 [Ac- nologies (Cambridge, 2006), Springer, pp. 20–35. cessed: Jun. 29, 2012]. [3] C RANDALL , J. R., Z INN , D., B YRD , M., BARR , E., AND [18] T HE T OR P ROJECT. China blocking Tor: Round Two. E AST, R. ConceptDoppler: A Weather Tracker for Internet Cen- [Link] sorship. In Computer and Communications Security (Alexandria, tor-round-two [Accessed: Jun. 29, 2012]. VA, 2007), ACM, pp. 352–365. [19] T HE T OR P ROJECT. Knock Knock Knockin’ on Bridges’ Doors. [4] D INGLEDINE , R., AND M ATHEWSON , N. Design of a blocking- [Link] resistant anonymity system. Tech. rep., The Tor Project, 2006. knockin-bridges-doors [Accessed: Jun. 29, 2012]. [5] D INGLEDINE , R., M ATHEWSON , N., AND S YVERSON , P. Tor: [20] T HE T OR P ROJECT. obfs2 (The Twobfuscator). https: The Second-Generation Onion Router. In USENIX Security Sym- //[Link]/[Link]/blob/HEAD: posium (San Diego, CA, 2004), USENIX Association, pp. 303– /doc/obfs2/[Link] [Accessed: Jun. 29, 2012]. 320. [21] T HE T OR P ROJECT. obfsproxy. [Link] [6] L EIDL , B. obfuscated-openssh. [Link] org/projects/obfsproxy [Accessed: Jun. 29, 2012]. brl/obfuscated-openssh/blob/master/README. [22] T HE T OR P ROJECT. Picturing Tor censorship in China. obfuscation, [Accessed: Jun. 29, 2012]. [Link] [7] L ING , Z., F U , X., Y U , W., L UO , J., AND YANG , M. Extensive censorship-china [Accessed: Jun. 29, 2012]. Analysis and Large-Scale Empirical Evaluation of Tor Bridge [23] T HE T OR P ROJECT. Tor Cloud. [Link] Discovery. In International Conference on Computer Commu- [Link] [Accessed: Jun. 29, 2012]. nications (Orlando, FL, 2012), IEEE. [24] T HE T OR P ROJECT. Tor partially blocked in China. [8] M OGHADDAM , H. M., L I , B., D ERAKHSHANI , M., AND [Link] G OLDBERG , I. SkypeMorph: Protocol Obfuscation for Tor blocked-china [Accessed: Jun. 29, 2012]. Bridges. Tech. rep., University of Waterloo, 2012. [25] T HE T OR P ROJECT. Tor: Pluggable Transports. https:// [9] O PEN N ET I NITIATIVE. Singapore. [Link] [Link]/docs/pluggable-transports, [Ac- research/profiles/singapore [Accessed: Jun. 29, 2012]. cessed: Jul. 1, 2012]. [10] PARK , J. C., AND C RANDALL , J. R. Empirical Study [26] T HE T OR P ROJECT. Tor users via bridges. https: of a National-Scale Distributed Intrusion Detection System: //[Link]/[Link]?graph= Backbone-Level Filtering of HTML Responses in China. In Dis- bridge-users&start=2012-01-01&end=2012-06- tributed Computing Systems (Genova, 2010), IEEE, pp. 315–326. 18&country=cn&dpi=72#bridge-users [Accessed: Jun. 29, 2012]. [11] P TACEK , T. H., AND N EWSHAM , T. N. Insertion, Evasion, and Denial of Service: Eluding Network Intrusion Detection. Tech. [27] T HE T OR P ROJECT. [Link] Blocked by GFW in China: rep., Secure Networks, Inc., 1998. Sooner or Later? [Link] torprojectorg-blocked-gfw-china-sooner-or-later [12] ROBERTS , H. Local Control: About 95% of Chinese Web Traffic [Accessed: Jun. 29, 2012]. is Local. [Link] 2011/08/15/local-control-about-95-of-chinese- [28] W ILDE , T. Great Firewall Tor Probing Circa 09 DEC web-traffic-is-local/ [Accessed: Jun. 29, 2012]. 2011. [Link] [Accessed: Jun. 29, 2012]. [13] ROBERTS , H., L AROCHELLE , D., FARIS , R., AND PALFREY, J. Mapping Local Internet Control. In Computer Communications [29] X U , X., M AO , Z. M., AND H ALDERMAN , J. A. Internet Cen- Workshop (Hyannis, CA, 2011), IEEE. sorship in China: Where Does the Filtering Occur? In Pas- sive and Active Measurement Conference (Atlanta, GA, 2011), [14] S ONG , D. fragroute. [Link] Springer, pp. 133–142. fragroute/ [Accessed: Jun. 29, 2012].
+
+ You might also like
+ China's Tor Blocking Tactics 
+
+ No ratings yet
+
+ China's Tor Blocking Tactics
+ 7 pages
+
+ Analyzing ChinaÔÇÖs Blocking of Unpublished Tor Bridges 
+
+ No ratings yet
+
+ Analyzing ChinaÔÇÖs Blocking of Unpublished Tor Bridges
+ 7 pages
+
+ Enhancing Censorship Resistance in The Tor Anonymity 
+
+ 100% (1)
+
+ Enhancing Censorship Resistance in The Tor Anonymity
+ 86 pages
+
+ SkypeMorph: Obfuscating Tor Traffic 
+
+ No ratings yet
+
+ SkypeMorph: Obfuscating Tor Traffic
+ 13 pages
+
+ Bil448 23 Tor 
+
+ No ratings yet
+
+ Bil448 23 Tor
+ 24 pages
+
+ How To Block TOR 
+
+ No ratings yet
+
+ How To Block TOR
+ 8 pages
+
+ Torscan: Tracing Long-Lived Connections and Differential Scanning Attacks 
+
+ No ratings yet
+
+ Torscan: Tracing Long-Lived Connections and Differential Scanning Attacks
+ 21 pages
+
+ Challenges in Deploying Low-Latency Anonymity (DRAFT) 
+
+ No ratings yet
+
+ Challenges in Deploying Low-Latency Anonymity (DRAFT)
+ 18 pages
+
+ TorScan: Analyzing Tor Network Attacks 
+
+ No ratings yet
+
+ TorScan: Analyzing Tor Network Attacks
+ 23 pages
+
+ Tor: Anonymity in Internet Communication 
+
+ No ratings yet
+
+ Tor: Anonymity in Internet Communication
+ 3 pages
+
+ Bu, Ruiwei - The Great Firewall of China 
+
+ No ratings yet
+
+ Bu, Ruiwei - The Great Firewall of China
+ 14 pages
+
+ An Empirical Evaluation of Relay Selection in Tor 
+
+ No ratings yet
+
+ An Empirical Evaluation of Relay Selection in Tor
+ 17 pages
+
+ Comput., Vol. 7, No. 2, Pp. 70-77, Mar. 2003.: References 
+
+ No ratings yet
+
+ Comput., Vol. 7, No. 2, Pp. 70-77, Mar. 2003.: References
+ 7 pages
+
+ DNSTT EECS 2017 225 
+
+ No ratings yet
+
+ DNSTT EECS 2017 225
+ 98 pages
+
+ From "Onion Not Found" To Guard Discovery 
+
+ No ratings yet
+
+ From "Onion Not Found" To Guard Discovery
+ 22 pages
+
+ 2010 - A Case Study On Measuring Statistical Data Inthe Tor Anonymity Network 
+
+ No ratings yet
+
+ 2010 - A Case Study On Measuring Statistical Data Inthe Tor Anonymity Network
+ 13 pages
+
+ Sendner 等 - 2024 - MirageFlow A New Bandwidth Inflation Attack on To 
+
+ No ratings yet
+
+ Sendner 等 - 2024 - MirageFlow A New Bandwidth Inflation Attack on To
+ 16 pages
+
+ TDSC DAENet Making Strong Anonymity Scale in A Fully Decentralized Network 
+
+ No ratings yet
+
+ TDSC DAENet Making Strong Anonymity Scale in A Fully Decentralized Network
+ 18 pages
+
+ V1 0-Mdpi 
+
+ No ratings yet
+
+ V1 0-Mdpi
+ 36 pages
+
+ TOR - CyberSecurity - Major Project - Report by SHAIMA SULTANA 
+
+ No ratings yet
+
+ TOR - CyberSecurity - Major Project - Report by SHAIMA SULTANA
+ 15 pages
+
+ 05 - Anonymous Communication 
+
+ No ratings yet
+
+ 05 - Anonymous Communication
+ 52 pages
+
+ Iijcs 2014 03 13 028 
+
+ No ratings yet
+
+ Iijcs 2014 03 13 028
+ 4 pages
+
+ IT Students: Privacy with Tor 
+
+ No ratings yet
+
+ IT Students: Privacy with Tor
+ 54 pages
+
+ Anonymity On QuickSand - Using BGP To Compromise Tor 
+
+ No ratings yet
+
+ Anonymity On QuickSand - Using BGP To Compromise Tor
+ 7 pages
+
+ OSINT Analysis of The TOR Foundation 
+
+ No ratings yet
+
+ OSINT Analysis of The TOR Foundation
+ 8 pages
+
+ Measuring Mobile Performance in The Tor Network With OnionPerf 
+
+ No ratings yet
+
+ Measuring Mobile Performance in The Tor Network With OnionPerf
+ 6 pages
+
+ Protocol-Level Attacks on Tor Network 
+
+ No ratings yet
+
+ Protocol-Level Attacks on Tor Network
+ 18 pages
+
+ Privacy Pass: Anonymity in Web Access 
+
+ No ratings yet
+
+ Privacy Pass: Anonymity in Web Access
+ 17 pages
+
+ TOR Enabling Online Anonymity 
+
+ No ratings yet
+
+ TOR Enabling Online Anonymity
+ 2 pages
+
+ Shedding Light On The Dark Corners of The Internet: A Survey of Tor Research 
+
+ No ratings yet
+
+ Shedding Light On The Dark Corners of The Internet: A Survey of Tor Research
+ 34 pages
+
+ Usenixsecurity25 Lee 
+
+ No ratings yet
+
+ Usenixsecurity25 Lee
+ 20 pages
+
+ Circuit Finger 
+
+ No ratings yet
+
+ Circuit Finger
+ 16 pages
+
+ Advancing Obfuscation Strategies To Counter Chinas Great Firewall A Technical and Policy Perspective 
+
+ No ratings yet
+
+ Advancing Obfuscation Strategies To Counter Chinas Great Firewall A Technical and Policy Perspective
+ 8 pages
+
+ Paper On Chinese Censorship 
+
+ No ratings yet
+
+ Paper On Chinese Censorship
+ 18 pages
+
+ A Model For Detecting Tor Encrypted Traffic Using Supervised Machine Learning 
+
+ No ratings yet
+
+ A Model For Detecting Tor Encrypted Traffic Using Supervised Machine Learning
+ 15 pages
+
+ Deanonymizing Tor: Nathan S. Evans Christian Grothoff 
+
+ No ratings yet
+
+ Deanonymizing Tor: Nathan S. Evans Christian Grothoff
+ 33 pages
+
+ Sands 20240025 
+
+ No ratings yet
+
+ Sands 20240025
+ 21 pages
+
+ Darkweb Python Hidden Services 
+
+ No ratings yet
+
+ Darkweb Python Hidden Services
+ 61 pages
+
+ MSC Thesis 
+
+ No ratings yet
+
+ MSC Thesis
+ 102 pages
+
+ Preprints202307 0982 v1 
+
+ No ratings yet
+
+ Preprints202307 0982 v1
+ 65 pages
+
+ OSINT Python: Extracting Tor Data 
+
+ No ratings yet
+
+ OSINT Python: Extracting Tor Data
+ 83 pages
+
+ Performance 
+
+ No ratings yet
+
+ Performance
+ 24 pages
+
+ Tor - The Tech Behind Onion Routing Explained 
+
+ No ratings yet
+
+ Tor - The Tech Behind Onion Routing Explained
+ 11 pages
+
+ Application-Layer Routing Attacks On Tor 
+
+ No ratings yet
+
+ Application-Layer Routing Attacks On Tor
+ 2 pages
+
+ Anonymity On Quicksand - Using BGP To Compromise Tor (Laurent Vanbever, Oscar Li, Et. Al.) (2014) 
+
+ No ratings yet
+
+ Anonymity On Quicksand - Using BGP To Compromise Tor (Laurent Vanbever, Oscar Li, Et. Al.) (2014)
+ 7 pages
+
+ A Measurement Analysis of Website Attackers Using Onionbots 
+
+ No ratings yet
+
+ A Measurement Analysis of Website Attackers Using Onionbots
+ 11 pages
+
+ Gani 3 
+
+ No ratings yet
+
+ Gani 3
+ 25 pages
+
+ VPN Gate 
+
+ No ratings yet
+
+ VPN Gate
+ 14 pages
+
+ Raid2019 Iacovazzi 
+
+ No ratings yet
+
+ Raid2019 Iacovazzi
+ 13 pages
+
+ Ada 620987 
+
+ No ratings yet
+
+ Ada 620987
+ 17 pages
+
+ Dark Web, The Other Side, Chris Poulter 
+
+ No ratings yet
+
+ Dark Web, The Other Side, Chris Poulter
+ 49 pages
+
+ An Anonymity Vulnerability in Tor 
+
+ No ratings yet
+
+ An Anonymity Vulnerability in Tor
+ 14 pages
+
+ The-Internet-Coup - September2025 - Censura Chinesa - Modelo de Exportação 
+
+ No ratings yet
+
+ The-Internet-Coup - September2025 - Censura Chinesa - Modelo de Exportação
+ 76 pages
+
+ The Internet Coup September2025 
+
+ No ratings yet
+
+ The Internet Coup September2025
+ 76 pages
+
+ Detecting TOR Traffic with DPI Techniques 
+
+ No ratings yet
+
+ Detecting TOR Traffic with DPI Techniques
+ 7 pages
+
+ Into To Darknets Tor and I2p PDF 
+
+ 100% (4)
+
+ Into To Darknets Tor and I2p PDF
+ 93 pages
+
+ A New Replay Attack Against Anonymous Communication Networks 
+
+ No ratings yet
+
+ A New Replay Attack Against Anonymous Communication Networks
+ 5 pages
+
+ TOR Anonymity Network 
+
+ No ratings yet
+
+ TOR Anonymity Network
+ 32 pages
+
+ Cache Based Side Channel Attack - A Survey 
+
+ No ratings yet
+
+ Cache Based Side Channel Attack - A Survey
+ 7 pages
+
+ Dealing With Dead Ends - Efficient Routing in Darknets 
+
+ No ratings yet
+
+ Dealing With Dead Ends - Efficient Routing in Darknets
+ 30 pages
+
+ Security Audit of Safeplug Tor in A Box 
+
+ No ratings yet
+
+ Security Audit of Safeplug Tor in A Box
+ 8 pages
+
+ Characteristics of Bitcoin Transactions On Cryptomarkets 
+
+ No ratings yet
+
+ Characteristics of Bitcoin Transactions On Cryptomarkets
+ 17 pages
+
+ POSTER Traffic Analysis Attacks in Anonymity Networks 
+
+ No ratings yet
+
+ POSTER Traffic Analysis Attacks in Anonymity Networks
+ 3 pages
+
+ Security in Private Branch IP-Telephony Network With QoS Demands. 
+
+ No ratings yet
+
+ Security in Private Branch IP-Telephony Network With QoS Demands.
+ 61 pages
+
+ Post-Quantum Succinct Arguments - Breaking The Quantum Rewwinding Barrier 
+
+ No ratings yet
+
+ Post-Quantum Succinct Arguments - Breaking The Quantum Rewwinding Barrier
+ 50 pages
+
+ Securing The Tor Browser Against De-Anonymization Exploits 
+
+ No ratings yet
+
+ Securing The Tor Browser Against De-Anonymization Exploits
+ 16 pages
+
+ Learning Darknet Markets 
+
+ No ratings yet
+
+ Learning Darknet Markets
+ 19 pages
+
+ Virtual WiFi - Bring Virtualization From Wired To Wireless 
+
+ No ratings yet
+
+ Virtual WiFi - Bring Virtualization From Wired To Wireless
+ 41 pages
+
+ The Unexpected Dangers of Dynamic JavaScript 
+
+ No ratings yet
+
+ The Unexpected Dangers of Dynamic JavaScript
+ 14 pages
+
+ On The Privacy-Conscientious Use of Mobile Phone Data 
+
+ No ratings yet
+
+ On The Privacy-Conscientious Use of Mobile Phone Data
+ 6 pages
+
+ Side Channel Cryptanalysis of Product Ciphers 
+
+ No ratings yet
+
+ Side Channel Cryptanalysis of Product Ciphers
+ 15 pages
+
+ Summative Test on Philippine Arts 
+
+ No ratings yet
+
+ Summative Test on Philippine Arts
+ 3 pages
+
+ Senior High School Course Guide 2016-2017 
+
+ No ratings yet
+
+ Senior High School Course Guide 2016-2017
+ 11 pages
+
+ UK & Irish Travel Industry Partners Offering Trips To Poland 
+
+ No ratings yet
+
+ UK & Irish Travel Industry Partners Offering Trips To Poland
+ 19 pages
+
+ Syllabus of Functional English-1 
+
+ No ratings yet
+
+ Syllabus of Functional English-1
+ 2 pages
+
+ Case Study Anwer 
+
+ No ratings yet
+
+ Case Study Anwer
+ 25 pages
+
+ User Authentication and Role Management 
+
+ No ratings yet
+
+ User Authentication and Role Management
+ 4 pages
+
+ Marketing Management Mod-3 
+
+ No ratings yet
+
+ Marketing Management Mod-3
+ 6 pages
+
+ The Seven Biblical Judgments 
+
+ No ratings yet
+
+ The Seven Biblical Judgments
+ 6 pages
+
+ PayPal Receipt: Latin Pulse Music Payment 
+
+ No ratings yet
+
+ PayPal Receipt: Latin Pulse Music Payment
+ 4 pages
+
+ Case 4 Garcia Vs Chief of Staff PDF 
+
+ No ratings yet
+
+ Case 4 Garcia Vs Chief of Staff PDF
+ 2 pages
+
+ T3 - The Wanderer (Notes) 
+
+ No ratings yet
+
+ T3 - The Wanderer (Notes)
+ 3 pages
+
+ Loeb Letter To Disney 
+
+ 100% (3)
+
+ Loeb Letter To Disney
+ 6 pages
+
+ Navy - Wikiquote 
+
+ No ratings yet
+
+ Navy - Wikiquote
+ 16 pages
+
+ Lutz Vs Araneta, G.R. No. L-7859, December 22, 1955 
+
+ 100% (3)
+
+ Lutz Vs Araneta, G.R. No. L-7859, December 22, 1955
+ 1 page
+
+ CAFC Economics 100 MCQ Test 
+
+ No ratings yet
+
+ CAFC Economics 100 MCQ Test
+ 24 pages
+
+ Accounting Services Proposal 
+
+ No ratings yet
+
+ Accounting Services Proposal
+ 7 pages
+
+ P o Product Disclosure Sheet - Foreign Workers Insurance Guarantee 
+
+ No ratings yet
+
+ P o Product Disclosure Sheet - Foreign Workers Insurance Guarantee
+ 3 pages
+
+ Fundamentals in Lodging Operations 1 
+
+ No ratings yet
+
+ Fundamentals in Lodging Operations 1
+ 13 pages
+
+ Actnow 
+
+ No ratings yet
+
+ Actnow
+ 21 pages
+
+ Ecommerce Growth Guide 
+
+ No ratings yet
+
+ Ecommerce Growth Guide
+ 42 pages
+
+ Surat Rekomendasi Beasiswa Bhs Inggris 
+
+ No ratings yet
+
+ Surat Rekomendasi Beasiswa Bhs Inggris
+ 2 pages
+
+ Bujinkan Roselle Dojo Training Guide 
+
+ 100% (1)
+
+ Bujinkan Roselle Dojo Training Guide
+ 244 pages
+
+ Dynamic Stochastic General Equilibrium 
+
+ No ratings yet
+
+ Dynamic Stochastic General Equilibrium
+ 11 pages
+
+ Law Student's Academic Journey 
+
+ No ratings yet
+
+ Law Student's Academic Journey
+ 6 pages
+
+ 61st and 105th Pennsylvania at The Battle of Fair Oaks - Civil War 
+
+ No ratings yet
+
+ 61st and 105th Pennsylvania at The Battle of Fair Oaks - Civil War
+ 5 pages
+
+ CC - Unit3 - Full Notes 
+
+ No ratings yet
+
+ CC - Unit3 - Full Notes
+ 29 pages
+
+ SPA - Linejan 
+
+ No ratings yet
+
+ SPA - Linejan
+ 1 page
+
+ On The Purchase of 91-Day T-Bill, If The Face Value Is $3,000 and Purchase Price Is $2,900. (1QP) 
+
+ No ratings yet
+
+ On The Purchase of 91-Day T-Bill, If The Face Value Is $3,000 and Purchase Price Is $2,900. (1QP)
+ 8 pages
+
+ SBI Junior Associates Application Form 
+
+ No ratings yet
+
+ SBI Junior Associates Application Form
+ 5 pages
+
+ Kalemegdan Fortress: Belgrade's Historic Gem 
+
+ No ratings yet
+
+ Kalemegdan Fortress: Belgrade's Historic Gem
+ 2 pages
+
+ Footer menu
+ Back to top 
+
+ About
+ About Scribd, Inc. 
+ Slideshare 
+ Join our team! 
+ Contact us 
+
+ Support
+ Help / FAQ 
+ Accessibility 
+ Purchase help 
+ AdChoices 
+
+ Legal
+ Terms 
+ Privacy 
+ Copyright 
+
+ Social
+ Instagram Instagram 
+ Facebook Facebook 
+ Pinterest Pinterest 
+
+ Get our free apps
+
+ About
+ About Scribd, Inc. 
+ Slideshare 
+ Join our team! 
+ Contact us 
+
+ Legal
+ Terms 
+ Privacy 
+ Copyright 
+
+ Support
+ Help / FAQ 
+ Accessibility 
+ Purchase help 
+ AdChoices 
+
+ Social
+ Instagram Instagram 
+ Facebook Facebook 
+ Pinterest Pinterest 
+
+ Get our free apps
+
+ Documents 
+
+ Language :
+ English 
+
+ Copyright © 2026 Scribd Inc. 
+
+ We take content rights seriously. Learn more in our FAQs or report infringement here .
+
+ We take content rights seriously. Learn more in our FAQs or report infringement here .
+
+ Language :
+ English 
+
+ Copyright © 2026 Scribd Inc.

@@ -1,0 +1,1425 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:00] Buongiorno e benvenuti all'evento Privacy Nightmare Italia Storia di Sorveglianza.
+[00:06] Io mi chiamo Marco Calamari, sono stato scelusto con il compito di moderare questo evento che è sostanzialmente una tavola rotonda
+[00:16] perché sono un anziano del settore e mi occupo di Privacy in Italia al 1996 quindi ne ho viste succedere tante.
+[00:25] Per una volta la mia esperienza mi rende ideale per questo ruolo.
+[00:30] Noi siamo concentrati a raccontare sì degli episodi ma anche a spiegare nei contesti per cui alterneremo momenti di estremamente essere con altri
+[00:41] forse un pochino più faticosi da digerire. Speriamo di non mettere troppo a dura prova la vostra attenzione.
+[00:49] Vi presento il primo parte anticipante che Giovanni Pellerano, Chief Technology Offer di Whistleblowing Solutions.
+[00:58] Buongiorno a tutti e grazie Marco per l'introduzione. Oggi vorrei un po' spogliarmi del titolo che mi hai dato un po' troppo tecnico.
+[01:08] Vorrei svolgere oggi il ruolo di passante di professione perché questo è quello che più o meno sto facendo da circa un anno
+[01:17] in merito a quello che vado a raccontarvi. Oggi è l'11 aprile e esattamente l'11 aprile scorso mi trovavo in stazione centrale a Milano
+[01:28] insieme a una collega Rachman Asgair la quale si avvicina a un totem pubblicitario di 3 in Italia e nota che questo è in stato di malfunzionamento.
+[01:42] Ci incuriusiamo un po' e ci avviciniamo a questo totem e ci viene l'interesse di vedere cosa può fare e quali funzioni ti offre.
+[02:04] Essendo passato un anno abbiamo fatto varie analisi passando vari volte di fronte a questi totem e oggi in questo piccolo intervento
+[02:15] voglio raccontarvi quello che è stata la scoperta, quella che è stata la nostra azione all'interno del centro Hermes
+[02:25] e quella che è stata la risposta da parte degli attori convolti attorno a questa tecnologia.
+[02:32] Trovando questo totem è stato il malfunzionamento, il totem è un grosso scatolone che mostra delle informazioni pubblicitarie.
+[02:43] Noi lo abbiamo trovato in uno stato in cui mostrava dei messaggi di errore, le abbiamo osservati e abbiamo identificato alcune sequenze di lettere
+[02:56] che comparivano su questo schermo e abbiamo riconosciuto in questi numeri una licenza di un software.
+[03:08] Abbiamo fatto qualche ricerca rapida su internet e abbiamo trovato che questo software era un software di tracciamento facciale
+[03:18] capace di analizzare il volto della persona che si ferma davanti a questa pubblicità, riconoscersi a un uomo, una donna, la sua età,
+[03:30] se questa persona sorride presta attenzione o meno alla pubblicità.
+[03:39] Ovviamente ne è seguito un parlare con amici e conoscenti e con qualche giornalista, a seguito del quale indicativamente nei giorni successivi,
+[03:52] quindi sarà stato metà apri dell'anno passato, abbiamo, questi giornalisti hanno pubblicato questa mia scoperta
+[04:05] con le analisi che avevamo rapidamente fatto. Le analisi confermavano la presenza di un software commerciale
+[04:15] che fa questo scopo per potervi prospettare delle pubblicità più interessanti per voi
+[04:26] al fine di convincervi a comprare un prodotto piuttosto che un altro.
+[04:33] È un fatto molto preoccupante, in quanto da una prima analisi questa era la capacità che questo software permetteva.
+[04:45] Facendo ulteriori analisi abbiamo trovato che non nelle licenze nei brevetti di questi software
+[04:55] è scritto che è possibile identificare la razza, ad esempio, delle persone che passano,
+[05:02] e se si pensa agli recenti scandali di data breach in relazione a aspetti di natura politica
+[05:13] e si prova a pensare che magari la pubblicità presente può essere di natura politica,
+[05:21] e si può capire che gli attori dietro a questi totem sono capaci di capire
+[05:27] se stiamo prestando attenzione a un messaggio politico.
+[05:35] Ovviamente il garante della privacy italiano ha riconosciuto importante indagare in merito,
+[05:44] ha preso tempo circa un anno per analizzare la questione,
+[05:49] ha di fatto interpellato gli autori di questi totem, richiedendo cosa effettivamente venga svolto su questi.
+[05:59] A valle della risposta che è stata data dai programmatori di questo software,
+[06:08] il garante ha ritenuto di dover richiedere che vengano pubblicati su questi totem
+[06:16] dei messaggi che chiariscano all'utente il tipo di trattamento che viene fatto.
+[06:21] Questo perché nonostante l'azienda si sia difesa dicendo che non vengono mantenute informazioni di tipo personale,
+[06:31] quindi dati personali e l'utente, di fatto un trattamento di dati viene fatto in tempo reale su questi sistemi,
+[06:39] per cui è necessario che l'utente ne sia informato.
+[06:46] Inoltre il garante ha dovuto evidenziare la necessità che questi sistemi vengano verificati
+[06:54] dal punto di vista della sicurezza almeno 6 volte all'anno.
+[06:58] Cosa doverosa dato che lo stato in cui i sistemi sono stati trovati era quello di poter controllare questi sistemi,
+[07:07] poter addirittura vedere attraverso le videocamere che sono montate su questi totem.
+[07:17] Cosa che fu filmata all'epoca per tenere una prova di questa evidenza
+[07:25] e fu un report a filmare come alcune seguenze nella stazione centrale.
+[07:31] La risposta che è stata data dagli sviluppatori di questi software
+[07:38] vuole affermare che questi sistemi fossero ben protetti, cosa che confermo non essere vero.
+[07:47] Non entro ulteriormente nel merito di tematiche tecniche
+[07:53] e lascio la parola ai miei colleghi che approfondiranno invece aspetti più specifici.
+[08:01] Grazie Giovanni, per riassumere in due parole quello che è stato detto,
+[08:06] in termini legalisi è stato effettuato un trattamento illegale dei dati biometrici dei passanti
+[08:14] in termini più operativi e facili da comprendere c'era la prima implementazione
+[08:21] di quello che Dick aveva già raccontato in Minority Report,
+[08:26] la scena in cui si vede Tom Cruise che arriva e vede soltanto pubblicità delle cose che li interessano
+[08:33] perché i cartelloni lo riconoscono.
+[08:35] Questo è esattamente quello che comincia a succedere persino nelle nostre stazioni.
+[08:41] Bene, adesso c'è della parola Riccardo Coluccini di Madrebro d'Italia,
+[08:48] il giornalista Freelance, che ci racconterà delle tecnologie dietro questa situazione
+[08:55] ed altre, altrettanto anche più pericolose per la parola Ibasi.
+[09:00] Grazie Marco, posso avere lo schermo proiettato?
+[09:05] Grazie. Vorrei partire da una frase apparsa su un articolo del magazine Online,
+[09:11] Difesa Online, un magazine vicino al Ministero della Difesa,
+[09:14] e in particolare all'ultimo paragrafo.
+[09:17] La domanda che mi ponga è la seguente,
+[09:19] era proprio necessario fornire pubblicamente queste informazioni
+[09:23] su società che lavorano per lo stato in determinati settori,
+[09:26] forse il FOIA andrebbe ripensato.
+[09:29] Questo articolo fa riferimento all'attività di monitoraggio civico
+[09:34] che sta portando avanti in questo momento.
+[09:36] Il FOIA è l'acronimo di Freedom of Information Act,
+[09:40] quindi la legge estadounidense ma che ora finalmente da inizio 2017
+[09:44] è anche in Italia, che permette di richiedere l'accesso,
+[09:48] il cosiddetto accesso civico, a documenti della pubblica amministrazione
+[09:52] che non sono soggetti a pubblicazione,
+[09:55] ma che dietro richiesta potrebbero essere pubblicati.
+[09:58] Nello specifico, questo progetto sfrutta il fatto che in Italia,
+[10:03] per leggi sull'anticoorruzione e sulla trasparenza,
+[10:07] i vari ministeri e quindi di conseguenza le forze dell'ordine
+[10:10] sono tenute a pubblicare le loro spese online
+[10:14] e a pubblicare le gare d'appalto, quindi gli oggetti delle gare d'appalto,
+[10:18] gli importi delle gare d'appalto, le aziende che partecio per in queste gare d'appalto.
+[10:22] La domanda che era sortera,
+[10:24] ma perché non fare un'analisi delle tecnologie di sorveglianza
+[10:28] che il governo italiano nelle varie forme delle loro forze dell'ordine acquista?
+[10:32] Ecco, si è nato questo progetto.
+[10:35] Quindi, facendo vedere le richieste foia, stiamo ottenendo le fatture
+[10:40] che vengono emesse dalle aziende che forniscono servizi e tecnologie
+[10:45] per la sorveglianza a polizia, carabinieri, guardia di finanza
+[10:49] e, in parte, minore al Ministro della Difesa,
+[10:53] perché per motivi di sicurezza nazionale, diciamo, sono un po' più protetti.
+[10:57] Cosa è soltato fuori da queste ricerche e analisi?
+[11:01] Oltre a altra richiesta foia, non solo per le fatture,
+[11:04] ma anche per le offerte tecniche che le aziende offrono nelle gare d'appalto.
+[11:09] Quindi in questo modo si riesce anche a capire meglio quali tipi di tecnologie vengono utilizzate.
+[11:14] Quali sono quindi risultate di questa ricerca?
+[11:17] Bene, è stato fuori. Abbiamo la Polizia di Stato
+[11:20] ha acquisito un sistema per il riconoscimento facciale.
+[11:23] Questo sistema rientra l'interno del progetto SARI
+[11:26] che viene utilizzato secondo le forze dell'ordine,
+[11:30] viene inteso come un progetto pilota per un upgrade
+[11:34] del loro sistema di riconoscimento delle foto segnaletiche.
+[11:37] Quindi, anziché avere il sistema precedente che prevedeva una ricerca testuale
+[11:41] per la foto segnaletica, in questo modo loro possono avere un match
+[11:45] partendo da un'altra foto.
+[11:47] Il problema di questo sistema è che il progetto SARI prevede 10 videocamere mobili
+[11:54] da utilizzare durante eventi pubblici.
+[11:58] In questo caso, quindi, ci troveremo, per esempio,
+[12:01] in alcune manifestazioni ad essere ripresi da delle videocamere,
+[12:05] creando un sistema di riconoscimento facciale e poter essere individuati
+[12:10] con rispettivi rischiosi problemi per la privacy dei cittadini.
+[12:17] Il garante per la privacy sta al momento
+[12:20] a richiesto maggior informazione alla Polizia riguardo questo sistema.
+[12:23] Un altro sistema che è stato fuori da queste richieste foia
+[12:26] è il sistema crime.
+[12:28] Questo sistema invece prevede un software che catturi, scarichi e trascriva
+[12:36] file audio presenti online, quindi da Facebook, YouTube,
+[12:39] qualunque videocaricate.
+[12:41] Questi file audio vengono scaricati, trascritti
+[12:44] e allo stesso tempo viene fatta una sorta di
+[12:48] individazione dell'impronta vocale e salvataggio dell'impronta vocale.
+[12:52] In questo caso i fini di questo progetto, il progetto crime,
+[12:56] sono per il contrasto al terrorismo.
+[12:59] Quindi potremmo vederlo come più circoschitto.
+[13:02] Mentre invece il progetto sare di prima sul riconoscimento facciale
+[13:05] non ci sono preferimenti espressi specifici all'antiterrorismo
+[13:10] che lascia ancora più dubbi,
+[13:12] perché da un lato abbiamo riconoscimento facciale quasi per tutto
+[13:15] e dall'altro abbiamo che questo progetto crime
+[13:17] sull'impronte vocale e allo stesso tempo
+[13:20] non sono dei dati biometrici che non possiamo cambiare
+[13:23] da nostra voce e non può essere modificato.
+[13:25] E anche per questo progetto crime, il garante per la privacy,
+[13:29] ha inviato una richiesta di informazioni
+[13:32] al ministero dell'interno per vederci chiaro.
+[13:37] Altri risultati del foglio, abbiamo scoperto o abbiamo
+[13:41] un database che ci permette di sapere quali sono
+[13:44] le aziende italiane che acquistano queste tecnologie
+[13:47] al momento queste aziende ammontano a più di 50
+[13:51] quando il numero iniziale da cui ero partito erano 20.
+[13:55] Altre tecnologie che si possono scoprire
+[13:58] tramite queste richieste foglie
+[13:59] sono per esempio quelle legate ai sistemi di intercettazione internet.
+[14:02] Ci sono stati dei sistemi sviluppati
+[14:05] grazie a dei fondi europei e d'italiani
+[14:07] all'interno del progetto PONREC
+[14:09] che hanno premesso ad un'azienda RCS
+[14:11] di sviluppare delle sonde di intercettazione internet,
+[14:15] delle sonde di ESL, che permettono quindi
+[14:18] il monitoraggio non si sa ancora
+[14:22] per quali scopi, in quali modalità
+[14:25] e persino questo progetto abbiamo fatto
+[14:27] una richiesta foglia specifica per sapere
+[14:29] tutti i documenti dei tagli tecnici
+[14:31] visto che è stata finanziata con fondi pubblici
+[14:34] in parte per poter avere accesso a maggiore informazioni
+[14:37] ma c'è stata negata l'accesso.
+[14:39] Infatti il foglia presenta alcune, diciamo,
+[14:42] criticità. Non possiamo chiedere
+[14:45] tutte le informazioni che vorremmo avere accesso.
+[14:47] Alcune informazioni per motivi di sicurezza pubblica
+[14:50] ci viene negato l'accesso e quindi a volte
+[14:52] potremmo trovarci di fronte a ministeri,
+[14:54] offici che appongono il problema della sicurezza pubblica
+[14:58] quando invece nel dettaglio
+[15:00] magari alcune informazioni potrebbero essere rilasciate
+[15:02] ed altre meno.
+[15:04] Quindi ci troviamo a dover ogni volta
+[15:07] riuscire a fare una richiesta foglia
+[15:10] adatta circoscritta e puntuale
+[15:12] e specifica sul documento
+[15:14] perché altrimenti, per esempio,
+[15:16] può essere opposta un rifiuto
+[15:18] perché la richiesta richiede
+[15:21] un livello, un carico di lavoro
+[15:23] eccessivo per la pubblica amministrazione.
+[15:26] Quindi, ad esempio, nelle richieste delle fatture,
+[15:28] siccome devono redarre a mano
+[15:31] oscurare dati sensibili
+[15:33] e relative a investighezione
+[15:34] che magari sono ancora in corso,
+[15:36] se le fatture sono 300
+[15:39] logicamente questo crea un lavoro,
+[15:41] un carico di lavoro eccessivo
+[15:42] sulla pubblica amministrazione
+[15:43] che ha il diritto quindi
+[15:44] di rifiutare l'accesso a questi dati.
+[15:47] Questo è un po' il quadro
+[15:50] del progetto per la richiesta foglia.
+[15:53] Allora, sintetizzando,
+[15:55] Riccardo è un redattore compulsivo
+[15:58] di richiesta e foglia.
+[16:00] L'abbiamo capito, nonché candidato,
+[16:02] visto gli ambienti in cui si muove
+[16:04] ha una possibile scomparsa
+[16:06] da un momento all'altro.
+[16:08] Quindi, bene che possiamo
+[16:10] profittare della sua competenza
+[16:12] in questo momento.
+[16:14] Il terzo relatore di oggi
+[16:16] è una persona anche lui definibile
+[16:18] il veterana, anche se di età
+[16:20] molto più giovane
+[16:22] della scena,
+[16:24] in questo caso scena ecra italiana,
+[16:26] nonché attualmente
+[16:28] presidente del centro Hermes
+[16:29] per la trasparenza
+[16:31] e i diritti civili digitali.
+[16:33] Gli scendo la parola,
+[16:35] ci illustrerà la situazione
+[16:37] della data detention
+[16:40] in Italia come
+[16:42] è stata gestita
+[16:44] fino ad oggi.
+[16:48] Allora, grazie.
+[16:50] In questo breve intervento
+[16:52] con il contributo della Davora Rodonda
+[16:54] volevo
+[16:56] fare in modo che
+[16:58] i cui presenti si rendano
+[17:00] conto rispetto
+[17:02] agli interventi
+[17:04] regolatori, cioè ciò che viene
+[17:06] normalmente fatto in Parlamento.
+[17:08] Di quale è la reale situazione italiana
+[17:11] di
+[17:13] difficoltà, diciamo,
+[17:15] per la tutela dei diritti civili.
+[17:17] Quanti sanno
+[17:19] all'interno di questa sala
+[17:21] per quanto tempo
+[17:23] sono conservati i tabulati
+[17:25] telefonici delle proprie telefonate
+[17:27] fatte col telefonino?
+[17:31] C'è chi lo sa,
+[17:34] ok, chi non lo sapesse, oggi sono
+[17:36] sei anni.
+[17:38] Sono i dati di traffico telefonico
+[17:40] e i dati di traffico telematico
+[17:42] oggi
+[17:44] sono conservati in Italia
+[17:46] per sei anni.
+[17:48] Questo a partire dall'agosto dell'anno scorso.
+[17:50] Perché cos'è successo
+[17:52] l'agosto dell'anno scorso?
+[17:54] È, diciamo, ciò che volevo condividere
+[17:56] essendo un ambito in cui abbiamo
+[17:58] come centro Hermes, cercato di fare un contributo attivo,
+[18:00] gli unici due, diciamo,
+[18:02] l'unico due realtà che in Italia si sono battute
+[18:04] per non
+[18:06] fare a crescere questa
+[18:08] grande quantità di
+[18:10] questo tempo
+[18:12] per la conservazione dei dati è stato il centro Hermes
+[18:14] e il garante della privacy.
+[18:16] Quanto pare, nell'ambio della politica italiana
+[18:18] nessuno ha detto alcun che.
+[18:20] Allora, dobbiamo sapere che
+[18:22] fino al 2015
+[18:24] il codice privacy, senza entrare
+[18:26] nel legalese, diceva che
+[18:28] i dati di traffico telefonico,
+[18:30] cioè i tabulati, chi ho chiamato
+[18:32] chi, quando e per quanto tempo ci ho parlato
+[18:34] si devono conservare
+[18:36] per un anno.
+[18:38] I dati di traffico telematico, cioè
+[18:40] a chi
+[18:42] è intestato questo indirizzo ip internet
+[18:44] devono essere conservati
+[18:46] per 6 mesi e tutti i squilletti
+[18:48] cioè le telefonate non risposte
+[18:50] per 30 giorni e uno dice, beh,
+[18:52] tutto sommato ai fini di un'attività
+[18:54] in investigazione ci può anche stare
+[18:56] nel delicato bilanciamento
+[18:58] fra sicurezza e privacy
+[19:00] i diritti dei cittadini rispetto a
+[19:02] lo stato SA dei propri cittadini.
+[19:04] Tuttavia nel 2015
+[19:06] decreto antitorrorismo, bam
+[19:08] conserviamo tutti quanti questi dati
+[19:10] indiscriminatamente fino al 30
+[19:12] a giugno 2017.
+[19:14] Quindi dal 2015 si è iniziata a conservare
+[19:16] i dati fino al 2017.
+[19:18] Allora, succede questa cosa
+[19:20] che, quando è intorno
+[19:22] a giugno 2017
+[19:24] queste informazioni che poi sono arrivate
+[19:26] diciamo in modo informale
+[19:28] e ambiti vicini
+[19:30] alla direzione nazionale antimafia
+[19:32] hanno iniziato a fare pressione a
+[19:34] da alcuni politici, in questo caso
+[19:36] un'area del PD, ma questo è indipendente
+[19:38] perché la votazione alla camera è stata
+[19:40] a maggioranza
+[19:42] affinché i dati
+[19:44] dato che c'era questa scadenza, cioè
+[19:46] al 30 giugno 2017
+[19:48] i operatori telefonici
+[19:50] avrebbero dovuto cancellare tutti i dati
+[19:52] raccolti dal 2015
+[19:54] e avrebbero dovuto ristabilire la regola
+[19:56] del codice privacy, cioè un anno
+[19:58] le telefonate e 6 mesi
+[20:00] per l'intestazione degli indirizzi IP.
+[20:02] Allora si è creata questa
+[20:04] grande, grande tentativa
+[20:06] in Parlamento di riuscire
+[20:08] ad allungare i termini
+[20:10] il risultato di cosa è capitato
+[20:12] questo è imbarazzante
+[20:14] per l'Italia.
+[20:16] È capitato che
+[20:18] la data del 30 giugno
+[20:20] è scattata.
+[20:22] Il primo luglio 2017, i operatori telefonici
+[20:24] che non sono lì per servire lo stato
+[20:26] sono per fare profitto hanno cancellato
+[20:28] tutti i dati vecchi.
+[20:30] Ma a luglio
+[20:32] il deputato Verini
+[20:34] ha
+[20:36] nel mentre del dibattito
+[20:38] parlamentare sulla legge europea
+[20:40] 2017
+[20:42] dovete sapere che ogni anno
+[20:44] il Parlamento fa una legge europea
+[20:46] con l'anno corrente in cui ci butta
+[20:48] dentro il recepimento
+[20:50] di tutte le direttive europee che devono diventare
+[20:52] una legge dello stato italiano
+[20:54] e quindi dentro c'è di tutto
+[20:56] cioè dalla lunghezza delle banane
+[20:58] ha la sicurezza degli ascensori
+[21:00] allora in Parlamento
+[21:02] c'era percorso di votazione
+[21:04] per il recepimento
+[21:06] nella legge europea 2017
+[21:08] della normativa sulla sicurezza
+[21:10] degli ascensori. Uno dirà
+[21:12] immaginate tutti i parlamentari che
+[21:14] sbattiglia che votano
+[21:16] sicurezza degli ascensori diretti europea
+[21:18] sì voto sì voto sì ok va bene
+[21:20] beh sta di fatto che
+[21:22] circa 45 minuti prima
+[21:24] della sessione di chiusura
+[21:26] della sessione di voto
+[21:28] delle sessioni di voto
+[21:30] fu presentato un bel emendamento
+[21:32] che in un sottocomma
+[21:34] dell'articolo che recepisce
+[21:36] la direttiva sulla sicurezza
+[21:38] degli ascensori estendeva
+[21:40] sei anni la data retention
+[21:42] quindi la conservazione
+[21:44] dei dati di traffico telefonico
+[21:46] di traffico telematico
+[21:48] dei cittadini italiani
+[21:50] pubblicatoria per i operatori telefonici
+[21:52] e tutti i parlamentari debutati
+[21:54] dei ascensori hanno votato sì
+[21:56] anche quelli che
+[21:58] conosciamo personalmente come
+[22:00] difensori di diritti digitali
+[22:02] non se ne sono accorti
+[22:04] perché? Perché quando si votano
+[22:06] cose noiose in cui non è che c'è molto da discutere
+[22:08] sono lì che piggiano il bottone
+[22:10] sì sì sì sì
+[22:12] beh con questo colpo
+[22:14] di mano perché stiamo parlando
+[22:16] di un colpo di mano ci siamo
+[22:18] una discussione parlamentare
+[22:20] ci siamo ritrovati ad essere il paese europeo
+[22:22] che obbliga
+[22:24] gli operatori internet e gli operatori di telecomunicazione
+[22:26] telefonici a conservare
+[22:28] per la più grande e lunga durata
+[22:30] i dati delle nostre telecomunicazioni
+[22:32] questo
+[22:34] vedete quando ciò è accaduto
+[22:36] non è mancato l'intervento
+[22:38] da parte del garante non è marcato
+[22:40] l'intervento da parte nostra
+[22:42] nella sollicitare ai media non è mancato
+[22:44] l'intervento di giornalisti
+[22:46] interessati ma anche coscienziosi come ricardo
+[22:48] e tanti altri che hanno parlato di questo problema
+[22:50] tuttavia 45 minuti prima
+[22:52] del momento in cui si chiudevano
+[22:54] le votazioni non è che si poteva fare
+[22:56] anche allora uno dirà
+[22:58] beh l'hanno votata la camera passere al senato
+[23:00] peccato che la legislatura
+[23:02] sta per finire e quindi
+[23:04] questo è il recepimento
+[23:06] delle direttive europee non possiamo
+[23:08] mica non recepire le direttive europee
+[23:10] se no l'Unione europea ci fa una sanzione
+[23:12] quindi al senato questa normativa
+[23:14] nel suo pacchetto completo
+[23:16] è stata votata
+[23:17] perché non poteva essere dibattuta
+[23:19] e nonostante c'è stato l'intervento
+[23:21] di senatori coscienziosi che hanno detto
+[23:23] ma voi siete matti
+[23:24] cioè sei anni di conservazione
+[23:26] indiscriminata di dati
+[23:28] cioè oggi un magistrato
+[23:30] di una
+[23:32] prefettura
+[23:34] sparuta in qualunque posto d'Italia
+[23:36] può richiedere sei anni
+[23:38] della vita di un cittadino italiano
+[23:40] di tutte le sue telefonate
+[23:42] e di tutti i suoi dati di traffico telematico
+[23:45] ora ci sarà probabilmente questa cosa
+[23:47] è incompatibile con il diritto comunitario
+[23:49] è importante saperlo
+[23:51] ora come si può rimediare
+[23:53] questa cosa?
+[23:54] beh è incompatibile con il diritto comunitario
+[23:56] quindi ci vorrà una causa
+[23:58] che richiederà dieci anni
+[24:00] che arriverà fino alla Corte europea di giustizia
+[24:02] la quale condannerà l'Italia e gli dirà
+[24:04] mi dispiace è sbagliato
+[24:05] ma nel frattempo
+[24:06] nel frattempo quello che doveva accadere
+[24:08] è accaduto
+[24:09] noi di nostro cerchiamo di fare
+[24:11] un certo impegno
+[24:13] diciamo comunicativo
+[24:15] e divulgativo a riguardo
+[24:17] ma io volevo condividere
+[24:19] quando si dice privacy nightmare
+[24:21] stiamo parlando veramente
+[24:23] degli incubi di cosa accade
+[24:25] così compensato in modo
+[24:27] strumentale con un colpo di mano
+[24:29] se ho un minuto e mezzo
+[24:31] volevo aggiungere un elemento
+[24:33] che in pochi sanno
+[24:35] che è un altro tema
+[24:37] stiamo andando ad operare
+[24:39] che vogliamo portare
+[24:41] diciamo vogliamo portare a livello istituzionale
+[24:43] su cui stiamo lavorando
+[24:45] che riguarda
+[24:47] lo abbiamo detto la data retention
+[24:49] cioè la conservazione dei dati di traffico
+[24:51] telefonici e telematici
+[24:53] ma cosa significa dato di traffico telematico
+[24:55] dato di traffico telematico
+[24:57] l'obbligatorietà serve a far sì che
+[24:59] quando l'autorità giudiziaria chiede
+[25:01] a un operatore di telecomunicazioni
+[25:03] ma di chi era questo indirizzo IP
+[25:05] in questa data, in quest'orario
+[25:07] l'operatore gli possa dare una risposta
+[25:09] felli fair enough
+[25:11] abbastanza facile
+[25:13] uno dice tutto somato non è così grave
+[25:15] che quell'indirizzo IP era la mia DSL
+[25:17] di casa
+[25:19] peccato che gli indirizi internet
+[25:21] sono diventati pochi
+[25:23] sono veramente pochi quindi
+[25:25] i grandi operatori assegnano
+[25:27] al nostro telefonino ad esempio
+[25:29] un indirizzo IP così detto privato
+[25:31] quindi noi ci troviamo che adesso
+[25:33] se andiamo su Facebook
+[25:35] in questa stanza
+[25:37] probabilmente ci presentiamo su internet
+[25:39] tutti con lo stesso indirizzo IP
+[25:41] e abbiamo poi un indirizzo IP privato
+[25:43] che è solo dell'operatore telefonico
+[25:45] quindi se domani
+[25:47] la polizia chiedessa all'operatore telefonico
+[25:49] chi era quelli IP
+[25:51] di oggi a quest'ora
+[25:53] e di vedere
+[25:55] tutte le persone presenti in questa stanza
+[25:57] ovviamente non sarebbe una risposta valida
+[25:59] allora l'operatore è costretto a fare una cosa
+[26:01] veramente brutta
+[26:03] è costretto a registrare
+[26:05] tutti i siti internet a cui ci colleghiamo
+[26:07] è costretto a farsi
+[26:09] che ogni volta che noi ci colleghiamo a
+[26:11] diciamo un indirizzo IP
+[26:13] cioè un indirizzo numerico
+[26:15] che poi è una corrispondenza numerica
+[26:17] facebook.com è il nome
+[26:19] di un indirizzo IP come un numero di telefono
+[26:21] un dato di contatto
+[26:23] questa informazione viene registrata
+[26:25] dall'operatore telefonico
+[26:27] questa è una cosa che non è prescritta
+[26:29] dalla legge ma è diventata necessaria
+[26:31] per il contesto tecnico e tecnologico
+[26:33] che ci troviamo
+[26:35] cioè in cui indirizzi pubblici
+[26:37] così dei tipi pubblici stanno riducendo
+[26:39] quindi gli operatori li devo utilizzare
+[26:41] in modo parsimonioso
+[26:43] all'atto sostanziale cosa significa
+[26:45] che in Italia per 6 anni
+[26:47] tutte le singole connessioni che
+[26:49] vengono fatte su internet
+[26:51] da parte di un nostro telefonino
+[26:53] di un nostro computer vengono registrate
+[26:55] per 6 anni
+[26:57] che significa che tra 4 anni
+[26:59] e mezzo qualcuno potrà dire
+[27:01] ma tu a quell'ora
+[27:03] è ricollegato a you porn
+[27:05] o tu a quell'ora
+[27:07] facciamo dei altri esempi piuttosto importanti
+[27:09] tu a quell'ora è ricollegato a un sito
+[27:11] di informazione sull'hiv
+[27:13] dato sanitario
+[27:15] tu a quell'ora è ricollegato
+[27:17] a un sito di
+[27:19] una comunità omosessuale
+[27:21] preferenze sessuali dati sanitari
+[27:23] cioè dalle informazioni di navigazione
+[27:25] le leggi non devono essere raccolte
+[27:27] oggi ci troviamo che invece sono raccolte
+[27:29] e sono raccolte per 6 anni
+[27:31] come diretta ripercussione
+[27:33] da un lato del contesto tecnico
+[27:35] di difficoltà in cui si trovano gli operatori telefonici
+[27:37] per i pochi indirizzi pubblici
+[27:39] quindi devono registrare tutte le singole connessioni
+[27:41] e dall'altro per questa schifezza
+[27:43] in cui
+[27:45] abbiamo la conservazione di dati
+[27:47] per 6 anni
+[27:49] questo è il contesto reale in cui ci troviamo
+[27:51] peggio di così non poteva andare
+[27:53] e
+[27:55] mi rendo conto che spesso non ci
+[27:57] ne accorge
+[27:59] e su questo
+[28:01] penso che cercheremo di fare tanta informazione
+[28:03] anche tanta visualizzazione
+[28:05] per far capire la gravità della cosa
+[28:07] 6 anni sono veramente tanti
+[28:09] in 6 anni la vita di una persona può cambiare radicalmente
+[28:11] grazie Fabio
+[28:15] prima di cedere la parola
+[28:17] l'ultimo delatore
+[28:19] siccome non potevamo mancare
+[28:21] di toccare l'argomento di attualità
+[28:23] per eccellenza cioè la di questioni legati
+[28:25] a Cambridge analitica
+[28:27] e al problemi che Zuckeberg
+[28:29] sta avendo
+[28:31] di voi ieri sera ha seguito un attimo
+[28:33] la sua testimonianza di fronte al Senato
+[28:35] si sarebbe riso conto
+[28:37] dell'imbarazzo che c'era
+[28:39] nell'aria
+[28:41] siccome si è fatta anche tanta
+[28:43] informazione approssimativa
+[28:45] su Cambridge analitica
+[28:47] quello che è successo non è
+[28:49] esattamente quello di cui si sente parlare molto
+[28:51] Cambridge analitica ha usato
+[28:53] illegalmente dei dati
+[28:55] che ha potuto accedere
+[28:57] quattro anni fa
+[28:59] perché poteva utilizzare
+[29:01] un app
+[29:03] un accesso diciamo informatico particolare
+[29:05] che Facebook li avrà concesso
+[29:07] ha fatto questo si è presa questi dati
+[29:09] poi li ha usati
+[29:11] in una ricerca
+[29:13] poi li ha usati anche
+[29:15] per campagne pubblicitari
+[29:17] infine per campagne pubblicitari
+[29:19] per influenzare delle elezioni politiche
+[29:21] questa escalation
+[29:23] ha progato dei problemi
+[29:25] è bizzarro considerare
+[29:27] che pare che circa
+[29:29] 1400 aziende
+[29:31] quindi 1399
+[29:33] più Cambridge analitica
+[29:35] hanno avuto lo stesso tipo di accesso
+[29:37] agli stessi dati di Facebook
+[29:39] cosa è successo?
+[29:41] è successo che Cambridge analitica è andata
+[29:43] a influenzare il risultato
+[29:45] delle elezioni di una super potenza
+[29:47] e quindi ha fatto sostanzialmente
+[29:49] preoccupare molto gli stati nazionali
+[29:51] mentre le altre 1399 compagnie
+[29:53] si limitano a condizionare
+[29:55] quotidienamente
+[29:57] i nostri comportamenti
+[29:59] cosa di cui agli stati nazionali
+[30:01] non frega assolutamente
+[30:03] nullanzi probabilmente interessa
+[30:05] particolarmente questo rende
+[30:07] contemporaneamente necessario
+[30:09] da una parte perseguire
+[30:11] Facebook dall'altra
+[30:13] non perseguirlo troppo
+[30:15] perché altrimenti
+[30:17] queste cose andrebbero a sparire
+[30:19] e che cosa potrebbe succedere
+[30:21] se oggi fosse
+[30:23] già maggio
+[30:25] ci lo racconterà
+[30:27] l'avvocato giovane di Battista Gallus
+[30:29] che ci segue in videoconferenza
+[30:31] spero di
+[30:33] potete mettere sullo spiamo di assia
+[30:35] e in particolare
+[30:37] lui è un avvocato
+[30:39] e fello del centro Nex
+[30:41] dei puoi tecnologi di Milano
+[30:43] Hermes
+[30:45] nonché ex Presidente del Circo
+[30:47] dei Giusti Trematici
+[30:49] nonché anche mio amico personale
+[30:51] Giovanni
+[30:53] Sì, grazie
+[30:55] buon pomeriggio a tutti
+[30:57] mi dispiace molto
+[30:59] non poter essere lì di persona
+[31:01] ma sono rimasto
+[31:03] bloccato in Sardegna
+[31:05] comunque
+[31:07] vi stavo seguendo
+[31:09] il mio compito
+[31:11] di fare qualche
+[31:13] chiosa legale
+[31:15] cercando di evitare il più possibile
+[31:17] il legalese
+[31:19] su quello che è stato detto
+[31:21] se mi permetti Marco
+[31:23] prima di affrontare il tema
+[31:25] di Cambridge analitica
+[31:27] volevo aggiungere due considerazioni
+[31:29] sugli altri aspetti che sono stati toccati prima
+[31:33] perché
+[31:35] in realtà anche l'aspetto
+[31:37] che toccava Giovanni
+[31:39] nel trattamento di dati biometrici
+[31:41] è particolarmente significativo
+[31:43] e
+[31:45] già è sostanzialmente
+[31:47] il lecito
+[31:49] nel quadro attuale
+[31:51] non c'è dubbio, lo ha detto anche
+[31:53] il garante
+[31:55] ma si aggiunge con
+[31:57] il GDPR, quindi con il Regolamento
+[31:59] europeo
+[32:01] che è già entrato in bigore
+[32:03] ma acquisterà efficacia
+[32:05] il 25 maggio
+[32:07] del 2018, Regolamento europeo
+[32:09] 16-9 del 2016
+[32:11] che sostituisce fonti
+[32:13] la direttiva europea
+[32:15] che è direttamente applicabile in tutti gli stati
+[32:17] i dati biometrici
+[32:19] quindi quelli che
+[32:21] sono stati
+[32:23] trattati dai totem
+[32:25] vengono verificati ai dati sensibili
+[32:27] anzi diventano categorie
+[32:29] particolari di dati
+[32:31] e quindi a questo punto
+[32:33] quella condotta che già era grave
+[32:35] l'anno scorso assumi una gravità
+[32:37] ancora maggiore
+[32:39] e tra l'altro da una serie di possibilità
+[32:41] di titela maggiore
+[32:43] anche ai cittadini
+[32:45] quindi certamente
+[32:47] c'è un livello di protezione
+[32:49] maggiore che riverbera
+[32:51] tutti gli aspetti che abbiamo visto
+[32:53] e prima di affrontare
+[32:55] appunto
+[32:57] embri giornalitica post 25 maggio
+[32:59] faccio anche una
+[33:01] breve riflessione
+[33:03] della data retention
+[33:05] perché è un tema
+[33:07] particolarmente interessante
+[33:09] come giustamente diceva
+[33:11] Fabio Pietrossanti
+[33:13] decisamente mi sconosciuto
+[33:15] cioè forse molto pochi
+[33:17] si preoccupano
+[33:19] del fatto che
+[33:21] i dati dei tabulati
+[33:23] tabulati telefonici e telematici
+[33:25] vengano conservati per un giissimo tempo
+[33:27] e teniamo presente
+[33:29] che la scusa
+[33:31] così come il Decreto Pisano
+[33:33] anche la
+[33:35] ultima riforma
+[33:37] è quella del terrorismo
+[33:39] quindi quei tabulati
+[33:41] potranno essere conservati
+[33:43] per due anni
+[33:45] i telefonici e un anno i telematici
+[33:47] e 30 giorni gli squillini
+[33:49] per tutti i reati
+[33:51] mentre per terrorismo
+[33:53] c'è appunto la conservazione
+[33:55] di sei anni
+[33:57] ma alla fine è ovvio che io conservo
+[33:59] tutto per forza
+[34:01] quindi a questo punto c'è questo enorme
+[34:03] periodo di conservazione
+[34:05] e tra l'altro
+[34:07] come diceva appunto anche Fabio
+[34:09] non è un
+[34:11] problema
+[34:13] che la Corte o che a livello europeo
+[34:15] non si sia già apposso
+[34:17] ci sono state due importanti sentenze
+[34:19] la prima del 2014
+[34:21] la sentenza
+[34:23] Digital Rise Island
+[34:25] che ha cancellato
+[34:27] la cosiddetta dirittiva
+[34:29] frattini
+[34:31] sulla Data Retention
+[34:33] sulla base di una serie di principi
+[34:35] e uno di questi è molto importante
+[34:37] ed è totalmente
+[34:39] trascurato
+[34:41] dall'annunzio italiano
+[34:43] adesso dice si conserva tutto per sei anni
+[34:45] indipendentemente dal fatto
+[34:47] se ci sia un reato
+[34:49] se ci sia un indizio
+[34:51] se ci sia un acqua lungue
+[34:53] anche solo lontanissimo
+[34:55] di un attività terroristica
+[34:57] o simili
+[34:59] e questo è un punto particolarmente
+[35:01] rilevante, tant'è che
+[35:03] appunto la prima sentenza
+[35:05] quella del 2004
+[35:07] la sentenza Digital Rise Island
+[35:09] si tratta Digital Rise Island 1
+[35:11] dice
+[35:13] che questo è un problema
+[35:15] perché appunto dice si applica
+[35:17] anche alle persone per le quali non esiste
+[35:19] alcun indizio tale
+[35:21] da far credere che il loro comportamento
+[35:23] per un netto
+[35:25] ancora indiretto lontano corretto i gravi
+[35:27] cioè la Corte Europea
+[35:29] dice una Data Retention
+[35:31] indiscriminata e totale
+[35:33] non è conforme
+[35:35] con i principi
+[35:37] di corretto trattamento di dati personali
+[35:39] e non è conforme con i diritti di libertà
+[35:41] fondamentali
+[35:43] e ha maggior ragione nel mutato
+[35:45] quadro del regolamento europeo
+[35:47] tenete presente
+[35:49] che dovrebbe essere
+[35:51] approvata
+[35:53] la normativa
+[35:55] il Decreto Registrativo
+[35:57] che adegua
+[35:59] almeno in parte la nostra disciplina
+[36:01] al Regolamento Europeo
+[36:03] che peraltro è direttamente applicabile
+[36:05] come vi ho detto è nelle bozze
+[36:07] informali perché in realtà
+[36:09] non è stato pubblicato un test
+[36:11] ufficiale
+[36:13] la Data Retention rimane tale quale
+[36:15] cioè rimangono gli stessi periodi
+[36:17] e viene fatta salva anche la norma
+[36:19] che è stata indicata
+[36:21] prima dei 6 anni
+[36:23] quindi sostanzialmente
+[36:25] il nostro Registratore
+[36:27] in questo caso il Decreto Registrativo
+[36:29] ripeterebbe l'errore
+[36:31] quindi la situazione è comunque
+[36:33] preoccupante
+[36:35] andiamo a vedere
+[36:37] un po' brevemente
+[36:39] poi magari facciamo
+[36:41] qualche approfondimento nel secondo giro
+[36:43] che cosa
+[36:45] invece succederebbe
+[36:47] se la vicenda
+[36:49] la vicenda Cambridge analitica
+[36:51] fosse successa
+[36:53] dopo il 25 maggio
+[36:55] e c'è un primo punto
+[36:57] che è particolarmente rilevante
+[36:59] al di là del fatto che il Cambridge analitica
+[37:01] è in Gran Bretagna
+[37:03] e la Gran Bretagna naturalmente
+[37:05] è ancora parte
+[37:07] dell'Unione Europea
+[37:09] ma ammettiamo che fosse una delle tante
+[37:11] società
+[37:13] che cattano dati al di fuori
+[37:15] dell'Unione Europea
+[37:17] cattunitense indiana non importa
+[37:19] il regolamento europeo
+[37:21] punto che acquisterà efficace
+[37:23] al 25 maggio
+[37:25] si applica
+[37:27] e questa è una novità molto importante
+[37:29] che peraltro è stata anticipata
+[37:31] da alcune sentenze
+[37:33] anche qui della Corte Europea
+[37:35] di giustizia
+[37:37] si applica anche a tutti coloro
+[37:39] che offrono bene i servizi
+[37:41] a cittadini all'Unione Europea
+[37:43] o che fanno attività di profilazione
+[37:45] dirette verso cittadini
+[37:47] dell'Unione Europea
+[37:49] sono semplicicando ma questi sono due punti
+[37:51] molto importanti
+[37:53] quindi a questo punto il regolamento europeo
+[37:55] si applicerebbe
+[37:57] indipendentemente dal fatto
+[37:59] da dove si trovino
+[38:01] queste società
+[38:03] dove si trovino il server
+[38:05] a condizione
+[38:07] che abbiano come target di cittadini europei
+[38:09] e si applicano
+[38:11] integralmente
+[38:13] quindi vuol dire che innanzitutto
+[38:15] si applica tutto il complesso
+[38:17] delle garanzie
+[38:19] e si applica anche
+[38:21] ovviamente le sanzioni
+[38:23] e quindi questo è un punto
+[38:25] decisamente rilevante
+[38:27] quindi primo
+[38:29] tassello di quel che voglio
+[38:31] sottolineare e questo
+[38:33] si applicerebbe integralmente
+[38:35] il regolamento europeo
+[38:37] la dove vi fossero
+[38:39] come diciamo destinatari
+[38:41] cittadini dell'Unione Europea
+[38:43] tra l'altro
+[38:45] apri chiudono la parentesi personale
+[38:47] stando alla
+[38:49] diciamo funzione di Facebook
+[38:51] che consente di controllare
+[38:53] se
+[38:55] si è stati o meno colpiti
+[38:57] tra virgolette alla vicenda cambridge
+[38:59] analitica né io né miei friends
+[39:01] su Facebook siamo stati coinvolti
+[39:03] quindi potrei anche disinteressarmi
+[39:05] questando
+[39:07] alla stessa Facebook
+[39:09] ma certamente c'è un problema
+[39:11] e poi
+[39:13] per quanto riguarda questa vicenda
+[39:15] ovviamente
+[39:17] ci sarebbe
+[39:19] la piccabilità di altri
+[39:21] istituti
+[39:23] che sono strettamente legati
+[39:25] che sono anche in parte nuovi
+[39:27] e in particolare
+[39:29] la violazione di dati personali
+[39:31] la violazione di dati personali
+[39:33] ho così detto data rich
+[39:35] e una violazione di sicurezza
+[39:37] che comporta tra le altre cose
+[39:39] la dicundazione non autorizzata
+[39:41] di tanto
+[39:43] ora è discutibile
+[39:45] che la più centraintricionalitica
+[39:47] sia un data rich propriamente
+[39:49] detto
+[39:51] perché non c'è una violazione di sicurezza
+[39:53] propriamente detta quindi in realtà
+[39:55] i dati sono stati ceduti
+[39:57] a terzi in violazione
+[39:59] delle condizioni di Facebook
+[40:01] attenzione non in violazione
+[40:03] delle condizioni della singola
+[40:05] app
+[40:07] digital life
+[40:09] perché quelle decisioni che come
+[40:11] sempre nessuno legge
+[40:13] dicevano che i dati potevano essere venduti
+[40:15] tra l'altro è
+[40:17] saltato fuori proprio
+[40:19] ieri
+[40:21] nella audizione di Zuckerberg
+[40:23] al Senato
+[40:25] gli è stato mostrato un cartello
+[40:27] con le condizioni di servizio
+[40:29] dell'app e ha detto che
+[40:31] ovviamente come tutti non aveva letto
+[40:33] alcun che quindi
+[40:35] questo è un punto rilevante
+[40:37] non è detto che sia
+[40:39] proprio un data rich
+[40:41] ma certamente questi dati
+[40:43] sono stati
+[40:45] oltre a essere trasferiti
+[40:47] oltre oltre oceano
+[40:49] sono stati divulgati
+[40:51] a soggetti che non erano
+[40:53] tecnicamente autorizzati quindi
+[40:55] con un pò di fantasia
+[40:57] potremmo anche considerarlo un data rich
+[40:59] cosa succede
+[41:01] ai data rich nel 25 maggio
+[41:03] dopo il 25 maggio
+[41:05] succede che devono essere
+[41:07] comunicati
+[41:09] agli interessati se c'è
+[41:11] una rischio elevato
+[41:13] per i diritti di libertà fondamentali
+[41:15] quindi se
+[41:17] fosse successo dopo il 25 maggio
+[41:19] o se c'è una violazione di sicurezza
+[41:21] dopo il 25 maggio
+[41:23] che c'è un rischio per i diritti di libertà
+[41:25] dell'interessato allora
+[41:27] deve scattare la comunicazione
+[41:29] l'interessato deve essere informato
+[41:31] e anche se non ci sono
+[41:33] questi rischi
+[41:35] comunque va fatta la
+[41:37] notificazione al carante
+[41:39] quindi vedete
+[41:41] che sia un adepimento del tutto nuovo
+[41:43] perché scatta
+[41:45] delle ipotesi in cui ci sono delle
+[41:47] violazioni di sicurezza
+[41:49] quindi indipendentemente da la loro causa
+[41:51] l'importante è che ci sia il fatto oggettivo
+[41:53] della violazione di sicurezza
+[41:55] questa è una garanzia importante
+[41:57] ultimo punto
+[42:01] che potrebbe
+[42:03] escanche rilevante per altro
+[42:05] la perdita in borsa di facebook
+[42:07] forse è stata più grave
+[42:09] di qualsiasi sanzione
+[42:11] e la 5 stanza che
+[42:13] certamente ci sono state
+[42:15] delle violazioni
+[42:17] eventualmente c'è stato un trasferimento
+[42:19] trasferimento trasfermantaliero
+[42:21] c'è stato un trattamento ecedente
+[42:23] sono state
+[42:25] tutta una serie di violazioni
+[42:27] che comporterebbero l'applicazione
+[42:29] delle sanzioni del regolamento europeo
+[42:31] e le sanzioni
+[42:33] sono particolarmente affrittive
+[42:35] perché
+[42:37] la sanzione più grave
+[42:39] è fino a 20 milioni di euro
+[42:41] o fino al 4%
+[42:43] del fatturato mondiale
+[42:45] globale del gruppo
+[42:47] quindi immaginate
+[42:49] quanto possano essere alte
+[42:51] le sanzioni nei confronti
+[42:53] di un grosso soggetto
+[42:55] grosso player
+[42:57] un grosso player americano
+[42:59] tra l'altro questa è la sanzione
+[43:01] massima e irrogabile
+[43:03] perché in caso a dove vi siano
+[43:05] più violazioni che sono sanzionate
+[43:07] l'articolo 83 del GDPR
+[43:09] comunque
+[43:11] mi dice che si applici
+[43:13] solamente la sanzione più grave
+[43:15] ma comunque è certamente
+[43:17] ben più deterrente
+[43:19] dell'attuale sistema sanzionatorio
+[43:21] soprattutto il 4%
+[43:23] del fatturato mondiale
+[43:25] anno dell'esercizio precedente
+[43:27] la dove sia superiore
+[43:29] ai 20 milioni di euro
+[43:31] quindi certamente
+[43:33] c'è un quadro
+[43:35] di maggiore
+[43:37] di maggiore protezione
+[43:39] rispetto
+[43:41] alla situazione attuale
+[43:43] ma il punto fondamentale
+[43:45] è che comunque
+[43:47] abbiamo
+[43:49] dei problemi
+[43:51] di circolazione
+[43:53] molto spesso
+[43:55] non chiara, non limpida
+[43:57] dei dati personali
+[43:59] che difficilmente possono essere sanzionati
+[44:01] perché difficilmente possono essere
+[44:03] scoperti
+[44:05] penso appunto a tutti i data broker
+[44:07] che continuano
+[44:09] allegramente a vendere
+[44:11] dati più o meno profilati
+[44:13] a vendere profilazioni
+[44:15] certamente personali
+[44:17] più che le volte si tratta
+[44:19] di condotta il leccitema
+[44:21] è ben difficile rendersene come
+[44:23] e in questi
+[44:25] in questi casi
+[44:27] a tirà delle sanzioni
+[44:29] al tirà della comunicazione di Fabric
+[44:31] è certamente importante
+[44:33] la consapevolezza
+[44:35] di tutti i cittadini
+[44:37] e forse il fatto più positivo
+[44:39] della ricetta tendrigianamitica
+[44:41] di tutti gli altri private nighters
+[44:43] anche italiano
+[44:45] è che forse questa consapevolezza
+[44:47] è maggiore
+[44:49] di prima, io ho concluso
+[44:51] per questo primo giro
+[44:53] e vi rimpassiamo
+[44:55] grazie Giovanni
+[44:57] dopo questa approfondita analisi
+[44:59] noi avremmo terminato
+[45:01] con l'esposizione degli argomenti
+[45:03] ma saremmo lieti ovviamente
+[45:05] se ci fossero domande
+[45:07] la parte vostra
+[45:09] per cui prego chi ne avesse
+[45:11] di farle al microfono di Sara
+[45:13] grazie
+[45:17] se il whistleblower di Cambridge analitica
+[45:19] avesse aspettato 6 mesi
+[45:21] avremmo fatto i botti
+[45:23] è vero
+[45:25] cosa si può fare
+[45:37] di realistico
+[45:39] per
+[45:41] far notare quanto sia
+[45:43] a tipico il tratamento
+[45:45] la collezione di 6 anni
+[45:47] rispetto alle altre nazioni della comunità europea
+[45:49] che so, in altre nazioni
+[45:51] la collezione dei massimi 2 anni
+[45:53] quindi un cittadino europeo
+[45:55] che dovesse muoversi in Italia
+[45:57] se abbia soggetto a una collezione
+[45:59] maggiorata
+[46:01] questo dà la possibilità di sollevare
+[46:03] delle
+[46:05] cause
+[46:09] posso sul tema
+[46:11] sul tema di quali azioni
+[46:13] fare per contrastare
+[46:15] più che per contrastare
+[46:17] in questo caso è per far capire
+[46:19] far comprendere
+[46:21] in realtà
+[46:23] un grosso sforzo
+[46:25] di visualizzazione
+[46:27] di video making
+[46:29] di analisi
+[46:31] di quanta parte della
+[46:33] propria vita privata possa essere inferita
+[46:35] a partire da tabulati
+[46:37] o da dati di traffico telematico
+[46:39] perché se uno non vede
+[46:41] non riesce
+[46:43] a comprenderne
+[46:45] a comprenderne il reale
+[46:47] impatto
+[46:49] di dire che forse ci toccherà a noi farlo
+[46:51] in qualche modo
+[46:53] termini
+[46:55] di contrasto
+[46:57] cosa possiamo realmente fare
+[46:59] per cercare di contrastare
+[47:01] la data retention a 6 anni
+[47:03] esiste un fronte di carattere
+[47:05] giuridico
+[47:07] giudiziario
+[47:09] cioè le cosiddette litigation strategy
+[47:11] quello che nel mondo anglosasso
+[47:13] è sicuramente molto più facile da fare
+[47:15] è da noi un po' più difficile
+[47:17] cioè
+[47:19] creare una causa
+[47:21] costruita
+[47:23] all'uopo
+[47:25] in cui si richieda
+[47:27] al giudice
+[47:29] la non compatibilità
+[47:31] della data retention a 6 anni
+[47:33] con l'ordinamento comunitario
+[47:35] e quindi si convinca il giudice
+[47:37] già in prima estanza
+[47:39] a dire questo è un tema di cui si deve occupare
+[47:41] la Corte di Giustizia Europea
+[47:43] e quindi avviare il percorso presso la Corte di Giustizia Europea
+[47:45] questa cosa effettivamente
+[47:47] è piuttosto complicata
+[47:49] richiede anni a molte incertezze
+[47:51] l'altro percorso
+[47:53] è un percorso completamente diverso
+[47:55] invece è quello di intervenire
+[47:57] con un'attività di policy lobbying
+[47:59] a tutti gli effetti
+[48:01] quella che viene fatta ad esempio
+[48:03] da European Digital Rights
+[48:05] in sede comunitaria a Bruxelles
+[48:07] ma fatta a Roma, fatta in Italia
+[48:09] per riuscire a influenzare
+[48:11] questa legislatura
+[48:13] se mai nascerà un governo
+[48:17] a modificare questa normativa
+[48:19] con qualcosa che possa essere
+[48:21] comunque utile per le agenzie di sicurezza
+[48:23] ma che abbia un
+[48:25] migliore bilanciamento
+[48:27] fra sicurezza e diritti dei cittadini
+[48:29] perché è sempre lì
+[48:31] non è 0 o 6 anni
+[48:33] ci vuole un giusto equilibrio
+[48:35] e giusto bilanciamento
+[48:37] fra le esigenze investigative
+[48:39] e le esigenze di tutela
+[48:41] dei civili, dei cittadini italiani
+[48:43] grazie
+[48:48] la presentazione finora è stata molto interessante
+[48:50] la mia domanda
+[48:52] ha a che fare
+[48:54] con una sensazione che potrebbe anche non essere
+[48:56] curata ma vi piacerebbe avere
+[48:58] il vostro feedback
+[49:00] e cioè il fatto che tutte le volte
+[49:02] che si parla di privacy in realtà
+[49:04] sembra che ci dimentichiamo
+[49:06] l'elefante nella stanza
+[49:08] cioè carino che mi dedicano
+[49:10] che cosa fanno con i miei dati
+[49:12] il problema non è quello
+[49:14] o meglio come utilizzino certi dati
+[49:16] il problema non è tanto quello e cosa ci fanno dopo
+[49:18] cioè se
+[49:20] io scarico un'applicazione
+[49:22] mi chiede l'attivazione del microfono
+[49:24] un conto è se usa l'applicazione del microfono
+[49:26] per ascoltare la canzone
+[49:28] quando io schiaccio un tasto e un conto
+[49:30] e secondo quell'autorizzazione
+[49:32] poi di fatto mi ascolta 24 su 24
+[49:34] chiaramente la cosa è completamente differente
+[49:36] il fatto che mi chiedano l'autorizzazione
+[49:38] a me interessa relativamente poco
+[49:40] mi preoccupa molto di più l'utilizzo che ne fanno dopo
+[49:42] su questo
+[49:44] io vedo che in ogni discussione
+[49:46] il tema di
+[49:48] come vengono utilizzati
+[49:50] i dati dopo non è tanto rilevante
+[49:52] in questo nel caso del Cambridge Analytica
+[49:54] è clamorosa la questione
+[49:56] cioè io ti do una serie di preferenze
+[49:58] te le faccio vedere
+[50:00] se le usi per dirmi
+[50:02] quali sono le mie preferenze invece quella della mia personalità
+[50:04] è un conto se le usi dopo per farmi
+[50:06] cambiare idea su chi votare
+[50:08] le azioni bella musica è molto differente
+[50:10] ecco volevo un attimo capire
+[50:12] come mai questa cosa
+[50:14] buh, ho questa sensazione abbastanza forte
+[50:16] però sembra che fino adesso
+[50:18] non se me riscuta più di tanto
+[50:20] provo a iniziare una risposta
+[50:22] che eventualmente i colleghi proseguiranno
+[50:24] lei ha adottato giustamente
+[50:26] il punto di vista dell'utente finale
+[50:28] tradotto del semplice cittadino
+[50:30] l'ha anche descritto molto bene
+[50:32] perché ha detto quando io installo un'applicazione
+[50:34] mi chiede delle autorizzazioni
+[50:36] certamente ed è già tanto che faccio a quello
+[50:38] perché fino a poco tempo fa
+[50:40] non era neanche così
+[50:42] quindi se lei sta installando un gioco di cart
+[50:44] che le chiede di poter utilizzare
+[50:46] il microfono e di mandare sms
+[50:48] forse si pone qualche domanda
+[50:50] questo però dal punto di vista legale
+[50:52] non ha nessuna rilevanza e semplicemente
+[50:54] chi adesso
+[50:56] fa applicazioni android
+[50:58] deve seguire le direttive di google
+[51:00] che è stato debitamente influenzato
+[51:02] perché questo succedesse
+[51:04] quindi le vengono date delle informazioni
+[51:06] che prima non aveva
+[51:08] dopodiché tutto il resto del discorso
+[51:10] cosa fanno questi con i miei dati
+[51:12] intanto bisogna vedere quali dati
+[51:14] giustamente sono stati presi
+[51:16] alcuni dati non possono essere
+[51:18] presi per legge
+[51:20] quindi è stata di vedere se
+[51:22] chi li
+[51:24] preleva diciamo
+[51:26] lo fa legalmente
+[51:28] dopodiché ci sono dei problemi di conservazione
+[51:30] perché i dati prelevati
+[51:32] devono essere trattati per quello scopo
+[51:34] e poi se il trattamento non lo giustifica
+[51:36] devono essere cancellati
+[51:38] bisogna andare a vedere di questi dati
+[51:40] poi quali vengono effettivamente
+[51:42] memorizzati per essere utilizzati
+[51:44] in un secondo tempo
+[51:46] dopodiché bisogna vedere a chi vengono trasferiti
+[51:48] perché ovviamente i dati sono il petrolio
+[51:50] si diceva anche qui
+[51:52] e il petrolio viaggia
+[51:54] i dati viaggiano oltre tutto si possono
+[51:56] moltiplicare le fonti
+[51:58] di ricavo vendendo dati
+[52:00] si possono vendere a più persone
+[52:02] anche questo è una cosa che può essere fatta
+[52:04] legalmente o illegalmente
+[52:06] il fatto che il mondo ormai sia transfrontaliero
+[52:08] mentre i corpus legislativi
+[52:10] sono ancora nazionali
+[52:12] o al massimo
+[52:14] semi-continentali
+[52:16] rende il problema ancora più strangiato
+[52:18] in parole povere non c'è
+[52:20] modo in general di dare una risposta
+[52:22] se non
+[52:24] analizzando un caso particolare
+[52:26] vedendo cosa è stato fatto legalmente
+[52:28] questo è il mio tentativo
+[52:30] di abbozzare una risposta
+[52:32] non so se qualcuno dei colleghi
+[52:34] può essere più confortante di me
+[52:36] posso aggiungere qualcosa?
+[52:38] certamente
+[52:40] eccoci
+[52:42] allora la prima risposta
+[52:44] è spettamente formale
+[52:46] nel senso che
+[52:48] posso che si tratta di dati personali
+[52:50] cioè
+[52:52] già adesso il principio di finalità
+[52:54] che con il GDPR diventa
+[52:56] l'imitazione della finalità
+[52:58] ma è la stessa cosa
+[53:00] i dati possono essere trattati
+[53:02] solamente
+[53:04] per quegli scopi determinati
+[53:06] espliciti e legittimi
+[53:08] che mi vengono detti nell'informativa
+[53:10] che è naturalmente
+[53:12] quello che nessuno legge
+[53:14] il GDPR aggiunge
+[53:16] un tassello
+[53:18] che è quello
+[53:20] che l'informativa sarà
+[53:22] anche appresentata
+[53:24] da una serie di icone
+[53:26] che dovrebbero chiarire
+[53:28] il livello di
+[53:30] incisività
+[53:32] del trattamento delle tipologie
+[53:34] di trattamento delle modalità
+[53:36] e così via
+[53:38] però questi icone non ci sono
+[53:40] quindi formalmente
+[53:42] tutte le volte in cui
+[53:44] io raccolgo dei dati
+[53:46] senza che dicco per quali finalità
+[53:48] si è annunzati in raccuni
+[53:50] o se li uso
+[53:52] per finalità diverse
+[53:54] o se li conservo
+[53:56] perché anche all'imitazione della conservazione
+[53:58] lo diceva bene Marco Calamari
+[54:00] è importante
+[54:02] allora questo può essere un trattamento illecito
+[54:04] per questo
+[54:06] è diciamo la risposta formale
+[54:08] l'ultico repassaggio
+[54:10] che si è aggiunto sempre da GDPR
+[54:12] è il fatto
+[54:14] che si introducono
+[54:16] i principi, i privacy by design
+[54:18] e privacy by default
+[54:20] e quindi
+[54:22] contrariamente a quello che succede adesso
+[54:24] poi andremo a vedere se
+[54:26] i sistemi devono essere
+[54:28] costruiti
+[54:30] in maniera tale da rispettare
+[54:32] i diritti previssi nel GDPR
+[54:34] ed è fuorito
+[54:36] al minimo i dati trattati
+[54:38] quindi mi chiedi l'accesso alla rubica
+[54:40] perché cosa ti serve
+[54:42] e lo puoi usare solo per quella funzione
+[54:44] ed devi immediatamente cancellare i dati
+[54:46] mi chiedi l'accesso alla fotocamera
+[54:48] ti serve solo
+[54:50] perché io magari posso
+[54:52] scattare una foto all'interno dell'altro
+[54:54] o qui non lo puoi usare per altro
+[54:56] naturalmente
+[54:58] anche questo vale
+[55:00] anche per
+[55:02] il mitrofono
+[55:04] e per tutti gli altri aspetti
+[55:06] quindi posto che come dicevo prima
+[55:08] il GDPR
+[55:10] si applica a tutti coloro
+[55:12] che hanno come mercato
+[55:14] come target di profilazione
+[55:16] i cittadini dell'Unione Europea
+[55:18] in teoria questi principi dovrebbero applicarsi
+[55:20] a tutti
+[55:22] in pratica andremo a vedere
+[55:24] se a spria distanzioni
+[55:26] moral su Asian di qualche o forse di più
+[55:28] ritrovata consapevolezza degli utenti
+[55:30] cambierà qualcosa o meno
+[55:32] quindi in pratica a questo punto
+[55:36] se non è completamente
+[55:38] coperto
+[55:40] però è
+[55:42] diciamo che probabilmente l'elefante
+[55:44] di cui mi preoccupo io è coperto
+[55:46] è almeno all'80%
+[55:48] il 20% rimanente
+[55:50] rimane da doversi leggere magari dei papiri
+[55:52] di 80 pagine per capire cosa fanno con i dati
+[55:54] corretto
+[55:56] non dovrebbero esistere più i papiri
+[55:58] di 80 pagine
+[56:00] perché l'informativa deve essere
+[56:02] chiara e concisa
+[56:04] cioè
+[56:06] con buona pace di noi avucati dovrebbero
+[56:08] impituarci a scrivere
+[56:10] in maniera comprensibile
+[56:12] a gallimane
+[56:14] grazie molti
+[56:16] magari al di là di quello che si può
+[56:18] fare tornando al punto di vista
+[56:20] dell'utente finale quando
+[56:22] uno
+[56:24] surisce di un servizio gratuito
+[56:26] erogato da un'azienda che
+[56:28] li lo fornisce
+[56:30] appunto gratuitamente ma vale
+[56:32] 70 miliardi di dollari in borsa
+[56:34] o 450
+[56:36] l'utente
+[56:38] potrebbe chiedersi per quale motivo
+[56:40] questo avviene
+[56:42] quanti e quali
+[56:44] così a spanne
+[56:46] suoi dati personali possono venire
+[56:48] comunque
+[56:50] registrati
+[56:52] ceduti a terzi
+[56:54] grazie a quella sintetica
+[56:56] o di 40 pagine informativa
+[56:58] che lui accetta
+[57:00] praticamente creando l'account
+[57:02] perché questo è stato così fino a
+[57:04] adesso in tutte le registrazioni
+[57:06] nazionali che ci sono
+[57:08] e io faccio
+[57:10] le profezia che continuerà a essere così
+[57:12] indipendentemente
+[57:14] dalle nuove
+[57:16] registrazioni che vengono provate in ambito
+[57:18] comunitario spero di sbagliarmi
+[57:20] ma non nessuno ha fatto convinto
+[57:24] ci sono altre domande?
+[57:30] Bene, io vi ringrazio di aver
+[57:32] partecipato e vi saluto

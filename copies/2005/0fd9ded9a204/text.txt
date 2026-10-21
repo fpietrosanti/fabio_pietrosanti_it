@@ -1,0 +1,286 @@
+www.sikurezza.org - Italian Security Mailing List | Risorse / Smau05 
+
+ Main 
+
+ Home 
+
+ Faq 
+
+ Liste 
+
+ Risorse 
+
+ Cerca 
+
+ Risorse : Smau05 
+
+ ATTENZIONE:
+
+ stiamo ancora raccogliendo parte del materiale e potrebbero esservi errori ed omissioni, in particolare mancano:
+
+ elenco e risorse area "handson" e "poster"
+
+ slide e risorse di alcuni interventi elencati
+
+ link a siti dei relatori e simile
+
+ nomi di correlatori, sostituzioni, etc.
+
+ Il formato di webb.it � stato acquisito da Smau ed i seminari sono stati tenuti nello spazio eAcademy , dove erano ospitati anche lo stand di sikurezza.org ed uno spazio attrezzato per workshop e dimostrazioni.
+
+ Sikurezza.org ha curato la selezione dei seminari e l'organizzazione logistica dell'area sicurezza di eAcademy a Smau 2005, con il supporto di Progetto Winston Smith e di moltissime altre persone.
+
+ Frodi online: spam, virus, spyware e phishing
+
+ Access control as proactive hardening way (A linux case study) - Paolo Perego
+
+ In un sistema, soprattutto se multiutente, il controllo degli accessi alle risorse riveste un ruolo fondamentale soprattutto a difesa dell'utente contro spyware, virus e malware in genere. Controllo degli accessi significa anche in un ambito pi� business oriented operare una separation of duty tra system adminstrator e security administrator superando il paradigma che vuole root (o administrator in un server Windows based) assoluto padrone di qualsiasi aspetto computazionale. Operare una serie di limitazioni sull'accesso alle risorse della macchina (locali o connessioni remote) basandosi su regole ben definite, consente all'amministratore di sicurezza di operare politiche di hardening serie ed efficaci sulla macchina. Quello che andremo a vedere � una piccola panoramica su cosa significhi operare una separation of duty, cosa significhi fare controllo degli accessi e come questo sia possibile ad esempio su un server linux. 
+
+ » webbit2005_perego.pdf 
+
+ Gestione delle frodi: Prevenzione, Rivelazione e Investigazione - Lorenzo Mazzei
+
+ [Il relatore � stato sostituto nella presentazione da Ivette Agostini]
+
+ Le frodi, loro dimensione e tipologie, impatto del phishing. L'importanza del fraud management. Le tecniche antifrode. Il mercato delle soluzioni antifrode. Aspetti progettuali e attivit�.
+
+ » Fraud_v2.2.pdf 
+
+ Politiche di gestione delle comunicazioni elettroniche e loro implementazione - Yvette Agostini
+
+ Alla base della difesa dallo spam, dal phishing e dai virus stanno delle chiare politiche che definiscono le corrette modalit� di utilizzo della posta elettronica e, pi� in generale delle comunicazioni elettroniche. Vengono presentati gli aspetti principali che devono essere considerati, le linee guida per l'implementazione delle politiche e le metodologie di verifica
+
+ » gstn_cmnczn.pdf , gstn_cmnczn.ppt 
+
+ Web of Malware - Fabrizio Cassoni, Luigi Mori
+
+ Dopo l'ondata dei mail worm, il Web sta diventando un mezzo preferenziale per la diffusione di malware. Mediante la presentazione di un dettagliato case study su un'infezione innescata da un malicious banner, vengono analizzate le problematiche poste dalle nuove metodologie di attacco e le nuove strategie dei virus writer
+
+ » Web_of_Malware.pdf 
+
+ Gestione della sicurezza
+
+ Business Continuity e Disaster Recovery - Ivette Agostini ('vodka'), Stefano Zanero ( raistlin )
+
+ Viene presentata una panoramica delle questioni riguardanti la gestione della continuita' del servizio e del recupero delle funzionalita' in caso di evento disastroso.
+
+ » DR_SMAU05.pdf 
+
+ Il progetto Privacy-Box - Gianni Bianchini 
+
+ "Vogliamo scatole, non programmi". In questo seminario sar� presentata l'iniziativa Privacy-Box del Progetto Winston Smith, tesa alla realizzazione di appliance per la privacy basate sull'hardware a basso costo della console ludica Microsoft X-Box e sul sistema GNU/Linux. Sar� illustrato come un simile dispositivo collegato in rete possa comodamente fornire servizi quali un firewall e un piccolo server web o di posta e nel frattempo lavorare per il bene di tutti facendo girare un anonymous remailer, un proxy Tor/Privoxy od altri servizi per la privacy in rete.
+
+ » http://www.winstonsmith.info/pbox 
+
+ » Poster: privacy_box.pdf 
+
+ Security Governance: utilizzo del framework BS7799 -2 nelle PMI - Roberto De Sortis
+
+ il lavoro si pone lo scopo di definire come il framework proposto dalla norma BS 7799:2 possa essere utilizzato dalla PMI per implementare un sistema di Security Governance che sia conforme sia alle norme cogenti (d.lgs 196/2003 �Codice sulla Privacy�, tutta la normativa inerente i �Computer Crime� ecc. ) che alle sfide / opportunit� che le PMI devono affrontare nel prossimo futuro es: gare d�appalto, Basilea2.
+
+ Sistemi a basso costo per gestire la sicurezza in ambienti SOHO - Enrico Branca
+
+ Proposte tecniche e metodiche di implementazione che permettano sistemi opensource di interagire con sistemi legati a vendor specifici considerando come fattore determinante il basso costo e l'elevato ROI. Verranno forniti esemi pratici di soluzioni gia implementate. 
+
+ Una frontiera da raggiungere: l'integrazione dei sistemi ISO9001 :2000 - Privacy - BS7799 -2:2002 - Paola Generali
+
+ Questo seminario ha come obiettivo quello di domostrare come � possibile integrare e mantenere nel tempo la certificazione ISO9001 :2000,gli adempimenti previsti dal D.Lgs. n.196/03 e la certificazione BS7799 -2:2002. In particolare si vuole dimostrare che integrando questi sistemi si ottengono i seguenti vantaggi: 1) Notevole riduzione dei costi nell'implementazione ed il mantenimento dei tre sistemi 2) Integrazione della sicurezza all'interno dell'intera azienda 3) Eliminazione di ridondanze e di duplicazioni 4) Razionalizzazione dei processi aziendali 5) Presidio dei processi 6) Omogeneit� delle modalit� operative, procedurali e di verifica sulle attivit pianificate 7) Miglior chiarezza ed efficienza organizzativa 8) Miglioramento dell'immagine verso l'esterno 9) Fidelizzazione del cliente e maggiori possibilit� di trovarne di nuovi. Durante il seminario in particolare verranno spiegati proprio i punti di integrazione tra questi tre sistemi in modo tale da far comprendere comcretamente la possibile realizzazione. 
+
+ Gestione incidenti informatici
+
+ A Common Sense Approach to Event Correlation - Tina Bird
+
+ Recent changes in regulatory requirements in the EU and elsewhere underscore what system administrators and network managers have known for a long time: the importance of enterprise log collection and analysis. The task is daunting, covering as it does operating system and application configuration, network provisioning, database selection and software management. Only after the data is centralized does the real work begin - identifying what's significant, notifying the appropriate personnel and then responding to the event. The generic problem of finding associations between log entries across a network is challenging, lending itself to a multitude of abstract analysis techniques and vendor snake oil. Yet centralized log repositories do provide useful information about security events, and system administrators do collect useful snapshots of network activity from their logs. How does it happen? In this talk, Dr. Bird presents the security administrator's perspective on log analysis and event correlation. After summarizing log analysis architectures, we'll look at logs from a couple of specific security-relevant activities, and then generalize from those events to a strategy for log correlation. 
+
+ Computer Forensics: I migliori casi in tre anni di attivit� - Andrea Ghirardini
+
+ Verranno esposti i migliori casi esaminati in tre anni di attivit�. Sono esperienze particolari, sia dal punto di vista dell'implicazione del computer forensiscs nel reato specifico sia dal punto di vista tecnico.
+
+ Computer Forensics: Le sfide delle nuove tecnologie - Andrea Ghirardini
+
+ Verranno esposte le problematiche relative al progredire dell'hardware e della tecnologia. Le nuove sfide all'analisi forense.
+
+ Introduzione al recupero dati in ambienti Windows - Enrico Branca
+
+ Introduzione tecnica alle problematiche legate al recupero dei dati persi nei sistemi Windows utilizzando sia strumenti opensource che vendor related fornendo linee guida di utilizzo si soluzioni e procedure. 
+
+ Introduzione alla analisi forense dei sistemi Windows - Enrico Branca
+
+ Introduzione tecnica alle problematiche legate alle procedure di analisi forense in sistemi Windows con particolare attenzione al recupero dati ed alla gestione degli incidenti legati alla sicurezza del sistema. Verranno indicati strumenti e procedure per ricostruire la linea temporale degli eventi accaduti nel sistema analizzato.
+
+ Sovversione del sistema � Alla ricerca di anomalie in un sistema compromesso - Matteo Falsetti
+
+ Saranno mostrate alcune note tecniche di attacco e �colonizzazione� di un sistema, esaminando nello specifico le anomalie che ne possano facilitare l'individuazione in tempo reale o a posteriori.
+
+ Sicurezza delle applicazioni
+
+ How to find 0-day exploits in the Oracle universe - Alexander Kornbrust 
+
+ The talk will describe how to find 0-days exploits in the Oracle universe and discuss the different full disclosure approaches of security researches and vendors.
+
+ » Kornbrust_smau.ppt 
+
+ Individuazione automatica di vulnerabilit� nelle applicazioni Web - Stefano Zanero ( raistlin )
+
+ Come � ben noto, al giorno d'oggi le applicazioni web costituiscono uno dei principali problemi di sicurezza. Gli approcci di code auditing si sono rivelati singolarmente inefficaci nell'identificare tutti i possibili percorsi d'attacco in tali applicativi. Il Politecnico di Milano sta sviluppando un innovativo scanner automatico per applicazioni web. Il tool, costruito per essere adattabile a qualsiasi linguaggio, esegue un'analisi del codice sorgente, applicando svariate procedure con radici nella teoria dei linguaggi formali. Il nostro lavoro sfrutta le caratteristiche comuni di svariate tipologie di vulnerabilita', per consentire di identificarle in modo semiautomatico in un'operazione di revisione assistita del codice sorgente.
+
+ » WebVuln-SMAU05.pdf 
+
+ Progetto OWASP: case-study di applicativi web vulnerabili - Matteo Meucci
+
+ Presentiamo l'iniziativa OWASP, i progetti in essere e come sia possibile realizzare un Web Application Vulnerabilty Assessment utilizzando OWASP WebGoat come esempio di applicato bucato e OWASP WebScarab come strumento di manipolazione delle HTTP request. OWASP � un progetto open source che tratta le tematiche di Web Application Security.
+
+ » SMAU05_Meucci_OWASP.pdf 
+
+ Security AND Tuning for Apache PHP MySQL - Lorenzo Barone
+
+ Apache da come evitare comuni errori di configurazione sui vhost alla presentazione tramite esempi di mod_security e mod_dosevasive x admin e personalizzazione per user con .htaccess. PHP come evitare disastri partendo dalla configurazione di php.ini ad esempi di programmazione insicura con esempi di come evitarla. MySQL gestire la sicurezza dei dati � una cosa fondamentale introduzione su come evitare errori con esempi di configurazioni. Infine una breve introduzione sul tunining di apache php e mysql.
+
+ Web Security Through Examples - Giorgio Fedon, Stefano Di Paola
+
+ Fin dalla nascita della rete i siti sono stati colpiti da attacchi informatici. Da diversi anni, per� il fenomeno si � diffuso e le tecniche sono cambiate per il maggiore e migliore utilizzo dei firewall e delle ids. Per questo motivo vengono sempre di pi� utilizzate vulnerabilit� presenti nel codice delle pagine Web Dinamiche e per realizzare un Defacement ad esempio, anche una buona dose di ingegneria sociale. L'intervento coprira vulnerabilit� quali XSS (Cross site scripting), SQL Injection, Code Injection, Remote Command Execution e Remote File inclusion, attraverso recenti esempi e vulnerabilit� scoperte dal relatore. 
+
+ » SMAU2005_Web_Security_Through_Examples.pdf 
+
+ Sicurezza delle reti
+
+ Bluetooth Security - L�(in)sicurezza si tinge di blu - Luca Carettoni
+
+ La diffusione di dispositivi mobili dotati di interfacce bluetooth ha portato alla luce una serie di problematiche legate alla sicurezza della tecnologia stessa. Sebbene il protocollo sia fondamentalmente sicuro, l'errata implementazione dello stack sviluppato da parte dei costruttori costituisce il terreno ideale per una serie di attacchi a tali dispositivi. Durante la presentazione si vuole fornire una technology overview sullo standard, alcuni dettagli tecnici legati allo stack ed ai security layers, un brevissimo accenno a Linux come piattaforma ideale per il war- nibbling; si prosegue poi fornendo una panoramica generale sulle tipologie di attacco (Bluejacking , Discovery Mode abuse, BluePrinting , BlueSnarf , Helomoto, Bluebug e BlueSmack ).
+
+ » blueSec.pdf 
+
+ Crittografia Quantistica - Andrea Pasquinucci 
+
+ La Quantum Key Distribution (QKD) anche nota impropriamente come Crittografia Quantistica, � una applicazione della fisica delle particelle elementari alla sicurezza informatica. Scopo di QKD � di distribuire in modo sicuro chiavi segrete usando particelle elementari. In questo seminario si vuole presentare questa nuova tecnologia, illustrarne lo stato attuale di implementazione e le varie direzioni di sviluppo sia a livello di ricerca che di mercato. Infine si considereranno possibili scenari futuri ed applicazioni della fisica delle particelle elementari all'informatica, a partire dagli elaboratori quantistici.
+
+ » http://www.ucci.it/it/qc/whitepapers/index.html 
+
+ » http://www.clusit.it/download/Q01_web.pdf 
+
+ IPv6 nella PA: il Piemonte come laboratorio sulle tecnologie avanzate - Filippo Capuzzo
+
+ L'intervento intende offrire una panoramica delle attivit� intorno ad IPv6 nel settore della Pubblica Amministrazione, con particolare attenzione alla realt� piemontese. Nel corso degli ultimi anni, il Piemonte ha ospitato numerose iniziative di innovazione tecnologica basate su IPv6 , a fronte delle quali si sono ottenuti risultati (in termini di creazione di competenze e di rapporti fra diversi soggetti afferenti al mondo della PA) del tutto positivi ed incoraggianti. Scopo dell'intervento � offrire una panoramica sul complesso delle attivit� (in corso e future) inerenti la progressiva adozione di Ipv6 nella PA regionale e nazionale.
+
+ » Webb-it_20_ottobre_2005_v1.2_capuzzo.pdf 
+
+ » Webb-it_20_ottobre_2005_v1.2_capuzzo.ppt.zip 
+
+ Linux VPN Infrastructure - Alessandro Franceschi
+
+ L'intervento � rivolto a System e Network Administrator che devono implementare scenari di VPN di diversa complessit�. Si richiedono come prerequisito buona conoscenza di networking e Linux, in modo da poter affrontare direttamente le problematiche reali di design e configurazione di una infrastruttura VPN. - Rassegna delle principali soluzioni Linux per VPN: IpSec , PPTP, SSH, protocolli legacy - Analisi e discussione di diversi scenari di rete con definizione delle logiche di sicurezza di fondo da adottare - Definizione delle logiche di configurazione di Iptables per il firewalling: porte coinvolte, settaggi minimi e consigiliato - Approfondimento sulla implementazione di VPN IPSec tramite (Free)Swan, con riferimenti alla interoperabilit� con soluzioni di altri vendor e alla gestione del firewalling. 
+
+ » Linux_VPN_Infrastucture.pdf 
+
+ Security for Mobile Applications: MIDP 2.0 by example - Michele Franzin
+
+ Il seminario mira a fornire alcune nozioni necessarie a sviluppare un'applicazione di accesso sicuro ai dati da un terminale mobile. Vengono illustrati concetti basilari di crittografia e di networking degli apparati mobile ed esposte le nuove caratteristiche di sicurezza del MIDP 2.0 attraverso esempi.
+
+ Voice over ip e sicurezza - Marco Misitano
+
+ La Voce su IP ( VoIP ) � una tecnologia che guadagna sempre piu popolarit� grazie anche all'immediato ritorno dell'investimento. Questo intervento, partendo dalle basi di funzionamento della tecnologia, considerer� gli aspetti di sicurezza della VoIP e fornir� anche linee guida e risorse per la implementazione sicura di una soluzione VoIP di classe Enterprise. Pre Requisiti: Background di network security e conoscenza di base delle reti IP e VoIP . Malgrado l'introduzione alla tecnologia, questa sessione non � da considerarsi come una introduzione alla VoIP 
+
+ » smau05_misi.pdf 
+
+ What is Policy Enforcement and Why Do We Care? - Tina Bird
+
+ Most network architectures and operating systems still rely solely on relatively simple identity-based mechanisms to grant access. These tools allow access control decisions to be based on an endpoint's identification as a trusted participant in the organization, no matter where the endpoint is located, using a variety of technologies including switches, dial-up remote access servers, VPNs and wireless. But we've learned the hard way that identity-based access control can't prevent the propagation of virulent desktop attacks, like Blaster and its relations. Policy enforcement technologies extend the familiar notion of granular access control beyond user and network identity, into the endpoint computer's configuration and network environment. In this talk, Dr. Bird will discuss the importance of endpoint configuration management and network access control in production environments. She'll present strategies for defining effective, manageable endpoint requirements; mechanisms for managing access control restrictions throughout a heterogeneous network environment, leveraging legacy management interfaces as well as new tools such as 802.1x; and strategies for bringing non-compliant machines into compliance. 
+
+ Tutela della Privacy e gestione della riservatezza
+
+ Condivisione anonima di informazioni: remailer anonimi, server di pseudonimi, Freenet, Darknet - Marco Calamari 
+
+ In questo seminario saranno presentati i sistemi di comunicazione ad alta latenza che permettono di mantenere la privacy e/o l'anonimato di chi pubblica, detiene e consulta informazioni. I sistemi di mailing anonimo ed i sistemi di peer-to-peer anonimo verranno illustrati nelle linee generali di funzionamento; saranno inoltre brevemente discussi stato di sviluppo e prestazioni delle implementazioni esistenti.
+
+ » e-Academy_2005_Condivisione_anonima_delle_informazioni.pdf 
+
+ Deployed Anonymity Networks: Learning from history - Nick Mathewson 
+
+ The evolution of anonymity networks, from the first remailers to the Tor network, has followed many paths through academia, industry, and the broader online privacy movement. This talk will present the current state of the art in anonymity technology while tracing threads of inspiration through past and current designs. Special attention will be paid to the systems developed by the presenter (Tor and Mixminion) and their antecedents. 
+
+ » AnonHistory.pdf , AnonHistory.sxi 
+
+ » http://www.freehaven.net 
+
+ » http://www.mixminion.net 
+
+ » http://tor.eff.org 
+
+ » Poster: tor.pdf 
+
+ Il vantaggio competitivo della vostra azienda � una risorsa pubblica ? L'outsourcing dei sistemi informativi analizzato dal punto di vista della privacy delle informazioni - Marco Calamari 
+
+ L'outsourcing di servizi informativi come strumento per ridurre i costi e concentrarsi sul core business � sempre pi� diffuso. Le implicazioni sulla sicurezza e la riservatezza delle informazioni aziendali sono per� spesso trascurate, fino al punto di far gestire in outsourcing la sicurezza informatica aziendale. Niente di tutto cio' � errato di per se, ma trascurare l'esistenza e l'opportunita dell'outsourcing nell'analisi di sicurezza aziendale certamente lo �. Verranno analizzati alcuni casi comuni di outsourcing dal punto di vista della riservatezza delle informazioni aziendali.
+
+ » e-Academy_2005_Outsourcing_dei_sistemi_informativi.pdf 
+
+ Intellectual Property in the European Union - Ian Clarke 
+
+ There is a silent revolution occurring in the European Union. Corporate lobbyists and their allies, largely unchecked by public scrutiny, have succeeded in pushing through legislation that will expand intellectual property laws in ways that are likely to hurt both creativity, and the public interest. The rejection of the recent Software Patents Directive is the first rebuff to these powerful interests. Is this the beginning of a reassertion of public control over the legislative actions of the European Union in this area, or just a temporary setback for the corporate lobbyists? 
+
+ Oggi � il domani di cui dovevamo preoccuparci ieri: una proposta di legge per la regolamentazione di uso, conservazione e cancellazione di dati geo- e crono-referenziati raccolti con mezzi automatici e contenenti identificativi utente univoci. - Marco Calamari 
+
+ Verr� illustrato uno studio condotto dal Progetto Winston Smith in collaborazione con il prof. Douwe Korff (Human Rights & Social Justice Institute, Metropolitan University, Londra), Gianni Bianchini (Ingegneria dell'Informazione - Universita' di Siena) e Andrea Glorioso (Firenze Tecnologia) volto alla formulazione di una proposta di legge italiana per la regolamentazione della raccolta automatica, la conservazione e la cancellazione di dati personali ottenuti con tecnologie quali RFID e Pattern Recognition contenenti identificativi utente univoci (UUID). Lo studio � stato presentato alla BILETA Annual Conference, Belfast, UK, 2005.
+
+ » http://www.law.qub.ac.uk/bileta2005 
+
+ » Poster: data_retention.pdf 
+
+ P2P , DRM e diritto d'autore: un possibile scenario evolutivo - Marco Calamari 
+
+ La Rete, nata dalla ricerca universitaria, � ora nella sua fase pi� spinta di sfruttamento commerciale, e questo ne mette in discussione due caratteristiche; condivisione e gratuit�. Il P2P � oggi l'espressione pi� incisiva di queste due caratteristiche, ed il diritto d'autore, che si materializza nei sistemi DRM, ne � l'antitesi. L'intervento ipotizzer� un possibile scenario evolutivo derivante da questo contrasto.
+
+ » e-Academy_2005_P2P_e_DRM.pdf 
+
+ » Audio: http://www.webb.it/static/mp3/4504 
+
+ pgp luci e ombre: storia e evoluzione dello strumento per la privacy pi� usato al mondo - Fabio Pietrosanti
+
+ PGP � lo strumento di tutela della privacy pi� utilizzato al mondo divenuto standard de-facto nonostante i molti ostacoli da parte dei governi e dei passaggi di capitale della societ� produttrice di PGP. Finalmente standard IETF sotto il nome OpenPGP vede molteplici implementazioni aperte e non continuando a rappresentare la pi� diffusa tecnologia di tutela della confidenzialit� delle comunicazioni email. L'intervento fornir� una panoramica chiara della storia e dell'evoluzione di PGP riassumendo tutte le sue implementazioni presenti e future.
+
+ » PGP_luci_e_ombre.ppt 
+
+ Principali adempimenti, responsabilit� e sanzioni nel Codice della Privacy: stato dell'arte. - Massimo Farina
+
+ Privacy for security: what anonymity networks can do for organizations - Nick Mathewson 
+
+ Many technologies promoted for individual privacy are equally useful for improving organizations' security, by protecting them against competitive intelligence, limiting exposure for liability for stolen data, and so on. This talk will present a brief introduction to anonymity networks; discuss their history in business, governmental, and nongovernmental organizations; and explore ways that anonymity technology can enhance consumer privacy and business security and at the same time. 
+
+ » AnonBiz.pdf , AnonBiz.sxi 
+
+ » http://www.freehaven.net 
+
+ » http://www.mixminion.net 
+
+ » http://tor.eff.org 
+
+ Sicurezza, riservatezza e privacy - Prospettive non convenzionali alla sicurezza delle informazioni - Federico Moro
+
+ I termini sicurezza, riservatezza e privacy non sono tra loro sinonimi e il loro utilizzo spesso � abusato. Questo genera nella pubblica opinione, e nell'ambito business, confusione ed incertezza, con il risultato di rendere ancor pi� difficile il compito di chi fa opera di divulgazione in questo settore. Spesso anche il concetto stesso di sicurezza informatica non indirizza efficacemente il target, sia esso la rete o l'informazione che ivi transita. In determinati settori di mercato, caratterizzati da un elevato livello di competitivit� (legale, finanziario, telecomunicazioni, pubblica amministrazione, internet), esiste la concreta necessit� di gestire la riservatezza in modo indipendente dalla sicurezza; pertanto una chiara compresione di questi termini � fondamentale. In questo seminario verranno presentati in modo chiaro e semplice i concetti di privacy, riservatezza e sicurezza, visti con l'occhio di un utente non tecnico che opera in settori fortemente competitivi. Verranno illustrati i rischi cui le attivit� di comunicazione elettronica sono esposte e i principali strumenti per ridurli: esistono infatti tecnologie innovative che consentono di gestire al meglio la riservatezza delle comunicazioni e il modo in cui i dati scambiati vengono conservati. Una migliore comprensione di queste tecnologie puo' decisamente migliorare il livello di qualit� del lavoro ed levare l'alone di falsa complessit� e diffuso dubbio che circonda queste tematiche. La presentazione � rivolta ad un pubblico business oriented e non tecnico, sebbene verranno anche affrontati alcuni dettagli tecnici relativi alle tecnologie.
+
+ Tecnologie emergenti per la privacy e l'anonimato in rete: Tor, Privoxy, Darknet - Gianni Bianchini , Alessandro Lori 
+
+ In questo seminario saranno presentate alcune tecnologie di recente sviluppo per la tutela della riservatezza nella navigazione in rete, la pubblicazione anonima di documenti ed il file sharing anonimo. Particolare enfasi sar� posta sui sistemi di comunicazione anonima a bassa latenza di impiego indipendente dall'applicazione e basati su tecniche di onion routing. Saranno infine brevemente discusse alcune questioni di sicurezza legate all'uso di queste tecnologie.
+
+ » e-Academy_2005_Tecnologie_anonime.pdf 
+
+ The Freenet Project - Ian Clarke 
+
+ A discussion of the history of the Freenet Project, an open source peer-to-peer system intended to ensure freedom to communicate on the Internet. The discussion will also cover recent advances in Freenet's development including the migration to a "darknet" approach to further increase the system's ability to protect anonymity and prevent censorship.
+
+ » e-academy-milan.pdf 
+
+ area non definita
+
+ Formazione, aggiornamento e certificazioni in Sicurezza Informatica, CLUSIT (Andrea Pasquinucci)
+ http://www.clusit.it/pres/smau05_pasquinucci.pdf 
+
+ ultima modifica: February 17, 2006, at 04:07 PM di 
+
+ Stiamo mettendo online il materiale dei seminari tenuti ad Infosecurity 2006 ed a Smau eAcademy 2005 .
+
+ Ringraziamenti: 
+Dal 26 Agosto '05 questo server � ospitato gratuitamente dal Cineca , che fornisce anche la connettivit�.
+In precedenza hardware e connettivit� sono stati forniti gratuitamente da Creative Web (dal Marzo '04) e Infosec (dal Novembre '99).
+
+ Salvo dove diversamente specificato, i contenuti di questo sito sono protetti da licenza Attribuzione-NonCommerciale-StessaLicenza 2.0

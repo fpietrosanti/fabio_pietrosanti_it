@@ -1,0 +1,510 @@
+﻿Digitalizzazione processi 
+gestione emergenziale coronavirus
+assistiti da dati di geo-location mobile
+
+
+Summary        2
+Contact Tracing        3
+Assistenza digitale nell’intervista di contact tracing al contagiato        4
+Comunicazioni geo-targeted per individuazione soggetti a rischio        5
+Notifiche informative su allontanamento da dimora        7
+Processo di autocertificazione automatica con notifica allo spostamento da dimora        7
+Modalità implementative        9
+Modalità organizzative per la sua realizzazione        10
+Autori        11
+Pareri regolatori e normativi        11
+Da Stefano Aterno        11
+Da Carlo Piana        12
+Da Bruno Saetta        13
+Da Pierluigi Perri        15
+Da Massimo Simbula        16
+Da Nicole Monte        16
+Da Giovanni Battista Gallus        20
+Da Andrea Lisi        20
+Da Enrico Pelino        21
+Commenti        22
+Da Gerardo Costabile        22
+Da Yvette Agostini        23
+Da Marco Dirani        23
+Sezioni eliminate        23
+________________
+Summary
+Questo documento definisce le opportunità di efficientamento digitale degli attuali processi legati alla emergenza coronavirus, attraverso l’elaborazione di dati di geo-localizzazione di rete mobile, nonché di comunicazione testuale (SMS) e vocale automatizzata, con finalità preventive e non repressive.
+
+
+Seguendo un design architetturale che fornisca la massima garanzia di tutela di trattamento dei dati, si realizzano le seguenti primarie funzionalità di ausilio:
+* Contact Tracing
+   * Assistenza per l’intervista di Contact Tracing da parte del personale sanitario con informazioni di geolocalizzazione
+   * Comunicazioni mirate a cluster di utenze geo-localizzate, da intervista contact tracing
+* Notifiche informative su allontanamento da dimora
+   * Informativa automatica all’allontanamento della dimora e autocertificazione 
+
+
+Nelle modalità realizzative della digitalizzazioni dei processi emergenziali qui identificati, nessuna autorità pubblica, entra in possesso di dati identificativi e/o di posizionamento individuale, fornendo tuttavia un significativo efficientamento procedurale.
+
+
+Tale obiettivo viene conseguito mediante una architettura di funzionalità software, realizzata mediante applicazioni telefoniche, che si realizzano all’interno dei servizi di business intelligence e geo-location già erogati da parte degli operatori telefonici, ad esempio i Servizi Vodafone Analytics e TIM Big Data.
+
+
+L’efficientamento digitale di processi di gestione emergenziale non sostituisce le implementazioni procedurali attuali, ma è a queste complementare.
+
+
+Le soluzioni basate su App per cellulari, non riescono a coprire l’intera popolazione in modo omogeneo, hanno limitazioni strutturali di deployment. Sono adatte per la gestione dei Quarantenati, cittadini identificati, nel proprio rapporto con il servizio sanitario.
+
+
+Dice Vittorio Colao, ex Ceo di Vodafone: «[...] In Europa dobbiamo usare anche la tecnologia delle reti mobili per limitare al massimo i rischi delle persone e assicurare il rispetto delle misure di protezione».
+
+
+In questo documento NON sono identificate funzionalità tramite App, abbiano esse informazioni di localizzazione di prossimità Bluetooth o WiFi o GPS.
+In questo documento NON si propongono soluzioni con obiettivi sanzionatori.
+In questo documento NON sono identificate funzionalità di strumenti di analisi di geo-location a supporto decisionale, come quelli già intrapresi in Lombardia e su scala nazionale.
+Contact Tracing
+Il Contact Tracing è l’attività di gestione emergenziale epidemiologica, espletata dal personale sanitario o istituzionale intervistando un soggetto contagiato per conoscere con chi questi è stato in contatto in condizioni di rischio (distanza, lunga permanenza, luoghi chiusi, etc) e quali siano i riferimenti di contatto telefonico.
+
+
+Le procedure di Contact Tracing in Europa sono definite dal European Centre for Disease Prevention and Control.
+
+
+Per meglio comprendere il funzionamento e la dinamica di lavoro della procedura di Contact Tracing è utile osservare le tipologie di task, profili di staff e allocazione dei tempi definite nelle linee guida sull resource estimation dell’ECDC:
+*   
+
+
+
+Per un approfondimento divulgativo sul Contact Tracing in Italia. 
+Tale attività ha visto l’ausilio di sistemi di geolocalizzazione cellulare, seppur per scopi e con modalità eterogenee fra loro, per quanto agevolmente appreso da fonti aperte in Corea del Sud (Verifica delle dichiarazioni del paziente), Singapore, Israele, Irlanda (valutazione) e Australia (Rintraccio di contagiati irrintracciabili).
+
+
+Si considera di coadiuvare ed efficientare le attività di Contact Tracing, proprio partendo dalle attività praticate dal personale sanitario con i soggetti contagiati, come segue.
+Assistenza digitale nell’intervista di contact tracing al contagiato
+Attualmente le modalità di Contact Tracing pratica dal personale sanitario sono espletate mediante una intervista al soggetto contattato, raccogliendo su base dichiarativa nominativi e riferimenti telefonici dei soggetti epidemiologicamente definiti ad alto rischio di contagio.
+
+
+Si propone di offrire al personale sanitario una piattaforma digitale che consenta, previo consenso informato del paziente oggetto di intervista di Contact Tracing, di visionare assieme tutti gli spostamenti effettuati nell’ultimo periodo, annotando per ciascuna giornata gli stessi e quali possano essere i nominativi e riferimenti telefonici dei soggetti ad alto rischio di contagio.
+
+
+La piattaforma deve fungere a supporto delle operatività gestionali di intervista di Contact Tracing, fornendo una visione su una timeline e su mappa degli spostamenti del paziente intervistato, così da consentire una ricostruzione congiunta più meticolosa, identificando il massimo numero di contatti.
+
+
+La richiesta di disponibilità di accesso ai dati, potrebbe laddove si ritenesse opportuno, essere resa non disponibile in tempo reale, ma soggetta ad autorizzazione (ove possibile, con CNS operatore e paziente) da parte di altri soggetti organizzativi o istituzionali preposti a prevenire e rilevare eventuali usi scollegati dalla attività sanitaria, che comunque dovranno fornire tempestivamente il loro riscontro.
+
+
+La piattaforma può ulteriormente suggerire visivamente la presenza di “Close Contacts” (definiti secondo parametri di tempo e distanza oggettivi) di cui questi non ha immediata memoria.
+
+
+Non vengono mai acquisiti dalla piattaforma dati identificativi alcuni, relativi ai contatti, che vengono forniti come di consueto dal paziente contagiato.
+
+
+Lo strumento di assistenza alla intervista di contact-tracing sulla base dei dati di geo-localizzazione del paziente, può consentire l’identificazione di attività a rischio del paziente, per le quali questi non dispone dei nominativi e riferimenti telefonici (es: un viaggio in treno).
+________________
+Comunicazioni geo-targeted per individuazione soggetti a rischio
+Velocizzati e resi più accurati i processi di Contact-Tracing secondo quanto definito nel precedente paragrafo, ci rivolgiamo alla esigenza di arrivare a contattare tutti i soggetti definiti epidemiologicamente “a rischio” dei quali l’intervistato contagiato abbia contezza, ma non disponga dei nominativi e/o riferimenti telefonici.
+
+
+A titolo di esempio un lungo viaggio in treno o in metropolitana, potrebbe epidemiologicamente rappresentare un rischio alto di contagio ed essere emerso dall'intervista di Contact Tracing.
+Tuttavia non sarebbe possibile né per il contagiato né per il personale sanitario riuscire a contattare i soggetti a rischio che con questi hanno viaggiato.
+
+
+Per affrontare tale situazione, lo strumento di assistenza alla intervista di contact-tracing, deve consentire l’identificazione di questo caso, mappando coadiuvati dal contagiato, i tempi e i luoghi del viaggio/luogo a rischio, evidenziando eventualmente la indicativa numerosità dei soggetti nei suoi pressi (seppur senza fornire alcun dato identificativo).
+
+
+Tale procedura deve portare all’invio di comunicazioni a tutti i soggetti a rischio, risultanze dell’analisi di dati di geo-location, richiedendo a questi di eseguire le procedure previste dalla gestione emergenziale (fare un test, quarantenarsi, prendere contatto con medico, etc).
+
+
+Tale comunicazione conterrà elementi di specificazione comunicativa provenienti dall’intervista di Contact Tracing, ad esempio la presenza in un Mercato, o in un Treno.
+
+
+Il messaggio inviato sarà qualcosa del tipo:”
+Messaggio 1: Protezione civile: Comunicazione inerente COVID-19
+Messaggio 2: E’ risultato che in data XX si è trovato intorno alle ore XX in una zona a rischio di contagio COVID-19. Se è stato presso il Mercato di Quartiere Topolinia (O sul Treno XX), contatti la protezione civile al numero XXXXX, eventualmente pre-registrandosi sul portale XXXX-della-emergenza.
+
+
+I destinatari di tale comunicazione, avendo informazioni georiferite nel tempo e nello spazio provenienti dalla intervista di contact tracing, possono anche essere in grande numero (es: le 30.000 persone associate alle celle che coprono quell’area), portando in ogni caso a seguire la metodica di contact-tracing già esistente di “comunicazione pubblica dei luoghi di possibile infezione”.
+
+
+Già oggi sono diramati Contact Tracing Alert alla popolazione, con l’identificazione di zone di frequentazione ad alto rischio come parte delle procedure di gestione emergenziale presenti in ogni paese, e questo Contact Tracing Alerting viene eseguita a mezzo web (Esempio di sito governativo australiano) eseguite a mezzo web nonché radiotelevisivo:
+  
+
+
+
+In tal senso, la non “esatta” precisione geo-spaziale derivante dalle informazioni di cella, certamente inferiore a GPS / WiFi / proximity bluetooth, non rappresenta un ostacolo all'efficacia della misura, naturale complemento ed estensione del Contact Tracing sanitario.
+
+
+La richiesta di autorizzazione all’invio della comunicazione, deve potere essere eventualmente approvata da parte di un supervisore che analizza il rendiconto dell’intervista di contact tracing.
+
+
+I riceventi della comunicazione potranno, a loro giudizio e libera decisione, palesarsi prendendo contatto con il numero di telefono indicato nella comunicazione, al pari di una comunicazione pubblica in televisione.
+
+
+Si voglia notare che la procedura di Contact Tracing verso un Mercato di Quartiere o Ristorante sarebbe fattibile solo con un sistema di geo-location, mentre sarebbe invece già fattibile, seppur con procedure manuali di scambio dati identificativi, per il trasporto pubblico per i soggetti dotati di biglietto identificativo:
+  
+
+Si noti che tale sistema può raggiungere anche tutti gli stranieri in Italia, con SIM in roaming. 
+
+
+Notifiche informative su allontanamento da dimora 
+L’attuale processo di contenimento alla mobilità, mediante implementazione di controlli di territorio e di verifica per tramite autodichiarazione, risulta evidentemente migliorabile nella sua efficacia.
+
+
+Ulteriormente la gestione autodichiarativa prosegue con meccanismi di tipo analogico, senza contemplare l’opportunità di gestione paper-less.
+
+
+Processo di autocertificazione automatica con notifica allo spostamento da dimora
+Attualmente le procedure di verifica del rispetto della regolamentazione che limita la circolazione delle persone sono interamente affidate alle forze di pubblica sicurezza che, nel limite delle proprie risorse, effettua controlli sul territorio.
+
+
+Ulteriormente, solo una piccola quota parte della cittadinanza, dispone di una autocertificazione compilata e portata con se alla uscita dalla propria dimora.
+
+
+Si propone di risolvere tali inefficienze mediamente l’introduzione di un sistema di auto-certificazione digitale, che intervenga con una richiesta/notifica automatica inviata a mezzo SMS di compilazione della medesima all’atto dell’allontanamento dalla propria dimora.
+
+
+Il sistema automatico di geo-location della rete mobile, rilevato l’allontanamento dalla dimora definita come il luogo di pernotto abituale (sempre rilevato automaticamente), interviene notificando e richiedendone la compilazione.
+
+
+Al fine di limitare l’invasività del sistema, coadiuvandone l’usabilità, non verranno inviate richieste secondo un parametrizzazione sul tempo e sulle distanze (e.s. “Se sto fuori casa entro 2km per il tempo di un ora e mezza, magari il cittadino è andato a fare la spesa, e non si invia alcuna notifica”).
+
+
+Tale sistema dovrebbe aumentare la compliance nel rispetto della procedura di auto-dichiarazione e, secondo la medesima logica dei sistemi di misurazione della velocità stradale, con notifica della velocità corrente e del suo limite (non quindi rivolto all’accertamento ed emissione di sanzione), ci si aspetta che tale logica possa aumentare il rispetto della riduzione della mobilità dei cittadini.
+
+
+Potrebbe essere ulteriormente in caso di non compliance auto-dichiarativa reiterata, entro parametri definiti di tempo e distanza, una procedura telefonica tramite operatori call center, interverranno con una telefonata vocale al cittadino ricordando gentilmente di compilare l’auto-dichiarazione. Tuttavia, la non perentorietà della esperienza utente della interazione con il cittadino è determinante, tale per cui ulteriori tipologie di comunicazione come quella da telefonate con operatore potrebbe risultare eccessiva.
+
+
+Il contenuto dei messaggi va studiato con estrema cura perché è parte essenziale della soluzione, ai fini della minimizzazione del rischio e della compliance.
+
+
+A titolo di esempio il messaggio potrebbe suonare così (Esempio da Nicole Monte):
+“Ciao cittadino italiano! Mi compili questa autodichiarazione digitale e mi dici dove stai andando? Ti ricordo che per proteggere la tua salute e quella dei tuoi cari è meglio limitare al minimo indispensabile qualsiasi allontanamento da casa”.
+
+
+Il messaggio va’ studiato per la massima accessibilità, eventualmente reso doppio anche con seconda lingua per raggiungere le principali aree linguistiche immigrate, sulla base del dato anagrafico di luogo di nascita presente all’interno dell’anagrafe clienti dell’operatore.
+
+
+Si voglia comparare l’attuale sistema di messaggistica effettuato con megafoni, da automezzi che girano tra la popolazione, rispetto alla proporzione di messaggistica geo-targeted.
+
+
+Ulteriormente sarebbe possibile creare anche chatbot per dialogare con questa utenza, raggiungendola a mezzo SMS, Whatsapp o Telegram, tutto in linguaggio naturale e con interazione, facendo handover ad un operatore sanitario solo previa qualifica.
+
+
+Tutta la logica applicativa-funzionale di cui sopra, è realizzabile senza che un soggetto governativo possa avere accesso ad alcun dato identificativo né a informazioni di geo-localizzazioni specifiche. 
+Dettagli nella sezione Modalità Implementative.
+________________
+
+
+Modalità implementative
+La principale problematica derivante dall’impiego dei dati di geo-location è ben identificata da parte dello European Data Protection Board, evidenziando come questi possano essere trattati purché all’interno di un criterio di anonimizzazione dei dati.
+
+
+E’ evidenziato come, la fornitura di informazioni di identificazione di cittadini, oltre alla fornitura di informazioni di geo-localizzazione esatta dei medesimi sia il limite da non valicare.
+
+
+Tali principi guidano e ispirano la definizione delle modalità implementative e del design tecnico architetturale dei processi digitali su identificati.
+
+
+Gli operatori telefonici offrono servizi di business intelligence, analizzando massivamente dati di geolocalizzazione, erogando ai propri clienti soluzioni applicative di estrazione di informazioni e di azioni di comunicazione su questa user-base.
+
+
+Le funzionalità su indicate, possono essere interamente realizzate all’interno degli application server degli operatori telefonici nell’erogazione dei servizi di BI su geo-location, sulla base di specifiche funzionali fornite dalle autorità preposte.
+
+
+L’operatore telefonico, già nella condizione di trattamento massivo di questi dati, può:
+   * Elaborare i dati secondo le specifiche di interrogazioni algoritmiche richieste
+   * Inviare le comunicazioni automatiche definite nei vari casi (sms)
+   * Mettere in contatto telefonico i soggetti definiti nei vari casi con i contact centers
+
+
+La complessità della applicazione è tutto sommato bassa rispetto a quanto già nella logica di processamento di applicazioni telefoniche interne ai sistemi degli operatori. 
+In condizioni ideali si potrebbe ipotizzare una veloce ed iterativa implementazione in una logica agile, realizzando gli aspetti funzionali di business intelligence geografica, di business logic applicativa, di messaggistica e di telefonate.
+
+
+In tale scenario, le autorità non necessitano in alcun caso, di entrare in possesso di dati di geolocalizzazione precisi, né di conoscere numeri di cellulari o anagrafiche provenienti dalle elaborazioni massive.
+Le autorità integrerebbero gli eventi e meta dati di processo all’interno delle proprie piattaforme gestionali informatiche, senza accedere ad alcun dato di dettaglio che rimane nel dominio applicativo dell’operatore.
+Gli operatori, non avrebbero esigenza di conservazione dei dati di geo-localizzazione o notifica.
+
+
+E’ necessaria una verifica di fattibilità implementativa da parte degli operatori telefonici, richiedendone la validazione alle rispettive strutture di prevendita e progettazione dei servizi di BI su base di informazioni di geo-location mobile.
+Modalità organizzative per la sua realizzazione
+La realizzazione di una iniziativa di questo tipo, coinvolgendo una pluralità di stakeholder, richiede una forte governance di gestione progettuale in mano pubblica (Stato).
+
+
+Gli stakeholder coinvolti sono:
+
+
+Stakeholder
+	Ruolo
+	Ministero Innovazione
+	Need finding e Project Management
+	Operatori telefonici mobili
+	Implementazione ed Esecuzione operativa
+	Protezione Civile
+	Definizione comunicazioni massive-automatiche alla popolazione
+	Autorità Sanitarie
+	Uso, testing e diffusione strumenti a supporto Contact Tracing
+	Autorità Protezione dei dati
+	Verifica e validazione del modello di protezione dei dati
+	Gruppo legale-normativo
+	Stesura degli adeguamenti normativi nonché degli accordi con gli operatori telefonici
+	Team Comunicazione e Psicologia Sociale
+	Gruppo di addetti alla gestione delle comunicazioni verso i cittadini
+	
+
+Si ritiene che vada realizzato un team di governance del progetto e uno di esecuzione, che veda pari partecipazione tutti gli stakeholder di riferimento, collaborando in una dinamica “agile” rivolta alla messa in produzione rapida di tutte le diverse soluzioni.
+
+
+E’ necessario un forte commitment pubblico per:
+a) vagliare l’utilità e il dettaglio funzionale dei diversi strumenti con la struttura commissariale, sia nelle componenti di protezione civile che di istituzioni sanitarie;
+b) completare lo studio tecnico implementativo nella collaborazione con gli operatori telefonici.
+
+
+Con relativamente poche iterazioni sarebbe possibile completare e validare la fattibilità di tale progetto, che nessuna azienda privata può autonomamente effettuare, ma che richiede un grande commitment pubblico per completare l’analisi progettuale.
+Si ritiene necessaria la massima trasparenza, con il coinvolgimento di attori della società civile.
+Autori
+L’autore primario è Fabio Pietrosanti, che ha concettualizzato l’idea, sviluppandola poi tramite una continua interazione di 5 giorni di review e contributi di specialisti in ambiti interdisciplinari: tecnici, telecomunicazioni, giuridici. 
+
+
+Questo progetto vuole essere un esempio pratico e fattuale dell’uso di dati di cella nella gestione emergenziale coronavirus, in un quadro di forte bilanciamento per la protezione dei dati, escludendo alcuna finalità repressiva con azione a carattere perentorio.
+
+
+Alcuni contributi e commenti sono indicati nella struttura del documento di progetto, con particolare enfasi alle analisi regolatorie e normative sulla protezione dei dati, altri sono stati integrati nel testo.
+
+
+L’autore, laddove vi sia l’intenzione realizzativa, propone di offrire il suo supporto pro-bono nonché di indicare/suggerire professionalità che possano contribuire nello stesso spirito.
+
+
+L’intero storico evolutivo, di edizioni di documenti e dell’idea, dei commenti ricevuti e integrati, è disponibile su Google Docs.
+Pareri regolatori e normativi
+Verificato che quanto su proposto appaia legalmente fattibile in un contesto emergenziale, c’è la necessità di un supporto di integrazione normativa effettuato dal governo, per il periodo emergenziale, in cui la misura è in uso, che includa tutte le garanzie ulteriori e specifiche relative al trattamento dei dati.
+
+
+Sono in seguito raccolte proposte regolatorie, pareri legali e orientamenti normativi di diversi giuristi per l’attuazione del programma su indicato.
+Da Stefano Aterno
+Testo di una norma impossibile:
+
+
+Visto
+Visto 
+Visto
+
+
+ “A partire dal giorno x e fino al giorno Y del mese Z, per le sole esigenze di emergenza sanitaria derivante dal caso coronavirus, ai trattamenti effettuati per tali finalità e per il tracciamento dei contagiati e dei soggetti a rischio entrati con loro in contatto, per le sole Autorità previste da questo decreto ………………..e per il tempo sopra indicato, non si applicano le norme previste dal GDPR e dal Codice di protezione dei dati personali relativamente al consenso al trattamento dei dati, e quelle relative agli art. 2 bis, 2 ter, 2 quinquies, 2 Sexies, 2 septies, art. 2 decies,.......del Codice per la protezione dei dati personali.
+Il trattamento e l’utilizzo, da parte dei gestori di telecomunicazioni, dei dati di traffico telefonico e telematico e in particolare del traffico per cella utlili ai soli fini di tracciamento e  geolocalizzazione dei soggetti fisicamente entrati in contatto con il contagiato in una certa zona e in un certo periodo, nonchè l’invio ai medesimi di messaggi di avviso e di contatto, è autorizzato entro le 72 ore successive dal Procuratore Generale presso la Corte di Appello di Roma.
+A tali trattamenti dovranno però essere adottate le misure di sicurezza adeguate al fine di evitare violazioni dei dati personali, dispersione, diffusione e comunicazioni non autorizzate dei predetti dati. Anche dopo l’inizio del trattamento e giustificato dai soli motivi di emergenza, entro 3 mesi da…….dovrà essere effettuata una valutazione d’impatto. 
+Prima dell’inizio del trattamento dovrà essere informata l’Autorità Garante per la protezione dei dati personali sulle modalità tecniche del funzionamento del sistema di tracciamento.
+All’Autorità Garante per la protezione dei dati personali è riservato il potere di ispezione e controllo.
+Ad un esponente …………...è riservata la possibilità di supervisione del sistema …….
+
+
+Da Carlo Piana
+La norma può essere più semplice, perché il consenso non è comunque richiesto in casi simili. Manca la previsione di data retention: questi dati non sono più utili dopo n giorni. Le misure di sicurezza sono già necessarie come la dpia. Va previsto un parere obbligatorio urgente del Garante e la piena pubblicità del sistema di sicurezza. La valutazione di impatto ex post ok, da rivedere ogni x giorni alla luce delle segnalazioni anche anonime pervenute al centro di competenza, che ne vaglierà la credibilità.
+
+
+Art 9.2 GDPR lett. i (alternativa a consenso in lettera a)
+i) il trattamento è necessario per motivi di interesse pubblico nel settore della sanità pubblica, quali la protezione da gravi minacce per la salute a carattere transfrontaliero o la garanzia di parametri elevati di qualità e sicurezza dell'assistenza sanitaria e dei medicinali e dei dispositivi medici, sulla base del diritto dell'Unione o degli Stati membri che prevede misure appropriate e specifiche per tutelare i diritti e le libertà dell'interessato, in particolare il segreto professionale;
+
+
+Essendo poi un trattamento automatizzato ex art. 22, si applica comma 4. 
+Le decisioni di cui al paragrafo 2 non si basano sulle categorie particolari di dati personali di cui all'articolo 9, paragrafo 1, a meno che non sia d'applicazione l'articolo 9, paragrafo 2, lettere a) o g), e non siano in vigore misure adeguate a tutela dei diritti, delle libertà e dei legittimi interessi dell'interessato.
+
+
+(G e i del 9 sono uno un subset dell'altro)
+
+
+Non serve nemmeno l'informativa. Art. 14 .5.c
+c) l'ottenimento o la comunicazione sono espressamente previsti dal diritto dell'Unione o dello Stato membro cui è soggetto il titolare del trattamento e che prevede misure appropriate per tutelare gli interessi legittimi dell'interessato;
+
+
+Da Bruno Saetta
+Fabio ti allego le mie annotazioni: 
+ 
+Autocertificazione digitale
+I processi di autocertificazione digitali sono attuabili solo su base volontaria e non coatta. A differenza di paesi come la Corea del Sud manca in Italia la cultura digitale, l'epidemia tocca soprattutto persone anziane che sono carenti in tale ambito. E' quindi del tutto sproporzionato attuare sistemi del genere coattivamente, oltre che inefficiente. Inoltre al sud ci sono ampie zone che non sono coperte da reti cellulari o non sono coperte adeguatamente. Per cui in una analisi di necessarietà e proporzionalità lo strumento non passerebbe se non in termini di uso volontario. 
+Tra l'altro non si potrebbe parlare di autocertificazione, mancandone le caratteristiche giuridiche. Al massimo si dovrebbe parlare di segnalazioni. 
+
+
+
+
+Dove dici: 
+"Tutta la logica applicativa-funzionale di cui sopra, è realizzabile senza che un soggetto governativo possa avere accesso ad alcun dato identificativo né a informazioni di geo-localizzazioni specifiche"
+
+
+
+
+Non mi è chiaro. Il sistema dovrebbe necessariamente trasmettere dati identificativi (nome, cognome, geolocalizzazione), oltre a metadati (data, ora) che contribuiscono a creare il "dato ipersensibile". 
+
+
+“Risposta Fabio: ll sistema, essendo logica applicativa telefonica implementata all'interno degli application server dell'operatore telefonico, non tira fuori alcun dato verso protezione civile, ma si limita su base algoritmica a inviare SMS definiti dalla protezione civile o chi altra autorità. Considera che la logica applicativa descritta è "semplice", ti direi non più di 2000 righe di codice, con il giusto design appoggiato sui sistemi di business intelligence di dati di geo-location degli operatori. In quest'ottica l'operatore tratta dati che già raccoglie e già ha in pancia e invia comunicazioni, a seguito delle quali ci si aspetta una risposta volontaria del cittadino”
+
+
+Monitoraggio quarantena
+Attualmente è legale solo col consenso delle persone. Occorre una base giuridica se si vuole imporre (una legge, non un decreto legge), e qui una analisi "necessità e proporzionalità" spetta al legislatore (e al Garante) ma ho i miei dubbi che possa passare. Secondo me solo il consenso può essere valida base giuridica (infatti anche in Corea usano il consenso) nonostante la situazione emergenziale. 
+
+
+
+
+Contact tracing
+L'attività di contact tracing è estremamente invasiva. Considerato (per quello che so) che lo Stato non ha dati specifici utilizzabili, occorre rivolgersi alle aziende private (telco+aziende web). Questo significa chiedere a tali aziende il trattamento di dati ipersensibili (nella fase dell'emergenza il solo fatto che glielo chiedi per persone specifiche significa che gli stai dicendo che sono persone contagiate o a rischio). Il che porta a possibili abusi di ogni tipo. In conseguenza di ciò a mio parere è difficilmente attuabile anche col consenso (perchè comunque implica il trattamento di dati di altri, quelli a rischio), ma occorre una specifica base giuridica che stabilisca le garanzie e gli obblighi per i privati (tempi di conservazione soprattutto, misure di sicurezza). Al momento la legge consente l'utilizzo dei soli dati aggregati per fini di cartografia. 
+
+
+
+
+"Tale procedura deve portare all’invio di comunicazioni di tutti i soggetti a rischio, risultanze dell’analisi di dati di geo-location, richiedendo a questi di eseguire le procedure previste dalla gestione emergenziale (fare un test, quarantenarsi, prendere contatto con medico, etc)."
+
+
+Questo non è chiaro. Comunicazioni in che senso? Se non abbiamo i nomi dei soggetti a rischio come si comunica loro? Sarebbe necessario aprire al pubblico una parte dei dati risultati dal "contact tracing" invitando i soggetti che hanno incrociato il contagiato a rivolgersi alle autorità (tipo Sud Corea). In questo caso è necessaria una base giuridica adeguata e una attenzione particolare alla minimizzazione dei dati (per non creare il casino che è successo in Corea). Anche qui è necessaria una analisi del rischio e della proporzionalità. Se io dico alla gente che in quel tale luogo c'era un contagiato è presumibile che tutti quelli che sono stati in quel luogo (anche a distanza di parecchi giorni) pretendano il tampone. E' fattibile? Se non è fattibile si genera solo il panico.
+
+
+“Risposta Fabio:
+Le comunicazioni le manda l'operatore telefonico sulla base delle logiche applicative a carattere geografico-temporale definite dagli algoritmi, per quelli automatici, e dalle autorità sanitarie come risultato della attività di contact tracing, senza mai fornire i dati alle autorità. L’operatore conosce già il dato tecnico, numero di telefono, che si trovava in quel match geografico.”
+
+
+Da Pierluigi Perri
+Caro Fabio, alcuni pensieri sparsi dopo la lettura del documento:
+   1. Distinguerei una funzione preventiva della geolocalizzazione, da una funzione necessaria per accertare condotte illecite (v. ordinanza 21 febbraio 2020 del ministero della salute e le diverse fattispecie penali previste dal DPCM 9 marzo 2020 e quelle che probabilmente seguiranno nei prox giorni)
+   2. Stabilita questa distinzione, valuterei delle ipotesi di discovery crescente dei dati, partendo da dati aggregati e comunque non idonei a identificare direttamente un soggetto (funzione preventiva) a dati man mano più personali, quando la situazione di pericolo concreto o la violazione di norme di legge lo rendano comunque ammissibile, tenuto conto dei rischi per la salute e l’incolumità pubblica (funzione “punitiva”)
+   3. Vedo impraticabile la discovery congiunta operatore/utente, sia in termini di tempo sia in termini di pericolosità dell’operazione, dove diventa essenziale limitare la frequentazione con persone contagiate o probabili tali. Non dimentichiamo che l’esposizione al rischio porta problemi anche alla luce della 81/2008.
+   4. Condivido le osservazioni di Carlo in merito a informativa e consenso e, consentitemi di dirlo, ritengo piuttosto sterili le polemiche di questi giorni relativamente alla supposta violazione della privacy sulla base degli argomenti “chissà cosa potrebbe succedere” o “quando si fanno questi provvedimenti nascono temporanei e poi diventano permanenti”. Siamo giuristi e ci hanno insegnato che a ogni potere deve corrispondere una garanzia che limiti (temporalmente o funzionalmente) quel potere. Nel caso di specie, bisogna pensare sistemi agili che però siano sottoposti a forme di controllo quali: dove ha sede il database? Che durata ha questo provvedimento? Chi possiede le chiavi di cifratura e decifratura del db e sulla base di quali circostanze provvede a fornire i dati (un po’ come il custode delle chiavi nei sistemi di wb)? Per quanto tempo vengono conservati i dati? Come viene garantito l’esercizio dei diritti degli interessati?
+   5. Il sistema del SMS è affascinante ma pericoloso se corredato di dati geolocalizzati ed eccessivamente preciso. Strutturerei un sistema che invii solo un sms con un codice univoco che identifichi quell’utente (psedonimizzazione) invitandolo a chiamare un numero magari creato ad hoc. Sulla base del codice univoco chi risponde alla chiamata potrà accertare la sua identità, la presenza nei luoghi dove c’è stato il rischio contagio e avvisarlo con i conseguenti passi successivi da intraprendere.
+   6. Carlo citava giustamente la DPIA, nel progetto spenderei anche qualche parola su principi di privacy by design da implementare nel sistema. Ad es. un sistema (c.d. “red button”) che consenta di disabilitare temporaneamente il tracking, corredato da disclaimer che avvisi dei rischi per la salute e penali connessi a determinate condotte. So che può sembrare assurdo e che possa una vulnerabilità che invalida il sistema, ma secondo me costituisce un buon bilanciamento per un sistema che è comunque pensato come supporto e non come sostitutivo dei canali di comunicazione e controllo già predisposti
+Da Massimo Simbula
+   1. Condivido quanto ben chiarito da Carlo Piana e Pierluigi Perri in merito al consenso. Non necessario evidentemente in queste situazioni. Inoltre non è possibile con norma nazionale sospendere le disposizioni del GDPR che in realtà già contemplano anche situazioni critiche come una epidemia (si veda orientamento EDPB). Tuttavia, al di là del dato normativo, rilevo che una app nativa basata su iOS e/o Android prevede necessariamente un consenso richiesto dalla piattaforma. Non solo. Verrà ripetutamente ricordato all’utente che la app in questione geolocalizza con invito all’utente a modificare le impostazioni. 
+   2. Il punto sostanziale è che geolocalizzare solo con un device portatile rende inattendibile l’output finale. Rischiamo di mettere su un sistema che fa acqua da tutte le parti considerando la “reattività” del popolo italiano a forme di controllo di questo tipo. 
+Com ben detto da Pierluigi Perri dovremmo mettere per un attimo da parte le criticità privacy e studiare come fronteggiare l’emergenza.
+   3. Non ritengo utile realizzare una nuova app soprattutto se i server di riferimento da utilizzare saranno sempre i soliti AWS. A quel punto, visto il tempo necessario per mettere su una app di questo tipo, avrebbe più senso realizzare un servizio on top di quelli già esistenti (Google, Facebook, ecc.). Il tutto considerando anche che i tamponi di massa sono sostanzialmente impossibili e si dovrebbe ragionare su cluster e potenziali cluster.
+   4. Tema autorizzati al trattamento da analizzare con attenzione per avere un perimetro soggettivo rigoroso in merito ai soggetti che trattano il dato. 
+
+
+
+
+Da Nicole Monte
+
+
+Per l’ipotesi sub 1 – CONTACT TRACING (Assistenza Digitale nell’intervista + Comunicazione Geo-Targeted)
+Va anzitutto operata la distinzione tra la funzione preventiva e quella punitiva, come indicato da Pierluigi, e nell’ambito della sola prima – per intenderci: mi prendo i dati per arginare il diffondersi del virus non per sanzionarti se ti sei mosso da Milano a Roma dopo il DPCM del 09/03/2020- dal punto di vista privacy ci sono una serie di problemi in termini di consenso, informativa, finalità e basi giuridiche.
+ 
+Anzitutto, suggerirei di leggere attentamente la norma di cui all’art. 14 DL. 14 del 09/03/2020, questa si è rivolta principalmente agli operatori sanitari ma il comma 2 si presta ad una interpretazione più ampia, dal mio punto di vista. 
+ 
+Il comma 1 prevede che fino al termine dello stato di emergenza deliberato in data 31/01/2020, per motivi di interesse pubblico nel settore della sanità pubblica ed, in particolare, per garantire la protezione dall'emergenza  sanitaria a carattere transfrontaliero mediante adeguate misure di profilassi, nonché per assicurare la diagnosi e l'assistenza sanitaria dei contagiati ovvero  la  gestione emergenziale del SSN, i soggetti operanti nella Protezione civile, gli uffici del Ministero della salute e dell'Istituto Superiore di Sanità, le strutture pubbliche e private che operano nell'ambito del SSN ed in generale tutti i soggetti coinvolti nella emergenza come elencati al DPMC del 05/03/2020, anche allo scopo di assicurare la più efficace gestione dei flussi e dell'interscambio di dati personali, possono effettuare  trattamenti, ivi inclusa la comunicazione tra loro, dei dati personali, anche relativi agli articoli 9 e 10 del GDPR, che risultino necessari all'espletamento delle funzioni attribuitegli nell'ambito dell'emergenza determinata dal diffondersi del COVID19.
+Questi trattamenti vengono effettuati, secondo quanto previsto dal DL, nel rispetto del GDPR e nello specifico degli articoli 9, paragrafo 2, lettere G (motivi di interesse pubblico), H (medicina preventiva) e I (motivi di interesse pubblico nel settore della sanità pubblica), e dell'articolo 10 (trattamento dei dati personali relativi a condanne penali e reati), nonché nel rispetto del Codice della Privacy, come modificato dal DLgs. 101/18, articolo 2 sexies, comma 2, lettere T (attività amministrative e certificatorie correlate a quelle di diagnosi, assistenza o terapia sanitaria o sociale) ed U (compiti del servizio sanitario nazionale e dei soggetti operanti in ambito sanitario, nonché compiti di igiene e sicurezza sui luoghi di lavoro e sicurezza e salute della popolazione, protezione civile, salvaguardia della vita e incolumità fisica).
+ 
+Al comma 2, inoltre, è previsto che la comunicazione dei dati personali a soggetti pubblici e privati, diversi da quelli di cui al comma 1, nonché la diffusione dei dati personali diversi da quelli di cui agli articoli 9 e 10 del GDPR, è effettuata, nei casi in cui risulti indispensabile ai fini dello svolgimento delle attività connesse alla gestione dell'emergenza sanitaria in atto.
+ 
+Il margine interpretativo si concentra principalmente nei termini indispensabile e attività connesse. Entrambi mi paiono aderenti alla situazione attuale, soprattutto in Lombardia, ma sarebbe necessario farvi riferimento nella presentazione del progetto, perché di primo acchito potrebbe sembra che, operativamente il Legislatore abbia consentito questo tipo di operazione (gestione dei flussi ed interscambio di dati) unicamente agli enti impegnati a far fronte della emergenza senza scopi specifici se non l’emergenza stessa. All’esterno, secondo il comma 2, sono previste comunicazione e diffusione a soggetti pubblici o privati solo ai fini dello svolgimento delle attività connesse all’emergenza sanitaria. Questa prima soluzione (Assistenza Digitale nell’intervista + Comunicazione Geo-Targeted) mi pare possa essere coperta dall’art. 14 così interpretato.
+ 
+A proposito del soggetto di cui andremmo a trattare i dati magari solo perché si trovava in quel pub/treno/altro, leggendo la norma, mi sono anche chiesta se da un punto di vista di inquadramento privacy, la figura dell’interessato, inclusa in questa norma, ossia se il soggetto di cui stiamo trattando i dati è solo il contagiato e la risposta è no, perché la lettera H fa riferimento a finalità di medicina preventiva. A questo punto non è necessariamente contagiato o malato il soggetto i cui dati posso trattare ai sensi del 14 DL 14 ma in generale chiunque coinvolto. Quest’ultimo, tra l’altro, può essere informato del trattamento in modalità semplificata anche oralmente.
+ 
+Mi pare dunque che con una interpretazione estensiva possa farsi rientrare questo tipo di utilizzo dell’art. 14 DL 14.
+ 
+****
+ 
+Per l’ipotesi sub 2 – QUARANTENA e AUTODICHIARAZIONE
+Si avrebbero due ipotesi distinte: la prima è quella di controllare il soggetto c.d. quarantenato e la seconda ipotesi è quella di un monitoraggio del rispetto dei movimenti con autodichirazione “telematica” tramite strumenti di geofencing. 
+In quest’ultima ipotesi, di gestione autodichiarazione per uscire: quando ti sposti ti arriva messaggino del tipo “Ciao cittadino italiano! Mi compili questa autodichiarazione digitale e mi dici dove stai andando? Ti ricordo che per proteggere la tua salute e quella dei tuoi cari è meglio limitare al minimo indispensabile qualsiasi allontanamento da casa”.
+ 
+Premetto che in ottica di trasparenza, in ogni caso indicherei insieme all’SMS un link in cui è possibile leggere l’informativa con basi giuridiche, finalità, misure di sicurezza implementate e chiarimento relativo alla temporaneità del trattamento, finito tutto e comunque non oltre il termine massimo dei poteri conferiti al PdC dal Decreto del 31/01/2020 cancelliamo tutto.
+ 
+Ora, per questo tipo di trattamento l’art. 14 del DL 14 del 10/03/2020 non ci aiuta perché non stiamo riferendoci ad un trattamento operato da operatori sanitari o preposti al contenimento dell’emergenza. A meno che non si pensasse di provvedere mediante ordinanza del capo della Protezione Civile rivolta agli operatori telefonici, ma sarebbe una forzatura inesperibile. Da un punto di vista strettamente giuridico no, anche guardando all’art. 14 del DL 14/03 avremmo necessità di un intervento normativo che consenta una implementazione di questo tipo di impianto normativo emergenziale. Quest’ultimo dovrebbe estendere l’art. 14 e consentire di richiedere quei dati agli operatori per finalità di medicina preventiva, perché le misure di lockdown sono a tutti gli effetti una misura di medicina preventiva e interesse pubblico nel settore della sanità pubblica.
+ 
+Per entrambe le soluzioni, espandendo i due concetti-chiave avremmo:
+•        finalità di medicina preventiva, diagnosi, assistenza o terapia sanitaria o sociale ovvero gestione dei sistemi e servizi sanitari o sociali (di seguito “finalità di cura”) sulla base del diritto dell’Unione o degli Stati membri, o conformemente al contratto con un professionista sanitario, (art. 9, par. 2, lett. h e par. 3 e considerando n. 53 del GDPR; art. 75 del Codice Privacy) effettuati da (o sotto la responsabilità di) un professionista sanitario soggetto al segreto professionale o da altra persona anch’essa soggetta all’obbligo di segretezza;
+•        motivi di interesse pubblico nel settore della sanità pubblica, quali la protezione da gravi minacce per la salute a carattere transfrontaliero o la garanzia di parametri elevati di qualità e sicurezza dell’assistenza sanitaria e dei medicinali e dei dispositivi medici, sulla base del diritto dell’Unione o degli Stati membri che preveda misure appropriate e specifiche per tutelare i diritti e le libertà dell’interessato, in particolare il segreto professionale (art. 9, par. 2, lett. i e considerando n. 54 del GDPR) (es. emergenze sanitarie conseguenti a sismi e sicurezza alimentare).
+ 
+Sul punto vanno aggiunte le dichiarazioni di Andrea Jelinek (EDPB), già citate da Naif in premessa, secondo Jelinek infatti il GDPR fornisce le basi giuridiche per consentire ai datori di lavoro ed alle autorità sanitarie pubbliche di trattare i dati personali nell’ambito di epidemie, senza la necessità di ottenere il consenso dell’interessato. […] Per il trattamento dei dati relativi alle comunicazioni elettroniche, come ad esempio i dati relativi all’ubicazione ricavata da un dispositivo mobile, si applica la regolamentazione prevista dalle leggi nazionali di attuazione della direttiva ePrivacy che prevede il principio di giuridico secondo cui i dati relativi all’ubicazione possono essere utilizzati dall’operatore solo se resi anonimi, o con il consenso dei singoli.
+Le autorità pubbliche, specifica il presidente Jelinek, dovrebbero innanzitutto mirare al trattamento di dati relativi all’ubicazione in modo anonimo (cioè elaborando dati aggregati in modo che non possano essere invertiti ai dati personali). Ciò potrebbe consentire di generare rapporti sulla concentrazione di cellulari in un determinato luogo (“cartografia”) – questo al fine di impedire assembramenti di soggetti.
+Quando non è possibile trattare solo dati anonimi, l’art. 15 della direttiva ePrivacy consente agli Stati membri di introdurre misure legislative che perseguono la sicurezza nazionale e, più in generale, la sicurezza pubblica. Questo tipo di legislazione di natura emergenziale, conclude, è possibile, secondo la regolamentazione europea, a condizione che costituisca una misura necessaria, appropriata e proporzionata all’interno di una società democratica.
+ 
+Quest’ultimo periodo del comunicato del 17/02/2020, ossia il riferimento all’art. 15 ePrivacy, nella nostra informativa, lo citeremmo in combinato disposto dell’articolo estensivo del 14. Ad ogni modo anche questa dichiarazione evidenzia la necessità di un intervento normativo, è da escludere la possibilità di un’ordinanza del Capo della Protezione Civile.
+
+
+In ultimo, deve farsi riferimento all’art. 22.2 c) ossia il consenso nel caso del trattamento automatizzato, come ha osservato Piana. Tuttavia, si deve considerare anche il 22.2 b) secondo cui, il comma 1 non si applica se la decisione automatizzata sia autorizzata dal diritto dell'Unione o dello Stato membro cui è soggetto il titolare del trattamento, che precisa altresì misure adeguate a tutela dei diritti, delle libertà e dei legittimi interessi dell'interessato. Ora, l’art. 14 del DL 14 è una legge dello Stato Membro ma nel riferirsi a comunicazione o/e diffusione o/e interscambio di dati non sembra coprire il caso della decisione automatizzata. Quindi si ripropone la necessità di un intervento legislativo che estenda la portata del 14. 
+
+
+Da Giovanni Battista Gallus
+Condivido le osservazioni di chi mi ha preceduto, e aggiungo qualche ulteriore considerazione.
+
+
+   1. Le app, così come annunciate, sono probabilmente inutili e in compenso pericolose. Se proprio vogliamo parlare di app, analizzerei il funzionamento di questa, che mi pare meno “troianizzante” delle altre. https://www.mobihealthnews.com/news/asia-pacific/singapore-government-launches-new-app-contact-tracing-combat-spread-covid-19
+   2. Mi piace la soluzione di contact tracing proposta da Pierluigi Perri. Ma mi chiedo se sia possibile/fattibile realizzare un call center che effettivamente risponda alle chiamate, o effettui il call back in caso di non attivazione del destinatario. In ogni caso anche questa soluzione necessiterebbe (come tutte le altre) una norma ad hoc (ma penso che questo sia chiaro a tutti).
+   3. Autocertificazione con notifica dello spostamento dalla dimora
+Il sistema è chiaramente sproporzionato rispetto alle finalità. Si realizza un monitoraggio continuo e costante di tutti i cittadini (che comunque richiederebbe una norma ad hoc) per far loro firmare una autocertificazione. 
+Se vogliamo eliminare l’aggravio burocratico, si pensi a una app che produca una autocertificazione, consentendo la sua valenza probatoria ex art. 20 CAD (forse basterebbero linee guida AGID ex 20 e 71 CAD), e questa app dovrebbe essere gestibile ovviamente anche dalle FF.OO. Ovviamente anche questa raccolta di informazioni (che sarebbe comunque massiva) andrebbe adeguatamente protetta. Senza contare che vanno tenute presenti le possibili implicazioni dal punto di vista penale, che dipendono dalla non facile qualificazione di tale certificazione.
+   4. Controllo dei “quarantenati”
+Anche qui, il tracing a mezzo cella sarebbe perfettamente inutile, posto che basta lasciare il cell a casa per evitare il controllo. Ad oggi, dovremmo comunque tracciare quasi 24.000 persone. E’ possibile/fattibile?
+Non solo, sarebbe un trattamento che avrebbe anche finalità di prevenzione e repressione di reati (uscendo violo quantomeno il 650 c.p.), In ogni caso vi sarebbe sempre la  necessità di incidere sulle norme implementative della direttiva e-privacy, ex art. 15 della stessa.
+Da Andrea Lisi
+
+
+Ho letto il documento e i vari, autorevoli commenti che si sono succeduti e non posso che riportarmi ad essi, senza inutili ripetizioni. 
+
+
+Come precisato da tanti, la normativa contenuta dal GDPR permetterebbe già un trattamento trasparente e "minimizzato" in emergenza, il quale sarebbe ulteriormente legittimato dall'art.14 DL 14/2020 (come giustamente osservato da Monte).  
+
+
+Ovvio che, acquisiti i vari e doverosi pareri delle autorità preposte, come suggerito da Piana, occorrerebbe concentrarsi su trasparente e generalizzata informativa,DPIA (processi di anonimizzazione e pseudoanonimizzazione, verifica soggetti autorizzati al trattamento, data retention etc.), prediligendo soluzioni il più possibile trasparenti e aperte. 
+
+
+Queste ultime considerazioni dovrebbero valere, come ricordato da Gallus, anche per la "autodichiarazione" in formato digitale (che andrebbe verificata nei principi di minimizzazione e stretta necessità). In questo caso, considerata la natura giuridica di tali dichiarazioni, occorrerebbe predisporre a monte un sistema di formazione, gestione e conservazione in linea con le attuali regole tecniche (oggi Linee Guida) previste dal CAD. 
+
+
+Da Enrico Pelino
+Ringrazio per la condivisione del documento e ho apprezzato la ricchezza dei commenti precedenti. Per non sovrappormi alle osservazioni già sviluppate, mi limito solo ad alcune brevi considerazioni, in parte anticipate nei miei commenti:
+a) occorre prestare la massima attenzione alle finalità perseguite. Come giustamente notato da chi mi ha preceduto (Perri e altri) la finalità preventiva è diversa da quella di sorveglianza/repressione. Quest’ultima mi sembra sinceramente sproporzionata se attuata con un controllo elettronico massivo e mi pare non segua criteri di proporzionalità. Osservo che perfino in Corea del Sud, dove non si sono posti questioni di protezione dei dati personali, l’app per finalità di sorveglianza/repressione è scaricata su base volontaria dai soli positivi accertati, mentre, se non ho inteso male, nel progetto attuale ci sarebbe l’idea di utilizzarla su tutti i cittadini in lockdown (la stragrande maggioranza dei quali è probabilmente negativa).
+b) Circa la finalità di prevenzione basata su tracciamento, occorre avere ben chiaro il coordinamento con la politica di contrasto del virus a livello nazionale. Mi pare che il tracciamento globale, con tutte le ovvie conseguenze privacy, possa cioè essere preso in considerazione solo in un contesto in cui si fanno tamponi a tappeto e non c’è lockdown. Il vantaggio è anzi proprio quello di permettere, attraverso una compressione della privacy (con le dovute cautele), di riacquistare libertà di movimento per i negativi (che è un altro diritto fondamentale). Diversamente, tracceremmo inutilmente: nell’attuale situazione emergenziale il dato di fatto è che tamponi purtroppo non se ne fanno se non a sintomatici gravi, dunque sapere di essere transitati in area a rischio non dà oggi diritto a tamponi. Questo rende superflua la delicatissima raccolta e analisi di dati attraverso tracciamento retrospettivo. Inoltre, con il lockdown in corso conoscere se, prima del lockdown, si sono frequentati luoghi a rischio ha una valenza ormai molto residuale. Può averla solo per chi legittimamente continua a spostarsi e a interagire socialmente per lavoro (categorie consentite), ma allora il tracciamento dovrebbe essere limitato a costoro. Quello che voglio dire è che scelte essenziali che incidono sul cuore della soluzione informatica dipendono strettamente dalla politica di contrasto sanitaria nazionale che si intende applicare e non possono essere disgiunte da essa: non si può nemmeno prendere in considerazione una tracciatura elettronica così massiccia se poi rischia di essere vanificata da un disallineamento rispetto alla politica sanitaria in atto.
+c) Va assolutamente applicata la privacy-by-design e va fatta, preliminarmente, una valutazione d’impatto (DPIA), applicando le linee guida e i documenti dell’ENISA: PBD e DPIA sono entrambi obblighi di legge, ma, anche al di là di questo, costituiscono momenti essenziali di ragionamento per capire che cosa si vuole fare e come esattamente. L’anonimizzazione, mi permetto di sottolinearlo nuovamente, è uno degli aspetti più delicati, va seguito quantomeno ciò che era già discusso nell’opinione 5/2014 dell’ex Gruppo di lavoro 29
+d) Ultima considerazione: il governo coreano si è dichiarato disponibile a mettere in condivisione la sua applicazione. Chiaramente non è stata costruita in termini di privacy-by-design, neppure lontanamente, ma mi chiedo se non possa costituire comunque una base di partenza a fini di studio, visti i tempi contingentati.
+
+
+Commenti
+In questa sezione vengono raccolte tutte le critiche, motivate e costruttive, al presente documento e alle idee esposte.
+Da Gerardo Costabile
+Gerardo Costabile:se ho capito bene tu vuoi che gli operatori mobili geolocalizzino in tempo reale tutti, facendo scattare delle regole in alcune casistiche. Se così fosse vorrei capire alcuni aspetti: 
+a) chi paga 
+b) nel caso di violazione ovvero di non risposta all'sms che succede? A chi va l'sms? 
+Risposta:  Niente, il sistema ha carattere ordinatorio e non perentorio.
+C) ai fini privacy non è corretto dire che sono anonimi, diciamo che restano nella sfera dell'operatore ma a mio avviso esulano dalle policy privacy che ho firmato tranne se non intervenisse una normativa modificando gli articoli sulle prestazioni obbligatorie 
+d) in caso di non applicazione del punto precedente, il cliente potrebbe togliere il consenso al trattamento 
+e) se il cliente non ha il GPS, lascia il telefono a casa per uscire dobbiamo conteggiare che non è funzionante il sistema, quando lo fermi gli chiedi se ha il telefonino? 
+F) andrebbe spiegata la tecnologia se funziona anche in caso di disattivazione del GPS via software.....
+
+
+
+
+Q: Come gestisci chi non ha telefono mobile? O non ha telefono?
+A: non è gestito, la procedura corrente rimane, questa è complementare
+
+
+Da Yvette Agostini
+• è possibile avere software questo (o eventuale altra soluzione venga adottata) open source reso pubblico e scrutinabile? 
+• come si può normare il tutto in modo che vi sia trasparenza comunicativa verso i cittadini sull’effettiva efficacia in termini di miglioramento del processo di gestione dell’utilizzo eventuale di questi strumenti di tracciamento?
+• nel documento si dice i dati sono raccolti da azienda privata.  chi controlla? e come? e quando? e a chi comunica gli esiti di questi audit e come? e con quali garanzie di onestà dell'azienda di cui sopra, dato che se ho ben capito si applicano deroghe in tempi di emergenza che potrebbero mettere in mano a mafie varie 'sti dati? Ecc 
+
+
+
+
+
+
+Da Marco Dirani
+L’attività di prevenzione/mitigazione del rischio sanitario può avvalersi della leale collaborazione del cittadino grazie a messaggi chiari ed univoci. Il quadro informativo e prescrittivo necessita di comunicazioni tempestive e consistenti nella forma e nel contenuto (psicologia sociale).
+
+
+Condivido l’ottima segnalazione di G.B. Gallus sulla app “meno troianizzante” TraceTogether, che potrebbe essere un ottimo modello per la mitigazione del rischio sanitario, presente e futuro, essendo prevedibile una riacutizzazione dell’epidemia da coronavirus nei prossimi mesi.
+
+
+[...] Rimosso commento di digressione sulle “App”, off-topic rispetto agli scopi del documento[...]
+Sezioni eliminate
+Sono state eliminate le seguenti sezioni
+
+
+Monitoraggio del rispetto di dimora per i quarantenati
+Diversamente dai cittadini soggetti a limitazione di mobilità secondo i criteri concessi dalla auto-dichiarazione, le infrastrutture di geo-location sono di particolare ausilio nel monitoraggio di coloro i quali hanno ottenuto un ordine di quarantena domiciliare.
+
+
+Costoro non possono muoversi dalla dimora, neanche in presenza di auto-dichiarazione.
+
+
+Il sistema rileva l’eventuale spostamento di tali soggetti dalla propria dimora, come precedentemente definita, con un intervento di contatto telefonico immediato, che può far seguito secondo procedure operative di intervento già attualmente in essere.
+
+
+In tale contesto applicativo di gestione del quarantenato, la App per cellulare con GPS può risultare invece, un efficace sostituto della geo-localizzazione mobile, perché:
+   * Dev'esserci supervisione delle autorità sanitarie per assistenza medica, in questo la app può consentire più agevole raccolta dati (es: temperatura, condizioni paziente, etc)
+   * Il soggetto quarantenato ha l’obbligo legale di non allontanamento a prescindere
+   * l’esempio singaporiano, offre interessanti spunti in merito alle procedure di monitoraggio dei quarantenati con procedure sia con app che callcenter

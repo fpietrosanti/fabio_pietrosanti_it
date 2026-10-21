@@ -1,0 +1,339 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+        <html>
+        <head><title>Tor Weekly News — September 17th, 2014  [LWN.net]</title>
+        <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8>
+        <link rel="icon" href="/images/favicon.png" type="image/png">
+        <link rel="alternate" type="application/rss+xml" title="LWN.net headlines" href="http://lwn.net/headlines/newrss">
+<link rel="alternate" type="application/rss+xml" title="Comments posted to this article" href="http://lwn.net/headlines/612209/">
+        <link rel="stylesheet" href="/CSS/lwn">
+<link rel="stylesheet" href="/CSS/nosub">
+
+        
+        </head>
+        <body bgcolor="#ffffff" link="Blue" VLINK="Green" alink="Green"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://lwn.net/Articles/612209/">lwn.net/Articles/612209/</a> · captured 2015-09-19 · scripts removed</div>
+        <!-- no tracking img --><table class="Page">
+<tr>
+<td class="LeftColumn">
+
+        <center>
+        <a href="/"><img src="/images/lcorner.png" width="153"
+           height="120" border="0" alt="LWN.net Logo"></a>
+        </center>
+        <p>
+        <!-- no left ad --><p>
+<div class="SideBox">
+<p class="Header">Not logged in</p>
+<p><a href="/login">Log in now</a></p>
+<p><a href="/newaccount">Create an account</a></p>
+<p><a href="/subscribe/Info">Subscribe to LWN</a></p></div>
+
+<div class="SideBox">
+<p class="Header">Recent Features</p>
+<p><a href="/Articles/657111/">LWN.net Weekly Edition for September 17, 2015</a></p>
+<p><a href="/Articles/657345/">How Debian managed the systemd transition</a></p>
+<p><a href="/Articles/657269/">Python and crypto-strength random numbers by default</a></p>
+<p><a href="/Articles/657139/">The LPC Android microconference, part 2</a></p>
+<p><a href="/Articles/656672/">LWN.net Weekly Edition for September 11, 2015</a></p></div>
+
+<div class="SideBox">
+<p><a href="/Articles/612209/?format=printable">Printable page</a></p></div>
+
+</td><!-- LC -->
+
+<td><table><tr>
+<td class="MidColumn">
+           <table class="TopNavigation">
+
+<!-- First row - content links -->
+<tr>
+  <td class="NavLink"><a href="/current/">Weekly edition</a></td>
+  <td class="NavLink">
+	<a href="/Kernel/">Kernel</a></td>
+  <td class="NavLink"><a href="/Security/">Security</a></td>
+  <td class="NavLink">
+	<a href="http://lwn.net/Distributions/">Distributions</a></td>
+  <td class="NavLink"><a href="/op/FAQ.lwn#contact">Contact Us</a> </td>
+  <td class="NavLink"><a href="/Search/">Search</a> </td>
+</tr>
+<!-- Second row: navigation links -->
+<tr>
+  <td class="NavLink"><a href="/Archives/">Archives</a></td>
+  <td class="NavLink"><a href="/Calendar/">Calendar</a></td>
+  <td class="NavLink"><a href="/subscribe/Info">Subscribe</a></td>
+  <td class="NavLink"><a href="/op/AuthorGuide.lwn">Write for LWN</a></td>
+  <td class="NavLink"><a href="/op/FAQ.lwn">LWN.net FAQ</a></td>
+  <td class="NavLink"><a href="/op/Sponsors.lwn">Sponsors</a></td>
+</tr>
+
+</table>
+</td><td></td></tr>
+<tr><td colspan=2 class="MCTopBanner">
+<!-- no ads --></td></tr><tr><td class="MidColumn">
+<div class="PageHeadline">
+<h1>Tor Weekly News — September 17th, 2014 </h1>
+<div class="Byline">[Posted September 17, 2014 by n8willis]
+               <p>
+               </div>
+</div>
+<div class="ArticleText">
+<table>
+<tr><td valign="top"><b>From</b>:</td>
+    	     <td>&nbsp;</td><td valign="top">harmony &lt;harmony01-AT-riseup.net&gt; </td></tr>
+<tr><td valign="top"><b>To</b>:</td>
+    	     <td>&nbsp;</td><td valign="top">tor-news-AT-lists.torproject.org, tor-talk-AT-lists.torproject.org </td></tr>
+<tr><td valign="top"><b>Subject</b>:</td>
+    	     <td>&nbsp;</td><td valign="top">Tor Weekly News — September 17th, 2014 </td></tr>
+<tr><td valign="top"><b>Date</b>:</td>
+    	     <td>&nbsp;</td><td valign="top">Wed, 17 Sep 2014 12:58:03 +0000</td></tr>
+<tr><td valign="top"><b>Message-ID</b>:</td>
+    	     <td>&nbsp;</td><td valign="top">&lt;20140917125803.7b801ffd@riseup.net&gt;</td></tr>
+<tr><td valign="top"><b>Archive-link</b>:</td>
+    	     <td>&nbsp;</td><td valign="top"><a href="http://mid.gmane.org/%3C20140917125803.7b801ffd%40riseup.net%3E">Article</a>, <a
+                 href="http://news.gmane.org/find-root.php?message_id=%3C20140917125803.7b801ffd%40riseup.net%3E">Thread</a>
+              </td></tr>
+</table><p><pre>
+========================================================================
+Tor Weekly News                                     September 17th, 2014
+========================================================================
+
+Welcome to the thirty-seventh issue in 2014 of Tor Weekly News, the
+weekly newsletter that covers what’s happening in the community around
+Tor, the anonymity network that makes full use of its library card.
+
+tor 0.2.5.7-rc is out
+---------------------
+
+Nick Mathewson announced [1] the first release candidate in tor’s
+0.2.5.x series. This version “fixes several regressions from earlier in
+the 0.2.5.x release series, and some long-standing bugs related to
+ORPort reachability testing and failure to send CREATE cells”; relay
+operators running it will also receive a warning if they try to
+configure a hidden service on the same process as their relay, as the
+public nature of much information about Tor relays can help identify
+services running on the same machine [2]. As ever, you can read the full
+list of improvements and fixes in Nick’s announcement, and download the
+source code from the Tor Project’s distribution directory [3].
+
+  [1]: <a href="https://lists.torproject.org/pipermail/tor-talk/2014-September/034740.html">https://lists.torproject.org/pipermail/tor-talk/2014-Sept...</a>
+  [2]: <a href="https://bugs.torproject.org/12908#comment:5">https://bugs.torproject.org/12908#comment:5</a>
+  [3]: <a href="https://www.torproject.org/dist/">https://www.torproject.org/dist/</a>
+
+Tor protects library patrons’ right to privacy
+----------------------------------------------
+
+April Glaser and Alison Macrina published [4] an article for BoingBoing
+on efforts by Massachusetts librarians to guarantee their patrons’ right
+to access information without fear of surveillance or censorship.
+Macrina and her colleagues, in partnership with the ACLU of
+Massachusetts, have been giving workshops on the use of
+privacy-preserving technologies to other librarians, and spreading the
+word about the risk that pervasive surveillance poses to freedom of
+thought and intellectual inquiry.
+
+As the authors remark, “it’s no secret that libraries are among our most
+democratic institutions. Libraries provide access to information and
+protect patrons’ right to explore new ideas, no matter how controversial
+or subversive […] and protecting unfettered access to information is
+important whether that research is done using physical books or online
+search engines. But now it has become common knowledge that governments
+and corporations are tracking our digital lives, and that surveillance
+means our right to freely research information is in jeopardy”.
+
+Tor and Tails are a natural fit for any response to this problem, and
+BoingBoing reports that not only have “multiple Massachusetts
+libraries […] installed the Tor browser on all of their public PCs”
+following the workshops, some have even “set up Tor middle relays on
+their libraries’ networks”.
+
+It would be a shame, however, if these exciting developments were
+restricted to the state of Massachusetts. If you are a library user
+concerned about this issue, share the article with your local
+librarians. If you work in a library, contact the authors of the
+article at the addresses they provide to find out how you can offer
+privacy workshops and tools to your own community!
+
+  [4]: <a href="http://boingboing.net/2014/09/13/radical-librarianship-how-nin.html">http://boingboing.net/2014/09/13/radical-librarianship-ho...</a>
+
+Hidden service enumeration and how to prevent it
+------------------------------------------------
+
+When a Tor user wants to connect to a hidden service, their client makes
+a request over the Tor network to a relay acting as a “hidden service
+directory”, or HSDir. In return, the client receives a hidden service
+“descriptor” containing the information necessary for a connection to be
+made, including the set of Introduction Points that the hidden service
+is currently using [5].
+
+Hidden services would ideally not be discoverable unless the address is
+public or has been shared directly, but one of the weaknesses of the
+current protocol is that hidden service directories know which services
+they are serving descriptors for; this same shortcoming was an element
+of the “RELAY_EARLY” traffic confirmation attack discovered in July [6].
+Although the full set of descriptors is not published to all directories
+at once — at any given time, six directories are responsible for a
+service’s descriptor [7] — the list is rotated frequently, so it would
+not be hard for an adversary to run a relay stable enough to gain the
+HSDir flag, and harvest hidden service addresses as they are uploaded to
+it in turn.
+
+Fabio Pietrosanti informed the tor-talk mailing list [8] of an
+experiment designed to detect this enumeration of hidden services: he
+set up thirty new hidden services, keeping their addresses secret, with
+each service running a script to report any attempts at access from
+outside. As the existence of these services was not disclosed to anyone,
+any requests to the service could only come from a client that had
+obtained the address from a directory which had previously held the
+descriptor, possibly “a malicious Tor relay acting as a TorHS directory,
+with Tor’s code modified to dump from the RAM memory the TorHS list,
+then harvest them with an http client/script/crawler”. After
+approximately a month, according to Fabio’s message, a client did indeed
+try to access one of the “honeypot” services.
+
+Regular readers of Tor Weekly News will know [9] that the hidden service
+protocol is being fully redesigned, and this “next-generation” proposal
+already suggests defenses against this kind of attack [10], but (as
+ever) more eyes are needed. If you’re interested, see George Kadianakis’
+introduction to the issues facing hidden services [11]; those familiar
+with cryptography in C are welcome to review the discussion of this
+particular issue on the bug tracker [12].
+
+  [5]: <a href="https://www.torproject.org/docs/hidden-services">https://www.torproject.org/docs/hidden-services</a>
+  [6]:
+<a href="https://blog.torproject.org/blog/tor-security-advisory-relay-early-traffic-confirmation-attack">https://blog.torproject.org/blog/tor-security-advisory-re...</a>
+  [7]: <a href="https://gitweb.torproject.org/torspec.git/blob/HEAD:/rend-spec.txt#l496">https://gitweb.torproject.org/torspec.git/blob/HEAD:/rend...</a>
+  [8]: <a href="https://lists.torproject.org/pipermail/tor-talk/2014-September/034751.html">https://lists.torproject.org/pipermail/tor-talk/2014-Sept...</a>
+  [9]: <a href="https://lists.torproject.org/pipermail/tor-news/2013-December/000023.html">https://lists.torproject.org/pipermail/tor-news/2013-Dece...</a>
+ [10]: <a href="https://gitweb.torproject.org/torspec.git/blob/HEAD:/proposals/224-rend-spec-ng.txt#l571">https://gitweb.torproject.org/torspec.git/blob/HEAD:/prop...</a>
+ [11]: <a href="https://blog.torproject.org/blog/hidden-services-need-some-love">https://blog.torproject.org/blog/hidden-services-need-som...</a>
+ [12]: <a href="https://bugs.torproject.org/8106">https://bugs.torproject.org/8106</a>
+
+Miscellaneous news
+------------------
+
+Nathan Freitas announced [13] version 14.0.8.1 of Orbot, the Tor client
+for Android. The highlights of this release are an upgrade to tor
+0.2.5.7-rc (see above), which solves an issue with the “airplane mode”
+feature, as well as a number of improvements to do with transparent
+proxying. Find the full changelog and download links in Nathan’s
+message.
+
+ [13]: <a href="https://lists.mayfirst.org/pipermail/guardian-dev/2014-September/003773.html">https://lists.mayfirst.org/pipermail/guardian-dev/2014-Se...</a>
+
+Juha Nurmi described [14] the current state of ahmia.fi, the search
+engine for hidden services, following a successful Google Summer of Code
+project. The post includes notes on the design, content statistics, and
+plans for future work.
+
+ [14]: <a href="https://blog.torproject.org/blog/ahmia-search-after-gsoc-development">https://blog.torproject.org/blog/ahmia-search-after-gsoc-...</a>
+
+David Fifield called for a volunteer operating a “big fast bridge” [15]
+to take over the running of the meek [16] pluggable transport: “I want
+to do this both to diffuse trust, so that I don’t run all the
+infrastructure, and because my bridge is not especially fast and I’m not
+especially adept at performance tuning”.
+
+ [15]: <a href="https://lists.torproject.org/pipermail/tor-dev/2014-September/007482.html">https://lists.torproject.org/pipermail/tor-dev/2014-Septe...</a>
+ [16]: <a href="https://trac.torproject.org/projects/tor/wiki/doc/meek">https://trac.torproject.org/projects/tor/wiki/doc/meek</a>
+
+David also wondered why the number of FTE users appeared to dip in late
+August [17], and explored possible reasons behind the correlation in
+usage statistics for meek and Flashproxy, whose backends both run on the
+same bridge [18]. Karsten Loesing suggested [19] that the latter was
+because “we’re counting consensuses downloaded from a bridge via any
+supported transport, and then we’re attributing those downloads to
+specific transports based on what fraction of IPs connected per
+transport”.
+
+ [17]: <a href="https://lists.torproject.org/pipermail/tor-dev/2014-September/007481.html">https://lists.torproject.org/pipermail/tor-dev/2014-Septe...</a>
+ [18]: <a href="https://lists.torproject.org/pipermail/tor-dev/2014-September/007480.html">https://lists.torproject.org/pipermail/tor-dev/2014-Septe...</a>
+ [19]: <a href="https://lists.torproject.org/pipermail/tor-dev/2014-September/007483.html">https://lists.torproject.org/pipermail/tor-dev/2014-Septe...</a>
+
+Tim reported [20] on progress made towards a “fuzzer” [21] for Tor,
+based on the Tor research framework previously announced by Gareth
+Owen [22], including a draft design for the process and a list of
+patches against Tor made during development.
+
+ [20]: <a href="https://lists.torproject.org/pipermail/tor-dev/2014-September/007471.html">https://lists.torproject.org/pipermail/tor-dev/2014-Septe...</a>
+ [21]: <a href="https://en.wikipedia.org/wiki/Fuzz_testing">https://en.wikipedia.org/wiki/Fuzz_testing</a>
+ [22]: <a href="https://lists.torproject.org/pipermail/tor-dev/2014-July/007232.html">https://lists.torproject.org/pipermail/tor-dev/2014-July/...</a>
+
+Matt Pagan submitted his status report [23] for August, while Roger
+Dingledine sent out the report for SponsorF [24].
+
+ [23]: <a href="https://lists.torproject.org/pipermail/tor-reports/2014-September/000650.html">https://lists.torproject.org/pipermail/tor-reports/2014-S...</a>
+ [24]: <a href="https://lists.torproject.org/pipermail/tor-reports/2014-September/000649.html">https://lists.torproject.org/pipermail/tor-reports/2014-S...</a>
+
+Karsten Loesing posted [25] the minutes of last week’s Globe/Atlas
+developer IRC meeting.
+
+ [25]: <a href="https://lists.torproject.org/pipermail/tor-dev/2014-September/007469.html">https://lists.torproject.org/pipermail/tor-dev/2014-Septe...</a>
+
+Upcoming events
+---------------
+
+  Sep 17 13:30 UTC | little-t tor development meeting
+                   | #tor-dev, irc.oftc.net 
+                   |
+  Sep 17 16:00 UTC | Pluggable transport online meeting
+                   | #tor-dev, irc.oftc.net
+                   |
+  Sep 19 17:00 CET | OONI development meeting
+                   | #ooni, irc.oftc.net
+                   | <a href="https://lists.torproject.org/pipermail/tor-dev/2014-September/007455.html">https://lists.torproject.org/pipermail/tor-dev/2014-Septe...</a>
+                   |
+  Sep 22 18:00 UTC | Tor Browser online meeting
+                   | #tor-dev, irc.oftc.net
+                   |
+  Oct 06 08:30 PDT | Roger @ ISCI “1984+30” panel
+                   | UC Berkeley, California, USA
+                   |
+<a href="https://blog.torproject.org/events/www.icsi.berkeley.edu/icsi/events/2014/10/1984-plus-30">https://blog.torproject.org/events/www.icsi.berkeley.edu/...</a>
+
+
+This issue of Tor Weekly News has been assembled by harmony, Lunar,
+Roger Dingledine, George Kadianakis, and special.
+
+Want to continue reading TWN? Please help us create this newsletter.
+We still need more volunteers to watch the Tor community and report
+important news. Please see the project page [26], write down your
+name and subscribe to the team mailing list [27] if you want to
+get involved!
+
+ [26]: <a href="https://trac.torproject.org/projects/tor/wiki/TorWeeklyNews">https://trac.torproject.org/projects/tor/wiki/TorWeeklyNews</a>
+ [27]: <a href="https://lists.torproject.org/cgi-bin/mailman/listinfo/news-team">https://lists.torproject.org/cgi-bin/mailman/listinfo/new...</a>
+________________________________________________________________________
+
+To unsubscribe or change other options, please visit:
+<a href="https://lists.torproject.org/cgi-bin/mailman/listinfo/tor-news">https://lists.torproject.org/cgi-bin/mailman/listinfo/tor...</a>
+
+</pre>
+<hr width="60%" align="left">
+           (<a href="https://lwn.net/login?target=/Articles/612209/">Log in</a> to post comments)
+           <p>
+           
+</div> <!-- ArticleText -->
+<p><a name="Comments"></a>
+</td> <!-- MC -->
+<td class="RightColumn">
+
+</td>
+</tr></table></td>
+</tr></table><!-- endpage -->
+
+        <br clear="all">
+        <center>
+        <P>
+        <font size="-2">
+        Copyright &copy; 2014, Eklektix, Inc.<BR>
+        
+        Comments and public postings are copyrighted by their creators.<br>
+        Linux  is a registered trademark of Linus Torvalds<br>
+        </font>
+        </center>
+        
+            
+            
+            
+        </body></html>
+        

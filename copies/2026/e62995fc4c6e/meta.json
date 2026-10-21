@@ -1,11 +1,11 @@
 {
  "source_url": "https://github.com/hackingbiology/biohackit",
- "fetched_url": "https://github.com/hackingbiology/biohackit",
- "method": "live",
- "capture": null,
+ "fetched_url": "https://web.archive.org/web/20260924203751id_/https://github.com/hackingbiology/biohackit",
+ "method": "wayback",
+ "capture": "20260924203751",
  "content_type": "text/html; charset=utf-8",
- "bytes": 266884,
- "sha256": "081175519d3bcde2bb19a78a934413d80ac20b3807ece1dc8661e194fb99aa12",
+ "bytes": 267094,
+ "sha256": "c8737c2b19967bd260921b623c65aab4f7cff5a672019d99d4d80d10da10ef0c",
  "name_found": false,
- "fetched_at": "2026-09-18T02:11:34+00:00"
+ "fetched_at": "2026-10-04T19:27:57+00:00"
 }

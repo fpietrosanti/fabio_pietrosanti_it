@@ -1,0 +1,2920 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:04] Ladies and gentlemen, a very good morning.
+[00:07] Welcome to the International Whistleblowers Conference.
+[00:11] Fantastic that you're here during this day and your evening,
+[00:14] because we have quite a program.
+[00:16] My name is Farid Tabarki. I will be your host for today,
+[00:20] during the morning and the afternoon sessions,
+[00:22] and a very warm welcome to this conference.
+[00:25] It's going to be quite a conference.
+[00:26] I mean, I've been talking to some of you already this morning,
+[00:29] and I think we have quite something special over here today,
+[00:32] because we have people all over the globe
+[00:34] discussing the position of whistleblowers
+[00:36] and how we can strengthen the position of the whistleblowers,
+[00:38] because this is what this conference is about.
+[00:40] And more specifically, we're going to look at certain angles
+[00:43] when it comes to strengthening the position of whistleblowers.
+[00:46] We're going to have a look from the legal perspective,
+[00:48] from technology, from journalism.
+[00:50] I mean, I think the key issues of how we can strengthen
+[00:53] the position of whistleblowers are all going to be present here
+[00:56] during this morning session and during the afternoon session.
+[00:59] So I think it's going to be quite special, fantastic,
+[01:01] and we're willing and able to use your expertise
+[01:04] on these specific fields for each other
+[01:07] on the international level
+[01:08] and see how we can strengthen this position.
+[01:10] So a special welcome, of course,
+[01:12] to the whistleblowers who are present here.
+[01:14] I mean, we're really glad you're able
+[01:16] and willing to discuss your experience
+[01:19] in the different fields also during your workshops.
+[01:22] We really hope that you will participate
+[01:24] and share your story about what you've been going through
+[01:29] and we can make sure that from all these perspectives
+[01:31] we can strengthen the position of you in the coming years
+[01:34] and in the coming decades.
+[01:36] Some people don't like to be recognized during the pictures
+[01:40] and we're going to make during the day.
+[01:42] For this, hopefully you said it during downstairs
+[01:46] when you checked in.
+[01:47] You can get a sticker.
+[01:48] If you have the sticker very wearable and seeable
+[01:51] somewhere on your body,
+[01:52] you will make sure that any picture with you
+[01:54] with a sticker is not going to be published anywhere
+[01:57] on the Internet or in future publication.
+[02:00] So if you don't want to be recognized
+[02:02] or you don't want to be on pictures afterwards this conference,
+[02:05] please make sure you get a sticker from downstairs
+[02:07] so we'll make sure that any pictures with you
+[02:09] are not going to be publicized anywhere.
+[02:11] So to know further ado,
+[02:13] let's start with the official opening of this conference.
+[02:16] For this, one of the organizers of the conference
+[02:19] is going to do the opening for you.
+[02:21] She's the director of Netwerk Democratie.
+[02:23] Please give her a warm welcome.
+[02:26] Well, good morning everybody.
+[02:37] I'm glad that everybody is here.
+[02:39] Netwerk Democratie is one of the organizers
+[02:42] of this special event.
+[02:44] We organized it together
+[02:46] with Free Press Unlimited
+[02:48] a whistle-blowing international network,
+[02:51] Advancement Clock Allouders
+[02:53] and the Hermes Foundation for Digital Human Rights.
+[02:57] I myself, I'm a co-director
+[02:59] of Netwerk Democratie.
+[03:01] We started this foundation three years ago
+[03:03] and our aim is to bring our democracy
+[03:06] in our information society
+[03:08] with all aspects around that.
+[03:11] For example, we organized
+[03:13] an apps for democracy in our Dutch parliament
+[03:16] trying to work with the open data
+[03:19] the parliament is giving away right now.
+[03:22] And on the other hand, we did
+[03:24] together with many other partners PubLeaks last year
+[03:27] which is the whistle-blowing platform in the Netherlands.
+[03:30] And when we were working with PubLeaks
+[03:35] our attention also came of course to the whistle-blowers
+[03:39] and I think it's really important that
+[03:41] today we can join the groups of
+[03:44] journalists, developers and also lawyers and lawmakers
+[03:48] because they all have a joint responsibility
+[03:52] in protecting whistle-blowers
+[03:54] because when you see it from a democratic point of view
+[03:59] whistle-blowers are probably the most difficult citizens
+[04:02] you can protect within a society
+[04:04] and if a society can do that
+[04:07] we can go on and making it
+[04:11] we can all go on and try to make our democracy
+[04:15] more resilient and more open for whistle-blowers
+[04:20] and protect them better.
+[04:23] So I wish you all a good conference
+[04:25] and I will give back the word to Farid.
+[04:29] I'm a bit sick so I'm a bit fussy as well.
+[04:33] Thank you Mikup.
+[04:38] So what are we going to do today
+[04:40] when it comes to the programme we have?
+[04:42] During the afternoon we're going to be highly interactive
+[04:45] in two workshops we're going to be able to participate in
+[04:50] they're going to be very interactive
+[04:51] so hopefully you will share your ideas
+[04:53] your visions on the different themes
+[04:55] we're going to discuss in the afternoon
+[04:57] and in this morning session
+[04:59] we're mostly going to absorb quite some information
+[05:02] we have four great speakers for you
+[05:04] who are going to give their views
+[05:06] on the different issues we're going to discuss today
+[05:08] and all the things that we'll be discussing in this morning
+[05:11] we'll be able to do in a very interactive way
+[05:13] during the afternoon session
+[05:15] and here at 4 o'clock back in Planetary
+[05:17] we have a panel discussion
+[05:18] where also you will be able to participate
+[05:20] in the ideas you got during the workshop
+[05:22] and during the panel we have
+[05:24] in the afternoon Planetary session
+[05:26] which is mostly going to be
+[05:27] listening, absorbing and learning
+[05:29] which is also quite nice I guess
+[05:31] if you want to share some information
+[05:33] also on the internet or you want to look something up
+[05:35] we have internet connection
+[05:37] they already showed the slide of the
+[05:39] here it is
+[05:40] so if you want to be on the internet
+[05:41] this is the wifi signal and the code
+[05:44] which comes with it
+[05:45] Swäger-Zahlen with a dash
+[05:48] and then password
+[05:50] The Swäger
+[05:51] that's going to be you on the internet
+[05:53] as I told you
+[05:54] four speakers
+[05:55] first the keynote speaker
+[05:56] and then three speakers who have
+[05:58] 20 minutes to discuss the different things
+[06:00] when it comes to legal journalism
+[06:03] and technology
+[06:04] and our first speaker is a former MI5 intelligence
+[06:07] officer who left the surface
+[06:09] at the same time as David Shaler
+[06:11] her partner at the time
+[06:12] to help him blow the whistle
+[06:14] about alleged criminality
+[06:16] within the intelligence agencies
+[06:18] by doing this I have to give up the careers
+[06:20] go on the run across Europe
+[06:21] August 1997
+[06:23] leaving hiding for a year
+[06:24] and then spend the next two years
+[06:25] in exile in Paris
+[06:27] she published her first book
+[06:28] Spies, Slides and Whistleblowers
+[06:29] MI5, MI6
+[06:31] and to Shaler for a fair
+[06:33] I'm really thrilled
+[06:34] we're going to listen to her
+[06:35] for the keynote
+[06:36] please give her a very warm welcome
+[06:38] Annie Machon
+[06:39] well thank you for read
+[06:47] for that very warm welcome
+[06:48] and thank you to the organisers
+[06:50] for pulling together
+[06:51] I think it's probably a unique event
+[06:53] at least in my experience
+[06:55] where we can support
+[06:56] and protect whistleblowers
+[06:58] and also bring together
+[06:59] the vital communities
+[07:00] that can help them live
+[07:02] their lives and survive the process
+[07:04] so I hope we find a great deal
+[07:06] of common ground today
+[07:07] and we can evolve new methods
+[07:08] to protect the whistleblowers
+[07:09] because they need it
+[07:10] they are indeed
+[07:11] in this mad modern world of ours
+[07:13] the regulators of last resort
+[07:15] to start with though
+[07:16] I just want to update
+[07:17] a very old
+[07:18] and very favourite poem of mine
+[07:20] many of you will probably be aware
+[07:21] of the poem by
+[07:22] Pastor Martin Niemuller
+[07:24] about Germany's slide
+[07:25] into fascism
+[07:26] and totalitarianism
+[07:27] in the 1930s
+[07:28] but I think it needs an update
+[07:30] so I want to start with this
+[07:32] first they came for the Muslims
+[07:34] after 9-11
+[07:35] but I was not a Muslim
+[07:36] so I did not speak up
+[07:37] then they came
+[07:38] for the domestic extremists
+[07:40] but I was not a hacktivist
+[07:41] so I did not speak up
+[07:43] then they came
+[07:44] for the whistleblowers
+[07:45] but I was not a whistleblower
+[07:46] so I did not speak up
+[07:47] then they came
+[07:48] for the journalists
+[07:49] and the lawyers
+[07:50] but I was neither of those
+[07:51] so I did not speak up
+[07:53] and when they came for me
+[07:54] there was nobody left to speak up for me
+[07:56] and I think
+[07:57] I think
+[07:58] that this is the situation
+[07:59] we are now in
+[08:00] and this is why it's great
+[08:02] to have all these different communities
+[08:03] come together
+[08:04] to learn and provide support
+[08:06] and develop tools
+[08:07] to protect all of us
+[08:08] in this mad post-Snowden
+[08:10] panoptic and surveillance world
+[08:12] where all our rights
+[08:13] across the planet
+[08:14] are being eroded
+[08:15] and as I said
+[08:16] whistleblowers are indeed
+[08:17] the last resort
+[08:18] one of the last chances
+[08:19] we have to push back
+[08:20] against this
+[08:21] developing totalitarian system
+[08:23] and this is what we're here to celebrate
+[08:25] I've had so many years
+[08:27] of experience in this field
+[08:29] and had the pleasure of working
+[08:30] and trying to support
+[08:31] so many whistleblowers
+[08:32] from so many fields
+[08:33] that I can see very clearly
+[08:35] the pressures
+[08:36] and the trajectory
+[08:37] that they all have to go through
+[08:39] of course most whistleblowers
+[08:40] come out of fields
+[08:41] such as health
+[08:42] or finance
+[08:43] or industry
+[08:44] and they face appalling
+[08:46] consequences
+[08:47] for the courage
+[08:48] of their actions
+[08:49] usually they will be
+[08:50] sacked
+[08:51] or they will be moved sideways
+[08:52] or they will be gagged
+[08:54] they will lose their professional status
+[08:56] their very means
+[08:57] of earning a living
+[08:58] and paying the mortgage
+[09:00] often the stress
+[09:01] of years of trying to fight
+[09:02] for the truth to come out
+[09:03] will also put an incredible strain
+[09:05] on their relationships
+[09:06] and their families
+[09:07] and they risk losing that too
+[09:09] and this is terrible
+[09:10] and there are certain provisions
+[09:11] in many European countries
+[09:12] to try and protect
+[09:13] these sort of whistleblowers
+[09:15] but I've seen again
+[09:16] time and time again
+[09:18] that these provisions
+[09:19] are not strong enough
+[09:20] and that they can be played
+[09:21] and gamed by the employers
+[09:23] however of course
+[09:25] in the year after Edward Snowden
+[09:27] came forward
+[09:28] everyone is also very aware
+[09:29] very aware of the high level
+[09:31] whistleblowers coming out
+[09:32] of central government
+[09:33] and the military
+[09:34] and intelligence
+[09:35] and they risk all that too
+[09:37] but then of course
+[09:38] they also risk
+[09:39] spending the rest of their lives
+[09:41] in prison
+[09:42] we've seen this
+[09:43] with poor Chelsea Manning
+[09:44] we've seen the WikiLeaks
+[09:46] publishing outfit
+[09:48] being Stymied
+[09:49] and Julian Assange
+[09:50] now locked up
+[09:51] in the Ecuadorian Embassy
+[09:52] we've seen a whole range
+[09:53] of other intelligence whistleblowers
+[09:54] emerge from that environment
+[09:56] in America
+[09:57] and face prison
+[09:58] so for example
+[09:59] Thomas Drake
+[10:00] another NSA whistleblower
+[10:02] went through all the approved channels
+[10:04] and yet he was still threatened
+[10:05] with 35 years in prison
+[10:07] we currently have
+[10:08] a former CIA officer
+[10:10] John Curriacou
+[10:11] serving three years in prison
+[10:12] for exposing the fact
+[10:13] that the CIA uses
+[10:15] a torture program
+[10:16] and yet have the torturers
+[10:17] been imprisoned?
+[10:18] No
+[10:19] So this is what we're seeing
+[10:20] time and time again
+[10:21] and in fact
+[10:22] I did have some personal
+[10:23] experience of this
+[10:24] as was mentioned
+[10:25] in the introduction
+[10:26] where in the 1990s
+[10:28] and this is going way back
+[10:29] back to the analog era
+[10:31] I worked for MI5
+[10:33] with David Shaler
+[10:34] we were there for six years
+[10:35] and this was probably
+[10:36] the only marginally golden
+[10:37] ethical era
+[10:38] of the UK spies
+[10:39] hundred years existence
+[10:41] because for the first time
+[10:42] in 1989
+[10:43] they had been put
+[10:44] on illegal footing
+[10:45] they were now
+[10:46] expected to obey the law
+[10:47] and this of course
+[10:48] was pre-911
+[10:49] when the intelligence gloves
+[10:50] came off
+[10:51] and yet in that time
+[10:53] despite the fact
+[10:54] that they were working
+[10:55] within the law
+[10:56] supposedly
+[10:57] and despite the fact
+[10:58] that we only worked there
+[10:59] for six years
+[11:00] we saw so many things
+[11:01] going wrong
+[11:02] that we felt compelled
+[11:03] to go public
+[11:04] and to blow the whistle
+[11:05] about this series of crimes
+[11:06] and it was sort of incremental
+[11:08] there were a whole range
+[11:09] of different things
+[11:10] that we had concerns about
+[11:11] starting off with
+[11:12] files held on
+[11:13] our government ministers
+[11:14] by the spy agencies
+[11:16] the brain ministers
+[11:17] who are supposed to be
+[11:18] the political masters
+[11:19] of those spy agencies
+[11:20] by the way
+[11:21] we saw illegal telephone taps
+[11:23] on journalists
+[11:24] no change there
+[11:25] we saw innocent people
+[11:27] being put in prison
+[11:28] because MI5
+[11:29] decided to withhold vital evidence
+[11:31] during their trials
+[11:33] we saw
+[11:34] bombs that could
+[11:35] and should have been prevented
+[11:36] on UK streets
+[11:37] being planted by
+[11:38] the provisional IRA
+[11:40] and MI5 could have stopped them
+[11:42] but they didn't
+[11:43] they made mistakes
+[11:44] and then crucially
+[11:45] they lied to government
+[11:46] to cover up their mistakes
+[11:48] and then the final straw
+[11:50] that broke the camel's back
+[11:51] the case that made us quit
+[11:52] was MI6
+[11:53] our international intelligence agencies
+[11:56] funding an Islamic extremist group
+[11:58] in Libya
+[11:59] in 1996
+[12:00] to try and assassinate
+[12:01] Colonel Gaddafi
+[12:03] now
+[12:04] this operation
+[12:05] was illegal under UK law
+[12:07] it was reckless
+[12:08] it was immoral
+[12:09] and it went wrong
+[12:10] crucially in 1996
+[12:12] because Colonel Gaddafi
+[12:13] survived to be assassinated
+[12:14] another day
+[12:15] by the very same groups
+[12:17] but we hadn't signed up
+[12:18] to the British intelligence community
+[12:20] to become involved
+[12:21] in what was essentially
+[12:22] state sponsored terrorism
+[12:24] so this is why we resigned
+[12:25] and we blew the whistle
+[12:27] now this had consequences of course
+[12:29] we knew the law in the UK
+[12:31] there is something called
+[12:32] the official secrets act
+[12:33] that makes it a crime
+[12:34] to speak to anyone
+[12:35] outside your own agency
+[12:37] about what you've witnessed there
+[12:38] and if you break that law
+[12:40] you go across that clear bright line
+[12:42] you are the one risking prison
+[12:44] now in those days
+[12:45] to this day in the UK
+[12:46] you only risk two years in prison
+[12:47] but that's bad enough
+[12:48] it's not like 35 years in prison
+[12:50] as the Americans are doing
+[12:51] in their war on whistle blowers
+[12:53] but realising that we did risk
+[12:55] going to prison
+[12:56] we decided to go preemptively
+[12:58] on the run
+[12:59] before the story broke
+[13:00] in the British media
+[13:01] literally 12 hours ahead
+[13:02] of the newspapers hitting the street
+[13:04] we flew out
+[13:05] and indeed we flew to Amsterdam
+[13:07] strangely enough
+[13:08] a good refuge for whistle blowers
+[13:09] before going on the run
+[13:10] for a month around Europe
+[13:12] and then having to live in hiding
+[13:14] for a year
+[13:15] in a very remote farmhouse in France
+[13:17] and face arrest
+[13:18] I was arrested
+[13:19] friends and family were arrested around us
+[13:22] student activists who supported us were arrested
+[13:24] and indeed many journalists
+[13:26] were arrested
+[13:27] and threatened with prosecution
+[13:29] for daring to report our disclosures
+[13:31] in fact some of them were convicted
+[13:33] so the ripples went out and out and out
+[13:35] and David Shaler
+[13:36] the key whistleblower
+[13:37] went to prison
+[13:38] not once but twice
+[13:40] first of all when the British
+[13:41] failed to extradite him from Paris
+[13:43] in 1998
+[13:44] and secondly after he had returned
+[13:46] voluntarily in the year 2000
+[13:48] to stand trial
+[13:49] to face the music
+[13:51] as the Americans are now demanding
+[13:52] Edward Snowden should do
+[13:54] and of course he went through a rigged trial
+[13:57] and of course he was found guilty
+[13:59] and of course he went back to prison
+[14:01] so that was a very high price
+[14:03] to pay for exposing the crimes of others
+[14:05] and those others have never to this day
+[14:07] been interviewed or arrested
+[14:09] or charged or convicted
+[14:11] and I see this time and time again
+[14:15] with whistleblowers
+[14:16] that they will be victimised
+[14:17] and it's really a way of how can we protect them
+[14:19] particularly now because
+[14:21] as I mentioned before
+[14:23] in the revelations from Edward Snowden
+[14:25] we know now that we are all living
+[14:27] under the baleful surveillance glare
+[14:29] of the NSA
+[14:31] the GCHQ
+[14:32] and all the other alphabet soup agencies
+[14:34] across Europe
+[14:35] all our countries were affected
+[14:37] and this has implications
+[14:39] not just for our very democracy
+[14:41] and that is very fundamental as well
+[14:43] because if we do not have privacy in our communications
+[14:45] we do not have a sense
+[14:47] that we can read and write
+[14:49] and watch things on the internet
+[14:51] and plan things
+[14:52] and have relationships on the internet
+[14:53] in privacy
+[14:54] then we start to self censor
+[14:56] we no longer
+[14:58] can be fully active
+[15:00] and fully participatory citizens
+[15:02] within our countries
+[15:03] and that is indeed
+[15:04] the beginning of the slide
+[15:06] of the humanitarian regime
+[15:08] is a bit like the book burnings in Nazi Germany
+[15:10] where you can't read certain material
+[15:12] you can't write certain material
+[15:14] you have the presses smashed up
+[15:16] and I know what it's like to live without privacy as well
+[15:18] because during the whistleblower years
+[15:20] of course we were being investigated
+[15:22] of course our homes were bugged
+[15:24] of course our communications were bugged
+[15:26] some of our friends were turned against us
+[15:29] and made to report back on us
+[15:31] so we felt we had no privacy
+[15:33] whatsoever
+[15:34] and I can tell you it is a very
+[15:36] corrosive feeling to live under
+[15:38] but now of course thanks to Edward Snowden
+[15:40] we all live like that
+[15:42] not just the whistleblowers
+[15:44] so there are various ways we can try
+[15:46] and push back against this sort of system
+[15:48] as I said whistleblowers are the last
+[15:50] regulators of last resort
+[15:52] and we need to ensure
+[15:54] their survival
+[15:55] we need to ensure that they are protected
+[15:57] we need to ensure
+[15:58] that they can go on to live
+[16:00] full and productive and happy lives
+[16:02] rather than being destroyed
+[16:04] and what we see time and time again
+[16:06] is the authorities pushing back
+[16:08] so hard and so fast
+[16:10] just to crush individual whistleblowers
+[16:12] to deter future whistleblowers
+[16:14] now I don't think this is working
+[16:16] so well for them anymore
+[16:18] because even as Chelsea Manning's trial
+[16:20] started last year
+[16:21] even as she was facing
+[16:23] 35 years to life in prison
+[16:25] for exposing the war crimes of the US
+[16:28] at that very time
+[16:30] young whistleblowers coming forward
+[16:32] Edward Snowden
+[16:33] and I think with help
+[16:35] and with increased technical capabilities
+[16:37] and protections
+[16:38] we can encourage more to come out as well
+[16:40] and I think that is crucial
+[16:42] so what are the sort of areas that we can help with
+[16:45] I'm aware we have whistleblowers in the audience
+[16:47] I'm also aware we have journalists
+[16:49] and lawyers
+[16:50] and activists
+[16:52] and technologists
+[16:53] and I think this is a fabulous chance
+[16:55] to bring all these people together
+[16:56] to cross-pollinate what we need to do
+[16:58] so just looking at some of these aspects
+[17:00] from my experience
+[17:02] I can see very clearly how the mainstream media
+[17:05] can be played
+[17:06] can be controlled
+[17:08] by the government and intelligence spin masters
+[17:11] and in the UK particularly
+[17:13] they are past masters at this
+[17:15] we have a situation where the mainstream media
+[17:17] is controlled both by soft power
+[17:19] and hard power
+[17:20] the soft power is when
+[17:22] the spies or government spin people
+[17:25] approach journalists and say
+[17:27] come and help us
+[17:28] we'll give you stories
+[17:29] we will give you scoops and news
+[17:31] and you'll get the headlines you crave
+[17:33] and the journalist can
+[17:35] be welcomed into this charm circle
+[17:37] this secret circle
+[17:38] it's very seductive for journalists
+[17:40] and then they become dependent
+[17:42] should we say
+[17:43] they become news junkies
+[17:44] dependent on the information
+[17:46] coming out of these very secretive
+[17:48] very centralized organizations
+[17:50] then of course the pressure
+[17:52] can be ramped up on them
+[17:53] well we've been helping you
+[17:55] now can you help us
+[17:56] if you hear of a story
+[17:58] that your media outlet might be working on
+[18:00] that might be damaging to us
+[18:01] just tip us off
+[18:02] we can stop it
+[18:03] we can spike it
+[18:04] we can censor it
+[18:05] and then of course we see
+[18:07] the linkages going up the chain of command
+[18:09] where editors
+[18:11] and senior spies get together
+[18:13] where proprietors of media organizations
+[18:15] and top spies get together
+[18:17] and whine and dine each other
+[18:19] where they can say
+[18:20] over a long lunch
+[18:21] with a very good claret
+[18:22] oh you don't want to talk about that
+[18:24] whistleblower's stories
+[18:25] he's a fantasist
+[18:26] she's got grievances
+[18:27] they're too junior to know
+[18:28] what they're talking about
+[18:29] they were sacked
+[18:30] all these slurs are used repeatedly
+[18:33] and it's very easy
+[18:35] for this high level interaction
+[18:37] to then trickle down a media organization
+[18:39] and spike a worthwhile
+[18:41] and terribly important story
+[18:43] and this isn't just with the spies
+[18:45] I mean we've seen this as well
+[18:46] with the news international
+[18:47] phone hacking scandal in the UK
+[18:49] where celebrities were having their
+[18:51] phone messages being hacked by journalists
+[18:53] and the collusion went all the way to the top
+[18:55] between Rupert Murdoch
+[18:56] and the UK government
+[18:58] between the editors
+[18:59] and the UK government
+[19:00] and the top police
+[19:02] so this goes on time and time again
+[19:04] and that's just the soft power
+[19:05] to control the media
+[19:06] then in the UK particularly
+[19:08] we have a whole battery of laws
+[19:10] that can be used to stifle
+[19:12] and spike stories
+[19:15] so there are injunctions
+[19:18] there are super injunctions
+[19:19] where the media can't even say
+[19:20] that they've been gagged
+[19:22] there are government versions of that
+[19:24] PII's
+[19:25] there are libel laws
+[19:27] and we've been the centre of libel tourism
+[19:29] for many many years in the UK
+[19:31] there are counter terrorism laws
+[19:34] which can be used to stop
+[19:36] the legitimate work of journalists
+[19:38] and have been used to stop that work
+[19:40] and of course in the UK
+[19:43] our secrecy laws can be used against the media
+[19:45] to stop it doing its job
+[19:48] so the official secrets act
+[19:49] that not just in prisons whistleblowers
+[19:51] can also be used against journalists
+[19:53] so if a journalist covers a story
+[19:55] covered protected by the official secrets act
+[19:57] they too will face two years in prison
+[20:00] now this is even more draconian than Russia
+[20:03] where the Russian secrecy laws
+[20:05] say that whistleblowers sure will be prosecuted
+[20:07] and go to prison
+[20:08] but the journalists are officially protected
+[20:12] well that's the theory
+[20:13] of course then they run the risk
+[20:14] of being shot on their doorstep
+[20:15] but that's a whole different story
+[20:18] so there's all these powers
+[20:20] to control the mainstream media
+[20:21] and this is why I think more and more
+[20:23] whistleblowers are now looking at other platforms
+[20:25] and this is why when I first heard about
+[20:27] the WikiLeaks model a few years ago
+[20:29] my only sure response was fabulous
+[20:31] this gets away from all these potential blockages
+[20:33] that can be shoved onto
+[20:35] and imposed onto the mainstream media
+[20:38] and indeed that is the case
+[20:40] and I'm so pleased to see other
+[20:42] leak type platforms being developed
+[20:45] and being used
+[20:46] in order to make sure that whistleblowers
+[20:48] will no longer be stifled
+[20:49] and I think that's one of the things that
+[20:51] really needs to be developed further
+[20:53] as far and as fast as we can take it
+[20:55] because it is so important
+[20:57] to have this free flow of information
+[20:58] for a healthy democracy
+[21:00] but it's not just whistleblowers
+[21:02] who get victimised either
+[21:03] I mean lawyers now need to think along these terms
+[21:06] because I've known for years
+[21:08] I mean one of the things that we blew the whistle on
+[21:10] was the fact that the concept of legal privilege
+[21:12] in the UK doesn't exist
+[21:15] there are some very famous human rights lawyers
+[21:18] particularly a wonderful woman called Gareth Pierce
+[21:20] who takes on all the most difficult cases
+[21:22] including ours
+[21:24] and she was bugged
+[21:26] when she was going in to see her clients
+[21:28] at top security prisons
+[21:30] and there have been other cases where
+[21:32] MPs or other lawyers go into prisons
+[21:34] to meet their clients
+[21:36] and bugs have been found under the tables
+[21:38] and this is all legal
+[21:40] because if the prison gives permission
+[21:42] for their property to be bugged
+[21:44] then that's fine it can be done
+[21:46] so this idea even
+[21:48] pre the surveillance of the internet
+[21:50] pre the endemic interception
+[21:52] of our communications
+[21:54] even then privilege did not exist
+[21:56] but now of course
+[21:58] if you are a lawyer and you have sensitive clients
+[22:00] coming through to you saying
+[22:02] I've got all this evidence wrongdoing
+[22:04] I want to expose it
+[22:06] what would be the risks I'm going to take
+[22:08] can you give me legal advice up front
+[22:10] then even that of course
+[22:12] can be intercepted and can be used
+[22:14] both against the whistleblower
+[22:16] and potentially the lawyer
+[22:18] and we've seen them being interfered with in the real world too
+[22:20] Jennifer Robinson
+[22:22] one of the lawyers for Julian Assange
+[22:24] and WikiLeaks
+[22:26] was put on a no fly list when she was trying to go home
+[22:28] to her native country Australia a few years ago
+[22:30] and more recently
+[22:32] Jessalyn Radak runs the Government Accountability
+[22:34] Project in the US to help
+[22:36] so many whistleblowers coming forward
+[22:38] and she has had to adopt cold war spy tactics
+[22:40] to protect them
+[22:42] so she flew into the UK only a few months ago
+[22:44] and was pulled aside at immigration
+[22:46] and given the nth degree
+[22:48] of security checks
+[22:50] she was stopped and she was
+[22:52] questioned about why she was entering the UK
+[22:54] well she was coming through for an award ceremony
+[22:56] so this was
+[22:58] overt pressure this is to
+[23:00] show the lawyers that they are being
+[23:02] watched and people know what they're up to
+[23:04] and to try and pressurize them
+[23:06] and scare them
+[23:08] so what can they do
+[23:10] for journalists who want to work with
+[23:12] high end whistleblowers
+[23:14] for lawyers who need to give them advice
+[23:16] to be able to speak freely
+[23:18] we need decent security
+[23:20] and this seems like an impossibility
+[23:22] now every time we hear some new horror
+[23:24] emerging from the Snowden Disclosures
+[23:26] about the sheer scale
+[23:28] depth and breadth of the interception
+[23:30] technologies that are now
+[23:32] available to the spies
+[23:36] and it's not just about
+[23:38] they can find stuff through social networks
+[23:40] it's not just about the fact that
+[23:42] GCHQ can mainline off the fibre optic cables
+[23:44] coming in from America
+[23:46] between America and Europe
+[23:48] it's not just all the other
+[23:50] software hacks and bugs and
+[23:52] intercepts that they can use
+[23:54] as we heard at the CCC in Hamburg after Christmas
+[23:56] they also now are bugging
+[23:58] the hardware of new
+[24:00] computers, new phones that are being made
+[24:04] and in fact I think there was even one story
+[24:06] about how we can remotely
+[24:08] microwaves to bounce off our computer screens
+[24:10] and read what we're writing
+[24:12] from a remote distance
+[24:14] or something like that
+[24:16] so we're in this dystopia
+[24:18] you can be as safe as you want with your software
+[24:20] you can be as protective as you want to be
+[24:22] as you can try to be
+[24:24] even with your hardware but they will find ways around it
+[24:26] so yes
+[24:28] work with the geek community because I have faith
+[24:30] in them that they can
+[24:32] fast and quickly
+[24:34] the lumbering might of our spy agencies
+[24:36] quite often
+[24:38] I have faith that they can indeed help save the world
+[24:40] help save journalists, help save lawyers
+[24:42] and help save whistleblowers
+[24:44] but the other aspect I would suggest to all of you
+[24:46] across all these communities
+[24:48] is to think back to the old
+[24:50] Cold War spy type
+[24:52] methodologies that you can use
+[24:54] to meet a source securely
+[24:56] so I think there is a
+[24:58] tendency within certainly the high-end geek
+[25:00] community to have an overreliance
+[25:02] on their skills with technology
+[25:04] I think there also needs to be
+[25:06] awareness of meeting person to person
+[25:08] of running your whistleblower
+[25:10] as perhaps MI5 or MI6
+[25:12] would have run their intelligence asset
+[25:14] a couple of decades ago in Russia
+[25:16] you have to be ultra-security
+[25:18] conscious
+[25:20] so for example
+[25:22] you meet in cash paid hotel rooms
+[25:24] a different one every time
+[25:26] you have burner phones that you only use for each other
+[25:28] you might even have burner notebooks
+[25:30] only each other
+[25:32] you always set up the future meetings
+[25:34] at the existing one so you don't have to communicate
+[25:36] where you're going to be
+[25:38] there is no chance that your location can be bugged
+[25:40] ahead of the meeting
+[25:42] you don't speak around your workspace
+[25:44] at work if you're a journalist or a lawyer
+[25:46] because there might be a bug in your computer
+[25:48] you never use your regular
+[25:50] hardware to communicate
+[25:52] with your whistleblower
+[25:54] you don't speak in your home
+[25:56] you don't speak in your car
+[25:58] and you are aware even if you go and sit on a park bench
+[26:00] with a bit of chalk
+[26:02] on the marking it and things
+[26:04] even there you can be picked up
+[26:06] so it's getting into this mentality
+[26:08] and all I can suggest is
+[26:10] I'm very happy to help with some of that old
+[26:12] school spy stuff
+[26:14] otherwise I seriously recommend
+[26:16] reading John Licare and Len Dayton
+[26:18] you'll get a lot of useful hints
+[26:22] so I think we need to think about all these sort of aspects
+[26:24] and see security
+[26:26] of whistleblowers and the protection of whistleblowers
+[26:28] in a sort of holistic way
+[26:30] the holistic round
+[26:32] because in this world
+[26:34] what are we looking at at the moment
+[26:36] not just the interception of all our communications
+[26:38] with the
+[26:40] copyright wars
+[26:42] and the pressure from mega corporations
+[26:44] the corporatists on our national governments
+[26:46] and international institutions
+[26:48] to pull together
+[26:50] international draft treaties
+[26:52] undemocratic treaties that our representatives
+[26:54] can't even read before they are forced to sign
+[26:56] giving away all our citizens' rights
+[26:58] under some of these treaties
+[27:00] these copyright wars
+[27:02] we are seeing this control of the information
+[27:04] that we are allowed to send
+[27:06] as well as the control of
+[27:08] the reading of what we do send
+[27:10] so at the moment this sort of dual pressure
+[27:12] from state surveillance
+[27:14] international state surveillance
+[27:16] and international corporatist interests
+[27:18] is getting our freedom to communicate
+[27:20] in this ghastly-pinson movement
+[27:22] that is what we have to work around
+[27:24] so we are in a world of dystopic surveillance
+[27:27] we are also in a world of course
+[27:29] post-911
+[27:31] where international law is flouted, ignored
+[27:33] where Tony Blair
+[27:35] our lovely ex-prime minister
+[27:37] and the Middle East peace envoy
+[27:39] can now call for yet more military invasions
+[27:41] in Iraq and Syria
+[27:43] in places like that
+[27:45] where we have
+[27:47] all our civil liberties stripped away
+[27:49] in all of our countries
+[27:51] and where we have torture
+[27:53] routinely
+[27:55] and extradition
+[27:57] which of course is kidnapping by any other name
+[27:59] where people can be snatched off the streets
+[28:01] across Europe and taken off to black prisons
+[28:03] and we have
+[28:05] CIA presidentially approved
+[28:07] kill lists
+[28:09] which are lists drawn up every week
+[28:11] based on vague intelligence
+[28:13] and the president signs this
+[28:15] every week on a Tuesday morning
+[28:17] and once your name is on that list
+[28:19] and it has been signed
+[28:21] you can be assassinated by drone strike
+[28:23] or other means anywhere in the world
+[28:27] so we are living in
+[28:29] difficult times
+[28:31] we are living in something
+[28:33] that George Orwell cannot even begin to envisage
+[28:35] in his worst imaginings
+[28:37] when he was writing in 1984
+[28:39] but we are also living in times
+[28:41] where there is hope
+[28:43] where with the awareness
+[28:45] that brave whistleblowers bring to us
+[28:47] about what we are facing
+[28:49] we are fighting chance to push back
+[28:51] to develop tools
+[28:53] to protect our privacy
+[28:55] to protect our democracies
+[28:57] to protect our very ways of life
+[28:59] a chance to draw a line in the sand
+[29:01] draw a halt to this rapid slide
+[29:03] towards totalitarianism
+[29:05] we are now looking at the new fascism
+[29:07] if you use Benito Mussolini's
+[29:09] old definition
+[29:11] which was the merger of the corporate
+[29:13] and the state
+[29:15] and I think what Edward Snowden laid bare last year
+[29:17] is how far that process has gone
+[29:19] we are living under a global fascism
+[29:21] so his disclosures
+[29:23] and the disclosures of so many other whistleblowers
+[29:25] have given us a fighting chance
+[29:27] we know what we are up against
+[29:29] and we can take steps to do that
+[29:31] but of course we need to remember
+[29:33] it is the whistleblowers
+[29:35] who pay the highest price
+[29:37] in this process
+[29:39] journalists may be targeted
+[29:41] some of them may be imprisoned
+[29:43] like Barrett Brown or David Miranda
+[29:45] who was trying to go through London he throw last year
+[29:47] but they very rarely
+[29:49] persecuted to the same degree as the whistleblower
+[29:51] similarly with the lawyers
+[29:53] there are certain degrees of protection
+[29:55] they might not always hold now
+[29:57] you can't take them for granted
+[29:59] but it is the whistleblower that will pay the highest price
+[30:01] and indeed some whistleblowers
+[30:03] coming out of the states have been threatened
+[30:05] with having to pay the ultimate price
+[30:07] remember the calls from some US politicians
+[30:09] to assassinate Snowden
+[30:11] assassinate Manning
+[30:13] I want to welcome you all here
+[30:15] I'm so excited to have the opportunity
+[30:17] to see all these different groups come together
+[30:19] and let's create something great
+[30:21] let's take this forward, create platforms
+[30:23] create support networks for the whistleblowers
+[30:25] to give them a fighting chance
+[30:27] during the process
+[30:29] and also a chance to see
+[30:31] that there is life after the process
+[30:33] that having stood up
+[30:35] and followed the consciences
+[30:37] they have risked a lot
+[30:39] but they will survive
+[30:41] in a better place
+[30:43] so welcome everybody, thank you
+[30:53] thank you so much
+[30:55] for your introduction
+[30:57] your keynote speech for this conference
+[30:59] the regulators of last resort
+[31:01] is how you called yourself
+[31:03] and the whistleblowers
+[31:05] and you gave us a great perspective
+[31:07] on the things you are seeing
+[31:09] and the emergency that we're in
+[31:11] when it comes to this discussion
+[31:13] so a very timely conference indeed
+[31:15] we're going to have three more speakers
+[31:17] from three different perspectives
+[31:19] also sets by Mika and by Ani
+[31:21] we're going to look from the legal perspective
+[31:23] from a journalistic perspective
+[31:25] from the perspective of technology
+[31:27] when it comes to strengthening the position
+[31:29] of whistleblowers, what's currently happening
+[31:31] and what are the possibilities
+[31:33] from these three angles
+[31:35] when it comes to strengthening their position
+[31:37] three speakers, I will announce the first speaker
+[31:39] he's the co-founder of the Hermes Centre
+[31:41] for Transparency and Digital Human Rights
+[31:43] also one of the partners here during the conference
+[31:45] involved in the design and implementation
+[31:47] of data privacy software
+[31:49] with a focus on the protection
+[31:51] of the freedom of expression
+[31:53] of the freedom of expression
+[31:55] actively engaged in global leaks
+[31:57] tour to web projects
+[31:59] and as an ethical hacker
+[32:01] privacy advocate participating in initiatives
+[32:03] like Sikurezza.org
+[32:05] Winston Smith and Mitra holographics
+[32:07] please give him a warm welcome
+[32:09] Fabio Pietro Santi
+[32:11] yeah
+[32:21] so
+[32:25] thank you for coming
+[32:27] in this small presentation
+[32:29] we'll try to be very short
+[32:31] I would like to give
+[32:33] a different point of view
+[32:35] on the relationship
+[32:37] with how technology
+[32:39] can empower whistleblowing
+[32:41] in
+[32:43] let's say
+[32:45] in a way that usually is not so
+[32:47] by who know
+[32:49] whistleblowing only from the media
+[32:51] most of us know
+[32:53] about whistleblowing
+[32:55] mostly from the big media hive
+[32:57] of the big scandal of the past few years
+[32:59] but
+[33:01] working on the whistleblowing technology
+[33:03] since 2010
+[33:05] let me say
+[33:07] knowing this environment a bit
+[33:09] this environment where there are the journalists
+[33:11] where there are the policy advocates
+[33:13] where there are the NGOs supporting the whistleblower
+[33:15] through hotlines
+[33:17] as we know
+[33:19] enable
+[33:21] to bring some social changes
+[33:23] but are just tools
+[33:25] we have some example of technologies
+[33:27] that are not that
+[33:29] super particular technologies
+[33:31] such as WordPress
+[33:33] that enable society
+[33:35] to take part of the public debate
+[33:37] in blogging
+[33:39] and informing the public
+[33:41] and we have mobile phones that completely
+[33:43] change the way that
+[33:45] communities
+[33:47] especially in rural places
+[33:49] such as the global south
+[33:51] was able to engage
+[33:53] for the public goods
+[33:55] or to fight for their own rights
+[33:57] for whistleblowing
+[33:59] is not something different
+[34:01] because whistleblowing technology
+[34:03] are something that enable to
+[34:05] make social changes
+[34:07] obviously there are people that make social changes
+[34:09] technology is only a tool
+[34:11] that is being used by people
+[34:13] that enable civil society player
+[34:15] I always used to say civil society player
+[34:17] mostly but we also have
+[34:19] the governments that using whistleblowing technologies
+[34:21] to transform
+[34:23] information into action
+[34:25] that's an important point
+[34:27] any kind of whistleblowing initiative
+[34:29] that are using a technology platform
+[34:31] or just a phone to pick up
+[34:33] a call from a
+[34:35] worried whistleblower that would like to have an assistance
+[34:37] is listening to the information
+[34:39] that the whistleblower have
+[34:41] is interested
+[34:43] and try to take an action based on this information
+[34:45] the action can be very different
+[34:47] we have a common misunderstanding
+[34:49] that the action is only
+[34:51] making a scoop on a news media
+[34:53] but that's not the case
+[34:55] I would like just to show
+[34:57] very different way of using
+[34:59] whistleblowing technology is very different context
+[35:01] that's an overview
+[35:03] of very different
+[35:05] civil society players
+[35:07] that are using technology
+[35:09] within the whistleblowing environment
+[35:11] we have a website
+[35:13] of a civil society activist
+[35:15] initiative like Wigelix
+[35:17] it's a civil society player
+[35:19] that engaged early
+[35:21] 2000 on doing
+[35:23] activist initiative with using whistleblowing
+[35:25] we have a wild licks
+[35:27] Andrea Krosta is here
+[35:29] he will speak about
+[35:31] a wildlife crime activist
+[35:33] Vladimir is here
+[35:35] on fighting corruption down in Serbia
+[35:37] Petralla
+[35:39] Pedro is here
+[35:41] working on the Spanish war for transparency purposes
+[35:43] but we also have the media
+[35:45] media outlets
+[35:47] so business organization
+[35:49] that also take an important role
+[35:51] in the democratic debate
+[35:53] that are using
+[35:55] whistleblowing technologies
+[35:57] to engage with whistleblowers
+[35:59] that is Forbes, The Guardian
+[36:01] Washington Post, Algae Zero
+[36:03] Transparency Unit
+[36:05] are using whistleblowing technologies
+[36:07] to engage with the
+[36:09] sources then there is another
+[36:11] topic of who is a whistleblower
+[36:13] and who is of sources
+[36:15] but this is something that
+[36:17] in the talk of today and workshop
+[36:19] it probably will be a topic to discuss
+[36:21] more in that there are investigative journalists group
+[36:23] investigative journalists group
+[36:25] are not media outlets
+[36:27] they don't have
+[36:29] a goal of profit
+[36:31] they don't need to feed their balance
+[36:33] they are more let's say
+[36:35] independent
+[36:37] usually work more cross-border
+[36:39] like Majerlix, Akos here
+[36:41] representing Atlatso from an investigative
+[36:43] journalist group in Hungary
+[36:45] Irpilix, an Italian investigative reporting project
+[36:47] or ExpoLix
+[36:49] they are using whistleblowing technologies to engage
+[36:51] for very specific purpose
+[36:53] of public interest
+[36:55] no money involved here
+[36:57] and there are also completely different approach
+[36:59] like website taking action
+[37:01] on petty corruption
+[37:03] so there are countries
+[37:05] where in order to renew
+[37:07] your passport you have to pay a bribe
+[37:09] in order to sign up
+[37:11] your children to the school you have to pay a bribe
+[37:13] this is called petty corruption
+[37:15] it's the worst things
+[37:17] and in India I paid a bribe
+[37:19] made
+[37:21] an initiative to collect a huge amount
+[37:23] of tip and submission for
+[37:25] whistleblowers to publish
+[37:27] to engage the society in working on that
+[37:29] and I paid a bribe
+[37:31] as became the
+[37:33] most important source
+[37:35] for corruption in India
+[37:37] the government is working with I paid a bribe
+[37:39] because they have the strongest analytics and data
+[37:41] about the corruption phenomenon in India
+[37:43] they are not using encryption at all
+[37:45] HTTP in clear
+[37:47] for the technology we were already
+[37:49] saying no it's impossible
+[37:51] but they are effective
+[37:53] and they exported their model to Nepal
+[37:55] Pakistan, Guyana, Hungary
+[37:57] because here again
+[37:59] Iran I paid a bribe in
+[38:01] Hungary
+[38:03] and so that's a very different model
+[38:05] where technology is used for whistleblowing purpose
+[38:07] in a very specific model
+[38:09] and there are
+[38:11] something that
+[38:13] only the policy advocate
+[38:15] and who work exchange
+[38:17] very big word documents
+[38:19] about process and procedures
+[38:21] there are the website of national anti-corruption
+[38:23] authorities
+[38:25] anti-corruption in public agencies
+[38:27] yes this is the government
+[38:29] most of people working in the active
+[38:31] community are allergic to whatever
+[38:33] is government but they are using
+[38:35] technology website like
+[38:37] in Kenya and in Austria they are soliciting
+[38:39] whistleblower to take
+[38:41] to challenge the corruption in the public
+[38:43] agencies and so also
+[38:45] all the corporation
+[38:47] and all the public agencies
+[38:49] in countries where
+[38:51] it's mandated by the law
+[38:53] like the anti bribery act
+[38:55] or the Sarban and Suxley act and so on
+[38:57] to implement whistleblowing procedures
+[38:59] those are
+[39:01] important exactly the same
+[39:03] as the big leak site
+[39:05] the big leak site make a lot
+[39:07] of media hype
+[39:09] people talk about it, journalists love it
+[39:11] people engage in say
+[39:13] we want more transparency
+[39:15] but we need also transparency from
+[39:17] inside the organization
+[39:19] that we are going to challenge
+[39:21] the public
+[39:23] to do
+[39:25] they are using technology for whistleblowing
+[39:27] in doing so
+[39:29] because here we are more
+[39:31] let's say public interest and they will say
+[39:33] a bit more activist oriented
+[39:35] I wanted just to show you different
+[39:37] use of
+[39:39] open source
+[39:41] public domain
+[39:43] whistleblowing technologies nowadays
+[39:45] that are the most known
+[39:47] and the only one that currently exists
+[39:49] is a secure drop that Garrett
+[39:51] here is working on
+[39:53] you can see different use case of global leaks
+[39:55] those are all of the users
+[39:57] mostly involved in
+[39:59] investigative journalism
+[40:01] with some very key and peculiar
+[40:03] model like the publics
+[40:05] model that you know
+[40:07] that is here in the Netherlands
+[40:09] has been a success
+[40:11] and
+[40:13] activism, anti corruption activists
+[40:15] wildlife like crime activism
+[40:17] transparency activism
+[40:19] so those are more civil society
+[40:21] players that are engaging
+[40:23] to solicit whistleblower
+[40:25] for specific public
+[40:27] interest topic
+[40:29] in the local society
+[40:31] we see Serbia, Iceland, Hungary, Netherlands
+[40:33] Italy, Venezuela
+[40:35] US, Austria
+[40:37] Tunisia, Spain and so on
+[40:39] so those are
+[40:41] not the national
+[40:43] security
+[40:45] we know them
+[40:47] cable, manning, assange
+[40:49] with tanks, yes
+[40:51] that's very important for our society
+[40:53] but we need to think about
+[40:55] the local whistleblower
+[40:57] about people that take care of the problem
+[40:59] that exists nowadays in the local societies
+[41:01] that
+[41:03] journalists doesn't report because
+[41:05] who cares, it's a local thing
+[41:07] but my mother
+[41:09] perceives more the problem of my local society
+[41:11] about that
+[41:13] deployment and use by
+[41:15] secure drop that
+[41:17] taken a different strategy
+[41:19] working mostly with the major media
+[41:21] to challenge also
+[41:23] the major adversary let me say
+[41:25] if you have big problem you need to have
+[41:27] big partner and in that case
+[41:29] we can see the use by the New Yorker
+[41:31] the intercept forms, expose facts
+[41:33] those are all providing
+[41:35] a way for whistleblower
+[41:37] to deal directly with the media outlet
+[41:39] in a safe way and this
+[41:41] is a way to create pressure
+[41:43] on the government to
+[41:45] enable and empower
+[41:47] democracy watchdog organization
+[41:49] to keep the society
+[41:51] a little bit better
+[41:53] and so those are different model where technology
+[41:55] is used, I mean the goal of
+[41:57] my session
+[41:59] is to provide an overview of
+[42:01] how technology is using whistleblowing
+[42:03] in all of the different
+[42:05] environment for sure
+[42:07] when we speak about technology
+[42:09] and whistleblowing because most
+[42:11] of us working in
+[42:13] whistleblowing technology comes from
+[42:15] the hackers environment, the privacy activists
+[42:17] environment, we always
+[42:19] focus on encryption
+[42:21] and anonymity that's
+[42:23] very important and key
+[42:25] fundamental to the
+[42:27] technological platform for
+[42:29] whistleblowing but the
+[42:31] risk that are
+[42:33] that the whistleblowers
+[42:35] face are much more than
+[42:37] the technological
+[42:39] are also social and legal
+[42:41] in the program that you have in the first page
+[42:43] there are some nice overview of
+[42:45] which are the main social risk
+[42:47] and the main technological risk
+[42:49] and which are the
+[42:51] security measures that could be put in place
+[42:53] obviously it's
+[42:55] a very small set of tips
+[42:57] but that's very important
+[42:59] in most of the context
+[43:01] technology can
+[43:03] help but is far from
+[43:05] a solution because there are
+[43:07] very different threat model
+[43:09] when we speak about security
+[43:11] we need to think that there is a risk
+[43:13] so which is our adversary
+[43:15] and we see that a corrupted police
+[43:17] officer in Zimbabwe
+[43:19] where you can be tortured
+[43:21] if you don't like it
+[43:23] it's likely to be different
+[43:25] if the whistleblower is taking over a
+[43:27] local waste management company in Ecuador
+[43:29] or a regional corrupted politician
+[43:31] in Germany or the NSA
+[43:33] in the United States
+[43:35] or the mafia in Italy
+[43:37] we see that in all of this threat model
+[43:39] without entering into detail
+[43:41] the risk that the whistleblower face
+[43:43] are very different
+[43:45] and also the kind of protection
+[43:47] that the whistleblower deserve
+[43:49] if we are taking over a national security
+[43:51] issue in the United States
+[43:53] it's not like a construction company
+[43:55] issue in Ecuador
+[43:57] because the adversary is different
+[43:59] and
+[44:01] the question that the whistleblower can deserve
+[44:03] is different too
+[44:05] so
+[44:07] what the outcome of the workshop
+[44:09] we are going to do this afternoon
+[44:11] on technology
+[44:13] because with this session I would like
+[44:15] to give more open
+[44:17] question than any kind of answer
+[44:19] is how technology can
+[44:21] effectively protect the whistleblower
+[44:23] I mean
+[44:25] is technology going to fix all our problem
+[44:27] which are the different
+[44:29] security measures that technology
+[44:31] can put in place
+[44:33] which is the balance between
+[44:35] the effectiveness of security
+[44:37] from the awareness point of view
+[44:39] training the whistleblower
+[44:41] making it conscious, empowering through
+[44:43] knowledge sharing rather than
+[44:45] providing a super secure technology
+[44:47] so which are the real
+[44:49] life limitations
+[44:51] because in most of the case
+[44:53] the use of a secure technology
+[44:55] could represent a major risk
+[44:57] than not using a security technology
+[44:59] if
+[45:01] you are a suspect of
+[45:03] being a whistleblower and there is an internal
+[45:05] investigation in a large
+[45:07] corporation and on your computer
+[45:09] there is an encryption software
+[45:11] and there is an anonymity software
+[45:13] hmmm
+[45:15] probably you are the major suspect
+[45:17] so in that case that's an example scenario
+[45:19] real life scenario
+[45:21] using a security technology
+[45:23] can be worse
+[45:25] than not using it
+[45:27] maybe a phone call would have been safer
+[45:29] so we need to look
+[45:31] this kind of context and in the
+[45:33] afternoon session we will get
+[45:35] much more in depth about it
+[45:37] and also there is another topic that
+[45:39] we felt in
+[45:41] dealing with different
+[45:43] adopters from the public agency
+[45:45] working with transparency international
+[45:47] to the hardcore activists on field
+[45:49] so we are very different
+[45:51] with kind of protection
+[45:53] and risk also have
+[45:55] who make the whistleblower in solicitation
+[45:57] so who is proactively
+[45:59] asking through the use of technology
+[46:01] for information from the whistleblower
+[46:03] and who take action on it
+[46:05] to example are
+[46:07] which are how technology can
+[46:09] provide some protection
+[46:11] which has the risk of the editors
+[46:13] and the journalist
+[46:15] in the media environment but also think
+[46:17] about public agency
+[46:19] that's implementing transparency procedures
+[46:21] to make
+[46:23] its own internal organization better
+[46:25] I got
+[46:27] a public agency that told
+[46:29] the head of anti-corruption told me listen
+[46:31] I have a problem now the whistleblower
+[46:33] sounds like that's protected
+[46:35] but I'm not protected at all
+[46:37] in managing the submission
+[46:39] from the whistleblower and taking action
+[46:41] the whistleblower
+[46:43] can deserve
+[46:45] a legal protection but me
+[46:47] taking action on the submission from the whistleblower
+[46:49] inside my local public agency
+[46:51] who is going to protect me
+[46:53] if I take action on
+[46:55] a higher level of feature
+[46:57] that's taking bribe
+[46:59] so that's a problem where
+[47:01] technology can play a role
+[47:03] but it's not the only one
+[47:05] playing a role
+[47:07] I think that we open up enough question
+[47:09] for my
+[47:11] intervention thank you
+[47:18] thank you very much Fabio
+[47:20] I think some people are really looking forward to
+[47:22] our session it's interesting idea
+[47:24] that once you have encryption software
+[47:26] on your computer then for sure you're a prime
+[47:28] suspect because who has encryption
+[47:30] software on their computer if you have
+[47:32] nothing to hide I mean that's psychology
+[47:34] of course of society so maybe an
+[47:36] interesting angle could also be how we make sure
+[47:38] that everybody makes sure that he or she
+[47:40] is protective about his or her privacy
+[47:42] by using encryption software so that people
+[47:44] are using it and not the only ones
+[47:46] who are possible whistleblowers
+[47:48] interesting perception and maybe something
+[47:50] also for the discussion we go to the second
+[47:52] angle we just had the angle of technology
+[47:54] let's look into legal and what are the issues
+[47:56] we can discuss when it comes to
+[47:58] using legal measures to protect
+[48:00] whistleblowers most strongly in our societies
+[48:02] it's going to be presented
+[48:04] by the expert
+[48:06] coordinator of the whistleblowing international network
+[48:08] also a partner of the conference
+[48:10] a lawyer and expert
+[48:12] in the field of public interest whistleblowing
+[48:14] and anti-corruption prevention
+[48:16] she works with individuals
+[48:18] employers, governments in numerous national contexts
+[48:20] in Europe, Africa and North America
+[48:22] with a focus on the interaction
+[48:24] and application of law, practice
+[48:26] regulation, ethical frameworks
+[48:28] anti-corruption measures, privacy
+[48:30] professional duties and conduct
+[48:32] quite a lot so
+[48:34] she's absolutely an expert we want to listen to
+[48:36] please give her a very warm welcome
+[48:38] Anna Meyers
+[48:46] I'm an expert in none of them
+[48:50] I'm really really delighted to be here
+[48:52] and one of the reasons that when
+[48:54] Fabio
+[48:56] who has been involved with the development
+[48:58] of the whistleblowing international network
+[49:00] since we sort of started to talk about it
+[49:02] more formally or more
+[49:04] cohesively
+[49:06] and he mentioned this and mentioned Mieke
+[49:08] I knew that Wynn and people who've been
+[49:10] working in whistleblowing in their national context
+[49:12] for many years needed to be part of the conversation
+[49:14] part of the reason that
+[49:16] those of us who've worked in NGOs
+[49:18] that have focused on whistleblowing
+[49:20] and the reason we focused on whistleblowing
+[49:22] was because we saw from a very beginning
+[49:24] that the public interest mattered
+[49:26] and that whistleblowers are
+[49:28] and should be our failsafe and shouldn't be
+[49:30] our front line of defense
+[49:32] I think one of the things that's happening now
+[49:34] and it is a worry I think for those of us
+[49:36] who've been working in the field for a long time
+[49:38] is that we're almost asking whistleblowers
+[49:40] to be the first line of defense
+[49:42] and we're also individualizing
+[49:44] I think what should be collective responsibility
+[49:46] and so the work
+[49:48] that the NGOs have been doing
+[49:50] so government accountability project
+[49:52] in the US for 35 years
+[49:54] public concern at work in the UK
+[49:56] since 1993
+[49:58] ODAC in South Africa
+[50:00] the Open Democracy Advice Centre
+[50:02] who set up an NGO to deal with
+[50:04] whistleblowing and freedom of information
+[50:06] and those have always been very closely linked
+[50:08] we needed to be able to talk to each other
+[50:10] and in some ways we have been
+[50:12] informally talking for years
+[50:14] and we looked at each other's models
+[50:16] and we changed them according to what
+[50:18] our different legal systems were
+[50:20] and what the practical challenges were for people
+[50:22] and obviously the national security piece
+[50:24] and the corporate crossing
+[50:26] border police has been happening
+[50:28] and has been difficult for all of us
+[50:30] in our societies to deal with
+[50:32] and we need to deal with that
+[50:34] whistleblowers are now
+[50:36] to me whistleblowers show us
+[50:38] where our accountability mechanisms are failing
+[50:40] they're the ones that
+[50:42] when they come up to tell us things
+[50:44] that our accountability mechanism
+[50:46] has been deliberately
+[50:48] blocked
+[50:50] negligently blocked or doesn't exist
+[50:52] and one of the things that I think we're seeing
+[50:54] is we don't have accountability mechanisms
+[50:56] at the moment internationally
+[50:58] there has been deregulation across the world
+[51:00] and the corporate
+[51:02] and state powers are using each other
+[51:04] and we haven't been talking about it
+[51:06] and I don't know if my generation
+[51:08] I do blame my generation
+[51:10] we've been asleep
+[51:12] for years at least maybe 20
+[51:14] I remember asking my
+[51:16] and this is not a slur on my father
+[51:18] but a little bit I come from Canada
+[51:20] it's very easy to be left
+[51:22] and socialist when you
+[51:24] when there's no real threats around you
+[51:26] and you've got lots of space and lots of resources
+[51:28] and in 1983 I asked them what is globalization
+[51:30] because I'd spent my childhood listening
+[51:32] to people talking in Canada
+[51:34] about the problems of American zoning
+[51:36] Canadian resources and that Canadians
+[51:38] and that this was an issue
+[51:40] I see it now in Canada
+[51:42] but in 1983 suddenly
+[51:44] I asked what is globalization
+[51:46] I was told it's inevitable
+[51:48] and therein
+[51:50] we now arrive here and we're saying
+[51:52] oh by the way this is people did this
+[51:54] and we need to be part of the discussion
+[51:56] and we need whistleblowers are there
+[51:58] I don't want to live in a world
+[52:00] that relies on whistleblowers
+[52:02] I do not want individuals to be the only ones
+[52:04] telling me my kids are safe in the hospital
+[52:06] that the ferry is not going to sink
+[52:08] the bank is not going to collapse
+[52:10] that my money is not going to disappear
+[52:12] I don't want to rely on them
+[52:14] and that's why I've worked in this field
+[52:16] to protect them for so many years
+[52:18] and why I think the law and practice needs to change
+[52:20] and I think one of the things that Tom Devine
+[52:22] at the Government Accountability Project
+[52:24] and he's one of the founders
+[52:26] and been there since the beginning said
+[52:28] part of what NGOs who work on whistleblowing do
+[52:30] is engage with whistleblowers
+[52:32] in a kind of communal hug
+[52:34] and the reason you haven't heard about us
+[52:36] is that the legislation that they've been saying
+[52:38] to the world is much more important
+[52:40] than the organizations behind them
+[52:42] and there are whistleblowers here
+[52:44] and not all of the things that we are trying to do
+[52:46] nationally serve all whistleblowers
+[52:48] and they do fall out of the cracks
+[52:50] and the law doesn't always protect them
+[52:52] so even though you have a legal view of it
+[52:54] and you know how the legal system works
+[52:56] you have to think practically
+[52:58] technology is one of the ways now
+[53:00] obviously that people can use and be protected
+[53:02] but I don't want to live
+[53:04] in a world where I'm only able to
+[53:06] talk anonymously and encryptedly
+[53:08] and that's the world I want to change
+[53:10] so I think this is part of
+[53:12] having a conversation across three very
+[53:14] important communities with whistleblowers
+[53:16] as well whose lessons
+[53:18] and the case where it can be socially applied
+[53:20] we need to understand
+[53:22] and we need to start to work together a bit better
+[53:24] so that was the classic
+[53:28] 20 years ago when we started talking about whistleblowing
+[53:30] this was probably one of the classic
+[53:32] images of the small person with the truth
+[53:34] and the big
+[53:36] group that doesn't want to hear it
+[53:38] and I think with some of the social media
+[53:40] this is probably not as true
+[53:42] what we are probably doing is we have
+[53:44] now another mini-circle
+[53:46] of very small people
+[53:48] standing around this big big group
+[53:50] and that's what we're starting to build up
+[53:52] and we want to actually make it of equal strength
+[53:58] when I do talks on whistleblowing
+[54:00] these are the things that I say
+[54:02] oh sorry it's gone a bit too fast
+[54:09] that are challenges
+[54:11] for making whistleblowing work
+[54:13] and although I'm
+[54:15] trained as a lawyer I was very delighted to
+[54:17] never actually sort of practice
+[54:19] as a litigating lawyer because I wanted it
+[54:21] to work before you have to go to court
+[54:23] but these are the things that challenge
+[54:25] whistleblowers and culture and
+[54:27] society is an important one
+[54:29] how we look at our organizations and hierarchies
+[54:31] is a huge barrier to
+[54:33] sharing information
+[54:35] expectations there's the
+[54:37] whistleblowing expectation
+[54:39] the expectation of technologists
+[54:41] expectations of journalists
+[54:43] expectations of courts
+[54:45] those are all things that unless we start talking
+[54:47] about it we have different ones and we feel
+[54:49] failed often by things that might have actually
+[54:51] worked a lot better if we had understood each
+[54:53] other's expectations
+[54:55] institutional capacity to listen to
+[54:57] whistleblowers and actually act on their
+[54:59] information is a big issue
+[55:01] it came up in exactly what Fabia was talking
+[55:03] about
+[55:05] when she was talking to your whistleblowers
+[55:07] then they'd say well what if they tell us
+[55:09] something
+[55:11] yeah that's the point you have to have
+[55:13] people who can investigate
+[55:15] well what if it's about the president
+[55:17] of the company
+[55:19] and I'm the compliance officer
+[55:21] I don't have the power
+[55:23] yeah this is all about how accountability
+[55:25] works so this is why
+[55:27] whistleblowing is so powerful it makes us
+[55:29] think about honestly how have we set this up
+[55:31] and always always always
+[55:33] concerned those of us in the
+[55:35] whistleblowing community for a long long time
+[55:37] it has to be grounded in freedom of speech
+[55:39] there has to be a way to go
+[55:41] outside we are
+[55:43] asking accountability to us
+[55:45] do we want to hear about everything that's
+[55:47] happening in every organization and how
+[55:49] no we expect them to work
+[55:51] but we need to know when they're not working
+[55:53] and so these systems that
+[55:55] set up routes only
+[55:57] internally only to the
+[55:59] independent body we set up to deal with it
+[56:01] that's about all things
+[56:03] and not saying this
+[56:05] is a very important that the freedom of speech
+[56:07] that you can go outside that you can go to the media
+[56:09] and be protected that has to be there
+[56:11] that's how accountability works
+[56:13] because it says it can go somewhere else
+[56:15] and we can come back down and look at what you did
+[56:17] and I would say
+[56:19] legal framework is probably the last
+[56:21] so I'm up here to say as a lawyer I think it's probably
+[56:23] last thing but it also can be
+[56:25] the jump start to having the conversation
+[56:27] you need to have
+[56:29] I'll just talk quickly about the dilemma
+[56:31] you aren't born a whistleblower
+[56:33] and it's been very hard for any of us to get
+[56:35] any funding for because it's like
+[56:37] is that like
+[56:39] dogs who are abused and cats
+[56:41] and it's like no and is it
+[56:43] like children who need help
+[56:45] no whistleblowers aren't planned
+[56:47] they didn't plan it
+[56:49] they saw something going wrong
+[56:51] and they felt the need to speak up
+[56:53] and you're only a whistleblower
+[56:55] really if you go right back
+[56:57] at work I see something
+[56:59] I think it's important it's raised
+[57:01] I think it's wrong and oh
+[57:03] I don't think it will be welcome to those around me
+[57:05] now I'm in the whistleblowing dilemma
+[57:07] and then you say
+[57:09] what are my choices a lot of people
+[57:11] stay silent and there's a lot of reasons
+[57:13] why they do that and this isn't about blaming silence
+[57:15] it's just making silence less easy
+[57:17] and less
+[57:19] what you need to do do you say anything
+[57:21] do you raise it internally
+[57:23] and if you overcome
+[57:25] that if I raise it inside
+[57:27] who do I go to
+[57:29] if I'm seeing it surely my boss is seeing it
+[57:31] if
+[57:33] they're seeing it then maybe their boss is seeing it
+[57:35] so people start to wonder
+[57:37] how far it goes up in organization
+[57:39] if they go outside
+[57:41] so I feel I need to say something I've overcome
+[57:43] that hurdle I'm not sure where to
+[57:45] raise it internally go outside
+[57:47] if I raise it anonymously
+[57:49] and go outside what do they do with it
+[57:51] do they call right away
+[57:53] if I go to a regulator if I go to the media
+[57:55] are they going to ask for a quote from
+[57:57] the boss of the company because
+[57:59] there's and then the fact that
+[58:01] I went anonymously might make it much worse
+[58:03] for me so I'm not suggesting that anonymous
+[58:05] is not important
+[58:07] but we've had anonymous since time
+[58:09] of memorial we've had the brown paper envelope
+[58:11] and I know it's different now not trying
+[58:13] to simplify everything but under
+[58:15] the door for a long time and those who've
+[58:17] been working in whistleblowing for a long time wanted
+[58:19] to offer people in our societies
+[58:21] an alternative to anonymity and silence
+[58:23] and we've got a lot happening now
+[58:25] silence doesn't seem to be what we're doing
+[58:27] and we're really pushing back
+[58:29] against people telling us we should be silent
+[58:31] but we also need to think about
+[58:33] if we individualize reporting all the time
+[58:35] how are we making the changes
+[58:37] that we want to make happen
+[58:39] so these are kind of the ways and this
+[58:44] a lot of comes from the work of public concern at work
+[58:46] which I was part of for a number of years
+[58:48] but how do you think about it
+[58:50] and how inquiries and scandals
+[58:52] often show that those working close to the problem
+[58:54] knew of the dangers before anything happened
+[58:56] they were either too scared
+[58:58] to speak up but I think the biggest reason
+[59:00] people do not speak up is they think nothing
+[59:02] will happen and there's certainly
+[59:04] been US studies
+[59:06] and studies on in the UK
+[59:08] that that's the big people will take risks
+[59:10] and you watch and you really
+[59:12] are worried for them if they think it will make
+[59:14] a difference but they won't
+[59:16] take those risks if they think nothing will
+[59:18] change and I think we're at this point
+[59:20] and this is why this conference is so
+[59:22] interesting and so important
+[59:24] is people want to make change
+[59:26] they want to make the connections
+[59:28] and we need to help them make the change
+[59:30] and it's not just their change it's our change
+[59:34] and there's a lot of compute
+[59:36] think about the people out there
+[59:38] we know what we're talking about
+[59:40] but the public doesn't necessarily know
+[59:42] what we're talking about
+[59:44] whistleblowing is the word used for almost everything
+[59:46] right now any kind of communication
+[59:48] and we talk about anonymity
+[59:50] witness protection, wiki leaks, hotlines
+[59:52] and in all the different
+[59:54] fields that I talk about everybody slightly
+[59:56] means a different thing but they all use the word
+[59:58] whistleblowing so we do need to tease that out
+[60:00] and talk to each other about what we're asking
+[60:02] people to do and why we're doing it
+[60:04] and what we mean by whistleblowing and
+[60:06] therefore what the protection should be
+[60:10] I think this one is just shows a little bit
+[60:12] what most people
+[60:14] live in the world where we live in most people
+[60:16] want to take the step one one step
+[60:18] at a time some of us
+[60:20] are very energetic and we jump too
+[60:22] and you should be able to jump too and some of us
+[60:24] really leap and that's a bit
+[60:26] riskier because you can trip and break your ankle
+[60:28] and those are the people go outside
+[60:30] are putting themselves in that position
+[60:32] that is the hardest one and that's the one
+[60:34] where we really need to think about it
+[60:36] but I also want to make it much easier for people to raise it
+[60:38] locally and be listened to
+[60:40] and so we want to make the connections
+[60:42] we want to work out and those I have lots of questions
+[60:44] I want other people to help
+[60:46] us answer some of these questions
+[60:48] and I'll
+[60:50] talk a little bit about the wind network
+[60:52] but mostly what I wanted to talk about I was interested
+[60:54] because the excitement for me
+[60:56] in this conference was
+[60:58] the cross-pollination
+[61:00] that can happen and I did this is a really
+[61:02] not scientific straw
+[61:04] poll count of
+[61:06] the list I was sent a couple of days ago
+[61:08] of people who've joined the conference
+[61:10] 43 out of the 170
+[61:12] so it's not absolutely accurate
+[61:14] so 25% have
+[61:16] been linked to workshops
+[61:18] where they're staying in their field
+[61:20] so they want to go to the national journalism
+[61:22] and they want to go to the international journalism
+[61:24] and probably their journalists
+[61:26] and they're not necessarily going to the technology
+[61:28] or the whisper protection one
+[61:30] so it just shows I want people
+[61:32] to I want us all to challenge ourselves
+[61:34] out of our zones
+[61:36] I want not just to try and connect
+[61:38] but to actually consider the issues that we are facing
+[61:40] from the different perspectives we're facing
+[61:42] them from
+[61:44] I think this day could be really really challenging
+[61:46] because we all do
+[61:48] different things with different skill sets
+[61:50] and we have a tendency to view
+[61:52] the world and develop our solutions from that
+[61:54] perspective
+[61:56] in protecting in my view and what the whispering
+[61:58] protection community around the world has been
+[62:00] doing and why we're trying to
+[62:02] make wind work across borders so that
+[62:04] we are talking to each other and we can then
+[62:06] talk to those of you who are working
+[62:08] in activist areas
+[62:10] and in technology
+[62:12] so that we can make it much stronger and much faster
+[62:14] what we're doing but the national
+[62:16] work is still deeply deeply important
+[62:18] and
+[62:20] member states or states they call them member states
+[62:22] but states around the world are only getting their heads
+[62:24] around offering any kind of protection to whistleblowers
+[62:26] while whistleblowers
+[62:28] are telling us that the accountability mechanisms
+[62:30] internationally are failing
+[62:32] so we haven't even caught up on our
+[62:34] local and that still needs to happen because
+[62:36] people do live locally and they need to
+[62:38] have trust in their institutions
+[62:40] they set up and their democracies as
+[62:42] they develop them and we need to help them
+[62:44] do that and whistleblowing should be
+[62:46] part of that process
+[62:48] otherwise we just keep relying
+[62:50] on the single whistleblowers to tell us
+[62:52] again and again and they always seem
+[62:54] to be the first ones
+[62:56] in a sense when you're always looking at that way
+[62:58] it's always that one individual
+[63:00] is taking us somewhere and we too
+[63:02] can get sidelined into those narrow
+[63:04] views and stop seeing it as a
+[63:06] joint effort they're saying things to us
+[63:08] about what we need to do
+[63:10] and what we need to take on board
+[63:12] and I also think
+[63:14] it's very interesting that this is happening
+[63:16] in the Netherlands because Advice
+[63:18] Klokenoiders who set up
+[63:20] a few years ago the Dutch
+[63:22] in 2008 were looking at improving the law
+[63:24] they've had a bit of they've had
+[63:26] public sector protection since 2001
+[63:28] which actually in Europe is very
+[63:30] early on so
+[63:32] it's not gone very far since then
+[63:34] there's no private sector legal protection
+[63:36] but the unions and companies
+[63:38] have gotten together and done a declaration
+[63:40] where they have some guidance
+[63:42] and the companies are following that for internal
+[63:44] and I hope some external
+[63:46] routes for whistleblowing
+[63:48] there's also the Socialist Party has put in
+[63:50] a bill that's looking at the
+[63:52] house of whistleblowers which again is trying
+[63:54] and the Dutch are lovely from my point of view
+[63:56] from an external point of view because they're always saying
+[63:58] well how can we do it better and do it differently
+[64:00] you've only been doing that for a few years
+[64:02] now you're talking about something else
+[64:04] that's the experimental view
+[64:06] the rest of us getting one thing in our countries
+[64:08] to change just a tiny bit seems to be
+[64:10] a longest
+[64:12] road and one of the things that I think
+[64:14] we need to think about is and I was saying
+[64:16] the other night to a group
+[64:18] is that when you get together internationally
+[64:20] have the real discussions about what this means
+[64:22] for our societies and about privacy
+[64:24] and about what is happening
+[64:26] the level of discussion is incredibly
+[64:28] mature within our own nation states
+[64:30] we're having still stupid conversations
+[64:32] about whether that whistleblower
+[64:34] is a good guy or a bad guy
+[64:36] which is fine you can have those conversations
+[64:38] but what on earth were they telling us
+[64:40] did we want to know is that an
+[64:42] issue for us whereas internationally
+[64:44] where I think the maturity
+[64:46] shows that we've been thinking about these issues
+[64:48] a long time in our different contexts
+[64:50] public concern
+[64:52] at work when it first set up in 1993
+[64:54] the word whistleblower was a terrible word
+[64:56] I love going around the world
+[64:58] and finding out that it's the good word now
+[65:00] because it's the English word
+[65:02] and if you actually talked about the word in your own language
+[65:04] it's a terrible word
+[65:06] and if we say whistleblower nobody really knows what that means
+[65:08] so it's a good word
+[65:10] and it used to be really fun doing
+[65:12] training in the UK
+[65:14] and I was Canadian so that even made everybody
+[65:16] say okay I don't know what you're doing here
+[65:18] telling us about whistleblower
+[65:20] but you'd say do you like the word whistleblower
+[65:22] and I didn't even have to do any training
+[65:24] do you like the word whistleblower
+[65:26] and they hated it
+[65:28] yes it was disloyal it was betrayal
+[65:30] in 2010
+[65:32] it's now seen in the UK
+[65:34] from the public point of view
+[65:36] as positive and neutral
+[65:38] and this is the one that Kathy
+[65:40] had done with Ugov
+[65:42] 72% of workers in the UK
+[65:44] see it as a positive term
+[65:46] it is a really boring question now
+[65:48] to ask in training now that doesn't mean
+[65:50] that in the national security field
+[65:52] and in very important fields
+[65:54] whistleblowing isn't still the worst thing you can do
+[65:56] we don't face challenges but the
+[65:58] thought process and the culture
+[66:00] has started to change and that's also
+[66:02] giving us the opening to have these kind
+[66:04] of discussions and debates
+[66:06] I think one of the things that I wanted
+[66:08] to say
+[66:10] also was
+[66:12] we have to think not just about the methodology
+[66:14] of reprisal but the methodology of support
+[66:16] and I think
+[66:18] the question that I would have
+[66:20] when I think about it for the
+[66:22] those of us who worked within a legal
+[66:24] so we set ourselves up so that we could
+[66:26] have those confidential privilege discussions
+[66:28] even when there weren't laws
+[66:30] for whistleblowing and that
+[66:32] we were able to be there with whistleblowers
+[66:34] and help them through the journey and again
+[66:36] these NGOs have been working
+[66:38] nationally can't do it all
+[66:40] for the whistleblowers and there's lots
+[66:42] of other people that need to be involved
+[66:44] but the question is of course we do this
+[66:46] because it matters for the public interest
+[66:48] the information they have matters for us
+[66:50] and sometimes that puts lawyers
+[66:52] in a bit of a conflict because their client
+[66:54] is the whistleblower and I'm not talking about
+[66:56] the cases when it's all gone wrong
+[66:58] I'm talking about helping whistleblowers
+[67:00] navigate where they should go with the
+[67:02] information and how they can be protected
+[67:04] and the protection can come from the law
+[67:06] but it can come from public support
+[67:08] and I think it's really interesting looking
+[67:10] at the Snowden case who watched
+[67:12] a lot of the previous NSA whistleblowers
+[67:14] he's not the first one and he used
+[67:16] technology to keep the information
+[67:18] secure
+[67:20] and when he was ready he said
+[67:22] I am Edward Snowden
+[67:24] and I
+[67:26] I'm not hiding
+[67:28] and you know what who how can he hide
+[67:30] this is you know
+[67:32] cat and mouse game with the NSA does seem
+[67:34] to be a slightly losing battle
+[67:36] and he's relying on us
+[67:38] to give him the support
+[67:40] that he needs to survive this
+[67:42] and that's what we would advise
+[67:44] whistleblowers in our organization
+[67:46] to help them do it
+[67:48] and we will stand by you
+[67:50] if we don't know who you are
+[67:52] then it's a lonely lonely place to be
+[67:54] and I feel for Chelsea Manning
+[67:56] because although the technology
+[67:58] kept him safe
+[68:00] his need to be not alone
+[68:02] is what caused a problem
+[68:04] and we need to be there so whistleblowers aren't alone
+[68:06] they shouldn't be alone in thinking
+[68:08] how they should blow the whistle
+[68:10] and they shouldn't be alone when that information
+[68:12] goes out and we fail
+[68:14] to deal with the issue and we start
+[68:16] to think
+[68:18] we need to give whistleblowers a communal hug
+[68:20] they might even not be people
+[68:22] we particularly like
+[68:24] we might not agree politically with them
+[68:26] we might think that their motivation
+[68:28] is a bit odd but we need to look
+[68:30] at what they're saying
+[68:32] and we need to take that information
+[68:34] it's our information we have to shift
+[68:36] the burden of risk so if to ask ourselves
+[68:38] in what we're doing is that what we're doing
+[68:40] or are we kind of waiting
+[68:42] and I thought that was really interesting
+[68:44] we'll wait to other people like him
+[68:46] and we'll wait
+[68:48] until what he says has been proven
+[68:50] right and then we go here
+[68:52] and then the next story goes out and we go here
+[68:54] and nobody is you know
+[68:56] we need to just stand there and say
+[68:58] we need to look at this information as our side
+[69:00] we have to say what the limits are
+[69:02] we have to work out whether or not
+[69:04] we've got them properly done
+[69:06] and we have to stand with him because he's telling us information
+[69:08] I think we want to know we want to have these debates
+[69:10] and so that's an important
+[69:12] part of this process
+[69:14] one of the things that I do think about technology
+[69:16] is that
+[69:18] that was one thing that has always
+[69:20] sort of is technology
+[69:22] an alternative to anonymity or are we saying
+[69:24] you have to be anonymous to be safe
+[69:26] is that the world we're living in
+[69:28] and how do we take that
+[69:30] and go the next step
+[69:32] how do we say again that anonymous
+[69:34] reporting and even whistle-blowing is our backup
+[69:36] rather than
+[69:38] the first thing we do how do we make it safer
+[69:40] and I think that's where there are more voices
+[69:42] in workplaces and outside
+[69:44] workplaces that say this isn't just this guy's issue
+[69:46] this is our issue
+[69:48] and they might not have presented it well and they might have got a bit wrong
+[69:50] and they might be a little bit mistaken because whistleblowers
+[69:52] will have one piece of the puzzle often
+[69:54] and investigators
+[69:56] good investigators will tell you
+[69:58] that that one piece of the puzzle
+[70:00] the person who has the piece
+[70:02] might have created a story
+[70:04] and they might so I'll take Diana
+[70:06] she's one of the most people filled with integrity I know
+[70:08] but she's stealing all the money
+[70:10] that 100 global reporters
+[70:12] is coming through and I know
+[70:14] I think that's what she's doing
+[70:16] so I say that's what she's doing
+[70:18] but all I know is that some money's been missing
+[70:20] and
+[70:22] a whistleblower might accuse
+[70:24] with the information they have
+[70:26] but they might not pick up
+[70:28] where the problem really is and investigators will say
+[70:30] often they might have drawn the wrong conclusion
+[70:32] but there was something really bad going
+[70:34] wrong
+[70:36] and there might be a piece of the puzzle
+[70:38] that if it's not understood
+[70:40] gives people worries that don't exist
+[70:42] but we need to deal with the information
+[70:44] we need to help whistleblowers be in the right place
+[70:46] and I think the other thing
+[70:48] the last thing I wanted to say was
+[70:50] one of the questions
+[70:52] for those in journalism and I think that
+[70:54] that'll come up is
+[70:56] is there a whistleblowing story
+[70:58] when there's no whistleblower
+[71:00] you know are we asking whistleblowers
+[71:02] to give us the stories
+[71:04] about whistleblowing with a story
+[71:06] and finding the whistleblowers
+[71:08] but also what happens
+[71:10] when there's been disasters
+[71:12] and we think there's been no whistleblowers
+[71:15] you know why are people feeling
+[71:17] that silence is the only thing
+[71:19] that they can do
+[71:21] and we need to challenge that
+[71:23] we also need to challenge
+[71:25] about why we think whistleblowing is good or bad for society
+[71:27] we need to challenge the understanding
+[71:29] of the term whistleblowing from snitch and betrayal
+[71:31] to somebody who's trying to do the right thing
+[71:33] in a really awkward position
+[71:35] it's not a good position to be in
+[71:37] and what I wanted to just say
+[71:39] about the whistleblowing international network
+[71:41] is that it's really trying to connect
+[71:43] the civil society on the ground
+[71:45] I think that around the world
+[71:47] when Fabio was talking about what's happening in Ecuador
+[71:49] or what's happening in the US
+[71:51] or what's happening around the world
+[71:53] people there are experts in their own lives
+[71:55] and the civil society
+[71:57] organizations that are looking at whistleblowing
+[71:59] need to connect to those civil society organizations
+[72:01] so we can talk to them
+[72:03] support them
+[72:05] but also we learn
+[72:07] and then when the things that are happening
+[72:09] that obviously a whistleblower can be
+[72:11] in one company
+[72:13] in Switzerland
+[72:15] as an example
+[72:17] and the issues that they
+[72:19] and the concern that somebody is picking up
+[72:21] could have an impact on food safety
+[72:23] in Venezuela for instance
+[72:25] and already if
+[72:27] civil society is knowing about the issue
+[72:29] we can deal with the whistleblower
+[72:31] who needs protection for raising it
+[72:33] and we can deal with the issue
+[72:35] that is having an impact in Venezuela
+[72:37] and that now needs to be
+[72:39] all of our concern
+[72:41] so I think that we need to be thinking about whistleblowing
+[72:43] differently we want to be using the new technology
+[72:45] whistleblowing is not new
+[72:47] it's been around an awful long time
+[72:49] we've got new tools
+[72:51] we've got new challenges
+[72:53] this is about the accountability mechanisms
+[72:55] that we want for our societies
+[72:57] this is a difficult one
+[72:59] we've hardly worked it out in our own nation states
+[73:01] and we've lost track of them
+[73:03] then we're being asked to look at it internationally
+[73:05] and I think we need part of what Wynn wants to do
+[73:07] is bring it right back on to ground level
+[73:09] and then use what
+[73:11] people are talking about globally
+[73:13] and help the national to do that
+[73:15] but also we need to have the conversation
+[73:17] because we had
+[73:19] whistleblowers in the UK
+[73:21] who were telling us
+[73:23] in the UK about problems
+[73:25] coming from banks and they were saying there's a problem
+[73:27] in the credit rating agency
+[73:29] and we were dealing with that as a national problem
+[73:31] in 2005
+[73:33] and the impact of banking collapse
+[73:35] had an international impact
+[73:37] so we need to know
+[73:39] the trends that are happening
+[73:41] and we need to be able to talk to each other
+[73:43] so I think that this is an opportunity
+[73:45] for this community
+[73:47] that's been perhaps slightly invisible
+[73:49] to some of you
+[73:51] and we need to learn
+[73:53] and work a long time
+[73:55] and we need to understand
+[73:57] how technology can be used better
+[73:59] for what we want to do
+[74:01] and we also need to understand
+[74:03] how the world has changed
+[74:05] while we've been still having this fight
+[74:07] with the wall right in front of us
+[74:09] so I hope we have a really good fruitful day
+[74:11] and I'm really looking forward
+[74:13] to talking to you
+[74:15] and I'm looking forward to learning more today
+[74:21] thanks very much
+[74:23] thank you so much
+[74:25] thanks for the great talks
+[74:27] when it comes to the different issues that we're discussing
+[74:29] it's almost time for our last keynote
+[74:31] in this morning session
+[74:33] and then of course we go for lunch
+[74:35] and the afternoon sessions
+[74:37] so quite some interesting points
+[74:39] I really like what you're saying
+[74:41] also in the Dutch context
+[74:43] when it comes to supporting a whistleblower
+[74:45] not only thinking about the motives he or she could have
+[74:47] and it's more about the support
+[74:49] and you also see this discussion
+[74:51] popping up with the new law
+[74:53] and the first challenge was culture
+[74:55] it's an interesting perspective
+[74:57] from the legal perspective
+[74:59] is our legal framework and our laws
+[75:01] is it a print of society
+[75:03] or vice versa
+[75:05] is our society a print of the legal framework
+[75:07] I think that's a very interesting motivation
+[75:09] for sharing with us
+[75:11] maybe also up for the discussion
+[75:13] this later this afternoon
+[75:15] and by the way the literal translation
+[75:17] of Klockeleider
+[75:19] so who is now Dutch
+[75:21] Churches and Associations
+[75:23] our last speaker of this morning session
+[75:25] the co-founder of the 100 reporters
+[75:27] an author and award winning
+[75:29] veteran national and foreign correspondent
+[75:31] for more than 25 years
+[75:33] at the New York Times
+[75:35] and the Baltimore Sun
+[75:37] she's covered poverty and child abuse
+[75:39] religion and culture
+[75:41] the Times nominated the coverage of education
+[75:43] for Pulitzer Prize in 2003
+[75:45] and is a borough chief
+[75:47] for the Times in Rio de Janeiro
+[75:49] in 1995 to 1999
+[75:51] she tracked the drug war in Colombia
+[75:53] and the country's brutal conflict
+[75:55] between leftist rebels and right wing
+[75:57] paramilitaries
+[75:59] her story is chronicled the rise of Hugo Chávez
+[76:01] in Venezuela, counterfeiting and Paraguay
+[76:03] in an insured servitude
+[76:05] in Brazil and journeys to the heart of Brazil
+[76:07] where she wrote previously
+[76:09] on contact native tribes
+[76:11] please give her a warm welcome
+[76:13] she was called Mrs. Integrity
+[76:15] Diana Jean Chema
+[76:26] more I should say good afternoon
+[76:28] almost
+[76:30] anyway
+[76:32] I am very pleased to be here
+[76:34] and I want to thank the organizers
+[76:36] I think it is actually a great idea to bring together
+[76:38] the three sectors
+[76:40] this whole sort of idea
+[76:42] of cross pollination is something that
+[76:44] many journalists would kind of shrink from a little bit
+[76:46] and we also have reservations
+[76:48] but I think the idea of bringing everybody
+[76:50] in a room and sort of coming out from the shadows
+[76:52] is healthy and good
+[76:54] journalists tend to think
+[76:56] of whistle blowers
+[76:58] as reporting from the inside out
+[77:00] and that is kind of my framework
+[77:02] for talking about how we work with whistle blowers
+[77:04] and
+[77:06] I thought that would be kind of the most useful thing
+[77:08] for everybody here
+[77:10] since we are talking to people from all different sectors
+[77:12] to give you an idea of how journalists work
+[77:14] how we see whistle blowers
+[77:16] and what some of the areas of potential
+[77:18] tension are
+[77:20] and the rewards
+[77:23] that journalists as I will explain in a minute
+[77:25] are really all about getting the story
+[77:27] getting the story
+[77:29] and getting it out
+[77:31] and when you talk to whistle blowers
+[77:33] by the time they reach journalists
+[77:35] they have already kind of
+[77:37] had a lot of experiences
+[77:39] maybe they have tried to blow the whistle
+[77:41] inside the organization
+[77:43] they might have met
+[77:45] they might have been spurned
+[77:47] they might have been
+[77:49] persecuted inside the organization
+[77:51] and by the time they reach the journalists
+[77:53] the journalist is really sort of
+[77:55] a last resort in terms of
+[77:57] how to deal with the wrongdoing that they have encountered
+[77:59] and so they come to journalists
+[78:01] already with a history
+[78:03] and journalists themselves
+[78:05] have a different agenda
+[78:07] than the whistleblower and the two sides
+[78:09] are really only very dimly aware
+[78:11] of the orbits that they each travel in
+[78:13] and this can sort of
+[78:15] create the space for
+[78:17] misunderstandings
+[78:19] and also it can create the space
+[78:21] for some very productive encounters
+[78:23] so I'd like to sort of talk
+[78:25] a little bit about how
+[78:27] we work together and
+[78:29] you know where there may be
+[78:31] some room for common ground
+[78:33] the traditional form of
+[78:35] reporting is I sort of liken to
+[78:37] a moth around a flame
+[78:39] you start out as a reporter with a hypothesis sometimes
+[78:41] sometimes you start out with a tip
+[78:43] but more often the traditional way
+[78:45] is that you're starting out with a hypothesis
+[78:47] and then you kind of gather the documentation
+[78:49] you do interviews
+[78:51] you kind of report
+[78:53] against your hypothesis
+[78:55] you put all of this together and that's
+[78:57] how you're kind of getting
+[78:59] you're circling around a flame in a sense
+[79:01] and then when you have
+[79:03] a critical mass of information
+[79:05] and for each reporter that's going to be
+[79:07] really their own sense of when they feel
+[79:09] they know everything they need to know
+[79:11] then they go to the subject of the investigation
+[79:13] and they confront them and they say
+[79:15] here's what we found and what do you have to say
+[79:17] and
+[79:19] as they're doing all of this they're praying
+[79:21] in a way for an insider to come forward
+[79:23] they're praying for whistleblower
+[79:25] they're praying for somebody who's going to give them the keys to the kingdom
+[79:27] and tell them
+[79:29] here is what you're looking for
+[79:31] and here is where it fits
+[79:33] and here is where the bodies are buried
+[79:35] here's the dirt you know
+[79:37] they're looking for somebody who can kind of give them
+[79:39] a shortcut to glory in a sense
+[79:41] and the whistleblower can be
+[79:43] talking encyclopedia for a journalist
+[79:45] I mean I've worked with whistleblowers
+[79:47] and at 100 reporters we've begun
+[79:49] major investigations
+[79:51] on the strength of whistleblower allegations
+[79:53] and some of them actually
+[79:55] even if we're
+[79:57] when we're reporting on a story
+[79:59] after a year the whistleblower will still know
+[80:01] exactly where that document is
+[80:03] their knowledge can be encyclopedic
+[80:05] so it's really
+[80:07] a tremendous sort of resource for journalists
+[80:09] but the stakes are very high
+[80:11] and
+[80:13] that's something that
+[80:15] journalists who don't have a lot of experience sometimes can't appreciate
+[80:17] that the stakes are
+[80:19] high for the journalist
+[80:21] as you see right now with the case of Jim Risen
+[80:23] in the United States where
+[80:25] the Supreme Court has decided
+[80:27] he's the journalist who wrote about the CIA
+[80:29] and
+[80:31] he covers the CIA and
+[80:33] he's been prosecuted by the US Justice Department
+[80:35] the Supreme Court
+[80:37] a couple weeks ago decided not to hear his case
+[80:39] so effectively he could
+[80:41] at any moment be carted off to jail
+[80:43] for political reasons
+[80:45] I don't think it will happen but
+[80:47] he's under that threat
+[80:49] and so the stakes are high for the journalists
+[80:51] but they're higher
+[80:53] and they're more significant for the whistleblowers
+[80:55] because the whistleblower doesn't have
+[80:57] the protection of a big media organization
+[80:59] the whistleblower
+[81:01] sometimes has already lost
+[81:03] their job
+[81:05] and maybe trying to
+[81:07] find another job and so
+[81:09] working with a journalist can be very
+[81:11] very sort of
+[81:13] risky for them
+[81:15] and sometimes they're not even aware
+[81:17] of the risks that they're running before
+[81:19] they enter that relationship and then once
+[81:21] they do it's kind of too late because
+[81:23] they don't own the information once they've already
+[81:25] given it over so it's something that they really
+[81:27] need to be aware of before they start
+[81:29] speaking with a journalist
+[81:33] so from the perspective of the journalists
+[81:35] I'm going to
+[81:37] sort of think of this next section of what we
+[81:39] talk about is be careful what you wish
+[81:41] for so the journalist is praying
+[81:43] that an insider will come forward
+[81:45] and say well here's where
+[81:47] the bodies are buried and then
+[81:49] let's say this happens
+[81:51] or let's say sometimes the whistleblower
+[81:53] will come to them first and say
+[81:55] I'm coming to you with this
+[81:57] revelation that the journalist wasn't even aware
+[81:59] of beforehand and so
+[82:01] their prayer is answered in a sense
+[82:03] but there are challenges
+[82:05] to working with whistleblowers
+[82:07] and the challenges
+[82:09] are on many
+[82:11] fields they're psychological they're
+[82:13] legal
+[82:15] the first I think is psychological and
+[82:17] social by the time
+[82:19] the whistleblower has come
+[82:21] to the journalist
+[82:23] they have already been burned somewhere
+[82:25] it's very rare that whistleblower will
+[82:27] come first to a journalist
+[82:29] before speaking to anybody else
+[82:31] usually they've tried to raise the issue
+[82:33] within their organization
+[82:35] and they may have been shot down
+[82:37] and so they end up speaking to the journalist
+[82:39] but they're already feeling quite
+[82:41] hurt and burned and maybe fragile
+[82:43] and so there is
+[82:45] a kind of suspicion and
+[82:47] that can make it very difficult for the
+[82:49] journalist and the whistleblower to build up
+[82:51] rapport and a sense of trust
+[82:53] another challenge
+[82:55] is that the whistleblowers will be
+[82:57] experts on their piece of the experience
+[82:59] you can imagine
+[83:01] a painting
+[83:03] a large painting
+[83:05] and the whistleblower may know
+[83:07] this square of the painting
+[83:09] very, very well
+[83:11] but they may not be
+[83:13] as familiar with the other
+[83:15] parts of the painting
+[83:17] and when the journalist is going to go
+[83:19] to do the story the journalist is going to need
+[83:21] to understand the whole painting
+[83:23] and where that piece fits in the whole painting
+[83:25] so they're going to have
+[83:27] a different perspective
+[83:29] and that can also be a source
+[83:31] of tension that gets
+[83:33] to the issue of basically who controls the
+[83:35] story so
+[83:37] you know the whistleblower may come
+[83:39] to this relationship feeling
+[83:41] it's my story I brought it to you
+[83:43] without me you wouldn't have a story
+[83:45] and that's all true
+[83:47] but the journalist also has
+[83:49] a number
+[83:51] of masters and the journalist has an editor
+[83:53] who is a master he has a public he has a set of ethics
+[83:55] standards and so the journalist's
+[83:57] obligation is to produce a story
+[83:59] and so that is also
+[84:01] a source of tension and the journalist
+[84:03] can come to conclusions honest conclusions
+[84:05] that vary with what the whistleblower sees
+[84:07] the whistleblower may have
+[84:09] sometimes we've encountered whistleblowers
+[84:11] who come to us
+[84:13] because they've been passed
+[84:15] over for a promotion or they have
+[84:17] a grievance
+[84:19] they were selected
+[84:21] for a job and somebody else
+[84:23] was really the boss's pick
+[84:25] and so they
+[84:27] were sort of targeted for
+[84:29] intimidation quite apart from whistleblowing
+[84:31] so these
+[84:33] to a good journalist
+[84:35] these sort of
+[84:37] background stories don't
+[84:39] disqualify the information
+[84:41] but they do mean that you have to take that into consideration
+[84:43] and be aware of it so that
+[84:45] you know where the whistleblower is coming from
+[84:47] and you know the vulnerabilities
+[84:49] at some point after you've circled the flame
+[84:51] long enough
+[84:53] with the whistleblower
+[84:55] you do have to go to the target of the investigation
+[84:57] you have to say well what exactly
+[84:59] happened here
+[85:01] and sometimes the employer
+[85:03] or the public official
+[85:05] is going to start attacking the whistleblower
+[85:07] so you need to have
+[85:09] that information beforehand
+[85:11] and the
+[85:13] psychology is still very very fragile
+[85:15] there
+[85:17] I'm sorry
+[85:19] I have just a quick second here
+[85:21] sorry
+[85:23] so
+[85:27] there are some limits
+[85:29] to working with whistleblowers that
+[85:31] journalists have
+[85:33] and that the whistleblowers need to be aware of
+[85:35] the whistleblowers
+[85:37] and journalists who are working with them
+[85:39] can become very close
+[85:41] because they're in a very
+[85:43] emotional relationship sometimes
+[85:45] the whistleblower may call the journalists
+[85:47] frequently
+[85:49] and talk about
+[85:51] what they've experienced
+[85:53] and the progress on the story
+[85:55] and the measures of intimidation
+[85:57] that they may be facing even as they're talking
+[85:59] to the journalists like in real time
+[86:01] and so
+[86:03] they may develop a very close relationship
+[86:05] we've had whistleblowers who are calling journalists
+[86:07] at two in the morning
+[86:09] I myself have had that Saturday nights
+[86:11] and so there's
+[86:13] a stirring of the lines which
+[86:15] can be very risky
+[86:17] especially for the whistleblower
+[86:19] because at the end of the day the journalist
+[86:21] is a journalist and is going to have to answer
+[86:23] to an editor who's going to decide
+[86:25] on the story and when the story is going
+[86:27] to run
+[86:29] the journalist
+[86:31] will be willing to go to jail
+[86:33] if the journalist is worth his or her salt
+[86:35] he would be willing to go to jail
+[86:37] we do a lot of things to protect the whistleblower
+[86:39] but
+[86:41] really I think that what the journalist
+[86:43] is protecting is
+[86:45] the integrity of the journalistic process
+[86:47] not so much the person of the whistleblower
+[86:49] and that
+[86:51] can sort of be a place where you have
+[86:53] a kind of
+[86:55] misunderstanding an area for
+[86:57] you know
+[86:59] different expectations
+[87:01] which aren't always stated clearly
+[87:03] the priority of the journalist is going
+[87:05] to be telling the story and bringing about
+[87:07] change sometimes
+[87:09] but the psychology
+[87:11] is still a
+[87:13] powerful issue even though it's
+[87:15] unacknowledged so it's always sort of bubbling
+[87:17] below the surface and
+[87:19] both sides kind of need to be aware of it
+[87:21] when
+[87:23] the whistleblower comes to the journalist
+[87:25] the journalist is still going to have to go
+[87:27] through the same steps that they would
+[87:29] go through to report any story
+[87:31] so they're going to have to
+[87:33] get the documentation
+[87:35] they're going to have to assess the credibility
+[87:37] of the source they're going to have
+[87:39] to interview other sources
+[87:41] some of these sources may
+[87:43] especially where the whistleblower is anonymous
+[87:45] and some of these where the whistleblower
+[87:47] is not anonymous some of these sources
+[87:49] may
+[87:51] denigrate the whistleblower so that's
+[87:53] that can be also part of the reporting
+[87:55] process and part of the reporting
+[87:57] process is also reporting against the
+[87:59] story as a journalist you'll kind of say
+[88:01] well okay let me
+[88:03] assume this is not true are there other
+[88:05] possible explanations for what's being
+[88:07] described here and you have to kind of
+[88:09] report all of those out
+[88:11] and the whistleblower through this process
+[88:13] can come to feel like oh you don't believe
+[88:15] me you don't trust what I'm telling you
+[88:17] or
+[88:19] you're asking me hostile questions
+[88:21] I thought you know I thought I was
+[88:23] helping you get a story out but that's
+[88:25] all part of the reporting process
+[88:27] and so
+[88:29] there's sometimes room for some
+[88:31] kind of misunderstandings
+[88:33] or tensions that you know you just
+[88:35] have to kind of really take a step back
+[88:37] and explain this is how we have
+[88:39] to do the job and if we don't do
+[88:41] it now somebody else reports it
+[88:43] after we report the story and it really
+[88:45] undermines everything so
+[88:47] it's kind of like
+[88:49] almost like a mini course in how
+[88:51] to do journalism that we have
+[88:53] to explain and then the journalist is also
+[88:55] learning at the same time what is the
+[88:57] process like for the whistleblower
+[88:59] what is the whistleblower going through
+[89:01] really kind of
+[89:03] mutual education going on for both sides
+[89:05] and
+[89:07] you know we still
+[89:09] come back to this question of
+[89:11] who owns the story
+[89:13] and that is something that
+[89:15] kind of bubbles through this
+[89:17] relationship from beginning to end
+[89:19] who owns the story
+[89:21] how is it going to be told
+[89:23] will I get to see a copy of it before it runs
+[89:25] a lot of people expect that
+[89:27] in different countries I understand
+[89:29] there are different standards for that
+[89:31] in the U.S. generally a reporter would be
+[89:33] fired for showing a story to somebody
+[89:35] before
+[89:37] publication unless it was
+[89:39] very unusual circumstances
+[89:41] normally you would not show a story
+[89:43] before publication and a whistleblower can
+[89:45] feel like wait a minute I'm trusting you with
+[89:47] my life and I can't even see what's
+[89:49] going to be out there in the public beforehand
+[89:51] and that can be a hard pill for
+[89:53] somebody to swallow I also
+[89:58] wanted to talk for a minute about
+[90:00] I've been talking so much about problems
+[90:02] but I wanted to talk a minute about
+[90:04] well what are some of the
+[90:06] opportunities because
+[90:08] there are ways in which the work of
+[90:10] lawyers and journalists
+[90:12] and techies
+[90:14] and civil society can complement each
+[90:16] other and
+[90:18] I think the borders
+[90:20] of traditional journalism are really kind
+[90:22] of breaking down so
+[90:24] traditional journalism like
+[90:26] in the dinosaur era when I went to
+[90:28] high school was about
+[90:30] delivering the news
+[90:32] you worked for a newspaper
+[90:34] or a broadcast medium
+[90:36] or radio and you had a beat
+[90:38] you went out you got the news
+[90:40] you wrote it up in a story
+[90:42] and you delivered it
+[90:44] and democracy did the rest
+[90:46] if you're talking about a newspaper it
+[90:48] actually was very physical
+[90:50] you put the paper out somebody
+[90:52] you know somebody
+[90:54] threw the newspaper at the front door
+[90:56] of somebody's house
+[90:58] the subscriber's house
+[91:00] and you were delivering the news
+[91:02] and with the internet
+[91:04] it was pretty much originally the same
+[91:06] you know we even built websites
+[91:08] that looked like newspapers
+[91:10] and they delivered the news
+[91:12] and whatever people did with the news
+[91:14] that was their business
+[91:16] that's really changing now
+[91:18] because for two actually
+[91:20] two important reasons
+[91:22] one is that investigative reporting
+[91:24] we're talking about here
+[91:26] investigative reporting has moved
+[91:28] into the non-profit sphere
+[91:30] and so newspapers
+[91:32] with very few exceptions have pretty much
+[91:34] given up
+[91:36] investigative reporting
+[91:38] there are a few bright lights
+[91:40] that are exceptions
+[91:42] but a lot of newspapers have
+[91:44] really trimmed their investigative staffs
+[91:46] and that they have moved
+[91:48] into the non-profit sphere
+[91:50] so foundations are supporting them
+[91:52] and what do foundations ask for
+[91:54] when they decide what to support
+[91:56] they ask for impact
+[91:58] and so
+[92:00] news organizations are increasingly
+[92:02] trying to show well
+[92:04] here are the laws that we changed
+[92:06] that were changed as a result of our reporting
+[92:08] here's who went to jail
+[92:10] here's how it was picked up
+[92:12] by other media organizations
+[92:14] here's how people are talking about it
+[92:16] through social media
+[92:18] they're all about showing impact
+[92:20] and so
+[92:22] in that sort of
+[92:24] quest advocacy organizations
+[92:26] they're not that far anymore
+[92:28] from what advocacy groups are doing
+[92:30] there is still a line
+[92:32] a good news organization
+[92:34] still won't cook its results
+[92:36] or reporting in order to
+[92:38] you know
+[92:40] affect a particular
+[92:42] outcome they'll still present the news
+[92:44] fairly but
+[92:46] you will have
+[92:48] news organizations that will send
+[92:50] their stories to advocacy groups
+[92:52] on all sides of an issue and say
+[92:54] thought this would interest you
+[92:56] to count on them to help push it out
+[92:58] to their members
+[93:00] so that line is blurring a little bit
+[93:02] and social media
+[93:04] is actually making media more social
+[93:06] so
+[93:08] for better or for worse
+[93:10] and I think there are good civic reasons
+[93:12] to not necessarily celebrate this trend
+[93:14] but the border between
+[93:16] journalism and advocacy
+[93:18] and civil society is blurring
+[93:20] a little bit and I think
+[93:22] in that space there may be some interesting room
+[93:24] for discussions today so thank you
+[93:26] very much and
+[93:28] good conference.
+[93:34] Thank you so much Diana for sharing
+[93:36] your ideas when it comes to
+[93:38] journalism and whistleblowing
+[93:40] I think it's absolutely fascinating
+[93:42] about your analysis how
+[93:44] investigative journalism is shifting from
+[93:46] the old school journalistic
+[93:48] media organizations more into nonprofit
+[93:50] and what does it mean also when it comes to
+[93:52] the effects and the impact you have to have
+[93:54] I think that's a very interesting
+[93:56] angle and I think also it's going to be
+[93:58] discussed during the afternoon.
+[94:00] Thank you so much to all four of you
+[94:02] for sharing your ideas in this
+[94:04] plenary morning session. Two of you we're going to
+[94:06] see also later on in the afternoon
+[94:08] session in plenary session at four
+[94:10] which is going to be Diana and Annie
+[94:12] who are going to be also in a plenary session
+[94:14] back at four o'clock where we're here
+[94:16] but what's going to happen next
+[94:18] we're going to have lunch of course
+[94:20] they're going to be lunch bags where you exit
+[94:22] this room right to your left so this is the lunch
+[94:24] and after an hour we're going to start
+[94:26] with the first round of workshops
+[94:28] there are going to be two workshops so you'll be able to attend two of them
+[94:30] as already said
+[94:32] there's a national strand of workshops
+[94:34] three on all the three different things
+[94:36] we have been discussing today journalism
+[94:38] legal and technology
+[94:40] and there's an international strand
+[94:42] with again three workshops on
+[94:44] the international level discussing
+[94:46] we're going to have a sheet, here they are
+[94:48] these are the six workshops being organized
+[94:50] two times
+[94:52] you also see
+[94:54] where they are going to be hold
+[94:56] which is quite important, on your badge
+[94:58] you can see probably which workshop you're going to attend
+[95:00] if you don't have any workshop yet
+[95:02] please go downstairs so we can arrange
+[95:04] for you the right workshop
+[95:06] here you see the different floors we're going to be
+[95:08] this is the second floor
+[95:10] so if you have a workshop on the second floor
+[95:12] you're going to be on this floor somewhere
+[95:14] first floor well makes sense one downstairs
+[95:16] and there are a couple of them
+[95:18] the two on the fifth floor
+[95:20] you can use the elevator or you can of course
+[95:22] use the stairs
+[95:24] and then after the two workshops
+[95:26] hopefully are going to be very interactive
+[95:28] again I would like to ask the whistleblowers also to share
+[95:30] their ideas and visions
+[95:32] it's about strengthening the position of whistleblowers
+[95:34] so please use your story also within the workshops
+[95:36] so we can build upon how you from the different perspective
+[95:38] can strengthen your position
+[95:40] we'll be back here at four in plenary
+[95:42] have great workshops, thanks so much

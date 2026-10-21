@@ -1,0 +1,121 @@
+Our Technology - GlobalLeaks Crime Reporting Platform - TellSomeone.org.uk You're Not Alone The Inquiries How This Works Your Safety Get Involved 
+ REPORT THEM Menu 
+ You're Not Alone The Inquiries How This Works Your Safety Get Involved REPORT THEM 
+
+ Our Technology
+ Built on the World's Most Trusted Whistleblowing Platform
+ This site runs on GlobaLeaks — the same secure, open-source whistleblowing software trusted by the International Criminal Court, over 10,000 government institutions across Europe, major news organisations like Le Monde, and human rights groups including Amnesty International.
+ Unlike simple contact forms or commercial platforms, GlobaLeaks is purpose-built for handling the most sensitive disclosures while protecting both whistleblowers and the organisations receiving reports.
+
+ This Isn't An Instagram Survey Form
+ Security Features
+ • Designed in adherence to ISO 27001:2022, CSA STAR, and OWASP recommendations for security compliance
+ • Full data encryption for whistleblower reports and recipient communications
+ • Supports digital anonymity through Tor integration
+ • Built-in HTTPS support with TLS 1.3 standard and SSLabs A+ rating
+ • Automatic enrollment for free digital certificates with Let's Encrypt
+ • Multiple penetration tests with publicly available reports
+ • Two-Factor Authentication (2FA) compliant with TOTP RFC 6238
+ • Integrated network sandboxing with iptables
+ • Application sandboxing with AppArmor
+ • Complete protection against automated submissions (spam prevention)
+ • Continuous peer review and periodic security audits
+ • PGP support for encrypted email notifications and file downloads
+ • Leaves no traces in browser cache
+
+ Legal Features
+ • Designed in adherence to ISO 37002:2021 and EU Directive 2019/1937 recommendations for whistleblowing compliance
+ • Supports bidirectional anonymous communication (comments/messages)
+ • Customizable case management workflow (statuses/sub-statuses)
+ • Conditional reporting workflow based on whistleblower identity
+ • Manages conflicts of interest in the reporting workflow
+ • Custodian functionality to authorize access to whistleblower identity
+ • GDPR privacy by design and by default
+ • Configurable GDPR data retention policies
+ • GDPR-compliant subscriber module for new SaaS users
+ • No IP address logging
+ • Includes an audit log
+ • Integrates with existing enterprise case management platforms
+ • Free Software OSI Approved AGPL 3.0 License
+
+ Trusted Worldwide
+ • Agency for Digital Italy (AgID)
+ • Amnesty International
+ • Barcelona City Hall
+ • BIANCO (Madagascar)
+ • Danish Data Protection Authority
+ • EcuadorTransparente
+ • Elephant Action League
+ • Federal Office of Justice (Germany)
+
+ • Filtrala (Spain)
+ • Free Press Unlimited
+ • IndonesiaLeaks
+ • International Criminal Court
+ • Investigate Europe
+ • Kenekanko (Mali)
+ • Le Monde
+ • Leaks.ng (Nigeria)
+
+ • Ljost (Iceland)
+ • Makaleaks (Angola)
+ • MéxicoLeaks
+ • National Anticorruption Authority (ANAC)
+ • National Cybersecurity Agency (ACN)
+ • National Transparency Authority (Greece)
+ • OCCRP
+ • PeruLeaks
+
+ • Platform to Protect Whistleblowers in Africa
+ • PubLeaks (Netherlands)
+ • Transparency International
+ • Valencian Antifraud Authority
+ • WhistleblowingPA
+ • WildLeaks
+ • Xnet (Barcelona)
+
+ Open Source Development
+ Maintained by Whistleblowing Solutions Impresa Sociale S.r.l. (WBS) . Available at https://github.com/globaleaks 
+ Original Authors
+ • Arturo Filastò
+ • Claudio Agosti
+ • Fabio Pietrosanti
+ • Giovanni Pellerano
+ • Michele Orrù
+
+ Why This Level of Security Matters
+ The rape gang scandal involves powerful networks with connections to police, local government, and other institutions. Standard contact forms or commercial platforms offer no protection against sophisticated surveillance or intimidation attempts.
+ GlobaLeaks was built to handle disclosures involving war crimes, international corruption, and state-level threats — exactly the level of protection needed for this inquiry. Your safety is protected by the same technology trusted by the world's most important accountability institutions.
+
+ About
+ TellSomeone is provided by the team at the The Restorationist , a British publication based in the US. We're sick of this and it has to end.
+
+ Safeguarding
+ Duties of Care 
+ Emergency Help 
+ Support Services 
+ I Love You So Much ❤ 
+
+ Data Safety
+ Our Technology 
+ Encryption 
+ Terms of Use 
+ Privacy Policy 
+ Removal 
+
+ Legal/Access
+ For Caregivers 
+ For Police & Intel Officers 
+ For MPs & Councillors 
+ For Solicitors 
+ For Journalists 
+
+ Answers
+ Common Questions 
+ Online Safety Act 
+ Site Credits 
+
+ © 2025 TellSomeone.org.uk. A gift for children with nowhere else to go. From your friends at The Restorationist , the creators of Project Afuera . and the Great Repeal 
+ And he took the children in his arms, placed his hands on them and blessed them. (Mark 10:16)
+
+ "

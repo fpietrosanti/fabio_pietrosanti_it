@@ -1,0 +1,217 @@
+This is not a scam: Real Truecrypt for MacOs is here! : OSXCrypt.org - Truecrypt for MAC 
+
+ OSXCrypt.org 
+
+ Open Effort for Multiple Encryptions under MacOsX 
+
+ Home 
+
+ About 
+
+ Download 
+
+ Funders 
+
+ Staff 
+
+ RSS 
+
+ This is not a scam: Real Truecrypt for MacOs is here!
+
+ Ok guys, you accused us of cheating, scamming, phishing, terrorism and even stolen candies but at the end of it we’re OUT with the First OpenSource Platform for Volume Encryption on MacOs X (aka ‘Look, mom! Truecrypt on my Macbook!’) .
+
+Having the opportunity to not trust FileVault has never been so sweet… 
+
+ So, thanks to the Funders (hey guys, you Rock. Really.) and thanks to the Staff (being Orlando Bassotto, Matteo Flora and Fabio Pietrosanti) now you can play with it. This is the REAL stuff. 
+
+ Grab it in the Download page and if you wish look at the Tutorial . 
+
+ Get ready and Happy Porn Secrets ! 
+
+ DIGG IT! 
+
+ P.S.: Hey, OSS Community! After the source code release the OSX Framework will allow the implementation of a lot more file based encrypted formats (LoopAES, DMCrypt, Luks, PGP). 
+
+ <trolling_mode>
+
+P.S.2: Hey, where is Truecrypt 5.0 released in January? And where are the Forums on Truecrypt site?
+
+</trolling_mode> 
+
+ UPDATE: AptGetUpdate.de has already published a Tutorial !
+
+ January 23, 2008 | Filed Under administration , releases   
+
+ --> 
+
+ Comments
+
+ 13 Responses to “This is not a scam: Real Truecrypt for MacOs is here!” 
+
+ bowa on 
+ January 23rd, 2008 12:40 pm 
+
+ where is the source … it should be available according to the license.
+
+ CoreTeam on 
+ January 23rd, 2008 12:44 pm 
+
+ As stated in the Download page Source will be online at the first Beta. Spaghetti code right now, but you can ask for the source with a simple mail.
+
+ Wes on 
+ January 23rd, 2008 2:25 pm 
+
+ This is awesome…but guys, honestly, nothing screams “scam” like somebody peddling security software and promising that it’s not a scam 
+
+ Especially when you post on FullDisclosure with “NOT A SCAM!” as the subject ; )
+
+ Best of luck, though!
+
+ CoreTeam on 
+ January 23rd, 2008 2:32 pm 
+
+ @Wes
+
+ Sorry, we did it for the LULZ 
+
+ CoreTeam on 
+ January 23rd, 2008 5:17 pm 
+
+ NOTE 
+
+ This tutorial in german is beautiful . 
+
+ Thanks, AptGetUpdate.de 
+
+ Phil on 
+ January 23rd, 2008 6:07 pm 
+
+ cool - I’ll try it out tomorrow and hope you release the Source Code. Your Video Tutorial mentioned already “Don’t Trust Him!” 
+
+ The only that is missing is a nice GUI (but I’m sure others will take care of that).
+
+ Great work!! - I hope it’s also running on PowerPC?
+
+ btw: I think you should add a PayPal-Button here - would like to throw in a few bucks!
+
+ CoreTeam on 
+ January 24th, 2008 1:48 am 
+
+ @Phil 
+
+ If you need the sourcecode before the “polishing” just follow the indications in the Download section. 
+
+Happy to know that the joke in the tutorial were seen! 
+
+ For the Paypal button you’re right, and the gui is on the way . A developer is already taking care of that either by releasing it as shareware ot by placing another bounty… 
+
+ Thanks for passing by!
+
+ M
+
+ Truecrypt für Mac OS X on 
+ January 24th, 2008 2:09 am 
+
+ […] ist eine erste Testversion von OSXCrypt erschienen. Mit diesem Framework ist es möglich unter Mac OS X Truecrypt-Volumes zu erzeugen und […]
+
+ open.source.mac » Blog Archiv » TrueCrypt für Mac OS X on 
+ January 24th, 2008 3:29 am 
+
+ […] scamming, phishing, terrorism and even stolen candies but at the end of it we’re OUT with the First OpenSource Platform for Volume Encryption on MacOs X (aka ‘Look, mom! Truecrypt on my Macbook!’). Having the opportunity to not trust FileVault has […]
+
+ Bytes-Delivery on 
+ January 24th, 2008 4:13 am 
+
+ Endlich eine Version von Truecrypt für osX… 
+
+ hypf Hier kann man eine beta Downloaden, endlich released. freu 
+
+Jetzt brauch ich nicht mehr den Stick immer am Fileserver anschliessen, weil Linux. Sondern kann das auch mal direkt am iMac machen.
+
+Werde ich nacher mal zuhause austesten und mich mi…
+
+ Italians Do It Better: Truecrypt su MAC grazie a OsxCrypt -- Lastknight.com on 
+ January 24th, 2008 5:38 am 
+
+ […] il developer, il poliedrico (italianissimo) Orlando, e dopo tanti piccoli passi oggi si pubblica la versione Alpha di OSXCrypt. Italianissima. Battendo sul tempo un Truecrypt.org che in fretta e furia ha scritto la […]
+
+ 100% supported on 
+ January 24th, 2008 9:36 am 
+
+ Great work.
+
+The first real cross plattform solution.
+
+ Gavin on 
+ January 25th, 2008 3:48 pm 
+
+ Thank you very much! I could not find anything near truecrypt which was usable on Windows/Linux/BSD/MacOS … this is really really huge for me. Thank you again, and keep up the great work!
+
+ Leave a Reply 
+
+ Name 
+
+ Email Address 
+
+ Website 
+
+ XHTML: You can use these tags: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <code> <em> <i> <strike> <strong> 
+--> 
+
+ About
+
+ OsxCrypt.org is an open effort for porting OpenSource encryption tools on MacOsX with seamingless integration with the OS. It is run by the Staff and thanks to the donations of the Funders .
+
+ Imporant Links
+
+ Fundable Project 
+
+ Help Forums 
+
+ Official Truecrypt 
+
+ Recent News
+
+ OSXCrypt-6.2A and Source Code released 
+
+ Some clarification: no spaghetti code, only tight integration and BETA quality 
+
+ This is not a scam: Real Truecrypt for MacOs is here! 
+
+ First alpha 5 public release is coming! 
+
+ Got success with kernel based encryption filter! 
+
+ Habemus Sourceforge! 
+
+ Hudston, we’re coming! 
+
+ Categories
+
+ administration 
+
+ notes 
+
+ release 
+
+ releases 
+
+ Archives
+
+ January 2008 
+
+ December 2007 
+
+ November 2007 
+
+ Admin
+
+ Login 
+
+ WordPress 
+
+ XHTML 
+
+ Copyright © 2007 OSXCrypt.org • Powered by WordPress • Using Silhouette theme created by Brian Gardner 
+
+ OSXCrypt.org is Digg proof thanks to caching by WP Super Cache !

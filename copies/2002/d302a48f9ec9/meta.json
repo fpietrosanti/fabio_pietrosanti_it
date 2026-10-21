@@ -6,6 +6,6 @@
  "content_type": "application/x-gzip",
  "bytes": 29702,
  "sha256": "157303485cda3da0805bbec7aa5f9c0eb27bba0996bbd7cf95577753ef982fd6",
- "name_found": false,
+ "name_found": true,
  "fetched_at": "2026-09-18T00:46:07+00:00"
 }

@@ -1,0 +1,276 @@
+Una volta per tutte: qual è la differenza tra hacker black hat e white hat 
+
+ + Italiano 
+
+ Chiudi 
+
+ VICE
+Edizioni
+
+ Italiano 
+
+ Bahasa Indonesia 
+
+ Czech 
+
+ Danish 
+
+ Deutsch 
+
+ English 
+
+ Español 
+
+ Français 
+
+ Nederlands 
+
+ Polish 
+
+ Portuguese 
+
+ Română 
+
+ Russian 
+
+ Srpski 
+
+ Swedish 
+
+ Ελληνικά 
+
+ عربي 
+
+ 日本語 
+
+ 한국어 
+
+ Apri il menu 
+
+ Chiudi il menu 
+
+ Magazine 
+
+ TV 
+
+ News 
+
+ Life 
+
+ Tech 
+
+ Munchies 
+
+ Music 
+
+ Waypoint 
+
+ Shop 
+
+ Members 
+
+ Newsletters 
+
+ Instagram 
+
+ TikTok 
+
+ YouTube 
+
+ Video 
+
+ TV 
+
+ Shop 
+
+ Members 
+
+ Facebook 
+
+ Instagram 
+
+ TikTok 
+
+ Reddit 
+
+ YouTube 
+
+ Cerca 
+
+ Tecnología 
+
+ Una volta per tutte: qual è la differenza tra hacker black hat e white hat
+
+ Di Federico Martelli 
+
+ Febbraio 7, 2018, 12:54pm 
+
+ Share: 
+ Click to share on X (Opens in new window) X 
+
+ Click to share on Facebook (Opens in new window) Facebook 
+
+ Share using Native tools Share Copied to clipboard 
+
+ Come forse già saprete, lo scorso anno la piattaforma Rousseau del Movimento 5 Stelle si è ritrovata ad interagire con due hacker: Evariste Gal0is e rogue0 . Il primo aveva segnalato le vulnerabilità informatiche della piattaforma, contattando direttamente i gestori di Rousseau e poi tramite un post pubblico . Ieri è stata diffusa la notizia che la Polizia Postale ha perquisito la casa di un cittadino sospettato di essere Evariste contro cui era stata sporta denuncia .
+
+ L’attacco effettuato da rogue0, invece, era di natura completamente diversa: aveva affermato di essere all’interno della piattaforma Rousseau da mesi, mostrato di poter accedere con le password degli iscritti e persino messo in vendita i dati rubati. All’epoca dei fatti, sul blog di Grillo — che ora non tratta più direttamente le notizie del Movimento — non è mai stata fatta menzione a questo secondo hacker . Ad ogni modo, rogue0 è tornato in azione. 
+
+ Videos by VICE 
+
+ Come riportato da David Puente sul suo blog , l’hacker ha pubblicato sul sito del Movimento 5 Stelle i dati personali di Davide Casaleggio attraverso l’account “federico-birks.” Il tutto in risposta alle dichiarazioni di Luigi Di Maio sui fantomatici mandanti di Evariste da identificare. In un’intervista rilasciata al Fatto Quotidiano, il candidato premier del Movimento 5 Stelle aveva infatti dichiarato che, “Un attacco hacker di quella portata richiede delle ingenti risorse economiche e per questa ragione noi vogliamo conoscere i mandanti politici. Non ci accontentiamo di questa dichiarazione che abbiamo ascoltato: ‘volevamo testare l’affidabilità della piattaforma’ ma chi ci crede?”
+
+ È tornato all'opera @r0gue_0 pubblicando sul sito del @Mov5Stelle dati personali di Davide @casaleggio usando l'account "federico-birks" pic.twitter.com/kgS4LjsIxv 
+— David Puente (@DavidPuente) February 7, 2018 
+
+ Grazie a rogue0, chiunque abbia visto il post originale (i dati sono stati oscurati nel tweet di Puente), ad esempio, ha ora il numero di telefono di Davide Casaleggio. Una fonte interna al Movimento 5 Stelle ha confermato ad Agi che i dati di cui è entrato in possesso rogue0 sono effettivamente quelli di Casaleggio. Non serve dire che questo tipo di approccio è leggermente differente da quello adottato da Evariste Galois. Anche se non siamo di sicuro i primi a porci la domanda , è sempre bene sottolineare la differenza tra gli hacker black hat e i white hat.
+
+ Con ‘Black hat’ si definisce un hacker con intenzioni malevole in grado di impossessarsi dei dati di qualcuno per rivenderli, o per sfruttarli contro la vittima stessa o anche solo per la semplice soddisfazione di dimostrare le sue abilità informatiche. Gli hacker ‘White hat’ invece, sono spinti da motivazioni etiche, accademiche oppure si introducono nei sistemi informatici per lavoro, in modo da individuarne le vulnerabilità e mettere la vittima al corrente dei suoi punti deboli. Ovviamente, il mondo dell’hacking prevede anche una terza categoria nota come ‘Gray hat’ per raggruppare chi non è interamente classificabile come hacker etico o malevolo.
+
+ Il trattamento riservato dal Movimento 5 Stelle a Evariste non è risultato molto gradito nell’ambiente degli informatici italiani — Per capirne di più ho parlato al telefono con due esperti per farmi spiegare quanto possa essere chiara la distinzione tra i vari tipi di comportamento hacker in Italia. Stefano Zanero è docente di informatica al Politecnico ed esperto di sicurezza. Su Twitter si è detto disponibile a fare da consulente di parte pro bono per Evariste Gal0is .
+
+ Denunciare i white hat. Che cosa ridicola. Mi offro pro bono come consulente tecnico di parte. https://t.co/y1HryKjXBp 
+— Stefano Zanero (@raistolo) February 6, 2018 
+
+ “La distinzione tra hacking etico e malevolo non è chiara in Italia, ma la comunicazione che c’è stata a riguardo da parte del Movimento 5 Stelle non aiuta. Per i vertici del M5S, gli hacker che hanno rubato i dati di Rousseau sono stati finanziati con ingenti somme di denaro ma in realtà il tipo di operazione compiuta da Evariste potrebbe farla un qualsiasi studente di informatica delle superiori un po’ annoiato in un pomeriggio,” mi ha spiegato Zanero. 
+
+ L’impressione è che si stia sfruttando Evariste come capro espiatorio seguendo un ragionamento simile a questo: ci sono delle falle e piuttosto che ammetterne l’esistenza e ringraziare chi le segnala, è meglio diffondere l’idea di essere un sito sotto attacco da parte di fantomatici malintenzionati. Questa visione dei fatti potrebbe anche essere smentita dalle dichiarazioni della fonte anonima di Agi interna al Movimento 5 Stelle , “quando i vertici del M5S hanno appreso dell’identificazione di Evariste, in realtà avevano capito che si trattava del black-hat,” quindi potrebbe trattarsi di semplice ignoranza.
+
+ In ogni caso, lo scenario non è favorevole per i white hat “In questo modo, passa il messaggio che quando si scopre una vulnerabilità è meglio starsene zitti, d’altronde nessuno è obbligato a segnalare quello che scopre. Invece, per prima cosa, basterebbe non querelare chi fa segnalazioni, e come seconda cosa, prendere visione del problema, rimediare e poi contattare chi aveva segnalato per riportare che sì è fatto qualcosa. Di base ci muoviamo già in un clima di sfiducia: non è raro che hacker più giovani e studenti contattino i loro professori come me quando scoprono qualcosa perché le segnalazioni arrivino da figure più autorevoli,” ha continuato Zanero. 
+
+ La responsible disclosure è il modello di comportamento ideale da adottare in queste situazioni. In breve, segnalare una vulnerabilità a chi di dovere dandogli il tempo necessario per rimediare e solo dopo comunicare al mondo la notizia. “Il problema è talmente sentito che l’ISO, l’organizzazione internazionale per la definizione di norme tecniche in ogni ambito ha stabilito degli standard ISO per la Vulnerability Disclosure,” ha aggiunto Zanero. 
+
+ Play video 
+
+ Una lezione di Zanero sul tema 
+
+ “Innanzitutto bisogna fare una distinzione tra chi identifica i black hat e i white hat solo in base al loro comportamento più o meno legale,” mi spiega Fabio Pietrosanti di Hermes Center , che ha preso parte alla petizione online per supportare Evariste , “Nel mondo degli hacker il discorso non viene limitato al rispetto delle leggi, ma si prendono in considerazione anche le intenzioni di chi effettua l’hack. Così, si arriva a parlare di etica,” continua. “D’altronde si parla di ethical hacking, non di legal hacking,” ha chiarito Pietrosanti. “Sotto questo punto di vista, azioni che potrebbero violare la legge sono giustificabili dal contesto: un esempio estremo è quello di chi diffonde dati segreti a fin di bene in un regime dittatoriale.”
+
+ Pietrosanti continua, “un altro ambito in cui fare la distinzione è quello di chi fa hacking per professione, in quel caso ci sono degli standard precisi da rispettare,” come il già citato standard ISO. “Un altro passaggio importante sarà l’entrata in vigore del nuovo Regolamento Europeo sulla Protezione Dati quest’anno. Le aziende saranno obbligate a segnalare tutte le violazioni che hanno subito e questo cambierà le carte in tavola.”
+
+ Tornando al caso di Evariste, secondo Pietrosanti, l’hacker era mosso da motivi etici anche se come tutti gli hacker giovani potrebbe aver sbagliato qualcosa nel metodo. “Ma ammesso che non si segnali una vulnerabilità a chi di dovere perché comunque ci si è tolti la soddisfazione di essere riusciti in un’impresa, come assicurarsi che l’autore della scoperta eviti di rivelarla ad amici che poi la rivelano ad altri amici fino a raggiungere le orecchie di un malintenzionato finendo per fare un danno comunque?” se passa il messaggio che è meglio non segnalare, allora allora abbiamo la ricetta per un disastro. 
+
+ La grande speranza è che Evariste venga scagionato, ma che sopratutto le forze politiche trattino il tema dell’hacking in modo meno disinformato.
+
+ Sempre di ieri è la notizia della violazione del sito del PD di Firenze da parte di AnonPlus con diffusione di vecchi dati personali di Matteo Renzi. Di che tipo di attacco si tratta in questo caso? “Si tratta di hacktivismo politico,” mi ha spiegato Pietrosanti, “In passato si esprimeva attraverso il cosiddetto web defacing, ovvero, bucare un sito per caricarci sopra un altro messaggio — qui trovate un archivio di questi casi,” mi spiega. “Oggi, invece, il metodo principale è il data dump: impossessarsi di dati privati e diffonderli per causare il maggior disagio possibile. Questo tipo di hacking si esprime attraverso mezzi illegali e la discussione è aperta su quanto possano essere etiche le loro intenzioni: è un discorso simile a quanto è lecito manifestare in piazza.”
+
+ Segui Federico su Twitter: @spaghettikraut 
+
+ Seguici su Facebook e Twitter . 
+
+ Tag:
+ cybersecurity , elezioni 2018 , Hacking , La Guida di Motherboard alle Elezioni , Motherboard , Movimento 5 Stelle , Rousseau hackerato , Tech 
+
+ Share: 
+ Click to share on X (Opens in new window) X 
+
+ Click to share on Facebook (Opens in new window) Facebook 
+
+ Share using Native tools Share Copied to clipboard 
+
+ Contenuti simili
+
+ (Photo by Johnny Nunez/WireImage) 
+
+ ‘I Should Have Been Left There’: DJ Enuff Says His Hot 97 Departure Was Long Overdue 
+
+ 2 ore fa 
+
+ Di Caleb Catlin 
+
+ Jonathan Kitchen/Getty Images 
+
+ September Is Breakup Season. Will Your Relationship Survive? 
+
+ 7 ore fa 
+
+ Di Sammi Caramela 
+
+ Catherine Falls Commercial/Getty Images 
+
+ This Is the One Thing Almost Every Cheating Husband Has in Common 
+
+ 7 ore fa 
+
+ Di Sammi Caramela 
+
+ Maskot/Getty Images 
+
+ 6 Phrases That Can Save Your Marriage, According to Experts 
+
+ 7 ore fa 
+
+ Di Ashley Fike 
+
+ Panom/Getty Images 
+
+ If Mosquitos Love You, This Might Be Why 
+
+ 7 ore fa 
+
+ Di Ashley Fike 
+
+ Aura Mason – Credit: Aura 
+
+ The 5 Best Digital Photo Frames on the Market Right Now 
+
+ 7 ore fa 
+
+ Di Matt Jancer 
+
+ Altro
+da VICE
+
+ Canon PowerShot ELPH 360 HS – Credit: Canon 
+
+ The 3 Best Point-And-Shoot Cameras for Under $1K 
+
+ 8 ore fa 
+
+ Di Matt Jancer 
+
+ Courtesy of author 
+
+ Get Baja Blasted With This THCa Diamonds Vape 
+
+ 9 ore fa 
+
+ Di Veronica Booth 
+
+ Christopher Polk/Staff/Getty Images 
+
+ On This Day in 2009, Kanye West Grabbed the Mic From Taylor Swift at the MTV VMAs 
+
+ 17 ore fa 
+
+ Di Evan Roberson 
+
+ (Photo by Marcus Ingram/Getty Images) 
+
+ Paul Wall Reveals That Jay-Z Didn’t Charge Him to Use ‘Drive Slow’ on His Debut Album 
+
+ 22 ore fa 
+
+ Di Caleb Catlin 
+
+ VICE Media 
+
+ Instagram 
+
+ TikTok 
+
+ YouTube 
+
+ © 2025 VICE Digital Publishing, LLC
+
+ Thank for your puchase!
+
+ You have successfully purchased.
+
+ OK 
+
+ × 
+
+ Add your account details
+
+ Next

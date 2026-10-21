@@ -1,0 +1,713 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:00] cosa che potesse essere utile anche da utilizzare in questo tipo di paesi
+[00:05] allora se l'hai presa molto bene e ha detto cazzo facciamo l'acaton di global
+[00:11] x troviamoci tutti nerd e facciamo cazzo in tre giorni produciamo del codice e
+[00:17] facciamo partire il progetto global x è stato come una partelletta cioè c'è un
+[00:23] tedesco un orizzontese un latinese un milanese si trovano in una città in
+[00:28] toscana cosa fanno un acaton si è stato veramente una situazione abbastanza
+[00:35] assurda però è funzionata cioè riuscire a mette delle persone a dire ok non
+[00:39] pensate a un cazzo d'altro noi stranetevi abbeate un obiettivo avete 48 ore
+[00:44] fatelo è funzionato e funzionato nel senso che cavolo al cosa era l'ultimo il
+[00:51] penultimo giorno di acaton abbiamo codato fino alle otte e mezzo è stato
+[00:57] fatto l'ultimo commit del mattino dopo insomma svariate ore
+[01:04] e ce l'abbiamo fatta perché siamo qua e stiamo siamo qua ce l'abbiamo fatta e
+[01:15] faremo la prima presentazione in cui abbiamo veramente del codice funzionante
+[01:20] e alla fine della presentazione faremo partire la demo di global x cioè lo
+[01:26] faremo girare cioè questa sera voi state assistendo ad un evento molto
+[01:31] importante cioè state assistendo alla nascita di global x quindi ora poi voi
+[01:35] dite va bene che stronzata però voi non puoi stare a immaginare global x a due
+[01:39] anni cosa sarà davvero e poteste dire ai vostri figli io c'ero piuttosto che direi
+[01:44] ai vostri figli di velo per di velo per di velo per di velo per di velo per di velo
+[01:48] oppure così simili esatto e quindi niente direi che possiamo
+[01:55] iniziare quindi ora partiamo da quale qual è il
+[02:03] programma cosa che vogliamo di che cosa vogliamo parlare stasera
+[02:07] vogliamo parlare di perché global x esiste perché c'è nata questa quest'idea
+[02:12] perché crediamo in questo progetto perché abbiamo passato 36 ore a codare
+[02:20] negando i principi basilari di igiene e insomma varie altre cose e quindi sì
+[02:33] insomma perché da cosa nasce questo questo bisogno di di fare global x vi
+[02:40] parleremo di come funziona cioè anche da un punto di vista tecnico che cosa
+[02:45] che viene fatto poi chi utilizzerà effettivamente il software global x cioè in
+[02:52] quali contesti si applica e poi siccome comunque lo stato del progetto è ancora
+[02:59] molto embryonale abbiamo bisogno di e quindi vi parleremo di come potrete
+[03:10] anche voi iniziare a lavorare a smanettare su global x e diventare dei
+[03:18] random global x contributors e alla fine faremo partire la demo quindi iniziamo con
+[03:29] questa cosa con questo concetto all'interno dell'organizzazione di
+[03:33] global x che è quello del a random global x asterisco non c'è una
+[03:39] gerarchia di potere all'interno di global x non ci sono ruoli ufficiali
+[03:43] ognuno è semplicemente un random global x contributor developer spoke person o
+[03:49] advocate questo che se non sembra è molto difesa esatto perché quando si
+[03:56] parlava di wikileaks lo spoke person gli hanno fatto un culetto con un secchio
+[04:00] è già un attimino che non può viaggiare nel mondo liberamente perché
+[04:07] si ritrova un agente con i guanti in lattice ad aspettarlo alla frontiera
+[04:13] quindi passiamo col dire perché global x esiste cioè perché c'è nata questa
+[04:21] cosa e perché pensiamo che global x possa in un modo cambiare il mondo
+[04:28] in meglio quindi le motivazioni cos'è che ci ha spinto a farlo
+[04:34] perché pensiamo insomma che questa cosa possa possa migliorare il mondo in cui
+[04:40] viviamo e quello che noi vogliamo fare è aumentare la trasparenza e questo è
+[04:49] l'accountability nella nostra società adesso spiegheremo meglio questi due
+[04:54] concetti e principi molto importanti e abbiamo analizzato diciamo a lungo
+[05:01] direi per sei mesi praticamente tutte le soluzioni già esistenti che offrivano
+[05:05] insomma servizi diciamo simili e purtroppo però questi questi servizi
+[05:14] questi software non offrivano alcun tipo di protezione per quel che riguarda insomma
+[05:22] l'identità l'anonimato del whistleblower e non fornivano alcun tipo
+[05:28] di insomma feature di sicurezza forte scusa perché è una piccola premessa
+[05:33] noi abbiamo congiunto il fenomeno del whistleblowing ho detto anche del
+[05:38] leaking per lo più dopo il grande ip di ukx studiando a riguardo per scoperto
+[05:43] che esisteva sia delle leggi dei normative dei software delle policy delle
+[05:48] procedure che invece utilizzavano lo stesso procedimento di leaking
+[05:52] proclamato whistleblowing in altri contesti e riuscirà a prendere queste
+[05:57] contesti a capire che quello che potremmo produrre non era somente
+[06:01] finalizzato a il costo di leaking ma a un disegno molto più ampio certo infatti
+[06:06] per questo è nato quello che si chiama leak directory che è praticamente in
+[06:11] sostanza cioè un archivio di tutto quello che noi siamo riusciti a
+[06:15] trovare su questo enorme ecosistema del whistleblowing e leaking quindi se
+[06:21] andate su leak directory troverete tutti i siti che sono nati e quello
+[06:27] che ci ha sorpreso è stato scoprire quest'altro ecosistema molto più
+[06:32] complesso che è rappresentato da queste organizzazioni che sono venti anni che
+[06:36] lavorano nel campo del whistleblowing cioè queste persone tipo public concern
+[06:42] network hanno un call center attivo 24 ore su 24 che il whistleblower può
+[06:50] chiamare e dire guarda io ho questo problema io so che ci sta questo
+[06:55] personaggio all'interno dell'azienda per cui lavoro che si sta comportando male
+[07:00] è corrotto io non so come fare per c'è che cos'è che devo fare e loro li
+[07:07] rispondono lo guidano attraverso tutto il processo di contattare i sindacati
+[07:14] contattare insomma un avvocato e insomma lo guidano passo passo attraverso il
+[07:23] processo di whistleblowing un numero dedicato numero magari nai fa
+[07:28] qualcosa da aggiungere a riguardo penso tutto tutto l'ecosistema del whistleblowing
+[07:33] abbastanza ampio e soprattutto sviluppato all'interno del mondo anglosassone
+[07:39] diciamo in sud europa o europa in generale non è ancora molto sviluppato
+[07:44] ma rappresenta una pratica di trasparenza dell'informazione intesa
+[07:49] prevalentemente sia nel settore pubblico che nel settore in privato a
+[07:54] incentivare e invitare sia i cittadini che i dipendenti di una organizzazione
+[08:00] pubblica o privata a riportare malpractice quindi riportare il fatto
+[08:07] di essere a conoscenza di condotte illegittime di condotte i legali di
+[08:13] azioni di corruzione o quant'altra diciamo azioni illecite ci possono
+[08:18] essere de facto facendo crowd sourcing all'interno dell'organizzazione o all'
+[08:24] esterno quindi alla cittadinanza nel caso si tratti di agenzie pubbliche di
+[08:28] meccanismi di auditing di enforcement della trasparenza quindi il whistleblowing è
+[08:34] qualcosa di ben più ampio di wikidix di quei cable che sono usciti ci sono
+[08:39] tante norme in molti paesi le vedremo dopo sono obbligatorie per l'adozione
+[08:45] modelli organizzativi basati sul whistleblowing e quello di cui ci siamo
+[08:50] comunque si conto che all'interno di questo contesto fondamentale che ha visto
+[08:55] con wikidix l'avvicinarsi del mondo acaro a whistleblowing manca un tassello
+[09:02] fondamentale che è uno strumento open source che possa essere utilizzato all'interno
+[09:07] di tutti i diversi contesti in cui si fa whistleblowing e tra l'altro aggiungere
+[09:13] che molte di queste organizzazioni qua non considerano neanche wikidix
+[09:17] whistleblowing perché il whistleblowing deve partire dalla necessità da parte
+[09:24] del whistleblowing di espo di insomma portare alla luce qualche tipo di atto
+[09:31] illecito o insomma criminale quello che è successo nel caso di wikidix è
+[09:39] stato che hanno sono stati mandati una pletora di documenti dicendo ecco questi
+[09:45] documenti provate a vedere se c'è sta dentro qualcosa di sbagliato non parte
+[09:50] dal whistleblower la cosa di dire se io so che c'è questo è sbagliato e ho
+[09:55] anche il documento che lo prova è il contrario cioè io ti do il documento e
+[09:59] sei tu a dover individuare qualcosa di sbagliato dentro a quei documenti
+[10:04] il whistleblowing è una sorta di feedback di un sistema che si vuole autocorreggere
+[10:08] mentre il leaking in questo caso è stato un'opportunità che ha buttato ad attic
+[10:13] senza sapere se effettivamente avevo portato un'autocorrezione
+[10:17] esattamente infatti è importante cioè chiarire che il whistleblowing è una
+[10:24] forma di cittadinanza attiva in realtà cioè le persone attraverso il
+[10:30] whistleblowing si attivano per cercare di avere un impatto sulla società che le
+[10:36] circonda è in un certo senso un po quello di cui parlava mille distinguendo i
+[10:43] cittadini in quelli attivi e quelli passivi quelli che di fen che cercavano
+[10:47] di che quelli che si piegavano alle circostanze e quelli che facevano le
+[10:53] circostanze piegare allo che a loro e quindi
+[11:01] quello che è importante e quello che rappresenta secondo noi il vero
+[11:11] cioè la vera cosa interessante quello che porta il whistleblowing è la
+[11:15] possibilità di aumentare il livello di trasparenza all'interno di
+[11:20] organizzazioni quindi corporation, governi, aziende e e attraverso questo
+[11:30] strumento, permetti alle persone di diciamo promuovere questi questi messaggi
+[11:37] che noi troviamo, vuolevi, hai preso un microfono?
+[11:43] No, come unico punto nell'andaramanti è che comunque con GlobalX vuole essere a tutti
+[11:50] effetti un strumento abilitante a poter sviluppare la diffusione del
+[11:55] whistleblowing in un contesto che oggi non ha strumenti gratuiti che permettono di
+[12:02] attuare politiche di whistleblowing, siano essi media, siano essi aziende, siano
+[12:08] essi amministrazione pubblica o siano essi realtà attivistiche quindi oggi non
+[12:12] ci sono strumenti di questo tipo ce n'è la necessità è pieno di
+[12:17] organizzazioni delle più disparate che iniziano a tirare su l'eek site o
+[12:21] iniziano a tirare su 600 servizi destinati ai giornalisti senza
+[12:25] codici open source e GlobalX vuole cambiare questo tipo di contesto e
+[12:30] attraverso diciamo l'adozione di questi strumenti forzi le corporazioni e i
+[12:40] governi ad adottare maggiore trasparenza loro in prima persona perché quando
+[12:45] vedono comunque che le persone hanno la possibilità di anonimamente e in
+[12:53] maniera sicura pronunciare quello che pensano
+[12:58] decideranno loro a quel punto di essere trasparenti in primo in primo luogo
+[13:05] quindi come funziona GlobalX allora i principali attori coinvolti nel
+[13:15] sistema GlobalX sono principalmente questi tre ora all'interno di tutta la
+[13:20] catena alimentare diciamo del whistle blowing esistono anche altri
+[13:24] personaggi ma quelli di cui si occupa GlobalX sono solamente questi tre
+[13:29] GlobalX regola l'interazione tra il whistleblower, i target e l'amministratore
+[13:35] del nodo GlobalX quindi il whistleblower chi è il whistleblower è un
+[13:41] città di nottivo è qualcuno che sa di qualche cosa di sbagliato che sta
+[13:46] succedendo e vuole portarlo alla luce quindi lui che cosa fa
+[13:55] invierà questo materiale questi contenuti questa segnalazione al nodo
+[14:02] GlobalX e poi il nodo GlobalX regolerà l'interazione tra lui e quelli che
+[14:08] sono i target, i target sono quelle entità responsabili dell'analisi del
+[14:15] materiale che viene inviato dal whistleblower, i target vengono aggiunti
+[14:20] a quella che è la target list e questa target list deve essere il più
+[14:26] diversificata possibile perché se la target list è composta da persone che
+[14:33] hanno interessi diversi per motivi politici, economici o quello che
+[14:39] sia, uno sarà interessato a dare valore a quelle informazioni, a provare
+[14:45] che sono vere mentre l'altro sarà interessato a screditarle quindi la
+[14:51] creazione di una target list diversificata funge da incentivo per
+[14:55] far sì che le informazioni che vengono inviate dal whistleblower vengono
+[14:59] analizzate con cura. Questa cosa secondo me è molto importante
+[15:07] perché crei un meccanismo che attualmente non esiste, cioè ricevono
+[15:12] tutta l'informazione allo stesso tempo e su queste informazioni si fanno a
+[15:16] lotta tra di loro per cercare di pubblicare prima l'analisi dettagliata e
+[15:21] siccome uno vorrà dire no questa è una bufala comunque faranno le dovute
+[15:25] indagini per cercare di capire se effettivamente sono vere queste
+[15:30] informazioni. Questo è un'usua bassata specifico della
+[15:33] pettiforma global X nella quale si posuppone ad esempio un uso del whistleblower
+[15:38] vengono un mezzo locale in cui gli interessi che rientrano possano essere
+[15:43] sia quelli dei sommatori, sia quali della politica, nelle
+[15:48] sommaristumature, sia quali dei giornalisti, che sia quelle delle
+[15:50] persone effettivamente nell'aggiunta comunale. Questa è estremamente
+[15:55] diversa la soluzione del target list nel caso sia applicata la pettiforma a
+[15:58] un'olita aziendale in cui magari il gruppo di audit viene associato a la
+[16:02] target list che dice effettivamente sono le azioni e da lì filtra quello che
+[16:06] possono essere deminchiati rispetto alle sinnazioni relevanti, da lì farle
+[16:10] scalare all'età o del loro processo di gestione a numeria o del...
+[16:14] Certo e non solo anche nel caso dei media ad esempio, nel caso un giornale
+[16:20] decida di mettere su il proprio nodo global X, magari sono interessati a
+[16:25] ricevere solamente loro le informazioni e non farle arrivare anche alle
+[16:29] altre testa dei giornalistiche. Per cui questo è una applicazione
+[16:34] specifica di global X e la flessibilità di questo strumento
+[16:40] dà la possibilità di creare un'appletora di applicazioni differente
+[16:45] diversificate e specifiche per il gestore del nodo, che è la persona
+[16:52] che effettivamente fa girare il software global X. Loro sono i
+[16:56] responsabili, cioè è loro compito quello di determinare la target list.
+[17:02] Nel modello ad esempio attivista diciamo di global X questo sarà magari un
+[17:09] personaggio che ne sa è molto dentro alla politica del suo particolare
+[17:15] contesto locale per dire decida di mettere su il nodo di global X di
+[17:20] pavia e quindi sceglierà testate giornalistiche relative a quel
+[17:27] particolare contesto. Loro devono comunque essere chiari nel dire qual è il
+[17:34] loro obiettivo, quali sono, che tipo di materiale sono interessati a ricevere
+[17:41] perché attraverso questa tipo di specifica il whistleblower riuscirà a
+[17:46] scegliere il nodo global X appropriato a ricevere il suo materiale. L'interazione
+[17:53] tra questi tre attori funziona in questa maniera praticamente.
+[17:58] Abbiamo il whistleblower che si collega al nodo global X tramite tor.
+[18:07] Ora nel caso ideale si collegherà utilizzando Vidalia o il tor browser
+[18:15] bandale eccetera eccetera per cui la sua identità viene protetta dal
+[18:20] software tor ma non escludiamo la possibilità che il whistleblower magari
+[18:26] decide di non installare magari software tor e utilizzare il nodo global
+[18:32] X direttamente dalla retta tor to web. Questo anche perché se un gestore di
+[18:38] un'iniziativa di traspare in se enforcement a livello locale decidesse di
+[18:42] fare una campagna di mobilitazione a livello locale ad esempio nei confronti
+[18:47] di una città di una municipality locale ragionevolissimamente dovrebbe utilizzare
+[18:53] i social network per fare media hype sensibilizzare le persone a poter diciamo
+[19:00] inviare report di condotto legittime o altre cose in quel caso tramite il
+[19:06] social network il nodo global X via tor to web può essere esposto su
+[19:11] internet senza tuttavia nascondere richiedere che il gestore del nodo
+[19:20] global X registri un dominio internet che deve essere intestato che deve essere
+[19:25] pagato con un mezzo di pagamento elettronico un hosting un IP adres ma
+[19:30] semplicemente facendo girare il software global X anche sul proprio bici di
+[19:34] casa è vero e quindi poi c'è il nodo administrator che quindi comunica con
+[19:43] il direttamente con il nodo global X lo configura sceglie la target list crea
+[19:49] la pagina di introduzione in cui spiega la sua motivazione eccetera eccetera poi
+[19:54] ci sono i target che sono questi personaggi responsabili di analizzare
+[19:59] le informazioni come funziona quando viene creato questa cosa che si chiama
+[20:04] tulip viene viene mandato una notifica al target dicendogli guarda ci è arrivata
+[20:11] questa questo materiale se lo vuoi scaricare visita questo indirizzo e gli
+[20:18] viene dato un indirizzo punto anion cioè raggiungibile tramite la rete tor
+[20:23] installando tor browser bandale eccetera eccetera o un indirizzo tor to web
+[20:29] lui riceve questa notifica a quel punto agisce Allez che va a scaricare dal nodo
+[20:35] global X il materiale lo analizza e poi tramite lui arriva al pubblico che in
+[20:41] questo caso il pubblico può rappresentare sia le persone che leggono i
+[20:45] giornali nel o diciamo le persone comuni ma può essere nel caso di whistle
+[20:51] blowing in ambito aziendale può anche essere l'interna l'audit e quindi diciamo
+[20:57] che non è necessario che effettivamente lo strumento venga utilizzato solo in un
+[21:02] contesto di media e attivismo politico diciamo ora il tulip che cos'è cioè
+[21:11] come funziona la notifica del del materiale al target tulip sta per
+[21:19] temporary unique link information provider ci piaceva questa questa cosa che la
+[21:27] metafora del tulipano e comunque in sostanza quello che è è un metodo di
+[21:34] comunicazione tra il whistle blower e il target il tulip è temporary perché
+[21:40] scade dopo un numero fisso di download è come un tulipano ogni volta che cogli un
+[21:46] petalo alla fine i petali sono finiti e il tulipano muore è unico per ogni
+[21:53] target e per ogni tipo di di materiale cioè per ogni submission da parte del
+[22:01] whistle blower i dati vengono salvati in maniera
+[22:05] flessibile cioè io posso decidere di salvarli in locale cioè sul nodo di
+[22:10] global x ma posso anche dire voglio conservarli in modo sicuro su un
+[22:15] server ftp remoto oppure perché no un altro hidden service torb che mi ci
+[22:21] collego solamente io come stelted and service e quindi da livian vengono pescati
+[22:28] dati ma anche magari dropbox non lo so l'idea è che deve poter applicarsi questa
+[22:34] cosa al al maggior numero di use cases e se magari una necessità di salvare i
+[22:42] dati su l'amazon cloud dovrebbe poterlo fare un altro petale tulip è che
+[22:47] scaldi dopo un certo periodo di tempo l'obiettivo del tulip è essenzialmente
+[22:51] quello di evitare che chi riceve un dato in anteprima per fare una valutazione o una
+[22:58] comprazione una correlazione quindi comprenderlo lo possa a sua volta dare in
+[23:03] giro per vedere questa cosa se messa un limite numerico anche il tempo di durata
+[23:08] è un tulip è limitato e sarebbe stato da non mantenere questa cosa questo
+[23:13] aspetto l'aspetto di avere il tulip deliverato al target questo nominalmente
+[23:20] all'interno di un modello di utilizzo attivista con un link temporaneo e
+[23:28] limitato nelle possibilità di download viene anche da una analisi dei profili di
+[23:34] responsabilità di tutti i soggetti coinvolti all'interno di un
+[23:37] processo di whistle blowing diciamo che abbiamo la materiale attivistica quindi
+[23:42] non ufficiale è una netta separazione diciamo di quest all'interno dei profili
+[23:48] di responsabilità da cui viene escluso nettamente il publishing delle
+[23:53] informazioni il publishing delle informazioni in diciamo diretto come
+[23:59] per la storia di wikileaks porta a un profilo di responsabilità che sarebbe
+[24:03] difficilmente accettabile per poter vedere una distribuzione massiva con migliaia di
+[24:09] l'exite contestuali nel mondo entro qualche anno di conseguenza global x si
+[24:14] occuperà come software di fare private temporary file distribution ai target e
+[24:20] non di pubblicare delle informazioni questo è molto importante perché
+[24:25] nel questo è anche il motivo per cui noi abbiamo scelto di fare global
+[24:32] x e per cui ci distacchiamo in maniera molto netta da quello che sono i modelli
+[24:35] tradizionali di leaking diciamo nel senso che il profilo di rischio che un
+[24:41] sito di questo tipo a nel caso faccia pubblicazione di di dati è altissimo e
+[24:47] quindi insomma questo lo vogliamo assolutamente di evitare e quindi
+[24:52] deleghiamo questo compito a quelli che sono i target e i target quindi vengono
+[24:57] notificati della presenza di un tulip sul insomma nel sistema global x e il
+[25:07] sistema di notifica è molto flessibile e spandibile
+[25:10] attualmente quello che abbiamo implementato per la demo che andrà
+[25:14] online tra qualche insomma tra qualche minuto è solamente via mail ma in un
+[25:22] futuro potrà essere implementata la funzione notifica via twitter via
+[25:25] facebook scp magari l'integrazione con un sistema di ticketing perché magari
+[25:31] l'internal audit di un'azienda ha necessità di gestire le le submission da
+[25:38] parte dei whistleblower come un trouble ticketing per cui la segnano a varie
+[25:44] persone e quindi è necessario integrarlo anche con questo tipo di
+[25:48] sistemi sui sistemi di diciamo la tulip notification sui sistemi trouble
+[25:54] ticketing è uno degli aspetti proprio che connota global x anche per un
+[25:59] utilizzo ufficiale come reporting system interno esterno sia per aziende che per
+[26:04] pubblica amministrazione proprio perché da un'analisi dei software commerciali di
+[26:11] whistleblowing e dei servizi modalità outsource di whistleblowing che abbiamo
+[26:16] analizzato che potete trovare su leakdirectory.org di cui abbiamo
+[26:20] citato prima di base questi software non sono altro che delle form che permettono
+[26:25] di fare di inviare un report con categorizzazioni di quello che può
+[26:32] essere la malpractice che è avvenuta all'interno dell'organizzazione magari
+[26:36] identificando se si sa che ci sono altre persone coinvolte se ci sono
+[26:40] sai danni al patrimonio o quant'altro e generando di fatto un ticket un case
+[26:45] che viene assegnato a una prima persona all'interno del team che si
+[26:49] occupa della gestione dei reporting su malpractice all'interno dell'organizzazione
+[26:54] specifica e il sistema di ticketing dovendo esserci un lavoro di gruppo avrà
+[26:58] poi tutte le sue caratteristiche tipiche di un sistema di ticketing la possibilità
+[27:02] di scalare a superiori di gestire entro service level agreement a predeterminati
+[27:06] un ticket di assegno trasferirne la gestione a qualcun altro global x non
+[27:11] vuole fare questo e non vogliamo inventarci l'inesimo nuovo sistema di
+[27:15] ticketing ma attraverso questa integrazione con sistemi di ticketing e case
+[27:19] management global x diventa un midler perfetto per poter garantire l'anonymato
+[27:25] e la gestione efficiente di un sistema di whistleblowing all'interno dell'azienda e
+[27:31] o all'interno di una pubblica amministrazione questo penso che sia uno dei
+[27:34] attori di ed è per questo che abbiamo deciso di chiamarlo un framework
+[27:40] cioè è un è un qualche cosa che ha la possibilità di essere esteso a e
+[27:45] funzionare e interagire con altre cose già esistenti ora quindi questo è
+[27:52] quello per quel che riguarda la notifica del della submission al target al whistle
+[27:59] blower invece viene lasciato questa cosa che è la ricevuta diciamo che consiste
+[28:05] in sostanza di un numero a dieci cifre che è molto facile da conservare lo
+[28:11] po addirittura scrivere sul suo cellulare e questa cosa i permette di
+[28:16] tornare nel caso diciamo scelga di fare insomma di esporsi perché è un rischio
+[28:24] comunque ritornare sul sito in un in certo tipo di contesto può essere
+[28:30] rischioso e gli dà però la possibilità di vedere lo stato e il
+[28:35] progresso del della sua submission può vedere quanti target l'hanno ricevuto
+[28:39] quanti hanno visionato la submission quante persone hanno scaricato il il
+[28:46] materiale che lui ha caricato e anche interagire con i target perché il target
+[28:52] magari decide di chiedere al whistle blower non è che potessi fornire maggior
+[28:57] dettaglio riguardo a questo documento qua il whistle blower può in questo
+[29:02] modo interagire anonimamente tramite un sistema di commenti con il target
+[29:09] che quindi riesce a avere una visione più chiara di quello che è il materiale e
+[29:13] quindi fornire un'analisi più dettagliata l'anonimato all'interno di
+[29:19] ah sì a configurazione e potenzialmente ci posso essere entrambi
+[29:35] l'utilizzo ovvero chi vuole inviare l'informazione può scegliere
+[29:38] esettivamente le persone ma potrebbe anche non conoscere perché male contesto
+[29:42] rischio ad esempio in iran chi dice che riceve un'informazione sensibile
+[29:46] potrebbe essere rischio quindi può essere protetto piuttosto che essere
+[29:50] collegato a un gruppo che è fisso di cui non può scegliere che sono
+[29:53] esettare ma se questo gruppo è competente questa destinazione e di
+[29:57] conseguenza tutti quanti riceveranno infatti tutti quanto ricevano può essere
+[30:00] importante per dare un effetto deterrente che riceve di mettere a
+[30:03] tracere la notizia perché sa che anche tutti i suoi simili costa che
+[30:07] avressare i concorrenti o whatever l'hanno ricevuta sono dei contesti
+[30:13] utilizzi che chi mette sul noto e riusciva a comprendere
+[30:16] relativamente su contesto e da lì potesse azionare qual è l'opzione più
+[30:19] vantaglosa e tra l'altro aggiungerei che anche per un motivo legale in certi
+[30:25] in certi applicazioni di global x addirittura l'identità e l'anonimato
+[30:30] del whistleblower non è necessariamente protetta cioè ad esempio
+[30:35] siamo stati all'international whistleblower in conference a Londra
+[30:39] abbiamo parlato con vari personaggi che si occupano di whistleblower in
+[30:43] da tanti anni hanno insomma parecchie esperienza riguardo e ci dicevano che ad
+[30:48] esempio in Germania il whistleblower in se viene fatto in maniera anonima il
+[30:53] whistleblower non ha diritto a tutta una protezione legale che nel caso insomma
+[30:58] venisse venisse fatto qualcosa contro di lui da parte del suo
+[31:03] ex datore di lavoro oppure dovesse succedere qualcosa lo stato ti
+[31:07] protegge ti fornisce un rimborso e comunque ti aiuta a superare questo
+[31:14] questo periodo della tua vita e però l'unico però è che se lo fai anonimamente
+[31:22] e la tua identità viene rivelata in un secondo momento non non godi più di
+[31:29] questi diritti legali per cui quello che loro consigliano di fare è fare
+[31:34] quello che si chiama confidential whistleblower in che tu riveli la tua
+[31:40] identità ad un confidente che può essere o la società che si occupa di insomma il
+[31:46] gruppo l'organizzazione che si occupa di proteggerti e insomma l'organizzazione
+[31:52] whistleblower in o magari la polizia le forze dell'ordine per cui loro sanno
+[31:56] chi sei proteggono la tua identità la tengono in segreto però tu
+[32:01] comunque non sei anonimo perché nel momento in cui riveli la tua identità
+[32:04] qualcuno non puoi più essere anonimo la cosa però è che global x di default
+[32:10] utilizza l'anonimato perché se sei anonimo puoi sempre scegliere di non
+[32:15] esserlo più mentre se invece riveli la tua identità non puoi tornare
+[32:19] anonimo quindi quello che global x garantisceligue diciamo da un punto
+[32:27] di vista dell'anonimato è sia l'anonimato dell'amministratore del nodo
+[32:34] perché magari io posso scegliere di mettere su un nodo in un paese
+[32:38] particolare e quindi non voglio rivelare chi sono e anche l'anonimato
+[32:45] del client in questo caso whistleblower e poi per quello che
+[32:52] riguarda la sicurezza abbiamo diciamo varie varie cose che sono
+[32:58] l'autenticazione viene gestita attraverso i tulip
+[33:02] il tulip è praticamente uno shadow e 56 d insomma un qualche cosa di random che
+[33:09] viene generato e quello funge diciamo d'autenticazione per
+[33:14] il target per cui lui può provare di essere quel certo target perché
+[33:18] funghi fornisce quell'unico ash criptografico in via opzionale può scegliere
+[33:24] anche di settare una password per cui quando arriva la pagina del tulip può dire
+[33:29] ecco questa è la mia password in modo tale che se magari ha la posta che sa che è
+[33:33] intercettata le persone che la intercettano non possono comunque andare
+[33:39] a leggere le submission che gli arrivano per quello che riguarda i
+[33:44] dati il container di default e lo zip ma può può essere configurato per
+[33:50] supportare zip is che permette di estrarre lo zip in maniera automatica su macOS x
+[33:56] windows eccetera eccetera ma anche come un container pgp per cui lui magari può
+[34:01] mandare la sua chiave pubblica al nodo global x il nodo global x cifrerà i
+[34:06] dati utilizzando pgp e quindi garantendo anche la sicurezza dei dati
+[34:14] contenuti all'interno del del download una nota importante per cui è che
+[34:19] riguarda la cifratura dei dati e anche che con tutti e le persone con cui abbiamo
+[34:24] parlato nei vari eventi di global x facendo diciamo un po un brainstorm
+[34:28] in collettivo per arrivare a quella che è una definizione di specifica
+[34:31] funzionale tutti sono sempre stati concentrati esclusivamente sulla pgp
+[34:36] encryption perché tendenzialmente il sistema più forte di cifratura dei
+[34:39] dati però ci siamo posti anche il problema e il motivo per cui viene
+[34:43] in supporto anche per archivi zip cifrati con la password del formato zip
+[34:50] e perché zip come archivio permette di inviare dei dati cifrati anche se il
+[34:57] ricevente non ha installato un software di decifratura e cifratura dei dati
+[35:02] stessi questo perché? Perché windows come macOS x hanno un supporto per poter
+[35:08] aprire zip cifrati di conseguenza il software di cifratura è già
+[35:13] disponibile nel computer del ricevente non c'è bisogno per il ricevente per
+[35:17] scaricare ricevere gestire un dato cifrato di installare ulteriori software il
+[35:23] livello di sicurezza sarà inferiore ma il livello di usabilità all'interno del
+[35:28] compromesso sicurezza usabilità sarà incredibilmente superiore senza il
+[35:32] bisogno di installare software di cipratura certo cioè questa è una
+[35:36] cosa sì molto importante che abbiamo sempre guardato all'usabilità e
+[35:40] cercare di capire se il compromesso tra sicurezza e usabilità è un ha un
+[35:46] rapporto positivo e quindi insomma per quello che riguarda la sicurezza
+[35:53] quello che offriamo cioè che andremo a offrire sarà la pulitura
+[35:57] opzionale nel momento della submission dei metadati esiste quest'estate
+[36:03] è stato sviluppato da un google summer of code student un tool che si ha
+[36:09] matt metadata analysis toolkit che praticamente ha dei un sistema di
+[36:15] diciamo plug-in diciamo per cui io scrivo un plug-in che supporta non lo so la
+[36:23] pulitura dei pdf e automaticamente vengono strippati tutti i tag sensibili che
+[36:29] potrebbero potenzialmente lickare l'identità del whistleblower
+[36:34] anche la cosa potenzialmente opzionale perché i metadati in effetti in un
+[36:38] documento che viene l'iccato sono importanti per identificare la sua
+[36:41] realtà o sono un posto di rischio per il liquor è una cosa che non si posta per
+[36:45] apriori entambi le risposte possono servire quello che bisogna fare è
+[36:49] riuscire a individuarli e offrire al whistleblower la possibilità di scegliere
+[36:52] se riconoscono i personali di eliminarli o se li comprende come
+[36:56] uteramente autenticativi identificativi della fonte lasciarli esatto
+[37:02] un esempio estremamente pratico è se all'interno di un media site si
+[37:07] ricevesse un documento e il target nella sua funzione investigativa di verificare
+[37:12] questo report potesse vedere che l'autor del target è l'assistente di direzione
+[37:19] della persona di cui si sta indicando un atto di corruzione forse sapere che
+[37:25] quel documento è stato scritto dalla secretaria di tizio è un'informazione
+[37:29] molto utile quindi rispetto anche a quello che è il sentiment comune di
+[37:36] tutte le persone che in un ambito acaro e fortemente paranoico ti approcciano
+[37:40] leaking noi riteniamo che la pulizia dei metadati non sia un must sia un must
+[37:46] averla perché ci possono essere contesti che la richiedono ma possa essere
+[37:51] anzi controproducente nel dare facilità investigativa e di verifica
+[37:58] del del materiale che è stato ricevuto al target inviato a whistleblower
+[38:05] per l'altro direi che questo questo argomento qua dei dei metadati della
+[38:09] pulizia dei metadati è una cosa su cui veramente un sacco di persone si sono
+[38:13] cioè proprio si sono fatte un mare di seghe e c'è veramente un problema molto
+[38:22] difficile che comunque non è che ha una soluzione generale non non esiste il
+[38:28] silver bullet ma dipende estremamente dal contesto e sarà ovviamente cioè
+[38:34] sarà secondo noi compito del whistleblower capire sia il caso di pulire i dati
+[38:39] oppure no questa è la soluzione più ragionevole perché solo lui può saperlo
+[38:43] è molto difficile insegnare una macchina a capire cos'è di rilevanza
+[38:49] storica e cosa non lo è il target cioè l'interazione tra il target e
+[38:55] whistleblower come dicevo prima funziona attraverso questo sistema di
+[38:59] commenti per cui il target può richiedere nuovi nuovi documenti e poi
+[39:07] qua ho aggiunto questa cosa su che secondo che non esiste attualmente e
+[39:12] sarebbe secondo me una cosa molto importante da fare una chat fatta in
+[39:17] javascript sicura che magari fa ottr e attualmente non esiste e quindi
+[39:23] invito chi chi è un un javascript ninja a scrivere tale tale
+[39:31] libreria e tale web application che sarebbe veramente molto bello integrarlo
+[39:37] dentro a global x quindi in sostanza ma chi è che userà global x quali sono i
+[39:44] casi di utilizzo perché global x lo vogliamo chiamare lo swiss army knife
+[39:51] del whistleblowing beh in media sono decisamente quelli che hanno ricevuto
+[39:59] maggiore attenzione negli ultimi tempi con wikileaks, openleaks e tutti questi
+[40:07] altri siti infatti quello che stanno facendo vari giornali importanti è
+[40:16] quello di offrire un pannello tramite cui le persone possono mandare
+[40:20] documenti un caso molto famosa è quello dell'al jasir a transparency unit
+[40:26] dove praticamente uno ha la possibilità di caricare dei documenti che ritiene
+[40:33] degno di notizia e loro li andranno ad analizzare e se mai ci scriveranno
+[40:38] sopra un articolo oppure li pubblicheranno anche washington posto
+[40:44] ad esempio ha messo un proprio sito di disammission di informazioni e
+[40:49] comunque sul link direcco di punt org c'è una posita sezione con i link a tutti
+[40:54] i siti di disammission dei principali testate che implementano questa
+[40:58] metodologia di raccolta da fonti riservati esattamente e tra l'altro
+[41:05] questo use case è quello che mira a soddisfare diciamo openleaks cioè il
+[41:13] loro il loro obiettivo è quello proprio di fungere da tramite tra il whistleblower
+[41:18] e le testate giornalistiche per cui uno si accredita presto openleaks diventa un
+[41:23] giornale qualificato a ricevere informazioni e openleaks che lei inoltre
+[41:27] questo questo però rappresenta solo una piccolissima fetta di quello che sono
+[41:34] tutte le possibili applicazioni di di un sistema di whistleblowing e quindi è
+[41:42] abbastanza cioè è limitante pensare solamente all'applicazione nel contesto
+[41:47] media un'altra applicazione interessante è quella dell'attivismo per la
+[41:52] trasparenza io decido di mettere su il mio nodo di global x perché sono un
+[41:58] attivista politico e voglio avere un impatto sulla mia realtà locale e quindi
+[42:03] farò promozione tramite campagne di volantinaggio eccetera eccetera del mio
+[42:11] nodo di global x e invoglierò i cittadini a individuare corruzione a
+[42:16] vedere atti che non lo so vanno contro l'ambiente e comunque cercare di fare
+[42:25] questo tipo di militanza politica tramite uno strumento come global x
+[42:31] giusto per fare alcuni esempi diciamo di idee che non sono venute da noi ma sono
+[42:37] venute da persone che abbiamo conosciuto e a cui abbiamo raccontato
+[42:40] global x era nata l'idea per esempio la comunità europea ha l'olf che è il lente
+[42:47] che si occupa di verificare le frodi su fondi pubblici di finanziamenti della
+[42:52] comunità europea che accetta segnalazioni per quanto riguarda frodi e
+[42:57] le gestisce spece ma si limita a dare un indirizzo email e a dire scriveteci ad
+[43:02] esempio qualcuno ci ha detto che sarebbe interessato a mettere in piedi
+[43:05] un l'exite che offre un'interfaccia anonima verso l'ente europeo che
+[43:11] gestiscia l'antiprote sui fondi pubblici europei quindi mettere
+[43:15] sostanzialmente un global x site per segnalare frodi comunitarie e non
+[43:23] facendo nient'altro che porzi di fronte a quello che è l'indirizzo email dell'olf
+[43:28] che rappresenterebbe all'interno del software global x un target
+[43:31] altri esempi interessanti ci sono stati forniti riguardano l'evasione fiscale
+[43:36] questa tra l'altro c'era stata anche abbastanza analizzata
+[43:41] provate a pensare se qualcuno metterà un su un sito global con global x
+[43:46] personalizzando se lo come serve per inviare segnalazioni localizzate di
+[43:51] evasione fiscale con i documenti che comprovano quell'atto di evasione
+[43:55] fiscale immaginiamo un sito in cui ho lombardia milano la zona di milano e
+[44:01] magari nella target list c'è agenzia delle entrate guardia di finanza manche dei
+[44:06] giornalisti locali ma anche gruppi di attivismo politico locale ma anche
+[44:11] organizzazioni sindacali ad esempio e tutti questi soggetti molto diversi fra
+[44:15] di loro ricevono delle segnalazioni che beppe scamozza in quel posto di paga la
+[44:21] gente a nero e normalmente lo scontrino se lo dimentichi anzi c'è la
+[44:26] dienne spenta la macchina per fare lo scontrino e comprova un fil e allega un
+[44:31] filmato che si è andato a fare da active citizens per comprovare quest'azione se
+[44:36] lui farà l'eaking su un sito del genere cioè fare una submission su un sito
+[44:40] del genere i riceventi nell'ambito media potranno essere interessati a fare
+[44:46] una verifica e farci magari un articolo ma la cosa significativa è che l'ambito
+[44:50] dell'autorità conoscerà che l'ambito dei media e l'ambito del diciamo di
+[44:54] attivismo locale e a conoscenza di questa situazione si sentirà in obbligo di
+[44:59] dover investigare perché non facendolo non sarebbe abbastanza chiaro gli
+[45:03] altri che diciamo non lo stanno facendo se le autorità ricevono se pur anonymamente
+[45:10] questo per quanto riguarda il contesto italiano dei dati informanonima ma
+[45:16] abbastanza qualificati da evidenziare in modo chiaro che c'è un reato sono
+[45:22] sostanzialmente costretti ad avviare un'azione investigativa e questo è un
+[45:27] meccanismo che potrebbe permettere di portare alla segnalazione anonima anche
+[45:31] in zone molto difficili zone dove il criminato organizzata controlla il
+[45:36] territorio zone i paesi non deve pensare anche per la mafia cioè ad esempio un
+[45:41] sistema di segnalazione di denuncia che ti permette di anonimamente dire
+[45:47] cavolo quello è un mafioso questo ha il suo nome questo è il suo cognome mi
+[45:51] ha chiesto il pizzo oggi c'è anche la registrazione
+[45:54] questi sono tutti esempi diciamo di utilizzo c'è chi ci aveva detto perché io
+[45:58] magari ho il comune della mia città che è corrotto e che ne so è mestre
+[46:05] qualcuno fa mestre l'ex in diciamo incitando cittadinanza a inviare
+[46:11] segnalazioni di azioni legittimi a dei target che sono pubblici che sono
+[46:17] rappresentano l'autorevolezza di chi riceve quel materiale e attraverso questa
+[46:23] azione magari trovare trovare le proprie azioni di corruzione o altre legali
+[46:27] che impattano poi quelli che sono beni pubblici certo si tratta insomma di
+[46:34] rompere quello il principio del delle tre scimmia cioè non parlo non vedo non
+[46:40] sento attraverso uno strumento di questo tipo che viene implementato da
+[46:47] degli attivisti locali quindi in maniera totalmente distribuita in tutto il
+[46:54] mondo potenzialmente un altro caso di utilizzo è quello all'interno delle
+[47:01] corporation quindi questo potrebbe essere integrato con i loro sistemi
+[47:06] già esistenti di internal audit è interessante vedere che esistono delle
+[47:13] leggi anche che richiedono l'impiego di strumenti quali anche il whistleblowing
+[47:23] negli Stati Uniti c'è la sarbaness oxley act che praticamente dice che se un
+[47:32] dipendente commette un reato penale e l'azienda di cui fa parte il
+[47:40] dipendente non ha implementato le giuste contro misure per identificare quell'atto
+[47:45] illecito allora la società fa deve essere punibile con insomma delle sanzioni e
+[47:55] anche penalmente la sarbaness oxley negli Stati Uniti è stata fatta dopo lo
+[48:01] scandalo gigantesco scandalo erron che in america ha mandato a quel paese di
+[48:06] risparmi di un sacco di gente non so quante decennie di persone e in italia
+[48:11] esiste una cosa simile che la 231 che tra le varie cose include anche quello di
+[48:17] implementare dei sistemi di adesso non ricordo bene qual è proprio il termine
+[48:24] avvocato
+[48:54] e in Italia? Ma come lo chiamano, lo chiamano whistleblowing o lo chiamano, cioè qual'è
+[49:12] il termine whistleblowing proprio, fantastico. Un altro caso invece sono gli anti pubblici
+[49:22] e questo non so se ne vuoi dire due parole. Ovviamente anche whistleblowing è diffuso anche
+[49:30] all'interno delle agenzie pubbliche, pubblica amministrazione in generale, certamente come
+[49:36] meccanismo di interna whistleblowing è esattamente basato sugli stessi principi che si applicano
+[49:42] alle grandi aziende, ma anche questo è proprio uno dei fattori più interessanti come meccanismo
+[49:48] di externa whistleblowing che quindi vuole raccogliere segnalazioni anche in forma anonima
+[49:55] da parte della cittadinanza. Questo è un esempio abbastanza chiaro e in qualche modo similare
+[50:01] al modello attivistico, cioè uno dei modelli che invita la cittadinanza a segnalare atti
+[50:13] di leciti o di corruzione. Alcune note che sono fondamentali sono una efficace norma di
+[50:20] whistleblowing e qui parliamo in particolar modo di Stati Uniti, direi, Inghilterra, Canada
+[50:25] in generale il mondo anglosassone, oltre che dare un'adeguata protazione al whistleblower
+[50:32] che mette a repentaio il proprio lavoro e magari anche la propria reputazione e la propria
+[50:36] vita per fare una segnalazione in modo coraggioso diciamo di un illegittimo. Incentivare questo
+[50:45] tipo di azione, questo tipo di pratica. Alcuni esempi interessantissimi sono l'IRS Statunitense
+[50:51] che sarebbe l'agenzia dell'entrata Statunitense che ha l'IRS whistleblower program, l'IRS
+[50:56] whistleblower program consegna oltre che tutto il livello di protezione necessaria
+[51:01] dal 10 al 30% della fraude fiscale che viene recuperata da parte dell'IRS su base di segnalazione
+[51:10] del whistleblower. Questo cosa ha portato al fatto che negli Stati Uniti ha direttura un mercato
+[51:15] del whistleblowing, cioè ci sono degli studi legali che ti dicono, che danno come tipo
+[51:21] di servizi IRS whistleblowing, cioè tu vuoi segnalare che tizio paga quello a nero
+[51:27] o non paga le tasse, però non vuoi proprio sporti, perché ovviamente devi esporti con
+[51:32] l'IRS come identità, quindi i nomi di sostanzi uno studi legali specializzati di whistleblowing
+[51:37] che tutelano la tua identità, prendono una percentuale di quello che potrà essere recuperato
+[51:42] e questo ha creato sostanzialmente un vero e proprio mercato del whistleblowing e un
+[51:47] circolo diciamo positivo che alla fine porta a beneficio della collettività. La
+[51:53] SEC, l'equilmente della consoppa Stato Unitense, è stata la prima che da febbraio di quest'anno
+[52:00] accetta ufficialmente e quindi gestisceliggia, la divisione interna che si occupa di questa
+[52:06] stanza gestigia whistleblowing anonime per tutto ciò che riguarda market abuse, quindi oggi
+[52:13] la SEC è una delle prime agenzie pubbliche nell'ambito Stato Unitense che ha deciso per
+[52:20] quanto riguarda l'externa whistleblowing, che è già una cosa un po' particolare, di accettare
+[52:25] anche segnalazione anonime, da notare che anche la SEC fornisce una premialità economica in
+[52:33] funzione della dimensione della fraude che è stata effettuata. Invece in Europa siamo
+[52:39] ancora abbastanza indietro però ad esempio l'antitraste europea ha dei formulari web che
+[52:47] permettono di segnalare violazioni dell'antitraste, sembra una cosa banale ma è comunque qualche
+[52:54] cosa. In generale, come vediamo gli utilizzi possono essere dei più variati, l'ultima cosa è
+[53:01] molto diffuso, sempre in particolar modo in l'inghilterra riguarda whistleblowing nel
+[53:07] settore sanitario, quindi la segnalazione di non compliance, diciamo di personaggi che
+[53:14] hanno dubbi e pratiche all'interno del settore sanitario.
+[53:17] Quindi in sostanza come faccio io a mettere online un sito, un nodo di GlobalX? Beh, ci sono
+[53:29] principalmente tre alternative. Posso scegliere di metterlo su come il dense service puro,
+[53:36] nel senso che io mi posso collegare al nodo GlobalX solo ed esclusivamente tramite retetor.
+[53:45] Questo garantisce esperarà che le submission, cioè l'upload del materiale da parte del whistleblower
+[53:52] è altamente sicuro perché l'InnService garantisce nella cifra Tura end-to-end, la protezione
+[53:59] da DDoS del nodo stesso e quindi ogni dispositivo che compone questo nodo di GlobalX è protetto
+[54:12] e ogni attore è anche protetto perché sia chi manda il materiale che chi lo riceve deve necessariamente
+[54:20] utilizzare Tor. Questo è comunque uno svantaggio per quello che riguarda l'usabilità perché costringi
+[54:26] ad ogni persona di utilizzare software Tor. L'altra soluzione è quella di hybrid, un misto
+[54:35] tra i dense service e Tor to web, che cosa faccio? Metto su il nodo GlobalX in un dense service
+[54:44] la cui posizione è quindi protetta dalla retetor, il back-end è protetto da DDoS e ogni client,
+[54:51] ogni attore all'interno del mondo GlobalX non deve utilizzare necessariamente software Tor.
+[55:00] Purtroppo questo ha come svantaggio il fatto che potenzialmente uno è esposto ad attacchi quali
+[55:05] man in the middle SSL e il nodo Tor to web può essere soggetto ad attacchi tipo the Nile of Service,
+[55:16] questo dipende dall'utilizzo però può essere una soluzione abbastanza valida ed è
+[55:23] quella diciamo consigliata. L'altra alternativa è quella web, cioè solamente è esposta
+[55:32] alla rete normalmente senza i dense service senza Tor e quindi il client ha un'esperienza
+[55:39] normale come qualsiasi altro sito internet, richiede di configurare solo un dispositivo
+[55:45] che è quindi il dispositivo nodo GlobalX stesso, questo però insomma porta a rivelare l'identità
+[55:54] del nodo GlobalX stesso che può quindi essere soggetto ad attacchi e comunque dipende dal contesto però
+[56:02] in certi casi è sconsigliabile perché la vera cosa interessante di un nodo GlobalX è che
+[56:07] io lo posso far girare anche sul mio computer di casa perché girando come i dense service Tor
+[56:14] non devo avere un indivici più statico, non devo stare a preoccuparmi di configurare il mio
+[56:20] firewall o fare cose strane, devo semplicemente far partire il demone GlobalX e lui farà tutto il
+[56:27] resto, addirittura lo distribuiremo come eseguibile per Windows che uno può cliccarci
+[56:32] soppre parte. Quindi che cosa, bu, questo non me lo ricordo molto bene. Allora come fate
+[56:49] quindi voi che insomma siete degli hacker a smanettare su GlobalX che cosa potete fare per
+[56:55] aiutarci a migliorare questa bella cosa e avere tanto divertimento, tante gioie, tanto da bere
+[57:07] vino in particolare e assaggiare le prelibatezze del territorio italiano perché infatti la cosa
+[57:16] molto divertente è stata che quando Safe è venuto all'acaton di GlobalX non ha fatto altro che
+[57:24] parlare di quanto era buono il cibo italiano, di quanto si divertiva bere vino e a mangiare i
+[57:32] tortelli al cinghiale alla sagra di Borgosan Lorenzo, insomma ha apprezzato molto il cibo e le
+[57:42] cose da bere italiane per cui questo fungerà da incentivo per attirare tanti altri sviluppatori
+[57:47] da tutto il mondo per venire nella mia casa in campagna in Toscana a bere tanto vino e mangiare
+[57:56] tanto cibo. In questo nei confronti degli hackeri della comunità crucca e europea di Gnom tira
+[58:02] molto nell'organizzare degli hackathon di 3-4 giorni di sviluppo, mangiando le tagliadelle,
+[58:07] mangiando la fiorentina, mangiando gli recruiting di forze volontarie che usa l'italian food
+[58:15] per attirare l'acker nerd crucco uber. Eh sì, la pasta di Vecna che è una cosa insomma
+[58:25] notevole, la matriciana quindi insomma a parte il cibo che cosa che dovete fare? Dovete installare
+[58:32] il launchpad e mi sono dimenticato di ora il problema è che purtroppo abbiamo deciso
+[58:45] di adottare Bazar come sistema di versioning e non è che non lo so a me non piace moltissimo
+[58:51] e quindi va bene insomma dovrete convivere dovrete fare a cazzotti anche voi con Bazar
+[58:57] però alla fine vi garantisco che ci riuscirete. Quindi questo è dovete registrarvi con un
+[59:05] account sul launchpad, potete andare a visitare questo indirizzo qua dove trovate tutto il
+[59:10] codice di GlobalX rilasciato open source, lì potete vedere i blueprint che sono le cose
+[59:15] che vanno implementate e potete insomma divertirvi a implementare qualche blueprint e poi
+[59:21] potete cliccare sul pulsantino e dire io l'ho completato e arriverà una notifica
+[59:26] a tutti gli altri omini e diranno anche bravo. Le tecnologie che utilizziamo? Utilizziamo Python
+[59:33] è scritto tutto in Python, utilizziamo un framework che è Web2Py, quello è il link al
+[59:39] libro su Web2Py fantastico scritto molto bene, si basa su il concetto dell'MVC quindi
+[59:45] la separazione tra il model view e il controller che è diciamo insomma una di queste cose
+[59:50] è una di queste pratiche di programmazione molto auti, best practice, orientato ad oggetti
+[59:55] interamente e insomma safe sta facendo un bel lavoro di studiare gli oggetti, farli per
+[60:02] bene, creare insomma tutte le varie classi in fatte a modino eccetera eccetera. Poi Web2Py
+[60:11] ha anche tante varie feature di sicurezza per cui previene vari attacchi web e insomma
+[60:18] tante altre belle cose. Delivery sarà un XE contenuto, cioè auto contenuto per nel caso
+[60:27] di Windows, un app nel caso di Mac OS X e comunque sarà potenzialmente uno anche non tecnico
+[60:37] potrà fare drag and drop e quindi chiunque anche non tecnico potrà fare utilizzare il software
+[60:51] global X. Le potenze e le opzioni da scegliere in questa fase possono essere che si vuole metter
+[60:57] il Web2Py che è framework all'interno del bundle o lasciarlo separato. E comunque niente questo
+[61:05] è tutto ciò che avevamo da dirvi e questo è l'inno ufficiale di global X è diventato
+[61:14] perché adesso preparatevi che global X verrà lanciato, allora le demo vanno sempre a
+[61:36] finire male. Allora eccolo qua. Questa è la scelta di root sul server di global X. Questa
+[61:47] è global X. Questa è global X e questo fa partire global X e questo è global X. Questa
+[62:22] è praticamente la demo, cioè qua facciamo vedere quello che è il workflow basillare di
+[62:27] global X, guidando l'utenti attraverso tutte le varie tasi. Quindi qua fungiamo il ruolo
+[62:36] del node administrator, creiamo una target list. Diciamo aggiungiamo il target da peschiamozza.
+[62:49] Qua ci metto la mia mail, la peschiamozza è stata aggiunta alla target list. Adesso vado
+[63:12] e diventa il whistleblower. Quindi crea un leak che si chiama, non lo so, Antani. Antani
+[63:23] rivelato. Posso scegliere di aggiungere materiale ma l'abbiamo disattivato nella demo per motivi
+[63:38] legali. Qua posso scegliere di pulire i metadati. Devo scegliere di avere letto il disclaimer
+[63:46] e comunque di sapere che potenzialmente potrei entrare in una valle di lacrime. E poi
+[63:52] faccio submito. Viene generato per me questo numero che io lo segno sul mio cellulare
+[64:00] e in questo caso lo metto dentro alla clipboard e a questo punto nella mia posta arriva la notifica
+[64:19] di GLOBALX che mi dice ciao sono GLOBALX c'è un nuovo tulip per te. Clicca su questo indirizzo
+[64:30] per visionarlo. Io a questo punto inserisco questo indirizzo qua dentro e mi sono perso il
+[64:39] reset. Il povero leaker si è dimenticato, eh no, mi aveva incollato. Vabbè pazienza il whistleblower
+[64:47] ha perso il reset e quindi niente io qua ho la possibilità di vedere il contenuto posso
+[64:55] scaricarlo vedo la target list e vedo che ci sono anche io nella target list. Me lo salvo
+[65:00] lo sto scaricando. A questo punto il contatore dei download aumenta e passa giustamente a uno.
+[65:10] A questo punto apro qua il contenuto di questo documento che è il material, il materiale che
+[65:23] è stato caricato e quindi abbiamo questo. Ma è grosso. Detto anche il panzone passo. Vabbè
+[66:08] insomma non ve lo facciamo vedere tutto. E quindi provatelo. Domande? Non l'ha giunta adesso.
+[66:27] Avete delle domande? Dicì. Allora per quel che riguarda la prevenzione
+[66:48] dello spam viene in cioè nel senso spam inteso come un bot automatizzato che manda contenuti
+[66:55] fuffa a una plethora di target viene eliminato cioè viene diciamo mitigato il problema introducendo
+[67:02] vari livelli di capsa che adesso non sono stati messi per perché comunque vanno ancora
+[67:09] implementati per bene e quello diciamo previene l'abuso da parte di un bot. Per quello che riguarda
+[67:17] invece l'abuso inteso come cioè da quello che ho capito intendevi anche magari informazioni
+[67:25] scritte da un umano. Beh no abbiamo un certo un po' di esperienza riguardo. Noi abbiamo già
+[67:42] analizzato questa cosa. Se guardate poi sul launch pad ci sono le specifiche funzionali con
+[67:48] tutte le analisi fatta all'interno di questi mesi. Incluso anche il meccanismo di tutela anti spam.
+[67:53] Meccanismo di tutela anti spam da un lato mette un capcia all'ingresso della submission del
+[67:58] materiale per fare whistle blowing e dall'altro se per un determinato target sono
+[68:05] state inviate nell'arco di x ore troppe email allora introduce un sistema di digest di notifica
+[68:12] similare a quello delle mail inglist cioè se ne ho ricevute più di dieci al giorno dalla decima
+[68:18] fino al decorre delle ventiquattro ore gli manderò una sola email di notifica con l'elenco di tutti
+[68:25] i tulip questo onde evitare di mandare duecento email a una lista di cinque sei target che
+[68:32] magari non volevano neanche ricevere questo materiale perché nel modello attivistico ci
+[68:37] possono essere circostanze in cui il target non vuole ricevere qual materiale ben che tu
+[68:42] ieri deliveri nella casella di vostra elettronica allora da una parte capirà se se lo capisci
+[68:52] se succede che gli conviene perché suppone che un giornalista si trovi a perdere una notizia
+[68:56] perché se smesso a smesso di leggere la fuffa con quanto ne ci la trova lui capirà che
+[69:02] effettente è interessante ed è importante sfoltire più possibile il la torba quello che può
+[69:09] aiutare inoltre fatto che ogni singolo target possa commentare quello che vede e sperano un
+[69:14] giudizio se il contenuto è appropi a pertinente il contesto che si parla o non pertinente quindi
+[69:19] una cosa che può essere sia rilevante che essere stronzata da questo tipo di giudizio costo tipo
+[69:24] di votazione verso i target fa sì che un target che visita il tulip per il secondo per
+[69:30] terzo ulteriore possa già avere un'anticipazione di quello che li aspetta quindi se si trova
+[69:35] goazze così la guarda e goazze non stare a coprire il il leak se invece può essere
+[69:41] cosa interessante chi lo leggerà facendo parte di questa gruppo di persone elette al
+[69:47] allo sfoltirsi questa torba potrà valutare che effettamente questa torba invece una perla
+[69:54] inoltre una cosa molto importante che farà il l'amministratore del del nodo global x è
+[70:02] quello di personalizzare diciamo il form di submission per cui quello che può fare è ad
+[70:08] esempio introdurre una serie di domande a cui il whistleblower dovrà rispondere con usi o con
+[70:14] un no e già quello sarà un qualcosa di molto utile per capire se effettivamente il materiale
+[70:20] inviato è interessante oppure no perché se io guido il whistleblower attraverso un processo
+[70:26] passo passo che deve dire questo riguarda non lo so un conflitto che ha rilevanza ha rilevanza
+[70:33] penale quello che sta inviando è insomma una serie di domande che poi sarà compito del del
+[70:41] nodo global x cercare di definire e tra l'altro quello che pensiamo di fare è lanciare poi
+[70:47] un diciamo una piattaforma chiamano di community attorno alla quale uno può
+[70:54] pubblicare il suo file di config del nodo stesso per cui ad esempio io vado lì e vedo al
+[71:02] jasir a utilizza questo nodo di questo file di config e quindi posso insomma prendere spunto da
+[71:10] quello e modificarlo per adattarsi alle mie esigenze e tra l'altro al jasir è veramente
+[71:16] interessata a utilizzare global x cioè lo possiamo dire no penso di sì ormai
+[71:23] abbettante in italiano vabbè comunque allora niente e vabbè niente se siete interessati andate a
+[71:43] vedere i blueprint come vedete qua insomma ci sono ancora tante cose da essere implementate e
+[71:51] potete insomma divertirvi a scrivere del codice python che tanto una bella cosa e niente allora
+[72:33] questo è un ottima domanda perché è un problema che abbiamo analizzato abbastanza abbastanza nel
+[72:39] dettaglio che quindi quello che stai chiedendo è come vengono inviati in maniera sicura
+[72:45] le notifiche di tulips ai target perché se io posso mandare mail anonymamente allora è il
+[72:52] paradiso dello spammer giusto ora per questo motivo abbiamo scelto di utilizzare in una prima fase
+[73:00] la possibilità di usare mail che che sono configurabili con multi account per cui io posso mettere
+[73:08] in in failover una catena di vari account diversi di posta che sarà mio compito come nod maintainer
+[73:16] tenere aggiornato questo questo pool di indivizi mail ma in una fase successiva nel caso dovesse
+[73:25] prendere piede il progetto di anonymous remailer mix minion e mix master e compagnia varia potrebbe
+[73:34] essere quello una valida alternativa perché ad esempio nel caso di mix minion e mix master il
+[73:41] problema dello spam viene eliminato perché la quantità di calcolo crittografico che deve
+[73:48] venire che deve fare il nodo il nodo mix è così cioè il client che vuole comunicare con i nodi
+[73:57] è così elevato che non che non è non è vantaggioso per uno spammer uno spammer ha bisogno di mandare
+[74:05] mille mail al secondo con un sistema mix non lo può fare e quindi diciamo in sostanza questo
+[74:17] è come come lo abbiamo risolto attualmente cioè registrando account di posta anonimi non è
+[74:26] una una grande soluzione probabilmente c'è qualcosa di di meglio da fare e se avete delle idee
+[74:32] sarebbe sarebbe interessante discutere però nella fase successiva verrà integrato comunque
+[74:39] un sistema di motivi ha molto più complesso che permette di usare una fletora di sistemi di
+[74:45] comunicazioni differenti no no no lo puoi fare all'interno no no lo puoi fare all'interno
+[74:59] della rete tor ti puoi collegare tor blocca solamente smtp smtps non è bloccato quindi
+[75:06] se se tutti ti colleghi con gli user name password a un account di gmail ad esempio puoi mandare la
+[75:12] posta stessa cosa a vari altri servizi free che offrono ssl e autenticazione possono essere
+[75:22] utilizzati via tor e in realtà è uscito a caso nel senso io quella canzone la la
+[75:43] conoscevo da un sacco di tempo mi piaceva un sacco ce l'avevo nei preferiti e un giorno la
+[75:50] stavamo ascoltando in macchina mi pare con nife o eravamo eravamo eravamo l'acqua metto questa
+[75:57] canzone e non so che forse nife mi guarda mi fa don't make mia target ma è stupendo ma questo
+[76:06] stati non mi fa non mi non mi mettere nella lista dei target è stupendo raffredd c'è anche perché
+[76:13] all'interno di quello che si auspica possa essere anche un utilizzo attivistico di global x i target
+[76:23] che vengono selezionati e che sono poi in seguito diciamo che riceveranno il materiale da parte
+[76:30] di whistleblower non è che necessariamente lo vogliono ricevere e vogliono prendersi addosso la
+[76:36] responsabilità di conoscere cose scomode quindi don't make mia target è assolutamente appropriato

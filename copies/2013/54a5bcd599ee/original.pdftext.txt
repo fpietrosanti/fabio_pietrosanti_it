@@ -1,0 +1,448 @@
+                                       Cryptocat: Adopting Accessibility and Ease of Use as Security Properties
+
+                                         Nadim Kobeissi                                               Arlo Breault
+                                       Cryptocat, OpenITP                                              Cryptocat
+                                        nadim@crypto.cat
+                                                                                                    arlo@crypto.cat
+
+arXiv:1306.5156v1 [cs.CR] 21 Jun 2013  Abstract                                                     grates OTR from the outset. However, in the case of
+                                                                                                    desktop applications, we have found that the necessity
+                                       Cryptocat is a Free and Open Source Software (FL/OSS)        for both parties to download, install and configure the
+                                       browser extension that makes use of web technologies in      same chat software and OTR plugin was enough to disen-
+                                       order to provide easy to use, accessible, encrypted instant  franchise a majority of end-users from regularly engag-
+                                       messaging to the general public.                             ing in encrypted messaging, even if they had an urgent or
+                                       We aim to investigate how to best leverage the accessibil-   pressing need for encrypted communications.
+                                       ity and portability offered by web technologies in order     In working with young and middle-aged professionals in
+                                       to allow encrypted instant messaging an opportunity to       the Middle East region, we have discovered that desktop
+                                       better permeate on a social level. We have found that        OTR clients suffer from serious usability issues which
+                                       encrypted communications, while in many cases techni-        are sometimes further exacerbated due to language dif-
+                                       cally well-implemented, suffer from a lack of usage due      ferences and lack of cultural integration (the technology
+                                       to their being unappealing and inaccessible to the "aver-    was frequently described as "foreign"). In one case, an
+                                       age end-user".                                               activist who was fully trained to use Pidgin-OTR [2] ne-
+                                       Our position is that accessibility and ease of use must be   glected to do so citing usability difficulties, and as a di-
+                                       treated as security properties. Even if a cryptographic      rect consequence encountered a life-threatening situation
+                                       system is technically highly qualified, securing user pri-   at the hands of a national military in the Middle East and
+                                       vacy is not achieved without addressing the problem of       North Africa region (see §7.1).
+                                       accessibility. Our goal is to investigate the feasibility    These circumstances have led us to the conclusion that
+                                       of implementing cryptographic systems in highly acces-       ease of use and accessibility must be treated as security
+                                       sible mediums, and to address the technical and social       properties, since their absence results in security com-
+                                       challenges of making encrypted instant messaging acces-      promises with consequences similar to the ones experi-
+                                       sible and portable.                                          enced due to cryptographic breaks.
+                                                                                                    Cryptocat is designed to leverage highly accessible medi-
+                                       1 Introduction                                               ums (the web browser) in order to offer an easy to use en-
+                                                                                                    crypted instant messaging interface accessible indiscrim-
+                                       Current popular encrypted instant messaging technolo-        inately to all cultures, languages and age groups. Crypto-
+                                       gies largely implement the Off-the-Record protocol           cat clients are available as Free Software browser exten-
+                                       (OTR) [1] for encryption between two parties. OTR aims       sions [8] written in JavaScript and HTML5. Cryptocat
+                                       to provide forward secrecy, digital signatures, message      servers use the XMPP protocol [9] with XEP-0045 [10].
+                                       authentication, repudiation and plausible deniability for
+                                       conversations with two participants. OTR-encrypted chat      2 Goals
+                                       is generally available as a plugin for popular instant mes-
+                                       saging software [2, 3, 4, 5]. For mobile smartphones,        Cryptocat's goal is to profoundly broaden the accessi-
+                                       OTR is available built-into specialized encrypted mes-       bility of encrypted chat across platforms, cultures, lan-
+                                       saging applications [6, 7].                                  guages and borders. To achieve this, we aim to expand
+                                       We have found that the mobile applications featuring         the limits of cryptosystem implementation in highly ac-
+                                       OTR tend to be more accessible due to their platform,        cessible environments.
+                                       specialized purpose and design philosophy which inte-        Our main target is the web browser: a best-of-breed en-
+vironment in terms of accessibility but with a deeply
+lacking research base regarding its handling of client-
+side cryptographic systems. We aim to improve the re-
+search base and legitimacy of secure cryptography in
+the browser in order to allow for the implementation of
+highly accessible and portable cryptosystems. Techni-
+cal experimentation is required, as well as directly ad-
+dressing issues such as code delivery and secure pseudo-
+random number generation (see §6).
+On a social level, Cryptocat aims to normalize the ex-
+pectation that instant messaging conversations must be
+encrypted against any and all undesired third parties. If
+we can achieve a high level of accessibility for encrypted
+instant messaging platforms, we hope that our method-
+ologies will be widely adopted through our Free and
+Open Source development model, thereby normalizing
+the idea of private online conversation and embedding a
+social expectation for communication privacy. Cryptocat
+also aims to promote cats around the world as wonderful
+creatures.
+
+3 Threat model                                                      Figure 1: Connections overview and attack points
+
+Cryptocat's security objectives are:                            as a Cryptocat application to SSL man-in-the-middle at-
+                                                                tacks [15]. Our threat evaluation process is continuous
+   · Provide encrypted messaging where messages are             and open to public discussion.
+      only readable by the sender and the intended recip-
+      ient(s).                                                  4 Methodology
+
+   · Provide means for parties to securely authenticate         The reasoning behind our development methodology is
+      each other's identities.                                  that Cryptocat is most likely to receive volunteer pro-
+                                                                grammers, testers and security auditors via this transpar-
+   · Protect against message forgery during conversa-           ent format. We believe in principles of full disclosure and
+      tions.                                                    aim to achieve our security and usability through the de-
+                                                                tailed and open study of our protocols, implementations
+It is worth noting that our security objectives do not in-      and releases, and by maximizing the involvement of both
+clude protecting from compromise via hardware or mal-           security and usability communities.
+ware, or the cryptographic property of plausible denia-
+bility in a group conversation context, or anonymizing          4.1 Software development
+the identity of user connections. That being said, plausi-
+ble deniability is still provided in private messages since     Cryptocat software is written, published and reviewed
+these are carried over the OTR protocol. Futhermore,            under a principle of radical transparency. All source
+Cryptocat clients are tested to be compatible with third-       code modifications are pushed live into a public code
+party anonymizing technologies such as Tor [11], and it         repository using the git revision control and source code
+is possible for Cryptocat servers to be set up as Tor Hid-      management system, which also hosts an issue tracker
+den Services [12].                                              and development wiki. All design considerations, from
+Cryptocat's threat model document [13] delineates six at-       cryptographic implementations to user interface con-
+tack points with potential threats, pinpointed along the        cerns, are discussed, decided upon and implemented in
+route from the Cryptocat user to the server. Threats are
+evaluated according to the DREAD model [14] (Dam-
+age, Reproducibility, Exploitability, Affected users and
+Discoverability). The attack points (A, B, C, D, E and F)
+are visible in Fig. 1.
+The full threat model document [13] discusses a vari-
+ety of threats situated along these attack points, which
+range from a phishing browser extension masquerading
+
+                                                             2
+public. Some larger projects may be developed offline            5 Architecture
+prior to the first commit, but no release is ever made with-
+out it being available as Free, Open Source Software and         Cryptocat's technical architecture is similar to typical
+properly documented on our code repository [16].                 XMPP chat clients with Multi-User Chat support, with
+Cryptocat browser extensions, currently available for            some additional features and changes required to acco-
+Google Chrome, Mozilla Firefox and Apple Safari, rely            modate for our reliance on the web browser as a plat-
+on an identical codebase with only minor differences to          form. Essentially, Cryptocat's architecture is split into
+account for browser integration. Browser extensions are          an XMPP client capable of encrypted communications
+signed and delivered over HTTPS.                                 and an XMPP server accessible via HTTPS.
+Furthermore, routine compatibility and functionality
+testing is carried out between different browsers and plat-      5.1 Client-side
+forms, in-house, via unit testing, and in collaboration
+with beta testers around the world.                              Cryptocat is delivered as a signed browser extension,
+                                                                 downloaded over HTTPS. The extension contains an
+4.2 Auditing                                                     XMPP client that only accepts and sends encrypted mes-
+                                                                 sages while discarding all other communications. All
+Cryptocat browser extensions undergo regular profes-             cryptographic operations take place on the client-side,
+sional security audits carried out by various independent        with the server only dealing with the exchange of ci-
+third party code auditing groups (see §10). Unless we are        phertext messages and user login. Cryptocat is designed
+forbidden by the auditor, all audit reports are made fully       around a "chat room" model where users adopt discard-
+public as soon as any critical flaws they may identify are       able nicknames to join ephemeral chatrooms, encrypting
+addressed. After our first audit [17] in November 2012,          messages using ephemeral public keys.
+we addressed thirteen vulnerabilities, of which two were         Cryptocat uses different encryption protocols depending
+considered critical, and verified the fixes with the audit-      on which type of communication users are engaged in.
+ing group within one week. The audit report was made             For one-on-one chats, a JavaScript implementation [20]
+available to the public immediately after. Our most re-          of Off-the-Record messaging [1] is used. In multiparty
+cent audit [18] was carried out by Veracode in January           situations, Cryptocat currently uses its own temporary
+2013 and discovered no vulnerabilities within its scope,         multiparty protocol [21], with the intention of replacing
+awarding Cryptocat a score of 100/100. As of writing, a          the protocol once the Multi-Party Off-the-Record mes-
+third code audit is underway.                                    saging protocol (mpOTR) [22] is specificied and imple-
+                                                                 mented (see §9.1).
+4.3 Localization
+                                                                 5.2 Server-side
+In order to fulfill Cryptocat's accessibility goals, Crypto-
+cat's interface is fully translated into more than 32 lan-       Connections between Cryptocat clients and servers are
+guages and functions well with right-to-left scripts as          illustrated in Fig. 1. On the server side, Cryptocat uses
+well as exotic character sets necessary for supporting lan-      ejabberd [23] in order to instantiate an XMPP server.
+guages such as Tibetan.                                          Since the Cryptocat client is built using web technolo-
+We use the online Transifex [19] platform in order to co-        gies, a Bidirectional-stream Over Synchronous HTTP
+ordinate with volunteer translators and to review and ver-       (BOSH) [24] server is used in order to instantiate an
+ify translations. We are entirely dependent on a world-          HTTP-based transport for "push" and "pull" XMPP op-
+wide community of volunteer translators in order to help         erations. This HTTP transport is not exposed to the pub-
+Cryptocat break down linguistic and cultural barriers.           lic Internet and is only mapped to the local IP address;
+Currently maintained languages and dialects are Arabic,          instead, we use a separate HTTPS proxy to expose the
+Basque, Bengali, Bulgarian, Burmese, Catalan, Chinese,           BOSH server globally. This is done both in order to ben-
+Simplified Chinese, Croatian, Czech, Danish, Dutch, En-          efit from an additional layer of encryption via SSL and to
+glish, Estonian, Finnish, French, German, Greek, He-             be able to offer XMPP over BOSH over a standard 443
+brew, Italian, Japanese, Khmer, Korean, Latvian, Lol-            port, therefore helping mitigate potential incompatibili-
+cat, Norwegian, Persian, Polish, Portuguese, Russian,            ties with user firewalls.
+Serbian, Slovak, Spanish, Swedish, Tibetan, Turkish,             Cryptocat servers use XEP-0045 [10] to instantiate group
+Uighur, Urdu and Vietnamese.                                     "chat rooms", while XEP-0077 [25] is used to allow
+                                                                 for spontaneous In-Band Registration of ephemeral user
+                                                                 identities.
+                                                                 Server configuration files and deployment instructions
+
+                                                              3
+are available online on the Cryptocat Development Wiki
+[26]. Users are encouraged to set up their own private
+servers, and the Cryptocat client offers an interface for
+configuring third party server connections.
+
+6 Technical challenges                                              Figure 2: OTR key generation speed optimization
+
+Adopting the web browser as our platform has the most           recently, JavaScript did not have an answer for binary
+payoff in terms of securing accessibility and ease of use,      data manipulation in all browsers. Typed Array support
+but is also recognized as a substantially risky technical       started to land in major web browsers in late 2012, well
+challenge. As of the introduction of the HTML5 frame-           after the initial development of the library had begun.
+work [27], it has been possible on a technical level to         Consequently, in our OTR library, raw data is treated as
+implement the myriad features required for a proper en-         JavaScript Strings, which is slow but compatible.
+crypted instant messaging client natively in the browser.       OTR uses 1024-bit DSA keys which, due to the fact that
+However, we were faced with a deep lack of research,            Cryptocat does not currently store long-term key pairs
+testing, specification and implementation when it came          (see §9.2), need to be generated, along with DSA pa-
+to certain security considerations.                             rameters, each time the application is launched. Effi-
+Therefore, in many situations, we have had to come up           ciently generating these keys is paramount to user ex-
+with potential solutions to these security questions our-       perience. Since JavaScript's execution model is a single-
+selves. Aside from the cases outlined in the following          threaded, run to completion event loop, computationally
+subsections, Cryptocat is also participating as a test case     heavy operations will by default lock up the browser tab,
+for the W3C Web Cryptography Working Group [28],                preventing other operations from executing. To mitigate
+which is currently attempting to implement native cryp-         this issue, keys are generated in Web Workers [30] and
+tographic primitives to be accessed in the browser via an       message-passed back to the main thread upon comple-
+API that is exposed through JavaScript calls [29]. We ul-       tion. This allows Cryptocat a first line of defense: dis-
+timately believe that even though further research is still     playing randomly selected "cat facts" to keep the user
+required, it is absolutely necessary for web technologies       engaged as it generates keys. As of writing, Cryptocat
+to achieve a security standard sufficient for the imple-        features over fifty highly interesting cat facts [31].
+mentation of sophisticated cryptographic systems, if we         A large gain in performance came from an optimization
+are to succeed in making these systems accessible to the        to the Miller-Rabin primality test by first checking if the
+general public.                                                 candidate prime is divisible by any prime number under
+                                                                1,000. We further optimized the speed of OTR key gen-
+6.1 Code delivery                                               eration in the browser by 33.7% by following Google's
+                                                                Go-lang implementation [33] of the Digital Signature
+Early attempts to deliver Cryptocat as a website over           Algorithm (DSA), which deviates from the FIPS 186-3
+HTTPS without the requirement of installing a browser           [34] standard by eliminating the verification seed used to
+extension were deemed an exigent security risk. This            generate primes, since it ends up being discarded with-
+is due to the fact that as a website, cryptographic prim-       out use. This significantly sped up key generation, as
+itives were re-downloaded every time a user would ac-           seen in Fig. 2. It also led to less variance in generation
+cess the Cryptocat client. This left an open window for         time. Furthermore, improvements to JavaScript virtual
+a malicious host to serve deceptive or defective encryp-        machines have lead to optimizing compilers that execute
+tion software, masquerading as a legitimate Cryptocat           cryptographic operations with near-native performance
+client. Instead, Cryptocat was rebuilt to be served as a        [32]. These improvements make DSA key generation
+code-signed browser extension which connects to stan-           feasible in the browser.
+dard XMPP servers. This made code delivery more se-
+cure and also allowed us to rely on existing standards for
+server deployment.
+
+6.2 OTR in the browser
+
+JavaScript does not natively support arbitrary precision
+arithmetic. A BigInt library, along with several custom
+written operations, made up for this deficit using a com-
+bination of JavaScript Array and Number types. Until
+
+                                                             4
+6.3 CSPRNG in the browser                                       tors in order to maintain Cryptocat translations that help
+                                                                us lessen the effect of linguistic and cultural barriers.
+In JavaScript, the default pseudorandom number gener-
+ator is not considered cryptographically secure (except         7.1 Unintended demographics
+in Opera, which implements a cryptographically secure
+version of Math.random()).                                      We have found that in attempting to standardize en-
+As of writing, Google Chrome and Apple Safari are the           crypted instant messaging as accessible to everyone,
+only web browsers to expose a Cryptographically Se-             there is a serious danger of being misinterpreted as
+cure Pseudorandom Number Generator (CSPRNG) via                 catering specifically to political activists in oppressive
+JavaScript, using the window.crypto.getRandomValues()           regimes and others in similarly life-threatening situa-
+[29] function. In Mozilla Firefox, the Crypto-                  tions. While it is understandable as to why these groups
+cat browser extension manually exposes this method              would gravitate around a relatively highly accessible en-
+using a JavaScript module which implements win-                 crypted instant messaging solution, we have found that
+dow.crypto.getRandomValues() on a native browser level          clearly delineating Cryptocat's efforts as a much broader
+via calls to NSSLib. We have received reassurances              experimental nature to be a demanding and serious task.
+from Mozilla that Firefox 22 will natively include win-         As of writing, warnings and tips regarding best-use prac-
+dow.crypto.getRandomValues().                                   tices, translated into thirty-five languages, are included
+In order to minimize draining of the system entropy pool,       on the Cryptocat client's main screen.
+window.crypto.getRandomValues() is only called for an           Regarding the issue of addressing the privacy needs of
+initial batch of pseudorandom values, which are then            those in dangerous situations, we deem it necessary to
+used to seed a Salsa20 [35] implementation.                     never rely exclusively on software, but to focus on pro-
+                                                                viding capable training sessions regarding the risks in-
+7 Social challenges                                             volved.
+
+Challenges in socially normalizing cryptography are             7.2 Buddy lists
+largely due to cryptographic applications being almost
+always available as sideline alternatives. Designers of         Discussions were held early in Cryptocat's development
+mainstream instant messaging applications are rarely            to decide on whether features such as user accounts and
+given the incentive to implement client-side cryptogra-         buddy lists were to be implemented. While such features
+phy, while the designers of encrypted communication             would greatly enhance user experience and ease of use
+systems usually cater to specific audiences, such as com-       by allowing users to quickly communicate with friends
+puter hobbyists and enthusiasts, military and intelligence      and check on the status of their contacts, we have decided
+personnel, and so on. Cryptocat has enjoyed a highly            against implementing these features in order to minimize
+varied user-base, ranging from LGBTQ help groups to             the amount of user metadata held on Cryptocat XMPP
+pre-school teachers using it to teach children about on-        servers. Were these features implemented, the Cryptocat
+line privacy.                                                   XMPP server would have likely recorded, in plain text,
+In order for encrypted instant messaging to become a            the contact lists and user account information of all of its
+new mainstream standard, we are required first to de-           users. In order to maximize user privacy and minimize
+velop the Cryptocat browser extension as an accessible,         server data retention, we have therefore opted for a "chat
+easy and fun to use software package, while also ensur-         room" model, even though that model is arguably less
+ing that the underlying research is available to be inde-       user-friendly. This example illustrates the balancing act
+pendently implemented into the clients of other, more           between usability and security that has provided the most
+mainstream instant messaging solutions.                         central and essential questions surrounding Cryptocat's
+Cryptocat aims to leverage the web browser environment          development decisions.
+in order to make itself readily accessible to users who are
+already familiar with mainstream instant messaging so-          7.3 Encouraging authentication
+lutons that use the same environment, such as Facebook
+Chat. For this purpose, Cryptocat uses a neutral inter-         We have found that average users generally do not bother
+face with comforting color palettes and graphics, cou-          authenticating each other's identities using public key
+pled with usability features such as audio and desktop          fingerprints, due to the task's cumbersome nature. In
+notifications. We classify these interface features also as     order to facilitate this, we have introduced public-key
+security features, since they encourage users to engage in      derived color codes that provide a limited, albeit more
+a more secure form of communication, especially when            likely to be used, capacity to verify identities. We are
+it is needed. We also solicit the aid of volunteer transla-     also implementing the Socialist Millionaires' Problem
+
+                                                             5
+protocol in order to allow for in-band question/answer          made available in the third version of the OTR messag-
+authentication (see §9.4).                                      ing protocol.
+                                                                There were three aspects to achieving secure file trans-
+8 Availability and status                                       fers: establishing a shared secret key between clients,
+                                                                choosing the cryptographic primitives used for file en-
+Cryptocat is currently available as a browser extension         cryption, and selecting a transfer protocol. In the
+for Google Chrome, Mozilla Firefox and Apple Safari             third version of the OTR messaging protocol, an extra
+through the Cryptocat website [8]. It is currently in Beta,     symmetric key is derived during authenticated key ex-
+experimental status.                                            changes, with the intention of being used for secure com-
+                                                                munication over a different channel. Therefore, an API
+9 Limitations and future work                                   is provided in the JavaScript OTR library, and used in
+                                                                Cryptocat, to derive a shared 256 bit key. We then run
+Although browser tab thread-level sandboxing is quickly         this shared key through SHA512 to expand it to 512 bits.
+improving and increasingly more difficult to break, es-         The first 256 bits of the resulting expanded key are used
+pecially in the case of Google Chrome [36], we be-              with AES-256, in counter mode, to encrypt chunks of the
+lieve that the browser's architecture, which is designed        file. The second 256 bits are used in HMAC-SHA512 for
+to handle and execute myriad amounts of different data          authentication. To transfer the file, we implemented the
+types, needs additional research in the area of sandbox-        XEP-0047 specification [39], which defines an XMPP
+ing. Improvements in this area will greatly aid the web         protocol to enable entities to establish a bytestream. Data
+browser with securely handling cryptographic data. We           is broken down into smaller chunks (64Kb) and trans-
+also believe that research is required towards implement-       ported in-band over XMPP.
+ing other security features in JavaScript, such as secure
+memory erasure for cryptographic keys.                          9.4 SMP
+
+9.1 Implementing mpOTR                                          The OTR specification provides two methods of detect-
+                                                                ing impersonation or man-in-the-middle attacks: com-
+The lack of a Multi-Party Off the Record protocol spec-         paring fingerprints and the Social Millionaires' Proto-
+ification and implementation remains a serious imped-           col (SMP). Due to the current limitation involving long-
+iment towards achieving more secure encrypted group             term key storage, verification of fingerprints in a differ-
+instant messaging. While research material currently            ent channel at each conversation is required. SMP offers
+exists regarding mpOTR [22], specification and imple-           a more convenient alternative and, as we have argued,
+mentation still require serious effort due to the nature of     ease of use will encourage clients to make use of this
+the problem of efficiently implementing deniable multi-         security feature. SMP allows two users to compare a se-
+party encrypted chat. The current pragmatic value of            cret without revealing any information about that secret,
+plausible deniability in the OTR context is uncertain.          other than whether or not it is known.
+
+9.2 Permanent key storage                                       10 Acknowledgments
+
+A suitable storage mechanism for long-term keys has             We owe many advancements in Cryptocat's research and
+yet to be decided upon, nor has importing long-term             development to the contributions, review, testing and
+keys been implemented in Cryptocat. This means that             feedback of Jacob Appelbaum, Joseph Bonneau, Grif-
+DSA keys are regenerated every time the application             fin Boyce, Dmitry Chestnykh, Daniel "koolfy" Faucon,
+is launched, requiring chat participants to verify finger-      Arturo Filasto`, Adam Langley, Meredith L. Patterson,
+prints in an out-of-band channel at each conversation, or       Fabio Pietrosanti and the open source security commu-
+use the Socialist Millionaires' Problem protocol to ver-        nity. We are indebted to Elisabeth Gill for coordinating
+ify a shared secret. Key storage and SMP are currently          Cryptocat's translation effort with dozens of volunteer
+available in our OTR library but are still undergoing test-     translators. We would like to thank David Dahl and Tom
+ing and review [37].                                            Lowenthal of Mozilla, and fellow members of the W3C
+                                                                Web Cryptography Working Group for their help with
+9.3 File transfer                                               browser integration. We thank the teams at Cure53 and
+                                                                Veracode for their diligent security audits of Cryptocat
+Cryptocat implements an OTR-XMPP file transfer spec-            code. Finally, we would like to thank the Open Technol-
+ification [38] that leverages the extra symmetric keys          ogy Fund [40] and OpenITP [41] for funding our work.
+
+                                                             6
+References                                               [16] GitHub. Cryptocat Code Repository. https://
+                                                              github.com/cryptocat/.
+[1] Borisov, Nikita, Ian Goldberg, and Eric Brewer.
+     "Off-the-Record Communication, or, Why Not To       [17] Heiderich, Mario, Krzysztof Kotowicz, and
+     Use PGP." Web. 30 Apr. 2013. http://www.                 Maxim Rupp, eds. "Cure53 Public Pentest Re-
+     cypherpunks.ca/otr/otr-wpes.pdf.                         port: Cryptocat 2." Cryptocat Development Blog.
+                                                              Cryptocat, 9 Nov 2012. Web. 1 May 2013. https:
+[2] Off-the-Record Messaging Plugin for Pidgin.               //blog.crypto.cat/wp-content/uploads/
+     Readme. http://www.cypherpunks.ca/otr/                   2012/11/Cryptocat-2-Pentest-Report.pdf.
+     README-pidgin-otr-4.0.0.txt, 2012.
+                                                         [18] "Veracode Cryptocat Audit Attestation."
+[3] Adium Trac Wiki. OTR. https://trac.adium.                 Cryptocat, n.d. Web. 1 May 2013. https:
+     im/wiki/OTREncryption.                                   //blog.crypto.cat/wp-content/uploads/
+                                                              2013/02/Cryptocat_Attestation_Veracode_
+[4] Jitsi. Features list. https://jitsi.org/Main/             20130222_final.pdf.
+     Features.
+                                                         [19] Transifex. Cryptocat Project Localization.
+[5] Gajim Project. FAQ. https://trac.gajim.org/               https://www.transifex.com/projects/
+     wiki/GajimFaq.                                           p/Cryptocat/.
+
+[6] The Guardian Project. Gibberbot: Secure Instant      [20] Cryptocat. Off-the-Record JavaScript Library.
+     Messaging. https://guardianproject.info/                 https://github.com/arlolra/otr.
+     apps/gibber/.
+                                                         [21] Cryptocat Development Wiki. Multi-Party
+[7] Chris Ballinger. ChatSecure. http://                      Protocol Specification Version . https:
+     chrisballinger.info/apps/chatsecure/.                    //github.com/cryptocat/cryptocat/wiki/
+                                                              Multiparty-Protocol-Specification.
+[8] Cryptocat. Cryptocat Homepage. https:
+     //crypto.cat.                                       [22] Goldberg, Ian, Berkant Ustaoglu, Matthew D.
+                                                              Van Gundy and Hao Chen. "Multi-party Off-the-
+[9] The XMPP Standards Foundation. XMPP. http://              Record Messaging." Web. 30 Apr. 2013. http://
+     xmpp.org/.                                               www.cypherpunks.ca/~iang/pubs/mpotr.pdf.
+
+[10] The XMPP Standards Foundation. XEP-                 [23] Ejabberd. Project website. http://www.
+     0045: Multi-User Chat. http://xmpp.org/                  ejabberd.im/.
+     extensions/xep-0045.html.
+                                                         [24] The XMPP Standards Foundation. XMPP Tech-
+[11] The Tor Project. Website. https://torproject.            nologies Overview: BOSH. http://xmpp.org/
+     org.                                                     about-xmpp/technology-overview/bosh/.
+
+[12] The Tor Project. Tor rendezvous specification.      [25] The XMPP Standards Foundation. XEP-0077:
+     https://gitweb.torproject.org/torspec.                   In-Band Registration. http://xmpp.org/
+     git?a=blob_plain;hb=HEAD;f=rend-spec.                    extensions/xep-0077.html.
+     txt.
+                                                         [26] Cryptocat Development Wiki. Server De-
+[13] Cryptocat Development Wiki. Threat Model.                ployment Instructions. https://github.
+     https://github.com/cryptocat/cryptocat/                  com/cryptocat/cryptocat/wiki/
+     wiki/Threat-Model.                                       Server-Deployment-Instructions.
+
+[14] Meier, J.D., Alex Mackman, Michael Dunner,          [27] Berjon, Robin, Steve Faulkner, Travis Leit-
+     Srinath Vasireddy, Ray Escamilla, and Anandha            head, Erika Doyle Navala, Edward O'Connor, Sil-
+     Murukan. "Improving Web Application Secu-                via Pfeiffer, and Ian Hickson, eds. "HTML 5.1
+     rity: Threats and Countermeasures." Microsoft            Nightly: A vocabulary and associated APIs for
+     Developer Network. Microsoft, n.d. Web. 1 May            HTML and XHTML." W3C. W3C, 3 May 2013.
+     2013. http://msdn.microsoft.com/en-us/                   Web. 3 May 2013. http://www.w3.org/html/
+     library/ff648644.asp.                                    wg/drafts/html/master/.
+
+[15] Wagner, David, and Bruce Schneier. "Analysis of     [28] W3C. Web Cryptography Working Group. http:
+     the SSL 3.0 protocol." . N.p.. Web. 1 May 2013.          //www.w3.org/2012/webcrypto/.
+     http://www.schneier.com/paper-ssl.pdf.
+
+                                                      7
+[29] Dahl, David, and Sleevi Ryan, eds. "Web
+     Cryptography API." W3C. W3C, 22 Apr 2013.
+     Web. 3 May 2013. https://dvcs.w3.org/
+     hg/webcrypto-api/raw-file/tip/spec/
+     Overview.html.
+
+[30] Hickson, Ian, ed. "Web Workers: W3C Candidate
+     Recommendation." W3C. W3C, 1 May 2012. Web.
+     3 May 2013. http://www.w3.org/TR/workers/.
+
+[31] Cryptocat Code Repository. Catfacts.js.
+     https://github.com/cryptocat/cryptocat/
+     blob/master/src/chrome/js/catfacts.js.
+
+[32] Google Code. V8 JavaScript Engine. https://
+     code.google.com/p/v8/.
+
+[33] The Go Programming Language. DSA Implemen-
+     tation. http://golang.org/src/pkg/crypto/
+     dsa/dsa.go.
+
+[34] United States of America. Department
+     of Commerce. Digital Signature Standard
+     (DSS). Gaithersburg, MD: National Insti-
+     tute of Standards and Technology, 2009. Print.
+     http://csrc.nist.gov/publications/fips/
+     fips186-3/fips_186-3.pdf.
+
+[35] Bernstein, Daniel. "Salsa20/8 and Salsa20/12."
+     ECRYPT. Department of Mathematics, Statis-
+     tics, and Computer Science (M/C 249) The
+     University of Illinois at Chicago. Web. 3 May
+     2013. http://www.ecrypt.eu.org/stream/
+     papersdir/2006/007.pdf.
+
+[36] The Chromium Blog. Pwnium 3 and Pwn2Own
+     Results. http://blog.chromium.org/2013/03/
+     pwnium-3-and-pwn2own-results.html.
+
+[37] Cryptocat Code Repository. Socialist Million-
+     aires' Problem Protocol. https://github.com/
+     cryptocat/cryptocat/pull/177.
+
+[38] Cryptocat Development Wiki. OTR En-
+     crypted File Transfer Specification. https:
+     //github.com/cryptocat/cryptocat/wiki/
+     OTR-Encrypted-File-Transfer-Specification.
+
+[39] The XMPP Standards Foundation. XEP-0047:
+     In-Band Bytestreams. http://xmpp.org/
+     extensions/xep-0047.html.
+
+[40] Open Technology Fund. https://www.
+     opentechfund.org/.
+
+[41] OpenITP. http://openitp.org/.
+
+                                                                      8
+

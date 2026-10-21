@@ -1,0 +1,395 @@
+MonitoraPA – Nuova segnalazione e nuovi controlli sui siti istituzionali – Easyteam.org SRL – Informatica a 360 gradi 
+
+ Vai al contenuto 
+
+ Assistenza 
+
+ Richiedi assistenza 
+
+ Axios – Registro Elettronico 2.0 – FAQ 
+
+ Area clienti 
+
+ Servizi 
+
+ I nostri servizi 
+
+ Academy 
+
+ Le nostre certificazioni 
+
+ I nostri Webinar 
+
+ Sviluppo siti web per le PA 
+
+ GDPR 
+
+ Il GDPR nella visione di Easyteam.org SRL 
+
+ Consulenze specialistiche per GDPR e privacy 
+
+ Formazione GDPR 
+
+ Contatti 
+
+ Contattaci 
+
+ Archivio news 
+
+ Archivio Mailing List 
+
+ Iscrizione alla Mailing List 
+
+ Menu 
+
+ Ricerca per: 
+
+ MonitoraPA – Nuova segnalazione e nuovi controlli sui siti istituzionali
+
+ Pubblicato il 7 Novembre 2022 7 Novembre 2022 di Easyteam.org SRL 
+
+ MonitoraPA – Nuova segnalazione e nuovi controlli sui siti istituzionali
+
+ In questi giorni gli Istituti Scolastici italiani stanno ricevendo una nuova PEC proveniente dall’osservatorio di MonitoraPA , questa volta avente come oggetto: “ Segnalazione di illecito utilizzo di servizi che comportano il trasferimento di dati negli U.S.A. nel sito www.xxxxxxx.edu.it e conseguente invito a risolvere la violazione del Regolamento Europeo 2016/679 “.
+
+ Leggi la comunicazione di MonitoraPA 
+
+ All’attenzione di:
+
+ – NOME DELLA SCUOLA, in qualità di soggetto titolare del trattamento ai sensi dell’art. 4 par. 1 n. 7 – GDPR.
+
+ Il sottoscritto Fabio Pietrosanti, nato a Latina il 31/08/1980 (codice fiscale: PTRFBA80M31E472W), scrive in proprio ed a nome della comunità di hacker, attiviste, attivisti, cittadine e cittadini che, attenti a riservatezza, libertà e diritti cibernetici, ha realizzato Monitora PA ( https://monitora-pa.it ), eleggendo a domicilio digitale l’indirizzo di posta elettronica certificata  comunicazioni@pec.monitora-pa.it , e a domicilio fisico via Aretusa 34, a Milano.
+
+ Vogliamo segnalarvi che, tramite l’esecuzione del nostro osservatorio, in data 2022-11-04 18:58:00.412987, abbiamo rilevato che il sito web del vostro Ente www.xxxxxx.edu.it incorpora:
+
+ Google Maps (Google LLC) –  https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true determinando trasferimenti sistematici non attualmente conformi,  in assenza di efficaci misure tecniche supplementari, alle disposizioni del GDPR in ordine al trasferimento transfrontaliero di dati personali, fra cui:
+
+ – indirizzo IP
+
+ – User Agent
+
+ – sistema operativo
+
+ – lingue conosciute
+
+ – la visita al vostro sito
+
+ – la data e l’ora di tale visita
+
+ – i dati personali descrittivi deducibili dall’incrocio dei dati precedenti e dall’interesse per i contenuti del vostro sito
+
+ Tali informazioni sono più che sufficienti ad identificare il soggetto interessato e ad arricchirne il profilo cognitivo-comportamentale.
+
+ Come ben noto anche a seguito della sentenza Schrems II della Corte di Giustizia dell’Unione Europea, l’uso dei servizi sopra elencati non è attualmente conforme, in assenza di misure tecniche supplementari efficaci che non ci risultano presenti sul vostro sito, alle disposizioni del GDPR in ordine al trasferimento transfrontaliero dei dati personali.
+
+ Anche l’EDPB, con le Raccomandazioni 01/2020, ha precisato che si possono trasferire dati personali negli USA utilizzando altre basi legali (come le clausole contrattuali tipo di protezione dei dati) ma solo adottando efficaci misure tecniche supplementari (per esempio la cifratura dei dati personali con chiavi indisponibili ai riceventi) di modo che non sia possibile utilizzare i dati personali in violazione dei diritti fondamentalidei cittadini europei al di fuori dell’UE.
+
+ Il Garante Austriaco (Datenschutzbehörde) con la decisione D155.027 GA del 22 Dicembre 2021 ha dichiarato l’illegittimità dell’uso di Google Analytics; anche il Garante Francese (CNIL) si è pronunciato nello stesso senso nel febbraio 2022 e, il 7 giugno 2022 ha pubblicato delle domande/risposte che forniscono dettagliate informazioni sull’illegittimità dell’uso di Google Analytics e del trasferimento dei dati negli Stati Uniti.
+
+ L’Autorità Garante per la Protezione dei dati Personali con Provvedimento del 9 giugno 2022 [docweb n. 9782890] pubblicato il 23 giugno 2022 ha richiamato “all’attenzione di tutti i gestoriitaliani di siti web, pubblici e privati, l’illiceità dei trasferimentieffettuati verso gli Stati Uniti attraverso GA” e invitato “tutti ititolari del trattamento a verificare la conformità delle modalità diutilizzo di cookie e altri strumenti di tracciamento utilizzati suipropri siti web, con particolare attenzione a Google Analytics e _ad altri servizi analoghi_, con la normativa in materia di protezione dei dati personali”.
+
+ I servizi sopra elencati, per le loro modalità di funzionamento, costituiscono di fatto ulteriori strumenti di tracciamento e risultano essere in grado di produrre effetti analoghi a Google Analytics, sull’uso del quale il Garante italiano si è già pronunciato. 
+
+ Riteniamo quindi che il mantenimento da parte dell’Ente dei trasferimenti di dati personali sopra indicati non siano conformi al disposto normativo vigente, in ragione del trasferimento trasfrontaliero di dati personali e in assenza di una condizione legittimante ai sensi degli artt. 44 e ss. GDPR, e che quindi esponga a rischi ingiustificati tutti i visitatori del sito www.xxxxxx.edu.it.
+
+ Pertanto invitiamo l’Ente in indirizzo a voler provvedere alla rimozione dei servizi sopra indicati e di qualsiasi altra risorsa incorporata che produca effetti analoghi, entro il termine di 15 giorni dalla ricezione della presente.
+
+ In alternativa e negli stessi termini, invitiamo l’Ente ad adottare misure tecniche supplementari efficaci a protezione dei dati personali dei visitatori, tali che nessun dato (o insieme di dati), raggiungendo i server in questione, possa permettere di identificare con probabilità non trascurabile un qualsiasi cittadino italiano o europeo.
+
+ In difetto di ottemperanza da parte Vostra nei termini su indicati agli obblighi di legge in materia di trattamento dei dati personali, ci vedremo costretti a inviare una segnalazione al Garante per la protezione dei dati personali, ai sensi e per gli effetti dell’art. 144 del Codice in materia di protezione dei dati personali (DECRETO LEGISLATIVO 30 giugno 2003, n.196 e successive modifiche e integrazioni) per una valutazione della Vostra condotta anche ai fini dell’emanazione di eventuali provvedimenti di cui all’art. 58 del GDPR.
+
+ Rimaniamo a disposizione per ulteriori chiarimenti.
+
+ Con osservanza.
+
+ Distinti saluti
+
+ Milano, 06/11/2022
+
+ Fabio Pietrosanti
+
+ Co-fondatore di Monitora PA
+
+ Con il sostegno di:
+
+ – Hermes Center, Associazione con sede in Via Aterusa n. 34, 20129 Milano, in persona del legale rappresentante p.t Fabio Pietrosanti  C.F. 97621810155  https://www.hermescenter.org/ 
+
+ – LinuxTrent, Associazione con sede in Via Marconi n. 105, 38057 Pergine Valsugana, in persona del legale rappresentante p.t Roberto Resoli C.F. 96100790227  https://www.linuxtrent.it/ 
+
+ – Open Genova, Associazione con sede in Piazza Matteotti n. 5 c/o Mentelocale.it, 16123 Genova, in persona del legale rappresentante  p.t Pietro Biase C.F. 95165570102
+
+ – AsCII, Associazione con sede in Via del Mare n.108, 80016 Marano di Napoli, in persona del legale rappresentante p.t Avvocato Marco Andreoli C.F. 94200750639  https://www.ascii.it/ 
+
+ – AsSoLi, Associazione con sede in Via San Quintino n. 32, 10121 Torino, in persona del legale rappresentante p.t Angelo Raffaele Meo C.F. 94082140487  https://www.softwarelibero.it/ 
+
+ Come è ormai loro consuetudine, gli attivisti di MonitoraPA mischiano azioni e istanze corrette con pretese e tempistiche che si collocano al di fuori delle normative e dei piani di sviluppo scolastici.
+
+ Anche in questo caso, i consulenti di Easyteam.org SRL vogliono essere vicini agli istituti scolastici e provare a dare alcuni suggerimenti per rispondere e affrontare la richiesta:
+
+ La richiesta proviene da una PEC ed è indirizzata alla PEC istituzionale. Pertanto va protocollata e le va dato seguito
+
+ Prima di rispondere, occorre verificare la veridicità della segnalazione . Bisogna quindi contattare l’amministratore del sito istituzionale e verificare insieme a lui la sussistenza o meno delle rilevazioni mosse da MonitoraPA
+
+ La risposta vera e propria varia da scuola a scuola ed e legata ad alcuni punti fermi.
+
+ 1) Il sito della scuola presenta la criticità segnalata da MonitoraPA?
+
+ Se SI’ , occorre rispondere ammettendo il problema e segnalando i tempi di risoluzione basandosi sulle osservazioni al punto 2)
+
+ Se NO , occorre rispondere segnalando che ad una verifica interna, il sito non presenta la criticità segnalata. Attenzione : occorre essere certi di quanto si afferma, per non prestare il fianco a altre segnalazioni da parte di MonitoraPA. Se l’istituto non è certo di aver verificato correttamente, suggeriamo la possibilità di farsi affiancare da consulenti e professionisti esterni
+
+ 2) Entro quali tempi occorre dare risposta?
+
+ La richiesta di MonitoraPA di dare correzione al problema entro 15 giorni dalla ricezione della segnalazione ci sembra aletoria e non supportata da alcuna normativa.
+
+ La risoluzione di una criticità tecnica su un portale istituzionale dipende da molti fattori, che possono incidere in maniera più o meno pesante sulle tempistiche di lavorazione:
+
+ grado di complessità del problema
+
+ grado di integrazione del problema all’interno del portale (quanto è radicato il problema e quante patch occorre rilasciare per correggerlo?)
+
+ risorse da impegnare per la correzione del problema
+
+ eventuali progetti già avviati per la revisione del portale, che rendono inutile a livello economico un intervento su un singolo problema, a fronte di un previsto rifacimento globale
+
+ Occorre quindi valutare ogni aspetto con l’amministratore del sito istituzionale e ipotizzare una tempistica di risoluzione congrua con quanto rilevato e con quanto in essere per il rinnovamento del portale.
+
+ In particolare occorre prestare molta attenzione nel caso in cui l’Istituto Scolastico avesse aderito alla richiesta di finanziamento per il PNRR Misura 1.4.1 “Esperienza del cittadino nei servizi pubblici”.
+
+ Se la scuola ha ottenuto il decreto di finanziamento, sono scattate le tempistiche previste dal PNRR di 180 giorni per la contrattualizzazione con il fornitore e di ulteriori 270 giorni per il completamento del lavoro.
+
+ Questi due indicatori temporali sono gli unici da tenere in conto nella risposta a MonitoraPA.
+
+ In virtù del finanziamento PNRR ottenuto dall’Istituto appare altresì un dispendio inutile di risorse pubbliche affrontare separatamente un problema che sarà comunque risolto nei termini del PNRR.
+
+ 3) Conclusioni e suggerimenti
+
+ Con le ultime incombenze amministrative (Griglie OIV, Amministrazione Trasparente) e con i continui monitoraggi da parte di soggetti terzi quali MonitoraPA, appare evidente come il sito istituzionale stia assumendo un ruolo sempre più centrale nella vita di un Istituto Scolastico ed è fondamentale che sia progettato, costruito e gestito in maniera conforme alle normative AgID.
+
+ I consulenti di Easyteam.org SRL sono a completa disposizione degli istituti scolastici per affiancarli in:
+
+ presentazione della domanda di finanziamento PNRR 1.4.1
+
+ progettazione del nuovo sito istituzionale, completamente conforme alle normative AgID su Accessibilità, Linee Guida 2022 per i siti scolastici, Linee guida di design e sviluppo dei siti istituzionali
+
+ formazione del personale interno, affinchè possa procedere con una gestione quotidiana del sito e dei contenuti con modalità corrette, che non inficino le certificazioni raggiunte dal portale
+
+ Potrebbero interessarti:
+
+ Amministratore di sistema: chi è, che fa e come va nominato alla luce del GDPR 
+
+ Google e la conformità al GDPR – Il caso della Diffida per violazione del GDPR per utilizzo Google Analytics su sito istituzionale 
+
+ La risposta alla nuova richiesta di Monitora PA 
+
+ ANAC e pubblicazione delle griglie OIV: proviamo a fare chiarezza 
+
+ Obiettivi e dichiarazione di accessibilità per le Pubbliche Amministrazioni 
+
+ WordPress e Sicurezza – I Passi per Proteggere il Vostro Sito 
+
+ Pubblicato in AgID , EasyNews , GDPR e taggato google maps , monitorapa . 
+
+ Cerca Cerca 
+ Articoli recenti
+
+ Il Manuale di Gestione Documentale e la procedura di approvazione presso la Soprintendenza Archivistica e Bibliografica 
+
+ La figura dell’Amministratore Di Sistema nel GDPR 
+
+ Gestione data breach e registro dei data breach 
+
+ Manuale di Gestione del Protocollo Informatico 
+
+ Redazione e personalizzazione delle lettere di nomina 
+
+ Abbiamo parlato di questi argomenti
+
+ AgID 
+
+ AI 
+
+ Apple 
+
+ Axios 
+
+ Bandi PNRR PON FESR 
+
+ Consulenza Specialistica 
+
+ Cyberbullismo 
+
+ DaD 
+
+ dpo 
+
+ EasyNews 
+
+ GDPR 
+
+ Hacking 
+
+ Il mondo della scuola 
+
+ Informatica 
+
+ Lo sapevi che? 
+
+ Microsoft 
+
+ news 
+
+ Promozioni e offerte 
+
+ Reti LAN 
+
+ Sicurezza 
+
+ Virus Malware Ransomware 
+
+ Webinar 
+
+ Wifi 
+
+ Windows FAQ 
+
+ Easyteam.org SRL
+
+piazzale Lorenzo Perosi 6 
+
+26866 Sant'Angelo Lodigiano (LO) 
+Italy 
+
+tel. 0371.21.04.04 
+
+email: info@easyteam.org 
+
+PEC: easyteam@easypec.org 
+
+P.IVA: 07331470968 
+
+C.S. 10.000 Eur i.v. Navigazione
+ Assistenza 
+
+ Richiedi assistenza 
+
+ Axios – Registro Elettronico 2.0 – FAQ 
+
+ Area clienti 
+
+ Servizi 
+
+ I nostri servizi 
+
+ Academy 
+
+ Le nostre certificazioni 
+
+ I nostri Webinar 
+
+ Sviluppo siti web per le PA 
+
+ GDPR 
+
+ Il GDPR nella visione di Easyteam.org SRL 
+
+ Consulenze specialistiche per GDPR e privacy 
+
+ Formazione GDPR 
+
+ Contatti 
+
+ Contattaci 
+
+ Archivio news 
+
+ Archivio Mailing List 
+
+ Iscrizione alla Mailing List 
+
+ Easy Network
+ Easyteam.org SRL 
+
+ Academy Easyteam.org 
+
+ Portale GDPR- DPO – Privacy 
+
+ Easyteam.org Canale Telegram 
+
+ Easyteam.org Pagina Facebook 
+
+ Easyteam.org Profilo Facebook 
+
+ Easyteam.org Official Instagram 
+
+ Easyteam.org Canale Vimeo 
+
+ Easyteam.org Mailing List 
+
+ Privacy
+ Privacy Policy 
+
+ Cookie Policy 
+
+ EU Proof of consent 
+
+ odr 
+
+ Amministrazione 
+
+ Easyteam.org SRL - Informatica a 360 gradi - Tutti i diritti riservati -© 2025 Privacy Policy 
+
+ Un tema SiteOrigin 
+
+ Gestisci Consenso
+
+ Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni. In caso di consenso i dati di navigazione saranno memorizzati in forma anonima e non saranno utilizzati per altri fini
+
+ Funzionale 
+
+ Funzionale 
+
+ Sempre attivo 
+
+ L'archiviazione tecnica o l'accesso sono strettamente necessari al fine legittimo di consentire l'uso di un servizio specifico esplicitamente richiesto dall'abbonato o dall'utente, o al solo scopo di effettuare la trasmissione di una comunicazione su una rete di comunicazione elettronica. 
+
+ Preferenze 
+
+ Preferenze 
+
+ L'archiviazione tecnica o l'accesso sono necessari per lo scopo legittimo di memorizzare le preferenze che non sono richieste dall'abbonato o dall'utente. 
+
+ Statistiche 
+
+ Statistiche 
+
+ L'archiviazione tecnica o l'accesso che viene utilizzato esclusivamente per scopi statistici. 
+ L'archiviazione tecnica o l'accesso che viene utilizzato esclusivamente per scopi statistici anonimi. Senza un mandato di comparizione, una conformità volontaria da parte del vostro Fornitore di Servizi Internet, o ulteriori registrazioni da parte di terzi, le informazioni memorizzate o recuperate per questo scopo da sole non possono di solito essere utilizzate per l'identificazione. 
+
+ Marketing 
+
+ Marketing 
+
+ L'archiviazione tecnica o l'accesso sono necessari per creare profili di utenti per inviare pubblicità, o per tracciare l'utente su un sito web o su diversi siti web per scopi di marketing simili. 
+
+ Gestisci opzioni 
+
+ Gestisci servizi 
+
+ Gestisci {vendor_count} fornitori 
+
+ Per saperne di più su questi scopi 
+
+ Accetta 
+ Nega 
+ Visualizza le preferenze 
+ Salva preferenze 
+ Visualizza le preferenze 
+
+ {title} 
+
+ {title} 
+
+ {title} 
+
+ Gestisci il consenso

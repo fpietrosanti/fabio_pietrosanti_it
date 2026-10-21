@@ -77,6 +77,11 @@ def media_items(ui=None):
         for r in load(LIB / "copies.json"):
             copies[r["url"]] = r
     hosted = load(ROOT / "site/copies.json") if (ROOT / "site/copies.json").exists() else {}
+    drive = load(ROOT / "data/drive_links.json") if (ROOT / "data/drive_links.json").exists() else {}
+    wbmap = load(ROOT / "data/wayback.json") if (ROOT / "data/wayback.json").exists() else {}
+    by_folder = {}
+    for rel, info in drive.items():
+        by_folder.setdefault(rel.rsplit("/", 1)[0], []).append(info)
     out = []
     for it in media:
         if not it.get("verified") or it.get("hermes_activity"):
@@ -84,9 +89,13 @@ def media_items(ui=None):
         url = it.get("live_url") or it["url"]
         rec = copies.get(it["url"]) or {}
         copy = hosted.get(it["url"]) or ""
+        folder = (rec.get("local") or "").replace("\\", "/")
+        dr = sorted(by_folder.get(folder, []), key=lambda x: -int(x["size"]))
+        drive_url = dr[0]["url"] if dr else ""
         wb = ""
-        if rec.get("method") == "wayback" and rec.get("capture") and "web.archive.org" not in url:
-            wb = f"https://web.archive.org/web/{rec['capture']}/{it['url']}"
+        cap = rec.get("capture") if rec.get("method") == "wayback" else wbmap.get(it["url"])
+        if cap and "web.archive.org" not in url:
+            wb = f"https://web.archive.org/web/{cap}/{it['url']}"
         out.append({
             "d": it.get("date") or (str(it["year"]) if it.get("year") else ""),
             "y": it.get("year") or 0,
@@ -99,6 +108,7 @@ def media_items(ui=None):
             "u": url,
             "g": it.get("tags") or [],
             "a": copy,
+            "dv": drive_url,
             "w": wb,
         })
     out.sort(key=lambda x: (x["y"], x["d"]), reverse=True)

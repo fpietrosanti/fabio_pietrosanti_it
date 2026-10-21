@@ -1,0 +1,226 @@
+Rafforzare Cybersecurity Nazionale con Misurazione proattiva - Proposals - 2025 Strategia per l’innovazione tecnologica e la digitalizzazione del Paese - ParteciPa 
+
+ This site uses cookies. By continuing to browse the site, you agree to our use of cookies. Find out more about cookies .
+
+ I agree 
+
+ × 
+
+ Skip to main content 
+
+ Search 
+
+ Sign In 
+
+ Home 
+ Processes 
+ Assemblies 
+ Help 
+
+ 2025 Strategia per l’innovazione tecnologica e la digitalizzazione del Paese
+
+ #italia2025 
+
+ Idee e proposte per migliorare la digitalizzazione del Paese
+
+ Phase 3 of 3 
+
+ Valutazione delle proposte e restituzione dei risultati 
+
+ 2020-05-01 - 2020-06-30
+
+ Process phases 
+
+ Proposals
+
+ The process
+
+ Proposals
+
+ Back to list
+
+ Rafforzare Cybersecurity Nazionale con Misurazione proattiva
+
+ Fabio Pietrosanti
+
+ 16/01/2020 22:49  
+
+ Report
+
+ Obiettivi
+
+Misurazione proattiva della sicurezza dello spazio internet italiano, con intervento di notifica per risoluzione delle problematiche identificate.
+
+L’introduzione di una effettiva polizia stradale delle autostrade internet italiane che verifica l’omologazione degli autoveicoli che vi circolano.
+
+ Perché
+
+Attualmente lo spazio internet nazionale, cioè rappresentato da tutti i sistemi informatici domiciliati all’interno del paese o di proprietà di un soggetto nazionale, presenta notevoli vulnerabilità.
+
+Nessun soggetto giuridico pubblico o privato può effettuare “scansioni” per misurare l’eventuale stato di vulnerabilità.
+
+ Come
+
+Implementare una normativa che attribuisca al CERT/CERT-PA l’onere di realizzare un sistema di misurazione della sicurezza dello spazio internet italiano, implementando metodiche di scansione (c.d. Vulnerability assessment) basate su best-practices.
+
+Attribuire al CERT/CERT-PA la notifica ai soggetti intestatari delle infrastrutture e/o applicazioni internet le problematiche di vulnerabilità.
+
+ Filter results for category: Paese innovativo 
+ Paese innovativo 
+
+ Reference: tec-PROP-2020-01-425
+
+ Version number 1 (of 1) see other versions 
+
+ Check fingerprint 
+
+ Fingerprint
+
+ The piece of text below is a shortened, hashed representation of this content. It's useful to ensure the content hasn't been tampered with, as a single modification would result in a totally different value.
+
+ Value: 
+ 94f9a69ab96b36be094326301bf649a22a79386550afcc845430e51afecf63e1 
+
+ Source: 
+ {"body":{"it":"Obiettivi\r\nMisurazione proattiva della sicurezza dello spazio internet italiano, con intervento di notifica per risoluzione delle problematiche identificate.\r\nL’introduzione di una effettiva polizia stradale delle autostrade internet italiane che verifica l’omologazione degli autoveicoli che vi circolano.\r\n\r\nPerché\r\nAttualmente lo spazio internet nazionale, cioè rappresentato da tutti i sistemi informatici domiciliati all’interno del paese o di proprietà di un soggetto nazionale, presenta notevoli vulnerabilità.\r\nNessun soggetto giuridico pubblico o privato può effettuare “scansioni” per misurare l’eventuale stato di vulnerabilità.\r\n\r\nCome\r\nImplementare una normativa che attribuisca al CERT/CERT-PA l’onere di realizzare un sistema di misurazione della sicurezza dello spazio internet italiano, implementando metodiche di scansione (c.d. Vulnerability assessment) basate su best-practices.\r\nAttribuire al CERT/CERT-PA la notifica ai soggetti intestatari delle infrastrutture e/o applicazioni internet le problematiche di vulnerabilità."},"title":{"it":"Rafforzare Cybersecurity Nazionale con Misurazione proattiva"}} 
+
+ This fingerprint is calculated using a SHA256 hashing algorithm. In order to replicate it yourself, you can use an MD5 calculator online and copy-paste the source data.
+
+ × 
+
+ Share
+
+ Share:
+
+ × 
+
+ Share link
+
+ Share link:
+
+ × 
+
+ Copy
+
+ Embed
+
+ Please paste this code in your page:
+
+ × 
+
+ <script src="https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/425/embed.js?locale=en"></script>
+
+ <noscript><iframe src="https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/425/embed.html?locale=en" frameborder="0" scrolling="vertical"></iframe></noscript>
+
+ Report inappropriate content
+
+ × 
+
+ Is this content inappropriate?
+
+ Reason 
+
+ Contains clickbait, advertising, scams or script bots. 
+
+ Contains racism, sexism, slurs, personal attacks, death threats, suicide requests or any form of hate speech. 
+
+ Contains illegal activity, suicide threats, personal information, or something else you think doesn't belong on ParteciPa. 
+
+ Additional comments 
+
+ Report 
+
+ 2 comments
+
+ Order by: 
+
+ Older 
+
+ Best rated 
+
+ Recent 
+
+ Older 
+
+ Most discussed 
+
+ leonixyz
+
+ 20/01/2020 10:44 
+
+ Report 
+
+ Get link 
+
+Override necessario, non gestibile con Deface, per aggiungere le CTA che permettono ad un admin di pubblicare o rigettare il commento in revisione
+-->
+
+ Una volta che vengono evidenziate delle problematiche di vulnerabilita' in un sistema/infrastruttura, quali sarebbero i poteri di questa polizia di internet? Fare uno shutdown forzato di una parte della rete? 
+ Il solo fatto di avere vulnerabilita' nello "spazio internet italiano" non mi sembra motivo sufficiente di istituire un nuovo potere di polizia, potenzialmente esposto a problemi di abusi di potere o manipolazioni politiche. A meno che questo controllo proattivo non si concentri solamente sulla sicurezza delle reti e dei sistemi pubblici, come INPS, Agenzia delle Entrate, lo stesso partecipa.gov.it, quelli militari, e a livello infrastrutturale su larga scala (Internet Exchange Point e gestori della rete fisica "pubblica" - cioe' quella fuori dalle LAN dei privati).
+ Sono curioso di leggere una tua risposta
+
+ I agree with this comment 
+
+ 0 
+
+ I disagree with this comment 
+
+ 0 
+
+Override necessario, non gestibile con Deface, per aggiungere dettaglio per l'autore che il commento è in revisione
+-->
+
+ Fabio Pietrosanti
+
+ 20/01/2020 13:49 
+
+ Report 
+
+ Get link 
+
+Override necessario, non gestibile con Deface, per aggiungere le CTA che permettono ad un admin di pubblicare o rigettare il commento in revisione
+-->
+
+ Già in Germania BSI scansiona le reti nazionali, piccole e grandi, pubbliche amministrazioni e aziende, privati e non.
+
+Quindieffettua notifica di vulnerabilità all'intestatario delle reti e all'operatore di telecomunicazione. 
+ E lo fanno 24x7, prova ad attivare un VPS in germania su hetzner.de, apri un servizio vulnerabile, entro qualche ora il governo tedesco ti scrive.
+ Non conosco le loro procedure di enforcement successivo, quando mi è capitato, ho risolto la falla.
+
+ I agree with this comment 
+
+ 0 
+
+ I disagree with this comment 
+
+ 0 
+
+Override necessario, non gestibile con Deface, per aggiungere dettaglio per l'autore che il commento è in revisione
+-->
+
+ Loading comments ...
+
+ What can I do in Partecipa? 
+
+ Privacy policy 
+
+ Termini e condizioni d'uso 
+
+ Dichiarazione di accessibilità 
+
+ Scarica da GitHub.com 
+
+ Confirm
+
+ × 
+
+ OK 
+ Cancel 
+
+ Please sign in
+
+ × 
+
+ You can access with an external account
+
+ Login

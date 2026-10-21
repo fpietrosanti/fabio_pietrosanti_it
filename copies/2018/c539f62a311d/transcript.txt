@@ -1,0 +1,656 @@
+# Trascrizione automatica (faster-whisper small) di original.mp3
+[00:16] Benvenuti o bentornati, questo è il programma di tecnologia di Radio24, come sempre vi consiglio
+[00:24] di riascoltare la nostra puntata oppure preferire come prima scelta la nostra edizione super podcast,
+[00:31] tutte le nostre interviste in edizione integrale. Potete raggiungermi scrivendo a
+[00:37] 2024 tra Radio24.it oppure Facebook o Twitter. Come sempre iniziamo con una breve selezione di alcune
+[00:47] delle notizie più importanti della settimana. Iniziamo da una notizia che riguarda Amazon che
+[01:02] ha annunciato di aver acquistato per una cifra stimata di un miliardo di dollari. Non è stata
+[01:08] comunicato ufficialmente quindi è stata fatta una Steam, comunque la società acquistata
+[01:12] si chiama Ring che è un'azienda specializzata in campanelli smart, quindi campanelli connessi,
+[01:19] videocamere per la sicurezza domestica e Amazon sta investendo in questo settore in chiave e e-commerce
+[01:26] perché ad esempio una videocamera connessa potrebbe servire per il servizio di consegni in
+[01:31] caso dei prodotti. Esiste già una soluzione che si chiama Amazon Key che è un kit dove c'è
+[01:37] una videocamera e permette in sicurezza, poi speriamo sia veramente sicura, di ricevere in
+[01:45] casa con un commesso che entra in casa e appoggia il pacco ma questa videocamera serve per tenere
+[01:50] sott'occhio che tutto succede e accada nel modo previsto quindi che sia veramente il commesso e
+[01:57] qualcun altro che che e non qualcun altro che entra in casa. Google ha invitato la stampa
+[02:03] italiana per il 22 marzo e quella potrebbe essere le data del lancio o almeno la presentazione in
+[02:08] Italia di Google Home, lo speaker audio con microfono che integra l'assistente virtuale di Google,
+[02:15] anche Amazon Echo, dovrebbe arrivare quest'anno in Italia e da tempo i distributori comunque gli
+[02:21] addetti ai lavori dicono che in Italia arriveranno questi prodotti che sono già
+[02:27] disponibili da oltre un anno negli Stati Uniti. Spotify ha presentato la documentazione
+[02:33] necessaria la quotazione in borsa Wall Street dove avrà il simbolo spot, quattro lettere come
+[02:40] sono tutti i simboli, beh non tutti tutti però massimo quattro lettere per le azioni
+[02:45] quotate dalle borse di borse americane e questa sarà spot comunque la cosa interessante
+[02:51] dal punto di vista tecnologico comunque per quanto riguarda lo sviluppo di questo
+[02:55] servizio è che dai documenti si scopre che attualmente il numero 1 al mondo per la musica
+[03:01] in streaming spotify a 159 milioni di utenti di cui 71 milioni abbonatiche quindi pagano
+[03:08] un abbonamento mensile. La Gran Bretagna è il primo mercato seguito da Brasile Stati Uniti.
+[03:13] Avreste mai detto il Brasile secondo posto? Vagliamo della Formula 1 che lancerà un
+[03:20] servizio di streaming su abbonamento dedicato alle sole prove e alle gare del
+[03:25] campionato 2018. La Formula 1 inizierà nell'ultima domenica del mese di marzo quindi questo
+[03:33] servizio sicuramente sarà attivo per questa data prezzi attorno ai 10 dollari al mese
+[03:38] però questo servizio però non sarà disponibile in italia visto che i diritti per la Formula
+[03:43] 1 sono in esclusiva di sky fino al 2020 ma è interessante che un produttore di contenuti
+[04:21] pensate che cosa ha fatto Uber? Ha lanciato un nuovo servizio negli Stati Uniti chiamato
+[04:25] Uber Health quindi Uber Sanità Salute destinato alla struttura medica che possono prenotare
+[04:32] un servizio di taxi per te che prenoti una visita un'analisi e avvisarti quando il taxi
+[04:40] è sotto casa. Uber dice che ci sono già 100 strutture agganciate a questo sistema
+[04:44] che può essere integrato al gestionale dell'ospedale quindi pensate uno prenota appare
+[04:50] una scheda sul terminale dove ci sono gli orari della prenotazione magari ti arriva anche
+[04:54] una email e il servizio Uber Health è integrato e quindi automaticamente in tempi che sono
+[05:02] ovviamente calcolati in base alla distanza di dove tu abiti al traffico eccetera viene
+[05:08] automaticamente inviato un messaggio al pilota dell'auto che va a casa del cliente e lo porta
+[05:14] alla struttura questo anche perché secondo Uber sono 3,6 milioni gli americani che ogni
+[05:19] anno non si presentano ad una visita medica per problemi di trasporto e comunque questo è un
+[05:26] servizio ulteriore di questa società tra l'altro sfruttando la tecnologia integrando
+[05:31] la tecnologia cosa che potrebbero fare tranquillamente anche i servizi taxi italiani ma avete
+[05:37] notizie di un servizio taxi che fa una cosa del genere un'ultima un ultime due notizie che
+[05:44] riguardano le auto a guida autonoma allora uno riguarda il giappone e in modo particolare
+[05:50] la Toyota che ha annunciato una nuova società che investirà pensate 2,8 miliardi di dollari
+[05:57] per lo sviluppo di software per le auto a guida autonoma 2,8 miliardi di dollari non sono
+[06:04] stati indicato in quanto tempo ma insomma è un budget piuttosto interessante e l'altra cosa
+[06:09] interessante è che Toyota che farà questa società in Giappone ha stabilito che la lingua ufficiale di
+[06:16] questo nuovo gruppo di lavoro dove ci saranno circa mille persone sarà l'inglese con c'è del
+[06:23] fatto che ormai questa è la lingua necessaria per parlare in strutture dove ci sono persone
+[06:27] di vari paesi pensate una società italiana che dice noi facciamo un nuovo 100 di
+[06:34] ricerca dove la lingua ufficiale è l'inglese i giapponesi tra l'altro a proposito di isolamento
+[06:40] oltre a essere un'isola sono anche particolarmente protezionisti anche dal punto di vista linguistico
+[06:47] insomma è un passo piuttosto importante e significativo direi allora invece una notizia
+[06:55] che riguarda l'Italia perché il ministero dei trasporti ha firmato un decreto che oltre
+[07:01] a riguardare tutta una serie di infrastrutture per farle diventare smart ma qui stiamo parlando
+[07:06] quindi smart significa a creare sistemi di connessione di collegamento tra veicoli e
+[07:11] infrastruttura ma qui si parla di scadenze di qualche di qualche anno invece in questo decreto
+[07:18] è stata prevista la possibilità per il ministero delle infrastrutture di trasporti di autorizzare
+[07:23] finalmente aggiungo io la sperimentazione su strada di veicoli a guida autonoma anche
+[07:29] nel nostro paese quindi società centri ricerca chi può chi ha la possibilità di avere un
+[07:38] veicolo a guida autonoma potrà fare domande magari nelle autostrade italiane vedremo presto anche
+[07:43] veicoli a guida autonoma sui quali ovviamente in questi primi anni di sperimentazione ci saranno
+[07:49] delle persone che però non toccano gli strume il volante o i pedali o il cambio se non in caso
+[07:55] di emergenza adesso parliamo di cyber security di cyber crime oppure potremmo anche dire parliamo
+[08:24] di cyber sicurezza così sono intitolati sei fascicoli il primo uscito questa settimana vi
+[08:31] ricordo tutti i giovedì fino alle 5 aprile assieme al sole 24 ore una novità presentata
+[08:40] sole 24 ore per offrirvi una serie di approfondimenti interviste guide sulla cyber security e questo
+[08:50] coinvolge anche radio 24 ovviamente 2024 il sito internet il sole 24 ore punto com e il sole 24
+[08:57] ore inedicola il giovedì non in questa puntata questa settimana parliamo di alcuni dati che
+[09:04] sono stati presentati dal clusit che è l'associazione italiana per la sicurezza informatica
+[09:11] che raccoglie direi tutti i professionisti e tutte le istituzioni le aziende che a
+[09:17] vario titolo hanno a che fare con la cyber security e sapete che due volte all'anno il
+[09:23] clusit presenta il rapporto che ci racconta qual è lo stato dell'arte sulla sulle difese e
+[09:31] ovviamente anche gli attacchi dei cyber criminali tra i dati importanti di quest'anno è che in
+[09:38] tutto il mondo nel corso dello scorso anno sono stati coinvolti un miliardo di persone a vario
+[09:44] titolo chi più gravemente chi meno gravemente da un da qualcosa che ha a che fare con il crimine
+[09:52] digitale e ci sono sono stati stimati danni per 500 miliardi ed è una cosa di cui dobbiamo
+[10:01] occuparci e il clusit è sottolinea che le difese gli investimenti in tecnologia in questo
+[10:07] settore sono ancora scarsi nel nostro paese soprattutto la consapevolezza alcune considerazioni
+[10:15] che ci offre andrea zapparoli manzoni con aspetto di cyber security ed è membro del
+[10:20] direttivo del clusit nonché una delle firme uno degli autori del rapporto del clusit
+[10:37] ingegnino che di solito è meccanismo usato per far arrivare il malware nei computer o nei
+[10:43] telefoni delle vittime e seconda cosa abbiamo notato una industrializzazione incredibile
+[10:53] degli attacchi da parte dei gruppi criminali o dei gruppi che si occupano di fare spionaggio
+[10:59] quindi un livello di sofisticazione di automazione e di io la chiamo proprio
+[11:05] industrializzazione di questi attacchi che non si era mai visto prima e terza cosa abbiamo visto che
+[11:13] in conseguenza di ciò per la prima volta questi gruppi sono in grado di colpire in parallelo
+[11:19] moltissimi soggetti diversi nello stesso tempo il che massimizza a seconda delle loro finalità o il
+[11:29] loro guadagni o il danno che vogliono infliggere ma sta di fatto che la scala del problema è
+[11:37] cambiata e diventata incredibilmente vasta e che naturalmente ci fa pensare che come
+[11:45] ce n'è questo genere malware sempre più efficace sempre più diffuso industrializzazione degli
+[11:51] attacchi e scala di questi attacchi gigantesca siamo arrivati a un punto dove il rischio è
+[11:57] diventato sistemico è chiaro che un attacco veramente grosso quanto tanti bersagli usando
+[12:02] un malware che sfugge a tutti i sistemi di sicurezza potrebbe provocare veramente dei
+[12:09] danni catastrofici qualche numero lo aggiungiamo giusto per descrivere questo fenomeno anche
+[12:17] attraverso i numeri ma allora noi analizziamo un campione costituito di un modo un po'
+[12:25] particolare perché noi prendiamo le informazioni sugli attacchi più gravi avvenuti nel periodo
+[12:30] che analizziamo da fonti aperte quindi devono essere attacchi di dominio pubblico io poi come
+[12:37] ha detto a lavoro sono a conoscenza di molti attracchi che non sono di dominio pubblico e
+[12:43] non diventano mai e naturalmente questi non ritrano nel nostro rapporto allora considerato
+[12:49] che quindi la nostra nostra punto di vista è quello di una fettina della punta del della
+[12:54] parte emersa dell'iceberg non questa ne abbiamo classificato più di 1100 attacchi a livello
+[13:01] mondiale molto gravi cioè con impatti gravi in termini di periodi economiche di immagine di
+[13:07] danno per terze parti di applicazioni geopolitiche e sociali eccetera ne abbiamo diventati per la
+[13:17] precisione 1127 di questi la parte del leone la fa scusa la parte del leone la fa il cybercrime
+[13:27] che a questo punto nel nostro campione è arrivato a 76% dei attacchi considerato che era il 36%
+[13:38] quando abbiamo iniziato nel 2011 quindi è stata una crescita incredibile detto questo
+[13:46] crescono moltissimo anche lo spionaggio e l'information warfare quindi quegli attacchi con
+[13:52] finalità geopolitiche che sono parte di un gioco più ampio nei conflitti dichiarati anche non
+[14:01] dichiarati tra tra nazioni tutti hanno cresci già due cifre e questo chiaramente deve fare
+[14:08] riflettere perché cambia il gioco cambia il campo di gioco ma cambia anche proprio le
+[14:13] regole del gioco è un momento in cui gli stati entrano nel campo e si mettono a fare attacchi informatici
+[14:19] contro le infastiture civili degli altri stati cambia completamente lo scenario e il livello di rischio
+[14:28] senti questo 76% del valore del cybercrime che è un dato effettivamente molto importante cioè
+[14:41] tre quarti degli attacchi sono cybercrime crimine informatico che ha come finalità quello
+[14:51] della raccolta soldi cioè del furto di denaro sostanzialmente ma allora principalmente nella
+[14:58] componente dei vettori di attacco come chiamo noi cioè di quali tecniche sono state utilizzate
+[15:06] per colpire bersagli quest'anno per la prima volta il malware è al primo posto con un 40% all'interno
+[15:14] di questo 40% il 33% sono malware di vario genere quindi che rubano informazioni di tipo mancario
+[15:28] eccetera al secondo posto con un terzo del totale ci sono i ransomware che sono quei quei software
+[15:38] fatti apposta per realizzare gli extorsioni via internet perché sono quelli che cifra mi dati e
+[15:45] poi chiedono un riscatto dopo di che inizio a essere circa qua per la prima volta le famiglie
+[15:51] di malware per piattaforme mobili perché al terzo posto ci sono i malware per android e
+[15:57] al quarto posto ci sono i malware per questo questi sommati fanno un altro 20% circa sì considerando
+[16:09] che l'anno scorso praticamente non c'erano povero esistevano già l'anno scorso ma le
+[16:14] nostre statistiche erano una piccolissima percentuale quindi il crescita enorme del malware per
+[16:19] piattaforme mobile diffusione incredibile del ransomware e una nuova tendenza della fine
+[16:25] del 2017 legata all'aumento del valore delle cripto valute quel boom che c'è stato e la
+[16:32] diffusione di crypto miners che sono dei malware che infettando il computer delle vittime lo costengono
+[16:38] a produrre cripto valute per gli attacchi chiaramente prosciugando il sistema della
+[16:46] vittima delle sue risorse della sua memoria della sua cpu eccetera quindi confermiamo
+[16:52] quello che dicevo cioè tutto finalizzato a far soldi far soldi su scala impossibile da immaginare
+[17:01] voi dovete pensare che nel 2011 la stima dei danni casati da cybercrime nel mondo era 100
+[17:08] miliardi di dollari nel 2017 e 600 miliardi quindi vuol dire che in sei anni 7 anni l'impatto
+[17:17] del cybercrime è aumentato di sei volte allora se 100 miliardi di dollari per capirci è un terzo
+[17:26] del pin italiano tanto per circa 1800 miliardi 1900 miliardi di dollari ormai diventato un
+[17:37] fenomeno non più da cantinare è diventato un fenomeno da criminalità organizzata
+[17:43] è diventato un fenomeno che girerà nei flussi di denaro spaventosi che poi chiaramente le
+[17:47] avevano rienvestiti da questi gruppi di criminali in ulteriori attività criminali
+[17:52] corruzione eccetera eccetera eccetera andrea se noi volessimo fare una un giro sul mappa
+[18:02] mondo e vedere quali sono le aree dove c'è più attività di cybercrime poi dobbiamo
+[18:11] intenderci se intendiamo attività di cybercrime come destinazione ma forse anche più interessante
+[18:21] capire da dove arriva questo cybercrime e poi sempre proprio di giografia dobbiamo distinguere
+[18:29] tra stati quindi attività governative che probabilmente sono più legate allo spionaggio
+[18:36] e la cyber spionaggio e invece organizzazioni gruppi criminali che invece sono attivi in rete
+[18:44] proprio per robar soldi o fare altri danni in giro per la rete certo senza altro
+[18:51] simplificando è premesso che gli attaccanti stanno distribuiti abbastanza equamente su
+[19:00] tutta la terra anche perché soprattutto quelli che si occupano di cybercrime si
+[19:06] possono coordinare via internet quindi questi gruppi criminali non dobbiamo pensare che stiano
+[19:11] fisicamente tutti in un certo posto ma si tratta di soggetti che collaborano e si
+[19:17] coordinano stando ciascuno in proprio paese però detto questo ci sono delle zone più
+[19:24] calde sicuramente per il cybercrime le zone più calde sono quelle sostanzialmente dove c'è più
+[19:30] mano d'opera e dove c'è più diciamo necessità anche di approcciare questo tipo di attività
+[19:40] illegali naturalmente quindi posti dove ci sono molti giovani con buone competenze informatiche e
+[19:46] pochi sbocchi lavorativi detto anche che cybercrime paga molto più di qualsiasi lavoro onesto ai
+[19:54] me e quindi è chiaro che anche una trattiva particolare in questo senso quindi sicuramente
+[20:01] i paesi dell'ex blocco sovietico parte dei balcani dell'ex est Europa e in estremoriente alcuni
+[20:10] focolai diciamo in vietnama in corea in cina naturalmente anche se i cinesi preferiscono
+[20:20] colpire il loro mercato interno grandissimo hanno un miliardo di persone online a questo punto
+[20:27] quindi hanno un un mercato da colpire locale cinese in cinese quindi i cinesi difficilmente
+[20:36] colpiscono fuori dalla cina per finalità dei cybercrime invece i russofoni sono fanno il
+[20:45] contrario colpiscono tutti i russi questo è per quanto riguarda cybercrime per quello che
+[20:54] riguarda lo spionaggio naturalmente tutti fanno attività di spionaggio tutti i paesi del mondo
+[20:59] ormai fanno spionaggio via internet ci sono paesi più sfacciati più aggressivi con delle
+[21:07] strategie specifiche per cui usano questi strumenti con maggiore efficacia in modo più
+[21:14] più più intensivo e anche qua di nuovo principalmente si parla di paesi in area estremorientale e
+[21:22] blocco ex ex sovietico anche se chiaramente anche gli americani anche gli israeliani anche
+[21:28] gli europei fanno tutte le loro attività in questo senso però per dire il furto di
+[21:36] proprietà antellettuale attribuito dagli stati uniti in alcuni documenti ufficiali a spionaggio
+[21:42] principalmente cinese vale e valso nel 2016 600 miliardi di dollari quindi una cifra spaventosa
+[21:53] siamo parlando di un'attività estremamente capillare e super aggressiva per quello che riguarda
+[21:59] invece il l'information warfare l'information warfare è uno strumento non convenzionale che si può
+[22:08] affiancare o usare o usare in sostituzione di altri strumenti nell'ambito di conflitti dichiarati
+[22:16] o non dichiarati quindi in questo momento i maggiori focolari di attività di information warfare
+[22:21] sono in medio oriente sono e in estremoriente sostanzialmente quindi due aree con livelli
+[22:29] di conflitto più alti per esempio tra i due coree oppure in medio oriente tra iran e arabia
+[22:34] saudita e altri paesi del golfo anche qua però tutti quanti stanno compiendo attacchi di questo
+[22:44] genere è uno tutti gli ultimi i giorni l'attribuzione ufficiale da parte dei stati uniti e
+[22:50] inghilterra e ok dell'attacco notpetia quindi quel finto ransom che ha creato un disastro in
+[22:57] ucraina e anche in giro per il mondo alla russia e questo sicuramente potrebbe portare dicono
+[23:03] alcuni esperti di cyber security e quando andiamo oltre a cyber security perché qua stiamo parlando
+[23:09] anche di cyber diplomacy tra stati diplomazia digitale cyber crime che va oltre a quello
+[23:19] delle organizzazioni criminali alcuni dicono potrebbe portare a conseguenze non ben immaginabili
+[23:26] oggi gli ultimi minuti li dedicherei all'africa perché stanno accadendo cose interessanti in
+[23:33] africa dal punto di vista cyber crime ma in africa si sta determinando un problema
+[23:40] potenzialmente molto serio cioè ci sono scuole anche buone ci sono parecchi giovani che a
+[23:48] questo punto vivono con le tecnologie quasi da quando sono nati anche lì che hanno mezzi e
+[23:55] competenze ma non hanno uno sbocco sul mercato del lavoro e quindi naturalmente sono estremamente
+[24:01] facili da coinvolgere in attività cyber criminali quindi il progresso che si è determinato
+[24:12] straordinario in alcune nazioni penso la nigeria penso ad altre nazioni africane ha come
+[24:19] risvolto della medaglia che questi ragazzi bravi capaci e pieni di sogni diciamo di voglia di
+[24:26] emergere non hanno in alcuni casi praticamente alternative e quindi sta aumentando e si vedrà
+[24:36] sempre di più un aumento di attività soprattutto di tipo cybercriminale provenire dal dal
+[24:41] continente una delle notizie di questa settimana riguarda due storici concorrenti che
+[25:00] continueranno essere concorrenti ma che hanno cominciato a stringere un patto dal prossimo
+[25:07] anno sulla piattaforma sky in particolar modo su un decoder di cui abbiamo parlato recentemente
+[25:12] 2024 di sky si potranno venire vedere contenuti di netflix da molti punti di vista questa è una
+[25:21] notizia forse addirittura storica Gianfranco Giardine il direttore del magazine digitale
+[25:27] dday.it Gianfranco bentornato grazie mille bentornati a tutti ascoltatori è esagerato dire che questa
+[25:34] è una notizia storica ma secondo me no perché fino a ieri dire netflix in casa sky era un po' come
+[25:46] evocare non so amazon e un negozio un negozio tradizionale quindi diamo nell'acqua santa
+[25:55] la corda in casa dell'impiccato si usano questi sì perché è perché sky rappresenta quel mondo di
+[26:04] ptv chiamiamoli tradizionali e netflix rappresenta quella che per molti è stata considerata un'alternativa
+[26:12] quindi l'alternativa nuova solo in streaming ubiqua quindi utilizzabile dovunque sky invece
+[26:20] indientificato a torto ragione fino a oggi ancora come un operatore di ptv satellitare ecco che
+[26:28] queste distinzioni si spumano tanto da una arrivare poi l'annuncio di oggi di una lettura una partnership
+[26:37] tra sky e netflix dei giorni scorsi perché ascolta 2024 anche in podcast lo diciamo ascolti qui
+[26:44] di questa settimana che è io ho detto in estrema sintesi accordo tra sky e netflix per quanto riguarda
+[26:54] l'europa perché sarà vincolato all'europa ma insomma l'europa è un paese molto molto grande più
+[26:59] di 500 milioni di utenti nel nostro continente in che cosa consiste in 30 secondi di 30 secondi
+[27:07] navigando all'interno di sky q quindi del decoder più evoluto che che sky ha messo in campo si
+[27:15] troveranno anche i contenuti l'intero catalogo di netflix per quel paese e in maniera totalmente
+[27:25] mischiata quindi facendo le ricerche per esempio come già si può fare oggi con sky q per
+[27:31] regista per attore per genere si mischieranno cioè i risultati saranno contenuti nativi sky e
+[27:40] contenuti netflix a tendere mi viene a dire magari anche contenuti di un terzo gestore di una terza
+[27:47] library cioè è un cambiamento epocale perché si passa da dei silos verticali assolutamente
+[27:55] chiusi a dei sistemi più aperti che diventano di fatto dei sistemi di distribuzione di contenuti
+[28:03] appartenenti a diverse casacche a diverse operatori quindi domanda che cosa sta succedendo perché io
+[28:12] speravo spero ancora mi piacerebbe vedere un mondo molto frammentato al punto che io posso
+[28:22] decidere di acquistare il contenuto che mi piace ma su qua stiamo parlando di video ma questo
+[28:31] potrebbe valere in generale anche per il singolo articolo di un giornale che magari mi interessa
+[28:37] oppure un qualsiasi altro contenuto dall'edittore che preferisco in modo molto puntuale invece
+[28:46] qui ci stai dicendo un'altra cosa cioè ci stai dicendo che si stiamo parlando del caso di
+[28:50] sky ma questo poi magari in base anche gli accordi commerciali potrebbe essere replicato anche su altre
+[28:57] piattaforme io sono cliente di un operatore e quell'operatore comincia ad armi contenuti anche di
+[29:04] altri sì allora il paragone che più mi sembra calzante è quello del roaming è come se una
+[29:13] volta praticamente essendo abbonati a sky nello specifico noi potessimo vedere con tutti sky ma
+[29:20] in roaming anche contenuti di altri gestori è una cosa che già abbiamo visto sperimentato
+[29:26] su nostra pelle già da decenni per esempio con l'autostrade tutta la rete autostradale italiana si
+[29:33] può entrare in un casello qualsiasi uscire in un altro casello qualsiasi facendo diverse
+[29:38] tratti di diversi gestori di diverse proprietà una volta c'erano i caselli ogni volta che
+[29:44] cambiava il gestore quindi bisognava uscire da un autostrade entrare in quella nuova e
+[29:49] ripagare in maniera differenziata invece adesso si paga è normale per tutti le ture a pagare col
+[29:55] telepasso ovviamente sarrangiano poi loro si mettono d'accordo si mettono d'accordo poi
+[29:59] poi loro quindi come se le tratti autostradali fossero fatemi di roaming così allo stesso modo
+[30:05] diventerà anzi l'accordo annunciato che diciamo diventerà operativo l'anno prossimo quindi
+[30:12] chissà quali forme poi avrà ma sarà bilaterale cioè agli clienti netflix sarà
+[30:20] facilitato in qualche modo l'ingresso nel mondo sky quindi non è soltanto che i clienti sky
+[30:26] avranno netflix ovviamente probabilmente con un pagamento non è gratuito magari può
+[30:33] essere compreso per chi ha tutti i pacchetti non so si vedrà le strategie commerciali si
+[30:37] verranno sì sì sì ma quello che è importante è che dobbiamo incominciare a smettere di pensare
+[30:43] ai gestori di ptv come dei silos verticali e con delle esclusive e in totale concorrenza
+[30:53] e in lotta quasi con gli altri gestori andiamo verso un mondo dove per esempio sky che ha una
+[30:59] piattaforma che è mista libri da satellitare per il broadcast e ip per gli altri contenuti
+[31:06] possa dare dei passaggi tra le parti diventa il vettore ovviamente in revenue sharing quindi in
+[31:12] condivisione dei ritorni con altri gestori sul discorso che facevi sull'acquisto dei
+[31:20] singoli contenuti dai singoli editori con micro pagamento e cose di questo tipo
+[31:24] beh il mercato sta dimostrando almeno per adesso un un'inclinazione un orientamento
+[31:31] diverso sta preferendo al pay per view o il pay per here sta preferendo la subscription
+[31:42] quindi l'abbonamento quindi tutte le piattaforme anche musicali come spotify diser hanno in
+[31:49] qualche modo spiazzato quasi mi viene a dire soppiantato l'acquisto delle singole canzoni
+[31:54] dei singoli brani perché è più comodo è più facile si spaga una volta non ci penso più
+[32:00] è la stessa situazione è un po di netflix con anche la libertà che sky non ha da questo punto
+[32:10] di vista sky è molto vecchio come approccio di ingresso uscita quando si vuole quindi va detto
+[32:18] che sky ha la sua piattaforma che era nata proprio per fare concorrenza netflix che nautv
+[32:26] adesso nautv continuerà a esistere anzi si integrerà anch'essa con l'offerta netflix cioè
+[32:35] i device che permettono l'accesso a nautv daranno anche l'accesso a netflix così almeno è stato
+[32:40] annunciato e quindi queste barriere questi steccati tenderanno a non esistere probabilmente questo
+[32:49] significa che lo stiamo già vedendo per esempio i diritti tv del calcio che ancora per la serie
+[32:57] astenta non si capisce politica che cosa succederà malmeno per questo prossimo 3 anni o ma si capisce Indio
+[33:04] che anche le telco avranno un ruolo più importante anche su questo fronte e anche loro
+[33:11] potranno proporsi un po come vettore e aggregatore di contenuti provenienti da fonti diverse certo se
+[33:19] se lo fanno le telco con le P.T.V. si capisce che possono essere alleate perché di fatto
+[33:24] stanno in due punti diverse la catena del valore, ma quando è Netflix e Sky che fanno un accordo
+[33:30] di questo tipo, io penso che è stato un grosso terremoto, forse non a caso è stato annunciato
+[33:37] proprio nel momento in cui sappiamo che su Sky c'è una battaglia per l'acquisizione
+[33:43] tra due gruppi concorrenti.
+[33:45] Sì sì è vero è un momento abbastanza importante, a questo punto potrebbe Netflix entrare nella
+[33:52] partita e dire compro io, però forse è troppo esagerato.
+[33:56] Senti, visto che questa cosa passa attraverso un decoder, adesso io lo chiamo decoder in realtà
+[34:04] forse non è proprio il termine corretto, comunque con uno strumento fisico, perché questo
+[34:10] SkyQ di cui abbiamo parlato è una cosa che va tenuta in casa vicino al televisore,
+[34:17] permette di vedere tanti contenuti, è qua dal punto di vista tecnologico.
+[34:23] Questo approccio del, chiamiamolo per semplicità decoder non è un po' vecchio e anche questa
+[34:29] cosa scomparirà nel giro di qualche anno.
+[34:33] Allora io penso che attendere scomparirà, dobbiamo guardare avanti nel futuro e penso
+[34:39] anche che chi ci sta ascoltando da delle zone ben coperte dalla fibra ottica, dalla
+[34:45] band ultra-larga e dice ma ora mai roba vecchia, io vedo tutto in streaming, anche Sky posso
+[34:51] vederla in streaming e sempre più sarà così è vero, è limitato soltanto alle
+[34:57] aree ovviamente molto ben servite e non dobbiamo dimenticarci che invece anche tra
+[35:02] chi ci ascolta c'è chi sta litigando con delle ADSL che quando va bene vanno
+[35:07] a due e quattro megabit e quindi sicuramente è troppo poco per fare uno streaming video
+[35:12] decoroso, ma dobbiamo sempre pensare che la rete noi non l'abbiamo mai testata veramente
+[35:19] per fare eventi in streaming indiretta live tutti insieme in contemporanea, cioè cosa
+[35:27] succede?
+[35:28] Il festival di Sanremo.
+[35:29] Ecco cosa succede?
+[35:30] Io il festival di Sanremo, la grande partita di calcio, il grande evento, provassimo a
+[35:34] spegnere sia il digitale terrestre che il satellite e direi proviamo a fare tutto con
+[35:38] la rete, vediamo cosa succede e ve lo dico io cosa succede, crollerebbe la rete, nessuno
+[35:43] verrebbe niente almeno in larghe zone del paese quindi sarebbe un disservizio più che
+[35:50] un servizio ci si arriverà gradualmente ci si metterà anni di certo ingegneristicamente
+[35:57] parlando quando un contenuto viene visto contemporaneamente da tantissimi milioni
+[36:03] di utenti il broadcast quindi il satellite, la distribuzione del satellite oppure con
+[36:09] il digitale terrestre si sa che io preferisco quella satellite perché è più efficiente
+[36:13] perché costa meno, perché c'è più banda, perché illumina tutta la nazione senza problemi
+[36:19] ma comunque diciamo sia il digitale terrestre che il satellite sono milioni di volte
+[36:24] più efficienti e con uno stream solo coprono milioni di persone e senza andare in
+[36:31] crisi mai, questo lo sappiamo, non sappiamo la rete come si comporterà, cosa diversa è
+[36:37] per il video on demand, il video on demand nasce evidentemente sulla rete, perché io voglio
+[36:42] vedere quel film, tu ne vuoi vedere un altro e un qualcun altro, quindi a questo punto
+[36:50] la macchina che per esempio propone Sky-K, è chiù una macchina di convergenza, non
+[36:55] fa francamente ne una cosa nell'altra cosa, ovvero le fa tutte e due, ha un multi-tune
+[37:02] al satellite, ha evidentemente il suo bocchettone di rete e arrivano tutti i contenuti on demand
+[37:09] tra cui quelli di Netflix verranno inseriti che non arriveranno dal satellite, quelli
+[37:14] di Netflix continueranno ad arrivare dalla rete come fa Netflix. Mi immagino che via
+[37:19] via che passeranno gli anni, su questa macchina il peso, l'importanza, la rilevanza del satellite
+[37:26] andrà via sfumando, però credo che ne parleremo tra sei, sette, dieci anni.
+[37:33] Addirittura?
+[37:34] Io penso di sì, perché oggi noi vediamo già quanta parte del traffico internet sia
+[37:43] generato da traffico video e siamo intorno all'80%, oltre quindi un traffico importantissimo
+[37:52] e pure anche gli abbonati a Netflix, non si sa il numero preciso, in Italia sono una frazione
+[38:00] degli abbonati di Sky.
+[38:01] Dato è molto difficile da sapere.
+[38:03] E per non parlare poi di chi invece vede la tv gratuita, allora quelli sono decine
+[38:09] di milioni, in Italia si parlano 50, 60 milioni di tv contemporaneamente attive, ovviamente
+[38:18] non vanno contemporaneamente tutte, ma comunque almeno la metà, la sera, si accendono anche
+[38:24] forse di più.
+[38:25] Che cosa succede se queste fossero collegati alla rete?
+[38:28] La rete non reggerebbe oggi, nessuno poi abbiamo imparato che la rete crescia
+[38:33] delle velocità esponenziali, quindi probabilmente nel futuro lo sarà se la domanda non crescerà,
+[38:39] perché se la domanda dovesse crescere di conseguenza.
+[38:42] Anzi la domanda crescerà di sicuro, quindi c'è da tenere in conto questo.
+[38:46] C'è da tenere in conto questo.
+[38:47] Quindi io credo che ancora è un po' più ottimista, invece che i sei erotiani magari anche
+[38:54] quattro, dai.
+[38:55] Allora anche quattro in zone selezionate d'Italia.
+[38:59] Tutto è legato anche alla diffusione del 5G, perché sapete che per far funzionare bene
+[39:06] il 5G sotto le antenne ci deve essere fibraotica con grandissima capacità.
+[39:10] 5G arriverà nel 2020, ma non è che arriva nel 2020 in tutta la nazione, arriverà nel
+[39:16] 2020 nelle città, forse nemmeno in tutta la città, e poi 2021-22 in quasi tutta
+[39:23] la nazione, ma non sarà così veloce.
+[39:25] Ne riparleremo.
+[39:26] Dovremo vedere.
+[39:27] Gianfranco, grazie per essere stato con noi, ci risentiamo in una delle prossime puntate.
+[39:32] Adesso per noi c'è una breve pausa, riprendiamo tra poco queste 2024, siete all'ascolto di
+[39:38] Radio 24.
+[39:39] Riprendiamo questa puntata di 2024, io sono Enrico Paglierini, il nostro indirizzo di
+[39:56] posteletroniche2024etradio24.it, questo è il programma di tecnologia di Radio 24.
+[40:03] Trovate anche una fantastica edizione podcast che abbiamo ribattezzato super podcast, perché
+[40:09] trovate tutte le nostre interviste in versione integrale, quindi più contenuti di quelli che
+[40:14] ascoltate alla radio.
+[40:15] Vi ricordo che alla radio andiamo in onda il vender di tra le 22 e 23 domenica in replica
+[40:20] 3.13 e le 14.
+[40:22] Adesso parliamo di anonimato e di privacy, perché in alcune condizioni, ma sono sempre
+[40:30] di più le condizioni in cui magari ci piace avere la nostra privacy oppure è necessario
+[40:37] agire in anonimato.
+[40:39] Stiamo parlando di situazioni all'interno della legalità, non situazioni illegali.
+[40:44] Allora quando la tecnologia e soprattutto quale tecnologia ci viene in aiuto in questi
+[40:49] casi?
+[40:50] Tecnologie magari conosciute da tempo, consolidate, mature che si stanno diffondendo e che
+[40:56] anche grandi istituzioni stanno scoprendo.
+[40:59] Ne voglio parlare con Fabio Pietrossanti che è presidente nonché uno dei fondatori del
+[41:04] centro Hermes per la trasparenza e i diritti umani digitali.
+[41:09] Un tema molto importante.
+[41:11] Fabio benvenuto 2024.
+[41:13] Grazie.
+[41:14] Tutti occupi di Cyber Security potremmo dire e definirti anche un hacker etico, un hacker
+[41:18] buono, perdonami il termine.
+[41:20] Beh sì, diciamo il mondo dell'hacking è da sempre orientato a migliorare le tecnologie
+[41:27] rompendole con il fine di renderle più sicure.
+[41:31] Quindi il mondo dell'hacking è un mondo molto ampio e lo stesso che ci porta ad avere
+[41:34] Linux che è la base del sistema operativo Android nei telefoni di un miliardo di persone.
+[41:39] Quindi il mondo dell'hacking non è quel mondo che normalmente viene solo percepito come
+[41:44] coloro che fanno azioni vandaliche piuttosto che rubano i dati, ma è prevalentemente
+[41:49] fatto di tecnologi appassionati che cercano di rendere il mondo un posto migliore
+[41:53] divertendo.
+[41:54] Questo è un aspetto molto importante che purtroppo troppo spesso non viene tenuto in considerazione.
+[41:59] Cioè l'hacker viene sempre visto come quello cattivo e che è molto vicino al mondo della
+[42:04] criminalità.
+[42:05] Tutt'altro invece gli hacker nascono proprio per giocare con la tecnologia, cercare di
+[42:11] trovare dove ci si può infilare per migliorare la tecnologia.
+[42:15] Che cosa fa il centro Hermes?
+[42:17] Beh il centro Hermes si occupa di tutela dei diritti digitali e in quest'ambito
+[42:23] fare formazione, informazione e attività che chiameremo come policy advocacy con l'inglesismo
+[42:32] per suggerire quali sono le migliori politiche e regolamenti e anche contrastare quelli che
+[42:38] sono politiche e regolamenti non consonia alla tutela di quello che oggi è il valore
+[42:44] del nuovo millennio, cioè i dati e la tutela dei diritti digitali ad ampio spettro
+[42:49] dei cittadini.
+[42:50] A fianco a questo si occupa di contrasto alla corruzione e produzione di tecnologie che
+[42:54] servono a contrastare la corruzione e rilevare violazioni dei diritti umani e dei diritti civili.
+[43:00] Esiste una rete mondiale di centri che si occupano di questo un po' in tutto il mondo,
+[43:06] in moltissimi paesi ci sono centri simili a Hermes, c'è un proprio network.
+[43:11] Sì, di fatto esiste un network sia formale che informale, chi si occupa più di diritto
+[43:17] nell'ambito giuridico, pensiamo ai Center for Internet Society, di cui in Italia c'è
+[43:21] il NEXA Center a Torino, o di organizzazioni non governative, come Hermes ad esempio,
+[43:27] che si occupano di temi di tutela dei diritti digitali.
+[43:31] Merita menzione european digital rights, che è la coalizione europea con oltre 60 NGO,
+[43:37] che in modo coordinato si occupa dei temi a livello europeo e nazionale su la privacy
+[43:42] dei diritti digitali.
+[43:44] Noi ti abbiamo invitato perché qualche ormai settimana fa abbiamo letto la notizia della
+[43:51] autorità anticorruzione, di cui si è parlato tantissimo, che è una autorità molto importante
+[43:57] che ha ispirato anche molti regolamenti, molte leggi negli ultimi tempi, ha introdotto
+[44:06] un sistema basato su una delle tecnologie che viene utilizzata dal centro Hermes, basato
+[44:14] su un network che si chiama GlobalX, una tecnologia per il whistleblowing, anche qui dobbiamo utilizzare
+[44:23] dei termini inglese, però di che cosa stiamo parlando? Stiamo parlando di una tecnologia
+[44:27] che permette mantenendo l'anonimato, permette di utilizzare la tecnologia di fatto internet
+[44:35] per segnalare un caso di corruzione all'interno della pubblica amministrazione, che è un passo
+[44:39] in avanti per la pubblica amministrazione italiana molto interessante. Magari ho tradotto
+[44:44] in modo troppo semplice, lascio a te la parola per spiegare di che cosa si tratta e che
+[44:49] cos'è questa tecnologia?
+[44:51] Beh, la tecnologia GlobalX è un prodotto software open source, per open source si intende
+[44:57] che il codice che la implementa è libero, gratuito, chiunque può scaricarlo,
+[45:02] modificarlo e anche redistribuirlo, quindi è una tecnologia bene comune che serve per
+[45:07] gestire flussi di segnalazioni confidenziali anche in forma anonima, dove l'anonimato è
+[45:13] una componente molto forte per chi vuole segnalare la corruzione, non è necessariamente la
+[45:18] regola, ma è uno degli elementi che permette di abbassare la barriera all'ingresso
+[45:23] per il segnalante, chiamiamolo cittadino o dipendente della pubblica amministrazione
+[45:28] che, diciamo con un forte senso civico, vuole segnalare un atto di corruzione ma non vuole
+[45:34] andare all'autorità giudiziaria a sporgere denuncia. L'anonimato in questo contesto
+[45:39] è importante perché come dalle esperienze dei ragazzi di Transparenza International Italia
+[45:45] che hanno un'anolo iniziativa al 2014, allerta anti corruzione per dare assistenza
+[45:49] ai segnalanti italiani, gran parte dei segnalanti vogliono condividere le informazioni
+[45:56] che sanno su un atto corrutivo prima in forma anonima e nel momento in cui vedono che chi
+[46:02] la ricevuta se ne sta prendendo la presa in carico e quindi chiede maggiori informazioni,
+[46:07] vuole entrare nel merito prendono fiducia e spesso e volentieri dichiarano la propria identità
+[46:12] per avere un supporto, vuoi legale, vuoi operativo, vuoi anche psicologico perché chi segnala
+[46:17] un atto di corruzione si trova in una condizione di stress oggettivo perché sta in qualche
+[46:22] modo anche tradendo un rapporto di fiducia in virtù del quale è avvenuto a conoscenza
+[46:27] del fatto corrutivo. Quindi l'anonimato è uno strumento che abilita i sistemi di segnalazione
+[46:32] della corruzione ma non significa che tutte le segnalazioni che partono in forma anonima
+[46:38] poi non diventano dichiarati anche perché la legge italiana sulla tutela del Whistel
+[46:43] Blower era soprattutto la recente 179-2017 e offre tutela al Whistel Blower solo nel
+[46:51] momento in cui si sa chi è, se non so chi è non posso vivere tutela. Certo però diciamo che
+[46:55] la componente tecnologica per garantire che ci sia anonimato o che comunque l'identità
+[47:03] di questa persona sia conosciuta solo da determinate persone è molto importante. La robustezza della
+[47:10] tecnologia è fondamentale in tutto ciò. La robustezza della tecnologia è fondamentale ed è
+[47:15] importante sottolineare che nell'ambito della sicurezza informatica e della criptografia che
+[47:20] alla base delle tecnologie di anonimato un sistema non può essere un po' sicuro o è sicuro rispetto
+[47:26] a tutti o non è sicuro rispetto a nessuno. Di conseguenza il modello di rischio diciamo
+[47:33] il livello di sicurezza così a qual far fronte deve essere quello massimo, quello diciamo il più
+[47:37] rischioso possibile, immaginabile anche se magari ci troviamo in un contesto in cui c'è una
+[47:42] tutela legale del segnalante. Senti è corretto dire che questa tecnologia si basa anche
+[47:49] sulla rete Tor e poi spieghiamo che cos'è la rete Tor che alcuni nostri ascoltatori sicuramente
+[47:54] conosceranno almeno per nome. Assolutamente l'anonimato tecnologico è garantito esclusivamente
+[48:01] dalla rete Tor che di fatto oggi rappresenta la tecnologia di anonimato più utilizzata
+[48:06] al mondo, parliamo di oltre un milione e mezzo di utilizzatori ogni giorno che è gestita
+[48:12] dal Tor Project, un'organizzazione statunitense ma i cui sviluppatori e supporter sono
+[48:17] diffusi in tutto il mondo, basti pensare che la infrastruttura di server della rete Tor
+[48:23] conta oltre 6.000 volontari in tutti i singoli paesi del mondo che mettono a disposizione
+[48:28] il proprio server per poter garantire il funzionamento dell'anonimato della rete Tor. Tor è un
+[48:35] progetto che nasce con l'esigenza di fornire l'anonimato nella navigazione su internet,
+[48:40] quindi questo è il requisito principale della rete Tor, ma evolve per superare i filtri
+[48:47] sensori praticati da molti governi, diciamo diversamente democratici se vogliamo utilizzare
+[48:52] un termine, perché molti paesi dove non c'è la libertà d'espressione e neanche la tutela
+[48:59] dei diritti civili di base praticano censura internet, quindi il blocco dell'accesso a
+[49:03] siti internet che fanno informazione indipendente o che magari fanno contro informazione
+[49:08] e informazione nell'ambito politico di opposizione al governo. Di conseguenza in questi paesi
+[49:13] possiamo citarne uno l'Arabia Saudita o la Cina ad esempio, l'accesso a tutti i siti
+[49:19] che vogliono criticare magari anche in modo costruttivo il governo è bloccato, di conseguenza l'unico
+[49:25] modo per accedervi è l'utilizzo della rete Tor. Quindi in questo caso il superamento
+[49:31] della censura va di pari passo con l'anonimato perché se il governo locale venisse a sapere
+[49:37] che una certo attivista, avvocato o giornalista è solito pubblicare una certa informazione
+[49:44] potrebbe avere delle repercussioni. La rete Tor come si utilizza? Alcuni ascoltatori
+[49:49] potrebbero pensare che cosa difficilissima deve essere un esperto di tecnologia? Si o
+[49:55] no? Usare Tor è estremamente semplice. Di
+[49:59] fatto l'utilizzo principale di Tor viene fatto attraverso il cosiddetto Tor Browser
+[50:04] che non è altro che un'applicazione desktop disponibile per Windows, Linux, Mac OS X e anche
+[50:10] per dispositivi Android e iPhone che ha tutti effetti un Mozilla Firefox modificato per avere
+[50:19] alcune caratteristiche di sicurezza e antitracciamento in più che integra al suo interno la rete Tor.
+[50:24] Quindi oggi, voler provare l'utilizzo di Tor significa andare sul sito del Tor Project,
+[50:28] scaricare il Tor Browser e fare doppio click e trovarsi davanti a sé un browser
+[50:33] che ogni volta che ci si collega alla rete internet ad un sito web, uscirà da un paese
+[50:38] diverso e ogni 10 minuti cambierà il percorso che attraversa la rete Tor. Quando dico percorso
+[50:44] della rete Tor è utile sapere che ogni collegamento che attraversa la rete Tor usando il Tor
+[50:50] Browser effetto un passaggio sempre in 3 server, un punto di ingresso, un punto di
+[50:55] mezzo e un punto di uscita e ognuno di questi 3 server non sa qual è quello successivo
+[51:00] e qual è quello precedente. Questo è un metodo con cui è possibile, diciamo, anche impedire
+[51:05] la coercizione di gestori di server Tor che non devono necessariamente essere soggetti
+[51:10] fiduciari dell'annunzionato d'identità. Questo è un meccanismo che, secondo me non
+[51:16] dico che si aspetta, però se non segue un po' le notizie di tecnologia fa fatica
+[51:19] comprendere perché non dici ma no io voglio e pretendo di sapere che no, tecnologicamente
+[51:26] questa cosa nasce in questo modo e quindi anche se il magistrato va a scoprire il primo
+[51:31] server non saprà mai qual è, sarà il secondo. Nell'ambito della sicurezza informatica esiste
+[51:38] una area di la criptografia che sono le tecnologie di cosiddetto usun inglesismo end-to-end
+[51:44] encryption in cui la cifratura dei dati o delle comunicazioni avviede in modo tale
+[51:50] che qualunque pezzo intermedio tra noi e il destinatario non possa in alcun modo accedere
+[51:57] alle informazioni e quindi anche i tramite si trovano irresponsabilizzati del poter
+[52:02] tecnicamente sapere a quali informazioni sto accedendo e l'arretitor ha questo
+[52:06] sistema by design. Questa tecnologia è utilizzata anche da WhatsApp.
+[52:11] Certo. Per tanto su per fare un esempio. WhatsApp stessa come anche adesso Skype opzionalmente piuttosto
+[52:17] che Telegram che Telegram offrono la possibilità di fare chat end-to-end encrypted quindi criptografate
+[52:26] senza che sia possibile per l'intermediale o gestisce il server accedere alle comunicazioni.
+[52:31] Quest tipo di tecnologie fino a 10-15 anni fa venivano considerati tecnologie come dire ad
+[52:38] appannaggio esclusivo dell'ambito militare o dell'ambito dell'attivismo molto forte
+[52:44] nell'ambito della tutela dei diritti digitali. Oggi ci troviamo che abbiamo miliardi di persone
+[52:51] che quando usano WhatsApp usano queste tecnologie quindi c'è stata una vera rivoluzione bisogna
+[52:56] dare sicuramente merito anche alle disclosure le rilevazioni fatte da Edward Snowden
+[53:02] sulla sorveglianza massiva che hanno ispirato tutto il mondo della tecnologia su scala
+[53:07] planetaria nonché tutto il mondo della politica che forse forse è necessario avere sistemi di
+[53:12] security by design, cioè il design della tecnologia. La stessa Enisa lente europeo per la sicurezza
+[53:21] delle informazioni nelle sue linee guida dell'anno scorso ha identificato che il privacy by design
+[53:27] cioè l'integrazione di tecnologie di cifratura forte di questo tipo dovrebbe essere alla base
+[53:32] di tutte le tecnologie futuri adottate nel mio europeo. Certo, senti dentro a Tor che cosa ci
+[53:36] si trova? Vado su Tor per vedere il sole24hore.com. Innanzitutto posso andare sul sito del sole
+[53:44] 24hore utilizzando Tor, perché magari vorrei non far sapere al sito del sole 24hore il mio indirizzo
+[53:52] di provenienza che potrebbe essere utilizzato per la mia identificazione. Tutta via...
+[53:57] Quindi può essere un modo, scusa se ti interrompo, un modo per navigare nella internet
+[54:03] tra virgolette normale senza essere tracciati con cookies che poi vogliono darci la pubblicità
+[54:10] profilata? Molte persone utilizzano Tor esattamente per questo e anche per poter
+[54:15] fruire di informazioni neutrali dalla profilazione nel momento in cui vado ad utilizzare un
+[54:20] motore di ricerca come Google e questo anche se non ho acceduto al mio Google account, lo sa
+[54:27] che quel telefonino o quel computer e quell'indirizzo internet è di casa mia perché in altri modi
+[54:33] sarà riuscito a inferirlo e quindi mi presenterà sempre dei risultati che sono consoni alla mia
+[54:37] profilazione seppur non precisa. Nel momento in cui utilizzo Tor la profilazione viene
+[54:42] completamente eliminata e non solo. Se l'indirizzo con cui mi presenterò su internet ha i server
+[54:48] di Google potrà essere adesso il Giappone, ricarico la pagina web, uscirò dall'Argentina,
+[54:53] ricarico la pagina web, uscirò dal Sud Africa, di conseguenza impedisco e rendo sostanzialmente
+[54:58] impossibile la profilazione della mia navigazione. A quel punto le mie ricerche su internet possono
+[55:03] essere del tutto neutrali, questo è un elemento importante per chi fa ricerca e vuole eliminare
+[55:08] l'effetto profilazione. Molto interessante, certo. E poi che cosa ci si trova?
+[55:12] Beh, Tor, oltre a essere un mezzo di tramite per raggiungere la rete internet e i city
+[55:18] internet in modo anonimo e superare i filtri di censura, ha anche al suo interno una rete
+[55:24] comunemente chiamata deep web basata sui cosiddetti Onion Service, cioè dei city internet che
+[55:32] esistono e sono raggiungibili solo e esclusivamente all'interno dell'Arte Tor. In quest'ambito
+[55:38] ci sono molti city raggiungibili solo sull'Arte Tor, ne dico uno più famoso fra tutti
+[55:45] Facebook, è raggiungibile sull'Arte Tor, ma esistono anche molti city nell'ambito giornalistico,
+[55:52] negli Stati Uniti soprattutto c'è stata una fortissima diffusione sull'utilizzo della
+[55:56] rete Tor per erogare i city web delle testate, parliamo del New York Times, non del giornale
+[56:03] di provincia, accessibili direttamente tramite la rete Tor. Oltre a questo troviamo
+[56:08] anche molte iniziative per il whistleblowing, quindi molte iniziative che servono per
+[56:13] effettuare segnalazioni di atti o fatti di corruzione avendo una tutela dell'anonimato
+[56:20] Mutua in cui il segnalante non sa dove si trova il server tramite cui sta facendo la segnalazione,
+[56:29] benché magari conosce l'identità dell'organizzazione che gestisce prende
+[56:33] quella specifica inizitiva.
+[56:35] Vadovito che dentro a Tor, proprio perché c'è un onimato, esiste anche il crimine.
+[56:41] Questo è il motivo per cui Tor è maggiormente nota allo crone che pubblicamente.
+[56:47] Fa stessa storia degli hacker che vengono identificati per una parte che non so se la maggioranza
+[56:55] o la minoranza però comunque non sono il tutto.
+[56:58] Ovviamente nel momento in cui ci sono caratteristiche di anonimato forte,
+[57:01] anche soggetti criminali tendranno ad utilizzarli perché quando voglio non dare alcun meccanismo di fiducia
+[57:10] a terzi, quindi le tecnologie che non possono essere accedute da una terza parte di fiducia,
+[57:16] ci saranno iniziative di vendita di droga, vendita di armi piuttosto che forum con contenuti
+[57:23] sexuali espliciti. Questo esiste, ma c'è da dire una cosa, esiste anche su internet, sono stati fatti
+[57:32] degli studi e delle analisi circa 3 anni fa su la quantita di siti che vendono droga all'interno
+[57:41] di Tor.
+[57:42] E' ovvio che fa molto più notizia perché è il deep web, è nascosto perché ci sono caratteristiche
+[57:50] di anonimato molto forte quindi essendo mediaticamente più affascinante se ne parla molto di più.
+[57:58] Ma quando parliamo di deep web o web nascosto, in realtà parliamo del web non indicizzato
+[58:05] dai motori di ricerca, non necessariamente la componente di web che si trova all'interno
+[58:10] della retta Tor, le cui statistiche aggiornate a qualche mese fa vedevano non più di
+[58:14] 50.000 siti confronto ai miliardi di siti che troviamo su internet.
+[58:19] Senti, a cos'altro può servire Tor?
+[58:22] Perché ci sono delle evoluzioni interessanti, visto che noi parliamo ed è un tema industriale
+[58:29] di internet e degli oggetti. Ci sono, sappiamo benissimo nei nostri casi, ma sempre più nelle
+[58:36] nostre città e nelle nostre aziende, oggetti che sono connessi alla rete che parlano
+[58:41] tra di loro e in alcuni casi non sappiamo nemmeno quello che si dicono, lo sappiamo
+[58:45] ma non passano attraverso l'interazione umana.
+[58:48] Sì, questa è un'evoluzione molto interessante e recente dell'utilizzo della tecnologia Tor
+[58:53] e della rete Tor, dei cosiddetti server onion, quelli raggiungibili sulla dentro Tor, che
+[58:58] è l'applicazione dell'internet delle cose. Questo perché una delle principali problematiche
+[59:03] di cyber security dell'internet delle cose riguarda e la sicurezza del mezzo trasmissivo
+[59:09] dei oggetti che ci troviamo in casa con dei servers su internet, ma anche l'affidabilità
+[59:15] di questi server su internet. Cioè, il collegamento deve essere messo in sicurezza, ma si buona un
+[59:21] problema di centralizzazione, cioè se ho 10.000 frigoriferi che si collegano tutti a un unico
+[59:25] server, se questo server viene meno, l'applicazione mobile che permetterà di vedere la temperatura
+[59:31] del mio frigorifero non funzionerà più. La rete Tor, essendo nata e cresciuta con
+[59:36] dei meccanismi di resilienza anche rispetto ad attacchi governativi, è una tipica rete
+[59:41] di tipo peer-to-peer, cioè è una rete in cui... Decentralizzata... Decentralizzata in cui tutti
+[59:46] i partecipanti hanno un ruolo attivo. Di conseguenza, adottare Tor, cosa che sta accadendo nell'ambito
+[59:54] dell'internet delle cose, permette di dare sicurezza al mezzo di trasporto, autenticazione al mezzo
+[59:58] di trasporto, ma soprattutto acquisire quella affidabilità e indipendenza rispetto al, usiamo
+[60:03] il termine semplice, il server che si rompe. A riguardo è utile fare un esempio di,
+[60:08] capitato alcuni mesi fa, un'azienda che offre, diciamo, una piattaforma di sviluppo per consentire
+[60:15] ai integratori di sistema di creare piattaforma io ti in modo molto veloce, è andata fallita.
+[60:20] E decine di migliaia di dispositivi prodotti da altre aziende che si sono appoggiate su questa
+[60:26] tecnologia si sono trovati sconnessi, perché essendo l'azienda con i server centrali
+[60:30] è andata fallita, i dispositivi non avranno più il server centrale a cui collegarsi. L'utilizzo
+[60:35] di tor a l'interno dell'interno delle cose previene questo tipo di rischio.
+[60:39] Certo, tornando al punto dal quale siamo partiti, cioè l'utilizzo della tecnologia che garantisce
+[60:47] anonimato per o temi di anticorruzione e qui c'è il legame con la scelta di ANAC di andare in
+[60:56] questa direzione e poi tutto quello che succede in paesi dove, come tu dicevi, ci sono dei
+[61:02] problemi più gravi di democrazia rispetto a quelli che conosciamo nei paesi occidentali.
+[61:07] Ecco, ma su questo tema nei paesi occidentali, nei nostri paesi, ci sono delle altre applicazioni
+[61:16] sulle quali voi state lavorando come centro Hermes? Nell'ambito tecnologico c'è tanta
+[61:23] attività fatta per la trasparenza nella pubblica amministrazione e per la misurazione
+[61:29] della sicurezza del web italiano. Sono progetti in questo momento in Itinere, ma c'è in corso
+[61:35] ad esempio una mappatura di tutti i siti della pubblica amministrazione italiana che nascondono
+[61:40] la propria sezione amministrazione trasparente, obbligatoria per legge con tutti i contratti,
+[61:45] consurenze e componenti dirigenti dai motori di ricerca, che è un'azione di opacità
+[61:49] per cercare di nascondersi all'adempimento trasparenza.
+[61:52] Un'altra iniziativa interessante in Itinere che presenteremo nei prossimi mesi
+[61:57] è la mappatura della sicurezza dei siti web per settori verticali, cioè la sicurezza
+[62:01] HTTPS, il cosiddetto lucchetto che permette la protezione tra il browser dell'utente e
+[62:06] il server web del destinatario, nei diversi settori l'ambito media, l'ambito pubblica
+[62:12] amministrazione, l'ambito utilities, l'ambito telecomunicazioni, che serve per mostrare
+[62:17] quali sono gli ambiti di insicurezza e quindi insicurezza dei dati, dei cittadini
+[62:24] che fruiscono di quei servizi, che potrebbero essere migliorati.
+[62:27] A riguardo mi permetto di ricordare a tutti che affardata da giugno di quest'anno, Google
+[62:35] tramite il proprio browser Chrome, rilascerà un aggiornamento che identificherà chiaramente
+[62:40] nella barra di navigazione come non sicuri tutti i siti che non hanno ancora fatto
+[62:46] l'upgrade, fatto l'aggiornamento alla versione sicura dei siti con HTTPS e questo
+[62:52] porterà un vero cambiamento di tutto l'ecosistema globale nella cifratura delle comunicazioni
+[62:57] del web.
+[62:58] Ti faccio una domanda sul business della sicurezza, si dice che investiamo troppo poco in cybersecurity,
+[63:05] come vedi lo sviluppo di questo settore?
+[63:07] La legge e l'infrastruttura normativa va nella direzione di obbligare tutte le aziende
+[63:14] pubbliche e private ad dotarsi di sistemi di sicurezza.
+[63:17] In questo il famoso GDPR, il Regolamento Europeo sulla protezione dei dati che entrerà
+[63:22] in vigore a maggio, porta anche delle pesanti sanzioni fino al 4% del fatturato se non si
+[63:27] è applicata la protezione dei dati e questa è la prima volta in cui l'Unione Europea
+[63:33] con un regolamento che legge da maggio in tutti i stati membri inizia a fare sul
+[63:37] serio.
+[63:38] Questo significa che la sicurezza informatica non va più considerata come un costo,
+[63:43] ma come una vera e propria necessità.
+[63:45] Questo percorso di trasformazione si sta vedendo non più solo come un'aggiunta che faccio al
+[63:52] sistema informativo che già ho, ma come una prassia e pratica che deve essere di default,
+[63:58] che deve essere implementata fin da subito.
+[64:01] Questo riguarda sia chi produce software e infrastrutture, sia chi si acqua dell'organizzazione
+[64:05] aziendale in cui oggi non può più tralasciare quella scocciatura della sicurezza informatica,
+[64:10] ma deve tenerne considerazione.
+[64:11] Quindi il mondo sta realmente cambiando, pensiamo soltanto alla cifratura dei dispositivi che
+[64:17] abbiamo in tasca, degli iPhone, dei dispositivi Android che fino a qualche anno fa potevano
+[64:22] essere acquisiti fisicamente e oggi invece hanno tutti una cifratura forte in cui ne
+[64:28] anche l'FBI è in grado di accedere, diciamo un grande dibattito, ma la Cyber Security
+[64:35] oggi è diventata da semplice business collaterale, per chi si vuole proteggere di più a una
+[64:45] necessità operativa di qualunque azienda in qualunque settore.
+[64:49] Non a caso siamo nella società dell'informazione, dobbiamo occuparci della sicurezza delle
+[64:53] informazioni stessi.
+[64:54] Ben io ringrazio Fabio Pietrossanti per essere stato con noi, buon lavoro, grazie.
+[64:59] Grazie mille.
+[65:03] È tutto per questa puntata di 2024, prima di salutarvi e prima di ringraziarvi per questa
+[65:09] puntata un breve aggiornamento sulla vicenda del modem libero, è un argomento di cui abbiamo
+[65:16] parlato brevemente 2024, non ho mai dedicato un approfondimento lo farò nelle prossime
+[65:21] settimane e aspettiamo che si concluda una consultazione dell'autorità per le comunicazioni.
+[65:28] Allora come stanno le cose?
+[65:30] Esiste una normativa europea che prevede che il consumatore possa scegliere l'utente di un
+[65:38] servizio ADSL o in fibra, possa scegliere il modem che vuole.
+[65:42] Sapete che molti operatori, non tutti per la verità ma molti operatori, impongono
+[65:47] invece il proprio modem, tra l'altro diluendo il costo di questo modem che a volte
+[65:55] sembra un abbonamento ma di fatto è un acquisto rateale con cifre che sono a volte anche superiori
+[66:03] al reale valore di quel modem, ma chiudiamo questa parentesi, questi operatori che impongono
+[66:10] il modem non starebbero rispettando la normativa europea, quindi, oltre all'onorevole catalano
+[66:16] che ne ha fatto una battaglia in Parlamento, anche l'AGCOM ha aperto una consultazione
+[66:21] e si esprimerà, speriamo, obbligando gli operatori a lasciare libertà di scelta ai consumatori.
+[66:27] Quindi, i consumatori, laddove desiderano prendere un modem particolare che dicono
+[66:32] io voglio un modem più performante oppure voglio un modem che mi costa meno rispetto
+[66:36] a quello che tu caro operatori mi fai pagare nel giro di due o addirittura quattro anni
+[66:41] e anche perché la legge prevede questo.
+[66:44] Nel fattempo si è anche costituita la free modem alliance se volete maggiori informazioni
+[66:49] andate su modemlibero.it Comunque ne parleremo, la prossima settimana si conclude questa
+[66:54] consultazione dell'AGCOM e l'AGCOM poi si esprimerà e speriamo si esprima nella direzione auspicata
+[67:02] dalla free modem alliance che è sicuramente dalla parte anche dei costruttori di modem
+[67:07] ovviamente ma anche dei consumatori che devono essere liberi di scegliere il proprio
+[67:11] modem.
+[67:12] Se io mi aggancio alla rete di un operatori di telefonia mobile, mica mi impone lo
+[67:16] smartphone, io posso comprare lo smartphone che voglio.
+[67:19] Ed è tutto per questa puntata di 2024, come sempre grazie per la vostra attenzione, grazie
+[67:25] anche per aver scelto la versione podcast, il nostro superpodcast è oltre un'ora di
+[67:30] contenuti anche questa settimana, ci risentiamo nella prossima puntata.

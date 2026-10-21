@@ -1,0 +1,343 @@
+Where Are The Post-WikiLeaks Digital Whistleblowers? » OWNI.eu, News, Augmented 
+
+ (ebooks) OWNI shop 
+
+ [ Go to french version + --> ] - Wednesday 05 September 2012 
+
+ video • Musique 
+
+ !-->
+
+ OWNI.eu 
+
+ News, Augmented 
+
+ sur Facebook 
+
+ sur Twitter 
+
+ Par newsletter 
+
+ societe,   
+
+ pouvoirs   
+
+ et cultures numeriques   
+
+ Vous souhaitez nous envoyer: 
+un message, contribuer, partager,
+nous rencontrer...
+
+ Objet : 
+
+ Sujet 
+ Bonjour ! 
+ Soumettre un lien 
+ Proposer un sujet 
+ Signaler un bug 
+ Signaler un abus 
+ Envoyer une couv’ 
+ Service des réclamations 
+ Contacter les Community Editors 
+ Je souhaite faire un stage 
+ Je souhaiterais migrer mon blog ou média sur Owni 
+ Demander en mariage Sabine Blanc 
+ J'ai trois yeux, je souhaiterais communiquer avec Guillaume 
+ Je m'appelle Schmidt, Jobs ou Anderson 
+
+ Votre nom et prénom : 
+
+ Votre mail : 
+
+ Anti-robots : 
+
+ Votre message : 
+
+ Technology,  
+
+ Politics 
+
+  and Culture 
+
+ Google  (par pertinence) 
+
+ Classique  (chronologique) 
+
+ Internet 
+
+ Where Are The Post-WikiLeaks Digital Whistleblowers?
+
+ Following WikiLeaks' dramatic arrival on the global stage, a host of digital whistleblowing groups emerged ready to use new media to shake up the old order. So why has the expected deluge of revelations failed to materialise? 
+
+ Tags
+
+ anonymous , bradley manning , censorship , Cryptome , hacking , hacktivism , julian assange , whistleblowers , wikileaks 
+
+ by Luke Allnutt 
+ On August 27, 2012 
+
+ 37 Reactions 
+
+ Tweet 
+
+ email
+
+ A + 
+ A - 
+ -->
+
+ Same author 
+
+ Russia’s New Viral Dissident Art 
+
+ The Death Of Oula Jablawi And The Democratization Of Bearing Witness 
+
+ Murdoch’s Hacking Is Despicable, But Is WikiLeaks Any Better? 
+
+ Old-School Hacker Oxblood Ruffin Discusses Anonymous And The Future Of Hacktivism 
+
+ Related posts 
+
+ It is hard sometimes to divide the story of Julian Assange from that of WikiLeaks. But once upon a time, before Bradley Manning, the rape allegations, the house arrest, the TV show on RT , and then the Ecuador gambit, WikiLeaks, as an organisation and as an idea, was brimming with promise. For many, the age of the anonymous digital whistleblower was the dawn of a bright new era of radical transparency.
+
+ WikiLeaks was just the beginning. Whatever you might think of Assange, it was the game-changer and it spawned a multitude of clones. Expectations about the potential of digital whistleblowing were sky high. A bevy of decentralised organisations, many of them stateless and thus hard to act against in a technical or legal capacity, would spring up. These organisations were of the Internet and thus able to bypass and route around the efforts of censoring governments and corporations.
+
+ And sure enough, a slew of WikiLeaks clones followed, many of them in more specialised markets: BalkanLeaks, Enviroleaks, MagyarLeaks. Mainstream media outlets — who had sometimes turned their noses up at Assange’s methods — tried their hands at building their own dropboxes for anonymous leakers.
+
+ Journalists expected bounties (how hard can it be, right?), some activists expected regimes to fall, and openness advocates looked to a brave new world where the power of the leak (or at least the threat of a leak) would keep governments and corporations in check.
+
+ But it never quite happened like that. Many of the digital-whistleblowing projects, the WikiLeaks clones, are either dead or dormant and efforts to create secure and anonymous dropboxes have floundered.
+
+ The possibly exaggerated claims of radical transparency were taken on in a paper by Alasdair Roberts , an academic at Suffolk University Law School in Boston. He wrote that “ advocates of WikiLeaks have overstated the scale and significance of the leaks. They also overlook many ways in which the simple logic of radical transparency — leak, publish, and wait for the inevitable outrage — can be defeated in practice “.
+
+ There was always plenty of techno-determinism and Internet-centrism in the WikiLeaks-era notions of radical transparency: just engineer a secure solution and they will leak.
+
+ The novelty, it is argued, is that technological change has eliminated many of the practical barriers to executing this program — because digitised information is easier to leak; because appropriately designed technologies can protect the anonymity of leakers; because the Internet allows the instantaneous and universal sharing of information, and perhaps also because it is easier to mobilise outraged citizens. 
+
+ But actually those technological solutions to ensure a leaker couldn’t be traced were much harder than perhaps anticipated, especially under the watchful and scrutinous eyes of ever-vigilant privacy and security researchers.
+
+ A former WikiLeaker, Daniel Domscheit-Berg, test-launched OpenLeaks in 2011 and asked 3,000 hackers to test its systems, but over 18 months later there is still no active submission system. The Wall Street Journal ’s SafeHouse, its WikiLeaks-style submissions site, was widely criticised by security researchers for its holes. 
+
+ Public Intelligence, a site that relies on some leaked documents, has disabled its submissions system “ following a recent intrusion into our server “. They add: “ Submissions will resume when we are confident that the information can be handled in a secure manner .” Looking down a list of whistleblowing sites in the Leak Directory , many of the sites are dormant or defunct.
+
+ “ A truly anonymous electronic dropbox is a very hard problem in computer science terms, particularly if you wanted to make it open-source code ,” says Suelette Dreyfus, an academic and expert in digital whistleblowing.
+
+ It’s also expensive. “ My back of the envelope estimate based on discussions with technical experts in the area is that it would take close to $1 million to do it properly, and probably at least 6-12 months — with no absolute guarantee it would work ,” says Dreyfus.
+
+ That’s to make a highly portable, free open-source software version of a drop box, publicly available and easy to use for any NGO or news organisation . You’d need a project manager who understands journalism, leaks, the NGO world, and technical people. And you’d need a really trusted team of programming experts, who are likely to be scattered around the globe. It’s a hard, hard task .
+
+ One of those organisations striving to make an open-source secure dropbox is GlobaLeaks . Their project aims to make a suite of software available to organisations who want to set up and maintain a whistleblowing platform. According to Fabio Pietrosanti, one of GlobaLeaks’ developers, the goal is to lower the entrance barrier to people wanting to set up whistleblowing platforms.
+
+ “ Our goal is to allow anyone with political motivation willing to start a whistleblowing initiative not to be dependent on a technician’s skills to set up a safe dropbox ,” Pietrosanti says.
+
+ “ We need to reach a point where setting up a whistleblowing initiative will require only determination and management skills by using easy-to-use GlobaLeaks software, doing publishing through [the] Tor2web network, leveraging public visibility through social networks, Facebook, Twitter, and cloud tools (hosted blogs) ,” Pietrosanti says.
+
+ But for other whistleblowing practitioners, the idea of a secure and anonymous dropbox is a chimera, a techno-solve-all that would do for transparency what tablets were supposed to do for magazines’ business models.
+
+ John Young, who runs the Cryptome website, which hosts leaked documents, says that the open-source dropboxes out there are “ evanescent, variable, deceptive, self-serving, and none are risk-free “.
+
+ While the digitisation of data has made it much easier to copy, share, and publish, it has also made it easier for people to snoop on what we are sharing. Aaron Caplan , an associate professor at Loyola Law School in Los Angeles, wrote:
+
+ For every exchange of data over the Internet, be it via e-mail or by viewing a website, a trail of metadata is automatically logged that includes, among other things, the IP addresses of the computers involved. In many ways, it is easier to be an anonymous tipster using older media, such as oral communication, an unmarked envelope, or a phone call on a landline. 
+
+ The Internet makes it far easier than before for law enforcement to attribute communications to particular speakers and listeners — including communications between sources and journalists. 
+
+ With these risks in mind, many of those working in the digital whistleblowing community are increasingly aware that offering fail-safe anonymity and protection is misleading. Whistleblowing practitioners have realised they have a responsibility to educate potential leakers in the art of anonymity, rather than promising that they will do it for them.
+
+ Claudio Agosti, a developer with the GlobaLeaks project, says: “ We, as information and privacy experts, have analysed the requirements from the security point of view, therefore what we’re aiming for is not just software, but a wider project also involving advocacy in personal security for dealing with sensitive documents .”
+
+ That could mean just advising potential leakers to use the Tor anonymising software or putting together guides that will help whistleblowers stay safe.
+
+ “ We advice sources to protect themselves, that we cannot do that nor can any other outlet ,” says Cryptome’s Young. “ Promised protection and security is always fraudulent, either by design or by ignorance. This is not limited to disclosures but covers all forms of security from national to personal .”
+
+ Security is only one of the challenges that digital whistleblowing sites face. There is the potential political pressure from governments or litigious corporations. Another is the legal risks of hosting such information or being cut loose by service providers, just as WikiLeaks was when Amazon and PayPal withdrew their services. Opponents could easily try to get a site shut down, for example by flooding it with child pornography.
+
+ With sometimes mammoth data dumps, dividing the wheat from the chaff is a laborious task that often requires teams of people who know what they are looking for (much as the Guardian used its beat reporters to drill down into the leaked cables). Analysis, verification, and packaging takes time and expertise and can be costly for organizations on shoestring budgets who often have little experience in navigating the myriad logistical, legal, and technical minefields.
+
+ “ Most of them are run on the smell of an oily rag. They are largely volunteer sites that struggle to cover expenses and don’t pay a salary. Many won’t accept government money in order to remain independent ,” says Dreyfus. With media organizations facing budget cuts and with NGO funding at rock bottom it’s possible that — after the enthusiasm surrounding WikiLeaks has died down — whistleblowing platforms will increasingly be seen as indulgences.
+
+ But despite the many stalled or dormant whistleblowing projects, Dreyfus, who worked with Julian Assange on Underground , a seminal book on hacking culture, is sanguine about the future of online whistleblowing sites.
+
+ The sites have actually succeeded a good deal more than I expected on the whole. The fact that so many sprang up and so many are still standing (if moving slowly) — and many are still active — is a testimony to success, not failure, on this front .
+
+ There is much focus on large generic leak sites, such as WikiLeaks, but the success stories are often found in sites serving more niche communities. “ This means that even if they are breaking good stories, you may not hear about it ,” says Dreyfus, “ because they target a specific and sometimes quite narrow community “.
+
+ For example, she says that Balkanleaks.org broke a story about a government prosecutor accused of money laundering.
+
+ But if you don’t read Russian or Bulgarian, chances are you haven’t read it . Similarly Enviroleaks published a piece on a controversial dam in Brazil . Again, if you’re not up on environmental issues or on Brazilian news you may not have seen this .
+
+ A decentralised, sometimes chaotic future is likely what’s in store for digital whistleblowing initiatives. As Cryptome’s Young says, “ multiplicity diffuses targetability “. The prominence and centrality of WikiLeaks might well be the exception to the rule. Another model for the future might be the hacktivist collective Anonymous, with its loose ties and culture that (at least in public) shuns leadership. Last year, Anonymous leaked emails from Stratfor, a global security firm, after hacking into the company’s servers.
+
+ In December 2012, Anonymous activists are launching TYLER , which it describes as “ WikiLeaks on steroids “. In a promotional video, the activists said that “ TYLER is a massively distributed and decentralized Wikipedia-style P2P cipherspace structure impregnable to censorship. TYLER will improve where WikiLeaks could not “.
+
+ There is certainly no lack of desire among the public for secrets to be spilled. In Australia, Griffith University and the University of Melbourne are running an international survey about attitudes toward whistleblowing. The first stage of the survey, which Dreyfus is involved with, found that support for whistleblowing in Australia is strong, with 87 percent of Australians believing that whistleblowers should be able to go to the media. Whistleblowers and leakers, with all their subterfuge, tend to generate headlines, but as GlobaLeaks’ Pietrosanti points out, whistleblowing is just one part — a radical part, perhaps — of a larger transparency movement comprising initiatives such as OpenData and OpenGov.
+
+ Just as the entertainment industry has been engaged in an often futile game of whack-a-mole with torrent sites and peer-to-peer networks, secretive governments and corporations will likely experience the same struggle against a raft of whistleblowers in different guises who, unlike WikiLeaks, will gain their strength from decentralisation and relative obscurity.
+
+ This article originally appeared on Tangled Web under the title “With WikiLeaks On Ice, What Has Happened To All Those Digital Whistleblowers?” 
+
+ Image Credits: ssoosay CC-BY 
+
+ Follow us on Twitter and on Facebook .
+
+ blog comments powered by Disqus 
+
+ OWNI.fr 
+
+ OWNIlive 
+ !--> 
+ OWNI.eu 
+
+ OWNIpolitics 
+
+ OWNImusic 
+
+ OWNIsciences 
+
+ The Week In Data 
+ The Associated Whistleblowing Press 
+ Meet the HackerMoms 
+ The Cyber Cold War 
+ The Week In Data 
+ Where Are The Post-WikiLeaks Digital Whistleblowers? 
+ The 2012 Olympics ©: A Cyberpunk Dystopia 
+ Lockdown 2012: Security at the Olympics 
+ Revolution 101 
+ Sudan’s Proxy War 
+ The Known Unknowns of Skype Interception 
+
+ The Week In Data 
+ The Associated Whistleblowing Press 
+ Meet the HackerMoms 
+ The Cyber Cold War 
+ The Week In Data 
+ Where Are The Post-WikiLeaks Digital Whistleblowers? 
+ The 2012 Olympics ©: A Cyberpunk Dystopia 
+ Lockdown 2012: Security at the Olympics 
+ Revolution 101 
+ Sudan's Proxy War 
+ The Known Unknowns of Skype Interception 
+ The Petroleum Panacea of French Guiana 
+
+ Zambia mining, a global case study of mismanagement 
+ Everything you need to know about the strikes in France #12Oct #Blocages 
+ [En] What if Bobby Kennedy had survived? 
+ Another crowdsourced government bites the dust 
+ Italian bloggers face severe fines with gag law 
+ Warlogs: European Collaborative Investigation App 
+ Italian Journalists say no to prison with Berlusconi’s “gag law” 
+
+ !--> 
+
+ mentions légales 
+
+ charte éditoriale 
+
+ Wikileaks by OWNI 
+
+ DataJournalism 
+
+ !--> 
+ OWNIradio 
+
+ à propos 
+
+ Le Shop 
+
+ contribuer 
+ !--> 
+ archives 
+
+ les Unes 
+
+ auteurs 
+
+ réseau 
+
+ OWNI sur facebook 
+
+ contact 
+
+ sur facebook 
+
+ sur twitter 
+
+ par abonnement 
+
+ Fan page 
+
+ Network 
+
+ Comments 
+
+ Aaaliens 
+
+ jules a commenté l’article La vie d’une Paysanne le temps du carnaval de Tamines   2 minutes ago · View 
+
+ jules a commenté l’article Revue du web   12 minutes ago · View 
+
+ jules a commenté l’article IT Newsticker   48 minutes ago · View 
+
+ jules commented on the blog post The Week In Data   49 minutes ago · View 
+
+ Paule d’Atha wrote a new blog post: The Week In Data   50 minutes ago · View 
+
+ Jen : nice photography and concept ^_^ http://love-hit.com
+
+ GerryC : Always wonder why I can't create such original art. Welll done!
+
+ jemima : inspired 
+
+ stumbler : i wonder if some else came here without using stumble upon :p
+
+ Jim Neil : fuck off
+
+   OWNI.eu, an OWNI website edited and developed by 22mars . WordPress theme by Tom Wersinger design by Loguy .
+All contents under licence Créative Commons | Legal Notice | Report abuse . 
+
+ Log In 
+ Blog Authors Admin 
+
+ Nicolas Voisin 
+
+ Aurélien Fache 
+
+ Damien Van Achter 
+
+ Stanislas Jourdan 
+
+ Sylvain Lapoix 
+
+ Adriano Farano 
+
+ Olivier Tesquet 
+
+ Federica Cocco 
+
+ Julien Goetz 
+
+ Ophelia Noor 
+
+ Fabio Deotto 
+
+ Andréa Fradin 
+
+ Anne Daubrée 
+
+ Stefanie Chernow 
+
+ Aidan Mac Guill 
+
+ David Servenay 
+
+ Pierre Alonso 
+
+ enigmax 
+
+ groupe-chronos 
+
+ Jake Olzen 
+
+ Hubert Guillaud 
+
+ Arthur Devriendt

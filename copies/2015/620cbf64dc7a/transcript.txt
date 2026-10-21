@@ -1,0 +1,956 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:00] Buongiorno a tutti e benvenuti al questo workshop cura le tue fonti come potenziare la redazione
+[00:08] con l'uso di GlobalX. Io mi presento sono Marco Caramari del Centro Hermes per la trasparenza e i
+[00:15] diritti digitali sono ingegnere quindi presumendo che molti di voi siano giornalisti sono assolutamente
+[00:22] incompetente sul vostro mestiere quindi sono stato scelto per introdurre la presentazione. Cosa
+[00:28] parliamo di fare un workshop il più possibile operativo in cui abbiamo la pretesa di avere
+[00:36] affrontato il risolto una parte di un problema che un giornalista può avere. In un processo di
+[00:42] whistleblowing pensato anche da un punto di vista storico pensiamo al watergate ma anche in un
+[00:47] certo senso anche all'affaire Snowden-Griffel ci sono tutta una serie di fasi d'attraversario
+[00:53] per il giornalista di inchiesta che vuole che una fonte lo contatti e che vuole proteggere poi
+[00:59] la sua fonte. Questo lavoro di solito viene pensato in casi eccezionali come appunto i due
+[01:08] che ho nominato ma in realtà è un lavoro molto più frequente su casi meno importanti più
+[01:13] piccoli e più numerosi e lo potremmo paragonare alla fine a un lavoro redazionale se l'impegno
+[01:21] del giornalista e di un giornalismo di inchiesta. All'interno di questo processo di whistleblowing
+[01:28] in cui una persona che ha qualcosa da dire e anche paura di dirlo di solito fa lo sforzo di trovare
+[01:36] il modo di contattare un receiver, un ricevamente che possa manipolare questa informazione nella
+[01:44] maniera che lui vuole e in questo processo ci sono tutta una serie di step critici,
+[01:50] difficili da superare con alta barriera di ingresso e potenzialmente rischiosi che sono
+[01:56] tipicamente il primo, cioè il contatto fra, il primo contatto fra fonte diciamo giornalista
+[02:05] senza perdere troppo di generalità. Ecco questo step viene normalmente con mezzi
+[02:10] tradizionali, la telefonata, l'incontro da qualche parte eccetera eccetera, ma prevede
+[02:16] sicuramente una prima fase di fiducia ipotizzata, sperata, cioè la fonte si deve fidare di aver
+[02:24] trovato la persona giusta, se non l'ha trovata ci sono stati casi che non sto qui a innumerare
+[02:29] in cui questo è successo, le cose vanno a finire piuttosto male di solito per la fonte.
+[02:34] Nello stesso affaire Snowden Greenwald, il contatto iniziale di Snowden,
+[02:40] chi di voi ha seguito un po' la storia o anche soltanto l'intervista diieri, ha avuto
+[02:45] dei seri problemi, ha avvenuto un anno dopo proprio perché Snowden non riusciva a trovare
+[02:50] un modo affidabile, affidabile a livello in cui lui voleva che fosse, per contattare Greenwald,
+[02:56] infatti c'è stata una seconda interazione che può andare da buon fine, il che dimostra
+[03:01] che effettivamente questo step è uno step importante. Allora da ingegneri informatici
+[03:08] eccetera, ne abbiamo pensato ma c'è un modo per facilitare molto questo primo
+[03:14] step, addirittura per fornire uno strumento standard che permetta in positivo al giornalista
+[03:20] di inchiesta, alla redazione del giornale, all'amministrazione pubblica che vuole ottenere
+[03:25] le segnalazioni dai suoi dipendenti, di mal-practice che vengono al proprio interno,
+[03:30] uno strumento molto generale insomma che permetta di facilitare alla fonte l'uscire,
+[03:35] non ha lo scoperto ovviamente, ma il fare uscire le informazioni che vuole nella
+[03:40] direzione giusta e la risposta è sì, incredibilmente abbiamo trovato un modo,
+[03:45] abbiamo creato un software, niente più di un software libero come Linux, piuttosto che OpenOffice
+[03:52] del genere, che risolve questo problema, lo risolve grazie all'aiuto dell'informatica della
+[03:59] rete, lo risolve grazie all'aiuto del software libero, lo risolve a un livello di sicurezza
+[04:04] di confidenzialità molto alto, magari poi potremmo parlare separatamente, però questo
+[04:11] seminario non è rivolto a spiegarvi che cosa è questo oggetto, non è questo lo scopo, è rivolto
+[04:17] a spiegarvi come si può integrare questo oggetto in un processo di whistleblowing o in un lavoro
+[04:22] redazionale, in cose che sapete sicuramente molto meglio di me e magari solicitare
+[04:27] un dibattito, qui tra noi ci sono competenze di diverso tipo, saremo anche in grado di
+[04:31] rispondere veramente a molte domande, per cui non vi dirò molto di più se non è possibile
+[04:37] creare una specie di pagina web che non si sa bene dove e che si può raggiungere in forma
+[04:42] completamente anonima grazie all'usilio di un altro software resistente che si chiama
+[04:47] Torra, che forse qualcuno di voi ha sentito nominare, e che questo permette di creare
+[04:52] una specie di forma che whistleblowing sa di poter raggiungere senza essere rintracciato,
+[04:58] che lo stesso giornalista, se è una terza persona rispetto a chi ha fatto il form, può
+[05:03] raggiungere con un grado di sicurezza molto notevole ma che addirittura permette di instaurarsi
+[05:09] di un colloquio, una specie di chat molto lenta, fra giornalista e whistleblowing ancora a un
+[05:17] livello di irrintracciabilità altissimo, e questo è un afficio molto importante.
+[05:22] Diciamo c'è un'interattività che permette l'utilizzo anche di questo step per raggiungere
+[05:29] una fiducia fra il fonte di giornalista che all'inizio ovviamente può completamente mancare.
+[05:34] Bisegna allo che stasera alle 18, per chi se lo forse è perso c'è una replica all'hotel
+[05:42] brufani dal sala priori, in lingua inglese, di un seminario che c'è già stato che
+[05:48] spiega un po' più approfonditamente i dettagli del software, quindi chi uscisse da questa porta
+[05:54] fra una retta con l'idea è una cosa interessante ma non ho capito tutta una serie di cose,
+[05:59] può farsi un giro stasera alle 18 in sala priori. Vi ringrazio.
+[06:04] Grazie a te, presento di speaker che abbiamo i due legali del centro Hermes,
+[06:11] Giambattista Gallus e Francesco Micozzi, Marco Caramari, Claudio Agosti, Michele Frettolli,
+[06:16] e Alessandro Dolfi, ed ora è arrivato Fabio Pietro Santi, a quale c'è una sedia che lo aspetta.
+[06:24] Benvenuto. Questo infatti è il segno che il workshop potrebbe essere molto interattivo,
+[06:33] perché in modo con cui immagiamo questo workshop può essere in due modalità.
+[06:41] La prima è che, basate sull'introduzione di Marco, se qualcuno di voi lavora in
+[06:46] una newsroom o lavora comunque ha contatto con delle fonti e sente che c'è un tema specifico su
+[06:53] quale vorrebbe cari un'iniziativa di whistleblowing che possa in qualche modo potenziare la sua
+[06:57] newsroom con questa nuova sorgente di informazioni. Possiamo utilizzare il caso che porterà come
+[07:07] caso d'esempio e da lì dibattiamo e spieghiamo quali sono i percorsi necessari per portare
+[07:12] all'accomplimento. Però questo richiede un vostro input, quindi se avete qualche idea di questo tipo
+[07:17] potete sapere, perché è importante per il workshop stesso. Altrimenti se non ci sono
+[07:23] stimoli da pubblico possiamo renderlo più alla lezione frontale in cui con una presentazione
+[07:30] già pronta passiamo sull'iniziativa esistente così da farvi vedere i vari tipi di utilizzo che
+[07:36] possono esistere. Quindi la parola a voi se avete già dubbio sinceramente? Siamo ben capito.
+[07:54] Noi ci siamo contattati via mail prima del workshop per segnalare appunto come integrare
+[08:06] all'interno di una piattaforma un cms, lo strumento, il tool. Ok non ricordo sinceramente
+[08:13] le mail, però va bene. In questo senso che chiedevate un'interazione? Sì nel senso che
+[08:19] probabilmente lei ha un concetto specifico ad esempio all'Wired Next Festival in cui si parlava
+[08:27] di trasparenza il gruppo di giornalismo investigativo IRP ha proposto ma si potrebbe fare un nodo di
+[08:33] trasparenza verso Expo e da lì si è creato un brainstorming su quello che poi è diventato
+[08:38] ExpoLix. Per fare ExpoLix è stato necessario un po' di mesi con il studio di una campagna di
+[08:44] crowdfunding, con la comunicazione che è stata analizzata, la polisitoriale da definire. Questi
+[08:50] elementi sono quelli che potremmo dibattere la prossima ora però dovreste condividere l'idea se
+[08:57] possibile. Sì, così rimanendo un po' sul piano generale per vedere se la cosa è interessante anche
+[09:11] per altre persone. Ripeto, partendo da una piattaforma diffusa come quella di WordPress
+[09:18] in che modo può essere integrato questo tool? Voi avete fatto riferimento a una
+[09:28] pagina esterna dentro la quale presumo la fonte può depositare ancora prima una pagina esterna
+[09:38] in cui contattare la fonte e come dire conoscersi e messaggiare, cercheri di capire bene se il
+[09:45] giornalista è quello giusto e se la fonte è attendibile e il passaggio successivo è quello
+[09:54] appunto di dare, di fornire un luogo entro cui depositare la documentazione e cominciare a
+[10:03] lavorare, dargli un contesto eccetera. Ora, se questo è questo di cui stiamo parlando,
+[10:12] ecco, il workshop fa luce su questi passaggi tenici? Per essere precisi quello di cui
+[10:23] hai parlato è quello che faremo questa sera. Il scopo del workshop di questa sera è giornalisti
+[10:29] singoli che avranno un link che si avranno includere nel loro blog su Word presso su blog
+[10:35] spot, potranno includerlo, la fonte cliccando su questo link avrà una finestra che lo porta
+[10:41] sulla piattaforma GlobalX che abbiamo messo a disposizione in modo sperimentale per
+[10:46] i festival di giornalismo ed è l'altro workshop chiamato Hermes Experiment.
+[10:51] Attanto una puntualizzazione, si parlava di livelli di sicurezza e confidenzialità molto
+[10:57] alti. La nostra iniziativa può essere implementata con diversi livelli di facilità sia per chi
+[11:03] implementa sia per la fonte che dovrà accedere alla cosa e anche diversi livelli di sicurezza,
+[11:09] quello di cui stiamo parlando, abbiamo parlato adesso è il livello più semplice,
+[11:13] voi mettete un bottone sulla vostra pagina Word presso e dite a cara fonte se hai qualcosa da
+[11:19] dire di qualche porcheria che sei, clicca qui e sarai anonimo e potrai dire quello che ti parli
+[11:25] e questo è vero a un certo livello perché non esiste l'assoluto esistono diversi livelli di
+[11:30] sicurezza e confidenzialità. In realtà l'uso più sicuro che si può fare è che la pagina
+[11:36] contiene delle istruzioni da seguire e le istruzioni sono scaricati da questo link,
+[11:42] questa cartellina zippata, un zippala su una macchina che non sia sotto il controllo
+[11:48] dell'NSA, clicca sul link che c'è nella directorie, ti si apre uno strano browser, scrivi questa strana
+[11:56] riga di testo che somiglia veramente a un URL, ma finisce specia in .onion e ti troverai in maniera
+[12:04] estremamente sicura sulla mia pagina sicura dove mi potrai contattare e questo è il livello più
+[12:12] sicuro ma un po' più macchinoso e meno interattivo, meno immediato di implementare la cosa, il software
+[12:19] esattamente lo stesso, l'interazione funziona nello stesso modo, la sicurezza del momento di ingresso
+[12:25] della fonte nel processo che è il momento probabilmente che alla barriera più alta e che
+[12:32] blocca e impedisce memoria il processo di whistleblowing è proprio questo, quindi una fonte impreparata ma
+[12:40] comunque che vogliamo tutelare preferirà il bottone da cliccare, lo snowden della situazione preferirà
+[12:46] molto dei struzioni per alto di 10 rig per contattare in maniera ancora più anonimo, ci sono poi modalità
+[12:54] ancora un pochino più paranoiche ma non è questo il contesto, magari appunto ne perdiamo stessere.
+[12:58] Sì sì, ci sono altre proposte o se avete in mente, mi interessava più possibile raccogliere
+[13:15] dal pubblico visto che abbiamo convocato anche i nostri avvocati, siccome uno dei dubbi tipici è
+[13:21] ma che gli schincorro se gesti scomateriale confidenziale, ma come faccio pubblicare e siccome
+[13:27] voliamo avere le risposte pronte al modo di disposizione, quindi appunto se avete mai pensato
+[13:35] ma che bello potrebbe essere ricevere dei leak ma che bello potrebbe essere gestire una fonte
+[13:40] confidenziale e vedere effettivamente se posso assorbare dei dati grezzi in notizia questo è
+[13:47] vostro momento. Ecco magari un background iniziale. Buongiorno, buongiorno a tutti, non sono già
+[14:03] stato presentato, sono Giovanni Battista Gallus, tra l'altro se volete approfondire non dico prima
+[14:10] la materia delle fonti confidenziali dei sequestri, diciamo, della confidenzialità della fonte,
+[14:20] questo pomeriggio ne parlerà il collega Francesco Paolo Micozzi alle tre. Abbiamo parlato di Global
+[14:31] X come possibilità di contatto e di dialogo con la fonte anonima, questo ovviamente non toglie che
+[14:40] voi sapete meglio di me che l'attività principale è la verifica della fonte. Qual è il grosso
+[14:49] valore aggiunto che è da Global X? Quello che diceva Marco, non solo è una mailbox unilaterale ma
+[14:58] ha la possibilità di stabilire un dialogo con la fonte confidenziale ed è questo il notevole
+[15:04] vantaggio perché io a questo punto posso verificare la fonte chiedendo ulteriori informazioni quindi
+[15:12] prendo la notizia, la controllo da fonti terze, chi è ulteriori informazioni o comunque ricevo
+[15:19] ulteriori informazioni attraverso un sistema di dialogo confidenziale e a questo punto
+[15:25] posso ragionevolmente creare o comunque scrivere della notizia, ma il problema fondamentale è sempre
+[15:34] quello che è solo un tool ma la verifica della fonte fa parte della vostra attività professionale.
+[15:41] Questo pomeriggio poi appunto il collega come vi ho detto affronterà i profili giuridici di tutela
+[15:47] della fonte digitale quindi sotto questo profilo ci sono tutta un'altra serie di aspetti che
+[15:54] abbiamo trattato anche negli altri festival del giornalismo che possono essere anche molto molto
+[16:00] interessanti quindi questo secondo me è uno degli uno degli aspetti più rilevanti nell'ambito
+[16:08] dell'attivi dell'uso di GlobalX per l'attività giornalistica anzi io personalmente penso che
+[16:13] GlobalX come tool sia abbia la sua migliore applicazione proprio per il dialogo con le
+[16:21] fonti confidenziali. Semblettamente qualcosa e voglio dire come giornalista io mi occupo di
+[16:42] sicurezza informatica se ho una fonte che mi mette a disposizione dei dati delle immagini dei log
+[16:52] quello che volete e appunto deposita il materiale su questo su questa cassetta sicura io come
+[17:03] giornalista quali responsabilità a quali responsabilità a quali responsabilità civili
+[17:10] penali vado incontro se maneggio del materiale che per la per la legge italiana non posso non
+[17:20] posso maneggiare liberamente faccio esempi ma grazie. Allora ci sono dei materiali che possono
+[17:30] essere sicuramente non maneggiabili di per sé per il loro oggetto poi bisogna comunque verificare
+[17:38] come diceva il collega sempre la la fonte o quantomeno la verificità del documento dopo
+[17:47] di che se via un interesse pubblico anche alla diffusione di materiale che comunque anche
+[17:52] coperto da un segreto il giornalista ha sempre quella garanzia che gli viene che gli deriva
+[17:59] dall'articolo 10 della convenzione europea i diritti dell'uomo dall'articolo 21 della
+[18:02] costituzione e insomma da tutte le norme del nostro ordinamento che gli consentono di esprimersi e
+[18:09] quindi di di di esercitare tranquillamente la sua professione poi bisogna vedere caso
+[18:16] specifico per caso specifico che cosa succede in realtà ma in genere anche un'ultima
+[18:23] casazione del luglio dell'anno scorso ha espressamente detto voglio prendere proprio questa questa
+[18:32] casazione che dice se il giornalista dunque agisce doable rispetto delle norme di ontologiche e
+[18:39] fornisce informazioni di interesse generale quindi c'e ci deve essere un interesse generale
+[18:44] alla conoscenza di quelli informazione poniamo il fatto qualcuno che ti riferì una porcata
+[18:51] diciamo così, che si è verificata a livello della pubblica amministrazione, cioè un
+[18:56] illecito che vi è oggettivamente un interesse del pubblico a conoscere che vi sia
+[19:04] stata quell'attu illecito all'interno della pubblica amministrazione, è quello
+[19:09] che si vorrebbe, sono quei documenti ai quali si vorrebbe poter
+[19:14] accedere mediante questo foia di cui si parla tanto, e dice la
+[19:21] Cassazione, riepiro così, il giornalista agisce nel rispetto delle norme
+[19:25] ideontologiche e fornisce informazioni di interesse generale, il suo diritto alla
+[19:28] libertà di espressione non può subire limitazioni, quando anche la sua fonte
+[19:33] abbia violato un obbligo di segretezza, consegnandogli o trasmettendogli
+[19:37] documenti riservati o coperti da segreto. Quindi la Cassazione dice, è vero che
+[19:43] quel documento è segreto, ma una volta che arriva nelle mani di un
+[19:46] giornalista, qua l'unico profilo interpretativo che ci si potrebbe
+[19:53] porre è giornalista quale? Un giornalista pubblicista, un giornalista
+[20:00] professionista, perché tendenzialmente l'ultima giudice prudenza propende
+[20:07] verso una applicazione generale dei principi costituzionali consentendo
+[20:12] queste garanzie anche al giornalista pubblicista, anche se in realtà
+[20:17] determinate norme nel nostro ordinamento, nel codice di procedura appenale,
+[20:21] riservano al giornalista professionista scritto all'albo determinate garanzie.
+[20:26] Quindi bisogna in ogni caso verificare caso per caso, scusate la ripetizione,
+[20:32] se è il caso.
+[20:37] Prova una domanda? Se è necessario comunque se, pubblicando queste
+[20:44] informazioni, si esercita correttamente un diritto di cronaca, quindi seguendo
+[20:51] tutti i tre famosi canoni che ha individuato la Corte di Cassazione
+[20:57] nel corso di questi anni sull'interesse pubblico, sulla
+[21:04] continenza dell'informazione che viene fornita, eccetera eccetera.
+[21:10] Chiedo con fermato dal Francesco, da tutto questo resta fuori la ampia e
+[21:15] qualche volta risposta categoria dei blogger che non sono neanche giornalisti
+[21:19] pubblicisti. Nello specifico della sua domanda, se questi file intanto devono
+[21:25] essere protetti a livello di confidenzialità pratica, informatica,
+[21:31] l'oggetto ha dei meccanismi per cui questi file in realtà quando arriva non
+[21:36] sono trittografati, li puor sono reggio e soltanto le fonti, vengono
+[21:40] prancellati automaticamente, ma sono dettagli queste del secondo ordine che
+[21:44] di cui parleremo in altre sedi. Ci sono altre domande?
+[21:52] Sennò Fabio ci mostra in 25 minuti rapidamente una presentazione della
+[21:58] tecnologia, degli scopi e di tutte le varie tipologie di
+[22:02] iniziative che sono nati, visto che è un software flessibile che può avere
+[22:06] utilizzatori che sono singole situazioni, singole persone, gruppi aggregati e vedrete.
+[22:14] Serà vera il video per piacere?
+[22:21] Visto lo scopo del workshop, andrò a velocità, dal tempo è risorsa limitata,
+[22:38] andrò a velocità, sparerò molto velocemente per farvi vedere la
+[22:43] panoramica di quasi tutte, dico quasi tutte perché non ce l'abbiamo
+[22:46] su questa presentazione specifica, tutte le presentazioni, tutte le iniziative
+[22:50] e i globballics che danno un po' un'idea di come possono essere utilizzate le
+[22:56] tecnologie di digital whistleblowing in modo anche tra loro molto diversi e
+[22:59] qual è il percorso mentale che va fatto quando si vuole pianificare un
+[23:03] iniziativa di asterisco-lix, quindi io voglio fare asterisco-lix
+[23:07] dove per asterisco è la mia testata piuttosto che un tema specifico su
+[23:12] un problema sociale che riguarda la mia città o comunque all'interno del mio
+[23:16] paese posso avviare un'iniziativa. Allora io voglio andare veramente molto
+[23:21] veloce perché qui se non facciamo una grandissima discussione, no no, ma siccome
+[23:27] siamo specificamente orientati sul workshop, questo è un esempio
+[23:33] veramente veloce di quali tante iniziative di whistleblowing ci sono
+[23:39] che utilizzano tecnologie digitali, non necessariamente globballics, cioè
+[23:42] ci sono siti di società civile, alcuni fra i più noti ovviamente abbiamo
+[23:45] wikileaks, piuttosto che gruppi di ONG come wildlicks, pistalsca, filtra la, ci
+[23:52] sono organizzazioni, ci sono dei major media che hanno iniziato ad utilizzare
+[23:56] strumenti di whistleblowing digitale per poter dare un canale di report
+[23:59] in sicuro alle proprie fonti, questo con la consapevolezza che chiunque ha
+[24:03] un media sa che è spesso dal contact form piuttosto che via email o addirittura
+[24:09] tramite la messaggistica facebook di facebook page, arrivano delle informazioni
+[24:12] e dicono perché l'hai mandato tramite questo mezzo e quindi indirizzarli in
+[24:18] modo appropriato diventa molto importante. Gruppi di giornalismo inchiesta
+[24:23] quindi cosi detto non profit giornalismo e organizzazioni che fanno
+[24:26] attivismo anticorruzione o che si occupano specificatamente in modo
+[24:30] strutturato di termini dell'anticorruzione. Vediamo brevemente a chi sta
+[24:33] utilizzando oggi globballics, dei gruppi di giornalismo investigativo ci
+[24:38] sono interessanti sia esperienze sicuramente Irpilix, gruppo italiano di
+[24:42] giornalismo d'inchiesta che ha avviato una sua digital dropbox come parte
+[24:47] integrante del suo sito quindi qual è lo scopo? Fare sì che se una fonte
+[24:51] approccia noi giornalisti d'inchiesta e vuole dirci qualche cosa sui temi che
+[24:56] noi trattiamo tipicamente e ha un percorso con delle informazioni
+[25:02] organizzate e strutturate che mi spiega come farlo in modo sicuro senza
+[25:07] lasciare tracce spacendosi che anche io gruppo Irpi non possa essere
+[25:13] messo in grado se costretto con la forza o con la legge a dover dichiarare qual è la
+[25:19] fonte quindi fornirò un percorso di comunicazione sicuro tra l'altro
+[25:22] Irpilix ha tirato con un bel paio di inchieste su corruzioni appalti
+[25:25] pubblici dell'ANAS abbastanza interessanti. Atlazzo in Ungheria è
+[25:31] l'equivalente diciamo dell'affiliato dell'ICAJ, gruppo di
+[25:35] giornalismo d'inchiesta indipendente e per un nella Serbia è un altro media
+[25:39] indipendente che utilizza GlobalX come percorso come canale preferenziale per
+[25:46] fare solicitation cioè richiedere esplicitamente di mandare informazioni
+[25:50] in forma anonima. Pistalska è un gruppo di attivismo anticorruzione in Serbia
+[25:54] non c'entra niente con il mondo del giornalismo in modo diretto lo fanno
+[25:58] attivismo anticorruzione, sollecitano l'invio di informazioni su atti di
+[26:02] corruzione da parte di pubblico office al del governo serbo siccome hanno un
+[26:07] foia in Serbia anche se noi in Italia non ce l'abbiamo e con questo possono
+[26:11] verificare se le informazioni fanno del fact checking rispetto a quello che è
+[26:15] stato detto da Luistel Blower che potrebbe mandare informazioni del tutto
+[26:19] falsi con uno scopo non necessariamente nobile e poi lo riportano
+[26:23] l'autorità se l'autorità non fanno niente vanno dai media, questo è il loro
+[26:26] modo di usare il digital Luistel Blower per fare attivismo
+[26:29] anticorruzione. El Jost in Islanda ha fatto dopo che c'è stato il Collapse
+[26:34] finanziario dell'Islanda ha fatto una campagna di raccolta pubblica di
+[26:38] informazioni su date e dettaglie finanziari sul governo islandese e
+[26:43] riuscita a raccogliere pubblicare anche diciamo una grande quantità di
+[26:48] informazioni che hanno tirato fuori degli scoop sul coinvolgimento dell'ex
+[26:51] ministro delle finanze e alcuni conflitti di interesse che aveva. L'iniziativa
+[26:55] più bella sicuramente è quella di Publix o l'iniziativa di tipo Publix like in cui
+[27:00] più media che magari sono fra loro in competizione sul mercato perché c'è un
+[27:05] mercato dei media nazionali online carta stampata e locali si mettono assieme
+[27:12] per avviare una unica iniziativa di digital Luistel Blower che possono
+[27:21] selezionare non post quando vanno a fare una segnalazione in forma anonima possono
+[27:27] inviarla non a tutti i media tutti 42 media sarebbe spamming ma devono selezionarne
+[27:33] due o tre in questo caso tre adesso forse sono stati portati a sette questo cosa
+[27:37] porta a portare un implicito meccanismo su base reputazionale io o
+[27:40] Luistel Blower ho questo marketplace di media tramite cui posso mandare
+[27:44] un'informazione in forma anonima sui temi di imal practice che mi
+[27:47] interessano e scelgo quelli che secondo me sono più appropriati o hanno
+[27:51] maggiore reputazione o sono più bravi nel lavorare su questo tipo di tematiche
+[27:56] l'iniziativa di pop-up lix è un'iniziativa veramente veramente molto potente
+[28:00] basata su global lix adesso è stato esportato come modello anche in
+[28:04] africa con l'iniziativa afri lix di cui si ha parlato esattamente mezz'ora fa
+[28:08] nel panel sul digital Luistel Blower in nel mondo francofono con
+[28:13] source seur che ha tra l'altro come partner il primo big media c'è le
+[28:17] mondi per la francia c'è la libre belgic per il belgio e adesso si starà si
+[28:23] espanderà anche nell'area della svizzera francese del marocco e in messico
+[28:31] mexico lix è lanciato un mese e mezzo fa a sei partner sei media partner e in
+[28:38] spagna con filtra la che hanno 5 media partner che parteciano a questa
+[28:44] iniziativa tutte queste sono iniziative di leaking una sorta di chiamiamolo
+[28:48] wikileaks nazionale come consorzio di più media che faccia da canale per l'invio
+[28:53] di segnalazione informa non rimada parte di fonti che toccano temi di pubblico
+[28:57] interesse e quando parliamo di whistleblower in solicitation cioè come
+[29:01] faccia a far sapere una fonte che io esisto e mi interessa di questo
+[29:05] argomento e magari posso mandare delle informazioni e quel è l'ambito
+[29:08] della whistleblower in solicitation questo è come è arrivato a farlo
+[29:11] publix sui partner che parteciano la carta stampata direttamente sul talloncino
+[29:15] del giornale se sai qualcosa su temi diciamo di interesse pubblico manda
+[29:19] c'è l'itlamità publix quando facciamo brainstorming con i ragazzi di
+[29:24] erpi di wired per il progetto expo lix ci avevamo detto ma un bel volantiraggio
+[29:28] davanti ai uffici di expo ai uffici amministrativi potrebbe essere un buon
+[29:32] modo per raccogliere whistleblower quindi ogni iniziativa ha il suo
+[29:36] metodo più appropriato poi per fare whistleblower e per fare la whistleblower in
+[29:41] solicitation la quantità di informazioni che vengono ricevute da una
+[29:44] conunca iniziativa di digitale whistleblower è direttamente proporzionale
+[29:47] alla quantità di campaigning che viene fatto viene da sé che ogni iniziativa
+[29:51] di whistleblower che è multistegolder cioè ha più partner è in grado di
+[29:55] fare una maggiore quantità di advocacy e comunicazione
+[29:59] mafia lix è stato un po sicuramente un progetto interessante che oggi devo
+[30:03] ammette è stato dichiarato una purtroppo un fallimento perché è un
+[30:08] iniziativa di attivismo antimatica che era stata avviata da un ragazzo che noi non
+[30:11] conosciamo personalmente che abbiamo conosciuto in forma onima tramite
+[30:14] chat e email nel dare una mano ecco questo è una rappresentazione un bit di
+[30:20] esperienza che abbiamo imparato nell'ultimo anno per fare un iniziativa
+[30:23] di digitale whistleblower quindi dire dire pubblicamente se sapete
+[30:28] qualcosa su queste tematiche con parlate con noi che ce ne occupiamo
+[30:32] e facciamo questa azione bisogna metterci la faccia bisogna tirare fuori un
+[30:37] po le palle e dire io mi occuperò di questo tema e questo significa magari
+[30:42] fare anche challenging front facing rispetto a un'organizzazione o rispetto
+[30:46] che ne so a un'agenzia pubblica o a politici di una certaria e mafia lix non
+[30:51] sarei sentita di metterci la faccia e quindi fonti hanno detto ma chi c'è
+[30:56] dietro qua e lui diceva ma se io ci metto la faccia poi mi sparano e ho
+[31:00] capito però anche una fonte che magari è un insight mob della di un'organizzazione
+[31:04] mafiosa dice ma chi sei tu è morale della favola questo doppio livello di
+[31:09] anonimato contro anonimato ha fatto sì che questa iniziativa non è andata a buon
+[31:12] fine e adesso sarà ci c'è una diciamo un progetto in itinere per
+[31:17] avere tre quattro gruppi di giornalismo di inchiesta di diversi paesi che assieme
+[31:22] rilanceranno mafia lix 2.0 con un approccio diverso diciamo mettendo
+[31:26] ci la faccia wild lix è una bella iniziativa fatta dalla avviata
+[31:31] inizialmente dalla elefant action league che ha coinvolto poi altre quattro
+[31:35] organizzazioni non governative che si occorrono di temi di reati contro la
+[31:39] fa una selvatica trafigo laborio uccisione illegale di elefanti riloceronti
+[31:43] e chi più ne ha più ne metta in questo ambito in questo ambito specifico
+[31:47] questa è anche questa è un'iniziativa multistakeholder wild lix ha avuto
+[31:52] anche la prima pagina sul sito del national geografic non solo stampato
+[31:56] sarebbe stato bellissimo però è una dimostrazione di come c'è un tema
+[32:00] verticale che sono i wildlife crimes è una serie di soggetti che se ne
+[32:05] interessano lavorando assieme abbiano un'iniziativa e fanno la whistle
+[32:11] blowing solicitation dicono mandateci informazione a riguardo che ne facciamo
+[32:14] poi giornalismo di inchiesta o andiamo direttamente dalle autorità al
+[32:18] posto vostro in venezuela infodio ha fatto un anticorruption blog questo è un
+[32:24] giornalista indipendente che si occorre i temi di corruzione aveva un blog ha
+[32:29] detto però come potrei fare ad avere maggiori lid investigative si è montato
+[32:34] su un club alix ha iniziato a ricevere anche documenti che provavano
+[32:39] contratti atti di corruzione socio d'offshore transazioni finanziarie
+[32:43] li ha iniziato a pubblicare possiamo dire che il risultato positivo
+[32:46] negativo quanto meno ha avuto un impatto è che su movistar l'operatore
+[32:50] nazionale in venezuela è censurata e non raggiungibile a venezuela da gennaio
+[32:54] dell'anno scorso quanto meno significa che ha scomodato qualcuno
+[32:58] iniziativa che ci ha sorpreso abbia detto a me ma questi vedi che stanno
+[33:01] facendo è stato il partito pirata della città di salisburgo che ha avviato
+[33:06] un'iniziativa di leaking dicendo se voi siete dipendenti di aziende
+[33:12] pubbliche o aziende private a controllo pubblico che riguardano la città di
+[33:17] salisburgo e conoscete di fattacci mandateci le noi che poi noi facciamo
+[33:22] pressione magari in consiglio comunale o creiamo su una campagna per lavoro a
+[33:25] c'è attorno quindi c'è una chiara definizione di qual è l'informazione
+[33:29] che sto cercando e qual è il tipo di azione che andrò a fare che è una
+[33:33] delle cose qui ci avevamo un attimo non tu duscusate per la presentazione
+[33:36] una giornata in italia abbiamo sicuramente denio dimensione tra l'
+[33:41] iniziativa aller tanti corruzione di trasparenza internazional italia che di
+[33:45] cui domani mattina le dieci facciamo una presentazione di 20 minuti c'è di un
+[33:50] ora su vari temi però di 20 minuti specificamente su alak con l'executive
+[33:54] director di trasparenza internazional itali che sostanzialmente raccolgono
+[33:58] informazioni su temi di corruzione assistono il whistleblower segnalante
+[34:02] di atti di corruzione nella pubblica amministrazione italiana quindi hanno
+[34:06] un pelazzo così per lavorare su questi temi come ong e dopo di che li assistono
+[34:12] fino a arrivare da responsabile anti corruzione ho accompagnare un esposto in
+[34:17] procura al posto del whistleblower senza fare sapere chi è alle volte non sanno
+[34:21] lo sanno neanche loro chi è quindi è un'iniziativa di attivismo anti
+[34:24] corruzione fatta con uno scopo ben preciso io normalmente dico sempre
+[34:29] quali sono diciamo gli obiettivi quali sono le idee di social change che
+[34:34] possono nascere a riguardo c'è l'abbiamo la eccola qua ora ci arriviamo
+[34:40] abbiamo fatto un workshop ad amametti in tunisia con degli attivisti tunisini e
+[34:47] alla fine ci siamo detti va bene ok abbiamo più o meno capito che questo
+[34:50] digi dal whistleblower si può usare per un sacco di motivi diversi è uno
+[34:54] strumento tutto sommato abbastanza potente volendo anche rischioso per
+[34:57] chi abbia un'iniziativa non solo per il whistleblower quali sono le idee che
+[35:01] possono dire in mente per iniziative di pubblico interesse e queste sono state
+[35:05] alcune di quelle che abbiamo che abbiamo raggiunto che abbiamo raccolto per esempio
+[35:10] c'era charity leaks dicevano facciamo un'iniziativa sulle charity che operano
+[35:13] qui in tunisia che dovrebbero fare supporto umanitario ma che in realtà si
+[35:17] imbosca nei soldi perché date centolire che arrivano dall'america o dall'europa
+[35:20] 70 rimangono in europe 30 arrivano in tunisia era un tema molto
+[35:24] interessante cioè perché non facciamo l'exite che si occupa della
+[35:28] corruzione della polizia in cui qui in tunisia e uno su il settore medico quindi
+[35:37] su l'ambito delle malpractice nell'ambito ospedaliero della sanità pubblica e
+[35:42] beh questa era un anno e mezzo fa perché non facciamo giad l'ex qui in tunisia
+[35:47] che potrebbero esserci dei problemi a riguardo direi problemi che sono state
+[35:51] abbastanza evidenti piuttosto di recente e queste sono tutte idee che
+[35:56] nascono pensando a un problema sociale che magari ci sta a cuore e su cui
+[36:00] vogliamo andare a lavorare tramite digita lui sta il bloc siccome il giornalismo
+[36:04] nell'accezione più pura moderna o se vogliamo occidentale del termine non
+[36:08] dovrebbe essere vendere articoli ma dovrebbe essere quanto meno lavorare a
+[36:13] fare democra sempowerment l'ambito dello scopo di pubblico interesse del
+[36:19] giornalismo dovrebbe collimare ora vediamo brevemente perché arriviamo
+[36:23] a quello che è il percorso che è importante conoscere noi dicevamo spesso
+[36:27] e volentieri ci scrivono a info et global l'ex dicendo vorremmo avviare bla bla
+[36:32] l'ex che è figata dareci una mano o vogliamo fare questo noi abbiamo imparato
+[36:38] con il tempo che tante iniziative sono destinati al fallimento fin dall'inizio
+[36:42] e all'interno di questo percorso nell'aiutare le varie iniziative ci siamo
+[36:46] abbiamo fatto un minimo diciamo di abbiamo capito quali sono i punti di
+[36:50] forza e punti di debolezza e quindi accompagniamo sempre chiunque voglia
+[36:56] avviare un'iniziativa di digital whistle blowing attraverso un piccolo percorso per
+[37:00] fare chiamiamolo un self assessment dire ma quello che voglio fare lo posso fare
+[37:05] effettivamente ma può funzionare perché ci sono iniziative magari sono
+[37:09] ottime idee magari hanno anche un brand accattivante una cosa fichissima
+[37:13] però non possono funzionare vediamo praticamente come si può avviare
+[37:16] un'iniziativa di whistle blowing prima di tutto è quale scopo vuoi raggiungere
+[37:20] perché non dici va beh faccio iniziativa di whistle blowing faccio bla bla l'ex perché
+[37:24] ormai iniziativa di whistle blowing è sempre qualche cosa l'ex perché il
+[37:28] branding di wikileaks comunque ha sbaraiato tutti e qual è lo scopo che
+[37:33] informa effettivamente cioè qual è l'obiettivo dell'avviare un'iniziativa
+[37:37] di whistle blowing per un media che fa anche giornalismo di inchiesta in
+[37:41] modo generale può essere avere delle investigative lead su cui
+[37:44] lavorare può essere uno scopo ma se io sono un media che opera in una città
+[37:50] che so a perugia magari mi interessano delle investigative lead che
+[37:54] riguardano temi della città di perugia e quindi vado a definire circostanziare
+[37:58] il mio scopo e poi quale informazione voglio raccogliere perché se avvi
+[38:04] un'iniziativa di whistle blowing mi devo domandare ma io cosa cosa voglio
+[38:07] ricevere cioè nel mondo ideale io vorrei che si materializzasse whistle
+[38:11] blower in modo digitale anonimo e mi manda delle informazioni su cui io dico lo
+[38:16] scoop dell'anno quali sono queste informazioni che io voglio e come le
+[38:20] qualifico perché un'informazione dice un informanonimo informazione non
+[38:25] attendibile per definizione un'informazione che per quanto possa
+[38:28] essere circostanziata può essere stata creata d'arte falsificata per
+[38:33] degli scopi che noi non conosciamo e che sono nelle mani del whistle
+[38:36] blower o nei confronti al soggetto che ha falsificato quest'informazione
+[38:40] quindi qual'informazione cerco come faccio a qualificarla e verificarla e poi
+[38:45] realmente ma cosa posso aspettarmi di ricevere perché tante iniziative di l'ex
+[38:50] partono dal concetto dall'idea di voglio trovare il nuovo snowden calma
+[38:55] quella è l'eccezione non è la regola quindi lavorando su gli obiettivi e
+[39:02] le informazioni che si vogliono ottenere si riesce a passare diciamo
+[39:05] scendere un attimino sul pianeta terra con i piedi per terra e dire ok
+[39:09] vediamo cosa effettivamente io voglio fare voglio raggiungere e sempre con la
+[39:15] premessa importante che un'iniziativa di eccessivo successo dal punto di vista di
+[39:20] impatto mediatico può rilevarsi un fallimento enorme dal punto di vista
+[39:25] di whistle blowing faccio un esempio traspare internazional in grescia ha
+[39:28] fatto un'iniziativa di digi da whistle blowing sul contrasto alla
+[39:31] corruzione ora la grescia non è che se la passa bene anche noi ce la
+[39:35] passiamo troppo bene però lì le cose fanno particolarmente peggio sono
+[39:39] hanno avviato quindi un'iniziativa di anticorruzione con un form web dicendo
+[39:44] che diceva fate una segnalazione su temi di anticorruzione ha avuto un eco
+[39:48] importante è andato su tutti i giornali è andato al telegiornale nazionale 10.000
+[39:51] segnalazioni in un mese di testo libero gestiamo le 10.000 segnalazioni in
+[39:56] un mese di temi di anticorruzione dove per gestire una singola magari ci
+[40:00] vuole una settimana come cosa quindi vediamo che non necessariamente
+[40:03] tante segnalazioni significa un buon successo dell'iniziativa anzi è
+[40:08] meglio avere poche segnalazioni ben circostanziate che siano actionable
+[40:13] cioè su cui io ci posso fare delle azioni altra cosa è importante sempre
+[40:18] domandarsi è ma chi sono queste fonti o questi whistle blower che vogliono
+[40:22] mandarci informazioni torniamo al percorso dei prima l'iniziativa che
+[40:25] abbiamo fatto con anzi che hanno fatto perché noi ci mettiamo solo umilmente
+[40:29] la tecnologia earp e wired che ex polix e le fonti sono dipendenti di expo o
+[40:40] dipendenti o collaboratori di aziende che lavorano gli appalti di expo perfetto
+[40:46] abbiamo identificato chi sono i whistle blower quindi abbiamo modo di pensare
+[40:51] quali sono le motivazioni che possano portare questi soggetti che si
+[40:55] prendono comunque dei rischi a condividere con noi delle informazioni
+[40:58] in questo caso ex polix che riguardano corruzione o malprattis variegati nell'ambio
+[41:03] dei lavori di expo un altro ambito che noi spesso ci confrontiamo lavorando
+[41:07] soprattutto in contesti internazionali è che lingua parla il whistle blower
+[41:10] perché quando abbiamo fatto wildlife ci siamo comunque posti il problema ma se
+[41:16] noi comunque dobbiamo andare a lavorare anche su trafficanti di avorio che
+[41:20] stanno di base a un cong che è il centro del traffico internazionale
+[41:24] il legale di avorio è magari doremo arrivare da avere anche la piattaforma in
+[41:28] cinese e quindi qualcuno della vostra organizzazione deve pure parlare
+[41:32] cinese perché queste segnalazioni si deve leggere e significa che dovrebbe avere
+[41:35] un gruppo di giornalismo richiesta che vi supporta per quell'area cinese è
+[41:38] interessante non ci avevano pensato adesso ci sono lavorato tu e poi che
+[41:43] cosa ci faccio con ilic perché usiamo dire generalmente che un'iniziativa
+[41:48] di whistle blower è trasformare un'informazione in azione abbiamo
+[41:52] definito qual è l'informazione abbiamo identificato che sono i whistle blower ma
+[41:55] poi che ci facciamo con questa benedetta informazione che abbiamo ricevuto non è
+[42:00] che tutto il giornalismo d'inchiesta se trasparenza internazional Italia non fa
+[42:05] scoop fattivismo anticorruzione quindi cercherà di aiutare il whistle blower
+[42:10] nell'andare alla fine della fiera a parlare con il responsabile anticorruzione
+[42:15] a nullare un bando piuttosto che andare all'autorità e fare una vera
+[42:18] propria denuncia perché ci sono magari dei reati questo non è un ambito
+[42:23] specifico di giornalismo d'inchiesta ma anche se c'è giornalismo d'inchiesta e
+[42:26] io sono un gruppo di giornalismo d'inchiesta o sono magari un new media o
+[42:31] un gruppo un citizen giornalista e gruppo e ipotizio di fare un'inchiesta di
+[42:37] dare fuori uno scoop ma io ho la capacità poi di fare sì che questa
+[42:41] informazione abbia un impatto sulla società perché se lo pubblico
+[42:44] soltanto sul mio blog spot.com non è detto che io raggiungo l'impatto quindi
+[42:49] ho una strategia per rendere la mia azione efficace e sempre riguarda antellix la
+[42:55] domanda da porzi è come verifico l'informazione che ha ricevuto e ho le
+[43:01] risorse per verificarla questa informazione chi sono le persone di
+[43:05] cui ha bisogno per verificarla questa informazione perché perché se è un
+[43:09] informazione che riguarda per esempio tipo tipico tema di malpractice da
+[43:14] giornalismo d'inchiesta riguarda la corruzione a macro tema che poi tocca
+[43:18] tanti ambiti di illiceità e vabbè se io ricevo un appalto e non ne so di
+[43:23] diritto amministrativo è come lo giudico se quel contratto d'appalto che
+[43:28] magari mi hanno mandato come fa il dicendo guarda che beppe scamozza
+[43:31] se ha preso la stecca lavorando su quell'appalto di quel pezzo di autostrada
+[43:35] io devo avere al bordo del mio team una persona che ne sape al diritto amministrativo
+[43:40] e che possa giudicare o quanto meno aiutarmi nell'interpretare quel
+[43:44] contratto che ho ricevuto questi sono tutti i piccoli piccoli aspetti che noi
+[43:50] abbiamo imparato dagli errori diciamo e dalle problematiche che chi usa club
+[43:55] alix ci ha raccontato a noi e quindi cercare di strutturarsi è molto
+[44:00] importante a proposito di strutturazione io dico sempre bisogna pure guardarsi
+[44:05] guardarsi dentro la tutt'è sta di chi siamo come siamo organizzati e se abbiamo
+[44:10] tutte le competenze ma soprattutto le risorse e l'energia è dato che tante
+[44:14] iniziative ed il x partono proprio con una quantità di impegno effettivo
+[44:19] basso perché va facciamo questa cosa è una figata facciamola ma tra sei mesi
+[44:23] cosa stiamo ancora facendo e ci sono delle bellissime iniziative che ci
+[44:28] hanno magari contattato volevano fare un grande l'exite italiano sul male
+[44:34] pratica nell'università italiana fichissimo cioè un l'uikilix dell'università
+[44:40] italiana l'idea è bella poi però dialogando con chi la voleva fare si è
+[44:44] scoperto che era un singolo studente non ci voleva mettere la faccia non
+[44:47] aveva idea di che cosa fare però aveva preparato il sito installato
+[44:51] global x fatto il logo pronto a lanciare la campagna mediatica e
+[44:55] abbiamo detto scusa ma tu stai da solo non hai definito esattamente cosa cerchi
+[44:59] e che cosa ci vuoi fare ma di che stiamo a parlare scusate se sono un po'
+[45:03] terra a terra e quindi adesso questo ragazzo questa bella iniziativa sta
+[45:08] cercando di creare la stakeholder community cioè ha realizzato che fare
+[45:12] il uikilix dell'università in italia forse è una cosa un po' più
+[45:16] impegnativa che un lavoro fatto in weekend per mettere in piedi un
+[45:20] sito un software di tv star blowing e fare un bel logo e adesso si sta
+[45:24] organizzando noi proponiamo sempre diciamo questo tipo di di figure cioè di
+[45:31] farsi la propria tabellina ogni iniziativa che sia piccola media o grande
+[45:34] alla fine ha bisogno di un project manager che porta avanti l'iniziativa
+[45:38] quindi quanto meno tiene le fila e diciamo sta per ogni ruolo
+[45:42] quante quanti ogni ruolo quante ore a settimana ci dedicherà perché magari
+[45:50] c'è tanta attività volontaria oppure se è lavorativa all'interno di una
+[45:54] testata o altro da fare però dedico qualche una quantità di tempo definita
+[45:59] e chi se ne occupa chi fa la grafica e design del sito beh chi lo mette in piedi
+[46:03] il sito perché e chi si occupa delle campagne di comunicazione e
+[46:08] ad vocasi comunicazione perché ci siamo detti che se la whistleblow la
+[46:13] quantità di informazione che vengono ricevuto è direttamente proporzionale
+[46:16] alla quantità di comunicazione campagne che facciamo quindi c'è bisogno di
+[46:20] qualcuno che faccia il campagne chi verifierà le informazioni entranti
+[46:24] cioè i fact checker sostanzialmente in global x si chiama receiver la
+[46:29] figura che diceva le informazioni e come lo farà come deve essere composto
+[46:33] questo gruppo chi sono queste persone ponendoci tutte le domande che ci
+[46:37] siamo fatti prima e arrivando a questo piccolo schema organizzativo
+[46:40] magari ci siamo detti sai che c'è ci manca allora l'avvocato poi mi manca
+[46:45] l'amministratore di sistema perché c'è bisogno di un po di linux ma quanto
+[46:48] servirà due ore a settimana guarda c'ho l'amico super hacker che
+[46:52] bombe da una mano e a tenere a tenere in piedi i sistemi e dal punto di vista
+[46:57] legale c'abbiamo qualcuno che ci suggerisce prende ci evita magari di
+[47:01] fare di fare di fare di crearci noi dei problemi o di
+[47:07] creare noi dei problemi alla fonte e quindi abbiamo l'avvocato amico che ci dà
+[47:11] una mano a farci il legal counseling tutte queste figure sono tipiche figure che
+[47:17] magari possono essere anche con l'assade in due o tre persone se l'iniziativa è
+[47:21] piccola e ci sono competenze multidisciplinari però fare lo sforzo
+[47:25] razionale di definirle per definire tutto ciò che abbiamo detto prima l'
+[47:29] informazione come gestisco chi sono i whistleblower quale azione voglio
+[47:33] fare voglio fare e come sono organizzati il team che si occuperà di bla bla
+[47:38] lix è una cosa veramente veramente veramente importanti no abbiamo visto
+[47:43] che quando abbiamo lavorato supportato organizzazioni no profit che avevano già
+[47:49] un team che bene o male aveva questo tipo di competenza all'interno sono
+[47:52] emersi naturalmente nel mentre si discuteva dei progetti però se si
+[47:56] parte da zero si parte da solo una due persone che hanno una bella idea è
+[48:00] importante comunque guardarsi attorno a cercare di creare questa staggolder
+[48:03] community aspetto importante di solito non aspetto ovviamente bisogna coinvolgere
+[48:08] esperti legali giuristi è qual è il framework legale in cui ci si muove
+[48:14] perché quali sono i rischi e le responsabilità per i diversi soggetti
+[48:19] coinvolti i soggetti coinvolti possono essere un sacco c'è la fonte poi c'è
+[48:23] chi fa l'attività di giornalismo richiesta e chi mantiene le
+[48:27] infrastrutture informatiche registra il dominio di bla bla lix.org e magari il
+[48:33] sito dove vengono pubblicate le informazioni che è responsabilità e
+[48:38] chi magari archivia le informazioni perché meglio tenerle tutte quanti da una
+[48:43] parte in modo sicuro perché poi visto mai che ci sequestra il computer cioè
+[48:47] tutte le persone coinvolte i soggetti coinvolti possono avere delle
+[48:50] responsabilità non dice però va bene attenzione io conosco le responsabilità
+[48:54] tipiche del publishing e quindi i rischi di difamazione di intorno e poi sono
+[48:58] gli esperti giurici sono apposto beh dipende perché in Giappone banalmente
+[49:05] c'è una norma del 2013 entrata in vigore del 2014 adesso c'è il primo
+[49:11] lix site che cerca di fare challenging a questa norma che
+[49:14] sostanzialmente dice che se tu sei un giornalista e richiedi pubblicamente
+[49:18] informazioni che riguardano time di sicurezza nazionale se fai il
+[49:23] giornalista che si occupa di temi di sicurezza nazionale ovviamente le chiederai
+[49:28] pubblicamente no è il tuo mestiere beh puoi andare in galera fino a 5 anni e se
+[49:33] sei un whistleblower che non me ne frega niente dice il legislatore giapponese
+[49:38] di qual è la motivazione tira fuori in informazione che riguarda temi di
+[49:42] sicurezza nazionale non necessariamente classificate può andare in
+[49:45] galera per 10 anni ora vediamo in questo caso che il whistleblower in
+[49:49] quel contesto può avere responsabilità fino a 10 anni in galera ma il
+[49:52] giornalista che chiede informazioni cioè ora in Italia non è nominalmente
+[49:58] reato magari chiedere informazioni pubblico interesse poi penso che
+[50:02] nostri avvocati possono condividere che se io faccio la whistleblower in
+[50:07] solicitation dicendo dipendenti del comune di andate nel file server
+[50:11] rubate le informazioni e mandateci le forze forze qualche responsabilità
+[50:16] nella whistleblower in solicitation potrei avercela diverso è facciamo
+[50:20] un'iniziativa di trasparenza del comune di xx cittadini informati e
+[50:26] coscienziosi contribuite se sapete qualcosa ecco forse in questo caso
+[50:30] le responsabilità della componente di whistleblower in solicitation sono
+[50:34] diverse il risultato è probabilmente lo stesso questo è abbastanza
+[50:39] importante sempre dal punto di vista delle responsabilità e pensando al
+[50:44] works case se si sta raggiunga si sta lavorando come piccolo gruppetto
+[50:48] quindi un gruppo informale di persone di attivisti di giornalisti di
+[50:51] inchiesta o meno o di persone che panno veramente si di giornalismo o se si
+[50:57] sta lavorando con un entità legale quindi con un'associazione un'associazione
+[51:02] che può essere riconosciuto a meno ovvero se tiriamo fuori una notizia
+[51:08] che riguarda un politico un industriale che ha fatto cose non
+[51:12] particolarmente pulite e questo ci fa a causa ci chiede tre milioni di
+[51:17] euro di danni chi è il soggetto giuridicamente attaccato e come mi
+[51:24] difendo quindi pensare un attimino al works case può essere importante in
+[51:28] olanda pubblyx hanno creato una fondazione ad hoc certo sono 42 mili a
+[51:34] praticamente quasi tutti i mili d'olandesi e l'olanda fa esse nominalmente
+[51:37] ritenuto un po più civile dell'italia però lo hanno creato una
+[51:40] fondazione che è un'entità giuridica che è il soggetto responsabile per tutta
+[51:46] una serie di aspetti legali poi se il media pubblica ovviamente sono affari
+[51:50] suoi però la pubblyx fondation ha la sua personalità giuridica e in grado di
+[51:54] resistere alcuni attacchi legali la componente di whistleblow in solicitation
+[51:58] come dicevamo prima richiede che venga definita una media strategy se io mi
+[52:02] voglio occupare del pro anoso problema sociale dell'annacquamento
+[52:10] del latte che viene distribuito e prodotto localmente perché probabilmente
+[52:16] ci sono attivisti che si occupano di questo tema e io devo definire una
+[52:20] strategia media su chi sono i soggetti con chi con chi devo andare a cercare di
+[52:26] collaborare per raccogliere i produttori del latte per raccogliere le
+[52:32] associazioni organizzazioni magari di mamme che devono dare il latte ai bambini
+[52:36] e dicono magari voglio dare non quello anacquato se questo fosse il
+[52:39] problema sociale assolutamente inventato e chi sono le asci sono le
+[52:44] organizzazioni consumatori che monitorano i produttori a difesa dei
+[52:49] consumatori e guarda quelle tre persone si sono occupati dei problemi del latte
+[52:53] quindi quali sono i soggetti che sono interessati a questo stesso problema
+[52:58] che posso ingaggiare all'interno di una media strategy affinché non sono io
+[53:04] che me la canto e me la suono e dire mi mandate quelle informazioni che
+[53:07] siamo bravi e ce ne occuperemo e un altro aspetto molto importante è come
+[53:12] gestire le critiche non esiste un singolo sito di l'ex che non abbia avuto
+[53:18] pesanti critiche di ogni genere se io avvia un sito di whistleblowing che
+[53:22] tratta un certo tema una certa problematica diciamo che faccio perugia
+[53:26] l'ex gruppo di giornalisti di inchiesta insieme magari ad attivisti
+[53:31] che si ossidizza in giorni si occupano i temi di pubblico interesse sono
+[53:35] interessato a male pratiche dell'agenzia e del diciamo delle pubbliche agenzie che
+[53:41] sanno a perugia o delle azienda controllo pubblico che sanno a perugia
+[53:45] quando io avvierò il mio perugia l'ex ipotetico è ovvio che ci saranno
+[53:50] tante persone che diranno attenzione tu stai stai richiedendo informazioni
+[53:55] che possono riguardare pati molto particolarmente sensibili che possono
+[54:00] mandare in galera qualcuno che possono distuggere la carina di qualcuno ma tu
+[54:04] queste informazioni non è che poi le usi per fare dei ricatti perché un legittimo
+[54:10] dubbio e sospetto cioè se io dico mandare informazioni sull'operato del
+[54:14] sindaco e dell'aggiunta beh se io ce l'ho in mano e non opero proprio per
+[54:19] finalità di pubblico interesse è legittimo sospettare che io potrò
+[54:23] volere usare quelle informazioni di dire guarda qui che cosa ho adesso
+[54:27] fai questo io la pubblico di fatto si ha questo potere in mano e questo è uno dei
+[54:31] grandi diciamo anche temi e problemi etici del whistleblower
+[54:36] le critiche critiche di questo tipo arriveranno dovranno essere gestite
+[54:40] quindi si dovrà dire io ho un piano di azione perché cerco queste
+[54:43] informazioni le trattiamo in questo modo perché noi vogliamo raggiungere
+[54:46] questi risultati e la tua critica non ci faccio niente però se
+[54:50] lanciamo a serisco x siamo impreparati ovviamente non sapremo come
+[54:54] reagire a questo tipo di critiche e vabbè dicevo quali sono i partner con cui si
+[55:00] lavora è un altro tema molto interessante se si è pensato di
+[55:05] diciamo fare delle campagne mirate per raccogliere informazioni su temi
+[55:09] specifici facciamo un esempio e voi diciamo che esiste fosse esistito un
+[55:14] gruppo che avesse fatto costa l'ex per raccogliere informazioni sulle
+[55:21] vicende della costa concordia puramente ipotetico però visto che insomma ci
+[55:25] sono stati demorti tanti feriti un sacco di persone interessate magari qualcuno
+[55:29] avrebbe potuto nella diciamo nel suo interesse avviare costa concordia l'ex o
+[55:35] fare che ogni volta che c'è stato una media hype sul tema schettino
+[55:42] concordia ed intorni tema specifico i radar funzionava noi avevano la
+[55:47] manutenzione fatta dog ecco io magari in quel momento avrei potuto fare una
+[55:51] micro campagna del mio costa l'ex dicendo se avete informazioni sui radar
+[55:56] documenti tecnici ne sapete qualche cosa contattate c'è in quel caso trovo
+[56:00] facendo surfing delle news quindi ho già un qualcosa che ha un certo media hype e
+[56:03] io mi ci aggancio con la mia whistle blowing solicitation e su quel tema
+[56:08] specifico magari riesco a ricevere qualcosa è una strategia di
+[56:10] campaigning che può essere fatta all'interno della whistle blowing
+[56:14] solicitation e come vediamo tutto il tema legato a l'ex metto in piedi un l'ex
+[56:19] site avviva un'iniziativa di digital whistle blowing non è faccio un sito web
+[56:23] crea un twitter account mi stallo global l'ex è fatta ma per essere efficaci ci
+[56:28] vuole qualcosa di più e noi abbiamo effettivamente sperimentato e
+[56:32] verificato sul campo che chi ci ha messo qualcosa di più e ci ha pensato
+[56:35] bene poi ha avuto un discreto successo iniziative che magari non
+[56:40] ci hanno pensato bene vuoi per in esperienza loro vuoi per in esperienza
+[56:43] nostra sono partite poi magari hanno avuto un brand accattivante sono finite
+[56:48] anche non lo so mafia l'ex è finito su bbc cnn di spigel ha fatto il botto dal
+[56:56] punto di vista di comunicazione però esperienza diciamo esperienza fatta da
+[57:02] parte di tutti l'importante condivide le cercare di evitare di rifare gli
+[57:05] stessi errori come cosa come risultato è stato un fallimento dal punto di
+[57:11] vista mediatico ha fatto il botto ecco quindi le due cose andrebbero
+[57:14] normalmente bilanciate ultime due cose e poi secondo me possiamo chiacchierarne un
+[57:19] attimo però questi bit questi bit di knowledge knowledge sharing secondo me
+[57:24] erano importanti se poi condividete riguardano i temi dell'overation al
+[57:28] security cioè chi è assumiamo che abbiamo fatto per ugge al x e chi è il
+[57:36] soggetto potenzialmente interessato a capire che cosa hanno in mano quei
+[57:43] giornalisti che gestiscono per ugge al x perché magari se cioè e che capacità
+[57:50] hanno perché certo magari se ci sono se c'è un certo livello di infiltrazione
+[57:55] mafiosa all'interno di appalti pubblici potrei iniziare a preoccuparmi che la
+[58:00] criminalità organizzata è interessata a sapere cosa io so e fonti anonime
+[58:05] cosa mi hanno detto quindi interessante questo ragionamento cioè
+[58:09] significa che volendo criminalità organizzata potrebbe essere interessata a
+[58:13] trova a capire che cosa io ho come per ugge al x ipotetico che capacità hanno
+[58:20] me la posso non mettere una micro spia in macchina si la micro spia in ufficio
+[58:24] si seguirmi si pagare una persona che mi ruba il computer si pagare una
+[58:29] persona che mi ruba il cellulare si forse è caso che penso a come
+[58:34] proteggermi e penso anche a come rilevare tentativi di questo tipo certo non è
+[58:38] che bisogna diventare dei James Bond o bisogna vedere spie che ci seguono dietro
+[58:44] ogni angolo però dietro quello che può essere un'iniziativa attraverso un
+[58:48] pensiero di tipo spietatamente cinico e rogico orazionale possiamo magari
+[58:52] identificare che abbiamo un antagonista che vuole sapere che cosa ci hanno
+[58:56] detto a noi che riceviamo il x come cosa che è particolarmente forte o
+[59:01] può essere particolarmente aggressivo quindi razzionalizzarlo e definire come
+[59:06] vado a proteggere è importante spesso e volentieri definire come andare a
+[59:10] proteggersi significa semplicemente acquisire competenze e buone pratiche
+[59:15] su come navigare anonimi su come conservare informazioni in modo
+[59:21] criptografato magari su una memoria esterna che tengono a scosta dietro la
+[59:26] libreria avere un pin abbastanza decente sul cellulare comunicare in modo
+[59:32] secretato quindi messaggi e telefonate e email con i miei colleghi con cui faccio la
+[59:38] mia iniziativa di l'ex in modo che se uno dei device cade nelle mani dei
+[59:43] cattivoni non sono cadute tutte le nostre comunicazioni e queste buone
+[59:47] pratiche che non significa diventare un servizio segreto però comunque ci
+[59:51] permettono di affrontare il rischio e bisogna pensare sempre anche a quali
+[59:57] sono gli aspetti di sicurezza del whistleblower perché perché una fonte che
+[60:02] viene a dialogare su l'ipotetico tema perugia elixico abbiamo parlato non è
+[60:07] necessariamente il julian assange il bradley manding olly duals noden ma
+[60:13] magari è una neo mamma che lavora nell'ufficio con tabilità del
+[60:18] Dipartimento appalti del comune in provincia di perugia e è venuto a sapere
+[60:23] di un certo fattaccio è una persona che dice io per mio figlio voglio che questo
+[60:29] post questo mondo sia un posto migliore quindi quella è la sua magari motivazione
+[60:32] etica non ne sa assolutamente niente di sicurezza non ha idea che se dal suo
+[60:37] computer del comune fa click lascia una traccia grossa così nei log del
+[60:44] server che c'è tra la rete interna e internet che sarà chiaro ed evidente e
+[60:50] individuabile in tre minuti che è stata proprio lei a condividere quell'informazione
+[60:54] quindi noi dobbiamo pensare come facciamo a comunicare e a rendere edotti
+[61:01] e i possibili possibili fonti whistleblower di quali sono i loro
+[61:06] rischi sia sociali sia tecnologici perché alle volte quindi dobbiamo
+[61:11] pensare che l'iniziativa bla bla licks dovrebbe avere quella che noi chiamiamo
+[61:15] una landing page e su cui normalmente condividiamo un documento che illustra
+[61:21] i principali rischi sociali tecnologici e come risolverli che funge da linea
+[61:26] guida poi ogni iniziativa se le rifa che educhi il whistleblower prima di fare
+[61:32] una segnalazione dice oh attento non è che sta cosa la sapete in tre perché
+[61:37] se la sapete in tre tu ce la dici dal punto di vista sociale è abbastanza
+[61:43] chiaro che poi insomma ti trovano che c'entravi qualche cosa come dal punto
+[61:48] di vista tecnologico si usa la tua postazione di lavoro quindi questi
+[61:51] sono tutti quanti ambiti che non sono facili perché un conto è se nel
+[61:56] giornalismo di inchiesta tradizionale io incontro la fonte al bar
+[62:00] cellulari spenti cappuccino e ne parliamo come cosa quindi c'è una
+[62:05] comunicazione abbastanza intensa bidirezionale un conto è se la fonte è
+[62:09] un soggetto che sta dietro a un monitor a letto di questa iniziativa tramite un
+[62:13] poster un sito web un articolo ha detto io ho qualcosa che posso condividere
+[62:18] magari in quel momento per una finalità etica o semplicemente perché sta
+[62:22] incazzato perché ci sono fonti che magari condividono informazioni per
+[62:26] motivi che non necessariamente sono diciamo public interest
+[62:32] etica le orientate ma anche queste sono sono fonti e noi dobbiamo fare in modo
+[62:37] che questi quando dialogano con noi inizia a condividere delle informazioni non
+[62:41] si bruciano e per questo dobbiamo anche definire qual è il livello di
+[62:45] protezione che vogliamo dare la fonte come diceva prima marco noi diciamo la
+[62:51] fonte anonima ma la fonte nel mondo diciamo quando diciamo fonte
+[62:56] anonima e parliamo di anonymato e confidentialità abbiamo abbastanza
+[63:00] chiaro che la confidenzialità è quando io sono la fonte parlo con marco io dico
+[63:07] sale marco sono fabbio saprei questa cosa qui non è che te ne puoi occupare di
+[63:11] interessi e quant'altro lui a questo punto conosce la mia identità e mi ha
+[63:14] fatto promessa solenne che non lo dirà nessuno neanche sotto tortura va bene
+[63:19] questa è una relazione di tipo confidenziale quindi il mio interlocutore
+[63:23] conosce la mia identità ma si impegna non dirla nessuno l'animato invece
+[63:28] io arrivo e dico ciao sono beppe scamozza non ti dico la mia
+[63:32] identità avevo da distruttare accortati queste cose quindi mi sono
+[63:36] presentato esplicitamente con un pseudonimo anonimo dicendo io sono
+[63:40] anonimo marco se fosse messo sotto pressione dal punto di usando vuoi la
+[63:46] violenza o vuoi la compelled by law come direbbero non non trovo dal termine
+[63:51] italiano giusto non può non potrà dire chi io sono non solo non dovrà
+[63:57] neanche dire non te lo dico perché se mi viene chiesto da un magistrato chi è la
+[64:02] fonte perché c'è un caso di omicidio in mezzo la legge italiana non è proprio
+[64:07] diciamo chiara diciamo non è proprio sempre a favore 100% della tutela delle
+[64:12] fonti in in casi abbastanza estremi e io magari mi prendo delle
+[64:19] responsabili al dire no non te lo dico diverso è guarda non lo so ho messo in
+[64:23] piedi questo sistema e questa procedura che mi permette di dialogare in modo
+[64:27] onimo con delle fonti e io non sono messo in grado di sapere chi sono e beh direi
+[64:31] che è abbastanza diverso anche come responsabile al giornalista però tornando
+[64:35] al tema di animato la differenza tra animato e confidenzialità tra il mondo
+[64:39] analogico il mondo digitale adesso abbiamo visto il mondo analogico cioè
+[64:43] la vita di tutti i giorni ma nel mondo digitale l'anonimato non è non ti
+[64:50] dico chi sei ma non ti dico chi sei e non ti faccio sapere neanche in modo
+[64:55] indiretto qual è l'indirizzo internet del mio computer perché il mio computer
+[65:01] quando sono a casa o alla postazione di lavoro dell'ente pubblico dell'azienda
+[65:05] per cui lavoro lascia delle informazioni di tracciamento che
+[65:08] consentono di arrivare a dove si trova quel computer quindi chi solitamente
+[65:14] usa quel computer quindi chi c'era dietro quella segnalazione quindi nel
+[65:18] mondo digitale è importante non lasciare le tracce su dove si trova il mio
+[65:23] computer l'unico modo o il modo principale che viene diciamo che viene
+[65:28] utilizzato nel mondo per soddisfare questo requisito quindi nascondere il mio
+[65:32] indirizzo IP ovvero dove si trova il mio computer quindi qual è la mia
+[65:36] identità e garantire l'anonimato e la tecnologia di animato tor quanti di
+[65:40] voi conoscono tor ok beh però merita una merita comunque un'introduzione
+[65:47] tor è una tecnologia esiste dal 2006 la più utilizzata al mondo per superare
+[65:55] filtri censori di paesi diversamente democratici incluso quello italiano che
+[65:59] applica la censura by the way e per poter collegarsi a internet in modo
+[66:05] anonimo quindi senza lasciare delle tracce ha una rete di 6.000 7.000
+[66:10] volontari adesso che tengono dei server su internet quando ci si collega
+[66:14] tramite il tor browser che tipo firefox però è una versione di firefox con
+[66:20] delle proprietà di anonimato quindi si scarica dal sito torproget.org io quando
+[66:25] navico con firefox ogni 10 minuti esco da un paese diverso esco da un server
+[66:29] diverso perché perché il mio collegamento si collega al primo server
+[66:33] che lo passa a un altro server casuale di questa rete di volontari che lo
+[66:37] passa all'ultimo server che è quello di uscita e quindi magari io mi sono
+[66:40] collegato in giappone sono transitato alla germania e sono
+[66:43] uscito dal brasil e ovvio che il sito di destinazione non può sapere dove io mi
+[66:47] trovavo e è tutto criptografato in modo tale che il primo server usa una cosa
+[66:53] che si chiama cifratura cipolla cipolla vari strati e la metodica
+[66:59] criptografica che tor usa per proteggere le informazioni in transito su questa
+[67:03] rete di server distribuita gestita da volontari è io criptografo la mia
+[67:09] connessione verso sito di l'ex o facebook con il primo lei con la chiave di
+[67:16] cifradura del terzo server poi la ricifro con quella del primo del
+[67:20] secondo server poi la ricifro quella del primo server se via che ogni server
+[67:24] tramite cui passo vedrà solo informazioni che sono criptografate con
+[67:27] le chiavi di quelle successive e questo impedisce Ouais ci sia una
+[67:31] violazione della confidenzialità ecco questo era un po la panoramica la
+[67:36] panoramica complessiva sul tema mettere in piedi in piedi inizia di whistleblowing
+[67:41] ora all'interno di questa stanza chi ha una bella idea di in un'initiativa di
+[67:48] whistleblowing che possiamo esplorare tiriamole fuori una con nessuno c'è che si
+[67:55] le vengono di affare quà scusate
+[67:59] sufficientemente ce l'hanno ma te lo diranno fuori da questa salva
+[68:05] a ver questo può avere può avere senso
+[68:09] beh normalmente noi quello che abbiamo fatto come a eccolo claudio
+[68:13] tribini finanziari articoliamo qual è il problema che vogliamo di
+[68:20] che vogliamo risolvere qualunque cosa che possa succedere dentro per esempio
+[68:25] mettiamo caso dei fondi di investimento l'azionariato di certi
+[68:29] aziende che spesso o sono pubbliche o sono in borsa oppure hanno quote molto
+[68:35] importanti in azienda in borsa questo poi potrebbe pure in grandirsi a conti
+[68:40] bancari come il caso svizzero ormai no famosissimo però andare a cercare persone
+[68:46] che lavorano il settore finanziario che hanno dati perciò di bilancio di
+[68:51] qualunque cosa transizione economiche che si sentono per qualunque motivo di
+[68:55] volerle portare all'esterno ok mi sembra mi sembra un'idea molto
+[69:00] interessante parliamo dell'ex no no andiamo avanti andiamo avanti cioè se
+[69:06] negoze condividete cioè proviamo a fare una simulazione un ragionamento su
+[69:10] quest'idea di questo l'excite tanto per vedere questo metodo e questo tipo di
+[69:14] ragionamento poi si può essere applicato in vari altri ambi quali
+[69:17] informazioni andiamo a cercare cioè quali sono le malpractice gli
+[69:21] abusi che vogliamo individuare facciamo esempio a cui potremmo
+[69:28] pensare così ma appunto un'idea indiretta investimenti definibili non etici
+[69:34] perciò un'entità che o ha un profilo pubblico su certe tematiche e poi si
+[69:41] ritrova invece a fare investimenti su altre e qui penso perché sto pensando
+[69:46] ad esempi pratici al caso della fondazione billemmelinda che il
+[69:50] garnia ha lanciato l'iniziativa per farli fermare tutti investimenti sul
+[69:54] credo carbone ma non sono neanche sicuro perciò per dire o un caso pubblico di
+[70:00] un'entità che in teoria sta propagandando un'immagine pubblica che poi ci possono
+[70:03] essere materiali che così non è dice io ci tengo dell'ambiente però faccio
+[70:07] investimenti in estrazione minerale di carbone in cina
+[70:10] si presa più altre cose possono essere mettiamo caso vado sempre così sul
+[70:17] random dei fondi dei fondi che in realtà suggeriscono dei investimenti che
+[70:22] poi si può scoprire non ci credono realmente sono incentivati in un altro
+[70:26] modo questo è appure casi celebrissimi del passato
+[70:31] il caso più è potrebbe essere partecipazione in azienda in cui non si
+[70:36] dovrebbe partecipare tramite le contrate offshore perciò per esempio ne so
+[70:40] sono leni o delle partecipazioni o dei contatti in diretti o in diretti con
+[70:47] dei soggetti nella cadena energetica che con cui non ce li dovrei avere sono
+[70:51] una scosta tramite società offshore c'ho la fonte che mi dice guarda che se tu
+[70:55] con le le ne è collegabile a questo soggetto tramite questo nodo x e ti do le
+[71:00] prove che il nodo x sta comoriando sia con le ne che con invento qualunque
+[71:05] possesse un afficato con esempio un po' random indietra ha molto senso e
+[71:12] questa informazione vediamo come le possiamo qualificare cioè verificare
+[71:16] dobbiamo avere nel gruppo che riceve queste informazioni persone di
+[71:20] settore direi cioè una cosa abbastanza specialistica quindi giornalisti che si
+[71:24] occupano giornalisti o attivisti che si occupano di temi di finanza etica o di
+[71:31] impecci embroi nell'ambito finanziario sì sì assolutamente più se sono
+[71:37] società pubbliche la possibilità di accedere a dei dati per comparare non lo
+[71:42] sono ok e chi potrebbero essere i whistleblower o le fonti di un
+[71:46] iniziativa del genere cioè possono essere vediamo chi lavora dentro i fondi
+[71:52] dentro fondi di investimento direttamente per esempio si potrebbero essere
+[71:59] personale amministrativo che lavora per fiduciari in paesi offshore
+[72:04] assolutamente potrebbero essere vediamo regolatori di settore che no no
+[72:13] perché se loro non ho ricevuta solo già loro la conso beggia un lix un lix per
+[72:18] gli affari suoi per esempio promotori finanziari a cui è stato detto andate
+[72:24] e vendete sta schifezza tira campatte da il 10 per cento ogni vendita è lì bisogna
+[72:29] trovare il venditore etico che decide ok però non si sa mai no però si è
+[72:35] vero sicuro il caso per esempio quando prima è detto della persona
+[72:39] lavora il comune in cinta la donna in cinta che sta subito c'è il
+[72:42] contabile la piccola persona il piccolo nesso che però ha accesso i numeri
+[72:46] spesso è quello che vede i fatti pure che ha somma più della consapevolezza
+[72:50] inventiamo del promotore finanziario le c'è proprio i numeri si rende conto per
+[72:54] ciò che è sicuramente un anello debollissimo un funzionario così
+[72:59] amministrativo quello potrebbe essere un case forse
+[73:04] senso e qui ovviamente abbiamo pensato le motivazioni che le motivazioni in questo
+[73:09] canto sono essere solo di tipo etico quindi c'è una sozzata io sono coinvolto
+[73:12] l'ho saputo e voglio condividerle e questa è un'iniziativa a quel punto la
+[73:18] fai nazionale internazionale perché pure questa è un bel cioè spesso la
+[73:22] tema della finanza è molto internazionale ma lo vogliamo fare in
+[73:25] italia cioè ci vogliamo focalizzare su questo tipo di problema in
+[73:28] italia o vogliamo espanderlo su scala global perché poi dobbiamo
+[73:33] pensare che se riceviamo delle informazioni su scala global su un
+[73:37] fondo d'investimento in brasil e magari non lo so il gruppo che lavora su
+[73:43] questa cosa c'è l'area di risorse cioè vogliamo creare una stegolder
+[73:46] communi di fatta anche di brasiliani o vogliamo focalizzarci sull'italia forse
+[73:52] via di mezzo come minima europea europea forse c'è trovare dei parti in
+[73:57] Europa continentale che già ci possono esser diversi input non so
+[74:02] quanto l'italia sia no chiaro ci sta e quindi in quale lingua vogliamo farla
+[74:07] questa iniziativa che significa il sito tradotto in queste lingue persone che
+[74:11] ricevono informazioni che parlano queste lingue inglese francese tedesco
+[74:16] inglese vagnolo che cosa consigliate ma non lo so cioè di cipro a bello giusto
+[74:24] cipro abbiamo l'officiale europeo turco potrebbe servire il turco è sì
+[74:31] perché se poi vogliamo fare una campagna nei confronti delle fiduciarie turco
+[74:36] cipriote è probabile che abbiamo bisogno anche di qualcuno in turco beh diciamo
+[74:42] che abbiamo quattro lingue allora iniziamo a farci conti quando è che
+[74:45] vogliamo a vogliamo partire con questa iniziativa tra un mese o tra un
+[74:49] anno cioè una cosa che vogliamo che te la vuoi portare avanti con calma
+[74:53] pianificare fare crescere e strutturare oppure la voi sei motivato voi
+[75:00] tirarla fuori in qualche mese settembre a settembre inizio quarto trimestre quando
+[75:06] iniziano ok abbiamo detto quante lingue ci abbiamo
+[75:09] abbiamo detto quattro ok quindi hai bisogno di quattro persone che siano
+[75:13] motivate e prese bene su questa iniziativa che è di volontaria no totalmente
+[75:19] ha bisogno di risorse dedicate cioè nel senso hai bisogno anche che
+[75:23] qualcuno ci dedichi che ne so part time ogni giorno ci lavori o pensi
+[75:27] che alla fine un modo volontario qualche qualche esiggette qualche pizza e birra
+[75:33] a casa di qualcuno riusciamo ad avviarla beh ad oggi era pensato più come una
+[75:37] cosa volontaria però assolutamente necessiterebbe una struttura un solo
+[75:42] file che arriva e non reggerebbe ok quindi dobbiamo vabbè magari dobbiamo
+[75:48] pensare che può partire modo volontario volendo però dobbiamo
+[75:51] già pensare nel caso a chiedere qualche soldino a qualcuno per
+[75:55] finanziarla questo è un è un tema a un tema che spesso è volentetice per l'iniziativa
+[76:01] di l'ex perché magari non servono una grande quantità di soldi però il fatto
+[76:04] di uno che ne so ci si dedica tre giorni a settimana c'ha da campare
+[76:09] qualche spesa per niente a sostenerla vi ho detto quattro lingue e come le
+[76:14] troviamo stè quattro persone motivate su questi temi le conosci già o devi
+[76:19] andare a cercare di creare la stake older community devo trovarle
+[76:24] sì potrei avere l'inglese la francese ma non la tedesca e sicuramente
+[76:28] non la cipriota ok e quindi come facciamo cioè andiamo a qualche
+[76:33] convenio perché non possiamo fare una col pubblica per cercare qualche
+[76:38] volontario per fare finance l'ex o come lo vogliamo chiamare perché ci
+[76:42] bruciamo l'iniziativa in anticipo quindi prima bisogna trovare in core team
+[76:46] se uno provassa a cercare degli altri siti o associazioni in quei
+[76:50] paesi che provano a fare a venesse sulla tematica si mi sembra una buona cosa
+[76:55] quindi dici sì possiamo scrivere possiamo cercare di entrare in contatto e
+[76:59] poi magari ci facciamo una skype call e se troviamo la persona presa bene
+[77:03] andiamo a trovare con un volo low costa a farci che ne savo che rende lungo
+[77:07] perché se non c'abbiamo la stake older community per quattro lingue dove andiamo
+[77:12] cioè bisogna di gente veramente motivata beh mi sembra che abbiamo già
+[77:16] cioè siamo già non dico a un buon punto siamo all'inizio come cosa però e che
+[77:22] ci facciamo costi allora abbiamo definito più o meno il tipo di
+[77:27] informazione che vogliamo quindi tre quattro informazioni cioè l'abbiamo dovuto
+[77:31] definire abbiamo iniziato magari anche a scrivere una bozza del sito quindi
+[77:35] cosa cerchiamo che ci metti a cosa cerchiamo ne abbiamo detto due o tre cioè
+[77:40] temi di contabilità e regolarità contabili o etiche dimostrabili
+[77:46] contabilmente ok abbiamo cinque minuti poi possiamo andare avanti su questo tema
+[77:51] però cioè se condivide se ci sono domande e utili per tutti interrompiamo
+[77:56] un attimo questo discorso e soddisfiamo requisiti e cioè curiosità e domande
+[78:00] come cosa sennò andiamo avanti ok ok assumiamo che abbiamo il sito in
+[78:08] piedi abbiamo ricevuto una segnalazione che ci facciamo la segnalazione che dice
+[78:14] guarda che questo fondo investimento che dice che lavora sulle energie rinnovabili
+[78:19] in realtà se poi va a vedere una delle società su cui investe ha cambiato
+[78:28] business e si occupa di fracking e sta creando terremoti in Oklahoma quindi non
+[78:33] è proprio green e che facciamo è lì per esempio questo era proprio un dubbio
+[78:39] nel senso anche se uno deve pensare a regolarità che caso mai non rilevanza
+[78:43] per l'Unione europea servirebbero persone esperte in regolamenti
+[78:50] dell'Unione europea io potrei condividerle con altre associazioni cioè cosa si
+[78:54] fasi devono per forza essere convolti direttamente si possono fare non
+[79:00] so cordi allo sai tu si sta apprendendo il rischio e ci stai mica mica se io come
+[79:05] cosa però sì quello che hai detto c'ha molto senso quindi tu dici per validare
+[79:09] e rendere action a bolle informazioni hai bisogno di anche altri stakeholder
+[79:14] ulteriori quindi altre organizzazioni che operano in questo settore una
+[79:18] sorta di comitato sennò penso c'è il rischio che io mi ritrovo a vedere
+[79:20] dei bilanci che sono fatti comunque da decontabili con 30 anni di
+[79:23] esperienza che ovvio che sanno nasconde bene le cose e non per forza io le
+[79:27] capisco con la stessa carezza con cui le capiscearia che me la inviate
+[79:30] chiaro chiaro beh quindi si sta creando un gruppo multistake holder ma questi qui che
+[79:37] ti danno la mano a verificare regolamenti europei e riguardante questi
+[79:40] abusi ci mettono la faccia e quindi cioè pubblicamente sul sito dell'iniziativa
+[79:46] o per non le retrovie vorrei che ci mettessero la faccia
+[79:51] beh beh molto figa questa cosa quindi fare un'iniziativa multistake holder
+[79:56] alla publix o alla wellglicks in cui metti assieme i vari iniziative e questo
+[80:00] probabilmente richiede allora di fare secondo me già un passo indietro e
+[80:03] studiarsi chi sono i chi staic holder che vogliamo che involgere perché allora
+[80:07] c'è un ecosistema di persone che vogliamo che involge c'è qui richiede
+[80:10] che spacciamo un po di brainstorming un po' ampliato prima della fase tecnica
+[80:16] tutte cose da vedere poi mette su global x o 5 minuti
+[80:19] cioè non è che ci voglia tantissimo abbiamo finito il nostro tempo l'interrompo
+[80:25] qui però io penso magari non abbiamo affrontato un'iniziativa specifica ma
+[80:30] abbiamo avviato un percorso pensando proprio a questa di finance leaks come la
+[80:35] vogliamo chiamare non lo so poi il branding va studiato e abbiamo visto
+[80:41] che avviare un'iniziativa di digitale e blu wing la componente tecnica o la
+[80:47] componente meramente di faccio al sito web sono la componente minore da questo
+[80:53] punto di vista e c'è una complessità maggiore noi siamo a completa
+[80:56] disposizione per aiutare iniziative ad avviarsi e diciamo condividendo questo
+[81:01] tipo di percorso

@@ -1,0 +1,209 @@
+ 
+ 
+ 
+ www.sikurezza.org - Italian Security Mailing List | Risorse / Infosecurity07 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main 
+ Home 
+ Faq 
+ Liste 
+ Risorse 
+ Cerca 
+ 
+
+ 
+ 
+ 
+ 
+ Risorse : Infosecurity07 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Infosecurity 2007 
+ Sikurezza.org, con la consueta collaborazione del Progetto Winston Smith , ha gestito l'Area Demo all'interno di Infosecurity (6-8 febbraio
+2007, Milano) era presente con uno stand (G-31).
+ 
+ NOTA : a breve verranno resi disponibili i materiali presentati dai vari relatori
+ 
+ Seminari 
+ Gli interventi selezionati tra quelli sottoposti dopo il Call For Partecipation :
+ 
+ marted 6 
+ 10.30 
+ The Art of RFID Exploitation (english) (Melanie Rieback)
+ » http://www.few.vu.nl/~melanie/presentations/infosecurity_italia2007.ppt 
+ » i07_Rieback.ppt (mirror locale)
+ 11.30 
+ TOR - Analisi approfondita del funzionamento e simulazione traffico con Omnetpp (Carmelo Badalamenti, Enza Pino)
+ » http://rollsappletree.altervista.org/Sicurezza/i07_Badalamenti.pdf 
+ » i07_Badalamenti.pdf (mirror locale)
+ 12.30 
+ Voice Security & Privacy (Rodolfo Rosini)
+ Causa indisponibilit del relatore l'intervento stato tenuto da Matteo Flora, Marco Misitano, Alessio Pennasilico e Fabio Pietrosanti
+ » i07_Flora_Misitano_Pennasilico_Pietrosanti-Voice_Privacy_Security.pdf 
+ 13.30 
+ FreeLIX: semplicit ma con controllo (Valerio Balbi - pvb265)
+ » i07_balbi.pdf 
+ 14.30 
+ Snort ricette d'uso (Pierpaolo Palazzoli, Matteo Valenza)
+ » i07_snortattack.pdf 
+ 15.30 
+ Sicurezza Web Lato Client: attacchi a Web 2.0 (Giorgio Fedon OWASP, Stefano Di Paola OWASP)
+ » i07_DiPaola_Fedon.pdf 
+ 16.30 
+ La nuova metodologia OWASP per l'audit di sicurezza degli applicativi (Matteo Meucci OWASP, Alberto Revelli OWASP)
+ » OWASP_Testing_Guidev2_InfoSecurity_ITA_07_v1.pdf 
+ 17.30 
+ Radio e sicurezza sistemi mobile sotto attacco:bluetooth&wifi pentesting teoria e implementazione (Fabio Nigi)
+ » http://www.debianhardstyle.net/slide_version_1.pdf 
+ » i07_nigi.pdf (mirror locale)
+ mercoled 7 
+ 10.30 
+ Metodi di compromissione dei sistemi di comunicazione privata ed anonima in Rete: tassonomia ed esempi pratici di applicazione ai sistemi per l'anonimato esistenti (Marco A. Calamari - Progetto Winston Smith)
+ » InfoSecurity_2007_Metodi_compromissione_sistemi_anonimi.pdf 
+ 11.30 
+ BlueBag: una valigia Linux-based per il rilevamento e l'infezione di dispositivi Bluetooth (Luca -Ikki- Carettoni, Claudio -Paper- Merloni)
+ » CarettoniMerloni_bluebag_infosec07.pdf 
+ 12.30 
+ Tematiche avanzate di SQL Injection: tool di testing e metodi di difesa (Antonio Parata OWASP, Alberto Revelli OWASP)
+ » http://www.ictsc.it/site/IT/papers/infosecurity2007.pdf 
+ » i07_parata.pdf (mirror locale)
+ » i07_Revelli.pdf 
+ 13.30 
+ Programmazione sicura: dalla teoria alla pratica (Paolo Perego OWASP)
+ » i07_sp0nge.pdf 
+ 14.30 
+ Devianze - Come il malware sovverte le feature avanzate di Windows (Fabrizio Cassoni, Luigi Mori)
+ » i07_cassoni_mori.pdf 
+ 15.30 
+ Bluetooth pin cracking (Vincenzo Iozzo)
+ » http://www1.autistici.org/snagg/infosec_snagg.pdf 
+ » infosec_snagg.pdf (mirror locale)
+ 16.30 
+ Vulnerabilita' in SIP e RTP: come (non) garantire confidenzialita', integrita' e autenticazione (Andrea Scrimieri)
+ 17.30 
+ Darknets exposed: Freenet, Tor ed I2P a confronto (Marco A. Calamari - Progetto Winston Smith)
+ » InfoSecurity_2007_Darknets_exposed.pdf 
+ gioved 8 
+ 10.30 
+ Strumenti OpenSource di security assessment delle infrastrutture VoIP (Alessio L.R. Pennasilico AIPSI)
+ » i07_pennasilico.pdf 
+ 11.30 
+ Italian Name Servers (Un)Covered ovvero I Name Server Italiani (S)Coperti (Florin Iamandi)
+ » http://todome.net/docs/i07/ (html)
+ » http://todome.net/docs/i07.tgz (html.zip)
+ » http://todome.net/docs/i07_misc/i07_italian_name_servers.pdf 
+ » i07_iamandi.zip (html.zip, mirror locale)
+ » i07_italian_name_servers.pdf (mirror locale)
+ 12.30 
+ VoIP insecurity trough reality (Dott.ssa Elisa Bortolani, Alessio L.R. Pennasilico)
+ » i07_bortolani_pennasilico.pdf 
+ 13.30 
+ RFID puo' fare rima con privacy? (Luca -Ikki- Carettoni, Stefano Zanero)
+ » CarettoniZanero_rfid_infosec07.pdf 
+ 14.30 
+ UMA (Unlicensed Mobile Access): infrastruttura e sicurezza (Guido Bolognesi)
+ » http://www.kill-9.it/slides/umagan_infosecurity07.pdf 
+ » umagan_infosecurity07.pdf (mirror locale)
+ 15.30 
+ SPIE o SPIATI: opportunit o necessit della crittografia in ambito Corporate e Professionale (Matteo G.P. Flora)
+ » http://www.lastknight.com/infosecurity2007 
+ » i07_Matteo_Flora-Eludere_i_Controlli_di_Polizia.pdf (mirror locale)
+ 16.30 
+ Identificazione automatica a radiofrequenza (RFID): impatto sula privacy (Gianni Bianchini - Progetto Winston Smith)
+ » i07_bianchini.pdf 
+ 17.30 
+ Taming Bugs: The art and science of writing secure code (english) (Paul Bohm)
+ » Paul_Boehm_-_Taming_Bugs_v7.pdf 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ultima modifica: February 24, 2007, at 03:07 PM di koba
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dal 6 all'8 febbraio si tenuto Infosecurity 07 a Milano, con lo stand ed i seminari gestiti da sikurezza.org. A breve saranno disponibili i materiali presentati dai relatori.
+ 
+ 
+ 
+ Dal 29 settembre all'1 ottobre si tenuto a Cerea (Vr) l' OpenEXP .
+ 
+ 
+ 
+ Dal 4 al 7 ottobre si tenuto a Milano SMAU ; all'interno di eAcademy stata ospitata l'area sicurezza, gestita da AIPSI .
+ 
+ 
+ 
+ Dal 15 al 17 settembre si tenuto a San Don di Piave (Ve) l' End Summer Camp 06 .
+ 
+ 
+ 
+ Dall'1 al 3 settembre si tenuto a Parma l' hackmeeting .
+ 
+ 
+ 
+ Il 20 e 21 giugno si tenuto Infosecurity 06 Roma .
+ 
+ 
+ 
+ Il 27 e 28 maggio si tenuto a Verona il convegno Linux e la sicurezza personale .
+ 
+ 
+ 
+ Il 19 e 20 maggio si tenuto a Firenze e-privacy 2006 .
+ 
+ 
+ 
+ Il 9 e 10 maggio si tenuto Infosecurity 06 Verona .
+ 
+ 
+ 
+ Il 25 marzo si tenuto a Pescara il MOCM (Metro Olografix Crypto Meeting).
+ 
+ 
+ 
+ Stiamo mettendo online il materiale dei seminari tenuti ad Infosecurity 2006 ed a Smau eAcademy 2005 .
+ 
+
+ 
+ 
+ 
+ 
+ Ringraziamenti: Dal 26 Agosto '05 questo server ospitato gratuitamente dal Cineca , che fornisce anche la connettivit. In precedenza hardware e connettivit sono stati forniti gratuitamente da Creative Web (dal Marzo '04) e Infosec (dal Novembre '99).
+ 
+ Salvo dove diversamente specificato, i contenuti di questo sito sono protetti da licenza Attribuzione-NonCommerciale-StessaLicenza 2.0 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 

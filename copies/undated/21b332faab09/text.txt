@@ -1,0 +1,695 @@
+Configurazione dei dispositivi 802.11 
+
+ Laboratorio
+ di Elettronica e Telecomunicazioni - Semi-modulo di analisi di reti
+ 802.11 
+
+ Configurazione dei dispositivi
+
+ Eseguiamo i passi necessari a far funzionare un access point, ed utilizzarlo
+ come accesso alla rete
+
+ Indice
+
+ Attivazione dell'Access Point 
+
+ Associazione di una
+ stazione mobile 
+
+ Stato delle connessioni 
+
+ Analisi del traffico 
+
+ Controllo di Potenza 
+
+ Autenticazione ed
+ associazione 
+
+ Sicurezza 
+
+ Debolezza del WEP
+ e soluzioni recenti 
+
+ Letture ulteriori 
+
+ ^ indice 
+
+ Attivazione dell'Access
+ Point
+
+ Il manuale del modello che utilizziamo ( USRobotics 5450 ), che è venduto come configurabile
+ mediante una interfaccia web ,
+ dice di inserire prima di tutto il
+ CD di installazione !!! che ovviamente, contiene un eseguibile
+ per Windows !!! ma come? non e' un dispositivo di rete, che
+ funziona per i fatti suoi ??? Occorre.. avere Windows ??? noooo
+
+ Per capire qualcosa, colleghiamo l'interfaccia di rete dell'AP
+ direttamente al computer, e sniffiamo il traffico, trovando:
+
+ No. Time Source Destination Protocol Info
+
+ 12 24.595925   0.0.0.0       255.255.255.255       DHCP     DHCP Discover - Transaction ID 0x22334459
+ 13 26.796113   0.0.0.0       255.255.255.255       DHCP     DHCP Discover - Transaction ID 0x2233445a
+ 16 31.196379   0.0.0.0       255.255.255.255       DHCP     DHCP Discover - Transaction ID 0x2233445b
+ 17 39.996999   0.0.0.0       255.255.255.255       DHCP     DHCP Discover - Transaction ID 0x2233445c 
+
+ quindi l'arcano e' risolto: il CD di installazione semplicemente
+ lancerebbe un server DHCP 
+ su di una macchina Windows. Nessuna paura quindi, con Linux è
+ presente il DHCP
+ di ISC (Internet Systems Consortium) che viene configurato nel file
+ /etc/dhcp3/dhcpd.conf ;
+ una sua configurazione minimale, tale da fornire i soli
+ parametri necessari, è:
+
+ ddns-update-style none; 
+
+ subnet 192.168.0.0 netmask 255.255.255.0 { 
+        range 192.168.0.210 192.168.0.220; 
+        default-lease-time 7200;     # ten hours 
+
+ }
+
+ che imposta un intervallo di 10 indirizzi da assegnare a chi li chiede.
+ A questo punto si imposta l'indirizzo 192.168.0.40/24 all'interfaccia 
+ eth0 , si fa partire il demone 
+ dhcpd con il comando 
+ sudo /etc/init.d/dhcp3-server start ,
+ e si osserva l'AP inizializzarsi felice:
+
+ No. Time Source Destination Protocol Info
+ 1 0.000000 0.0.0.0 255.255.255.255 DHCP DHCP Discover - Transaction ID 0x22334455
+ 2 0.006024 Micro-St_f0:9c:04 Broadcast ARP Who has 192.168.0.219? Tell 192.168.0.40
+ 3 0.494285 151.100.8.236 192.168.0.219 DHCP DHCP Offer - Transaction ID 0x22334455
+ 4 0.494866 0.0.0.0 255.255.255.255 DHCP DHCP Request - Transaction ID 0x22334455
+ 5 0.500018 151.100.8.236 192.168.0.219 DHCP DHCP ACK - Transaction ID 0x22334455
+ 6 1.006034 Micro-St_f0:9c:04 Broadcast ARP Who has 192.168.0.219? Tell 192.168.0.40
+ 7 1.006328 USRoboti_60:41:9e Micro-St_f0:9c:04 ARP 192.168.0.219 is at 00:c0:49:60:41:9e
+ 8 1.006342 192.168.0.40 192.168.0.219 ICMP Echo (ping) request
+ 9 1.006636 192.168.0.219 192.168.0.40 ICMP Echo (ping) reply 
+
+ notiamo come prima di assegnare l'indirizzo 192.168.0.219 ,
+ si verifichi che questo sia libero mediante un arp ,
+ mentre ad assegnazione avvenuta, una richiesta ARP unicast ne verifica l'esito.
+
+ A questo punto finalmente si può configurare l'AP via web,
+ inserendo http://192.168.0.219 nel browser, e rispondendo " admin "
+ alla richiesta di autenticazione HTTP. Di qui è quindi possibile assegnare i parametri IP in modo stabile, in modo da evitare
+ il ricorso al DHCP esterno per le volte successive.
+
+ Inoltre, l'access point stesso 
+ può essere configurato come un server DHCP dal lato wireless, e 
+ quindi una stazione mobile può autoconfigurarsi. Notiamo 
+ però che l'AP non è equipaggiato con un NAT, e quindi 
+ occorrerà impostare degli IP pubblici, oppure appoggiarsi ad 
+ un NAT esterno.
+
+ ^indice 
+
+ Associazione di una stazione mobile
+
+ Una macchina Linux dispone di alcuni comandi 
+ ( Wireless tools )
+ per la gestione dei collegamenti wireless, corredati da un prezioso sforzo di 
+ documentazione .
+ I comandi che useremo però, sono solo due:
+
+ iwlist :
+ rapporta a riguardo degli access point nei paraggi, dei loro parametri
+ di configurazione, nonché dei parametri ammessi dalla propria scheda wireless;
+
+ iwconfig :
+ permette di configurare i parametri associati ad una scheda di rete
+ wireless, in modo da permetterne il funzionameno con gli AP circostanti
+
+ Questi comandi sono stati inseriti in un apposito file di script, che
+ li esegue nella corretta sequenza, e permette un minimo di 
+ configurazione manuale. Eccone un esempio:
+
+ #!/bin/bash
+# questo file ha nome wlan.ipw2200
+
+BOARD=ipw2200                # il nome di convenienza della scheda
+WIFACE=eth1                  # il nome dell'interfaccia di rete
+ADDR=192.168.120.40          # l'indirizzo IP che intendiamo assegnargli
+GW=192.168.120.1             # il default Gateway relativo
+ESSID=USR5450                # l'identificativo dell'access point
+
+up () {
+
+ echo attivazione di $BOARD su $WIFACE
+ modprobe -r ipw2200
+ echo "per sicurezza ho prima rimosso il modulo ipw2200"
+ sleep 2
+ modprobe ipw2200
+ echo "ora l'ho rimesso"
+
+ iwconfig                     # verifica che interfaccia sia riconosciuta e funzionante
+ iwlist $WIFACE scanning      # verifica di ricevere AP 
+ iwconfig $WIFACE mode Managed      # configura il driver per il tipo di rete
+ iwconfig $WIFACE essid $ESSID      # ed il suo identificativo
+ ip addr add $ADDR/24 dev $WIFACE   # assegna indirizzo IP e Netmask
+ ip link set $WIFACE up             # abilita l'interfaccia
+ ip addr                            # vediamo se tutto e' andato bene
+ ip route del default               # reimposta la default route
+ ip route add default via $GW
+ ip route                           # tutto bene ?
+ return
+}
+
+down () {
+ echo disattivazione di $BOARD su $WIFACE
+
+ ip link set dev $WIFACE down
+ ip link
+
+ return
+} 
+
+ echo "Scheda $BOARD su interfaccia $WIFACE,"
+echo "con IP $ADDR e default gateway $GW, verso"
+echo "l'accesspoint USR con essid $ESSID, senza WEP."
+
+case "$1" in
+ up)
+    up
+    ;;
+  down)
+    down
+    ;;
+  *)
+    echo "usage $0 up | down"
+    exit 1
+esac
+
+exit 
+
+ Questo script, una volta reso eseguibile con il comando 
+ chmod 755 wlan.ipw2200 
+ e lanciato da root , 
+ accetta le opzioni up o 
+ down ,
+ e dopo aver rimosso e reinserito il modulo del chipset wireless (in
+ modo da resettarlo completamente) provvede a far associare 
+ l'interfaccia al nostro  access point. Allo scopo di monitorare
+ ciò che succede dietro le quinte, possimo configurare una
+ seconda interaccia di rete wireless in  
+ modalità monitor .
+
+ ^ indice 
+
+ Stato delle connessioni
+
+ Sempre in Linux, esiste un 
+ filesystem virtuale , 
+ /proc , i
+ cui contenuti sono generati al volo 
+ dal kernel, e che costituisce un pratico mezzo per raccogliere
+ informazioni sul sistema. Nel caso del wireless, le informazioni sono
+ mostrate visualizzando /proc/net/wireless ,
+ che mostra ad esempio:
+
+ root@alef-laptop:~# cat /proc/net/wireless
+Inter-| sta-| Quality | Discarded packets | Missed | WE
+ face | tus | link level noise | nwid crypt frag retry misc | beacon | 20
+ eth1: 0000 88. -41. -86. 0 0 0 0 4 0
+ eth2: 021f 82. -55. -100. 6 0 0 0 13752 9
+ wifi0: 021f 82. -55. -100. 6 0 0 0 13752 9 
+
+ in cui il numero di pacchetti scartati, dà un idea della qualità del collegamento,
+ così come il numero Quality Link ,
+ mentre Quality Level , è relativo
+ alla forza del segnale
+ ricevuto. In particolare, notiamo l'esistenza di ben 3 interfacce di rete,
+ di cui solo due reali, 
+ eth1 ed 
+ eth2 , mentre 
+ wifi0 è un alias della interfaccia di
+ eth2 , configurata in modo da permettere la cattura del traffico.
+
+ ^ indice 
+
+ Analisi del traffico
+
+ I driver (o moduli , nel gergo
+ Linux) di alcuni chipset wireless, permettono di configurare gli stessi
+ in modalità monitor ,
+ in modo tale cioè che non funzionino più come interfacce
+ di rete, ma permettano ad una applicazione di monitorare il traffico
+ radio che viene ricevuto. In tal modo, Ethereal 
+ viene messo in grado di sniffare anche i protocolli di strato di collegamento, che normalmente
+ si svolgono tutti tra l'interfaccia e l'AP, senza notificare nulla agli
+ strati superiori.
+
+ Il sito di wireshark racconta di come sniffare il traffico radio, presso 
+ http://www.wireshark.org/faq.html#q10.1 ,
+ e fa notare come, in linea generale, il driver debba essere messo in
+ modalità monitor, che provoca la perdita del traffico 
+ normale . Presso il 
+ wiki 
+ viene approfondito molto bene il tema della cattura di
+ pacchetti 802.11, e sono riportate le modalità di cattura per i
+ diversi adattatori di rete. Il 
+ setup 
+ sperimentale che è stato usato per produrre i file di 
+ capture 
+ allegati a questa sezione, equipaggia un portatile Linux con due interfacce di rete, che corrispondono a 
+ eth1 ed 
+ eth2 : 
+ la prima, è quella integrata nella scheda madre, mentre la seconda, è aggiunta in uno slot 
+ pcmcia . 
+ A queste due interfacce fisiche, ne vengono affiancate altre due 
+ virtuali , rispettivamente 
+ rtap0 e 
+ wifi0 , come illustrato sotto.
+
+ interfaccia 
+ indirizzo MAC
+
+ note Wireshark 
+ modulo kernel 
+ standard 
+ modalità monitor 
+
+ eth1 
+ 00:16:6f:54:3b:a5
+
+ Intel/Centrino 
+ ipw2200 
+ 802.11b/g 
+ iwconfig eth1 mode monitor 
+
+ rtap0 
+
+ aggiungere
+
+ nel file
+
+ e quindi eseguire 
+ options ipw2200 rtap_iface=1
+
+ /etc/modprobe.d/ipw2200
+
+ ip link set dev rtap0 up 
+
+ eth2 
+ 00:11:20:a1:43:10
+
+ Cisco/Aironet 
+ airo 
+ 802.11b 
+
+ wifi0 
+
+ eseguire 
+
+ e quindi 
+
+ echo "Mode: y" >/proc/driver/aironet/eth2 /Config
+
+ip link set dev wifi0 up 
+
+ Access Point 
+ 00:c0:49:60:41:9e 
+USRobotics 
+
+ 802.11b/g 
+
+Con i comandi riassunti in tabella, se eth1 
+è posta in modalità monitor, questa cessa di funzionare
+come interfaccia di rete, e riesce solo a catturare in modo passivo il
+traffico radio che vede. Allo stesso tempo però, è in
+grado di riportare allo strato applicativo il contenuto degli header radiotap , che informano a riguardo di parametri relativi al funzionamento dello strato fisico. In alternativa, eth1 può essere mantenuta operativa come interfaccia di rete ( iwconfig eth1 mode managed ), e può essere creato (in accordo alle istruzioni nella seconda riga) un suo alias indicato come rtap0 ,
+in grado di permettere il capture completo di intestazioni 802.11.
+Sembrerebbe la migliore delle soluzioni possibili, tranne che... in
+questa configurazione, non siamo riusciti a catturare il traffico di
+gestione che passa da eth1 :-(
+
+Si è quindi optato per usare eth1 in una modalità di funzionamento normale , e di usare eth2 per catturare il traffico sviluppato con eth1 .
+A tal fine, si sono immessi i comandi indicati nella terza riga,
+così come appaiono nel wiki di wireshark, di fatto disabilitando
+ eth2 , e creado al contempo una sua interfaccia-alias, wifi0 , mediante la quale ci si può porre in ascolto del traffico in aria.
+
+Catturando ora il segnale radio in assenza di attività da parte
+delle stazioni mobili, possiamo osservare le trame di gestione
+trasmesse dall'Access Point, inviate in broadcast con
+il periodo specificato come Beacon Interval :
+
+  No.
+Time       
+Source               
+Destination     Protocol Info 
+
+22
+0.869161   
+USRoboti_60:41:9e    
+Broadcast      
+IEEE 802.11 Beacon frame,
+SSID: "USR5450" 
+
+23
+0.971585   
+USRoboti_60:41:9e    
+Broadcast      
+IEEE 802.11 Beacon frame,
+SSID: "USR5450" 
+
+24
+1.073983   
+USRoboti_60:41:9e    
+Broadcast      
+IEEE 802.11 Beacon frame,
+SSID: "USR5450" 
+
+provando ad aprirne uno, troviamo le seguenti informazioni, che
+possiamo interpretare ricordando la struttura della sotto-trama MAC:
+
+ IEEE 802.11
+    Type/Subtype: Beacon frame (8)
+    Frame Control: 0x0080 (Normal)
+        Version: 0
+        Type: Management frame (0)
+        Subtype: 8
+        Flags: 0x0
+            DS status: Not leaving DS or network is operating in AD-HOC mode (To DS: 0  From DS: 0) (0x00)
+            .... .0.. = More Fragments: This is the last fragment
+            .... 0... = Retry: Frame is not being retransmitted
+            ...0 .... = PWR MGT: STA will stay up
+            ..0. .... = More Data: No data buffered
+            .0.. .... = WEP flag: WEP is disabled
+            0... .... = Order flag: Not strictly ordered
+    Duration: 0
+    Destination address: ff:ff:ff:ff:ff:ff (Broadcast)
+    Source address: 00:c0:49:60:41:9e (USRoboti_60:41:9e)
+    BSS Id: 00:c0:49:60:41:9e (USRoboti_60:41:9e)
+    Fragment number: 0
+    Sequence number: 3242
+IEEE 802.11 wireless LAN management frame
+    Fixed parameters (12 bytes)
+        Timestamp: 0x000000026AA89129
+        Beacon Interval: 0,102400 [Seconds]
+        Capability Information: 0x0001
+            .... .... .... ...1 = ESS capabilities: Transmitter is an AP
+            .... .... .... ..0. = IBSS status: Transmitter belongs to a BSS
+            .... .... .... 00.. = CFP participation capabilities: No point coordinator at AP (0x0000)
+            .... .... ...0 .... = Privacy: AP/STA cannot support WEP
+            .... .... ..0. .... = Short Preamble: Short preamble not allowed
+            .... .... .0.. .... = PBCC: PBCC modulation not allowed
+            .... .... 0... .... = Channel Agility: Channel agility not in use
+            .... .0.. .... .... = Short Slot Time: Short slot time not in use
+            ..0. .... .... .... = DSSS-OFDM: DSSS-OFDM modulation not allowed
+    Tagged parameters (40 bytes)
+        Tag Number: 0 (SSID parameter set)
+        Tag length: 7
+        Tag interpretation: USR5450
+        Tag Number: 1 (Supported Rates)
+        Tag length: 4
+        Tag interpretation: Supported rates: 1,0(B) 2,0(B) 5,5(B) 11,0(B) [Mbit/sec]
+        Tag Number: 3 (DS Parameter set)
+        Tag length: 1
+        Tag interpretation: Current Channel: 1
+        Tag Number: 221 (Vendor Specific)
+        Tag length: 6
+        Tag interpretation: Not interpreted
+        Tag Number: 5 ((TIM) Traffic Indication Map)
+        Tag length: 4
+        Tag interpretation: DTIM count 0, DTIM period 3, Bitmap control 0x0, (Bitmap suppressed)
+        Tag Number: 7 (Country Information)
+        Tag length: 6
+        Tag interpretation: Country Code: EU, Any Environment, Start Channel: 1, Channels: 13, Max TX Power: 20 dBm 
+
+Tralasciando la discussione sui campi indirizzo, notiamo come la parte
+dati sia divisa in parametri fissi 
+e tagged (etichettati): il
+tipo, numero ed ordine dei primi è fisso, ed è
+legato al tipo/sottotipo della trama di gestione; ognuno dei secondi
+invece e' suddiviso nei tre campi Numero ,
+ Lunghezza 
+e Valore ,
+e possono essere presenti o
+meno in qualsiasi ordine, permettendo di estendere il protocollo, anche
+con tecnologie proprietarie.
+
+In questa fase, i parametri importanti sono le velocità
+supportate, l'uso di crittografia WEP, le opzioni di modulazione,
+ed il SSID, ossia l'identità dell' Extended Service Set (ESS),
+che permette di distinguere un Access Point da un altro, ovvero un insieme 
+di AP, gestiti dalla stessa organizzazione. La trasmissione del Beacon 
+può essere disabilitata rendendo più difficile aderire
+alla rete Wireless, senza conoscerne il SSID.
+
+ Come
+si vede, oltre al tipo di
+modulazione (11b, 11g, o entrambi) ed al controllo di potenza, alcuni
+dei parametri presenti nel Beacon, sono configurabili. Inoltre,
+è possibile definire la soglia di intervento per l'uso delle
+trame di controllo RTS/CTS , e quella oltre la quale si ricorre alla frammentazione .
+
+ ^ indice 
+
+ Controllo di Potenza
+
+Le stazioni wireless sono in genere alimentate a pile, e per
+risparmiare energia, se non devono trasmettere cadono in uno stato di Power Save ,
+da cui escono per porsi in ricezione, in occasione della trasmissione dei Beacon
+frame. 
+
+La Traffic Indication Map 
+(TIM), presente nel Beacon, serve ad indicare che l'AP sta mantenendo in memoria informazioni destinate alle
+stazioni in risparmio energetico, e specifica quali sono le
+stazioni che dovrebbero risvegliarsi, per ricevere i dati. Il Delivery
+Traffic Indication Map (DTIM) non viene trasmesso ad ogni Beacon
+come il TIM, ma solo agli intervalli impostati, e serve ad
+indicare la disponibilità di dati multicast o broadcast,
+destinati a tutti. 
+
+Quando una (o più) stazioni sono notificate della giacenza,
+annunciano il proprio risveglio inviando all'AP delle trame PS-Poll ,
+ed iniziano a recuperare i loro dati.
+
+ ^ indice 
+
+ Autenticazione ed associazione
+
+Mantenendo attivo lo sniffing, possiamo osservare cosa accade quando
+una nuova stazione si attiva. Inseriamo la seconda interfaccia di rete,
+ed eseguendo lo script wlan.ipw2200 ,
+si ottiene:
+
+ No. Time        Source                Destination           Protocol Info
+387 24.634576   USRoboti_60:41:9e     Broadcast             IEEE 802.11 Beacon frame, SSID: "USR5450"
+388 24.698612   3comEuro_aa:07:3d     Broadcast             IEEE 802.11 Probe Request, SSID: "USR5450"
+389 24.699260   USRoboti_60:41:9e     3comEuro_aa:07:3d     IEEE 802.11 Probe Response, SSID: "USR5450"
+397 25.014964   3comEuro_aa:07:3d     USRoboti_60:41:9e     IEEE 802.11 Authentication
+398 25.015747   USRoboti_60:41:9e     3comEuro_aa:07:3d     IEEE 802.11 Authentication
+399 25.016822   3comEuro_aa:07:3d     USRoboti_60:41:9e     IEEE 802.11 Association Request, SSID: "USR5450"
+400 25.018777   USRoboti_60:41:9e     3comEuro_aa:07:3d     IEEE 802.11 Association Response 
+
+In pratica, in corrispondenza al comando iwconfig
+$WIFACE
+essid $ESSID , la scheda invia
+un Probe
+Request (388) per il SSID
+impostato, e di cui mostriamo i campi salienti:
+
+     Type/Subtype: Probe Request (4)
+        Tag Number: 0 (SSID parameter set)
+        Tag length: 7
+        Tag interpretation: USR5450
+        Tag Number: 1 (Supported Rates)
+        Tag length: 4
+        Tag interpretation: Supported rates: 1,0 2,0 5,5 11,0 [Mbit/sec]
+        Tag Number: 50 (Extended Supported Rates)
+        Tag length: 8
+        Tag interpretation: Supported rates: 6,0 9,0 12,0 18,0 24,0 36,0 48,0 54,0 [Mbit/sec] 
+
+come si vede, essendo la scheda una 802.11g ,
+annuncia anche il supporto di velocità più elevate.
+
+Quindi, dopo un  Probe Response 
+(389) che non è molto di diverso dal Beacon ,
+la stazione 3com 
+tenta di effettuare il join (397) verso l'AP,
+mediante il messaggio di Authentication ,
+di cui sono riportati i tratti salienti:
+ Type/Subtype: Authentication (11)
+ Type: Management frame (0)
+        Subtype: 11
+    Fixed parameters (6 bytes)
+        Authentication Algorithm: Open System (0)
+        Authentication SEQ: 0x0001
+        Status code: Successful (0x0000) 
+
+Il contenuto della risposta (398) non è molto differente; il
+termine Open System significa
+che non è attiva nessuna forma di crittografia, e quindi l'AP
+accetta tutti. Esaurita questa fase, la stazione procede con una
+richiesta di associazione 
+(399) verso l'AP, in cui si comunica il valore di  Listen Interval ,
+che rappresenta ogni quanti Beacon 
+la stazione si risveglierà dallo stato di Power Save,
+e consente all'AP di valutare le sue capacità di memorizzazione:
+
+     Type/Subtype: Association Request (0)
+    Frame Control: 0x0000 (Normal)
+    Fixed parameters (4 bytes)
+        Capability Information: 0x0421
+        Listen Interval: 0x0001 
+
+A questo fa seguito la relativa risposta di Association Response ,
+in cui l'AP comunica le modalità di trasmissione seguenti:
+
+     Type/Subtype: Association Response (1)
+    Frame Control: 0x0010 (Normal)
+        Version: 0
+        Type: Management frame (0)
+        Subtype: 1
+        Flags: 0x0
+    Fixed parameters (6 bytes)
+        Capability Information: 0x0001
+            .... .... .... ...1 = ESS capabilities: Transmitter is an AP
+            .... .... .... ..0. = IBSS status: Transmitter belongs to a BSS
+            .... .... .... 00.. = CFP participation capabilities: No point coordinator at AP (0x0000)
+            .... .... ...0 .... = Privacy: AP/STA cannot support WEP
+            .... .... ..0. .... = Short Preamble: Short preamble not allowed
+            .... .... .0.. .... = PBCC: PBCC modulation not allowed
+            .... .... 0... .... = Channel Agility: Channel agility not in use
+            .... .0.. .... .... = Short Slot Time: Short slot time not in use
+            ..0. .... .... .... = DSSS-OFDM: DSSS-OFDM modulation not allowed
+        Status code: Successful (0x0000)
+        Association ID: 0x0002
+    Tagged parameters (14 bytes)
+        Tag Number: 1 (Supported Rates)
+        Tag length: 4
+        Tag interpretation: Supported rates: 1,0(B) 2,0(B) 5,5(B) 11,0(B) [Mbit/sec]
+        Tag Number: 221 (Vendor Specific)
+        Tag length: 6
+        Tag interpretation: Not interpreted 
+
+L'esito positivo dell'associazione è codificato nello Status code , che potrebbe
+essere negativo, se l'AP ha accettato richieste da un numero già elevato di stazioni. Inoltre, mediante 
+l' Association ID 
+( AID ), l'AP distingue
+le stazioni le une dalle altre, ad esempio nell'ambito nella
+tabella TIM (mentre il DTIM è associato all'AID pari a zero).
+
+Per verificare personalmente ciò che accade, nel file 
+ assoc-cent.pcap possiamo trovare il risultato della cattura della associazione tra
+ eth1 ed AP, mentre in 
+ assoc-airo.pcap , l'associazione di eth2, completa degli header 
+ radiotap .
+
+ ^ indice 
+
+ Sicurezza
+
+Oltre a poter omettere la trasmissione dei frame Beacon che pubblicano
+l'SSID, esiste la possibilità di configurare in modo statico gli
+indirizzi MAC che possono chiedere l'associazione all'AP.
+
+Il primo caso però depriva l'architettura di alcune sue
+funzionalità, mentre il secondo è inapplicabile ai siti
+più frequentati. Nello standard emesso nel 1999, si è
+introdotto un metodo di cifratura noto come Wired Equivalent Privacy 
+( WEP ),
+che si basa su di una  Secret Key 
+di 40 bit (5 byte), nota sia all'AP che a tutte le stazioni, a cui si aggiunge un 
+ Initialization Vector 
+( IV )
+di 24 bit (3 byte), che può cambiare anche per tutte le trame. Il 
+ Seed 
+risultante di 64 bit, viene fornito in ingresso ad un algoritmo 
+ Pseudo Random Number Generator 
+( PRNG )
+(che poi è l' RC4 di RSA), e la risultante 
+ Key Sequence  pseudo-casuale
+è posta in ex-OR con i dati da trasmettere
+nella trama, a cui è stato aggiunto  un Integrity Check Value 
+( ICV )
+che ne attesta appunto
+l'integrità, calcolato con un algoritmo di checksum CRC-32.
+
+ Il
+valore IV usato come Seed 
+nel PRNG assieme alla Secret Key ,
+viene trasmesso in
+chiaro, in testa al Ciphertext ,
+in modo che il ricevente (che conosce la  Secret Key )
+possa eseguire il
+procedimento inverso, e risalire al Plaintext, dopo averne verificato
+l'ICV. La figura seguente mostra il risultato finale, ed evidenzia che
+si possono definire fino a 4 diverse Secret
+Keys , il cui indice viene
+trasmesso in chiaro assieme all'IV.
+
+ ^
+indice 
+
+ Debolezza del WEP e soluzioni recenti
+
+Sicuramente, usare uno stesso segreto da parte di più persone
+(tutte quelle che devono utilizzare lo stesso AP) è una ottima
+maniera per rendere palese il segreto.
+Cambiare la chiave di frequente è problematico, e doverla
+comunicare agli utenti occasionali, riduce ancor di più il
+grado di sicurezza.
+
+Da quando presso l'Università della California a Berkley si
+è  dimostrato 
+come fosse facile indovinare la chiave WEP usata, non sono tardate ad
+essere disponibili applicazioni (vedi ad es. 
+ AirSnort ) che
+permettono di entrare nelle reti wireless altrui, anche se protette da
+WEP. Questa attività ha preso il nome di 
+ Wardriving ,
+in quanto (in America, almeno) si può provare a girare in auto finchè
+non si trova una zona coperta da una trasmissione wireless, tentare di
+scoprire la chiave WEP in uso, e quindi collegarsi a sbafo (oltre che
+eventualmente spiare le comunicazioni  in aria ).
+A questo proposito sono disponibili molti diversi 
+ strumenti 
+per le più diverse esigenze in tal senso.
+
+Le iniziative sorte per rendere più sicuro l'accesso
+wireless si sono a quel punto succedute in modo quasi tumultuoso, e le sigle
+che descrivono le varie attività, rischiano di 
+lasciare disorientati. La WiFiAlliance 
+(che definisce i test di compatibilità che è necessario
+superare per potersi certificare con il marchio Wi-Fi ), nell'attesa del completamento dello standard
+ 802.11i , ha definito il WPA (Wireless Protected Acces). L'802.11i e'
+stato approvato a Giugno 2004, ed a questo ha fatto seguito il
+ WPA2 
+che invece definisce una implementazione
+interoperabile delle piene specifiche 802.11i,  descritta in
+questo white paper .
+
+I risultati di 802.11i sono basati sui meccanismi individuati
+da 802.1x (si badi 1x e non 11x !), che a loro volta si basano sui
+meccanismi definiti da EAP (Extensible Access Protocol, definito nella 
+ RFC 3748 di IETF).
+
+ ^ indice 
+
+ Letture ulteriori
+
+ Tom's
+ Hardware guide: recensione USR5450 ,
+  Tim Higgins 
+
+ Recipe for a Linux 802.11b Home Network ,
+ Schuyler Erle 
+
+ 802.11 standard 
+ , IEEE,  
+
+ Wired Equivalent Privacy ,
+ WiKiPedia GNU FDL 
+
+ The Unofficial 802.11 Security Web Page ,
+ Bernard Aboba ,
+ [ local ]
+
+ Wireless (in)security: (in)sicurezza dell'802.11 , Fabio (naif) Pietrosanti - Yvette (vodka) Agostini
+
+ ^ indice

@@ -1,0 +1,246 @@
+Quanto spende il Governo italiano per le tecnologie di sorveglianza? 
+
+ + Italiano 
+
+ Chiudi 
+
+ VICE
+Edizioni
+
+ Italiano 
+
+ Bahasa Indonesia 
+
+ Czech 
+
+ Danish 
+
+ Deutsch 
+
+ English 
+
+ Español 
+
+ Français 
+
+ Nederlands 
+
+ Polish 
+
+ Portuguese 
+
+ Română 
+
+ Russian 
+
+ Srpski 
+
+ Swedish 
+
+ Ελληνικά 
+
+ عربي 
+
+ 日本語 
+
+ 한국어 
+
+ Apri il menu 
+
+ Chiudi il menu 
+
+ Magazine 
+
+ TV 
+
+ News 
+
+ Culture 
+
+ Tech 
+
+ Munchies 
+
+ Music 
+
+ Waypoint 
+
+ Shop 
+
+ Members 
+
+ Newsletters 
+
+ Instagram 
+
+ TikTok 
+
+ YouTube 
+
+ Video 
+
+ TV 
+
+ Shop 
+
+ Members 
+
+ Facebook 
+
+ Instagram 
+
+ TikTok 
+
+ Reddit 
+
+ YouTube 
+
+ Cerca 
+
+ Tecnología 
+
+ Quanto spende il Governo italiano per le tecnologie di sorveglianza?
+
+ Di Riccardo Coluccini 
+
+ Giugno 28, 2017, 6:37am 
+
+ Share: 
+ X 
+
+ Facebook 
+
+ Share Copied to clipboard 
+
+ Le tecnologie di sorveglianza vengono utilizzate quotidianamente dai governi di tutto il mondo nella loro lotta al crimine. Purtroppo, però, in alcuni casi è emerso come gli stessi governi utilizzino spyware per monitorare giornalisti ed attivisti . In altre occasioni, addirittura si sono spinti a mettere in piedi un sistema per effettuare una sorveglianza massiva di tutti i cittadini .
+
+ In Italia, oltre alla mancanza di misure di trasparenza per responsabilizzare maggiormente le autorità, a rendere ulteriormente critica la discussione sulle tecnologie di sorveglianza è la presenza di aziende che non si fanno scrupoli nel vendere le proprie tecnologie anche a stati autoritari in cui i diritti dei cittadini vengono sistematicamente violati . 
+
+ Videos by VICE 
+
+ Per questi motivi, insieme a Fabio Pietrosanti , uno dei fondatori del Hermes Center for Transparency and Digital Human Rights , abbiamo stilato la prima lista di aziende italiane che vendono tecnologie di sorveglianza per individuare una serie di documenti relativi agli appalti indetti dal Ministero dell’Interno e dal Ministero della Difesa — dati pubblicamente disponibili online poiché soggetti alle leggi sulla trasparenza delle pubbliche amministrazioni.
+
+ Abbiamo sfruttato strumenti di open source intelligence, come ad esempio i database Surveillance Industry Index e Buggedplanet . L’obiettivo del nostro progetto , che abbiamo presentato alla conferenza e-privacy XXI , è il monitoraggio dell’utilizzo di tecnologie di sorveglianza da parte del governo.
+
+ I fogli di calcolo che includono le spese sostenute dal Ministero dell’Interno — relative ai primi tre trimestri del 2016 ed al primo e l’ultimo trimestre del 2015 — ci hanno permesso inoltre di stimare le cifre ed il numero di pagamenti effettuati, creando una sorta di classifica dei venditori di tecnologie di sorveglianza legati al governo.
+
+ La lista delle aziende che hanno ricevuto più pagamenti dal Ministero dell’Interno. 
+
+ Come si può vedere dal grafico, appaiono aziende come RCS, Area , ed IPS che ricevono rispettivamente 107.677,51€, 35.700,20€ e 48.373,80€: tutte già note alla cronaca per la vendita di questo tipo di tecnologie — era già circolato online il video di uno spyware prodotto da RCS ed in grado di prendere completamente il controllo del computer della vittima. Ma si trovano anche nomi meno noti al pubblico, come ad esempio SIO (87.201,54€) ed ATET (57.720€) — la prima specializzata nella localizzazione GPS e nel monitoraggio audio grazie al suo software GAIA , mentre la seconda fornisce sistemi di intercettazione telefonica ed ambientale.
+
+ Dall’analisi dei partecipanti alle gare d’appalto sono emersi anche dei nomi curiosi, come ad esempio la partecipazione di Telecom Italia ad una procedura per la vendita di un sistema imsi-catcher nel 2014 — si tratta di un sistema che simula una finta stazione radio in grado di tracciare il traffico telefonico e localizzare l’utente grazie all’individuazione del codice identificativo IMSI della SIM.
+
+ Perché Telecom partecipa ad una gara per gli IMSI-catcher? 
+
+ Le due aziende che si sono aggiudicate più spesso questo tipo di appalti, però, sono BEA Srl ed Italarms Srl, la seconda azienda ha ricevuto in totale 1.435.055,80€ per la vendita di sistemi IMSI-catcher. Vista la notevole pericolosità di questi dispositivi, la ricerca si è quindi spinta fino a trovare dei capitolati tecnici relativi ad un appalto simile del 2013.
+
+ Nel 2013 il Ministero dell’Interno ha acquistato un sistema IMSI-catcher. 
+
+ Questo documento spiega nel dettaglio i requisiti tecnici che il sistema imsi-catcher dovrà avere, permettendoci così di comprendere maggiormente le potenzialità dei sistemi utilizzati dalle forze dell’ordine. L’imsi-catcher, si legge dal documento, deve operare in due modalità, “passiva” ed “attiva”.
+
+ La prima deve “consentire la scansione, l’analisi e la registrazione dei dati di copertura radiomobile delle celle 2G/3G/LTE-4G rilevabili nell’area di utilizzo, offrendo la possibilità di passare alla modalità attiva su una o più celle rilevate,” mentre la seconda deve permettere di “effettuare la contemporanea simulazione di stazioni radio 2G/3G/LTE-4G, acquisire informazioni circa l’identificazione dei Mobile System presenti nell’area coperta dallo strumento (es: procedura di IMSI attach), archiviare le informazioni, elaborarle ed estrarle dal sistema.” Vi è anche la richiesta che il sistema sia in grado di effettuare il “downgrade radio” — passare ad esempio da connessioni 4G a 3G poiché queste ultime sono più insicure.
+
+ Il Ministero dell’Interno, però, non si ferma al solo monitoraggio dei cellulari: dai documenti emerge anche un sistema di monitoraggio di internet venduto dall’azienda RCS, la quale ora effettua ciclicamente la manutenzione del sistema. Purtroppo i documenti relativi alle gare d’appalto sono aggiornati fino al 2013, non permettendo quindi di individuare il momento dell’acquisto del sistema.
+
+ L’azienda RCS si occupa di un sistema di intercettazione internet. 
+
+ Un’ulteriore ricerca, però, ha fatto emergere un progetto gestito da RCS che fa parte del Programma Operativo Nazionale (PON) Ricerca e Competitività 2007-2013 , cofinanziato con risorse europee del Fondo europeo di sviluppo regionale (FESR) e con risorse nazionali. Come si può vedere dall’immagine inclusa sotto, la descrizione del progetto è chiaramente un sistema di monitoraggio di internet, ma viene ascritto all’ambito dei beni ed attività culturali. Il progetto è stato approvato nel marzo 2006 e l’attività si è conclusa l’anno seguente.
+
+ Purtroppo, questo è l’unico documento a cui si può far risalire l’inizio del sistema di intercettazione internet. 
+
+ Il quadro che emerge dalla nostra ricerca, seppur ancora parziale e chiaramente bisognoso di maggiori approfondimenti e valutazioni, segnala in maniera chiara l’utilizzo delle tecnologie di sorveglianza da parte del governo italiano. Tecnologie che investono tutti gli ambiti: dall’intercettazione e localizzazione dei dispositivi mobili fino al monitoraggio della rete internet.
+
+ La trasparenza da parte del governo deve essere un elemento essenziale in una società democratica, e lo è ancor di più quando si tratta di strumenti tecnologici in grado di invadere in maniera pervasiva tutti gli aspetti della vita quotidiana dei suoi cittadini. Le infinite potenzialità offerte da questi strumenti non devono trasformare il nostro stato di diritto in uno stato di prevaricazioni e sospensione del rispetto della dignità dei cittadini.
+
+ Tag:
+ appalti Ministero dell’Interno , appalti Ministero della Difesa , e-privacy , Motherboard , News , sistema imsi-catcher , spesa pubblica tecnologie di sorveglianza , spyware di stato , stato di sorveglianza , Tech 
+
+ Share: 
+ X 
+
+ Facebook 
+
+ Share Copied to clipboard 
+
+ Una mail. Una storia. Ogni settimana. Iscriviti alla newsletter di VICE.
+
+ Iscrivendoti, accetti le condizioni d’uso e l’ Informativa sulla privacy e di ricevere comunicazioni elettroniche da Vice Media Group, che possono includere promozioni di marketing, pubblicità e contenuti sponsorizzati.
+
+ Contenuti simili
+
+ In questo cocktail bar di Roma si bevono drink con vini di frutta pazzeschi 
+
+ 07.07.23 
+
+ Di Andrea Strafile 
+
+ Perchè Tinashe balla al suo stesso ritmo 
+
+ 06.21.23 
+
+ Di Alisha Archie 
+
+ Alcune coppie di ristoratori ci hanno detto com’è il sesso quando lavori insieme 
+
+ 05.23.23 
+
+ Di Paola Buzzini 
+
+ Come questo distributore ha cambiato il mondo del vino naturale in Italia 
+
+ 05.10.23 
+
+ Di Andrea Strafile 
+
+ Sono stato a mangiare in un posto a Roma che serve solo cucina dell’Est Europa 
+
+ 05.03.23 
+
+ Di Gian Mario Bachetti 
+
+ I caffè infusi alla frutta potrebbero avvicinare tutti al mondo dello specialty coffee 
+
+ 04.26.23 
+
+ Di Paola Buzzini 
+
+ Una mail. Una storia. Ogni settimana. Iscriviti alla newsletter di VICE.
+
+ Iscrivendoti, accetti le condizioni d’uso e l’ Informativa sulla privacy e di ricevere comunicazioni elettroniche da Vice Media Group, che possono includere promozioni di marketing, pubblicità e contenuti sponsorizzati.
+
+ Altro
+da VICE
+
+ Sono stato in una spa dove puoi fare trattamenti alla grappa 
+
+ 04.24.23 
+
+ Di Carlo Gibertini 
+
+ Questo ragazzo produce un’acquavite con una bacca introvabile 
+
+ 04.14.23 
+
+ Di Sebastiano Alessandroni 
+
+ In questo ristorante di montagna ho capito davvero cosa vuol dire cucinare sostenibile 
+
+ 04.12.23 
+
+ Di Giulia Grimaldi 
+
+ In questa trattoria in Emilia ho scoperto la bontà della Torta degli Ebrei 
+
+ 04.07.23 
+
+ Di Carlo Gibertini 
+
+ VICE Media 
+
+ Instagram 
+
+ TikTok 
+
+ YouTube 
+
+ © 2025 VICE Media

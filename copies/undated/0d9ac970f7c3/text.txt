@@ -1,0 +1,323 @@
+Referendum Lombardia o pasticcio digitale? - Tom's Hardware 
+
+ -->
+
+ --> 
+
+ Menu 
+
+ Hardware 
+
+ Game Division 
+
+ Smartphone 
+
+ Cultura Pop 
+
+ Motori 
+
+ More 
+
+ Forum 
+
+ -->
+
+ Tariffe 
+-->
+ Offerte 
+
+ Tariffe 
+ Offerte 
+
+ 2017-10-20 
+ Tom's Hardware Italia 
+
+ e-Gov 
+
+ Referendum Lombardia o pasticcio digitale?
+
+ e-Gov 
+ Referendum Lombardia o pasticcio digitale?
+
+ di 
+ Valerio Porcu 
+
+ venerdì 20 ottobre 2017 12:50 
+
+ 6 min 
+
+ vai ai commenti 
+
+ Più informazioni su
+
+ Italia Digitale 
+ e-Gov 
+
+ Potrebbe non essere del tutto sicuro il sistema di votazione elettronico messo a punto per il referendum di domenica 22 ottobre. Lo suggeriscono i dati sensibili scovati dall'hacker white hat Matteo Flora. Impossibile fare affermazioni certe, per la quasi totale mancanza di trasparenza. 
+
+ Domenica in Lombardia si vota per la discussa "Autonomia" regionale. Un referendum voluto fortemente dal governatore Maroni e che ha anche un altro aspetto interessante, al di là di quello politico. Sarà infatti uno dei primi esperimenti sul campo del voto elettronico . 
+
+ Un test che però già sembra essere partito piuttosto male. Matteo Flora ( The Fool ), uno tra i più famosi hacker white hat in Italia, ha infatti voluto indagare sulla presunta sicurezza del sistema di voto. E ha scoperto che i server dell'azienda responsabile, SmartMatic , sono stati praticamente "nudi" per chissà quanto tempo.
+
+ Matteo avrebbe  individuato un'incredibile abbondanza di dati esposti e relativi al sistema SmartMatic Election 360. È successo lo scorso 18 ottobre, ma non c'è modo di sapere per quanto tempo la situazione si è protratta. Quello che sappiamo per certo è che sono bastate tre ore da quando Flora ha inviato una mail al team di emergenza della Pubblica amministrazione ( Cert Pa ) fino a quando i dati sono diventati inaccessibili . Il che già di per sé è un fatto a dir poco singolare.
+
+ I responsabili di SmartMatic infatti hanno dichiarato che quei dati erano sì esposti, ma tutto sommato poco importanti . "Tutti i sistemi di sicurezza che garantiscono l'integrità del voto durante il referendum rimangono intatti, il sistema è sicuro" spiega un portavoce ad AGI. "Non ci sono stati attacchi hacker al sistema di votazione elettronica. Questa persona (Flora, ndr) ha semplicemente avuto accesso a una repository pubblica con dati non confidenziali e non sensibili".
+
+ Eppure la mail di Flora è arrivata a Cert PA fuori dall'orario lavorativo. Poi il team ha dovuto avvisare le autorità competenti (la Regione), e queste si sono poi rivolte a SmartMatic. A occhio e croce l'azienda ha bloccato tutto nel giro di un'ora o poco più. Un tempo ammirevole per dati così poco importanti – viene quasi il dubbio che un po' di importanza ce l'avessero.
+
+ "Capisco il loro gioco" ha detto Flora a Tom's Hardware , commentando le risposte di SmartMatic tese a ridimensionare il problema. "Però direi che è abbastanza chiaro che cosa c'è dietro. Se pensi che in meno di due ore da quando è partita la mia mail è sparito tutto .. forse ti dà una buona approssimazione di quanto fossero poco importanti quei dati", afferma con sarcasmo il fondatore di The Fool s.r.l.
+
+ Per limitare ogni rischio, inoltre, le autorità lombarde hanno dichiarato che domenica non si voterà con SmartMatic Election 360 ma con "un altro programma dell'azienda". Una dichiarazione che aggiunge ulteriore perplessità alla vicenda.
+
+ Com'è possibile, infatti, pensare di modificare il software, magari rivoluzionare l'intera infrastruttura, a pochi giorni dal voto? Certo, il referendum lombardo è consultivo ma resta pur sempre un appuntamento elettorale, non un giochino tra amici di cui si possono cambiare le regole in corsa. Vorremmo crederci ma è molto difficile, ma d'altra parte " la post verità funziona " ha commentato Flora.
+
+ "C'erano dentro macchine virtuali, script di installazione con i repository aperti […]", racconta Flora, specificando di non aver (ancora) esaminato dettagliatamente le informazioni. C'era "la parte relativa al conteggio dei voti […] Ci sono i certificati, le chiavi dei certificati in chiaro, le certification authorities, gli script di deployement su docker, ci sono embeddati negli script user e password degli admin …".
+
+ Rischi veri e presunti di un sistema che sembra poco trasparente 
+
+ Ci sono dei rischi? Forse (probabilmente) sì, ma è importante sottolineare che siamo nel campo delle ipotesi . I dati scoperti da Flora sono senz'altro preoccupanti, ma non si sa (e forse non si saprà mai) se sono quelli dei sistemi reali che gli elettori lombardi useranno domenica 22 ottobre.
+
+ SmartMatic aveva dichiarato che il suo sistema è "inviolabile" . Un'affermazione sulla quale Matteo Flora ha voluto indagare: non l'avessero mai detto, forse non avrebbe trovato quei dati scoperti. Flora ha anche aggiunto che in linea di principio si potrebbe essere d'accordo.
+
+ La risposta di Regione Lombardia alla richiesta del Centro Hermes
+
+ SmartElection 360 prevede l'uso di un tablet collegato a una macchina virtuale in rete locale. Con un'operazione di voto che dura qualche secondo, in effetti, è impensabile che un hacker abbia il tempo di analizzare il sistema, trovare una falla e sfruttarla in qualche modo. Tuttavia i dati di cui stiamo parlando sono stati esposti per settimane, forse mesi. Con i dati disponibili, secondo Flora, si potrebbe installare il sistema su un'altra macchina, con tutto il tempo di analizzarlo.
+
+ "I contenuti presenti sono sicuramente sufficienti per comprendere e sperimentare una grande parte dell'infrastruttura di voto, prevalentemente legata alla delicatissima analisi dei risultati elettorali, e per studiare le contromisure tecnologiche messe in atto a protezione del voto. Non solo, la presenza online di tali contenuti da un periodo sconosciuto di tempo ha sicuramente concesso la possibilità ad attori terzi, anche state-sponsored, di conoscere ed elaborare questi dati per i più variegati usi", ha scritto Flora in un'analisi che per il momento è riservata, ma che Tom's Hardware ha potuto visionare . Più avanti il testo riporta " La struttura dei dati compresa nei contenuti, quindi, potrebbe aver fornito ad un potenziale attaccante precise indicazioni su come i dati erano memorizzati, aiutando in una eventuale alterazione".
+
+ "A quel punto devi solo avere una chiavetta per lanciare qualcosa. Allora quei trenta secondi diventano un'eternità", continua Flora. Unica consolazione è che, pare, i sistemi non avranno il Wi-Fi attivo e sarà dunque impossibile un attacco a distanza.
+
+ Ma anche su quest'ultimo punto non c'è tutta la chiarezza che dovrebbe esserci, come ha sottolineato Stefano Zanero . Professore associato del Politecnico di Milano, Zanero ci ha ricordato che il sistema di voto è totalmente oscuro. Né cittadini – che pure ne avrebbero il diritto – né tecnici specializzati hanno potuto visionarlo in anticipo per capire come funziona.
+
+ Stefano Zanero lo scorso 5 luglio. Da allora non è cambiato nulla. 
+ Sappiamo che ci sarà una "macchina di voto" che, si mormora, sarà un tablet iPad o Android. Regione Lombardia ha già affermato che successivamente i dispositivi saranno regalati alle scuole . Ciò che invece non sappiamo è come funziona il sistema.
+
+ L'elettore, ipotizziamo, si troverà davanti una schermata con il software SmartMatic e farà la sua scelta. Dopodiché la macchina registrerà il voto e l'informazione andrà in qualche modo trasferita e unita a quelle degli altri seggi. Il sistema prevede appunto una macchina virtuale – quella che secondo Flora era replicabile – collegata al tablet.
+
+ Il sistema sarà isolato , dunque, e a fine voto qualcuno dovrà – si suppone – mettere il risultato su una chiavetta USB e portarla fisicamente al centro di raccolta. Qui abbiamo già un possibile problema, visto che sarebbe possibile sostituire o alterare i dati durante il tragitto.
+
+ Altro problema è la trasparenza verso l'elettore . Zanero ci ha spiegato che il sistema, per rispettare le minime esigente democratiche, dovrebbe stampare l'esito del voto, mostrare la stampa all'elettore per permettergli di verificare che la sua decisione è stata registrata correttamente, e poi archiviare il documento cartaceo.
+
+ In questo modo, avremmo a disposizione un sistema di controllo. Senza le schede stampate, invece, dobbiamo "fidarci di ciò che dice il software. Un software di cui nessuno sa nulla " sottolinea il  prof. Zanero. Il che effettivamente è un bel problema.
+
+ Non sappiamo cosa succede dentro al tablet né dentro alla macchina virtuale, non sappiamo se il voto sarà registrato correttamente, non sappiamo come i voti saranno trasferiti e comunicati. Dobbiamo fidarci di SmartMatic e del suo committente, Regione Lombardia.
+
+ A onor del vero, continua Zanero "il 5% delle macchine usate il Lombardia farà la stampa, ma questa non sarà mostrata all'elettore . Il foglio sarà inserito in un'urna opaca. Non sarà possibile per l'elettore sapere cosa c'è scritto". Ciò che rende di fatto totalmente inutile l'operazione.
+
+ La risposta di Regione Lombardia a chi chiede trasparenza 
+
+ È una situazione indesiderabile in democrazia, perché i cittadini devono vedersi riconosciuto il diritto alla massima trasparenza sulle operazioni di voto. Né è convinto, insieme a Zanero, anche Fabio Pietrosanti del centro Hermes , che ha deciso di procedere a una richiesta FOIA ( Freedom of Informationc Act ) indirizzata al Consiglio Regionale Lombardia.
+
+ Ebbene, la Regione ha risposto con alcuni documenti, interessanti ma generici, riguardanti le gare di appalto e le aziende coinvolte (alcuni esempi nelle immagini). Tuttavia le informazioni rilevanti sono state secretate "in quanto contenenti dati relativi a codici sorgente e informazioni coperte da proprietà intellettuale nonché dati attinenti alla sicurezza", come riporta la stringata risposta a firma di Emilia Angela Benfante. A chi volesse approfondire ulteriormente, il centro Hermes ha messo a disposizione, tra gli altri, il documento di bando .
+
+ Insomma, copyright e "ragioni di sicurezza servono per negare ai cittadini informazioni che dovrebbero essere pubbliche, e questo già basterebbe a far sollevare entrambe le sopracciglia. Negli USA, sottolinea Pietrosanti, le macchine (dopo alcune brutte esperienze) sono state messe a disposizione degli hacker affinché ne testassero la resistenza . Altre esperienze nel mondo non hanno riportato esiti entusiamanti (Venezuela e Filippine per esempio). 
+
+ "Negli Stati Uniti sono state tutte hackerate, dalla prima all'ultima . Smartmatic non c'è negli Stati Uniti, ma per quale motivo non dovrebbe essere violabile (il loro sistema, NdR), che addirittura non fornisce dettagli sul suo funzionamento?", si domanda retoricamente Pietrosanti.
+
+ Qualcuno potrebbe pensare che si stia facendo troppo rumore per un referendum consultivo regionale. Ebbene, sarà anche vero ma Flora, Zanero e Pietrosanti ci hanno tutti ricordato la stessa cosa: è un esperimento, e già si parla di usare il sistema alle comunali , con uno sguardo alle Elezioni Politiche.
+
+ Un esperimento che, come abbiamo raccontato fin qui, sembra avere molte lacune. Speriamo solo che ispiri molta più prudenza e trasparenza per i prossimi anni.
+
+-->
+
+ -->
+
+ -->
+
+ di 
+
+ Valerio Porcu 
+
+ venerdì 20 ottobre 2017 12:50 
+
+ 6 min 
+
+ vai ai commenti 
+
+ Più informazioni su
+
+ Italia Digitale 
+ e-Gov 
+
+ Scarica gratis 
+
+ l'app di Tom's Hardware
+
+ Guide all’acquisto
+
+ CPU 
+
+ Scheda Video 
+
+ Scheda Madre 
+
+ RAM 
+
+ PSU 
+
+ Monitor 
+
+ SSD 
+
+ Case 
+
+ PC assemblati 
+
+ Router 
+
+ MacBook 
+
+ Notebook 
+
+ Smartphone 
+
+ Accessori smartphone 
+
+ Mouse Gaming 
+
+ Tastiera Gaming 
+
+ Cuffie Gaming 
+
+ Accessori gaming 
+
+ Copertura Fibra
+
+ -->
+ -->
+
+ -->
+ -->
+
+-->
+
+ -->
+ -->
+
+ -->
+ Leggi anche
+-->
+ -->
+
+-->
+
+ -->
+
+ -->
+ I più letti su Tom's
+-->
+ -->
+
+-->
+
+ -->
+
+ articolo precedente: Il Ministro Calenda: io farei lo scorporo della rete Telecom 
+
+ prossimo articolo: Dal DNA si potrà risalire al volto, svolta nelle indagini? 
+
+ Home 
+
+ Hardware 
+
+ Game Division 
+
+ Smartphone 
+
+ Cultura Pop 
+
+ Motori 
+
+ More 
+
+ Forum 
+
+ Tariffe 
+ Offerte 
+
+ Privacy 
+
+ Chi siamo 
+
+ Contattaci 
+
+ Feed RSS 
+
+ Iscriviti alla newsletter 
+
+ P.Iva 04146420965
+
+ Testata giornalistica associata all'USPI Unione Stampa Periodica Italiana, registrata presso il Tribunale di Milano, nr. 285 del 9/9/2013, Direttore Responsabile Pino Bruno
+
+ Copyright © 2018 - 3Labs Srl. - Tutti i diritti riservati. - credits: 
+
+ impostazioni privacy 
+
+ post_parent != 0 -->
+
+ -->
+ -->
+
+ Tom's Hardware Italia 
+
+ Simone Lelli 
+
+ Simone Lelli 
+
+ 2 
+
+ 0 
+
+ Giochi di ruolo 
+
+ In arrivo un gioco di ruolo dedicato ad Altered Carbon 
+
+ Dopo la serie tv uscita su Netflix ispirata al libro di Richard K. Morgan, ora…
+
+ di
+ Simone Lelli - 29 minuti fa 
+
+-->
+
+ Tom's Hardware Italia 
+
+ Alessandro Bellia 
+
+ 2 
+
+ 0 
+
+ Case e PC Completi 
+
+ MasterBox Q500L, il nuovo case Cooler Master sbarca in Italia 
+
+ Compattezza in formato ATX per il case MasterBox Q500L di Cooler Master, disponibile dal mese…
+
+ di
+ Alessandro Bellia - 35 minuti fa 
+
+-->
+
+ Hardware 
+
+ Game division 
+
+ Smartphone 
+
+ Cultura Pop 
+
+ Motori 
+
+ More 
+
+ Home 
+
+ Le news di oggi 
+
+ Le news di ieri 
+
+ Le news dell'altro ieri 
+
+ Ultime news
+
+ Ultimo video

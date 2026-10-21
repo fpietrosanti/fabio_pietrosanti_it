@@ -1,11 +1,20 @@
 {
  "source_url": "https://web.archive.org/web/20101226095759/https://www.securitysummit.it/upload/file/atti%20roma%202010/FABIO%20PIETROSANTI.pdf",
- "fetched_url": "https://securitysummit.it/",
- "method": "live",
- "capture": null,
- "content_type": "text/html",
- "bytes": 92806,
- "sha256": "f33e9b9ac97e0998627056d25f5e506d13d0b3d2099633e0b6713301b3f98f20",
- "name_found": false,
- "fetched_at": "2026-09-18T10:42:51+00:00"
+ "fetched_url": "https://web.archive.org/web/20101226095759id_/https://www.securitysummit.it/upload/file/atti%20roma%202010/FABIO%20PIETROSANTI.pdf",
+ "method": "wayback",
+ "capture": "20101226095759",
+ "content_type": "application/pdf",
+ "bytes": 5204333,
+ "sha256": "4465beb5a55b1a180596d385982d87f7e667e8af14da7c2ae130186dc6adf9f8",
+ "name_found": true,
+ "fetched_at": "2026-09-22T07:07:03+00:00",
+ "extra_files": [
+  {
+   "file": "original.pdf",
+   "bytes": 5204333,
+   "sha256": "4465beb5a55b1a180596d385982d87f7e667e8af14da7c2ae130186dc6adf9f8",
+   "added_at": "2026-09-22T07:19:31+00:00"
+  }
+ ],
+ "manual_check": "2026-09-22: the earlier copy was the live homepage (redirect). PDF taken from the Web Archive capture 20101226095759 id_; title slide 'Mobile Security ... Fabio Pietrosanti (naif)'."
 }

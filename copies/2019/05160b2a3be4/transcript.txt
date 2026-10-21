@@ -1,0 +1,1452 @@
+# Trascrizione automatica (faster-whisper small) di original.mp3
+[00:00] Satispay è l'app che ha già rivoluzionato le modalità di pagamento di mezzo milioni di italiani.
+[00:05] Con Satispay puoi pagare nei negozi, scambiare denaro tra amici, pagare ricarica ai bollettini,
+[00:10] fare donazioni e risparmiare in modo smart.
+[00:13] Scarica gratuitamente l'app Satispay per Android e iOS.
+[00:17] Vivi smart, usa Satispay.
+[00:39] Ben tornati questo è il programma di tecnologia di Radio 24.
+[00:43] E a proposito di tecnologia probabilmente la notizia più bella della settimana
+[00:48] è relativa ad una operazione che è stata eseguita in Svezia,
+[00:53] ma con NOAAO Europeo a Guida Italiana,
+[00:58] un intervento eseguito su una donna di 45 anni
+[01:01] e per la prima volta è stata impiantata una mano robotica in modo permanente.
+[01:08] Potrà essere utilizzata come quasi, come una normale mano.
+[01:13] Quindi non è come abbiamo già visto.
+[01:17] In altre occasioni un impianto che in alcune occasioni può anche essere tolto
+[01:23] ma è proprio un intervento che sostituiscerie un arto che è stato amputato 16-17 anni fa da questa donna in modo permanente.
+[01:34] Questo arto bionico è stato impiantato sulle osse e risponde ai comandi del cervello.
+[01:41] Dicevo un progetto europeo, l'operazione è stata eseguita in Svezia.
+[01:46] Il progetto si chiama The Top, guidato dall'Istituto di Biorobotica della Scuola Superiore Sant'Anna di Pisa.
+[01:54] Quindi a tutti i ricercatori, a tutte le persone che hanno lavorato
+[01:58] e lavoreranno ancora a questa tecnologia, i nostri complimenti e i nostri migliori auguri di buon lavoro.
+[02:07] E anche questa è una dimostrazione che abbiamo bisogno di più Europa, non di meno Europa.
+[02:11] Sicuramente con qualche setup, ma questa è un'altra dimostrazione della tecnologia europea in azione.
+[02:18] Adesso alcune notizie in breve selezionate nelle nostre digital news.
+[02:30] Dunque, ha fatto notizia e la rilanciamo anche noi.
+[02:35] La storia di Gerald Cotton, che è il fondatore di un noto sito canadese dove si scambiano crypto-monete,
+[02:42] si chiama Quadriga CX che sta per Exchange.
+[02:47] Attivo dal 2014, Cotton è morto lo scorso mese e si è portato nella tomba la password
+[02:54] che serve per accedere ai conti che in totale valgono 190 milioni di dollari.
+[03:01] Questo è un tema di cui ci eravamo occupati. Cioè, che cosa succede dopo la morte?
+[03:07] Beh, sicuramente se non ti sei organizzato e non hai lasciato qualche appunto o qualche indicazione ai tuoi redi,
+[03:14] questa è una delle conseguenze.
+[03:16] Però il tema è vasto, complesso, ci sono anche dei temi legali, oltre che tecnologici.
+[03:25] Quindi vi invito ad andare a riascoltare a questa puntata che è di un po' di tempo fa,
+[03:29] ma magari è un tema su cui potremmo tornare.
+[03:32] Sicuramente il caso di Gerald Cotton è legato alla volontà di questa persona
+[03:41] di non lasciare tracce scritte da nessuna parte come dovrebbe essere,
+[03:46] ma a volte con tante password da qualche parte qualcosa si scrive.
+[03:51] Comunque lui è stato molto rigoroso, giustamente ha detto io,
+[03:54] la password non la scrivo e non la svelo a nessuno e quindi tutti i dati relativi ai conti
+[04:02] delle criptomonete gestite da Quadriga 6 sono inaccessibili.
+[04:09] Ovviamente da mesi lavorano, no, ma da settimane,
+[04:13] perché sono passati alcune settimane dalla morte e stanno lavorando alcuni tecnici,
+[04:18] per il momento non è possibile accedere a questi sistemi,
+[04:22] quindi evidentemente sono stati protetti in modo molto abile.
+[04:26] A proposito di password Google ha lanciato una estensione di Chrome che si chiama password check-up
+[04:34] in grado di stabilire quando una combinazione di username e password è stata oggetto di violazione.
+[04:42] Ovviamente una violazione nota tra quelle che escono su.
+[04:46] Ad esempio, ultimamente abbiamo commentato collection1, collection25,
+[04:51] quindi questi mega archivi che sono stati svelati, sicuramente i database di Google
+[04:57] accedono anche a questo tipo di informazioni e quindi suggeriscono all'utente di Chrome
+[05:02] se quella combinazione di password e user ID è stata violata.
+[05:10] Nelle decimanno di attività Spotify ha registrato per la prima volta nella sua storia un profitto nei conti trimestrali.
+[05:19] Parliamo dell'ultima parte del 2018 per 94 milioni di euro,
+[05:25] anche se Spotify ha sottolineato che ancora presto per registrare il primo utile annuale.
+[05:31] Recordiamo che Spotify operativo in 80 paesi era aggiunto 207 milioni di iscritti di cui 96 milioni di abbonati a pagamento.
+[05:39] Gli altri utilizzano la versione gratuita.
+[05:42] In settimana, tra l'altro Spotify ha dichiarato che acquisirà due società specializzati in podcast che sono Gimlet Media e Ancore.
+[05:52] Una società che invece non ha ancora trovato la propria via per generare utili,
+[05:58] ma che continua a crescere dalle 2004 è la piattaforma di video online di alta qualità e senza pubblicità Vimeo.
+[06:08] Vimeo ha per la prima volta diffuso i propri dati a 952 mila utenti, soprattutto professionisti nel settore video,
+[06:15] che pagano per la versione premium.
+[06:20] Parliamo con alcune notizie di automobili.
+[06:23] L'alleanza Renault Nissan Mitsubishi lavorerà con Google per sviluppare taxi a guida autonoma
+[06:29] e altri servizi basati su auto senza pilota.
+[06:33] I dettagli di questa alleanza verranno illustrati nella prossima primavera.
+[06:38] Dopo avere raccolto 90 milioni, lo scorso anno, la startup americana Aurora,
+[06:44] specializzata in guida autonoma, ha annunciato di avere raccolto capitali per ulteriori 530 milioni di dollari.
+[06:53] Tra gli investitori spicca, come è ovvio che sia, il nome di Amazon,
+[06:58] anche se non è noto quanti soldi Amazon abbia investito in Aurora.
+[07:03] La cinesa Cattle, che sta per Contemporary Emperex Technology,
+[07:08] che è uno dei più grandi produttori di batterie, ha firmato un accordo di fornitura con la giapponese Honda.
+[07:15] Questo accordo servirà anche per sviluppare assieme batterie agli eoni di litio per auto elettriche.
+[07:23] E sempre nel business delle batterie per auto, Tesla ha annunciato l'acquisizione della Maxwell per 218 milioni di dollari.
+[07:31] Maxwell, che è un nome piuttosto noto nel campo degli accumulatori,
+[07:36] ha da poco annunciato di avere brevettato una serie di tecnologie
+[07:40] per allungare l'autonomia delle automobili ad un costo più basso rispetto a quelli di mercato di oggi.
+[07:47] Va sottolineato che finora Tesla aveva come unico partner per gli accumulatori Panasonic,
+[07:55] e tra l'altro si chiama Panasonic e è stata costruita la Gigafactory nel deserto del Nevada.
+[08:01] Anzi, tre notizie che riguardano l'Italia.
+[08:04] La prima riguarda i GAP e GAP, che è un servizio di cui abbiamo parlato qualche settimana fa,
+[08:12] è partito questo servizio a Milano.
+[08:14] Si tratta del servizio di ricarica in mobilità per veicoli elettrici,
+[08:19] praticamente una colonnina a ricarica rapida, molto potente su quattro ruote.
+[08:24] È il primo di questo tipo in Europa, al momento ci sono dieci mezzi di ricarica,
+[08:29] che raggiungono il veicolo da ricaricare on demand,
+[08:32] quindi uno prenote il servizio di domattina, venite sotto casa mia o domani sera.
+[08:39] C'è la mia autoelettrica da ricaricare e loro arrivano con questo piccolo furgoncino
+[08:44] che ha a bordo delle grosse batterie che provvedono alla ricarica.
+[08:51] Vedremo se c'è un mercato per questo tipo di prodotto, sicuramente molto interessante.
+[08:57] Iliad ha affirmato un accordo con Inuit Infrastructure Wireless Italiane,
+[09:03] che è una società controllata da team,
+[09:06] cioè la società alla quale team ha acceduto tutta la propria rete di antene di torri,
+[09:11] quindi con tutte le postazioni, etc.
+[09:13] Questo accordo prevede la possibilità per Iliad,
+[09:16] che sta costruendo la propria rete sul territorio italiano,
+[09:20] di utilizzare alcune delle 11.000 torri che fanno parte della rete di Inuit.
+[09:28] Zucchetti, il primo gruppo italiano del settore software, ha acquisito la maggioranza di Ovo Sodo,
+[09:34] nome simpatico per un'agenzia digitale di Como,
+[09:37] che ha un focus particolare sul mondo degli hotel e della ristorazione.
+[09:43] Prima di parlare di biometria e di riconoscimento facciale,
+[10:08] prima di parlare di digital therapeutics, quindi delle terapie digitali,
+[10:12] e scoprirete delle cose molto interessanti,
+[10:15] prima di parlare di un accordo tra Google e Confindustria,
+[10:19] alcune parole sui lavori per portare la fibrottica in casa,
+[10:24] allora è definitivamente stato approvato,
+[10:27] quindi è legge il decreto semplificazioni.
+[10:30] Tra le tante norme ci sono anche alcune novità che riguardano i lavori,
+[10:35] appunto per portare la fibrottica in un'abitazione di un condominio.
+[10:39] Allora questi lavori sono equiparati a quelli di manutenzione straordinaria urgente
+[10:45] e possono essere ordinati dall'amministratore di condominio.
+[10:50] Però attenzione che l'amministratore non faccia il furbo,
+[10:55] perché alcuni amministratori sono arrivati alle segnalazioni anche a Radio 24,
+[10:59] e se questa cosa prende piede ce ne occuperemo in modo più drastico ed energico,
+[11:05] allora cosa fanno alcuni amministratori?
+[11:08] In questo momento in cui Open Fiber e le aziende appaltatrici di Open Fiber
+[11:14] stanno rispondendo alle richieste degli utenti
+[11:17] di allacciare tramite tanti operatori che ci sono in Italia
+[11:22] e quindi di entrare con la fibrottica negli appartamenti alcuni amministratori dicono
+[11:26] no, non vi faccio entrare.
+[11:28] Cosa che non è possibile perché ci sono parecchie leggi,
+[11:31] c'è come si direbbe un combinato disposto di tantissimi provvedimenti
+[11:37] ormai degli ultimi 10-15 anni che obbligano i condomini a far passare questo tipo di infrastrutture,
+[11:44] quindi se vi capita, vi è capitato, avete sentito il caso di un amministratore
+[11:50] di condomigno che si oppone all'entrata di Open Fiber,
+[11:54] di qualsiasi altro operatore per posare fibrottico
+[11:58] o qualsiasi altro cavo per connettività internet,
+[12:03] non lo può fare.
+[12:05] Scriveteci nel caso la vostra segnalazione a 2024-2324.it
+[12:13] anche perché mi sembra un amministratore di condomigno
+[12:16] piuttosto stolto, uno che dice no alla fibrottica.
+[12:20] Anzi gli amministratori quelli bravi dovrebbero favorire
+[12:26] il più possibile questo tipo di connettività,
+[12:29] che tra l'altro dà anche maggior valore
+[12:31] alle abitazioni e agli immobili.
+[12:35] Dunque adesso parliamo di un accordo che è stato presentato
+[12:38] questa settimana tra Confindustria e Google,
+[12:41] una collaborazione per aiutare e supportare le imprese,
+[12:46] soprattutto le piccole e medie imprese,
+[12:48] nel cosiddetto processo di trasformazione digitale.
+[12:53] Abbiamo parlato con Matt Bretton,
+[12:55] che è presidente di Google Europa.
+[13:05] Siamo lieti di annunciare un accordo con Confindustria
+[13:08] per aiutare le piccole imprese a crescere più velocemente
+[13:11] per creare nuove opportunità di lavoro
+[13:14] e per aumentare le esportazioni.
+[13:16] Google ha amaturato ormai una certa esperienza.
+[13:19] Siamo in Italia da 18 anni, abbiamo degli esperti che lavorano qui
+[13:23] e che ogni giorno hanno a che fare con le piccole imprese
+[13:27] e vediamo che quelle che usano le tecnologie
+[13:30] ottengono maggiori successi.
+[13:32] C'è un grande gap nelle competenze
+[13:37] e lo scopo di questo accordo è di portare strumenti e competenze
+[13:41] alle piccole imprese per aiutarle ad uscire dalla recessione
+[13:45] e andare verso la crescita.
+[13:47] Non c'è dubbio che Google sia particolarmente interessato
+[13:50] ad attività di questo genere,
+[13:51] perché maggiore il numero di aziende online
+[13:54] e maggiore è molto, probabilmente,
+[13:57] il numero di aziende che utilizzano i servizi di Google.
+[14:00] Ma l'aspetto che penso sia interessante di questo accordo
+[14:04] è soprattutto l'educazione,
+[14:06] cioè far capire alle aziende che ancora non hanno compreso
+[14:09] e purtroppo ce ne sono tante quali sono i vantaggi
+[14:12] della cosiddetta digitalizzazione,
+[14:15] comunque la necessità di utilizzare
+[14:18] i tanti servizi che esistono su internet.
+[14:30] Quello che è interessante notare
+[14:32] è che l'Italia non è in gran forma nella internet economy.
+[14:35] Si trova solo al 25° posto in Europa
+[14:39] e solitamente in Italia le piccole imprese non usano internet.
+[14:48] Nel settore delle piccole imprese l'Italia è incredibilmente fortunata,
+[14:52] perché questo è il momento giusto per loro.
+[14:56] Internet è ormai diffuso in più di metà della popolazione mondiale
+[15:00] e nei prossimi tre anni altri due o 3 miliardi di persone saranno collegate.
+[15:06] Nel vecchio mondo solo le aziende più grandi
+[15:09] erano in grado di esportare in ogni paese,
+[15:11] ma oggi chiunque sia collegato
+[15:13] può diventare una micro multinazionale,
+[15:16] esportare e crescere.
+[15:18] La gente ormai sa che il Medi in Italia è molto richiesto
+[15:22] e adesso che si può raggiungere tutto il pianeta
+[15:25] sono enormi opportunità.
+[15:27] E questo è il momento giusto per l'Italia.
+[15:30] Notiamo che le imprese che fanno marketing online
+[15:33] e che usano gli strumenti digitali crescono più in fretta,
+[15:37] esportano di più e creano più posti di lavoro rispetto alle altre.
+[15:45] Ovviamente le prime cose che vengono alla mente
+[15:47] pensando ad internet al grande mercato della rete
+[15:50] sono le opportunità per chi esporta
+[15:53] oppure per chi potrebbe esportare prodotti italiani,
+[15:57] ma ci sono ovviamente dei buoni motivi per andare online
+[16:02] anche per chi si rivolge ad una platea locale.
+[16:10] Perché i vostri clienti sono online.
+[16:13] Anche se si tratta di un cliente locale
+[16:15] avrà certamente il suo smartphone in tasca.
+[16:18] Qual è la prima cosa che fai oggi quando ti si rompe la caldaia?
+[16:22] Prendi il cellulare e guardi un video che spieghi come aggiustarla
+[16:27] e se non ci riesci cerchi un idraulico e lo cerchi in rete.
+[16:31] Lo stesso idraulico può usare la rete per pianificare gli interventi
+[16:35] o per le fatturazioni.
+[16:37] Anche un idraulico può passare più tempo a fare il suo lavoro
+[16:41] e meno tempo per sbrigare le pratiche contabili.
+[16:44] E questo vale per tutti i campi.
+[16:47] E questo applica a ogni tipo di business oggi.
+[17:37] Tutti i trend tecnologici digitali.
+[17:41] Saluto Carlo Salvioni, che è responsabile dell'innovazione in IQVIA Italia.
+[17:47] Benvenuto, bentornato a 2024.
+[17:49] Grazie.
+[17:50] Diciamo due parole brevemente su l'attività di IQVIA,
+[17:55] questa società americana che si occupa dell'industria del farmaco
+[18:00] ma in quali dimensioni e in quali termini?
+[18:02] Esattamente, noi siamo la principale, se non altro per dimensioni,
+[18:06] società al mondo di servizi per il mondo farmaceutico e sanitario in generale
+[18:11] e ci copriamo di quella che chiamiamo la Human Data Science,
+[18:14] cioè la scienza dei dati applicata alla sanità e alla farmaceutica.
+[18:18] Quindi siamo una società che si occupa di tutto quello che è dato,
+[18:21] in particolare veramente Big Data sanitari,
+[18:24] tutto quello che è la loro analisi
+[18:26] e poi anche ci occupiamo di applicarli nella ricerca
+[18:28] e nello sviluppo di nuovi farmaci.
+[18:30] Quindi siamo anche la principale società che fa ricerca clinica al mondo,
+[18:33] quindi test dei nuovi farmaci.
+[18:34] Approprio al servizio delle grosse, esattamente.
+[18:36] Usando la leva dei dati e degli analytics.
+[18:39] E quindi sicuramente voi da questo punto di vista
+[18:42] siete sicuramente immersi in questo nuovo trend
+[18:46] della sperimentazione digitale.
+[18:48] Certamente, il digitale come in tutti i contesti
+[18:51] sta cambiando radicalmente molte, diciamo,
+[18:54] delle pratiche che abbiamo visto finora
+[18:56] e la sanità e la farmaceutica non sono eccezioni.
+[18:59] E ovviamente si fanno sempre più esperimenti virtuali
+[19:02] su computer, su grandi calcolatori
+[19:06] e non so se dire sempre meno nel vivo.
+[19:10] Ma diciamo la direzione.
+[19:11] Ora, per quanto riguarda esperimentazioni,
+[19:13] c'è sicuramente una direzione di,
+[19:15] così dire, virtualizzazione di molte attività.
+[19:17] Infatti si parla anche di virtual clinical trials,
+[19:20] quindi test clinici virtuali,
+[19:22] è una cosa di cui già noi ci occupiamo.
+[19:25] Ancora da cui a dire che si nota
+[19:28] la forte virtualizzazione è un po' presto,
+[19:30] in realtà ancora gran parte,
+[19:32] la stragrande maggioranza della ricerca clinica
+[19:34] avviene con le metodiche tradizionali,
+[19:36] cioè sempre necessario ovviamente una forte interazione
+[19:39] proprio sul paziente reale, nel mondo reale,
+[19:41] con medici, infermieri e supporto reale.
+[19:44] Però quello che sta dietro,
+[19:46] la ricerca clinica sta cambiando moltissimo,
+[19:48] sia la sua programmazione che la sua analisi,
+[19:50] tutto il data management è sicuramente diventato,
+[19:53] sta diventando molto, molto,
+[19:55] molto avanzato attraverso la gestione
+[19:57] dei big data sanitaria e gli analytics.
+[19:59] Un tema che qualche mese fa,
+[20:02] tu mi avevi sollecitato comunque,
+[20:05] mi avevi fatto conoscere perché proprio non conoscevo,
+[20:08] si chiama Digital Therapeutics.
+[20:10] Siamo veramente i primissimi anni,
+[20:12] anche se una prima app
+[20:15] che rientra in questo mondo
+[20:17] del Digital Therapeutics è stata approvata
+[20:20] dalla Agenzia di Regolamentazione
+[20:23] di una farmaci americana.
+[20:25] Quindi possiamo dire che questa era
+[20:27] è già iniziata in modo vero e proprio.
+[20:30] Come lo traduciamo?
+[20:32] Digital Therapeutics, terapia digitali va bene?
+[20:35] Sì, esattamente sono, diciamo,
+[20:37] farmaci digitali, potremmo dire,
+[20:39] anche se chiaramente Digital Therapeutics
+[20:41] rende abbastanza bene.
+[20:43] Ci stai dicendo una cosa importante,
+[20:45] farmaci digitali.
+[20:47] Stiamo parlando di una cosa che è in tutto,
+[20:49] per tutto un farmaco.
+[20:51] O ambiscia avere l'effetto di un farmaco
+[20:54] senza avere una sostanza, come dire, chimica
+[20:58] o biochimica quanto invece
+[21:00] una sostanza puramente digitale.
+[21:02] E questo è sicuramente uno dei trend
+[21:05] che si è già avviato,
+[21:07] che vede come spesso succede
+[21:09] gli Stati Uniti a questo punto di vista
+[21:10] più avanti in questo trend,
+[21:12] però è un trend molto interessante
+[21:14] perché grazie a tecnologie digitali
+[21:15] oggi è possibile avere degli effetti clinici,
+[21:17] misurabili e terapeutici, appunto,
+[21:19] sui pazienti.
+[21:21] Quindi ci sono molte startup
+[21:23] che stanno lavorando
+[21:25] nello sviluppo di queste tecnologie,
+[21:27] in alcuni casi sono delle app,
+[21:29] maggior parte dei casi sono delle app,
+[21:31] e attraverso l'interazione con queste app
+[21:33] si può effettivamente arrivare
+[21:35] ad avere degli effetti misurabili clinicamente.
+[21:37] Ricordiamo sempre che la misurazione
+[21:39] dell'effetto clinico deve seguire sempre
+[21:41] un percorso scientificamente validato,
+[21:43] altrimenti poi si entra
+[21:45] in settori poco chiari.
+[21:47] Certo. Qui è un settore molto serio
+[21:49] dove a cui dipendono ovviamente
+[21:51] la salute di tante persone.
+[21:53] Però è possibile oggi tra queste tecnologie digitali
+[21:55] ci sono i primi esempi concreti
+[21:57] con cui facevi riferimento.
+[21:59] Il primo esempio di tecnologia
+[22:01] di digital terapetica approvato da FDA
+[22:03] che è appunto la Food and Drug Administration
+[22:05] che approva che l'agenzia del farmaco
+[22:07] americana e che naturalmente
+[22:09] rappresenta un punto di riferimento
+[22:11] insieme alla nostra EMA
+[22:13] a livello internazionale.
+[22:15] Quindi per la prima volta è stato approvato
+[22:17] un farmaco digitale, diciamo così,
+[22:19] un digital terapetic che si occupa
+[22:21] dei disordini da uso di droga.
+[22:23] È stato fatto da una start-up,
+[22:25] si chiama Pierre Therapetics,
+[22:27] in collaborazione con Novartis,
+[22:29] una divisione di Novartis, Sundots
+[22:31] da cui c'era già stata una partnership
+[22:33] tra queste due società e quindi
+[22:35] per la prima volta ha completato
+[22:37] questo percorso di approvazione.
+[22:39] Evidentemente è stata dimostrata
+[22:41] scientificamente la validità
+[22:43] di questo percorso
+[22:45] e per la prima volta abbiamo questo tipo di farmaco.
+[22:47] Ma sicuramente ce ne sono altri,
+[22:49] stiamo anche monitorando che sono in corso di sviluppo.
+[22:51] Devo dire che nascono principalmente
+[22:53] da start-up tecnologiche,
+[22:55] diciamo un po' le idee e i primi sviluppi
+[22:57] e in presto
+[22:59] questo vengono
+[23:01] sposati dai grandi gruppi farmaceutici
+[23:03] che stanno anche loro
+[23:05] investendo in questo campo
+[23:07] e quindi si assiste a molte alleanze.
+[23:09] Più alleanze direi che
+[23:11] non c'è un livello proprio,
+[23:13] cioè non ancora le aziende farmaceutiche
+[23:15] che non è che stanno acquisendo
+[23:17] però diciamo stanno sicuramente
+[23:19] sperimentando e si stanno vedendo i primi risultati.
+[23:21] Questo è molto importante.
+[23:23] Sì è molto interessante anche se dobbiamo
+[23:25] delimitare il campo d'applicazione,
+[23:27] ovvio che non possiamo pensare
+[23:29] in futuro che se io
+[23:31] ho la tos mal di gola
+[23:33] oppure la febbre ci sia una terapia digitale
+[23:35] che me la fa andar via.
+[23:37] Ci sarà sempre la medicina
+[23:39] però per tutta una serie di
+[23:41] e che tipo di patologie
+[23:43] che tipo di malattie possono essere
+[23:45] e sono pensate anche quelle
+[23:47] che stanno
+[23:49] in sperimentazione in questo momento
+[23:51] perché ricordiamo come giustamente tu dicevi
+[23:53] che siamo agli inizi
+[23:55] e così come per i farmaci
+[23:57] dovremmo
+[23:59] attendere per
+[24:01] tutte queste idee
+[24:03] la validazione scientifica
+[24:05] che può durare anche anni.
+[24:07] È molto lungo, pensate nel mondo
+[24:09] diciamo nella modalità tradizionale
+[24:11] un farmaco che viene subato in oltre 10 anni
+[24:13] solamente i test clinici
+[24:15] poi c'è il processo preclinico
+[24:17] quindi a volte ci può 15 anni
+[24:19] il sviluppo di un farmaco quindi è un processo molto lungo.
+[24:21] Ora senza aspettare questi tempi
+[24:23] però comunque non è quello a cui siamo abituati
+[24:25] invece nel mondo non farmaciautico
+[24:27] dove uno tra l'idea e la realizzazione
+[24:29] e il lancio su uno store digitale
+[24:31] è questione di pochi mesi
+[24:33] se non settimane quindi sicuramente
+[24:35] è una cosa diversa.
+[24:37] Dicevamo gli ambiti privilegiati
+[24:39] in cui vediamo investimento e sviluppo
+[24:41] in questo momento sono principalmente
+[24:43] quelli delle patologie mentali
+[24:45] quindi la salute mentale
+[24:47] gestione del dolore
+[24:49] sicuramente e tutta una serie di patologie
+[24:51] croniche invalidanti
+[24:53] però in qualche modo legate anche alla prima
+[24:55] che dicevamo mentali come per esempio
+[24:57] alzheimer, Parkinson e quattro.
+[24:59] In alcuni casi servono per
+[25:01] trattare queste patologie
+[25:03] e in altri anche per fare una diagnosi
+[25:05] più tempestiva e costante
+[25:07] per esempio monitorare la progressione
+[25:09] di una patologia invalidante come il Parkinson
+[25:11] oppure fare una diagnosi precoce
+[25:13] di un alzheimer
+[25:15] su un paziente potenzialmente a rischio
+[25:17] oggi si può fare attraverso
+[25:19] delle app o comunque dei software
+[25:21] in alcuni casi esistono dei game
+[25:23] quindi proprio dei video giochi
+[25:25] che permettono di capire la reattività
+[25:27] di un paziente e sulla base di questo
+[25:29] capire il suo percorso
+[25:31] diciamo eventuale peggioramento
+[25:33] in una patologia e quindi intervenire
+[25:35] anche più tempestivamente. In alcuni casi
+[25:37] addirittura diagnosticare precocemente
+[25:39] nel caso delle patologie mentali
+[25:41] schizofrenia, depressione
+[25:43] sicuramente spesso questi sono anche pazienti
+[25:45] difficili da intercettare
+[25:47] che difficilmente per la natura del loro problema
+[25:49] spesso vanno da un dottore
+[25:51] perché appunto hanno questo tipo di disturbi
+[25:53] ecco invece
+[25:55] il cellulare come spesso c'è
+[25:57] insieme a tutti noi
+[25:59] quindi è molto più facile
+[26:01] anche se rimangono degli ostacoli però
+[26:03] è molto più facile avvicinarsi
+[26:05] al paziente, nel suo ambiente
+[26:07] quando vuole lui e riuscire a capire
+[26:09] come si sente, come sta
+[26:11] qual è la progressione della sua patologia
+[26:13] e questo è estremamente importante
+[26:15] dicevamo che gli Stati Uniti
+[26:17] sono i precursori
+[26:19] e la prima
+[26:21] app di digital therapeutics
+[26:23] approvata
+[26:25] e negli Stati Uniti questa
+[26:27] di peer therapeutics
+[26:29] però in Europa c'è il caso
+[26:31] di una app
+[26:33] per una maratia che è simile in tutto
+[26:35] cioè è proprio un digital therapeutic
+[26:37] per
+[26:39] per una patologia dello recchio del dodito
+[26:41] sì sì questo è un caso
+[26:43] già che ha qualche
+[26:45] qualche anno però è interessante
+[26:47] perché in Germania una start up
+[26:49] si chiama teeny track
+[26:51] ha appunto realizzato questa app
+[26:53] che va a curare la cufene
+[26:55] della patologia dello recchio
+[26:57] sostanzialmente che crea questo ruone
+[26:59] molto fastiglioso e persistente
+[27:01] e praticamente applicando
+[27:03] usando le proprie liste
+[27:05] di canzoni preferite, le proprie playlist
+[27:07] applica dei filtri
+[27:09] e seleziona quelle canzoni
+[27:11] che hanno le frequenze giuste
+[27:13] per poter trattare questa patologia
+[27:15] della loro recchio quindi sostanzialmente
+[27:17] solo ascoltando della musica
+[27:19] però selezionata e filtrata in maniera
+[27:21] apposita sia un effetto
+[27:23] di terapia
+[27:25] secondo voi di
+[27:27] a chi uvia
+[27:29] questo sarà un mercato importante
+[27:31] interessante o rimarrà una cosa di nicchia
+[27:33] un po' da
+[27:35] non dico addetti ai lavori
+[27:37] non sarà un mercato di massa
+[27:39] allora dobbiamo
+[27:41] diciamo è chiaro che non può sostituire
+[27:43] il mercato farmaceutico globale
+[27:45] è talmente grande
+[27:47] quello basato su
+[27:49] diciamo su delle tecnologie
+[27:51] vedremo molti esempi
+[27:53] o saranno veramente pochi
+[27:55] vedremo molti esempi
+[27:57] anche perché
+[27:59] non esiste solo il mondo per digital therapeutics
+[28:01] non si intende solamente
+[28:03] proprio quelli che sono
+[28:05] farmaci digitali puri
+[28:07] cioè la cui solo somministrazione di questa tecnologia
+[28:09] ha un effetto clinico
+[28:11] ma si intendono anche una serie di tecnologie
+[28:13] altre app sostanzialmente
+[28:15] che si vanno a potenziare l'effetto
+[28:17] invece tradizionale di una terapia già esistente
+[28:19] questo lo chiamiamo
+[28:21] per esempio quello che si chiama
+[28:23] around the peel
+[28:25] cioè quello che sta intorno alla pilota
+[28:27] la pilota rimane quindi il farmaco
+[28:29] rimane dovrebbe essere bisogna continuare
+[28:31] a prenderlo però c'è
+[28:33] tutto un insieme di tecnologie
+[28:35] e di app che arrivano anzi tutto a far migliorare
+[28:37] l'adherenza alla terapia
+[28:39] che oggi ancora è uno dei principali problemi
+[28:41] che c'è a livello mondiale
+[28:43] cioè il fatto semplicemente noi pazienti
+[28:45] quando ci viene data una terapia
+[28:47] per i più diversi motivi
+[28:49] e questo porta a risultati clinici molto inferiori
+[28:51] rispetto a quelli attesi
+[28:53] è una cosa semplice ma in realtà devastante
+[28:57] la tecnologia digitale
+[28:59] attraverso non solo dei banali notifiche
+[29:01] ma proprio dei meccanismi di ingaggio
+[29:03] del paziente durante la sua vita quotidiana
+[29:05] permette di potenziare
+[29:07] questo effetto
+[29:09] questo lo chiamiamo around the peel
+[29:11] invece i digital therapeutics cometali
+[29:13] quelli che possiamo definire
+[29:15] quindi a quel punto non c'è neanche bisogno
+[29:17] del farmaco
+[29:19] effettivamente rimarranno
+[29:21] una piccola nicchia rispetto
+[29:23] al mercato farmaciativo globale
+[29:25] ma molto interessante
+[29:27] e ovviamente molto diversa
+[29:29] come sistema di distribuzione e remunerazione quant'altro
+[29:31] quindi molto molto valido
+[29:33] comunque sempre proprio per
+[29:35] per concludere questo capitolo
+[29:37] ci saranno quindi
+[29:39] prescrizioni di medici
+[29:41] che prescriveranno invece che la peel
+[29:43] app
+[29:45] e magari il servizio sanitario nazionale
+[29:47] passerà
+[29:49] questa terapia con l'applicazione
+[29:51] esatto esatto questo già esiste
+[29:53] oggi è una tecnologia
+[29:55] tra l'altro che facciamo anche noi
+[29:57] di praticamente una specie di portale
+[29:59] una specie di store dove il medico
+[30:01] può andare a scegliere le app
+[30:03] perché uno dei problemi che c'è oggi su le app
+[30:05] legate alla salute che sono tantissime
+[30:07] e ci si può perdere
+[30:09] sono veramente
+[30:11] di migliaia e cambiano continuamente
+[30:13] e quindi un medico
+[30:15] medio diciamo non ha
+[30:17] nessuna possibilità di capire
+[30:19] quali sono affidabili, quali sono serie
+[30:21] quali vale la pena prescrivere
+[30:23] quindi oggi si sta assistendo anche
+[30:25] per esempio noi abbiamo una piattaforma che è app script
+[30:27] e sostanzialmente fa esattamente questo
+[30:29] seleziona in collaborazione
+[30:31] con le istituzioni quelle app che meritano
+[30:33] di entrare all'interno in questo store
+[30:35] quindi il medico nel momento in cui fa la diagnosi
+[30:37] e sceglie anche quali sono le app
+[30:39] in questo store va su uno store dedicato
+[30:41] nel quale sceglie solo le app
+[30:43] che sono certificate e in quel momento
+[30:45] la sua prescrizione manda proprio per i mail
+[30:47] o per sul cellulare il link
+[30:49] perché il suo paziente oltre magari al farm
+[30:51] così scarichi anche l'app giusta
+[30:53] per il farm quindi assolutamente
+[30:55] sì una specie di prontuario
+[30:57] delle app che può essere prescritte in tempo reale
+[30:59] esatto quindi questo è importante
+[31:01] perché mi prende una parte
+[31:03] della responsabilità, selezionando queste app
+[31:05] la selezione delle app
+[31:07] non è in Italia questo
+[31:09] non c'è ancora in Italia questa cosa qui
+[31:11] sì ma chiaramente viene
+[31:13] condivisa con la società che poi
+[31:15] o con l'istituzione che poi rimborsa
+[31:17] effettivamente l'app oppure la certiva
+[31:19] quindi c'è un comitato scientifico quant'altro
+[31:21] un'ultima domanda poi
+[31:23] vuoi cambiare prospettiva
+[31:25] il fatto che
+[31:27] noi non sono in Italia ma in Europa
+[31:29] siamo un po' più lenti
+[31:31] nella aduzione di queste chiamiamo le novità
+[31:33] è dovuto a
+[31:35] una regolamentazione diversa
+[31:37] a una propensione all'innovazione diversa
+[31:39] a che cos'altro
+[31:41] forse penso
+[31:43] questo è un settore molto sensibile
+[31:45] visto che si parla della salute
+[31:47] delle persone e quindi c'è una grande
+[31:49] attenzione
+[31:51] soprattutto sulla gestione dei dati
+[31:53] ci siamo più prudenti sicuramente
+[31:55] sappiamo che su altre
+[31:57] questo si applica nel digitale
+[31:59] anche con il GDPR
+[32:01] tutte le altre regolamentazioni
+[32:03] però che insomma ci sono
+[32:05] più gradi di libertà in certi contesti geografici
+[32:07] e noi siamo come Europa
+[32:09] siamo particolarmente attenti che non è
+[32:11] necessariamente un male anzi
+[32:13] in questo settore è sicuramente
+[32:15] una cosa benvenuta però avviene
+[32:17] con velocità diverse se vediamo
+[32:19] dal punto di vista globale
+[32:21] sì anche perché poi
+[32:23] se una serie di
+[32:25] farmaci che sono applicazioni
+[32:27] nel digital therapeutics avranno successo
+[32:29] ovviamente gli Stati Uniti saranno
+[32:31] più avvantaggiati rispetto alle
+[32:33] start-up europee quindi
+[32:35] da un lato potrebbe essere positivo
+[32:37] questa prudenza dal
+[32:39] punto di vista del business non è detto che lo sia
+[32:41] dunque
+[32:43] Alexa quindi
+[32:45] parliamo di Amazon
+[32:47] ha brevettato un sistema per
+[32:49] capire o tentare
+[32:51] di capire se uno parlando
+[32:53] a Maldigola che
+[32:55] anche qua dice ma c'è incredibile
+[32:57] e qua entriamo nel
+[32:59] ribadiamo una cosa che abbiamo
+[33:01] già detto in altre occasioni
+[33:03] di quanto anche nel settore
+[33:05] farmaciautico comunque
+[33:07] in generale della salute
+[33:09] sia costantemente
+[33:11] un tema che interessa
+[33:13] le grandi
+[33:15] società della rete
+[33:17] banalmente
+[33:19] abbiamo visto negli ultimi anni
+[33:21] devo dire che poi non c'è stato
+[33:23] questa grande accelerazione però sono
+[33:25] entrate in questo mercato sia Apple che
+[33:27] Google con le app salute
+[33:29] per tentare di monitorare
+[33:31] di aiutarci a aiutar anche noi
+[33:33] a monitorare il nostro stato di salute
+[33:35] però questo è un trend che
+[33:37] vede altri protagonisti ad esempio
+[33:39] Amazon esatto
+[33:41] direi tutte le grandi
+[33:43] società tecnologiche oggi hanno
+[33:45] investimenti più o meno sotto
+[33:47] traccia nel settore healthcare
+[33:49] naturalmente il mondo della salute
+[33:51] della sanità come vedete si
+[33:53] sviluppa con tempi un po' più lenti
+[33:55] non per tutta una serie di vincoli
+[33:57] per la sua complessità per i problemi abbiamo detto
+[33:59] anche vincoli regolato
+[34:01] nulla è esploso
+[34:03] però ecco come spesso succede
+[34:05] i fenomeni come sappiamo
+[34:07] si tende un po' a sovrastimarli
+[34:09] nel breve
+[34:11] ma sottostimarli nel lungo
+[34:13] la sanità sicuramente
+[34:15] nel lungo periodo lo stiamo
+[34:17] vedendo sono investimenti costanti
+[34:19] e quindi si sta arrivando in maniera
+[34:21] molto forte a un cambiamento
+[34:23] che è sempre più visibile
+[34:25] gli esempi che dicevi il primo
+[34:27] Amazon anche rispetto all'ultima volta
+[34:29] che ne avevamo parlato in questi mesi
+[34:31] effettivamente Amazon fa tutta una serie di cose
+[34:33] che poi sono
+[34:35] sono resi visibili sul mercato
+[34:37] che vanno tutte nella direzione
+[34:39] di un impegno sempre maggiore in mondo del care
+[34:41] quello che cittavi è forse uno diciamo più emblematico
+[34:43] autobre è stato
+[34:45] concesso dal patent office
+[34:47] americano questo brevetto
+[34:49] che permette sostanzialmente ad Alexa
+[34:51] quindi attraverso i suoi device
+[34:53] ICO
+[34:55] di capire
+[34:57] se chi sta parlando effettivamente
+[34:59] a Maldigola o una tosse
+[35:01] quindi si vede proprio anche c'è
+[35:03] questi disegnini famosi
+[35:05] che si possono trovare sul web del brevetto
+[35:07] dove si vede proprio la persona
+[35:09] che interagisce specia e Alexa
+[35:11] ascoltando un comando magari banale
+[35:13] che chiede non so le previsioni del tempo
+[35:15] dici ah ma hai anche sento che hai
+[35:17] del Maldigola e sento che hai della tosse
+[35:19] arrivare un sciroppo della tosse
+[35:21] entro una perché è già collegato
+[35:23] perché uno si domanda ma per quale motivo
+[35:25] Amazon è interessata
+[35:27] ma questo motivo che hai scritto proprio
+[35:29] nel fumetto è abbastanza evidente
+[35:31] nel senso di dire posso anche subito suggerirti
+[35:33] magari un farmaco
+[35:35] comunque si qualcosa
+[35:37] che ti può essere immediata
+[35:39] che puoi acquistare immediatamente
+[35:41] quindi se uno vive una grande città
+[35:43] dove c'è anche la consegna in un'ora
+[35:45] effettivamente si risponde
+[35:47] in realtà di questo è molto maggiore
+[35:49] si ricollega anche al tema di digital
+[35:51] terapetist che dicevamo prima
+[35:53] è chiaro che non solo Alexa
+[35:55] ma in generale tutti i voice assistant
+[35:57] di cui vediamo una grande diffusione
+[35:59] tanto se non sbaglio proprio Amazon ha fatto
+[36:01] trapellare che adesso ci sono più di 100 milioni
+[36:03] devices installati con la tecnologia Alexa
+[36:05] quindi un numero sicuramente importante
+[36:07] il punto di domanda è se
+[36:09] vengono utilizzate
+[36:11] diciamo comunque la base installata
+[36:13] inizia essere importante
+[36:15] quanto più questi
+[36:17] questi strumenti entrano anche
+[36:19] in gestione a salute e sono sinegici
+[36:21] per esempio con un farmaco che non prende
+[36:23] iniziano a ricordarti quando devi prendere il farmaco
+[36:25] è chiaro che entrano
+[36:27] in un percorso terapetico della gestione del paziente
+[36:29] un altro esempio sempre di Amazon
+[36:31] è che Amazon ha lanciato
+[36:33] una serie di apparecchiature
+[36:35] biomedicali per
+[36:37] le cose più comune per esempio la misurazione
+[36:39] della Glicemia e altre cose
+[36:41] che si interfa
+[36:43] sono disponibili solo su Amazon
+[36:45] si possono acquistare solo su Amazon
+[36:47] si chiama questa linea Amazon Choice
+[36:49] di questi prodotti
+[36:51] e una volta che uno li riceve li usa come
+[36:53] gli altri diagnostici
+[36:55] ma si interfaccano di nuovo con Alexa
+[36:57] quindi possono mandare la misurazione
+[36:59] direttamente ad Alexa
+[37:01] quindi ecco che c'è già
+[37:03] tutta la base tecnologica pronta
+[37:05] e direi già operativa per poter seguire
+[37:07] un pazio, addirittura fare
+[37:09] non dico di agno, si va comunque
+[37:11] da alcuni parametri come il caso
+[37:13] dell'esempio della tosse prima
+[37:15] e poi poterlo seguire
+[37:17] nella misurazione che fa e quindi
+[37:19] poi magari metterlo in contatto con un medico
+[37:21] con un farmacista
+[37:23] la fantasia
+[37:25] e Apple
+[37:27] Microsoft
+[37:29] Google
+[37:31] tutti stanno
+[37:33] operando in tanti campi
+[37:35] però nel campo della salute
+[37:37] tutti stiamo assistendo
+[37:39] reclutando molti executive
+[37:41] quindi di alto livello
+[37:43] che vengono da asturici accademiche
+[37:45] grandi ospedali
+[37:47] veramente persone di alto profilo e questo in genere
+[37:49] è sempre un segnale di investimento concreto
+[37:51] al di là diciamo degli investimenti
+[37:53] in soldi
+[37:55] Apple addirittura Tin Cook proprio poco tempo fa
+[37:57] ha detto che se dice per una cosa
+[37:59] sarà ricordata Apple
+[38:01] sarà per il suo contributo
+[38:03] alla healthcare, è veramente incredibile
+[38:05] già oggi, non so se si riferisse
+[38:07] a quello ma non penso
+[38:09] già oggi c'è un programma
+[38:11] di raccolta dati
+[38:13] da parte degli utenti di iPhone
+[38:15] che possono essere
+[38:17] ceduti a organizzazioni
+[38:19] che fanno ricerca scientifica
+[38:21] però non penso che si riferisse a quello
+[38:23] no non si riferisse sicuramente
+[38:25] solo a quello anche se è interessante
+[38:27] quello si riferisse a Research Kit
+[38:29] che è stato lanciato alcuni anni fa
+[38:31] che è una piattaforma interessante e raccolta dati clinici
+[38:33] ma in generale sappiamo che
+[38:35] il primo modello di Apple Watch
+[38:37] la quarta serie
+[38:39] può fare elettrocardiogramma
+[38:41] è stato approvato da FDA
+[38:43] non ancora in Europa
+[38:45] però lo può fare
+[38:47] si può inviare il proprio elettrocardiogramma
+[38:49] usurato con Apple Watch
+[38:51] direttamente al proprio medico
+[38:53] altri che lo posso utilizzare
+[38:55] questo è un esempio
+[38:57] ma non è solamente questa cosa qui
+[38:59] però è significativo già questa affermazione
+[39:01] che evidentemente
+[39:03] sta andando molto avanti
+[39:05] Google
+[39:07] lo stesso sta continuando a fare
+[39:09] addirittura una divisione
+[39:11] dedicata anche a sanità
+[39:13] e ha fatto numerosi partnership
+[39:15] anche partnership con player
+[39:17] tradizionali per esempio
+[39:19] Walgreens, Boots Alliance
+[39:21] hanno recentemente fatto una partnership
+[39:23] su con Google
+[39:25] che offrirà delle due catene
+[39:27] di farmacie più grandi negli stati
+[39:29] parliamo di migliaia di farmacie
+[39:31] quasi 8.000, 7.600 farmacie
+[39:33] quindi sono grandi catene
+[39:35] e quindi stanno facendo
+[39:37] un accordo molto importante
+[39:39] anche per la gestione
+[39:41] di patologie croniche
+[39:43] come il diabete
+[39:45] anche qui in collaborazione con Google
+[39:47] un altro accordo importante
+[39:49] sempre di Walgreens di poco tempo fa
+[39:51] è con Microsoft
+[39:53] addirittura c'è un video molto interessante
+[39:55] con CEO di Microsoft
+[39:57] e il CEO di Walgreens che è un italiano
+[39:59] che proprio hanno annunciato insieme
+[40:01] questo importante accordo
+[40:03] che è 7 anni
+[40:05] e che prevede
+[40:07] il supporto di Microsoft a Walgreens
+[40:09] anzi tutto per la trasformazione digitale
+[40:11] della stessa Walgreens
+[40:13] quindi è proprio un accordo interno
+[40:15] in un certo senso
+[40:17] ma poi anche per sviluppare insieme
+[40:19] tutta una serie di servizi che andranno sui clienti di Walgreens
+[40:21] e quindi vi potete immaginare
+[40:23] milioni di clienti che vanno
+[40:25] nelle migliaia di farmacie
+[40:27] e di Walgreens negli Stati Uniti
+[40:29] e questo è proprio un'alleanza
+[40:31] un esempio molto forte di alleanza
+[40:33] tra player tradizionali e player digitali
+[40:35] che si oppongono magari
+[40:37] ad altri player che invece vogliono
+[40:39] entrare direttamente su
+[40:41] tra l'altro in un settore
+[40:43] di cui si parla
+[40:45] poco quando si parla
+[40:47] di digitalizzazione
+[40:49] perché diciamo la verità
+[40:51] non è sicuramente uno dei temi principali
+[40:53] però gradualmente
+[40:55] ma inesorabilmente
+[40:57] andremo in quella direzione
+[40:59] io ringrazio Carlo Salvioni per essere stato con noi
+[41:01] ricordo che è responsabile
+[41:03] dell'innovazione, non solo
+[41:05] ma diciamo che se qui con questa veste
+[41:07] in IQvia
+[41:09] che è un big player internazionale
+[41:11] quando si parla di dati
+[41:13] e salute, sanità e farmacie
+[41:15] big pharma, a presto buon lavoro
+[41:17] grazie
+[41:27] molti esperti ritengono che
+[41:29] la biometria giocherà
+[41:31] è un ruolo importante
+[41:33] per l'identificazione
+[41:35] e l'autenticazione online
+[41:37] delle persone
+[41:39] non solo online
+[41:41] per un uso più semplice dei servizi
+[41:43] servizi molto spesso digitali
+[41:45] fino ad un migliore controllo del crimine
+[41:47] ma alcune cose le stiamo già
+[41:49] vedendo in questi anni
+[41:51] ma negli ultimi mesi si stanno
+[41:53] ripetendo gli appelli
+[41:55] soprattutto negli Stati Uniti
+[41:57] ad un uso etico di queste tecnologie
+[41:59] in particolare dei sistemi di riconoscimento
+[42:01] facciale
+[42:03] questa settimana anche Amazon
+[42:05] parliamo prima di Amazon
+[42:07] ne riparliamo a risposto
+[42:09] all'appello di Microsoft
+[42:11] per una regolamentazione
+[42:13] dei sistemi di riconoscimento
+[42:15] facciale
+[42:17] e uno si domanda come mai
+[42:19] Microsoft per prima e poi adesso
+[42:21] anche Amazon dicono
+[42:23] chiedono al governo di intervenire
+[42:25] Fabio Pietro Santi
+[42:27] presidente co-fondatore del Centro Hermes
+[42:29] per la trasparenza e i diritti umani digitali
+[42:31] nonché esperto di Cyber Security
+[42:33] bentornata a 2024
+[42:35] ecco perché c'è questa ring corsa
+[42:37] poi ho citato due aziende
+[42:39] ma non sono le uniche a lanciare
+[42:41] questa sorta di allarme su strumenti
+[42:43] che noi ormai siamo abituati a utilizzare
+[42:45] sugli smartphone perché sia
+[42:47] il riconoscimento dell'impronte digitale
+[42:49] sia il riconoscimento facciale
+[42:51] sono su un certo numero
+[42:53] di smartphone disponibili
+[42:55] ormai normalmente
+[42:57] come identificazione
+[42:59] dell'utente
+[43:01] fino ad oggi noi siamo stati abituati
+[43:03] a utilizzare sul nostro smartphone
+[43:05] sistemi di riconoscimento biometrico
+[43:07] sia facciale o basato sull'impronte digitale
+[43:09] dove il dato biometrico
+[43:11] quindi un dato estremamente sensibile
+[43:13] anche secondo la regolamentazione
+[43:15] in particolar modo quella europea e GDPR
+[43:17] è conservato
+[43:19] sul nostro dispositivo
+[43:21] e trattato sul nostro dispositivo
+[43:23] quindi non è nella disponibilità
+[43:25] né di un fornitore come può essere
+[43:27] Google o Apple o Microsoft
+[43:29] o Amazon stessa
+[43:31] nel momento in cui
+[43:33] i grandi player in particolar modo
+[43:35] Microsoft e Amazon
+[43:37] hanno iniziato a rendere
+[43:39] disponibili delle funzionalità
+[43:41] delle API, cioè delle funzionalità
+[43:43] che possono essere richiamate nel cosiddetto cloud
+[43:45] che possono essere solo utilizzate anche da altri
+[43:47] che possono essere usate da altri
+[43:49] e remotamente, sui loro system informativi
+[43:51] di tipo biometrico si è aperta
+[43:53] la problematica di chi
+[43:55] può effettivamente trattare questi dati
+[43:57] e dove questi dati sono conservati
+[43:59] quindi finché
+[44:01] il dato biometrico
+[44:03] cioè la descrizione del mio dito
+[44:05] la descrizione della mia faccia
+[44:07] rimane sul mio telefono
+[44:09] o comunque sul mio computer
+[44:11] rimane a me nessun problema
+[44:13] i problemi nascono quando
+[44:15] questi dati cominciano a uscire
+[44:17] dal mio perimetro
+[44:19] Sì, perché il dato biometrico
+[44:21] è un dato personale estremamente
+[44:23] sensibile e
+[44:25] non tutti sanno che ad esempio
+[44:27] in Europa non è possibile
+[44:29] creare basi dati biometriche
+[44:31] nell'ambito privato
+[44:33] ma esclusivamente nell'ambito di
+[44:35] sistema di pubblica sicurezza e a titolo di esempio
+[44:37] i sistemi di tipo biometrico
+[44:39] ad esempio l'impronta digitale
+[44:41] vengono spesso utilizzati per
+[44:43] il controllo accessi, cioè l'apertura
+[44:45] porte o l'apertura dei varchi
+[44:47] in questi casi l'unico modo
+[44:49] con cui possono essere implementati
+[44:51] nel rispetto della legge è quando
+[44:53] il dato biometrico è conservato
+[44:55] all'interno di un dispositivo
+[44:57] nelle mani del titolare del dato biometrico
+[44:59] e tipicamente non si appoggia
+[45:01] solo l'impronta digitale sul tornello
+[45:03] ma si appoggia a una smartcard
+[45:05] che contiene il dato biometrico
+[45:07] che è con me nel mio portafoglio
+[45:09] e l'impronta digitale a quel punto
+[45:11] il sistema del tornello
+[45:13] effetto il trattamento ma non conserva
+[45:15] la mia impronta. Questo è
+[45:17] lo stesso tipo di fatti specie
+[45:19] c'è per la carta d'identità elettronica
+[45:21] che oggi quando ci si rega
+[45:23] presso un comune si lascia la propria impronta digitale
+[45:25] questa viene
+[45:27] stampiata digitalmente
+[45:29] all'interno della carta d'identità elettronica
+[45:31] ma non viene conservata
+[45:33] dallo Stato italiano che non può
+[45:35] creare una base dati
+[45:37] dell'impronte digitale di tutti i cittadini italiani
+[45:39] Sì poi c'è un altro elemento importante
+[45:41] che mentre le password
+[45:43] perché questi sistemi vengono
+[45:45] spesso utilizzati al posto della password
+[45:47] è visto che diciamo sempre
+[45:49] utilizzate password
+[45:51] molto
+[45:53] più che sofisticate complesse
+[45:55] magari lunghe
+[45:57] e cambiate le spesso
+[45:59] uno dice ma invece di usare la password
+[46:01] scriverla complesso
+[46:03] cambiarla spesso
+[46:05] uso il dito la faccia
+[46:07] e ho già risolto il problema
+[46:09] uno dei temi che vengono
+[46:11] quando si parla di biometria
+[46:13] è che mentre la password
+[46:15] in caso qualcuno me la rubi
+[46:17] la posso cambiare quindi risolvo il problema
+[46:19] se qualcuno mi ruba i dati
+[46:21] biometrici del mio dito della mia faccia
+[46:23] mi posso cambiare la faccia
+[46:25] o il dito
+[46:27] è vero i dati biometrici
+[46:29] che siano impronta digitale
+[46:31] o che siano riconoscimento facciale
+[46:33] possono essere
+[46:35] a seconda del livello di sofisticazione
+[46:37] dell'impianto di riconoscimento
+[46:39] sofisticate, agevolmente falsificati
+[46:41] e non a caso
+[46:43] i dati di tipo biometrico
+[46:45] impronta, riconoscimento facciale
+[46:47] vengono sempre utilizzati per
+[46:49] aumentare la sicurezza di un sistema
+[46:51] di identificazione già esistente
+[46:53] infatti si utilizzano
+[46:55] all'interno di quelli che sono chiamati
+[46:57] sistemi a doppio fattore di autenticazione
+[46:59] ad esempio, ho questa smartcard
+[47:01] e sono io
+[47:03] con questa impronta o conosco
+[47:05] questo pin e sono io con questa faccia
+[47:07] quando vado a utilizzare
+[47:09] due fattori di autenticazione
+[47:11] quello che ho quello che so insieme a quello
+[47:13] che sono, allora il sistema di riconoscimento
+[47:15] biometrico ha una sua
+[47:17] importante utilità, ma nel momento in cui
+[47:19] è l'unico fattore
+[47:21] di identificazione per l'autorizzazione
+[47:23] di un sistema informatico o per l'accesso
+[47:25] anche a dei locali come nel caso
+[47:27] dei tornelli parliamo di un sistema che si
+[47:29] presta a vulnerabilità
+[47:31] note, stranote e ampiamente dimostrate
+[47:33] si è molto interessante, tra l'altro
+[47:35] facendo riferimento a
+[47:37] due dati biometrici
+[47:39] che vengono oramai
+[47:41] molto utilizzati sugli smartphone, come ricordavamo
+[47:43] l'impronta digitale
+[47:45] e l'impronta del nostro viso, cioè
+[47:47] il riconoscimento del nostro viso
+[47:49] ce ne sono tantissimi
+[47:51] la nostra voce, ad esempio, può essere
+[47:53] ci sono dei sistemi che utilizzano la voce
+[47:55] come dato biometrico, addirittura
+[47:57] ci sono degli studi
+[47:59] ci sono anche alcune aziende che stanno cercando
+[48:01] di implementare
+[48:03] modo in cui noi camminiamo
+[48:05] perché pare che sia
+[48:07] unico e anche se può essere simile
+[48:09] ma ci sia proprio una caratteristica
+[48:11] che
+[48:13] determina
+[48:15] una persona
+[48:17] vorrei concentrarmi
+[48:19] un attimo sul riconoscimento facciale
+[48:21] perché ultimamente anche
+[48:23] Amazon è intervenuta
+[48:25] sposando
+[48:27] la richiesta di Microsoft di far
+[48:29] intervenire il governo per regolare
+[48:31] i sistemi di riconoscimento
+[48:33] del volto. Perché ci si sta
+[48:35] concentrando? Perché soprattutto
+[48:37] negli Stati Uniti si è così particolarmente
+[48:39] preoccupati dei sistemi di riconoscimento
+[48:41] facciale.
+[48:43] Partendo dal presupposto che
+[48:45] la regolamentazione su questi temi
+[48:47] Statunitenza è molto più debole
+[48:49] di quella europea e quindi è possibile
+[48:51] creare basi da di biometriche
+[48:53] e trattarle in modo anche ampio
+[48:55] tutto parte da un intervento
+[48:57] una denuncia pubblica
+[48:59] da parte dell'America al Civil Liberty Union
+[49:01] che si occupa di tutela dei diritti civili
+[49:03] in particolar modo del mondo digitale
+[49:05] sull'utilizzo massivo
+[49:07] e senza alcun tipo di
+[49:09] forma di autorizzazione giuridica
+[49:11] da parte dell'FBI
+[49:13] nell'utilizzare le funzionalità
+[49:15] di Microsoft e di Amazon
+[49:17] per effettuare attività di riconoscimento
+[49:19] facciale su grandi quantità di video
+[49:21] e grandi quantità di immagini.
+[49:23] Questo tipo di trattazione
+[49:25] soprattutto nel momento in cui non si tratta
+[49:27] di volti o video
+[49:29] alla ricerca di specifici
+[49:31] sospetti o condannati ad esempio
+[49:33] in Europa sarebbe
+[49:35] assolutamente illegale
+[49:37] anche posta da parte
+[49:39] della pubblica sicurezza.
+[49:41] I fornitori in questo caso
+[49:43] Amazon e Microsoft che vorrebbero essere
+[49:45] neutrali rispetto all'utilizzo
+[49:47] delle proprie funzionalità
+[49:49] e devono tenere di conto le denunce
+[49:51] fatte di chi si occupa della tutela
+[49:53] dei diritti civili invocano un intervento
+[49:55] per la creazione di una regolamentazione
+[49:57] che definisca i paletti
+[49:59] entro i quali sia soggetti privati
+[50:01] che soggetti pubblici possano utilizzare
+[50:03] tali funzionalità. In assenza di regolamentazione
+[50:05] verrà da sé che
+[50:07] la magistratura o le diverse agenzie
+[50:09] di sicurezza che fa un'attività investigativa
+[50:11] utilizzeranno alla massimo livello
+[50:13] possibile le funzionalità disponibili
+[50:15] e da lì l'esigenza di regolamentazione
+[50:17] invocata direttamente dai fornitori
+[50:19] di tecnologia. Certo.
+[50:21] C'è anche una gravante
+[50:23] per quanto riguarda
+[50:25] in modo particolare il riconosciimento facciale
+[50:27] che
+[50:29] mentre col dito
+[50:31] c'è un'azione volontaria
+[50:33] di, io che voglio farmi riconosciere
+[50:35] metto il dito sul lettore di impronte digitale
+[50:37] col volto
+[50:39] o mi metto un passamontà in testa
+[50:41] oppure
+[50:43] anche mentre il passeggi in una città posso essere riconosciuto
+[50:45] Si, questa è una
+[50:47] delle problematiche principali
+[50:49] nel momento in cui ci troviamo
+[50:51] una società in cui i sistemi
+[50:53] di telecamere
+[50:55] posti lungo le strade
+[50:57] nelle stazioni, negli aeroporti
+[50:59] spesso anche al di fuori di quelli che sono
+[51:01] locali privati, per finalità
+[51:03] legittime di sicurezza
+[51:05] assolutamente utili
+[51:07] vengono poi, in un secondo momento
+[51:09] interfacciati e interconnessi
+[51:11] a sistemi informativi complessi
+[51:13] che in modo massivo
+[51:15] e qui è l'elemento su cui soffermarsi
+[51:17] cercano di effettuare riconosciimento facciale
+[51:19] e identificazione di tutti i soggetti
+[51:21] che si spostano all'interno di quel perimetro video
+[51:23] ora, nel momento in cui
+[51:25] io cerco di effettuare un riconoscimento
+[51:27] facciale di tutti i soggetti che transino
+[51:29] all'interno della determinata area
+[51:31] per mappare anche i propri spostamenti
+[51:33] viene da sé
+[51:35] che il delicato bilanciamento tra
+[51:37] esigenza di tutela dei diritti civili
+[51:39] quali la privacy
+[51:41] e esigenza di pubblica sicurezza
+[51:43] devono trovare un giusto bilanciamento
+[51:45] è un caso particolare
+[51:47] quello del sistema SARI
+[51:49] utilizzato dal governo italiano
+[51:51] che attinge solo ed esclusivamente
+[51:53] a una base dati
+[51:55] di persone che hanno precedenti penali
+[51:57] o che all'interno della base dati AFIS
+[51:59] di collaborazione sul terrorismo internazionale
+[52:01] riconosce soggetti
+[52:03] che hanno precedenti nell'ambito del terrorismo
+[52:05] allora lì si va a restringere in modo
+[52:07] significativo
+[52:09] in quel caso si può fare e anche
+[52:11] in questo caso sarebbe stato necessario
+[52:13] un intervento e parere preventivo
+[52:15] da parte del garante privacy
+[52:17] cosa che tra l'altro in questo momento è in atto
+[52:19] quindi c'è stata una leggerezza da parte del ministro all'interno
+[52:21] c'è stata un'azione mediatica a riguardo
+[52:23] e in questo momento ci sono degli accertamenti
+[52:25] per verificare che
+[52:27] l'utilizzo del sistema SARI
+[52:29] da parte della Polizia di Stato
+[52:31] sia implementato con tutte le misure
+[52:33] di protezione correttamente
+[52:35] dei diritti civili
+[52:37] io potrei contromattere e dire
+[52:39] ma
+[52:41] visto che il terrorismo
+[52:43] comunque la criminalità è un problema
+[52:45] perché non
+[52:47] utilizzare
+[52:49] essere un po' più
+[52:51] morbidi rispetto
+[52:53] anche alle regole che noi in Europa abbiamo
+[52:55] e quindi favorire l'implementazione
+[52:57] di questi sistemi
+[52:59] che in modo massivo mentre la gente
+[53:01] passeggia per le città intercettano
+[53:03] individuano invece i criminali
+[53:05] questa forma
+[53:07] di trattamento e di rilevamento
+[53:09] parte dal presupposto che
+[53:11] lo Stato
+[53:13] sia un soggetto
+[53:15] di cui ci si può fidare sempre
+[53:17] e che il diritto alla privacy
+[53:19] non esista
+[53:21] il bilanciamento tra
+[53:23] le esigenze di sicurezza
+[53:25] e la tutela dei diritti legati alla privacy
+[53:27] e alla protezione dei dati
+[53:29] è il delicatissimo bilanciamento
+[53:31] alla sfida in cui ci troviamo
+[53:33] a affrontare nella corrente società
+[53:35] dell'informazione
+[53:37] non ci troviamo in Cina o nei Stati Uniti
+[53:39] i diritti individuali
+[53:41] legati alla privacy sono
+[53:43] particolarmente carenti e quindi
+[53:45] l'identificazione preventiva e massiva
+[53:47] di tutti i soggetti che passano all'interno
+[53:49] di un perimetro video non è un problema
+[53:51] perché non è illegale, da noi è già
+[53:53] illegale perché va a ledere
+[53:55] i diritti del passante
+[53:57] innocente e cittadino qualunque
+[53:59] che non ha alcun tipo di motivo
+[54:01] per vederti soggetta
+[54:03] il suo identificativo biometrico e il suo volto
+[54:05] mentre passeggia magari anche privo di uno smartphone
+[54:07] da solo
+[54:09] senza alcun tipo di
+[54:11] particolarità o di perimetro
+[54:13] sospetto
+[54:15] esistono delle eccezioni particolari
+[54:17] relativa al
+[54:19] passaggio nei perimetri
+[54:21] nazionali
+[54:23] ad esempio quando si attraversa un
+[54:25] confine aeroportuale perché si sta facendo
+[54:27] un viaggio internazionale, ma siamo all'interno
+[54:29] di eccezioni ben specifiche
+[54:31] trovarsi in un'area, nell'area
+[54:33] della movida milanese
+[54:35] ma è ricca di telecamere, sapere che queste
+[54:37] telecamere possono essere interconnessa
+[54:39] un sistema di riconoscimento facciale
+[54:41] con magari una storicizzazione per diversi mesi
+[54:43] dei flussi video, è un qualcosa
+[54:45] che può andare a ledere
+[54:47] i diritti individuali, tutte le persone
+[54:49] che si vanno a prendere una birra su una figlia
+[54:51] Senti, tutto ciò invece
+[54:53] ciò l'hai già in parte
+[54:55] ricordato negli Stati Uniti è molto
+[54:57] più facile, molto più semplice
+[54:59] in China facilissimo anzi
+[55:01] implementato dallo stato
+[55:03] però proprio per questo motivo
+[55:07] da un certo punto di vista
+[55:09] non si, nel caso
+[55:11] degli Stati Uniti e della Cina favorice
+[55:13] l'innovazione e invece in Europa
+[55:17] a causa in questo caso direi
+[55:19] la forte regolamentazione si frena
+[55:21] un po' l'innovazione in questo campo
+[55:25] Nel momento in cui si vuole
+[55:27] utilizzare un dato
+[55:29] biometrico, l'importante
+[55:31] è farlo con tutte le dovute
+[55:33] misure di sicurezza necessarie
+[55:35] in Cina sta andando
+[55:37] molto in voga l'utilizzo
+[55:39] di sistemi di serrature
+[55:41] nei condomini
+[55:43] basato sul riconoscimento facciale
+[55:45] tuttavia, creando una storicizzazione
+[55:47] di dettaglio di chi entra
+[55:49] e chi esce all'interno di quel palazzo
+[55:51] oltre ad avere una base dati di tutti
+[55:53] i volti molto dettagliati
+[55:55] e il loro cambiamento nel tempo
+[55:57] per fare cosa, per
+[55:59] di utilizzare la chiave o di utilizzare
+[56:01] un pin, questa non è necessariamente
+[56:03] innovazione perché la comodità
+[56:05] che vada a ottenere non ha effettivamente
+[56:07] portato un incredibile
+[56:09] miglioramento della qualità della vita
+[56:11] i meccanismi di bilanciamento
+[56:13] e controbilanciamento come
+[56:15] la detenzione
+[56:17] ha presso il detentore
+[56:19] del dato biometrico
+[56:21] del dato biometrico stesso può comunque
+[56:23] consentire un miglioramento delle condizioni
+[56:25] vada a sé che quando parliamo
+[56:27] di trattamento video
+[56:29] in condizioni particolari, ad esempio
+[56:31] pensiamo nei sistemi di conta valori
+[56:33] o dove ci sono area particolare
+[56:35] il rischio rapina o il rischio di furto
+[56:37] si possono chiedere delle deregue
+[56:39] e delle eccezioni per avere sistemi più invasivi
+[56:41] ma si parte sempre da presupposto che
+[56:43] di base il trattamento
+[56:45] del dato biometrico
+[56:47] non può essere effettuato
+[56:49] avendo a disposizione una base
+[56:51] dati biometrica
+[56:53] fatto salvo eccezioni garantite dalla legge
+[56:55] quindi si parte da un approccio
+[56:57] più conservativo
+[56:59] più tutelante dei diritti che in un'ottica
+[57:01] di medio e lungo periodo è quello vincente
+[57:03] certo quindi per concludere
+[57:05] alcune previsioni
+[57:07] che ci disegnano un mondo
+[57:09] nei prossimi anni
+[57:11] il futuro in cui
+[57:13] noi passeggiamo
+[57:15] veniamo riconosciuti e magari
+[57:17] ci arriva un messaggio pubblicitario
+[57:19] entriamo in metropolitana
+[57:21] e magari automaticamente
+[57:23] questo del biglietto tutto tramite riconoscimento
+[57:25] facciale
+[57:27] sono tutte leggende che non ci sono
+[57:29] sono leggende nel momento in cui
+[57:31] quando il nostro parametro
+[57:33] biometrico facciale
+[57:35] viene utilizzato per l'identificazione
+[57:37] mentre che è un sistema debole
+[57:39] è un sistema falsificabile
+[57:41] è un sistema che è anche dei falsi positivi
+[57:43] io su questo vorrei ricordare
+[57:45] l'omicidio che c'è stato
+[57:47] nel 2005 a Londra
+[57:49] da parte delle forze speciali
+[57:51] britanniche per un errore
+[57:53] di un sistema di riconoscimento
+[57:55] facciale che è identificato come terrorista
+[57:57] un cittadino brasilano innocente
+[57:59] sono intervenute le forze speciali
+[58:01] e lo hanno ucciso
+[58:03] il governo a quel punto ha detto
+[58:05] noi cosa ci possiamo fare
+[58:07] il sistema di riconoscimento facciale lo aveva identificato come terrorista
+[58:09] addirittura
+[58:11] il governo ha giustificato
+[58:13] la sua azione
+[58:15] il suo errore come è un errore dell'algoritmo
+[58:17] non possiamo pensare che
+[58:19] dove vogliamo avere un sistema di identificazione forte
+[58:21] che porta addirittura
+[58:23] a un'azione di questo tipo
+[58:25] ci sia un margine di errore
+[58:27] se parliamo di biometria e riconoscimento facciale
+[58:29] il margine di errore
+[58:31] è sempre presente all'interno del 0,
+[58:33] ma è sempre presente
+[58:35] io ringrazio Fabio Pietro Santi
+[58:37] per essere stato con noi a presto buon lavoro
+[58:39] grazie
+[58:43] e così concludiamo questa puntata di 2024
+[58:45] come sempre grazie per la vostra attenzione
+[58:47] continuate a scrivermi
+[58:49] al nostro indirizzo di posta eletrônica
+[58:51] 2024
+[58:53] e radio 24.it
+[58:55] e partecipate
+[58:57] anche al nostro sondaggio
+[58:59] online
+[59:01] se andate su radio24.it
+[59:03] c'è un sondaggio
+[59:05] al quale potete accedere dalla on page
+[59:07] per raccontare quello che vorreste
+[59:09] da radio 24
+[59:11] quindi se siete appassionati
+[59:13] di 2024
+[59:15] se siete appassionati di tecnologia
+[59:17] per votare per 2024
+[59:19] anche esprimere un
+[59:21] desiderio
+[59:23] particolare
+[59:25] come sempre grazie per la vostra attenzione
+[59:27] ci risentiamo la prossima settimana
+[59:29] nella prossima puntata
+[59:31] vi ricordo che
+[59:33] ovviamente
+[59:35] i nostri appassionati di podcast
+[59:37] continuano e mi fa piacere
+[59:39] ad ascoltarci via podcast però ricordo
+[59:41] anche gli orari in cui ci trovate
+[59:43] on air come si dice
+[59:45] alla radio
+[59:47] il venerdì tra le 22 e le 23
+[59:49] domenica nella fascia
+[59:51] tra le 13 e le 14
+[59:53] in modo particolare alle 13 e 15
+[59:55] bene appuntamento
+[59:57] alla prossima settimana
+[60:21] satispay è l'app che ha già rivoluzionato
+[60:23] le modalità di pagamento di mezzo milione di italiani
+[60:25] con satispay puoi pagare
+[60:27] nei negozi, scambiare denaro tra amici
+[60:29] pagare ricarica e bollettini
+[60:31] fare donazioni e risparmiare in modo smart
+[60:33] scarica gratuitamente
+[60:35] il satispay per android e ios
+[60:37] vivi smart, usa satispay

@@ -1,0 +1,661 @@
+-->
+
+ Come (non) fare un'app anti Covid-19. L'appello di esperti e prof. - Startmag 
+
+ Oops! Your browser is ancient! :( - Upgrade to a different browser or install Google Chrome Frame to experience this site.
+
+ HOME 
+
+ CHI SIAMO 
+
+ Skip to content 
+
+ Energia 
+
+ Economia 
+
+ Mondo 
+
+ Mobilità 
+
+ Innovazione 
+
+ Focus 
+
+ Circular economy 
+
+ Smart City 
+
+ Pagamenti digitali / Fintech 
+
+ Mobilità elettrica 
+
+ Reti per la crescita 
+
+ Investimenti 
+
+ Innovazione 
+ Come (non) fare un’app anti Covid-19. L’appello di esperti e prof.
+
+ di 
+ Redazione Start Magazine 
+
+ Le 4 condizioni indispensabili per avviare in Italia l’app anti Covid-19. Il testo dell’appello 
+
+ Nelle app di tracciamento vanno adottati “approcci decentralizzati” con i dati conservati localmente sui dispositivi. Dovrà essere “esclusa la geolocalizzazione” e i dati dovranno essere “tutti cancellati al termine del periodo di utilità degli stessi ai fini della ricostruzione del contagio”.
+
+ Sono alcuni punti delineati in una lettera aperta – iniziativa presa dal Nexa Center for Internet and Society del Politecnico di Torino – a cui hanno aderito accademici ed esperti, da Juan Carlos de Martin del Politecnico di Torino a Stefano Zanero del Politecnico di Milano, dal giurista Vladimiro Zagrebelsky allo scrittore ed editorialista Evgeny Morozov, esperto di big data e pricavy.
+
+ Spiccano anche i nomi dell’economista Edoardo Reviglio della Cdp, Francesco Paolo Micozzi (avvocato e docente di informatica giuridica al dipartimento di Giurisprudenza dell’Università degli Studi di Perugia) e Federica Bria, presidente del fondo nazionale per l’innovazione promosso dalla Cassa depositi e prestiti.
+
+ La lettera è rivolta “ai decisori” e arriva alla vigilia dell’audizione al Copasir del commissario per l’emergenza Domenico Arcuri. Per essere ampiamente usata dalla popolazione si legge, “è essenziale che tale tecnologia sia trasparente, sicura e rispetti i diritti e le libertà fondamentali delle persone”.
+
+ ECCO IL DOCUMENTO INTEGRALE:
+
+ L’uso di tecnologie e dati digitali svolge – e ancor più svolgerà – un ruolo importante nelle strategie di sanità pubblica attuate dagli Stati per contrastare l’epidemia COVID-19. Relativamente allo specifico, cruciale tema del tracciamento dei contatti, registriamo sia aspettative di efficacia molto dibattute per l’uso di un’applicazione per telefono mobile o dispositivi indossabili (nel seguito congiuntamente “app”), sia una preoccupante sottovalutazione dei rischi connessi alla messa in campo di “app” non adeguate.
+
+ L’adozione di una “app” può costituire un valido ausilio ma non può sostituire la professionalità del personale sanitario, che deve prendere le ultime decisioni e deve comunicarle con umanità e competenza alle persone coinvolte. Tale tecnologia dovrà essere inserita in una efficace strategia sanitaria complessiva e dovrà essere largamente accettata e utilizzata dalla popolazione. Affinché quest’ultima condizione si realizzi è essenziale che tale tecnologia sia trasparente, sia sicura e rispetti i diritti e le libertà fondamentali delle persone: solo così si potrà conquistare la fiducia dei cittadini e suscitare il loro desiderio di contribuire al contrasto dell’epidemia utilizzando una “app” installata sul loro dispositivo personale.
+
+ NON È SOLO UN PROBLEMA DI PRIVACY
+
+ Il potere generato dall’accesso e dal trattamento di grandi moli di dati personali è in grado di modificare profondamente i rapporti e le relazioni tra le persone e soprattutto tra i diversi attori sociali, tra consumatori e imprese e inevitabilmente tra i cittadini e lo Stato. È un potere reale ed ambito.
+
+ Il diritto alla protezione dei dati personali, diventato per la prima volta diritto fondamentale proprio qui in Europa, tenta di governare questo potere ed ha un perimetro molto più ampio della semplice tutela della riservatezza e della privacy, diritto a cui molti in questo periodo sono astrattamente disposti a rinunciare in cambio di sicurezza sulla propria salute.
+
+ I sistemi di sorveglianza e profilazione di massa resi possibili dalle tecnologie digitali, generano facilmente diseguaglianze e discriminazioni e senza adeguate e stringenti garanzie possono minare l’esercizio di tutti i diritti della persona, nessuno escluso.
+
+ La complessa disciplina che ha trovato uniforme regolamentazione nel GDPR, nelle varie Direttive collegate e nelle leggi nazionali, mira a tutelare non solo e non tanto la privacy, ma in ultimo la dignità della persona nel corretto esercizio dei suoi diritti fondamentali.
+
+ Per queste ragioni le scelte politiche che come società faremo in questo particolare momento di emergenza nell’utilizzo di tecnologie digitali per la lotta al contenimento ed alla diffusione del virus saranno determinanti nel disegnare domani il rapporto tra cittadini e Stato. Anche la scelta di una semplice “app” determinerà se siamo in grado di utilizzare la tecnologia per proteggerci e migliorare le nostre esistenze, all’interno delle democrazie che abbiamo così faticosamente costruito, oppure se, attratti dal potere costituito dall’accesso ai dati personali della popolazione (in particolare i dati sanitari), l’emergenza diventerà, come accaduto spesso in passato, l’occasione per consolidare o creare nuovi poteri e contribuire a realizzare una società della sorveglianza che annullerebbe la dignità della persona e svuoterebbe le libertà civili e sociali.
+
+ Per queste ragioni è essenziale che la scelta di una tecnologia di tracciamento del contagio per la gestione della cosiddetta “fase 2” sia aderente e non in deroga alle garanzie dettate dalla normativa europea in tema di protezione dei dati personali e più in generale ai diritti fondamentali.
+
+ LA PRIVACY PUÒ SUBIRE LIMITAZIONI IN EMERGENZA, MA CONFORMEMENTE ALLE GARANZIE PREVISTE DALLA NORMATIVA A PROTEZIONE DEI DATI
+
+ La normativa prevede espressamente trattamenti di dati personali in fasi emergenziali  “se il trattamento è necessario a fini umanitari, tra l’altro per tenere sotto controllo l’evoluzione di epidemie e la loro diffusione o in casi di emergenze umanitarie, in particolare in casi di catastrofi di origine naturale e umana.”  (considerando 46 GDPR).
+
+ Qualsiasi tecnologia che implichi il trattamento di dati personali dei cittadini anche in emergenza dovrà essere pienamente aderente, per la specifica finalità perseguita, ai principi dettati dal GDPR (in particolare Artt. 5, 25, 30, 32), e in Italia dovrà rispettare il più alto livello di tutela previsto dal D.L.vo 101/2018 in relazione ad alcune categorie particolari di dati tra cui i dati sanitari.
+
+ Nel trattamento di categorie particolari di dati personali necessario per motivi di interesse pubblico rilevante, la normativa prevede come base di liceità del trattamento una riserva relativa di legge, dunque un vaglio democratico parlamentare, che, nel rispetto dei principi di limitazione delle finalità e di conservazione e del principio di minimizzazione dei dati, specifichi i tipi di dati che possono essere trattati, le operazioni eseguibili per le singole finalità e le misure di tutela (art. 2-sexties Codice Privacy); in relazione ai dati sanitari (dati ambiti ad alto valore commerciale), sono necessarie misure di garanzia individuate ad hoc dall’Autorità Garante in relazione a ciascuna categoria di dati, avendo riguardo alla specifiche finalità del trattamento (art. 2 septies Codice Privacy).
+
+ Una finalità di tracciamento dei contatti è diversa, per tipologia di dato e per le misure di sicurezza necessarie, da una finalità di telemedicina o da una finalità di certificazione amministrativa quale può essere un nulla-osta alla circolazione, una autocertificazione digitale, un “passaporto immunitario”, o da una mappatura geolocalizzata del contagio. Troppo spesso nelle comunicazioni alla stampa in relazione all’adozione di “app” i decisori confondono e non differenziano le differenti finalità e i diversi trattamenti.
+
+ Su  invito del Consiglio europeo  la Commissione Europea ha presentato una  tabella di marcia  verso la revoca delle misure di contenimento del coronavirus. Nel documento il tracciamento dei contatti e l’allerta mediante l’uso di applicazioni mobili è una delle misure per il contenimento ed il controllo della pandemia e la misura viene descritta nel documento in piena aderenza ai principi individuati dallo  European Data Protection Board . Lo stesso  Parlamento Europeo  ha preso chiara posizione su alcuni requisiti chiave delle tecnologie di tracciamento dei contatti.
+
+ A livello europeo è dunque possibile utilizzare dati digitali di prossimità se memorizzati nei dispositivi, e quindi senza ricorrere a server centralizzati, e senza derogare o limitare alcun principio o norma a protezione dei dati personali.
+
+ A questi principi, in un’ottica necessariamente paneuropea, deve attenersi anche l’Italia che all’esito di una procedura di selezione di diverse proposte, ha scelto la soluzione denominata “Immuni” proposta dalla Bending Spoons S.p.a.
+
+ LE NOSTRE PREOCCUPAZIONI
+
+ Siamo preoccupati che nell’effettiva messa in campo dell’applicazione (o delle applicazioni) si possano insinuare interessi che hanno priorità diverse da quella della tutela dei diritti fondamentali dei cittadini e che quindi siano adottate e implementate soluzioni in deroga alla normativa a protezione dei dati.
+
+ Inoltre ci preoccupano anche alcuni aspetti tecnici riguardanti le specifiche del protocollo alla base del modello tecnologico e sanitario prescelto e del software acquisito che non sono ancora stati sufficientemente chiariti, in particolare la disponibilità del software con il codice sorgente completo e con licenza di software libero, la possibilità (appresa da alcuni organi di stampa) di acquisire dati quali la geolocalizzazione e la scelta tra un sistema di archiviazione delle informazioni centralizzato e uno decentralizzato.
+
+ La “Risoluzione del Parlamento europeo sull’azione coordinata dell’UE per lottare contro la pandemia di COVID-19 e le sue conseguenze” del 15 aprile (n.2020/2616(RSP)) ha chiesto espressamente  “che la memorizzazione dei dati sia completamente decentralizzata”  (punto 41) per le app nazionali di tracciamento contatti COVID-19 e che i protocolli e il codice siano resi pubblici al fine di permettere verifiche indipendenti relative in particolare agli aspetti di privacy e di sicurezza. Sono delle questioni fondamentali in termini di sicurezza e minimizzazione dei dati.
+
+ Per tutte le ragioni suddette, in relazione alla specifica finalità di tracciamento dei contatti e a fronte di un dibattito pubblico salutare ed importante ma non sempre chiaro e adeguatamente informato, i sottoscritti, nel richiamare le indicazioni della Commissione UE, del European Data Protection Board e del Parlamento Europeo, ritengono essenziale comunicare in particolare ai decisori a cui spettano le difficili scelte di governo dell’attuale fase di emergenza.
+
+ LE COSE PER NOI IMPORTANTI
+
+ 1) VOLONTARIETÀ
+
+ La collaborazione e la responsabilizzazione dei cittadini è fondamentale: nessuna applicazione e nessun artificio tecnologico potrà esser efficace senza di esse. Ma responsabilizzazione e collaborazione presuppongono fiducia reciproca. Nel periodo di cosiddetto “lockdown” la cittadinanza ha con grande senso civico rispettato le indicazioni delle autorità, anche quando sono state confuse e contraddittorie. Lo Stato e le Autorità, adottando soluzioni che rispettano i principi e la normativa a protezione dei dati, e dunque tenendo saldo il timone della tutela dei diritti fondamentali, avranno la fiducia dei cittadini e con essa collaborazione e senso di responsabilità. L’uso dell’app dovrà esser volontario e libero: nessuna limitazione o discriminazione potrà essere determinata dal mancato utilizzo dell’”app”.
+
+ 2) UNA SOLA APP; UNA SOLA FINALITÀ; PER IL TEMPO STRETTAMENTE NECESSARIO
+
+ La finalità specifica di una app di tracciamento dei contatti deve essere il tracciamento dei contatti per la ricostruzione delle vie interpersonali di contagio. La complessità dell’obiettivo generale perseguito, cioè governare la convivenza con il virus, non deve indurre a sfruttare un trattamento specifico, effettuato per una finalità specifica, per altre finalità diverse ed ulteriori. Nel rispetto dei principi di privacy e di “security by design”, limitazione delle finalità, minimizzazione e limitazione della conservazione dei dati dovrà esser dunque escluso il trattamento di dati di geolocalizzazione -utili semmai per altre finalità estranee al tracciamento dei contatti- ed i dati dovranno essere tutti cancellati al termine del periodo di utilità degli stessi ai fini della ricostruzione del contagio. Riteniamo errato pensare di legare l’app di tracciamento dei contatti ad ulteriori funzionalità quali autocertificazioni online o più o meno improbabili nulla-osta di circolazione che richiedono altre e diverse valutazioni di liceità del trattamento.
+
+ 3) TRASPARENZE, VERIFICABILITÀ E SICUREZZA
+
+ Il software delle tecnologie da adottare deve essere disponibile pubblicamente, con il codice sorgente completo e con licenza di software libero, e quindi liberamente verificabile da parte di chiunque e deve rispettare i più alti standard di sicurezza informatica.
+
+ Il protocollo su cui si basa l’applicazione e le specifiche dell’architettura del sistema, al pari dei documenti che hanno portato e porteranno alle scelte dei decisori, inclusa la necessaria valutazione d’impatto e i preventivi pareri del Garante della Privacy, devono essere pubblici e disponibili con licenza libera, e quindi liberamente verificabili.
+
+ Deve essere trasparente il governo complessivo dell’intero processo di tracciamento inserito nelle più ampie strategie di contenimento del virus nella “fase 2”: non solo, come necessario, in relazione alla normativa a protezione dei dati, ma in relazione a tutti i processi decisionali, dalle autorità competenti per tutti i provvedimenti derivanti dagli output del sistema sino ai sistemi di controllo e verifica su tutti i soggetti coinvolti, pubblici e privati, al fine di escludere qualsiasi interesse commerciale o di altra natura che possa inficiare o deviare la finalità perseguita.
+
+ 4) ADOTTARE TECNOLOGIE E APPROCCI DECENTRALIZZATI
+
+ La memorizzazione dei dati deve essere completamente decentralizzata. I dati, opportunamente protetti con sistemi di anonimizzazione o di pseudonimizzazione, devono essere conservati localmente sui dispositivi, dove deve avvenire anche il calcolo del rischio di infezione. Se sarà necessario l’utilizzo di server centrali, dovranno essere trasmesse a tali server soltanto chiavi anonime e temporanee corrispondenti agli utenti infetti, in mondo che non sia consentito di risalire all’identità delle persone. La soluzione decentralizzata risponde appieno all’esigenza, propria dell’intera normativa a protezione dei dati, di lasciare ai cittadini il controllo sulle loro informazioni personali. È un elemento fondamentale che può agevolare la fiducia e la collaborazione e sottrae a qualsivoglia autorità, agenzia o soggetto la possibilità di usi impropri di dati sanitari che come noto possono avere alto valore commerciale e di “intelligence”.
+
+ L’ELENCO DEI FIRMATARI
+
+ Carlo Blengino, Nexa Center for Internet & Society del Politecnico di Torino
+
+ Marco Ciurcina, Nexa Center for Internet & Society del Politecnico di Torino
+
+ Juan Carlos De Martin, Politecnico di Torino
+
+ Denis “Jaromil” Roio, Fondazione Dyne.org
+
+ Adam Arvidsson, Università di Napoli Federico II
+
+ Filippo Barbera, Università di Torino
+
+ Fabrizio Barca, Forum Disuguaglianze Diversità
+
+ Paolo Benanti, Pontificia Università Gregoriana
+
+ Francesca Bria, Institute for Innovation and Public Purpose, UCL
+
+ Carlo Borgomeo, Presidente Fondazione con il Sud
+
+ Marco Calamari, Associazione Progetto Winston Smith
+
+ Federica Cappelluti, Politecnico di Torino
+
+ Barbara Caputo, Politecnico di Torino e IIT
+
+ Ciro Cattuto, Università di Torino e Fondazione ISI
+
+ Fabio Chiusi, Nexa Center for Internet & Society, Politecnico di Torino
+
+ Vincenzo D’Andrea, Università di Trento
+
+ Renzo Davoli, Università di Bologna
+
+ Giulio De Petra, CRS – Centro Riforma per lo Stato
+
+ Antonio De Rossi, Politecnico di Torino
+
+ Massimo Durante, Università di Torino
+
+ Stefano Epifani, Digital Tranasformation Institute
+
+ Paolo Fini, Sacerdote e direttore dell’Ufficio Pastorale della Salute diocesi di Torino.
+
+ Stefano Francia di Celle, Torino Film Festival
+
+ Barbara Sara Alessandra Gagliardi, Università di Torino
+
+ Giovanni Battista Gallus, Nexa Center for Internet & Society, Politecnico di Torino
+
+ Paolo Gerbaudo, King’s College London
+
+ Giorgio Gianotto, Consulente editoriale
+
+ Alex Giordano, Societing 4.0 – Università di Napoli Federico II
+
+ Angelo Raffaele Meo, Politecnico di Torino
+
+ Francesco Paolo Micozzi, Università di Perugia
+
+ Beppe Moro, Istituto Competività I-Com
+
+ Evgeny Morozov, Scrittore ed editorialista
+
+ Carlo Olmo, Politecnico di Torino
+
+ Peppino Ortoleva, Università di Torino
+
+ Sergio Pace, Politecnico di Torino
+
+ Ugo Pagallo, Università di Torino
+
+ Pier Luigi Perri, Università di Milano
+
+ Luca Peyron, Sacerdote e direttore Apostolato Digitale Arcidiocesi di Torino
+
+ Maria Chiara Pievatolo, Università di Pisa
+
+ Franco Pizzetti, Università di Torino, già Garante italiano per la protezione dei dati
+
+ Oreste Pollicino, Università Bocconi
+
+ Benedetto Ponti, Università di Perugia
+
+ Paolo Prinetto, Politecnico di Torino e Direttore del Laboratorio Nazionale Cybersecurity del CINI
+
+ Mario Rasetti, Presidente della Fondazione ISI
+
+ Andrea Renda, Centre for European Policy Studies
+
+ Giorgio Resta, Università Roma Tre
+
+ Edoardo Reviglio, Cassa Depositi e Prestiti
+
+ Marco Ricolfi, Università di Torino
+
+ Bruno Saetta, Avvocato
+
+ Antonio Santangelo, Università di Torino
+
+ Maria Savona, University of Sussex
+
+ Viola Schiaffonati, Politecnico di Milano
+
+ Lorenzo Silengo, Presidente del Centro di Biotecnologie Molecolari dell’Università di Torino
+
+ Emanuele Somma, Comitato dei requisiti del voto in democrazia
+
+ Francesco Sylos Labini, Centro Ricerche Enrico Fermi
+
+ Antonio Vetrò, Politecnico di Torino
+
+ Vladimiro Zagrebelsky, Laboratorio Diritti Fondamentali del Collegio Carlo Alberto
+
+ Edoardo Zanchini, Legambiente
+
+ Stefano Zanero, Politecnico di Milano
+
+ Giovanni Bonenti, Medico Radiologo
+
+ Michele Pinassi, Responsabile Cybersecurity Università di Siena
+
+ Paolo Cavallini, Faunalia srl
+
+ Daniel Guarnieri, Avvocato
+
+ Philip Di Salvo, Università della Svizzera italiana
+
+ Alessandro Piano, System administrator e sviluppatore piattaforma Parelon
+
+ Cataldo Curatella, Ingegnere in progettazione impianti elettrici e Consigliere Comunale di Torino
+
+ Matteo Gamba, KTH Royal Institute of Technology di Stoccolma
+
+ Simone Basso, Open Observatory of Network Interference
+
+ Carmelo Caravella, Direttivo CRS
+
+ Alessio Surian, Università di Padova
+
+ Massimo Travostino, Avvocato, Nexa Center for Internet & Society
+
+ Maurizio Siracusa, Cyber Security Manager
+
+ Stefano Barale, Fisico Teorico
+
+ Guido Rimini, Avvocato
+
+ Fabio Pietrosanti, Centro Hermes per la Trasparenza e i Diritti Umani Digitali
+
+ Luca Recano, Università di Napoli L’Orientale
+
+ Mattia Plazio, Politecnico di Torino
+
+ Andrea Trentini, Università di Milano
+
+ Carlo Boccazzi Varotto, Hackability npo
+
+ Marco Zappalorto, CEO Nesta Italia
+
+ Rocco Panetta, Avvocato, IAPP Country Leader for Italy
+
+ Jessica Perentin, Università di Trieste
+
+ Andrea Galli, Manager dell’innovazione
+
+ Enrico Ferraris, Avvocato
+
+ Marco Tracinà, Consulente editoriale
+
+ Mario Ricciardi, Università di Milano, direttore rivista “Il Mulino”
+
+ Claudia Bertelà, Imprenditore settore elettromedicale
+
+ Michele Finelli, BioDec
+
+ Alberto Camozzo, Università di Padova e TagMeNot.info
+
+ Walter Vannini, GDPR Consultant & Auditor (ISDP 10003)
+
+ Roberto Sanna, Avvocato e DPO di Enti Pubblici e Aziende Private
+
+ Edoardo Lombardo, Avvocato
+
+ Antonio Caputo, Avvocato
+
+ Maurizio Tirassa, Università di Torino
+
+ Donato Molino, Imprenditore
+
+ Davide Barillari, Consigliere regionale
+
+ Giulia Bimbi, Ingegnere informatico
+
+ Valerio De Stefano, Università di Lovanio
+
+ Lorenzo Melchiorre, Avvocato penalista del Foro di Bari e D.P.O.
+
+ Luisa Capelli, Economia e gestione delle imprese editoriali
+
+ Cristiana Cabodi, Ires Piemonte
+
+ Gennaro Niglio, GSE Direttore Studi e statistiche e Funzione Innovazione
+
+ Agostino Agrillo, Direttore scientifico Mit Media Lab Research Torino
+
+ Giuseppe Federico Mennella, Giornalista, Università di Roma Tor Vergata
+
+ Diego Caporaso, Privato cittadino
+
+ Fabio Malagnino, Giornalista, Consiglio regionale del Piemonte
+
+ Laura Orestano, SocialFare
+
+ Alberto Pianon, Avvocato
+
+ Claudio Casetti, Politecnico di Torino
+
+ Alessio Durante, Politecnico di Torino
+
+ Laura Millano, Avvocato
+
+ Claudia Galetto, Ricercatrice IRES Piemonte
+
+ Giancarlo Rizzi, Imprenditore
+
+ Simona Morini, IUAV Venezia
+
+ Alex D’Elia, PROSUME srl President
+
+ Oscar Roberto Bastos, Research Engineer IMT-Atlantique – Rennes – France
+
+ Pietro Jarre, Sloweb
+
+ Paolo Coppola, Professore uniud
+
+ Fabio Mora, Software Engineer, Autore (Apogeo – Idee Editoriali Feltrinelli)
+
+ Domenico Talia, Università della Calabria
+
+ Stefania Stefanelli, Università di Perugia
+
+ Piero Dominici, World Academy of Art and Science, Università di Perugia
+
+ Gianni Marchetto, FIOM CGIL Piemonte
+
+ Cristina Alaimo, Luiss
+
+ Nina Ciraso, Università di Torino
+
+ Chiara Priante, Giornalista e consigliera dell’Ordine dei Giornalisti del Piemonte
+
+ Andrea Cerroni, Università di Milano – Bicocca
+
+ Greca Meloni, Giornalista
+
+ Enrica Priolo, Avvocato
+
+ Massimo Ghisalberti, Analista programmatore informatico
+
+ Gianmarco Veruggio, Consiglio Nazionale delle Ricerche
+
+ Enrico Rubboli, Imprenditore
+
+ Carlo Infante, Presidente Urban Experience
+
+ Italo Vignoli, Open Source Iniative & The Document Foundation
+
+ Lorenzo Ricca, Radio Banda Larga
+
+ Francesco Vaccarino, Politecnico di Torino
+
+ Giacomo Giossi, Consulente editoriale
+
+ Mauro Alovisio, Università di Torino
+
+ Michela Gnaldi, Università di Perugia
+
+ Marco Giraudo, PhD candidate in law and economics, Collegio Carlo Alberto
+
+ Maurizio Di Masi, Università di Perugia
+
+ Flavia Baldassari, Università di Perugia
+
+ Pietro Pacini, Direttore Generale CSI Piemonte
+
+ Cinzia Mariassunta Simonetti, Avvocato
+
+ Tiziana Terranova, Università di Napoli L’Orientale
+
+ Giuseppe Cherubino, Avvocato Penalista del Foro di Bologna
+
+ Roberto Caso, Università di Trento
+
+ Giovanni Biscuolo, Sistemista
+
+ Marinella Belluati, Università di Torino
+
+ Maria Brucale, Avvocato
+
+ Paola Pressenda, Università di Torino
+
+ Emiliana Olivieri, Avvocato
+
+ Giorgia Bincoletto, Università di Bologna
+
+ Consuelo Piccini, Project Manager Servizi Creativi
+
+ Vittorio Bertola, Open-Xchance
+
+ Filippo De Pieri, Politecnico di Torino
+
+ Nicola Bottero, Avvocato, Nexa Center for Internet & Society
+
+ Danilo Bruschi, Università di Milano
+
+ Elena Appendino, Avvocato
+
+ Paolo Guarda, Università di Trento
+
+ Clara Cibrario Assereto, Avvocato
+
+ Davide Del Monte, Direttore di Transparency International Italia
+
+ Cristina Accornero, Ismel
+
+ Simone Vallese, Avvocato
+
+ Marina Massimello, Architetto
+
+ Ruggero G. Pensa, Università di Torino
+
+ Luca Valente, Avvocato
+
+ Davide Bandiera, Amministratore di azienda
+
+ Giordano Alborghetti, Tesoriere di LibreItalia e membro di The Document Foundation
+
+ Rossana Veneziani, Avvocato
+
+ Laura Pennacchi, Fondazione Basso
+
+ Elettra Bietti, Harvard Law School, Berkman Klein Center
+
+ Margherita Salvadori, Università di Torino
+
+ Giovanna Favro, Giornalista
+
+ Silvia Crafa, Università di Padova
+
+ Eva Desana, Università di Torino
+
+ Gabriele Pece, Senior Data Scientist
+
+ Filippo Perlo, Avvocato
+
+ Giuseppe Sacco, Sviluppatore di software libero
+
+ Maurizio Mensi, Scuola Nazionale dell’Amministrazione
+
+ Andrea Francesco Abate, Università di Salerno
+
+ Frank S. Marzano, Sapienza Università di Roma
+
+ Vittorio Alvino, Fondazione openpolis
+
+ Enio Gemmo, Presidente LibreItalia
+
+ Claudia Criscuolo, Avvocato
+
+ Maurizio Acerbo, Segretario Nazionale Rifondazione Comunista
+
+ Andrea Daniele Signorelli, Giornalista
+
+ Alessandro Lazari, Avvocato
+
+ Massimo Beltramo, IntesaSanpaolo SpA, Commissione ICT Ordine Ingegneri della Provincia di Torino
+
+ Facebook 
+ Twitter 
+ LinkedIn 
+ WhatsApp 
+ Gmail 
+ Facebook Messenger 
+
+ ISCRIVITI ALLA NOSTRA NEWSLETTER
+ Iscriviti alla nostra mailing list per ricevere la nostra newsletter 
+
+ Iscrizione avvenuta con successo, ti dovrebbe arrivare una email con la quale devi confermare la tua iscrizione. Grazie, il tuo Team Start Magazine
+ Errore
+
+ Rispettiamo la tua privacy, non ti invieremo SPAM e non passiamo la tua email a Terzi
+
+ Tags: app covid-19 newsletter 
+
+ 21 Aprile 2020 22 Aprile 2020 
+
+ di Redazione Start Magazine 
+
+ Vedi tutti gli articoli di Redazione Start Magazine 
+
+ Post navigation
+
+ Perché è surreale il dibattito sull’app per il contact tracing 
+ Cassese stronca Conte e Arcuri: per l’app Immuni serve una legge (non basta un’ordinanza) 
+
+ Articoli correlati
+
+ Innovazione 
+
+ 28 Marzo 2020 
+ 28 Marzo 2020 Gli Usa seguiranno i rimedi tech di Taiwan e Hong Kong contro il Coronavirus? 
+
+ Innovazione 
+
+ 21 Aprile 2020 
+ 21 Aprile 2020 Covid-19, ecco gli effetti del Tocilizumab. Report 
+
+ Innovazione 
+
+ 8 Marzo 2020 
+ 8 Marzo 2020 Robot e droni anti SARS-CoV-2. Report Axios 
+
+ Innovazione 
+
+ 23 Febbraio 2020 
+ 23 Febbraio 2020 La terza via di Bruxelles sul digitale tra Usa e Cina. L’analisi di Darnis (Iai) 
+
+ Quadrimestrale Start Magazine, Marzo-Giugno 2020
+
+ Leggi l’ultimo numero del quadrimestale 
+
+ Iscriviti alla Newsletter di Start Magazine
+
+ Ulltimi articoli
+
+ Innovazione 
+
+ Come si muoverà Leonardo dopo la pandemia 
+
+ Economia 
+
+ Ecco come e quando riapriranno le attività produttive. Sintesi del piano Colao 
+
+ Mondo 
+
+ Vi racconto come l’ombra di Draghi tormenta Conte 
+
+ Economia 
+
+ Ecco gli ultimi giochetti di Merkel e Von der Leyen 
+
+ Economia 
+
+ Monetizzazione del debito: fatti, problemi e scenari in vista del Consiglio Ue 
+
+ StartMag
+ Direttore responsabile: 
+
+Michele Arnese
+
+ Editore: 
+
+Innovative Publishing srl – IP srl
+
+ www.innovativepublishing.it 
+
+Via Sardegna, 22
+
+00187 Roma
+
+C.F. 12653211008
+
+ Redazione:
+
+ Via Sicilia, 141
+
+00187 Roma
+
+info@startmag.it
+
+ Direttore editoriale: 
+
+Michele Guerriero
+
+ Registrazione Tribunale di Roma
+ n . 198/2017 del 21.12.2017
+
+ROC n. 26146
+
+Provider: Dada spa, via dei Pandolfini, 34 – Firenze
+
+L'editore è a disposizione per la eventuale rimozione di foto coperte da copyright
+
+ Chi siamo
+ Start Magazine è il magazine online dedicato all'innovazione ed alla crescita.
+
+ Start Magazine vuole parlare di crescita e sviluppo dopo anni spesi a parlare di crisi, e vuole farlo partendo da una delle parole chiave più importanti: l'innovazione
+
+ © 2018 StartMag . All Rights Reserved. Credits .
+ Back to top 
+
+ Energia 
+
+ Economia 
+
+ Mondo 
+
+ Mobilità 
+
+ Innovazione 
+
+ Focus 
+
+ Circular economy 
+
+ Smart City 
+
+ Pagamenti digitali / Fintech 
+
+ Mobilità elettrica 
+
+ Reti per la crescita 
+
+ Investimenti 
+
+ Cerca su Start Magazine
+
+ × 
+
+ ISCRIVITI ALLA NOSTRA NEWSLETTER
+ Iscriviti alla nostra mailing list per ricevere la nostra newsletter 
+
+ Iscrizione avvenuta con successo, ti dovrebbe arrivare una email con la quale devi confermare la tua iscrizione. Grazie, il tuo Team Start Magazine
+ Errore
+
+ Rispettiamo la tua privacy, non ti invieremo SPAM e non passiamo la tua email a Terzi
+
+ Utilizziamo i cookie per essere sicuri che tu possa avere la migliore esperienza sul nostro sito. Se continui ad utilizzare questo sito noi presumiamo che tu ne sia felice. Ok Leggi di più

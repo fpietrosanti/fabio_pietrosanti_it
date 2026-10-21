@@ -1,0 +1,302 @@
+After NSA Scandal, Crop of Whistleblower Communication Tools for Journalists Emerge | TechPresident 
+
+ Personal Democracy Plus Our premium content network. LEARN MORE 
+
+ You are not logged in. LOG IN NOW > 
+
+ PDM Home 
+
+ PD+ 
+
+ TechPresident 
+
+ Teleconferences 
+
+ Conferences 
+
+ Video 
+
+ About 
+
+ Facebook 
+
+ Twitter 
+
+ Youtube 
+
+ Flickr 
+
+ RSS 
+
+ Guidelines 
+
+ techPresident 
+
+ If you're a member, LOG IN NOW > 
+
+ A message from Andrew Rasiej, Tech President's Publisher
+
+ Thank you for visiting techPresident, where politics and technology meet. We’re asking our readers to help support the site. Let us tell you why:
+
+ Since 2007, we've expanded techPresident's staff and daily work to exhaustively look at how technology is changing politics, government and civic life. To provide the independent and deeply informed journalism we do, we need to find ways to support this growth that will allow us to keep the majority of our content free.
+
+ So, now we are asking you, our readers, to contribute if you can by:
+
+ Subscribing to our premium service Personal Democracy Plus for $6.95 a month or $75 a year (10% off!). Visit personaldemocracy.com/subscribe 
+
+ - Or -
+
+ Making a contribution in the amount of your choosing . Visit personaldemocracy.com/contribute 
+
+ Thank You For Supporting TechPresident
+
+ To subscribe to Personal Democracy Plus, visit personaldemocracy.com/subscribe . To make a contribution in the amount of your choosing, visit personaldemocracy.com/contribute .
+
+ Contribute Now > 
+
+ Civic Hacking
+
+ WeGov
+
+ Online Organizing
+
+ BackChannel
+
+ TechPresident Home 
+ All Topics 
+
+ Facebook 
+
+ Twitter 
+
+ Flickr 
+
+ RSS 
+
+ After NSA Scandal, Crop of Whistleblower Communication Tools for Journalists Emerge
+
+ BY
+ Carola Frediani 
+ | Wednesday, November 13 2013 
+
+ Uncle Sam wants to know (Jeff Schuler/flickr) 
+
+ Among the many questions raised by the NSA scandal , there is one that is especially worrying for journalists: how to have secure communications with sources given the widespread surveillance of emails, phone calls, chats and browsing activities. How should investigative reporting deal with the technological challenges posed by governments’ mass control of Internet and phone traffic? A number of online platforms have now sprouted across the globe with the mission to protect the anonymity of journalists' sources.
+
+ The idea of an online system for anonymous submission is not new. But its prospective benefit for journalism has become tangible with WikiLeaks, the leaking organization launched in 2007 by Julian Assange whose document releases have become front-page news worldwide.
+
+ However, WikiLeaks’ submission process halted in 2010 and today, there’s no secure form for whistleblowers to upload files on the organization’s website. “The secure dropbox has been closed for some time, but that doesn’t mean we are not receiving submissions in other ways,” WikiLeaks spokesperson Kristinn Hrafnsson told TechPresident on the phone, choosing not to provide details about the ‘other ways’ for security reasons. “We closed the dropbox because we were under attack, and we had information about the possibility of compromising such secure computer protocols. So we weren’t totally confident of its security. At the same time we had to deal with the massive leak of diplomatic cables, while having the financial blockade… the dropbox was not a priority any more.”
+
+ However, there have been a few positive signs of late, at least regarding the financial blockade. Last summer an Icelandic court ordered agents of MasterCard and Visa to process payments, held up since 2010, to WikiLeaks; so donations are flowing again to the secret-spilling group. “We are surviving now but in order to scale up and get the organization to the standards we want, we need support from our people,” says Hrafnsson, adding that they intend to set up a new secure dropbox as soon as they have the financial resources to do so.
+
+ WikiLeaks was not the only whistleblowing website to suffer from external attacks and financial problems that lead to a shutting down of its submission process. Par:Anoia, a data leaking website set up by Anonymous in 2012, went offline a few months ago after its chat channel on VoxAnon and their Internet Relay Chat (IRC) network were flooded by DDOS attacks. Last October Par:Anoia tweeted a link to its complete archive of the now defunct website until it can get back online. “The project is mothballed until funding and maintenance can be assured again,” one of the anons volunteering on the project, whom techPresident contacted through their Par:Anoia Twitter account, said in a chat conversation. “Our most interesting leak? Definitely the one about the IT service company Innodata Isogen , since it had by far the most interesting documents and was just massive. Most files probably have never been looked at.” Par:Anoia may come back, depending on funding and free time, explained the anon, highlighting that a Bitcoin address is linked on the Par:Anoia Twitter account for donations.
+
+ In the meantime other groups and organizations have started working hard to spread the word on other whistleblowing platforms. Last October the Freedom of the Press Foundation took over the management of DeadDrop , an anonymous submission system originally coded by web pioneer and open-data activist Aaron Swartz before his tragic death . Its first implementation, called StrongBox , was launched by the New Yorker in May 2013. Now the Freedom of the Press Foundation, after having re-branded the open source project SecureDrop , is helping media organizations with installation and security. Forbes is also implementing its own. They recently asked for story tips about the crackdown on the massive online black market, Silk Road. 
+
+ “But in the next few months, at least six other major news organizations will install it as well”, Trevor Timm, co-founder of the Freedom of the Press Foundation, told techPresident. “I think the main reason many newspapers haven't adopted a whistleblower submission system yet is it costs them significant time, money, and effort to build it from scratch, not knowing if it'll work or be used. We try to take the pain out of the process, by making sure our open-source system is audited; have someone to provide them technical advice for both the setup and journalist training.”
+
+ SecureDrop is an application that accepts messages and documents from the web, routed through the Tor anonymity network, and GPG-encrypts them for secure storage. It is a more secure alternative to the "contact us" form or via e-mail to a reporter, and it also underwent a comprehensive security audit even if it doesn’t guarantee 100 percent security. “SecureDrop attempts to create a significantly more secure environment for sources to get information than exists through current digital channels, but there are still legal and technical risks any time a source wishes to submit documents to journalists—no matter the service,” writes the Freedom of the Press Foundation on its blog .
+
+ Freedom of the Press Foundation is not the only organization that believes in whistleblowing platforms. GlobaLeaks 's mission is to spread its own suite of free downloadable software that is accessible to a variety of users who can customize it for their particular needs. The platform is therefore designed with flexibility in mind, providing a secure environment at the same time. Globaleaks is not involved in the management of the leaks, however; it just provides a framework.
+
+ “We worked on many security pillars, from anonymity via Tor network to [increasing] users’ awareness. The leakers and the system administrators are constantly advised in the process of submission by alerts and warnings,” Claudio Agosti told techPresident. Agosti is the President of Hermes Center , the organization that coded GlobaLeaks. Also, the files can be GPG-encrypted and the system erases any document older than two weeks. Again, as in the SecureDrop case, that doesn’t “protect against keyloggers [or those who covertly record keystrokes] or any other means that compromise the computer security. Especially it does not protect against human mistakes [sic],” explains GlobaLeaks on their website . 
+
+ As of September 2013 the GlobaLeaks software has been adopted by a large number of Dutch media outlets for Publeaks.nl , a site that allows whistleblowers and others to leak information to the press in order to shed light on wrongdoings and encourage investigative journalism. The Publeaks organization has no access to the leaked files. It is up to the participating media outlets to verify the leaked materials or to work collaboratively with leakers. GlobaLeaks has been used by various European groups, such as Serbian anti-corruption activists , Hungarian journalists , and a group of Italian reporters . 
+
+ A few days ago a few anonymous Italian activists launched MafiaLeaks , a GlobaLeaks-based website that intends to collect information from those within the mafia as well as its victims. The website wants to act as a mediator between sources and journalists, who are among those receiving the materials. But MafiaLeaks' administrators, who prefer to remain anonymous for security reasons, have also contacted law enforcement agencies as well as anti-mob associations to ask if they are willing to be "receivers" of the leaks, even if those groups have not yet responded officially. 
+
+  “We didn’t expect so much exposure, and we have already received many submissions,” one of its administrators, initially contacted through the site’s email platform, told TechPresident over a secure chat. “While we are actually handling the submissions right now, we are planning to build a system where we won’t even be able to see them. But before that we need to build a network of trusted media outlets, law enforcement agencies and anti-mob organizations.” It’s not easy, given the fact that their administrators are anonymous. So far there are about four journalists, either freelance or working inside news organizations, receiving the leaks. 
+
+ Regardless of the platform or the country where it is adopted, it seems that once set up, information and tips flow quickly to these whistleblowing websites. There are still a number of issues with these platforms, however, from helping users to blow the whistle securely, to the lack of resources for developing, hardening and maintaining these kind of projects. “Many people are asking us to use GlobaLeaks but we don’t have enough resources to help them all, and we are looking for grants,” Fabio Pietrosanti, co-founder of GlobaLeaks, told TechPresident.   In any case, whistleblowing tools are here to stay and are going to become an ever-vital tool for journalists.
+
+ “For decades, journalists were able to protect their sources by refusing to testify in front of grand juries and judges,” says Trevor Timm, an activist at the Internet-rights nonprofit Electronic Frontier Foundation. “Now, prosecutors don't need a journalist's testimony to go after sources. They can just subpoena metadata of phone calls or emails. It's up to journalists to find ways to protect how they communicate with their sources before they ever get to court.”
+
+ Carola Frediani is an Italian journalist and co-founder of the media agency, Effecinque.org. She writes on new technology, digital culture and hacking for a variety of Italian publications, including L’Espresso, Wired.it, Corriere della Sera, Sky.it. She is the author of Inside Anonymous: A Journey into the World of Cyberactivism. 
+
+ Personal Democracy Media is grateful to the Omidyar Network and the UN Foundation for their generous support of techPresident's WeGov section. 
+
+ For a round-up of our weekly stories, subscribe to the WeGov mailing list . 
+
+ RELATED TOPICS:  
+
+ anti-corruption 
+
+ globaleaks 
+
+ Government misbehavior 
+
+ mafialeaks 
+
+ Media 
+
+ privacy 
+
+ secure sources 
+
+ SecureDrop 
+
+ security 
+
+ strongbox 
+
+ tools 
+
+ transparency 
+
+ WeGov 
+
+ whistle blowers 
+
+ wikileaks 
+
+ SHARE THIS
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ Google+ 
+
+ Instapaper 
+
+ News Briefs
+
+ RSS Feed 
+
+ today >
+
+ Australia Cleans Up Data.Gov.Au, Loses More Than Half of Its 1,200 Datasets 
+
+ Since Australia switched their open data website to an open source platform in July, the number of datasets has dropped from 1200 to 500 . Did they get lost in the move? No, it just turns out that many of them were pure junk, links to webpages that no longer existed or led to irrelevant pages.
+ GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ wednesday >
+
+ After NSA Scandal, Crop of Whistleblower Communication Tools for Journalists Emerge 
+
+ Among the many questions raised by the NSA scandal , there is one that is especially worrying for journalists: how to have secure communications with sources given the widespread surveillance of emails, phone calls, chats and browsing activities. How should investigative reporting deal with the technological challenges posed by governments’ mass control of Internet and phone traffic? A number of online platforms have now sprouted across the globe with the mission to protect the anonymity of journalists' sources. GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ White House Highlights Big Data Partnerships 
+
+ The White House Tuesday highlighted several new and recent partnerships and collaborations focused on data in the areas of urban policy, development, science, health and research to further the goals set by the Big Data Research and Development Initiative in 2012. GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ With Both Scalpel and Cudgel, Iran Censors Wikipedia 
+
+ What do the BBC, the Bahá'í faith and Emma Watson have in common? They are among the 963 blocked Persian Wikipedia articles according to a report released earlier this month, “ Citation Filtered: Iran's Censorship of Wikipedia .”
+ GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ Red Cross Relies on OpenStreetMap in Haiyan Relief Efforts 
+
+ Humanitarian organizations are amping up their use of crowdsourcing made possible by the Internet. On Monday, techPresident reported that the United Nations partnership with the Digital Humanitarian Network resulted in groundbreaking use of human computing and machine computing to sift through big data in the aftermath of Super-typhoon Haiyan. In a similar vein, for the first time the Red Cross coordinated their response to Haiyan based on information crowdsourced on OpenStreetMap (OSM).
+ GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ Raspberry Pi Tackles the Great Firewall and Peruvian Amazon 
+
+ When Eben Upton created the Raspberry Pi, a single-board computer the size of a credit card, he had no inkling its reach would extend beyond England’s borders and do more than inspire UK’s youth to program. A little went a long way. Thousands of miles, in fact, to places as far from the UK as China, India and as remote as the Peruvian Amazon. The Raspberry Pi, first conceived by Upton in 2006 and released in February of last year, is produced by the non-profit Raspberry Pi Foundation. Since then, it has sold 1.2 million units worldwide and was named the top 100 most inspiring social tech innovations by the Nominet Trust, which has noted its use in developing countries as a low-budget tool or computer. GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ tuesday >
+
+ Sharing Cities: The Next Global Trend? 
+
+ More and more people are starting to believe in the power of sharing and 
+in its ability to enact social change. At the end of September, the nonprofit news and activism site Shareable launched the Sharing Cities Network to support innovators and activists working to make cities around the world more sharing. In October, they hosted a two week long Map Jam in cities around the world, in which local members of the Sharing Cities Network mapped sharing resources. They set a goal of mapping 25 cities with 25 local teams, but in the end more than 55 different city teams participated .
+ GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ France Outlines Open Data Plans 
+
+ On Friday the French government released their Action Plan for France to enact the guidelines and practices outlined in the G8 Open Data Charter, adopted in June of this year at the Lough Erne Summit by the President of the French Republic and the other G8 Member States.
+ GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ monday >
+
+ German History Students Mark Kristallnacht With Real-Time Twitter Project 
+
+ "The Stuttgart Synagogue burns amidst jubilation from the surrounding crowd." 
+
+"Cafe-owner Marcus is found dead in Düsseldorf; his tavern was completely destroyed overnight, he was shot." 
+
+Those are not the kind of Twitter posts you might generally expect to see in your Twitter feed. 
+
+For several years now, special commemorative pavement stones commemorate Holocaust victims by their last place of residence in many German and European cities through a project called "Stumbling Blocks" (Stolpersteine) . This year, a group of German historians have been marking the 75th commemoration of Kristallnacht and the November pogroms that followed with a realtime-tweeting project to raise awareness of the historical events in Twitter feeds. GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ Honoring Spirit and Idealism of Aaron Swartz at Memorial Hackathon 
+
+ After Aaron Swartz's death on January 11, 2013 , activists around the world gathered and held spontaneous hackathon's in his honor. They were informal and lacked central organization, which was fine at the time, but months later friends and colleagues of Swartz's wanted to know what had happened at those events, and if any of the participants would be interested in another one. The Aaron Swartz Memorial Hackathon began at Friday, November 8—what would have been Swartz's 27th birthday—in New York City, as well as in 19 other cities around the world, from Amsterdam to Zagreb.
+ GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ Digital Humanitarian Response to Super-Typhoon Haiyan 
+
+ A devastating super-typhoon with gusts of 200-m.p.h. winds ravaged huge swaths of the Philippines this weekend. Super-typhoon Haiyan (known as Yolanda in the Philippines) is reported to be the strongest recorded storm to ever make landfall. Although the official death toll is now at 1,774 , thousands are still missing and a Filipino Presidential spokesman has said they are praying it does not rise about 10,000 . Humanitarian organizations have already begun the daunting task of bringing relief to the nearly 10 million people affected by the super storm. In addition to the emergency aid and military personnel flooding into the country , a team of digital humanitarians are also on the job. Patrick Meier reports on his blog iRevolution that for the first time humanitarian response to Typhoon Haiyan makes full use of both human computing and machine computing to understand the big data in the aftermath of disaster.
+ GO 
+
+ Facebook 
+
+ Twitter 
+
+ Reddit 
+
+ More 
+
+ About Us | Contact Us | Privacy Policy | Terms of Service | © 2012 Personal Democracy Media. All Rights Reserved

@@ -1,0 +1,971 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:04] Eccoci, siamo pronti, ecco buonasera a tutti, buonasera a questa nuova nuova incontro del
+[00:24] partito pirata online, questa sera in un formato leggermente diverso dal solito,
+[00:30] stasera faremo una sorta di tavola rotonda con degli invitati che poi avrò modo di
+[00:39] diciamo introdurre singolarmente tutti quanti e purtroppo questa sera abbiamo abbandonato
+[00:53] le nostre solite macchine gizzi che negli ultimi tempi si stanno dando dei
+[01:00] problemi e alla scorsa registrazione è venuta veramente molto male e non siamo riusciti a
+[01:07] risolvere il problema e quindi stasera aimi utilizziamo zoom questa cosa non è particolarmente
+[01:17] bella ancora meno bella perché noi parleremo in realtà di software libero con un software
+[01:22] libero questa cosa è molto antipatica aprirà la serata con noi micolas pesca che è un
+[01:34] oro parlamentare della partito pirata e letto le ultime elezioni europee che è già con noi
+[01:43] hi micolash hey hello I'm very happy to see you here with us it's important for the party in
+[01:58] Italy and for the communities that we invited and also for the pirates who animate some of that
+[02:07] community thank you thank you very much for the invitation I really appreciate it because I
+[02:15] think we are not only just check parts or Italian pirates but we are pirates like all across
+[02:21] the world so it is really important to stay in touch to discuss our ideas together and exchange
+[02:28] it I really enjoy it and thanks very much for the for the invitation let me have a couple of
+[02:35] minutes to present you the meeting before you talk I deeply apologize to you I've ready
+[02:43] done it with the others in Italian for the use of zoom in this meeting the wisdom project is one
+[02:51] of the oldest project in Italy to deal with privacy and technology since the 90s as land as
+[03:00] their zoom account for user in this meeting since unfortunately the servers that we usually use
+[03:10] got in the last week 304 so a concrete incapacity to work I don't know why it's particularly regrettable
+[03:20] because we talk about free software using a non free software I'm very upset about this but you
+[03:31] know I know that the pilot party elsewhere also had that kind of problems but we really were not
+[03:40] intended to have it but unfortunately the parties based on voluntary work of the few and the few
+[03:50] are unable to do everything next week we have a meeting like this to seek someone who wants to help us
+[04:02] a lot of things have changed in the party since the last European election new political structures
+[04:09] new statute commitment to public activities like the great congress wed in April and this weekly
+[04:17] initiative since one e all these need new forces and I hope someone won't well ask it's a party
+[04:28] also that this meeting our occasion not of union but of separation for the linguistic issues
+[04:36] and on the one hand it's essential for us to use our mother phone to address this meeting
+[04:46] to italians on the other end it would be important to stay with or to talk with our truly
+[04:54] transnational european party so it would be nice if we could have the money the structure to
+[05:03] have simultaneous translation to and from English but instead we must continue in this sort of
+[05:10] linguistic schizophrenia passing from italian to check through English which is neither mine nor your
+[05:18] language I I'm saying this because we have some pirates in Italy in the party who have an
+[05:27] organization called the matrix lingua which means mother tongue in latin who work on these
+[05:36] issues ok just a brief introduction with our guest in no particular order we have we should
+[05:50] have Fabio Pietro Santi who is the president of Hermes Center for transparency and digital human
+[05:58] rights with the legal entity that manages the project of global x and uni which were funded
+[06:07] the of the open technology phone a global x is a free software in a whistleblowing system adopted
+[06:20] among the others by italian anti-corruption authority and the only the only project builds software
+[06:30] probes to evaluate the censorship or the lack of transparency in the network as perceived by the
+[06:38] end user Arturo Filastò director of the project should have been with us is a good friend of us
+[06:46] but he have another meeting tonight then we have Claudio Agosti the director of trading
+[06:58] exposed project which builds a program a browser plugin I think to expose the tracking of the big
+[07:07] platforms then we have a party a pirate Giorgio Malone is the founder of the where the very well known
+[07:21] script no script plugin that we can find on all five fox of pirate privacy conscious people and I
+[07:30] I believe that is also distributed in the toro browser and finally Rima's guyer is basically
+[07:39] in Italy but she's from Tunis she's the program manager of the digital whistleblowing phone
+[07:47] and she was nominated by the guardian as one of the 10 best emerging talent in Africa to guide the
+[07:55] digital transformation of the African continent she's a fellow of OTF and has dealt with globalism
+[08:04] many many years okay I made the introduction I just leave to you the scene and another time I thank you
+[08:14] okay thank you like I just I just want stress you definitely don't have to apologize for using
+[08:23] the proprietary software because actually we face this problem everywhere everywhere like
+[08:32] people people are using proprietary technologies in the situations which are quite like
+[08:40] not feasible for using them like in the last days me and my colleagues we are in the european
+[08:46] parlaments quite irritated about the fact that actually all the sea let's say secret voting
+[08:52] yeah is supposed to be run using i vote application which means like it is being stored
+[09:01] in some apple apple cloud storage while like providing no accountability to let's say european
+[09:11] citizens but rather just like external external multinational corporation so we definitely face
+[09:21] this problem everywhere and I'm really happy that we have such discussions because talking about
+[09:28] open software is nowadays even more important than it was like before
+[09:35] like the way how data are being processed all across the world is becoming more and more
+[09:40] important basically like if it was important in 20 20th century who is able to to produce more
+[09:48] oil and steel and so on nowadays the data are important and if you are not in control of
+[09:54] your data then you are lost and open software is basically that that's the that's the base
+[10:00] for like whatever we want to say about the digital self determination we need to be in control
+[10:06] of the of the data evaluation and that means we need to see the code itself
+[10:11] that this is this is something quite important however for some reason the mainstream parties
+[10:17] are kind of like unable to understand the simple logic and now really like in the in the last
+[10:24] days I felt a little bit desperate that I'm forced to use these proprietary tools in the european
+[10:30] parlaments in order to kind of like work on european democracy but this is really in the worst
+[10:39] worst possible way that this path that is able like yeah of course in the last months we have seen
+[10:49] quite like successes on this field like we succeeded to include demands for open software
+[10:59] in warriors documents and we will put this effort further but wouldn't there be any other reason
+[11:06] I think this is this is the very good base for pirates to exist to run campaigns and to
+[11:14] to get elected just in order to change the public administration I'm really happy to
+[11:20] to have this opportunity to to say it to italian pirates because I really trust you guys
+[11:26] next time in the european elections we will see many italian
+[11:30] MEPs to help with the changes because at the end like the changes are being
+[11:36] done together on the european scale and it doesn't really matter whether you come from
+[11:42] check italy from or whatever it's important to really participate in the change
+[11:47] yeah so I guess I don't know like you will probably have to continue in italian and that's
+[11:56] that's very much fine and I'm unfortunate and not really good in italian
+[12:01] language I will have to I will have to learn probably in the afterlife or in the next life
+[12:06] after incarnation because there are many languages however yeah that's definitely important and
+[12:15] yeah of course it's pretty sure that like people talk just one language or two languages which are
+[12:25] which are the mother tongue but like anyway we are capable to kind of like exchange
+[12:32] the information over internet quite good so I hope we will have this opportunity to do so
+[12:39] more often like internationally and would there be an opportunity I would really love to see you
+[12:45] speaking on the european level about your projects presenting them to the other pirate parties
+[12:52] exchanging the ideas I think it would be really great and helpful because
+[12:57] yeah that's the basic idea of all open software we do not need to reinvent the wheel we can
+[13:03] just use the something which was done by someone else and it's just the question of exchange
+[13:09] thank you very much for for inviting me okay michelash I am profoundly
+[13:15] indebted to you for your participation I'm sure that from your words we will gather the
+[13:23] convention that we can look if not with confidence at least with hope to the part of this europe
+[13:31] that is still fighting and it is represented by you and the other
+[13:38] MPs of the pirate party I also I can tell you that promise that you as guests again
+[13:50] some other time to tell us from your privileged point of view what is happening in the european
+[13:56] parliament on these issues gladly gladly I really feel it that way that we are there to represent
+[14:04] all the pirates not just from one single country and I will be happy to share the experience we have
+[14:12] or like whatever we can provide to you because we are there for for you as well before you go
+[14:20] I also anticipate that the week after the next will be another meeting like this
+[14:28] about the repression in Turkey Maria Rosario Lumuzio who's the speaker of the party is working on it
+[14:36] Maria Rosario last week made a very interesting meeting with the ambassador Giulio Terzi
+[14:42] and the UN representative for the non-violent radical party and they highly rated the
+[14:51] journalist on the China issue it was very very interesting but unfortunately the recording in
+[14:59] italian sorry on youtube is very very bad so this week we hope at least to have a good recording thank you
+[15:09] thank you thank you very much for the invitation if you don't mind i will i will probably disconnect
+[15:15] from okay i'm not very good in talking in italian be free okay thanks bye allora noi
+[15:23] ritorniamo adesso dopo questa introduzione questo saluto da parte di micolash pesca che è
+[15:31] uno degli europei europei del partito pirata ritorniamo parlare in italiano
+[15:38] per rivolgersi alla comunità italiana con i nostri ospiti e di solito io lo racconto al loro
+[15:47] perché noi siamo più o meno abituati vedo che è entrato anche fabbio qui dentro di solito
+[15:54] le nostre assemblee sono organizzate come assemblee politiche questo vuol dire che
+[15:59] ci sono gli interventi uno dopo l'altro e ciascuno ha un tempo definito per parlare
+[16:07] questa volta invece lo abbiamo organizzato in una forma di tavola rotonda quindi adesso siete
+[16:13] tutti quanti all'interno del del del gruppo so che siete ormai siamo tutti abituatissimi
+[16:20] a queste forme di di relazione diciamo da remoto e quindi siamo tutti quanti bravi a discuterne
+[16:28] io diciamo il mio ruolo è semplicemente introduttivo rispetto alla al tema anche perché diciamo
+[16:38] rispetto al tema alcuni di voi sono effettivamente parti in causa su questa cosa per inquadrare la
+[16:46] questione e a chi ci sta seguendo da youtube chi seguirà l'intervento successivamente
+[17:00] quello che è successo a una settimana da oggi che è mercoledì scorso diciamo a seguito di una
+[17:09] serie di diciamo così anche anticipazioni di questa di questo di questo essito di fatto sono
+[17:18] stati licenziati in tronco si potrebbe dire io non so con precisione come fa come come dirlo in
+[17:26] italiano i direttori dei quattro programmi del usa gm che è una autorità di di medio livello
+[17:37] diciamo così non è una una una autorità molto molto grande a livello di governo federale americano
+[17:46] che gestisce prende un programma di mettea una così esportare la democrazia in tutto il
+[17:53] mondo attraverso la parola attraverso la comunicazione e i direttori le aree di questo programma
+[18:03] chi chiunque lavora in questo tema riconosce molto bene sono radio free asia radio free europe e tra queste
+[18:13] c'è l'open technology fund che da ormai un tempo abbastanza rilevante otto dieci anni probabilmente
+[18:22] sta lavorando con una ottica leggermente diversa da quella delle altre aree delle altre
+[18:32] branche di questa di questa autorità perché ha immaginato che è piuttosto che comunicare notizie informazioni
+[18:43] questa logica viene da un po' indietro nel tempo addirittura dalla seconda guerra mondiale quando
+[18:51] diciamo radio inghilterra dava le notizie anche in italia su questa cosa e invece che semplicemente
+[19:02] limitarsi a dare notizia dare informazione a quei paesi che vivono in condizioni di regimi totalitario
+[19:12] regimi non democratici era possibile finanziare dei strumenti della democrazia
+[19:21] strumenti della libertà e la scelta di questa di questa di questa branca dell'agenzia di questa
+[19:32] organizzazione no profit tutti gli effetti finanziata dal congresso americano era è stata quella di
+[19:39] finanziare del software libero dell'open source selezionati i progetti di software libero che in
+[19:48] un certo senso permettevano ai diciamo agli attivisti delle libertà civili in tutto il mondo di poter
+[19:59] agire e in relativa libertà e relativa privacy e così via alcuni questi progetti sono molto noti
+[20:10] si può parlare di signal come messaggi stimenti individuali si può parlare di tor come sistema di
+[20:19] navigazione sicura mettiamola così ma sono moltissimi progetti mi sembra di aver contato un centinaio
+[20:27] di progetti finanziati con un diciamo differenti fondi insomma differenti quantità di fondi
+[20:38] sulla cosa dalla dall'ottf e peraltro con una particolarità che invece di finanziare come posso
+[20:51] dire aziende oppure organizzazioni già strutturate e già organizzate se mai commerciali così via
+[21:03] l'ottf ha sempre privilegiato il finanziamento di gruppi autonomi non necessariamente così
+[21:11] formalizzati proprio perché vediva in questi gruppi o in questi sviluppatori o in queste
+[21:18] persone una garanzia dovuta non tanto e non solo in realtà a quello che loro sviluppavano per
+[21:27] il la funzionalità di quel dei progetti quanto la loro diciamo così spasmodica attenzione
+[21:35] all essere indipendenti e liberi e quindi all essere indipendenti e liberi dai governi e da
+[21:42] chi potiva mettere diciamo così il naso in questi progetti che sono progetti di solito anche a
+[21:50] livelli di garanzia di sicurezza di criptografia tali per cui l'attenzione è necessaria e questo
+[22:00] vuol dire che insomma diciamo tra virgolette chiunque poteva presentare un progetto con
+[22:06] di qualità un progetto se ottenere un finanziamento anche rilevante io diciamo farei questa è la cosa
+[22:16] ci sono i progetti italiani noi li abbiamo qua forse tutti io non so se ci sono altri progetti
+[22:21] italiani mi sembra di non averli sti finanziati dall dall otf se escludiamo uni perché Arturo
+[22:32] Filastò che avrebbe dovuto essere con noi purtroppo avevo un altro impegno con comitante e gli altri
+[22:42] progetti dovrebbero essere tutti qui io vi darei la parola probabilmente cominciere a dare la parola
+[22:50] a rima che può inquadrare la questione del del del proprio di questo che viene che è stato chiamato
+[23:00] il massacro di mercoledì notte e probabilmente anche di dirci proprio quello che è successo
+[23:09] anche oggi perché la questione talmente fresca che le notizie si si cavallano l'uno e alle altre
+[23:17] grazie manuel grazie per l'invito è molto importante parlare di quello che sta subcedendo con
+[23:24] l'open technology fund io sono rima e sono stata otf fellow digital integrity fellow per un lavoro di
+[23:33] ricerca e capacity building con organizzazioni a rischio nel medio oriente nord africa e
+[23:41] hai introdotto molto bene quello che successo diciamo questa è successo la settimana scorsa ma
+[23:51] in pratica quello che è successo è una sorta lo possiamo chiamare un attacco sull'indipendenza di
+[23:59] un programma come l'open technology fund che è stato sempre sotto una board che fa ruolo di
+[24:07] oversight che aveva rappresentanza dei dei due partiti invece questi ultimi cambiamenti nella
+[24:20] leadership e un po' una un tentativo a rendere questo programma sotto l'amministrazione di
+[24:30] trump e il più gran problema è questo sforzo diciamo lobbying che è stato denunciato da
+[24:43] Libilu che era che era che ha resigned come si dice resign dimissionato e per questi sforzi di
+[24:54] questi questo lobbying per avere soldi per soluzioni proprietà e qualche soluzione
+[25:09] proprietà è invece di sopportare progetti open source che è stato quello che fa l'open
+[25:16] technology fund dal 2012 e molto importante quello che hai menzionato il fatto che un programma
+[25:25] che sopporta gruppi indipendenti ma anche idee fa funziona come una sorta di incubator e io
+[25:37] da mia parte per esempio dal 2014 sono convolta col progetto global x che è stato finanziato
+[25:47] dal open technology fund dal 2012 fino a 2018 e è un progetto con un piccolo gruppo che ha fatto
+[25:59] tanto lavoro di ricerca su criptografia per creare un questo tool che è facile da usare per
+[26:08] creare piattaforme sicure e anonyme di whistleblowing e anche il caso per uni per tanti
+[26:19] altri soluzioni che sono stati che sono qui oggi e proteggono il lavoro dei giornalisti di
+[26:28] dei attivisti di dirte per i dirte umani in tutto il mondo grazie a questa opportunità che hanno
+[26:38] trovato un proprio programma che vedi diciamo il potenziale ma quello che molto particolare
+[26:46] con l'open technology fund e il process ma anche la struttura e come funziona e un modello
+[26:55] trasparente evidence base nel senso funziona sempre sull'idea che una tecnologia deve diciamo
+[27:10] prove itself e che sia una tecnologia che può essere usata e accessible e che serve comunità non
+[27:21] solo e forse questo una delle cose che ho menzionata molto nei media non solo in paesi repressive
+[27:31] regimes under repressive regimes under totalitarian regimes ma in tutto il mondo dove
+[27:39] la privacy la sicurezza è sempre di più importante in un in un mondo di surveillance
+[27:52] capitalismo e io io stessa nella mia esperienza se voglio parlare di una cosa e sarebbe l'aspetto
+[28:06] di l'inclusività e l'inclusività si dice in italiano lo so quando hai menzionato o meno è l'idea
+[28:19] di esportare la democrazia l'open technology fund e forse uno di quel programmi legato all'amministrazione
+[28:29] al governo americano anche indiretamente perché quello che lo rendeva resiliente per tutti questi
+[28:37] anni prima di questi cambiamenti il fatto che lavora con queste persone di tutto il mondo
+[28:47] questi attivisti queste comunità rischio ma non per non solo per e quindi l'otf ha finanziato
+[28:59] l'internet freedom festival che una comunità che rende possibile e che crea uno spazio dove si
+[29:10] incontrano gli attivisti e le persone che sviluppano le tecnologie così da poter da poter chiudere il gap
+[29:22] che c'è in generale tra tecnologie le comunità e queste tecnologie provano a servire e molto
+[29:30] importante l'inclusività anche nelle persone che scelgono le strategie di finanziamento che sono sempre
+[29:43] basati su i buzioni in tutto il mondo e l'open technology fund ha creato uno spazio per la
+[29:57] solidarietà e per vedere i problemi che succedono sorveglianza e attacchi contro attivisti e in paesi
+[30:08] come la cina e come tanti paesi anche nel Medio Oriente ma questa solidarietà è anche con i stati
+[30:21] uniti stessi per diciamo questo senso globale che stiamo tutti ci possiamo tutti trovaci davanti
+[30:31] questo tipo di minacce e come possiamo trovare le soluzioni e sviluppare insieme tools,
+[30:43] tecnologie, open source e open source non vorrei passare ore a parlare del valore dell'open source
+[30:52] penso questo in questa colt tutte le persone conosciamo il valore dell'open source ma per dire
+[30:58] dire rapida il valore forse per quelli che ascoltano è più per la sicurezza quindi un programma come
+[31:11] l'open technology funds e ora questa nuova leadership in questo attacco lo possiamo anche
+[31:19] descrivere come quelle che vogliono toglierl open dal open technology fund che molto grave perché
+[31:25] open ci garantisceligci tanta sicurezza, garantisci il peer review e garantisci anche che tanti comunità
+[31:34] il mondo possono riusare, ma riusare queste tecnologie e costruire insieme queste tecnologie.
+[31:42] Grazie. Grazie, grazie Rima. Io lascerei parlare adesso Fabio, perché Fabio è un po' il decano
+[31:56] dell'OTF qui in Italia, probabilmente non so bene Giorgio, però mi sa che GlobalX è stato
+[32:06] finanziato ampiamente prima di NOS, di NOScript, e quindi Fabio può dirci qual è l'esperienza
+[32:17] peraltro? Io credo che GlobalX non sia più finanziato dall'OTF, adesso sbaglio.
+[32:22] No, no. Allora, certamente può essere utile pensare a qual è la genesi nell'esperienza che
+[32:33] possiamo avere avuto noi con GlobalX. Parliamo del 2011, in cui al Laker Camp, non mi ricordo
+[32:43] se eravamo in Holanda o in Germania, ci siamo trovati con uno delle figure rilevanti
+[32:49] dell'Open Technology Fund, Dan Meredith, che adesso guida un'altra iniziativa simile per
+[32:56] Spirito, forse un po' più anche incisiva, Reset Tech Against Surveillance Capitalism,
+[33:03] che invito tutti a verificare, che è un altro programma di Rolling Grant. Con Dan Meredith ci
+[33:10] siamo trovati a parlare del progetto GlobalX e lui stava già cercando di dare struttura a
+[33:18] tutte queste iniziative che nascevano dall'ambito attivistico, acaro, giornalistico,
+[33:25] alla intersezione, in una visione progressista dei diritti civili nell'uso della tecnologia e ci
+[33:32] troviamo nel 2012 a sottoscrivere il primo grant di ciò che ha portato di fatto allo
+[33:40] sviluppo di GlobalX rispetto a quello che possiamo chiamare un po' un prototipo che
+[33:46] fu realizzato all'inizio, con quello che non era neanche ancora OTF, si chiamava Freedom to
+[33:53] Connect ed era un programma di Radio Friesia, la cui Presidente era Libby, con lei che con
+[34:01] grande coraggio ha, diciamo, rassegnato le dimissioni denunciando questo tentativo di
+[34:06] influenza per spostare fondi da tecnologie sviluppate in modo aperto, a tecnologie che
+[34:12] magari hanno un risultato di senso shit by pass efficiente ma che vengono sviluppate in modo
+[34:20] oscuro. Freedom to Connect quindi è stato questo primo programma che ha visto la genesi dei
+[34:28] tanti progetti come CryptoCat, divenne anche una delle fonti di finanziamento di Torre e poi
+[34:36] l'anno successivo per acquisire maggiore indipendenza e soprattutto per degli obiettivi di autonomia,
+[34:44] poter ovvero supportare Grassroots Organization in modo più agevole, più semplice al di fuori di
+[34:52] quelle che sono, non al di fuori ma in modo più semplice rispetto a quelle che sono le linee
+[34:57] guida federali di programmi gestiti da Radio Friesia, ma quell'Open Technology Fund. Quindi
+[35:04] l'Open Technology Fund è nato e si è strutturato sulla base delle esigenze della comunità che va a
+[35:14] servire. Questa è una differenza fondamentale, tante granting organization, cioè quelle che in
+[35:22] qualche modo supportano initiative orientate a vari gradi e livelli sui temi delle libertà e
+[35:29] diritti civili, non sono gestite, guidate e organizzate secondo i criteri delle comunità che
+[35:37] vanno a finanziare, che poi lavorano sugli obiettivi ideali che vogliono perseguire. Pensiamo a un
+[35:44] Open Society Foundation, grandissimi initiative però ha una sua struttura organizzativa che
+[35:52] nulla che vedere con la partecipazione comunitaria. Mentre OTF si è data una linea guida molto forte di
+[36:03] avere una compartecipazione e una raccolta di feedback nella definizione di come OTF stessa
+[36:11] debba funzionare. Abbiamo vissuto e sperimentato tante esperienze nei pluriennali OTF gathering,
+[36:20] cioè i momenti in cui si trovava in quelle 100, 200 persone di un centinaio di progetti finanzati
+[36:28] dall'Open Technology Fund a definire tutti assieme quali sono le priorità del prossimo
+[36:35] anno dell'Open Technology Fund. Dal punto di vista non solo finanziario, ma di che tipo
+[36:43] di servizi o bisogni anche di tipo etico, anche di protezione e rispetto di valori di cui la comunità
+[36:51] ha bisogno. Ci siamo trovati che negli eventi OTF stessa sono state introdotte anche le possibilità
+[37:00] di poter parlare con un supporto psicologico per chi magari ha una maggiore sensibilità e si
+[37:05] sentisse nella necessità di avere un supporto. La sfumatura, la modalità con cui l'organizzazione
+[37:12] dell'Open Technology Fund ha secondato la scala di valori di chi ha poi sviluppato tecnologia o ha
+[37:21] supportato la diffusione delle tecnologie, le cosiddette Internet Freedom Technologies,
+[37:27] cioè tecnologie che permettono di superare filtri sensori, di proteggere le informazioni,
+[37:32] di garantire l'anonymato e quindi esprimere liberamente il proprio pensiero anche se
+[37:39] politicamente non allineato al governo in cui ci si trova tipicamente scarsamente liberale,
+[37:46] anzi di tipo solitamente oppressivo e questo modello è unico. Nessuna realtà al mondo,
+[37:54] neanche la realtà Open Source, passatemi il termine più fricchettona, si è data un modello
+[38:03] di governance di questo tipo gestendo 50 milioni di dollari all'anno. Quindi ricordiamoci che una
+[38:10] realtà con un budget così importante si è orientata per servire la propria comunità.
+[38:18] Questa era un po' l'esperienza da condividere e anche uno dei motivi principali per cui la
+[38:26] reazione di tutta la comunità in Italia, in Europa, negli Stati Uniti e in ogni
+[38:33] singolo altro paese dove si è visto un supporto, anzi direi soprattutto al di fuori dell'Europa e al
+[38:40] di fuori degli Stati Uniti, c'è stata una reazione così importante perché Open Technology
+[38:46] Fund rispetto a libertà e diritti civili nell'ambito tecnologico ha sempre rappresentato un paradiso
+[38:52] ideale anche nelle modalità di conduzione. C'è una, come posso dire, una sorta di conflitto
+[39:09] in questa cosa perché il punto di vista comune della persona è la strada e che i governi queste
+[39:19] cose non dovrebbero finanziarle. In realtà va detto che in questo caso il finanziamento
+[39:25] veniva dal Congresso degli Stati Uniti direttamente a queste cose e poi era anche il modo con il
+[39:32] quale, come hai fatto ben presente, tu venivano distribuiti questi finanziamenti. Io però vorrei,
+[39:43] a questo punto, come involgo Giorgio, perché aveva fatto nella chat nella quale abbiamo parlato
+[39:48] un intervento su questo anche se mai vedere criticamente questa questione. Tutto sommato noi,
+[40:01] tra virgolette in un certo senso stiamo affrontando il problema che questo finanziamento provenga
+[40:09] diciamo da quelli da cui non ci aspettavamo dovesse provenire, è vero, diciamo Giorgio?
+[40:17] Sì, ma non è neanche tanto strano. Intanto lasciami salutare i pirati collegati in maniera
+[40:22] tale che io possa assolvere il mio obbligo religioso e finalmente toglieri i paramenti
+[40:27] perché sto morendo di caldo. Io essendo pastafariano ovviamente sono pirata come voi e quindi vi saluto.
+[40:33] Giorgio, io però devo purtroppo dire una cosa che è pirata chi il pirata fa e soprattutto
+[40:41] paga l'opolo e quindi noi aspettiamo che ti scriva alla chiesa pastafariana. Ok,
+[40:51] allora tolti i paramenti anche perché a noi pastafariani non piace mischiare religione politica
+[40:57] e qua purtroppo nella storia che è stata raccontata da Rima e da Fabio l'epilogo parte
+[41:05] anche da una commissione di religione politica perché non so se siete al corrente ma Libiliu
+[41:10] è stata messa nel mirino di Bennon durante una trasmissione della sua fanzine estremista di destra
+[41:21] in cui un noto advocate, un noto difensore dei diritti della destra cristiana che tra
+[41:29] altre è brevo, che giro dichiarava che non era tollerabile che la politica estera nei confronti
+[41:36] alla Cino da facesse questa Libiliu e Bennon si scrive il nome e dopo un po Libiliu viene
+[41:43] decapitata e allora che cosa sta succedendo da quello che si vede dei documenti sembra che sia
+[41:50] incorso diciamo uno shift di controllo, un passaggio di controllo di queste agenzie in maniera
+[42:00] tale che torni a loro mandato originale quello che tu dici giustamente sembra incompatibile con
+[42:05] queste tecnologie aperte c'è il mandato di propaganda fondamentalmente queste agenzie servivano
+[42:11] a fare passare la voce dell'america infatti voiso l'america e una delle testate sotto USA GM la
+[42:19] voce dell'america nei regimi nemici dell'america quindi i non alleati dei Stati Uniti e Open
+[42:27] Technologies fanno da fatto come hanno ben illustrato Rima e Fabio diciamo ha fatto entrare un nuovo
+[42:35] paradigma in questa che comunque è la missione cioè quella di esportare la democrazia che è una
+[42:41] cosa che ci piace pochissimo sentire perché normalmente la leghiamo alla guerra questa è una
+[42:45] versione soft dell'esportazione della democrazia ma l'ha fatta diventare finalmente coerente con
+[42:51] quella che era l'intento dichiarato di tutti gli esportatori di democrazia sia con la guerra
+[42:56] che con altri mezzi come la propaganda cioè i diritti umani che sono sempre stati usati come
+[43:01] scusa diciamo per andare a bombardare questi regimi che erano sempre ditatoriali quando erano
+[43:10] non alleati con gli Stati Uniti poi anche se altrettanto ditatoriali nel momento in cui
+[43:14] entravano la sfera di influenza diventavano democratici quello che ha fatto di diverso
+[43:22] è stato dotare gli attivisti sul campo cioè le persone tra virgoletto presse degli strumenti
+[43:30] per la loro lotta in maniera sicura relativamente quantomeno alla sorveglianza digitale o alla
+[43:38] liberta di espressione quindi strumenti di comunicazione sicuri strumenti di diciamo
+[43:46] sopravvivenza digitale alla sorveglianza quindi questo approccio pragmatico è anche il fatto di
+[43:54] avere creato una comunità che mettesse insieme i tecnologi con gli attivisti sul campo e quindi
+[43:59] sviluppasse anche nei tecnologi una certa tra virgolette coscienza delle loro responsabilità
+[44:05] è qualcosa di assolutamente nuovo è qualcosa che ha permesso a queste tecnologie di essere
+[44:12] degne di fiducia da parte di attivisti di qualunque colore politico perché diciamo
+[44:19] celogianamente il tor browser di cui come hai detto tu no script è una componente di sicurezza
+[44:26] abbastanza importante tra l'altro è utilizzato in iran utilizzato a cuba utilizza d'imbezzuella
+[44:34] ma probabilmente utilizzato anche da gente che a cui il governo americano non va per niente
+[44:40] giù anche cittadini statunitensi che magari si organizzano contro trump è uno strumento neutro
+[44:48] è uno strumento che è degno di fiducia per tutti perché sappiamo come funziona dentro perché è
+[44:54] open source anzi a me piace di più diciamo la la licitura completa free libre open source software
+[45:03] la software libero e assorgente aperto ovviamente la cosa che ci interessa di più in questo caso
+[45:09] è il sorrente aperto e da questo nasce questo delicato equilibrio che andiamo alla tua domanda
+[45:18] questo delicato equilibrio che permette a questi strumenti di essere finanziati dalla potenza
+[45:24] imperialista per definizione a meno diciamo che è molto in viso a tanti di quelli che si autodefiniscono
+[45:30] pirati suppongo non parlo per il partito pirata ma tanti pirati insomma hanno questa visione
+[45:37] spesso anche corretta di questa voglia degli stati uniti adesso magari meno diciamo ortodossa perché
+[45:45] c'è questo ritiro dalla politica internazionale strategico ma questa visione imperialista gli
+[45:52] stati uniti allora dice perché mi do fidare di una tecnologia che viene finanziata
+[45:56] dagli stati uniti semplicemente perché puoi guardare come funziona poi guardare cosa c'è
+[46:00] dentro e poi servirtene per i tuoi per le tue necessità e l'altra cosa che credo che abbia
+[46:08] dato tanto fastidio alla diciamo alla nuova dirigenza è proprio questa creazione di una
+[46:14] comunità di attivisti e tecnologi insieme che è tanto tanto tanto lontana dalla sensibilità
+[46:26] dell'autorite e del diciamo del white power di queste nuove parole d'ordine al governo degli
+[46:37] stati uniti perché veramente lì c'era ha detto benissimo rima pensava di avere sbagliato parola
+[46:43] ma invece c'era grandissima inclusività e vedevamo gente di tutti i paesi di a quei
+[46:49] gaiferi di cui parlava fabbio gli open technology sammits e vediamo gente di tutti i paesi di tutti
+[46:58] i colori di uti orientamenti sessuali di tutte le identità di genere in uno spazio assolutamente
+[47:04] sicuro che credo che abbia dato anche molto fastidio a chi ha decapitato il board tra l'altro
+[47:12] vediamo anche dalla composizione nuova orte in cui c'è una persona che si è distinta come
+[47:17] carina politica la cosa più grande che ha fatto è stata lottare contro la la possibilità delle
+[47:24] persone transessuali di utilizzare i bagni del genere in cui si identificano e ripeto l'attacco
+[47:33] principale è venuto un estremista della destra cristiana il ecco si parlava di questa di questo
+[47:42] lobbying per spostare i fondi su tecnologie chiuse non solo tecnologie chiuse ma anche tecnologie
+[47:48] molto centralizzate quindi dare la possibilità di sì forse aumentare i numeri dei utenti che
+[47:56] possono passare il grande firewall cinese ma quale prezzo a quello di intanto non avere
+[48:01] degli strumenti peer to peer che permettono alle persone di comunicare tra loro ma piuttosto
+[48:06] di ricevere diciamo la propaganda dagli stati uniti quello che succedeva prima
+[48:11] dell'open technology fund poi due di questi strumenti che sono citati in una lettera di
+[48:15] lobbying che è stata quella che ha fatto traboccare il vaso delle dimissioni di li biliu
+[48:20] due di questi strumenti sono oltre che chiusi appartengono diciamo sono stati creati da una
+[48:30] setta cinese inizialmente nata sotto i migliori auspici del partito comunista cinese poi per
+[48:38] ragioni di di sapori interni stanno diventando troppo potenti per il partito comunista cinese
+[48:44] sono stati perseguitati al partito comunista cinese adesso si sono alleati con la destra
+[48:49] cristiana per ripromuovere questi strumenti di cui non si sentiva parlare da tantissimo tempo
+[48:56] perché ormai diciamo il golden standard della della giramento della censura e della
+[49:03] comunicazione sicura sono strumenti decentralizzati sono strumenti assorgenti aperto perché
+[49:08] tutti devono avere la possibilità di creare le proprie reti per evadere facilmente diciamo un
+[49:15] controllo se passi da un collo di bottiglie più facile che ci sia una backdoor più facile che
+[49:22] che un bug venga sfruttato per spazzare via intere i interi banchi di pesci di utenti e quindi questo
+[49:34] cambio di paradigma ha delle motivazioni politiche anche in genua perché in realtà l'efficacia di
+[49:38] questi strumenti è anche inferiore e probabilmente sarà difficile sarebbe difficile speriamo che non
+[49:44] succeda non so il futuro sul condizionale sarebbe difficile conquistare la fiducia degli
+[49:49] utenti che spetta questi strumenti ma intanto il danno si sta facendo il danno quello che potrebbe
+[49:56] succedere che se effettivamente o pet technology fund o viene totalmente definanziata o cambia
+[50:05] diciamo la sua linea politica perché di questo si si tratta perderemo un uno strumento
+[50:15] unico per la libertà di internet infatti la campagna che è stata messa in piedi in pochissime ore
+[50:22] dalla comunità perché di questo si tratta dalla comunità di attivisti e tecnologiche
+[50:31] ruota attorno all'open tecnologica si chiama proprio save internet freedom salva la libertà di
+[50:38] internet e qua aggiungo soltanto un piccolo aneddoto personale che in realtà diciamo spiega
+[50:45] perché ci tengo tanta questa cosa del lasciare aperta del lasciare soprattutto questo requisito
+[50:55] che le tecnologie siano aperte no script ma credo praticamente tutti i progetti che sono finanziati
+[51:03] per le tecnologie fund possano raccontare le storie simili è stato approcciato più di una volta per
+[51:09] inserire le bactore e bactore sempre mirate con nobbidissimi intenti per catturare non lo so
+[51:18] pedofili piuttosto che assassini eccetera da diciamo agenzie di agenzie di lo enforcement
+[51:28] come si dice giudiziarie e poliziesche di un po tutti i paesi anche la scena come miste e non
+[51:36] è che per una particolare fibra morale anche se effettivamente frequentando queste comunità
+[51:42] uno prende conoscenza e capisce menti e quali sono le sue responsabilità ma non è stato una
+[51:46] mia grandissima fibra morale sono un po' eraccio tengo famiglia come tutti gli italiani quindi
+[51:52] ecco uno scritto e finanziato dall'open tecnologica da 2015 c'è ancora un progetto in corso
+[51:58] ma al di là di questo e io ho potuto dire no semplicemente perché sta trattando si di software
+[52:05] open source il giorno dopo appena io faccio il commit e chi doveva incorporare il mio software
+[52:11] nel tor browser vedeva la diff dalla versione precedente guarda che stronzo quello l'ha ci ha
+[52:17] messo una bactore e la mia credibilità per quanto riguarda lo sviluppo di software per la
+[52:22] sicurezza sarebbe finita immediatamente quindi avevo la massima libertà in quel momento di poter
+[52:29] dire no senza temere ritorzioni e comunque dovendo dire no anche a offerte diciamo in denaro
+[52:38] minacce quello che fosse ma sei appena spiegavo questa cosa molto semplice magari non vieni va
+[52:42] capita immediatamente ma appena chi mi ha interpellato faceva quel piccolo saltologico mi
+[52:49] lasciava in pace quindi credo che non ci sia migliore garanzia della possibilità di fidarsi dei
+[52:55] propri strumenti per la democrazia digitale io credo che questo aspetto sia forse il più
+[53:01] rilevante in questa storia è chiaro che esista nel nel campo delle tecnologie una come posso
+[53:11] dire un gioco non ditto che è quello di controllare le persone noi l'avevamo abbiamo sentito
+[53:20] va bene noi siamo nel campo in un certo senso quindi abbiamo vanti nedrizzate su queste poste
+[53:26] però il grande pubblico questa cosa immagino l'abbia sentita abbia capito che ci sono queste
+[53:33] cose quando a un certo punto qualche agenzia americana andò dalla ipolle chiedendogli di
+[53:39] sganciare il telefonino di un particolare catticone perché poi la questione è questa e lei si
+[53:49] misse di traverso almeno per quanto ci ha detto insomma su questo noi che ne sappiamo esatto
+[53:55] ha usato degli argomenti tecnicamente diciamo buoni perché ha detto io c'ho questa criptografia
+[54:02] che non è simmetrica quindi io non ne so niente di come o so come è codificato quel
+[54:07] telefono ma le chiavi non ce l'ho io quindi non troppo so sbloccare ma io che ne so visto che
+[54:12] è il pollo neopensurso che non ci siano effetti una bec d'or che bypass a questo problema però
+[54:20] questa questione riguarda esattamente il software libero perché nel software libero io il che ne
+[54:27] so proprio non lo posso dire perché nel momento in cui la bec d'ora viene messa tutti la vedono
+[54:34] ora io certo non sono in grado di andare a vedere le bec d'or nel codice sorgente da tutte le
+[54:40] parti però ci sono persone con mit che fanno proprio esattamente quello nel nel loro lavoro
+[54:49] quotidiano perché vedono il flusso delle patch che passano esattamente come come dici tu e io
+[54:55] credo che questo sia molto più che non tutto quanto il fluo il fluore diciamo trampista che poi
+[55:03] per carità ci sarà c'è anche il fatto di voler portare quella agenzia non tanto a esportare
+[55:10] la voce dell'america all'estero quanto a usare la voce dell'america per fini interni a livello
+[55:18] elettorale per carità c'è chiaramente anche questa questo tema però è anche evidentemente
+[55:26] chiaro e la questione il software libero in effetti non si scherza dal punto di vista del e qui veniamo
+[55:35] coinvolgimento di mai così diciamo appropriato di claudio del trekking che fanno diciamo i i poteri
+[55:49] tra i regolette forti che sono le le piattaforme oppure in questo caso i diciamo le polizie mettiamolo
+[55:59] così della della cosa claudio tu che che sensazione hai su questa storia e come se ne non dico ne esce
+[56:09] perché poi non dipende da noi l'uscita da questa cosa però come la frontiamo secondo te
+[56:15] tutti grazie per l'invito scusate grazie a chi ha preceduto perché in modo molto completo avete
+[56:22] spiegato tutto quello che poteva servire però mi sono segnato un po di dettagli perché ci sono
+[56:30] gli aspetti che sono esso molto sono stati molto illuminanti per me in quanto italiano che
+[56:35] sconosceva la realtà americana in particolare scoprire che i due progetti manager di otf in
+[56:45] venissero da due storie uno venisse da occupare lo street e indimedia d'altra invece venisse da
+[56:53] attivismo contro la netturna neutrale in in the u.s. quindi la cosa per me più sorprendente è che
+[57:02] nel scusate un'altra cosa importante che è nel 2011 quando inizia essere allocato il primo
+[57:10] fondo da parte del congresso verso bbg se ricordo bene era il nome della fondazione che prende il
+[57:17] primo slot di miliardi c'è il riclinton che sta facendo un rapporto al congresso e lo fa dopo
+[57:27] le rivolte arabi e dopo le dopo wikileaks che è rilasciato già i vanistan file e con l'altra
+[57:37] e le valia al congresso e dice tra le tante cose questa frase we are in an information war and we
+[57:45] are losing that war quindi dovete pensare che questo tipo di finanziamento si è stato molto molto
+[57:54] positivo esemplare unico per questo gestito per via della connotazione politica e delle
+[58:00] delle comunità di cui c'è una parte persone che poi hanno fatto effettamente otf ma l'impostazione
+[58:06] che c'era era comunque quella classica americana quindi quello per me è stato fascinante è vedere
+[58:10] come sono riusciti questi maghi a gestire una comunità così diversa speciale creativa e
+[58:17] rivoluzionaria in certo senso pur rispondendo al congresso e facendo andare tutto bene per più
+[58:25] di otto anni e come ha fatto cioè da quello che ho capito otf si è riuscita a accreditare come
+[58:35] delle una entità affidabile per il congresso è molto autorevole su temi di sicurezza
+[58:43] bravassi al punto che quando avete fatto la menzione di apple che si rifiuta di aiutare
+[58:49] le vie ecco due cose sono venute nel nostro momento cioè whatsapp che di default diventa
+[58:57] cifrato succede esattamente in quel momento in più è otf o delle persone otf che vanno
+[59:03] che vengono chiamate al congresso per spiegare a persone sia republicane che
+[59:08] democratiche perché le backdoor chettografiche sono un problema e considerate che quando sei
+[59:15] un congressman tu sai che colunque persona che ti parla ti vuole far l'obbismo e convincerti di
+[59:19] qualcosa fornete sai che nel momento in cui porti in giro il cane a spasso qualcuno ti vorrà
+[59:24] convincere perché l'obbismo non è illegale perché il tuo ruolo a ascoltare ascoltare i cittadini
+[59:31] e in particolare in america compagnie pagano persone perché stanno a far ascoltare dai
+[59:38] politici quindi esseri accreditati come quelli che sanno di tecnologia era un ruolo molto
+[59:44] importante per far sì che magari molte leggi orribili non sono passati ma devo dire che la mia
+[59:55] rapporto con lo tf è un po cambiato perché io cambiato lo scopo del mio attivismo ecco
+[60:01] ho iniziato con global x e in quel momento diciamo che la percezione collettiva e bisogna
+[60:08] fare dei software per la protezione contro intercettazioni e sottrazione di dati di armi d'azione
+[60:17] quindi proteggersi da un attore che possa assorbere gli archi però nel 2013 è successa un grande
+[60:23] cambiamento che è stato snowden che fa i suoi leak e quindi senza vedere da un lato quanto gli
+[60:31] stati fossero avanti e in particolare non gli sta da quanto l'ennesà fosse avanti e capire
+[60:37] che fossero i limiti di questa tecnologia perché si è capito ad esempio che un sistema
+[60:43] conetore che fino a 2013 viene adatto per sicurissimo è stato ritoccato con definizione di è sicuro
+[60:49] eccetto se non c'è un global passivo server qualcuno che può intercettare introdurso
+[60:55] globale perché nel 2013 è sembrato che diventasse fosse possibile che l'nsa sembrava che volesse
+[61:02] farlo se non già totalmente c'hasta stasera e l'altro punto è che i privati quindi compagnie
+[61:09] americane che offrono servizi gratuiti per poi sovvedare cittadini iniziamo a diventare sia più
+[61:17] una una liability cioè un rischio per l'utente perché i dati dell'utente vino trattati su un
+[61:23] territorio in cui la persona era diritti e mi ha messo io nello specifico a volermi
+[61:31] dedicare alla contro sorveglianza delle compagnie ne parlai con otf perché erano i miei partner di
+[61:38] fiducia però mi spiegarano che non potevano essere dei progetti da otf quelli che analizzavano
+[61:44] Facebook e Google perché andava contro il loro scopo e questa è la definizione importante per far
+[61:51] capire che loro devono riuscire appunto a rispettare il loro il loro engagement il mandato
+[62:00] di otf verso l'esterno devono sempre poter spiegare che loro stanno aiutando delle popolazioni a rischio
+[62:07] che soffrono di censura in particolare perché limita libertà di espressione e stanno abilitando
+[62:13] queste comunità per comunicare e non subire attacchi invece nel momento in cui il tuo scopo
+[62:20] diventa vogliono analizzare una compagnia americana perché o dei sospetti questo va
+[62:26] totalmente fuori e questo se vuoi non è un limite ma è una caratteristica cioè non ti può
+[62:32] aspettare da una fondazione di questo tipo qualcosa di diverso però è stato anche interessante riuscire a
+[62:37] vedere che se siccome ti trovi di sicurezza informatica sono molto pari se tu vuoi fare un
+[62:45] analisi che ti permette di verificare anche magari quanto Google sia invasivo ma in più
+[62:52] riesci anche a evitare che uno specifico attacco fatto che so da ns o che vuole invigolare il suo
+[62:58] malware riesce questo tipo attacco a essere analizzato bloccato e la tecnologia analizza anche Google
+[63:05] allora bene e poi se l'autoconso che hai fatto verrà utilizzata per il 90% delle volte per
+[63:10] analizzare Google e solo il 10% per diciamo l'ns o oppure una difesa specifica che tu hai
+[63:16] rivendicato nel tuo progetto caprication allora va bene lo stesso perché tu hai fatto con lui per
+[63:22] cui è pagato loro possono raccontare che hanno abilitato delle personatimenta rischio e tu hai fatto
+[63:28] un software libero che verrà utilizzato dalla comunità online e si sta contento quindi
+[63:34] erano anche mia che richiedeva molta serietà attenzione e anche comprensione dei limiti
+[63:44] vorrei giusto toccare altri due piccoli punti uno è che si sta menzionata la velocità
+[63:53] della reazione di otf nel fare una campagna già da due discorso bene questo è la prima volta che
+[64:00] otf lo passeva o meglio nello specifico non otf ma l'internet freedom festival è non solo
+[64:07] festival annuale ma anche una comunità in cui ogni settimana c'è un incontro per quale
+[64:12] persona è di comunità a rischio parlando dell'esperienza per fare uno scambio e lì come
+[64:17] metodo di solidarietà è successo più di una volta che l'internet freedom festival organizzasse
+[64:23] twitter storm che azione di pagine pubbliche chiamate su gizzi che duravano ore pure di
+[64:32] consultarsi di capersi e la parola interessezionalità che viene spesso utilizzata talvolta anche
+[64:42] confondendosi con multisciplinarità in questo caso è veramente interessezionale perché prendeva
+[64:50] tutte le comunità che soprivano il tipo di repressione cercava di capire in che modo la
+[64:55] tecnologia era utilizzata per fare le pressione faceva di questa soluzione un caso più astratto
+[65:02] creava la tecnologia e la portava in giro e anche delle pratiche c'è la pratica di fare
+[65:08] tutte storm fare la pagina di raccolta firme fare le chiamate di coordinamento e tradurre
+[65:13] in moltiplici lingue i comunicati cosa che hanno fatto per questioni diversi tipo che
+[65:18] possa essere un un abuso della comunità cioè di alzizi in egitto verso comunità
+[65:25] lgbt o che sia qualcuno in Bahrain o in in Amalta non importava loro avevano delle pratiche di
+[65:32] supporto che poi nel giorno in cui sono trovati loro essere attaccati sono stati utili per
+[65:39] qualitare una risposta guarda un attimo negli affronti che ho preso curiosamente come
+[65:50] i tribi affect tf pota finanziare colunque cosa ma non l'icol nel senso che se si andava a cena
+[65:59] pagati da otf e loro spegavano e no siccome viene da i soldi governativi possano pagare tutto
+[66:05] ma non l'icol quindi sì perché sono scolici scusa ricatto visto che avevi menzionato la lettera
+[66:13] volevo solo dire che finora sono più di 400 organizzazioni in tutto il mondo che hanno
+[66:21] firmato la lettera al con al congress e più di 3.000 persone quello ovviamente ti mostra
+[66:31] tutta la comunità torno l'open technology fund grazie ecco questa comunità giusto per concludere
+[66:43] dobbiamo pensare che la cosa bella di utf è che cercasse di dare pochi soldi a
+[66:48] dei progetti che essere un interessante idea e volevano che in al massimo 12 18 mesi si portasse
+[66:54] a compimento e quello che devono è come si mantiene questo progetto dopo il finanziamento
+[66:59] ora lo ball x è uno dei pochi progetti che era presi diciamo due o tre tre finanziamenti
+[67:05] normalmente un progetto ne prende uno due perché deve riuscire a diventare sostenibile e ora
+[67:11] dopo questi otto anni già vediamo che alcuni progetti creati da autie grazie a utf sono
+[67:16] sostenibili senza utf questo è successo che è permanente la preoccupazione va più nel guardare
+[67:24] quali sono quelle iniziative che stava nascendo ora che cercano di aggiornarsi perché come
+[67:28] il sistema d'attacco e di abuso cresce anche difesa cresceva però ora che questi fondi
+[67:36] sono interrotti già sono la ricerca di altre fondazioni questi tipi di caratteristiche che
+[67:42] possano in qualche modo ricevere ai cui progetti abbandonati di ora fondi utf e
+[67:49] e sostenirli però dobbiamo capire che è un problema sistemico noi siamo qui a parlare
+[67:58] anche quanto partito partito pirata che abbiamo visto che Giulia Reda è stata l'unica persona
+[68:05] che nel Parlamento europeo ha cercato di fare una cosa vagamente simile cioè un programma di
+[68:10] penetration testing fatto per tutte le tecnologie europee e questo tipo di servizio di
+[68:17] penetration test in che esattamente una di quelle cose che utf aveva iniziato a fare dopo
+[68:22] un po' di anni quando si accorta che non bastava si gruppare software ma servisse anche
+[68:26] qualcuno di esterno lo rivedesse oppure che dei software già utilizzati inizio di essere
+[68:32] sicuri che ci possè una sicurezza alta dobbiamo pensare comunque che come comunità europea
+[68:40] sarebbe bello e auspicabile ci fosse una cosa di simile e per fortuna c'è si chiama ngi
+[68:45] next generation internet si sta dicendo non tanto ai temi attivistici di utf quanto più a privacy
+[68:56] e discovery cioè far sì che i dati sono sempre aggiungibili volendo la connessione la
+[69:04] c'è il frame del investire sul discovery a modo per essere volendo più indipendenti da
+[69:09] google o da alcuni grossi gatekeeper che sono dei tramite con il quale l'informazione
+[69:16] vera ricevuta e acceduta ho concluso sì io diciamo ho voluto cercato la disponibilità di
+[69:27] micolash proprio perché io credo che al di là della questione di otf della questione diciamo
+[69:38] della contingenza di questa di questo che è avvenuto dovremmo immaginare noi come partito
+[69:46] pirata noi siamo un partito tra trascazionale quindi insomma in generale non c'è un reale
+[69:53] problema di superare il il l'ambito nazionale ma anche come diciamo attivisti in generale un
+[70:05] rapporto con l'unione europea per i finanziamenti da questo punto di vista mi dispiace che stasera
+[70:12] aveva detto che sarebbe venuto ma purtroppo poi ha avuto un problema familiare e priscilla robledo
+[70:20] perché lei avrebbe voluto proprio parlare di questo cioè di come rappresentare o di come
+[70:29] fare lobbing diciamo civica a livello europeo e questo è un tema particolarmente importante e
+[70:38] sicuramente la presenza di micolash lo lo testimonia c'è da parte del partito pirata che diciamo
+[70:47] claudio ricorda bene l'attività di giugliareda però al tempo giugliareda era l'unica parlamentale
+[70:54] privata pirata noi adesso ne abbiamo quattro quindi insomma certo quattro non sono quattrocento però
+[71:01] diciamo che un attenzione maggiore per l'altro in un gruppo in grande cresta come quello verde quindi
+[71:11] insomma io parlerei farei ritare la parola a rima proprio nell'ottica di dire ok otf diciamo siamo
+[71:27] ancora in mezzo al guado non sappiamo che cosa succede diciamo una parte del problema dell'ottf
+[71:33] è avvenuto almeno per come l'oletta io dovuto al fatto che se da un lato c'era c'era la paura che
+[71:42] i finanziamenti dell'usage m fossero distolti diciamo così dal software libero dal programma
+[71:52] classico dell'ottf dall'altra parte si era reagito tentando di avere un finanziamento
+[71:58] autonomo dal congresso questa mossa che chiaramente non è non è piaciuta l'establishment
+[72:06] chiaramente ha infastilito diciamo i nuovi inquilini delle stanze alte dell'autority e ha
+[72:17] funzionato male ora indipendentemente da tutto la liolibb ha tentato di metterci una toppa
+[72:26] offrendo le proprie dimissioni e questo prima ancora che succedesse diciamo la decapitazione
+[72:33] della cosa per tentare di attutire il problema ma questo non ha non ha non l'ha salvata dalla
+[72:42] decapitazione intronico lei sarebbe dovuta di mettere a partire da da da da luglio e invece
+[72:52] è stata praticamente cacciata subito questa è la questione però al di là della situazione
+[72:58] americana perché può anche voler dire e questo è quello che mi sembra stia succedendo in questi
+[73:05] giorni che la potrebbe succedere che il congresso possa reagire dando una autonomia all'ottf proprio
+[73:17] dalla da da da tutto questo possa succedere qualcosa di positivo però il problema è che
+[73:26] noi siamo in Europa e che forse immaginare che l'Europa possa assumere un ruolo che non
+[73:33] è solo quello di finanziare le grandi aziende lasciatemelo dire anche un po' decotte della
+[73:39] nostra tecnologia ma invece trovare un fondo per finanziare queste realtà che sono poi
+[73:46] piccole microscopiche talvolta anche non dico un sviluppatore singolo ma volte anche così
+[73:53] e dovrebbe essere interessante io vedo che è giorgio alzato la mano però vorrei che rima
+[74:04] parlasse su questa cosa qui e poi passiamo a parola giorgio ok ok un faccio rapida e si
+[74:11] grazie a manuele e quello che è successo ovviamente ci mostra la fragilità delle dinamiche
+[74:20] politiche in questi programmi come l'open technology fund ma anche come l'hanno chiamato
+[74:28] edri un wake up call che c'è tanto da fare in europa ma nel resto del mondo ci piacerebbe
+[74:39] avere più programmi come l'open technology fund l'open technology fund per me è più di quello
+[74:47] che è come organizzazione come come soldi americani del diciamo del american american citizen taxes ma
+[75:00] il modello l'idea il process di come funziona e come risponde a una realtà un status quo dove
+[75:10] i progetti fossi in generale non hanno non ricevano così tanto supporto e tornando anche al piccolo
+[75:20] problema che abbiamo avuto con con questa col che dobbiamo usare zoom una tecnologia che sappiamo
+[75:27] l'azienda colabora con le autorità cinese e a un certo momento non voleva neanche offrire
+[75:35] l'entuente in cripto gratuitamente perché non ci sono davvero altre soluzioni è quello
+[75:43] stesso livello di usabiliti che sono open source e che sono ampiamente usati quindi per me
+[75:55] francamente mi domando perché in europa ma anche in tanti altri paesi pensiamo sempre ai paesi dove c'è
+[76:04] più libertà che più facile avere anche l'elemento della fiducia per poter essere ospite di di
+[76:17] questi programmi e niente quindi secondo me possiamo possiamo imparare qualcosa ma anche una
+[76:27] col per le diverse realtà e finanziatori che finanziare queste finanziare questo tipo di di
+[76:37] progetti di di software era una cosa necessaria per supportare attivisti ma in generali
+[76:46] diritti umani la privacy e dovrebbe essere una cosa che tocca a tutti noi ovunque siamo permette di
+[76:55] rispondere un attimo a giorgio alla cosa che aveva detto prima io da pirata da attivista
+[77:03] da da lungo tempo preferisco supportare una nazione come gli stati uniti dove c'è una
+[77:11] lontana speranza che succede a una cosa del genere piuttosto che la cina dove oggettivamente di
+[77:18] queste meraviglie noi non ne abbiamo mai nemmeno lontanamente visto ti lascio la parola perché
+[77:25] avevi alzato la mano prima però te la volevo dire questa cosa insomma no ma su questo sono
+[77:35] d'accordo con te infatti parlavo di percezione diffusa è chiaro che gli stati uniti la loro
+[77:40] forza è proprio questa enorme diversità che permette anche di magie o miracoli o birracoli come
+[77:47] diciamo noi pirati costafariani come otf dove si è preso uno strumento che era nato per fare
+[77:54] propaganda e diventato uno strumento di libertà digitale e a questo proposito claudio aveva
+[78:01] accennato al fatto che i fondi europei esistono e sarebbe bello punto che oltre al di là del
+[78:07] fatto che succedono questi birracoli negli stati uniti che succedano anche a altre parti perché
+[78:12] la diversità è la migliore difesa contro le situazioni di crisi come queste quando c'hai
+[78:17] tutte le uova nel nostro panniere ovviamente cade il panniere si rompe tutto avessimo otf in
+[78:24] europea sarebbe una cosa diversa ora dei pezzi di otf come diceva claudio ci sono in europea
+[78:30] ci sono i soldi c'è il next generation internet a cui accennava claudio che questo programma che
+[78:37] finanzia private si è discoveri e c'è un problema che è la burorazia ma abbiamo anche
+[78:44] delle dei corpi intermedi come per esempio è nel net che una fondazione olandese che mi ha
+[78:51] finanziato prima di otf io e nel net lo scoperta perché ha una delle delle caratteristiche che
+[78:58] mancano che è l'agilità è velocissima è velocissima a erogare i finanziamenti quando si
+[79:05] convince che il progetto è buono io era una situazione terribile tanti anni fa una cosa lunga
+[79:12] la faccio breve praticamente non mi stavo dando il mutuo a voce comprato mezza casa quindi
+[79:18] c'ha fatto il compromesso insomma e avevo un progetto in corso l'anno valutato e nel net in 15
+[79:25] giorni e mi hanno trovati finanziamenti in un mese ora per la burorazia che conosco non esistente
+[79:31] al genere quindi se volessimo suggerire il partito di pirata di fare i lobing per avere un otf in
+[79:37] europea delle cose che mancano non sono i soldi perché il budget di otf non era enorme otf aveva
+[79:44] due cose a che sono già passato cosa terribile no a e spero avrà due cose che invece non ci
+[79:52] sono che che questa agilità dovuta al fatto che ha un un consiglio l'adviso riborda una serie di
+[80:01] consulenti tecnici che valutano i progetti di una preparazione stellare indiscutibile cioè il meglio
+[80:09] di tutti i settori su cui lavora per quanto riguarda la tecnologia e quindi quando dice
+[80:16] questo progetto funziona evangelo e questo le permette di essere molto agile nella velocità
+[80:24] di erogazione finanziamenti a burorazia è praticamente zero mentre comunque poi misura
+[80:29] le performance dei progetti e quindi c'è un accanto un accanto abiliti seria dal dentro
+[80:35] ma hai bisogno di finanziare un progetto subito sono velocissimi a erogare e l'altra cosa
+[80:41] che è veramente difficile da creare ma è quella che ha dato la forza maggiore otf e la
+[80:48] capacità di creare comunità e io l'ho detto più di una volta e la comunità di tecnologia che
+[80:54] incontrano i utenti di quella tecnologia che nel caso di tecnologia per la privacy e per
+[80:59] la giramento della censura per l'animità per l'autodifesa digitale sono attivisti sul campo
+[81:05] sono giornalisti sono difensori e diritti umani e quello secondo me si inquadrebbe anche bene
+[81:10] la missione di cooperazione internazionale per esempio dell'Unione europea di con voglio
+[81:15] dare suggerimenti al partito pirata però se credo che un'agenzia del genere manchi e ci
+[81:20] voglia per avere una autorevolezza una proiezione all'estero e non trovarsi in situazioni come
+[81:26] avere una turchia alle porte che ti ricatta perché improvvisamente diventa autoritaria o più
+[81:31] autoritaria o avere altri ricatti di questo genere in tutto il bacino del Mediterraneo senza
+[81:37] potere aiutare sul campo chi invece sta cercando di democratizzare quelle situazioni.
+[81:43] Grazie Giorgio io a Fabio che un po' diciamo l'archetico del responsabile di un programma
+[81:59] che è uscito fuori dalla culla dell'OTF e si è fatto uno spazio proprio sia a livello
+[82:13] internazionale ma a livello nazionale chiederei proprio questo come andare oltre il finanziamento
+[82:21] diciamo iniziale e come un progetto che voglia aprirsi uno spazio dovrebbe fare. Ma allora la risposta
+[82:38] non è ovviamente immediata perché a seconda del tipo di tecnologia che uno possa volere sviluppare
+[82:46] anzi mettiamo a votire a secondo del tipo di obiettivo che uno si dovrebbe dare ci può
+[82:52] essere un modello di sostenibilità economica quello che certamente abbiamo visto questi
+[83:01] anni di esperienza di progetti initiative è ovvio che quando si parla di creare nuovi
+[83:10] software nuovi approcci nuovi metodi sia nell'ambito dello startup anche se la
+[83:16] startup non ha un fine di profitto e va a fare i showcase alla Smao a far vedere quanto sono bravi
+[83:23] giovani imprenditori è ovvio che quando ci sono dieci startup magari quattro hanno successo o meglio
+[83:30] quattro stanno in piedi sei muoiono due hanno successo e questo è un po' un percorso che si
+[83:36] è visto negli anni in cui alcune tecnologie non dico che si reinventavano la ruota ma
+[83:42] cercavano di risolvere tutte problemi simili la condivisione dei file in modo decentralizzato
+[83:51] di una comunità in modo criptografato abbiamo visto decine di iniziare di vedere genere e quelle che sono
+[83:59] state in grado di avere successo hanno avuto sempre due caratteristiche primarie la prima è
+[84:05] mettersi dal punto di vista della utilità reale degli utenti finali troppo spesso ci troviamo con
+[84:14] tecnologhi molto bravi questa parola diciamo molta strata tecnologo che hanno delle idee che partono
+[84:24] da una invenzione tecnologica magari un algoritmo una componente un metodo un approccio e
+[84:30] vogliono fare qualcosa però questo qualcosa si sono confrontati prevalentemente con proprio amici
+[84:37] della propria bolla che sono altrettanto nerd tecnologhi che non c'è niente di male è da
+[84:41] paura bisogna fare brainstorming di questo tipo tuttavia non si può non si sono magari posti
+[84:47] nell'ottica di ma quale utente finale sarebbe utile effettivamente questa soluzione che
+[84:53] risolve problema della criptografia e sono convinto di aver mandato lo sciatto sulla luna
+[84:59] ecco porzi dal punto di vista dell'utilizzatore finale già nelle fasi iniziali dello sviluppo
+[85:04] di una tecnologia è quello che può determinare il successo della stessa tecnologia capire i
+[85:11] bisogni e detto in modo abbastanza fuori del ente le volte significa anche capire che di quella
+[85:16] tecnologia non viene fregata niente a nessuno perché ci sono delle altre alternative equivalenti
+[85:22] già molto più sviluppate e quindi magari quel concept quella idea iniziale sarebbe
+[85:28] meglio un contributo con altre tecnologie quando si adotta quindi questo approccio user oriented cioè
+[85:34] quando si adottano gli approcci del mondo del marketing commerciale cioè ci si pensa prima di
+[85:42] tutto all'utilizzatore finale di un prodotto a prescindere dal fatto che questo prodotto sia
+[85:47] gratis e questo prodotto sia conoscenza libera nei metodi del software allora si pone
+[85:54] quella che è la chiave di un successo di un'iniziativa perché qualunque software se ha una base di
+[86:00] utenti che realmente utilizza quel software prima poi ne troverà una utilità all'interno delle
+[86:08] proprie attività che siano più produttive o più di ricerca o più attivistiche quindi
+[86:13] creandosi una base di utenti che potranno sviluppare metodi di sostenibilità economica che
+[86:20] siano modelli di business quindi qualcuno compra qualche cosa o che siano meccanismi di
+[86:26] Donationware o altre formi insomma di modelli di sostenibilità attorno al software c'è chi è
+[86:35] riuscito a rendere sostenibile i propri progetti con la formazione quindi utilizzare i servizi
+[86:40] professionali date dalle proprie skills nell'utilizzo di un certo software o di un certo
+[86:45] metodo di un certo ambiente e c'è chi invece magari ci ha fatto dei servizi o chi è ancora
+[86:50] rimasto con dei grant certo è che oggi quando si fa un application all open technology fund dopo
+[86:56] alcuni anni ovviamente di esperienza e diterazioni c'è una domanda che è già nel formo per eliminare
+[87:01] quando si chiedono dei soldi che è in quale modo l'iniziativa sarà sostenibile dopo il grant
+[87:09] di otf perché solo un concept che fin dall'inizio tende ad avere una idea di sostenibilità potrà
+[87:17] vedere l'ignition dei fondi per la proteotipazione poi è ovvio che un conto è chiedere 200 mila
+[87:24] dollari per fare un mega progetto un conto è chiedere 30 mila dollari per fare un prototipo
+[87:28] i pesi ovviamente sono diversi e li rientranno anche all'interno di quel margine di discrezionalità
+[87:34] ed espertiesa di cui parlava Giorgio. Claudio invece io prenderei un'altra
+[87:42] suggestione di Giorgio e chiederei ma effettivamente una autorità europea di come posso dire di aiuti
+[87:55] non allo sviluppo ma alla privacy sarebbe un programma ragionevole per un partito ora
+[88:05] il partito pirata è un partito particolarmente piccolo a livello europeo però diciamo l'iniziativa
+[88:12] politica del partito pirata che potrebbe poi esercitarsi all'interno di un gruppo più grande
+[88:19] come quello del partito verde su questo tema potrebbe esserci e io credo che noi lo dico
+[88:29] perché Claudio è iscritto al partito è probabilmente interessato alla parte più attivistica più così
+[88:37] via noi potremmo impegnarci sul questo. Certo sì sarebbe bello va detto che questo momento sul
+[88:49] tema specifico di protezioni dati personali iniziamo a vedere quali sono i limiti delle
+[88:54] autorità esistenti quindi autorità garanti qual è il limite del loro enforcing ho
+[88:59] gesto un report di access now che analizza gtpr dopo due anni e dice tutto bene tra
+[89:06] anni fatto che l'enforcing è quello che manca e che ruolo quindi c'è che cosa sta mancando
+[89:13] in cui un partito pirata potrebbe dare qualcosa credo che sia nella situazione awareness
+[89:21] awareness educazione cioè se pensi al fatto che in epidemia covid in tempo zero era un
+[89:29] pronti l'influenza a dire ma chi se le frega la privacy è chiaro che non hanno idea di essere
+[89:35] nell'era dell'informazione hanno idea di stare sconnessi cioè non hanno proprio comprensione
+[89:40] di cosa sta parlando come si parla di dati e questo credo che quello che si può fare di più
+[89:46] è appunto fare informazione perché creare software in una situazione per il quale le
+[89:53] persone stesse non pensano di avere necessità non è utile però vuole dire se di per il pirato
+[90:00] se fare informazione forse non sarebbe anche il massimo della sua espressione politica dovrebbe
+[90:07] essere allora qualcosa di più efficace per comunque riuscire ad aggiungere si obiettivi di
+[90:14] divulgazione e sensibilizzazione per noi se guardiamo freddamente scusami claudio alla fine
+[90:21] diciamo vediamo la questione dell'app immumino che è un po il il il il precipitato di tutto
+[90:32] quello che è successo negli ultimi mesi riguardo alla alla pandemia oggi quello che succede
+[90:39] è che se non sbaglio il numero di persone l'hanno scaricato è forse un milione 2 milioni un paio
+[90:47] di milioni di persone quindi ampiamente al di sotto di un colore soglia per essere utile e che
+[90:54] i commenti da parte un po di tutti è che diciamo la gente ha troppo paura della propria di di perdere
+[91:04] la propria privacy per a per scaricare quest'app che poi sarebbe di persi fondamentale e determinante
+[91:13] quindi diciamo c'è questa sorta di dissonanza da un lato sembra che la privacy non interessa a
+[91:21] nessuno dall'altro lato poi alla fine anche di fronte messi di fronte alla al pericolo di vita
+[91:31] a direttura della della della pandemia e le persone preferiscono la privacy è un dato che io forse
+[91:40] non riesco a leggere forse non capisco probabilmente oppure forse mi mi come posso dire mi dà un
+[91:51] briciole di speranza forse è vero insomma questo quando l'ho percepito che c'è fosse
+[91:56] questa questo timore diffuso però devo anche dire che non mi sono molto interessato a come
+[92:03] muni fosse recepita però diciamo che la dissonanza è sempre segno sintomo di confusione quindi
+[92:13] e siccome i dati diventano molto sempre più spesso parte di un discorso politico perché hanno
+[92:20] impatto poi su come la società si regola e si governa e sul che come le strutture di potere
+[92:26] poi potranno esorcitarlo quello che dovrebbe servire anche fare informazione e sensibilizzazione in
+[92:33] modo non vorrei dire in parziale perché non esiste però più possibile più possibile motivato da una
+[92:45] volontà di scienza e di trasparenza perché stiamo riendo che anche il discorso su è meglio che i dati
+[92:58] ce li abbia un'azienda italiana o google non utilizzava le argomentazioni corrette se gli
+[93:05] dati può essere che va bene che ce li abbiano entrambi ma ditemi come ce li hanno come li usano
+[93:11] come posso necessitare i miei diritti se mi spiegate queste cose allora capisco in che processo vengo
+[93:17] a far parte come potranno esorcitarli è starci e mantenere i dati nel tempo o cambiare operatore
+[93:23] quando vorrò invece nel momento in cui non c'è una una discussione che è informativa ma è
+[93:28] semplicemente o propagandistica non preoccupatevi ora c'è anche google apple non preoccupatevi
+[93:37] i dati stanno in Italia non vanno mica all'estero allora non mi stai insegnando niente mi sensualmente
+[93:41] facendo leva su delle emozioni del secolo scorso come il nazionalismo applicandole a internet
+[93:48] che proprio non ha senso e pure è il tipo di discorso che avevamo in giro quindi credo che la
+[93:55] awareness sia la cosa che più il problema che io parlo per me noi ci troviamo un po spiazzati
+[94:05] perché dal punto di vista dell'analisi delle cose per quello che ci riguarda noi con il software libero
+[94:14] sappiamo mi interessa poco e sei lo sviluppatore di software libero a queste idee piuttosto che
+[94:23] queste altre idee e così via una volta il software rimane libero io posso tranquillamente senza
+[94:31] problemi senza ammettere che lui abbia qualunque tipo di idea che sia qualunque tipo di persona e
+[94:41] possa essere qualunque proporre qualunque parte ideologica insomma su questo perché io ho in un
+[94:54] certo senso la garanzia che il suo lavoro sarà igualmente buono per me come per tutti gli
+[95:01] altri il che anche degli aspetti diciamo paradossale insomma in certo punto di vista scusami è vero
+[95:11] in teoria ma te la contesto per due motivi il primo è che il software libero aperto comunque sia non
+[95:21] è igualmente accessibile o analizzabile non dimentichiamoci che ssl il meccanismo software
+[95:28] libero che proteggeva internet aveva una vulnerabilità colossale perché la gestitura quattro
+[95:32] persone che lo facevano il tempo libero e un giorno ci si sveglia con con una vulnerabilità che fa
+[95:40] infarziere il mondo connesso e da lì si accorge che mancava questo audit ai software liberi secondo
+[95:48] il fatto che tu stesso dica se il software libero allora possiamo pensarsi versamente già
+[95:58] ti fa parlare a livello di software libero quindi tu stai pensando che il software può essere
+[96:04] sbagliato ma ci sono dei meccanismi che deranno a te cittadino la possibilità di verificarlo invece
+[96:09] questo questo livello di consapevolezza e quindi reazione scambio studio non c'era durante
+[96:16] il dibattito di muni c'era il si o no come se non esiste se nulla in mezzo invece già è
+[96:22] fatto che tu parli software libero con i suoi valori è una parte di questa awareness per
+[96:26] questo creare questa awareness aumenta poi anche il discorso che si fa attorno ai dati e dire
+[96:32] se il programmatore è un fascista o un cinese religioso non ha di per sé un significato ma
+[96:42] senza guardare il software può iniziare a capire quali sono i bias nel software nel momento in
+[96:47] cui è già questa awareness però è questione appunto di creare sta consapevolezza e
+[96:52] sta conoscenza così che poi anche le cose che mette invisibili perché sono nel software o
+[97:00] nella rete tu come cittadino possa comprenderle e reagire grazie claudio volevo in realtà aggiungere
+[97:09] appena menzionato il bias e visto che manuele e manuele hai chiesto il ruolo di un partito
+[97:16] come partito pirata oltre la tutela e protezione dei dati e questo elemento di awareness ma
+[97:24] anche combattere anche avere leggi che proteggono che proteggono cittadini contro la discriminazione
+[97:31] che c'è questi bias che ci sono si creano con ai che rivediamo con con tecnologie come il facial
+[97:42] recognition systems tecnologie di sorveglianza tecnologie usate in carcere in centro di
+[97:47] detenzione che influenzano tante persone in oropa e e questi tecnologie che che si che cambiano
+[97:57] ogni giorno e dobbiamo starci dietro quindi qui è che la politica deve capire avere questa
+[98:06] awareness di questi bias del colonialismo nella tecnologia e lavorare allora io diciamo
+[98:19] mentre chi ci segue da internet e vede solamente la persona che parla io vedo tutti quanti i
+[98:27] i relatori di questa sera e soprattutto vedo giorgio che ogni tanto si si muove e reagiscia
+[98:35] ai commenti della cosa e in realtà volevo ricondurlo all'interno del discorso parlando
+[98:44] proprio di questa cosa cioè della della questione cosa potrebbe fare un partito e che cosa vogliamo
+[98:51] fare noi nel no hai visto diciamo i nostri parlamentari sono ben disposti a darci darci
+[99:01] retta giustamente il loro ruolo no come come diceva claudio prima il parlamentare in america
+[99:10] lui stava dicendo ma in europe la stessa cosa è ben disposta ad ascoltarti poi ovviamente
+[99:17] coinvolte coinvolti da noi e se mai anche più facile probabilmente questi temi sarà più difficile
+[99:26] provarli a darli ad altri che non è nostri noi che come potremmo uscire da un anno ovviamente
+[99:34] non lo dobbiamo fare questa sera però come potremmo uscire da questa cosa riguardante o
+[99:40] forse i finanziamenti o forse anche solo la parte diciamo limitatamente legale perché tu sai che
+[99:52] il parlamento europeo poi è una bestia un po strana insomma rispetto alla all'idea di
+[100:00] parlamento ecco su questo e manuele allora claudio parlata di awareness non so non so
+[100:07] quante volte ha ripetuto questa parola che significa consapevolezza poi alla fine conoscenza
+[100:11] informazione giusto io ciò tre figli piccoli allora se tu riuscisi a farmi avere una
+[100:18] direttiva europea che impone nelle scuole primarie di abolire la parola power point per
+[100:25] indicare le presentazioni di abbo dire la parola mi mandi un word per dire un documento di
+[100:32] testo e imponesse almeno nella scuola non ti dico in tutta la pubblica amministrazione ma
+[100:38] almeno nella scuola l'utilizzo di software libero già questo stesso secondo me gettere
+[100:44] bisemi per tutto un circolo virtuoso perché poi qualcuno se ci sono dei problemi col
+[100:48] software libero di deve sistemare e allora se non ci sono i soldi per sistemarli qualcuno
+[100:53] deve finanziare è giusto quindi secondo me già una piccola direttiva europea che impone
+[100:58] nella scuola non ti dico in tutta la pubblica amministrazione che sarebbe bellissimo e
+[101:01] strategico io ciò qua sulla sulla spalla ciò sempre richial stallman che rompere
+[101:07] balle perché addirittura vorrebbe che ogni singolo file javascript che tu scarichi
+[101:15] involontariamente in ogni pagina web avessi una licenza di software libero altrimenti non
+[101:20] lo fa girare ti giuro mi ha fatto sviluppare un'estensione che si chiama
+[101:27] vibre js che blocca tutto quello che non c'è la licenza c'è tutto un sistema complicatissimo
+[101:32] per attaccare la licenza nelle pagine web e ti giuro si si è fatto finanziare adesso un
+[101:39] secondo round di una cosa del genere da nl net e quindi dico quello è un fanatico a me basta
+[101:45] che a scuola non senta parlare il ward e secondo me già questo sarebbe un primo passo riguarda
+[101:51] i muni secondo me è stata fatta una comunicazione pessia perché fino a ieri sera era la prima
+[101:57] set di tor che parlava proprio di app per il tracciamento dei contatti o per l'esposizione
+[102:02] notificazione come la chiamano google e col è da quello che diceva non noi ci abbiamo forse
+[102:06] la migliora del mondo poi alla fine per quanto riguarda la non è che ci siano eccellenze
+[102:13] però rispetto alle altre ha il paio con la migliore sanità del mondo diciamo di sì ma
+[102:19] dico è stata comunicata malissimo sta cosa è stata fatta con grandissima confusione nel senso
+[102:23] che secondo me addizio non sapevano assolutamente che cosa volevano fare e si sono si sono barca
+[102:29] mai nati con il con il feedback più o meno anzi più negativo che meno e alla fine hanno
+[102:36] messo sul ripositori di tab soltanto con la documentazione hanno scelto google e ipol ma
+[102:42] continuava non fare comunicazione corretta perché come diceva claudio non ti spiegavano il perché
+[102:48] diciamo era la la meno peggio di tutte quindi sì awareness ma secondo me è giustamente tu da
+[102:55] partito dici io non è che faccio i corsi io sono in un parlamento europeo faccio le
+[103:00] proposte legislative ecco fammi questa direttiva europea nella scuola obbligatorio il software
+[103:05] libero poi se riesci per tutte le pubblica amministrazione ancora meglio posso posso cogliere
+[103:10] l'occasione per tirare le orecchie al compagno di partito pietro santo io ciò sotto al naso una
+[103:17] una un ripositori di dove i contributori sono carlo piano nostro candidato alle ultime elezioni
+[103:29] marco ciurcina iscritto al partito è candidato alle ultime elezioni e fabbio pietro santo in cui
+[103:37] presente iscritto al partito sul monitoraggio civico e però mi sembra che nessuno dei tri abbia
+[103:46] fatto nel nostro sistema democratico interno una proposta di supporto nemmeno del loro
+[103:51] progetto che sta che credo abbiano tirato giù da pochissimo tempo insomma devo vedere quanti
+[104:02] però insomma già qualche mese che è su quindi probabilmente forse nel considerare il partito
+[104:10] anche come controparte in un certo senso ora è vero che noi siamo un partito piccolo però è anche
+[104:18] vero che come ho cercato di farvi vedere oggi se noi facciamo proposte a livello europeo
+[104:27] probabilmente queste proposte sono accolte cioè abbiamo uno spazio anche perché diciamo pure
+[104:36] loro cioè pure i parlamentari europei sono attenti a queste cose ci parli di questo progetto ci
+[104:45] parli di questa anche di questo link sul del professor meo ma allora ricollegandoci proprio al
+[104:58] tema dell'utilizzo dell'utilizzo del software open source nella scuola o quanto meno del
+[105:05] quello che abbiamo visto con l'esperienza covid è stata una diffusione delle piattaforme di google
+[105:13] micro software primis utilizzate per lezioni a distanza e questo ha ovviamente generato
+[105:19] tante sensibilità in merito a me c'è l'opportunità di utilizzare il software libero e ha portato a
+[105:27] seguito soprattutto della conferenza di una giornata che c'è stata scuola libera appunto
+[105:33] continuity punto space che è stata una conferenza interamente sul software libero nella scuola
+[105:38] a una lettera indirizzata pochi giorni orzono la ministra di istruzione azzolina da parte del
+[105:46] professor angelo meo e un grande elenco di associazioni promotrice e software libero proprio
+[105:54] per proibire l'uso del software proprietario obbligare all'uso dei formati aperti e soprattutto
+[106:01] utilizzare infrastrutture cloud di controllate dalla pubblica amministrazione stessa tra
+[106:08] l'altro quest'ultima iniziativa che tanti paesi hanno già abbracciato vediamo la germania vediamo
+[106:15] in giappone senza andare diciamo terzo paesi stravaganti il progetto a cui manuele faceva
+[106:24] riferimento è un progetto nato insieme a marco sulcina e katloviana daniele scascia frappe
+[106:34] ci sono tante persone che diciamo lo hanno trovato di interesse procede lentamente perché le
+[106:42] risorse sono volontarie e la mia capacità di ad bocca sia limitata tuttavia a uno scopo importante
+[106:48] cioè in italia noi abbiamo una delle migliori leggi che in buona sostanza impongono una
+[106:56] preferenza per il software libero se non per altri giustificati motivi cioè quando una
+[107:02] pubblica amministrazione in italia deve adottare una soluzione software o deve produrre una soluzione
+[107:08] software deve fare un metodo di analisi si chiama total cost of ownership e deve mettere a
+[107:16] confronto le varie soluzioni e la dove le funzionalità richieste sono disponibili non
+[107:24] software open source utilizzare un software open source in questo realtà diciamo affini a
+[107:31] tutto il movimento tirata come tutto il movimento del software libero e in questo caso vediamo la
+[107:36] campagna della free software foundation euro public money public code campagna che porta un concetto
+[107:44] molto semplice i soldi pubblici utilizzati per produrre software dovrebbero produrre software
+[107:51] libero quindi dovrebbero produrre conoscenza che è pubblica come è pubblica una strada fatta
+[107:57] con soldi pubblici secondo questo questa campagna portata avanti da molti anni da tutto momento il
+[108:02] software libero appoggiata da free software foundation europe ha visto in italia il la creazione di
+[108:09] fatto di una buona normativa che è parte del codice delle amministrazione digitali avvia come
+[108:16] si dice nel mondo dell'attivismo civico attorno alla tecnologia il codice delle amministrazione
+[108:22] digitali è la norma più disapplicata che esiste in italia perché perché non c'è nessun soggetto
+[108:28] deputato a misurarne l'effettiva implementazione e non ci sono nessun nessun non c'è ancora
+[108:34] quanto meno nessuna forma di sanzione diretta alla pubblica amministrazione che disapplicasse
+[108:41] questa questa componente questa parte di norma che obbligherebbe a soddisfare quello che
+[108:46] è il requisito ideale di cui parlava prima giotto cioè che la pubblica amministrazione
+[108:50] debba usare software oven sources e debba produrre software oven sources in questo la normativa
+[108:55] francese è peggio della nostra ma è molto meglio applicata della nostra allora dato che l'agenzia
+[109:01] veritaria digitale non è che vigile più di tanto in stile l'innovazione non è che vigile più
+[109:06] di tanto la corte dei conti dovrebbe in qualche modo darci un'occhiata ma non è che ci guardi
+[109:11] più di tanto siccome la norma ci abbiamo l'idea di creare un progetto con una pluralità di
+[109:18] anime che permetta di condividere queste valutazioni questi documenti di valutazione
+[109:25] è obbligatoria che dovrebbero essere fatti da tutte le pubblica amministrazione in italia prima
+[109:29] di acquisire del software questi documenti sono obbligatori e se un dirigente di una
+[109:34] pubblica amministrazione non l'ha prodotti cioè ha detto scelgo di comprarmi microsoft office
+[109:41] rispetto che utilizzare il software libero gratuito compatibile libre office se non l'ha
+[109:48] fatto e ha comprato microsoft sta arrecando un danno irariale allora in quel caso la corte dei conti
+[109:54] potrebbe eventualmente intervenire ma chi lo va a dire la corte dei conti allora in mancanza di
+[109:59] questa vigilanza l'idea è di creare un appropio dei strumenti di tipo giuridico che permettono
+[110:06] sia agli amministratori pubblici di avere una disponibilità una grande quantità di
+[110:11] documenti di valutazione comparativa che possono giuridicamente usare per dire beh scelgo
+[110:16] libre office perché ragazzi c'ha questi indubbi vantaggi come soluzioni di uso penso
+[110:22] si spezza microsoft office e se non l'ha fatto portarlo in fronte alle sue responsabilità cosa
+[110:28] che può fare un cittadino ad esempio non esposto la corte dei conti nella mancata applicazione del
+[110:33] codice dell'amministrazione digitali creando un danno irariale il dirigente pubblico che
+[110:38] avesse firmato quell'acquisto rischierebbe di vedersi decurtato il bonus di fine
+[110:43] quindi forse ci dipensa però questa lavena un po' più attivistica abbiamo deciso che
+[110:47] questo progetto che oggi si trova su github.com slash software libero che si chiama monitoraggio
+[110:54] si monitoraggio civico diventerà in realtà la mappa del software libero in italia quindi
+[111:01] avrà una una organizzazione per la creazione di una mappa di una base dati collaborativa
+[111:06] rivolta ai amministratori pubblici rivolta alle realtà che supportano il software libero e
+[111:12] rivolta anche ai attivisti che vogliono monitorare l'applicazione della legge da parte dei
+[111:18] dei amministratori pubblici per condividere questi documenti e condividere anche chi non
+[111:25] rispetta la normativa in modo collaborativo quindi se tutti iniziassimo a effettuare
+[111:30] questo tipo di monitoraggio civico e facilitare la pubblica amministrazione della tempiera
+[111:36] la norma perché bastone carota permettete di questa è la regola di base allora magari riusciremo a
+[111:43] farsi che l'italia diventi il primo paese in Europa per uso e produzione di software libero
+[111:49] perché torna a dirlo abbiamo una normativa che è decisamente più bella e efficace
+[111:55] impattante rispetto alla normativa francese tuttavia da no le pubblica amministrazione di
+[112:01] rispettare la legge non ne vogliono sapere quindi dobbiamo dare una mano ok grazie fabbio io mi
+[112:09] sono i 11 più o meno siamo nei tempi mi avvicinerei alla conclusione farei diciamo dare
+[112:17] spazio a ciascuno di voi che lo vuole fare per una conclusione sul tema e sul tema
+[112:23] dell'open technology fund su quello che pensate possa tornare utile in questo momento oltre
+[112:33] ovviamente sottoscrivere la letteral congresso oltre ovviamente di distribuire l'informazione
+[112:41] fare fare conoscenza consapevolezza su questi temi e quindi fare un ultimo giro per poi
+[112:52] chiudere e comincierei da ina grazie emmanuele appunto quindi per tutte le realtà che ci
+[113:02] ascoltano colleghi NGO che possono firmare la lettera è molto importante save internet
+[113:08] freedom punto tech e assolutamente è stato un piacere parlare con tutti voi e aprire questo
+[113:20] debate molto importante su creare più spazi comunità e processi e modelli di supporto per
+[113:33] tecnologia open source con la parola chiave essendo inclusività e ripeto molto molto
+[113:42] importante tutti i problemi se stiamo parlando in italia o in oropa che vediamo discriminazione
+[113:52] o discriminazione in egitto ci tocca qui perché l'italia sta vendendo armi a un paese che sta
+[114:04] che sta non so come si dice in italiano oppressing i suoi cittadini i giornalisti e quindi quello che
+[114:18] forse da la mia parte mia è molto importante la solidarità ma anche a parte il mondo fosse
+[114:27] una perspectiva diritti umani essere sempre collegati consapevoli e fare tutto quello che
+[114:40] possiamo fare per supportare le persone che sono under repressive regimes grazie rima giorgio ho
+[114:58] visto che tu ci stai salutando nella la tenuta religiosa l'uniforme da pirata esatto come
+[115:09] ci chiede il prodigioso spaghetto volante e sì il mio augurio la mia preghera il prodigioso è che
+[115:16] in europa si possa realizzare qualcosa di simile a quello che è fatto fino a solo tf c'è uno
+[115:23] spazio comune di e progettazione del futuro e le libertà digitali in cui interagiscono
+[115:29] e gli utenti che spesso sono persone veramente che lottano per la libertà e la democrazia in
+[115:37] situazioni terribili come quelle a cui c'è una rima e i tecnologi che tante volte invece non
+[115:44] hanno nessuna consapevolezza della dei problemi che la loro tecnologia potrebbe risolvere quindi
+[115:52] questo da anche responsabilità è un piccolo aggiornamento o tf sta facendo causa per contro
+[116:02] la nomina di pac di michael pac ai vertici del dosage m quindi ha chiesto una ordinanza restrittiva che
+[116:09] blocchi la situazione perché nella causa si ritiene che il nuovo borto sia il legittimo e
+[116:15] l'otto luglio ci sarà un'audizione in congresso di michael pac quindi ci stiamo preparando per
+[116:21] questa controffensiva sia legale che diciamo in congresso che poi il posto della democrazia negli
+[116:28] stati uniti quindi i migliori auguri in questo caso tf e i migliori auguri all europa perché
+[116:33] possa seguire l'esempio illuminante da questo punto di vista di utf ramen e birre luya grazie
+[116:43] giorgio io a questo punto devo corrispondere alla tua cosa adottando anche io diciamo l'uniforme
+[116:52] da pirata faccio il giro così come cio vi ho sulla sulla sulla mia piattaforma e quindi chiedo a
+[117:01] claudio una conclusione della della serata su questa cosa claudio diciamo è probabilmente la
+[117:12] nostra punta di diamante come come pirata diciamo vici ora potrebbe andare più meglio comunque
+[117:26] guarda per te una conclusione significativa quello che è stato per me veramente unico
+[117:32] importante forse ripetibile di questi otto anni di otf e che si sono diffuse a tecnologia è
+[117:40] proprio l'interesse collettivo invece quello che vedi nel dibattito pubblico va spesso nel
+[117:45] chi sta promovendo una soluzione in questo momento lo fa perché ha un'agenda uno scopo
+[117:50] dietro che non spegna pendue qual è le tecnologie create su spinte da dall'idea di essere
+[117:58] distribuite ed essere software libero ed essere utilizzabili a tutti in modo già tradotto
+[118:03] e pensando ai peggiori casi di insicurezza così da proteggere loro e quindi proteggere
+[118:08] tutti gli altri con questo tipo di organizzazione mentale le tecnologie fatte han permesso di
+[118:14] espandese essere utilizzate in situazioni o impensabili questa è stata per me la potenzialità
+[118:20] più più grossa pensate solamente che se adesso avete l'end-to-end accessibile a
+[118:25] 2 miliardi di persone è perché è iniziato da un esperimento finanziato in questo
+[118:30] modo e questo frangente di quasi innogente spensierata finanziamento di software di liberazione delle
+[118:45] persone della comunicazione o dai dati ora io ho paura che da 2 miliardi in poi sarà più
+[118:53] difficile farlo sia perché le pettiforme cercano di essere più chiuse e meno interoperabili quindi
+[118:58] è meno difficile per un software che crei nuovo poter dare queste garanzie e essere alla pari con
+[119:04] tutti ci sono più meccanismi di lock-in ci sono più strati di tecnologia che non ti permette
+[119:12] ogni che pericolo succede sotto e di conseguenza che sia un sistema di protezione potrebbe essere
+[119:17] che l'hardware o si operativo abbia qualche backdoor a livelli per te e per se non scusabili
+[119:24] e quindi in generale voglio vedere questi questo decade con cui utf è stato un protagonista molto
+[119:35] significativo come un momento della lotta per un internet libera in cui abbiamo avuto un
+[119:41] vantaggio se utf inizia a mancare mancherebbe un alleato molto importante e non sono così
+[119:50] optimista che si possa uscire a far tutto quello che vogliamo grazie grazie claudio e chiudiamo
+[119:57] con un fabbio le tue considerazioni finali rispetto a questo tema rispetto a quello che il partito
+[120:07] può mettere in campo e rispetto a all'aiuto che puoi darci nel mettere in campo queste cose
+[120:17] va una riflessione come si dice interessante che magari è già stata fatta da chi ha operato a
+[120:26] livello sistemico quindi pensiamo lo stesso per tecnologifanda un impatto sistemico una vision
+[120:32] sistemica è anche quella di far collimare mondi fra loro diversi ma che non parlano la
+[120:39] stessa lingua tutte le organizzazioni legate al mondo dei diritti umani e legate soprattutto
+[120:50] allo sviluppo spesso non si rendono conto di come una tecnologia possa essere abilitante e di cui per
+[121:01] avere una tecnologia ci deve essere un interesse a chi interessa di un software di
+[121:08] crittografia a farne la traduzione in turcameno o farlo in burmese per il miammar paesi dove c'è
+[121:17] un livello di controllo di paesi tendenzialmente dei regimi chi si deve occupare di questa cosa
+[121:25] se ne devono fare le organizzazioni dei diritti umani o se ne devo occupare il mondo tecnologico
+[121:32] ecco in questo ci vedo la cooperazione internazionale cioè chi è più vicino al mondo della cooperazione
+[121:40] internazionale anche più vicino al mondo del supporto tipicamente on field in paesi dove queste
+[121:48] tecnologie sono più utili probabilmente sono mondi che tra loro diritti umani cooperazione
+[121:54] internazionale tecnologia non non si toccano lavorano a livelli diversi e cercare di fare
+[122:03] un networking affinché ci siano intersezioni fra mondi diversi potrebbe portare altre forme di
+[122:10] finanziamento dell'internet freedom ci vogliono metodi e approcci diversi cioè se l'aspetto
+[122:21] legato all'open technology fund in se venisse meno e ci sarà una ricerca a livello
+[122:27] ecosistemico di ripenire i equivalenti fondi per i stessi scopo in punto è come farlo con
+[122:34] la giusta angolazione perché otf ricordiamoci non ha prodotto prevalentemente tecnologia prodotto
+[122:42] prima di tutto l'accesso a questa tecnologia nei paesi che più ne hanno bisogno questo è un
+[122:48] problema di supporto internazionale che richiederebbe magari dell'obbing un proprio
+[122:52] alto livello questa un pensiero di una possibile azione grazie fabbio io a questo punto se non ci
+[123:03] sono altre domande mutue fra di voi e mi dichiarerei soddisfatto è stata una lunga interessante
+[123:12] serata io ho conosciuto giorgio che prima non conoscevo questa cosa mi fa molto piacere si
+[123:20] aspetti gli romperò la scatole di qui a ora diciamo siamo quasi in tempo di vacanza forse forse
+[123:28] no però sicuramente da settembre comincerò a romperci la scatole e ringrazio tantissimo rima
+[123:35] che per me è sempre un piacere vedere e sentire ed è una delle persone che con le quali mi
+[123:45] trovo meglio in assoluto a discutere di queste di queste cose ovviamente ringrazio fabbio e claudio
+[123:55] e però spero che siano presenti la settimana prossima nella nostra diciamo assemblea molto più
+[124:07] interna di questa che riguarda i nostri sistemi informativi interni che hanno bisogno assolutamente
+[124:17] dell'aiuto di tutti quanti perché i maipoi del cosericale sono sempre sugli stessi e forse è il
+[124:24] caso che vengono condivise un pochino facciamo un pochino tutti quanti per un partito che
+[124:33] ovviamente ha bisogno ancora di voi purtroppo siamo ancora in una fase nella quale è necessario
+[124:40] il lavoro volontario detto questo ringrazio tutti ringrazio quelli che ci hanno ascoltato che
+[124:48] sono rimasti con noi fino a quest'ora e vi ringrazio moltissimo voi per averci raccontato
+[124:57] questa storia che speriamo avrà che che ne dica giorgio che ormai parla al passato un futuro
+[125:05] diciamo luminoso insomma diciamo ecco va bene grazie grazie di tutto grazie tanto grazie ciao

@@ -1,0 +1,297 @@
+Tails, l'outil détesté par la NSA, qui veut démocratiser l'anonymat en ligne 
+
+ En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des contenus et services adaptés à vos centres d’intérêts.
+ En savoir plus et gérer ces paramètres .
+
+ Le Monde 
+ Télérama Le Monde diplomatique Le Huffington Post Courrier international La Vie au Jardin 
+
+ S'abonner au Monde à
+ partir de 1 € 
+
+ Services Le Monde ▾ 
+
+ Boutique Le Monde 
+
+ Accueil 
+
+ Hors-séries 
+
+ Livres 
+
+ DVD 
+
+ CD 
+
+ Unes du Monde 
+
+ Loisirs & papeterie 
+
+ Partenaires Le Monde 
+
+ Annonces auto 
+
+ Annonces emploi 
+
+ Annonces immo 
+
+ Comparateur de banques 
+
+ Comparateur de crédit 
+
+ Cours d'anglais 
+
+ Prix de l'immobilier 
+
+ Shopping 
+
+ Le Monde.fr 
+
+ Rechercher : 
+
+ Suivez-nous 
+
+ Facebook
+
+ Twitter
+
+ Suivre le Monde sur Twitter 
+
+ @lemondefr Suivre @lemondefr 
+
+ Google+
+
+ Recevez nos newsletters   
+
+ Emploi 
+
+ Affichez ici la météo de votre ville 
+
+ Connexion 
+ Inscrivez-vous 
+
+ Accueil 
+
+ International 
+
+ Politique 
+
+ Société 
+
+ Éco 
+
+ Culture 
+
+ Idées 
+
+ Planète 
+
+ Sport 
+
+ Sciences 
+
+ Techno 
+
+ Campus 
+
+ Le Mag 
+
+ Édition Abonnés 
+
+ Pixels 
+
+ Vie en ligne 
+
+ Jeux vidéo 
+
+ Banc d'essai 
+
+ Cultures Web 
+
+ Tails, l'outil détesté par la NSA, qui veut démocratiser l'anonymat en ligne
+
+ Nous avons rencontré les développeurs d'un outil craint par la NSA, utilisé par Edward Snowden et de plus en plus d'internautes désireux de se protéger sur Internet.
+
+ Le Monde | 20.11.2014 à 12h16 
+ • Mis à jour le
+ 20.11.2014 à 15h29 
+ |
+
+Par Amaëlle Guiton 
+
+ Dans son documentaire « Citizenfour », qui retrace sa rencontre avec Edward Snowden, Laura Poitras rappelle qu'Edward Snowden a utilisé un outil particulier afin de communiquer et travailler avec des journalistes. Son nom : Tails , pour « The Amnesic Incognito Live System », le « système incognito et amnésique ».
+
+ A la différence de TrueCrypt, le logiciel de chiffrement de données qui s'est sabordé en juin , Tails n'est pas un projet anonyme. En revanche, ses développeurs utilisent des pseudonymes – plus, disent-ils, par choix individuel que par nécessité de protection, même si la question peut désormais se poser .
+
+ Lire : l'intégralité de l'entretien avec les développeurs de Tails 
+
+ Un système « amnésique »
+
+ L'auteure de cet article, Amaelle Guiton, propose des formations à l'utilisation de Tails et a réalisé une conférence lors de leur « hackfest » parisien.
+
+ Techniquement, Tails est un système d'exploitation installé sur un support amovible – DVD, clé USB ou carte SD –, à partir duquel on fait démarrer un ordinateur. « Amnésique », il ne laisse aucune trace sur l'appareil utilisé et ne conserve aucune donnée, sauf demande explicite de l'utilisateur. « Incognito », il utilise le réseau d'anonymisation TOR pour se connecter à Internet, embarque des outils réputés de chiffrement des communications et des données, et permet même de camoufler l'adresse MAC – l'identifiant physique – de l'ordinateur. Les choix de configuration par défaut sont conçus pour limiter au maximum les risques.
+
+ Taillé pour l'anonymat et la confidentialité en ligne, Tails l'est aussi pour l'urgence – éjecter ou arracher le support amovible entraîne l'extinction immédiate du système – et pour la discrétion : l'utilisateur peut activer , au démarrage, un camouflage Windows , plus passe-partout que l'environnement graphique par défaut. 
+
+ On y trouve aussi une suite bureautique, ainsi que des logiciels de retouche photo et d'édition audio et vidéo. Basé sur Linux, Tails peut être librement téléchargé, copié et audité : son code source est public, de même que la liste de discussion des développeurs. Un préalable à la confiance des utilisateurs, mais pas seulement :
+
+ « Notre background technique, c'est la culture du logiciel libre . C'est un présupposé de travailler ouvertement, de mettre le code à disposition, d' avoir des processus de décision transparents, publics, des listes de discussion ouvertes. Le projet ne pourrait pas tenir s'il ne se basait que sur une petite équipe technique de codeurs. » 
+ Un outil « extrémiste » selon la NSA
+
+ Avant même que Laura Poitras, Glenn Greenwald et Barton Gellman, les journalistes contactés par Edward Snowden, ne révèlent au printemps avoir utilisé Tails pour travailler sur les documents transmis par le lanceur d'alerte, l'outil faisait déjà partie de la panoplie recommandée par Tactical Tech , une ONG qui forme les militants des droits de l'homme à l'usage des technologies numériques, par Reporters sans frontières ou encore par la Freedom of the Press Foundation .
+
+ La NSA, de son côté, le définit comme « un dispositif de sécurité des communications préconisé par des extrémistes, sur des forums extrémistes » , comme en atteste une enquête publiée début juillet sur le site de Das Erste . Elle a révélé que les internautes effectuant des recherches sur le projet ou visitant son site Web sont spécifiquement surveillés, de même que les utilisateurs du réseau TOR ou les lecteurs du Linux Journal , un magazine consacré au logiciel libre.
+
+ D'après des documents publiés par le Guardian en octobre 2013, Tails complique singulièrement l'espionnage informatique à distance. A l'heure de la surveillance généralisée, l'outil se présente comme un véritable couteau suisse de la furtivité numérique.
+
+ Grain de sable dans les rouages de la surveillance
+
+ Lorsque Intrigeri (un pseudonyme), un développeur français, initie en 2009 le projet Amnesia, qui deviendra Tails, sa motivation est précisément de construire un système qui ne soit pas réservé aux seuls « techniciens » : 
+
+ « Les outils qui existaient à l'époque étaient compliqués à utiliser . Incognito, par exemple, n'avait pas d'interface graphique pour accéder à des conteneurs chiffrés et permettre à l'utilisateur d'y sauvegarder des données. » 
+ Incognito , un système d'exploitation d'origine américaine abandonné en 2010, est le précurseur de Tails, qui s'est aussi inspiré de l'Allemand Privatix . Aujourd'hui, l'internaute peut également se tourner vers Liberté Linux (en pause depuis 2012) ou Whonix . Tails est le seul à avoir réussi, dans une certaine mesure, à dépasser les cercles les plus techniques. L'équilibre est complexe à tenir , expliquent ses développeurs :
+
+ « On essaie toujours d' aller au plus près de la sécurité et de la confidentialité. Mais il y a toujours un équilibre à trouver entre la sécurité offerte par un outil, les obstacles éventuels pour l'utilisateur, et notre capacité à maintenir l'outil sur le long terme. Il faut en permanence choisir où on place la barre. Si on propose trop d'options, par exemple, il est plus difficile de faire le bon choix, même si, techniquement, ce serait plus affiné. » 
+ 11 000 utilisateurs quotidiens
+
+ Toutes les sept secondes, quelque part dans le monde, quelqu'un démarre Tails
+
+ Lors des déclarations des journalistes, le nombre de téléchargements a connu un pic. Le jour de la parution d' un article dans Wired , le site de Tails a même eu du mal à tenir la charge, inédite, de visiteurs.
+
+ Toutes les sept secondes, quelque part dans le monde, quelqu'un démarre Tails et se connecte au réseau : « Autour de 11 000 par jour en ce moment, et ça double tous les neuf mois, depuis deux ou trois ans » , disent ses concepteurs. Une goutte d'eau au regard du nombre d'internautes, un résultat significatif pour un outil destiné à être utilisé dans les contextes les plus critiques, et développé par une équipe resserrée. Cette dernière s'est étoffée et internationalisée – on travaille sur Tails en Allemagne , aux Pays-Bas , aux Etats-Unis –, mais ne compte qu'une petite vingtaine de contributeurs et contributrices très réguliers, bénévoles pour la plupart.
+
+ L'équipe maintient tout de même le rythme, soutenu, d'une nouvelle version du système toutes les six semaines :
+
+ « Des distributions “live” de ce type-là, il y en a beaucoup qui ont duré deux ans. Que le projet tienne sur la longueur, c'est ça qui le rend plus crédible dans la communauté. » 
+ Mais le plus notable, c'est l'engouement pour le projet dans les sphères « hacktivistes ». Bruce Schneier , le cryptographe américain qui a expertisé une partie des documents Snowden pour le Guardian , le recommande « sans hésiter » à qui serait « paranoïaque au point de ne plus avoir confiance dans son ordinateur »  : « Pour un système d'exploitation “sans mémoire”, c'est vraiment très bon. » Lui-même l'utilise « de manière limitée » , précise-t-il.
+
+ Tails comme outil pour les lanceurs d'alerte
+
+ Avant même le début des révélations Snowden, Tails avait été intégré à la conception de deux plateformes de transmission sécurisée de documents, destinées aux lanceurs d'alerte potentiels : SecureDrop , un projet américain initié par Aaron Swartz et adopté successivement par le New Yorker , ProPublica ou encore The Intercept, le média en ligne lancé par Glenn Greenwald et Pierre Omidyar ; et GlobaLeaks, une initiative italienne qui a donné naissance aussi bien à WildLeaks , un outil de dénonciation des atteintes à la faune sauvage, qu'à PubLeaks , une plateforme mutualisée rassemblant une quarantaine de médias néerlandais.
+
+ Lire : Notre article sur Hermès, le collectif à l'origine de GlobaLeaks 
+
+ Un outil devenu référence
+
+ Si une pression pèse aujourd'hui sur Tails, c'est sans doute moins celle de la NSA que celle de la responsabilité, à mesure que l'outil devient une référence pour les cyberdissidents, les ONG et le journalisme d'investigation.
+
+ Le système a certes été pensé pour abaisser le coût d'entrée technique dans l'Internet anonyme et sécurisé, mais n'est pas encore à mettre entre toutes les mains. C'est ce que rappelle Fabio Pietrosanti, l'un des développeurs de GlobaLeaks :
+
+ « Le retour que nous avons des utilisateurs de GlobaLeaks, c'est que Tails n'est pas si simple à utiliser . Seules les structures les plus importantes, ou les mieux organisées, sont à même de s'en servir sur la durée, mais les autres n'ont pas forcément ni le temps ni les ressources internes pour mettre en place des procédures de haute sécurité. » 
+ « Augmenter le nombre d'utilisateurs » , comme le souhaite M. Pietrosanti, est pourtant une préoccupation constante. Les temps ont changé, expliquent les développeurs, et Tails est à leurs yeux « une réponse politique à un problème de société »  :
+
+ « La perception de la menace a évolué : on n'en est plus à essayer de se protéger soi, on est dans une épidémie de surveillance généralisée. On se rend compte que ceux qui gagnent de l'argent ou du pouvoir en espionnant les populations le font aussi en étudiant les métadonnées : qui communique avec qui, à quel moment. On essaie de proposer une solution à ça, en rendant l'outil accessible au plus de monde possible. » 
+ Un outil encore difficile d'accès
+
+ Or, à ce stade, Tails se mérite encore. La procédure d'installation ou l'écran d'accueil au lancement du système sont « difficilement compréhensibles pour un nouvel utilisateur » , reconnaît l'équipe et la documentation, touffue, n'est pas toujours très accessible. Parmi les améliorations envisagées : porter le logiciel d'installation vers d'autres systèmes d'exploitation, automatiser la vérification de l'intégrité de Tails, ou encore créer un assistant Web pour guider les utilisateurs.
+
+ Pas si facile à utiliser
+
+ L'ergonomie est, disent-ils, l'un des chantiers des mois à venir . Signe de la visibilité acquise par le projet, c'est Numa , l'« incubateur numérique » francilien, qui prête main forte au noyau de codeurs. Pour Claudio Vandi et Maël Inizan, deux des chevilles ouvrières du lieu, c'est l'occasion d' aider un « projet vraiment utile » , qui a « un impact sur la vie des gens , sur leur travail » .
+
+ D'autres projets moins visibles sont en cours : rendre le processus de sortie d'une nouvelle version moins chronophage et plus souple, améliorer l'isolation des différentes applications à l'intérieur du système et limiter au maximum l'effet d'éventuelles vulnérabilités.
+
+ De faibles moyens financiers
+
+ « Un budget microscopique par rapport à l'ampleur du projet »
+
+ Le tout avec des ressources « dérisoires » , comme le notait en avril le pure-player américain Salon . Jusqu'en 2012, le budget opérationnel de Tails n'a jamais dépassé 8 500 euros. En 2013, année faste , il est monté autour de 42 000 euros, grâce aux subventions allouées par le TOR Project et par le National Democratic Institute , une ONG dirigée par l'ancienne secrétaire d'Etat des Etats-Unis Madeleine Albright. A titre d'exemple, les dépenses de fonctionnement du TOR Project pour la même année s'élèvent à 2,8 millions de dollars (plus de deux millions d'euros) :
+
+ « Il y a toujours eu un petit soutien du TOR Project , précise l'équipe, un peu de dons en bitcoins… Cette année, nous avons gagné un prix . Mais ça reste un budget microscopique par rapport à l'ampleur du projet, et le travail payé est une toute petite partie du travail mis dans le projet. Ça reste essentiellement bénévole. » 
+ Le recours au crowdfunding a été envisagé, mais pas pour tout de suite :
+
+ « On a peur que ce soit beaucoup de travail de mener une campagne à bien. On se garde ça sous le coude pour la lancer au moment opportun, soit parce qu'on en aura besoin, soit parce qu'on aura quelque chose de nouveau à proposer aux utilisateurs… » 
+ Ils disent aussi que ne pas trop dépendre des financements extérieurs est la meilleure manière d' assurer la pérennité du projet. Ils glissent en souriant que Tails a besoin de rédacteurs ou de traducteurs, pas seulement de codeurs. Que toutes les bonnes volontés sont les bienvenues. Ils ont travaillé à rendre le processus de contribution plus simple, et « ça commence à payer » .
+
+ Amaëlle Guiton 
+
+ Surveillance des communications 
+
+ Un débat interne a agité la NSA avant les fuites de Snowden 
+
+ Pourquoi le Sénat américain rejette-t-il la réforme de la NSA ? 
+
+ Vidéo 
+
+ Le Sénat américain refuse une timide réforme de la NSA 
+
+ Édition abonnés Contenu exclusif 
+
+ Hacienda, nouvel espion du Net 
+
+ « Edward Snowden a droit d'asile en France » 
+
+ Comment échapper à l’œil de la NSA ? 
+
+ Abonnez-vous à partir de 1 € 
+
+ Piratage ▪ Hadopi ▪ Icann ▪ The surveillance files ▪ Libertés numériques ▪ Internet Actu ▪ Yahoo! ▪ Tokyo Game Show ▪ Censure du Net ▪ Banc d'essai 
+
+ Le monde abonnements 
+ Profitez du journal où et quand vous voulez. Abonnements papier, offres 100 % numériques sur Web et tablette.
+
+ S'abonner au Monde à partir de 1 € 
+
+ Déjà abonné au
+journal Le Monde ? 
+
+ Activez votre accès à l'Édition abonnés du Monde.fr 
+
+ Gérez votre abonnement 
+
+ Les rubriques du Monde.fr 
+ International ▪ Politique ▪ Société ▪ Économie ▪ Culture ▪ Sport ▪ Techno ▪ Style ▪ Vous ▪ Idées ▪ Planète ▪ Éducation ▪ Disparitions ▪ Santé ▪ Monde Académie 
+
+ Les services du Monde 
+ La boutique du Monde ▪ Le Monde dans les hôtels ▪ Cours d'anglais ▪ Annonces auto ▪ Annonces immo ▪ Shopping ▪ Comparateur crédit ▪ Devis travaux ▪ Conjugaison ▪ Programme télé ▪ Jeux ▪ Météo ▪ Trafic ▪ Prix de l'immobilier 
+
+ Sur le web 
+
+ › Théâtres à Paris 
+
+ › Festivals d'été 
+
+ › Programme chaine tv 
+
+ › Actu cinéma 
+
+ › Cinéma Pathé 
+
+ › Programme TV de France 3 en replay 
+
+ › Au cinéma cette semaine 
+
+ › Formation culture 
+
+ › Spectacles à Paris 
+
+ › Programme TV de TF1 en replay 
+
+ Les sites du Groupe 
+ Télérama.fr ▪ Talents.fr ▪ Le Huffington Post ▪ CourrierInternational.com ▪ Monde-Diplomatique.fr ▪ Les Rencontres professionnelles Le Monde ▪ La Société des lecteurs du Monde ▪ Le Prix Le Monde de la recherche 
+
+ Suivez-nous 
+ Facebook Twitter Google+ Mobile RSS 
+
+ Recevez nos newsletters   
+
+ Index actualité : A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+
+ ©
+ Le Monde.fr |
+ Fréquentation certifiée par l'OJD |
+ CGV |
+ Données personnelles |
+ Mentions légales |
+ Qui sommes-nous ? |
+ Charte groupe |
+ Publicité |
+ Index |
+ Aide (FAQ) :
+ web - abo - journal - mobile 
+
+ Journal d'information en ligne, Le Monde.fr offre à ses visiteurs un panorama complet de
+ l'actualité. Découvrez chaque jour toute l'info en direct (de la politique à l'économie en passant par le sport et la
+ météo) sur Le Monde.fr, le site de news leader de la presse française en ligne.
+
+ En Continu

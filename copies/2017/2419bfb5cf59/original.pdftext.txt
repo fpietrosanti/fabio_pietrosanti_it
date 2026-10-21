@@ -1,0 +1,562 @@
+INTERNET POLICY REVIEW                                Volume 6 | Issue 1
+
+Journal on internet regulation
+
+Australian internet policy
+
+Angela Daly
+
+Faculty of Law, Queensland University of Technology, Australia, angela.daly@qut.edu.au
+
+Julian Thomas
+
+Social Change Research Platform, RMIT University, Melbourne, Australia,
+julian.thomas@rmit.edu.au
+
+Published on 14 Mar 2017 | DOI: 10.14763/2017.1.457
+
+Abstract: This special issue focussing on internet policy in Australia provides a snapshot of
+developments on various topics (access, privacy, censorship) as a means of understanding better
+the state of play in Australia, and also how this compares to internet policy in other parts of the
+world, especially Europe and North America. Given changing geopolitics, the influence of
+internet policy in the rest of the Asia Pacific through vehicles such as the Regional
+Comprehensive Economic Partnership (RCEP) may become increasingly important in Australia
+in the coming years. This leaves Australia, and its internet policy, at a crossroads, which may
+reflect broader dynamics in internet policy internationally, and makes this an interesting time in
+which to explore what is happening in this particular country.
+
+Keywords: Australia, Internet policy, Privacy
+
+   Article information
+
+     Received: 05 Mar 2017 Reviewed: 09 Mar 2017 Published: 14 Mar 2017
+     Licence: Creative Commons Attribution 3.0 Germany
+     Competing interests: The author has declared that no competing interests exist that have influenced
+     the text.
+
+     URL: http://policyreview.info/articles/analysis/australian-internet-policy
+
+     Citation: Daly, A. & Thomas, J. (2017). Australian internet policy. Internet Policy Review, 6(1).
+     DOI: 10.14763/2017.1.457
+
+PAPERS IN THIS SPECIAL ISSUE
+
+Editorial
+Angela Daly, Queensland University of Technology, Australia
+Julian Thomas, RMIT University, Australia
+
+The passage of Australia's data retention regime: national security, human rights,
+and media scrutiny
+Nicolas Suzor, Queensland University of Technology, Australia
+
+Internet Policy Review | http://policyreview.info  1  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+Kylie Pappalardo, Queensland University of Technology, Australia
+Natalie McIntosh, Queensland University of Technology, Australia
+
+Computer network operations and `rule-with-law' in Australia
+Adam Molnar, Deakin University, Australia
+Christopher Parsons, Citizen Lab, Canada
+Erik Zouave, KU Leuven, Belgium
+
+Internet accessibility and disability policy: lessons for digital inclusion and
+equality from Australia
+Gerard Goggin, University of Sydney, Australia
+Scott Hollier, Media Access Australia, Australia
+Wayne Hawkins, Australian Communications Consumer Action Network (ACCAN), Australia
+
+Internet policy and Australia's Northern Territory Intervention
+Ellie Rennie, Swinburne University of Technology, Australia
+Jake Goldenfein, Swinburne University of Technology, Australia
+Julian Thomas, RMIT University, Australia
+
+Towards responsive regulation of the Internet of Things: Australian perspectives
+Megan Richardson, The University of Melbourne, Australia
+Rachelle Bosua, The University of Melbourne, Australia
+Karin Clark, The University of Melbourne, Australia
+Jeb Webb, The University of Melbourne, Australia
+Atif Ahmad, The University of Melbourne, Australia
+Sean Maynard, The University of Melbourne, Australia
+
+EDITORIAL
+
+INTRODUCTION
+
+We are delighted to introduce this special edition of the Internet Policy Review on Australian
+Internet Policy. This is the first special edition to focus explicitly on a country or region outside
+of the journal's Europe focus -- although there have been previous special issues and individual
+articles which have in practice ventured beyond the continent's confines. We also believe that
+this is the first time that a special edition of an international journal has addressed Australian
+internet policy in a way which is relevant to internal Australian, as well as transnational,
+discussions of these matters. Accordingly, it is our hope that this special issue will be useful both
+for domestic audiences considering the current state of Australian internet policy and the scope
+for possible future directions and reforms, and also as a point of comparison for international
+audiences, in order to understand how this far-flung country is addressing issues familiar to all
+countries, and issues related to its specific national characteristics.
+
+The internet took its first breath in Australia in 1989, when a connection was established
+between a computer at the University of Melbourne and the University of Hawaii, using a 56
+Kbps satellite link (Clarke, 2004; Given & Goggin, 2012). From those origins in academic
+communications, the internet has rapidly become a basic element in everyday social and
+economic life. Australians are enthusiastic and intensive users of digital communications
+technologies. The Pew Research Center's 2016 global survey data reports that, after South
+
+Internet Policy Review | http://policyreview.info  2  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+Korea, Australia now has the second highest rate of internet uptake in the world, with 93% of
+the adult population using the net, and the second highest rate of smartphone ownership, at
+77% of the adult population (Pew, 2016). Australians were also avid early online shoppers; yet
+Australia was also described in 2014 -- by the nation's own Attorney-General -- as "the worst
+offender of any country in the world when it comes to piracy" (Hopewell, 2014).
+
+Australia can also claim a distinctive and significant place in the development of internet
+infrastructures. Today's ubiquitous Wi-Fi networks rely heavily on Australian innovations in
+wireless networks, derived from public sector research in radio astronomy in the 1990s (CSIRO,
+2016). In relation to internet access networks, Australia's publicly-funded National Broadband
+Network (NBN) has a striking geographical reach and policy ambition in comparison with
+international models. The NBN, now due for completion in 2020, aims to provide fast internet
+even to the most remote parts of the continent, and to foster innovation and competition in the
+sector. In its early phase of design and planning, the NBN was perceived to be visionary: a bold
+combination of communications policy and micro-economic reform. While it has without
+question already substantially improved access and infrastructure for many Australians, the
+NBN's convoluted path through political contention and delay is likely to provide many lessons
+for future scholars and practitioners of internet policy. Even so, the NBN remains one key
+example of the occasional propensity in Australia to approach communications (and other
+policy domains) not only through incremental, pragmatic responses to immediate problems, but
+also through far-reaching, very ambitious, `nation building' schemes.
+
+Due to particular, geographic, political and economic issues, Australian communications policy,
+and then internet policy, have been shaped by certain country-specific controversies. Policy has
+been shaped by the distinctive challenges of geography -- a large country, with a small
+population, most of which is highly urbanised -- and political economy, where the federal
+structure of national government demands a high level of subsidy for services to Australia's
+expansive rural and remote areas. Despite the high levels of use, digital exclusion remains a
+highly visible problem for governments, especially in Australia's regions. The Australian
+government has now moved to an ambitious `digital first' strategy where service development
+and delivery is focussed on online platforms. But a substantial number of the very citizens who
+depend most on government services are not currently able to access them. A recent study
+reported wide variations in the degree of access and in digital skills and capabilities, especially
+between Australia's capital cities and some regional areas. Further, measures of the affordability
+of internet access suggested that this declined in the 2014-2016 period, as Australians increased
+the proportion of their incomes applied to paying for this service (Thomas et al., 2016).
+However, perhaps as an unintended consequence of the long focus on the NBN, plans to address
+digital inclusion issues are not yet as advanced as in other jurisdictions. Australia at this stage
+has no equivalent to the United Kingdom's 2014 digital inclusion strategy.
+
+Access and infrastructure have been by no means the only areas of debate or scholarly attention
+and concern. Recent developments have highlighted weak privacy protections, and ongoing
+battles between large copyright holders and internet service providers over filesharing are not
+yet resolved. Regional and global geopolitical trends are now also influencing Australian
+internet policy, as trade in services and international data flows become increasingly
+controversial elements in global politics.
+
+Internet Policy Review | http://policyreview.info  3  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+Australia in a global context: tied to the West,
+turning to Asia
+
+As an economically advanced Western-style anglophone liberal democracy, Australia's law and
+politics have much in common with its counterparts in North America and Europe. Yet its
+geographical position in the Asia Pacific region, and 21st century `pivot' to Asia (Australian
+government, 2012) place the country at a crossroads culturally, legally and politically. This dual
+nature of Australia can also be seen in internet policy developments, some of which will resonate
+with other Global North locations, while other developments may be more in keeping with its
+geographical neighbourhood.
+
+One large point of divergence from the European context is human rights protection in
+Australia. In the absence of a comprehensive set of rights in either the Australian Constitution
+or legislation, Australia occupies a unique position as the only Western liberal democracy not to
+have the full suite of domestically-enforceable human rights, relying instead upon a patchwork
+of legislation, common law, and constitutional interpretation. The outcomes this produces can
+be seen in a number of internet policy areas, prominently privacy and free expression. While
+Australia participated in the shadowy Five Eyes surveillance partnership, there was no ability to
+challenge its practices on the basis of infringement of citizens' privacy rights, in sharp contrast
+to the situation in the European Union where the Snowden revelations triggered outcomes such
+as the invalidation of the Data Retention Directive (Digital Rights Ireland v Minister for
+Communications, 2014) and the EU-US Safe Harbor agreement (Schrems v Data Protection
+Commissioner). The lack of strong, constitutional privacy protections may prove to be an eye-
+opener for British readers faced with a Brexit situation which may involve the disapplication of
+EU law (and the Charter of Fundamental Rights) and an exit from the European Convention on
+Human Rights.
+
+In Australia, the parliamentary process and common law rights have not proved sufficient so far
+to protect Australians' privacy rights. Proposals for strengthening privacy have been developed
+and discussed at length, but have not yet been translated into enforceable laws and norms (e.g.
+Australian Law Reform Commission, 2014). The coming into force of the EU's General Data
+Protection Regulation (GDPR) has sparked some debate in Australia about compliance with the
+extra-territorial reach of this law, since the GDPR applies to data processors and controllers
+outside of the EU which process the data of EU citizens (Shaw, 2015). Whether the GDPR, or
+other international provisions, can produce spillovers of higher privacy protection for
+Australians, remains to be seen.
+
+The Australian experience with regional and bilateral trade agreements and their effect on
+internet matters may also prove instructive in the context of Brexit and other developments
+elsewhere, given the changes that implementation of the Australia-United States Free Trade
+Agreement (AUSFTA) required in Australian copyright law. Australia's Productivity
+Commission -- a highly respected, independent economic policy advisory body -- consider these
+to have had a detrimental effect in Australia (see Australian Government Productivity
+Commission, 2016). But in other respects the United States represents a policy road not chosen:
+for instance, in the context of debate about whether a broad `fair use' exception to copyright
+should be introduced into Australian law. Despite many years of consideration including
+Australian Law Reform Commission and Productivity Commission recommendations that fair
+use become part of Australian law, this has not happened, and in fact faces strong resistance
+from certain rightsholders groups (Malcolm, 2017; Aufderheide & Hunter Davis, 2017).
+
+Internet Policy Review | http://policyreview.info  4  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+Australia has been the site of many digital copyright and piracy battles over recent years. This
+may be the result of its reputation as an unusually strong market for pirated media. The
+respected peer-to-peer news site TorrentFreak has often placed Australia at or near the top of
+its lists of torrenting countries for popular series such as Game of Thrones. Australia was the
+first jurisdiction internationally in which large copyright holders sued an internet service
+provider (ISP) for alleged copyright infringements carried out by its users, in the Roadshow v
+iiNet saga, but the end result was a decision of the Australian High Court which found the ISP,
+iiNet, was not liable for its customers' conduct in these circumstances (Lindsay, 2012).
+Subsequent to this decision, the last five years has seen discussions between ISPs and
+rightsholders, and some government policy interventions, to address piracy concerns through
+measures including a graduated response scheme, but no agreement was reached on the
+allocation of costs and the scheme was recently abandoned (Francis, 2016). Yet on copyright
+infringement, Australia has also taken some negative cues from the United Kingdom, such as
+the site-blocking legislation introduced in 2015, which, like the UK scenario, has had limited
+effectiveness in addressing the downloading of copyright-infringing material (Dootson,
+Pappalardo, & Suzor, 2016).
+
+The international climate concerning trade has changed significantly since we began work on
+this special issue in March 2016. Issues related to intellectual property were prominent in public
+debate over the proposed, and highly controversial, Trans-Pacific Partnership (TPP) (Rimmer,
+2017). The TPP's Intellectual Property and E-Commerce chapters would likely have had a
+significant effect on Australian internet policy (Daly, 2013). However, the TPP now appears
+doomed, with the new US president Donald J. Trump withdrawing his country from the treaty.
+But this does not necessarily spell the death knell for multilateral trade agreements more
+generally. Australia is still involved in negotiations for the Trade in Services Agreement (TiSA)
+which also concerns internet policy matters (Erickson & Leggin, 2016). In the power vacuum left
+by the US, China has stepped into the Asia Pacific region by spearheading the nascent Regional
+Comprehensive Economic Partnership (RCEP) agreement negotiations (Jaipragas, 2017).
+Whether these negotiations actually result in finalised agreements is unclear, but the
+international trade space in the coming years may end up taking on a more European or Chinese
+character, with significant implications for internet policy in other countries in the region,
+including Australia.
+
+There are some internet policy issues which have been prominent in the rest of the world but
+have received scant attention so far in Australia. One such matter is network neutrality. This has
+been a major topic for discussion in many parts of the world, including the US, the European
+Union, Brazil and India, which have all introduced regulation to address concerns about
+internet service providers engaging in discriminatory traffic practices (Marsden, 2017). Yet in
+Australia there has been very limited discussion on the matter (Daly, 2016a). The reason for this
+is likely to be Australia's distinctive market structure for internet service. The country has had
+historically low rates of uptake for cable or satellite television networks, especially in
+comparison with North America and Europe, and it is this industry sector which has sparked
+significant concern about neutrality elsewhere. Another factor is the increasingly significant role
+of the NBN as a publicly-owned, nation-wide, near-monopoly wholesaler of internet access. The
+intent here was that Telstra, Australia's dominant telecommunications firm, should no longer be
+conflicted as a major wholesaler and retailer of access. But neither of these points mean that
+neutrality will not become an important problem in the future, with the same dynamics of media
+convergence operating in Australian markets as elsewhere. In fact, one feature of the Australian
+market -- the ubiquity of data caps for fixed as well as mobile internet access -- may make the
+problem of neutrality more likely to arise, as streaming services begin to seek more concessional
+
+Internet Policy Review | http://policyreview.info  5  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+or `uncapped' arrangements with particular ISPs.
+
+Another matter is digital market dominance, or the emergence of monopolistic transnational
+internet companies and their economic and socio-political effects on internet users. Policy and
+regulatory attention has been paid to this issue in various parts of the world, particularly the EU
+(Daly, 2016b), but to date no action has been taken in Australia, notwithstanding (for instance)
+Google's 90% market share of all searches in Australia (Scardamaglia & Daly, 2016). Australia
+has, however, moved comparatively quickly in legislating to capture lost taxation revenue from
+transnational diverted profits, a problem particularly associated with internet businesses (Ting
+et al., 2016). These provisions are popularly known as the "Google Tax", although their impact
+on Google is not yet clear.
+
+Looking to the future, an array of technological developments including the Internet of Things,
+artificial intelligence, robotics, cryptocurrency, and automation are all currently emerging as
+areas likely to further extend current discussions of privacy, security, intellectual property and
+competition in Australia.
+
+IN THIS ISSUE
+
+We are delighted to have five contributions on Australian internet policy issues for this special
+edition of the Internet Policy Review. The authors come from a variety of disciplines, including
+media and communications, cultural studies, law, criminology and, computing and information
+systems. We would like to thank all authors for their contributions, as well as the reviewers and
+Internet Policy Review editorial staff, without whom this special edition would not be possible.
+
+Some of these papers, and the idea to have a journal special edition on Australian internet
+policy, emerged from a one-day conference hosted by Swinburne University of Technology in
+Melbourne on 5 October 2015, which was generously funded by the .au Domain Administration
+(auDA) as an academic pre-event to that year's Australian Internet Governance Forum. We
+thank everyone at Swinburne (where we were both then based) and auDA for their support for
+that event, as well as for this special edition.
+
+The papers in this special edition cover a range of areas of internet policy in Australia. One area
+which is under-represented is the relationship between the internet and intellectual property.
+During and immediately after the iiNet case discussed above, digital copyright and piracy were
+high priorities in Australian internet policy discussions. It seems that with the Snowden
+revelations of Australian participation in mass surveillance programmes, and subsequent
+introduction of mandatory data retention legislation, privacy and data protection have
+supplanted digital copyright as the current `hot topic' in Australian internet policy, as attested by
+this special edition's articles. However, digital intellectual property issues have not gone away,
+and copyright and related concerns are likely to figure once more in future surveys of the topic.
+
+Indeed, specifically on the topic of data retention, Suzor, Pappalardo, and McIntosh's
+contribution to this special edition analyses the media debate accompanying the introduction of
+data retention legislation in Australia in 2015. The legislation remains very problematic from a
+human rights perspective, especially its impact upon individual privacy. As the authors found,
+despite these public interest concerns featuring in media discussions of the legislation, they
+were largely unaddressed in the final text of the law. This represents a limitation on the ability of
+civil society to influence Australian law-making in a problematic context where there is no
+
+Internet Policy Review | http://policyreview.info  6  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+constitutional protection for privacy rights. This is an important article on a topic which
+continues to attract public debate in Australia, including, at the time of writing, around
+Australian government proposals to extend the use of retained data to civil proceedings,
+involving further privacy infringements and scope-creep (Cooper, 2017).
+
+Issues of privacy are also explored in Molnar, Parsons, and Zouave's article on computer
+network operations (CNOs) in Australia. CNOs constitute government intrusion or interference
+with networked ICT infrastructures for the purposes of law enforcement and security
+intelligence. Several pieces of legislation authorise Australian government agencies to use CNOs
+for security and law enforcement purposes. However the authors identify the lack of safeguards
+and effective oversight of law enforcement and security activities in these laws, compounded by
+the secrecy accompanying most CNO measures in Australia, resulting in serious risks to
+democratic freedoms and also procedural justice. Again, the authors of this piece also point to
+the lack of comprehensive and enforceable human rights in Australia, observing how this is
+placing Australians - when faced with CNOs - in a weaker position compared to their
+counterparts in other Five Eyes countries. With the recent Wikileaks revelations about CNO use
+by the US CIA and its partners including the Australian intelligence agencies (Hern, 2017) on
+the one hand, and new plans to regulate the use of CNOs in Italy (Pietrosanti and Aterno, 2017)
+government hacking is a timely topic and this is an important contribution to its academic
+understanding in Australia and beyond.
+
+Other contributions in this special edition explore the relationship between Australian internet
+policy, and other policy areas. Goggin, Hollier, and Hawkins examine the interaction of
+disability policy and internet access in Australia. Digital inclusion, especially for people with
+disabilities, has been a long-standing issue for internet policy internationally. Australia has had
+a relatively good track record historically in applying anti-discrimination law to web
+accessibility, but over the last fifteen years, progress in this area has been slower than expected.
+Yet, Australia's ambitious `nation building projects' in the form of the National Broadband
+Network (NBN) and National Disability Insurance Scheme (NDIS) may go some way to
+remedying this lack of progress, and may also provide models that can be used in other
+countries to achieve these objectives.
+
+The interaction of internet policy and Indigenous rights is explored in Rennie, Goldenfein,
+and Thomas' article, which focuses on the surveillance of publicly-funded computers and
+internet use in remote Indigenous communities during the Australian government's problematic
+and controversial Northern Territory `Intervention', a broad cluster of legal and policy changes
+which from 2007 onwards had a major impact on social welfare, land tenure, law enforcement,
+and many other aspects of the Indigenous experience in more than 70 affected communities in
+outback Australia. As part of the intervention, between 2007 and 2012, providers of internet and
+computer access facilities were required to document the use of their computers, keep detailed
+records of computer users and instal filters on computers and networks - a form of official ICT
+surveillance, designed to target a particular group, Indigenous people. The authors argue that it
+was the digital divide between Indigenous and other Australians which made this form of
+targeted surveillance possible, and that in fact the policy exacerbated this divide by imposing
+costly requirements on those attempting to provide some level of internet access in remote
+communities. This article is an important contribution to the little-researched topic of
+Indigenous rights and technology in Australia, and demonstrates the limits of `liberation
+technology' in contexts of intersectional disadvantage.
+
+Looking to the future, the article from Richardson, Bosua, Clark, Webb, Ahmad, and
+
+Internet Policy Review | http://policyreview.info  7  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+Maynard explores the nascent Australian Internet of Things community and their experiences
+and concerns about privacy and data protection. The authors found that privacy continues to be
+valued by IoT users and they also want greater control and transparency regarding their IoT
+data, but their awareness of the current legal framework protecting personal information was
+low. In consequence, the authors suggest a `responsive regulation' model for IoT governance
+incorporating privacy by design principles in order to respond better to the wishes of IoT users
+and developers, while not discounting that larger scale law reform in Australia may also be
+needed in the future to address concerns around IoT-enabled ubiquitous surveillance. This
+article, thus, demonstrates that privacy remains an important value in the digital age, despite a
+lack of constitutional protection in Australia.
+
+CONCLUSION
+
+The articles here cover a range of topics in Australian internet policy and, we hope, provide the
+reader with an introduction to developments in this country. This special issue, however, cannot
+provide a comprehensive picture. As we have noted, digital intellectual property issues are
+important, but are not explored here. Intersections with migration and refugee policy, and
+Australia's international relations are promising areas for investigation which are not covered in
+this issue. Internet governance, and Australia's role in international internet governance
+processes, as well as the administration of domain names, are also topics which merit further
+attention. To some degree these gaps reflect the wider state of the field. We do not yet have a
+comprehensive account of how the Australian government and other institutions have
+approached the regulation of the internet and understood its emergence as field of law and
+policy. In our view, Australia is still in the process of reaching robust policy positions on core
+internet policy problems such as intellectual property, privacy and surveillance. Australian
+internet policy researchers also have some way to go in documenting and assessing these
+developments.
+
+In the articles collected here, privacy emerges as the most prominent theme. This is not because
+of any official current programme of law reform in this area; rather, it reflects the immediate
+needs of researchers responding to recent and current surveillance activities of diverse kinds,
+and a host of new technological developments. In Australia as elsewhere, privacy and security
+are likely to remain key concerns for work in the internet policy area, given ongoing debates
+around national security and data retention, the increasing use of drones and other automated
+vehicles, the growing importance of algorithmic media, and current developments in machine
+learning.
+
+As the internet is already deeply embedded in everyday life and work, it is not surprising that
+internet policy now interacts with a plethora of other policy areas: in this special issue, the
+articles cover intersections with disability and Indigenous policy. Our attention to these points
+of connection is not only the result of the ubiquitous, essential character of internet service
+across diverse fields: it follows from Australia's deployment of far-reaching, major national
+policy programmes in these areas. In the case of the National Disability Insurance Scheme and
+the National Broadband Network, these ambitious developments have generated strong support
+across Australia's social and economic boundaries. In the case of the Northern Territory
+Intervention, promoted by government as a unifying, national response to a crisis in welfare, the
+intent and implementation of the policy remains controversial. We would suggest that all these
+initiatives point to a curiously double-edged quality in Australian public policy, which has
+strongly shaped the development of the internet in Australia. While much of what we see in
+
+Internet Policy Review | http://policyreview.info  8  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+Australian internet policy reveals a cautious, incremental and highly pragmatic approach, there
+remains a disposition towards far-reaching, highly ambitious, `nation building' projects -- and
+the results and ramifications of these are often surprising.
+
+Internet Policy Review | http://policyreview.info  9  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+REFERENCES
+
+Aufderheide, P. & Hunter Davis, D. (2017). Contributors and Arguments in Australian Policy
+Debates on Fair Use and Copyright: The Missing Discussion of the Creative Process.
+International Journal of Communication, 11, 522-545.
+
+Australian Government. (2012). Australia in the Asian Century. White Paper. Retrieved
+from
+http://asialink.unimelb.edu.au/__data/assets/pdf_file/0004/645592/australia-in-the-asian-ce
+ntury-white-paper.pdf
+
+Australian Government Productivity Commission. (2016). Intellectual Property Arrangements.
+Draft Report. Retrieved from
+http://www.pc.gov.au/inquiries/completed/intellectual-property/draft/intellectual-property-ov
+erview-draft.pdf
+
+Australian Law Reform Commission. (2014). Serious Invasions of Privacy in the Digital Era.
+ALRC Report 123. Retrieved from https://www.alrc.gov.au/publications/serious-invasions-
+privacy-digital-era-alrc-report-123
+
+Clarke, R. (2004). Origins and Nature of the Internet in Australia. Retrieved from
+www.rogerclarke.com/II/OzI04.html.
+
+Cooper, H. (2017). Data retention laws: Experts warn against opening up metadata to civil cases
+as telcos renew bid to change laws. Abc. Retrieved from
+http://www.abc.net.au/news/2017-01-05/telco-industry-pushes-for-metadata-collection-chang
+es/8162896
+
+CSIRO. (2016). Bringing WiFi to the world. Retrieved from
+https://www.csiro.au/en/Research/D61/Areas/Wireless-
+and-networks/Wireless-broadband/WiFi
+
+Daly, A. (2013). The Trans-Pacific Partnership: a knockout blow for innovation? The
+Conversation. Retrieved from https://theconversation.com/the-trans-pacific-partnership-a-
+knockout-blow-for-innovation-14262
+
+Daly, A. (2016a). Net Neutrality in Australia: The Debate Continues, But No Policy in Sight. In
+L. Belli & P. De Filippi (eds.). Net Neutrality Compendium: Human Rights, Free Competition
+and the Futures of the Internet. Springer.
+
+Daly, A. (2016b). Private Power, Online Information Flows and EU Law: Mind the Gap.
+(Hart).
+
+Digital Rights Ireland Ltd v Minister for Communications, Marine and Natural Resources, No.
+C-293/12 and C-594/12 (Grand Chamber, European Court of Justice April 8, 2014). Retrieved
+from
+http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62012CJ0293&rid=1
+
+Dootson, P., Pappalardo, K. & Suzor, N. (2016). Blocking access to illegal file-share websites
+won't stop illegal downloading. The Conversation. Retrived from
+https://theconversation.com/blocking-access-to-illegal-file-
+share-websites-wont-stop-illegal-downloading-70473
+
+Internet Policy Review | http://policyreview.info  10  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+Erickson, M. & Leggin, S. 2016. Exporting Internet Law through International Trade
+Agreements: Recalibrating U.S. Trade Policy in the Digital Age. Catholic University Journal of
+Law and Technology, 24(2), 317-368.
+
+Francis, H. (2016). Foxtel and rights holders drop 'three strikes' piracy scheme. Sydney Morning
+Herald. Retrieved from
+http://www.smh.com.au/technology/technology-news/foxtel-and-rights-holders-drop-three-str
+ikes-piracy-scheme-20160525-gp3b2y.html
+
+Given, J & Goggin, G. (2012) Australian Internet Histories: It's Time' Media International
+Australia, 143(1), 57-62.
+
+Hern, A. (2017). Am I at risk of being hacked? What you need to know about the `Vault 7'
+documents. The Guardian. Retrieved from
+https://www.theguardian.com/technology/2017/mar/08/wikileaks-vault-7-cia-documents-hac
+ked-what-you-need-to-know
+
+Hopewell, L., (2014, January 2). Australia Worst In The World For Piracy, According To Our
+Attorney-General, Gizmodo. Retrieved from
+
+www.gizmodo.com.au/2014/06/australia-is-the-worst-in-the-world-for-piracy-according-to-att
+orney-general/
+
+Jaipragas, B. (2017). As Trump kills the TPP, can China-backed RCEP fill the gap? South China
+Morning Post. Retrieved from
+http://www.scmp.com/week-asia/geopolitics/article/2060041/trump-kills-tpp-can-china-back
+ed-rcep-fill-gap
+
+Lindsay, D. (2012). ISP Liability for End-User Copyright Infringements: The High Court
+Decision in Roadshow Films v. iiNet. Telecommunications Journal of Australia, Volume 62,
+Number 4.
+
+Malcolm, J. (2017). Australia's Battle Over Fair Use Boils Over. Electronic Frontier Foundation
+DeepLinks Blog. Retrieved from https://www.eff.org/deeplinks/2017/02/australias-battle-
+over-fair-use-boils-over
+
+Marsden, C. (2017). Network Neutrality: From Policy to Law to Regulation. Manchester
+University Press.
+
+Pew Research Center (2016). "Smartphone Ownership and Internet Usage Continues to Climb
+in Emerging Economies". Retrieved from
+http://www.pewglobal.org/files/2016/02/pew_research_center_global_technology_report_fin
+al_february_22__2016.pdf
+
+Pietrosanti, F. & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking.
+Boing Boing. Retrieved from
+http://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html
+
+Rimmer, M. (2017) The Trans-Pacific Partnership: Intellectual Property, Public Health, and
+Access to Essential Medicines. Intellectual Property Journal. Forthcoming.
+
+Scardamaglia, A. & Daly, A. (2016). Google, online search and consumer confusion in Australia.
+
+Internet Policy Review | http://policyreview.info  11  March 2017 | Volume 6 | Issue 1
+Australian internet policy
+
+International Journal of Law and Information Technology, 24(3), 203-228.
+
+Schrems v Data Protection Commissioner, Case C-362/14, CJEU, 6 October 2015.
+
+Shaw, L. (2015). The impact of the new European General Data Protection Regulation in
+Australia. Keypoint Law. Retrieved from
+http://www.keypointlaw.com.au/keynotes/impact-new-european-general-data-protection-regu
+lation-australia
+
+Thomas, J., Barraket, J., Ewing, S., MacDonald, T., Mundell, M., and Tucker, J., (2016).
+Measuring Digital Inclusion in Australia: The Australian Digital Inclusion Index, Swinburne
+University of Technology. Retrieved from https://digitalinclusionindex.org.au/the-index-
+report/report/
+
+Ting A, Faccio T and Kadet J. (2016). `Effects of Australia's MAAL and DPT on Internet-Based
+Business', Tax Notes International, vol.83, pp. 145-51.
+
+Internet Policy Review | http://policyreview.info  12  March 2017 | Volume 6 | Issue 1
+

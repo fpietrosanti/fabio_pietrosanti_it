@@ -1,0 +1,448 @@
+Hackercamp SHA2017: Gold-Standard für Staatstrojaner gesucht | heise online
+
+ heise+ entdecken 
+
+ Suchen Abo 
+
+ Suchen 
+
+ Alle Magazine im Browser lesen 
+ IT News 
+ Newsticker 
+ Hintergründe 
+ Ratgeber 
+ Testberichte 
+ Meinungen 
+
+ Online-Magazine 
+ heise + 
+ Telepolis 
+ heise autos 
+ bestenlisten 
+ tipps+tricks 
+
+ Services 
+ heise shop 
+ heise jobs 
+ heise academy 
+ heise download 
+ heise preisvergleich 
+ Tarifrechner 
+ heise compaliate 
+ Abo bestellen 
+ Mein Abo 
+ Netzwerktools 
+ iMonitor 
+ Loseblattwerke 
+ Spiele 
+
+ Über uns 
+ heise medien 
+ heise regioconcept 
+ heise business services 
+ Sponsoring 
+ Mediadaten 
+ Karriere 
+ Presse 
+
+ Anzeige Special: Zusammen das Datacenter weiterentwickeln 
+ Secure IT für Unternehmen 
+
+ Newsletter 
+ heise-Bot 
+ Push -Nachrichten 
+
+ ${intro}
+
+ ${title}
+
+ ${lead} 
+
+ ${intro}
+
+ ${title}
+
+ ${lead} 
+
+ ${content}
+
+ heise+
+
+ Das Beste aus heise+
+
+ Zur heise+ Startseite
+
+ ${content}
+
+ heise online
+
+ Top-Beiträge von heise online
+
+ Zur heise online Startseite
+
+ ${content}
+
+ heise online
+
+ Most popular articles by heise online
+
+ ${content}
+
+ Newsticker 
+ Security 
+ IT & Tech 
+ Developer 
+ KI 
+ Entertainment 
+ Wissenschaft 
+ Bestenlisten 
+ Digital Health 
+ Foren 
+ Alle Themen 
+
+ Anzeige
+ Special: Zusammen das Datacenter weiterentwickeln Secure IT für Unternehmen 
+
+ heise online
+
+ Netzpolitik
+
+ Hackercamp SHA2017: Gold-Standard für Staatstrojaner gesucht
+
+ Anzeige
+
+ Hackercamp SHA2017: Gold-Standard für Staatstrojaner gesucht
+
+ Nicht nur in Deutschland oder Österreich, auch in Italien wird der Einsatz von Überwachungstrojanern durch die Strafverfolgungsbehörden diskutiert. Er soll von einem Gesetz geregelt werden, über das eifrig dabattiert wird.
+
+ vorlesen 
+
+ Druckansicht
+
+ 64 
+ Kommentare lesen 
+
+ Pietrosanti (l.), Aterno
+
+ (Bild: heise online / Detlef Borchers)
+
+ 08.08.2017,
+
+ 13:08
+
+ Uhr 
+
+ Lesezeit:
+ 3 Min.
+
+ Von
+
+ Detlef Borchers
+
+ Anzeige
+
+ Auf dem Hackercamp SHA2017 im niederländischen Zeewolde haben der Hacker Fabio Pietrosanti und der Jurist Stefano Aterno die italienische Bürgerinitiative vorgestellt , die bei der Formulierung eines Gesetzes für den Einsatz von Trojanern in Italien (englische Kurzfassung hier ) mitarbeitet. Ausgehend von dem Gedanken, dass solche Überwachungsprogramme im Kampf gegen die Mafia und den Terrorismus legitime Werkzeuge sind, versucht die Initiative im Dialog mit Politikern und Strafverfolgern, einen Rechtsrahmen für Trojaner zu entwickeln. 
+
+ Weiterlesen nach der Anzeige
+
+ Vorbild für die EU?
+
+ Das italienische Gesetz soll Anfang 2018 verabschiedet werden und könnte auf europäischer Ebene so etwas wie den Gold-Standard bei der Entwicklung und dem Einsatz von Trojanersoftware stellen: Wie das heute veröffentlichte Bundeslagebild organisierte Kriminalität zeigt, sind OK-Ermittlungen in der Regel grenzüberschreitend, was auch für installierte Trojaner gilt.
+
+ Pietrosanti und Aterno berichteten zunächst von der Schwierigkeit, mit Politikern und Juristen eine gemeinsame Sprache zu finden. Wenn die Offenlegung des Source Codes oder der auch für Beschuldigte nachvollziehbare Kompilationsprozess einer Software gesetzlich verankert werden sollen, müssen Politiker erst einmal verstehen, was Source Code oder die Verifikation und Zertifizierung einer Software bedeuten. 
+
+ Am einfachsten war es wohl, sich bei der Frage nach richterlichen Untersuchungsbeschlüssen auf künftige Standards zu einigen. Im wesentlichen müssen solche Erlaubnisse für alle Komponenten eines Trojaners einzeln erteilt und begründet werden: Wenn der Trojaner also Screenshots anfertigt, braucht es dafür ebenso einen eigenen richterlichen Beschluss wie beim Abhören durch das Mikrofon eines Gerätes oder beim Mitschnitt der GPS-Daten. Einen weiteren Beschluss braucht es für die Netz-Telefon-Überwachung, also für die Ausleitung der entschlüsselten Messenger-Kommunikation von Whatsapp & Co, bei uns "Quellen-TKÜ" genannt.
+
+ Trojanerregister gefordert
+
+ Damit beginnen schon die offenen Fragen, über die derzeit gestritten wird. Zum Beispiel, ob der Source Code eines Trojaners der zuständigen, dem Wirtschaftsministerium zugeordnete Behörde ISCOM hinterlegt werden und einsehbar sein muss – mit allen Informationen darüber, wie das Programm auf die spezielle Überwachung zugeschnitten wurde, wie abgefangene Daten mit Zeitstempeln gesichert und damit forensisch gerichtsfest gespeichert werden. 
+
+ Ferner sollen Strafverfolger nachweisen, dass das beobachtete Gerät nicht unsicherer wird und es nicht schädlich ist, das Programm nach Ablauf der Überwachungsfrist zu löschen. Ist der Trojaner ein Standardprogramm, so muss es jährlich neu durch einen staatlich anerkannten IT-Forensiker zertifiziert werden. Für alle entwickelten Trojaner soll überdies ein nationales Trojanerregister entstehen, das jeden Einsatz dokumentiert. Transparenz sei wichtig, erklärte Aterno: "Grundsätzlich muss jeder Beschuldigte bei der Gerichtsverhandlung bis ins kleinste Detail nachverfolgen können, wie der Trojaner gearbeitet hat."
+
+ Weiterlesen nach der Anzeige
+
+ In der Debatte zwischen Zivilgesellschaft, Interessenverbänden wie Accessnow und den Vertretern der Gesetzesinitiative im Parlament herrscht noch keine Einigkeit darüber, wie der grenzüberschreitende Einsatz von Trojanern zu gestalten ist, etwa durch Rechtshilfeersuchen bei dem Land, in das das Gerät eines Verdächtigen eingereist ist. Überhaupt erschien den Vortragenden transnationale Perspektive wichtig: "Wir brauchen einen internationalen Standard, mit dem wir die Richtlinien für den Einsatz von Trojanern festlegen können", erklärte Pietrosanti zum Schluss.
+
+ ( anw ) 
+
+ Dieser Link ist leider nicht mehr gültig.
+
+ Links zu verschenkten Artikeln werden ungültig,
+ wenn diese älter als 7 Tage sind oder zu oft aufgerufen wurden.
+
+ Sie benötigen ein heise+ Paket, um diesen Artikel zu lesen. Jetzt eine Woche unverbindlich testen – ohne Verpflichtung! 
+
+ Wochenpass bestellen
+
+ Sie haben heise+ bereits abonniert?
+
+ Hier anmelden.
+
+ Oder benötigen Sie
+
+ mehr Informationen zum heise+ Abo
+
+ Kommentare lesen
+ (64)
+
+ Zur Startseite
+
+ heise online
+
+ Newsletter
+
+ Keine News verpassen! Jeden Morgen der frische Nachrichtenüberblick von heise online
+
+ E-Mail-Adresse
+
+ Jetzt anmelden
+
+ Ausführliche Informationen zum Versandverfahren und zu Ihren
+ Widerrufsmöglichkeiten erhalten Sie in unserer
+ Datenschutzerklärung .
+
+ Anzeige
+
+ Anzeige
+
+ Als WiFi-Dienstleister zur eigenen Marke werden
+
+ Souveräne Kontrolle bei Endgeräten behalten
+
+ Special: Zusammen das Datacenter weiterentwickeln 
+
+ Bezahlbare Cyber-Sicherheit für den Mittelstand
+
+ Technisches SEO: Checkliste für Ihre Website
+
+ Sichere Arbeitsumgebung direkt im Browser
+
+ Der Weg zur selbstbestimmten IT-Infrastruktur
+
+ Telefonie bleibt strategischer Wachstumsfaktor
+
+ Themenspecial: Digitale Souveränität 
+
+ Mehr zum Thema
+
+ Immer informiert bleiben: Klicken Sie auf das Plus-Symbol an einem Thema, um diesem zu folgen. Wir zeigen Ihnen alle neuen Inhalte zu Ihren Themen.
+
+ Mehr erfahren.
+
+ Cybercrime
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Cybersecurity
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Datenschutz
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Hacking
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Malware
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Netzpolitik
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Politik
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Security
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Trojaner
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Überwachung
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Forum zum Thema:
+ Datenschutz
+
+ Teile diesen Beitrag
+
+ Kurzlink:
+
+ https://heise.de/-3795375
+
+ Beliebte Bestenlisten
+ Alle bestenlisten 
+
+ Top 7: Das beste Digitalradio mit DAB+ und ASA im Test 
+ bestenlisten 
+
+ Top 10: Die beste Handykamera im Test 
+ bestenlisten 
+
+ Top 10: Die beste kabellose Überwachungskamera 
+ bestenlisten 
+
+ Alle bestenlisten 
+
+ Anzeige
+
+ Anzeige
+
+ Alle Angebote
+
+ IT News
+
+ Newsticker 
+
+ Hintergründe 
+
+ Ratgeber 
+
+ Tests 
+
+ Meinungen 
+
+ Online-Magazine
+
+ heise + 
+
+ Telepolis 
+
+ heise autos 
+
+ bestenlisten 
+
+ tipps+tricks 
+
+ Services
+
+ heise shop 
+
+ heise jobs 
+
+ heise academy 
+
+ heise download 
+
+ heise preisvergleich 
+
+ Tarifrechner 
+
+ heise compaliate 
+
+ Abo bestellen 
+
+ Mein Abo 
+
+ Netzwerktools 
+
+ iMonitor 
+
+ Loseblattwerke 
+
+ Spiele 
+
+ Über Uns
+
+ heise medien 
+
+ heise regioconcept 
+
+ heise business services 
+
+ Sponsoring 
+
+ Mediadaten 
+
+ Karriere 
+
+ Presse 
+
+ Newsletter
+
+ heise-Bot
+
+ Push
+
+ Push-Nachrichten
+
+ nach oben
+
+ Kontakt
+
+ Impressum
+
+ Barriere melden
+
+ Verträge kündigen
+
+ Cookies & Tracking
+
+ Datenschutz
+
+ Mediadaten
+
+ 2254548
+
+ Content Management by InterRed
+
+ Hosted by Plus.line
+
+ Copyright © 2025 heise medien
+
+ kopieren 
+
+ heise+ ab 2,99 € pro Woche lesen Jetzt heise+ entdecken – ab 2,99 € pro Woche 
+ Hier bestellen 
+ Über 90.000 Leser vertrauen bereits darauf – wählen Sie jetzt Ihr passendes Paket! 
+
+ Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. 
+ Hier bestellen

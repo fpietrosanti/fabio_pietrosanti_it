@@ -1,0 +1,408 @@
+la percezione della sicurezza informatica .:. webbit 04 .:. l'innovazione non dorme MAI ! - .:. padovafiere .:. :: event 
+
+ Nuovo Utente
+
+ Pre-iscriviti qui ! 
+
+ Login 
+
+ User name: 
+
+ Password: 
+
+   Dimenticata la password ? 
+
+   info@webbit 
+
+ Ricerca su seminari e certificazioni
+
+ oppure inserisci codice 
+
+ » Ric. avanzata 
+
+ home 
+
+-->
+
+ Cos'è Webbit 
+
+ A chi si rivolge 
+
+ Aree tematiche 04 
+
+ Certificazioni
+
+ Che
+ cosa sono 
+
+ Consulta 
+ l'elenco (PD) 
+
+ Consulta 
+ l'elenco (MI) 
+
+ Scarica 
+ l'elenco (MI) 
+
+ Seminari
+
+ Consulta 
+ l'elenco (PD) 
+
+ Consulta 
+ l'elenco (MI) 
+
+ Scarica 
+ l'elenco (MI) 
+
+ Espositori
+
+ Relatori Indipendenti 
+
+ Aziende 
+
+ Associazioni e U.G. 
+
+ Extra
+
+ Live Streaming [*] 
+
+ Alberghi 
+
+-->
+
+ Come raggiungerci 
+
+ Edizioni
+ Webbit 
+
+ home 
+
+-->
+
+ Casa Editrice 
+
+ L'Agenda 
+
+ I 
+ Quaderni 
+
+ Area Stampa
+
+ Preaccredito Milano 
+
+ Comunicati 
+ Stampa 
+
+ Cartella 
+ Stampa 
+
+ Rassegna 
+ Stampa 
+
+ Galleria 
+ fotografica 
+
+ Online Media
+ Partner
+
+ home 
+
+-->
+
+ Home   »  Seminari Padova 04  »  La percezione della sicurezza informatica
+ « 
+ La percezione della sicurezza informatica   (3684) 
+
+ Sikurezza.org 
+ Relatore: Fabio Pietrosanti   
+ Data : Padova 08.05.04 12:00 
+ Categoria : Seminari Padova 04 
+ Area: Sicurezza & Networking 
+ Target: Tecnici  
+ Difficoltà: 
+ Sala: 7A  
+ Cosa succede davvero in internet? La percezione che abbiamo delle minacce in rete è corretta?  
+ Printer-friendly version | Segnala ad un amico Sottoscrivi feed --> 
+
+ Per iscriverti devi aver fatto LOGIN con username e password
+ Elenco certificazioni collegate
+
+ Cod. Titolo Liv. Data 
+ 2158 Understanding The Twenty Most Critical Internet Security Vulnerabilities 
+[by Dev ] Padova 08.05.04 
+
+ 3854 Il penetration testing 
+ Padova 08.05.04 
+
+ Template Error: filename: file ezevent/user/templates//event_rank_list.tpl does not exist.
+
+ Template Error: filename: file ezevent/user/templates//event_item.tpl does not exist.
+
+ Warning : fopen("ezevent/user/templates//event_rank_list.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_rank_list.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_category_page_tpl, ezevent/user/templates//event_rank_list.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_category_page_tpl.
+
+ Template Error: loadfile: event_list_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_list_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Template Error: loadfile: event_item_priority_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_priority_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Template Error: loadfile: event_item_subcategory_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_subcategory_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Template Error: loadfile: event_item_author_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_author_tpl.
+
+ Template Error: loadfile: event_item_author_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_author_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Template Error: loadfile: event_item_author_link_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_author_link_tpl.
+
+ Template Error: loadfile: event_item_author_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_author_tpl.
+
+ Template Error: loadfile: event_item_priority_item_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_priority_item_tpl.
+
+ Template Error: loadfile: event_item_priority_item_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_priority_item_tpl.
+
+ Template Error: loadfile: event_item_priority_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_priority_tpl.
+
+ Template Error: loadfile: event_item_subcategory_item_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_subcategory_item_tpl.
+
+ Template Error: loadfile: event_item_subcategory_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_subcategory_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Template Error: loadfile: event_item_priority_item_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_priority_item_tpl.
+
+ Template Error: loadfile: event_item_priority_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_priority_tpl.
+
+ Template Error: loadfile: event_item_subcategory_item_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_subcategory_item_tpl.
+
+ Template Error: loadfile: event_item_subcategory_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_subcategory_tpl.
+
+ Template Error: loadfile: event_item_attached_file_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_attached_file_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Template Error: loadfile: event_item_author_link_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_author_link_tpl.
+
+ Template Error: loadfile: event_item_author_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_author_tpl.
+
+ Template Error: loadfile: event_item_priority_item_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_priority_item_tpl.
+
+ Template Error: loadfile: event_item_priority_item_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_priority_item_tpl.
+
+ Template Error: loadfile: event_item_priority_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_priority_tpl.
+
+ Template Error: loadfile: event_item_subcategory_item_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_subcategory_item_tpl.
+
+ Template Error: loadfile: event_item_subcategory_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_item_subcategory_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_item.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_item.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_item_tpl, ezevent/user/templates//event_item.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_item_tpl.
+
+ Template Error: loadfile: event_list_tpl is not a valid handle.
+
+ Template Error: subst: unable to load event_list_tpl.
+
+ Warning : fopen("ezevent/user/templates//event_rank_list.tpl", "r") - No such file or directory in /home/webbit/webbit/classes/eztemplate.php on line 795 
+
+ Warning : stat failed for ezevent/user/templates//event_rank_list.tpl (errno=2 - No such file or directory) in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 796 
+
+ Warning : Supplied argument is not a valid File-Handle resource in /home/webbit/webbit/classes/eztemplate.php on line 797 
+
+ Template Error: loadfile: While loading event_category_page_tpl, ezevent/user/templates//event_rank_list.tpl does not exist or is empty.
+
+ Template Error: subst: unable to load event_category_page_tpl.
+
+ webbit 04  |  
+ my webbit  |  
+ espositori 
+
+ quaderni webbit  |  
+ agenda webbit  |  
+ webbitcon.org 
+
+ Ricerca su seminari e certificazioni 
+
+ » Ric. avanzata

@@ -1,0 +1,189 @@
+Usare il FOIA per la trasparenza del trattamento dati in ambito pubblico
+https://www.youtube.com/watch?v=SeQD83Nl1eE
+Segmento da 07:50 a 22:46 della registrazione (media.mp4); timestamp relativi all'inizio della clip.
+Trascrizione automatica (faster-whisper small, dalla trascrizione completa transcript.txt).
+
+[00:00] Grazie. Buonasera a tutti e grazie per l'invito siamo assolutamente
+[00:07] diciamo felice diciamo di questo confronto tra di noi e anche poi rispetto
+[00:13] agli spettatori che potranno contribuire con i commenti su YouTube. Prima di
+[00:19] diciamo di saltare subito sull'oggetto della discussione cioè l'istanza
+[00:24] inviata a tutte le scuole italiane di accesso civico generalizzato è
+[00:29] certamente doveroso dire ma questi di monitor a pia chi sono e che cosa vogliono
+[00:34] perché è una domanda che in tanti si sono posti e devo dire anche qualche
+[00:39] centinaia di telefonate che ho ricevuto io io personalmente hanno portato a
+[00:44] domandarlo inanzitutto tutto oggi monitor a pia si definisce specia come un
+[00:50] gruppo di attivisti a che cittadini e cittadine proprio per la spontaneità di
+[00:56] aggregazione di un gruppo che oggi definiamo tutti gli effetti informare e che
+[01:01] non è rappresentato o rappresentativo di un'associazione o di un NGO che ha un
+[01:10] chiaro statuto definito una chiara missione sociale ma che parte da un
+[01:15] impulso impulso che abbiamo intorno a gennaio di quest'anno partendo
+[01:21] dall'amiere inglese del centro nexa e diciamo gruppi di discussioni sui social
+[01:26] media per avviare una progettualità prototipale sperimentale perché qui
+[01:32] siamo veramente in un ambito edge di sperimentazione tra la tecnologia l'attivismo
+[01:36] e l'uso degli strumenti del diritto possiamo anche dirci agli occhi di
+[01:41] qualcuno l'abuso o l'uso un po' estremizzato poi i confini ovviamente
+[01:45] sono proprio l'oggetto del dibattito e anche l'interesse che suscita
+[01:50] per andare a misurare nel contesto della pubblica amministrazione
+[01:55] con strumenti automatizzati ambiti di compliance o non compliance con i gdpr
+[02:03] quindi da lì partiamo e da lì partiamo spontanea appunto di hacker
+[02:07] avvocati attivisti che oggi contano tra la chat matrix e la chat telegram che
+[02:14] sono in bridge far loro oltre 750 persone che parteciano dopo di che
+[02:18] sappiamo bene che non è tutti quanti parteciano insomma c'è una discreta
+[02:22] una discreta partecipazione e quei bo 7000 a 10.000 messaggi al giorno della chat è
+[02:27] certamente difficile starci dietro e credo che in molti incluso Nicola intanto si
+[02:33] apre la chat dopo qualche giorno è impossibile rendersi conto di ciò che
+[02:36] è successo ma queste sono le energie e la spontanità del progetto che per la
+[02:40] punta è partito da un pilastro estremamente semplice noi abbiamo una
+[02:44] base da di censimento della pubblica amministrazione mantenuta da agid che
+[02:48] è il buon vecchio indice che ci permette di avere due cose l'elenco della
+[02:53] pubblica amministrazione con il loro siti web e un email di contatto con cui
+[02:57] entrare in contatto con questa pubblica amministrazione partendo da questi due
+[03:00] semplicemente ci siamo detti e domandati poi c'è stata questa
+[03:03] evoluzione diciamo molto spontanea e di aggregazione di energie possiamo
+[03:09] misurare analizzando tecnicamente i siti web e siamo partiti da google
+[03:14] analitics quali di questi siti trasferiscono a google facendo per
+[03:20] riferimento alla sentenza s2 dati a google e possiamo informare le
+[03:27] pubblica amministrazione in modo automatizzato per invitarle a evitare
+[03:34] questi trasferimenti nei confronti degli statuniti quindi diciamo rispetto di
+[03:38] gdpr compliance e questo è stato come siamo partiti quindi siamo partiti da
+[03:42] questo concetto tutto sommato abbastanza semplice che ricordiamolo a portato
+[03:47] all'invio di circa 8000 pec che erano di circa 8000 pubblica amministrazione che
+[03:52] a maggio di quest'anno utilizzavano google analitics oggi ne sono rimaste
+[03:56] solo 600 quindi abbiamo creato uno strumento che ha avuto un'efficacia
+[04:01] significativa cioè dei risultati in cui il rapporto sforzo risultato
+[04:06] estremamente importanti e che ci hanno anche portato esattamente a pochi
+[04:11] giorni dal l'invio del nostro esposto sulle pubblica amministrazioni
+[04:17] alla garante anche finalmente quello che è stata l'uscita da parte del
+[04:21] garante della pravesi che ha dissezionato la tematica google analitics che già da
+[04:25] altre data protection authority era stata diciamo esposta sempre di riferimento
+[04:29] a s2 e al trasferimento dei dati trasfrontali a seguido di questa
+[04:36] iniziativa abbiamo ripetuto il medesimo esperimento perché ricordiamo
+[04:40] ci siamo in un ovvero del tutto sperimentate quindi iniziativa di
+[04:43] attivismo che vogliano avere efficacia e che funzioni all'interno di un criterio
+[04:49] interamente volontaristico se dobbiamo considerare le pure dotazioni
+[04:53] strumentali penso che paghiamo 10 euro al mese di server e poi c'è del
+[04:59] contributo volontario coordinato a metri chat abbiamo attaccato google font
+[05:04] google font all'interno dei 28 mila siti della pubblica amministrazione era
+[05:09] presente cioè browser si coltente si collega al sito pubblica amministrazione
+[05:13] questa scarica dal sito di google font necessario alla visualizzazione del
+[05:17] testo in particolar informati anziché servirli direttamente dal sito web
+[05:21] quindi collegandosi ai server di google c'erano circa 10 mila ecco questa
+[05:26] scansione l'abbiamo effettuata e abbiamo effettuato la notifica massiva a
+[05:31] inizio d'agosto ammetto che ci sono state molte persone che ne sono risentite
+[05:36] dicendo ma io ero al mare perché mi avete costretto da dpo a occuparmi di questa
+[05:41] cosa mentre ero al mare scusateci però è stato molto efficace perché nell'arco di
+[05:46] meno di un mese il 70 per cento delle pubblica amministrazione hanno eliminato
+[05:50] il caricamento dinamico da google font e qui siano le due campagne di maggiore
+[05:56] efficacia basate sul rilevamento massivo e la notifica altre ne arriveranno
+[06:01] per quanto riguarda altri strumenti traccianti con caricamento di terze
+[06:05] parti incluso e questo è abbastanza significativo perché è una delle
+[06:10] priorità del garante nonché una delle priorità di non guai bidi la megio
+[06:14] shrimps al trasferimento e l'inclusione di risorse terze parti di cookie
+[06:19] pre accepzioni questo è un tema che non ha ancora avuto diciamo una grande
+[06:24] ecco ma da alcune nostre analisi per ai minari è particolarmente diffuso e
+[06:29] arriviamo però all'oggetto di questa diciamo di questo convenio cioè
+[06:33] ci siamo domandati tra il gruppo nell'interno del gruppo ci sono anche
+[06:38] diversi genitori che ovviamente ci tengono a diciamo ci tengono ai propri chi e
+[06:43] quindi a quello che è anche l'attività fatte dalle scuole c'è tutta una
+[06:47] bella con grega hacker oserei dire io che effettivamente forte anche dell'
+[06:52] esperienza genitoriale ci tiene che le scuole si comportino a modo tuttavia
+[06:56] le scuole sappiamo che sono delle micro pubblica amministrazione con una
+[06:59] autonomia di spesa a livello micro e che poi hanno il coordinamento
+[07:02] ministeri diciamo un coordinamento ministeriale ci siamo domandati ma la
+[07:07] didattica a distanza in particolar modo questo è stato il nostro focus ora
+[07:12] che inizia l'anno squastio si troverà nuovamente a avere un utilizzo
+[07:18] diffuso e pervasivo di google e microsoft perché bisogna poi anche fare i
+[07:24] nomi quelle sono due soluzioni che hanno avuto maggiore diffusione o c'è
+[07:28] finalmente una adozione di strumenti basati sui criteri di soluzione
+[07:32] bianca di digitali il promosso della comune europea e anche gli strumenti che
+[07:36] autonomamente la pubblica amministrazione stessa metta la disposizione delle altre
+[07:40] agenzie per fare quest'analisi abbiamo deciso di fare un nuovo esperimento
+[07:45] che portasse che portasse non solo un intervento nell'analizzare i profili
+[07:51] relativi alla protezione dei dati quindi siamo ad abbiamo usato lo strumento
+[07:55] dell'accesso civico generalizzato ovviamente in modo dist diffuso
+[08:00] producendo una richiesta di accesso civico specifica per ogni pubblica
+[08:06] amministrazione, inviata poi individualmente, richiedendo sei documenti.
+[08:10] Con questi sei documenti c'erano i contratti per le forniture, gli
+[08:15] strumenti di dati a distanza oltre gli strumenti di telematica di base e la
+[08:20] eventuale disponibilità di DPEA, quindi di Data Protection Impact
+[08:27] Access, mentre se l'ho detto bene se no, cazziatemi, nonché di della TIA, cioè
+[08:33] laddove avessimo considerato che la giurisdizione eventuale statunitense,
+[08:39] Stante Shramps 2, non fosse compatibile è necessario fare un'analisi di
+[08:44] impatto sul trasferimento dei dati. Oltre a queste, dato che siamo hacker e ci
+[08:51] teniamo al software libero e ci teniamo al riuso del software nella
+[08:56] pubblica amministrazione e l'utilizzo di risorse di conoscenza, oltre che
+[09:01] risorse infrastrutturali della pubblica amministrazione stessa, abbiamo
+[09:05] richiesto il documento di analisi comparativa che è necessario, che è quel
+[09:12] documento necessario come evalutazione, nel momento in cui si acquisiscono
+[09:18] delle soluzioni software, siano S, software as a service, siano S
+[09:21] dei software da installare a catapria, nel momento in cui si
+[09:26] acquisiscono dei software che non sono all'interno del catalogo del riuso della
+[09:31] pubblica amministrazione, che secondo il codice d'amministrazione digitali
+[09:35] Articolo 69.2 richiede che la pubblica amministrazione, se può comprare a
+[09:40] quizire del software già nella disponibilità della pubblica
+[09:43] amministrazione, dovrebbe farlo e deve giustificare se acquisice del software
+[09:47] non già nella disponibilità pubblica amministrazione, perché questa
+[09:51] analisi comparativa è altrettanto necessaria. Quindi il nostro obiettivo era
+[09:57] poniamo i dirigenti scolastici, quantomeno le figure di responsabilità
+[10:02] manageriale presenti all'interno di queste strutture della pubblica
+[10:05] amministrazione, nel rendersi conto se hanno acquisito degli strumenti di
+[10:11] dati che a distanza che non sono già nel catalogo riuso se hanno fatto
+[10:18] una tenta valutazione della protezione dei dati, quindi hanno seguito una DPA, una
+[10:22] TIA e soprattutto se quando ne hanno effettuato l'acquisizione sanno che
+[10:29] esiste un catalogo riuso della pubblica amministrazione a cui rivolgersi per
+[10:33] ottenere del software e quindi valorizzare la capitalizzazione di
+[10:37] conoscenza che c'è come linea di indirizzo del software della
+[10:42] pubblica amministrazione stessa. Quindi abbiamo cercato di coniugare il
+[10:46] massimo degli strumenti idealistici a nostra disposizione e anche di
+[10:51] indirizzo protezione dei dati, sovranita digitale, software libero,
+[10:56] trasparenza e diritto l'accesso. Abbiamo messo tutto all'interno di un
+[10:59] frullatore, abbiamo composto la nostra richiesta di accesso civico
+[11:03] generalizzato di 6 punti e inviata a queste 8.000 scuole.
+[11:07] Ovviamente questo ha generato delle reazioni che sono diciamo delle
+[11:12] più variegate, chi sotto il diritto l'accesso, chi andando a
+[11:19] evidenziare, come si dice, criticità anche con pensieri geopolitici un
+[11:25] po' strutturati oltre che economici sul tema della protezione dei dati, devo dire
+[11:31] troppo pochi commenti riguardante l'utilizzo, il riuso del software
+[11:37] nella pubblica amministrazione e l'uso del software libero all'interno
+[11:41] della pubblica amministrazione. Me ne sarei aspettati di più, seppur ci sono
+[11:45] stati dei contatti qualificati che hanno personalmente ringraziato del aver
+[11:51] resonato a una così ampia platea in fatto che esiste l'articolo 69,2 del
+[11:57] CAD che effettivamente bisognerebbe privilegiare l'utilizzo del software
+[12:02] al catalogo rioso e da qui diciamo questa nostra
+[12:08] discussione, certamente quello che possiamo, questo era per dare un
+[12:12] condividere quello che è un excursus di da dove viene questo progetto monitora
+[12:17] PA, come evolve questa comunità che vede tra i suoi partecipanti, io mi sento
+[12:22] dire anche Nicola, sei un assolutamente partecipante di questa comunità anche se
+[12:26] poi sei anche co-firmatario di una lettera contro alcuni di queste
+[12:30] iniziative, ma questo è il bello, diciamo, una degli elementi di
+[12:35] forza che io mi sento di condividere che abbiamo scoperto con grande sorpresa è
+[12:40] che questo meccanismo di utilizzo degli strumenti giuridici di diritto nei
+[12:44] confronti della pubblica amministrazione per degli obiettivi sociali che siano
+[12:49] tangibili e misurabili quando effettuati con questo approccio distribuito e su
+[12:56] grandi numeri porta con sé anche un grande risultato che è il risultato
+[12:59] dell'autrich, nel mondo dell'attivismo, dell'impegno sociale per degli
+[13:04] scopri sociali, uno dei grandi problemi è che faccio una campagna perché
+[13:07] voglio portare un cambiamento sociale su qualcosa di pubblico interesse e mi
+[13:11] interessa e nessuno mi si fila, perché la devo comunicare.
+[13:14] Ecco in questo caso il modus operandi di monitora PA non solo porta con sé la
+[13:21] efficacia giuridica e del dibattito, porta con sé l'autrich dell'obiettivo
+[13:27] sociale e carta a numeri alla mano è efficace, quindi oggi monitora PA è
+[13:32] questo cosa verrà fatto in seguito è diciamo con l'ina di indirizzo come tipo
+[13:36] di strumenti non lo sappiamo ancora bene in spesso e volentieri ci sono
+[13:40] iniziative che nascono direttamente dalla comunità stessa però quello che
+[13:44] abbiamo comunque imparato è che far notare un problema e richiedere che
+[13:49] col problema venga risolto, farlo in punta di diritto e farlo con gli
+[13:54] strumenti che ci concede il diritto tramite automazioni tecnologiche
+[13:57] eccezionalmente qualcosa che crea un impatto sociale e una discreta
+[14:02] efficacia per quello che siamo stati in grado di bere fino ad oggi.
+[14:06] Delle richieste di accesso recivico generalizzato in viate abbiamo avuto
+[14:11] circa 1200-1300 risposte tutte le risposte adesso avranno di altri
+[14:16] pezzi di software che le pubblicano su FOIA.monitoratratino.pa.it
+[14:21] perché ovviamente non ci sono le risorse autonome e dirette per gestire
+[14:25] tutte quanti le risposte e se stesse hanno avuto, credo che ci sarà una
+[14:31] attività di valutazione anche giuridica, forme di diniego delle più variegate e
+[14:38] colorite possibili, ma ci sono state anche delle scuole che invece hanno
+[14:44] fornito delle risposte assolutamente qualificate e oltre che risposte
+[14:47] qualificate hanno tenuto a farci sapere che utilizzano strumenti basati
+[14:51] sulla solanità digitale sul software libero. Questa è un po' una
+[14:54] introduzione. Fabio, grazie.

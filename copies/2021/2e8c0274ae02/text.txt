@@ -1,0 +1,265 @@
+GitHub - g0v-it/Geo-AIRE: Analisi di fattibilità seggi di voto estero, tramite analisi geo-spaziale base dati AIRE. · GitHub 
+
+ Skip to content 
+
+ Navigation Menu
+
+ Sign in Appearance settings
+
+ Platform AI CODE CREATION GitHub Copilot Write better code with AI 
+ GitHub Copilot app Direct agents from issue to merge 
+ MCP Registry Integrate external tools 
+
+ DEVELOPER WORKFLOWS Actions Automate any workflow 
+ Codespaces Instant dev environments 
+ Issues Plan and track work 
+ Code Review Manage code changes 
+ Code Quality Enforce quality at merge 
+
+ APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities 
+ Code security Secure your code as you build 
+ Secret protection Stop leaks before they start 
+
+ EXPLORE Why GitHub 
+ Documentation 
+ Blog 
+ Changelog 
+ Marketplace 
+
+ View all features 
+
+ Solutions BY COMPANY SIZE Enterprises 
+ Small and medium teams 
+ Startups 
+ Nonprofits 
+
+ BY USE CASE App Modernization 
+ DevSecOps 
+ DevOps 
+ CI/CD 
+ View all use cases 
+
+ BY INDUSTRY Healthcare 
+ Financial services 
+ Manufacturing 
+ Government 
+ View all industries 
+
+ View all solutions 
+
+ Resources EXPLORE BY TOPIC AI 
+ Software Development 
+ DevOps 
+ Security 
+ View all topics 
+
+ EXPLORE BY TYPE Customer stories 
+ Events & webinars 
+ Ebooks & reports 
+ Business insights 
+ GitHub Skills 
+
+ SUPPORT & SERVICES Documentation 
+ Customer support 
+ Community forum 
+ Trust center 
+ Partners 
+
+ View all resources 
+
+ Open Source COMMUNITY GitHub Sponsors Fund open source developers 
+
+ PROGRAMS Security Lab 
+ Maintainer Community 
+ GitHub Stars 
+ Archive Program 
+
+ REPOSITORIES Topics 
+ Trending 
+ Collections 
+
+ Enterprise ENTERPRISE SOLUTIONS Enterprise platform AI-powered developer platform 
+
+ AVAILABLE ADD-ONS GitHub Advanced Security Enterprise-grade security features 
+ Copilot for Business Enterprise-grade AI features 
+ Premium Support Enterprise-grade 24/7 support 
+
+ Pricing 
+ Search / 
+
+ Sign in 
+ Sign up Appearance settings
+
+ You signed in with another tab or window. Reload to refresh your session. 
+ You signed out in another tab or window. Reload to refresh your session. 
+ You switched accounts on another tab or window. Reload to refresh your session. 
+
+ Dismiss alert 
+
+ {{ message }}
+
+ This repository was archived by the owner on Jan 26, 2024. It is now read-only.
+
+ g0v-it
+
+ / 
+
+ Geo-AIRE 
+
+ Public archive 
+
+ Notifications
+ You must be signed in to change notification settings 
+
+ Fork
+ 1 
+
+ Star
+ 0 
+
+ Code 
+
+ Issues 
+ 0 
+
+ Pull requests 
+ 0 
+
+ Actions 
+
+ Projects 
+
+ Security and quality 
+ 0 
+
+ Insights 
+
+ Additional navigation options 
+
+ Code
+
+ Issues
+
+ Pull requests
+
+ Actions
+
+ Projects
+
+ Security and quality
+
+ Insights
+
+ main 
+
+ Branches Tags 
+
+ Go to file 
+
+ Code Open more actions menu 
+
+ Latest commit
+
+ History
+ 8 Commits 
+ 8 Commits 
+
+ Folders and files
+ Name Name Last commit message 
+ Last commit date 
+
+ Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.ods 
+
+ Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.ods 
+
+ Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.odt 
+
+ Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.odt 
+
+ Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.pdf 
+
+ Analisi-Geospaziale-dati-AIRE-2015-per-Seggi.pdf 
+
+ README.md 
+
+ README.md 
+
+ View all files 
+
+ Repository files navigation
+
+ README 
+
+ More items 
+
+ Geo-AIRE
+
+ Il progetto Geo-AIRE rappresenta approccio di policy research per aumentare la sicurezza del voto degli AIRE, validando la fattibilità di implementazione di seggi elettorali all’estero, seguendo un approccio di analisi dati geo-spaziali.
+
+ Sono riportati i risultati come ricerca interdisciplinare tecnico-politica, rivolta a misurare la fattibilità d'implementazione di una rete di seggi elettorali all’estero per il voto degli italiani residenti all’estero (AIRE) secondo un approccio metodologico di analisi.
+
+ Abbiamo voluto capire, considerando una distanza massima fra cittadino e seggio di 20km, quale percentuale di popolazione residente all’estero possa essere raggiunta da seggi.
+
+ Abbiamo quindi ipotizzato che un seggio possa possa essere allestito in aree con raggio di 20km con una densità di cittadini serviti superiore a 10.000 e superiore a 500 (limite dimensionale più piccolo di una “Sezione Elettorale”).
+
+ I risultati appaiono favorevoli, con la possibilità di attivare seggi elettorali esteri raggiungendo:
+
+ L' 84.35% degli AIRE con seggi esteri in 43 città
+
+ Il 99.82% degli AIRE con seggi esteri in 273 città
+
+ Il progetto è frutto della collaborazione di Fabio Pietrosanti, Stefano Quintarelli e Maurizio Napolitano, oltre alla preziosa revisione e input di molti professionisti dell'ambito tecnico informatico, cybersecurity e politico.
+
+ In seguito è possibile scaricare per consultazione:
+
+ Policy Paper in pdf
+
+ Data set di Analisi Geospaziale dati AIRE 2015 per Seggi spreadsheet
+
+ Nota: Il file con l'indicazione delle città di residenza dei cittadini iscritti all'AIRE è a disposizione delle forze politiche in occasione delle campagne elettorali per le elezioni politiche ed europee. Il data set impiegato per l'analisi in oggetto è AIRE 2015.
+
+ About 
+ Analisi di fattibilità seggi di voto estero, tramite analisi geo-spaziale base dati AIRE. 
+ Resources 
+ Readme 
+ Activity 
+ Custom properties 
+ Stars 
+ 0 stars 
+ Watchers 
+ 3 watching 
+ Forks 
+ 1 fork 
+ Report repository 
+
+ Releases 
+
+ Packages 
+
+ Contributors 
+
+ Footer
+
+ © 2026 GitHub, Inc.
+
+ Footer navigation
+
+ Terms 
+
+ Privacy 
+
+ Security 
+
+ Status 
+
+ Community 
+
+ Docs 
+
+ Contact 
+
+ Manage cookies
+
+ Do not share my personal information
+
+ You can’t perform that action at this time.

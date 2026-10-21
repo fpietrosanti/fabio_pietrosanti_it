@@ -1,0 +1,89 @@
+Davvero Paolo Gentiloni non usa le email? 
+
+ + Italiano
+
+ Leggi 
+ Guarda 
+ Attualità 
+ Cultura 
+ Musica 
+ Cibo 
+ Tecnologia 
+ Identità 
+ Salute 
+
+ Leggi 
+ Guarda 
+
+ Attualità 
+ Cultura 
+ Musica 
+ Cibo 
+ Tecnologia 
+ Identità 
+ Salute 
+
+ About 
+ Partner 
+ Jobs 
+ VICE MEDIA PRIVACY POLICY 
+ Privacy & Terms 
+
+ © 2020 VICE MEDIA GROUP
+
+ Davvero Paolo Gentiloni non usa le email?
+
+ “Anche ora che ha traslocato a Palazzo Chigi, Paolo Gentiloni continua a dialogare via SMS ed evita la posta elettronica." Davvero?
+ di Federico Nejrotti 
+
+ 21.2.17
+ Facebook 
+ Twitter 
+ Snap 
+
+ Il caso della scorsa settimana è stato, senza alcun dubbio, quello degli attacchi hacker ai danni del Ministero degli Esteri italiano che tra una presunta pista russa e curiose spiegazioni da parte delle autorità ha segnato un altro capitolo nella crescente lista di episodi di hacking con protagonista l'Italia.
+ Secondo un report del The Guardian pubblicato poche settimane fa, poi confermato dal Governo, nel corso del 2016 i sistemi informatici della Farnesina avrebbero subito diversi attacchi hacker — In particolare, nella primavera, un attacco avrebbe violato i sistemi di gestione delle comunicazioni informatiche per 4 mesi prima di essere rilevato e respinto. Secondo uno speciale de L'Espresso , inoltre, questa violazione si sarebbe protratta per tutto il 2016 e avrebbe colpito anche altre istituzioni governative.
+
+ Secondo "delle fonti governative anonime" entrate in contatto con il The Guardian si sospetta un attacco proveniente dalla Russia — Questo aspetto particolare della vicenda avrebbe dovuto senza dubbio monopolizzare l'attenzione (visto che non è stato ancora confermato né smentito dalle istituzioni), ma sono altre le dichiarazioni che hanno catalizzato la curiosità del pubblico negli ultimi giorni.
+ "Alla Farnesina le comunicazioni riservate viaggiano per postazioni fisse e usano metodi di protezione tradizionali."
+ Le prime rassicurazioni sugli eventi, arrivate in un primo momento dalla fonte governativa del The Guardian , vogliono infatti che Paolo Gentiloni — al tempo Ministro degli Esteri — non sia stato vulnerabile all'attacco perché "ha evitato di usare l'email durante il suo incarico alla Farnesina." Ancora, Gianfranco Incarnato — ministro plenipotenziario —  ha dichiarato a La Repubblica che "alla Farnesina le comunicazioni riservate viaggiano per postazioni fisse e usano metodi di protezione tradizionali," anche attraverso portalettere che vanno in giro con buste chiuse e che "ricevo in mano e poi firmo il registro per presa visione," spiega Incarnato.
+ Infine, il colpo di grazia arriva dal Corriere della Sera , che spiega come, se da un lato l'insuccesso degli attacchi è da imputare all'efficienza del "settore cyber" del Ministero degli Esteri, "anche la natura dell'attuale premier, descritto dal suo entourage come 'un uomo tutto penna e inchiostro'" ha fatto il suo. Infatti, continua il Corriere , "Anche ora che ha traslocato a Palazzo Chigi, Paolo Gentiloni continua a dialogare via sms ed evita la posta elettronica," si legge. "Usa lo smartphone come fosse uno dei primi telefoni cellulari e se deve inviare messaggi importanti ai ministri e ai collaboratori, o comunque all'interno del palazzo, preferisce scrivere a mano su un foglio di carta."
+
+ Al netto della confusione ancora presente attorno alla vicenda, l'emergere del dibattito sulla gestione delle informazioni all'interno della pubblica amministrazione ha reso evidente quanto le istituzioni siano poco preparate a discutere in maniera trasparente del tema: per questo motivo, l'idea che il Presidente del Consiglio (ora) e il Ministro degli Esteri (prima) italiano "non usi le email" lascia straniti.
+ L'idea che Paolo Gentiloni "non usi le email" per le comunicazioni istituzionali ma invece si affidi a "SMS" e "comunicazioni scritte" è sinceramente curiosa.
+ Nonostante sia impossibile fare realmente chiarezza, l'idea che Paolo Gentiloni "non usi le email" per le comunicazioni istituzionali ma invece si affidi a "SMS" e "comunicazioni scritte" è sinceramente curiosa — È realistico che, al netto di ulteriori sistemi "criptati" di comunicazione, un'autorità di questo livello si rimetta a canali più tradizionali? Quanto è verosimile questa ricostruzione della vicenda? 
+
+ "Certamente il Ministero deve usare le email e certamente il personale di assistenza di direzione di quando era ministro degli esteri le usa in quanto strumento basilare per l'esecuzione delle attività di organizzazione, coordinamento e pianificazione di qualunque attività direttiva," mi spiega Fabio Pietrosanti , fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali e esperto di privacy e trasparenza.
+ "Che poi Gentiloni voglia dimostrare di non essere un manager efficiente capace di gestire in collaborazione con l'assistente la sua agenda ma preferisca delegare in toto la gestione e organizzazione del suo tempo e delle sue pratiche usando solo gli SMS… Be' questa è una sua scelta personale che però non penso che nessun dirigente ad alte prestazioni operative possa condividere," continua Fabio.
+ "Una email può contenere molte più informazioni di un SMS."
+ Ammettiamo per un momento che le indiscrezioni siano vere e che Gentiloni sfrutti davvero gli SMS per questo tipo di comunicazione — Gli SMS e le comunicazioni scritte sono davvero più sicure delle email? "Va considerato se siano più sicuri in termini assoluti o meno," mi spiega Fabio. "In termini assoluti gli SMS sono notevolmente più insicuri delle email perchè sono facili da intercettare "in transito", dato che l'operatore di telecomunicazione e chiunque lo impersonificasse attraverso un IMSI-Catcher può leggerli e non vi sono tecnologie di cifratura ulteriore per proteggerli," continua Fabio descrivendo le debolezze del servizio.
+ "Diversamente le email dispongono sia di protocolli e tecnologie standard di protezione per la tutela del transito (IMAP/TLS e SMTP/TLS) basate sulle infrastrutture di sicurezza internet, sia consentono la protezione individuale dei messaggi qualora il transito venga compromesso (S/MIME e OpenPGP/MIME)," spiega Fabio. "Non a caso la Posta Elettronica Certificata coniugata alla infrastruttura di firma digitale valida per legge in Italia permette di avere entrambi, sia la protezione in transito che la protezione per singolo messaggio."
+
+ Fabio però ci tiene anche a evidenziare le diverse finalità dei due servizi, "Una email può contenere molte più informazioni di un SMS — Può contenere allegati, può essere indirizzata a gruppi di lavoro e quindi diffondersi più rapidamente e non ultimo il suo uso quotidiano porta alla creazione di una base dati storica," spiega Fabio. "Per questo motivo, per una mera questione 'quantitativa', l'accesso a tutti gli SMS di un telefonino rivela molte meno informazioni dell'accesso a tutte le email inviate e ricevute su Outlook da un PC, sempre che non si siano impiegate normali tecniche di sicurezza già stabilite per legge con la PEC e la firma digitale."
+ "Per una mera questione 'quantitativa', l'accesso a tutti gli SMS di un telefonino rivela molte meno informazioni dell'accesso a tutte le email inviate e ricevute su Outlook da un PC."
+ La confusione attorno alla vicenda porta inevitabilmente a pensare che le istituzioni non abbiano saputo spiegare con precisione come funzionano questi sistemi — Storicamente, cercare di decifrare le gerarchie che si celano dietro alle reti di comunicazione delle istituzioni italiane è sempre stato piuttosto complicato, "Le comunicazioni verso l'esterno delle organizzazioni dello Stato dovrebbero essere orientate all'uso di tecnologie che coniugano sicurezza e fruibilità, considerando che gli interlocutori possono passare dall'essere un cittadino italiano alle Hawaii fino a un ente industriale australiano," mi spiega Fabio.
+ "Un po' diverse sono i fatti quando si parla di comunicazioni diplomatiche, che possono avere anche carattere di riservatezza e di classificazione di sicurezza e che normalmente richiedono l'impiego di tecnologie dedicate con cifratura delle comunicazioni hardware e che viaggiano su reti 'logicamente separate'" mi spiega Fabio.
+
+ "Queste comunicazioni richiedono l'adeguamento agli standard di sicurezza internazionale Common Criteria EAL2 e, per quanto attiene all'Italia, sono sottoposte a certificazione da parte del CEVA presso l'ISCOM , spiega Fabio. "È altamente improbabile che da internet qualcuno sia riuscito ad introdursi in una rete di comunicazione separata (tipicamente basata su reti di VPN chiuse), con apparati di comunicazioni con scambio chiavi hardware (tipicamente con consegna "fisica" delle smartcard presso gli apparati), ma è altrettanto altamente probabile che impiegati del ministero che dovrebbero trattare informazioni di livello classificato su tali apparecchiature, in considerazione della ulteriore scomodità d'uso, comunichino saltuariamente tramite gli strumenti di comunicazione normale non classificati," chiarifica.
+
+ Un report sulla sicurezza dei protocolli utilizzati dal sito del Ministero degli Affari Esteri.
+
+ Secondo Fabio, però, i problemi di sicurezza sono decisamente più radicati, "Le misure di sicurezze del Ministero degli Esteri verso l'esterno sono al minimo," spiega. "Per esempio, il sito del Ministero degli Affari Esteri non dispone di cifratura HTTPS e quella abilitata è lì abbandonata e non funzionante con un certificato digitale scaduto e algoritmi di cifratura degli anni '90," mi spiega. O Ancora, "Il sistema di posta elettronica del Ministero degli Affari Esteri non dispone di cifratura della posta elettronica con SMTP/TLS."
+ È evidente che il discorso sulla sicurezza informatica nelle istituzioni italiane sia una bomba che si sta preparando ad esplodere: dai numerosi casi di intrusione e esposizione di dati nelle PA minori , fino ai recenti casi legati alla " Banda Occhionero " e alle rivelazioni dell'Inchiesta Labirinto e la rete di monitoraggio (fallita) di Raffaele Pizza , le istituzioni italiane sono pronte ad avere a che fare con un intelligence globale che concentra sempre di più propri sforzi nel monitoraggio delle comunicazioni informatiche? L'idea di un'Italia "vecchia" dal punto di vista tecnologico sembra verosimile anche in questo caso, ed è piuttosto complicato comprendere se i sistemi sono effettivamente sicuri e i reparti addetti preparati.
+ Secondo Fabio, "L'italia è vittima della burocrazia e della assenza di presa di responsabilità," spiega. "Solo quando vi sarà una leadership centrale molto forte sulla sicurezza informatica, allora si potrà verificare un sensibile miglioramento —Per quanto attiene alle "Comunicazioni" sarebbe semplice, basterebbe copiare quanto stanno facendo gli Stati Uniti," continua.
+ "Negli USA è stata emanata una direttiva della Casa Bianca affinché tutti i siti federali passino a dei protocolli in full-HTTPS , e perché la migrazione avvenisse nel migliore dei modi hanno quindi implementato un sito per fornire informazioni, supporto e
+
+assistenza a tutti i gestori di siti delle agenzie federali — Subito dopo hanno messo in piedi una piattaforma per il monitoraggio del livello di compliance," mi spiega. "Inoltre, il software dietro Pulse è anche open-source e sarebbe sufficiente agganciarlo ad "indicepa" per iniziare a monitorarne la compliance."
+ Nonostante l'esempio, secondo Fabio, "Senza sanzioni la pubblica amministrazione non si muove, quindi ci vuole una legge che consenta ad un ente (L' Agenzia per l'Italia Digitale ? Il Computer Emergency Response Team per la Pubblica Amministrazione ?) di emanare direttive tecniche e, in caso di non rispetto delle medesime, applicare delle sanzioni," conclude.
+
+ Tagged: Tech Motherboard News opinioni Italia Paolo Gentiloni Governo 
+
+ Pubblicità
+
+ About 
+ Partner 
+ Jobs 
+ VICE MEDIA PRIVACY POLICY 
+ Privacy & Terms 
+
+ © 2020 VICE MEDIA GROUP

@@ -1,0 +1,252 @@
+Integrate Flutter to works with Decidim Backend, instead of Rousseau · Issue #170 · associazione-rousseau/camelot-flutter · GitHub 
+
+ Skip to content 
+
+ Navigation Menu
+
+ Sign in Appearance settings
+
+ Platform AI CODE CREATION GitHub Copilot Write better code with AI 
+ GitHub Copilot app Direct agents from issue to merge 
+ MCP Registry Integrate external tools 
+
+ DEVELOPER WORKFLOWS Actions Automate any workflow 
+ Codespaces Instant dev environments 
+ Issues Plan and track work 
+ Code Review Manage code changes 
+ Code Quality Enforce quality at merge 
+
+ APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities 
+ Code security Secure your code as you build 
+ Secret protection Stop leaks before they start 
+
+ EXPLORE Why GitHub 
+ Documentation 
+ Blog 
+ Changelog 
+ Marketplace 
+
+ View all features 
+
+ Solutions BY COMPANY SIZE Enterprises 
+ Small and medium teams 
+ Startups 
+ Nonprofits 
+
+ BY USE CASE App Modernization 
+ DevSecOps 
+ DevOps 
+ CI/CD 
+ View all use cases 
+
+ BY INDUSTRY Healthcare 
+ Financial services 
+ Manufacturing 
+ Government 
+ View all industries 
+
+ View all solutions 
+
+ Resources EXPLORE BY TOPIC AI 
+ Software Development 
+ DevOps 
+ Security 
+ View all topics 
+
+ EXPLORE BY TYPE Customer stories 
+ Events & webinars 
+ Ebooks & reports 
+ Business insights 
+ GitHub Skills 
+
+ SUPPORT & SERVICES Documentation 
+ Customer support 
+ Community forum 
+ Trust center 
+ Partners 
+
+ View all resources 
+
+ Open Source COMMUNITY GitHub Sponsors Fund open source developers 
+
+ PROGRAMS Security Lab 
+ Maintainer Community 
+ GitHub Stars 
+ Archive Program 
+
+ REPOSITORIES Topics 
+ Trending 
+ Collections 
+
+ Enterprise ENTERPRISE SOLUTIONS Enterprise platform AI-powered developer platform 
+
+ AVAILABLE ADD-ONS GitHub Advanced Security Enterprise-grade security features 
+ Copilot for Business Enterprise-grade AI features 
+ Premium Support Enterprise-grade 24/7 support 
+
+ Pricing 
+ Search / 
+
+ Sign in 
+ Sign up Appearance settings
+
+ You signed in with another tab or window. Reload to refresh your session. 
+ You signed out in another tab or window. Reload to refresh your session. 
+ You switched accounts on another tab or window. Reload to refresh your session. 
+
+ Dismiss alert 
+
+ {{ message }}
+
+ associazione-rousseau
+
+ / 
+
+ camelot-flutter 
+
+ Public 
+
+ Notifications
+ You must be signed in to change notification settings 
+
+ Fork
+ 11 
+
+ Star
+ 14 
+
+ Code 
+
+ Issues 
+ 60 
+
+ Pull requests 
+ 0 
+
+ Actions 
+
+ Projects 
+
+ Security and quality 
+ 0 
+
+ Insights 
+
+ Additional navigation options 
+
+ Code
+
+ Issues
+
+ Pull requests
+
+ Actions
+
+ Projects
+
+ Security and quality
+
+ Insights
+
+ Integrate Flutter to works with Decidim Backend, instead of Rousseau   #170 
+
+ New issue 
+
+ Copy link 
+
+ New issue 
+
+ Copy link 
+
+ Open 
+
+ Open 
+ Integrate Flutter to works with Decidim Backend, instead of Rousseau #170 
+
+ Copy link 
+
+ Description
+
+ fpietrosanti 
+ opened on Sep 6, 2020 
+
+ Issue body actions 
+
+ Decidim is the most used opensource Digital Democracy Platform, successfully used in Barcelona City to foster citizen participation in the political process https://decidim.org/features/ .
+
+ It has been used in Barcelona City as a success case ( https://www.decidim.barcelona/ ), funded by EU, and it's now being extended from DECODE project:
+
+ https://labgov.city/theurbanmedialab/digital-democracy-and-data-commons-dddc-a-participatory-platform-to-build-a-more-open-transparent-and-collaborative-society/ 
+
+ Decode project saw Francesca Bria (former CTO of Barcelona, actually President of Italian Innovation Fund) as Project Coordinator https://decodeproject.eu/team (See interview in Italian https://docs.decidim.org/en/publications/italian/ )
+
+ In Italy Decidim is also teached at UniMi in the Digital Democracy course http://tecnocivismo.di.unimi.it/infodiscs/view/2104 
+
+ This ticket is to analyse the technical requirement to interconnect the "Mobile Rousseau" directly to the opensource backend of Decidim, as an alternative to the closed source Associazione Rousseau's Rousseau platform.
+
+ This step would enable any political movements to achieve a 100% opensource digital democracy solution, to build a more open transparent and collaborative society, with self-governance and data ownership, but starting from the Mobile App experience of Rousseau.
+
+ Reactions are currently unavailable 
+
+ Activity
+
+ Sign up for free to join this conversation on GitHub. Already have an account? Sign in to comment 
+
+ Metadata
+ Metadata
+ Assignees
+
+ No one assigned 
+
+ Labels
+
+ No labels No labels
+
+ Type
+
+ No type 
+
+ Projects
+
+ No projects 
+
+ Milestone
+
+ No milestone 
+
+ Relationships
+
+ None yet 
+
+ Development
+
+ No branches or pull requests 
+
+ Issue actions
+ Open in GitHub Copilot app 
+
+ Footer
+
+ © 2026 GitHub, Inc.
+
+ Footer navigation
+
+ Terms 
+
+ Privacy 
+
+ Security 
+
+ Status 
+
+ Community 
+
+ Docs 
+
+ Contact 
+
+ Manage cookies
+
+ Do not share my personal information
+
+ You can’t perform that action at this time.

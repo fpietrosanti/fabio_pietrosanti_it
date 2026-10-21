@@ -1,0 +1,611 @@
+List - HackLu2006 
+
+ List
+
+ From HackLu2006
+
+ Main - CFP - Register - Venue - Agenda - Workshops - Speakers - Sponsors - CTF Contest - Archives - Contact 
+
+ Contents
+
+ 1 Renaud Deraison Opening Speech 
+
+ 2 Laurent Butti & Franck Veysset 
+
+ 3 Thierry Zoller & Kevin Finistere 
+
+ 4 Nguyen Anh Quynh 
+
+ 5 Sandip Chaudhari 
+
+ 6 Fabio Pietrosanti 
+
+ 7 Yen-Ming Chen 
+
+ 8 Andre Adelsbach 
+
+ 9 Hannes Mehnert, Andreas Bogk 
+
+ 10 Oliver Schmid 
+
+ 11 Lisa Thalheim 
+
+ 12 Koen Maris 
+
+ 13 Fravia 
+
+ 14 Wietse Venema 
+
+ 15 Van Hauser 
+
+ 16 Laurent Oudot 
+
+ 17 The grugq 
+
+ 18 Saumil Shah 
+
+ 19 Michael H. Behringer 
+
+ 20 Nicolas Fischbach 
+
+ 21 Philippe Teuwen & Cédric Blancher 
+
+ 22 Peter Haag 
+
+ 23 Bruno de Troch 
+
+ 24 Daniel Karrenberg 
+
+ 25 Benoit Claise 
+
+ 26 Raoul Chiesa 
+
+ [ edit ]
+ Renaud Deraison Opening Speech
+
+ TBA 
+
+ Biography: 
+
+ Founder and the primary author of the Nessus vulnerability scanner. He has worked for SolSoft, and founded his own computing security consulting company, "Nessus Consulting S.A.R.L.". Nessus detects network vulnerabilities and is in use at more than 50,000 worldwide organizations. Under Renaud's leadership, Nessus has won numerous awards, including the 2002 Network Computing "Well Connected" award and PC Magazine's 2003 "Open Source Product of the Year" award. Mr. Deraison also is an editorial board member of the Common Vulnerabilities and Exposures Organization, has presented at a variety of security conferences including Blackhat and CanSecWest, and has had his work published in several magazines and books.
+
+ [ edit ]
+ Laurent Butti & Franck Veysset
+
+ WiFi Advanced Stealth: 
+
+ Wireless stealth was somewhat expensive some years ago as we were required to use proprietary radios and so on... Thanks to increasingly flexible low-cost 802.11 chipsets we are now able to encode any MAC layer proprietary protocol over 2.4 GHz/5 GHz bands! This could mean stealth to everybody at low-cost!
+This presentation will focus on two techniques to achieve a good level of stealth: 
+- a userland technique exploiting a covert channel over valid 802.11 frames;
+- a driverland technique exploiting some 802.11 protocol tweaks.
+These techniques are somewhat weird! That’s one reason they resist the action of scanners and wireless IDS!
+
+ Biographies: 
+
+ Franck Veysset is a network security expert working for France Telecom R&D security labs. His activities are focused on Wi-Fi security, honeypot, and more generally IP security.
+He has presented at numerous technical and security conferences (ToorCon, Shmoocon, Eurosec, First, LSM...). He is also a program chair member of different conferences (FIRST, SSTIC, JSSI...). Aside from these activities, he is member on the board of the French Information Systems and Network Security Observatory, and a member of the French chapter of the Honeynet project.
+
+ Laurent Butti is a network security senior expert working at France Telecom R&D labs. His areas of research are focused on wireless security (IEEE 802.11, IEEE 802.16...), honeypots and worms. He spoke at numerous security focused conferences (ToorCon, ShmooCon, FIRST, EuroSec...). He is also the author of several Open Source tools.
+
+ [ edit ]
+ Thierry Zoller & Kevin Finistere
+
+ Bluetooth Hacking revisited 
+
+ During the last 3 years multiple Vulnerabilities in Bluetooth implementation as well in the Protocol itself have been found. Due to the immense saturation of mobile phones and wireless communication means in Luxembourg we investigated the vulnerabilities within Bluetooth implementation to such a degree we found new ones.
+During the speech we will give a brief introduction about what Bluetooth actually is, demonstrate known vulnerabilities and new ones. We will dig into Bluetooth worms, various Bluetooth stacks and Operation system vulnerabilities.
+Live Demos planned: (if impossible a failover to pre-recorded videos is planned)
+- The classics : Bluesnarfing, Blue bug, HelloMoto .. etc.pp
+- New ones  : OSX Bluetooth Stack flaws, Hardware Bluetooth sniffer 
+(capturing key exchange during the authentication phase and using the Session key to attack a device) Macintosh BT Worms, Denial of Service bugs, Long range BT Weapons, cracking BT PIN, spoofing devices.
+
+ Inqtana - Hack.lu Release  : http://www.digitalmunition.com/hacklu.html 
+
+ BTCrack - Hack.lu Release  : http://www.nruns.com (coming soon)
+
+We will also discuss organisational security aspects, like having a single Bluetooth USB dongle plugged in by an employee giving access to the internal network to a remote attacker.
+
+ Biographies :
+
+ Kevin Finisterre 
+
+ is the former Head Of Research and Co-founder of SNOSoft, Inc. aka Secure Network Operations. Kevin's primary focus has been on the dissemination of information relating to the identification and exploitation of software vulnerabilities on various platforms. Apple, IBM, SAP, Oracle, Symantec, and HP are among many vendors that have had problems that were identified by Kevin. Kevin is currently very active in the Bluetooth scene. He enjoys testing 
+the limits and is constantly dedicated to thinking outside the box. His current brainchild is the project he calls http;//www.DigitalMunition.com.
+
+ Thierry Zoller 
+
+ currently works as a Security Consultant at n.runs GmbH . 27 years old originating from Luxembourg, he has worked as a Security Consultant at Telindus PSF (Luxembourg) before N.runs and has collected a tremendous amount of experience within banking sector. Specialised in penetration testing he targeted Bluetooth only as a hobby. His personal website can be found at http://secdev.zoller.lu 
+
+ [ edit ]
+ Nguyen Anh Quynh
+
+ Towards an Invisible Honeypot Monitoring System: 
+
+ Honeypot is a decoy system to trap attackers, and data capture tool is one of the core components of the honeypot architecture. The most vital requirement of this key component is that it must function as stealthily as possible, so the intruder is not aware of its presence. Currently Sebek is the most sophisticated tool for this purpose. Unfortunately Sebek is rather easy to detect, even with unprivileged right access. This talk discusses the drawbacks of Sebek, then proposes an architecture and implementation of a tool named Xebek. Based on Xen Virtual Machine technology, Xebek aims to address the most outstanding problems of Sebek. While Xebek provides the similar features as Sebek does, our tool is far more "invisible" and harder to uncover. The experimental results also demonstrate that Xebek is more flexible, while the reliability and efficiency are significantly improved over its counterpart.
+
+ Biography: 
+
+ Nguyen Anh Quynh is a PhD student of Keio university,Japan. His research interests include computer security, networking,forensic, virtualization, robust system and Operating System. He is
+one of the key contributors of Xen Virtual Machine, and he also contributes to various other open source projects. Currently he is working on security problems of virtual machines, specifically focus on Xen.
+
+ Quynh has published several academic papers on computer security, and frequently presents his research papers in academic conferences. He is also very interested in the industrial conferences, where he can meet and exchange ideas with other people in the hacking community. He
+strongly believe that the key to a succesful presentation is to balance academic and practical problems.
+
+ [ edit ]
+ Sandip Chaudhari
+
+ Smashing Heap by Free Simulation: 
+
+ Most of the current exploits around buffer overflows are heap overflow based. Have you been involved in third generation heap overflow based hacking techniques? No? Interested? Then it is time for you to get deep insight into internals of existing techniques, heap management and the free-simulation. If you've already looked at the heap overflows, was your focus on free()? Would you like to checkout exploits that work with malloc() next time? 
+
+ Let's smash heap, and then smash stack! Free simulation makes it possible. Presentation would involve detailed explanation of the free-simulation and further condense of the exact logical instructions triggering it. Further, the aim is to add a relatively easy technique for heap-based overflows, to the researcher's exploit-techniques' tool bag. By the end of the presentation, you should feel quite comfortable and confident to approach heap based overflow exploitations, especially using free-simulation. 
+
+ Biography: 
+
+ Working as a Software Security Expert for a reputed Financial Firm located in New York, USA. Started career as an Application Developer, gained 2 years of development experience, then got interested in Software Security. Have been working in the field of Software Security since last 2 years. Recently involved in the exploit research on Heap-Based Overflows and in the development of SOAP protocol based fuzzers. 
+
+ [ edit ]
+ Fabio Pietrosanti
+
+ Exploiting hidden services to setup anonymous communication infrastructure: 
+
+ Will be introduced the concepts of anonymous VPN, the technologies that can be effectively used for such 'security technology' with a focus on TOR hidden services. The talk will not enter the details of TOR routing but explain effective solutions that can be deployed with this anonymous network, scenarios in which it can be used, considerations to be taken while setting up anonymous services, advantages of anonymous services.
+Will be presented a free anonymous email, IM, Wiki and shell services (as many as will be ready for the hack.lu ;>) that promote the use of of anonymous services in the TOR community. Contribution to the idea to create a community project will be asked.
+
+ Biography: 
+
+ Fabio Pietrosanti is active in the Italian underground scene until 1996. Member of s0ftpj group http://www.s0ftpj.org , co-organizer of sikurezza.org http://www.sikurezza.org (the biggest security mailing list in italy) was founder of Italian Blackhats Association http://www.blackhats.it .
+Published research on the first national Fiber ISP infrastructures http://www.s0ftpj.org/bfi/online/bfi10/BFi10-13.html on the Butchered From Inside magazine, the oldest and well known hacking magazine available in italy http://www.s0ftpj.org/bfi/bfi-en.html , 
+Published in 2000 and 2001 several vulnerability of Cisco Pix Firewall http://seclists.org/lists/bugtraq/2001/Mar/0148.html and http://seclists.org/lists/bugtraq/2000/Oct/0046.html .
+Partecipated to italian electronic privacy conference e-privacy http://e-privacy.firenze.linux.it managed by the Anonymous group named Winston Smith http://e-privacy.firenze.linux.it/pws/index-e.html .
+Wrote for several italian IT and IT Sec magazines such as WeekIT and ICT Security and supported several articles on national newspapers on the subject of information security (wireless security, phishing, hacking, frauds, etc, etc)
+Conducted the first Italian Wireless Security Survey in 2001 in Milan which was published by several magazines and newpapers.
+Teached to the Security Task Force of the Italian National Center of Research ( CNR ) and to the students of Economic University of Castellanza.
+Is currently working as CTO of KHAMSA SA, a swiss company active in unconventional technologies for the protection of data, email messaging, mobile and fixed voice in the international financial, government and telecommunications markets.
+
+ [ edit ]
+ Yen-Ming Chen
+
+ Triple Play; Triple threats ? - IPTV Security: 
+
+ The “Triple-play” strategy (Data, Voice and Video) is set to enable Telecoms to increase their Average Revenue per Unit (ARPU) and revolutionize current home entertainment. IPTV generated revenue is expected to have 102% CAGR from year 2004 – 2010. While security issues in Data and Voice of the “Triple-Play” strategy have been examined in details, not much has been done in the IPTV field. In this presentation, we will look at IPTV’s advantages in business, architecture, threats and some of the vulnerabilities that have been seen on the field. The IPTV architecture comprise of the Content Source, Head-End, Delivery and Management network and Consumer Home network. Current security threats (malicious attackers, worms or disasters) could stop the Telecoms from making profit or even losing money. The presentation will present some real-life weaknesses and vulnerabilities and provide countermeasures for Telecoms.
+
+ Biography: 
+
+ Yen-Ming Chen , Senior Principal Consultant
+
+ Yen-Ming leads Foundstone consultants to provide strategic security consulting services to Global 2000 clients. With almost a decade of experience in IT and security, Yen-Ming brings extensive knowledge in both business and technology to his clients. He established the Asia-Pacific branch in Singapore for Foundstone and has been instrumental in growing business for Foundstone in APAC before the acqusition. He has performed security assessments for external/internal, web applications, different technologies and services for financial, telecom, IT, healthcare and manufacturing industries. He contributed to Four books and numerous articles published on SecurityFocus and other medias in the U.S. and Asia-Pacific. He's frequent speaker for conferences like CSI, MISTI and other conferences in Asia-Pacific. He also served as a Lead Instructor for Foundstone's Ultimate Hacking series classes. 
+Before joining Foundstone, Yen-Ming worked at Carnegie Mellon University and he created the first intrusion detection system appliance prototype using PicoBSD and Snort. He also wrote the first intrusion detection log correlation and analysis program, snort-stat, for Snort. Yen-Ming held a MS in Information Networking from Carnegie Mellon University and a BS in Mathematics from National Central University. He passed his CISSP and MCSE tests in 2001.
+
+ [ edit ]
+ Andre Adelsbach
+
+ Data Broadcasting by Misuse of Satellite ISPs: 
+
+ Most wireless communication techniques are broadcast media by nature on the physical layer, i.e., the actual signal can be received by any party in a certain coverage area.
+
+ A common means to perform secure unicast point-to-point communication over such wireless infrastructures is by applying cryptographic protocols on higher layers: both communication end-points (commonly user and carrier) set up a session key, which is then used to build private and authentic unicast communication by means of encryption and message authentication.
+As of today, a common assumption in the design and analysis of such communication protocols is that both end-points (user and carrier) behave correctly according to the cryptographic protocol, because they want to preserve security against outsiders.
+
+ However, if carriers have more power/resources in terms of bandwidth or coverage, users may not be interested in protecting their unicast communication against outsiders at all. Instead, users may try to extend their communication power/resources by means of insider attacks against the
+communication protocol. Therefore, such insider attacks pose new threats to these protocols and have, to the best of our knowledge, been neglected so far.
+
+ Biography: 
+
+ André Adelsbach studied computer science at Saarland University (Germany) where he focused on security and cryptography. In 2000 he graduated and joined the chair for "Cryptography and Security" of Prof. Dr. Birgit Pfitzmann at Saarland University as a Phd student. During his employment at Saarland University André worked on IST FP5 project MAFTIA, where he was
+involved in the verification and assessment of cryptographic protocols and was a member of the project's executive board since June 2002. In 2004, André joined the Horst Görtz Institute for IT Security, where he continued his PhD studies on cryptographic copyright protection.
+
+ André authored several international publications in the context of digital rights management, security of satellite data services and broadcast encryption. Furthermore he is a program committee member and reviewer for various conferences and journals. For his work on authorship proof systems André received IBM's Best Paper Award "E-Markets: New types of electronic
+commerce . 
+
+ In May 2006 André joined Telindus PSF as a Security Consultant.
+
+ [ edit ]
+ Hannes Mehnert, Andreas Bogk
+
+ Secure networking: 
+
+ The security industry is in a paradox situation: many security appliances and analysis tools, be it IDS systems, virus scanners, firewalls or others, suffer from the same weaknesses as the systems
+they try to protect. What makes them vulnerable is the vast amount of structured data they need to understand to do their job, and the bugs that invariably manifest in parsers for complex protocols if written in unsafe programming languages.
+
+ We present the design and implementation of a domain-specific language (DSL) for description of structured byte-oriented protocols that addresses this problem. The DSL is applicable to a wide range of problems, such as network communication or file formats, and allows the programmer to write an abstract definition of some packet format, from which parsers and generators are then created automatically. That mechanism saves the programmer from tedious manual work for
+supporting new protocols, and at the same time prevents him from introducing vulnerabilities into the parsing process.
+
+ Our DSL is implemented on top of Dylan, a dynamically typed, object-oriented programming language. It makes heavy use of the Dylan macro facility to extend the language for the domain of packet format description, without sacrificing performance in the process. Beyond the safety gained by automating the parser creation process, Dylan provides additional security by its strong typing, mandatory bounds checking and automated memory management.
+
+ We also show the implementation of a userland TCP/IP stack, which uses the packetizer DSL for description of network packet formats, as well as a packet flow graph framework for packet processing and a layering mechanism for protocol handling.
+
+ The flow graph allows the user to connect packet processing nodes such as packet sources, sinks, decapsulators, demultiplexers and filters into complex arrangements for handling packets. It can be used to implement applications like filtering bridges or network analysis tools in just a couple of lines of code.
+
+ The layering mechanism handles the stacking of protocol layers. In theory, one OSI layer corresponds to one instance of a layer object, there are for instance layers to handle Ethernet, IP and UDP, which are stacked on top of each other. In practice, TCP/IP has parts which cannot be clearly attibuted to a specific OSI layer (ARP being the prominent example), so we handle bonding of layers using adapter objects, which know about both the layers they connect. Stackability of layers allows easy implementation of protocols such as IP-over-ICMP.
+
+ Biography: 
+
+ Andreas Bogk is a well-known Open Source software author and member of
+the board of the Chaos Computer Club. His security work includes the
+first published proof-of-concept for GSM smart card cloning
+( http://www.ccc.de/gsm/ ), attacks on the EC ATM card system, as well
+as work about the DVD CSS algorithm and Trusted Computing TPM
+mechanism. He's also one of the core members of the group maintaining
+the Open Source Dylan compilers ( http://www.opendylan.org/ ), and
+focuses on the development of secure computing environments these
+days.
+
+ Hannes Mehnert is a student of computer science at the Technical
+University of Berlin and a member of the CCC Berlin. He has spent the
+last six years mostly on software development, software security and
+network security, worked as freelance security consultant, was member
+of the NOC team on the last five Chaos Communication Congresses
+( http://www.ccc.de/congress/ ). He prefers to disclose his experiences
+with reverse engineering and large scale attacks on a personal basis. 
+Nowadays he focuses on development of secure systems using Dylan, and 
+is also part of the group maintaining the Open Source Dylan compilers.
+
+ Both authors significantly contributed to the Dylan Hackers' success
+( http://www.hoult.org/bruce/icfp2005/ ) at the 2005 ICFP Programming
+contest ( http://icfpc.plt-scheme.org ), where the team scored both the
+second and the judges prize.
+
+ [ edit ]
+ Oliver Schmid
+
+ An empirical analysis of malware: 
+
+ The first part of the talk chronologically reviews the history of viruses, worms and Trojans from the first self-replicating program to the multifunctional exemplars of the present and how they have developed through time. Initially, the growing number of attributes malware programs can have will be looked at, as will the question how viruses and worms have become increasingly complex in recent years by combining more and more of these abilities. The pioneers of the innovations and the most prominent representatives of each era will be referred to exemplarily. Furthermore, triggers and reasons for the mentioned developments will be illuminated in the context of conditions and changes in the "living environment" of malware.In the second part, the data used from the past eight years will initially be viewed descriptively and subsequently analysed. At the outset, the share of different malware types and certain characteristics and their development over time will be explained. The results of the following cluster analysis will show the different development 
+phases since 1998 and particularly emphasise in which years more innovations emerged and when malware has advanced little. After this a factor analysis will clarify which attributes are connected closely to others and how the large number of variables can be reduced to few specifying factors. In the end the myth of how phishing and email worms are linked will be put into perspective and the most important trends in the area of malware will be pointed out in recapitulation.
+
+ Biography: 
+
+ Oliver Schmid studied Information Systems (Wirtschaftsinformatik)at the University of Mannheim. Since 2002 he has been research assistant to Prof. Entorf at the Department of Applied Economics and Microeconometrics, Institute of Economics, TU Darmstadt. His PhD thesis on “internet criminality” focuses on malware and spam.
+
+ [ edit ]
+ Lisa Thalheim
+
+ Security in Grid Computing: 
+
+ Grid Computing has been a buzz for a while now in the "Future of Computing" department.
+But why should someone interested in computer security care about it?
+Number one, it's not necessarily only a hype. It is concerned with problems we will increasingly meet in real-world applications. Number two, these problems are exciting from a hacker's point of view.
+In short, Grid Computing is Distributed Computing with some added problems, mainly that
+of heterogenity and that of trust across organizational boundaries. Research areas to look at in Grid Computing Security include the numerous security-related standards, de-facto standards, architectures and concepts the Grid Community has developed during the last decade. They also include looking at actual implementations of Grids or Grid frameworks.
+This talk aims at
+
+ Informing the audience about the specific security-related challenges Grid Computing faces
+
+ Explaining the existing concepts and solutions to meet these challenges as well as their shortcomings
+
+ Giving an estimation and an overview of the code quality in some Grid implementations, summarizing the result of code audits
+
+ Ultimately providing the audience with the basic information they need to go out and start investigating Grid Computing Security themselves
+
+ Biography: 
+
+ Lisa has spent a good part of the last seven years making and breaking software. She has worked in the field of wireless network security, biometrics, and bug finding in source and binaries. After four years of professional experience in software engineering and coding, she started working as a
+freelance computer security consultant two years ago, auditing software for security issues in both source and binary form. In the remaining time, she has worked on her duties as a student and is about to complete her diploma degree of Computer Science at the Humboldt University of Berlin, working on the issue of Security in Grid Computing.
+
+ [ edit ]
+ Koen Maris
+
+ Sensible defence: 
+Security is not product related only, improving your products and manage your risk is mandatory to 
+keep up with the latest threats. However some basic tools do increase your security but it is debatable if 
+all these tools enhance your security in the way you expect perhaps they just give you a false sense of security. A false sense of security is the best cure for your conscious yet less effective against a real attack.
+Security is about risks and how you manage it, if you like to build good security you need to perform risk management and periodically measure risk against your security template. Attacks shift and so does your budget assignment. Simple questions can reveal more needs and address security in those 
+areas of importance.
+
+ Quote from Bruce Schneier
+
+ What are we trying to protect?
+
+ What risks to these assets?
+
+ How well is the solution in mitigating those risks?
+
+ What other risks does the solution cause?
+
+ What costs and trade­off does the solution impose?
+
+ Risk Management an excellent mediator to gain an objective view on your security strategy. However it consumes a lot of valuable time and resources. But wasn't it important to implement security in thebeginning of a project? Exactly, when your project is defined and you know more or less your 
+destination risk management can be your guide to find the way.
+By starting to integrate your security request as early as possible in a project life cycle you increase the security as such and you reduce costs on a long term perspective. Remember you have to sell your 
+security, at the end it is politics. It comes down to the weight you have in the decision and the motivation you used in the selling process.
+To integrate successfully your risk management result you should define where what to invest. 
+Managing risks is more than just integrate technology controls. In security we protect the CIA triangle but to protect it you use 3 sometimes 4 different mechanisms. The four basic elements are prevention, 
+detection, response and sometimes prediction, the latter is probably the hardest one to achieve.
+Balancing out these four will give you a sensible security mechanism which align with budget restraints and complies with your regulatory obligations.
+
+ Biography: 
+
+ Started with software development for small business to end with managing large corporate networks and their systems. In the early Internet era in Europe my attention was caught by the insecurity of most connected business. This launched me into the complex matter of IT security which switched to a more general term Information Security. Today I am an active member in www.issa.org and www.isc2.org.
+
+ [ edit ]
+ Fravia
+
+ How to find anything underneath the commercial web: Powersearching without google: 
+
+ The Path of the Seeker
+
+ Like a skilled native, the able seeker has become part of the web. He knows the smell of his forest: the foul-smelling mud of the popups, the slime of a rotting commercial javascript. He knows the sounds of the web: the gentle rustling of the jpgs, the cries of the brightly colored mp3s that chase one another among the trees, singing as they go; the dark snuffling of the m4as, the mechanical, monotone clincking of the huge, blind databases, the pathetic cry of the common user: a plaintive cooing that slides from one useless page down to the next until it dies away in a sad, little moan. In fact, to all those who do not understand it, today's Internet looks more and more like a closed, hostile and terribly boring commercial world. Yet if you stop and hear attentively, you may be able to hear the seekers, deep into the shadows, singing a lusty chorus of praise to this wonderful world of theirs -- a world that gives them everything they want. 
+The web is the habitat of the seeker, and in return for his knowledge and skill it satisfies all his needs. 
+The seeker does not even need any more to hoard on his hard disks whatever he has found: all the various images, musics, films, books and whatsnot that he fetches from the web... he can just taste and leave there what he finds, without even copying it, because he knows that nothing can disappear any more: once anything lands on the web, it will always be there, available for the eternity to all those that possess its secret name. 
+The web-quicksand moves all the time, yet nothing can sink. 
+In order to fetch all kinds of delicious fruits, the seeker just needs to raise his sharp searchstrings. In perfect harmony with the sourronding internet forest, he can fetch again and again, at will, any target he fancies, wherever it may have been "hidden". The seeker moves unseen among sites and backbones, using his anonymity skills, his powerful proxomitron shield and his mighty HOST file. If need be, he can quickly hide among the zombies, mimicking their behaviour and thus disappearing into the mass. 
+Moving silently along the cornucopial forest of his web, picking his fruits and digging his jewels, the seeker avoids easily the many vicious traps that have been set to catch all the furry, sad little animals that happily use MSIE (and Outlook), that use only one-word google "searches", and that browse and chat around all the time without proxies, bouncing against trackers and web-bugs and smearing all their personal data around. 
+Moreover the seeker is armed: his sharp browser will quickly cut to pieces any slimy javascript or rotting advertisement that the commercial beasts may have put on his way. His bots' jaws will tear apart any database defense, his powerful scripts will send perfectly balanced searchstrings far into the forest. 
+
+ Biography: 
+
+ Fravia, on the web since 1995, is a very old teacher of many things obscure, speaks five languages, and has always searched and reversed anything in sight for fun and knowledge.
+
+ [ edit ]
+ Wietse Venema
+
+ Secure programming traps and pitfalls: 
+
+ Wietse analyzes a very small program that appears to be obviously
+correct, yet completely fails to perform as expected, for more
+reasons than many people can think of. The audience is expected
+to have some programming experience, but detailed knowledge of C,
+UNIX or Windows is not required.
+
+ Biography: 
+
+ Wietse Venema is a research staff member at the IBM T.J.Watson
+research center. After completing his Ph.D. in physics he changed
+career to computer science and never looked back. Wietse is known
+for his software such as the TCP Wrapper and the POSTFIX mail
+system. He co-authored the SATAN network scanner and the Coroner's
+Toolkit for forensic analysis, and co-authored a book on forensic
+discovery. Wietse received awards from the System Administrator's
+Guild (SAGE) and from the Netherlands UNIX User Group (NLUUG). He
+served a two-year term as chair of the international Forum of
+Incident Response and Security Teams (FIRST).
+
+ [ edit ]
+ Van Hauser
+
+ IPv6 Security and insecurity: 
+
+ coming soon
+
+ Biography: 
+
+ van Hauser / THC, n.runs GmbH 
+
+ In 1995, van Hauser founded the longest living hacking group which is still
+highly active today: The Hacker’s Choice (www.thc.org). In his long history of
+greyhat activities, Van Hauser has created some well loved tools like
+THC-Scan, hydra & amap (also part of Nessus), secure_delete, parasite and many
+more; He has also written numerous research papers including “Placing
+Backdoors through Firewalls”, “How to cover your tracks” and “Anonymizing Unix
+Systems”. He has presented at various international network security
+conferences.
+
+ [ edit ]
+ Laurent Oudot
+
+ Web Hackers vs Search Engines, and more...: 
+
+ New concepts of threats and *0-day* will be released during that talk.
+The goal is to explain how blackhats currently play on the Web, in order
+to commit cyber-crimes. More specifically we'll see how they can abuse
+Search Engines (like Google, MSN, Yahoo..) to target Internet end-users,
+companies, etc. By showing real examples, this should help the security
+community to understand some unknown web threats.
+
+ Biography: 
+
+ Laurent Oudot is a security expert currently employed by the CEA (french
+equivalent of the US DOE). He is a member of a white-hat team called
+"Rstack". His research focus on defensive technologies highly close to
+blackhats activities like honeypots, IPS/IDS, FW...
+Concerning honeypots, he is a member of the Steering Committee of the
+Honeynet Research Alliance. Laurent is also the (co-)author of several
+research papers published at Security Focus, MISC magazine, etc.
+Last years, he has presented at international conferences and meetings
+such as Black Hat USA/Asia/Europe, Cansecwest, Defcon, Pacsec, Hope, etc.
+
+ [ edit ]
+ The grugq 
+
+ Tactical VoIP: VoIPhreaking Intensive 
+
+ The Tactical VoIP series of trainings teach Voice over IP security assessment for practitioners. This workshop will focus on developing in depth SIP protocol knowledge and executing basic attacks against SIP infrastructure. The TacVoIP Toolkit (TacVTK) will be used to carry out
+common exploits, as well as to implement new novel attacks. A great chance to expand your understanding of VoIP security threats.
+
+ Biography 
+
+ The Grugq is a domain expert consultant on VoIP security, digital forensic analysis and reverse engineering. The Grugq has spent 7 years working with all aspects of information security, from penetration testing to solutions and product development. The Grugq's career has seen him working for financials, security consulting companies, start-ups and, most recently, founding his own information security company.
+
+ The Grugq's information security expertise ranges from penetration testing and source code auditting, through to rootkit technologies and advanced digital forensic analysis and investigation. Since 2001 the Grugq has been involved in active Voice over IP security research, recently
+completing successful audits for major European and Asian telcos.
+
+ The Grugq's domain expertise in VoIP security has seen him present at conferences, release advisories and complete assessments for national European and major Asian telcos. Additionally, he has developed strategic whitepapers for enterprise VoIP deployments. Based on his experiences with numerous audits, the Grugq has developed a VoIP security assessment tool suite to
+facilitate more accurate, effective and rapid VoIP centric penetration testing.
+
+ [ edit ]
+ Saumil Shah 
+
+ Writing Metasploit plugins - from vulnerability to exploit 
+
+ This talk shall focus on exploit development from vulnerabilities. We have seen many postings on security forums which vaguely describe a vulnerability, or sometimes provide a "proof-of-concept" exploit.
+
+ The Metasploit Framework is a powerful tool to assist in the process of vulnerability testing and exploit development. The framework can also be used as an engine to run exploits, with different payloads and post-exploitation mechanisms.
+
+ In this talk, we shall look at how we can construct exploits from published vulnerabilities, using facilities provided by the Metasploit framework. A Unix and a Windows vulnerability example shall be covered. Next we shall demonstrate how to write this exploit as a Metasploit plug-in, so that it can be integrated into the Metasploit Framework.
+
+ Participants shall get insights into discovery and verification of vulnerabilities, finding the entry points, gaining control of program flow, choices of shellcode and finally writing a working exploit for the vulnerability. Participants shall also get an overview of Metasploit's internal modules and how to integrate custom exploits with the Metasploit framework.
+
+ Bring-Your-Own-Laptop! This session is quite interactive and hands-on. We shall be hosting a local area network during this session, which features an exploit laboratory. We shall be crafting exploits along the session and trying them out.
+
+ Biography 
+
+ Saumil Udayan Shah
+Founder and CEO, Net-Square Solutions Pvt. Ltd.
+saumil@net-square.com
+
+ Saumil continues to lead the efforts in e-commerce security research and product development at Net-Square. His focus is on researching vulnerabilities with various e-commerce and web based application systems, system architecture for Net-Square's tools and products, and developing short term training programmes. Saumil also provides information security consulting services to Net-Square clients, specializing in ethical hacking and security architecture. He holds a designation of Certified Information Systems Security Professional. Saumil has had more than nine years experience with system administration, network architecture, integrating heterogenous platforms, and information security and has perfomed numerous ethical hacking exercises for many significant companies in the IT area. Saumil is a regular speaker and trainer at security conferences such as BlackHat, RSA, IT Underground etc.
+
+ Previously, Saumil was the Director of Indian operations for Foundstone Inc, where he was instrumental in developing their web application security assessment methodology, the web assessment component of FoundScan - Foundstone's Managed Security Services software and was instrumental in pioneering Foundstone's Ultimate Web Hacking training class.
+
+ Prior to joining Foundstone, Saumil was a senior consultant with Ernst & Young, where he was responsible for the company's ethical hacking and security architecture solutions. Saumil has also worked at the Indian Institute of Management, Ahmedabad, as a research assistant and is currently a visiting faculty member there.
+
+ Saumil graduated from Purdue University with a master's degree in computer science and a strong research background in operating systems, networking, infomation security, and cryptography. At Purdue, he was a research assistant in the COAST (Computer Operations, Audit and Security Technology) laboratory. He got his undergraduate degree in computer engineering from Gujarat University, India. Saumil is a co-author of "Web Hacking: Attacks and Defense" (Addison Wesley, 2002) and is the author of "The Anti-Virus Book" (Tata McGraw-Hill, 1996)
+
+ [ edit ]
+ Michael H. Behringer 
+
+ Detecting Router Abuse 
+
+ Are your routers secure? Probably. But how do you know if someone unauthorised has gained access to it? Or one of your operators has configured something he shouldn't? For example a tunnel, bypassing some security mechanism. Would you know about it? 
+
+ This presentation gives some clues as to how to detect "unexpected" access to a router and unauthorised configurations on it. This presentation is "work in progress" - discussion is welcome.
+
+ Biography 
+
+ Michael Behringer works at Cisco Systems as a distinguished engineer, where he focuses on service provider core and security issues, such as MPLS security, NGN security, and Denial-of-Service attack prevention. Prior to joining Cisco in 1998, he worked at the European Internet Service Provider DANTE, based in Cambridge, UK. Here he attained the position of senior network engineer and was responsible for the design and implementation of DANTE's pan-European networks. Michael holds a diploma in computer science from the Technical University of Munich. He is an active member of the IETF, and has published several papers, RFCs, and a book on MPLS VPN security.
+
+ [ edit ]
+ Nicolas Fischbach 
+
+ In SPace, nobody can hear you scream 
+
+ Biography 
+
+ Nicolas Fischbach is a Senior Manager, in charge of the European Network Security Engineering team at COLT Telecom , a leading pan-European provider of end-to-end business communications service. 
+
+ He holds an Engineer degree in Networking and Distributed Computing and is a recognized authority on Service Provider infrastructure security and denial-of-service attacks mitigation.
+
+ Nicolas is co-founder of Sécurité.Org a French speaking portal on computer and network security, of eXperts an informal security research group and of the French Honeynet Project , French chapter of the The Honeynet project .
+
+ He has presented at numerous technical and security conferences, teaches networking and security courses at various universities and engineering schools, and is a regular contributor to the french security magazine MISC magazine .
+
+ More details and contact information on his homepage .
+
+ [ edit ]
+ Philippe Teuwen & Cédric Blancher
+
+ 802.11 Security, inaccessible star? 
+
+ Wi-Fi Home Networks have an history laden of security threats. WEP is dead three times (minimum!), WPA and WPA2 are claimed to give you the security but who teaches the mass how to setup them properly? And Wi-Fi democratization means also more unaware dummies.
+The session will cover WEP/WPA/WPA2, including weaknesses and attacks in the context of SOHO networks, both on theoretically and practically aspects with live demos.
+Then a discussion will be held on the new Wi-Fi Protected Setup standard elected by the Wi-Fi Alliance to answer to the increasing need of an easy and secure way to bootstrap Wi-Fi SOHO networks.
+
+ The audience is expected to be familiar with technologies such as WEP, WPA, 802.11i and some basic crypto knowledge will probably help keeping alert ;-)
+
+ Biographies: 
+
+ Holder of a Master of Science at ENST Bretagne, Cédric has been working in the IT Security field for 7 years, as a consultant performing audits, pentests and training, then as research engineer specialized in network security. He's now in charge of EADS Corporate Research Center IT Security Lab.
+
+ Philippe Teuwen is a security engineer promoting the Near Field Communication technology of NXP (former Philips Semiconductors) at Wi-Fi Alliance in the creation process of the new standard for Wi-Fi easy and secure configuration.
+He is also one of the pioneers of Reseau Citoyen at Brussels.
+
+ [ edit ]
+ Peter Haag 
+
+ NetFlow analysis with nfdump and NfSen 
+
+ For network security teams of any size, an accurate analysis of the traffic situation is essential. The well-known traffic graphs, do not give enough information especially to investigate security related incidents. To work with netflow data turned out to be a good balance between collecting and processing the data and the information gained from this process. 
+
+ A lot of tools to collect netflow data are available, but the flexibility to process the flows was either poor, or resulted in expensive commercial systems. The Open Source tools nfdump and NfSen close this gap. They provide a flexible and powerful system to collect and process netflow data for a great variety of tasks.
+
+ The presentation starts with a small introduction of netflow and explains how nfdump and NfSen can be used to look at your network traffic, to create easily top N statistics of hosts and networks demanding most bandwidth of your network, as well as to detect host and port scans. It shows how a security incident can
++be tracked and profiled. Last but not least it gives an overview how to extend 
+NfSen with custom plugins for dedicated tasks specific to your network. 
+
+ Biography 
+
+ Peter Haag is a member of SWITCH-CERT, the Swiss Education & Research Network CERT. He received a master's degree (1991) in electrical engineering from the Swiss Federal Institute of Technology in Zurich and worked as a digital hardware design engineer for four years. In 1995 he changed into the design, development and operation of Internet Server Systems. In 2002 Peter Haag joined SWITCH as an network security engineer. Within SWITCH-CERT he is in charge of incident handling, Computer Forensics, Malware Analysis and security tool design. He is the author of the open source netflow tools nfdump and NfSen. At the moment he is actively involved in several projects doing netflow analysis.
+
+ [ edit ]
+ Bruno de Troch 
+
+ Using BGP to distribute traffic flow specifications 
+
+ The Border Gateway Protocol (BGP) is the protocol put in place at Autonomous System (AS) boundaries to exchange reachability information between different peers. Its use in the current Internet is primarily limited to the exchange of destination prefixes (IPv4 and IPv6). However, the same protocol semantics, syntax and algorithms are well suited to distribute traffic flow specifications through a newly defined Network Layer Rachability Information (NLRI) encoding format. A direct application is the automated inter-domain coordination of traffic filtering to mitigate (distributed) denial of service attacks.
+
+ Biography 
+
+ Bruno De Troch is a Senior Systems Engineer at Juniper Networks. He's primarily focused on core and access IP/MPLS networks and their specific challenges. His customer base includes large service providers and carriers in the EMEA region.
+
+ [ edit ]
+ Daniel Karrenberg 
+
+ DNS Security 
+
+ Biography 
+
+ Daniel Karrenberg currently serves the RIPE NCC as Chief Scientist. His interests include Internet measurements, the development of the DNS and the evolution of what others often call "Internet Governance". Recently Daniel helped to design, develop and test NSD, a high performance DNS implementation; he also conceived and helped to build dnsmon, a novel comprehensive quality monitor for DNS service.
+
+ [ edit ]
+ Benoit Claise 
+
+ NetFlow has become the leading technology for accounting, analysis, and security. The technical session explains the latest NetFlow features and developments, and how to use those features specifically in the security context. An important portion of this interactive session will be dedicated to the new Flexible NetFlow feature, while the latest IPFIX development will be briefly touched.
+
+ Biography 
+
+ Benoit Claise attended the industrial superior Gramme institute in Liege (Belgium) and the Louvain-La-Neuve university in Louvain (Belgium).
+From 1993 to 1996, Benoit worked for AT&T Research/Lucent, focusing on OSI network management researchs. He joined Cisco Systems as a customer support engineer in the Technical Assistance Center network management team, where he passed the CCIE certification (#2868), before becoming an escalation engineer. He is now a Cisco Distinguished Engineer focusing on IP services architectures. His area of expertise is the network management device instrumentation: accounting, performance, fault management, and so on. Focusing specifically on NetFlow, he is a key contributor to IPFIX and PSAMP IETF standardization efforts.
+
+ [ edit ]
+ Raoul Chiesa 
+
+ A new approach to Cybercrime: the Hacker's Profiling Project (HPP) 
+
+ This talk will detail the results learned from the first year of activity of the HPP research study, developped by Raoul Chiesa, a security researcher and Dr. Stefania Ducci, a criminologic researcher at UNICRI (United Nations Interregional Crime and Justice Research Institute, ONU). The research project includes the dissemination of questionnaires, the installation of targetted Honeynet systems and the cross-linked analysis of computer intrusions and IT attacks.
+You will discover how many myths about the hackers and the so-called "security underground world" have been often misunderstood, giving to this world kind of a "black vision", taking away the attention from the really important psychological and technical issues of a reality in continuous development.
+
+ Biography 
+
+ Raoul Chiesa was born in Turin on 3rd July 1973: he has been one of the first hackers in Italy.
+
+ His first wanderings on the international computer networks of the biggest Eighties and Nineties companies date back to 1986, when he was 13, under the nickname of Nobody After a series of sensational interferences, such as telcos and other military, governmental, and financial institutions, he was officially recognised as one of the main members of the European and North American hacker scene by international authorities in 1995.
+
+ As founder and C.T.O. of @ Mediaservice.net, an italian vendor-independent, security consulting firm, Raoul Chiesa has been active in the field of computer security research at a high level since 1997, together with a team of experts and technicians who gave their contribution to national and international Security R&D projects.
+
+ In 2000, Prof. Danilo Bruschi, President of CLUSIT, asked him to be a founder member of the Italian Association for Computer Security; since the first year of activity of the association, Raoul Chiesa has been a member of its Board of Directors, participating in the work of the Study Commission about the Certifications in Computer Security and acting as a coordinator of the Open Source and Security’s Commission.
+
+ In 2002, two security researchers and Raoul founded the italian-based association â€œBlackhats.itâ€, a group of security experts and hackers, some of whom working in the field of ICT, who decided to collaborate as a single entity. It is a handful of computer security professionals, strongly linked to underground world and genuine hacker philosophy, men and women who devoted themselves to technological innovations and to the improvement of security standards on the Internet.
+
+ Since 2003, Raoul Chiesa is the Southern Europe Referent for TSTF (Telecom Security Task Force), an international panel of consultants with high level skills on telcos present in four continents; in the same year Raoul Chiesa was elected in the ISECOM’s International Executive Board, following his role of Director of Communications for the Institute (2004).
+
+Retrieved from " http://www.hack.lu/index.php/List "
+
+ Views
+
+ Article 
+ Discussion 
+ Edit 
+ History 
+
+ Personal tools
+
+ Create an account or log in 
+
+ Navigation
+
+ Main Page 
+
+ Recent changes 
+
+ Archive 
+
+ hack.lu 2005 
+
+ Search 
+
+ Toolbox
+
+ What links here 
+
+ Related changes 
+
+ Upload file 
+ Special pages 
+ Printable version 
+
+ This page was last modified 15:45, 20 October 2006.
+ This page has been accessed 5,808 times.
+ Content is available under GNU Free Documentation License 1.2 .
+ About HackLu2006 
+ Disclaimers

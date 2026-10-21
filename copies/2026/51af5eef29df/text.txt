@@ -1,0 +1,205 @@
+Hermes Center for Transparency and Digital Human Rights — Graph — Make AI Good 
+ Skip to content Make AI Good Graph Trust About Graph · Organisation 
+ Graph · Organisation 
+ Hermes Center for Transparency and Digital Human Rights
+
+Network continuity
+
+Arrived from the corpus map with this entity selected.
+ Return to the selected neighbourhood .
+
+ 01 · In focus
+
+One organisation, in the field .
+
+The structured facts the source records about Hermes Center for Transparency and Digital Human Rights, the
+ count of declared adjacencies in the corpus, and the federation map zoomed on this node and its neighbours. 
+
+ organisation 
+ ↑ 7 declared connections 
+ Kind Organisation 
+ Status active 
+ Confidence high 
+ Location Italy (Milan and Rome team distribution) 
+ Founded 2012 
+ Website https://www.hermescenter.org/ 
+ Entity ID org-hermes-center 
+ Network View in network 
+ Tags italy, milan, rome, european-union, continental-europe, non-profit, ngo, edri-member, digital-rights, human-rights, ai-and-human-rights, algorithmic-accountability, algorithmic-transparency, ai-act, ai-redress, biometric-surveillance, facial-recognition, emotion-recognition, mass-surveillance, surveillance, privacy, data-protection, whistleblower-protection, free-software, globaleaks, ooni, censorship-measurement, deepfakes, advocacy 
+
+ Hermes Center for Transparency and Digital Human Rights · 5 
+direct neighbours visible
+
+ 02 · Connections
+
+ 7 adjacencies, by relation .
+
+Split by direction. Direct links are the ones Hermes Center for Transparency and Digital Human Rights’s
+ source record names; inferred backlinks are records elsewhere in
+ the corpus that point at this entity.
+
+Some records appear in both because the corpus names them from
+ both sides — those rows carry a ↔ 
+note.
+
+ 01 Direct from this record 
+ 3 links 
+ Links named in this entity's structured fields.
+ Adjacent to 
+ 2 links 
+ European Digital Rights (EDRi) Organisation ↔ both sides
+
+ Homo Digitalis Organisation ↔ both sides
+
+ Funded by 
+ 1 link 
+ Hivos Funder 
+
+ 02 Inferred backlinks 
+ 4 links 
+ Other records that name this entity.
+ Participates in 
+ 2 links 
+ EDRi-coordinated Reclaim Your Face European Citizens' Initiative against biometric mass surveillance (2020–2022) Campaign 
+ Privacy International and allies' GDPR complaints against Clearview AI across Europe (2021–ongoing) Campaign 
+ Adjacent to 
+ 2 links 
+ European Digital Rights (EDRi) Organisation ↔ both sides
+
+ Homo Digitalis Organisation ↔ both sides
+
+ 03 · Background
+
+From the source record .
+
+Body prose as it appears in movement-graph’s published
+ markdown for this entity. Links to other corpus entities resolve
+ to their graph page; links to deeper repo paths are kept as text
+ so the page does not invent a route.
+
+ The Hermes Center for Transparency and Digital Human Rights is an Italian non-profit civil-society organisation that fights for the protection of digital human rights and treats technology, in its own words, as "an enabling tool for freedom, not surveillance". Founded in 2012 by a group of programmers around the GlobaLeaks anonymous-whistleblowing project , the organisation has since become Italy's principal civil-society anchor on biometric mass surveillance, AI Act implementation, and the algorithmic-transparency interface between Italian and European-Union institutions, and is the corpus's first Italian entry alongside the EDRi Brussels network it has belonged to since 2018.
+
+ Founding and structure
+
+ Hermes was formally registered in 2012 after the GlobaLeaks project — initiated in late 2010 by Fabio Pietrosanti and shared into the Italian hacktivist community on 15 December 2010 — surfaced the need for an organised civil-society vehicle that could carry the underlying privacy-and-transparency agenda in Italy. The founding circle was drawn from the Progetto Winston Smith (PWS) community, described by EDRi as "the most active members of Italian privacy communities", and the resulting organisation has remained a hybrid of software production, research, and advocacy rather than a single-mandate policy NGO. Today the staff combine "technologies, lawyers and journalists" and advise democratic institutions on personal data, digital sovereignty, artificial intelligence, platform accountability, whistleblower protection, and open data.
+
+ The team is distributed across Milan and Rome rather than concentrated in a single headquarters office — the EDRi-coordinated Don't Spy EU coverage describes Hermes as "Milan-based", while the OONI project that the organisation now fiscally hosts is led from Rome. Fabio Pietrosanti continues as Founding Member and President; Arturo Filastò serves as a co-founder and Executive Director / CTO of OONI; Laura Carrer leads research and advocacy in the Digital Rights Unit; and Riccardo Coluccini handles EU regulations, advocacy, and campaigns. The organisation published a monthly newsletter, , that aggregates Italian and European digital-rights and AI-policy coverage for a civil-society readership.
+
+ Software projects
+
+ Two open-source projects anchor the organisation's software portfolio. GlobaLeaks is the anonymous-whistleblowing framework whose development Hermes leads and which is now in use by more than 300 organisations worldwide — investigative-journalism collectives, anti-corruption hotlines, whistleblower-protection lawyers, and a growing number of public-administration anti-corruption desks — and which the organisation has positioned as the technical foundation for the implementation of Italy's transposition of the EU Whistleblower Directive. Tor2web was the secondary project named in EDRi's 2018 member spotlight, a gateway making Tor-hidden services accessible over the regular web, retired in 2018 once the project's underlying assumptions about reverse-proxying onion services no longer matched the way modern hidden services were being used.
+
+ A third project — the Open Observatory of Network Interference (OONI) — sits in a hybrid relation: born in 2012 inside the Tor Project and since 2020 fiscally hosted by Hermes , OONI ships a probe-and-research pipeline that measures internet censorship across the world from open methodologies. The Mozilla Foundation in 2024 supported the launch of Makhno, an OONI-Hermes-built tool that exposes geographic patterns in social-media platform censorship — one strand of the wider OONI work-package that has fed the regular OONI Country Reports, the Tor Project's measurement requirements, and a long tail of academic-partnership research outputs.
+
+ Biometric mass surveillance and the Italian moratorium
+
+ Hermes Center's most consequential campaigning work since 2020 has been the multi-front challenge to biometric mass surveillance in Italy, conducted primarily through the Reclaim Your Face coalition that EDRi launched in October 2020 and of which Hermes was a founding civil-society partner.
+
+ The 2020 Como city investigation, conducted by Hermes researchers Laura Carrer and Riccardo Coluccini, exposed the unlawful deployment of a municipal facial-recognition system on the city's CCTV network and contributed to the system's shutdown. In May 2021 Hermes filed a joint complaint with the Italian Data Protection Authority (Garante per la protezione dei dati personali) against Clearview AI — co-signed by Privacy International , noyb, and Homo Digitalis — that on 9 March 2022 produced an Italian DPA decision fining the company EUR 20 million, ordering it to delete the personal and biometric data of Italian residents from its scraped 10-billion-image database, ordering it to cease further processing of Italian data, and ordering it to designate an EU representative; the Italian decision was the first European national-DPA fine of its size against Clearview and was widely cited in the wider European regulatory record against scraped-image biometric databases.
+
+ On 16 April 2021 the Italian DPA rejected the deployment of the Sistema Automatico di Riconoscimento Immagini Real Time (SARI Real Time) facial-recognition system that the Italian Police had procured for live public-space biometric identification, finding that the system "lacks a legal basis" and would constitute a shift "from targeted surveillance of few individuals to the possibility of universal surveillance for the purpose of identifying certain individuals" — a substantive framing the corpus's Italian record on facial recognition has used as its anchor ever since. Hermes Center, credited as the Italian Reclaim Your Face lead , had pressed the DPA to conclude the investigation and secured public confirmation that 287 Italian municipalities that had received Ministry of the Interior funding to install new video-surveillance systems would not be permitted to attach biometric-recognition technologies.
+
+ On 23 June 2021 the organisation submitted a complaint against the ShareArt emotion-recognition system developed by ENEA in collaboration with Istituzione Bologna Musei and deployed in an Italian museum to infer the emotional reactions of visitors to artworks — arguing the system constituted "unlawful real-time processing of biometric data" without adequate consent or transparency and that such uses "should not be allowed in the European Union". The complaint contributed to the wider Italian and European pushback against deployment-by-stealth of emotion-recognition technologies in public-facing settings.
+
+ On 1 December 2021 the Italian Parliament introduced a temporary moratorium on private-sector facial-recognition use in publicly accessible places — covering shops, sports halls, and public transport — running until 31 December 2023 and enforceable through GDPR-style administrative fines, with law-enforcement and judicial-authority use exempted but conditioned on case-by-case DPA approval. The moratorium was the first national-level facial-recognition ban inside the European Union and was directly attributed by EDRi to the work of "Italian partners of the Reclaim Your Face coalition", with Hermes Center named as the lead Italian organisation; Laura Carrer's published commentary that the moratorium framing was too narrow — restricted to facial recognition rather than the full class of biometric mass-surveillance technologies — anchored the subsequent Italian and European push to broaden the prohibition language in the EU AI Act.
+
+ AI Act and AI redress mechanisms
+
+ Through 2022–2024 Hermes Center's policy work converged with the EU AI Act trilogue. On 23 November 2023 the organisation launched the Don't Spy EU campaign with The Good Lobby Italia and info.nodes — building on a first May 2023 campaign iteration — whose interactive site at dontspy.eu let users select an EU lawmaker and "scan" their photo with off-the-shelf remote-biometric-identification software, simulating both real-time identification and deepfake generation against the lawmaker's image to demonstrate that publicly available RBI tools are, in the campaign's own words, "virtually incapable of distinguishing" between authentic photographs and deepfakes. The campaign called on lawmakers to vote for a full AI Act ban on real-time and post-RBI in public spaces and explicitly opposed the partial-restriction compromises some Member States were proposing.
+
+ Since the AI Act's entry into force on 1 August 2024 the organisation has reoriented towards the implementation phase. In April 2026 Hermes presented a policy paper on AI redress mechanisms at the Italian Chamber of Deputies, on 26 February 2026 it ran a webinar on AI Act redress mechanisms with the Center for Democracy & Technology Europe, and on 11 May 2026 it published an open letter to the European Union pressing the Commission on the delay in establishing the AI Advisory Forum required under the AI Act. The redress-mechanism work — concerned with how individuals affected by AI-system decisions can access remedies under both the AI Act and the GDPR — is the organisation's current AI-policy spear-tip and is being developed in coordination with the wider CDT Europe / EDRi implementation cluster.
+
+ Coalition work
+
+ Hermes Center has been a member of the European Digital Rights (EDRi) network since 2 May 2018 , part of a four-organisation simultaneous intake (with FSFE, NOYB, and Xnet) that brought the EDRi network to 39 members across 19 countries; through EDRi it co-signs the network's coordinated civil-society statements on the AI Act and on biometric mass surveillance, and Hermes's Italian work routes regularly into the EDRi member-spotlight and Italian-national tagged coverage.
+
+ On 7 October 2024 the organisation co-founded the Rete per i Diritti Umani Digitali (Italian Digital Human Rights Network) alongside Amnesty International Italia, The Good Lobby Italia, Privacy Network, Period Think Tank, and StraLi for Strategic Litigation — a six-organisation civil-society network presented at the Festival Digitale Popolare in Turin and committed in its founding manifesto to defending fundamental rights in digital contexts, promoting "governance autonoma per l'intelligenza artificiale" (autonomous governance for artificial intelligence), and proposing policies for ethical technology use. Within the network Hermes and Privacy Network share the privacy / mass-surveillance file, The Good Lobby Italia and Period Think Tank carry the inclusive technology-governance work, StraLi pursues strategic litigation, and Amnesty International Italia covers the freedom-of-expression-and-privacy frontier — a division of labour the corpus's Italian shape will follow as further entries are added.
+
+ Funding
+
+ Hermes Center's funding mix has historically been a combination of foundation grants, project-specific donor support, and small-scale private donations and volunteering. EDRi's 2018 Member Spotlight named Hivos (Den Haag) and the Open Technology Fund (Washington) as the organisation's principal foundation funders, alongside private donations and volunteer time. The 2024 Mozilla Foundation support for the OONI/Hermes-built Makhno tool sits alongside the longer-running OONI-side donor base, and the organisation continues to operate at a small-team scale relative to its larger EDRi peers — closer to the Italian civil-society norm for digital-rights NGOs than to a Brussels-policy-shop staffing model.
+
+ Posture in the movement
+
+ In the corpus's frame, Hermes Center occupies the technologists building free-software public-interest infrastructure who then carry the resulting standing into national and European policy on-ramp, with three features that distinguish it from its European peers. The first is the GlobaLeaks software-production base — the organisation's standing inside the wider European digital-rights field rests not only on its policy-advocacy outputs but on having shipped and maintained an open-source whistleblowing framework that hundreds of organisations now depend on, which has given Hermes a credibility with both technical-community and public-administration audiences that pure policy NGOs find harder to assemble. The second is the OONI fiscal-host relationship — the censorship-measurement research pipeline that OONI operates from inside Hermes makes the organisation an unusual hybrid of empirical-network-measurement infrastructure and policy advocacy, well suited to the Italian and European AI-policy environments in which technical evidence is increasingly load-bearing on regulatory decisions. The third is the consistently Italy-first stance — most EDRi members anchor their work at the Brussels-EU layer with national engagement as derivative, while Hermes's centre of gravity is the Italian DPA, the Italian Parliament, the Italian municipalities procuring biometric-surveillance systems, and the Italian civil-society Rete network, with the EU-level work treated as a complement rather than the primary surface. In the wider EDRi geography, Hermes pairs with Bits of Freedom (Netherlands), La Quadrature du Net (France), AlgorithmWatch (Germany), and the Panoptykon Foundation (Poland) as the principal national-level European digital-rights anchors operating around the AI-and-biometric-surveillance file, and is the corpus's first entry on the Italian wing of that map.
+
+ 04 · Sources
+
+Where this came from .
+
+ 12 sources 
+listed from the pinned corpus. Links are shown only when the
+ source URL is a valid HTTP(S) address.
+
+ 12 sources linked out 
+ 10 body mentions linked into the corpus 
+ 0 references kept as text 
+ hermescenter.org 
+ Checked 2026-05-20 URL https://hermescenter.org/chi-siamo/ 
+ Hermes Center's own about page in Italian — primary source for the 2012 founding by "un gruppo di programmatori" with the original mandate to produce software supporting people threatened by surveillance, the current programmes (GlobaLeaks; OONI; advocacy and lobbying against biometric mass surveillance; coalition-building), the 2024 co-founding role in the Rete per i Diritti Umani Digitali, and the Italian ClearView AI ban as a named campaign win
+
+ hermescenter.org 
+ Checked 2026-05-20 URL https://www.hermescenter.org/ 
+ Hermes Center's English-facing home page — primary source for the current AI-and-human-rights programme line (AI redress mechanisms; AI Act implementation; algorithmic surveillance), the April 2026 policy paper presentation at the Italian Chamber of Deputies on AI redress mechanisms, the 26 February 2026 CDT Europe webinar on AI Act redress, the 14 November 2025 Mozilla Festival 2025 participation in Barcelona, the 11 May 2026 letter to the EU on the AI Advisory Forum delay, and the </Monitor> monthly newsletter
+
+ edri.org 
+ Checked 2026-05-20 URL https://edri.org/our-work/member-in-the-spotlight-hermes-center/ 
+ EDRi's 2018 Member Spotlight on Hermes Center — primary secondary source for the formal 2012 registration in Italy, the lineage from "Project Winston Smith" (PWS) gathering "the most active members of Italian privacy communities", the framing of GlobaLeaks (whistleblowing framework used by 300+ organisations) and Tor2web as the foundational software projects, and the 2018-era named funders Open Technology Fund (Washington) and Hivos (Den Haag) plus private donations
+
+ edri.org 
+ Checked 2026-05-20 URL https://edri.org/our-work/welcoming-new-edri-members-fsfe-hermes-center-noyb-and-xnet/ 
+ EDRi announcement of new members — primary source for Hermes Center's 2 May 2018 admission to the EDRi network alongside FSFE, NOYB, and Xnet, the four-organisation simultaneous intake that brought EDRi to 39 members across 19 countries, and the description of Hermes as promoting "transparency and accountability by supporting and developing free software" with emphasis on whistleblowing solutions and Tor-network support
+
+ unesco.org 
+ Checked 2026-05-20 URL https://www.unesco.org/ethics-ai/en/civil-society-organizations/hermes-center 
+ UNESCO Global AI Ethics and Governance Observatory profile of Hermes Center — secondary source for the 2012 founding, the staff composition of "technologies, lawyers and journalists", the AI-related work areas (AI Standards; Data, Privacy and Data Justice; Ethical Governance and Policy; Human Rights; Non-discrimination), and the documentation of expert advice to democratic institutions on personal data, digital sovereignty, artificial intelligence, platform accountability, and whistleblower protection
+
+ reclaimyourface.eu 
+ Checked 2026-05-20 URL https://reclaimyourface.eu/italian-dpa-fines-clearview-ai-for-illegally-monitoring-and-processing-biometric-data-of-italian-citizens/ 
+ Reclaim Your Face report on the 9 March 2022 Italian Data Protection Authority decision fining Clearview AI EUR 20 million — primary secondary source for Hermes Center initiating the May 2021 joint complaint alongside Privacy International, noyb, and Homo Digitalis, the DPA order to delete Italian biometric data and designate an EU representative, and Clearview's 10-billion-image scraped-image database as the underlying business model
+
+ reclaimyourface.eu 
+ Checked 2026-05-20 URL https://reclaimyourface.eu/italy-dpa-blocks-facial-recognition-system-mp-proposes-moratorium/ 
+ Reclaim Your Face report on the 16 April 2021 Italian DPA decision rejecting the SARI Real Time facial-recognition system acquired by the Italian Police — primary source for the DPA finding that the system "lacks a legal basis" and would constitute a shift "from targeted surveillance of few individuals to the possibility of universal surveillance for the purpose of identifying certain individuals", and for Hermes Center's role in pressing the DPA to conclude its investigation
+
+ edri.org 
+ Checked 2026-05-20 URL https://edri.org/our-work/no-place-for-emotion-recognition-technologies-in-italian-museums/ 
+ EDRi article on the 23 June 2021 complaint Hermes Center filed with the Italian DPA against the ShareArt emotion-recognition system developed by ENEA in collaboration with Istituzione Bologna Musei — primary secondary source for Hermes's argument that ShareArt constitutes "unlawful real-time processing of biometric data" and for Riccardo Coluccini's contribution to the article as a Reclaim Your Face national campaign contributor
+
+ edri.org 
+ Checked 2026-05-20 URL https://edri.org/our-work/italy-introduces-a-moratorium-on-video-surveillance-systems-that-use-facial-recognition/ 
+ EDRi report on the Italian facial-recognition moratorium law introduced on 1 December 2021 with a deadline of 31 December 2023 — primary secondary source for Hermes Center's campaign role through the Reclaim Your Face Italian coalition, for Laura Carrer's identification as "Research and Advocacy at Digital Rights Unit, Hermes Center" and Riccardo Coluccini as Reclaim Your Face national campaign contributor, and for the temporary ban on private entities using facial recognition in publicly accessible places (shops, sports halls, public transport) under GDPR-style administrative fines
+
+ edri.org 
+ Checked 2026-05-20 URL https://edri.org/our-work/ai-act-what-happens-when-lawmakers-faces-get-scanned-with-face-recognition-algorithms/ 
+ EDRi article on the 23 November 2023 launch of the Don't Spy EU campaign by Hermes Center alongside The Good Lobby Italy and info.nodes — primary secondary source for the campaign's dontspy.eu interactive tool that simulates remote biometric identification and deepfakes on EU lawmakers' photos, the campaign's demand for a full AI Act ban on real-time and post-RBI in public spaces, and the demonstration that off-the-shelf RBI software is "virtually incapable of distinguishing" between authentic photographs and deepfakes
+
+ hermescenter.org 
+ Checked 2026-05-20 URL https://hermescenter.org/nasce-la-rete-per-i-diritti-umani-digitali-ecco-il-nostro-manifesto/ 
+ Hermes Center's own announcement of the 7 October 2024 founding of the Rete per i Diritti Umani Digitali (Italian Digital Human Rights Network) — primary source for the six-organisation founding roster (Hermes Center, Amnesty International Italia, The Good Lobby Italia, Privacy Network, Period Think Tank, StraLi for Strategic Litigation), the network's manifesto principles of "governance autonoma per l'intelligenza artificiale" (autonomous governance for artificial intelligence) and ethical technology use, and the network's presentation at the Festival Digitale Popolare in Turin
+
+ en.wikipedia.org 
+ Checked 2026-05-20 URL https://en.wikipedia.org/wiki/Hermes_Center_for_Transparency_and_Digital_Human_Rights 
+ Wikipedia article on Hermes Center — secondary tiebreaker corroborating the 2012 founding date, the formal incorporation as an Italian non-profit association, and the GlobaLeaks / Tor2web / OONI project lineage
+
+Source: entities/organizations/org-hermes-center.md — movement-graph pin de3aad3 .
+
+ Make AI Good 
+Built by MAG’s website team. Graph data
+ comes from movement-graph ; all
+ source is open at Make
+ AI Good on GitHub .
+
+ Surfaces
+ Graph discovery tool 
+ Trust 
+ About 
+
+ Federation
+ GitHub organisation 
+ movement-graph (pin de3aad3 ) 
+
+ Newsletter
+ Subscribe to the newsletter 
+
+ movement-graph pin de3aad3 v1 · 2026

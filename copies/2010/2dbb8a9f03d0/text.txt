@@ -1,0 +1,392 @@
+Hickhack um Test für Handyverschlüsselung | heise online
+
+ heise+ entdecken 
+
+ Suchen Abo 
+
+ Suchen 
+
+ Alle Magazine im Browser lesen 
+ IT News 
+ Newsticker 
+ Hintergründe 
+ Ratgeber 
+ Testberichte 
+ Meinungen 
+
+ Online-Magazine 
+ heise + 
+ Telepolis 
+ heise autos 
+ bestenlisten 
+ tipps+tricks 
+
+ Services 
+ heise shop 
+ heise jobs 
+ heise academy 
+ heise download 
+ heise preisvergleich 
+ Tarifrechner 
+ heise compaliate 
+ Abo bestellen 
+ Mein Abo 
+ Netzwerktools 
+ iMonitor 
+ Loseblattwerke 
+ Spiele 
+
+ Über uns 
+ heise medien 
+ heise regioconcept 
+ heise business services 
+ Sponsoring 
+ Mediadaten 
+ Karriere 
+ Presse 
+
+ Anzeige Special: Collaboration im KI-Zeitalter 
+
+ Newsletter 
+ heise-Bot 
+ Push -Nachrichten 
+
+ ${intro}
+
+ ${title}
+
+ ${lead} 
+
+ ${intro}
+
+ ${title}
+
+ ${lead} 
+
+ ${content}
+
+ heise+
+
+ Das Beste aus heise+
+
+ Zur heise+ Startseite
+
+ ${content}
+
+ heise online
+
+ Top-Beiträge von heise online
+
+ Zur heise online Startseite
+
+ ${content}
+
+ heise online
+
+ Most popular articles by heise online
+
+ ${content}
+
+ Newsticker 
+ Security 
+ IT & Tech 
+ Developer 
+ KI 
+ Entertainment 
+ Wissenschaft 
+ Bestenlisten 
+ Digital Health 
+ Foren 
+ Alle Themen 
+
+ Anzeige
+ Special: Collaboration im KI-Zeitalter 
+
+ Anzeige
+
+ Hickhack um Test für Handyverschlüsselung
+
+ Der deutsche Hersteller Securstar soll bei einem vermeintlich unabhängigen Test von Verschlüsselungslösungen für Handys, in dem sein Produkt als eines der wenigen als sicher abschneidet, seine Finger im Spiel gehabt haben.
+
+ vorlesen 
+
+ Druckansicht
+
+ 22 
+ Kommentare lesen 
+
+ 02.02.2010,
+
+ 14:00
+
+ Uhr 
+
+ Lesezeit:
+ 3 Min.
+
+ Security
+
+ Von
+
+ Daniel Bachfeld
+
+ Anzeige
+
+ Der Vorwurf wiegt schwer: Der deutsche Hersteller Securstar soll bei einem vermeintlich unabhängigen Test von Verschlüsselungslösungen für Handys, in dem sein Produkt als eines der wenigen als sicher abschneidet, seine Finger im Spiel gehabt haben. Der Test soll von einem bislang unbekannten Hacker mit dem Pseudonym Notrax durchgeführt worden sein. Notrax hat nach eigenen Angaben 16 Lösungen daraufhin untersucht, ob sie sich gegen Lauschangriffe gegen lokal installierte Trojaner wie Flexispy wehren können.
+
+ Weiterlesen nach der Anzeige
+
+ Notrax hat seine Ergebnisse auf der Webseite infosecurityguard.com veröffentlicht. Recherchen von Fabio Pietrosanti, dem Gründer des Securstar-Konkurrenten KHAMSA , sollen allerdings ergeben haben, dass Notrax' Internetverbindungen direkt aus dem Securstar-Firmennetzwerk herrühren. Darauf war Pietrosanti bei der Analyse seiner Server-Logs gestoßen, nachdem er auf infosecurityguard.com einen Kommentar zu dem Test hinterlassen hatte. Offenbar war Notrax einem Link im Kommentar später gefolgt, sodass sich in den Server-Logs von Pietrosanti nun eine IP-Adresse von Notrax fand – die offiziell Securstar gehören soll. 
+
+ Die IP-Adresse allein beweist zwar den Zusammenhang nicht. Der Logeintrag enthielt jedoch zusätzlich den Referrer http://infosecurityguard.com/wp-admin/edit-comments.php , also den Link zur Kommentarverwaltung des Wordpress-Blogs, von dem Notrax kam. Da üblicherweise nur Administratoren auf dieses Wordpress-Modul Zugriff haben, liegt der Schluss nahe, dass jemand aus dem Securstar-Netz administrativen Zugriff auf das Blog auf infosecurityguard.com hat. Bemerkenswerterweise hatte Pietrosanti über die IP-Adresse sogar Zugriff auf die TK-Anlage von Securstar, die offenbar ohne weitere Sicherung im Netz hängt. Aktuell sind die Webserver von Securstar gestört; auch der Mailserver nimmt keine Mails entgegen.
+
+ Securstars Geschäftsführer Wilfried Hafner hat einen Zusammenhang mit Notrax gegenüber britischen Medien abgestritten. Notrax müsse zufälligerweise die Anonymisierungslösung SurfSolo von Securstar benutzt haben, bei der der Anwender nach außen sichtbar mit der Securstar-IP-Adresse unterwegs ist. Allerdings nutzen die SurfSolo-Proxys eigentlich einen anderen IP-Adressraum.
+
+ Der umstrittene Test datiert zwar auf Anfang Januar, ins Gerede kam der Test aber erst Ende vergangener Woche, als Securstar über seine Media-Agentur Sprengel und Partner eine Pressemitteilung dazu veröffentlichte. Darin heißt es, "dass nahezu alle namhaften Programme unsicher sind" – darunter auch die Secusmart-Lösung, die demnächst bei 5000 Handys von Mitarbeitern der deutschen Bundesregierung und der Kanzlerin zum Einsatz kommen sollen. Als unknackbar hätten sich von den bisher getesteten Lösungen nur sehr wenige erwiesen. Unter den Testsiegern sei auch die Software PhoneCrypt von Securstar.
+
+ Sprengel und Partner hat sich unterdessen von der Pressemitteilung distanziert und mit sofortiger Wirkung die Zusammenarbeit mit SecurStar gekündigt. Man sei anscheinend gezielt mit Fehlinformationen versorgt worden. Aber nicht nur Sprengel hat die Zusammenarbeit beendet, bereits im September des vergangenen Jahres hatte der Anonymisierungsdienstleister privat.li Verträge mit Securstar wegen "unethischen Verhaltens" gekündigt .
+
+ Hafner brachte sich und Securstar in der Vergangenheit schon mit dem obskuren Handy-Trojaner RexSpy ins Gerede, der in der Lage sein sollte, Geräte mit einer simplen SMS infizieren zu können. Demonstrationen der Lücke fanden aber statt unter kontrollierten Bedingungen nur bei dubiosen Treffen mit Journalisten statt. Auch damals lautete der Vorwurf (PDF) von Kritikern, dass es sich um eine Marketingaktion gehandelt habe.
+
+ ( dab ) 
+
+ Dieser Link ist leider nicht mehr gültig.
+
+ Links zu verschenkten Artikeln werden ungültig,
+ wenn diese älter als 7 Tage sind oder zu oft aufgerufen wurden.
+
+ Sie benötigen ein heise+ Paket, um diesen Artikel zu lesen. Jetzt eine Woche unverbindlich testen – ohne Verpflichtung! 
+
+ Wochenpass bestellen
+
+ Sie haben heise+ bereits abonniert?
+
+ Hier anmelden.
+
+ Oder benötigen Sie
+
+ mehr Informationen zum heise+ Abo
+
+ Kommentare lesen
+ (22)
+
+ Zur Startseite
+
+ Security
+
+ Newsletter
+
+ Ob Sicherheitslücken, Viren oder Trojaner – alle sicherheitsrelevanten Meldungen gibts bei heise security
+
+ E-Mail-Adresse
+
+ Jetzt anmelden
+
+ Ausführliche Informationen zum Versandverfahren und zu Ihren
+ Widerrufsmöglichkeiten erhalten Sie in unserer
+ Datenschutzerklärung .
+
+ Anzeige
+
+ Anzeige
+
+ Je weiter oben, desto sorgloser der KI-Einsatz
+
+ Warum Weiterbildung neu organisiert werden muss
+
+ Fünf Vorteile von Enterprise Browsern
+
+ Eine Smartwatch, die Leben retten kann
+
+ Sicherheit und Geräteverwaltung gehören zusammen
+
+ Wie UX-Design Hardware und Software verbindet
+
+ So werden Data-Compliance-Anfragen überschaubar
+
+ Digitale Transformation ohne Abhängigkeiten
+
+ Warum Firmen die KI-Infrastruktur anpassen sollten
+
+ So gelingt ein globaler System-Rollout
+
+ Mehr zum Thema
+
+ Immer informiert bleiben: Klicken Sie auf das Plus-Symbol an einem Thema, um diesem zu folgen. Wir zeigen Ihnen alle neuen Inhalte zu Ihren Themen.
+
+ Mehr erfahren.
+
+ Mobiles
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Security
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Smartphone
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Technik
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Verschlüsselung
+
+ laden... 
+
+ Thema gefolgt 
+ Thema folgen 
+ Entfolgen 
+
+ Teile diesen Beitrag
+
+ Kurzlink:
+
+ https://heise.de/-919951
+
+ Beliebte Bestenlisten
+ Alle bestenlisten 
+
+ Letzte Chance auf starke Rabatte 
+ bestenlisten 
+
+ Top 10: Das beste Mini-Tablet im Test 
+ bestenlisten 
+
+ Top 10: Display für Carplay und Android Auto im Test 
+ bestenlisten 
+
+ Alle bestenlisten 
+
+ Anzeige
+
+ Anzeige
+
+ Alle Angebote
+
+ IT News
+
+ Newsticker 
+
+ Hintergründe 
+
+ Ratgeber 
+
+ Tests 
+
+ Meinungen 
+
+ Online-Magazine
+
+ heise + 
+
+ Telepolis 
+
+ heise autos 
+
+ bestenlisten 
+
+ tipps+tricks 
+
+ Services
+
+ heise shop 
+
+ heise jobs 
+
+ heise academy 
+
+ heise download 
+
+ heise preisvergleich 
+
+ Tarifrechner 
+
+ heise compaliate 
+
+ Abo bestellen 
+
+ Mein Abo 
+
+ Netzwerktools 
+
+ iMonitor 
+
+ Loseblattwerke 
+
+ Spiele 
+
+ Über Uns
+
+ heise medien 
+
+ heise regioconcept 
+
+ heise business services 
+
+ Sponsoring 
+
+ Mediadaten 
+
+ Karriere 
+
+ Presse 
+
+ Newsletter
+
+ heise-Bot
+
+ Push
+
+ Push-Nachrichten
+
+ nach oben
+
+ Kontakt
+
+ Impressum
+
+ Barriere melden
+
+ Verträge kündigen
+
+ Cookies & Tracking
+
+ Datenschutz
+
+ Mediadaten
+
+ 475791
+
+ Content Management by InterRed
+
+ Hosted by Plus.line
+
+ Copyright © 2025 heise medien
+
+ Vertrag widerrufen
+
+ kopieren 
+
+ heise+ ab 2,99 € pro Woche lesen Jetzt heise+ entdecken – ab 2,99 € pro Woche 
+ Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. 
+
+ Hier bestellen
