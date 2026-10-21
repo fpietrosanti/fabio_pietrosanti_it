@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2026-04-08",
+  "year": 2026,
+  "type": "video",
+  "outlet": "YouTube — Fund Longevity (Global Live Stream)",
+  "title": "Fund Longevity – Global Live Stream (collegamento da Roma)",
+  "url": "https://www.youtube.com/watch?v=4CHvbryuUb4",
+  "language": "en",
+  "role": "participant (visual only)",
+  "note": "Ri-trovato. Controllo 2026-10-21 su metadati (yt-dlp info.json: titolo 'Fund Longevity – Global Live Stream 20260409', durata 5565 s, was_live) e sottotitoli automatici en-orig (json3): il nome Pietrosanti/Fabio/naif/biohack NON compare né in descrizione né nei sottotitoli. Il programma in descrizione indica 17:23–17:25 CET = Roma; nel video il collegamento da Roma è a 43:32–45:14, introdotto dalla conduttrice come 'Ferdinando in Rome' (parla l'organizzatore del rally romano, non Fabio). Resta valido solo il riconoscimento visivo già registrato (Fabio sui fotogrammi, 07/10/2026). Nessun capitolo YouTube.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2020-11-11",
+  "year": 2020,
+  "type": "video",
+  "outlet": "Ciao Internet - Matteo Flora (YouTube)",
+  "title": "781. OpenRousseau e Open-Democracy: esiste davvero un modo di avere un sistema trasparente?",
+  "url": "https://www.youtube.com/watch?v=HKFkvkZCvrQ",
+  "language": "it",
+  "role": "context",
+  "note": "Versione YouTube della puntata Spreaker del 2020-11-11 già in archivio (intervista a Denis 'Jaromil' Roio su OpenRousseau). Trovata con ricerca YouTube 'OpenRousseau'. Descrizione e sottotitoli non leggibili (YouTube 'Sign in to confirm you are not a bot', non aggirato; WebFetch restituisce solo il titolo). Nessuna prova del nome: da unire alla voce Spreaker come mirror, oppure scartare se l'ascolto non lo cita. Data presunta = quella della puntata Spreaker.",
+  "verified": false,
+  "known": false
+ }
+]

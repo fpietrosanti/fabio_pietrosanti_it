@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2006-02-10",
+    "year": 2006,
+    "type": "talk",
+    "outlet": "Infosecurity Italia 2006, Milano - Area Demo IT Security (official Reed Exhibitions programme PDF 'La nuova area demo di IT security')",
+    "title": "Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialita' (venerdi 10 febbraio, ore 10:00, areademo; Speaker: Fabio Pietrosanti; a cura di sikurezza.org)",
+    "url": "https://web.archive.org/web/20060507094543/http://www.infosecurity.it/cms/attach/7_la_nuova_area_demo_di_it_security.pdf",
+    "language": "it",
+    "role": "speaker",
+    "note": "Official organiser source for the 2006 firma digitale talk (previously known only via SlideShare 1669276 and the sikurezza.org wiki). Read via pdftotext 2026-10-21: 'Speaker: Fabio Pietrosanti / A cura di sikurezza.org'. The same PDF also prints his name (same firma-digitale abstract) under the Thursday 9 Feb 15:00 slot titled 'Modello di sicurezza di Windows - dalla A(CL) alla (Auth)z', evidently a copy-paste error in the programme; the 9 Feb 16:30 PHP hardening slot is credited to Igor Falcomata' (Fabio presented it as substitute, per the known sikurezza wiki item). The area was organised with sikurezza.org and Hacking Team.",
+    "verified": true,
+    "known": false
+  },
+  {
+    "date": "2005-02-04",
+    "year": 2005,
+    "type": "other",
+    "outlet": "fabio.pietrosanti.it (personal website, Web Archive)",
+    "title": "Accesso alle reti anonime (freenet-it.shtml): page offering SSL/password access to his FreeNET and Entropy anonymity-network proxy nodes",
+    "url": "https://web.archive.org/web/20050204044728/http://fabio.pietrosanti.it/freenet-it.shtml",
+    "language": "it",
+    "role": "author (self-published)",
+    "note": "Self-published page on his own site (title 'Fabio Pietrosanti ~ Securing the information for fun and profit'); he runs FreeNET and Entropy nodes and offers access via supertolla.itapac.net. Linked from the 'I M H O' news box of the 2005-2006 homepages (naif.itapac.net/index-en.shtml 2005-04-04, fabio.pietrosanti.it/index.shtml 2006-07-21). 10 captures 2005-02-04..2006-12-21, same digest. Early evidence of his anonymity-network work before the hack.lu 2006 Tor hidden-services talk. Low priority: own website, not a third-party mention.",
+    "verified": true,
+    "known": false
+  }
+]

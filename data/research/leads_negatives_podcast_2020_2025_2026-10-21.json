@@ -1,0 +1,72 @@
+[
+ {
+  "target": "YouTube 4CHvbryuUb4 Fund Longevity live 08/04/2026: descrizione, capitoli, sottotitoli auto en-orig",
+  "checked": "2026-10-21, yt-dlp dal server (info.json + timedtext json3)",
+  "result": "Nessun nome (Pietrosanti/Fabio/naif/biohack). Segmento Roma 43:32-45:14 parlato da 'Ferdinando' (organizzatore). Nessun capitolo. La voce in archivio resta valida solo come riconoscimento visivo."
+ },
+ {
+  "target": "Radio Radicale, indice relatore /soggetti/175095/fabio-pietrosanti (interventi dopo il 2021)",
+  "checked": "2026-10-21, curl dal server",
+  "result": "Interventi elencati: 2010-2021; l'ultimo è la scheda 638849 (Riabitiamo i centri storici, 2021-06-05, già nota). Nessun intervento 2022-2026."
+ },
+ {
+  "target": "YouTube search (ytsearch40/30): Fabio Pietrosanti, Pietrosanti naif/biohacking/whistleblowing/MonitoraPA/longevità/spyware/Copernicani, OpenRousseau, Fabio Naif hacker, biohack.it, Hacking Biology Pietrosanti, Pietrosanti hacker intervista/GlobaLeaks/Rousseau/contact tracing Immuni/trojan captatore/biohacker/rapamicina, MXMap Pietrosanti",
+  "checked": "2026-10-21, yt-dlp --flat-playlist dal server",
+  "result": "Solo voci già note (32 ID già in archivio) + omonimi: Radio Digiesse (autore calabrese), canale 'fabio pietrosanti' cover musicali (73ijeVU9iqU, BOFFRiQ6EeA, Thh3Y2WKGK0), lnzTDKJhVPE (presentazione libro Capitano Ultimo, omonimo calabrese), Angelo/Alessandro Pietrosanti. 'Biohack-it' è un canale USA omonimo non collegato. Unico nuovo: HKFkvkZCvrQ (Ciao Internet 781, non verificato)."
+ },
+ {
+  "target": "Canale YouTube Associazione Copernicani (@Copernicani /videos 141 + /streams 69)",
+  "checked": "2026-10-21, elenco titoli + descrizioni dei candidati",
+  "result": "Nessun titolo con il nome. Controllati khdfZJdvhN4 'Tracciare il virus' (22/04/2020, Intergruppo parlamentare IA, 3h15): sottotitoli it-orig senza Pietrosanti/Fabio ('naif' solo come aggettivo); 8JrSxr9qRuo (cybersecurity, Telmon), J_UJ19t5vuY, IFDaD 2020 Hl1dpmuXKL4/GDedb1ZtfaU/3f76bqIYxUE (democrazia diretta/M5S): descrizioni senza nome. Payk7MfIeFs e SEQQOGEBnXo già noti."
+ },
+ {
+  "target": "Pagine eventi copernicani.it 2021-2023 via Wayback (NFT 25/01/2022, DeFi 05/10/2021, Guerre di Rete 02/02/2021, Hacking Budget 2022, Civic hackers MonitoraPA 26/05/2022, Depredati 05/06/2023, ChatControl 25/10/2023, Blockchain Summerforum 2023, voto elettronico 2018)",
+  "checked": "2026-10-21, web.archive.org id_ dal server",
+  "result": "Nessuna occorrenza di Pietrosanti/naif nel testo. Le descrizioni dei video corrispondenti (llKKe7Jy-fg, qmOlZndOqd8, TEnx3rKrg0I, bi0nQYzeEfI, hGBqJmsOcb8, IfCzmWs3Ttk, zBQuHypSmaw) non leggibili: YouTube bot-check."
+ },
+ {
+  "target": "Canale YouTube Nexa Center (242 video) e Italian Hacker Camp (UCV9Dbt9F5pg1qWA1By-1tJg, 70 video)",
+  "checked": "2026-10-21, elenco titoli",
+  "result": "Nexa: nessun titolo con il nome (125° Lunch Seminar 'Spyware in the wild' 05/11/2025: descrizione senza nome). IHC: solo QZ_jlM4s8eM già noto. Handle @MonitoraPA, @ItalianHackerCamp, @journalismfestival inesistenti; @HermesCenter è un canale persiano omonimo."
+ },
+ {
+  "target": "Canale YouTube Fund Longevity (@FundLongevity)",
+  "checked": "2026-10-21",
+  "result": "Solo 2 video (Trailer qg5AS-YmOXk, 'Fund Longevity Live Stream' Vjd3tfTMoEY), titoli senza nome; il live 4CHvbryuUb4 è su altro canale."
+ },
+ {
+  "target": "TeleAmbiente fFX86XGvOxc 'IA, il Regolamento europeo e i diritti dei cittadini'",
+  "checked": "2026-10-21, emerso da ricerca YouTube 'Hermes Center for Transparency...'",
+  "result": "Non verificabile: yt-dlp bot-check, WebFetch solo titolo, WebSearch nulla. Probabile ospite Hermes Center diverso da Fabio; pista aperta a bassa priorità."
+ },
+ {
+  "target": "Spreaker API v2 search episodi (Pietrosanti, naif hacker, Fabio naif, GlobaLeaks, MonitoraPA, biohack.it, OpenRousseau)",
+  "checked": "2026-10-21",
+  "result": "Nulla di nuovo. Omonimi: Francesca Pietrosanti (Holistic 2022, Weppiness 2020), Matteo Pietrosanti (Mulè 2025), Mario Pietrosanti (riprese Tintoria #179 2023), Giulia Pietrosanti (I law you UniTO 2022). Daniele.Tech (show 4706249) ep. 61/62/67/74 (2022) citano GlobaLeaks/MonitoraPA solo come link nelle note, senza nome; Occhio al mondo 21/10/2026 cita MonitoraPA via Cybersecurity360, senza nome."
+ },
+ {
+  "target": "iTunes Search API episodi (Fabio Pietrosanti, Pietrosanti, Pietrosanti hacker/Hermes/biohacker/longevità; store IT, US, GB, CH)",
+  "checked": "2026-10-21, 96 episodi unici",
+  "result": "Solo voci già note (Valigia Blu 2020, Agenda Podcast 2020, Bloomberg 2020, Crypto Conversation 2021, Ciao Internet 2022-23, Canestrari 2022, DataKnightmare 2022, BBC Lazarus 2023) o già scartate (Laura Pietrosanti 'Vieni con me', Afrofonia, Sveja, Terminio, IAI, Kalemana, Megyn Kelly/Bolling/Cigar Dave/Jaguar). Motoring Podcast 2024-04-03 'Cowey wowey' e Looking Out EP25 (Jaguar Type 00): omonimo del settore auto, non lui."
+ },
+ {
+  "target": "Ricerche nei siti: radiopopolare.it ?s=Pietrosanti e ?s=GlobaLeaks; valigiablu.it ?s=Pietrosanti; digitalia.fm ?s=Pietrosanti; radio24 /ricerca; ilcaffedigitale.it",
+  "checked": "2026-10-21, curl dal server",
+  "result": "Radio Popolare: 0 risultati. Valigia Blu: solo articoli già noti (2016-2020) + 2 articoli 2016 (brexit-conseguenze, costituzione-referendum) senza il nome nel testo. Digitalia: 'Nessun risultato'. Radio24: ricerca in JS, 0 occorrenze. ilcaffedigitale.it non raggiungibile."
+ },
+ {
+  "target": "WebSearch: Radio Popolare intervista; Radio 24 Smart City / Nessun luogo è lontano; site:radio24 Pietrosanti; webinar Cybersecurity360/Agenda Digitale/Digital360; Caffè Digitale/Insider/Digitalia; podcast 2023-2024 intervista (extended); biohacker podcast longevity 2025-2026; Copernicani NFT/DeFi relatori; TeleAmbiente",
+  "checked": "2026-10-21, 9 ricerche",
+  "result": "Nessun risultato pertinente (solo DIG Festival speaker page già nota)."
+ },
+ {
+  "target": "Listen Notes ricerca episodi",
+  "checked": "2026-10-21",
+  "result": "403 con CAPTCHA: non aggirato."
+ },
+ {
+  "target": "RaiPlay Sound: versione podcast di 'Codice, la vita è digitale' 2025",
+  "checked": "2026-10-21",
+  "result": "Nessun programma RaiPlay Sound per Codice TV (404); Codice Beta già coperto (70 puntate, solo S04EP08 nota). msearch RaiPlay Sound 404."
+ }
+]

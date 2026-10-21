@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2012-08-27",
+  "year": 2012,
+  "type": "article",
+  "outlet": "OWNI.eu",
+  "title": "Where Are The Post-WikiLeaks Digital Whistleblowers?",
+  "url": "http://owni.eu/2012/08/27/where-are-the-post-wikileaks-digital-whistleblowers-assange/",
+  "language": "en",
+  "role": "quoted",
+  "note": "Letto via Wayback (capture 20120919190909). «According to Fabio Pietrosanti, one of GlobaLeaks' developers, the goal is to lower the entrance barrier...»; due citazioni dirette («Our goal is to allow anyone with political motivation...», «We need to reach a point where setting up a whistleblowing initiative...») e «as GlobaLeaks' Pietrosanti points out, whistleblowing is just one part... of a larger transparency movement». Cita anche Claudio Agosti. Testata defunta: solo Web Archive. Ripubblicazione dell'articolo RFE/RL «With WikiLeaks On Ice...» del 24/08/2012 (stesso testo).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2012-08-24",
+  "year": 2012,
+  "type": "article",
+  "outlet": "Radio Free Europe/Radio Liberty (RFE/RL)",
+  "title": "With WikiLeaks On Ice, What Has Happened To All Those Digital Whistle-Blowers?",
+  "url": "https://www.rferl.org/a/with-wikileaks-on-ice-what-has-happened-to-all-those-digital-whistle-blowers/24686710.html",
+  "language": "en",
+  "role": "quoted",
+  "note": "Pagina live letta 2026-10-21 (datePublished 2012-08-24, autore «RFE/RL»). «According to Fabio Pietrosanti, one of GlobaLeaks' developers...» + citazioni dirette («Our goal is to allow anyone with political motivation...», «...publishing through [the] Tor2web network...»). Era nella rassegna Press del sito Hermes (logioshermes.org/home/news-press/press/, capture 2014) con il vecchio link rferl.org/archive/Tangled_Web/latest/3281/3281.html. Fonte originale del pezzo poi ripreso da OWNI.eu il 27/08/2012.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2013-11-13",
+  "year": 2013,
+  "type": "article",
+  "outlet": "techPresident (Personal Democracy Media)",
+  "title": "After NSA Scandal, Crop of Whistleblower Communication Tools for Journalists Emerge",
+  "url": "http://techpresident.com/news/24526/after-NSA-whistleblower-tools-for-journalists",
+  "language": "en",
+  "role": "quoted",
+  "note": "Letto via Wayback (https://web.archive.org/web/2014/http://techpresident.com/news/24526/after-NSA-whistleblower-tools-for-journalists ; sito live in errore 522). Di Carola Frediani, 13/11/2013. «\"Many people are asking us to use GlobaLeaks but we don't have enough resources to help them all, and we are looking for grants,\" Fabio Pietrosanti, co-founder of GlobaLeaks, told TechPresident.»",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2010-02-09",
+  "year": 2010,
+  "type": "interview",
+  "outlet": "TuttoVolume (intervista TVtech)",
+  "title": "Intercettazioni telefoniche: per i cellulari GSM è un operazione alla portata di tutti.",
+  "url": "https://tuttovolume.net/news/intercettare-cellulari-gsm-3g/",
+  "language": "it",
+  "role": "interviewed",
+  "note": "Pagina live letta 2026-10-21 (article:published_time 2010-02-09). «TVtech ha intervistato Fabio Pietrosanti, responsabile tecnico della Khamsa» sul rischio di intercettazione GSM e sulla soluzione per gli utenti (PrivateGSM). Fuori dalla lacuna 2011-2016 (è 2010) ma non presente in media.json.",
+  "verified": true,
+  "known": false
+ }
+]

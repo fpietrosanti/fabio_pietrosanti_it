@@ -2077,6 +2077,23 @@
   "on_old_site": false
  },
  {
+  "date": "2005-02-04",
+  "year": 2005,
+  "type": "other",
+  "outlet": "fabio.pietrosanti.it (personal website, Web Archive)",
+  "title": "Accesso alle reti anonime (freenet-it.shtml): page offering SSL/password access to his FreeNET and Entropy anonymity-network proxy nodes",
+  "url": "https://web.archive.org/web/20050204044728/http://fabio.pietrosanti.it/freenet-it.shtml",
+  "language": "it",
+  "role": "author (self-published)",
+  "note": "Self-published page on his own site (title 'Fabio Pietrosanti ~ Securing the information for fun and profit'); he runs FreeNET and Entropy nodes and offers access via supertolla.itapac.net. Linked from the 'I M H O' news box of the 2005-2006 homepages (naif.itapac.net/index-en.shtml 2005-04-04, fabio.pietrosanti.it/index.shtml 2006-07-21). 10 captures 2005-02-04..2006-12-21, same digest. Early evidence of his anonymity-network work before the hack.lu 2006 Tor hidden-services talk. Low priority: own website, not a third-party mention.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2006_2026-10-21"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2005-05-28",
   "year": 2005,
   "type": "talk",
@@ -2273,6 +2290,23 @@
   "_slices": [
    "pass4_lacuna2003_2026-10-19",
    "pass4_lacuna2004_talks_2026-10-08"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2006-02-10",
+  "year": 2006,
+  "type": "talk",
+  "outlet": "Infosecurity Italia 2006, Milano - Area Demo IT Security (official Reed Exhibitions programme PDF 'La nuova area demo di IT security')",
+  "title": "Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialita' (venerdi 10 febbraio, ore 10:00, areademo; Speaker: Fabio Pietrosanti; a cura di sikurezza.org)",
+  "url": "https://web.archive.org/web/20060507094543/http://www.infosecurity.it/cms/attach/7_la_nuova_area_demo_di_it_security.pdf",
+  "language": "it",
+  "role": "speaker",
+  "note": "Official organiser source for the 2006 firma digitale talk (previously known only via SlideShare 1669276 and the sikurezza.org wiki). Read via pdftotext 2026-10-21: 'Speaker: Fabio Pietrosanti / A cura di sikurezza.org'. The same PDF also prints his name (same firma-digitale abstract) under the Thursday 9 Feb 15:00 slot titled 'Modello di sicurezza di Windows - dalla A(CL) alla (Auth)z', evidently a copy-paste error in the programme; the 9 Feb 16:30 PHP hardening slot is credited to Igor Falcomata' (Fabio presented it as substitute, per the known sikurezza wiki item). The area was organised with sikurezza.org and Hacking Team.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2006_2026-10-21"
   ],
   "on_old_site": true
  },
@@ -3928,6 +3962,23 @@
   "mirrors": [
    "https://linuxsecurity.com/news/cryptography/accusations-fly-over-voice-encryption-hack",
    "https://www.techsupportforum.com/threads/accusations-fly-over-voice-encryption-hack.457961/"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2010-02-09",
+  "year": 2010,
+  "type": "interview",
+  "outlet": "TuttoVolume (intervista TVtech)",
+  "title": "Intercettazioni telefoniche: per i cellulari GSM è un operazione alla portata di tutti.",
+  "url": "https://tuttovolume.net/news/intercettare-cellulari-gsm-3g/",
+  "language": "it",
+  "role": "interviewed",
+  "note": "Pagina live letta 2026-10-21 (article:published_time 2010-02-09). «TVtech ha intervistato Fabio Pietrosanti, responsabile tecnico della Khamsa» sul rischio di intercettazione GSM e sulla soluzione per gli utenti (PrivateGSM). Fuori dalla lacuna 2011-2016 (è 2010) ma non presente in media.json.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_wayback_2026-10-21"
   ],
   "on_old_site": false
  },
@@ -5893,6 +5944,40 @@
   "on_old_site": false
  },
  {
+  "date": "2012-08-24",
+  "year": 2012,
+  "type": "article",
+  "outlet": "Radio Free Europe/Radio Liberty (RFE/RL)",
+  "title": "With WikiLeaks On Ice, What Has Happened To All Those Digital Whistle-Blowers?",
+  "url": "https://www.rferl.org/a/with-wikileaks-on-ice-what-has-happened-to-all-those-digital-whistle-blowers/24686710.html",
+  "language": "en",
+  "role": "quoted",
+  "note": "Pagina live letta 2026-10-21 (datePublished 2012-08-24, autore «RFE/RL»). «According to Fabio Pietrosanti, one of GlobaLeaks' developers...» + citazioni dirette («Our goal is to allow anyone with political motivation...», «...publishing through [the] Tor2web network...»). Era nella rassegna Press del sito Hermes (logioshermes.org/home/news-press/press/, capture 2014) con il vecchio link rferl.org/archive/Tangled_Web/latest/3281/3281.html. Fonte originale del pezzo poi ripreso da OWNI.eu il 27/08/2012.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_wayback_2026-10-21"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2012-08-27",
+  "year": 2012,
+  "type": "article",
+  "outlet": "OWNI.eu",
+  "title": "Where Are The Post-WikiLeaks Digital Whistleblowers?",
+  "url": "http://owni.eu/2012/08/27/where-are-the-post-wikileaks-digital-whistleblowers-assange/",
+  "language": "en",
+  "role": "quoted",
+  "note": "Letto via Wayback (capture 20120919190909). «According to Fabio Pietrosanti, one of GlobaLeaks' developers, the goal is to lower the entrance barrier...»; due citazioni dirette («Our goal is to allow anyone with political motivation...», «We need to reach a point where setting up a whistleblowing initiative...») e «as GlobaLeaks' Pietrosanti points out, whistleblowing is just one part... of a larger transparency movement». Cita anche Claudio Agosti. Testata defunta: solo Web Archive. Ripubblicazione dell'articolo RFE/RL «With WikiLeaks On Ice...» del 24/08/2012 (stesso testo).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_wayback_2026-10-21"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2012-09",
   "year": 2012,
   "type": "paper",
@@ -6479,6 +6564,23 @@
   ],
   "tags": [
    "newsroom-leaks"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2013-11-13",
+  "year": 2013,
+  "type": "article",
+  "outlet": "techPresident (Personal Democracy Media)",
+  "title": "After NSA Scandal, Crop of Whistleblower Communication Tools for Journalists Emerge",
+  "url": "http://techpresident.com/news/24526/after-NSA-whistleblower-tools-for-journalists",
+  "language": "en",
+  "role": "quoted",
+  "note": "Letto via Wayback (https://web.archive.org/web/2014/http://techpresident.com/news/24526/after-NSA-whistleblower-tools-for-journalists ; sito live in errore 522). Di Carola Frediani, 13/11/2013. «\"Many people are asking us to use GlobaLeaks but we don't have enough resources to help them all, and we are looking for grants,\" Fabio Pietrosanti, co-founder of GlobaLeaks, told TechPresident.»",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_wayback_2026-10-21"
   ],
   "on_old_site": false
  },
@@ -14792,6 +14894,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-11-11",
+  "year": 2020,
+  "type": "video",
+  "outlet": "Ciao Internet - Matteo Flora (YouTube)",
+  "title": "781. OpenRousseau e Open-Democracy: esiste davvero un modo di avere un sistema trasparente?",
+  "url": "https://www.youtube.com/watch?v=HKFkvkZCvrQ",
+  "language": "it",
+  "role": "context",
+  "note": "Versione YouTube della puntata Spreaker del 2020-11-11 già in archivio (intervista a Denis 'Jaromil' Roio su OpenRousseau). Trovata con ricerca YouTube 'OpenRousseau'. Descrizione e sottotitoli non leggibili (YouTube 'Sign in to confirm you are not a bot', non aggirato; WebFetch restituisce solo il titolo). Nessuna prova del nome: da unire alla voce Spreaker come mirror, oppure scartare se l'ascolto non lo cita. Data presunta = quella della puntata Spreaker.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2020_2025_2026-10-21"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-11-12",
   "year": 2020,
   "type": "tweet",
@@ -18872,7 +18991,8 @@
   "verified": true,
   "known": false,
   "_slices": [
-   "pass4_lacuna2023_biohacking_2026-10-07"
+   "pass4_lacuna2023_biohacking_2026-10-07",
+   "pass4_podcast_2020_2025_2026-10-21"
   ],
   "on_old_site": false
  },

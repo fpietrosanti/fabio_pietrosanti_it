@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1490**; dopo deduplica: **1083**
-- Già presenti sul vecchio sito: **49** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1034**
-- Verificati aprendo la pagina: **1014**; solo da risultato di ricerca: **69**
+- Risultati grezzi dalle ricerche: **1498**; dopo deduplica: **1090**
+- Già presenti sul vecchio sito: **50** (su 35 voci elencate lì)
+- **Nuovi rispetto al vecchio sito: 1040**
+- Verificati aprendo la pagina: **1020**; solo da risultato di ricerca: **70**
 
-Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 71, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Slide 15, Comunicato 15, Paper 12, Podcast 12, audio 11, TV 7, Capitolo di libro 6, programme 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 72, Citato 51, article 35, Progetto 33, Ricerca 31, Altro 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Slide 15, Comunicato 15, Paper 12, Podcast 12, audio 11, Intervista 7, TV 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -23,22 +23,22 @@ Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity
 | 2002 | 2 | 19 | 8 |
 | 2003 | 5 | 8 | 7 |
 | 2004 | 1 | 12 | 11 |
-| 2005 | 1 | 9 | 6 |
-| 2006 | 4 | 9 | 2 |
+| 2005 | 1 | 10 | 7 |
+| 2006 | 4 | 10 | 2 |
 | 2007 | 1 | 13 | 10 |
 | 2008 | 0 | 13 | 13 |
 | 2009 | 1 | 46 | 44 |
-| 2010 | 6 | 64 | 54 |
+| 2010 | 6 | 65 | 55 |
 | 2011 | 4 | 28 | 25 |
-| 2012 | 0 | 35 | 35 |
-| 2013 | 0 | 29 | 29 |
+| 2012 | 0 | 37 | 37 |
+| 2013 | 0 | 30 | 30 |
 | 2014 | 0 | 29 | 29 |
 | 2015 | 0 | 42 | 42 |
 | 2016 | 0 | 28 | 28 |
 | 2017 | 0 | 74 | 74 |
 | 2018 | 0 | 68 | 68 |
 | 2019 | 0 | 64 | 64 |
-| 2020 | 0 | 172 | 172 |
+| 2020 | 0 | 173 | 173 |
 | 2021 | 0 | 90 | 90 |
 | 2022 | 0 | 64 | 64 |
 | 2023 | 0 | 17 | 17 |
@@ -544,7 +544,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
 
-## 2020 — 172 voci, 172 nuove
+## 2020 — 173 voci, 173 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -594,6 +594,8 @@ Anni senza nessun risultato: nessuno
   Tweet di @Luke_like che menziona @fpietrosanti. Testo: «Quando su @wireditalia lo denunciavano @faffa42 e @fpietrosanti non era un problema, vero? Anzi, meritava minacce di querele ed espulsioni. Senza che nessun'altra testata recuperasse la notizia, perché le inchieste sul web valgono meno https://t.co/W3dWeG2HPw https://t.co/qb6mNq4h1S» Link: https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/ https://www.adnkronos.com/fatti/politica/2020/11/11/denuncia-rousseau-puo-votare-volte-per-stessa-persona_dHxhlR1sPZUJOBvmPdJfbL.html. Wayback capture 20201112092801 (id_) di twitter.com/fpietrosanti/status/1326818810914025473. La capture reindirizza a https://twitter.com/Luke_like/status/1326817919347601408.
 - 🆕 **2020-11-11** · Podcast · Ciao Internet con Matteo Flora (Spreaker) — [OpenRousseau e Open-Democracy: esiste davvero un modo di avere un sistema trasparente?](https://www.spreaker.com/episode/openrousseau-e-open-democracy-esiste-davvero-un-modo-di-avere-un-sistema-trasparente--41918584) _(non verificato)_  
   Intervista a Denis 'Jaromil' Roio su OpenRousseau e Decidiamo.it; la descrizione non nomina Fabio. Non verificato se sia citato nell'audio.
+- 🆕 **2020-11-11** · Video · Ciao Internet - Matteo Flora (YouTube) — [781. OpenRousseau e Open-Democracy: esiste davvero un modo di avere un sistema trasparente?](https://www.youtube.com/watch?v=HKFkvkZCvrQ) _(non verificato)_  
+  Versione YouTube della puntata Spreaker del 2020-11-11 già in archivio (intervista a Denis 'Jaromil' Roio su OpenRousseau). Trovata con ricerca YouTube 'OpenRousseau'. Descrizione e sottotitoli non leggibili (YouTube 'Sign in to confirm you are not a bot', non aggirato; WebFetch restituisce solo il titolo). Nessuna prova del nome: da unire alla voce Spreaker come mirror, oppure scartare se l'ascolto non lo cita. Data presunta = quella della puntata Spreaker.
 - 🆕 **2020-11-08** · Paper · Pandora Rivista (online review of politics and culture, not peer-reviewed) — [I trojan di Stato: la nuova legge sulle intercettazioni](https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/)  
   Silvia Cegalin. On the Italian interception law and state trojans; mentions 'Fabio Pietrosanti, membro del Centro Hermes per la Trasparenza e i Diritti Umani Digitali' urging the government to revise the law on entrusting citizens' data to unregulated private trojan vendors. Page text read. Borderline: magazine rather than academic journal.
 - 🆕 **2020-10-24** · tweet · Twitter — [Voto fuori sede: il voto online non e' necessario (campagna The Good Lobby)](https://twitter.com/fpietrosanti/status/1319905762550992897)  
@@ -1519,7 +1521,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2014-01-22** · Citato · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/)  
   Quoted as security and telephony expert on mobile location tracking of protesters
 
-## 2013 — 29 voci, 29 nuove
+## 2013 — 30 voci, 30 nuove
 
 - 🆕 **2013-12-30** · Citato · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/)  
   John Borland's 30C3 report; quotes him on GlobaLeaks and on media groups wanting to copy the Dutch Publeaks model; photo with Claudio Agosti
@@ -1533,6 +1535,8 @@ Anni senza nessun risultato: nessuno
   GlobaLeaks project page at the NoisySquare assembly listing Naif as contact
 - 🆕 **2013-11-14** · Video · YouTube / Cosa Pubblica Libra — [sistema WHISTLEBLOWING](https://www.youtube.com/watch?v=jsPilTzhU5s)  
   Short introduction to whistleblowing systems by him as co-founder of Centro Hermes
+- 🆕 **2013-11-13** · article · techPresident (Personal Democracy Media) — [After NSA Scandal, Crop of Whistleblower Communication Tools for Journalists Emerge](http://techpresident.com/news/24526/after-NSA-whistleblower-tools-for-journalists)  
+  Letto via Wayback (https://web.archive.org/web/2014/http://techpresident.com/news/24526/after-NSA-whistleblower-tools-for-journalists ; sito live in errore 522). Di Carola Frediani, 13/11/2013. «"Many people are asking us to use GlobaLeaks but we don't have enough resources to help them all, and we are looking for grants," Fabio Pietrosanti, co-founder of GlobaLeaks, told TechPresident.»
 - 🆕 **2013-10-14** · Talk · Global Investigative Journalism Conference GIJC13 (Rio de Janeiro) — [Security Workshop: Tor & Globaleaks: Protecting Yourself and Your Sources Online](https://gijc13.sched.com/event/1cntRel/global-security-workshop-tor-globaleaks-protecting-yourself-and-your-sources-online-eng)  
   Listed as Secretary of the Hermes Center and GlobaLeaks co-founder
 - 🆕 **2013-10-12** · Talk · Global Investigative Journalism Conference (GIJC13), Rio de Janeiro — Sched speaker page — [Fabio Pietrosanti — speaker profile (Hermes Center for Transparency and Digital Human Rights, Secretary, Italy)](https://gijc13.sched.com/speaker/fabio.pietrosanti)  
@@ -1580,7 +1584,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2013** · Altro · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/)  
   PDF speaker database entry, no sessions listed (year approximate)
 
-## 2012 — 35 voci, 35 nuove
+## 2012 — 37 voci, 37 nuove
 
 - 🆕 **2012-11-19** · programme · e-privacy 2012 Winter Edition, Politecnico di Torino / Centro Nexa — [E-government & e-democracy: prospettive ed implicazioni sulla privacy - programma (tavola rotonda Sicurezza e controllo)](https://nexa.polito.it/wp-content/uploads/2012/11/2012-egovernment-programma.pdf)  
   verified via pdftotext (Google 2026-10-12 20:29); context: SICUREZZA E CONTROLLO (tavola rotonda) Moderatore: Fabio Pietrosanti (Hermes center for transparency and digital human rights)
@@ -1598,6 +1602,10 @@ Anni senza nessun risultato: nessuno
   Numero di pagina a stampa confermato 2026-09-27 via Google Books search-within sull'edizione ebook ricercabile (books?id=bIaZf663Z2cC&jscmd=SearchWithinVolume2&q=Pietrosanti, 4 risultati): indice analitico «Pietrosanti, Fabio, 318–19» (pp. 318-319 dell'edizione Dutton). Snippet PT238: «Pietrosanti and Arturo Filastò, the cofounders of GlobaLeaks, say they aim to create the BitTorrent to WikiLeaks' Napster»; PT239: «Pietrosanti says, is to expand the leaking movement from the current fifty or so WikiLeaks copycats to a network of hundreds or thousands of "leak nodes"». 'naif' non compare. Libro gia' noto (copia IA).
 - 🆕 **2012-09** · Paper · arXiv:1209.6398 — [The Hidden Internet of Iran: Private Address Allocations on a National Network](https://arxiv.org/pdf/1209.6398)  
   Collin Anderson. Acknowledgements: 'it is possible to recognize Fabio Pietrosanti and Arturo Filastò for their valuable insight on applied network research methods'.
+- 🆕 **2012-08-27** · article · OWNI.eu — [Where Are The Post-WikiLeaks Digital Whistleblowers?](http://owni.eu/2012/08/27/where-are-the-post-wikileaks-digital-whistleblowers-assange/)  
+  Letto via Wayback (capture 20120919190909). «According to Fabio Pietrosanti, one of GlobaLeaks' developers, the goal is to lower the entrance barrier...»; due citazioni dirette («Our goal is to allow anyone with political motivation...», «We need to reach a point where setting up a whistleblowing initiative...») e «as GlobaLeaks' Pietrosanti points out, whistleblowing is just one part... of a larger transparency movement». Cita anche Claudio Agosti. Testata defunta: solo Web Archive. Ripubblicazione dell'articolo RFE/RL «With WikiLeaks On Ice...» del 24/08/2012 (stesso testo).
+- 🆕 **2012-08-24** · article · Radio Free Europe/Radio Liberty (RFE/RL) — [With WikiLeaks On Ice, What Has Happened To All Those Digital Whistle-Blowers?](https://www.rferl.org/a/with-wikileaks-on-ice-what-has-happened-to-all-those-digital-whistle-blowers/24686710.html)  
+  Pagina live letta 2026-10-21 (datePublished 2012-08-24, autore «RFE/RL»). «According to Fabio Pietrosanti, one of GlobaLeaks' developers...» + citazioni dirette («Our goal is to allow anyone with political motivation...», «...publishing through [the] Tor2web network...»). Era nella rassegna Press del sito Hermes (logioshermes.org/home/news-press/press/, capture 2014) con il vecchio link rferl.org/archive/Tangled_Web/latest/3281/3281.html. Fonte originale del pezzo poi ripreso da OWNI.eu il 27/08/2012.
 - 🆕 **2012-08-06** · Menzionato · scribd.com (copia del paper FOCI 2012) — [How the Great Firewall of China is Blocking Tor (Winter, Lindskog — FOCI 2012)](https://www.scribd.com/document/962321259/How-the-Great-Firewall-of-China-is-Blocking-Tor)  
   Paper USENIX FOCI 2012 di Philipp Winter e Stefan Lindskog; nei ringraziamenti: «Fabio Pietrosanti for helping with the experiments». Copia Scribd caricata da terzi. verified via wayback; context: …al fragmented Tor connections, we never observed any Hübner and Rose-Mharie Åhlfeldt for feedback and active scanning and could use Tor without interference. Fabio Pietrosanti for helping with the experiments. This exp…
 - 🆕 **2012-08-06** · Paper · USENIX FOCI '12 — [How the Great Firewall of China is Blocking Tor (Winter, Lindskog)](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf)  
@@ -1712,7 +1720,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2011** · Progetto · GitHub — [fpietrosanti (Fabio (naif) Pietrosanti)](https://github.com/fpietrosanti)  
   GitHub profile, company Hermes Center
 
-## 2010 — 64 voci, 54 nuove
+## 2010 — 65 voci, 55 nuove
 
 - 🆕 **2010-11-02** · Talk · SlideShare (PrivateWave Italia) — [Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryption AGT)](https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072)  
   Slides by Fabio Pietrosanti, CTO PrivateWave (PrivateGSM, ZRTP); date from upload
@@ -1818,6 +1826,8 @@ Anni senza nessun risultato: nessuno
   Clusit Newsletter 31 marzo 2010 thanks sponsors: 'Sponsor Silver: ALBA, CLEVER CONSULTING, @MEDIASERVICE.NET, PRIVATEWAVE, ...'. PrivateWave is his company, but he is not named. A 'sponsor_privatewave.gif' also exists among securitysummit.it static files (archived 2016-01).
 - 🆕 **2010-02-24** · Video · Cellulare Magazine (CMAG) — [PrivateWave di Khamsa contro le intercettazioni](https://www.youtube.com/watch?v=EJVK8nB7yAM) _(non verificato)_  
   Cellulare-Magazine.it video on PrivateWave voice encryption; his appearance not confirmed
+- 🆕 **2010-02-09** · Intervista · TuttoVolume (intervista TVtech) — [Intercettazioni telefoniche: per i cellulari GSM è un operazione alla portata di tutti.](https://tuttovolume.net/news/intercettare-cellulari-gsm-3g/)  
+  Pagina live letta 2026-10-21 (article:published_time 2010-02-09). «TVtech ha intervistato Fabio Pietrosanti, responsabile tecnico della Khamsa» sul rischio di intercettazione GSM e sulla soluzione per gli utenti (PrivateGSM). Fuori dalla lacuna 2011-2016 (è 2010) ma non presente in media.json.
 - 🆕 **2010-02-02** · Menzionato · heise.de — [Hickhack um Test für Handyverschlüsselung](https://www.heise.de/news/Hickhack-um-Test-fuer-Handyverschluesselung-919951.html)  
   verified via live; context: …aner wie Flexispy wehren können. Weiterlesen nach der Anzeige Notrax hat seine Ergebnisse auf der Webseite infosecurityguard.com veröffentlicht. Recherchen von Fabio Pietrosanti, dem Gründer des Securstar-Konkurrenten KH…
 - 🆕 **2010-02-02** · Citato · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.csoonline.com/article/524574/malware-cybercrime-accusations-fly-over-voice-encryption-hack.html)  
@@ -1996,7 +2006,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2007** · Libro · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ)  
   2026-09-23: confermato dai ringraziamenti («"Naif" Pietrosanti»), verificati sulla copia Internet Archive del volume.
 
-## 2006 — 9 voci, 2 nuove
+## 2006 — 10 voci, 2 nuove
 
 - ↺ **2006-11-06** · Ricerca · Secunia (Web Archive capture 2007-04-29) — [Parallels Desktop for Mac Insecure File Permissions (SA22634)](https://secunia.com/advisories/22634/)  
   KNOWN item - verification upgrade. Verbatim from capture https://web.archive.org/web/20070429132253/http://secunia.com:80/advisories/22634 : "Fabio Pietrosanti has reported a security issue with unknown impact in Parallels Desktop for Mac." ... "Provided and/or discovered by : Fabio Pietrosanti"; Release Date 2006-11-06, CVE reference CVE-2006-5817. The known entry is marked verified:false ('credit not confirmable'): it can now be set verified:true with archive_url = the capture above.
@@ -2010,6 +2020,8 @@ Anni senza nessun risultato: nessuno
   Slides (dated 21 Oct 2006) on Tor hidden services
 - ↺ **2006-10-20** · Menzionato · Hack.lu 2006 (official wiki, Speakers page, Web Archive) — [Hack.lu 2006 Speakers: 'Exploiting hidden services to setup anonymous communication infrastructure - Fabio Pietrosanti'](https://web.archive.org/web/20061104181744/http://hack.lu:80/index.php/Speakers)  
   Verbatim: "Exploiting hidden services to setup anonymous communication infrastructure Fabio Pietrosanti" (listed between Sandip Chaudhari and Yen-Ming Chen). Capture 20061104181744 read 2026-10-08. Official programme confirmation of the known SlideShare deck (archive.hack.lu/2006/ slide directory has no file of his).
+- ↺ **2006-02-10** · Talk · Infosecurity Italia 2006, Milano - Area Demo IT Security (official Reed Exhibitions programme PDF 'La nuova area demo di IT security') — [Riservatezza: l'impiego delle tecnologie di firma digitale per la tutela della confidenzialita' (venerdi 10 febbraio, ore 10:00, areademo; Speaker: Fabio Pietrosanti; a cura di sikurezza.org)](https://web.archive.org/web/20060507094543/http://www.infosecurity.it/cms/attach/7_la_nuova_area_demo_di_it_security.pdf)  
+  Official organiser source for the 2006 firma digitale talk (previously known only via SlideShare 1669276 and the sikurezza.org wiki). Read via pdftotext 2026-10-21: 'Speaker: Fabio Pietrosanti / A cura di sikurezza.org'. The same PDF also prints his name (same firma-digitale abstract) under the Thursday 9 Feb 15:00 slot titled 'Modello di sicurezza di Windows - dalla A(CL) alla (Auth)z', evidently a copy-paste error in the programme; the 9 Feb 16:30 PHP hardening slot is credited to Igor Falcomata' (Fabio presented it as substitute, per the known sikurezza wiki item). The area was organised with sikurezza.org and Hacking Team.
 - 🆕 **2006-02-10** · Slide · SlideShare (Infosecurity Italy 2006) — [2006: Infosecurity Italy: Tecnologie di Firma Digitale e Tutela della Riservatezza](https://www.slideshare.net/slideshow/infosecurity-06-tecnologie-di-firma-digitale-e-tutela-della-riservatezza/1669276)  
   Digital signature technologies and confidentiality
 - ↺ **2006-02-09** · Talk · Infosecurity Italia 2006, Milano - Area Demo Sikurezza.org — [Hardening della configurazione di PHP: limitare il danno (presentato in sostituzione di Igor Falcomatà)](https://web.archive.org/web/20060219061042/http://www.sikurezza.org/wiki/Risorse/Infosecurity06)  
@@ -2017,7 +2029,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2006** · Libro · Shake Edizioni — [Il software libero in Italia (a cura di Andrea Glorioso) - contributo di Fabio "naif" Pietrosanti](http://www.shake.it/index.php?id=51&productID=541)  
   Security chapter; publisher page confirms him as a contributor but doesn't show the publication year (ISBN 9788888865768) - check the year
 
-## 2005 — 9 voci, 6 nuove
+## 2005 — 10 voci, 7 nuove
 
 - ↺ **2005-10** · Talk · SMAU 2005, Milano - eAcademy, area sicurezza curata da Sikurezza.org — [SMAU 2005 (eAcademy Sikurezza.org, Milano): pgp luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo (SMAU 2005 eAcademy)](https://web.archive.org/web/20060218020713/http://www.sikurezza.org:80/wiki/Risorse/Smau05)  
   Sikurezza.org resources page for SMAU 2005 (Wayback 2006-02-18): 'Il formato di webb.it è stato acquisito da Smau ed i seminari sono stati tenuti nello spazio eAcademy ... Sikurezza.org ha curato la selezione dei seminari ... a Smau 2005' and the entry 'pgp luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo - Fabio Pietrosanti ... » PGP_luci_e_ombre.ppt'. A repeat of the e-privacy 2005 talk at a different event (SMAU, Oct 2005), not recorded so far. Exact day not given (slide file last saved 21 Oct 2005; SMAU 2005 ran 20-24 Oct).
@@ -2037,6 +2049,8 @@ Anni senza nessun risultato: nessuno
   IA metadata creator 'Fabio Pietrosanti'; files Ep2005_PGP_luci_e_ombre_Pietrosanti.{ogg,pdf,ppt}
 - 🆕 **2005-05-28** · Slide · SlideShare (e-privacy 2005) — [2005: E-privacy 2005: Pgp Luci E Ombre](https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259)  
   Caricamento sul profilo SlideShare fpietrosanti (13 presentazioni): già presente in media.json come mirror della voce e-privacy 2005 (campo mirrors). Gli altri 12 caricamenti del profilo sono tutti già in media.json.
+- 🆕 **2005-02-04** · Altro · fabio.pietrosanti.it (personal website, Web Archive) — [Accesso alle reti anonime (freenet-it.shtml): page offering SSL/password access to his FreeNET and Entropy anonymity-network proxy nodes](https://web.archive.org/web/20050204044728/http://fabio.pietrosanti.it/freenet-it.shtml)  
+  Self-published page on his own site (title 'Fabio Pietrosanti ~ Securing the information for fun and profit'); he runs FreeNET and Entropy nodes and offers access via supertolla.itapac.net. Linked from the 'I M H O' news box of the 2005-2006 homepages (naif.itapac.net/index-en.shtml 2005-04-04, fabio.pietrosanti.it/index.shtml 2006-07-21). 10 captures 2005-02-04..2006-12-21, same digest. Early evidence of his anonymity-network work before the hack.lu 2006 Tor hidden-services talk. Low priority: own website, not a third-party mention.
 
 ## 2004 — 12 voci, 11 nuove
 

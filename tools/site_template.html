@@ -256,6 +256,11 @@ details p{font-size:14.5px;color:var(--ink2);margin:8px 0;max-width:740px;white-
 .cbtns{display:flex;flex-wrap:wrap;gap:9px;max-width:330px}
 .cbtns a{font:500 13.5px var(--sans);border:1px solid var(--rule);color:var(--ink);padding:8px 15px;border-radius:2px}
 .cbtns a:hover{border-color:var(--acc);color:var(--acc);text-decoration:none}
+/* quotes */
+.qtable .qt{font:400 15.5px/1.5 var(--sans);color:var(--ink);max-width:640px}
+.qtable .qs{font-size:13px;width:230px}
+.qtable .qs span{display:block;font:500 11.5px var(--mono);color:var(--ink3);margin-top:3px}
+@media (max-width:900px){.qtable .qs{width:auto}}
 /* wechat */
 .wechat{display:flex;gap:18px;align-items:center;margin-top:28px;padding-top:22px;border-top:1px solid var(--line)}
 .wechat img{width:132px;height:132px;display:block;background:#fff;padding:6px;border:1px solid var(--line)}
@@ -343,6 +348,8 @@ footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
 </div></section>
 
 <section id="books"><div class="wrap">{{H_BOOKS}}{{BOOKS}}</div></section>
+
+<section id="quotes"><div class="wrap">{{H_QUOTES}}{{QUOTES}}</div></section>
 
 <section id="artifacts"><div class="wrap">{{H_ARTIFACTS}}<div class="artstrip">{{ARTIFACTS}}</div></div></section>
 

@@ -1,0 +1,67 @@
+[
+  {
+    "target": "Infosecurity Italia 2003-2006 (infosecurity.it Wayback CDX 2002-2006: 124 programme/relatori/convegni/area-demo pages and 57 PDFs incl. PROGRAMMACONVEGNI 2005 (28/12/2004, 18/01/2005), ConvegniWorkshop2004, programma convegni 2006, calendario workshop 2006, press clippings 2006), fetched on the server, HTML grep + pdftotext",
+    "checked": "2026-10-21",
+    "result": "Only positive: 2006 Area Demo PDF (reported). Infosecurity 2005 convegni programme and the 2003/2004 relatori pages do not name him. presentazione_en.pdf and press_infosecurity_2006.pdf could not be downloaded."
+  },
+  {
+    "target": "CCC congress speaker lists 20C3 (2003), 21C3 (2004), 22C3 (2005), 23C3 (2006) - fahrplan.events.ccc.de speakers.en.html",
+    "checked": "2026-10-21",
+    "result": "No Pietrosanti/naif/Fabio."
+  },
+  {
+    "target": "Hackmeeting 2003 (Torino): hackmeeting.org/hackit03/2003 programme, programme_es, docs, npress and press pages (corriere1, repubblica1-2, stampa1-4, puntoinformatico1, nuovo1, diario_asbesto)",
+    "checked": "2026-10-21",
+    "result": "Not named (only other s0ftpj members, e.g. quest@s0ftpj.org)."
+  },
+  {
+    "target": "Hackmeeting 2006 (Parma) seminari page (Wayback 2010-06-12 capture of hackit06/index.php?act=seminari)",
+    "checked": "2026-10-21",
+    "result": "Not named. Closes the 'Hackit06 stub' residual from the 2004 pass."
+  },
+  {
+    "target": "e-privacy II (2003), III (2004), V (2006) programme pages on e-privacy.winstonsmith.org",
+    "checked": "2026-10-21",
+    "result": "Not named; only e-privacy IV (2005) names him (known)."
+  },
+  {
+    "target": "sikurezza.org: Wayback CDX of wiki/Risorse/* (no Smau06, Smau03, Infosecurity03/05 pages exist) and 11 homepage versions 2004-2006",
+    "checked": "2026-10-21",
+    "result": "No new page; homepages do not name him."
+  },
+  {
+    "target": "SMAU 2005-2006 on smau.it Wayback (CDX 2005-2006, 2316 URLs; 41 smau/formazione pages fetched; agenda_scheda pages are a generic ICT-events calendar)",
+    "checked": "2026-10-21",
+    "result": "No e-Academy 2006 programme captured; formazione pages do not name him. SMAU 2006 participation remains unverified (his 2006 homepage only says he contributed to 'Smau')."
+  },
+  {
+    "target": "His homepages 2003-2006: naif.itapac.net (CDX; index-en, reference-en, competence-en 2005), fabio.pietrosanti.it index.shtml versions 2003-06-21, 2003-12-08, 2006-07-21 and curriculum.shtml 2003-12",
+    "checked": "2026-10-21",
+    "result": "No talk/press list for 2003-2006 beyond Webbit03 (known). Reference/Competence = 'Work in Progress'. Venues named (CeAS 2002, LIUC, IBM, AntiKrimen, Infosecurity, Webbit, Smau) are known older items. Only new page: freenet-it.shtml (reported, self-published)."
+  },
+  {
+    "target": "SlideShare user fpietrosanti (full listing)",
+    "checked": "2026-10-21",
+    "result": "13 slideshows total, all already in media.json."
+  },
+  {
+    "target": "Internet Archive FTS: \"fabio.pietrosanti.it\", \"itapac.net\", \"blackhats.it\", Pietrosanti AND wireless, Pietrosanti AND webbit",
+    "checked": "2026-10-21",
+    "result": "No new hits (blackhats.it -> Hacker Journal 10 = Nail, excluded; profilinghackers known; others homonyms/noise)."
+  },
+  {
+    "target": "unipg.it 'Sicurezza e Insicurezza Wi-fi' seminar doc 2004-05 (WebSearch hit)",
+    "checked": "2026-10-21",
+    "result": "Compilation from portel.it; no name."
+  },
+  {
+    "target": "WebSearch: Infosecurity 2005 relatore, VoIP/Skype 2006, Centro Alti Studi Lotta al Terrorismo 2006, university lectures 2005-06, CNR Task Force 05-11-2003 programme, Wireless magazine 2003, Linux Day 2003-06, Fastweb/BFi 2003 press, advisories 2003-06, WTH/22C3/23C3/PH-Neutral/Defcon, SMAU 2003/2006 sikurezza",
+    "checked": "2026-10-21",
+    "result": "Nothing new naming him (only known items: PuntoSicuro AR-2853, Infosec07 SlideShare, PI 'Un raggio di luce su SMAU' 2001)."
+  },
+  {
+    "target": "Residuals not accessible",
+    "checked": "2026-10-21",
+    "result": "Google Books API still 429 (quota exhausted on laptop and server): SearchWithinVolume not done. Wayback blocks the laptop IP (all Wayback work done from ubuntu@51.158.36.151). CNR Task Force 2003 programme, SMAU 2003/2006 seminar programmes, Centro Alti Studi 2006 and TV/radio 2003-2006 remain unverified/unfound."
+  }
+]

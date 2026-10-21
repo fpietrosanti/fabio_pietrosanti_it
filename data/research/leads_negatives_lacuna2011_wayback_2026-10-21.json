@@ -1,0 +1,82 @@
+[
+ {
+  "target": "Golem.de 2011-08-23 «Globaleaks: Quelloffene Whistleblower-Plattform angekündigt» http://www.golem.de/1108/85925.html",
+  "checked": "Wayback 20111118234341, testo completo",
+  "result": "Nessun «Pietrosanti»/«naif»: cita solo lo sviluppatore Gnome Seif Lotfy e il suo blog. Negativo."
+ },
+ {
+  "target": "OWNI.eu 2011-06-08 «WSJ and Al-Jazeera Lure Whistleblowers With False Promises of Anonymity»",
+  "checked": "Wayback (capture 2011), testo completo",
+  "result": "Nessun «Pietrosanti»/«naif» (nemmeno GlobaLeaks nel testo). Negativo."
+ },
+ {
+  "target": "de Volkskrant 2013-09-09 «Vanaf vandaag: anoniem lekken naar media via doorgeefluik Publeaks» (Haro Kraak)",
+  "checked": "Wayback 20130911140009 dell'URL /vk/nl/2664/Nieuws/... (quello in rassegna Hermes)",
+  "result": "Cita «Globaleaks, ontwikkeld door het Hermes Center for Transparency and Digital Human Rights», nessun nome di persona Hermes. Negativo."
+ },
+ {
+  "target": "Disappeared News 2013-06-13 «Be the first on your block to offer leaks to the world» (Larry Geller)",
+  "checked": "Wayback 20190820080227, testo completo",
+  "result": "Nessun «Pietrosanti»/«naif». Negativo."
+ },
+ {
+  "target": "Il Manifesto 16/12/2014 «Tecnologie anticorruzione» (segnalato su ML Nexa)",
+  "checked": "Thread Nexa (hyperkitty server-nexa.polito.it, ricerca \"Tecnologie anticorruzione\"): Di Corinto segnala il suo articolo su Il Manifesto; copia integrale su dicorinto.it «Il Manifesto: Quali garanzie per le talpe» (Arturo Di Corinto, Il Manifesto del 16.12.2014)",
+  "result": "L'articolo cita «Hermes, Centro per i diritti digitali (logioshermes.org)», Mafialeaks, Expoleaks, ALAC, ma NON nomina Fabio. Il suo intervento è solo una risposta in mailing list (esclusa per regola). Nel thread annuncia «Presi per il Web» su Radio Radicale del 21/12/2014, già noto (scheda 429504). Negativo."
+ },
+ {
+  "target": "Council of Europe, World Forum for Democracy 2015, LAB 15 «Safe Whistleblowing» (19/11/2015)",
+  "checked": "WebSearch/snippet della pagina coe.int (live 403 a curl/WebFetch)",
+  "result": "GlobaLeaks presentato da Claudio Agosti (Hermes); nessun Pietrosanti. Negativo (pagina speaker 2015 non letta per 403; Wayback non tentato)."
+ },
+ {
+  "target": "re:publica 2011-2016, CPDP 2011-2016, Stockholm Internet Forum, UNESCO",
+  "checked": "WebSearch mirate (nome + GlobaLeaks + evento); il CDX per URL era già negativo il 2026-10-13",
+  "result": "Nessun riscontro. PDF dei programmi non scaricati/letti (vedi rimanenze)."
+ },
+ {
+  "target": "hermescenter.org/press (CDX)",
+  "checked": "CDX Wayback url=hermescenter.org/press*",
+  "result": "Solo capture 2021-2023 (sito nuovo, già coperto dal restore locale hermescenter-restore); nessuna pagina press 2011-2016 su quel percorso."
+ },
+ {
+  "target": "globaleaks.org pagine press/media 2011-2016 (CDX)",
+  "checked": "CDX filtro press|media|news|coverage, to=2016",
+  "result": "Solo /news/ e asset di plugin; il sito live ?p=318/74/408 è una SPA senza testo lato server."
+ },
+ {
+  "target": "OWNI.eu 2011-09-12 «A guide to Libya's surveillance network» (rassegna Hermes)",
+  "checked": "Wayback (capture 2011), testo completo",
+  "result": "Nessun «Pietrosanti»/«naif»/GlobaLeaks. Negativo."
+ },
+ {
+  "target": "Rassegna Press Hermes 2013-2015 (logioshermes.org/home/news-press/press/)",
+  "checked": "CDX (capture 2013-06, 2013-09, 2014-07, 2015-11) e lettura della capture 2014",
+  "result": "Solo 3 link esterni: Forbes 2011-01-26 Greenberg (già noto), RFE/RL Tangled Web (-> trovato e inserito l'articolo RFE/RL 2012-08-24), Ars Technica 2008 Tor2web (Swartz/Griffith, fuori tema). logioshermes.org/category/press/ (2015): 429, non letto."
+ },
+ {
+  "target": "RFE/RL rferl.org/archive/Tangled_Web/latest/3281/3281.html (vecchio link della rassegna Hermes)",
+  "checked": "Wayback (capture più vicina al 2012)",
+  "result": "È l'indice mutevole del blog: la capture non contiene il nome. Risolto trovando l'articolo con la ricerca interna di rferl.org (vedi raw)."
+ },
+ {
+  "target": "RightsCon Silicon Valley 2016, sessione ID57 «Planning and Setting up a Whistleblowing initiative ... with GlobaLeaks» (rightscon.sched.org/event/6MhV)",
+  "checked": "Capture post-evento 20160517101848 (oltre a quella di marzo); live rightscon2016.sched.com -> 404",
+  "result": "Ancora relatore «TBA»; host organization ora «Free Press Unlimited». Nessun «Pietrosanti»/«naif». CDX rightscon.org per i PDF 2016: 504 (programma finale PDF non trovato). Negativo allo stato."
+ },
+ {
+  "target": "Circumvention Tech Festival 2015 (Valencia, 1-6/3/2015) - programma",
+  "checked": "CDX ctfestival.org (dominio parcheggiato, nessun programma) e openitp.org/festival*; letti via Wayback festival-events.html, the-workshop-seminar-series-in-english.html, journalism-security.html, festival-blog/events-everyone-should-attend.html",
+  "result": "Nessuna menzione di GlobaLeaks, Hermes, Pietrosanti o naif. Il programma delle singole sessioni dell'unconference non risulta archiviato. Negativo."
+ },
+ {
+  "target": "techPresident 2011-2016 (GlobaLeaks/Tor2web/whistleblowing)",
+  "checked": "Live 522. CDX con filtri regex su /news/2* e /news/wegov/*: trovati 24526 (inserito), 25320 (noto), 25378 Afrileaks, wegov 24726/24737/24763/24802/25138/25142 e articoli Italia 24102/24322/24489",
+  "result": "24526 = voce nuova. 25378 Afrileaks: 429 persistente, non letto. Gli altri URL wegov non aperti (titoli non legati a GlobaLeaks/Hermes, tranne forse 24726 'EU anti-corruption report whistleblowers civil society')."
+ },
+ {
+  "target": "globaleaks.org/news/ (capture 2012-05)",
+  "checked": "CDX (200 nel 2012, poi redirect/404)",
+  "result": "Fetch in 429: non letto."
+ }
+]
