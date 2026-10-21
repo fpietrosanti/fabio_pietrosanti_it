@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1488**; dopo deduplica: **1082**
+- Risultati grezzi dalle ricerche: **1490**; dopo deduplica: **1083**
 - Già presenti sul vecchio sito: **49** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1033**
-- Verificati aprendo la pagina: **1013**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1034**
+- Verificati aprendo la pagina: **1014**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 71, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Slide 15, Comunicato 15, Paper 12, Podcast 12, audio 11, TV 7, Capitolo di libro 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, programme 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity.ch 72, Video 71, Citato 51, Progetto 33, article 32, Ricerca 31, Altro 30, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, documento 15, Slide 15, Comunicato 15, Paper 12, Podcast 12, audio 11, TV 7, Capitolo di libro 6, programme 6, Intervista 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -38,7 +38,7 @@ Per tipo (nuovi): Menzionato 211, tweet 132, Talk 87, Post sul blog infosecurity
 | 2017 | 0 | 74 | 74 |
 | 2018 | 0 | 68 | 68 |
 | 2019 | 0 | 64 | 64 |
-| 2020 | 0 | 171 | 171 |
+| 2020 | 0 | 172 | 172 |
 | 2021 | 0 | 90 | 90 |
 | 2022 | 0 | 64 | 64 |
 | 2023 | 0 | 17 | 17 |
@@ -544,7 +544,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
 
-## 2020 — 171 voci, 171 nuove
+## 2020 — 172 voci, 172 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -856,6 +856,8 @@ Anni senza nessun risultato: nessuno
   Testo: «[ITA] Come non sprecare un milione di euro con l'introduzione del voto online proposto da @g_brescia che speculativamente ignora o vuole ignorare le esperienze nel resto del mondo, illuminato dalla micro-estonia, ultimo paese rimasto con il voto online https://t.co/b5QU6CATSl» Link: https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/. Wayback capture 20200211185002 (id_) di twitter.com/fpietrosanti/status/1227186128391938048.
 - 🆕 **2020-02-06** · Talk · tvxs.gr — [Εκδήλωση για το whistleblowing στις χώρες της Ευρωπαϊκής Ένωσης (Atene: Hermes Center con Yvette Agostini e Fabio Pietrosanti)](https://tvxs.gr/news/ellada/ekdilosi-gia-whistleblowing-stis-xores-tis-eyropaiki-enosis/)  
   verified via wayback; context: …αναφορικά με το whistleblowing στη χώρα τους: Διεθνής Διαφάνεια Ελλάδος: Άννα Δαμάσκου, Άρης Δανίκας και Αλέξανδρος Μελίδης Hermes Center: Yvette Agostini and Fabio Pietrosanti, Blueprint for free speech: Suelette Dreyfu…
+- 🆕 **2020-02-04** · programme · ITASEC 2020 (Conferenza italiana sulla cybersecurity, Ancona) — [Il giornalismo e la protezione delle fonti nel mondo digitale / Parte I](https://2020.itasec.it/ITASEC20/il-giornalismo-e-la-protezione-delle-fonti-nel-mondo-digitale-pt1/)  
+  verified via live; context: …rency and Digital Human Rights , con il quale collabora alla diffusione di strumenti per la protezione del lavoro giornalistico e delle fonti. Social: @faffa42 Fabio Pietrosanti: Presidente e co-fondatore del Centro Herm… Sessione del 4/02/2020 (traccia 'Giornalismo e cybersecurity'); Fabio tra i relatori con bio (Hermes Center).
 - 🆕 **2020-02** · programme · ITASEC 2020 (Conferenza italiana sulla cybersecurity, Ancona) — [ITASEC 2020 — programma della conferenza (bio relatore)](https://2020.itasec.it/itasec-2020/conference/)  
   Bio: 'Fabio Pietrosanti: Presidente e co-fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali ... gestore di nodi Tor e Tor2web'. Pagina letta.
 - 🆕 **2020-01-22** · tweet · Twitter — [Estonia, voto online e M5S: ironia sulla presunta crescita della partecipazione](https://twitter.com/fpietrosanti/status/1220109706640924682)  

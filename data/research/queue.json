@@ -1523,51 +1523,61 @@
   },
   {
    "query": "\"Pietrosanti\" sikurezza.org OR \"Metro Olografix\" 2003",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari",
+   "date": "2026-10-21",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" \"sicurezza informatica\" 2005 OR 2006 intervista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari",
+   "date": "2026-10-21",
+   "found": 10
   },
   {
    "query": "\"Pietrosanti\" Tor2web OR \"hidden services\" 2023 OR 2024",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari",
+   "date": "2026-10-21",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" GlobaLeaks 2023 OR 2024 OR 2025",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari",
+   "date": "2026-10-21",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" biohacking OR longevità 2024 OR 2025",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari",
+   "date": "2026-10-21",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" Latina 2023 OR 2024 OR 2025",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari; 2026-10-21: robot check Google, da rifare"
   },
   {
    "query": "\"Pietrosanti\" whistleblowing \"decreto legislativo 24/2023\" OR \"d.lgs. 24/2023\"",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari; 2026-10-21: robot check Google, da rifare"
   },
   {
    "query": "\"Fabio Pietrosanti\" podcast OR webinar 2021 OR 2022",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
-   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari"
+   "note": "aggiunta 2026-10-20: coda esaurita; anni più deboli (2003, 2005-06, 2023-25) e filoni secondari; 2026-10-21: robot check Google, da rifare"
   }
  ],
  "history": [
@@ -2207,6 +2217,14 @@
    "captcha": true,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Le 6 query in 'retry' (Kaspersky 2017, Hermes diritti digitali 2016-17, voto elettronico 2019-20, Copernicani 2019-21, naif Winston Smith 2010-11, Transparency International 2022-23) eseguite senza robot check: 56 risultati. Google dà ancora link /goto: raccolti titolo e dominio visibile e confrontati con media.json invece di risolvere i link. Quasi tutto già in archivio (startmag/ilriformista/formiche/europa.today Kaspersky 2022, agendadigitale voto estero, giornalettismo, open.gov.it, partecipami/radioradicale Milano Partecipa, e-privacy XVII/XXI/XXIII/XXX, radioradicale e-privacy XXIV e Singolarità, startmag Casaleggio blockchain, slide Voice communication security, ResearchGate/Academia TI, dig-awards). Scartati senza verifica: pagine-tag (dicorinto cyberwar, euronews), mailing list nexa, forum.italia.it, codice GitHub monitorapa, profilo LinkedIn, Wikipedia. Verificati 2 URL pr-foundation (CdA, incontro rider con Copernicani) ricavati dalla home del sito: il nome è solo nel riquadro laterale 'Novità' → esclusi in decisions.json. Una ricerca supplementare (site:docenti.unina.it) ha fatto scattare il robot check: stop immediato, nessun tentativo di superarlo. Non risolti (URL ignoto, non inventato): PDF docenti.unina.it 'Lo Stato vis à vis i poteri economici e privati', europa.today 'Cereali da Russia e Ucraina' (probabile solo correlato), canale YouTube VoidSec (pagina canale). archive_copies non eseguito (nessuna voce nuova). Coda esaurita: aggiunte 8 query per 2003, 2005-06, 2023-25."
+  },
+  {
+   "date": "2026-10-21 10:10",
+   "engine": "google-chrome",
+   "searched": 5,
+   "captcha": true,
+   "confirmed_new": 2,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. 5 delle 8 query pending eseguite (2003 sikurezza/Olografix, 2005-06 interviste, Tor2web 2023-24, GlobaLeaks 2023-25, biohacking/longevità 2024-25): 46 risultati, link ancora /goto → confrontati titolo+dominio con media.json. Alla 6ª (Latina 2023-25) robot check: nessun tentativo di superarlo; per errore il batch già avviato ha caricato altre 2 ricerche, finite anch'esse sul robot check (nessuna interazione con la verifica). Le 3 rimanenti in 'retry'. NUOVE: 2 pagine sessione ITASEC 2020 'Il giornalismo e la protezione delle fonti nel mondo digitale' Parte I e II (4/02/2020, Fabio relatore con bio), URL letti dal programma del sito. ESCLUSA: forbes.it 2025/05/29 Quality of Life — 'Paola Pietrosanti' (Sapienza), omonima. Già in archivio o scartati: slide Voice communication security, mgpf InfoSecurity2007, personaldemocracy, controtuttelemafie, poul, theinnovationgroup, radioradicale soggetti, raiplaysound Codice Beta, peacelink newsletter (già esclusa), seclists/pipermail (mailing list), LinkedIn/X/Wikipedia/baidu, pagine-tag dicorinto, post social Longevity Fest Porto Cervo e '20 kg di zavorra' (URL non disponibile senza risolvere /goto). Copie offline: 2 ottenute."
   }
  ]
 }

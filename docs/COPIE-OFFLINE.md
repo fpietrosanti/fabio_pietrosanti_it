@@ -1,21 +1,21 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-20 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-21 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **1082**; già processate: **1255**; ancora da processare: **0**
-- Licenza delle copie ottenute: **232** materiale proprio (ripubblicabile), **914** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1035**
+- Voci in `data/media.json`: **1083**; già processate: **1257**; ancora da processare: **0**
+- Licenza delle copie ottenute: **232** materiale proprio (ripubblicabile), **915** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1037**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **4**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **1**
-- 🎬 Video/audio scaricato (+ pagina): **99**
-- 🎞️ Solo pagina/link: video/audio non scaricabile: **7**
-- ❌ Non ottenuta: **9**
+- 🎬 Video/audio scaricato (+ pagina): **101**
+- 🎞️ Solo pagina/link: video/audio non scaricabile: **4**
+- ❌ Non ottenuta: **10**
 
 ## Per anno
 
@@ -45,10 +45,10 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 74 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 81 | 3 | 1 | 0 | 0 | 0 | 2 |
-| 2020 | 162 | 8 | 2 | 0 | 0 | 0 | 0 |
+| 2020 | 164 | 8 | 2 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 7 | 0 | 0 | 0 | 0 | 1 |
-| 2022 | 55 | 8 | 0 | 0 | 4 | 0 | 2 |
-| 2023 | 13 | 0 | 1 | 0 | 3 | 0 | 0 |
+| 2022 | 55 | 9 | 0 | 0 | 3 | 0 | 2 |
+| 2023 | 13 | 1 | 1 | 0 | 1 | 0 | 1 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 7 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 43 | 2 | 0 | 1 | 0 | 0 | 1 |
@@ -257,21 +257,23 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ⏹️ **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [论坛现场座无虚席！第七届国际长寿论坛火热启幕，这条视频带你速览首日精彩画面](https://www.bilibili.com/video/BV1w8YX6uENN/) · licenza: terzi  
   2026-10-06: clip TimePie viste fotogramma per fotogramma il 2026-10-01: Fabio non compare → escluse da media.json; copia conservata.
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
-  http 404
+  http 403
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
-  http 404
+  http 403
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
   URLError
 - ❌ **2019** · Università di Foggia (lezione nel corso  — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck c](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: terzi  
-  http 410
+  URLError
 - ❌ **2021** · The Crypto Conversation (Brave New Coin) — [Scandal and Turmoil - The Cryptocurrency Wild West](https://podcasts.apple.com/us/podcast/scandal-and-turmoil-the-cryptocurrency-wild-west/id1471243424?i=1000538523963) · licenza: terzi  
   URLError; video: ERROR: [apple:podcasts] 1000538523963: Unable to download webpage: HTTPSConnection(host='podcasts.apple.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions (caused by TransportError("HTTPSConnecti
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
   URLError
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
   URLError
+- ❌ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
+  URLError; video: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - ❌ **2026** · Cyber Saiyan (YouTube) - RomHack Camp 20 — [MXMap Italia: National Observatory for Digital Sovereignty | RomHack Camp 2026](https://www.youtube.com/watch?v=GyNpnJ5Q2ew) · licenza: terzi  
   URLError; video: ERROR: [youtube] GyNpnJ5Q2ew: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions (caused by TransportError("HTTPSConnection(host='ww
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
@@ -292,14 +294,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
 - 🎞️ **2022** · Ciao, Internet! con Matteo Flora — [KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!](https://www.spreaker.com/episode/kaspersky-antivirus-e-pericoloso-va-rimosso-e-un-malware-russo-tutte-le-risposte--49065639) · licenza: terzi  
   page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
-- 🎞️ **2022** · Il podcast di Marco Canestrari — [Pacifici si ma incazzati pure](https://www.spreaker.com/episode/pacifici-si-ma-incazzati-pure--49249201) · licenza: terzi  
-  page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
-- 🎞️ **2023** · Ciao, Internet! con Matteo Flora - Garan — [[Garantismi LIVE] - Le Sfide della Privacy nel 2023](https://www.spreaker.com/episode/garantismi-live-le-sfide-della-privacy-nel-2023--52379256) · licenza: terzi  
-  page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
 - 🎞️ **2023** · Associazione Copernicani (YouTube) — [Privacy By Design - Privacy Coins](https://www.youtube.com/watch?v=SEQQOGEBnXo) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] SEQQOGEBnXo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extract
-- 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
-  page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
   page is a JavaScript shell with almost no text: needs browser capture
 
@@ -1061,6 +1057,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE) · copia: `2019/26f28fdcd90f` (Web Archive 20190313 · video locale `media.mp4` (54 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/) · copia: `2020/355b38e1ace5` (Web Archive 20200329) · licenza: propria
 - **2020** · Veronica One / V1 HitStation (radioveron — [M5S, hacker a parlamentari: “Ecco Open Rousseau, così sarete liberi”](http://www.radioveronicaone.it/2020/10/01/m5s-hacker-a-parlamentari-ecco-open-rousseau-cosi-sarete-liberi/) · copia: `2020/a633ac33c593` (Web Archive 20210423) · licenza: terzi
+- **2020** · ITASEC 2020 (Conferenza italiana sulla c — [Il giornalismo e la protezione delle fonti nel mondo digitale | Parte I](https://2020.itasec.it/ITASEC20/il-giornalismo-e-la-protezione-delle-fonti-nel-mondo-digitale-pt1/) · copia: `2020/e9cbcb9c0018` (live) · licenza: terzi
+- **2020** · ITASEC 2020 (Conferenza italiana sulla c — [Il giornalismo e la protezione delle fonti nel mondo digitale | Parte I](https://2020.itasec.it/ITASEC20/il-giornalismo-e-la-protezione-delle-fonti-nel-mondo-digitale-pt2/) · copia: `2020/ef44ac2189e3` (live) · licenza: terzi
 - **2020** · ITASEC 2020 (Conferenza italiana sulla c — [ITASEC 2020 — programma della conferenza (bio relatore)](https://2020.itasec.it/itasec-2020/conference/) · copia: `2020/af14ea87327f` (Web Archive 20211026) · licenza: terzi
 - **2020** · ANORC — [Immuni, ANORC a Pisano: dichiarazioni non allineate, faccia chiarezza](https://anorc.eu/attivita/immuni-anorc-a-pisano-dichiarazioni-non-allineate-faccia-chiarezza/) · copia: `2020/4ae161b7e732` (Web Archive 20200518) · licenza: terzi
 - **2020** · ANORC / Digital & Law Department, Lecce — [Lettera alla Ministra Pisano sull'app Immuni (24/04/2020)](https://anorc.eu/wp-content/uploads/2020/04/Lettera-PISANO_ANORC_Aprile-2020.pdf) · copia: `2020/4436e549676a` (Web Archive 20200611) · licenza: terzi
@@ -1374,6 +1372,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · raiplaysound.it — [Eta Beta | Puntate 2022 | Rai Radio 1 | RaiPlay Sound](https://www.raiplaysound.it/programmi/etabeta/puntate/puntate-2022) · copia: `2022/faf7fd4a6ecc` (Web Archive 20240329) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora (Spreak — [1064. MonitoraPA ha mandato una PEC a 8254 scuole](https://www.spreaker.com/episode/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole-quali-le-domande-e-cosa-rispondere-con-42lf-it--51323447) · copia: `2022/4cdfae9d5870` (live · video locale `media.mp3` (53 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora (Spreak — [GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.spreaker.com/episode/google-analytics-e-pubbliche-amministrazioni-8-000-pa-sono-fuori-legge-ed-ora--49784871) · copia: `2022/856a89da52a2` (live · video locale `media.mp3` (28 MB, da caricare su Drive)) · licenza: terzi
+- **2022** · Il podcast di Marco Canestrari — [Pacifici si ma incazzati pure](https://www.spreaker.com/episode/pacifici-si-ma-incazzati-pure--49249201) · copia: `2022/0bf514f74a59` (live · video locale `media.mp3` (113 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Startmag — [Anonymous, c'è un caso Kaspersky in Italia?](https://www.startmag.it/innovazione/anonymous-ce-un-caso-kaspersky-in-italia/) · copia: `2022/74abfa235c09` (Web Archive 20220228) · licenza: terzi
 - **2022** · Wall Street Italia — [Kaspersky, in Italia si riapre il caso dell'antivirus russo amato da PA e aziende](https://www.wallstreetitalia.com/kaspersky-in-italia-si-riapre-il-caso-dellantivirus-russo-amato-da-pa-e-aziende/) · copia: `2022/dabf21495649` (Web Archive 20220312) · licenza: terzi
 - **2022** · Ciao Internet - Matteo Flora (YouTube) — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con ](https://www.youtube.com/watch?v=0ETCVcF-HIs) · copia: `2022/93d1596681f3` (Web Archive 20220920 · video locale `media.mp4` (114 MB, da caricare su Drive)) · licenza: terzi
@@ -1394,6 +1393,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2023** · European Parliament, Policy Department f — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf) · copia: `2023/26bb7f5f7319` (Web Archive 20230224) · licenza: terzi
 - **2023** · Latina News (latinanews.eu) — [Elezioni - Matilde Celentano in visita alla sede Gls di Latina](https://www.latinanews.eu/elezioni-matilde-celentano-in-visita-alla-sede-gls-di-latina/) · copia: `2023/566f95d4a3c8` (live) · licenza: terzi
 - **2023** · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html) · copia: `2023/a6c17e995b05` (live) · licenza: terzi
+- **2023** · Ciao, Internet! con Matteo Flora - Garan — [[Garantismi LIVE] - Le Sfide della Privacy nel 2023](https://www.spreaker.com/episode/garantismi-live-le-sfide-della-privacy-nel-2023--52379256) · copia: `2023/295f8e8e294d` (live · video locale `media.mp3` (71 MB, da caricare su Drive)) · licenza: terzi
 - **2024** · Wolters Kluwer Italia — [Intelligenza artificiale, blockchain e criptovalute](https://books.google.com/books?id=GbEvEQAAQBAJ) · copia: `2024/be1b38a964db` (live) · licenza: terzi
 - **2024** · CTO at NCSC Summary (Substack) — [CTO at NCSC Summary: week ending November 17th](https://ctoatncsc.substack.com/p/cto-at-ncsc-summary-week-ending-november-ced) · copia: `2024/82c1278103cf` (Web Archive 20241116) · licenza: terzi
 - **2024** · Edward Elgar, Digital Media and Grassroo — [Digital whistleblowing platforms for anti-corruption: The Transparency International Itali](https://doi.org/10.4337/9781802202106.00015) · copia: `2024/5cebfaf2f256` (live) · licenza: terzi
