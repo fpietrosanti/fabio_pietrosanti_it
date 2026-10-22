@@ -1835,51 +1835,115 @@
   },
   {
    "query": "\"Hacker's Corner\" \"Pietrosanti\" OR \"naif\" festival giornalismo Perugia",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)",
+   "date": "2026-10-22",
+   "found": 3
   },
   {
    "query": "\"Fabio Pietrosanti\" workshop giornalisti sicurezza OR \"fonti\" 2011 OR 2012 OR 2013",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)",
+   "date": "2026-10-22",
+   "found": 10
   },
   {
    "query": "\"Pietrosanti\" \"naif\" 2003 conferenza OR seminario wireless OR sicurezza",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)",
+   "date": "2026-10-22",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" 2006 intervista OR dichiara OR relatore",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)",
+   "date": "2026-10-22",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2023 whistleblowing OR GlobaLeaks intervista OR webinar",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)",
+   "date": "2026-10-22",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" 2024 hacker OR privacy OR sorveglianza",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)",
+   "date": "2026-10-22",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2025 hacker OR privacy OR sorveglianza OR spyware",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)",
+   "date": "2026-10-22",
+   "found": 10
   },
   {
    "query": "\"Pietrosanti\" Paragon OR Graphite OR spyware giornalisti 2025",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)",
+   "date": "2026-10-22",
+   "found": 8
+  },
+  {
+   "query": "\"Pietrosanti\" \"chat control\" OR \"CSAM\" crittografia 2023 OR 2024",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; filoni non ancora cercati (chat control, cyberwar 2022, Pegasus/NSO, ransomware, SPID/CIE, data retention, Exodus 2019, GSM/IMSI catcher 2009-10)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Anonymous OR cyberwar Ucraina Russia 2022",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; filoni non ancora cercati (chat control, cyberwar 2022, Pegasus/NSO, ransomware, SPID/CIE, data retention, Exodus 2019, GSM/IMSI catcher 2009-10)"
+  },
+  {
+   "query": "\"Pietrosanti\" Pegasus OR NSO spyware 2021 OR 2022",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; filoni non ancora cercati (chat control, cyberwar 2022, Pegasus/NSO, ransomware, SPID/CIE, data retention, Exodus 2019, GSM/IMSI catcher 2009-10)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" ransomware OR \"attacco hacker\" 2021 OR 2022 OR 2023",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; filoni non ancora cercati (chat control, cyberwar 2022, Pegasus/NSO, ransomware, SPID/CIE, data retention, Exodus 2019, GSM/IMSI catcher 2009-10)"
+  },
+  {
+   "query": "\"Pietrosanti\" SPID OR CIE OR \"identità digitale\" sicurezza",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; filoni non ancora cercati (chat control, cyberwar 2022, Pegasus/NSO, ransomware, SPID/CIE, data retention, Exodus 2019, GSM/IMSI catcher 2009-10)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"data retention\" OR \"conservazione dei dati di traffico\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; filoni non ancora cercati (chat control, cyberwar 2022, Pegasus/NSO, ransomware, SPID/CIE, data retention, Exodus 2019, GSM/IMSI catcher 2009-10)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Exodus OR eSurv trojan 2019",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; filoni non ancora cercati (chat control, cyberwar 2022, Pegasus/NSO, ransomware, SPID/CIE, data retention, Exodus 2019, GSM/IMSI catcher 2009-10)"
+  },
+  {
+   "query": "\"Pietrosanti\" GSM OR \"IMSI catcher\" intercettazione cellulari 2009 OR 2010",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; filoni non ancora cercati (chat control, cyberwar 2022, Pegasus/NSO, ransomware, SPID/CIE, data retention, Exodus 2019, GSM/IMSI catcher 2009-10)"
   }
  ],
  "history": [
@@ -2575,6 +2639,14 @@
    "captcha": false,
    "confirmed_new": 1,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (hall of fame/disclosure, naif 1998-99, Linux Day 2001-04, VoIP/Skype 2007, Hermes 2025, Monitora PA 2024-25, Centro Hermes audizioni 2023-24, crittografia convegni 2006-07) eseguite senza robot check: 72 risultati, 25 URL distinti fuori dagli scarti ovvi, 17 già in archivio o già esclusi (vice.com black/white hat, dvara.net, agendadigitale MonitoraPA, simpleanalytics, ANORC Immuni, Radio Radicale e-privacy XXIV e Master Anticorruzione, controtuttelemafie, slideshare già decisi, dokumen.pub, mokazine/peacelink/alessandrorodolfi già respinti). 4 candidati verificati: 4 OK allo script. NUOVA (1): umbria24.it 14/04/2011, programma Festival del giornalismo 2011 — The Hacker's Corner Workshop #5 'Hacking Level 5: Be Safe', docenti Vecna, Fabio 'Naif' Pietrosanti, Koba. ESCLUSE a mano (3, in decisions.json): 2 slideshare di terzi (Townet TDMA, LDNA 2019) con il nome solo nelle 'slide correlate'; zh.wikipedia GlobaLeaks (versione linguistica di voce già presente). Scartati: indici/tag (dalchecco, euronews location, ilsole24ore tag L'Oreal), profili LinkedIn (incluso uno 'Fabio Pietrosanti – Autorità Garante', da non seguire), liste hackmeeting/nexa (mailing list). Copie offline: 1 ottenuta (wayback). Coda di nuovo esaurita: aggiunte 8 query."
+  },
+  {
+   "date": "2026-10-22 16:40",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 1,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (Hacker's Corner IJF, workshop giornalisti 2011-13, naif 2003, 2006, 2023 whistleblowing, 2024, 2025, Paragon/Graphite 2025) eseguite senza robot check: 69 risultati, 49 URL distinti, 35 già in archivio o già decisi (umbria24 IJF11, speaker IJF, HackersCorner IJF13, Radio Radicale GlobaLeaks/WikiLeaks/Master Anticorruzione, ITASEC 2020, e-privacy XVII/XXI/XXIII/XXX, Clusit 2012, tomshw/punto-informatico/therecord/thenextweb spyware, IRPA, SFSCon MXMap, RomHack, theinnovationgroup). 10 candidati verificati: 1 OK. NUOVA (1): SecNews.gr (EN) 'WhatsApp: Italian Spyware Company Created Fake iOS Version' — ripresa del pezzo TNW 04/2026, cita Fabio sull'Italia come area più attiva per gli spyware. Respinti dallo script (nome assente): comunicato IJF13 PDF, pr-foundation rapporto finale workshop, L'Ancora 2009, delibera scalia2001 (omonimo già noto), Radio Radicale Festa de l'Unità 2025 caso Paragon, monografico dirittobancario 2025; 2 post Threads di terzi (social, shell JS). Scartati senza verifica: indici dalchecco/fusolab, espoarte e Unità 1997 (arte naif/omonimi), visura camerale whistleblowingsolutions (atto con dati personali), LinkedIn. Copie offline: 1 ottenuta (live). Coda di nuovo esaurita: aggiunte 8 query."
   }
  ]
 }

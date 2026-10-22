@@ -5,10 +5,10 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1121**; già processate: **1295**; ancora da processare: **0**
-- Licenza delle copie ottenute: **235** materiale proprio (ripubblicabile), **952** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1068**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **4**
+- Voci in `data/media.json`: **1136**; già processate: **1310**; ancora da processare: **0**
+- Licenza delle copie ottenute: **249** materiale proprio (ripubblicabile), **953** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1069**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **18**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
@@ -38,20 +38,20 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2010 | 63 | 2 | 0 | 0 | 0 | 0 | 3 |
 | 2011 | 30 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2013 | 26 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2013 | 26 | 6 | 1 | 0 | 0 | 0 | 0 |
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 38 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 2016 | 22 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 75 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 83 | 3 | 1 | 0 | 0 | 0 | 2 |
-| 2020 | 164 | 9 | 2 | 0 | 0 | 0 | 0 |
+| 2016 | 22 | 8 | 1 | 0 | 0 | 0 | 0 |
+| 2017 | 75 | 5 | 3 | 0 | 0 | 0 | 0 |
+| 2018 | 57 | 16 | 4 | 0 | 0 | 0 | 0 |
+| 2019 | 83 | 3 | 3 | 0 | 0 | 0 | 2 |
+| 2020 | 164 | 9 | 5 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 55 | 15 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 3 | 1 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 7 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 43 | 3 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 44 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -276,7 +276,35 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
+- 🟡 **2013** · Hermes Center for Transparency and Digit — [[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”](https://hermescenter.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2016** · Hermes Center for Transparency and Digit — [Consultazione ANAC sul FOIA: Posizione del Centro Hermes](https://hermescenter.org/consultazione-anac-sul-foia-posizione-del-centro-hermes/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2017** · Hermes Center for Transparency and Digit — [Appello del Centro Hermes ad ANAC per la Tecnologia di Whistleblowing open-source](https://hermescenter.org/appello-del-centro-hermes-ad-anac-per-la-tecnologia-di-whistleblowing-open-source/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2017** · Hermes Center for Transparency and Digit — [Il centro Hermes ha partecipato al Linux Day 2017 a Pavia](https://hermescenter.org/il-centro-hermes-ha-partecipato-al-linux-day-2017-pavia/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2017** · Hermes Center for Transparency and Digit — [After Net Neutrality, Device Neutrality](https://hermescenter.org/net-neutrality-device-neutrality/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · Hermes Center for Transparency and Digit — [15 novembre 2018: un anno dall’approvazione della legge sul whistleblowing in Italia](https://hermescenter.org/15-novembre-2018-un-anno-dallapprovazione-della-legge-sul-whistleblowing-in-italia/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · Hermes Center for Transparency and Digit — [Centro Hermes partecipa a Consultazione su acquisizione e riuso di software con riferiment](https://hermescenter.org/centro-hermes-partecipa-a-consultazione-su-acquisizione-e-riuso-di-software-con-riferimento-al-whistleblowing-anticorruzione/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · Hermes Center for Transparency and Digit — [Software di Whistleblowing Digitale GlobaLeaks al MERGE-IT](https://hermescenter.org/software-di-whistleblowing-digitale-globaleaks-al-merge-it/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · Hermes Center for Transparency and Digit — [Il software libero e open source GlobaLeaks fornito gratuitamente agli enti pubblici: nasc](https://hermescenter.org/whistleblowingpa/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · pr-foundation.org — [5 novembre a Milano: Incontro sulle Fondazioni Culturali e il Digitale — P&R Foundation](http://www.pr-foundation.org/5-novembre-milano/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · Hermes Center for Transparency and Digit — [ANAC ed OpenWhistleblowing](https://hermescenter.org/anac-ed-openwhistleblowing/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · Hermes Center for Transparency and Digit — [Il software GlobaLeaks festeggia il primo anno a supporto del whistleblowing anonimo nella](https://hermescenter.org/il-software-globaleaks-festeggia-il-primo-anno-a-supporto-del-whistleblowing-anonimo-nella-pa/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2020** · Hermes Center for Transparency and Digit — [ANAC e Hermes Center risolvono una controversia sull’applicazione della licenza AGPL al so](https://hermescenter.org/anac-e-hermes-center-risolvono-una-controversia-sullapplicazione-della-licenza-agpl-al-software-openwhistleblowing/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2020** · Hermes Center for Transparency and Digit — [Risposta alla Consultazione su Piano Anticorruzione del Comune di Roma](https://hermescenter.org/risposta-alla-consultazione-su-piano-anticorruzione-del-comune-di-roma/) · licenza: propria  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2020** · Hermes Center for Transparency and Digit — [Whistleblowing: un impegno comune per recepire e applicare la Direttiva europea. Important](https://hermescenter.org/whistleblowing-un-impegno-comune-per-recepire-e-applicare-la-direttiva-europea-importante-tutelare-anche-chi-sta-attorno-ai-segnalanti-e-cioe-i-media-e-la-societa-civile/) · licenza: propria  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2020** · Bloomberg - Listen to the Story — [North Korea's Man in Spain](https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
@@ -1491,6 +1519,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/) · copia: `2026/d6c235f32bf3` (Web Archive 20260604) · licenza: propria
 - **2026** · Autorita Garante per la Protezione dei D — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html) · copia: `2026/2a9036b3ef9e` (Web Archive 20260121) · licenza: terzi
 - **2026** · OrlandoMagazine.it — [L'utilità è il futuro. E il futuro è biohacking](https://www.orlandomagazine.it/2026/09/18/lutilita-e-il-futuro-e-il-futuro-e-biohacking/) · copia: `2026/66ee8a0d68ea` (live) · licenza: terzi
+- **2026** · SecNews.gr — [WhatsApp: Italian Spyware Company Created Fake iOS Version](https://www.secnews.gr/en/700557/whatsapp-italiki-spyware-fake-app/) · copia: `2026/477049d95612` (live) · licenza: terzi
 - **2026** · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, ](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/) · copia: `2026/7468ee43a638` (live) · licenza: terzi
 - **2026** · Sohu 搜狐号 (时光派, 100270039) — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://www.sohu.com/a/1067664696_100270039) · copia: `2026/3ed9e3a20ed7` (live) · licenza: terzi
 - **2026** · Sohu (搜狐号) — 时光派 — [超级盛会阵容，百余全球讲者，三千观众齐聚！科研、产业、极客，共同织就衰老防护网 | 第七届国际长寿论坛整体回顾](https://www.sohu.com/a/1078945684_100270039) · copia: `2026/ebce85101353` (live) · licenza: terzi

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1563**; dopo deduplica: **1135**
+- Risultati grezzi dalle ricerche: **1564**; dopo deduplica: **1136**
 - Già presenti sul vecchio sito: **52** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1083**
-- Verificati aprendo la pagina: **1068**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1084**
+- Verificati aprendo la pagina: **1069**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 226, tweet 132, Talk 89, Video 76, Post sul blog infosecurity.ch 72, Citato 51, article 42, Progetto 33, Altro 32, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 226, tweet 132, Talk 89, Video 76, Post sul blog infosecurity.ch 72, Citato 52, article 42, Progetto 33, Altro 32, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -44,11 +44,11 @@ Per tipo (nuovi): Menzionato 226, tweet 132, Talk 89, Video 76, Post sul blog in
 | 2023 | 0 | 19 | 19 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 13 | 13 |
-| 2026 | 0 | 42 | 42 |
+| 2026 | 0 | 43 | 43 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 42 voci, 42 nuove
+## 2026 — 43 voci, 43 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
@@ -118,6 +118,8 @@ Anni senza nessun risultato: nessuno
   Diretta mondiale del 08/04/2026 (1:32:45). Collegamento dal rally di Roma (Fori Imperiali) a 43:35–45:30: Fabio compare a destra, maglia rossa, cartello «STOP AGING»; nome assente da titolo/descrizione. Riconosciuto da Fabio il 07/10/2026 sui fotogrammi, con la sua foto della stessa scena.
 - 🆕 **2026-04-01** · article · The Next Web (TNW) — [WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhones (SIO)](https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio)  
   Verified by fetch: "Fabio Pietrosanti, president of the Hermes Center for Transparency and Digital Human Rights, has said that spyware is deployed more frequently in Italy than anywhere else in Europe..." (follow-up of The Record 2024).
+- 🆕 **2026-04** · Citato · SecNews.gr — [WhatsApp: Italian Spyware Company Created Fake iOS Version](https://www.secnews.gr/en/700557/whatsapp-italiki-spyware-fake-app/)  
+  verified via live; context: …for extensive surveillance activities . Italy appears to be developing into one of the most “active” areas of surveillance software use in Europe, according to Fabio Pietrosanti . As he points out, low costs and a more f… Ripresa (versione inglese di SecNews) dell'articolo TNW 04/2026 su SIO/finto WhatsApp; data stimata dalla notizia originale.
 - 🆕 **2026-03-18** · Talk · Centro per la Riforma dello Stato (CRS), Roma — [Presentazione del 'Manualetto di sicurezza digitale' (locandina)](https://centroriformastato.it/wp-content/uploads/2026/03/Manualetto-sicurezza-digitale_locandina-18-mar-2026-1.pdf)  
   verified via pdftotext (Google 2026-10-12 20:29); context: Lo presenta Sonia Montegiove. Ne discutono Stefano Chiccarelli, Arturo Di Corinto, Fabio Pietrosanti. Coordina Giulio De Petra
 - 🆕 **2026-03-18** · Talk · Centro per la Riforma dello Stato, Roma (announced on dicorinto.it) — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Rete)](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/)  

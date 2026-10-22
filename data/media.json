@@ -19851,6 +19851,23 @@
   "on_old_site": false
  },
  {
+  "date": "2026-04",
+  "year": 2026,
+  "type": "quoted",
+  "outlet": "SecNews.gr",
+  "title": "WhatsApp: Italian Spyware Company Created Fake iOS Version",
+  "url": "https://www.secnews.gr/en/700557/whatsapp-italiki-spyware-fake-app/",
+  "language": "en",
+  "role": "quoted (paraphrase, as Hermes Center president)",
+  "note": "verified via live; context: …for extensive surveillance activities . Italy appears to be developing into one of the most “active” areas of surveillance software use in Europe, according to Fabio Pietrosanti . As he points out, low costs and a more f… Ripresa (versione inglese di SecNews) dell'articolo TNW 04/2026 su SIO/finto WhatsApp; data stimata dalla notizia originale.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-22-1633"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2026-04-01",
   "year": 2026,
   "type": "article",
