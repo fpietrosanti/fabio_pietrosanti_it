@@ -801,6 +801,30 @@
   {
    "url": "https://www.schneier.com/blog/archives/2010/05/nobody_encrypts.html",
    "reason": "2026-10-22: il nome compare solo in un commento firmato da Fabio sotto il post di Schneier; un commento a un blog vale come post di forum, non è una pubblicazione"
+  },
+  {
+   "url": "https://centroriformastato.it/scuola-critica-del-digitale/",
+   "reason": "2026-10-22: pagina indice/archivio della Scuola critica del digitale CRS: duplica le singole iniziative già in archivio (contact tracing, manualetto, scopi-e-iniziative)"
+  },
+  {
+   "url": "https://centroriformastato.it/scuole_di_politica/scuola-critica-del-digitale/",
+   "reason": "2026-10-22: pagina indice/archivio della Scuola critica del digitale CRS: duplica le singole iniziative già in archivio"
+  },
+  {
+   "url": "https://centroriformastato.it/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti/",
+   "reason": "2026-10-22: stessa iniziativa già in archivio come centroriformastato.it/iniziativa/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti/"
+  },
+  {
+   "url": "https://kitploit.com/en/exploits/cve-2000-0887",
+   "reason": "2026-10-22: aggregatore/mirror dell'exploit ISC BIND 8.2.2-P5 (CVE-2000-0887) già in archivio dalla fonte originale"
+  },
+  {
+   "url": "https://dig-awards.org/it/speakers/fabio-pietrosanti/",
+   "reason": "2026-10-22: versione italiana della scheda speaker DIG già in archivio (dig-awards.org/eng/speakers/fabio-pietrosanti/)"
+  },
+  {
+   "url": "https://globaleaks.org/it/about/people/",
+   "reason": "2026-10-22: versione italiana di globaleaks.org/about/people/ già in archivio (la nota lo cita)"
   }
  ],
  "override": [

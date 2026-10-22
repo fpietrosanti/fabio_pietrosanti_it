@@ -1643,51 +1643,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" 2000 OR 2001 OR 2002 sicurezza OR hacker OR Linux",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)",
+   "date": "2026-10-22",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" \"Anatomia di un DRM\" OR \"DRM editoriale\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)",
+   "date": "2026-10-22",
+   "found": 4
   },
   {
    "query": "\"Fabio Pietrosanti\" Wired intervista telefonia OR localizzazione OR IMSI",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)",
+   "date": "2026-10-22",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" IISFA OR \"informatica forense\" OR captatori",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)",
+   "date": "2026-10-22",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Scuola critica del digitale\" OR \"Centro per la Riforma dello Stato\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)",
+   "date": "2026-10-22",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2026 biohacking OR longevità OR intervista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)",
+   "date": "2026-10-22",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" GlobaLeaks whistleblowing 2026",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)",
+   "date": "2026-10-22",
+   "found": 9
   },
   {
    "query": "\"naif\" Pietrosanti s0ftpj OR \"Butchered From Inside\" OR BFi",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)",
+   "date": "2026-10-22",
+   "found": 9
+  },
+  {
+   "query": "\"Pietrosanti\" \"Digital Investigation\" OR \"Università di Pavia\" seminario 2012 OR 2013",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-22: coda esaurita; seguiti delle nuove voci e anni deboli (2000-02, 2026)"
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Cenacolo degli Innovatori\" OR \"P&R Foundation\" OR \"Fondazione P&R\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+  },
+  {
+   "query": "\"naif\" Pietrosanti Smau seminario 2003 OR 2005 OR 2006",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Infosecurity Italia\" OR \"Infosecurity\" Milano 2005 OR 2006 relatore",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+  },
+  {
+   "query": "\"naif\" Pietrosanti 1999 OR 2000 \"Metro Olografix\" OR \"MOCA\"",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" anonimato OR whistleblowing seminario università 2013 OR 2014",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2023 OR 2024 privacy OR cybersecurity dichiarazione OR commento",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"esperto di sicurezza\" 2024 OR 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
   }
  ],
  "history": [
@@ -2359,6 +2423,14 @@
    "captcha": false,
    "confirmed_new": 6,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (anni deboli 1998-99, 2004-08, PrivateWave 2008-09, Hermes 2023-24, convegni 2025, GlobaLeaks anticorruzione, Hackmeeting, libri) eseguite senza robot check: 72 risultati, URL risolti. 16 candidati verificati: 7 OK, 1 escluso a mano. NUOVE (6): RomHack Camp 2026 speaker (talk 'Anatomia di un DRM editoriale'), Osservatorio Repressione (citazione da Wired, esperto di telefonia), MilanoToday IISFA Forum (intervento), CRS Scuola critica del digitale (docente), IJF18 'Italian privacy nightmare' (programma panel 11/04/2018), hackingbiology.com/about. ESCLUSA: schneier.com 2010/05 'Nobody encrypts' — solo un commento firmato da Fabio (= post di forum). Scartati: s0ftpj PDF 'PGP luci e ombre' (= atti e-privacy 2005 già in archivio da urna.winstonsmith.org), slideserve (mirror), giac/pr-foundation/romhack-schedule/CRS pag.2 (nome assente), ResearchGate/Academia paper TI Italia ed ebin 'Profiling Hackers' (non scaricabili), Amazon 'Incontri DiVersi'/hodexcodicerosso/Instagram (autore omonimo, già in not_me), forum.italia.it e liste autistici/inventati (forum/mailing list). Copie offline: 6 ottenute (wayback). Coda di nuovo esaurita: aggiunte 8 query."
+  },
+  {
+   "date": "2026-10-22 04:40",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 4,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (2000-02, DRM editoriale, Wired telefonia, IISFA, Scuola critica del digitale CRS, 2026 biohacking, GlobaLeaks 2026, s0ftpj/BFi) eseguite senza robot check: 70 risultati, 45 URL distinti utili, ~30 già in archivio. 14 candidati verificati: 10 OK, 4 respinti dallo script (camerapenalemilano PDF IISFA 2017, 2 pagine pr-foundation, s0ftpj webbit04_wifi.pdf: nome assente). NUOVE (4): infoaut 'Caro abbonato…' (ripresa della citazione Wired, esperto di telefonia), dalchecco.it IISFA Forum 2017 (relatore), tipiloschi Digital Investigation 2012 UniPV (seminario 14.11.2012 'Anonimato, privacy e whistleblowing'), P&R Foundation 'La ministra Pisano al Cenacolo degli Innovatori' (panelist). ESCLUSE a mano (6, in decisions.json): 2 pagine indice Scuola critica CRS, manualetto CRS (doppione URL /iniziativa/), kitploit CVE-2000-0887 (mirror), dig-awards /it/ e globaleaks /it/about/people/ (versioni linguistiche di voci già presenti). YouTube 'Intercettazioni e comunicazioni confidenziali' e Codice 27/06/2025 già in archivio. ResearchGate TI Italia non scaricabile (come prima). Copie offline: merge+archive_copies eseguiti. Coda di nuovo esaurita: aggiunte 8 query."
   }
  ]
 }

@@ -894,6 +894,74 @@
   "date": null,
   "year": null,
   "type": "mentioned",
+  "outlet": "infoaut.org",
+  "title": "Caro abbonato, risulta che stai partecipando agli scontri",
+  "url": "https://infoaut.org/culture/caro-abbonato-risulta-che-stai-partecipando-agli-scontri",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …la posizione aggiornata di una persona anche se si sta muovendo. “Consente di aumentare la precisione della localizzazione in un dato momento”, spiega a Wired, Fabio Pietrosanti, esperto di sicurezza e telefonia. Questo …",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-22-0433"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "dalchecco.it",
+  "title": "Informatica Forense e Sfida Cybercop all'IISFA Forum 2017",
+  "url": "https://www.dalchecco.it/informatica-forense-conferenza-iisfa-forum-2017/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …ata 20 maggio ore 9.30 Aula Magna Emilio Alessandrini – Guido Galli Palazzo di Giustizia, Via Freguglia n. 1 Coordinano: Gerardo Costabile e Giuseppe Mazzaraco Fabio Pietrosanti – Naif – Security & Digital Forensics Cons…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-22-0433"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "tipiloschi.net",
+  "title": "Digital Investigation 2012 - UniPV - Seminario sull'acquisizione forense delle digital evidence | TipiLoschi.net",
+  "url": "https://www.tipiloschi.net/drupal/Digital-Investigation-2012-UniPV-acquisizione-forense-digital-evidence",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …I successivi seminari di questo semestre saranno: 24.10.2012 DEFT Linux (Stefano Fratepietro, Paolo Dal Checco) 14.11.2012 Anonimato, privacy e whistleblowing (Fabio Pietrosanti, Claudio Agosti) 12.12.2012 Cloud computin…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-22-0433"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "pr-foundation.org",
+  "title": "La ministra Pisano al Cenacolo degli Innovatori - P&R Foundation",
+  "url": "https://www.pr-foundation.org/la-ministra-pisano-al-cenacolo-degli-innovatori/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …attiva e open data, Comune di Milano Mattia Mor, Italia Viva Antonio Nicita, Commissione per le Infrastrutture e le Reti, AGCOM Antonio Palmieri, Forza Italia Fabio Pietrosanti, Founder, Hermes Center for Transparency an…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-22-0433"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
   "outlet": "repubblica.it",
   "title": "Fabio Pietrosanti - la Repubblica.it",
   "url": "https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/",
@@ -6721,6 +6789,23 @@
   "on_old_site": false
  },
  {
+  "date": "2013-11-05",
+  "year": 2013,
+  "type": "article",
+  "outlet": "La Stampa (Federico Guerrini)",
+  "title": "Debutta Mafialeaks, la piattaforma",
+  "url": "https://www.lastampa.it/archivio/2013/11/05/news/debutta_mafialeaks_la_piattaforma-2211054/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Letto direttamente (2026-10-22, trovato con la ricerca interna lastampa.it/ricerca?query=fabio+pietrosanti). Il pezzo riporta le critiche alla sicurezza di MafiaLeaks e le risposte, tra cui quella di «Fabio Pietrosanti, uno degli sviluppatori del software GlobaLeaks, usato dalla piattaforma anti-mafia» (precisando che non c'e' rapporto tra Pietrosanti e MafiaLeaks).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_residui_2026-10-22"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2013-11-13",
   "year": 2013,
   "type": "article",
@@ -8048,6 +8133,23 @@
   "on_old_site": false
  },
  {
+  "date": "2015-07-14",
+  "year": 2015,
+  "type": "article",
+  "outlet": "La Stampa (Carola Frediani)",
+  "title": "Intelligence o panini? La doppia vita di Hacking Team",
+  "url": "https://www.lastampa.it/archivio/2015/07/14/news/intelligence_o_panini_la_doppia_vita_di_hacking_team-1834186/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Letto direttamente. Sull'attacco di Hacking Team a Tor Browser: «Funzionerebbe così: - commenta Fabio Pietrosanti, del Centro Hermes, associazione che sviluppa diversi progetti basati su Tor – si buca il target in un altro modo...». È il pezzo di Frediani su Hacking Team 2015 cercato nel piano.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_residui_2026-10-22"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2015-07-16",
   "type": "quoted",
   "outlet": "la Repubblica (Repubblica.it Tecnologia)",
@@ -8078,6 +8180,23 @@
   "known": false,
   "_slices": [
    "slice3_2012_2015"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2015-08-07",
+  "year": 2015,
+  "type": "article",
+  "outlet": "La Stampa (Carola Frediani)",
+  "title": "The Italian job: Hacking Team e le collaborazioni con le aziende tricolori",
+  "url": "https://www.lastampa.it/archivio/2015/08/07/news/the_italian_job_hacking_team_e_le_collaborazioni_con_le_aziende_tricolori-1990913/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Letto direttamente. Sui rivenditori italiani di Hacking Team per le Procure: «È questione di marketing», sostiene Fabio Pietrosanti, membro dell'Hermes Center ... e conoscitore di quel mercato.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_residui_2026-10-22"
   ],
   "on_old_site": false
  },
@@ -8149,6 +8268,23 @@
   "known": false,
   "_slices": [
    "pass4_esc_hackmeeting_securitysummit_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2015-10-19",
+  "year": 2015,
+  "type": "article",
+  "outlet": "La Stampa (Carola Frediani)",
+  "title": "Taglie, broker e Stati: così funziona il mercato degli attacchi informatici",
+  "url": "https://www.lastampa.it/archivio/2015/10/19/news/taglie_broker_e_stati_cosi_funziona_il_mercato_degli_attacchi_informatici-1803951/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Letto direttamente. Sul mercato degli exploit: «Diciamo che chi posta online in giro non dà l'idea di essere molto bravo», commenta Fabio Pietrosanti, presidente dell'Hermes Center for Transparency and Digital Human Rights.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_residui_2026-10-22"
   ],
   "on_old_site": false
  },
@@ -9225,6 +9361,23 @@
   "known": false,
   "_slices": [
    "pass4_vlc_tls_fosdem_linuxfaq_2026-09-18"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-05-11",
+  "year": 2017,
+  "type": "article",
+  "outlet": "La Stampa (Carola Frediani)",
+  "title": "Trump caccia Comey e i giornali chiedono leaks sui loro siti nel DarkWeb",
+  "url": "https://www.lastampa.it/esteri/2017/05/11/news/trump_caccia_comey_e_i_giornali_chiedono_leaks_sui_loro_siti_nel_darkweb-1414071/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Fuori periodo (bonus), letto direttamente. Sui costi di GlobaLeaks vs SecureDrop: «Per Globaleaks ci si aggira ... fra i 3 e i 6mila euro, commenta a La Stampa Fabio Pietrosanti, presidente di Hermes».",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_residui_2026-10-22"
   ],
   "on_old_site": false
  },
@@ -11336,6 +11489,23 @@
   "on_old_site": false
  },
  {
+  "date": "2019-01-17",
+  "year": 2019,
+  "type": "article",
+  "outlet": "La Stampa (Raffaele Angius)",
+  "title": "Tor: come e perché diventare invisibili sul web",
+  "url": "https://www.lastampa.it/archivio/2019/01/17/news/tor_come_e_perche_diventare_invisibili_sul_web-735790/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Fuori periodo (bonus), letto direttamente. «... spiega a La Stampa Fabio Pietrosanti, fondatore del Centro Hermes per la trasparenza e i diritti umani digitali», con GlobaLeaks su Tor.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_residui_2026-10-22"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019-02-08",
   "year": 2019,
   "type": "radio",
@@ -11576,6 +11746,23 @@
   ],
   "tags": [
    "source-protection"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-08-30",
+  "year": 2019,
+  "type": "article",
+  "outlet": "La Stampa (Raffaele Angius)",
+  "title": "Viaggio nel CCCamp, dove gli hacker immaginano il futuro con filosofi e artisti",
+  "url": "https://www.lastampa.it/archivio/2019/08/30/news/viaggio_nel_cccamp_dove_gli_hacker_immaginano_il_futuro_con_filosofi_e_artisti-782989/",
+  "language": "it",
+  "role": "quoted",
+  "note": "Fuori periodo (bonus), letto direttamente. «... precisa Fabio “Naif” Pietrosanti, membro dell'Italian Hacker Embassy».",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2011_residui_2026-10-22"
   ],
   "on_old_site": false
  },
@@ -17339,16 +17526,34 @@
  {
   "date": "2022-03-15",
   "year": 2022,
-  "type": "audio",
-  "outlet": "Ciao, Internet! con Matteo Flora",
-  "title": "KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!",
-  "url": "https://www.spreaker.com/episode/kaspersky-antivirus-e-pericoloso-va-rimosso-e-un-malware-russo-tutte-le-risposte--49065639",
+  "type": "video",
+  "outlet": "Ciao Internet - Matteo Flora (YouTube)",
+  "title": "972. KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!",
+  "url": "https://www.youtube.com/watch?v=DzseEg-SYAg",
   "language": "it",
-  "role": "mentioned (probabile)",
-  "note": "iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple); nessuna trascrizione Spreaker. Da verificare all'ascolto. Apple: https://podcasts.apple.com/us/podcast/kaspersky-antivirus-%C3%A8-pericoloso-va-rimosso-%C3%A8-un/id1046298895?i=1000554064030",
-  "verified": false,
+  "role": "mentioned",
+  "note": "Flora a ~00:01:47: «ne parla lui, fa tanto baccano anche Fabio Pietrosanti» (sul rischio Kaspersky nelle infrastrutture critiche). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video. Citato, non ospite.",
+  "verified": true,
   "known": false,
   "_slices": [
+   "pass4_podcast_2020_2026_2026-10-22"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-03-15",
+  "year": 2022,
+  "type": "podcast",
+  "outlet": "Ciao, Internet! con Matteo Flora (Spreaker)",
+  "title": "KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware russo? Tutte le risposte!",
+  "url": "https://www.spreaker.com/episode/kaspersky-antivirus-e-pericoloso-va-rimosso-e-un-malware-russo-tutte-le-risposte--49065639",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Versione audio della puntata YouTube DzseEg-SYAg. Già in archivio come non verificata: ora VERIFICATA tramite i sottotitoli del video gemello (Flora a ~00:01:47: «ne parla lui, fa tanto baccano anche Fabio Pietrosanti» (sul rischio Kaspersky nelle infrastrutture critiche). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video. Citato, non ospite.)",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_podcast_2020_2026_2026-10-22",
    "pass4_podcast_2026-10-19"
   ],
   "on_old_site": false
@@ -17434,16 +17639,34 @@
  {
   "date": "2022-03-30",
   "year": 2022,
-  "type": "audio",
-  "outlet": "Il podcast di Marco Canestrari",
+  "type": "video",
+  "outlet": "Marco Canestrari (YouTube)",
+  "title": "Pacifici si ma incazzati pure",
+  "url": "https://www.youtube.com/watch?v=9qjO1l0jit0",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Canestrari a ~00:45:44: «un bravissimo tecnico, diciamo, che è Fabio Pietrosanti, che mi ha raccontato in una lunga intervista per il Riformista ... 'Ecco come Putin può disconnettere l'Italia'» (intervista Il Riformista 2022-02-28, già in archivio). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2020_2026_2026-10-22"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-03-30",
+  "year": 2022,
+  "type": "podcast",
+  "outlet": "Il podcast di Marco Canestrari (Spreaker)",
   "title": "Pacifici si ma incazzati pure",
   "url": "https://www.spreaker.com/episode/pacifici-si-ma-incazzati-pure--49249201",
   "language": "it",
-  "role": "mentioned (probabile)",
-  "note": "Tra i temi «l'affare #Kaspersky». iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto.",
-  "verified": false,
-  "known": false,
+  "role": "mentioned",
+  "note": "Versione audio del video YouTube 9qjO1l0jit0. Già in archivio come non verificata: ora VERIFICATA (Canestrari a ~00:45:44: «un bravissimo tecnico, diciamo, che è Fabio Pietrosanti, che mi ha raccontato in una lunga intervista per il Riformista ... 'Ecco come Putin può disconnettere l'Italia'» (intervista Il Riformista 2022-02-28, già in archivio). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video.)",
+  "verified": true,
+  "known": true,
   "_slices": [
+   "pass4_podcast_2020_2026_2026-10-22",
    "pass4_podcast_2026-10-19"
   ],
   "on_old_site": false
@@ -17451,16 +17674,34 @@
  {
   "date": "2022-04-01",
   "year": 2022,
-  "type": "audio",
-  "outlet": "Ciao, Internet! con Matteo Flora",
+  "type": "video",
+  "outlet": "Ciao Internet - Matteo Flora (YouTube)",
+  "title": "L54. [LIVE] La Diretta di Ciao Internet - 1.04.2022",
+  "url": "https://www.youtube.com/watch?v=s7II5CAR2po",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Flora a ~00:10:00: «il pesce d'aprile l'abbiamo fatto oggi con Stefano Zanero e con Fabio Pietrosanti», annuncio-scherzo di una startup per il voto elettronico nazionale con «un board scientifico in cui svetta l'expertise di Fabio Pietrosanti» (~00:10:59). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2020_2026_2026-10-22"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-04-01",
+  "year": 2022,
+  "type": "podcast",
+  "outlet": "Ciao, Internet! con Matteo Flora (Spreaker)",
   "title": "[DIRETTA] - Ciao Internet! La Diretta del 1 Aprile 2022",
   "url": "https://www.spreaker.com/episode/diretta-ciao-internet-la-diretta-del-1-aprile-2022--49286341",
   "language": "it",
-  "role": "mentioned (probabile)",
-  "note": "iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto.",
-  "verified": false,
-  "known": false,
+  "role": "mentioned",
+  "note": "Versione audio della diretta YouTube s7II5CAR2po. Già in archivio come non verificata: ora VERIFICATA (Flora a ~00:10:00: «il pesce d'aprile l'abbiamo fatto oggi con Stefano Zanero e con Fabio Pietrosanti», annuncio-scherzo di una startup per il voto elettronico nazionale con «un board scientifico in cui svetta l'expertise di Fabio Pietrosanti» (~00:10:59). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video.)",
+  "verified": true,
+  "known": true,
   "_slices": [
+   "pass4_podcast_2020_2026_2026-10-22",
    "pass4_podcast_2026-10-19"
   ],
   "on_old_site": false
@@ -18197,16 +18438,34 @@
  {
   "date": "2023-01-07",
   "year": 2023,
-  "type": "audio",
-  "outlet": "Ciao, Internet! con Matteo Flora - Garantismi LIVE",
+  "type": "video",
+  "outlet": "Ciao Internet - Matteo Flora (YouTube)",
+  "title": "#ONference | Le Sfide della Privacy nel 2023 (con Guido Scorza)",
+  "url": "https://www.youtube.com/watch?v=YrB5DN8wX9k",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Flora a ~00:34:19, presentando Giacomo Tesio di MonitoraPA: «il co-coordinatore insieme a ... Fabio Pietrosanti, ciao naif» (saluto in diretta, Fabio presente in chat). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_podcast_2020_2026_2026-10-22"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2023-01-07",
+  "year": 2023,
+  "type": "podcast",
+  "outlet": "Ciao, Internet! con Matteo Flora (Spreaker)",
   "title": "[Garantismi LIVE] - Le Sfide della Privacy nel 2023",
   "url": "https://www.spreaker.com/episode/garantismi-live-le-sfide-della-privacy-nel-2023--52379256",
   "language": "it",
-  "role": "mentioned (probabile)",
-  "note": "Diretta con Guido Scorza. iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto.",
-  "verified": false,
-  "known": false,
+  "role": "mentioned",
+  "note": "Versione audio della diretta YouTube YrB5DN8wX9k. Già in archivio come non verificata: ora VERIFICATA (Flora a ~00:34:19, presentando Giacomo Tesio di MonitoraPA: «il co-coordinatore insieme a ... Fabio Pietrosanti, ciao naif» (saluto in diretta, Fabio presente in chat). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video.)",
+  "verified": true,
+  "known": true,
   "_slices": [
+   "pass4_podcast_2020_2026_2026-10-22",
    "pass4_podcast_2026-10-19"
   ],
   "on_old_site": false

@@ -1,0 +1,77 @@
+[
+ {
+  "source": "iTunes Search API (entity=podcastEpisode), store it/us/gb/ch/de/fr/es",
+  "query": "pietrosanti; fabio pietrosanti; pietrosanti + whistleblowing/globaleaks/biohacking/longevity/latina/aeroporto/crypto/sovranità digitale/privacy/hacker/tor; mxmap; naif hacker (980 episodi unici)",
+  "result": "Nessun episodio nuovo con il nome nella descrizione: solo Agenda Podcast 2020 e Ciao Internet 2022 (già noti), Motoring Podcast 2024 e 'Vieni con me' (Laura Pietrosanti) già scartati, 'Dr. Naif Sinada' (omonimo del nick)."
+ },
+ {
+  "source": "YouTube search via yt-dlp (locale)",
+  "query": "Fabio Pietrosanti aeroporto Latina; Pietrosanti aeroporto di Latina; Fabio Pietrosanti 2025/2026/intervista/podcast/Twitch/crypto/longevity/biohacker intervista/rapamycin/DNA genoma/Latina/whistleblowing webinar; Pietrosanti SFSCON; MXMap sovranità digitale; Osservatorio sovranità digitale Pietrosanti; naif hacker intervista; Pietrosanti GlobaLeaks ANAC; Pietrosanti Hermes Center 2024 (90 video unici)",
+  "result": "Solo ID già noti (GyNpnJ5Q2ew, Amy7OyM7exo, j5T6loxU25s, X_zQdg47ZtU, Uea-94inYkE) + omonimo Radio Digiesse (driGfzMre5Q, 3PYnpnzCo8g, qgUQcWb9OAo, llJts0PT0R8, MqN6-Kfd-Bo, puDgd4-BESI: autore calabrese, già escluso). Nessun video su aeroporto di Latina, crypto/pair trading o SFSCON."
+ },
+ {
+  "source": "Sottotitoli automatici YouTube, canale Ciao Internet (UCm5H2LH2ISgpX-X5-SP4Vrg), 28 puntate tematiche 2020-2025",
+  "query": "pietro ?santi|naif in: 927 Hermes riconoscimento facciale; 939/1031/1032 Google Analytics; 842/849/814/752 Rousseau/voto; 755/771/728/725/723/711/695/693/689 Immuni/contact tracing; 821 proctoring; Kaspersky 2024 (PJn_AZrYj6k); cloud PA 2024 (wTr0QaB0oSU, teHEdnE0FlQ); Paragon 2025 (FSDYfXb37fE); sPECtator 2023; Privacy Shield 2023; Meta 948; dirette L52/L53",
+  "result": "Nessuna menzione, salvo L54 (inserita). In 842 'naif' è solo aggettivo. Catalogo completo del canale (1729 video + 107 dirette) salvato nello scratchpad: una scansione completa dei sottotitoli è possibile ma va fatta lentamente (YouTube risponde 429)."
+ },
+ {
+  "source": "Radio Onda d'Urto (radiondadurto.org ?s=; WP REST search)",
+  "query": "pietrosanti, globaleaks",
+  "result": "Nessun risultato (pagina risultati vuota; REST API non esposta)."
+ },
+ {
+  "source": "Radio Città Fujiko (?s= e WP REST search)",
+  "query": "pietrosanti, globaleaks",
+  "result": "'Nessun risultato per la tua ricerca'; REST search []."
+ },
+ {
+  "source": "Radio Popolare WP REST search",
+  "query": "pietrosanti, globaleaks",
+  "result": "[] (conferma il negativo del 2026-10-21)."
+ },
+ {
+  "source": "Valigia Blu WP REST search",
+  "query": "pietrosanti, globaleaks",
+  "result": "Solo articoli (Crypto AG 2020, referendum Lombardia/Veneto, Carrai, attacchi online giornalisti, Assange); nessun podcast nuovo. Il podcast Valigia Blu 2020-02-15 (Crypto AG) resta non verificato: solo audio, non scaricato."
+ },
+ {
+  "source": "Copernicani WP REST posts search",
+  "query": "pietrosanti, naif",
+  "result": "4 post (2018, 2019, 2020, 2023) tutti già in archivio."
+ },
+ {
+  "source": "SFSCON 2026 (sfscon.it/programs/2026/, /speakers/, WP search)",
+  "query": "pietrosanti, mxmap",
+  "result": "Nessuna occorrenza: esiste un 'Digital Sovereignty track 2026' ma Fabio non è in programma (evento 13-14/11/2026, futuro)."
+ },
+ {
+  "source": "Radio Radicale 2023-2026",
+  "query": "indice relatore /soggetti/175095/fabio-pietrosanti; ricerca full-text",
+  "result": "Ricerca full-text non disponibile (404); l'indice relatore (controllato il 2026-10-21) si ferma al 2021. Nessun intervento 2023-2026."
+ },
+ {
+  "source": "Podcast Index",
+  "query": "pietrosanti",
+  "result": "API richiede chiave e User-Agent identificativo; la pagina pubblica di ricerca è solo JS. Non usato."
+ },
+ {
+  "source": "Spreaker API: 'Rivoluzionari in codice' (Wired, Philip Di Salvo, 2022, show 5645307)",
+  "query": "descrizioni e trascrizioni dei 6 episodi (Assange, Snowden, Manning, Swartz, Anonymous, Utopia)",
+  "result": "Descrizioni senza nome né GlobaLeaks; nessuna trascrizione Spreaker (transcript_url null)."
+ },
+ {
+  "source": "WP REST search su whistleblowing.it (TI Italia), agendadigitale.eu, cybersecurity360.it, hackingbiology.com; whistleblowingnetwork.org; transparency.it",
+  "query": "pietrosanti",
+  "result": "Nessun podcast/video. Cybersecurity360: 2 articoli (Ciao Carola; Kaspersky esperti), non podcast. WIN e transparency.it senza ricerca utilizzabile (404)."
+ },
+ {
+  "source": "WebSearch (8 ricerche)",
+  "query": "aeroporto di Latina intervista radio 2026; podcast episodio 2025/2026; SFSCON 2026 MXMap; site:radio24 Pietrosanti; biohacker podcast longevità; whistleblowing podcast TI Italia/ANAC/WIN; ospite radio/podcast/diretta 2023-2024; spreaker/spotify hacker whistleblowing",
+  "result": "Nessun risultato pertinente. Emerso solo abraji.sched.com (GIJC13 Rio 2013), equivalente alla voce già nota gijc13.sched.com."
+ },
+ {
+  "source": "Candidati audio-only del pass 2026-10-19",
+  "query": "DataKnightmare 6x28 (MonitoraPA), Valigia Blu 2020 Crypto AG, BBC Lazarus Heist S2E7, Bloomberg 'North Korea's Man in Spain', The Crypto Conversation 2021",
+  "result": "Nessuna versione video o trascrizione pubblica trovata; audio non scaricato (regola). Restano verified:false."
+ }
+]

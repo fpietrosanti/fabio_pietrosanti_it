@@ -1,0 +1,112 @@
+[
+ {
+  "source": "La Stampa - ricerca interna lastampa.it/ricerca",
+  "query": "fabio pietrosanti; pietrosanti (pag. 1-4); pietrosanti hermes; globaleaks; centro hermes; hermes center; tor2web; naif hacker; privatewave; pietrosanti tor",
+  "result": "Ricerca server-side funzionante. Voci col nome: 2013-11-05, 2015-07-14, 2015-08-07, 2015-10-19 (+ bonus 2017-05-11, 2019-01-17, 2019-08-30), tutte nuove -> raw. Senza nome: 2011-04-17 Perugia, 2011-09-06 blog 'E nato Globaleaks.org', 2011-09-15 'Oltre WikiLeaks', 2013-10-07 IrpiLeaks, 2013-11-04 Snowden manifesto, 2014-06-11 ExpoLeaks, 2014-11-14 'Li portano qui', 2014-12-03 Transparency, 2015-05-02 WikiLeaks, 2016-02-18 whistleblowing, 2017-01-23 Egitto, 2017-04-21 cybersorveglianza, 2017-09-13 intelligence ONG. Altri 'Pietrosanti' = omonimi (calcio Canelli/Asti, l'artista Roberto Pietrosanti)."
+ },
+ {
+  "source": "Il Sole 24 Ore",
+  "query": "WebSearch site:ilsole24ore.com 'Fabio Pietrosanti' e varianti GlobaLeaks/Hermes/Tor2web; ricerca interna ilsole24ore.com/ricerca",
+  "result": "Nessun risultato 2011-2016 (solo Serena Pietrosanti, omonima). La ricerca interna dà 404 o è in JS: non esaustivo."
+ },
+ {
+  "source": "Il Messaggero - ricerca interna ilmessaggero.it/ricerca",
+  "query": "pietrosanti; fabio pietrosanti; globaleaks; centro hermes",
+  "result": "Indicizza solo articoli recenti (Matteo Pietrosanti 2023-25, Operazione Nico: omonimi) e non restituisce nemmeno l'articolo noto del 2020: archivio 2011-2016 non coperto. Inconcludente."
+ },
+ {
+  "source": "ANSA / AGI / Adnkronos",
+  "query": "ricerche interne ansa.it/ricerca (any=pietrosanti, fabio pietrosanti, globaleaks), agi.it/search (500), adnkronos.com/search (JS); WebSearch con dominio",
+  "result": "Nessun riscontro 2011-2016. La ricerca ANSA restituisce solo ultime notizie, AGI dà 500, Adnkronos è in JS: non esaustivo."
+ },
+ {
+  "source": "Golem.de 2011, de Volkskrant 2013, Disappeared News 2013, Il Manifesto 16/12/2014",
+  "query": "già controllati il 2026-10-21 (leads_negatives_lacuna2011_wayback_2026-10-21.json)",
+  "result": "Negativi confermati, non ripetuti: Golem cita solo Seif Lotfy; Volkskrant solo 'Hermes Center'; Manifesto (Di Corinto) solo 'Hermes, Centro per i diritti digitali'; Disappeared News nessun nome."
+ },
+ {
+  "source": "tuttovolume.net 2010-02-09",
+  "query": "https://tuttovolume.net/news/intercettare-cellulari-gsm-3g/",
+  "result": "Già in data/media.json (verificato il 2026-10-21: 'Fabio Pietrosanti, responsabile tecnico della Khamsa'). Nulla da aggiungere."
+ },
+ {
+  "source": "OWNI (owni.fr / owni.eu) 2011-2012 - CDX",
+  "query": "owni.fr/2011/*, owni.fr/2012/*, owni.eu/2011/*, owni.eu/2012/* con filtro URL globaleaks|lanceur|whistle|tor2web|hermes|openleaks|alerte",
+  "result": "Trovati solo: owni.fr 2011 intervista Domscheit-Berg (OpenLeaks); owni.fr 2012-04-02 'Tweet saoudien de lese-majeste' (letto, capture 20120407070657: nessun nome); owni.eu 2011-06-08 WSJ/Al-Jazeera (negativo già noto); 2012-08-27 post-WikiLeaks (già nota); 2012-09-04 'The Associated Whistleblowing Press' (letto, capture 20120911051555: nessun Pietrosanti/naif). Il CDX con regex sull'intero dominio va in 504."
+ },
+ {
+  "source": "techPresident 25378 Afrileaks (2015) e wegov 24726 (2014)",
+  "query": "Wayback 20150101011137 e 20140208004713",
+  "result": "Letti. Afrileaks cita GlobaLeaks/Hermes/Tor2web ma non il nome; 24726 (EU anti-corruption report) senza nome. Negativi."
+ },
+ {
+  "source": "logioshermes.org (sito Hermes 2012-2016) - CDX to=2017",
+  "query": "84 URL HTML; letti category/press (20150806161541), category/news (20150806161536), home/news-press/press (20130602090019), nawaatleaks, irpileaks, openwhistleblowing, post 2016 'invita Italia proteggere privacy' (redirect alla home)",
+  "result": "La rassegna press ha solo link già noti o negativi (Corriere.it 2013 senza nome, Disappeared News, Eticanews, Panorama, Radio3 Scienza, SkyTG24, Wired, Forbes 2011, RFE/RL, Ars Technica 2008, OHM2013, Noisysquare, IJF13). Il nome compare solo in post Hermes già noti (WhistleblowingItalia Congress 2013, lettera ANAC 2015). Dopo il 2016 il dominio è riusato da siti spam (anime/film): ignorati."
+ },
+ {
+  "source": "globaleaks.org/news (2012) e hermescenter.org (CDX to=2016)",
+  "query": "Wayback 20120521134235; CDX hermescenter.org/* to=2016",
+  "result": "globaleaks.org/news: solo l'annuncio 'Random GlobaLeaks Developers' del 2011-09-06, nessun nome. hermescenter.org prima del 2017: solo homepage, robots e una pagina membro (Nurmi). Nessuna pagina press 2011-2016."
+ },
+ {
+  "source": "IJF 2013 (festivaldelgiornalismo.com/programme/2013), link dalla rassegna Hermes",
+  "query": "Wayback: your-new-pc-portable-safe-uninterceptible-and-free (20130323091931), dare-fiducia-alla-rete-2.0-tra-cloud-ed-ssl, category/hackers-corner",
+  "result": "Nessun Pietrosanti/naif nelle capture di marzo 2013. Le sessioni IJF di Fabio 2012-2015 sono già note via speaker page."
+ },
+ {
+  "source": "OHM2013 program.ohm2013.org/event/{80,199,255,324,329,364,366,381,396}",
+  "query": "eventi linkati dalla rassegna Hermes (Wayback 2013-2014)",
+  "result": "Nessuna pagina evento cita Pietrosanti/naif (255 GlobaLeaks e 381/396 whistleblowing citano solo Hermes). Il talk OHM2013 resta documentato dal video già noto."
+ },
+ {
+  "source": "RightsCon Silicon Valley 2016 - RC2016-program-222.pdf",
+  "query": "Wayback 20160413233458 (rightscon.org/cms/assets/uploads/2016/02/), pdftotext",
+  "result": "È ancora la 'Draft Program Session List': cita GlobaLeaks/Hermes, nessun Pietrosanti/naif. wp-content/uploads/2016/02/RC2016-program-222.pdf e RC16OutcomesReport.pdf: 404. Programma finale con i nomi non trovato."
+ },
+ {
+  "source": "Circumvention Tech Festival 2015 (Valencia)",
+  "query": "WebSearch nome+CTF/IFF; aspirationtech.org/events/circumvention_festival",
+  "result": "Nessuna menzione di GlobaLeaks/Hermes/Pietrosanti (CDX ctfestival.org/openitp.org già negativo il 2026-10-21)."
+ },
+ {
+  "source": "CPDP Bruxelles - programmi PDF (cpdpconferences.org/Resources)",
+  "query": "Wayback: CPDP2012.pdf, CPDP2013_PROGRAMME.pdf, CPDP2014_Programme.pdf, CPDP2015_PROGRAMME.pdf, CPDP2016_PROGRAM_S.pdf (20160623183854), pdftotext",
+  "result": "Nessun Pietrosanti/naif/GlobaLeaks/Hermes. CPDP2011.pdf: 429 persistente, non letto."
+ },
+ {
+  "source": "Stockholm Internet Forum",
+  "query": "CDX stockholminternetforum.se PDF 2011-2016; Pre-Sif-Schedule-20-Okt.pdf (2015, Wayback 20160222051335)",
+  "result": "Nessun nome. Gli altri PDF sono one-pager di singoli relatori."
+ },
+ {
+  "source": "re:publica",
+  "query": "Wayback: rp13-program.pdf (20130512133213), 160419_rpten_zeitplan_de_0.pdf (rp16), gig_tagesprogramm.pdf (rp14)",
+  "result": "Nessun Pietrosanti/naif/GlobaLeaks (il CDX degli URL con il nome era già negativo il 2026-10-13)."
+ },
+ {
+  "source": "Consiglio d'Europa (World Forum for Democracy) e UNESCO",
+  "query": "CDX coe.int/en/web/world-forum-democracy/* ; WebSearch nome+UNESCO/coe.int",
+  "result": "Nessun riscontro; il LAB 15 'Safe Whistleblowing' del 2015 aveva Claudio Agosti (già negativo). Il CDX coe.int è fallito dopo 5 tentativi."
+ },
+ {
+  "source": "RESIDUO",
+  "query": "CPDP2011.pdf (Wayback 20110124002023): 429 persistente",
+  "result": "non verificato in questa sessione"
+ },
+ {
+  "source": "RESIDUO",
+  "query": "logioshermes.org/alac-anticorruzione-whistleblowing-hermes/ (20141019180956) e expoleaks-whistleblowing-expo2015/ (20140728194012): 429 persistente (probabilmente già coperti dall'archivio hermescenter-restore)",
+  "result": "non verificato in questa sessione"
+ },
+ {
+  "source": "RESIDUO",
+  "query": "CDX coe.int World Forum for Democracy: fallito",
+  "result": "non verificato in questa sessione"
+ },
+ {
+  "source": "RESIDUO",
+  "query": "ANSA/AGI/Adnkronos/Messaggero/Sole 24 Ore: ricerche interne non server-side o limitate al recente; servirebbero Chrome loggato o archivi a pagamento",
+  "result": "non verificato in questa sessione"
+ }
+]
