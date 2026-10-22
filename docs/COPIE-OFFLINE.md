@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1120**; già processate: **1294**; ancora da processare: **0**
-- Licenza delle copie ottenute: **235** materiale proprio (ripubblicabile), **951** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1067**
+- Voci in `data/media.json`: **1121**; già processate: **1295**; ancora da processare: **0**
+- Licenza delle copie ottenute: **235** materiale proprio (ripubblicabile), **952** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1068**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **4**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -36,7 +36,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2008 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 47 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 2010 | 63 | 2 | 0 | 0 | 0 | 0 | 3 |
-| 2011 | 29 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 2011 | 30 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 26 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
@@ -654,6 +654,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2011** · Radio Radicale — [4ª Commissione del X Congresso di Radicali Italiani - Internet come metodo: dalla mobilita](https://www.radioradicale.it/scheda/338769/4a-commissione-del-x-congresso-di-radicali-italiani-internet-come-metodo-dalla) · copia: `2011/50c9ac5a9635` (live · video locale `media.mp4` (733 MB, da caricare su Drive)) · licenza: terzi
 - **2011** · Radio Radicale — [Globaleaks, la "public disclosure" oltre Wikileaks. Intervista a Marco Calamari e a Fabio ](https://www.radioradicale.it/scheda/342096/globaleaks-la-public-disclosure-oltre-wikileaks-intervista-a-marco-calamari-e-a-fabio) · copia: `2011/ad90a5fe62bb` (Web Archive 20211206 · video locale `media.m4a` (10 MB, da caricare su Drive)) · licenza: terzi
 - **2011** · Radio Radicale — [Interventi di Fabio Pietrosanti (person archive page)](https://www.radioradicale.it/soggetti/175095/fabio-pietrosanti) · copia: `2011/5499b4a991da` (Web Archive 20250323) · licenza: terzi
+- **2011** · umbria24.it — [Festival del giornalismo, venerdì con Travaglio, Vauro e Carlo De Benedetti (IJF 2011, The](https://www.umbria24.it/attualita/festival-del-giornalismo-venerdi-con-travaglio-vauro-e-carlo-de-benedetti/) · copia: `2011/89174491ae50` (Web Archive 20230204) · licenza: terzi
 - **2011** · vicino/lontano festival (Udine) — [Fabio Pietrosanti - ospite](https://www.vicinolontano.it/ospiti/fabio-pietrosanti/) · copia: `2011/28559814b204` (Web Archive 20190719) · licenza: terzi
 - **2011** · La Stampa (YouTube channel) — [globaleaks ok](https://www.youtube.com/watch?v=V15zXYu5Xgw) · copia: `2011/7f7f04b9183a` (live · video locale `media.mp4` (10 MB, da caricare su Drive)) · licenza: terzi
 - **2011** · endsummercamp (YouTube) - ESC 2011 — [Globaleaks Live Launch](https://www.youtube.com/watch?v=WdQrDUvX45Q) · copia: `2011/29bd96fd5d51` (live · video locale `media.mp4` (164 MB, da caricare su Drive)) · licenza: terzi

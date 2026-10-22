@@ -5546,6 +5546,23 @@
   "on_old_site": false
  },
  {
+  "date": "2011-04-14",
+  "year": 2011,
+  "type": "mentioned",
+  "outlet": "umbria24.it",
+  "title": "Festival del giornalismo, venerdì con Travaglio, Vauro e Carlo De Benedetti (IJF 2011, The Hacker’s Corner Workshop #5 – docente)",
+  "url": "https://www.umbria24.it/attualita/festival-del-giornalismo-venerdi-con-travaglio-vauro-e-carlo-de-benedetti/",
+  "language": "it",
+  "role": "speaker",
+  "note": "verified via wayback; context: …torio di scienze forensi dell’Università di Firenze 17:00 – The Hacker’s Corner Workshop #5 – Hacking Level 5: Be Safe. Docenti: Claudio “Vecna” Agosti, Fabio “Naif” Pietrosanti, Igor “Koba” Falcomatà. Alle 11.30 – Hotel…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-22-1240"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2011-04-22",
   "type": "video",
   "outlet": "La Stampa (YouTube channel)",

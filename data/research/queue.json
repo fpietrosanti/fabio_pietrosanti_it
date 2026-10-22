@@ -1771,51 +1771,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" \"hall of fame\" OR \"responsible disclosure\" OR ringraziamenti vulnerabilità",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)",
+   "done": "2026-10-22 12:40",
+   "found": 10
   },
   {
    "query": "\"naif\" Pietrosanti 1998 OR 1999 hacker intervista OR articolo",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)",
+   "done": "2026-10-22 12:40",
+   "found": 9
   },
   {
    "query": "\"Pietrosanti\" \"Linux Day\" OR \"LinuxDay\" 2001 OR 2002 OR 2003 OR 2004",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)",
+   "done": "2026-10-22 12:40",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2007 VoIP OR \"Skype\" intercettazioni sicurezza",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)",
+   "done": "2026-10-22 12:40",
+   "found": 6
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Hermes\" 2025 intervista OR ospite OR podcast",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)",
+   "done": "2026-10-22 12:40",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" Monitora PA 2024 OR 2025 Google Analytics OR cookie",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)",
+   "done": "2026-10-22 12:40",
+   "found": 10
   },
   {
    "query": "\"Pietrosanti\" \"Centro Hermes\" 2023 OR 2024 audizione OR consultazione",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)",
+   "done": "2026-10-22 12:40",
+   "found": 8
   },
   {
    "query": "\"Fabio Pietrosanti\" crittografia OR cifratura convegno 2006 OR 2007",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)",
+   "done": "2026-10-22 12:40",
+   "found": 10
+  },
+  {
+   "query": "\"Hacker's Corner\" \"Pietrosanti\" OR \"naif\" festival giornalismo Perugia",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" workshop giornalisti sicurezza OR \"fonti\" 2011 OR 2012 OR 2013",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"naif\" 2003 conferenza OR seminario wireless OR sicurezza",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2006 intervista OR dichiara OR relatore",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2023 whistleblowing OR GlobaLeaks intervista OR webinar",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2024 hacker OR privacy OR sorveglianza",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2025 hacker OR privacy OR sorveglianza OR spyware",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
+  },
+  {
+   "query": "\"Pietrosanti\" Paragon OR Graphite OR spyware giornalisti 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (pomeriggio): coda esaurita; anni deboli (2003, 2006, 2023-25) e filoni nuovi (Hacker's Corner IJF, workshop giornalisti)"
   }
  ],
  "history": [
@@ -2503,6 +2567,14 @@
    "captcha": false,
    "confirmed_new": 1,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (UniPV 2012, P&R Foundation/Cenacolo, Smau 2003-06, Infosecurity 2005-06, Olografix/MOCA 1999-2000, seminari anonimato 2013-14, commenti 2023-24, 'esperto di sicurezza' 2024-25) eseguite senza robot check: 51 risultati (Smau: 0), quasi tutti già in archivio (tipiloschi, Clusit 2012, e-privacy XVII/XXIII/XXX, slideshare, personaldemocracy, poul, ITASEC 2020, Radio Radicale Singolarità, Nexa 73°, agendadigitale, ANORC Immuni, easyteam, monitora-pa, Codice Beta, Eta Beta, dicorinto, osservatoriorepressione). 5 candidati verificati: 1 OK. NUOVA (1): Gruppo TIM Responsible Disclosure, hall of fame (Fabio Pietrosanti, twitter.com/fpietrosanti — Security Misconfiguration). ESCLUSE a mano (5, in decisions.json): 3 pagine pr-foundation (nome solo nel riquadro laterale), scheda corso UniPV Gabrini (non lo nomina), pagina speaker IJF Ziccardi (le sessioni IJF12 sull'anonimato e sulle intercettazioni non lo elencano). Scartati: hyperkitty nexa/nexa-announce (mailing list), indici dalchecco/tipiloschi, CV di terzi, OPAC, pagine arte (MOCA museo/'naif' pittura), ebin Profiling Hackers (già noto), LinkedIn, Radio Radicale War Room (Valentina Pietrosanti, omonima). Copie offline: 1 ottenuta (wayback). Coda di nuovo esaurita: aggiunte 8 query."
+  },
+  {
+   "date": "2026-10-22 12:40",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 1,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (hall of fame/disclosure, naif 1998-99, Linux Day 2001-04, VoIP/Skype 2007, Hermes 2025, Monitora PA 2024-25, Centro Hermes audizioni 2023-24, crittografia convegni 2006-07) eseguite senza robot check: 72 risultati, 25 URL distinti fuori dagli scarti ovvi, 17 già in archivio o già esclusi (vice.com black/white hat, dvara.net, agendadigitale MonitoraPA, simpleanalytics, ANORC Immuni, Radio Radicale e-privacy XXIV e Master Anticorruzione, controtuttelemafie, slideshare già decisi, dokumen.pub, mokazine/peacelink/alessandrorodolfi già respinti). 4 candidati verificati: 4 OK allo script. NUOVA (1): umbria24.it 14/04/2011, programma Festival del giornalismo 2011 — The Hacker's Corner Workshop #5 'Hacking Level 5: Be Safe', docenti Vecna, Fabio 'Naif' Pietrosanti, Koba. ESCLUSE a mano (3, in decisions.json): 2 slideshare di terzi (Townet TDMA, LDNA 2019) con il nome solo nelle 'slide correlate'; zh.wikipedia GlobaLeaks (versione linguistica di voce già presente). Scartati: indici/tag (dalchecco, euronews location, ilsole24ore tag L'Oreal), profili LinkedIn (incluso uno 'Fabio Pietrosanti – Autorità Garante', da non seguire), liste hackmeeting/nexa (mailing list). Copie offline: 1 ottenuta (wayback). Coda di nuovo esaurita: aggiunte 8 query."
   }
  ]
 }

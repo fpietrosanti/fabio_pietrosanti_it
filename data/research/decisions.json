@@ -846,6 +846,18 @@
   {
    "url": "https://www.festivaldelgiornalismo.com/speaker/giovanni-ziccardi",
    "reason": "2026-10-22: pagina speaker di Giovanni Ziccardi; le sessioni IJF12 'Usare strumenti di anonimato' e 'Intercettazioni telefoniche ed informatiche' non lo elencano tra i relatori"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/tdma-v1/5978858",
+   "reason": "2026-10-22: presentazione di terzi (Townet); il nome compare solo nella barra 'slide correlate' (Webbit 2004 Wireless (in)security, già in archivio)"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/ldna-2019-marcello-marino-mts-driver-ravenna-aes67-audio-contribution-over-ethernet/191680834",
+   "reason": "2026-10-22: presentazione di terzi (LDNA 2019); il nome compare solo nella barra 'slide correlate' (CNR 2003 Wireless (In)security)"
+  },
+  {
+   "url": "https://zh.wikipedia.org/zh-cn/GlobaLeaks",
+   "reason": "2026-10-22: versione cinese della voce Wikipedia GlobaLeaks, già in archivio in inglese (stessa regola delle versioni linguistiche)"
   }
  ],
  "override": [

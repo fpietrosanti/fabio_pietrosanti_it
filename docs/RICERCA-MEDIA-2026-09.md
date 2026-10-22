@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1533**; dopo deduplica: **1120**
+- Risultati grezzi dalle ricerche: **1534**; dopo deduplica: **1121**
 - Già presenti sul vecchio sito: **52** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1068**
-- Verificati aprendo la pagina: **1053**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1069**
+- Verificati aprendo la pagina: **1054**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 225, tweet 132, Talk 87, Video 76, Post sul blog infosecurity.ch 72, Citato 51, article 42, Progetto 33, Altro 32, Ricerca 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Comunicato 15, Paper 12, Intervista 9, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 226, tweet 132, Talk 87, Video 76, Post sul blog infosecurity.ch 72, Citato 51, article 42, Progetto 33, Altro 32, Ricerca 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Comunicato 15, Paper 12, Intervista 9, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -29,7 +29,7 @@ Per tipo (nuovi): Menzionato 225, tweet 132, Talk 87, Video 76, Post sul blog in
 | 2008 | 0 | 13 | 13 |
 | 2009 | 1 | 46 | 44 |
 | 2010 | 6 | 65 | 55 |
-| 2011 | 4 | 28 | 25 |
+| 2011 | 4 | 29 | 26 |
 | 2012 | 0 | 37 | 37 |
 | 2013 | 0 | 31 | 31 |
 | 2014 | 0 | 29 | 29 |
@@ -1683,7 +1683,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2012** · Talk · International Journalism Festival 2012 — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2012/firewalls)  
   IJF12 Perugia session
 
-## 2011 — 28 voci, 25 nuove
+## 2011 — 29 voci, 26 nuove
 
 - 🆕 **2011-12-11** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks](https://www.hermescenter.org/radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks/)  
   names Fabio: … 10/12/2011 Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks. Intervista a Marco Calamari e a Fabio Pietrosanti. di Roberto Spagnoli La “public disclosure”, cioè la pubblicazione di informazioni riservate, che in certi casi può ave… — restored in hermescenter/hermescenter.org-restoration id radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks
@@ -1707,6 +1707,8 @@ Anni senza nessun risultato: nessuno
   Italian Hackers' Embassy at CCC Camp 2011; 'naif' listed as contact and as citizen (Fabio Pietrosanti, GlobaLeaks)
 - 🆕 **2011-04-22** · Video · La Stampa (YouTube channel) — [globaleaks ok](https://www.youtube.com/watch?v=V15zXYu5Xgw) _(non verificato)_  
   La Stampa video on GlobaLeaks uploaded right after IJF 2011 (where he spoke); no description, his appearance not confirmed
+- 🆕 **2011-04-14** · Menzionato · umbria24.it — [Festival del giornalismo, venerdì con Travaglio, Vauro e Carlo De Benedetti (IJF 2011, The Hacker’s Corner Workshop #5 – docente)](https://www.umbria24.it/attualita/festival-del-giornalismo-venerdi-con-travaglio-vauro-e-carlo-de-benedetti/)  
+  verified via wayback; context: …torio di scienze forensi dell’Università di Firenze 17:00 – The Hacker’s Corner Workshop #5 – Hacking Level 5: Be Safe. Docenti: Claudio “Vecna” Agosti, Fabio “Naif” Pietrosanti, Igor “Koba” Falcomatà. Alle 11.30 – Hotel…
 - 🆕 **2011-04-13** · Talk · Festival Internazionale del Giornalismo 2011, Perugia — [Pietrosanti Fabio (ospiti 2011)](https://www.festivaldelgiornalismo.com/menu/ospiti-2011/pietrosanti-fabio/)  
   Guest of IJF 2011 (13-17 April); bio as Tor/Tor2web node operator and 'Random GlobaLeaks Contributor'
 - 🆕 **2011-04-11** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [RFC 6189: ZRTP is finally a standard!](https://web.archive.org/web/2012/http://infosecurity.ch/20110411/rfc-6189-zrtp-is-finally-a-standard/)  
