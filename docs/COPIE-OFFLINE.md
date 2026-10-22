@@ -5,17 +5,17 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1114**; già processate: **1288**; ancora da processare: **0**
-- Licenza delle copie ottenute: **233** materiale proprio (ripubblicabile), **946** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1063**
+- Voci in `data/media.json`: **1119**; già processate: **1293**; ancora da processare: **0**
+- Licenza delle copie ottenute: **235** materiale proprio (ripubblicabile), **950** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1066**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **4**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
-- 🟠 Solo guscio JavaScript: serve cattura col browser: **1**
-- 🎬 Video/audio scaricato (+ pagina): **108**
-- 🎞️ Solo pagina/link: video/audio non scaricabile: **3**
-- ❌ Non ottenuta: **9**
+- 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
+- 🎬 Video/audio scaricato (+ pagina): **112**
+- 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
+- ❌ Non ottenuta: **8**
 
 ## Per anno
 
@@ -30,8 +30,8 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2002 | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2005 | 10 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 2006 | 11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2005 | 11 | 2 | 0 | 0 | 0 | 0 | 1 |
+| 2006 | 13 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 2007 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2008 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 47 | 2 | 0 | 0 | 0 | 0 | 0 |
@@ -46,9 +46,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2018 | 57 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 83 | 3 | 1 | 0 | 0 | 0 | 2 |
 | 2020 | 164 | 9 | 2 | 0 | 0 | 0 | 0 |
-| 2021 | 82 | 7 | 0 | 0 | 0 | 0 | 1 |
-| 2022 | 55 | 12 | 0 | 0 | 3 | 0 | 2 |
-| 2023 | 13 | 3 | 1 | 0 | 0 | 0 | 1 |
+| 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2022 | 55 | 15 | 0 | 0 | 0 | 0 | 2 |
+| 2023 | 13 | 3 | 1 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 7 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 43 | 3 | 0 | 1 | 0 | 0 | 0 |
@@ -256,24 +256,22 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-10-06: clip TimePie viste fotogramma per fotogramma il 2026-10-01: Fabio non compare → escluse da media.json; copia conservata.
 - ⏹️ **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [论坛现场座无虚席！第七届国际长寿论坛火热启幕，这条视频带你速览首日精彩画面](https://www.bilibili.com/video/BV1w8YX6uENN/) · licenza: terzi  
   2026-10-06: clip TimePie viste fotogramma per fotogramma il 2026-10-01: Fabio non compare → escluse da media.json; copia conservata.
+- ❌ **2005** · Webbit 05 - Osservatorio Webbit (RTF doc — [Intervista a Fabio Pietrosanti (Osservatorio Webbit 05, area Sicurezza) - 05_FabioPietrosa](http://www.webb.it/html/webbit05/docosservatorio/interviste/05_FabioPietrosanti.rtf) · licenza: terzi  
+  2026-10-22: file RTF mai salvato dal Web Archive (CDX vuoto), webb.it oggi fa solo redirect; resta la pagina indice Webbit 05 (copia ottenuta) che elenca l'intervista. Solo una copia personale di Fabio puo' recuperarlo.
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
-  http 403
+  http 404
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
-  http 403
+  http 404
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
   URLError
 - ❌ **2019** · Università di Foggia (lezione nel corso  — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck c](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: terzi  
-  URLError
-- ❌ **2021** · The Crypto Conversation (Brave New Coin) — [Scandal and Turmoil - The Cryptocurrency Wild West](https://podcasts.apple.com/us/podcast/scandal-and-turmoil-the-cryptocurrency-wild-west/id1471243424?i=1000538523963) · licenza: terzi  
-  URLError; video: ERROR: [apple:podcasts] 1000538523963: Unable to download webpage: HTTPSConnection(host='podcasts.apple.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions (caused by TransportError("HTTPSConnecti
+  http 410
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
   URLError
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
   URLError
-- ❌ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
-  URLError; video: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
@@ -286,12 +284,10 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2023** · BBC World Service - Cyber Hack / The Laz — [The Lazarus Heist S2: 7. Crypto comrades](https://www.bbc.co.uk/programmes/w3ct5fc4) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🎞️ **2022** · Ciao, Internet! con Matteo Flora — [[DIRETTA] - Ciao Internet! La Diretta del 1 Aprile 2022](https://www.spreaker.com/episode/diretta-ciao-internet-la-diretta-del-1-aprile-2022--49286341) · licenza: terzi  
-  page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
-- 🎞️ **2022** · DataKnightmare (Walter Vannini) — [DK 6x28 - MonitoraPA e le prese sul Titanic](https://www.spreaker.com/episode/dk-6x28-monitorapa-e-le-prese-sul-titanic--49902887) · licenza: terzi  
-  page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
-- 🎞️ **2022** · Ciao, Internet! con Matteo Flora — [KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!](https://www.spreaker.com/episode/kaspersky-antivirus-e-pericoloso-va-rimosso-e-un-malware-russo-tutte-le-risposte--49065639) · licenza: terzi  
-  page copy saved; video/audio not downloaded: [download] Got error: HTTPSConnection(host='d1bxy2pveef3fq.cloudfront.net', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions. Giving up after 10 retries
+- 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
+  page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
+- 🟠 **2006** · Packet Storm Security (Secunia advisory  — [Secunia Security Advisory 22634 - Parallels Desktop for Mac Insecure File Permissions](https://packetstormsecurity.com/files/51690/Secunia-Security-Advisory-22634.html) · licenza: propria  
+  2026-10-22: Packet Storm mostra un controllo anti-bot (non aggirato), nessuna capture Web Archive; l'advisory originale di Fabio e' comunque copiato (files/51479, Full-Disclosure, CVE-2006-5817).
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
   page is a JavaScript shell with almost no text: needs browser capture
 
@@ -472,10 +468,13 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2005** · e-privacy IV (2005), Firenze, Palazzo Ve — [PGP luci e ombre (atti, PPT)](https://urna.winstonsmith.org/materiali/2005/atti/Ep2005_PGP_luci_e_ombre_Pietrosanti.ppt) · copia: `2005/3a21b65b9491` (live) · licenza: propria
 - **2005** · e-privacy IV (2005), Firenze, Palazzo Ve — [PGP luci e ombre (audio OGG)](https://urna.winstonsmith.org/materiali/2005/audio/Ep2005_PGP_luci_e_ombre_Pietrosanti.ogg) · copia: `2005/b603d6fb3b73` (Web Archive 20210609) · licenza: terzi
 - **2005** · fabio.pietrosanti.it (personal website,  — [Accesso alle reti anonime (freenet-it.shtml): page offering SSL/password access to his Fre](https://web.archive.org/web/20050204044728/http://fabio.pietrosanti.it/freenet-it.shtml) · copia: `2005/d0836baa86f6` (Web Archive 20050204) · licenza: propria
+- **2005** · Webbit 05 (Fiera Milano) - Osservatorio  — [Interviste ai Relatori Webbit - 05 Sicurezza: intervista a Fabio Pietrosanti (con Christia](https://web.archive.org/web/20050217170728/http://webb.it/html/webbit05/event/w05_01_05_01.htm) · copia: `2005/179ef865508f` (Web Archive 20050217) · licenza: terzi
 - **2005** · SMAU 2005, Milano - eAcademy, area sicur — [SMAU 2005 (eAcademy Sikurezza.org, Milano): pgp luci e ombre: storia e evoluzione dello st](https://web.archive.org/web/20060218020713/http://www.sikurezza.org:80/wiki/Risorse/Smau05) · copia: `2005/0fd9ded9a204` (Web Archive 20060218) · licenza: terzi
 - **2005** · SMAU 2005 eAcademy (sikurezza.org wiki a — [PGP luci e ombre - SMAU 2005 E-Academy version (PGP_luci_e_ombre.ppt)](https://web.archive.org/web/20060507182713/http://www.sikurezza.org/wiki/Risorse/Smau05?action=download&upname=PGP_luci_e_ombre.ppt) · copia: `2005/972fdc47d27b` (Web Archive 20060507) · licenza: propria
 - **2005** · E-Privacy 2005, Firenze — [PGP luci e ombre. Storia e evoluzione dello strumento per la privacy più usato al mondo](https://www.slideshare.net/slideshow/eprivacy-2005-pgp-luci-e-ombre/1669259) · copia: `2005/8024a63d0295` (live) · licenza: terzi
 - **2006** · Shake Edizioni — [Il software libero in Italia (a cura di Andrea Glorioso) - contributo di Fabio "naif" Piet](http://www.shake.it/index.php?id=51&productID=541) · copia: `2006/32ad2b4438ec` (Web Archive 20151106) · licenza: terzi
+- **2006** · Packet Storm Security — [ParallelsDesktop.txt - Parallels Desktop for Mac (Build 1940) creates /Library/Parallels/.](https://packetstormsecurity.com/files/51479/ParallelsDesktop.txt.html) · copia: `2006/11eec969d0e6` (Web Archive 20240508) · licenza: propria
+- **2006** · Packet Storm Security - author page 'nai — [Packet Storm files authored by naif: ParallelsDesktop.txt (2006-10-30), sirc.tar.gz (2000-](https://packetstormsecurity.com/files/author/1398/) · copia: `2006/a8b252c1cd71` (Web Archive 20221201) · licenza: terzi
 - **2006** · s0ftpr0ject (s0ftpj.org) - Digital Secur — [s0ftpj.org docs: hosts 'Exploiting hidden services...' (hack.lu 2006), 'PGP Luci ed ombre'](https://s0ftpj.org/en/docs.html) · copia: `2006/483fb0e5c12e` (Web Archive 20061010) · licenza: terzi
 - **2006** · Full-Disclosure — [parallels Desktop file permission notice](https://seclists.org/fulldisclosure/2006/Oct/581) · copia: `2006/ceefd39eadff` (Web Archive 20111213) · licenza: propria
 - **2006** · Secunia — [Parallels Desktop for Mac insecure file permissions (SA22634)](https://secunia.com/advisories/22634/) · copia: `2006/3b883128af23` (Web Archive 20070429) · licenza: propria
@@ -1266,6 +1265,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · netzpolitik.org — [Gesichtserkennung: Datenschutz-Verfahren gegen PimEyes und Clearview](https://netzpolitik.org/2021/gesichtserkennung-datenschutz-verfahren-gegen-pimeyes-und-clearview/) · copia: `2021/a4e297cdf469` (Web Archive 20210527) · licenza: terzi
 - **2021** · noyb - European Center for Digital Right — [Digital Rights alliance file legal complaints against facial recognition company Clearview](https://noyb.eu/en/digital-rights-alliance-file-legal-complaints-against-facial-recognition-company-clearview-ai) · copia: `2021/74ecbec33ce2` (Web Archive 20210527) · licenza: terzi
 - **2021** · Italia Open Gov (Dipartimento della Funz — [Il Dipartimento alla Milano Digital week](https://open.gov.it/notizie/dipartimento-milano-digital-week) · copia: `2021/9752c3274f07` (Web Archive 20220804) · licenza: terzi
+- **2021** · The Crypto Conversation (Brave New Coin) — [Scandal and Turmoil - The Cryptocurrency Wild West](https://podcasts.apple.com/us/podcast/scandal-and-turmoil-the-cryptocurrency-wild-west/id1471243424?i=1000538523963) · copia: `2021/739590054d09` (live · video locale `media.mp3` (54 MB, da caricare su Drive)) · licenza: terzi
 - **2021** · Privacy International (press release) — [Privacy International and others file legal complaints across Europe against controversial](https://privacyinternational.org/press-release/4520/privacy-international-and-others-file-legal-complaints-across-europe-against) · copia: `2021/417da9cdce59` (Web Archive 20210527) · licenza: terzi
 - **2021** · Twitter — [@RositaRijtano: l'Associazione Rousseau deve consegnare i dati degli iscritti al M5S (cc @](https://twitter.com/RositaRijtano/status/1399675243367632899) · copia: `2021/143c61d56204` (Web Archive 20210601) · licenza: terzi
 - **2021** · Twitter @AlessLongo (Alessandro Longo, A — [Chiediamo chiarezza. Tema del voto online è grave e necessità dibattito pubblico](https://twitter.com/alesslongo/status/1371423726294728709) · copia: `2021/ab35a38019c6` (Web Archive 20210315) · licenza: terzi
@@ -1395,7 +1395,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Rai Radio 1 - Eta Beta — [Eta Beta del 05/03/2022 - Guerre di rete, ecco chi sono i soldati del cyberspazio](https://www.raiplaysound.it/audio/2022/03/Eta-Beta-del-05032022-bfe193b3-3441-4fe7-875e-6d26d85e70f0.html) · copia: `2022/ade4f4362b85` (Web Archive 20220701) · licenza: terzi
 - **2022** · raiplaysound.it — [Eta Beta | Puntate 2022 | Rai Radio 1 | RaiPlay Sound](https://www.raiplaysound.it/programmi/etabeta/puntate/puntate-2022) · copia: `2022/faf7fd4a6ecc` (Web Archive 20240329) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora (Spreak — [1064. MonitoraPA ha mandato una PEC a 8254 scuole](https://www.spreaker.com/episode/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole-quali-le-domande-e-cosa-rispondere-con-42lf-it--51323447) · copia: `2022/4cdfae9d5870` (live · video locale `media.mp3` (53 MB, da caricare su Drive)) · licenza: terzi
+- **2022** · Ciao, Internet! con Matteo Flora (Spreak — [[DIRETTA] - Ciao Internet! La Diretta del 1 Aprile 2022](https://www.spreaker.com/episode/diretta-ciao-internet-la-diretta-del-1-aprile-2022--49286341) · copia: `2022/df2f828815b7` (live · video locale `media.mp3` (86 MB, da caricare su Drive)) · licenza: terzi
+- **2022** · DataKnightmare (Walter Vannini) — [DK 6x28 - MonitoraPA e le prese sul Titanic](https://www.spreaker.com/episode/dk-6x28-monitorapa-e-le-prese-sul-titanic--49902887) · copia: `2022/2af08eb1aa68` (live · video locale `media.mp3` (37 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora (Spreak — [GOOGLE ANALYTICS e Pubbliche Amministrazioni: ~8.000 PA sono fuori legge. Ed ora?](https://www.spreaker.com/episode/google-analytics-e-pubbliche-amministrazioni-8-000-pa-sono-fuori-legge-ed-ora--49784871) · copia: `2022/856a89da52a2` (live · video locale `media.mp3` (28 MB, da caricare su Drive)) · licenza: terzi
+- **2022** · Ciao, Internet! con Matteo Flora (Spreak — [KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware russo? Tutte le risposte!](https://www.spreaker.com/episode/kaspersky-antivirus-e-pericoloso-va-rimosso-e-un-malware-russo-tutte-le-risposte--49065639) · copia: `2022/4ae49b6e68a6` (live · video locale `media.mp3` (26 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Il podcast di Marco Canestrari — [Pacifici si ma incazzati pure](https://www.spreaker.com/episode/pacifici-si-ma-incazzati-pure--49249201) · copia: `2022/0bf514f74a59` (live · video locale `media.mp3` (113 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Startmag — [Anonymous, c'è un caso Kaspersky in Italia?](https://www.startmag.it/innovazione/anonymous-ce-un-caso-kaspersky-in-italia/) · copia: `2022/74abfa235c09` (Web Archive 20220228) · licenza: terzi
 - **2022** · Wall Street Italia — [Kaspersky, in Italia si riapre il caso dell'antivirus russo amato da PA e aziende](https://www.wallstreetitalia.com/kaspersky-in-italia-si-riapre-il-caso-dellantivirus-russo-amato-da-pa-e-aziende/) · copia: `2022/dabf21495649` (Web Archive 20220312) · licenza: terzi

@@ -1,6 +1,6 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-10-13** (1038 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-10-22** (1119 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
@@ -178,6 +178,17 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-quindecies. 2026-10-22
+- Copie delle voci nuove: La Stampa ×7, YouTube ×4 e pagina Webbit 05 / Packet Storm **ottenute**.
+- **Risolti al retry** (prima falliti per rete): audio Apple Podcasts «Scandal and turmoil» (2021) e 3 puntate Spreaker
+  (Kaspersky, diretta 01/04/2022, DataKnightmare 6x28) → scaricati (solo in locale). DK 6x28 e Crypto Conversation in
+  trascrizione per verificare il nome.
+- **Nuovi ❌ con motivo**: RTF dell'intervista Webbit 05 (mai archiviato; webb.it fa solo redirect) e ristampa Secunia
+  SA22634 su Packet Storm (anti-bot, non aggirato; l'advisory originale è comunque in copia).
+- **Invariati**: Radio Monte Carlo 2010, PrivateWave EN/ES, deck Google Slides 2019, coinage.it, 2 notizieoggi.com (host
+  irraggiungibili), 🟠 Sogou anti-bot; CyberCoach ora «page-only» (solo pagina descrittiva).
+- **Domanda per te:** hai ancora l'**intervista Webbit 05** (`05_FabioPietrosanti.rtf`, area Sicurezza di Zanero)?
 
 ### B0-quaterdecies. 2026-10-13
 - Copie delle 11 voci nuove e dei 6 mirror: **tutte ottenute** (live o Web Archive), compresi 4 video YouTube (VL2014,

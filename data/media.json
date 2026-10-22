@@ -2298,6 +2298,40 @@
   "on_old_site": false
  },
  {
+  "date": "2005",
+  "year": 2005,
+  "type": "interview",
+  "outlet": "Webbit 05 (Fiera Milano) - Osservatorio Webbit, 'Interviste ai Relatori Webbit', area 05 Sicurezza (responsabile Stefano Zanero)",
+  "title": "Interviste ai Relatori Webbit - 05 Sicurezza: intervista a Fabio Pietrosanti (con Christian Nicita, Gianni Bianchini, Marco Calamari, Yvette Agostini)",
+  "url": "https://web.archive.org/web/20050217170728/http://webb.it/html/webbit05/event/w05_01_05_01.htm",
+  "language": "it",
+  "role": "interviewed",
+  "note": "Webbit 05 site page 'L'evento > Agenda > Interviste ai Relatori Webbit' (Web Archive capture 2005-02-17; same page also at /html/webbit05/intro/w05_01_05_01.htm, capture 20051027022343). Table row '05 Sicurezza - Stefano Zanero - Introduzione - Interviste: Christian Nicita, Fabio Pietrosanti, Gianni Bianchini, Marco Calamari, Yvette Agostini'; his name links to /html/webbit05/docosservatorio/interviste/05_FabioPietrosanti.rtf. Interviews of the 2004 independent speakers for the 2005 edition's Osservatorio (exact date unknown, before Feb 2005; may be late 2004). Name verified on the capture; interview text NOT available.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2006_2026-10-22"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2005",
+  "year": 2005,
+  "type": "interview",
+  "outlet": "Webbit 05 - Osservatorio Webbit (RTF document)",
+  "title": "Intervista a Fabio Pietrosanti (Osservatorio Webbit 05, area Sicurezza) - 05_FabioPietrosanti.rtf",
+  "url": "http://www.webb.it/html/webbit05/docosservatorio/interviste/05_FabioPietrosanti.rtf",
+  "language": "it",
+  "role": "interviewed",
+  "note": "The interview file itself, linked from the page above. Never captured by the Web Archive (wayback/available empty for www. and bare host; CDX of docosservatorio/* holds only area-01 files); webb.it now only redirects (301). Not verified - text lost unless Fabio has a copy.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2006_2026-10-22"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2005-02-04",
   "year": 2005,
   "type": "other",
@@ -2637,6 +2671,57 @@
   "known": true,
   "_slices": [
    "slice1_1995_2006"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2006-10-30",
+  "year": 2006,
+  "type": "research",
+  "outlet": "Packet Storm Security",
+  "title": "ParallelsDesktop.txt - Parallels Desktop for Mac (Build 1940) creates /Library/Parallels/.dhcpd_configuration with insecure permissions (666)",
+  "url": "https://packetstormsecurity.com/files/51479/ParallelsDesktop.txt.html",
+  "language": "en",
+  "role": "author",
+  "note": "Packet Storm advisory page: 'Posted Oct 30, 2006 / Authored by naif', body signed '-naif' ('While testing the useful parallels for osx...'). Same advisory as the known Full-Disclosure post (seclists 2006/Oct/581) and Secunia SA22634 / CVE-2006-5817, but a distinct publication. Verified on Web Archive capture https://web.archive.org/web/20240508164212/http://packetstormsecurity.com/files/51479/ParallelsDesktop.txt.html (live page is behind a bot challenge, not bypassed).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2006_2026-10-22"
+  ],
+  "on_old_site": true
+ },
+ {
+  "date": "2006-10-30",
+  "year": 2006,
+  "type": "other",
+  "outlet": "Packet Storm Security - author page 'naif' (id 1398)",
+  "title": "Packet Storm files authored by naif: ParallelsDesktop.txt (2006-10-30), sirc.tar.gz (2000-07-06), sendmailcftrojan.tar.gz (2000-06-14)",
+  "url": "https://packetstormsecurity.com/files/author/1398/",
+  "language": "en",
+  "role": "author",
+  "note": "Author index page; verified on Web Archive capture https://web.archive.org/web/20221201150812/https://packetstormsecurity.com/files/author/1398/ (lists the three files 'Authored by naif'). The 2000 sendmailcftrojan file is already known (packetstormsecurity.com/files/22123). Optional: may be treated as a mirror/index rather than a separate item.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2006_2026-10-22"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2006-11-06",
+  "year": 2006,
+  "type": "research",
+  "outlet": "Packet Storm Security (Secunia advisory reprint)",
+  "title": "Secunia Security Advisory 22634 - Parallels Desktop for Mac Insecure File Permissions",
+  "url": "https://packetstormsecurity.com/files/51690/Secunia-Security-Advisory-22634.html",
+  "language": "en",
+  "role": "mentioned",
+  "note": "Reprint of Secunia SA22634, whose text credits 'Fabio Pietrosanti' (known item secunia.com/advisories/22634). NOT verified here: live page behind a bot challenge (not bypassed) and no Web Archive capture (wayback/available empty). A search-engine summary quotes 'Fabio Pietrosanti has reported a security issue...'.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2003_2006_2026-10-22"
   ],
   "on_old_site": true
  },

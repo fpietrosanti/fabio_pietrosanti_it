@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1527**; dopo deduplica: **1114**
-- Già presenti sul vecchio sito: **50** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1064**
-- Verificati aprendo la pagina: **1049**; solo da risultato di ricerca: **65**
+- Risultati grezzi dalle ricerche: **1532**; dopo deduplica: **1119**
+- Già presenti sul vecchio sito: **52** (su 35 voci elencate lì)
+- **Nuovi rispetto al vecchio sito: 1067**
+- Verificati aprendo la pagina: **1052**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 224, tweet 132, Talk 87, Video 76, Post sul blog infosecurity.ch 72, Citato 51, article 42, Progetto 33, Ricerca 31, Altro 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Comunicato 15, Paper 12, Intervista 7, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 224, tweet 132, Talk 87, Video 76, Post sul blog infosecurity.ch 72, Citato 51, article 42, Progetto 33, Altro 32, Ricerca 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Comunicato 15, Paper 12, Intervista 9, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -23,8 +23,8 @@ Per tipo (nuovi): Menzionato 224, tweet 132, Talk 87, Video 76, Post sul blog in
 | 2002 | 2 | 19 | 8 |
 | 2003 | 5 | 8 | 7 |
 | 2004 | 1 | 12 | 11 |
-| 2005 | 1 | 10 | 7 |
-| 2006 | 4 | 10 | 2 |
+| 2005 | 1 | 12 | 9 |
+| 2006 | 4 | 13 | 3 |
 | 2007 | 1 | 13 | 10 |
 | 2008 | 0 | 13 | 13 |
 | 2009 | 1 | 46 | 44 |
@@ -2028,10 +2028,16 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2007** · Libro · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ)  
   2026-09-23: confermato dai ringraziamenti («"Naif" Pietrosanti»), verificati sulla copia Internet Archive del volume.
 
-## 2006 — 10 voci, 2 nuove
+## 2006 — 13 voci, 3 nuove
 
+- ↺ **2006-11-06** · Ricerca · Packet Storm Security (Secunia advisory reprint) — [Secunia Security Advisory 22634 - Parallels Desktop for Mac Insecure File Permissions](https://packetstormsecurity.com/files/51690/Secunia-Security-Advisory-22634.html) _(non verificato)_  
+  Reprint of Secunia SA22634, whose text credits 'Fabio Pietrosanti' (known item secunia.com/advisories/22634). NOT verified here: live page behind a bot challenge (not bypassed) and no Web Archive capture (wayback/available empty). A search-engine summary quotes 'Fabio Pietrosanti has reported a security issue...'.
 - ↺ **2006-11-06** · Ricerca · Secunia (Web Archive capture 2007-04-29) — [Parallels Desktop for Mac Insecure File Permissions (SA22634)](https://secunia.com/advisories/22634/)  
   KNOWN item - verification upgrade. Verbatim from capture https://web.archive.org/web/20070429132253/http://secunia.com:80/advisories/22634 : "Fabio Pietrosanti has reported a security issue with unknown impact in Parallels Desktop for Mac." ... "Provided and/or discovered by : Fabio Pietrosanti"; Release Date 2006-11-06, CVE reference CVE-2006-5817. The known entry is marked verified:false ('credit not confirmable'): it can now be set verified:true with archive_url = the capture above.
+- ↺ **2006-10-30** · Ricerca · Packet Storm Security — [ParallelsDesktop.txt - Parallels Desktop for Mac (Build 1940) creates /Library/Parallels/.dhcpd_configuration with insecure permissions (666)](https://packetstormsecurity.com/files/51479/ParallelsDesktop.txt.html)  
+  Packet Storm advisory page: 'Posted Oct 30, 2006 / Authored by naif', body signed '-naif' ('While testing the useful parallels for osx...'). Same advisory as the known Full-Disclosure post (seclists 2006/Oct/581) and Secunia SA22634 / CVE-2006-5817, but a distinct publication. Verified on Web Archive capture https://web.archive.org/web/20240508164212/http://packetstormsecurity.com/files/51479/ParallelsDesktop.txt.html (live page is behind a bot challenge, not bypassed).
+- 🆕 **2006-10-30** · Altro · Packet Storm Security - author page 'naif' (id 1398) — [Packet Storm files authored by naif: ParallelsDesktop.txt (2006-10-30), sirc.tar.gz (2000-07-06), sendmailcftrojan.tar.gz (2000-06-14)](https://packetstormsecurity.com/files/author/1398/)  
+  Author index page; verified on Web Archive capture https://web.archive.org/web/20221201150812/https://packetstormsecurity.com/files/author/1398/ (lists the three files 'Authored by naif'). The 2000 sendmailcftrojan file is already known (packetstormsecurity.com/files/22123). Optional: may be treated as a mirror/index rather than a separate item.
 - ↺ **2006-10-27** · Ricerca · Full-Disclosure — [parallels Desktop file permission notice](https://seclists.org/fulldisclosure/2006/Oct/581)  
   Insecure file permissions in Parallels Desktop for Mac; MARC: https://marc.info/?l=full-disclosure&m=116196531422830&w=2
 - ↺ **2006-10-21** · Menzionato · Hack.lu 2006, Luxembourg - speakers list — [Hack.lu 2006 speakers: Fabio Pietrosanti - abstract and biography](https://web.archive.org/web/20061103134031/http://www.hack.lu:80/index.php/List)  
@@ -2051,7 +2057,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2006** · Libro · Shake Edizioni — [Il software libero in Italia (a cura di Andrea Glorioso) - contributo di Fabio "naif" Pietrosanti](http://www.shake.it/index.php?id=51&productID=541)  
   Security chapter; publisher page confirms him as a contributor but doesn't show the publication year (ISBN 9788888865768) - check the year
 
-## 2005 — 10 voci, 7 nuove
+## 2005 — 12 voci, 9 nuove
 
 - ↺ **2005-10** · Talk · SMAU 2005, Milano - eAcademy, area sicurezza curata da Sikurezza.org — [SMAU 2005 (eAcademy Sikurezza.org, Milano): pgp luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo (SMAU 2005 eAcademy)](https://web.archive.org/web/20060218020713/http://www.sikurezza.org:80/wiki/Risorse/Smau05)  
   Sikurezza.org resources page for SMAU 2005 (Wayback 2006-02-18): 'Il formato di webb.it è stato acquisito da Smau ed i seminari sono stati tenuti nello spazio eAcademy ... Sikurezza.org ha curato la selezione dei seminari ... a Smau 2005' and the entry 'pgp luci e ombre: storia e evoluzione dello strumento per la privacy più usato al mondo - Fabio Pietrosanti ... » PGP_luci_e_ombre.ppt'. A repeat of the e-privacy 2005 talk at a different event (SMAU, Oct 2005), not recorded so far. Exact day not given (slide file last saved 21 Oct 2005; SMAU 2005 ran 20-24 Oct).
@@ -2073,6 +2079,10 @@ Anni senza nessun risultato: nessuno
   Caricamento sul profilo SlideShare fpietrosanti (13 presentazioni): già presente in media.json come mirror della voce e-privacy 2005 (campo mirrors). Gli altri 12 caricamenti del profilo sono tutti già in media.json.
 - 🆕 **2005-02-04** · Altro · fabio.pietrosanti.it (personal website, Web Archive) — [Accesso alle reti anonime (freenet-it.shtml): page offering SSL/password access to his FreeNET and Entropy anonymity-network proxy nodes](https://web.archive.org/web/20050204044728/http://fabio.pietrosanti.it/freenet-it.shtml)  
   Self-published page on his own site (title 'Fabio Pietrosanti ~ Securing the information for fun and profit'); he runs FreeNET and Entropy nodes and offers access via supertolla.itapac.net. Linked from the 'I M H O' news box of the 2005-2006 homepages (naif.itapac.net/index-en.shtml 2005-04-04, fabio.pietrosanti.it/index.shtml 2006-07-21). 10 captures 2005-02-04..2006-12-21, same digest. Early evidence of his anonymity-network work before the hack.lu 2006 Tor hidden-services talk. Low priority: own website, not a third-party mention.
+- 🆕 **2005** · Intervista · Webbit 05 (Fiera Milano) - Osservatorio Webbit, 'Interviste ai Relatori Webbit', area 05 Sicurezza (responsabile Stefano Zanero) — [Interviste ai Relatori Webbit - 05 Sicurezza: intervista a Fabio Pietrosanti (con Christian Nicita, Gianni Bianchini, Marco Calamari, Yvette Agostini)](https://web.archive.org/web/20050217170728/http://webb.it/html/webbit05/event/w05_01_05_01.htm)  
+  Webbit 05 site page 'L'evento > Agenda > Interviste ai Relatori Webbit' (Web Archive capture 2005-02-17; same page also at /html/webbit05/intro/w05_01_05_01.htm, capture 20051027022343). Table row '05 Sicurezza - Stefano Zanero - Introduzione - Interviste: Christian Nicita, Fabio Pietrosanti, Gianni Bianchini, Marco Calamari, Yvette Agostini'; his name links to /html/webbit05/docosservatorio/interviste/05_FabioPietrosanti.rtf. Interviews of the 2004 independent speakers for the 2005 edition's Osservatorio (exact date unknown, before Feb 2005; may be late 2004). Name verified on the capture; interview text NOT available.
+- 🆕 **2005** · Intervista · Webbit 05 - Osservatorio Webbit (RTF document) — [Intervista a Fabio Pietrosanti (Osservatorio Webbit 05, area Sicurezza) - 05_FabioPietrosanti.rtf](http://www.webb.it/html/webbit05/docosservatorio/interviste/05_FabioPietrosanti.rtf) _(non verificato)_  
+  The interview file itself, linked from the page above. Never captured by the Web Archive (wayback/available empty for www. and bare host; CDX of docosservatorio/* holds only area-01 files); webb.it now only redirects (301). Not verified - text lost unless Fabio has a copy.
 
 ## 2004 — 12 voci, 11 nuove
 

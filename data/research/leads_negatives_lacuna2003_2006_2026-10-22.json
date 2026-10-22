@@ -1,0 +1,117 @@
+[
+ {
+  "source": "PuntoSicuro (puntosicuro.it) - every article PDF view-pdf/x-AR-<n>/ for n=2400..7000 (Oct 2002 - spring 2007; ~3,500 articles dated 2003-2006), pdftotext + grep, run on the server",
+  "query": "pietrosanti | blackhats | black hats",
+  "result": "Only AR-2853 (10/02/2003 'Wireless Lan, la sicurezza dell'insicurezza', already known). No other article by or about him 2003-2006. ~190 ids returned no PDF."
+ },
+ {
+  "source": "Zeus News - sequential crawl n.php?c=1700..2399 (Nov 2002 - Oct 2003; completes the 2026-10-08 crawl of c=2400..9100)",
+  "query": "pietrosanti | naif | blackhats | black hats",
+  "result": "0 hits on 700 pages."
+ },
+ {
+  "source": "CCC Congress Fahrplan speaker lists 20C3 (2003), 21C3 (2004), 22C3 (2005), 23C3 (2006) (events.ccc.de + Wayback); Chaos Communication Camp 2003 (no Fahrplan online)",
+  "query": "pietrosanti | naif",
+  "result": "Not listed."
+ },
+ {
+  "source": "Hackmeeting 2003 (hackmeeting.org/hackit03/2003: programme, docs, press pages stampa1-4, corriere1, repubblica1-2, puntoinformatico1, diario) and Hackit06 Parma (index.php?act=seminari, Wayback 2010-06-12)",
+  "query": "pietrosanti | naif | blackhats",
+  "result": "Not named. Hackit06 has a 'Specifiche del protocollo Tor' seminar but no speaker names on the page."
+ },
+ {
+  "source": "e-privacy 2003 (II) and 2006 (V): programme pages on e-privacy.winstonsmith.org + all IA items pws_e-privacy_2003_* / pws_e-privacy_2006_* (creators)",
+  "query": "pietrosanti | naif",
+  "result": "Not a speaker in 2003 or 2006 (2003 'et al.' items are Maddler/Zeist, Bianchini/Hal, Bianchini/Melica). His only known 2003 trace remains the BFi12 mention of his question."
+ },
+ {
+  "source": "sikurezza.org old (non-wiki) site 2000-2007 via Wayback CDX (docs.html, isec06, bh_smau02, bh_infosecurity02, cfp) + wiki page list",
+  "query": "pietrosanti | naif",
+  "result": "No new event pages for 2003, 2005 or 2006 (no Smau03/Smau06/Infosecurity03/05 pages exist in the wiki; isec06 is only a free-pass code page)."
+ },
+ {
+  "source": "SMAU agenda pages (smau.it/smau/agenda/agenda_scheda.php, Wayback): ~510 conference cards captured 2003-2004 + 45 captured Jan-Mar 2005",
+  "query": "pietrosanti | naif",
+  "result": "Not named. SMAU 2005-2006 agendas were not archived under that path (sikurezza.org Smau05 page already known)."
+ },
+ {
+  "source": "Infosecurity Italia site (infosecurity.it, Wayback 2002-2006): Lotus Notes reedinf.nsf programme/seminar views, contents/infosecurity (comunicati, convegni), cms/attach PDFs, workshop_06 Roma/Verona - ~1,400 pages fetched (UK duplicate reedinfuk.nsf and storage-expo skipped)",
+  "query": "pietrosanti | naif",
+  "result": "Only hit = the already-known 2006 PDF 'La nuova area demo di IT security' (cms/attach/7_..., capture 20060507094543), which confirms the sweep works. No 2003 or 2005 programme/press page names him. 10 pages could not be fetched (IA errors)."
+ },
+ {
+  "source": "Webbit 2005 (webb.it, Wayback): 135 pages (event/author/* relatore cards 2004-2006, html/webbit05/*)",
+  "query": "pietrosanti | naif",
+  "result": "One hit (reported as item): 'Interviste ai Relatori Webbit' page. The interview file itself (05_FabioPietrosanti.rtf) was never captured by Wayback (CDX of docosservatorio/* has only area 01 files) and the live host only redirects."
+ },
+ {
+  "source": "CeAS - Centro Alti Studi Lotta al Terrorismo (ceas.it, Wayback 2001-2007, 142 pages)",
+  "query": "pietrosanti | naif",
+  "result": "Not named (3 pages not fetchable). His CeAS talk was 17/03/2002 per his 2003 CV, outside the window."
+ },
+ {
+  "source": "Linux Day 2003-2006 (linux.it/LinuxDay/* programma pages, 61 Wayback captures; linuxday.it only 19 unrelated captures)",
+  "query": "pietrosanti | naif",
+  "result": "Not named."
+ },
+ {
+  "source": "blackhats.it 2002-2004 and olografix.org 2003-2006 (Wayback CDX)",
+  "query": "CDX listing",
+  "result": "CDX queries failed/empty during this run (IA intermittently 'Temporarily Offline'); blackhats.it 2004+ was already negative on 2026-10-08. Not completed."
+ },
+ {
+  "source": "End Summer Camp (endsummercamp.org) up to 2006; MOCA 2005-2006",
+  "query": "Wayback CDX",
+  "result": "No ESC captures before 2007; moca.olografix.org 2005-06 captures are the MOCA 2004 site (already negative)."
+ },
+ {
+  "source": "fabio.pietrosanti.it curriculum.shtml (capture 2003-12-03) and naif.itapac.net 2003 archive in the repo (past/)",
+  "query": "conference list",
+  "result": "Conference list stops at Webbit03 (10/05/2003, known). itapac 2003 page says he spoke at 'Centro Alti Studi Lotta al Terrorismo' and 'Universita' LIUC di Castellanza' without dates (CeAS = 17/03/2002, outside window). Also: he says he was freelance for Mondadori's Week.it (pre-2003)."
+ },
+ {
+  "source": "MARC author index (bugtraq, full-disclosure, pen-test, vuln-dev, firewall-wizards, rsync, asterisk-security, serdev, kolab-devel) for all aliases 2003-2006",
+  "query": "Pietrosanti | naif",
+  "result": "2003: only list replies/questions (pen-test 'PBX Security' 10/02, 'Public implementation of birthday attack (dns poison)' 27/03, bugtraq replies 28/07 and 25/08, fw-wiz 01/08, rsync 29/10); 2005: asterisk-security posts; 2005-2006: ~30 Kolab issue-tracker mails (Khamsa); 2006: full-disclosure replies. Mailing-list posts do not count. Only advisory in window = Parallels 2006 (known) -> its Packet Storm copy added as item."
+ },
+ {
+  "source": "NVD API keywordSearch",
+  "query": "pietrosanti ; naif",
+  "result": "0 CVEs (CVE-2006-5817 does not name him, as noted on 2026-10-08)."
+ },
+ {
+  "source": "Internet Archive full-text search (be-api fts) from the server",
+  "query": "\"fabio pietrosanti\"; naif blackhats; pietrosanti sikurezza/khamsa/wireless/voip/hacker/crittografia/sicurezza informatica; naif s0ftpj; \"italian black hats\"; naif fastweb",
+  "result": "Nothing new in 2003-2006. Il Piccolo 31/10/2003 = Paolo Pietrosanti; onpaper 2006 = Roberto; Computer Idea 111/129 = Stefano Pietrosanti (readers); Hacker Journal 31/38/189 cite Italian Black Hats without his name; Win Magazine 88 (May 2006) 'Si chiama Naif' = the Intel-Mac XP hacker (actually 'narf'), NOT him -> excluded. Out of window by-product: 'Profiling Hackers' (Chiesa/Ducci/Ciappi, 2008) thanks 'Fabio \"Naif\" Pietrosanti' (already in media.json)."
+ },
+ {
+  "source": "Google Books API",
+  "query": "\"fabio pietrosanti\"; pietrosanti hacker/sicurezza/wireless/voip; naif \"black hats\"",
+  "result": "Blocked: daily quota exhausted (HTTP 429) from both laptop and server. Not done."
+ },
+ {
+  "source": "01net.it (via WebFetch; direct curl gets a Cloudflare challenge, not bypassed): 'VoIp sicuro nuova opportunita'' (17/10/2005), 'Il burattino senza fili' wireless seminar Brescia (05/06/2003)",
+  "query": "Pietrosanti | Khamsa",
+  "result": "Not named."
+ },
+ {
+  "source": "CNR ISTI Pisa 'Incontro di lavoro Sicurezza Informatica' 13/11/2003 (openportal.isti.cnr.it PDF)",
+  "query": "pietrosanti",
+  "result": "Not named (not the CNR Task Force of 05/11/2003, already known via SlideShare)."
+ },
+ {
+  "source": "Punto Informatico 'E-Privacy 2005 e tecnologie di frontiera', 'Uccidere subito il nuovo Grande Fratello'",
+  "query": "pietrosanti | naif | pgp",
+  "result": "Not named."
+ },
+ {
+  "source": "Web searches (~25): Smau 2003/2006, Infosecurity 2005, VoIP 2005-2007, CeAS, Castellanza/LIUC/university seminars 2005-2006, Kolab/Khamsa 2006, Tor hidden services 2006, Italian Black Hats 2003, Fastweb/BFi 2003, html.it wireless hacking, I.NET 2003, Il software libero in Italia",
+  "query": "various",
+  "result": "No new item. 'Il software libero in Italia' only via a Nexa mailing-list announcement (list post, does not count). html.it 'hacking delle reti wireless' does not name him."
+ },
+ {
+  "source": "Packet Storm live pages (files/51479, files/51690)",
+  "query": "-",
+  "result": "Bot challenge page (not bypassed); 51479 verified via Wayback, 51690 has no capture -> left unverified."
+ }
+]

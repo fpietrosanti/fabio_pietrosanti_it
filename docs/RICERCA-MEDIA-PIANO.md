@@ -423,6 +423,41 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   re:publica, CoE, UNESCO; podcast 2020-24 da verificare (Valigia Blu, Ciao Internet, DataKnightmare); pista 2010
   tuttovolume.net 09/02/2010 (intervista, Khamsa) da controllare.
 
+## Note sessione 2026-10-22 (run programmata «ricerca profonda»)
+- **1119 voci** in `data/media.json` (1052 verificate). Le prime voci aperte della coda restano bloccate (chiavi API,
+  login, risposte di Fabio, sito Hermes, video TimePie): lavorate le tre voci proposte il 13/10, con 3 agenti
+  (`pass4_lacuna2011_residui`, `pass4_lacuna2003_2006`, `pass4_podcast_2020_2026`; negativi in
+  `data/research/leads_negatives_*_2026-10-22.json`) → **+16 voci nuove** (15 verificate) e 4 podcast promossi a verificati.
+  Parte dei file grezzi è stata fusa e committata dal task Google che girava in parallelo (commit 3ed368f).
+- **Residui lacuna 2011–2016 → +7 La Stampa** (la ricerca interna di lastampa.it funziona e copre l'archivio):
+  Guerrini «Debutta Mafialeaks» 05/11/2013; **Frediani su Hacking Team** 14/07/2015 («Intelligence o panini?»),
+  07/08/2015 («The Italian job»), 19/10/2015 (mercato degli attacchi); fuori periodo Frediani 11/05/2017 (Comey,
+  costi GlobaLeaks), Angius 17/01/2019 (Tor) e 30/08/2019 (CCCamp, «Fabio “Naif” Pietrosanti»). **Negativi**: OWNI,
+  techPresident, rassegna logioshermes.org, globaleaks.org/news, programmi OHM2013, IJF13, RightsCon 2016 (solo bozza),
+  CTF 2015, CPDP 2012-16, SIF 2015, re:publica 2013/14/16; Sole 24 Ore. **Resta**: CPDP 2011 e post Hermes ALAC/ExpoLeaks
+  (429 Web Archive), CDX coe.int, Messaggero/ANSA/AGI/Adnkronos (ricerca interna solo recente o browser).
+- **Lacuna 2003/2005-2006 → +3 verificate** (2003 resta senza voci nuove): pagina «Interviste ai Relatori Webbit 05»
+  (area Sicurezza, Zanero; capture 17/02/2005), advisory Parallels su Packet Storm (30/10/2006, «Authored by naif») e
+  pagina autore «naif» di Packet Storm; non verificate: RTF dell'intervista Webbit (mai archiviato), ristampa Secunia
+  SA22634 (anti-bot). **Negativi solidi** (scansioni intere dal server): PuntoSicuro 10/2002–2007 (~3.500 articoli: solo il
+  pezzo noto del 10/02/2003), Zeus News 11/2002–10/2003, agenda SMAU 2003-05 (~560 pagine), Infosecurity Italia 2002-06
+  (~1.400 pagine), CeAS, Linux Day, CCC 2003-06, Hackmeeting 2003/2006, e-privacy 2003/2006, sikurezza.org.
+  **Escluso**: Win Magazine n.88 (05/2006) «Si chiama Naif» = l'hacker di XP sui Mac Intel, non Fabio.
+  **Resta**: Google Books (429), CDX blackhats.it 2002-04 e olografix.org (Web Archive instabile), SMAU 2005-06 non
+  archiviati, 01net.it (anti-bot), riviste cartacee e TV del CV.
+- **Podcast 2020–2026 → +4 video YouTube** (gemelli delle puntate Spreaker, nome trovato nei sottotitoli automatici,
+  senza scaricare audio): Ciao Internet 972 Kaspersky (15/03/2022), Canestrari «Pacifici sì ma incazzati pure»
+  (30/03/2022), diretta Ciao Internet L54 (pesce d'aprile sul voto elettronico, 01/04/2022), #ONference «Le sfide della
+  privacy nel 2023» (07/01/2023, «ciao naif»); le 4 puntate Spreaker corrispondenti ora **verificate**. Sempre citato,
+  mai ospite. **Negativi**: iTunes Search su 7 store (980 episodi), 20 query YouTube, Radio Onda d'Urto/Città Fujiko/
+  Popolare, Radio Radicale dopo il 2021, 28 puntate Ciao Internet (sottotitoli), Rivoluzionari in codice, TI Italia/WIN.
+  **Resta**: sottotitoli dell'intero canale Ciao Internet (1.729 video + 107 dirette; YouTube limita: da fare lentamente
+  sul server); 5 episodi solo audio da trascrivere (DK 6x28 e Crypto Conversation 2021 ora scaricati e in trascrizione
+  locale, log `_run_transcribe_2026-10-22.log`; Valigia Blu 2020, BBC Lazarus Heist S2E7, Bloomberg «North Korea's Man in
+  Spain» senza audio scaricato).
+- **Prossima voce lavorabile:** esito delle 2 trascrizioni; sottotitoli Ciao Internet sul server a ritmo lento; residui
+  Web Archive (CPDP 2011, coe.int, blackhats.it/olografix 2002-04); poi una lacuna per anno debole (2007-2010 o 2017-2019).
+
 ## Note sessione 2026-10-13 (run programmata «ricerca profonda»)
 - **1038 voci** in `data/media.json` (+11, vedi «Lacuna 2011–2016»).
 - **Scelta della voce:** le prime voci aperte restano bloccate (chiavi API, login Chrome, risposte di Fabio, sito Hermes,
