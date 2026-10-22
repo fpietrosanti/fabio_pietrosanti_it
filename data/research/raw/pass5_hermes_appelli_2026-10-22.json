@@ -1,0 +1,307 @@
+[
+ {
+  "date": "2013-01-25",
+  "year": 2013,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”",
+  "url": "https://hermescenter.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/",
+  "language": "it",
+  "role": "author",
+  "note": "Lettera aperta a Skype sulla sicurezza delle conversazioni, firmata dal Centro Hermes con altre organizzazioni. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "software-libero",
+   "whistleblowing",
+   "sorveglianza"
+  ]
+ },
+ {
+  "date": "2015-03-16",
+  "year": 2015,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes",
+  "url": "https://hermescenter.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/",
+  "language": "it",
+  "role": "author",
+  "note": "Posizione del Centro Hermes nella consultazione ANAC sul whistleblowing. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "riuso",
+   "anac",
+   "software-libero",
+   "whistleblowing"
+  ]
+ },
+ {
+  "date": "2016-11-28",
+  "year": 2016,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Consultazione ANAC sul FOIA: Posizione del Centro Hermes",
+  "url": "https://hermescenter.org/consultazione-anac-sul-foia-posizione-del-centro-hermes/",
+  "language": "it",
+  "role": "author",
+  "note": "Posizione del Centro Hermes nella consultazione ANAC sul FOIA. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "anac",
+   "whistleblowing",
+   "foia"
+  ]
+ },
+ {
+  "date": "2017-07-24",
+  "year": 2017,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Appello del Centro Hermes ad ANAC per la Tecnologia di Whistleblowing open-source",
+  "url": "https://hermescenter.org/appello-del-centro-hermes-ad-anac-per-la-tecnologia-di-whistleblowing-open-source/",
+  "language": "it",
+  "role": "author",
+  "note": "Appello ad ANAC perché la tecnologia di whistleblowing della PA sia software libero. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "riuso",
+   "anac",
+   "software-libero",
+   "whistleblowing"
+  ]
+ },
+ {
+  "date": "2017-10-23",
+  "year": 2017,
+  "type": "research",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Le richieste FOIA sul Voto Elettronico Lombardia 2017",
+  "url": "https://hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/",
+  "language": "it",
+  "role": "author",
+  "note": "Richieste FOIA sul voto elettronico del referendum lombardo 2017, con i contratti Smartmatic ottenuti. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "voto-elettronico",
+   "foia"
+  ]
+ },
+ {
+  "date": "2018-05-06",
+  "year": 2018,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Centro Hermes partecipa a Consultazione su acquisizione e riuso di software con riferimento al Whistleblowing Anticorruzione",
+  "url": "https://hermescenter.org/centro-hermes-partecipa-a-consultazione-su-acquisizione-e-riuso-di-software-con-riferimento-al-whistleblowing-anticorruzione/",
+  "language": "it",
+  "role": "author",
+  "note": "Consultazione AgID su acquisizione e riuso del software nella PA, con riferimento al whistleblowing. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "riuso",
+   "anac",
+   "software-libero",
+   "whistleblowing"
+  ]
+ },
+ {
+  "date": "2018-10-01",
+  "year": 2018,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Il software libero e open source GlobaLeaks fornito gratuitamente agli enti pubblici: nasce WhistleblowingPA",
+  "url": "https://hermescenter.org/whistleblowingpa/",
+  "language": "it",
+  "role": "author",
+  "note": "WhistleblowingPA: GlobaLeaks come servizio gratuito per gli enti pubblici italiani. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "software-libero",
+   "whistleblowing"
+  ]
+ },
+ {
+  "date": "2018-11-15",
+  "year": 2018,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "15 novembre 2018: un anno dall’approvazione della legge sul whistleblowing in Italia",
+  "url": "https://hermescenter.org/15-novembre-2018-un-anno-dallapprovazione-della-legge-sul-whistleblowing-in-italia/",
+  "language": "it",
+  "role": "author",
+  "note": "Un anno dalla legge italiana sul whistleblowing: bilancio del Centro Hermes. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "riuso",
+   "software-libero",
+   "whistleblowing"
+  ]
+ },
+ {
+  "date": "2019-01-16",
+  "year": 2019,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "ANAC ed OpenWhistleblowing",
+  "url": "https://hermescenter.org/anac-ed-openwhistleblowing/",
+  "language": "it",
+  "role": "author",
+  "note": "ANAC e OpenWhistleblowing: la piattaforma dell'autorità basata su GlobaLeaks. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "riuso",
+   "anac",
+   "whistleblowing",
+   "foia"
+  ]
+ },
+ {
+  "date": "2019-03-13",
+  "year": 2019,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Mancanza di una vision tecnologica a supporto del FOIA",
+  "url": "https://hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/",
+  "language": "it",
+  "role": "author",
+  "note": "Posizione sulla mancanza di una visione tecnologica a supporto del FOIA. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "riuso",
+   "anac",
+   "whistleblowing",
+   "foia"
+  ]
+ },
+ {
+  "date": "2019-10-01",
+  "year": 2019,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Il software GlobaLeaks festeggia il primo anno a supporto del whistleblowing anonimo nella PA",
+  "url": "https://hermescenter.org/il-software-globaleaks-festeggia-il-primo-anno-a-supporto-del-whistleblowing-anonimo-nella-pa/",
+  "language": "it",
+  "role": "author",
+  "note": "Primo anno della piattaforma ANAC basata su GlobaLeaks. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "anac",
+   "whistleblowing"
+  ]
+ },
+ {
+  "date": "2020-01-03",
+  "year": 2020,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Risposta alla Consultazione su Piano Anticorruzione del Comune di Roma",
+  "url": "https://hermescenter.org/risposta-alla-consultazione-su-piano-anticorruzione-del-comune-di-roma/",
+  "language": "it",
+  "role": "author",
+  "note": "Risposta alla consultazione sul Piano Anticorruzione del Comune di Roma. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "riuso",
+   "anac",
+   "software-libero",
+   "whistleblowing"
+  ]
+ },
+ {
+  "date": "2020-02-13",
+  "year": 2020,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Whistleblowing: un impegno comune per recepire e applicare la Direttiva europea. Importante tutelare anche chi sta attorno ai segnalanti, e cioè i media e la società civile",
+  "url": "https://hermescenter.org/whistleblowing-un-impegno-comune-per-recepire-e-applicare-la-direttiva-europea-importante-tutelare-anche-chi-sta-attorno-ai-segnalanti-e-cioe-i-media-e-la-societa-civile/",
+  "language": "it",
+  "role": "author",
+  "note": "Impegno comune per il recepimento della direttiva europea sul whistleblowing. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "riuso",
+   "anac",
+   "software-libero",
+   "whistleblowing"
+  ]
+ },
+ {
+  "date": "2020-10-09",
+  "year": 2020,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "ANAC e Hermes Center risolvono una controversia sull’applicazione della licenza AGPL al software OpenWhistleblowing",
+  "url": "https://hermescenter.org/anac-e-hermes-center-risolvono-una-controversia-sullapplicazione-della-licenza-agpl-al-software-openwhistleblowing/",
+  "language": "it",
+  "role": "author",
+  "note": "Controversia con ANAC sull'applicazione della licenza AGPL a OpenWhistleblowing, risolta: il codice torna libero. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "anac",
+   "whistleblowing"
+  ]
+ },
+ {
+  "date": "2017-11-09",
+  "year": 2017,
+  "type": "talk",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Il centro Hermes ha partecipato al Linux Day 2017 a Pavia",
+  "url": "https://hermescenter.org/il-centro-hermes-ha-partecipato-al-linux-day-2017-pavia/",
+  "language": "it",
+  "role": "author",
+  "note": "Intervento al Linux Day 2017 di Pavia su GlobaLeaks come software libero per la PA. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "software-libero"
+  ]
+ },
+ {
+  "date": "2018-03-26",
+  "year": 2018,
+  "type": "talk",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "Software di Whistleblowing Digitale GlobaLeaks al MERGE-IT",
+  "url": "https://hermescenter.org/software-di-whistleblowing-digitale-globaleaks-al-merge-it/",
+  "language": "it",
+  "role": "author",
+  "note": "GlobaLeaks a MERGE-IT, incontro delle comunità italiane del software libero. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "software-libero",
+   "whistleblowing"
+  ]
+ },
+ {
+  "date": "2017-12-04",
+  "year": 2017,
+  "type": "press_release",
+  "outlet": "Hermes Center for Transparency and Digital Human Rights",
+  "title": "After Net Neutrality, Device Neutrality",
+  "url": "https://hermescenter.org/net-neutrality-device-neutrality/",
+  "language": "it",
+  "role": "author",
+  "note": "Device Neutrality: proposta di policy dopo la net neutrality. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.",
+  "verified": true,
+  "known": false,
+  "hermes_themes": [
+   "software-libero",
+   "foia"
+  ]
+ }
+]

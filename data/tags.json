@@ -288,5 +288,31 @@
    "https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1",
    "https://shake.it/libri/il-software-libero-in-italia/"
   ]
+ },
+ "appeals": {
+  "label_it": "Appelli e posizioni pubbliche",
+  "label_en": "Appeals & public positions",
+  "label_zh": "公开呼吁与立场",
+  "about": "Appelli, consultazioni e posizioni firmate come Hermes Center: ANAC, riuso del software, software libero, FOIA, voto elettronico.",
+  "about_en": "Appeals, consultations and public positions signed as Hermes Center: the Italian anti-corruption authority, software reuse, free software, FOIA and e-voting.",
+  "urls": [
+   "https://hermescenter.org/15-novembre-2018-un-anno-dallapprovazione-della-legge-sul-whistleblowing-in-italia/",
+   "https://hermescenter.org/anac-e-hermes-center-risolvono-una-controversia-sullapplicazione-della-licenza-agpl-al-software-openwhistleblowing/",
+   "https://hermescenter.org/anac-ed-openwhistleblowing/",
+   "https://hermescenter.org/appello-del-centro-hermes-ad-anac-per-la-tecnologia-di-whistleblowing-open-source/",
+   "https://hermescenter.org/centro-hermes-partecipa-a-consultazione-su-acquisizione-e-riuso-di-software-con-riferimento-al-whistleblowing-anticorruzione/",
+   "https://hermescenter.org/consultazione-anac-sul-foia-posizione-del-centro-hermes/",
+   "https://hermescenter.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/",
+   "https://hermescenter.org/il-centro-hermes-ha-partecipato-al-linux-day-2017-pavia/",
+   "https://hermescenter.org/il-software-globaleaks-festeggia-il-primo-anno-a-supporto-del-whistleblowing-anonimo-nella-pa/",
+   "https://hermescenter.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/",
+   "https://hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/",
+   "https://hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/",
+   "https://hermescenter.org/net-neutrality-device-neutrality/",
+   "https://hermescenter.org/risposta-alla-consultazione-su-piano-anticorruzione-del-comune-di-roma/",
+   "https://hermescenter.org/software-di-whistleblowing-digitale-globaleaks-al-merge-it/",
+   "https://hermescenter.org/whistleblowing-un-impegno-comune-per-recepire-e-applicare-la-direttiva-europea-importante-tutelare-anche-chi-sta-attorno-ai-segnalanti-e-cioe-i-media-e-la-societa-civile/",
+   "https://hermescenter.org/whistleblowingpa/"
+  ]
  }
 }

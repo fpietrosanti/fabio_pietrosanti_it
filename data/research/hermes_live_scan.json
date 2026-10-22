@@ -1,0 +1,1837 @@
+[
+ {
+  "date": "2008-12-15",
+  "title": "ArsTechnica, “tor2web brings anonymous Tor sites to the “regular” web”",
+  "url": "https://hermescenter.org/arstechnica-tor2we/",
+  "slug": "arstechnica-tor2we",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 4376
+ },
+ {
+  "date": "2011-01-26",
+  "title": "Forbes, GlobaLeaks Wants To Be The Bittorrent To WikiLeaks’ Napster",
+  "url": "https://hermescenter.org/26012011-forbes-globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster/",
+  "slug": "26012011-forbes-globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster",
+  "categories": "News; Press",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": true,
+  "appeal": false,
+  "chars": 4598
+ },
+ {
+  "date": "2011-04-22",
+  "title": "LaStampa.it, Globaleaks OK",
+  "url": "https://hermescenter.org/lastampait-globaleaks-ok/",
+  "slug": "lastampait-globaleaks-ok",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 99
+ },
+ {
+  "date": "2011-06-03",
+  "title": "e-Privacy, Il  Progetto Globaleaks, una breve introduzione",
+  "url": "https://hermescenter.org/e-privacy-il-progetto-globaleaks-una-breve-introduzione/",
+  "slug": "e-privacy-il-progetto-globaleaks-una-breve-introduzione",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 187
+ },
+ {
+  "date": "2011-06-14",
+  "title": "Memeburn, The other WikiLeaks: 8 whistleblowing sites you probably don’t know about",
+  "url": "https://hermescenter.org/memeburn-the-other-wikileaks-8-whistleblowing-sites-you-probably-dont-know-about/",
+  "slug": "memeburn-the-other-wikileaks-8-whistleblowing-sites-you-probably-dont-know-about",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 5259
+ },
+ {
+  "date": "2011-08-23",
+  "title": "Golem.de, Quelloffene Whistleblower-Plattform angekündigt",
+  "url": "https://hermescenter.org/golem-de-quelloffene-whistleblower-plattform-angekundigt/",
+  "slug": "golem-de-quelloffene-whistleblower-plattform-angekundigt",
+  "categories": "News; Press",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3000
+ },
+ {
+  "date": "2011-09-06",
+  "title": "La Stampa, E’ nato Globaleaks.org un nuovo sito per creare tanti Wikileaks a costo zero",
+  "url": "https://hermescenter.org/la-stampa-e-nato-globaleaks-org-un-nuovo-sito-per-creare-tanti-wikileaks-a-costo-zero/",
+  "slug": "la-stampa-e-nato-globaleaks-org-un-nuovo-sito-per-creare-tanti-wikileaks-a-costo-zero",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 2107
+ },
+ {
+  "date": "2011-09-07",
+  "title": "Punto Informatico, Globaleaks, oltre Wikileaks",
+  "url": "https://hermescenter.org/punto-informatico-globaleaks-oltre-wikileaks/",
+  "slug": "punto-informatico-globaleaks-oltre-wikileaks",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 12704
+ },
+ {
+  "date": "2011-10-14",
+  "title": "New America Foundation, New Tools for Today’s Investigative Journalist",
+  "url": "https://hermescenter.org/new-america-foundation-new-tools-for-todays-investigative-journalist/",
+  "slug": "new-america-foundation-new-tools-for-todays-investigative-journalist",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing",
+   "foia"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 18121
+ },
+ {
+  "date": "2011-10-30",
+  "title": "X Congresso dei Radicali Italiani,  Globaleaks",
+  "url": "https://hermescenter.org/x-congresso-radicali-italiani-globaleaks/",
+  "slug": "x-congresso-radicali-italiani-globaleaks",
+  "categories": "News; Press",
+  "themes": [],
+  "named": true,
+  "appeal": false,
+  "chars": 331
+ },
+ {
+  "date": "2011-11-18",
+  "title": "Wired.it , Cos’è GlobaLeaks, il tulipano della democrazia",
+  "url": "https://hermescenter.org/wired-it-cose-globaleaks-il-tulipano-della-democrazia/",
+  "slug": "wired-it-cose-globaleaks-il-tulipano-della-democrazia",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 7325
+ },
+ {
+  "date": "2011-11-21",
+  "title": "Think! ,  Globaleaks",
+  "url": "https://hermescenter.org/think-globaleaks/",
+  "slug": "think-globaleaks",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3591
+ },
+ {
+  "date": "2011-11-22",
+  "title": "MilanoX, GlobaLeaks: la Democrazia dei Whisteblowers",
+  "url": "https://hermescenter.org/milanox-globaleaks-la-democrazia-dei-whisteblowers/",
+  "slug": "milanox-globaleaks-la-democrazia-dei-whisteblowers",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 6997
+ },
+ {
+  "date": "2011-12-09",
+  "title": "39th Congress Radical Party,  Transparency and Public disclosure",
+  "url": "https://hermescenter.org/39th-congress-radical-party-transparency-and-public-disclosure/",
+  "slug": "39th-congress-radical-party-transparency-and-public-disclosure",
+  "categories": "News; Press",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3733
+ },
+ {
+  "date": "2011-12-11",
+  "title": "Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks",
+  "url": "https://hermescenter.org/radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks/",
+  "slug": "radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero"
+  ],
+  "named": true,
+  "appeal": false,
+  "chars": 791
+ },
+ {
+  "date": "2012-02-05",
+  "title": "Repubblica.it, Hacker in campo contro i corrotti, GlobaLeaks la denuncia in p2p",
+  "url": "https://hermescenter.org/repubblica-it-hacker-in-campo-contro-i-corrotti-globaleaks-la-denuncia-in-p2p/",
+  "slug": "repubblica-it-hacker-in-campo-contro-i-corrotti-globaleaks-la-denuncia-in-p2p",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 7233
+ },
+ {
+  "date": "2012-04-14",
+  "title": "Corriere.it,  Il software (democratico) che tutela le fonti",
+  "url": "https://hermescenter.org/corriere-it-il-software-democratico-che-tutela-le-fonti/",
+  "slug": "corriere-it-il-software-democratico-che-tutela-le-fonti",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": true,
+  "appeal": false,
+  "chars": 7456
+ },
+ {
+  "date": "2012-04-28",
+  "title": "blog.debiase.com, Wikileaks e Globaleaks",
+  "url": "https://hermescenter.org/blog-debiase-com-wikileaks-e-globaleaks/",
+  "slug": "blog-debiase-com-wikileaks-e-globaleaks",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3499
+ },
+ {
+  "date": "2013-01-25",
+  "title": "[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”",
+  "url": "https://hermescenter.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/",
+  "slug": "it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing",
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 5122
+ },
+ {
+  "date": "2013-05-10",
+  "title": "Open source Anonymous Whistleblowing Platform GlobaLeaks reaches 0.2 Alpha",
+  "url": "https://hermescenter.org/open-source-anonymous-whistleblowing-platform-globaleaks-reaches-0-2-alpha/",
+  "slug": "open-source-anonymous-whistleblowing-platform-globaleaks-reaches-0-2-alpha",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3605
+ },
+ {
+  "date": "2013-06-12",
+  "title": "Radio3 Scienza,  Il caso PRISM",
+  "url": "https://hermescenter.org/radio3-scienza-il-caso-prism/",
+  "slug": "radio3-scienza-il-caso-prism",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 461
+ },
+ {
+  "date": "2013-06-13",
+  "title": "Disappeared news,   Be the first on your block to offer leaks to the world",
+  "url": "https://hermescenter.org/disappeared-news-be-the-first-on-your-block-to-offer-leaks-to-the-world/",
+  "slug": "disappeared-news-be-the-first-on-your-block-to-offer-leaks-to-the-world",
+  "categories": "News; Press",
+  "themes": [
+   "whistleblowing",
+   "foia"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 2897
+ },
+ {
+  "date": "2013-06-14",
+  "title": "Panorama.it, Snowden e Manning, hacker. Quasi eroi.",
+  "url": "https://hermescenter.org/panorama-it-snowden-e-manning-hacker-quasi-eroi/",
+  "slug": "panorama-it-snowden-e-manning-hacker-quasi-eroi",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 5182
+ },
+ {
+  "date": "2013-06-26",
+  "title": "Wired.it, Guida per il perfetto whistleblower",
+  "url": "https://hermescenter.org/wired-guida-per-il-perfetto-whistleblower/",
+  "slug": "wired-guida-per-il-perfetto-whistleblower",
+  "categories": "News; Press",
+  "themes": [
+   "whistleblowing",
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 10311
+ },
+ {
+  "date": "2013-07-02",
+  "title": "skyTG24,  Datagate, il mondo delle spie visto da dentro",
+  "url": "https://hermescenter.org/skytg24-datagate-il-mondo-delle-spie-visto-da-dentro/",
+  "slug": "skytg24-datagate-il-mondo-delle-spie-visto-da-dentro",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 245
+ },
+ {
+  "date": "2013-07-02",
+  "title": "Corriere.it, Quando l’utente non si lascia spiare",
+  "url": "https://hermescenter.org/corriere-it-quando-lutente-non-si-lascia-spiare/",
+  "slug": "corriere-it-quando-lutente-non-si-lascia-spiare",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 4106
+ },
+ {
+  "date": "2013-07-10",
+  "title": "L’ Hermes Center a Milano il 10 Luglio al WhistleBlowing Italia Congress",
+  "url": "https://hermescenter.org/hermes-center-intervento-whistleblowingitalia-congress-milano/",
+  "slug": "hermes-center-intervento-whistleblowingitalia-congress-milano",
+  "categories": "News; Press",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": true,
+  "appeal": false,
+  "chars": 485
+ },
+ {
+  "date": "2013-07-11",
+  "title": "Eticanews, Whistleblowing, a luglio l’ok di Milano",
+  "url": "https://hermescenter.org/eticanews-whistleblowing-milano-hermes/",
+  "slug": "eticanews-whistleblowing-milano-hermes",
+  "categories": "News; Press",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3992
+ },
+ {
+  "date": "2013-08-01",
+  "title": "Noisysquare, Whistleblowing Revolution: Social, Technology and Research Perspectives",
+  "url": "https://hermescenter.org/noisysquare-whistleblowing-revolution-social-technology-and-research-perspectives/",
+  "slug": "noisysquare-whistleblowing-revolution-social-technology-and-research-perspectives",
+  "categories": "News; Press",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3209
+ },
+ {
+  "date": "2013-09-09",
+  "title": "Hermes Center and Publeaks press release September 9th",
+  "url": "https://hermescenter.org/hermes-center-publeaks-press-release/",
+  "slug": "hermes-center-publeaks-press-release",
+  "categories": "News",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 2123
+ },
+ {
+  "date": "2013-09-09",
+  "title": "Hermes Center annuncia il lancio di Publeaks",
+  "url": "https://hermescenter.org/hermes-center-publeaks/",
+  "slug": "hermes-center-publeaks",
+  "categories": "News",
+  "themes": [
+   "whistleblowing",
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3212
+ },
+ {
+  "date": "2013-09-23",
+  "title": "Hermes Center  calls upon Italy to protect privacy against unchecked internet surveillance",
+  "url": "https://hermescenter.org/hermes-center-italy-protect-privacy-against-internet-surveillance/",
+  "slug": "hermes-center-italy-protect-privacy-against-internet-surveillance",
+  "categories": "News",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 5397
+ },
+ {
+  "date": "2013-09-23",
+  "title": "Hermes Center invita l’Italia a proteggere la propria privacy dalla sorveglianza incontrollata di Internet",
+  "url": "https://hermescenter.org/hermes-center-invita-italia-proteggere-privacy-sorveglianza-internet/",
+  "slug": "hermes-center-invita-italia-proteggere-privacy-sorveglianza-internet",
+  "categories": "News",
+  "themes": [
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 5813
+ },
+ {
+  "date": "2013-10-07",
+  "title": "Nasce IRPILEAKS, prima piattaforma italiana di whistleblowing anonimo a supporto del giornalismo d’inchiesta",
+  "url": "https://hermescenter.org/irpileaks-whistleblowing-anonimo-giornalismo/",
+  "slug": "irpileaks-whistleblowing-anonimo-giornalismo",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 4469
+ },
+ {
+  "date": "2013-10-07",
+  "title": "IRPILEAKS, first Italian platform for anonymous leaking to investigative journalism",
+  "url": "https://hermescenter.org/irpileaks-italian-anonymous-leaking-investigative-journalism/",
+  "slug": "irpileaks-italian-anonymous-leaking-investigative-journalism",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 4746
+ },
+ {
+  "date": "2014-03-29",
+  "title": "Nasce Nawaatleaks, la prima iniziativa di whistleblowing del mondo arabo",
+  "url": "https://hermescenter.org/nawaatleaks-whistleblowing-hermes/",
+  "slug": "nawaatleaks-whistleblowing-hermes",
+  "categories": "News",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 1053
+ },
+ {
+  "date": "2014-06-10",
+  "title": "Al via ExpoLeaks  la prima piattaforma per la trasparenza di Expo 2015",
+  "url": "https://hermescenter.org/expoleaks-expo2015-whistleblowing-trasparenza/",
+  "slug": "expoleaks-expo2015-whistleblowing-trasparenza",
+  "categories": "News",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 2625
+ },
+ {
+  "date": "2014-06-10",
+  "title": "ExpoLeaks, the first whistleblowing platform for Expo 2015",
+  "url": "https://hermescenter.org/expoleaks-whistleblowing-expo2015/",
+  "slug": "expoleaks-whistleblowing-expo2015",
+  "categories": "News",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 2675
+ },
+ {
+  "date": "2014-09-24",
+  "title": "Globaleaks needs YOU: python coders",
+  "url": "https://hermescenter.org/globaleaks-python-coders/",
+  "slug": "globaleaks-python-coders",
+  "categories": "News",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 827
+ },
+ {
+  "date": "2014-10-14",
+  "title": "Nasce il portale ‘allerta anticorruzione - ALAC’",
+  "url": "https://hermescenter.org/alac-anticorruzione-whistleblowing-hermes/",
+  "slug": "alac-anticorruzione-whistleblowing-hermes",
+  "categories": "News",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 1306
+ },
+ {
+  "date": "2014-10-15",
+  "title": "E-PRIVACY 2014 - INTERNET DELLE COSE",
+  "url": "https://hermescenter.org/e-privacy-2014-internet-delle-cose/",
+  "slug": "e-privacy-2014-internet-delle-cose",
+  "categories": "News",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 1105
+ },
+ {
+  "date": "2015-03-16",
+  "title": "Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes",
+  "url": "https://hermescenter.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/",
+  "slug": "consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes",
+  "categories": "News; Press",
+  "themes": [
+   "riuso",
+   "anac",
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": true,
+  "appeal": true,
+  "chars": 13625
+ },
+ {
+  "date": "2015-05-21",
+  "title": "Workshop Vicino/Lontano (maggio 2015, Udine)",
+  "url": "https://hermescenter.org/workshop-vicinolontano-maggio-2015-udine/",
+  "slug": "workshop-vicinolontano-maggio-2015-udine",
+  "categories": "News",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 958
+ },
+ {
+  "date": "2015-08-23",
+  "title": "Open Call for GlobaLeaks Developers",
+  "url": "https://hermescenter.org/open-call-for-globaleaks-developers/",
+  "slug": "open-call-for-globaleaks-developers",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 4621
+ },
+ {
+  "date": "2015-08-23",
+  "title": "Cerchiamo Sviluppatori per Software Libero GlobaLeaks",
+  "url": "https://hermescenter.org/cerchiamo-sviluppatori-per-software-libero-globaleaks/",
+  "slug": "cerchiamo-sviluppatori-per-software-libero-globaleaks",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 5019
+ },
+ {
+  "date": "2015-09-10",
+  "title": "Lettera di supporto contro la sorveglianza politica operata dal governo Ecuadoriano",
+  "url": "https://hermescenter.org/lettera-di-supporto-contro-la-sorveglianza-politica-operata-dal-governo-ecuadoriano/",
+  "slug": "lettera-di-supporto-contro-la-sorveglianza-politica-operata-dal-governo-ecuadoriano",
+  "categories": "Press",
+  "themes": [
+   "whistleblowing",
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 2484
+ },
+ {
+  "date": "2015-10-12",
+  "title": "E-PRIVACY 2015 - Captatori Informatici e società civile:  una convivenza possibile?",
+  "url": "https://hermescenter.org/e-privacy-2015-captatori-informatici-e-societa-civile-una-convivenza-possibile/",
+  "slug": "e-privacy-2015-captatori-informatici-e-societa-civile-una-convivenza-possibile",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 801
+ },
+ {
+  "date": "2016-10-26",
+  "title": "E-Privacy XX Edizione: Privacy ed Antiterrorismo",
+  "url": "https://hermescenter.org/e-privacy-xx-edizione/",
+  "slug": "e-privacy-xx-edizione",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 914
+ },
+ {
+  "date": "2016-11-28",
+  "title": "Consultazione ANAC sul FOIA: Posizione del Centro Hermes",
+  "url": "https://hermescenter.org/consultazione-anac-sul-foia-posizione-del-centro-hermes/",
+  "slug": "consultazione-anac-sul-foia-posizione-del-centro-hermes",
+  "categories": "News; Press",
+  "themes": [
+   "anac",
+   "whistleblowing",
+   "foia"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 14436
+ },
+ {
+  "date": "2017-01-02",
+  "title": "GlobaLeaks-Hermes Concept Note Shortlisted by Innovate AFRICA Fund",
+  "url": "https://hermescenter.org/globaleaks-hermes-center-project-concept-note-innovate-africa-fund/",
+  "slug": "globaleaks-hermes-center-project-concept-note-innovate-africa-fund",
+  "categories": "News",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 4706
+ },
+ {
+  "date": "2017-05-30",
+  "title": "Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE",
+  "url": "https://hermescenter.org/sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise/",
+  "slug": "sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "foia"
+  ],
+  "named": true,
+  "appeal": true,
+  "chars": 4708
+ },
+ {
+  "date": "2017-07-23",
+  "title": "Conservazione indiscriminata dei dati per 6 anni",
+  "url": "https://hermescenter.org/conservazione-indiscriminata-dei-dati-per-6-anni/",
+  "slug": "conservazione-indiscriminata-dei-dati-per-6-anni",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza"
+  ],
+  "named": true,
+  "appeal": true,
+  "chars": 5957
+ },
+ {
+  "date": "2017-07-24",
+  "title": "Appello del Centro Hermes ad ANAC per la Tecnologia di Whistleblowing open-source",
+  "url": "https://hermescenter.org/appello-del-centro-hermes-ad-anac-per-la-tecnologia-di-whistleblowing-open-source/",
+  "slug": "appello-del-centro-hermes-ad-anac-per-la-tecnologia-di-whistleblowing-open-source",
+  "categories": "News; Press",
+  "themes": [
+   "riuso",
+   "anac",
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 20222
+ },
+ {
+  "date": "2017-08-29",
+  "title": "Digital Whistleblowing Fund",
+  "url": "https://hermescenter.org/digital-whistleblowing-fund/",
+  "slug": "digital-whistleblowing-fund",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 5249
+ },
+ {
+  "date": "2017-10-11",
+  "title": "Chiediamo all’Europa di mettere fine al tracking online",
+  "url": "https://hermescenter.org/eu-fine-fine-tracking-online-cookies/",
+  "slug": "eu-fine-fine-tracking-online-cookies",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 2105
+ },
+ {
+  "date": "2017-10-23",
+  "title": "Le richieste FOIA sul Voto Elettronico Lombardia 2017",
+  "url": "https://hermescenter.org/le-richieste-foia-sul-voto-elettronico-lombardia-2017/",
+  "slug": "le-richieste-foia-sul-voto-elettronico-lombardia-2017",
+  "categories": "News; Press",
+  "themes": [
+   "voto-elettronico",
+   "foia"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 4268
+ },
+ {
+  "date": "2017-11-06",
+  "title": "Il Centro Hermes al DIG Festival per la cybersecurity dei giornalisti (con slide)",
+  "url": "https://hermescenter.org/centro-hermes-dig-festival-cybersecurity-giornalisti-slide/",
+  "slug": "centro-hermes-dig-festival-cybersecurity-giornalisti-slide",
+  "categories": "News",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": true,
+  "appeal": false,
+  "chars": 2149
+ },
+ {
+  "date": "2017-11-09",
+  "title": "Il centro Hermes ha partecipato al Linux Day 2017 a Pavia",
+  "url": "https://hermescenter.org/il-centro-hermes-ha-partecipato-al-linux-day-2017-pavia/",
+  "slug": "il-centro-hermes-ha-partecipato-al-linux-day-2017-pavia",
+  "categories": "News",
+  "themes": [
+   "software-libero"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 922
+ },
+ {
+  "date": "2017-11-14",
+  "title": "A Google of IoT is coming? Research, production and promotion of a Policy Advice for the impact on privacy of connected smart objects",
+  "url": "https://hermescenter.org/google-iot-coming-research-production-promotion-policy-advice-impact-privacy-connected-smart-objects/",
+  "slug": "google-iot-coming-research-production-promotion-policy-advice-impact-privacy-connected-smart-objects",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 2241
+ },
+ {
+  "date": "2017-11-17",
+  "title": "Riforma europea del copyright: i filtri automatici per gli upload mettono in pericolo la nostra democrazia",
+  "url": "https://hermescenter.org/riforma-europea-del-copyright-filtri-automatici-per-gli-upload-mettono-pericolo-la-nostra-democrazia/",
+  "slug": "riforma-europea-del-copyright-filtri-automatici-per-gli-upload-mettono-pericolo-la-nostra-democrazia",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 6879
+ },
+ {
+  "date": "2017-12-01",
+  "title": "Xnet Warns Whistleblowers: Beware of Fake Anonymous Whistleblowing Boxes",
+  "url": "https://hermescenter.org/xnet-warns-whistleblowers-aware-fake-anonymous-whistleblowing-boxes/",
+  "slug": "xnet-warns-whistleblowers-aware-fake-anonymous-whistleblowing-boxes",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 2934
+ },
+ {
+  "date": "2017-12-04",
+  "title": "After Net Neutrality, Device Neutrality",
+  "url": "https://hermescenter.org/net-neutrality-device-neutrality/",
+  "slug": "net-neutrality-device-neutrality",
+  "categories": "News; Press",
+  "themes": [
+   "software-libero",
+   "foia"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 6359
+ },
+ {
+  "date": "2018-01-22",
+  "title": "Profilazione massiva internet in Italia: Intervenga il Garante!",
+  "url": "https://hermescenter.org/profilazione-massiva-internet-italia-intervenga-il-garante/",
+  "slug": "profilazione-massiva-internet-italia-intervenga-il-garante",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "foia"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 5107
+ },
+ {
+  "date": "2018-01-22",
+  "title": "Europol’s FOIA on Data Retention with Carrier Grade NAT",
+  "url": "https://hermescenter.org/europols-foia-data-retention-carrier-grade-nat/",
+  "slug": "europols-foia-data-retention-carrier-grade-nat",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "foia"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 4795
+ },
+ {
+  "date": "2018-02-18",
+  "title": "Whistleblowing Digitale Master Anticorruzione alla Università Tor Vergata",
+  "url": "https://hermescenter.org/whistleblowing-digitale-master-anticorruzione-alla-universita-tor-vergata-transparencyinternational-anac-riparteilfuturo-cortedicassazione/",
+  "slug": "whistleblowing-digitale-master-anticorruzione-alla-universita-tor-vergata-transparencyinternational-anac-riparteilfuturo-cortedicassazione",
+  "categories": "News",
+  "themes": [
+   "anac",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 1111
+ },
+ {
+  "date": "2018-02-26",
+  "title": "Il Ruolo del Whistleblowing nella CyberSecurity",
+  "url": "https://hermescenter.org/il-ruolo-del-whistleblowing-nella-cybersecurity-27001/",
+  "slug": "il-ruolo-del-whistleblowing-nella-cybersecurity-27001",
+  "categories": "News; Press",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 745
+ },
+ {
+  "date": "2018-02-28",
+  "title": "Il più grande filtro internet che l’Europa abbia mai visto realizzare",
+  "url": "https://hermescenter.org/il-piu-grande-filtro-internet-che-leuropa-abbia-mai-visto-realizzare/",
+  "slug": "il-piu-grande-filtro-internet-che-leuropa-abbia-mai-visto-realizzare",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 2806
+ },
+ {
+  "date": "2018-03-26",
+  "title": "Software di Whistleblowing Digitale GlobaLeaks al MERGE-IT",
+  "url": "https://hermescenter.org/software-di-whistleblowing-digitale-globaleaks-al-merge-it/",
+  "slug": "software-di-whistleblowing-digitale-globaleaks-al-merge-it",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 323
+ },
+ {
+  "date": "2018-04-09",
+  "title": "Announcement: Hermes Center members and fellows participate at the International Journalism Festival 2018 #ijf18",
+  "url": "https://hermescenter.org/announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18/",
+  "slug": "announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18",
+  "categories": "News",
+  "themes": [],
+  "named": true,
+  "appeal": false,
+  "chars": 1704
+ },
+ {
+  "date": "2018-05-06",
+  "title": "Centro Hermes partecipa a Consultazione su acquisizione e riuso di software con riferimento al Whistleblowing Anticorruzione",
+  "url": "https://hermescenter.org/centro-hermes-partecipa-a-consultazione-su-acquisizione-e-riuso-di-software-con-riferimento-al-whistleblowing-anticorruzione/",
+  "slug": "centro-hermes-partecipa-a-consultazione-su-acquisizione-e-riuso-di-software-con-riferimento-al-whistleblowing-anticorruzione",
+  "categories": "News; Press",
+  "themes": [
+   "riuso",
+   "anac",
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 4722
+ },
+ {
+  "date": "2018-06-13",
+  "title": "Con i filtri di internet proposti i cittadini saranno spogliati dei loro diritti: è necessario un tuo intervento!",
+  "url": "https://hermescenter.org/con-i-filtri-di-internet-proposti-i-cittadini-saranno-spogliati-dei-loro-diritti-e-necessario-un-tuo-intervento/",
+  "slug": "con-i-filtri-di-internet-proposti-i-cittadini-saranno-spogliati-dei-loro-diritti-e-necessario-un-tuo-intervento",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 3771
+ },
+ {
+  "date": "2018-06-18",
+  "title": "Con i filtri internet proposti le piattaforme si rivolteranno contro gli utenti: bisogna entrare in azione!",
+  "url": "https://hermescenter.org/con-i-filtri-internet-proposti-le-piattaforme-si-rivolteranno-contro-gli-utenti-bisogna-entrare-in-azione/",
+  "slug": "con-i-filtri-internet-proposti-le-piattaforme-si-rivolteranno-contro-gli-utenti-bisogna-entrare-in-azione",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 2547
+ },
+ {
+  "date": "2018-06-19",
+  "title": "Il filtro internet europeo distruggerà la tua libertà di espressione: serve il tuo intervento!",
+  "url": "https://hermescenter.org/il-filtro-internet-europeo-distruggera-la-tua-liberta-di-espressione-serve-il-tuo-intervento/",
+  "slug": "il-filtro-internet-europeo-distruggera-la-tua-liberta-di-espressione-serve-il-tuo-intervento",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 3490
+ },
+ {
+  "date": "2018-06-19",
+  "title": "I legislatori europei vogliono governare internet con filtri tutt’altro che perfetti: serve il tuo intervento!",
+  "url": "https://hermescenter.org/i-legislatori-europei-vogliono-governare-internet-con-filtri-tuttaltro-che-perfetti-serve-il-tuo-intervento/",
+  "slug": "i-legislatori-europei-vogliono-governare-internet-con-filtri-tuttaltro-che-perfetti-serve-il-tuo-intervento",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 4076
+ },
+ {
+  "date": "2018-06-25",
+  "title": "Data Retention: Hermes Center si unisce ad oltre 60 ONG nell’invio di denunce contro la conservazione illegale di dati",
+  "url": "https://hermescenter.org/data-retention-hermes-center-si-unisce-ad-oltre-60-ong-nellinvio-di-denunce-contro-la-conservazione-illegale-di-dati/",
+  "slug": "data-retention-hermes-center-si-unisce-ad-oltre-60-ong-nellinvio-di-denunce-contro-la-conservazione-illegale-di-dati",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 2718
+ },
+ {
+  "date": "2018-10-01",
+  "title": "Il software libero e open source GlobaLeaks fornito gratuitamente agli enti pubblici: nasce WhistleblowingPA",
+  "url": "https://hermescenter.org/whistleblowingpa/",
+  "slug": "whistleblowingpa",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 1510
+ },
+ {
+  "date": "2018-11-15",
+  "title": "15 novembre 2018: un anno dall’approvazione della legge sul whistleblowing in Italia",
+  "url": "https://hermescenter.org/15-novembre-2018-un-anno-dallapprovazione-della-legge-sul-whistleblowing-in-italia/",
+  "slug": "15-novembre-2018-un-anno-dallapprovazione-della-legge-sul-whistleblowing-in-italia",
+  "categories": "News; Press",
+  "themes": [
+   "riuso",
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 1401
+ },
+ {
+  "date": "2018-11-15",
+  "title": "Digital Whistleblowing Fund: New Grant Program To Support Whistleblowing Initiatives",
+  "url": "https://hermescenter.org/digital-whistleblowing-fund-new-grant-program-to-support-whistleblowing-initiatives/",
+  "slug": "digital-whistleblowing-fund-new-grant-program-to-support-whistleblowing-initiatives",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 1852
+ },
+ {
+  "date": "2018-12-06",
+  "title": "Regolamento sui contenuti terroristici: associazioni per i diritti civili sollevano preoccupazioni importanti",
+  "url": "https://hermescenter.org/regolamento-sui-contenuti-terroristici-associazioni-per-i-diritti-civili-sollevano-preoccupazioni-importanti/",
+  "slug": "regolamento-sui-contenuti-terroristici-associazioni-per-i-diritti-civili-sollevano-preoccupazioni-importanti",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 2133
+ },
+ {
+  "date": "2018-12-06",
+  "title": "Gruppi di consumatori, ONG e industrie chiedono congiuntamente al Consiglio dell’UE di promuovere la riforma ePrivacy",
+  "url": "https://hermescenter.org/gruppi-di-consumatori-ong-e-industrie-chiedono-congiuntamente-al-consiglio-dellue-di-promuovere-la-riforma-eprivacy/",
+  "slug": "gruppi-di-consumatori-ong-e-industrie-chiedono-congiuntamente-al-consiglio-dellue-di-promuovere-la-riforma-eprivacy",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 1564
+ },
+ {
+  "date": "2018-12-21",
+  "title": "Lettera aperta al MISE per garantire la corretta finalizzazione del regolamento europeo ePrivacy",
+  "url": "https://hermescenter.org/lettera-aperta-al-mise-per-garantire-la-corretta-finalizzazione-del-regolamento-europeo-eprivacy/",
+  "slug": "lettera-aperta-al-mise-per-garantire-la-corretta-finalizzazione-del-regolamento-europeo-eprivacy",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 2793
+ },
+ {
+  "date": "2019-01-16",
+  "title": "ANAC ed OpenWhistleblowing",
+  "url": "https://hermescenter.org/anac-ed-openwhistleblowing/",
+  "slug": "anac-ed-openwhistleblowing",
+  "categories": "News; Press",
+  "themes": [
+   "riuso",
+   "anac",
+   "whistleblowing",
+   "foia"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 9072
+ },
+ {
+  "date": "2019-01-29",
+  "title": "Lettera aperta per richiedere la soppressione degli articoli 11 e 13 della direttiva europea sul copyright",
+  "url": "https://hermescenter.org/lettera-aperta-per-richiedere-la-soppressione-degli-articoli-11-e-13-della-direttiva-europea-sul-copyright/",
+  "slug": "lettera-aperta-per-richiedere-la-soppressione-degli-articoli-11-e-13-della-direttiva-europea-sul-copyright",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 2251
+ },
+ {
+  "date": "2019-02-06",
+  "title": "Lettera aperta sul database per i contenuti terroristici",
+  "url": "https://hermescenter.org/lettera-aperta-sul-database-per-i-contenuti-terroristici/",
+  "slug": "lettera-aperta-sul-database-per-i-contenuti-terroristici",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 1146
+ },
+ {
+  "date": "2019-03-07",
+  "title": "È ora di chiamare i nostri parlamentari per bloccare l’articolo 13 della direttiva copyright",
+  "url": "https://hermescenter.org/e-ora-di-chiamare-i-nostri-parlamentari-per-bloccare-larticolo-13-della-direttiva-copyright/",
+  "slug": "e-ora-di-chiamare-i-nostri-parlamentari-per-bloccare-larticolo-13-della-direttiva-copyright",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 2816
+ },
+ {
+  "date": "2019-03-13",
+  "title": "Mancanza di una vision tecnologica a supporto del FOIA",
+  "url": "https://hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/",
+  "slug": "mancanza-di-una-vision-tecnologica-a-supporto-del-foia",
+  "categories": "News",
+  "themes": [
+   "riuso",
+   "anac",
+   "whistleblowing",
+   "foia"
+  ],
+  "named": true,
+  "appeal": true,
+  "chars": 5836
+ },
+ {
+  "date": "2019-03-18",
+  "title": "Unitevi all’Action Week nella settimana decisiva contro l’Articolo 13",
+  "url": "https://hermescenter.org/unitevi-allaction-week-nella-settimana-decisiva-contro-larticolo-13/",
+  "slug": "unitevi-allaction-week-nella-settimana-decisiva-contro-larticolo-13",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 3962
+ },
+ {
+  "date": "2019-07-01",
+  "title": "Digital Whistleblowing Fund: Call for applications (Round 2)",
+  "url": "https://hermescenter.org/digital-whistleblowing-fund-call-for-applications-round-2/",
+  "slug": "digital-whistleblowing-fund-call-for-applications-round-2",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 1432
+ },
+ {
+  "date": "2019-09-25",
+  "title": "Conferenza WIN sul whistleblowing: quali best practice per la protezione dei segnalanti?",
+  "url": "https://hermescenter.org/conferenza-win-sul-whistleblowing-quali-best-practice-per-la-protezione-dei-segnalanti/",
+  "slug": "conferenza-win-sul-whistleblowing-quali-best-practice-per-la-protezione-dei-segnalanti",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 4034
+ },
+ {
+  "date": "2019-10-01",
+  "title": "Il software GlobaLeaks festeggia il primo anno a supporto del whistleblowing anonimo nella PA",
+  "url": "https://hermescenter.org/il-software-globaleaks-festeggia-il-primo-anno-a-supporto-del-whistleblowing-anonimo-nella-pa/",
+  "slug": "il-software-globaleaks-festeggia-il-primo-anno-a-supporto-del-whistleblowing-anonimo-nella-pa",
+  "categories": "News",
+  "themes": [
+   "anac",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3134
+ },
+ {
+  "date": "2019-10-10",
+  "title": "Il progetto EAT è realtà! 10 paesi europei avranno una piattaforma sicura e anonima per il whistleblowing basata su GlobaLeaks",
+  "url": "https://hermescenter.org/il-progetto-eat-e-realta-10-paesi-europei-avranno-una-piattaforma-sicura-e-anonima-per-il-whistleblowing-basata-su-globaleaks/",
+  "slug": "il-progetto-eat-e-realta-10-paesi-europei-avranno-una-piattaforma-sicura-e-anonima-per-il-whistleblowing-basata-su-globaleaks",
+  "categories": "News",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3815
+ },
+ {
+  "date": "2019-11-27",
+  "title": "Caso Regeni: GlobaLeaks è il software anonimo utilizzato nell’inchiesta di Repubblica",
+  "url": "https://hermescenter.org/regeni-globaleaks-software-anonimo-inchiesta-repubblica/",
+  "slug": "regeni-globaleaks-software-anonimo-inchiesta-repubblica",
+  "categories": "News",
+  "themes": [
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 1972
+ },
+ {
+  "date": "2020-01-03",
+  "title": "Risposta alla Consultazione su Piano Anticorruzione del Comune di Roma",
+  "url": "https://hermescenter.org/risposta-alla-consultazione-su-piano-anticorruzione-del-comune-di-roma/",
+  "slug": "risposta-alla-consultazione-su-piano-anticorruzione-del-comune-di-roma",
+  "categories": "News",
+  "themes": [
+   "riuso",
+   "anac",
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 11644
+ },
+ {
+  "date": "2020-01-15",
+  "title": "Copyright: chiediamo più trasparenza nell’implementazione delle linee guida",
+  "url": "https://hermescenter.org/direttiva-copyright-lettera-aperta-linee-guida/",
+  "slug": "direttiva-copyright-lettera-aperta-linee-guida",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 1925
+ },
+ {
+  "date": "2020-02-13",
+  "title": "Whistleblowing: un impegno comune per recepire e applicare la Direttiva europea. Importante tutelare anche chi sta attorno ai segnalanti, e cioè i media e la società civile",
+  "url": "https://hermescenter.org/whistleblowing-un-impegno-comune-per-recepire-e-applicare-la-direttiva-europea-importante-tutelare-anche-chi-sta-attorno-ai-segnalanti-e-cioe-i-media-e-la-societa-civile/",
+  "slug": "whistleblowing-un-impegno-comune-per-recepire-e-applicare-la-direttiva-europea-importante-tutelare-anche-chi-sta-attorno-ai-segnalanti-e-cioe-i-media-e-la-societa-civile",
+  "categories": "News; Press",
+  "themes": [
+   "riuso",
+   "anac",
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 10707
+ },
+ {
+  "date": "2020-03-25",
+  "title": "Il Centro Hermes chiede al governo una risposta all’emergenza COVID-19 nel pieno rispetto dei diritti umani",
+  "url": "https://hermescenter.org/hermes-governo-emergenza-covid19-rispetto-privacy-diritti-umani/",
+  "slug": "hermes-governo-emergenza-covid19-rispetto-privacy-diritti-umani",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 4060
+ },
+ {
+  "date": "2020-03-27",
+  "title": "Lettera aperta: la società civile esorta gli Stati membri a rispettare i principi di legge nel regolamento online sui contenuti terroristici",
+  "url": "https://hermescenter.org/lettera-aperta-la-societa-civile-esorta-gli-stati-membri-a-rispettare-i-principi-di-legge-nel-regolamento-online-sui-contenuti-terroristici/",
+  "slug": "lettera-aperta-la-societa-civile-esorta-gli-stati-membri-a-rispettare-i-principi-di-legge-nel-regolamento-online-sui-contenuti-terroristici",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 891
+ },
+ {
+  "date": "2020-04-02",
+  "title": "Dichiarazione congiunta della società civile: Gli Stati che utilizzano le tecnologie di sorveglianza digitale per combattere la pandemia devono rispettare i diritti umani",
+  "url": "https://hermescenter.org/dichiarazione-societa-civile-sorveglianza-digitale-pandemia-diritti-umani/",
+  "slug": "dichiarazione-societa-civile-sorveglianza-digitale-pandemia-diritti-umani",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 2783
+ },
+ {
+  "date": "2020-06-18",
+  "title": "Supporting diverse initiatives in Europe through the use of secure whistleblowing platforms",
+  "url": "https://hermescenter.org/supporting-diverse-initiatives-in-europe-through-the-use-of-secure-whistleblowing-platforms/",
+  "slug": "supporting-diverse-initiatives-in-europe-through-the-use-of-secure-whistleblowing-platforms",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 7416
+ },
+ {
+  "date": "2020-06-22",
+  "title": "Digital Whistleblowing Fund: Call for applications (Round 3)",
+  "url": "https://hermescenter.org/digital-whistleblowing-fund-call-for-applications-round-3/",
+  "slug": "digital-whistleblowing-fund-call-for-applications-round-3",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 1433
+ },
+ {
+  "date": "2020-10-09",
+  "title": "ANAC e Hermes Center risolvono una controversia sull’applicazione della licenza AGPL al software OpenWhistleblowing",
+  "url": "https://hermescenter.org/anac-e-hermes-center-risolvono-una-controversia-sullapplicazione-della-licenza-agpl-al-software-openwhistleblowing/",
+  "slug": "anac-e-hermes-center-risolvono-una-controversia-sullapplicazione-della-licenza-agpl-al-software-openwhistleblowing",
+  "categories": "News; Press",
+  "themes": [
+   "anac",
+   "whistleblowing"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 2169
+ },
+ {
+  "date": "2020-11-11",
+  "title": "I programmi di aiuto dell’UE esportano la sorveglianza",
+  "url": "https://hermescenter.org/programmi-aiuto-eu-esportano-sorveglianza-privacy-international/",
+  "slug": "programmi-aiuto-eu-esportano-sorveglianza-privacy-international",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria",
+   "foia"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 2033
+ },
+ {
+  "date": "2020-11-12",
+  "title": "Siamo qui per riprenderci la faccia (e i nostri diritti!)",
+  "url": "https://hermescenter.org/lancio-campagna-reclaimyourface/",
+  "slug": "lancio-campagna-reclaimyourface",
+  "categories": "News; Press",
+  "themes": [
+   "voto-elettronico",
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 5264
+ },
+ {
+  "date": "2020-11-18",
+  "title": "Cos’è il riconoscimento facciale e perché ci interessa",
+  "url": "https://hermescenter.org/cose-il-riconoscimento-facciale-e-perche-ci-interessa/",
+  "slug": "cose-il-riconoscimento-facciale-e-perche-ci-interessa",
+  "categories": "News; Press",
+  "themes": [
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 3069
+ },
+ {
+  "date": "2020-11-26",
+  "title": "Pedinati in città",
+  "url": "https://hermescenter.org/pedinati-in-citta-reclaim-your-face/",
+  "slug": "pedinati-in-citta-reclaim-your-face",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 5189
+ },
+ {
+  "date": "2020-12-04",
+  "title": "“Hey Google! riconosci la mia voce?”",
+  "url": "https://hermescenter.org/hey-google-riconosci-la-mia-voce/",
+  "slug": "hey-google-riconosci-la-mia-voce",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 5147
+ },
+ {
+  "date": "2020-12-11",
+  "title": "Riconosco la tua voce ma tu non mi conosci - le vite degli altri",
+  "url": "https://hermescenter.org/riconosco-la-tua-voce-ma-tu-non-mi-conosci-le-vite-degli-altri/",
+  "slug": "riconosco-la-tua-voce-ma-tu-non-mi-conosci-le-vite-degli-altri",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 5400
+ },
+ {
+  "date": "2021-01-12",
+  "title": "La società civile chiede punti fermi nella proposta dell’Unione Europea sull’Intelligenza Artificiale",
+  "url": "https://hermescenter.org/la-societa-civile-chiede-punti-fermi-nella-proposta-dellunione-europea-sullintelligenza-artificiale/",
+  "slug": "la-societa-civile-chiede-punti-fermi-nella-proposta-dellunione-europea-sullintelligenza-artificiale",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 1934
+ },
+ {
+  "date": "2021-01-15",
+  "title": "Il Ministero dell’Interno vuole utilizzare il riconoscimento facciale su migranti e richiedenti asilo",
+  "url": "https://hermescenter.org/il-ministero-dellinterno-vuole-utilizzare-il-riconoscimento-facciale-su-migranti-e-richiedenti-asilo/",
+  "slug": "il-ministero-dellinterno-vuole-utilizzare-il-riconoscimento-facciale-su-migranti-e-richiedenti-asilo",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria",
+   "foia"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 4292
+ },
+ {
+  "date": "2021-01-28",
+  "title": "La soluzione “innovativa” di Torino: Argo",
+  "url": "https://hermescenter.org/la-soluzione-innovativa-di-torino-argo/",
+  "slug": "la-soluzione-innovativa-di-torino-argo",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria",
+   "foia"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 8860
+ },
+ {
+  "date": "2021-02-18",
+  "title": "Un futuro senza sorveglianza biometrica di massa: l’iniziativa europea Reclaim Your Face punta al milione di firme",
+  "url": "https://hermescenter.org/sorveglianza-biometrica-eci-milione/",
+  "slug": "sorveglianza-biometrica-eci-milione",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 5204
+ },
+ {
+  "date": "2021-03-25",
+  "title": "Insieme a 61 associazioni chiediamo al Parlamento europeo di proteggere la libertà di espressione",
+  "url": "https://hermescenter.org/61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione/",
+  "slug": "61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 2302
+ },
+ {
+  "date": "2021-03-30",
+  "title": "Aziende, scuole, aeroporti e piazze: il riconoscimento facciale è ovunque. E sorveglia i cittadini europei",
+  "url": "https://hermescenter.org/aziende-scuole-aeroporti-riconoscimento-facciale-ovunque-reclaim-your-face/",
+  "slug": "aziende-scuole-aeroporti-riconoscimento-facciale-ovunque-reclaim-your-face",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 8519
+ },
+ {
+  "date": "2021-04-19",
+  "title": "Primi importanti risultati a due mesi dal lancio di Riprenditi la Faccia",
+  "url": "https://hermescenter.org/primi-importanti-risultati-a-due-mesi-dal-lancio-di-riprenditi-la-faccia/",
+  "slug": "primi-importanti-risultati-a-due-mesi-dal-lancio-di-riprenditi-la-faccia",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 3960
+ },
+ {
+  "date": "2021-04-22",
+  "title": "La proposta di Regolamento sull’AI della Commissione Europea dimostra esattamente il motivo per cui chiediamo un divieto della sorveglianza biometrica di massa",
+  "url": "https://hermescenter.org/la-proposta-di-regolamento-sullai-della-commissione-europea-dimostra-esattamente-il-motivo-per-cui-chiediamo-un-divieto-della-sorveglianza-biometrica-di-massa/",
+  "slug": "la-proposta-di-regolamento-sullai-della-commissione-europea-dimostra-esattamente-il-motivo-per-cui-chiediamo-un-divieto-della-sorveglianza-biometrica-di-massa",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 4763
+ },
+ {
+  "date": "2021-05-27",
+  "title": "Il Centro Hermes e altre 3 associazioni hanno inviato segnalazioni e reclami contro Clearview AI",
+  "url": "https://hermescenter.org/centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai/",
+  "slug": "centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": true,
+  "appeal": true,
+  "chars": 5620
+ },
+ {
+  "date": "2021-06-17",
+  "title": "Vivere in una #PaperBagSociety",
+  "url": "https://hermescenter.org/vivere-in-una-paperbagsociety/",
+  "slug": "vivere-in-una-paperbagsociety",
+  "categories": "News; Press",
+  "themes": [
+   "voto-elettronico",
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 2950
+ },
+ {
+  "date": "2021-06-23",
+  "title": "ShareArt e rilevamento del volto dei visitatori nei musei: inviata segnalazione al Garante Privacy",
+  "url": "https://hermescenter.org/shareart-e-rilevamento-del-volto-dei-visitatori-nei-musei-inviata-segnalazione-al-garante-privacy/",
+  "slug": "shareart-e-rilevamento-del-volto-dei-visitatori-nei-musei-inviata-segnalazione-al-garante-privacy",
+  "categories": "News; Press",
+  "themes": [
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 2159
+ },
+ {
+  "date": "2021-08-27",
+  "title": "Chi, cosa, perché? La guida alla ECI #RiprenditiLaFaccia",
+  "url": "https://hermescenter.org/chi-cosa-perche-eci-riprenditilafaccia/",
+  "slug": "chi-cosa-perche-eci-riprenditilafaccia",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 11495
+ },
+ {
+  "date": "2021-09-09",
+  "title": "Lettera aperta al Parlamento EU sulla riforma di EURODAC: le nostre preoccupazioni",
+  "url": "https://hermescenter.org/lettera-aperta-al-parlamento-eu-sulla-riforma-di-eurodac-le-nostre-preoccupazioni/",
+  "slug": "lettera-aperta-al-parlamento-eu-sulla-riforma-di-eurodac-le-nostre-preoccupazioni",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 12963
+ },
+ {
+  "date": "2021-10-04",
+  "title": "Contro gli emendamenti del gruppo EPP in favore della sorveglianza di massa",
+  "url": "https://hermescenter.org/contro-gli-emendamenti-del-gruppo-epp-in-favore-della-sorveglianza-di-massa/",
+  "slug": "contro-gli-emendamenti-del-gruppo-epp-in-favore-della-sorveglianza-di-massa",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 5890
+ },
+ {
+  "date": "2021-11-06",
+  "title": "Monitor numero 0, ottobre 2021",
+  "url": "https://hermescenter.org/it/monitor-numero0/",
+  "slug": "monitor-numero0",
+  "categories": "/it/; Newsletter",
+  "themes": [
+   "software-libero",
+   "whistleblowing",
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 11498
+ },
+ {
+  "date": "2021-11-25",
+  "title": "Nuovo governo in Germania: il divieto di tecnologie biometriche è un impegno preciso",
+  "url": "https://hermescenter.org/nuovo-governo-germania-divieto-di-tecnologie-biometriche-impegno-coalizione/",
+  "slug": "nuovo-governo-germania-divieto-di-tecnologie-biometriche-impegno-coalizione",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 5470
+ },
+ {
+  "date": "2021-12-02",
+  "title": "La moratoria sul riconoscimento facciale approvata ieri in Italia ci ricorda perché dobbiamo chiedere un divieto",
+  "url": "https://hermescenter.org/italia-moratoria-riconoscimento-facciale-ban-divieto/",
+  "slug": "italia-moratoria-riconoscimento-facciale-ban-divieto",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 5402
+ },
+ {
+  "date": "2021-12-06",
+  "title": "Monitor numero 1, novembre 2021",
+  "url": "https://hermescenter.org/monitor-numero-1/",
+  "slug": "monitor-numero-1",
+  "categories": "News",
+  "themes": [
+   "software-libero",
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 15517
+ },
+ {
+  "date": "2022-02-07",
+  "title": "Monitor numero 2, gennaio 2022",
+  "url": "https://hermescenter.org/monitor-numero-2-gennaio-2022/",
+  "slug": "monitor-numero-2-gennaio-2022",
+  "categories": "News",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 7318
+ },
+ {
+  "date": "2022-03-10",
+  "title": "Clearview AI ha monitorato i cittadini italiani. Garante privacy: illegale",
+  "url": "https://hermescenter.org/clearview-ai-ha-monitorato-i-cittadini-italiani-garante-privacy-illegale/",
+  "slug": "clearview-ai-ha-monitorato-i-cittadini-italiani-garante-privacy-illegale",
+  "categories": "News",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 9968
+ },
+ {
+  "date": "2022-03-11",
+  "title": "Monitor numero 3, febbraio 2022",
+  "url": "https://hermescenter.org/monitor-numero-3-febbraio-2022/",
+  "slug": "monitor-numero-3-febbraio-2022",
+  "categories": "News",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 11103
+ },
+ {
+  "date": "2022-06-07",
+  "title": "La Guida comoda per situazioni scomode creata con Strali ti protegge quando vai alle manifestazioni",
+  "url": "https://hermescenter.org/it/la-guida-comoda-per-situazioni-scomode-creata-con-strali-ti-protegge-quando-vai-alle-manifestazioni/",
+  "slug": "la-guida-comoda-per-situazioni-scomode-creata-con-strali-ti-protegge-quando-vai-alle-manifestazioni",
+  "categories": "/it/; Uncategorized",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 1155
+ },
+ {
+  "date": "2022-06-15",
+  "title": "Makhno: un progetto per indagare la censura sui social media",
+  "url": "https://hermescenter.org/it/makhno-un-progetto-per-indagare-la-censura-sui-social-media/",
+  "slug": "makhno-un-progetto-per-indagare-la-censura-sui-social-media",
+  "categories": "/it/; Uncategorized",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 6271
+ },
+ {
+  "date": "2023-01-30",
+  "title": "Digitalizzazione escludente",
+  "url": "https://hermescenter.org/it/digitalizzazione-escludente/",
+  "slug": "digitalizzazione-escludente",
+  "categories": "/it/; Newsletter; Uncategorized",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 10623928
+ },
+ {
+  "date": "2023-06-08",
+  "title": "AI Act: non accetteremo nessun passo indietro sul divieto al riconoscimento biometrico negli spazi pubblici.",
+  "url": "https://hermescenter.org/ai-act-non-accetteremo-nessun-passo-indietro-sul-divieto-al-riconoscimento-biometrico-negli-spazi-pubblici/",
+  "slug": "ai-act-non-accetteremo-nessun-passo-indietro-sul-divieto-al-riconoscimento-biometrico-negli-spazi-pubblici",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 3847
+ },
+ {
+  "date": "2023-06-14",
+  "title": "Approvato il regolamento sull’intelligenza artificiale al Parlamento Europeo. Bene il divieto di riconoscimento biometrico, ma andrebbe esteso anche ai migranti.",
+  "url": "https://hermescenter.org/ai-act-voto-14-giugno-comunicato/",
+  "slug": "ai-act-voto-14-giugno-comunicato",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 4429
+ },
+ {
+  "date": "2023-06-23",
+  "title": "Riconoscimento facciale: il divieto nei luoghi pubblici durerà fino al 2025. Preoccupano le eccezioni",
+  "url": "https://hermescenter.org/riconoscimento-facciale-il-divieto-nei-luoghi-pubblici-durera-fino-al-2025-preoccupano-le-eccezioni/",
+  "slug": "riconoscimento-facciale-il-divieto-nei-luoghi-pubblici-durera-fino-al-2025-preoccupano-le-eccezioni",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 2920
+ },
+ {
+  "date": "2023-07-13",
+  "title": "Triloghi UE: l’AI Act deve garantire il rispetto dei diritti del cittadino",
+  "url": "https://hermescenter.org/triloghi-ue-lai-act-deve-garantire-il-rispetto-dei-diritti-del-cittadino/",
+  "slug": "triloghi-ue-lai-act-deve-garantire-il-rispetto-dei-diritti-del-cittadino",
+  "categories": "News; Press",
+  "themes": [
+   "sorveglianza",
+   "biometria"
+  ],
+  "named": false,
+  "appeal": false,
+  "chars": 8572
+ },
+ {
+  "date": "2023-10-12",
+  "title": "Glovo traccia i rider anche fuori dall’orario di lavoro",
+  "url": "https://hermescenter.org/it/glovo-traccia-i-rider-anche-fuori-dallorario-di-lavoro/",
+  "slug": "glovo-traccia-i-rider-anche-fuori-dallorario-di-lavoro",
+  "categories": "/it/; Uncategorized",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 1038
+ },
+ {
+  "date": "2023-11-23",
+  "title": "L’AI Act è a rischio, e la colpa è anche del governo italiano",
+  "url": "https://hermescenter.org/lai-act-e-a-rischio-e-la-colpa-e-anche-del-governo-italiano/",
+  "slug": "lai-act-e-a-rischio-e-la-colpa-e-anche-del-governo-italiano",
+  "categories": "News",
+  "themes": [
+   "software-libero"
+  ],
+  "named": false,
+  "appeal": true,
+  "chars": 2123
+ },
+ {
+  "date": "2024-03-22",
+  "title": "Autorità nazionale per l’intelligenza artificiale: le nostre proposte",
+  "url": "https://hermescenter.org/it/autorita-nazionale-per-lintelligenza-artificiale-le-nostre-proposte/",
+  "slug": "autorita-nazionale-per-lintelligenza-artificiale-le-nostre-proposte",
+  "categories": "Press; /it/; Uncategorized",
+  "themes": [],
+  "named": false,
+  "appeal": false,
+  "chars": 3904
+ },
+ {
+  "date": "2024-03-28",
+  "title": "Intelligenza Artificiale: lettera aperta alle istituzioni per una governance indipendente e inclusiva",
+  "url": "https://hermescenter.org/intelligenza-artificiale-lettera-aperta-alle-istituzioni-per-una-governance-indipendente-e-inclusiva/",
+  "slug": "intelligenza-artificiale-lettera-aperta-alle-istituzioni-per-una-governance-indipendente-e-inclusiva",
+  "categories": "News; Press",
+  "themes": [],
+  "named": false,
+  "appeal": true,
+  "chars": 1451
+ }
+]
