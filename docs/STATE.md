@@ -52,8 +52,20 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare: **192 file, 49,1 GB**. Caricati finora: vedi `data/drive_links.json` (si aggiorna da solo).
-- Spazio su Drive: 75 GB totali, ~65 GB liberi al 2026-10-21.
+- Da caricare in tutto: **196 file, 49,8 GB**. Su Drive al 2026-10-22: **9 file** (`data/drive_links.json`);
+  mancano **188 file**.
+- Notte 2026-10-22 (01:07–06:00): caricati 8 file, ~0,5 GB. Velocità media ~50–80 KiB/s, con stalli a 0 B/s
+  (01:37–02:37 ferma un'ora, poi ripartita): a questo ritmo servono settimane. Upload interrotto alle 06:00,
+  link registrati con `--links-only`.
+- Spazio su Drive: 75 GB totali, **65,4 GB liberi** al 2026-10-22.
+
+### Problemi aperti dell'upload
+- **Banda in upload bassissima** dal computer (~60 KiB/s; la rete risponde, ping 19 ms): verificare la linea
+  oppure spostare l'upload sul server (51.158.36.151) copiando lì la libreria e la configurazione di rclone.
+- rclone usa il client_id condiviso di Google Drive, che verrà ritirato nel 2026: creare un client_id proprio
+  (https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote `gdrive:`.
+- `drive_sync.py` lanciato in background è uscito con codice 1 senza output mentre rclone continuava
+  (processo rimasto orfano): da indagare, per ora si chiude rclone a mano e si usa `--links-only`.
 
 ## Cose aperte
 - Spostamento delle copie fino a 10 MB nel repo pubblico (da 254 MB a ~700 MB): lo fa il lavoro notturno.
