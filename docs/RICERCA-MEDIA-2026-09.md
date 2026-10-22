@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1564**; dopo deduplica: **1136**
+- Risultati grezzi dalle ricerche: **1566**; dopo deduplica: **1138**
 - Già presenti sul vecchio sito: **52** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1084**
-- Verificati aprendo la pagina: **1069**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1086**
+- Verificati aprendo la pagina: **1071**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 226, tweet 132, Talk 89, Video 76, Post sul blog infosecurity.ch 72, Citato 52, article 42, Progetto 33, Altro 32, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 228, tweet 132, Talk 89, Video 76, Post sul blog infosecurity.ch 72, Citato 52, article 42, Progetto 33, Altro 32, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -35,7 +35,7 @@ Per tipo (nuovi): Menzionato 226, tweet 132, Talk 89, Video 76, Post sul blog in
 | 2014 | 0 | 29 | 29 |
 | 2015 | 0 | 45 | 45 |
 | 2016 | 0 | 29 | 29 |
-| 2017 | 0 | 78 | 78 |
+| 2017 | 0 | 79 | 79 |
 | 2018 | 0 | 72 | 72 |
 | 2019 | 0 | 68 | 68 |
 | 2020 | 0 | 176 | 176 |
@@ -1195,7 +1195,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 78 voci, 78 nuove
+## 2017 — 79 voci, 79 nuove
 
 - 🆕 **2017-12-14** · Ricerca · GitHub avast/retdec — [retdec #29 «Fix Avast File Download Vulnerability»](https://github.com/avast/retdec/issues/29)  
   Opened by fpietrosanti: Avast installer served over HTTP; cites his July-2017 tweet twitter.com/fpietrosanti/status/881888886678581249
@@ -1211,6 +1211,8 @@ Anni senza nessun risultato: nessuno
   Testimonial quote by Fabio: Business Follows' support was key in choosing the licensing model of GlobaLeaks and in finding resources for its development. datePublished 2017-11-17 from page JSON-LD.
 - 🆕 **2017-11-15** · Report · Hermes Center for Transparency and Digital Human Rights (Progetto Winston Smith / Cassandra), Italy — [Guida Hermes al voto digitale](https://archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale)  
   Marco A.L. Calamari. Colophon 'Si ringrazia: Fabio “naif” Pietrosanti (Hermes Center), ...'. Confirmed via Internet Archive full-text snippet.
+- 🆕 **2017-11-09** · Menzionato · cild.eu — [Dati su telefonate e siti web conservati per 6 anni: e i nostri diritti? - cild.eu](https://cild.eu/blog/2017/11/09/dati-su-telefonate-e-siti-web-conservati-per-6-anni-e-nostri-diritti/)  
+  verified via wayback; context: …anno essere ricattati da chiunque possa accedere (lecitamente o meno) a queste sconfinate basi dati contenenti l’intera vita digitale di un individuo” aggiunge Fabio Pietrosanti, presidente di Hermes Center for Transpare…
 - 🆕 **2017-11-09** · Talk · Hermes Center for Transparency and Digital Human Rights — [Il centro Hermes ha partecipato al Linux Day 2017 a Pavia](https://hermescenter.org/il-centro-hermes-ha-partecipato-al-linux-day-2017-pavia/)  
   Intervento al Linux Day 2017 di Pavia su GlobaLeaks come software libero per la PA. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.
 - 🆕 **2017-11** · Tesi · Tampere University of Technology (MSc thesis, Master's Degree Programme in Information Technology) — [TorSNIP: Hidden Service Proxy with End-to-End Security (Kiyani)](https://trepo.tuni.fi/handle/123456789/25394)  
@@ -2345,6 +2347,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · tipiloschi.net — [Digital Investigation 2012 - UniPV - Seminario sull'acquisizione forense delle digital evidence | TipiLoschi.net](https://www.tipiloschi.net/drupal/Digital-Investigation-2012-UniPV-acquisizione-forense-digital-evidence)
 - 🆕 Menzionato · pr-foundation.org — [La ministra Pisano al Cenacolo degli Innovatori - P&R Foundation](https://www.pr-foundation.org/la-ministra-pisano-al-cenacolo-degli-innovatori/)
 - 🆕 Menzionato · gruppotim.it — [Responsible Disclosure |  Gruppo TIM](https://www.gruppotim.it/it/footer/responsible-disclosure.html)
+- 🆕 Menzionato · debugliesintel.com — [Mercato globale dello spyware 2025: impennata degli investimenti negli Stati Uniti e broker che alimentano i rischi di proliferazione - debugliesintel](https://www.debugliesintel.com/mercato-globale-dello-spyware-2025-impennata-degli-investimenti-negli-stati-uniti-e-broker-che-alimentano-i-rischi-di-proliferazione/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

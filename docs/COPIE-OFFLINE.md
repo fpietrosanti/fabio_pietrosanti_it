@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1136**; già processate: **1310**; ancora da processare: **0**
-- Licenza delle copie ottenute: **249** materiale proprio (ripubblicabile), **953** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1069**
+- Voci in `data/media.json`: **1138**; già processate: **1312**; ancora da processare: **0**
+- Licenza delle copie ottenute: **249** materiale proprio (ripubblicabile), **955** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1071**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **18**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -21,7 +21,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 63 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 64 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -42,7 +42,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 38 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 22 | 8 | 1 | 0 | 0 | 0 | 0 |
-| 2017 | 75 | 5 | 3 | 0 | 0 | 0 | 0 |
+| 2017 | 76 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 57 | 16 | 4 | 0 | 0 | 0 | 0 |
 | 2019 | 83 | 3 | 3 | 0 | 0 | 0 | 2 |
 | 2020 | 164 | 9 | 5 | 0 | 0 | 0 | 0 |
@@ -373,6 +373,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · centroriformastato.it — [Scopi e iniziative della Scuola critica del digitale - CRS - Centro per la Riforma dello S](https://www.centroriformastato.it/scopi-e-iniziative-della-scuola-critica-del-digitale-2/) · copia: `undated/dc739e70f6f2` (Web Archive 20210413) · licenza: terzi
 - **None** · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202022%20l'accoglienza%208.htm) · copia: `undated/83431bfba693` (Web Archive 20230129) · licenza: terzi
 - **None** · dalchecco.it — [Informatica Forense e Sfida Cybercop all'IISFA Forum 2017](https://www.dalchecco.it/informatica-forense-conferenza-iisfa-forum-2017/) · copia: `undated/071b90612834` (live) · licenza: terzi
+- **None** · debugliesintel.com — [Mercato globale dello spyware 2025: impennata degli investimenti negli Stati Uniti e broke](https://www.debugliesintel.com/mercato-globale-dello-spyware-2025-impennata-degli-investimenti-negli-stati-uniti-e-broker-che-alimentano-i-rischi-di-proliferazione/) · copia: `undated/437c69318415` (Web Archive 20251018) · licenza: terzi
 - **None** · dimt.it — [Whistleblowing e Pa, quali garanzie per i segnalanti? Coccagna (Anac): "Uno speciale proto](https://www.dimt.it/news/8whistleblowing-e-pa-quali-garanzie-per-i-segnalanti-coccagna-anac-uno-speciale-protocollo-tutela-chi-invia-le-email-presto-possibilita-per-tutti-i-cittadini/) · copia: `undated/7eb3c6d5c40d` (Web Archive 20210116) · licenza: terzi
 - **None** · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b) · copia: `undated/3bcce2091e75` (Web Archive 20201101) · licenza: terzi
 - **None** · facebook.com — [Reazioni: 18 | Dentro Anonymous. Come operano i guerrieri della rete impegnati a difesa de](https://www.facebook.com/Etabetaradio1/videos/dentro-anonymous-come-operano-i-guerrieri-della-rete-impegnati-a-difesa-dellucra/1078010332773465/) · copia: `undated/c1776fdb104b` (live) · licenza: terzi
@@ -873,6 +874,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · Boing Boing — [Italy unveils a legal proposal to regulate government hacking](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html) · copia: `2017/d316cfd30704` (Web Archive 20170215) · licenza: terzi
 - **2017** · Mozilla Bugzilla — [Bug 1303739 «Warn when downloading executable files over HTTP» (comments by naif)](https://bugzilla.mozilla.org/show_bug.cgi?id=1303739) · copia: `2017/de839b12ee0a` (Web Archive 20190612) · licenza: propria
 - **2017** · Business Follows srl (Roma) — Testimonia — [Fabio Pietrosanti (Naif) – Founder, President Hermes Center for Trasparency and Digital Hu](https://businessfollows.com/testimonials/fabio-pietrosanti-naif-founder-president-hermes-center-trasparency-digital-human-rights/) · copia: `2017/4e89c9dd27d9` (Web Archive 20201022) · licenza: terzi
+- **2017** · cild.eu — [Dati su telefonate e siti web conservati per 6 anni: e i nostri diritti? - cild.eu](https://cild.eu/blog/2017/11/09/dati-su-telefonate-e-siti-web-conservati-per-6-anni-e-nostri-diritti/) · copia: `2017/ca78d0a0d64b` (Web Archive 20190821) · licenza: terzi
 - **2017** · cild.eu — [Surveillance: Hermes wants review of the FOIA request to Italian Ministry - cild.eu | en](https://cild.eu/en/2017/05/30/surveillance-hermes-asks-for-a-review-of-the-foia-request-sent-to-mise/) · copia: `2017/ac6525573dfc` (Web Archive 20170614) · licenza: terzi
 - **2017** · CILD - Coalizione Italiana Libertà e Dir — [Lettera CILD-Hermes al MISE sull'export di tecnologie di sorveglianza (23/01/2017)](https://cild.eu/wp-content/uploads/2017/01/ITA-LetteraMISE-2017.01.23PI_CILD_HERMES.odt-1.pdf) · copia: `2017/e85013b8ffe2` (Web Archive 20200211) · licenza: terzi
 - **2017** · Citizen Lab, Munk School of Global Affai — [Who's Watching Little Brother? A Checklist for Accountability in the Industry Behind Gover](https://citizenlab.ca/wp-content/uploads/2017/03/citizenlab_whos-watching-little-brother.pdf) · copia: `2017/8c507215d23b` (Web Archive 20180228) · licenza: terzi
