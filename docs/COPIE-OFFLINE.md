@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1119**; già processate: **1293**; ancora da processare: **0**
-- Licenza delle copie ottenute: **235** materiale proprio (ripubblicabile), **950** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1066**
+- Voci in `data/media.json`: **1120**; già processate: **1294**; ancora da processare: **0**
+- Licenza delle copie ottenute: **235** materiale proprio (ripubblicabile), **951** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1067**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **4**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -21,7 +21,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 62 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 63 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -356,6 +356,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · festivaldelgiornalismo.com — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2018/firewalls) · copia: `undated/edad77b59ceb` (live) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [Tecniche di dissidenza e repressione digitale](https://www.festivaldelgiornalismo.com/tecniche-di-dissidenza-e-repressione-digitale-2/) · copia: `undated/663ab2708519` (Web Archive 20240725) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/whistleblowing-anonimo-come-ricevere-soffiate-da-fonti-anonime-via-web/) · copia: `undated/85d6779aed13` (Web Archive 20240713) · licenza: terzi
+- **None** · gruppotim.it — [Responsible Disclosure |  Gruppo TIM](https://www.gruppotim.it/it/footer/responsible-disclosure.html) · copia: `undated/26ef630bc039` (Web Archive 20200812) · licenza: terzi
 - **None** · ilsussidiario.net — [Open Rousseau: hacker vs Casaleggio/ Contro-piattaforma per sostituire software M5s](https://www.ilsussidiario.net/news/open-rousseau-hacker-vs-casaleggio-contro-piattaforma-per-sostituire-software-m5s/2076827/) · copia: `undated/7ac3c3c830f2` (Web Archive 20201029) · licenza: terzi
 - **None** · infonodes.org — [info.nodes: Fabio Pietrosanti socio fondatore e tesoriere](https://www.infonodes.org/) · copia: `undated/6832dd803efb` (live) · licenza: terzi
 - **None** · journalismfestival.com — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/0/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `undated/090766fb9138` (live) · licenza: terzi

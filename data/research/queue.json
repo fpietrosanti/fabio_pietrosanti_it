@@ -1707,51 +1707,115 @@
   },
   {
    "query": "\"Pietrosanti\" \"Digital Investigation\" OR \"Università di Pavia\" seminario 2012 OR 2013",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)",
+   "done": "2026-10-22",
+   "found": 3
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Cenacolo degli Innovatori\" OR \"P&R Foundation\" OR \"Fondazione P&R\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)",
+   "done": "2026-10-22",
+   "found": 10
   },
   {
    "query": "\"naif\" Pietrosanti Smau seminario 2003 OR 2005 OR 2006",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)",
+   "done": "2026-10-22",
+   "found": 0
   },
   {
    "query": "\"Pietrosanti\" \"Infosecurity Italia\" OR \"Infosecurity\" Milano 2005 OR 2006 relatore",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)",
+   "done": "2026-10-22",
+   "found": 1
   },
   {
    "query": "\"naif\" Pietrosanti 1999 OR 2000 \"Metro Olografix\" OR \"MOCA\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)",
+   "done": "2026-10-22",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" anonimato OR whistleblowing seminario università 2013 OR 2014",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)",
+   "done": "2026-10-22",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2023 OR 2024 privacy OR cybersecurity dichiarazione OR commento",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)",
+   "done": "2026-10-22",
+   "found": 10
   },
   {
    "query": "\"Pietrosanti\" \"esperto di sicurezza\" 2024 OR 2025",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)",
+   "done": "2026-10-22",
+   "found": 8
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"hall of fame\" OR \"responsible disclosure\" OR ringraziamenti vulnerabilità",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (sera): coda esaurita; anni deboli (1998-99, 2003, 2005-06, 2023-25) e seguiti delle nuove voci (UniPV 2012, P&R Foundation)"
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+  },
+  {
+   "query": "\"naif\" Pietrosanti 1998 OR 1999 hacker intervista OR articolo",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Linux Day\" OR \"LinuxDay\" 2001 OR 2002 OR 2003 OR 2004",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2007 VoIP OR \"Skype\" intercettazioni sicurezza",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Hermes\" 2025 intervista OR ospite OR podcast",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Monitora PA 2024 OR 2025 Google Analytics OR cookie",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+  },
+  {
+   "query": "\"Pietrosanti\" \"Centro Hermes\" 2023 OR 2024 audizione OR consultazione",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" crittografia OR cifratura convegno 2006 OR 2007",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-22 (mattina): coda esaurita; anni deboli (1998-99, 2001-03, 2005-07, 2023-25) e filoni nuovi (hall of fame/disclosure)"
   }
  ],
  "history": [
@@ -2431,6 +2495,14 @@
    "captcha": false,
    "confirmed_new": 4,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (2000-02, DRM editoriale, Wired telefonia, IISFA, Scuola critica del digitale CRS, 2026 biohacking, GlobaLeaks 2026, s0ftpj/BFi) eseguite senza robot check: 70 risultati, 45 URL distinti utili, ~30 già in archivio. 14 candidati verificati: 10 OK, 4 respinti dallo script (camerapenalemilano PDF IISFA 2017, 2 pagine pr-foundation, s0ftpj webbit04_wifi.pdf: nome assente). NUOVE (4): infoaut 'Caro abbonato…' (ripresa della citazione Wired, esperto di telefonia), dalchecco.it IISFA Forum 2017 (relatore), tipiloschi Digital Investigation 2012 UniPV (seminario 14.11.2012 'Anonimato, privacy e whistleblowing'), P&R Foundation 'La ministra Pisano al Cenacolo degli Innovatori' (panelist). ESCLUSE a mano (6, in decisions.json): 2 pagine indice Scuola critica CRS, manualetto CRS (doppione URL /iniziativa/), kitploit CVE-2000-0887 (mirror), dig-awards /it/ e globaleaks /it/about/people/ (versioni linguistiche di voci già presenti). YouTube 'Intercettazioni e comunicazioni confidenziali' e Codice 27/06/2025 già in archivio. ResearchGate TI Italia non scaricabile (come prima). Copie offline: merge+archive_copies eseguiti. Coda di nuovo esaurita: aggiunte 8 query."
+  },
+  {
+   "date": "2026-10-22 08:40",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 1,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (UniPV 2012, P&R Foundation/Cenacolo, Smau 2003-06, Infosecurity 2005-06, Olografix/MOCA 1999-2000, seminari anonimato 2013-14, commenti 2023-24, 'esperto di sicurezza' 2024-25) eseguite senza robot check: 51 risultati (Smau: 0), quasi tutti già in archivio (tipiloschi, Clusit 2012, e-privacy XVII/XXIII/XXX, slideshare, personaldemocracy, poul, ITASEC 2020, Radio Radicale Singolarità, Nexa 73°, agendadigitale, ANORC Immuni, easyteam, monitora-pa, Codice Beta, Eta Beta, dicorinto, osservatoriorepressione). 5 candidati verificati: 1 OK. NUOVA (1): Gruppo TIM Responsible Disclosure, hall of fame (Fabio Pietrosanti, twitter.com/fpietrosanti — Security Misconfiguration). ESCLUSE a mano (5, in decisions.json): 3 pagine pr-foundation (nome solo nel riquadro laterale), scheda corso UniPV Gabrini (non lo nomina), pagina speaker IJF Ziccardi (le sessioni IJF12 sull'anonimato e sulle intercettazioni non lo elencano). Scartati: hyperkitty nexa/nexa-announce (mailing list), indici dalchecco/tipiloschi, CV di terzi, OPAC, pagine arte (MOCA museo/'naif' pittura), ebin Profiling Hackers (già noto), LinkedIn, Radio Radicale War Room (Valentina Pietrosanti, omonima). Copie offline: 1 ottenuta (wayback). Coda di nuovo esaurita: aggiunte 8 query."
   }
  ]
 }

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1532**; dopo deduplica: **1119**
+- Risultati grezzi dalle ricerche: **1533**; dopo deduplica: **1120**
 - Già presenti sul vecchio sito: **52** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1067**
-- Verificati aprendo la pagina: **1052**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1068**
+- Verificati aprendo la pagina: **1053**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 224, tweet 132, Talk 87, Video 76, Post sul blog infosecurity.ch 72, Citato 51, article 42, Progetto 33, Altro 32, Ricerca 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Comunicato 15, Paper 12, Intervista 9, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 225, tweet 132, Talk 87, Video 76, Post sul blog infosecurity.ch 72, Citato 51, article 42, Progetto 33, Altro 32, Ricerca 31, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Comunicato 15, Paper 12, Intervista 9, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -2312,6 +2312,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · dalchecco.it — [Informatica Forense e Sfida Cybercop all'IISFA Forum 2017](https://www.dalchecco.it/informatica-forense-conferenza-iisfa-forum-2017/)
 - 🆕 Menzionato · tipiloschi.net — [Digital Investigation 2012 - UniPV - Seminario sull'acquisizione forense delle digital evidence | TipiLoschi.net](https://www.tipiloschi.net/drupal/Digital-Investigation-2012-UniPV-acquisizione-forense-digital-evidence)
 - 🆕 Menzionato · pr-foundation.org — [La ministra Pisano al Cenacolo degli Innovatori - P&R Foundation](https://www.pr-foundation.org/la-ministra-pisano-al-cenacolo-degli-innovatori/)
+- 🆕 Menzionato · gruppotim.it — [Responsible Disclosure |  Gruppo TIM](https://www.gruppotim.it/it/footer/responsible-disclosure.html)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)
