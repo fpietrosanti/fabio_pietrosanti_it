@@ -1,6 +1,6 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-22 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-23 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali

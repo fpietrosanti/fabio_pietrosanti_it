@@ -1963,51 +1963,53 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" Snowden OR Datagate OR PRISM 2013 OR 2014",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
    "note": "aggiunta 2026-10-22 (notte): coda esaurita; filoni non ancora cercati (Snowden/Datagate 2013, Assange, WhatsApp, Cellebrite/forense, GDPR 2018, Piracy Shield/AGCOM, IA/deepfake, phishing/password)"
   },
   {
    "query": "\"Pietrosanti\" Assange OR WikiLeaks estradizione 2019 OR 2020 OR 2024",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
    "note": "aggiunta 2026-10-22 (notte): coda esaurita; filoni non ancora cercati (Snowden/Datagate 2013, Assange, WhatsApp, Cellebrite/forense, GDPR 2018, Piracy Shield/AGCOM, IA/deepfake, phishing/password)"
   },
   {
    "query": "\"Fabio Pietrosanti\" WhatsApp OR Signal OR Telegram crittografia end-to-end",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
    "note": "aggiunta 2026-10-22 (notte): coda esaurita; filoni non ancora cercati (Snowden/Datagate 2013, Assange, WhatsApp, Cellebrite/forense, GDPR 2018, Piracy Shield/AGCOM, IA/deepfake, phishing/password)"
   },
   {
    "query": "\"Pietrosanti\" Cellebrite OR \"informatica forense\" OR \"copia forense\"",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
    "note": "aggiunta 2026-10-22 (notte): coda esaurita; filoni non ancora cercati (Snowden/Datagate 2013, Assange, WhatsApp, Cellebrite/forense, GDPR 2018, Piracy Shield/AGCOM, IA/deepfake, phishing/password)"
   },
   {
    "query": "\"Fabio Pietrosanti\" GDPR OR \"data breach\" 2018 OR 2019",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
    "note": "aggiunta 2026-10-22 (notte): coda esaurita; filoni non ancora cercati (Snowden/Datagate 2013, Assange, WhatsApp, Cellebrite/forense, GDPR 2018, Piracy Shield/AGCOM, IA/deepfake, phishing/password)"
   },
   {
    "query": "\"Pietrosanti\" \"Piracy Shield\" OR AGCOM blocco siti",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
    "note": "aggiunta 2026-10-22 (notte): coda esaurita; filoni non ancora cercati (Snowden/Datagate 2013, Assange, WhatsApp, Cellebrite/forense, GDPR 2018, Piracy Shield/AGCOM, IA/deepfake, phishing/password)"
   },
   {
    "query": "\"Fabio Pietrosanti\" \"intelligenza artificiale\" OR deepfake OR ChatGPT",
-   "status": "pending",
+   "status": "retry",
    "pages": 1,
    "note": "aggiunta 2026-10-22 (notte): coda esaurita; filoni non ancora cercati (Snowden/Datagate 2013, Assange, WhatsApp, Cellebrite/forense, GDPR 2018, Piracy Shield/AGCOM, IA/deepfake, phishing/password)"
   },
   {
    "query": "\"Fabio Pietrosanti\" phishing OR password OR \"furto di identità\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-22 (notte): coda esaurita; filoni non ancora cercati (Snowden/Datagate 2013, Assange, WhatsApp, Cellebrite/forense, GDPR 2018, Piracy Shield/AGCOM, IA/deepfake, phishing/password)"
+   "note": "aggiunta 2026-10-22 (notte): coda esaurita; filoni non ancora cercati (Snowden/Datagate 2013, Assange, WhatsApp, Cellebrite/forense, GDPR 2018, Piracy Shield/AGCOM, IA/deepfake, phishing/password)",
+   "date": "2026-10-23",
+   "found": 10
   }
  ],
  "history": [
@@ -2719,6 +2721,14 @@
    "captcha": false,
    "confirmed_new": 2,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (chat control/CSAM, cyberwar Ucraina 2022, Pegasus/NSO, ransomware, SPID/CIE, data retention, Exodus 2019, GSM/IMSI catcher) eseguite senza robot check: 73 risultati, 57 URL distinti, 40 fuori dagli scarti ovvi, 29 già in archivio o già decisi (Eta Beta/Anonymous FB, startmag e cybersecurity360 Kaspersky, today.it cyberguerra, therecord/TNW/IRPA spyware, studi PEGA europarl, agendadigitale Exodus e pagina autore, pandorarivista trojan di Stato, wired 2017 cybersorveglianza, edri data retention, zeusnews data retention 6 anni, e-privacy 2005, RomHack, attivissimo, partecipa.gov.it, tesi UniSI, leorugens Hacking Team). 10 candidati verificati: 2 OK. NUOVE (2): CILD 09/11/2017 'Dati su telefonate e siti web conservati per 6 anni: e i nostri diritti?' (citazione di Fabio come presidente Hermes Center); debugliesintel.com 'Mercato globale dello spyware 2025' (riprende The Record, cita Fabio sulla scarsa regolamentazione in Italia). Respinti dallo script (nome assente): Radio Radicale 648246 (NPSG), 773228 (verifica età porno) e 524665 (data retention, intervista), today.it Yandex, cmimagazine Forum Banca, soluzionilavoro bibliografia privacy, zeltser PDF perimetro, calameo. Scartati senza verifica: indici/tag (dicorinto, ilriformista tag Kaspersky, agendadigitale tag, pr-foundation home), LinkedIn/Reddit/x.com/substack di terzi, liste (nexa hyperkitty, inventati, sikurezza mail-archive, seclists), poliziadistato gara distributori, scispace/issuu/slideshare LoRa (omonimi). Copie offline: 2 ottenute (wayback). Coda di nuovo esaurita: aggiunte 8 query."
+  },
+  {
+   "date": "2026-10-23 00:33",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": true,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Le 8 query pending (Snowden/Datagate, Assange, WhatsApp/Signal, Cellebrite/forense, GDPR, Piracy Shield, IA/deepfake, phishing/password) sono state lanciate senza robot check (~74 risultati), ma i risultati salvati in localStorage di google.com sono andati persi (storage vuoto a fine giro). Rilanciata la prima query per recuperarli: Google ha mostrato /sorry (robot check), stop immediato senza aggirarlo. Recuperati solo i 10 risultati di 'phishing/password' (ultima pagina aperta): 9 già in archivio (repubblica 2017 trojan e 2018 Facebook, euronews 2018 Grillo, Radio Radicale 543790, gruppotim disclosure, dicorinto, lastampa 2018 Casaleggio, puntosicuro WLAN, messaggeroveneto) + 1 LinkedIn scartato. Query 'phishing' = done; le altre 7 rimesse in 'retry'. Lezione: estrarre e restituire gli URL subito dopo ogni ricerca, non affidarsi al localStorage di Google."
   }
  ]
 }
