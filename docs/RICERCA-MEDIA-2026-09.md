@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1603**; dopo deduplica: **1166**
+- Risultati grezzi dalle ricerche: **1605**; dopo deduplica: **1168**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1111**
-- Verificati aprendo la pagina: **1099**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1113**
+- Verificati aprendo la pagina: **1101**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 239, tweet 132, Talk 91, Video 77, Post sul blog infosecurity.ch 72, Citato 53, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, pagina 7, audio 7, Capitolo di libro 6, Brevetto 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 239, tweet 132, Talk 92, Video 77, Post sul blog infosecurity.ch 72, Citato 54, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, pagina 7, audio 7, Capitolo di libro 6, Brevetto 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -34,9 +34,9 @@ Per tipo (nuovi): Menzionato 239, tweet 132, Talk 91, Video 77, Post sul blog in
 | 2013 | 0 | 33 | 33 |
 | 2014 | 0 | 29 | 29 |
 | 2015 | 0 | 45 | 45 |
-| 2016 | 0 | 29 | 29 |
+| 2016 | 0 | 30 | 30 |
 | 2017 | 0 | 80 | 80 |
-| 2018 | 0 | 74 | 74 |
+| 2018 | 0 | 75 | 75 |
 | 2019 | 0 | 68 | 68 |
 | 2020 | 0 | 177 | 177 |
 | 2021 | 0 | 90 | 90 |
@@ -1052,7 +1052,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Menzionato · whistleblowing.fund — [Digital Whistleblowing Fund — Jury (Round 3)](https://whistleblowing.fund/jury/)  
   verificato 2026-10-14: Fabio Pietrosanti (GlobaLeaks) nella giuria del Round 3 del Digital Whistleblowing Fund (anno stimato ~2019; bandi 2017-2020)
 
-## 2018 — 74 voci, 74 nuove
+## 2018 — 75 voci, 75 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -1076,6 +1076,8 @@ Anni senza nessun risultato: nessuno
   Lancio di WhistleblowingPA (Transparency International Italia + Centro Hermes), 01/10/2018. Citazione di Fabio Pietrosanti, presidente del Centro Hermes, su GlobaLeaks usato da Autorità Anticorruzione della Catalogna, Il Sole 24 Ore, CPI. verified via wayback; context: …e segnalazioni, come l’Autorità Anticorruzione della Catalogna, Il Sole24ore, la Corte Penale Internazionale dell’Aia oltre a centinaia di PA locali – risponde Fabio Pietrosanti , presidente del Centro Hermes – il vantag…
 - 🆕 **2018-10-01** · article · Corriere della Sera (Buone Notizie) — [Ecco l'arma segreta contro i corrotti della Pubblica amministrazione](https://www.corriere.it/buone-notizie/18_ottobre_01/ecco-l-arma-segreta-contro-corrotti-pubblica-amministrazione-ca341b36-c582-11e8-994e-6382a2ca0409.shtml)  
   Lancio di WhistleblowingPA, 01/10/2018. Verificato a mano 2026-10-13 sulla pagina live (il verificatore non trovava il nome per la codifica ISO-8859-1): «…a meno che il whistleblower stesso non decida di rivelarlo” ha dichiarato Fabio Pietrosanti, Presidente del Centro Hermes».
+- 🆕 **2018-10-01** · Citato · iacchite.blog — [Whistleblowing: nasce la piattaforma per segnalare la corruzione negli enti pubblici - iacchite](https://www.iacchite.blog/whistleblowing-nasce-la-piattaforma-per-segnalare-la-corruzione-negli-enti-pubblici/)  
+  verified via live; context: …ato tecnologico: non sarà possibile per nessuno risalire all’identità di chi segnala a meno che il whistleblower stesso non decida di rivelarlo ” ha dichiarato Fabio Pietrosanti, Presidente del Centro Hermes . 3,2 milion…
 - 🆕 **2018-10-01** · Comunicato · Hermes Center for Transparency and Digital Human Rights — [Il software libero e open source GlobaLeaks fornito gratuitamente agli enti pubblici: nasce WhistleblowingPA](https://hermescenter.org/whistleblowingpa/)  
   WhistleblowingPA: GlobaLeaks come servizio gratuito per gli enti pubblici italiani. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.
 - 🆕 **2018-10-01** · Citato · AGI — [C'e una nuova risorsa per gli informatori anonimi nella pubblica amministrazione](https://www.agi.it/innovazione/whistleblowing_pa-4433292/news/2018-10-01/) _(non verificato)_  
@@ -1366,7 +1368,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2017** · pagina · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/)  
   Scheda biografica sul vecchio sito Hermes (PrivateWave, hacking community dal 1995, Twitter @fpietrosanti). Capture: https://web.archive.org/web/20210306145428/https://www.hermescenter.org/members/fabio-pietrosanti/ ; versione precedente con 'IRC: naif@irc.oftc.net #globaleaks': https://web.archive.org/web/20171022005215/https://www.hermescenter.org/home/about-mission/people/members/fabio-pietrosanti/ . Lo nominano anche gli elenchi soci /members/, /it/soci/ (capture 20210306140933) e /home/about-mission/people/ (stessa voce, non conteggiati a parte). Verificato sulle copie nello zip Wayback locale.
 
-## 2016 — 29 voci, 29 nuove
+## 2016 — 30 voci, 30 nuove
 
 - 🆕 **2016-12-29** · Talk · 33C3 Chaos Communication Congress, Hamburg (Lightning Talks) — [Robots txt abuses by government agencies against transparency (lightning talk)](https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency)  
   5-min lightning talk, Day 3 14:55; organizer 'Fabio Pietrosanti (naif)', website hermescenter.org; research on Italian PA/EU robots.txt
@@ -1424,6 +1426,8 @@ Anni senza nessun risultato: nessuno
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Polish weekly, 2016 volume (exact issue unknown). Snippet: '... GlobaLeaks (Globalne Przecieki), którą stworzyli włoscy hakerzy Fabio Pietro-santi i Arturo Filastò dla fundacji Hermes Center for Transparency and Digital Human Rights ...'.
 - 🆕 **2016** · Menzionato · slideshare.net — [Storia e storie degli hacker della sicurezza informatica](https://www.slideshare.net/slideshow/storia-e-storie-degli-hacker-della-sicurezza-informatica/60171340)  
   verified via wayback; context: …47. ANONYMOUS ITALIA – FAMILY DAY HACK 48. THE ITALIAN WAY – GLI HACKER >Il Capo, Machine, QQQ, kris. >I Romani (Raist, Synack, Zibri, Newmark, phroid, xoanon, naif) >I Torinesi (Raoul, raptor, dialtone, acidguy, twiz) >…
+- 🆕 **2016** · Talk · eunews.it — [How Can We Govern Europe? – Terza edizione (panel «Intelligence, privacy e antiterrorismo in Europa»)](https://www.eunews.it/eventi_eunews/how-can-we-govern-europe-3rd-edition/)  
+  verified via wayback; context: …i cittadini. Moderatrice Cristina Vicarelli , avvocato con attività prevalente in protezione dei dati personali e privacy e contributor di Technethics Relatori Fabio Pietrosanti, Presidente del Hermes Center for Transpar… | Relatore come Presidente di Hermes Center. Anno 2016 dedotto dal programma (panel «Trump presidente», Beatrice Covassi rappresentante CE in Italia, Silvia Costa presidente commissione Cultura PE); la pagina reca la data di ripubblicazione 29/09/2021.
 - 🆕 **2016** · Talk · Internet Freedom Festival 2016 (IFF), Valencia (1-6 marzo 2016) - IFF Wiki — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks](https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks)  
   Pagina della sessione sull'IFF Wiki: «Presenter(s) Fabio Pietrosanti ... Organization(s) Hermes Center for Transparency and Digital Human Rights ... Country(ies) Italy»; formato Conversation, 1 ora, track Tools & Technology; descrizione sull'avvio di iniziative di whistleblowing («supporting more than 30 whistleblowing projects using GlobaLeaks in +20 countries»). Verificata su Wayback 20210620025940 (la pagina live oggi è 404). La sessione con questo titolo compare nell'elenco «IFF Schedule» dell'edizione 2016 (Wayback 20160525224224, https://internetfreedomfestival.org/wiki/index.php/IFF_Schedule), che però riporta solo il titolo; il campo «2017 theme» della pagina è un artefatto del template wiki. Data esatta della sessione non trovata (lo schedule con orari stava su una pagina esterna non archiviata).
 

@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-23 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-24 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **1166**; già processate: **1342**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **978** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1107**
+- Voci in `data/media.json`: **1168**; già processate: **1344**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **980** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1109**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **2**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -41,9 +41,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2013 | 28 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 38 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 2016 | 23 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 80 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 63 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 64 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 85 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 168 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
@@ -850,6 +850,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · OSCE Representative on Freedom of the Me — [Digital Whistleblowing and Cybersecurity: Partnership of Journalists and Hackers in Public](https://rfom.osce.org/sites/default/files/f/documents/6/f/261926.pdf) · copia: `2016/888305f301cb` (live) · licenza: terzi
 - **2016** · Internet Freedom Festival 2016 (IFF), Va — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks](https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks) · copia: `2016/9098ca501b52` (Web Archive 20210620) · licenza: terzi
 - **2016** · eunews.it — [HGE3 G2 - 2 Intelligence privacy 1 - Eunews](https://www.eunews.it/2016/11/21/can-govern-europe-3-le-immagini-della-due-giorni/hge3-g2-2-intelligence-privacy-1/) · copia: `2016/4fd2f13ecaf0` (live) · licenza: terzi
+- **2016** · eunews.it — [How Can We Govern Europe? – Terza edizione (panel «Intelligence, privacy e antiterrorismo ](https://www.eunews.it/eventi_eunews/how-can-we-govern-europe-3rd-edition/) · copia: `2016/8622100d1807` (Web Archive 20240301) · licenza: terzi
 - **2016** · LineaEDP — [Cyber sicurezza: attacco a Renzi sulla nomina Carrai](https://www.lineaedp.it/categorie-funzionali/home-page/primo-piano/cyber-sicurezza-attacco-a-renzi-sulla-nomina-carrai/) · copia: `2016/9436b6f13785` (live) · licenza: terzi
 - **2016** · OSCE, Office of the Representative on Fr — [Biographies - Gaining a Digital Edge: Freedom of Expression, Vienna, 14-15 September 2016](https://www.osce.org/representative-on-freedom-of-media/263301) · copia: `2016/a5d1e3f9a943` (Web Archive 20200218) · licenza: terzi
 - **2016** · OSCE Representative on Freedom of the Me — [BIOS - conference speaker biographies incl. Fabio Pietrosanti](https://www.osce.org/sites/default/files/f/documents/4/9/263301_0.pdf) · copia: `2016/08ad988ef917` (live) · licenza: terzi
@@ -1005,6 +1006,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · International Journalism Festival 2018 — [Privacy nightmare Italia: storie di sorveglianza](https://www.festivaldelgiornalismo.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/27e62d9ca635` (Web Archive 20180705) · licenza: terzi
 - **2018** · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti) · copia: `2018/f855533e7142` (Web Archive 20190825) · licenza: terzi
 - **2018** · Hermes Center — News & Press (sito in ri — [Announcement: Hermes Center members and fellows participate at the International Journalis](https://www.hermescenter.org/announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18/) · copia: `2018/d6e62a571fab` (Web Archive 20200921) · licenza: propria
+- **2018** · iacchite.blog — [Whistleblowing: nasce la piattaforma per segnalare la corruzione negli enti pubblici - iac](https://www.iacchite.blog/whistleblowing-nasce-la-piattaforma-per-segnalare-la-corruzione-negli-enti-pubblici/) · copia: `2018/4f1c8baf7317` (live) · licenza: terzi
 - **2018** · International Journalism Festival 2018 ( — [Italian privacy nightmare: tales of surveillance](https://www.journalismfestival.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/6f8c23954448` (Web Archive 20180620) · licenza: terzi
 - **2018** · International Journalism Festival (Perug — [Fabio Pietrosanti — president Hermes Center (IJF speaker page, sessions 2012-2018)](https://www.journalismfestival.com/speaker/fabio-pietrosanti) · copia: `2018/ce6d25a031d3` (Web Archive 20190917) · licenza: terzi
 - **2018** · Key4biz — [App per il ciclo mestruale, a rischio la privacy piu intima](https://www.key4biz.it/app-per-il-ciclo-mestruale-a-rischio-la-privacy-piu-intima/218397/) · copia: `2018/8d3cbbfb68f2` (Web Archive 20220625) · licenza: terzi

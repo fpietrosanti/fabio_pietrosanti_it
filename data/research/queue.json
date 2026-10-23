@@ -2283,51 +2283,115 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" Monitora PA OR \"Google Analytics\" OR Garante 2022",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)",
+      "date": "2026-10-24",
+      "found": 1
     },
     {
       "query": "\"Fabio Pietrosanti\" whistleblowers Europe directive open letter",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)",
+      "date": "2026-10-24",
+      "found": 0
     },
     {
       "query": "\"naif@blackhats.it\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)",
+      "date": "2026-10-24",
+      "found": 0
     },
     {
       "query": "\"Fabio Pietrosanti\" ITASEC OR \"e-privacy\" OR \"Winston Smith\" relatore",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)",
+      "date": "2026-10-24",
+      "found": 0
     },
     {
       "query": "\"Fabio Pietrosanti\" spyware Italia OR \"Hacking Team\" 2015 OR 2016",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)",
+      "date": "2026-10-24",
+      "found": 0
     },
     {
       "query": "\"Fabio Pietrosanti\" podcast OR episodio OR puntata 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)",
+      "date": "2026-10-24",
+      "found": 0
     },
     {
       "query": "\"Fabio Pietrosanti\" CNR OR Webbit OR Smau 2003 OR 2004 OR 2005",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)",
+      "date": "2026-10-24",
+      "found": 0
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Transparency International\" OR ANAC whistleblowing piattaforma",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)",
+      "date": "2026-10-24",
+      "found": 1
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Hermes intercettazioni panel 2016 OR 2017",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+      "note": "aggiunta 2026-10-24 00:33: coda esaurita; angoli da questo run (Hermes 2016 panel UE, WhistleblowingPA 2018 stampa locale, ricerca accademica su whistleblowing, anni deboli 2024-2025, conferenze estere)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" WhistleblowingPA OR \"whistleblowing PA\" 2018 OR 2019",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 00:33: coda esaurita; angoli da questo run (Hermes 2016 panel UE, WhistleblowingPA 2018 stampa locale, ricerca accademica su whistleblowing, anni deboli 2024-2025, conferenze estere)"
+    },
+    {
+      "query": "\"Pietrosanti\" GlobaLeaks thesis OR dissertation OR \"master thesis\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 00:33: coda esaurita; angoli da questo run (Hermes 2016 panel UE, WhistleblowingPA 2018 stampa locale, ricerca accademica su whistleblowing, anni deboli 2024-2025, conferenze estere)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2024 intervista OR dichiarato OR spiega",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 00:33: coda esaurita; angoli da questo run (Hermes 2016 panel UE, WhistleblowingPA 2018 stampa locale, ricerca accademica su whistleblowing, anni deboli 2024-2025, conferenze estere)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2025 intervista OR dichiarato OR spiega",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 00:33: coda esaurita; angoli da questo run (Hermes 2016 panel UE, WhistleblowingPA 2018 stampa locale, ricerca accademica su whistleblowing, anni deboli 2024-2025, conferenze estere)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" conference speaker Berlin OR Vienna OR Brussels OR Amsterdam",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 00:33: coda esaurita; angoli da questo run (Hermes 2016 panel UE, WhistleblowingPA 2018 stampa locale, ricerca accademica su whistleblowing, anni deboli 2024-2025, conferenze estere)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Hermes Center\" Amnesty OR \"Privacy International\" OR EDRi report",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 00:33: coda esaurita; angoli da questo run (Hermes 2016 panel UE, WhistleblowingPA 2018 stampa locale, ricerca accademica su whistleblowing, anni deboli 2024-2025, conferenze estere)"
+    },
+    {
+      "query": "\"naif\" Pietrosanti hacker intervista 2008 OR 2009 OR 2010",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 00:33: coda esaurita; angoli da questo run (Hermes 2016 panel UE, WhistleblowingPA 2018 stampa locale, ricerca accademica su whistleblowing, anni deboli 2024-2025, conferenze estere)"
     }
   ],
   "history": [
@@ -3087,6 +3151,14 @@
       "captcha": false,
       "confirmed_new": 5,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. 8 query pending (GlobaLeaks interview 2011-13, Tor2web stampa estera, Hermes EDRi/UE, naif blackhats.it advisory, TV/radio, docenze, Telecom/Tavaroli 2006-07, Rousseau/Casaleggio 2017-18) senza robot check: 73 risultati, 69 URL distinti, 49 già in archivio o già decisi. Scartati senza verifica: LinkedIn, Facebook, lists.autistici (mailing list), indici/tag (sploitus, argomenti.ilsole24ore, dicorinto, dalchecco tag, homodigitalis author, personaldemocracy speakers), forum (gerki), mirror exploit-db. 10 candidati verificati: 6 OK dallo script; 5 nuove voci: ITASEC20 formazione giornalisti, Press Gazette lettera aperta Football Leaks/whistleblower (firmatario Hermes), exploit-db 21747 (seconda PoC SMB 2002, segnalazione di naif), Info Data Il Sole 24 Ore 02/07/2022 (Monitora, Think Tally Talk), davidpuente.it 07/02/2018 (R0gue_0/M5S). Escluso in via provvisoria Logistica Sostenibile 03/06/2022 ('Amministratore unico, LESS Impresa Sociale', probabile omonimo, domanda in open_questions); esclusi zh-tw Wikipedia e Wikiwand zh-sg GlobaLeaks (versioni linguistiche). Respinti (nome assente): enssib.fr PDF leak/archive, Innovation Group Digital Italy Summit 2019. FAIL (bloccati): ResearchGate e Academia 'Digital whistleblowing platforms… TI Italia' - da ricontrollare. 5 nuove copie offline (wayback). Coda esaurita: aggiunte 8 query."
+    },
+    {
+      "date": "2026-10-24 00:33",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 2,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. 8 query pending (Monitora PA/Google Analytics 2022, lettere aperte UE whistleblower, naif@blackhats.it, ITASEC/e-privacy, spyware/Hacking Team 2015-16, podcast 2024-25, CNR/Webbit/Smau 2003-05, Transparency International/ANAC) senza robot check: 77 risultati, 55 URL distinti dopo scarto, 40 già in archivio, già decisi o già respinti. Scartati senza verifica: LinkedIn, Instagram, Facebook, forum.italia.it, hyperkitty nexa, lists.autistici, lists.pluto.it (mailing list), indici/tag (sploitus, dalchecco, dicorinto, dig-awards tag, snobnonpertutti autore, it.euronews location, slideshare profilo), pagine spam thenationalherald, forum gerki, mirror exploit-db (bubbleslearn, wangjun), registro accessi FOIA istituto scolastico (atto amministrativo con dati personali, come icpurificato/iccorinaldo già respinti). 10 candidati verificati: 2 nuove voci: Eunews 'How Can We Govern Europe? – Terza edizione' (relatore come Presidente Hermes nel panel Intelligence, privacy e antiterrorismo; anno 2016 dedotto dal programma, pagina ripubblicata 29/09/2021) e iacchite.blog 01/10/2018 (WhistleblowingPA, citazione). Respinti (nome assente): whistleblowers.au newsletter 07/2022, PEER 'Caught Between Conscience and Career', PDF thenationalherald, s0ftpj CNR 2003 log analysis. FAIL (non scaricati): Elgar OA PDF 9781802202106, dokumen.pub source-journalism, datwww.mit.edu Bugtraq 26860/26865 (probabili mirror degli advisory SMB 2002 già in archivio) - da ricontrollare. 2 nuove copie offline (wayback, live). Coda esaurita: aggiunte 8 query."
     }
   ]
 }
