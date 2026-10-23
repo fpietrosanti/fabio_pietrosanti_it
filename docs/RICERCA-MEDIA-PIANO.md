@@ -444,7 +444,10 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   **Resta** (Web Archive «Temporarily Offline» per gran parte della sessione): giro di 255 pagine (privatewave.com/.it,
   zorg.org, khamsa.it, voipsa.org, sikurezza.org wiki 2009-11, infosecurity.ch 2007-08) avviato sul server
   (`~/wb_tech2007_fetch.py`, esiti `~/wb_tech2007/hits2.jsonl`, fine quando `log.txt` dice «FETCH2 FINISHED") + CDX di
-  ohloh/freshmeat/launchpad/Google Code/zfone (`~/wb_tech2007_cdx2.sh`); SMAU 2007-10 (400 URL su ~9.000 controllati);
+  ohloh/freshmeat/launchpad/Google Code/zfone (`~/wb_tech2007_cdx2.sh`: **finito**, elenchi pronti e non ancora letti —
+  293 capture zfoneproject.com, 61 www.khamsa.it, 2 fabio.pietrosanti.it; ohloh/freshmeat/code.google.com/p/privategsm
+  da rifare, il CDX ha restituito la pagina «Temporarily Offline»; nel giro delle 255 pagine, alle prime 40, solo pagine
+  sikurezza.org già note); SMAU 2007-10 (400 URL su ~9.000 controllati);
   MOCA 2008 (programma non archiviato); seminario Trento 2010; URL di 22 testate italiane nel Web Archive (504);
   Google Books (429); brevetto US20130252585 (Google Patents anti-bot, solo pista).
 
