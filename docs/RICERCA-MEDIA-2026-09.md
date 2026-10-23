@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1593**; dopo deduplica: **1157**
+- Risultati grezzi dalle ricerche: **1596**; dopo deduplica: **1160**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1102**
-- Verificati aprendo la pagina: **1090**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1105**
+- Verificati aprendo la pagina: **1093**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 231, tweet 132, Talk 91, Video 77, Post sul blog infosecurity.ch 72, Citato 53, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, audio 7, Capitolo di libro 6, Brevetto 6, pagina 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 234, tweet 132, Talk 91, Video 77, Post sul blog infosecurity.ch 72, Citato 53, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, audio 7, Capitolo di libro 6, Brevetto 6, pagina 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -20,7 +20,7 @@ Per tipo (nuovi): Menzionato 231, tweet 132, Talk 91, Video 77, Post sul blog in
 | 1999 | 0 | 1 | 1 |
 | 2000 | 2 | 16 | 13 |
 | 2001 | 8 | 17 | 12 |
-| 2002 | 2 | 19 | 8 |
+| 2002 | 2 | 20 | 9 |
 | 2003 | 5 | 8 | 7 |
 | 2004 | 1 | 12 | 11 |
 | 2005 | 1 | 12 | 9 |
@@ -35,7 +35,7 @@ Per tipo (nuovi): Menzionato 231, tweet 132, Talk 91, Video 77, Post sul blog in
 | 2014 | 0 | 29 | 29 |
 | 2015 | 0 | 45 | 45 |
 | 2016 | 0 | 29 | 29 |
-| 2017 | 0 | 79 | 79 |
+| 2017 | 0 | 80 | 80 |
 | 2018 | 0 | 73 | 73 |
 | 2019 | 0 | 68 | 68 |
 | 2020 | 0 | 177 | 177 |
@@ -1199,7 +1199,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 79 voci, 79 nuove
+## 2017 — 80 voci, 80 nuove
 
 - 🆕 **2017-12-14** · Ricerca · GitHub avast/retdec — [retdec #29 «Fix Avast File Download Vulnerability»](https://github.com/avast/retdec/issues/29)  
   Opened by fpietrosanti: Avast installer served over HTTP; cites his July-2017 tweet twitter.com/fpietrosanti/status/881888886678581249
@@ -1245,6 +1245,8 @@ Anni senza nessun risultato: nessuno
   Winston Smith (Emmanuele Somma), preface by Marco Calamari, first HERMES edition October 2017. The acknowledgements ('Si ringrazia:') list: 'Fabio "naif" Pietrosanti (Hermes Center), Dario Centofanti ..., Marco Calamari (Progetto Winston Smith)' (last pages, djvu text). This is the embedded PDF of an archive.org item whose details page (archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale) is already in the known list, so it is marked known; the new detail is his role as acknowledged contributor to the Hermes e-voting guide.
 - 🆕 **2017-09-21** · institutional letter (official reply) · ANAC - Autorità Nazionale Anticorruzione (lettera del Presidente Raffaele Cantone) — [Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes in merito all'adozione di tecnologie di supporto alla gestione delle segnalazioni di condotte illecite (Whistleblowing)](https://www.anticorruzione.it/documents/91439/123100/Risposta_appello_Centro_Hermes_new.pdf/76d050ce-9e12-c2f6-f369-2e3abadcc159?t=1585641081807)  
   PDF ufficiale ANAC (3 pp.), aperto e letto il 2026-10-05; linkato dalla pagina https://www.anticorruzione.it/en/-/whistleblowing-1-1 («Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes»). Intestazione: «Al Presidente del Centro Hermes Ing. Fabio Pietrosanti»; apertura «Gentile Ing. Pietrosanti»; oggetto «Appello del Centro Hermes all'Autorità Nazionale Anticorruzione (ANAC) per la tecnologia di whistleblowing open-source». Risponde all'appello del 24 luglio 2017, ricostruisce la collaborazione ANAC-Hermes (consultazione 2015, riunione 25/06/2015, memorandum 22/07/2015, prototipo Open Whistleblowing, gara vinta da LA.SER ROMAE) e rileva che alla gara partecipò «Whistleblowing Solution di cui Lei è un autorevole componente». Firmata Raffaele Cantone. Non presente in media.json (URL e titolo cercati).
+- 🆕 **2017-09-13** · Menzionato · cild.eu — [Intelligence: scriviamo al Copasir con Privacy International e Hermes - cild.eu](https://cild.eu/blog/2017/09/13/intelligence-copasir-lettera-ong/)  
+  verified via wayback; context: …impatto dell’intelligence sharing sui diritti umani, per non parlare delle valutazioni di tipo geo-politico su cui il parlamento potrebbe volere intervenire” – Fabio Pietrosanti, Presidente Hermes Center Privacy Internat…
 - 🆕 **2017-08-08** · Menzionato · heise.de — [Hackercamp SHA2017: Gold-Standard für Staatstrojaner gesucht](https://www.heise.de/news/Hackercamp-SHA2017-Gold-Standard-fuer-Staatstrojaner-gesucht-3795375.html)  
   verified via wayback; context: …/ Detlef Borchers) 08.08.2017, 13:08 Uhr Lesezeit: 3 Min. Von Detlef Borchers Anzeige Auf dem Hackercamp SHA2017 im niederländischen Zeewolde haben der Hacker Fabio Pietrosanti und der Jurist Stefano Aterno die italienis…
 - 🆕 **2017-08-07** · Talk · SHA2017 - Still Hacking Anyway (media.ccc.de) — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans)  
@@ -2202,7 +2204,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2003-01** · Articolo scritto · Win Magazine n.48 (Edizioni Master), gennaio 2003 — [Caccia alle reti wireless - Lo sviluppo delle reti Wi-Fi cresce giorno dopo giorno, ma emergono nuovi problemi di sicurezza (di Fabio Pietrosanti e Yvette Agostini)](https://archive.org/details/win-magazine-italia-48)  
   Co-authored with Yvette Agostini, bylined as members of the Italian Blackhats association; verified in IA OCR text
 
-## 2002 — 19 voci, 8 nuove
+## 2002 — 20 voci, 9 nuove
 
 - ↺ **2002-10-26** · Talk · Italian Black Hats - SMAU 2002, Fiera di Milano — [Ethical Hacker's Speech II - programma (PDF)](https://web.archive.org/web/20040217095659/http://www.blackhats.it:80/en/events/26102002/programma.pdf)  
   Programma ufficiale della giornata ITBH a SMAU 2002: tra i relatori «Fabio Pietrosanti, ITBH»; «Benvenuto ed introduzione ai lavori: Raoul Chiesa aka Nobody … Fabio Pietrosanti aka Naif, ITBH»; introduzione alla sessione pomeridiana con Nobody; poi «Wireless (in)security @ SMAU». Integra il talk già noto (slide su SlideShare).
@@ -2242,6 +2244,8 @@ Anni senza nessun risultato: nessuno
   4-page print article (pp. 56-59) scanned and uploaded to SlideShare by Fabio Pietrosanti on 2009-07-01 as 'ICT Security Magazine: Penetration testing e tigerteam' (description: 'Quando il termine tiger team aveva ancora una accezione positiva!'). Author box on last page: 'Gli Autori: Raoul Chiesa aka Nobody ... / Fabio Pietrosanti aka Naif, Network Security Manager presso la I.NET SpA, IT, ITBH (Italian Black Hats Association) Founder Member'. Issue number/date not visible on scanned pages; year inferred (~2002) from I.NET role + ITBH founding; scan filename 'rs010502a'. Also listed as a local copy in fabio_pietrosanti_it-copies/2010/861f7ed4a4c3 (SlideShare profile snapshot).
 - ↺ **2002** · article · dvara.net (Raoul Chiesa) — [Riflessioni su finanza e hacking (bio di Raoul Chiesa)](https://www.dvara.net/hk/riflessioni_finanza_hacking.pdf)  
   Bio di Chiesa: 'Nel 2001 è tra i fondatori, insieme a Marco Ivaldi aka Raptor e Fabio Pietrosanti aka Naif di ITBH, Italian Black Hats Association'. PDF letto; anno stimato ~2002 (citazioni più recenti 2002).
+- 🆕 **2002** · Menzionato · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (1)](https://www.exploit-db.com/exploits/21746)  
+  verified via wayback; context: …n confirmed. Reportedly, this vulnerability may be exploited both as an authenticated user, and with anonymous access to the service. It has been reported, by "Fabio Pietrosanti \(naif\)" <naif@blackhats.it>, that disabl…
 
 ## 2001 — 17 voci, 12 nuove
 
@@ -2386,6 +2390,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · pr-foundation.org — [La ministra Pisano al Cenacolo degli Innovatori - P&R Foundation](https://www.pr-foundation.org/la-ministra-pisano-al-cenacolo-degli-innovatori/)
 - 🆕 Menzionato · gruppotim.it — [Responsible Disclosure |  Gruppo TIM](https://www.gruppotim.it/it/footer/responsible-disclosure.html)
 - 🆕 Menzionato · debugliesintel.com — [Mercato globale dello spyware 2025: impennata degli investimenti negli Stati Uniti e broker che alimentano i rischi di proliferazione - debugliesintel](https://www.debugliesintel.com/mercato-globale-dello-spyware-2025-impennata-degli-investimenti-negli-stati-uniti-e-broker-che-alimentano-i-rischi-di-proliferazione/)
+- 🆕 Menzionato · pr-foundation.org — [Bilancio 2021 Fondazione - P&R Foundation](http://www.pr-foundation.org/bilancio-2021-fondazione/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1157**; già processate: **1333**; ancora da processare: **0**
-- Licenza delle copie ottenute: **249** materiale proprio (ripubblicabile), **970** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1098**
+- Voci in `data/media.json`: **1160**; già processate: **1336**; ancora da processare: **0**
+- Licenza delle copie ottenute: **249** materiale proprio (ripubblicabile), **973** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1101**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **2**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -21,13 +21,13 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 64 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 65 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2000 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2001 | 17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2002 | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2002 | 21 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2005 | 11 | 2 | 0 | 0 | 0 | 0 | 1 |
@@ -42,7 +42,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 38 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 23 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 79 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 80 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 62 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 85 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 168 | 11 | 0 | 0 | 0 | 0 | 0 |
@@ -326,6 +326,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 
 ## Fonti ottenute in locale
 
+- **None** · pr-foundation.org — [Bilancio 2021 Fondazione - P&R Foundation](http://www.pr-foundation.org/bilancio-2021-fondazione/) · copia: `undated/a12a9438b2e6` (Web Archive 20230922) · licenza: terzi
 - **None** · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html) · copia: `undated/4a11e866d9e4` (live) · licenza: terzi
 - **None** · cfp.romhack.io — [RomHack Camp 2026
             :: pretalx](https://cfp.romhack.io/romhack-camp-2026/speaker/) · copia: `undated/93eebbb26309` (Web Archive 20260930) · licenza: terzi
@@ -443,6 +444,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2002** · sikurezza.org wiki - Risorse/Itbh (Itali — [ITBH Ethical Hacker's Speech (SMAU 2002) resources page: Wireless (in)security - Fabio Pie](https://web.archive.org/web/20060428044642/http://www.sikurezza.org:80/wiki/Risorse/Itbh) · copia: `2002/95b156d1d0c8` (Web Archive 20060428) · licenza: terzi
 - **2002** · Apogeonline (Portel survey) — [A caccia di reti wireless insicure](https://www.apogeonline.com/articoli/a-caccia-di-reti-wireless-insicure-redazione-apogeonline/) · copia: `2002/937ccc909111` (Web Archive 20190817) · licenza: terzi
 - **2002** · dvara.net (Raoul Chiesa) — [Riflessioni su finanza e hacking (bio di Raoul Chiesa)](https://www.dvara.net/hk/riflessioni_finanza_hacking.pdf) · copia: `2002/1c8c6aa886d7` (Web Archive 20031004) · licenza: terzi
+- **2002** · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (1)](https://www.exploit-db.com/exploits/21746) · copia: `2002/54fb7a6694e4` (Web Archive 20121221) · licenza: terzi
 - **2002** · Hackmeeting 2002 (Bologna) — [Hackit02 - who (participants list)](https://www.hackmeeting.org/hackit02/who.html) · copia: `2002/db0c9beba416` (Web Archive 20100612) · licenza: terzi
 - **2002** · BFi 11-dev file 03 — [[HaCkmEeTiNg] Re: hacking is NOT politics? (vecna, mail thread)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-03) · copia: `2002/3ecc0da83214` (Web Archive 20020808) · licenza: terzi
 - **2002** · BFi 11-dev file 04 — [Drivers e SEH in Win NT/2000 (valv`0)](https://www.s0ftpj.org/bfi/dev/BFi11-dev-04) · copia: `2002/43cf34f76149` (Web Archive 20020207) · licenza: terzi
@@ -868,6 +870,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · Boing Boing — [Italy unveils a legal proposal to regulate government hacking](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html) · copia: `2017/d316cfd30704` (Web Archive 20170215) · licenza: terzi
 - **2017** · Mozilla Bugzilla — [Bug 1303739 «Warn when downloading executable files over HTTP» (comments by naif)](https://bugzilla.mozilla.org/show_bug.cgi?id=1303739) · copia: `2017/de839b12ee0a` (Web Archive 20190612) · licenza: propria
 - **2017** · Business Follows srl (Roma) — Testimonia — [Fabio Pietrosanti (Naif) – Founder, President Hermes Center for Trasparency and Digital Hu](https://businessfollows.com/testimonials/fabio-pietrosanti-naif-founder-president-hermes-center-trasparency-digital-human-rights/) · copia: `2017/4e89c9dd27d9` (Web Archive 20201022) · licenza: terzi
+- **2017** · cild.eu — [Intelligence: scriviamo al Copasir con Privacy International e Hermes - cild.eu](https://cild.eu/blog/2017/09/13/intelligence-copasir-lettera-ong/) · copia: `2017/0d732679091d` (Web Archive 20170916) · licenza: terzi
 - **2017** · cild.eu — [Dati su telefonate e siti web conservati per 6 anni: e i nostri diritti? - cild.eu](https://cild.eu/blog/2017/11/09/dati-su-telefonate-e-siti-web-conservati-per-6-anni-e-nostri-diritti/) · copia: `2017/ca78d0a0d64b` (Web Archive 20190821) · licenza: terzi
 - **2017** · cild.eu — [Surveillance: Hermes wants review of the FOIA request to Italian Ministry - cild.eu | en](https://cild.eu/en/2017/05/30/surveillance-hermes-asks-for-a-review-of-the-foia-request-sent-to-mise/) · copia: `2017/ac6525573dfc` (Web Archive 20170614) · licenza: terzi
 - **2017** · CILD - Coalizione Italiana Libertà e Dir — [Lettera CILD-Hermes al MISE sull'export di tecnologie di sorveglianza (23/01/2017)](https://cild.eu/wp-content/uploads/2017/01/ITA-LetteraMISE-2017.01.23PI_CILD_HERMES.odt-1.pdf) · copia: `2017/e85013b8ffe2` (Web Archive 20200211) · licenza: terzi

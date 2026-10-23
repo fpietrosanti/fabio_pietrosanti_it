@@ -866,6 +866,14 @@
   {
    "url": "https://www.radioradicale.it/scheda/214443/intervista-ad-anna-barducci-sulla-situazione-politica-in-arabia-saudita-la-situazione",
    "reason": "2026-10-23: falso positivo — il «Naif» nel contesto è il principe saudita Naif, non Fabio; nessun «Pietrosanti»"
+  },
+  {
+   "url": "https://www.opennet.ru/base/sco/988181601_1697.txt.html",
+   "reason": "2026-10-23: mirror russo del post Bugtraq 'Cisco PIX Security Notes' del 09/03/2001, già in archivio come seclists.org/bugtraq/2001/Mar/148"
+  },
+  {
+   "url": "https://cs.wikipedia.org/wiki/GlobaLeaks",
+   "reason": "2026-10-23: versione ceca della voce Wikipedia GlobaLeaks, già in archivio in inglese (stessa regola delle versioni linguistiche)"
   }
  ],
  "override": [
