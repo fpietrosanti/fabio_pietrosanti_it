@@ -52,15 +52,16 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **196 file, 49,8 GB**. Su Drive al 2026-10-22: **9 file** (`data/drive_links.json`);
-  mancano **188 file**.
-- Notte 2026-10-22 (01:07–06:00): caricati 8 file, ~0,5 GB. Velocità media ~50–80 KiB/s, con stalli a 0 B/s
-  (01:37–02:37 ferma un'ora, poi ripartita): a questo ritmo servono settimane. Upload interrotto alle 06:00,
-  link registrati con `--links-only`.
-- Spazio su Drive: 75 GB totali, **65,4 GB liberi** al 2026-10-22.
+- Da caricare in tutto: **197 file, 49,8 GB**. Su Drive al 2026-10-23: **15 file** (`data/drive_links.json`);
+  mancano **183 file**.
+- Notte 2026-10-23 (01:07–05:40): caricati 6 file, ~0,76 GB (più ~1,3 GB di trasferimenti parziali persi
+  all'arresto). Velocità 70–250 KiB/s; dalle 04:55 stallo a 0 B/s per ~45 minuti, quindi rclone fermato a
+  mano alle 05:40 e link registrati con `--links-only`. Copie leggere pubblicate: 1071 voci, 427 MB in `copies/`.
+- Notte 2026-10-22 (01:07–06:00): caricati 8 file, ~0,5 GB, con stalli simili.
+- Spazio su Drive: 75 GB totali, **64,7 GB liberi** al 2026-10-23.
 
 ### Problemi aperti dell'upload
-- **Banda in upload bassissima** dal computer (~60 KiB/s; la rete risponde, ping 19 ms): verificare la linea
+- **Banda in upload bassissima** dal computer (60–250 KiB/s, stalli ricorrenti a 0 B/s verso le 05:00; la rete risponde, ping 19 ms): verificare la linea
   oppure spostare l'upload sul server (51.158.36.151) copiando lì la libreria e la configurazione di rclone.
 - rclone usa il client_id condiviso di Google Drive, che verrà ritirato nel 2026: creare un client_id proprio
   (https://rclone.org/drive/#making-your-own-client-id) e riconfigurare il remote `gdrive:`.
