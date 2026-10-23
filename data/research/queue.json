@@ -2091,51 +2091,115 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" 2003 OR 2004 OR 2005 Linux OR \"software libero\" OR LUG",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)"
+      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)",
+      "found": 9,
+      "date": "2026-10-23"
     },
     {
       "query": "\"naif\" Pietrosanti 2006 OR 2007 conferenza OR seminario OR workshop",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)"
+      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)",
+      "found": 9,
+      "date": "2026-10-23"
     },
     {
       "query": "\"Fabio Pietrosanti\" 2009 OR 2010 Tor OR anonimato OR privacy intervista",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)"
+      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)",
+      "found": 6,
+      "date": "2026-10-23"
     },
     {
       "query": "\"Fabio Pietrosanti\" 2010 OR 2011 \"voto elettronico\" OR \"e-voting\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)"
+      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)",
+      "found": 9,
+      "date": "2026-10-23"
     },
     {
       "query": "\"Fabio Pietrosanti\" 2023 OR 2024 spyware OR Paragon OR sorveglianza",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)"
+      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)",
+      "found": 10,
+      "date": "2026-10-23"
     },
     {
       "query": "\"Fabio Pietrosanti\" 2025 OR 2026 GlobaLeaks OR whistleblowing",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)"
+      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)",
+      "found": 10,
+      "date": "2026-10-23"
     },
     {
       "query": "\"Fabio Pietrosanti\" biohacking OR longevità OR biohacker",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)"
+      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)",
+      "found": 13,
+      "date": "2026-10-23"
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Osservatorio\" \"sovranità digitale\" OR \"MxMap\"",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)",
+      "found": 9,
+      "date": "2026-10-23"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2012 OR 2013 \"Tor2web\" OR \"hidden service\" intervista",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 08:34: coda esaurita; anni/temi deboli (2003-2011, 2023-2026, biohacking, sovranità digitale)"
+      "note": "aggiunta 2026-10-23 12:33: coda esaurita; anni/temi ancora deboli (2001-02, 2012-2023 per argomento, Copernicani)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2014 OR 2015 \"whistleblowing\" giornalisti OR redazione",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 12:33: coda esaurita; anni/temi ancora deboli (2001-02, 2012-2023 per argomento, Copernicani)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2016 OR 2017 \"Hermes Center\" OR \"Centro Hermes\" audizione OR convegno",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 12:33: coda esaurita; anni/temi ancora deboli (2001-02, 2012-2023 per argomento, Copernicani)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2018 OR 2019 GDPR OR \"data breach\" esperto",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 12:33: coda esaurita; anni/temi ancora deboli (2001-02, 2012-2023 per argomento, Copernicani)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2020 OR 2021 \"Immuni\" OR \"contact tracing\" OR \"app\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 12:33: coda esaurita; anni/temi ancora deboli (2001-02, 2012-2023 per argomento, Copernicani)"
+    },
+    {
+      "query": "\"naif\" \"Pietrosanti\" 2001 OR 2002 hacker OR \"penetration test\" OR sikurezza",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 12:33: coda esaurita; anni/temi ancora deboli (2001-02, 2012-2023 per argomento, Copernicani)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2022 OR 2023 \"cybersecurity\" podcast OR webinar",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 12:33: coda esaurita; anni/temi ancora deboli (2001-02, 2012-2023 per argomento, Copernicani)"
+    },
+    {
+      "query": "\"Pietrosanti\" \"Copernicani\" 2021 OR 2022 OR 2023 OR 2024",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 12:33: coda esaurita; anni/temi ancora deboli (2001-02, 2012-2023 per argomento, Copernicani)"
     }
   ],
   "history": [
@@ -2871,6 +2935,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (naif 2004-05, 2007-08 convegni, Tor 2006-08, VoIP 2008, 2023 Hermes/Monitora PA, 2024 whistleblowing, 2025 interviste/podcast, Hermes diritti digitali 2023-25) eseguite senza robot check, URL estratti subito dopo ogni ricerca (query string rimosse quando il tool le bloccava): 76 risultati, 49 URL distinti, quasi tutti già in archivio o già decisi (s0ftpj PGP/webbit, e-privacy XXI/XXIII/XXX, ITASEC 2020, IJF dissidenza digitale, nazioneindiana, Codice Beta RaiPlay Sound, Radio Radicale 543790/438714/558921/429504, startupitalia, nexa mercoledì 73, moca2016, debugliesintel, mgpf, OSCE, controtuttelemafie, dig-awards). Scartati senza verifica: LinkedIn/Facebook/Instagram, liste (lists.linux.it, hyperkitty nexa, sikurezza narkive), forum.italia.it, PDF FOIA Monitora PA delle scuole (atti), indici (dicorinto, pr-foundation, infosecurity.ch categoria, media.ccc.de search). 4 candidati verificati: 0 OK. Respinti (nome assente): Radio Radicale 410928 'Internet 2.0 nuovi profili della regolazione', Segnalazione al Garante Monitora PA 2023 (PDF), one33.robyone.net. NON VERIFICABILE: legalcommunity.it Mag113 14/01/2019 (PDF, live 403, nessuna copia Wayback) — da riprovare via Chrome. Nessuna nuova copia offline. Coda di nuovo esaurita: aggiunte 8 query."
+    },
+    {
+      "date": "2026-10-23 12:33",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 0,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (Linux/software libero 2003-05, naif convegni 2006-07, Tor/anonimato 2009-10, voto elettronico 2010-11, spyware/Paragon 2023-24, GlobaLeaks 2025-26, biohacking/longevità, Osservatorio sovranità digitale/MxMap) eseguite senza robot check, URL estratti subito dopo ogni ricerca: 75 risultati, 44 URL distinti, 33 già in archivio o già decisi (theinnovationgroup, e-privacy IV/XXIII, agendadigitale FOIA scuole e voto estero, umbria24 IJF, CCC camp 2015, Radio Radicale 342096 e scheda soggetto, linkiesta FOIA, therecord/TNW/punto-informatico/tomshw spyware, sfscon, IJF speaker, cfp RomHack 2026, Codice Beta, hackingbiology, orlandomagazine 2026, FB Rai biohacker, Wikipedia GlobaLeaks, gijc13). Scartati senza verifica: LinkedIn/Instagram/YouTube/Reddit, liste (freelists linuxtrent ×2, hyperkitty nexa ×3), indici (dicorinto ×4, dalchecco tag, pr-foundation content), github AUTHORS (non pubblicazione), alias /it/ del post infosecurity.ch già in archivio. 4 candidati verificati: 1 OK dallo script ma FALSO POSITIVO (Radio Radicale 214443: «principe Naif» saudita) → escluso in decisions.json. Respinti (nome assente): frizzifrizzi 2012, PDF gianfrancobattiston voto online M5S, PDF Comune di Roma Global Forum democrazia diretta. Nessuna nuova voce, nessuna nuova copia. Coda esaurita: aggiunte 8 query."
     }
   ]
 }
