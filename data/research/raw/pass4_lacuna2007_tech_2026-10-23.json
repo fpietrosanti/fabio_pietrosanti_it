@@ -37,5 +37,18 @@
   "note": "UNVERIFIED LEAD: appeared (as google.de/patents/US20130252585) in a web search for 'slideshare PrivateWave Pietrosanti mobile voice encryption'. Google Patents answered 'Sorry'/503 during this pass, so it is unknown whether it cites PrivateGSM/PrivateWave or Fabio (possibly a non-patent-literature citation). Not his patent: the inventor search lists only the known Khamsa family.",
   "verified": false,
   "known": false
+ },
+ {
+  "date": "2008-12-23",
+  "year": 2008,
+  "type": "pagina",
+  "outlet": "infosecurity.ch (blog) - 'author' page",
+  "title": "author - infosecurity dot ch",
+  "url": "https://web.archive.org/web/20081223045622/http://infosecurity.ch:80/author/",
+  "language": "it/en",
+  "role": "author",
+  "note": "Blog 'about the author' page, Wayback capture 20081223045622 (read 2026-10-23): '[IT] L'autore e' Fabio Pietrosanti (naif) la cui homepage personale e' all'indirizzo http://fabio.pietrosanti.it [EN] The author of this blog is Fabio Pietrosanti (naif)'. Earliest archived description of the blog's authorship (the 2008 site only had the Feb 2007 post 'Uno sguardo a...', already known). Low value: include only if own-blog profile pages are wanted.",
+  "verified": true,
+  "known": false
  }
 ]

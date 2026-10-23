@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1596**; dopo deduplica: **1160**
+- Risultati grezzi dalle ricerche: **1597**; dopo deduplica: **1161**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1105**
-- Verificati aprendo la pagina: **1093**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1106**
+- Verificati aprendo la pagina: **1094**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 234, tweet 132, Talk 91, Video 77, Post sul blog infosecurity.ch 72, Citato 53, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, audio 7, Capitolo di libro 6, Brevetto 6, pagina 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 234, tweet 132, Talk 91, Video 77, Post sul blog infosecurity.ch 72, Citato 53, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, pagina 7, audio 7, Capitolo di libro 6, Brevetto 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -26,7 +26,7 @@ Per tipo (nuovi): Menzionato 234, tweet 132, Talk 91, Video 77, Post sul blog in
 | 2005 | 1 | 12 | 9 |
 | 2006 | 4 | 13 | 3 |
 | 2007 | 1 | 13 | 10 |
-| 2008 | 0 | 13 | 13 |
+| 2008 | 0 | 14 | 14 |
 | 2009 | 1 | 48 | 46 |
 | 2010 | 6 | 77 | 64 |
 | 2011 | 4 | 30 | 27 |
@@ -2044,8 +2044,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2009** · Libro · R. Chiesa, S. Ducci, S. Ciappi, Profiling Hackers (CRC Press, 2009) - second IA copy — [Profiling hackers: the science of criminal profiling as applied to the world of hacking](https://archive.org/details/profili_chi_2009_00_8384)  
   IA FTS snippet: 'Alessandro Scartezzini, Antonis Anagnostopoulos, Fabio "Naif" Pietrosanti, Marco Tracina, Vittorio Pasteris...' (acknowledgements). Duplicate copy of known item profilinghackers0000chie.
 
-## 2008 — 13 voci, 13 nuove
+## 2008 — 14 voci, 14 nuove
 
+- 🆕 **2008-12-23** · pagina · infosecurity.ch (blog) - 'author' page — [author - infosecurity dot ch](https://web.archive.org/web/20081223045622/http://infosecurity.ch:80/author/)  
+  Blog 'about the author' page, Wayback capture 20081223045622 (read 2026-10-23): '[IT] L'autore e' Fabio Pietrosanti (naif) la cui homepage personale e' all'indirizzo http://fabio.pietrosanti.it [EN] The author of this blog is Fabio Pietrosanti (naif)'. Earliest archived description of the blog's authorship (the 2008 site only had the Feb 2007 post 'Uno sguardo a...', already known). Low value: include only if own-blog profile pages are wanted.
 - 🆕 **2008-12-19** · Menzionato · mgpf.it (Matteo Flora blog) — [Stasera 19/12 a Milano, ore 19 in Corso Como!](https://mgpf.it/2008/12/19/stasera-1912-a-milano-ore-19-in-corso-como.html)  
   Quoted announcement: 'Un incontro informale sul tema della privacy online con alcuni tra i maggiori esperti italiani: Claudio Agosti, Matteo Flora, Fabio Pietrosanti.' This is an event not listed in media.json. Read via WP REST (post 3394) on 2026-10-08.
 - 🆕 **2008-12-15** · Capitolo di libro · Shake Edizioni (collana Cyberpunkline) — [Il software libero in Italia, a cura di Andrea Glorioso - contributo di Fabio 'naif' Pietrosanti (sicurezza)](https://shake.it/libri/il-software-libero-in-italia/)  

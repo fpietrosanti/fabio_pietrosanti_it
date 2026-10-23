@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1160**; già processate: **1336**; ancora da processare: **0**
-- Licenza delle copie ottenute: **249** materiale proprio (ripubblicabile), **973** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1101**
+- Voci in `data/media.json`: **1161**; già processate: **1337**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **973** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1102**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **2**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -33,7 +33,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2005 | 11 | 2 | 0 | 0 | 0 | 0 | 1 |
 | 2006 | 13 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 2007 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2008 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2008 | 14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 49 | 2 | 0 | 0 | 0 | 0 | 1 |
 | 2010 | 70 | 3 | 2 | 0 | 0 | 0 | 4 |
 | 2011 | 31 | 4 | 0 | 0 | 0 | 0 | 0 |
@@ -521,6 +521,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2008** · Shake Edizioni (collana Cyberpunkline) — [Il software libero in Italia, a cura di Andrea Glorioso - contributo di Fabio 'naif' Pietr](https://shake.it/libri/il-software-libero-in-italia/) · copia: `2008/baaae4a00d4c` (Web Archive 20211201) · licenza: terzi
 - **2008** · OSXCrypt.org (project blog, Web Archive) — [This is not a scam: Real Truecrypt for MacOs is here!](https://web.archive.org/web/20080127141237/http://www.osxcrypt.org:80/2008/01/23/this-is-not-a-scam-real-truecrypt-for-macos-is-here/) · copia: `2008/9ad0c397a981` (Web Archive 20080127) · licenza: terzi
 - **2008** · OSXCrypt.org (project website, Web Archi — [Staff - OSXCrypt.org (Truecrypt for MAC)](https://web.archive.org/web/20080128135401/http://www.osxcrypt.org:80/staff/) · copia: `2008/acb6ba842f08` (Web Archive 20080128) · licenza: terzi
+- **2008** · infosecurity.ch (blog) - 'author' page — [author - infosecurity dot ch](https://web.archive.org/web/20081223045622/http://infosecurity.ch:80/author/) · copia: `2008/10b3dbabac72` (Web Archive 20081223) · licenza: propria
 - **2008** · Punto Informatico (PI Download review),  — [OsxCrypt review on PI Download (pidownload.it p.aspx?is=2179579)](https://www.punto-informatico.it/download/osxcrypt/) · copia: `2008/01494df52100` (Web Archive 20200804) · licenza: terzi
 - **2009** · e-privacy 2009 proceedings (urna.winston — [Voice security and privacy (atti, PDF)](http://urna.winstonsmith.org/materiali/2009/atti/ep2009_pietrosanti_voice_security_and_privacy.pdf) · copia: `2009/04a7c9bcf6e9` (Web Archive 20210605) · licenza: terzi
 - **2009** · e-privacy 2009 audio (urna.winstonsmith. — [Voice security and privacy (audio MP3)](http://urna.winstonsmith.org/materiali/2009/audio/ep2009_pietrosanti_voice_security_and_privacy.mp3) · copia: `2009/b982f1a71f8f` (Web Archive 20250227) · licenza: terzi

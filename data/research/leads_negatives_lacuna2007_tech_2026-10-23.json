@@ -61,11 +61,11 @@
  },
  {
   "source": "Web Archive sweep: privatewave.com (181 URLs), privatewave.it (119), support.privatewave.com (107), privategsm.com (3), khamsa.it (28), zorg.org (14), voipsa.org/blog (587), sikurezza.org/wiki 2009-2011 (33), infosecurity.ch 2007-08 (9), osxcrypt.org (55); 255 pages selected (about/company/press/white papers/ZRTP/ZORG/voipsa 2010-11 posts)",
-  "result": "INCOMPLETE: IA was 'Temporarily Offline' for most of the session; only about 10 pages fetched (no hits) plus the voipsa author page (positive, reported). Job left running on ubuntu@51.158.36.151: ~/wb_tech2007_fetch.py (resumable via ~/wb_tech2007/done2.txt), hits in ~/wb_tech2007/hits2.jsonl, 'FETCH2 FINISHED' in ~/wb_tech2007/log.txt when done; failures in fail2.txt."
+  "result": "COMPLETED 2026-10-23 (253/255 fetched; failed: privatewave.com/display/WS/Company 20120927, voipsa 2011/08/02 post). No hit on any privatewave.com/.it, support.privatewave.com, privategsm.com, khamsa.it or zorg.org page (company/press/ZRTP/ZORG pages never name him). Hits: voipsa author page (reported); voipsa 2010-08-04 'Blackberries and Lawful Intercept' has a reader COMMENT by him (11/08/2010, mentions he is developing a ZRTP client for BlackBerry) - blog comment, not counted; other voipsa pages only list him in the authors sidebar; voipsa 2010-10-05 post known; osxcrypt.org 2008 archive/category pages = copies of the known release post, staff page known, devel_osxcrypt.org pipermail archives Dec 2007-Jan 2008 = mailing list (not counted); infosecurity.ch 2008 'author' page reported (low value), other 2008 pages only link the known Feb 2007 post; sikurezza.org wiki hits = Infosecurity06/07, Itbh, Smau05, Webbit02 pages for 2002-2007 events (event pages already covered by earlier passes)."
  },
  {
   "source": "Web Archive CDX: ohloh/openhub accounts naif + fpietrosanti, freshmeat ~naif, launchpad ~naif, code.google.com u/naif + p/privategsm, zfoneproject.com, fabio.pietrosanti.it 2007-2011, www.khamsa.it",
-  "result": "INCOMPLETE (IA offline): ~/wb_tech2007_cdx2.sh on the server, output ~/wb_tech2007/cdx/*.cdx2 and cdx2.log; any file containing the IA 'Temporarily Offline' HTML page must be redone."
+  "result": "CDX lists obtained (server ~/wb_tech2007/cdx/*.cdx2): zfoneproject.com 293, www.khamsa.it 61, fabio.pietrosanti.it 2007-2011 2; ohloh/freshmeat/code.google privategsm files (14 lines) are IA offline pages = not checked; launchpad/google code u/naif 0. Captures NOT yet fetched/grepped (remaining work)."
  },
  {
   "source": "Blocked or unavailable this pass",
