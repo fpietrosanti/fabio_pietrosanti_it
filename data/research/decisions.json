@@ -858,6 +858,10 @@
   {
    "url": "https://zh.wikipedia.org/zh-cn/GlobaLeaks",
    "reason": "2026-10-22: versione cinese della voce Wikipedia GlobaLeaks, già in archivio in inglese (stessa regola delle versioni linguistiche)"
+  },
+  {
+   "url": "https://www.commsbusiness.co.uk/content/news/privatewave-launches-mobile-phone-anti-tapping-solution",
+   "reason": "2026-10-23: copia dal Web Archive letta per intero: comunicato sul lancio di PrivateWave EVSS, non nomina né Fabio né «naif» (regola «senza nome»)"
   }
  ],
  "override": [
@@ -1154,6 +1158,14 @@
     "role": "author",
     "note": "Text of Hermes' contribution to the government FOIA review meeting, signed Fabio Pietrosanti (Wayback) Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22)."
    }
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=_S19ka5fy2Q",
+   "set": {
+    "verified": true,
+    "role": "interviewed",
+    "note": "TVtech video 574 (http://www.tvtech.it/video/574/intercettazioni-gsm-piu-facili-di-quanto-si-creda/, published 08/02/2010, Wayback 20100212050926; re-uploaded on YouTube by 'Hardware Upgrade - Archivio' on 2010-03-04). Its description says 'Ecco il parere dell'esperto di Khamsa'. Neither the page nor the YouTube description gives his name, and the video has no subtitles. The already-known tuttovolume.net article (2010-02-09) says 'TVtech ha intervistato Fabio Pietrosanti, responsabile tecnico della Khamsa' on this topic, so the expert is almost certainly him. This is the source video for that known item; the follow-up video 598 (YouTube L4beB3qQjVw) is already known. VERIFICATO 2026-10-23 dalla trascrizione Whisper della copia locale (2010/55e810e2d0aa, 00:17): «parere di Fabio Pietrosanti, security manager di Khamsa»."
+   }
   }
  ],
  "open_questions": [
@@ -1163,7 +1175,10 @@
   },
   "2026-09-26 Sky TG24 02/07/2013 'Datagate, il mondo delle spie visto da dentro' (v164249): video scaricato e visto per intero (2'07\"): l'unico intervistato e' Matteo Flora ('Esperto di sicurezza - Fondatore di The Fool'); Fabio non compare, ne' nome ne' voce. La voce veniva solo dalla pagina News/Press di Hermes. Escludere (regola: senza nome non e' lui) o c'era un altro servizio Sky?",
   "2026-10-02 Pyongyang 2019 / caso Griffith: trovate 12 voci che ti citano (CoinDesk 03/12/2019 intervista, 2600 Off The Hook 04/12/2019 in diretta dall'Italia, MIT Technology Review, AMBCrypto, CoinReaders KR, Substack Taylor Simone 2021, British GQ 2022). Ricordi altre interviste (TV, radio, podcast) su Pyongyang/Griffith, o una testimonianza agli avvocati di Griffith?",
-  "2026-10-22 Webbit 05: hai ancora il file dell'intervista ai relatori (05_FabioPietrosanti.rtf, area Sicurezza curata da Stefano Zanero)? Il Web Archive non l'ha mai salvato."
+  "2026-10-22 Webbit 05: hai ancora il file dell'intervista ai relatori (05_FabioPietrosanti.rtf, area Sicurezza curata da Stefano Zanero)? Il Web Archive non l'ha mai salvato.",
+  "2026-10-23 Rai 3 TGR Neapolis 29/12/2009 «Telefonate protette» (PrivateGSM di Khamsa): eri tu l'intervistato? Il post del blog Neapolis non è mai stato archiviato; hai una registrazione?",
+  "2026-10-23 Class Life (Class Editori TV, feb. 2010), video PrivateWave/PrivateGSM: eri tu? Mai archiviato.",
+  "2026-10-23 Rassegna stampa PrivateWave 2010 (39 PDF: Economy, L'Espresso, Il Mondo, Il Sole 24 Ore 28/11/2010…): hai ancora i PDF? Il sito è 403 e il Web Archive non li ha."
  ],
  "answers_2026_10_05": {
   "A0.1 dati personali scuole": "non interessa, va bene così: nessuna richiesta di oscuramento; le copie restano solo nell'archivio privato",

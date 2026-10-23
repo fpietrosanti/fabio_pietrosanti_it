@@ -179,6 +179,22 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-sexdecies. 2026-10-23
+- **Risolti**: 5 podcast solo audio verificati con Whisper (BBC Lazarus Heist S2E7 — qui sei intervistato —, Bloomberg
+  «Man in Spain», Valigia Blu 2020, DataKnightmare 6x28, Crypto Conversation 2021); video TVtech 2010 verificato dalla
+  trascrizione; **14 post del vecchio sito Hermes** passati da 🟡 a ottenuti (attribuiti a te come presidente, tua
+  decisione del 22/10); pr-foundation «5 novembre Milano» chiusa (già esclusa il 19/10); Comms Business chiusa (senza nome).
+- **Secunia SA22634**: la ristampa su Packet Storm resta dietro anti-bot, ma il testo originale Secunia (Web Archive
+  2007, «Provided and/or discovered by: Fabio Pietrosanti») ora è salvato anche nella sua cartella (era già la voce
+  3b883128af23).
+- **Nuovi ❌ con motivo**: Rai 3 Neapolis 29/12/2009 e video Class Life 2010 (mai archiviati), brevetto US20130252585
+  (Google Patents anti-bot, non aggirato).
+- **Invariati**: RTF Webbit 05, Radio Monte Carlo 2010, PrivateWave EN/ES, deck Foggia (410), coinage.it, 2 notizieoggi,
+  CyberCoach solo pagina, 🟠 Sogou; 🟡 restano solo la rassegna stampa PrivateWave (pagina indice) e TVtech 598.
+- **Domande per te:** (a) **Neapolis (Rai 3) 29/12/2009 «Telefonate protette»** sul PrivateGSM: eri tu? hai la
+  registrazione? (b) **Class Life** feb. 2010: eri tu? (c) Hai ancora i **PDF della rassegna stampa PrivateWave 2010**
+  (Economy, L'Espresso, Il Mondo, Il Sole 24 Ore 28/11/2010 e altri ~35)?
+
 ### B0-quindecies. 2026-10-22
 - Copie delle voci nuove: La Stampa ×7, YouTube ×4 e pagina Webbit 05 / Packet Storm **ottenute**.
 - **Risolti al retry** (prima falliti per rete): audio Apple Podcasts «Scandal and turmoil» (2021) e 3 puntate Spreaker

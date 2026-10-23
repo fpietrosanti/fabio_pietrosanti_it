@@ -1,0 +1,102 @@
+[
+ {
+  "source": "e-privacy 2007 (VI), 2008 (VII), 2010 (IX) - e-privacy.winstonsmith.org edition pages (the -relatori/-interventi URLs for these years return a generic 36 KB page)",
+  "query": "pietrosanti | naif",
+  "result": "Not named. IA advancedsearch identifier:pws_e-privacy_20* returns only his 2005, 2009 (known) and 2012 items."
+ },
+ {
+  "source": "Internet Archive advancedsearch (metadata) pietrosanti AND year:[2007 TO 2010]",
+  "query": "pietrosanti",
+  "result": "Only the known e-privacy 2009 item."
+ },
+ {
+  "source": "CCC 24C3, 25C3, 26C3, 27C3 Fahrplan speakers.en.html + Chaos Communication Camp 2007 Fahrplan speakers",
+  "query": "pietrosanti | naif",
+  "result": "Not listed. api.media.ccc.de search 'pietrosanti' returns only SHA2017 (out of range)."
+ },
+ {
+  "source": "End Summer Camp wiki: MediaWiki search API (srwhat=text) + ESC08-Programma, ESC08-Materiali, ESC07-Materiali",
+  "query": "naif | pietrosanti",
+  "result": "Only pages already known (ESC07-Programma, ESC09-Programma, ESC09-Materiali, ESC10-Schedule, HAR-microemb) plus out-of-range ESC14/ESC15. ESC08: he is not named."
+ },
+ {
+  "source": "Clusit newsletters 2007, 2009, 2010 (38 PDFs from Wayback CDX, downloaded on the server, pdftotext)",
+  "query": "pietrosanti | naif | privatewave | khamsa",
+  "result": "Only known hits (15/03/09, 08/03/10, 27/05/10, 31/03/10 sponsor). 31/03/10 also lists 'KHAMSA Italia (Milano)' among members, without his name."
+ },
+ {
+  "source": "SlideShare profiles fpietrosanti and privatewave",
+  "query": "deck list",
+  "result": "Every fpietrosanti deck from 2003-2010 is known. The privatewave account's new copies are reported in raw; its 'privacy story' (IT/EN) marketing decks were not checked one by one. privategsm-voice-encryption-technical-overview (7664983) is from 2011."
+ },
+ {
+  "source": "WhyMCA (whymca.org) Wayback 2010-2011, about 272 URLs",
+  "query": "pietrosanti",
+  "result": "Hits reported in raw (2010 and 2011 talks). The 21 Oct 2010 'happyhour il mobile che ci aspetta' page does not name him."
+ },
+ {
+  "source": "Security Summit Milano 2009/2010 (milano.securitysummit.it Wayback, 60 URLs) and www.securitysummit.it 2008-2010",
+  "query": "pietrosanti | privatewave",
+  "result": "Hits reported in raw. 2010 keynote/event pages show only the PrivateWave sponsor logo. No capture of milano.securitysummit.it/relatori/view/80."
+ },
+ {
+  "source": "infosecurity.it Wayback 2007-2010 (352 URLs, filtered programme/convegni/area/demo)",
+  "query": "pietrosanti | naif | privatewave | khamsa",
+  "result": "Not named."
+ },
+ {
+  "source": "SMAU (smau.it) Wayback 2007-2010 (9041 URLs, first 400 filtered agenda/convegni/relatori/seminari/programma)",
+  "query": "pietrosanti | naif | privatewave | khamsa",
+  "result": "Not named in the sample checked. Not exhaustive: only the first 400 matching URLs were fetched."
+ },
+ {
+  "source": "OWASP Italy Day 1-5 (wiki.owasp.org/index.php/Italy_OWASP_Day_1..5, Italy chapter page, AppSec EU 2008); Wayback owasp.org/index.php/Italy*",
+  "query": "pietrosanti | naif | khamsa",
+  "result": "Not named."
+ },
+ {
+  "source": "Linux Day 2007-2010 (linux.it/LinuxDay/* Wayback, 72 URLs)",
+  "query": "pietrosanti | naif",
+  "result": "Not named."
+ },
+ {
+  "source": "MOCA 2008 (moca.olografix.org Wayback 2008-09: only 2 URLs); Punto Informatico 'MOCA 2008: hacker camp e pwnage all'italiana'",
+  "query": "pietrosanti | naif",
+  "result": "Not named. The MOCA 2008 programme was not found in Wayback."
+ },
+ {
+  "source": "University of Trento Crypto Lab (science.unitn.it/~sala/*, Wayback 2009-2012)",
+  "query": "pietrosanti | privatewave",
+  "result": "The 2010 workshop page was not found. The 'cryptowars' 2011 crypto contest (OUT OF RANGE) has PrivateWave as sponsor and prize software (gara.html, sponsors.html), but his name does not appear. The 2010 talk stays documented only by the known SlideShare deck and blog post."
+ },
+ {
+  "source": "VoIP events: voip2day.com 2009-2011 (1 capture), astricon.net 2010-2011 (326 URLs, speaker/agenda pages), Last HOPE 2008 (thelasthope.org, 55 URLs); HITB Dubai 2008 and Last HOPE 'VoIP (in)Security - Italians Do It Better' (Pennasilico)",
+  "query": "pietrosanti | naif | privatewave | khamsa",
+  "result": "Not named. The VoIP talk about Italians at the CCC Camp 2007 phone network is credited to Alessio Pennasilico only."
+ },
+ {
+  "source": "DeepSec 2008-2010 (deepsec.net Wayback, 39 URLs); SEaCURE.IT 2009 (seacure.it, 25 URLs)",
+  "query": "pietrosanti | naif | privatewave | khamsa",
+  "result": "Not named."
+ },
+ {
+  "source": "hackingfilmfestival.it (Wayback)",
+  "query": "CDX",
+  "result": "No captures. The official page is on milano.securitysummit.it (reported in raw)."
+ },
+ {
+  "source": "YouTube via yt-dlp metadata: PrivateGSM, PrivateWave Pietrosanti, Khamsa PrivateGSM, Fabio Pietrosanti 2010, Pietrosanti naif; PrivateWave channel",
+  "query": "titles/descriptions",
+  "result": "PrivateWave channel videos (zIdOuNDJ488 2010-03-09 'PrivateGSM_come si utilizza', 2NWpiLjlfjE 2010-10-15 'Enterprise VoIP Security Suite', w2D6evDxrEM, HSOZhYboPjA) do not name him in the title or description. The other hits are out of range or already known."
+ },
+ {
+  "source": "WebSearch (~25 queries): WHYMCA, PrivateWave/Khamsa talks, ZRTP/Astricon/voip2day, Infosecurity 2008-2010, ISACA/AIPSI/IISFA/Forum PA, LIUC/universities, DeepSec/HITB/CONFidence/Black Hat EU, MOCA 2008, ESC 2008, SEaCURE.IT, Vimeo/blip.tv, CMAG/TVtech video",
+  "query": "various",
+  "result": "No new item beyond the leads above. 01net 'PrivateWave porta la sicurezza nel VoIp' is an article and was not checked as a talk. A FreeSWITCH list post (2010-04) does not count."
+ },
+ {
+  "source": "Blockers / residui",
+  "query": "-",
+  "result": "Wayback is 'Temporarily Offline' from the laptop, so all Wayback work ran from the server (ubuntu@51.158.36.151, /tmp/talks2007, removed at the end). CDX and playback had intermittent 503/504 errors and some page fetches failed silently, so a missed page cannot be excluded. Open residuals: the full SMAU 2007-2010 sweep beyond the first 400 URLs; the MOCA 2008 programme; a Trento Crypto Lab 2010 seminar announcement (unitn.it/disi events); Infosecurity Italia 2009/2010 Area Demo pages (sikurezza.org wiki has no I09/I10 pages in Wayback)."
+ }
+]

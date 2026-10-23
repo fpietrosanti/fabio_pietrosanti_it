@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1566**; dopo deduplica: **1138**
-- Già presenti sul vecchio sito: **52** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1086**
-- Verificati aprendo la pagina: **1071**; solo da risultato di ricerca: **67**
+- Risultati grezzi dalle ricerche: **1590**; dopo deduplica: **1154**
+- Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
+- **Nuovi rispetto al vecchio sito: 1099**
+- Verificati aprendo la pagina: **1087**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 228, tweet 132, Talk 89, Video 76, Post sul blog infosecurity.ch 72, Citato 52, article 42, Progetto 33, Altro 32, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 7, audio 7, Capitolo di libro 6, programme 6, articolo 6, village 5, Brevetto 5, evento 5, pagina 5, panel 4, code repository 4, Tesi 3, software 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 228, tweet 132, Talk 91, Video 77, Post sul blog infosecurity.ch 72, Citato 53, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, audio 7, Capitolo di libro 6, Brevetto 6, pagina 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -27,10 +27,10 @@ Per tipo (nuovi): Menzionato 228, tweet 132, Talk 89, Video 76, Post sul blog in
 | 2006 | 4 | 13 | 3 |
 | 2007 | 1 | 13 | 10 |
 | 2008 | 0 | 13 | 13 |
-| 2009 | 1 | 46 | 44 |
-| 2010 | 6 | 65 | 55 |
-| 2011 | 4 | 29 | 26 |
-| 2012 | 0 | 37 | 37 |
+| 2009 | 1 | 48 | 46 |
+| 2010 | 6 | 77 | 64 |
+| 2011 | 4 | 30 | 27 |
+| 2012 | 0 | 38 | 38 |
 | 2013 | 0 | 32 | 32 |
 | 2014 | 0 | 29 | 29 |
 | 2015 | 0 | 45 | 45 |
@@ -203,8 +203,8 @@ Anni senza nessun risultato: nessuno
   Registrazione dell'evento Copernicani del 17/05/2023 (pagina annuncio copernicani.it/privacy-by-design-e-privacy-coins/ già in archivio). Snippet della descrizione nei risultati di ricerca YouTube: «Presenta Fabio Pietrosanti. Proveniente dall'underground hacker, Fabio lavora nella ...». Data di upload non letta (YouTube ha risposto 429 al server); «3 anni fa» nei risultati.
 - 🆕 **2023-05-16** · Menzionato · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html)  
   Complaint to the Garante referencing his September 2022 FOIA to schools
-- 🆕 **2023-05-07** · audio · BBC World Service - Cyber Hack / The Lazarus Heist — [The Lazarus Heist S2: 7. Crypto comrades](https://www.bbc.co.uk/programmes/w3ct5fc4) _(non verificato)_  
-  Episodio sulla conferenza crypto di Pyongyang del 2019 («Eight international tech experts decide to go»). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple); il riassunto di podwise.ai non lo nomina. Da verificare all'ascolto. Audio: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fgqj49.mp3 ; Apple: https://podcasts.apple.com/us/podcast/the-lazarus-heist-s2-7-crypto-comrades/id1561990291?i=1000608965765
+- 🆕 **2023-05-07** · audio · BBC World Service - Cyber Hack / The Lazarus Heist — [The Lazarus Heist S2: 7. Crypto comrades](https://www.bbc.co.uk/programmes/w3ct5fc4)  
+  Episodio sulla conferenza crypto di Pyongyang del 2019 («Eight international tech experts decide to go»). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple); il riassunto di podwise.ai non lo nomina. Audio: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fgqj49.mp3 ; Apple: https://podcasts.apple.com/us/podcast/the-lazarus-heist-s2-7-crypto-comrades/id1561990291?i=1000608965765 VERIFICATO 2026-10-23 dalla trascrizione Whisper della copia locale (2023/9ea259d2c7db): Fabio è INTERVISTATO — si presenta a 10:49 («This is Fabio Pietrosanti»), poi 12:20-20:22 racconta con Chris (Emms) la conferenza di Pyongyang 2019 («Fabio says the group develops a sort of mantra…», l'hotel bar).
 - 🆕 **2023-04-19** · Menzionato · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html)  
   Confermato da Fabio 2026-09-25 (è lui: Fabio Pietrosanti di Latina, figlio della sig.ra Dolores). Contesto: la candidata sindaco Matilde Celentano visita la GLS accompagnata da Fabio Pietrosanti.
 - 🆕 **2023-04-19** · Menzionato · Latina TU (latinatu.it) — [Latina, Celentano in visita al Gsl: "Un'eccellenza che investe sul territorio"](https://latinatu.it/latina-celentano-in-visita-al-gsl-uneccellenza-che-investe-sul-territorio/)  
@@ -306,8 +306,8 @@ Anni senza nessun risultato: nessuno
   Syndicated version of the known Key4biz article (MonitoraPA, Pietrosanti); Cloudflare-blocked, not opened; date assumed from Key4biz
 - 🆕 **2022-05-25** · Citato · Key4biz — [Google Analytics in PA. 3.400 siti l'hanno rimosso, grazie a MonitoraPa: "Ora esposto al Garante Privacy"](https://www.key4biz.it/google-analytics-in-pa-3-400-siti-lhanno-rimosso-grazie-a-monitorapa-a-fine-mese-faremo-anche-esposto-al-garante-privacy/405043/)  
   Luigi Garofalo; 7,833 PECs sent, 3,399 PAs removed GA in 2 weeks
-- 🆕 **2022-05-23** · audio · DataKnightmare (Walter Vannini) — [DK 6x28 - MonitoraPA e le prese sul Titanic](https://www.spreaker.com/episode/dk-6x28-monitorapa-e-le-prese-sul-titanic--49902887) _(non verificato)_  
-  Puntata interamente su MonitoraPA («L'idea di un gruppo di cittadini hacker attivisti»); il nome di Fabio non è nella descrizione, ma iTunes indicizza l'episodio anche per «Pietrosanti» (probabile trascrizione).
+- 🆕 **2022-05-23** · audio · DataKnightmare (Walter Vannini) — [DK 6x28 - MonitoraPA e le prese sul Titanic](https://www.spreaker.com/episode/dk-6x28-monitorapa-e-le-prese-sul-titanic--49902887)  
+  Puntata interamente su MonitoraPA («L'idea di un gruppo di cittadini hacker attivisti»); il nome di Fabio non è nella descrizione, ma iTunes indicizza l'episodio anche per «Pietrosanti» (probabile trascrizione). VERIFICATO 2026-10-23 dalla trascrizione Whisper della copia locale (2022/2af08eb1aa68, 05:16-05:46): Vannini nomina Centro Hermes e Copernicani e invita a guardare «l'intervista a Fabio Naif Pietrosanti» del Sole 24 Ore su Twitch.
 - 🆕 **2022-05-22** · Video · Info Data - Il Sole 24 Ore (#ThinkTallyTalk) — [La Pa che usa Google Analytics rispetta le regole della privacy? #ThinkTallyTalk](https://www.infodata.ilsole24ore.com/2022/05/22/la-pa-usa-google-analytics-rispetta-le-regole-della-privacy-thinktallytalk/)  
   Video interview on MonitoraPA and Web Analytics Italia
 - 🆕 **2022-05-20** · Intervista · Info Data - Il Sole 24 Ore — [La Pubblica amministrazione che usa Google Analytics rispetta le regole della privacy? L'iniziativa MonitoraPA spiegata bene](https://www.infodata.ilsole24ore.com/2022/05/20/la-pubblica-amministrazione-rispetta-le-regole-della-privacy-cosi-funziona-losservatorio-monitorapa/)  
@@ -379,8 +379,8 @@ Anni senza nessun risultato: nessuno
   Phone interview with him on 2021-09-30: 'I called Fabio Pietrosanti'. Contains a Q&A ('FP: At the conference we were prohibited...'), a bio, and a reference to his 2019 2600 podcast appearance. 13 name hits. Verified live 2026-10-02.
 - 🆕 **2021-10-15** · tweet · Twitter/X @fpietrosanti — [A Ethan Lou: «Anything recently new interesting?»](https://twitter.com/fpietrosanti/status/1449136122928447491)  
   Testo integrale: "@Ethan_Lou Anything recently new interesting?". Scrive a Ethan Lou (giornalista compagno di viaggio a Pyongyang, autore del pezzo The Walrus e del libro) due settimane dopo il patteggiamento; contatto di contesto, contenuto minimo. Testo letto il 2026-10-05 dall'endpoint pubblico cdn.syndication.twimg.com/tweet-result (autore screen_name fpietrosanti); capture Wayback 20211015221237.
-- 🆕 **2021-10-14** · audio · The Crypto Conversation (Brave New Coin) — [Scandal and Turmoil - The Cryptocurrency Wild West](https://podcasts.apple.com/us/podcast/scandal-and-turmoil-the-cryptocurrency-wild-west/id1471243424?i=1000538523963) _(non verificato)_  
-  Intervista a Ethan Lou, autore di «Once a Bitcoin Miner» (Pyongyang 2019, Virgil Griffith). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto. Audio: https://traffic.libsyn.com/secure/thecryptoconversation/ethan_FIN.mp3
+- 🆕 **2021-10-14** · audio · The Crypto Conversation (Brave New Coin) — [Scandal and Turmoil - The Cryptocurrency Wild West](https://podcasts.apple.com/us/podcast/scandal-and-turmoil-the-cryptocurrency-wild-west/id1471243424?i=1000538523963)  
+  Intervista a Ethan Lou, autore di «Once a Bitcoin Miner» (Pyongyang 2019, Virgil Griffith). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Audio: https://traffic.libsyn.com/secure/thecryptoconversation/ethan_FIN.mp3 VERIFICATO 2026-10-23 dalla trascrizione Whisper della copia locale (2021/739590054d09, 10:34): Ethan Lou cita «a cybersecurity specialist, Fabio Pietrosanti from Italy» tra gli otto partecipanti al viaggio in Corea del Nord.
 - 🆕 **2021-10-04** · tweet · Twitter/X @fpietrosanti — [«North Korea informant reward program» (tweet poi cancellato)](https://twitter.com/fpietrosanti/status/1445016576684699657)  
   Testo integrale: "North Korea informant reward program https://dprkrewards.com/" (ora del tweet 6:22 AM PT, 4 Oct 2021). Una settimana dopo il patteggiamento di Griffith (27/09/2021) segnala il programma USA di ricompense per informazioni sull'evasione delle sanzioni nordcoreane. Tweet cancellato: la syndication restituisce TweetTombstone; testo letto dalla capture Wayback https://web.archive.org/web/20211004132312id_/https://twitter.com/fpietrosanti/status/1445016576684699657 (HTML 200, data-screen-name fpietrosanti, titolo «Fabio Pietrosanti on Twitter»), scaricata il 2026-10-05 dal server con User-Agent da browser.
 - 🆕 **2021-09-30** · tweet · Twitter (@fpietrosanti) — [Relevant narrative on Virgil Griffith arrest by @emmangoldstein /cc @Ethan_Lou](https://twitter.com/fpietrosanti/status/1443670064679563267)  
@@ -744,8 +744,8 @@ Anni senza nessun risultato: nessuno
   Testo: «@Virdiesse @quinta @VincenzoTiani @arturodicorinto @carloalberto @carlopiana @meobaldo @ORARiccardo @faffa42 @AternoStefano @fpmicozzi @gbgallus @lastknight @martinapennisi @raistolo @fattoquotidiano Chissà se il contenuto di questo scambio di lettere, e quindi il tipo di protocollo di disponibilità alla collaborazione nella raccolta di tabulati e dati di cella, sia FOIAizzabile?» Wayback capture 20200508031254 (id_) di twitter.com/fpietrosanti/status/1256584313631641602.
 - 🆕 **2020-05-01** · Menzionato · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain)  
   verified via wayback; context: …nvitation, except for journalists and residents of South Korea, Japan, and Israel. Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti. He says the two-day event was strange: Th…
-- 🆕 **2020-05-01** · audio · Bloomberg - Listen to the Story — [North Korea's Man in Spain](https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain) _(non verificato)_  
-  Versione audio dell'articolo Bloomberg Businessweek di Josh Dean su Alejandro Cao de Benós (articolo già noto). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Da verificare all'ascolto. Apple: https://podcasts.apple.com/us/podcast/north-koreas-man-in-spain/id1578781150?i=1000530340359
+- 🆕 **2020-05-01** · audio · Bloomberg - Listen to the Story — [North Korea's Man in Spain](https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain)  
+  Versione audio dell'articolo Bloomberg Businessweek di Josh Dean su Alejandro Cao de Benós (articolo già noto). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Apple: https://podcasts.apple.com/us/podcast/north-koreas-man-in-spain/id1578781150?i=1000530340359 VERIFICATO 2026-10-23 dalla trascrizione Whisper (2020/d89f8f1c3c55, 11:17-12:48): «Eight foreigners attended, including Italian information security specialist Fabio Pietrosanti», poi il pagamento di 7.100 euro per il lavoro di design e i programmatori nordcoreani.
 - 🆕 **2020-04-30** · social · Twitter/X (@fpietrosanti) — [Quindi la app Immuni conserva i dati su Google Cloud?](https://twitter.com/fpietrosanti/status/1255938339347271680)  
   Commento alla relazione su Immuni della task force COVID-19 (sgdl8_relazione_immuni.pdf). Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-04-28** · Video · CRS Scuola Critica del Digitale + Forum Disuguaglianze e Diversita (webinar) — [Che cosa c'e dentro l'App per il contact tracing?](https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/)  
@@ -858,8 +858,8 @@ Anni senza nessun risultato: nessuno
   Testo: «@_andrea_lisis @meobaldo @gpdoria @manufalcetti @FrancoCardin1 @PaolaPisano_Min @rafbarberio @matteorenzi @nzingaretti Effettivamente la reiterazione dei problemi di sicurezza di Rousseau e del movimento 5 stelle come primario irresponsabile della sicurezza dei dati di centinaia migliaia di persone dovrebbe far riflettere anche queste sedi locali del pd per i loro iscritti locali.» Wayback capture 20200218094231 (id_) di twitter.com/fpietrosanti/status/1229700501744300037.
 - 🆕 **2020-02-16** · Citato · Valigia Blu — [Come CIA e servizi segreti tedeschi hanno spiato alleati e avversari vendendo macchine antispionaggio](https://www.valigiablu.it/cia-germania-spionaggio-alleati/)  
   Crypto AG affair; Pietrosanti (co-founder Khamsa/PrivateWave) tells Valigia Blu about Italian/German crypto-phone vendors replacing the Swiss
-- 🆕 **2020-02-15** · audio · Valigia Blu (podcast) — [Come Cia e Bnd hanno spiato le diplomazie mondiali vendendo macchine antispionaggio](https://podcasters.spotify.com/pod/show/valigiablu/episodes/Come-Cia-e-Bnd-hanno-spiato-le-diplomazie-mondiali-vendendo-macchine-antispionaggio-eas0d2) _(non verificato)_  
-  Versione audio dell'articolo Valigia Blu del 16/02/2020 (già in archivio, cita Pietrosanti sul caso Crypto AG). L'API iTunes Search (entity=podcastEpisode, term=Pietrosanti) restituisce l'episodio, ma la descrizione testuale non contiene il nome: corrispondenza quasi certamente dalla trascrizione automatica Apple dell'audio. Da verificare all'ascolto. Apple: https://podcasts.apple.com/us/podcast/come-cia-e-bnd-hanno-spiato-le-diplomazie-mondiali/id1497594850?i=1000465704985
+- 🆕 **2020-02-15** · audio · Valigia Blu (podcast) — [Come Cia e Bnd hanno spiato le diplomazie mondiali vendendo macchine antispionaggio](https://podcasters.spotify.com/pod/show/valigiablu/episodes/Come-Cia-e-Bnd-hanno-spiato-le-diplomazie-mondiali-vendendo-macchine-antispionaggio-eas0d2)  
+  Versione audio dell'articolo Valigia Blu del 16/02/2020 (già in archivio, cita Pietrosanti sul caso Crypto AG). L'API iTunes Search (entity=podcastEpisode, term=Pietrosanti) restituisce l'episodio, ma la descrizione testuale non contiene il nome: corrispondenza quasi certamente dalla trascrizione automatica Apple dell'audio. Apple: https://podcasts.apple.com/us/podcast/come-cia-e-bnd-hanno-spiato-le-diplomazie-mondiali/id1497594850?i=1000465704985 VERIFICATO 2026-10-23 dalla trascrizione Whisper (2020/baede58337bd, 24:15-24:40): «come racconta a Valigia Blu Fabio Pietrosanti, che è stato cofondatore di Khamsa, poi PrivateWave».
 - 🆕 **2020-02-15** · tweet · Twitter — [EFF/MIT su Voatz, Brescia e voto online](https://twitter.com/fpietrosanti/status/1228742138814353409)  
   Testo: «[ITA] L’EFF condivide la ricerca del MIT sul perché il Voto Online è sbagliato.  In Italia l’onorevole @g_brescia, dichiara che alle prossime elezioni in Italia si voterà online, procedendo senza dibattito pubblico con l'accademia ed esperti di cybersecurity.  #votoelettronico https://t.co/A1E7uylpBt» Link: https://internetpolicy.mit.edu/wp-content/uploads/2020/02/SecurityAnalysisOfVoatz_Public.pdf. Wayback capture 20200215195211 (id_) di twitter.com/fpietrosanti/status/1228742138814353409.
 - 🆕 **2020-02-14** · tweet · Twitter — [Difendiamo la democrazia dal Rousseau di Stato](https://twitter.com/fpietrosanti/status/1228323803299794944)  
@@ -1638,7 +1638,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2013** · Altro · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/)  
   PDF speaker database entry, no sessions listed (year approximate)
 
-## 2012 — 37 voci, 37 nuove
+## 2012 — 38 voci, 38 nuove
 
 - 🆕 **2012-11-19** · programme · e-privacy 2012 Winter Edition, Politecnico di Torino / Centro Nexa — [E-government & e-democracy: prospettive ed implicazioni sulla privacy - programma (tavola rotonda Sicurezza e controllo)](https://nexa.polito.it/wp-content/uploads/2012/11/2012-egovernment-programma.pdf)  
   verified via pdftotext (Google 2026-10-12 20:29); context: SICUREZZA E CONTROLLO (tavola rotonda) Moderatore: Fabio Pietrosanti (Hermes center for transparency and digital human rights)
@@ -1714,8 +1714,10 @@ Anni senza nessun risultato: nessuno
   IJF12 Perugia session
 - 🆕 **2012** · Talk · International Journalism Festival 2012 — [Firewall di nuova generazione](https://www.festivaldelgiornalismo.com/programme/2012/firewalls)  
   IJF12 Perugia session
+- 🆕 **2012** · Brevetto · Google Patents US20130252585A1 — [US20130252585 (surfaced by web search for PrivateWave/Pietrosanti; content unknown)](https://patents.google.com/patent/US20130252585A1/en) _(non verificato)_  
+  UNVERIFIED LEAD: appeared (as google.de/patents/US20130252585) in a web search for 'slideshare PrivateWave Pietrosanti mobile voice encryption'. Google Patents answered 'Sorry'/503 during this pass, so it is unknown whether it cites PrivateGSM/PrivateWave or Fabio (possibly a non-patent-literature citation). Not his patent: the inventor search lists only the known Khamsa family.
 
-## 2011 — 29 voci, 26 nuove
+## 2011 — 30 voci, 27 nuove
 
 - 🆕 **2011-12-11** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks](https://www.hermescenter.org/radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks/)  
   names Fabio: … 10/12/2011 Radio Radicale, Globaleaks, la “public disclosure” oltre Wikileaks. Intervista a Marco Calamari e a Fabio Pietrosanti. di Roberto Spagnoli La “public disclosure”, cioè la pubblicazione di informazioni riservate, che in certi casi può ave… — restored in hermescenter/hermescenter.org-restoration id radio-radicale-globaleaks-la-public-disclosure-oltre-wikileaks
@@ -1737,6 +1739,8 @@ Anni senza nessun risultato: nessuno
   GlobaLeaks project at CCC Camp 2011; Naif listed among people
 - 🆕 **2011-08-10** · Altro · Chaos Communication Camp 2011 wiki — [Italian Embassy (village)](https://events.ccc.de/camp/2011/wiki/Italian_Embassy)  
   Italian Hackers' Embassy at CCC Camp 2011; 'naif' listed as contact and as citizen (Fabio Pietrosanti, GlobaLeaks)
+- 🆕 **2011-05-20** · Talk · WhyMCA Mobile Developer Conference 2011 (20-21 maggio 2011) — [Sicurezza dei dispositivi e delle comunicazioni mobile: An in-depth overview](https://web.archive.org/web/20110522002605/http://www.whymca.org/intervento/sicurezza-dei-dispositivi-e-delle-comunicazioni-mobile-depth-overview)  
+  OUT OF WINDOW (2011), found as a by-product and missing from media.json. The official talk page (Wayback 20110522002605) gives the abstract (security models of iPhone/Android/Blackberry/Nokia S60; SSL/TLS stacks on smartphones; crypto export control) and 'Relatore: Fabio Pietrosanti, Sala/Track: Crossplatform, Slot: 10:30 - 11:20, Giorno: Venerdi, May 20, 2011'. Also listed on the agenda pages https://web.archive.org/web/20110427040216/http://www.whymca.org/agenda/dev-conf-hackaton-maggio-2011 and https://web.archive.org/web/20110522190737/http://www.whymca.org/agenda-mobile/.
 - 🆕 **2011-04-22** · Video · La Stampa (YouTube channel) — [globaleaks ok](https://www.youtube.com/watch?v=V15zXYu5Xgw) _(non verificato)_  
   La Stampa video on GlobaLeaks uploaded right after IJF 2011 (where he spoke); no description, his appearance not confirmed
 - 🆕 **2011-04-14** · Menzionato · umbria24.it — [Festival del giornalismo, venerdì con Travaglio, Vauro e Carlo De Benedetti (IJF 2011, The Hacker’s Corner Workshop #5 – docente)](https://www.umbria24.it/attualita/festival-del-giornalismo-venerdi-con-travaglio-vauro-e-carlo-de-benedetti/)  
@@ -1776,8 +1780,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2011** · Progetto · GitHub — [fpietrosanti (Fabio (naif) Pietrosanti)](https://github.com/fpietrosanti)  
   GitHub profile, company Hermes Center
 
-## 2010 — 65 voci, 55 nuove
+## 2010 — 77 voci, 64 nuove
 
+- 🆕 **2010-11-03** · pagina · Voice of VOIPSA (voipsa.org blog, VoIP Security Alliance) — [Voice of VOIPSA » Fabio Pietrosanti (author page)](https://web.archive.org/web/20101103070436/http://voipsa.org/blog/author/fpietrosanti/)  
+  Contributor/author archive page on the VOIPSA blog. Wayback capture 20101103070436 (read 2026-10-23 via id_ capture): header 'Voice of VOIPSA » Fabio Pietrosanti', post 'Tuesday, October 5th, 2010 by Fabio Pietrosanti', signature 'Fabio Pietrosanti (naif) – http://fabio.pietrosanti.it'; he is listed among the VOIPSA blog authors (with Dan York, David Endler, Shawn Merdinger etc.). The only post on the page is the already-known 'VoIP Firewall: Telephony vs Security world' (2010-10-05). Live voipsa.org returns HTTP 500.
 - 🆕 **2010-11-02** · Talk · SlideShare (PrivateWave Italia) — [Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryption AGT)](https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072)  
   Slides by Fabio Pietrosanti, CTO PrivateWave (PrivateGSM, ZRTP); date from upload
 - 🆕 **2010-10-25** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Encrypted mobile to landline phone calls with Asterisk 1.8](https://web.archive.org/web/2012/http://infosecurity.ch/20101025/encrypted-mobile-to-landline-phone-calls-with-asterisk-1-8/)  
@@ -1852,6 +1858,10 @@ Anni senza nessun risultato: nessuno
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2010-05-25** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Exploit code against SecurStar DriveCrypt published](https://web.archive.org/web/2012/http://infosecurity.ch/20100525/hackers-doesnt-like-securstar-products-exploit-code-against-drivecrypt-published/)  
   Post on his personal blog (site offline; Wayback copy)
+- ↺ **2010-05-21** · Talk · WhyMCA Spring 2010 - Mobile Developer Conference, Politecnico di Milano (Bovisa) — [Mobile security and privacy (scheda intervento / abstract)](https://web.archive.org/web/20100413051917/http://www.whymca.org/topic/mobile-security-and-privacy)  
+  Official talk page on whymca.org (Wayback capture 20100413051917, read from the server). Full Italian abstract on enterprise mobile security plus an English draft outline (mobile vs IT security, OS security models, GSM/UMTS/SMS/MMS/Bluetooth/WiFi/NFC attack vectors, economic risks). Ends with 'Nome e Cognome: Fabio Pietrosanti Orario: 10:50-11:35 Tag Speech 2010 Approvato'. The slides (SlideShare 4392945) and the 2010-06-02 blog post are already in media.json; this official event page is not.
+- ↺ **2010-05-21** · Talk · WhyMCA Spring 2010 - Mobile Developer Conference, Politecnico di Milano (Bovisa) — [Agenda WhyMCA Spring 2010 - 'Mobile security and privacy', Fabio Pietrosanti, 10:50-11:35](https://web.archive.org/web/20100410200011/http://www.whymca.org/page/agenda-whymca-spring-2010)  
+  Official agenda (Wayback 20100410200011): in the 10:50-11:35 slot, 'Mobile security and privacy Fabio Pietrosanti' appears next to talks by Brogonzoli, Cavallini and Franzini. The room page 'Interventi Aula CT59' (https://web.archive.org/web/20100525050146/http://www.whymca.org/aula/ct59) also lists 'Mobile security and privacy Fabio Pietrosanti 10:50-11:35'. Event date is 21 May 2010 (Friday, per the iPhoneItalia/macitynet announcements).
 - ↺ **2010-05-21** · Slide · SlideShare (WHYMCA 2010) — [2010: Mobile Security - WHYMCA Developer Conference](https://www.slideshare.net/slideshow/2010-mobile-security-whymca-developer-conference/4392945)  
   WHYMCA mobile developer conference
 - 🆕 **2010-05-20** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Quantum cryptography broken](https://web.archive.org/web/2012/http://infosecurity.ch/20100520/quantum-cryptography-broken/)  
@@ -1868,24 +1878,38 @@ Anni senza nessun risultato: nessuno
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2010-04-12** · Articolo scritto · Data Manager Online — [Intercettazioni e molto di più](https://www.datamanager.it/news/sicurezza/intercettazioni-e-molto-di-pi)  
   Article on wiretapping and voice-encryption technologies written by Fabio Pietrosanti after his Security Summit Milan talk
+- 🆕 **2010-04** · Altro · SlideShare (PrivateWave Italia SpA account) — [Voice security and privacy - Today's solutions and technologies (re-upload of the March 2009 Security Summit deck)](https://www.slideshare.net/slideshow/voice-security-and-privacy-todays-solutions-and-technologies/3746617)  
+  Deck uploaded by the PrivateWave Italia SpA account. The extracted slide text includes 'March 2009 Fabio Pietrosanti CTO @ PrivateWave', so it is the Security Summit Milano 2009 talk. It is a company copy of a talk already known (fpietrosanti deck 1677364); the URL itself is new. Upload date estimated from the slideshow ID series (~April 2010).
+- ↺ **2010-04** · Altro · SlideShare (PrivateWave Italia SpA account) — [Mobile security - Intense overview (PrivateWave re-upload of the Security Summit 2010 deck)](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3746738/3746738)  
+  Description on the page: 'introduction to mobile security presented by Fabio Pietrosanti, CTO of PrivateWave'. It is the company-account copy of the deck from Security Summit Milano 18 March 2010 (fpietrosanti copy 3799661 is already known). Upload date estimated (~April 2010).
 - 🆕 **2010-03-25** · Video · TVtech / Hardware Upgrade — [PrivateWave: comunicazioni sicure al cellulare](https://www.youtube.com/watch?v=L4beB3qQjVw) _(non verificato)_  
   TV-tech interview with 'gli esperti di Khamsa' on PrivateWave anti-wiretap solutions; likely Pietrosanti (CTO) but name not in description
 - ↺ **2010-03-18** · Talk · Security Summit 2010 (Clusit), Milano, 16-18 March 2010 — [Percorso professionale tecnico: "Sicurezza e telefonia mobile"](https://clusit.it/wp-content/uploads/newsletter/newsletter_08_03_10.pdf)  
   Clusit Newsletter 8 marzo 2010, 'PROGRAMMA DEL 18 MARZO': '14:15-16:00 Percorso professionale tecnico "Sicurezza e telefonia mobile" Docente: Fabio Pietrosanti' (sole speaker). His site says 17 Mar 2010, but the official program says 18 March. The slides are 'Mobile Security - Intense overview'.
 - ↺ **2010-03-18** · Slide · SlideShare (Security Summit 2010) — [2010: Mobile Security - Intense overview](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3799661/3799661)  
   Already known (media.json date 2010-03-17). The official Milano program puts the session on 18 March 2010 (Clusit newsletter 08-03-2010).
+- 🆕 **2010-03-18** · Altro · Security Summit 2010 (Clusit), Milano - elenco relatori — [Relatori - Security Summit Milano 2010 (lists Fabio Pietrosanti; PrivateWave silver sponsor)](https://web.archive.org/web/20100613131858/http://milano.securitysummit.it/relatori)  
+  Milano 2010 speakers list (Wayback 20100613131858, the sidebar carries the 2010 sponsors) contains a link /relatori/view/80 'Fabio Pietrosanti'. The sidebar shows the PrivateWave logo as Silver sponsor (sponsor/view/87). media.json already has the Milano 2009 relatori capture (20090603050045) and the Milano 2010 atti page and PDF; this 2010 speakers-list capture is not in it. No capture of relatori/view/80 was found for milano.securitysummit.it.
 - ↺ **2010-03-18** · evento · Security Summit 2010 (Clusit), Milano, 16-18 March 2010 - milano.securitysummit.it — [Atti Milano 2010 - Percorso professionale tecnico "Sicurezza e telefonia mobile" (Docente: Fabio Pietrosanti)](https://web.archive.org/web/20100525110838/http://milano.securitysummit.it/page/atti_milano_2010)  
   Proceedings index page of Milano 2010; lists 'Percorso professionale tecnico "Sicurezza e telefonia mobile" Docente: Fabio Pietrosanti (atti .pdf)'.
 - ↺ **2010-03-18** · slide · Security Summit 2010 (Clusit), Milano - atti (proceedings) — [Mobile Security - Intense overview of mobile security threat (Milano 2010 proceedings PDF, 7_PIETROSANTI.pdf)](https://web.archive.org/web/20120905131853/http://milano.securitysummit.it/upload/file/atti%20milano%202010/18%20marzo/7_PIETROSANTI.pdf)  
   PDF ~1.7 MB opened (pdftotext): title page 'Mobile Security / Intense overview of mobile security threat / Fabio Pietrosanti', 'CTO & Founder at PrivateWAVE', 'Playing with security since 95 as naif'. Same deck as the known SlideShare 3799661 and the Roma 2010 proceedings PDF, but a distinct Milano copy (18 marzo).
 - 🆕 **2010-03** · Altro · Security Summit 2010 (Clusit), Milano — [PrivateWave among the Silver sponsors of Security Summit 2010](https://clusit.it/wp-content/uploads/newsletter/newsletter_31_03_10.pdf) _(non verificato)_  
   Clusit Newsletter 31 marzo 2010 thanks sponsors: 'Sponsor Silver: ALBA, CLEVER CONSULTING, @MEDIASERVICE.NET, PRIVATEWAVE, ...'. PrivateWave is his company, but he is not named. A 'sponsor_privatewave.gif' also exists among securitysummit.it static files (archived 2016-01).
+- 🆕 **2010-03** · video_interview · TVtech (Hardware Upgrade) — [PrivateWave: comunicazioni sicure al cellulare (TVtech page 598)](http://www.tvtech.it/video/598/privatewave-comunicazioni-sicure-al-cellulare/) _(non verificato)_  
+  Original TVtech page (Wayback 20100314054831) of the already-known YouTube L4beB3qQjVw. The page names no one ('parliamo con gli esperti di Khamsa'). Recorded only to link the two URLs.
 - 🆕 **2010-02-24** · Video · Cellulare Magazine (CMAG) — [PrivateWave di Khamsa contro le intercettazioni](https://www.youtube.com/watch?v=EJVK8nB7yAM) _(non verificato)_  
   Cellulare-Magazine.it video on PrivateWave voice encryption; his appearance not confirmed
+- 🆕 **2010-02-17** · Video · Class Life (Class Editori TV, classlife.it) — [PrivateWave/PrivateGSM video (Hightech)](http://www.classlife.it/dettaglioVideo~categoria~Hightech~ST~201002171147014640~STBR~300.html) _(non verificato)_  
+  Listed as 'Class Life' on the PrivateWave Italia 'Area stampa' page (Wayback 20100227021457 and 20100323050507). No Wayback capture of the video page, and nothing shows who was interviewed.
 - 🆕 **2010-02-09** · Intervista · TuttoVolume (intervista TVtech) — [Intercettazioni telefoniche: per i cellulari GSM è un operazione alla portata di tutti.](https://tuttovolume.net/news/intercettare-cellulari-gsm-3g/)  
   Pagina live letta 2026-10-21 (article:published_time 2010-02-09). «TVtech ha intervistato Fabio Pietrosanti, responsabile tecnico della Khamsa» sul rischio di intercettazione GSM e sulla soluzione per gli utenti (PrivateGSM). Fuori dalla lacuna 2011-2016 (è 2010) ma non presente in media.json.
+- 🆕 **2010-02-08** · video_interview · TVtech (Hardware Upgrade) — [Intercettazioni GSM: piu' facili di quanto si creda](https://www.youtube.com/watch?v=_S19ka5fy2Q)  
+  TVtech video 574 (http://www.tvtech.it/video/574/intercettazioni-gsm-piu-facili-di-quanto-si-creda/, published 08/02/2010, Wayback 20100212050926; re-uploaded on YouTube by 'Hardware Upgrade - Archivio' on 2010-03-04). Its description says 'Ecco il parere dell'esperto di Khamsa'. Neither the page nor the YouTube description gives his name, and the video has no subtitles. The already-known tuttovolume.net article (2010-02-09) says 'TVtech ha intervistato Fabio Pietrosanti, responsabile tecnico della Khamsa' on this topic, so the expert is almost certainly him. This is the source video for that known item; the follow-up video 598 (YouTube L4beB3qQjVw) is already known. VERIFICATO 2026-10-23 dalla trascrizione Whisper della copia locale (2010/55e810e2d0aa, 00:17): «parere di Fabio Pietrosanti, security manager di Khamsa».
 - 🆕 **2010-02-02** · Menzionato · heise.de — [Hickhack um Test für Handyverschlüsselung](https://www.heise.de/news/Hickhack-um-Test-fuer-Handyverschluesselung-919951.html)  
   verified via live; context: …aner wie Flexispy wehren können. Weiterlesen nach der Anzeige Notrax hat seine Ergebnisse auf der Webseite infosecurityguard.com veröffentlicht. Recherchen von Fabio Pietrosanti, dem Gründer des Securstar-Konkurrenten KH…
+- 🆕 **2010-02-02** · Citato · LinuxSecurity.com — [Accusations fly over voice encryption hack](https://linuxsecurity.com/news/cryptography/accusations-fly-over-voice-encryption-hack)  
+  Syndicated copy of the Techworld/CSO story on the SecurStar case; names Pietrosanti and Khamsa
 - 🆕 **2010-02-02** · Citato · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.csoonline.com/article/524574/malware-cybercrime-accusations-fly-over-voice-encryption-hack.html)  
   John E. Dunn; quotes Pietrosanti (founder/CTO of Khamsa) on SecurStar PBX evidence
 - 🆕 **2010-02-01** · Menzionato · theregister.com — [Voice crypto fails spark astroturf claims](https://www.theregister.com/security/2010/02/01/voice-crypto-fails-spark-astroturf-claims/1395226)  
@@ -1898,6 +1922,8 @@ Anni senza nessun risultato: nessuno
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2010-02-01** · Citato · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.com/2010/02/01/voice_crypto_test_row_phreak_out/)  
   John Leyden; SecurStar/infosecurityguard.com 'Notrax' fake test exposed by Pietrosanti
+- 🆕 **2010-02** · article · CSO Online (Techworld) — [Accusations Fly Over Voice Encryption Hack](https://www.csoonline.com/article/2124808/accusations-fly-over-voice-encryption-hack.html)  
+  Live page read 2026-10-23 and it names Fabio Pietrosanti, founder and CTO of Khamsa. This is an alternate CSO URL for the known item csoonline.com/article/524574.
 - 🆕 **2010-01-30** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [About the SecurStar GmbH Phonecrypt voice encryption analysis (criteria, errors and different results)](https://web.archive.org/web/2012/http://infosecurity.ch/20100130/about-the-voice-encryption-analysis-phonecrypt-can-be-intercepted-serious-security-evaluation-criteria/)  
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2010-01-29** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Licensed by Israel Ministry of Defense? How things really works!](https://web.archive.org/web/2012/http://infosecurity.ch/20100129/licensed-by-israel-ministry-of-defense-how-things-really-works/)  
@@ -1906,11 +1932,15 @@ Anni senza nessun risultato: nessuno
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2010** · Radio · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wave, come funziona tecnicamente l'intercettazione?](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) _(non verificato)_  
   Audio interview on how wiretapping works; page now 404, date unknown (PrivateWave era, 2009-2012)
+- 🆕 **2010** · press_list · PrivateWave Italia S.p.A. - 'Area stampa' (privatewave.it/chi-siamo/area-stampa.html) — [Rassegna stampa PrivateWave/Khamsa 2009-2011 (press clippings list)](https://web.archive.org/web/20110722045300/http://www.privatewave.it/chi-siamo/area-stampa.html) _(non verificato)_  
+  Seven captures (2010-02-27 to 2012-08-01). Clipping PDFs listed: Economy 4 feb 2010 and 5 nov 2010; Sistemi di Telecomunicazioni mar 2010; Office Automation mar, mag and dic 2010; L'espresso apr 2010; Il Mondo apr and nov 2010; SpyWorld apr 2010; Data Manager mag 2010 (probably the known 'Khamsa: chiamate cifrate tra cellulari'); InnovazionePA mag and nov 2010; Computer Dealer & Var giu, ott and dic 2010; IT-Security set-ott 2010; Finanza Mercati ott 2010; Il Sole 24 Ore 28 nov 2010 and feb 2011; Azienda Banca, Top Trade Informatica and Computer Idea dic 2010; plus a Khamsa press release of 11 dic 2009, PrivateWave press releases and a press kit of 23 feb 2010. None of the /media/ PDFs or DOCs was captured by Wayback (39 tried, all missing), and the live site returns 403. Computer Idea dic 2010 (IA computer-idea-278) was checked: PrivateWave is named, Fabio is not. The other clippings are open leads.
 - 🆕 **2010** · Altro · SlideShare profile fpietrosanti — [Fabio Pietrosanti presentations (13 decks)](https://www.slideshare.net/fpietrosanti)  
   Profile from PrivateWave/Khamsa era
 
-## 2009 — 46 voci, 44 nuove
+## 2009 — 48 voci, 46 nuove
 
+- 🆕 **2009-12-29** · TV · Rai 3 - TGR Neapolis (neapolis.blog.rai.it) — [Telefonate protette - Nea Polis 29/12/2009](http://neapolis.blog.rai.it/2009/12/29/telefonate-protette-nea-polis-29122009/) _(non verificato)_  
+  Segment by Diego Dionoro on PrivateGSM by Khamsa. Excerpt: 'Conversazioni al cellulare protette, non intercettabili. E’ la promessa di Private Gsm, programma sviluppato da Khamsa.' The post page itself has no Wayback capture; the excerpt was read in the archive listing https://web.archive.org/web/20100111041458/http://neapolis.blog.rai.it/2009/12/page/3/ and names no one. The link comes from the PrivateWave Italia 'Area stampa' page (Wayback 20100227021457, 'Neapolis 29dic2009'). It matches the 'Neapolis' TV appearance his 2013 bio self-reports. Video not downloaded; Rai Teche not searchable.
 - 🆕 **2009-12-21** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Index of economic freedom](https://web.archive.org/web/2012/http://infosecurity.ch/20091221/index-of-economic-freedom/)  
   Post on his personal blog (site offline; Wayback copy)
 - 🆕 **2009-12-01** · Post sul blog infosecurity.ch · infosecurity.ch (blog) — [Location Based Services: the big brother thanks you ;-)](https://web.archive.org/web/2012/http://infosecurity.ch/20091201/location-based-services-the-big-brother-thanks-you/)  
@@ -1995,8 +2025,10 @@ Anni senza nessun risultato: nessuno
   Clusit Newsletter 15 marzo 2009, 'PROGRAMMA DEL 26 MARZO': '14:00-18:00 Seminario tecnico SiKurezza.org' Docenti: Alessio Pennasilico, Pierluigi Perri, 'Fabio Pietrosanti, cofondatore e CTO di KHAMSA SA', Igor Falcomatà, Marco Calamari, Stefano Zanero, Paolo Perego. His 'Voice security and privacy' deck is dated 'Security Summit 26 Mar 2009', so the 29 Mar 2009 date on his site is wrong.
 - ↺ **2009-03-26** · Slide · SlideShare (Security Summit 2009 Milan) — [2009: Voice Security And Privacy (Security Summit - Milan)](https://www.slideshare.net/slideshow/2009-voice-security-and-privacy-security-summit-milan/1677364)  
   Title slide: 'Voice security and privacy: Confidentiality protection, today solutions and upcoming technologies and standards - Security Summit 26 Mar 2009 - Fabio Pietrosanti (naif)'. Uploaded 2009-07-03. Already in media.json dated 2009-03-29 (should be 2009-03-26).
-- 🆕 **2009-03-24** · evento · Security Summit 2009 (Clusit), Milano, 24-26 March 2009 - milano.securitysummit.it — [Relatori - Security Summit Milano 2009 (speakers list)](https://web.archive.org/web/20090603050045/http://milano.securitysummit.it/relatori)  
-  Wayback capture 2009-06-03 of the Milano 2009 speakers page; 'Fabio Pietrosanti' in the alphabetical list (between Pierluigi Perri and Simone Pugiotto). Complements the known newsletter 15/03/09 + SlideShare items for the SiKurezza.org seminar.
+- 🆕 **2009-03-26** · Talk · Security Summit 2009 (Clusit), Milano - programma ufficiale — [Giovedi 26 Marzo 2009 - Seminario tecnico 'Seminario SiKurezza.org' (Sala Rubino, ore 14:00)](https://web.archive.org/web/20090603045912/http://milano.securitysummit.it/eventi/giorno/26)  
+  Official day programme on milano.securitysummit.it (Wayback 20090603045912): 'Ore 14:00 Sala Rubino: Seminario tecnico "Seminario SiKurezza.org" Docenti: Alessio Pennasilico, Pierluigi Perri, Fabio Pietrosanti, Igor Falcomata, Marco Calamari, Stefano Zanero, Paolo Perego', with his name linked to /relatori/view/80. The seminar list page https://web.archive.org/web/20090603045937/http://milano.securitysummit.it/eventi/list/5 says the same. The talk is already known through the Clusit newsletter, the speakers list and SlideShare; this is the official programme page.
+- 🆕 **2009-03-24** · Altro · Hacking Film Festival 2009 - Security Summit Milano (Clusit / Edipi Conference) — [Hacking Film Festival (pagina ufficiale) - organizzazione delle tavole rotonde](https://web.archive.org/web/20090603050007/http://milano.securitysummit.it/page/hackingfilmfestival)  
+  Official festival page (Wayback 20090603050007), Milano 24-26 March 2009. It names him twice: among the hackers and scholars 'che alimenteranno il dibattito al termine della proiezione dei film', and under 'Organizzazione delle Tavole Rotonde: Stefano Chiccarelli, Raoul Chiesa, Paolo Giudice, ... Fabio Pietrosanti, Andrea Rossetti, Stefano Zanero'. The PMI.it and vitadigitale coverage is already known; the official page is not. A later capture (20100907085932) is the 2010 edition page and does not name him (only the PrivateWave sponsor logo).
 - 🆕 **2009-03-13** · Menzionato · vitadigitale.corriere.it — [Hacker al cinema](https://vitadigitale.corriere.it/2009/03/13/hacker_al_cinema/)  
   verified via wayback; context: …i sono i nomi di Stefano Chiccarelli, Raoul Chiesa, Corrado Giustozzi, Matteo Giacomo Jori, Marco Misitano, Andrea Monti, Alessio Pennasilico, Pierluigi Perri, Fabio Pietrosanti, Andrea Rossetti e Stefano Zanero. La prim…
 - 🆕 **2009-03** · article · PMI.it — [Aperte le iscrizioni per il primo Hacking Film Festival](https://www.pmi.it/tecnologia/202259/aperte-le-iscrizioni-per-il-primo-hacking-film-festival.html)  

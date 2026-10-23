@@ -1,0 +1,74 @@
+[
+ {
+  "source": "Google Patents xhr (inventor 'Fabio Pietrosanti'; inventor Pietrosanti before 2013; assignee Khamsa / PrivateWave; full text 'Fabio Pietrosanti', privategsm, privatewave, infosecurity.ch)",
+  "result": "Only the known Khamsa Italia family (ITRM20060425A1, ITRM20060426A1, WO2008015721/723 A2/A3, EP2057777A2, EP2057808A2). Other Pietrosanti inventors are homonyms (Franco, Aldo). No PrivateWave Italia patents 2008-2012. 'privategsm'/'privatewave' hits are generic 'private GSM'/'private wave' text."
+ },
+ {
+  "source": "Git history (bare treeless clones): asterisk/asterisk, pjsip/pjproject, torproject/tor, signalwire/freeswitch, vecna/sniffjoke; GitHub commit search (Pietrosanti 2005-2011, naif+khamsa)",
+  "query": "pietrosanti | naif | khamsa | privatewave | privategsm in author and message",
+  "result": "No commit or credit naming him 2007-2010. Asterisk only has 'Reported by: michele cicciotti privatewave' (ASTERISK-20409, 2012, not Fabio). Tor: only Tor2web-mode commits 2014-2018 without his name. SniffJoke (2009-2017): authors vecna/Pellerano, no naif in code or AUTHORS."
+ },
+ {
+  "source": "ZORG ZRTP code (github LucaBongiorni/ZORG, opentelecoms-org/zrtp-java)",
+  "result": "README says 'sponsored by PrivateWave'; no Pietrosanti/naif in any file."
+ },
+ {
+  "source": "IETF datatracker person/alias API",
+  "query": "pietrosanti",
+  "result": "0 persons. RFC 6189 acknowledgements already negative (2026-10-08). No draft acknowledgement found."
+ },
+ {
+  "source": "OpenAlex fulltext (pietrosanti 2007-2014; pietrosanti + zrtp/voip/encryption/tor; privategsm; privatewave; osxcrypt; 'exploiting hidden services'; phonecrypt securstar) and raw_author_name 2006-2012",
+  "result": "Only homonyms or already-known items (Cryptocat arXiv 1306.5156, TorSNIP 2017). Opened and negative: Bartolini 2013 Pisa thesis (cites G. Pietrosanti, a lawyer = homonym); Rauchwerger 2010 TU Wien thesis (PhoneCrypt cited, no name). Ulicky 2013 VUT thesis matches 'privatewave' only (not opened, out of window)."
+ },
+ {
+  "source": "Internet Archive full-text search (be-api fts)",
+  "query": "pietrosanti + zrtp/privategsm/privatewave/khamsa/voip/osxcrypt/asterisk/securstar/truecrypt/'hidden services'/gsm/intercettazioni/crittografia/sikurezza; 'fabio pietrosanti'; naif privatewave",
+  "result": "All hits already known (pcprofessionale207, e-privacy 2005/2009/2012 items, Profiling Hackers, Tor tech report DTIC_ADA623038 and its TorDevelopmentAndDesignPapers mirror, manualzilla Tor/Tails reports, FOCI'12, arXiv 1209.6398, Fifield thesis) or homonyms (Computer Idea 129 = Stefano Pietrosanti; La Stampa/Unita/Il Piccolo)."
+ },
+ {
+  "source": "Wikipedia insource search en/it/de/fr/es",
+  "query": "Pietrosanti, privategsm, privatewave",
+  "result": "Only GlobaLeaks (known). ZRTP (en/de), it:Crypto phone, it:Infrastruttura a chiave pubblica, it:Confronto tra software di VoIP cite PrivateWave/PrivateGSM without his name."
+ },
+ {
+  "source": "arXiv 1312.2225 (Lazzez, VoIP security issues); JUCS 19(16) 2013 Cattaneo et al. GSM review; Univ. Porto 2016 ZRTP thesis (repositorio-aberto.up.pt 10216/90260); NR EUX2010SEC project page",
+  "result": "Opened; no Pietrosanti/naif (the Porto thesis names only PrivateWave/ZORG)."
+ },
+ {
+  "source": "Corriere Comunicazioni 2010-04-13 'Il software anti-intercettazione nell'offerta di Techub'; telefonino.net 2010-10-18 'Nasce PrivateWave Italia SpA'",
+  "result": "Read: company text and Carlo Marchini (Khamsa CEO) quote only; no Fabio."
+ },
+ {
+  "source": "Debian bug #577686 'SRTP/ZRTP support for Asterisk' (2010, pkg-voip list copy) and asterisk-bugs issue 5413 (SRTP) mails May-June 2010",
+  "result": "Bug filed by George Pallis; asterisk-bugs pages have no Pietrosanti/naif. bugs.debian.org serves a proof-of-work challenge (not bypassed). The Asterisk community forum thread 'Asterisk 1.8 and ZRTP' has a post by him, but forum posts do not count."
+ },
+ {
+  "source": "Tor legacy trac on gitlab.torproject.org (API search 'naif')",
+  "result": "Only 2012 tickets (6031, 6171); nothing 2007-2010."
+ },
+ {
+  "source": "SlideShare profile fpietrosanti",
+  "result": "13 decks; all 2007-2010 ones are already in media.json."
+ },
+ {
+  "source": "CVE/NVD and web search on snom interception 2010",
+  "result": "No CVE or advisory crediting him 2007-2010 (CVE-2009-1048, CVE-2010-2291 unrelated)."
+ },
+ {
+  "source": "Web search (about 17 queries: ZRTP/PrivateGSM/VoIP/Asterisk/SRTP/OSXCrypt/Khamsa/SecurStar-infosecurityguard/Trento Cryptolab/VOIPSA/theses/books/Tor hidden services)",
+  "result": "Nothing new beyond the voipsa author page and the two unverified leads; Trento Cryptolab 2010 workshop page not found."
+ },
+ {
+  "source": "Web Archive sweep: privatewave.com (181 URLs), privatewave.it (119), support.privatewave.com (107), privategsm.com (3), khamsa.it (28), zorg.org (14), voipsa.org/blog (587), sikurezza.org/wiki 2009-2011 (33), infosecurity.ch 2007-08 (9), osxcrypt.org (55); 255 pages selected (about/company/press/white papers/ZRTP/ZORG/voipsa 2010-11 posts)",
+  "result": "INCOMPLETE: IA was 'Temporarily Offline' for most of the session; only about 10 pages fetched (no hits) plus the voipsa author page (positive, reported). Job left running on ubuntu@51.158.36.151: ~/wb_tech2007_fetch.py (resumable via ~/wb_tech2007/done2.txt), hits in ~/wb_tech2007/hits2.jsonl, 'FETCH2 FINISHED' in ~/wb_tech2007/log.txt when done; failures in fail2.txt."
+ },
+ {
+  "source": "Web Archive CDX: ohloh/openhub accounts naif + fpietrosanti, freshmeat ~naif, launchpad ~naif, code.google.com u/naif + p/privategsm, zfoneproject.com, fabio.pietrosanti.it 2007-2011, www.khamsa.it",
+  "result": "INCOMPLETE (IA offline): ~/wb_tech2007_cdx2.sh on the server, output ~/wb_tech2007/cdx/*.cdx2 and cdx2.log; any file containing the IA 'Temporarily Offline' HTML page must be redone."
+ },
+ {
+  "source": "Blocked or unavailable this pass",
+  "result": "Google Books API (daily quota exceeded from laptop and server), so search-inside was not done; Semantic Scholar 429; DBLP bot check; Google Patents HTML 'Sorry'/503; commsbusiness.co.uk Cloudflare challenge. None bypassed."
+ }
+]

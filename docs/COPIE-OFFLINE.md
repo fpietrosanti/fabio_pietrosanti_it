@@ -5,17 +5,17 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1138**; già processate: **1312**; ancora da processare: **0**
-- Licenza delle copie ottenute: **249** materiale proprio (ripubblicabile), **955** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1071**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **18**
+- Voci in `data/media.json`: **1154**; già processate: **1330**; ancora da processare: **0**
+- Licenza delle copie ottenute: **249** materiale proprio (ripubblicabile), **967** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1095**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **2**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
-- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **98**
+- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **101**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
-- 🎬 Video/audio scaricato (+ pagina): **112**
+- 🎬 Video/audio scaricato (+ pagina): **116**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
-- ❌ Non ottenuta: **8**
+- ❌ Non ottenuta: **11**
 
 ## Per anno
 
@@ -34,21 +34,21 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2006 | 13 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 2007 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2008 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2009 | 47 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 2010 | 63 | 2 | 0 | 0 | 0 | 0 | 3 |
-| 2011 | 30 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 2013 | 26 | 6 | 1 | 0 | 0 | 0 | 0 |
+| 2009 | 49 | 2 | 0 | 0 | 0 | 0 | 1 |
+| 2010 | 70 | 3 | 2 | 0 | 0 | 0 | 4 |
+| 2011 | 31 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 1 |
+| 2013 | 27 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 38 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 2016 | 22 | 8 | 1 | 0 | 0 | 0 | 0 |
-| 2017 | 76 | 5 | 3 | 0 | 0 | 0 | 0 |
-| 2018 | 57 | 16 | 4 | 0 | 0 | 0 | 0 |
-| 2019 | 83 | 3 | 3 | 0 | 0 | 0 | 2 |
-| 2020 | 164 | 9 | 5 | 0 | 0 | 0 | 0 |
+| 2016 | 23 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2017 | 79 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 61 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 85 | 3 | 0 | 0 | 0 | 0 | 2 |
+| 2020 | 167 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 55 | 15 | 0 | 0 | 0 | 0 | 2 |
-| 2023 | 13 | 3 | 1 | 0 | 1 | 0 | 0 |
+| 2023 | 13 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 7 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 44 | 3 | 0 | 1 | 0 | 0 | 0 |
@@ -68,6 +68,10 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2006** · NVD / MITRE CVE — [CVE-2006-5817 (prl_dhcpd in Parallels Desktop for Mac Build 1940 uses insecure permissions](https://nvd.nist.gov/vuln/detail/CVE-2006-5817) · licenza: propria  
   2026-10-08, regola «senza nome, non sono io»: il record NVD/MITRE della CVE nata dal suo advisory Parallels (seclists 2006/Oct/581, Secunia SA22634) non lo nomina; la CVE resta solo come riferimento dell'advisory. Copia conservata.
+- ⏹️ **2010** · Comms Business (UK) — [PrivateWave launches mobile phone anti-tapping solution](https://www.commsbusiness.co.uk/content/news/privatewave-launches-mobile-phone-anti-tapping-solution) · licenza: terzi  
+  2026-10-23: comunicato PrivateWave EVSS letto per intero dal Web Archive: non lo nomina (escluso in decisions.json)
+- ⏹️ **2010** · Comms Business (UK) — [PrivateWave launches mobile phone anti-tapping solution](https://www.commsbusiness.co.uk/news/privatewave-launches-mobile-phone-anti-tapping-solution/) · licenza: terzi  
+  2026-10-23: comunicato PrivateWave EVSS letto per intero dal Web Archive: non lo nomina (escluso in decisions.json)
 - ⏹️ **2010** · Schneier on Security (commento) — [Commento di Fabio Pietrosanti al post «End-to-End Encryption» di Bruce Schneier](https://www.schneier.com/blog/archives/2010/05/end-to-end_encr.html) · licenza: terzi  
   2026-10-12: commento a un post del blog di Schneier (regola forum/mailing list) → escluso da media.json; copia conservata. 
 - ⏹️ **2011** · 28C3 Chaos Communication Congress, Berli — [Tor2web workshop](https://events.ccc.de/congress/2011/wiki/Tor2web) · licenza: terzi  
@@ -162,6 +166,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2019** · Gente d'Italia — [Approvato il fondo per 1 milione di euro per voto elettronico](http://www.genteditalia.org/2019/12/14/approvato-il-fondo-per-1-milione-di-euro-per-voto-elettronico/) · licenza: terzi  
   Fabio 2026-09-25: pagina di contesto generico (voto italiani all'estero / Rousseau) senza il suo nome: esclusa; le pagine dei suoi progetti restano come contesto
+- ⏹️ **2019** · pr-foundation.org — [5 novembre a Milano: Incontro sulle Fondazioni Culturali e il Digitale — P&R Foundation](http://www.pr-foundation.org/5-novembre-milano/) · licenza: terzi  
+  2026-10-23: esclusa in decisions.json (2026-10-19): la pagina riguarda l'incontro del 05/11/2018 e non lo nomina; voce giusta = Digital Italy Summit 27/11/2019
 - ⏹️ **2019** · code.videolan.org (VideoLAN GitLab, ex t — [VLC ticket #21805 «Enable full HTTPS redirecting old-client to an outdated page, explainin](https://code.videolan.org/videolan/vlc/-/work_items/21805) · licenza: propria  
   Fabio 2026-09-23: i ticket VLC sono un episodio unico (campagna HTTPS su videolan.org, 2017-2019), «una cosa aperta e chiusa»: resta una sola voce, il ticket capofila #18472, che cita gli altri. Non vanno piu' inseguite copie separate.
 - ⏹️ **2019** · e-privacy XXV (2019 summer), Torino, Cit — [Big Brother Award (slot by Hermes Center)](https://e-privacy.winstonsmith.org/e-privacy-XXV.html) · licenza: terzi  
@@ -257,13 +263,19 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ⏹️ **2026** · Bilibili, 时光派官方 (TimePie official, UID 3 — [论坛现场座无虚席！第七届国际长寿论坛火热启幕，这条视频带你速览首日精彩画面](https://www.bilibili.com/video/BV1w8YX6uENN/) · licenza: terzi  
   2026-10-06: clip TimePie viste fotogramma per fotogramma il 2026-10-01: Fabio non compare → escluse da media.json; copia conservata.
 - ❌ **2005** · Webbit 05 - Osservatorio Webbit (RTF doc — [Intervista a Fabio Pietrosanti (Osservatorio Webbit 05, area Sicurezza) - 05_FabioPietrosa](http://www.webb.it/html/webbit05/docosservatorio/interviste/05_FabioPietrosanti.rtf) · licenza: terzi  
-  2026-10-22: file RTF mai salvato dal Web Archive (CDX vuoto), webb.it oggi fa solo redirect; resta la pagina indice Webbit 05 (copia ottenuta) che elenca l'intervista. Solo una copia personale di Fabio puo' recuperarlo.
+  http 404
+- ❌ **2009** · Rai 3 - TGR Neapolis (neapolis.blog.rai. — [Telefonate protette - Nea Polis 29/12/2009](http://neapolis.blog.rai.it/2009/12/29/telefonate-protette-nea-polis-29122009/) · licenza: terzi  
+  2026-10-23: post del blog Neapolis mai archiviato (CDX vuoto); nota solo dalla rassegna PrivateWave → domanda a Fabio
+- ❌ **2010** · Class Life (Class Editori TV, classlife. — [PrivateWave/PrivateGSM video (Hightech)](http://www.classlife.it/dettaglioVideo~categoria~Hightech~ST~201002171147014640~STBR~300.html) · licenza: terzi  
+  2026-10-23: pagina video Class Life mai archiviata; nota solo dalla rassegna PrivateWave → domanda a Fabio
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
-  http 404
+  http 403
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
-  http 404
+  http 403
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
+- ❌ **2012** · Google Patents US20130252585A1 — [US20130252585 (surfaced by web search for PrivateWave/Pietrosanti; content unknown)](https://patents.google.com/patent/US20130252585A1/en) · licenza: propria  
+  2026-10-23: Google Patents risponde con la pagina «Sorry» anti-bot (non aggirata); brevetto non suo, solo pista: da rileggere quando Google Patents risponde
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
   URLError
 - ❌ **2019** · Università di Foggia (lezione nel corso  — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck c](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: terzi  
@@ -276,46 +288,14 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🟡 **2013** · Hermes Center for Transparency and Digit — [[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”](https://hermescenter.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/) · licenza: propria  
+- 🟡 **2010** · TVtech (Hardware Upgrade) — [PrivateWave: comunicazioni sicure al cellulare (TVtech page 598)](http://www.tvtech.it/video/598/privatewave-comunicazioni-sicure-al-cellulare/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2016** · Hermes Center for Transparency and Digit — [Consultazione ANAC sul FOIA: Posizione del Centro Hermes](https://hermescenter.org/consultazione-anac-sul-foia-posizione-del-centro-hermes/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2017** · Hermes Center for Transparency and Digit — [Appello del Centro Hermes ad ANAC per la Tecnologia di Whistleblowing open-source](https://hermescenter.org/appello-del-centro-hermes-ad-anac-per-la-tecnologia-di-whistleblowing-open-source/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2017** · Hermes Center for Transparency and Digit — [Il centro Hermes ha partecipato al Linux Day 2017 a Pavia](https://hermescenter.org/il-centro-hermes-ha-partecipato-al-linux-day-2017-pavia/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2017** · Hermes Center for Transparency and Digit — [After Net Neutrality, Device Neutrality](https://hermescenter.org/net-neutrality-device-neutrality/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2018** · Hermes Center for Transparency and Digit — [15 novembre 2018: un anno dall’approvazione della legge sul whistleblowing in Italia](https://hermescenter.org/15-novembre-2018-un-anno-dallapprovazione-della-legge-sul-whistleblowing-in-italia/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2018** · Hermes Center for Transparency and Digit — [Centro Hermes partecipa a Consultazione su acquisizione e riuso di software con riferiment](https://hermescenter.org/centro-hermes-partecipa-a-consultazione-su-acquisizione-e-riuso-di-software-con-riferimento-al-whistleblowing-anticorruzione/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2018** · Hermes Center for Transparency and Digit — [Software di Whistleblowing Digitale GlobaLeaks al MERGE-IT](https://hermescenter.org/software-di-whistleblowing-digitale-globaleaks-al-merge-it/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2018** · Hermes Center for Transparency and Digit — [Il software libero e open source GlobaLeaks fornito gratuitamente agli enti pubblici: nasc](https://hermescenter.org/whistleblowingpa/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2019** · pr-foundation.org — [5 novembre a Milano: Incontro sulle Fondazioni Culturali e il Digitale — P&R Foundation](http://www.pr-foundation.org/5-novembre-milano/) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2019** · Hermes Center for Transparency and Digit — [ANAC ed OpenWhistleblowing](https://hermescenter.org/anac-ed-openwhistleblowing/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2019** · Hermes Center for Transparency and Digit — [Il software GlobaLeaks festeggia il primo anno a supporto del whistleblowing anonimo nella](https://hermescenter.org/il-software-globaleaks-festeggia-il-primo-anno-a-supporto-del-whistleblowing-anonimo-nella-pa/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2020** · Hermes Center for Transparency and Digit — [ANAC e Hermes Center risolvono una controversia sull’applicazione della licenza AGPL al so](https://hermescenter.org/anac-e-hermes-center-risolvono-una-controversia-sullapplicazione-della-licenza-agpl-al-software-openwhistleblowing/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2020** · Hermes Center for Transparency and Digit — [Risposta alla Consultazione su Piano Anticorruzione del Comune di Roma](https://hermescenter.org/risposta-alla-consultazione-su-piano-anticorruzione-del-comune-di-roma/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2020** · Hermes Center for Transparency and Digit — [Whistleblowing: un impegno comune per recepire e applicare la Direttiva europea. Important](https://hermescenter.org/whistleblowing-un-impegno-comune-per-recepire-e-applicare-la-direttiva-europea-importante-tutelare-anche-chi-sta-attorno-ai-segnalanti-e-cioe-i-media-e-la-societa-civile/) · licenza: propria  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2020** · Bloomberg - Listen to the Story — [North Korea's Man in Spain](https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2020** · Valigia Blu (podcast) — [Come Cia e Bnd hanno spiato le diplomazie mondiali vendendo macchine antispionaggio](https://podcasters.spotify.com/pod/show/valigiablu/episodes/Come-Cia-e-Bnd-hanno-spiato-le-diplomazie-mondiali-vendendo-macchine-antispionaggio-eas0d2) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
-- 🟡 **2023** · BBC World Service - Cyber Hack / The Laz — [The Lazarus Heist S2: 7. Crypto comrades](https://www.bbc.co.uk/programmes/w3ct5fc4) · licenza: terzi  
+- 🟡 **2010** · PrivateWave Italia S.p.A. - 'Area stampa — [Rassegna stampa PrivateWave/Khamsa 2009-2011 (press clippings list)](https://web.archive.org/web/20110722045300/http://www.privatewave.it/chi-siamo/area-stampa.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 🟠 **2006** · Packet Storm Security (Secunia advisory  — [Secunia Security Advisory 22634 - Parallels Desktop for Mac Insecure File Permissions](https://packetstormsecurity.com/files/51690/Secunia-Security-Advisory-22634.html) · licenza: propria  
-  2026-10-22: Packet Storm mostra un controllo anti-bot (non aggirato), nessuna capture Web Archive; l'advisory originale di Fabio e' comunque copiato (files/51479, Full-Disclosure, CVE-2006-5817).
+  2026-10-23: Packet Storm resta dietro anti-bot (non aggirato), nessuna capture; il testo identico dell'originale Secunia SA22634 (capture Web Archive 20070429132253, «Provided and/or discovered by: Fabio Pietrosanti») è salvato qui come secunia_SA22634_20070429.html ed è già la voce 3b883128af23
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
   page is a JavaScript shell with almost no text: needs browser capture
 
@@ -552,6 +532,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2009** · e-privacy VIII (2009), Firenze, Palazzo  — [Voice security and privacy (audio MP3)](https://urna.winstonsmith.org/materiali/2009/audio/ep2009_pietrosanti_voice_security_and_privacy.mp3) · copia: `2009/d5b591358586` (Web Archive 20250227) · licenza: terzi
 - **2009** · e-privacy VIII (2009), Firenze, Palazzo  — [Voice security and privacy (video MOV, eprivacy-2009-11.mov)](https://urna.winstonsmith.org/materiali/2009/video/eprivacy-2009-11.mov) · copia: `2009/8793fc8024f7` (Web Archive 20210605) · licenza: terzi
 - **2009** · vitadigitale.corriere.it — [Hacker al cinema](https://vitadigitale.corriere.it/2009/03/13/hacker_al_cinema/) · copia: `2009/aa219a14f6f9` (Web Archive 20190921) · licenza: terzi
+- **2009** · Security Summit 2009 (Clusit), Milano -  — [Giovedi 26 Marzo 2009 - Seminario tecnico 'Seminario SiKurezza.org' (Sala Rubino, ore 14:0](https://web.archive.org/web/20090603045912/http://milano.securitysummit.it/eventi/giorno/26) · copia: `2009/ffd30e5da91f` (Web Archive 20090603) · licenza: terzi
+- **2009** · Hacking Film Festival 2009 - Security Su — [Hacking Film Festival (pagina ufficiale) - organizzazione delle tavole rotonde](https://web.archive.org/web/20090603050007/http://milano.securitysummit.it/page/hackingfilmfestival) · copia: `2009/3904a8787982` (Web Archive 20090603) · licenza: terzi
 - **2009** · Security Summit 2009 (Clusit), Milano, 2 — [Relatori - Security Summit Milano 2009 (speakers list)](https://web.archive.org/web/20090603050045/http://milano.securitysummit.it/relatori) · copia: `2009/df27ddc45af8` (Web Archive 20090603) · licenza: terzi
 - **2009** · infosecurity.ch (blog) — [Hackers hired from UK Office of Cyber Security](https://web.archive.org/web/2012/http://infosecurity.ch/20090706/hackers-hired-from-uk-office-of-cyber-security/) · copia: `2009/eaac763bfefa` (Web Archive 20100913) · licenza: propria
 - **2009** · infosecurity.ch (blog) — [How the various audio compression codec sounds?](https://web.archive.org/web/2012/http://infosecurity.ch/20090706/how-the-various-audio-compression-codec-sounds/) · copia: `2009/ecae67a74a53` (Web Archive 20100916) · licenza: propria
@@ -595,7 +577,11 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · Security Summit 2010 (Clusit), Milano — [PrivateWave among the Silver sponsors of Security Summit 2010](https://clusit.it/wp-content/uploads/newsletter/newsletter_31_03_10.pdf) · copia: `2010/5290eddc310a` (live) · licenza: terzi
 - **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://linuxsecurity.com/news/cryptography/accusations-fly-over-voice-encryption-hack) · copia: `2010/88eca0ddd780` (Web Archive 20231128) · licenza: terzi
 - **2010** · TuttoVolume (intervista TVtech) — [Intercettazioni telefoniche: per i cellulari GSM è un operazione alla portata di tutti.](https://tuttovolume.net/news/intercettare-cellulari-gsm-3g/) · copia: `2010/91d136ab5fb2` (Web Archive 20100417) · licenza: terzi
+- **2010** · WhyMCA Spring 2010 - Mobile Developer Co — [Agenda WhyMCA Spring 2010 - 'Mobile security and privacy', Fabio Pietrosanti, 10:50-11:35](https://web.archive.org/web/20100410200011/http://www.whymca.org/page/agenda-whymca-spring-2010) · copia: `2010/327abd62153f` (Web Archive 20100410) · licenza: terzi
+- **2010** · WhyMCA Spring 2010 - Mobile Developer Co — [Mobile security and privacy (scheda intervento / abstract)](https://web.archive.org/web/20100413051917/http://www.whymca.org/topic/mobile-security-and-privacy) · copia: `2010/affb19913eea` (Web Archive 20100413) · licenza: terzi
 - **2010** · Security Summit 2010 (Clusit), Milano, 1 — [Atti Milano 2010 - Percorso professionale tecnico "Sicurezza e telefonia mobile" (Docente:](https://web.archive.org/web/20100525110838/http://milano.securitysummit.it/page/atti_milano_2010) · copia: `2010/a4f2346ed7a4` (Web Archive 20100525) · licenza: terzi
+- **2010** · Security Summit 2010 (Clusit), Milano -  — [Relatori - Security Summit Milano 2010 (lists Fabio Pietrosanti; PrivateWave silver sponso](https://web.archive.org/web/20100613131858/http://milano.securitysummit.it/relatori) · copia: `2010/606dbf7f02ae` (Web Archive 20100613) · licenza: terzi
+- **2010** · Voice of VOIPSA (voipsa.org blog, VoIP S — [Voice of VOIPSA » Fabio Pietrosanti (author page)](https://web.archive.org/web/20101103070436/http://voipsa.org/blog/author/fpietrosanti/) · copia: `2010/bd500c44d42e` (Web Archive 20101103) · licenza: terzi
 - **2010** · Security Summit Roma 2010 - atti (procee — [Mobile Security - Intense overview of mobile security threat (Roma 2010 proceedings PDF)](https://web.archive.org/web/20101226095759/https://www.securitysummit.it/upload/file/atti%20roma%202010/FABIO%20PIETROSANTI.pdf) · copia: `2010/e541d9097bae` (Web Archive 20101226) · licenza: propria
 - **2010** · infosecurity.ch (blog) — [O3B Networks: a new satellite broadband approach](https://web.archive.org/web/2012/http://infosecurity.ch/20100126/o3b-networks-a-new-satellite-broadband-approach/) · copia: `2010/23aa411dff7c` (Web Archive 20100329) · licenza: propria
 - **2010** · infosecurity.ch (blog) — [Licensed by Israel Ministry of Defense? How things really works!](https://web.archive.org/web/2012/http://infosecurity.ch/20100129/licensed-by-israel-ministry-of-defense-how-things-really-works/) · copia: `2010/f8856f643471` (Web Archive 20100206) · licenza: propria
@@ -636,6 +622,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · Security Summit 2010 (Clusit), Milano -  — [Mobile Security - Intense overview of mobile security threat (Milano 2010 proceedings PDF,](https://web.archive.org/web/20120905131853/http://milano.securitysummit.it/upload/file/atti%20milano%202010/18%20marzo/7_PIETROSANTI.pdf) · copia: `2010/9e2c53940609` (Web Archive 20120905) · licenza: terzi
 - **2010** · Security Summit Roma 2010 (Clusit) - rom — [Relatori - Security Summit Roma 2010 (speakers list)](https://web.archive.org/web/20130811024811/http://roma2010.securitysummit.it/relatori) · copia: `2010/985bcc9dcd37` (Web Archive 20130811) · licenza: terzi
 - **2010** · Security Summit Roma 2010 (Clusit) - rom — [Fabio Pietrosanti - scheda relatore (Security Summit Roma 2010)](https://web.archive.org/web/20130811024841/http://roma2010.securitysummit.it/relatori/view/80) · copia: `2010/b8a9f02d2e8a` (Web Archive 20130811) · licenza: terzi
+- **2010** · CSO Online (Techworld) — [Accusations Fly Over Voice Encryption Hack](https://www.csoonline.com/article/2124808/accusations-fly-over-voice-encryption-hack.html) · copia: `2010/f70d4ffef55e` (live) · licenza: terzi
 - **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.csoonline.com/article/524574/malware-cybercrime-accusations-fly-over-voice-encryption-hack.html) · copia: `2010/3c24d3c7cfab` (Web Archive 20230928) · licenza: terzi
 - **2010** · Data Manager Online — [Intercettazioni e molto di più](https://www.datamanager.it/news/sicurezza/intercettazioni-e-molto-di-pi) · copia: `2010/0f172e809c69` (Web Archive 20240220) · licenza: propria
 - **2010** · Data Manager (rivista) — [Khamsa: chiamate cifrate tra cellulari](https://www.datamanager.it/rivista/privategsm/khamsa-chiamate-cifrate-tra-cellulari) · copia: `2010/1d0ab80daab7` (Web Archive 20100508) · licenza: terzi
@@ -645,8 +632,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · SlideShare (WHYMCA 2010) — [2010: Mobile Security - WHYMCA Developer Conference](https://www.slideshare.net/slideshow/2010-mobile-security-whymca-developer-conference/4392945) · copia: `2010/8c7c8628f2e5` (Web Archive 20250129) · licenza: propria
 - **2010** · Cellulare Magazine (print, via SlideShar — [PrivateGSM e parli con tutti](https://www.slideshare.net/slideshow/cellulare-magazine-privategsm-e-parli-con-tutti/3920453) · copia: `2010/034f3c1c9a41` (live) · licenza: terzi
 - **2010** · SlideShare (PrivateWave Italia) — [Mobile voice encryption: a revolutionary approach in voice encryption industry (ICT encryp](https://www.slideshare.net/slideshow/ict-encryption-agtfabiopietrosanti/5644072) · copia: `2010/5ed188388ba4` (Web Archive 20250129) · licenza: terzi
+- **2010** · SlideShare (PrivateWave Italia SpA accou — [Mobile security - Intense overview (PrivateWave re-upload of the Security Summit 2010 deck](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3746738/3746738) · copia: `2010/0ecfa0d324a9` (Web Archive 20251128) · licenza: terzi
 - **2010** · SlideShare (Security Summit 2010) — [2010: Mobile Security - Intense overview](https://www.slideshare.net/slideshow/mobile-security-intense-overview-3799661/3799661) · copia: `2010/fe3619cfed5a` (Web Archive 20260220) · licenza: propria
 - **2010** · SlideShare (University of Trento Cryptol — [Voice communication security](https://www.slideshare.net/slideshow/voice-communication-security/5059251) · copia: `2010/84d6a5c2b983` (Web Archive 20240625) · licenza: propria
+- **2010** · SlideShare (PrivateWave Italia SpA accou — [Voice security and privacy - Today's solutions and technologies (re-upload of the March 20](https://www.slideshare.net/slideshow/voice-security-and-privacy-todays-solutions-and-technologies/3746617) · copia: `2010/464c0068a587` (Web Archive 20250820) · licenza: terzi
 - **2010** · SlideShare — [Voice securityprotocol review](https://www.slideshare.net/slideshow/voice-securityprotocol-review/5106055) · copia: `2010/d53fe93a58d7` (Web Archive 20240810) · licenza: propria
 - **2010** · CSO Online (Techworld) — [Accusations fly over voice encryption hack](https://www.techsupportforum.com/threads/accusations-fly-over-voice-encryption-hack.457961/) · copia: `2010/02c0f33bf344` (browser) · licenza: terzi
 - **2010** · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.co.uk/2010/02/01/voice_crypto_test_row_phreak_out/) · copia: `2010/964ea013cbf0` (Web Archive 20100204) · licenza: terzi
@@ -654,6 +643,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2010** · The Register — [Voice crypto fails spark astroturf claims](https://www.theregister.com/security/2010/02/01/voice-crypto-fails-spark-astroturf-claims/1395226) · copia: `2010/2ebf5eb4e80b` (Web Archive 20260507) · licenza: terzi
 - **2010** · Cellulare Magazine (CMAG) — [PrivateWave di Khamsa contro le intercettazioni](https://www.youtube.com/watch?v=EJVK8nB7yAM) · copia: `2010/c20b180907dd` (live · video locale `media.mp4` (8 MB, da caricare su Drive)) · licenza: terzi
 - **2010** · TVtech / Hardware Upgrade — [PrivateWave: comunicazioni sicure al cellulare](https://www.youtube.com/watch?v=L4beB3qQjVw) · copia: `2010/1d7ada6809d2` (live · video locale `media.mp4` (40 MB, da caricare su Drive)) · licenza: terzi
+- **2010** · TVtech (Hardware Upgrade) — [Intercettazioni GSM: piu' facili di quanto si creda](https://www.youtube.com/watch?v=_S19ka5fy2Q) · copia: `2010/55e810e2d0aa` (Web Archive 20171226 · video locale `media.mp4` (28 MB, da caricare su Drive)) · licenza: terzi
 - **2011** · Infosec Island — [ZRTP Voice Encryption is Finally a Standard RFC](http://sktguow.infosecisland.com/blogview/12929-ZRTP-Voice-Encryption-is-Finally-a-Standard-RFC.html) · copia: `2011/6eef821a1b3c` (Web Archive 20111206) · licenza: propria
 - **2011** · Social News (special WikiLeaks issue) — [Article on WikiLeaks and Government 2.0 (page 36)](http://www.socialnews.it/social_news_pdf/2011febbraio.pdf) · copia: `2011/86e61c20fbb0` (Web Archive 20110709) · licenza: propria
 - **2011** · The Tor Project (monthly status report,  — [Tor Project monthly report, November 2011 ('New releases, new hires, new funding')](https://archive.org/details/manualzilla-id-5653552) · copia: `2011/ae7c4fb07615` (live) · licenza: terzi
@@ -667,6 +657,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2011** · Wikipedia (en) — [GlobaLeaks](https://pl.wikipedia.org/wiki/GlobaLeaks) · copia: `2011/8e8b29b20dae` (live) · licenza: terzi
 - **2011** · ReadWriteWeb — [Egypt's Communications Crisis: An Update (Update: Noor Down)](https://readwrite.com/egypts_communications_crisis_an_update/) · copia: `2011/852183f82376` (live) · licenza: terzi
 - **2011** · PrivateWave / Full Disclosure — [ZORG, new C++ and Java ZRTP implementation public release](https://seclists.org/fulldisclosure/2011/Jan/139) · copia: `2011/8f6e37151eb7` (Web Archive 20110122) · licenza: propria
+- **2011** · WhyMCA Mobile Developer Conference 2011  — [Sicurezza dei dispositivi e delle comunicazioni mobile: An in-depth overview](https://web.archive.org/web/20110522002605/http://www.whymca.org/intervento/sicurezza-dei-dispositivi-e-delle-comunicazioni-mobile-depth-overview) · copia: `2011/13c0d2df8100` (Web Archive 20110522) · licenza: terzi
 - **2011** · infosecurity.ch (blog) — [ZORG, new C++ and Java ZRTP implementation public release](https://web.archive.org/web/2012/http://infosecurity.ch/20110112/zorg-new-c-and-java-zrtp-implementation-public-release/) · copia: `2011/7a332b9c40aa` (Web Archive 20110811) · licenza: propria
 - **2011** · infosecurity.ch (blog) — [Government 2.0, Open Data and WikiLeaks](https://web.archive.org/web/2012/http://infosecurity.ch/20110115/government-2-0-open-data-and-wikileaks/) · copia: `2011/7c1606ec52bc` (Web Archive 20110625) · licenza: propria
 - **2011** · infosecurity.ch (blog) — [TETRA hacking is coming: OsmocomTETRA](https://web.archive.org/web/2012/http://infosecurity.ch/20110123/tetra-hacking-is-coming-osmocomtetra/) · copia: `2011/956bc8f0024e` (Web Archive 20110128) · licenza: propria
@@ -744,6 +735,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2013** · Global Investigative Journalism Conferen — [Fabio Pietrosanti — speaker profile (Hermes Center for Transparency and Digital Human Righ](https://gijc13.sched.com/speaker/fabio.pietrosanti) · copia: `2013/885d082021cd` (live) · licenza: terzi
 - **2013** · GitHub tor2web/Tor2web — [Tor2web #120 «Prevent CRIME attack on TLS by disabling compression»](https://github.com/tor2web/Tor2web/issues/120) · copia: `2013/54bda7300896` (api) · licenza: propria
 - **2013** · globaleaks.org — [iSEC Partners — GlobaLeaks security assessment (2013)](https://globaleaks.org/docs/pt/2013-isec.pdf) · copia: `2013/4a06c690f261` (Web Archive 20260807) · licenza: propria
+- **2013** · Hermes Center for Transparency and Digit — [[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”](https://hermescenter.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/) · copia: `2013/7d5e7af3cdda` (Web Archive 20190724) · licenza: propria
 - **2013** · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/) · copia: `2013/2477679443f8` (Web Archive 20240917) · licenza: terzi
 - **2013** · Transparency International Italia - Whis — [Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione](https://web.archive.org/web/2015/http://logioshermes.org/hermes-center-intervento-whistleblowingitalia-congress-milano/) · copia: `2013/7f1c35b6bd0c` (Web Archive 20131019) · licenza: propria
 - **2013** · WikiLeaks - Hacking Team emails (publish — [Re: Microsoft e gli exploit....](https://wikileaks.org/hackingteam/emails/emailid/224431) · copia: `2013/f77f960c1c97` (live) · licenza: terzi
@@ -844,6 +836,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · 33C3 Chaos Communication Congress, Hambu — [Robots txt abuses by government agencies against transparency (lightning talk)](https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency) · copia: `2016/4aba68d41775` (Web Archive 20161231) · licenza: terzi
 - **2016** · GitHub NullHypothesis/exitmap — [exitmap #36 «Improve transparent HTTP proxy detection with SSL test on port 80»](https://github.com/NullHypothesis/exitmap/issues/36) · copia: `2016/b310a8b4befb` (api) · licenza: propria
 - **2016** · Tor Project (GitLab, ex Trac) — [Ticket #17975 «Introduce OutboundExitAddress to enable exit-only traffic to go via a diffe](https://gitlab.torproject.org/tpo/core/tor/-/work_items/17975) · copia: `2016/469cf926b0d1` (api) · licenza: propria
+- **2016** · Hermes Center for Transparency and Digit — [Consultazione ANAC sul FOIA: Posizione del Centro Hermes](https://hermescenter.org/consultazione-anac-sul-foia-posizione-del-centro-hermes/) · copia: `2016/784c021144c9` (Web Archive 20200920) · licenza: propria
 - **2016** · MOCA 2016 - Metro Olografix Camp (Pescar — [GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani](https://moca2016.olografix.org/it/employees/fabio-naif-pietrosanti/) · copia: `2016/36d536a6070d` (live) · licenza: terzi
 - **2016** · moca2016.olografix.org — [MOCA 2016 - Perfectly Imperfect. L](https://moca2016.olografix.org/it/moca/) · copia: `2016/d639790d73d8` (Web Archive 20240129) · licenza: terzi
 - **2016** · MOCA 2016 - Metro Olografix Camp (Pescar — [GlobaLeaks: Dalla Crittografia e Anonimato all'Anticorruzione e Difesa dei Diritti Umani](https://moca2016.olografix.org/speakers/fabio-naif-pietrosanti/) · copia: `2016/8e366b51a756` (Web Archive 20241203) · licenza: terzi
@@ -902,6 +895,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · GitHub videolabs/mirrorbits — [mirrorbits #59 «Enforce HTTPS for distribution of software as a security measure against t](https://github.com/videolabs/mirrorbits/issues/59) · copia: `2017/5e4ba67b6f04` (api) · licenza: propria
 - **2017** · GitHub videolabs/mirrorbits — [mirrorbits #60 «JS based secure downloader for non-HTTPS mirrors»](https://github.com/videolabs/mirrorbits/issues/60) · copia: `2017/a067a359ba07` (api) · licenza: propria
 - **2017** · Tor Project GitLab (ex trac) — [Tor Browser #22809 «Tor Browser does not provide red security warning for downloading exec](https://gitlab.torproject.org/tpo/applications/tor-browser/-/work_items/22809) · copia: `2017/d9bb42eeb20f` (api) · licenza: propria
+- **2017** · Hermes Center for Transparency and Digit — [Appello del Centro Hermes ad ANAC per la Tecnologia di Whistleblowing open-source](https://hermescenter.org/appello-del-centro-hermes-ad-anac-per-la-tecnologia-di-whistleblowing-open-source/) · copia: `2017/fad909808422` (Web Archive 20170808) · licenza: propria
+- **2017** · Hermes Center for Transparency and Digit — [Il centro Hermes ha partecipato al Linux Day 2017 a Pavia](https://hermescenter.org/il-centro-hermes-ha-partecipato-al-linux-day-2017-pavia/) · copia: `2017/3c014293f250` (Web Archive 20200920) · licenza: propria
+- **2017** · Hermes Center for Transparency and Digit — [After Net Neutrality, Device Neutrality](https://hermescenter.org/net-neutrality-device-neutrality/) · copia: `2017/8af7dccd3a52` (Web Archive 20180102) · licenza: propria
 - **2017** · SHA2017 - Still Hacking Anyway (media.cc — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans) · copia: `2017/4ca026c3e13b` (Web Archive 20170810 · video locale `media.mp4` (96 MB, da caricare su Drive)) · licenza: terzi
 - **2017** · Matteo Flora (mgpf.it) — [Referendum autonomia Lombardia: hacker trova dati e codici online...](https://mgpf.it/2017/10/20/referendum-autonomia-lombardia-hacker.html) · copia: `2017/4df6c2948f08` (Web Archive 20171231) · licenza: terzi
 - **2017** · la Repubblica (Milano) — [Referendum Lombardia, gli ingegneri lanciano l'allarme sicurezza: "Troppi segreti sul voto](https://milano.repubblica.it/cronaca/2017/10/19/news/ilcaso_l_associazione_degli_ingegneri_protesta_per_l_accesso_negato_ai_dettagli_tecnici_su_lla_tutela_dei_dati_sensibi-178667938/) · copia: `2017/c7fbfa621deb` (Web Archive 20171019) · licenza: terzi
@@ -972,6 +968,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · GitHub cisagov/pshtt — [pshtt #148 «Provide a rating A+ up to F as a simplified selection»](https://github.com/cisagov/pshtt/issues/148) · copia: `2018/75a457a7f936` (api) · licenza: propria
 - **2018** · Tor Project GitLab (ex trac) — [Tor TPA #40397 «Introduce TLS MITM Detection on Tor Project websites»](https://gitlab.torproject.org/tpo/tpa/team/-/work_items/40397) · copia: `2018/8f7fb12c28ad` (api) · licenza: propria
 - **2018** · Tor Project GitLab (ex trac) — [Tor web #133 «Introduce TLS MITM Detection on Tor Project websites»](https://gitlab.torproject.org/tpo/web/tpo/-/work_items/133) · copia: `2018/df574241acf4` (api) · licenza: propria
+- **2018** · Hermes Center for Transparency and Digit — [15 novembre 2018: un anno dall’approvazione della legge sul whistleblowing in Italia](https://hermescenter.org/15-novembre-2018-un-anno-dallapprovazione-della-legge-sul-whistleblowing-in-italia/) · copia: `2018/5f302c8f47b6` (Web Archive 20190916) · licenza: propria
+- **2018** · Hermes Center for Transparency and Digit — [Centro Hermes partecipa a Consultazione su acquisizione e riuso di software con riferiment](https://hermescenter.org/centro-hermes-partecipa-a-consultazione-su-acquisizione-e-riuso-di-software-con-riferimento-al-whistleblowing-anticorruzione/) · copia: `2018/81315ba1eab8` (Web Archive 20200920) · licenza: propria
+- **2018** · Hermes Center for Transparency and Digit — [Software di Whistleblowing Digitale GlobaLeaks al MERGE-IT](https://hermescenter.org/software-di-whistleblowing-digitale-globaleaks-al-merge-it/) · copia: `2018/83cfa0ce75d3` (Web Archive 20200921) · licenza: propria
+- **2018** · Hermes Center for Transparency and Digit — [Il software libero e open source GlobaLeaks fornito gratuitamente agli enti pubblici: nasc](https://hermescenter.org/whistleblowingpa/) · copia: `2018/bce2f121fa92` (Web Archive 20200808) · licenza: propria
 - **2018** · it.euronews.com — [Beppegrillo.it "abusa" dei password manager per tracciare gli utenti](https://it.euronews.com/2018/01/04/il-blog-di-beppe-grillo-abusa-dei-password-manager-per-tracciare-gli-utenti) · copia: `2018/b51faaeb000b` (Web Archive 20180104) · licenza: terzi
 - **2018** · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri) · copia: `2018/961477acc443` (Web Archive 20180409) · licenza: terzi
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/) · copia: `2018/7e2f69f4b97b` (Web Archive 20250811) · licenza: terzi
@@ -1045,6 +1045,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [Come non sprecare un milione di euro](https://hermescenter.github.io/crvd.org-preservation/come-non-sprecare-un-milione-di-euro/) · copia: `2019/92e164fffed9` (live) · licenza: propria
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://hermescenter.github.io/crvd.org-preservation/i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/) · copia: `2019/48c4ec2b2a8e` (live) · licenza: terzi
 - **2019** · CRVD — Comitato per i Requisiti del Voto — [Voto Online? No, grazie, e ti spiego perché…](https://hermescenter.github.io/crvd.org-preservation/voto-online-no-grazie-e-ti-spiego-perche/) · copia: `2019/1c10e6370c44` (live) · licenza: propria
+- **2019** · Hermes Center for Transparency and Digit — [ANAC ed OpenWhistleblowing](https://hermescenter.org/anac-ed-openwhistleblowing/) · copia: `2019/c50f7407dde1` (Web Archive 20210805) · licenza: propria
+- **2019** · Hermes Center for Transparency and Digit — [Il software GlobaLeaks festeggia il primo anno a supporto del whistleblowing anonimo nella](https://hermescenter.org/il-software-globaleaks-festeggia-il-primo-anno-a-supporto-del-whistleblowing-anonimo-nella-pa/) · copia: `2019/00b78865f6bf` (Web Archive 20191022) · licenza: propria
 - **2019** · ius.lefebvregiuffre.it — [F. Brizzi, Il captatore informatico: un Exodus verso «buone pratiche»? (Il Penalista)](https://ius.lefebvregiuffre.it/dettaglio/8188379/il-captatore-informatico-un-exodus-verso-buone-pratiche) · copia: `2019/658334e1d15d` (live) · licenza: terzi
 - **2019** · MOJO Italia - Festival del giornalismo m — [Fabio Pietrosanti - MOJO ITALIA speaker](https://mojoitalia.wordpress.com/gli-speakers/fabio-pietrosanti/) · copia: `2019/42c19040bc86` (live) · licenza: terzi
 - **2019** · La Nuova di Venezia (gelocal, ripresa de — [Manovra, il M5S propone soldi per il fantasma del voto elettronico](https://nuovavenezia.gelocal.it/italia-mondo/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928390/amp/) · copia: `2019/15c51d4cd5b7` (Web Archive 20191122) · licenza: terzi
@@ -1139,15 +1141,20 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · GitHub fpietrosanti — [ifuriosi](https://github.com/fpietrosanti/ifuriosi) · copia: `2020/bc74d92eaf61` (Web Archive 20201205) · licenza: propria
 - **2020** · GitHub (osservatoriosicurezza) — [Commit 'Store on github project logos' (ossci-con-titolo.jpeg, ossci-senza-titolo.jpeg)](https://github.com/osservatoriosicurezza/Perimetro-Cibernetico-Italiano/commit/052275da0ceeb61ef62373a5553ea1e43fa11d0f) · copia: `2020/9a24dd5c1801` (live) · licenza: terzi
 - **2020** · CRVD — Comitato per i Requisiti del Voto — [Come sono riuscito a votare due volte su Rousseau](https://hermescenter.github.io/crvd.org-preservation/come-sono-riuscito-a-votare-due-volte-su-rousseau/) · copia: `2020/473df00a00d2` (live) · licenza: propria
+- **2020** · Hermes Center for Transparency and Digit — [ANAC e Hermes Center risolvono una controversia sull’applicazione della licenza AGPL al so](https://hermescenter.org/anac-e-hermes-center-risolvono-una-controversia-sullapplicazione-della-licenza-agpl-al-software-openwhistleblowing/) · copia: `2020/615d75991eeb` (Web Archive 20201130) · licenza: propria
+- **2020** · Hermes Center for Transparency and Digit — [Risposta alla Consultazione su Piano Anticorruzione del Comune di Roma](https://hermescenter.org/risposta-alla-consultazione-su-piano-anticorruzione-del-comune-di-roma/) · copia: `2020/9eaf70e08f94` (Web Archive 20200930) · licenza: propria
+- **2020** · Hermes Center for Transparency and Digit — [Whistleblowing: un impegno comune per recepire e applicare la Direttiva europea. Important](https://hermescenter.org/whistleblowing-un-impegno-comune-per-recepire-e-applicare-la-direttiva-europea-importante-tutelare-anche-chi-sta-attorno-ai-segnalanti-e-cioe-i-media-e-la-societa-civile/) · copia: `2020/a57a65087d83` (Web Archive 20200518) · licenza: propria
 - **2020** · Palgrave Macmillan (Springer Nature), Lo — [Digital Whistleblowing Platforms in Journalism: Encrypting Leaks](https://link.springer.com/book/10.1007/978-3-030-38505-7) · copia: `2020/5be3fab18681` (Web Archive 20200710) · licenza: terzi
 - **2020** · Springer, The International Library of E — [Cybersecurity and the State](https://link.springer.com/chapter/10.1007/978-3-030-29053-5_10) · copia: `2020/d5682508f68b` (Web Archive 20220120) · licenza: terzi
 - **2020** · Palgrave Macmillan (Springer Nature) — [A Taxonomy of Whistleblowing Platforms (ch. 5 of Di Salvo, Digital Whistleblowing Platform](https://link.springer.com/chapter/10.1007/978-3-030-38505-7_5) · copia: `2020/d578927552c3` (Web Archive 20220505) · licenza: terzi
 - **2020** · Springer, The International Library of E — [Cybersecurity and the State](https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf) · copia: `2020/4209544753a4` (Web Archive 20200510) · licenza: terzi
 - **2020** · Palgrave Macmillan (Springer Nature) — [Digital Whistleblowing Platforms in Journalism: Encrypting Leaks](https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1) · copia: `2020/ab096a913dc4` (live) · licenza: terzi
 - **2020** · Nexa Center for Internet & Society (Poli — [Tracciamento dei contatti e democrazia: lettera aperta ai decisori](https://nexa.polito.it/lettera-aperta-app-covid19/) · copia: `2020/fecb07b890f6` (Web Archive 20200421) · licenza: terzi
+- **2020** · Bloomberg - Listen to the Story — [North Korea's Man in Spain](https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain) · copia: `2020/d89f8f1c3c55` (Web Archive 20260206 · video locale `media.mp3` (26 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · ParteciPa (Dipartimento della Funzione P — [Apertura della base dati del Registro Imprese in Open Data](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/423) · copia: `2020/f973695f7ec0` (Web Archive 20241007) · licenza: terzi
 - **2020** · ParteciPa (Italian government consultati — [Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424) · copia: `2020/d5a756e462d6` (Web Archive 20240808) · licenza: propria
 - **2020** · ParteciPa (Dipartimento della Funzione P — [Rafforzare Cybersecurity Nazionale con Misurazione proattiva](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/425) · copia: `2020/2afc1fa9d196` (Web Archive 20240806) · licenza: terzi
+- **2020** · Valigia Blu (podcast) — [Come Cia e Bnd hanno spiato le diplomazie mondiali vendendo macchine antispionaggio](https://podcasters.spotify.com/pod/show/valigiablu/episodes/Come-Cia-e-Bnd-hanno-spiato-le-diplomazie-mondiali-vendendo-macchine-antispionaggio-eas0d2) · copia: `2020/baede58337bd` (live · video locale `media.m4a` (26 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Transparency International Italia (news) — [La libertà passa anche da #SaveDotOrg](https://transparency.it/informati/news/la-liberta-passa-anche-da-savedotorg) · copia: `2020/9e1fc12ee9f5` (live) · licenza: terzi
 - **2020** · tvxs.gr — [Εκδήλωση για το whistleblowing στις χώρες της Ευρωπαϊκής Ένωσης (Atene: Hermes Center con ](https://tvxs.gr/news/ellada/ekdilosi-gia-whistleblowing-stis-xores-tis-eyropaiki-enosis/) · copia: `2020/f9098a495723` (Web Archive 20250613) · licenza: terzi
 - **2020** · Twitter — [@BiondoNik: un'investigazione digitale di @fpietrosanti rivela cosa ha fatto Casaleggio in](https://twitter.com/BiondoNik/status/1334935680506621955) · copia: `2020/362539164174` (Web Archive 20201204) · licenza: terzi
@@ -1452,6 +1459,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2023** · Monitora PA — [3380 richieste di dismettere GMail (& friends)](https://monitora-pa.it/2023/03/01/3380-richieste-di-dismettere-gmail.html) · copia: `2023/d2d37565bb6e` (Web Archive 20230301) · licenza: propria
 - **2023** · Monitora PA — [GDPR howto: efficaci misure tecniche supplementari per GMail, Google Drive e Google Worksp](https://monitora-pa.it/2023/03/01/gdpr-misure-tecniche-supplementari-efficaci-per-gmail-e-gsuite.html) · copia: `2023/158ec4754aae` (Web Archive 20230302) · licenza: propria
 - **2023** · Monitora PA — [3255 PA segnalate al Garante](https://monitora-pa.it/2023/05/16/segnalazione-al-garante.html) · copia: `2023/a944c2ac082a` (Web Archive 20230522) · licenza: propria
+- **2023** · BBC World Service - Cyber Hack / The Laz — [The Lazarus Heist S2: 7. Crypto comrades](https://www.bbc.co.uk/programmes/w3ct5fc4) · copia: `2023/9ea259d2c7db` (Web Archive 20230507 · video locale `media.mp3` (42 MB, da caricare su Drive)) · licenza: terzi
 - **2023** · European Parliament, Policy Department f — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf) · copia: `2023/26bb7f5f7319` (Web Archive 20230224) · licenza: terzi
 - **2023** · Latina News (latinanews.eu) — [Elezioni - Matilde Celentano in visita alla sede Gls di Latina](https://www.latinanews.eu/elezioni-matilde-celentano-in-visita-alla-sede-gls-di-latina/) · copia: `2023/566f95d4a3c8` (live) · licenza: terzi
 - **2023** · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html) · copia: `2023/a6c17e995b05` (live) · licenza: terzi

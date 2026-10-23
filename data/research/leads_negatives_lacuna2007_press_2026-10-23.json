@@ -1,0 +1,67 @@
+[
+ {
+  "source": "PrivateWave Italia press pages (Wayback): privatewave.it/chi-siamo/area-stampa.html (7 captures 2010-2012), privatewave.com/about-us/press.html (2010, 2011), support.privatewave.com/display/WS/Press (2012)",
+  "query": "all external links and /media/ clipping files",
+  "result": "The links were followed (see the items file). The English pages list only derstandard.at (2010) and computerworld.ch (16.02.2010); both were read and name only Khamsa and its CEO Carlo Marchini, not Fabio. None of the 39 clipping PDFs/DOCs were archived."
+ },
+ {
+  "source": "Links from the PrivateWave 'Area stampa' page",
+  "query": "tecnozoom.it 13519 (Jan 2010), techup.it 03263 (Feb 2010), punto-informatico.it 2961238 'GSM, intercettare costa un pugno di dollari', malditech.corriere.it 2010/09 Nokia, Corriere.it 2010-02-22 'PrivateWave, la telefonia mobile sicura' (found by CDX of corriere.it/scienze_e_tecnologie/10_febbraio_2*; the Corriere tweet on the press page links to it), cellularemagazine.it video 279 page",
+  "result": "All read via Wayback; none names Pietrosanti or naif (they name Khamsa, Zimmermann and Marchini). The Reuters Italia tweet target could not be identified (no it.reuters.com slug in CDX for Feb-Mar 2010)."
+ },
+ {
+  "source": "neapolis.blog.rai.it (Wayback CDX, 750 URLs 2009-2011)",
+  "query": "2009/12/29/telefonate-protette-nea-polis-29122009",
+  "result": "Post page not captured; the excerpt is in /2009/12/page/3/ (20100111041458) and names no one. Reported as an unverified TV lead."
+ },
+ {
+  "source": "Italian trade and news press, live pages",
+  "query": "01net.it 108819 (10/06/2010 'La sicurezza aziendale ai tempi dell'iPhone'), 01net.it 'PrivateWave porta la sicurezza nel VoIp' (19/11/2010), corrierecomunicazioni.it 5007 (13/04/2010 Techub) and 'Made in Italy il software anti-intercettazioni' (16/11/2009), telefonino.net 'Khamsa PrivateGSM per Symbian' and 'Nasce PrivateWave Italia', pmi.it 200432 (2011), focus.it 'intercettazioni telefoniche low cost' (2010) and 'Tu parla che ti ascolto' (2008), punto-informatico.it 'GSM, il crack che fa discutere' (2010-01-04)",
+  "result": "None names Fabio Pietrosanti or naif (only Carlo Marchini, CEO)."
+ },
+ {
+  "source": "WordPress REST search",
+  "query": "pietrosanti / privatewave / khamsa on corrierecomunicazioni.it, ilfattoquotidiano.it, wired.it, ilpost.it, agendadigitale.eu, tomshw.it, hwupgrade.it, ictbusiness.it, lettera43.it, linkiesta.it",
+  "result": "Only CorCom answered (3 Khamsa/PrivateWave hits, all without his name). The other sites have no REST endpoint or return HTML or empty results."
+ },
+ {
+  "source": "Foreign coverage of the SecurStar/Notrax affair (Jan-Feb 2010)",
+  "query": "theregister.com 2010/01/29 'Many voice encryption systems easily crackable', infosecurity-magazine.com 'Many voice encryption systems are hackable', csoonline 2124808, linuxsecurity.com",
+  "result": "The Register 29/01 and Infosecurity Magazine do not name him. CSO 2124808 is the known article under another URL. LinuxSecurity is a syndicated copy (reported)."
+ },
+ {
+  "source": "NYT 2007-04-29 'Phone Taps in Italy Spur Rush Toward Encryption' (Peter Kiefer), read via attrition.org repost",
+  "query": "pietrosanti|khamsa",
+  "result": "Names only Caspertech and Snapcom; no Fabio."
+ },
+ {
+  "source": "Internet Archive full-text search (be-api fts)",
+  "query": "privatewave (5 hits), privategsm (6), naif AND intercettazioni (0), pietrosanti AND zrtp (0)",
+  "result": "Computer Idea 278 (22/12/2010) names PrivateWave/PrivateGSM but not him. 'Is my cell phone bugged?' (2011) is outside the window. The rest is known (PC Professionale 207) or out of scope."
+ },
+ {
+  "source": "YouTube via yt-dlp (metadata only)",
+  "query": "PrivateGSM Khamsa; PrivateWave intercettazioni; Fabio Pietrosanti intercettazioni/2010/tor2web; Khamsa cellulare cifrato; Neapolis telefonate protette; naif hacker sikurezza; TVtech intercettazioni GSM",
+  "result": "New: _S19ka5fy2Q (TVtech, reported as unverified). 4sdbeUZiK7I is a 2013 re-upload of the known CMAG video. zIdOuNDJ488, HSOZhYboPjA and 2NWpiLjlfjE are PrivateWave corporate demos (2010) and not press. Nothing for 2007-2008."
+ },
+ {
+  "source": "Wayback CDX regex on URL slugs (khamsa|privategsm|privatewave|pietrosanti|tor2web|zrtp), domain-wide 2007-2011 on 22 Italian outlets (ilsole24ore, espresso.repubblica, panorama, ilfattoquotidiano, wired.it, repubblica, lastampa, tgcom, 01net, pmi ...)",
+  "query": "filter=original regex",
+  "result": "FAILED: IA returned 504 or 'Temporarily Offline' for every domain-wide query. Not done; could be retried on the server."
+ },
+ {
+  "source": "Google Books API",
+  "query": "\"Fabio Pietrosanti\", Pietrosanti+Khamsa/PrivateGSM/intercettazioni/naif",
+  "result": "Blocked: HTTP 429 (daily quota exceeded). Not done."
+ },
+ {
+  "source": "WebSearch (~40 queries)",
+  "query": "name plus intercettazioni 2008/2009, Skype/VoIP, iPhone/BlackBerry, Wikileaks 2010, Tor2web 2008/2010, SecurStar/Notrax, Il Mondo/Economy/L'Espresso/Il Sole 24 Ore 2010, Radio24, Class CNBC/Class Life, Studio Aperto/TG2/TG3, warbiking Milano 2007, Zimmermann seminario Milano 2008, Khamsa SA Ticino, site:ilfattoquotidiano.it, tomshw/hwupgrade/zdnet/computerworld/wired",
+  "result": "No new 2007-2009 press item naming him. Wikileaks 2010 and Tor2web: nothing within 2007-2010 (his Tor2web 2.0 work is from 2011)."
+ },
+ {
+  "source": "RESIDUO (open leads)",
+  "query": "PrivateWave clipping PDFs 2010 (L'espresso apr 2010, Il Mondo apr/nov 2010, Economy feb/nov 2010, Il Sole 24 Ore 28 nov 2010, SpyWorld apr 2010, Sistemi di Telecomunicazioni mar 2010, Office Automation, InnovazionePA, IT-Security, Computer Dealer & Var, Finanza Mercati); Neapolis 29/12/2009 video (Rai Teche); Class Life Feb 2010; TV TG2/TG3/Studio Aperto 2007-2010; 2007-2008 press remains empty apart from known items",
+  "result": "Not verifiable online. Paper archives or Rai/Mediaset archives would be needed; Fabio may have the PrivateWave rassegna stampa PDFs."
+ }
+]

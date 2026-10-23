@@ -1,0 +1,67 @@
+[
+ {
+  "date": "2021-10-14",
+  "year": 2021,
+  "type": "audio",
+  "outlet": "The Crypto Conversation (Brave New Coin)",
+  "title": "Scandal and Turmoil - The Cryptocurrency Wild West",
+  "url": "https://podcasts.apple.com/us/podcast/scandal-and-turmoil-the-cryptocurrency-wild-west/id1471243424?i=1000538523963",
+  "language": "en",
+  "role": "mentioned",
+  "note": "Intervista a Ethan Lou, autore di «Once a Bitcoin Miner» (Pyongyang 2019, Virgil Griffith). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Audio: https://traffic.libsyn.com/secure/thecryptoconversation/ethan_FIN.mp3 VERIFICATO 2026-10-23 dalla trascrizione Whisper della copia locale (2021/739590054d09, 10:34): Ethan Lou cita «a cybersecurity specialist, Fabio Pietrosanti from Italy» tra gli otto partecipanti al viaggio in Corea del Nord.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2022-05-23",
+  "year": 2022,
+  "type": "audio",
+  "outlet": "DataKnightmare (Walter Vannini)",
+  "title": "DK 6x28 - MonitoraPA e le prese sul Titanic",
+  "url": "https://www.spreaker.com/episode/dk-6x28-monitorapa-e-le-prese-sul-titanic--49902887",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Puntata interamente su MonitoraPA («L'idea di un gruppo di cittadini hacker attivisti»); il nome di Fabio non è nella descrizione, ma iTunes indicizza l'episodio anche per «Pietrosanti» (probabile trascrizione). VERIFICATO 2026-10-23 dalla trascrizione Whisper della copia locale (2022/2af08eb1aa68, 05:16-05:46): Vannini nomina Centro Hermes e Copernicani e invita a guardare «l'intervista a Fabio Naif Pietrosanti» del Sole 24 Ore su Twitch.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2020-02-15",
+  "year": 2020,
+  "type": "audio",
+  "outlet": "Valigia Blu (podcast)",
+  "title": "Come Cia e Bnd hanno spiato le diplomazie mondiali vendendo macchine antispionaggio",
+  "url": "https://podcasters.spotify.com/pod/show/valigiablu/episodes/Come-Cia-e-Bnd-hanno-spiato-le-diplomazie-mondiali-vendendo-macchine-antispionaggio-eas0d2",
+  "language": "it",
+  "role": "quoted",
+  "note": "Versione audio dell'articolo Valigia Blu del 16/02/2020 (già in archivio, cita Pietrosanti sul caso Crypto AG). L'API iTunes Search (entity=podcastEpisode, term=Pietrosanti) restituisce l'episodio, ma la descrizione testuale non contiene il nome: corrispondenza quasi certamente dalla trascrizione automatica Apple dell'audio. Apple: https://podcasts.apple.com/us/podcast/come-cia-e-bnd-hanno-spiato-le-diplomazie-mondiali/id1497594850?i=1000465704985 VERIFICATO 2026-10-23 dalla trascrizione Whisper (2020/baede58337bd, 24:15-24:40): «come racconta a Valigia Blu Fabio Pietrosanti, che è stato cofondatore di Khamsa, poi PrivateWave».",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2020-05-01",
+  "year": 2020,
+  "type": "audio",
+  "outlet": "Bloomberg - Listen to the Story",
+  "title": "North Korea's Man in Spain",
+  "url": "https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain",
+  "language": "en",
+  "role": "mentioned",
+  "note": "Versione audio dell'articolo Bloomberg Businessweek di Josh Dean su Alejandro Cao de Benós (articolo già noto). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple). Apple: https://podcasts.apple.com/us/podcast/north-koreas-man-in-spain/id1578781150?i=1000530340359 VERIFICATO 2026-10-23 dalla trascrizione Whisper (2020/d89f8f1c3c55, 11:17-12:48): «Eight foreigners attended, including Italian information security specialist Fabio Pietrosanti», poi il pagamento di 7.100 euro per il lavoro di design e i programmatori nordcoreani.",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2023-05-07",
+  "year": 2023,
+  "type": "audio",
+  "outlet": "BBC World Service - Cyber Hack / The Lazarus Heist",
+  "title": "The Lazarus Heist S2: 7. Crypto comrades",
+  "url": "https://www.bbc.co.uk/programmes/w3ct5fc4",
+  "language": "en",
+  "role": "interviewed",
+  "note": "Episodio sulla conferenza crypto di Pyongyang del 2019 («Eight international tech experts decide to go»). iTunes Search lo restituisce per «Pietrosanti» senza il nome nella descrizione (probabile trascrizione Apple); il riassunto di podwise.ai non lo nomina. Audio: http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fgqj49.mp3 ; Apple: https://podcasts.apple.com/us/podcast/the-lazarus-heist-s2-7-crypto-comrades/id1561990291?i=1000608965765 VERIFICATO 2026-10-23 dalla trascrizione Whisper della copia locale (2023/9ea259d2c7db): Fabio è INTERVISTATO — si presenta a 10:49 («This is Fabio Pietrosanti»), poi 12:20-20:22 racconta con Chris (Emms) la conferenza di Pyongyang 2019 («Fabio says the group develops a sort of mantra…», l'hotel bar).",
+  "verified": true,
+  "known": true
+ }
+]

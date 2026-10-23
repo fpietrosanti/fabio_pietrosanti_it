@@ -422,6 +422,42 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Hermes/GlobaLeaks; programma finale RightsCon 2016 e Circumvention Tech Festival 2015; PDF dei programmi SIF, CPDP,
   re:publica, CoE, UNESCO; podcast 2020-24 da verificare (Valigia Blu, Ciao Internet, DataKnightmare); pista 2010
   tuttovolume.net 09/02/2010 (intervista, Khamsa) da controllare.
+- [ ] **Lacuna 2007–2010 — passata 2026-10-23** (2007 e 2008 con 13 voci ciascuno; 3 agenti: `pass4_lacuna2007_{talks,
+  press,tech}`, negativi in `data/research/leads_negatives_lacuna2007_*_2026-10-23.json`, ~85 ricerche) → **+17 voci**
+  (11 verificate + TVtech verificato con la trascrizione = 12).
+  - **Talk**: **WhyMCA Spring 2010** (Politecnico di Milano, 21/05/2010, «Mobile security and privacy», scheda + agenda) e
+    **WhyMCA 2011** (20/05/2011); **Security Summit Milano 2009** (26/03, Seminario SiKurezza.org) e **Hacking Film
+    Festival 2009** (tra gli organizzatori delle tavole rotonde); relatori Security Summit Milano 2010; 2 deck sul
+    SlideShare di PrivateWave (3746617, 3746738: copie di talk già noti).
+  - **Stampa/TV**: **TVtech 08/02/2010** «Intercettazioni GSM: più facili di quanto si creda» (YouTube `_S19ka5fy2Q`,
+    trascritto: «parere di Fabio Pietrosanti, security manager di Khamsa» → **verificato**); LinuxSecurity.com 02/2010
+    (ripresa CSO «Accusations fly over voice encryption hack»); pagina autore **Voice of VOIPSA** (2010, «Fabio
+    Pietrosanti (naif)»). **Piste dalla rassegna stampa PrivateWave** (`privatewave.it/chi-siamo/area-stampa.html`, 7
+    capture 2010-12): **Rai 3 TGR Neapolis 29/12/2009 «Telefonate protette»** (probabilmente la «Neapolis» della bio
+    2013), video Class Life 02/2010, 39 ritagli 2010 (Economy, L'Espresso, Il Mondo, Il Sole 24 Ore 28/11/2010…): nessun
+    PDF archiviato, sito 403 → domande a Fabio. **Escluso**: Comms Business (comunicato EVSS senza nome).
+  - **Negativi solidi**: e-privacy 2007/08/10, CCC 24C3-27C3 e Camp 2007, ESC 2008, Clusit newsletter 2007/09/10 (38
+    PDF), Infosecurity 2007-10, OWASP Day 1-5, Linux Day, voip2day/Astricon/HOPE 2008/HITB 2008/DeepSec; stampa 2007-08
+    (Corriere 22/02/2010 su PrivateWave nomina solo Marchini e Zimmermann; NYT 2007 sulle intercettazioni; The Register,
+    01net, CorCom, Focus); brevetti (solo la famiglia Khamsa nota), commit di Asterisk/PJSIP/Tor/FreeSWITCH/SniffJoke,
+    IETF datatracker, OpenAlex, tesi su ZRTP/VoIP.
+  **Resta** (Web Archive «Temporarily Offline» per gran parte della sessione): giro di 255 pagine (privatewave.com/.it,
+  zorg.org, khamsa.it, voipsa.org, sikurezza.org wiki 2009-11, infosecurity.ch 2007-08) avviato sul server
+  (`~/wb_tech2007_fetch.py`, esiti `~/wb_tech2007/hits2.jsonl`, fine quando `log.txt` dice «FETCH2 FINISHED") + CDX di
+  ohloh/freshmeat/launchpad/Google Code/zfone (`~/wb_tech2007_cdx2.sh`); SMAU 2007-10 (400 URL su ~9.000 controllati);
+  MOCA 2008 (programma non archiviato); seminario Trento 2010; URL di 22 testate italiane nel Web Archive (504);
+  Google Books (429); brevetto US20130252585 (Google Patents anti-bot, solo pista).
+
+## Note sessione 2026-10-23 (run programmata «ricerca profonda»)
+- **1154 voci** in `data/media.json` (1087 verificate). Prime voci della coda ancora bloccate (chiavi, login, risposte di
+  Fabio, video TimePie): lavorata la **lacuna 2007–2010** (vedi voce sopra, +17).
+- **Podcast solo audio → tutti e 5 verificati** con Whisper sulla copia locale: DataKnightmare 6x28 (2022, «l'intervista a
+  Fabio Naif Pietrosanti»), The Crypto Conversation 2021 (Ethan Lou), Bloomberg «North Korea's Man in Spain» (2020),
+  Valigia Blu Crypto AG (2020, «come racconta a Valigia Blu Fabio Pietrosanti»), **BBC The Lazarus Heist S2E7 «Crypto
+  comrades» (2023): sei INTERVISTATO** («This is Fabio Pietrosanti», 10:49, poi 12:20-20:22 con Chris Emms).
+  Audio presi dagli `episodeUrl` di iTunes Search (solo in locale).
+- **Prossima voce lavorabile:** raccogliere gli esiti del giro Web Archive sul server (`~/wb_tech2007`); sottotitoli Ciao
+  Internet sul server a ritmo lento; SMAU 2007-10 dal CDX; poi la lacuna 2017–2019 o i residui 2011-16 sul Web Archive.
 
 ## Note sessione 2026-10-22 (run programmata «ricerca profonda»)
 - **1119 voci** in `data/media.json` (1052 verificate). Le prime voci aperte della coda restano bloccate (chiavi API,

@@ -1,0 +1,41 @@
+[
+ {
+  "date": "2010-11-03",
+  "year": 2010,
+  "type": "pagina",
+  "outlet": "Voice of VOIPSA (voipsa.org blog, VoIP Security Alliance)",
+  "title": "Voice of VOIPSA » Fabio Pietrosanti (author page)",
+  "url": "https://web.archive.org/web/20101103070436/http://voipsa.org/blog/author/fpietrosanti/",
+  "language": "en",
+  "role": "author",
+  "note": "Contributor/author archive page on the VOIPSA blog. Wayback capture 20101103070436 (read 2026-10-23 via id_ capture): header 'Voice of VOIPSA » Fabio Pietrosanti', post 'Tuesday, October 5th, 2010 by Fabio Pietrosanti', signature 'Fabio Pietrosanti (naif) – http://fabio.pietrosanti.it'; he is listed among the VOIPSA blog authors (with Dan York, David Endler, Shawn Merdinger etc.). The only post on the page is the already-known 'VoIP Firewall: Telephony vs Security world' (2010-10-05). Live voipsa.org returns HTTP 500.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "",
+  "year": 2010,
+  "type": "article",
+  "outlet": "Comms Business (commsbusiness.co.uk)",
+  "title": "PrivateWave launches mobile phone anti-tapping solution",
+  "url": "https://www.commsbusiness.co.uk/news/privatewave-launches-mobile-phone-anti-tapping-solution/",
+  "language": "en",
+  "role": "mentioned?",
+  "note": "UNVERIFIED LEAD from web search (PrivateWave Enterprise VoIP Security Suite / PrivateGSM, c. 2010-2011). Behind a Cloudflare managed challenge (curl) and HTTP 403 to WebFetch; not bypassed. Not known whether it names Fabio. Check in a normal browser or via Wayback.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "",
+  "year": 2012,
+  "type": "patent",
+  "outlet": "Google Patents US20130252585A1",
+  "title": "US20130252585 (surfaced by web search for PrivateWave/Pietrosanti; content unknown)",
+  "url": "https://patents.google.com/patent/US20130252585A1/en",
+  "language": "en",
+  "role": "cited?",
+  "note": "UNVERIFIED LEAD: appeared (as google.de/patents/US20130252585) in a web search for 'slideshare PrivateWave Pietrosanti mobile voice encryption'. Google Patents answered 'Sorry'/503 during this pass, so it is unknown whether it cites PrivateGSM/PrivateWave or Fabio (possibly a non-patent-literature citation). Not his patent: the inventor search lists only the known Khamsa family.",
+  "verified": false,
+  "known": false
+ }
+]
