@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1154**; già processate: **1330**; ancora da processare: **0**
-- Licenza delle copie ottenute: **249** materiale proprio (ripubblicabile), **967** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1095**
+- Voci in `data/media.json`: **1157**; già processate: **1333**; ancora da processare: **0**
+- Licenza delle copie ottenute: **249** materiale proprio (ripubblicabile), **970** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1098**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **2**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -38,14 +38,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2010 | 70 | 3 | 2 | 0 | 0 | 0 | 4 |
 | 2011 | 31 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 1 |
-| 2013 | 27 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2013 | 28 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 38 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 23 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 79 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 61 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 62 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 85 | 3 | 0 | 0 | 0 | 0 | 2 |
-| 2020 | 167 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 168 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 55 | 15 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 4 | 0 | 0 | 1 | 0 | 0 |
@@ -736,6 +736,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2013** · GitHub tor2web/Tor2web — [Tor2web #120 «Prevent CRIME attack on TLS by disabling compression»](https://github.com/tor2web/Tor2web/issues/120) · copia: `2013/54bda7300896` (api) · licenza: propria
 - **2013** · globaleaks.org — [iSEC Partners — GlobaLeaks security assessment (2013)](https://globaleaks.org/docs/pt/2013-isec.pdf) · copia: `2013/4a06c690f261` (Web Archive 20260807) · licenza: propria
 - **2013** · Hermes Center for Transparency and Digit — [[IT] Lettera aperta a Skype: “Spieghi se sono sicure le conversazioni degli utenti”](https://hermescenter.org/it-lettera-aperta-a-skype-spieghi-se-sono-sicure-le-conversazioni-degli-utenti/) · copia: `2013/7d5e7af3cdda` (Web Archive 20190724) · licenza: propria
+- **2013** · mgpf.it — [Di censura, leggi ed altre sciocchezze – Il Blog di Matteo Flora](https://mgpf.it/2013/05/06/di-censura-leggi-ed-altre-sciocchezze.html) · copia: `2013/20ea2bc6fc7a` (Web Archive 20131010) · licenza: terzi
 - **2013** · Personal Democracy Forum — [Fabio Pietrosanti - speaker profile](https://personaldemocracy.com/speaker/fabio-pietrosanti/) · copia: `2013/2477679443f8` (Web Archive 20240917) · licenza: terzi
 - **2013** · Transparency International Italia - Whis — [Tecnologia come fattore abilitante per la trasparenza e contrasto alla corruzione](https://web.archive.org/web/2015/http://logioshermes.org/hermes-center-intervento-whistleblowingitalia-congress-milano/) · copia: `2013/7f1c35b6bd0c` (Web Archive 20131019) · licenza: propria
 - **2013** · WikiLeaks - Hacking Team emails (publish — [Re: Microsoft e gli exploit....](https://wikileaks.org/hackingteam/emails/emailid/224431) · copia: `2013/f77f960c1c97` (live) · licenza: terzi
@@ -974,6 +975,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Hermes Center for Transparency and Digit — [Il software libero e open source GlobaLeaks fornito gratuitamente agli enti pubblici: nasc](https://hermescenter.org/whistleblowingpa/) · copia: `2018/bce2f121fa92` (Web Archive 20200808) · licenza: propria
 - **2018** · it.euronews.com — [Beppegrillo.it "abusa" dei password manager per tracciare gli utenti](https://it.euronews.com/2018/01/04/il-blog-di-beppe-grillo-abusa-dei-password-manager-per-tracciare-gli-utenti) · copia: `2018/b51faaeb000b` (Web Archive 20180104) · licenza: terzi
 - **2018** · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri) · copia: `2018/961477acc443` (Web Archive 20180409) · licenza: terzi
+- **2018** · it.euronews.com — [Attenzione ai vostri dati più intimi: il business delle app per mestruazioni e gravidanza](https://it.euronews.com/2018/04/11/attenzione-ai-vostri-dati-piu-intimi-il-business-delle-app-per-mestruazioni-e-gravidanza) · copia: `2018/ddcc574a5b84` (Web Archive 20180414) · licenza: terzi
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/) · copia: `2018/7e2f69f4b97b` (Web Archive 20250811) · licenza: terzi
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks - Storia, Evoluzione, Modello di Sostenibilità Economica (slides)](https://merge-it.net/2018/talks/globaleaks/slides.pdf) · copia: `2018/dc7a19230918` (live) · licenza: propria
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180302-2024.mp3) · copia: `2018/c539f62a311d` (live) · licenza: terzi
@@ -1269,6 +1271,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Key4biz — [In Italia esiste davvero il comitato "quantistico" sul voto elettronico?](https://www.key4biz.it/in-italia-esiste-davvero-il-comitato-quantistico-sul-voto-elettronico/332220/) · copia: `2020/25d4680f2c02` (Web Archive 20201123) · licenza: terzi
 - **2020** · lastampa.it — [L’emergenza per Casaleggio può far “testare il voto online a marzo”, ecco come gli informa](https://www.lastampa.it/politica/2020/03/04/news/l-emergenza-per-casaleggio-puo-far-testare-il-voto-online-a-marzo-ecco-come-gli-informatici-lo-stroncano-1.38548899/) · copia: `2020/79c2958d757e` (Web Archive 20200305) · licenza: terzi
 - **2020** · La Stampa — [Nasce la piattaforma anti-Casaleggio, un gruppo di hacker famosi sfida Rousseau e la offre](https://www.lastampa.it/topnews/primo-piano/2020/10/02/news/nasce-la-piattaforma-anti-casaleggio-un-gruppo-di-hacker-famosi-sfida-rousseau-e-la-offre-gratis-ai-parlamentari-m5s-1.39374113/) · copia: `2020/720a314007d6` (Web Archive 20201008) · licenza: terzi
+- **2020** · lastampa.it — [Philip Morris e 5 Stelle il cortocircuito tra i siti e quell’evento con Raggi](https://www.lastampa.it/topnews/primo-piano/2020/12/04/news/philip-morris-e-5-stelle-il-cortocircuito-tra-i-siti-e-quell-evento-con-raggi-1.39618067) · copia: `2020/b65f95f31030` (Web Archive 20201204) · licenza: terzi
 - **2020** · Linkiesta (Nicola Biondo) — [Lo sconosciuto comitato governativo che sta pensando come farci votare con il voto elettro](https://www.linkiesta.it/2020/11/comitato-foia-voto-elettronico-italia-news/) · copia: `2020/37398b4034a9` (Web Archive 20201119) · licenza: terzi
 - **2020** · onData APS — [Rendere "ricercabile" il XXI secolo](https://www.ondata.it/rendere-ricercabile-il-xxi-secolo/) · copia: `2020/974cba09184b` (Web Archive 20220525) · licenza: terzi
 - **2020** · onData APS — [Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della](https://www.ondata.it/trasparenza/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/) · copia: `2020/dfbe1fa01b38` (live) · licenza: terzi

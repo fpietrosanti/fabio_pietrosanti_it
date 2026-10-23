@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1590**; dopo deduplica: **1154**
+- Risultati grezzi dalle ricerche: **1593**; dopo deduplica: **1157**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1099**
-- Verificati aprendo la pagina: **1087**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1102**
+- Verificati aprendo la pagina: **1090**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 228, tweet 132, Talk 91, Video 77, Post sul blog infosecurity.ch 72, Citato 53, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, audio 7, Capitolo di libro 6, Brevetto 6, pagina 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 231, tweet 132, Talk 91, Video 77, Post sul blog infosecurity.ch 72, Citato 53, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, audio 7, Capitolo di libro 6, Brevetto 6, pagina 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -31,14 +31,14 @@ Per tipo (nuovi): Menzionato 228, tweet 132, Talk 91, Video 77, Post sul blog in
 | 2010 | 6 | 77 | 64 |
 | 2011 | 4 | 30 | 27 |
 | 2012 | 0 | 38 | 38 |
-| 2013 | 0 | 32 | 32 |
+| 2013 | 0 | 33 | 33 |
 | 2014 | 0 | 29 | 29 |
 | 2015 | 0 | 45 | 45 |
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 79 | 79 |
-| 2018 | 0 | 72 | 72 |
+| 2018 | 0 | 73 | 73 |
 | 2019 | 0 | 68 | 68 |
-| 2020 | 0 | 176 | 176 |
+| 2020 | 0 | 177 | 177 |
 | 2021 | 0 | 90 | 90 |
 | 2022 | 0 | 67 | 67 |
 | 2023 | 0 | 19 | 19 |
@@ -554,7 +554,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
 
-## 2020 — 176 voci, 176 nuove
+## 2020 — 177 voci, 177 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -570,6 +570,8 @@ Anni senza nessun risultato: nessuno
   Tweet di @BiondoNik che menziona @fpietrosanti. Testo: «La storia segreta della consulenza che #PhilipMorris ha affidato alla Casaleggio Associati raccontata con tutti i documenti. L'investigazione digitale di @fpietrosanti: pubblicità ingannevole, fake news, manipolazioni.  https://t.co/95EffW6ajP» Link: https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/. Wayback capture 20201205145333 (id_) di twitter.com/fpietrosanti/status/1335217926077632512. La capture reindirizza a https://twitter.com/BiondoNik/status/1335114133725999104.
 - 🆕 **2020-12-05** · Menzionato · Twitter — [@carloalberto: le tracce cancellate ma ritrovate da @fpietrosanti dell'intrigo lobbistico grillino (Riformista)](https://twitter.com/carloalberto/status/1335123826200473600)  
   Tweet di @carloalberto che menziona @fpietrosanti. Testo: «Il fumo pentastellato &amp; l’arrosto informatico, ovvero: che cosa non si fa per gli amici (e 2 milioni di euro).   Inchiesta di @BiondoNik per @ilriformista sulle tracce -cancellate da qualcuno ma ritrovate da @fpietrosanti- dell’intrigo lobbistico grillino https://t.co/z4mHifIDkm» Link: https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/. Wayback capture 20201205140722 (id_) di twitter.com/fpietrosanti/status/1335175721170444288. La capture reindirizza a https://twitter.com/carloalberto/status/1335123826200473600.
+- 🆕 **2020-12-04** · Menzionato · lastampa.it — [Philip Morris e 5 Stelle il cortocircuito tra i siti e quell’evento con Raggi](https://www.lastampa.it/topnews/primo-piano/2020/12/04/news/philip-morris-e-5-stelle-il-cortocircuito-tra-i-siti-e-quell-evento-con-raggi-1.39618067)  
+  verified via wayback; context: …ggio associati, o direttamente o per i loro clienti». Per Philip Morris sostiene di aver fatto «il sito ufficiale in italiano e la campagna digitale per Iqos». Fabio Pietrosanti, esperto di cybersecurity e diritti digita…
 - 🆕 **2020-12-04** · Menzionato · Twitter — [@BiondoNik: un'investigazione digitale di @fpietrosanti rivela cosa ha fatto Casaleggio in rete per Philip Morris (domani sul Riformista)](https://twitter.com/BiondoNik/status/1334935680506621955)  
   Tweet di @BiondoNik che menziona @fpietrosanti. Testo: «Un'investigazione digitale fatta da @fpietrosanti rivela cosa ha fatto Casaleggio sulla rete per #PhilipMorris. La troverete domani mattina, con tutti i documenti inclusi, sul sito del @ilriformista. Alle 7.30. 'Notte, carusi!» Wayback capture 20201204202632 (id_) di twitter.com/fpietrosanti/status/1334957105607024641. La capture reindirizza a https://twitter.com/BiondoNik/status/1334935680506621955.
 - 🆕 **2020-12-03** · Ricerca · GitHub — [ifuriosi — archivio documentale della piattaforma ifuriosi.it (Philip Morris / Casaleggio Associati)](https://github.com/fpietrosanti/ifuriosi)  
@@ -1048,7 +1050,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Menzionato · whistleblowing.fund — [Digital Whistleblowing Fund — Jury (Round 3)](https://whistleblowing.fund/jury/)  
   verificato 2026-10-14: Fabio Pietrosanti (GlobaLeaks) nella giuria del Round 3 del Digital Whistleblowing Fund (anno stimato ~2019; bandi 2017-2020)
 
-## 2018 — 72 voci, 72 nuove
+## 2018 — 73 voci, 73 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -1130,6 +1132,8 @@ Anni senza nessun risultato: nessuno
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Spanish edition of the Noveck et al. handbook. Snippet: '... Pietrosanti, Miembro fundador y presidente del Centro Hermes para la Transparencia y los Derechos Humanos Digitales ...'.
 - 🆕 **2018-04-12** · Citato · Key4biz — [App per il ciclo mestruale, a rischio la privacy piu intima](https://www.key4biz.it/app-per-il-ciclo-mestruale-a-rischio-la-privacy-piu-intima/218397/)  
   Quoted on GDPR enforcement: first 24-36 months will be a period of legal testing
+- 🆕 **2018-04-11** · Menzionato · it.euronews.com — [Attenzione ai vostri dati più intimi: il business delle app per mestruazioni e gravidanza](https://it.euronews.com/2018/04/11/attenzione-ai-vostri-dati-piu-intimi-il-business-delle-app-per-mestruazioni-e-gravidanza)  
+  verified via wayback; context: …zzazione del proprio consenso" e le app saranno per esempio obbligate a cancellare i dati personali degli utenti che hanno smesso di usare il servizio. Secondo Fabio Pietrosanti, fondatore e presidente di Hermes, centro …
 - 🆕 **2018-04-11** · Talk · International Journalism Festival (Perugia) — speaker page — [Fabio Pietrosanti — president Hermes Center (IJF speaker page, sessions 2012-2018)](https://www.journalismfestival.com/speaker/fabio-pietrosanti)  
   Aggregate speaker profile with bio ('nickname "naif" since 1995') and list of his sessions IJF12-IJF18 with video links; the individual programme pages are already in media.json. Date = last listed session (IJF18, 11 Apr 2018).
 - 🆕 **2018-04-11** · Talk · International Journalism Festival 2018 (#IJF18), Perugia — [Italian privacy nightmare: tales of surveillance](https://www.journalismfestival.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance)  
@@ -1571,7 +1575,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2014-01-22** · Citato · Wired Italia — [Kiev, se il governo reprime le proteste via sms](https://www.wired.it/attualita/tech/2014/01/22/kiev-sms-governi-proteste/)  
   Quoted as security and telephony expert on mobile location tracking of protesters
 
-## 2013 — 32 voci, 32 nuove
+## 2013 — 33 voci, 33 nuove
 
 - 🆕 **2013-12-30** · Citato · WIRED (wired.com) — [Whistleblowing Rippling into New Corners](https://www.wired.com/2013/12/whistleblowing-rippling-new-corners/)  
   John Borland's 30C3 report; quotes him on GlobaLeaks and on media groups wanting to copy the Dutch Publeaks model; photo with Claudio Agosti
@@ -1619,6 +1623,8 @@ Anni senza nessun risultato: nessuno
   Conferenza PouL «GlobaLeaks e TOR» con Claudio Agosti; 2026-10-14: confermato da Fabio: entrambi hanno parlato sia di Tor sia di GlobaLeaks
 - 🆕 **2013-06-04** · Libro · Blonk (Italy) — [Destini Hacker - Attacco al sistema](https://books.google.com/books?id=5XJsAwAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Authors: Lele Rozza, Alessio Pennasilico (ISBN 9788897604198, 101 pp.). Snippet (list of Italian security people, probably acknowledgements): '... Fabio Pietrosanti, Yvette Agostini, Pierluigi Perri, Marco Misitano, Gabriele Faggioli, ... Matteo Flora, Giovanni Ziccardi, Corrado Giustozzi, Stefano Mele ...'. Page not shown.
+- 🆕 **2013-05-06** · Menzionato · mgpf.it — [Di censura, leggi ed altre sciocchezze – Il Blog di Matteo Flora](https://mgpf.it/2013/05/06/di-censura-leggi-ed-altre-sciocchezze.html)  
+  verified via wayback; context: …on mi annovero) e del mondo della Sicurezza Informatica, persone di calibro e levatura che vanno da “Raistlin” Zanero a Quintarelli, da “Mayhem” Pennasilico a “Naif” Pietrosanti a “MD” D’Itri, da “Rebus” Gabrini a “Night…
 - 🆕 **2013-05** · Menzionato · linkiesta.it — [Di censura, leggi ed altre sciocchezze - Linkiesta.it](https://www.linkiesta.it/blog/2013/05/di-censura-leggi-ed-altre-sciocchezze/)  
   verified via wayback; context: …on mi annovero) e del mondo della Sicurezza Informatica, persone di calibro e levatura che vanno da “Raistlin” Zanero a Quintarelli, da “Mayhem” Pennasilico a “Naif” Pietrosanti a “MD” D’Itri, da “Rebus” Gabrini a “Night…
 - 🆕 **2013-04-27** · Talk · International Journalism Festival (Perugia) — [Wiretappings and secure communications (Intercettazioni e comunicazioni confidenziali)](https://www.journalismfestival.com/programme/2013/intercettazioni-e-comunicazioni-confidenziali)  

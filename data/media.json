@@ -6943,6 +6943,23 @@
   "on_old_site": false
  },
  {
+  "date": "2013-05-06",
+  "year": 2013,
+  "type": "mentioned",
+  "outlet": "mgpf.it",
+  "title": "Di censura, leggi ed altre sciocchezze – Il Blog di Matteo Flora",
+  "url": "https://mgpf.it/2013/05/06/di-censura-leggi-ed-altre-sciocchezze.html",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …on mi annovero) e del mondo della Sicurezza Informatica, persone di calibro e levatura che vanno da “Raistlin” Zanero a Quintarelli, da “Mayhem” Pennasilico a “Naif” Pietrosanti a “MD” D’Itri, da “Rebus” Gabrini a “Night…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-23-0433"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2013-06-04",
   "year": 2013,
   "type": "book",
@@ -11247,6 +11264,23 @@
   "live_url": "https://hermescenter.org/announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18/",
   "tags": [
    "ijf"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2018-04-11",
+  "year": 2018,
+  "type": "mentioned",
+  "outlet": "it.euronews.com",
+  "title": "Attenzione ai vostri dati più intimi: il business delle app per mestruazioni e gravidanza",
+  "url": "https://it.euronews.com/2018/04/11/attenzione-ai-vostri-dati-piu-intimi-il-business-delle-app-per-mestruazioni-e-gravidanza",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …zzazione del proprio consenso\" e le app saranno per esempio obbligate a cancellare i dati personali degli utenti che hanno smesso di usare il servizio. Secondo Fabio Pietrosanti, fondatore e presidente di Hermes, centro …",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-23-0433"
   ],
   "on_old_site": false
  },
@@ -16311,6 +16345,23 @@
   "known": false,
   "_slices": [
    "pass4_tweets_2020_residui_2026-09-29"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-12-04",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "lastampa.it",
+  "title": "Philip Morris e 5 Stelle il cortocircuito tra i siti e quell’evento con Raggi",
+  "url": "https://www.lastampa.it/topnews/primo-piano/2020/12/04/news/philip-morris-e-5-stelle-il-cortocircuito-tra-i-siti-e-quell-evento-con-raggi-1.39618067",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …ggio associati, o direttamente o per i loro clienti». Per Philip Morris sostiene di aver fatto «il sito ufficiale in italiano e la campagna digitale per Iqos». Fabio Pietrosanti, esperto di cybersecurity e diritti digita…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-23-0433"
   ],
   "on_old_site": false
  },
