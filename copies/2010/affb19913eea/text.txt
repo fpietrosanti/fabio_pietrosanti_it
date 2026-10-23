@@ -1,0 +1,117 @@
+Mobile security and privacy | WhyMCA Mobile Developer Conf 
+
+ Chi siamo 
+
+ WhyMCA Manifesto 
+
+ Agenda 
+
+ Location e Contatti 
+
+ Blog 
+
+ Call for Sponsor 
+
+ Dicono di noi 
+
+ Spread the voice 
+
+ -->
+
+ Mobile security and privacy
+
+ La sicurezza nell'ambito dei dispositivi mobile e delle reti di comunicazione mobili è ancora poco considerata in ambito aziendale, sebbene attraverso l'handset in mano al personale transitino ormai tutte le informazioni più critiche dell'azienda.
+Il CTO e CSO implementano tutte le misure di sicurezza tipiche di infrastrutture ICT: IDS, Firewall, VPN, IPS, Url filters, Disk encryption, Backup ma troppo spesso dimenticano di mettere in sicurezza la componente mobile di accesso al proprio patrimonio informativo aziendale.
+Gli sviluppatori e società di ingegneria tendono ad affidarsi completamente ai protocolli di comunicazione utilizzati, fanno inoltre fatica a districarsi fra i numerosi modelli di sicurezza e funzionalità di enterprise security fornite dai dispositivi.
+La sicurezza del mobile non è spesso neanche considerata nell'ambito delle policy e procedure di sicurezza aziendale, se non per quanto riguarda il furto dei dispositivi e l'uso accettabile del traffico telefonico da parte del personale.
+
+Questo intervento ha l'obiettivo di fornire una visione ben articolata di quello che è il panorama dei rischi, delle tecnologie coinvolte e delle misure di protezione necessarie per garantire adeguata tutela alle informazioni scambiate o residenti sul dispositivo mobile, considerando oltre ai rischi per le informazioni aziendali anche gli scenari più pericolosi di frodi a danno dell'azienda e a danno degli operatori di telecomunicazione.
+
+Intercettazioni telefoniche, frodi telefoniche all'utente e all'operatore, furto di dati in mobilità, accesso a reti aziendali in mobilità sono solo alcune delle primarie problematiche legate al sensibile e ancora poco compreso te della "mobile security" .
+
+Particolare attenzione verrà posta sulle tematiche di ingegneria del software e produzione del software.
+
+L'intervento è molto ampio e vuole fornire una panoramica completa delle problematiche di sicurezza in ambito mobile, lasciando a una seconda fase informale a seguito dell'intervento eventuali discussioni e approfondimenti one-to-one e one-to-many.
+
+Draft dell'intervento:
+
+Difference between mobile security and IT security
+
+Mobile device security & mobile operating system security model
+- Too many technologies, too many security model
+ - Windows Mobile
+ - iPhone
+ - Nokia/Symbian
+ - RIM Blackberry
+ - Google Android
+ - Qualcomm Brew
+
+Mobile hacking and attack vector
+ - GSM Security
+ - UMTS Security
+ - MMS Security
+ - SMS Security
+ - Bluetooth Security
+ - WiFi Security
+ - NFC Security
+ - The economic risks
+
+ Nome e Cognome: 
+
+ Fabio Pietrosanti 
+
+ Orario: 
+
+ 10:50–11:35 
+
+ Tag Speech 
+
+ 2010 
+
+ Approvato 
+
+ Misc 
+
+ -->
+
+ Partecipa all'evento! 
+
+ L'iscrizione è gratuita!
+
+ Blog
+
+ 100 nuovi posti disponibili! 
+
+ - 
+
+ 11/04/2010 - 23:35 
+
+ Saremo sinceri: vi confidiamo che non speravamo proprio di andare sold out in poco più di 3 giorni dall'apertura delle iscrizioni. Poco più di 72 ore per registrare il tutto esaurito per i 200 posti messi a disposizione . E invece e' successo....
+
+ Leggi tutto 
+
+ 1 di 5
+
+ ›› 
+
+ Vedi Blog 
+
+ Tweet su whymca spring 2010
+
+ Video intervista #whymca10 su #Vodafone lab http://bit.ly/d9QgG2 #dev #barcamp #mobile 
+
+ Whymca Spring 2010 is coming!! Video presentation by @ricardobosio http://www.youtube.com/watch?v=vFwRQgA1se8 #whymca10 
+
+ All about the WhyMCA in a single page :-) http://addictomatic.com/topic/whymca #whymca10 
+
+ continua 
+
+ con il Patrocinio di
+
+ Platinum Sponsor
+
+ Silver Sponsor
+
+ Bronze Sponsor
+
+ Media Partner

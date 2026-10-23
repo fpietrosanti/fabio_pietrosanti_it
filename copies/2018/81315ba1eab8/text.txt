@@ -1,0 +1,65 @@
+Software di Whistleblowing in Riuso | HERMES Center for Transparency and Digital Human Rights 
+
+ English 
+
+ Center for Transparency and Digital Human Rights 
+
+ About &
+ mission 
+
+ Projects & Technologies 
+
+ News 
+& press 
+
+ Centro Hermes partecipa a Consultazione su acquisizione e riuso di software con riferimento al Whistleblowing Anticorruzione
+
+ Posted in News at 06.05.2018
+
+ Il Centro Hermes Partecipa alla Consultazione Pubblica su Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni  svoltasi presso il Forum del Team Trasformazione Digitale e Agid che si è conclusa ieri, 5 Maggio 2018.
+
+ Già nel 2017 inviammo un appello rivolto ad ANAC per la Tecnologia di Whistleblowing OpenSource , richiedendo che fosse posta grande attenzione nelle modalità di riuso non essendovi regole tecniche certe e non essendo definito alcun requisito funzionale nel bando, ritenendo che questa assenza comportasse seri rischi di riuscita del progetto.
+
+ Oggi grazie alle Linee Guida sul Riuso del Software nella Pubblica Amministrazione ci sono e regole certe che, se seguite adeguatamente, porteranno una vera e propria rivoluzione copernicana della PA rispetto ai virtuosismi di riuso, efficienza e risparmio.
+
+ Siamo felici di costatare che nelle linee guida riuso vi siano diversi elementi già da noi richiamati nel 2017 nel nostro appello rivolto ad ANAC circa le modalità di riuso del software di Whistleblowing, sopratutto rispetto a un percorso di efficienza, di risparmio per la PA, di crescita di conoscenza bene comune e di prevenzione di abusi da parte di operatori commerciali.
+
+ Siamo confidenti che se l’ Autorità Nazionale Anticorruzione seguirà dettagliatamente le linee guida sul riuso del software, il progetto sarà un successo e l’Italia potrà vantare il più importante progetto tecnologico “bene comune” al mondo nell’ambito del contrasto alla corruzione.
+
+ Un esempio virtuoso di riuso della piattaforma software di whistleblowing è stato praticato dalla Città di Barcellona , che ha portato le modifiche di codice software nel progetto su Github GlobaLeaks, producendo sul proprio repository le guide di installazione, di configurazione e le personalizzazioni contenutistiche.
+
+ L’autorità anticorruzione catalana, in completa autonomia, ha infatti replicato il setup di Barcellona ed entrambe le pubbliche amministrazione ora beneficiano della manutenzione evolutiva e correttiva del progetto principale, senza trovarsi nella difficoltà di sostenere importanti costi per il mantenimento di una edizione software autonoma, collaborando ad un unico progetto collaborativo usato in tutti i continenti, con frequenti updates e nuove funzionalità nonché test di sicurezza periodici.
+
+ In questo il Centro Hermes si mette a disposizione sia di ANAC che di Agid e Team Trasformazione Digitale per supportare pro-bono e coadiuvare il percorso di riuso del Software di Whistleblowing Anticorruzione, in quanto Maintainer del progetto GlobaLeaks su cui è basato il progetto.
+
+ Sono utili ai fini della identificazione del percorso di reintegrazione  fra il progetto software GlobaLeaks e l’edizione ANAC , la lettura dei seguenti thread sul Forum Italia Digitale in cui abbiamo risposto ad alcuni referenti IT di PA e cittadini che richiedevano informazioni circa l’adozione di GlobaLeaks e le differenze rispetto al software ANAC. Abbiamo effettuato, per quanto ci è stato possibile, alcune analisi tecniche e funzionali preliminari:
+
+ Software Whistleblowing Anticorruzione di ANAC o GlobaLeaks per legge 179/2017? 
+
+ Linee Guida OpenSource a Software Whistleblowing ANAC 
+
+ Riportiamo in seguito tutti i contributi del Centro Hermes alla Consultazione sulle Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni:
+
+ Guida alla pubblicazione di software opensource 
+
+ Linee guida sull’acquisizione di software 
+
+ Guida alla modifica di software opensource di terzi 
+
+ Linee guida sul riuso del software (art. 69) 
+
+ Istruzioni per il calcolo del TCO 
+
+ Oggetto della Valutazione 
+
+ Responsabilità connesse al rilascio 
+
+ La nostra risposta alla consultazione pone l’accento su un caso concreto, quello relativo al software di whistleblowing dove ci si trova nella particola condizione virtuosa in cui il “Software in Riuso” (non ancora rilasciato come tale) è basato sul “Software Opensource”, e quest’ultimo è già attivo e utilizzato da centinaia di PA in autonomia e gratuitamente.
+
+ Le PA potranno avere il grande beneficio della integrazione delle modifiche del “software in riuso” nel “software opensource” laddove ANAC rispetterà nel processo di messa in riuso quanto indicato dall’ Allegato E: Guida alla modifica di software Open Source di terzi .
+
+ Oltre alla risposta alla consultazione siamo a stimolare discussione sulle specifiche esigenze di adeguamento del bando MEPA Servizi ICT, in particolare rispetto alle procedure e modalità di acquisizione di software opensource: Bando ICT MEPA, OpenSource e Linee Guida Acquisizione Software e Riuso 
+
+ © HERMES Center for Transparency and Digital Human Rights - Unless otherwise stated CC-BY-SA-3.0-Italy License . - contacts 
+
+ Questo sito utilizza cookie tecnici e statistici, non di terze parti. Proseguendo nella navigazione accetti l’utilizzo dei cookie. Ok Privacy policy

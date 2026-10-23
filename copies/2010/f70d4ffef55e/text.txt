@@ -1,0 +1,248 @@
+Accusations Fly Over Voice Encryption Hack | CSO Online 
+
+ Topics 
+ Latest 
+ Newsletters 
+ Resources 
+ Buyer’s Guides 
+ Events 
+
+ Editions 
+
+ Search 
+
+ Menu 
+
+ Topics 
+
+ Close 
+
+ Analytics 
+ Application Security 
+ Artificial Intelligence 
+ Business Continuity 
+ Business Operations 
+ Careers 
+ Cloud Security 
+ Compliance 
+ Contributor Content 
+ Critical Infrastructure 
+ Cybercrime 
+ Enterprise Buyer’s Guides 
+ Generative AI 
+ Identity and Access Management 
+ Industry 
+ IT Leadership 
+ IT Management 
+ Network Security 
+ Physical Security 
+ Privacy 
+ Risk Management 
+ Security 
+ Security Infrastructure 
+ Software Development 
+ Vulnerabilities 
+
+ Back 
+
+ Close 
+
+ Search 
+
+ US - EN 
+
+ Topics Latest 
+ Newsletters 
+ Resources 
+ Buyer’s Guides 
+ Events 
+ More Awards 
+ Blogs 
+ BrandPosts 
+ Events 
+ Podcasts 
+ Videos 
+ Buyer’s Guides & Enterprise Spotlights 
+
+ Topics 
+
+ Topics Analytics 
+ Application Security 
+ Artificial Intelligence 
+ Business Continuity 
+ Business Operations 
+ Careers 
+ Cloud Security 
+ Compliance 
+ Contributor Content 
+ Critical Infrastructure 
+ Cybercrime 
+ Enterprise Buyer’s Guides 
+ Generative AI 
+ Identity and Access Management 
+ Industry 
+ IT Leadership 
+ IT Management 
+ Network Security 
+ Physical Security 
+ Privacy 
+ Risk Management 
+ Security 
+ Security Infrastructure 
+ Software Development 
+ Vulnerabilities 
+
+ Americas United States 
+
+ Asia ASEAN 
+ India 
+
+ Europe United Kingdom 
+
+ Oceania Australia 
+
+ Home 
+
+ Security 
+
+ Cybercrime 
+
+ by John E. Dunn
+
+ Accusations Fly Over Voice Encryption Hack
+
+ News 
+
+ Feb 2, 2010 3 mins 
+
+ German encryption firm <a href=" http://www.securstar.com/products.php"target="_blank"> SecurStar </a> has strenuously denied being behind an apparently independent test of voice encryption products that found many of its rivals could be hacked using a $100 phone-tapping program. 
+
+ German encryption firm SecurStar has strenuously denied being behind an apparently independent test of voice encryption products that found many of its rivals could be hacked using a $100 phone-tapping program.
+ In a blog on the subject , Fabio Pietrosanti, founder and CTO of Swiss encryption startup Khamsa , alleges that a supposedly independent test of 15 encryption products was in fact a marketing exercise designed to publicise one of only three products to pass the hacking test, SecurStar’s PhoneCrypt.
+ The tests by an anonymous researcher, ‘Notrax’, found that all but three programs and hardware products looked at could be bypassed by installing a simple wiretapping Trojan called FlexiSPY to record voice output without the programs giving the user any indication that security had been compromised.
+
+ Khamsa’s own GSM security software was not part of the test but the encryption technology it uses, ZRTP, came in for criticism. The moving force behind that system and its implementation in a program called Zfone is encryption pioneer and inventor of Pretty Good Privacy, Phil Zimmermann, who is also listed as being on Khamsa’s scientific board. 
+
+ According to Pietrosanti, the unnamed ‘Notrax’ was subsequently traced to an IP address connected to SecurStar after the individual followed a link embedded in a blog Pietrosanti had posted.
+ “The SecurStar GmbH PBX is open on the internet, it contains all the names of their employee and confirm us that the author of http:/infosecurityguard.com [the domain used to post the original test] is that company and is the anonymous hacker called Notrax,” says Pietrosanti.
+
+ He adds that SecuStar also appeared to be logging Google keywords related to the topic so as to have some idea of how the tests were being discussed.
+ When contacted, SecurStar denied any involvement with the tests. “We do not have anything to do with these tests and I have no idea about him [Notrax],” said SecurStar CEO, Wilfried Hafner in a call to Techworld.
+ According to Hafner, that Notrax used a SecurStar IP address was because the individual concerned had probably used the company’s anonymity service that hides real IPs behind his company’s.
+
+ “We have two million people using this product. Or he may have been an old customer of ours,” said Hafner.
+
+ As far as they go, the tests do appear to find a legitimate weakness in the programs under test even if a connection to one of the companies involved would represent a huge conflict of interest and discredit them in the eyes of the security community. Pietrosanti is certainly correct to say that researchers are normally keen to be identified with their testing, something ‘Notrax’ has avoided doing so far.
+ SecurStar’s Wilfried Hafner has a track record of security research himself, having in 2006 publicised a GSM hack using the same FlexiSPY software used in the recent test by Notrax.
+
+ Cybercrime Application Security Data and Information Security Encryption Vulnerabilities Security Malware Telecommunications Industry VoIP Google 
+
+ Show me more
+ Popular Articles Podcasts Videos 
+
+ news 
+ GitLab critical patches include one for a bug that allows code execution by unauthenticated users
+ By Evan Schuman 
+ Oct 22, 2026 5 mins 
+
+ GitLab Version Control Systems Vulnerabilities 
+
+ news 
+ Security teams urged to center defense on the flaw profile attackers target most
+ By John Leyden 
+ Oct 22, 2026 4 mins 
+
+ Cyberattacks Security Vulnerabilities 
+
+ news 
+ LiteLLM release pipeline hacked to distribute credential-stealing malware
+ By Prasanth Aby Thomas 
+ Oct 22, 2026 5 mins 
+
+ Artificial Intelligence Cybercrime Malware 
+
+ podcast 
+ Beyond Cybersecurity: The CISO as a Business Leader
+ By Joan Goodchild 
+ Oct 15, 2026 9 mins 
+
+ Bugs 
+
+ podcast 
+ Identity Has Become the New Security Perimeter
+ By Joan Goodchild 
+ Oct 8, 2026 8 mins 
+
+ Identity and Access Management 
+
+ podcast 
+ Why Email Still Works for Attackers
+ By Joan Goodchild 
+ Sep 30, 2026 6 mins 
+
+ Email Security 
+
+ video 
+ Beyond Cybersecurity: The CISO as a Business Leader
+ By Joan Goodchild 
+ Oct 15, 2026 9 mins 
+
+ Bugs 
+
+ video 
+ Identity Has Become the New Security Perimeter
+ By Joan Goodchild 
+ Oct 8, 2026 8 mins 
+
+ Identity and Access Management 
+
+ video 
+ Why Email Still Works for Attackers
+ By Joan Goodchild 
+ Sep 30, 2026 6 mins 
+
+ Email Security 
+
+ About 
+ About Us 
+ Advertise 
+ Contact Us 
+ Editorial ethics policy 
+ Foundry Careers 
+ Reprints 
+ Newsletters 
+ Contribute to CSO 
+ Add CSO as a Preferred Source in Google Search 
+
+ Policies 
+ Terms of Service 
+ Privacy Policy 
+ Cookie Policy 
+ Copyright Notice 
+ Member Preferences 
+ About AdChoices 
+ Your California Privacy Rights 
+ Privacy Settings 
+
+ More 
+ Awards 
+ Blogs 
+ BrandPosts 
+ Events 
+ Podcasts 
+ Videos 
+ Buyer’s Guides & Enterprise Spotlights 
+
+ Our Network 
+ CIO 
+ Computerworld 
+ InfoWorld 
+ Network World 
+
+ Facebook 
+ X 
+ YouTube 
+ Google News 
+ LinkedIn 
+
+ © 2026 FoundryCo, Inc. All Rights Reserved.

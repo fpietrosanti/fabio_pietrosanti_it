@@ -1,0 +1,138 @@
+ANAC ed OpenWhistleblowing | HERMES Center for Transparency and Digital Human Rights 
+
+ Skip to content 
+
+ Hermes Center 
+
+ for Transparency and Digital Human Rights
+
+ Menu 
+
+ Take action 
+
+ ECI — Riprenditi la Faccia 
+
+ Cos’è un’Iniziativa dei Cittadini Europei (ECI)? 
+
+ Riprenditi la Faccia 
+
+ About us 
+
+ Members 
+
+ Projects 
+
+ News 
+
+ Contact us 
+
+ Donate 
+
+ Supporta la nostra campagna! 
+
+ English 
+
+ English 
+
+ Italiano 
+
+ Posted on January 15, 2019 July 3, 2021 by admin 
+ ANAC ed OpenWhistleblowing
+
+ La piattaforma di whistleblowing di ANAC è basata sul software di whistleblowing open-source GlobaLeaks è nominata OpenWhistleblowing .
+
+ La scelta di ANAC di adoperare tecnologia pubblica, gratuita e bene comune come base per lo sviluppo della propria piattaforma di whistleblowing digitale e di promuovere in riuso tale tecnologia a tutta la pubblica amministrazione, rappresenta una scelta strategica che può realmente fare la differenza in termini di efficacia nell’implementazione di procedure di raccolta e gestione di segnalazioni.
+
+ Onde evitare ogni fraintendimento, si sottolinea come non vi sia un avallo da parte di ANAC né un accordo inerente il progetto GlobaLeaks, e che questa pagina ha il solo scopo di condividere il percorso che è stato fatto e lo stato corrente dei lavori. In questo modo, la comunità che segue il progetto GlobaLeaks può essere aggiornata sugli sviluppi delle funzionalità relative alla edizione del software denominato OpenWhistleblowing .
+
+ Attività intraprese con l’Autorità Nazionale Anticorruzione (ANAC) 
+
+ Il 24 Febbraio 2015 ANAC avvia una consultazione pubblica sulle Linee guida in materia di tutela del dipendente pubblico che segnala illeciti.
+
+ Il 16 Marzo 2015 il Centro Hermes, in qualità di sviluppatore principale del software GlobaLeaks, risponde alla consultazione ANAC.
+
+ A fine Aprile 2015 ANAC convoca il team di GlobaLeaks per una prima presentazione e uno scambio di conoscenza, in considerazione della disponibilità offerta dal Centro Hermes a condividere la propria esperienza maturata a livello internazionale in ambito whistleblowing .
+
+ Nel Luglio 2015  il Centro Hermes e ANAC firmano un Memorandum d’Intesa  per formalizzare l’avviato scambio di conoscenza già in essere.
+
+ Tra la seconda metà del 2015  e l’ inizio del 2016 il Centro Hermes effettua numerosi workshop presso ANAC, al fine di condividere liberamente le proprie esperienze. Alle attività partecipano vari uffici, tra cui l’area di information technology e l’ufficio di vigilanza incaricato di ricevere e gestire le segnalazioni. Le sessioni di workshop hanno come fine il brainstorming e la prototipazione software iterativa.
+
+ In questo periodo, il Centro Hermes effettua numerosi sviluppi e migliorie delle funzionalità del software adattandolo alle esigenze discusse durante le sessioni di workshop, attività che si susseguono con interazione, integrazioni e sviluppo sperimentale congiunto con ingegneri software interni di ANAC.
+
+ Tutte le attività vengono effettuate pro-bono, grazie all’impegno dei volontari del Centro Hermes e alla disponibilità dell’associazione a sostenere tali attività di ricerca e sviluppo che, ricordiamo, sono supportate dal grant internazionale di Open Technology Fund di Washington.
+
+ Ad inizio 2016 ANAC discute dell’evoluzione del progetto, sia per quanto riguarda la sua adozione interna sia per la sua redistribuzione in riuso a tutte le Pubbliche amministrazioni italiane.
+
+ Il Centro Hermes condivide diverse possibilità tra cui:
+
+ avviare una BETA pubblica con un “progetto pilota” lanciando online il prototipo fin da subito, seguendo poi un approccio agile di sviluppo e sempre a zero budget;
+
+ effettuare un corso di training on the job agli sviluppatori interni, così da avere un trasferimento di know-how tecnologico e culturale per rendere ANAC autonoma nel contribuire allo sviluppo del software.
+
+ In questa fase, il Centro Hermes mette a disposizione tutta la propria esperienza in merito all’adozione e diffusione di software opensource, considerato bene comune destinato al riuso. Inoltre, si ipotizza il coinvolgimento degli ingegneri software presenti nelle varie società in-house e delle unità di sviluppo software interni alla pubbliche amministrazioni, includendo le università con tesi e progetti di ricerca rivolti a migliorare e fare evolvere una importante tecnologia pensata per coadiuvare un efficiente contrasto alla corruzione in Italia.
+
+ Il 22 Giugno 2016 ANAC presenta pubblicamente, nella persona dell’ingegner Longobardi, la  Piattaforma di whistleblowing ANAC. E’ possibile visionare la ripresa video della presentazione (dal minuto 42, registrata da Radio Radicale ).
+
+ Sviluppi
+
+ ANAC decide di non lanciare la piattaforma nazionale in edizione “BETA” e continua, per il momento, ad utilizzare una semplice email whistleblowing@anticorruzione.it per la ricezione delle segnalazioni da parte di whistleblower. Subito dopo, avvia la definizione di un bando di gara per esternalizzare la manutenzione, il supporto e lo sviluppo del prototipo al fine del suo adattamento e dell’integrazione nella propria infrastruttura informatica.
+
+ A partire da questo momento, in compatibilità con le procedure di gara, ANAC sospende ogni comunicazione con il Centro Hermes, senza richiedere alcun supporto tecnico.
+
+ Il 6 luglio 2016 l’Autorità pubblica un bando di gara per l’affidamento della manutenzione ed evoluzione del software. All’interno del bando vengono inclusi alcuni requisiti di adeguamento del prototipo, oltre a funzionalità applicative, adeguamenti relativi all’utilizzo delle basi di dati (SQL Server 2008) e al sistema operativo utilizzato  (Redhat Enterprise 6) dall’Autorità.
+
+ Nell’ agosto 2016   Whistleblowing Solutions Impresa Sociale , (no-profit attraverso la quale il Centro Hermes effettua ricerca applicando la propria esperienza in materia di whistleblowing al supporto del contrasto alla corruzione), considerando l’andamento dei fatti e continuando a valutare il progetto importante e di utilità sociale, decide di partecipare anch’essa al bando di gara precedentemente citato.
+
+ Il 31 Gennaio 2017 ANAC sottolinea la rilevanza dell’open-source come forma di riuso nel suo Programma Triennale Anticorruzione 2017-2019  come descritto nella pagina sul Software in riuso opensource .
+
+ Il 15 Maggio 2017 l’Autorità comunica l’ aggiudicazione del bando di gara alla società La.Ser Romae Srl .
+
+ Il 28 maggio 2017 la Whistleblowing Solutions Impresa Sociale Srl, classificata ultima su sei partecipanti, pubblica la propria offerta tecnica invitando tutti gli altri partecipanti a pubblicare la loro e, congiuntamente, espone alcuni commenti di critica costruttiva in merito.
+
+ Il 29 maggio 2017 il Centro Hermes segnala alla Agenzia per l’Italia Digitale (AGID) il software GlobaLeaks.
+
+ Il 20 giugno 2017 il Centro Hermes segnala al progetto Comune From Scratch della Italian Linux Società il software GlobaLeaks.
+
+ Il 25 luglio 2017 il Centro Hermes lancia un Appello ad ANAC affinché questa si faccia supportare da AGID e dal Team di Trasformazione Digitale nella governance del progetto di whistleblowing digitale basato su GlobaLeaks.
+
+ Il 21 settembre 2017 ANAC risponde all’appello del Centro Hermes. 
+
+ L’ 8 febbraio 2018 l’Autorità lancia online il suo servizio di whistleblowing basato sul software GlobaLeaks ma con codename OpenWhistleblowing , realizzato con le modifiche richieste del bando di gara.
+
+ Il 27 febbraio 2018 il Centro Hermes risponde, sul Forum del Team Trasformazione Digitale, ad un quesito sul riuso del software GlobaLeaks dal titolo Software Whistleblowing Anticorruzione di ANAC o GlobaLeaks per legge 179/2017?. Viene fornita un’analisi preliminare degli aspetti tecnici e funzionali che differenziano GlobaLeaks e l’edizione software su cui è basato il servizio ANAC.
+
+ Il 5 maggio 2018 Il Centro Hermes risponde alla Consultazione Pubblica su Linee Guida in merito all’acquisizione ed al riuso di software per le pubbliche amministrazioni della Agenzia Italia Digitale, facendo specifico riferimento al software di whistleblowing anticorruzione che deve ancora essere posto in riuso e fornendo la propria disponibilità a supportare pro-bono questo percorso.
+
+ Il 15 gennaio 2019 ANAC rilascia l’edizione software GlobaLeaks denominata OpenWhistleblowing , sulla base della versione 2.60.144 del 14/03/2016
+
+ Il 15 Gennaio 2019 il Centro Hermes pubblica il documento “ Valutazione tecnica della edizione GlobaLeaks messa in riuso con nome OpenWhistleblowing da ANAC ” con l’analisi tecnica-funzionale di dettaglio relativo a quanto di software e documentazione sia stato messo in riuso, le limitazioni, criticità e opportunità di re-integrazione nella edizione principale del software, condividendolo sul Forum Italia Digitale .
+
+ Il 16 Gennaio 2019 il Centro Hermes effettua richiesta di accesso civico generalizzato ad ANAC , come già realizzato per documentare il caso di Riuso del Comune di Milano , rivolta ad acquisire e pubblicare tutto il materiale documentale prodotto durante lo svolgimento del progetto, con l’obiettivo di condivisione trasparente del percorso di produzione della conoscenza bene comune relativa al progetto GlobaLeaks.
+
+ Il 19 Ottobre 2020 ANAC e Centro Hermes comunicano con reciproca soddisfazione di aver risolto amichevolmente una controversia giudiziale circa l’applicazione della licenza GNU AGPL versione 3 al software per la gestione delle segnalazioni di illeciti OpenWhistleblowing , messo a disposizione delle amministrazioni pubbliche da ANAC, edizione derivata dalla soluzione GlobaLeaks 2.60.144 di Hermes.
+
+ Categories News 
+
+ Post navigation
+
+ Previous Post Previous Lettera aperta al MISE per garantire la corretta finalizzazione del regolamento europeo ePrivacy 
+ Next Post Next Lettera aperta per richiedere la soppressione degli articoli 11 e 13 della direttiva europea sul copyright 
+
+ Search for: 
+
+ Search 
+
+ Recent Posts
+
+ ShareArt e rilevamento del volto dei visitatori nei musei: inviata segnalazione al Garante Privacy 
+
+ Vivere in una #PaperBagSociety 
+
+ Il Centro Hermes e altre 3 associazioni hanno inviato segnalazioni e reclami contro Clearview AI 
+
+ La proposta di Regolamento sull’AI della Commissione Europea dimostra esattamente il motivo per cui chiediamo un divieto della sorveglianza biometrica di massa 
+
+ Primi importanti risultati a due mesi dal lancio di Riprenditi la Faccia 
+
+ Privacy Policy 
+ Proudly powered by WordPress

@@ -1,0 +1,268 @@
+Debutta Mafialeaks, la piattaforma - La Stampa 
+
+ -->
+
+ -->
+
+ Notifiche 
+ -->
+
+ Il Quotidiano
+
+ Abbonati 
+
+ Menu 
+
+ Cerca 
+
+ Notifiche 
+
+ Il Quotidiano
+
+ Abbonati
+
+ In Evidenza
+
+ Leggi il quotidiano
+
+ Abbonati
+
+ Torino 
+
+ La Stampa USA 
+
+ Sezioni
+
+ Cronaca 
+
+ Cultura 
+
+ Economia 
+
+ Energie 
+
+ Esteri 
+
+ Esercizi di Stile 
+
+ Fuoriclasse 
+
+ La Zampa 
+
+ Mare 
+
+ Montagna 
+
+ Motori 
+
+ Politica 
+
+ Salute Più 
+
+ Scienza 
+
+ Specchio 
+
+ Specchio dei
+ Tempi 
+
+ Spettacoli 
+
+ Sport 
+
+ Tech 
+
+ TorinoSette 
+
+ TuttoLibri 
+
+ TuttoSoldi 
+
+ TuttoScienze 
+
+ Vatican Insider 
+
+ Viaggi 
+
+ Video 
+
+ Edizioni Locali
+
+ Alessandria 
+
+ Asti 
+
+ Aosta 
+
+ Biella 
+
+ Cuneo 
+
+ Imperia e Sanremo 
+
+ Milano 
+
+ Novara 
+
+ Roma 
+
+ Savona 
+
+ Torino 
+
+ Verbano Cusio
+ Ossola 
+
+ Vercelli 
+
+ La voce de La Stampa
+
+ Editoriali 
+
+ Podcast 
+
+ Rubriche 
+
+ Audioarticoli 
+
+ Servizi
+
+ Abbonamenti 
+
+ Archivio Storico 
+
+ Aste 
+
+ Editoriali 
+
+ Meteo 
+
+ Necrologie 
+ -->
+ Newsletter 
+
+ Premium 
+
+ Scrivi alla redazione 
+
+ Pubblicità 
+
+ Dati Societari 
+
+ Contatti 
+
+ Sei qui:
+
+ Home 
+
+ Archivio 
+
+ Acquista da
+ 0.7€ /sett 
+
+ -->
+
+ Commenta -->
+
+ Debutta Mafialeaks, la piattaforma
+
+ Il sito consente a vittime, pentiti
+
+ federico guerrini
+
+ 05 Novembre 2013 alle 18:47 
+
+ 2 minuti di lettura 
+
+ È online da oggi MafiaLeaks, una piattaforma di whistleblowing creata da anonimi sviluppatori italiani per consentire a vittime, collaboratori (pentiti) di organizzazioni mafiose e semplici cittadini a conoscenza di qualche dettaglio utile alle indagini, di inviare le proprie segnalazioni in maniera sicura a forze dell’ordine, giornalisti e associazioni antimafia.
+
+ Potenzialmente, un progetto ad alto impatto, che potrebbe aiutare a rompere il muro dell’omertà grazie all’uso sapiente della tecnologia. La piattaforma si basa, per la gestione del flusso di informazioni fra segnalatore e ricevente, sul software Open Source italiano GlobaLeaks, sviluppato dal Centro per la Trasparenza e i Diritti Umani Digitali Hermes di Milano. Per la parte relativa all’anonimato delle fonti, il sistema usato, invece, è quello tradizionalmente preferito da whistleblower, attivisti e cittadini di nazioni non democratiche per inviare le proprie segnalazioni all’esterno: Tor, il programma che nemmeno la National Security Agency americana ( http://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption ) è stato in grado di bypassare totalmente (sebbene alcune tecniche messe a punto dalla Nsa consentano di aggirarne in taluni casi la protezione). 
+
+ MafiaLeaks ( http://www.mafialeaks.org ) è online da oggi. Il sito ufficiale è una semplice vetrina dove vengono spiegate caratteristiche e obiettivi del progetto: per accedere alle funzioni di segnalazione bisogna scaricare Tor e collegarsi a una speciale indirizzo. In alternativa, è possibile visualizzare la piattaforma anche da browser, tramite un programma chiamato Tor2Web ( http://tor2web.org ), cliccando sul seguente Url: https://pliqhphjyny4yglg.onion.to/ .
+
+ Un Wikileaks della lotta alla mafia, verrebbe da dire. Definizione che però rischia di non piacere a tutti. Su Twitter, a questo proposito, è partito un botta e risposta fra Carola Frediani, autrice dell’articolo su Wired.it che per primo ha rivelato il lancio di MafiaLeaks e la collaboratrice dell’Espresso Stefania Maurizi, che si è occupata spesso per il settimanale del sito lanciato da Assange e delle problematiche collegate al whisteblowing. “Chiunque voglia costruire piattaforma x leaks criminalità organizzata deve fornire livello protezione pari sicurezza nazionale – ha twittato Maurizi”, che ha aggiunto “o tu hai veramente certezze e sei in grado di offrire davvero una sicurezza che fa la differenza, oppure non fai passare il messaggio che una soluzione è sicura e le fonti possono fidarsi”. 
+
+ Dubbi che sono sembrati fuori luogo sia a Frediani (che comunque tiene a sottolineare di aver semplicemente dato una notizia e di non essere in alcun modo associata a MafiaLeaks) che ha replicato “nessuno è al 100 per cento sicuro mai passato qs messaggio ma mancano critiche circostanziate” che a Fabio Pietrosanti, uno degli sviluppatori del software GlobaLeaks, usato dalla piattaforma anti-mafia (anche in questo caso non c’è nessun rapporto fra Pietrosanti e MafiaLeaks, GlobaLeaks è scaricabile da chiunque, in maniera indipendente e anonima, come infatti è avvenuto). Pietrosanti ha fatto rimarcare, fra l’altro, come la gestione dell’anonimato sia affidata a Tor, usato anche da Wikileaks all’epoca di Manning. 
+
+ “Il mio non è un attacco a MafiaLeaks – chiarisce Maurizi a La Stampa.it – ce ne fossero cento, mille di queste iniziative. Ritengo cruciale sottolineare che quando si parla di mafia, entrano in gioco soggetti che possono comprare chi fa le leggi, chi le deve far rispettare, gli apparati dello Stato, come i servizi. E quindi il livello di sicurezza richiesto per proteggere le fonti è altissimo, perché di fatto le fonti corrono rischi gravissimi”. “Sono tre anni che il team di Wikileaks– continua Maurizi – non ha ancora ricreato la piattaforma di invio dei documenti, perché è ben conscio di essere nel mirino di tutte le intelligence del mondo”. Insomma, nessuna stroncatura a priori di MafiaLeaks, ma un invito a considerare bene i rischi e tutelare al massimo i whistleblower” 
+
+ Va detto, comunque che per lo sviluppo di GlobaLeaks, progetto sostenuto dall’Open Technology Fund, sono occorsi due anni, e che il software è stato sottoposto con successo a due serie di test anti-intrusione da parte di esperti di altissimo livello. In questo periodo è in corso una terza valutazione. Attualmente GlobaLeaks è adottato da una trentina di testate in varie nazioni, dall’Olanda alla Bulgaria alla Serbia.
+
+ Video del giorno 
+
+ Militari con poteri di polizia, cosa sarebbe cambiato: perché la norma è saltata 
+
+ Leggi anche
+
+ Condizioni per la fornitura del servizio di abbonamento cartaceo 
+
+ Ripartita la Centrale del Latte Asti Alessandria, una cella frigo alternativa a Castellazzo 
+
+ Centro di identificazione per i migranti a Mentone, via alla realizzazione 
+
+ © Riproduzione riservata 
+
+ La guida allo shopping del Gruppo Gedi
+
+ i
+
+ Consigli.it sceglie e raccomanda in maniera indipendente
+prodotti e servizi che si possono acquistare online o tramite la
+consulenza di esperti. Ogni volta che viene fatto un acquisto attraverso
+ uno dei link presenti nel testo, Consigli.it riceve una commissione
+senza alcuna variazione del prezzo finale. 
+
+ SOLO 5? AL MESE 
+ Pochi lo sanno: una polizza vita per proteggere chi ami costa solo 5? al mese
+
+ OFFERTE A TEMPO LIMITATO 
+ Le migliori offerte Amazon di questa settimana, aggiornate in tempo reale
+
+ Cronaca 
+
+ Economia 
+
+ Esteri 
+
+ Politica 
+
+ Sport 
+
+ Torino 
+
+ Scrivi
+ alla redazione 
+
+ Pubblicità 
+
+ -->
+
+ Pubblicità 
+
+ Dati
+ Societari 
+
+ Contatti 
+
+ Cookie Policy 
+
+ Privacy 
+
+ CMP 
+
+ Sede 
+
+ Dichiarazione di accessibilità 
+
+ Riserva TDM 
+
+ LA STAMPA SAE S.P.A 
+
+ P. IVA 13425960013 
+
+ Redazione: 
+
+ Via Ernesto Lugaro 15 - 10126 Torino (TO), Italia
+
+ I diritti delle immagini e dei testi sono riservati. È espressamente vietata la loro riproduzione con qualsiasi
+ mezzo e l'adattamento totale o parziale.

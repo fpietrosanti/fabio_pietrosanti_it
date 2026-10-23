@@ -1,0 +1,75 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:09] Recentemente abbiamo parlato di sicurezza nelle comunicazioni cellulare sulle
+[00:14] pagine di hardware upgrade. Per un approfondimento abbiamo sentito il
+[00:17] parere di Fabio Pietrosanti, security manager di CAMSA.
+[00:21] Negli ultimi mesi la sicurezza delle reti di comunicazione mobile GSM o MTS è stata
+[00:28] messa assolutamente a dura prova, perché nel dicembre del 2009, quindi
+[00:32] veramente due mesi fa, un ricercatore tedesco Carson Null ha da donna
+[00:36] dimostrazione di come poter intercettare tutte le chiamate GSM con degli
+[00:41] appareti hardware da meno di 2.000 dollari e del software open source, che è stato
+[00:45] ampiamente rilasciato. Questo finalmente dopo 15 anni di rottura
+[00:49] teorica della sicurezza del GSM è arrivato l'attacco pratico reale con
+[00:54] 2.000 dollari, oggi è possibile intercettare una comunicazione GSM.
+[00:59] L'ironia della sorte nel gennaio 2010 è stato rilasciato un paper di
+[01:05] ricercatori israeliani che dimostra la rottura teorica, quindi non vede
+[01:10] ancora un'implementazione pratica ma che arriverà ragionevolmente nell'arco di
+[01:14] uno o due anni, delle comunicazioni sulla rete 3G, sulla rete MTS.
+[01:18] Quindi nell'arco di due mesi abbiamo potuto vedere la rottura pratica del
+[01:24] GSM alla portata di tutti e questo porterà un incredibile aumento dell'attività
+[01:29] di spionaggio e di intercettazione abusive e la rottura per il momento
+[01:33] teorica probabilmente nell'ambito di servizi d'intelligenza già pratica anche
+[01:38] della comunicazione del 3G. Staremo a vedere per quanto riguarda il 4G
+[01:41] dell'ET che è in arrivo. Le intercettazioni sono quindi una realtà molto vicina
+[01:47] alla vita quotidiana degli utenti? Ben che normalmente la tematica e il
+[01:52] rischio percepito dall'utente medio, dalla persona media legato alle
+[01:57] intercettazioni sia basso perché perché le intercettazioni famose
+[02:00] vanno alla ribalta della politica, vanno alla ribalta dell'economia, la crona
+[02:07] che ne parla in modo importante. Nell'ambito dello spionaggio, quello più
+[02:13] spicciolo, quello in cui l'agenzia investigativa con un basso sensoetico,
+[02:19] le intercettazioni sono qualcosa di uso comune per dei costi di qualche
+[02:25] mila e di euro al giorno è possibile avere intercettazione abusive da un
+[02:29] numero sempre maggiore di agenzie investigative private che non rispettano
+[02:35] l'etica investigativa e la licenza che è concessa per l'attività investigativa è
+[02:39] che sforano la bariera della legalità andando a fare lo spionaggio.
+[02:42] Spionaggio tipicamente e per finalità economiche, azienda contro azienda e
+[02:49] per finalità personali. Esistono moltissimi contesti in cui con un
+[02:53] costo relativamente ridotto è possibile attuare un'intercettazione.
+[02:57] In particolare quali sono i punti deboli delle chiamate telefoniche?
+[03:01] I principali punti deboli delle comunicazioni telefoniche sono che i
+[03:04] paradigmi di sicurezza che sono alla base delle comunicazioni mobili sono
+[03:10] stati trovati vulnerabili e delle tecniche di attacco pubbliche sono state
+[03:14] dimostrate. I produttori di dispositivi e gli operatori telefonici
+[03:19] hanno basato tutta la sicurezza su queste tecnologie oramai considerate
+[03:26] rotte sia l'attopratico che l'ambito teorico per le soluzioni future.
+[03:30] Di conseguenza l'utente non ha modo pratico di rendersi conto che una
+[03:35] comunicazione è intercettata. Nel mondo internet, se c'è un attacco di phishing
+[03:40] per esempio, il lucchetto del certificato digitale SSL, falso per
+[03:46] esempio di un server nel l'est Europa al posto della Banka X o Banka Y,
+[03:51] non è qualcosa che il browser internet mostra l'utente come un messaggio
+[03:55] importante, ciò non avviene nei telefonini per cui il telefonino si
+[04:00] collega alla rete di comunicazione che li tiene fidata per default e non darà mai
+[04:05] un messaggio all'utente per dire riguarda che in questo momento stai rischiando di
+[04:09] essere intercettato quindi il paradigma di sicurezza tra internet e la
+[04:13] telefonia è completamente diverso l'utente non a modo di sapere se
+[04:17] sotto intercettazione o meno. E quindi il mercato offre tutta una
+[04:21] serie di soluzioni per proteggersi. Sì, la protezione delle comunicazioni
+[04:25] mobile passa per forza dall'utilizzo di strumenti di cifratura delle
+[04:30] comunicazioni mobili che non si basano sui sistemi di sicurezza utilizzati
+[04:35] built-in nella telefonia mobile quindi parlavamo della 5 bar 1 che è il
+[04:41] sistema di sicurezza della telefonia gsm e il casumi che sono i sistemi di
+[04:45] sicurezza della telefonia 3G. Nostro caso noi produciamo preve gsm, un
+[04:52] prodotto software che si stalla su dispositivi in occhia in modo
+[04:56] assolutamente, diciamo, liberamente scaricabile da internet al contrario di
+[04:59] maggior parte di questi prodotti destinati esclusivamente a uno suo
+[05:02] governativo che utilizza direttamente la rete gsm e attraverso una
+[05:08] comunicazione dati stabilita direttamente dal telefonino chiamante al
+[05:12] telefonino chiamato, cripta la comunicazione vocale da una parte
+[05:18] all'altra utilizzando lo standard di sicurezza zrtp. Oggi è sufficiente
+[05:23] avere una accesso a una rete gsm qualsiasi e l'opzione forniva dall'operatore
+[05:29] dati e fax per poter proteggere le comunicazioni e renderle assolutamente
+[05:34] non intercettabili. Un aspetto rilevante di questa soluzione è che la chiave
+[05:39] di protezione di ognuna di queste telefonate viene creata al momento
+[05:43] dell'inizio della conversazione e distrutta dalla memoria del telefonino
+[05:48] immediatamente alla fine della comunicazione, rendendo sostanzialmente
+[05:52] irrecuperabili tutte le comunicazioni anche qualora fossero
+[05:55] state intercettate nella loro forma cifrata.

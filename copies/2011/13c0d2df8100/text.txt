@@ -1,0 +1,87 @@
+Sicurezza dei dispositivi e delle comunicazioni mobile: An in-depth overview | WhyMCA 
+
+ Jump to Navigation 
+
+ -->
+
+ Menu istituzionale
+ Chi siamo 
+
+ Manifesto 
+
+ Dicono di noi 
+
+ Contatti 
+
+ RSS 
+
+ 2011-05-20T00:00:00-00:00 
+ up 
+ %days% 
+
+ Sicurezza dei dispositivi e delle comunicazioni mobile: An in-depth overview
+
+ presentato al WhyMCA Mobile Developer Conference , 20-21 Maggio 2011 
+
+ L'intervento vuole fornire le principali nozioni inerenti il funzionamento del modello di sicurezza dei sistemi operativi e delle tematiche pratiche necessarie a garantire una adeguata sicurezza delle comunicazioni attraverso un utilizzo appropriato delle tecnologie di comunicazione SSL/TLS (comunemente utilizzate nell'https).
+
+ Sarà fornita ai partecipanti una visione molto di dettaglio sulle seguenti tematiche: 
+
+ - Analisi dei modelli di sicurezza delle principali piattaforme smartphone (iPhone, Android, Blackberry, Nokia S60)
+
+ - Overview del funzionamento e dei meccanismi di sicurezza dell'SSL, utilizzato per la cifratura delle connessioni
+
+ - Analisi degli stack SSL/TLS presenti sugli smartphones (capabilities, API, controllo per third parti developer, controllo per l'utente, problematiche di export control crittografiche)
+
+ - Opportunità di utilizzo di stack SSL/TLS indipendenti all'interno delle applicazioni
+
+ Tema: 
+ Misc 
+
+ Relatore: 
+ Fabio Pietrosanti
+
+ Sala/Track: 
+ Crossplatform 
+
+ Slot: 
+ 10:30 - 11:20
+
+ Giorno: 
+ Venerdì, May 20, 2011 
+
+ Torna all'agenda 
+
+ Tweet 
+
+ Fabio Pietrosanti 
+
+ Menu principale
+ Home 
+
+ Agenda 
+
+ Agenda Mobile 
+
+ Aiutaci 
+
+ Blog 
+
+ Seguici su
+
+ #whymca
+
+ da @{{from_user}} , {{created_at}}
+ {{text}}
+
+ whymca
+
+ Ultimi post del blog
+
+ 16 Maggio 2011 
+
+ WhyMCA Mobile Hackathon, qui si fa sul serio 
+
+ 6 Maggio 2011 
+
+ E tu, sei un #mobileactivist?

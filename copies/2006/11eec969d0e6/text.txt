@@ -1,0 +1,340 @@
+ParallelsDesktop.txt ≈ Packet Storm 
+
+ exploit the possibilities
+
+ Register | Login 
+
+ Files News Users Authors 
+
+ Home Files News &[SERVICES_TAB] About Contact Add New 
+
+ ParallelsDesktop.txt
+
+ ParallelsDesktop.txt 
+ Posted Oct 30, 2006 
+ Authored by naif 
+ Parallels Desktop for Mac - Build 1940 creates files with insecure permissions.
+
+ tags | advisory 
+ SHA-256 | e4c883be914c2e585934e5e834b9e62c1863e95b15be5a3217e5c05a2f5a9f93 
+ Download | Favorite | View 
+
+ Related Files 
+ Share This
+
+ LinkedIn 
+ Reddit 
+ Digg 
+ StumbleUpon 
+
+ ParallelsDesktop.txt
+
+ Change Mirror Download 
+
+ While testing the useful parallels for osx, i noticed that this piece of
+software:
+root 2818 0.0 0.0 31780 152 ?? Ss 5:33PM 0:01.57
+/Library/StartupItems/Parallels/prl_dhcpd
+
+wrote this file:
+xxxxx:~ xxx$ ls -al /Library/Parallels/.dhcpd_configuration
+
+with the following permission:
+-rw-rw-rw- 1 root wheel 0 Oct 26 17:32
+/Library/Parallels/.dhcpd_configuration
+
+The parallels release is: Parallels Desktop for Mac - Build 1940
+(October 12, 2006)
+
+Bye
+
+-naif
+
+ Login or Register to add favorites
+
+ Follow us on Twitter 
+
+ Follow us on Facebook 
+
+ Subscribe to an RSS Feed 
+
+ File Archive:
+ May 2024
+
+ < Su
+ Mo
+ Tu
+ We
+ Th
+ Fr
+ Sa
+
+ 1 
+ May 1st
+ 44 Files
+
+ 2 
+ May 2nd
+ 5 Files
+
+ 3 
+ May 3rd
+ 11 Files
+
+ 4 
+ May 4th
+ 0 Files
+
+ 5 
+ May 5th
+ 0 Files
+
+ 6 
+ May 6th
+ 28 Files
+
+ 7 
+ May 7th
+ 0 Files
+
+ 8 
+ May 8th
+ 0 Files
+
+ 9 
+ May 9th
+ 0 Files
+
+ 10 
+ May 10th
+ 0 Files
+
+ 11 
+ May 11th
+ 0 Files
+
+ 12 
+ May 12th
+ 0 Files
+
+ 13 
+ May 13th
+ 0 Files
+
+ 14 
+ May 14th
+ 0 Files
+
+ 15 
+ May 15th
+ 0 Files
+
+ 16 
+ May 16th
+ 0 Files
+
+ 17 
+ May 17th
+ 0 Files
+
+ 18 
+ May 18th
+ 0 Files
+
+ 19 
+ May 19th
+ 0 Files
+
+ 20 
+ May 20th
+ 0 Files
+
+ 21 
+ May 21st
+ 0 Files
+
+ 22 
+ May 22nd
+ 0 Files
+
+ 23 
+ May 23rd
+ 0 Files
+
+ 24 
+ May 24th
+ 0 Files
+
+ 25 
+ May 25th
+ 0 Files
+
+ 26 
+ May 26th
+ 0 Files
+
+ 27 
+ May 27th
+ 0 Files
+
+ 28 
+ May 28th
+ 0 Files
+
+ 29 
+ May 29th
+ 0 Files
+
+ 30 
+ May 30th
+ 0 Files
+
+ 31 
+ May 31st
+ 0 Files
+
+ Top Authors In Last 30 Days
+
+ Red Hat 276 files 
+
+ Ubuntu 65 files 
+
+ Debian 25 files 
+
+ Gentoo 16 files 
+
+ LiquidWorm 10 files 
+
+ nu11secur1ty 5 files 
+
+ kai6u 3 files 
+
+ Adam Gowdiak 3 files 
+
+ liquidsky 3 files 
+
+ gabe_k 3 files 
+
+ File Tags
+ ActiveX (933) 
+ Advisory (85,109) 
+ Arbitrary (16,688) 
+ BBS (2,859) 
+ Bypass (1,834) 
+ CGI (1,032) 
+ Code Execution (7,655) 
+ Conference (689) 
+ Cracker (844) 
+ CSRF (3,374) 
+ DoS (24,654) 
+ Encryption (2,383) 
+ Exploit (52,865) 
+ File Inclusion (4,253) 
+ File Upload (987) 
+ Firewall (822) 
+ Info Disclosure (2,856) 
+ Intrusion Detection (908) 
+ Java (3,128) 
+ JavaScript (890) 
+ Kernel (7,041) 
+ Local (14,718) 
+ Magazine (586) 
+ Overflow (13,082) 
+ Perl (1,431) 
+ PHP (5,205) 
+ Proof of Concept (2,372) 
+ Protocol (3,703) 
+ Python (1,605) 
+ Remote (31,457) 
+ Root (3,618) 
+ Rootkit (523) 
+ Ruby (620) 
+ Scanner (1,650) 
+ Security Tool (7,984) 
+ Shell (3,259) 
+ Shellcode (1,217) 
+ Sniffer (900) 
+ Spoof (2,261) 
+ SQL Injection (16,542) 
+ TCP (2,425) 
+ Trojan (689) 
+ UDP (899) 
+ Virus (669) 
+ Vulnerability (32,669) 
+ Web (9,885) 
+ Whitepaper (3,775) 
+ x86 (967) 
+ XSS (18,184) 
+ Other 
+
+ File Archives
+ May 2024 
+ April 2024 
+ March 2024 
+ February 2024 
+ January 2024 
+ December 2023 
+ November 2023 
+ October 2023 
+ September 2023 
+ August 2023 
+ July 2023 
+ June 2023 
+ Older 
+
+ Systems
+ AIX (429) 
+ Apple (2,078) 
+ BSD (376) 
+ CentOS (58) 
+ Cisco (1,927) 
+ Debian (7,028) 
+ Fedora (1,693) 
+ FreeBSD (1,246) 
+ Gentoo (4,483) 
+ HPUX (880) 
+ iOS (373) 
+ iPhone (108) 
+ IRIX (220) 
+ Juniper (69) 
+ Linux (49,509) 
+ Mac OS X (691) 
+ Mandriva (3,105) 
+ NetBSD (256) 
+ OpenBSD (488) 
+ RedHat (15,710) 
+ Slackware (941) 
+ Solaris (1,611) 
+ SUSE (1,444) 
+ Ubuntu (9,480) 
+ UNIX (9,395) 
+ UnixWare (187) 
+ Windows (6,653) 
+ Other 
+
+ © 2022 Packet Storm. All rights reserved.
+
+ Site Links 
+ News by Month 
+ News Tags 
+ Files by Month 
+ File Tags 
+ File Directory 
+
+ About Us 
+ History & Purpose 
+ Contact Information 
+ Terms of Service 
+ Privacy Statement 
+ Copyright Information 
+
+ Services 
+ Security Services 
+ Hosting By 
+ Rokasec 
+
+ Follow us on Twitter 
+
+ Follow us on Facebook 
+
+ Subscribe to an RSS Feed

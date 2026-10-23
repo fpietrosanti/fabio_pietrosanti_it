@@ -1,0 +1,266 @@
+# Trascrizione automatica (faster-whisper small) di media.mp3
+[00:01] Salve a tutti, siete su Runtime la radio geek e questa è Data Nightmare dove l'algoritmico
+[00:07] è politico.
+[00:08] Scometto che nell'ultima settimana avete sentito parlare molto di hacker attivisti digitali
+[00:14] e di DPO, di Google Analytics e di siti della pubblica amministrazione.
+[00:18] Titoli che dicono che Analytics è illegale, altri che dicono che invece no, chi lo dà
+[00:25] lo spirito, chi critica il metodo, chi cita prever, chi copia baglioni.
+[00:30] Non sentitevi tagliati fuori se non vi è chiaro il senso ultimo della questione.
+[00:35] Le due migliori cose che ho visto sono l'articolo di Stefano Gazella su Infosec.News e un bellissimo
+[00:42] post sul blog dei Cristian Barnieri che pesa un po' più della notizia di cui invece si
+[00:48] è parlato e che come tutte le cose veramente di rilevo non sta avendo risonanza.
+[00:53] Mi sento in dovere di parlare anch'io, un po' perché sono culturalmente vicino,
+[00:59] un po' perché sono un DPO e soprattutto perché se sono convinto che l'algoritmico è
+[01:05] politico sono altrettanto convinto che la politica non è algoritmica.
+[01:10] O se vogliamo dirla meglio e ricordarci gli insegnamenti di Weizenbaum, i problemi delle
+[01:16] persone non si risolvono con la tecnologia.
+[01:19] Ma andiamo con ordine.
+[01:22] SIGLA
+[01:36] Succede che un gruppo di hacker attivisti, due anni dopo Schremse 2, si stufa di vedere
+[01:42] che tutto sembra andare avanti come prima.
+[01:43] Succede che questi hacker attivisti, visti i provedimenti del garante francese, di quell'Austriaco
+[01:50] e dello stesso garante europeo contro Google Analytics, si chiedono perché mai il garante
+[01:56] italiano non abbia ancora detto nulla in materia.
+[01:59] Tanto più che la nostra pubblica amministrazione è notoriamente legata a mani e piedi a
+[02:05] Big Tech.
+[02:06] Ho già parlato, credevo ampiamente, del problema e soprattutto del fatto che non si limiti
+[02:13] a Google Analytics, nell'episodio 14, nel 16, nel 18 e nel 21 solo per restare alla stagione
+[02:20] in corso.
+[02:21] Questo solo per dire che il problema non è nuovo e gli hacker attivisti hanno tutte
+[02:28] le ragioni di essere un po' impazienti.
+[02:32] Ora, occorre capire che nel cervello di un hacker un problema non può restare senza soluzione.
+[02:40] È una sensazione euforizzante per chi la vive quanto incomprensibile per chi la osserva.
+[02:46] Il problema continua a girare in testa senza sosta e tutte le energie vengono catalizzate
+[02:54] nella ricerca di una soluzione.
+[02:56] Questo è un dono e anche una patologia.
+[03:01] E se la soluzione non c'è, la si costruisce specia perché scrivere codice è costruire
+[03:09] mondi.
+[03:10] E questo è un grande potere e anche un grande maledizione.
+[03:16] Lacker è uno che quando si sveglie la mattina deve fare conti con il suo dono, il suo enorme potere
+[03:24] e la maledizione che le consegne.
+[03:27] Come tutti.
+[03:29] Molto prima che l'Europa scoprisse le filosofie orientali o le teorie economiche del mercato, i greci
+[03:36] avevano capito che gli opposti si bilanciano sempre ma non è detto che l'equilibrio ci piaccia.
+[03:42] Avevano capito che ogni dono è anche una patologia e ogni potere è anche una maledizione.
+[03:50] Cassandra poteva vedere il futuro ma non essere creduta.
+[03:56] Achille era invincibile ma col carattere di un adolescente.
+[04:00] I programmatori creano mondi, ma il risultato è Facebook.
+[04:05] Mi pare sia stato platone a dire ogni persona che incontri sta combattendo una battaglia di
+[04:13] cui non sai nulla, si gentile, sempre.
+[04:17] Quindi se il problema è che la pubblica amministrazione usa ancora analytics, la soluzione da
+[04:32] eccar cittadino attivista è monitorare i siti della pubblica amministrazione, individuare
+[04:39] quali usano ancora analytics e inviare in automatico una PEC che invita a sostituirlo appena una
+[04:45] segnalazione al garante privacy.
+[04:48] Se fanno melina, periodicamente si ripete il tutto.
+[04:52] Problema risolto.
+[04:53] Tutto questo ha dell'incredibile ma è veramente successo.
+[04:59] Si chiama monitora PA ed è nelle parole dei suoi membri nella FAC una delle tante comunità
+[05:06] hacker italiane composta da attiviste e attivisti, cittadine e cittadini attenti alla riservatezza
+[05:13] delle nostre vite e alla libertà dei nostri concittadini.
+[05:16] Al nostro fianco, sin dall'inizio, lavorano il centro Hermes e l'associazione Copernicani
+[05:22] cui si stanno unendo nuove associazioni pronte a contribuire alla nostra azione di
+[05:26] monitoraggio civico.
+[05:28] In parole povere, sono degli idealisti, gente pericolosa.
+[05:33] Se volete vedere che faccia a un idealista hacker cittadino attivista, cercate info data
+[05:41] del sole 24 ore su Twitch e guardate l'intervista a Fabio Naif Pietrosanti.
+[05:46] Molto bella e notate peraltro come Fabio non abbia la felpa nera e non non mangi
+[05:53] i bambini.
+[06:06] Quindi, in una settimana, 7.833 pubbliche amministrazioni italiane hanno ricevuto da
+[06:13] monitora PA una PEC che diceva, siamo un gruppo di hacker cittadini attivisti.
+[06:20] Abbiamo rilevato che il vostro sito usa Google Analytics.
+[06:24] Come hanno detto i garanti francese e austriaco, Google Analytics è il lecito.
+[06:30] La vostra è una grave violazione del GDPR.
+[06:34] Vi diffidiamo a sostituirlo entro 30 giorni con Web Analytics Italia, soluzione gratuita,
+[06:40] open source e ospitate in Italia raccomandata dall'agenzia per l'Italia digitale.
+[06:45] Altrimenti, faremo segnalazione al garante e al difensore civico.
+[06:50] Se pensate che suoni un tantino donki sciottesco, sono con voi.
+[06:57] Il problema è che donki sciotte è una tragedia, non un modello.
+[07:05] Io, quelli di monitora PA, li capisco.
+[07:08] 20, forse 30 anni fa, ero esattamente come loro.
+[07:14] Per questo so che non funziona.
+[07:16] Intendiamoci, far progredire la pubblica amministrazione è un obiettivo nobilissimo, ma è a quello
+[07:25] che bisogna puntare.
+[07:26] Disperdere le energie proprie del pubblico che ha l'intervallo di attenzione di un
+[07:32] pesce rosso e della pubblica amministrazione stessa, dove ci sono tanti che vogliano fare
+[07:39] meglio ma anche loro hanno solo due mani, non è una strategia vincente.
+[07:45] Se vogliamo dirla all'americana, se dai la caccia a un leone, hai un colpo solo.
+[07:53] Cominciamo a dire che non siamo a cena fra amici.
+[07:59] Quindi, la sfida non la vincono oratoria ed entusiasmo.
+[08:05] Ma chi ha argomenti corretti, inopugnabili e applicabili.
+[08:10] E siccome le cose da sistemare sono tante, bisogna mirare giusto e al bersaglio grosso, altrimenti
+[08:21] l'attenzione, il tempo e le risorse finiranno prima.
+[08:25] Non fra gli idealisti, ma di sicuro nella pubblica amministrazione.
+[08:34] Secondo, qui stiamo parlando di leggi e di diritti.
+[08:37] Le parole sono importanti, il riconoscimento dei ruoli è importante, la separazione dei
+[08:47] poteri è importante.
+[08:49] Quindi rivediamo l'effetto del messaggio nella testa dell'altra parte, magari di
+[08:56] un dpi o che qualcosa ne capisce e che, come tutti, ha un intero lavoro da fare,
+[09:02] non solo occuparsi di analytics, e solo due mani.
+[09:06] Siamo un gruppo di hacker, eccetera.
+[09:12] Già se ti presenti come hacker mi aspetto un esaltato.
+[09:16] Poi una pubblica amministrazione non ha alcun dovere verso un generico gruppo, se il
+[09:23] gruppo non ha un rappresentante con una faccia.
+[09:26] La sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della
+[09:33] costituzione.
+[09:35] E se dicenti gruppi senza nome e coniume davanti non sono cittadini, altrimenti qualsiasi pagina
+[09:41] Facebook con 500.000 amici sarebbe il Parlamento.
+[09:46] Che peraltro sia già sentita come cosa e non è finita bene.
+[09:51] Abbiamo rilevato che… ok, e quindi?
+[09:58] Tutto il mondo usa Google Analytics, dimmi qualcosa che non so.
+[10:04] I garanti francese e austriaco.
+[10:07] Siamo in Italia.
+[10:09] Da noi si ascolta il garante italiano, che è lì apposta e non ha ancora detto nulla.
+[10:15] Hanno detto che Google Analytics è il lecito.
+[10:20] Il garante decide sul singoli caso.
+[10:24] Per avere valori di legge i suoi provvedimenti devono passare il ricorso.
+[10:29] Certo, se non avessimo altro da fare o se avessimo risorse abadilate, potremmo
+[10:35] fiutare l'aria e portarci avanti.
+[10:37] Ma non siamo nemmeno nello stesso paese.
+[10:41] La vostra è una grave violazione.
+[10:46] Ah, e chi lo dice esattamente?
+[10:50] Il gruppo.
+[10:52] Ma il gruppo tutto, tutti gli hacker, tutti i cittadini o c'è una maggioranza transversale.
+[10:58] Il titolare del trattamento determina finalità e mezzi del trattamento e se una cosa
+[11:06] viola o meno il GDPR lo decide il garante, non il primo che passa, per quanto bene informato
+[11:14] magari.
+[11:15] Voi non mi sembrate nemmeno bene informati.
+[11:18] Vi diffidiamo a, pronto, ci diffidate e, a che titolo esattamente, ci sono scaffali
+[11:31] di regolamenti cui dobbiamo sottostare come pubblica amministrazione.
+[11:35] Un manco avete una faccia e, secondo voi, la pubblica amministrazione è tenuta a ascoltare
+[11:39] l'opinione del primo che passa, ma cosa avete in testa, le scimmio urlanti?
+[11:47] Entro 30 giorni.
+[11:48] Ok, e nel caffè ci volete una zolletta o due?
+[11:52] Se sapeste di cosa state parlando avreste letto che Agid ci dà tempo fino a dicembre
+[11:59] e secondo voi noi abbiamo il tempo e le risorse di farlo a giugno, in caso di inadimpienza
+[12:08] ci rivolgeremo.
+[12:10] Prego, noi da cui a dicembre ci pensiamo, forse, sempre che non arrivi il nuovo accordo
+[12:17] con l'usa.
+[12:18] Sai che c'è?
+[12:20] Invece della difida ti faccio io una denuncia contro i noti.
+[12:26] Primo, miminacci.
+[12:28] Secondo ti cito per danno di immagine perché non è vero che il mio sito a Google Analytics,
+[12:34] tutt'altro, lo so perché l'ho fatto togliere i oieri.
+[12:38] Tu invece i tuoi dati li hai raccolti in modo controllato e li hai depositati in un log da
+[12:44] un notaio.
+[12:45] O ti sei limitato a lanciare il tuo scriptino.
+[12:48] No perché te la faccio passare io la voglio di rompere.
+[13:20] Ora, io capisco l'ardore, capisco l'indignazione, capisco l'entusiasmo.
+[13:28] Ma come strategia politica noi abbiamo ragione e quindi voi dovete fare come
+[13:35] diciamo noi, non va da nessuna parte per il semplice fatto che il mondo, o quanto meno
+[13:43] la democrazia, non funziona così.
+[13:45] Peraltro c'era già stato quello che urlava di aprire il Parlamento come una scatoletta
+[13:51] di tonno, non è finita bene nemmeno lì mi pare.
+[13:56] Sapete chi funziona così?
+[13:59] I media.
+[14:00] E infatti, monitora piasta raccogliendo un sacco di attenzione su I media.
+[14:07] L'intervista al sole 24 ore, essere perculati in tempo reale da Andrea Lisi su agenda digitale
+[14:14] punto EU, un bel botto ma significa che sei la nuova Greta Thunberg o, visto l'accento
+[14:22] sulla comunità e la partecipazione, il nuovo grillo.
+[14:26] Sei il due di ghiande di turno a briscola.
+[14:30] Che cosa servirebbe meglio?
+[14:34] Se lo chiedete a me direi, primo, mirare subito oltre Analytics che è solo lo specchietto
+[14:43] per le all'odole e puntare al cloud.
+[14:46] La raccomandazione del garante europeo cui si riferisce tape, citata
+[14:51] anche per altra un'altro da un'indagine delle autorità privacy tedesche, dice questo
+[14:55] riguardo ai fornitori cloud statunitensi.
+[14:58] Il Comitato europeo dei garanti, considerato l'attuale Stato dell'arte, non è in grado di prevedere
+[15:06] una misura tecnica efficace per impedire che tale accesso, via l'accesso in cloud su un cloud di
+[15:14] un'azienda americana, violi i diritti fondamentali degli interessati, fini a cittazione.
+[15:22] In parole povere, non c'è modo lecito, non c'è modo lecito ai termini del GDPR di usare il cloud
+[15:29] statunitense, perché comunque NSA ci può mettere il naso a piacimento e vincolare il fornitore
+[15:36] al segreto, con buona pace dei server sul territorio europeo.
+[15:40] Perché non si parla di questo ogni giorno, perché stiamo lasciando che il ministro colau metta
+[15:49] un polo nazionale in mano a Big Tech.
+[15:52] È su questo che bisogna spendere energie perché è lì che si decide la sovranità digitale.
+[15:58] Mi dite cosa ce ne frega se le PA usano l'open source invece di Google Analytics quando poi
+[16:05] i server del polo nazionale sono in mano a Google o ad Amazon o a Microsoft.
+[16:10] Ce ne vogliamo preoccupare prima, per una volta.
+[16:17] Secondo.
+[16:18] Servirebbe, anzi sarebbe vitale, fornire materiale e opportunità a chi ha la possibilità di intervenire.
+[16:26] Queste persone hanno bisogno di armi, cioè servirebbe aver presentato un white paper inappuntabile
+[16:36] al garante?
+[16:37] Facendogli vedere la situazione, invece di invocare inutilmente 7.833 DPO e invocare
+[16:44] in un modo tale che hanno tutto il diritto di fregarsene di quello che gli è stato detto.
+[16:50] Non hanno alcun dovere di rispondere.
+[16:53] Perché il white paper?
+[16:59] Perché con dati seri il garante può verificare.
+[17:03] Si porta conoscenza del garante all'esistenza di una situazione di fatto e si chiede
+[17:09] al garante di decidere se questa cosa sia l'ecita oppure no, perché è solo al garante
+[17:17] che compete a intervenire.
+[17:19] Il cittadino, attivista, hacker, chi che sia può soltanto segnalare.
+[17:26] Terzo.
+[17:30] Servi anche a capire che non è che noi siamo i buoni e i puri e gli altri sono o coglioni
+[17:36] o corrotti o entrambe le cose.
+[17:38] Un DPO pubblico può anche simpatizzare con il principio, ma se l'azione si traduce
+[17:46] in un disturbo inutile e privo di conseguenze, non puoi sperare che appoggi la tua causa.
+[17:54] E infatti, il vero valore di monitor APA lo ha tirato fuori un cittadino attivista non
+[18:01] hacker, Cristian Barnieri, avvocato di P.O.
+[18:04] Ha preso i dati grezzi di monitor APA, dove si vede quali amministrazioni usano Google
+[18:12] Analytics, li ha messi in un semplicissimo foglio Excel, li ha ordinati per colonna e
+[18:20] si è immediatamente accorto che decine e a volte centinaia di pubbliche amministrazioni
+[18:26] usavano lo stesso identificatore Google Analytics.
+[18:29] Cosa vuol dire?
+[18:31] Puol dire che i dati di tutte quelle decine o centinaia, i dati di navigazione, di quelle
+[18:38] decine o centinaia di pubbliche amministrazioni venivano raccolti e gestiti come un tutto unico.
+[18:48] Con un minimulteriore di ricerca, Barnieri ha anche visto che circa 1.300 amministrazioni
+[18:54] condividevano lo stesso identificativo Analytics e altri identificatori ne raccoglievano decine
+[18:59] o centinaia.
+[19:00] I raggruppamenti rispecchiavano, guarda caso, il fornitore delle pubbliche amministrazioni.
+[19:08] Ogni fornitore dava lo stesso identificativo a tutte le amministrazioni seguite.
+[19:14] Nel caso più eclatante, quello delle 1.300 amministrazioni, il fornitore era Alley Informatica.
+[19:23] Che cosa significa?
+[19:27] Dipende.
+[19:28] Può anche voler dire che il fornitore gestiva privatamente i dati di eccesso al sito all'insaputa
+[19:34] delle amministrazioni, la qualcosa configura una certa serie di violazioni abbastanza gravi
+[19:40] del GDPR.
+[19:41] Con quei dati, il garante avrebbe potuto fare una serie azioni di pulizia sia nelle amministrazioni,
+[19:49] sia fra i fornitori.
+[19:50] Ma invece non se ne farà nulla, perché dopo che monitora PA è uscito allo scoperto
+[19:58] e che Barnieri ne ha giustamente tratto le conseguenze, Alley Informatica ha cambiato
+[20:03] gli identificativi come è ovvio e naturale.
+[20:06] E adesso il garante non ha assolutamente nulla su cui agire.
+[20:11] Ma siccome il rumore generato sui media è tanto, il garante invece dovrà concentrarsi sulla
+[20:19] questione Analytics e la sua risposta in merito lascerà inevitabilmente alle pubbliche amministrazioni
+[20:26] il tempo di adeguarsi e spostarsi su Web Analytics Italia entro dicembre, esattamente
+[20:33] come potevano già fare, perché in Italia Google Analytics non è il lecito, perché il
+[20:40] garante non lo ha detto.
+[20:44] Poi seguiranno gli infiniti, inutili Piagnistei su, ma Web Analytics Italia non è proprio
+[20:49] come Analytics di Google, eh, eh, eh, eh, eh.
+[20:53] Piagnistei che conosce benissimo, che cerca di convencere un utente word a usare
+[20:58] LibROffice e si sente dire che LibROffice non ha il ribbo né adesso come si fa.
+[21:04] Discussioni inutili su minuzzie insignificanti.
+[21:08] Intanto Google ha già fatto sapere che la nuova versione di Analytics è compliante
+[21:14] al GDPR.
+[21:15] Ovviamente non sarà vero, però intanto Google ci sta obbligando a occuparci della legalità
+[21:22] o meno di un suo particolare strumento, quando la questione vera è che qualsiasi
+[21:29] fornitore americano di Cloud è fuori dal GDPR per via delle leggi americane sull'intelligence.
+[21:35] In pratica stiamo per imbarcare i dati pubblici su un polo nazionale che è il Titanic e ci
+[21:43] preoccupiamo se le prese della corrente in cabina sono italiane oppure Schuco.
+[21:48] È su questo che il garante dovrebbe sentire che i cittadini sono attenti.
+[21:56] Non sulle minuzzie come Google Analytics, che è importante sì ma è solo un decuius.
+[22:02] Mi dispiace per gli amici di monitora Pia, ma la soluzione tecnica a un problema risolve
+[22:12] solo la parte tecnica del problema.
+[22:14] E i problemi che il GDPR ha fatto emergere sono solo in minima parte, tecnici.
+[22:21] Big Tech lo sa.
+[22:24] Yacker no, perché il loro orizzonte di democrazia non si alza mai dalla tastiera, dal lato tecnico
+[22:32] della questione.
+[22:33] Avranno i loro 15 minuti di fama, avranno i loro commenti sul sole 24 ore, il loro contentino.
+[22:42] Ma rischiano che Big Tech continui la propria marcia sui nostri dati senza nemmeno un
+[22:48] graffio, perché l'acre in fondo è un romantico, è innamorato del beau gest, sogna la morte
+[22:56] heroica e in generale si muove in modo tale da garantirsela.
+[23:00] La morte heroica, però, è una mossa tattica che ha senso soltanto se la strategia d'insieme
+[23:09] è capace di vedere oltre e di portare alla vittoria.
+[23:13] Leonida e i 300 spartani sì, la carica del Savoia Cavalleria contro i carri sovietici
+[23:22] e la resistenza della divisione a Rieta e la La Main, no.
+[23:28] Come cittadini europei, è ora di voler vincere, non di limitarsi a perdere eroicamente.
+[23:35] Data Nightmare è prodotto da Simone Pizzi per Runtime, la radio geek.
+[24:10] Data Nightmare ha un profilo Twitter e uno Mastodon, ma la presenza sui social è decisamente
+[24:15] assincrona, quindi siete avvertiti.
+[24:18] Se avete notato, Data Nightmare è senza pubblicità, per due semplici motivi.
+[24:24] Primo, la data economy fa per lo più moralmente ribrezzo e secondo, la pubblicità mirata è una
+[24:30] bufala.
+[24:31] Quindi, se avete voglia di sostenere Data Nightmare, potete dirlo in giro, che gli ascolti
+[24:37] fanno sempre bene, potete abbonarvi su Patreon, potete fare una donazione libera.
+[24:43] Io vi ringrazio comunque già di ascoltare.
+[24:45] Siete su Runtime e questa era Data Nightmare dove l'algoritmico è politico.
+[24:51] Sono Walter Vannini, se state ascoltando, voi siete la resistenza.

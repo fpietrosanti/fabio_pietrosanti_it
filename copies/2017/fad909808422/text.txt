@@ -1,0 +1,290 @@
+Appello del Centro Hermes ad ANAC per la Tecnologia di Whistleblowing open-source - Hermes Center for Transparency and Digital Human Rights 
+
+ Center for Transparency and Digital Human Rights 
+
+ " GlobaLeaks (...) won't have any central point of failure " 
+
+ " Their project aims to make a suite of software (...) to (...) maintain a whistle-blowing platform " 
+
+ " Tor2web is a positive step for those who want to publish anonymously without sacrificing the exposure " 
+
+ About
+& mission 
+
+ Projects & Technologies 
+
+ Papers & research 
+
+ News 
+& press 
+
+ Appello del Centro Hermes ad ANAC per la Tecnologia di Whistleblowing open-source
+
+ Posted in News at 24.07.2017
+
+ Contents
+ 1 Introduzione 
+ 2 Premessa sul contesto evolutivo del progetto 
+ 3 Sviluppo di una visione strategica sull’uso della tecnologia nell’anticorruzione 
+ 4 Gestione corretta dei requisiti di un progetto open-source 
+ 5 Piano di sviluppo comunitario open-source 
+ 6 Affrontare le problematiche di Sicurezza Informatica 
+ 7 Conclusione 
+
+ Introduzione 
+
+ Il Centro Hermes intende con questo appello richiamare l’attenzione di ANAC su aspetti di carattere strategico e organizzativo relativi alle modalità di sviluppo, adozione e redistribuzione del suo progetto di software anticorruzione di whistleblowing digitale open-source. 
+
+ Si ritiene che ANAC abbia impostato la governance relativa allo sviluppo del progetto di Whistleblowing Digitale in modo tale da non riuscire a portare a pieno compimento l’ambizioso obiettivo di redistribuzione di software anticorruzione omogeneo e gratuito a tutte le articolazioni della Pubblica Amministrazione italiana, trovandosi quindi di fronte ad un elevato rischio di fallimento della strategia di riuso. 
+
+ A nostro avviso ANAC dovrebbe richiedere, all’interno del quadro istituzionale, il supporto dell’ Agenzia per l’Italia Digitale (AgID) e del Team per la Trasformazione Digitale , al fine di indirizzare il progetto verso una dinamica gestionale del tutto orientata ai principi di Developers Italia , la Comunità Italiana degli sviluppatori di servizi pubblici. 
+
+ Il Centro Hermes mette a tal fine a disposizione le proprie competenze ed esperienze interamente pro-bono, articolando nel seguente appello quelli che ritiene siano i principali ambiti di intervento strategico ed esecutivo che ANAC dovrebbe auspicabilmente fare propri: 
+
+ Sviluppare una visione strategica sull’uso della tecnologia nel contrasto alla corruzione 
+
+ Gestione corretta dei requisiti di un software open-source 
+
+ Realizzazione di un piano di sviluppo comunitario open-source 
+
+ Rimediare alle problematiche di sicurezza informatica introdotte 
+
+ Premessa sul contesto evolutivo del progetto 
+
+ Per contestualizzare gli ambiti strategici ed esecutivi proposti è necessario fornire una premessa al contesto evolutivo del progetto di whistleblowing digitale. 
+
+ Il Centro Hermes sviluppa dal 2012 un software di whistleblowing open-source denominato GlobaLeaks, il primo ed al momento unico, adottato in tutto il mondo da iniziative anticorruzione, aziende pubbliche, multinazionali, istituzioni, testate giornalistiche e gruppi di giornalismo d’inchiesta indipendenti. 
+
+ Il Centro Hermes tra il 2015 ed il 2016 ha effettuato presso ANAC alcune attività di workshop con l’obiettivo di scambiare conoscenza e formazione, e rivolto a identificare i benefici ed i requisiti di un’applicazione della piattaforma GlobaLeaks, come bene comune, per il contrasto alla corruzione in Italia, da parte dell’autorità stessa e di tutti gli enti pubblici italiani. 
+
+ L’obiettivo sociale del Centro Hermes è di fornire uno strumento efficiente e gratuito utile al contrasto alla corruzione, oltre che di favorire la nascita e crescita di un ecosistema di soggetti eterogenei, pubblici e privati, che possano contribuire alla manutenzione, evoluzione e diffusione di tale software. 
+
+ ANAC nel 2016 ha promosso un bando di gara pubblico per la manutenzione evolutiva di suddetto software, ovvero per la implementazione dei molteplici requisiti funzionali emersi durante i menzionati workshop, e per la messa in opera di due sistemi: 
+
+ Un pacchetto software per Il sistema nazionale di raccolta delle segnalazioni anticorruzione destinate ad ANAC 
+
+ Un pacchetto software da re-distribuire gratuitamente a tutte le Pubbliche Amministrazioni come standard di riferimento per efficienza ed efficacia (oltreché a minor costo) per l’introduzione di sistemi digitali di raccolta di segnalazioni anticorruzione 
+
+ Diverse caratteristiche, raccolte durante le attività di workshop che ha portato alla definizione di OpenWhistleblowing, sono state progettate e realizzate durante o successivamente allo svolgimento dello stesso (con circa 130 ore di sviluppo software erogate pro-bono). In aggiunta, successivamente al workshop, il Centro Hermes le ha completate e rese disponibili pubblicamente nel progetto principale, e inoltre ne ha supportata l’adozione da parte di molteplici Pubbliche Amministrazioni che già implementano GlobaLeaks. 
+
+ Sul sito GlobaLeaks è consultabile una timeline delle attività e accadimenti inerenti ANAC e GlobaLeaks . 
+
+ Il software GlobaLeaks, con sue diverse varianti, è già usato da oltre 50 Pubbliche Amministrazioni italiane ed inserito nel catalogo AgID dei software disponibili al riuso. 
+
+ Nel mondo, GlobaLeaks è già usato in oltre 60 paesi da realtà quali importanti quali la Corte Penale Internazionale, Transparency International Italia , Amnesty International , il Comune Spagnolo di Barcellona , il giornale Francese Le Monde e la multinazionale Tedesca Oetker . 
+
+ ANAC, con il progetto di Whistleblowing Digitale, potrà quindi distribuire e gestire un software per la raccolta e gestione di segnalazioni anticorruzione ad una audience di oltre 40.000 utenti, potenzialmente fungendo da spinta propulsiva per migliorare l’efficienza dello strumento del Whistleblowing in Italia. 
+
+ Il software GlobaLeaks, rispetto al prototipo OpenWhistleblowing, è già progredito per un impegno di oltre 3 anni uomo di sviluppo software, e presenta miglioramenti importanti; perciò è a questo che il prototipo dovrebbe essere allineato (purtroppo operazione non vincolante per l’aggiudicatario del bando). 
+
+ Il Centro Hermes ha a disposizione un ulteriore grant dell’ Open Technology Fund di Washington per attività di ingegneria per un ammontare di ulteriori $109.166, contribuendo in modo determinante allo sviluppo di una roadmap che potrà apportare beneficio ad ANAC e a tutta la PA italiana. 
+
+ Tale beneficio potrà verificarsi solo se l’attività di sviluppo di OpenWhistleblowing sarà eseguita secondo i criteri di collaborazione dei progetti OpenSource, sulla base di quanto dettagliatamente esplicitato al punto 4 di questo appello. 
+
+ Sviluppo di una visione strategica sull’uso della tecnologia nell’anticorruzione 
+
+ Ciò che può dare un vero slancio al contrasto alla corruzione è l’efficienza del sistema di prevenzione e contrasto alla corruzione. 
+
+ Tale sistema si fonda su un complesso di normative e regolamenti che, per assolvere in modo efficiente al compito e non esser ridotto a mero adempimento vuoto di risultato concreto, necessita di essere tradotto in azioni pratiche, sia all’interno dei singoli enti pubblici che all’interno di ANAC, nell’alveo del suo ruolo di controllo e coordinamento del sistema. 
+
+ Per rendere efficiente una organizzazione complessa e distribuita come quella della pubblica amministrazione italiana, è necessario che tutti processi e procedure necessari al funzionamento della “macchina organizzativa anticorruzione” siano operati usando strumenti digitali, fra loro interconnessi e interoperabili, secondo una filosofia di “Digital First”. 
+
+ Tutti gli utenti dei processi (cittadini, dipendenti pubblici, pubbliche amministrazioni, autorità di controllo, autorità di giustizia) dovrebbero avere a disposizione degli strumenti gestionali anticorruzione, sotto forma di software ampiamente e liberamente disponibili, interoperabili e intercomunicanti fra loro tramite formati dati standard. 
+
+ Per realizzare tutto ciò è necessario che venga elaborata e definita una visione strategica su come la tecnologia possa contribuire a rendere efficiente ed efficace tutta la macchina organizzativa di contrasto alla corruzione. 
+
+ Gestione corretta dei requisiti di un progetto open-source 
+
+ Quando si implementa una strategia di adozione e diffusione di tecnologie software in modo ampio, come nel caso del software messo a disposizione di tutte le pubbliche amministrazioni, è necessario inquadrare gli aspetti di tipo strategico di cui occorre tener conto, essendo questi di rado parte delle “specifiche esperienze” di chi opera nell’ambito di medie grosse organizzazioni con progetti software di tipo enterprise. 
+
+ Si valuta come un fattore di criticità il fatto che nei contenuti del bando di gara per il Whistleblowing Digitale non siano stati previsti gli aspetti legati alla gestione del ciclo di vita del software propri dei modelli open-source, nonché alle problematiche e opportunità derivanti dalla redistribuzione ad un ampio numero di utilizzatori finali. 
+
+ Sostanzialmente, pur avendo il progetto in seno ad ANAC le potenzialità di propulsione di tecnologia per il contrasto alla corruzione, appare mancare completamente delle regole e linee guida necessarie al governo del processo del ciclo di vita di un software open-source che possa avere ampia diffusione. 
+
+ Per un esempio concreto si consideri il progetto Developers Italia , gestito dal Team per la Trasformazione Digitale e l’ Agenzia per l’Italia Digitale , dove la governance dei progetti di sviluppo software open-source messi a disposizione di tutti i soggetti pubblici e privati è molto articolata, dimostrando in modo concreto la piena ed efficace attuazione delle dinamiche proprie di questo tipo di tecnologie. 
+
+ Le raccomandazioni specifiche fornite dal Centro Hermes sono pertanto le seguenti: 
+
+ 4.1 Il software prodotto o anche modificato deve essere open-source. 
+
+ Qualunque modifica software, affinché rimanga patrimonio comune parte dell’ecosistema software open-source, deve fedelmente rispettarne la licenza libera, nonché le consuetudini e metodiche operative, aderendo allo spirito di totale trasparenza e collaborazione. 
+
+ 4.2 La produzione e disseminazione del software deve essere collaborativa 
+
+ La gestione della produzione e della disseminazione del software open-source deve essere organizzata secondo i criteri propri di questo ecosistema tecnologico, dando ampio spazio all’utilizzo di strumenti collaborativi trasparenti e accessibili 
+
+ 4.3 Nessun software open-source è tale, senza che vi sia una comunità di sviluppatori 
+
+ Affinché le dinamiche di sviluppo comunitario consentano un continuo arricchimento di funzionalità del software stesso, ridistribuendo i costi generali di manutenzione e sviluppo continuo, è necessario che il progetto software sia condotto secondo i molteplici criteri di sviluppo open-source e non come un tradizionale appalto di manutenzione e sviluppo di un applicativo gestionale tradizionale. E’ questo un fattore chiave ed imprescindibile perché un software possa esser considerato open source, al di là della mera licenza 
+
+ 4.4 Il software deve rispettare elevati standard di qualità e sicurezza 
+
+ Diversamente il software prodotto non potrebbe essere “integrato” nel software principale già manutenuto da una comunità di sviluppatori, per cui vanno sempre rispettati gli indicatori automatici di misurazione della qualità del codice nonché di violazione delle convenzioni di programmazione (coding style) già integrate nel software. Diffusa analisi delle stesse ed ampie linee guida sono già fornite nel software originario su cui il progetto è basato. 
+
+ 4.5 Il software deve essere ampiamente documentato e accessibile 
+
+ In un software open-source, chiunque voglia migliorarlo o modificarlo dovrebbe poterlo fare con la minor curva di apprendimento necessaria. 
+
+ Cioè per un’azienda, un ente o per uno sviluppatore appassionato deve essere facile “mettere mano al software”, ovvero riuscire ad apportare modifiche senza dedicare settimane per studiarlo e quindi poterlo solo in seguito modificare. 
+
+ 4.6 Organizzazione delle attività di community building sviluppatori 
+
+ Affinché un progetto software open-source si affermi è necessario coinvolgere il maggior numero di soggetti eterogenei fra di loro che abbiano interesse a contribuire allo sviluppo del software, siano essi Università, sviluppatori appassionati, aziende private o dipartimenti IT di enti pubblici. 
+
+ 4.7 Fornire spazi di discussione per la comunità di utilizzatori per community support 
+
+ Gli utilizzatori del software open-source quando si trovano di fronte a una esigenza nuova o a un problema o hanno una domanda su come organizzarsi per l’uso del software nella sua organizzazione, devono avere a disposizione un Forum online. 
+
+ Uno spazio di discussione organizzato per categorie consente infatti agli utenti del software di interagire fra loro, i più esperti aiuteranno i meno esperti e si manterrà aggiornata in modo comunitario (usando dei “wiki” al pari di “wikipedia come enciclopedia collaborativa”) la conoscenza delle problematiche più frequenti (FAQ – Frequently Asked Questions). 
+
+ 4.8 Evitare “fork”, ovvero evitare “duplicazioni” 
+
+ Nel mondo delle tecnologie open-source, essendo la tecnologia bene comune, chiunque può effettuare liberamente quello che viene chiamato in gergo un “fork”, ovvero un progetto che partendo da una copia dello stesso software, decide di sviluppare una roadmap e un piano di sviluppo diverso. 
+
+ Quando ciò accade, affinché il progetto non diventi “abbandonato”, è necessario che chi effettua il “fork” abbia una chiara roadmap di sviluppo e un chiaro modello di gestione del progetto open-source per attirare una comunità che utilizzi e contribuisca a mantenere il software. 
+
+ 4.9 Lo sviluppo deve essere pubblico e in “tempo reale” 
+
+ Tutto l’operato di sviluppo software, anche su base progettuale specifica come quella del bando di ANAC, deve essere effettuato pubblicamente, cioè usando gli strumenti comunitari di sviluppo software già in uso (Github) e deve essere effettuato in “tempo reale”, cioè chi effettua ingegneria o documentazione o testing, quotidianamente aggiorna dei suoi progressi con porzioni di codice su cui sta lavorando. 
+
+ Questo è l’unico modo efficace nel quale la comunità attiva degli sviluppatori che si occupa di sviluppare e manutenere software bene comune può collaborare. 
+
+ Mantenere le attività di sviluppo private, rilasciando le modifiche effettuate solo al termine di un lungo periodo di sviluppo, impedisce la revisione collaborativa e contrasta la possibilità di collaborazione e di misurazione degli indicatori che è necessario rispettare affinché il software risultante sia integrato. 
+
+ Piano di sviluppo comunitario open-source 
+
+ Il Centro Hermes, al fine di coadiuvare il rispetto dei requisiti strategici di sviluppo di software open-source, ha in corso la creazione di un piano di esecuzione dei lavori di sviluppo software, relativo a quanto richiesto dal bando di gara ANAC per il software di Whistleblowing GlobaLeaks con codename “OpenWhistleblowing”. 
+
+ Vengono altresì pubblicati in modo ordinato tutti gli ulteriori requisiti funzionali raccolti durante tutte le sessioni di workshop, requisiti che dovrebbero fare parte del progetto evolutivo del software successivo agli adempimenti del bando di gara. 
+
+ Con questa linea guida operativa sarà possibile per ANAC indicare le modalità operative di sviluppo comunitario open-source all’aggiudicatario del bando, affinché questi operi secondo le linee guida strategiche proprie di questo ecosistema tecnologico, nel rispetto dei suoi standard qualitativi e non produca artefatti tecnologici destinati a divenire abbandonati e non riutilizzati. 
+
+ Fondamentale rilevanza ai fini del governo del progetto è che ANAC richieda all’aggiudicatario il rispetto di tutti gli standard di qualità e sicurezza, le cui metodiche di misurazione sono già integrate secondo le best-practices internazionali nel progetto software GlobaLeaks, potendo monitorare in tempo reale: 
+
+ Continuo funzionamento dell’applicativo backend ‘on-commit’; 
+
+ Continuo funzionamento dell’applicativo front end in relazione ai diversi browser utente; 
+
+ Stato percentuale di copertura dei test funzionali; 
+
+ Molteplici indicatori di qualità del software, tra cui la complessità ciclomatica; 
+
+ I diversi KPI di qualità, sicurezza e compatibilità sono visibili in tempo reale all’indirizzo https://github.com/globaleaks/GlobaLeaks 
+
+ Tutti i requisiti inerenti le esigenze emerse in ambito ANAC sono disponibili nel sistema di gestione sviluppo del progetto con l’etichetta “ OpenWhisteblowing ”. 
+
+ E’ necessario che tutti gli stakeholders del progetto software open-source operino in una logica di collaborazione impiegando gli strumenti, le linee guida e gli standard di qualità del progetto. 
+
+ I requisiti di sviluppo software e le stime orarie relativi al Bando ANAC Whistleblowing da implementare sono i seguenti: 
+
+ Requisito Stima Ticket corrispondente 
+
+ Support Microsoft SQL Server 2008 40 https://github.com/globaleaks/GlobaLeaks/issues/1324 
+
+ Support RHEL6 & RPM packaging distribution 25 https://github.com/globaleaks/GlobaLeaks/issues/786 
+
+ Submissions export in open format 15 https://github.com/globaleaks/GlobaLeaks/issues/1413 https://github.com/globaleaks/GlobaLeaks/issues/1634 
+
+ Add support for statistics 15 https://github.com/globaleaks/GlobaLeaks/issues/1959 
+
+ Add support for advanced data queries 20 https://github.com/globaleaks/GlobaLeaks/issues/1414 
+
+ Introduce submissions states 5 https://github.com/globaleaks/GlobaLeaks/issues/1416 
+
+ Introduce submissions assignment 7 https://github.com/globaleaks/GlobaLeaks/issues/1418 
+
+ Implement logging of all operations performed on submissions by users 10 https://github.com/globaleaks/GlobaLeaks/issues/1956 
+
+ Implement italian fiscal code validator 10 https://github.com/globaleaks/GlobaLeaks/issues/1420 
+
+ Test and validate compliance with WAI-ARIA specification 7 https://github.com/globaleaks/GlobaLeaks/issues/1333 
+
+ Handle select box with long list of options 5 https://github.com/globaleaks/GlobaLeaks/issues/1408 
+
+ Introduce specialized geographic hierarchical field structure and database 10 https://github.com/globaleaks/GlobaLeaks/issues/1397 https://github.com/globaleaks/GlobaLeaks/issues/1652 
+
+ Add possibility for field select box options to be hierarchical 3 https://github.com/globaleaks/GlobaLeaks/issues/1394 
+
+ Implement notifications of custodian events 2 https://github.com/globaleaks/GlobaLeaks/issues/1464 
+
+ Implement notification to receivers when whistleblowers provide their identity information 2 https://github.com/globaleaks/GlobaLeaks/issues/1464 
+
+ I requisiti nati come esigenze dei workshop effettuati dal Centro Hermes presso ANAC sono: 
+
+ Requisito Ticket corrispondente 
+
+ Enable upload of submissions coming from other sources https://github.com/globaleaks/GlobaLeaks/issues/1961 
+
+ Implement user manuals for each application user https://github.com/globaleaks/GlobaLeaks/issues/1960 
+
+ Implement synthetic manual for the whistleblower https://github.com/globaleaks/GlobaLeaks/issues/1962 
+
+ Extend configurability of Tip Sequence Number https://github.com/globaleaks/GlobaLeaks/issues/1958 
+
+ Add support for private recipients notes on submissions https://github.com/globaleaks/GlobaLeaks/issues/1957 
+
+ Make an OpenWhistleblowing site https://github.com/globaleaks/GlobaLeaks/issues/1431 
+
+ Export submissions deadlines (expected answer deadline, tip expiration deadline) in ICalendar format https://github.com/globaleaks/GlobaLeaks/issues/1423 
+
+ It should be possible to inform the whistleblower of the submission handling time https://github.com/globaleaks/GlobaLeaks/issues/1419 
+
+ it should be possible to configure tip fields to be used by receivers for case management like workflow https://github.com/globaleaks/GlobaLeaks/issues/1416 
+
+ It should be load fields options for checkbox and selectbox from remote CSV files https://github.com/globaleaks/GlobaLeaks/issues/1390 
+
+ It should be load fields options for checkbox and selectbox from local uploaded CSV files https://github.com/globaleaks/GlobaLeaks/issues/1380 
+
+ Implement database and UI support for widgets configuration https://github.com/globaleaks/GlobaLeaks/issues/1380 
+
+ Rethink UI of File Upload Status widget of the Tip page and implement proper admin configurator of it https://github.com/globaleaks/GlobaLeaks/issues/1379 
+
+ Introduce a complex field type of Time Interval https://github.com/globaleaks/GlobaLeaks/issues/1369 
+
+ Introduce an "Evidence" special field type containing file upload along with meta data https://github.com/globaleaks/GlobaLeaks/issues/1364 
+
+ Add Person Involved information entity https://github.com/globaleaks/GlobaLeaks/issues/1339 
+
+ Provide a "other" choice for "checkbox" and select-box that enable adding a custom text https://github.com/globaleaks/GlobaLeaks/issues/1280 
+
+ Introduce access restrictions based on IP address https://github.com/globaleaks/GlobaLeaks/issues/1211 
+
+ Add specialized field in order to enable the whistleblower to indicate a mail to be used for notifications https://github.com/globaleaks/GlobaLeaks/issues/1157 
+
+ Introduce specialized compound Date field Event https://github.com/globaleaks/GlobaLeaks/issues/447 
+
+ Implement compact visualization for non answered questions featuring show/hide behaviour https://github.com/globaleaks/GlobaLeaks/issues/1653 
+
+ Create a field type listing all italian public administration https://github.com/globaleaks/GlobaLeaks/issues/1651 
+
+ Introduce support for rebranding https://github.com/globaleaks/GlobaLeaks/issues/1955 
+
+ Affrontare le problematiche di Sicurezza Informatica 
+
+ In considerazione degli scenari di cybersecurity moderni ed in ulteriore considerazione della sensibilità delle informazioni trattate dai sistemi digitali di Whistleblowing (di sicuro interesse da parte del crimine organizzato), è necessario affrontare con pragmaticità le problematiche di sicurezza relative a questo progetto. 
+
+ In primis, sottolineiamo come la scelta di adoperare tecnologie oramai vetuste per compatibilità con l’infrastruttura attualmente in essere in ANAC sia problematico dal punto di vista della sicurezza informatica. Le tecnologie legacy, non più manutenute dai rispettivi produttori, che sono in uso nelle infrastrutture informatiche ANAC stando ai requisiti del bando di gara (SQL Server 2008 e Redhat Enterprise 6) dovrebbero essere escluse da un progetto che guarda al futuro, e non dovrebbero certamente far parte dei requisiti operativi e funzionali. 
+
+ Gli applicativi rilevanti ai fini della sicurezza digitale, quali quelli di Whistleblowing, dovrebbero essere attivati su una partizione del sistema informativo separata e segregata, ma soprattutto basata su tecnologie moderne, che siano manutenute e supportate dai rispettivi vendor software nel ciclo di vita degli aggiornamenti di sicurezza. 
+
+ Si ritiene inoltre che le infrastrutture di sicurezza perimetrale dell’ANAC debbano essere aggiornate a hardware/software più moderno, in considerazione del fatto che gli apparati nella disponibilità dell’ente ad inizio 2016 non disponevano dei necessari supporti crittografici moderni (HTTPS su acceleratori Cisco ASA). 
+
+ In ultimo, non è stato allocato alcun investimento di manutenzione evolutiva né correttiva aldilà di questo progetto di Whistleblowing Digitale, motivo per cui è realisticamente possibile che il software prodotto finisca su di un binario morto, facendo emergere in un arco di tempo relativamente breve diverse problematiche di sicurezza informatica. 
+
+ Si ritiene fondamentale che lo sviluppo del bando avvenga secondo le linee guida di integrazione e collaborazione open-source, con lo scopo di avvantaggiarsi di una diffusione e distribuzione dei costi di manutenzione ed aggiornamento nel tempo, soprattutto rispetto a problematiche e miglioramenti continui in termini di sicurezza. 
+
+ Tale problema si è già verificato con una società privata che ha apportato modifiche al software senza però reintegrarle in un’ottica collaborativa: ciò ha introdotto delle vulnerabilità non avendo seguito le linee guida di sicurezza, e quindi codesta azienda ha installato e re-distribuito questa versione di GlobaLeaks, modificata e mai aggiornata, per quasi 2 anni a diverse Pubbliche Amministrazioni. Ciò ha messo a rischio, tanto più elevato quanto maggiore è il “valore” della segnalazione, la sicurezza dei whistleblowers. Attualmente, di concerto con il CERT-PA, questo problema è fortunatamente in corso di gestione. 
+
+ ANAC nel quadro istituzionale dovrebbe richiedere un consulto al CERT-PA , che saprà certamente consigliare come risolvere questi problemi di sicurezza informatica oltre ad operare in modo tale da evitare che se ne determinino di nuovi, una volta avviato il progetto di riuso. 
+
+ Conclusione 
+
+ Concludendo, il Centro Hermes sottolinea l’esigenza che ANAC richieda il supporto della Agenzia per l’Italia Digitale e/o del Team per l’Italia Digitale, al fine di poter disporre nel quadro istituzionale degli input necessari a indirizzare gli aspetti strategici ed esecutivi del progetto open-source di Whistleblowing Digitale. 
+
+ E’ infatti deprecabile che il mancato governo di questo processo facesse sfumare l’opportunità di riuscire a dotare l’Italia di un efficiente impianto di Whistleblowing Digitale! 
+
+ Al tempo stesso il Centro Hermes torna a sottolineare la propria disponibilità a supportare e coadiuvare, interamente pro-bono, tale indirizzo strategico affinché l’Italia possa dotarsi di un efficiente sistema di contrasto alla corruzione come bene comune, gestito secondo le logiche e dinamiche specifiche delle tecnologie open-source. 
+
+ E’ possibile scaricare copia dell’appello: [ DOC ] [ PDF ]
+
+ © HERMES Center for Transparency and Digital Human Rights - Unless otherwise stated CC-BY-SA-3.0-Italy License . - contacts

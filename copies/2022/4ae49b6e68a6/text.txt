@@ -1,0 +1,297 @@
+KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte! 
+
+ Scopri 
+
+ La tua Libreria 
+
+ Cerca 
+
+ Per Podcaster
+
+ I tuoi podcast 
+
+ Gratuito
+
+ La nostra piattaforma
+
+ Come funziona Spreaker 
+
+ Podcast App 
+
+ Spreaker Create 
+
+ Prime Network 
+
+ Aiuto 
+
+ {
+ if (!hidden) {
+ $refs.inputMobile.focus();
+ }
+ });
+ if (isSearch && !query) {
+ if (window.innerWidth 
+
+ Registrati
+
+ Log in 
+
+ Registrati 
+
+ Per Podcaster
+
+ I tuoi podcast 
+
+ Gratuito
+
+ Impostazioni
+
+ Tema chiaro
+
+ Tema scuro
+
+ La nostra piattaforma
+
+ Come funziona Spreaker 
+
+ Podcast App 
+
+ Spreaker Create 
+
+ Prime Network 
+
+ Aiuto 
+
+ {
+ if (this.toast) {
+ this.toast = null;
+ }
+ }, timings[this.toast.type]);
+ },
+ getClassType() {
+ return {
+ 'bg-neutral-700 dark:bg-neutral-100 text-white dark:text-neutral-950': this
+ .toast?.type === 'default',
+ 'bg-sky-700 text-white': this.toast?.type === 'info',
+ 'bg-emerald-700 text-white': this.toast?.type === 'success',
+ 'bg-red-800 text-white': this.toast?.type === 'error',
+ 'bg-orange-400 text-neutral-950': this.toast?.type === 'warning'
+ }
+ }
+ }" x-on:toast.window="showToast($event.detail)" x-show="toast" class="fixed left-0 right-0 z-10 md:left-[250px]"
+ x-transition>
+
+ Ciao, Internet! con Matteo Flora
+
+ KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!
+
+ 15 mar 2022 ·
+ 26 min. 55 sec.
+
+Caricando
+
+ Riproduci
+
+ Pausa
+
+ Aggiungi alla coda
+
+ In coda
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Scarica
+
+ Scarica e ascolta ovunque
+
+ Scarica i tuoi episodi preferiti e goditi l'ascolto, ovunque tu sia! Iscriviti o accedi ora per ascoltare offline.
+
+ Iscriviti per scaricare
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Incorpora
+
+ Incorpora episodio
+
+ `;
+ },
+ copyToClipboard() {
+ this.copyStatus = 'DONE';
+ SP.Utils.copyToClipboard(this.getIframeCode());
+ setTimeout(() => { this.copyStatus = 'IDLE'; }, 2000);
+ }
+}">
+
+ Scuro
+
+ Chiaro
+
+ Copia
+
+ Fatto
+
+ Vuoi aggiungere un tocco personale? Esplora tutte le opzioni di incorporamento disponibili nella nostra guida per sviluppatori
+
+ Condividi su X 
+
+ Condividi su Facebook 
+
+ Condividi su Bluesky 
+
+ Condividi su Whatsapp 
+
+ Condividi su Telegram 
+
+ Condividi su LinkedIn 
+
+ Descrizione
+
+ L'argomento #Kaspersky e il suo Antivirus, bandito giò in USA e Olanda, sta di nuovo imperversando. Usato da Palazzo Chigi e oltre 2.,000 PA è davvero un ''troyan di stato''...
+
+ mostra di più 
+
+ L'argomento #Kaspersky e il suo Antivirus, bandito giò in USA e Olanda, sta di nuovo imperversando. Usato da Palazzo Chigi e oltre 2.,000 PA è davvero un ''troyan di stato'' russo? E cosa fare ora?
+Ne parliamo nello SPIEGONE TOTALE di oggi!
+
+00:00 - Introduzione
+01:10 - Cosa è successo con l'Antivirus Kaspersky
+06:42 - La posizione e le dichiarazioni di Kaspersky
+07:36 - La Valutazione dei Rischi Reali
+13:00 - Gli Scenari nella Pratica
+15:36 - Un punto di vista molto più PROSAICO
+21:02 - E quindi, cosa fare alla fine?
+
+»»»
+
+Io sono Matteo Flora, mi occupo di #Reputazione Digitale, la insegno in Università e faccio consulenza ad Aziende, Enti e Professionisti con le mie aziende.
+
+Vengo dalla Sicurezza informatica - ma vengo in pace - e qui con “Ciao Internet” ti racconto tre volte alla settimana come la Rete ci Cambia, come capirla e usarla al meglio per migliorare la tua vita e professione, non solo digitale.
+
+Se vuoi è il momento giusto per iscriverti - FALLO SUBITO - e se hai bisogno di ancora più spunti ci sono “2 Minuti di Internet”, la newsletter settimanale, ed il Gruppo e Canale Telegram per discutere assieme, trovi i link qui sotto.
+Le mie Aziende » http://matteoflora.com/#aziende
+Community Telegram » https://mgpf.it/tg
+Newsletter e Corso Gratis » https://mgpf.it/nl
+Facebook » https://mgpf.it/fb
+Podcast » https://mgpf.it/pc
+
+Per contatti commerciali: sales@matteoflora.com
+
+ mostra meno 
+
+ Commenti
+
+ Accedi per lasciare un commento
+
+ Informazioni
+
+ Autore 
+
+ Matteo Flora
+
+ Organizzazione
+
+ Matteo G.P. Flora
+
+ Sito 
+
+ -
+
+ Tag 
+
+ -
+
+ 🇮🇹 Italiano
+
+ 🇬🇧 English 
+
+ 🇮🇹 Italiano 
+
+ 🇪🇸 Espanõl 
+
+ 🇮🇹 Italiano
+
+ 🇬🇧 English 
+
+ 🇮🇹 Italiano 
+
+ 🇪🇸 Espanõl 
+
+ Termini 
+
+ Privacy 
+
+ {e.preventDefault(); showOneTrustPreferenceCenter();}"
+ class="ot-sdk-show-settings hover:underline">
+ Cookie Settings
+
+ Copyright 2026 - Spreaker Inc. an
+ iHeartMedia Company
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ In riproduzione ora
+
+ Coda
+
+ Sembra che non tu non abbia alcun episodio attivo
+
+ Sfoglia il catalogo di Spreaker per scoprire nuovi contenuti
+
+ Esplora adesso
+
+ Corrente
+
+ Sembra che non ci sia nessun episodio nella tua coda
+
+ Sfoglia il catalogo di Spreaker per scoprire nuovi contenuti
+
+ Esplora adesso
+
+ 1" class="mt-6">
+
+ Successivo
+
+ Gestisci
+
+ Fatto
+
+ svg]:text-white">
+
+ Sposta su
+
+ Sposta su
+
+ Sposta giù
+
+ Sposta giù
+
+ Rimuovi
+
+ svg]:text-white">
+
+ Che silenzio che c’è... 
+
+ È tempo di scoprire nuovi episodi! 
+
+ Scopri
+
+ La tua Libreria
+
+ Cerca
+
+ {
+ SP.Utils.setDocumentShouldScroll(!opened);
+ })">
+
+ Sblocca tutto il potenziale di Spreaker
+
+ Iscriviti per continuare ad ascoltare, accedi alla tua libreria per riprendere gli episodi da dove li avevi lasciati e connettiti con i tuoi creatori preferiti. Vivi l'esperienza di ascolto definitiva su Spreaker!
+
+ Iscriviti gratuitamente

@@ -1,0 +1,384 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Mobile security and privacy | WhyMCA Mobile Developer Conf</title>
+  
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+    
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/marinelli_favicon_4.png" type="image/x-icon" />
+ 
+
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/codefilter/codefilter.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_718ba937d1e70462b8d22e7c93eb5c31.css" />
+<link type="text/css" rel="stylesheet" media="mobile" href="/sites/default/files/css/css_e77d05a3f4191c6525208bf6ec537c74.css" />
+  
+  <!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="/sites/all/themes/whymca/iestyles/ie6.css" />
+<![endif]-->
+
+  <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/sites/all/themes/whymca/iestyles/ie7.css" />
+<![endif]-->
+  
+  
+ 
+</head>
+
+
+<body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://web.archive.org/web/20100413051917/http://www.whymca.org/topic/mobile-security-and-privacy">web.archive.org/web/20100413051917/http://www.whymca.org/topic/mobile-security-a</a> · captured 2010-04-13 · scripts removed</div>
+  
+	<div id="utilities">
+		
+				
+		
+		<div id="plinks">
+ <div class="defaultblock">
+ 	<div class="block_top_sim"></div>
+ 	
+ 	   <!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="leaf first"><a href="/page/chi-siamo" title="Chi siamo">Chi siamo</a></li>
+<li class="leaf"><a href="/page/whymca-manifesto" title="Why MCA BarCamp">WhyMCA Manifesto</a></li>
+<li class="leaf"><a href="/page/agenda-whymca-spring-2010" title="Agenda WhyMCA Spring 2010">Agenda</a></li>
+<li class="leaf"><a href="/page/location-e-contatti-0" title="Location e Contatti">Location e Contatti</a></li>
+<li class="leaf"><a href="/page/blog" title="Whymca Blog">Blog</a></li>
+<li class="leaf"><a href="/page/call-sponsor" title="Call for Sponsor">Call for Sponsor</a></li>
+<li class="leaf"><a href="/page/dicono-di-noi" title="Dicono di noi">Dicono di noi</a></li>
+<li class="leaf last"><a href="/page/spread-voice" title="Spread the voice">Spread the voice</a></li>
+</ul></div>
+   <div class="block_bottom_sim"></div>
+</div></div>		
+	</div> <!-- utilites -->
+
+
+<!--	<div id="bg_rosso"></div> -->
+
+	<div id="page">
+		
+
+		<div id="header">
+			
+				          		
+	        	<div id="arealogo"><a href="/" title="Home"><img src="/sites/default/files/marinelli_logo.png" alt="Whymca Logo" id="logo" title="Home" /></a></div>			    
+					
+			
+			
+				<div id="popolo"><div id="countdown" class="region"><div class="blockcountdown"><div id='jquery-countdown' class='jquery-countdown'></div></div>
+</div></div>			
+			 
+
+		</div>
+     
+   
+   		<div class="wrapper">
+   		
+   							
+   			<div id="primary" class="long">      			
+   				<div class="bg_top"></div>
+
+				<div class="singlepage">
+	  
+			 						 
+				 	<h1>Mobile security and privacy</h1>				 
+		  				      
+	      				      		
+	      					  
+		  			<div class="drdot"><hr /></div> 
+  				
+	   				  <div class="node">
+ 	           
+
+        
+		        
+    <div class="content">
+	
+	
+	<div class="tweetmeme tweetmeme-button"></div><p>La sicurezza nell'ambito dei dispositivi mobile e delle reti di comunicazione mobili è ancora poco considerata in ambito aziendale, sebbene attraverso l'handset in mano al personale transitino ormai tutte le informazioni più critiche dell'azienda.<br />Il CTO e CSO implementano tutte le misure di sicurezza tipiche di infrastrutture ICT: IDS, Firewall, VPN, IPS, Url filters, Disk encryption, Backup ma troppo spesso dimenticano di mettere in sicurezza la componente mobile di accesso al proprio patrimonio informativo aziendale.<br />Gli sviluppatori e società di ingegneria tendono ad affidarsi completamente ai protocolli di comunicazione utilizzati, fanno inoltre fatica a districarsi fra i numerosi modelli di sicurezza e funzionalità di enterprise security fornite dai dispositivi.<br />La sicurezza del mobile non è spesso neanche considerata nell'ambito delle policy e procedure di sicurezza aziendale, se non per quanto riguarda il furto dei dispositivi e l'uso accettabile del traffico telefonico da parte del personale.<br /><br />Questo intervento ha l'obiettivo di fornire una visione ben articolata di quello che è il panorama dei rischi, delle tecnologie coinvolte e delle misure di protezione necessarie per garantire adeguata tutela alle informazioni scambiate o residenti sul dispositivo mobile, considerando oltre ai rischi per le informazioni aziendali anche gli scenari più pericolosi di frodi a danno dell'azienda e a danno degli operatori di telecomunicazione.<br /><br />Intercettazioni telefoniche, frodi telefoniche all'utente e all'operatore, furto di dati in mobilità, accesso a reti aziendali in mobilità sono solo alcune delle primarie problematiche legate al sensibile e ancora poco compreso te della "mobile security" .<br /><br />Particolare attenzione verrà posta sulle tematiche di ingegneria del software e produzione del software.<br /><br />L'intervento è molto ampio e vuole fornire una panoramica completa delle problematiche di sicurezza in ambito mobile, lasciando a una seconda fase informale a seguito dell'intervento eventuali discussioni e approfondimenti one-to-one e one-to-many.<br /><br />Draft dell'intervento:<br /><br />Difference between mobile security and IT security<br /><br />Mobile device security &amp; mobile operating system security model<br />- Too many technologies, too many security model<br />&nbsp;- Windows Mobile<br />&nbsp;- iPhone<br />&nbsp;- Nokia/Symbian<br />&nbsp;- RIM Blackberry<br />&nbsp;- Google Android<br />&nbsp;- Qualcomm Brew<br /><br />Mobile hacking and attack vector<br />&nbsp;- GSM Security<br />&nbsp;- UMTS Security<br />&nbsp;- MMS Security<br />&nbsp;- SMS Security<br />&nbsp;- Bluetooth Security<br />&nbsp;- WiFi Security<br />&nbsp;- NFC Security<br />&nbsp;- The economic risks</p>
+<div class="field field-type-text field-field-topic-dati-personali">
+      <div class="field-label">Nome e Cognome:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    Fabio Pietrosanti        </div>
+        </div>
+</div>
+<div class="field field-type-text field-field-topic-orario">
+      <div class="field-label">Orario:&nbsp;</div>
+    <div class="field-items">
+            <div class="field-item odd">
+                    10:50–11:35        </div>
+        </div>
+</div>
+</div>
+    
+    
+        <div class="links"><ul class="links inline"><li class="comment_forbidden first last"></li>
+</ul></div>        
+        
+    <!--
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_1 first"><a href="/taxonomy/term/1" rel="tag" title="">Speech</a></li>
+<li class="taxonomy_term_20"><a href="/category/edizione/2010" rel="tag" title="">2010</a></li>
+<li class="taxonomy_term_38"><a href="/category/stato-di-approvazione/approvato" rel="tag" title="">Approvato</a></li>
+<li class="taxonomy_term_33 last"><a href="/category/argomento/misc" rel="tag" title="">Misc</a></li>
+</ul></div>    	-->
+    
+  </div>   
+				</div> 
+	
+				<div class="bg_bottom"></div>
+    
+			</div> <!-- primary -->
+	    				    
+	    	<div class="lsidebar" style="margin-top:320px">
+ <div class="defaultblock">
+ 	<div class="block_top_sim"></div>
+ 	
+ 	   <!--block title-->
+   <div class="blockcontent"><p><a href="http://whymca.eventbrite.com/" title="Iscriviti" class="call">Partecipa all'evento!</a></p>
+<p class="call_sub">L'iscrizione è gratuita!</p>
+</div>
+   <div class="block_bottom_sim"></div>
+</div>
+ <div class="defaultblock">
+ 	<div class="block_top_sim"></div>
+ 	
+ 	 	
+   <h2>Blog</h2>
+   
+      <!--block title-->
+   <div class="blockcontent"><div class="view view-blog view-id-blog view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field-title">
+                <span class="field-content">100 nuovi posti disponibili!</span>
+  </span>
+      -  
+  <span class="views-field-created">
+                <span class="field-content">11/04/2010 - 23:35</span>
+  </span>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><p>Saremo sinceri: vi confidiamo che non speravamo proprio di andare <strong>sold out in poco più di 3 giorni</strong> dall'apertura delle iscrizioni. Poco più di 72 ore per registrare il <strong>tutto esaurito</strong> per i <strong>200 posti messi a disposizione</strong>. E invece e' successo....</div>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content"><a href="/content/100-nuovi-posti-disponibili">Leggi tutto</a></span>
+  </div>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-previous first">&nbsp;</li>
+<li class="pager-current">1 di 5</li>
+<li class="pager-next last"><a href="/topic/mobile-security-and-privacy?page=1" class="active">››</a></li>
+</ul></div>  
+  
+      
+<div class="more-link">
+  <a href="/page/blog">
+    Vedi Blog  </a>
+</div>
+  
+  
+  
+</div> </div>
+   <div class="block_bottom_sim"></div>
+</div>
+ <div class="defaultblock">
+ 	<div class="block_top_sim"></div>
+   <h2>Tweet su whymca spring 2010</h2><!--block title-->
+   <div class="blockcontent"><div class="item-list"><ul><li class="first"><a href="http://twitter.com/andreaaa_p/statuses/12070989761">Video intervista #whymca10 su #Vodafone lab http://bit.ly/d9QgG2 #dev #barcamp #mobile</a>
+</li>
+<li><a href="http://twitter.com/darthpelo/statuses/12062175768">Whymca Spring 2010 is coming!! Video presentation by @ricardobosio http://www.youtube.com/watch?v=vFwRQgA1se8 #whymca10</a>
+</li>
+<li class="last"><a href="http://twitter.com/darthpelo/statuses/12044978663">All about the WhyMCA in a single page :-) http://addictomatic.com/topic/whymca #whymca10</a>
+</li>
+</ul></div><div class="more-link"><a href="/aggregator/sources/1" title="Mostra le notizie recenti da questo feed.">continua</a></div></div>
+   <div class="block_bottom_sim"></div>
+</div></div>	    	
+	
+			<div class="clear"></div>
+
+		</div> <!-- wrapper -->
+
+	</div><!-- Close Page -->
+
+	<div id="footer">
+		
+ <div class="defaultblock">
+ 	<div class="block_top_sim"></div>
+ 	
+ 	   <!--block title-->
+   <div class="blockcontent"><div class="view view-Sponsor view-id-Sponsor view-display-id-block_3 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+      <h3>con il Patrocinio di</h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-field-partner-url-value">
+                <span class="field-content"><a href="http://www.osservatori.net/" target="_blank"><img src="http://www.whymca.org/sites/default/files/imagecache/300x300/sponsor/SoM.png"></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+   <div class="block_bottom_sim"></div>
+</div>
+ <div class="defaultblock">
+ 	<div class="block_top_sim"></div>
+ 	
+ 	   <!--block title-->
+   <div class="blockcontent"><div class="view view-Sponsor view-id-Sponsor view-display-id-block_4 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+      <h3>Platinum Sponsor</h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-field-partner-url-value">
+                <span class="field-content"><a href="http://it.blackberry.com/" target="_blank"><img src="http://www.whymca.org/sites/default/files/imagecache/300x300/sponsor/BlackBerry.png"></a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field-field-partner-url-value">
+                <span class="field-content"><a href="http://www.vodafone.it" target="_blank"><img src="http://www.whymca.org/sites/default/files/imagecache/300x300/sponsor/Vodafone.png"></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+   <div class="block_bottom_sim"></div>
+</div>
+ <div class="defaultblock">
+ 	<div class="block_top_sim"></div>
+ 	
+ 	   <!--block title-->
+   <div class="blockcontent"><div class="view view-Sponsor view-id-Sponsor view-display-id-block_5 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+      <h3>Silver Sponsor</h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-field-partner-url-value">
+                <span class="field-content"><a href="http://www.mutado.com/" target="_blank"><img src="http://www.whymca.org/sites/default/files/imagecache/300x300/sponsor/Mutado.png"></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+   <div class="block_bottom_sim"></div>
+</div>
+ <div class="defaultblock">
+ 	<div class="block_top_sim"></div>
+ 	
+ 	   <!--block title-->
+   <div class="blockcontent"><div class="view view-Sponsor view-id-Sponsor view-display-id-block_6 view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+      <h3>Bronze Sponsor</h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-field-partner-url-value">
+                <span class="field-content"><a href="http://www.hinii.com/" target="_blank"><img src="http://www.whymca.org/sites/default/files/imagecache/300x300/sponsor/HiNii.png"></a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field-field-partner-url-value">
+                <span class="field-content"><a href="http://www.jusan.it/" target="_blank"><img src="http://www.whymca.org/sites/default/files/imagecache/300x300/sponsor/Jusan_0.png"></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+   <div class="block_bottom_sim"></div>
+</div>
+ <div class="defaultblock">
+ 	<div class="block_top_sim"></div>
+ 	
+ 	   <!--block title-->
+   <div class="blockcontent"><div class="view view-Sponsor view-id-Sponsor view-display-id-block_7 view-dom-id-6">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+      <h3>Media Partner</h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-field-partner-url-value">
+                <span class="field-content"><a href="http://www.wireless4innovation.it/" target="_blank"><img src="http://www.whymca.org/sites/default/files/imagecache/300x300/sponsor/W4I.png"></a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-field-partner-url-value">
+                <span class="field-content"><a href="http://www.ict4executive.it/" target="_blank"><img src="http://www.whymca.org/sites/default/files/imagecache/300x300/sponsor/ICT4Executive.png"></a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-field-partner-url-value">
+                <span class="field-content"><a href="http://www.turinin.com/" target="_blank"><img src="http://www.whymca.org/sites/default/files/imagecache/300x300/sponsor/TurinIn.png"></a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even views-row-last">  
+  <div class="views-field-field-partner-url-value">
+                <span class="field-content"><a href="http://www.mobilemonday.it/" target="_blank"><img src="http://www.whymca.org/sites/default/files/imagecache/300x300/sponsor/MM.png"></a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+   <div class="block_bottom_sim"></div>
+</div>			</div>
+	
+
+	
+
+
+
+</body>
+</html>

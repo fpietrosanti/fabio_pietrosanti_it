@@ -1,0 +1,307 @@
+Tor: come e perché diventare invisibili sul web - La Stampa 
+
+ -->
+
+ -->
+
+ Notifiche 
+ -->
+
+ Il Quotidiano
+
+ Abbonati 
+
+ Menu 
+
+ Cerca 
+
+ Notifiche 
+
+ Il Quotidiano
+
+ Abbonati
+
+ In Evidenza
+
+ Leggi il quotidiano
+
+ Abbonati
+
+ Torino 
+
+ La Stampa USA 
+
+ Sezioni
+
+ Cronaca 
+
+ Cultura 
+
+ Economia 
+
+ Energie 
+
+ Esteri 
+
+ Esercizi di Stile 
+
+ Fuoriclasse 
+
+ La Zampa 
+
+ Mare 
+
+ Montagna 
+
+ Motori 
+
+ Politica 
+
+ Salute Più 
+
+ Scienza 
+
+ Specchio 
+
+ Specchio dei
+ Tempi 
+
+ Spettacoli 
+
+ Sport 
+
+ Tech 
+
+ TorinoSette 
+
+ TuttoLibri 
+
+ TuttoSoldi 
+
+ TuttoScienze 
+
+ Vatican Insider 
+
+ Viaggi 
+
+ Video 
+
+ Edizioni Locali
+
+ Alessandria 
+
+ Asti 
+
+ Aosta 
+
+ Biella 
+
+ Cuneo 
+
+ Imperia e Sanremo 
+
+ Milano 
+
+ Novara 
+
+ Roma 
+
+ Savona 
+
+ Torino 
+
+ Verbano Cusio
+ Ossola 
+
+ Vercelli 
+
+ La voce de La Stampa
+
+ Editoriali 
+
+ Podcast 
+
+ Rubriche 
+
+ Audioarticoli 
+
+ Servizi
+
+ Abbonamenti 
+
+ Archivio Storico 
+
+ Aste 
+
+ Editoriali 
+
+ Meteo 
+
+ Necrologie 
+ -->
+ Newsletter 
+
+ Premium 
+
+ Scrivi alla redazione 
+
+ Pubblicità 
+
+ Dati Societari 
+
+ Contatti 
+
+ Sei qui:
+
+ Home 
+
+ Archivio 
+
+ Acquista da
+ 0.7€ /sett 
+
+ -->
+
+ Commenta -->
+
+ Tor: come e perché diventare invisibili sul web
+
+ Con l’ultimo restyling della piattaforma, il browser che garantisce l’anonimato online può essere utilizzato anche per la navigazione quotidiana, al riparo da cookies e pubblicità invasive. Ed è più semplice da usare
+
+ Raffaele Angius
+
+ 17 Gennaio 2019 
+
+ Modificato il: 17 Gennaio 2019 
+
+ 5 minuti di lettura
+
+ Sorveglianza di massa, profilazione degli utenti, censura: sia che si viva in un regime dittatoriale, sia che si voglia evitare di essere controllati per fini pubblicitari, saper celare le proprie tracce digitali non è mai stato così importante. Fortunatamente in Rete l’anonimato non è impossibile e le tecnologie che consentono di eludere il tracciamento della nostra attività sono alla portata di tutti. Ad esempio, c’è Tor: rete di server gestiti da volontari di tutto il mondo, attraverso la quale è possibile instradare il nostro traffico e tenerlo nascosto. 
+
+ Più comunemente noto col nome di dark web, dall’inglese “rete oscura”, spesso Tor è descritto come un luogo dove si consumano vari traffici illeciti, legati magari a droga o pedopornografia. In realtà l’Internet tutto è uno spazio dove avvengono le peggiori nefandezze, mentre qualche server più in là potrebbe esserci il più grande archivio di foto di gattini. È la natura delle reti decentrate, e Tor non fa eccezione. Ma questa tecnologia serve esclusivamente a impedire che venga stabilita una correlazione tra il sito che visitiamo e il computer dal quale navighiamo. L’uso che se ne fa è come sempre responsabilità dell’utente. 
+
+ «Crediamo che tutti dovrebbero essere in grado di godere della privacy e della libertà che il Tor Browser offre, quindi per rendere il nostro software accessibile a tutti, indipendentemente dal loro livello di competenze tecniche, dal loro hardware o dalla loro posizione. Avevamo bisogno di renderlo il più facile possibile da usare», ha spiegato a La Stampa Stephanie Whited, direttrice della comunicazione del Tor Project , che coordina il lavoro di sviluppatori e attivisti per proteggere e far crescere questo strumento. 
+
+ Come funziona Tor 
+
+ Oltre ai server che compongono la rete, affinché Tor funzioni serve una porta d’accesso: il Tor Browser. Questo software è una versione modificata del più noto Firefox, che si connette automaticamente all’ecosistema di Tor. Quando si fa una ricerca e si digita un indirizzo, il browser fa sì che ciò che scriviamo sia cifrato e spedito a una serie di nodi, scelti casualmente, tra quelli messi a disposizione dai volontari. Solo alla fine il contenuto della nostra richiesta torna a navigare “in chiaro”, riemergendo dall’ultimo nodo di uscita.
+
+ Per fare un esempio, se ci connettiamo a Facebook dal nostro computer a Codroipo, e il nodo di uscita scelto casualmente è a Philadelphia, a Mountain View vedranno che qualcuno sta accedendo alla piattaforma dagli Stati Uniti e non dal ridente comune friulano. Ma non saranno in grado di conoscere né l’identità dell’utente né la sua posizione fisica finché non esegue l’accesso.
+
+ Il Tor Browser è sempre stato uno strumento semplice da usare. Tuttavia, dal 2018, la veste grafica e le funzioni di personalizzazione sono state riviste, rendendolo più accessibile e performante: «Anche se l’utente è sempre stato al centro della nostra missione, abbiamo investito affinché ne venisse migliorata l’esperienza con un team apposito - spiega Whited -. Nel corso del 2018, abbiamo esplorato Paesi dove la sorveglianza e la censura del governo danneggiano le persone, in particolare gli emarginati. Abbiamo incontrato di persona gli utenti Tor più esposti e condotto dei test per determinare come fosse possibile renderlo più adatto alle loro esigenze».
+
+ Perché dovremmo volere più privacy 
+
+ Ogni giorno su Internet si connettono 3,8 miliardi di utenti, che producono circa 2,5 quintilioni di byte di informazioni : se si trattasse di un unico film in formato digitale, questo sarebbe lungo più di 226 mila anni (Metodologia) . E se il Tor Browser è fin dalla nascita un immancabile strumento nella cassetta degli attrezzi di giornalisti, perseguitati politici e persone che vivono in regimi dittatoriali , l’emergere sempre più prepotente del controllo delle nostre abitudini digitali lo rende uno strumento utile anche per la quotidiana attività online. 
+
+ Tired of being tracked and surveilled online by advertisers, tech giants, your ISP, and others?
+
+Download Tor Browser for protection against cookies, fingerprinting, and most of the ways you can be identified online: https://t.co/U6m1AWXxjU #privacy #internetfreedom #surveillance pic.twitter.com/UXIi5BM1ds 
+— The Tor Project (@torproject) December 27, 2018 
+
+ «Il 93% delle persone che abbiamo incontrato durante i test di usabilità dichiara di aver bisogno di protezione online, ma di non essere sicura su quali strumenti utilizzare o come usarli al meglio - spiega Whited -. Riteniamo che il modo più efficace per aumentare la consapevolezza sulla sorveglianza e il monitoraggio sia quello di incontrare gli utenti, comprenderne le esigenze individuali e insegnare loro come Tor può aiutarli a proteggersi da monitoraggio, sorveglianza e censura online».
+
+ Il Tor Project sta anche pianificando dei corsi e degli incontri per spiegare agli utenti come usare questo strumento. Una volta installato , il più classico degli esperimenti potrebbe essere quello di accedere alla sezione News di Google sia tramite Tor sia tramite un normale browser: così vedremmo che le informazioni che ci vengono fornite sono diverse. Le prime condizionate da quello che Google sa di noi e le seconde scelte senza alcun filtro o personalizzazione.
+
+ Amici e nemici dell’anonimato 
+
+ Forse è per questo che oggi molti servizi, tra cui il motore di ricerca di Google, non permettono l’accesso anonimo tramite Tor. Dall’altra però, altri servizi online accettano di buon grado le connessioni anonime e anzi le incoraggiano. È il caso del motore di ricerca DuckDuckGo , al quale non solo è possibile accedere usando il Tor Browser, ma che fornisce anche un dominio Onion.
+
+ Dalla parola inglese che indica la cipolla, questo tipo di domini fa riferimento a server che risiedono nativamente nella rete Tor (un esempio: 3g2upl4pq6kufc4m.onion). Questo vuol dire che anche l’ultimo passaggio della connessione sarà cifrato, in quanto rimanendo dentro la rete, non è necessario passare da un Nodo d’uscita. 
+
+ Ma cosa c’entrano le cipolle? Tor, acronimo di The Onion Router, «protegge il traffico in uscita dai computer costruendo un circuito crittografato a strati(come una cipolla, da cui il nome) intorno ai dati che vengono instradati randomicamente», scrive il giornalista e tecnologo Arturo Di Corinto in Un Dizionario Hacker (Manni Editori, 2014, 212 pp.). Nato a metà degli anni ‘90 nei laboratori della Marina militare statunitense, il progetto si è progressivamente reso autonomo e oggi è completamente gestito da un’associazione senza fini di lucro. Sviluppata usando software open source, cioè il cui codice è consultabile da tutti, questa tecnologia è sottoposta a costante scrutinio da parte di migliaia di volontari, che controllano che non vi siano errori e soprattutto possibilità di esporre l’identità degli utenti. Anche i finanziamenti che riceve il Tor Project sono equamente ripartiti: inizialmente sostenuto da fondi governativi, dal 2017 l’intero progetto si mantiene grazie al 49 per cento di fondi provenienti da privati. 
+
+ Dalle pubblicità all’anticorruzione 
+
+ Talvolta vediamo pubblicità che rispondono esattamente alla nostra curiosità del momento, e questo ci dà la sgradevole sensazione di essere controllati. È proprio così: potenti algoritmi elaborano tutte le informazioni di cui dispongono per indovinare cosa vorremmo vedere o cosa potremmo comprare. Addirittura, sono in grado di identificare più connessioni provenienti da uno stesso luogo o la connessione di un dispositivo a più reti diverse, intuendo così con chi viviamo o dove siamo andati. 
+
+ Vediamola dal punto di vista di un server: due smartphone che non si sono mai incrociati prima (e i loro proprietari), rimangono qualche ora nello stesso bar, si spostano in un motel dall’altro lato della città e poi tornano nelle rispettive case. Dalle rispettive famiglie. Questa è la misura di quale capacità di analisi possa avere il tracciamento degli apparecchi digitali sulle nostre vite. E questo esempio, che proviene da un’inchiesta del New York Times sulla geolocalizzazione degli smartphone, rende anche l’idea di quanto la nostra privacy sia compromessa e al servizio di chi controlla quei dati e può ipotizzare cosa stiamo facendo e con chi. 
+
+ Proprio il New York Times, nell’ottobre del 2017, ha aperto un Onion service per il suo sito Internet. Scopo del progetto è consentire anche a chi vive in regimi dittatoriali di poter consultare la prestigiosa testata, aggirando la censura e nascondendo l’identità degli utenti all’occhio vigile sia dei governi che dei fornitori di servizi Internet. Se volete visitarlo, scaricate Tor e andate all’indirizzo “nytimes3xbfgragh.onion”.
+
+ «Spesso ci si concentra sui casi più estremi di controllo di Stato nei regimi autoritari, senza considerare che in Occidente diventa sempre più difficile ottenere riservatezza o effettuare una ricerca non filtrata da algoritmi», spiega a La Stampa Fabio Pietrosanti, fondatore del Centro Hermes per la trasparenza e i diritti umani digitali . 
+
+ La sua organizzazione ha creato e sviluppa GlobaLeaks, strumento che usa la rete Tor per consentire l’invio di informazioni anonime a giornalisti o responsabili anticorruzione. Oggi il software GlobaLeaks - e Tor - sono usati dall’Autorità Nazionale Anticorruzione di Raffaele Cantone e da decine di pubbliche amministrazioni in tutta Italia per raccogliere segnalazioni di condotte illecite nel settore pubblico. Ma la stessa tecnologia è usata anche da La Stampa, che ha messo a disposizione dei suoi lettori uno strumento attraverso il quale ricevere segnalazioni e documenti legati al mondo della finanza. Sono diversi i casi nei quali il dark web può essere un valido alleato della trasparenza nella lotta alla corruzione. 
+
+ Oltre al motore di ricerca DuckDuckGo, che previene il tracciamento delle ricerche, è disponibile anche un’applicazione per Android, che consente di instradare sulla rete Tor il traffico di altre app. 
+
+ @faffa42
+
+ Video del giorno 
+
+ "Non mi siedo": Booker parla per oltre 25 ore al Senato contro Trump e Musk, è record storico 
+
+ Leggi anche
+
+ Condizioni per la fornitura del servizio di abbonamento cartaceo 
+
+ Ripartita la Centrale del Latte Asti Alessandria, una cella frigo alternativa a Castellazzo 
+
+ Centro di identificazione per i migranti a Mentone, via alla realizzazione 
+
+ © Riproduzione riservata 
+
+ La guida allo shopping del Gruppo Gedi
+
+ i
+
+ Consigli.it sceglie e raccomanda in maniera indipendente
+prodotti e servizi che si possono acquistare online o tramite la
+consulenza di esperti. Ogni volta che viene fatto un acquisto attraverso
+ uno dei link presenti nel testo, Consigli.it riceve una commissione
+senza alcuna variazione del prezzo finale. 
+
+ SOLO 5? AL MESE 
+ Pochi lo sanno: una polizza vita per proteggere chi ami costa solo 5? al mese
+
+ OFFERTE A TEMPO LIMITATO 
+ Le migliori offerte Amazon di questa settimana, aggiornate in tempo reale
+
+ Cronaca 
+
+ Economia 
+
+ Esteri 
+
+ Politica 
+
+ Sport 
+
+ Torino 
+
+ Scrivi
+ alla redazione 
+
+ Pubblicità 
+
+ -->
+
+ Pubblicità 
+
+ Dati
+ Societari 
+
+ Contatti 
+
+ Cookie Policy 
+
+ Privacy 
+
+ CMP 
+
+ Sede 
+
+ Dichiarazione di accessibilità 
+
+ Riserva TDM 
+
+ LA STAMPA SAE S.P.A 
+
+ P. IVA 13425960013 
+
+ Redazione: 
+
+ Via Ernesto Lugaro 15 - 10126 Torino (TO), Italia
+
+ I diritti delle immagini e dei testi sono riservati. È espressamente vietata la loro riproduzione con qualsiasi
+ mezzo e l'adattamento totale o parziale.

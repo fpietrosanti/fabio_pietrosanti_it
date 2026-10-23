@@ -1,0 +1,645 @@
+# Trascrizione automatica (faster-whisper small) di media.mp3
+[00:00] Indy presenta i job a ne pas laisser au hasard comme gestionaire de paix
+[00:04] On dirait que j'ai t'ai payé en couronne islandaise, c'est normal
+[00:07] Merci pas, c'est cadeau
+[00:08] Com'en ça cadeau?
+[00:10] A vu le taux de changeur au couronne t'ai peut-être déjà millionaire, imagine
+[00:13] Mais je peux dépenser ça nulle part
+[00:15] Et reste toujours l'Islande
+[00:17] Voilà ce qui arrive quand vous ne sponsorisez pas votre offre d'emploi sur Indy
+[00:19] Allor la prochaine fois que vous cherchez la bonne personne pour le bon post
+[00:22] Trouvez des candidats de qualité avec une offre sponsorisée sur Indy
+[00:26] Rendez-vous sur indy.fr slash sponsorisé et sponsorisez votre annonce dès maintenant
+[00:31] Kaspersky è un antivirus piuttosto famoso
+[00:35] MA
+[00:37] Kaspersky è anche un antivirus russo
+[00:40] È successo un bel po' di baccano nell'ultimo mese
+[00:45] Non volevo dare informazioni così affettate
+[00:49] Mi sono fermato, ho preparato due pagine di appunti
+[00:52] Per poter raccontarvi quanto più possibile nel dettaglio
+[00:56] E quanto più possibile col più vasto spettro di opinioni possibili
+[01:00] Quello che è successo
+[01:02] Quindi mettetevi seduti
+[01:04] Prendete una tazza di te o un buon cappuccio o un bicchiere di vino
+[01:09] E fatemi compagnia mentre facciamo uno di quegli spiegoni
+[01:14] Che vi piacciono tanto, uno di quelli belli nel dettaglio pieno di cose di cui parlare
+[01:20] Per parlare di vita o morte dell'antivirus Kaspersky
+[01:26] Io sono Matteo Flora
+[01:28] Mi occupo di cybersecurity per lavoro
+[01:31] E questo beh, questo è ciao internet
+[01:33] Ciao internet partiamo dall'inizio
+[01:43] È il 27 di febbraio
+[01:45] E Stefano Quintarelli, ex deputato
+[01:51] E un personaggio di spicco nel ambiente italiano della tecnologia
+[01:56] Si pone dalle pagine del post un coesito
+[02:00] Quanto in realtà è un attentato alla sicurezza nazionale
+[02:05] E ospitare un prodotto come un antivirus, quello di Kaspersky
+[02:10] All'interno di infrastrutture critiche italiane
+[02:14] In realtà ne parla lui, infatti tanto baccato anche Fabio Pietrosanti
+[02:19] Lo fanno da un po', ma il problema non è mica nuovo
+[02:23] Rappetto, ne aveva parlato nel 2017 da le pagine del fatto quotidiano
+[02:31] E ancora prima Bloomberg si poneva il problema nel 2015
+[02:36] Tra l'altro, riprendendo le voci di un po' dei dipendenti interni
+[02:41] Che parlavano di stretti legami con l'FSB
+[02:44] FSB è l'equivalente nuovo del KGB di vecchia data
+[02:49] Il 28 di febbraio è a parte un'interrogazione parlamentare
+[02:54] Promossa dal deputato del gruppo misto Paolo Nicolò Romano
+[02:58] E ci si muove in maniera un po' più strutturata
+[03:04] Perché Kaspersky è molto addentro alla cybersecurity nazionale
+[03:11] Molto, molto addentro
+[03:13] E per molto addentro intendo 2297 a 40 pubblici italiani
+[03:23] Palazzo Chigi c'è l'interno, ma non solo Ministero dell'Interno
+[03:27] Della difesa, della giustizia
+[03:29] Il comando generale della Guardia di Finanza, della Farnesina
+[03:32] L'Arma dei Carabinieri, ISTAT, CNR, l'Istituto di Fisica Nucleare
+[03:36] Regione Emilia Romagna, autorità garante della concorrenza nel mercato
+[03:40] Caspersky sembra essere intimamente legato alle infrastrutture più importanti
+[03:50] Come informazioni e funzionamento della Nazione Italia
+[03:56] E da dove arriva Eugene Kaspersky, CEO e fondatore dell'azienda
+[04:01] Che prende da lui il nome, ha legami relazioni forti
+[04:06] Ormai, di un lontano passato ovviamente di quando studiava
+[04:10] Con il KGB russo, con il KGB
+[04:14] Perché? Perché nella facoltà in cui studiava
+[04:17] Si arrivava semplicemente, solo discusivamente quando si avevano contatti
+[04:22] E comunque li ha per un bel po' della sua vita
+[04:24] Niente di male, è chiaro che se arrivi dal mondo della criptografia
+[04:28] In un paese, all'epoca come la Russia
+[04:31] Sei obbligato ad intessere questo tipo di rapporti
+[04:34] Ma i rapporti continuano a gettare una luce oscura
+[04:39] In Francia, l'Agenzia Nazionale per la Sicurezza dei Sistemi Informativi
+[04:44] La NSSI ha di fatto invitato a mettere in discussione
+[04:50] L'uso del software, generalmente di Kaspersky
+[04:53] Anche se in realtà non ha ancora messo un esplicito divieto
+[04:57] La paura, ovvio, quello che i sistemi possono essere compromessi
+[05:00] Non tanto volontariamente da Kaspersky
+[05:03] Non è che Kaspersky si mette e dice, adesso comprometto i sistemi
+[05:07] Quanto dal gioco forza del fatto di una società russa
+[05:10] Che tanto poco può fare contro il governo
+[05:14] Ma ne parliamo dopo
+[05:16] Negli Stati Uniti e in Holanda invece
+[05:18] Kaspersky è già stato bandito dai computer governativi
+[05:22] Quattro e cinque anni fa, rispettivamente
+[05:26] In Holanda, addirittura, il governo ha viettato l'uso del software
+[05:30] nei sistemi, già nel 2018, se non vado errato
+[05:35] Società russa, sì e no
+[05:41] Kaspersky lab in teoria ascende nel Regno Unito
+[05:46] La società ha un sacco, però, di capacità di ricerca
+[05:50] e sviluppo e centinaia di dipendenti in Russia
+[05:54] In realtà, il principale ormai, la principale sede di ricerca e sviluppo
+[06:01] è dal 2017-2018 in Israel
+[06:05] Però, però, però ha ottenuto qualunque tipo di certificazione
+[06:12] Ad esempio, in Italia, Kaspersky lab ha ottenuto
+[06:16] un paio di mesi fa, un mese fa, non mi ricordo, poco tempo fa
+[06:19] dal mese una certificazione di sicurezza che ne consente
+[06:23] l'uso anche ai massimi livelli della pubblica amministrazione
+[06:27] Certo, c'è da dire che almeno fino al mese scorso
+[06:31] fino a quando questa valutazione è stata fatta
+[06:33] non era in realtà un fornitore che proveniva da uno stato
+[06:37] che ha invaso un suo vicino
+[06:40] e che pubblicamente ha dichiarato che noi, come tutto il comparto
+[06:44] del ganato, siamo dei nemici
+[06:47] Dove siamo arrivati? Siamo arrivati a un dibattito
+[06:50] che vede nell'ultima cosa che io ho visto, magari ce ne sono altre
+[06:54] il sottosegretario alla sicurezza nazionale Gabrielli
+[06:58] che dice che gli antivirus russi sono probabilmente
+[07:03] probabilmente da sostituire
+[07:06] Ma la posizione di Kaspersky?
+[07:11] Kaspersky dice, e ho recuperato una nota stampa
+[07:16] che leggo, proprio punto a punto, così almeno non ci sbagliamo
+[07:20] che dice Kaspersky è una società internazionale privata
+[07:24] e non ha legami con nessun governo o agenzia governativa
+[07:27] è orgogliosa di cooperare con le autorità di molti paesi
+[07:31] e con le forze dell'ordine internazionale
+[07:33] nella lotta contro il crimine informatico
+[07:37] e, attenzione, questa cosa non mi tranquillizza particolarmente
+[07:44] perché tra la cooperazione con le forze di polizia
+[07:50] e le autorità di molti paesi, potrebbe benissimo esserci
+[07:54] quella dell'FSB, quella russa
+[07:57] ma proviamo ad andare in maniera un po' più analitica
+[08:01] sul rischio che questa cosa potrebbe comportare
+[08:05] innanzitutto, valutare una buona, una cattiva
+[08:10] soluzione antivirus e antimalware
+[08:13] dovrebbe essere un discrimine che facciamo in base ad altri parametri
+[08:17] non certo semplicemente a che fare con la geografia
+[08:22] quello di sicuro, ma quando valuti un antivirus
+[08:26] il discorso è un filino differente
+[08:29] perché per i non addetti ai lavori
+[08:31] perché quando valuti un antivirus
+[08:33] stai valutando una componente del sistema operativo
+[08:36] che gira nel sistema che viene lanciata
+[08:39] con diritti e permessi
+[08:42] cioè con la possibilità di fare cose fuori dal comune
+[08:45] già perché ovviamente un antivirus deve andare al massimo livello
+[08:49] per capire cose che fa un amministratore di sistema
+[08:54] non per chi sa che ragione assurda
+[08:56] ma perché se deve valutare da sopra
+[08:59] cosa stanno facendo, altri programmi
+[09:02] all'interno del sistema operativo
+[09:04] si trova per forza di cose ad avere lo stesso livello
+[09:07] di amministratore di sistema
+[09:09] e vi ricordo che in natura non esiste una figura
+[09:13] così simile a Dio
+[09:15] come un amministratore di sistema sulla sua macchina
+[09:19] quindi può fare il bello e il cattivo tempo
+[09:22] non solo tra l'altro sui programmi che girano
+[09:25] alcuni antivirus ESET, ad esempio
+[09:28] ti mettono addirittura un certificato particolare
+[09:31] per inframezarsi all'interno dei siti sicuri
+[09:35] in HTTPS, per spacchettare il traffico
+[09:37] e vedere cosa passa avanti indietro
+[09:39] anche qui, niente di male, assolutamente
+[09:41] per vedere cosa passa in un sistema cifrato
+[09:44] perché all'interno di un sito in HTTPS
+[09:46] potrebbe benissimo passarti un malware
+[09:48] quindi stiamo parlando di un software molto particolare
+[09:51] che ha dei diritti molto diversi
+[09:54] da quelli di un software qualunque
+[09:56] come può essere un software per analizzare
+[09:59] che ne so dati o excel o documenti di qualunque tipo
+[10:08] non solo
+[10:10] in realtà capisco la logica dietro a Quintarelli
+[10:14] a Pietro Santi e a chi ne parla
+[10:16] perché se ci pensate
+[10:18] GDPR, normativa europea sulla privacy
+[10:21] se stiamo scassando le scatole così tanto
+[10:25] in tutta Europa per dire che non puoi portare i dati
+[10:28] dall'Europa e gli Stati Uniti
+[10:30] perché il Patriotact
+[10:32] che è questa normativa americana
+[10:34] che impone alle società in maniera segreta
+[10:37] senza comunicarlo
+[10:39] di rispondere a delle richieste
+[10:42] dell'autorità nazionale
+[10:44] quindi ti dice
+[10:46] il Patriotact ti dice
+[10:48] tu devi se, per sicurezza nazionale
+[10:50] ti chiedo cose, non dire niente
+[10:51] darmi i dati qualunque date io ti chiedo
+[10:53] e se questa cosa è in contrasto
+[10:55] con la normativa europea
+[10:57] del GDPR così tanto
+[10:59] da bloccare il trasferimento di date
+[11:01] una parte all'altra
+[11:02] in effetti non è molto diversa
+[11:04] il fatto di avere
+[11:06] una o più società
+[11:07] e non sto solo parlando di Caspersky
+[11:09] ne sto parlando di una serie di società
+[11:11] che debbono sottostare
+[11:13] alla normativa dei paesi di riferimento
+[11:16] che può chiedergli determinati tipi di intervento
+[11:19] senza che l'utente ne sappia
+[11:21] in effetti c'è
+[11:23] l'idea di questa possibilità
+[11:27] anche se il rischio di impianti
+[11:29] dell'FSB, cioè il rischio che l'FSB
+[11:32] ai servizi ai segreti russi
+[11:34] possano modificare, installarti un Trojan
+[11:37] c'è mica solo sui software russi
+[11:40] uno degli impianti più spettacolari
+[11:43] che ricordiamo
+[11:44] molto simile tra l'altro
+[11:45] quello che si sta ipotizzando qua
+[11:46] è quello su SolarWind
+[11:48] ne avevamo parlato SolarWind
+[11:50] è un sistema di monitoraggio
+[11:51] dei sistemi che gira più o meno nello stesso modo
+[11:53] e l'impianto, cioè il fatto di aver compromesso
+[11:56] tutti i sistemi al mondo
+[11:58] che utilizzavano, buona parte di sistemi al mondo
+[12:01] che utilizzavano questo software
+[12:03] non è stato fatto dall'America che
+[12:05] la società è americana
+[12:07] è stato fatto probabilmente da un altro stato
+[12:10] ok, si vocifera a Cina
+[12:12] ma detto questo
+[12:16] non è che il fatto che io ho un software russo
+[12:19] automaticamente fa in modo che i russi
+[12:21] possano comprometterlo
+[12:23] e se parliamo di quel termine enorme che è
+[12:26] ah, troniamo indietro un attimo
+[12:29] potremmo anche iniziare a discutere
+[12:31] del fatto di in Italia si usa solo software
+[12:34] in italiano solo un cloud nazionale
+[12:36] questa cosa si chiama normalmente
+[12:38] sovranità tecnologica ok
+[12:42] se iniziamo però a parlare di sovranità tecnologica
+[12:45] dobbiamo iniziare a pensare anche
+[12:47] a tutti quegli impianti
+[12:49] ogni volta che dico impianto non è quello del dente
+[12:51] l'impianto è un malware installato
+[12:54] in maniera silente in genere pronto ad essere utilizzato
+[12:57] dicevo, dovremmo parlare anche di tutti quelli degli alleati
+[13:00] vedi Snowden e tutti gli impianti
+[13:02] dell'N6 e di tutto quel grande mondo
+[13:05] che viene chiamato Equation Group che fanno cose spettacolari
+[13:08] con una piccola differenza
+[13:10] gli alleati per ora non hanno detto che siamo nemici
+[13:13] non hanno minacciato di bombardarci
+[13:16] non hanno invaso uno stato qua vicino a noi
+[13:20] è un discorso un filo più complesso
+[13:24] ma gli scenari cosa sono
+[13:27] cosa può succedere nella pratica?
+[13:29] andiamo a vedere
+[13:33] nella pratica possono succedere una serie di cose
+[13:35] il fatto che sia Caspersky
+[13:38] ed Aglio sia obbligato a mettere una backdoor
+[13:42] cioè a dare un'entrata privilegiata
+[13:45] per chi lo sa utilizzare
+[13:47] in questo caso quello che si pensa
+[13:49] quello che si teme è l'FSB
+[13:51] i servizi secreti russi
+[13:53] dove possono entrare in quella macchina da remoto
+[13:56] possibile
+[13:58] sì, probabile
+[14:00] meno
+[14:02] perché? perché una cosa del genere verrebbe
+[14:05] probabilmente abbastanza vista
+[14:07] dagli analisti che comunque continuano
+[14:10] indipendentemente da quale sia il software
+[14:12] a controllare che cosa stanno facendo
+[14:14] vari software sulla rete
+[14:16] ricordiamoci che anche Solarwind in ritardo
+[14:18] in ritardo probabilmente di mesi o anni
+[14:20] ma è stato beccato alla fine
+[14:22] o se no impianti come Solarwind
+[14:24] la cosa che fa più paura è quello
+[14:26] cioè il fatto che venga mano messo
+[14:28] il funzionamento per consentire
+[14:30] ad altro tipo di software
+[14:32] di poi accedere in qualche modo
+[14:36] la cosa tra l'altro che fa più paura
+[14:38] è che è un antivirose
+[14:40] per sua definizione
+[14:43] ha aggiornamenti periodici
+[14:45] spesso giornalieri
+[14:47] anche più volte durante il giorno
+[14:49] cioè mentre un software come
+[14:51] Word, come PowerPoint
+[14:53] come Photoshop
+[14:55] lo puoi aggiornare una volta ogni tanto
+[14:57] non è bisogno di essere costantemente aggiornato
+[14:59] l'antivirose di persevere
+[15:01] viene aggiornato più e più volte
+[15:03] può essere aggiornato anche particolarmente
+[15:05] per singolo obiettivo e poi cambiato
+[15:07] cioè è più facile continuare
+[15:09] a mandare pezzi nuovi
+[15:11] e quindi eventualmente anche
+[15:13] comprometterlo
+[15:15] oppure ancora di più
+[15:17] potrebbe semplicemente
+[15:19] Caspersky essere obbligato
+[15:22] a dimenticarsi
+[15:24] di individuare
+[15:26] un malware particolare
+[15:28] quello di stato
+[15:30] certo
+[15:32] loro come tanti altri
+[15:34] perché noi stiamo continuando a parlare
+[15:36] di Caspersky perché adesso
+[15:38] è questo fatto nella cronica
+[15:40] ma
+[15:42] sono tante le realtà che
+[15:44] possono finire sotto lo stesso tipo
+[15:46] di racconto
+[15:48] per adesso ci stiamo concentrando
+[15:50] solo su uno Caspersky e va bene
+[15:52] se proprio dovete chiedere a me
+[15:54] e la mia opinione se vi interessa
+[15:56] quella
+[15:57] io proporei
+[15:59] di partire da un punto di vista
+[16:01] estremamente
+[16:03] più prosaico
+[16:07] il punto di vista prosaico è
+[16:09] molto semplice
+[16:11] in questo momento non ci sono evidenze
+[16:13] di alcun tipo
+[16:15] di compromissioni
+[16:17] nessuno è mai riuscito a trovare
+[16:19] quella che tecnicamente viene chiamata
+[16:21] la smoking gun
+[16:23] la pistola fumante
+[16:25] nessuno è riuscito a trovare un qualcosa
+[16:27] in cui effettivamente
+[16:29] c'è stata una compromissione
+[16:31] c'è stato un attacco c'è da...
+[16:33] quindi per adesso sono solo e disclusivamente
+[16:35] le teorie non solo
+[16:37] ma non ci sono nemmeno
+[16:39] evidenze di nessun tipo
+[16:41] di pressione
+[16:43] cioè non abbiamo evidenze
+[16:45] non so mai mai state manifestate
+[16:47] di un governo
+[16:49] quello russo come tanti altri
+[16:51] che sia andato da Caspersky e gli abbia chiesto
+[16:53] di fare determinate cose
+[16:55] nessuno non c'è nessuno non c'è nessuno state
+[16:57] non abbiamo evidenza non c'è nessuna parte
+[16:59] se non qualche dichiarazione
+[17:01] nel 2015 di
+[17:03] x dipendente
+[17:05] supposedly
+[17:07] teorici x dipendenti
+[17:09] quindi io quello adesso non lo metterai come rischio
+[17:11] ma
+[17:16] ma se io dovesse adesso da direttore
+[17:18] eiti di un azienda o direttora dell'oditi
+[17:20] di un'azienda
+[17:22] pensare alla soluzione Caspersky
+[17:24] mi farai altre domande
+[17:26] da cliente
+[17:28] e le domande sono più semplici
+[17:30] cioè mentre è difficile il fatto di dire
+[17:32] mi bucheranno non mi bucheranno
+[17:34] è estremamente più semplice la prima
+[17:36] la vendita continuerà
+[17:38] cioè
+[17:40] continueranno a far vendere questa cosa in Europa
+[17:42] e l'assistenza
+[17:44] e me lo rinnoveranno l'anno prossimo
+[17:46] o no
+[17:48] o saranno soggetti a embargo
+[17:50] o meno
+[17:52] gli aggiornamenti
+[17:54] continueranno o no
+[17:56] nel senso
+[17:58] riusciranno saranno blocchiati
+[18:00] da mille cose da embargo
+[18:02] una parte o dall'altra
+[18:04] mi arriveranno gli aggiornamenti o no
+[18:06] perché senza aggiornamenti
+[18:08] un antivirus
+[18:10] non Caspersky
+[18:12] qualunque antivirus ha la stessa
+[18:14] utilità pratica di uno snocciola funghi
+[18:16] ok
+[18:18] la sua praticità
+[18:20] il suo fatto di essere utile è legato
+[18:22] semplicemente a quanto spesso
+[18:24] e quanto puntualmente mi arrivano
+[18:26] gli aggiornamenti
+[18:28] non solo
+[18:30] se salgo
+[18:32] dal CISO
+[18:34] cioè dal responsabile di sicurezza
+[18:36] e salgo a top management mi chiedo
+[18:38] qualcuno dei miei clienti
+[18:40] magari governi
+[18:42] potrebbe escludermi
+[18:44] dalle gare o escludermi
+[18:46] dalla fornitura di servizia perché lo uso
+[18:48] già perché se domani arrivano a circolare
+[18:50] che dice non puoi utilizzare
+[18:52] questo tipo di cose
+[18:54] chi mi assicura che i miei clienti non mi obbligono a dire
+[18:56] no se tu usi quella cosa
+[18:58] io non posso
+[19:00] non non voglio
+[19:02] non posso lavorare con te
+[19:04] e
+[19:06] come si sta muovendo la legislazione
+[19:08] nei paesi in cui io
+[19:10] come magari multinazionale o come
+[19:12] come azienda che ha uno
+[19:14] più stati in cui lavora
+[19:16] mi muovo
+[19:18] c'è la possibilità che
+[19:20] qualcuno nei prossimi uno, tre
+[19:22] sei, dodici mesi
+[19:24] mi dica sei obbligato
+[19:26] a cambiare soluzione
+[19:28] perché
+[19:30] mi preoccupa più quello
+[19:32] perché mi preoccupa come continuità
+[19:34] mi preoccupa con il fatto che magari
+[19:36] pago due anni di assistenza
+[19:38] tre anni di assistenza e aggiornamento etc
+[19:40] e poi in realtà lo devo comunque
+[19:42] cambiare
+[19:44] lì sì che è un problema reale
+[19:46] lì non diventa più un problema
+[19:48] teorico
+[19:50] non solo
+[19:52] io farei due discorsi con il vostro
+[19:54] dpo corresponsabile della privasi
+[19:56] perché
+[19:58] da un punto di vista di accountability del gdpr
+[20:00] come lo motivo
+[20:02] io a questo punto ho un sacco di persone
+[20:04] che mi dicono che
+[20:06] potenzialmente
+[20:08] potenzialmente
+[20:10] ci possono essere dei problemi
+[20:13] se mi succede un data breach
+[20:17] e io ho quello
+[20:19] e sono magari esposto da un punto
+[20:21] di vista di sicurezza stato paese
+[20:23] come poi lo motivo
+[20:25] non lo so
+[20:27] trovare una motivazione si trova
+[20:29] come motivazione
+[20:31] però diventa difficile, diventa complesso
+[20:33] diventa una cosa che è
+[20:35] un pezzo in più a cui
+[20:37] pensare
+[20:39] e non pensate che sia solo esclusivamente
+[20:41] tra l'altro software, bisognerà poi andare a vedere
+[20:43] nel caso in cui voi vogliate sbarazzarvi
+[20:45] di kaspersky o di qualunque altro
+[20:47] software
+[20:49] chi usa quelle librerie
+[20:51] a chi vendono i dati perché tante volte
+[20:53] se dobbiamo parlare di rischio geopolitico
+[20:55] non possiamo
+[20:57] dare per scontato che un antivirus
+[20:59] anti malware
+[21:01] non sia sviluppato anche con tante componenti
+[21:03] di altri, quindi bisognerà vedere chi
+[21:05] usa queste cose
+[21:07] e non è per niente, per niente facile
+[21:09] e quindi
+[21:11] come bisogna muoversi, ve lo dico
+[21:13] chiudendo il video
+[21:15] dopo lo stacchetto
+[21:17] sono Matteo Flora, mi occupo di reputazione
+[21:19] crisis in università e con le mie aziende
+[21:21] vengo dalla cyber security
+[21:23] ti spiego come la rete ci cambia
+[21:25] e come usarla bene, iscriviti
+[21:27] adesso al canale e in descrizione trovi
+[21:29] la newsletter e il gruppo telegram
+[21:31] per altri spunti
+[21:33] e tutto si riflette
+[21:35] su threat modeling
+[21:37] analisi del rischio, analisi della minaccia
+[21:39] ciao Reislin
+[21:41] chi è il mio nemico
+[21:43] chi è il mio potenziale nemico
+[21:45] ora c'è una differenza sostanziale
+[21:47] se io sono il ministero della difesa
+[21:49] o se sono la panetteria sotto casa
+[21:51] siamo d'accordo
+[21:53] perché c'è una differenza sostanziale
+[21:55] nell'effort, nello sforzo
+[21:57] che un attaccante è disposto
+[21:59] a investire
+[22:01] per bucarmi
+[22:03] se sono il ministero della difesa
+[22:05] è disposto a spendere 100.000
+[22:07] in effort, se sono la pizzeria
+[22:09] sotto casa è disposto forse
+[22:11] a spendere uno ma forse
+[22:13] quindi
+[22:15] diverso è PA
+[22:17] sicurezza nazionale
+[22:19] azienda privata privati
+[22:21] cittadini comune
+[22:23] e in questo momento credo che
+[22:25] la problematica a stato paese riguardi
+[22:27] principalmente
+[22:29] sicurezza nazionale, pubblica amministrazione
+[22:31] e forse grandi grandi aziende
+[22:33] politicamente sposte
+[22:35] non vi dirà il perimetro
+[22:37] della sicurezza nazionale perché
+[22:39] è una definizione un po' così
+[22:41] vi dirò quelle multinazionali che sono
+[22:43] un bersaglio papabile
+[22:45] se sono fuori da questo ambito
+[22:47] sinceramente vi direi che me ne posso
+[22:49] in questo momento bellamente fregare
+[22:51] e questo è
+[22:53] punto numero 2
+[22:55] quanto mi costa la sostituzione
+[22:57] già
+[22:59] perché se il costo è assolutamente
+[23:01] limitato
+[23:03] potrei anche decidere
+[23:05] di cambiarlo preventivamente
+[23:07] o se mi scade il rinnovo
+[23:09] di fare una sostituzione a un'altra
+[23:11] realtà sono abbastanza convinto
+[23:13] che tra l'altro più o meno
+[23:15] tutti gli altri produttori di antivirus
+[23:17] e non è sponsorizzato il tutto
+[23:19] quindi scegliete quello che volete
+[23:21] per quanto mi riguarda anzi se qualche produttore
+[23:23] di antivirus vuole sponsorizzare facciamo
+[23:25] un live non è un problema
+[23:27] però dicevo non è tanto
+[23:29] dove ti sposti ma sono abbastanza convinto
+[23:31] che quasi tutti ti taranno più o meno
+[23:33] delle incentivazioni
+[23:35] a spostarti da uno
+[23:37] all'altro
+[23:39] abbastanza facilmente quindi
+[23:41] se non mi costa un grand che
+[23:43] rientro in quella parte
+[23:45] direi che è un no brainer la cambio
+[23:47] anche solo per problemi reputazionali
+[23:49] perché?
+[23:51] perché non succede mai niente
+[23:53] ma se succede qualcosa non voglio sentirmi
+[23:55] dire ecco vedi sicuramente
+[23:57] quello da cui sono entrati
+[23:59] magari non è nemmeno vero
+[24:01] ma se il costo transazionale
+[24:03] è sufficientemente basso
+[24:05] e il rischio che io valuto
+[24:07] per come mi posiziono sicurezza nazionale
+[24:09] potrebbe essere piuttosto elevato
+[24:11] il matching costo beneficio
+[24:13] potrebbe far facilmente cambiare
+[24:15] da una parte all'altra
+[24:17] ma?
+[24:19] attenzione negli analisi dei costi
+[24:21] c'è da capire non quanto mi costa
+[24:23] solo la sostituzione
+[24:25] ok?
+[24:27] ma anche quanto mi costa eventualmente
+[24:29] la non sostituzione
+[24:31] qual è la mia previsione del fatto
+[24:33] che le pubbliche amministrazioni ad esempio
+[24:35] con cui io lavoro
+[24:37] in un esempio a caso
+[24:39] mi obblighi non a non averlo
+[24:41] qual è la possibilità che
+[24:43] qualcuno mi dica
+[24:45] come è successo addirittura a Ferrari
+[24:47] che l'aveva come sponsor
+[24:49] mi dica ecco tu
+[24:51] dai supporto ai russi
+[24:53] anche solo reputazionalmente
+[24:55] con quel tipo di sponsor
+[24:57] Ferrari ha lasciato cadere uno sponsor
+[24:59] Ferrari che se lo può permettere
+[25:01] è Ferrari
+[25:03] vogliamo trovarci
+[25:05] di dire no non è vero
+[25:07] di doverci gestire
+[25:09] l'ennesimo problematica
+[25:11] l'ennesima cosa da andare
+[25:13] a motivare per questo
+[25:15] può essere di sì
+[25:17] che non me ne freghi assolutamente niente
+[25:19] e in quel caso tienti tranquillamente
+[25:21] Caspersky non è un problema
+[25:23] può essere che non lo voglio
+[25:25] fare, che il mio manager non lo voglio fare
+[25:27] che il capo del mio manager non lo voglio fare
+[25:29] che il mio ceo, il mio azionista di maggioranza
+[25:31] non lo voglio fare e in quel caso
+[25:33] è un momento di cambiare
+[25:35] tutto qui sempre considerando
+[25:37] però che i rischi geopolitici
+[25:39] sono difficili
+[25:41] perché non possiamo trascurare
+[25:43] ad esempio altre potenze
+[25:45] quindi altre soluzioni
+[25:47] che dovremmo valutare bene
+[25:49] permesso che la sovranità
+[25:51] tecnologica
+[25:53] è un problema
+[25:55] anche quella perché ovviamente
+[25:57] se è un fornitore
+[25:59] che è nel mio stato
+[26:01] per esempio come potrà dire di no
+[26:03] all
+[26:05] all'autorità del mio stato per installare
+[26:07] un trojan, ma quello è un discorso
+[26:09] diverso che magari affronteremmo
+[26:11] con i trojan in un altro video
+[26:13] ne avevamo già parlato un po' di tempo fa
+[26:15] la soluzione
+[26:17] non è semplice
+[26:19] per tutto questo
+[26:21] ma gridare al lupo al lupo
+[26:23] non è quasi mai la strategia
+[26:25] per risolvere qualunque tipo di problematica
+[26:27] l'unica cosa che posso dirvi
+[26:29] oltre a istote parati
+[26:31] cioè seate pronti è valutate
+[26:33] costi benefici e chi è il vostro nemico
+[26:35] e da lì prendete una decisione
+[26:37] semplicemente non facendovi
+[26:39] guidare dalla pancia
+[26:41] ma una volta tanto magari
+[26:43] dalla testa, tutto qui
+[26:45] raccontatemi qui sotto
+[26:47] si o no deve morire
+[26:49] lo cambirete o meno
+[26:51] c'è una copertina abbastanza
+[26:53] divisiva secondo me
+[26:55] vedremo se qualcuno si la menterà
+[26:57] io sono Matteo Flora
+[26:59] faccio queste cose per lavoro
+[27:01] sfortunatamente soprattutto per l'analisi del rischio
+[27:03] se non vi siete iscritti ancora
+[27:05] questo è il momento giusto per farlo
+[27:07] e come sempre anche questa volta
+[27:09] grazie mille per avermi ascoltato
+[27:11] anche nello spiegone
+[27:13] e istote parati

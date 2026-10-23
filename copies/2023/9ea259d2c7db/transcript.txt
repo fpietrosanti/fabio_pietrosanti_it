@@ -1,0 +1,1031 @@
+# Trascrizione automatica (faster-whisper small) di media.mp3
+[00:00] This BBC podcast is supported by ads outside the UK.
+[00:31] Claude can now draft a dock or deck right in front of you, and Claude design now lives right inside Claude.
+[00:37] Describe the website or prototype you're picturing, attach your design system, and it comes back in your own design language, ready to edit right on the canvas.
+[00:46] It works with your files and the tools you already use, like Gmail and Slack.
+[00:51] And whether you're debugging code at midnight, building a financial model, or strategizing your next business move,
+[00:56] Claude extends your thinking to tackle the problems that matter.
+[01:00] For problems worth solving, get started with Claude at Claude.ai slash solve.
+[01:05] That's Claude.ai slash solve.
+[01:08] And check out Claude Pro, which includes access to all of the features mentioned in today's episode.
+[01:13] Claude.ai slash solve.
+[01:15] This advertisement feature is paid and presented by Go Turquie.
+[01:20] A normal morning in the historic city of Bursa, maybe a UNESCO heritage site,
+[01:26] or a dip in its famous thermal springs.
+[01:28] But head out of the city, just a little, and you quickly arrive at Uludar National Park.
+[01:34] A vast alpine playground for outdoor adventure.
+[01:38] Local adventure enthusiast, Shule Ouzjan, grew up in these mountains
+[01:42] and knows exactly how to make the most of them.
+[01:45] We have more than 21 different slopes here, and if you really trust your skills, you can go off-deast.
+[01:52] And the adventure doesn't stop when the snow melts either.
+[01:56] With hiking trails, forest paths, camping spots, and wildlife taking over for the summer.
+[02:01] I feel alive in here. There's a lot of different adventures.
+[02:04] Because in Turquie, the biggest detours aren't always the longest ones.
+[02:09] Sometimes they're simply uphill.
+[02:12] Plan your next detour at goturquie.com today.
+[02:20] One thing about spending so much time in North Korea is that I've encountered quite a cast of characters there.
+[02:26] And one of the most colourful foreigners was a man named Alejandro Cao de Benos,
+[02:31] a Spaniard who used to turn up at events dressed in a North Korean military uniform.
+[02:35] He used to introduce himself by a Korean name, Joseon Il.
+[02:39] That's a name that means Korea is one.
+[02:41] He's a true believer in North Korea, and he's not shy about it.
+[02:45] Here he is speaking to the BBC World Service in 2013.
+[02:49] I feel very attracted to the strength of the Korean people being such a small nation,
+[02:53] and not only politically but spiritually,
+[02:56] and about the certain aspects of the human behaviour that are lost in Western societies,
+[03:02] like honour, discipline, commitment, respect for the family
+[03:06] that are still preserved today in North Korea, and that I feel myself identified with.
+[03:12] When I first met him in Pyongyang, he told me that his interest in communism in North Korea
+[03:17] started when he was a teenager.
+[03:19] But that interest wouldn't be just academic.
+[03:22] Alejandro would become one of its most visible and vocal cheerleaders.
+[03:27] He became the founder and president of the Korean Friendship Association, the KFA.
+[03:32] That's a volunteer group for North Korea fans that says it has more than 17,000 members in 120 countries.
+[03:39] The KFA says it aims to show the reality of North Korea to the world.
+[03:44] For Alejandro, that includes denying all evidence of the regime's dire human rights record,
+[03:48] which is exactly what he did during that BBC interview.
+[03:52] So do you say that there are no concentration camps in North Korea?
+[03:55] Do you say that there are no prison camps where people are tortured?
+[03:58] No, no, no. We don't have concentration camps.
+[04:00] What about torture?
+[04:01] No, not at all, not at all. This is not used.
+[04:05] Notice that he says we when talking about North Korea.
+[04:09] Alejandro has really jumped into the deep end.
+[04:12] He even opened a North Korean theme bar back in his hometown of Tarragona in Spain.
+[04:16] Alejandro calls himself a special delegate for the North Korean government.
+[04:20] And although it's unclear how close he truly is to the regime,
+[04:23] it's clear this isn't just a hobby for him.
+[04:26] I do import and export joint ventures.
+[04:29] That's my source for a living.
+[04:31] But do you organise business deals between international businessmen and North Korea?
+[04:36] Sure, sure.
+[04:37] Right. And obviously North Korea is subject to international sanctions.
+[04:41] Do you ever try to break those sanctions?
+[04:43] Of course. We have to break them every day.
+[04:45] We have to try to find a way for a living.
+[04:47] And it cannot be that U.S. is dictating always the fate,
+[04:50] economical fate of the world.
+[04:52] And in 2019, Alejandro secures the North Korean government's permission
+[04:57] to organise a remarkable event,
+[05:00] the country's first ever cryptocurrency conference.
+[05:03] Its website calls it an opportunity to share knowledge,
+[05:06] establish connections and discuss business opportunities,
+[05:09] just the kind of thing Alejandro specialises in.
+[05:11] It's intriguing for sure.
+[05:13] I mean, how on earth could there be a tech conference
+[05:15] in one of the world's least connected countries?
+[05:18] Cryptocurrency experts from around the world begin signing up
+[05:20] for what sounds like a wacky offbeat adventure.
+[05:23] But this conference will prove anything but.
+[05:26] I was arrested, detained, then put in handcuffs,
+[05:30] taken to an interrogation centre.
+[05:33] We were genuinely very frightened.
+[05:45] From the BBC World Service, this is the Lazarus Heist.
+[05:48] Season two.
+[05:49] I'm Jean Lee.
+[05:50] And I'm Jeff White.
+[05:51] Episode seven.
+[05:53] Crypto comrades.
+[05:57] One of the main ways to get to Pyongyang
+[05:59] is flying with air choreo.
+[06:01] That's North Korea's state-owned airline.
+[06:03] And it's an experience that starts
+[06:05] from the moment you check in.
+[06:07] I used to fly in from China
+[06:08] and I'd always seemed to be lining up behind North Koreans
+[06:11] with carts piled high with large screen TVs
+[06:14] that they were taking back to Pyongyang.
+[06:16] As you settle into your seat,
+[06:18] flight attendants wearing white gloves
+[06:20] come around distributing the Pyongyang times.
+[06:22] And later, burgers made of a mystery meat
+[06:25] that I never, ever ate.
+[06:28] A flight attendant makes an announcement
+[06:29] at the moment you cross into North Korean airspace.
+[06:32] And I think that's when it really starts to sink in
+[06:34] that you're about to arrive in North Korea.
+[06:39] It's a wholly bizarre experience.
+[06:42] Obviously, you arrive at Pyongyang Airport,
+[06:43] which is more or less brand new,
+[06:45] but it's an airport with no one in it.
+[06:48] I think we were the only people,
+[06:49] you know, that flight we were on
+[06:51] was the only flight getting in.
+[06:53] This is Chris Ems,
+[06:54] a young British cryptocurrency entrepreneur.
+[06:56] He's one of the eight people who signed up
+[06:58] for Alejandro's crypto conference.
+[07:00] By April 2019, when the conference is held,
+[07:03] Chris has already worked in the industry for four years,
+[07:05] so he's a veteran in crypto terms.
+[07:07] His work takes him all over the place.
+[07:09] There was a crypto conference
+[07:10] probably on every four corner of the earth,
+[07:12] on any given day at that point.
+[07:14] I was quite a well-known speaker
+[07:17] on the speaker circuit as it was back then.
+[07:19] So when an invite to a conference in Pyongyang
+[07:21] landed in his inbox,
+[07:22] Chris says he didn't have any misgivings.
+[07:24] He was excited.
+[07:25] It was going to be about building friendship
+[07:28] between North Korea and people not from North Korea.
+[07:32] In the crypto industry,
+[07:33] people were very open-minded to building friendships
+[07:37] across different nationalities and boundaries.
+[07:40] Boundaries, as Chris says,
+[07:41] the crypto world gets very excited
+[07:42] about crossing them or doing away with them all together.
+[07:46] Because to true believers like Chris,
+[07:48] crypto isn't just about people
+[07:49] amassing ludicrous Bitcoin fortunes.
+[07:52] It's a whole ideology, a fervent belief
+[07:54] that the technology behind cryptocurrency
+[07:56] can also be used to disrupt and reimagine
+[07:59] other elements of society.
+[08:01] It's idealistic, heady, sometimes utopian stuff,
+[08:04] and it's radically borderless.
+[08:06] So the conference in Pyongyang, why not?
+[08:09] I think for all of us,
+[08:10] we thought this is a bit of a quirky,
+[08:13] strange sort of tourist trip.
+[08:15] But on arrival, the eerily empty airport of Pyongyang
+[08:18] is already giving the group the sense
+[08:19] that this won't be their typical conference experience.
+[08:22] And it's when they get to airport security
+[08:24] that things go from eerie to unnerving.
+[08:27] And one of the things that the customs officials
+[08:30] at the airport do as soon as you arrive
+[08:32] is they go through all of your media
+[08:35] on any electronic devices,
+[08:36] be that your mobile phone or be that your laptop.
+[08:40] So on arriving, one of the participants had,
+[08:44] and I won't name his name,
+[08:46] had brought in a homemade pornographic video
+[08:50] on his laptop, which he deliberately tried to conceal.
+[08:53] It was evident from them uncovering it
+[08:55] that they are experts in finding these things.
+[08:58] This might be a good moment for the conference organizer
+[09:00] and official friend of North Korea, Alejandro Calderbenos,
+[09:03] to step in and make an appeal for his garless guest.
+[09:06] But he's not actually on the trip.
+[09:08] He's not allowed to leave Spain
+[09:10] because authorities there confiscated his passport
+[09:12] a few years ago,
+[09:13] after he illegally bought some guns that fire rubber bullets.
+[09:16] So Chris and the crew are on their own.
+[09:19] Well, sort of.
+[09:20] At the airport, they're met by their North Korean guides.
+[09:23] Foreign tourists aren't allowed
+[09:24] to wander around North Korea on their own.
+[09:26] They're assigned miners to be with them at all times,
+[09:29] which the government says is to keep them safe.
+[09:31] And these miners are very unhappy about that lewd video.
+[09:35] On the minibus ride to their hotel,
+[09:37] the miners scold the whole group,
+[09:39] saying the incident has made them feel shamed and embarrassed.
+[09:44] At that point, all of our passports were confiscated.
+[09:47] We were told by the guides, if you like,
+[09:49] that this has happened because of this gentleman's video
+[09:53] that has caused concern.
+[09:55] So at that point, everyone's back was up.
+[09:57] Right. We were told,
+[09:59] would you get your passports back on the way out
+[10:00] sort of thing?
+[10:01] Were they confiscating them for the duration of the trip?
+[10:03] Yeah, I mean, they were sort of like
+[10:05] that we need to take them because of this situation,
+[10:07] but you know, you will get them to return home.
+[10:10] But obviously, you're sort of second guessing
+[10:11] as to whether that's true or false.
+[10:14] There's actually nothing that unusual about this.
+[10:16] Most tourists are required to hand over their passports
+[10:19] during their stay in North Korea,
+[10:21] but it's definitely an unsettling feeling.
+[10:24] And the fact that they didn't know it was going to happen
+[10:26] is an indication of how unprepared some of them are
+[10:28] for a trip to North Korea.
+[10:30] After this, the visiting crypto crew
+[10:32] start to form bonds pretty fast.
+[10:34] The entire group was excited to start
+[10:37] such kind of, let's say an adventure,
+[10:40] but also a lot of, how can I say,
+[10:44] paying attention to our group safety.
+[10:49] This is Fabio Pietrasanti,
+[10:51] an Italian tech entrepreneur
+[10:52] and one of Chris's seven conference companions.
+[10:55] Once you land in a place that get your passport,
+[11:00] inspect your phone and your computer,
+[11:03] really trust me, when you land there,
+[11:05] you all became brothers, I mean, the group.
+[11:09] And we were reminded to stay safe,
+[11:13] not to make any stupid mistake
+[11:16] because the main goal once you land
+[11:20] is to ensure that you will get safe back.
+[11:24] The itinerary for their conference week in Pyongyang
+[11:26] begins with three days
+[11:28] of the typical North Korean tourist experience,
+[11:31] accompanied at all times by their watchful guides.
+[11:33] So you're taking up the Juche Tower in Pyongyang,
+[11:36] we were taken to see a beer brewery,
+[11:39] we were taken to a school,
+[11:41] and then one day to the demilitarized zone
+[11:44] to look over into South Korea.
+[11:46] And how did you get on as a group?
+[11:47] Because as you say,
+[11:48] you didn't know anything as other people,
+[11:49] what was the sort of feeling among the group?
+[11:51] It was a very bizarre atmosphere.
+[11:53] I mean, I think there was a lot
+[11:54] of gallows humor going on.
+[11:56] As a group, when we weren't being
+[11:58] sort of observed or with the guides,
+[11:59] we'd crack all sorts of different jokes,
+[12:01] you know, we're going to get out of here alive.
+[12:04] That's a truly dark joke.
+[12:06] Everyone on the trip would have had the story
+[12:08] of what happened to Otto Warmbier on their minds,
+[12:10] the American student who died after being imprisoned
+[12:13] in North Korea for allegedly trying to steal a poster.
+[12:15] Warmbier's case was recent history,
+[12:17] so this really isn't a laughing matter.
+[12:20] Fabio says the group develops a sort of mantra
+[12:23] to keep them going.
+[12:24] Our rule is we need to get safe back home.
+[12:29] Get back home safely.
+[12:30] It's a good rule to live by when you're in North Korea.
+[12:33] But Chris and Fabio soon discover
+[12:36] that one of their group is less inclined to stay in line
+[12:40] and it's starting to prove to be a bit of a problem.
+[12:43] Probably the most vocal person who was talking a lot
+[12:46] during the excursions was Virgil.
+[12:49] Virgil Griffith, he's an American
+[12:51] and something of a crypto rock star.
+[12:53] At the time, he was a developer
+[12:54] for the Ethereum Foundation,
+[12:56] which is a huge deal in the crypto world.
+[12:58] It's the organization behind Ether,
+[13:00] the second most successful cryptocurrency after Bitcoin.
+[13:03] And it's fair to say Virgil has a reputation
+[13:06] for ruffling feathers.
+[13:07] For example, as an undergrad,
+[13:09] he attempted to expose security flaws
+[13:11] in a college ID card system.
+[13:13] The company running that system then sued him.
+[13:16] Then Virgil invented a tool that would detect
+[13:18] when people or companies were massaging
+[13:21] their own Wikipedia entries.
+[13:22] Virgil said he did it to create minor PR disasters
+[13:25] for companies and organizations I dislike.
+[13:28] Oh, and he was also on the US reality TV show
+[13:31] from the American network TBS called King of the Nerds.
+[13:35] My name is Virgil Griffith
+[13:37] and I'm from Pasadena, California.
+[13:38] So I went to University of Alabama my first two years.
+[13:41] I was sued for economic espionage
+[13:43] and then I dropped out.
+[13:44] I consider myself a rebel
+[13:46] or at the very least I played my own drum.
+[13:50] Is Virgil king of the nerds?
+[13:52] King of the nerds.
+[13:53] Virgil is an extremely intelligent and creative person
+[13:57] but he's also a peculiar character.
+[14:00] He's not a politically correct person.
+[14:03] He's a provocative.
+[14:05] Virgil was cracking all sorts of very dark jokes
+[14:08] to the guides, which a lot of us were very,
+[14:12] very nervous about someone doing.
+[14:14] He was asking them about their dating lives.
+[14:17] We were told not to ask nothing about politics
+[14:23] or political leaders.
+[14:25] And Virgil was always asking very curious
+[14:28] and intriguing question like,
+[14:30] how did you find a girl here in North Korea?
+[14:33] How can you match for a marriage?
+[14:37] Or what happened if you do a car crash?
+[14:39] There is a judicial system.
+[14:41] I mean, who decide who is right and who is wrong?
+[14:45] And a lot of curiosity of understanding
+[14:48] how the country works.
+[14:50] So now the group is inside North Korea
+[14:52] without their passports.
+[14:54] They're every move monitored
+[14:55] and they've been lumped together with a loose cannon.
+[14:59] Fair to say, not your average business trip.
+[15:01] After three days of being shown the sites,
+[15:03] it's time for the conference to officially begin.
+[15:05] I have to say, I go to a lot of conferences
+[15:08] and if I was invited to a cryptocurrency conference
+[15:10] in North Korea, I would have some serious reservations
+[15:13] about that.
+[15:14] If you know anything about cryptocurrency
+[15:16] and these guys are experts,
+[15:17] it's not hard to figure out
+[15:19] why North Korea might be interested in it.
+[15:21] At this point, North Korea's under economic sanctions,
+[15:24] pretty much excluding it from the global banking system.
+[15:27] Bitcoin, the world's first big cryptocurrency,
+[15:30] was invented partly as a way of freeing money
+[15:32] from the control of banks and governments.
+[15:34] It's a fairly libertarian concept.
+[15:36] So cryptocurrency could be a game changer
+[15:39] for getting around those sanctions.
+[15:41] Plus, you might think these guys
+[15:43] would have come across all those media reports
+[15:45] of North Korea's hacking exploits.
+[15:47] This was hardly a secret by this point in 2019.
+[15:50] Remember the huge WannaCry ransomware attack
+[15:53] that we covered in season one
+[15:55] that was attributed by the US government
+[15:56] to the Lazarus Group?
+[15:58] That happened two years before this conference.
+[16:01] The hackers asked for ransoms to be paid in Bitcoin.
+[16:05] Hundreds of thousands of dollars
+[16:06] worth of the digital currency was collected
+[16:09] and never recovered.
+[16:10] North Korea, of course,
+[16:11] denies any involvement in that hack.
+[16:14] So the conference is about to kick off
+[16:17] and these international crypto experts
+[16:20] are looking forward to hearing
+[16:21] from their North Korean counterparts.
+[16:23] Maybe their host presentations are going to offer a glimpse
+[16:26] into what the country has been doing with crypto
+[16:29] and why it's decided to hold
+[16:31] an entire conference on it in the first place.
+[16:34] Well, no, actually, Fabio learns
+[16:36] that no North Korean plans to speak at the event.
+[16:39] In fact, he discovers the conference organizers
+[16:41] haven't really made any plans at all.
+[16:44] We just realized as a group
+[16:47] that, hey, there are two days of conference
+[16:50] and actually there's no program.
+[16:52] Instead, they're told by their minders
+[16:54] at the last minute that they are the conference.
+[16:57] They have to present all the sessions themselves.
+[17:00] They're given an approved list of topics
+[17:01] and told to crack on.
+[17:03] So we were just basically thrown in the room
+[17:05] with these sheets of paper.
+[17:07] It was essentially having to improvise.
+[17:09] Remember just us all sort of looking each other bemused.
+[17:12] I think it was on the day or the day before
+[17:14] and just, you know, trying to agree who's going to read what.
+[17:17] And you're sort of expected to almost
+[17:18] cobble together a presentation on that subject.
+[17:22] Exactly. You're just expected to get up
+[17:24] and try and work your way through it.
+[17:26] Right. And what was yours?
+[17:28] I think mine was blockchain and finance.
+[17:31] If I'd paid thousands of dollars to attend a conference,
+[17:34] then found that I'd been pressured into speaking at it,
+[17:36] I wouldn't be happy.
+[17:37] That's the stuff of absolute nightmares for me.
+[17:39] I've got sweaty palms just thinking about it.
+[17:41] But it's way worse for Chris and Fabio.
+[17:44] They're starting to form the very strong impression
+[17:46] from their North Korean hosts
+[17:48] that there might be consequences if they don't deliver.
+[17:52] Before we went into the conference,
+[17:54] you know, one of the guys had said this better go well.
+[17:56] So we were already very nervous.
+[17:58] We had to fill the space and we were really worried
+[18:02] that not filling the space of the two days of conference
+[18:08] could have created the problem with our major goal
+[18:12] that is a return back safe home.
+[18:16] On day five, the conference finally begins
+[18:19] at the side tech complex in Pyongyang.
+[18:21] I have attended a conference here.
+[18:24] It's a shiny new tech center shaped like an atom
+[18:27] with an enormous replica of a long range rocket
+[18:29] right in the heart of the main hall.
+[18:31] There's no hiding what the goals are here.
+[18:34] The foreign visitors are taken into a conference room
+[18:37] where North Koreans are already seated
+[18:38] and waiting for their presentations.
+[18:41] It's not clear to our foreign visitors
+[18:43] who any of the people in the audience are.
+[18:46] But this welcome news,
+[18:47] they don't have to worry about giving
+[18:48] an unforgettable speech after all.
+[18:50] While as an interpreter translating the presentations
+[18:52] for the North Koreans in attendance,
+[18:54] the audience aren't exactly pep top to hear them.
+[18:56] The people who were in the room were falling asleep.
+[18:59] There were at least two, three persons
+[19:02] that slept over the conference over the two days.
+[19:06] The general interest was very low.
+[19:10] After two days of hastily prepped presentations,
+[19:12] the so-called conference officially closes.
+[19:14] The crypto bros didn't get to learn anything
+[19:16] about what North Korea is doing
+[19:18] or indeed not doing with cryptocurrency,
+[19:20] so much for the exchange of ideas.
+[19:22] It's not clear to them what the whole conference
+[19:24] was really for or why they've been invited
+[19:26] in the first place.
+[19:27] Still, a few encounters at their hotel bar
+[19:30] seem to offer an answer to that question.
+[19:33] The guides take them for karaoke.
+[19:34] The North Koreans are amazing singers
+[19:36] in my own experience
+[19:38] and they get to sample some North Korean snake wine.
+[19:40] It's an acquired taste.
+[19:42] So far, so innocent, but that's not all that happened.
+[19:46] Fabio says that at this hotel bar,
+[19:48] the group were approached by foreign businessmen.
+[19:51] A man they thought was Taiwanese
+[19:52] asked if they'd be interested
+[19:54] in helping him with an oil venture,
+[19:56] which is interesting
+[19:57] because oil is a hotly sanctioned commodity
+[19:59] in North Korea.
+[20:00] The group said, no thanks.
+[20:02] And another foreign conference attendee
+[20:03] said that a stranger asked to use his name
+[20:05] to secure a loan to buy a North Korean bank.
+[20:08] Again, he declined to help out.
+[20:10] Sounds a bit shady.
+[20:12] Maybe the real reason Alejandro Cao de Benos
+[20:15] convened this conference
+[20:17] was to bring foreigners into the country
+[20:18] to see if any of them
+[20:19] might be interested in doing business.
+[20:22] But Fabio and Chris say the group
+[20:23] wanted nothing to do with these bar room businessmen.
+[20:26] They have just one mission, remember,
+[20:28] to get back home safely.
+[20:29] And on the morning of the final day,
+[20:30] they're taken back to the airport
+[20:32] and reunited with their passports.
+[20:34] The minute that my passport was stamped,
+[20:37] you know, as you're leaving,
+[20:39] I felt a sigh of relief.
+[20:41] Still, it wasn't a complete waste of time.
+[20:43] I mean, they visited Pyongyang,
+[20:44] they had an adventure,
+[20:45] they kept out of trouble,
+[20:46] got back home safe.
+[20:48] But it's after the conference
+[20:49] when the real trouble begins,
+[20:51] especially for the most provocative participant,
+[20:54] Virgil Griffith.
+[20:56] The FBI asked if they could meet him
+[20:58] to talk about his trip to North Korea.
+[21:00] And I said, Virgil, whatever you do,
+[21:01] please don't go there by yourself.
+[21:03] Take a lawyer with you.
+[21:06] We'll be back after this.
+[21:10] Dr. Ruja promised to make the world rich.
+[21:13] We create the world around this coin.
+[21:16] Her company made billions from global investors.
+[21:19] She called herself the Crypto Queen.
+[21:20] And then she disappeared.
+[21:23] How can this happen?
+[21:24] Join me, Jamie Bartlett,
+[21:25] as I search for Dr. Ruja
+[21:27] and the truth about her company, One Coin.
+[21:30] Kidnapping, killing.
+[21:31] It starts to get very scary,
+[21:33] very, very fast.
+[21:34] The missing Crypto Queen.
+[21:36] Find it wherever you get your podcasts.
+[21:43] Sometimes we all need an extra helping hand,
+[21:46] especially with a tricky business problem
+[21:48] you've been putting off.
+[21:49] Claude is the AI for just that.
+[21:52] It's the collaborator
+[21:53] that understands your entire workflow
+[21:55] and thinks with you, not for you.
+[21:57] And Claude isn't just for quick questions.
+[22:00] Handed a whole task
+[22:01] like turning a folder of scattered notes
+[22:03] into a report and it does the work
+[22:05] and hands back something finished
+[22:07] that you can open and edit.
+[22:08] Claude can now draft a dock or deck
+[22:10] right in front of you
+[22:12] and Claude design now lives right inside Claude.
+[22:15] Describe the website or prototype you're picturing.
+[22:18] Attach your design system
+[22:19] and it comes back in your own design language
+[22:21] ready to edit right on the canvas.
+[22:24] It works with your files
+[22:25] and the tools you already use
+[22:27] like Gmail and Slack.
+[22:28] And whether you're debugging code at midnight,
+[22:30] building a financial model
+[22:32] or strategizing your next business move,
+[22:34] Claude extends your thinking
+[22:36] to tackle the problems that matter.
+[22:38] For problems worth solving,
+[22:39] get started with Claude at Claude.ai slash solve.
+[22:43] That's Claude.ai slash solve.
+[22:46] And check out Claude Pro,
+[22:47] which includes access to all of the features mentioned
+[22:50] in today's episode.
+[22:51] Claude.ai slash solve.
+[22:53] I founded Ornot in 2013.
+[22:56] We produce cycling equipment.
+[22:58] What we appreciate the most about Shopify
+[22:59] is that we can manage the activity
+[23:01] without having any technical expertise.
+[23:03] We contribute to our business with extreme ease
+[23:06] from back-end to front-end to online sales.
+[23:09] If Shopify was an accessory for cycling,
+[23:11] I think it would be the same bike.
+[23:13] It's the base on which we build everything else.
+[23:16] Shopify has the heart of our activity.
+[23:18] Start the free trial on Shopify.com.
+[23:29] While Virgil Griffith was playing with fire in Pyongyang,
+[23:32] asking all those curious questions
+[23:34] of his North Korean guides,
+[23:35] it turns out it wasn't really the North Koreans
+[23:39] he had to worry about.
+[23:40] All the conference goers knew they were being monitored
+[23:42] at every turn in North Korea.
+[23:44] But what they perhaps didn't realize
+[23:45] was that their trip was also being watched
+[23:47] with interest from afar by the FBI.
+[23:49] It seems like the inaugural Pyongyang blockchain
+[23:52] and cryptocurrency conference
+[23:54] was not such a non-event after all.
+[23:57] Certainly in the case of Virgil Griffith.
+[23:59] We wanted to interview Virgil,
+[24:00] but it's a bit tricky
+[24:02] because, spoiler alert,
+[24:04] he's currently in a federal prison in Pennsylvania
+[24:06] serving a five-year sentence
+[24:07] for conspiring to violate U.S. sanctions on North Korea.
+[24:11] He's a smart guy,
+[24:12] and that would be the most incredibly stupid thing to do.
+[24:16] That would involve a level of evil and stupidity
+[24:20] combined together that Virgil simply is not capable of.
+[24:23] Someone who knows Virgil well
+[24:24] is his friend, the writer Emmanuel Goldstein.
+[24:27] He's a bit of a legend in hacker circles.
+[24:28] He runs a magazine about hacking
+[24:30] that started out as a newsletter way back in 1984.
+[24:34] Hence his name.
+[24:35] It's actually a pseudonym.
+[24:36] Emmanuel Goldstein, of course, is a reference
+[24:38] to a character in George Orwell's novel, 1984.
+[24:42] Emmanuel met Virgil through hacking circles in the U.S.
+[24:44] and was immediately impressed.
+[24:47] Basically, he's a one-man think tank,
+[24:49] you know, somebody who just will take the impossible
+[24:52] and make it possible,
+[24:53] and that's what he lives for.
+[24:55] But when Emmanuel found out Virgil
+[24:57] was thinking of traveling to North Korea,
+[24:59] he was worried.
+[25:00] When he went there, I was scared to death for him
+[25:03] because he has this way of being very open,
+[25:06] this way of being honest.
+[25:08] In North Korea, that can go badly very quickly.
+[25:11] Did you speak to him after that
+[25:13] in the interim between when he came back from the conference
+[25:15] and when things went sideways?
+[25:17] Yes, I talked to him a couple of times after that.
+[25:19] What did he make of it?
+[25:20] What was his reflections on it at that point?
+[25:22] Oh, he was filled with stories
+[25:23] about what North Korea was like,
+[25:26] the things that he had seen,
+[25:27] the statues, the newspapers,
+[25:29] the propaganda on television.
+[25:31] And, you know, it was told with the enthusiasm
+[25:33] of somebody who had just seen something completely alien.
+[25:36] It's not in any way embracing that, it's horrible.
+[25:40] He knows that, he said that.
+[25:42] A few months after his trip,
+[25:43] the FBI gets in touch with Virgil.
+[25:46] They want to ask him some questions about it.
+[25:48] And I said, Virgil, whatever you do,
+[25:49] please don't go there by yourself,
+[25:51] take a lawyer with you.
+[25:53] And he was convinced that there was no problem
+[25:56] in him talking to the FBI on his own.
+[25:59] He thought he was helping.
+[26:01] And I remember seeing him that night
+[26:03] after he had had the meeting.
+[26:04] I've never seen him prouder.
+[26:06] He basically, he had given them North Korean newspapers.
+[26:09] He had gotten all kinds of souvenirs from the FBI.
+[26:12] And that was it.
+[26:14] But that wasn't it.
+[26:16] A few months later, in November 2019,
+[26:19] Virgil Griffith is arrested by the FBI.
+[26:22] And he's charged with conspiring
+[26:24] to violate U.S. sanctions on North Korea.
+[26:27] And that was basically the first indication
+[26:31] that they didn't think it wasn't a big deal.
+[26:34] The first thing U.S. authorities take issue with
+[26:36] is that Virgil violated travel restrictions
+[26:38] on Americans going to North Korea,
+[26:40] put in place in response to the Otto Warmbier incident.
+[26:43] Virgil was well aware of the rules.
+[26:45] He'd even written to the U.S. State Department
+[26:48] seeking their special permission to attend the conference.
+[26:51] They'd given him a firm no.
+[26:52] And that's probably when Virgil first came up on their radar.
+[26:56] So Virgil decides to go ahead
+[26:58] and attend the conference anyway.
+[27:00] Gets a visa from the North Korean mission in New York.
+[27:03] But this isn't the only reason Virgil's now in trouble.
+[27:07] In the court proceedings that follow his arrest,
+[27:09] the FBI presents some pretty jaw-dropping evidence.
+[27:12] By going through Virgil's emails and phone messages,
+[27:15] they discover that for more than a year
+[27:17] before the conference,
+[27:18] Virgil was working on a plan
+[27:19] to import cryptocurrency equipment into the country.
+[27:23] Specifically, he discussed sending them a piece of kit
+[27:26] that can create new cryptocurrency coins
+[27:29] and also setting up a thing called a node
+[27:32] which validates crypto transactions.
+[27:35] Back in April 2018,
+[27:36] so that's exactly a year before the conference,
+[27:39] Virgil was in touch with someone
+[27:41] who was making regular trips into North Korea,
+[27:45] someone he hoped could help him with his venture.
+[27:47] And he began discussing it with other people as well.
+[27:51] In emails and texts,
+[27:52] he says his plan to send crypto technology
+[27:54] into North Korea will make it possible
+[27:57] for them to avoid sanctions on money transfers
+[28:00] and help them circumvent the current sanctions on them.
+[28:03] Not exactly being very subtle about what he thinks
+[28:05] North Korea wants to get out of this node business, is he?
+[28:08] And in one message, Virgil adds,
+[28:11] the project could turn into a mildly lucrative little business
+[28:14] for whoever does this.
+[28:16] Not sounding very good.
+[28:17] And the court documents go on to say
+[28:19] that once Virgil got to North Korea for the conference,
+[28:21] he continued making plans to establish this node
+[28:24] in the country and that he planned to return to North Korea
+[28:27] and bring the equipment with him.
+[28:28] After his arrest, the Ethereum Foundation,
+[28:31] that was Virgil's employer,
+[28:32] make it clear that Virgil no longer works for them
+[28:34] and they did not approve or support his trip to North Korea.
+[28:38] Chris Ems says he also had no idea about Virgil's plans.
+[28:42] The thing that surprised me and shocked me the most
+[28:44] was Virgil's conduct prior to the conference,
+[28:47] which none of us were aware of.
+[28:48] To my knowledge, no one else who attended the conference
+[28:50] knew he was doing that or anything like that.
+[28:53] So that was the biggest shocker.
+[28:55] The FBI also presents evidence
+[28:57] from inside the conference itself.
+[29:00] They have audio recordings of Virgil
+[29:01] giving his presentation at the conference.
+[29:04] It's not clear how they got them
+[29:05] or who in the room did the recording.
+[29:08] According to these transcripts, Virgil opens his talk saying,
+[29:11] the most valuable things we have to offer the DPRK
+[29:14] are payments that the USA can't stop.
+[29:18] DPRK, of course, stands
+[29:19] for the Democratic People's Republic of Korea,
+[29:21] the official name of North Korea.
+[29:24] There are photos too.
+[29:25] One shows Virgil drawing a diagram on a whiteboard,
+[29:27] which, prosecutors say, shows how to use cryptocurrency
+[29:31] as a means to evade sanctions.
+[29:33] Next to the illustration, it's written,
+[29:35] no sanctions, yay, and has a smiley face.
+[29:41] In September 2019, Virgil Griffith pleads guilty
+[29:45] to conspiring to violate US sanctions.
+[29:48] He writes a remorseful letter to the judge saying
+[29:50] his actions were arrogant, foolish, and wrong.
+[29:54] He sentenced in April 2022 to five years in prison
+[29:57] and given a $100,000 fine.
+[30:02] The US government says Virgil worked over an extended period
+[30:05] to advance his cryptocurrency business
+[30:07] by serving the interests of one of America's most dangerous
+[30:10] and volatile adversaries.
+[30:12] But that's not what his supporters believe.
+[30:14] Many in the tech community were shaken
+[30:16] and outraged by Griffith's prosecution.
+[30:18] They say all Virgil actually did
+[30:20] was stand in a conference room full of sleepy people,
+[30:23] withing on publicly available information.
+[30:25] Here's his friend, Emmanuel Goldstein.
+[30:28] When you say providing services to North Korea,
+[30:31] at what point does he provide a service to North Korea
+[30:33] when he answers a question with information
+[30:36] that can easily be obtained on the internet?
+[30:38] Is that a service?
+[30:39] Do you think he's made an example
+[30:40] of them by the US government?
+[30:41] Oh, absolutely.
+[30:42] Do you think anybody's gonna wanna go to North Korea
+[30:44] or answer any questions about anything
+[30:48] to people over there?
+[30:49] It had the desired effect, absolutely.
+[30:51] People are scared to death of this.
+[30:54] What's much less clear is why Virgil did it.
+[30:56] Doesn't seem to me he was interested in making money.
+[30:58] There must be far easier ways
+[31:00] for someone with his talents to do that.
+[31:02] His friend Emmanuel says he was no sympathizer of the regime
+[31:05] and wouldn't have intentionally set out to help them.
+[31:07] So did he do this as some of his supporters say,
+[31:10] out of an unwavering belief
+[31:11] that crypto technology must be borderless
+[31:14] and open to everyone?
+[31:15] Was he so driven by libertarian ideals
+[31:18] that it blinded him to who he might be helping?
+[31:21] At the sentencing, the judge offers his own interpretation.
+[31:24] He says Virgil was not motivated by ideology
+[31:27] but by narcissism and the desire to be a crypto hero.
+[31:32] The judge notes that in his talks with the FBI,
+[31:35] Virgil had offered to spy for the Americans
+[31:37] from inside North Korea.
+[31:39] He concludes, this guy is willing to play both sides
+[31:43] as long as he is the center of attention.
+[31:45] But Virgil wasn't the only one under the spotlight
+[31:48] after the trip to North Korea.
+[31:49] I checked in as you would normally,
+[31:51] went up to passport control
+[31:53] and for some reason my passport wasn't going through.
+[31:56] That's right, British crypto expert Chris Ems
+[31:59] is about to have his own run-in with US authorities.
+[32:02] In February 2022, Chris is traveling
+[32:05] through an airport in Saudi Arabia
+[32:07] after yet another crypto conference
+[32:09] when he's taken aside by Saudi police.
+[32:13] I was taken to the police station in the airport.
+[32:15] Eventually I was arrested, detained,
+[32:18] then put in handcuffs, both my feet bound and my hands,
+[32:22] taken to an interrogation center.
+[32:25] Turns out the US government has put out
+[32:27] an extradition request for Chris through Interpol.
+[32:30] He's bailed, but he's not allowed to leave Saudi Arabia
+[32:32] while authorities process his case
+[32:34] and he's lost access to all his money.
+[32:37] I tried to go to the ATM to go and buy some water
+[32:40] and my debit card didn't work.
+[32:42] Within 24 hours after, I started getting emails
+[32:44] from all of my banks and cryptocurrency
+[32:46] or normal financial services providers
+[32:48] that I had either telling me my account was frozen
+[32:50] or my account had been closed.
+[32:52] Any funds that I do have left,
+[32:54] they've all been frozen now without me
+[32:57] having been convicted of any crime.
+[33:00] Right, that's a rude awakening.
+[33:02] It's not a nice feeling.
+[33:04] Chris claims he had no clue
+[33:06] about Virgil Griffith's plans in North Korea,
+[33:08] but he's facing a charge that he entered into a conspiracy
+[33:11] with Virgil to violate US sanctions law.
+[33:14] In fact, the US government's indictment of Chris
+[33:16] says he was one of the conference organizers,
+[33:19] along with Alejandro Cao de Benos,
+[33:21] North Korea's best friend in the West.
+[33:24] And they have evidence.
+[33:25] Chris is listed as an organizer
+[33:27] on the website advertising the conference.
+[33:29] There's even an email address form there.
+[33:32] The indictment also says that after the conference,
+[33:35] Chris continued to conspire with Virgil,
+[33:38] including assisting him with his efforts
+[33:40] to develop potential cryptocurrency infrastructure
+[33:43] inside North Korea.
+[33:45] Chris admits he invited a few people to the conference
+[33:47] simply because he was going.
+[33:49] But he says this hardly makes him an organizer.
+[33:51] He also denies conspiring with Virgil or any wrongdoing.
+[33:55] I gave a speech on, you know,
+[33:57] it was about blockchain and finance.
+[33:59] To my knowledge at the time,
+[34:00] I didn't think I was breaking any laws
+[34:02] and I still don't think I was breaking any laws
+[34:04] by telling someone how that works
+[34:06] because it's common public knowledge.
+[34:08] The US government is pretty clear on its accusations
+[34:10] against you and what it feels that you talked about.
+[34:12] Did you appreciate when you went in there
+[34:14] that the toxicity of the subject you were talking about,
+[34:16] the international finance for a country
+[34:18] that's under sanctions as you knew it was,
+[34:20] is a really toxic subject?
+[34:22] It does surprise me that you weren't a bit more cagey
+[34:24] about that and on your metal as it were.
+[34:27] Yeah, I think, Geoff, we have to go back
+[34:29] to the point I'd made before.
+[34:31] And I think anyone that you probably spoke
+[34:33] to the conference would make
+[34:34] is we were genuinely very frightened during this time.
+[34:38] We didn't have our passports.
+[34:40] We were told this thing had to go well.
+[34:42] You know, when we were speaking,
+[34:43] we were trying to please the people
+[34:46] that were holding our passports.
+[34:48] Did you not fear that you might,
+[34:50] either by perception or in law,
+[34:51] be accused of helping that country?
+[34:54] To be honest with you, it's kind of the reverse of that.
+[34:57] What I was seeing on the news at the time,
+[34:59] we were seeing Donald Trump hug Kim Jong-un,
+[35:02] you know, things are thawing
+[35:03] and it would be nice to build relationships
+[35:05] with North Koreans if we're all going to be friends.
+[35:08] I suppose that's one way of looking at it,
+[35:11] but there's another interesting detail
+[35:12] in the US indictment against Chris Ems.
+[35:15] It contains another short transcript
+[35:16] of the recording from that conference
+[35:18] of Chris giving an opening talk.
+[35:21] He introduces himself as the technology advisor
+[35:24] to the Korean Friendship Association,
+[35:27] that network of North Korea fans
+[35:29] run by Alejandro Cao de Benos.
+[35:31] When I spoke to Chris, I asked him directly
+[35:33] whether he has any affinity with North Korea.
+[35:36] No, absolutely not.
+[35:37] One of the things that I'd said
+[35:39] when I was interviewed by law enforcement
+[35:41] is I'm not Kim Jong-un's best friend.
+[35:43] I don't have a sympathy for the ideas whatsoever.
+[35:47] I think going there,
+[35:48] you really understand, you know, how the country works.
+[35:52] Regardless of the things that people, you know,
+[35:54] nitpick over, like, are their death camps,
+[35:56] are they not?
+[35:57] The fact is that it's an enclosed, isolated place
+[36:00] where people don't have basic fundamental human rights.
+[36:04] I don't have a affinity of any sort towards North Korea.
+[36:10] Back when we spoke, Chris was still stuck in Saudi Arabia,
+[36:13] unable to leave the country,
+[36:14] waiting for the authorities to decide
+[36:16] whether to comply with America's request to extradite him.
+[36:19] Ultimately, the Saudi government rejected that request
+[36:22] and in September 2022, Chris Ems was free to travel.
+[36:25] So where did he go next?
+[36:27] Well, it's an interesting story.
+[36:28] Chris Ems now lives in Russia.
+[36:31] A spokesman representing Chris says he fears
+[36:34] that if he returns home to the UK,
+[36:36] he'll end up being extradited.
+[36:38] So he's decided to live in Russia
+[36:41] while he fights to have that interpol order removed.
+[36:43] And he says he likes it there.
+[36:45] He's now a regular contributor
+[36:46] to Russia's state-controlled news network, Russia Today.
+[36:49] Here he is once again talking about crypto.
+[36:52] Let's go to cryptocurrency in general.
+[36:54] How do you think this can help Russia defend
+[36:57] its economy against Western sanctions, for example?
+[37:00] Absolutely. Well, let's take me myself,
+[37:03] have been, you know, all my bank accounts in the West
+[37:06] were frozen by the US.
+[37:08] But thanks to cryptocurrency,
+[37:09] I can pay for a taxi here to come and join you today.
+[37:13] And I think the Russian Federation
+[37:15] has a huge opportunity right now
+[37:17] to embrace cryptocurrency, to regulate the space.
+[37:21] I'm all for regulation.
+[37:22] Make of that what you will.
+[37:24] None of the other conference goers
+[37:25] have faced any legal trouble,
+[37:27] but the FBI certainly seems keen to get hold of Chris.
+[37:30] In fact, the bureau has added him to its most wanted list.
+[37:34] And there's another new face on that most wanted list,
+[37:37] one that is very familiar to me, Alejandro Cao de Benos.
+[37:42] There's a picture of him with a big smile
+[37:43] dressed in his North Korean military uniform.
+[37:46] He's been indicted, along with Chris,
+[37:48] for assisting Virgil Griffith
+[37:50] in his sanctions-breaking activities.
+[37:53] The United States wants to extradite him along with Chris,
+[37:56] but it's unlikely that will happen.
+[37:58] Spain doesn't typically extradite its citizens
+[38:00] for offenses that aren't crimes in Spain.
+[38:03] This isn't the only scrape Alejandro's been in recently.
+[38:06] In 2020, he was a subject
+[38:08] of an amazing Danish documentary called The Mole.
+[38:11] The film involves an elaborate sting
+[38:13] where a Danish guy infiltrates
+[38:15] the Korean Friendship Association
+[38:17] and convinces Alejandro
+[38:18] that he can recruit wealthy investors
+[38:20] who want to do business in North Korea.
+[38:22] Alejandro takes the bait.
+[38:24] Hidden camera footage seems to show
+[38:25] that he's even willing to help North Korea
+[38:27] sell domestically produced drugs and weapons.
+[38:30] It's shocking stuff.
+[38:31] We need to sit down with the right people straight away.
+[38:33] Yes, sure.
+[38:34] So it's going to be complicated to negotiate the sale
+[38:37] of whatever short or medium-range missiles
+[38:40] with a private person.
+[38:42] Kind of, we are providing technology
+[38:45] and we are providing you with experts that you rent.
+[38:48] But we are not...
+[38:50] We wanted to interview Alejandro, too,
+[38:51] but he didn't get back to us.
+[38:53] But he has said that the US government's charges
+[38:55] against him regarding the conference
+[38:57] are ridiculous and have no evidence.
+[38:59] He says the mole documentary is biased,
+[39:02] staged, and manipulated.
+[39:06] So at the end of our story,
+[39:08] Virgil Griffith is in jail,
+[39:10] Chris Ems is in Russia,
+[39:12] holding out against US attempts to extradite him,
+[39:15] and Alejandro Cao de Benos is doing the same in Spain.
+[39:19] For the American government,
+[39:20] the conference was an opportunity to send a clear message
+[39:22] to Virgil and Chris's peers.
+[39:24] However utopian your ideals might be
+[39:26] when it comes to the power of crypto,
+[39:28] don't even think about doing business with North Koreans.
+[39:30] The conference seems to have been just a smokescreen.
+[39:34] It provided a reason to get Virgil
+[39:36] and other foreign crypto experts into the country
+[39:38] where maybe some deals could be done.
+[39:41] When UN investigators took a look at the conference,
+[39:44] they said that one of its objectives
+[39:46] appeared to be introducing foreign attendees
+[39:49] to North Korean companies
+[39:51] for the purpose of establishing joint ventures.
+[39:54] And so it makes perfect sense
+[39:56] that the conference itself was poorly organized
+[39:58] and that none of the material went beyond the basics.
+[40:00] Because while North Korea might have been interested
+[40:03] in Virgil's plan to bring computer equipment
+[40:05] into the country,
+[40:06] they definitely did not need Virgil and Chris
+[40:09] to teach them the basics of cryptocurrency.
+[40:12] In fact, the regime's hackers are about to prove
+[40:16] just how proficient they already are
+[40:18] in this brave new technology.
+[40:21] They're about to pull off their biggest jobs yet,
+[40:24] putting their past bank heists in the shade.
+[40:27] Thanks to cryptocurrencies like Bitcoin,
+[40:29] their profits are going to skyrocket
+[40:31] from millions to billions.
+[40:34] That's next time on The Lazarus Heist.
+[40:56] The Lazarus Heist is an original podcast
+[40:57] from the BBC World Service.
+[40:59] I'm Jeff White.
+[41:00] And I'm Jean Lee.
+[41:01] Our producer is Vif Jones.
+[41:03] Our original music was composed by Magnus Vines
+[41:06] and E.L. Wu from the South Korean band Jambani.
+[41:09] And as ever, we'd love to hear your feedback.
+[41:12] Please keep leaving us those ratings and reviews
+[41:14] and don't forget to subscribe
+[41:15] so you don't miss any future episodes.
+[41:17] And spread the word on social media
+[41:19] using the hashtag Lazarus Heist.
+[41:21] Thank you for listening.
+[41:40] Sometimes we all need an extra help in hand,
+[41:43] especially with the tricky business problem
+[41:45] you've been putting off.
+[41:47] Claude is an AI for just that.
+[41:49] It's the collaborator that understands
+[41:51] your entire workflow and thinks with you, not for you.
+[41:54] And Claude isn't just for quick questions.
+[41:56] Hand it a whole task like turning a folder
+[41:58] or scattered notes into a report.
+[42:00] And it does the work and hands back something finished
+[42:03] that you can open and edit.
+[42:05] Claude can now draft a doc or deck right in front of you.
+[42:08] And Claude Design now lives right inside Claude.
+[42:11] Describe the website or prototype you're picturing,
+[42:14] attach your design system,
+[42:15] and it comes back in your own design language
+[42:18] ready to edit right on the canvas.
+[42:20] It works with your files
+[42:21] and the tools you already use,
+[42:22] like Gmail and Slack,
+[42:24] and whether you're debugging code at midnight,
+[42:26] building a financial model
+[42:27] or strategizing your next business move,
+[42:30] Claude extends your thinking
+[42:31] to tackle the problems that matter.
+[42:33] For problems worth solving,
+[42:35] get started with Claude at claude.ai slash solve.
+[42:39] That's claude.ai slash solve.
+[42:42] And check out Claude Pro,
+[42:43] which includes access to all of the features
+[42:45] mentioned in today's episode,
+[42:47] Claude.ai slash solve.
+[42:49] My name is Alex Matisse
+[42:51] and I'm the founder and CEO of East Fork.
+[42:53] Shopping makes simple things even more difficult,
+[42:57] like having an activity and selling online.
+[42:59] East Fork was born as a small ceramic bottle
+[43:02] and today we have a factory with about 115 employees.
+[43:06] When you manage a company,
+[43:08] you already have a thousand things to think about
+[43:09] and the commercial part
+[43:11] shouldn't be one of these.
+[43:13] Shopping makes it easy,
+[43:14] intuitive and fun.
+[43:16] Start the free trial on shopify.com.

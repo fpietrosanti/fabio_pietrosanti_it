@@ -1,0 +1,361 @@
+Taglie, broker e Stati: così funziona il mercato degli attacchi informatici - La Stampa 
+
+ -->
+
+ -->
+
+ Notifiche 
+ -->
+
+ Il Quotidiano
+
+ Abbonati 
+
+ Menu 
+
+ Cerca 
+
+ Notifiche 
+
+ Il Quotidiano
+
+ Abbonati
+
+ In Evidenza
+
+ Leggi il quotidiano
+
+ Abbonati
+
+ Torino 
+
+ La Stampa USA 
+
+ Sezioni
+
+ Cronaca 
+
+ Cultura 
+
+ Economia 
+
+ Energie 
+
+ Esteri 
+
+ Esercizi di Stile 
+
+ Fuoriclasse 
+
+ La Zampa 
+
+ Mare 
+
+ Montagna 
+
+ Motori 
+
+ Politica 
+
+ Salute Più 
+
+ Scienza 
+
+ Specchio 
+
+ Specchio dei
+ Tempi 
+
+ Spettacoli 
+
+ Sport 
+
+ Tech 
+
+ TorinoSette 
+
+ TuttoLibri 
+
+ TuttoSoldi 
+
+ TuttoScienze 
+
+ Vatican Insider 
+
+ Viaggi 
+
+ Video 
+
+ Edizioni Locali
+
+ Alessandria 
+
+ Asti 
+
+ Aosta 
+
+ Biella 
+
+ Cuneo 
+
+ Imperia e Sanremo 
+
+ Milano 
+
+ Novara 
+
+ Roma 
+
+ Savona 
+
+ Torino 
+
+ Verbano Cusio
+ Ossola 
+
+ Vercelli 
+
+ La voce de La Stampa
+
+ Editoriali 
+
+ Podcast 
+
+ Rubriche 
+
+ Audioarticoli 
+
+ Servizi
+
+ Abbonamenti 
+
+ Archivio Storico 
+
+ Aste 
+
+ Editoriali 
+
+ Meteo 
+
+ Necrologie 
+ -->
+ Newsletter 
+
+ Premium 
+
+ Scrivi alla redazione 
+
+ Pubblicità 
+
+ Dati Societari 
+
+ Contatti 
+
+ Sei qui:
+
+ Home 
+
+ Archivio 
+
+ Acquista da
+ 0.7€ /sett 
+
+ -->
+
+ Commenta -->
+
+ Taglie, broker e Stati: così funziona il mercato degli attacchi informatici
+
+ CAROLA FREDIANI
+
+ 19 Ottobre 2015 alle 20:25 
+
+ 12 minuti di lettura 
+
+ Tra aziende che lavorano con la Nsa e hacker russi, cresce la compravendita di bachi del software, ben finanziata dai governi. Anche se l’Europa ora vorrebbe regolamentarla. 
+
+ Si autodefinisce, non senza polemica ironia, il Darth Vader della sicurezza informatica. Ma anche il lupo di Vuln Street , dove Vuln sta per vulnerabilità del software. Semplificazioni giornalistiche, certo, che lui ha indossato insieme alla maschera del cavaliere Jedi sedotto dal Lato Oscuro, sfoggiata ormai in pianta stabile sul suo profilo Twitter. Sarà anche per questo che molti dei suoi colleghi non amano parlare con la stampa. Del resto lavorano in un mercato - quello della acquisizione e rivendita di exploit, ossia di codice che sfrutta un baco di un software per lanciare un attacco informatico - connotato dalla segretezza, e sempre più gomito a gomito con i governi. «Sarà dura trovare qualcuno disposto a parlare, chi fa quel genere di trading oggi è additato come mercante di morte o giù di lì», mi aveva avvisato un esperto italiano di cybersicurezza. Ed è vero, pochi nel settore vogliono parlare. Ma Chaouki Bekrar , il cattivo di Vuln Street, è abbastanza abituato ai riflettori. Se ne è appena puntato uno addosso sfidando la Apple.
+
+ APPLE MOST WANTED 
+
+ Mentre infatti milioni di persone correvano ad aggiornare i propri iPhone e iPad all’ultimo sistema operativo della Mela - iOS 9, lanciato lo scorso 16 settembre - Bekrar , a distanza di neanche una settimana, ci metteva sopra tre taglie da 1 milione di dollari l’una. In pratica invitava i migliori hacker mondiali a fornirgli, in cambio di una lauta ricompensa, una tecnica capace di rompere il sistema di sicurezza degli iPhone e degli iPad e di prenderne il controllo da remoto, senza metterci le mani sopra, ma utilizzando come vettore di attacco una pagina web visitata dall’utente, oppure un sms ricevuto, o ancora una app del dispositivo.
+
+ Le tre taglie da 1 milione di dollari su iOS 9 che hanno fatto sobbalzare molti addetti del settore sono state messe da Zerodium, una piattaforma di brokeraggio fondata negli Stati Uniti lo scorso luglio da Bekrar, dopo essere stato per anni a capo della francese Vupen . Pure la sua precedente società, con sede a Montpellier, vendeva exploit – e tra i clienti aveva l’americana National Security Agency (Nsa) - anche se per trovare le vulnerabilità di un software e trasformarle in un attacco usava perlopiù risorse interne. Zerodium è invece un broker che compra exploit e li rivende. A governi, contractor, aziende. Stiamo parlando degli exploit più pregiati, gli 0-day o zero-day . Si chiamano così perché sfruttano vulnerabilità del software ancora sconosciute a chi lo ha sviluppato e agli utenti. Zero-day inteso come “zero giorni” da quando la vulnerabilità diventa nota: ovvero non è ancora nota se non all’attaccante (e magari ad altri come lui che l’hanno trovata indipendentemente).
+
+ Nella variegata gamma di venditori di exploit - che parte, al livello più basso, dagli
+
+ scantinati della rete, dai forum specializzati su invito e i siti del Dark Web - quella di Zerodium è una boutique di lusso , dedita all’acquisizione di exploit e vulnerabilità premium. «Vogliamo catturare gli exploit zero-day più avanzati e le vulnerabilità a rischio più elevato che sono scoperte, conservate e a volte accumulate da ricercatori di talento in tutto il mondo», mi dice Bekrar via mail. “ iOS 9 è il sistema operativo mobile più sicuro in questo momento e sviluppare una catena di exploit in grado di aggirare gli avanzati sistemi di mitigazione (protezione, ndr) adottati è un processo lungo e complesso. Per questo pensiamo che un milione di dollari sia una cifra abbastanza alta per motivare molti ricercatori talentuosi».
+
+ Che ne sarà di quegli exploit se mai saranno ottenuti da Zerodium non è chiaro. « Li daremo solo ai nostri clienti », spiega Bekrar, e difficilmente fra questi ci sarà la diretta interessata, la Apple. «I venditori di software non possono pagare delle taglie così alte , perché manderebbero un messaggio sbagliato ai loro stessi dipendenti, che potrebbero essere tentati di andarsene per lavorare come ricercatori indipendenti».
+
+ Come dire: se giocare in attacco ti porta tanti soldi, perché stare a fare l’impiegato che rattoppa le difese?
+
+ GOVERNI A CACCIA DI 0-DAY 
+
+ Eppure anche quelli come Bekrar sono accusati di dopare il mercato , drenando risorse e talenti che servirebbero a rendere i software e la Rete più sicuri. Ma più ancora dei broker come lui, sono accusati di comportamento irresponsabile alcuni dei compratori. Come i governi, che acquistano zero-day e se li tengono per sé , invece di rivelarli ai produttori di software e hardware e agli sviluppatori. Il risultato è un boom del mercato di exploit e una Rete sempre più campo di battaglia. 
+
+ Anche se per Bekrar, e come vedremo non solo per lui, l’interpretazione è leggermente diversa. «Il mercato è in crescita perché molti ricercatori di sicurezza sono frustrati dalla mancanza di compensazioni decenti per vulnerabilità critiche, e quindi cercano compratori interessati a tali scoperte. E sì, i l numero dei compratori cresce ogni giorno . Gli acquirenti più grossi sono i governi che hanno bisogno di avanzate capacità per proteggere le proprie infrastrutture o per condurre missioni di sicurezza nazionale».
+
+ Le missioni di sicurezza nazionale, a seconda del governo e delle sue priorità, possono essere molto diverse. C’è chi subito pensa alla cyberguerriglia , come il virus (tecnicamente un worm) Stuxnet , confezionato da Stati Uniti e Israele, che ha mandato in tilt le centrifughe di una centrale iraniana per l’arricchimento dell’uranio usando quattro zero-day. Ma sappiamo che molti governi usano le capacità offensive non solo per lo spionaggio o il sabotaggio ad alto livello; bensì anche per spiare dissidenti , fare operazioni di indagine ad ampio spettro; intercettare comunicazioni di massa, e così via.
+
+ Zerodium sostiene di vendere solo a grandi aziende della difesa, tecnologia, finanza che hanno bisogno di proteggersi; e a governi “democratici”, non presenti nelle liste nere di Usa o Onu. Sappiamo però, dalle notizie emerse sull’industria degli spyware, attigua a quella degli exploit (molti spyware usano exploit per infettare i target ), che simili strumenti possono essere venduti in Paesi illiberali e autoritari , non sempre contemplati dalle liste occidental i.
+
+ E poi ci sono le catene di intermediari. Proprio la precedente società di Bekrar, Vupen, ha venduto exploit ad Hacking Team , l’azienda milanese produttrice di spyware. Che poi vendeva i suoi software, spesso tramite società locali, ad agenzie governative di diversi Paesi. Bekrar dice alla Stampa di aver collaborato con Hacking Team dal 2009 al 2011. Certamente le mail tra le due aziende mostrano molti contatti, e anche qualche insoddisfazione. Hacking Team era interessata a exploit per Word, Excel, Internet Explorer, Acrobat Reader, Winzip. Secondo il ricercatore di sicurezza Vlad Tsyrklevich , che ha fatto una delle poche analisi su questo mercato , Hacking Team non comprava dei veri zero-day (spesso troppo cari), ma degli exploit di seconda mano. E aveva difficoltà a rifornirsi dai broker principali di zero-day, come Vupen, i quali tendono a prediligere rapporti coi governi. O con aziende in grado di sostenere economicamente un approvvigionamento molto costoso. Per questo l’azienda di Milano era alla ricerca di hacker “indipendenti” che potessero vendergli direttamente degli attacchi più a buon prezzo.
+
+ IL MERCATO NERO TRA FORUM RUSSI E DARKNET 
+
+ Già, perché il mercato dei venditori di exploit è un mondo fatto a strati. Alla base c’è il mercato nero e perlopiù criminale , che comunica su forum online ad accesso riservato, come il noto Darkode, recentemente sequestrato dall’FBI, ma anche su tanti siti minori e meno noti, come 0day.in , che stanno alla luce del sole, anche se limitano l’accesso degli iscritti.
+
+ Anche sui siti delle darknet ci sono scambi del genere. Su un sito come Alphabay si trovano annunci come questo, che risale a metà settembre: un venditore di exploit abituale, di possibile origine russa, offre uno zero-day per pdf che permetterebbe di scaricare ed eseguire un programma malevolo sul computer di una persona. Basta che questa apra il pdf infetto. Prezzo: 2500 dollari. 
+
+ Ovviamente, anche se il venditore ha una discreta reputazione sul sito grazie al meccanismo di feedback, è difficile capire vedendo solo l’inserzione se si tratti di un’offerta valida o di una mezza truffa.
+
+ Lo stesso tipo offre anche uno zero-day per il browser Tor . In questo caso la cifra bassa per un exploit del genere - 4mila dollari - è dovuta al fatto che funzionerebbe su una versione molto vecchia del browser. «Bisognerebbe capire quanti ancora usino quella versione, ma tenuto conto che gli utenti di Tor sono in genere abbastanza esperti, e quindi aggiornano spesso, è probabile che siano ben pochi ormai», commenta Claudio Agosti , sviluppatore di piattaforme che usano la rete Tor. Già, perché il valore di uno zero-day è determinato da molte variabili ma sicuramente la quantità di target contro cui si può utilizzare è una di quelle.
+
+ Qualche tempo fa era nato addirittura un mercato nero delle darknet solo dedicato alla vendita di exploit e 0-day, si chiamava TheRealDeal , ma mentre scriviamo è offline, forse per sempre, come accade spesso da quelle parti.
+
+ A metà ottobre è arrivato invece un messaggio su una mailing list internazionale gestita da una azienda italiana di sicurezza offensiva. Un tizio con solo un indirizzo email come referenza offriva uno zero-day per Adobe Flash , il software usato da milioni di utenti per visualizzare animazioni o video in streaming, e le cui continue vulnerabilità sono ormai un bollettino di guerra giornaliero. 
+
+ Lo stesso venditore della mailing list ha lasciato simili messaggi in varie bacheche online, siti come Nulled.io o forum di hacker russi, dove offre anche exploit per Word 2013, a 5mila dollari. 
+
+ «Diciamo che chi posta online in giro non dà l’idea di essere molto bravo», commenta Fabio Pietrosanti , presidente dell’Hermes Center for Transparency and Digital Human Rights. Come aggiunge anche Luca Carettoni , che guida un team di cybersicurezza per una nota azienda internet, «quando inizi a pubblicare vulnerabilità in maniera legittima, inizi ad essere bombardato da strane mail di gente che ti offre dei soldi ». Insomma, lo scouting nel settore non manca, le occasioni per i venditori si moltiplicano sempre di più, i confini sono permeabili e la confusione sotto al cielo è grande.
+
+ Al punto che un gruppo di cracker russi, w0rm , noti per vendere exploit sul mercato nero e per aver hackerato i server di alcune società, come il Wall Street Journal, pochi giorni fa hanno annunciato sul loro sito un sorta di upgrade del proprio business: sarebbero pronti a vendere le vulnerabilità direttamente alle aziende interessate dalle stesse. Gestiscono anche un mercato online di vulnerabilità dove saranno vendute - dicono via mail alla Stampa - quelle falle di sicurezza che, pur essendo state notificate agli amministratori di un sito, non avranno ottenuto risposta. 
+
+ IL MERCATO GRIGIO DEI BROKER INTERNAZIONALI 
+
+ All’altro estremo, rispetto ai forum russi e a quelli delle darknet, ci sono invece le boutique di lusso che lavorano principalmente con i governi, i loro contractor o grosse aziende . Mescolando i dati pubblicati dalla ricercatrice accademica Mailyn Fidler e più recentemente dal già citato esperto di cybersicurezza Vlad Tsyrklevich , più altre informazioni raccolte indipendentemente, La Stampa ha individuato le aziende o i broker più visibili: alcuni sono in effetti dei nomi noti che in passato hanno rilasciato anche interviste ai media.
+
+ La tabella è molto grezza, parziale , solo indicativa, e va presa cum grano salis . Mancano ad esempio molti contractor della Difesa americana , che pure hanno a che fare con questo settore. Mancano alcuni Paesi certamente attivi, come Israele. «È un mercato basato sulla segretezza», commenta a La Stampa Vlad Tsyrklevich . «La maggior parte delle aziende coinvolte non parla delle proprie attività».
+
+ La compravendita di exploit è poi attività molto artigianale . Variano i prezzi, le modalità di contrattazione, i termini di pagamento. Ad esempio: come fa a sapere un compratore che lo zero-day che sta acquistando in esclusiva e a caro prezzo da un hacker lontano mille miglia non verrà venduto sotto banco anche ad altri? «La struttura dei pagamenti è in genere estesa in modo che se la vulnerabilità è scoperta poco dopo l’acquisto, il compratore non deve pagare il prezzo intero»,ci spiega Tsyrklevich.
+
+ Quando ad esempio Hacking Team comprò degli exploit per Flash da un hacker russo, Vitaly Toporov, per 35 - 40mila dollari (il prezzo basso è anche perché non erano in esclusiva), il pagamento è stato diviso in tre tranche: il 50 per cento subito, e gli altri due 25 per cento nei due mesi successivi.
+
+ Da notare in ogni caso come molti dei maggiori broker o venditori più noti e ufficiali siano americani o facciano affari negli Usa . In effetti il governo americano è il primo compratore di exploit. Dai documenti rivelati da Edward Snowden sappiamo che nel 2013 la National Security Agency stanziava 25,1 milioni di dollari per “acquisti segreti di vulnerabilità software ” da venditori privati, corrispondenti a una stima minima che va dalle 100 alle oltre 600 vulnerabilità all’anno. Secondo il Center for Strategic and International Studies di Washington , dopo gli Stati Uniti, gli altri principali acquirenti di exploit sono Israele, Gran Bretagna, Russia, India, Brasile, oltre ad alcuni servizi segreti mediorientali e la Corea del Nord.
+
+ Exodus Intelligence è una delle aziende di spicco del settore, sede in Texas. Vende informazioni su vulnerabilità ed exploit ad aziende di cybersicurezza e governi. «Troviamo il 95 per cento delle nostre vulnerabilità facendo ricerca internamente», spiega alla Stampa il presidente Logan Brown . «Abbiamo anche un programma di acquisizione che non utilizziamo molto. In Exodus lavorano 23 dipendenti, di cui 14 sono dedicati alla ricerca di zero-day». 
+
+ Qualche tempo fa Exodus aveva segnalato uno zero-day al gruppo di sviluppatori del sistema operativo Tails , usato anche da molti attivisti nel mondo, dando loro il tempo di patchare, di aggiornare il software, prima di pubblicare i dettagli.
+
+ Prima della segnalazione a Tails l’informazione è stata passata a uno dei clienti di Exodus? «Volevamo solo mostrare che tutti i software hanno buchi, e che non puoi fidarti completamente di nessuno di questi. Era un modo per accrescere questa consapevolezza. Quella specifica vulnerabilità non era di interesse dei nostri clienti corporate , quindi non l’abbiamo venduta a nessuno, e l’abbiamo segnalata alla squadra di Tails, che ha aggiustato il problema in modo rapido ed efficiente».
+
+ CONTRADDIZIONI E DILEMMI ETICI 
+
+ Ma in questo mercato i confini, che sono perlopiù autoimposti, possono essere molto labili. Interessante ad esempio il caso di Netragard , un’azienda di Boston che diceva di vendere solo a clienti statunitensi ma che è rimasta invischiata nel leak di Hacking Team. Dalle mail e documenti dell’azienda italiana è infatti emerso che Netragard non disdegnava di fare affari anche con aziende straniere , come appunto la società milanese (anche se tramite l’escamotage di un rivenditore statunitense) che poi a sua volta vendeva gli exploit nei suoi pacchetti di intrusione e sorveglianza a governi di mezzo mondo (spesso attraverso ulteriori intermediari). Da Netragard Hacking Team comprò un exploit per Adobe Reader per 80,5 mila dollari. 
+
+ Dopo il leak dell’azienda italiana, Netragard ha fatto però una retromarcia clamorosa, una sorta di mea culpa in cui ha annunciato di chiudere il suo programma di acquisizione e rivendita di exploit. « Se e quando il mercato 0-day verrà correttamente regolamentato rilanceremo il nostro programma di exploit», ha dichiarato all’epoca i l Ceo Adriel Desautels , che sembra essere tra i pochi del settore a favore di una regolazione di qualche tipo. Anche se ha specificato: «La regolamentazione non deve colpire gli 0-day ma chi li compra e usa».
+
+ FINE DEL LIBERI TUTTI? 
+
+ Proprio sul tema della regolamentazione l’Europa ha appena concluso, il 15 ottobre, una consultazione pubblica per aggiornare la legge sulle esportazioni che regola il commercio di beni a uso duale, ovvero quei prodotti che possano essere usati sia per scopi civili e commerciali che militari. Se un bene è di uso duale richiede una licenza per l’esportazione fuori dall’Europa . Nel 2014 nella lista dei prodotti duali sono finiti anche gli sp yware , come quelli sviluppati da Hacking Team (o da altre aziende europee quali la tedesca FinFisher ). Ora però la discussione è come rendere più stringenti e uniformi tali norme e soprattutto la loro applicazione.
+
+ A spingere per una riforma in questo senso sono parlamentari europei come l’olandese Marietje Schaake . “I diritti umani (e il fatto che siano violati in determinati Paesi, ndr) devono essere inclusi come un criterio di controllo nella legge sulle esportazioni, devono giocare un ruolo importante quando le autorità competenti sono chiamate a rilasciare una licenza ”, spiega alla Stampa Schaake. 
+
+ I temi sul piatto sono essenzialmente due . Il primo riguarda gli spyware : questi rientrano già nella regolamentazione ma il problema è che ogni Stato sembra applicare le regole in modo discrezionale, commenta Schaake, e il riferimento è all’Italia e ad Hacking Team. La posizione del governo italiano filtrata fino ad oggi sembra essere quella di aver applicato semplicemente la norma europea . «Quando ho chiesto informazioni al Ministero dello Sviluppo Economico - dichiara a La Stampa il deputato M5S Giuseppe D’Ambrosio, tra i pochi politici che si è interessato alla questione - mi hanno risposto che sulla base della normativa vigente nel 2014 i beni esportati da Hacking Team non erano sottoposti ad alcun vincolo specifico e pertanto potevano essere liberamente esportati a chiunque, fatte salvo le disposizioni di embargo vigenti in via generale verso alcuni Paesi o entità sensibili. E che solo dal 2015 il nuovo regolamento europeo ha previsto una licenza d’esportazione anche per i trojan (gli spyware come Rcs, ndr)”.
+
+ Ma l’ambiguità su come sono applicati in concreto regolamenti e sanzioni nei diversi Paesi resta, almeno per Schaake. «Credo che andrebbe investigato se le autorità italiane abbiano applicato propriamente le leggi europee e le sanzioni Onu . Ci sono seri dubbi al riguardo quando Hacking Team ha ottenuto un via libera per esportare in Russia e Sudan », dice l’europarlamentare. Insomma, è chiaro che sugli spyware in Europa l’interesse ora è alto , così come la volontà di porre un freno al liberi tutti che è esistito fino ad oggi. 
+
+ La seconda questione ha a che fare invece con gli exploit ed è più delicata. Dovrebbero essere regolamentati anche questi come gli spyware? E in che modo?
+
+ Di fronte a tali domande molti ricercatori di sicurezza oppongono subito una levata di scudi. Tutti, ma proprio tutti, distinguono fra spyware ed exploit. « Gli spyware sono decisamente delle armi digitali », ammette Bekrar . «Tuttavia gli exploit possono essere sviluppati anche per ragioni di difesa, per fare dei penetration testing (test su un sistema in cui si simula un attacco, ndr), e quindi devono essere esclusi da simili regolamentazioni». E Logan suona addirittura catastrofico: «Penso che restrizioni governative interferirebbero solo con la ricerca a scopo di difesa, mentre non avrebbero effetti sul mercato nero delle cyberarmi».
+
+ (Fotogramma di una mappa di cyberattacchi in tempo reale fatta da Kaspersky) 
+
+ Loro rappresentano ovviamente una parte interessata. Ma anche ricercatori che lavorano solo “in difesa” hanno pareri simili. «Ci sono indubbiamente problemi etici nel trattare con regimi repressivi; ma proprio il liberi tutti concesso da alcuni Paesi ad alcuni venditori rischia di ripercuotersi ora sulla comunità di ricercatori legittimi», commenta ancora Vlad Tsyrklevich. 
+
+ LE RESPONSABILITÀ DEI GOVERNI, LE RISPOSTE DEL MERCATO 
+
+ Al di là del dibattito su se e come regolare - che è in corso anche negli Stati Uniti, dove come in Europa si deve implementare l’accordo internazionale di Wassenaar per il controllo del commercio di armi - c’è chi punta il dito su altre questioni.
+
+ «È chiaro che se i governi hanno informazioni su sistemi vulnerabili , che magari riguardano milioni di dispositivi, e non li risolvono, lasciano internet insicura » commenta Carettoni . Come intendono bilanciare dunque le loro esigenze di intelligence con la protezione delle infrastrutture e degli utenti?
+
+ Per limitare i danni dei mercato nero criminale e di quello grigio che pur essendo legale promuove segretezza e insicurezza, c’è chi pensa che bisognerebbe spingere il mercato “bianco”, quello alimentato dalle aziende tecnologiche disposte a pagare delle ricompense a chi trovi falle sui loro prodotti. «Devi tirare dentro le aziende produttrici di software e hardware», spiega Carettoni. «E quindi fare in modo che chi lavora nel settore abbia delle compensazioni decorose . Se crei delle alternative valide le persone inizieranno a considerare quell’opzione».
+
+ In parte sta giù succedendo. Già nel 2005 era nato un programma di acquisizione, Zero Day Initiative, oggi gestito da HP , che paga i ricercatori per i bachi e li riporta poi ai produttori. Simile e più recente un progetto come HackerOne . Ma soprattutto ci sono internet company - Microsoft, Mozilla, Facebook, Google - che offrono delle taglie sui propri bachi .
+
+ «Negli ultimi anni siamo passati, per chi trova e rivela vulnerabilità, dal ricevere minacciose lettere di avvocati, alla pacca sulla spalla ad avere infine pagamenti più accettabili», commenta Carettoni. 
+Le cifre? Due, tre, cinque, dieci mila dollari a seconda della tipologia. In casi particolari ci si spinge più su. Ma questo sistema non riesce a competere, sul piano puramente economico, con il mercato grigio. E con la domanda crescente dei governi.
+
+ «La ricerca degli zero-day non può essere fermata, e non lo sarà mai perché gli interessi in gioco oggi sono immensi », dichiara alla Stampa Alberto Pelliccione , ex-dipendente di Hacking Team che ha poi aperto una sua società di cybersicurezza, ReaQta. «Uno zero-day potenzialmente può avere lo stesso valore che per un’agenzia di intelligence ha un asset inserito ad alto livello all’interno di un governo “nemico” ed i costi sono in confronto bassissimi. Acquisire un asset ti costa milioni e impiega anni, u n exploit ti costa una frazione e sei dentro nel giro di minuti». 
+
+ Nel mentre, ogni giorno si aprono nuove falle sul fronte del software. « Qualsiasi programma ampiamente usato è a rischio perché sia chi lavora in difesa sia chi va all’attacco è alla ricerca di exploit su questi, in particolare: browser, client email, server, router », commenta ancora Bekrar . Lui lo sa bene, su queste falle ha lanciato due aziende. “ La vita è breve, vendi i tuoi zero -day a Zerodium”, recita il suo profilo Twitter. Una massima che per milioni di utenti si traduce in un insegnamento ben più terra terra: internet è insicuro, cestina i programmi superflui, aggiorna i tuoi sistemi, e incrocia le dita.
+
+ Video del giorno 
+
+ "Non mi siedo": Booker parla per oltre 25 ore al Senato contro Trump e Musk, è record storico 
+
+ Leggi anche
+
+ Condizioni per la fornitura del servizio di abbonamento cartaceo 
+
+ Ripartita la Centrale del Latte Asti Alessandria, una cella frigo alternativa a Castellazzo 
+
+ Centro di identificazione per i migranti a Mentone, via alla realizzazione 
+
+ © Riproduzione riservata 
+
+ La guida allo shopping del Gruppo Gedi
+
+ i
+
+ Consigli.it sceglie e raccomanda in maniera indipendente
+prodotti e servizi che si possono acquistare online o tramite la
+consulenza di esperti. Ogni volta che viene fatto un acquisto attraverso
+ uno dei link presenti nel testo, Consigli.it riceve una commissione
+senza alcuna variazione del prezzo finale. 
+
+ SOLO 5? AL MESE 
+ Pochi lo sanno: una polizza vita per proteggere chi ami costa solo 5? al mese
+
+ OFFERTE A TEMPO LIMITATO 
+ Le migliori offerte Amazon di questa settimana, aggiornate in tempo reale
+
+ Cronaca 
+
+ Economia 
+
+ Esteri 
+
+ Politica 
+
+ Sport 
+
+ Torino 
+
+ Scrivi
+ alla redazione 
+
+ Pubblicità 
+
+ -->
+
+ Pubblicità 
+
+ Dati
+ Societari 
+
+ Contatti 
+
+ Cookie Policy 
+
+ Privacy 
+
+ CMP 
+
+ Sede 
+
+ Dichiarazione di accessibilità 
+
+ Riserva TDM 
+
+ LA STAMPA SAE S.P.A 
+
+ P. IVA 13425960013 
+
+ Redazione: 
+
+ Via Ernesto Lugaro 15 - 10126 Torino (TO), Italia
+
+ I diritti delle immagini e dei testi sono riservati. È espressamente vietata la loro riproduzione con qualsiasi
+ mezzo e l'adattamento totale o parziale.

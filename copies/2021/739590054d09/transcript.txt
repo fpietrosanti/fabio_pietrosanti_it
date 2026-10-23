@@ -1,0 +1,333 @@
+# Trascrizione automatica (faster-whisper small) di media.mp3
+[00:05] This is the Brave New Coins Crypto Conversation, hosted by Andy Pickering.
+[00:11] Hi everyone, Andy Pickering here. I'm your host and welcome to the Crypto Conversation,
+[00:16] a Brave New Coins podcast where we talk to the people building the future
+[00:19] in the Bitcoin, blockchain and cryptocurrency space.
+[00:23] My guest today is Canadian journalist Ethan Lu. Ethan is the author of a new book called
+[00:29] Once a Bitcoin Minor Scandal and Turmoil in the Cryptocurrency Wild West.
+[00:36] Hey, welcome to the show, Ethan. Andy, hi. Thank you for having me.
+[00:40] Hey man, it is a pleasure. Hey, so yeah, really, yeah, fascinated by this story.
+[00:47] So I guess, you know, the high level is Once a Bitcoin Minor, your new book.
+[00:53] Yeah, it's the story of you going to North Korea for that kind of ill-fated North Korean
+[01:02] cryptocurrency conference. And also in attendance was Vigil, is that how you say it? Vigil Griffith,
+[01:10] Vigil Griffith from the Ethereum Foundation, who of course was subsequently arrested.
+[01:16] And well, look, this is your story to tell. So before we get into all this, let's just start from
+[01:23] the top, Ethan. I'd love it if you could just introduce yourself and give us just a basic
+[01:28] snapshot of who you are before we get into this crazy story. Yeah, so I am a journalist.
+[01:37] I write a column in this Canadian newspaper called The Financial Post,
+[01:42] and I used to write for Reuters. And we all contain multitudes. And I'm also a Bitcoin investor,
+[01:49] and I know early is a bit of a subjective term, but I like to think I got in quite early in 2013.
+[01:56] And the book basically, in addition to that North Korea trip, it also depicts my adventures
+[02:04] early in the space and then also after that. Yes, that's exactly right. Very nice. Well,
+[02:11] I'm just wondering where we start. So you're actually a born in China, right? But as I understand it,
+[02:20] you grew up in Germany. But how does your kind of background play into, I don't know if your
+[02:27] background does play into your trip to North Korea. But I guess what I'm saying is why did you
+[02:34] want to go to North Korea in the first place? Was it more just like a kind of journalistic
+[02:40] interest? How did that come about? So the background does play a little into that.
+[02:46] So my parents, my father specifically, he's always said that when we talk about North Korea,
+[02:55] and I tell him all the crazy oppressive stuff that goes on there, he'd be like, that's not
+[02:59] that crazy. China was like that when I was growing up. And so to me, North Korea has
+[03:07] always been like a time capsule thing because China is changing. It's changed so much over the years.
+[03:13] But North Korea has stayed the same. So in a way, I've always wanted to go there because
+[03:20] I thought if I see North Korea, I would see how my parents grew up. And so that's one.
+[03:26] And the second factor is the crypto thing. I've been reading all about the different
+[03:34] reports that North Korea is doing all these shady things with crypto. And when they advertised a
+[03:41] conference, I thought this would be like this golden opportunity to see everything for myself.
+[03:48] And so that was why I went there. And yeah, the trip turned out to be totally the opposite
+[03:55] of my expectations. Yeah, I can imagine. We'll paint us a picture then, Ethan. So I think,
+[04:03] because this is, I suppose, a few years ago, this is 2019. So just tell us a little bit about the
+[04:10] kind of the background to this conference and the kind of, I suppose, the mainstream news narrative
+[04:17] that was underway at the time in terms of North Korea's relationship to cryptocurrency,
+[04:24] what they were supposedly doing, and what perhaps their motives were for announcing
+[04:31] a cryptocurrency conference. What was the background?
+[04:36] So North Korea, lots of countries don't like North Korea because there's lots of human rights
+[04:43] issues going on there and this pursuit of nuclear weapons against the global order. So
+[04:51] North Korea has been hit over the years with lots and lots of economic sanctions. It's
+[04:56] one of the reasons why it's so poor. It's virtually impossible for it to conduct international trade.
+[05:02] And theoretically crypto, which is outside the traditional financial system, it cuts at the
+[05:09] heart of all that. So theoretically, North Korea has a lot of potential advantages for North
+[05:18] Korea to harness this. And it has been accused of stealing coins all over the place,
+[05:26] with hundreds of millions amassing all these coins and even mining operations reported. So
+[05:34] this was the background of it. And this conference was advertised, I think, I read
+[05:43] the conference and there were experts saying that this was like a show of defiance. North Korea
+[05:49] was showing off its capability somewhere along those lines. So I went in expecting to at least get
+[05:58] a glimpse of what North Korea was doing with crypto. And I should say also that this was
+[06:05] mainly a personal trip. I totally did not expect the trip to make the news in the way it did.
+[06:12] Yeah, right, right, right. So just before we start to talk about
+[06:18] Virgil and what happened to him and perhaps his background, you know, I mean, it's just
+[06:24] fascinating. Not many people have been to North Korea. So I'd love it if maybe you just paint a
+[06:32] picture of your impressions of North Korea, I suppose, as a country, what the people were like,
+[06:40] were you looked after, what was surprising, anything like that. And then we'll start to talk
+[06:47] about the conference and Virgil. Well, it was clearly very underdeveloped by Western standards
+[06:56] in many ways. And I think culturally, there are lots of differences with respect to how they
+[07:03] use technology. For example, I see our North Korean minders pick up the phone and call
+[07:07] people for very simple things like yes, no stuff that we would use, we would text each other for.
+[07:13] And they, I saw them in their teacher's college, and they were using an unactivated version of
+[07:21] Windows. And they were so aside from the actual two days of the conference, we were there for a
+[07:27] whole week. So they took us around and showed us around. And one of the strangest things I would
+[07:39] think is that they were trying to show off lots of different things to us. And what they were
+[07:44] presenting as big, big accomplishments, but they were just extremely unspectacular, like
+[07:51] arcade games that they developed that they seem to be decades old. And one of them, as I write
+[07:56] in the book, it didn't even seem to have any objectives or levels. You just took a gun and
+[08:02] you just killed animals and just unending carnage. Yes, that was a very good analogy.
+[08:12] That's quite strange. I suppose the minders or the people looking after you and that are
+[08:18] proudly showing off these, you know, what you and I would characterize as unspectacular
+[08:26] achievement, Seaton. From the minders point of view, or whoever's showing you and putting on the
+[08:34] tour, if you like, they're just that unaware of what is happening in the rest of the world.
+[08:40] And they've been instructed to show, you know, whether it's a landmark or a technological
+[08:46] achievement or cutting edge video game. From their perspective, I suppose they're just
+[08:51] instructed to show it off like it's quite an incredible feat, right?
+[08:59] Yeah, I should say, though, that the minders, they were, I don't think they're ordinary North
+[09:05] Koreans. They were probably the elite and we actually got along quite well, but they are
+[09:11] people who've been abroad, who've seen the world. And but, you know, they will just
+[09:17] bring us to these places because I think that's their job and just doing as they're told.
+[09:22] Yeah, that makes sense because if you don't do that, well, best not speak of what happens.
+[09:30] Well, take us to the cryptocurrency conference then and be useful. Maybe Ethan, tell us who else
+[09:41] was there like from, well, not from the West, but from outside of North Korea, I suppose.
+[09:47] Excuse me, in terms of who was there in the audience or from, you know, from the media or
+[09:55] even as a presenter or someone who was a bit more involved as an advisor or something like that.
+[10:04] So first off, I would say that going to North Korea for this is understandably a
+[10:09] sensitive issue, particularly given how everything developed with Virgil. So
+[10:15] if someone hasn't publicly said that they've gone to North Korea, I wouldn't out them. So
+[10:21] aside from Virgil and me, there are two other people publicly known to have gone to that event.
+[10:26] So one is a British guy, Christopher M. He was the organizer. And the other is
+[10:34] a cybersecurity specialist, Fabio Pietrosanti from Italy. So and altogether there were eight
+[10:42] of us, mostly assorted Europeans. And I know Virgil because he's a kind of a big deal in the
+[10:52] crypto world. So he's a direct director of special projects for the Ethereum Foundation.
+[10:58] So he was supposed to be a speaker at this thing. But for the rest of us, we thought we were
+[11:05] participants. And I think on the first day when we arrived, we were told that
+[11:10] the schedule for the specific schedule for the conference hadn't been determined and that
+[11:18] we were expected to present to the Koreans. And which was unexpected to me. I thought I was there
+[11:25] to watch them but turn out it was the other way around.
+[11:31] Well, that's quite strange. Well, Virgil then. So as you say, Virgil is
+[11:40] was and is well known in the blockchain space and particularly in the Ethereum community.
+[11:51] What do you think has, and I know this kind of cuts to the heart of everything, but
+[11:55] what do you think his motivations were for attending the conference? And do you know how,
+[12:02] what was the kind of the, I guess, string of events that led to him attending? Do you know?
+[12:10] Well, I don't have any direct insight into that. I think we did talk about that. But I think the
+[12:21] first thing that happened when the first thing someone said to me when I met the group, it was
+[12:27] in Beijing before we left for Pyongyang. It was at a Peking duck restaurant. I went in,
+[12:33] one of them said to me, yo, what made you decide to risk your life to go to North Korea?
+[12:39] And I said, well, what about you? And we all laughed. And I think we probably all shared a
+[12:47] certain sense of adventure. And also with the North Korea crypto connection, we are people
+[12:54] interested in crypto. And I think all of us, we've all read those reports and we wanted to,
+[13:00] you know, see firsthand what North Korea was up to with crypto. But that's a bit of a
+[13:06] speculation on my part. I don't think we all went too deeply into like why specifically each of us
+[13:12] decided to go there. And even in North Korea, Virgil, he did tell us that he had sought permission
+[13:20] from the State Department to go to North Korea. And because Americans can't go without express
+[13:28] permission, and it was denied and he went anyway. And he was telling us he was going to go talk
+[13:32] to State Department officials when he came back because they wanted to talk to him. And I don't
+[13:38] think he suspected anything. And that was how, that was the start of how everything turned out
+[13:43] really badly for him. And so, I mean, this might sound like a kind of a basic question,
+[13:51] but I think it would help provide some context here. Ethan, so assuming that after
+[13:57] the conference and when Virgil goes back to the US or wherever he went afterwards and then
+[14:06] began to speak with the State Department or whoever and things developed from there,
+[14:11] did you also, were you contacted by, I don't know, the CIA or the FBI or the NSA or the
+[14:21] State Department or whoever it is? Because presumably anyone who has been to North Korea
+[14:29] would come, I know you're Canadian and not American, but yeah, were you contactors?
+[14:38] So I wasn't. And to my knowledge, not everyone was, some of the other participants were, but
+[14:45] they were sought out because the government was trying to build a case against Virgil.
+[14:54] And so going to North Korea, it's not that big a deal. Lots of people do that every year,
+[15:02] I guess, before the pandemic when it was open to tourists. And I think Virgil was,
+[15:10] if I'm not mistaken, he might be the only one who spoke at the conference who was supposed to speak
+[15:17] there. And I didn't even speak at the conference. So I think that might have played a factor. And
+[15:22] also the law he was accused of breaking it applies only to Americans and he was the only
+[15:28] American. And I should note that he wasn't charged with going to North Korea because
+[15:36] I don't think there's any specific penalty specified for simply going there. It's a
+[15:42] more specific thing about the attempts to break the sanctions.
+[15:47] Yeah, that's right. And we'll be useful at this point, Ethan, perhaps tell us a little bit about
+[15:53] who Virgil is, like just a kind of a little bit about his background and then
+[16:00] the charges against him and what has happened just, I think, quite recently,
+[16:07] because that will kind of bring us up to date. So yeah, just from your perspective,
+[16:12] love to hear a little bit about his background, the charges against him and where we are today.
+[16:21] So Virgil, I think, is very smart. I think he definitely has like 10 or 20 IQ points
+[16:28] more than me. And I'm not saying that I'm a high bar, but he's definitely a genius.
+[16:36] And he's very open and transparent. I think there's a description of him by a friend,
+[16:42] which is that he treats life like a video game. And I remember among my most significant
+[16:49] memories of him in North Korea, he was describing to the North Koreans lots of,
+[16:55] I think, outside world phenomenon that we may think is mundane. But North American slang,
+[17:02] for example, if you pop your collar and you say, I'm doing this for the ladies.
+[17:09] And that's something quite alien to the North Koreans. Virgil said that and they were like,
+[17:15] oh, what the hell are you talking about? And he actually went into detail explaining this
+[17:22] and explaining it quite well to the North Koreans. And he asked a lot of questions,
+[17:27] and he was a hit among the North Koreans. And I thought, perhaps I should learn to be more
+[17:33] like Virgil. But I think, and I think because of this attitude of his, he didn't suspect any
+[17:41] dangers of firstly speaking at the conference and also his accused of doing a whole lot of
+[17:50] whole lot of things afterward. And I think he was very transparent about everything to the FBI.
+[17:57] And ultimately he, the charges conspiracy to violate the sanctions law. So it's not necessarily
+[18:09] that he had benefited North Korea, but it's that he's accused of having the intent of doing
+[18:15] so and having acted upon that intent. Yeah. So I think the Wikipedia page says
+[18:22] on November 28, 2019, Virgil Griffith was invested, arrested by the FBI for providing
+[18:30] highly technical information to North Korea, knowing that this information could be used
+[18:35] to help North Korea launder money in evade sanctions. And so again, maybe a silly question,
+[18:42] but from your perspective, is this just a big misunderstanding? And Virgil was just there
+[18:53] out of genuine curiosity, or was he actually through some perhaps, I don't know, misguided,
+[19:03] I'm not going to try and guess at his motivations, but was he really trying to
+[19:06] further North Korea's abilities to use the blockchain for, I don't know, their own purposes?
+[19:17] Yeah, I don't think he had any bad intent in the first place. And I should note, he has not
+[19:23] derived any benefit for himself through this. He wasn't paid or anything. In fact, he paid to go
+[19:29] there like everyone else. And while I wouldn't go into the specifics of what was said at the
+[19:35] conference, because Virgil is still due to be sentenced, but I would say that in general,
+[19:41] what was said at the conference, it was really just publicly available information. It was
+[19:49] and it was something that you can read from the Wikipedia page. So it's not that spectacular.
+[19:54] I didn't think it was anything to anything to write home about. But I guess, you know,
+[20:01] when the US calls it, it's highly technical. Like, it's a bit of a subjective thing. Like,
+[20:07] these words, they don't have objective definitions. What is highly technical. So
+[20:13] when you label it that way, you know, that's probably, that may or may not be an accurate
+[20:20] statement. So there's a chance it is. And, and ultimately, I think he did break the letter
+[20:26] of the law and as he had admitted. And ultimately, I think it's not so much about what he has or
+[20:34] hasn't achieved, but it's more about sending a message. And I think he is being made an example
+[20:40] of. Yeah, that's right. That seems to be the explanation, if you like, that makes the most
+[20:50] sense. And so I don't know if we've made this clear, but two weeks ago, Virgil, he actually
+[20:56] pleaded guilty to advising, I think pleaded guilty to conspiring to help North Korea. So
+[21:06] I mean, people plead guilty all the time when they aren't necessarily guilty. But
+[21:11] I mean, I can guess, but what would be your guess as to why he did plead guilty to perhaps
+[21:18] one of these charges? Well, I think firstly, he he he probably did break the letter of the law.
+[21:28] And, you know, he the fact that what was said at the conference, the defense says it's just
+[21:34] publicly available information. The if you read the court documents, the prosecution was saying
+[21:41] like that that doesn't matter. You know, and so and the prosecution, they even have have a recording
+[21:50] of his remarks at the conference and and it does look like they have a pretty good case. So
+[21:59] and ultimately, in the days leading up to the case, Virgil also had quite a lot of setbacks.
+[22:05] And I think perhaps he just weighed the odds and maybe it it wasn't a battle worth fighting.
+[22:14] Yeah, makes makes sense. Well, we certainly wish Virgil the best of luck going forward.
+[22:23] I guess we should just zoom out a little bit now, Ethan, as we finish off this part of the
+[22:28] podcast, you know, I've kind of I've just skipped through an advanced copy of your book and
+[22:36] one way to sum it up and look, this is just, you know, from from the bio, I think, but I thought
+[22:41] it's quite insightful when, you know, it talks about as well as the, you know, the North Korea
+[22:48] stuff. You're kind of looking at crypto, not just through the technical lens, but also,
+[22:57] I suppose, from a younger generation, right, that is kind of experiencing
+[23:02] quite an intense world at the moment. You know, there's there's a lot going on. There's a lot of
+[23:09] angst and anxiety. And then I suppose the backdrop of that is, you know, Bitcoin as a potential
+[23:20] not not means necessarily of rebellion, not even necessarily as a means a way out, but
+[23:28] in some respects, it is. And of course, that also plays into, you know, the Wild West analogy
+[23:34] that you use in the title. So, yeah, I'd love to sort of get your perspectives on
+[23:40] on your what you feel that represents certainly as an early Bitcoin guy and just, you know,
+[23:47] what you're going to trying to express on behalf of your generation or just from what you see
+[23:54] yourself. Yeah, I'm glad you brought that up. I think lots of people call crypto the
+[24:02] Wild West of finance and they use that term in a bad way. But I don't think the Wild West is a
+[24:08] bad thing. The Wild West is awesome. And why what's the attraction of the West, you know, in
+[24:16] the past people, they they departed the old world for the new and and they sought the frontier because
+[24:23] back then, going to the West, it means lots of opportunities there. And you're free from the
+[24:31] old societal Iraqis know what you were before. It doesn't matter. Everyone starts a new here.
+[24:37] And just like in in the past, more so than now, I think five years ago, you enter crypto,
+[24:43] even the most experienced person in it only has five years more experience spot five years more
+[24:49] experience than you. So, you know, if you if your life is bad, crypto is a place where you go,
+[24:56] where you can bury your name and be born anew. And and I think my generation specifically,
+[25:02] we are we are quite hemmed in research shows that we are we we go through more restrictive
+[25:13] adolescence than than previous generations. Most kids don't have neighbors their own age that they
+[25:19] talk to. And also, and from there, we mature into a worse economy. And studies about of how
+[25:29] we this generation is less likely to own houses, less likely to to have permanent jobs of access
+[25:36] to health care. And in the UK, millennials are the first generation to have worse health
+[25:42] than their parents. But we don't have any new worlds anymore, we don't have places to escape to.
+[25:48] But I've always viewed crypto as a world in itself, because, you know, industries can spawn
+[25:55] subcultures and vice versa. But one is always less than the other, you know, finance browser,
+[26:03] you think they all look alike. But it's hard to find two what driven by the same thing.
+[26:08] And people who play Dungeons and Dungeons and Dragons as kids, they, they stop when they're adults
+[26:15] because they realize you you can't be a professional dungeon master. But I think in crypto,
+[26:22] not only does it have like ideology to bind is adherence. It also has money constantly
+[26:27] pouring in to keep that passion burning. And so it's becomes more than a subculture and
+[26:33] industry put together. I think that is a world it's self contained. And I think that represents
+[26:39] this new frontier. It's the 21st century version of of the new world. Yeah, that's really, really
+[26:48] interesting and wonderfully said, Ethan. And yeah, I love the point about, you know, people
+[26:55] they enjoy playing a dungeon master and Dungeons and Dragons. But in the kind of the old
+[27:01] model, you might reluctantly think that you've got to grow up and leave that behind. But, you know,
+[27:07] there's no reason why you should. And in the metaverse, if we kind of try and stretch this
+[27:13] slightly forced analogy out even further, you know, anyone can be whoever they want to be.
+[27:20] And yeah, I mean, that's, that's quite exciting. So there might not be too many
+[27:24] physical spaces left to explore. But man, the digital Wild West is infinite. And that's only
+[27:31] we're only just beginning to even enter it, right? Oh, yeah, absolutely. You're putting it in even
+[27:38] better terms than me. I don't know about that, Ethan, but we'll take it. Look, that feels like a nice
+[27:46] place to go to a very quick break. And then we'll come back and we'll have some fun. We'll
+[27:52] finish off with the very famous Crypto Conversation hot day ground in today's crypto market. The team
+[28:00] at Brave New Coins are the sector's leading builders of custom crypto indices. BNC's powerful
+[28:06] indexing engine draws on Brave New Coins premium data to calculate high frequency,
+[28:10] intraday and end of day indices for a wide range of index products.
+[28:15] BNC's custom indices help you to gain exposure to the crypto assets class and
+[28:19] track your performance against the market without having to become a stock picker.
+[28:24] Brave New Coins custom indices team delivers experienced consultancy,
+[28:28] premium data and trusted calculation. Contact BNC today to find out more.
+[28:36] All right, we're back and I'm with Ethan Lu. Ethan is the author of a really fun new book
+[28:42] called Once a Bitcoin Miner Scandal and Turmoil in the Cryptocurrency Wild West.
+[28:50] And we'll just give a brief shout out to the book again at the very end of the show,
+[28:54] but it's out very soon, I believe. But Ethan, I'd like to finish off with just a quick
+[29:00] round of rapid fire crypto conversation hot takes. Are you up for it?
+[29:05] Oh, absolutely. I don't know whether my answers will be smart, but you know, I have no shame.
+[29:11] They don't have to be smart. They just need to be reasonably quick and snappy,
+[29:16] hot take style, but say whatever you want. Have some fun. All right, Ethan, where would you say
+[29:21] that you sit on the Bitcoin maximalist to multi-coin opportunist spectrum?
+[29:28] I think I'm like maybe 80% maximalist. If you want to talk my personal holdings,
+[29:35] I guess actually now a lot of my alts have grown and I haven't actively managed,
+[29:40] but when I was actively managing, it was like 80 to 90% Bitcoin.
+[29:44] Very nice. Very nice. Okay. Well, what would you say is your firmest conviction crypto opinion,
+[29:52] Ethan? Well, I don't think this is, I don't think Bitcoin is going to go to zero.
+[29:58] And I think recently, Jamie Dimon of, you know, the big banker guy, he said,
+[30:04] do we even really know that they're going to be 21 million bitcoins? And I think that
+[30:09] opinion is crap. I'm with you there yet. Jamie from JP Morgan. Yeah, I mean,
+[30:16] and I've seen some people tweet back at him, bro, just check the code. It's in the code.
+[30:22] Well, Ethan Bill Gates famously said that we tend to overestimate what we can accomplish
+[30:27] in two years and underestimate what we can accomplish in 10. You know, you've been
+[30:33] in Bitcoin perhaps longer than most. Anything you like here, Bitcoin, blockchain, Ethereum,
+[30:40] what does it look like in 10 years time? Oh, wow. I have, I think it's very hard to predict because
+[30:49] when I first entered in 2013, I totally did not expect us to be where we are now. So I think
+[30:57] 10 years later, I think it will be kind of a ubiquitous thing. And I think specifically,
+[31:03] this central bank digital currency, that will be a very big thing. Absolutely. All right. Well,
+[31:10] look, I suppose the flip side of that is that, you know, William Gibson said that the future is
+[31:16] already here. It's just not evenly distributed. And you'll appreciate that more than most having
+[31:22] gone to places like North Korea. Can you think of an example, though, Ethan, of the future
+[31:28] being here right now, but most people just aren't really aware of it? Well, that's a good question.
+[31:35] It makes me think of this story I heard of, I believe it was told by Alex Gladstein and this
+[31:42] young woman from Afghanistan, you know, when they were trying to escape the war-torn country,
+[31:48] they, a lot of them couldn't take their money with them because the banks were
+[31:50] shit, the currencies are shit. But she had Bitcoin and she memorized the passphrase and
+[31:59] she escaped through the Middle East. Her ship sank in the Mediterranean. She had nothing but the
+[32:03] clothes on her back, but she was able to fund a new life with what she memorized in her head.
+[32:09] I believe it was like two Bitcoins. And yeah, that's a lot. And yeah, I think that is an
+[32:15] example of how the future is here. Yeah, I love that. And it's, yeah, that's great, you know, it's
+[32:21] so, it's such a simple concept, but so absolutely sci-fi at the same time, you know, the idea that
+[32:28] you can just simply memorize, you know, effectively a 12-word phrase would do it and store, well,
+[32:36] I mean, anything from $2,000 to $2 billion, really, in your head, be quite stressful, I think,
+[32:43] kind of, you know, trying to skip across war, ravaged borders and, you know, every night as
+[32:50] you go to sleep, you're probably repeating that phrase to yourself before you go to sleep. Still
+[32:54] be stressful though, right? Oh yeah, absolutely. And like, I don't memorize my own passphrase.
+[33:01] Like, I feel that that also has its drawbacks. If you, if you memorize it can be tortured
+[33:06] out of you, you know. Absolutely, absolutely. All right, well, let's start to finish this off,
+[33:13] Eitan. Time to zoom out, time to get weird if we haven't got weird already. What do you see
+[33:19] as the long-term future for the human race? Do you see dystopia or utopia?
+[33:27] Oh, wow, that is a good question. I don't know. How did you find long-term, like,
+[33:32] thousands of years? Oh, whatever you like, my man. I wouldn't go as far to say dystopia,
+[33:38] but I think definitely we will see bigger gaps between the haves and the have-nots.
+[33:45] Yep, yep. I think that's inevitable at this point. All right, well, let's finish this off,
+[33:53] Eitan. What is your favorite science fiction book, film, show or universe?
+[34:01] Well, I don't know if we would consider this science fiction, but in my university,
+[34:07] in one of my university classes, we went very deep into Watchmen. And that was a science fiction
+[34:15] class and which is why I bring this up here. And yeah, so if that is, that can be considered
+[34:20] to be this genre, that is my favorite. Oh, I think Watchmen is unquestionably
+[34:26] would fit under science fiction, for sure. Gotta love it. Alan Moore, shout out.
+[34:36] All right, let's close this out, Eitan. I've enjoyed meeting you and talking to you today.
+[34:43] So yeah, this has been fun. Nothing else to say, really, except to hand the metaphorical
+[34:48] microphone back to you. Please feel free to give a kind of promo, a shout out for your book.
+[34:56] And I know you've written other books as well. So, you know, whatever you want to say, please
+[35:01] do so. Tell people where they can get your books and where they should go to follow you on Twitter
+[35:07] or wherever you are on the wonderful world of the internet as we head into the metaverse.
+[35:15] Take it away, Ethan. Okay, well, thank you. I'll keep it short. So the title of the book is
+[35:20] Once a Bitcoin Miner, Scandal and Term Oil in the Cryptocurrency Wild West. It's available
+[35:27] wherever you buy books. But if you hate Amazon, you can go to a local independent bookstore.
+[35:32] And if they're small, they may not stock it. But, you know, all the,
+[35:35] they have access to all the same distribution networks. So they can order it. And I don't
+[35:40] personally have, like my hate for Amazon isn't like a 10, maybe it's a six. But
+[35:45] if for you, it's a 10, I can go to a local independent bookstore. And you can, I can
+[35:52] basically Google me to find my, find me on the internet. My last name is spelled LuLOU.
+[35:59] Very nice, Ethan. All right. Well, hey, nothing else to say, really, except thanks
+[36:05] for coming on all the best and bye for now. Thank you. It's an absolute pleasure.
+[36:12] All right, there you go. That was Ethan Lu. Yeah, as I say, I did enjoy chatting with Ethan,
+[36:19] fascinating guy. And man, you do kind of have to feel bad for Virgil Griffith, who,
+[36:27] as I suppose, in the clutches of the sometimes and often nefarious US justice system,
+[36:36] I mean, I don't want to, I don't know too, I don't know enough about this case, really,
+[36:41] to speak with any insight. But, you know, we have seen these, I suppose, when, you know,
+[36:48] the justice system goes after, I don't even want to say hackers, but you know what I mean,
+[36:53] people who are just on the frontiers of what's happening in technology and through their own
+[37:02] smarts and curiosity, they want to push the boundaries and sometimes
+[37:08] they get into trouble. Yeah, it's unfortunate. All right, I'm going to leave it there.
+[37:14] Thanks everyone for listening to the show. Please make sure you subscribe to The Crypto
+[37:19] Conversation and whatever podcast app you're using so you know when each new episode drops.
+[37:25] All right, thanks team. This was The Crypto Conversation for a brief and new coin.

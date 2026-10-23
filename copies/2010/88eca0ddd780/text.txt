@@ -1,0 +1,355 @@
+Accusations fly over voice encryption hack | LinuxSecurity.com 
+
+ News Cloud Security 
+ Cryptography 
+ Desktop Security 
+ Firewall 
+ Government 
+
+ Hacks/Cracks 
+ IoT Security 
+ Network Security 
+ Organizations/Events 
+ Privacy 
+
+ Security Projects 
+ Security Trends 
+ Security Vulnerabilities 
+ Server Security 
+ Vendors/Products 
+
+ Advisories ArchLinux 
+ Debian LTS 
+ Mageia 
+ Red Hat 
+ Slackware 
+
+ CentOS 
+ Fedora 
+ Oracle 
+ RockyLinux 
+ SuSE 
+
+ Debian 
+ Gentoo 
+ openSUSE 
+ Scientific Linux 
+ Ubuntu 
+
+ HOWTOs Harden My Filesystem 
+ Learn Tips and Tricks 
+ Secure My E-mail 
+ Secure My Firewall 
+
+ Secure My Network 
+ Secure My Webserver 
+ Strengthen My Privacy 
+
+ Features Feature Articles 
+ Must Read Articles 
+
+ Newsletters Subscribe to Our Newsletters 
+ Linux Security Week Archive 
+ Linux Advisory Watch Archive 
+
+ Polls 
+ About Advertise 
+ Legal Notice 
+ RSS Feeds 
+ Contact Us 
+ Terms of Service 
+ Privacy Policy 
+
+ Security Dictionary 
+
+ What Are You Looking For?
+
+ Login 
+
+ Sign Up 
+
+ Discover Cryptography News
+
+ Accusations fly over voice encryption hack 
+
+ Anthony Pell 
+
+ 1 min read 
+
+ --> 
+ 02/02/2010 
+
+ German encryption firm SecurStar has strenuously denied being behind an apparently independent test of voice encryption products that found many of its rivals could be hacked using a $100 phone-tapping program. 
+
+In a blog on the subject, Fabio Pietrosanti, founder and CTO of Swiss encryption startup Khamsa, alleges that a supposedly independent test of 15 encryption products was in fact a marketing exercise designed to publicise one of only three products to pass the hacking test, SecurStar's PhoneCrypt. 
+
+The tests by an anonymous researcher, The link for this article located at Tech World is no longer available. 
+
+ Related Articles
+
+ New BiBi-Linux Wiper Malware Targets Israeli Orgs in Destructive Attacks 
+
+-->
+
+ Here's What You Need to Know about the Upcoming Curl Security Patches 
+
+-->
+
+ Chinese Hackers Have Unleashed a Never-Before-Seen Linux Backdoor 
+
+-->
+
+ Prev:How Fedora protects your data with full disk encryption 
+ Prev: How Fedora protects your data with full disk encryption 
+
+ Next: Online Credit/Debit Card Security Failure 
+ Next: Online Credit/Debit Card Security Failure 
+
+ Get the Latest News & Insights
+
+ Sign up to get the latest security news affecting Linux and open source delivered straight to your inbox
+
+ Linux Advisory Watch 
+
+ Linux Security Week 
+
+ LinuxSecurity Poll
+
+ Is Google's New IP Protection Feature a Privacy Threat?
+
+ Message!
+
+ Yes 
+
+ No 
+
+ No answer selected. Please try again.
+
+ Please select either existing option or enter your own, however not both.
+
+ Please select minimum {0} answer(s).
+
+ Please select maximum {0} answer(s).
+
+ /main-polls/122-is-googles-new-ip-protection-feature-a-privacy-threat?task=poll.vote&format=json
+
+ 122
+
+ radio
+
+ 0
+
+ --> 
+
+ Yes ( 92.86% ) 
+
+ 92.86% votes 
+
+ --> 
+
+ No ( 7.14% ) 
+
+ 7.14% votes 
+
+ [{"id":378,"title":"Yes","votes":13,"type":"x","order":1,"pct":92.86,"resources":[]},{"id":379,"title":"No","votes":1,"type":"x","order":2,"pct":7.14,"resources":[]}] 
+ ["#ff5b00","#4ac0f2","#b80028","#eef66c","#60bb22","#b96a9a","#62c2cc"] 
+ ["rgba(255,91,0,0.7)","rgba(74,192,242,0.7)","rgba(184,0,40,0.7)","rgba(238,246,108,0.7)","rgba(96,187,34,0.7)","rgba(185,106,154,0.7)","rgba(98,194,204,0.7)"] 
+ 350 
+
+ Result 
+
+ Vote Form 
+
+ Vote 
+
+ bottom 
+ 200 
+
+ News
+
+ Cloud Security 
+ Cryptography 
+ Desktop Security 
+ Firewall 
+ Government 
+ Hacks/Cracks 
+ IoT Security 
+ Network Security 
+ Organizations/Events 
+ Privacy 
+ Security Projects 
+ Security Trends 
+ Security Vulnerabilities 
+ Server Security 
+ Vendors/Products 
+
+ Advisories
+
+ ArchLinux 
+ CentOS 
+ Debian 
+ Debian LTS 
+ Fedora 
+ Gentoo 
+ Mageia 
+ Oracle 
+ openSUSE 
+ Red Hat 
+ RockyLinux 
+ Scientific Linux 
+ Slackware 
+ SuSE 
+ Ubuntu 
+
+ HOWTOs
+
+ Harden My Filesystem 
+ Learn Tips and Tricks 
+ Secure My E-mail 
+ Secure My Firewall 
+ Secure My Network 
+ Secure My Webserver 
+ Strengthen My Privacy 
+
+ Features
+
+ A Complete Guide to Torrenting Safely in 2024 
+
+ Cloud Security Basics for Small Businesses 
+
+ Scanning and Defending Networks with Nmap 
+
+ CISA Issues Urgent Warning Over Active Exploitation of Looney Tunables glibc Bug 
+
+ Cyber Law in the Realm of Open-Source Software Security 
+
+ About Us
+
+ Advertise 
+ Legal Notice 
+ RSS Feeds 
+ Contact Us 
+ Terms of Service 
+ Privacy Policy 
+
+ Powered By
+
+ 266 
+
+ © 2023 Guardian Digital, Inc All Rights Reserved 
+
+ News Cloud Security 
+ Cryptography 
+ Desktop Security 
+ Firewall 
+ Government 
+ Hacks/Cracks 
+ IoT Security 
+ Network Security 
+ Organizations/Events 
+ Privacy 
+ Security Projects 
+ Security Trends 
+ Security Vulnerabilities 
+ Server Security 
+ Vendors/Products 
+
+ Advisories ArchLinux 
+ CentOS 
+ Debian 
+ Debian LTS 
+ Fedora 
+ Gentoo 
+ Mageia 
+ Oracle 
+ openSUSE 
+ Red Hat 
+ RockyLinux 
+ Scientific Linux 
+ Slackware 
+ SuSE 
+ Ubuntu 
+
+ HOWTOs Harden My Filesystem 
+ Learn Tips and Tricks 
+ Secure My E-mail 
+ Secure My Firewall 
+ Secure My Network 
+ Secure My Webserver 
+ Strengthen My Privacy 
+
+ Features Feature Articles 
+ Must Read Articles 
+
+ Newsletters Subscribe to Our Newsletters 
+ Linux Security Week Archive 
+ Linux Advisory Watch Archive 
+
+ Polls 
+ About Advertise 
+ Legal Notice 
+ RSS Feeds 
+ Contact Us 
+ Terms of Service 
+ Privacy Policy 
+
+ Security Dictionary 
+
+ We use cookies to provide and improve our services. By using our site, you consent to our Cookie Policy. 
+ Accept 
+
+ .sp-column > .sp-module .sp-module-title","delay":0,"scroll_depth":"percentage","scroll_depth_value":80,"firing_frequency":1,"reverse_scroll_close":false,"threshold":0,"close_out_viewport":false,"exit_timer":1000,"idle_time":10000,"prevent_default":true,"animation_open":"transition.slideUpIn","animation_close":"transition.fadeOut","animation_duration":300,"disable_page_scroll":false,"test_mode":false,"debug":false,"ga_tracking":false,"ga_tracking_id":0,"ga_tracking_event_category":"EngageBox","ga_tracking_event_label":"Box #4 - Advisories","auto_focus":false}' 
+ data-type='popup' 
+ > 
+
+ × 
+
+ × 
+
+ Advisories 
+
+ ArchLinux 
+
+ CentOS 
+
+ Debian 
+
+ Debian LTS 
+
+ Fedora 
+
+ Gentoo 
+
+ Mageia 
+
+ Oracle 
+
+ openSUSE 
+
+ Red Hat 
+
+ RockyLinux 
+
+ Scientific Linux 
+
+ Slackware 
+
+ SuSE 
+
+ Ubuntu 
+
+ openSUSE 
+
+ × 
+
+ × 
+
+ Get the Latest News & Insights
+
+ Sign up to get the latest security news affecting Linux and open source delivered straight to your inbox
+
+ Linux Advisory Watch 
+
+ Linux Security Week 
+
+ You are now being logged in using your Facebook credentials

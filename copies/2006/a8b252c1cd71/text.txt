@@ -1,0 +1,328 @@
+Files from naif ≈ Packet Storm 
+
+ what you don't know can hurt you
+
+ Register | Login 
+
+ Files News Users Authors 
+
+ Home Files News &[SERVICES_TAB] About Contact Add New 
+
+ Showing 1 - 3 of 3 
+
+ Files from naif
+
+ Email address naif at s0ftpj.org 
+
+ First Active 2000-06-14 
+
+ Last Active 2006-10-30 
+
+ ParallelsDesktop.txt 
+ Posted Oct 30, 2006 
+ Authored by naif 
+ Parallels Desktop for Mac - Build 1940 creates files with insecure permissions.
+
+ tags | advisory 
+ SHA-256 | e4c883be914c2e585934e5e834b9e62c1863e95b15be5a3217e5c05a2f5a9f93 
+ Download | Favorite | View 
+
+ sirc.tar.gz 
+ Posted Jul 6, 2000 
+ Authored by naif | Site naif.itapac.net 
+ Secure BitchX - Patches and instructions which allow you to run BitchX in a chrooted environment.
+
+ tags | patch 
+ systems | unix 
+ SHA-256 | 32ff28b7d431ce94eb1c3848887b9989495b40566b22a017b01c222e880561b8 
+ Download | Favorite | View 
+
+ sendmailcftrojan.tar.gz 
+ Posted Jun 14, 2000 
+ Authored by naif 
+ Backdoored sendmail.cf - Install on a system that is running sendmail it allows you to spawn an xterm on any remote host.
+
+ tags | tool , remote , rootkit 
+ systems | unix 
+ SHA-256 | fc434f11ec92dfc4869e8e43e6405ce8fb11108f047cd0d17023555c622e42bb 
+ Download | Favorite | View 
+
+ Page 1 of 1 
+ Jump to page 
+ Back 1 Next 
+
+ Follow us on Twitter 
+
+ Subscribe to an RSS Feed 
+
+ File Archive:
+ November 2022
+
+ < > Su
+ Mo
+ Tu
+ We
+ Th
+ Fr
+ Sa
+
+ 1 
+ Nov 1st
+ 16 Files
+
+ 2 
+ Nov 2nd
+ 17 Files
+
+ 3 
+ Nov 3rd
+ 17 Files
+
+ 4 
+ Nov 4th
+ 11 Files
+
+ 5 
+ Nov 5th
+ 0 Files
+
+ 6 
+ Nov 6th
+ 0 Files
+
+ 7 
+ Nov 7th
+ 3 Files
+
+ 8 
+ Nov 8th
+ 59 Files
+
+ 9 
+ Nov 9th
+ 12 Files
+
+ 10 
+ Nov 10th
+ 6 Files
+
+ 11 
+ Nov 11th
+ 11 Files
+
+ 12 
+ Nov 12th
+ 1 Files
+
+ 13 
+ Nov 13th
+ 0 Files
+
+ 14 
+ Nov 14th
+ 9 Files
+
+ 15 
+ Nov 15th
+ 33 Files
+
+ 16 
+ Nov 16th
+ 53 Files
+
+ 17 
+ Nov 17th
+ 11 Files
+
+ 18 
+ Nov 18th
+ 14 Files
+
+ 19 
+ Nov 19th
+ 0 Files
+
+ 20 
+ Nov 20th
+ 0 Files
+
+ 21 
+ Nov 21st
+ 26 Files
+
+ 22 
+ Nov 22nd
+ 22 Files
+
+ 23 
+ Nov 23rd
+ 10 Files
+
+ 24 
+ Nov 24th
+ 9 Files
+
+ 25 
+ Nov 25th
+ 11 Files
+
+ 26 
+ Nov 26th
+ 0 Files
+
+ 27 
+ Nov 27th
+ 0 Files
+
+ 28 
+ Nov 28th
+ 20 Files
+
+ 29 
+ Nov 29th
+ 9 Files
+
+ 30 
+ Nov 30th
+ 21 Files
+
+ Top Authors In Last 30 Days
+
+ Red Hat 205 files 
+
+ Ubuntu 60 files 
+
+ Debian 25 files 
+
+ Gentoo 18 files 
+
+ Google Security Research 14 files 
+
+ malvuln 10 files 
+
+ nu11secur1ty 6 files 
+
+ mjurczyk 4 files 
+
+ Apple 3 files 
+
+ Julien Ahrens 3 files 
+
+ File Tags
+ ActiveX (932) 
+ Advisory (79,597) 
+ Arbitrary (15,651) 
+ BBS (2,859) 
+ Bypass (1,616) 
+ CGI (1,016) 
+ Code Execution (6,915) 
+ Conference (672) 
+ Cracker (840) 
+ CSRF (3,289) 
+ DoS (22,550) 
+ Encryption (2,349) 
+ Exploit (50,301) 
+ File Inclusion (4,162) 
+ File Upload (946) 
+ Firewall (821) 
+ Info Disclosure (2,656) 
+ Intrusion Detection (867) 
+ Java (2,889) 
+ JavaScript (818) 
+ Kernel (6,260) 
+ Local (14,176) 
+ Magazine (586) 
+ Overflow (12,400) 
+ Perl (1,418) 
+ PHP (5,088) 
+ Proof of Concept (2,290) 
+ Protocol (3,429) 
+ Python (1,449) 
+ Remote (30,018) 
+ Root (3,496) 
+ Ruby (594) 
+ Scanner (1,631) 
+ Security Tool (7,770) 
+ Shell (3,098) 
+ Shellcode (1,204) 
+ Sniffer (885) 
+ Spoof (2,166) 
+ SQL Injection (16,090) 
+ TCP (2,377) 
+ Trojan (685) 
+ UDP (875) 
+ Virus (662) 
+ Vulnerability (31,108) 
+ Web (9,337) 
+ Whitepaper (3,728) 
+ x86 (946) 
+ XSS (17,480) 
+ Other 
+
+ File Archives
+ November 2022 
+ October 2022 
+ September 2022 
+ August 2022 
+ July 2022 
+ June 2022 
+ May 2022 
+ April 2022 
+ March 2022 
+ February 2022 
+ January 2022 
+ December 2021 
+ Older 
+
+ Systems
+ AIX (426) 
+ Apple (1,926) 
+ BSD (370) 
+ CentOS (55) 
+ Cisco (1,917) 
+ Debian (6,624) 
+ Fedora (1,690) 
+ FreeBSD (1,242) 
+ Gentoo (4,272) 
+ HPUX (878) 
+ iOS (330) 
+ iPhone (108) 
+ IRIX (220) 
+ Juniper (67) 
+ Linux (44,157) 
+ Mac OS X (684) 
+ Mandriva (3,105) 
+ NetBSD (255) 
+ OpenBSD (479) 
+ RedHat (12,363) 
+ Slackware (941) 
+ Solaris (1,607) 
+ SUSE (1,444) 
+ Ubuntu (8,158) 
+ UNIX (9,152) 
+ UnixWare (185) 
+ Windows (6,504) 
+ Other 
+
+ © 2022 Packet Storm. All rights reserved.
+
+ Site Links 
+ News by Month 
+ News Tags 
+ Files by Month 
+ File Tags 
+ File Directory 
+
+ About Us 
+ History & Purpose 
+ Contact Information 
+ Terms of Service 
+ Privacy Statement 
+ Copyright Information 
+
+ Hosting By 
+ Rokasec 
+
+ Follow us on Twitter 
+
+ Subscribe to an RSS Feed
