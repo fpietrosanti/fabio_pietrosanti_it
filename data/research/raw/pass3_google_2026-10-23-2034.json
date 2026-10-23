@@ -1,0 +1,80 @@
+[
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "2020.itasec.it",
+  "title": "ITASEC 2020 | ITASEC20, ad Ancona formazione in cybersecurity specifica per giornalisti",
+  "url": "https://2020.itasec.it/itasec20-ancona-formazione-cybersecurity-giornalisti/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …arency and Digital Human Rights, con il quale collabora alla diffusione di strumenti per la protezione del lavoro giornalistico e delle fonti. Social: @faffa42 Fabio Pietrosanti : Presidente e co-fondatore del Centro Her…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "pressgazette.co.uk",
+  "title": "Chance for Europe to protect whistleblowers and fight corruption after Football Leaks source charged",
+  "url": "https://pressgazette.co.uk/comment-analysis/chance-for-europe-to-protect-whistleblowers-and-fight-corruption-after-football-leaks-source-charged/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …r, Investigative journalist, Pulitzer Prize Awardee, Die Suddeutsche Zeitung Fatih Polat, editor-in-chief, Evrensel Begoña Pérez Ramírez, journalist, infoLibre Fabio Pietrosanti, Hermes Center for Transparency and Digita…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "exploit-db.com",
+  "title": "Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (2)",
+  "url": "https://www.exploit-db.com/exploits/21747",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …n confirmed. Reportedly, this vulnerability may be exploited both as an authenticated user, and with anonymous access to the service. It has been reported, by \"Fabio Pietrosanti \\(naif\\)\" <naif@blackhats.it>, that disabl…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2022-07-02",
+  "year": 2022,
+  "type": "mentioned",
+  "outlet": "infodata.ilsole24ore.com",
+  "title": "Blog | Google Analytics, la stretta dell Garante della Privacy e la replica di Google. Cosa è successo? - Info Data",
+  "url": "https://www.infodata.ilsole24ore.com/2022/07/02/google-analytics-la-stretta-dell-garante-della-privacy-la-replica-google-cosa-successo/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …alternativo a Google Analytics, la piattaforma Web Analytics Italia, come raccomandato da AgID. Per capire qualcosa di più abbiamo invitato a Think Tally Talk Fabio Pietrosanti, attivista e co-founder di Monitora. Qui so…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2022-06-03",
+  "year": 2022,
+  "type": "mentioned",
+  "outlet": "logisticasostenibile.org",
+  "title": "Costruire comunità sostenibili. Quale ruolo per la logistica? - Logistica Sostenibile",
+  "url": "https://www.logisticasostenibile.org/2022/06/03/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …stenibilità. Claudia Montanari, Real Estate & Customer Experience Lead, Director PROLOGIS PARKlife™: evoluzione logistica tra cultura, sport e socializzazione. Fabio Pietrosanti, Amministratore unico, LESS Impresa Social…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2018-02-07",
+  "year": 2018,
+  "type": "mentioned",
+  "outlet": "davidpuente.it",
+  "title": "È tornato R0gue_0, ma che siate del M5S o del PD la sicurezza informatica non l’avete capita",
+  "url": "https://www.davidpuente.it/blog/2018/02/07/e-tornato-r0gue_0-ma-che-siate-del-m5s-del-pd-la-sicurezza-informatica-lavete-capita/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …ra, insieme ad esperti del settore come Stefano Zanero (professore di sicurezza informatica e scienza dei dati), Stefano Fratepietro (ceo di Tesla Consulting), Fabio Pietrosanti (Globaleaks), Matteo Flora e la comunità h…",
+  "verified": true,
+  "known": false
+ }
+]

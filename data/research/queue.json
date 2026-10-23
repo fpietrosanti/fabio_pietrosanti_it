@@ -2219,51 +2219,115 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" GlobaLeaks interview 2011 OR 2012 OR 2013",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)"
+      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)",
+      "done": "2026-10-23",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" Tor2web Wired OR Forbes OR \"Ars Technica\" OR Guardian",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)"
+      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)",
+      "done": "2026-10-23",
+      "found": 9
     },
     {
       "query": "\"Pietrosanti\" \"Hermes Center\" EDRi OR \"European Parliament\" OR Brussels",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)"
+      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)",
+      "done": "2026-10-23",
+      "found": 9
     },
     {
       "query": "\"naif\" \"blackhats.it\" advisory OR vulnerability",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)"
+      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)",
+      "done": "2026-10-23",
+      "found": 7
     },
     {
       "query": "\"Fabio Pietrosanti\" Radio24 OR \"Sky TG24\" OR TG1 OR TG3 intervista",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)"
+      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)",
+      "done": "2026-10-23",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" università OR master OR lezione cybersecurity docente",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)"
+      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)",
+      "done": "2026-10-23",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" Telecom OR \"Tavaroli\" OR intercettazioni 2006 OR 2007",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)"
+      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)",
+      "done": "2026-10-23",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" Rousseau OR Casaleggio sicurezza 2017 OR 2018",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)",
+      "done": "2026-10-23",
+      "found": 9
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Monitora PA OR \"Google Analytics\" OR Garante 2022",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-23 16:33: coda esaurita; nuovi angoli (stampa estera GlobaLeaks/Tor2web, UE, advisory blackhats.it, TV/radio, docenze, caso Telecom 2006-07, Rousseau)"
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" whistleblowers Europe directive open letter",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+    },
+    {
+      "query": "\"naif@blackhats.it\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" ITASEC OR \"e-privacy\" OR \"Winston Smith\" relatore",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" spyware Italia OR \"Hacking Team\" 2015 OR 2016",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" podcast OR episodio OR puntata 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" CNR OR Webbit OR Smau 2003 OR 2004 OR 2005",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Transparency International\" OR ANAC whistleblowing piattaforma",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-23 20:34: coda esaurita; angoli da questo run (Monitora PA 2022, lettere aperte UE, advisory blackhats, convegni ITASEC/e-privacy, Hacking Team, podcast recenti, conferenze 2003-05, TI/ANAC)"
     }
   ],
   "history": [
@@ -3015,6 +3079,14 @@
       "captcha": false,
       "confirmed_new": 3,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Tutte le 8 query pending (Tor2web 2012-13, whistleblowing 2014-15, Hermes 2016-17, GDPR 2018-19, Immuni/contact tracing 2020-21, naif 2001-02, cybersecurity podcast 2022-23, Copernicani 2021-24) eseguite senza robot check: 70 risultati, 43 URL distinti, 32 già in archivio o già decisi. Scartati senza verifica: x.com/twitter (stefanoepifani), LinkedIn, hyperkitty nexa, indici (dicorinto, pr-foundation content). 9 candidati verificati: 4 OK dallo script; 3 nuove voci: CILD 13/09/2017 (lettera al Copasir con Privacy International e Hermes, citazione), P&R Foundation 'Bilancio 2021' (relatore), exploit-db 21746 (vulnerabilità SMB Windows 2002, segnalazione di naif); opennet.ru escluso come mirror del post Bugtraq 'Cisco PIX Security Notes' già in archivio; cs.wikipedia GlobaLeaks escluso (versione linguistica). Respinti (nome assente): pr-foundation ambassador Human Foundation, Radio Radicale 725574/789395/794531; podnews i8eu (shell JS). 3 nuove copie offline (wayback). Coda esaurita: aggiunte 8 query."
+    },
+    {
+      "date": "2026-10-23 20:34",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 5,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. 8 query pending (GlobaLeaks interview 2011-13, Tor2web stampa estera, Hermes EDRi/UE, naif blackhats.it advisory, TV/radio, docenze, Telecom/Tavaroli 2006-07, Rousseau/Casaleggio 2017-18) senza robot check: 73 risultati, 69 URL distinti, 49 già in archivio o già decisi. Scartati senza verifica: LinkedIn, Facebook, lists.autistici (mailing list), indici/tag (sploitus, argomenti.ilsole24ore, dicorinto, dalchecco tag, homodigitalis author, personaldemocracy speakers), forum (gerki), mirror exploit-db. 10 candidati verificati: 6 OK dallo script; 5 nuove voci: ITASEC20 formazione giornalisti, Press Gazette lettera aperta Football Leaks/whistleblower (firmatario Hermes), exploit-db 21747 (seconda PoC SMB 2002, segnalazione di naif), Info Data Il Sole 24 Ore 02/07/2022 (Monitora, Think Tally Talk), davidpuente.it 07/02/2018 (R0gue_0/M5S). Escluso in via provvisoria Logistica Sostenibile 03/06/2022 ('Amministratore unico, LESS Impresa Sociale', probabile omonimo, domanda in open_questions); esclusi zh-tw Wikipedia e Wikiwand zh-sg GlobaLeaks (versioni linguistiche). Respinti (nome assente): enssib.fr PDF leak/archive, Innovation Group Digital Italy Summit 2019. FAIL (bloccati): ResearchGate e Academia 'Digital whistleblowing platforms… TI Italia' - da ricontrollare. 5 nuove copie offline (wayback). Coda esaurita: aggiunte 8 query."
     }
   ]
 }

@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1161**; già processate: **1337**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **973** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1102**
+- Voci in `data/media.json`: **1166**; già processate: **1342**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **978** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1107**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **2**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -21,7 +21,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 65 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 68 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -43,11 +43,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2015 | 38 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 23 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 80 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 62 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 2018 | 63 | 16 | 0 | 0 | 0 | 0 | 0 |
 | 2019 | 85 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 168 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 55 | 15 | 0 | 0 | 0 | 0 | 2 |
+| 2022 | 56 | 15 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 7 | 6 | 0 | 0 | 0 | 0 | 0 |
@@ -327,6 +327,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 ## Fonti ottenute in locale
 
 - **None** · pr-foundation.org — [Bilancio 2021 Fondazione - P&R Foundation](http://www.pr-foundation.org/bilancio-2021-fondazione/) · copia: `undated/a12a9438b2e6` (Web Archive 20230922) · licenza: terzi
+- **None** · 2020.itasec.it — [ITASEC 2020 | ITASEC20, ad Ancona formazione in cybersecurity specifica per giornalisti](https://2020.itasec.it/itasec20-ancona-formazione-cybersecurity-giornalisti/) · copia: `undated/6222657a4e39` (Web Archive 20241015) · licenza: terzi
 - **None** · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html) · copia: `undated/4a11e866d9e4` (live) · licenza: terzi
 - **None** · cfp.romhack.io — [RomHack Camp 2026
             :: pretalx](https://cfp.romhack.io/romhack-camp-2026/speaker/) · copia: `undated/93eebbb26309` (Web Archive 20260930) · licenza: terzi
@@ -343,6 +344,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · nexa.polito.it — [Fabio Pietrosanti Archives - Nexa Center for Internet & Society](https://nexa.polito.it/tag/fabio-pietrosanti/) · copia: `undated/3f185f9962b3` (Web Archive 20240722) · licenza: terzi
 - **None** · noyb.eu — [L'alleanza per i diritti digitali presenta denunce legali contro la società di riconoscime](https://noyb.eu/it/lalleanza-i-diritti-digitali-presenta-denunce-legali-contro-la-societa-di-riconoscimento-facciale) · copia: `undated/619ed9896d8f` (Web Archive 20210601) · licenza: terzi
 - **None** · poul.org — [POuL » Topic: Conferenze](https://poul.org/topic/Conferenze/) · copia: `undated/3d233789630b` (Web Archive 20191122) · licenza: terzi
+- **None** · pressgazette.co.uk — [Chance for Europe to protect whistleblowers and fight corruption after Football Leaks sour](https://pressgazette.co.uk/comment-analysis/chance-for-europe-to-protect-whistleblowers-and-fight-corruption-after-football-leaks-source-charged/) · copia: `undated/68d13b8b62c6` (Web Archive 20221127) · licenza: terzi
 - **None** · taylorsimone.substack.com — [Once a Bitcoin Miner](https://taylorsimone.substack.com/p/once-a-bitcoin-miner) · copia: `undated/10581a59d966` (Web Archive 20211022) · licenza: terzi
 - **None** · techjournalism.medium.com — [No Future for the  North Korea Fixer](https://techjournalism.medium.com/no-future-for-the-north-korea-fixer-8f1c8e573ac1) · copia: `undated/2aa62add9a98` (Web Archive 20220712) · licenza: terzi
 - **None** · tellsomeone.org.uk — [Our Technology - GlobalLeaks Crime Reporting Platform TellSomeone.org.uk](https://tellsomeone.org.uk/about/technology/) · copia: `undated/19c000bbf34b` (Web Archive 20250831) · licenza: terzi
@@ -357,6 +359,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · debugliesintel.com — [Mercato globale dello spyware 2025: impennata degli investimenti negli Stati Uniti e broke](https://www.debugliesintel.com/mercato-globale-dello-spyware-2025-impennata-degli-investimenti-negli-stati-uniti-e-broker-che-alimentano-i-rischi-di-proliferazione/) · copia: `undated/437c69318415` (Web Archive 20251018) · licenza: terzi
 - **None** · dimt.it — [Whistleblowing e Pa, quali garanzie per i segnalanti? Coccagna (Anac): "Uno speciale proto](https://www.dimt.it/news/8whistleblowing-e-pa-quali-garanzie-per-i-segnalanti-coccagna-anac-uno-speciale-protocollo-tutela-chi-invia-le-email-presto-possibilita-per-tutti-i-cittadini/) · copia: `undated/7eb3c6d5c40d` (Web Archive 20210116) · licenza: terzi
 - **None** · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b) · copia: `undated/3bcce2091e75` (Web Archive 20201101) · licenza: terzi
+- **None** · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (2)](https://www.exploit-db.com/exploits/21747) · copia: `undated/f97279cefca1` (Web Archive 20121222) · licenza: terzi
 - **None** · facebook.com — [Reazioni: 18 | Dentro Anonymous. Come operano i guerrieri della rete impegnati a difesa de](https://www.facebook.com/Etabetaradio1/videos/dentro-anonymous-come-operano-i-guerrieri-della-rete-impegnati-a-difesa-dellucra/1078010332773465/) · copia: `undated/c1776fdb104b` (live) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [CURA LE TUE FONTI: COME POTENZIARE LA REDAZIONE CON GLOBALEAKS](https://www.festivaldelgiornalismo.com/cura-le-tue-fonti-come-potenziare-la-redazione-con-globaleaks/) · copia: `undated/f09e9636bd8b` (Web Archive 20240713) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [Digital whistleblowing nel giornalismo moderno #ijf15](https://www.festivaldelgiornalismo.com/digital-whistleblowing-nel-giornalismo-moderno/) · copia: `undated/5c26f085d372` (Web Archive 20230605) · licenza: terzi
@@ -998,6 +1001,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · CyberChallenge.IT 2018 award ceremony, S — [Cyberchallenge.IT 2018: cerimonia di premiazione il 28 giugno a Roma (programme announceme](https://www.consorzio-cini.it/index.php/it/labcs-home/labcs-news/1348-cerimonia-di-premiazione-dei-vincitori-di-cyberchallenge-it) · copia: `2018/ace72bbc8c14` (Web Archive 20190722) · licenza: terzi
 - **2018** · Corriere della Sera (Buone Notizie) — [Ecco l'arma segreta contro i corrotti della Pubblica amministrazione](https://www.corriere.it/buone-notizie/18_ottobre_01/ecco-l-arma-segreta-contro-corrotti-pubblica-amministrazione-ca341b36-c582-11e8-994e-6382a2ca0409.shtml) · copia: `2018/7a7a06a1e240` (Web Archive 20181002) · licenza: terzi
 - **2018** · CyberSecurity Italia (cybersecitalia.it) — [CyberChallenge.it, il 28 giugno la premiazione](https://www.cybersecitalia.it/cyberchallenge-it-il-28-giugno-la-premiazione/6486/) · copia: `2018/1d0ba7094c6c` (Web Archive 20210226) · licenza: terzi
+- **2018** · davidpuente.it — [È tornato R0gue_0, ma che siate del M5S o del PD la sicurezza informatica non l’avete capi](https://www.davidpuente.it/blog/2018/02/07/e-tornato-r0gue_0-ma-che-siate-del-m5s-del-pd-la-sicurezza-informatica-lavete-capita/) · copia: `2018/ea9fce1544db` (Web Archive 20190718) · licenza: terzi
 - **2018** · International Journalism Festival 2018 — [Privacy nightmare Italia: storie di sorveglianza](https://www.festivaldelgiornalismo.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/27e62d9ca635` (Web Archive 20180705) · licenza: terzi
 - **2018** · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti) · copia: `2018/f855533e7142` (Web Archive 20190825) · licenza: terzi
 - **2018** · Hermes Center — News & Press (sito in ri — [Announcement: Hermes Center members and fellows participate at the International Journalis](https://www.hermescenter.org/announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18/) · copia: `2018/d6e62a571fab` (Web Archive 20200921) · licenza: propria
@@ -1430,6 +1434,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Info Data - Il Sole 24 Ore — [La Pubblica amministrazione che usa Google Analytics rispetta le regole della privacy? L'i](https://www.infodata.ilsole24ore.com/2022/05/20/la-pubblica-amministrazione-rispetta-le-regole-della-privacy-cosi-funziona-losservatorio-monitorapa/) · copia: `2022/680931488ae9` (Web Archive 20220520) · licenza: terzi
 - **2022** · Info Data - Il Sole 24 Ore (#ThinkTallyT — [La Pa che usa Google Analytics rispetta le regole della privacy? #ThinkTallyTalk](https://www.infodata.ilsole24ore.com/2022/05/22/la-pa-usa-google-analytics-rispetta-le-regole-della-privacy-thinktallytalk/) · copia: `2022/485ab05e07e9` (Web Archive 20220522) · licenza: terzi
 - **2022** · Info Data - Il Sole 24 Ore — [Stretta del Garante Privacy italiano su Google Analytics. Aveva ragione MonitoraPa?](https://www.infodata.ilsole24ore.com/2022/06/28/stretta-del-garante-privacy-italiano-google-analytics-ragione-monitorapa/) · copia: `2022/ee8ad4ccb589` (Web Archive 20220628) · licenza: terzi
+- **2022** · infodata.ilsole24ore.com — [Blog | Google Analytics, la stretta dell Garante della Privacy e la replica di Google. Cos](https://www.infodata.ilsole24ore.com/2022/07/02/google-analytics-la-stretta-dell-garante-della-privacy-la-replica-google-cosa-successo/) · copia: `2022/440a81c5739d` (Web Archive 20220702) · licenza: terzi
 - **2022** · Liceo Statale "Maria Montessori" (Minist — [Istanza accesso civico sig. Fabio Pietrosanti](https://www.istitutomontessori.edu.it/amministrazione-trasparente/) · copia: `2022/4b8b878bad90` (live) · licenza: terzi
 - **2022** · Key4biz — [Google Analytics in PA. 3.400 siti l'hanno rimosso, grazie a MonitoraPa: "Ora esposto al G](https://www.key4biz.it/google-analytics-in-pa-3-400-siti-lhanno-rimosso-grazie-a-monitorapa-a-fine-mese-faremo-anche-esposto-al-garante-privacy/405043/) · copia: `2022/8486ab3178f2` (Web Archive 20220525) · licenza: terzi
 - **2022** · Key4biz — [PA, non basta l'addio a Google Analytics: "10mila siti violano privacy cittadini con Googl](https://www.key4biz.it/pa-non-basta-laddio-a-google-analytics-10mila-siti-violano-privacy-cittadini-con-google-fonts/413335/) · copia: `2022/b7f58f58b496` (Web Archive 20220809) · licenza: terzi

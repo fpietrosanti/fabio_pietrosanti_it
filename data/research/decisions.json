@@ -874,6 +874,18 @@
   {
    "url": "https://cs.wikipedia.org/wiki/GlobaLeaks",
    "reason": "2026-10-23: versione ceca della voce Wikipedia GlobaLeaks, già in archivio in inglese (stessa regola delle versioni linguistiche)"
+  },
+  {
+   "url": "https://www.logisticasostenibile.org/2022/06/03/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/",
+   "reason": "2026-10-23: 'Fabio Pietrosanti, Amministratore unico, LESS Impresa Sociale' (convegno logistica 2022): nessun nick/tema riconducibile, probabile omonimo; escluso in via provvisoria, domanda in open_questions"
+  },
+  {
+   "url": "https://zh.wikipedia.org/zh-tw/GlobaLeaks",
+   "reason": "2026-10-23: variante zh-tw della voce Wikipedia GlobaLeaks (regola versioni linguistiche)"
+  },
+  {
+   "url": "https://www.wikiwand.com/zh-sg/GlobaLeaks",
+   "reason": "2026-10-23: mirror Wikiwand della voce cinese GlobaLeaks (regola versioni linguistiche)"
   }
  ],
  "override": [
@@ -1190,7 +1202,8 @@
   "2026-10-22 Webbit 05: hai ancora il file dell'intervista ai relatori (05_FabioPietrosanti.rtf, area Sicurezza curata da Stefano Zanero)? Il Web Archive non l'ha mai salvato.",
   "2026-10-23 Rai 3 TGR Neapolis 29/12/2009 «Telefonate protette» (PrivateGSM di Khamsa): eri tu l'intervistato? Il post del blog Neapolis non è mai stato archiviato; hai una registrazione?",
   "2026-10-23 Class Life (Class Editori TV, feb. 2010), video PrivateWave/PrivateGSM: eri tu? Mai archiviato.",
-  "2026-10-23 Rassegna stampa PrivateWave 2010 (39 PDF: Economy, L'Espresso, Il Mondo, Il Sole 24 Ore 28/11/2010…): hai ancora i PDF? Il sito è 403 e il Web Archive non li ha."
+  "2026-10-23 Rassegna stampa PrivateWave 2010 (39 PDF: Economy, L'Espresso, Il Mondo, Il Sole 24 Ore 28/11/2010…): hai ancora i PDF? Il sito è 403 e il Web Archive non li ha.",
+  "2026-10-23 Logistica Sostenibile 03/06/2022 «Costruire comunità sostenibili»: relatore 'Fabio Pietrosanti, Amministratore unico, LESS Impresa Sociale' - sei tu? Per ora escluso."
  ],
  "answers_2026_10_05": {
   "A0.1 dati personali scuole": "non interessa, va bene così: nessuna richiesta di oscuramento; le copie restano solo nell'archivio privato",

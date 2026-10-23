@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1597**; dopo deduplica: **1161**
+- Risultati grezzi dalle ricerche: **1603**; dopo deduplica: **1166**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1106**
-- Verificati aprendo la pagina: **1094**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1111**
+- Verificati aprendo la pagina: **1099**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 234, tweet 132, Talk 91, Video 77, Post sul blog infosecurity.ch 72, Citato 53, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, pagina 7, audio 7, Capitolo di libro 6, Brevetto 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 239, tweet 132, Talk 91, Video 77, Post sul blog infosecurity.ch 72, Citato 53, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, pagina 7, audio 7, Capitolo di libro 6, Brevetto 6, programme 6, articolo 6, village 5, evento 4, panel 4, code repository 4, Tesi 3, software 2, video_interview 2, workshop 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -36,11 +36,11 @@ Per tipo (nuovi): Menzionato 234, tweet 132, Talk 91, Video 77, Post sul blog in
 | 2015 | 0 | 45 | 45 |
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 80 | 80 |
-| 2018 | 0 | 73 | 73 |
+| 2018 | 0 | 74 | 74 |
 | 2019 | 0 | 68 | 68 |
 | 2020 | 0 | 177 | 177 |
 | 2021 | 0 | 90 | 90 |
-| 2022 | 0 | 67 | 67 |
+| 2022 | 0 | 68 | 68 |
 | 2023 | 0 | 19 | 19 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 13 | 13 |
@@ -234,7 +234,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
   «Dott. Fabio Pietrosanti» nel Comitato Tecnico degli Esperti (art. 52 c. 11) dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino. Confermato da Fabio il 2026-10-07. Prima comparsa sulla pagina ufficiale fra il 2023-02-04 (assente) e il 2023-12-03 (presente), da copie Web Archive.
 
-## 2022 — 67 voci, 67 nuove
+## 2022 — 68 voci, 68 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -284,6 +284,8 @@ Anni senza nessun risultato: nessuno
   Formal notice to PAs signed by him as MonitoraPA co-founder
 - 🆕 **2022-07-10** · Progetto · GitHub — [monitorapa (fork): Progetto per monitoraggio e notifica di non compliance GDPR alle PA con input da IndicePA](https://github.com/fpietrosanti/monitorapa)  
   His fork of the MonitoraPA observatory code
+- 🆕 **2022-07-02** · Menzionato · infodata.ilsole24ore.com — [Blog / Google Analytics, la stretta dell Garante della Privacy e la replica di Google. Cosa è successo? - Info Data](https://www.infodata.ilsole24ore.com/2022/07/02/google-analytics-la-stretta-dell-garante-della-privacy-la-replica-google-cosa-successo/)  
+  verified via wayback; context: …alternativo a Google Analytics, la piattaforma Web Analytics Italia, come raccomandato da AgID. Per capire qualcosa di più abbiamo invitato a Think Tally Talk Fabio Pietrosanti, attivista e co-founder di Monitora. Qui so…
 - 🆕 **2022-06-28** · Intervista · Info Data - Il Sole 24 Ore — [Stretta del Garante Privacy italiano su Google Analytics. Aveva ragione MonitoraPa?](https://www.infodata.ilsole24ore.com/2022/06/28/stretta-del-garante-privacy-italiano-google-analytics-ragione-monitorapa/)  
   Republishes his Think Tally Talk interview after the Garante's GA decision
 - 🆕 **2022-06-27** · Menzionato · Il Disinformatico (Paolo Attivissimo) — [Google Analytics, stop anche dal Garante italiano: quanti siti non sono in regola?](https://attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html)  
@@ -1050,7 +1052,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Menzionato · whistleblowing.fund — [Digital Whistleblowing Fund — Jury (Round 3)](https://whistleblowing.fund/jury/)  
   verificato 2026-10-14: Fabio Pietrosanti (GlobaLeaks) nella giuria del Round 3 del Digital Whistleblowing Fund (anno stimato ~2019; bandi 2017-2020)
 
-## 2018 — 73 voci, 73 nuove
+## 2018 — 74 voci, 74 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -1172,6 +1174,8 @@ Anni senza nessun risultato: nessuno
   Lecture at university anti-corruption master (Tor Vergata)
 - 🆕 **2018-02-08** · Menzionato · lastampa.it — [La rivolta degli informatici contro Casaleggio - La Stampa](https://www.lastampa.it/politica/2018/02/08/news/la-rivolta-degli-informatici-contro-casaleggio-1.33976791/)  
   verified via wayback; context: …i più bravi scienziati sulla materia dei dati in Italia, dice: «Denunciare i white hat. Che cosa ridicola. Mi offro pro bono come consulente tecnico di parte». Fabio Pietrosanti , di Globaleaks, rilancia la petrizione di…
+- 🆕 **2018-02-07** · Menzionato · davidpuente.it — [È tornato R0gue_0, ma che siate del M5S o del PD la sicurezza informatica non l’avete capita](https://www.davidpuente.it/blog/2018/02/07/e-tornato-r0gue_0-ma-che-siate-del-m5s-del-pd-la-sicurezza-informatica-lavete-capita/)  
+  verified via wayback; context: …ra, insieme ad esperti del settore come Stefano Zanero (professore di sicurezza informatica e scienza dei dati), Stefano Fratepietro (ceo di Tesla Consulting), Fabio Pietrosanti (Globaleaks), Matteo Flora e la comunità h…
 - 🆕 **2018-02-06** · Video · FOSDEM (YouTube) — [Public money, public code, the Italian way Hacking Italian Administrations to get to the code (in a legal way)](https://www.youtube.com/watch?v=KizAo_22FYo)  
   Video recording of FOSDEM 2018 talk
 - 🆕 **2018-02-04** · Altro · FOSDEM 2018 talk - IA mirror (collections FOSDEM2018/hackercons) — [Public money, public code, the Italian way: Hacking Italian Administrations to get to the code (in a legal way)](https://archive.org/details/youtube-KizAo_22FYo)  
@@ -2393,6 +2397,9 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · gruppotim.it — [Responsible Disclosure |  Gruppo TIM](https://www.gruppotim.it/it/footer/responsible-disclosure.html)
 - 🆕 Menzionato · debugliesintel.com — [Mercato globale dello spyware 2025: impennata degli investimenti negli Stati Uniti e broker che alimentano i rischi di proliferazione - debugliesintel](https://www.debugliesintel.com/mercato-globale-dello-spyware-2025-impennata-degli-investimenti-negli-stati-uniti-e-broker-che-alimentano-i-rischi-di-proliferazione/)
 - 🆕 Menzionato · pr-foundation.org — [Bilancio 2021 Fondazione - P&R Foundation](http://www.pr-foundation.org/bilancio-2021-fondazione/)
+- 🆕 Menzionato · 2020.itasec.it — [ITASEC 2020 | ITASEC20, ad Ancona formazione in cybersecurity specifica per giornalisti](https://2020.itasec.it/itasec20-ancona-formazione-cybersecurity-giornalisti/)
+- 🆕 Menzionato · pressgazette.co.uk — [Chance for Europe to protect whistleblowers and fight corruption after Football Leaks source charged](https://pressgazette.co.uk/comment-analysis/chance-for-europe-to-protect-whistleblowers-and-fight-corruption-after-football-leaks-source-charged/)
+- 🆕 Menzionato · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (2)](https://www.exploit-db.com/exploits/21747)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)
