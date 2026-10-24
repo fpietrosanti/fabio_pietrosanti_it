@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1636**; dopo deduplica: **1190**
+- Risultati grezzi dalle ricerche: **1640**; dopo deduplica: **1194**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1135**
-- Verificati aprendo la pagina: **1124**; solo da risultato di ricerca: **66**
+- **Nuovi rispetto al vecchio sito: 1139**
+- Verificati aprendo la pagina: **1128**; solo da risultato di ricerca: **66**
 
-Per tipo (nuovi): Menzionato 241, tweet 132, Talk 92, Video 78, Post sul blog infosecurity.ch 72, Citato 67, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 244, tweet 132, Talk 92, Video 78, Post sul blog infosecurity.ch 72, Citato 68, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -38,17 +38,17 @@ Per tipo (nuovi): Menzionato 241, tweet 132, Talk 92, Video 78, Post sul blog in
 | 2017 | 0 | 86 | 86 |
 | 2018 | 0 | 88 | 88 |
 | 2019 | 0 | 72 | 72 |
-| 2020 | 0 | 177 | 177 |
+| 2020 | 0 | 178 | 178 |
 | 2021 | 0 | 90 | 90 |
 | 2022 | 0 | 68 | 68 |
 | 2023 | 0 | 19 | 19 |
 | 2024 | 0 | 12 | 12 |
-| 2025 | 0 | 13 | 13 |
-| 2026 | 0 | 43 | 43 |
+| 2025 | 0 | 14 | 14 |
+| 2026 | 0 | 44 | 44 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 43 voci, 43 nuove
+## 2026 — 44 voci, 44 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
@@ -120,6 +120,8 @@ Anni senza nessun risultato: nessuno
   Verified by fetch: "Fabio Pietrosanti, president of the Hermes Center for Transparency and Digital Human Rights, has said that spyware is deployed more frequently in Italy than anywhere else in Europe..." (follow-up of The Record 2024).
 - 🆕 **2026-04** · Citato · SecNews.gr — [WhatsApp: Italian Spyware Company Created Fake iOS Version](https://www.secnews.gr/en/700557/whatsapp-italiki-spyware-fake-app/)  
   verified via live; context: …for extensive surveillance activities . Italy appears to be developing into one of the most “active” areas of surveillance software use in Europe, according to Fabio Pietrosanti . As he points out, low costs and a more f… Ripresa (versione inglese di SecNews) dell'articolo TNW 04/2026 su SIO/finto WhatsApp; data stimata dalla notizia originale.
+- 🆕 **2026-04** · Citato · secnews.gr — [WhatsApp: Ιταλική εταιρεία Spyware δημιούργησε ψεύτικη IOS έκδοση](https://www.secnews.gr/700557/whatsapp-italiki-spyware-pseutiko-app/)  
+  verified via live; context: …δραστηριότητες παρακολούθησης . Η Ιταλία φαίνεται να εξελίσσεται σε ένα από τα πιο «ενεργά» πεδία χρήσης λογισμικού παρακολούθησης στην Ευρώπη, σύμφωνα με τον Fabio Pietrosanti . Όπως επισημαίνει, το χαμηλό κόστος και το… | Versione greca dell'articolo secnews.gr già in archivio in inglese (stessa data 04/2026).
 - 🆕 **2026-03-18** · Talk · Centro per la Riforma dello Stato (CRS), Roma — [Presentazione del 'Manualetto di sicurezza digitale' (locandina)](https://centroriformastato.it/wp-content/uploads/2026/03/Manualetto-sicurezza-digitale_locandina-18-mar-2026-1.pdf)  
   verified via pdftotext (Google 2026-10-12 20:29); context: Lo presenta Sonia Montegiove. Ne discutono Stefano Chiccarelli, Arturo Di Corinto, Fabio Pietrosanti. Coordina Giulio De Petra
 - 🆕 **2026-03-18** · Talk · Centro per la Riforma dello Stato, Roma (announced on dicorinto.it) — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Rete)](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/)  
@@ -137,7 +139,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2026** · Menzionato · make-ai-good.org — [Hermes Center for Transparency and Digital Human Rights — Make AI Good (graph)](https://make-ai-good.org/graph/org-hermes-center/)  
   verified via live; context: …s network it has belonged to since 2018. Founding and structure Hermes was formally registered in 2012 after the GlobaLeaks project — initiated in late 2010 by Fabio Pietrosanti and shared into the Italian hacktivist com… | scheda del grafo Make AI Good: GlobaLeaks avviato da Fabio Pietrosanti nel 2010
 
-## 2025 — 13 voci, 13 nuove
+## 2025 — 14 voci, 14 nuove
 
 - 🆕 **2025-08-13** · Libro · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Author: Bruce L. Mann (ISBN 9798337331287). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking, Boing ...'.
@@ -159,6 +161,8 @@ Anni senza nessun risultato: nessuno
   Ri-verificato via JSON RaiPlay (programma tv7, 1749 voci): descrizione con refuso «dalla Cina, con l'hacker Fabio Pietrasanti, esperto di cybersecurity». Unica voce Tv7 con il nome (cercata anche la grafia Pietrasanti).
 - 🆕 **2025-01-16** · Podcast · Rai Radio 1 / RaiPlay Sound - Codice Beta — [Codice Beta S04EP08 Io, biohacker, che testo sul mio corpo i segreti della longevità](https://www.raiplaysound.it/audio/2025/01/Codice-Beta-S04EP08-Io-biohacker-che-testo-sul-mio-corpo-i-segreti-della-longevita-42dd7997-10f4-4587-8767-e51e5fec0fbb.html)  
   Ri-verificato 2026-10-12 via JSON RaiPlay Sound (.json della puntata e lista completa del programma codicebeta-ognicosaedigitale, 70 puntate 2020-2025): descrizione «Ospite: Fabio Pietrosanti, detto Naif, biohacker...». create_date nel JSON 16-01-2025 (media.json ha 2025-01-17). Unica puntata di Codice Beta che lo nomina.
+- 🆕 **2025-01-05** · Menzionato · hackingbiology.com — [Speciale Tg1: pionieri della longevità — Biohacker](https://hackingbiology.com/news/speciale-tg1-pionieri-longevita-2025/)  
+  verified via wayback; context: …tà — Biohacker" 5 January 2025 · 1 min read Rai 1's Speciale Tg1, by Barbara Carfagna, devoted a report to biohacking and longevity, following the practices of Fabio Pietrosanti — known as naif — as one of the field's pi… | Pagina news di HackingBiology sullo Speciale Tg1 (Rai 1, Barbara Carfagna) del 05/01/2025.
 - 🆕 **2025-01-05** · TV · Rai 1 - Speciale Tg1 — [Pionieri di longevità - Biohacker - Speciale Tg1, puntata del 05/01/2025](https://www.raiplay.it/video/2025/01/Speciale-Tg1---Pionieri-di-longevita-Biohacker---Puntata-del-05012025-296d47d6-0a82-4988-8734-aaf1b31b0f6e.html) _(non verificato)_  
   INFERRED, NOT VERIFIED. Rai 1 special (integrale 01:06:21) on biohackers; same Carfagna production period and same cast (Aubrey de Grey, Teemu Arina) as Codice Beta 17/01/2025 where he is the named guest. The RaiPlay description does not name him; video content not checked.
 - 🆕 **2025-01-05** · TV · Rai 1 - Tg1 (servizio di Barbara Carfagna) — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html)  
@@ -556,7 +560,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
 
-## 2020 — 177 voci, 177 nuove
+## 2020 — 178 voci, 178 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -854,6 +858,8 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …one. È un vero e proprio atto di sciacallaggio, di cui a emergenza (sanitaria prima e democratica poi) finita a questo signore bisognerà chiedere conto”. Anche Fabio Pietrosanti , notissimo consulente in cybersecurity it…
 - 🆕 **2020-03-03** · tweet · Twitter — [Articolo di Casaleggio sul Sole 24 Ore (voto online): violazione deontologica?](https://twitter.com/fpietrosanti/status/1235147877220880385)  
   Testo: «@faffa42 @sonoclaudio @sole24ore @casaleggio Sarebbe necessario valutare la violazione di criteri deontologici della categoria giornalistica, con relativa segnalazione agli organi competenti.  Trattasi di articolo di un leader politico, @gbgallus @arturodicorinto @Luke_like ci sono violazioni ?» Wayback capture 20200304102343 (id_) di twitter.com/fpietrosanti/status/1235147877220880385.
+- 🆕 **2020-02-25** · Menzionato · wired.it — [Ecco come la Corea del Nord usa il digitale per aggirare le sanzioni - Wired](https://www.wired.it/internet/web/2020/02/25/corea-nord-sanzioni-digitale/)  
+  verified via wayback; context: …ginale manca quest’ultima frase. Probabilmente il riferimento è alle attività imprenditoriali coltivate nel Paese da alcuni imprenditori tra i quali l’italiano Fabio Pietrosanti, che in Corea del Nord sviluppa tecnologie…
 - 🆕 **2020-02-22** · articolo · Fondazione AIDR (Osservatorio Trasparenza e Anticorruzione) — [Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della Pubblica Amministrazione](https://www.aidr.it/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/)  
   Ripubblicazione su aidr.it, a firma Laura Strano e Andrea Borruso, dello stesso documento onData. Fabio Pietrosanti compare nell'elenco dei promotori della segnalazione e delle due proposte ad ANAC / Ministra per l'innovazione / AgID.
 - 🆕 **2020-02-20** · documento · onData APS — [Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della Pubblica Amministrazione](https://www.ondata.it/trasparenza/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/)  
@@ -2448,6 +2454,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · 2020.itasec.it — [ITASEC 2020 | ITASEC20, ad Ancona formazione in cybersecurity specifica per giornalisti](https://2020.itasec.it/itasec20-ancona-formazione-cybersecurity-giornalisti/)
 - 🆕 Menzionato · pressgazette.co.uk — [Chance for Europe to protect whistleblowers and fight corruption after Football Leaks source charged](https://pressgazette.co.uk/comment-analysis/chance-for-europe-to-protect-whistleblowers-and-fight-corruption-after-football-leaks-source-charged/)
 - 🆕 Menzionato · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (2)](https://www.exploit-db.com/exploits/21747)
+- 🆕 Menzionato · pr-foundation.org — [La nostra Fondazione sospende le attività a seguito del lockdown per la pandemia - P&R Foundation](http://www.pr-foundation.org/la-nostra-fondazione-sospende-le-attivita-seguito-del-lockdown/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

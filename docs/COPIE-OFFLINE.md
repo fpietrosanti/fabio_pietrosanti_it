@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1190**; già processate: **1367**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1003** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1130**
+- Voci in `data/media.json`: **1194**; già processate: **1371**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1007** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1134**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **3**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -21,7 +21,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 68 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 69 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -45,13 +45,13 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 85 | 5 | 1 | 0 | 0 | 0 | 0 |
 | 2018 | 75 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 89 | 3 | 0 | 0 | 0 | 0 | 2 |
-| 2020 | 168 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 169 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 56 | 15 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2025 | 7 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 44 | 3 | 0 | 1 | 0 | 0 | 0 |
+| 2025 | 8 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2026 | 45 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -329,6 +329,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 ## Fonti ottenute in locale
 
 - **None** · pr-foundation.org — [Bilancio 2021 Fondazione - P&R Foundation](http://www.pr-foundation.org/bilancio-2021-fondazione/) · copia: `undated/a12a9438b2e6` (Web Archive 20230922) · licenza: terzi
+- **None** · pr-foundation.org — [La nostra Fondazione sospende le attività a seguito del lockdown per la pandemia - P&R Fou](http://www.pr-foundation.org/la-nostra-fondazione-sospende-le-attivita-seguito-del-lockdown/) · copia: `undated/70706e15391a` (Web Archive 20210619) · licenza: terzi
 - **None** · 2020.itasec.it — [ITASEC 2020 | ITASEC20, ad Ancona formazione in cybersecurity specifica per giornalisti](https://2020.itasec.it/itasec20-ancona-formazione-cybersecurity-giornalisti/) · copia: `undated/6222657a4e39` (Web Archive 20241015) · licenza: terzi
 - **None** · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html) · copia: `undated/4a11e866d9e4` (live) · licenza: terzi
 - **None** · cfp.romhack.io — [RomHack Camp 2026
@@ -1320,6 +1321,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Valigia Blu — [Come CIA e servizi segreti tedeschi hanno spiato alleati e avversari vendendo macchine ant](https://www.valigiablu.it/cia-germania-spionaggio-alleati/) · copia: `2020/3623df8bfee3` (Web Archive 20200327) · licenza: terzi
 - **2020** · wired.it — [Come sono riuscito a votare due volte su Rousseau - Wired](https://www.wired.it/attualita/politica/2020/08/19/rousseau-voto-piattaforma/) · copia: `2020/047d81756b8a` (Web Archive 20200819) · licenza: terzi
 - **2020** · wired.it — [Casaleggio ha espulso l'iscritto grazie al quale abbiamo votato due volte su Rousseau - Wi](https://www.wired.it/attualita/politica/2020/10/23/rousseau-espulsione-iscritto-doppio-voto-casaleggio/) · copia: `2020/cee82319fca6` (Web Archive 20201028) · licenza: terzi
+- **2020** · wired.it — [Ecco come la Corea del Nord usa il digitale per aggirare le sanzioni - Wired](https://www.wired.it/internet/web/2020/02/25/corea-nord-sanzioni-digitale/) · copia: `2020/10042c1a45f1` (Web Archive 20200309) · licenza: terzi
 - **2020** · YouTube (Partito Pirata Italiano) — [Trump, il «Massacro di Mercoledì Notte» e le comunità italiane del software libero (#SaveI](https://www.youtube.com/watch?v=5gzZtHhTBB0) · copia: `2020/c03516051e35` (Web Archive 20220821 · video locale `media.mp4` (976 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao Internet - Matteo Flora (YouTube) — [781. OpenRousseau e Open-Democracy: esiste davvero un modo di avere un sistema trasparente](https://www.youtube.com/watch?v=HKFkvkZCvrQ) · copia: `2020/a90e3002b3b1` (yt-dlp · video locale `media.mp4` (172 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Mojo Italia (YouTube) — [Come difendere il proprio smartphone](https://www.youtube.com/watch?v=JMxc3mgAO7E) · copia: `2020/47d15b9a4026` (live · video locale `media.mp4` (1,298 MB, da caricare su Drive)) · licenza: terzi
@@ -1520,6 +1522,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2025** · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ) · copia: `2025/b45354d8cd4a` (Web Archive 20250911) · licenza: terzi
 - **2025** · Oxford University Press — [Political Automation: An Introduction to AI in Government and Its Impact on Citizens](https://books.google.com/books?id=xRREEQAAQBAJ) · copia: `2025/3867298f9527` (live) · licenza: terzi
 - **2025** · hackingbiology.com — [Radio Rai: intervista a Codice Beta — Ogni cosa è digitale (2025)](https://hackingbiology.com/news/radio-rai-codice-beta-2025/) · copia: `2025/ab3bb3414371` (Web Archive 20260924) · licenza: terzi
+- **2025** · hackingbiology.com — [Speciale Tg1: pionieri della longevità — Biohacker](https://hackingbiology.com/news/speciale-tg1-pionieri-longevita-2025/) · copia: `2025/6460a41dcc53` (Web Archive 20260924) · licenza: terzi
 - **2025** · info.nodes ETS (report attività 2024) — [Report attività 2024 - board](https://irp.cdn-website.com/6c73ff89/files/uploaded/Report_attivit%C3%A0_2024.pdf) · copia: `2025/95d4da4c16f9` (live) · licenza: terzi
 - **2025** · Facebook – pagina «Codice Barbara Carfag — [Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Al](https://www.facebook.com/giornalistaRaiuno/videos/-quando-anche-il-biohacker-fabio-pietrosanti-ha-bisogno-di-una-sistemata-ci-pens/4033172536901428/) · copia: `2025/71f0893eb32f` (live · video locale `media.mp4` (1 MB, da caricare su Drive)) · licenza: terzi
 - **2025** · Rai 1 - Tg1 (servizio di Barbara Carfagn — [I miliardari dell'era digitale finanziano la ricerca per vivere più a lungo](https://www.rainews.it/video/2025/01/miliardari-era-digitale-finanziano-la-ricerca-per-vivere-piu-a-lungo-f3c5a320-4ff4-4637-af52-68b30972bc50.html) · copia: `2025/042e06a82d08` (live · video locale `video.mp4` (0 MB, da caricare su Drive)) · licenza: terzi
@@ -1567,6 +1570,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · Cyber Security 360 — [Ciao, Carola](https://www.cybersecurity360.it/cultura-cyber/ciao-carola/) · copia: `2026/d6c235f32bf3` (Web Archive 20260604) · licenza: propria
 - **2026** · Autorita Garante per la Protezione dei D — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html) · copia: `2026/2a9036b3ef9e` (Web Archive 20260121) · licenza: terzi
 - **2026** · OrlandoMagazine.it — [L'utilità è il futuro. E il futuro è biohacking](https://www.orlandomagazine.it/2026/09/18/lutilita-e-il-futuro-e-il-futuro-e-biohacking/) · copia: `2026/66ee8a0d68ea` (live) · licenza: terzi
+- **2026** · secnews.gr — [WhatsApp: Ιταλική εταιρεία Spyware δημιούργησε ψεύτικη IOS έκδοση](https://www.secnews.gr/700557/whatsapp-italiki-spyware-pseutiko-app/) · copia: `2026/d9250be8c6d3` (live) · licenza: terzi
 - **2026** · SecNews.gr — [WhatsApp: Italian Spyware Company Created Fake iOS Version](https://www.secnews.gr/en/700557/whatsapp-italiki-spyware-fake-app/) · copia: `2026/477049d95612` (live) · licenza: terzi
 - **2026** · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, ](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/) · copia: `2026/7468ee43a638` (live) · licenza: terzi
 - **2026** · Sohu 搜狐号 (时光派, 100270039) — [倒计时！第七届国际长寿论坛9月启幕，顶尖学者齐聚、长寿产业荟萃、多元生态升级，时光派邀您共建长寿生态](https://www.sohu.com/a/1067664696_100270039) · copia: `2026/3ed9e3a20ed7` (live) · licenza: terzi

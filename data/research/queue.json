@@ -2467,51 +2467,115 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" 2003 OR 2004 OR 2005 \"Linux Day\" OR LUG OR \"software libero\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)",
+      "done": "2026-10-24 12:34",
+      "found": 0
     },
     {
       "query": "\"Pietrosanti\" Tor2web 2008 OR 2009 OR 2010",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)",
+      "done": "2026-10-24 12:34",
+      "found": 0
     },
     {
       "query": "\"Fabio Pietrosanti\" sikurezza.org OR \"Sikurezza\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)",
+      "done": "2026-10-24 12:34",
+      "found": 0
     },
     {
       "query": "\"Fabio Pietrosanti\" 2006 OR 2007 OR 2008 \"Punto Informatico\" OR Wired",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)",
+      "done": "2026-10-24 12:34",
+      "found": 0
     },
     {
       "query": "\"Fabio Pietrosanti\" 2023 OR 2024 \"Il Fatto Quotidiano\" OR Repubblica OR Corriere",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)",
+      "done": "2026-10-24 12:34",
+      "found": 1
     },
     {
       "query": "\"Fabio Pietrosanti\" Paragon OR Graphite spyware 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)",
+      "done": "2026-10-24 12:34",
+      "found": 1
     },
     {
       "query": "\"Fabio Pietrosanti\" Copernicani 2023 OR 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)",
+      "done": "2026-10-24 12:34",
+      "found": 1
     },
     {
       "query": "\"Fabio Pietrosanti\" Rai OR \"Report\" OR \"Presa Diretta\" 2023 OR 2024 OR 2025",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)",
+      "done": "2026-10-24 12:34",
+      "found": 1
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Corea del Nord\" OR Pyongyang OR nordcoreano",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso)"
+    },
+    {
+      "query": "\"Pietrosanti\" \"North Korea\" OR Pyongyang OR DPRK technology",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" ANSA OR Adnkronos OR AGI OR Askanews",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso)"
+    },
+    {
+      "query": "\"Pietrosanti\" GlobaLeaks Spiegel OR \"Le Monde\" OR \"El País\" OR Süddeutsche OR Libération",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso)"
+    },
+    {
+      "query": "\"Pietrosanti\" spyware Italia 2026 Paragon OR SIO OR \"app falsa\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Mastodon OR fediverso OR \"software libero\" 2022 OR 2023 OR 2024",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso)"
+    },
+    {
+      "query": "\"Pietrosanti\" \"BFi\" OR \"Butchered From Inside\" OR s0ftpj naif",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" GlobaLeaks Deutsch OR français OR español entrevista OR interview",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso)"
     }
   ],
   "history": [
@@ -3295,6 +3359,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. 8 query pending (anni deboli: 2003-04 convegni, Metro Olografix/Hackmeeting/s0ftpj 2003-05, VoIP/Skype 2006-07, crittografia/GSM 2008, direttiva/decreto 24 2023, GlobaLeaks/WBS 2024, hacker/spyware 2025, GlobaLeaks interview 2023-25) senza robot check: 70 risultati, 63 URL distinti, 32 già in archivio, già decisi o già respinti. Scartati senza verifica: LinkedIn ×5, x.com, threads (social), lists.linux.it, seclists author index, hyperkitty nexa (mailing list), indici/tag (dalchecco ×8, dicorinto tag, puntosicuro page, it.euronews location), wikiwand (mirror Wikipedia già in archivio), principigrimaldi amministrazione trasparente (atto amministrativo), infosecurity.ch (sito proprio), elgaronline downloadpdf (stesso PDF 9781802202106 già FAIL). 4 candidati verificati: 2 OK dallo script ma esclusi in decisions.json (SlideShare 'Mobile device security' di altro autore: nome solo nei correlati; indice sessioni GIJC13 list/descriptions). Respinti (nome assente): 2 deck SlideShare (smart-phone security, LoRa STM32). Nessuna nuova voce, nessuna nuova copia (archive_copies: pending 0). Rendimento ormai nullo da due giri: le query per anno ripescano quasi solo voci note. Coda esaurita: aggiunte 8 query con angoli nuovi."
+    },
+    {
+      "date": "2026-10-24 12:34",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 4,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. 8 query pending (Linux Day/LUG 2003-05, Tor2web 2008-10, Sikurezza, Punto Informatico/Wired 2006-08, quotidiani 2023-24, Paragon/Graphite 2025, Copernicani 2023-25, Rai/Report/Presa Diretta 2023-25) senza robot check: 82 risultati, 74 URL distinti, 9 social scartati, 46 già in archivio, già decisi o già respinti. Scartati senza verifica: indici (puntosicuro page-20, personaldemocracy speakers p.21, hackingbiology.com/news, dicorinto tag ×2, raiplaysound programma Codice Beta), amministrazione trasparente di 3 scuole (atti amministrativi), infosecurity.ch (sito proprio), profilo SlideShare. 6 candidati verificati: 4 nuove voci: wired.it 25/02/2020 'Ecco come la Corea del Nord usa il digitale per aggirare le sanzioni' (citato per le attività in Corea del Nord), P&R Foundation 'sospende le attività per il lockdown' (elenco partecipanti, data presunta 03/2020), secnews.gr versione greca dell'articolo spyware/WhatsApp 04/2026 (inglese già in archivio), hackingbiology.com Speciale Tg1 05/01/2025. Escluso (omonimo, in decisions.json): romanzo Amazon 'Hodex: Codice Rosso' (2020). Respinto (nome assente): attivissimo.blogspot 2022/06. 4 nuove copie offline (3 wayback, 1 live). Coda esaurita: aggiunte 8 query (Corea del Nord, agenzie, stampa estera, fediverso, BFi/s0ftpj)."
     }
   ]
 }
