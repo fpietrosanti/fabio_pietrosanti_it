@@ -906,6 +906,14 @@
   {
    "url": "https://gijc13.sched.com/directory/descriptions/5",
    "reason": "2026-10-24: indice directory relatori GIJC13 (pagina 5); la speaker page e la sessione di Fabio sono già in archivio → indice, non una voce"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/mobile-device-security-63066643/63066643",
+   "reason": "2026-10-24: deck SlideShare di un altro autore; il nome compare solo nella barra 'correlati' (2010: Mobile Security - Intense overview, già in archivio) → non una voce"
+  },
+  {
+   "url": "https://gijc13.sched.com/list/descriptions",
+   "reason": "2026-10-24: indice elenco sessioni GIJC13 con le descrizioni; speaker page e sessione di Fabio già in archivio → indice, non una voce"
   }
  ],
  "override": [

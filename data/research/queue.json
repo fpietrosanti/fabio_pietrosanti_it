@@ -2411,51 +2411,107 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" 2003 OR 2004 sicurezza informatica convegno OR seminario",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)"
+      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)",
+      "done": "2026-10-24 08:34"
     },
     {
       "query": "\"Pietrosanti\" naif \"Metro Olografix\" OR \"Hackmeeting\" OR \"s0ftpj\" 2003 OR 2004 OR 2005",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)"
+      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)",
+      "done": "2026-10-24 08:34"
     },
     {
       "query": "\"Fabio Pietrosanti\" 2006 OR 2007 VoIP OR Skype intercettazioni",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)"
+      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)",
+      "done": "2026-10-24 08:34"
     },
     {
       "query": "\"Fabio Pietrosanti\" 2008 crittografia OR cellulari OR GSM",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)"
+      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)",
+      "done": "2026-10-24 08:34"
     },
     {
       "query": "\"Fabio Pietrosanti\" 2023 whistleblowing direttiva OR \"decreto 24\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)"
+      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)",
+      "done": "2026-10-24 08:34"
     },
     {
       "query": "\"Fabio Pietrosanti\" 2024 GlobaLeaks OR \"Whistleblowing Solutions\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)"
+      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)",
+      "done": "2026-10-24 08:34"
     },
     {
       "query": "\"Fabio Pietrosanti\" 2025 hacker OR cybersecurity OR spyware",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)"
+      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)",
+      "done": "2026-10-24 08:34"
     },
     {
       "query": "\"Pietrosanti\" GlobaLeaks interview 2023 OR 2024 OR 2025",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)",
+      "done": "2026-10-24 08:34"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2003 OR 2004 OR 2005 \"Linux Day\" OR LUG OR \"software libero\"",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 04:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno)"
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+    },
+    {
+      "query": "\"Pietrosanti\" Tor2web 2008 OR 2009 OR 2010",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" sikurezza.org OR \"Sikurezza\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2006 OR 2007 OR 2008 \"Punto Informatico\" OR Wired",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2023 OR 2024 \"Il Fatto Quotidiano\" OR Repubblica OR Corriere",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Paragon OR Graphite spyware 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Copernicani 2023 OR 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Rai OR \"Report\" OR \"Presa Diretta\" 2023 OR 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 08:34: coda esaurita; anni più deboli in media.json (2003-2008: 8-14 voci/anno; 2023-2025: 12-19 voci/anno); angoli nuovi (testate, LUG, Tor2web, Paragon)"
     }
   ],
   "history": [
@@ -3231,6 +3287,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. 8 query pending (Hermes intercettazioni panel 2016-17, WhistleblowingPA 2018-19, GlobaLeaks tesi, interviste 2024, interviste 2025, conferenze Berlino/Vienna/Bruxelles/Amsterdam, Hermes con Amnesty/Privacy International/EDRi, naif intervista 2008-10) senza robot check: 68 risultati, 57 URL distinti dopo scarto social, 43 già in archivio, già decisi o già respinti. Scartati senza verifica: forum.italia.it ×2, hyperkitty nexa, lists.torproject (mailing list), indici/tag (snobnonpertutti autore, personaldemocracy speakers, it.euronews location, argomenti.ilsole24ore tag). 6 candidati verificati: 4 OK dallo script ma tutti esclusi in decisions.json (speaker page IJF di Philip Di Salvo, Fabio Chiusi, Claudio Agosti: sessioni IJF12/IJF15 già in archivio; indice directory GIJC13 p.5). Respinti (nome assente): PDF OSCE 263301, Whistleblowing Solutions bilancio 2025. Nessuna nuova voce, nessuna nuova copia. Coda esaurita: aggiunte 8 query sugli anni più deboli (2003-2008, 2023-2025)."
+    },
+    {
+      "date": "2026-10-24 08:34",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 0,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. 8 query pending (anni deboli: 2003-04 convegni, Metro Olografix/Hackmeeting/s0ftpj 2003-05, VoIP/Skype 2006-07, crittografia/GSM 2008, direttiva/decreto 24 2023, GlobaLeaks/WBS 2024, hacker/spyware 2025, GlobaLeaks interview 2023-25) senza robot check: 70 risultati, 63 URL distinti, 32 già in archivio, già decisi o già respinti. Scartati senza verifica: LinkedIn ×5, x.com, threads (social), lists.linux.it, seclists author index, hyperkitty nexa (mailing list), indici/tag (dalchecco ×8, dicorinto tag, puntosicuro page, it.euronews location), wikiwand (mirror Wikipedia già in archivio), principigrimaldi amministrazione trasparente (atto amministrativo), infosecurity.ch (sito proprio), elgaronline downloadpdf (stesso PDF 9781802202106 già FAIL). 4 candidati verificati: 2 OK dallo script ma esclusi in decisions.json (SlideShare 'Mobile device security' di altro autore: nome solo nei correlati; indice sessioni GIJC13 list/descriptions). Respinti (nome assente): 2 deck SlideShare (smart-phone security, LoRa STM32). Nessuna nuova voce, nessuna nuova copia (archive_copies: pending 0). Rendimento ormai nullo da due giri: le query per anno ripescano quasi solo voci note. Coda esaurita: aggiunte 8 query con angoli nuovi."
     }
   ]
 }
