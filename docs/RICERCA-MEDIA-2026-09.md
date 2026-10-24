@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1640**; dopo deduplica: **1194**
+- Risultati grezzi dalle ricerche: **1642**; dopo deduplica: **1196**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1139**
-- Verificati aprendo la pagina: **1128**; solo da risultato di ricerca: **66**
+- **Nuovi rispetto al vecchio sito: 1141**
+- Verificati aprendo la pagina: **1130**; solo da risultato di ricerca: **66**
 
-Per tipo (nuovi): Menzionato 244, tweet 132, Talk 92, Video 78, Post sul blog infosecurity.ch 72, Citato 68, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 9, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 245, tweet 132, Talk 92, Video 78, Post sul blog infosecurity.ch 72, Citato 68, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -33,10 +33,10 @@ Per tipo (nuovi): Menzionato 244, tweet 132, Talk 92, Video 78, Post sul blog in
 | 2012 | 0 | 37 | 37 |
 | 2013 | 0 | 33 | 33 |
 | 2014 | 0 | 29 | 29 |
-| 2015 | 0 | 45 | 45 |
+| 2015 | 0 | 46 | 46 |
 | 2016 | 0 | 30 | 30 |
 | 2017 | 0 | 86 | 86 |
-| 2018 | 0 | 88 | 88 |
+| 2018 | 0 | 89 | 89 |
 | 2019 | 0 | 72 | 72 |
 | 2020 | 0 | 178 | 178 |
 | 2021 | 0 | 90 | 90 |
@@ -1066,7 +1066,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Menzionato · whistleblowing.fund — [Digital Whistleblowing Fund — Jury (Round 3)](https://whistleblowing.fund/jury/)  
   verificato 2026-10-14: Fabio Pietrosanti (GlobaLeaks) nella giuria del Round 3 del Digital Whistleblowing Fund (anno stimato ~2019; bandi 2017-2020)
 
-## 2018 — 88 voci, 88 nuove
+## 2018 — 89 voci, 89 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -1190,6 +1190,8 @@ Anni senza nessun risultato: nessuno
   Spanish-language edition of the known Euronews Italian Kaspersky report. Page description: 'Según Fabio Pietrosanti, que es el presidente del Centro para la Transparencia y los Derechos Humanos, todas las agencias de seguridad italianas usan y utilizan el software antivirus Kaspersky.' Also on Dailymotion (euronews en español): https://www.dailymotion.com/video/x6hfo9a . Wayback CDX shows no equivalent April 2018 page on the en/fr/de/pt/ru/tr/gr/hu/fa/ar editions.
 - 🆕 **2018-04-05** · TV · Euronews (in Italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://www.youtube.com/watch?v=gcROTSHQW4A)  
   Out of slice (incidental): Euronews interview on Kaspersky in Italian public administration
+- 🆕 **2018-04** · Intervista · Banco Interamericano de Desarrollo / GovLab NYU — [Smarter Crowdsourcing for Anti-corruption: Manual de propuestas legales, técnicas y de políticas innovadoras (México)](https://anticorruption.smartercrowdsourcing.org/files/scac-es_web.pdf)  
+  verificato a mano col PDF (pdftotext): citato due volte come 'Fabio Pietrosanti, miembro fundador y presidente del Centro Hermes' su piattaforme di whistleblowing verticali (GlobaLeaks + Transparency International Italia); nota 112: 'Entrevista con Fabio Pietrosanti ... 1 de agosto de 2017'. Copia speculare su academia.edu/37989642 non aggiunta.
 - 🆕 **2018-03-26** · Talk · Hermes Center for Transparency and Digital Human Rights — [Software di Whistleblowing Digitale GlobaLeaks al MERGE-IT](https://hermescenter.org/software-di-whistleblowing-digitale-globaleaks-al-merge-it/)  
   GlobaLeaks a MERGE-IT, incontro delle comunità italiane del software libero. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.
 - 🆕 **2018-03-24** · Slide · MERGE-it 2018, Torino — [GlobaLeaks - Storia, Evoluzione, Modello di Sostenibilità Economica (slides)](https://merge-it.net/2018/talks/globaleaks/slides.pdf)  
@@ -1483,7 +1485,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · Talk · Internet Freedom Festival 2016 (IFF), Valencia (1-6 marzo 2016) - IFF Wiki — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks](https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks)  
   Pagina della sessione sull'IFF Wiki: «Presenter(s) Fabio Pietrosanti ... Organization(s) Hermes Center for Transparency and Digital Human Rights ... Country(ies) Italy»; formato Conversation, 1 ora, track Tools & Technology; descrizione sull'avvio di iniziative di whistleblowing («supporting more than 30 whistleblowing projects using GlobaLeaks in +20 countries»). Verificata su Wayback 20210620025940 (la pagina live oggi è 404). La sessione con questo titolo compare nell'elenco «IFF Schedule» dell'edizione 2016 (Wayback 20160525224224, https://internetfreedomfestival.org/wiki/index.php/IFF_Schedule), che però riporta solo il titolo; il campo «2017 theme» della pagina è un artefatto del template wiki. Data esatta della sessione non trovata (lo schedule con orari stava su una pagina esterna non archiviata).
 
-## 2015 — 45 voci, 45 nuove
+## 2015 — 46 voci, 46 nuove
 
 - 🆕 **2015-11-02** · Citato · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/)  
   verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…
@@ -1569,6 +1571,8 @@ Anni senza nessun risultato: nessuno
   Livestream recording of the Nexa seminar
 - 🆕 **2015-02-23** · Citato · Wired Italia — [Gli USA contro il Dark Web. Ma i terroristi preferiscono la Rete normale](https://www.wired.it/internet/web/2015/02/23/gli-usa-contro-il-dark-web-ma-i-terroristi-preferiscono-la-rete-normale/)  
   Carola Frediani piece; he explains that 30,000 hidden services are more like IP addresses than websites
+- 🆕 **2015-02** · Menzionato · lumieresurgaia.com — [Dossiers NSA / Tails - L'anonymat En Ligne Version Ultime - Lumière Sur Gaia](https://lumieresurgaia.com/2015/02/dossier-nsa-tails-lanonymat-en-ligne-version-ultime/)  
+  verified via live; context: …Leaks , un outil de dénonciation des atteintes à la faune sauvage, qu’à PubLeaks , une plateforme mutualisée rassemblant une quarantaine de médias néerlandais. Fabio Pietrosanti, l’un des développeurs d’une plateforme à …
 - 🆕 **2015-01-07** · Citato · Wired Italia — [Slur, la piattaforma che vende le fughe di notizie](https://www.wired.it/attualita/media/2015/01/07/slur-vendita-fughe-notizie/)  
   He criticises the leak-selling platform Slur as spying/extortion rather than whistleblowing
 - 🆕 **2015-01** · Report · Dyne.org (software manual) — [Jaro Mail 3.2 manual](https://archive.org/details/manualzilla-id-5679480)  

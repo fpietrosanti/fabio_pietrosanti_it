@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2015-02",
+    "year": 2015,
+    "type": "mentioned",
+    "outlet": "lumieresurgaia.com",
+    "title": "Dossiers NSA / Tails - L'anonymat En Ligne Version Ultime - Lumière Sur Gaia",
+    "url": "https://lumieresurgaia.com/2015/02/dossier-nsa-tails-lanonymat-en-ligne-version-ultime/",
+    "language": "fr",
+    "role": "subject",
+    "note": "verified via live; context: …Leaks , un outil de dénonciation des atteintes à la faune sauvage, qu’à PubLeaks , une plateforme mutualisée rassemblant une quarantaine de médias néerlandais. Fabio Pietrosanti, l’un des développeurs d’une plateforme à …",
+    "verified": true,
+    "known": false
+  },
+  {
+    "date": "2018-04",
+    "year": 2018,
+    "type": "interview",
+    "outlet": "Banco Interamericano de Desarrollo / GovLab NYU",
+    "title": "Smarter Crowdsourcing for Anti-corruption: Manual de propuestas legales, técnicas y de políticas innovadoras (México)",
+    "url": "https://anticorruption.smartercrowdsourcing.org/files/scac-es_web.pdf",
+    "language": "es",
+    "role": "subject",
+    "note": "verificato a mano col PDF (pdftotext): citato due volte come 'Fabio Pietrosanti, miembro fundador y presidente del Centro Hermes' su piattaforme di whistleblowing verticali (GlobaLeaks + Transparency International Italia); nota 112: 'Entrevista con Fabio Pietrosanti ... 1 de agosto de 2017'. Copia speculare su academia.edu/37989642 non aggiunta.",
+    "verified": true,
+    "known": false
+  }
+]

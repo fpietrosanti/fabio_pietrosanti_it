@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1194**; già processate: **1371**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1007** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1134**
+- Voci in `data/media.json`: **1196**; già processate: **1373**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1009** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1136**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **3**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -40,10 +40,10 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 28 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2015 | 38 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 2015 | 39 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 85 | 5 | 1 | 0 | 0 | 0 | 0 |
-| 2018 | 75 | 17 | 1 | 0 | 0 | 0 | 0 |
+| 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 89 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 169 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
@@ -807,6 +807,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · CCC Camp 2015 Wiki — [Projects:GlobaLeaks](https://events.ccc.de/camp/2015/wiki/Projects:GlobaLeaks) · copia: `2015/f84e72f2ed5c` (Web Archive 20150711) · licenza: propria
 - **2015** · Chaos Communication Camp 2015 Wiki — [Village:Italian Embassy](https://events.ccc.de/camp/2015/wiki/Village:Italian_Embassy) · copia: `2015/be0a00adc033` (Web Archive 20150710) · licenza: propria
 - **2015** · Leo Rugens - Sconfinamenti (blog) — [Hacking Team e Resi Informatica: sassolino nella scarpa dopo sassolino nella scarpa, vuoi ](https://leorugens.wordpress.com/2015/08/09/hacking-team-e-resi-informatica-sassolino-nella-scarpa-dopo-sassolino-nella-scarpa-vuoi-vedere-che-questa-volta-facciamo-piazza-pulita/) · copia: `2015/a28007ff1dbb` (Web Archive 20191021) · licenza: terzi
+- **2015** · lumieresurgaia.com — [Dossiers NSA / Tails - L'anonymat En Ligne Version Ultime - Lumière Sur Gaia](https://lumieresurgaia.com/2015/02/dossier-nsa-tails-lanonymat-en-ligne-version-ultime/) · copia: `2015/48cc92f8e43b` (live) · licenza: terzi
 - **2015** · Nexa Center for Internet & Society (Poli — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://nexa.polito.it/mercoledi-73/) · copia: `2015/3ecb72b724bd` (Web Archive 20150305) · licenza: terzi
 - **2015** · Nexa Center for Internet & Society — Ann — [Nexa Center annual report 2015](https://nexa.polito.it/wp-content/uploads/2024/05/Nexa-Center-annual_report-2015.pdf) · copia: `2015/72ea275e4c30` (Web Archive 20240803) · licenza: terzi
 - **2015** · Tor Tech Report 2015-04-001 (The Tor Pro — [Hidden-service statistics reported by relays](https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf) · copia: `2015/292d68aabe22` (Web Archive 20151202) · licenza: terzi
@@ -967,6 +968,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Askanews — [CyberChallenge, il 28 giugno la premiazione dei vincitori](http://www.askanews.it/cronaca/2018/06/21/cyberchallenge-il-28-giugno-la-premiazione-dei-vincitori-pn_20180621_00117/) · copia: `2018/d611af6e9773` (Web Archive 20180622) · licenza: terzi
 - **2018** · Copernicani / P&R Foundation (Rome) — [Presentazione del Libro Bianco della partecipazione politica digitale dei Copernicani](http://www.pr-foundation.org/presentato-roma-libro-bianco-della-partecipazione-politica-digitale-dei-copernicani/) · copia: `2018/9e62664d6bc1` (Web Archive 20230922) · licenza: terzi
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix](http://www.radio24.ilsole24ore.com/programma/2024/trasmissione-marzo-2018-224932-gSLAjFnabC) · copia: `2018/97dd2bdfc59c` (Web Archive 20180505) · licenza: terzi
+- **2018** · Banco Interamericano de Desarrollo / Gov — [Smarter Crowdsourcing for Anti-corruption: Manual de propuestas legales, técnicas y de pol](https://anticorruption.smartercrowdsourcing.org/files/scac-es_web.pdf) · copia: `2018/f9009664a15a` (Web Archive 20220120) · licenza: terzi
 - **2018** · FOSDEM 2018 (Brussels) - Legal and Polic — [Public money, public code, the Italian way: Hacking Italian Administrations to get to the ](https://archive.fosdem.org/2018/schedule/event/public_money_public_code/) · copia: `2018/265f218d2f9a` (Web Archive 20210927) · licenza: terzi
 - **2018** · FOSDEM 2018 — [FOSDEM 2018 speaker page - Fabio Pietrosanti (naif)](https://archive.fosdem.org/2018/schedule/speaker/fabio_pietrosanti_naif/) · copia: `2018/c21ea4095ff5` (Web Archive 20210624) · licenza: terzi
 - **2018** · FOSDEM 2018 talk - IA mirror (collection — [Public money, public code, the Italian way: Hacking Italian Administrations to get to the ](https://archive.org/details/youtube-KizAo_22FYo) · copia: `2018/2f85bc0b3e0e` (live · video locale `media.mp4` (45 MB, da caricare su Drive)) · licenza: terzi
