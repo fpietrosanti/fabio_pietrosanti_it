@@ -2531,45 +2531,59 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Corea del Nord\" OR Pyongyang OR nordcoreano",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check"
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check",
+      "done": "2026-10-24 20:34",
+      "found": 3
     },
     {
       "query": "\"Pietrosanti\" \"North Korea\" OR Pyongyang OR DPRK technology",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check"
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check",
+      "done": "2026-10-24 20:34",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" ANSA OR Adnkronos OR AGI OR Askanews",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check"
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check",
+      "done": "2026-10-24 20:34",
+      "found": 10
     },
     {
       "query": "\"Pietrosanti\" GlobaLeaks Spiegel OR \"Le Monde\" OR \"El País\" OR Süddeutsche OR Libération",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check"
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check",
+      "done": "2026-10-24 20:34",
+      "found": 8
     },
     {
       "query": "\"Pietrosanti\" spyware Italia 2026 Paragon OR SIO OR \"app falsa\"",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check"
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check",
+      "done": "2026-10-24 20:34",
+      "found": 8
     },
     {
       "query": "\"Fabio Pietrosanti\" Mastodon OR fediverso OR \"software libero\" 2022 OR 2023 OR 2024",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check"
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check",
+      "done": "2026-10-24 20:34",
+      "found": 10
     },
     {
       "query": "\"Pietrosanti\" \"BFi\" OR \"Butchered From Inside\" OR s0ftpj naif",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check"
+      "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso) | 2026-10-24 16:34: risultati raccolti ma persi (localStorage di google.com non persistente tra navigazioni), ripetizione interrotta da robot check",
+      "done": "2026-10-24 20:34",
+      "found": 8
     },
     {
       "query": "\"Fabio Pietrosanti\" GlobaLeaks Deutsch OR français OR español entrevista OR interview",
@@ -2578,6 +2592,54 @@
       "note": "aggiunta 2026-10-24 12:34: coda esaurita; angoli nuovi (Corea del Nord emersa da wired.it 2020, agenzie di stampa, stampa estera non anglofona, versioni in altre lingue di articoli noti, spyware 2026, Mastodon/fediverso, Sikurezza/BFi, Hodex escluso)",
       "date": "2026-10-24",
       "found": 2
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2006 OR 2007 VoIP OR \"Asterisk\" OR \"SIP\" sicurezza intervista",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 20:34: coda esaurita; anni deboli 2003-2008 e 2023-2025 (copertura media.json), quotidiani nazionali"
+    },
+    {
+      "query": "\"Pietrosanti\" \"Infosecurity Italia\" OR \"Smau\" OR \"Security Summit\" 2004 OR 2005 OR 2006",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 20:34: coda esaurita; anni deboli 2003-2008 e 2023-2025 (copertura media.json), quotidiani nazionali"
+    },
+    {
+      "query": "\"naif\" Pietrosanti \"Moby\" OR \"Antifork\" OR \"Winston Smith\" 2003 OR 2004",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 20:34: coda esaurita; anni deboli 2003-2008 e 2023-2025 (copertura media.json), quotidiani nazionali"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" whistleblowing 2023 OR 2024 \"d.lgs. 24\" OR \"decreto whistleblowing\" intervista",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 20:34: coda esaurita; anni deboli 2003-2008 e 2023-2025 (copertura media.json), quotidiani nazionali"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2024 OR 2025 podcast OR puntata OR intervista sicurezza informatica",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 20:34: coda esaurita; anni deboli 2003-2008 e 2023-2025 (copertura media.json), quotidiani nazionali"
+    },
+    {
+      "query": "\"Pietrosanti\" Hermes \"Centro Hermes\" 2025 dichiarazione OR commenta OR spiega",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 20:34: coda esaurita; anni deboli 2003-2008 e 2023-2025 (copertura media.json), quotidiani nazionali"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"PrivateWave\" OR \"Secure Voice\" OR \"telefonata cifrata\" 2009 OR 2010 OR 2011",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 20:34: coda esaurita; anni deboli 2003-2008 e 2023-2025 (copertura media.json), quotidiani nazionali"
+    },
+    {
+      "query": "\"Pietrosanti\" GlobaLeaks \"Corriere della Sera\" OR \"La Stampa\" OR \"Il Sole 24 Ore\" OR \"Il Fatto Quotidiano\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-24 20:34: coda esaurita; anni deboli 2003-2008 e 2023-2025 (copertura media.json), quotidiani nazionali"
     }
   ],
   "history": [
@@ -3377,6 +3439,14 @@
       "captcha": true,
       "confirmed_new": 2,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending senza robot check, ma gli URL salvati in localStorage di google.com non persistevano tra le navigazioni: raccolti solo quelli dell'ultima query (fediverso/estero: 'GlobaLeaks Deutsch OR français OR español'). Ripetendo le altre 7, robot check Google alla prima: STOP immediato, non aggirato; 7 query marcate 'retry' (il batch ha toccato ancora 2 pagine /sorry prima di fermarsi). Rimosso un duplicato in coda. Dall'unica query: 5 profili LinkedIn scartati (social); 2 nuove voci: lumieresurgaia.com 02/2015 'Dossier NSA / Tails' (FR, citato come sviluppatore GlobaLeaks), manuale BID/GovLab NYU 'Smarter Crowdsourcing Anti-corruption' (ES, 04/2018, intervista del 01/08/2017, verificato a mano col PDF perché verify_candidates non legge i PDF). Scartati: gijc13.sched.com/list/descriptions (indice; speaker ed evento già in archivio), copia academia.edu dello stesso manuale. Non verificabile: enssib.fr 'Du leak en tant qu'archive' (PDF, sito in manutenzione, capture Wayback troncata a 1 MB su 3,6 MB) — da ritentare. Lezione: estrarre gli URL dalla pagina subito dopo ogni ricerca (window var + 2 chiamate da 8), non affidarsi a localStorage; fermare il batch alla prima pagina /sorry."
+    },
+    {
+      "date": "2026-10-24 20:34",
+      "engine": "google-chrome",
+      "searched": 7,
+      "captcha": false,
+      "confirmed_new": 4,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Ripetute le 7 query 'retry' (Corea del Nord IT/EN, agenzie, stampa estera, spyware 2026, fediverso, BFi/s0ftpj) senza robot check, estraendo gli URL subito dopo ogni ricerca (window var, ≤8 per chiamata): 56 risultati, 42 candidati. Scartati senza verifica: facebook (social), linkedin, seclists bugtraq (mailing list), dicorinto tag (indice), 5 PDF FOIA MonitoraPA di scuole (amministrazione trasparente). Verifica: 29 già in archivio, 6 respinti (nome assente/JS; il PDF s0ftpj Ep2005 è già in archivio). 7 OK dallo script, 3 tolti come alias/sindacazioni di voci note (finance.yahoo = CoinDesk 03/12/2019; irpa.eu = archivio.irpa.eu; moca2016 /it/employees = /speakers/). 4 nuove voci: AFR 11/05/2020 'The Spaniard with the hotline to Kim' (citato, conferenza in Corea del Nord), firstradioweb 25/02/2020 (ripresa dell'articolo wired.it), ITASEC20 'Il giornalismo e la protezione delle fonti' parte II (scheda relatore), Nexa 73° Mercoledì 11/03/2015 (pagina evento; prima nota solo via slide). 4 nuove copie offline (wayback/live). Coda esaurita: aggiunte 8 query (2003-08, 2023-25, quotidiani nazionali)."
     }
   ]
 }

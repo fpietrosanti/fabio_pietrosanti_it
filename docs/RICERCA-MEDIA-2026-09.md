@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1642**; dopo deduplica: **1196**
+- Risultati grezzi dalle ricerche: **1646**; dopo deduplica: **1198**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1141**
-- Verificati aprendo la pagina: **1130**; solo da risultato di ricerca: **66**
+- **Nuovi rispetto al vecchio sito: 1143**
+- Verificati aprendo la pagina: **1132**; solo da risultato di ricerca: **66**
 
-Per tipo (nuovi): Menzionato 245, tweet 132, Talk 92, Video 78, Post sul blog infosecurity.ch 72, Citato 68, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 245, tweet 132, Talk 93, Video 78, Post sul blog infosecurity.ch 72, Citato 69, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -33,12 +33,12 @@ Per tipo (nuovi): Menzionato 245, tweet 132, Talk 92, Video 78, Post sul blog in
 | 2012 | 0 | 37 | 37 |
 | 2013 | 0 | 33 | 33 |
 | 2014 | 0 | 29 | 29 |
-| 2015 | 0 | 46 | 46 |
+| 2015 | 0 | 47 | 47 |
 | 2016 | 0 | 30 | 30 |
 | 2017 | 0 | 86 | 86 |
 | 2018 | 0 | 89 | 89 |
 | 2019 | 0 | 72 | 72 |
-| 2020 | 0 | 178 | 178 |
+| 2020 | 0 | 179 | 179 |
 | 2021 | 0 | 90 | 90 |
 | 2022 | 0 | 68 | 68 |
 | 2023 | 0 | 19 | 19 |
@@ -560,7 +560,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
 
-## 2020 — 178 voci, 178 nuove
+## 2020 — 179 voci, 179 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -742,6 +742,8 @@ Anni senza nessun risultato: nessuno
   Syndication of the Bloomberg Businessweek feature by Josh Dean (og:title 'The teenage fanboy who became North Korea’s man in Spain'). Verified live 2026-10-05: 'Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti...'. Also covers the medical-software developers and the plan for an R&D centre (EUR 30,000 for 5-6 developers).
 - 🆕 **2020-05-16** · social · Twitter/X (@fpietrosanti) — [Immuni sarà con licenza opensource AGPLv3 e non MPL2](https://twitter.com/fpietrosanti/status/1261755274173526018)  
   Registra l'esito: Bending Spoons passa ad AGPLv3 'in response to advice coming from the open-source community'. Link alla issue GitHub immuni-app/documentation#7, dove Fabio aveva commentato. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
+- 🆕 **2020-05-11** · Citato · afr.com (Australian Financial Review) — [The Spaniard with the hotline to Kim](https://www.afr.com/world/asia/north-korea-s-spaniard-in-the-works-20200511-p54rsn)  
+  verified via wayback; context: …nvitation, except for journalists and residents of South Korea, Japan, and Israel. Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti. He says the two-day event was strange: Th…
 - 🆕 **2020-05-06** · pagina · Associazione Luca Coscioni — [Coronavirus: ascolta tutti i podcast!](https://www.associazionelucacoscioni.it/notizie/comunicati/coronavirus-ascolta-tutte-le-interviste-in-podcast)  
   Pagina indice dei podcast Coscioni. Voce: 'Coronavirus: cos'è e come funziona il contact tracing? Grazie a Fabio Pietrosanti presidente del Centro Hermes e Riccardo Coluccini...', che copre il contact tracing con bluetooth o celle telefoniche in Corea del Sud e Singapore. L'episodio Spreaker è già noto, questa pagina no. Data incerta (il primo tag <time> riporta 2020-05-06).
 - 🆕 **2020-05-04** · Menzionato · Bloomberg Businessweek, 2020-05-04 issue — [The Road to Pyongyang Starts in Spain (print title, contents p.44; online: Wanna Do Business in Pyongyang? Call North Korea's Guy in Spain) — Josh Dean](https://archive.org/details/business-week_2020-05-04)  
@@ -1485,7 +1487,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · Talk · Internet Freedom Festival 2016 (IFF), Valencia (1-6 marzo 2016) - IFF Wiki — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks](https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks)  
   Pagina della sessione sull'IFF Wiki: «Presenter(s) Fabio Pietrosanti ... Organization(s) Hermes Center for Transparency and Digital Human Rights ... Country(ies) Italy»; formato Conversation, 1 ora, track Tools & Technology; descrizione sull'avvio di iniziative di whistleblowing («supporting more than 30 whistleblowing projects using GlobaLeaks in +20 countries»). Verificata su Wayback 20210620025940 (la pagina live oggi è 404). La sessione con questo titolo compare nell'elenco «IFF Schedule» dell'edizione 2016 (Wayback 20160525224224, https://internetfreedomfestival.org/wiki/index.php/IFF_Schedule), che però riporta solo il titolo; il campo «2017 theme» della pagina è un artefatto del template wiki. Data esatta della sessione non trovata (lo schedule con orari stava su una pagina esterna non archiviata).
 
-## 2015 — 46 voci, 46 nuove
+## 2015 — 47 voci, 47 nuove
 
 - 🆕 **2015-11-02** · Citato · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/)  
   verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…
@@ -1565,6 +1567,8 @@ Anni senza nessun risultato: nessuno
   names Fabio: …ndimenti. Centro Studi Hermes per la Trasparenza e i Diritti Umani Digitali Alessandro Rodolfi - Membro del Board Fabio Pietrosanti - Presidente Marco Calamari - Membro del Board … — restored in hermescenter/hermescenter.org-restoration id consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22).
 - 🆕 **2015-03-16** · Articolo scritto · Hermes Center — [Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes](https://web.archive.org/web/2015/http://logioshermes.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/)  
   Hermes Center response to ANAC's consultation on guidelines for public-sector whistleblowers; names Pietrosanti Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22).
+- 🆕 **2015-03-11** · Talk · nexa.polito.it — [73° Mercoledì di Nexa - Principi e strumenti del whistleblowing: il caso GlobaLeaks / Nexa Center for Internet & Society](https://nexa.polito.it/mercoledi-73/)  
+  verified via wayback; context: …aks print-friendly Mercoledì 11 marzo 2015, ore 18-20 Via Boggio 65/a, Torino (primo piano) Ingresso libero Webcast live In occasione del 73° Mercoledì di Nexa Fabio Pietrosanti , fondatore di Hermes - Center For Transpa…
 - 🆕 **2015-03-11** · Talk · Nexa Center for Internet & Society (Politecnico di Torino) - 73° Mercoledì di Nexa - slide — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://web.archive.org/web/20220519202553/https://nexa.polito.it/nexacenterfiles/mercoledi-73-pietrosanti.pdf) _(non verificato)_  
   Slide del 73° Mercoledì di Nexa (evento già noto: https://nexa.polito.it/mercoledi-73/). Il file si chiama «mercoledi-73-pietrosanti.pdf» e la prima slide dice «11 March 2015, Centro Nexa, Torino 73° Mercoledì di Nexa - Hermes Center for Transparency and Digital Human Rights», ma il testo non contiene né «Pietrosanti» né «naif» (autore nei metadati: «Giuseppe»). Il link live è 404; c'è una copia completa su Wayback 20220519202553 (la capture 20220426215157 è troncata). La pagina evento attuale non lo linka. Per regola non è verificato (il nome è solo nell'URL); è da far decidere a Fabio come allegato del talk noto.
 - 🆕 **2015-03-11** · Video · YouTube / Nexa Center for Internet & Society — [73° Mercoledì di Nexa - Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://www.youtube.com/watch?v=xO4m1NDm6qc)  

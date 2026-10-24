@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1196**; già processate: **1373**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1009** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1136**
+- Voci in `data/media.json`: **1198**; già processate: **1375**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1011** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1138**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **3**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -45,7 +45,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 85 | 5 | 1 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 89 | 3 | 0 | 0 | 0 | 0 | 2 |
-| 2020 | 169 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 171 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 56 | 15 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 13 | 4 | 0 | 0 | 1 | 0 | 0 |
@@ -1294,11 +1294,13 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Eumans / alcuoredellapolitica.net (Marco — [Condivisi. Covid-19, quali dati per quali diritti? (webinar 10 aprile 2020)](https://web.archive.org/web/20200428182650/https://www.alcuoredellapolitica.net/condivisi-covid-19-quali-dati-quali-diritti-10-aprile-2020) · copia: `2020/bcc6f8f4235d` (Web Archive 20200523) · licenza: terzi
 - **2020** · Adnkronos — [M5S, hacker sfidano Casaleggio: arriva software Open Rousseau](https://www.adnkronos.com/fatti/politica/2020/10/01/hacker-sfidano-casaleggio-arriva-software-open-rousseau_xhpY4FGXMdkxXNWyHW75xN.html) · copia: `2020/f518c2cf6092` (Web Archive 20201003) · licenza: terzi
 - **2020** · Adnkronos — [M5S, hacker a parlamentari: "Ecco Open Rousseau, così sarete liberi"](https://www.adnkronos.com/fatti/politica/2020/10/02/hacker-parlamentari-ecco-open-rousseau-cosi-sarete-liberi_rqptYFyArlnhnr8BwBKHPP.html) · copia: `2020/403c38ab3435` (Web Archive 20201005) · licenza: terzi
+- **2020** · afr.com (Australian Financial Review) — [The Spaniard with the hotline to Kim](https://www.afr.com/world/asia/north-korea-s-spaniard-in-the-works-20200511-p54rsn) · copia: `2020/c5fe907ec5d6` (Web Archive 20200514) · licenza: terzi
 - **2020** · Agenda Digitale — [Software libero "massacrato" da Trump: un passo verso la sorveglianza globale](https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/) · copia: `2020/d192de242c2d` (Web Archive 20200625) · licenza: terzi
 - **2020** · Fondazione AIDR (Osservatorio Trasparenz — [Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della](https://www.aidr.it/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/) · copia: `2020/5237002118f2` (Web Archive 20201030) · licenza: terzi
 - **2020** · Associazione Luca Coscioni — [Coronavirus: ascolta tutti i podcast!](https://www.associazionelucacoscioni.it/notizie/comunicati/coronavirus-ascolta-tutte-le-interviste-in-podcast) · copia: `2020/4d27f32431e3` (Web Archive 20200517) · licenza: terzi
 - **2020** · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain) · copia: `2020/28ff2469c850` (Web Archive 20200501) · licenza: terzi
 - **2020** · corriere.it — [M5S, ritardo nei pagamenti: Rousseau taglia i servizi. Evento del 4 ottobre rinviato](https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml) · copia: `2020/7fb9b3016804` (Web Archive 20201010) · licenza: terzi
+- **2020** · wired.it — [Ecco come la Corea del Nord usa il digitale per aggirare le sanzioni - Wired](https://www.firstradioweb.com/2020/02/25/ecco-come-la-corea-del-nord-usa-il-digitale-per-aggirare-le-sanzioni/) · copia: `2020/0ab419bf5f81` (Web Archive 20210122) · licenza: terzi
 - **2020** · Giornalettismo — [Voto elettronico in sperimentazione in Italia? La commissione](https://www.giornalettismo.com/voto-elettronico-sperimentazione-italia/) · copia: `2020/3bdb7427f5e9` (live) · licenza: terzi
 - **2020** · il Giornale — [Hacker sfida Casaleggio: ecco la contro-piattaforma per sostituire Rousseau](https://www.ilgiornale.it/news/politica/m5s-ecco-contro-piattaforma-che-sfida-rousseau-1893743.html) · copia: `2020/9af99e809847` (Web Archive 20201002) · licenza: terzi
 - **2020** · Il Giornale d'Italia — [Movimento 5 stelle, hacker sfidano Casaleggio: al via Open Rousseau software libero](https://www.ilgiornaleditalia.it/cronaca/2020/10/01/news/movimento-5-stelle-hacker-sfidano-casaleggio-al-via-open-rousseau-software-libero-59083/) · copia: `2020/f05900cc123f` (live) · licenza: terzi
