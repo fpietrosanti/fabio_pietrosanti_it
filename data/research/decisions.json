@@ -890,6 +890,22 @@
   {
    "url": "https://patents.google.com/patent/US20130252585A1/en",
    "reason": "2026-10-24: pagina Google Patents finalmente letta (retry): brevetto CellTrust (inventori Sean Moshir, Kevin Moshir, Ali A. Khanban); nessuna occorrenza di Pietrosanti, naif, PrivateWave, PrivateGSM o Khamsa, nemmeno tra le citazioni → non è una voce"
+  },
+  {
+   "url": "https://www.journalismfestival.com/speaker/philip-di-salvo",
+   "reason": "2026-10-24: pagina speaker di un altro relatore (IJF) che elenca una sessione con Fabio già in archivio come pagina programma e nella sua speaker page → duplicato, non una voce (IJF15 Digital whistleblowing with GlobaLeaks)"
+  },
+  {
+   "url": "https://www.festivaldelgiornalismo.com/speaker/fabio-chiusi",
+   "reason": "2026-10-24: pagina speaker di un altro relatore (IJF) che elenca una sessione con Fabio già in archivio come pagina programma e nella sua speaker page → duplicato, non una voce (IJF12 Tecniche di dissidenza e repressione digitale)"
+  },
+  {
+   "url": "https://www.journalismfestival.com/speaker/claudio-agosti",
+   "reason": "2026-10-24: pagina speaker di un altro relatore (IJF) che elenca una sessione con Fabio già in archivio come pagina programma e nella sua speaker page → duplicato, non una voce (IJF15 Greenwald-in-a-box)"
+  },
+  {
+   "url": "https://gijc13.sched.com/directory/descriptions/5",
+   "reason": "2026-10-24: indice directory relatori GIJC13 (pagina 5); la speaker page e la sessione di Fabio sono già in archivio → indice, non una voce"
   }
  ],
  "override": [
