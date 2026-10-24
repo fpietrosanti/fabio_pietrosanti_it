@@ -1,0 +1,608 @@
+org/meetings/2017Amsterdam – Tor Bug Tracker & Wiki
+
+ Search: 
+
+ Login 
+ Preferences 
+ Help/Guide 
+ About Trac 
+ Register 
+
+ View Tickets 
+ Browse Source 
+ Roadmap 
+ Timeline 
+ Wiki 
+ Search 
+ Tags 
+
+ wiki: org / meetings / 2017Amsterdam 
+
+ Context Navigation
+
+ Up 
+ Start Page 
+ Index 
+ History 
+
+A meeting of the core Tor team, developers, volunteers and invited guests in or near Amsterdam, to discuss plans, milestones, deadlines, and other important matters.
+
+Participant Guidelines: https://trac.torproject.org/projects/tor/wiki/org/meetings/2017Amsterdam/ParticipantGuidelines 
+
+ Week at a glance
+
+ Wed, 22 Mar : Team members arrive (teams decide who to invite)
+
+ Thu, 23 Mar : Teams meet to work on mapping and other issues; general meeting invitees arrive; group dinner in the evening
+ 10.00 - 18.30: Self-organized sessions: https://trac.torproject.org/projects/tor/wiki/org/meetings/2017Amsterdam/23March 
+
+ 19:00: Group dinner in Arena’s Chapel (main meeting room). 
+
+ Fri, 24 Mar : Plenary session for strategic planning; discussion on how we want Tor to grow and what resources we’ll need to get there; Tor board open meeting
+ 10.00 Opening session
+
+ 10.45 Strategic Planning sessions #1 : What does the future look like?
+
+ 12.30 Lunch
+
+ 13.30 Strategic Planning sessions #2 : What could Tor look like?
+
+ 15.00 Break
+
+ 15.30 Open Board Meeting
+
+ 16.30 Adjourn
+
+ Sat, 25 Mar : Structured agenda with specific tracks; this part of the meeting is open to anyone in the public with advance notice (registration required)
+
+ Sun, 26 Mar : Everyone heads home or hangs around for hacking
+
+ Mon, 27 Mar : Everyone heads home or hangs around for more hacking
+ IPv6 Hackfest 
+
+Note that this schedule is a bit different than agendas of the past. We’re responding to feedback requesting more focused work and planning. While we enjoy working with the general public, there’s so much going on at Tor meetings, we’re limiting involvement to invited guests and those who have told us in advance of their plans to join us on the open day. Tor Project members wanting even more open public involvement are invited to host something on the 27th or 28th or to hold or attend hacking events separate from the Tor meeting throughout the year. Please note also that this is an experiment. If we feel like this agenda isn’t working, we can tweak it before the next meeting in the fall.
+
+ Location
+
+Hotel Arena: ​ https://www.hotelarena.nl/vergaderruimtes-amsterdam 
+
+ Airport
+
+The airport code for flight booking is 'AMS'. Watch-out for any taxi scams at the airport. Shouldn't be more than 50 euro to the city center. (But who would take a taxi from the airport, when there are such great trains for 5 euros?)
+There are quite a few train/bus options that will get you to Hotel Arena. There is even a hotel shuttle bus that will take you directly to the hotel. Here is a link to the various transportation options. ​ https://www.hotelarena.nl/en/contact 
+
+But there are also trains for many nearby countries.
+
+ Lodging
+
+Hotel Arena: ​ https://www.hotelarena.nl/ 
+
+ Who
+
+If you want to tell people that you're going or not going, please add yourself to this table:
+
+(Remember, March 23rd through March 25th are invitation only.)
+
+ Person Attending Arriving Departing Mark this column if you want a room in the hotel block Preferred name for name tag 
+
+ Bill (legind) Y Mar 22 Mar 27 Y Bill (legind) 
+
+ David Stainton Y 20 27 Y David (dawuud) 
+
+ Yawning N N/A N/A N/A 
+
+ Georg Y 22 27 Y Georg (GeKo) 
+
+ intrigeri Y 21 27 Y intrigeri 
+
+ Biella Y 22 27 Y 
+
+ Philipp Winter N 
+
+ dgoulet Y ??? ??? N dgoulet 
+
+ DrWhax Y ??? ??? N 
+
+ Shari Y 21 25 Y 
+
+ sajolida Y 22 27 N 
+
+ s N :( 
+
+ Linus Y 22 27 Y Linus (ln5) 
+
+ Tom Ritter N 
+
+ anonym Y 21 27 Y anonym 
+
+ mo Y 22nd 27th Y 
+
+ Elio Qoshi Y 22nd 27th Y Elio Qoshi 
+
+ boklm Y 21 29 N Nicolas (boklm) 
+
+ linda Y 21st 27th Y (single or double okay) Linda (linda) 
+
+ george Y ? ? N George (asn) 
+
+ teor Y 20 March 30 March Y (single) Tim (teor) 
+
+ mrphs N - - - - 
+
+ arthuredelstein Y 22 26 Y 
+
+ ewyatt Y 20th 26th Y Erin (ewyatt) 
+
+ isabela N ? ? N 
+
+ Maria Y 22nd 27th Y 
+
+ mjuarezm Y 22nd 27th Y Marc 
+
+ Arturo Y 22nd ? Y 
+
+ infinity0 Y 22 24 Y 
+
+ Ola Bini Y ?? ?? N 
+
+ Alison Y 22nd 27th Y Alison (flexlibris) 
+
+ gunner Y 22nd 27th Y gunner 
+
+ Donncha Y ? ? N 
+
+ Arlo N - - - - 
+
+ Hiro Y 21 March 26 March Y (single) Silvia (hiro) 
+
+ Samdney Y 22 March 27 March Y Carolin (Samdney) 
+
+ Sukhbir Y 22 March 28 March Y (single) Sukhbir (sukhe) 
+
+ Ethan Tseng (Mozilla) Y 22 March 26 March Y (single) Ethan 
+
+ Jonathan Hao (Mozilla) Y 22 March 26 March N 
+
+ Tim Huang (Mozilla) Y 22 March 26 March N Tim Huang 
+
+ ChengHao Huang (Mozilla) Y 22 March 26 March Y(single) Yoshi (allstars) 
+
+ Nick Merrill from Calyx Y 22 March 26 March Y(single) Nick Merrill (Calyx) 
+
+ Richard Barnes (Mozilla) Prob 22 March 25 March N 
+
+ gtank Y 22 March ??? N 
+
+ amoghbl1 Y 22nd 26th Y amogh (bl1) 
+
+ Yakira Y - - N 
+
+ Nuke Y 21/22 ? Y 
+
+ iwakeh Y 23 March 24 March (evening) Y (single) iwakeh 
+
+ Roger Y Mar 22 May 27 Y (single) 
+
+ Phoul Y Mar 21 Mar 27 Y (single) 
+
+ ilv Y Mar 22 Mar 27 Y (single) 
+
+ nickm Y Mar 21 Mar 29 Y Nick Mathewson (nickm) 
+
+ Mike Perry Y Mar 22 Mar 26 Y (single) 
+
+ gacar Y Mar 22 Mar 26 Y 
+
+ Aaron Johnson Y 22 27 N Aaron 
+
+ Cynthia Tang (Mozilla) Y 22 March 26 March Y (single) 
+
+ iang Y 22 Mar 27 Mar Y (queen, with Kat) Ian 
+
+ Kat Y 22 Mar 27 Mar Y (queen, with iang) kat 
+
+ Chelsea Y ??? ??? Y 
+
+ yan Y 25 Mar 28 Mar N 
+
+ Julius Y 22 Mar 26 Mar Y 
+
+ Cass Y 22 Mar 27 Mar Y Cass 
+
+ micah -1 Y 22 Mar 27 Mar Y 
+
+ Jeff Burdges Y 22 Mar? 29? Mar? Yes if possible, anything goes 
+
+ Michael Carbone N N/A N/A N/A N/A 
+
+ ahf Y 22nd 27th N Alex (ahf) 
+
+ Hans-Christoph Steiner Y 23rd? When I go to RightsCon Y 
+
+ Rob Jansen Y 21 28 N Rob 
+
+ Vasilis Y Mar 22 Mar 27 Y (single) 
+
+ adrelanos Y Mar 22 Mar 27 Y (single) 
+
+ Micah 0 Y ? ? Y 
+
+ Damian Y Mar 22 Mar 26 Y Damian (atagar) 
+
+ weasel N - - - - 
+
+ joanna (ITL) Y Mar 24 (evening) Mar 26 (evening) Y (preferably single) 
+
+ Josh Gay (jgay)) Y 22 27 Y 
+
+ dtb (primavera hacker)) Y 24 27 Y 
+
+ traga (primavera hacker)) Y 24 27 Y 
+
+ catalyst Y Mar 22 (morning) Mar 26 (early morning) Y (pref single) Taylor (catalyst) 
+
+ mtigas Y Mar 23 or 24 Mar 27 Y (preferably single) Mike Tigas (mtigas) 
+
+ Sebastian Y Mar 22 Mar 27 Y 
+
+ Katharina Y Mar 22 Mar 25 Y (single) Katharina (blister_blue) 
+
+ mt.elahi Y 23rd 27th Y Tariq 
+
+ Leonid (irc:darkk) Y 22, evening 27, evening Y Leonid (darkk) 
+
+ qbi Y 22 Mar 26 Mar Y Jens (qbi) 
+
+ naif Y 23 Mar ? Y 
+
+ David F. N 
+
+ karsten Y Mar 22 Mar 27 Y 
+
+ Jen H. (Freedom of Press) Y Mar 21 Mar 27 Y 
+
+ Steven Murdoch Y Mar 22 Mar 27 N Steven Murdoch (sjmurdoch) 
+
+ Nathan (Zcash) Y Mar 22(?) Mar 27(?) N 
+
+ Paige (Zcash) Y Mar 21 Mar 26 N 
+
+ n8fr8 Y 23 26 
+
+ AniaP Y Mar 22 Mar 27 N 
+
+ Pepijn Y Mar 22 Mar 27 N Pepijn 
+
+ mcs Y Mar 22 Mar 26 N Mark (mcs) 
+
+ alecm Y Mar 24/25 Mar 27 N 
+
+ irl Y Mar 22 Mar 27 N 
+
+ Jon Y Mar 19 Mar 29 Y Jon 
+
+ Nikita Y Mar 22 Mar 25 Y? Nikita 
+
+ Paul Y Mar 21 Mar 26 N Paul Syverson 
+
+ Brandon Wiley Y Mar 22 Mar 28 Y Brandon Wiley 
+
+ Ivan Pazmino Y Mar 22 Mar 27 Y Ivan Pazmino 
+
+ saint Y Mar 22 Mar 26 Y Griffin 
+
+ Juris Y Mar 23 Mar 27 N Juris 
+
+ isis Y Mar 22 Mar 25 N isis 
+
+ Henry de Valence Y Mar 22 Mar 25 N Henry de Valence 
+
+ sbs Y Mar 23 Mar 27 Y Simone Basso (sbs) 
+
+ Vinicius Zavam (TorBSD) Y Mar 24 Mar 27 N egypcio 
+
+ Will Shackleton (Facebook) Y Mar 23 Mar 26 Y 
+
+ Mart (Greenhost) Y Mar 24 Mar 26 N Mart 
+
+ samba Y Mar 24 Mar 27 N samba 
+
+ Wizzup Y ??? Never? N Wizzup
+
+ Thomas Rientjes Y Mar 25 Mar 26 N Thomas (Synzvato) 
+
+ filippo Y Mar 22 Mar 27 N Filippo Valsorda 
+
+ csk Y Mar 25 Mar 26 N Chinmayi 
+
+ Cindy Y Mar 22 Mar 25 N Cindy 
+
+ ilf Y 22 26 N 
+
+ sysrqb Y Mar 23 Mar 26 N Matt (sysrqb) 
+
+ parazyd Y Mar 25 - N parazyd 
+
+ Dinner
+
+If you plan on attending the "meet and greet" dinner on Thursday, March 23rd, please add yourself to this table:
+
+ Person Attending 
+
+ Roger Y 
+
+ Georg Y 
+
+ intrigeri Y 
+
+ dgoulet Y 
+
+ DrWhax Y 
+
+ Shari Y 
+
+ Linus Y 
+
+ anonym Y 
+
+ mo Y 
+
+ Elio Qoshi Y 
+
+ boklm Y 
+
+ linda Y 
+
+ george Y 
+
+ ewyatt Y 
+
+ isabela N 
+
+ Maria Y 
+
+ mjuarezm Y 
+
+ Arturo Y 
+
+ infinity0 Y 
+
+ David S. Y 
+
+ Ola Bini Y 
+
+ Alison Y 
+
+ gunner Y 
+
+ Donncha Y 
+
+ Hiro Y 
+
+ Samdney Y 
+
+ teor Y 
+
+ Sukhbir Y 
+
+ Ethan Tseng Y 
+
+ Jonathan Hao Y 
+
+ Tim Huang Y 
+
+ Yoshi Huang Y 
+
+ Nick from Calyx Y 
+
+ Richard Barnes Prob 
+
+ gtank Y 
+
+ amoghbl1 Y 
+
+ Yakira Y 
+
+ Mike Y 
+
+ Nuke Y 
+
+ Phoul Y 
+
+ ilv Y 
+
+ nickm Y 
+
+ gacar Y 
+
+ Aaron Johnson Y 
+
+ iang Y 
+
+ Kat Y 
+
+ Chelsea Y 
+
+ Julius Y 
+
+ Cass Y 
+
+ Jeff Burdges Y 
+
+ ahf Y 
+
+ Cynthia Tang Y 
+
+ Hans-Christoph Steiner Prob? 
+
+ Rob Jansen Y 
+
+ Vasilis Y 
+
+ adrelanos Y 
+
+ Micah 0 Y 
+
+ Damian Y 
+
+ jgay Y 
+
+ mtigas Prob 
+
+ micah Y 
+
+ biella Y 
+
+ Sebastian Y 
+
+ Katharina Y 
+
+ mt.elahi Y 
+
+ Leonid Y 
+
+ qbi Y 
+
+ naif Y 
+
+ karsten Y 
+
+ catalyst Y 
+
+ Steven Murdoch Y 
+
+ Nathan (Zcash) Y 
+
+ Paige (Zcash) Y 
+
+ n8fr8 Y 
+
+ AniaP Y 
+
+ mcs Y 
+
+ irl Y 
+
+ iwakeh Y 
+
+ Nikita Y
+
+ legind Y
+
+ Paul Syverson Y 
+
+ Brandon Wiley Y 
+
+ Arthur Edelstein Y 
+
+ Ivan Pazmino Y 
+
+ saint Y
+
+ Juris Y 
+
+ isis Y 
+
+ Henry Y 
+
+ sbs Y 
+
+ Will Shackleton Y 
+
+ Wizzup Y 
+
+ filippo Y 
+
+ Cindy Y 
+
+ ilf Y 
+
+ sysrqb Y 
+
+ Garrett Y 
+
+ sajolida Y 
+
+ Coordination mailing list
+
+Subscribe to the ​ tor-meeting mailing list to keep informed about plans.
+
+ Outcomes and Session ideas
+
+Put your ideas for outcomes and sessions here:
+
+ https://trac.torproject.org/projects/tor/wiki/org/meetings/2017Amsterdam/AgendaIdeas 
+
+ Notes
+
+ Session Notes 
+
+ Nearby (temporally and physically) conferences
+
+These aren't officially related to our meeting, but you might want to know about them anyway!
+
+ ​ Internet Freedom Festival (IFF), Valencia , before (March 6-10)
+
+ ​ Princeton-Fung Global Forum, Berlin , before (March 20-21)
+
+ ​ EDRi General Assembly, Amsterdam , during (March 24-26)
+
+ ​ Rightscon, Brussels , after (March 29-31)
+
+ Local Medical Resources
+
+Emergency number: 112 (non-emergency cop contact: 0900-8844
+
+AMC Hospital number: 020 - 566 9111 (emergency number: 020 - 566 2222) Address: Meibergdreef 9 1105 AZ Amsterdam
+
+ Interesting local stuff
+
+ Rijsttafel!
+
+ Craft Beer
+
+David, this is where you point out that Holland is so very close to Belgium.
+
+[dgoulet] Yes, it's true but lets try local stuff from the Netherlands! :)
+
+ Craft & Draft: Overtoom 417, 1054 JR Amsterdam, Netherlands. (~40 taps)
+
+ Brouwerij ‘t IJ: Funenkade 7, 1018 AL Amsterdam, Netherlands. (Brewery)
+
+ BeerTemple: Nieuwezijds Voorburgwal 250, 1012 RR Amsterdam, Netherlands. (~35 taps)
+
+ Butcher's Tears: Karperweg 45, 1075 LB Amsterdam, Netherlands. (Super local brewery!)
+
+ Jopenkerk: Emrikweg 19, 2031 BT Haarlem (20 minute train ride away (In a former church and local brewery!)
+
+ Local hackerspace
+
+Local hackerspace: Technologia Incognita. ( ​ https://techinc.nl ). Social evenings on Wednesday evening.
+
+ Relay Operator meetup
+
+On Wednesday at 19:30 at the Ysbreker(Weesperzijde 23). there will be a relay operator meetup with Bits of Freedom and Hart voor Internetvrijheid. Be welcome! ​ https://bof.nl/2017/03/08/22-maart-cafe-avond-voor-tor-node-beheerders/ 
+
+ Museums
+
+Cat Museum: www.kattenkabinet.nl/ Meow.
+
+Van Gogh Museum: www.vangoghmuseum.nl/
+
+Anne Frank House: www.annefrank.org/
+
+Rijksmuseum "Museum of the Netherlands": www.rijksmuseum.nl/en
+
+ Last modified 3 months ago 
+ Last modified on Mar 23, 2017, 8:02:45 PM 
+
+ Download in other formats:
+
+ Plain Text 
+
+ Powered by Trac 1.0.2 
+
+ By Edgewall Software .
+
+ Visit the Tor project at
+ https://www.torproject.org/

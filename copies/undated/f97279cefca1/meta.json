@@ -1,0 +1,11 @@
+{
+ "source_url": "https://www.exploit-db.com/exploits/21747",
+ "fetched_url": "https://web.archive.org/web/20121222074733id_/http://www.exploit-db.com/exploits/21747/",
+ "method": "wayback",
+ "capture": "20121222074733",
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 10697,
+ "sha256": "05cf47db952164dc216c9e669c5b3d615d27a69e304006e7830720bfc2a06e58",
+ "name_found": true,
+ "fetched_at": "2026-10-23T18:36:12+00:00"
+}

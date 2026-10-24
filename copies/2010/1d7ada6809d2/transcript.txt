@@ -1,0 +1,201 @@
+# Trascrizione automatica (faster-whisper small) di media.mp4
+[00:09] Abbiamo parlato qualche tempo fa di sicurezza nelle comunicazioni cellulari
+[00:14] parlando con Fabio Pietrosanti, un esperto di Camsa.
+[00:17] L'azienda ora ha presentato Private Wave,
+[00:20] una soluzione che utilizza la tecnologia Voice Over IP invece di quella GSM
+[00:25] per trasportare le comunicazioni creptate.
+[00:28] Nell'incontro con Fabio ci siamo fatti dire quali sono i principali aspetti tecnologici del nuovo software.
+[00:36] Bene, fra le principali novità della nuova versione del prodotto
+[00:40] via l'introduzione della telefonia sicura
+[00:45] trasportata attraverso il collegamento a internet del cellulare.
+[00:48] Non è più necessario utilizzare la comunicazione diretta GSM,
+[00:54] ma attraverso un collegamento a internet,
+[00:56] quindi introducendo anche del risparmio telefonico,
+[00:59] sarà possibile effettuare delle comunicazioni con una latenza,
+[01:03] per ridotta il prodotto GSM aveva circa un secondo di latenza
+[01:07] e la comunicazione percepita dal chiamante e dal chiamato
+[01:10] era di circa un secondo.
+[01:12] Nel nostro caso siamo sotto i 100 mili secondi,
+[01:15] sostanzialmente impercettibile da parte dell'utente finale.
+[01:18] Oltre al fatto che con questa comunicazione
+[01:21] non è possibile far vedere i propri tabulati telefonici,
+[01:26] le comunicazioni viaggiando interamente su internet
+[01:28] non sono soggette a rendere noto a terzi
+[01:32] che ha chiamato chi, quando e per quanto tempo.
+[01:35] Utilizzando il collegamento a internet del cellulare,
+[01:38] che sia wifi, sia 3G, piuttosto che sia 2G in CPRS,
+[01:43] stabiliscia una comunicazione sicura
+[01:46] utilizzando il protocollo di sicurezza ZRTP
+[01:48] e permette di fare una telefonata non intercettabile
+[01:51] da parte di nessuno,
+[01:53] perché cifrata con quello che viene definito
+[01:55] un paradigma di sicurezza end-to-end,
+[01:58] la cifratura viene dal telefonino A al telefonino B,
+[02:01] e nessuno, né l'operatore mobile,
+[02:05] né qualcuno che facesse un'intercettazione su internet
+[02:08] può essere in grado di decodificare quella comunicazione.
+[02:11] Fabio, una procedura che sembra avere tanti passaggi
+[02:14] che pare complicata per l'utente,
+[02:17] effettivamente così o la cosa è più semplice?
+[02:20] Ecco, questo è un punto molto interessante,
+[02:23] perché questo tipo di prodotti
+[02:25] esistono sul mercato da almeno vent'anni,
+[02:28] ma normalmente sono sempre stati forniti
+[02:31] in soluzioni hardware, telefoni ragged
+[02:34] per utilizzo militari che resistono a temperature di
+[02:37] più 50 gradi per esempio,
+[02:40] mentre con un'implementazione software
+[02:43] come abbiamo fatta noi, è possibile utilizzare
+[02:46] il prodotto in modo estremamente facile,
+[02:49] senza neanche dover interagire con il software stesso.
+[02:52] Infatti è possibile chiamare
+[02:55] il proprio interlocutore in modo sicuro,
+[02:57] semplicemente anteponendo al numero di telefono che si sta chiamando
+[03:00] un prefisso, un prefisso sicuro che ne abbiamo utilizzato
+[03:03] P801, un prefisso internazionale non allocato,
+[03:06] per cui per chiamare il mio interlocutore
+[03:09] scrivo P801, il numero di telefono dell'interlocutore
+[03:12] da chiamare, automaticamente il software rileverà
+[03:15] che sto facendo una chiamata sicura,
+[03:17] non partirà una chiamata voce normale,
+[03:20] ma partirà una chiamata sicura che attraverso
+[03:22] il voiceover e PC frato tramite internet
+[03:24] raggiungerà il destinatario
+[03:26] che mi permetterà di avere una comunicazione
+[03:28] assolutamente non intercettabile.
+[03:30] Con un aspetto importantissimo,
+[03:32] la chiave di comunicazione, di quella comunicazione
+[03:35] viene distrutta al termine della chiamata,
+[03:37] non è quindi possibile in alcun modo,
+[03:39] matematicamente parlando,
+[03:41] poter decodificare a posteriori quella comunicazione,
+[03:44] anche qualora questa fosse stata intercettata
+[03:46] in forma cifrata.
+[03:48] Solitamente questo tipo di soluzioni di sicurezza
+[03:50] richiede che ogni utente abbia il software installato
+[03:53] e quindi che ognuno paghi una licenza.
+[03:56] Il vostro prodotto ha qualche novità in questo senso?
+[03:59] Anche questo è un elemento di innovazione molto importante.
+[04:03] Fino ad oggi, con qualunque soluzione di questo genere
+[04:08] esistente oggi nel mercato,
+[04:10] se due persone con la necessità di comunicare in modo sicuro
+[04:14] avrebbero dovuto acquistare due prodotti,
+[04:16] siano essi hardware, telefoni speciali,
+[04:18] o siano essi in formato software.
+[04:21] Noi abbiamo introdotto una caratteristica
+[04:24] che chiamiamo frire si molli,
+[04:26] un meccanismo dalle per cui i nostri clienti,
+[04:28] i nostri utilizzatori,
+[04:30] possono inviare attraverso un SMS,
+[04:32] una funzionalità di invito via SMS,
+[04:34] all'utilizzo tutta la propria rete sociale
+[04:37] e i propri contatti con cui si vuole comunicare in modo sicuro
+[04:40] installano il software che funzionerà
+[04:42] per 15 giorni al pieno delle sue funzionalità.
+[04:45] Ma quando la licenza, il periodo di prova,
+[04:48] andrà a scadere, il software non interromperà le sue funzionalità,
+[04:51] anzi, continuerà a funzionare
+[04:53] per la ricezione delle chiamate sicure.
+[04:55] Questo cosa significa che con una singola licenza
+[04:58] potenzialmente potrei parlare con
+[05:00] tutta la mia rubrica,
+[05:02] quindi tutta la mia rete sociale in modo sicuro,
+[05:04] innalçando il livello di sicurezza.
+[05:06] Questo è un fattore estremamente importante
+[05:08] perché con tutti i meccanismi precedenti
+[05:10] io dovevo convincere
+[05:12] tutta la mia rete sociale,
+[05:14] persone con cui ho relazioni private
+[05:16] per usare prodotti di questo genere
+[05:18] piuttosto che ad acquistarli io
+[05:20] per il loro conto.
+[05:22] Questo modo è possibile con un set
+[05:24] ridotto, con un costo ridotto
+[05:26] proteggere un maggior numero di persone.
+[05:28] Un cliente non significa
+[05:30] un utente.
+[05:32] Quindi il vostro intento è uscire un po'
+[05:34] dall'utenza apprettamente business
+[05:36] e governativa
+[05:38] e spingervi anche nel mercato consumer.
+[05:40] Questo è un qualcosa di
+[05:42] che noi riteniamo estremamente importante
+[05:44] perché il bisogno
+[05:46] di proteggere le proprie comunicazioni
+[05:48] affronte dell'aumento del rischio
+[05:50] dell'innalzamento del rischio
+[05:52] è qualcosa che è diventato estremamente diffuso.
+[05:54] Per questo motivo
+[05:56] abbiamo deciso di passare
+[05:58] da un paradigma
+[06:00] di costo fisso
+[06:02] dei prodotti tendenzialmente
+[06:04] molto alto sul mercato
+[06:06] l'acquisto di prodotti di questo genere
+[06:08] si attesta intorno a 1.500 euro
+[06:10] il singolo telefonino.
+[06:12] Devo parlare in modo sicuro
+[06:14] dovrebbero spendere dai 2.000 e 3.000 euro.
+[06:16] Nel nostro caso abbiamo introdotto
+[06:18] dei meccanismi di modelli
+[06:20] softwares a service, modelli
+[06:22] di billing modelli moderni
+[06:24] con pagamenti mensili ricorrenti.
+[06:26] Pagamento mensile ricorrente
+[06:28] di 45 euro
+[06:30] permette di ridurre in modo importante
+[06:32] la barriera d'ingresso
+[06:34] e non dover sostenere dei costi
+[06:36] di alcune milioni di euro
+[06:38] per iniziare a usare una soluzione del genere.
+[06:40] Al di là del discorso costi
+[06:42] quali sono gli aspetti tecnologici
+[06:44] che vi sentite di sottolineare
+[06:46] rispetto alle soluzioni della concorrenza?
+[06:48] La feature più esclusiva
+[06:50] seppur difficilmente
+[06:52] comprensibile
+[06:54] alle volte per l'utente finale
+[06:56] e per le soluzioni della concorrenza
+[06:58] e per le soluzioni della concorrenza
+[07:00] e per le soluzioni della concorrenza.
+[07:02] La feature più esclusiva
+[07:04] seppur difficilmente
+[07:06] comprensibile
+[07:08] alle volte per l'utente finale
+[07:10] riguarda la sicurezza.
+[07:12] Noi utilizziamo dei meccanismi
+[07:14] di sicurezza standard
+[07:16] aperti
+[07:18] la cui implementazione e cui codici sorgenti
+[07:20] sono liberamente disponibili
+[07:22] su internet
+[07:24] con una tecnologia chiamata ZRTP
+[07:26] inventata da Philip Zimmermann
+[07:28] che è l'inventore di PGP
+[07:30] software più noto per la cifratura
+[07:32] delle comunicazioni a livello mondiale
+[07:34] riconosciuto come il massimo esperto
+[07:36] in criptografia a livello mondiale
+[07:38] che tra l'altro è nel nostro
+[07:40] board scientifico
+[07:42] L'utilizzo di questa tecnologia
+[07:44] garantisce specia
+[07:46] che il nostro software non possa avere
+[07:48] all'interno delle backdoor
+[07:50] cioè che possa avere all'interno
+[07:52] delle porte di servizio che
+[07:54] si richiesta di soggetti terzi
+[07:56] che possano fare pressioni politiche
+[07:58] o pressioni economiche
+[08:00] permetta di intercettare le comunicazioni
+[08:02] dei nostri studenti.
+[08:04] La nostra azienda e i nostri prodotti
+[08:06] nell'impossibilità
+[08:08] tecnologica di poter
+[08:10] inserire delle backdoor
+[08:12] attraverso l'utilizzo di tecnologia
+[08:14] standard, aperte e con una levitissima
+[08:16] reputazione
+[08:18] ma soprattutto interoperabili
+[08:20] anche con futuri prodotti che verranno.

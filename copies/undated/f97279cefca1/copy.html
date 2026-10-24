@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+		<title>MS Windows 2000/NT 4/XP Network Share Provider SMB Request Buffer Overflow (2)</title>
+		<meta name="description" content="MS Windows 2000/NT 4/XP Network Share Provider SMB Request Buffer Overflow (2)" />
+		<meta name="keywords" content="MS Windows 2000/NT 4/XP Network Share Provider SMB Request Buffer Overflow (2)" />
+		
+		
+					
+		        
+        
+        
+        <link rel="stylesheet" href="http://www.exploit-db.com/wp-content/themes/exploit/js/jquery.fancybox/jquery.fancybox-1.3.1.css" type="text/css" media="screen" />
+        <link type="text/css" rel="stylesheet" href="http://www.exploit-db.com/wp-content/themes/exploit/styles/shCore.css"/>
+        <link type="text/css" rel="stylesheet" href="http://www.exploit-db.com/wp-content/themes/exploit/styles/shThemeDefault.css"/>
+        <link type="text/css" rel="stylesheet" href="http://www.exploit-db.com/wp-content/themes/exploit/styles/jquery.rating.css" />
+        <link type="text/css" rel="stylesheet" href="http://www.exploit-db.com/wp-content/themes/exploit/styles/exploit.css" />
+		<link rel='stylesheet' id='shutter-css'  href='/slider/shutter-reloaded.css?ver=1.3.0' type='text/css' media='screen' />
+		<link type="text/css" rel="stylesheet" href="/wp-content/themes/exploit/digi.css" />
+
+		<style type="text/css">
+		h1 {
+		font-size:22px !important;
+		}
+		.barColor {
+		display:table;
+		clear:both;
+		background-color:#d5d7dd;
+		width:1280px;
+		border:solid #aaa 1px;
+		-webkit-border-radius:5px;
+		-moz-border-radius:5px;
+		border-radius:5px;
+		margin:10px auto 10px auto;
+		}
+		body {
+		background-color:#292929;
+		margin:0px;
+		font-size:14px;
+		}
+		#container {
+		display:block;
+		background-color:#fff;
+		width:1270px;
+		position:relative;
+		left:0px;
+		padding:0 0 0 10px;
+		margin:0 auto -40px auto;
+		/*border:solid #ddd 1px;*/
+		-webkit-border-radius:5px;
+		-moz-border-radius:5px;
+		border-radius:5px;
+		}
+		pre {
+		width:1200px !important;
+		overflow:auto !important;
+		}
+		table {
+		background-color:#f5f5f5;
+		border:solid #aaa 1px;
+		-webkit-border-radius:5px;
+		-moz-border-radius:5px;
+		border-radius:5px;
+		}
+		
+		tr.meta td {font-weight:bold; color:#606060;}
+		table.comment.odd {
+		width:710px;
+		background-color:#f8f8f8;
+		padding:10px;
+		margin:10px;
+		border:solid #ccc 1px;
+		margin-left:auto; margin-right:auto;
+		}
+
+		table.comment.even {
+		width:710px;
+		background-color:#f8f8f8;
+		padding:10px;
+		margin:10px;
+		border:solid #ccc 1px;
+		margin-left:auto; margin-right:auto;
+		}
+		a img {
+		border:none;
+		border-style:none;
+		}
+		#screenshot_upload_form {
+		margin: 0px auto 10px auto;
+		}
+		</style>
+        
+	</head>
+	<body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://www.exploit-db.com/exploits/21747">www.exploit-db.com/exploits/21747</a> · captured 2012-12-22 · scripts removed</div>
+<div class="barColor">
+		
+	<div id="topAd" style="position:relative; float:right; margin:5px 20px 5px 20px;">
+		
+		
+	</div>
+					<h1 style="position:relative; left:30px;">MS Windows 2000/NT 4/XP Network Share Provider SMB Request Buffer Overflow (2)</h1>
+		
+		<br /><br />
+
+		<table style=" position:relative; left:50px; top:-10px; height:110px; float:left;">
+		
+			<tr>
+			<td style="background-color:#fff; padding:5px;">EDB-ID: <span class="r1">21747</span> </td>
+			<td style="background-color:#fff; padding:5px;">  CVE:  <a rel="nofollow" href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0724" target="_blank">2002-0724</a></td>
+			<td style="background-color:#fff; padding:5px;">OSVDB-ID: <a rel="nofollow" href="http://osvdb.org/show/osvdb/2074" target="_blank">2074</a></td>
+			</tr>
+				
+			<tr>
+			<td style="background-color:#fff; padding:5px;">Author: zamolx3</td>
+			<td style="background-color:#fff; padding:5px;">Published: 2002-08-22</td>
+			<td style="background-color:#fff; padding:5px;">Verified: <img src="http://www.exploit-db.com/images/accept.png" alt="Verified" /></td>
+			</tr>
+			
+			<tr>
+			<td style="background-color:#fff; padding:5px;">Exploit Code: &nbsp;&nbsp;<a href="/download/21747"><img src="/images/46.png" style="position:relative; top:5px;" alt="Download" title="Download" border="0" /></a></td>
+			<td style="background-color:#fff; padding:5px;">Vulnerable App: &nbsp;&nbsp;N/A</td>
+			<td style="background-color:#fff; padding:5px;">
+			
+			
+			
+			</td>
+			</tr>
+		</table>
+		
+		<table style="position:relative; top:-10px; height:110px;  float:left; margin-left:60px;">
+		<tr><td style="background-color:#fff; margin:5px;">
+		<div id="rating2">
+			
+			<h2 style="margin-bottom:0px; font-size:14px;">Rating</h2>
+			<form action="" method="post">
+				<label>Overall:</label>
+				<input name="rate" type="radio" class="star total-rating" value="1" />
+				<input name="rate" type="radio" class="star total-rating" value="2" />
+				<input name="rate" type="radio" class="star total-rating" value="3" />
+				<input name="rate" type="radio" class="star total-rating" value="4" />
+				<input name="rate" type="radio" class="star total-rating" value="5" />
+				<span class="num_value">
+					(0.0)				</span>
+			</form>
+			<div class="clear"></div>
+							<!-- 
+				<p><a href="http://www.exploit-db.com/?page_id=1321?redirect_to=http://www.exploit-db.com/exploits/21747">Login</a>/<a href="">Register</a> to be able to rate exploits</p>
+				 -->
+						
+		</div> <!--end of #rating-->
+		
+		</td></tr></table>
+		
+		<div style="display:table; table-layout:fixed; width:700px; float:left; margin-left:30px;">
+		
+				
+			<a style="text-decoration:none; color:#000;" href="http://www.exploit-db.com/exploits/21746/"><img src="http://www.exploit-db.com/images/prev.png" alt="Prev" style="border:none; border-style:none;" /></a>
+						
+			 <a style="text-decoration:none; color:#000;" href="http://www.exploit-db.com"><img src="http://www.exploit-db.com/images/back.png" alt="Home" style="border:none; border-style:none;" /></a>
+			
+						<a style="text-decoration:none; color:#000;" href="http://www.exploit-db.com/exploits/21748/"><img src="http://www.exploit-db.com/images/next.png" alt="Next" style="border:none; border-style:none;" /></a>
+					</div>
+
+</div><!--// top color //-->
+		
+
+		 		
+		<div id="container">
+			<pre class="brush: text;gutter:false;auto-links: false;;">source: http://www.securityfocus.com/bid/5556/info
+ 
+Microsoft Windows operating systems use the Server Message Block (SMB) protocol to support services such as file and printer sharing. A buffer overflow vulnerability has been reporting in the handling of some malformed SMB requests.
+ 
+An attacker may send a malformed SMB request packet in order to exploit this condition. It has been reported possible to corrupt heap memory, leading to a crash of the underlying system.
+ 
+It may prove possible to exploit this vulnerability to execute arbitrary code and gain local access to the vulnerable system. This possibility has not, however, been confirmed.
+ 
+Reportedly, this vulnerability may be exploited both as an authenticated user, and with anonymous access to the service.
+ 
+It has been reported, by &quot;Fabio Pietrosanti \(naif\)&quot; &lt;naif@blackhats.it&gt;, that disabling the NetBIOS Null Session will prevent exploitation of this vulnerablity. 
+
+http://www.exploit-db.com/sploits/21747.zip</pre>
+		</div>
+<br /><br /><br />
+
+<div class="barColor">		
+<center>
+<br /><br />
+
+
+</center>
+	
+		
+		
+		<br />
+
+		<fieldset id="digicomments" style="width:755px;  margin-left:auto; margin-right:auto; background-color:#eaeaea;"> 
+		<legend>Comments</legend>
+		<div id="comments2">
+			
+										<h3>No comments so far</h3>
+										<!-- <p><a href="http://www.exploit-db.com/?page_id=1321?redirect_to=http://www.exploit-db.com/exploits/21747">Login</a>/<a href="http://www.exploit-db.com/?page_id=1323">Register</a> to be able to post comments</p> -->
+					</div>
+		</fieldset>
+
+<br /><br />
+<center>
+<div id="footer">
+
+
+<br /><br />
+
+        &copy; Offensive Security 2011
+</div></center>
+			
+				
+		</div>
+</body>
+</html>

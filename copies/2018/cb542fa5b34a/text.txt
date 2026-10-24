@@ -1,0 +1,763 @@
+org/meetings/2018Rome – Tor Bug Tracker & Wiki
+
+ Login 
+ Preferences 
+ Help/Guide 
+ About Trac 
+ Register 
+ Forgot your password? 
+
+ View Tickets 
+ Wiki 
+ Tags 
+
+ wiki: org / meetings / 2018Rome 
+
+ Context Navigation
+
+ Up 
+ Start Page 
+ Index 
+ History 
+
+ What is the Tor Meeting?
+
+ What is the Tor Meeting? 
+
+ Week at a glance 
+
+ Detailed Daily Agenda 
+
+ Location 
+
+ Hotel 
+
+ Midweek Party 
+
+ Airport 
+
+ Weather 
+
+ Weather Forecast 
+
+ Who 
+
+ Dinner 
+
+ Coordination mailing list 
+
+ Outcomes and Session ideas 
+
+ Working Sessions 
+
+ Open Days 
+
+ Notes 
+
+ Nearby (temporally and physically) conferences 
+
+ Local Medical Resources 
+
+ Pharmacy / Chemist 
+
+ Doctor 
+
+ Interesting local stuff 
+
+ Groceries / Supermarket 
+
+ Restaurants 
+
+ Gelato (i.e. ice cream) 
+
+ Coffee 
+
+ Craft Beer 
+
+ Wine and aperitivo 
+
+ Sightseeing in Rome 
+
+ "Day trips" from Rome 
+
+ A meeting of the core Tor team, developers, volunteers and invited guests in Rome, to discuss plans, milestones, deadlines, and other important matters.
+
+Participant Guidelines: 2018Rome/ParticipantGuidelines 
+
+ Week at a glance
+
+ March 11 : team meeting day (anyone not on teams will arrive today), group dinner in the evening. (if you need to be present at this day, you will have received an invitation from one of the teams)
+
+ March 12 : structured agenda with specific tracks. (this day is invitation-only)
+
+ March 13 : self-organizing open space: working and hacking sessions. (this day is open to the public)
+
+ March 14 : structured agenda with specific tracks. (this day is invitation-only)
+
+ March 15 : self-organizing open space: working and hacking sessions; relay operators meetup (not in the hotel) later everyone heads home. (this day is open to the public)
+
+ Detailed Daily Agenda
+
+ 2018Rome/DailyAgenda 
+
+ Location
+
+The event venue will be located in The Rome Life Hotel. ​ http://www.moodhotels.it/eng/life-hotel-roma/meeting-rooms-rome.html 
+
+ Via Palermo 10/12, 00184 Roma (Italia)
+GPS 41.898677, 12.491594
+Tel: +39 06 99291210
+Fax: +39 06 99291223
+Email: romelife@moodhotels.it
+ Hotel
+
+We will have three separate hotels for this meeting. They're all located on the same block. They are The Rome Life, The Rome Times, and The Rome Glam Hotels. ​ http://www.moodhotels.it/eng/life-hotel-roma/index.html ​ http://www.moodhotels.it/ita/rome-glam-hotel/index.html ​ http://www.moodhotels.it/eng/times-hotel-roma/index.html 
+
+ Midweek Party
+
+The midweek evening party will be held on Wednesday 03/14 from 19:00-23:30. The event will be held at Sharivari - Via di Torre Argentina, 78 00186 Rome RM
+ ​ http://www.sharivari.it/ 
+There will be food, drinks, music, and other fun type things. After 23:30 there is an attached club that is open until 3am. Come celebrate pi day!!
+
+ Airport
+
+To get to the city from the Fiumicino airport (FCO) you have 4 options:
+
+ Train (recommended option)
+
+From the FCO airport, take the train (Leonardo Express) to Rome Termini. It costs 14 EUR, it's direct, takes 32 minutes and runs fairly regularly. You can buy tickets from the automatic machines (with an annoying voice shouting at you) at the train station in the FCO airport.
+
+The hotel is a 13 minute walk (1.1km) from Rome Termini station.
+
+ Taxi
+
+A taxi ride from the FCO Airport to inside the Aurelian Walls (which is where the hotel is) has a fixed price (tariffafissa) of 48 EUR. Be sure to tell the taxi driver of this option before you get in the taxi. The taxi ride may take 1 hour, but that depends on the traffic.
+
+As you exit the airport, many people will offer you a taxi ride, but they will try to rip you off. Ignore them or kindly decline and go to the taxi stand outside.
+
+While in theory most taxis should accept credit cards, their credit card machines always seem to have some form of malfunction. So be sure to either have enough cash on hand or ask them before starting the ride if they accept credit cards.
+
+ Bus
+
+The bus is cheaper than the train, but takes longer. Here you can find a list of bus companies that offer Fiumicino transfers: ​ http://www.adr.it/web/aeroporti-di-roma-en-/pax-fco-bus .
+
+ Uber
+
+The situation with Uber in Italy is a bit complex (tl;dr Uber as you know it does not exist in Italy). If you book an Uber, a fancy car will pick you up and the price will be either equal or greater than a taxi.
+
+ Weather
+
+Due to the change in seasons, March can be an unpredictable time of the year weather-wise, with both chilly and fairly warm days. To avoid getting caught short by any sudden temperature changes, bring a mix of warm and cool clothing.
+
+It doesn't usually rain much in Rome during March, so you should probably expect to get a lot of sunlight under blue skies.
+
+ Weather Forecast
+
+It's going to be a lovely week in Rome. Sunny skies, with temperatures of 16-20 C (60-70 F) during the day, and 10 C (50 F) overnight.
+Rain is expected on Saturday, but it will be fine for the rest of the week.
+
+Bring a hat for the days, and a coat for the evenings.
+
+ ​ https://www.accuweather.com/en/it/rome/213490/weather-forecast/213490 
+
+ Who
+
+If you want to tell people that you're going or not going, please add yourself to this table:
+
+(Remember, only March 13 and March 15 are open to the public, all other days are invitation only.)
+
+ Person Attending Arriving Departing Mark this column if you want a room in the hotel block Preferred name for name tag Special Dietary Needs 
+
+ John Helmsen Yes 11 Mar 15 Mar Yes John Helmsen 
+
+ Philipp Winter No 
+
+ Rob Jansen Yes 10 Mar 16 Mar No Rob Jansen Vegan 
+
+ Matt (pastly) Yes 10 Mar 16 Mar No Matt (pastly) 
+
+ Ian Yes 9 Mar 18 Mar Yes Ian 
+
+ kat Yes 9 Mar 18 Mar Yes kat Pescatarian 
+
+ ln5 Yes 9 Mar 16 Mar Yes Linus Nordberg Pescatarian 
+
+ Paul Syverson Yes 11 Mar 15 Mar No Paul Syverson 
+
+ Aaron Johnson Yes 11 Mar 16 Mar No Aaron Johnson 
+
+ teor Yes early Mar late Mar Yes Tim (teor) Sent Privately 
+
+ Mike Tigas Yes 12 Mar TBD Yes Mike Tigas 
+
+ Alex Yes TBD TBD TBD Alex (ahf) 
+
+ David F. No 
+
+ intrigeri Yes 11 Mar 15 Mar Yes intrigeri 
+
+ Pari Yes 11 Mar TBD Yes Pari 
+
+ Julius Yes 11 Mar 13 Mar Yes Julius 
+
+ Antonela Yes 9 Mar 18 Mar Yes Antonela (antonela) 
+
+ Georg Yes 10 Mar 16 Mar Yes Georg (GeKo) Vegetarian 
+
+ George Yes 10 Mar 15 mar Yes George (asn) 
+
+ Florentin Rochet Yes 11 Mar 15 Mar Yes Florentin (Jaym) 
+
+ Maria Xynou Yes 9th March No Maria (agrabeli) 
+
+ Will Yes 9 Mar 16 Mar Yes will Vegetarian 
+
+ Nick M Yes 8 Mar 17 Mar yes Nick Mathewson 
+
+ boklm Yes 10 Mar 15 Mar yes Nicolas (boklm) 
+
+ Hans-Christoph Steiner Yes TBD TBD yes Hans (_hc) Vegetarian 
+
+ dgoulet Yes Mar Mar Yes David Goulet 
+
+ ewyatt Yes 10 Mar 15 Mar Yes Erin Wyatt 
+
+ Alison Yes 10 Mar ? Yes Alison (flexlibris) no red meat 
+
+ egypcio YES 10 Mar 17 Mar Vinícius Zavam (egypcio) 
+
+ Arlo No 
+
+ Richard Pospesel Yes 8 Mar 15 Mar Yes Richard Pospesel (pospeselr) Vegetarian 
+
+ igt0 Yes 10 Mar 16 Mar TBD Igor Oliveira (igt0) 
+
+ Micah Lee Yes 10 Mar 16 Mar Yes Micah Lee 
+
+ Micah (A) Yes Mar Mar Yes Micah (A) vegetarian 
+
+ Gabriella Coleman Yes Mar 10 Mar 14 Yes biella 
+
+ Fabio (naif) Likely 14 Mar 14 Mar No Fabio (naif) 
+
+ Chelsea (komlo) Yes 9 Mar 16 Mar Yes Chelsea (komlo) 
+
+ Ramy Raoof Yes 10 Mar 16 Mar Yes @RamyRaoof 
+
+ leez Yes 10 Mar 16 Mar Yes leez Vegetarian 
+
+ gus Yes ? ? Yes gus Vegan 
+
+ Benjamin Erhart Yes 11 Mar 15 Mar Yes Benjamin (tla) 
+
+ ffmancera Yes 13 mar 17 mar No Fernando (ffmancera) 
+
+ Leonid Evdokimov (darkk) Yes 10(?) Mar 16(?) Mar Yes 
+
+ Elio Qoshi Yes 10 Mar 16 Mar Yes 
+
+ stefani no 
+
+ mjuarezm Yes 11 Mar 16 Mar No Marc 
+
+ Lorenzo Yes 10 Mar 15 Mar Yes Lorenzo 
+
+ Szeming Yes 11 Mar 15 Mar Yes Szeming 
+
+ Hiro Yes 10 Mar 15 Mar Yes Hiro 
+
+ sbs Yes 10 Mar 15 Mar Yes sbs 
+
+ vasilis Yes 10 Mar ?? Mar Yes vasilis 
+
+ qbi No 
+
+ catalyst Yes 9 Mar 16 Mar Yes Taylor (catalyst) 
+
+ iwakeh no 
+
+ karsten No Karsten Loesing (karsten) Vegetarian 
+
+ irl Yes 10 Mar 16 Mar Yes Iain (irl) 
+
+ mcs Yes 10 Mar 15 Mar Yes (single) Mark (mcs) 
+
+ brade No 
+
+ stephw Yes 10 Mar 16 Mar Yes Steph non-dairy or vegan 
+
+ Sukhbir Yes 10 Mar 16 Mar Yes (single) Sukhbir (sukhe) 
+
+ amoghbl1 Yes 7 Mar 15 Mar No Amogh (bl1) 
+
+ saint No Griffin 
+
+ Shari Yes Mar 9 Mar 15 Yes Shari 
+
+ Will Shackleton (Facebook) Yes 12 Mar 16 Mar Yes Will Shackleton 
+
+ Patrick McManus (Mozilla) Yes TBD TBD No Patrick McManus 
+
+ Ethan Tseng (Mozilla) Yes 10 Mar 14 Mar Yes (single) Ethan Tseng 
+
+ Gary Chen (Mozilla) No Gary Chen 
+
+ Tim Huang (Mozilla) Yes 10 Mar 14 Mar Yes (single) Tim Huang 
+
+ englehardt (Mozilla) Yes 10 Mar 15 Mar Yes (single) Steven Englehardt 
+
+ anonym (Tails) Yes 12 Mar 15 Mar Yes anonym 
+
+ Eileen Yes 10 Mar 13 Mar Yes Eileen 
+
+ Julie Owono Yes 11 Mar 18 Mar Yes Julie Vegetarian/Gluten free 
+
+ Arthur Yes 10 Mar 15 Mar Yes Arthur (arthuredelstein) Vegetarian 
+
+ Matt Finkel Yes 9 Mar 16 Mar Yes Matt Finkel (sysrqb) Vegetarian 
+
+ David Stainton Yes 11 Mar 15 Mar No David Stainton 
+
+ ilv Yes 9 Mar 14 Mar ? ilv 
+
+ infinity0 Yes π±0.04 No infinity0 
+
+ Sina Rabbani Yes 11 Mar 14 Mar No Sina Rabbani Vegan 
+
+ Steven Murdoch Yes 10 Mar 16 Mar No Steven Murdoch (sjmurdoch) 
+
+ Pushkar Pathak Yes 10 Mar 16 Mar Yes Pushkar (hash) 
+
+ Jen Helsby (redshiftzero) Yes 11 Mar 16 Mar No Jen (redshiftzero) Vegan 
+
+ Juris No 
+
+ mo (gamambel) No 
+
+ isabela yes 09 Mar 19 Mar yes isabela vegetarian 
+
+ haxxpop Yes 10 Mar 16 Mar No Pop (haxxpop) 
+
+ Adelita Schule Yes 10 Mar 15 Mar Adelita 
+
+ Nikita Borisov Yes 11 Mar 15 Mar Nikita 
+
+ Roger Yes 8 Mar 16 Mar No Roger 
+
+ Dinner
+
+Here's where information about the group dinner goes. If you plan on attending the "meet and greet" dinner, please add yourself to this table:
+
+ Person Attending 
+
+ Rob Jansen yes 
+
+ Ian yes 
+
+ kat yes 
+
+ ln5 yes 
+
+ Paul Syverson yes 
+
+ Aaron Johnson yes 
+
+ teor yes 
+
+ Alex yes 
+
+ intrigeri yes 
+
+ Pari yes 
+
+ Julius yes 
+
+ Antonela yes 
+
+ Georg yes 
+
+ Maria Xynou yes 
+
+ Will yes 
+
+ Elio Qoshi yes 
+
+ Nick M yes 
+
+ boklm yes 
+
+ george yes 
+
+ Hans-Christoph Steiner yes 
+
+ dgoulet yes 
+
+ Alison yes 
+
+ Florentin yes 
+
+ egypcio YES 
+
+ Richard yes 
+
+ Igor yes 
+
+ Micah 0 yes 
+
+ Micah⁻¹ yes 
+
+ Chelsea yes 
+
+ Ramy yes 
+
+ leez yes 
+
+ gus yes 
+
+ Benjamin Erhart yes 
+
+ darkk yes 
+
+ mjuarezm yes 
+
+ Lorenzo yes 
+
+ Szeming yes 
+
+ Hiro yes 
+
+ sbs yes 
+
+ vasilis yes 
+
+ catalyst yes 
+
+ karsten no 
+
+ irl yes 
+
+ mcs yes 
+
+ stephw yes 
+
+ englehardt yes 
+
+ amoghbl1 yes 
+
+ Shari yes 
+
+ anonym no 
+
+ Julie yes 
+
+ Arthur yes 
+
+ Sukhbir yes 
+
+ Matt (sysrqb) yes 
+
+ David Stainton yes 
+
+ ilv yes 
+
+ Eileen yes 
+
+ Steven Murdoch yes 
+
+ Pushkar yes 
+
+ Jen (redshiftzero) yes 
+
+ isabela yes 
+
+ infinity0 yes 
+
+ haxxpop yes 
+
+ Adelita Schule yes 
+
+ Nikita yes 
+
+ Roger yes 
+
+ Matt (pastly) yes 
+
+ Coordination mailing list
+
+Subscribe to the ​ tor-meeting mailing list to keep informed about plans.
+
+ Outcomes and Session ideas
+
+Put your ideas for outcomes and sessions here:
+
+ 2018Rome/AgendaIdeas 
+
+ Working Sessions
+
+ 2018Rome/WorkingSessions 
+
+ Open Days
+
+ 2018Rome/OpenDays 
+
+ Notes
+
+ 2018Rome/Notes 
+
+ Nearby (temporally and physically) conferences
+
+Right before the Tor Meeting, there's the Internet Freedom Festival (IFF) in Valencia, Spain, between 5th-9th March 2018. Learn all about the IFF here: ​ https://internetfreedomfestival.org/ 
+
+Barcelona cyber-security Meetup 19th March: ​ https://www.meetup.com/Barcelona-Cybersecurity/events/247358676/ [contact Hiro if you'd like to speak this meetup]
+
+ Local Medical Resources
+
+The hospital emergency number is: 118.
+
+ Pharmacy / Chemist
+
+There's a pharmacy (Farmacia Quirinale di Maria Cristina Nisi) on Via Milano 54, which is less than 100m from the hotel. It's open daily from 8:30 am to 7:30 pm, and between8:30amto1pmon Saturdays. It's closed on Sundays.
+
+Every pharmacy has a sign next to their door with a list of all nearby pharmacies and their opening hours for that week. If you are looking for an open pharmacy you can also try searching on the web for "Farmacieaperte".
+
+ Doctor
+
+If you have health issues, it's probably best to go to the emergency room (pronto-soccorso) and ask to see a doctor. In Italy you can visit a hospital without insurance, and without having to ask for a mortgage to pay the bill.
+
+Nearest Hospital to the hotel:
+
+San Giovanni Addolorata Hospital
+Via dell'Amba Aradam, 9, 00184 Roma RM, Italy
+ ​ http://hsangiovanni.roma.it 
+Ph: +39 06 77051
+
+Pediatrician:
+
+DANIELA PICHETTI
+VIA PANISPERNA 209, ROMA, 00184
+Ph: +39 0648904659
+
+General practitioner:
+
+AGOSTINO MITTIGA
+VIA MERULANA 209 , ROMA, 00184
+Ph: +39 0670453760
+
+The above two doctors were found on: 
+ ​ https://www.salutelazio.it/ricerca-medici 
+Enter as fields: 
+"Tipo di medico": "Pediatra" (pediatrician) OR "Medicina Generale" (General Practitioner)
+"CAP": "00184
+
+Nearest Police Station:
+
+Via di S. Vitale, 15, 00184 Roma RM, Italy
+ ​ http://questure.poliziadistato.it/ 
+
+ Interesting local stuff
+
+ Groceries / Supermarket
+
+There's a supermarket (Conad City) on Via del Boschetto 54, which is a 2 minute walk (190m) from the hotel. It's open daily between 8am to 9pm, and between 8am to 1pm on Sundays.
+
+Porta Portese is Rome's biggest flea market, selling everything from vegetables, antiques to clothes ( ​ https://www.likealocalguide.com/rome/porta-portese ). It's only open on Sundays from 6am to 2pm. If you go, prepare to bargain.
+
+ Restaurants
+
+"If you don't care about how we cook, stick to your Burgers and Leave our dishes alone." - ​ Some Italian mad at food 
+
+In Italy we love food and are very passionate about it. We therefore make some of the best food in the world.
+
+ Restaurant Name Address Type of restaurant Notes 
+
+ Dar Bruttone Via Taranto 118 (San Giovanni) Traditional Roman cuisine with a twist Their "Carbonara Tartufata" is the best pasta in the world! 
+
+ Vecchia Roma Via Ferruccio, 12 (Piazza Vittorio) Traditional Roman trattoria, with pizza It's a pretty small place. 
+
+ Da Bucatino Via LucadellaRobbia, 84 Trattoria Must get bucatini all'amatriciana! Don't worry, they give you a bib to not get your shirt dirty. 
+
+ Dar Poeta Vicolo del Bologna, 45 Pizzeria You will most likely have to wait a bit to get a table and you can't reserve, but it's worth it. 
+
+ Emma Via del Monte della Farina, 28 Fancy Pizza place Great pizza & pasta! 
+
+ Al Grottino Via Orvieto 6 Pizzeria Amazing pizza! 
+
+ Urbana 47 Via Urbana, 47 Hipster Italian cuisine 
+
+ La Carbonara Via Panisperna, 214 Osteria 4 minute walk (350m) from the hotel, offers classic Roman dishes. 
+
+ Guerra Via Eleonora d'Arborea, 5 Trattoria close to Piazza Bologna, unique plate at lunch, few more at dinner (non si puo smezzare) 
+
+ Gelato (i.e. ice cream)
+
+In Italy we love ice cream, have a history of making it, and have perfected its art!
+
+You will therefore find gelaterias everywhere, and most will probably be great.
+
+Below are some recommendations.
+
+ Gelateria Address Notes 
+
+ Giolitti Via Uffici del Vicario, 40 Established in 1900 & still a family run business to this day. 
+
+ La Romana Via Venti Settembre, 60 Established in 1947 as a family run gelateria. 
+
+ Gelateria del Teatro ViadeiCoronari, 65 Shortwalkfrom Piazza Navona, known for its high-quality ingredients. 
+
+ Gelateria Grom PiazzadeiCinquecento Close to the hotel & includes ingredients for those with lactose intolerance. 
+
+ Venchi ViadegliOrfani, 87 Right next to the Pantheon, been around since 1878, still offers amazing gelato||
+
+ Fassi Via Principe Eugenio, 65 close to Piazza Vittorio Emanuele, best gelato since 1880 
+
+ Coffee
+
+In Italy we love coffee, and so you will have a hard time finding bad coffee.
+
+If you walk into any bar and ask for a coffee, you will get an espresso coffee (as it should be).
+
+These are the possible variations of an espresso:
+
+ Lungo (long)
+
+ Ristretto (short)
+
+ Alvetro(in a glass cup)
+
+ In tazza grande (in a big cup)
+
+ Americano (with added water)
+
+ Macchiatoacaldo(with a dash of hot milk)
+
+ Macchiatoafreddo(with a dash of cold milk)
+
+ Macchiatoconschiuma(with a dash of milk foam)
+
+ Caffelatte (glass of milk with some coffee - usually used to train kids to drink coffee)
+
+ Cappuccino (don't ask for it after 12.00!)
+
+You can also get a cappuccino in every cafè and it's also very good.
+
+Don't ask for a "Latte", you will get a glass of milk.
+
+While it's true that most bars (even the shady one next to the train station) offer excellent coffee experiences, there are some that do stand out:
+
+ Sant'Eustachio Il Caffè - Piazza di San Eustachio, 82 - They roast their own beans and I would recommend buying some coffee here to bring back home.
+
+ Craft Beer
+
+ Open Baladin - Via degli Specchi, 6, 00186
+
+ Brewdog - Via delle Terme di Tito, 80, 00184
+
+ Bir & Fud - Via Benedetta, 23, 00153
+
+ Ma Che Siete Venuti A Fà - Via Benedetta, 25, 00153
+
+ Donkey Punch - Via della Scala, 33
+
+ Queen Makeda Grand Pub - Via di San Saba, 11
+
+ L’Osteria di Birra del Borgo - Via Silla, 26a
+
+ Brasserie 4:20 - Via Portuense, 82, 00153
+
+ Hopside - Via Francesco Negri 39
+
+ Luppolo Station - Via Giuseppe Parini, 4, 00152
+
+ Barley Wine - Viale dei Consoli, 115/117, 00175
+
+ Wine and aperitivo
+
+Wine is the blood of Italy.
+
+ Al Vino al Vino Via dei Serpenti, 19 big variety of wines and something to eat 
+
+ Zazi nel metrò Via Ettore Giovenale, 16 very nice local bar for meeting the neighbourhood of Pigneto 
+
+ ZeroZero100 Via del Verano, 27 big buffet aperitivo from 18.30 until 22.00 
+
+ Montmarte Viale Ventuno Aprile, 19 big buffet aperitivo 
+
+ Mizzica Via Catanzaro, 30-36 real sicilian food 
+
+ Da Luca Via Urbana, 15 great aperitivo with wine, cheese and cured meat or for a fast lunch in Monti 
+
+ Sightseeing in Rome
+
+Rome is an ancient city full of attractions worth visiting. Some of these are included in the table below.
+
+ Attraction Cost Open Hours Link Notes 
+
+ Trevi Fountain Free Always ​ https://en.wikipedia.org/wiki/Trevi_Fountain It's less crowded late at night (but still quite crowded) 
+
+ Pantheon Free 9am - 6pm ​ https://en.wikipedia.org/wiki/Pantheon,_Rome Usually no queue :) 
+
+ Colosseum 12 euros 8:30am - 5pm ​ https://www.coopculture.it/en/colosseo-e-shop.cfm Buy your ticket online (in advance) to skip the (huge) queue|||||||| 
+
+ Roman Forum & Palatine Hill Included in the Colosseum ticket 8:30am - 5pm ​ https://www.coopculture.it/en/heritage.cfm?id=4 Located right next to the Colosseum 
+
+ Piazza Venezia Free Always ​ https://en.wikipedia.org/wiki/Piazza_Venezia Walking distance from the Colosseum 
+
+ Vatican Museums & Sistine Chapel 17 euros 9am - 6pm (last entry at 4pm) ​ https://biglietteriamusei.vatican.va/musei/tickets/do Buy your ticket online (in advance) to skip the (huge) queue|||||||| 
+
+ St. Peter's Basilica Free 7am - 6pm ​ https://en.wikipedia.org/wiki/St._Peter%27s_Basilica Located right next to the Vatican 
+
+ Piazza di Spagna Free Always ​ https://en.wikipedia.org/wiki/Piazza_di_Spagna Includes the famous Spanish Steps & FontanadellaBarcaccia 
+
+ Piazza del Popolo Free Always ​ https://en.wikipedia.org/wiki/Piazza_del_Popolo Includes an Egyptian obelisk & various famous fountains 
+
+ Piazza Navona Free Always ​ https://en.wikipedia.org/wiki/Piazza_Navona Famous fountains and Egyptian obelisks 
+
+ Campo de' Fiori Free Always ​ https://en.wikipedia.org/wiki/Campo_de%27_Fiori Giordano Bruno was burnt alive on this square (located close to Piazza Navona) 
+
+ Basilica di San Giovanni in Laterano Free 7am - 6:30pm ​ https://en.wikipedia.org/wiki/Archbasilica_of_St._John_Lateran The oldest & most highest-ranking church in Rome 
+
+ Basilica di Santa Maria Maggiore Free 7am - 6:45pm ​ https://en.wikipedia.org/wiki/Basilica_di_Santa_Maria_Maggiore It's beautiful. 
+
+ Capitoline Museums 11,50 euros 9:30am - 7:30pm ​ http://www.museicapitolini.org/en/informazioni_pratiche/biglietti_e_audioguide Probably best to purchase your ticket online (to skip the queue) 
+
+ Catacomb of Priscilla 8 euros 9am - 12pm, 2pm - 5pm ​ http://www.catacombepriscilla.com/index_en.html Called "the Queen of the Catacombs". 
+
+ Gianicolo Hill Free Always ​ https://en.wikipedia.org/wiki/Janiculum Panoramic view of Rome 
+
+ Circus Maximus Free Always ​ https://en.wikipedia.org/wiki/Circus_Maximus The first and largest stadium in ancient Rome. 
+
+ Borghese Gallery 22 euros Tuesday to Sunday,8:30am- 7:30pm ​ http://www.galleriaborghese.it/it/musei/galleria-borghese Also worth walking around the Villa Borghese park. 
+
+ National Museum of Castel St. Angelo 15 euros 9am - 7:30pm ​ http://www.galleriaborghese.it/en/home_en/national-museum-of-castel-s-angelo Beatrice Cenci was beheaded at Castel St. Angelo & legend has it that her ghost walks on the bridge every year on 11th September. 
+
+ "Day trips" from Rome
+
+There's a lot to see and do in Rome. But if you plan on staying in Italy for extra days (before and/or after the Tor Meeting), here are some other great places you can easily visit by hopping onto a train from Rome.
+
+ City Train ride Notes 
+
+ Naples 1 hour & 15 minutes (from Rome Termini station) Try theNapolitanpizza & hike the Vesuvius volcano. 
+
+ Pompeii or Herculaneum 40 minutes (from Naples Central station) Ancient cities buried by the eruption of Mount Vesuvius, yet still preserved (UNESCO World Heritage Site). (Pompeii is larger and more crowded. Herculaneum has more steps.) 
+
+ Bracciano 1 hour & 16 minutes (from Rome Termini) Small town famous for its volcanic lake and medieval castle. 
+
+ Florence 1 hour & 22 minutes (from Rome Tiburtina) Considered the birthplace of Renaissance. 
+
+ Siena 3 hours & 10 minutes (from Rome Termini) Medieval city in Tuscany, famous for its cuisine, art, and museums (UNESCO World Heritage Site). 
+
+.
+
+ Last modified 15 months ago 
+ Last modified on Mar 15, 2018, 10:46:47 PM 
+
+ Download in other formats:
+
+ Plain Text 
+
+ Powered by Trac 1.2 
+
+ By Edgewall Software .
+
+ Visit the Tor project at
+ https://www.torproject.org/

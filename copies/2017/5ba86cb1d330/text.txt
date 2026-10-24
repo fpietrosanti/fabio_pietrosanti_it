@@ -1,0 +1,233 @@
+"Dimmi come digiti e ti dirò chi sei". Così il software riconosce chi scrive - Repubblica.it 
+
+ Repubblica.it 
+
+ Tecnologia 
+
+ Navigazione principale
+
+ Home 
+
+ News 
+
+ Speciali 
+
+ Mobile 
+
+ Social Network 
+
+ Sicurezza 
+
+ Prodotti 
+
+ Interattivi 
+
+ Video 
+
+ "Dimmi come digiti e ti dirò chi sei". Così il software riconosce chi scrive
+
+ (reuters) 
+
+ Leon Eckert, ricercatore della New York University, ha creato un sistema in grado di riconoscere l'identità e i sentimenti della persona alla tastiera
+
+ di ROSITA RIJTANO 
+
+ 11 maggio 2017 
+
+ DIMMI come digiti e ti dirò chi sei. Sembra, infatti, che attraverso l'analisi del modo in cui vengono pigiati i tasti sulla tastiera si è in grado di risalire all'identità di chi scrive. Non solo, anche a capire quali sono le sue emozioni in quel momento. Un'abilità che non sarebbe unicamente alla portata dei colossi del mondo hi-tech, come Google e Facebook, che possono contare su un pachidermico conglomerato di dati a loro disposizione. Lo sostiene Leon Eckert, ricercatore della New York University impegnato a sensibilizzare l'opinione pubblica sull'impatto che il progresso tecnologico ha sulla società. Per un progetto ancora in corso, Eckert ha creato un sistema capace di riconoscere il ritmo e la velocità di battitura di una persona. Proprio come fosse una sorta di firma digitale. Certo va tenuto in conto che ogni tastiera è diversa, e l'atto del digitare può cambiare, anche radicalmente, a seconda del dispositivo che si ha di fronte.
+
+Funziona così: al momento è necessario che l'utente digiti tre volte la stessa frase. Dopo il software crea un profilo contenente delle statistiche riguardo alle sue abitudini ai tasti. Incluse, per esempio, la durata di ogni pressione su una determinata lettera, o il tempo d'attesa che passa da un tocco all'altro. Joshua Kopstein, giornalista di Vocativ che ha testato lo strumento, sostiene che il sistema messo a punto da Eckert ha avuto bisogno solo di uno o due secondi di battitura per mettere il suo vero nome nella lista dei candidati possibili, stilata "in base a quale profilo di battitura corrisponde meglio alla persona che sta scrivendo". E, quindi, in pratica di riconoscerlo tra gli altri utenti schedati. 
+ Come scrivevamo prima dei pc. Dai graffiti alla macchina da scrivere 
+
+ Nella seconda fase del progetto, il ricercatore ha chiesto a dei volontari di installare un software che monitora la tastiera sui loro computer. Mentre erano intenti a digitare sono stati, di tanto in tanto, interrotti per riportare su un'interfaccia come si sentivano: se esaltati, tristi o stanchi. Utilizzando questi dati, Eckert ha poi costruito un algoritmo d'apprendimento automatico che può prevedere le emozioni di chi è al pc. Si può ragionevolmente pensare che una persona arrabbiata pigi sui tasti con più forza o che chi è stanco attenda più tempo prima di passare da un tasto all'altro. Attualmente, l'accuratezza raggiunta è dell'85 percento. 
+
+Certo, come annota sempre Kopstein, il software ha ancora dei limiti: funziona solo con gli utenti che hanno fornito degli esempi del loro modo di scrivere. Ma Eckert è al lavoro per migliorarlo. E non è l'unico. Ci sono diverse ricerche che dimostrano come dalla battitura sia possibile capire lo stato emotivo degli utenti. Degli studiosi canadesi, per esempio, hanno classificato 15 emozioni e le hanno predette, usando un software, con un'accuratezza che va dal 77 all'88 percento. Oggi si tratta di metodi che richiedono strumenti invasivi e costosi, però lo sviluppo tecnologico potrebbe cambiare il paradigma.
+
+"È preoccupante che, analizzando la battitura, un algoritmo può capire come mi sento", ha dichiarato Eckert a Vocativ . "Se il mio computer sa se sono stanco o triste, ha un sacco di informazioni che può utilizzare contro di me". "Le frontiere verso cui si spinge la profilazione comportamentale degli utenti, grazie alle tecnologie di intelligenza artificiale, sono sempre più preoccupanti  soprattutto perché  spesso riescono a sfuggire agli interventi regolatori dei garanti privacy", commenta a Repubblica Fabio Pietrosanti, presidente e co-fondatore del Centro Hermes per la trasparenza e i diritti umani digitali. "La migliore contromisura alla profilazione di massa è negare tutte le richieste di autorizzazione alla condivisione di informazioni che si presentano, online e offline, da parte dei software installati su computer, telefono e via web". 
+
+ Tags
+
+ Argomenti: 
+ tastiera 
+ caratteri 
+
+ Protagonisti: 
+
+ © Riproduzione riservata 
+ 11 maggio 2017 
+
+ Tom's Hardware news, test e guide 
+
+ Test MSI GeForce GTX 1080 Ti Gaming X 11G 
+
+ Abbiamo provato la MSI GTX 1080 Ti Gaming X, mettendolo a confronto con la Founders Edition e molte altre schede.
+
+ Go Internet, 100 Mbps a casa senza limiti grazie al 4G LTE 
+
+ Go Internet è un operatore wireless e fibra che offre servizi 100 Mbps e 1 Gbps simmetrici. Grazie al 4G LTE può risolvere i problemi di connettività...
+
+ Vedi tutte » 
+
+ I più letti 
+
+ I più condivisi 
+
+ Leicester, una città in festa fino all'alba. Ranieri: "Sono vecchio, titolo indimenticabile" 
+
+ Renzi: "Tagli all'Irpef per aiutare le famiglie e stop al bollo auto" 
+
+ Regno Unito, Sadiq Khan conquista Londra. Ma il Labour sprofonda in Scozia 
+
+ "Fermare Renzi", bufera sul consigliere Csm Morosini. Colloqui tra Legnini e Mattarella 
+
+ Vitalizi ai parlamentari, Boeri: "Con il contributivo si ridurrebbero del 40%" 
+
+ Leicester, Ranieri: "Sapevo che un giorno avrei vinto uno scudetto" 
+
+ Meno trentenni e più culle vuote. "Così l'Italia perde una mamma su cinque" 
+
+ Fisco, Soru si dimette dopo la condanna a tre anni per evasione fiscale 
+
+ Fedez chiede la mano di Chiara Ferragni, la proposta durante il concerto all'Arena di Verona 
+
+ Slovacchia, giro da brividi in mountain bike: sbuca l'orso e insegue il ciclista 
+
+ Oasis Photocontest, tutti i premiati della 13esima edizione 
+
+ Quell'angolo di Giappone nel cuore delle colline marchigiane 
+
+ Elezioni Francia, Macron, Brigitte, i figli e gli amici: ecco la nuova famiglia presidenziale 
+
+ Tremila ritratti incollati a terra, sul lungomare di Napoli "Inside Out” dell’artista francese Jr 
+
+ Cammini e percorsi: cento tra castelli, case cantoniere o stazioni diventano punti turistici lungo le strade ciclopedonali 
+
+ Roma, a Largo Argentina spunta una capra 
+
+ la Repubblica 
+
+ Il mio libro 
+
+ NUOVI SERVIZI EDITORIALI 
+ Una redazione a disposizione degli autori
+
+ Pubblicare un libro 
+
+ Corso di scrittura 
+
+ Altri articoli dalla categoria » 
+
+ precedente 
+ successivo 
+
+ "Dimmi come digiti e ti dirò chi sei". Così il software riconosce chi 
+
+ L'ascensore diventa a consumo zero, l'idea di Thyssenkrupp 
+
+ Windows 10, i dispositivi attivi sono ora 500 milioni 
+
+ Network
+
+ Network 
+
+ Quotidiani locali
+
+ Alto Adige -->
+ Corriere delle Alpi 
+ Gazzetta di Mantova 
+ Gazzetta di Modena 
+ Gazzetta di Reggio 
+ Il Centro -->
+ Il mattino di Padova 
+ Il Piccolo 
+ Il Tirreno 
+ Il Fò 
+
+ Il Trentino 
+ La Città di Salerno -->
+ La Nuova Ferrara 
+ La Nuova Sardegna -->
+ La Nuova Venezia 
+ La Provincia Pavese 
+ La Sentinella del Canavese 
+ La Tribuna di Treviso 
+ Messaggero Veneto 
+ Il Bò 
+
+ Periodici
+
+ l’Espresso 
+ Le Scienze 
+ National Geographic 
+ Micromega 
+ Chiesa.it 
+ Limes 
+
+ Radio
+
+ Capital 
+ DeeJay 
+ m2o 
+
+ Servizi, Tv e consumi
+
+ Annunci 
+ Mymovies.it 
+ Necrologie 
+ TvZap 
+ Guida Tv 
+ MioJob 
+ Enti e Tribunali 
+ Fantacalcio 
+ Ristoranti 
+
+ I siti di Repubblica
+
+ D - la Repubblica 
+ Iniziative Editoriali 
+ il Venerdì 
+ TrovaCinema 
+ Casa&Design 
+ XL 
+ ilmiolibro.it 
+ Storiebrevi 
+
+ Chiudi -->
+
+ l’Espresso 
+
+ RE Le inchieste 
+
+ Cerca su Repubblica.it
+
+-->
+
+ Annunci, lavoro e aste
+
+ Lavoro 
+
+ Annunci 
+
+ Aste 
+
+ Footer
+
+ Fai di Repubblica la tua homepage 
+
+ Mappa del sito 
+
+ Redazione 
+
+ Scriveteci 
+
+ Per inviare foto e video 
+
+ Servizio Clienti 
+
+ Aiuto 
+ -->
+ Pubblicità 
+
+ Privacy 
+
+ Divisione Stampa Nazionale — GEDI Gruppo Editoriale S.p.A. - P.Iva 00906801006 — Società soggetta all’attività di direzione e coordinamento di CIR SpA

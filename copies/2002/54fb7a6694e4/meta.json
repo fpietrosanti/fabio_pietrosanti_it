@@ -1,0 +1,11 @@
+{
+ "source_url": "https://www.exploit-db.com/exploits/21746",
+ "fetched_url": "https://web.archive.org/web/20121221020513id_/http://www.exploit-db.com/exploits/21746",
+ "method": "wayback",
+ "capture": "20121221020513",
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 34726,
+ "sha256": "0775a41500204cb4ebe7646d080c253c87a7eee75505eeeaebb138402ff456be",
+ "name_found": true,
+ "fetched_at": "2026-10-23T14:35:52+00:00"
+}

