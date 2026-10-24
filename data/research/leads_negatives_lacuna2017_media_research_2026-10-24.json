@@ -1,0 +1,82 @@
+[
+ {
+  "target": "OpenAlex fulltext.search 2017-2019: \"Fabio Pietrosanti\", \"Pietrosanti GlobaLeaks\", Pietrosanti (234 hits), GlobaLeaks (15), \"Hermes Center for Transparency\" (2), \"Centro Hermes\", \"Trojans and Rule of Law\", WhistleblowingPA, Tor2web (22)",
+  "checked": "2026-10-24, api.openalex.org",
+  "result": "Only the already-known Tampere TorSNIP thesis. 'Pietrosanti' fulltext = botanical/medical noise (other Pietrosanti authors). OA PDFs downloaded and grepped, no name/naif: Xnet-Ajuntament Barcelona agreement 2019, Media&Communication 'Metadata laws... Australia' 2017, MDPI Sustainability Barcelona 2018, IJoC 'Gulf Information War' 2019, CBS 'If Truth Was a Woman' 2019, Liinc 'Notas sobre o digital' 2019, Leeds Beckett doping whistleblowing 2019, arXiv 1809.08481 (IMC Tor usage), 1803.01598 (RAPTOR), 1704.07525, UNIL darknet thesis 2018, ISTE 2019."
+ },
+ {
+  "target": "Academic items behind bot checks (not bypassed): Lisbon NOVA dissertation 'Rethinking the practice of accountability journalism in the digital age' 2018 (run.unl.pt/handle/10362/47052, OpenAlex says it mentions 'Hermes Center for Transparency'); Tampere 2019 dissertation 'Understanding the Usage of Anonymous Onion Services' (trepo.tuni.fi/handle/10024/114739); Univ. Hawaii chapter 'Free Software and Open Source Movements: From Digital Rebellion to Aaron Swartz' 2017 (hdl 10125/49730); SSRN 3459366 'Deep Web: A Residual of e-Public Administration' 2019 (mentions Hermes Center + Tor2web)",
+  "checked": "2026-10-24",
+  "result": "Not verifiable: Anubis / Turnstile bot-check pages. Open leads, low-medium priority (Lisbon and SSRN are the most likely to name him)."
+ },
+ {
+  "target": "Semantic Scholar snippet search (full text) and Google Books API (2017-19 volumes)",
+  "checked": "2026-10-24, laptop and server",
+  "result": "S2: HTTP 429 on all queries from both hosts; Google Books API: daily quota exceeded from both hosts. Not done - retry another day."
+ },
+ {
+  "target": "Internet Archive full-text search (be-api fts): \"Fabio Pietrosanti\" (22 hits), Pietrosanti GlobaLeaks, Pietrosanti Hermes, naif GlobaLeaks; advancedsearch Pietrosanti year 2017-2019",
+  "checked": "2026-10-24",
+  "result": "No 2017-2019 document. Hits: 1997 La Stampa (homonym list), e-privacy 2005/2009/2012 slides, tor2web/Tor papers 2012-14, 'This Machine Kills Secrets' (2012), Gazzettino FVG 2020, MIUR 2022 FOIA reply, Abitare 2021 (homonym). Only 2018 item is the known FOSDEM mirror youtube-KizAo_22FYo."
+ },
+ {
+  "target": "YouTube (yt-dlp) targeted searches 2017-19: trojan bill press conference, GlobaLeaks 2018, Lombardy referendum e-voting, Rousseau hacker 2018, Centro Hermes, WhistleblowingPA/ANAC, CPDP/Privacy Camp 2017-18, IJF 2017/2019, endsummercamp naif, Exodus 2019, Copernicani Libro Bianco, Big Brother Awards 2018, DIG 2017, Mojo 2018, Linux Day Pavia 2017, Ghislieri 2017, Tor Vergata master, Freedom Not Fear 2017, Euronews fertility/Kaspersky/Grillo",
+  "checked": "2026-10-24 (descriptions via -j; auto-captions where YouTube allowed)",
+  "result": "Nothing new with his name. Negative: SD3oX6LgW9U POuL 'Conferenza Sicurezza e Privacy 2018 - GlobalLeaks' (slides.poul.org/2018/sicurezza-e-privacy/: speaker Giovanni Pellerano, 12/03/2018); bQxzvtIQiVw / 7CK_5itzj7k HOPE 2018 GlobaLeaks talk (no name in description, probably Pellerano); dftW-C9Lu90 IJF 2017 'Lawful state hacking' on the Quintarelli trojan bill (Franceschi-Bicchierai, Frediani, Gallus, Lupi, Quintarelli - not Fabio); zH8GFRFEFV8 Privacy Camp 2018 government hacking exchange (Bendrath, Sajfert, Verhoeven, Vinot, Kim); hdDSoNYkOV4 Privacy Camp 2017 surveillance export; m68xrp4x5r0 IJF 2017 data/source protection; CPDP 2018 tgR560HWem0/eQBEbXGLYec; AmqN1su12So PresaDiretta 01/10/2018 Iacoboni on Rousseau (captions: no name); 7pCi6edwkpE La7 tablets referendum 20/10/2017 (no name in description, no captions); faDA6lzIRrs and QLAKlcMmpG4 (Copernicani Libro Bianco 29/10/2018 recaps: it-orig captions without his name); TI Italia WhistleblowingPA videos (2020). CLgioLg7kUE is IJF 2015 (journalismfestival.com/programme/2017/... slug is a migration artefact) - known. Captions for SD3oX6LgW9U/bQxzvtIQiVw: HTTP 429."
+ },
+ {
+  "target": "media.ccc.de API search: Pietrosanti, naif, GlobaLeaks",
+  "checked": "2026-10-24",
+  "result": "Only the known SHA2017 'Regulating Law Enforcement use of Trojans'. No 34C3/35C3/36C3/CCCamp19 talk."
+ },
+ {
+  "target": "IJF speaker page sessions",
+  "checked": "2026-10-24",
+  "result": "Sessions 2012-2015 and 2018 only (2018 known). No 2017 or 2019 session."
+ },
+ {
+  "target": "e-privacy relatori/interventi XXII, XXIV, XXV, XXVI (2017-2019)",
+  "checked": "2026-10-24",
+  "result": "Name only in XXII relatori (known). GitHub e-privacy-site content/2018 and 2019 summer slides.md are template copies of 2017 data (false positive)."
+ },
+ {
+  "target": "Radio Radicale speaker index /soggetti/175095",
+  "checked": "2026-10-24, from server",
+  "result": "2017-2019 entries 512627, 533637, 543790, 558921 - all known; 555897 known separately. Site search endpoints 404."
+ },
+ {
+  "target": "Euronews site search 'Pietrosanti' on it, www, es, fr, de, pt; 'Kaspersky Hermes', 'Hermes Center', 'Grillo password manager' on other editions",
+  "checked": "2026-10-24",
+  "result": "IT: only the 3 known 2018 items. New: EN/ES/FR versions of the fertility-app story (reported). No other-language versions of the Kaspersky or Grillo stories found."
+ },
+ {
+  "target": "RSI rsi.ch/ricerca/?q=Pietrosanti",
+  "checked": "2026-10-24",
+  "result": "'Nessun risultato'."
+ },
+ {
+  "target": "Camera dei deputati WebTV: video of the 31/01/2017 press conference on the trojan bill (Quintarelli)",
+  "checked": "2026-10-24",
+  "result": "Listing is loaded by JS, search returns 403: not found. Press pages eunews 2017-02-01, punto-informatico 'Italia, una legge per i trojan di Stato', startmag ?p=62480, agendadigitale ?p=105322: no name. Open lead (webtv.camera.it/evento/<id> for 31/01/2017)."
+ },
+ {
+  "target": "OTF pages (globaleaks-2 audit, supported-projects/globaleaks, ?s=pietrosanti); NVD CVE keyword Pietrosanti/GlobaLeaks; his GitHub repos created 2017-19",
+  "checked": "2026-10-24",
+  "result": "No name on OTF pages; no CVE credit; no surviving repos created 2017-2019."
+ },
+ {
+  "target": "EDRi 'Member in the spotlight: Hermes Center' (2018-07-25)",
+  "checked": "2026-10-24",
+  "result": "Byline 'Hermes Center (guest author)'; no Pietrosanti/naif in text - does not qualify."
+ },
+ {
+  "target": "Wayback twitter.com/fpietrosanti timelines 2017-09-17, 2019-05-07, 2019-11-29",
+  "checked": "2026-10-24, from server",
+  "result": "No tweet announcing TV/radio appearances in the captured pages."
+ },
+ {
+  "target": "WebSearch: TV interviews 2017-19 (TG1/TG2/TG3, Rai News, La7, Sky TG24, TV2000, Report, PresaDiretta, Le Iene, Piazzapulita); NGO reports (TI, PI, Article 19); institutional reports (CoE, OSCE, UNESCO, OECD, EC); Tor blog; Vimeo; Radio 24 '2024'; Radio Radicale 2017/2019",
+  "checked": "2026-10-24, 14 searches",
+  "result": "Nothing new. Re-found known: Tom's Hardware 23/10/2017 'Referendum Lombardia o pasticcio digitale?' (in media.json), AGI 09/03/2019, Nova 2018, IJF/FOSDEM pages. Abraji sched page = GIJC 2013 (outside slice). EUR-Lex fulltext search blocked (202 challenge)."
+ }
+]

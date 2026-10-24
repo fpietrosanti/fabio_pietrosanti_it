@@ -179,6 +179,23 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-septdecies. 2026-10-24
+- Copie delle 22 voci nuove: **tutte ottenute** (19 pagine + 1 video), tranne 2 ritagli cartacei di Repubblica (pagina
+  dell'archivio a pagamento: 🟡, nome solo nello snippet di ricerca).
+- **Risolti**: 2 articoli Repubblica.it 2018 dietro paywall → testo completo dalla **versione AMP pubblica** (`…/amp/`,
+  salvata come `amp.html`), nome presente; **TVtech 598** (🟡 da ieri) → la capture 2025 incorpora il video YouTube
+  L4beB3qQjVw, trascritto con Whisper: «parlando con Fabio Pietrosanti, un esperto di Khamsa» → verificati entrambi;
+  **brevetto US20130252585** (Google Patents prima anti-bot) letto al retry: CellTrust, nessun tuo riferimento → escluso.
+- **PrivateWave EN/ES 2010**: CDX completo dei PDF di privatewave.com (dal server) → solo 5 manuali/licenze 2012-14; i due
+  comunicati non sono mai stati archiviati. Restano ❌.
+- **Invariati**: RTF Webbit 05, Neapolis 2009, Class Life 2010, Radio Monte Carlo 2010, deck Foggia (410), coinage.it, 2
+  notizieoggi, CyberCoach solo pagina, 🟡 Secunia su Packet Storm (Web Archive «Temporarily Offline»), rassegna PrivateWave,
+  🟠 Sogou.
+- **Trucco da riusare**: per Repubblica.it (e altre testate GEDI) provare sempre `<url>amp/` prima di dichiarare paywall.
+- **Domande per te:** (a) Il **convegno a Roma sul voto a distanza** del ~12/10/2019 (tuo tweet del 15/10): titolo, sede,
+  organizzatore? (b) Al **WIN Glasgow 09/2019** hai tenuto tu il workshop GlobaLeaks? (c) Hai i ritagli Repubblica cartacei
+  20/10/2017 (tablet referendum, p.10) e 30/05/2018 (RLab p.57)?
+
 ### B0-sexdecies. 2026-10-23
 - **Risolti**: 5 podcast solo audio verificati con Whisper (BBC Lazarus Heist S2E7 — qui sei intervistato —, Bloomberg
   «Man in Spain», Valigia Blu 2020, DataKnightmare 6x28, Crypto Conversation 2021); video TVtech 2010 verificato dalla

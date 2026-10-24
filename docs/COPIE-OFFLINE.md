@@ -5,17 +5,17 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1168**; già processate: **1344**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **980** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1109**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **2**
+- Voci in `data/media.json`: **1190**; già processate: **1367**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1003** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1130**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **3**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
-- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **101**
+- ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **102**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
-- 🎬 Video/audio scaricato (+ pagina): **116**
+- 🎬 Video/audio scaricato (+ pagina): **117**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
-- ❌ Non ottenuta: **11**
+- ❌ Non ottenuta: **10**
 
 ## Per anno
 
@@ -35,16 +35,16 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2007 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2008 | 14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 49 | 2 | 0 | 0 | 0 | 0 | 1 |
-| 2010 | 70 | 3 | 2 | 0 | 0 | 0 | 4 |
+| 2010 | 71 | 3 | 1 | 0 | 0 | 0 | 4 |
 | 2011 | 31 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 1 |
+| 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 28 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 38 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 80 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 64 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 2019 | 85 | 3 | 0 | 0 | 0 | 0 | 2 |
+| 2017 | 85 | 5 | 1 | 0 | 0 | 0 | 0 |
+| 2018 | 75 | 17 | 1 | 0 | 0 | 0 | 0 |
+| 2019 | 89 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 168 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 56 | 15 | 0 | 0 | 0 | 0 | 2 |
@@ -80,6 +80,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2011** · End Summer Camp 2011 (ESC11), Forte Bazz — [GlobaLeaks, LeakDirectory, Tor2web - Random Globaleaks developer](https://www.endsummercamp.org/index.php?title=ESC11-Seminari) · licenza: terzi  
   2026-10-08, regola di Fabio «senza nome, non sono io»: talk GlobaLeaks/Tor2web a ESC11 attribuito a 'Random Globaleaks developer', né nome né «naif». Copia conservata nell'archivio privato.
+- ⏹️ **2012** · Google Patents US20130252585A1 — [US20130252585 (surfaced by web search for PrivateWave/Pietrosanti; content unknown)](https://patents.google.com/patent/US20130252585A1/en) · licenza: propria  
+  2026-10-24: pagina letta al retry: brevetto CellTrust (Moshir, Khanban), nessuna occorrenza di Pietrosanti/naif/PrivateWave/Khamsa → escluso in decisions.json
 - ⏹️ **2012** · Hackmeeting 2012 (HackIt 0x0F), L'Aquila — [GlobaLeaks](https://www.hackmeeting.org/hackit12/seminari.html) · licenza: terzi  
   2026-10-05: esclusa per decisione di Fabio («senza nome, non sono io»); copia conservata.
 - ⏹️ **2013** · Sky TG24 — [Datagate, il mondo delle spie visto da dentro](http://video.sky.it/news/mondo/datagate_il_mondo_delle_spie_visto_da_dentro/v164249.vid) · licenza: terzi  
@@ -265,17 +267,15 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ❌ **2005** · Webbit 05 - Osservatorio Webbit (RTF doc — [Intervista a Fabio Pietrosanti (Osservatorio Webbit 05, area Sicurezza) - 05_FabioPietrosa](http://www.webb.it/html/webbit05/docosservatorio/interviste/05_FabioPietrosanti.rtf) · licenza: terzi  
   http 404
 - ❌ **2009** · Rai 3 - TGR Neapolis (neapolis.blog.rai. — [Telefonate protette - Nea Polis 29/12/2009](http://neapolis.blog.rai.it/2009/12/29/telefonate-protette-nea-polis-29122009/) · licenza: terzi  
-  2026-10-23: post del blog Neapolis mai archiviato (CDX vuoto); nota solo dalla rassegna PrivateWave → domanda a Fabio
+  URLError
 - ❌ **2010** · Class Life (Class Editori TV, classlife. — [PrivateWave/PrivateGSM video (Hightech)](http://www.classlife.it/dettaglioVideo~categoria~Hightech~ST~201002171147014640~STBR~300.html) · licenza: terzi  
-  2026-10-23: pagina video Class Life mai archiviata; nota solo dalla rassegna PrivateWave → domanda a Fabio
+  URLError
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
-  http 403
+  http 403; 2026-10-24: CDX completo dei PDF di privatewave.com (dal server): solo 5 manuali/licenze 2012-14, i comunicati 2010 non sono mai stati archiviati → servono i PDF originali di Fabio
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
-  http 403
+  http 403; 2026-10-24: CDX completo dei PDF di privatewave.com (dal server): solo 5 manuali/licenze 2012-14, i comunicati 2010 non sono mai stati archiviati → servono i PDF originali di Fabio
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
-- ❌ **2012** · Google Patents US20130252585A1 — [US20130252585 (surfaced by web search for PrivateWave/Pietrosanti; content unknown)](https://patents.google.com/patent/US20130252585A1/en) · licenza: propria  
-  2026-10-23: Google Patents risponde con la pagina «Sorry» anti-bot (non aggirata); brevetto non suo, solo pista: da rileggere quando Google Patents risponde
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
   URLError
 - ❌ **2019** · Università di Foggia (lezione nel corso  — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck c](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: terzi  
@@ -288,14 +288,16 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
-- 🟡 **2010** · TVtech (Hardware Upgrade) — [PrivateWave: comunicazioni sicure al cellulare (TVtech page 598)](http://www.tvtech.it/video/598/privatewave-comunicazioni-sicure-al-cellulare/) · licenza: terzi  
-  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2010** · PrivateWave Italia S.p.A. - 'Area stampa — [Rassegna stampa PrivateWave/Khamsa 2009-2011 (press clippings list)](https://web.archive.org/web/20110722045300/http://www.privatewave.it/chi-siamo/area-stampa.html) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2017** · la Repubblica (print, national edition,  — [La beffa dei tablet a rischio hacker costati 25 milioni](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2017/10/20/la-beffa-dei-tablet-a-rischio-hacker-costati-25-milioni10.html) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2018** · la Repubblica (print, RLab, p. 57) — [La spia che venne dall'app](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2018/05/30/la-spia-che-venne-dallapp57.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 🟠 **2006** · Packet Storm Security (Secunia advisory  — [Secunia Security Advisory 22634 - Parallels Desktop for Mac Insecure File Permissions](https://packetstormsecurity.com/files/51690/Secunia-Security-Advisory-22634.html) · licenza: propria  
-  2026-10-23: Packet Storm resta dietro anti-bot (non aggirato), nessuna capture; il testo identico dell'originale Secunia SA22634 (capture Web Archive 20070429132253, «Provided and/or discovered by: Fabio Pietrosanti») è salvato qui come secunia_SA22634_20070429.html ed è già la voce 3b883128af23
+  page is a JavaScript shell with almost no text: needs browser capture
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
   page is a JavaScript shell with almost no text: needs browser capture
 
@@ -578,6 +580,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2009** · PMI.it — [Aperte le iscrizioni per il primo Hacking Film Festival](https://www.pmi.it/tecnologia/202259/aperte-le-iscrizioni-per-il-primo-hacking-film-festival.html) · copia: `2009/a6ed69a49c77` (Web Archive 20191020) · licenza: terzi
 - **2009** · SlideShare (Security Summit 2009 Milan) — [2009: Voice Security And Privacy (Security Summit - Milan)](https://www.slideshare.net/slideshow/2009-voice-security-and-privacy-security-summit-milan/1677364) · copia: `2009/1754875422e5` (live) · licenza: propria
 - **2010** · Voice of VOIPSA (voipsa.org blog) — [VoIP Firewall: Telephony vs Security world](http://voipsa.org/blog/2010/10/05/voip-firewall-telephony-vs-security-world/) · copia: `2010/53ff19d5ff87` (Web Archive 20101010) · licenza: propria
+- **2010** · TVtech (Hardware Upgrade) — [PrivateWave: comunicazioni sicure al cellulare (TVtech page 598)](http://www.tvtech.it/video/598/privatewave-comunicazioni-sicure-al-cellulare/) · copia: `2010/3bb0a0a91c4c` (Web Archive 20100314) · licenza: terzi
 - **2010** · Security Summit 2010 (Clusit), Milano, 1 — [Percorso professionale tecnico: "Sicurezza e telefonia mobile"](https://clusit.it/wp-content/uploads/newsletter/newsletter_08_03_10.pdf) · copia: `2010/db3b5da96f70` (live) · licenza: terzi
 - **2010** · Security Summit Roma 2010 (Clusit), SGM  — [Percorso professionale tecnico, 5a sessione: "Mobile security, il telefono una naturale es](https://clusit.it/wp-content/uploads/newsletter/newsletter_27_05_10.pdf) · copia: `2010/185abb10965f` (Web Archive 20231027) · licenza: terzi
 - **2010** · Security Summit 2010 (Clusit), Milano — [PrivateWave among the Silver sponsors of Security Summit 2010](https://clusit.it/wp-content/uploads/newsletter/newsletter_31_03_10.pdf) · copia: `2010/5290eddc310a` (live) · licenza: terzi
@@ -914,12 +917,15 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · Internet Policy Review, Vol. 6, Issue 1  — [Australian internet policy](https://policyreview.info/node/457/pdf) · copia: `2017/2419bfb5cf59` (Web Archive 20180411) · licenza: terzi
 - **2017** · st.ilsole24ore.com — [La sfida di coniugare il dettato costituzionale e la ricerca tecnologica](https://st.ilsole24ore.com/art/commenti-e-idee/2017-12-02/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-125656.shtml) · copia: `2017/94351f1f8236` (live) · licenza: terzi
 - **2017** · tbinternet.ohchr.org — [INT_CCPR_CSS_ITA_26517_E.pdf](https://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ITA/INT_CCPR_CSS_ITA_26517_E.pdf) · copia: `2017/e26d538ee4b2` (Web Archive 20211017) · licenza: terzi
+- **2017** · Tor Project - Tor Meeting Amsterdam 2017 — [Tor Meeting Amsterdam 2017 - participant list (invitation-only days 23-25 March)](https://trac.torproject.org/projects/tor/wiki/org/meetings/2017Amsterdam) · copia: `2017/fd9afb9b5b3a` (Web Archive 20170628) · licenza: terzi
 - **2017** · Tampere University of Technology (Finlan — [TorSNIP: Hidden Service Proxy with End-to-End Security](https://trepo.tuni.fi/bitstream/handle/123456789/25394/Kiyani.pdf?sequence=4&isAllowed=y) · copia: `2017/4ac2264ec0cf` (Web Archive 20241108) · licenza: terzi
 - **2017** · Tampere University of Technology (MSc th — [TorSNIP: Hidden Service Proxy with End-to-End Security (Kiyani)](https://trepo.tuni.fi/handle/123456789/25394) · copia: `2017/fad5ce52a65e` (Web Archive 20210515) · licenza: terzi
 - **2017** · Trojans And Rule of Law — [Trojans And Rule of Law](https://trojansandruleoflaw.org/) · copia: `2017/7542ca8dcc65` (Web Archive 20210516) · licenza: propria
 - **2017** · Twitter/X @fpietrosanti — [An overview on the #SHA2017 hacker camp from 4th to 8th August @SHA2017Camp /by @interlogi](https://twitter.com/fpietrosanti/status/898831511708983296) · copia: `2017/edd84181eac7` (live) · licenza: terzi
+- **2017** · Twitter/X @fpietrosanti (Wayback) - 34C3 — [Tweet: «After Christmas finally departing for the CCC Congress #34c3 like every year since](https://twitter.com/fpietrosanti/status/945929936661024768) · copia: `2017/b58257aea9d5` (Web Archive 20190623) · licenza: terzi
 - **2017** · e-privacy XXI (2017 summer), Lucca, Real — [Monitoring Government Surveillance Capabilities by means of Transparency tools (slides PDF](https://urna.winstonsmith.org/materiali/2017/atti/ep2017se_14_coluccini_pietrosanti_monitorare_sorveglianza_governativa.pdf) · copia: `2017/3c18bcd70b68` (Web Archive 20210605) · licenza: propria
 - **2017** · e-privacy XXI (2017 summer), Lucca, Real — [Monitorare la sorveglianza governativa - handout (PDF)](https://urna.winstonsmith.org/materiali/2017/atti/ep2017se_14_coluccini_pietrosanti_monitorare_sorveglianza_governativa_handout.pdf) · copia: `2017/757d04623778` (Web Archive 20210605) · licenza: propria
+- **2017** · Center for the Cultivation of Technology — [CCT Contact/Team page: Advisory Board — Fabio Pietrosanti, Hermes Center (Italy)](https://web.archive.org/web/20170309225020/https://techcultivation.org/contact.html) · copia: `2017/6234f2b58e39` (Web Archive 20170309) · licenza: terzi
 - **2017** · infosecurity.ch — [Low Liability - Reduced Abuses Tor Exit Nodes](https://web.archive.org/web/20170721022433/http://infosecurity.ch:80/20170610/low-liability-reduced-abuses-tor-exit-nodes/) · copia: `2017/4c3c37d30b1c` (Web Archive 20170721) · licenza: propria
 - **2017** · Hermes Center — [Conservazione indiscriminata dei dati per 6 anni](https://web.archive.org/web/20170803052501/https://www.hermescenter.org/conservazione-indiscriminata-dei-dati-per-6-anni/) · copia: `2017/7f12afb8440a` (Web Archive 20170803) · licenza: propria
 - **2017** · Hermes Center — [Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE](https://web.archive.org/web/20200607012151/https://www.hermescenter.org/sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise/) · copia: `2017/dc4b7ec8dd77` (Web Archive 20200607) · licenza: propria
@@ -928,6 +934,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · SHA2017 Wiki — [Village:ItalianEmbassy (Italian Hacker Embassy at SHA2017)](https://wiki.sha2017.org/w/Village:ItalianEmbassy) · copia: `2017/519f27acc52b` (Web Archive 20170801) · licenza: propria
 - **2017** · Freedom Not Fear 2017, Brussels (Mundo B — [Government hacking and trojan](https://wiki.vorratsdatenspeicherung.de/Freedom_Not_Fear_2017/Schedule) · copia: `2017/e9149d840114` (Web Archive 20180621) · licenza: terzi
 - **2017** · Agenda Digitale — [Articoli di Fabio Pietrosanti (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/) · copia: `2017/264a9bc7d25b` (Web Archive 20200925) · licenza: terzi
+- **2017** · AGI - Agenzia Italia — [Perché il New York Times ha deciso di aprire un sito nel dark web](https://www.agi.it/innovazione/news/2017-10-28/new_york_times_dark_web-2299032/) · copia: `2017/111286a881d6` (live) · licenza: terzi
 - **2017** · ANAC - Autorità Nazionale Anticorruzione — [Risposta del Presidente Cantone del 21 settembre 2017 all'appello del Centro Hermes in mer](https://www.anticorruzione.it/documents/91439/123100/Risposta_appello_Centro_Hermes_new.pdf/76d050ce-9e12-c2f6-f369-2e3abadcc159?t=1585641081807) · copia: `2017/363ff53690bd` (Web Archive 20220709) · licenza: terzi
 - **2017** · University of California, Berkeley, PhD  — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf) · copia: `2017/07478431c5a6` (Web Archive 20190612) · licenza: terzi
 - **2017** · www.ccc.de — [Stellungnahme_CCC-Staatstrojaner.pdf](https://www.ccc.de/system/uploads/227/original/Stellungnahme_CCC-Staatstrojaner.pdf) · copia: `2017/0ec817dbfbbc` (Web Archive 20170531) · licenza: terzi
@@ -942,6 +949,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · e-privacy 2017 summer edition, Lucca - R — [e-privacy 2017 summer - Parole (ostili) contro la Rete: l'involuzione della percezione del](https://www.radioradicale.it/scheda/512627/) · copia: `2017/a5e45d940570` (Web Archive 20170623 · video locale `media.00.mp4` (1,820 MB, da caricare su Drive)) · licenza: terzi
 - **2017** · Radio Radicale — [e-privacy 2017 summer edition - Parole (ostili) contro la Rete: l'involuzione della percez](https://www.radioradicale.it/scheda/512627/e-privacy-2017-summer-edition-parole-ostili-contro-la-rete-linvoluzione-della) · copia: `2017/05a7818179b9` (Web Archive 20170623 · video locale `media.00.mp4` (1,820 MB, da caricare su Drive)) · licenza: terzi
 - **2017** · repubblica.it — [Privacy, servono regole per le intercettazioni nelle indagini penali](https://www.repubblica.it/tecnologia/2017/01/12/news/privacy_un_progetto_di_legge_per_salvaguardare_i_diritti_costituzionali-302639710/) · copia: `2017/d0c83c3df8d0` (live) · licenza: terzi
+- **2017** · la Repubblica (repubblica.it, Tecnologia — ["Dimmi come digiti e ti dirò chi sei". Così il software riconosce chi scrive](https://www.repubblica.it/tecnologia/2017/05/11/news/_dimmi_come_digiti_e_ti_diro_chi_sei_cosi_il_software_riconosce_chi_scrive-165207257/) · copia: `2017/5ba86cb1d330` (Web Archive 20170512) · licenza: terzi
 - **2017** · repubblica.it — [Internet, ecco dove si censura e perché](https://www.repubblica.it/tecnologia/2017/06/30/news/internet_ecco_dove_si_censura_e_perche_-302642021/) · copia: `2017/c07d90f94ef3` (live) · licenza: terzi
 - **2017** · repubblica.it — [Più tutele per chi è intercettato dai trojan dagli investigatori, ecco la proposta di legg](https://www.repubblica.it/tecnologia/sicurezza/2017/01/31/news/maggiori_tutele_per_chi_viene_intercettato_con_i_trojan_dagli_investigatori_ecco_la_proposta_di_legge-157306945/) · copia: `2017/3bd3ef04fe21` (Web Archive 20170131) · licenza: terzi
 - **2017** · repubblica.it — [Internet, ecco dove si censura e perché](https://www.repubblica.it/tecnologia/sicurezza/2017/06/30/news/_internet_ecco_dove_si_censura_e_perche_-169618280/) · copia: `2017/a0358da39741` (Web Archive 20170630) · licenza: terzi
@@ -972,8 +980,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [e-privacy XXIII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXIII-relatori.html) · copia: `2018/8cc2a1ae4777` (Web Archive 20200919) · licenza: terzi
 - **2018** · e-privacy 2018 (XXIII, Bologna) — [Big Brother Awards Italia 2018](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html) · copia: `2018/de6bba8ab6d7` (Web Archive 20181025) · licenza: terzi
 - **2018** · Euronews (en español) — [¿Rusia puede espiar a Italia gracias a la empresa de software Kaspersky?](https://es.euronews.com/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-) · copia: `2018/1e0cc7e9fe57` (Web Archive 20180406) · licenza: terzi
+- **2018** · Euronews (en español) — [Cuidado con tus datos más íntimos: el negocio de las aplicaciones para la menstruación y e](https://es.euronews.com/2018/04/12/cuidado-con-tus-datos-mas-intimos-el-negocio-de-las-aplicaciones-para-la-menstruacion-y-el) · copia: `2018/fae27f73139d` (Web Archive 20180415) · licenza: terzi
 - **2018** · Euronews (en español) — [¿Rusia puede espiar a Italia gracias a la empresa de software Kaspersky?](https://es.euronews.com/video/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-) · copia: `2018/0ea32bb38ddd` (live) · licenza: terzi
 - **2018** · 35C3 Chaos Communication Congress, Leipz — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) · copia: `2018/c1622c449f82` (Web Archive 20190623) · licenza: terzi
+- **2018** · Euronews (en français) — [Les apps de suivi des règles : pas si intimes que ça](https://fr.euronews.com/2018/05/07/les-apps-de-suivi-des-regles-pas-si-intimes-que-ca) · copia: `2018/31ce9d494bdd` (Web Archive 20180509) · licenza: terzi
 - **2018** · GitHub cisagov/pshtt — [pshtt #148 «Provide a rating A+ up to F as a simplified selection»](https://github.com/cisagov/pshtt/issues/148) · copia: `2018/75a457a7f936` (api) · licenza: propria
 - **2018** · Tor Project GitLab (ex trac) — [Tor TPA #40397 «Introduce TLS MITM Detection on Tor Project websites»](https://gitlab.torproject.org/tpo/tpa/team/-/work_items/40397) · copia: `2018/8f7fb12c28ad` (api) · licenza: propria
 - **2018** · Tor Project GitLab (ex trac) — [Tor web #133 «Introduce TLS MITM Detection on Tor Project websites»](https://gitlab.torproject.org/tpo/web/tpo/-/work_items/133) · copia: `2018/df574241acf4` (api) · licenza: propria
@@ -984,6 +994,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · it.euronews.com — [Beppegrillo.it "abusa" dei password manager per tracciare gli utenti](https://it.euronews.com/2018/01/04/il-blog-di-beppe-grillo-abusa-dei-password-manager-per-tracciare-gli-utenti) · copia: `2018/b51faaeb000b` (Web Archive 20180104) · licenza: terzi
 - **2018** · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri) · copia: `2018/961477acc443` (Web Archive 20180409) · licenza: terzi
 - **2018** · it.euronews.com — [Attenzione ai vostri dati più intimi: il business delle app per mestruazioni e gravidanza](https://it.euronews.com/2018/04/11/attenzione-ai-vostri-dati-piu-intimi-il-business-delle-app-per-mestruazioni-e-gravidanza) · copia: `2018/ddcc574a5b84` (Web Archive 20180414) · licenza: terzi
+- **2018** · Euronews (in italiano) — [La contromossa e la risposta di Kaspersky: accelera sull'operazione trasparenza](https://it.euronews.com/2018/05/15/anche-l-olanda-bandisce-kaspersky-dai-server-pubblici) · copia: `2018/e91a986a2ca9` (Web Archive 20180518) · licenza: terzi
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/) · copia: `2018/7e2f69f4b97b` (Web Archive 20250811) · licenza: terzi
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks - Storia, Evoluzione, Modello di Sostenibilità Economica (slides)](https://merge-it.net/2018/talks/globaleaks/slides.pdf) · copia: `2018/dc7a19230918` (live) · licenza: propria
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180302-2024.mp3) · copia: `2018/c539f62a311d` (live) · licenza: terzi
@@ -993,16 +1004,22 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Rai Radio1 (servizio di Paola Guarnieri, — [A Padova il raduno degli hacker. Pietrosanti: "Altro che pirati, siamo i cavalieri del web](https://soundcloud.com/user-873190463/a-padova-il-raduno-degli-hacker-pietrosanti-altro-che-pirati-siamo-i-cavalieri-del-web) · copia: `2018/5392321adb9b` (live) · licenza: terzi
 - **2018** · StartupItalia (Alessia Valentini) — [Cyberchallenge 2018: la nuova generazione di hacker etici](https://startupitalia.eu/tech/cybersecurity/cyberchallenge-2018-la-nuova-generazione-di-hacker-etici/) · copia: `2018/c125efc80010` (Web Archive 20240808) · licenza: terzi
 - **2018** · startupitalia.eu — [Whistleblowing PA, ora i dipendenti pubblici possono segnalare la corruzione senza rischia](https://startupitalia.eu/tech/cybersecurity/whistleblowing-pa-ora-i-dipendenti-pubblici-possono-segnalare-la-corruzione-senza-rischiare/) · copia: `2018/0e15297b1e05` (Web Archive 20240612) · licenza: terzi
+- **2018** · Tor Project - Tor Meeting Rome 2018 (11- — [Tor Meeting Rome 2018 - participant list](https://trac.torproject.org/projects/tor/wiki/org/meetings/2018Rome) · copia: `2018/cb542fa5b34a` (Web Archive 20190611) · licenza: terzi
+- **2018** · Twitter/X @fpietrosanti (Wayback) - 35C3 — [Amatriciana workshop of the Italian Hackers Embassy at Food Hacking Base, 35C3](https://twitter.com/fpietrosanti/status/1078237120467214338) · copia: `2018/2eb4b98122ac` (Web Archive 20190623) · licenza: terzi
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [Big Brother Awards Italia 2018 - video (ep2018se_20_bba_awards.mp4)](https://urna.winstonsmith.org/materiali/2018/video/ep2018se_20_bba_awards.mp4) · copia: `2018/d0172f56532c` (Web Archive 20180912) · licenza: terzi
 - **2018** · video.fosdem.org — [Public money, public code, the Italian way (FOSDEM 2018 recording, mp4)](https://video.fosdem.org/2018/UA2.220/public_money_public_code.mp4) · copia: `2018/0bb1f3d0d72d` (Web Archive 20191025) · licenza: terzi
 - **2018** · Ethic Whispers (ethicwhispers.io) — [Ethic Whispers - the security token for whistleblowing](https://web.archive.org/web/20211203145414/http://ethicwhispers.io/) · copia: `2018/81904b98c83d` (Web Archive 20211203) · licenza: propria
 - **2018** · Access Now (event listing), CPDP 2018 Br — [Where you can find Access Now at CPDP 2018](https://www.accessnow.org/can-find-access-now-cpdp-2018/) · copia: `2018/3e7881b2df65` (Web Archive 20180202) · licenza: terzi
+- **2018** · AgenSIR (Servizio Informazione Religiosa — [Whistleblowing: Transparency International Italia e il Centro Hermes, al via la piattaform](https://www.agensir.it/quotidiano/2018/10/1/whistleblowing-transparency-international-italia-e-il-centro-hermes-al-via-la-piattaforma-per-segnalare-corruzione-nella-pa/) · copia: `2018/c86b54785aa5` (Web Archive 20181008) · licenza: terzi
+- **2018** · AGI - Agenzia Italia — [La condivisione di intelligence tra Stati non ha regole adeguate. Ed è un grosso problema](https://www.agi.it/estero/news/2018-04-26/condivisione_intelligence_dati_personali_stati-3817160/) · copia: `2018/60001133b451` (Web Archive 20250714) · licenza: terzi
+- **2018** · AGI - Agenzia Italia — [L'incubo della sorveglianza di massa, raccontata al Festival di Perugia](https://www.agi.it/innovazione/news/2018-04-11/cybersecurity_sicurezza-3759764/) · copia: `2018/eaa3084af7bc` (live) · licenza: terzi
 - **2018** · AGI — [C'e una nuova risorsa per gli informatori anonimi nella pubblica amministrazione](https://www.agi.it/innovazione/whistleblowing_pa-4433292/news/2018-10-01/) · copia: `2018/df6bbf5495fb` (Web Archive 20181001) · licenza: terzi
 - **2018** · Casa del Cinema, Roma - Mojo Festival de — [Mojo Festival: conferenza stampa di presentazione (programma)](https://www.casadelcinema.it/wp-content/uploads/2018/07/conf_stampa_mojo_festival1.pdf) · copia: `2018/2b946a496e7c` (live) · licenza: terzi
 - **2018** · CyberChallenge.IT 2018 award ceremony, S — [Cyberchallenge.IT 2018: cerimonia di premiazione il 28 giugno a Roma (programme announceme](https://www.consorzio-cini.it/index.php/it/labcs-home/labcs-news/1348-cerimonia-di-premiazione-dei-vincitori-di-cyberchallenge-it) · copia: `2018/ace72bbc8c14` (Web Archive 20190722) · licenza: terzi
 - **2018** · Corriere della Sera (Buone Notizie) — [Ecco l'arma segreta contro i corrotti della Pubblica amministrazione](https://www.corriere.it/buone-notizie/18_ottobre_01/ecco-l-arma-segreta-contro-corrotti-pubblica-amministrazione-ca341b36-c582-11e8-994e-6382a2ca0409.shtml) · copia: `2018/7a7a06a1e240` (Web Archive 20181002) · licenza: terzi
 - **2018** · CyberSecurity Italia (cybersecitalia.it) — [CyberChallenge.it, il 28 giugno la premiazione](https://www.cybersecitalia.it/cyberchallenge-it-il-28-giugno-la-premiazione/6486/) · copia: `2018/1d0ba7094c6c` (Web Archive 20210226) · licenza: terzi
 - **2018** · davidpuente.it — [È tornato R0gue_0, ma che siate del M5S o del PD la sicurezza informatica non l’avete capi](https://www.davidpuente.it/blog/2018/02/07/e-tornato-r0gue_0-ma-che-siate-del-m5s-del-pd-la-sicurezza-informatica-lavete-capita/) · copia: `2018/ea9fce1544db` (Web Archive 20190718) · licenza: terzi
+- **2018** · Euronews (English) — [Beware of fertility apps — your data may be sold to companies, warns think tank](https://www.euronews.com/2018/04/11/beware-of-fertility-apps-your-data-may-be-sold-to-companies-warns-think-tank) · copia: `2018/e6138e99c459` (Web Archive 20180414) · licenza: terzi
 - **2018** · International Journalism Festival 2018 — [Privacy nightmare Italia: storie di sorveglianza](https://www.festivaldelgiornalismo.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/27e62d9ca635` (Web Archive 20180705) · licenza: terzi
 - **2018** · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti) · copia: `2018/f855533e7142` (Web Archive 20190825) · licenza: terzi
 - **2018** · Hermes Center — News & Press (sito in ri — [Announcement: Hermes Center members and fellows participate at the International Journalis](https://www.hermescenter.org/announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18/) · copia: `2018/d6e62a571fab` (Web Archive 20200921) · licenza: propria
@@ -1025,12 +1042,15 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Radio Radicale — [Presentazione del living-book "Libro Bianco della partecipazione politica digitale" a cura](https://www.radioradicale.it/scheda/555897/presentazione-del-living-book-libro-bianco-della-partecipazione-politica-digitale-a) · copia: `2018/03375a45fce9` (live · video locale `media.mp4` (704 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · e-privacy XXIV, Roma - Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/) · copia: `2018/e0bd82818805` (live · video locale `media.00.mp4` (2,102 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · Radio Radicale — [XXIV edizione di e-privacy - GDPR vs. Tecnologie Emergenti (prima giornata)](https://www.radioradicale.it/scheda/558921/xxiv-edizione-di-e-privacy-gdpr-vs-tecnologie-emergenti-prima-giornata) · copia: `2018/4d13d0af4c4c` (Web Archive 20190916 · video locale `media.00.mp4` (2,102 MB, da caricare su Drive)) · licenza: terzi
+- **2018** · la Repubblica (repubblica.it, Cronaca) — [Il sito del Viminale bloccato all'estero per motivi di "sicurezza informatica"](https://www.repubblica.it/cronaca/2018/11/09/news/il_sito_del_viminale_bloccato_all_estero_per_motivi_di_sicurezza_informatica_-301101733/) · copia: `2018/3b3f9f59eed3` (Web Archive 20211020) · licenza: terzi
+- **2018** · la Repubblica (repubblica.it, Scienze) — [Quando la spia si nasconde nell'app](https://www.repubblica.it/scienze/2018/05/29/news/figli_e_amanti_sotto_stretta_sorveglianza_quando_la_spia_si_nasconde_nell_app-300966183/) · copia: `2018/d36e020050ca` (Web Archive 20211025) · licenza: terzi
 - **2018** · repubblica.it — [Attacco a Facebook, il giorno dopo: “Per precauzione cambiate subito la password”](https://www.repubblica.it/tecnologia/sicurezza/2018/09/29/news/attacco_a_facebook_il_giorno_dopo_non_c_e_bisogno_di_cambiare_le_password_-207672944/) · copia: `2018/49203a854b08` (Web Archive 20180929) · licenza: terzi
 - **2018** · Startmag — [Ecco come Davide Casaleggio divide esperti e tecnici sulla blockchain](https://www.startmag.it/innovazione/come-davide-casaleggio-divide-esperti-e-tecnici-sulla-blockchain/) · copia: `2018/f134295bc78f` (Web Archive 20201128) · licenza: terzi
 - **2018** · Motherboard / Vice Italia — [Riutilizzare i 24.400 tablet per il referendum della Lombardia è un casino](https://www.vice.com/it/article/problema-riutilizzo-nelle-scuole-tablet-referendum-lombardia/) · copia: `2018/e5a56fb780d4` (Web Archive 20250914) · licenza: terzi
 - **2018** · YouTube - Università Parthenope — [La premiazione degli studenti protagonisti di 'Cyber Challenge 2018'](https://www.youtube.com/watch?v=IQvqrmG_YE4) · copia: `2018/5280199e00e2` (live · video locale `media.mp4` (47 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · FOSDEM (YouTube) — [Public money, public code, the Italian way Hacking Italian Administrations to get to the c](https://www.youtube.com/watch?v=KizAo_22FYo) · copia: `2018/19e5acae6c6f` (Web Archive 20220621 · video locale `media.mp4` (74 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · Italian Hacker Camp IHC (YouTube) — [Del Monte, Pietrosanti - La collaborazione tra hackers e attivisti](https://www.youtube.com/watch?v=QZ_jlM4s8eM) · copia: `2018/cc576d5c15df` (live · video locale `media.mp4` (135 MB, da caricare su Drive)) · licenza: terzi
+- **2018** · CPDPConferences (YouTube) - Privacy Camp — [Privacy Camp 2018: EDPS-Civil Society Summit 2018.](https://www.youtube.com/watch?v=RYYqziLGBG4) · copia: `2018/7fb71e964a53` (Web Archive 20220307 · video locale `media.mp4` (791 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · marco scialdone (YouTube) — [Global Forum on Modern Direct Democracy 2018 - E-democracy: the dark side (prima parte)](https://www.youtube.com/watch?v=UI16WaavDNA) · copia: `2018/ea09c893cd98` (live · video locale `media.mp4` (629 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · Euronews (in Italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://www.youtube.com/watch?v=gcROTSHQW4A) · copia: `2018/2a0a91fd7eda` (live · video locale `media.mp4` (5 MB, da caricare su Drive)) · licenza: terzi
 - **2018** · YouTube - Privacy Camp 2018 — [Round table Government hacking in different national contexts](https://www.youtube.com/watch?v=ujWYz4vMWLg) · copia: `2018/ccd757ed25e1` (live · video locale `media.mp4` (636 MB, da caricare su Drive)) · licenza: terzi
@@ -1069,6 +1089,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · The Next Web (Hard Fork) — [Ethereum dev to be released pending trial amid claims charges against him are exaggerated](https://thenextweb.com/news/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency) · copia: `2019/a4d83b58526f` (Web Archive 20211025) · licenza: terzi
 - **2019** · The Vision — [Un governo deciso da un sondaggio online è la vergogna della democrazia italiana](https://thevision.com/politica/governo-rousseau-democrazia/) · copia: `2019/7d64e37e9a12` (live) · licenza: terzi
 - **2019** · Twitter — [@e_pagliarini: chi ha dubbi sul voto elettronico riascolti le due puntate di 2024 (Radio 2](https://twitter.com/e_pagliarini/status/1204842053374484485) · copia: `2019/13497a342002` (Web Archive 20191212) · licenza: terzi
+- **2019** · Twitter/X @fpietrosanti (Wayback) - MOJO — [Tweet: «Facciamo io e @faffa42 corso su cybersecurity for journalist domenica 29 settembre](https://twitter.com/fpietrosanti/status/1170611302550650880) · copia: `2019/6f8bf5783199` (Web Archive 20190923) · licenza: terzi
+- **2019** · Twitter/X @fpietrosanti (Wayback) - conv — [Tweet: «Proprio ieri abbiamo fatto un convegno a roma sul tema, consensus è che voto a dis](https://twitter.com/fpietrosanti/status/1184113217867407363) · copia: `2019/fde975dbcdff` (Web Archive 20191015) · licenza: terzi
 - **2019** · Twitter @fpietrosanti (Wayback) — [Risposta a @lucatremolada: analisi sul DB AIRE per istituire seggi di voto all'estero](https://twitter.com/fpietrosanti/status/1195446177371701250) · copia: `2019/45d892666fca` (Web Archive 20191115) · licenza: terzi
 - **2019** · Twitter — [OSSCI: discussione perimetro vs spazio cibernetico per l'osservatorio](https://twitter.com/fpietrosanti/status/1196431404302770176) · copia: `2019/e7d69b3302bc` (Web Archive 20191118) · licenza: terzi
 - **2019** · Twitter — [Bundestag committee room (hint of appearance)](https://twitter.com/fpietrosanti/status/1199929402521509888) · copia: `2019/2287ae890740` (Web Archive 20191128) · licenza: terzi
@@ -1092,6 +1114,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Twitter/X @fpietrosanti — [Risposta a Vitalik Buterin: «Getting @virgilgr out of jail»](https://twitter.com/fpietrosanti/status/1209976431243124737) · copia: `2019/73968a90e3fa` (Web Archive 20191225) · licenza: terzi
 - **2019** · Twitter/X @fpietrosanti — [A @Juki_ sul talk DPRK al 36C3: «I’ve been there in April for blockchain conference…»](https://twitter.com/fpietrosanti/status/1210520055831760896) · copia: `2019/1eb38efabb9a` (Web Archive 20191227) · licenza: terzi
 - **2019** · Twitter/X @fpietrosanti — [«North Korea Technologies at IO at #36c3 (hall 2)»](https://twitter.com/fpietrosanti/status/1210586147631587334) · copia: `2019/2baf48892693` (Web Archive 20200107) · licenza: terzi
+- **2019** · Twitter/X @fpietrosanti (Wayback) - 36C3 — [Italian Pasta Amatriciana Workshop at Food Hacking Base, 36C3 Day 2 (17:00-19:00)](https://twitter.com/fpietrosanti/status/1210957999520522240) · copia: `2019/0fb7da621929` (Web Archive 20191229) · licenza: terzi
 - **2019** · Twitter/X @fpietrosanti — [A Kenneth Geers: «What’s the north Korea relationship?»](https://twitter.com/fpietrosanti/status/1211755248534077441) · copia: `2019/bde36106e68f` (Web Archive 20200108) · licenza: terzi
 - **2019** · Dipartimento della Funzione Pubblica - i — [Mancanza di una vision tecnologica a supporto del FOIA](https://web.archive.org/web/20190724031629/https://www.hermescenter.org/mancanza-di-una-vision-tecnologica-a-supporto-del-foia/) · copia: `2019/fed00e4c6d1e` (Web Archive 20190724) · licenza: propria
 - **2019** · Twitter (@fpietrosanti) — [Slide Foggia](https://web.archive.org/web/20191205121549/https://twitter.com/fpietrosanti/status/1202557955666849792) · copia: `2019/8fd321568cca` (Web Archive 20191205) · licenza: terzi
@@ -1119,6 +1142,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · La Stampa (Raffaele Angius) — [Viaggio nel CCCamp, dove gli hacker immaginano il futuro con filosofi e artisti](https://www.lastampa.it/archivio/2019/08/30/news/viaggio_nel_cccamp_dove_gli_hacker_immaginano_il_futuro_con_filosofi_e_artisti-782989/) · copia: `2019/4b4c631f7020` (live) · licenza: terzi
 - **2019** · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/) · copia: `2019/f197572afc0f` (Web Archive 20191122) · licenza: terzi
 - **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711) · copia: `2019/05160b2a3be4` (live) · licenza: terzi
+- **2019** · la Repubblica (repubblica.it, Tecnologia — [Non solo Android, un'app spia per iPhone dagli autori di Exodus](https://www.repubblica.it/tecnologia/sicurezza/2019/04/08/news/non_solo_android_un_app_spia_per_iphone_dagli_autori_di_exodus-223582128/) · copia: `2019/b3338b455a30` (Web Archive 20190409) · licenza: terzi
 - **2019** · repubblica.it — [Quando lo smartphone diventa una spia. "In Italia oltre mille vittime di stalkerware"](https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/) · copia: `2019/a64ddc934fe0` (Web Archive 20191004) · licenza: terzi
 - **2019** · Ciao, Internet! con Matteo Flora (Spreak — [Voto Online? No, grazie, e ti spiego perché...](https://www.spreaker.com/episode/voto-online-no-grazie-e-ti-spiego-perche--17308523) · copia: `2019/f6345cb62800` (live · video locale `media.mp3` (61 MB, da caricare su Drive)) · licenza: terzi
 - **2019** · MIT Technology Review — [A blockchain expert is accused of helping North Korea's leaders. But what would they want ](https://www.technologyreview.com/2019/12/05/106/virgil-griffith-north-korea-ethereum/) · copia: `2019/a361e5b7452c` (Web Archive 20200808) · licenza: terzi

@@ -1,0 +1,97 @@
+[
+ {
+  "source": "GDELT DOC 2.0 API",
+  "query": "\"Fabio Pietrosanti\", \"Pietrosanti globaleaks\", \"Pietrosanti hermes\", \"Pietrosanti whistleblowing\"; separate windows for 2017, 2018 and 2019 (H1/H2)",
+  "result": "Every query that got an answer returned empty {} (0 articles): 'Fabio Pietrosanti' 2017 and 2018, 'Pietrosanti globaleaks' 2017, 2018 and Jul-Dec 2019, 'Pietrosanti hermes' 2018, 'Pietrosanti whistleblowing' 2017. Most other calls hit the 'one request every 5 seconds' rate limit, even with 20-45 s spacing, from both the laptop and the server. The final slow retry of 'Pietrosanti' for 2019 returned 5 articles, all on the Pyongyang/Griffith story and all already known: CoinDesk x2, Yahoo Finance syndication of CoinDesk (already in media.json), TNW Hard Fork, MIT Technology Review. The 2019 'Fabio Pietrosanti' window never got past the rate limit."
+ },
+ {
+  "source": "Internet Archive full-text search (be-api.us.archive.org/fts/v1)",
+  "query": "\"Fabio Pietrosanti\" (22 hits); \"Pietrosanti\" globaleaks (3); \"Pietrosanti\" hermes (204)",
+  "result": "No 2017-2019 press item. The only 2017 hits are the known fifield-thesis and the Guida Hermes al voto digitale. The rest are e-privacy slides, academic papers, La Stampa 1997 (Velletri homonym) and items from 2020 onwards."
+ },
+ {
+  "source": "ricerca.repubblica.it (2017-01-01..2019-12-31)",
+  "query": "pietrosanti (32 results, 4 pages); globaleaks; centro hermes; hermes center",
+  "result": "13 hits are about Fabio. 7 are known (2017-01-12, 2017-01-31, 2017-03-08, 2017-06-30, 2017-10-19 Milano, 2018-09-29, 2019-10-03); the 6 new ones are in the items file. The rest are homonyms (L./Susanna/Paolo Pietrosanti: theatre listings, readers' petitions). The globaleaks query returns only RegeniFiles 25-26/11/2019 (GlobaLeaks platform, no name)."
+ },
+ {
+  "source": "ricerca.repubblica.it/ricerca/espresso (2017-2019)",
+  "query": "pietrosanti",
+  "result": "No relevant result."
+ },
+ {
+  "source": "lastampa.it internal search",
+  "query": "pietrosanti (81 results, 5 pages); globaleaks; centro hermes; hermes center",
+  "result": "All 2017-2019 hits for Fabio are known (2017-05-11, 2018-02-08, 2019-01-17, 2019-08-30, 2019-11-21). Read in full, with Hermes/GlobaLeaks mentioned but no Pietrosanti/naif: 2017-01-23 'Sorveglianza in Egitto con software italiani: la lettera degli attivisti'; 2017-04-21 'Esportazioni di cybersorveglianza, Italia torna nel mirino'; 2017-09-13 'Più trasparenza sugli accordi fra intelligence, l'appello delle Ong'; 2018-11-27 public-editor 'Esperimento di piattaforma per segnalazioni anonime' (GlobaLeaks). The other hits are homonyms (Canelli football, Roberto Pietrosanti)."
+ },
+ {
+  "source": "WordPress REST API search (wp-json/wp/v2/posts?search=..., 2017-2019, full content)",
+  "query": "pietrosanti / globaleaks / hermes center / centro hermes / naif on vice.com, key4biz, valigiablu, corrierecomunicazioni, startmag, cybersecitalia, linkiesta, agendadigitale, cybersecurity360, formiche, thevision, ictsecuritymagazine, lindipendente, punto-informatico",
+  "result": "Only known items were found: vice.com/it (9), key4biz 2018-04-12, valigiablu 2017-10-20, corcom 2019-10-31, startmag 2018-10-28, cybersecitalia 2018-06-21 and 2017-04-06, linkiesta 2017-10-17. The one other match is an alias URL (vice vlc-vulnerabile). The 'naif' hits are the ordinary adjective. Punto Informatico, Agenda Digitale and Cybersecurity360 have no 2017-2019 name hits."
+ },
+ {
+  "source": "WordPress REST API search on other Italian outlets",
+  "query": "pietrosanti 2017-2019 on securityaffairs, techprincess, lindro, agensir, vita, osservatoriodiritti, articolo21, primaonline, lsdi, datamediahub, economyup, forumpa, zerounoweb, digital4, internet4things, blockchain4innovation, innovationpost, diritto.it, tech4future",
+  "result": "Only homonyms (Roberto, Enrico and Cristiano Pietrosanti; a Pietrosanti legal citation). The agensir WP search does not index the 2018-10-01 item, which was found via WebSearch instead. These outlets are not WordPress or block the API: open.online, ilpost, ilfattoquotidiano (401), startupitalia, tomshw, money.it, huffingtonpost, ilfoglio, giornalettismo, nextquotidiano, cryptonomist, milanotoday, ilmanifesto, avvenire, panorama, lettera43, altalex."
+ },
+ {
+  "source": "WordPress REST API search on international outlets",
+  "query": "pietrosanti 2017-2019 on netzpolitik, techdirt, accessnow, edri, globalvoices (en/it/advox), cyberscoop, hackread, zdnet, techcrunch, ambcrypto, bitcoinmagazine, torrentfreak, icij, ipi.media, ecpmf, niemanlab, whistleblowersblog, theintercept",
+  "result": "Only known items (techdirt 2017-02-17, Access Now CPDP 2018). Zero hits everywhere else."
+ },
+ {
+  "source": "wired.it search",
+  "query": "pietrosanti (12 articles); globaleaks (16); \"centro hermes\" (22)",
+  "result": "The only 2017-2019 name hit is the known 2017-04-11 cybersorveglianza article. Two 2017 GlobaLeaks articles were read and do not name him: 2017-01-25 whistleblowing-trump and 2017-11-22 come-navigare-online-senza-lasciar-traccia."
+ },
+ {
+  "source": "ilfattoquotidiano.it",
+  "query": "site-limited WebSearch (Pietrosanti Hermes voto elettronico trojan whistleblowing); the internal search is unusable",
+  "result": "Read, no Fabio name: 2019-02-04 Andrea Lisi blog 'Corruzione, OpenWhistleblowing è stata un'occasione mancata' (Centro Hermes/GlobaLeaks/ANAC context); 2018-10-02 'WhistleblowingPA, dopo la legge arriva un sistema per denunce anonime...' (Centro Hermes, quotes Matteo Flora, not Fabio); 2018-10-26 'Macchine per il voto elettronico? Negli USA meno sicure di un colabrodo'; 2019-03-30 Exodus 'mille italiani spiati sul cellulare'. The known 2017-10-21 Rapetto blog was re-found."
+ },
+ {
+  "source": "AGI (agi.it)",
+  "query": "site-limited WebSearch (3 queries); no internal search endpoint works",
+  "result": "The 3 new items are in the items file. Read without the name: 2017-10-12 'Nel lato oscuro del web c'è un mercato intitolato a Berlusconi' (Angius); 2018-06-30 dark-web arrests (Angius); 2019-07-03 Pratellesi 'Il giornalismo e i trafficanti di dati'. Not opened (titles off-topic for a quote): 2017-06-22 'Cosa è il whistleblowing', 2018-06-29 ANAC report, 2018-03-08 Anonymous/MIUR, 2018-04-28 email."
+ },
+ {
+  "source": "ANSA internal search (ansa.it/ricerca)",
+  "query": "pietrosanti",
+  "result": "Only homonyms (Roberto, Fabiano and Daniele Pietrosanti; Aerdorica 2017). No item about Fabio."
+ },
+ {
+  "source": "il Giornale / Il Sole 24 Ore",
+  "query": "ilgiornale.it 2019-02-18 'Dagli attacchi hacker alla privacy violata: ecco le falle (e i trucchi) di Rousseau'; en.ilsole24ore.com 'Il lato oscuro di Rousseau tra hacker, bilanci e votazioni non certificate'",
+  "result": "Both read: no Pietrosanti or naif. The Giornale piece mentions Rogue0; the Sole piece mentions Evariste."
+ },
+ {
+  "source": "privacy.it",
+  "query": "2018-02-20 'Operativa la piattaforma Whistleblower dell'ANAC' (Wayback 20240414213237)",
+  "result": "No name; Hermes and GlobaLeaks appear only as context."
+ },
+ {
+  "source": "GIJN (gijn.org)",
+  "query": "'The Rise of Digital Whistleblowing Platforms — and How They Work'; 'New Tools to Reduce the Risks for Whistleblowers'; 'The Perugia Principles' (2019-05-06)",
+  "result": "The live site serves a bot-check page, which was not bypassed. The Wayback copies (fetched from the server) mention GlobaLeaks but not Pietrosanti."
+ },
+ {
+  "source": "Euronews other language editions",
+  "query": "fertility-apps (2018-04-11) and Kaspersky (2018-05-15) pieces in fr/de/es",
+  "result": "No other editions found by WebSearch. The EN fertility piece and the IT 2018-05-15 follow-up are new; the ES Kaspersky edition was already known."
+ },
+ {
+  "source": "Tom's Hardware / PrivacyItalia / Press Gazette / P&R Foundation",
+  "query": "tomshw 'Il M5S ha toppato, difendiamo gli hacker etici' (2018-02-07); privacyitalia.eu 'In vigore la legge che impone la Data Retention a 6 anni'; Press Gazette Football Leaks comment; pr-foundation.org 'Fare informazione nell'era dei robot giornalisti'",
+  "result": "Tom's Hardware names him but is already known. PrivacyItalia returned a 4.5 KB stub and could not be verified. Press Gazette is already known. On P&R Foundation his name appears only in the sidebar programme of the known Digital Italy Summit 2019 table, so it is not a press item."
+ },
+ {
+  "source": "DuckDuckGo HTML (site:corriere.it, site:ilsole24ore.com)",
+  "query": "\"Fabio Pietrosanti\"; Pietrosanti GlobaLeaks",
+  "result": "Returned an anti-bot 'anomaly' page, so the search was stopped (not bypassed). corriere.it and huffingtonpost.it are also blocked for WebSearch, and the Corriere internal search is JS-only. Corriere 2017-2019 is still NOT COVERED, apart from the known Buone Notizie 2018-10-01."
+ },
+ {
+  "source": "Generic WebSearch (about 30 queries)",
+  "query": "Exodus spyware 2019; data retention 6 anni 2017; Rousseau/Evariste/rogue0 2017-18; blockchain/crypto 2018; OpenWhistleblowing/ANAC riuso 2019; EU whistleblower directive 2019; Copernicani ministro digitale/libro bianco; Le Monde/Mediapart/filtrala GlobaLeaks; international surveillance quotes; Kaspersky/Huawei/5G/perimetro 2019; GIJN/CJR/Nieman/Forbes/Intercept GlobaLeaks",
+  "result": "Apart from the listed items, the results were only known items or out of period (Open Rousseau 2020, Kaspersky 2022, therecord.media, Backstair/Fanpage 2020)."
+ }
+]

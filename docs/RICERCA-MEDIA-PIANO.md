@@ -453,6 +453,38 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   MOCA 2008 (programma non archiviato); seminario Trento 2010; URL di 22 testate italiane nel Web Archive (504);
   Google Books (429); brevetto US20130252585 (Google Patents anti-bot, solo pista).
 
+- [ ] **Lacuna 2017–2019 — passata 2026-10-24** (3 agenti: `pass4_lacuna2017_{press,talks,media_research}`, negativi in
+  `data/research/leads_negatives_lacuna2017_*_2026-10-24.json`, ~90 ricerche) → **+22 voci** (20 verificate).
+  - **Stampa**: Repubblica.it (Rijtano) «Dimmi come digiti e ti dirò chi sei» 11/05/2017 e app spia per iPhone (Exodus)
+    08/04/2019; **Repubblica 2018 «Quando la spia si nasconde nell'app» (29/05) e «Il sito del Viminale bloccato
+    all'estero» (Longo, 09/11) verificate dalla versione AMP pubblica** (pagina normale dietro paywall); AGI (Angius) NYT
+    nel dark web 28/10/2017, AGI sorveglianza di massa a IJF18 11/04/2018, AGI (Frediani) intelligence sharing 26/04/2018
+    («portavoce del Centro Hermes»); Euronews Kaspersky 15/05/2018 e app per il ciclo **in EN/ES/FR** (2018); AgenSIR
+    01/10/2018 piattaforma TI Italia–Hermes. Non verificate (solo snippet dell'archivio Repubblica, cartaceo):
+    «La beffa dei tablet» 20/10/2017 p.10 e RLab «La spia che venne dall'app» 30/05/2018 p.57.
+  - **Talk/eventi**: Tor Meeting Amsterdam 03/2017 («naif», partecipante) e Roma 03/2018 («Fabio (naif)», probabile);
+    video Privacy Camp 2018 EDPS–Civil Society Summit (YouTube RYYqziLGBG4); tweet che datano Mojo Italia 29/09/2019,
+    convegno sul voto a distanza a Roma ~12/10/2019, 34C3, workshop Amatriciana al 35C3 e 36C3; **Advisory Board del
+    Center for the Cultivation of Technology** (Berlino, 2017-2021).
+  - **Negativi solidi**: RightsCon 2017-19, CPDP 2017-19, GIJC17, IGF 2017/19, FNF 2018, ESC e Hackmeeting 2017-19, State
+    of the Net, Dataharvest, CCC (nessun suo talk), IJF 2017/2019; La Stampa (81 risultati), Vice, Key4biz, Valigia Blu,
+    CorCom, Agenda Digitale, Cybersecurity360, Fatto Quotidiano, netzpolitik, EDRi, Intercept; GDELT 2017-18 vuoto; TV
+    (PresaDiretta Rousseau 2018, La7 tablet 2017); OpenAlex/IA full-text. **Escluso** POuL 2018 GlobaLeaks (relatore
+    Pellerano). Twitter nel Web Archive 2017-19: lette tutte le 486 capture leggibili, fonte esaurita.
+  **Resta**: Corriere della Sera e Sole 24 Ore (ricerca JS/anti-bot), Il Post/Open/HuffPost; programma del convegno di
+  Roma 10/2019; WIN Glasgow 09/2019 (workshop GlobaLeaks senza nome); IFF Valencia, MozFest, Wired Next Fest, Internet
+  Festival, Security Summit/ITASEC PDF, Codemotion; Semantic Scholar e Google Books (429); tesi NOVA Lisbona 2018 e SSRN
+  3459366 (anti-bot, citano Hermes); WebTV Camera conferenza stampa trojan 31/01/2017; sottotitoli YouTube POuL/HOPE 2018.
+
+## Note sessione 2026-10-24 (run programmata «ricerca profonda»)
+- **1190 voci** in `data/media.json` (1124 verificate). Prime voci della coda ancora bloccate (chiavi, login, risposte di
+  Fabio, video TimePie): lavorata la **lacuna 2017–2019** (vedi voce sopra, +22).
+- **TVtech 598 / YouTube L4beB3qQjVw verificati**: la capture 2025 della pagina 598 incorpora il video, e la trascrizione
+  Whisper della copia locale dice «parlando con Fabio Pietrosanti, un esperto di Khamsa» (00:14).
+- **Brevetto US20130252585 escluso**: letto al retry, è CellTrust (Moshir, Khanban), nessun riferimento a Fabio.
+- **Prossima voce lavorabile:** residui 2017–2019 (Corriere/Sole via Chrome di Fabio, convegno Roma 10/2019), oppure la
+  lacuna 2023–2025 (12-19 voci/anno, ripassata solo il 07/10).
+
 ## Note sessione 2026-10-23 (run programmata «ricerca profonda»)
 - **1154 voci** in `data/media.json` (1087 verificate). Prime voci della coda ancora bloccate (chiavi, login, risposte di
   Fabio, video TimePie): lavorata la **lacuna 2007–2010** (vedi voce sopra, +17).

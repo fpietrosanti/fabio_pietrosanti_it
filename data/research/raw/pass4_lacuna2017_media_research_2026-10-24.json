@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2018-04-11",
+  "year": 2018,
+  "type": "quoted",
+  "outlet": "Euronews (English)",
+  "title": "Beware of fertility apps — your data may be sold to companies, warns think tank",
+  "url": "https://www.euronews.com/2018/04/11/beware-of-fertility-apps-your-data-may-be-sold-to-companies-warns-think-tank",
+  "language": "en",
+  "role": "quoted expert (president Hermes Center)",
+  "note": "English edition of the it.euronews.com 2018-04-11 piece already in archive. Text: \"However, Fabio Pietrosanti, founder and president of Hermes — a centre for transparency in the field of digital rights — believes 'it will take a lot of effort' to demand compliance with GDPR: 'The first 24-36 months will be a struggle...'\". Verified by curl 2026-10-24 (found via euronews.com/search?query=Pietrosanti).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2018-04-12",
+  "year": 2018,
+  "type": "quoted",
+  "outlet": "Euronews (en español)",
+  "title": "Cuidado con tus datos más íntimos: el negocio de las aplicaciones para la menstruación y el embarazo",
+  "url": "https://es.euronews.com/2018/04/12/cuidado-con-tus-datos-mas-intimos-el-negocio-de-las-aplicaciones-para-la-menstruacion-y-el",
+  "language": "es",
+  "role": "quoted expert (president Hermes Center)",
+  "note": "Spanish edition of the menstrual/pregnancy-app story. Text: \"Sin embargo, Fabio Pietrosanti, fundador y presidente de Hermes - un centro para la transparencia en el campo de los derechos digitales - cree que 'se necesitará mucho esfuerzo' para exigir el cumplimiento de GDPR...\". Verified by curl 2026-10-24 (es.euronews.com/search?query=Pietrosanti).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2018-05-07",
+  "year": 2018,
+  "type": "quoted",
+  "outlet": "Euronews (en français)",
+  "title": "Les apps de suivi des règles : pas si intimes que ça",
+  "url": "https://fr.euronews.com/2018/05/07/les-apps-de-suivi-des-regles-pas-si-intimes-que-ca",
+  "language": "fr",
+  "role": "quoted expert (president Hermes Center)",
+  "note": "French edition of the same story. Text: \"Cependant, Fabio Pietrosanti, fondateur et président d'Hermes, un centre militant pour la transparence dans le milieu des droits digitaux, considère que 'cela demandera beaucoup d'efforts' aux sociétés pour appliquer les règles du RGPD...\". Verified by curl 2026-10-24 (fr.euronews.com/search?query=Pietrosanti). No matching Euronews YouTube video found.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017-03-09",
+  "year": 2017,
+  "type": "mentioned",
+  "outlet": "Center for the Cultivation of Technology (techcultivation.org, Berlin)",
+  "title": "CCT Contact/Team page: Advisory Board — Fabio Pietrosanti, Hermes Center (Italy)",
+  "url": "https://web.archive.org/web/20170309225020/https://techcultivation.org/contact.html",
+  "language": "en",
+  "role": "advisory board member",
+  "note": "Wayback captures 2017-03-09 and 2019-07-16 of techcultivation.org/contact.html list under 'Advisory Board': 'Fabio Pietrosanti — Hermes Center (Italy)' (with Claudio Agosti, Simon Phipps, Niels ten Oever, Stefano Zacchiroli et al.). Same list in github.com/techcultivation/docs/blob/master/overview.md (section 'Advisory Board', last edited 2017-03-03). Advisory board removed from the site on 2021-04-23 (commit 'remove advisory board' in techcultivation/website-static). Covers ca. 2016/17-2021. Verified 2026-10-24 (Wayback id_ via server + GitHub API).",
+  "verified": true,
+  "known": false
+ }
+]

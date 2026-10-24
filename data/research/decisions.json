@@ -886,6 +886,10 @@
   {
    "url": "https://www.wikiwand.com/zh-sg/GlobaLeaks",
    "reason": "2026-10-23: mirror Wikiwand della voce cinese GlobaLeaks (regola versioni linguistiche)"
+  },
+  {
+   "url": "https://patents.google.com/patent/US20130252585A1/en",
+   "reason": "2026-10-24: pagina Google Patents finalmente letta (retry): brevetto CellTrust (inventori Sean Moshir, Kevin Moshir, Ali A. Khanban); nessuna occorrenza di Pietrosanti, naif, PrivateWave, PrivateGSM o Khamsa, nemmeno tra le citazioni → non è una voce"
   }
  ],
  "override": [
@@ -1189,6 +1193,34 @@
     "verified": true,
     "role": "interviewed",
     "note": "TVtech video 574 (http://www.tvtech.it/video/574/intercettazioni-gsm-piu-facili-di-quanto-si-creda/, published 08/02/2010, Wayback 20100212050926; re-uploaded on YouTube by 'Hardware Upgrade - Archivio' on 2010-03-04). Its description says 'Ecco il parere dell'esperto di Khamsa'. Neither the page nor the YouTube description gives his name, and the video has no subtitles. The already-known tuttovolume.net article (2010-02-09) says 'TVtech ha intervistato Fabio Pietrosanti, responsabile tecnico della Khamsa' on this topic, so the expert is almost certainly him. This is the source video for that known item; the follow-up video 598 (YouTube L4beB3qQjVw) is already known. VERIFICATO 2026-10-23 dalla trascrizione Whisper della copia locale (2010/55e810e2d0aa, 00:17): «parere di Fabio Pietrosanti, security manager di Khamsa»."
+   }
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=L4beB3qQjVw",
+   "set": {
+    "verified": true,
+    "role": "interviewed",
+    "note": "TVtech video 598 'PrivateWave: comunicazioni sicure al cellulare' (2010), re-upload by Hardware Upgrade. 2026-10-24: Whisper transcript of the local copy: [00:14] 'parlando con Fabio Pietrosanti, un esperto di Khamsa', [00:28] 'Nell'incontro con Fabio...', [02:11] 'Fabio, una procedura...'. The TVtech page 598 (Wayback 20250119) embeds this same YouTube ID."
+   }
+  },
+  {
+   "url": "http://www.tvtech.it/video/598/privatewave-comunicazioni-sicure-al-cellulare/",
+   "set": {
+    "verified": true,
+    "role": "interviewed",
+    "note": "Original TVtech page (Wayback 20100314054831; capture 20250119202147 embeds youtube-nocookie L4beB3qQjVw). The page text names no one ('gli esperti di Khamsa'); verified 2026-10-24 through the Whisper transcript of the embedded video ('parlando con Fabio Pietrosanti, un esperto di Khamsa', 00:14)."
+   }
+  },
+  {
+   "url": "https://www.repubblica.it/scienze/2018/05/29/news/figli_e_amanti_sotto_stretta_sorveglianza_quando_la_spia_si_nasconde_nell_app-300966183/",
+   "set": {
+    "verified": true
+   }
+  },
+  {
+   "url": "https://www.repubblica.it/cronaca/2018/11/09/news/il_sito_del_viminale_bloccato_all_estero_per_motivi_di_sicurezza_informatica_-301101733/",
+   "set": {
+    "verified": true
    }
   }
  ],
