@@ -1,0 +1,11 @@
+{
+ "source_url": "https://www.variotdbs.pl/vuln/VAR-200012-0088/",
+ "fetched_url": "https://www.variotdbs.pl/vuln/VAR-200012-0088/",
+ "method": "live",
+ "capture": null,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 34536,
+ "sha256": "4f0362f967ec6bdbdba3ae58b9233572dbd6e61028633265bb64f04570d1d4aa",
+ "name_found": true,
+ "fetched_at": "2026-10-25T03:39:09+00:00"
+}

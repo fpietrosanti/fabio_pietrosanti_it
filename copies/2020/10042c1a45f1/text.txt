@@ -1,0 +1,413 @@
+Corea del Nord, come usa il digitale per aggirare le sanzioni - Wired 
+
+ WIRED .it 
+
+ Sezioni 
+
+ " ng-controller="NavSectionController" ng-init="setActiveSection('')">
+
+ Attualità 
+
+ Internet 
+
+ Gadget 
+
+ Mobile 
+
+ Scienza 
+
+ Economia 
+
+ Lifestyle 
+
+ Play 
+
+ LOL 
+
+ = 5}">
+
+ Live 
+
+ Wired Trends 2020 sul lavoro: come superare la retribuzione a tempo? 
+
+ Wired Trends 2020 sui media: digitale o meno, è la creatività che fa la differenza 
+
+ Wired Trends 2020: il retail del futuro integra negozi online e offline (senza dimenticare la sostenibilità) 
+
+ Wired Trends 2020 sull'energia: verso la rivincita delle rinnovabili 
+
+ Wired Trends 2020: la trasformazione digitale non è questione di tecnologia ma di cultura 
+
+ Gallery 
+
+ " ng-controller="NavSectionController" ng-init="setActiveSection('')">
+
+ Tutto 
+
+ Attualità 
+
+ Internet 
+
+ Gadget 
+
+ Mobile 
+
+ Scienza 
+
+ Economia 
+
+ Lifestyle 
+
+ Play 
+
+ LOL 
+
+ = 5}">
+
+ Wired Next 
+
+ Hot topic 
+
+ Serie tv 
+ Donne 
+ Coronavirus 
+ Google 
+ Apple 
+ Spazio 
+ Clima 
+ Trailer 
+ Donald Trump … 
+ Facebook 
+ Wired in edicola … 
+
+ vedi tutti 
+
+ Un mega archivio di foto e video porno da Onlyfans finisce gratis in rete Cosa cercare nel cielo di marzo 
+
+ di Raffaele Angius 
+
+ Contributor 
+
+ 25 Feb, 2020 
+
+ Home 
+
+ Internet 
+
+ Web 
+
+ Ecco come la Corea del Nord usa il digitale per aggirare le sanzioni
+
+ di Raffaele Angius 
+
+ Contributor 
+
+ 25 Feb, 2020 
+
+ Un rapporto confidenziale dell'Onu fa luce sulle tattiche del regime di Pyongyang: dagli hacker alle criptovalute, al traffico di tecnologia
+
+ (Foto: Str/Getty Images) 
+ Tra attacchi informatici e finti software per il trading di criptovalute , la Corea del Nord ha incrementato le attività di evasione delle sanzioni internazionali attraverso il dominio cibernetico . Ma le operazioni informatiche degli hacker di Pyongyang si sono spinte oltre, fino a cercare di acquisire il controllo dei sistemi di numerosi funzionari delle Nazioni Unite , tra cui alcuni legati al Consiglio di sicurezza .  
+
+ A certificarlo è un rapporto inedito di 250 pagine scritto dal comitato delle Nazioni Unite Unsc 1718, incaricato di valutare le violazioni delle sanzioni internazionali della Repubblica popolare democratica di Corea. Il documento, che Wired ha ottenuto da fonti riservate , descrive le attività commerciali e informatiche del Paese e le possibili violazioni delle disposizioni internazionali.  
+
+ Pyongyang è sottoposta alle misure restrittive dal 2006, da quando i quindici membri del Consiglio di sicurezza dell’Onu ne avevano approvato l’attivazione per contenerne le attività nucleari e missilistiche . “La Dprk (Repubblica Popolare Democratica della Corea, ndr) continua a perpetrare cyber attacchi contro istituzioni finanziarie e servizi di cambio di criptovalute in tutto il mondo” , si legge. 
+
+ Palazzo di vetro sotto attacco 
+
+ Il panel di esperti ha concentrato l’attenzione sui due principali gruppi di hacker riconducibili alla Corea del Nord: Lazarus e Kimsuky . Mentre il primo è specializzato in attività di penetrazione nel settore finanziario , al secondo sono attribuiti attacchi contro le infrastrutture critiche della Corea del Sud , oltre a diverse operazioni di spear phishing ai danni di funzionari governativi distaccati nel Palazzo di vetro. Con questo termine si identifica l’invio di email personalizzate e provenienti da un mittente apparentemente noto o affidabile e il loro scopo è di indurre il bersaglio a fornire autonomamente informazioni o l’accesso ai suoi dispositivi.   
+
+ Uno degli episodi descritti risale all’agosto del 2019, quando Kimsuky aveva lanciato una campagna di questo tipo contro le missioni permanenti di cinque Stati membri del Consiglio di Sicurezza dell’Onu: Cina, Francia, Belgio, Perù, Sud Africa . Nonostante le attività del gruppo fossero già state oggetto di un rapporto pubblicato a settembre dall’ Agenzia nazionale francese per la sicurezza dei sistemi d’informazione (Anssi), l’attacco contro i cinque Paesi non era stato ancora attribuito ufficialmente a Pyongyang.  Fonti accreditate hanno confermato a Wired che questa è una delle modalità d’attacco più utilizzate dai servizi della Corea del Nord .  
+
+ Il medesimo gruppo è ritenuto anche responsabile di un’operazione volta ad “acquisire le credenziali [ to spearphish nel testo, ndr] di 38 indirizzi email di altri rappresentanti governativi stranieri presso le Nazioni unite” . Tutti i Paesi bersaglio identificati erano membri del Consiglio di Sicurezza al momento dell’attacco .  
+
+ Ma le attività offensive del gruppo si sono protratte almeno fino a gennaio del 2020 , prendendo di mira anche gli stessi membri della Commissione Unsc 1718. “Il panel ribadisce la sua opinione secondo la quale gli attacchi, sia passati che in corso, contro gli organismi delle Nazioni unite incaricati di monitorare l’attuazione delle sanzioni dell’Onu, come il gruppo di esperti scientifici e il Comitato, equivalga a un’evasione sanzionatoria” , si legge nel documento.  
+
+ Diviso in otto sezioni e 73 schede di appendice , il rapporto descrive minuziosamente le attività intraprese dalla Corea del Nord nel dominio cibernetico, compresi gli attacchi rivolti contro altri Paesi. A partire dalla Corea del Sud, la cui società per l’energia idroelettrica e nucleare sarebbe stata un bersaglio già dal 2015, come riportato precedentemente da Reuters . Più recenti sono invece le operazioni rivolte contro la centrale nucleare indiana di Kudankulam , nel Tamil Nadu, e l’ Indian Space Research Observatory , avvenuti rispettivamente a settembre e ottobre del 2019 ma attribuiti stavolta al gruppo Lazarus. “Il panel ha investigato gli attacchi come possibile violazione dell’embargo di armi attraverso strumenti informatici” , precisa il rapporto.  
+
+ Celas Limited 
+
+ Lazarus, Guardians of Peace, Hidden Cobra : il gruppo è chiamato con molti nomi dagli esperti della sicurezza informatica. Tuttavia spesso ci si riferisce a loro con il nome in codice “Apt 38” , che identifica il modo univoco di agire dell’ Advanced Persistent Threat  (Apt) in questione e i suoi obiettivi. Nel caso di Lazarus questi però sono abbastanza eterogenei da rendere necessaria l’identificazione di due sottogruppi: Andariel e Bluenoroff . Se nel mirino del primo vi sono generalmente obiettivi militari e infrastrutture critiche (come la centrale nucleare del Tamil Nadu), la seconda squadra ha invece sviluppato nel tempo una forte competenza nel mondo delle criptovalute . 
+
+ A questa costola di Lazarus è attribuito lo sviluppo di finti software per la gestione di portafogli virtuali, grazie ai quali erano in grado di  ottenere l’accesso ai sistemi informatici delle vittime e al loro denaro. Un’operazione curata fin nel minimo particolare, con la creazione di un sito web apparentemente legittimo e intitolato alla finta società Celas Limited , con sede a Cedar Springs, Michigan. Chiunque cercasse dei software gratuiti per il trading di criptovalute poteva imbattersi nel loro software più scaricato, Celas Trade Pro .  
+
+ Nella descrizione dei servizi offerti dalla finta azienda si legge: “Si prevede che l’uso della tecnologia blockchain si espanderà in nuovi mercati. Le violazioni della sicurezza hanno posto l’accento sulla sicurezza in tutte le applicazioni della tecnologia blockchain . Celas Llc produce soluzioni di blockchain client-server resilienti per il mercato delle imprese” . Da ulteriori verifiche di Wired un’altra società con nome simile risulta registrata a Cedar Springs, lasciando ipotizzare che gli attaccanti ne abbiano sfruttato l’identità per rendere più credibile la truffa, come in una sorta di phishing societario.  
+
+ La schermata di presentazione di Celas Trade Pro 
+ A scoprire per primi le attività nascoste dietro la Celas Llc erano stati, nel 2018, i ricercatori del Kaspersky Lab. Da un’analisi del software malevolo era già emersa anche una porzione di codice fatta risalire a un potenziale attore nordcoreano . Tuttavia, il rapporto dell’Onu è il primo documento ufficiale ad attribuire la paternità dell’operazione a un’organizzazione controllata dai servizi di Pyongyang . 
+
+ Un altro attacco identificato dai ricercatori delle Nazioni Unite, Jmt Trader, era stato scoperto nell’ ottobre del 2019 dall’azienda MalwareTeamHunter . “Come nel caso di Celas Trade Pro, Jmt Trader è la versione modificata del software legittimo di cambio [di criptovalute, ndr] Qt Coin Trader” , si legge nel rapporto, nel quale si evidenzia la capacità multi-piattaforma degli strumenti di attacco messi a punto dalla Corea del Nord, installabili sia su Windows che MacOs .  
+
+ L’ombra russa, il riflesso cinese 
+
+ La Corea del Nord non dispone di una capacità diretta di gestione delle proprie reti per le telecomunicazioni , per le quali deve fare affidamento ai tecnici della Russia. Inoltre gli operatori informatici del Paese vivono in un contesto di sostanziale isolamento internazionale e soffrono di importanti limitazioni nell’accesso alla rete. Tutti fattori  che rendono molto difficile lo sviluppo di competenze forti nel campo della sicurez za informatica e che per alcuni sarebbero sufficienti a dubitare del reale potenziale offensivo del Paese. Tuttavia, gli informatici nordcoreani viaggiano moltissimo, soprattutto con l’obiettivo di generare profitti con i quali contribuire all’economia del loro Paese. Cina, Federazione russa, Ucraina e Serbia sono le mete preferite, insieme a Canada e Stati Uniti. Paesi nei quali anche i tecnici hanno l’opportunità di rafforzare le loro competenze, generando inoltre una rendita stimata in venti milioni di dollari l’anno , a beneficio delle casse di Pyongyang.
+
+ Ma anche i viaggi turistici e di studio sono in incremento: la sola Federazione russa ha rilasciato a cittadini nordcoreani, nel terzo trimestre del 2019, 7.703 visti turistici con un incremento di 12 volte rispetto allo stesso periodo nel 2017. I visti di studio sono aumentati di 3.611 unità. Ma al vaglio del panel sono anche alcune attività e imprese del settore tecnologico aperte in Cina , sospettate di essere in realtà controllate dalla Corea del Nord, che le usa per generare profitti.  
+
+ La fama degli hacker nordcoreani è così cresciuta nel tempo, al ritmo di report di analisi delle minacce e sanzioni internazionali. Già nel 2016 Stefano Mele, analista e presidente della Commissione sicurezza cibernetica del Comitato atlantico italiano, aveva dedicato un approfondimento al fenomeno, precisando che “le metodologie di guerra asimmetrica e non convenzionale sono da sempre quelle predilette dal governo nordcoreano – sia in tempo di pace, che di guerra – per contrastare la forza militare dei suoi principali antagonisti: la Corea  del Sud e gli Stati Uniti” . 
+
+ Si trattava allora di attacchi informatici a bassa intensità e più che altro orientati ad acquisire informazioni o come attività di disturbo . L’inizio di un’ascesa che ha portato Pyongyang ad alzare la posta, come nel caso dell’attacco dello scorso ottobre alla centrale elettrica di Kudankulam. “Oggi la priorità è lo sviluppo di capacità cibernetiche a sostegno di una strategia asimmetrica – ha spiegato Mele a Wired -, ma è da guardare con grande attenzione anche l’interesse del governo nordcoreano per le criptovalute”. 
+
+ Il raduno di esperti 
+
+ Nelle 250 pagine del rapporto trova spazio anche un riferimento alla Conferenza sulle criptovalute ospitata a Pyongyang ad aprile del 2019, alla quale hanno preso parte sia esperti e funzionari della Repubblica popolare che alcuni ospiti internazionali con un background su temi legati alle applicazioni di tecnologie blockchain . Tra questi anche il cittadino statunitense Virgil Griffith , tra i fondatori della Fondazione Ethereum, che oggi è sotto inchiesta nel suo Paese con l’accusa di aver violato le restrizioni imposte alla Corea del Nord e di aver trasferito conoscenze specifiche sull’utilizzo della blockchain al fine di evadere le sanzioni internazionali.  
+
+ Il report prosegue citando il sito dell’evento e riporta che tra gli ospiti vi sarebbero stati “esperti dell’industria della blockchain e delle criptovalute radunati a Pyongyang dove hanno condiviso le loro conoscenze e la loro visione , hanno stabilito connessioni durature, discusso opportunità e firmato contratti nel campo delle tecnologie dell’informazione” . Tuttavia, questo è probabilmente un errore di citazione, dal momento che nel sito originale manca quest’ultima frase. Probabilmente il riferimento è alle attività imprenditoriali coltivate nel Paese da alcuni imprenditori tra i quali l’italiano Fabio Pietrosanti, che in Corea del Nord sviluppa  tecnologie sanitarie open source. Contattato da Wired ,  Pietrosanti spiega che  “le sanzioni non sono mai state oggetto di discussione durante la conferenza” e anzi “sono state fortemente sconsigliate dagli stessi organizzatori” .  
+
+ La presenza di un riferimento alla conferenza nel report era stata già anticipata da Reuters , che riporta come il panel di esperti invitasse i cittadini ad astenersi dal partecipare a eventi organizzati nella Repubblica Popolare. Un avviso reso ancora più necessario dal fatto che, dopo l’aprile del 2019, l’ente organizzatore si era affrettato a pubblicare le date dell’edizione del 2020, prevista tra il 22 e il 29 febbraio. Ma in realtà l’evento è stato annullato già a dicembre a causa del timore dei potenziali partecipanti di incorrere in misure legali, come spiegato a Wired da alcune fonti. Delle informazioni sulla seconda edizione della conferenza è rimasta traccia solo tramite le copie di archivio della pagina di presentazione, dove è ancora possibile consultarne il programma. Gli organizzatori dell’evento non hanno risposto a una richiesta di informazioni da parte di Wired .  
+
+ Leggi anche 
+
+ Web -
+ 5 Mar 
+
+ 8 numeri per capire tutte le minacce cyber che incontriamo in rete 
+
+ Politica -
+ 4 Mar 
+
+ Un report inedito dell'Onu fa luce su come la Corea del Nord affama il suo popolo 
+
+ Business -
+ 4 Mar 
+
+ Cloud e smart grid: l'Europa inizia a dare le patenti di cybersecurity 
+
+ Topics 
+
+ Corea del Nord 
+
+ Cybersecurity 
+
+ Hacker 
+
+ Potrebbe interessarti anche 
+
+ This opera is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License .
+
+ Video 
+
+ . 
+
+ Il futuro dei media 
+
+ 17 Dic
+
+ Il piano editoriale è morto? 
+
+ La domanda è ...
+
+ Puglia Sviluppo 
+
+ 30 Gen
+
+ Puglia, futuro più verde grazie all'efficienza energetica ... 
+
+ L'approccio ...
+
+ Web -
+ 6 Mar 
+
+ Google dà la priorità ai siti mobile-first 
+
+ Web -
+ 6 Mar 
+
+ Una battaglia internazionale contro la violenza online sui bambini 
+
+ Web -
+ 6 Mar 
+
+ Vuoi sapere chi ti "pedina" online? Arriva la lista dei web tracker più diffusi 
+
+ Web -
+ 5 Mar 
+
+ 8 numeri per capire tutte le minacce cyber che incontriamo in rete 
+
+ Web -
+ 5 Mar 
+
+ Firefox pulisce in automatico i siti che fanno tracking 
+
+ Web -
+ 4 Mar 
+
+ Pornhub ora investe sui film d'autore 
+
+ Web -
+ 2 Mar 
+
+ Come aprire un'email senza rischiare di scaricare un malware 
+
+ Web -
+ 2 Mar 
+
+ Su internet c'è un archivio gratis dei Vhs, con 20mila video dagli anni '90 
+
+ WIRED 
+ .it 
+
+ Attualità 
+
+ Politica 
+
+ Media 
+
+ Ambiente 
+
+ Tech 
+
+ / 
+
+ Internet 
+
+ Social Network 
+
+ Regole 
+
+ TLC 
+
+ Web 
+
+ / 
+
+ Gadget 
+
+ Motori 
+
+ Outdoor 
+
+ Audio e TV 
+
+ Accessori 
+
+ Foto e Video 
+
+ Computer 
+
+ Elettrodomestici 
+
+ Videogiochi 
+
+ / 
+
+ Mobile 
+
+ Smartphone 
+
+ Tablet 
+
+ App 
+
+ / 
+
+ Scienza 
+
+ Energia 
+
+ Ecologia 
+
+ Biotech 
+
+ Medicina 
+
+ Lab 
+
+ Spazio 
+
+ / 
+
+ Economia 
+
+ Consumi 
+
+ Lavoro 
+
+ Startup 
+
+ Finanza 
+
+ Business 
+
+ / 
+
+ Lifestyle 
+
+ Salute 
+
+ Sostenibilità 
+
+ Viaggi 
+
+ Mobilità 
+
+ Food 
+
+ Design 
+
+ / 
+
+ Play 
+
+ Cinema 
+
+ Musica 
+
+ Tv 
+
+ Libri 
+
+ Fumetti 
+
+ Cultura 
+
+ / 
+
+ LOL 
+ / 
+
+ Idee 
+
+ Video / 
+
+ Gallery / 
+
+ Data / 
+
+ Stickers 
+ / 
+
+ Topfive 
+
+ Segui wired su 
+
+ Vanityfair 
+
+ Vogue 
+
+ GQ 
+
+ AD-italia.it 
+
+ La Cucina Italiana 
+
+ WIRED INTERNATIONAL EDITIONS: 
+
+ Uk 
+
+ Usa 
+
+ Japan 
+
+ Impostazioni dei cookie -->
+
+ ©: Edizioni Condé Nast s.p.a. - Piazza Cadorna 5 - 20123 Milano cap.soc. 2.700.000 euro I.V. C.F E P.IVA reg.imprese trib. Milano n. 00834980153 società con socio unico
+
+ Pubblicità 
+
+ Redazione 
+
+ Privacy 
+
+ Condizioni d'utilizzo

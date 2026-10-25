@@ -1,0 +1,285 @@
+Details of VAR-200012-0088
+
+ Home 
+
+ Vulnerabilities 
+
+ Exploits 
+
+ News 
+
+ API 
+
+ Ontology 
+
+ Contact 
+
+ Cite 
+
+ Sign-up 
+
+ ID
+
+ VAR-200012-0088
+
+ CVE
+
+ CVE-2000-1027
+
+ TITLE
+
+ Cisco Secure PIX Firewall Vulnerability
+
+ Trust: 0.6
+
+ sources:
+
+ CNNVD: CNNVD-200012-075 
+
+ DESCRIPTION
+
+ Cisco Secure PIX Firewall 5.2(2) allows remote attackers to determine the real IP address of a target FTP server by flooding the server with PASV requests, which includes the real IP address in the response when passive mode is established. The Cisco PIX is a popular firewall network device. 
+It is possible to configure the PIX so that it hides the IP address of internal ftp servers from clients connecting to it. It is not known what exactly causes this condition. 
+This has been verified on versions 5.2(4) and 5.2(2) of the PIX firmware and probably affects other versions
+
+ Trust: 1.26
+
+ sources:
+
+ NVD: CVE-2000-1027 // 
+
+ BID: 1877 // 
+
+ VULHUB: VHN-2597 
+
+ AFFECTED PRODUCTS
+
+ vendor: cisco model: pix firewall software scope: eq version: 5.2 
+ Trust: 1.6
+
+ vendor: cisco model: pix firewall scope: eq version: 5.2 
+ Trust: 0.9
+
+ sources:
+
+ BID: 1877 // 
+
+ CNNVD: CNNVD-200012-075 // 
+
+ NVD: CVE-2000-1027 
+
+ CVSS
+
+ SEVERITY
+
+ CVSSV2
+
+ CVSSV3
+
+ nvd@nist.gov: CVE-2000-1027 
+
+ value: MEDIUM 
+
+ Trust: 1.0
+
+ CNNVD: CNNVD-200012-075 
+
+ value: MEDIUM 
+
+ Trust: 0.6
+
+ VULHUB: VHN-2597 
+
+ value: MEDIUM 
+
+ Trust: 0.1
+
+ nvd@nist.gov: CVE-2000-1027 
+
+ severity: MEDIUM 
+ baseScore: 5.0 
+ vectorString: AV:N/AC:L/AU:N/C:P/I:N/A:N 
+ accessVector: NETWORK 
+ accessComplexity: LOW 
+ authentication: NONE 
+ confidentialityImpact: PARTIAL 
+ integrityImpact: NONE 
+ availabilityImpact: NONE 
+ exploitabilityScore: 10.0 
+ impactScore: 2.9 
+ acInsufInfo: NONE 
+ obtainAllPrivilege: NONE 
+ obtainUserPrivilege: NONE 
+ obtainOtherPrivilege: NONE 
+ userInteractionRequired: NONE 
+ version: 2.0 
+
+ Trust: 1.0
+
+ VULHUB: VHN-2597 
+
+ severity: MEDIUM 
+ baseScore: 5.0 
+ vectorString: AV:N/AC:L/AU:N/C:P/I:N/A:N 
+ accessVector: NETWORK 
+ accessComplexity: LOW 
+ authentication: NONE 
+ confidentialityImpact: PARTIAL 
+ integrityImpact: NONE 
+ availabilityImpact: NONE 
+ exploitabilityScore: 10.0 
+ impactScore: 2.9 
+ acInsufInfo: NONE 
+ obtainAllPrivilege: NONE 
+ obtainUserPrivilege: NONE 
+ obtainOtherPrivilege: NONE 
+ userInteractionRequired: NONE 
+ version: 2.0 
+
+ Trust: 0.1
+
+ sources:
+
+ VULHUB: VHN-2597 // 
+
+ CNNVD: CNNVD-200012-075 // 
+
+ NVD: CVE-2000-1027 
+
+ PROBLEMTYPE DATA
+
+ problemtype: NVD-CWE-Other 
+ Trust: 1.0
+
+ sources:
+
+ NVD: CVE-2000-1027 
+
+ THREAT TYPE
+
+ remote
+
+ Trust: 0.6
+
+ sources:
+
+ CNNVD: CNNVD-200012-075 
+
+ TYPE
+
+ unknown
+
+ Trust: 0.6
+
+ sources:
+
+ CNNVD: CNNVD-200012-075 
+
+ EXPLOIT AVAILABILITY
+
+ sources:
+
+ VULHUB: VHN-2597 
+
+ EXTERNAL IDS
+
+ db: BID id: 1877 
+ Trust: 2.0
+
+ db: NVD id: CVE-2000-1027 
+ Trust: 1.7
+
+ db: OSVDB id: 1623 
+ Trust: 1.7
+
+ db: CNNVD id: CNNVD-200012-075 
+ Trust: 0.7
+
+ db: BUGTRAQ id: 20001003 CISCO PIX FIREWALL ALLOW EXTERNAL USERS TO DISCOVER INTERNAL IPS 
+ Trust: 0.6
+
+ db: XF id: 5646 
+ Trust: 0.6
+
+ db: SEEBUG id: SSVID-74250 
+ Trust: 0.1
+
+ db: EXPLOIT-DB id: 20369 
+ Trust: 0.1
+
+ db: VULHUB id: VHN-2597 
+ Trust: 0.1
+
+ sources:
+
+ VULHUB: VHN-2597 // 
+
+ BID: 1877 // 
+
+ CNNVD: CNNVD-200012-075 // 
+
+ NVD: CVE-2000-1027 
+
+ REFERENCES
+
+ url: http://www.securityfocus.com/bid/1877 
+ Trust: 1.7
+
+ url: http://www.osvdb.org/1623 
+ Trust: 1.7
+
+ url: http://marc.info/?l=bugtraq&m=97059440000367&w=2 
+ Trust: 1.1
+
+ url: https://exchange.xforce.ibmcloud.com/vulnerabilities/5646 
+ Trust: 1.1
+
+ url: http://marc.theaimsgroup.com/?l=bugtraq&m=97059440000367&w=2 
+ Trust: 0.6
+
+ url: http://xforce.iss.net/static/5646.php 
+ Trust: 0.6
+
+ sources:
+
+ VULHUB: VHN-2597 // 
+
+ CNNVD: CNNVD-200012-075 // 
+
+ NVD: CVE-2000-1027 
+
+ CREDITS
+
+ Discovered by Fabio Pietrosanti (naif) <naif@inet.it>. Posted to Bugtraq on Oct 3, 2000.
+
+ Trust: 0.3
+
+ sources:
+
+ BID: 1877 
+
+ SOURCES
+
+ db: VULHUB id: VHN-2597 db: BID id: 1877 db: CNNVD id: CNNVD-200012-075 db: NVD id: CVE-2000-1027 
+
+ LAST UPDATE DATE
+
+ 2026-06-18T21:55:08.925000+00:00
+
+ SOURCES UPDATE DATE
+
+ db: VULHUB id: VHN-2597 date: 2018-10-30T00:00:00 db: BID id: 1877 date: 2000-10-03T00:00:00 db: CNNVD id: CNNVD-200012-075 date: 2005-05-02T00:00:00 db: NVD id: CVE-2000-1027 date: 2026-06-16T21:53:00.030 
+
+ SOURCES RELEASE DATE
+
+ db: VULHUB id: VHN-2597 date: 2000-12-11T00:00:00 db: BID id: 1877 date: 2000-10-03T00:00:00 db: CNNVD id: CNNVD-200012-075 date: 2000-12-11T00:00:00 db: NVD id: CVE-2000-1027 date: 2000-12-11T05:00:00 
+
+ © 2022 
+
+ English
+
+ polski
+
+ VARIoT - international project co-financed by the Connecting Europe Facility of the European Union, 
+ TENtec n. 28263632 and by the program of the Minister of Science and Higher Education 
+ entitled "PMW" in the years 2020-2022; contract No. 5095/CEF/2020/2

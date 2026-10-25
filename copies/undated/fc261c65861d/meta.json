@@ -1,0 +1,11 @@
+{
+ "source_url": "https://www.juniper.net/us/en/threatlabs/ips-signatures/detail.SMB:EXPLOIT:SMBDIE.html",
+ "fetched_url": "https://web.archive.org/web/20251113113910id_/https://www.juniper.net/us/en/threatlabs/ips-signatures/detail.SMB:EXPLOIT:SMBDIE.html",
+ "method": "wayback",
+ "capture": "20251113113910",
+ "content_type": "text/html;charset=utf-8",
+ "bytes": 712190,
+ "sha256": "d11c9c130efe3702a529a3b0fce30faf6716d4bd7bb626c9b651d2aead12fdcb",
+ "name_found": true,
+ "fetched_at": "2026-10-25T03:39:00+00:00"
+}

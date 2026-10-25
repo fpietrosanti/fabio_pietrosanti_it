@@ -1,0 +1,11 @@
+{
+ "source_url": "https://www.exploit-db.com/exploits/20369",
+ "fetched_url": "https://web.archive.org/web/20241210133602id_/https://www.exploit-db.com/exploits/20369",
+ "method": "wayback",
+ "capture": "20241210133602",
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 142902,
+ "sha256": "0ad63db339956ec63de515868be0c4b28a8a075b597b807297748f3a2d3fbe34",
+ "name_found": true,
+ "fetched_at": "2026-10-25T03:39:05+00:00"
+}

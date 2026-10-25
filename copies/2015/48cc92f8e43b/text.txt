@@ -1,0 +1,953 @@
+Dossiers NSA / Tails - L'anonymat En Ligne Version Ultime - Lumière Sur Gaia 
+
+ Facebook 
+
+ Instagram 
+
+ Paypal 
+
+ Telegram 
+
+ TikTok 
+
+ X 
+
+ Website 
+
+ Youtube 
+
+ Se connecter Joindre 
+
+ Accueil 
+
+ Catégories 
+
+ Derniers articles postés 
+
+ Actualités Intelligence Artificielle 
+
+ Spiritualité / Réveil 
+
+ Livres Spirituels 
+
+ Un cours en miracles (UCEM) 
+
+ Satsangs 
+
+ Bien Être & Yoga 
+
+ Dossiers Lumière Sur Gaia 
+
+ Science & Technologie 
+
+ Anciennes Civilisations 
+
+ Actualités du monde 
+
+ Santé / Nutrition 
+
+ Exopolitique, Divulgation & PSS 
+
+ Messages de l’équipe au sol 
+
+ Création du nouveau monde 
+
+ Musique 
+
+ Artistes à découvrir 
+
+ Sanskri / Kirtans 
+
+ Musiques de Méditation 
+
+ Binaurale 
+
+ Vidéos 
+
+ Visio conférences & Interview 
+
+ Contact 
+
+ Faire un Don 
+
+ Se connecter
+
+ Bienvenue! Connectez-vous à votre compte
+
+ votre nom d'utilisateur 
+
+ votre mot de passe 
+
+ Mot de passe oublié ? 
+
+ Créer un compte 
+
+ S'inscrire
+
+ Bienvenue! Créer un compte
+
+ votre email 
+
+ votre nom d'utilisateur 
+
+ Un mot de passe vous sera envoyé par email.
+
+ Récupération de mot de passe
+
+ Récupérer votre mot de passe
+
+ votre email 
+
+ Recherche 
+
+ Connecter / rejoindre 
+
+ Facebook 
+
+ Instagram 
+
+ Paypal 
+
+ Telegram 
+
+ TikTok 
+
+ X 
+
+ Website 
+
+ Youtube 
+
+ Se connecter
+
+ Bienvenue ! Connectez-vous à votre compte :
+
+ votre nom d'utilisateur 
+
+ votre mot de passe 
+
+ Mot de passe oublié? obtenir de l'aide 
+
+ Créer un compte 
+
+ Créer un compte
+
+ Bienvenue! s'inscrire pour un compte
+
+ votre email 
+
+ votre nom d'utilisateur 
+
+ Un mot de passe vous sera envoyé par email.
+
+ Récupération de mot de passe
+
+ Récupérer votre mot de passe
+
+ votre email 
+
+ Un mot de passe vous sera envoyé par email.
+
+ Lumière sur Gaia 
+
+ Accueil 
+
+ Catégories 
+
+ Derniers articles postés 
+
+ Actualités Intelligence Artificielle 
+
+ Spiritualité / Réveil 
+
+ Livres Spirituels 
+
+ Un cours en miracles (UCEM) 
+
+ Satsangs 
+
+ Bien Être & Yoga 
+
+ Dossiers Lumière Sur Gaia 
+
+ Science & Technologie 
+
+ Anciennes Civilisations 
+
+ Actualités du monde 
+
+ Santé / Nutrition 
+
+ Exopolitique, Divulgation & PSS 
+
+ Messages de l’équipe au sol 
+
+ Création du nouveau monde 
+
+ Musique 
+
+ Artistes à découvrir 
+
+ Sanskri / Kirtans 
+
+ Musiques de Méditation 
+
+ Binaurale 
+
+ Vidéos 
+
+ Visio conférences & Interview 
+
+ Contact 
+
+ Faire un Don 
+
+ Facebook 
+
+ Instagram 
+
+ Paypal 
+
+ Telegram 
+
+ TikTok 
+
+ X 
+
+ Website 
+
+ Youtube 
+
+ Accueil Catégories Derniers articles postés Dossiers NSA / Tails – L’anonymat en ligne version ultime 
+
+ Catégories 
+ Derniers articles postés 
+ Messages de l'équipe au sol 
+ Dossiers NSA / Tails – L’anonymat en ligne version ultime
+
+ Par
+ FR33M4N R0CKW00D - 
+
+ Fév 8, 2015 3102 
+
+ Partager
+
+ Facebook
+
+ X
+
+ Telegram
+
+ WhatsApp
+
+ Tails, l’outil détesté par la NSA, qui veut démocratiser l’anonymat en ligne
+
+ Rencontre avec les développeurs d’un outil craint par la NSA, utilisé par Edward Snowden et de plus en plus d’internautes désireux de se protéger sur Internet. 
+
+ Dans son documentaire « Citizenfour », qui retrace sa rencontre avec Edward Snowden, Laura Poitras rappelle qu’Edward Snowden a utilisé un outil particulier afin de communiquer et travailler avec des journalistes. Son nom : Tails, pour « The Amnesic Incognito Live System », le « système incognito et amnésique ».
+
+ A la différence de TrueCrypt, le logiciel de chiffrement de données qui s’est sabordé en juin, Tails n’est pas un projet anonyme. En revanche, ses développeurs utilisent des pseudonymes – plus, disent-ils, par choix individuel que par nécessité de protection, même si la question peut désormais se poser.
+
+ Tails, le système « amnésique et incognito »
+
+ Un système « amnésique »
+
+ Techniquement, Tails est un système d’exploitation installé sur un support amovible – DVD, clé USB ou carte SD –, à partir duquel on fait démarrer un ordinateur. « Amnésique », il ne laisse aucune trace sur l’appareil utilisé et ne conserve aucune donnée, sauf demande explicite de l’utilisateur. « Incognito », il utilise le réseau d’anonymisation TOR pour se connecter à Internet, embarque des outils réputés de chiffrement des communications et des données, et permet même de camoufler l’adresse MAC – l’identifiant physique – de l’ordinateur. Les choix de configuration par défaut sont conçus pour limiter au maximum les risques.
+
+ Taillé pour l’anonymat et la confidentialité en ligne, Tails l’est aussi pour l’urgence – éjecter ou arracher le support amovible entraîne l’extinction immédiate du système – et pour la discrétion : l’utilisateur peut activer, au démarrage, un camouflage Windows , plus passe-partout que l’environnement graphique par défaut.
+
+ On y trouve aussi une suite bureautique, ainsi que des logiciels de retouche photo et d’édition audio et vidéo. Basé sur Linux, Tails peut être librement téléchargé, copié et audité : son code source est public, de même que la liste de discussion des développeurs. Un préalable à la confiance des utilisateurs, mais pas seulement :
+
+ « Notre background technique, c’est la culture du logiciel libre . C’est un présupposé de travailler ouvertement, de mettre le code à disposition, d’avoir des processus de décision transparents, publics, des listes de discussion ouvertes. Le projet ne pourrait pas tenir s’il ne se basait que sur une petite équipe technique de codeurs. » 
+
+ Un outil « extrémiste » selon la NSA
+
+ Edward Snowden et le journaliste Glenn Greenwald, à Hongkong en 2013. Tails est installé sur la clé USB bleue insérée dans l’ordinateur (en bas à droite). | AP 
+ Avant même que Laura Poitras, Glenn Greenwald et Barton Gellman, les journalistes contactés par Edward Snowden, révèlent au printemps avoir utilisé Tails pour travailler sur les documents transmis par le lanceur d’alerte, l’outil faisait déjà partie de la panoplie recommandée par Tactical Tech , une ONG qui forme les militants des droits de l’homme à l’usage des technologies numériques, par Reporters sans frontières ou encore par la Freedom of the Press Foundation .
+
+ La NSA, de son côté, le définit comme « un dispositif de sécurité des communications préconisé par des extrémistes, sur des forums extrémistes » , comme en atteste une enquête publiée début juillet sur le site de Das Erste . Elle a révélé que les internautes effectuant des recherches sur le projet ou visitant son site Web sont spécifiquement surveillés, de même que les utilisateurs du réseau TOR ou les lecteurs du Linux Journal , un magazine consacré au logiciel libre.
+
+ D’après  des documents publiés par le Guardian en octobre 2013, Tails complique singulièrement l’espionnage informatique à distance. A l’heure de la surveillance généralisée, l’outil se présente comme un véritable couteau suisse de la furtivité numérique.
+
+ Grain de sable dans les rouages de la surveillance
+
+ Lorsque Intrigeri (un pseudonyme), un développeur français, initie en 2009 le projet Amnesia, qui deviendra Tails, sa motivation est précisément de construire un système qui ne soit pas réservé aux seuls « techniciens » :
+
+ « Les outils qui existaient à l’époque étaient compliqués à utiliser. Incognito, par exemple, n’avait pas d’interface graphique pour accéder à des conteneurs chiffrés et permettre à l’utilisateur d’y sauvegarder des données. » 
+
+ Incognito , un système d’exploitation d’origine américaine abandonné en 2010, est le précurseur de Tails, qui s’est aussi inspiré de l’Allemand Privatix . Aujourd’hui, l’internaute peut également se tourner vers Liberté Linux (en pause depuis 2012) ou Whonix . Tails est le seul à avoir réussi, dans une certaine mesure, à dépasser les cercles les plus techniques. L’équilibre est complexe à tenir, expliquent ses développeurs :
+
+ « On essaie toujours d’aller au plus près de la sécurité et de la confidentialité. Mais il y a toujours un équilibre à trouver entre la sécurité offerte par un outil, les obstacles éventuels pour l’utilisateur, et notre capacité à maintenir l’outil sur le long terme. Il faut en permanence choisir où on place la barre. Si on propose trop d’options, par exemple, il est plus difficile de faire le bon choix, même si, techniquement, ce serait plus affiné. » 
+
+ 11 000 utilisateurs quotidiens
+
+ « Toutes les sept secondes, quelque part dans le monde, quelqu’un démarre Tails  » 
+
+ Lors des déclarations des journalistes, le nombre de téléchargements a connu un pic. Le jour de la parution d’ un article dans Wired , le site de Tails a même eu du mal à tenir la charge, inédite, de visiteurs.
+
+ Toutes les sept secondes, quelque part dans le monde, quelqu’un démarre Tails et se connecte au réseau : « Autour de 11 000 par jour en ce moment, et ça double tous les neuf mois, depuis deux ou trois ans » , disent ses concepteurs. Une goutte d’eau au regard du nombre d’internautes, un résultat significatif pour un outil destiné à être utilisé dans les contextes les plus critiques, et développé par une équipe resserrée. Cette dernière s’est étoffée et internationalisée – on travaille sur Tails en Allemagne, aux Pays-Bas, aux Etats-Unis –, mais ne compte qu’une petite vingtaine de contributeurs et contributrices très réguliers, bénévoles pour la plupart.
+
+ L’équipe maintient tout de même le rythme, soutenu, d’une nouvelle version du système toutes les six semaines :
+
+ « Des distributions “live” de ce type-là, il y en a beaucoup qui ont duré deux ans. Que le projet tienne sur la longueur, c’est ça qui le rend plus crédible dans la communauté. » 
+
+ Mais le plus notable, c’est l’engouement pour le projet dans les sphères « hacktivistes ». Bruce Schneier , le cryptographe américain qui a expertisé une partie des documents Snowden pour le Guardian , le recommande « sans hésiter » à qui serait « paranoïaque au point de ne plus avoir confiance dans son ordinateur »  : « Pour un système d’exploitation “sans mémoire”, c’est vraiment très bon. » Lui-même l’utilise « de manière limitée » , précise-t-il.
+
+ Tails comme outil pour les lanceurs d’alerte
+
+ Avant même le début des révélations Snowden, Tails avait été intégré à la conception de deux plateformes de transmission sécurisée de documents, destinées aux lanceurs d’alerte potentiels : SecureDrop , un projet américain initié par Aaron Swartz et adopté successivement par le New Yorker , ProPublica ou encore The Intercept, le média en ligne lancé par Glenn Greenwald et Pierre Omidyar ; et GlobaLeaks, une initiative italienne qui a donné naissance aussi bien à WildLeaks , un outil de dénonciation des atteintes à la faune sauvage, qu’à PubLeaks , une plateforme mutualisée rassemblant une quarantaine de médias néerlandais.
+
+ Fabio Pietrosanti, l’un des développeurs d’une plateforme à destination des lanceurs d’alerte utilisant Tails. |  
+ Un outil devenu référence
+
+ Si une pression pèse aujourd’hui sur Tails, c’est sans doute moins celle de la NSA que celle de la responsabilité, à mesure que l’outil devient une référence pour les cyberdissidents, les ONG et le journalisme d’investigation.
+
+ Le système a certes été pensé pour abaisser le coût d’entrée technique dans l’Internet anonyme et sécurisé, mais n’est pas encore à mettre entre toutes les mains. C’est ce que rappelle Fabio Pietrosanti, l’un des développeurs de GlobaLeaks :
+
+ « Le retour que nous avons des utilisateurs de GlobaLeaks, c’est que Tails n’est pas si simple à utiliser. Seules les structures les plus importantes, ou les mieux organisées, sont à même de s’en servir sur la durée, mais les autres n’ont pas forcément ni le temps ni les ressources internes pour mettre en place des procédures de haute sécurité. » 
+
+ « Augmenter le nombre d’utilisateurs » , comme le souhaite M. Pietrosanti, est pourtant une préoccupation constante. Les temps ont changé, expliquent les développeurs, et Tails est à leurs yeux « une réponse politique à un problème de société »  :
+
+ « La perception de la menace a évolué : on n’en est plus à essayer de se protéger soi , on est dans une épidémie de surveillance généralisée. On se rend compte que ceux qui gagnent de l’argent ou du pouvoir en espionnant les populations le font aussi en étudiant les métadonnées : qui communique avec qui, à quel moment. On essaie de proposer une solution à ça, en rendant l’outil accessible au plus de monde possible. » 
+
+ Un outil encore difficile d’accès
+
+ Or, à ce stade, Tails se mérite encore. La procédure d’installation ou l’écran d’accueil au lancement du système sont « difficilement compréhensibles pour un nouvel utilisateur » , reconnaît l’équipe et la documentation, touffue, n’est pas toujours très accessible. Parmi les améliorations envisagées : porter le logiciel d’installation vers d’autres systèmes d’exploitation, automatiser la vérification de l’intégrité de Tails, ou encore créer un assistant Web pour guider les utilisateurs.
+
+ « Pas si facile à utiliser  » 
+
+ L’ergonomie est, disent-ils, l’un des chantiers des mois à venir. Signe de la visibilité acquise par le projet, c’est Numa, l’« incubateur numérique » francilien, qui prête main forte au noyau de codeurs. Pour Claudio Vandi et Maël Inizan, deux des chevilles ouvrières du lieu, c’est l’occasion d’aider un « projet vraiment utile » , qui a « un impact sur la vie des gens, sur leur travail » .
+
+ D’autres projets moins visibles sont en cours : rendre le processus de sortie d’une nouvelle version moins chronophage et plus souple, améliorer l’isolation des différentes applications à l’intérieur du système et limiter au maximum l’effet d’éventuelles vulnérabilités.
+
+ De faibles moyens financiers
+
+ « Un budget microscopique par rapport à l’ampleur du projet » 
+
+ Le tout avec des ressources « dérisoires » , comme le notait en avril le pure-player américain Salon . Jusqu’en 2012, le budget opérationnel de Tails n’a jamais dépassé 8 500 euros. En 2013, année faste, il est monté autour de 42 000 euros, grâce aux subventions allouées par le TOR Project et par le National Democratic Institute, une ONG dirigée par l’ancienne secrétaire d’Etat des Etats-Unis Madeleine Albright. A titre d’exemple, les dépenses de fonctionnement du TOR Project pour la même année s’élèvent à 2,8 millions de dollars (plus de deux millions d’euros) :
+
+ « Il y a toujours eu un petit soutien du TOR Project , précise l’équipe, un peu de dons en bitcoins… Cette année, nous avons gagné un prix. Mais ça reste un budget microscopique par rapport à l’ampleur du projet, et le travail payé est une toute petite partie du travail mis dans le projet. Ça reste essentiellement bénévole. » 
+
+ Le recours au crowdfunding a été envisagé, mais pas pour tout de suite :
+
+ « On a peur que ce soit beaucoup de travail de mener une campagne à bien. On se garde ça sous le coude pour la lancer au moment opportun, soit parce qu’on en aura besoin, soit parce qu’on aura quelque chose de nouveau à proposer aux utilisateurs… » 
+
+ Ils disent aussi que ne pas trop dépendre des financements extérieurs est la meilleure manière d’assurer la pérennité du projet. Ils glissent en souriant que Tails a besoin de rédacteurs ou de traducteurs, pas seulement de codeurs. Que toutes les bonnes volontés sont les bienvenues. Ils ont travaillé à rendre le processus de contribution plus simple, et « ça commence à payer » .
+
+ SOURCE : PIXELS – Le Monde 
+
+ PLUS : L’intégralité de l’entretien avec les développeurs de Tails 
+
+ Tails raconté par ceux qui le construisent
+
+ Quiconque s’intéresse aux technologies de protection de la confidentialité sur Internet a un jour ou l’autre entendu parler de Tails, un système d’exploitation live (installé sur DVD, clé USB ou carte SD) qui utilise le réseau Tor , embarque les outils de cryptographie réputés les plus fiables, et ne laisse ni ne conserve aucune trace, sauf à le demander explicitement.
+
+ Depuis que les journalistes contactés par Edward Snowden ont révélé, au printemps dernier, avoir utilisé Tails pour travailler sur les documents fuités par le lanceur d’alerte, la réputation de l’outil a définitivement dépassé les cercles purement techniques. En témoigne son usage par de plus en plus de journalistes et d’ONG.
+
+ J’ai eu l’occasion, cet été, d’interviewer l’équipe de Tails lors de la tenue à Paris de leur premier hackfest . Cette interview « away from keyboard » (ou presque) et à plusieurs voix a largement nourri un article tout juste paru sur Lemonde.fr/pixels.  Il m’a semblé intéressant, pour un public un peu plus « spécialiste », d’en publier ici la transcription intégrale.
+
+ Comment est né Tails, et pourquoi ? 
+
+ Les systèmes d’exploitation live qui existaient à l’époque étaient compliqués à utiliser. L’outil principal, c’était Incognito , mais il n’y avait pas d’interface graphique pour accéder à des conteneurs chiffrés et permettre à l’utilisateur d’y stocker des données. D’un point de vue technique, Incognito était dérivé de Gentoo , une distribution Linux qui n’est pas la plus répandue. Ça rendait difficile de trouver de nouveaux contributeurs. D’où le choix de Debian , une distribution plus populaire.
+
+ http://youtu.be/bmOFdgrxd7M 
+
+ L’idée de Tails, c’est de rendre l’anonymat et la confidentialité plus accessibles. On peut dire que c’est un projet politique ? 
+
+ Ces dernières années, le grand public s’est rendu compte que la protection des données, la confidentialité, c’est un problème social, pas seulement un problème technique. Rendre ça accessible au plus de monde possible, avec des outils faciles à prendre en main, c’est une solution politique à un problème de société.
+
+ Chez les gens qui se préoccupent de confidentialité des communications, l’aspect collectif n’a pas toujours été mis au premier plan… 
+
+ C’est pensé collectivement dans la sécurité en entreprise : ce qui est en jeu, c’est la sécurité informatique de l’entité. Mais c’est vrai que dès qu’on sort de ce cadre, la façon de penser ces questions « par défaut » relève de la privacy , de l’individu, de sa liberté d’avoir des secrets, de protéger sa liberté d’expression… C’est très lié à la culture politique des États-Unis. Ça explique le fait que dans la scène qui parle de sécurité informatique ailleurs que dans l’entreprise ou dans les institutions, la façon de penser majoritaire s’attache en priorité à l’individu. Les hackers ont tendance à penser qu’ils vont se protéger en « bétonnant » leurs machines, alors que quand les communications sont en jeu, c’est souvent l’entourage qui finit par donner les informations. Le problème est aussi là.
+
+ Ça veut dire que Tails est pensé comme un écosystème ? 
+
+ Oui, mais on n’avait pas forcément cette analyse-là au début du projet. C’est venu en avançant, en voyant les différences avec d’autres outils, en ayant des retours sur notre travail… Développer un outil qui permette à plus de monde d’avoir accès à l’anonymat et à la confidentialité, c’était déjà partir du principe que ça ne doit pas être réservé à quelques « techniciens », mais qu’il faut que toutes les entités qui veulent communiquer puissent le faire. Ces dernières années, la perception de la menace a évolué : on n’en est plus à essayer de se protéger soi, on est dans une épidémie de surveillance généralisée. On se rend compte que ceux qui gagnent de l’argent ou du pouvoir en espionnant les populations le font aussi en étudiant les métadonnées : qui communique avec qui, à quel moment. Ça n’a pas de sens de protéger juste un point d’un réseau de relations. On essaie de proposer une solution à ça, en rendant l’outil accessible au plus de monde possible. La proposition s’est affinée.
+
+ Se retrouver  dans le viseur de la NSA , ça change quoi ? 
+
+ D’abord, ça veut dire que ça marche ! Ça valorise aussi ce qu’on fait, d’une certaine manière : merci pour la publicité… Et puis ça valide nos hypothèses de travail. Ça montre que les besoins auxquels Tails veut répondre, ce n’est pas un truc de parano. C’est ça, le principal changement : la vision que les autres ont de notre travail, plutôt que le travail lui-même, ses implications, le sens qu’on y met.
+
+ Améliorer la facilité d’usage, ça demande des compromis ? 
+
+ Il y a toujours une balance à faire entre la sécurité offerte par un outil, les obstacles éventuels pour l’utilisateur, et aussi notre capacité à maintenir l’outil sur le long terme. Il faut en permanence choisir où on place la barre. Il faut aussi évaluer à quel point ce qu’on propose est compréhensible par les utilisateurs. Si on propose trop d’options, c’est beaucoup plus difficile de faire le bon choix, même si, techniquement, ce serait plus affiné, plus précis. Cela dit, la plupart du temps, on ne ferait pas nous-mêmes des choix différents de ceux qui sont implémentés dans Tails. On essaie toujours d’aller au plus près de la sécurité et de la confidentialité.
+
+ C’est ça qui vous a poussé à travailler sur l’ergonomie, sur la documentation ? 
+
+ Ce travail-là était déjà lancé avant les fuites de Snowden, et avant qu’on sache que Tails était mentionné dedans. Ça a peut-être aidé à trouver des experts pour nous aider à avancer sur l’interface utilisateur, par exemple, mais ça n’a pas été un facteur déclencheur du fait qu’on s’en préoccupe.
+
+ Ça fait peut-être que plus de gens s’intéressent au projet, ont envie d’y contribuer ? 
+
+ C’est difficile à évaluer. Ça fait deux ans qu’une de nos priorités, c’est de faciliter les contributions au projet. Ça commence à payer, mais savoir si ça vient du travail qu’on a mis là-dedans ou de la popularité du projet, du point de vue des utilisateurs ou du point de vue des gens qui préféreraient qu’il n’existe pas, c’est difficile à dire. Il y a sans doute plusieurs éléments qui entrent en compte.
+
+ Vous savez combien Tails compte d’utilisateurs ? 
+
+ On sait combien d’utilisateurs démarrent Tails et se connectent au réseau. En ce moment, c’est autour de 11 000 par jour, un toutes les sept secondes. Ça double tous les neuf mois, depuis deux ou trois ans.
+
+ Il y a eu un « effet Snowden » ? 
+
+ Sur les téléchargements, oui. Il y surtout eu un effet de « buzz » au moment où les journalistes qui travaillent sur les documents de Snowden ont rendu public  le fait qu’ils utilisent Tails : à ce moment-là, on a eu un pic de téléchargements. Mais sur les démarrages, on ne l’a pas vu, la progression est restée constante. Elle est exponentielle, donc savoir à quel facteur l’attribuer exactement…
+
+ Et en interne, Tails, c’est combien de divisions ? 
+
+ Si on regarde la mailing-list de développement, il y a en moyenne, tous les mois, entre dix et vingt personnes qui proposent des changements. Les contributions sont de natures très différentes : ça peut être de la traduction, de la documentation, du code, des idées… En réalité, il y a très peu de travail de programmation. C’est de la « glu » entre des outils. Le travail de traduction, par exemple, est assez énorme.
+
+ Les pseudonymes, les interviews collectives, c’est une manière de vous protéger ? 
+
+ Jusqu’à présent, ça n’avait jamais été pensé comme une protection collective sur le projet, même si la question peut se poser maintenant. C’était plutôt une agrégation de choix individuels. C’est une pratique répandue dans la scène hacker. Et que ce soit pour les interviews ou pour le reste, on fonctionne collectivement.
+
+ Il y a déjà eu des tentatives de s’attaquer aux utilisateurs ? Via de fausses versions de Tails, par exemple ? 
+
+ On a vu passer sur les serveurs de clés publiques une clé au nom de Tails, qui n’était pas la nôtre ; de la même façon qu’il y a eu une fausse clé au nom de la personne qui signe les paquets du Tor Browser . À part ça, on n’a jamais eu encore de retours en ce sens. Ça ne veut pas dire que ça n’arrive pas : il est possible que ça existe, de façon ciblée. Si c’était une pratique très répandue, on s’en sans doute serait rendu compte : nous-mêmes, on télécharge Tails et on le vérifie. Mais de toute façon, ça fait partie du modèle de menace  : c’est pour ça que l’étape de vérification est affichée comme étant aussi importante que le téléchargement et l’installation. Effectivement, ce n’est pas l’étape la plus facile. On essaie d’améliorer ça, c’est une préoccupation qu’on a depuis le départ.
+
+ Le développement de Tails est public. C’était logique ? 
+
+ Notre background technique, c’est la culture du logiciel libre. C’est un présupposé de travailler ouvertement, de mettre le code à disposition, d’avoir des processus de décision transparents, publics, des listes de discussion ouvertes. On sait que le projet ne pourrait pas tenir s’il ne se basait que sur une petite équipe technique de codeurs.
+
+ Vous avez des retours ? Vous savez si Tails est audité ? 
+
+ Pas suffisamment. Ce serait d’ailleurs intéressant d’identifier les parties de Tails qui mériteraient spécifiquement d’être auditées. La difficulté, c’est qu’on écrit peu de code, on fait surtout de l’intégration. Là où les problèmes de sécurité peuvent se placer, c’est dans les articulations. Auditer ce genre de chose demande de savoir dézoomer, pour voir comment le système fonctionne dans son ensemble. Par exemple, si on inclut dans Tails une application de messagerie instantanée, on va la faire passer par le réseau Tor . Savoir comment elle va se comporter implique de bien connaître Tor, de bien connaître l’application, et de savoir comment les deux vont interagir. C’est plus difficile de trouver des experts pour ça que pour auditer un programme. Mais il faudra le faire.
+
+ Il y a des échanges avec d’autres communautés de développeurs ? 
+
+ On travaille d’assez près avec les gens de Debian, et on essaie de faire le plus de choses possibles directement dans Debian, pour que notre travail puisse profiter à quiconque utilise cette distribution ou une de ses dérivées, par exemple Ubuntu . C’est plutôt payant. L’ancien leader du projet Debian disait récemment qu’on était exemplaires de ce point de vue, dans notre manière d’interagir avec eux.
+
+ La manière dont ils vous perçoivent a évolué ? 
+
+ Elle a évolué par notre implication de plus en plus intensive, le fait qu’ils voient quel travail on fait. Elle a aussi évolué après les révélations sur la NSA d’un utilisateur célèbre de Tails… Une partie non négligeable de la communauté qui travaille sur Debian est devenue beaucoup plus sensible aux questions de confidentialité et d’anonymat. De manière générale, ces aspects-là sont pris de plus en plus au sérieux dans le monde du logiciel libre, au-delà des projets spécifiquement dédiés à la privacy , et de mieux en mieux compris.
+
+ Et au-delà de Debian ? 
+
+ Ça commence, même si ce n’est pas simple. Il y a des liens avec les gens qui travaillent sur Off-The-Record , un peu avec les gens de Gnome … On en est à se rencontrer, à échanger, à voir comment on peut les aider et réciproquement. Par rapport à il y a trois ans, on a beaucoup avancé. C’est aussi parce que le projet dure depuis longtemps. Des systèmes d’exploitation live de ce type-là, il y en a beaucoup qui ont duré deux ans avant de mourir. Que le projet tienne, c’est ce qui le rend plus crédible vis-à-vis de la communauté.
+
+ Le hackfest de juillet, à Paris, c’était votre première apparition publique. C’est devenu nécessaire dans le contexte actuel ? 
+
+ C’est compliqué de faire venir des gens juste par une mailing-list . Les rencontres physiques, c’est très porteur. Le lien qu’on crée à ce moment-là, c’est aussi ce qui permet aux gens de s’impliquer plus facilement dans le projet. Ils savent avec qui ils communiquent. C’est difficile de s’en passer.
+
+ Et quel bilan vous en faites ? 
+
+ Concrètement, ça ressemblait plus à une conférence qu’à un hackfest avec les mains dans le cambouis. C’était un premier contact avec des gens qui pouvaient avoir envie de contribuer, mais qui n’avaient pas encore identifié comment le faire. C’était moins concret que ce qu’on aurait pu imaginer et espérer, mais c’était sans doute plus adapté au public qui s’est présenté. On évaluera plus clairement les retombées au fur et à mesure, en voyant avec qui on continue à travailler. C’est une étape dans un processus, qui peut prendre du temps. Même s’ils ne contribuent pas, ceux qui sont venus en parleront à d’autres. Faire savoir qu’on est là, qu’on travaille, qu’on a besoin d’aide, c’est important.
+
+ Il y a une nouvelle version de Tails toutes les six semaines. C’est rapide… 
+
+ Au début, on faisait des releases quand on en avait envie. Il y a deux ans, on a décidé d’avoir un processus plus régulier. On a choisi six semaines, parce que c’est le cycle de mise à jour de Firefox , donc du Tor Browser, et que la navigation est sans doute la fonction la plus utilisée, ou la plus sensible. Évidemment, en interne, c’est du boulot et ça va vite ; d’ailleurs, on travaille à automatiser le processus plus qu’il ne l’est à l’heure actuelle. Mais entre une version de Tails et la suivante, du point de vue de l’utilisateur, ce sont souvent de petits changements. L’intérêt d’avoir un cycle de publication prévisible, c’est que ça permet aux contributeurs et contributrices de mieux s’organiser dans leur travail.
+
+ C’est quoi, le modèle économique de Tails ? 
+
+ Il y a toujours eu un petit soutien du Tor Project . Il y a aussi un peu de dons – pour le moment on n’accepte que les bitcoins, donc le public est limité, mais on devrait bientôt accepter les monnaies plus traditionnelles. On n’a pas encore les chiffres définitifs des dons qui passent par la Freedom of the Press Foundation , mais ça commence à donner quelque chose. On a déjà eu à plusieurs reprises des subventions d’ONG, qui elles-mêmes reçoivent des subventions de sources, disons, moins non-gouvernementales. Cette année on a aussi gagné un prix, l’Access Prize For Innovation . Mais ça reste un budget microscopique par rapport à l’ampleur du projet, et le travail payé n’est qu’une toute petite partie du travail mis dans le projet. Ça reste essentiellement bénévole.
+
+ Vous ne voulez pas faire une campagne de crowdfunding  ? 
+
+ C’est à l’étude, mais on a peur que ce soit beaucoup de travail de mener une campagne à bien. On se garde ça sous le coude pour la lancer au moment opportun, soit parce qu’on en a besoin, soit parce qu’on a quelque chose de nouveau à proposer aux utilisateurs. Mais ce n’est pas un domaine dans lequel on a beaucoup de compétences. Trouver des sous, ce n’est pas quelque chose qu’on sait bien faire.
+
+ Vos objectifs, aujourd’hui ? 
+
+ Ça a été pas mal de travail de migrer Tails vers la nouvelle version de Debian. On va essayer de lever un peu le pied sur le développement du logiciel en soi pour se concentrer sur l’amélioration de l’infrastructure, avec entre autres l’allègement du travail de préparation des releases . Ça permettra de dégager du temps pour rendre le projet maintenable à long terme, et de pouvoir sortir une nouvelle version rapidement en cas de correction d’un bug de sécurité important. L’autre gros objectif, c’est ce qu’on appelle le sandboxing , l’isolation des différentes applications les unes par rapport aux autres. Concrètement, il s’agit de rendre plus difficiles les attaques ciblées qui permettraient de désanonymiser un utilisateur ou d’accéder à ses données. En parallèle, le travail sur l’ergonomie continue, il y aura quelques gros changements sur des aspects qui sont pour l’instant difficilement compréhensibles pour un nouvel utilisateur, comme l’écran d’accueil au démarrage, et la procédure de téléchargement et d’installation.
+
+ Qu’est-ce que vous pensez d’un projet comme iCloak  ? C’est la même promesse que Tails, en version start-up ? 
+
+ http://youtu.be/ZRii8tHWKu4 
+
+ On verra quand on aura vu le logiciel et son code source : pour l’instant, on n’a vu ni l’un ni l’autre. Il faut voir aussi combien de temps ils maintiendront leur projet. Le fait de commencer en cherchant de l’argent, ça peut laisser entendre que s’ils n’en ont pas assez, ils n’iront pas jusqu’au bout. L’autre gros doute qu’on a, c’est sur la sécurité. Pour nous, pouvoir vérifier l’authenticité de ton système d’exploitation, c’est crucial. À l’heure actuelle, si on te donne une clé USB avec Tails installé dessus, c’est très compliqué de vérifier que le système est authentique, qu’il n’est pas vérolé. La seule manière de faire, c’est de vérifier l’intégrité de ce que tu as téléchargé avant de l’installer. Le business model d’iCloak, c’est de dire : Tails, c’est compliqué à télécharger, à vérifier, à installer, alors on va vous l’envoyer et vous allez payer pour ça. Ça casse une des principales sécurités qu’on essaie de fournir avec Tails. Qu’ils fassent sauter cette possibilité, ce n’est pas un problème en soi, mais si l’utilisateur n’en est pas conscient, s’il ne s’adapte pas, alors ça devient dangereux. Dans la pratique, il y a de très grandes chances que l’utilisateur n’ait pas conscience de ces limites, qu’il ait une impression non justifiée de sécurité, surtout que le produit est très « marketé »… Nous, on n’a rien à vendre, on est réalistes sur ce qui est possible ou pas, on n’a jamais prétendu que Tails était parfait, ou 100 % sécurisé. C’est un outil qui, utilisé de la bonne façon, protège contre certaines menaces, pas contre d’autres.
+
+ SOURCE : TECHN0POLIS 
+
+ Avertissements relatifs à l’utilisation
+
+ Même si nous faisons tout notre possible pour vous offrir des outils protégeant votre vie privée lorsque vous utilisez un ordinateur, il n’y a pas de solution magique, ni parfaite d’ailleurs, à un problème aussi complexe . Comprendre les limites de ces outils est crucial, premièrement pour savoir si Tails est bien la boîte à outils adaptée à vos besoins, deuxièmement, pour vous permettre de bien vous en servir.
+
+ Les nœuds de sortie Tor peuvent jeter un œil à vos communications 
+
+ Tails ne cache absolument pas le fait que vous utilisez Tor et probablement Tails 
+
+ L’attaque de l’homme-du-milieu 
+
+ Attaque par confirmation 
+
+ Tails ne chiffre pas vos documents par défaut 
+
+ Tails ne supprime pas les méta-données de vos documents pour vous et ne chiffre pas le Sujet: ainsi que les autres en-têtes de vos mails chiffrés 
+
+ Tor ne vous protège pas face à un adversaire global 
+
+ Tails ne sépare pas de façon magique vos différentes identités contextuelles 
+
+ Tails ne renforce aucunement la faiblesse de vos mots de passe 
+
+ Tails est toujours en construction 
+
+ Les nœuds de sortie Tor peuvent jeter un œil à vos communications
+
+ Tor empêche de savoir où vous êtes, mais ne chiffre pas vos communications. 
+
+ Au lieu de prendre un chemin direct de l’expéditeur au destinataire, les communications qui passent par le réseau Tor prennent un chemin aléatoire à travers les divers relais Tor, ce qui brouille les pistes. Ainsi, aucune personne placée à un seul point du réseau n’est en mesure de dire d’où viennent les données et où elles vont.
+
+ Le dernier relais sur ce circuit, appelé nœud de sortie, est celui qui établit la connexion au serveur de la destination. Comme Tor ne chiffre pas, et ne peut pas le faire de toute façon, ce qui transite entre le nœud de sortie et le serveur de la destination, tout nœud de sortie a la possibilité de capturer le trafic qui passe par lui . Voir Tor FAQ: Can exit nodes eavesdrop on communications? .
+
+ Par exemple, en 2007, un chercheur en sécurité informatique a intercepté des milliers d’e-mails privés envoyés par des ambassades étrangères et des ONG à travers le monde en écoutant le trafic sortant du nœud de sortie qu’il faisait fonctionner. Voir Wired: Rogue Nodes Turn Tor Anonymizer Into Eavesdropper’s Paradise (en). .
+
+ Pour vous protéger de telles attaques, vous devez utiliser un chiffrement bout-à-bout, de A à Z 
+
+ Tails comprend de nombreux outils qui servent à utiliser un chiffrement robuste pendant la navigation internet, en envoyant des e-mails, en chattant, voir notre page à propos .
+
+ Tails ne cache absolument pas le fait que vous utilisez Tor et probablement Tails
+
+ Votre Fournisseur d’Accès à Internet (FAI) ou l’administrateur de votre réseau local peut voir que vous vous connectez à un relai Tor, et pas à un serveur web normal par exemple. Utilisez des bridges Tor dans certains cas peut vous aider à cacher le fait que vous utilisez Tails.
+
+ Le serveur de destination auquel vous vous connectez via Tor peut savoir si vos communications viennent d’un nœud de sortie Tor en consultant la liste publique disponible, des nœuds de sortie Tor qui peuvent le contacter. Par exemple en utilisant la Tor Bulk Exit List du projet Tor.
+
+ Du coup, utiliser Tails fait que vous ne ressemblez pas à un utilisateur lambda d’internet. L’anonymat fournie par Tor et Tails marche en essayant de mettre tous leurs utilisateurs dans le même panier, pour ne pas pouvoir en différencier l’un de l’autre.
+
+ Voir également Est-ce que je peux cacher que j’utilise Tails ? 
+
+ L’attaque de l’homme-du-milieu
+
+ Une attaque de l’homme-du-milieu (HdM) est une forme d’écoute active dans laquelle l’attaquant se connecte de manière indépendante avec les victimes et relaie le trafic entre elles, leur faisant ainsi croire qu’elles communiquent effectivement via une connexion privée, alors que tout passe, et peut être contrôlé, par l’attaquant.
+
+ En utilisant Tor, une attaque de l’homme-du-milieu peut toujours arriver entre le nœud de sortie et le serveur destinataire. Le nœud de sortie peut également agir comme un homme-du-milieu. Pour l’exemple d’une telle attaque voir (en anglais) MW-Blog: TOR exit-node doing MITM attacks.
+
+ Encore une fois, pour vous protéger de telles attaques, vous devez utiliser un chiffrement bout-à-bout, de A à Z et également vérifier avec soin l’authenticité des serveurs.
+
+ D’habitude, cette vérification de certificat SSL est automatiquement faite par votre navigateur en le comparant à une liste donnée d’autorités de certification reconnues. Si vous obtenez un message concernant une exception de sécurité comme celle-ci, vous pouvez être victime d’une attaque HdM et devriez faire machine arrière, sauf si vous connaissez un autre moyen sûr d’obtenir, des gens qui font tourner le service auquel vous voulez accéder, l’empreinte du certificat pour pouvoir la vérifier.
+
+ Mais en plus, le modèle d’autorité de certification sur internet est susceptible d’être compromis par des méthodes variées.
+
+ Par exemple, le 15 Mars 2011, Comodo, une entreprise de délivrance de certificat SSL parmi les plus importantes, annonça qu’un compte utilisateur permettant de fabriquer des certificats avaient été piraté. Il fût utilisé pour générer 9 certificats pour 7 noms de domaines : mail.google.com, login.live.com, www.google.com, login.yahoo.com (3 certificats), login.skype.com, addons.mozilla.org, et global trustee. Voir (en anglais) Comodo: The Recent RA Compromise .
+
+ Plus tard en 2011, DigiNotar, une entreprise allemande qui délivre des certificats SSL, à malencontreusement distribué des certificats à des gens mal intentionnés. On s’est ensuite aperçu qu’ils étaient apparement corrompus depuis mai 2009 (si ce n’est plus tôt). De faux certificats ont servis pour des domaines comme google.com, mozilla.org, torproject.org, login.yahoo.com et d’autres encore. Voir (en anglais) The Tor Project: The DigiNotar Debacle, and what you should do about it .
+
+ Ça n’empêche pas une attaque du type HdM quand bien même votre navigateur fait confiance à une connexion HTTPS. 
+
+ D’un côté, en procurant l’anonymat, Tor rend compliqué une attaque du type homme-du-milieu qui vise quelqu’un en particulier , grâce à un certificat SSL corrompu. Mais d’un autre côté, Tor rend plus facile pour des gens ou des organisations qui font tourner des nœuds de sortie d’effectuer des attaques de ce type à grande échelle, ou des attaques HdM qui ciblent un serveur spécifique, et par là les utilisateurs de Tor en particulier .
+
+ Sources Wikipedia: Attaque de l’homme du milieu , Wikipedia: Comodo Group#Iran SSL certificate controversy et Tor Project: Detecting Certificate Authority compromises and web browser collusion .
+
+ Attaque par confirmation
+
+ La conception de Tor ne permet pas de vous protéger contre un attaquant qui est capable de mesurer le trafic qui entre et qui sort du réseau Tor. Car si vous pouvez comparer les deux flux, des statistiques basiques vous permettent de faire une corrélation.
+
+ Ça peut aussi être le cas si votre fournisseur d’accès à internet (FAI), ou votre administrateur réseau, et le FAI du serveur destinataire (ou le destinataire lui-même) coopère pour vous pièger.
+
+ Tor essaye de protéger contre l’analyse de trafic, quand un attaquant essaye de déterminer qui il doit écouter, mais Tor ne protège pas contre les confirmations de trafic (connues sous le nom de corrélation bout-à-bout), lorsqu’un attaquant essaye de confirmer une hypothèse en surveillant aux bons endroits dans le réseau puis en faisant la corrélation.
+
+ Source (en anglais) Tor Project: “One cell is enough to break Tor’s anonymity” .
+
+ Tails ne chiffre pas vos documents par défaut
+
+ Les documents que vous pouvez sauvegarder sur des volumes de stockage, ne seront pas chiffrés par défaut, sauf si vous utilisez la partition persistante chiffrée . Mais Tails fournit des outils permettant le chiffrement de vos documents, comme GnuPG,ou bien des outils permettant le chiffrement de vos volumes de stockage, comme LUKS. Il est probable que les fichiers que vous créez ainsi gardent des traces indiquant qu’ils furent créés en utilisant Tails.
+
+ Si vous voulez avoir accès au disque dur de l’ordinateur que vous utilisez, soyez conscient que vous pouvez laisser des trace de votre passage sous Tails.
+
+ Tails ne supprime pas les méta-données de vos documents pour vous et ne chiffre pas le Sujet: ainsi que les autres en-têtes de vos mails chiffrés
+
+ De nombreux formats de fichiers contiennent des données cachées ou méta-données en leur sein. Des traitements de textes ou des PDF peuvent contenir le nom de l’auteur, la date et l’heure de la création du fichier, et même quelque fois une partie de l’historique de l’édition de ce fichier… Ces données cachées dépendent du format du fichier ainsi que du logiciel utilisé. Veuillez également noter que le Sujet: de même que le reste des en-têtes de vos mails chiffrés avec OpenPGP ne sont quant à eux pas chiffrés. Ce n’est pas un bug de Tails ou du protocole OpenPGP ; c’est une question de rétrocompatibilité avec le protocole SMTP. Malheureusement aucun standard RFC n’existe à l’heure actuelle pour le chiffrement des sujets.
+
+ Les formats d’images comme TIFF ou JPEG remporte sans doute la palme en la matière. Ces fichiers, créés par des appareils photos numériques ou des téléphones portables, contiennent des méta-données au format EXIF, qui peuvent contenir la date, l’heure, voir les données GPS de l’image, la marque, le numéro de série de l’appareil ainsi qu’une image en taille réduite de l’image originale. Des logiciels de traitement d’image tendent à conserver intactes ces données. Internet est plein de ces images floutées dont le fichier EXIF contient toujours l’image avant floutage.
+
+ Tails ne supprime pas les meta-données de documents pour vous . Mais c’est dans son intention de vous aider à le faire. Par exemple Tails inclus déjà le Metadata anonymisation toolkit , un outils de manipulation des méta-données pour les images.
+
+ Tor ne vous protège pas face à un adversaire global
+
+ Un adversaire global passif serait une personne ou une entité capable de regarder et donc de comparer le trafic entre tous les ordinateurs d’un réseau. En étudiant, par exemple, le timing et l’allure du volume d’informations des différentes communications à travers ce réseau, il serait statistiquement possible d’identifier un circuit Tor et du coup de relier l’utilisateur de Tor et son serveur destinataire.
+
+ Ça fait partie des compromis de Tor de ne pas répondre à une telle menace, pour permettre une navigation raisonnable en terme de délais d’attente pour le web, le chat, ou les connexions SSH.
+
+ Pour des infos plus approfondies voir (en anglais) Tor Project: The Second-Generation Onion Router , partie 3. Design goals and assumptions.
+
+ Tails ne sépare pas de façon magique vos différentes identités contextuelles
+
+ Il est généralement déconseillé d’utiliser la même session de Tails pour effectuer deux tâches, ou pour endosser deux identités contextuelles, que vous désirez conserver séparées l’une de l’autre. Par exemple ne pas être localisable pour consulter vos e-mails et publier anonymement un document sur le web.
+
+ Tout d’abord, parce que Tor tend à réutiliser le même circuit, pour une même session de navigation par exemple. Comme le nœud de sortie “connaît” à la fois le serveur destinataire (et probablement le contenu de la requête si elle n’est pas chiffrée) ainsi que l’adresse du relais précédent dont il a reçu la requête, ça simplifie la corrélation entre différents requêtes effectuées à travers un même circuit, et peut-être par un même utilisateur. Si vous êtes face à un adversaire global comme décris précédemment, il pourrait également être en mesure de faire cette corrélation.
+
+ Secondo, en cas de trou de sécurité, de mauvaise utilisation de Tails ou d’une de ses applications, des infos à propos de votre session peuvent fuiter. Ça pourrait permettre de confirmer qu’une seule et même personne était derrière les différentes actions faites durant une même session.
+
+ La solution contre ces deux menaces est d’éteindre et de redémarrer Tails à chaque fois que vous utilisez une nouvelle identité, que vous voulez réellement séparer des autres.
+
+ Le bouton “Utiliser une nouvelle identité” oblige Tor à utiliser un nouveau parcours mais uniquement pour les nouvelles connexions: les connexions déjà existantes peuvent rester ouvertes. De plus, en dehors des circuits Tor, d’autres types d’informations peuvent en dire long sur vos activités récentes sur le réseau. Par exemple, les cookies conservés par votre navigateur web. Cette fonctionnalité de Vidalia n’est pas une solution pour effectivement séparer différentes identités contextuelles. Il vaut mieux éteindre et redémarrer Tails.
+
+ Tails ne renforce aucunement la faiblesse de vos mots de passe
+
+ Tor vous permet d’utiliser internet de manière anonyme; Tails vous permet de ne laisser aucune trace sur l’ordinateur que vous utilisez. Mais encore une fois, aucun des deux n’est la solution magique au problème de la sécurité informatique .
+
+ Si vous utilisez des mots de passe faibles, ils peuvent être devinés par des attaques de type force-brute, que vous utilisiez Tails ou pas. Pour savoir si vos mots de passe sont faible et apprendre comment en créer de meilleurs, vous pouvez lire Wikipedia: Robustesse des mots de passe .
+
+ Tails est toujours en construction
+
+ Tails, de même que tous les logiciels qu’il contient, sont continuellement en développement et peuvent contenir des erreurs de programmation ou des trous de sécurité. Gardez un œil sur le développement de Tails.
+
+ SOURCE : Tails (Interne)
+
+ TAGS 
+ anonymat 
+ anonyme 
+ camouflage 
+ censure internet 
+ chiffrage 
+ clés publiques 
+ cryptage 
+ debian 
+ données 
+ Edward Snowden 
+ ghostcrypt 
+ gnome 
+ hackers 
+ hackfest 
+ icloak 
+ incognito 
+ internet 
+ liberté 
+ liberté linux 
+ linux 
+ mempo 
+ méta-données 
+ NSA 
+ off the record 
+ open pgp 
+ open source 
+ privatix 
+ protection 
+ secure drop 
+ securite 
+ snowden 
+ surveillance 
+ tails 
+ tor 
+ tor browser 
+ truecrypt 
+ unbuntu 
+ whonix 
+ wildleaks 
+
+ Facebook
+
+ X
+
+ Telegram
+
+ WhatsApp
+
+ Article précédent Cannabis : la légalisation de l’usage débattue au Sénat ! >I 
+
+ Article suivant Questions de lecteur 
+
+ FR33M4N R0CKW00D 
+ Être ou paraître, 
+Avoir le respect encré en nous. 
+Être, parce que bien plus important qu'il n'y parait, le paraître fait naitre en nous l'essence même du mal-être. 
+Cette naissance prend alors aisance en nous, jusqu'au point de n'être, qu'une simple projection de nous. 
+Tant dans une farouche volonté de paraître, que dans un fond d'égoïsme exacerbé, n'avons-nous pas oublié qu'avant tout mieux vaut être, car on naît être au fond de nous et que nous ne sommes pas seuls à l'être...
+
+ ARTICLES CONNEXES PLUS DE L'AUTEUR 
+
+ Derniers articles postés 
+
+ Comme Thierry Messan, Georgia Pouliquen a définitivement besoin de notre aide financière. Et voici certainement pourquoi. 
+
+ Derniers articles postés 
+
+ Thierry Messan demande notre aide financière après des manipulations bancaires douteuses 
+
+ Derniers articles postés 
+
+ Facebook communiquera à la justice française les adresses IP des auteurs de propos haineux 
+
+ S’abonner 
+
+ Connexion 
+
+ Notification pour 
+
+ nouveaux commentaires de suivi 
+ nouvelles réponses à mes commentaires 
+
+ Label 
+
+ {} 
+ [+] 
+
+ Nom* 
+
+ E-mail* 
+
+ Site Web 
+
+ Δ 
+
+ Label 
+
+ {} 
+ [+] 
+
+ Nom* 
+
+ E-mail* 
+
+ Site Web 
+
+ Δ 
+
+ 4 Commentaires 
+
+ dd
+
+ Fév 9, 2015 3:31 pm
+
+ faites attention quand vous installez le système sur une clé usb, vous risquez la modification de votre système à votre plein gré, le mieux c’est de l’installer sur un CD/DVD, vous pouvez toujours l’installer sur clé usb à condition de la protéger contre l’écriture !
+
+ 0
+
+ 0
+
+ Répondre 
+
+ bidule-land
+
+ Fév 8, 2015 6:56 pm
+
+ En fait, quand en 1995, j’ai découvert l’Internet à mon boulot, je ne pensais pas que l’on arriverait un jour à être obligé de cacher ce que l’on va regarder sur l’Internet, j’avais trouvé cela magique et super important pour la liberté d’expression de pouvoir visiter des pages html avec …  Lire la suite » 
+
+ 0
+
+ 0
+
+ Répondre 
+
+ bidule-land
+
+ Fév 8, 2015 4:29 pm
+
+ bel article, bien détaillé
+
+ Merci pour votre article
+
+ 0
+
+ 0
+
+ Répondre 
+
+ Auteur 
+
+ FR33M4N R0CKW00D
+
+ Fév 8, 2015 6:10 pm
+
+ Répondre à 
+
+ bidule-land
+
+ Merci quand à toi pour le compliment 😉
+
+ Bien à toi
+
+ 0
+
+ 0
+
+ Répondre 
+
+ wpDiscuz 
+
+ Recevoir la news letter 
+Merci de renseigner votre email : 
+
+ Lumière sur Gaïa 
+ By continuing, you accept the privacy policy 
+
+ Soutenir ce site ! 
+ www.paypal.com/paypalme/ichoosepeace 
+
+ Archives : 
+ Archives : 
+
+ Sélectionner un mois 
+ octobre 2026  (16) 
+ septembre 2026  (21) 
+ août 2026  (39) 
+ juillet 2026  (12) 
+ juin 2026  (15) 
+ mai 2026  (31) 
+ avril 2026  (19) 
+ mars 2026  (7) 
+ février 2026  (5) 
+ janvier 2026  (3) 
+ décembre 2025  (4) 
+ novembre 2025  (8) 
+ octobre 2025  (5) 
+ septembre 2025  (8) 
+ août 2025  (6) 
+ juillet 2025  (7) 
+ juin 2025  (8) 
+ mai 2025  (2) 
+ avril 2025  (5) 
+ mars 2025  (3) 
+ février 2025  (3) 
+ janvier 2025  (4) 
+ décembre 2024  (4) 
+ novembre 2024  (6) 
+ octobre 2024  (1) 
+ septembre 2024  (4) 
+ août 2024  (1) 
+ juillet 2024  (6) 
+ juin 2024  (4) 
+ mai 2024  (5) 
+ avril 2024  (4) 
+ mars 2024  (10) 
+ février 2024  (12) 
+ janvier 2024  (14) 
+ décembre 2023  (8) 
+ novembre 2023  (12) 
+ octobre 2023  (10) 
+ septembre 2023  (14) 
+ août 2023  (6) 
+ juillet 2023  (9) 
+ juin 2023  (12) 
+ mai 2023  (13) 
+ avril 2023  (13) 
+ mars 2023  (20) 
+ février 2023  (16) 
+ janvier 2023  (24) 
+ décembre 2022  (16) 
+ novembre 2022  (23) 
+ octobre 2022  (24) 
+ septembre 2022  (53) 
+ août 2022  (15) 
+ juillet 2022  (38) 
+ juin 2022  (34) 
+ mai 2022  (26) 
+ avril 2022  (30) 
+ mars 2022  (26) 
+ février 2022  (25) 
+ janvier 2022  (28) 
+ décembre 2021  (31) 
+ novembre 2021  (35) 
+ octobre 2021  (36) 
+ septembre 2021  (35) 
+ août 2021  (20) 
+ juillet 2021  (54) 
+ juin 2021  (51) 
+ mai 2021  (81) 
+ avril 2021  (93) 
+ mars 2021  (59) 
+ février 2021  (105) 
+ janvier 2021  (86) 
+ décembre 2020  (115) 
+ novembre 2020  (104) 
+ octobre 2020  (112) 
+ septembre 2020  (93) 
+ août 2020  (110) 
+ juillet 2020  (88) 
+ juin 2020  (99) 
+ mai 2020  (120) 
+ avril 2020  (99) 
+ mars 2020  (143) 
+ février 2020  (80) 
+ janvier 2020  (114) 
+ décembre 2019  (83) 
+ novembre 2019  (102) 
+ octobre 2019  (107) 
+ septembre 2019  (104) 
+ août 2019  (110) 
+ juillet 2019  (151) 
+ juin 2019  (100) 
+ mai 2019  (148) 
+ avril 2019  (145) 
+ mars 2019  (136) 
+ février 2019  (114) 
+ janvier 2019  (164) 
+ décembre 2018  (46) 
+ novembre 2018  (56) 
+ octobre 2018  (90) 
+ septembre 2018  (92) 
+ août 2018  (65) 
+ juillet 2018  (87) 
+ juin 2018  (69) 
+ mai 2018  (85) 
+ avril 2018  (115) 
+ mars 2018  (106) 
+ février 2018  (86) 
+ janvier 2018  (110) 
+ décembre 2017  (78) 
+ novembre 2017  (135) 
+ octobre 2017  (87) 
+ septembre 2017  (87) 
+ août 2017  (120) 
+ juillet 2017  (135) 
+ juin 2017  (135) 
+ mai 2017  (165) 
+ avril 2017  (218) 
+ mars 2017  (174) 
+ février 2017  (183) 
+ janvier 2017  (270) 
+ décembre 2016  (209) 
+ novembre 2016  (211) 
+ octobre 2016  (224) 
+ septembre 2016  (159) 
+ août 2016  (186) 
+ juillet 2016  (162) 
+ juin 2016  (154) 
+ mai 2016  (106) 
+ avril 2016  (152) 
+ mars 2016  (198) 
+ février 2016  (122) 
+ janvier 2016  (152) 
+ décembre 2015  (125) 
+ novembre 2015  (232) 
+ octobre 2015  (209) 
+ septembre 2015  (195) 
+ août 2015  (159) 
+ juillet 2015  (137) 
+ juin 2015  (146) 
+ mai 2015  (175) 
+ avril 2015  (135) 
+ mars 2015  (198) 
+ février 2015  (114) 
+ janvier 2015  (146) 
+ décembre 2014  (117) 
+ novembre 2014  (179) 
+ octobre 2014  (184) 
+ septembre 2014  (115) 
+ août 2014  (82) 
+ juillet 2014  (48) 
+ juin 2014  (14) 
+ mai 2014  (9) 
+ avril 2014  (7) 
+ mars 2014  (19) 
+ février 2014  (27) 
+ janvier 2014  (19) 
+ décembre 2013  (22) 
+ novembre 2013  (19) 
+ octobre 2013  (23) 
+ septembre 2013  (11) 
+ août 2013  (7) 
+ juillet 2013  (8) 
+ juin 2013  (4) 
+ mai 2013  (7) 
+ avril 2013  (7) 
+ mars 2013  (1) 
+ février 2013  (4) 
+ janvier 2013  (3) 
+ décembre 2012  (1) 
+ octobre 2012  (4) 
+ septembre 2012  (23) 
+ novembre 1900  (1) 
+
+ Liens pratiques 
+ Résonance de Schumann en LIVE 
+
+ Activité solaire et géomagnétique 
+
+ Rayons X et éruptions solaires 
+
+ wpDiscuz 
+ 4 0 
+ Nous aimerions avoir votre avis, veuillez laisser un commentaire. x 
+
+ ( ) 
+ x 
+ | Répondre 
+
+ Insert 
+
+ Go to mobile version
