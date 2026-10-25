@@ -2932,9 +2932,11 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" La7 OR Piazzapulita OR \"Le Iene\" OR \"Striscia\"",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane); 2026-10-25 20:33: robot check di Google su questa query → retry"
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane); 2026-10-25 20:33: robot check di Google su questa query → retry; 2026-10-26 00:32: fatta, 8 risultati",
+      "found": 8,
+      "date": "2026-10-26"
     },
     {
       "query": "\"Fabio Pietrosanti\" TEDx OR keynote OR \"tavola rotonda\" 2016 OR 2017 OR 2018",
@@ -2978,39 +2980,87 @@
     },
     {
       "query": "\"Pietrosanti\" Clearview OR PimEyes OR \"Reclaim Your Face\" 2021",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22; 2026-10-26 00:32: fatta, 9 risultati",
+      "found": 9,
+      "date": "2026-10-26"
     },
     {
       "query": "\"Fabio Pietrosanti\" Hermes Center \"facial recognition\" OR \"reconnaissance faciale\" OR \"reconocimiento facial\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22; 2026-10-26 00:32: fatta, 10 risultati",
+      "found": 10,
+      "date": "2026-10-26"
     },
     {
       "query": "\"Fabio Pietrosanti\" EDRi OR noyb OR \"Privacy International\" OR \"Access Now\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22; 2026-10-26 00:32: fatta, 10 risultati",
+      "found": 10,
+      "date": "2026-10-26"
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Le Monde\" OR Libération OR \"El País\" OR \"The Guardian\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22; 2026-10-26 00:32: fatta, 9 risultati",
+      "found": 9,
+      "date": "2026-10-26"
     },
     {
       "query": "\"Pietrosanti\" Hermes trojan OR \"captatore informatico\" 2017 OR 2018 OR 2019",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22; 2026-10-26 00:32: fatta, 10 risultati",
+      "found": 10,
+      "date": "2026-10-26"
     },
     {
       "query": "\"Fabio Pietrosanti\" datenschutz OR Überwachung OR Whistleblower",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22; 2026-10-26 00:32: fatta, 9 risultati",
+      "found": 9,
+      "date": "2026-10-26"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Hacker Journal\" OR \"Linux&C\" OR \"Login\" 2003 OR 2004 OR 2005 OR 2006",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+      "note": "aggiunta 2026-10-26 00:32: coda esaurita; anni deboli 2003-08 (riviste/convegni) e 2023-25 (whistleblowing in PA/sanità, agenzie)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" ISACA OR AIEA OR \"Information Security\" convegno 2005 OR 2006 OR 2007 OR 2008",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 00:32: coda esaurita; anni deboli 2003-08 (riviste/convegni) e 2023-25 (whistleblowing in PA/sanità, agenzie)"
+    },
+    {
+      "query": "\"Pietrosanti\" ANSA whistleblowing OR GlobaLeaks OR Hermes",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 00:32: coda esaurita; anni deboli 2003-08 (riviste/convegni) e 2023-25 (whistleblowing in PA/sanità, agenzie)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" whistleblowing università OR \"Corte dei conti\" OR ospedale OR ASL 2023 OR 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 00:32: coda esaurita; anni deboli 2003-08 (riviste/convegni) e 2023-25 (whistleblowing in PA/sanità, agenzie)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Network World\" OR \"Computerworld Italia\" OR \"ZeroUno\" 2005 OR 2006 OR 2007 OR 2008",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 00:32: coda esaurita; anni deboli 2003-08 (riviste/convegni) e 2023-25 (whistleblowing in PA/sanità, agenzie)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" GlobaLeaks \"Transparency International\" OR \"Riparte il futuro\" 2023 OR 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 00:32: coda esaurita; anni deboli 2003-08 (riviste/convegni) e 2023-25 (whistleblowing in PA/sanità, agenzie)"
     }
   ],
   "history": [
@@ -3866,6 +3916,14 @@
       "captcha": true,
       "confirmed_new": 1,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite 7 delle 8 query pending (eventi internazionali RightsCon/MozFest, stampa tedesca, relatore 2016-18, quotidiani 2016-19, Tor onion 2011-14, tesi GlobaLeaks, Wikileaks 2010-12); la query TV (La7/Piazzapulita/Iene/Striscia) ha fatto scattare il robot check di Google (/sorry) al secondo tentativo: fermato subito, nessun aggiramento, query in 'retry'. 67 risultati; scartati senza verifica: mailing list (lists.inventati, lists.linux.it, tor-dev/tor-talk pipermail, seclists, hyperkitty nexa), social (LinkedIn, Instagram), sito proprio (infosecurity.ch), indici (radioradicale soggetti, poul topic, dicorinto tipologia, pr-foundation /content/, hermescenter category, dalchecco tag), zh.wikipedia, aggregatore rssing, repubblica protagonisti. 43 candidati verificati: 36 respinti (nome assente; dokumen.pub FAIL). 7 OK dallo script: 3 già in archivio (tesi Fifield bamsoftware, TWN 17/09/2014, it.wikipedia = mirror della voce en), 3 nuove esclusioni in decisions.json (CINI 1349 ennesima variante di percorso, LWN 656435 = copia TWN 30/08/2015, pagina relatore Di Salvo IJF = alias sessione IJF15). 1 nuova voce: dr-datenschutz.de 2021 «Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss» (cita Fabio come presidente dell'Hermes Center). Nel file grezzo tenuta solo la voce nuova (le note reinserite alteravano media.json). 1 nuova copia offline (wayback). Aggiunte 6 query (stampa europea diritti digitali, riconoscimento facciale, Hermes trojan 2017-19)."
+    },
+    {
+      "date": "2026-10-26 00:32",
+      "engine": "google-chrome",
+      "searched": 7,
+      "captcha": false,
+      "confirmed_new": 3,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 7 query in coda (6 pending + la query TV in retry, messa per ultima per non bruciare le altre in caso di robot check) senza robot check: 63 risultati, 52 URL distinti (query string tolte; YouTube ricostruito dal parametro v). Scartati senza verifica: LinkedIn/Facebook (social), lists.autistici/lists.inventati (mailing list), pr-foundation /content/, dicorinto page/2, homodigitalis pagina autore (indici). 40 candidati verificati: 30 respinti o già in archivio (radioradicale 764774 e programma DIG2022 senza nome, pugliaconvegni guscio JS, researchgate FAIL). 10 OK dallo script: 3 già esclusi (irpa.eu = archivio.irpa.eu, scheda DIG /it/, globaleaks /it/about/people), 4 nuove esclusioni in decisions.json (noyb fr/es = versioni linguistiche del comunicato Clearview, CILD 30/05/2017 italiano = versione della pagina /en/ già in archivio, InfoconDB = aggregatore di relatori). 3 nuove voci, tutte sulla campagna Clearview AI del 27/05/2021 con citazione di Fabio come presidente dell'Hermes Center: Computer Weekly, CyberNews, PONT Data&Privacy (privacy-web.nl). 3 nuove copie offline (2 wayback, 1 live). Coda esaurita: aggiunte 6 query (riviste e convegni 2003-08, ANSA, whistleblowing in università/sanità 2023-25, TI Italia)."
     }
   ]
 }

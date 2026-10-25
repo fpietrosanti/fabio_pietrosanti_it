@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-25 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-26 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **1208**; già processate: **1385**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1021** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1146**
+- Voci in `data/media.json`: **1211**; già processate: **1388**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1024** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1149**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **3**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -46,7 +46,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 89 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 172 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 2021 | 83 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 57 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -1342,6 +1342,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · Ethan Lou, Once a Bitcoin Miner: Scandal — [Once a Bitcoin Miner](https://archive.org/details/oncebitcoinminer0000loue) · copia: `2021/69694a319f01` (live) · licenza: terzi
 - **2021** · TIB AV-Portal — [The first AGPL compliance case settled in an Italian Court: a tale of compliance, license ](https://av.tib.eu/media/13945) · copia: `2021/9b7f16610b2b` (Web Archive 20210729) · licenza: terzi
 - **2021** · IGI Global (Information Resources Manage — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ) · copia: `2021/4df843c579a9` (live) · licenza: terzi
+- **2021** · CyberNews — [Clearview AI hit with massive legal complaint by privacy watchdogs | CyberNews](https://cybernews.com/news/clearview-ai-hit-with-massive-legal-complaint-by-privacy-watchdogs/) · copia: `2021/9d61fb8fcda4` (Web Archive 20210527) · licenza: terzi
 - **2021** · FSFE — [FSFE at FOSDEM 2021](https://fsfe.org/news/2021/news-20210311-01.en.html) · copia: `2021/cc58f8f2d867` (Web Archive 20210311) · licenza: terzi
 - **2021** · GitHub — [Locandine_TelecomItalia](https://github.com/fpietrosanti/Locandine_TelecomItalia) · copia: `2021/f865cc63f1d8` (Web Archive 20210101) · licenza: propria
 - **2021** · GitHub — [projects-and-ideas](https://github.com/fpietrosanti/projects-and-ideas) · copia: `2021/1ba4fd005d30` (live) · licenza: propria
@@ -1353,6 +1354,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · noyb - European Center for Digital Right — [Digital Rights alliance file legal complaints against facial recognition company Clearview](https://noyb.eu/en/digital-rights-alliance-file-legal-complaints-against-facial-recognition-company-clearview-ai) · copia: `2021/74ecbec33ce2` (Web Archive 20210527) · licenza: terzi
 - **2021** · Italia Open Gov (Dipartimento della Funz — [Il Dipartimento alla Milano Digital week](https://open.gov.it/notizie/dipartimento-milano-digital-week) · copia: `2021/9752c3274f07` (Web Archive 20220804) · licenza: terzi
 - **2021** · The Crypto Conversation (Brave New Coin) — [Scandal and Turmoil - The Cryptocurrency Wild West](https://podcasts.apple.com/us/podcast/scandal-and-turmoil-the-cryptocurrency-wild-west/id1471243424?i=1000538523963) · copia: `2021/739590054d09` (live · video locale `media.mp3` (54 MB, da caricare su Drive)) · licenza: terzi
+- **2021** · PONT | Data&Privacy (privacy-web.nl) — [Coalitie van privacyorganisaties dient juridische klachten in tegen gezichtsherkenningsbed](https://privacy-web.nl/en/nieuws/coalitie-van-privacyorganisaties-dient-juridische-klachten-in-tegen-gezichtsherkenningsbedrijf-clearview-ai/) · copia: `2021/c848a526009a` (live) · licenza: terzi
 - **2021** · Privacy International (press release) — [Privacy International and others file legal complaints across Europe against controversial](https://privacyinternational.org/press-release/4520/privacy-international-and-others-file-legal-complaints-across-europe-against) · copia: `2021/417da9cdce59` (Web Archive 20210527) · licenza: terzi
 - **2021** · Twitter — [@RositaRijtano: l'Associazione Rousseau deve consegnare i dati degli iscritti al M5S (cc @](https://twitter.com/RositaRijtano/status/1399675243367632899) · copia: `2021/143c61d56204` (Web Archive 20210601) · licenza: terzi
 - **2021** · Twitter @AlessLongo (Alessandro Longo, A — [Chiediamo chiarezza. Tema del voto online è grave e necessità dibattito pubblico](https://twitter.com/alesslongo/status/1371423726294728709) · copia: `2021/ab35a38019c6` (Web Archive 20210315) · licenza: terzi
@@ -1418,6 +1420,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2021** · LESS Impresa Sociale (less.green) — [WHO WE ARE - Less: Fabio Pietrosanti CEO](https://web.archive.org/web/20221203113453/https://less.green/chi-siamo-less-impresa-sociale/who-we-are/) · copia: `2021/cb130cde4103` (Web Archive 20220125) · licenza: propria
 - **2021** · Agenda Digitale — [Voto dei cittadini all'estero, meglio farlo tramite seggi: lo studio](https://www.agendadigitale.eu/cittadinanza-digitale/voto-dei-cittadini-allestero-meglio-farlo-tramite-seggi-lo-studio/) · copia: `2021/3ba18fe905bc` (Web Archive 20210315) · licenza: terzi
 - **2021** · Agenda Digitale — [Voto su blockchain, un comitato governativo fantasma e un decreto in arrivo](https://www.agendadigitale.eu/cittadinanza-digitale/voto-su-blockchain-un-comitato-governativo-fantasma-e-un-decreto-in-arrivo/) · copia: `2021/0ae98f2b4349` (Web Archive 20210315) · licenza: propria
+- **2021** · Computer Weekly — [NGOs file complaints against Clearview AI in five countries](https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries) · copia: `2021/6a63a08c5ffb` (Web Archive 20210527) · licenza: terzi
 - **2021** · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/) · copia: `2021/ab2f25f1ea41` (Web Archive 20210527) · licenza: terzi
 - **2021** · heise.de — [Gesichtserkennung: Europäische Bürgerrechtler gehen gegen Clearview vor](https://www.heise.de/news/Gesichtserkennung-Europaeische-Buergerrechtler-gehen-gegen-Clearview-vor-6055056.html) · copia: `2021/1f91fd52f7ee` (Web Archive 20210527) · licenza: terzi
 - **2021** · lespresso.it — [La Francia sperimenta il voto elettronico. E in Italia?](https://www.lespresso.it/c/politica/2021/5/30/la-francia-sperimenta-il-voto-elettronico-e-in-italia/38027) · copia: `2021/957809dfc841` (live) · licenza: terzi

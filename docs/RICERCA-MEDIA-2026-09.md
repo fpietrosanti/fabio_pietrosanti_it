@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1656**; dopo deduplica: **1208**
+- Risultati grezzi dalle ricerche: **1659**; dopo deduplica: **1211**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1153**
-- Verificati aprendo la pagina: **1141**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1156**
+- Verificati aprendo la pagina: **1144**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 249, tweet 132, Talk 94, Video 80, Post sul blog infosecurity.ch 72, Citato 69, article 46, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 249, tweet 132, Talk 94, Video 80, Citato 72, Post sul blog infosecurity.ch 72, article 46, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -39,7 +39,7 @@ Per tipo (nuovi): Menzionato 249, tweet 132, Talk 94, Video 80, Post sul blog in
 | 2018 | 0 | 89 | 89 |
 | 2019 | 0 | 72 | 72 |
 | 2020 | 0 | 180 | 180 |
-| 2021 | 0 | 91 | 91 |
+| 2021 | 0 | 94 | 94 |
 | 2022 | 0 | 71 | 71 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
@@ -385,7 +385,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Menzionato · cybersecitalia.it — [Caso Kaspersky. Copasir pronto a indicare soluzioni al Parlamento](https://www.cybersecitalia.it/caso-kaspersky-copasir-pronto-ad-indicare-al-parlamento-la-diversificazione-delle-soluzioni-di-cybersecurity/17151/)  
   verified via wayback; context: …Kaspersky è un ex KGB — Stefano Quintarelli (@quinta) February 26, 2022 Il software della società russa da più esperti del settore, come Stefano Quintarelli e Fabio Pietrosanti , viene considerato un cavallo di Troia nei… | CyberSec Italia, caso Kaspersky/Copasir (fine febbraio-marzo 2022): citato con Quintarelli tra gli esperti che considerano il software russo un rischio
 
-## 2021 — 91 voci, 91 nuove
+## 2021 — 94 voci, 94 nuove
 
 - 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Anthology (probably reprints the Mann chapter). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing. Retrieved 17 March 2019, https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html'.
@@ -459,6 +459,12 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …edrohen unser Online- und Offline-Leben. Indem sie heimlich unsere biometrischen Daten sammeln, ermöglichen diese Technologien eine ständige Überwachung“, sagt Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 - 🆕 **2021-05-27** · Menzionato · heise.de — [Gesichtserkennung: Europäische Bürgerrechtler gehen gegen Clearview vor](https://www.heise.de/news/Gesichtserkennung-Europaeische-Buergerrechtler-gehen-gegen-Clearview-vor-6055056.html)  
   verified via wayback; context: …zeit. Sie müsse nun einen Schritt weitergehen und jegliche auf die Identifizierung von Personen aus der Ferne ausgerichtete Geschäftsmodelle verbieten, betonte Fabio Pietrosanti vom Hermes Center: "Diese Technologien füh…
+- 🆕 **2021-05-27** · Citato · Computer Weekly — [NGOs file complaints against Clearview AI in five countries](https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries)  
+  Campagna Clearview AI (reclami di Privacy International, noyb, Hermes Center, Homo Digitalis, 27/05/2021); citazione di Fabio Pietrosanti come presidente dell'Hermes Center. verified via wayback; context: …a protection authorities [DPAs] need to take action and stop Clearview and similar organisations from hoovering up the personal data of EU residents,” he said. Fabio Pietrosanti, president of Italian civil rights organis…
+- 🆕 **2021-05-27** · Citato · PONT | Data&Privacy (privacy-web.nl) — [Coalitie van privacyorganisaties dient juridische klachten in tegen gezichtsherkenningsbedrijf Clearview AI - PONT / Data&amp;Privacy](https://privacy-web.nl/en/nieuws/coalitie-van-privacyorganisaties-dient-juridische-klachten-in-tegen-gezichtsherkenningsbedrijf-clearview-ai/)  
+  Campagna Clearview AI (reclami di Privacy International, noyb, Hermes Center, Homo Digitalis, 27/05/2021); citazione di Fabio Pietrosanti come presidente dell'Hermes Center. verified via live; context: …threaten our online and offline lives. By surreptitiously collecting our biometric data, these technologies introduce a constant surveillance of our bodies. ”- Fabio Pietrosanti, President of the Hermes Center. Facial re…
+- 🆕 **2021-05-27** · Citato · CyberNews — [Clearview AI hit with massive legal complaint by privacy watchdogs / CyberNews](https://cybernews.com/news/clearview-ai-hit-with-massive-legal-complaint-by-privacy-watchdogs/)  
+  Campagna Clearview AI (reclami di Privacy International, noyb, Hermes Center, Homo Digitalis, 27/05/2021); citazione di Fabio Pietrosanti come presidente dell'Hermes Center. verified via wayback; context: …otection authority blocked police forces from using real time facial recognition. “Facial recognition technologies threaten our online and offline lives,” said Fabio Pietrosanti, President of the Hermes Center, one of th…
 - 🆕 **2021-05-27** · Citato · Privacy International (press release) — [Privacy International and others file legal complaints across Europe against controversial facial recognition company Clearview AI](https://privacyinternational.org/press-release/4520/privacy-international-and-others-file-legal-complaints-across-europe-against)  
   Page text: 'Facial recognition technologies threaten our online and offline lives,' said Fabio Pietrosanti, President of the Hermes Center. Same campaign already known via noyb.eu; this PI URL was not in the known list.
 - 🆕 **2021-05-26** · Citato · noyb - European Center for Digital Rights — [Digital Rights alliance file legal complaints against facial recognition company Clearview AI](https://noyb.eu/en/digital-rights-alliance-file-legal-complaints-against-facial-recognition-company-clearview-ai)  

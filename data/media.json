@@ -18251,6 +18251,57 @@
   "date": "2021-05-27",
   "year": 2021,
   "type": "quoted",
+  "outlet": "Computer Weekly",
+  "title": "NGOs file complaints against Clearview AI in five countries",
+  "url": "https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries",
+  "language": "en",
+  "role": "quoted as President of the Hermes Center",
+  "note": "Campagna Clearview AI (reclami di Privacy International, noyb, Hermes Center, Homo Digitalis, 27/05/2021); citazione di Fabio Pietrosanti come presidente dell'Hermes Center. verified via wayback; context: …a protection authorities [DPAs] need to take action and stop Clearview and similar organisations from hoovering up the personal data of EU residents,” he said. Fabio Pietrosanti, president of Italian civil rights organis…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-26-0032"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-05-27",
+  "year": 2021,
+  "type": "quoted",
+  "outlet": "PONT | Data&Privacy (privacy-web.nl)",
+  "title": "Coalitie van privacyorganisaties dient juridische klachten in tegen gezichtsherkenningsbedrijf Clearview AI - PONT | Data&amp;Privacy",
+  "url": "https://privacy-web.nl/en/nieuws/coalitie-van-privacyorganisaties-dient-juridische-klachten-in-tegen-gezichtsherkenningsbedrijf-clearview-ai/",
+  "language": "en",
+  "role": "quoted as President of the Hermes Center",
+  "note": "Campagna Clearview AI (reclami di Privacy International, noyb, Hermes Center, Homo Digitalis, 27/05/2021); citazione di Fabio Pietrosanti come presidente dell'Hermes Center. verified via live; context: …threaten our online and offline lives. By surreptitiously collecting our biometric data, these technologies introduce a constant surveillance of our bodies. ”- Fabio Pietrosanti, President of the Hermes Center. Facial re…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-26-0032"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-05-27",
+  "year": 2021,
+  "type": "quoted",
+  "outlet": "CyberNews",
+  "title": "Clearview AI hit with massive legal complaint by privacy watchdogs | CyberNews",
+  "url": "https://cybernews.com/news/clearview-ai-hit-with-massive-legal-complaint-by-privacy-watchdogs/",
+  "language": "en",
+  "role": "quoted as President of the Hermes Center",
+  "note": "Campagna Clearview AI (reclami di Privacy International, noyb, Hermes Center, Homo Digitalis, 27/05/2021); citazione di Fabio Pietrosanti come presidente dell'Hermes Center. verified via wayback; context: …otection authority blocked police forces from using real time facial recognition. “Facial recognition technologies threaten our online and offline lives,” said Fabio Pietrosanti, President of the Hermes Center, one of th…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-26-0032"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2021-05-27",
+  "year": 2021,
+  "type": "quoted",
   "outlet": "Privacy International (press release)",
   "title": "Privacy International and others file legal complaints across Europe against controversial facial recognition company Clearview AI",
   "url": "https://privacyinternational.org/press-release/4520/privacy-international-and-others-file-legal-complaints-across-europe-against",
