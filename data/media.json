@@ -18832,6 +18832,23 @@
   "on_old_site": false
  },
  {
+  "date": null,
+  "year": 2022,
+  "type": "mentioned",
+  "outlet": "cybersecitalia.it",
+  "title": "Caso Kaspersky. Copasir pronto a indicare soluzioni al Parlamento",
+  "url": "https://www.cybersecitalia.it/caso-kaspersky-copasir-pronto-ad-indicare-al-parlamento-la-diversificazione-delle-soluzioni-di-cybersecurity/17151/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …Kaspersky è un ex KGB — Stefano Quintarelli (@quinta) February 26, 2022 Il software della società russa da più esperti del settore, come Stefano Quintarelli e Fabio Pietrosanti , viene considerato un cavallo di Troia nei… | CyberSec Italia, caso Kaspersky/Copasir (fine febbraio-marzo 2022): citato con Quintarelli tra gli esperti che considerano il software russo un rischio",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-25-0833"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2022",
   "year": 2022,
   "type": "book",

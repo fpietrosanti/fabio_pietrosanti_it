@@ -1,0 +1,116 @@
+[
+ {
+  "url": "https://www.juniper.net/us/en/threatlabs/ips-signatures/detail.SMB:EXPLOIT:SMBDIE.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.exploit-db.com/exploits/21747",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.exploit-db.com/exploits/21746",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.giac.org/paper/gcia/269/giac-gcia-assignment-pass/100717",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://www.variotdbs.pl/vuln/VAR-200012-0088/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://romhack.io/romhack-schedule/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=Bm8obfo1_gQ",
+  "reason": "JavaScript shell or paywall (almost no text)",
+  "method": "live"
+ },
+ {
+  "url": "https://hackingbiology.com/about/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.apogeonline.com/articoli/un-raggio-di-luce-su-smau-raoul-chiesa/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "http://www.pr-foundation.org/hack-the-institutions-stefano-quintarelli-al-foglio-tech-festival/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "http://www.pr-foundation.org/la-ministra-pisano-al-cenacolo-degli-innovatori/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://clusit.it/wp-content/uploads/docs/bbwPJRC2012fsh40gh.pdf",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "http://www.pr-foundation.org/367-2/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://nexa.polito.it/wp-content/uploads/2024/05/Nexa-Center-annual_report-2015.pdf",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://nexa.polito.it/lettera-aperta-app-covid19/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://anorc.eu/attivita/immuni-anorc-a-pisano-dichiarazioni-non-allineate-faccia-chiarezza/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.startmag.it/innovazione/come-non-fare-unapp-anti-covid-19-lappello-di-esperti-e-prof/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.key4biz.it/in-italia-esiste-davvero-il-comitato-quantistico-sul-voto-elettronico/332220/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.theinnovationgroup.it/events/digital-italy-summit-2019/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://www.radioradicale.it/scheda/558921/xxiv-edizione-di-e-privacy-gdpr-vs-tecnologie-emergenti-prima-giornata",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://formiche.net/2022/03/ferrari-viminale-software-kaspersky/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.agendadigitale.eu/sicurezza/privacy/il-foia-di-monitorapa-la-risposta-dellavvocatura-al-ministero-dellistruzione/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.eunews.it/eventi_eunews/how-can-we-govern-europe-3rd-edition/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XXX-relatori.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.coindesk.com/it/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says",
+  "reason": "already in media.json"
+ }
+]

@@ -942,6 +942,22 @@
   {
    "url": "https://www.festivaldelgiornalismo.com/speaker/giovanni-pellerano",
    "reason": "2026-10-25: pagina speaker di Giovanni Pellerano; la sessione IJF18 'Privacy nightmare Italia' è già in archivio"
+  },
+  {
+   "url": "https://www.amazon.it/HODEX-Codice-Rosso-Fabio-Pietrosanti-ebook/dp/B087933YSD",
+   "reason": "2026-10-25: edizione Kindle amazon.it del romanzo 'Hodex: Codice Rosso' (omonimo autore di narrativa, già escluso nella versione amazon.com B089J5HXHD) → non è Fabio"
+  },
+  {
+   "url": "https://centroriformastato.it/iniziativa/che-cosa-ce-dentro-lapp-per-il-contact-tracing-video-2/",
+   "reason": "2026-10-25: pagina video della stessa iniziativa CRS già in archivio come centroriformastato.it/che-cosa-ce-dentro-lapp-per-il-contact-tracing/ (alias)"
+  },
+  {
+   "url": "https://consorzio-cini.it/index.php/it/home/60-italiano/laboratori/lab-cyber-security/notizie-in-evidenza/1349-cerimonia-di-premiazione-dei-vincitori-di-cyberchallenge-it",
+   "reason": "2026-10-25: stessa notizia Cyberchallenge.IT 2018 già in archivio come consorzio-cini.it .../labcs-news/1348-... (alias)"
+  },
+  {
+   "url": "https://www.juniper.net/us/en/threatlabs/ips-signatures/detail.SMB:EXPLOIT:LANMAN-NUKE.html",
+   "reason": "2026-10-25: firma IPS Juniper gemella di SMB:EXPLOIT:SMBDIE (già in archivio), stesso testo e stessa vulnerabilità NetBIOS/SMB del 2002 → duplicato"
   }
  ],
  "override": [

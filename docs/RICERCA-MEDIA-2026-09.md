@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1654**; dopo deduplica: **1206**
+- Risultati grezzi dalle ricerche: **1655**; dopo deduplica: **1207**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1151**
-- Verificati aprendo la pagina: **1139**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1152**
+- Verificati aprendo la pagina: **1140**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 248, tweet 132, Talk 94, Video 80, Post sul blog infosecurity.ch 72, Citato 69, article 45, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 249, tweet 132, Talk 94, Video 80, Post sul blog infosecurity.ch 72, Citato 69, article 45, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -40,7 +40,7 @@ Per tipo (nuovi): Menzionato 248, tweet 132, Talk 94, Video 80, Post sul blog in
 | 2019 | 0 | 72 | 72 |
 | 2020 | 0 | 180 | 180 |
 | 2021 | 0 | 90 | 90 |
-| 2022 | 0 | 70 | 70 |
+| 2022 | 0 | 71 | 71 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 14 | 14 |
@@ -240,7 +240,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
   «Dott. Fabio Pietrosanti» nel Comitato Tecnico degli Esperti (art. 52 c. 11) dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino. Confermato da Fabio il 2026-10-07. Prima comparsa sulla pagina ufficiale fra il 2023-02-04 (assente) e il 2023-12-03 (presente), da copie Web Archive.
 
-## 2022 — 70 voci, 70 nuove
+## 2022 — 71 voci, 71 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -382,6 +382,8 @@ Anni senza nessun risultato: nessuno
   Investigative journalism festival speaker page
 - 🆕 **2022** · Menzionato · raiplaysound.it — [Eta Beta / Puntate 2022 / Rai Radio 1 / RaiPlay Sound](https://www.raiplaysound.it/programmi/etabeta/puntate/puntate-2022)  
   verified via wayback; context: …aumentino di intensità e soprattutto che arrivino ovunque nel mondo. Italia compresa. Ospiti: Arturo Di Corinto, giornalista esperto di sicurezza informatica; Fabio Pietrosanti, presidente Centro Hermes per i diritti uma…
+- 🆕 **2022** · Menzionato · cybersecitalia.it — [Caso Kaspersky. Copasir pronto a indicare soluzioni al Parlamento](https://www.cybersecitalia.it/caso-kaspersky-copasir-pronto-ad-indicare-al-parlamento-la-diversificazione-delle-soluzioni-di-cybersecurity/17151/)  
+  verified via wayback; context: …Kaspersky è un ex KGB — Stefano Quintarelli (@quinta) February 26, 2022 Il software della società russa da più esperti del settore, come Stefano Quintarelli e Fabio Pietrosanti , viene considerato un cavallo di Troia nei… | CyberSec Italia, caso Kaspersky/Copasir (fine febbraio-marzo 2022): citato con Quintarelli tra gli esperti che considerano il software russo un rischio
 
 ## 2021 — 90 voci, 90 nuove
 

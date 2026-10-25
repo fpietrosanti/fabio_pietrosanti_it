@@ -2723,51 +2723,115 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Cisco PIX\" OR NetBIOS OR SMB advisory OR vulnerability 2000 OR 2001 OR 2002",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Pietrosanti (naif)\" CVE OR vulnerability OR credits",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22",
+      "date": "2026-10-25",
+      "found": 9
     },
     {
       "query": "\"Pietrosanti\" \"I.NET\" sicurezza OR hacker 1999 OR 2000 OR 2001 OR 2002",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" Immuni OR \"contact tracing\" OR \"app di tracciamento\" 2020",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Il Foglio\" OR Formiche OR Key4biz 2020 OR 2021",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" Tor2web 2008 OR 2009 OR 2010 intervista OR articolo",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" ITASEC OR \"Cybersec\" OR \"Cyber Security Forum\" 2021 OR 2022",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22",
+      "date": "2026-10-25",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" webinar OR \"diretta\" 2021 OR 2022 privacy OR whistleblowing OR \"software libero\"",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22",
+      "date": "2026-10-25",
+      "found": 11
+    },
+    {
+      "query": "\"naif\" \"Pietrosanti\" 1998 OR 1999 IRC OR Azzurra OR hacker",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" OR \"naif\" Hackit OR hackmeeting 1999 OR 2000 OR 2001 OR 2002 OR 2003",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Metro Olografix\" OR Openlabs OR \"Linux Club\" 2002 OR 2003",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" whistleblowing comuni OR \"pubblica amministrazione\" OR ANAC 2023 OR 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"intelligenza artificiale\" OR \"AI Act\" 2023 OR 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" biohacking OR longevità OR \"Fund Longevity\" 2025 OR 2026",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+    },
+    {
+      "query": "\"Pietrosanti\" \"Whistleblowing Solutions\" intervista OR CEO OR fondatore",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"voto elettronico\" OR \"voto online\" 2023 OR 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
     }
   ],
   "history": [
@@ -3591,6 +3655,14 @@
       "captcha": false,
       "confirmed_new": 4,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (riviste Linux 2001-04, hacker 1999-2001, naif/advisory 2000-02, Business Online/Computerworld/ZeroUno 2005-07, Khamsa 2008, relatore 2023 e 2024-25, GlobaLeaks sui quotidiani non ancora provati) senza robot check, estraendo gli URL subito dopo ogni ricerca (query string tolte: un URL vulmon non recuperabile): 74 risultati, 65 distinti. Scartati senza verifica: LinkedIn ×5 (social), seclists ×2, hyperkitty nexa, lists.python.it (mailing list), forum.italia.it (forum), infosecurity.ch ×3 (sito proprio), indici dicorinto/poul/ilsole24ore tag. 48 candidati verificati: 34 respinti o già in archivio (nome assente, PDF senza il nome; dokumen.pub FAIL). 14 OK dallo script: 5 già esclusi in decisions.json (scribd 777154998, slideshare tesi X509, pr-foundation /content/, sushi.apogeonline alias, moca2016 /it/employees); 4 nuove esclusioni (commento Schneier Cryptocat 2012, it.wikipedia GlobaLeaks = versione linguistica, file AUTHORS GitHub, pagina speaker IJF Pellerano = alias); monitor-radiotv monitor287.pdf tolto come non verificato (match solo su flusso binario compresso, PDF 59 MB non scaricato) — da ricontrollare a mano se serve. 4 nuove voci: exploit-db 20369 (Cisco PIX PASV, CVE-2000-1027, autore), VARIoT VAR-200012-0088 (credits 'Fabio Pietrosanti (naif)'), firma IPS Juniper SMB:EXPLOIT:SMBDIE (cita il suo workaround), P&R Foundation 'Gli Anticorpi del Futuro' (convegno online del Foglio, 09/05/2020, relatore come Founder Hermes Center). 4 nuove copie offline (3 wayback, 1 live). Coda esaurita: aggiunte 8 query (CVE/vuln DB 2000-02, I.NET 1999-2002, Immuni 2020, Foglio/Formiche/Key4biz 2020-21, Tor2web 2008-10, ITASEC/Cybersec 2021-22, webinar 2021-22)."
+    },
+    {
+      "date": "2026-10-25 08:33",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 1,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (CVE/vuln DB 2000-02, '(naif)' credits, I.NET 1999-2002, Immuni 2020, Foglio/Formiche/Key4biz 2020-21, Tor2web 2008-10, ITASEC/Cybersec 2021-22, webinar 2021-22) senza robot check, estraendo gli URL subito dopo ogni ricerca: 79 risultati, ~9-11 per query. Scartati senza verifica: LinkedIn, twitter/x (social), seclists/hyperkitty nexa/tor-talk/ietf (mailing list), forum.italia.it, infosecurity.ch (sito proprio), indici (dicorinto tag/tipologia, radioradicale soggetti, raiplaysound puntate, home pr-foundation/monitora-pa), zh.wikipedia/wikiwand (versioni linguistiche), visura e bilancio Whistleblowing Solutions (atti societari). 33 candidati verificati: 27 respinti o già in archivio. 6 OK dallo script, 5 tolti: opennet.ru già escluso (mirror Bugtraq); 4 nuove esclusioni in decisions.json (amazon.it Hodex = romanzo dell'omonimo; CRS contact tracing video-2 e consorzio-cini 1349 = alias di voci note; Juniper LANMAN-NUKE = firma gemella di SMBDIE). 1 nuova voce: CyberSec Italia 2022 'Caso Kaspersky, Copasir pronto a indicare soluzioni' (citato con Quintarelli). 1 nuova copia offline (wayback). Rendimento basso: i filoni 2000-02 e 2020-22 sono ormai saturi. Coda esaurita: aggiunte 8 query (1998-99 IRC/Hackit, 2002-03 Olografix/Openlabs, 2023-25 PA/ANAC, AI, longevità, Whistleblowing Solutions, voto elettronico)."
     }
   ]
 }

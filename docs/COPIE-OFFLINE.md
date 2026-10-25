@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1206**; già processate: **1383**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1019** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1144**
+- Voci in `data/media.json`: **1207**; già processate: **1384**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1020** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1145**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **3**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -47,7 +47,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2019 | 89 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 172 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 56 | 17 | 0 | 0 | 0 | 0 | 2 |
+| 2022 | 57 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 8 | 6 | 0 | 0 | 0 | 0 | 0 |
@@ -1460,6 +1460,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/) · copia: `2022/39ed595e0702` (Web Archive 20221027) · licenza: terzi
 - **2022** · civile.it (Valentino Spataro) — [Voto elettronico online per le politiche - 5 esperti spiegano perche' e' una disgrazia](https://www.civile.it/internet/visual.php?num=95819) · copia: `2022/feda165c8059` (live) · licenza: terzi
 - **2022** · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://www.confartigianatoimperia.it/notizie/24-03-2022/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack) · copia: `2022/f52acde20d5c` (live) · licenza: terzi
+- **2022** · cybersecitalia.it — [Caso Kaspersky. Copasir pronto a indicare soluzioni al Parlamento](https://www.cybersecitalia.it/caso-kaspersky-copasir-pronto-ad-indicare-al-parlamento-la-diversificazione-delle-soluzioni-di-cybersecurity/17151/) · copia: `2022/5ce5546971d4` (Web Archive 20220313) · licenza: terzi
 - **2022** · Cyber Security 360 — [Italia in pericolo con Kaspersky? Il parere degli esperti e le domande da porsi](https://www.cybersecurity360.it/cybersecurity-nazionale/italia-in-pericolo-con-kaspersky-il-parere-degli-esperti-e-le-domande-da-porsi/) · copia: `2022/ceddd683ee93` (Web Archive 20220314) · licenza: terzi
 - **2022** · Easyteam.org (blog di un fornitore di so — [MonitoraPA - Nuova segnalazione e nuovi controlli sui siti istituzionali](https://www.easyteam.org/easynews/monitorapa-nuova-segnalazione-e-nuovi-controlli-sui-siti-istituzionali/) · copia: `2022/9cd758b7033f` (Web Archive 20251119) · licenza: terzi
 - **2022** · British GQ (Peter Guest) — [The Pyongyang crypto caper: North Korea, crypto heists and the new front line of cybercrim](https://www.gq-magazine.co.uk/politics/article/north-korea-crypto-bitcoin-cybercrime) · copia: `2022/6173d5796396` (Web Archive 20221124) · licenza: terzi
