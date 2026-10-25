@@ -7835,6 +7835,23 @@
   "on_old_site": false
  },
  {
+  "date": "2014-06-22",
+  "year": 2014,
+  "type": "article",
+  "outlet": "h24notizie.com",
+  "title": "Latina, Cinque Stelle apre il dibattito sulla conversione del Comani",
+  "url": "https://www.h24notizie.com/2014/06/22/latina-cinque-stelle-apre-il-dibattito-sulla-conversione-del-comani/",
+  "language": "it",
+  "role": "speaker",
+  "note": "FUORI FINESTRA 2023-25 ma assente dall'archivio; filone Aeroporto di Latina. Annuncio dell'incontro M5S del 23/06/2014 (sede Daphorà, strada Fogliano) sulla riconversione dell'aeroporto militare Comani: «Fabio Pietrosanti, che presenterà una proposta pro riconversione portata avanti come progetto di condivisione cittadina». Nome presente ma nessun altro elemento identificativo: identità da confermare con Fabio (plausibile vista la campagna aeroporto).",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023r_biolatina_2026-10-25"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2014-07",
   "year": 2014,
   "type": "mentioned",
@@ -19836,6 +19853,40 @@
   "on_old_site": false
  },
  {
+  "date": "2022-10-22",
+  "year": 2022,
+  "type": "video",
+  "outlet": "Linux Day Bari 2022 (PeerTube video.linux.it, canale Linux Day Bari)",
+  "title": "Linux Day Bari 2022 - Privacy e sicurezza del dato: l'approccio hacker - panel",
+  "url": "https://video.linux.it/videos/watch/1c6fb883-c754-4a49-94e9-f4772acd9026",
+  "language": "it",
+  "role": "speaker",
+  "note": "Verificato via API PeerTube: descrizione \"Privacy e sicurezza del dato: l'approccio hacker con Ugo Lopez, Fabio Pietrosanti, Giacomo Tesio, Walter Vannini, Christian Bernieri e Roberto Resoli\" (6043 s, pubblicato 29/10/2022, evento 22/10/2022). Mirror LinuxTrent: http://video.linuxtrent.it/w/4vEvR2XFzgukyzF7suvSXy. Linkato da monitora-pa.it, che descrive il panel come dibattito moderato da Ugo Lopez 'fra i fondatori di Monitora PA, Fabio Pietrosanti e Giacomo Tesio' e due DPO critici. Fuori finestra 2023-2025 ma assente dall'archivio. La pagina di sessione linuxdaybari.it ora e' 'Domain For Sale' (Wayback offline al momento del controllo).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023r_talks_2026-10-25"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-10-22",
+  "year": 2022,
+  "type": "video",
+  "outlet": "Linux Day Bari 2022 (PeerTube video.linux.it, canale Linux Day Bari)",
+  "title": "Linux Day Bari 2022 - Tavola rotonda",
+  "url": "https://video.linux.it/videos/watch/173e7926-4c13-424c-b3a0-77f801ef9a38",
+  "language": "it",
+  "role": "speaker",
+  "note": "Verificato via API PeerTube: descrizione \"Tavola rontonda conclusiva della giornata con Ugo Lopez, Fabio Pietrosanti, Giacomo Tesio, Walter Vannini, Christian Bernieri, Ferdinando Traversa e Roberto Resoli di LinuxTrent\" (4939 s, pubblicato 29/10/2022). Mirror LinuxTrent: http://video.linuxtrent.it/w/3StADd9bQkyaLcWwpbba4W. Fuori finestra 2023-2025 ma assente dall'archivio.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023r_talks_2026-10-25"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2022-10-26",
   "year": 2022,
   "type": "mentioned",
@@ -20192,6 +20243,23 @@
   "known": false,
   "_slices": [
    "pass4_lacuna2023_latina_2026-10-07"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2023-04-19",
+  "year": 2023,
+  "type": "article",
+  "outlet": "Mondoreale (mondoreale.it)",
+  "title": "ELEZIONI LATINA, Matilde Celentano in visita alla sede pontina di Gls",
+  "url": "https://www.mondoreale.it/2023/04/latina-celentano-uneccellenza-che-investe-sul-territorio-con-attenzione-allambiente-e-impegno-sociale-con-noi-un-comune-amico-delle-aziende/",
+  "language": "it",
+  "role": "mentioned",
+  "note": "Quarta ripresa dello stesso comunicato della campagna Celentano (già noti Latina Oggi 210705, Latina TU, Latina News). Pagina aperta (published_time 2023-04-19): «La candidata sindaco di centrodestra, accompagnata da Fabio Pietrosanti, figlio della signora Dolores, scomparsa lo scorso anno, ha potuto visitare i diversi reparti»; cita anche l'acquisizione dei capannoni ex Pacifico.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2023r_biolatina_2026-10-25"
   ],
   "on_old_site": false
  },

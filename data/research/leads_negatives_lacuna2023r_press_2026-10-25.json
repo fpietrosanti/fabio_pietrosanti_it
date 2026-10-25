@@ -1,0 +1,85 @@
+{
+  "about": "Negatives/checked leads, pass4 lacuna 2023-2025 rerun: press + tech/policy (2026-10-25)",
+  "negatives": [
+    {
+      "source": "WebSearch (~45 query, mode standard): Paragon/Graphite, Equalize/dossieraggio, whistleblowing D.lgs 24/2023, GlobaLeaks 2023-2025, MonitoraPA 2023, Tor/Tor2web, voto elettronico/firme online, AI Act, Garante, Piracy Shield, Chat Control, trojan/riforma Nordio, Hacking Team 10 anni, Rai Report/Presadiretta, Euronews/Reuters/AFP, varianti multilingue della citazione The Record",
+      "outcome": "nessun risultato nuovo: solo The Record 2024-11-12 e ripresi gia' noti (Punto Informatico, Think.it, Fudzilla, TNW, IRPA, SoylentNews, CTO@NCSC) o pagine biografiche note (FOSDEM, PDF, hermescenter)"
+    },
+    {
+      "source": "WordPress REST API ?search=Pietrosanti: valigiablu, startmag, punto-informatico, cybersecurity360, agendadigitale, key4biz, formiche, infodata.ilsole24ore, netzpolitik, accessnow, corrierecomunicazioni, insideover, difesaonline, diritto.it, techcrunch, theintercept, globalvoices, codastory, edri, lindipendente, guerredirete.it, redhotcyber, ictsecuritymagazine, insicurezzadigitale",
+      "outcome": "solo voci gia' note (tutte <=2022 o 2024 Punto Informatico noto) o omonimi (Punto Informatico 2003-2008 = Paolo/altri); nessuna voce 2023-2025 nuova. Non raggiungibili via API: ilpost, open.online, irpimedia, editorialedomani, wired.it, today, money, euractiv, restofworld, citizenlab, ilfattoquotidiano, agi (403/401/404/500)"
+    },
+    {
+      "source": "https://irpimedia.irpi.eu/?s=Pietrosanti",
+      "outcome": "'nessun articolo trovato'"
+    },
+    {
+      "source": "https://www.editorialedomani.it/search?q=Pietrosanti",
+      "outcome": "2 risultati: Open Rousseau (gia' noto) + articolo cultura non pertinente"
+    },
+    {
+      "source": "https://www.wired.it/search/?q=Pietrosanti",
+      "outcome": "12 risultati 2014-2021 (noti); unico 2024 = superbonus assunzioni, 'Serena Pietrosanti' (Hogan Lovells): omonima"
+    },
+    {
+      "source": "https://www.valigiablu.it/?s=Pietrosanti / https://www.redhotcyber.com/?s=Pietrosanti / https://www.ilpost.it/?s=Pietrosanti",
+      "outcome": "solo voci note o nessun risultato"
+    },
+    {
+      "source": "https://www.ansa.it/ricerca/ansait/search.shtml?any=Fabio+Pietrosanti",
+      "outcome": "solo omonimi (Fabiano Pietrosanti regista, ecc.)"
+    },
+    {
+      "source": "https://hermescenter.substack.com (newsletter </Monitor, 14 numeri 2024-09 -> 2025-11, corpo completo via API)",
+      "outcome": "nessuna occorrenza di Pietrosanti/naif/GlobaLeaks; firme 'Hermes Center'"
+    },
+    {
+      "source": "Substack search API (substack.com/api/v1/post/search q=Pietrosanti) + archivi guerredirete/ctoatncsc/ninasec/bragg",
+      "outcome": "Guerre di Rete: nessun post col nome; CTO@NCSC 2024-11-16 gia' noto; resto omonimi/irrilevante"
+    },
+    {
+      "source": "Paragon/Graphite 2025-2026: ilpost.it/2024/12/03/freedomleaks..., techcrunch 2025-06-06 e 2025-11-06, therecord paragon-spyware-maker-cuts-ties (2025-06-09), euronews 2025-02-13, unipd-centrodirittiumani 2025-02-16, andreazurini.substack 2025-02-07, lindipendente 2025-06-10, avvenire caso Paragon, guerredirete 'perche il caso Paragon', blueprintforfreespeech 2026-03-19",
+      "outcome": "aperti: nessuna menzione di Pietrosanti/naif"
+    },
+    {
+      "source": "tech.slashdot.org/story/24/11/13/1335242 ; scworld.com/brief/regulatory-reforms-slow-to-hinder-italys-spyware-boom (2024-11-13) ; pandasecurity 2024-12-30",
+      "outcome": "riprese di The Record: aperte, il nome non compare nel testo"
+    },
+    {
+      "source": "events.ccc.de/congress/2025/hub ... unveiling-spyware-0-days-linked-to-italy (39C3)",
+      "outcome": "sessione assembly; nessun nome"
+    },
+    {
+      "source": "eff.org/event/made-italy-digital-surveillance-and-spyware",
+      "outcome": "evento EFF 2026-09; nessun nome"
+    },
+    {
+      "source": "MonitoraPA scuole 2023: orizzontescuola pec-inviata (2022-10-04), obiettivoscuola Dirigentiscuola (2023-05-11), agendadigitale big-tech-a-scuola (2023-04-11), orizzontescuola privacy-e-rischi (2023-04-13), tecnicadellascuola dati-internet-alunni (2023-04-13)",
+      "outcome": "aperti: parlano di MonitoraPA ma senza il nome di Fabio -> non contano; agendadigitale ?p=160730 col nome = articolo 2022-10-26 gia' noto"
+    },
+    {
+      "source": "fuss.bz.it/material/incontro-friuli/2023-07-17_Friuli_Comeinclasse.pdf (e 2023-06-26 Lazio)",
+      "outcome": "NON controllato: 9,8 MB oltre il limite di download; riferirebbe della campagna FOIA MonitoraPA (ComeInClasse), presenza del nome ignota"
+    },
+    {
+      "source": "thesis.unipd.it 20.500.12608/73342 e /59543",
+      "outcome": "pagine scheda senza nome (PDF tesi non aperti; eventuali citazioni accademiche -> pass accademico)"
+    },
+    {
+      "source": "GDELT doc API (Fabio Pietrosanti / Pietrosanti, 2023-2025)",
+      "outcome": "bloccato: 'Please limit requests' a ogni tentativo (anche dopo attesa); non usato"
+    },
+    {
+      "source": "Bing RSS / DuckDuckGo html / Mojeek",
+      "outcome": "DDG e Mojeek: bot-check/403 -> abbandonati (nessun aggiramento); Bing RSS ignora le virgolette, risultati inutili"
+    },
+    {
+      "source": "Internet Archive FTS: 'Pietrosanti spyware', 'Pietrosanti GlobaLeaks', 'Pietrosanti MonitoraPA'",
+      "outcome": "solo Hacker Journal (Paolo Pietrosanti) e e-privacy 2012 noto; MonitoraPA 0 hit"
+    },
+    {
+      "source": "startmag.it ?p=324574/310739/324385 (Paragon)",
+      "outcome": "403 al curl; la ricerca WP di startmag non restituisce nulla 2023+ col nome"
+    }
+  ]
+}

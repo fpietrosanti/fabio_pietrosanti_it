@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1646**; dopo deduplica: **1198**
+- Risultati grezzi dalle ricerche: **1650**; dopo deduplica: **1202**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1143**
-- Verificati aprendo la pagina: **1132**; solo da risultato di ricerca: **66**
+- **Nuovi rispetto al vecchio sito: 1147**
+- Verificati aprendo la pagina: **1135**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 245, tweet 132, Talk 93, Video 78, Post sul blog infosecurity.ch 72, Citato 69, article 43, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 245, tweet 132, Talk 93, Video 80, Post sul blog infosecurity.ch 72, Citato 69, article 45, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -32,7 +32,7 @@ Per tipo (nuovi): Menzionato 245, tweet 132, Talk 93, Video 78, Post sul blog in
 | 2011 | 4 | 30 | 27 |
 | 2012 | 0 | 37 | 37 |
 | 2013 | 0 | 33 | 33 |
-| 2014 | 0 | 29 | 29 |
+| 2014 | 0 | 30 | 30 |
 | 2015 | 0 | 47 | 47 |
 | 2016 | 0 | 30 | 30 |
 | 2017 | 0 | 86 | 86 |
@@ -40,8 +40,8 @@ Per tipo (nuovi): Menzionato 245, tweet 132, Talk 93, Video 78, Post sul blog in
 | 2019 | 0 | 72 | 72 |
 | 2020 | 0 | 179 | 179 |
 | 2021 | 0 | 90 | 90 |
-| 2022 | 0 | 68 | 68 |
-| 2023 | 0 | 19 | 19 |
+| 2022 | 0 | 70 | 70 |
+| 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 14 | 14 |
 | 2026 | 0 | 44 | 44 |
@@ -197,7 +197,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2024** · Report · Ufficio Scolastico Regionale per il Lazio (MIM) - monitoraggio trasparenza e anticorruzione 2023, copia pubblicata da I.I.S. di Ceccano — [Monitoraggio dati e informazioni su misure di trasparenza e anticorruzione - 2023 (istituzioni scolastiche del Lazio)](https://www.iis-ceccano.edu.it/sites/default/files/trasparenza/2024/usrl-monitoraggio-2023-ist-scolast-rilevaz-dati-e-info-su-misure-di-trasparenza-anticorruzione_0.pdf)  
   Rilevazione ufficiale dell'USR Lazio sulle misure di trasparenza nelle scuole. A riga 1315 del testo estratto compare la voce 'MONITORA PA DEL DOTT. FABIO PIETROSANTI - OTTOBRE 2022 - TRASPARENZA', registrata come causa di istanze di accesso civico ricevute dagli istituti.
 
-## 2023 — 19 voci, 19 nuove
+## 2023 — 20 voci, 20 nuove
 
 - 🆕 **2023-07-09** · website · Hacking Biology (hackingbiology.com) – sito proprio / Hacking Biology Foundation — [Hacking Biology – The non-profit foundation stewarding biohack.it (blog di ricerca dal luglio 2023, pagine News e About)](https://hackingbiology.com/)  
   Sito proprio, NON copertura di terzi: incluso solo come fonte primaria del filone biohacking (non presente in media.json). Letto 2026-10-07: «Hacking Biology was started by Fabio Pietrosanti». Primo post archiviato: https://hackingbiology.com/2023/07/09/a-data-driven-applied-aging-research-project/ (Wayback). La pagina /news/ elenca: 22/08/2024 presentazione alla comunita' Rapamycin News; 05/01/2025 Speciale Tg1; 17/05/2025 Codice Beta (data diversa dall'URL 2025/01 gia' noto: da chiarire con Fabio); 27/06/2025 Codice Rai 1; 02/07/2025 partecipazione al Longevity Summit Dublin (Trinity College, 2-4/7); 08/04/2026 Fund Longevity rally a Roma (Largo di Torre Argentina); 18/08/2026 migrazione del sito da WordPress.com. La sezione 'In the press' di /about/ cita solo i tre Rai gia' noti.
@@ -215,6 +215,8 @@ Anni senza nessun risultato: nessuno
   Stesso comunicato della campagna Celentano gia' noto via Latina Oggi (210705), ripreso da altra testata; didascalia foto 'Matilde Celentano e Fabio Pietrosanti'. Snippet: "accompagnata da Fabio Pietrosanti, figlio della signora Dolores, scomparsa lo scorso anno"; cita il progetto di consegne con cargo bike elettriche con associazioni del territorio. article:published_time 2023-04-19T14:06+02:00.
 - 🆕 **2023-04-19** · Menzionato · Latina News (latinanews.eu) — [Elezioni - Matilde Celentano in visita alla sede Gls di Latina](https://www.latinanews.eu/elezioni-matilde-celentano-in-visita-alla-sede-gls-di-latina/)  
   Ripresa dello stesso comunicato. Snippet: "La candidata sindaco di centrodestra, accompagnata da Fabio Pietrosanti, figlio della signora Dolores". article:published_time 2023-04-19T18:00Z. Presente anche nell'archivio WP-API del repo dossier (data/research/raw/marasca/wp/latinanews.eu.posts.json).
+- 🆕 **2023-04-19** · article · Mondoreale (mondoreale.it) — [ELEZIONI LATINA, Matilde Celentano in visita alla sede pontina di Gls](https://www.mondoreale.it/2023/04/latina-celentano-uneccellenza-che-investe-sul-territorio-con-attenzione-allambiente-e-impegno-sociale-con-noi-un-comune-amico-delle-aziende/)  
+  Quarta ripresa dello stesso comunicato della campagna Celentano (già noti Latina Oggi 210705, Latina TU, Latina News). Pagina aperta (published_time 2023-04-19): «La candidata sindaco di centrodestra, accompagnata da Fabio Pietrosanti, figlio della signora Dolores, scomparsa lo scorso anno, ha potuto visitare i diversi reparti»; cita anche l'acquisizione dei capannoni ex Pacifico.
 - 🆕 **2023-03-17** · Menzionato · Easyteam.org (published school reply) — [La risposta alla nuova richiesta di Monitora PA](https://easyteam.org/2023/03/17/la-risposta-alla-nuova-richiesta-di-monitora-pa)  
   Published template reply of a school to MonitoraPA's GMail/GDPR notice, addressed to 'sig. Fabio Pietrosanti'
 - 🆕 **2023-03-01** · Comunicato · Monitora PA — [GDPR howto: efficaci misure tecniche supplementari per GMail, Google Drive e Google Workspace](https://monitora-pa.it/2023/03/01/gdpr-misure-tecniche-supplementari-efficaci-per-gmail-e-gsuite.html)  
@@ -238,7 +240,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
   «Dott. Fabio Pietrosanti» nel Comitato Tecnico degli Esperti (art. 52 c. 11) dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino. Confermato da Fabio il 2026-10-07. Prima comparsa sulla pagina ufficiale fra il 2023-02-04 (assente) e il 2023-12-03 (presente), da copie Web Archive.
 
-## 2022 — 68 voci, 68 nuove
+## 2022 — 70 voci, 70 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -252,6 +254,10 @@ Anni senza nessun risultato: nessuno
   Re-confirmed via site search
 - 🆕 **2022-10-26** · Menzionato · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di FOIA](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/)  
   Re-confirmed via site search
+- 🆕 **2022-10-22** · Video · Linux Day Bari 2022 (PeerTube video.linux.it, canale Linux Day Bari) — [Linux Day Bari 2022 - Privacy e sicurezza del dato: l'approccio hacker - panel](https://video.linux.it/videos/watch/1c6fb883-c754-4a49-94e9-f4772acd9026)  
+  Verificato via API PeerTube: descrizione "Privacy e sicurezza del dato: l'approccio hacker con Ugo Lopez, Fabio Pietrosanti, Giacomo Tesio, Walter Vannini, Christian Bernieri e Roberto Resoli" (6043 s, pubblicato 29/10/2022, evento 22/10/2022). Mirror LinuxTrent: http://video.linuxtrent.it/w/4vEvR2XFzgukyzF7suvSXy. Linkato da monitora-pa.it, che descrive il panel come dibattito moderato da Ugo Lopez 'fra i fondatori di Monitora PA, Fabio Pietrosanti e Giacomo Tesio' e due DPO critici. Fuori finestra 2023-2025 ma assente dall'archivio. La pagina di sessione linuxdaybari.it ora e' 'Domain For Sale' (Wayback offline al momento del controllo).
+- 🆕 **2022-10-22** · Video · Linux Day Bari 2022 (PeerTube video.linux.it, canale Linux Day Bari) — [Linux Day Bari 2022 - Tavola rotonda](https://video.linux.it/videos/watch/173e7926-4c13-424c-b3a0-77f801ef9a38)  
+  Verificato via API PeerTube: descrizione "Tavola rontonda conclusiva della giornata con Ugo Lopez, Fabio Pietrosanti, Giacomo Tesio, Walter Vannini, Christian Bernieri, Ferdinando Traversa e Roberto Resoli di LinuxTrent" (4939 s, pubblicato 29/10/2022). Mirror LinuxTrent: http://video.linuxtrent.it/w/3StADd9bQkyaLcWwpbba4W. Fuori finestra 2023-2025 ma assente dall'archivio.
 - 🆕 **2022-10-19** · documento · Istituto Comprensivo Cornigliano, Genova (Ministero dell'Istruzione) - Amministrazione Trasparente — [Richiesta di accesso civico di Fabio Pietrosanti ex art. 5 c. 2 d.lgs. 33/2013](https://www.iccornigliano.edu.it/amministrazione-trasparente/) _(non verificato)_  
   Snippet Google: '... Fabio Pietrosanti, ai sensi dell'art. 5, comma 2 del d.lgs. 14 marzo 2013, n. 33. Pubblicato il: 19/10/2022; Tipologia: Dati ulteriori'. Pagina scaricata (HTTP 200) ma l'elenco documenti e' caricato via JavaScript: nome non confermato nell'HTML statico.
 - 🆕 **2022-10-13** · video (webinar) · Istituto per le politiche dell'innovazione (IPI) - YouTube — [Usare il FOIA per la trasparenza del trattamento dati in ambito pubblico](https://www.youtube.com/watch?v=SeQD83Nl1eE)  
@@ -1584,7 +1590,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2015** · Report · Nexa Center for Internet & Society — Annual Report 2015 — [Nexa Center annual report 2015](https://nexa.polito.it/wp-content/uploads/2024/05/Nexa-Center-annual_report-2015.pdf)  
   '73rd Nexa Wednesday, Principles and tools of whistleblowing: the GlobaLeaks case: March 11, 2015; guest: Fabio Pietrosanti.' PDF letto (25 MB).
 
-## 2014 — 29 voci, 29 nuove
+## 2014 — 30 voci, 30 nuove
 
 - 🆕 **2014-12-29** · workshop · 31C3 Chaos Communication Congress, Hamburg (Noisy Square) — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks)  
   60-min GlobaLeaks workshop, 29 Dec 2014 15:00 at Noisy Square; person organizing: Naif (duplicate draft page Session:Practical_Whistleblowing also exists)
@@ -1610,6 +1616,8 @@ Anni senza nessun risultato: nessuno
   Extensively quoted as mobile security expert (Hermes Center) on SS7 location tracking and Verint SkyLock
 - 🆕 **2014-07** · Menzionato · End Summer Camp 2014 (ESC14) wiki — [ESC14-BBS planning page (BBS / vintage telephone exchange area)](https://www.endsummercamp.org/index.php?title=ESC14-BBS)  
   Planning discussion: '(naif forse te stavi macerando quello dei tuoi a latina, o era ISDN?)', about an old analogue PBX. Passing mention only.
+- 🆕 **2014-06-22** · article · h24notizie.com — [Latina, Cinque Stelle apre il dibattito sulla conversione del Comani](https://www.h24notizie.com/2014/06/22/latina-cinque-stelle-apre-il-dibattito-sulla-conversione-del-comani/) _(non verificato)_  
+  FUORI FINESTRA 2023-25 ma assente dall'archivio; filone Aeroporto di Latina. Annuncio dell'incontro M5S del 23/06/2014 (sede Daphorà, strada Fogliano) sulla riconversione dell'aeroporto militare Comani: «Fabio Pietrosanti, che presenterà una proposta pro riconversione portata avanti come progetto di condivisione cittadina». Nome presente ma nessun altro elemento identificativo: identità da confermare con Fabio (plausibile vista la campagna aeroporto).
 - 🆕 **2014-06-20** · Video · Free Press Unlimited (YouTube) — [International Whistleblowers Conference 2014 - Part 1: Morning plenary](https://www.youtube.com/watch?v=UVBzF1rB5ZU)  
   Introductions by Fabio Pietrosanti, Anna Myers and Diana Schemo (Amsterdam)
 - 🆕 **2014-06-11** · Citato · European Journalism Observatory (it.ejo.ch) — [ExpoLeaks, whistleblowing per Expo](https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza)  

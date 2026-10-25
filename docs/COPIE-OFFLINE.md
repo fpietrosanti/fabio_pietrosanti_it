@@ -5,15 +5,15 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1198**; già processate: **1375**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1011** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1138**
+- Voci in `data/media.json`: **1202**; già processate: **1379**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1015** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1140**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **3**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **102**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
-- 🎬 Video/audio scaricato (+ pagina): **117**
+- 🎬 Video/audio scaricato (+ pagina): **119**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
 - ❌ Non ottenuta: **10**
 
@@ -39,7 +39,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2011 | 31 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 28 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2014 | 25 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 2014 | 26 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 39 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 85 | 5 | 1 | 0 | 0 | 0 | 0 |
@@ -47,8 +47,8 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2019 | 89 | 3 | 0 | 0 | 0 | 0 | 2 |
 | 2020 | 171 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 56 | 15 | 0 | 0 | 0 | 0 | 2 |
-| 2023 | 13 | 4 | 0 | 0 | 1 | 0 | 0 |
+| 2022 | 56 | 17 | 0 | 0 | 0 | 0 | 2 |
+| 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 8 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 45 | 3 | 0 | 1 | 0 | 0 | 0 |
@@ -267,23 +267,23 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ❌ **2005** · Webbit 05 - Osservatorio Webbit (RTF doc — [Intervista a Fabio Pietrosanti (Osservatorio Webbit 05, area Sicurezza) - 05_FabioPietrosa](http://www.webb.it/html/webbit05/docosservatorio/interviste/05_FabioPietrosanti.rtf) · licenza: terzi  
   http 404
 - ❌ **2009** · Rai 3 - TGR Neapolis (neapolis.blog.rai. — [Telefonate protette - Nea Polis 29/12/2009](http://neapolis.blog.rai.it/2009/12/29/telefonate-protette-nea-polis-29122009/) · licenza: terzi  
-  URLError
+  URLError; 2026-10-25: CDX dal server di nuovo vuoto
 - ❌ **2010** · Class Life (Class Editori TV, classlife. — [PrivateWave/PrivateGSM video (Hightech)](http://www.classlife.it/dettaglioVideo~categoria~Hightech~ST~201002171147014640~STBR~300.html) · licenza: terzi  
-  URLError
+  URLError; 2026-10-25: CDX dal server di nuovo vuoto
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
-  http 403; 2026-10-24: CDX completo dei PDF di privatewave.com (dal server): solo 5 manuali/licenze 2012-14, i comunicati 2010 non sono mai stati archiviati → servono i PDF originali di Fabio
-- ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
-  http 403; 2026-10-24: CDX completo dei PDF di privatewave.com (dal server): solo 5 manuali/licenze 2012-14, i comunicati 2010 non sono mai stati archiviati → servono i PDF originali di Fabio
-- ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
-  http 404
-- ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
   URLError
+- ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
+  URLError
+- ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
+  http 404; 2026-10-25: CDX dal server di nuovo vuoto
+- ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
+  URLError; 2026-10-25: CDX dal server di nuovo vuoto
 - ❌ **2019** · Università di Foggia (lezione nel corso  — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck c](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: terzi  
   http 410
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
-  URLError
+  URLError (host irraggiungibile). 2026-10-25: CDX completo notizieoggi.com/2022/09/ dal server — 15 capture di altri articoli del 22/09, nessuna di questo; mai archiviato
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
-  URLError
+  URLError (host irraggiungibile). 2026-10-25: CDX completo notizieoggi.com/2022/09/ dal server — 15 capture di altri articoli del 22/09, nessuna di questo; mai archiviato
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
@@ -297,7 +297,7 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 🟠 **2006** · Packet Storm Security (Secunia advisory  — [Secunia Security Advisory 22634 - Parallels Desktop for Mac Insecure File Permissions](https://packetstormsecurity.com/files/51690/Secunia-Security-Advisory-22634.html) · licenza: propria  
-  page is a JavaScript shell with almost no text: needs browser capture
+  page is a JavaScript shell (anti-bot). 2026-10-25: Web Archive (dal server) senza capture di /files/51690; l'indice 0611-advisories archiviato non elenca SA22634. Il testo originale Secunia («Provided and/or discovered by: Fabio Pietrosanti») è già salvato nella cartella: ristampa non necessaria
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
   page is a JavaScript shell with almost no text: needs browser capture
 
@@ -776,6 +776,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2014** · End Summer Camp 2014 (ESC14) wiki — [ESC14-BBS planning page (BBS / vintage telephone exchange area)](https://www.endsummercamp.org/index.php?title=ESC14-BBS) · copia: `2014/26cb2441bc82` (live) · licenza: terzi
 - **2014** · International Journalism Festival 2014 — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `2014/5d059e56be1a` (Web Archive 20140429) · licenza: terzi
 - **2014** · International Journalism Festival 2014 — [Intercettazioni telefoniche nell'era dell'NSA Gate](https://www.festivaldelgiornalismo.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate) · copia: `2014/eda7714af87e` (Web Archive 20140512) · licenza: terzi
+- **2014** · h24notizie.com — [Latina, Cinque Stelle apre il dibattito sulla conversione del Comani](https://www.h24notizie.com/2014/06/22/latina-cinque-stelle-apre-il-dibattito-sulla-conversione-del-comani/) · copia: `2014/0035d832f19f` (live) · licenza: terzi
 - **2014** · International Journalism Festival - news — [How to protect the next Snowden](https://www.journalismfestival.com/news/how-to-protect-the-next-snowden/) · copia: `2014/87e918067ece` (Web Archive 20140513) · licenza: terzi
 - **2014** · International Journalism Festival (Perug — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/2014/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `2014/4d9d695006fd` (Web Archive 20140714) · licenza: terzi
 - **2014** · International Journalism Festival (Perug — [Telephone intercepts in the age of NSAGate](https://www.journalismfestival.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate) · copia: `2014/b69196699305` (Web Archive 20140714) · licenza: terzi
@@ -1449,6 +1450,8 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Ordine degli Ingegneri della Provincia d — [Verbale n. 41 del Consiglio dell'Ordine degli Ingegneri della provincia di Catania (punto ](https://ording.ct.it/wp-content/uploads/2023/11/VERBALE_41_151122.pdf) · copia: `2022/d3f29f290f32` (live) · licenza: terzi
 - **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://podcast-radio24.ilsole24ore.com/radio24_audio/2022/220624-2024.mp3) · copia: `2022/aaaff82b9513` (live) · licenza: terzi
 - **2022** · Ciao, Internet! con Matteo Flora — [1064. MonitoraPA ha mandato una PEC a 8254 scuole. Quali le domande e cosa rispondere con ](https://podcasts.apple.com/it/podcast/1064-monitorapa-ha-mandato-una-pec-a-8254-scuole/id1046298895?i=1000580095811) · copia: `2022/175c6a1cdfdc` (live · video locale `media.mp3` (53 MB, da caricare su Drive)) · licenza: terzi
+- **2022** · Linux Day Bari 2022 (PeerTube video.linu — [Linux Day Bari 2022 - Tavola rotonda](https://video.linux.it/videos/watch/173e7926-4c13-424c-b3a0-77f801ef9a38) · copia: `2022/1d288ad7b00f` (live · video locale `media.mp4` (239 MB, da caricare su Drive)) · licenza: terzi
+- **2022** · Linux Day Bari 2022 (PeerTube video.linu — [Linux Day Bari 2022 - Privacy e sicurezza del dato: l'approccio hacker - panel](https://video.linux.it/videos/watch/1c6fb883-c754-4a49-94e9-f4772acd9026) · copia: `2022/063983d88d9c` (Web Archive 20230108 · video locale `media.mp4` (1,406 MB, da caricare su Drive)) · licenza: terzi
 - **2022** · Agenda Digitale — [Il FOIA di MonitoraPA: la risposta dell'Avvocatura al Ministero dell'Istruzione](https://www.agendadigitale.eu/sicurezza/privacy/il-foia-di-monitorapa-la-risposta-dellavvocatura-al-ministero-dellistruzione/) · copia: `2022/327f4401de7b` (Web Archive 20221026) · licenza: terzi
 - **2022** · Agenda Digitale — [Riuso del software, MonitoraPA chiede chiarezza alle scuole: le reazioni alla richiesta di](https://www.agendadigitale.eu/sicurezza/privacy/riuso-del-software-monitorapa-chiede-chiarezza-alle-scuole-le-reazioni-alla-richiesta-di-foia/) · copia: `2022/39ed595e0702` (Web Archive 20221027) · licenza: terzi
 - **2022** · civile.it (Valentino Spataro) — [Voto elettronico online per le politiche - 5 esperti spiegano perche' e' una disgrazia](https://www.civile.it/internet/visual.php?num=95819) · copia: `2022/feda165c8059` (live) · licenza: terzi
@@ -1507,6 +1510,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2023** · European Parliament, Policy Department f — [The use of Pegasus and equivalent surveillance spyware: The existing legal framework in EU](https://www.europarl.europa.eu/RegData/etudes/STUD/2022/740151/IPOL_STU(2022)740151_EN.pdf) · copia: `2023/26bb7f5f7319` (Web Archive 20230224) · licenza: terzi
 - **2023** · Latina News (latinanews.eu) — [Elezioni - Matilde Celentano in visita alla sede Gls di Latina](https://www.latinanews.eu/elezioni-matilde-celentano-in-visita-alla-sede-gls-di-latina/) · copia: `2023/566f95d4a3c8` (live) · licenza: terzi
 - **2023** · latinaoggi.eu — [Celentano, visita alla Gls: "Eccellenza che investe sul territorio"](https://www.latinaoggi.eu/gallery/politica/210705/celentano-visita-alla-gls-eccellenza-che-investe-sul-territorio.html) · copia: `2023/a6c17e995b05` (live) · licenza: terzi
+- **2023** · Mondoreale (mondoreale.it) — [ELEZIONI LATINA, Matilde Celentano in visita alla sede pontina di Gls](https://www.mondoreale.it/2023/04/latina-celentano-uneccellenza-che-investe-sul-territorio-con-attenzione-allambiente-e-impegno-sociale-con-noi-un-comune-amico-delle-aziende/) · copia: `2023/409353c4d2e2` (Web Archive 20230419) · licenza: terzi
 - **2023** · Ciao, Internet! con Matteo Flora - Garan — [[Garantismi LIVE] - Le Sfide della Privacy nel 2023](https://www.spreaker.com/episode/garantismi-live-le-sfide-della-privacy-nel-2023--52379256) · copia: `2023/295f8e8e294d` (live · video locale `media.mp3` (71 MB, da caricare su Drive)) · licenza: terzi
 - **2023** · Associazione Copernicani (YouTube) — [Privacy By Design - Privacy Coins](https://www.youtube.com/watch?v=SEQQOGEBnXo) · copia: `2023/9d1503ab931d` (Web Archive 20230522 · video locale `media.mp4` (410 MB, da caricare su Drive)) · licenza: terzi
 - **2023** · Ciao Internet - Matteo Flora (YouTube) — [#ONference | Le Sfide della Privacy nel 2023 (con Guido Scorza)](https://www.youtube.com/watch?v=YrB5DN8wX9k) · copia: `2023/05052d41d32e` (Web Archive 20230108 · video locale `media.mp4` (282 MB, da caricare su Drive)) · licenza: terzi

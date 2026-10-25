@@ -1,0 +1,77 @@
+[
+ {
+  "target": "YouTube 4CHvbryuUb4 (Fund Longevity live 08/04/2026)",
+  "checked": "2026-10-25",
+  "result": "Non ricontrollato: gia' verificato il 2026-10-21 (sottotitoli en-orig, segmento Roma parlato da 'Ferdinando', nessun nome; vedi leads_negatives_podcast_2020_2025_2026-10-21.json). Resta valido solo come riconoscimento visivo."
+ },
+ {
+  "target": "Ricerche YouTube (scraping pagina risultati con date + yt-dlp): Pietrosanti spyware/Paragon/hacker/naif/whistleblowing/GlobaLeaks/longevita'/biohacker/Hermes Center/privacy intervista/sovranita' digitale/MonitoraPA/rapamicina/genoma/Copernicani/criptovalute/Tor2web/webinar/podcast/trojan; biohack.it; Hacking Biology Fabio; pionieri longevita'; Centro Hermes spyware; GlobaLeaks 2024; Italian Hacker Camp 2024",
+  "checked": "2026-10-25",
+  "result": "Solo ID gia' in archivio o omonimi (Radio Digiesse, cover musicali, Angelo/Andy/Fabrizio Pietrosanti, gruppo musicale NAIF). Nessun video 2023-2025 nuovo con il nome in titolo o snippet."
+ },
+ {
+  "target": "Sottotitoli auto (yt-dlp, solo subs): sH2PXuaHDp0 FarWest 13/12/2024; JO2sISspvQ0 Progetto 1 spyware (2025); jBmD77kn9BU Cronache Hacker Hackmeeting (2026); JqS766sn0IY Fanpage ritiro biohacking (2025); gUMJKgM4j_8 RSI La Cavia biohacker (2025); o9IfINs2rWI ISOC GlobaLeaks",
+  "checked": "2026-10-25",
+  "result": "Nessuna occorrenza di Pietrosanti/naif/Fabio."
+ },
+ {
+  "target": "Descrizioni YouTube: 8Y2ZWTatYIg Agora' 03/12/2025 'La guerra degli hacker'; 24gann2vfWg Paragon e Pegasus (2025)",
+  "checked": "2026-10-25",
+  "result": "Nessun nome."
+ },
+ {
+  "target": "Canali YouTube Cyber Saiyan (/videos 95, /streams 23), Metro Olografix (74)",
+  "checked": "2026-10-25",
+  "result": "Nessun titolo con il nome 2023-2025 (solo MOCA 2016 e RomHack Camp 2026, gia' noti)."
+ },
+ {
+  "target": "RaiPlay Sound JSON (puntate 2023-2025): etabeta, radio3scienza, radioanchio, tuttalacittaneparla, caterpillaram, radio3mondo, fahrenheit, zapping, gr1, radio2socialclub, inviatospeciale, pagina3",
+  "checked": "2026-10-25",
+  "result": "Nessuna menzione. Eta Beta 23/09/2023 (Privacy Week) cita Hermes Center ma l'ospite e' Laura Carrer; Eta Beta 06/07/2024 cita 'biohacker scandinavi' (ospiti Carfagna, Stellacci)."
+ },
+ {
+  "target": "RaiPlay JSON programmi: codice-lavitaedigitale (881 item), tv7 (1760), specialetg1 (383), tg1dialogo (39)",
+  "checked": "2026-10-25",
+  "result": "Solo voci gia' note (Codice 27/06/2025 puntata + servizio, Speciale Tg1 05/01/2025). 'Hackerare il corpo - Codice 26/07/2024' = biohacker finlandesi, non Fabio. RaiPlay msearch API: 404."
+ },
+ {
+  "target": "Programmi eventi: hackmeeting.org hackit23/24/25; endsummercamp.org (API MediaWiki: 'Pietrosanti' 0 risultati, 'naif' solo 2007-2015 gia' noti); WHY2025 schedule.json; 37C3 e Camp 2023 fahrplan; linuxday.it/2024; romhack.io",
+  "checked": "2026-10-25",
+  "result": "Nessuna occorrenza 2023-2025. 37C3: sessione con Hermes Center = Claudio Agosti/Gaetano Priori, non Fabio."
+ },
+ {
+  "target": "Ricerche interne siti: internetfestival.it, cpdpconferences.org, privacyweek.it, forumpa.it, federprivacy.org, privacyday.it, festivaltecnologia.it, wired.it, hermescenter.org (WP search), lindipendente.online, guerredirete.it, la7.it, ilpost.it, eurodig.org, hackinbo.it, cybersecitalia.it, ictsecuritymagazine.com, redhotcyber.com",
+  "checked": "2026-10-25",
+  "result": "Nessun risultato 2023-2025. Wired: unica hit 2024 = articolo Superbonus (irrilevante). Hermes Center: solo post 2011-2019. Non accessibili: intgovforum.org (Cloudflare, non aggirato), startmag (403), fanpage (403), igfitalia (530), sfscon.it e ihc.camp (connessione fallita)."
+ },
+ {
+  "target": "hackingbiology.com/news (sitemap)",
+  "checked": "2026-10-25",
+  "result": "Longevity Summit Dublin 2025 = solo partecipazione (gia' nei negativi); presentazione Rapamycin News 2024 = thread di forum (non conta); Codice Beta/Codice/Tg1 gia' noti."
+ },
+ {
+  "target": "monitora-pa.it (rassegna/video)",
+  "checked": "2026-10-25",
+  "result": "Eventi 2023 (scuole Emilia-Romagna 28/03, Campania 24/05, Vicenza 08/06 su fuss.bz.it) e video PeerTube 2023 (Tesio, Resoli, VDO.NINJA): nessun nome di Fabio. Unico nuovo: Linux Day Bari 2022 (2 video, inseriti). ePrivacy XXX 2022 e Think Tally Talk 2022 gia' in archivio."
+ },
+ {
+  "target": "Google News RSS (it/US): \"Fabio Pietrosanti\"; Pietrosanti + hacker/biohacker/Hermes/GlobaLeaks/spyware/whistleblowing/privacy/longevita'/Rai/Tor/biohacking/naif",
+  "checked": "2026-10-25",
+  "result": "Solo voci note (Codice 2025, The Record 2024, Latina Oggi 2023) e omonimi. Due articoli RomaToday 2025 (allagamenti Nuovo Salario 19/08 e Borghesiana 06/05) con 'Fabio Pietrosanti': cronaca locale romana, probabile omonimo, non aperti (redirect Google News)."
+ },
+ {
+  "target": "Altri: theinnovationgroup.it speaker page (nota, 2019); infocondb (solo SHA2017); usi.ch 'Privacy e hacking tra mito e minacce' (2022, nessun nome); agendadigitale biohacking 2024; linkiesta 2026 e euronews 2026 longevita'; events.ccc.de 39C3 'spyware 0-days Italy'; irpimedia spyware; The Record 'Click Here'",
+  "checked": "2026-10-25",
+  "result": "Nessun nome / nessun episodio pertinente."
+ },
+ {
+  "target": "WebSearch (circa 24 ricerche) su talk/panel/webinar/TV/radio 2023-2025",
+  "checked": "2026-10-25",
+  "result": "Nessun risultato pertinente nuovo. DuckDuckGo e Mojeek: bot-check/403, non aggirati; Bing ignora le virgolette."
+ },
+ {
+  "target": "Internet Archive (CDX/Wayback) per ihc.camp 2024/2026 e linuxdaybari.it",
+  "checked": "2026-10-25",
+  "result": "Internet Archive 'Temporarily Offline' durante il pass: da ripetere."
+ }
+]

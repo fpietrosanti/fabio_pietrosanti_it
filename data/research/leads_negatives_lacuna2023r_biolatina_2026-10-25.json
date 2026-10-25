@@ -1,0 +1,70 @@
+{
+  "about": "Negativi/lead controllati - pass4 lacuna 2023-2025 (ripasso): biohacking/longevità, stampa Latina/Lazio, Copernicani/civic-tech, fintech/crypto (2026-10-25)",
+  "searched": [
+    "WebSearch (~33 query standard + 1 extended): indice molto povero sul nome; restituisce solo siti propri, FOSDEM 2018, LinkedIn/X propri, orlandomagazine 2026 (noto), rapamycin.news (forum, escluso)",
+    "DuckDuckGo HTML: 3 query poi blocco anti-bot -> interrotto (nessun aggiramento). Bing HTML: risultati degradati per client automatici -> abbandonato",
+    "WP REST API, ricerca frase \"Fabio Pietrosanti\" con verifica sul contenuto, su ~110 siti: stampa Latina/Lazio (latinatu, h24notizie, latinacorriere, latinapress, latina24ore, latinaquotidiano, tabloidweb, radioluna, mondoreale, temporeale, latinaflash, radiolatina, teleuniverso, laziotv, ilpontinoinforma, latinainforma, ilmamilio, castellinotizie), nazionali tech/civic (punto-informatico, valigiablu, agendadigitale, key4biz, startmag, cybersecurity360, formiche, ondata, hermescenter, redhotcyber, dday, insicurezzadigitale, federprivacy, ictsecuritymagazine, zeusnews, wired, fanpage, ilfattoquotidiano...), crypto (criptovalute, coinlabs, blockchain4innovation), longevità (lifespan.io, longevity.technology, longevityadvice, wisesociety, fondazioneveronesi, my-personaltrainer, ohga, greenme), istituzionali (lazioinnova, unindustria, confcommercio Lazio/Latina, CCIAA Frosinone-Latina, comune/provincia di Latina, regione Lazio): unici nuovi = mondoreale 2023 (positivo) e h24notizie 2014 (fuori finestra); il resto noto o omonimi",
+    "Il Caffè (ilcaffe.tv/?s=Pietrosanti, 3 pagine): solo omonimi (Matteo, Gianluca, Lorenzo, Mario Lauro Pietrosanti, ciclismo)",
+    "copernicani.it: sito offline (ECONNREFUSED); CDX Wayback 2023-2026 (263 URL) + grep delle copie: unico hit 'un-ministro-per-il-digitale' (2018, noto); 15 pagine 2023-2026 riverificate singolarmente (Depredati x2, Chat Control, FPS2025, Euro digitale, voto via internet, caso Chrome, AI, Orbis...): nessun nome",
+    "MonitoraPA: link esterni 2023 in homepage (ANP 16/03 e 21/03/2023 via Wayback, CISL Scuola PDF 13/03/2023, nota MIM 20/03/2023, sinetinformatica 21/06/2023, fuss.bz.it x4, nostrascuola.blog, agendadigitale big tech a scuola, AgID 28/06/2023, key4biz 430956, orizzontescuola, dirigentiscuola, gonews): citano MonitoraPA ma mai Fabio",
+    "ParteciPa (partecipa.gov.it/search?term=Pietrosanti): 0 risultati",
+    "YouTube search (6 query): solo video noti; nuovi = omonimi",
+    "Spreaker API episodi 'Pietrosanti' e 'biohacker Pietrosanti': solo noti (Ciao Internet) e omonimi (Francesca, Matteo)",
+    "hackingbiology.com /news e sitemap: tutte le uscite elencate già in archivio",
+    "TimePie Longevity Forum 2026: homepage e /2026agenda nominano 'Fabio Pietrosanti (naif)', pagina agenda già nota (e fuori finestra)",
+    "GlycanAge (llms-full.txt), Rejuvenation Olympics (leaderboard JS, non enumerabile), longevitybenchmarks.org (JS): nessun nome",
+    "CCC 38C3/39C3 hub via Wayback CDX: tag Biohacking 38C3 = solo DIY HRT meetup; 39C3 'pill-pusher-deluxe' e 'bio-hacking-science' non sono suoi; il meetup 'Longevity Biohacking' del 28/12/2024 annunciato su X non risulta tra le pagine hub archiviate",
+    "Piracy Shield lettera aperta 2024: stop-piracy-shield.it oggi dominio spam; API firme archiviata (23/03/2024, parziale): nessun Pietrosanti"
+  ],
+  "not_him_or_no_name": [
+    {
+      "url": "https://www.youtube.com/watch?v=lnzTDKJhVPE",
+      "reason": "'Presentazione Carmela Mascio Capitano Ultimo Maricetta Tirrito Fra Bernardino Fabio Pietrosanti' (~2022): contesto dell'autore omonimo romano/calabrese, non Fabio"
+    },
+    {
+      "url": "https://www.latinacorriere.it/ciclismo-opes-in-arrivo-il-5-trofeo-center-bike-velletri/",
+      "reason": "OMONIMO Center Bike Velletri; idem latinacorriere 2025-10-14, 2025-10-20, 2026-05-19, 2026-05-25; latinaquotidiano 2023-05-24, 2023-05-29, 2025-10-14, 2025-10-20, 2026-05-19, 2026-05-25; mondoreale 2023-05-24, 2023-05-30, 2025-10-14, 2025-10-20, 2026-05-19, 2026-05-25"
+    },
+    {
+      "url": "https://ilcaffe.tv/articolo/213523/latina-corsi-salvavita-per-200-studenti-ricordando-matteo-pietrosanti",
+      "reason": "OMONIMO Matteo Pietrosanti"
+    },
+    {
+      "url": "https://www.spreaker.com/episode/mule-la-famiglia-di-matteo-pietrosanti-ha-diritto-ad-avere-la-verita--64937245",
+      "reason": "OMONIMO Matteo Pietrosanti (2025)"
+    },
+    {
+      "url": "https://www.liquid.ai/blog/longevitybench",
+      "reason": "LongevityBench (Liquid AI/Insilico, 17/09/2026): Fabio dichiara su LinkedIn di aver contribuito, ma la parte visibile della pagina non lo nomina (Acknowledgements non letti); fuori finestra"
+    },
+    {
+      "url": "https://www.anp.it/2023/03/16/nuova-segnalazione-da-parte-di-monitora-pa-lanp-scrive-al-ministro/",
+      "reason": "MonitoraPA senza nome di Fabio (idem ANP 21/03/2023)"
+    },
+    {
+      "url": "https://www.cislscuolaromarieti.it/wp-content/uploads/2023/03/at_MIM_suRichMonitoraPA_13032023.pdf",
+      "reason": "CISL Scuola su MonitoraPA: nessun nome"
+    },
+    {
+      "url": "https://blog.sinetinformatica.it/2023/06/21/monitorapa-allattacco-di-agid/",
+      "reason": "MonitoraPA vs AgID: nessun nome"
+    },
+    {
+      "url": "https://www.ondata.it/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/",
+      "reason": "2020: nomina Fabio ma è GIÀ NOTO in media.json come ondata.it/trasparenza/... (stesso articolo, URL alternativo: eventualmente da aggiungere come mirror)"
+    },
+    {
+      "url": "https://partecipa.gov.it/search?term=Pietrosanti",
+      "reason": "0 risultati"
+    }
+  ],
+  "not_done": [
+    "latinanews.eu e laprovincialatina.it irraggiungibili da questa rete (timeout)",
+    "latinaoggi.eu (non WP) e latinatoday (JS): non ripetuti, già coperti dal pass 2026-10-07",
+    "copernicani.it offline: verificato solo via Wayback (pagine con prima cattura >= 2022)",
+    "Post LinkedIn di terzi: non enumerabili senza login",
+    "Rai: rai.it/raiplay non accessibili al motore di ricerca; RaiPlay già coperto dal pass precedente",
+    "Substack/Medium: la ricerca senza login restituisce vuoto",
+    "Meetup 38C3 'Longevity Biohacking' (28/12/2024): nessuna pagina pubblica trovata oltre al post X di Fabio"
+  ]
+}

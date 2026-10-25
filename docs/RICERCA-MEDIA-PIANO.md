@@ -476,6 +476,36 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   Festival, Security Summit/ITASEC PDF, Codemotion; Semantic Scholar e Google Books (429); tesi NOVA Lisbona 2018 e SSRN
   3459366 (anti-bot, citano Hermes); WebTV Camera conferenza stampa trojan 31/01/2017; sottotitoli YouTube POuL/HOPE 2018.
 
+- [ ] **Lacuna 2023–2025 (ripasso) — passata 2026-10-25** (3 agenti: `pass4_lacuna2023r_{press,talks,biolatina}`, negativi in
+  `data/research/leads_negatives_lacuna2023r_*_2026-10-25.json`, ~100 ricerche + ricerche interne su ~135 siti) → **+4 voci**
+  (3 verificate), di cui solo 1 nel periodo: il ripasso conferma che il 2023–2025 è davvero povero di menzioni.
+  - **Nuove**: Mondoreale 19/04/2023 (quarta ripresa della visita Celentano alla GLS, «accompagnata da Fabio
+    Pietrosanti»); **Linux Day Bari 22/10/2022** ×2 su PeerTube video.linux.it — panel «Privacy e sicurezza del dato:
+    l'approccio hacker» (con Lopez, Tesio, Vannini, Bernieri, Resoli; MonitoraPA) e tavola rotonda conclusiva (nome nella
+    descrizione; video scaricati in locale, 1h41' e 1h22'); h24notizie 22/06/2014 «Cinque Stelle apre il dibattito sulla
+    conversione del Comani» (un «Fabio Pietrosanti» presenta una proposta sull'aeroporto: **non verificata**, domanda a Fabio).
+  - **Negativi solidi**: Paragon/Graphite 2025 (Il Post, TechCrunch, The Record, Euronews, Guerre di Rete…), riprese di The
+    Record 2024 oltre a quelle note, 14 numeri della newsletter Hermes «</Monitor>» (2024-25, mai il nome), MonitoraPA 2023
+    nella stampa scolastica (senza nome), ricerche interne IrpiMedia/Domani/Wired/Valigia Blu/Red Hot Cyber/Il Post/ANSA e ~25
+    testate WordPress; RaiPlay (Codice, Tv7, Speciale Tg1) e RaiPlay Sound 2023-25 (12 programmi: Eta Beta 23/09/2023 cita
+    Hermes ma ospite Laura Carrer); Hackmeeting/ESC/WHY2025/37C3/Camp 2023 (Hermes al 37C3 = Agosti e Priori); Copernicani
+    2023-26 (263 pagine Wayback); Lifespan.io, Longevity.Technology, GlycanAge; ~110 testate locali del Lazio (solo l'omonimo
+    di Velletri). Fund Longevity 08/04/2026: i sottotitoli non lo nominano (il segmento Roma lo parla «Ferdinando»).
+  **Resta**: ricerche interne di Il Fatto, Open, Repubblica, La Stampa, Corriere, AGI, Adnkronos (403/401: Chrome di Fabio);
+  ihc.camp 2024/2026 e pagina linuxdaybari.it (Web Archive offline dal laptop per tutta la sessione); latinanews.eu e
+  laprovincialatina.it (non rispondono); post LinkedIn di terzi (login); PDF ComeInClasse fuss.bz.it (9,8 MB, MonitoraPA);
+  meetup «Longevity Biohacking» al 38C3 (28/12/2024, annunciato su X, assente dalle pagine archiviate); GDELT (429).
+  **Proposta**: dopo i residui via Chrome, chiudere la voce — la ricerca automatica sul 2023–2025 è esaurita.
+
+## Note sessione 2026-10-25 (run programmata «ricerca profonda»)
+- **1202 voci** in `data/media.json`. Prime voci della coda ancora bloccate (chiavi, login, risposte di Fabio, video
+  TimePie): ripassata la **lacuna 2023–2025** (voce sopra, +4). Web Archive «Temporarily Offline» dal laptop: CDX fatti dal
+  server.
+- **Copie**: Linux Day Bari 2022 ×2 da 🟡 a video ottenuto (metadati dall'API PeerTube + video 540p in locale);
+  Packet Storm/Secunia e notizieoggi ×2: nessuna capture (motivo aggiornato); Neapolis, Class Life, RMC, coinage: CDX vuoto.
+- **Prossima voce lavorabile:** residui 2017–2019 e 2023–2025 nel Chrome di Fabio (Corriere, Sole 24 Ore, Repubblica, Il
+  Fatto, Open), oppure la lacuna 2011–2016 sul Web Archive quando torna stabile.
+
 ## Note sessione 2026-10-24 (run programmata «ricerca profonda»)
 - **1190 voci** in `data/media.json` (1124 verificate). Prime voci della coda ancora bloccate (chiavi, login, risposte di
   Fabio, video TimePie): lavorata la **lacuna 2017–2019** (vedi voce sopra, +22).

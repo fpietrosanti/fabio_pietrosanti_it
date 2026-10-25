@@ -179,6 +179,20 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-octodecies. 2026-10-25
+- Copie delle 4 voci nuove: **tutte ottenute**. I due video Linux Day Bari 2022 (PeerTube, pagina solo JavaScript) sono
+  passati da 🟡 a ottenuti leggendo i metadati dall'API PeerTube (`/api/v1/videos/<uuid>`, descrizione con il tuo nome) e
+  scaricando il video 540p (solo in locale, 1,6 GB in tutto). **Trucco da riusare** per ogni istanza PeerTube.
+- **Ritentati dal server** (dal laptop il Web Archive era «Temporarily Offline»): Packet Storm/Secunia SA22634 (nessuna
+  capture; il testo originale Secunia è già in copia, quindi la ristampa non serve più), notizieoggi.com ×2 (CDX di
+  settembre 2022: 15 capture di altri articoli, non questi), Neapolis 2009, Class Life 2010, Radio Monte Carlo 2010,
+  coinage.it: CDX vuoto → restano ❌ col motivo aggiornato.
+- **Invariati**: RTF Webbit 05, PrivateWave EN/ES, deck Foggia (410), CyberCoach solo pagina, 🟡 rassegna PrivateWave e 2
+  ritagli Repubblica cartacei, 🟠 Sogou.
+- **Domande per te:** (a) **h24notizie 22/06/2014** — «Latina, Cinque Stelle apre il dibattito sulla conversione del
+  Comani»: il «Fabio Pietrosanti» che presenta una proposta per la riconversione dell'aeroporto sei tu? (b) Al **38C3**
+  (28/12/2024) il meetup «Longevity Biohacking» che avevi annunciato si è tenuto? C'è una pagina o una foto?
+
 ### B0-septdecies. 2026-10-24
 - Copie delle 22 voci nuove: **tutte ottenute** (19 pagine + 1 video), tranne 2 ritagli cartacei di Repubblica (pagina
   dell'archivio a pagamento: 🟡, nome solo nello snippet di ricerca).
