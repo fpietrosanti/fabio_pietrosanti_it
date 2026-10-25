@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1655**; dopo deduplica: **1207**
+- Risultati grezzi dalle ricerche: **1656**; dopo deduplica: **1208**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1152**
-- Verificati aprendo la pagina: **1140**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1153**
+- Verificati aprendo la pagina: **1141**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 249, tweet 132, Talk 94, Video 80, Post sul blog infosecurity.ch 72, Citato 69, article 45, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 249, tweet 132, Talk 94, Video 80, Post sul blog infosecurity.ch 72, Citato 69, article 46, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -39,7 +39,7 @@ Per tipo (nuovi): Menzionato 249, tweet 132, Talk 94, Video 80, Post sul blog in
 | 2018 | 0 | 89 | 89 |
 | 2019 | 0 | 72 | 72 |
 | 2020 | 0 | 180 | 180 |
-| 2021 | 0 | 90 | 90 |
+| 2021 | 0 | 91 | 91 |
 | 2022 | 0 | 71 | 71 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
@@ -385,7 +385,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2022** · Menzionato · cybersecitalia.it — [Caso Kaspersky. Copasir pronto a indicare soluzioni al Parlamento](https://www.cybersecitalia.it/caso-kaspersky-copasir-pronto-ad-indicare-al-parlamento-la-diversificazione-delle-soluzioni-di-cybersecurity/17151/)  
   verified via wayback; context: …Kaspersky è un ex KGB — Stefano Quintarelli (@quinta) February 26, 2022 Il software della società russa da più esperti del settore, come Stefano Quintarelli e Fabio Pietrosanti , viene considerato un cavallo di Troia nei… | CyberSec Italia, caso Kaspersky/Copasir (fine febbraio-marzo 2022): citato con Quintarelli tra gli esperti che considerano il software russo un rischio
 
-## 2021 — 90 voci, 90 nuove
+## 2021 — 91 voci, 91 nuove
 
 - 🆕 **2021-10-29** · Capitolo di libro · IGI Global (Information Resources Management Association) — [Research Anthology on Business Aspects of Cybersecurity](https://books.google.com/books?id=KOREEAAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Anthology (probably reprints the Mann chapter). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking. Boing Boing. Retrieved 17 March 2019, https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html'.
@@ -567,6 +567,8 @@ Anni senza nessun risultato: nessuno
   Archived recording, DOI 10.5446/13945, speakers include Fabio Pietrosanti (naif)
 - 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
+- 🆕 **2021** · article · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/)  
+  Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 
 ## 2020 — 180 voci, 180 nuove
 

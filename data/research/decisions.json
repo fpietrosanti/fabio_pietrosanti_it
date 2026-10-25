@@ -986,6 +986,18 @@
   {
    "url": "https://www.slideshare.net/slideshow/aspetti-di-sicurezza-dei-protocolli-wireless/56868",
    "reason": "2026-10-25: variante www della slide di terzi già esclusa (pt.slideshare): nome solo nei correlati"
+  },
+  {
+   "url": "https://www.consorzio-cini.it/index.php/it/lab-cyber-security/60-italiano/laboratori/lab-cyber-security/notizie-in-evidenza/1349-cerimonia-di-premiazione-dei-vincitori-di-cyberchallenge-it",
+   "reason": "2026-10-25: ennesima variante di percorso (lab-cyber-security) della notizia CINI 1349 già in archivio"
+  },
+  {
+   "url": "https://lwn.net/Articles/656435/",
+   "reason": "2026-10-25: copia LWN della Tor Weekly News del 30/08/2015 già in archivio (blog.torproject.org)"
+  },
+  {
+   "url": "https://www.festivaldelgiornalismo.com/speaker/philip-di-salvo",
+   "reason": "2026-10-25: pagina relatore di Philip Di Salvo = alias della sessione IJF15 «Whistleblowing digitale con GlobaLeaks» già in archivio"
   }
  ],
  "override": [

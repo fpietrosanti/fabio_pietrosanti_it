@@ -17263,6 +17263,23 @@
   "on_old_site": false
  },
  {
+  "date": null,
+  "year": 2021,
+  "type": "article",
+  "outlet": "dr-datenschutz.de",
+  "title": "Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss",
+  "url": "https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/",
+  "language": "de",
+  "role": "quoted",
+  "note": "Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-25-2033"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2021",
   "year": 2021,
   "type": "project",

@@ -2915,51 +2915,102 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" RightsCon OR \"re:publica\" OR \"Internet Freedom Festival\" OR MozFest",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" netzpolitik OR heise OR golem OR \"Zeit Online\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)",
+      "date": "2026-10-25",
+      "found": 9,
+      "confirmed_new": 1
     },
     {
       "query": "\"Fabio Pietrosanti\" La7 OR Piazzapulita OR \"Le Iene\" OR \"Striscia\"",
-      "status": "pending",
+      "status": "retry",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane); 2026-10-25 20:33: robot check di Google su questa query → retry"
     },
     {
       "query": "\"Fabio Pietrosanti\" TEDx OR keynote OR \"tavola rotonda\" 2016 OR 2017 OR 2018",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Espresso\" OR \"Repubblica\" OR \"Il Fatto Quotidiano\" 2016 OR 2017 OR 2018 OR 2019",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)",
+      "date": "2026-10-25",
+      "found": 9
     },
     {
       "query": "\"Pietrosanti\" Tor onion OR \"hidden service\" 2011 OR 2012 OR 2013 OR 2014",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Pietrosanti\" GlobaLeaks tesi OR \"tesi di laurea\" OR \"elaborato finale\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)",
+      "date": "2026-10-25",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" Leaks OR \"Wikileaks\" 2010 OR 2011 OR 2012 intervista",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)",
+      "date": "2026-10-25",
+      "found": 10
+    },
+    {
+      "query": "\"Pietrosanti\" Clearview OR PimEyes OR \"Reclaim Your Face\" 2021",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Hermes Center \"facial recognition\" OR \"reconnaissance faciale\" OR \"reconocimiento facial\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" EDRi OR noyb OR \"Privacy International\" OR \"Access Now\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Le Monde\" OR Libération OR \"El País\" OR \"The Guardian\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+    },
+    {
+      "query": "\"Pietrosanti\" Hermes trojan OR \"captatore informatico\" 2017 OR 2018 OR 2019",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" datenschutz OR Überwachung OR Whistleblower",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 20:33: dopo la voce tedesca dr-datenschutz (Clearview/PimEyes 2021) — stampa europea sui diritti digitali e campagne Hermes 2019-22"
     }
   ],
   "history": [
@@ -3807,6 +3858,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (Punto Informatico/Zeus News 2003-04, wireless 2003-05, intercettazioni/Telecom 2006-08, whistleblowing su stampa economica 2023-25, GlobaLeaks interview/podcast 2024-25, sovranità digitale 2025-26, aeroporto Latina 2026, naif Smau/Webbit/Infosecurity 2004-08) senza robot check: 73 risultati, 65 URL distinti (query string tolte; Zeus News n.php?c=25616 ricostruito dal parametro letto in pagina, partecipa.gov.it e gruppobcciccrea non recuperabili). Scartati senza verifica: LinkedIn/x.com/Instagram (social), seclists/hyperkitty nexa/pipermail (mailing list), forum.italia.it (forum), infosecurity.ch e repo GitHub aeroportodilatina (siti propri), indici (dicorinto tag, pr-foundation /content/, puntosicuro sommario/page-20, dalchecco tag, partecipa.gov.it), zh.wikipedia/wikiwand (versioni linguistiche), amazon author store, it.wikipedia Latina, radioradicale 800076 sottopagina 'stampa-e-regime', SR2026 Agenzia Entrate, alessandrorodolfi.org. 30 candidati verificati: 27 respinti o già in archivio (nome assente; researchgate/academia/elgaronline FAIL). 3 OK dallo script, nessuno nuovo: scribd 777154998 e commento Schneier 2010 già esclusi; slideshare 'Aspetti di sicurezza dei protocolli Wireless' = variante www della slide già esclusa (pt.slideshare), aggiunta in decisions.json. File grezzo della passata lasciato vuoto. Nessuna nuova copia (archive_copies: pending 0). Rendimento nullo per il secondo giro consecutivo. Coda esaurita: aggiunte 8 query (eventi internazionali, stampa tedesca, TV La7, relatore 2016-18, quotidiani 2016-19, Tor onion 2011-14, tesi di laurea, Wikileaks 2010-12)."
+    },
+    {
+      "date": "2026-10-25 20:33",
+      "engine": "google-chrome",
+      "searched": 7,
+      "captcha": true,
+      "confirmed_new": 1,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite 7 delle 8 query pending (eventi internazionali RightsCon/MozFest, stampa tedesca, relatore 2016-18, quotidiani 2016-19, Tor onion 2011-14, tesi GlobaLeaks, Wikileaks 2010-12); la query TV (La7/Piazzapulita/Iene/Striscia) ha fatto scattare il robot check di Google (/sorry) al secondo tentativo: fermato subito, nessun aggiramento, query in 'retry'. 67 risultati; scartati senza verifica: mailing list (lists.inventati, lists.linux.it, tor-dev/tor-talk pipermail, seclists, hyperkitty nexa), social (LinkedIn, Instagram), sito proprio (infosecurity.ch), indici (radioradicale soggetti, poul topic, dicorinto tipologia, pr-foundation /content/, hermescenter category, dalchecco tag), zh.wikipedia, aggregatore rssing, repubblica protagonisti. 43 candidati verificati: 36 respinti (nome assente; dokumen.pub FAIL). 7 OK dallo script: 3 già in archivio (tesi Fifield bamsoftware, TWN 17/09/2014, it.wikipedia = mirror della voce en), 3 nuove esclusioni in decisions.json (CINI 1349 ennesima variante di percorso, LWN 656435 = copia TWN 30/08/2015, pagina relatore Di Salvo IJF = alias sessione IJF15). 1 nuova voce: dr-datenschutz.de 2021 «Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss» (cita Fabio come presidente dell'Hermes Center). Nel file grezzo tenuta solo la voce nuova (le note reinserite alteravano media.json). 1 nuova copia offline (wayback). Aggiunte 6 query (stampa europea diritti digitali, riconoscimento facciale, Hermes trojan 2017-19)."
     }
   ]
 }
