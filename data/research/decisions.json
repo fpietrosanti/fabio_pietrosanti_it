@@ -958,6 +958,30 @@
   {
    "url": "https://www.juniper.net/us/en/threatlabs/ips-signatures/detail.SMB:EXPLOIT:LANMAN-NUKE.html",
    "reason": "2026-10-25: firma IPS Juniper gemella di SMB:EXPLOIT:SMBDIE (già in archivio), stesso testo e stessa vulnerabilità NetBIOS/SMB del 2002 → duplicato"
+  },
+  {
+   "url": "https://www.edueda.net/index.php?title=Kyuzz_e_Radio_Cybernet",
+   "reason": "2026-10-25: 'naif' usato come aggettivo (trasmissioni naif), nessuna menzione di Fabio"
+  },
+  {
+   "url": "https://zero.eu/it/persone/techno-droga-e-detournement-torazine-e-di-nuovo-tra-noi/",
+   "reason": "2026-10-25: 'ingenuità naif' aggettivo, nessuna menzione di Fabio"
+  },
+  {
+   "url": "https://personaldemocracy.com/speakers/page/21/",
+   "reason": "2026-10-25: pagina indice relatori PDF, alias della scheda personaldemocracy.com/speaker/fabio-pietrosanti/ già in archivio"
+  },
+  {
+   "url": "https://www.puntosicuro.it/security-C-124/sicurezza-informatica-C-90/page-20/",
+   "reason": "2026-10-25: pagina indice di categoria; l'articolo 'Wireless Lan, la sicurezza dell'insicurezza' (2003) è già in archivio"
+  },
+  {
+   "url": "https://issuu.com/Festival_del_Giornalismo/docs/brochure_2018_eng_issuu",
+   "reason": "2026-10-25: brochure IJF18, alias del panel 'Italian privacy nightmare' già in archivio"
+  },
+  {
+   "url": "https://www.radioradicale.it/scheda/377967/intervista-a-marco-calamari-sulle-quirinarie-del-m5s-sul-voto-elettronico-e-sulla",
+   "reason": "2026-10-25: Fabio compare solo nella colonna 'correlati' (intervista GlobaLeaks 10/12/2011, già in archivio)"
   }
  ],
  "override": [

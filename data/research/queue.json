@@ -2787,51 +2787,115 @@
     },
     {
       "query": "\"naif\" \"Pietrosanti\" 1998 OR 1999 IRC OR Azzurra OR hacker",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati",
+      "date": "2026-10-25 12:33",
+      "found": 8
     },
     {
       "query": "\"Fabio Pietrosanti\" OR \"naif\" Hackit OR hackmeeting 1999 OR 2000 OR 2001 OR 2002 OR 2003",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati",
+      "date": "2026-10-25 12:33",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Metro Olografix\" OR Openlabs OR \"Linux Club\" 2002 OR 2003",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati",
+      "date": "2026-10-25 12:33",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" whistleblowing comuni OR \"pubblica amministrazione\" OR ANAC 2023 OR 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati",
+      "date": "2026-10-25 12:33",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"intelligenza artificiale\" OR \"AI Act\" 2023 OR 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati",
+      "date": "2026-10-25 12:33",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" biohacking OR longevità OR \"Fund Longevity\" 2025 OR 2026",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati",
+      "date": "2026-10-25 12:33",
+      "found": 10
     },
     {
       "query": "\"Pietrosanti\" \"Whistleblowing Solutions\" intervista OR CEO OR fondatore",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati",
+      "date": "2026-10-25 12:33",
+      "found": 8
     },
     {
       "query": "\"Fabio Pietrosanti\" \"voto elettronico\" OR \"voto online\" 2023 OR 2024 OR 2025",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati",
+      "date": "2026-10-25 12:33",
+      "found": 9
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" 2003 OR 2004 \"Punto Informatico\" OR \"Zeus News\" OR \"HTML.it\"",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 08:33: coda esaurita; anni deboli (1998-99, 2003, 2023-25) e filoni recenti non ancora interrogati"
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+    },
+    {
+      "query": "\"Pietrosanti\" wardriving OR \"wireless\" OR \"Wi-Fi\" sicurezza 2003 OR 2004 OR 2005",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" intercettazioni OR Telecom OR \"Tavaroli\" 2006 OR 2007 OR 2008",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" whistleblowing \"Italia Oggi\" OR Altalex OR \"Il Sole 24 Ore\" 2023 OR 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" GlobaLeaks interview OR podcast 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"sovranità digitale\" OR \"cloud\" OR \"PA\" 2025 OR 2026",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+    },
+    {
+      "query": "\"Pietrosanti\" aeroporto Latina OR comitato 2026",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+    },
+    {
+      "query": "\"naif\" \"Pietrosanti\" Smau OR Webbit OR \"Infosecurity\" 2004 OR 2005 OR 2006 OR 2007 OR 2008",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
     }
   ],
   "history": [
@@ -3663,6 +3727,14 @@
       "captcha": false,
       "confirmed_new": 1,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (CVE/vuln DB 2000-02, '(naif)' credits, I.NET 1999-2002, Immuni 2020, Foglio/Formiche/Key4biz 2020-21, Tor2web 2008-10, ITASEC/Cybersec 2021-22, webinar 2021-22) senza robot check, estraendo gli URL subito dopo ogni ricerca: 79 risultati, ~9-11 per query. Scartati senza verifica: LinkedIn, twitter/x (social), seclists/hyperkitty nexa/tor-talk/ietf (mailing list), forum.italia.it, infosecurity.ch (sito proprio), indici (dicorinto tag/tipologia, radioradicale soggetti, raiplaysound puntate, home pr-foundation/monitora-pa), zh.wikipedia/wikiwand (versioni linguistiche), visura e bilancio Whistleblowing Solutions (atti societari). 33 candidati verificati: 27 respinti o già in archivio. 6 OK dallo script, 5 tolti: opennet.ru già escluso (mirror Bugtraq); 4 nuove esclusioni in decisions.json (amazon.it Hodex = romanzo dell'omonimo; CRS contact tracing video-2 e consorzio-cini 1349 = alias di voci note; Juniper LANMAN-NUKE = firma gemella di SMBDIE). 1 nuova voce: CyberSec Italia 2022 'Caso Kaspersky, Copasir pronto a indicare soluzioni' (citato con Quintarelli). 1 nuova copia offline (wayback). Rendimento basso: i filoni 2000-02 e 2020-22 sono ormai saturi. Coda esaurita: aggiunte 8 query (1998-99 IRC/Hackit, 2002-03 Olografix/Openlabs, 2023-25 PA/ANAC, AI, longevità, Whistleblowing Solutions, voto elettronico)."
+    },
+    {
+      "date": "2026-10-25 12:33",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 0,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (1998-99 IRC/Azzurra, Hackit/hackmeeting 1999-2003, Metro Olografix/Openlabs 2002-03, whistleblowing PA/ANAC 2023-25, AI/AI Act 2023-25, biohacking/longevità 2025-26, Whistleblowing Solutions, voto elettronico 2023-25) senza robot check: 75 risultati, 69 URL distinti (query string tolte su 3: un allegato principigrimaldi.edu.it non recuperabile). Scartati senza verifica: LinkedIn/Facebook/Instagram/x.com (social), seclists/hyperkitty nexa/lists.autistici (mailing list), siti propri (biohack.it, hackingbiology.com), indici (dicorinto tag/page/tipologia, raiplaysound pagina programma, pr-foundation /content/), visura Whistleblowing Solutions (atto societario), dizionario Oxford e paperspast (omonimia/aggettivo), alessandrorodolfi.org. 40 candidati verificati: 31 respinti o già in archivio (nome assente; researchgate FAIL). 9 OK dallo script, nessuno nuovo: 3 già esclusi (moca2016 /it/employees, consorzio-cini 1349, speaker Ziccardi IJF); 6 nuove esclusioni in decisions.json (edueda e zero.eu = 'naif' aggettivo; personaldemocracy speakers page 21, puntosicuro indice pag. 20, brochure IJF18 issuu = alias di voci note; radioradicale 377967 = solo colonna correlati). File grezzo della passata lasciato vuoto. Nessuna nuova copia (archive_copies: pending 0). Rendimento nullo: i filoni sono saturi, Google ripesca voci note. Coda esaurita: aggiunte 8 query (2003-08 riviste/wireless/intercettazioni/Smau, 2023-26 whistleblowing stampa economica, GlobaLeaks in inglese, sovranità digitale, aeroporto Latina)."
     }
   ]
 }
