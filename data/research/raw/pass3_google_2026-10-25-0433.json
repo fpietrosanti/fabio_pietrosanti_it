@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2000-11",
+  "year": null,
+  "type": "mentioned",
+  "outlet": "exploit-db.com",
+  "title": "Cisco PIX Firewall 5.2 - PASV Mode FTP Internal Address Disclosure",
+  "url": "https://www.exploit-db.com/exploits/20369",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …Exploit-DB Exploit-DB History FAQ Search Cisco PIX Firewall 5.2 - PASV Mode FTP Internal Address Disclosure EDB-ID: 20369 CVE: 2000-1027 EDB Verified: Author: Fabio Pietrosanti Type: remote Exploit: / Platform: Hardware … | copia exploit-db dell'advisory CVE-2000-1027 (Author: Fabio Pietrosanti)",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2000-12",
+  "year": null,
+  "type": "mentioned",
+  "outlet": "variotdbs.pl",
+  "title": "VARIoT vulnerability VAR-200012-0088",
+  "url": "https://www.variotdbs.pl/vuln/VAR-200012-0088/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …ust: 0.6 url: http://xforce.iss.net/static/5646.php Trust: 0.6 sources: VULHUB: VHN-2597 // CNNVD: CNNVD-200012-075 // NVD: CVE-2000-1027 CREDITS Discovered by Fabio Pietrosanti (naif) <naif@inet.it>. Posted to Bugtraq o… | scheda CVE-2000-1027, credits a Fabio Pietrosanti (naif)",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "juniper.net",
+  "title": "SMB:EXPLOIT:SMBDIE",
+  "url": "https://www.juniper.net/us/en/threatlabs/ips-signatures/detail.SMB:EXPLOIT:SMBDIE.html",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …n confirmed. Reportedly, this vulnerability may be exploited both as an authenticated user, and with anonymous access to the service. It has been reported, by \"Fabio Pietrosanti \\(naif\\)\" , that disabling the NetBIOS Nul… | firma IPS Juniper SMB:EXPLOIT:SMBDIE, cita il workaround riportato da lui (2002)",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2020-05-09",
+  "year": null,
+  "type": "talk",
+  "outlet": "pr-foundation.org",
+  "title": "La nostra Fondazione contribuisce al convegno online \"Gli Anticorpi del Futuro\" del Foglio Quotidiano (9 maggio 2020)",
+  "url": "http://www.pr-foundation.org/la-nostra-fondazione-contribuisce-al-convegno-online-gli-anticorpi-del-futuro-del-foglio-quotidiano/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …attiva e open data, Comune di Milano Mattia Mor, Italia Viva Antonio Nicita, Commissione per le Infrastrutture e le Reti, AGCOM Antonio Palmieri, Forza Italia Fabio Pietrosanti, Founder, Hermes Center for Transparency an… | relatore (Founder, Hermes Center) al convegno online del Foglio, 09/05/2020",
+  "verified": true,
+  "known": false
+ }
+]

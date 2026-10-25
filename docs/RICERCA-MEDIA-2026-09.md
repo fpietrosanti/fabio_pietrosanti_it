@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1650**; dopo deduplica: **1202**
+- Risultati grezzi dalle ricerche: **1654**; dopo deduplica: **1206**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1147**
-- Verificati aprendo la pagina: **1135**; solo da risultato di ricerca: **67**
+- **Nuovi rispetto al vecchio sito: 1151**
+- Verificati aprendo la pagina: **1139**; solo da risultato di ricerca: **67**
 
-Per tipo (nuovi): Menzionato 245, tweet 132, Talk 93, Video 80, Post sul blog infosecurity.ch 72, Citato 69, article 45, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 248, tweet 132, Talk 94, Video 80, Post sul blog infosecurity.ch 72, Citato 69, article 45, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -18,7 +18,7 @@ Per tipo (nuovi): Menzionato 245, tweet 132, Talk 93, Video 80, Post sul blog in
 |---|---:|---:|---:|
 | 1998 | 0 | 1 | 1 |
 | 1999 | 0 | 1 | 1 |
-| 2000 | 2 | 16 | 13 |
+| 2000 | 2 | 18 | 15 |
 | 2001 | 8 | 17 | 12 |
 | 2002 | 2 | 20 | 9 |
 | 2003 | 5 | 8 | 7 |
@@ -38,7 +38,7 @@ Per tipo (nuovi): Menzionato 245, tweet 132, Talk 93, Video 80, Post sul blog in
 | 2017 | 0 | 86 | 86 |
 | 2018 | 0 | 89 | 89 |
 | 2019 | 0 | 72 | 72 |
-| 2020 | 0 | 179 | 179 |
+| 2020 | 0 | 180 | 180 |
 | 2021 | 0 | 90 | 90 |
 | 2022 | 0 | 70 | 70 |
 | 2023 | 0 | 20 | 20 |
@@ -566,7 +566,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · Paper · usiena-air.unisi.it — [Tesi di dottorato Università di Siena (phd_unisi_569132) sul captatore informatico](https://usiena-air.unisi.it/retrieve/e0feeaa9-6bbc-44d2-e053-6605fe0a8db0/phd_unisi_569132.pdf)  
   verificato a mano 2026-10-13 (ricerca Google); nota 176: cita S. Aterno-F. Pietrosanti, Agenda Digitale 9/4/2019; anno da verificare
 
-## 2020 — 179 voci, 179 nuove
+## 2020 — 180 voci, 180 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -750,6 +750,8 @@ Anni senza nessun risultato: nessuno
   Registra l'esito: Bending Spoons passa ad AGPLv3 'in response to advice coming from the open-source community'. Link alla issue GitHub immuni-app/documentation#7, dove Fabio aveva commentato. Testo verificato via endpoint pubblico di embed (cdn.syndication.twimg.com, utente fpietrosanti); tweet presente anche nel Web Archive (CDX).
 - 🆕 **2020-05-11** · Citato · afr.com (Australian Financial Review) — [The Spaniard with the hotline to Kim](https://www.afr.com/world/asia/north-korea-s-spaniard-in-the-works-20200511-p54rsn)  
   verified via wayback; context: …nvitation, except for journalists and residents of South Korea, Japan, and Israel. Eight foreigners attended, including Italian information-security specialist Fabio Pietrosanti. He says the two-day event was strange: Th…
+- 🆕 **2020-05-09** · Talk · pr-foundation.org — [La nostra Fondazione contribuisce al convegno online "Gli Anticorpi del Futuro" del Foglio Quotidiano (9 maggio 2020)](http://www.pr-foundation.org/la-nostra-fondazione-contribuisce-al-convegno-online-gli-anticorpi-del-futuro-del-foglio-quotidiano/)  
+  verified via wayback; context: …attiva e open data, Comune di Milano Mattia Mor, Italia Viva Antonio Nicita, Commissione per le Infrastrutture e le Reti, AGCOM Antonio Palmieri, Forza Italia Fabio Pietrosanti, Founder, Hermes Center for Transparency an… | relatore (Founder, Hermes Center) al convegno online del Foglio, 09/05/2020
 - 🆕 **2020-05-06** · pagina · Associazione Luca Coscioni — [Coronavirus: ascolta tutti i podcast!](https://www.associazionelucacoscioni.it/notizie/comunicati/coronavirus-ascolta-tutte-le-interviste-in-podcast)  
   Pagina indice dei podcast Coscioni. Voce: 'Coronavirus: cos'è e come funziona il contact tracing? Grazie a Fabio Pietrosanti presidente del Centro Hermes e Riccardo Coluccini...', che copre il contact tracing con bluetooth o celle telefoniche in Corea del Sud e Singapore. L'episodio Spreaker è già noto, questa pagina no. Data incerta (il primo tag <time> riporta 2020-05-06).
 - 🆕 **2020-05-04** · Menzionato · Bloomberg Businessweek, 2020-05-04 issue — [The Road to Pyongyang Starts in Spain (print title, contents p.44; online: Wanna Do Business in Pyongyang? Call North Korea's Guy in Spain) — Josh Dean](https://archive.org/details/business-week_2020-05-04)  
@@ -2360,8 +2362,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2001** · Progetto · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) _(non verificato)_  
   Association he co-founded; site offline and the Wayback Machine was down during this research
 
-## 2000 — 16 voci, 13 nuove
+## 2000 — 18 voci, 15 nuove
 
+- 🆕 **2000-12** · Menzionato · variotdbs.pl — [VARIoT vulnerability VAR-200012-0088](https://www.variotdbs.pl/vuln/VAR-200012-0088/)  
+  verified via live; context: …ust: 0.6 url: http://xforce.iss.net/static/5646.php Trust: 0.6 sources: VULHUB: VHN-2597 // CNNVD: CNNVD-200012-075 // NVD: CVE-2000-1027 CREDITS Discovered by Fabio Pietrosanti (naif) <naif@inet.it>. Posted to Bugtraq o… | scheda CVE-2000-1027, credits a Fabio Pietrosanti (naif)
 - 🆕 **2000-11-09** · Ricerca · vuln-dev — [Re: Possible DOS in Bind 8.2.2-P5](https://seclists.org/vuln-dev/2000/Nov/95)  
   Follow-up in the BIND DoS thread
 - 🆕 **2000-11-08** · Ricerca · vuln-dev — [Possible DOS in Bind 8.2.2-P5](https://seclists.org/vuln-dev/2000/Nov/82)  
@@ -2372,6 +2376,8 @@ Anni senza nessun risultato: nessuno
   vecna thanks naif for help with the FreeBSD 4.0 kernel module
 - 🆕 **2000-11-03** · Menzionato · BFi n.9 — [LibVSK - librerie per il controllo del traffico a userlevel (vecna)](https://www.s0ftpj.org/bfi/online/bfi9/BFi09-11)  
   naif listed in greetings
+- 🆕 **2000-11** · Menzionato · exploit-db.com — [Cisco PIX Firewall 5.2 - PASV Mode FTP Internal Address Disclosure](https://www.exploit-db.com/exploits/20369)  
+  verified via wayback; context: …Exploit-DB Exploit-DB History FAQ Search Cisco PIX Firewall 5.2 - PASV Mode FTP Internal Address Disclosure EDB-ID: 20369 CVE: 2000-1027 EDB Verified: Author: Fabio Pietrosanti Type: remote Exploit: / Platform: Hardware … | copia exploit-db dell'advisory CVE-2000-1027 (Author: Fabio Pietrosanti)
 - ↺ **2000-11** · Ricerca · SecurityFocus BID 1923 — [ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)](https://www.securityfocus.com/bid/1923) _(non verificato)_  
   BID linked from his site; his name isn't shown on the BID summary page
 - 🆕 **2000-10-03** · Ricerca · Bugtraq — [Cisco PIX Firewall allow external users to discover internal IPs](https://seclists.org/bugtraq/2000/Oct/46)  
@@ -2471,6 +2477,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · pressgazette.co.uk — [Chance for Europe to protect whistleblowers and fight corruption after Football Leaks source charged](https://pressgazette.co.uk/comment-analysis/chance-for-europe-to-protect-whistleblowers-and-fight-corruption-after-football-leaks-source-charged/)
 - 🆕 Menzionato · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (2)](https://www.exploit-db.com/exploits/21747)
 - 🆕 Menzionato · pr-foundation.org — [La nostra Fondazione sospende le attività a seguito del lockdown per la pandemia - P&R Foundation](http://www.pr-foundation.org/la-nostra-fondazione-sospende-le-attivita-seguito-del-lockdown/)
+- 🆕 Menzionato · juniper.net — [SMB:EXPLOIT:SMBDIE](https://www.juniper.net/us/en/threatlabs/ips-signatures/detail.SMB:EXPLOIT:SMBDIE.html)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

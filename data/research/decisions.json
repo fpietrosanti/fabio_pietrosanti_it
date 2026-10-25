@@ -926,6 +926,22 @@
   {
    "url": "https://www.radioradicale.it/scheda/438714/conoscenza-frontiera-digitale-radicale-tutto-quello-che-non-sai-vedere-non-devi-capire/stampa-e-regime",
    "reason": "2026-10-25: sottopagina (rubrica 'Stampa e regime') della scheda 438714 già in archivio → alias, non una voce"
+  },
+  {
+   "url": "https://www.schneier.com/blog/archives/2012/08/cryptocat.html",
+   "reason": "2026-10-25: commento di Fabio sotto il post di Schneier (come forum/mailing list), non una pubblicazione; stessa regola dei commenti Schneier 2010"
+  },
+  {
+   "url": "https://it.wikipedia.org/wiki/GlobaLeaks",
+   "reason": "2026-10-25: versione italiana della voce Wikipedia GlobaLeaks, già in archivio in inglese (stessa regola delle versioni linguistiche)"
+  },
+  {
+   "url": "https://github.com/globaleaks/globaleaks-whistleblowing-software/blob/stable/AUTHORS",
+   "reason": "2026-10-25: file AUTHORS del repository GlobaLeaks (sorgente del progetto), non una pubblicazione né una citazione stampa"
+  },
+  {
+   "url": "https://www.festivaldelgiornalismo.com/speaker/giovanni-pellerano",
+   "reason": "2026-10-25: pagina speaker di Giovanni Pellerano; la sessione IJF18 'Privacy nightmare Italia' è già in archivio"
   }
  ],
  "override": [

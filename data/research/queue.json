@@ -2659,51 +2659,115 @@
     },
     {
       "query": "\"Pietrosanti\" \"Linux&C\" OR \"Linux Magazine\" OR \"Linux Pro\" 2001 OR 2002 OR 2003 OR 2004",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati"
+      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati",
+      "date": "2026-10-25",
+      "found": 6
     },
     {
       "query": "\"Fabio Pietrosanti\" 1999 OR 2000 OR 2001 hacker \"sicurezza\" articolo OR intervista",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati"
+      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"naif\" \"Fabio Pietrosanti\" phrack OR \"bugtraq advisory\" OR exploit 2000 OR 2001 OR 2002",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati"
+      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Pietrosanti\" \"Business Online\" OR \"Computerworld\" OR \"ZeroUno\" sicurezza 2005 OR 2006 OR 2007",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati"
+      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" 2008 \"Khamsa\" OR \"crittografia mobile\" OR \"GSM cifrato\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati"
+      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati",
+      "date": "2026-10-25",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" 2023 GlobaLeaks OR \"Hermes\" convegno OR webinar OR relatore",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati"
+      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" 2024 OR 2025 relatore OR speaker OR panel whistleblowing OR \"open source\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati"
+      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati",
+      "date": "2026-10-25",
+      "found": 10
     },
     {
       "query": "\"Pietrosanti\" GlobaLeaks \"Il Manifesto\" OR \"Avvenire\" OR \"Il Post\" OR \"Domani\" OR \"Open\"",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati",
+      "date": "2026-10-25",
+      "found": 9
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Cisco PIX\" OR NetBIOS OR SMB advisory OR vulnerability 2000 OR 2001 OR 2002",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 00:33: coda esaurita; anni deboli 1998-2008 e 2023-2025 (copertura media.json), angoli non ancora usati"
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+    },
+    {
+      "query": "\"Pietrosanti (naif)\" CVE OR vulnerability OR credits",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+    },
+    {
+      "query": "\"Pietrosanti\" \"I.NET\" sicurezza OR hacker 1999 OR 2000 OR 2001 OR 2002",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Immuni OR \"contact tracing\" OR \"app di tracciamento\" 2020",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Il Foglio\" OR Formiche OR Key4biz 2020 OR 2021",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Tor2web 2008 OR 2009 OR 2010 intervista OR articolo",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" ITASEC OR \"Cybersec\" OR \"Cyber Security Forum\" 2021 OR 2022",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" webinar OR \"diretta\" 2021 OR 2022 privacy OR whistleblowing OR \"software libero\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 04:33: coda esaurita; filoni produttivi di oggi (schede CVE/database vulnerabilità 2000-02, convegni online 2020) + anni 2008-10 e 2020-22"
     }
   ],
   "history": [
@@ -3519,6 +3583,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (VoIP 2006-07, Infosecurity/Smau 2004-06, naif/Moby/Antifork/Winston Smith 2003-04, decreto whistleblowing 2023-24, podcast 2024-25, Centro Hermes 2025, PrivateWave 2009-11, GlobaLeaks sui quotidiani nazionali) senza robot check, estraendo gli URL subito dopo ogni ricerca: 61 risultati, 51 URL distinti. Scartati senza verifica: LinkedIn ×3 (social), hyperkitty nexa ×2 e seclists fulldisclosure (mailing list), forum.italia.it (forum), dicorinto tag/page/tipologia e raiplaysound pagina programma (indici), infosecurity.ch (sito proprio), profilo SlideShare, allegato trasparenza uniroma3 (atto amministrativo, URL senza parametri). 42 candidati verificati: 34 respinti o già in archivio (nome assente, JS, PDF senza il nome; uniparthenope FAIL). 8 OK dallo script ma nessuno nuovo: 6 già in archivio o già esclusi (Presi per il Web 464793, ITASEC20 pt2, Schneier ×2 commenti, RR 316486 e SlideShare trust già esclusi); 2 nuove esclusioni in decisions.json: poetare.it ('naif' aggettivo) e sottopagina 'stampa-e-regime' della scheda RR 438714 (alias). File grezzo della passata lasciato vuoto per non sovrascrivere la nota migliore di 464793. Nessuna nuova copia (archive_copies: pending 0). Rendimento nullo per il terzo giro su cinque: le query su anni deboli ripescano voci note. Coda esaurita: aggiunte 8 query (riviste 2001-07, advisory 2000-02, Khamsa 2008, relatore 2023-25, quotidiani non ancora provati)."
+    },
+    {
+      "date": "2026-10-25 04:33",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 4,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (riviste Linux 2001-04, hacker 1999-2001, naif/advisory 2000-02, Business Online/Computerworld/ZeroUno 2005-07, Khamsa 2008, relatore 2023 e 2024-25, GlobaLeaks sui quotidiani non ancora provati) senza robot check, estraendo gli URL subito dopo ogni ricerca (query string tolte: un URL vulmon non recuperabile): 74 risultati, 65 distinti. Scartati senza verifica: LinkedIn ×5 (social), seclists ×2, hyperkitty nexa, lists.python.it (mailing list), forum.italia.it (forum), infosecurity.ch ×3 (sito proprio), indici dicorinto/poul/ilsole24ore tag. 48 candidati verificati: 34 respinti o già in archivio (nome assente, PDF senza il nome; dokumen.pub FAIL). 14 OK dallo script: 5 già esclusi in decisions.json (scribd 777154998, slideshare tesi X509, pr-foundation /content/, sushi.apogeonline alias, moca2016 /it/employees); 4 nuove esclusioni (commento Schneier Cryptocat 2012, it.wikipedia GlobaLeaks = versione linguistica, file AUTHORS GitHub, pagina speaker IJF Pellerano = alias); monitor-radiotv monitor287.pdf tolto come non verificato (match solo su flusso binario compresso, PDF 59 MB non scaricato) — da ricontrollare a mano se serve. 4 nuove voci: exploit-db 20369 (Cisco PIX PASV, CVE-2000-1027, autore), VARIoT VAR-200012-0088 (credits 'Fabio Pietrosanti (naif)'), firma IPS Juniper SMB:EXPLOIT:SMBDIE (cita il suo workaround), P&R Foundation 'Gli Anticorpi del Futuro' (convegno online del Foglio, 09/05/2020, relatore come Founder Hermes Center). 4 nuove copie offline (3 wayback, 1 live). Coda esaurita: aggiunte 8 query (CVE/vuln DB 2000-02, I.NET 1999-2002, Immuni 2020, Foglio/Formiche/Key4biz 2020-21, Tor2web 2008-10, ITASEC/Cybersec 2021-22, webinar 2021-22)."
     }
   ]
 }

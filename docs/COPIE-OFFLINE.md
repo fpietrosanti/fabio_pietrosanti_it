@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1202**; già processate: **1379**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1015** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1140**
+- Voci in `data/media.json`: **1206**; già processate: **1383**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1019** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1144**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **3**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -21,11 +21,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 69 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 70 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2000 | 16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2000 | 18 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2001 | 17 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2002 | 21 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -45,7 +45,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 85 | 5 | 1 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 89 | 3 | 0 | 0 | 0 | 0 | 2 |
-| 2020 | 171 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 172 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 82 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 56 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
@@ -377,6 +377,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · infonodes.org — [info.nodes: Fabio Pietrosanti socio fondatore e tesoriere](https://www.infonodes.org/) · copia: `undated/6832dd803efb` (live) · licenza: terzi
 - **None** · journalismfestival.com — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/0/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `undated/090766fb9138` (live) · licenza: terzi
 - **None** · journalismfestival.com — [Wiretappings and secure communications](https://www.journalismfestival.com/programme/2018/intercettazioni-e-comunicazioni-confidenziali) · copia: `undated/0b92a888c870` (live) · licenza: terzi
+- **None** · juniper.net — [SMB:EXPLOIT:SMBDIE](https://www.juniper.net/us/en/threatlabs/ips-signatures/detail.SMB:EXPLOIT:SMBDIE.html) · copia: `undated/fc261c65861d` (Web Archive 20251113) · licenza: terzi
 - **None** · milanotoday.it — [Due giorni di informatica forense a Milano con IISFA Forum](https://www.milanotoday.it/cronaca/informatica-forense-iisfa-forum.html) · copia: `undated/e999cc09dfb8` (Web Archive 20170516) · licenza: terzi
 - **None** · osservatoriorepressione.info — [Caro abbonato, risulta che stai partecipando agli scontri - Osservatorio Repressione](https://www.osservatoriorepressione.info/caro-abbonato-risulta-che-stai-partecipando-agli-scontri/) · copia: `undated/137f2180e1ce` (Web Archive 20210928) · licenza: terzi
 - **None** · pr-foundation.org — [La ministra Pisano al Cenacolo degli Innovatori - P&R Foundation](https://www.pr-foundation.org/la-ministra-pisano-al-cenacolo-degli-innovatori/) · copia: `undated/8dcd131185f0` (Web Archive 20210619) · licenza: terzi
@@ -413,12 +414,14 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2000** · vuln-dev — [Possible DOS in Bind 8.2.2-P5](https://seclists.org/vuln-dev/2000/Nov/82) · copia: `2000/97603aee3609` (Web Archive 20130810) · licenza: propria
 - **2000** · vuln-dev — [Re: Possible DOS in Bind 8.2.2-P5](https://seclists.org/vuln-dev/2000/Nov/95) · copia: `2000/c9c2a4c3b033` (Web Archive 20130810) · licenza: propria
 - **2000** · SANS GIAC (GSEC practical assignment) — [An Elementary Introduction to Sendmail (Jay Coleson)](https://web.archive.org/web/20040727111838/http://www.giac.org/practical/Jay_Coleson_GSEC.doc) · copia: `2000/45b44771cd10` (Web Archive 20040727) · licenza: terzi
+- **2000** · exploit-db.com — [Cisco PIX Firewall 5.2 - PASV Mode FTP Internal Address Disclosure](https://www.exploit-db.com/exploits/20369) · copia: `2000/8a3873a84441` (Web Archive 20241210) · licenza: terzi
 - **2000** · Hackmeeting 2000 (Hackit00), Roma, Forte — [Letteratura Cyberpunk (seminar proposal)](https://www.hackmeeting.org/hackit00/proposte/letteratura.html) · copia: `2000/b60fa4817340` (live) · licenza: terzi
 - **2000** · BFi n.9 — [Intercettazione delle password inserite senza terminal echo via KLD (vecna)](https://www.s0ftpj.org/bfi/online/bfi9/BFi09-08) · copia: `2000/9d3d9196b2ee` (Web Archive 20010825) · licenza: terzi
 - **2000** · BFi n.9 — [LibVSK - librerie per il controllo del traffico a userlevel (vecna)](https://www.s0ftpj.org/bfi/online/bfi9/BFi09-11) · copia: `2000/cf685c3b0020` (Web Archive 20010707) · licenza: terzi
 - **2000** · SecurityFocus BID 1335 — [3R Soft MailStudio 2000 vulnerabilities (BID 1335, CVE-2000-0526)](https://www.securityfocus.com/bid/1335) · copia: `2000/feef32d91561` (Web Archive 20010702) · licenza: propria
 - **2000** · SecurityFocus BID 1698 — [Cisco PIX Firewall SMTP content filtering evasion (BID 1698, CVE-2000-1022)](https://www.securityfocus.com/bid/1698) · copia: `2000/df3d82682711` (Web Archive 20010312) · licenza: propria
 - **2000** · SecurityFocus BID 1923 — [ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)](https://www.securityfocus.com/bid/1923) · copia: `2000/6cf7ea802347` (Web Archive 20010222) · licenza: propria
+- **2000** · variotdbs.pl — [VARIoT vulnerability VAR-200012-0088](https://www.variotdbs.pl/vuln/VAR-200012-0088/) · copia: `2000/603a04c60527` (live) · licenza: terzi
 - **2001** · AntiKrimen Expo 2001 - Area Sicurezza In — [Storia e psicologia Hacker](http://fabio.pietrosanti.it/) · copia: `2001/b17e2e712c2e` (Web Archive 20030214) · licenza: propria
 - **2001** · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) · copia: `2001/708cc48ca841` (Web Archive 20020204) · licenza: propria
 - **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 - 'Suggerimenti di...' (hall of fame)](http://www.pluto.it/files/ildp/LDR/ldr21.html) · copia: `2001/581a4a985147` (Web Archive 20060517) · licenza: terzi
@@ -1152,6 +1155,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · MIT Technology Review — [A blockchain expert is accused of helping North Korea's leaders. But what would they want ](https://www.technologyreview.com/2019/12/05/106/virgil-griffith-north-korea-ethereum/) · copia: `2019/a361e5b7452c` (Web Archive 20200808) · licenza: terzi
 - **2019** · Ciao Internet - Matteo Flora (YouTube) — [511. Voto Online? No, grazie, e ti spiego perché...](https://www.youtube.com/watch?v=KFAs4CrgMhE) · copia: `2019/26f28fdcd90f` (Web Archive 20190313 · video locale `media.mp4` (54 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · giovanni-rocca.com — [LAZIOdrCOVID: a 30 minutes audit to blow up the castle](http://www.giovanni-rocca.com/laziodrcovid-a-30-minutes-audit-to-blow-up-the-castle/) · copia: `2020/355b38e1ace5` (Web Archive 20200329) · licenza: propria
+- **2020** · pr-foundation.org — [La nostra Fondazione contribuisce al convegno online "Gli Anticorpi del Futuro" del Foglio](http://www.pr-foundation.org/la-nostra-fondazione-contribuisce-al-convegno-online-gli-anticorpi-del-futuro-del-foglio-quotidiano/) · copia: `2020/2a22f167518d` (Web Archive 20210619) · licenza: terzi
 - **2020** · Veronica One / V1 HitStation (radioveron — [M5S, hacker a parlamentari: “Ecco Open Rousseau, così sarete liberi”](http://www.radioveronicaone.it/2020/10/01/m5s-hacker-a-parlamentari-ecco-open-rousseau-cosi-sarete-liberi/) · copia: `2020/a633ac33c593` (Web Archive 20210423) · licenza: terzi
 - **2020** · ITASEC 2020 (Conferenza italiana sulla c — [Il giornalismo e la protezione delle fonti nel mondo digitale | Parte I](https://2020.itasec.it/ITASEC20/il-giornalismo-e-la-protezione-delle-fonti-nel-mondo-digitale-pt1/) · copia: `2020/e9cbcb9c0018` (live) · licenza: terzi
 - **2020** · ITASEC 2020 (Conferenza italiana sulla c — [Il giornalismo e la protezione delle fonti nel mondo digitale | Parte I](https://2020.itasec.it/ITASEC20/il-giornalismo-e-la-protezione-delle-fonti-nel-mondo-digitale-pt2/) · copia: `2020/ef44ac2189e3` (live) · licenza: terzi
