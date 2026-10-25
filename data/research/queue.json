@@ -2851,51 +2851,115 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" 2003 OR 2004 \"Punto Informatico\" OR \"Zeus News\" OR \"HTML.it\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati",
+      "found": 9,
+      "date": "2026-10-25 16:33"
     },
     {
       "query": "\"Pietrosanti\" wardriving OR \"wireless\" OR \"Wi-Fi\" sicurezza 2003 OR 2004 OR 2005",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati",
+      "found": 10,
+      "date": "2026-10-25 16:33"
     },
     {
       "query": "\"Fabio Pietrosanti\" intercettazioni OR Telecom OR \"Tavaroli\" 2006 OR 2007 OR 2008",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati",
+      "found": 10,
+      "date": "2026-10-25 16:33"
     },
     {
       "query": "\"Fabio Pietrosanti\" whistleblowing \"Italia Oggi\" OR Altalex OR \"Il Sole 24 Ore\" 2023 OR 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati",
+      "found": 7,
+      "date": "2026-10-25 16:33"
     },
     {
       "query": "\"Fabio Pietrosanti\" GlobaLeaks interview OR podcast 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati",
+      "found": 9,
+      "date": "2026-10-25 16:33"
     },
     {
       "query": "\"Fabio Pietrosanti\" \"sovranità digitale\" OR \"cloud\" OR \"PA\" 2025 OR 2026",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati",
+      "found": 10,
+      "date": "2026-10-25 16:33"
     },
     {
       "query": "\"Pietrosanti\" aeroporto Latina OR comitato 2026",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati",
+      "found": 8,
+      "date": "2026-10-25 16:33"
     },
     {
       "query": "\"naif\" \"Pietrosanti\" Smau OR Webbit OR \"Infosecurity\" 2004 OR 2005 OR 2006 OR 2007 OR 2008",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati",
+      "found": 10,
+      "date": "2026-10-25 16:33"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" RightsCon OR \"re:publica\" OR \"Internet Freedom Festival\" OR MozFest",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-25 12:33: coda esaurita; anni deboli (2003-08, 2023-25) e filoni non ancora interrogati"
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" netzpolitik OR heise OR golem OR \"Zeit Online\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" La7 OR Piazzapulita OR \"Le Iene\" OR \"Striscia\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" TEDx OR keynote OR \"tavola rotonda\" 2016 OR 2017 OR 2018",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Espresso\" OR \"Repubblica\" OR \"Il Fatto Quotidiano\" 2016 OR 2017 OR 2018 OR 2019",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+    },
+    {
+      "query": "\"Pietrosanti\" Tor onion OR \"hidden service\" 2011 OR 2012 OR 2013 OR 2014",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+    },
+    {
+      "query": "\"Pietrosanti\" GlobaLeaks tesi OR \"tesi di laurea\" OR \"elaborato finale\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Leaks OR \"Wikileaks\" 2010 OR 2011 OR 2012 intervista",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-25 16:33: coda esaurita; filoni ancora non interrogati (eventi internazionali, stampa tedesca, TV, 2016-19, tesi italiane)"
     }
   ],
   "history": [
@@ -3735,6 +3799,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (1998-99 IRC/Azzurra, Hackit/hackmeeting 1999-2003, Metro Olografix/Openlabs 2002-03, whistleblowing PA/ANAC 2023-25, AI/AI Act 2023-25, biohacking/longevità 2025-26, Whistleblowing Solutions, voto elettronico 2023-25) senza robot check: 75 risultati, 69 URL distinti (query string tolte su 3: un allegato principigrimaldi.edu.it non recuperabile). Scartati senza verifica: LinkedIn/Facebook/Instagram/x.com (social), seclists/hyperkitty nexa/lists.autistici (mailing list), siti propri (biohack.it, hackingbiology.com), indici (dicorinto tag/page/tipologia, raiplaysound pagina programma, pr-foundation /content/), visura Whistleblowing Solutions (atto societario), dizionario Oxford e paperspast (omonimia/aggettivo), alessandrorodolfi.org. 40 candidati verificati: 31 respinti o già in archivio (nome assente; researchgate FAIL). 9 OK dallo script, nessuno nuovo: 3 già esclusi (moca2016 /it/employees, consorzio-cini 1349, speaker Ziccardi IJF); 6 nuove esclusioni in decisions.json (edueda e zero.eu = 'naif' aggettivo; personaldemocracy speakers page 21, puntosicuro indice pag. 20, brochure IJF18 issuu = alias di voci note; radioradicale 377967 = solo colonna correlati). File grezzo della passata lasciato vuoto. Nessuna nuova copia (archive_copies: pending 0). Rendimento nullo: i filoni sono saturi, Google ripesca voci note. Coda esaurita: aggiunte 8 query (2003-08 riviste/wireless/intercettazioni/Smau, 2023-26 whistleblowing stampa economica, GlobaLeaks in inglese, sovranità digitale, aeroporto Latina)."
+    },
+    {
+      "date": "2026-10-25 16:33",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 0,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (Punto Informatico/Zeus News 2003-04, wireless 2003-05, intercettazioni/Telecom 2006-08, whistleblowing su stampa economica 2023-25, GlobaLeaks interview/podcast 2024-25, sovranità digitale 2025-26, aeroporto Latina 2026, naif Smau/Webbit/Infosecurity 2004-08) senza robot check: 73 risultati, 65 URL distinti (query string tolte; Zeus News n.php?c=25616 ricostruito dal parametro letto in pagina, partecipa.gov.it e gruppobcciccrea non recuperabili). Scartati senza verifica: LinkedIn/x.com/Instagram (social), seclists/hyperkitty nexa/pipermail (mailing list), forum.italia.it (forum), infosecurity.ch e repo GitHub aeroportodilatina (siti propri), indici (dicorinto tag, pr-foundation /content/, puntosicuro sommario/page-20, dalchecco tag, partecipa.gov.it), zh.wikipedia/wikiwand (versioni linguistiche), amazon author store, it.wikipedia Latina, radioradicale 800076 sottopagina 'stampa-e-regime', SR2026 Agenzia Entrate, alessandrorodolfi.org. 30 candidati verificati: 27 respinti o già in archivio (nome assente; researchgate/academia/elgaronline FAIL). 3 OK dallo script, nessuno nuovo: scribd 777154998 e commento Schneier 2010 già esclusi; slideshare 'Aspetti di sicurezza dei protocolli Wireless' = variante www della slide già esclusa (pt.slideshare), aggiunta in decisions.json. File grezzo della passata lasciato vuoto. Nessuna nuova copia (archive_copies: pending 0). Rendimento nullo per il secondo giro consecutivo. Coda esaurita: aggiunte 8 query (eventi internazionali, stampa tedesca, TV La7, relatore 2016-18, quotidiani 2016-19, Tor onion 2011-14, tesi di laurea, Wikileaks 2010-12)."
     }
   ]
 }
