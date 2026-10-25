@@ -52,8 +52,13 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **198 file, 50,6 GB**. Su Drive al 2026-10-24: **27 file** (`data/drive_links.json`);
-  mancano **172 file** (~45 GB).
+- Da caricare in tutto: **200 file, 52,2 GB**. Su Drive al 2026-10-25: **36 file** (`data/drive_links.json`);
+  mancano **165 file** (~45 GB).
+- Notte 2026-10-25 (01:07–05:37, con il passaggio all'ora solare): caricati 9 file, ~0,50 GB. Primo giro
+  250–310 KiB/s fino alle 03:00 circa, poi in calo fino a uno stallo a 0 B/s dalle 04:00 (rete ok, API Drive
+  raggiungibile); rclone fermato alle 04:18 (persi ~2,5 GB di trasferimenti parziali di file grandi), rilancio
+  subito ripartito a 200–300 KiB/s con 4 file in più; fermato a mano alle 05:37. Nessun errore di quota.
+  Copie leggere pubblicate: 1120 voci, 442 MB in `copies/`.
 - Notte 2026-10-24 (01:07–06:40): caricati 12 file, ~2,3 GB. Velocità 110–270 KiB/s, nessuno stallo a 0 B/s e
   nessun errore di quota; rclone fermato a mano alle 06:40 (persi i trasferimenti parziali in corso), poi
   `drive_sync.py` ha registrato da solo i link (exit 2). Copie leggere pubblicate: 1105 voci, 433 MB in `copies/`.
@@ -61,7 +66,7 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   all'arresto). Velocità 70–250 KiB/s; dalle 04:55 stallo a 0 B/s per ~45 minuti, quindi rclone fermato a
   mano alle 05:40 e link registrati con `--links-only`. Copie leggere pubblicate: 1071 voci, 427 MB in `copies/`.
 - Notte 2026-10-22 (01:07–06:00): caricati 8 file, ~0,5 GB, con stalli simili.
-- Spazio su Drive: 75 GB totali, **62,5 GiB liberi** al 2026-10-24.
+- Spazio su Drive: 75 GB totali, **62,1 GiB liberi** al 2026-10-25.
 
 ### Problemi aperti dell'upload
 - **Banda in upload bassissima** dal computer (60–250 KiB/s, stalli ricorrenti a 0 B/s verso le 05:00; la rete risponde, ping 19 ms): verificare la linea
@@ -72,6 +77,8 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   (processo rimasto orfano): da indagare, per ora si chiude rclone a mano e si usa `--links-only`.
   Il 2026-10-24, con `drive_sync.py` lanciato in background da Bash (non scollegato), lo stop manuale di rclone
   ha funzionato in modo pulito: lo script ha proseguito da solo con lsjson e link.
+- Lo stallo notturno a 0 B/s si risolve rilanciando `drive_sync.py` (verificato il 2026-10-25): conviene
+  fermare e rilanciare dopo ~15 minuti di stallo invece di aspettare.
 - La sessione notturna lascia ~1 GB di trasferimenti parziali a ogni stop manuale: con 4 transfer paralleli
   a ~150 KiB/s ogni file grande resta a metà. Valutare `--transfers 2` o l'upload dal server.
 
