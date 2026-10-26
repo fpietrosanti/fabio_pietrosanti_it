@@ -1,0 +1,448 @@
+Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss 
+
+ Dr. Datenschutz - Aktuelles zu Datenschutz, Recht und IT 
+
+ Suche nach: 
+
+ Springe zum Inhalt 
+
+ Toggle navigation 
+
+ Menu 
+
+ Suche nach: 
+
+ Home 
+
+ News 
+
+ Fachbeiträge 
+
+ Urteile 
+
+ About | 
+
+ Beitragsübersicht | 
+
+ Kommentare | 
+
+ DSGVO 
+
+ Für wen gilt die DSGVO? 
+
+ Wo gilt die DSGVO? 
+
+ Datenschutz-Folgenabschätzung 
+
+ Sanktionen 
+
+ Gesetzestext 
+
+ Website 
+
+ Datenschutzerklärung 
+
+ Impressum 
+
+ Google Analytics 
+
+ Kontaktformulare 
+
+ Cookies 
+
+ IP-Adresse 
+
+ Marketing 
+
+ Daten für Werbezwecke 
+
+ E-Mail-Werbung 
+
+ Newsletter für Kinder 
+
+ Marktforschung 
+
+ Gewinnspiele 
+
+ Unternehmen 
+
+ Datenschutzbeauftragter 
+
+ Beschäftigtendatenschutz 
+
+ Videoüberwachung 
+
+ Auftragsverarbeitung 
+
+ Zertifizierung 
+
+ Datensicherheit 
+
+ Dokumente 
+
+ Datenschutzmanagement 
+
+ Verzeichnis von Verarbeitungstätigkeiten 
+
+ Verpflichtung Datengeheimnis 
+
+ Löschkonzept 
+
+ Social Media Guidelines 
+
+ Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss
+
+ 27. Mai 2021 | 
+ Noch kein Kommentar 
+ | 
+
+ Von  Dr. Datenschutz 
+
+ News 
+
+ Der Einsatz von Gesichtserkennungssoftware ist ein Dauerbrenner in der datenschutzrechtlichen Diskussion. Nun regt sich zeitgleich prominenter Widerstand gegen zwei bereits im vergangenen Jahr in die Kritik geratene Dienste. 
+
+ Dr. Brink und Max Schrems im Duett
+
+ Der baden-württembergische Landesbeauftragte für den Datenschutz und die Informationsfreiheit, Dr. Stefan Brink, hat laut seiner Pressemitteilung ein Verfahren gegen das Unternehmen PimEyes eröffnet. Ebenfalls teilte die von Max Schrems gegründete Organisation noyb mit, dass sie und weitere europäische Digital Rights Organisationen Beschwerden gegen die Massenüberwachung durch das Unternehmen Clearview AI eingereicht haben.
+
+ PimEyes – massenhafte Scans von Gesichtern im Netz
+
+ Bei PimEyes handelt es sich um eine ursprünglich in Polen entwickelte Gesichter-Suchmaschine. Wie Recherchen von netzpolitik.org im vergangenen Jahr aufgezeigt hatten, scannt das Unternehmen „massenhaft Gesichter im Internet nach individuellen Merkmalen“ und speichert biometrische Daten (Merkmale wie etwa die Gesichtsform, Augenfarbe, Augenabstand, Größe der Nase, Abstand von Mund zu Nase, etc.), mit denen sich jeder Mensch treffsicher identifizieren lässt.
+
+ Da der Dienst frei zugänglich ist, ermöglicht er es jedem Internetnutzer, das Foto einer Person hochzuladen und sich dann anzeigen zu lassen, wo im Netz überall dieses Gesicht bereits zu finden ist. Das umfasst eigene oder fremde Websites, nicht zuletzt aber auch Social-Media-Kanäle und andere, öffentliche zugängliche Datensammlungen.
+
+ Art. 9 DSGVO verbietet jedoch grundsätzlich die „Verarbeitung von (…) biometrischen Daten zur eindeutigen Identifizierung einer natürlichen Person“ ohne passende Rechtsgrundlage. Da selbstverständlich weder  auf eine Einwilligung der Betroffenen, noch eine andere denkbare Rechtsgrundlage des Art. 9 Abs. 2 DSGVO zurückgegriffen werden konnte, dürfte es dem Dienst schwerfallen, eine Legitimation für sein Vorgehen zu finden.
+
+ Fragenkatalog auf die Seychellen
+
+ LfDI Brink hatte jedenfalls auch so seine Zweifel und schickte dem Unternehmen daher „einen umfangreichen Fragenkatalog, der innerhalb von vier Wochen zu beantworten ist“. Die Post ging dabei auf die Seychellen, wohin die Gründer den Firmensitz der verantwortlichen „Face Recognition Solutions Ltd.“ zwischenzeitlich verlegt haben.
+
+ Zuständigkeitsprobleme sieht der oberste Landesdatenschützer Baden-Württembergs insoweit aber nicht:
+
+ „Die Zuständigkeit des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg ergibt sich aufgrund von Artikel 55 Absatz 1 DSGVO in Verbindung mit § 40 BDSG , soweit eine Niederlassung in Europa nicht benannt ist.“
+
+ Droht der Verlust der Anonymität?
+
+ Die Datenverarbeitung von PimEyes birgt vor allem ein riesiges Missbrauchspotential, das wir hier bereits im vergangenen Jahr ausführlich beleuchtet haben. Der LfDI Baden-Württembergs spricht von nicht weniger als dem Verlust der Anonymität. Es könnte in der Tat ein einziges Foto ausreichen, um sich über PimEyes ein umfangreiches „Bild“ über einen beliebigen Betroffenen, sein soziales Umfeld, Hobbies, sonstige Vorlieben und letztlich sogar seine Identität zu machen.
+
+ „Alle Bürger_innen im Land werden sich künftig sorgen müssen, wenn ohne ihre Kenntnis Fotos von ihnen für alle – Nachbarn, Arbeitgeber, Behörden – einsehbar sind und auch in Drittstaaten fließen. Die Konsequenzen, die sich daraus ergeben, sind gefährlich für unsere Demokratie. Nicht nur das Recht der Bürger_innen auf informationelle Selbstbestimmung, sondern auch andere Grundfreiheiten werden dadurch bedroht. Es ist Zeit, hier für Klarheit zu sorgen.“
+
+ Dr. Stefan Brink, Landesbeauftragter für den Datenschutz und die Informationsfreiheit
+
+ Clearview AI: Max Schrems schreitet ein
+
+ Der Österreicher, der seit Inkrafttreten der DSGVO gefühlt mehr für die Sicherheit des internationalen Datenverkehrs erreicht hat als alle Datenschutzaufsichtsbehörden Europas zusammen, hat sich derweil einen anderen Gesichtserkennungsdienst vorgeknöpft.
+
+ Wie seine Organsation noyb mitteilte, haben „noyb und weitere europäische Digital Rights Organisationen Beschwerden gegen die Massenüberwachung durch das Unternehmen Clearview AI eingereicht“. Die in etwa inhaltsgleichen Beschwerden richten sich an die Datenschutzaufsichtsbehörden in Frankreich, Österreich, Italien, Griechenland und dem Vereinigten Königreich.
+
+ Mehr als 3 Milliarden „Gesichter“
+
+ Clearview AI, Inc. rühmt sich selbst damit, „ die größte bekannte Datenbank mit mehr als 3 Milliarden Gesichtsbildern“ zu besitzen. Zustande gekommen ist diese, ebenso wie bei PimEyes, durch das „scrapen“ des Internets. Die so gesammelten Fotos speichert der Dienst zusammen mit Metadaten (z.B. Geolokalisierung und Website von der das Bild stammt) auf scheinbar unbestimmte Zeit.
+
+ Anders als bei PimEyes ist die Datenbank nicht öffentlich aufrufbar. Sie wurde zunächst nur im Geheimen betrieben und vor allem staatlichen Strafverfolgungs- bzw. Überwachungsbehörden zur Verfügung gestellt . Seit Bekanntwerden seiner Tätigkeit ist Clearview AI auch in den Fokus europäischer Datenschutzaufsichtsbehörden geraten. So erließ etwa der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit im letzten Jahr einen sogenannten “Auskunftsheranziehungsbescheid” gegen Clearview AI .
+
+ Auch hier: keine Rechtsgrundlage
+
+ Die Beschwerdeführer sehen das Geschäftsmodell von Clearview im Widerspruch mit einigen der zentralen Regelungen und Grundsätze der DSGVO . Vor allem fehle es – wie bei PimEyes – bereits an einer Rechtsgrundlage für die Datenverarbeitung. Die Verarbeitung könne nicht auf berechtigte Interessen gestützt werden; Clearview verarbeite eben gerade auch besondere Kategorien personenbezogener Daten (Art. 9 DSGVO); zudem könne sich Clearview auch nicht darauf stützen, dass die verarbeiteten Daten (Fotos) von dem jeweiligen Betroffenen offensichtlich öffentlich gemacht worden seien.
+
+ Get out of our face, Clearview and PimEyes!
+
+ Mit dem aktuellen Vorgehen will das Bündnis aus fünf Datenschutzorganisationen der Zivilgesellschaft ein koordiniertes Vorgehen der Datenschutzaufsichtsbehörden der EU erwirken. Dem Unterfangen können durchaus Erfolgsaussichten eingeräumt werden. In diesem Zusammenhang sei auch nochmal auf die zivilgesellschaftliche Initiative „reclaim your face“ hingewiesen, die sogar noch einen Schritt weitergeht, und sämtliche biometrische Technologien in der europäischen Union strengerer Regulierung unterwerfen will.
+
+ Zudem ist anzunehmen, dass der Baden-Württembergische LfDI Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen.
+
+ Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligten Hermes Center, so treffend:
+
+ „Technologien zur Gesichtserkennung bedrohen unser Online- und Offline-Leben. Indem sie heimlich unsere biometrischen Daten sammeln, ermöglichen diese Technologien eine ständige Überwachung.“
+
+ Datenschutz Webinare 
+
+ Informieren Sie sich über unsere praxisnahen Webinare 
+
+ »Informationspflichten nach DSGVO«
+
+ »Auftragsverarbeitung kompakt«
+
+ »Microsoft 365 sicher gestalten«
+
+ Mit dem Code „Webinar2021B“ erhalten Sie 10% Rabatt, gültig bis zum 31.05.2021. 
+ Mehr erfahren 
+
+ Gefällt Ihnen der Beitrag? Dann freuen wir uns über eine Empfehlung:
+
+ teilen   
+ twittern   
+ teilen   
+ mitteilen   
+ teilen   
+ E-Mail   
+
+ Über den Autor 
+
+ Dr. Datenschutz 
+ Der Beitrag wurde von Dr. Datenschutz geschrieben. Unsere Mitarbeiter, dies sind in der Regel Juristen mit IT-Kompetenz, veröffentlichen Beiträge unter diesem Pseudonym. mehr → 
+
+ intersoft consulting services AG 
+ Als Experten für Datenschutz, IT-Sicherheit und IT-Forensik beraten wir deutschlandweit Unternehmen. Informieren Sie sich hier über unser Leistungsspektrum:
+
+ Externer Datenschutzbeauftragter 
+
+ Weitere Beiträge 
+
+ Datenweitergabe: 4.000 € Schadensersatz gegen Psychotherapeuten 
+
+ Ermittlungen gegen eigene Beschäftigte aus Unternehmenssicht 
+
+ Kampf gegen Coronavirus: Zugriff auf Smartphone-Standortdaten zulässig? 
+
+ OLG München zur DSGVO: Berechtigtes Interesse ist weit zu interpretieren 
+
+ IT-Forensik hilft Datendiebstahl durch Mitarbeiter aufzudecken 
+
+ DSGVO: Mit diesen 5 Schritten sind Unternehmen optimal vorbereitet 
+
+ Mehr zum Thema: Anonymität , Aufsichtsbehörde , besondere personenbezogene Daten , Gesichtserkennungssoftware , Rechtsgrundlage , Schrems 
+
+ Hinterlassen Sie einen Kommentar Antwort abbrechen 
+ Kommentar 
+ Die von Ihnen verfassten Kommentare erscheinen nicht sofort, sondern erst nach Prüfung und Freigabe durch unseren Administrator. Bitte beachten Sie auch unsere Nutzungsbedingungen und unsere Datenschutzerklärung .
+ Name / Pseudonym (Pflichtfeld) 
+
+ ﻿E-Mail (Pflichtfeld, wird nicht veröffentlicht) 
+
+ Website (optional) 
+
+ Haben Sie Themen- oder Verbesserungsvorschläge? Kontaktieren Sie uns anonym hier . 
+
+ Meistgelesen
+
+ Google Analytics datenschutzkonform einsetzen 
+
+ Personenbezogene Daten: Definition und praktische Beispiele 
+
+ Datenschutz? Ich hab‘ doch nix zu verbergen! 
+
+ Betrieblicher, interner und externer Datenschutzbeauftragter 
+
+ Dr. Datenschutz Podcast 
+
+ Wer schreibt hier
+
+ Wir beraten in den Bereichen Datenschutz, IT‑Sicherheit und IT‑Forensik. Als  externer Datenschutzbeauftragter unterstützen wir Unternehmen.
+
+ Folgen Sie uns
+
+ Newsletter
+
+ Bitte dieses Feld leer lassen alle News, Fachbeiträge und Urteile
+ täglich oder wöchentlich per E-Mail
+ kostenlos und jederzeit abbestellbar
+
+ Bitte wählen: Täglich Wöchentlich 
+
+ Ihre E-Mail-Adresse wird nicht an Dritte weitergegeben und zu keinem anderen Zweck verwendet. Ihre Einwilligung können Sie jederzeit widerrufen. Weitere Informationen finden Sie in unserer Datenschutzerklärung . 
+
+ Prüfen Sie bitte Ihren Posteingang und den Spamordner, um Ihr Abonnement zu bestätigen.
+
+ Expertise für Journalisten
+
+ Gern unterstützen wir Sie persönlich bei Recherchearbeiten, Interviews oder Kooperationen. Unsere Experten für Datenschutz und IT stehen Ihnen dafür mit großer Fachkenntnis als Ansprechpartner zur Verfügung.
+
+ Hier kontaktieren 
+
+ Wir suchen Juristen
+
+ Da wir kontinuierlich wachsen, sind wir regelmäßig auf der Suche nach Juristen für die Datenschutzberatung. Schauen Sie nach Stellenangeboten auf unserer Karriere-Seite und informieren Sie sich über unsere offene Firmenkultur.
+
+ Karriere-Seite öffnen 
+
+ Themen:
+ Bitte wählen Adresshandel 
+ Auftragsverarbeitung 
+ Beschäftigtendatenschutz 
+ Cookies 
+ Daten für Werbezwecke 
+ Datenschutzerklärung 
+ Datenschutz-Folgenabschätzung 
+ Datenschutzmanagement 
+ Datensicherheit 
+ DSGVO Gesetzestext 
+ DSGVO Sanktionen 
+ E-Mail-Werbung 
+ Für wen gilt die DSGVO? 
+ Gewinnspiele 
+ Google Analytics 
+ Impressum 
+ IP-Adresse 
+ Kontaktformulare 
+ Löschkonzept 
+ Marktforschung 
+ Newsletter für Kinder 
+ Social Media Guidelines 
+ Verpflichtung Datengeheimnis 
+ Verzeichnis von Verarbeitungstätigkeiten 
+ Videoüberwachung 
+ Wo gilt die DSGVO? 
+ Zertifizierung 
+
+ Archiv:
+ Archiv: 
+
+ Monat auswählen 
+ Mai 2021  (17) 
+ April 2021  (20) 
+ März 2021  (23) 
+ Februar 2021  (20) 
+ Januar 2021  (20) 
+ Dezember 2020  (19) 
+ November 2020  (21) 
+ Oktober 2020  (22) 
+ September 2020  (22) 
+ August 2020  (21) 
+ Juli 2020  (23) 
+ Juni 2020  (21) 
+ Mai 2020  (19) 
+ April 2020  (20) 
+ März 2020  (22) 
+ Februar 2020  (20) 
+ Januar 2020  (22) 
+ Dezember 2019  (17) 
+ November 2019  (21) 
+ Oktober 2019  (22) 
+ September 2019  (21) 
+ August 2019  (22) 
+ Juli 2019  (23) 
+ Juni 2019  (19) 
+ Mai 2019  (21) 
+ April 2019  (20) 
+ März 2019  (21) 
+ Februar 2019  (20) 
+ Januar 2019  (22) 
+ Dezember 2018  (16) 
+ November 2018  (22) 
+ Oktober 2018  (21) 
+ September 2018  (20) 
+ August 2018  (23) 
+ Juli 2018  (21) 
+ Juni 2018  (21) 
+ Mai 2018  (20) 
+ April 2018  (20) 
+ März 2018  (21) 
+ Februar 2018  (20) 
+ Januar 2018  (23) 
+ Dezember 2017  (20) 
+ November 2017  (22) 
+ Oktober 2017  (20) 
+ September 2017  (22) 
+ August 2017  (22) 
+ Juli 2017  (21) 
+ Juni 2017  (21) 
+ Mai 2017  (21) 
+ April 2017  (18) 
+ März 2017  (23) 
+ Februar 2017  (20) 
+ Januar 2017  (22) 
+ Dezember 2016  (22) 
+ November 2016  (22) 
+ Oktober 2016  (19) 
+ September 2016  (21) 
+ August 2016  (22) 
+ Juli 2016  (21) 
+ Juni 2016  (22) 
+ Mai 2016  (20) 
+ April 2016  (22) 
+ März 2016  (28) 
+ Februar 2016  (20) 
+ Januar 2016  (19) 
+ Dezember 2015  (20) 
+ November 2015  (21) 
+ Oktober 2015  (22) 
+ September 2015  (22) 
+ August 2015  (21) 
+ Juli 2015  (23) 
+ Juni 2015  (22) 
+ Mai 2015  (18) 
+ April 2015  (20) 
+ März 2015  (23) 
+ Februar 2015  (20) 
+ Januar 2015  (22) 
+ Dezember 2014  (22) 
+ November 2014  (20) 
+ Oktober 2014  (22) 
+ September 2014  (22) 
+ August 2014  (21) 
+ Juli 2014  (24) 
+ Juni 2014  (19) 
+ Mai 2014  (21) 
+ April 2014  (21) 
+ März 2014  (20) 
+ Februar 2014  (20) 
+ Januar 2014  (22) 
+ Dezember 2013  (21) 
+ November 2013  (21) 
+ Oktober 2013  (21) 
+ September 2013  (21) 
+ August 2013  (20) 
+ Juli 2013  (23) 
+ Juni 2013  (20) 
+ Mai 2013  (19) 
+ April 2013  (21) 
+ März 2013  (20) 
+ Februar 2013  (18) 
+ Januar 2013  (22) 
+ Dezember 2012  (20) 
+ November 2012  (22) 
+ Oktober 2012  (22) 
+ September 2012  (20) 
+ August 2012  (24) 
+ Juli 2012  (23) 
+ Juni 2012  (21) 
+ Mai 2012  (20) 
+ April 2012  (18) 
+ März 2012  (21) 
+ Februar 2012  (20) 
+ Januar 2012  (22) 
+ Dezember 2011  (22) 
+ November 2011  (20) 
+ Oktober 2011  (22) 
+ September 2011  (24) 
+ August 2011  (23) 
+ Juli 2011  (22) 
+ Juni 2011  (21) 
+ Mai 2011  (22) 
+ April 2011  (19) 
+ März 2011  (22) 
+ Februar 2011  (21) 
+ Januar 2011  (21) 
+ Dezember 2010  (23) 
+ November 2010  (24) 
+ Oktober 2010  (21) 
+ September 2010  (23) 
+ August 2010  (24) 
+ Juli 2010  (23) 
+ Juni 2010  (24) 
+ Mai 2010  (19) 
+ April 2010  (17) 
+ März 2010  (13) 
+ Februar 2010  (2) 
+ Januar 2010  (4) 
+
+ Kategorien:
+ Bitte wählen News 
+ Fachbeiträge 
+ Urteile 
+
+ Startseite | 
+
+ Impressum | 
+
+ Datenschutzerklärung | 
+
+ Cookie-Consent 
+
+ Wie gefällt Ihnen diese Website?
+
+ Bitte warten... 
+
+ © intersoft consulting services AG

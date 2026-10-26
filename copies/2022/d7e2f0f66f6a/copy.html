@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="it-IT">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Privacy e sicurezza del dato: l&#8217;approccio hacker &#8211; Ugo Lopez, Fabio Pietrosanti, Giacomo Tesio, Walter Vannini, Christian Bernieri &#8211; Linux Day Bari</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Linux Day Bari &raquo; Feed" href="https://linuxdaybari.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Linux Day Bari &raquo; Feed dei commenti" href="https://linuxdaybari.it/comments/feed/" />
+
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://linuxdaybari.it/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://linuxdaybari.it/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://linuxdaybari.it/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://linuxdaybari.it/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://linuxdaybari.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gutenbee-animations-css' href='https://linuxdaybari.it/wp-content/plugins/gutenbee/build/gutenbee.animations.css?ver=2.16.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-magnific-popup-css' href='https://linuxdaybari.it/wp-content/themes/projektor/inc/assets/vendor/magnific/magnific.min.css?ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='projektor-user-google-fonts-css' href='https://fonts.googleapis.com/css?family=Chakra+Petch%3A400%2C400i%2C700%7CZilla+Slab%3A700%2C400%2C400i%7CRoboto+Condensed%3A700%2C400%2C400i&#038;ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-css' href='https://linuxdaybari.it/wp-content/themes/projektor/inc/assets/vendor/fontawesome/css/all.min.css?ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='projektor-style-css' href='https://linuxdaybari.it/wp-content/themes/projektor/style.pkg.min.css?ver=1.5.3' type='text/css' media='all' />
+<style id='projektor-style-inline-css' type='text/css'>
+body { background-color: #fafafa; } a { color: #394d64; } a:hover { color: #c66161; } .ci-item-product .woocommerce-loop-product__title, .products > li .woocommerce-loop-product__title, .woocommerce-MyAccount-navigation .woocommerce-MyAccount-navigation-link a:hover, .product_list_widget .product-title a:hover, .elementor-widget-container .ci-item-product .woocommerce-loop-product_title, .entry-title a:hover, .entry-meta a, .entry-content blockquote:not(.ci-item-testimonial), .entry-content-intro:first-letter, .ci-item-title a, .ci-item-entry-title a:hover, .ci-single-meta-item-title, .cics-sessions a.cics-session-title, .ci-contact-widget-item i, .ci-widget-item-title a, .widget_meta li a:hover, .widget_pages li a:hover, .widget_categories li a:hover, .widget_archive li a:hover, .widget_nav_menu li a:hover, .widget_product_categories li a:hover, .widget_ci-page-children-menu li a:hover, .widget_layered_nav li a:hover, .widget_meta .count, .widget_pages .count, .widget_categories .count, .widget_archive .count, .widget_nav_menu .count, .widget_product_categories .count, .widget_ci-page-children-menu .count, .widget_layered_nav .count, .widget_meta .ci-count, .widget_pages .ci-count, .widget_categories .ci-count, .widget_archive .ci-count, .widget_nav_menu .ci-count, .widget_product_categories .ci-count, .widget_ci-page-children-menu .ci-count, .widget_layered_nav .ci-count, .sidebar .widget_nav_menu .current-menu-item, .sidebar .widget_nav_menu .current_page_item, .sidebar .widget_ci-page-children-menu current-menu-item, .sidebar .widget_ci-page-children-menu current_page_item, .widget_recent_comments li a:hover, .widget_rss li a:hover, .widget_recent_entries li a:hover, .entry-tags a:hover, .tag-cloud-link:hover, .wp-caption img + .wp-caption-text a:hover, .wc-block-review-list .wc-block-review-list-item__info .wc-block-review-list-item__meta .wc-block-review-list-item__product, .wc-block-grid__products .wc-block-grid__product-title { color: #394d64; } .onsale, div.type-product .summary .in-stock, .select2-container.select2-container--default .select2-results__option--highlighted[data-selected], .footer-info, .page-hero-background-layer, .ci-item-badge, .filter-active, .ci-item-btn:hover, .cics-sessions .cics-sessions-head, .wc-block-grid__products .wc-block-grid__product-onsale, .wp-block-woocommerce-product-categories li span { background-color: #394d64; } .filter-active, .navigation .current, .woocommerce-pagination .current, .sidebar .widget_nav_menu li a:hover, .sidebar .widget_ci-page-children-menu li a:hover, .sidebar .widget_nav_menu .current-menu-item, .sidebar .widget_nav_menu .current_page_item, .sidebar .widget_ci-page-children-menu .current-menu-item, .sidebar .widget_ci-page-children-menu .current_page_item { border-color: #394d64; } @media (max-width: 992px) { .cics-sessions .cics-time { background-color: #394d64; } } .footer-info a, .head-intro a:hover, .entry-meta a:hover, .entry-content p a:hover, .entry-content blockquote:not(.ci-item-testimonial)::before, .entry-content .content-title-alt, .ci-item-title a:hover, .ci-item-testimonial-content::before, .ci-single-meta-item-title:hover, .cics-sessions .cics-time, .cics-sessions a.cics-session-title:hover, .cics-sessions .cics-session-speakers a:hover, .navigation-main > li:hover > a, .navigation-main > li > a:focus, .navigation-main > .current-menu-item > a, .navigation-main > .current-menu-parent > a, .navigation-main > .current-menu-ancestor > a, .navigation-main > .current_page_item > a, .navigation-main > .current_page_ancestor > a, .ci-widget-item-title a:hover { color: #c66161; } .qty-btn:hover, .mobile-nav-trigger, .navigation-main li li:hover > a, .navigation-main li li > a:focus, .navigation-main li .current-menu-item > a, .navigation-main li .current-menu-parent > a, .navigation-main li .current-menu-ancestor > a, .navigation-main li .current_page_item > a, .navigation-main li .current_page_ancestor > a, .gallery-caption, .wp-caption .wp-caption-text { background-color: #c66161; } .entry-section-title::after, #reply-title::after, .navigation a:hover, .woocommerce-pagination a:hover, .page-links .page-number:hover, .page-links .current .page-number, .widget-title::after, .widget_meta a:hover, .widget_pages a:hover, .widget_categories a:hover, .widget_archive a:hover, .widget_nav_menu a:hover, .widget_product_categories a:hover, .widget_ci-page-children-menu a:hover, .widget_layered_nav a:hover { border-color: #c66161; } input, textarea, select { box-shadow: 0 0 0 3px #c66161; } .no-comments, .demo_store, .woocommerce-page .shop_table, .woocommerce-page .shop_table th, .woocommerce-page .shop_table td, div.type-product .woocommerce-product-gallery .flex-control-thumbs li img, div.type-product .summary .product_meta, .woocommeerce-tabs .wc-tabs, .shop_table.cart, .shop_table th, .shop_table td, .wc_payment_method, .payment_box, .woocommerce-MyAccount-navigation .woocommerce-MyAccount-navigation-link a, .woocommerce-EditAccountForm fieldset, .wc-form-login, .product_list_widget .product-thumb img, .woocommerce-mini-cart__empty-message, .woocommerce-mini-cart__total, .footer, .footer-info, .entry-content hr, .theme-table td, .entry-section, .navigation a, .navigation .page-numbers, .woocommerce-pagination a, .woocommerce-pagination .page-numbers, .page-links .page-number, .ci-item-menu-title::after, .ci-single-meta-item, .ci-widget-item, .ci-tabular-data-widget-table tr, .widget_meta li a, .widget_pages li a, .widget_categories li a, .widget_archive li a, .widget_nav_menu li a, .widget_product_categories li a, .widget_ci-page-children-menu li a, .widget_layered_nav li a, .widget_recent_comments li, .widget_rss li, .widget_recent_entries li, .ci-box-callout { border-color: #dddddd; } .price_slider, .price_slider .ui-slider-range { background-color: #dddddd; } .cics-sessions th, .cics-sessions td { border-color: rgba(221,221,221,0.4); } input[type="text"], input[type="search"], input[type="password"], input[type="date"], input[type="number"], input[type="email"], input[type="url"], input[type="tel"], input[type="time"], select, textarea { border-color: #dddddd; } .btn, .button, .ci-item-btn, .comment-reply-link, .woocommerce-mini-cart__buttons a.button, input[type="submit"], input[type="reset"], button[type="submit"], .ci-item-btn, .woocommerce-mini-cart__buttons a.button, #infinite-handle span button, .wc-block-grid__products .add_to_cart_button, .wc-block-grid__products .added_to_cart, .wc-block-product-categories .wc-block-product-categories__button,.wc-block-product-search .wc-block-product-search__button { background-color: #394d64; } .btn:hover, .button:hover, .ci-item-btn:hover, .comment-reply-link:hover, .woocommerce-mini-cart__buttons a.button:hover, input[type="submit"]:hover, input[type="reset"]:hover, button[type="submit"]:hover, .ci-item-btn:hover, .woocommerce-mini-cart__buttons a.button:hover, #infinite-handle span button:hover, .wc-block-grid__products .add_to_cart_button:hover, .wc-block-grid__products .added_to_cart:hover,.wc-block-product-search .wc-block-product-search__button:not(:disabled):not([aria-disabled="true"]):hover, .wc-block-product-categories .wc-block-product-categories__button:not(:disabled):not([aria-disabled="true"]):hover { background-color: #c66161; } body, .site-tagline, .page-hero-title, .product_list_widget .amount, .product_list_widget .quantity { font-family: "Chakra Petch"; font-weight: 400; font-size: 18px; line-height: 1.56; text-transform: none; letter-spacing: 0px; } h1, h2, h3, h4, h5, h6, label, .label, select:invalid, .comment-author .fn, .woocommerce-EditAccountForm legend, .footer-info, .site-tagline, .head-intro, .page-hero-subtitle, .section-title, .entry-content blockquote, .entry-content-intro, .entry-author-title, .ci-item-overlay .ci-item-title, .ci-item-entry-title, .woocommerce-pagination, .page-links, .entry-tags a, .tag-cloud-link, .btn, .button, .ci-item-btn, .comment-reply-link, input[type="submit"], input[type="reset"], button[type="submit"], .button, .cics-sessions .cics-session-title, .ci-single-meta-item-title, .ci-item-title, .site-logo, .ci-item-testimonial-cite, .added_to_cart, .elementor-widget-container .ci-item .button, .elementor-widget-container .ci-item .woocommerce-loop-product__title, .elementor-widget-container .ci-item .ci-item-title, .product_list_widget, .wc-block-review-list-item__author, .wc-block-review-list-item__product, .wc-block-grid__products .wc-block-grid__product-title, .wc-block-grid__products .add_to_cart_button, .wc-block-grid__products .added_to_cart { font-family: "Chakra Petch"; font-weight: 400; } h1 { font-family: "Chakra Petch"; font-weight: 400; font-size: 36px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } h2 { font-family: "Chakra Petch"; font-weight: 400; font-size: 34px; line-height: 1.18; text-transform: none; letter-spacing: 0px; } h3 { font-family: "Chakra Petch"; font-weight: 400; font-size: 32px; line-height: 1.17; text-transform: none; letter-spacing: 0px; } h4 { font-family: "Chakra Petch"; font-weight: 400; font-size: 28px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } h5 { font-family: "Chakra Petch"; font-weight: 400; font-size: 24px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } h6 { font-family: "Chakra Petch"; font-weight: 400; font-size: 20px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } input, textarea, select { font-family: "Chakra Petch"; font-weight: 400; font-size: 14px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } form label, form .label { font-family: "Chakra Petch"; font-weight: 400; font-size: 16px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } .btn, .button, .ci-item-btn, button[type="submit"], input[type="submit"], input[type="reset"], .comment-reply-link { font-family: "Chakra Petch"; font-weight: 400; font-size: 16px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } .head-intro a:hover { color: #f7c027; } .head-intro { font-weight: 400; font-size: 14px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } @media (max-width: 1024px) { #mobilemenu { display: block; } .mobile-nav-trigger { display: inline-block; } .nav { display: none; } } .head-mast { color: #ffffff; } .site-logo a:hover { color: #c66161; } .navigation-main > li:hover > a, .navigation-main > li > a:focus, .mobile-nav-trigger:hover { color: #c66161; } .navigation-main > .current-menu-item > a, .navigation-main > .current-menu-parent > a, .navigation-main > .current-menu-ancestor > a, .navigation-main > .current_page_item > a, .navigation-main > .current_page_ancestor > a { color: #c66161; } .navigation-main li li a { color: #7e7e7e; } .navigation-main li .current-menu-item > a, .navigation-main li .current-menu-parent > a, .navigation-main li .current-menu-ancestor > a, .navigation-main li .current_page_item > a, .navigation-main li .current_page_ancestor > a { color: #c66161; } .head-stuck .head-mast { background-color: #394d64; } .head-stuck .head-mast { border-bottom: 1px solid rgba(221, 221, 221, 0); } .head-stuck .head-mast { color: #ffffff; } .head-stuck .site-logo a { color: #ffffff; } .head-stuck .navigation-main > li > a, .head-stuck .mobile-nav-trigger { color: #ffffff; } .head-stuck .navigation-main > li:hover > a, .head-stuck .navigation-main > li > a:focus, .head-stuck .mobile-nav-trigger:hover { color: #c66161; } .head-stuck .navigation-main > .current-menu-item > a, .head-stuck .navigation-main > .current-menu-parent > a, .head-stuck .navigation-main > .current-menu-ancestor > a, .head-stuck .navigation-main > .current_page_item > a, .head-stuck .navigation-main > .current_page_ancestor > a { color: #c66161; } .head-stuck .navigation-main li li:hover > a, .head-stuck .navigation-main li li > a:focus { color: #ffffff; } .site-logo { font-family: "Zilla Slab"; font-weight: 700; font-size: 30px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } .site-tagline { font-weight: 400; font-size: 13px; line-height: 1.25; text-transform: none; letter-spacing: 0px; } .navigation-main a, .head-outro { font-family: "Roboto Condensed"; font-weight: 700; font-size: 16px; line-height: 1.2; text-transform: uppercase; letter-spacing: 0px; } .navigation-main li li a { font-weight: 400; font-size: 14px; line-height: 1.2; text-transform: uppercase; letter-spacing: 0px; } .page-hero-background-layer { background-color: #4a0ed1; background-image: url(https://linuxdaybari.it/wp-content/uploads/2021/10/Illustrazione-linux-day-completo-1.png); background-repeat: no-repeat; background-position: center center; background-attachment: scroll; background-size: cover; } .page-hero .page-hero-title { font-family: "Roboto Condensed"; font-weight: 400; font-size: 20px; line-height: 1.25; text-transform: none; letter-spacing: 0px; } .page-hero .page-hero-subtitle { font-family: "Zilla Slab"; font-weight: 700; font-size: 48px; line-height: 1; text-transform: none; letter-spacing: 0px; } .entry-item .entry-title { font-weight: 700; font-size: 36px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } .entry-item .entry-meta { font-weight: 400; font-size: 14px; line-height: 1.4; text-transform: uppercase; letter-spacing: 0px; } .entry-item .entry-content { font-weight: 400; font-size: 18px; line-height: 1.56; text-transform: none; letter-spacing: 0px; } .entry-more-btn { font-weight: 700; font-size: 16px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } .single article .entry-title { font-weight: 700; font-size: 36px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } .single article .entry-meta { font-weight: 400; font-size: 14px; line-height: 1.4; text-transform: uppercase; letter-spacing: 0px; } .single article .entry-tags { font-weight: 400; font-size: 13px; line-height: 1.2; text-transform: uppercase; letter-spacing: 0px; } .sidebar .widget { margin-bottom: 50px; } .sidebar .widget_meta li a, .sidebar .widget_pages li a, .sidebar .widget_categories li a, .sidebar .widget_archive li a, .sidebar .widget_nav_menu li a, .sidebar .widget_recent_comments li, .sidebar .widget_recent_entries li, .sidebar .widget_rss li, .sidebar .widget_recent_entries li, .sidebar input[type="text"], .sidebar input[type="email"], .sidebar input[type="number"], .sidebar input[type="password"], .sidebar input[type="search"], .sidebar input[type="date"], .sidebar select, .sidebar .ci-box-callout { border-color: #dddddd; } .sidebar .widget-title { color: #7e7e7e; } .sidebar .widget-title::after { border-color: #7e7e7e; } .sidebar .widget a { color: #4a0ed1; } .sidebar .widget a:hover { color: #fa62ad; } .sidebar .widget-title { font-weight: 700; font-size: 16px; line-height: 1.2; text-transform: uppercase; letter-spacing: 0px; } .sidebar { font-weight: 400; font-size: 15px; line-height: 1.5; text-transform: none; letter-spacing: 0px; } .footer .widget_meta li a, .footer .widget_pages li a, .footer .widget_categories li a, .footer .widget_archive li a, .footer .widget_nav_menu li a, .footer .widget_recent_comments li, .footer .widget_rss li, .footer .widget_recent_entries li, .footer input[type="text"], .footer input[type="email"], .footer input[type="number"], .footer input[type="password"], .footer input[type="search"], .footer input[type="date"], .footer select, .footer .ci-box-callout { border-color: #dddddd; } .footer .widget-title { color: #7e7e7e; } .footer .widget .widget-title::after { border-color: #7e7e7e; } .footer-widgets { font-weight: 400; font-size: 15px; line-height: 1.5; text-transform: none; letter-spacing: 0px; } .footer-widgets .widget-title { font-weight: 700; font-size: 16px; line-height: 1.2; text-transform: uppercase; letter-spacing: 0px; } .footer-info { background-color: #394d64; } .footer-info { color: #ffffff; } .footer-info a:hover { color: #c66161; } .footer-info { border-top: 1px solid rgba(221, 221, 221, 0); } .footer-info { font-weight: 400; font-size: 15px; line-height: 1.2; text-transform: none; letter-spacing: 0px; } .list-social-icons a { font-size: 16px; } .list-social-icons a { width: 43px; height: 43px; } .list-social-icons a { background-color: #394d64; } .list-social-icons a { color: #ffffff; } .header img.custom-logo { width: 400px; max-width: 100%; } .btn-to-top, .btn-to-top:hover { background: #ffffff; } .btn-to-top, .btn-to-top:hover { color: #454545; } @media (max-width: 991px) { .sidebar .widget { margin-bottom: 50px; } } @media (min-width: 992px) { .page-hero { height: 400px; } } @media (min-width: 576px) and (max-width: 991px) { .page-hero { height: 340px; } } @media (max-width: 575px) { .sidebar .widget { margin-bottom: 40px; } } 
+</style>
+<link rel='stylesheet' id='jetpack_css-css' href='https://linuxdaybari.it/wp-content/plugins/jetpack/css/jetpack.css?ver=11.5.1' type='text/css' media='all' />
+
+
+<link rel="https://api.w.org/" href="https://linuxdaybari.it/wp-json/" /><link rel="alternate" type="application/json" href="https://linuxdaybari.it/wp-json/wp/v2/projektor_session/924" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://linuxdaybari.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://linuxdaybari.it/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel="canonical" href="https://linuxdaybari.it/session/privacy-e-sicurezza-del-dato-lapproccio-hacker-ugo-lopez-fabio-pietrosanti-giacomo-tesio-walter-vannini-christian-bernieri/" />
+<link rel='shortlink' href='https://linuxdaybari.it/?p=924' />
+<link rel="alternate" type="application/json+oembed" href="https://linuxdaybari.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flinuxdaybari.it%2Fsession%2Fprivacy-e-sicurezza-del-dato-lapproccio-hacker-ugo-lopez-fabio-pietrosanti-giacomo-tesio-walter-vannini-christian-bernieri%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://linuxdaybari.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flinuxdaybari.it%2Fsession%2Fprivacy-e-sicurezza-del-dato-lapproccio-hacker-ugo-lopez-fabio-pietrosanti-giacomo-tesio-walter-vannini-christian-bernieri%2F&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+		<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><link rel="icon" href="https://linuxdaybari.it/wp-content/uploads/2022/09/cropped-cropped-Tux-Barese-Dark-Mode-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://linuxdaybari.it/wp-content/uploads/2022/09/cropped-cropped-Tux-Barese-Dark-Mode-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://linuxdaybari.it/wp-content/uploads/2022/09/cropped-cropped-Tux-Barese-Dark-Mode-180x180.png" />
+<meta name="msapplication-TileImage" content="https://linuxdaybari.it/wp-content/uploads/2022/09/cropped-cropped-Tux-Barese-Dark-Mode-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+				@media only screen and (min-width: 1024px) and (max-width:1350px){
+	.head-menu-slot .navigation-main > li > a {
+		font-size: 14px;
+		margin: 0 7px;
+	}
+}				</style>
+		</head>
+<body class="projektor_session-template-default single single-projektor_session postid-924 wp-custom-logo elementor-default elementor-kit-313"><div style="all:initial;display:block;position:sticky;top:0;z-index:2147483647;background:#0d5c58;color:#fff;font:13px/1.4 system-ui,sans-serif;padding:8px 14px">Archived copy for <a style="color:#f2b134" href="/">fabio.pietrosanti.it</a> · source: <a style="color:#f2b134" href="https://linuxdaybari.it/session/privacy-e-sicurezza-del-dato-lapproccio-hacker-ugo-lopez-fabio-pietrosanti-giacomo-tesio-walter-vannini-christian-bernieri/">linuxdaybari.it/session/privacy-e-sicurezza-del-dato-lapproccio-hacker-ugo-lopez</a> · captured 2022-12-05 · scripts removed</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+	
+	<div class="page-wrap">
+
+		
+			<header class="header header-sticky header-full header-full-nav-right header-fixed">
+
+	
+
+
+
+	
+	<div class="head-mast">
+
+		
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="head-mast-inner">
+
+						<div class="site-branding">
+	<div class="site-logo"><a href="https://linuxdaybari.it/" class="custom-logo-link" rel="home"><img width="800" height="774" src="https://linuxdaybari.it/wp-content/uploads/2022/09/cropped-cropped-Tux-Barese-Background-2.png" class="custom-logo" alt="Linux Day Bari" decoding="async"   /></a></div></div>
+
+						<div class="head-menu-slot">
+							<nav class="nav">
+								<ul id="header-menu-1" class="navigation-main"><li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-344"><a href="https://linuxdaybari.it/">Home</a></li>
+</ul>							</nav>
+							<a href="#mobilemenu" class="mobile-nav-trigger"><i class="fas fa-bars"></i> Menu</a>
+						</div>
+
+																	</div>
+				</div>
+			</div>
+		</div>
+
+		
+	</div>
+</header>
+
+			<div id="mobilemenu"><ul></ul></div>
+
+		
+		<div class="site-content-wrap">
+
+
+
+		<div class="page-hero page-hero-align-left page-hero-align-bottom">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="page-hero-content">
+						<p class="page-hero-title">Il 22 ottobre 2022 ti aspettiamo al Linux Day Bari</p>																	</div>
+				</div>
+			</div>
+		</div>
+
+		
+		<div class="page-hero-background-layer "
+			data-parallax-speed="0.3"
+		></div>
+	</div>
+
+
+
+
+<main class="main">
+
+	<div class="container">
+
+		
+			<div class="row has-sidebar">
+
+				<div class="col-lg-9 col-12">
+
+					
+						
+						<article id="entry-924" class="entry post-924 projektor_session type-projektor_session status-publish hentry projektor_session_track-sala-1 projektor_session_time_slot-42">
+
+							<header class="entry-header"><h1 class="entry-title">Privacy e sicurezza del dato: l&#8217;approccio hacker &#8211; Ugo Lopez, Fabio Pietrosanti, Giacomo Tesio, Walter Vannini, Christian Bernieri</h1></header>
+							<div class="entry-content">
+								
+															</div>
+
+							
+						</article>
+
+						
+					
+				</div>
+
+				<div class="col-lg-3 col-12">
+	<div class="sidebar">
+		<aside id="ci-callout-3" class="widget widget_ci-callout"><div class="ci-box-callout"><strong class="ci-box-callout-title">Iscriviti ora gratuitamente</strong><p>Registrati gratuitamente al Linux Day Bari.<br />
+Affrettati! I posti sono limitati.</p>
+<a href="https://linuxdaybari.it/p/iscrizione" class="btn btn-block">Iscriviti</a></div></aside><aside id="ci-post-type-items-5" class="widget widget_ci-post-type-items"><h3 class="widget-title">Organizzato da</h3>
+<div class="ci-widget-item">
+	<figure class="ci-widget-item-thumb">
+		<a href="https://ils.org">
+			<img width="420" height="594" src="https://linuxdaybari.it/wp-content/uploads/2019/06/Logoilsvettoriale.svg_-420x594.png" class="attachment-projektor_sidebar_sponsor size-projektor_sidebar_sponsor wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://linuxdaybari.it/wp-content/uploads/2019/06/Logoilsvettoriale.svg_-420x594.png 420w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logoilsvettoriale.svg_-212x300.png 212w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logoilsvettoriale.svg_-615x869.png 615w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logoilsvettoriale.svg_-560x792.png 560w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logoilsvettoriale.svg_.png 636w" sizes="(max-width: 420px) 100vw, 420px" />		</a>
+	</figure>
+</div>
+
+<div class="ci-widget-item">
+	<figure class="ci-widget-item-thumb">
+		<a href="https://wikimedia.it">
+			<img width="420" height="421" src="https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-420x421.png" class="attachment-projektor_sidebar_sponsor size-projektor_sidebar_sponsor wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-420x421.png 420w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-300x300.png 300w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-1022x1024.png 1022w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-150x150.png 150w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-768x770.png 768w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-1533x1536.png 1533w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-615x616.png 615w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-510x510.png 510w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-200x200.png 200w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-750x750.png 750w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_-560x561.png 560w, https://linuxdaybari.it/wp-content/uploads/2019/06/Wikimedia_Italia-logo.svg_.png 2037w" sizes="(max-width: 420px) 100vw, 420px" />		</a>
+	</figure>
+</div>
+
+<div class="ci-widget-item">
+	<figure class="ci-widget-item-thumb">
+		<a href="https://urlretelibera.org">
+			<img width="420" height="420" src="https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-420x420.png" class="attachment-projektor_sidebar_sponsor size-projektor_sidebar_sponsor wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-420x420.png 420w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-300x300.png 300w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-1024x1024.png 1024w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-150x150.png 150w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-768x768.png 768w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-615x615.png 615w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-510x510.png 510w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-200x200.png 200w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-750x750.png 750w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1-560x560.png 560w, https://linuxdaybari.it/wp-content/uploads/2019/06/Logo-URL-con-SCRITTE-2-1.png 1500w" sizes="(max-width: 420px) 100vw, 420px" />		</a>
+	</figure>
+</div>
+
+<div class="ci-widget-item">
+	<figure class="ci-widget-item-thumb">
+		<a href="#">
+			<img width="420" height="420" src="https://linuxdaybari.it/wp-content/uploads/2019/06/photo_2019-09-23_12-20-11-420x420.jpg" class="attachment-projektor_sidebar_sponsor size-projektor_sidebar_sponsor wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://linuxdaybari.it/wp-content/uploads/2019/06/photo_2019-09-23_12-20-11-420x420.jpg 420w, https://linuxdaybari.it/wp-content/uploads/2019/06/photo_2019-09-23_12-20-11-300x300.jpg 300w, https://linuxdaybari.it/wp-content/uploads/2019/06/photo_2019-09-23_12-20-11-150x150.jpg 150w, https://linuxdaybari.it/wp-content/uploads/2019/06/photo_2019-09-23_12-20-11-615x615.jpg 615w, https://linuxdaybari.it/wp-content/uploads/2019/06/photo_2019-09-23_12-20-11-510x510.jpg 510w, https://linuxdaybari.it/wp-content/uploads/2019/06/photo_2019-09-23_12-20-11-200x200.jpg 200w, https://linuxdaybari.it/wp-content/uploads/2019/06/photo_2019-09-23_12-20-11-560x560.jpg 560w, https://linuxdaybari.it/wp-content/uploads/2019/06/photo_2019-09-23_12-20-11.jpg 640w" sizes="(max-width: 420px) 100vw, 420px" />		</a>
+	</figure>
+</div>
+</aside><aside id="ci-post-type-items-3" class="widget widget_ci-post-type-items"><h3 class="widget-title">Con il fondamentale contributo di</h3></aside>	</div>
+</div>
+
+			</div>
+
+		
+	</div>
+
+</main>
+
+
+	</div> <!-- .site-content-wrap -->
+
+	
+		<footer class="footer">
+
+	
+	<div class="footer-widgets ">
+	<div class="container">
+		<div class="row">
+							<div class="col-lg-4 col-md-6 col-12">
+											<aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-vuoto-container"><ul id="menu-vuoto" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-344"><a href="https://linuxdaybari.it/">Home</a></li>
+</ul></div></aside>									</div>
+							<div class="col-lg-4 col-md-6 col-12">
+											<aside id="ci-socials-1" class="widget widget_ci-socials"><h3 class="widget-title">Rimani in contatto</h3>		<ul class="list-social-icons">
+			<li><a href="https://www.facebook.com/events/603534153984415" class="social-icon" target="_blank"><i class="fab fa-facebook"></i></a></li><li><a href="https://t.me/linuxdaybari" class="social-icon" target="_blank"><i class="fab fa-telegram"></i></a></li>		</ul>
+		</aside>									</div>
+							<div class="col-lg-4 col-md-6 col-12">
+											<aside id="block-4" class="widget widget_block">
+<h6>Lasciaci la tua email per rimanere aggiornato sul Linux Day!</h6>
+</aside><aside id="block-6" class="widget widget_block"><p><div role="form" class="wpcf7" id="wpcf7-f380-o1" lang="it-IT" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/session/privacy-e-sicurezza-del-dato-lapproccio-hacker-ugo-lopez-fabio-pietrosanti-giacomo-tesio-walter-vannini-christian-bernieri/#wpcf7-f380-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="380" />
+<input type="hidden" name="_wpcf7_version" value="5.6.4" />
+<input type="hidden" name="_wpcf7_locale" value="it_IT" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f380-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p><label> Email<br />
+    <span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Consenso<br />
+    <span class="wpcf7-form-control-wrap" data-name="acceptance-42"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance-42" value="1" aria-invalid="false" /><span class="wpcf7-list-item-label">Presto il consenso al trattamento dei miei dati personali per l'invio di comunicazioni relative all'evento &quot;Linux Day Bari&quot;</span></label></span></span></span> </label></p>
+<p><input type="submit" value="Invia" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div></p>
+</aside>									</div>
+					</div>
+	</div>
+</div>
+
+	
+
+
+	<div class="footer-info ">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-md-6 col-12">
+											<div class="footer-content-slot">
+							<div class="footer-content-slot-item">Linux Day Bari 2021</div>						</div>
+									</div>
+
+				<div class="col-md-6 col-12">
+											<div class="footer-content-slot footer-content-slot-end">
+							<div class="footer-content-slot-item"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed">CC-BY-SA 4.0</a> - <a href="https://www.ils.org/privacy/">Privacy policy</a></div>						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+
+
+		<button class="btn-to-top">
+		<i class="fas fa-arrow-up"></i>
+	</button>
+
+	
+</footer>
+
+	
+</div> <!-- .page-wrap -->
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+</body>
+</html>
