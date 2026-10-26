@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1216**; già processate: **1393**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1029** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1152**
+- Voci in `data/media.json`: **1217**; già processate: **1394**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1030** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1153**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **5**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -39,7 +39,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2011 | 31 | 4 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 28 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2014 | 26 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 39 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 85 | 5 | 2 | 0 | 0 | 0 | 0 |
@@ -789,6 +789,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2014** · International Journalism Festival (Perug — [Telephone intercepts in the age of NSAGate](https://www.journalismfestival.com/programme/2014/telefone-intercepts-in-the-age-of-nsagate) · copia: `2014/b69196699305` (Web Archive 20140714) · licenza: terzi
 - **2014** · lemonde.fr — [Hermès, les messagers de l’Internet libre](https://www.lemonde.fr/pixels/article/2014/10/17/hermes-les-messagers-de-l-internet-libre_4508097_4408996.html) · copia: `2014/60916bcffa88` (Web Archive 20141017) · licenza: terzi
 - **2014** · lemonde.fr — [Tails, l'outil détesté par la NSA, qui veut démocratiser l'anonymat en ligne](https://www.lemonde.fr/pixels/article/2014/11/20/tails-l-outil-deteste-par-la-nsa-qui-veut-democratiser-l-anonymat-en-ligne_4514650_4408996.html) · copia: `2014/d763cef2422f` (Web Archive 20141120) · licenza: terzi
+- **2014** · messaggeroveneto.it — [ISTRUZIONI PER L’USO: TRE WORKSHOP AL FRIULI FUTURE FORUM](https://www.messaggeroveneto.it/cultura-e-spettacoli/istruzioni-per-luso-tre-workshop-al-friuli-future-forum-qd74tm33) · copia: `2014/4425b66b6486` (live) · licenza: terzi
 - **2014** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/429504) · copia: `2014/06a3b9fc21fa` (Web Archive 20210508 · video locale `media.m4a` (34 MB, da caricare su Drive)) · licenza: terzi
 - **2014** · Radio Radicale - Presi per il Web — [Presi per il Web](https://www.radioradicale.it/scheda/429504/presi-per-il-web) · copia: `2014/c66facbd3659` (Web Archive 20150514 · video locale `media.m4a` (34 MB, da caricare su Drive)) · licenza: terzi
 - **2014** · Think! (think.it) - ripubblicazione dell — [ExpoLeaks, whistleblowing per Expo](https://www.think.it/ecco-expoleaks-il-wikileaks-dellexpo-2015-per-denunciare-i-corrotti/) · copia: `2014/5aa826e315e0` (Web Archive 20250716) · licenza: terzi

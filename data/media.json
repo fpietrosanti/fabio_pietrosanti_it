@@ -7610,6 +7610,23 @@
   "on_old_site": false
  },
  {
+  "date": "2014-04-12",
+  "year": 2014,
+  "type": "mentioned",
+  "outlet": "messaggeroveneto.it",
+  "title": "ISTRUZIONI PER L’USO: TRE WORKSHOP AL FRIULI FUTURE FORUM",
+  "url": "https://www.messaggeroveneto.it/cultura-e-spettacoli/istruzioni-per-luso-tre-workshop-al-friuli-future-forum-qd74tm33",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via live; context: …Agosti, hacker , programmatore, docente e co-fondatore del progetto GlobaLeaks , presidente del Centro Hermes per la Trasparenza e i Diritti Umani Digitali, e Fabio Pietrosanti, che si occupa professionalmente di securit…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-26-0832"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2014-04-23",
   "type": "mentioned",
   "outlet": "The Tor Project blog - Tor Weekly News",

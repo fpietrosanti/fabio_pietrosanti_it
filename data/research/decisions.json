@@ -1018,6 +1018,10 @@
   {
    "url": "https://arxiv.org/html/1306.5156v1",
    "reason": "2026-10-26: versione HTML del paper Cryptocat (arXiv 1306.5156) già in archivio come /abs/ e /pdf/; Fabio citato solo nei ringraziamenti"
+  },
+  {
+   "url": "https://blog.cryptographyengineering.com/2012/11/24/lets-talk-about-zrtp/",
+   "reason": "2026-10-26, regola «forum e mailing list non contano»: è un suo commento sotto un post del blog di Matthew Green, non una pubblicazione."
   }
  ],
  "override": [

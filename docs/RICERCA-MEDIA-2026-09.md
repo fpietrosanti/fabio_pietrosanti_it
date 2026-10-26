@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1664**; dopo deduplica: **1216**
+- Risultati grezzi dalle ricerche: **1665**; dopo deduplica: **1217**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1161**
-- Verificati aprendo la pagina: **1147**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1162**
+- Verificati aprendo la pagina: **1148**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 249, tweet 132, Talk 95, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 250, tweet 132, Talk 95, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -32,7 +32,7 @@ Per tipo (nuovi): Menzionato 249, tweet 132, Talk 95, Video 80, Citato 75, Post 
 | 2011 | 4 | 30 | 27 |
 | 2012 | 0 | 37 | 37 |
 | 2013 | 0 | 33 | 33 |
-| 2014 | 0 | 30 | 30 |
+| 2014 | 0 | 31 | 31 |
 | 2015 | 0 | 47 | 47 |
 | 2016 | 0 | 30 | 30 |
 | 2017 | 0 | 87 | 87 |
@@ -1612,7 +1612,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2015** · Report · Nexa Center for Internet & Society — Annual Report 2015 — [Nexa Center annual report 2015](https://nexa.polito.it/wp-content/uploads/2024/05/Nexa-Center-annual_report-2015.pdf)  
   '73rd Nexa Wednesday, Principles and tools of whistleblowing: the GlobaLeaks case: March 11, 2015; guest: Fabio Pietrosanti.' PDF letto (25 MB).
 
-## 2014 — 30 voci, 30 nuove
+## 2014 — 31 voci, 31 nuove
 
 - 🆕 **2014-12-29** · workshop · 31C3 Chaos Communication Congress, Hamburg (Noisy Square) — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks)  
   60-min GlobaLeaks workshop, 29 Dec 2014 15:00 at Noisy Square; person organizing: Naif (duplicate draft page Session:Practical_Whistleblowing also exists)
@@ -1668,6 +1668,8 @@ Anni senza nessun risultato: nessuno
   With Claudio Agosti, Arturo Filastò, Giovanni Pellerano
 - 🆕 **2014-04-23** · Menzionato · The Tor Project blog - Tor Weekly News — [Tor Weekly News — April 23rd, 2014](https://blog.torproject.org/tor-weekly-news-april-23rd-2014/)  
   Reports his tor-dev question on starting Tor from Python via ctypes to sandbox apps with AppArmor
+- 🆕 **2014-04-12** · Menzionato · messaggeroveneto.it — [ISTRUZIONI PER L’USO: TRE WORKSHOP AL FRIULI FUTURE FORUM](https://www.messaggeroveneto.it/cultura-e-spettacoli/istruzioni-per-luso-tre-workshop-al-friuli-future-forum-qd74tm33)  
+  verified via live; context: …Agosti, hacker , programmatore, docente e co-fondatore del progetto GlobaLeaks , presidente del Centro Hermes per la Trasparenza e i Diritti Umani Digitali, e Fabio Pietrosanti, che si occupa professionalmente di securit…
 - 🆕 **2014-04-03** · Video · YouTube / Cosa Pubblica Libra — [Seminario Fabio Pietrosanti](https://www.youtube.com/watch?v=sH38ayPLcmI)  
   Seminar on anonymous online whistleblowing for civic anti-corruption activism (Centro Hermes)
 - 🆕 **2014-03-27** · Report · The Tor Project, Tor proposals (torspec) no. 233 — [Making Tor2Web mode faster (Tor Proposal 233)](https://spec.torproject.org/proposals/233-quicken-tor2web-mode.html)  
