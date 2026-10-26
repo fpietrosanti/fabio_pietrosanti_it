@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2022-10-22",
+    "year": 2022,
+    "type": "talk",
+    "outlet": "Linux Day Bari 2022 (linuxdaybari.it, programme session page)",
+    "title": "Privacy e sicurezza del dato: l'approccio hacker - Ugo Lopez, Fabio Pietrosanti, Giacomo Tesio, Walter Vannini, Christian Bernieri",
+    "url": "https://linuxdaybari.it/session/privacy-e-sicurezza-del-dato-lapproccio-hacker-ugo-lopez-fabio-pietrosanti-giacomo-tesio-walter-vannini-christian-bernieri/",
+    "language": "it",
+    "role": "speaker (panel)",
+    "note": "Official programme page of the Linux Day Bari 2022 session (22 ottobre 2022), names him among the panelists. The domain linuxdaybari.it has expired (now a for-sale page). Wayback capture: https://web.archive.org/web/20221205045524/https://linuxdaybari.it/session/privacy-e-sicurezza-del-dato-lapproccio-hacker-ugo-lopez-fabio-pietrosanti-giacomo-tesio-walter-vannini-christian-bernieri/ . This complements the 2 PeerTube videos already in media.json (session + tavola rotonda).",
+    "verified": true,
+    "known": false
+  }
+]

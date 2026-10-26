@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2020-01-19",
+  "year": 2020,
+  "type": "quoted",
+  "outlet": "la Repubblica (Repubblica.it, rubrica #bravimabasta di Luca Bottura; anche edizione cartacea p. 46, sez. TV)",
+  "title": "Senza rete",
+  "url": "https://www.repubblica.it/dossier/bravimabasta/2020/01/19/news/senza_rete-246107973/",
+  "language": "it",
+  "role": "cited (discovered that the domain made.it announced by the minister was already registered by a Hungarian owner)",
+  "note": "Found via ricerca.repubblica.it query \"Fabio Pietrosanti\" (Chrome). Article page opened; text contains: 'come ha scoperto subito dopo Fabio Pietrosanti del Centro Hermes'. Same column also in the print edition 19/01/2020 p. 46 (title '#bravimabasta', paywalled, quotidiano.repubblica.it searchdetail).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2017-10-19",
+  "year": 2017,
+  "type": "quoted",
+  "outlet": "la Repubblica (print, Milano edition, p. 5, Cronaca)",
+  "title": "I tanti segreti per tutelare la sicurezza del voto con il sistema elettronico",
+  "url": "https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2017/10/19/i-tanti-segreti-per-tutelare-la-sicurezza-del-voto-elettronicoMilano05.html",
+  "language": "it",
+  "role": "quoted expert (Lombardy referendum e-voting, 'security through obscurity')",
+  "note": "Found via ricerca.repubblica.it exact-phrase query \"Fabio Pietrosanti\" (full-text field 'nel testo'). The teaser reads '...è un paradigma degli anni Ottanta totalmente superato — spiega Fabio...' and is cut off; the article itself is paywalled (Contenuto a pagamento) and was not opened. This is the print Milano companion of the known milano.repubblica.it piece of the same day (different title). The URL is the searchdetail link taken from the result, with the session query parameters removed.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2022-11-18",
+  "year": 2022,
+  "type": "article",
+  "outlet": "Nova100 - Il Sole 24 Ore (blog 'Informazione civica' di Michele Kettmaier)",
+  "title": "La diaspora verso i media civici?",
+  "url": "https://michelekettmaier.nova100.ilsole24ore.com/2022/11/18/riparliamo-di-media-civici/",
+  "language": "it",
+  "role": "mentioned (Hermes Center with Fabio Pietrosanti listed among Italian civic-media efforts)",
+  "note": "Found via ricerca24.ilsole24ore.com query \"Fabio Pietrosanti\" (9 results; the others are already known: Infodata x3 and Radio 24). Page opened; text contains: 'l'Hermes center con Fabio Pietrosanti'. Blog post on a Sole 24 Ore platform.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-03-13",
+  "year": 2019,
+  "type": "quoted",
+  "outlet": "Il Fatto Quotidiano (print, 'In edicola')",
+  "title": "Il M5S vuole il voto digitale: dove funziona e dove no",
+  "url": "https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/03/13/il-m5s-vuole-il-voto-digitale-dove-funziona-e-dove-no/5032617/",
+  "language": "it",
+  "role": "probably quoted as an e-voting expert (E-Vota! conference at the Camera, Brescia/Sibilia)",
+  "note": "Turned up by the ilfattoquotidiano.it site search for the exact term \"Pietrosanti\", which indexes full text. Page opened, but it is paywalled (subscribers only) and the visible lead does not show the name. The e-voting topic matches his work, but the name was not seen: verify manually.",
+  "verified": false,
+  "known": false
+ }
+]

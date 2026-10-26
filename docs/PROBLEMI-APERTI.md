@@ -179,6 +179,20 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-novodecies. 2026-10-26
+- Copie delle 5 voci nuove: **3 ottenute** (Repubblica «Senza rete», Nova100, programma Linux Day Bari dal Web Archive), **2
+  🟡** (Repubblica Milano 19/10/2017 cartaceo e Il Fatto 13/03/2019 «in edicola»: pagine a pagamento, nome non visibile;
+  la pagina pubblica del Fatto ha solo titolo e firma di Virginia Della Sala).
+- **Ritentati**: RTF Webbit 05 — il CDX mostra le RTF di altri intervistati (Sirotti Gaudenzi, Nicotra…) ma la tua
+  (`05_FabioPietrosanti.rtf`) non è mai stata catturata → ❌ definitivo salvo copia tua; Neapolis 29/12/2009 — il blog
+  neapolis.blog.rai.it è archiviato solo fino al 2008 → ❌ invariato. Gli altri ❌ (PrivateWave EN/ES, RMC, Class Life,
+  notizieoggi ×2, coinage, deck Foggia) invariati.
+- **Domande per te:** (a) hai accesso all'archivio del **Sole 24 Ore** o di **Repubblica/Il Fatto**? Servirebbe per 4 ritagli
+  (Sole 29/05/2000, 15/09/2010, NT+ 22/10/2020; Repubblica Milano 19/10/2017; Il Fatto 13/03/2019). (b) Il **convegno sul
+  voto a distanza** a Roma (~12/10/2019): chi lo organizzava e dove? (c) Hai il link alle pagine dei tuoi talk all'**IHC
+  2024/2026**? (d) Proposta: dichiarare **chiuse** le voci «Lacuna» 2007–2010 / 2017–2019 / 2023–2025 (la ricerca
+  automatica non trova più quasi nulla).
+
 ### B0-octodecies. 2026-10-25
 - Copie delle 4 voci nuove: **tutte ottenute**. I due video Linux Day Bari 2022 (PeerTube, pagina solo JavaScript) sono
   passati da 🟡 a ottenuti leggendo i metadati dall'API PeerTube (`/api/v1/videos/<uuid>`, descrizione con il tuo nome) e

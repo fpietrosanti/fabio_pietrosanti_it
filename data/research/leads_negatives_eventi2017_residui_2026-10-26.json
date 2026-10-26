@@ -1,0 +1,77 @@
+[
+ {
+  "target": "Convegno a Roma sul voto a distanza, circa 12-13/10/2019 (lead dal tweet 1184113217867407363, già in media.json)",
+  "checked": "4 WebSearch (convegno voto a distanza/voto elettronico Roma ottobre 2019, '12 ottobre 2019', Radio Radicale, CRVD); grep del clone locale C:/Users/admin/Claude/crvd-preservation (blog 2019/09-10); Wayback CDX crvd.org 2019-10/12 (2026-10-26)",
+  "result": "Non trovato. Nessun programma, organizzatore, scheda Radio Radicale o video YouTube. Il clone CRVD non ha post su un convegno a ottobre 2019. BLOCCATO in parte: Internet Archive 'Temporarily Offline' (anche dal server 51.158.36.151) il 2026-10-26, quindi CDX di crvd.org e copertura del tweet non riverificabili. Il lead resta aperto: riprovare la Wayback di crvd.org e copernicani.it a ottobre 2019."
+ },
+ {
+  "target": "WIN (Whistleblowing International Network) Glasgow 11-12/09/2019, workshop GlobaLeaks: nome del relatore",
+  "checked": "Pagina WIN 'Introducing WIN's Inaugural Conference' (whistleblowingnetwork.org/Our-Work/Spotlight/Stories/WIN-s-Inaugural-Conference-Protecting-Whistleblo); ricerca del sito WIN (404); 2 WebSearch (2026-10-26)",
+  "result": "Nessun nome di relatore: la pagina parla solo genericamente di workshop interattivi. Nessuna menzione di GlobaLeaks, Hermes, Pietrosanti o naif. Resta come nel pass del 2026-10-24: è coerente il suo tweet del 2019-09-11, ma non è verificato."
+ },
+ {
+  "target": "Internet Freedom Festival Valencia 2017, 2018, 2019: programmi",
+  "checked": "iff2017/2018/2019.sched.com e internetfreedomfestival20XX.sched.com (tutti 404); internetfreedomfestival.org/wiki (404, wiki rimosso); 2 WebSearch (2026-10-26)",
+  "result": "BLOCCATO: il wiki IFF non è più online, sched non ha istanze e la Wayback è offline il 2026-10-26. Nessun risultato web lega lui o GlobaLeaks a IFF 2017-2019. Riprovare via Wayback (internetfreedomfestival.org/wiki/index.php/Schedule_20XX e platform.internetfreedomfestival.org)."
+ },
+ {
+  "target": "Internet Festival Pisa 2017",
+  "checked": "API http://2017.internetfestival.it/wp-json/v3/eventi/all (200 eventi, 310 nomi in 'people') (2026-10-26)",
+  "result": "Nessun Pietrosanti o naif; nessun evento con GlobaLeaks, Hermes o whistleblowing."
+ },
+ {
+  "target": "Internet Festival Pisa 2018",
+  "checked": "API backend2018.internetfestival.it/wp-json/wp/v2/protagonisti (393 protagonisti) ed eventi, ricerca Pietrosanti/hermes/globaleaks/whistleblowing (2026-10-26)",
+  "result": "0 risultati (il controllo con 'rossi' restituisce risultati, quindi la ricerca funziona)."
+ },
+ {
+  "target": "Internet Festival Pisa 2019",
+  "checked": "2019.internetfestival.it (home e ricerca) (2026-10-26)",
+  "result": "BLOCCATO: HTTP 502. Una WebSearch '\"Fabio Pietrosanti\" Internet Festival Pisa' non trova nulla."
+ },
+ {
+  "target": "ITASEC 2017 (Venezia), 2018 (Milano), 2019 (Pisa): programmi",
+  "checked": "ITASEC17_Program.pdf (ita-sec2017.dais.unive.it), pagina del programma 2018.itasec.it, 2019.itasec.it e ITASEC19 programme-at-a-glance PDF (2026-10-26)",
+  "result": "Nessun Pietrosanti, naif o GlobaLeaks. L'unico 'Hermes' è Luisa Franchina di Hermes Bays (2019), un'altra organizzazione."
+ },
+ {
+  "target": "Security Summit Clusit 2017-2019; Codemotion Rome/Milan 2017-2019; Wired Next Fest 2017-2019",
+  "checked": "3 WebSearch (nome + eventi; GlobaLeaks/Centro Hermes + Security Summit; Pietrosanti + Codemotion); home securitysummit.it (2026-10-26)",
+  "result": "Nessuna menzione. Non ho fatto un controllo esaustivo degli archivi programma per anno: securitysummit.it non ha un archivio interrogabile e events.codemotion.com non risponde."
+ },
+ {
+  "target": "State of Privacy / Privacy Day Forum / Festival dei Diritti Umani / MozFest 2017-2019",
+  "checked": "3 WebSearch (2026-10-26)",
+  "result": "Nessuna menzione di Pietrosanti, Hermes o GlobaLeaks. Per MozFest escono solo risultati IJF già noti (anomalia di URL /programme/2017 = sessioni 2015)."
+ },
+ {
+  "target": "Camera dei deputati WebTV, conferenza stampa sui captatori/trojan del 31/01/2017 (Quintarelli)",
+  "checked": "WebSearch (webtv.camera.it, conferenza stampa, 31 gennaio 2017) (2026-10-26)",
+  "result": "Video WebTV non trovato. Esce di nuovo solo Eunews 01/02/2017 (già controllato, senza il suo nome). Come nel pass del 2026-10-24, l'archivio WebTV si carica via JS e la ricerca restituisce 403. Non risolto."
+ },
+ {
+  "target": "HOPE 2018 (The Circle of HOPE): 'Protecting Whistleblowers: An In-Depth Look Within the GlobaLeaks Platform'",
+  "checked": "infocondb (via WebSearch); sottotitoli automatici EN di YouTube 7CK_5itzj7k (Channel2600) scaricati con yt-dlp (37k caratteri), grep fabio/pietro/naif/hermes (2026-10-26)",
+  "result": "Il relatore è Michael Casadevall (sviluppatore Hermes), non lui. Nel testo dei sottotitoli non c'è il suo nome (cita solo la legge italiana sul whistleblowing). Esiste anche un mirror bQxzvtIQiVw (All Hacking Cons)."
+ },
+ {
+  "target": "POuL 'Conferenza Sicurezza e Privacy 2018 - GlobaLeaks' (YouTube SD3oX6LgW9U)",
+  "checked": "yt-dlp: i sottotitoli 'it' tradotti danno HTTP 429 in locale; dal server serve 'Sign in to confirm you're not a bot' (non aggirato); la traccia ASR originale è stata riconosciuta come 'es-orig' ed è scaricata (2026-10-26)",
+  "result": "L'ASR es-orig è inservibile (audio italiano trascritto come spagnolo); i frammenti non contengono Fabio, Pietrosanti o naif. Relatore già noto: Giovanni Pellerano (slides.poul.org). Negativo."
+ },
+ {
+  "target": "SSRN 3459366 'Deep Web: A Residual of e-Public Administration' (Srirath Gohwong, 2019)",
+  "checked": "SSRN: 'Content Blocked' 403 (non aggirato). Copia open trovata via OpenAlex: so01.tci-thaijo.org/index.php/APSR/article/download/242083/164189 (PDF, 18.6k caratteri) (2026-10-26)",
+  "result": "Cita solo 'HERMES Center for Transparency and Digital Human Rights' (Tor2web, siti di whistleblowing). Nessun Pietrosanti o naif. Negativo."
+ },
+ {
+  "target": "Tesi NOVA Lisboa 2018 'Rethinking the practice of accountability journalism in the digital age' (Francesca Giachi, hdl 10362/47052)",
+  "checked": "La pagina handle è dietro Anubis (non aggirata). Usata l'API REST pubblica DSpace di run.unl.pt: bundle TEXT, bitstream 22679fcd-e7de-4e4c-8e79-e504cdae4f04/content (testo integrale, 412k caratteri) (2026-10-26)",
+  "result": "Nessun Pietrosanti, naif o Fabio. Cita Hermes Center 12 volte e GlobaLeaks 44 volte (PTLeaks); in bibliografia ci sono Pellerano G. e Agosti C. ('Greenwald-in-a-box', IJF 2015). Negativo."
+ },
+ {
+  "target": "Interviste TV/video 2017-2019 trovate per caso",
+  "checked": "Nel corso delle ricerche precedenti (2026-10-26)",
+  "result": "Nessuna nuova intervista TV o video con il suo nome."
+ }
+]

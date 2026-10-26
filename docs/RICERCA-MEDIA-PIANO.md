@@ -497,6 +497,33 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   meetup «Longevity Biohacking» al 38C3 (28/12/2024, annunciato su X, assente dalle pagine archiviate); GDELT (429).
   **Proposta**: dopo i residui via Chrome, chiudere la voce — la ricerca automatica sul 2023–2025 è esaurita.
 
+## Note sessione 2026-10-26 (run programmata «ricerca profonda»)
+- **1216 voci** in `data/media.json` (+5). Prime voci della coda ancora bloccate (chiavi, login, risposte di Fabio, video
+  TimePie): lavorati i **residui** delle lacune 2007–2010, 2011–2016, 2017–2019 e 2023–2025 con 3 agenti
+  (`pass4_chrome_testate`, `pass4_wayback_residui`, `pass4_eventi2017_residui`; negativi in
+  `data/research/leads_negatives_*_2026-10-26.json`).
+- **Testate via Chrome di Fabio (ricerche interne JS) → +4**: **Repubblica 19/01/2020 «Senza rete»** (Bottura,
+  #bravimabasta: «come ha scoperto subito dopo Fabio Pietrosanti del Centro Hermes», dominio made.it) e **Nova100 / Sole 24
+  Ore 18/11/2022** (blog Kettmaier, «l'Hermes center con Fabio Pietrosanti») **verificate**; non verificate (paywall):
+  Repubblica Milano cartaceo 19/10/2017 p.5 sul voto elettronico (anteprima «spiega Fabio…») e Il Fatto cartaceo 13/03/2019
+  «Il M5S vuole il voto digitale» (Della Sala; trovato cercando «Pietrosanti», il nome non si vede). **Negativi**: Repubblica
+  (198 risultati letti), Corriere (archivio: 0 per «Fabio Pietrosanti»), Il Fatto (9 articoli GlobaLeaks), Open, ANSA (solo
+  dal 2023), Messaggero (~105/115), HuffPost, Il Post, Internazionale, La7. **Bloccati**: AGI (ricerca rotta, 500), Sky TG24
+  (404), Adnkronos (ricerca non restituisce nulla). **Piste a pagamento**: archivio Sole 24 Ore 29/05/2000, 15/09/2010,
+  16/01/2023 «Diario legale» (probabile omonimo avvocato), NT+ Enti Locali 22/10/2020 (transazione Anac–Hermes).
+- **Web Archive → +1**: pagina programma **Linux Day Bari 2022** (dominio scaduto, capture 05/12/2022, nome tra i relatori).
+  **Negativi**: CPDP 2011 (PDF), post Hermes ALAC/ExpoLeaks 2014, blackhats.it, olografix.org (13.816 URL), ohloh/freshmeat
+  (nessuna capture), Google Code Archive (403 per tutti i progetti: chiuso come bloccato), meetup 38C3 «Longevity
+  Biohacking» (assente da 330 sessioni self-organized). **Resta**: ihc.camp 2024/2026 (nessuna capture dopo il 2023, sito
+  giù), coe.int (CDX del dominio fallisce), SMAU 2007-10 (~8.600 URL non aperti, resa attesa bassa).
+- **Eventi 2017–2019 → 0**: Internet Festival 2017/18, ITASEC 2017-19, HOPE 2018 (talk di Casadevall, sottotitoli senza
+  nome), SSRN 3459366 (copia aperta: solo Hermes), tesi NOVA 2018 (Giachi: Hermes ×12, mai il nome), WIN Glasgow, Camera
+  WebTV 31/01/2017, Clusit/Codemotion/Wired Next Fest/MozFest. **Resta**: convegno sul voto a distanza Roma ~12/10/2019
+  (Wayback di crvd.org/copernicani.it 10/2019), IFF 2017-19 (wiki rimosso), Internet Festival 2019 (sito giù), sottotitoli
+  italiani POuL 2018 (rate limit YouTube).
+- **Prossima voce lavorabile:** convegno Roma 10/2019 e IFF 2017-19 dal Web Archive; piste a pagamento solo con accesso di
+  Fabio; altrimenti proporre a Fabio di chiudere le voci «Lacuna» (ricerca automatica sostanzialmente esaurita).
+
 ## Note sessione 2026-10-25 (run programmata «ricerca profonda»)
 - **1202 voci** in `data/media.json`. Prime voci della coda ancora bloccate (chiavi, login, risposte di Fabio, video
   TimePie): ripassata la **lacuna 2023–2025** (voce sopra, +4). Web Archive «Temporarily Offline» dal laptop: CDX fatti dal

@@ -5,10 +5,10 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1211**; già processate: **1388**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1024** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1149**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **3**
+- Voci in `data/media.json`: **1216**; già processate: **1393**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1029** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1152**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **5**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **102**
@@ -42,12 +42,12 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 26 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 39 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 85 | 5 | 1 | 0 | 0 | 0 | 0 |
+| 2017 | 85 | 5 | 2 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 89 | 3 | 0 | 0 | 0 | 0 | 2 |
-| 2020 | 172 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 89 | 3 | 1 | 0 | 0 | 0 | 2 |
+| 2020 | 173 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 57 | 17 | 0 | 0 | 0 | 0 | 2 |
+| 2022 | 59 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 8 | 6 | 0 | 0 | 0 | 0 | 0 |
@@ -267,37 +267,41 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ❌ **2005** · Webbit 05 - Osservatorio Webbit (RTF doc — [Intervista a Fabio Pietrosanti (Osservatorio Webbit 05, area Sicurezza) - 05_FabioPietrosa](http://www.webb.it/html/webbit05/docosservatorio/interviste/05_FabioPietrosanti.rtf) · licenza: terzi  
   http 404
 - ❌ **2009** · Rai 3 - TGR Neapolis (neapolis.blog.rai. — [Telefonate protette - Nea Polis 29/12/2009](http://neapolis.blog.rai.it/2009/12/29/telefonate-protette-nea-polis-29122009/) · licenza: terzi  
-  URLError; 2026-10-25: CDX dal server di nuovo vuoto
+  URLError
 - ❌ **2010** · Class Life (Class Editori TV, classlife. — [PrivateWave/PrivateGSM video (Hightech)](http://www.classlife.it/dettaglioVideo~categoria~Hightech~ST~201002171147014640~STBR~300.html) · licenza: terzi  
-  URLError; 2026-10-25: CDX dal server di nuovo vuoto
+  URLError
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
   URLError
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
   URLError
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
-  http 404; 2026-10-25: CDX dal server di nuovo vuoto
+  http 404
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
-  URLError; 2026-10-25: CDX dal server di nuovo vuoto
+  URLError
 - ❌ **2019** · Università di Foggia (lezione nel corso  — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck c](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0) · licenza: terzi  
   http 410
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/17/il-voto-degli-italiani-allestero-ha-vari-problemi-2/) · licenza: terzi  
-  URLError (host irraggiungibile). 2026-10-25: CDX completo notizieoggi.com/2022/09/ dal server — 15 capture di altri articoli del 22/09, nessuna di questo; mai archiviato
+  URLError
 - ❌ **2022** · notizieoggi.com (ripresa di Il Post) — [Il voto degli italiani all'estero ha vari problemi](https://notizieoggi.com/2022/09/20/il-voto-degli-italiani-allestero-ha-vari-problemi-3/) · licenza: terzi  
-  URLError (host irraggiungibile). 2026-10-25: CDX completo notizieoggi.com/2022/09/ dal server — 15 capture di altri articoli del 22/09, nessuna di questo; mai archiviato
+  URLError
 - 📚 **2007** · Apogeo — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://books.google.com/books/about/Profilo_hacker.html?id=BEvVGAAACAAJ) · licenza: terzi  
   2026-09-28: scheda Google Books dell'ed. italiana Apogeo 2007: searchable=false (anche per ISBN), nessuna edizione ebook, nessuna anteprima dell'editore → la pagina italiana non è ottenibile online. La menzione è comunque confermata altrove: «"Naif" Pietrosanti» nei ringraziamenti (copia Internet Archive) e p. xiii dell'ed. inglese CRC 2008. Resta aperto solo il numero di pagina italiano (copia fisica).
 - 🔎 **2007** · Apogeo (Milano), collana Apogeo Saggi — [Profilo hacker. La scienza del criminal profiling applicata al mondo dell'hacking](https://www.apogeonline.com/libri/profilo-hacker-raoul-chiesa-silvio-ciappi/) · licenza: terzi  
   2026-09-23: copia completa e leggibile, ma la pagina NON contiene ne' il suo nome ne' «naif» (ne' un riferimento a un suo progetto). Regola di Fabio: senza nome non e' lui. Da decidere: escluderla o tenerla come contesto.
 - 🟡 **2010** · PrivateWave Italia S.p.A. - 'Area stampa — [Rassegna stampa PrivateWave/Khamsa 2009-2011 (press clippings list)](https://web.archive.org/web/20110722045300/http://www.privatewave.it/chi-siamo/area-stampa.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2017** · la Repubblica (print, Milano edition, p. — [I tanti segreti per tutelare la sicurezza del voto con il sistema elettronico](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2017/10/19/i-tanti-segreti-per-tutelare-la-sicurezza-del-voto-elettronicoMilano05.html) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2017** · la Repubblica (print, national edition,  — [La beffa dei tablet a rischio hacker costati 25 milioni](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2017/10/20/la-beffa-dei-tablet-a-rischio-hacker-costati-25-milioni10.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2018** · la Repubblica (print, RLab, p. 57) — [La spia che venne dall'app](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2018/05/30/la-spia-che-venne-dallapp57.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · Il Fatto Quotidiano (print, 'In edicola' — [Il M5S vuole il voto digitale: dove funziona e dove no](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/03/13/il-m5s-vuole-il-voto-digitale-dove-funziona-e-dove-no/5032617/) · licenza: terzi  
+  copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
   page copy saved; video/audio not downloaded: ERROR: [youtube] mAtBH2hkAcg: This video is unavailable
 - 🟠 **2006** · Packet Storm Security (Secunia advisory  — [Secunia Security Advisory 22634 - Parallels Desktop for Mac Insecure File Permissions](https://packetstormsecurity.com/files/51690/Secunia-Security-Advisory-22634.html) · licenza: propria  
-  page is a JavaScript shell (anti-bot). 2026-10-25: Web Archive (dal server) senza capture di /files/51690; l'indice 0611-advisories archiviato non elenca SA22634. Il testo originale Secunia («Provided and/or discovered by: Fabio Pietrosanti») è già salvato nella cartella: ristampa non necessaria
+  page is a JavaScript shell with almost no text: needs browser capture
 - 🟠 **2026** · WeChat — 长寿科技情报站 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕 (repost)](https://weixin.sogou.com/weixin?type=2&query=Pascoe+%E9%95%BF%E5%AF%BF%E8%AE%BA%E5%9D%9B) · licenza: terzi  
   page is a JavaScript shell with almost no text: needs browser capture
 
@@ -1321,6 +1325,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · onData APS — [Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della](https://www.ondata.it/trasparenza/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/) · copia: `2020/dfbe1fa01b38` (live) · licenza: terzi
 - **2020** · open.online — [Gli hacker ci regalano Open Rousseau, l'alternativa libera e gratuita alla piattaforma del](https://www.open.online/2020/10/01/hacker-regalano-open-rousseau-piattaforma-m5s-casaleggio/) · copia: `2020/fdc8002e4c42` (Web Archive 20201029) · licenza: terzi
 - **2020** · Pandora Rivista (online review of politi — [I trojan di Stato: la nuova legge sulle intercettazioni](https://www.pandorarivista.it/articoli/i-trojan-di-stato-la-nuova-legge-sulle-intercettazioni/) · copia: `2020/03251fc3f640` (Web Archive 20201205) · licenza: terzi
+- **2020** · la Repubblica (Repubblica.it, rubrica #b — [Senza rete](https://www.repubblica.it/dossier/bravimabasta/2020/01/19/news/senza_rete-246107973/) · copia: `2020/6b141a2b29da` (Web Archive 20200120) · licenza: terzi
 - **2020** · South China Morning Post – Post Magazine — [North Korea’s man in Spain, a socialist cheerleader who sells foreigners on the country’s ](https://www.scmp.com/magazines/post-magazine/long-reads/article/3084222/north-koreas-man-spain-socialist-cheerleader-who) · copia: `2020/e31d7a860a9d` (Web Archive 20200516) · licenza: terzi
 - **2020** · Agenda Podcast (Spreaker) — [Coronavirus: cos'è e come funziona il contact tracing?](https://www.spreaker.com/episode/coronavirus-cos-e-e-come-funziona-il-contact-tracing--24430226) · copia: `2020/016c081dae4e` (live · video locale `media.mp3` (27 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · Ciao, Internet! con Matteo Flora (Spreak — [La Guida all'E-Commerce di LT42 con l'Avv. Andrea Michinelli e Matteo Flora](https://www.spreaker.com/episode/la-guida-alle-commerce-di-lt42-con-lavv-andrea-michinelli-e-matteo-flora--29982810) · copia: `2020/beb50880eccd` (live · video locale `media.mp3` (36 MB, da caricare su Drive)) · licenza: terzi
@@ -1449,7 +1454,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · GitHub — [kaspersky-risks: Risk Evaluation of Kaspersky related Risk, if subject to Coercion by Russ](https://github.com/fpietrosanti/kaspersky-risks) · copia: `2022/d434e47ccad3` (Web Archive 20230110) · licenza: propria
 - **2022** · GitHub — [monitorapa (fork): Progetto per monitoraggio e notifica di non compliance GDPR alle PA con](https://github.com/fpietrosanti/monitorapa) · copia: `2022/6738a5b0408e` (live) · licenza: propria
 - **2022** · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://internet-casa.com/news/antivirus-kaspersky/) · copia: `2022/3a5ef7cac08d` (Web Archive 20220817) · licenza: terzi
+- **2022** · Linux Day Bari 2022 (linuxdaybari.it, pr — [Privacy e sicurezza del dato: l'approccio hacker - Ugo Lopez, Fabio Pietrosanti, Giacomo T](https://linuxdaybari.it/session/privacy-e-sicurezza-del-dato-lapproccio-hacker-ugo-lopez-fabio-pietrosanti-giacomo-tesio-walter-vannini-christian-bernieri/) · copia: `2022/d7e2f0f66f6a` (Web Archive 20221205) · licenza: terzi
 - **2022** · Livornopress — [L'antivirus russo Kaspersky, rischi e conseguenze di un cyber attack](https://livornopress.it/lantivirus-russo-kaspersky-rischi-e-conseguenze-di-un-cyber-attack) · copia: `2022/fc5039181806` (Web Archive 20220327) · licenza: terzi
+- **2022** · Nova100 - Il Sole 24 Ore (blog 'Informaz — [La diaspora verso i media civici?](https://michelekettmaier.nova100.ilsole24ore.com/2022/11/18/riparliamo-di-media-civici/) · copia: `2022/108953216cc9` (Web Archive 20221118) · licenza: terzi
 - **2022** · Monitora PA — [Ongoing hacks: giugno 2022](https://monitora-pa.it/2022/05/30/ongoing-hacks-202206.html) · copia: `2022/042c0a02b487` (Web Archive 20220529) · licenza: propria
 - **2022** · Monitora PA — [Una passeggiata tra i fiori...](https://monitora-pa.it/2022/06/12/una-passeggiata-tra-i-fiori.html) · copia: `2022/7f65ec5f8f8b` (Web Archive 20220612) · licenza: propria
 - **2022** · Monitora PA — [Google Fonts in vista!](https://monitora-pa.it/2022/08/08/GoogleFonts_in_vista.html) · copia: `2022/9f3161c533de` (Web Archive 20220808) · licenza: propria
