@@ -3220,39 +3220,87 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Smau\" OR \"Sikurezza\" OR \"Infosec\" relatore 2002 OR 2003 OR 2004",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25"
+      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25",
+      "date": "2026-10-26",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Wired\" OR \"Repubblica\" OR \"Corriere\" whistleblowing 2023 OR 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25"
+      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25",
+      "date": "2026-10-26",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Clusit\" OR \"Rapporto Clusit\" OR \"Security Summit\"",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25"
+      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25",
+      "date": "2026-10-26",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" Tor \"anonimato\" intervista 2006 OR 2007 OR 2008",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25"
+      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25",
+      "date": "2026-10-26",
+      "found": 3
     },
     {
       "query": "\"Fabio Pietrosanti\" biohacking OR longevità OR \"Codice Beta\" 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25"
+      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25",
+      "date": "2026-10-26",
+      "found": 9
     },
     {
       "query": "\"Pietrosanti\" \"Hermes Center\" OR \"Centro Hermes\" 2024 OR 2025 trasparenza",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25",
+      "date": "2026-10-26",
+      "found": 10
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Linux Journal\" OR \"Linux Magazine\" OR \"Dev\" articolo 2004 OR 2005 OR 2006",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-26 16:32: coda esaurita; anni deboli 2003-08 e 2023-25"
+      "note": "aggiunta 2026-10-26 20:32: coda esaurita; anni deboli 2003-08 e 2023-25, filoni Rousseau/Kaspersky/biohacking"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Kaspersky\" Farnesina OR \"pubblica amministrazione\" 2017 OR 2018",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 20:32: coda esaurita; anni deboli 2003-08 e 2023-25, filoni Rousseau/Kaspersky/biohacking"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Rousseau\" Casaleggio \"Open\" 2019 OR 2020 OR 2021",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 20:32: coda esaurita; anni deboli 2003-08 e 2023-25, filoni Rousseau/Kaspersky/biohacking"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"voto elettronico\" OR \"e-voting\" 2008 OR 2009 OR 2010",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 20:32: coda esaurita; anni deboli 2003-08 e 2023-25, filoni Rousseau/Kaspersky/biohacking"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Fund Longevity\" OR \"Longevity Summit\" OR \"Rapamycin\" 2024 OR 2025 OR 2026",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 20:32: coda esaurita; anni deboli 2003-08 e 2023-25, filoni Rousseau/Kaspersky/biohacking"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"GlobaLeaks\" università OR comune OR ospedale 2023 OR 2024 OR 2025 intervista",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-26 20:32: coda esaurita; anni deboli 2003-08 e 2023-25, filoni Rousseau/Kaspersky/biohacking"
     }
   ],
   "history": [
@@ -4148,6 +4196,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 6 query pending (Webbit/Linux Day/Infosecurity 2003-05, Hackmeeting/MOCA/ESC, Punto Informatico 2003-07, ANAC/canale interno 2023-24, IA e sorveglianza 2024-25, podcast/webinar Hermes 2023-25; rimossa una copia duplicata dell'ultima query) senza robot check: 58 risultati, 52 URL distinti (query string tolte). Scartati senza verifica: mailing list (pluto-security, lists.autistici, lists.inventati hackmeeting), LinkedIn, profilo SlideShare proprio, indici (pr-foundation /content/, dicorinto tag/tipologia, poul topic, attivissimo 2022/06, radioradicale soggetti, raiplaysound puntate, tag Sole 24 Ore, euronews location). 28 candidati verificati: 26 respinti o già in archivio (researchgate/academia FAIL ma il caso TI Italia è già in archivio via DOI). 2 OK dallo script, nessuno nuovo: scribd 777154998 già escluso; SlideShare «Del Corso rivista Firmware» escluso in decisions.json (nome solo nella barra laterale). File grezzo della passata lasciato vuoto. Nessuna nuova copia (archive_copies: pending 0). Rendimento nullo. Coda esaurita: aggiunte 6 query (SMAU/Sikurezza 2002-04, grandi testate whistleblowing 2023-25, Clusit, Tor/anonimato 2006-08, biohacking 2025, Hermes Center 2024-25)."
+    },
+    {
+      "date": "2026-10-26 20:32",
+      "engine": "google-chrome",
+      "searched": 6,
+      "captcha": false,
+      "confirmed_new": 2,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 6 query pending (SMAU/Sikurezza 2002-04, grandi testate whistleblowing 2023-25, Clusit/Security Summit, Tor/anonimato 2006-08, biohacking/Codice Beta 2025, Hermes Center 2024-25) senza robot check: 51 risultati, 46 URL distinti (localStorage conteneva 8 voci residue di una passata precedente, ignorate). Scartati senza verifica: social (LinkedIn, Instagram, Facebook, X), profilo SlideShare proprio, indici (personaldemocracy speakers, dicorinto 2022/03, poul topic, raiplaysound programmi/puntate, tag Sole 24 Ore, principigrimaldi amministrazione-trasparente, hackingbiology /news/). 32 candidati verificati: 27 respinti o già in archivio (researchgate FAIL ma il caso TI Italia è già in archivio via DOI). 5 OK dallo script: irpa.eu e SlideShare hera-lombardi già esclusi; SlideShare «presentazione tesi L-31» escluso in decisions.json (nome solo nella barra laterale); 2 nuove voci: controtuttelemafie.it «libro 2020 i partiti 1» (raccolta stampa 2020, Fabio citato sulle specifiche tecniche di Rousseau) e HackingBiology news «2025 Longevity Summit, Dublin» (02/07/2025, sito proprio). 2 nuove copie offline (wayback + live). Coda esaurita: aggiunte 6 query (riviste Linux 2004-06, Kaspersky/PA 2017-18, Rousseau 2019-21, voto elettronico 2008-10, Fund Longevity/Rapamycin 2024-26, GlobaLeaks in enti 2023-25)."
     }
   ]
 }

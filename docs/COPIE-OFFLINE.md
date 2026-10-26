@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1217**; già processate: **1394**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1030** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1153**
+- Voci in `data/media.json`: **1219**; già processate: **1396**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1032** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1155**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **5**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -45,12 +45,12 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 85 | 5 | 2 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 89 | 3 | 1 | 0 | 0 | 0 | 2 |
-| 2020 | 173 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 174 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 59 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2025 | 8 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2025 | 9 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 45 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
@@ -1309,6 +1309,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Fondazione AIDR (Osservatorio Trasparenz — [Il blocco dell'indicizzazione della sezione Amministrazione Trasparente dei siti web della](https://www.aidr.it/il-blocco-dellindicizzazione-della-sezione-amministrazione-trasparente-dei-siti-web-della-pubblica-amministrazione/) · copia: `2020/5237002118f2` (Web Archive 20201030) · licenza: terzi
 - **2020** · Associazione Luca Coscioni — [Coronavirus: ascolta tutti i podcast!](https://www.associazionelucacoscioni.it/notizie/comunicati/coronavirus-ascolta-tutte-le-interviste-in-podcast) · copia: `2020/4d27f32431e3` (Web Archive 20200517) · licenza: terzi
 - **2020** · bloomberg.com — [Wanna Do Business in Pyongyang? Call North Korea’s Guy in Spain](https://www.bloomberg.com/news/features/2020-05-01/wanna-do-business-in-pyongyang-call-north-korea-s-guy-in-spain) · copia: `2020/28ff2469c850` (Web Archive 20200501) · licenza: terzi
+- **2020** · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm) · copia: `2020/181f11a32415` (Web Archive 20230129) · licenza: terzi
 - **2020** · corriere.it — [M5S, ritardo nei pagamenti: Rousseau taglia i servizi. Evento del 4 ottobre rinviato](https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml) · copia: `2020/7fb9b3016804` (Web Archive 20201010) · licenza: terzi
 - **2020** · wired.it — [Ecco come la Corea del Nord usa il digitale per aggirare le sanzioni - Wired](https://www.firstradioweb.com/2020/02/25/ecco-come-la-corea-del-nord-usa-il-digitale-per-aggirare-le-sanzioni/) · copia: `2020/0ab419bf5f81` (Web Archive 20210122) · licenza: terzi
 - **2020** · Giornalettismo — [Voto elettronico in sperimentazione in Italia? La commissione](https://www.giornalettismo.com/voto-elettronico-sperimentazione-italia/) · copia: `2020/3bdb7427f5e9` (live) · licenza: terzi
@@ -1546,6 +1547,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2025** · IRPA - Istituto di ricerche sulla pubbli — [Italia come centro dell'industria spyware (insieme a Israele e India)](https://archivio.irpa.eu/italia-come-centro-dellindustria-spyware-insieme-a-israele-e-india/) · copia: `2025/537910ada442` (Web Archive 20260413) · licenza: terzi
 - **2025** · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ) · copia: `2025/b45354d8cd4a` (Web Archive 20250911) · licenza: terzi
 - **2025** · Oxford University Press — [Political Automation: An Introduction to AI in Government and Its Impact on Citizens](https://books.google.com/books?id=xRREEQAAQBAJ) · copia: `2025/3867298f9527` (live) · licenza: terzi
+- **2025** · hackingbiology.com — [Hacking Biology at the 2025 Longevity Summit, Dublin](https://hackingbiology.com/news/longevity-summit-dublin-2025/) · copia: `2025/be8b826de3fe` (live) · licenza: terzi
 - **2025** · hackingbiology.com — [Radio Rai: intervista a Codice Beta — Ogni cosa è digitale (2025)](https://hackingbiology.com/news/radio-rai-codice-beta-2025/) · copia: `2025/ab3bb3414371` (Web Archive 20260924) · licenza: terzi
 - **2025** · hackingbiology.com — [Speciale Tg1: pionieri della longevità — Biohacker](https://hackingbiology.com/news/speciale-tg1-pionieri-longevita-2025/) · copia: `2025/6460a41dcc53` (Web Archive 20260924) · licenza: terzi
 - **2025** · info.nodes ETS (report attività 2024) — [Report attività 2024 - board](https://irp.cdn-website.com/6c73ff89/files/uploaded/Report_attivit%C3%A0_2024.pdf) · copia: `2025/95d4da4c16f9` (live) · licenza: terzi

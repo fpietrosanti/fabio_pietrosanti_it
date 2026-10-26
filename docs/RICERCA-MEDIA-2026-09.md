@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1665**; dopo deduplica: **1217**
+- Risultati grezzi dalle ricerche: **1667**; dopo deduplica: **1219**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1162**
-- Verificati aprendo la pagina: **1148**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1164**
+- Verificati aprendo la pagina: **1150**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 250, tweet 132, Talk 95, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 251, tweet 132, Talk 96, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -38,12 +38,12 @@ Per tipo (nuovi): Menzionato 250, tweet 132, Talk 95, Video 80, Citato 75, Post 
 | 2017 | 0 | 87 | 87 |
 | 2018 | 0 | 89 | 89 |
 | 2019 | 0 | 73 | 73 |
-| 2020 | 0 | 181 | 181 |
+| 2020 | 0 | 182 | 182 |
 | 2021 | 0 | 94 | 94 |
 | 2022 | 0 | 73 | 73 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
-| 2025 | 0 | 14 | 14 |
+| 2025 | 0 | 15 | 15 |
 | 2026 | 0 | 44 | 44 |
 
 Anni senza nessun risultato: nessuno
@@ -139,12 +139,14 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2026** · Menzionato · make-ai-good.org — [Hermes Center for Transparency and Digital Human Rights — Make AI Good (graph)](https://make-ai-good.org/graph/org-hermes-center/)  
   verified via live; context: …s network it has belonged to since 2018. Founding and structure Hermes was formally registered in 2012 after the GlobaLeaks project — initiated in late 2010 by Fabio Pietrosanti and shared into the Italian hacktivist com… | scheda del grafo Make AI Good: GlobaLeaks avviato da Fabio Pietrosanti nel 2010
 
-## 2025 — 14 voci, 14 nuove
+## 2025 — 15 voci, 15 nuove
 
 - 🆕 **2025-08-13** · Libro · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Author: Bruce L. Mann (ISBN 9798337331287). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking, Boing ...'.
 - 🆕 **2025-07-16** · article · IRPA - Istituto di ricerche sulla pubblica amministrazione (archivio.irpa.eu) — [Italia come centro dell'industria spyware (insieme a Israele e India)](https://archivio.irpa.eu/italia-come-centro-dellindustria-spyware-insieme-a-israele-e-india/)  
   Verified: "Secondo Fabio Pietrosanti, Direttore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali, le forze dell'ordine italiane hanno un accesso privilegiato alle tecnologie di sorveglianza". datePublished 2025-07-16.
+- 🆕 **2025-07-02** · Talk · hackingbiology.com — [Hacking Biology at the 2025 Longevity Summit, Dublin](https://hackingbiology.com/news/longevity-summit-dublin-2025/)  
+  verified via live; context: …ip to content Hacking Biology Foundation Foundation My Blog News About Biohack.it Hacking Biology at the 2025 Longevity Summit, Dublin 2 July 2025 · 1 min read Fabio Pietrosanti attended the 2025 Longevity Summit at Trin… | Pagina news del sito proprio HackingBiology: partecipazione al Longevity Summit (Trinity College Dublin, 2-4/7/2025).
 - 🆕 **2025-06-27** · Video · Facebook – pagina «Codice Barbara Carfagna» (giornalistaRaiuno) — [Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Alberto Carrara! (dietro le quinte di Codice, Rai 1)](https://www.facebook.com/giornalistaRaiuno/videos/-quando-anche-il-biohacker-fabio-pietrosanti-ha-bisogno-di-una-sistemata-ci-pens/4033172536901428/)  
   Reel ufficiale della pagina del programma Codice (canonical: https://www.facebook.com/reel/4033172536901428/). og:title letto 2026-10-07: «Quando anche il biohacker Fabio Pietrosanti ha bisogno di una “sistemata”… ci pensa Don Alberto Carrara! ... siamo prontissimi per la puntata di stasera ... in seconda serata su Rai1 #CODICE #BarbaraCarfagna #Biohacking». Video promo/backstage della puntata Codice 27/06/2025 (gia' nota). Data assente nei metadati: 'puntata di stasera' -> pubblicato il giorno della messa in onda (26 o 27/06/2025; la puntata era alle 00:20 del 27). Pagina social di un programma Rai, non un articolo. | Data corretta: yt-dlp timestamp 1751048393 = 27/06/2025 (giorno della puntata).
 - 🆕 **2025-06-27** · TV · Rai 1 - Codice, la Vita è digitale — [Codice, la Vita è digitale - Puntata del 27/06/2025 Biohacking](https://www.raiplay.it/video/2025/06/Codice-la-Vita-e-digitale---Puntata-del-27062025-50a78412-6520-4ded-939d-c1b549204976.html)  
@@ -580,7 +582,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · article · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/)  
   Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 
-## 2020 — 181 voci, 181 nuove
+## 2020 — 182 voci, 182 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -944,6 +946,8 @@ Anni senza nessun risultato: nessuno
   Eva Schlehahn. Text: 'Many states ... allow ... the deployment of such technologies (e.g. Pietrosanti and Aterno 2017)'; reference 'Pietrosanti F, Aterno S (15 Feb 2017) Italy unveils a legal proposal to regulate government hacking'. Same work as known PDF URL.
 - 🆕 **2020** · Talk · The Innovation Group — [Fabio Pietrosanti - speaker](https://www.theinnovationgroup.it/speakers/fabio-pietrosanti/)  
   Speaker page as Hermes Center founder (year approximate)
+- 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
+  verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
 ## 2019 — 73 voci, 73 nuove
 
