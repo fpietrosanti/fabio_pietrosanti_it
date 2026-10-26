@@ -1014,6 +1014,10 @@
   {
    "url": "https://infocondb.org/presenter/fabio-pietrosanti-naif",
    "reason": "2026-10-26: aggregatore/database di relatori (InfoconDB), non una pubblicazione; i talk sono già in archivio dalle fonti originali"
+  },
+  {
+   "url": "https://arxiv.org/html/1306.5156v1",
+   "reason": "2026-10-26: versione HTML del paper Cryptocat (arXiv 1306.5156) già in archivio come /abs/ e /pdf/; Fabio citato solo nei ringraziamenti"
   }
  ],
  "override": [
