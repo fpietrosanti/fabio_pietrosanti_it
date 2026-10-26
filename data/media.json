@@ -16573,6 +16573,23 @@
   "date": "2020-10-02",
   "year": 2020,
   "type": "mentioned",
+  "outlet": "m.dagospia.com",
+  "title": "mentre nasce open rousseau, la piattaforma originale sospende i servizi perché non ha soldi",
+  "url": "https://m.dagospia.com/politica/mentre-nasce-open-rousseau-piattaforma-originale-sospende-i-servizi-perche-248686",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti “contiani”, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega così le specifiche tecniche di Open…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-27-0032"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-10-02",
+  "year": 2020,
+  "type": "mentioned",
   "outlet": "corriere.it",
   "title": "M5S, ritardo nei pagamenti: Rousseau taglia i servizi. Evento del 4 ottobre rinviato",
   "url": "https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml",
@@ -19159,6 +19176,23 @@
   "known": false,
   "_slices": [
    "slice5_2021_2026"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2022-03-03",
+  "year": 2022,
+  "type": "mentioned",
+  "outlet": "matricedigitale.it",
+  "title": "Kaspersky: si accende il dibattito sui social: qual è l’alternativa?",
+  "url": "https://www.matricedigitale.it/2022/03/03/kaspersky-si-accende-il-dibattito-sui-social-qual-e-lalternativa/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …to un’interrogazione parlamentare a seguito del dibattito formatosi nelle piazze virtuali, citando gli articoli sul tema come fonte della sua iniziativa. Anche Fabio Pietrosanti , presidente dell’ Hermes Center , ha risp…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-27-0032"
   ],
   "on_old_site": false
  },

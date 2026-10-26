@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1667**; dopo deduplica: **1219**
+- Risultati grezzi dalle ricerche: **1673**; dopo deduplica: **1221**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1164**
-- Verificati aprendo la pagina: **1150**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1166**
+- Verificati aprendo la pagina: **1152**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 251, tweet 132, Talk 96, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 253, tweet 132, Talk 96, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -38,9 +38,9 @@ Per tipo (nuovi): Menzionato 251, tweet 132, Talk 96, Video 80, Citato 75, Post 
 | 2017 | 0 | 87 | 87 |
 | 2018 | 0 | 89 | 89 |
 | 2019 | 0 | 73 | 73 |
-| 2020 | 0 | 182 | 182 |
+| 2020 | 0 | 183 | 183 |
 | 2021 | 0 | 94 | 94 |
-| 2022 | 0 | 73 | 73 |
+| 2022 | 0 | 74 | 74 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 15 | 15 |
@@ -242,7 +242,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2023** · institutional · Autorita Garante per la Protezione dei Dati Personali - Repubblica di San Marino — [Chi siamo - Comitato Tecnico degli Esperti (art. 52 comma 11)](https://www.garanteprivacy.sm/pub1/garante/Autorita/chi-siamo.html)  
   «Dott. Fabio Pietrosanti» nel Comitato Tecnico degli Esperti (art. 52 c. 11) dell'Autorità Garante per la protezione dei dati personali della Repubblica di San Marino. Confermato da Fabio il 2026-10-07. Prima comparsa sulla pagina ufficiale fra il 2023-02-04 (assente) e il 2023-12-03 (presente), da copie Web Archive.
 
-## 2022 — 73 voci, 73 nuove
+## 2022 — 74 voci, 74 nuove
 
 - 🆕 **2022-12-01** · Report · Ministero dell'Istruzione - Ufficio Scolastico Regionale per la Toscana, decreto prot. AOODRTO 18850 del 01-12-2022 (item also contains note prot. 16557 del 19-10-2022) — [Istanza di riesame ai sensi dell'art. 5 c. 7 D.Lgs. 33/2013 relativa all'accesso civico generalizzato (Monitora PA)](https://archive.org/details/m-pi.-aoodrto.-registro-ufficiale-u.-0016557.19-10-2022)  
   djvu text of file 0018850.01-12-2022, leaves 0-1: 'in data 19 settembre 2022 il sig. Fabio Pietrosanti ha inviato istanza di accesso civico generalizzato ... a tutte le 465 Istituzioni scolastiche della Regione Toscana'; mass 'richiesta di riesame' against 157 denials and 108 non-replies; schools must reply 'fornendo espresso riscontro al sig. Fabio Pietrosanti'. Companion note 16557 (19-10-2022) concerns the FOIA sent by 'l'associazione Monitora PA' to 8254 schools and the opinion of the Avvocatura generale dello Stato.
@@ -368,6 +368,8 @@ Anni senza nessun risultato: nessuno
   'Ospiti: Arturo Di Corinto...; Fabio Pietrosanti, presidente Centro Hermes per i diritti umani digitali; Stefano Mele...'
 - 🆕 **2022-03-05** · Radio · Rai Radio 1 - Eta Beta — [Eta Beta del 05/03/2022](https://www.raiplaysound.it/audio/2022/03/Eta-Beta-del-05032022-bfe193b3-3441-4fe7-875e-6d26d85e70f0.html)  
   Ri-verificato via JSON RaiPlay Sound (lista completa Eta Beta 2021-2026, 273 puntate): unica puntata con il suo nome nella descrizione («Fabio Pietrosanti, presidente Centro Hermes...»).
+- 🆕 **2022-03-03** · Menzionato · matricedigitale.it — [Kaspersky: si accende il dibattito sui social: qual è l’alternativa?](https://www.matricedigitale.it/2022/03/03/kaspersky-si-accende-il-dibattito-sui-social-qual-e-lalternativa/)  
+  verified via wayback; context: …to un’interrogazione parlamentare a seguito del dibattito formatosi nelle piazze virtuali, citando gli articoli sul tema come fonte della sua iniziativa. Anche Fabio Pietrosanti , presidente dell’ Hermes Center , ha risp…
 - 🆕 **2022-03-02** · Menzionato · Il Riformista — [La sicurezza italiana in mano a Kaspersky, l'azienda: "Nessun legame con Putin". Ma i conti non tornano…](https://www.ilriformista.it/la-sicurezza-italiana-in-mano-a-kaspersky-lazienda-nessun-legame-con-putin-ma-i-conti-non-tornano-283463/)  
   Follow-up referencing his interview and the parliamentary inquiry it prompted
 - 🆕 **2022-02-28** · Citato · Startmag — [Anonymous, c'è un caso Kaspersky in Italia?](https://www.startmag.it/innovazione/anonymous-ce-un-caso-kaspersky-in-italia/)  
@@ -582,7 +584,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · article · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/)  
   Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 
-## 2020 — 182 voci, 182 nuove
+## 2020 — 183 voci, 183 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -658,6 +660,8 @@ Anni senza nessun risultato: nessuno
   Controversia con ANAC sull'applicazione della licenza AGPL a OpenWhistleblowing, risolta: il codice torna libero. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.
 - 🆕 **2020-10-08** · Menzionato · ilriformista.it — [Volano stracci tra i grillini: chi vince sui social tra Casaleggio e la base vicina a Di Maio?](https://www.ilriformista.it/volano-stracci-tra-i-grillini-chi-vince-sui-social-tra-casaleggio-e-la-base-vicina-a-di-maio-166440/)  
   verified via live; context: …, oppure preferire la linea conservatrice di Di Battista e soprattutto di Davide Casaleggio . C’è chi addirittura ha messo benzina sul fuoco come l’informatico Fabio Pietrosanti che, a disposizione dei parlamentari che v…
+- 🆕 **2020-10-02** · Menzionato · m.dagospia.com — [mentre nasce open rousseau, la piattaforma originale sospende i servizi perché non ha soldi](https://m.dagospia.com/politica/mentre-nasce-open-rousseau-piattaforma-originale-sospende-i-servizi-perche-248686)  
+  verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti “contiani”, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega così le specifiche tecniche di Open…
 - 🆕 **2020-10-02** · Menzionato · corriere.it — [M5S, ritardo nei pagamenti: Rousseau taglia i servizi. Evento del 4 ottobre rinviato](https://www.corriere.it/politica/20_ottobre_02/cinque-stelle-casaleggio-congela-blog-chi-deve-far-rispettare-regole-faccia-434e7ae4-04b9-11eb-952f-bb62f0bc5655.shtml)  
   verified via live; context: …`Jaromil� Roio (hacker che ha dato vita alla comunit� Dyne.org) annuncia la nascita del software libero �Open Rousseau � che, come anticipato all’Adnkronos da Fabio Pietrosanti, uno dei promotori dell’iniziativa, punta a…
 - 🆕 **2020-10-02** · newspaper · Il Gazzettino (Friuli ed.) — [Il Gazzettino-Friuli 2020-10-02 (article on 'Open Rousseau')](https://archive.org/details/GazzettinoFVG2020-10-02)  

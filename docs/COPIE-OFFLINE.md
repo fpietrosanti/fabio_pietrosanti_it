@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-26 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-27 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **1219**; già processate: **1396**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1032** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1155**
+- Voci in `data/media.json`: **1221**; già processate: **1398**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1034** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1157**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **5**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -45,9 +45,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 85 | 5 | 2 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 89 | 3 | 1 | 0 | 0 | 0 | 2 |
-| 2020 | 174 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 175 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2022 | 59 | 17 | 0 | 0 | 0 | 0 | 2 |
+| 2022 | 60 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 9 | 6 | 0 | 0 | 0 | 0 | 0 |
@@ -1198,6 +1198,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Palgrave Macmillan (Springer Nature) — [A Taxonomy of Whistleblowing Platforms (ch. 5 of Di Salvo, Digital Whistleblowing Platform](https://link.springer.com/chapter/10.1007/978-3-030-38505-7_5) · copia: `2020/d578927552c3` (Web Archive 20220505) · licenza: terzi
 - **2020** · Springer, The International Library of E — [Cybersecurity and the State](https://link.springer.com/content/pdf/10.1007/978-3-030-29053-5_10.pdf) · copia: `2020/4209544753a4` (Web Archive 20200510) · licenza: terzi
 - **2020** · Palgrave Macmillan (Springer Nature) — [Digital Whistleblowing Platforms in Journalism: Encrypting Leaks](https://link.springer.com/content/pdf/bfm:978-3-030-38505-7/1) · copia: `2020/ab096a913dc4` (live) · licenza: terzi
+- **2020** · m.dagospia.com — [mentre nasce open rousseau, la piattaforma originale sospende i servizi perché non ha sold](https://m.dagospia.com/politica/mentre-nasce-open-rousseau-piattaforma-originale-sospende-i-servizi-perche-248686) · copia: `2020/3d857265efa0` (Web Archive 20250811) · licenza: terzi
 - **2020** · Nexa Center for Internet & Society (Poli — [Tracciamento dei contatti e democrazia: lettera aperta ai decisori](https://nexa.polito.it/lettera-aperta-app-covid19/) · copia: `2020/fecb07b890f6` (Web Archive 20200421) · licenza: terzi
 - **2020** · Bloomberg - Listen to the Story — [North Korea's Man in Spain](https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain) · copia: `2020/d89f8f1c3c55` (Web Archive 20260206 · video locale `media.mp3` (26 MB, da caricare su Drive)) · licenza: terzi
 - **2020** · ParteciPa (Dipartimento della Funzione P — [Apertura della base dati del Registro Imprese in Open Data](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/423) · copia: `2020/f973695f7ec0` (Web Archive 20241007) · licenza: terzi
@@ -1493,6 +1494,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2022** · Key4biz — [PA, non basta l'addio a Google Analytics: "10mila siti violano privacy cittadini con Googl](https://www.key4biz.it/pa-non-basta-laddio-a-google-analytics-10mila-siti-violano-privacy-cittadini-con-google-fonts/413335/) · copia: `2022/b7f58f58b496` (Web Archive 20220809) · licenza: terzi
 - **2022** · LinkedIn — [Eliminare Kaspersky dalle infrastutture IT in Europa è una priorità](https://www.linkedin.com/posts/activity-6906253703863427072-Xirm) · copia: `2022/097ed5a7ec4a` (Web Archive 20220306) · licenza: propria
 - **2022** · Università LIUC (Castellanza/Varese) — S — [Costruire comunità sostenibili. Quale ruolo per la logistica? (Convegno SOS LOGistica 2022](https://www.liuc.it/eventi/costruire-comunita-sostenibili-quale-ruolo-per-la-logistica/) · copia: `2022/73819474bb0d` (Web Archive 20220814) · licenza: terzi
+- **2022** · matricedigitale.it — [Kaspersky: si accende il dibattito sui social: qual è l’alternativa?](https://www.matricedigitale.it/2022/03/03/kaspersky-si-accende-il-dibattito-sui-social-qual-e-lalternativa/) · copia: `2022/57d4de5be2eb` (Web Archive 20250514) · licenza: terzi
 - **2022** · Partito Pirata — [«Cara MonitoraPA, fammi causa! Saluti, Partito Pirata»](https://www.partito-pirata.it/2022/09/01/il-partito-pirata-risponde-alle-minacce-di-monitorapa-sbagliate-tecnicamente-e-politicamen/) · copia: `2022/80fbfaf1344d` (live) · licenza: terzi
 - **2022** · Privacy Italia — [Google Analytics rimosso da 3.400 siti della PA, grazie a MonitoraPa: "Ora un esposto al G](https://www.privacyitalia.eu/google-analytics-rimosso-da-3-400-siti-della-pa-grazie-a-monitorapa-ora-un-esposto-al-garante-privacy/16760/) · copia: `2022/e2a84062096e` (Web Archive 20220526) · licenza: terzi
 - **2022** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Google Analitycs - IoT e controllo accessi - Beauty tech - Taxi volanti](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/google-analitycs--iot-e-controllo-accessi--beauty-tech--taxi-volanti-200500-2419319461594695) · copia: `2022/21425bf14783` (Web Archive 20230928) · licenza: terzi
