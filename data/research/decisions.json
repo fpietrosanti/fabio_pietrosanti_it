@@ -1066,6 +1066,30 @@
   {
    "url": "https://handwiki.org/wiki/Software:GlobaLeaks",
    "reason": "2026-10-27: mirror HandWiki della voce Wikipedia EN GlobaLeaks, già in archivio (regola mirror/versioni)"
+  },
+  {
+   "url": "https://archive.org/stream/unita_1997-01-17/unita_1997-01-17_djvu.txt",
+   "reason": "2026-10-28: OCR dell'Unità 1997, «naif» è un aggettivo (articolo sportivo), non Fabio"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/catalogo-venatorio-81-37780621/37780621",
+   "reason": "2026-10-28: catalogo librario, «naif» è un aggettivo, non Fabio"
+  },
+  {
+   "url": "https://www.scribd.com/document/777137486/29-Ham-Radio",
+   "reason": "2026-10-28: pagina Scribd di altro documento; il nome compare solo nella barra dei documenti correlati"
+  },
+  {
+   "url": "https://issuu.com/festival_del_giornalismo/docs/brochure_ijf14_online",
+   "reason": "2026-10-28: brochure IJF 2014: sessione «Intercettazioni telefoniche nell'era dell'NSA Gate» già presente"
+  },
+  {
+   "url": "https://issuu.com/Festival_del_Giornalismo/docs/brochure_ijf14_english_online",
+   "reason": "2026-10-28: brochure IJF 2014 (EN): sessione «Telephone intercepts in the age of NSAGate» già presente"
+  },
+  {
+   "url": "https://issuu.com/Festival_del_Giornalismo/docs/ijf15_brochure_eng",
+   "reason": "2026-10-28: brochure IJF 2015 (EN): sessione Greenwald-in-a-box già presente"
   }
  ],
  "override": [
@@ -1397,6 +1421,25 @@
    "url": "https://www.repubblica.it/cronaca/2018/11/09/news/il_sito_del_viminale_bloccato_all_estero_per_motivi_di_sicurezza_informatica_-301101733/",
    "set": {
     "verified": true
+   }
+  },
+  {
+   "url": "https://odg.bo.it/blog/a-riccione-dig-festival-2019-nove-workshop-di-dig-academy-con-crediti-formativi-dellodg-numerosi-appuntamenti-con-il-giornalismo-investigativo-finalissima-dei-dig-awards/",
+   "set": {
+    "date": "2019-05-23",
+    "year": 2019,
+    "type": "talk",
+    "outlet": "Ordine dei Giornalisti Emilia-Romagna",
+    "title": "DIG Festival Riccione 2019 — workshop DIG Academy «Condom USB. Come proteggere il giornalismo dalle malattie digitalmente trasmissibili» (con Raffaele Angius, Hermes Center)"
+   }
+  },
+  {
+   "url": "https://quenube.com/whatsapp-notifica-a-200-usuarios-que-instalaron-una-aplicacion-falsa-creada-por-el-fabricante-italiano-de-software-espia-sio/",
+   "set": {
+    "date": "2026-04-01",
+    "year": 2026,
+    "language": "es",
+    "type": "quoted"
    }
   }
  ],

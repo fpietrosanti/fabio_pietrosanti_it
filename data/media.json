@@ -13256,6 +13256,23 @@
   "on_old_site": false
  },
  {
+  "date": "2019-05-23",
+  "year": 2019,
+  "type": "talk",
+  "outlet": "Ordine dei Giornalisti Emilia-Romagna",
+  "title": "DIG Festival Riccione 2019 — workshop DIG Academy «Condom USB. Come proteggere il giornalismo dalle malattie digitalmente trasmissibili» (con Raffaele Angius, Hermes Center)",
+  "url": "https://odg.bo.it/blog/a-riccione-dig-festival-2019-nove-workshop-di-dig-academy-con-crediti-formativi-dellodg-numerosi-appuntamenti-con-il-giornalismo-investigativo-finalissima-dei-dig-awards/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …11.30 con Nico Piro della RAI ); Condom USB. Come proteggere il giornalismo dalle malattie digitalmente trasmissibili ( ore 11.30 – 13.30 con Raffaele Angius e Fabio Pietrosanti di Hermes Center ); Detective della verità…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-28-0033"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2019-08-30",
   "year": 2019,
   "type": "article",
@@ -21427,6 +21444,23 @@
   "known": false,
   "_slices": [
    "pass3_google_2026-10-24-1234"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-04-01",
+  "year": 2026,
+  "type": "quoted",
+  "outlet": "quenube.com",
+  "title": "WhatsApp notifica a 200 usuarios que instalaron una aplicación falsa creada por el fabricante italiano de software espía SIO » Que Nube - Noticias Virales, Tecnología y Tendencias",
+  "url": "https://quenube.com/whatsapp-notifica-a-200-usuarios-que-instalaron-una-aplicacion-falsa-creada-por-el-fabricante-italiano-de-software-espia-sio/",
+  "language": "es",
+  "role": "subject",
+  "note": "verified via live; context: …roporciona una base estatutaria formal para el “captatore informatico”, o interceptor de computadoras, software troyano efectivamente autorizado por el estado. Fabio Pietrosanti, presidente del Centro Hermes para la Tran…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-28-0033"
   ],
   "on_old_site": false
  },

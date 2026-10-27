@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1682**; dopo deduplica: **1228**
+- Risultati grezzi dalle ricerche: **1693**; dopo deduplica: **1230**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1173**
-- Verificati aprendo la pagina: **1159**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1175**
+- Verificati aprendo la pagina: **1161**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 255, tweet 132, Talk 97, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 255, tweet 132, Talk 98, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -37,18 +37,18 @@ Per tipo (nuovi): Menzionato 255, tweet 132, Talk 97, Video 80, Citato 75, Post 
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 88 | 88 |
 | 2018 | 0 | 89 | 89 |
-| 2019 | 0 | 73 | 73 |
+| 2019 | 0 | 74 | 74 |
 | 2020 | 0 | 184 | 184 |
 | 2021 | 0 | 94 | 94 |
 | 2022 | 0 | 74 | 74 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 15 | 15 |
-| 2026 | 0 | 45 | 45 |
+| 2026 | 0 | 46 | 46 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 45 voci, 45 nuove
+## 2026 — 46 voci, 46 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
@@ -118,6 +118,8 @@ Anni senza nessun risultato: nessuno
   Pagina evento: Fabio tra i featured guests con bio «Biohacker from biohack.it». Partecipazione confermata da Fabio il 2026-10-07; parte della giornata globale Fund Longevity (livestream YouTube 4CHvbryuUb4, collegamento da Roma previsto 17:23-17:25 CET). Foto di Fabio (selfie ai Fori Imperiali con cartello «STOP AGING») nell'archivio privato; compare nel livestream 4CHvbryuUb4 a 43:35–45:30.
 - 🆕 **2026-04-08** · Video · YouTube — Fund Longevity (Global Live Stream) — [Fund Longevity — Global Live Stream (collegamento da Roma, 43:35–45:30)](https://www.youtube.com/watch?v=4CHvbryuUb4)  
   Diretta mondiale del 08/04/2026 (1:32:45). Collegamento dal rally di Roma (Fori Imperiali) a 43:35–45:30: Fabio compare a destra, maglia rossa, cartello «STOP AGING»; nome assente da titolo/descrizione. Riconosciuto da Fabio il 07/10/2026 sui fotogrammi, con la sua foto della stessa scena.
+- 🆕 **2026-04-01** · Citato · quenube.com — [WhatsApp notifica a 200 usuarios que instalaron una aplicación falsa creada por el fabricante italiano de software espía SIO » Que Nube - Noticias Virales, Tecnología y Tendencias](https://quenube.com/whatsapp-notifica-a-200-usuarios-que-instalaron-una-aplicacion-falsa-creada-por-el-fabricante-italiano-de-software-espia-sio/)  
+  verified via live; context: …roporciona una base estatutaria formal para el “captatore informatico”, o interceptor de computadoras, software troyano efectivamente autorizado por el estado. Fabio Pietrosanti, presidente del Centro Hermes para la Tran…
 - 🆕 **2026-04-01** · article · The Next Web (TNW) — [WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhones (SIO)](https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio)  
   Verified by fetch: "Fabio Pietrosanti, president of the Hermes Center for Transparency and Digital Human Rights, has said that spyware is deployed more frequently in Italy than anywhere else in Europe..." (follow-up of The Record 2024).
 - 🆕 **2026-04** · Citato · SecNews.gr — [WhatsApp: Italian Spyware Company Created Fake iOS Version](https://www.secnews.gr/en/700557/whatsapp-italiki-spyware-fake-app/)  
@@ -957,7 +959,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
   verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
-## 2019 — 73 voci, 73 nuove
+## 2019 — 74 voci, 74 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -1061,6 +1063,8 @@ Anni senza nessun risultato: nessuno
   Cites him (Hermes Center) noting Rousseau's Mozilla HTTP Observatory rating F during the Conte II Rousseau vote
 - 🆕 **2019-08-30** · article · La Stampa (Raffaele Angius) — [Viaggio nel CCCamp, dove gli hacker immaginano il futuro con filosofi e artisti](https://www.lastampa.it/archivio/2019/08/30/news/viaggio_nel_cccamp_dove_gli_hacker_immaginano_il_futuro_con_filosofi_e_artisti-782989/)  
   Fuori periodo (bonus), letto direttamente. «... precisa Fabio “Naif” Pietrosanti, membro dell'Italian Hacker Embassy».
+- 🆕 **2019-05-23** · Talk · Ordine dei Giornalisti Emilia-Romagna — [DIG Festival Riccione 2019 — workshop DIG Academy «Condom USB. Come proteggere il giornalismo dalle malattie digitalmente trasmissibili» (con Raffaele Angius, Hermes Center)](https://odg.bo.it/blog/a-riccione-dig-festival-2019-nove-workshop-di-dig-academy-con-crediti-formativi-dellodg-numerosi-appuntamenti-con-il-giornalismo-investigativo-finalissima-dei-dig-awards/)  
+  verified via wayback; context: …11.30 con Nico Piro della RAI ); Condom USB. Come proteggere il giornalismo dalle malattie digitalmente trasmissibili ( ore 11.30 – 13.30 con Raffaele Angius e Fabio Pietrosanti di Hermes Center ); Detective della verità…
 - 🆕 **2019-04-09** · Articolo scritto · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/)  
   With Stefano Aterno; listed on his author page
 - 🆕 **2019-04-08** · Citato · la Repubblica (repubblica.it, Tecnologia/Sicurezza) — [Non solo Android, un'app spia per iPhone dagli autori di Exodus](https://www.repubblica.it/tecnologia/sicurezza/2019/04/08/news/non_solo_android_un_app_spia_per_iphone_dagli_autori_di_exodus-223582128/)  
