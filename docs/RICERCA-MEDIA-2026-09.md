@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1673**; dopo deduplica: **1221**
+- Risultati grezzi dalle ricerche: **1674**; dopo deduplica: **1222**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1166**
-- Verificati aprendo la pagina: **1152**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1167**
+- Verificati aprendo la pagina: **1153**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 253, tweet 132, Talk 96, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 254, tweet 132, Talk 96, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -38,7 +38,7 @@ Per tipo (nuovi): Menzionato 253, tweet 132, Talk 96, Video 80, Citato 75, Post 
 | 2017 | 0 | 87 | 87 |
 | 2018 | 0 | 89 | 89 |
 | 2019 | 0 | 73 | 73 |
-| 2020 | 0 | 183 | 183 |
+| 2020 | 0 | 184 | 184 |
 | 2021 | 0 | 94 | 94 |
 | 2022 | 0 | 74 | 74 |
 | 2023 | 0 | 20 | 20 |
@@ -584,7 +584,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · article · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/)  
   Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 
-## 2020 — 183 voci, 183 nuove
+## 2020 — 184 voci, 184 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -746,6 +746,8 @@ Anni senza nessun risultato: nessuno
   Tweet di @partitopirata che menziona @fpietrosanti. Testo: «14 luglio 2020  #Parlamento  voterà per il #GarantePrivacy. Due Pirati sono candidati  @calamarim  Marco A. L. Calamari e @fpietrosanti Fabio Pietrosanti ma vediamo di cosa si occupa il garante della privacy   https://t.co/fYYr9fQrSa» Link: https://www.openpolis.it/numeri/di-cosa-si-occupa-il-garante-della-privacy/. Wayback capture 20200711002848 (id_) di twitter.com/fpietrosanti/status/1281654996539518977. La capture reindirizza a https://twitter.com/partitopirata/status/1281595898510876673.
 - 🆕 **2020-07-01** · tweet · Twitter — [Proposta: intervista a Barbara Simons sull'e-voting](https://twitter.com/fpietrosanti/status/1278581981857624067)  
   Testo: «@zacchiro Non sarebbe male una intervista alla Barbara Simons su evoting @e_pagliarini @lastknight @raistolo @exedre» Wayback capture 20200702070407 (id_) di twitter.com/fpietrosanti/status/1278581981857624067.
+- 🆕 **2020-06-25** · Menzionato · informapirata.it — [Il commissariamento di OTF](https://www.informapirata.it/2020/06/25/il-commissariamento-di-otf/)  
+  Fabio Pietrosanti (Hermes) tra gli intervenuti al dibattito sul commissariamento di OTF moderato da Emmanuele Somma. verified via wayback; context: …oderazione di Emmanuele Somma, sono intervenuti l’europarlamentare pirata Mikuláš Peksa, Rima Sghaier GlobaLeaks (OTF Fellow), Claudio Agosti Tracking Exposed, Fabio Pietrosanti Hermes e Giorgio Maone (NoScript). Priscil…
 - 🆕 **2020-06-24** · Video · YouTube (Partito Pirata Italiano) — [Trump, il «Massacro di Mercoledì Notte» e le comunità italiane del software libero (#SaveInternetFreedom / #SaveOTF)](https://www.youtube.com/watch?v=5gzZtHhTBB0)  
   Descrizione YouTube: apre Mikuláš Peksa (eurodeputato Pirata); intervengono Rima Sghaier (GlobaLeaks, OTF Fellow), Claudio Agosti (Tracking Exposed), «Fabio Pietrosanti Hermes», Giorgio Maone (NoScript); modera Emmanuele Somma. Pubblicato 2020-06-25. Trovato tramite tweet di @RimaSghaier 1275778249004630016 (Wayback 20200624).
 - 🆕 **2020-06-23** · Citato · Agenda Digitale — [Software libero "massacrato" da Trump: un passo verso la sorveglianza globale](https://www.agendadigitale.eu/sicurezza/privacy/software-libero-massacrato-da-trump-un-passo-verso-la-sorveglianza-globale/)  

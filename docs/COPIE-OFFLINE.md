@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1221**; già processate: **1398**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1034** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1157**
+- Voci in `data/media.json`: **1222**; già processate: **1399**; ancora da processare: **0**
+- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1035** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1158**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **5**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -45,7 +45,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2017 | 85 | 5 | 2 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 89 | 3 | 1 | 0 | 0 | 0 | 2 |
-| 2020 | 175 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2020 | 176 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 60 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
@@ -1319,6 +1319,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · Il Messaggero — [M5S-Rousseau, è rottura: e Di Battista minaccia l'addio (Francesco Malfetano)](https://www.ilmessaggero.it/politica/m5s_rottura_movimento_rousseau_di_battista_addio_ultime_notizie-5497939.html) · copia: `2020/8557961d3d80` (Web Archive 20201007) · licenza: terzi
 - **2020** · Il Riformista — [Cinquestellopoli, ecco cosa faceva Casaleggio con i soldi di Philip Morris](https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/) · copia: `2020/cea04efec86c` (Web Archive 20201205) · licenza: terzi
 - **2020** · ilriformista.it — [Volano stracci tra i grillini: chi vince sui social tra Casaleggio e la base vicina a Di M](https://www.ilriformista.it/volano-stracci-tra-i-grillini-chi-vince-sui-social-tra-casaleggio-e-la-base-vicina-a-di-maio-166440/) · copia: `2020/a3e54c1ffb95` (live) · licenza: terzi
+- **2020** · informapirata.it — [Il commissariamento di OTF](https://www.informapirata.it/2020/06/25/il-commissariamento-di-otf/) · copia: `2020/eb0f071048bb` (Web Archive 20220522) · licenza: terzi
 - **2020** · Key4biz — [In Italia esiste davvero il comitato "quantistico" sul voto elettronico?](https://www.key4biz.it/in-italia-esiste-davvero-il-comitato-quantistico-sul-voto-elettronico/332220/) · copia: `2020/25d4680f2c02` (Web Archive 20201123) · licenza: terzi
 - **2020** · lastampa.it — [L’emergenza per Casaleggio può far “testare il voto online a marzo”, ecco come gli informa](https://www.lastampa.it/politica/2020/03/04/news/l-emergenza-per-casaleggio-puo-far-testare-il-voto-online-a-marzo-ecco-come-gli-informatici-lo-stroncano-1.38548899/) · copia: `2020/79c2958d757e` (Web Archive 20200305) · licenza: terzi
 - **2020** · La Stampa — [Nasce la piattaforma anti-Casaleggio, un gruppo di hacker famosi sfida Rousseau e la offre](https://www.lastampa.it/topnews/primo-piano/2020/10/02/news/nasce-la-piattaforma-anti-casaleggio-un-gruppo-di-hacker-famosi-sfida-rousseau-e-la-offre-gratis-ai-parlamentari-m5s-1.39374113/) · copia: `2020/720a314007d6` (Web Archive 20201008) · licenza: terzi

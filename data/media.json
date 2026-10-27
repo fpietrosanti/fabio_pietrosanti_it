@@ -15936,6 +15936,23 @@
   "on_old_site": false
  },
  {
+  "date": "2020-06-25",
+  "year": 2020,
+  "type": "mentioned",
+  "outlet": "informapirata.it",
+  "title": "Il commissariamento di OTF",
+  "url": "https://www.informapirata.it/2020/06/25/il-commissariamento-di-otf/",
+  "language": "it",
+  "role": "subject",
+  "note": "Fabio Pietrosanti (Hermes) tra gli intervenuti al dibattito sul commissariamento di OTF moderato da Emmanuele Somma. verified via wayback; context: …oderazione di Emmanuele Somma, sono intervenuti l’europarlamentare pirata Mikuláš Peksa, Rima Sghaier GlobaLeaks (OTF Fellow), Claudio Agosti Tracking Exposed, Fabio Pietrosanti Hermes e Giorgio Maone (NoScript). Priscil…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-27-0432"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2020-07-01",
   "year": 2020,
   "type": "tweet",
