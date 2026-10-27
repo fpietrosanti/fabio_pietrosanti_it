@@ -5,22 +5,22 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1674**; dopo deduplica: **1222**
+- Risultati grezzi dalle ricerche: **1681**; dopo deduplica: **1227**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1167**
-- Verificati aprendo la pagina: **1153**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1172**
+- Verificati aprendo la pagina: **1158**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 254, tweet 132, Talk 96, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 35, Progetto 33, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 255, tweet 132, Talk 97, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
 | Anno | Vecchio sito | Trovati | di cui nuovi |
 |---|---:|---:|---:|
-| 1998 | 0 | 1 | 1 |
-| 1999 | 0 | 1 | 1 |
+| 1998 | 0 | 2 | 2 |
+| 1999 | 0 | 2 | 2 |
 | 2000 | 2 | 18 | 15 |
 | 2001 | 8 | 17 | 12 |
-| 2002 | 2 | 20 | 9 |
+| 2002 | 2 | 23 | 12 |
 | 2003 | 5 | 8 | 7 |
 | 2004 | 1 | 12 | 11 |
 | 2005 | 1 | 12 | 9 |
@@ -34,8 +34,8 @@ Per tipo (nuovi): Menzionato 254, tweet 132, Talk 96, Video 80, Citato 75, Post 
 | 2013 | 0 | 33 | 33 |
 | 2014 | 0 | 31 | 31 |
 | 2015 | 0 | 47 | 47 |
-| 2016 | 0 | 30 | 30 |
-| 2017 | 0 | 87 | 87 |
+| 2016 | 0 | 29 | 29 |
+| 2017 | 0 | 88 | 88 |
 | 2018 | 0 | 89 | 89 |
 | 2019 | 0 | 73 | 73 |
 | 2020 | 0 | 184 | 184 |
@@ -1285,7 +1285,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 87 voci, 87 nuove
+## 2017 — 88 voci, 88 nuove
 
 - 🆕 **2017-12-27** · evento · Twitter/X @fpietrosanti (Wayback) - 34C3 Chaos Communication Congress, Leipzig — [Tweet: «After Christmas finally departing for the CCC Congress #34c3 like every year since many years. A lot of conversation, workshop, talks at #rightsandfreedom assembly!»](https://twitter.com/fpietrosanti/status/945929936661024768)  
   Read the Wayback capture 20190623144021 from the server (tweet dated 2017-12-27). Shows he attended 34C3; it does not show a talk of his own. 34C3 Fahrplan speakers, self-organized sessions and assemblies lists (events.ccc.de/congress/2017/wiki) have neither his name nor an Italian assembly.
@@ -1405,6 +1405,8 @@ Anni senza nessun risultato: nessuno
   Lettera congiunta firmata da Antonella Napolitano (CILD), Edin Omanovic (Privacy International) e 'Fabio Pietrosanti, Hermes Center for Transparency and Human Rights'. Testo estratto dalla copia nello zip del crawl Wayback di hermescenter.org (C:/Users/admin/Claude/hermescenter-restore/archive/wp-content/uploads/2017/04/); nessuna riga CDX propria per il PDF. Allegato al post gia' noto 'Sorveglianza: abbiamo chiesto il riesame della nostra richiesta di accesso al MISE' (2017-05-30).
 - 🆕 **2017-03-23** · evento · Tor Project - Tor Meeting Amsterdam 2017 (Hotel Arena, 23-27 March 2017; trac wiki org/meetings/2017Amsterdam) — [Tor Meeting Amsterdam 2017 - participant list (invitation-only days 23-25 March)](https://trac.torproject.org/projects/tor/wiki/org/meetings/2017Amsterdam)  
   Wayback capture 20200618143037 (https://web.archive.org/web/20200618143037/https://trac.torproject.org/projects/tor/wiki/org/meetings/2017Amsterdam), read from the server. 'Who' table row: «naif | Y | 23 Mar | ? | Y»; dinner table: «naif | Y». The page says 23-25 March are invitation only. Only the nick 'naif' appears (no full name); context (Tor community, Hermes/GlobaLeaks/Tor2web developer) fits him. Attendance, not a talk.
+- 🆕 **2017-03-09** · Talk · Internet Freedom Festival 2017 (Valencia) - IFF Wiki — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks (pagina wiki della sessione)](https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks)  
+  Voce già nota (in media.json datata 2016). Correzione proposta: la pagina, riletta il 2026-10-27 (Wayback 20210620025940), riporta «Presenter(s) Fabio Pietrosanti», «Organization(s) Hermes Center for Transparency and Digital Human Rights», «Project(s) Globaleaks» e ha wgCategories [Presenters, Theme, Tools & Technology (2017), Intermediate, English (2017)]. Il programma ufficiale di IFF 2017 la mette giovedì 9/3/2017, 14:30-15:30. Il wgArticleId 232 indica una pagina creata nel 2016 e poi riusata per il 2017.
 - 🆕 **2017-03-09** · Menzionato · Center for the Cultivation of Technology (techcultivation.org, Berlin) — [CCT Contact/Team page: Advisory Board — Fabio Pietrosanti, Hermes Center (Italy)](https://web.archive.org/web/20170309225020/https://techcultivation.org/contact.html)  
   Wayback captures 2017-03-09 and 2019-07-16 of techcultivation.org/contact.html list under 'Advisory Board': 'Fabio Pietrosanti — Hermes Center (Italy)' (with Claudio Agosti, Simon Phipps, Niels ten Oever, Stefano Zacchiroli et al.). Same list in github.com/techcultivation/docs/blob/master/overview.md (section 'Advisory Board', last edited 2017-03-03). Advisory board removed from the site on 2021-04-23 (commit 'remove advisory board' in techcultivation/website-static). Covers ca. 2016/17-2021. Verified 2026-10-24 (Wayback id_ via server + GitHub API).
 - 🆕 **2017-03-08** · Menzionato · repubblica.it — [Cia-WikiLeaks, "siamo molto più vulnerabili con l'Internet delle Cose, il mobile e il Cloud"](https://www.repubblica.it/tecnologia/social-network/2017/03/08/news/wikileaks-cia_la_sicurezza_assoluta_non_esiste_piu_-160075024/)  
@@ -1462,7 +1464,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2017** · pagina · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/)  
   Scheda biografica sul vecchio sito Hermes (PrivateWave, hacking community dal 1995, Twitter @fpietrosanti). Capture: https://web.archive.org/web/20210306145428/https://www.hermescenter.org/members/fabio-pietrosanti/ ; versione precedente con 'IRC: naif@irc.oftc.net #globaleaks': https://web.archive.org/web/20171022005215/https://www.hermescenter.org/home/about-mission/people/members/fabio-pietrosanti/ . Lo nominano anche gli elenchi soci /members/, /it/soci/ (capture 20210306140933) e /home/about-mission/people/ (stessa voce, non conteggiati a parte). Verificato sulle copie nello zip Wayback locale.
 
-## 2016 — 30 voci, 30 nuove
+## 2016 — 29 voci, 29 nuove
 
 - 🆕 **2016-12-29** · Talk · 33C3 Chaos Communication Congress, Hamburg (Lightning Talks) — [Robots txt abuses by government agencies against transparency (lightning talk)](https://events.ccc.de/congress/2016/wiki/Lightning:Robots_txt_abuses_by_government_agencies_against_transparency)  
   5-min lightning talk, Day 3 14:55; organizer 'Fabio Pietrosanti (naif)', website hermescenter.org; research on Italian PA/EU robots.txt
@@ -1522,8 +1524,6 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …47. ANONYMOUS ITALIA – FAMILY DAY HACK 48. THE ITALIAN WAY – GLI HACKER >Il Capo, Machine, QQQ, kris. >I Romani (Raist, Synack, Zibri, Newmark, phroid, xoanon, naif) >I Torinesi (Raoul, raptor, dialtone, acidguy, twiz) >…
 - 🆕 **2016** · Talk · eunews.it — [How Can We Govern Europe? – Terza edizione (panel «Intelligence, privacy e antiterrorismo in Europa»)](https://www.eunews.it/eventi_eunews/how-can-we-govern-europe-3rd-edition/)  
   verified via wayback; context: …i cittadini. Moderatrice Cristina Vicarelli , avvocato con attività prevalente in protezione dei dati personali e privacy e contributor di Technethics Relatori Fabio Pietrosanti, Presidente del Hermes Center for Transpar… | Relatore come Presidente di Hermes Center. Anno 2016 dedotto dal programma (panel «Trump presidente», Beatrice Covassi rappresentante CE in Italia, Silvia Costa presidente commissione Cultura PE); la pagina reca la data di ripubblicazione 29/09/2021.
-- 🆕 **2016** · Talk · Internet Freedom Festival 2016 (IFF), Valencia (1-6 marzo 2016) - IFF Wiki — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks](https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks)  
-  Pagina della sessione sull'IFF Wiki: «Presenter(s) Fabio Pietrosanti ... Organization(s) Hermes Center for Transparency and Digital Human Rights ... Country(ies) Italy»; formato Conversation, 1 ora, track Tools & Technology; descrizione sull'avvio di iniziative di whistleblowing («supporting more than 30 whistleblowing projects using GlobaLeaks in +20 countries»). Verificata su Wayback 20210620025940 (la pagina live oggi è 404). La sessione con questo titolo compare nell'elenco «IFF Schedule» dell'edizione 2016 (Wayback 20160525224224, https://internetfreedomfestival.org/wiki/index.php/IFF_Schedule), che però riporta solo il titolo; il campo «2017 theme» della pagina è un artefatto del template wiki. Data esatta della sessione non trovata (lo schedule con orari stava su una pagina esterna non archiviata).
 
 ## 2015 — 47 voci, 47 nuove
 
@@ -2314,7 +2314,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2003-01** · Articolo scritto · Win Magazine n.48 (Edizioni Master), gennaio 2003 — [Caccia alle reti wireless - Lo sviluppo delle reti Wi-Fi cresce giorno dopo giorno, ma emergono nuovi problemi di sicurezza (di Fabio Pietrosanti e Yvette Agostini)](https://archive.org/details/win-magazine-italia-48)  
   Co-authored with Yvette Agostini, bylined as members of the Italian Blackhats association; verified in IA OCR text
 
-## 2002 — 20 voci, 9 nuove
+## 2002 — 23 voci, 12 nuove
 
 - ↺ **2002-10-26** · Talk · Italian Black Hats - SMAU 2002, Fiera di Milano — [Ethical Hacker's Speech II - programma (PDF)](https://web.archive.org/web/20040217095659/http://www.blackhats.it:80/en/events/26102002/programma.pdf)  
   Programma ufficiale della giornata ITBH a SMAU 2002: tra i relatori «Fabio Pietrosanti, ITBH»; «Benvenuto ed introduzione ai lavori: Raoul Chiesa aka Nobody … Fabio Pietrosanti aka Naif, ITBH»; introduzione alla sessione pomeridiana con Nobody; poi «Wireless (in)security @ SMAU». Integra il talk già noto (slide su SlideShare).
@@ -2332,10 +2332,16 @@ Anni senza nessun risultato: nessuno
   Outside 2004-2008 but a new URL: sikurezza.org page (Wayback 2006-04-28) lists 'Wireless (in)security - Fabio Pietrosanti ('naif') ( pdf )' among the ITBH speeches. Same talk as the known SlideShare 1669215 (SMAU ITBH 2002). Add only if an archive page for it is wanted.
 - ↺ **2002-10** · Talk · SMAU 2002 - Italian Blackhats Ethical Hacker's Speech — [2002: SMAU ITBH: Wireless (in)security](https://www.slideshare.net/slideshow/smau-itbh-wireless-insecurity/1669215)  
   Slides including the war-walking survey at SMAU 2002 (80 wireless networks found); missing from the known list
+- 🆕 **2002-07-06** · Altro · Webb.it 02 (Padova Fiere, 5-7 luglio 2002) - scheda contest, area Hardware-System-Networking — [Contest «Secure System Administration» (Sikurezza.org) - Responsabile della competizione: Fabio Pietrosanti (naif)](https://web.archive.org/web/20020816090842/http://www.webb.it:80/event/eventview/789/)  
+  Scheda ufficiale Webbit02 del contest di system administration sicura organizzato da Sikurezza.org (consegna sabato 6/7 ore 16.30, premiazione 7/7/2002 ore 14.30, premio scheda Cisco Aironet 350): «RESPONSABILE DELLA COMPETIZIONE Fabio Pietrosanti naif». Trovata leggendo tutte le schede eventview/articleview di webb.it catturate nel 2001-2002 (Wayback). Distinto dal talk di presentazione di sikurezza.org (già noto).
 - 🆕 **2002-07-05** · Talk · Sikurezza.org @ Webb.it 02, Padova Fiere — [Presentazione sikurezza.org (Fabio Pietrosanti 'naif', Stefano Venturoli)](https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html)  
   Sikurezza.org space at Webbit 2002 (5-7 July), which he organised; slides sikurezza_org.pdf; also ran the 'Secure Administration' contest
+- 🆕 **2002-07-05** · Talk · Webb.it 02 (Padova Fiere) - scheda workshop ufficiale — [Sikurezza.org - Relatore: Fabio Pietrosanti (naif), Stefano Venturoli (Sala 18, 05/07/02 16:00)](https://web.archive.org/web/20020723183926/http://www.webb.it:80/event/eventview/643/)  
+  Mirror della voce nota «Presentazione sikurezza.org @ Webb.it 02» (sikurezza.org/webbit02.html): è la scheda sul sito ufficiale webb.it. «Relatore: Fabio Pietrosanti (naif) -naif@sikurezza.org, Stefano Venturoli» - «Il progetto, lo stato attuale, il futuro, la nostra presenza a Webb.it».
 - 🆕 **2002-07-05** · Slide · sikurezza.org @ Webb.it 02, Padova — [SIKUREZZA.ORG - Italian Security Mailing List (slide di presentazione, PDF)](https://web.archive.org/web/20030311060208/http://sikurezza.org:80/webbit02/sikurezza_org.pdf)  
   Slide del talk già noto (pagina sikurezza.org/webbit02.html in media.json): frontespizio «Relatori: Stefano Venturoli, Fabio Pietrosanti – Sikurezza.org@Webbit'02». Anche la pagina sikurezza.org/webbit.html (capture 2003) elenca «Presentazione sikurezza.org - Fabio Pietrosanti ('naif'), Stefano Venturoli».
+- 🆕 **2002-07** · Altro · Webb.it 02 (Padova) - pagina «Comunità e Progetti Speciali»: Sikurezza.org — [Sikurezza.org a Webb.it 02 - Coordinatore: Fabio Pietrosanti (naif)](https://web.archive.org/web/20020718172740/http://www.webb.it:80/article/articleview/205)  
+  Pagina della community sikurezza.org sul sito ufficiale webb.it (missione, workshop, presidi rtfm.it/openbeer.it): «Coordinatore: Fabio Pietrosanti (naif)». Collegata all'evento noto (sikurezza.org @ Webbit02): mirror/complemento di https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html.
 - 🆕 **2002-06** · Altro · Hackmeeting 2002 (Bologna) — [Hackit02 - who (participants list)](https://www.hackmeeting.org/hackit02/who.html)  
   Re-checked live: 'naif' is in the participants table. Already known.
 - 🆕 **2002-03-30** · Menzionato · BFi 11-dev file 08 (s0ftpj) — [FASTWEB: vorrete dirlo a tutti (round 1) - tHE rECIdjVO](https://www.s0ftpj.org/bfi/dev/BFi11-dev-08.tar.gz)  
@@ -2433,15 +2439,19 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2000-06** · Talk · Hackmeeting 2000 (Hackit00), Roma, Forte Prenestino — [Letteratura Cyberpunk (seminar proposal)](https://www.hackmeeting.org/hackit00/proposte/letteratura.html) _(non verificato)_  
   Seminar-proposal page in /hackit00/proposte/: 'Hackmeeting 2000 - Leteratura Cyberpunk - Data proposed by [ NaiF-RooT ]'. The page has no abstract, and no final program confirms that the session took place. The nick variant 'NaiF-RooT' is very probably him (compare 'NaiF^' in Hackit01 adesioni), but no page confirms the identity.
 
-## 1999 — 1 voci, 1 nuove
+## 1999 — 2 voci, 2 nuove
 
+- 🆕 **1999-12-25** · Menzionato · BFi n.7 — [BFi n.7 - archivio completo (tar.gz) con BFi07-20](https://s0ftpj.org/bfi/bfi7.tar.gz)  
+  Mirror di https://www.s0ftpj.org/bfi/online/bfi7/bfi07-20.html (già nota). In BFi07-20 i ringraziamenti di Black Berry: «un abbraccio a tutta Olografix e allo staff di I...ludiamoci 99 ... Sliver, o2, Naif e in particolare i ragazzi della stanza 101»: colloca naif a I...ludiamoci 99 (Pescara, Metro Olografix/Arci).
 - 🆕 **1999-12-25** · Menzionato · BFi n.7 — [L'hacker e il magistrato: commenti a lato (BlackBerry & \sPIRIT\)](https://www.s0ftpj.org/bfi/online/bfi7/bfi07-20.html)  
   Naif thanked among the Italian underground crew
 
-## 1998 — 1 voci, 1 nuove
+## 1998 — 2 voci, 2 nuove
 
 - 🆕 **1998-12** · Articolo scritto · BFi (Butchered From Inside) n.4 — ["leggeteve questa" by Naif (reader letter)](https://www.s0ftpj.org/bfi/bfi4.tar.gz)  
   Reader letter signed 'Naif' in BFi n.4 (Dec 1998): confirmed by Fabio 2026-09-18
+- 🆕 **1998** · Progetto · panservice.it (pagina personale) — [madoka - sito personale da teenager («NaiF», IrcNet #Latinaonline)](http://www.panservice.it/people/madoka/)  
+  Già presente nell'archivio del sito (past/panservice.it-people-madoka, capture Wayback 19991021223801). La pagina è firmata «NaiF» (mailto bmnet@hotmail.com) e «IrcNet #Latinaonline NaiF^». Prova che il nick naif era suo già nel 1997-98 (rafforza l'attribuzione della lettera «Naif» su BFi n.4). Pagina propria, non menzione di terzi: bassa priorità come voce media.
 
 ## Senza data
 

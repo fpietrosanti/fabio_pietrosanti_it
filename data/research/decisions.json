@@ -1046,6 +1046,14 @@
   {
    "url": "https://www.slideshare.net/slideshow/presentazione-tesi-lm31/117816837",
    "reason": "2026-10-26: slide di un'altra persona (tesi L-31 su reti di sensori); il nome compare solo nella barra laterale (link a «SMAU ITBH: Wireless (in)security», 2002, già in archivio)"
+  },
+  {
+   "url": "https://archive.org/details/lastampa_1997-10-27",
+   "reason": "La Stampa 1997 (27 e 31/10): stesso elenco di vincitori con «Fabio Pietrosanti, Velletri (Roma)» — omonimo di Velletri come il 30/10, escluso 2026-10-27"
+  },
+  {
+   "url": "https://archive.org/details/lastampa_1997-10-31",
+   "reason": "La Stampa 1997 (27 e 31/10): stesso elenco di vincitori con «Fabio Pietrosanti, Velletri (Roma)» — omonimo di Velletri come il 30/10, escluso 2026-10-27"
   }
  ],
  "override": [
@@ -1391,7 +1399,8 @@
   "2026-10-23 Rai 3 TGR Neapolis 29/12/2009 «Telefonate protette» (PrivateGSM di Khamsa): eri tu l'intervistato? Il post del blog Neapolis non è mai stato archiviato; hai una registrazione?",
   "2026-10-23 Class Life (Class Editori TV, feb. 2010), video PrivateWave/PrivateGSM: eri tu? Mai archiviato.",
   "2026-10-23 Rassegna stampa PrivateWave 2010 (39 PDF: Economy, L'Espresso, Il Mondo, Il Sole 24 Ore 28/11/2010…): hai ancora i PDF? Il sito è 403 e il Web Archive non li ha.",
-  "2026-10-23 Logistica Sostenibile 03/06/2022 «Costruire comunità sostenibili»: relatore 'Fabio Pietrosanti, Amministratore unico, LESS Impresa Sociale' - sei tu? Per ora escluso."
+  "2026-10-23 Logistica Sostenibile 03/06/2022 «Costruire comunità sostenibili»: relatore 'Fabio Pietrosanti, Amministratore unico, LESS Impresa Sociale' - sei tu? Per ora escluso.",
+  "2026-10-27: commento HTML «pagina e server bucato da naif la notte del 30 agosto 2000» nella homepage di Hackmeeting 1999 — è tuo? va archiviato? Tenuto fuori dal sito pubblico (solo nel repo privato, _in_attesa/) finché non decidi"
  ],
  "answers_2026_10_05": {
   "A0.1 dati personali scuole": "non interessa, va bene così: nessuna richiesta di oscuramento; le copie restano solo nell'archivio privato",

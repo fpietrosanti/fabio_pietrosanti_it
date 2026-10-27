@@ -1163,6 +1163,23 @@
   "on_old_site": false
  },
  {
+  "date": "1998",
+  "year": 1998,
+  "type": "project",
+  "outlet": "panservice.it (pagina personale)",
+  "title": "madoka - sito personale da teenager («NaiF», IrcNet #Latinaonline)",
+  "url": "http://www.panservice.it/people/madoka/",
+  "language": "it",
+  "role": "autore",
+  "note": "Già presente nell'archivio del sito (past/panservice.it-people-madoka, capture Wayback 19991021223801). La pagina è firmata «NaiF» (mailto bmnet@hotmail.com) e «IrcNet #Latinaonline NaiF^». Prova che il nick naif era suo già nel 1997-98 (rafforza l'attribuzione della lettera «Naif» su BFi n.4). Pagina propria, non menzione di terzi: bassa priorità come voce media.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_lacuna1995_1999_2026-10-27"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "1998-12",
   "year": 1998,
   "type": "article_by",
@@ -1176,6 +1193,23 @@
   "known": false,
   "_slices": [
    "slice1_1995_2006"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "1999-12-25",
+  "year": 1999,
+  "type": "mentioned",
+  "outlet": "BFi n.7",
+  "title": "BFi n.7 - archivio completo (tar.gz) con BFi07-20",
+  "url": "https://s0ftpj.org/bfi/bfi7.tar.gz",
+  "language": "it",
+  "role": "citato nei ringraziamenti",
+  "note": "Mirror di https://www.s0ftpj.org/bfi/online/bfi7/bfi07-20.html (già nota). In BFi07-20 i ringraziamenti di Black Berry: «un abbraccio a tutta Olografix e allo staff di I...ludiamoci 99 ... Sliver, o2, Naif e in particolare i ragazzi della stanza 101»: colloca naif a I...ludiamoci 99 (Pescara, Metro Olografix/Arci).",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_lacuna1995_1999_2026-10-27"
   ],
   "on_old_site": false
  },
@@ -1970,6 +2004,23 @@
   "on_old_site": false
  },
  {
+  "date": "2002-07",
+  "year": 2002,
+  "type": "other",
+  "outlet": "Webb.it 02 (Padova) - pagina «Comunità e Progetti Speciali»: Sikurezza.org",
+  "title": "Sikurezza.org a Webb.it 02 - Coordinatore: Fabio Pietrosanti (naif)",
+  "url": "https://web.archive.org/web/20020718172740/http://www.webb.it:80/article/articleview/205",
+  "language": "it",
+  "role": "coordinatore della presenza di sikurezza.org a Webbit02",
+  "note": "Pagina della community sikurezza.org sul sito ufficiale webb.it (missione, workshop, presidi rtfm.it/openbeer.it): «Coordinatore: Fabio Pietrosanti (naif)». Collegata all'evento noto (sikurezza.org @ Webbit02): mirror/complemento di https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_lacuna2000_2002_2026-10-27"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2002-07-05",
   "year": 2002,
   "type": "talk",
@@ -1989,6 +2040,23 @@
  {
   "date": "2002-07-05",
   "year": 2002,
+  "type": "talk",
+  "outlet": "Webb.it 02 (Padova Fiere) - scheda workshop ufficiale",
+  "title": "Sikurezza.org - Relatore: Fabio Pietrosanti (naif), Stefano Venturoli (Sala 18, 05/07/02 16:00)",
+  "url": "https://web.archive.org/web/20020723183926/http://www.webb.it:80/event/eventview/643/",
+  "language": "it",
+  "role": "relatore",
+  "note": "Mirror della voce nota «Presentazione sikurezza.org @ Webb.it 02» (sikurezza.org/webbit02.html): è la scheda sul sito ufficiale webb.it. «Relatore: Fabio Pietrosanti (naif) -naif@sikurezza.org, Stefano Venturoli» - «Il progetto, lo stato attuale, il futuro, la nostra presenza a Webb.it».",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_lacuna2000_2002_2026-10-27"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2002-07-05",
+  "year": 2002,
   "type": "slides",
   "outlet": "sikurezza.org @ Webb.it 02, Padova",
   "title": "SIKUREZZA.ORG - Italian Security Mailing List (slide di presentazione, PDF)",
@@ -2000,6 +2068,23 @@
   "known": false,
   "_slices": [
    "pass4_lacuna2003_2026-10-19"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2002-07-06",
+  "year": 2002,
+  "type": "other",
+  "outlet": "Webb.it 02 (Padova Fiere, 5-7 luglio 2002) - scheda contest, area Hardware-System-Networking",
+  "title": "Contest «Secure System Administration» (Sikurezza.org) - Responsabile della competizione: Fabio Pietrosanti (naif)",
+  "url": "https://web.archive.org/web/20020816090842/http://www.webb.it:80/event/eventview/789/",
+  "language": "it",
+  "role": "organizzatore / responsabile del contest",
+  "note": "Scheda ufficiale Webbit02 del contest di system administration sicura organizzato da Sikurezza.org (consegna sabato 6/7 ore 16.30, premiazione 7/7/2002 ore 14.30, premio scheda Cisco Aironet 350): «RESPONSABILE DELLA COMPETIZIONE Fabio Pietrosanti naif». Trovata leggendo tutte le schede eventview/articleview di webb.it catturate nel 2001-2002 (Wayback). Distinto dal talk di presentazione di sikurezza.org (già noto).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_lacuna2000_2002_2026-10-27"
   ],
   "on_old_site": false
  },
@@ -9065,23 +9150,6 @@
   "on_old_site": false
  },
  {
-  "date": null,
-  "year": 2016,
-  "type": "talk",
-  "outlet": "Internet Freedom Festival 2016 (IFF), Valencia (1-6 marzo 2016) - IFF Wiki",
-  "title": "Setting up Whistleblowing Activism Initiatives with GlobaLeaks",
-  "url": "https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks",
-  "language": "en",
-  "role": "speaker",
-  "note": "Pagina della sessione sull'IFF Wiki: «Presenter(s) Fabio Pietrosanti ... Organization(s) Hermes Center for Transparency and Digital Human Rights ... Country(ies) Italy»; formato Conversation, 1 ora, track Tools & Technology; descrizione sull'avvio di iniziative di whistleblowing («supporting more than 30 whistleblowing projects using GlobaLeaks in +20 countries»). Verificata su Wayback 20210620025940 (la pagina live oggi è 404). La sessione con questo titolo compare nell'elenco «IFF Schedule» dell'edizione 2016 (Wayback 20160525224224, https://internetfreedomfestival.org/wiki/index.php/IFF_Schedule), che però riporta solo il titolo; il campo «2017 theme» della pagina è un artefatto del template wiki. Data esatta della sessione non trovata (lo schedule con orari stava su una pagina esterna non archiviata).",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass4_lacuna2011_talks_2026-10-13"
-  ],
-  "on_old_site": false
- },
- {
   "date": "2016",
   "type": "talk",
   "outlet": "OSCE Representative on Freedom of the Media (speaker bios)",
@@ -10042,6 +10110,27 @@
   ],
   "mirrors": [
    "https://dicorinto.it/testate/repubblica-it/la-repubblica-cia-wikileaks-siamo-molto-piu-vulnerabili-con-linternet-delle-cose-il-mobile-e-il-cloud/"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2017-03-09",
+  "year": 2017,
+  "type": "talk",
+  "outlet": "Internet Freedom Festival 2017 (Valencia) - IFF Wiki",
+  "title": "Setting up Whistleblowing Activism Initiatives with GlobaLeaks (pagina wiki della sessione)",
+  "url": "https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks",
+  "language": "en",
+  "role": "speaker",
+  "note": "Voce già nota (in media.json datata 2016). Correzione proposta: la pagina, riletta il 2026-10-27 (Wayback 20210620025940), riporta «Presenter(s) Fabio Pietrosanti», «Organization(s) Hermes Center for Transparency and Digital Human Rights», «Project(s) Globaleaks» e ha wgCategories [Presenters, Theme, Tools & Technology (2017), Intermediate, English (2017)]. Il programma ufficiale di IFF 2017 la mette giovedì 9/3/2017, 14:30-15:30. Il wgArticleId 232 indica una pagina creata nel 2016 e poi riusata per il 2017.",
+  "verified": true,
+  "known": true,
+  "_slices": [
+   "pass4_lacuna2011_talks_2026-10-13",
+   "pass4_residui2017_2019_2026-10-27"
+  ],
+  "mirrors": [
+   "https://web.archive.org/web/20170417115124/https://internetfreedomfestival.org/thursday-9th-schedule/"
   ],
   "on_old_site": false
  },

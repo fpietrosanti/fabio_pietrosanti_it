@@ -497,6 +497,39 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   meetup «Longevity Biohacking» al 38C3 (28/12/2024, annunciato su X, assente dalle pagine archiviate); GDELT (429).
   **Proposta**: dopo i residui via Chrome, chiudere la voce — la ricerca automatica sul 2023–2025 è esaurita.
 
+## Note sessione 2026-10-27 (run programmata «ricerca profonda»)
+- **1227 voci** in `data/media.json` (+6: 1 voce nuova verificata, 1 talk non verificato, 4 mirror/voci proprie). Prime voci
+  della coda ancora bloccate (chiavi, login, risposte di Fabio, video TimePie): lavorate la **lacuna 1995–2002** (mai
+  coperta da una passata pass4: 1995-99 avevano 2 voci) e i **residui 2017–2019** sul Web Archive. 3 agenti:
+  `pass4_lacuna1995_1999`, `pass4_lacuna2000_2002`, `pass4_residui2017_2019`; negativi in
+  `data/research/leads_negatives_*_2026-10-27.json`.
+- **1995–1999 → 0 voci nuove** (fonte esaurita): letti tutti i BFi 1-8 + PFi/summer/news, s0ftpj su Wayback 1999-2000,
+  Hackmeeting 98 e 99 (260 pagine), I...ludiamoci 97-99, indici Bugtraq 01/1997–05/2000 (primo advisory resta giugno
+  2000), 13 ricerche full-text IA su riviste, Phrack 65. Aggiunte come voci proprie/mirror: **madoka** (panservice.it, firma
+  «NaiF», «IrcNet #Latinaonline NaiF^» → il nick è tuo già nel 1997-98, rafforza BFi n.4) e l'archivio `bfi7.tar.gz`
+  (ringraziamenti: naif a **I...ludiamoci 99**, Pescara). **La Stampa 27, 30 e 31/10/1997** «Fabio Pietrosanti, Velletri
+  (Roma)»: omonimo → esclusi in `decisions.json`. **Tenuto fuori dal sito**: commento HTML «pagina e server bucato da naif
+  la notte del 30 agosto 2000» nella homepage di Hackmeeting 1999 → in attesa di Fabio (repo privato `_in_attesa/`).
+- **2000–2002 → +1 verificata**: **Webb.it 02**, contest «Secure System Administration» di Sikurezza.org («RESPONSABILE
+  DELLA COMPETIZIONE Fabio Pietrosanti naif», 6-7/07/2002) + 2 mirror webb.it del talk/coordinamento Sikurezza.org.
+  Datore di lavoro 2002 = **I.NET SpA** (gruppo BT), «Network Security Manager». **Negativi**: Corriere archivio 2000-02
+  (26 articoli hacker; il 28/10/2002 sui Blackhats a SMAU cita «Wireless (in)security» ma intervista Vodka e Raistlin),
+  PuntoSicuro AR-1…AR-2400 (con il 22/10 coperto fino al 2007), ~490 comunicati I.NET, 634 schede webb.it 2001-02, 551
+  pagine WeekIT, Hackmeeting 2000-02, L'Unità, Linux Day, SMAU, Winston Smith, Phrack 56-60.
+- **Residui 2017–2019 → +1 (non verificata) e una correzione**: il convegno «sul voto a distanza» è il meetup **#AperiTech
+  Legal Hackers Roma «Voto Elettronico: verso una democrazia digitale?» del 14/10/2019** (via Marsala 29H; relatori Reale,
+  Nicotra, Bruno Bossio, Titomanlio, Scialdone, Barich; modera Morelli): il tuo nome non c'è → probabilmente intervento dal
+  pubblico (domanda a Fabio). **IFF Valencia**: la sessione GlobaLeaks della wiki (datata 2016 in archivio) è nel
+  **programma ufficiale 2017 (9/3/2017, 14:30-15:30)**, wiki in categorie 2017 → aggiunto il programma 2017; IFF 2019:
+  sessione «Whistleblowing PA (a GlobaLeaks usecase)» 1/4/2019 senza relatori archiviati. Negativi: IFF 2018 (archivio
+  parziale), Internet Festival 2019 (796 pagine), MozFest 2017-18.
+- **Resta**: Google Books (429) per 1995-2002; Wayback di itapac.net/digilander/space.tin.it/geocities/naif.it; programma
+  e-privacy 2002, rassegna stampa webb.it 2001, AntiKrimen 10/2001 (non archiviati); ~2.800 pagine WeekIT 2003-05; TV e
+  periodici della homepage 2003 (TG2 Dossier, «7 giorni al Parlamento», Studio Aperto, RMC, L'Espresso, Il Mondo, Il Tempo,
+  DotCom) senza archivi interrogabili; Wired Next Fest anno per anno, MozFest 2019, relatore IFF 2019.
+- **Prossima voce lavorabile:** WeekIT 2003-05 e Wayback dei siti personali 1997-2000 dal server; poi proporre a Fabio la
+  chiusura di tutte le voci «Lacuna» (ricerca automatica esaurita su tutti i periodi).
+
 ## Note sessione 2026-10-26 (run programmata «ricerca profonda»)
 - **1216 voci** in `data/media.json` (+5). Prime voci della coda ancora bloccate (chiavi, login, risposte di Fabio, video
   TimePie): lavorati i **residui** delle lacune 2007–2010, 2011–2016, 2017–2019 e 2023–2025 con 3 agenti

@@ -179,6 +179,25 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-vicies. 2026-10-27
+- Copie delle 6 voci nuove: **tutte ottenute** (madoka, `bfi7.tar.gz`, 3 schede Webb.it 02 dal Web Archive, programma IFF
+  2017). Il programma IFF 2017 resta «senza nome» per natura (elenca titolo e link alla wiki, il nome è nella wiki già
+  verificata): motivo esplicito in `copies.json`.
+- **Ritentati** (`--retry-failed`): invariati RTF Webbit 05, Secunia su Packet Storm (anti-bot), Neapolis 2009, Radio Monte
+  Carlo, Class Life, PrivateWave EN/ES, deck Foggia, notizieoggi ×2, coinage, CyberCoach; 🟡 rassegna PrivateWave e ritagli
+  cartacei Repubblica/Il Fatto; 🟠 Sogou.
+- **Domande per te:**
+  (a) Nella homepage di **Hackmeeting 1999** c'è il commento HTML «pagina e server bucato da naif la notte del 30 agosto 2000
+  per noia»: è tuo? Vuoi che entri nell'archivio (privato o anche sul sito) o lo lasciamo fuori? Per ora è **solo** nel repo
+  privato (`_in_attesa/hackit99_2026-10-27.json`).
+  (b) Il «convegno sul voto a distanza» del tuo tweet del 15/10/2019 è il meetup **#AperiTech Legal Hackers Roma** del
+  **14/10/2019** («Voto Elettronico: verso una democrazia digitale?»): eri tra il pubblico o hai parlato?
+  (c) La sessione GlobaLeaks all'**Internet Freedom Festival** si è tenuta nel 2016, nel 2017 o in entrambi? E la sessione
+  «Whistleblowing PA (a GlobaLeaks usecase)» del 1/4/2019 l'hai tenuta tu?
+  (d) Eri il «Naif» ringraziato da Black Berry per **I...ludiamoci 99** (Pescara)? Hai fatto un intervento?
+  (e) Ricordi date/temi delle apparizioni del CV 2003: **TG2 Dossier, «7 giorni al Parlamento», Studio Aperto, RMC**, articoli
+  su **L'Espresso, Il Mondo, Il Tempo, DotCom**? Hai la rassegna stampa I.NET o Blackhats?
+
 ### B0-novodecies. 2026-10-26
 - Copie delle 5 voci nuove: **3 ottenute** (Repubblica «Senza rete», Nova100, programma Linux Day Bari dal Web Archive), **2
   🟡** (Repubblica Milano 19/10/2017 cartaceo e Il Fatto 13/03/2019 «in edicola»: pagine a pagamento, nome non visibile;

@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2017-03-09",
+  "year": 2017,
+  "type": "talk",
+  "outlet": "Internet Freedom Festival 2017 (Valencia, 6-10 marzo 2017) - programma ufficiale «Thursday, 9th Schedule»",
+  "title": "Setting up Whistleblowing Activism Initiatives with GlobaLeaks",
+  "url": "https://web.archive.org/web/20170417115124/https://internetfreedomfestival.org/thursday-9th-schedule/",
+  "language": "en",
+  "role": "speaker",
+  "note": "Il programma ufficiale di IFF 2017 (Wayback 20170417115124) mette la sessione «Setting up Whistleblowing Activism Initiatives with GlobaLeaks» giovedì 9 marzo 2017, 2:30 pm - 3:30 pm, tema Tools & Technology, livello Intermediate, lingua English, con il link «Wiki Page» a internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks. La pagina del programma NON contiene il suo nome. Il nome sta nella pagina wiki collegata (già nota, in media.json datata 2016), che riporta «Presenter(s) Fabio Pietrosanti ... Hermes Center ... Italy» e ha le categorie MediaWiki «Tools & Technology (2017)» e «English (2017)». Quindi la sessione si è tenuta (anche) a IFF 2017, e il campo «2017 theme» non è un artefatto. Il titolo compare anche nell'elenco IFF_Schedule 2016 (Wayback 20160525224224): o si è tenuta in entrambe le edizioni, o la voce 2016 va ridatata al 9/3/2017.",
+  "verified": false,
+  "known": false
+ },
+ {
+  "date": "2017-03-09",
+  "year": 2017,
+  "type": "talk",
+  "outlet": "Internet Freedom Festival 2017 (Valencia) - IFF Wiki",
+  "title": "Setting up Whistleblowing Activism Initiatives with GlobaLeaks (pagina wiki della sessione)",
+  "url": "https://web.archive.org/web/20210620025940/https://internetfreedomfestival.org/wiki/index.php/Setting_up_Whistleblowing_Activism_Initiatives_with_GlobaLeaks",
+  "language": "en",
+  "role": "speaker",
+  "note": "Voce già nota (in media.json datata 2016). Correzione proposta: la pagina, riletta il 2026-10-27 (Wayback 20210620025940), riporta «Presenter(s) Fabio Pietrosanti», «Organization(s) Hermes Center for Transparency and Digital Human Rights», «Project(s) Globaleaks» e ha wgCategories [Presenters, Theme, Tools & Technology (2017), Intermediate, English (2017)]. Il programma ufficiale di IFF 2017 la mette giovedì 9/3/2017, 14:30-15:30. Il wgArticleId 232 indica una pagina creata nel 2016 e poi riusata per il 2017.",
+  "verified": true,
+  "known": true
+ }
+]

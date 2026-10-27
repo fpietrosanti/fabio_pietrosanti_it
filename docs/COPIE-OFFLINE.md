@@ -5,10 +5,10 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1222**; già processate: **1399**; ancora da processare: **0**
-- Licenza delle copie ottenute: **250** materiale proprio (ripubblicabile), **1035** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1158**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **5**
+- Voci in `data/media.json`: **1227**; già processate: **1405**; ancora da processare: **0**
+- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1040** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1163**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **6**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **102**
@@ -23,11 +23,11 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 |---|---:|---:|---:|---:|---:|---:|---:|
 | s.d. | 70 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1998 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1999 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1998 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1999 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2000 | 18 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2001 | 17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2002 | 21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2002 | 24 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2005 | 11 | 2 | 0 | 0 | 0 | 0 | 1 |
@@ -42,7 +42,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 39 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 85 | 5 | 2 | 0 | 0 | 0 | 0 |
+| 2017 | 85 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 89 | 3 | 1 | 0 | 0 | 0 | 2 |
 | 2020 | 176 | 11 | 0 | 0 | 0 | 0 | 0 |
@@ -271,9 +271,9 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ❌ **2010** · Class Life (Class Editori TV, classlife. — [PrivateWave/PrivateGSM video (Hightech)](http://www.classlife.it/dettaglioVideo~categoria~Hightech~ST~201002171147014640~STBR~300.html) · licenza: terzi  
   URLError
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
-  URLError
+  http 403
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
-  URLError
+  http 403
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
@@ -294,6 +294,8 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2017** · la Repubblica (print, national edition,  — [La beffa dei tablet a rischio hacker costati 25 milioni](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2017/10/20/la-beffa-dei-tablet-a-rischio-hacker-costati-25-milioni10.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2017** · Internet Freedom Festival 2017 (Valencia — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks (pagina wiki della sessione](https://web.archive.org/web/20170417115124/https://internetfreedomfestival.org/thursday-9th-schedule/) · licenza: terzi  
+  programma ufficiale IFF 2017 (9/3/2017 14:30-15:30): la pagina elenca solo titolo e link alla wiki; il nome «Fabio Pietrosanti» è nella pagina wiki collegata (voce madre, copia verificata) — atteso, non un problema (2026-10-27)
 - 🟡 **2018** · la Repubblica (print, RLab, p. 57) — [La spia che venne dall'app](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2018/05/30/la-spia-che-venne-dallapp57.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2019** · Il Fatto Quotidiano (print, 'In edicola' — [Il M5S vuole il voto digitale: dove funziona e dove no](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/03/13/il-m5s-vuole-il-voto-digitale-dove-funziona-e-dove-no/5032617/) · licenza: terzi  
@@ -406,7 +408,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · youmedia.fanpage.it — [Backstair, la nuova piattaforma di whistleblowing ai DIG Awards: “Segnalazioni completamen](https://youmedia.fanpage.it/video/aa/X48IuuSwldvwx9NG) · copia: `undated/86299d48a215` (Web Archive 20210122) · licenza: terzi
 - **1997** · La Stampa — [La Stampa 1997-10-27 / 1997-10-30 / 1997-10-31 (list of names)](https://archive.org/details/lastampa_1997-10-30) · copia: `1997/ccb4af8f5f5c` (live) · licenza: terzi
 - **1997** · La Stampa, 27/30/31 October 1997 (contes — [Winners list, prize contest (tickets for Gran Premio di Monza 1998)](https://archive.org/details/lastampa_1997-10-30/page/n51) · copia: `1997/4a78f37293ea` (live) · licenza: terzi
+- **1998** · panservice.it (pagina personale) — [madoka - sito personale da teenager («NaiF», IrcNet #Latinaonline)](http://www.panservice.it/people/madoka/) · copia: `1998/f8692a499084` (Web Archive 19991021) · licenza: propria
 - **1998** · BFi (Butchered From Inside) n.4 — ["leggeteve questa" by Naif (reader letter)](https://www.s0ftpj.org/bfi/bfi4.tar.gz) · copia: `1998/69235a880c5f` (Web Archive 20060110) · licenza: propria
+- **1999** · BFi n.7 — [BFi n.7 - archivio completo (tar.gz) con BFi07-20](https://s0ftpj.org/bfi/bfi7.tar.gz) · copia: `1999/4f9904f9a4a7` (Web Archive 20060110) · licenza: terzi
 - **1999** · BFi n.7 — [L'hacker e il magistrato: commenti a lato (BlackBerry & \sPIRIT\)](https://www.s0ftpj.org/bfi/online/bfi7/bfi07-20.html) · copia: `1999/3790912aa618` (Web Archive 20010308) · licenza: terzi
 - **2000** · Packet Storm — [sendmail.cf trojan (A sendmail.cf backdoor)](https://packetstormsecurity.com/files/22123/sendmailcftrojan.tar.gz.html) · copia: `2000/dce8ce277697` (Web Archive 20191113) · licenza: propria
 - **2000** · Bugtraq — [Mailstudio2000 CGI Vulnerabilities [S0ftPj.4]](https://seclists.org/bugtraq/2000/Jun/164) · copia: `2000/16e9d27ac2a0` (Web Archive 20111218) · licenza: propria
@@ -447,6 +451,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2002** · La Stampa (archivio storico, ed. 9 ottob — [Gli «ethical hackers» si ritrovano in Blackhats.it (box 'Le guide III')](http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,3/articleid,0306_01_2002_0276_0074_2761193/) · copia: `2002/1161da4c9568` (live) · licenza: terzi
 - **2002** · Hacker Journal n.10 (WLF Publishing) — [HJ ha surfato per voi: blackhats.it](https://archive.org/details/hackerjournal-10) · copia: `2002/9f66dc6f79ed` (live) · licenza: terzi
 - **2002** · Hacker Journal n.11 (24 ottobre-7 novemb — [News: reti wireless aperte - indagine sul campo a Milano da Naif e Vodka per conto di Port](https://archive.org/details/hackerjournal-11) · copia: `2002/6d17d2672c33` (live) · licenza: terzi
+- **2002** · Webb.it 02 (Padova) - pagina «Comunità e — [Sikurezza.org a Webb.it 02 - Coordinatore: Fabio Pietrosanti (naif)](https://web.archive.org/web/20020718172740/http://www.webb.it:80/article/articleview/205) · copia: `2002/7438709ab0e9` (Web Archive 20020718) · licenza: terzi
+- **2002** · Webb.it 02 (Padova Fiere) - scheda works — [Sikurezza.org - Relatore: Fabio Pietrosanti (naif), Stefano Venturoli (Sala 18, 05/07/02 1](https://web.archive.org/web/20020723183926/http://www.webb.it:80/event/eventview/643/) · copia: `2002/6d79334a8ffd` (Web Archive 20020723) · licenza: terzi
+- **2002** · Webb.it 02 (Padova Fiere, 5-7 luglio 200 — [Contest «Secure System Administration» (Sikurezza.org) - Responsabile della competizione: ](https://web.archive.org/web/20020816090842/http://www.webb.it:80/event/eventview/789/) · copia: `2002/f41d5d10503f` (Web Archive 20020816) · licenza: terzi
 - **2002** · CeAS - Centro Alti Studi Lotta al Terror — [Il ruolo dei carrier nella security (Fabio Pietrosanti, Network Security Manager I.NET S.p](https://web.archive.org/web/2003/http://www.1ceas.org/rel2002/marzo/marzo.htm) · copia: `2002/e897e1c84a86` (Web Archive 20020819) · licenza: terzi
 - **2002** · Sikurezza.org @ Webb.it 02, Padova Fiere — [Presentazione sikurezza.org (Fabio Pietrosanti 'naif', Stefano Venturoli)](https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html) · copia: `2002/eaa7085c2c1c` (Web Archive 20020821) · licenza: terzi
 - **2002** · sikurezza.org @ Webb.it 02, Padova — [SIKUREZZA.ORG - Italian Security Mailing List (slide di presentazione, PDF)](https://web.archive.org/web/20030311060208/http://sikurezza.org:80/webbit02/sikurezza_org.pdf) · copia: `2002/66cbe4c20452` (Web Archive 20030311) · licenza: propria

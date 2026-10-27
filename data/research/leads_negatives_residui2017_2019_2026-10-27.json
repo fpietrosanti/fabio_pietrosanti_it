@@ -1,0 +1,62 @@
+[
+ {
+  "source": "crvd.org (clone locale crvd-preservation) + Codemotion community (Wayback)",
+  "query_or_url": "archive/blog/cosi-fan-tutti-i-regimi.html (CRVD, 14/10/2019 23:12); https://web.archive.org/web/20191015015951/https://community.codemotion.com/legal-hackers-roma/meetups/meetup-aperitech-ottobre-legal-hackers (e cattura 20191112101605)",
+  "result": "Evento IDENTIFICATO, ma il suo nome non compare",
+  "note": "Il tweet 1184113217867407363 è del 15/10/2019 alle 14:26 UTC (ricavato dallo snowflake), quindi «proprio ieri» = lunedì 14/10/2019, non 12-13/10. L'evento è «Voto Elettronico: Verso una democrazia digitale?», meetup #AperiTech di Legal Hackers Roma (Codemotion con LVenture Group e LUISS EnLabs), 14/10/2019 19:00-21:00, HUB LVenture/LUISS EnLabs, via Marsala 29H, Roma. Introducono Roberto Reale e avv. Massimiliano Nicotra. Tavola rotonda: on. Enza Bruno Bossio (Camera, IX Commissione), prof. avv. Raffaele Titomanlio (Tor Vergata), avv. Marco Scialdone (UER - InnoLawLab), Enrico Barich (giornalista); modera Claudia Morelli. Pietrosanti/naif NON compare nel programma (in nessuna delle due catture). Il post CRVD di Emmanuele Somma del 14/10/2019 («Così fan tutti (i regimi)») linka questa pagina come «quest'evento» e descrive la serata (pubblico, relatori tutti maschi, dibattito sul voto all'estero e sulla geolocalizzazione dei seggi) senza nominarlo. Probabilmente Fabio era tra il pubblico o è intervenuto dalla sala. Suggerimento: aggiornare la nota della voce media.json esistente (data 2019-10-14, titolo, luogo), senza creare una nuova voce."
+ },
+ {
+  "source": "WebSearch",
+  "query_or_url": "convegno \"voto elettronico\" Roma \"14 ottobre 2019\"; \"Voto elettronico: verso una democrazia digitale\" Legal Hackers Roma 2019; radioradicale voto elettronico ottobre 2019",
+  "result": "Nessun resoconto, video o scheda di Radio Radicale sull'evento",
+  "note": "Nessun video del meetup trovato."
+ },
+ {
+  "source": "Wayback internetfreedomfestival.org (CDX 2016-2020, 3.883 URL)",
+  "query_or_url": "schedule/, monday-6th ... friday-10th-schedule (20170417), wiki Category:Presenters (20180109), Category:English_(2017), Self-Organized_Schedule, fellows/",
+  "result": "Trovata la sessione di IFF 2017 (vedi il file delle voci). Le altre sessioni sul whistleblowing del 2017 non sono sue",
+  "note": "«Globaleaks User forum» (2016): Giovanni Pellerano, Pedro Noel, Marcel Oomens. «MENAleaks» (2017): Rahma Sghaier. «Nuevas tecnologías para los whistleblowers» (2017): «Simona Levi (Xnet) and GlobaLeaks», senza nomi. «Improving methodology: verifying leaks...» (2017): Cedric Laurant. Nessun Pietrosanti o naif in queste pagine."
+ },
+ {
+  "source": "Wayback platform.internetfreedomfestival.org (IFF 2018)",
+  "query_or_url": "https://web.archive.org/web/20180227000230/https://platform.internetfreedomfestival.org/en/IFF2018/public/schedule/custom + CDX delle pagine delle sessioni",
+  "result": "Nessun Pietrosanti, naif, GlobaLeaks o Hermes",
+  "note": "La pagina catturata mostra solo il giorno 1 (5/3/2018). Le pagine delle sessioni di IFF2018 sono catturate solo come 302/301/404 e gli altri giorni (?day=N) non sono archiviati. Copertura parziale."
+ },
+ {
+  "source": "Wayback platform.internetfreedomfestival.org (IFF 2019)",
+  "query_or_url": "https://web.archive.org/web/20191013174522/https://platform.internetfreedomfestival.org/en/IFF2019/public/schedule/custom + le 24 pagine di sessione catturate (200)",
+  "result": "PISTA APERTA, senza nome",
+  "note": "Lunedì 1/4/2019, 14:45-15:45, sala Taller 6: «Whistleblowing PA\": technology to empower public agencies in the fight against corruption (a GlobaLeaks usecase)» (sessione id 1462, URL .../IFF2019/public/schedule/custom/1462). La pagina della sessione, con i relatori, non è archiviata (wayback/available vuoto) e la piattaforma live non risponde. Relatore ignoto (Hermes o Transparency International Italia). Nelle 24 sessioni catturate non compaiono Pietrosanti, naif, GlobaLeaks o Hermes. Domanda per Fabio."
+ },
+ {
+  "source": "sched.com (Wayback CDX)",
+  "query_or_url": "iff2017/iff2018/iff2019/internetfreedomfestival2018.sched.com",
+  "result": "0 catture",
+  "note": "Dopo il 2016 IFF non usava sched. Il programma 2018-19 stava su platform.internetfreedomfestival.org."
+ },
+ {
+  "source": "Wayback 2019.internetfestival.it (CDX, 796 URL)",
+  "query_or_url": "https://web.archive.org/cdx/search/cdx?url=2019.internetfestival.it/*",
+  "result": "Nessuna pagina relatore pietrosanti-fabio",
+  "note": "Le pagine dei relatori hanno slug /-/cognome-nome (es. celenza-fabio, vignoli-fabio): nessun pietrosanti, e nessun URL con hermes/globaleaks/whistle/voto/monitora/copernic. La copertura Wayback è parziale; il sito live dà 502. Durante il pass (2026-10-27) Internet Archive è stato «Temporarily Offline» per qualche minuto, poi è tornato."
+ },
+ {
+  "source": "GitHub issue search (programmi MozFest)",
+  "query_or_url": "pietrosanti / globaleaks / whistleblow / hermes in MozillaFoundation/mozfest-program-2017, MozillaFoundation/mozfest-program-2018, MozillaFestival/mozfest-program-2018; org:MozillaFestival, org:mozilla",
+  "result": "0 risultati (controllo: 'privacy' nel repo 2017 dà 209 risultati)",
+  "note": "MozFest 2019 usava un'altra piattaforma (non controllata). WebSearch MozFest + Pietrosanti: nulla."
+ },
+ {
+  "source": "WebSearch",
+  "query_or_url": "\"Wired Next Fest\" 2017/2018/2019 \"Pietrosanti\"",
+  "result": "Nessuna menzione",
+  "note": "I programmi di Wired Next Fest Milano e Firenze 2017-19 non sono stati controllati uno per uno via Wayback."
+ },
+ {
+  "source": "hermescenter-restore (archivio locale) + media.json",
+  "query_or_url": "ricerca di 'TBA'/'to be announced'/'da definire' negli eventi Hermes 2017-2019",
+  "result": "Nessun evento 2017-2019 con relatore TBA trovato",
+  "note": "L'archivio restaurato non ha post di eventi 2017-2019 (solo archive/2019/02, con un PDF FOIA); i 'TBA' stanno in pagine del 2024-2025. POuL 2018 non ripetuto (relatore Pellerano)."
+ }
+]

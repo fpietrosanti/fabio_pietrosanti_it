@@ -1,0 +1,41 @@
+[
+ {
+  "date": "2002-07-06",
+  "year": 2002,
+  "type": "other",
+  "outlet": "Webb.it 02 (Padova Fiere, 5-7 luglio 2002) - scheda contest, area Hardware-System-Networking",
+  "title": "Contest «Secure System Administration» (Sikurezza.org) - Responsabile della competizione: Fabio Pietrosanti (naif)",
+  "url": "https://web.archive.org/web/20020816090842/http://www.webb.it:80/event/eventview/789/",
+  "language": "it",
+  "role": "organizzatore / responsabile del contest",
+  "note": "Scheda ufficiale Webbit02 del contest di system administration sicura organizzato da Sikurezza.org (consegna sabato 6/7 ore 16.30, premiazione 7/7/2002 ore 14.30, premio scheda Cisco Aironet 350): «RESPONSABILE DELLA COMPETIZIONE Fabio Pietrosanti naif». Trovata leggendo tutte le schede eventview/articleview di webb.it catturate nel 2001-2002 (Wayback). Distinto dal talk di presentazione di sikurezza.org (già noto).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2002-07-05",
+  "year": 2002,
+  "type": "talk",
+  "outlet": "Webb.it 02 (Padova Fiere) - scheda workshop ufficiale",
+  "title": "Sikurezza.org - Relatore: Fabio Pietrosanti (naif), Stefano Venturoli (Sala 18, 05/07/02 16:00)",
+  "url": "https://web.archive.org/web/20020723183926/http://www.webb.it:80/event/eventview/643/",
+  "language": "it",
+  "role": "relatore",
+  "note": "Mirror della voce nota «Presentazione sikurezza.org @ Webb.it 02» (sikurezza.org/webbit02.html): è la scheda sul sito ufficiale webb.it. «Relatore: Fabio Pietrosanti (naif) -naif@sikurezza.org, Stefano Venturoli» - «Il progetto, lo stato attuale, il futuro, la nostra presenza a Webb.it».",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "2002-07",
+  "year": 2002,
+  "type": "other",
+  "outlet": "Webb.it 02 (Padova) - pagina «Comunità e Progetti Speciali»: Sikurezza.org",
+  "title": "Sikurezza.org a Webb.it 02 - Coordinatore: Fabio Pietrosanti (naif)",
+  "url": "https://web.archive.org/web/20020718172740/http://www.webb.it:80/article/articleview/205",
+  "language": "it",
+  "role": "coordinatore della presenza di sikurezza.org a Webbit02",
+  "note": "Pagina della community sikurezza.org sul sito ufficiale webb.it (missione, workshop, presidi rtfm.it/openbeer.it): «Coordinatore: Fabio Pietrosanti (naif)». Collegata all'evento noto (sikurezza.org @ Webbit02): mirror/complemento di https://web.archive.org/web/2003/http://www.sikurezza.org/webbit02.html.",
+  "verified": true,
+  "known": true
+ }
+]

@@ -1,0 +1,28 @@
+[
+ {
+  "date": "1999-12-25",
+  "year": 1999,
+  "type": "mentioned",
+  "outlet": "BFi n.7",
+  "title": "BFi n.7 - archivio completo (tar.gz) con BFi07-20",
+  "url": "https://s0ftpj.org/bfi/bfi7.tar.gz",
+  "language": "it",
+  "role": "citato nei ringraziamenti",
+  "note": "Mirror di https://www.s0ftpj.org/bfi/online/bfi7/bfi07-20.html (già nota). In BFi07-20 i ringraziamenti di Black Berry: «un abbraccio a tutta Olografix e allo staff di I...ludiamoci 99 ... Sliver, o2, Naif e in particolare i ragazzi della stanza 101»: colloca naif a I...ludiamoci 99 (Pescara, Metro Olografix/Arci).",
+  "verified": true,
+  "known": true
+ },
+ {
+  "date": "1998",
+  "year": 1998,
+  "type": "project",
+  "outlet": "panservice.it (pagina personale)",
+  "title": "madoka - sito personale da teenager («NaiF», IrcNet #Latinaonline)",
+  "url": "http://www.panservice.it/people/madoka/",
+  "language": "it",
+  "role": "autore",
+  "note": "Già presente nell'archivio del sito (past/panservice.it-people-madoka, capture Wayback 19991021223801). La pagina è firmata «NaiF» (mailto bmnet@hotmail.com) e «IrcNet #Latinaonline NaiF^». Prova che il nick naif era suo già nel 1997-98 (rafforza l'attribuzione della lettera «Naif» su BFi n.4). Pagina propria, non menzione di terzi: bassa priorità come voce media.",
+  "verified": true,
+  "known": true
+ }
+]
