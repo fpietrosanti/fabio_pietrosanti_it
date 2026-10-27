@@ -1,0 +1,68 @@
+[
+ {
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XXIII-relatori.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XXX-relatori.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XVII-relatori.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://e-privacy.winstonsmith.org/e-privacy-XXI-relatori.html",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.researchgate.net/publication/380766397_Digital_whistleblowing_platforms_for_anti-corruption_The_Transparency_International_Italia_case",
+  "reason": "not fetched: http 403"
+ },
+ {
+  "url": "https://www.academia.edu/118763173/Digital_whistleblowing_platforms_for_anti_corruption_The_Transparency_International_Italia_case",
+  "reason": "not fetched: http 403"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/GlobaLeaks",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://cfp.romhack.io/romhack-camp-2026/speaker/",
+  "reason": "already in media.json"
+ },
+ {
+  "url": "https://www.alessandrorodolfi.org/",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://china.elgaronline.com/edcollbook-oa/book/9781802202106/9781802202106.pdf",
+  "reason": "not fetched: 202"
+ },
+ {
+  "url": "https://cdn.osce.org/sites/default/files/f/documents/4/9/263301_0.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://search.proquest.com/openview/54a42ff7ed920e9679b2cf2b9cccf41b/1",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://peer.org/wp-content/uploads/2021/02/Caught_Between_Conscience_and_Career.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ },
+ {
+  "url": "https://repositorio.ufpe.br/bitstream/123456789/27079/1/DISSERTA%C3%87%C3%83O%20Dayane%20Amorim%20Gon%C3%A7alves%20de%20Albuquerque.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "live"
+ },
+ {
+  "url": "https://escholarship.org/content/qt0bh5c50p/qt0bh5c50p.pdf",
+  "reason": "his name not found (homonym or different Pietrosanti)",
+  "method": "wayback"
+ }
+]

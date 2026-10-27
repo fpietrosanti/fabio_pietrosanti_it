@@ -3460,39 +3460,87 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Linux Magazine\" OR \"Linux&C\" OR \"Linux Pro\" 2003 OR 2004 OR 2005",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-27 16:32",
+      "found": 5
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Hackmeeting\" OR \"hackit\" 2000 OR 2001 OR 2002 OR 2003",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-27 16:32",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" Wired OR \"Il Venerdì\" OR Espresso whistleblowing 2023 OR 2024",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-27 16:32",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Tor\" relay OR \"Tor2web\" intervista 2011 OR 2012",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-27 16:32",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"anticorruzione\" ANAC GlobaLeaks 2024 OR 2025 convegno",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-27 16:32",
+      "found": 1
     },
     {
       "query": "\"Fabio Pietrosanti\" \"crittografia\" OR \"cifratura\" telefonate intervista 2009 OR 2010",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-27 16:32",
+      "found": 2
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Punto Informatico\" 2002 OR 2003 OR 2004 sicurezza",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-27 12:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-27 16:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Securteam\" OR \"SecuriTeam\" OR \"Packet Storm\" 2002 OR 2003",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-27 16:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Tor\" anonimato convegno 2009 OR 2010",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-27 16:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Leaks\" giornalismo inchiesta 2012 OR 2013 intervista",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-27 16:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" whistleblower protezione legge 179 OR 2017 intervista",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-27 16:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Hermes\" \"sorveglianza\" OR \"spyware\" 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-27 16:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
     }
   ],
   "history": [
@@ -4428,6 +4476,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 6 query pending (1998-99, Metro Olografix, interviste EN 2024-25, direttiva UE 2023, Openlabs/sikurezza 2006-07, trojan di Stato 2023-25) senza robot check: 42 risultati, 39 URL distinti. Scartati senza verifica: social (LinkedIn, X, Facebook), mailing list (lists.inventati.org), indice pr-foundation /content/, scribd 777154998 già escluso. 29 candidati verificati: 25 respinti o già in archivio (researchgate/academia/elgaronline FAIL ma il caso TI Italia è già in archivio). 4 OK dallo script, nessuno nuovo: moca2016 già in archivio; dig-awards IT, zh.wikipedia GlobaLeaks e festivaldelgiornalismo speaker Ziccardi già esclusi in decisions.json. File grezzo della passata lasciato vuoto. Nessuna nuova copia (archive_copies: pending 0). Rendimento nullo (seconda passata consecutiva). Coda esaurita: aggiunte 6 query (riviste Linux 2003-05, Hackmeeting 2000-03, Wired/Venerdì/Espresso 2023-24, Tor/Tor2web 2011-12, ANAC 2024-25, cifratura telefonate 2009-10)."
+    },
+    {
+      "date": "2026-10-27 16:32",
+      "engine": "google-chrome",
+      "searched": 6,
+      "captcha": false,
+      "confirmed_new": 0,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 6 query pending (riviste Linux 2003-05, Hackmeeting 2000-03, Wired/Venerdì/Espresso 2023-24, Tor/Tor2web 2011-12, ANAC 2024-25, cifratura telefonate 2009-10) senza robot check: 36 risultati. Scartati senza verifica: social (LinkedIn), mailing list (lists.autistici.org, lists.inventati.org), indici (pr-foundation home e /content/, dicorinto tag, festivaldelgiornalismo speaker Fabio Chiusi), wikiwand e zh.wikipedia GlobaLeaks (già esclusi). 16 candidati verificati: 15 respinti o già in archivio (e-privacy relatori, romhack, en.wikipedia già presenti; researchgate/academia/elgaronline FAIL ma caso TI Italia già in archivio; 6 PDF/pagine senza il suo nome). 1 OK dallo script (radioradicale 438714 /stampa-e-regime) già escluso in decisions.json come alias e rimosso dal file grezzo. Nessuna voce nuova (terza passata consecutiva a rendimento nullo: le query libere sembrano sature). archive_copies: 1 copia ottenuta (voce Digital Commons EDIC aggiunta dal commit precedente), pending 0. Coda esaurita: aggiunte 6 query (Punto Informatico 2002-04, advisory SecuriTeam/Packet Storm 2002-03, Tor convegni 2009-10, Leaks/giornalismo 2012-13, legge 179/2017, Hermes sorveglianza 2024-25)."
     }
   ]
 }
