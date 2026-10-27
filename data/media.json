@@ -22008,6 +22008,23 @@
   "on_old_site": false
  },
  {
+  "date": "2026-10-27",
+  "year": 2026,
+  "type": "press_release",
+  "outlet": "Digital Commons EDIC",
+  "title": "The Digital Commons EDIC adopts joint strategy to scale open-source alternatives",
+  "url": "https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/",
+  "language": "en",
+  "role": "subject",
+  "note": "Comunicato ufficiale: l'Assemblea dei Membri del 16 ottobre 2026 nomina l'Advisory Board di undici persone, fra cui «Fabio Pietrosanti — free software advocate, strategist and social entrepreneur». Annuncia anche la strategia 2026-2027 e l'ingresso della Polonia.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass5_dcedic_2026-10-27"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2026-11-14",
   "year": 2026,
   "type": "talk",

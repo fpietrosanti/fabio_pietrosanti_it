@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1681**; dopo deduplica: **1227**
+- Risultati grezzi dalle ricerche: **1682**; dopo deduplica: **1228**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1172**
-- Verificati aprendo la pagina: **1158**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1173**
+- Verificati aprendo la pagina: **1159**; solo da risultato di ricerca: **69**
 
-Per tipo (nuovi): Menzionato 255, tweet 132, Talk 97, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Radio 27, Comunicato 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 255, tweet 132, Talk 97, Video 80, Citato 75, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -44,14 +44,16 @@ Per tipo (nuovi): Menzionato 255, tweet 132, Talk 97, Video 80, Citato 75, Post 
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 15 | 15 |
-| 2026 | 0 | 44 | 44 |
+| 2026 | 0 | 45 | 45 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 44 voci, 44 nuove
+## 2026 — 45 voci, 45 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
+- 🆕 **2026-10-27** · Comunicato · Digital Commons EDIC — [The Digital Commons EDIC adopts joint strategy to scale open-source alternatives](https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/)  
+  Comunicato ufficiale: l'Assemblea dei Membri del 16 ottobre 2026 nomina l'Advisory Board di undici persone, fra cui «Fabio Pietrosanti — free software advocate, strategist and social entrepreneur». Annuncia anche la strategia 2026-2027 e l'ingresso della Polonia.
 - 🆕 **2026-10-14** · Video · Cyber Saiyan (YouTube) - RomHack Camp 2026 — [MXMap Italia: National Observatory for Digital Sovereignty / RomHack Camp 2026](https://www.youtube.com/watch?v=GyNpnJ5Q2ew)  
   Registrazione video (19'43'') del talk del 02/10/2026, Stage 2, Flaminio Village, Roma; pubblicata il 14/10/2026. Descrizione: «Speakers: Fabio Pietrosanti (naif)». La pagina CFP del talk (cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/) è già in archivio; il video è nuovo.
 - 🆕 **2026-10-05** · Menzionato · WeChat — 长寿科技情报站 (gh_15f7b20393cf) — [以自身试验探索生命边界：极客闭门论坛回顾](https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd)  
