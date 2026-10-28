@@ -815,6 +815,12 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   (non aggirarlo). Ritmo per le prossime sessioni: blocchi da ~8 ricerche distanziati di ore.
   Query: `site:<dominio> "Pietrosanti" (GlobaLeaks OR hacker OR Hermes OR whistleblowing OR Rousseau OR Tor OR
   cifratura OR intercettazioni OR PrivateWave OR Kaspersky OR "voto elettronico" OR sicurezza)`.
+- **Chiave localStorage nuova a ogni giro** (2026-10-28, secondo incidente nello stesso giorno): una chiave già
+  usata da un giro precedente può contenere un *array*; `s.q0=u` su un array non viene serializzato da
+  `JSON.stringify` e i risultati si perdono in silenzio. Usare una chiave col timestamp (es. `gqr<AAAAMMGG-HHMM>`),
+  inizializzarla a `{}` prima della prima ricerca e controllare dopo ogni salvataggio che il conteggio letto sia
+  uguale a quello raccolto. Rifare le ricerche perse costa il blocco: il 2026-10-28 16:30 il secondo giro ha
+  incontrato subito il robot check.
 - Candidati in `data/research/candidates/*.txt` → `tools/verify_candidates.py` (copia dal Web Archive, cerca il nome,
   scarta omonimi) → `data/research/raw/pass3_*.json`.
 - Bing ignora `site:`; DuckDuckGo mostra sempre il controllo anti-robot; ricerca interna Corriere troppo povera.
