@@ -1094,6 +1094,14 @@
   {
    "url": "https://dokumen.pub/source-journalism.html",
    "reason": "2026-10-28: compilazione non ufficiale di voci Wikipedia («Source (Journalism)»), equivale a un mirror di Wikipedia"
+  },
+  {
+   "url": "https://www.dalchecco.it/tag/milano/page/6/",
+   "reason": "2026-10-29: pagina-archivio del tag «milano»; l'evento citato (IISFA, Palazzo di Giustizia di Milano, 20 maggio) è già in archivio con il post canonico dalchecco.it/informatica-forense-conferenza-iisfa-forum-2017/"
+  },
+  {
+   "url": "https://www.radioradicale.it/scheda/382138/la-nuova-agenzia-di-stampa-public-policy-interviste-a-leopoldo-papi-e-gaetano-veninata",
+   "reason": "2026-10-29: il nome compare solo nel riquadro «Registrazioni correlate» (rimando alla scheda 342096, già in archivio); la scheda non lo riguarda"
   }
  ],
  "override": [
