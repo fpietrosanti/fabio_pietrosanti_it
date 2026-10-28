@@ -3604,39 +3604,87 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" DIG Festival OR \"DIG Awards\" Riccione 2018 OR 2019 OR 2020",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-28",
+      "found": 4
     },
     {
       "query": "\"Fabio Pietrosanti\" workshop giornalisti \"sicurezza digitale\" 2016 OR 2017 OR 2018 OR 2019",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-28",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" SIO OR \"captatore informatico\" spyware 2026",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-28",
+      "found": 6
     },
     {
       "query": "\"Fabio Pietrosanti\" Khamsa OR PrivateWave \"cifratura\" telefonate 2009 OR 2011 OR 2012",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-28",
+      "found": 1
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Hermes Center\" 2023 OR 2024 intervista",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-28",
+      "found": 4
     },
     {
       "query": "\"Fabio Pietrosanti\" \"naif\" sicurezza 2003 OR 2004 OR 2005 conferenza",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025",
+      "date": "2026-10-28",
+      "found": 5
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"DIG Festival\" Milano OR Modena OR Riccione 2017 OR 2021 OR 2022",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-28 00:33: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+      "note": "aggiunta 2026-10-28 04:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" spyware Italia 2025 intervista OR dichiara",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 04:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Hermes \"Tor\" exit node 2010 OR 2011 OR 2012",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 04:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Hacker Journal\" OR \"Linux Magazine\" OR \"Login\" 2001 OR 2002 OR 2003",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 04:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" whistleblowing ANAC OR \"d.lgs. 24\" 2023 OR 2024 convegno",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 04:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Hermes Center for Transparency\" 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 04:32: coda esaurita; anni deboli 2000-2005, 2009-2012, 2023-2025"
     }
   ],
   "history": [
@@ -4596,6 +4644,14 @@
       "captcha": false,
       "confirmed_new": 2,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 6 query pending (radio 2000-02, riviste Linux/Hacker Journal, anonimato giornalisti 2010-11, OdG/FNSI, d.lgs. 24/2023, Paragon/Equalize 2025) senza robot check: 38 risultati, 37 URL distinti (scartati senza verifica: LinkedIn, Reddit, indici dicorinto/poul, OPAC bibliotecaviterbo, doppione radioradicale /stampa-e-regime). 37 candidati verificati: 26 respinti o già in archivio. 11 OK dallo script: 2 già esclusi (scribd 777154998, irpa.eu alias), 6 nuove esclusioni (Unità 1997 e catalogo venatorio: «naif» aggettivo; scribd 29-Ham-Radio: nome solo nei correlati; brochure Issuu IJF14 IT+EN e IJF15 EN: sessioni già presenti). 2 nuove voci: workshop DIG Academy «Condom USB» al DIG Festival di Riccione 2019 con Raffaele Angius (odg.bo.it, 23/05/2019) e quenube.com (ES, 01/04/2026, ripresa dell'articolo TNW su SIO/WhatsApp che lo cita). 2 nuove copie offline (1 wayback, 1 live). Nota sull'interprete: 'python' nel PATH è l'alias del Microsoft Store; usato C:/Users/admin/AppData/Local/Python/bin/python.exe. Coda esaurita: aggiunte 6 query (DIG Festival 2018-20, workshop giornalisti 2016-19, SIO/captatore 2026, Khamsa/PrivateWave 2009-12, Hermes 2023-24, naif conferenze 2003-05)."
+    },
+    {
+      "date": "2026-10-28 04:32",
+      "engine": "google-chrome",
+      "searched": 6,
+      "captcha": false,
+      "confirmed_new": 4,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 6 query pending (DIG 2018-20, workshop giornalisti 2016-19, SIO/captatore 2026, Khamsa/PrivateWave 2009-12, Hermes 2023-24, naif conferenze 2003-05) senza robot check: 29 risultati, 27 URL distinti (scartati senza verifica: indici dicorinto tag/formazione, pr-foundation home e /content/, hyperkitty nexa, dalchecco categoria). 19 candidati verificati: 14 respinti o già in archivio. 5 OK dallo script: fsfe.org 2021 IT già escluso (alias della versione EN). 4 nuove voci: DIG Festival Winter Edition, Milano 27/10/2017 (corsi OdG Lombardia con Angius e Civardi, Hermes) su antoniogenna.com, lapiazzarimini.it e cinemaitaliano.info; borncity.com (DE) ripresa del pezzo TNW su SIO/WhatsApp con sua dichiarazione. 4 nuove copie offline (2 wayback, 2 live). Coda esaurita: aggiunte 6 query (DIG 2017-22, spyware 2025, Tor exit node 2010-12, riviste 2001-03, whistleblowing ANAC 2023-24, Hermes 2025)."
     }
   ]
 }

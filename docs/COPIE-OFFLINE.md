@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1232**; già processate: **1410**; ancora da processare: **0**
-- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1045** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1167**
+- Voci in `data/media.json`: **1236**; già processate: **1414**; ancora da processare: **0**
+- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1049** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1171**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -21,7 +21,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 70 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 71 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -42,7 +42,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2015 | 39 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 2017 | 85 | 5 | 3 | 0 | 0 | 0 | 0 |
+| 2017 | 88 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
 | 2019 | 90 | 3 | 2 | 0 | 0 | 0 | 2 |
 | 2020 | 176 | 11 | 0 | 0 | 0 | 0 | 0 |
@@ -340,6 +340,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · pr-foundation.org — [La nostra Fondazione sospende le attività a seguito del lockdown per la pandemia - P&R Fou](http://www.pr-foundation.org/la-nostra-fondazione-sospende-le-attivita-seguito-del-lockdown/) · copia: `undated/70706e15391a` (Web Archive 20210619) · licenza: terzi
 - **None** · 2020.itasec.it — [ITASEC 2020 | ITASEC20, ad Ancona formazione in cybersecurity specifica per giornalisti](https://2020.itasec.it/itasec20-ancona-formazione-cybersecurity-giornalisti/) · copia: `undated/6222657a4e39` (Web Archive 20241015) · licenza: terzi
 - **None** · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html) · copia: `undated/4a11e866d9e4` (live) · licenza: terzi
+- **None** · borncity.com — [WhatsApp warnt 200 Nutzer vor gefälschter iPhone-App - BornCity](https://borncity.com/news/whatsapp-warnt-200-nutzer-vor-gefaelschter-iphone-app/) · copia: `undated/aedd517cf35b` (Web Archive 20260414) · licenza: terzi
 - **None** · cfp.romhack.io — [RomHack Camp 2026
             :: pretalx](https://cfp.romhack.io/romhack-camp-2026/speaker/) · copia: `undated/93eebbb26309` (Web Archive 20260930) · licenza: terzi
 - **None** · dig-awards.org — [A DIG 12 incontri speciali, aperti a tutti, sulle sfide del giornalismo](https://dig-awards.org/it/news/dig-academy-2022-formazione-giornalisti/) · copia: `undated/78f75e7cebc4` (live) · licenza: terzi
@@ -894,6 +895,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2016** · Wired Italia (Rosita Rijtano) — [Legge sul whistleblowing, un'opportunità da non sprecare. Ecco cosa manca](https://www.wired.it/attualita/politica/2016/02/01/legge-whistleblowing-opportunita/) · copia: `2016/ca13df31ee2a` (Web Archive 20160202) · licenza: terzi
 - **2016** · Eunews (YouTube) — [Intelligence, privacy e antiterrorismo in Europa](https://www.youtube.com/watch?v=IEViqE1HxfU) · copia: `2016/478b7b9746d3` (live · video locale `media.mp4` (538 MB, da caricare su Drive)) · licenza: terzi
 - **2016** · HackInBo (YouTube) — [Tavola Rotonda con Igor "KOBA" Falcomatà e Fabio "NAIF" Pietrosanti #HackInBo2016](https://www.youtube.com/watch?v=X_zQdg47ZtU) · copia: `2016/5e00215e7eb5` (Web Archive 20230224 · video locale `media.mp4` (312 MB, da caricare su Drive)) · licenza: terzi
+- **2017** · antoniogenna.com — [Antonio Genna Blog —   Media – DIG Festival Winter Edition, venerdì 27 e sabato 28 ottobre](https://antoniogenna.com/2017/10/19/media-dig-festival-winter-edition-venerdi-27-e-sabato-28-ottobre-a-milano/) · copia: `2017/a68d4ab9091e` (live) · licenza: terzi
 - **2017** · Hermes Center for Transparency and Digit — [Guida Hermes al voto digitale](https://archive.org/details/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale) · copia: `2017/67ee9034282f` (live) · licenza: terzi
 - **2017** · HERMES Center for Transparency and Digit — [La Guida HERMES al Voto Digitale (v1.0)](https://archive.org/download/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale/421_Cassandra-Consiglia--Guida-Hermes-al-voto-digitale_LaGuidaHermesAlVotoDigitale_v1.0.pdf) · copia: `2017/f459b1aa269d` (live) · licenza: terzi
 - **2017** · Boing Boing — [Italy unveils a legal proposal to regulate government hacking](https://boingboing.net/2017/02/15/title-italy-unveils-a-law-pro.html) · copia: `2017/d316cfd30704` (Web Archive 20170215) · licenza: terzi
@@ -931,10 +933,12 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2017** · Hermes Center for Transparency and Digit — [Appello del Centro Hermes ad ANAC per la Tecnologia di Whistleblowing open-source](https://hermescenter.org/appello-del-centro-hermes-ad-anac-per-la-tecnologia-di-whistleblowing-open-source/) · copia: `2017/fad909808422` (Web Archive 20170808) · licenza: propria
 - **2017** · Hermes Center for Transparency and Digit — [Il centro Hermes ha partecipato al Linux Day 2017 a Pavia](https://hermescenter.org/il-centro-hermes-ha-partecipato-al-linux-day-2017-pavia/) · copia: `2017/3c014293f250` (Web Archive 20200920) · licenza: propria
 - **2017** · Hermes Center for Transparency and Digit — [After Net Neutrality, Device Neutrality](https://hermescenter.org/net-neutrality-device-neutrality/) · copia: `2017/8af7dccd3a52` (Web Archive 20180102) · licenza: propria
+- **2017** · lapiazzarimini.it — [Riccione. Il Dig Festival approda a Milano da Feltrinelli](https://lapiazzarimini.it/2017/riccione-il-dig-festival-approda-a-milano-da-feltrinelli/) · copia: `2017/f4d87e6140a0` (Web Archive 20210806) · licenza: terzi
 - **2017** · SHA2017 - Still Hacking Anyway (media.cc — [Regulating Law Enforcement use of Trojans](https://media.ccc.de/v/SHA2017-68-regulating_law_enforcement_use_of_trojans) · copia: `2017/4ca026c3e13b` (Web Archive 20170810 · video locale `media.mp4` (96 MB, da caricare su Drive)) · licenza: terzi
 - **2017** · Matteo Flora (mgpf.it) — [Referendum autonomia Lombardia: hacker trova dati e codici online...](https://mgpf.it/2017/10/20/referendum-autonomia-lombardia-hacker.html) · copia: `2017/4df6c2948f08` (Web Archive 20171231) · licenza: terzi
 - **2017** · la Repubblica (Milano) — [Referendum Lombardia, gli ingegneri lanciano l'allarme sicurezza: "Troppi segreti sul voto](https://milano.repubblica.it/cronaca/2017/10/19/news/ilcaso_l_associazione_degli_ingegneri_protesta_per_l_accesso_negato_ai_dettagli_tecnici_su_lla_tutela_dei_dati_sensibi-178667938/) · copia: `2017/c7fbfa621deb` (Web Archive 20171019) · licenza: terzi
 - **2017** · Nova - Il Sole 24 Ore — [Tutte le fragilità dell'evoting](https://nova.ilsole24ore.com/progetti/tutte-le-fragilita-dellevoting/) · copia: `2017/f5de7e75779a` (Web Archive 20171102) · licenza: terzi
+- **2017** · nuovo.cinemaitaliano.info — [DIG FESTIVAL - A Milano ospite Riccardo Scamarcio](https://nuovo.cinemaitaliano.info/news/43802/dig-festival-a-milano-ospite-riccardo-scamarcio.html) · copia: `2017/e6a54263e321` (live) · licenza: terzi
 - **2017** · Internet Policy Review, Vol. 6, Issue 1  — [Australian internet policy](https://policyreview.info/node/457/pdf) · copia: `2017/2419bfb5cf59` (Web Archive 20180411) · licenza: terzi
 - **2017** · st.ilsole24ore.com — [La sfida di coniugare il dettato costituzionale e la ricerca tecnologica](https://st.ilsole24ore.com/art/commenti-e-idee/2017-12-02/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-125656.shtml) · copia: `2017/94351f1f8236` (live) · licenza: terzi
 - **2017** · tbinternet.ohchr.org — [INT_CCPR_CSS_ITA_26517_E.pdf](https://tbinternet.ohchr.org/Treaties/CCPR/Shared%20Documents/ITA/INT_CCPR_CSS_ITA_26517_E.pdf) · copia: `2017/e26d538ee4b2` (Web Archive 20211017) · licenza: terzi

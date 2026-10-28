@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1695**; dopo deduplica: **1232**
+- Risultati grezzi dalle ricerche: **1699**; dopo deduplica: **1236**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1177**
-- Verificati aprendo la pagina: **1162**; solo da risultato di ricerca: **70**
+- **Nuovi rispetto al vecchio sito: 1181**
+- Verificati aprendo la pagina: **1166**; solo da risultato di ricerca: **70**
 
-Per tipo (nuovi): Menzionato 255, tweet 132, Talk 100, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 259, tweet 132, Talk 100, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -35,7 +35,7 @@ Per tipo (nuovi): Menzionato 255, tweet 132, Talk 100, Video 80, Citato 76, Post
 | 2014 | 0 | 31 | 31 |
 | 2015 | 0 | 47 | 47 |
 | 2016 | 0 | 29 | 29 |
-| 2017 | 0 | 88 | 88 |
+| 2017 | 0 | 91 | 91 |
 | 2018 | 0 | 89 | 89 |
 | 2019 | 0 | 75 | 75 |
 | 2020 | 0 | 184 | 184 |
@@ -1293,7 +1293,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2018** · Altro · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti)  
   Speaker index listing 10 sessions 2012-2018
 
-## 2017 — 88 voci, 88 nuove
+## 2017 — 91 voci, 91 nuove
 
 - 🆕 **2017-12-27** · evento · Twitter/X @fpietrosanti (Wayback) - 34C3 Chaos Communication Congress, Leipzig — [Tweet: «After Christmas finally departing for the CCC Congress #34c3 like every year since many years. A lot of conversation, workshop, talks at #rightsandfreedom assembly!»](https://twitter.com/fpietrosanti/status/945929936661024768)  
   Read the Wayback capture 20190623144021 from the server (tweet dated 2017-12-27). Shows he attended 34C3; it does not show a talk of his own. 34C3 Fahrplan speakers, self-organized sessions and assemblies lists (events.ccc.de/congress/2017/wiki) have neither his name nor an Italian assembly.
@@ -1335,6 +1335,8 @@ Anni senza nessun risultato: nessuno
   By Luca De Vito. Repubblica archive snippet: «La cosa sconcertante è che la regione Lombardia dice che i dettagli non possono essere condivisi perché metterebbero a repentaglio la sicurezza stessa – spiega Fabio Pietrosanti». Print piece, separate from the known milano.repubblica.it article of 19/10/2017. The full text is paywalled, so the name was seen only in the publisher's archive search snippet.
 - 🆕 **2017-10-19** · Citato · la Repubblica (Milano) — [Referendum Lombardia, gli ingegneri lanciano l'allarme sicurezza: "Troppi segreti sul voto elettronico"](https://milano.repubblica.it/cronaca/2017/10/19/news/ilcaso_l_associazione_degli_ingegneri_protesta_per_l_accesso_negato_ai_dettagli_tecnici_su_lla_tutela_dei_dati_sensibi-178667938/)  
   Hermes Center FOIA on Smartmatic e-voting denied; Pietrosanti: 'security through obscurity', strategic litigation
+- 🆕 **2017-10-19** · Menzionato · antoniogenna.com — [Antonio Genna Blog —   Media – DIG Festival Winter Edition, venerdì 27 e sabato 28 ottobre a Milano](https://antoniogenna.com/2017/10/19/media-dig-festival-winter-edition-venerdi-27-e-sabato-28-ottobre-a-milano/)  
+  verified via live; context: …enerdì 27 ottobre con due corsi accreditati dall’Ordine dei giornalisti della Lombardia ai fini della formazione continua. Raffaele Angius , Giovanni Civardi e Fabio Pietrosanti , tre esperti dell’Hermes Center for Trans…
 - 🆕 **2017-10-19** · Citato · la Repubblica (print, Milano edition, p. 5, Cronaca) — [I tanti segreti per tutelare la sicurezza del voto con il sistema elettronico](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2017/10/19/i-tanti-segreti-per-tutelare-la-sicurezza-del-voto-elettronicoMilano05.html) _(non verificato)_  
   Found via ricerca.repubblica.it exact-phrase query "Fabio Pietrosanti" (full-text field 'nel testo'). The teaser reads '...è un paradigma degli anni Ottanta totalmente superato — spiega Fabio...' and is cut off; the article itself is paywalled (Contenuto a pagamento) and was not opened. This is the print Milano companion of the known milano.repubblica.it piece of the same day (different title). The URL is the searchdetail link taken from the result, with the session query parameters removed.
 - 🆕 **2017-10-13** · Menzionato · e-privacy XXII (2017 autumn), Venezia, Tribunale di Rialto - Progetto Winston Smith — [e-privacy XXII - relatori page lists his bio](https://e-privacy.winstonsmith.org/e-privacy-XXII-relatori.html) _(non verificato)_  
@@ -1469,6 +1471,10 @@ Anni senza nessun risultato: nessuno
   Shoaib Kiyani. OpenAlex full-text index matches 'F. Pietrosanti' together with Tor2web and Swartz (Tor2web references). trepo.tuni.fi timed out from here, so not re-opened. Already known.
 - 🆕 **2017** · Tesi · University of California, Berkeley, PhD dissertation (Computer Science) — [Threat modeling and circumvention of Internet censorship](https://www.bamsoftware.com/papers/thesis/fifield-thesis.pdf)  
   David Fifield. Ref. [41] cites Tor bug #4185 'Bridge easily detected by GFW' (Oct. 2011) with Fabio Pietrosanti among its listed authors (denverroot, Roger Dingledine, ... Mike Perry, Fabio Pietrosanti, quick-dudley), in the discussion of China's Great Firewall detecting Tor.
+- 🆕 **2017** · Menzionato · lapiazzarimini.it — [Riccione. Il Dig Festival approda a Milano da Feltrinelli](https://lapiazzarimini.it/2017/riccione-il-dig-festival-approda-a-milano-da-feltrinelli/)  
+  verified via wayback; context: …venerdì 27 ottobre con due corsi accreditati dall’Ordine dei giornalisti della Lombardia ai fini della formazione continua. Raffaele Angius, Giovanni Civardi e Fabio Pietrosanti, tre esperti dell’Hermes Center for Transp…
+- 🆕 **2017** · Menzionato · nuovo.cinemaitaliano.info — [DIG FESTIVAL - A Milano ospite Riccardo Scamarcio](https://nuovo.cinemaitaliano.info/news/43802/dig-festival-a-milano-ospite-riccardo-scamarcio.html)  
+  verified via live; context: …venerd� 27 ottobre con due corsi accreditati dall�Ordine dei giornalisti della Lombardia ai fini della formazione continua. Raffaele Angius, Giovanni Civardi e Fabio Pietrosanti, tre esperti dell�Hermes Center for Transp…
 - 🆕 **2017** · pagina · Hermes Center (hermescenter.org) — [Fabio Pietrosanti — Founding Member, President (scheda soci Hermes Center)](https://www.hermescenter.org/members/fabio-pietrosanti/)  
   Scheda biografica sul vecchio sito Hermes (PrivateWave, hacking community dal 1995, Twitter @fpietrosanti). Capture: https://web.archive.org/web/20210306145428/https://www.hermescenter.org/members/fabio-pietrosanti/ ; versione precedente con 'IRC: naif@irc.oftc.net #globaleaks': https://web.archive.org/web/20171022005215/https://www.hermescenter.org/home/about-mission/people/members/fabio-pietrosanti/ . Lo nominano anche gli elenchi soci /members/, /it/soci/ (capture 20210306140933) e /home/about-mission/people/ (stessa voce, non conteggiati a parte). Verificato sulle copie nello zip Wayback locale.
 
@@ -2530,6 +2536,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (2)](https://www.exploit-db.com/exploits/21747)
 - 🆕 Menzionato · pr-foundation.org — [La nostra Fondazione sospende le attività a seguito del lockdown per la pandemia - P&R Foundation](http://www.pr-foundation.org/la-nostra-fondazione-sospende-le-attivita-seguito-del-lockdown/)
 - 🆕 Menzionato · juniper.net — [SMB:EXPLOIT:SMBDIE](https://www.juniper.net/us/en/threatlabs/ips-signatures/detail.SMB:EXPLOIT:SMBDIE.html)
+- 🆕 Menzionato · borncity.com — [WhatsApp warnt 200 Nutzer vor gefälschter iPhone-App - BornCity](https://borncity.com/news/whatsapp-warnt-200-nutzer-vor-gefaelschter-iphone-app/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)
