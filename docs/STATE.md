@@ -52,8 +52,13 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **200 file, 52,2 GB**. Su Drive al 2026-10-27: **51 file, 8,3 GB** (`data/drive_links.json`);
-  mancano **150 file** (~44 GB).
+- Da caricare in tutto: **200 file, 52,2 GB**. Su Drive al 2026-10-28: **61 file, 10,2 GB** (`data/drive_links.json`);
+  mancano **140 file** (~42 GB).
+- Notte 2026-10-28 (01:08–06:31): caricati 10 file, ~1,95 GB (più ~1 GB di trasferimenti parziali persi
+  all'arresto). Velocità 115–240 KiB/s, nessuno stallo a 0 B/s e nessun errore di quota. rclone fermato con
+  taskkill alle 06:31, lo script ha registrato da solo i link (exit 2). `2023/295f8e8e294d/media.mp3` è stato
+  caricato due volte (01:51 e 04:26): probabilmente riscritto in locale durante l'upload da un altro lavoro.
+  Copie leggere pubblicate: 1147 voci, 446 MB in `copies/`. Controlli lingue e LinkedIn OK.
 - Notte 2026-10-27 (01:07–06:31): caricati 8 file, ~1,6 GB (più ~1,9 GB di trasferimenti parziali persi
   all'arresto). Velocità 145–260 KiB/s, nessuno stallo a 0 B/s e nessun errore di quota. Stop con TaskStop
   alle 06:31: questa volta si è chiuso anche rclone e lo script, quindi link registrati con `--links-only`.
@@ -74,7 +79,7 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   all'arresto). Velocità 70–250 KiB/s; dalle 04:55 stallo a 0 B/s per ~45 minuti, quindi rclone fermato a
   mano alle 05:40 e link registrati con `--links-only`. Copie leggere pubblicate: 1071 voci, 427 MB in `copies/`.
 - Notte 2026-10-22 (01:07–06:00): caricati 8 file, ~0,5 GB, con stalli simili.
-- Spazio su Drive: 75 GB totali, **57,95 GiB liberi** al 2026-10-27.
+- Spazio su Drive: 75 GB totali, **56,12 GiB liberi** al 2026-10-28.
 
 ### Problemi aperti dell'upload
 - **Banda in upload bassissima** dal computer (60–250 KiB/s, stalli ricorrenti a 0 B/s verso le 05:00; la rete risponde, ping 19 ms): verificare la linea
