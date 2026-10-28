@@ -3756,59 +3756,123 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" GlobaLeaks klokkenluiders OR klokkenluider",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
       "note": "aggiunta 2026-10-28 16:30: coda esaurita; estensione angolo multilingue (NL, PL, America Latina, Nord/Est Europa, Asia) + eventi hacker europei",
-      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check"
+      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check",
+      "date": "2026-10-28",
+      "found": 1
     },
     {
       "query": "\"Fabio Pietrosanti\" GlobaLeaks sygnaliści OR sygnalista",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
       "note": "aggiunta 2026-10-28 16:30: coda esaurita; estensione angolo multilingue (NL, PL, America Latina, Nord/Est Europa, Asia) + eventi hacker europei",
-      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check"
+      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check",
+      "date": "2026-10-28",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" GlobaLeaks México OR Argentina OR Colombia OR Chile periodistas",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
       "note": "aggiunta 2026-10-28 16:30: coda esaurita; estensione angolo multilingue (NL, PL, America Latina, Nord/Est Europa, Asia) + eventi hacker europei",
-      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check"
+      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check",
+      "date": "2026-10-28",
+      "found": 5
     },
     {
       "query": "\"Fabio Pietrosanti\" GlobaLeaks visselblåsare OR whistleblower Sverige OR Danmark",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
       "note": "aggiunta 2026-10-28 16:30: coda esaurita; estensione angolo multilingue (NL, PL, America Latina, Nord/Est Europa, Asia) + eventi hacker europei",
-      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check"
+      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check",
+      "date": "2026-10-28",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" GlobaLeaks oznamovatel OR \"whistleblowing\" Česko OR Slovensko OR Hrvatska",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
       "note": "aggiunta 2026-10-28 16:30: coda esaurita; estensione angolo multilingue (NL, PL, America Latina, Nord/Est Europa, Asia) + eventi hacker europei",
-      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check"
+      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check",
+      "date": "2026-10-28",
+      "found": 1
     },
     {
       "query": "\"Fabio Pietrosanti\" GlobaLeaks Ελλάδα OR Greece OR Turkey OR Türkiye whistleblowing",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
       "note": "aggiunta 2026-10-28 16:30: coda esaurita; estensione angolo multilingue (NL, PL, America Latina, Nord/Est Europa, Asia) + eventi hacker europei",
-      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check"
+      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check",
+      "date": "2026-10-28",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" GlobaLeaks Indonesia OR Philippines OR India OR Asia whistleblowing",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
       "note": "aggiunta 2026-10-28 16:30: coda esaurita; estensione angolo multilingue (NL, PL, America Latina, Nord/Est Europa, Asia) + eventi hacker europei",
-      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check"
+      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check",
+      "date": "2026-10-28",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" Tor OR GlobaLeaks \"Chaos Communication\" OR CCC OR \"Hacking at Random\" OR OHM",
-      "status": "retry",
+      "status": "done",
       "pages": 1,
       "note": "aggiunta 2026-10-28 16:30: coda esaurita; estensione angolo multilingue (NL, PL, America Latina, Nord/Est Europa, Asia) + eventi hacker europei",
-      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check"
+      "retry_note": "2026-10-28 16:40: eseguita senza robot check ma risultati persi (chiave localStorage occupata da un array); al secondo giro robot check",
+      "date": "2026-10-28",
+      "found": 10
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Smau\" OR \"Infosecurity Italia\" relatore 2004 OR 2005 OR 2006",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 20:45: coda esaurita; anni più deboli (2003-2008, 2023-2025) con angoli non ancora usati (eventi, atti, programmi, università)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Moca\" OR \"Metro Olografix\" camp 2004 OR 2008",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 20:45: coda esaurita; anni più deboli (2003-2008, 2023-2025) con angoli non ancora usati (eventi, atti, programmi, università)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" università seminario sicurezza 2005 OR 2006 OR 2007 OR 2008 programma",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 20:45: coda esaurita; anni più deboli (2003-2008, 2023-2025) con angoli non ancora usati (eventi, atti, programmi, università)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"atti del convegno\" OR proceedings sicurezza 2003 OR 2004 OR 2005 OR 2006",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 20:45: coda esaurita; anni più deboli (2003-2008, 2023-2025) con angoli non ancora usati (eventi, atti, programmi, università)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Wireless\" OR \"WiFi\" OR \"Bluetooth\" sicurezza 2004 OR 2005 OR 2006",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 20:45: coda esaurita; anni più deboli (2003-2008, 2023-2025) con angoli non ancora usati (eventi, atti, programmi, università)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" whistleblowing \"programma\" OR \"relatori\" convegno 2023",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 20:45: coda esaurita; anni più deboli (2003-2008, 2023-2025) con angoli non ancora usati (eventi, atti, programmi, università)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" GlobaLeaks podcast OR episodio OR puntata 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 20:45: coda esaurita; anni più deboli (2003-2008, 2023-2025) con angoli non ancora usati (eventi, atti, programmi, università)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" GlobaLeaks università OR ateneo OR \"pubblica amministrazione\" 2024 OR 2025 relatori",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-28 20:45: coda esaurita; anni più deboli (2003-2008, 2023-2025) con angoli non ancora usati (eventi, atti, programmi, università)"
     }
   ],
   "history": [
@@ -4800,6 +4864,14 @@
       "captcha": true,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Coda esaurita: aggiunte 8 query (angolo multilingue NL, PL, America Latina, Scandinavia, CZ/SK/HR, GR/TR, Asia, eventi hacker CCC/HAR/OHM). Primo giro: tutte e 8 eseguite senza robot check (1+10+5+10+1+9+10+10 = 56 risultati), ma i risultati sono andati persi: la chiave localStorage «gq1028c» conteneva già un array di un giro precedente e le proprietà q0..q7 non sono state serializzate. Secondo giro con chiave nuova: robot check di Google già alla prima ricerca (ripetuta anche la seconda nello stesso batch prima di accorgersene): stop immediato, nessun aggiramento. Tutte le 8 query segnate retry. Nessun candidato, nessuna verifica né copia. Aggiunta in RICERCA-MEDIA-PIANO.md la regola: chiave localStorage col timestamp, inizializzata a {} e controllata dopo ogni salvataggio."
+    },
+    {
+      "date": "2026-10-28 20:30",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 1,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Rieseguite le 8 query in retry (angolo multilingue NL, PL, America Latina, Scandinavia, CZ/SK/HR, GR/TR, Asia, eventi CCC/HAR/OHM) con chiave localStorage col timestamp inizializzata a {}, verifica del robot check dopo ogni ricerca: nessun robot check, 55 risultati, 50 URL distinti. Scartati senza verifica: LinkedIn (3), x.com e infosecurity.ch (propri), mirror Wikipedia (4), mailing list tor-talk, forum.italia.it, spam thenationalherald. 37 candidati verificati: 28 respinti o già in archivio (2 FAIL: elgaronline PDF, academia.edu TI Italia), 9 OK di cui 7 già esclusi/presenti in decisions.json. 1 voce nuova: programma della International Whistleblowers Conference 2014 (Amsterdam, 18/06/2014, Netwerk Democratie) con workshop di Fabio (GlobaLeaks). dokumen.pub/source-journalism (compilazione di voci Wikipedia) aggiunto a exclude. Attenzione: l'URL-mirror MOCA 2016 già escluso, ripresentato in un pass nuovo, faceva sparire la voce canonica /speakers/ dal merge → tenuti nel file grezzo solo i candidati nuovi. Coda ora esaurita: il prossimo giro deve aggiungere nuove query."
     }
   ]
 }

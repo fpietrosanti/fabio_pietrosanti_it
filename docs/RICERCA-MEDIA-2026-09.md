@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1712**; dopo deduplica: **1243**
+- Risultati grezzi dalle ricerche: **1713**; dopo deduplica: **1244**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1188**
-- Verificati aprendo la pagina: **1173**; solo da risultato di ricerca: **70**
+- **Nuovi rispetto al vecchio sito: 1189**
+- Verificati aprendo la pagina: **1174**; solo da risultato di ricerca: **70**
 
-Per tipo (nuovi): Menzionato 265, tweet 132, Talk 101, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 265, tweet 132, Talk 102, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -32,7 +32,7 @@ Per tipo (nuovi): Menzionato 265, tweet 132, Talk 101, Video 80, Citato 76, Post
 | 2011 | 4 | 30 | 27 |
 | 2012 | 0 | 37 | 37 |
 | 2013 | 0 | 33 | 33 |
-| 2014 | 0 | 31 | 31 |
+| 2014 | 0 | 32 | 32 |
 | 2015 | 0 | 48 | 48 |
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 91 | 91 |
@@ -1650,7 +1650,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2015** · Report · Nexa Center for Internet & Society — Annual Report 2015 — [Nexa Center annual report 2015](https://nexa.polito.it/wp-content/uploads/2024/05/Nexa-Center-annual_report-2015.pdf)  
   '73rd Nexa Wednesday, Principles and tools of whistleblowing: the GlobaLeaks case: March 11, 2015; guest: Fabio Pietrosanti.' PDF letto (25 MB).
 
-## 2014 — 31 voci, 31 nuove
+## 2014 — 32 voci, 32 nuove
 
 - 🆕 **2014-12-29** · workshop · 31C3 Chaos Communication Congress, Hamburg (Noisy Square) — [Practical Whistleblowing: Setting up leaksites beyond Snowden and WikiLeaks](https://events.ccc.de/congress/2014/wiki/Session:Practical_Whistleblowing:_Setting_up_leaksites_beyond_Snowden_and_WikiLeaks)  
   60-min GlobaLeaks workshop, 29 Dec 2014 15:00 at Noisy Square; person organizing: Naif (duplicate draft page Session:Practical_Whistleblowing also exists)
@@ -1680,6 +1680,8 @@ Anni senza nessun risultato: nessuno
   FUORI FINESTRA 2023-25 ma assente dall'archivio; filone Aeroporto di Latina. Annuncio dell'incontro M5S del 23/06/2014 (sede Daphorà, strada Fogliano) sulla riconversione dell'aeroporto militare Comani: «Fabio Pietrosanti, che presenterà una proposta pro riconversione portata avanti come progetto di condivisione cittadina». Nome presente ma nessun altro elemento identificativo: identità da confermare con Fabio (plausibile vista la campagna aeroporto).
 - 🆕 **2014-06-20** · Video · Free Press Unlimited (YouTube) — [International Whistleblowers Conference 2014 - Part 1: Morning plenary](https://www.youtube.com/watch?v=UVBzF1rB5ZU)  
   Introductions by Fabio Pietrosanti, Anna Myers and Diana Schemo (Amsterdam)
+- 🆕 **2014-06-18** · Talk · Netwerk Democratie (Amsterdam) — [International Whistleblowers Conference 2014 – Netwerk Democratie](https://netdem.framerframed.nl/en/events/event/international-whistleblowers-conference-2014/)  
+  Programma della International Whistleblowers Conference 2014 (Amsterdam, 18/06/2014, Netwerk Democratie): «Workshops met: Fabio Pietrosanti (GlobaLeaks)». Stesso evento del video Free Press Unlimited già in archivio (introduzioni). verified via live; context: …welke positie de media in deze veranderingen kan en wil innemen. Keynote opening: Annie Machon (MI5 whistle blower), presentatie: Farid Tabarki. Workshops met: Fabio Pietrosanti (GlobaLeaks),Diana Schemo (100Reporters), …
 - 🆕 **2014-06-11** · Citato · European Journalism Observatory (it.ejo.ch) — [ExpoLeaks, whistleblowing per Expo](https://it.ejo.ch/digitale/expoleaks-whistleblowing-giornalismo-expo-trasparenza)  
   Philip Di Salvo on the ExpoLeaks launch; quotes him on its origins and on civil society filling a gap left by the authorities
 - 🆕 **2014-05-19** · Video · Friuli FutureForum (YouTube) / vicino/lontano #VL2014 — [FFF - Su Facebook, ma non senza privacy. #VL2014](https://www.youtube.com/watch?v=9Fr90MjCvTQ)  

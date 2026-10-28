@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1243**; già processate: **1422**; ancora da processare: **0**
-- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1057** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1179**
+- Voci in `data/media.json`: **1244**; già processate: **1423**; ancora da processare: **0**
+- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1058** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1180**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -21,7 +21,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 71 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 72 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -353,6 +353,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · infoaut.org — [Caro abbonato, risulta che stai partecipando agli scontri](https://infoaut.org/culture/caro-abbonato-risulta-che-stai-partecipando-agli-scontri) · copia: `undated/817967f2fa60` (Web Archive 20231001) · licenza: terzi
 - **None** · media.journalismfestival.com — [panel discussion International Journalism Festival #ijf18](https://media.journalismfestival.com/programme/2018/category/panel-discussion/0/) · copia: `undated/c5d3d990f47f` (Web Archive 20210924) · licenza: terzi
 - **None** · meleamspa.com — [Google Analytics viola il GDPR: cause ed effetti di un'altra battaglia nella guerra degli ](https://meleamspa.com/google-analytics-viola-gdpr-cause-effetti-battaglia-analytics/) · copia: `undated/e45a893ec37b` (Web Archive 20220716) · licenza: terzi
+- **None** · netdem.framerframed.nl — [International Whistleblowers Conference 2014 – Netwerk Democratie](https://netdem.framerframed.nl/en/events/event/international-whistleblowers-conference-2014/) · copia: `undated/d50cb8f8430e` (live) · licenza: terzi
 - **None** · nexa.polito.it — [Fabio Pietrosanti Archives - Nexa Center for Internet & Society](https://nexa.polito.it/tag/fabio-pietrosanti/) · copia: `undated/3f185f9962b3` (Web Archive 20240722) · licenza: terzi
 - **None** · noyb.eu — [L'alleanza per i diritti digitali presenta denunce legali contro la società di riconoscime](https://noyb.eu/it/lalleanza-i-diritti-digitali-presenta-denunce-legali-contro-la-societa-di-riconoscimento-facciale) · copia: `undated/619ed9896d8f` (Web Archive 20210601) · licenza: terzi
 - **None** · poul.org — [POuL » Topic: Conferenze](https://poul.org/topic/Conferenze/) · copia: `undated/3d233789630b` (Web Archive 20191122) · licenza: terzi
