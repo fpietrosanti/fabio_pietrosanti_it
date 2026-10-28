@@ -13323,6 +13323,23 @@
   "date": "2019-04-01",
   "year": 2019,
   "type": "talk",
+  "outlet": "Cátedra de Transparencia UPV - Whistleblowing 2019 (Valencia)",
+  "title": "Programa - Cátedra de Transparencia y Gestión de Datos",
+  "url": "https://ctranspaupv.com/whistleblowing/programa-whistleblowing/",
+  "language": "es",
+  "role": "speaker",
+  "note": "Panel su strumenti di segnalazione (moderato da Renata Ávila) al convegno Whistleblowing 2019, UPV Valencia, 1/4/2019. verified via wayback; context: …ompartiremos las experiencias de implementación y adaptación de las herramientas de reporte y denuncia en diferentes contextos nacionales. Modera: Renata Ávila Fabio Pietrosanti GlobaLeaks Harlo Holmes. Freedom of the Pr…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-28-1230"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-04-01",
+  "year": 2019,
+  "type": "talk",
   "outlet": "Internet Freedom Festival 2019 (Valencia, La Rambleta) - sala Taller 6, 14:45-15:45",
   "title": "\"Whistleblowing PA\": technology to empower public agencies in the fight against corruption (a GlobaLeaks usecase)",
   "url": "https://web.archive.org/web/20191013174522/https://platform.internetfreedomfestival.org/en/IFF2019/public/schedule/custom",
@@ -13371,6 +13388,77 @@
   ],
   "tags": [
    "source-protection"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-05-20",
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "Mediapart (blog Les invités de Mediapart)",
+  "title": "La protection des lanceurs d'alerte est cruciale pour lutter contre la corruption",
+  "url": "https://blogs.mediapart.fr/les-invites-de-mediapart/blog/200519/la-protection-des-lanceurs-dalerte-est-cruciale-pour-lutter-contre-la-corruption",
+  "language": "fr",
+  "role": "subject",
+  "note": "Firmatario della lettera aperta in difesa di Rui Pinto (Football Leaks); ripresa della versione EN già in archivio (Press Gazette, The Black Sea). verified via wayback; context: …aliste, Die Suddeutsche Zeitung Fatih Polat , Rédacteur en chef, Evrensel Begoña Pérez Ramírez , journaliste, infoLibre Yann Philippin , journaliste, Mediapart Fabio Pietrosanti , Fondateur, Hermes Center for Transparenc…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-28-1230"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-05-21",
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "infoLibre",
+  "title": "La protección de los denunciantes es crucial para la lucha de Europa contra la corrupción",
+  "url": "https://www.infolibre.es/politica/proteccion-denunciantes-crucial-lucha-europa-corrupcion_1_1170568.html",
+  "language": "es",
+  "role": "subject",
+  "note": "Firmatario della lettera aperta in difesa di Rui Pinto (Football Leaks); ripresa della versione EN già in archivio (Press Gazette, The Black Sea). verified via wayback; context: …maier, periodista de investigación y premio Pulitzer de Die Süddeutsche Zeitung Fatih Polat, director de Evrensel Begoña Pérez Ramírez, periodista de infoLibre Fabio Pietrosanti, del Hermes Center for Transparency and Di…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-28-1230"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-05-21",
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "Jornal de Notícias",
+  "title": "Jornalistas, eurodeputados e ONG em defesa de Rui Pinto",
+  "url": "https://www.jn.pt/justica/artigo/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/10923035",
+  "language": "pt",
+  "role": "subject",
+  "note": "Firmatario della lettera aperta in difesa di Rui Pinto (Football Leaks); ripresa della versione EN già in archivio (Press Gazette, The Black Sea). verified via live; context: …tigação do jornal alemão Suddeutsche Zeitung Fatih Polat, diretor do jornal turco Evrensel Begoña Pérez Ramírez, jornalista do jornal online espanhol infoLibre Fabio Pietrosanti, Centro Hermes de Transparência e Direitos…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-28-1230"
+  ],
+  "mirrors": [
+   "https://www.fcporto.ws/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-05-21",
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "Expresso (Tribuna)",
+  "title": "Carta aberta em defesa de Rui Pinto: proteger os 'whistleblowers' é crucial para a luta da Europa contra a corrupção",
+  "url": "https://tribuna.expresso.pt/football-leaks/2019-05-21-Carta-aberta-em-defesa-de-Rui-Pinto-proteger-os-whistleblowers-e-crucial-para-a-luta-da-Europa-contra-a-corrupcao",
+  "language": "pt",
+  "role": "subject",
+  "note": "Firmatario della lettera aperta in difesa di Rui Pinto (Football Leaks); ripresa della versione EN già in archivio (Press Gazette, The Black Sea). verified via wayback; context: …tigação do jornal alemão Suddeutsche Zeitung Fatih Polat, diretor do jornal turco Evrensel Begoña Pérez Ramírez, jornalista do jornal online espanhol infoLibre Fabio Pietrosanti, Centro Hermes de Transparência e Direitos…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-28-1230"
   ],
   "on_old_site": false
  },
@@ -22157,6 +22245,23 @@
   "known": false,
   "_slices": [
    "pass4_podcast_2026-10-19"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2026-10-23",
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "Fedimedia Italia",
+  "title": "Fedimedia e Digital Indipendence Day per l'indipendenza digitale il 14 novembre al SFSCON 2026 | Fedimedia Italia APS - Web",
+  "url": "https://fedimedia.it/fedimedia-e-digital-indipendence-day-una-rete-per-lindipendenza-digitale-il-14-novembre-al-sfscon-2026/",
+  "language": "it",
+  "role": "subject",
+  "note": "Annuncio del talk MXMap Italia al SFSCON 2026 (14/11/2026). verified via live; context: …inux Distribution for European Digital Independence Mirco Montinari · Nextred 14:20 MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies Fabio Pietrosanti (naif) · Hermes Center for Transparency an…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-28-1230"
   ],
   "on_old_site": false
  },

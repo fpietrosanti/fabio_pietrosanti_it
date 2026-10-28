@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1237**; già processate: **1415**; ancora da processare: **0**
-- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1050** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1172**
+- Voci in `data/media.json`: **1243**; già processate: **1422**; ancora da processare: **0**
+- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1057** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1179**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -44,14 +44,14 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 88 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 90 | 3 | 2 | 0 | 0 | 0 | 2 |
+| 2019 | 96 | 3 | 2 | 0 | 0 | 0 | 2 |
 | 2020 | 176 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 60 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 9 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 47 | 3 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 48 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -1087,8 +1087,10 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · nohat.it — [R. Chiccarelli, Storia e storie degli hacker — slide No Hat 2019](http://www.nohat.it/slides/2019/chiccarelli.pdf) · copia: `2019/311cb5a52f3d` (Web Archive 20250226) · licenza: terzi
 - **2019** · P&R Foundation / Digital Italy Summit 20 — [Tavolo di lavoro sulla protezione dei dati personali al Digital Italy Summit 2019 («La pro](http://www.pr-foundation.org/tavolo-lavoro-sulla-protezione-dei-dati-personali-al-digital-italy-summit-2019/) · copia: `2019/d2a4f911b749` (Web Archive 20210618) · licenza: terzi
 - **2019** · CRVD — blog.crvd.org (URL originale, Way — [Come non sprecare un milione di euro](https://blog.crvd.org/come-non-sprecare-un-milione-di-euro/) · copia: `2019/5e24ced344f5` (Web Archive 20200813) · licenza: terzi
+- **2019** · Mediapart (blog Les invités de Mediapart — [La protection des lanceurs d'alerte est cruciale pour lutter contre la corruption](https://blogs.mediapart.fr/les-invites-de-mediapart/blog/200519/la-protection-des-lanceurs-dalerte-est-cruciale-pour-lutter-contre-la-corruption) · copia: `2019/17099ed1d8e0` (Web Archive 20190824) · licenza: terzi
 - **2019** · Laterza — [L'esecuzione. 5 Stelle da movimento a governo](https://books.google.com/books?id=rO2ODwAAQBAJ) · copia: `2019/8948d22cfd5e` (live) · licenza: terzi
 - **2019** · Copernicani — [Overlay Network Crittografici](https://copernicani.it/blog/2019/02/09/overlay-network-crittografici/) · copia: `2019/0752d3df8d0b` (Web Archive 20190718) · licenza: terzi
+- **2019** · Cátedra de Transparencia UPV - Whistlebl — [Programa - Cátedra de Transparencia y Gestión de Datos](https://ctranspaupv.com/whistleblowing/programa-whistleblowing/) · copia: `2019/702c79c9248c` (Web Archive 20240525) · licenza: terzi
 - **2019** · AGI (Arturo Di Corinto), mirrored on dic — [I tanti dubbi sul voto tramite blockchain che Casaleggio deve chiarire](https://dicorinto.it/temi/diritti_digitali/agi-i-tanti-dubbi-sul-voto-tramite-blockchain-che-casaleggio-deve-chiarire/) · copia: `2019/62ebf5acef06` (Web Archive 20190720) · licenza: terzi
 - **2019** · Google Docs — [Osservatorio sicurezza dello spazio cibernetico italiano - OSSCI (documento di progetto)](https://docs.google.com/document/d/1QpkIPPYuAn3LzIkQpVlzo76nx-Z0bbvT7Q75iyyKIxw/edit) · copia: `2019/0a24df39acd7` (google-docs-export) · licenza: terzi
 - **2019** · Agenzia delle Entrate — Direzione Centra — [Riscontro ad istanza di accesso civico generalizzato (collaudi e analisi di sicurezza dell](https://eclecticismnow.files.wordpress.com/2019/02/12-02-2019_istanza-accesso-civico-fp-risposta2.pdf) · copia: `2019/c351be390d34` (live) · licenza: terzi
@@ -1116,6 +1118,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · The Next Web (Hard Fork) — [Ethereum dev to be released pending trial amid claims charges against him are exaggerated](https://thenextweb.com/hardfork/2019/12/03/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency/) · copia: `2019/ac85ae01b0d2` (Web Archive 20191203) · licenza: terzi
 - **2019** · The Next Web (Hard Fork) — [Ethereum dev to be released pending trial amid claims charges against him are exaggerated](https://thenextweb.com/news/ethereum-developer-virgil-griffith-released-pending-trial-cryptocurrency) · copia: `2019/a4d83b58526f` (Web Archive 20211025) · licenza: terzi
 - **2019** · The Vision — [Un governo deciso da un sondaggio online è la vergogna della democrazia italiana](https://thevision.com/politica/governo-rousseau-democrazia/) · copia: `2019/7d64e37e9a12` (live) · licenza: terzi
+- **2019** · Expresso (Tribuna) — [Carta aberta em defesa de Rui Pinto: proteger os 'whistleblowers' é crucial para a luta da](https://tribuna.expresso.pt/football-leaks/2019-05-21-Carta-aberta-em-defesa-de-Rui-Pinto-proteger-os-whistleblowers-e-crucial-para-a-luta-da-Europa-contra-a-corrupcao) · copia: `2019/683982224845` (Web Archive 20240504) · licenza: terzi
 - **2019** · Twitter — [@e_pagliarini: chi ha dubbi sul voto elettronico riascolti le due puntate di 2024 (Radio 2](https://twitter.com/e_pagliarini/status/1204842053374484485) · copia: `2019/13497a342002` (Web Archive 20191212) · licenza: terzi
 - **2019** · Twitter/X @fpietrosanti (Wayback) - MOJO — [Tweet: «Facciamo io e @faffa42 corso su cybersecurity for journalist domenica 29 settembre](https://twitter.com/fpietrosanti/status/1170611302550650880) · copia: `2019/6f8bf5783199` (Web Archive 20190923) · licenza: terzi
 - **2019** · Twitter/X @fpietrosanti (Wayback) - conv — [Tweet: «Proprio ieri abbiamo fatto un convegno a roma sul tema, consensus è che voto a dis](https://twitter.com/fpietrosanti/status/1184113217867407363) · copia: `2019/fde975dbcdff` (Web Archive 20191015) · licenza: terzi
@@ -1166,6 +1169,9 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · CoinDesk Italiano — [Combattente per la libertà o folle? La giuria è fuori per lo sviluppatore Ethereum arresta](https://www.coindesk.com/uk/markets/2019/12/03/freedom-fighter-or-fool-jurys-out-on-arrested-ethereum-developer-virgil-griffith) · copia: `2019/ceb6849cd709` (live) · licenza: terzi
 - **2019** · CoinDesk Italiano — [Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un p](https://www.coindesk.com/uk/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says) · copia: `2019/135d7b9a6ce0` (live) · licenza: terzi
 - **2019** · CorCom (Corriere Comunicazioni) — [Garante Privacy, 86 nuovi candidati](https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/) · copia: `2019/2f34a5770751` (live) · licenza: terzi
+- **2019** · Jornal de Notícias — [Jornalistas, eurodeputados e ONG em defesa de Rui Pinto](https://www.fcporto.ws/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/) · copia: `2019/1515921df5ce` (Web Archive 20200918) · licenza: terzi
+- **2019** · infoLibre — [La protección de los denunciantes es crucial para la lucha de Europa contra la corrupción](https://www.infolibre.es/politica/proteccion-denunciantes-crucial-lucha-europa-corrupcion_1_1170568.html) · copia: `2019/6df5e77422f0` (Web Archive 20211209) · licenza: terzi
+- **2019** · Jornal de Notícias — [Jornalistas, eurodeputados e ONG em defesa de Rui Pinto](https://www.jn.pt/justica/artigo/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/10923035) · copia: `2019/9423417abeec` (live) · licenza: terzi
 - **2019** · La Stampa (Raffaele Angius) — [Tor: come e perché diventare invisibili sul web](https://www.lastampa.it/archivio/2019/01/17/news/tor_come_e_perche_diventare_invisibili_sul_web-735790/) · copia: `2019/a21c934cc156` (live) · licenza: terzi
 - **2019** · La Stampa (Raffaele Angius) — [Viaggio nel CCCamp, dove gli hacker immaginano il futuro con filosofi e artisti](https://www.lastampa.it/archivio/2019/08/30/news/viaggio_nel_cccamp_dove_gli_hacker_immaginano_il_futuro_con_filosofi_e_artisti-782989/) · copia: `2019/4b4c631f7020` (live) · licenza: terzi
 - **2019** · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/) · copia: `2019/f197572afc0f` (Web Archive 20191122) · licenza: terzi
@@ -1588,6 +1594,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/) · copia: `2026/83c790f24f57` (Web Archive 20260410) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/tag/hacker/) · copia: `2026/81ab86109cda` (Web Archive 20260421) · licenza: terzi
 - **2026** · Digital Commons EDIC — [The Digital Commons EDIC adopts joint strategy to scale open-source alternatives](https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/) · copia: `2026/35ab140a4d05` (live) · licenza: terzi
+- **2026** · Fedimedia Italia — [Fedimedia e Digital Indipendence Day per l'indipendenza digitale il 14 novembre al SFSCON ](https://fedimedia.it/fedimedia-e-digital-indipendence-day-una-rete-per-lindipendenza-digitale-il-14-novembre-al-sfscon-2026/) · copia: `2026/192cae336d30` (live) · licenza: terzi
 - **2026** · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo) · copia: `2026/9d2f7f839015` (live) · licenza: propria
 - **2026** · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch) · copia: `2026/60f47f5d7a64` (live) · licenza: propria
 - **2026** · GitHub — [secassure2026 (fork): Email Provider Dependencies and Email Security in Municipalities Acr](https://github.com/fpietrosanti/secassure2026) · copia: `2026/ea283ba1e5b4` (live) · licenza: propria

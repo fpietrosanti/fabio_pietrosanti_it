@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1700**; dopo deduplica: **1237**
+- Risultati grezzi dalle ricerche: **1712**; dopo deduplica: **1243**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1182**
-- Verificati aprendo la pagina: **1167**; solo da risultato di ricerca: **70**
+- **Nuovi rispetto al vecchio sito: 1188**
+- Verificati aprendo la pagina: **1173**; solo da risultato di ricerca: **70**
 
-Per tipo (nuovi): Menzionato 260, tweet 132, Talk 100, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 265, tweet 132, Talk 101, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -37,23 +37,25 @@ Per tipo (nuovi): Menzionato 260, tweet 132, Talk 100, Video 80, Citato 76, Post
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 91 | 91 |
 | 2018 | 0 | 89 | 89 |
-| 2019 | 0 | 75 | 75 |
+| 2019 | 0 | 80 | 80 |
 | 2020 | 0 | 184 | 184 |
 | 2021 | 0 | 94 | 94 |
 | 2022 | 0 | 74 | 74 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 15 | 15 |
-| 2026 | 0 | 46 | 46 |
+| 2026 | 0 | 47 | 47 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 46 voci, 46 nuove
+## 2026 — 47 voci, 47 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
 - 🆕 **2026-10-27** · Comunicato · Digital Commons EDIC — [The Digital Commons EDIC adopts joint strategy to scale open-source alternatives](https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/)  
   Comunicato ufficiale: l'Assemblea dei Membri del 16 ottobre 2026 nomina l'Advisory Board di undici persone, fra cui «Fabio Pietrosanti — free software advocate, strategist and social entrepreneur». Annuncia anche la strategia 2026-2027 e l'ingresso della Polonia.
+- 🆕 **2026-10-23** · Menzionato · Fedimedia Italia — [Fedimedia e Digital Indipendence Day per l'indipendenza digitale il 14 novembre al SFSCON 2026 / Fedimedia Italia APS - Web](https://fedimedia.it/fedimedia-e-digital-indipendence-day-una-rete-per-lindipendenza-digitale-il-14-novembre-al-sfscon-2026/)  
+  Annuncio del talk MXMap Italia al SFSCON 2026 (14/11/2026). verified via live; context: …inux Distribution for European Digital Independence Mirco Montinari · Nextred 14:20 MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies Fabio Pietrosanti (naif) · Hermes Center for Transparency an…
 - 🆕 **2026-10-14** · Video · Cyber Saiyan (YouTube) - RomHack Camp 2026 — [MXMap Italia: National Observatory for Digital Sovereignty / RomHack Camp 2026](https://www.youtube.com/watch?v=GyNpnJ5Q2ew)  
   Registrazione video (19'43'') del talk del 02/10/2026, Stage 2, Flaminio Village, Roma; pubblicata il 14/10/2026. Descrizione: «Speakers: Fabio Pietrosanti (naif)». La pagina CFP del talk (cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/) è già in archivio; il video è nuovo.
 - 🆕 **2026-10-05** · Menzionato · WeChat — 长寿科技情报站 (gh_15f7b20393cf) — [以自身试验探索生命边界：极客闭门论坛回顾](https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd)  
@@ -959,7 +961,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
   verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
-## 2019 — 75 voci, 75 nuove
+## 2019 — 80 voci, 80 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -1065,10 +1067,20 @@ Anni senza nessun risultato: nessuno
   Fuori periodo (bonus), letto direttamente. «... precisa Fabio “Naif” Pietrosanti, membro dell'Italian Hacker Embassy».
 - 🆕 **2019-05-23** · Talk · Ordine dei Giornalisti Emilia-Romagna — [DIG Festival Riccione 2019 — workshop DIG Academy «Condom USB. Come proteggere il giornalismo dalle malattie digitalmente trasmissibili» (con Raffaele Angius, Hermes Center)](https://odg.bo.it/blog/a-riccione-dig-festival-2019-nove-workshop-di-dig-academy-con-crediti-formativi-dellodg-numerosi-appuntamenti-con-il-giornalismo-investigativo-finalissima-dei-dig-awards/)  
   verified via wayback; context: …11.30 con Nico Piro della RAI ); Condom USB. Come proteggere il giornalismo dalle malattie digitalmente trasmissibili ( ore 11.30 – 13.30 con Raffaele Angius e Fabio Pietrosanti di Hermes Center ); Detective della verità…
+- 🆕 **2019-05-21** · Menzionato · infoLibre — [La protección de los denunciantes es crucial para la lucha de Europa contra la corrupción](https://www.infolibre.es/politica/proteccion-denunciantes-crucial-lucha-europa-corrupcion_1_1170568.html)  
+  Firmatario della lettera aperta in difesa di Rui Pinto (Football Leaks); ripresa della versione EN già in archivio (Press Gazette, The Black Sea). verified via wayback; context: …maier, periodista de investigación y premio Pulitzer de Die Süddeutsche Zeitung Fatih Polat, director de Evrensel Begoña Pérez Ramírez, periodista de infoLibre Fabio Pietrosanti, del Hermes Center for Transparency and Di…
+- 🆕 **2019-05-21** · Menzionato · Jornal de Notícias — [Jornalistas, eurodeputados e ONG em defesa de Rui Pinto](https://www.jn.pt/justica/artigo/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/10923035)  
+  Firmatario della lettera aperta in difesa di Rui Pinto (Football Leaks); ripresa della versione EN già in archivio (Press Gazette, The Black Sea). verified via live; context: …tigação do jornal alemão Suddeutsche Zeitung Fatih Polat, diretor do jornal turco Evrensel Begoña Pérez Ramírez, jornalista do jornal online espanhol infoLibre Fabio Pietrosanti, Centro Hermes de Transparência e Direitos…
+- 🆕 **2019-05-21** · Menzionato · Expresso (Tribuna) — [Carta aberta em defesa de Rui Pinto: proteger os 'whistleblowers' é crucial para a luta da Europa contra a corrupção](https://tribuna.expresso.pt/football-leaks/2019-05-21-Carta-aberta-em-defesa-de-Rui-Pinto-proteger-os-whistleblowers-e-crucial-para-a-luta-da-Europa-contra-a-corrupcao)  
+  Firmatario della lettera aperta in difesa di Rui Pinto (Football Leaks); ripresa della versione EN già in archivio (Press Gazette, The Black Sea). verified via wayback; context: …tigação do jornal alemão Suddeutsche Zeitung Fatih Polat, diretor do jornal turco Evrensel Begoña Pérez Ramírez, jornalista do jornal online espanhol infoLibre Fabio Pietrosanti, Centro Hermes de Transparência e Direitos…
+- 🆕 **2019-05-20** · Menzionato · Mediapart (blog Les invités de Mediapart) — [La protection des lanceurs d'alerte est cruciale pour lutter contre la corruption](https://blogs.mediapart.fr/les-invites-de-mediapart/blog/200519/la-protection-des-lanceurs-dalerte-est-cruciale-pour-lutter-contre-la-corruption)  
+  Firmatario della lettera aperta in difesa di Rui Pinto (Football Leaks); ripresa della versione EN già in archivio (Press Gazette, The Black Sea). verified via wayback; context: …aliste, Die Suddeutsche Zeitung Fatih Polat , Rédacteur en chef, Evrensel Begoña Pérez Ramírez , journaliste, infoLibre Yann Philippin , journaliste, Mediapart Fabio Pietrosanti , Fondateur, Hermes Center for Transparenc…
 - 🆕 **2019-04-09** · Articolo scritto · Agenda Digitale — [Intercettazioni via trojan, come evitare un nuovo caso Exodus: i problemi da risolvere](https://www.agendadigitale.eu/sicurezza/intercettazioni-via-trojan-come-evitare-un-nuovo-caso-exodus-i-problemi-da-risolvere/)  
   With Stefano Aterno; listed on his author page
 - 🆕 **2019-04-08** · Citato · la Repubblica (repubblica.it, Tecnologia/Sicurezza) — [Non solo Android, un'app spia per iPhone dagli autori di Exodus](https://www.repubblica.it/tecnologia/sicurezza/2019/04/08/news/non_solo_android_un_app_spia_per_iphone_dagli_autori_di_exodus-223582128/)  
   By Rosita Rijtano: «Hanno sfruttato i certificati che Apple rilascia a chi vuole sviluppare delle applicazioni da diffondere a livello aziendale», spiega Fabio Pietrosanti, cofondatore del Centro Hermes; the piece later says «conclude Pietrosanti». Live page opened 2026-10-24.
+- 🆕 **2019-04-01** · Talk · Cátedra de Transparencia UPV - Whistleblowing 2019 (Valencia) — [Programa - Cátedra de Transparencia y Gestión de Datos](https://ctranspaupv.com/whistleblowing/programa-whistleblowing/)  
+  Panel su strumenti di segnalazione (moderato da Renata Ávila) al convegno Whistleblowing 2019, UPV Valencia, 1/4/2019. verified via wayback; context: …ompartiremos las experiencias de implementación y adaptación de las herramientas de reporte y denuncia en diferentes contextos nacionales. Modera: Renata Ávila Fabio Pietrosanti GlobaLeaks Harlo Holmes. Freedom of the Pr…
 - 🆕 **2019-04-01** · Talk · Internet Freedom Festival 2019 (Valencia, La Rambleta) - sala Taller 6, 14:45-15:45 — ["Whistleblowing PA": technology to empower public agencies in the fight against corruption (a GlobaLeaks usecase)](https://web.archive.org/web/20191013174522/https://platform.internetfreedomfestival.org/en/IFF2019/public/schedule/custom) _(non verificato)_  
   Re-checked 2026-10-28: the archived schedule grid lists only title/time/room. Session page /en/IFF2019/public/schedule/custom/1462 is not in Wayback (domain CDX = 140 URLs, 42 IFF2019 session pages, none is 1462); live platform does not respond (curl 000). No presenter found on internetfreedomfestival.org 2019 captures (meet-your-iff-2019-facilitators, Community_Updates_2019 Part 1/2, wiki IFF_Schedule). Presenter could be Fabio, Giovanni Pellerano or Transparency International Italia: ask Fabio.
 - 🆕 **2019-04** · Menzionato · The Black Sea (EIC network) — [Protecting Whistleblowers Crucial for Europe's Fight Against Corruption](https://theblacksea.eu/blogs/protecting-whistleblowers-crucial-for-europes-fight-against-corruption/)  
