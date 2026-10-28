@@ -1,0 +1,92 @@
+[
+ {
+  "source": "IFF 2019 platform (live + Wayback)",
+  "query_or_url": "https://platform.internetfreedomfestival.org/en/IFF2019/public/schedule/custom/1462 (live: no response); CDX matchType=domain platform.internetfreedomfestival.org (140 URL); grid snapshot 20191013174522",
+  "result": "no presenter name",
+  "note": "The grid snapshot shows only title, time (02:45-03:45PM) and room (Taller 6). Session 1462 not archived."
+ },
+ {
+  "source": "Wayback internetfreedomfestival.org 2019-2020 (CDX 2855 URL, status 200)",
+  "query_or_url": "meet-your-iff-2019-facilitators/, wiki/IFF_Schedule, IFF_Schedule.html, wiki/Community_Updates_2019_Part_1, Community_Updates_2019_Part_2",
+  "result": "no Pietrosanti, naif, GlobaLeaks, Hermes",
+  "note": "IFF_Schedule.html is the 2017 grid (only 'When, why and how they leak?' session, not his)."
+ },
+ {
+  "source": "Wayback CDX 2019 hermescenter.org, globaleaks.org, whistleblowing.it, transparency.it",
+  "query_or_url": "url=<domain>/* from=2019 to=2019 status 200",
+  "result": "no IFF/Valencia page",
+  "note": "very thin coverage (13-84 URLs per domain)."
+ },
+ {
+  "source": "WebSearch",
+  "query_or_url": "\"Whistleblowing PA\" \"Internet Freedom Festival\" 2019 GlobaLeaks; #IFF2019 Valencia GlobaLeaks session Hermes Pellerano OR Pietrosanti",
+  "result": "no hit",
+  "note": "only IJF/HOPE/known pages"
+ },
+ {
+  "source": "GitHub (MozFest 2019)",
+  "query_or_url": "code search Pietrosanti/GlobaLeaks/whistleblow in MozillaFoundation/mozfest-website-2019 and MozFest2019/mozfest2019.github.io; repo MozillaFestival/mozfest-program-2019 does not exist (422)",
+  "result": "0",
+  "note": "MozFest 2019 sessions were not on a GitHub program repo; the 2019 schedule platform (guidebook) was not reachable/checked."
+ },
+ {
+  "source": "WebSearch",
+  "query_or_url": "MozFest 2019 session whistleblowing GlobaLeaks OR Pietrosanti OR \"Hermes Center\"",
+  "result": "no hit",
+  "note": "only known pages (FOSDEM 2018, infocondb, personaldemocracy speaker page)"
+ },
+ {
+  "source": "WebSearch",
+  "query_or_url": "\"Wired Next Fest\" \"Pietrosanti\"; \"Fabio Pietrosanti\" Wired Next Fest speaker Milano; \"Next Fest\" Wired programma hacker whistleblowing GlobaLeaks Hermes; Wired Next Fest 2015/2016 programma; Wired Next Fest Firenze 2018/2019 programma",
+  "result": "no hit",
+  "note": "Edition programmes read with no mention of Pietrosanti/GlobaLeaks/Hermes: mentelocale.it Milano 2018 and 2019, varesenews.it 2016 and 2018, flawless.life 2015, affaritaliani.it 2019 (10th edition), ladige.it 2019 (Snowden/Wales), tg24.sky.it Firenze 2018 (Wylie)."
+ },
+ {
+  "source": "Wayback CDX wired.it",
+  "query_or_url": "matchType=domain filter original .*(pietrosanti|globaleaks).* (504 timeout); prefixes www.wired.it/eventi/, /nextfest/, /wnf/ (31/14/4 URL, junk)",
+  "result": "no programme pages",
+  "note": "wired.it Next Fest programmes 2014-2019 are not archived under recognisable prefixes; Firenze 2017, 2019 and Milano 2014, 2016, 2017 programmes not read in full."
+ },
+ {
+  "source": "YouTube (yt-dlp ytsearch20 from server)",
+  "query_or_url": "wardriving Milano 2002; hacker Fastweb 2001; Studio Aperto hacker wireless; blackhats smau; TG2 Dossier hacker 2002; Fabio Pietrosanti; Pietrosanti hacker; naif hacker sicurezza; Fabio Pietrosanti TG3; PrivateWave telefonate protette; Neapolis telefonate protette 2009; PrivateGSM intercettazioni 2010; 7 giorni al Parlamento hacker",
+  "result": "no new item",
+  "note": "All relevant hits already known (sH38ayPLcmI, P-jGzZwzu3U, j5T6loxU25s, QZ_jlM4s8eM, Uea-94inYkE, X_zQdg47ZtU, L4beB3qQjVw) or already rejected (zIdOuNDJ488, 2NWpiLjlfjE corporate demos; lnzTDKJhVPE homonym). No TV clip from 2000-2003 found."
+ },
+ {
+  "source": "Wayback CDX 2000-2004",
+  "query_or_url": "www.iltempo.it/ (276 URL), www.ilmondo.rcs.it/ (158), espresso.repubblica.it/ and www.espressonline.it/ (14, partly 'Temporarily Offline'), www.dotcom.it/ (33)",
+  "result": "no article slugs on hacker/wireless/fastweb/sicurezza",
+  "note": "Il Tempo/Il Mondo/L'Espresso 2000-2003 article pages are essentially not archived. www.dotcom.it is a software company (dotCommerce products), not the DotCom magazine."
+ },
+ {
+  "source": "WebSearch (identify DotCom magazine)",
+  "query_or_url": "rivista \"DotCom\" mensile italiana 2000 2001; \"Dotcom\" settimanale new economy 2000",
+  "result": "not identified",
+  "note": "ACNP hit 1096119 is 'Industria & distribuzione' (Franco Angeli), unrelated. DotCom title/publisher remains unknown."
+ },
+ {
+  "source": "Internet Archive full-text search (be-api FTS)",
+  "query_or_url": "\"blackhats.it\" (12), \"blackhats\" hacker (190), \"sikurezza.org\" (1), \"privatewave\" pietrosanti (0)",
+  "result": "no new item",
+  "note": "Only Hacker Journal issues (already OCR-grepped) and unrelated English books; 'Pietrosanti' FTS was already exhausted on 2026-10-08."
+ },
+ {
+  "source": "PrivateWave 'Area stampa' (Wayback 20110722045300), section Web & Video",
+  "query_or_url": "https://web.archive.org/web/20110722045300/http://www.privatewave.it/chi-siamo/area-stampa.html",
+  "result": "only known/rejected items",
+  "note": "Neapolis 29/12/2009 (known), cellularemagazine.it video 279 (already negative 2026-10-23), tvtech.it video 574 (known). No TG3 or other TV listed."
+ },
+ {
+  "source": "WebSearch",
+  "query_or_url": "\"Pietrosanti\" \"Studio Aperto\" hacker; \"Pietrosanti\" hacker \"TG2\" OR \"Tg2 Dossier\"; site:iltempo.it Pietrosanti; \"Fabio Pietrosanti\" espresso OR \"Il Mondo\" 2002/2003 hacker wireless; \"Pietrosanti\" Tg3 OR Rai 3; mediasetinfinity OR video.mediaset.it Pietrosanti",
+  "result": "no hit",
+  "note": "only known pages (PuntoSicuro AR-2853, FOSDEM 2018, infocondb, abraji sched, globaleaks.org). dicorinto.it/?p=10079 (TG2 'Hacker e donne spie') is about Di Corinto, not him; seclists isn/2002/Mar/180 does not name him; globaleaks.org/?p=318 does not name him."
+ },
+ {
+  "source": "Not searchable online (residual)",
+  "query_or_url": "TG2 Dossier, '7 giorni al Parlamento' (Rai), Studio Aperto, Radio Monte Carlo 2000-2003, TG3; Il Tempo, Il Mondo, L'Espresso, DotCom 2000-2003",
+  "result": "blocked",
+  "note": "No public archive: needs Rai Teche (teche.rai.it, request form), Mediaset Teche, print archives in libraries (Biblioteca Sormani/BNCF) or Fabio's own memory (episode dates). Class Life 02/2010, Neapolis 29/12/2009 and RMC 2010 are already in media.json."
+ }
+]

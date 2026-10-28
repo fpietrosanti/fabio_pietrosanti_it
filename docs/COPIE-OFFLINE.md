@@ -5,10 +5,10 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1230**; già processate: **1408**; ancora da processare: **0**
-- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1043** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1166**
-- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **6**
+- Voci in `data/media.json`: **1232**; già processate: **1410**; ancora da processare: **0**
+- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1045** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1167**
+- 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **102**
@@ -26,7 +26,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 1998 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2000 | 18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2001 | 17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2001 | 18 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2002 | 24 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -44,7 +44,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 85 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 90 | 3 | 1 | 0 | 0 | 0 | 2 |
+| 2019 | 90 | 3 | 2 | 0 | 0 | 0 | 2 |
 | 2020 | 176 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 60 | 17 | 0 | 0 | 0 | 0 | 2 |
@@ -271,9 +271,9 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - ❌ **2010** · Class Life (Class Editori TV, classlife. — [PrivateWave/PrivateGSM video (Hightech)](http://www.classlife.it/dettaglioVideo~categoria~Hightech~ST~201002171147014640~STBR~300.html) · licenza: terzi  
   URLError
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (EN)](http://www.privatewave.com/media/0/69829294228095/privatewave_italia_en_18oct2010.pdf) · licenza: terzi  
-  http 403
+  URLError
 - ❌ **2010** · PrivateWave Italia S.p.A. — [PrivateWave Italia S.p.A. press release (ES)](http://www.privatewave.com/media/0/94507094809114/privatewave_italia_esp_18oct2010.pdf) · licenza: terzi  
-  http 403
+  URLError
 - ❌ **2010** · Radio Monte Carlo — [FABIO PIETROSANTI Consulente di Sicurezza Informatica e Fondatore del Software Private Wav](https://www.radiomontecarlo.net/audio/1032426/FABIO-PIETROSANTI-Consulente-di-Sicurezza-Informatica.html) · licenza: terzi  
   http 404
 - ❌ **2019** · CoinDesk — [Sanctions Weren't Discussed at North Korea Crypto Conference, Attendee Says](https://coinage.it/news/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says-22497) · licenza: terzi  
@@ -295,9 +295,11 @@ Da recuperare con altre tecniche (browser, download media, richiesta di salvatag
 - 🟡 **2017** · la Repubblica (print, national edition,  — [La beffa dei tablet a rischio hacker costati 25 milioni](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2017/10/20/la-beffa-dei-tablet-a-rischio-hacker-costati-25-milioni10.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🟡 **2017** · Internet Freedom Festival 2017 (Valencia — [Setting up Whistleblowing Activism Initiatives with GlobaLeaks (pagina wiki della sessione](https://web.archive.org/web/20170417115124/https://internetfreedomfestival.org/thursday-9th-schedule/) · licenza: terzi  
-  programma ufficiale IFF 2017 (9/3/2017 14:30-15:30): la pagina elenca solo titolo e link alla wiki; il nome «Fabio Pietrosanti» è nella pagina wiki collegata (voce madre, copia verificata) — atteso, non un problema (2026-10-27)
+  programma ufficiale IFF 2017: elenca solo titolo, orario e link alla wiki della sessione; il nome è nella pagina wiki (mirror_of) già verificata — senza nome per natura
 - 🟡 **2018** · la Repubblica (print, RLab, p. 57) — [La spia che venne dall'app](https://quotidiano.repubblica.it/edicola/searchdetail?id=http://archivio.repubblica.extra.kataweb.it/archivio/repubblica/2018/05/30/la-spia-che-venne-dallapp57.html) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
+- 🟡 **2019** · Internet Freedom Festival 2019 (Valencia — ["Whistleblowing PA": technology to empower public agencies in the fight against corruption](https://web.archive.org/web/20191013174522/https://platform.internetfreedomfestival.org/en/IFF2019/public/schedule/custom) · licenza: terzi  
+  programma IFF 2019 dal Web Archive: solo titolo, orario e sala, nessun relatore; pagina della sessione (id 1462) mai archiviata, piattaforma IFF giù — chi ha tenuto la sessione lo può dire solo Fabio
 - 🟡 **2019** · Il Fatto Quotidiano (print, 'In edicola' — [Il M5S vuole il voto digitale: dove funziona e dove no](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/03/13/il-m5s-vuole-il-voto-digitale-dove-funziona-e-dove-no/5032617/) · licenza: terzi  
   copy saved but his name/nick not found in it (paywall, wrong capture or JS)
 - 🎞️ **2023** · YouTube, canale CyberCoach (Gerardo Cost — [Evoluzione dell'hacking con Fabio Pietrosanti (aka Naif)](https://www.youtube.com/watch?v=mAtBH2hkAcg) · licenza: terzi  
@@ -440,6 +442,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2001** · firewall-wizards — [Re: Cisco PIX Security Notes posted to BugTraq *Vendor Response*](https://seclists.org/firewall-wizards/2001/Mar/120) · copia: `2001/f2dd36afd1ec` (Web Archive 20120520) · licenza: propria
 - **2001** · vuln-dev — [Cisco PIX Firewall MailGuard Vulnerability](https://seclists.org/vuln-dev/2001/Sep/305) · copia: `2001/42358695c237` (Web Archive 20130810) · licenza: propria
 - **2001** · vuln-dev — [Re: Cisco PIX Firewall MailGuard Vulnerability](https://seclists.org/vuln-dev/2001/Sep/311) · copia: `2001/1e36eae8b6c6` (Web Archive 20130809) · licenza: propria
+- **2001** · CEGOS Italia - convegno (Milano, 1-2 feb — [Come rapportarsi e rispondere ai nuovi hacker (1 febbraio 2001, ore 14.30) - Fabio Pietros](https://web.archive.org/web/20010202161200/http://www.degrazia.it:80/cegos1.html) · copia: `2001/172da3b3bb8c` (Web Archive 20010202) · licenza: terzi
 - **2001** · WeekIT (Mondadori weekly, weekit.it) — [Meglio l'outsourcing o una security interna?](https://web.archive.org/web/20040905215552/http://www.weekit.it:80/weekit/unico/art006004035189.jsp) · copia: `2001/8355309748b3` (Web Archive 20040905) · licenza: propria
 - **2001** · Italian Black Hats (blackhats.it) - SMAU — [Sicurezza & Underground knowledge: le evoluzioni della I.C.T. Security (prima conferenza p](https://web.archive.org/web/20050908171058/http://www.blackhats.it/it/eventi.html) · copia: `2001/fb01a016fb7f` (Web Archive 20021219) · licenza: terzi
 - **2001** · Apogeonline — [Un raggio di luce su SMAU](https://www.apogeonline.com/articoli/un-raggio-di-luce-su-smau-raoul-chiesa/) · copia: `2001/41f0ed4a0413` (Web Archive 20190818) · licenza: terzi

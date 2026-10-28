@@ -1554,6 +1554,23 @@
   "on_old_site": false
  },
  {
+  "date": "2001-02-01",
+  "year": 2001,
+  "type": "talk",
+  "outlet": "CEGOS Italia - convegno (Milano, 1-2 febbraio 2001; chairman Avv. Luca de Grazia), pagina programma su degrazia.it",
+  "title": "Come rapportarsi e rispondere ai nuovi hacker (1 febbraio 2001, ore 14.30) - Fabio Pietrosanti, Security Manager I.NET",
+  "url": "https://web.archive.org/web/20010202161200/http://www.degrazia.it:80/cegos1.html",
+  "language": "it",
+  "role": "speaker",
+  "note": "Programma della prima giornata (1/2/2001): dopo Ugo Poggi (GdF), Emilia Rosti (CERT-IT), Scartezzini/Di Nicola (Transcrime), alle 14.30 'Come rapportarsi e rispondere ai nuovi hacker. Hacker: chi sono, come si comportano... Quale vantaggio aziendale nell'impiego di hacker come addetti alla security aziendale' - Fabio Pietrosanti, Security Manager I.NET; chiude Corrado Giustozzi. Il suo curriculum.txt del 2001 su naif.itapac.net annuncia 'una conferenza sulla Security come Relatore... www.degrazia.it/cegos1.html'. Talk più antico finora documentato (precede AntiKrimen 13/10/2001). Pagina aperta (capture id_ 20010202161200).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_siti1997_libri_2026-10-28"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2001-03-09",
   "year": 2001,
   "type": "research",
@@ -13214,6 +13231,23 @@
   "known": false,
   "_slices": [
    "pass4_lacuna2011_estero_video_2026-10-13"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-04-01",
+  "year": 2019,
+  "type": "talk",
+  "outlet": "Internet Freedom Festival 2019 (Valencia, La Rambleta) - sala Taller 6, 14:45-15:45",
+  "title": "\"Whistleblowing PA\": technology to empower public agencies in the fight against corruption (a GlobaLeaks usecase)",
+  "url": "https://web.archive.org/web/20191013174522/https://platform.internetfreedomfestival.org/en/IFF2019/public/schedule/custom",
+  "language": "en",
+  "role": "unknown (presenter not named in the archived schedule)",
+  "note": "Re-checked 2026-10-28: the archived schedule grid lists only title/time/room. Session page /en/IFF2019/public/schedule/custom/1462 is not in Wayback (domain CDX = 140 URLs, 42 IFF2019 session pages, none is 1462); live platform does not respond (curl 000). No presenter found on internetfreedomfestival.org 2019 captures (meet-your-iff-2019-facilitators, Community_Updates_2019 Part 1/2, wiki IFF_Schedule). Presenter could be Fabio, Giovanni Pellerano or Transparency International Italia: ask Fabio.",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass4_tv_cv2003_eventi_2026-10-28"
   ],
   "on_old_site": false
  },

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1693**; dopo deduplica: **1230**
+- Risultati grezzi dalle ricerche: **1695**; dopo deduplica: **1232**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1175**
-- Verificati aprendo la pagina: **1161**; solo da risultato di ricerca: **69**
+- **Nuovi rispetto al vecchio sito: 1177**
+- Verificati aprendo la pagina: **1162**; solo da risultato di ricerca: **70**
 
-Per tipo (nuovi): Menzionato 255, tweet 132, Talk 98, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 255, tweet 132, Talk 100, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -19,7 +19,7 @@ Per tipo (nuovi): Menzionato 255, tweet 132, Talk 98, Video 80, Citato 76, Post 
 | 1998 | 0 | 2 | 2 |
 | 1999 | 0 | 2 | 2 |
 | 2000 | 2 | 18 | 15 |
-| 2001 | 8 | 17 | 12 |
+| 2001 | 8 | 18 | 13 |
 | 2002 | 2 | 23 | 12 |
 | 2003 | 5 | 8 | 7 |
 | 2004 | 1 | 12 | 11 |
@@ -37,7 +37,7 @@ Per tipo (nuovi): Menzionato 255, tweet 132, Talk 98, Video 80, Citato 76, Post 
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 88 | 88 |
 | 2018 | 0 | 89 | 89 |
-| 2019 | 0 | 74 | 74 |
+| 2019 | 0 | 75 | 75 |
 | 2020 | 0 | 184 | 184 |
 | 2021 | 0 | 94 | 94 |
 | 2022 | 0 | 74 | 74 |
@@ -959,7 +959,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
   verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
-## 2019 — 74 voci, 74 nuove
+## 2019 — 75 voci, 75 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -1069,6 +1069,8 @@ Anni senza nessun risultato: nessuno
   With Stefano Aterno; listed on his author page
 - 🆕 **2019-04-08** · Citato · la Repubblica (repubblica.it, Tecnologia/Sicurezza) — [Non solo Android, un'app spia per iPhone dagli autori di Exodus](https://www.repubblica.it/tecnologia/sicurezza/2019/04/08/news/non_solo_android_un_app_spia_per_iphone_dagli_autori_di_exodus-223582128/)  
   By Rosita Rijtano: «Hanno sfruttato i certificati che Apple rilascia a chi vuole sviluppare delle applicazioni da diffondere a livello aziendale», spiega Fabio Pietrosanti, cofondatore del Centro Hermes; the piece later says «conclude Pietrosanti». Live page opened 2026-10-24.
+- 🆕 **2019-04-01** · Talk · Internet Freedom Festival 2019 (Valencia, La Rambleta) - sala Taller 6, 14:45-15:45 — ["Whistleblowing PA": technology to empower public agencies in the fight against corruption (a GlobaLeaks usecase)](https://web.archive.org/web/20191013174522/https://platform.internetfreedomfestival.org/en/IFF2019/public/schedule/custom) _(non verificato)_  
+  Re-checked 2026-10-28: the archived schedule grid lists only title/time/room. Session page /en/IFF2019/public/schedule/custom/1462 is not in Wayback (domain CDX = 140 URLs, 42 IFF2019 session pages, none is 1462); live platform does not respond (curl 000). No presenter found on internetfreedomfestival.org 2019 captures (meet-your-iff-2019-facilitators, Community_Updates_2019 Part 1/2, wiki IFF_Schedule). Presenter could be Fabio, Giovanni Pellerano or Transparency International Italia: ask Fabio.
 - 🆕 **2019-04** · Menzionato · The Black Sea (EIC network) — [Protecting Whistleblowers Crucial for Europe's Fight Against Corruption](https://theblacksea.eu/blogs/protecting-whistleblowers-crucial-for-europes-fight-against-corruption/)  
   FUORI PERIODO (2019, dopo il voto PE del 16 aprile sulla direttiva whistleblowing). Lettera aperta di giornalisti europei; tra i firmatari «Fabio Pietrosanti, Hermes Center for Transparency and Digital Human Rights (GlobaLeaks)». Verificato live 2026-10-13.
 - 🆕 **2019-03-28** · Libro · Laterza — [L'esecuzione. 5 Stelle da movimento a governo](https://books.google.com/books?id=rO2ODwAAQBAJ)  
@@ -2369,7 +2371,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2002** · Menzionato · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (1)](https://www.exploit-db.com/exploits/21746)  
   verified via wayback; context: …n confirmed. Reportedly, this vulnerability may be exploited both as an authenticated user, and with anonymous access to the service. It has been reported, by "Fabio Pietrosanti \(naif\)" <naif@blackhats.it>, that disabl…
 
-## 2001 — 17 voci, 12 nuove
+## 2001 — 18 voci, 13 nuove
 
 - 🆕 **2001-12-14** · Articolo scritto · WeekIT (Mondadori weekly, weekit.it) — [Meglio l'outsourcing o una security interna?](https://web.archive.org/web/20040905215552/http://www.weekit.it:80/weekit/unico/art006004035189.jsp)  
   Section SECURITY. Standfirst: 'Cresce l'offerta dei fornitori di "sicurezza gestita". I criteri di base per valutarne l'affidabilità. E le cautele necessarie' - byline 'di Fabio Pietrosanti 14/12/2001'. Found by crawling the archived weekit.it article pages (Wayback CDX). The Wayback capture was read once during the crawl; a second fetch came back empty, so re-check the capture.
@@ -2403,6 +2405,8 @@ Anni senza nessun risultato: nessuno
   Discussion of Cisco's response to his PIX notes
 - ↺ **2001-03-09** · Ricerca · Bugtraq — [Cisco PIX Security Notes](https://seclists.org/bugtraq/2001/Mar/148)  
   Multiple PIX security notes, signed I.NET SpA Security Staff; MARC: https://marc.info/?l=bugtraq&m=98433390918280&w=2
+- 🆕 **2001-02-01** · Talk · CEGOS Italia - convegno (Milano, 1-2 febbraio 2001; chairman Avv. Luca de Grazia), pagina programma su degrazia.it — [Come rapportarsi e rispondere ai nuovi hacker (1 febbraio 2001, ore 14.30) - Fabio Pietrosanti, Security Manager I.NET](https://web.archive.org/web/20010202161200/http://www.degrazia.it:80/cegos1.html)  
+  Programma della prima giornata (1/2/2001): dopo Ugo Poggi (GdF), Emilia Rosti (CERT-IT), Scartezzini/Di Nicola (Transcrime), alle 14.30 'Come rapportarsi e rispondere ai nuovi hacker. Hacker: chi sono, come si comportano... Quale vantaggio aziendale nell'impiego di hacker come addetti alla security aziendale' - Fabio Pietrosanti, Security Manager I.NET; chiude Corrado Giustozzi. Il suo curriculum.txt del 2001 su naif.itapac.net annuncia 'una conferenza sulla Security come Relatore... www.degrazia.it/cegos1.html'. Talk più antico finora documentato (precede AntiKrimen 13/10/2001). Pagina aperta (capture id_ 20010202161200).
 - 🆕 **2001** · Progetto · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) _(non verificato)_  
   Association he co-founded; site offline and the Wayback Machine was down during this research
 

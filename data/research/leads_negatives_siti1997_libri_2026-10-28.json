@@ -1,0 +1,104 @@
+[
+ {
+  "source": "Wayback CDX - itapac.net (dominio)",
+  "query_or_url": "cdx url=itapac.net matchType=domain to=2001 (209 righe)",
+  "result": "POSITIVO: naif.itapac.net (sito personale 2000-2001, curriculum.txt) - vedi raw",
+  "note": "www.itapac.net 1999 = pagina BBS 'Itapac.net' (dial 1421/1422); bfi.itapac.net = mirror BFi 2000-2001 (nessun nome oltre a quanto già noto in BFi4/BFi7); nail.itapac.net = progetti di 'nail' (GWLinux, vpop3, sslpipe), non lui."
+ },
+ {
+  "source": "Wayback CDX - digilander",
+  "query_or_url": "digilander.libero.it/naif*, digilander.iol.it/naif*, digilander.libero.it/madoka*, digilander.iol.it/madoka* (to=2001)",
+  "result": "0 catture",
+  "note": "Ripetizione del 'da ripetere' del 27/10: ora risposto, negativo."
+ },
+ {
+  "source": "Wayback CDX - geocities",
+  "query_or_url": "geocities.com/naif*, www.geocities.com/naif* (to=2001); filtro regex su geocities.com/ intero",
+  "result": "negativo / filtro fallito",
+  "note": "91 catture: naif_2pac, naif_humaid, naif_peru, naifcards (biglietti islamici), naifa_northwesternmichigan... nessuna è lui. La scansione con filtro regex sull'intero geocities.com va in timeout (non eseguibile via CDX)."
+ },
+ {
+  "source": "Wayback CDX - space.tin.it",
+  "query_or_url": "space.tin.it/ prefix con filter original:.*(naif|madoka|pietrosant).* (to=2001)",
+  "result": "non eseguibile",
+  "note": "Timeout ripetuti (scansione troppo grande). Senza il nome utente esatto space.tin.it non è interrogabile; da ripetere solo se Fabio ricorda il path."
+ },
+ {
+  "source": "Wayback CDX - naif.it / naif.org",
+  "query_or_url": "naif.it (6 catture 2000-2001), naif.org (38 catture 2001)",
+  "result": "non è lui",
+  "note": "naif.it 2000 = pagina segnaposto con link a un IP (195.31.150.100), nessun contenuto (aperta, grep: solo 'www.naif.it'); naif.org = organizzazione americana (articoli su agent systems, bylaws), non lui."
+ },
+ {
+  "source": "Wayback CDX - latinaonline",
+  "query_or_url": "latinaonline.it (67), latinaonline.com (12), latinaonline.net (0) to=2001",
+  "result": "negativo (grep delle pagine .it in corso sul server)",
+  "note": "latinaonline.com 2001 = sito per adulti, non la community IRC; latinaonline.it = portale locale (Pontinia, comuni, corsi IFTS, forum). Nessuna pagina del canale IRC #Latinaonline."
+ },
+ {
+  "source": "Wayback CDX - altri hosting personali",
+  "query_or_url": "utenti.lycos.it/naif*, spazioweb.inwind.it/naif*, freeweb.supereva.it/naif*, members.xoom.com/naif* (solo 'naifu'), members.xoom.com/madoka* (madoka99/madoka2727, giapponesi), pietrosanti.com, web.tin.it/naif*, www.inet.it/~naif*",
+  "result": "negativo",
+  "note": "Nessun suo sito."
+ },
+ {
+  "source": "Google Books API",
+  "query_or_url": "\"Fabio Pietrosanti\"; \"Pietrosanti\" hacker; naif s0ftpj; \"naif\" \"butchered from inside\"; \"Pietrosanti\" sikurezza; \"Pietrosanti\" \"I.NET\"; \"Pietrosanti\" blackhats",
+  "result": "bloccato",
+  "note": "429 'Queries per day' esaurita sia dal laptop sia dal server (quota keyless globale). Sostituito con ricerca Google Libri nel Chrome di Fabio (voce sotto)."
+ },
+ {
+  "source": "Google Libri (tbm=bks, Chrome)",
+  "query_or_url": "\"Fabio Pietrosanti\" (1995-2004); Pietrosanti hacker (1995-2004); \"naif\" hacker s0ftpj|sikurezza|blackhats|\"butchered from inside\" (1995-2005); Pietrosanti \"sicurezza informatica\"|\"network security\"|firewall (1995-2004); \"profilo hacker\" naif|Pietrosanti; \"Spaghetti hacker\"|\"Italian crackdown\" naif; \"naif\" \"Raoul Chiesa\"; Strano hacker \"Pietrosanti\"; \"Pietrosanti\" \"Radio Vaticana\" hacker; \"Fabio Pietrosanti\" \"naif\"",
+  "result": "negativo per 1995-2002",
+  "note": "Solo omonimi (Exceso 1995, locale venezuelano; Annuario delle regioni 1999, elenco di un ente; Pietrosanti E. & Graziadio 1997, IA e diritto). Unici veri: Profiling Hackers (CRC 2008) p. xiii, ringraziamenti 'Fabio \"Naif\" Pietrosanti', e Di Salvo 2020 p. v (entrambi già noti). L'edizione italiana Profilo hacker (Apogeo 2007, id BEvVGAAACAAJ) non ha anteprima: SearchWithinVolume2 risponde searchable:false, quindi la pagina non è confermabile (probabilmente i ringraziamenti, come p. xiii dell'edizione inglese). Nessun libro di Marco Strano con il suo nome trovato."
+ },
+ {
+  "source": "Internet Archive full-text (be-api fts)",
+  "query_or_url": "\"Pietrosanti\" hacker; \"Fabio Pietrosanti\"; \"naif\" sikurezza; \"naif\" blackhats; \"Pietrosanti\" sicurezza informatica; \"naif\" \"I.NET\"; \"Pietrosanti\" \"I.NET\"; \"Pietrosanti\" Latina hacker; \"Radio Vaticana\" hacker; \"Radio Vaticana\" pirati informatici; \"naif\" hacker italiano",
+  "result": "nessuna voce nuova 1995-2002",
+  "note": "Solo voci già note (Win Magazine 48, PC Professionale 207, slide e-privacy 2005/2009/2012, Hacker Journal 11 e 38, Profiling Hackers, This Machine Kills Secrets) o omonimi (La Stampa 1997 Velletri, Unità L./Paolo Pietrosanti, Computer Idea 2004 'papà Stefano'). Hacker Journal 10 (2002): 'Raoul Chiesa (Nobody) e Alessio Orlandi (Naif)' = escluso per regola."
+ },
+ {
+  "source": "Hacker Journal 1-14 + 37 (testi IA)",
+  "query_or_url": "archive.org/download/hackerjournal-N (N=1..10,12,13,14,37) grep naif|pietrosant",
+  "result": "negativo",
+  "note": "Unico hit HJ10 (Alessio Orlandi 'Naif', non lui). HJ11 e HJ38 già in media.json."
+ },
+ {
+  "source": "e-privacy 2002 (Firenze) - registrazioni/slide su Internet Archive",
+  "query_or_url": "advancedsearch identifier:pws_e-privacy_200*",
+  "result": "negativo: non era relatore",
+  "note": "Le 10 relazioni 2002 (1m01-1m06, 1p01-1p04) sono di Papini, Calamari, Gualtieri, Frusciante, Busia, Cappuccini, Noferini, Agosti, Bianchini; nessun Pietrosanti. Anche e-privacy 2003 (14 relazioni) senza di lui. Le sue presenze partono dal 2005."
+ },
+ {
+  "source": "WebSearch - intrusione Radio Vaticana / ADNKronos",
+  "query_or_url": "Radio Vaticana sito violato hacker 2000/2001 Adnkronos; \"Radio Vaticana\" hacker intrusione \"naif\"; hacker \"Radio Vaticana\" corriere/adnkronos esperto",
+  "result": "non trovato",
+  "note": "Solo episodi Anonymous 2012/2015. La data dell'intrusione citata nel suo curriculum 2001 resta ignota (prima di 07/2001). Le scansioni CDX filtrate su archiviostorico.corriere.it e adnkronos.com vanno in timeout. Da cercare con la data esatta (chiedere a Fabio) o nell'archivio Corriere."
+ },
+ {
+  "source": "WebSearch - Il Mondo (RCS) articolo in prima pagina",
+  "query_or_url": "\"Il Mondo\" 2001 hacker etica scena italiana Pietrosanti; \"Il Mondo\" RCS 2001 hacker copertina naif",
+  "result": "non trovato",
+  "note": "Nessun archivio online del settimanale; ilmondo.rcs.it ha 66 catture fino al 2002 (grep in corso sul server)."
+ },
+ {
+  "source": "WebSearch - IBM Forum 10/12/2001, Sicurmatica/SMAU 19/10/2001",
+  "query_or_url": "\"IBM Forum\" Milano 10 dicembre 2001 \"Conferenza Linux\"; Sicurmatica 2001 SMAU 19 ottobre NASP",
+  "result": "non trovato",
+  "note": "Solo PI 'Un raggio di luce su SMAU' (già noto). sicurmatica.it ha 198 catture fino al 2002: grep in corso sul server."
+ },
+ {
+  "source": "Wayback CDX - e-privacy / winstonsmith",
+  "query_or_url": "winstonsmith.info (3 catture to=2003), e-privacy.winstonsmith.info (0), e-privacy.firenze.linux.it (652 to=2003)",
+  "result": "in corso",
+  "note": "Grep delle catture 2002 di e-privacy.firenze.linux.it in corso sul server; dato l'elenco IA delle relazioni 2002, atteso negativo."
+ },
+ {
+  "source": "Wayback CDX - scansioni troppo grandi",
+  "query_or_url": "archiviostorico.corriere.it/2000/ filter vatican; adnkronos.com 1999-2002 filter vatican|hacker; firenze.linux.it filter privacy; webb.it filter rassegna|press|stampa",
+  "result": "timeout",
+  "note": "Il CDX non regge filtri regex su domini grandi; la rassegna stampa webb.it 2001 resta da verificare (servirebbe l'URL esatto)."
+ }
+]

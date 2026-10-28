@@ -179,6 +179,21 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
 
 ## B. Problemi nelle COPIE OFFLINE
 
+### B0-unvicies. 2026-10-28
+- Copie delle 2 voci nuove: **CEGOS 2001 ottenuta** (nome presente); **programma IFF 2019** 🟡 «senza relatori» per natura
+  (motivo esplicito in `copies.json`). Ripristinato anche il motivo esplicito del programma IFF 2017, sovrascritto dal retry.
+- **Ritentati** (`--retry-failed`): invariati i 10 ❌ (RTF Webbit 05, Neapolis 2009, Radio Monte Carlo, Class Life, PrivateWave
+  EN/ES, deck Foggia, notizieoggi ×2, coinage: siti giù e mai archiviati; coinage/notizieoggi senza risposta anche oggi), 🟡
+  rassegna PrivateWave e ritagli Repubblica/Il Fatto (paywall), Secunia su Packet Storm e Sogou (anti-bot).
+- **Domande per te:**
+  (a) Ho ritrovato nel Web Archive il tuo sito **naif.itapac.net** (2000-2002: homepage scritta a 19 anni, `uffa.htm`,
+  `curriculum.txt` con indirizzi, cellulare e data di nascita). Lo salvo in `past/` / nell'archivio privato? Sul sito pubblico
+  no di sicuro senza tuo ok. Per ora è solo in `_in_attesa/naif_itapac_2026-10-28.json` (repo privato).
+  (b) **Radio Vaticana**: in che anno/mese fu l'intrusione per cui ti intervistò ADNKronos (ripresa da Corriere e Il Tempo)?
+  E il numero de **Il Mondo** in cui eri «in prima pagina»? Con una data cerco negli archivi.
+  (c) La sessione **IFF 2019** «Whistleblowing PA (a GlobaLeaks usecase)» del 1/4/2019 l'hai tenuta tu (o Pellerano / TI Italia)?
+  (d) Restano valide le domande del 27/10 (Hackmeeting 99, AperiTech 14/10/2019, IFF 2016/2017, I...ludiamoci 99, TV del CV 2003).
+
 ### B0-vicies. 2026-10-27
 - Copie delle 6 voci nuove: **tutte ottenute** (madoka, `bfi7.tar.gz`, 3 schede Webb.it 02 dal Web Archive, programma IFF
   2017). Il programma IFF 2017 resta «senza nome» per natura (elenca titolo e link alla wiki, il nome è nella wiki già

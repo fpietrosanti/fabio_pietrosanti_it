@@ -497,6 +497,37 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   meetup «Longevity Biohacking» al 38C3 (28/12/2024, annunciato su X, assente dalle pagine archiviate); GDELT (429).
   **Proposta**: dopo i residui via Chrome, chiudere la voce — la ricerca automatica sul 2023–2025 è esaurita.
 
+## Note sessione 2026-10-28 (run programmata «ricerca profonda»)
+- **1232 voci** in `data/media.json` (+1 verificata, +1 talk non verificato). Prime voci della coda ancora bloccate (chiavi,
+  login, risposte di Fabio, video TimePie): lavorate le piste indicate il 27/10 con 3 agenti (`pass4_weekit2003_2005`,
+  `pass4_siti1997_libri`, `pass4_tv_cv2003_eventi`; negativi in `data/research/leads_negatives_*_2026-10-28.json`).
+- **Nuova verificata: CEGOS Italia, Milano 1/02/2001** — «Come rapportarsi e rispondere ai nuovi hacker» (14:30, «Fabio
+  Pietrosanti, Security Manager I.NET», con CERT-IT, GdF, Transcrime, chiusura di Giustozzi; programma su degrazia.it dal Web
+  Archive): **è il talk più antico in archivio** (prima: AntiKrimen 13/10/2001).
+- **Ritrovato il tuo sito naif.itapac.net 2000–2002** (homepage «NaiF...un uomo, un SysAdmin», `uffa.htm`, `curriculum.txt`
+  2001/2002): contiene **dati personali** (indirizzi, cellulare, data di nascita) e toni goliardici → **tenuto fuori dal sito**,
+  solo nel repo privato (`_in_attesa/naif_itapac_2026-10-28.json`), domanda a Fabio. Dal CV 2001 nuove piste stampa:
+  intervista **ADNKronos sull'intrusione nel sito di Radio Vaticana** (ripresa da Corriere e Il Tempo, data ignota, prima di
+  07/2001), articolo su **Il Mondo** («ero in prima pagina»), speciale **TG2 Dossier** sugli hacker; eventi «Sicurezza reti
+  aziendali», «Security on The Net», Summercon (NL), Hacker at Large 2001 — nessuna trovata online.
+- **Non verificato**: IFF 2019 (1/4/2019) «Whistleblowing PA … (a GlobaLeaks usecase)», programma senza relatori.
+- **Negativi solidi**: WeekIT (tutte le 120 schede + ~750 articoli 2003-04 letti, ID 006004036000-036665 e 039720-040421),
+  sikurezza.org 2003-05 (30 pagine non di lista), Apogeonline/Datamanager/LineaEDP/ZeroUno/Webnews/CorCom/Key4biz (ricerche
+  interne: solo omonimi Cristiano, Paolo, Guido), computerworld.it/zdnet.it (domini parcheggiati), ictbusiness.it (niente
+  prima del 2006); digilander, geocities «naif*» (altri), naif.it (segnaposto), naif.org, latinaonline.it/.com, xoom/lycos/
+  inwind/supereva/tin; Google Books nel Chrome di Fabio (1995-2002: solo omonimi e i 2 libri noti; *Profilo hacker* ed.
+  italiana senza anteprima); Hacker Journal 1-14 e 37; **e-privacy 2002 e 2003: non eri relatore** (10 talk 2002 su IA);
+  Wired Next Fest Milano 2015/16/18/19 e Firenze 2018, MozFest 2019, YouTube (13 ricerche), Il Tempo/Il Mondo/L'Espresso
+  2000-04 sul Web Archive (quasi nessun articolo catturato), PrivateWave rassegna video (nessun TG3).
+- **Job ancora in corso sul server** (ubuntu@51.158.36.151, ripartibili): **WeekIT** ~2.160 articoli rimasti (ID
+  006004036666-039719, `~/wb_weekit/collect.sh` dà avanzamento e `HIT`, riavvio `cd ~/wb_weekit; for k in 0 1; do nohup
+  python3 fetchw2.py $k > fx$k.out 2>&1 & done`, max 2 worker); **siti 1997-2002** 552 capture (latinaonline.it, antikrimen.it,
+  e-privacy.firenze.linux.it, kill-9.it, lns.it, sicurmatica.it, ilmondo.rcs.it) in `~/wb_personal1997/` (`python3
+  grepcap.py`, esiti `grep_results.json`), più le query di `q4.json` (smau.it 2001, iltempo.it, espressonline, vaticanradio.org,
+  clusit.it) mai eseguite.
+- **Prossima voce lavorabile:** raccogliere gli esiti dei due job sul server; cercare la data dell'intrusione a Radio Vaticana
+  (archivi Corriere/ADNKronos) appena Fabio la ricorda; poi proporre di chiudere tutte le voci «Lacuna».
+
 ## Note sessione 2026-10-27 (run programmata «ricerca profonda»)
 - **1227 voci** in `data/media.json` (+6: 1 voce nuova verificata, 1 talk non verificato, 4 mirror/voci proprie). Prime voci
   della coda ancora bloccate (chiavi, login, risposte di Fabio, video TimePie): lavorate la **lacuna 1995–2002** (mai
