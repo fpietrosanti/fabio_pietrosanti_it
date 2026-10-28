@@ -1,0 +1,190 @@
+WhatsApp notifica a 200 usuarios que instalaron una aplicación falsa creada por el fabricante italiano de software espía SIO » Que Nube - Noticias Virales, Tecnología y Tendencias 
+
+ Saltar al contenido 
+ Que Nube – Noticias Virales, Tecnología y Tendencias 
+ Actualidad en noticias y tendencias de tecnología incluyendo contenido viral, apps, gadgets, gamers, redes sociales, empresas, la NASA, lanzamientos y toda la actualidad tecnológica del momento.
+
+ Buscar 
+
+ Buscar 
+
+ Inicio 
+ Apps Instagram 
+ Facebook 
+ Whatsapp 
+ Youtube 
+
+ Gadgets 
+ Gamers 
+ NASA 
+ Tesla 
+ Recomendados 
+ PORTAFOLIO 
+
+ Inicio 
+ Android 
+ WhatsApp notifica a 200 usuarios que instalaron una aplicación falsa creada por el fabricante italiano de software espía SIO 
+
+ Android Apple Tecno Whatsapp 
+
+ WhatsApp notifica a 200 usuarios que instalaron una aplicación falsa creada por el fabricante italiano de software espía SIO
+ abril 1, 2026 
+ Que Nube 
+
+ WhatsApp notificó a aproximadamente 200 usuarios, principalmente en Italia, que fueron engañados para que instalaran una versión falsificada de la aplicación de mensajería que en realidad era software espía del gobierno. La aplicación falsa fue creada por SIO, una empresa italiana de tecnología de vigilancia que desarrolla software espía para agencias policiales y de inteligencia a través de su filial ASIGINT. WhatsApp dijo que había identificado proactivamente a los usuarios afectados, los desconectó de sus cuentas, les advirtió sobre los riesgos de privacidad y los instó a eliminar el cliente falso e instalar la aplicación oficial de una fuente confiable. La compañía le dijo a TechCrunch que también planea enviar una demanda legal formal a SIO para detener cualquier actividad maliciosa relacionada con la campaña.
+ La revelación, reportada por primera vez por el periódico italiano La Repubblica y la agencia de noticias ANSA, marca la segunda vez en poco más de un año que WhatsApp nombra públicamente a un proveedor de software espía que opera contra sus usuarios en Italia. A principios de 2025, WhatsApp alertó a unos 90 usuarios, entre ellos periodistas y activistas proinmigración, de que habían sido atacados por Paragon Solutions, una empresa de vigilancia estadounidense-israelí cuyo producto estrella, Graphite, fue desplegado por los servicios de inteligencia nacionales y extranjeros de Italia. Esa revelación desencadenó una crisis política en Roma. El comité parlamentario de supervisión de inteligencia de Italia, COPASIR, confirmó el uso de Graphite y descubrió que siete italianos habían sido atacados. Posteriormente, Paragon cortó los lazos con las agencias de espionaje de Italia después de que el gobierno se negó a verificar si el software espía había sido utilizado contra un periodista específico, Francesco Cancellato, del sitio de noticias Fanpage.
+ El software espía de SIO opera mediante un modelo diferente. El malware, identificado en su propio código como Spyrtacus, está integrado en aplicaciones falsas diseñadas para parecerse a software legítimo. Los investigadores han encontrado 13 muestras diferentes de Spyrtacus que datan de 2019, la más reciente de finales de 2024. Las versiones anteriores se hacían pasar por aplicaciones de Android de los proveedores de telefonía móvil italianos TIM, Vodafone y WINDTRE, así como versiones falsas anteriores del propio WhatsApp. TechCrunch expuso por primera vez la campaña de distribución de Android de SIO en febrero de 2025. La última operación, dirigida a los iPhone, representa una expansión de la táctica al ecosistema de Apple. Una vez instalado, Spyrtacus puede robar mensajes de texto, historiales de chat y registros de llamadas, así como grabar audio y video directamente desde el micrófono y la cámara del dispositivo.
+
+ El mecanismo de entrega es tan revelador como el propio malware. En Italia, las autoridades obtienen habitualmente la cooperación de los operadores de telefonía móvil, que envían enlaces de phishing a sus propios clientes en nombre de las autoridades. El objetivo recibe lo que parece ser una notificación de actualización de rutina de su proveedor, indicándole que instale lo que parece una actualización estándar de WhatsApp. El Ministerio de Justicia italiano ha mantenido una lista de precios y un catálogo que muestra cómo las autoridades pueden obligar a las empresas de telecomunicaciones a enviar dichos mensajes, un sistema que efectivamente convierte la propia red móvil en un canal de distribución de herramientas de vigilancia estatal. El costo de alquilar software espía en Italia es notablemente bajo: a finales de 2022, las fuerzas del orden podían acceder a estas herramientas por tan solo 150 euros al día, sin los grandes costos iniciales de adquisición que normalmente limitan su implementación en otros países.
+
+ Espacio de coworking TNW City: donde ocurre tu mejor trabajo
+ Un espacio de trabajo diseñado para el crecimiento, la colaboración y un sinfín de oportunidades para establecer contactos en el corazón de la tecnología.
+
+ La posición de Italia como centro de software espía es inusual entre las democracias occidentales. Empresas como Hacking Team, Cy4Gate, RCS Lab y Raxir tienen su sede en el país, regidas por un marco legal que proporciona una base estatutaria formal para el “captatore informatico”, o interceptor de computadoras, software troyano efectivamente autorizado por el estado. Fabio Pietrosanti, presidente del Centro Hermes para la Transparencia y los Derechos Humanos Digitales, ha dicho que El software espía se implementa con más frecuencia en Italia que en cualquier otro lugar de Europa. porque el bajo costo y la regulación permisiva lo hacen accesible a una gama mucho más amplia de organismos encargados de hacer cumplir la ley que en los países vecinos. El resultado es un ecosistema en el que las fuerzas policiales municipales, no sólo las agencias de inteligencia nacionales, pueden encargar operaciones de vigilancia contra individuos.
+ La portavoz de WhatsApp, Margarita Franklin, dijo a TechCrunch que la compañía aún no podía confirmar si los 200 usuarios afectados incluían periodistas o miembros de la sociedad civil. «Nuestra prioridad ha sido proteger a los usuarios que pueden haber sido engañados para descargar esta aplicación iOS falsa», dijo. La empresa no especificó si había remitido el asunto a los fiscales italianos o a alguna autoridad reguladora. Apple y SIO no respondieron a las solicitudes de comentarios.
+ El panorama legal en torno al software espía comercial ha cambiado sustancialmente durante el último año. En mayo de 2025, un jurado de California ordenó a NSO Group, el fabricante israelí de Pegasus, pagar a WhatsApp 167 millones de dólares en daños punitivos después de descubrir que había permitido hackear a aproximadamente 1.400 usuarios mediante ataques sin clic. Posteriormente, un juez federal redujo la indemnización a 4 millones de dólares, pero impuso una orden judicial permanente que prohibía a NSO atacar la infraestructura de WhatsApp. NSO ha apelado. Meta, la empresa matriz de WhatsApp, describió el veredicto como un hito y desde entonces ha ampliado su estrategia legal contra la industria de la vigilancia en general. La demanda legal formal que WhatsApp pretende enviar a SIO sigue el mismo patrón: utilizar litigios y divulgación pública como elementos disuasorios contra las empresas que se benefician de comprometer plataformas de mensajería cifradas.
+ La proliferación de proveedores de software espía presenta un desafío que se extiende mucho más allá de cualquier plataforma única. Apple ha enviado notificaciones de amenazas de software espía mercenario a usuarios en más de 150 países desde 2021, alertando a las personas que cree que han sido blanco individual de ataques patrocinados por el estado. En abril de 2025, Apple notificó al periodista italiano Ciro Pellegrino, una de las víctimas de Paragon, que había sido atacado. Los sistemas de notificación de Apple y WhatsApp representan ahora el principal mecanismo mediante el cual las víctimas de la vigilancia gubernamental se enteran de que han sido comprometidas, una función que alguna vez fue dominio exclusivo de Los investigadores especialistas de la industria de la ciberseguridad. .
+ El mercado mundial de interceptación legal estaba valorado en 4.000 millones de dólares en 2023 y se prevé que alcance los 15.000 millones de dólares en 2032, con un crecimiento de aproximadamente el 16 por ciento anual. Ese crecimiento no está siendo impulsado por los exploits de clic cero estilo Pegasus que atraen los titulares, sino por el tipo de herramientas de bajo costo basadas en phishing que vende SIO. La barrera de entrada para la vigilancia gubernamental ha caído hasta el punto en que un departamento de policía local en una ciudad italiana de tamaño mediano puede encargar el mismo tipo de implementación de software espía que alguna vez fue dominio exclusivo de las agencias de inteligencia nacionales. El brecha entre la ambición regulatoria y la capacidad de hacer cumplir la ley en Europa significa que los marcos legales que rigen estas herramientas no han seguido el ritmo con el que se están adoptando.
+ Lo que diferencia el caso SIO del escándalo Paragon es el método. Graphite de Paragon utilizó exploits de cero clic que no requerían ninguna acción por parte del objetivo. Spyrtacus de SIO requiere que el objetivo instale una aplicación falsa, un enfoque de ingeniería social que se basa en la confianza en el operador y la familiaridad con las actualizaciones rutinarias de la aplicación. El hecho de que las empresas de telecomunicaciones italianas participen en la cadena de distribución, enviando mensajes de phishing a sus propios suscriptores a petición del Estado, convierte la propia infraestructura móvil en un instrumento de vigilancia. Una cosa es que un gobierno piratee un teléfono. Otra es que la compañía telefónica ayude.
+ Sigue la decisión de WhatsApp de nombrar públicamente SIO y notificar a los usuarios afectados el patrón más amplio de plataformas tecnológicas que se afirman como contrapesos a la vigilancia estatal en formas que habrían sido impensables hace una década. La empresa no se limita a corregir una vulnerabilidad. Se trata de identificar al proveedor, alertar a las víctimas y amenazar con acciones legales, una postura que posiciona a una aplicación de mensajería propiedad de Meta como un control más eficaz del abuso de software espía gubernamental que cualquier organismo regulador europeo que haya logrado hasta la fecha. Si esa dinámica es tranquilizadora o alarmante depende de su visión de dónde debería recaer en última instancia la responsabilidad de proteger a los ciudadanos de sus propios gobiernos.
+ Para los 200 usuarios en Italia que recibieron la notificación de WhatsApp, la pregunta inmediata es más concreta: ¿quién autorizó la vigilancia y con qué base legal? Es posible que la respuesta nunca se haga pública. El marco de interceptación legal de Italia permite el uso de estas herramientas bajo supervisión judicial, pero los mecanismos de supervisión han Se ha demostrado repetidamente que es inadecuado para prevenir el abuso. . El escándalo de Paragon demostró que las agencias de inteligencia podían atacar a periodistas y activistas al amparo de una autoridad legal. El caso de SIO sugiere que el problema es más profundo y se extiende a proveedores menos destacados, herramientas más baratas y un modelo de distribución que explota la confianza que los ciudadanos depositan en sus operadores de telefonía móvil. La industria del software espía no necesita exploits sin clic para ser peligrosa. Sólo necesita una notificación convincente de su compañía telefónica.
+
+ Fuente: TNW 
+ También Te Puede Interesar:
+
+ InfoComm América Latina 2026 se consolida como el referente regional de la industria de la integraci...
+
+ Los investigadores se están cansando de que OpenAI controle sus avances
+
+ Invesco lleva sus carteras modelo a Claude para asesores de Anthropic
+
+ Elon Musk dice que el ejército de Ucrania violó los términos de servicio de Starlink
+
+ Whop recauda 200 millones de dólares con una valoración de 5.100 millones de dólares después de envi...
+
+ El elaborado plan de Anthropic para mantener a raya a Wall Street
+
+ Tesla construyó el paquete de baterías del Cybercab con espacio para celdas LFP más baratas
+
+ Apple presenta la nueva MacBook Pro de 14 pulgadas con chip M6
+
+ Apple actualiza el iMac con chips M6
+
+ BNY dice que ahora realiza un seguimiento de su gasto en tokens de IA para evitar pagar de más
+
+ Job van der Voort de Remote dice que las empresas de inteligencia artificial ahora pagan a los docto...
+
+ El RealReal no permitirá que los agentes de IA acaparen la ropa de diseñador
+
+ Compartir:
+
+ Navegación de entradas
+ ¿Cuánta energía consume el lavado de ropa? Así puede ahorrar en cada ciclo – Samsung Newsroom Colombia 
+ La NASA lanza a cuatro astronautas hacia la Luna en la misión Artemis II 
+
+ Deja una respuesta Cancelar la respuesta 
+ Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con * 
+ Comentario * 
+ Nombre * 
+ Correo electrónico * 
+ Web 
+ Guarda mi nombre, correo electrónico y web en este navegador para la próxima vez que comente. 
+
+ En Video
+
+ Temas
+ Alertas Seguridad 
+ Amazon 
+ Amazon Prime Day 
+ Android 
+ Apple 
+ Apps Audible 
+ Dropbox 
+ Facebook 
+ Instagram 
+ Whatsapp 
+ Wordpress 
+ Youtube 
+
+ ASUS 
+ Audiovisual 
+ AVIXA 
+ Bose 
+ Ciberseguridad 
+ Cine 
+ Colombia 
+ Compras 
+ Consolas 
+ Crypto 
+ Economía 
+ Electrodomésticos 
+ España 
+ Experiencias 
+ Formación 
+ Gadgets 
+ Gamer 
+ Google 
+ IA 
+ Latam 
+ LG 
+ Marketing 
+ México 
+ Microsoft 
+ Móviles 
+ NASA 
+ Negocios 
+ Novedades 
+ Ofertas 
+ Perú 
+ Programación 
+ realme 
+ Recomendados Oficina 
+
+ Redes Sociales 
+ Robots 
+ Samsung 
+ Sin Categoría 
+ Sostenible 
+ Startups 
+ Tecno 
+ Tesla 
+ Tutoriales 
+ Vehículos 
+ Viral 
+ Web 
+ WordPress 
+
+ Que Nube existe para compartir toda la actualidad en tecnología y tendencias.
+
+ Info Legal
+ Aviso Legal 
+ Política de Cookies 
+ Política de Privacidad 
+
+ Síguenos en
+
+ Stay Updated
+
+ Subscribe Our Newsletter for latest news 
+
+ Deja vacío este campo si eres humano: 
+
+Copyright ©2026 Que Nube – Noticias Virales, Tecnología y Tendencias 
+ Tema por: Theme Horse 
+ Funciona gracias a: WordPress 
+
+ imunify-bot-check 
+ En calidad de Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. 
+ Aviso Legal 
+ Política de Privacidad 
+ Configuración de Cookies 
+ Aviso Legal 
+ Política de Cookies 
+ Política de Privacidad 
+
+ Esta web utiliza cookies propias y de terceros para su funcionamiento, análisis, programas de afiliación y para mostrar publicidad personalizada basada en tu perfil y hábitos de navegación. Además, incluye enlaces a sitios externos con sus propias políticas de privacidad, las cuales podrás gestionar al visitarlos. Al hacer clic en Aceptar, consientes el uso de estas tecnologías y el tratamiento de tus datos para estos fines.
+
+ Rechazar 
+ Aceptar 
+
+ Privacidad

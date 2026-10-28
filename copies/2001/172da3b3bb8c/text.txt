@@ -1,0 +1,451 @@
+Milano, 1 / 2 Febbraio 2001 
+
+ Milano, 1 / 2 Febbraio 2001
+
+ PRIMA GIORNATA :1 FEBBRAIO 2001
+
+ 9.00 Registrazione partecipanti
+
+ 9.15 Apertura dei lavori a cura del Chairman
+
+ Ugo Poggi  Ufficiale
+
+ NUCLEO PROVINCIALE POLIZIA TRIBUTARIA GUARDIA DI FINANZA 
+
+ La situazione degli attacchi online in Italia , oggi : quali sono e come prevenirli
+
+ 9,30 Il punto di vista tecnico : analisi delle attività di hacking e delle contromisure più efficaci
+
+ . Le diverse tipologie di attacco : i virus, furto di applicativi contenenti dati, laccesso non 
+
+ autorizzato, la saturazione delle risorse del computer 
+
+ . Perché le più colpite sono le reti aziendali ?
+
+ . Quali le azioni di attacco più nocive ?
+
+ . Nuove forme di tutela ?
+
+ . Come procedere per una corretta pianificazione del sistema di controllo
+
+ . La sola tecnologia può assicurare una sicurezza completa ?
+
+ . Il CERT- IT ( Computer Emergency Response Team  Italy ) : il principale organo italiano di 
+
+ riferimento per la sicurezza informatica
+
+ Emilia Rosti  Responsabile
+
+ CERT-IT  Dipartimento Scienze dellInformazione UNIVERSITA DEGLI STUDI di Milano
+
+ Rappresentante CERT-IT presso First Forum of Incident Response and Security Teams 
+
+ 10.30 Il punto di vista giuridico : analisi delle attività criminali online con danno economico per lazienda
+
+ . Le attività online ritenute reati e perseguibili penalmente
+
+ . Presentazione di indagini effettuate per il contrasto alla criminalità informatica 
+
+ . Laccesso abusivo ai sistemi informatici di enti pubblici, banche e società
+
+ . Il carding : crimini informatici e commercio elettronico
+
+ . Lintercettazione di comunicazioni informatiche e la frode informatica
+
+ . Tecniche di indagine e attività di contrasto della Polizia Giudiziaria in presenza di computer crime
+
+ Ugo Poggi  Ufficiale
+
+ NUCLEO PROVINCIALE POLIZIA TRIBUTARIA GUARDIA DI FINANZA 
+
+ 11.15 Coffee Break
+
+ 11.30 Security " Knowledge Base" : lorganizzazione comportamentale come base fondamentale per la difesa
+
+ . La sicurezza tecnologica e lo User Management
+
+ . I c.d " attacchi non convenzionali "
+
+ . Organizzare la Knowledge Base degli utenti 
+
+ . Training e metodologie di Testing 
+
+ . Security Policy : regole operative per utenti di ogni segmento 
+
+ . I diversi livelli in relazione alle tipologie di dati custoditi
+
+ . Metodi pratici e sperimentabili di " infrastructure protection "
+
+ Dario Forte  Information Security Analyst / Trainer
+
+Individual Member del Computer Security Institute
+
+ CSI ( Computer Security Insitute )
+
+ 12.15 Il cyber criminale da un punto di vista criminologico : conoscere il nemico per combatterlo 
+
+ . I profili dei criminali informatici attraverso unanalisi a spettro
+
+ . Le tre variabili criminologiche per una strategia di intervento efficace : motivazioni, competenze 
+
+ tecnologiche e pericolosità sociale
+
+ . Le risposte della security aziendale al rischio informatico : strategie di prevenzione a riduzione 
+
+ del danno
+
+ . Il problema specifico del danno reputazionabile e dimmagine : la neccesità di pianificare 
+
+ lemergenza
+
+ Alessandro Scartezzini  Research
+
+ Andrea Di Nicola  Research
+
+ TRANSCRIMINE- Research Centre of Transnational Crime
+
+ UNIVERSITA DI TRENTO
+
+ 12.45 Discussione
+
+ 13.15 Colazione
+
+ 14.30 Come rapportarsi e rispondere ai nuovi hacker 
+
+ . Hacker : chi sono, come si comportano,di quali veramente avere paura ? . i falsi miti
+
+ . Analisi della tipologia e entità di danni arrecati da un hacker ad un sistema aziendale
+
+ - gli hacker malicious
+
+ . Come si nascondono gli hacker e come lazienda può capire da sola di essere attaccata ?
+
+ quali misure lazienda deve attivare per avere conferma dellattacco
+
+ come lhacker nasconde le proprie tracce 
+
+ . Competenze di hacking interne come risorsa ulteriore per lazienda
+
+ .Limportanza di uneducazione costante alla sicurezza dei system administrator / dipendenti
+
+ . Quale vantaggio aziendale nellimpiego di hacker come addetti alla security aziendale per contrastare il fenomeno ?
+
+ Fabio Pietrosanti  Security Manager
+
+ I.NET
+
+ 15.15 La sicurezza aziendale come priorità :soluzioni per prevenire e difendersi dalle intrusioni 
+
+ . La valutazione del rischio : dove sono localizzati i punti di attacco di un sistema ?
+
+ . i maggiori problemi delle aziende
+
+ . I costi da considerare e le perdite da attacchi subiti
+
+ . La sicurezza si può tutelare al 100% ?
+
+ . I 4 step della prevenzione : le diverse fasi per una corretta implementazione aziendale 
+
+ - l "assessment" : dalle aree critiche del sistema alle azioni di business più a rischio,
+
+ la pianificazione, limplementazione dei sistemi di controllo e il monitoraggio sistematico
+
+ . La classificazione delle tipologie di attacchi : le intrusioni, i virus e il filtraggio dei contenuti
+
+ . Le limitazioni possibili : firewall, Ids, Content application screener
+
+ . Altri elementi importanti ?
+
+ . I costi da considerare e le perdite da attacchi subiti
+
+ . Sistemi, strumenti e soluzioni oggi disponibili per prevenire e limitare i possibili attacchi alla 
+
+ sicurezza
+
+ Vito Villa  Responsabile Tecnico e di Prodotto
+
+ SYMANTEC 
+
+ 16.00 Tea Break
+
+ 16.15 Come valutare i costi di un sistema di controllo e prevenzione online 
+
+ . I costi nascosti della sicurezza
+
+ . Come valutare i costi indiretti
+
+ . Come valutare i costi diretti
+
+ - harware,software
+
+ . Valutazione rapporto costi / benefici
+
+ . Limpostazione di un progetto : i rapporti a breve / lungo termine 
+
+ Raoul Chiesa  Senior Security Manager
+
+ @Mediaservice.net Srl
+
+ Fabio Cacciatori  Managing Partner
+
+ A&G
+
+ 17.00 Simulazione pratica di attacco ed accesso abusivo a sistema informatico remoto
+
+ . Attività preventiva per la sicurezza dei sistemi informatici aziendali
+
+ . Preparare lattacco e infettare il sistema
+
+ . Le modalità per connettersi, navigare indisturbati nella rete aziendale, carpire informazioni sui 
+
+ clienti, sullazienda e sui progetti interni, distruzione software del sistema remoto
+
+ . Utilizzo del log per la ricostruzione dei flussi inerenti agli accessi abusivi
+
+ . La collaborazione azienda- Polizia Giudiziaria per la repressione dei computer crime
+
+ Giancarlo Sulsenti - Ufficiale della Guardia di Finanza
+
+ Comandante- COMPAGNIA di CAGLIARI
+
+ 17.45 Discussione
+
+ 18.15 Chiusura dei lavori della prima giornata a cura del Chairman
+
+ Chairman: Dr. Ugo Poggi - Ufficiale
+
+ NUCLEO PROVINCIALE POLIZIA TRIBUTARIA GUARDIA DI FINANZA 
+
+ SECONDA GIORNATA : 2 FEBBRAIO 2001
+
+ 9.00 Apertura dei lavori a cura del Chairman
+
+ Avv. Luca de Grazia  Esperto in problemi di Diritto Internet
+
+ Titolare -STUDIO LEGALE de GRAZIA
+
+ Patrocinante in Cassazione 
+
+ 9.10 La posizione delle Autorità Pubbliche ( Magistratura e Autorità Indipendenti ) a prevenzione e repressione delle frodi informatiche 
+
+ . Il crimine informatico e le difficoltà di investigazione : nuovi problemi, vecchie soluzioni, necessità di nuove proposte 
+
+ Giuseppe Corasaniti  Magistrato
+
+ Autorità per le Garanzie nelle Comunicazioni
+
+ Docente di Diritto dei Mezzi di Comunicazione  Università LUISS GUIDO CARLI di Roma
+
+ Direttore  PROGETTO MEDIA LAW Università Luiss Guido Carli di Roma
+
+ 9.45 Lapplicazione delle ultime normative in materia di crimini informatici : fino a che punto lazienda è tutelata ?. Analisi di casi accaduti 
+
+ . La Legge 547/ 93 e le nuove ipotesi di reato : universo digitale e diritto penale
+
+ . Gli attacchi telematici : una difficile collocazione giuridica
+
+ . Case study RAI : la prima intrusione con assoluzione in assenza di misure di sicurezza 
+
+ . Case study di diffamazione imprenditoriale online: internet è stampa ?
+
+ . Case study di diritto dautore e impresa : uso e abuso di software e banche dati
+
+ - l ultima giurisprudenza e la recente riforma dal punto di vista dei produttori e degli utilizzatori
+
+ . Come e quando scegliere tra Giustizia Penale e Giustizia Civile 
+
+ Avv. Daniele Minotti  Titolare 
+
+STUDIO LEGALE MINOTTI
+
+ 10.30 Coffee Break
+
+ 10.45 La sicurezza dei dati ; una nuova prospettiva di vedere il patrimonio aziendale da un punto di vista strettamente legale
+
+ . Legge 675/96 , Dlgs n. 318/99 e Dlgs n.171/98
+
+ . I principi posti
+
+ . Il difficile rapporto tra le due leggi
+
+ . Gli illeciti di tipo penale, amministrativo e civile : la responsabilità ex art.2050 c.c.
+
+ . Le possibili conseguenze della mancata applicazione delle misure di sicurezza
+
+ . Il risarcimento del danno , anche morale : probremi e prospettive
+
+ . I dati come merce di scambio: analisi di alcune tipologie contrattuali
+
+ . Le prospettive future e immediate: adsl, wasp e umts: il problema sicurezza sullelettrodomestico ?
+
+ Avv. Luca de Grazia  Esperto in problemi di diritto in Internet
+
+ Titolare - STUDIO LEGALE de GRAZIA
+
+ Patrocinante in Cassazione
+
+ 11.30 E- Commerce : nuovi sistemi di prevenzione e controllo per i problemi di security determinati da attacchi interni allazienda
+
+ . Tipologia di attacchi interni : casi particolari 
+
+ . Misure atte a contrastare il fenomeno: l infedeltà dei collaboratori
+
+ . Legittimità dei controlli dal punto di vista investigativo e tecnologico
+
+ . Aspetti comparati con il fenomeno negli USA 
+
+ Tullio Mastrangelo  Presidente
+
+ M&P Risk Agengy
+
+ 12.10 Riorganizzare il sistema di sicurezza aziendale per rispondere al passaggio da sito istituzionale a sito di e-commerce . Il caso" la Rinascente Shopping online "
+
+ . Levoluzione della security culture interna allazienda
+
+ . Individuazione dei rischi possibili
+
+ . Affrontare il duplice aspetto del problema : organizzativo e tecnologico
+
+ . Ottimizzare la scelta dei sistemi di difesa più idonei e con la maggiore copertura
+
+ . Lattribuzione delle responsabilità allinterno e allesterno :
+
+ il monitoring della posta elettronica, la difesa dei domini dalle acquisizioni di terzi, il dialogo diretto con la Banca per garantire sicurezza dei dati e del carding
+
+ . Il futuro : la security estesa al B2B 
+
+ Alfredo Barbieri  Direttore Sistemi Informatici
+
+ Paolo Pozzi  Responsabile Tecnologie e Telecomunicazioni
+
+ GRUPPO RINASCENTE Divisione Grandi Magazzini
+
+ 13.00 Colazione
+
+ 14.00 Garantire la sicurezza delle informazioni a 360° : il Caso PIRELLI 
+
+ . Il valore del patrimonio intangibile dellazienda e la necessità di una nuova security
+
+ . Limplementazione del nuovo modello di sicurezza delle informazioni
+
+ . La direzione Security in Pirelli
+
+ . La nuova sfida dellazienda : da Security a E- Security
+
+ Pierguido Iezzi  Information Security Manager- Corporate Security Department
+
+ PIRELLI
+
+ 14.45 La nuova security in materia di Certificazione e firma elettronica : il punto sulla validità giuridica dei documenti elettronici
+
+ . La normativa nazionale a supporto dellinformatizzazione dei processi aziendali
+
+ . La Firma digitale e le Autorità di Certificazione ( C.A.):
+
+ il ruolo dei Certificatori e loro attività
+
+ i Certificati Digitali e gli effetti legali della "firma digitale + Certificato digitale " 
+
+ . La sicurezza del processo di certificazione digitale
+
+ . Il certificatore ed il processo di Time Stamping
+
+ . Alcuni utilizzi della Firma Digitale in ambito aziendale : le ultime novità
+
+ . Suggerimenti nella scelta del Certificatore
+
+ Claudia Ciampi  Consulente Legale e Informatico Area SD&T Networking Security
+
+ CAP GEMINI  ERNST & YOUNG
+
+ 15.30 BANCA 121: " fare sicurezza ", il primo must per una banca telematica efficiente
+
+ . Strategie di progettazione e sviluppo di politiche di security per Banca 121 :
+
+ - principali problemi affrontati nellimplementazione dei sistemi di difesa esistenti
+
+ . Selezione delle soluzioni tecnologiche più allavanguardia
+
+ . Opportunità delle varie scelte : i prodotti, gli ambienti, lattenzione costante al cliente
+
+ . Interventi di mantenimento del livello di sicurezza acquisito
+
+ . Quale estensione del concetto di security policy per il futuro ? 
+
+ Antonio Caforio Montesardo  Responsabile Sistemi Informativi, Telecomunicazioni e Gestione Produzione
+
+ BANCA 121
+
+ 16.15 Tea Break
+
+ La risposta del mercato assicurativo per la copertura dei rischi da crimini online
+
+ . Lassicurabilità dei rischi : 
+
+ il processo di gestione del rischio " crimine informatico "
+
+ limprescindibilità del trattamento tecnico e delle misure organizzative
+
+ lassicurabilità del rischio residuale
+
+ . La polizza informatica : modularità e flessibilità delle coperture 
+
+ responsabilità derivante dalla diffusione, involontaria o per infedeltà dei dipendenti di dati personali ( legge 675/ 96)
+
+ responsabilità civile derivante dallattività di certificatore ( dpr 513/93)
+
+ perdite patrimoniali derivanti da atti dolosi o fraudolenti ( legge 547/ 93)
+
+ . Le nuove sfide : coperture assicurative per il commercio elettronico 
+
+ Carlo Spasiano  Direttore Centrale e Responsabile Direzione Assunzione Rischi Medie e Grandi Imprese 
+
+ RAS
+
+ 17.15 Le frontiere del crimine informatico in Italia e allestero : come prepararsi ?
+
+ . La società in un mondo connesso : opportunità e minacce
+
+ . Le reti digitali sono intrinsecamente deboli ? I pericoli del cyberspazio
+
+ . I nuovi " cattivi " e le loro vittime predestinate
+
+ . Portare lattacco al cuore della Rete : il cyberterrorismo e i cybervandali
+
+ . I rischi per la Privacy : profiling e customer analysis
+
+ . Internet : nuova frontiera o terra di nessuno ?
+
+ . La cultura cyberpunk ed il mito dellhacker buono
+
+ . le nuove forme di interazione sociale : il rischio di disintermediazione
+
+ . Cosa ci riserva il futuro ? Una valutazione tra tecnologia e sociologia 
+
+ Corrado Giustozzi  Responsabile Business Unit
+
+ I&T di Pomezia
+
+ Docente di " Tecnologie di Sicurezza e Riservatezza " 
+
+ Università Cattolica del Sacro Cuore  Policlinico Gemelli di Roma
+
+ Giornalista
+
+ MClink
+
+ 18.00 Discussione
+
+ 18.30 Chiusura dei lavori a cura del Chairman
+
+ Chairman: Avv. Luca de Grazia  Esperto in problemi di diritto in Internet
+
+ Titolare - STUDIO LEGALE de GRAZIA
+
+ Patrocinante in Cassazione
+
+ Coordinatore : D.ssa Alessandra de Thierry
+
+ Conference Manager
+
+ CEGOS ITALIA
