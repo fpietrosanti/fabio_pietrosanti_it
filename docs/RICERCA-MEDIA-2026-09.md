@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1699**; dopo deduplica: **1236**
+- Risultati grezzi dalle ricerche: **1700**; dopo deduplica: **1237**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1181**
-- Verificati aprendo la pagina: **1166**; solo da risultato di ricerca: **70**
+- **Nuovi rispetto al vecchio sito: 1182**
+- Verificati aprendo la pagina: **1167**; solo da risultato di ricerca: **70**
 
-Per tipo (nuovi): Menzionato 259, tweet 132, Talk 100, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 260, tweet 132, Talk 100, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -33,7 +33,7 @@ Per tipo (nuovi): Menzionato 259, tweet 132, Talk 100, Video 80, Citato 76, Post
 | 2012 | 0 | 37 | 37 |
 | 2013 | 0 | 33 | 33 |
 | 2014 | 0 | 31 | 31 |
-| 2015 | 0 | 47 | 47 |
+| 2015 | 0 | 48 | 48 |
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 91 | 91 |
 | 2018 | 0 | 89 | 89 |
@@ -1539,7 +1539,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · Talk · eunews.it — [How Can We Govern Europe? – Terza edizione (panel «Intelligence, privacy e antiterrorismo in Europa»)](https://www.eunews.it/eventi_eunews/how-can-we-govern-europe-3rd-edition/)  
   verified via wayback; context: …i cittadini. Moderatrice Cristina Vicarelli , avvocato con attività prevalente in protezione dei dati personali e privacy e contributor di Technethics Relatori Fabio Pietrosanti, Presidente del Hermes Center for Transpar… | Relatore come Presidente di Hermes Center. Anno 2016 dedotto dal programma (panel «Trump presidente», Beatrice Covassi rappresentante CE in Italia, Silvia Costa presidente commissione Cultura PE); la pagina reca la data di ripubblicazione 29/09/2021.
 
-## 2015 — 47 voci, 47 nuove
+## 2015 — 48 voci, 48 nuove
 
 - 🆕 **2015-11-02** · Citato · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/)  
   verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…
@@ -1549,6 +1549,8 @@ Anni senza nessun risultato: nessuno
   Livestreamed talk show on Tor and privacy
 - 🆕 **2015-10-19** · article · La Stampa (Carola Frediani) — [Taglie, broker e Stati: così funziona il mercato degli attacchi informatici](https://www.lastampa.it/archivio/2015/10/19/news/taglie_broker_e_stati_cosi_funziona_il_mercato_degli_attacchi_informatici-1803951/)  
   Letto direttamente. Sul mercato degli exploit: «Diciamo che chi posta online in giro non dà l'idea di essere molto bravo», commenta Fabio Pietrosanti, presidente dell'Hermes Center for Transparency and Digital Human Rights.
+- 🆕 **2015-10** · Menzionato · manifestofblasphemy.blogspot.com — [Manifest of Blasphemy: Taglie, broker e Stati: così funziona il mercato degli attacchi informatici](https://manifestofblasphemy.blogspot.com/2015/10/taglie-broker-e-stati-cosi-funziona-il.html)  
+  Ripresa integrale dell'articolo di Carola Frediani su La Stampa (19/10/2015). verified via wayback; context: …di hacker russi, dove offre anche exploit per Word 2013, a 5mila dollari. «Diciamo che chi posta online in giro non dà l’idea di essere molto bravo», commenta Fabio Pietrosanti , presidente dell’Hermes Center for Transpa…
 - 🆕 **2015-09-05** · Talk · End Summer Camp 2015 (ESC15), Forte Bazzera (Venezia) — [Hermes Overview 2015](https://www.endsummercamp.org/index.php?title=ESC15-Programma)  
   ESC15-Programma 'Sabato 5 settembre', TALKS 22:00-00:00, code 15xx, 22:00-22:50, 'Hermes Overview 2015', Relatore 'Naif'. ESC15-relatori still marked it '-da confermare-' (last edit 2015-08-29). The final program (last edit 2015-11-05) keeps it without that caveat. Language not stated.
 - 🆕 **2015-09** · Altro · End Summer Camp 2015 (ESC15), Forte Bazzera (Venezia) — [Capanello c1509: Cosa pensano gli hacker degli hacker](https://www.endsummercamp.org/index.php?title=ESC15-Caps)  
