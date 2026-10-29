@@ -4137,6 +4137,54 @@
    "note": "aggiunta 2026-10-29 20:00: coda esaurita; anni deboli 2003-08 e 2023-25 (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA)",
    "done": "2026-10-29 20:00",
    "found": 9
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Forum PA\" OR \"Stati Generali dell'Innovazione\" OR ComoLake",
+   "status": "retry",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Digital Commons\" OR EDIC OR EuroStack",
+   "status": "retry",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Cambridge Analytica\" OR profilazione OR propaganda 2018 OR 2019",
+   "status": "retry",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" LulzSec OR Antisec OR \"attacco informatico\" 2011 OR 2012",
+   "status": "retry",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" 2016 hacker OR privacy OR whistleblowing intervista",
+   "status": "retry",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Garante privacy\" OR \"Garante per la protezione\" 2023 OR 2024 OR 2025",
+   "status": "retry",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" cloud OR Amazon OR AWS sovranità 2024 OR 2025",
+   "status": "retry",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+  },
+  {
+   "query": "\"Pietrosanti\" Hermes Parlamento OR Senato OR Camera audizione 2023 OR 2024 OR 2025",
+   "status": "retry",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
   }
  ],
  "history": [
@@ -5176,6 +5224,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Ricontrollati i 7 candidati del giro 23:00: radioradicale 464793/presi-per-il-web era già in archivio come mirror (il merge aveva sovrascritto URL e nota: tolto dal file pass3, voce ripristinata), dalchecco tag/iisfa/page/2 → exclude (pagina tag), partecipa proposals/404 → override 2020-01-16 consultazione; restano nuovi partecipa 404, lamescolanza 2019, fabionatalucci 33c3, Sole 24 Ore AWS, cosapubblica OSINT. Coda esaurita: aggiunte ed eseguite 8 query nuove (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA) con chiave localStorage gqr20261029-2000: nessun robot check, 84 risultati, 72 URL distinti; scartati senza verifica mailing list (pluto, autistici, voipsa, seclists, tor-talk, seul, dovecot, freeswitch), LinkedIn, social generici, pagine indice partecipa/IO/Amazon/Instagram. 42 verificati: 10 OK, 7 già in exclude, 3 aggiunti a exclude (slideshare livello-fisico riquadro correlati, attivissimo.me = URL alternativo del post blogspot già in archivio, monitora-pa 1311_nuove_pec con dati personali di Fabio — da rivedere con lui). Nessuna voce nuova dal giro; voci 1254. Copie offline eseguite (recuperate quelle saltate al giro 23:00): 1189 ottenute + 120 video, nessuna pendente. Coda di nuovo esaurita: il prossimo giro deve aggiungere query nuove."
+  },
+  {
+   "date": "2026-10-29 21:00",
+   "engine": "google-chrome",
+   "searched": 0,
+   "captcha": true,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Coda esaurita: aggiunte 8 query nuove (Forum PA/Stati Generali/ComoLake, Digital Commons EDIC/EuroStack, Cambridge Analytica 2018-19, LulzSec/Antisec 2011-12, 2016 interviste, Garante privacy 2023-25, cloud/AWS sovranità 2024-25, audizioni Parlamento 2023-25). Chrome connesso; alla prima ricerca Google ha risposto con il robot check (/sorry): giro interrotto subito, nessun aggiramento, tutte e 8 le query marcate retry. Probabile effetto dei tre giri ravvicinati di oggi (18:00, 20:00, 23:00). Nessun candidato, nessuna verifica né merge; copie offline non rieseguite (nessuna voce nuova e nessuna copia pendente al giro 20:00)."
   }
  ]
 }
