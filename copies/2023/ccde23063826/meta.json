@@ -4,8 +4,8 @@
  "method": "live",
  "capture": null,
  "content_type": "text/html; charset=utf-8",
- "bytes": 904522,
- "sha256": "cc991fd6deabcb20d610d1a7285a95db09a63e07d36cf616fb9d776db2788791",
+ "bytes": 901259,
+ "sha256": "e15e20ec885fe6617c390d51318a78a409e8f05dc10e3e34b6cf368d38f644fd",
  "name_found": false,
- "fetched_at": "2026-10-28T01:41:00+00:00"
+ "fetched_at": "2026-10-29T04:31:19+00:00"
 }

@@ -52,8 +52,15 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **200 file, 52,2 GB**. Su Drive al 2026-10-28: **61 file, 10,2 GB** (`data/drive_links.json`);
-  mancano **140 file** (~42 GB).
+- Da caricare in tutto: **201 file, 52,6 GB**. Su Drive al 2026-10-29: **69 file, 10,6 GiB** (`data/drive_links.json`);
+  mancano **133 file** (~39 GiB).
+- Notte 2026-10-29 (01:08–06:31): caricati 8 file, ~0,41 GB (più ~1,4 GB di trasferimenti parziali persi
+  all'arresto). Velocità in calo verso il mattino (45–140 KiB/s), nessun errore di quota. rclone fermato con
+  taskkill alle 06:31, lo script ha registrato da solo i link (61 → 69). Copie leggere pubblicate: 1159 voci,
+  448 MB in `copies/`. Controlli lingue e LinkedIn OK.
+- **Problema aperto**: `rclone about` avvisa che il client_id condiviso di rclone per Google Drive verrà
+  ritirato nel corso del 2026. Serve un client_id OAuth proprio (https://rclone.org/drive/#making-your-own-client-id),
+  poi ricreare il remote `gdrive:`; senza, l'upload notturno smetterà di funzionare.
 - Notte 2026-10-28 (01:08–06:31): caricati 10 file, ~1,95 GB (più ~1 GB di trasferimenti parziali persi
   all'arresto). Velocità 115–240 KiB/s, nessuno stallo a 0 B/s e nessun errore di quota. rclone fermato con
   taskkill alle 06:31, lo script ha registrato da solo i link (exit 2). `2023/295f8e8e294d/media.mp3` è stato
@@ -79,7 +86,7 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   all'arresto). Velocità 70–250 KiB/s; dalle 04:55 stallo a 0 B/s per ~45 minuti, quindi rclone fermato a
   mano alle 05:40 e link registrati con `--links-only`. Copie leggere pubblicate: 1071 voci, 427 MB in `copies/`.
 - Notte 2026-10-22 (01:07–06:00): caricati 8 file, ~0,5 GB, con stalli simili.
-- Spazio su Drive: 75 GB totali, **56,12 GiB liberi** al 2026-10-28.
+- Spazio su Drive: 75 GB totali, **55,74 GiB liberi** al 2026-10-29.
 
 ### Problemi aperti dell'upload
 - **Banda in upload bassissima** dal computer (60–250 KiB/s, stalli ricorrenti a 0 B/s verso le 05:00; la rete risponde, ping 19 ms): verificare la linea
