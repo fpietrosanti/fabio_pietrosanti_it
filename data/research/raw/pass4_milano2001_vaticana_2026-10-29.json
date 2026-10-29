@@ -5,37 +5,11 @@
   "type": "web page",
   "outlet": "kill-9.it (sicurezza-mi, Milanese security mailing list; site by Zen)",
   "title": "Sicurezza-mi - presentazione della lista e resoconto della prima pizzata degli smanettoni milanesi",
-  "url": "http://web.archive.org/web/20011230174845id_/http://www.kill-9.it:80/sicurezza-mi/",
+  "url": "http://www.kill-9.it/sicurezza-mi/",
   "language": "it",
   "role": "author (co-signed 'naif && Zen')",
-  "note": "Read in full (Wayback, only capture 2001-12-30; page footer 'Page Last updated on Wed Oct 10 ... by zen@kill-9.it, (c) 1999-Y2K+1' -> 10 Oct 2001). Short manifesto of sicurezza-mi@kill-9.it, born as a list for Milan subscribers of ml@sikurezza.org to organize pizzate and meetings; proposes joining the Milan 'smanettoni' scene (MiLug, OpenLabs, LOA HackLab, Geek Girlz) via joint pizzate; reports the first pizzata (~20 people, 4 women); signed 'naif && Zen'. Links to the Pizzaweb sign-up by Rasta at http://www.rigadicomando.org/pizza. No personal data on the page beyond nicks/list e-mails. CDX for kill-9.it/sicurezza-mi* returns only this one capture.",
+  "note": "Read in full (Wayback, only capture 2001-12-30; page footer 'Page Last updated on Wed Oct 10 ... by zen@kill-9.it, (c) 1999-Y2K+1' -> 10 Oct 2001). Short manifesto of sicurezza-mi@kill-9.it, born as a list for Milan subscribers of ml@sikurezza.org to organize pizzate and meetings; proposes joining the Milan 'smanettoni' scene (MiLug, OpenLabs, LOA HackLab, Geek Girlz) via joint pizzate; reports the first pizzata (~20 people, 4 women); signed 'naif && Zen'. Links to the Pizzaweb sign-up by Rasta at http://www.rigadicomando.org/pizza. No personal data on the page beyond nicks/list e-mails. CDX for kill-9.it/sicurezza-mi* returns only this one capture. Copia Web Archive 20011230174845.",
   "verified": true,
-  "known": false
- },
- {
-  "date": "2001-01-26",
-  "year": 2001,
-  "type": "quoted",
-  "outlet": "Corriere della Sera (ed. Nazionale, p. 25, Cronache)",
-  "title": "Internet, attacco ai siti di Radio Vaticana e Telethon - I responsabili dell'emittente della Santa Sede: «Nessun danno». L'esperto: non sono hacker, ma pirati",
-  "url": "https://archivio.corriere.it/Archivio/interface/landing.html",
-  "language": "it",
-  "role": "quoted (esperto)",
-  "note": "Same item as raw/pass2_a_1995_2008.json and as the decisions.json 'exclude' entry (reason: unnamed 'esperto'). NEW EVIDENCE 2026-10-29: the archive's public search API (POST archivio.corriere.it/Archivio/api/articles/search) indexes the article FULL TEXT per article, and returns this article (docid 4:/es/it/rcsdati/@86778, PDF CORSERA_20010126_P_NAZ_NUL_25_02_B) for 'Pietrosanti Telethon', 'Pietrosanti Vaticana', 'Pietrosanti Crime Boys', 'Pietrosanti brasiliano', 'Pietrosanti hacker', 'Pietrosanti pirati', 'Pietrosanti esperto' (1 hit each) and ranks it first for 'Fabio Pietrosanti'; the adjacent Echelon article on the same page does NOT match 'Pietrosanti Echelon'/'Pietrosanti Campbell' (0). So the article body contains the word 'Pietrosanti' (most likely 'Fabio Pietrosanti' as the quoted expert, consistent with his 2001 CV: ADNKronos interview picked up by Corriere and Il Tempo). Summary from the index: responsibility attributed to the Brazilian group 'Crime Boys'. Full text behind login, page thumbnail (567x790) unreadable: NOT opened, so verified=false. Suggest Fabio reconsider the exclusion or someone with a Corriere archive login reads p.25. Not in media.json; it is in decisions.json 'exclude' (archivio.corriere.it landing URL) and in raw/pass2_a_1995_2008.json.",
-  "verified": false,
-  "known": false
- },
- {
-  "date": "2001-01-24",
-  "year": 2001,
-  "type": "context",
-  "outlet": "attrition.org defacement mirror / attrition-defaced mailing list",
-  "title": "Defacement of www.radiovaticano.org (also .com/.net) by 'Crime Boys' - context for the ADNKronos interview",
-  "url": "https://seclists.org/attrition-defaced/2001/Jan/585",
-  "language": "en",
-  "role": "context (not a mention)",
-  "note": "CONTEXT ONLY, not a publication about Fabio, do not add as media item. Attrition entry: Wed, 24 Jan 2001 16:03:07 -0700, defaced www.radiovaticano.org, group Crime Boys, NT4/IIS 4.0; mirror https://attrition.org/mirror/attrition/2001/01/24/www.radiovaticano.org/ (live, 'Multiple domains': radiovaticano.org/.com/.net). Press: Corriere 26/01/2001 p.25, Repubblica 26/01/2001 ('Il sito della Radio Vaticana attaccato da hackers brasiliani'), HITB/Reuters 26/01/2001. So the ADNKronos interview is presumably 25 Jan 2001.",
-  "verified": false,
   "known": false
  }
 ]

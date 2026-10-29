@@ -5,15 +5,15 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1245**; già processate: **1424**; ancora da processare: **0**
-- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1059** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1181**
+- Voci in `data/media.json`: **1249**; già processate: **1428**; ancora da processare: **0**
+- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1063** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1184**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
 - ⏹️ Chiusa per decisione di Fabio (accorpata a un'unica voce): **102**
 - 🟠 Solo guscio JavaScript: serve cattura col browser: **2**
-- 🎬 Video/audio scaricato (+ pagina): **119**
+- 🎬 Video/audio scaricato (+ pagina): **120**
 - 🎞️ Solo pagina/link: video/audio non scaricabile: **1**
 - ❌ Non ottenuta: **10**
 
@@ -26,8 +26,8 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 1998 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2000 | 18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2001 | 19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2002 | 24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2001 | 21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2002 | 25 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2005 | 11 | 2 | 0 | 0 | 0 | 0 | 1 |
@@ -50,7 +50,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2022 | 60 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2025 | 9 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 2025 | 9 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 2026 | 48 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
@@ -434,9 +434,11 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2000** · SecurityFocus BID 1698 — [Cisco PIX Firewall SMTP content filtering evasion (BID 1698, CVE-2000-1022)](https://www.securityfocus.com/bid/1698) · copia: `2000/df3d82682711` (Web Archive 20010312) · licenza: propria
 - **2000** · SecurityFocus BID 1923 — [ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)](https://www.securityfocus.com/bid/1923) · copia: `2000/6cf7ea802347` (Web Archive 20010222) · licenza: propria
 - **2000** · variotdbs.pl — [VARIoT vulnerability VAR-200012-0088](https://www.variotdbs.pl/vuln/VAR-200012-0088/) · copia: `2000/603a04c60527` (live) · licenza: terzi
+- **2001** · Corriere della Sera (ed. nazionale, p. 2 — [Internet, attacco ai siti di Radio Vaticana e Telethon - I responsabili dell'emittente del](http://archiviostorico.corriere.it/2001/gennaio/26/Internet_attacco_siti_Radio_Vaticana_co_0_010126372.shtml) · copia: `2001/e3b54557ef55` (Web Archive 20110929) · licenza: terzi
 - **2001** · AntiKrimen Expo 2001 - Area Sicurezza In — [Storia e psicologia Hacker](http://fabio.pietrosanti.it/) · copia: `2001/b17e2e712c2e` (Web Archive 20030214) · licenza: propria
 - **2001** · kill-9.it (sicurezza-mi, Milanese securi — [Sicurezza-mi - presentazione della lista e resoconto della prima pizzata degli smanettoni ](http://web.archive.org/web/20011230174845id_/http://www.kill-9.it:80/sicurezza-mi/) · copia: `2001/ff3330a17a55` (Web Archive 20011230) · licenza: terzi
 - **2001** · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) · copia: `2001/708cc48ca841` (Web Archive 20020204) · licenza: propria
+- **2001** · kill-9.it (sicurezza-mi, Milanese securi — [Sicurezza-mi - presentazione della lista e resoconto della prima pizzata degli smanettoni ](http://www.kill-9.it/sicurezza-mi/) · copia: `2001/9b19a919c648` (Web Archive 20011230) · licenza: terzi
 - **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 - 'Suggerimenti di...' (hall of fame)](http://www.pluto.it/files/ildp/LDR/ldr21.html) · copia: `2001/581a4a985147` (Web Archive 20060517) · licenza: terzi
 - **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 (Gaetano Paolone) - FAQ 2.1.2 «Come si può controllare i](http://www.pluto.it/files/ildp/LDR/ldr5.html#index1124) · copia: `2001/1fe8122618d1` (live) · licenza: terzi
 - **2001** · BFi n.10 — [TCP congestion control e dintorni (vecna)](http://www.s0ftpj.org/bfi/online/bfi10/BFi10-08.html) · copia: `2001/e4128af2c887` (Web Archive 20020211) · licenza: terzi
@@ -455,6 +457,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2001** · Zeus News — [Un raggio di luce su SMAU](https://www.zeusnews.it/n.php?c=873) · copia: `2001/5e381a22fe04` (live) · licenza: terzi
 - **2002** · La Stampa - Vivere Milano (9 ottobre 200 — [Nelle strade di Milano a caccia di reti da violare (inchiesta sul wardriving, di Alessandr](http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,3/articleid,0306_01_2002_0276_0074_2761192/) · copia: `2002/5c8deadf35e1` (live) · licenza: terzi
 - **2002** · La Stampa (archivio storico, ed. 9 ottob — [Gli «ethical hackers» si ritrovano in Blackhats.it (box 'Le guide III')](http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,3/articleid,0306_01_2002_0276_0074_2761193/) · copia: `2002/1161da4c9568` (live) · licenza: terzi
+- **2002** · CLUSIT (clusit.it) — [Commissione di Studio: OpenSource e Sicurezza - Membri della commissione (coordinamento Ra](http://www.clusit.it:80/commissioni/cm_ope/cm_ope_corpo.htm) · copia: `2002/67f619d1ccf3` (Web Archive 20020916) · licenza: terzi
 - **2002** · Hacker Journal n.10 (WLF Publishing) — [HJ ha surfato per voi: blackhats.it](https://archive.org/details/hackerjournal-10) · copia: `2002/9f66dc6f79ed` (live) · licenza: terzi
 - **2002** · Hacker Journal n.11 (24 ottobre-7 novemb — [News: reti wireless aperte - indagine sul campo a Milano da Naif e Vodka per conto di Port](https://archive.org/details/hackerjournal-11) · copia: `2002/6d17d2672c33` (live) · licenza: terzi
 - **2002** · Webb.it 02 (Padova) - pagina «Comunità e — [Sikurezza.org a Webb.it 02 - Coordinatore: Fabio Pietrosanti (naif)](https://web.archive.org/web/20020718172740/http://www.webb.it:80/article/articleview/205) · copia: `2002/7438709ab0e9` (Web Archive 20020718) · licenza: terzi
@@ -1586,6 +1589,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2025** · Rai 1 - Codice, la vita è digitale — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.raiplay.it/video/2025/06/Fabio-Pietrosanti-e-Don-Alberto-Carrara---Codice-27062025-42ad6af2-1f36-4f24-b8fe-58e999a9e0cd.html) · copia: `2025/a8259fe67427` (live · video locale `media.mp4` (312 MB, da caricare su Drive)) · licenza: terzi
 - **2025** · Rai Radio 1 / RaiPlay Sound - Codice Bet — [Codice Beta S04EP08 - Io, biohacker, che testo sul mio corpo i segreti della longevità](https://www.raiplaysound.it/audio/2025/01/Codice-Beta-S04EP08-Io-biohacker-che-testo-sul-mio-corpo-i-segreti-della-longevita-42dd7997-10f4-4587-8767-e51e5fec0fbb.html) · copia: `2025/6bb97556f89e` (Web Archive 20250117) · licenza: terzi
 - **2025** · Rai - Codice, la vita è digitale (Rai 1) — [Fabio Pietrosanti e Don Alberto Carrara - Codice 27/06/2025](https://www.youtube.com/watch?v=Amy7OyM7exo) · copia: `2025/fe4a9bae44e0` (Web Archive 20250706 · video locale `media.mp4` (82 MB, da caricare su Drive)) · licenza: terzi
+- **2025** · YouTube – Ciao Internet (Matteo Flora) — [La vera storia di Cassandra Crossing: da e-privacy alle Svalbard con Marco Calamari #1453](https://www.youtube.com/watch?v=f6W1nARxxpo) · copia: `2025/ddecd3b02930` (Web Archive 20251010 · video locale `media.mp4` (329 MB, da caricare su Drive)) · licenza: terzi
 - **2026** · Baijiahao (百家号) — 时光派健康抗衰 — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://baijiahao.baidu.com/s?id=1876633550786371641) · copia: `2026/ad08bc661e1e` (live) · licenza: terzi
 - **2026** · biohack.it — [BIOHACK.IT — White paper & Specification v0.1](https://biohack.it/) · copia: `2026/9760958b0e08` (Web Archive 20211225) · licenza: propria
 - **2026** · NetEase (网易号) — 时光派健康抗衰 — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾 (video, 2'35")](https://c.m.163.com/news/v/VG6GUA7FN.html) · copia: `2026/a04369ee6255` (live) · licenza: terzi

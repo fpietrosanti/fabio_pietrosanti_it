@@ -1,0 +1,28 @@
+[
+ {
+  "date": "2001-01-26",
+  "year": 2001,
+  "type": "quoted",
+  "outlet": "Corriere della Sera (ed. nazionale, p. 25)",
+  "title": "Internet, attacco ai siti di Radio Vaticana e Telethon - I responsabili dell'emittente della Santa Sede: «Nessun danno». L'esperto: non sono hacker, ma pirati",
+  "url": "http://archiviostorico.corriere.it/2001/gennaio/26/Internet_attacco_siti_Radio_Vaticana_co_0_010126372.shtml",
+  "language": "it",
+  "role": "quoted (esperto di sicurezza di I.Net)",
+  "note": "Opened in full via Wayback capture 20110929134828 (id_). Text names him explicitly: 'Fabio Pietrosanti, esperto di sicurezza di I.Net, pensa a dilettanti ansiosi di farsi passare per hacker' and quotes him on the IIS bugs ('chi l'ha attaccata non ha nulla a che fare con gli hacker, che sono appassionati di programmazione, non pirati'). Byline 'Ma. Po.', 'Pagina 25 (26 gennaio 2001)'. Defacement by the Brazilian group 'Crime Boys'. This is the SAME article excluded in decisions.json (url archivio.corriere.it/Archivio/interface/landing.html, reason 'unnamed esperto'): the exclusion premise is now refuted, the name is in the text -> Fabio should lift the exclusion. Also matches raw/pass4_milano2001_vaticana_2026-10-29.json (where it was verified=false).",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2002",
+  "year": 2002,
+  "type": "mentioned",
+  "outlet": "CLUSIT (clusit.it)",
+  "title": "Commissione di Studio: OpenSource e Sicurezza - Membri della commissione (coordinamento Raoul Chiesa, Claudio Telmon)",
+  "url": "http://www.clusit.it:80/commissioni/cm_ope/cm_ope_corpo.htm",
+  "language": "it",
+  "role": "member (Clusit study commission 'OpenSource e Sicurezza')",
+  "note": "Opened via Wayback capture 20020916132800 (id_; earliest capture of the URL). Page lists 'Membri della commissione: Marco Agnoli, Carlo Iantorno, Marco Ivaldi, Fabio Pietrosanti'; coordinators Raoul Chiesa and Claudio Telmon; 'Stato dei lavori: in corso'. Date = capture date (Sept 2002), founding date of the commission not stated. Consistent with his 2001-2002 security work (I.NET, s0ftpj/sikurezza circle; IBM Forum talk 'OpenSource e Sicurezza' 10/12/2001). No personal data on page.",
+  "verified": true,
+  "known": false
+ }
+]

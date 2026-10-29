@@ -497,6 +497,29 @@ Ogni voce resta aperta finché non è completata; se un limite blocca il lavoro,
   meetup «Longevity Biohacking» al 38C3 (28/12/2024, annunciato su X, assente dalle pagine archiviate); GDELT (429).
   **Proposta**: dopo i residui via Chrome, chiudere la voce — la ricerca automatica sul 2023–2025 è esaurita.
 
+## Note sessione 2026-10-29 (run programmata «ricerca profonda»)
+- **1249 voci** in `data/media.json` (+4 verificate). Prime voci della coda ancora bloccate (chiavi, login, risposte di Fabio,
+  video TimePie): raccolti gli esiti dei job del 28/10 e lanciati 3 agenti (`pass4_milano2001_vaticana`,
+  `pass4_wayback1997_q4`, `pass4_ciaointernet_subs`; negativi in `data/research/leads_negatives_*_2026-10-29.json`).
+- **WeekIT chiuso**: tutti i 3.041 articoli 2002-05 scaricati sul server, **zero** occorrenze di «Pietrosanti»/«naif».
+- **Corriere della Sera 26/01/2001 p.25 «Internet, attacco ai siti di Radio Vaticana e Telethon» (Ma. Po.) → verificato**:
+  la capture Wayback 2011 dell'articolo su archiviostorico.corriere.it dice «Fabio Pietrosanti, esperto di sicurezza di I.Net»
+  con una sua citazione sui «Crime Boys» (defacement del 24/01/2001, attrition.org). **L'esclusione del 18/09 («esperto senza
+  nome») era basata su una premessa errata ed è stata revocata** (`decisions.json` → `reversed_exclusions`). È quasi certamente
+  la ripresa dell'intervista ADNKronos del CV 2001 (lancio presumibilmente del 25/01/2001, non archiviato).
+- **Nuove verificate**: pagina **«Sicurezza-mi»** su kill-9.it (10/2001, firmata «naif && Zen»: lista milanese degli iscritti a
+  sikurezza.org e resoconto della prima pizzata); **CLUSIT, Commissione di Studio «OpenSource e Sicurezza»** (2002, tra i membri);
+  **Ciao Internet #1453** con Marco Calamari (10/10/2025, «ciao naif» a 23:31). Seconda citazione nella 972 (09:44) annotata.
+- **Negativi**: rigadicomando.org, Repubblica 2000-02, ADNKronos Cybernews gen-feb 2001 (non archiviato), Punto Informatico,
+  Hacker Journal (6 numeri), smau.it 2001 (97 pagine di programma), e-privacy 2002-03 (266), webb.it, dotcom.it,
+  firenze.linux.it, vaticanradio.org, espressonline. iltempo.it: CDX sempre 503/504.
+- **Job in corso sul server** (ripartibili, watchdog in crontab): `~/wb_personal1997` (`grep4.py`, ~5.900 capture kill-9.it e
+  degrazia.it, ~9 h; controllo `python3 summ4.py --hits`, fine con ALLDONE in `grep4.log`, poi togliere `watchdog4` dal crontab);
+  `~/ciaointernet_subs` (sottotitoli di tutti i 2.096 video di Ciao Internet, ~26 h, `hits.jsonl`, README nella cartella;
+  «naif» va giudicato a mano perché è anche un aggettivo).
+- **Prossima voce lavorabile:** raccogliere gli esiti dei due job; Il Tempo 26/01/2001 (solo cartaceo/emeroteca); poi proporre
+  a Fabio la chiusura delle voci «Lacuna».
+
 ## Note sessione 2026-10-28 (run programmata «ricerca profonda»)
 - **1232 voci** in `data/media.json` (+1 verificata, +1 talk non verificato). Prime voci della coda ancora bloccate (chiavi,
   login, risposte di Fabio, video TimePie): lavorate le piste indicate il 27/10 con 3 agenti (`pass4_weekit2003_2005`,

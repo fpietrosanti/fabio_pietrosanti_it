@@ -1,6 +1,6 @@
 # Problemi aperti: ricerca e copie offline
 
-Aggiornato il **2026-10-22** (1119 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
+Aggiornato il **2026-10-29** (1249 voci). Da discutere con Fabio: dove siamo bloccati, perché, e cosa proponiamo.
 Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/09); **tutte** le copie processate — 617 con il nome verificato dentro la copia,
 85 video/audio scaricati, il resto suddiviso per causa nelle tabelle B3-bis/B3-ter (dettaglio in `COPIE-OFFLINE.md`).
 
@@ -178,6 +178,21 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   computer in sospensione). Chrome risulta collegato («Browser 1») il 18/09 alle 11:30.
 
 ## B. Problemi nelle COPIE OFFLINE
+
+### B0-duovicies. 2026-10-29
+- Copie delle 4 voci nuove: **tutte ottenute** (Corriere 2001 e kill-9.it e CLUSIT dal Web Archive con il nome presente;
+  Ciao Internet #1453 video in locale).
+- **Ritentati** (`--retry-failed`): invariati i 10 ❌ e i 🟡 noti. **Bug corretto** in `archive_copies.py`: il retry
+  sovrascriveva di nuovo i motivi scritti a mano dei programmi IFF 2017 e 2019 con quello generico; ripristinati, e ora un
+  retry con lo stesso esito conserva il motivo precedente.
+- **Risolto**: Corriere della Sera 26/01/2001 p.25, escluso il 18/09 come «esperto senza nome» → il testo ti nomina
+  («Fabio Pietrosanti, esperto di sicurezza di I.Net»): esclusione revocata, voce verificata.
+- **Domande per te:**
+  (a) Confermi il Corriere del 26/01/2001 (defacement di Radio Vaticana dei «Crime Boys», 24/01/2001)? Era l'intervista
+  ADNKronos del tuo CV? Il lancio ADNKronos e Il Tempo del 26/01/2001 esistono solo su carta.
+  (b) **«Sicurezza-mi»** (kill-9.it, 2001, «naif && Zen»): chi era Zen? Ti va bene come voce (è una pagina di gruppo, non un
+  post di lista)?
+  (c) Restano valide le domande del 28/10 (naif.itapac.net, Il Mondo, IFF 2019) e del 27/10.
 
 ### B0-unvicies. 2026-10-28
 - Copie delle 2 voci nuove: **CEGOS 2001 ottenuta** (nome presente); **programma IFF 2019** 🟡 «senza relatori» per natura

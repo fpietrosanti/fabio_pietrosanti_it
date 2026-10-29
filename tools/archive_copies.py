@@ -348,6 +348,8 @@ def main():
             rec["mirror_of"] = it["mirror_of"]
         if prev and prev["status"] in CLASSIFIED and rec["status"] not in ("obtained", "video-obtained"):
             continue  # a retry that did not find the name must not undo a manual classification
+        if prev and prev.get("reason") and rec["status"] == prev["status"]:
+            rec["reason"] = prev["reason"]  # same outcome: keep the (possibly hand-written) explicit reason
         state[iid] = rec
         print(f"{rec['status']:<22} {rec.get('method') or '':<8} {it.get('year')} {rec['url'][:90]}", flush=True)
         json.dump(sorted(state.values(), key=lambda r: (r["year"] or 0, r["url"])), io.open(state_path, "w", encoding="utf-8"), indent=1, ensure_ascii=False)

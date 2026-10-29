@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1716**; dopo deduplica: **1245**
+- Risultati grezzi dalle ricerche: **1718**; dopo deduplica: **1249**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1190**
-- Verificati aprendo la pagina: **1175**; solo da risultato di ricerca: **70**
+- **Nuovi rispetto al vecchio sito: 1194**
+- Verificati aprendo la pagina: **1178**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 265, tweet 132, Talk 102, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 266, tweet 132, Talk 102, Video 81, Citato 78, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -19,8 +19,8 @@ Per tipo (nuovi): Menzionato 265, tweet 132, Talk 102, Video 80, Citato 76, Post
 | 1998 | 0 | 2 | 2 |
 | 1999 | 0 | 2 | 2 |
 | 2000 | 2 | 18 | 15 |
-| 2001 | 8 | 19 | 14 |
-| 2002 | 2 | 23 | 12 |
+| 2001 | 8 | 21 | 16 |
+| 2002 | 2 | 24 | 13 |
 | 2003 | 5 | 8 | 7 |
 | 2004 | 1 | 12 | 11 |
 | 2005 | 1 | 12 | 9 |
@@ -43,7 +43,7 @@ Per tipo (nuovi): Menzionato 265, tweet 132, Talk 102, Video 80, Citato 76, Post
 | 2022 | 0 | 74 | 74 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
-| 2025 | 0 | 15 | 15 |
+| 2025 | 0 | 16 | 16 |
 | 2026 | 0 | 47 | 47 |
 
 Anni senza nessun risultato: nessuno
@@ -145,8 +145,10 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2026** · Menzionato · make-ai-good.org — [Hermes Center for Transparency and Digital Human Rights — Make AI Good (graph)](https://make-ai-good.org/graph/org-hermes-center/)  
   verified via live; context: …s network it has belonged to since 2018. Founding and structure Hermes was formally registered in 2012 after the GlobaLeaks project — initiated in late 2010 by Fabio Pietrosanti and shared into the Italian hacktivist com… | scheda del grafo Make AI Good: GlobaLeaks avviato da Fabio Pietrosanti nel 2010
 
-## 2025 — 15 voci, 15 nuove
+## 2025 — 16 voci, 16 nuove
 
+- 🆕 **2025-10-10** · Video · YouTube – Ciao Internet (Matteo Flora) — [La vera storia di Cassandra Crossing: da e-privacy alle Svalbard con Marco Calamari #1453](https://www.youtube.com/watch?v=f6W1nARxxpo)  
+  Sottotitoli automatici (it/it-orig) scaricati con yt-dlp sul server il 2026-10-29: a 00:23:29-00:23:31 Flora, con Calamari, ricordando la scena dei diritti digitali italiana: «c'è stato un periodo in cui l'internet italiana dei diritti era naif contro autistici, cioè nel senso ciao naif» — citato per nick (saluto diretto, come in #ONference 2023). Video non scaricato.
 - 🆕 **2025-08-13** · Libro · IGI Global — [Modern Internet Regulations and Laws in Educational Technology](https://books.google.com/books?id=Wwl-EQAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Author: Bruce L. Mann (ISBN 9798337331287). References: 'Pietrosanti, F., & Aterno, S. (2017). Italy unveils a legal proposal to regulate government hacking, Boing ...'.
 - 🆕 **2025-07-16** · article · IRPA - Istituto di ricerche sulla pubblica amministrazione (archivio.irpa.eu) — [Italia come centro dell'industria spyware (insieme a Israele e India)](https://archivio.irpa.eu/italia-come-centro-dellindustria-spyware-insieme-a-israele-e-india/)  
@@ -2344,7 +2346,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2003-01** · Articolo scritto · Win Magazine n.48 (Edizioni Master), gennaio 2003 — [Caccia alle reti wireless - Lo sviluppo delle reti Wi-Fi cresce giorno dopo giorno, ma emergono nuovi problemi di sicurezza (di Fabio Pietrosanti e Yvette Agostini)](https://archive.org/details/win-magazine-italia-48)  
   Co-authored with Yvette Agostini, bylined as members of the Italian Blackhats association; verified in IA OCR text
 
-## 2002 — 23 voci, 12 nuove
+## 2002 — 24 voci, 13 nuove
 
 - ↺ **2002-10-26** · Talk · Italian Black Hats - SMAU 2002, Fiera di Milano — [Ethical Hacker's Speech II - programma (PDF)](https://web.archive.org/web/20040217095659/http://www.blackhats.it:80/en/events/26102002/programma.pdf)  
   Programma ufficiale della giornata ITBH a SMAU 2002: tra i relatori «Fabio Pietrosanti, ITBH»; «Benvenuto ed introduzione ai lavori: Raoul Chiesa aka Nobody … Fabio Pietrosanti aka Naif, ITBH»; introduzione alla sessione pomeridiana con Nobody; poi «Wireless (in)security @ SMAU». Integra il talk già noto (slide su SlideShare).
@@ -2390,10 +2392,12 @@ Anni senza nessun risultato: nessuno
   4-page print article (pp. 56-59) scanned and uploaded to SlideShare by Fabio Pietrosanti on 2009-07-01 as 'ICT Security Magazine: Penetration testing e tigerteam' (description: 'Quando il termine tiger team aveva ancora una accezione positiva!'). Author box on last page: 'Gli Autori: Raoul Chiesa aka Nobody ... / Fabio Pietrosanti aka Naif, Network Security Manager presso la I.NET SpA, IT, ITBH (Italian Black Hats Association) Founder Member'. Issue number/date not visible on scanned pages; year inferred (~2002) from I.NET role + ITBH founding; scan filename 'rs010502a'. Also listed as a local copy in fabio_pietrosanti_it-copies/2010/861f7ed4a4c3 (SlideShare profile snapshot).
 - ↺ **2002** · article · dvara.net (Raoul Chiesa) — [Riflessioni su finanza e hacking (bio di Raoul Chiesa)](https://www.dvara.net/hk/riflessioni_finanza_hacking.pdf)  
   Bio di Chiesa: 'Nel 2001 è tra i fondatori, insieme a Marco Ivaldi aka Raptor e Fabio Pietrosanti aka Naif di ITBH, Italian Black Hats Association'. PDF letto; anno stimato ~2002 (citazioni più recenti 2002).
+- 🆕 **2002** · Menzionato · CLUSIT (clusit.it) — [Commissione di Studio: OpenSource e Sicurezza - Membri della commissione (coordinamento Raoul Chiesa, Claudio Telmon)](http://www.clusit.it:80/commissioni/cm_ope/cm_ope_corpo.htm)  
+  Opened via Wayback capture 20020916132800 (id_; earliest capture of the URL). Page lists 'Membri della commissione: Marco Agnoli, Carlo Iantorno, Marco Ivaldi, Fabio Pietrosanti'; coordinators Raoul Chiesa and Claudio Telmon; 'Stato dei lavori: in corso'. Date = capture date (Sept 2002), founding date of the commission not stated. Consistent with his 2001-2002 security work (I.NET, s0ftpj/sikurezza circle; IBM Forum talk 'OpenSource e Sicurezza' 10/12/2001). No personal data on page.
 - 🆕 **2002** · Menzionato · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (1)](https://www.exploit-db.com/exploits/21746)  
   verified via wayback; context: …n confirmed. Reportedly, this vulnerability may be exploited both as an authenticated user, and with anonymous access to the service. It has been reported, by "Fabio Pietrosanti \(naif\)" <naif@blackhats.it>, that disabl…
 
-## 2001 — 19 voci, 14 nuove
+## 2001 — 21 voci, 16 nuove
 
 - 🆕 **2001-12-14** · Articolo scritto · WeekIT (Mondadori weekly, weekit.it) — [Meglio l'outsourcing o una security interna?](https://web.archive.org/web/20040905215552/http://www.weekit.it:80/weekit/unico/art006004035189.jsp)  
   Section SECURITY. Standfirst: 'Cresce l'offerta dei fornitori di "sicurezza gestita". I criteri di base per valutarne l'affidabilità. E le cautele necessarie' - byline 'di Fabio Pietrosanti 14/12/2001'. Found by crawling the archived weekit.it article pages (Wayback CDX). The Wayback capture was read once during the crawl; a second fetch came back empty, so re-check the capture.
@@ -2407,8 +2411,8 @@ Anni senza nessun risultato: nessuno
   ITBH launch panel in SMAU Area Security; Naif spoke on 'hacking come fenomeno sociale' (with Raoul Chiesa/Nobody, Raptor, Koba, A. Scartezzini)
 - ↺ **2001-10-13** · Talk · AntiKrimen Expo 2001 - Area Sicurezza Informatica — [Storia e psicologia Hacker](http://fabio.pietrosanti.it/)  
   Listed on his personal site
-- 🆕 **2001-10-10** · web page · kill-9.it (sicurezza-mi, Milanese security mailing list; site by Zen) — [Sicurezza-mi - presentazione della lista e resoconto della prima pizzata degli smanettoni milanesi](http://web.archive.org/web/20011230174845id_/http://www.kill-9.it:80/sicurezza-mi/)  
-  Read in full (Wayback, only capture 2001-12-30; page footer 'Page Last updated on Wed Oct 10 ... by zen@kill-9.it, (c) 1999-Y2K+1' -> 10 Oct 2001). Short manifesto of sicurezza-mi@kill-9.it, born as a list for Milan subscribers of ml@sikurezza.org to organize pizzate and meetings; proposes joining the Milan 'smanettoni' scene (MiLug, OpenLabs, LOA HackLab, Geek Girlz) via joint pizzate; reports the first pizzata (~20 people, 4 women); signed 'naif && Zen'. Links to the Pizzaweb sign-up by Rasta at http://www.rigadicomando.org/pizza. No personal data on the page beyond nicks/list e-mails. CDX for kill-9.it/sicurezza-mi* returns only this one capture.
+- 🆕 **2001-10-10** · web page · kill-9.it (sicurezza-mi, Milanese security mailing list; site by Zen) — [Sicurezza-mi - presentazione della lista e resoconto della prima pizzata degli smanettoni milanesi](http://www.kill-9.it/sicurezza-mi/)  
+  Read in full (Wayback, only capture 2001-12-30; page footer 'Page Last updated on Wed Oct 10 ... by zen@kill-9.it, (c) 1999-Y2K+1' -> 10 Oct 2001). Short manifesto of sicurezza-mi@kill-9.it, born as a list for Milan subscribers of ml@sikurezza.org to organize pizzate and meetings; proposes joining the Milan 'smanettoni' scene (MiLug, OpenLabs, LOA HackLab, Geek Girlz) via joint pizzate; reports the first pizzata (~20 people, 4 women); signed 'naif && Zen'. Links to the Pizzaweb sign-up by Rasta at http://www.rigadicomando.org/pizza. No personal data on the page beyond nicks/list e-mails. CDX for kill-9.it/sicurezza-mi* returns only this one capture. Copia Web Archive 20011230174845.
 - 🆕 **2001-09-30** · Menzionato · BFi (Butchered From Inside) n.10 - editorial/index file — [BFi numero 10, file 1 di 18: indice e redazione (naif listed in the editorial staff)](https://www.s0ftpj.org/bfi/online/bfi10/BFi10-01.html)  
   naif listed among BFi redazione (Cavallo, CyRaX, Kundera, NeURo, Raistlin, vecna...) and as author of BFi10-13 'i0 FASTWEB E TU?'
 - 🆕 **2001-09-30** · Articolo scritto · BFi n.10 — [i0 FASTWEB E TU?](http://www.s0ftpj.org/bfi/online/bfi10/BFi10-13.html)  
@@ -2431,6 +2435,10 @@ Anni senza nessun risultato: nessuno
   Multiple PIX security notes, signed I.NET SpA Security Staff; MARC: https://marc.info/?l=bugtraq&m=98433390918280&w=2
 - 🆕 **2001-02-01** · Talk · CEGOS Italia - convegno (Milano, 1-2 febbraio 2001; chairman Avv. Luca de Grazia), pagina programma su degrazia.it — [Come rapportarsi e rispondere ai nuovi hacker (1 febbraio 2001, ore 14.30) - Fabio Pietrosanti, Security Manager I.NET](https://web.archive.org/web/20010202161200/http://www.degrazia.it:80/cegos1.html)  
   Programma della prima giornata (1/2/2001): dopo Ugo Poggi (GdF), Emilia Rosti (CERT-IT), Scartezzini/Di Nicola (Transcrime), alle 14.30 'Come rapportarsi e rispondere ai nuovi hacker. Hacker: chi sono, come si comportano... Quale vantaggio aziendale nell'impiego di hacker come addetti alla security aziendale' - Fabio Pietrosanti, Security Manager I.NET; chiude Corrado Giustozzi. Il suo curriculum.txt del 2001 su naif.itapac.net annuncia 'una conferenza sulla Security come Relatore... www.degrazia.it/cegos1.html'. Talk più antico finora documentato (precede AntiKrimen 13/10/2001). Pagina aperta (capture id_ 20010202161200).
+- 🆕 **2001-01-26** · Citato · Corriere della Sera (ed. nazionale, p. 25, Cronache) — [Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma pirati'](https://archivio.corriere.it/Archivio/interface/landing.html) _(non verificato)_  
+  Corriere archive API: this is the only 1995-2012 article matching both 'Pietrosanti' and 'hacker', and it ranks first for 'Fabio Pietrosanti'; subhead cites an unnamed 'esperto' (likely him, then at I.NET). Full text is behind the archive login and was not read - verify manually
+- 🆕 **2001-01-26** · Citato · Corriere della Sera (ed. nazionale, p. 25) — [Internet, attacco ai siti di Radio Vaticana e Telethon - I responsabili dell'emittente della Santa Sede: «Nessun danno». L'esperto: non sono hacker, ma pirati](http://archiviostorico.corriere.it/2001/gennaio/26/Internet_attacco_siti_Radio_Vaticana_co_0_010126372.shtml)  
+  Opened in full via Wayback capture 20110929134828 (id_). Text names him explicitly: 'Fabio Pietrosanti, esperto di sicurezza di I.Net, pensa a dilettanti ansiosi di farsi passare per hacker' and quotes him on the IIS bugs ('chi l'ha attaccata non ha nulla a che fare con gli hacker, che sono appassionati di programmazione, non pirati'). Byline 'Ma. Po.', 'Pagina 25 (26 gennaio 2001)'. Defacement by the Brazilian group 'Crime Boys'. This is the SAME article excluded in decisions.json (url archivio.corriere.it/Archivio/interface/landing.html, reason 'unnamed esperto'): the exclusion premise is now refuted, the name is in the text -> Fabio should lift the exclusion. Also matches raw/pass4_milano2001_vaticana_2026-10-29.json (where it was verified=false).
 - 🆕 **2001** · Progetto · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) _(non verificato)_  
   Association he co-founded; site offline and the Wayback Machine was down during this research
 

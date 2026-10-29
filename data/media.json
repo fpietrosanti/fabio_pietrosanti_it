@@ -1571,6 +1571,40 @@
   "on_old_site": false
  },
  {
+  "date": "2001-01-26",
+  "year": 2001,
+  "type": "quoted",
+  "outlet": "Corriere della Sera (ed. nazionale, p. 25, Cronache)",
+  "title": "Internet, attacco ai siti di Radio Vaticana e Telethon - 'L'esperto: non sono hacker, ma pirati'",
+  "url": "https://archivio.corriere.it/Archivio/interface/landing.html",
+  "language": "it",
+  "role": "quoted",
+  "note": "Corriere archive API: this is the only 1995-2012 article matching both 'Pietrosanti' and 'hacker', and it ranks first for 'Fabio Pietrosanti'; subhead cites an unnamed 'esperto' (likely him, then at I.NET). Full text is behind the archive login and was not read - verify manually",
+  "verified": false,
+  "known": false,
+  "_slices": [
+   "pass2_a_1995_2008"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2001-01-26",
+  "year": 2001,
+  "type": "quoted",
+  "outlet": "Corriere della Sera (ed. nazionale, p. 25)",
+  "title": "Internet, attacco ai siti di Radio Vaticana e Telethon - I responsabili dell'emittente della Santa Sede: «Nessun danno». L'esperto: non sono hacker, ma pirati",
+  "url": "http://archiviostorico.corriere.it/2001/gennaio/26/Internet_attacco_siti_Radio_Vaticana_co_0_010126372.shtml",
+  "language": "it",
+  "role": "quoted (esperto di sicurezza di I.Net)",
+  "note": "Opened in full via Wayback capture 20110929134828 (id_). Text names him explicitly: 'Fabio Pietrosanti, esperto di sicurezza di I.Net, pensa a dilettanti ansiosi di farsi passare per hacker' and quotes him on the IIS bugs ('chi l'ha attaccata non ha nulla a che fare con gli hacker, che sono appassionati di programmazione, non pirati'). Byline 'Ma. Po.', 'Pagina 25 (26 gennaio 2001)'. Defacement by the Brazilian group 'Crime Boys'. This is the SAME article excluded in decisions.json (url archivio.corriere.it/Archivio/interface/landing.html, reason 'unnamed esperto'): the exclusion premise is now refuted, the name is in the text -> Fabio should lift the exclusion. Also matches raw/pass4_milano2001_vaticana_2026-10-29.json (where it was verified=false).",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback1997_q4_2026-10-29"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2001-02-01",
   "year": 2001,
   "type": "talk",
@@ -1766,10 +1800,10 @@
   "type": "web page",
   "outlet": "kill-9.it (sicurezza-mi, Milanese security mailing list; site by Zen)",
   "title": "Sicurezza-mi - presentazione della lista e resoconto della prima pizzata degli smanettoni milanesi",
-  "url": "http://web.archive.org/web/20011230174845id_/http://www.kill-9.it:80/sicurezza-mi/",
+  "url": "http://www.kill-9.it/sicurezza-mi/",
   "language": "it",
   "role": "author (co-signed 'naif && Zen')",
-  "note": "Read in full (Wayback, only capture 2001-12-30; page footer 'Page Last updated on Wed Oct 10 ... by zen@kill-9.it, (c) 1999-Y2K+1' -> 10 Oct 2001). Short manifesto of sicurezza-mi@kill-9.it, born as a list for Milan subscribers of ml@sikurezza.org to organize pizzate and meetings; proposes joining the Milan 'smanettoni' scene (MiLug, OpenLabs, LOA HackLab, Geek Girlz) via joint pizzate; reports the first pizzata (~20 people, 4 women); signed 'naif && Zen'. Links to the Pizzaweb sign-up by Rasta at http://www.rigadicomando.org/pizza. No personal data on the page beyond nicks/list e-mails. CDX for kill-9.it/sicurezza-mi* returns only this one capture.",
+  "note": "Read in full (Wayback, only capture 2001-12-30; page footer 'Page Last updated on Wed Oct 10 ... by zen@kill-9.it, (c) 1999-Y2K+1' -> 10 Oct 2001). Short manifesto of sicurezza-mi@kill-9.it, born as a list for Milan subscribers of ml@sikurezza.org to organize pizzate and meetings; proposes joining the Milan 'smanettoni' scene (MiLug, OpenLabs, LOA HackLab, Geek Girlz) via joint pizzate; reports the first pizzata (~20 people, 4 women); signed 'naif && Zen'. Links to the Pizzaweb sign-up by Rasta at http://www.rigadicomando.org/pizza. No personal data on the page beyond nicks/list e-mails. CDX for kill-9.it/sicurezza-mi* returns only this one capture. Copia Web Archive 20011230174845.",
   "verified": true,
   "known": false,
   "_slices": [
@@ -1933,6 +1967,23 @@
    "pass4_google_fabio_cyberchallenge_securitysummit_2026-10-12"
   ],
   "on_old_site": true
+ },
+ {
+  "date": "2002",
+  "year": 2002,
+  "type": "mentioned",
+  "outlet": "CLUSIT (clusit.it)",
+  "title": "Commissione di Studio: OpenSource e Sicurezza - Membri della commissione (coordinamento Raoul Chiesa, Claudio Telmon)",
+  "url": "http://www.clusit.it:80/commissioni/cm_ope/cm_ope_corpo.htm",
+  "language": "it",
+  "role": "member (Clusit study commission 'OpenSource e Sicurezza')",
+  "note": "Opened via Wayback capture 20020916132800 (id_; earliest capture of the URL). Page lists 'Membri della commissione: Marco Agnoli, Carlo Iantorno, Marco Ivaldi, Fabio Pietrosanti'; coordinators Raoul Chiesa and Claudio Telmon; 'Stato dei lavori: in corso'. Date = capture date (Sept 2002), founding date of the commission not stated. Consistent with his 2001-2002 security work (I.NET, s0ftpj/sikurezza circle; IBM Forum talk 'OpenSource e Sicurezza' 10/12/2001). No personal data on page.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_wayback1997_q4_2026-10-29"
+  ],
+  "on_old_site": false
  },
  {
   "date": "2002-01-17",
@@ -21500,6 +21551,23 @@
   ],
   "tags": [
    "books"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2025-10-10",
+  "year": 2025,
+  "type": "video",
+  "outlet": "YouTube – Ciao Internet (Matteo Flora)",
+  "title": "La vera storia di Cassandra Crossing: da e-privacy alle Svalbard con Marco Calamari #1453",
+  "url": "https://www.youtube.com/watch?v=f6W1nARxxpo",
+  "language": "it",
+  "role": "cited",
+  "note": "Sottotitoli automatici (it/it-orig) scaricati con yt-dlp sul server il 2026-10-29: a 00:23:29-00:23:31 Flora, con Calamari, ricordando la scena dei diritti digitali italiana: «c'è stato un periodo in cui l'internet italiana dei diritti era naif contro autistici, cioè nel senso ciao naif» — citato per nick (saluto diretto, come in #ONference 2023). Video non scaricato.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_ciaointernet_subs_2026-10-29"
   ],
   "on_old_site": false
  },

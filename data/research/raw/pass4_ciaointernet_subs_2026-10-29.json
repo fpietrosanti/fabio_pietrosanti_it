@@ -11,5 +11,18 @@
   "note": "Sottotitoli automatici YouTube (it/it-orig) scaricati con yt-dlp sul server il 2026-10-29 (solo sottotitoli). ~00:01:47: «baccano anche fabio pietrosanti lo fanno» (contesto: italiane | in realtà ne parla lui in fa tanto | baccano anche fabio pietrosanti lo fanno | da un po ma il problema non è mica nuovo | rapetto ne aveva parlato nel 2017 già); ~00:09:44: «quintarelli a pietro santi a chi ne» (contesto: non solo | in realtà capisco la logica dietro a | quintarelli a pietro santi a chi ne | parla perché se ci pensate giri pr | normativa europea sulla privacy). Citato, non ospite.",
   "verified": true,
   "known": true
+ },
+ {
+  "date": "2025-10-10",
+  "year": 2025,
+  "type": "video",
+  "outlet": "YouTube – Ciao Internet (Matteo Flora)",
+  "title": "La vera storia di Cassandra Crossing: da e-privacy alle Svalbard con Marco Calamari #1453",
+  "url": "https://www.youtube.com/watch?v=f6W1nARxxpo",
+  "language": "it",
+  "role": "cited",
+  "note": "Sottotitoli automatici (it/it-orig) scaricati con yt-dlp sul server il 2026-10-29: a 00:23:29-00:23:31 Flora, con Calamari, ricordando la scena dei diritti digitali italiana: «c'è stato un periodo in cui l'internet italiana dei diritti era naif contro autistici, cioè nel senso ciao naif» — citato per nick (saluto diretto, come in #ONference 2023). Video non scaricato.",
+  "verified": true,
+  "known": false
  }
 ]

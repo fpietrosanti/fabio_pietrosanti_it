@@ -24,10 +24,6 @@
    "reason": "idem"
   },
   {
-   "url": "https://archivio.corriere.it/Archivio/interface/landing.html",
-   "reason": "Corriere 2001-01-26: an unnamed 'esperto'; Fabio's rule: without his name or nick it is not him"
-  },
-  {
    "url": "https://www.punto-informatico.it/pietrosanti-una-corte-per-internet/",
    "reason": "Paolo Pietrosanti"
   },
@@ -1491,7 +1487,11 @@
   "2026-10-23 Class Life (Class Editori TV, feb. 2010), video PrivateWave/PrivateGSM: eri tu? Mai archiviato.",
   "2026-10-23 Rassegna stampa PrivateWave 2010 (39 PDF: Economy, L'Espresso, Il Mondo, Il Sole 24 Ore 28/11/2010…): hai ancora i PDF? Il sito è 403 e il Web Archive non li ha.",
   "2026-10-23 Logistica Sostenibile 03/06/2022 «Costruire comunità sostenibili»: relatore 'Fabio Pietrosanti, Amministratore unico, LESS Impresa Sociale' - sei tu? Per ora escluso.",
-  "2026-10-27: commento HTML «pagina e server bucato da naif la notte del 30 agosto 2000» nella homepage di Hackmeeting 1999 — è tuo? va archiviato? Tenuto fuori dal sito pubblico (solo nel repo privato, _in_attesa/) finché non decidi"
+  "2026-10-27: commento HTML «pagina e server bucato da naif la notte del 30 agosto 2000» nella homepage di Hackmeeting 1999 — è tuo? va archiviato? Tenuto fuori dal sito pubblico (solo nel repo privato, _in_attesa/) finché non decidi",
+  {
+   "item": "Corriere della Sera 26/01/2001 p.25 «Internet, attacco ai siti di Radio Vaticana e Telethon»",
+   "status": "2026-10-29: il testo ti nomina («Fabio Pietrosanti, esperto di sicurezza di I.Net»): esclusione revocata e voce verificata. Confermi? È anche l'intervista ADNKronos del CV 2001 (defacement dei Crime Boys del 24/01/2001)?"
+  }
  ],
  "answers_2026_10_05": {
   "A0.1 dati personali scuole": "non interessa, va bene così: nessuna richiesta di oscuramento; le copie restano solo nell'archivio privato",
@@ -1528,5 +1528,12 @@
   "Slide 73° Mercoledì di Nexa 2015": "sì, tenerle come allegato del suo talk",
   "Conferenza PouL 2013 con Agosti": "entrambi hanno parlato di entrambi i temi",
   "ESC 2011 Globaleaks Live Launch": "sì, è lui che parla → voce verificata"
- }
+ },
+ "reversed_exclusions": [
+  {
+   "url": "https://archivio.corriere.it/Archivio/interface/landing.html",
+   "date": "2026-10-29",
+   "reason": "Esclusione del 18/09 revocata: la capture Wayback 20110929134828 di archiviostorico.corriere.it/2001/gennaio/26/Internet_attacco_siti_Radio_Vaticana_co_0_010126372.shtml contiene «Fabio Pietrosanti, esperto di sicurezza di I.Net» con una sua citazione; la premessa ('esperto senza nome') era errata. Voce ora verificata con l'URL dell'articolo; da confermare a Fabio."
+  }
+ ]
 }

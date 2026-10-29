@@ -1,0 +1,353 @@
+[
+ {
+  "source": "STATO JOB",
+  "query_or_url": "server ubuntu@51.158.36.151:~/wb_personal1997 (run4.sh, grep4.py, cdx5.py, watchdog4.sh in cron */15)",
+  "result": "IN CORSO: grep delle catture kill-9.it e degrazia.it non ancora finito; i conteggi 'pending' sotto sono le catture ancora da scaricare",
+  "note": "Raccolta: ssh ubuntu@51.158.36.151 'cd ~/wb_personal1997; tail -3 grep4.log; python3 summ4.py --hits' (ALLDONE in grep4.log = finito). Riavvio: ./watchdog4.sh (idempotente; il cron lo rilancia da solo ogni 15 min se il job muore). A fine lavoro rimuovere la riga watchdog4 da crontab."
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "archiviostorico.corriere.it/2000/ (prefix) filter original:.*([Vv]atican|[Hh]acker|[Pp]irat).*",
+  "result": "negativo. 202 righe CDX; 149 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 149; hits 0",
+  "note": "47 duplicati di altre query",
+  "counts": {
+   "captures_fetched": 149,
+   "hits": 0,
+   "negatives": 149,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "archiviostorico.corriere.it/2001/ (prefix) filter original:.*([Vv]atican|[Hh]acker|[Pp]irat).*",
+  "result": "POSITIVO: 2001/gennaio/26/Internet_attacco_siti_Radio_Vaticana (Corriere p.25, citato per nome) - vedi raw. 298 righe CDX; 286 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 286; hits 1",
+  "note": "",
+  "counts": {
+   "captures_fetched": 286,
+   "hits": 1,
+   "negatives": 285,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "espressonline.kataweb.it (domain, from 2000, to 2002) filter original:.*[Hh]acker.*",
+  "result": "negativo. 0 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "firenze.linux.it (domain, to 2002) filter original:.*[Pp]rivacy.*",
+  "result": "negativo. 391 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 144 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "146 duplicati di altre query",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "vaticanradio.org (domain, from 1999, to 2001)",
+  "result": "negativo. 2696 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "2282 URL esclusi dal filtro locale sugli slug",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5_results.json)",
+  "query_or_url": "archiviostorico.corriere.it/2000/ (prefix, from 2000, to 2001) limit 5000",
+  "result": "negativo. 0 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "espressonline.kataweb.it (domain, from 2000, to 2002)",
+  "result": "negativo. 5000 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "5 URL esclusi dal filtro locale sugli slug; risultato troncato al limite 5000 righe",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "www.smau.it (prefix, from 2001, to 2001) limit 3000",
+  "result": "negativo. 3000 righe CDX; 97 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 97; hits 0",
+  "note": "2386 URL smau.it saltati dal filtro programma/relatori/seminari",
+  "counts": {
+   "captures_fetched": 97,
+   "hits": 0,
+   "negatives": 97,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "naif.itapac.net (prefix, from 2002)",
+  "result": "Sito personale gia' noto (non e' una voce nuova): elenco delle pagine 2002-2006 in 'note'. 64 righe CDX; 50 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 50; hits 44",
+  "note": "naif.itapac.net pagine archiviate 2002-2006 (nuove rispetto al curriculum.txt 2001 gia' noto; contenuti NON copiati, contengono dati personali in contacts/contact-*): index.shtml, index-en.shtml, curriculum.shtml, competence-it/-en.shtml (2005-04-04), services-it/-en.shtml (2005), media-it/-en.shtml ('Papers and Conference: Work in Progress', vuota), reference-it/-en.shtml ('Work in Progress', vuota), link-it/-en.shtml, links.shtml, parole.shtml, server.shtml, tech.shtml, photo/photogallery.php (incl. wlan_sec_analisys.jpg), tech/adv/{cisco_pix_notes,cisco_pix_smtp,cisco_pix_ftp,bind_8_dos,mailstudio2000}.txt (copie dei suoi advisory, gia' in media.json via bugtraq/securityfocus), tech/post/{astaro,certificazioni,chrooted,criminalita,denunciareono,firewallpiercing,idseval,mpls,riflessioni2001,synflood,tcpoverlap}.txt (copie locali dei suoi post a ml@sikurezza.org 2001-2002, verificato dalle intestazioni 'Archivio: ... ml@sikurezza.org' -> post di mailing list, non contano), tech/old/dte2221/2222.txt, chiavi naif.asc / fabiopietrosanti.asc, morf.tgz, PIXLOG_latest_192_168.bz2.",
+  "counts": {
+   "captures_fetched": 50,
+   "hits": 44,
+   "negatives": 6,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "antikrimen.it (domain, to 2002)",
+  "result": "negativo. 107 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 76 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "clusit.it (domain, to 2002)",
+  "result": "POSITIVO: commissioni/cm_ope/cm_ope_corpo.htm (Commissione OpenSource e Sicurezza, membro) - vedi raw. 295 righe CDX; 44 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 44; hits 1",
+  "note": "140 URL esclusi dal filtro locale sugli slug",
+  "counts": {
+   "captures_fetched": 44,
+   "hits": 1,
+   "negatives": 43,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "dotcom.it (domain, to 2002)",
+  "result": "negativo. 4 righe CDX; 2 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 2; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 2,
+   "hits": 0,
+   "negatives": 2,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "firenze.linux.it (domain, to 2002)",
+  "result": "negativo. 5000 righe CDX; 146 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 144 gia' grepate nel pass 1; fetch ok 146; hits 0",
+  "note": "3701 URL esclusi dal filtro locale sugli slug; risultato troncato al limite 5000 righe",
+  "counts": {
+   "captures_fetched": 146,
+   "hits": 0,
+   "negatives": 146,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "ilmondo.rcs.it (domain, to 2002)",
+  "result": "negativo. 66 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 18 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "sicurmatica.it (domain, to 2002)",
+  "result": "negativo. 198 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 83 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "webb.it (domain, to 2002)",
+  "result": "negativo. 4526 righe CDX; 4 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 4; hits 0",
+  "note": "3625 URL esclusi dal filtro locale sugli slug",
+  "counts": {
+   "captures_fetched": 4,
+   "hits": 0,
+   "negatives": 4,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "degrazia.it (domain, to 2003)",
+  "result": "IN CORSO (nessun hit finora). 5000 righe CDX; 4726 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "4726 catture ANCORA DA SCARICARE (job in corso sul server); risultato troncato al limite 5000 righe",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 4726
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "kill-9.it (domain, to 2003)",
+  "result": "IN CORSO (nessun hit finora). 2651 righe CDX; 2533 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 14 gia' grepate nel pass 1; fetch ok 1173; hits 0",
+  "note": "1360 catture ANCORA DA SCARICARE (job in corso sul server)",
+  "counts": {
+   "captures_fetched": 1173,
+   "hits": 0,
+   "negatives": 1173,
+   "not_fetchable": 0,
+   "pending": 1360
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "lns.it (domain, to 2003)",
+  "result": "negativo. 96 righe CDX; 6 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 55 gia' grepate nel pass 1; fetch ok 6; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 6,
+   "hits": 0,
+   "negatives": 6,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "winstonsmith.info (domain, to 2003)",
+  "result": "negativo. 3 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 3 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "e-privacy.firenze.linux.it (prefix, to 2003)",
+  "result": "negativo. 652 righe CDX; 266 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 144 gia' grepate nel pass 1; fetch ok 266; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 266,
+   "hits": 0,
+   "negatives": 266,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "e-privacy.winstonsmith.info (prefix, to 2003)",
+  "result": "negativo. 0 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "archiviostorico.corriere.it/2000/febbraio/ (prefix)",
+  "result": "negativo. 5000 righe CDX; 31 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 31; hits 0",
+  "note": "4671 URL esclusi dal filtro locale sugli slug; risultato troncato al limite 5000 righe",
+  "counts": {
+   "captures_fetched": 31,
+   "hits": 0,
+   "negatives": 31,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx5c_results.json)",
+  "query_or_url": "archiviostorico.corriere.it/2000/gennaio/ (prefix)",
+  "result": "negativo. 5000 righe CDX; 16 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 16; hits 0",
+  "note": "4697 URL esclusi dal filtro locale sugli slug; risultato troncato al limite 5000 righe",
+  "counts": {
+   "captures_fetched": 16,
+   "hits": 0,
+   "negatives": 16,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX (cdx4_results.json)",
+  "query_or_url": "smau.it/2001 (prefix)",
+  "result": "negativo. 1 righe CDX; 0 catture candidate (200, html/plain/pdf, dedup per URL, earliest); 0 gia' grepate nel pass 1; fetch ok 0; hits 0",
+  "note": "",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0
+  }
+ },
+ {
+  "source": "Wayback CDX - query fallite",
+  "query_or_url": "iltempo.it (domain, 2000-2001), con e senza filtro, anche prefix www.iltempo.it/",
+  "result": "ANCORA FALLITA: HTTP 500/503/504 a ogni tentativo (4 run, backoff 30-120 s; curl diretto: 503 'Temporarily Offline' immediato -> dominio probabilmente non servito dal CDX)",
+  "note": "non coperto",
+  "counts": {
+   "captures_fetched": 0,
+   "hits": 0,
+   "negatives": 0,
+   "not_fetchable": 0,
+   "pending": 0,
+   "still_failing": true
+  }
+ },
+ {
+  "source": "Wayback CDX - nota tecnica",
+  "query_or_url": "filtri con '(?i)' inline",
+  "result": "Il CDX oggi risponde 500 a tutti i filtri regex con '(?i)'; riscritti con classi di caratteri ([Hh]acker ecc.) funzionano. Query non filtrate troncate a 5000 righe (firenze.linux.it, espressonline.kataweb.it, corriere 2000/gennaio e /febbraio) usate solo come supplemento.",
+  "note": ""
+ }
+]
