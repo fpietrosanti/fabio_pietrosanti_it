@@ -3956,51 +3956,115 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Linux Day\" OR \"LUG\" relatore 2005 OR 2006 OR 2007 OR 2008",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)",
+      "done": "2026-10-29 18:00",
+      "found": 1
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Hackmeeting\" OR \"hackit\" seminario 2005 OR 2006 OR 2007",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)",
+      "done": "2026-10-29 18:00",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Bluetooth\" OR \"RFID\" OR \"GSM\" sicurezza 2005 OR 2006 OR 2007",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)",
+      "done": "2026-10-29 18:00",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" \"anonimato\" OR \"Tor\" intervista 2023 OR 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)",
+      "done": "2026-10-29 18:00",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" \"longevità\" OR \"biohacking\" OR \"Fund Longevity\" 2025 OR 2026",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)",
+      "done": "2026-10-29 18:00",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"sovranità digitale\" OR \"MxMap\" 2026",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)",
+      "done": "2026-10-29 18:00",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"spyware\" OR \"Paragon\" OR \"Graphite\" 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)",
+      "done": "2026-10-29 18:00",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Chat Control\" OR \"crittografia end-to-end\" 2023 OR 2024 OR 2025",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)",
+      "done": "2026-10-29 18:00",
+      "found": 8
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Android OR iPhone sicurezza intervista",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+      "note": "aggiunta 2026-10-29 18:00: coda esaurita; angoli mai interrogati (Android/iPhone, SMS/OpenBTS, Bitcoin/blockchain, deep/dark web, OSINT/IoT, Report/PresaDiretta, elezioni/voto, mafia/criminalità)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"SMS\" OR \"OpenBTS\" OR \"IMSI catcher\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 18:00: coda esaurita; angoli mai interrogati (Android/iPhone, SMS/OpenBTS, Bitcoin/blockchain, deep/dark web, OSINT/IoT, Report/PresaDiretta, elezioni/voto, mafia/criminalità)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" Bitcoin OR blockchain",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 18:00: coda esaurita; angoli mai interrogati (Android/iPhone, SMS/OpenBTS, Bitcoin/blockchain, deep/dark web, OSINT/IoT, Report/PresaDiretta, elezioni/voto, mafia/criminalità)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"deep web\" OR \"dark web\"",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 18:00: coda esaurita; angoli mai interrogati (Android/iPhone, SMS/OpenBTS, Bitcoin/blockchain, deep/dark web, OSINT/IoT, Report/PresaDiretta, elezioni/voto, mafia/criminalità)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" OSINT OR \"Internet delle cose\" OR IoT",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 18:00: coda esaurita; angoli mai interrogati (Android/iPhone, SMS/OpenBTS, Bitcoin/blockchain, deep/dark web, OSINT/IoT, Report/PresaDiretta, elezioni/voto, mafia/criminalità)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Report\" OR \"PresaDiretta\" Rai inchiesta",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 18:00: coda esaurita; angoli mai interrogati (Android/iPhone, SMS/OpenBTS, Bitcoin/blockchain, deep/dark web, OSINT/IoT, Report/PresaDiretta, elezioni/voto, mafia/criminalità)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" elezioni OR \"voto online\" OR primarie",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 18:00: coda esaurita; angoli mai interrogati (Android/iPhone, SMS/OpenBTS, Bitcoin/blockchain, deep/dark web, OSINT/IoT, Report/PresaDiretta, elezioni/voto, mafia/criminalità)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" mafia OR antimafia OR criminalità whistleblowing",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 18:00: coda esaurita; angoli mai interrogati (Android/iPhone, SMS/OpenBTS, Bitcoin/blockchain, deep/dark web, OSINT/IoT, Report/PresaDiretta, elezioni/voto, mafia/criminalità)"
     }
   ],
   "history": [
@@ -5016,6 +5080,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale 2005-07, VoIP 2006-08, data breach 2023-25) con chiave localStorage gqr20261029-1330 inizializzata a {} e stop del batch al robot check: nessun robot check, 58 risultati, 52 URL distinti. Scartati senza verifica: LinkedIn (6), mailing list nexa hyperkitty (4), flug 2008 (2), freelists linuxtrent, forum.italia.it, infosecurity.ch (proprio) e 7 PDF di richieste FOIA Monitora PA pubblicati dalle scuole (atti con dati personali; 5 nuovi aggiunti a exclude). 30 candidati verificati: 21 respinti o già in archivio (1 FAIL robyone.net), 9 OK tutti già noti: 8 già in decisions.json, 1 (easyteam /easynews/la-risposta-alla-nuova-richiesta-di-monitora-pa/) è URL alternativo del post già in archivio (pass2) → exclude. File grezzo pass3 lasciato vuoto. Nel merge sono entrate 1 voce nuova (sicurezza-mi 2001, kill-9.it via Wayback) da file pass4 del 2026-10-29 lasciati non committati da un'altra sessione (ciaointernet_subs, milano2001_vaticana): committati con questo giro. Voci 1245; copie: 1181 ottenute + 119 video, nessuna pendente. Aggiunte 8 query nuove (2005-08 Linux Day/Hackmeeting/RFID-GSM; 2023-26 Tor, biohacking, MxMap, Paragon, Chat Control)."
+    },
+    {
+      "date": "2026-10-29 18:00",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 0,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (Linux Day/LUG 2005-08, Hackmeeting 2005-07, Bluetooth/RFID/GSM 2005-07, Tor/anonimato 2023-25, longevità/biohacking 2025-26, sovranità digitale/MxMap 2026, spyware Paragon 2025, Chat Control 2023-25) con chiave localStorage gqr20261029-1800 e stop del batch al robot check: nessun robot check, 67 risultati, 63 URL distinti (un blocco di 8 restituito senza query string per il filtro del tool; ID YouTube recuperato a parte). Scartati senza verifica: LinkedIn (7), mailing list hackmeeting inventati (8), seclists fulldisclosure, freelists linuxtrent (2), nexa hyperkitty, flug 2008, infosecurity.ch e x.com (propri), zh.wikipedia, instagram reel, firma IPS Juniper. 38 candidati verificati: 30 respinti o già in archivio (2 NO per shell JS: facebook Pietro Mereu Longevity Fest, video.poul.org); 8 OK tutti già noti o falsi positivi: 4 già in decisions.json exclude (schneier commento, pr-foundation /content/, irpa, IJF Pellerano), 4 aggiunti a exclude (slideshare 1321035 riquadro correlati, dalchecco tag mobile-forensics = IISFA 2017 già in archivio, oggiroma omonimo giornalista/mostra Pasolini, hackingbiology.com/news/ pagina indice). File grezzo pass3 lasciato vuoto. Nessuna voce nuova (1249), copie: 1184 ottenute + 120 video, nessuna pendente. Aggiunte 8 query su angoli mai interrogati (Android/iPhone, SMS/OpenBTS, Bitcoin, deep web, OSINT/IoT, Report/PresaDiretta, elezioni, antimafia)."
     }
   ]
 }
