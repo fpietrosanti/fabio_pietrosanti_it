@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1713**; dopo deduplica: **1244**
+- Risultati grezzi dalle ricerche: **1716**; dopo deduplica: **1245**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1189**
-- Verificati aprendo la pagina: **1174**; solo da risultato di ricerca: **70**
+- **Nuovi rispetto al vecchio sito: 1190**
+- Verificati aprendo la pagina: **1175**; solo da risultato di ricerca: **70**
 
-Per tipo (nuovi): Menzionato 265, tweet 132, Talk 102, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 265, tweet 132, Talk 102, Video 80, Citato 76, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -19,7 +19,7 @@ Per tipo (nuovi): Menzionato 265, tweet 132, Talk 102, Video 80, Citato 76, Post
 | 1998 | 0 | 2 | 2 |
 | 1999 | 0 | 2 | 2 |
 | 2000 | 2 | 18 | 15 |
-| 2001 | 8 | 18 | 13 |
+| 2001 | 8 | 19 | 14 |
 | 2002 | 2 | 23 | 12 |
 | 2003 | 5 | 8 | 7 |
 | 2004 | 1 | 12 | 11 |
@@ -356,8 +356,8 @@ Anni senza nessun risultato: nessuno
   Re-confirmed; only real hit of cybersecurity360 site search for Pietrosanti besides Ciao Carola
 - 🆕 **2022-03-15** · Citato · Europa Today — ["Sostituite l'antivirus Kaspersky, può essere usato per attacchi informatici dalla Russia"](https://europa.today.it/attualita/kaspersky-attacchi-informatici-russia.html)  
   Quotes the 'digital activist Fabio Pietrosanti' from his Il Riformista interview
-- 🆕 **2022-03-15** · Video · Ciao Internet - Matteo Flora (YouTube) — [972. KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!](https://www.youtube.com/watch?v=DzseEg-SYAg)  
-  Flora a ~00:01:47: «ne parla lui, fa tanto baccano anche Fabio Pietrosanti» (sul rischio Kaspersky nelle infrastrutture critiche). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video. Citato, non ospite.
+- 🆕 **2022-03-15** · Video · YouTube – Ciao Internet (Matteo Flora) — [972. KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!](https://www.youtube.com/watch?v=DzseEg-SYAg)  
+  Sottotitoli automatici YouTube (it/it-orig) scaricati con yt-dlp sul server il 2026-10-29 (solo sottotitoli). ~00:01:47: «baccano anche fabio pietrosanti lo fanno» (contesto: italiane | in realtà ne parla lui in fa tanto | baccano anche fabio pietrosanti lo fanno | da un po ma il problema non è mica nuovo | rapetto ne aveva parlato nel 2017 già); ~00:09:44: «quintarelli a pietro santi a chi ne» (contesto: non solo | in realtà capisco la logica dietro a | quintarelli a pietro santi a chi ne | parla perché se ci pensate giri pr | normativa europea sulla privacy). Citato, non ospite.
 - 🆕 **2022-03-15** · Podcast · Ciao, Internet! con Matteo Flora (Spreaker) — [KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware russo? Tutte le risposte!](https://www.spreaker.com/episode/kaspersky-antivirus-e-pericoloso-va-rimosso-e-un-malware-russo-tutte-le-risposte--49065639)  
   Versione audio della puntata YouTube DzseEg-SYAg. Già in archivio come non verificata: ora VERIFICATA tramite i sottotitoli del video gemello (Flora a ~00:01:47: «ne parla lui, fa tanto baccano anche Fabio Pietrosanti» (sul rischio Kaspersky nelle infrastrutture critiche). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video. Citato, non ospite.)
 - 🆕 **2022-03-15** · Citato · Il Riformista — ["Disinstallate Kaspersky dai PC", i servizi segreti lanciano l'allarme per l'antivirus usato da Farnesina e Viminale](https://www.ilriformista.it/disinstallate-kaspersky-dai-pc-i-servizi-segreti-lanciano-lallarme-per-lantivirus-usato-da-farnesina-e-viminale-286552/)  
@@ -2393,7 +2393,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2002** · Menzionato · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (1)](https://www.exploit-db.com/exploits/21746)  
   verified via wayback; context: …n confirmed. Reportedly, this vulnerability may be exploited both as an authenticated user, and with anonymous access to the service. It has been reported, by "Fabio Pietrosanti \(naif\)" <naif@blackhats.it>, that disabl…
 
-## 2001 — 18 voci, 13 nuove
+## 2001 — 19 voci, 14 nuove
 
 - 🆕 **2001-12-14** · Articolo scritto · WeekIT (Mondadori weekly, weekit.it) — [Meglio l'outsourcing o una security interna?](https://web.archive.org/web/20040905215552/http://www.weekit.it:80/weekit/unico/art006004035189.jsp)  
   Section SECURITY. Standfirst: 'Cresce l'offerta dei fornitori di "sicurezza gestita". I criteri di base per valutarne l'affidabilità. E le cautele necessarie' - byline 'di Fabio Pietrosanti 14/12/2001'. Found by crawling the archived weekit.it article pages (Wayback CDX). The Wayback capture was read once during the crawl; a second fetch came back empty, so re-check the capture.
@@ -2407,6 +2407,8 @@ Anni senza nessun risultato: nessuno
   ITBH launch panel in SMAU Area Security; Naif spoke on 'hacking come fenomeno sociale' (with Raoul Chiesa/Nobody, Raptor, Koba, A. Scartezzini)
 - ↺ **2001-10-13** · Talk · AntiKrimen Expo 2001 - Area Sicurezza Informatica — [Storia e psicologia Hacker](http://fabio.pietrosanti.it/)  
   Listed on his personal site
+- 🆕 **2001-10-10** · web page · kill-9.it (sicurezza-mi, Milanese security mailing list; site by Zen) — [Sicurezza-mi - presentazione della lista e resoconto della prima pizzata degli smanettoni milanesi](http://web.archive.org/web/20011230174845id_/http://www.kill-9.it:80/sicurezza-mi/)  
+  Read in full (Wayback, only capture 2001-12-30; page footer 'Page Last updated on Wed Oct 10 ... by zen@kill-9.it, (c) 1999-Y2K+1' -> 10 Oct 2001). Short manifesto of sicurezza-mi@kill-9.it, born as a list for Milan subscribers of ml@sikurezza.org to organize pizzate and meetings; proposes joining the Milan 'smanettoni' scene (MiLug, OpenLabs, LOA HackLab, Geek Girlz) via joint pizzate; reports the first pizzata (~20 people, 4 women); signed 'naif && Zen'. Links to the Pizzaweb sign-up by Rasta at http://www.rigadicomando.org/pizza. No personal data on the page beyond nicks/list e-mails. CDX for kill-9.it/sicurezza-mi* returns only this one capture.
 - 🆕 **2001-09-30** · Menzionato · BFi (Butchered From Inside) n.10 - editorial/index file — [BFi numero 10, file 1 di 18: indice e redazione (naif listed in the editorial staff)](https://www.s0ftpj.org/bfi/online/bfi10/BFi10-01.html)  
   naif listed among BFi redazione (Cavallo, CyRaX, Kundera, NeURo, Raistlin, vecna...) and as author of BFi10-13 'i0 FASTWEB E TU?'
 - 🆕 **2001-09-30** · Articolo scritto · BFi n.10 — [i0 FASTWEB E TU?](http://www.s0ftpj.org/bfi/online/bfi10/BFi10-13.html)  

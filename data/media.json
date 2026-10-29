@@ -1761,6 +1761,23 @@
   "on_old_site": false
  },
  {
+  "date": "2001-10-10",
+  "year": 2001,
+  "type": "web page",
+  "outlet": "kill-9.it (sicurezza-mi, Milanese security mailing list; site by Zen)",
+  "title": "Sicurezza-mi - presentazione della lista e resoconto della prima pizzata degli smanettoni milanesi",
+  "url": "http://web.archive.org/web/20011230174845id_/http://www.kill-9.it:80/sicurezza-mi/",
+  "language": "it",
+  "role": "author (co-signed 'naif && Zen')",
+  "note": "Read in full (Wayback, only capture 2001-12-30; page footer 'Page Last updated on Wed Oct 10 ... by zen@kill-9.it, (c) 1999-Y2K+1' -> 10 Oct 2001). Short manifesto of sicurezza-mi@kill-9.it, born as a list for Milan subscribers of ml@sikurezza.org to organize pizzate and meetings; proposes joining the Milan 'smanettoni' scene (MiLug, OpenLabs, LOA HackLab, Geek Girlz) via joint pizzate; reports the first pizzata (~20 people, 4 women); signed 'naif && Zen'. Links to the Pizzaweb sign-up by Rasta at http://www.rigadicomando.org/pizza. No personal data on the page beyond nicks/list e-mails. CDX for kill-9.it/sicurezza-mi* returns only this one capture.",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass4_milano2001_vaticana_2026-10-29"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2001-10-13",
   "year": 2001,
   "type": "talk",
@@ -19670,15 +19687,16 @@
   "date": "2022-03-15",
   "year": 2022,
   "type": "video",
-  "outlet": "Ciao Internet - Matteo Flora (YouTube)",
+  "outlet": "YouTube – Ciao Internet (Matteo Flora)",
   "title": "972. KASPERSKY Antivirus: è pericoloso? Va rimosso? È un malware Russo? Tutte le risposte!",
   "url": "https://www.youtube.com/watch?v=DzseEg-SYAg",
   "language": "it",
-  "role": "mentioned",
-  "note": "Flora a ~00:01:47: «ne parla lui, fa tanto baccano anche Fabio Pietrosanti» (sul rischio Kaspersky nelle infrastrutture critiche). Verificato da sottotitoli automatici YouTube (it) scaricati con yt-dlp il 2026-10-22, senza scaricare audio/video. Citato, non ospite.",
+  "role": "cited",
+  "note": "Sottotitoli automatici YouTube (it/it-orig) scaricati con yt-dlp sul server il 2026-10-29 (solo sottotitoli). ~00:01:47: «baccano anche fabio pietrosanti lo fanno» (contesto: italiane | in realtà ne parla lui in fa tanto | baccano anche fabio pietrosanti lo fanno | da un po ma il problema non è mica nuovo | rapetto ne aveva parlato nel 2017 già); ~00:09:44: «quintarelli a pietro santi a chi ne» (contesto: non solo | in realtà capisco la logica dietro a | quintarelli a pietro santi a chi ne | parla perché se ci pensate giri pr | normativa europea sulla privacy). Citato, non ospite.",
   "verified": true,
-  "known": false,
+  "known": true,
   "_slices": [
+   "pass4_ciaointernet_subs_2026-10-29",
    "pass4_podcast_2020_2026_2026-10-22"
   ],
   "on_old_site": false

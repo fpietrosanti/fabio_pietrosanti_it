@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1244**; già processate: **1423**; ancora da processare: **0**
-- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1058** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1180**
+- Voci in `data/media.json`: **1245**; già processate: **1424**; ancora da processare: **0**
+- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1059** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1181**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -26,7 +26,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 1998 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2000 | 18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2001 | 18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2001 | 19 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2002 | 24 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2003 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -435,6 +435,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2000** · SecurityFocus BID 1923 — [ISC BIND 8.2.2-P5 denial of service (BID 1923, CVE-2000-0887)](https://www.securityfocus.com/bid/1923) · copia: `2000/6cf7ea802347` (Web Archive 20010222) · licenza: propria
 - **2000** · variotdbs.pl — [VARIoT vulnerability VAR-200012-0088](https://www.variotdbs.pl/vuln/VAR-200012-0088/) · copia: `2000/603a04c60527` (live) · licenza: terzi
 - **2001** · AntiKrimen Expo 2001 - Area Sicurezza In — [Storia e psicologia Hacker](http://fabio.pietrosanti.it/) · copia: `2001/b17e2e712c2e` (Web Archive 20030214) · licenza: propria
+- **2001** · kill-9.it (sicurezza-mi, Milanese securi — [Sicurezza-mi - presentazione della lista e resoconto della prima pizzata degli smanettoni ](http://web.archive.org/web/20011230174845id_/http://www.kill-9.it:80/sicurezza-mi/) · copia: `2001/ff3330a17a55` (Web Archive 20011230) · licenza: terzi
 - **2001** · Italian BlackHats Association — [blackhats.it (co-founded 2001)](http://www.blackhats.it/) · copia: `2001/708cc48ca841` (Web Archive 20020204) · licenza: propria
 - **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 - 'Suggerimenti di...' (hall of fame)](http://www.pluto.it/files/ildp/LDR/ldr21.html) · copia: `2001/581a4a985147` (Web Archive 20060517) · licenza: terzi
 - **2001** · PLUTO / ILDP — [LDR: Linux Domande e Risposte 3.0 (Gaetano Paolone) - FAQ 2.1.2 «Come si può controllare i](http://www.pluto.it/files/ildp/LDR/ldr5.html#index1124) · copia: `2001/1fe8122618d1` (live) · licenza: terzi

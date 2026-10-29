@@ -3892,51 +3892,115 @@
     },
     {
       "query": "\"Fabio Pietrosanti\" \"NIS2\" OR \"Cyber Resilience Act\" OR \"ACN\" 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)"
+      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)",
+      "done": "2026-10-29",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"IT-Wallet\" OR \"portafoglio digitale\" OR \"eIDAS\" 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)"
+      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)",
+      "done": "2026-10-29",
+      "found": 4
     },
     {
       "query": "\"Fabio Pietrosanti\" Microsoft OR \"Google Workspace\" OR \"Office 365\" scuole OR comuni OR PA",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)"
+      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)",
+      "done": "2026-10-29",
+      "found": 10
     },
     {
       "query": "\"Fabio Pietrosanti\" \"posta elettronica\" OR email \"pubblica amministrazione\" 2025 OR 2026",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)"
+      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)",
+      "done": "2026-10-29",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" \"Radio24\" OR \"Radio Popolare\" OR \"Radio Capital\" ospite 2023 OR 2024 OR 2025",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)"
+      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)",
+      "done": "2026-10-29",
+      "found": 3
     },
     {
       "query": "\"Fabio Pietrosanti\" \"firma digitale\" OR PKI OR smartcard 2005 OR 2006 OR 2007 relatore",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)"
+      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)",
+      "done": "2026-10-29",
+      "found": 3
     },
     {
       "query": "\"Fabio Pietrosanti\" \"VoIP\" OR \"Skype\" sicurezza 2006 OR 2007 OR 2008",
-      "status": "pending",
+      "status": "done",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)"
+      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)",
+      "done": "2026-10-29",
+      "found": 9
     },
     {
       "query": "\"Fabio Pietrosanti\" \"data breach\" OR \"attacco hacker\" commento 2023 OR 2024 OR 2025",
+      "status": "done",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)",
+      "done": "2026-10-29",
+      "found": 10
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Linux Day\" OR \"LUG\" relatore 2005 OR 2006 OR 2007 OR 2008",
       "status": "pending",
       "pages": 1,
-      "note": "aggiunta 2026-10-29 09:30: coda esaurita; anni più deboli (2005-08, 2023-25) con angoli non ancora usati (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale, VoIP, data breach)"
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Hackmeeting\" OR \"hackit\" seminario 2005 OR 2006 OR 2007",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Bluetooth\" OR \"RFID\" OR \"GSM\" sicurezza 2005 OR 2006 OR 2007",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"anonimato\" OR \"Tor\" intervista 2023 OR 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"longevità\" OR \"biohacking\" OR \"Fund Longevity\" 2025 OR 2026",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"sovranità digitale\" OR \"MxMap\" 2026",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"spyware\" OR \"Paragon\" OR \"Graphite\" 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
+    },
+    {
+      "query": "\"Fabio Pietrosanti\" \"Chat Control\" OR \"crittografia end-to-end\" 2023 OR 2024 OR 2025",
+      "status": "pending",
+      "pages": 1,
+      "note": "aggiunta 2026-10-29 04:30: coda esaurita; anni deboli 2005-08 (Linux Day/LUG, Hackmeeting, Bluetooth/RFID/GSM) e 2023-26 con temi attuali (Tor/anonimato, biohacking/longevità, sovranità digitale/MxMap, spyware Paragon, Chat Control)"
     }
   ],
   "history": [
@@ -4944,6 +5008,14 @@
       "captcha": false,
       "confirmed_new": 0,
       "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (anni deboli: Smau/Infosecurity 2004-06, MOCA/Olografix, seminari universitari 2005-08, atti di convegno 2003-06, wireless 2004-06, whistleblowing 2023, podcast 2024-25, PA/università 2024-25) con chiave localStorage gqr20261029-0900 inizializzata a {} e stop automatico del batch al robot check: nessun robot check, 65 risultati, 56 URL distinti. Scartati senza verifica: LinkedIn (4), mailing list nexa hyperkitty (3) e flug 2008, mirror ipv6.radioradicale. 43 candidati verificati: 36 respinti o già in archivio (3 FAIL: researchgate TI Italia, academia.edu, elgaronline PDF); 7 OK tutti già esclusi o doppioni: 5 già in decisions.json (slideshare trust e protocolli wireless, dokumen.pub Palgrave, pr-foundation /content/, radioradicale 438714/stampa-e-regime), 2 aggiunti a exclude (dalchecco tag milano = IISFA Forum 2017 già in archivio; radioradicale 382138 = solo riquadro registrazioni correlate). File grezzo pass3 lasciato vuoto. Nessuna voce nuova (1244), nessuna copia nuova. Le query italiane sugli anni deboli con angolo eventi/atti sono sature; aggiunte 8 query nuove (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale 2005-07, VoIP 2006-08, data breach 2023-25)."
+    },
+    {
+      "date": "2026-10-29 04:30",
+      "engine": "google-chrome",
+      "searched": 8,
+      "captcha": false,
+      "confirmed_new": 0,
+      "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 8 query pending (NIS2/ACN, IT-Wallet/eIDAS, cloud USA nella PA, email PA, radio private, PKI/firma digitale 2005-07, VoIP 2006-08, data breach 2023-25) con chiave localStorage gqr20261029-1330 inizializzata a {} e stop del batch al robot check: nessun robot check, 58 risultati, 52 URL distinti. Scartati senza verifica: LinkedIn (6), mailing list nexa hyperkitty (4), flug 2008 (2), freelists linuxtrent, forum.italia.it, infosecurity.ch (proprio) e 7 PDF di richieste FOIA Monitora PA pubblicati dalle scuole (atti con dati personali; 5 nuovi aggiunti a exclude). 30 candidati verificati: 21 respinti o già in archivio (1 FAIL robyone.net), 9 OK tutti già noti: 8 già in decisions.json, 1 (easyteam /easynews/la-risposta-alla-nuova-richiesta-di-monitora-pa/) è URL alternativo del post già in archivio (pass2) → exclude. File grezzo pass3 lasciato vuoto. Nel merge sono entrate 1 voce nuova (sicurezza-mi 2001, kill-9.it via Wayback) da file pass4 del 2026-10-29 lasciati non committati da un'altra sessione (ciaointernet_subs, milano2001_vaticana): committati con questo giro. Voci 1245; copie: 1181 ottenute + 119 video, nessuna pendente. Aggiunte 8 query nuove (2005-08 Linux Day/Hackmeeting/RFID-GSM; 2023-26 Tor, biohacking, MxMap, Paragon, Chat Control)."
     }
   ]
 }

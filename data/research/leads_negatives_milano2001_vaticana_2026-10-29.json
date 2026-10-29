@@ -1,0 +1,62 @@
+[
+ {
+  "what": "kill-9.it/sicurezza-mi: other pages",
+  "how": "Wayback CDX url=kill-9.it/sicurezza-mi*&collapse=urlkey; domain-wide CDX for kill-9.it (504/Temporarily Offline due to the huge /jargon/ tree); www.kill-9.it/ prefix",
+  "result": "Only one capture of /sicurezza-mi/ (2001-12-30, recorded). Root www.kill-9.it/ captured 2000-09-02 only. Further prefix queries (s*, pipermail*, mailman/listinfo*) blocked by Wayback rate limiting (laptop and server). Mailing-list archives would not count anyway."
+ },
+ {
+  "what": "rigadicomando.org pizza pages (Pizzaweb by Rasta)",
+  "how": "Wayback CDX domain to 2005; read /pizza/ (2002-01-06, 2002-10-06), /pizza/iscritti.php (2001-10-12, 2002-01-09), home (2001-05-19), center.html (2001-12-08) from server",
+  "result": "No 'naif'/'Pietrosanti'. Pizzaweb 0.2 sign-up form; iscritti.php 2001-10-12 shows only the venue (a Milan pizzeria, date 'da definire') and an empty attendee list; later captures identical digest (empty). Site is Rasta's shell/Unix tips page. Negative."
+ },
+ {
+  "what": "Web search for sicurezza-mi / pizzata naif Zen",
+  "how": "WebSearch",
+  "result": "No hits (only unrelated Palermo 'Zen' news)."
+ },
+ {
+  "what": "Radio Vaticana defacement date",
+  "how": "seclists.org/attrition-defaced/2001/Jan/585; live attrition.org mirror; HITB/Reuters; computing.co.uk",
+  "result": "Date established: 24 Jan 2001 (16:03 -0700), www.radiovaticano.org/.com/.net, group 'Crime Boys' (Brazil), NT4/IIS4. Recorded as context."
+ },
+ {
+  "what": "Corriere della Sera archive 2000-2002",
+  "how": "Public API POST archivio.corriere.it/Archivio/api/articles/search with combinations of 'Pietrosanti' + Telethon/Vaticana/Crime Boys/hacker/Echelon/Fastweb/wireless/I.Net/informatico/password/Hermes/GlobaLeaks; 'naif hacker'",
+  "result": "Only one relevant article: 26/01/2001 p.25 (Radio Vaticana + Telethon), whose full-text index contains 'Pietrosanti' (adjacent Echelon article does not). Full text behind login, not read. No other 2000-2002 Corriere article with his name on hacker/security topics."
+ },
+ {
+  "what": "La Repubblica archive 2000-2002",
+  "how": "ricerca.repubblica.it query 'Pietrosanti', 'naif', 'radio vaticana hacker' with dates 2000-06-01..2002-12-31",
+  "result": "'Pietrosanti' 5 hits, all homonyms (Roberto the artist, Carlo of ADR, a Radical list, a futsal player). Repubblica covered the hack on 26/01/2001 ('Il sito della Radio Vaticana attaccato da hackers brasiliani', paywalled) but its index does not contain 'Pietrosanti'. Negative."
+ },
+ {
+  "what": "ADNKronos 2001 (Cybernews section)",
+  "how": "Wayback CDX www.adnkronos.it/* Jan-Feb 2001 (675 URLs), adnkronos.com (504 timeout); prefix news/prod/ndg/cyb/; read cybe.shtml 2001-01-11 and notiziecyb/0050.htm",
+  "result": "No capture of the Cybernews section between 24 Jan and 6 Feb 2001 except the cybe.htm frameset (2001-02-06, no content). The notiziecyb/00NN.htm items are Oct-Dec 2000 news (0050 = Microsoft source-code breach, Oct 2000); remaining items 0051-0060/0101-0102 could not be read (Wayback blocking both IPs) but predate the event. ADNKronos interview not found."
+ },
+ {
+  "what": "Punto Informatico 2000-2002",
+  "how": "WordPress REST API /wp-json/wp/v2/posts/?search=vaticana|telethon|crime boys|pietrosanti, after 2000-06-01 before 2002-12-31",
+  "result": "No article on the Radio Vaticana defacement (only 'Il Papa riabilita Internet' 25/01/2001, without name). 'pietrosanti' -> only 'Un raggio di luce su SMAU?' 25/10/2001, already known in media.json."
+ },
+ {
+  "what": "Il Tempo Jan 2001",
+  "how": "WebSearch",
+  "result": "No online article; Il Tempo 2000-2003 not archived (as in earlier passes)."
+ },
+ {
+  "what": "WebSearch Radio Vaticana / ADNKronos / Pietrosanti",
+  "how": "4 queries (it/en)",
+  "result": "Only international coverage (HITB/Reuters, computing.co.uk) without Italian expert. Negative."
+ },
+ {
+  "what": "Il Mondo (RCS) 2000-2002 front page",
+  "how": "WebSearch; Hacker Journal 9, 15, 32, 37, 42, 151 full text (archive.org djvu.txt) surfaced by the search",
+  "result": "No hits for 'Pietrosanti'/'naif' in those HJ issues; no online Il Mondo archive. Negative."
+ },
+ {
+  "what": "TG2 Dossier hacker special 2000-2002",
+  "how": "WebSearch; puntosicuro.it 'hacker alla prova'",
+  "result": "No episode listing; no name. Needs Rai Teche."
+ }
+]

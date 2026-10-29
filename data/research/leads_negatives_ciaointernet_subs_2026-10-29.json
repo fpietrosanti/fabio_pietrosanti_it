@@ -1,0 +1,21 @@
+{
+ "date": "2026-10-29",
+ "source": "YouTube – Ciao Internet con Matteo Flora, channel UCm5H2LH2ISgpX-X5-SP4Vrg (@MgpF)",
+ "method": "yt-dlp --flat-playlist on videos/streams/shorts tabs -> ids.txt; per-ID subtitle-only download (it,it-orig,en-orig; vtt; no audio/video, no cookies), regex pietro\\s*santi|\\bna[iï]f\\b, sleep 20-60 s, backoff 35-50 min on 429/bot-check. Auto-translated 'en' dropped after first 4 IDs (always HTTP 429).",
+ "server_dir": "ubuntu@51.158.36.151:~/ciaointernet_subs (README.md, done.txt, hits.jsonl, scan.log)",
+ "ids_total": 2096,
+ "ids_by_tab": {
+  "videos": 1732,
+  "streams": 107,
+  "shorts": 257
+ },
+ "ids_done_at_snapshot": 66,
+ "errors": 0,
+ "nosubs": 0,
+ "backoffs_429": 1,
+ "order": "newest first (tab order); covered so far: 972 (DzseEg-SYAg, test) + 65 newest videos, down to #1546 (2026-04-10)",
+ "hits_videos": 1,
+ "hits_new": 0,
+ "negatives": "65 videos scanned 2026-04..2026-10 with zero matches; the only hit is the already-known 972 Kaspersky episode (now with a second mention at ~09:44, 'quintarelli a pietro santi').",
+ "status": "running; watchdog in user crontab (@reboot + */30) restarts scan.py until ALL_DONE; ETA ~26 h at ~45 s/video if no blocks."
+}
