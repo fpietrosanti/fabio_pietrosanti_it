@@ -1,13 +1,13 @@
 # Copie offline delle fonti — stato
 
-Aggiornato il 2026-10-29 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
+Aggiornato il 2026-10-30 da `tools/render_copies_report.py`. Le copie stanno in una cartella locale
 privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietrosanti_it-library); questo report dice cosa è fatto, cosa è parziale e cosa manca.
 
 ## Totali
 
-- Voci in `data/media.json`: **1254**; già processate: **1433**; ancora da processare: **0**
-- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1068** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1189**
+- Voci in `data/media.json`: **1258**; già processate: **1437**; ancora da processare: **0**
+- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1072** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1193**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -40,18 +40,18 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2012 | 37 | 3 | 0 | 0 | 0 | 0 | 0 |
 | 2013 | 28 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 2014 | 27 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2015 | 40 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 2015 | 41 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 88 | 5 | 3 | 0 | 0 | 0 | 0 |
-| 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 97 | 3 | 2 | 0 | 0 | 0 | 2 |
+| 2018 | 77 | 17 | 1 | 0 | 0 | 0 | 0 |
+| 2019 | 98 | 3 | 2 | 0 | 0 | 0 | 2 |
 | 2020 | 177 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 60 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 9 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 48 | 3 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 49 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -841,6 +841,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2015** · Nexa Center for Internet & Society — Ann — [Nexa Center annual report 2015](https://nexa.polito.it/wp-content/uploads/2024/05/Nexa-Center-annual_report-2015.pdf) · copia: `2015/72ea275e4c30` (Web Archive 20240803) · licenza: terzi
 - **2015** · Tor Tech Report 2015-04-001 (The Tor Pro — [Hidden-service statistics reported by relays](https://research.torproject.org/techreports/hidden-service-stats-2015-04-28.pdf) · copia: `2015/292d68aabe22` (Web Archive 20151202) · licenza: terzi
 - **2015** · SenzaBarcode — [Globaleaks contro la corruzione](https://senzabarcode.it/2015/04/22/globaleaks-contro-la-corruzione/) · copia: `2015/742c3c314849` (Web Archive 20190821) · licenza: terzi
+- **2015** · voidsec.com — [Pirate’s Night Show - VoidSec](https://voidsec.com/pirate-night-show/) · copia: `2015/e0ecc18a31cd` (live) · licenza: terzi
 - **2015** · Hermes Center — [Consultazione ANAC sul Whistleblowing: Posizione del Centro Hermes](https://web.archive.org/web/2015/http://logioshermes.org/consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes/) · copia: `2015/41fa50b57983` (Web Archive 20150806) · licenza: propria
 - **2015** · Nexa Center for Internet & Society (Poli — [Principi e strumenti del whistleblowing: il caso GlobaLeaks](https://web.archive.org/web/20220519202553/https://nexa.polito.it/nexacenterfiles/mercoledi-73-pietrosanti.pdf) · copia: `2015/b323c78fe59f` (Web Archive 20220519) · licenza: terzi
 - **2015** · dimt.it — [La trasparenza e la privacy: il bilanciamento tra le necessità di trasparenza e pubblicità](https://www.dimt.it/eventi/55la-trasparenza-e-la-privacy-il-bilanciamento-tra-le-necessita-di-trasparenza-e-pubblicita-e-le-aspettative-di-rispetto-della-privacy-dell-anonimato-e-della-segretezza-roma-2-e-3-luglio-2015/) · copia: `2015/b49378775e21` (Web Archive 20210119) · licenza: terzi
@@ -1057,6 +1058,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Euronews (English) — [Beware of fertility apps — your data may be sold to companies, warns think tank](https://www.euronews.com/2018/04/11/beware-of-fertility-apps-your-data-may-be-sold-to-companies-warns-think-tank) · copia: `2018/e6138e99c459` (Web Archive 20180414) · licenza: terzi
 - **2018** · International Journalism Festival 2018 — [Privacy nightmare Italia: storie di sorveglianza](https://www.festivaldelgiornalismo.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/27e62d9ca635` (Web Archive 20180705) · licenza: terzi
 - **2018** · International Journalism Festival — [Fabio Pietrosanti - speaker page (all editions)](https://www.festivaldelgiornalismo.com/speaker/fabio-pietrosanti) · copia: `2018/f855533e7142` (Web Archive 20190825) · licenza: terzi
+- **2018** · giornalettismo.com — [Per profilarvi non serve Facebook: basta il vostro browser e può farvi male](https://www.giornalettismo.com/profilazione-utenti-browser/) · copia: `2018/139de3200b8d` (Web Archive 20190718) · licenza: terzi
 - **2018** · Hermes Center — News & Press (sito in ri — [Announcement: Hermes Center members and fellows participate at the International Journalis](https://www.hermescenter.org/announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18/) · copia: `2018/d6e62a571fab` (Web Archive 20200921) · licenza: propria
 - **2018** · iacchite.blog — [Whistleblowing: nasce la piattaforma per segnalare la corruzione negli enti pubblici - iac](https://www.iacchite.blog/whistleblowing-nasce-la-piattaforma-per-segnalare-la-corruzione-negli-enti-pubblici/) · copia: `2018/4f1c8baf7317` (live) · licenza: terzi
 - **2018** · International Journalism Festival 2018 ( — [Italian privacy nightmare: tales of surveillance](https://www.journalismfestival.com/programme/2018/italian-privacy-nightmare-tales-of-surveillance) · copia: `2018/6f8c23954448` (Web Archive 20180620) · licenza: terzi
@@ -1178,6 +1180,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · CoinDesk Italiano — [Le sanzioni non sono state discusse alla conferenza Cripto in Corea del Nord, afferma un p](https://www.coindesk.com/uk/policy/2019/12/03/sanctions-werent-discussed-at-north-korea-crypto-conference-attendee-says) · copia: `2019/135d7b9a6ce0` (live) · licenza: terzi
 - **2019** · CorCom (Corriere Comunicazioni) — [Garante Privacy, 86 nuovi candidati](https://www.corrierecomunicazioni.it/privacy/garante-privacy-72-nuovi-candidati/) · copia: `2019/2f34a5770751` (live) · licenza: terzi
 - **2019** · Jornal de Notícias — [Jornalistas, eurodeputados e ONG em defesa de Rui Pinto](https://www.fcporto.ws/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/) · copia: `2019/1515921df5ce` (Web Archive 20200918) · licenza: terzi
+- **2019** · glistatigenerali.com — [Democrazia digitale. L'iniziativa popolare che unisce le forze Eumane](https://www.glistatigenerali.com/politica/partiti-e-politici/democrazia-digitale-liniziativa-popolare-che-unisce-le-forze-eumane/) · copia: `2019/8e5900e7a50e` (Web Archive 20250324) · licenza: terzi
 - **2019** · infoLibre — [La protección de los denunciantes es crucial para la lucha de Europa contra la corrupción](https://www.infolibre.es/politica/proteccion-denunciantes-crucial-lucha-europa-corrupcion_1_1170568.html) · copia: `2019/6df5e77422f0` (Web Archive 20211209) · licenza: terzi
 - **2019** · Jornal de Notícias — [Jornalistas, eurodeputados e ONG em defesa de Rui Pinto](https://www.jn.pt/justica/artigo/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/10923035) · copia: `2019/9423417abeec` (live) · licenza: terzi
 - **2019** · lamescolanza.com — [Tor, come e perché diventare invisibili sul web - La Mescolanza](https://www.lamescolanza.com/2019/01/17/tor-web/) · copia: `2019/06a1a3aed351` (Web Archive 20210619) · licenza: terzi
@@ -1604,6 +1607,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/2026/03/) · copia: `2026/7a9ae2c0f7c3` (Web Archive 20260724) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/formazione/manualetto-di-sicurezza-digitale-per-giornalisti-e-attivisti-2/) · copia: `2026/83c790f24f57` (Web Archive 20260410) · licenza: terzi
 - **2026** · Centro per la Riforma dello Stato, Roma  — [Presentazione 'Manualetto di sicurezza digitale per giornalisti e attivisti' (Guerre di Re](https://dicorinto.it/tag/hacker/) · copia: `2026/81ab86109cda` (Web Archive 20260421) · licenza: terzi
+- **2026** · digital-commons-edic.eu — [Advisory Board — Digital Commons EDIC](https://digital-commons-edic.eu/governance/advisory-board/) · copia: `2026/de0fc850e973` (live) · licenza: terzi
 - **2026** · Digital Commons EDIC — [The Digital Commons EDIC adopts joint strategy to scale open-source alternatives](https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/) · copia: `2026/35ab140a4d05` (live) · licenza: terzi
 - **2026** · Fedimedia Italia — [Fedimedia e Digital Indipendence Day per l'indipendenza digitale il 14 novembre al SFSCON ](https://fedimedia.it/fedimedia-e-digital-indipendence-day-una-rete-per-lindipendenza-digitale-il-14-novembre-al-sfscon-2026/) · copia: `2026/192cae336d30` (live) · licenza: terzi
 - **2026** · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo) · copia: `2026/9d2f7f839015` (live) · licenza: propria

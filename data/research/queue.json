@@ -4140,51 +4140,109 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Forum PA\" OR \"Stati Generali dell'Innovazione\" OR ComoLake",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)",
+   "done": "2026-10-30 00:33",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Digital Commons\" OR EDIC OR EuroStack",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)",
+   "done": "2026-10-30 00:33",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Cambridge Analytica\" OR profilazione OR propaganda 2018 OR 2019",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)",
+   "done": "2026-10-30 00:33",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" LulzSec OR Antisec OR \"attacco informatico\" 2011 OR 2012",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)",
+   "done": "2026-10-30 00:33",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" 2016 hacker OR privacy OR whistleblowing intervista",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)",
+   "done": "2026-10-30 00:33",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Garante privacy\" OR \"Garante per la protezione\" 2023 OR 2024 OR 2025",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)",
+   "done": "2026-10-30 00:33",
+   "found": 8
   },
   {
    "query": "\"Fabio Pietrosanti\" cloud OR Amazon OR AWS sovranità 2024 OR 2025",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)",
+   "done": "2026-10-30 00:33",
+   "found": 8
   },
   {
    "query": "\"Pietrosanti\" Hermes Parlamento OR Senato OR Camera audizione 2023 OR 2024 OR 2025",
-   "status": "retry",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)"
+   "note": "aggiunta 2026-10-29 21:00: coda esaurita; anni deboli 2011, 2016, 2023-25 e temi mai interrogati (Forum PA, Digital Commons EDIC/EuroStack, Cambridge Analytica, LulzSec/Antisec, Garante privacy, cloud/AWS, Parlamento)",
+   "done": "2026-10-30 00:33",
+   "found": 9
+  },
+  {
+   "query": "\"Pietrosanti\" naif 1998 OR 1999 OR 2000 OR 2001 hacker OR s0ftpj OR BFI",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 00:33: coda esaurita; anni deboli 1998-2008 e 2023-25 (tabella docs/RICERCA-MEDIA-2026-09.md), temi mai interrogati (s0ftpj/BFI, wardriving, Smau/Moby, caso Telecom, Winston Smith, ANAC d.lgs. 24/2023, podcast Hermes, Copernicani recenti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" wireless OR \"Wi-Fi\" OR wardriving 2002 OR 2003 OR 2004",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 00:33: coda esaurita; anni deboli 1998-2008 e 2023-25 (tabella docs/RICERCA-MEDIA-2026-09.md), temi mai interrogati (s0ftpj/BFI, wardriving, Smau/Moby, caso Telecom, Winston Smith, ANAC d.lgs. 24/2023, podcast Hermes, Copernicani recenti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Smau OR \"Infosecurity Italia\" OR Moby relatore 2003 OR 2004 OR 2005",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 00:33: coda esaurita; anni deboli 1998-2008 e 2023-25 (tabella docs/RICERCA-MEDIA-2026-09.md), temi mai interrogati (s0ftpj/BFI, wardriving, Smau/Moby, caso Telecom, Winston Smith, ANAC d.lgs. 24/2023, podcast Hermes, Copernicani recenti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" intercettazioni Telecom OR Tavaroli 2006 OR 2007 OR 2008",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 00:33: coda esaurita; anni deboli 1998-2008 e 2023-25 (tabella docs/RICERCA-MEDIA-2026-09.md), temi mai interrogati (s0ftpj/BFI, wardriving, Smau/Moby, caso Telecom, Winston Smith, ANAC d.lgs. 24/2023, podcast Hermes, Copernicani recenti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Winston Smith\" OR \"e-privacy\" 2007 OR 2008 OR 2009",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 00:33: coda esaurita; anni deboli 1998-2008 e 2023-25 (tabella docs/RICERCA-MEDIA-2026-09.md), temi mai interrogati (s0ftpj/BFI, wardriving, Smau/Moby, caso Telecom, Winston Smith, ANAC d.lgs. 24/2023, podcast Hermes, Copernicani recenti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" whistleblowing ANAC OR \"decreto 24\" OR direttiva 2023 OR 2024",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 00:33: coda esaurita; anni deboli 1998-2008 e 2023-25 (tabella docs/RICERCA-MEDIA-2026-09.md), temi mai interrogati (s0ftpj/BFI, wardriving, Smau/Moby, caso Telecom, Winston Smith, ANAC d.lgs. 24/2023, podcast Hermes, Copernicani recenti)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Hermes podcast OR webinar 2024 OR 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 00:33: coda esaurita; anni deboli 1998-2008 e 2023-25 (tabella docs/RICERCA-MEDIA-2026-09.md), temi mai interrogati (s0ftpj/BFI, wardriving, Smau/Moby, caso Telecom, Winston Smith, ANAC d.lgs. 24/2023, podcast Hermes, Copernicani recenti)"
   }
  ],
  "history": [
@@ -5232,6 +5290,14 @@
    "captcha": true,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Coda esaurita: aggiunte 8 query nuove (Forum PA/Stati Generali/ComoLake, Digital Commons EDIC/EuroStack, Cambridge Analytica 2018-19, LulzSec/Antisec 2011-12, 2016 interviste, Garante privacy 2023-25, cloud/AWS sovranità 2024-25, audizioni Parlamento 2023-25). Chrome connesso; alla prima ricerca Google ha risposto con il robot check (/sorry): giro interrotto subito, nessun aggiramento, tutte e 8 le query marcate retry. Probabile effetto dei tre giri ravvicinati di oggi (18:00, 20:00, 23:00). Nessun candidato, nessuna verifica né merge; copie offline non rieseguite (nessuna voce nuova e nessuna copia pendente al giro 20:00)."
+  },
+  {
+   "date": "2026-10-30 00:33",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 4,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query in retry del giro 21:00 (Forum PA, Digital Commons EDIC, Cambridge Analytica, LulzSec/Antisec, 2016, Garante privacy, cloud/AWS, audizioni), chiave localStorage gq20261030_N: nessun robot check, 75 risultati. Scartati senza verifica LinkedIn/X, mailing list (seclists, inventati, autistici, nexa hyperkitty), fedia/eupolicy, pagine indice (partecipa proposals, argomenti.ilsole24ore tag, monitora-pa.it home, dicorinto tipologia/tag, alessandrorodolfi home, radioradicale soggetti), garanteprivacy.sm (San Marino, non pertinente) e gli atti FOIA Monitora PA nei siti delle scuole (dati personali, stessa linea delle esclusioni precedenti). 39 verificati: 7 OK; tolti radioradicale 464793 (già in archivio come /scheda/464793/) e pr-foundation.org/content/ (pagina indice → exclude). Nuove voci: giornalettismo 2018-05-02 profilazione browser, Gli Stati Generali 2019-06-12 Eumans democrazia digitale, VoidSec Pirate's Night Show 2015 (talk Tor/privacy, 'naif'), Digital Commons EDIC advisory board 2026, zh.wikipedia GlobaLeaks. Voci 1254→1258. Copie offline eseguite: 1193 ottenute + 120 video, nessuna pendente. Coda esaurita: aggiunte 7 query nuove pending per il prossimo giro (s0ftpj/BFI 1998-2001, wardriving 2002-04, Smau/Moby 2003-05, caso Telecom 2006-08, Winston Smith 2007-09, ANAC/d.lgs. 24 2023-24, podcast Hermes 2024-25, Copernicani 2023-25)."
   }
  ]
 }

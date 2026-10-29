@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1732**; dopo deduplica: **1254**
+- Risultati grezzi dalle ricerche: **1737**; dopo deduplica: **1258**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1199**
-- Verificati aprendo la pagina: **1183**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1203**
+- Verificati aprendo la pagina: **1187**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 270, tweet 132, Talk 102, Video 81, Citato 78, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 273, tweet 132, Talk 103, Video 81, Citato 78, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -33,22 +33,22 @@ Per tipo (nuovi): Menzionato 270, tweet 132, Talk 102, Video 81, Citato 78, Post
 | 2012 | 0 | 37 | 37 |
 | 2013 | 0 | 33 | 33 |
 | 2014 | 0 | 32 | 32 |
-| 2015 | 0 | 48 | 48 |
+| 2015 | 0 | 49 | 49 |
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 91 | 91 |
-| 2018 | 0 | 89 | 89 |
-| 2019 | 0 | 81 | 81 |
+| 2018 | 0 | 90 | 90 |
+| 2019 | 0 | 82 | 82 |
 | 2020 | 0 | 185 | 185 |
 | 2021 | 0 | 94 | 94 |
 | 2022 | 0 | 74 | 74 |
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 16 | 16 |
-| 2026 | 0 | 47 | 47 |
+| 2026 | 0 | 48 | 48 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 47 voci, 47 nuove
+## 2026 — 48 voci, 48 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
@@ -144,6 +144,8 @@ Anni senza nessun risultato: nessuno
   AGPL-3.0 platform for structured biohacking protocols and biomarkers, founded by Fabio
 - 🆕 **2026** · Menzionato · make-ai-good.org — [Hermes Center for Transparency and Digital Human Rights — Make AI Good (graph)](https://make-ai-good.org/graph/org-hermes-center/)  
   verified via live; context: …s network it has belonged to since 2018. Founding and structure Hermes was formally registered in 2012 after the GlobaLeaks project — initiated in late 2010 by Fabio Pietrosanti and shared into the Italian hacktivist com… | scheda del grafo Make AI Good: GlobaLeaks avviato da Fabio Pietrosanti nel 2010
+- 🆕 **2026** · Menzionato · digital-commons-edic.eu — [Advisory Board — Digital Commons EDIC](https://digital-commons-edic.eu/governance/advisory-board/)  
+  verified via live; context: …ers. Members Thierry Fraudet Lea Gimpel Giacomo Grassi Franziska Heine Piotr P. Karwasz Amandine Le Pape Michiel Leenaars Catharina Maracke François Pellegrini Fabio Pietrosanti Paolo Vecchi Thierry Fraudet Thierry Fraud…
 
 ## 2025 — 16 voci, 16 nuove
 
@@ -965,7 +967,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
   verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
-## 2019 — 81 voci, 81 nuove
+## 2019 — 82 voci, 82 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -1069,6 +1071,8 @@ Anni senza nessun risultato: nessuno
   Cites him (Hermes Center) noting Rousseau's Mozilla HTTP Observatory rating F during the Conte II Rousseau vote
 - 🆕 **2019-08-30** · article · La Stampa (Raffaele Angius) — [Viaggio nel CCCamp, dove gli hacker immaginano il futuro con filosofi e artisti](https://www.lastampa.it/archivio/2019/08/30/news/viaggio_nel_cccamp_dove_gli_hacker_immaginano_il_futuro_con_filosofi_e_artisti-782989/)  
   Fuori periodo (bonus), letto direttamente. «... precisa Fabio “Naif” Pietrosanti, membro dell'Italian Hacker Embassy».
+- 🆕 **2019-06-12** · Menzionato · glistatigenerali.com — [Democrazia digitale. L'iniziativa popolare che unisce le forze Eumane](https://www.glistatigenerali.com/politica/partiti-e-politici/democrazia-digitale-liniziativa-popolare-che-unisce-le-forze-eumane/)  
+  verified via wayback; context: …promotore di Eumans, si confronteranno accademici e attivisti europei, insieme ad esperti noti come Marco Canestrari, Stefano Quintarelli, Fiorella De Cindio, Fabio Pietrosanti. La democrazia è molto più che una serie di…
 - 🆕 **2019-05-23** · Talk · Ordine dei Giornalisti Emilia-Romagna — [DIG Festival Riccione 2019 — workshop DIG Academy «Condom USB. Come proteggere il giornalismo dalle malattie digitalmente trasmissibili» (con Raffaele Angius, Hermes Center)](https://odg.bo.it/blog/a-riccione-dig-festival-2019-nove-workshop-di-dig-academy-con-crediti-formativi-dellodg-numerosi-appuntamenti-con-il-giornalismo-investigativo-finalissima-dei-dig-awards/)  
   verified via wayback; context: …11.30 con Nico Piro della RAI ); Condom USB. Come proteggere il giornalismo dalle malattie digitalmente trasmissibili ( ore 11.30 – 13.30 con Raffaele Angius e Fabio Pietrosanti di Hermes Center ); Detective della verità…
 - 🆕 **2019-05-21** · Menzionato · infoLibre — [La protección de los denunciantes es crucial para la lucha de Europa contra la corrupción](https://www.infolibre.es/politica/proteccion-denunciantes-crucial-lucha-europa-corrupcion_1_1170568.html)  
@@ -1130,7 +1134,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Menzionato · whistleblowing.fund — [Digital Whistleblowing Fund — Jury (Round 3)](https://whistleblowing.fund/jury/)  
   verificato 2026-10-14: Fabio Pietrosanti (GlobaLeaks) nella giuria del Round 3 del Digital Whistleblowing Fund (anno stimato ~2019; bandi 2017-2020)
 
-## 2018 — 89 voci, 89 nuove
+## 2018 — 90 voci, 90 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -1222,6 +1226,8 @@ Anni senza nessun risultato: nessuno
   French edition of the same story. Text: "Cependant, Fabio Pietrosanti, fondateur et président d'Hermes, un centre militant pour la transparence dans le milieu des droits digitaux, considère que 'cela demandera beaucoup d'efforts' aux sociétés pour appliquer les règles du RGPD...". Verified by curl 2026-10-24 (fr.euronews.com/search?query=Pietrosanti). No matching Euronews YouTube video found.
 - 🆕 **2018-05-06** · Comunicato · Hermes Center for Transparency and Digital Human Rights — [Centro Hermes partecipa a Consultazione su acquisizione e riuso di software con riferimento al Whistleblowing Anticorruzione](https://hermescenter.org/centro-hermes-partecipa-a-consultazione-su-acquisizione-e-riuso-di-software-con-riferimento-al-whistleblowing-anticorruzione/)  
   Consultazione AgID su acquisizione e riuso del software nella PA, con riferimento al whistleblowing. Attribuito a Fabio come presidente e co-fondatore del Centro Hermes (decisione di Fabio, 2026-10-22), anche dove il testo non lo nomina.
+- 🆕 **2018-05-02** · Menzionato · giornalettismo.com — [Per profilarvi non serve Facebook: basta il vostro browser e può farvi male](https://www.giornalettismo.com/profilazione-utenti-browser/)  
+  verified via wayback; context: …questa storia abbastanza “ comica ”. LEGGI ANCHE > LE VIE DI FUGA DEI PROFILATORI: LO SCRAPING Non è affatto comica, è una questione di sicurezza molto seria. Fabio Pietrosanti , presidente del Centro Hermes per la Trasp…
 - 🆕 **2018-04-30** · Libro · Inter-American Development Bank — [Smarter Crowdsourcing for Anti-Corruption: A handbook of innovative legal, technical, and policy proposals](https://books.google.com/books?id=s8-aDwAAQBAJ)  
   Source: legacy Google Books GData feed (www.google.com/books/feeds/volumes; v1 API was 429). Authors: Beth Simone Noveck, Kaitlin Koga, Rafael Aceves Garcia, Hannah Deleanu, Dinorah Cantú-Pedraza (GovLab/IDB, Mexico anti-corruption project). Snippet: 'Fabio Pietrosanti, Founding Member and President of the Hermes Center for Transparency and Digital Human Rights, which developed GlobaLeaks software[112]: When you are working in a specific vertical sector, you only want to receive information ...'.
 - 🆕 **2018-04-30** · Libro · Inter-American Development Bank — [Smarter Crowdsourcing for Anti-Corruption: Manual de propuestas legales, técnicas y de políticas innovadoras (Spanish edition)](https://books.google.com/books?id=tc-aDwAAQBAJ)  
@@ -1557,7 +1563,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2016** · Talk · eunews.it — [How Can We Govern Europe? – Terza edizione (panel «Intelligence, privacy e antiterrorismo in Europa»)](https://www.eunews.it/eventi_eunews/how-can-we-govern-europe-3rd-edition/)  
   verified via wayback; context: …i cittadini. Moderatrice Cristina Vicarelli , avvocato con attività prevalente in protezione dei dati personali e privacy e contributor di Technethics Relatori Fabio Pietrosanti, Presidente del Hermes Center for Transpar… | Relatore come Presidente di Hermes Center. Anno 2016 dedotto dal programma (panel «Trump presidente», Beatrice Covassi rappresentante CE in Italia, Silvia Costa presidente commissione Cultura PE); la pagina reca la data di ripubblicazione 29/09/2021.
 
-## 2015 — 48 voci, 48 nuove
+## 2015 — 49 voci, 49 nuove
 
 - 🆕 **2015-11-02** · Citato · cn.nytimes.com (New York Times 中文网) — [限制监控技术出口，美企与奥巴马政府各执一词](https://cn.nytimes.com/world/20151102/c02surveillance/)  
   verified via wayback; context: …了监控技术的出口禁令。由于受到美国更广泛的经济制裁，朝鲜、苏丹和古巴也面临着出口禁令。 “这个领域的监管不多，针对出口的规定也不多，”米兰的研究机构赫耳墨斯透明度与数字人权中心( Hermes Center for Transparency and Digital Human Rights )创始人法比奥·彼得罗桑蒂(Fabio Pietrosanti)说。“在一些国家，很容易规避监控技术的出口规定。” 已有一些大公司被控帮助专制国家利…
@@ -1567,6 +1573,8 @@ Anni senza nessun risultato: nessuno
   Livestreamed talk show on Tor and privacy
 - 🆕 **2015-10-19** · article · La Stampa (Carola Frediani) — [Taglie, broker e Stati: così funziona il mercato degli attacchi informatici](https://www.lastampa.it/archivio/2015/10/19/news/taglie_broker_e_stati_cosi_funziona_il_mercato_degli_attacchi_informatici-1803951/)  
   Letto direttamente. Sul mercato degli exploit: «Diciamo che chi posta online in giro non dà l'idea di essere molto bravo», commenta Fabio Pietrosanti, presidente dell'Hermes Center for Transparency and Digital Human Rights.
+- 🆕 **2015-10-06** · Talk · voidsec.com — [Pirate’s Night Show - VoidSec](https://voidsec.com/pirate-night-show/)  
+  verified via wayback; context: …nformatica Forense con Nanni Bassetti Cyber Crime con Alessio Pennasilico ( =mayhem= ) Advanced Persistent Threat con Paolo Stagno Tor, Privacy & Anonimato con Fabio Pietrosanti ( naif ) Web Application Penetration Test …
 - 🆕 **2015-10** · Menzionato · manifestofblasphemy.blogspot.com — [Manifest of Blasphemy: Taglie, broker e Stati: così funziona il mercato degli attacchi informatici](https://manifestofblasphemy.blogspot.com/2015/10/taglie-broker-e-stati-cosi-funziona-il.html)  
   Ripresa integrale dell'articolo di Carola Frediani su La Stampa (19/10/2015). verified via wayback; context: …di hacker russi, dove offre anche exploit per Word 2013, a 5mila dollari. «Diciamo che chi posta online in giro non dà l’idea di essere molto bravo», commenta Fabio Pietrosanti , presidente dell’Hermes Center for Transpa…
 - 🆕 **2015-09-05** · Talk · End Summer Camp 2015 (ESC15), Forte Bazzera (Venezia) — [Hermes Overview 2015](https://www.endsummercamp.org/index.php?title=ESC15-Programma)  

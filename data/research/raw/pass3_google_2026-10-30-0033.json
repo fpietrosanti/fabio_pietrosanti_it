@@ -1,0 +1,67 @@
+[
+ {
+  "date": null,
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "digital-commons-edic.eu",
+  "title": "Advisory Board — Digital Commons EDIC",
+  "url": "https://digital-commons-edic.eu/governance/advisory-board/",
+  "language": "en",
+  "role": "subject",
+  "note": "verified via live; context: …ers. Members Thierry Fraudet Lea Gimpel Giacomo Grassi Franziska Heine Piotr P. Karwasz Amandine Le Pape Michiel Leenaars Catharina Maracke François Pellegrini Fabio Pietrosanti Paolo Vecchi Thierry Fraudet Thierry Fraud…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2018-05-02",
+  "year": 2018,
+  "type": "mentioned",
+  "outlet": "giornalettismo.com",
+  "title": "Per profilarvi non serve Facebook: basta il vostro browser e può farvi male",
+  "url": "https://www.giornalettismo.com/profilazione-utenti-browser/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …questa storia abbastanza “ comica ”. LEGGI ANCHE > LE VIE DI FUGA DEI PROFILATORI: LO SCRAPING Non è affatto comica, è una questione di sicurezza molto seria. Fabio Pietrosanti , presidente del Centro Hermes per la Trasp…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2019-06-12",
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "glistatigenerali.com",
+  "title": "Democrazia digitale. L'iniziativa popolare che unisce le forze Eumane",
+  "url": "https://www.glistatigenerali.com/politica/partiti-e-politici/democrazia-digitale-liniziativa-popolare-che-unisce-le-forze-eumane/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …promotore di Eumans, si confronteranno accademici e attivisti europei, insieme ad esperti noti come Marco Canestrari, Stefano Quintarelli, Fiorella De Cindio, Fabio Pietrosanti. La democrazia è molto più che una serie di…",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2015-10-06",
+  "year": 2015,
+  "type": "talk",
+  "outlet": "voidsec.com",
+  "title": "Pirate’s Night Show - VoidSec",
+  "url": "https://voidsec.com/pirate-night-show/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …nformatica Forense con Nanni Bassetti Cyber Crime con Alessio Pennasilico ( =mayhem= ) Advanced Persistent Threat con Paolo Stagno Tor, Privacy & Anonimato con Fabio Pietrosanti ( naif ) Web Application Penetration Test …",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": null,
+  "type": "mentioned",
+  "outlet": "zh.wikipedia.org",
+  "title": "GlobaLeaks - 维基百科，自由的百科全书",
+  "url": "https://zh.wikipedia.org/zh-cn/GlobaLeaks",
+  "language": "zh",
+  "role": "subject",
+  "note": "verified via wayback; context: …弊行动计划的安全与匿名。这套软件由赫尔墨斯中心 [1] 开发维护，它是一个意大利非政府组织，至力于推动网络言论自由。 这套软件赋权让任何人，即便不具技术背景，也可轻易地设定操作一套安全的吹哨揭弊平台。 目录 1 发展历程 2 回响 3 运作 4 执行状况 5 参考资料 发展历程 [ 编辑 ] 这项专案的概念一开始是由 Fabio Pietrosanti 所提出，并于2010年12月15日首次向骇客开发者社群分享此想法。 [2] 初期阶段…",
+  "verified": true,
+  "known": false
+ }
+]

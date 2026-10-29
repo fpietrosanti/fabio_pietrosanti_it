@@ -9234,6 +9234,23 @@
   "on_old_site": false
  },
  {
+  "date": "2015-10-06",
+  "year": 2015,
+  "type": "talk",
+  "outlet": "voidsec.com",
+  "title": "Pirate’s Night Show - VoidSec",
+  "url": "https://voidsec.com/pirate-night-show/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …nformatica Forense con Nanni Bassetti Cyber Crime con Alessio Pennasilico ( =mayhem= ) Advanced Persistent Threat con Paolo Stagno Tor, Privacy & Anonimato con Fabio Pietrosanti ( naif ) Web Application Penetration Test …",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-30-0033"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2015-10-19",
   "year": 2015,
   "type": "article",
@@ -12266,6 +12283,23 @@
   "on_old_site": false
  },
  {
+  "date": "2018-05-02",
+  "year": 2018,
+  "type": "mentioned",
+  "outlet": "giornalettismo.com",
+  "title": "Per profilarvi non serve Facebook: basta il vostro browser e può farvi male",
+  "url": "https://www.giornalettismo.com/profilazione-utenti-browser/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …questa storia abbastanza “ comica ”. LEGGI ANCHE > LE VIE DI FUGA DEI PROFILATORI: LO SCRAPING Non è affatto comica, è una questione di sicurezza molto seria. Fabio Pietrosanti , presidente del Centro Hermes per la Trasp…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-30-0033"
+  ],
+  "on_old_site": false
+ },
+ {
   "date": "2018-05-06",
   "year": 2018,
   "type": "press_release",
@@ -13629,6 +13663,23 @@
   "known": false,
   "_slices": [
    "pass3_google_2026-10-28-0033"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2019-06-12",
+  "year": 2019,
+  "type": "mentioned",
+  "outlet": "glistatigenerali.com",
+  "title": "Democrazia digitale. L'iniziativa popolare che unisce le forze Eumane",
+  "url": "https://www.glistatigenerali.com/politica/partiti-e-politici/democrazia-digitale-liniziativa-popolare-che-unisce-le-forze-eumane/",
+  "language": "it",
+  "role": "subject",
+  "note": "verified via wayback; context: …promotore di Eumans, si confronteranno accademici e attivisti europei, insieme ad esperti noti come Marco Canestrari, Stefano Quintarelli, Fiorella De Cindio, Fabio Pietrosanti. La democrazia è molto più che una serie di…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-30-0033"
   ],
   "on_old_site": false
  },
@@ -21670,6 +21721,23 @@
   "known": false,
   "_slices": [
    "pass3_google_2026-10-14-1020"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": null,
+  "year": 2026,
+  "type": "mentioned",
+  "outlet": "digital-commons-edic.eu",
+  "title": "Advisory Board — Digital Commons EDIC",
+  "url": "https://digital-commons-edic.eu/governance/advisory-board/",
+  "language": "en",
+  "role": "subject",
+  "note": "verified via live; context: …ers. Members Thierry Fraudet Lea Gimpel Giacomo Grassi Franziska Heine Piotr P. Karwasz Amandine Le Pape Michiel Leenaars Catharina Maracke François Pellegrini Fabio Pietrosanti Paolo Vecchi Thierry Fraudet Thierry Fraud…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-30-0033"
   ],
   "on_old_site": false
  },
