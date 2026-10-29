@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1249**; già processate: **1428**; ancora da processare: **0**
-- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1063** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1184**
+- Voci in `data/media.json`: **1254**; già processate: **1433**; ancora da processare: **0**
+- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1068** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1189**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -21,7 +21,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 | Anno | ✅ | 🎬 | 🟡 | 🟠 | 🎞️ | ⏳ | ❌ |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| s.d. | 72 | 1 | 0 | 0 | 0 | 0 | 0 |
+| s.d. | 75 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 1997 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1998 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1999 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -44,8 +44,8 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 88 | 5 | 3 | 0 | 0 | 0 | 0 |
 | 2018 | 76 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 96 | 3 | 2 | 0 | 0 | 0 | 2 |
-| 2020 | 176 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 2019 | 97 | 3 | 2 | 0 | 0 | 0 | 2 |
+| 2020 | 177 | 11 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 60 | 17 | 0 | 0 | 0 | 0 | 2 |
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
@@ -368,11 +368,13 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · barcelonaradical.net — [Globaleaks: primer i únic sistema open source de whistleblowing](https://www.barcelonaradical.net/info/7574/globaleaks-primer-i-unic-sistema-open-source-de-whistleblowing) · copia: `undated/116b72e61bd7` (Web Archive 20150425) · licenza: terzi
 - **None** · centroriformastato.it — [Scopi e iniziative della Scuola critica del digitale - CRS - Centro per la Riforma dello S](https://www.centroriformastato.it/scopi-e-iniziative-della-scuola-critica-del-digitale-2/) · copia: `undated/dc739e70f6f2` (Web Archive 20210413) · licenza: terzi
 - **None** · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202022%20l'accoglienza%208.htm) · copia: `undated/83431bfba693` (Web Archive 20230129) · licenza: terzi
+- **None** · cosapubblica.it — [Ispettori volontari per ridurre i furti dei politici. Il nostro primo seminario a Sesto Sa](https://www.cosapubblica.it/ispettori-volontari-per-ridurre-i-furti-dei-politici-seminario-sesto-san-giovanni/) · copia: `undated/6fb5327d0064` (Web Archive 20140407) · licenza: terzi
 - **None** · dalchecco.it — [Informatica Forense e Sfida Cybercop all'IISFA Forum 2017](https://www.dalchecco.it/informatica-forense-conferenza-iisfa-forum-2017/) · copia: `undated/071b90612834` (live) · licenza: terzi
 - **None** · debugliesintel.com — [Mercato globale dello spyware 2025: impennata degli investimenti negli Stati Uniti e broke](https://www.debugliesintel.com/mercato-globale-dello-spyware-2025-impennata-degli-investimenti-negli-stati-uniti-e-broker-che-alimentano-i-rischi-di-proliferazione/) · copia: `undated/437c69318415` (Web Archive 20251018) · licenza: terzi
 - **None** · dimt.it — [Whistleblowing e Pa, quali garanzie per i segnalanti? Coccagna (Anac): "Uno speciale proto](https://www.dimt.it/news/8whistleblowing-e-pa-quali-garanzie-per-i-segnalanti-coccagna-anac-uno-speciale-protocollo-tutela-chi-invia-le-email-presto-possibilita-per-tutti-i-cittadini/) · copia: `undated/7eb3c6d5c40d` (Web Archive 20210116) · licenza: terzi
 - **None** · editorialedomani.it — [Ecco la lettera ai Cinque stelle per sostituire Rousseau e riformare lo statuto](https://www.editorialedomani.it/politica/italia/ecco-la-lettera-ai-cinque-stelle-per-sostituire-rousseau-e-riformare-lo-statuto-qxkgge9b) · copia: `undated/3bcce2091e75` (Web Archive 20201101) · licenza: terzi
 - **None** · exploit-db.com — [Microsoft Windows XP/2000/NT 4.0 - Network Share Provider SMB Request Buffer Overflow (2)](https://www.exploit-db.com/exploits/21747) · copia: `undated/f97279cefca1` (Web Archive 20121222) · licenza: terzi
+- **None** · fabionatalucci.it — [Progetto SenzaFiltri.org smaschera la Pubblica Amministrazione](https://www.fabionatalucci.it/progetto-senzafiltri-org-smaschera-la-pubblica-amministrazione/) · copia: `undated/600097ca2013` (Web Archive 20170806) · licenza: terzi
 - **None** · facebook.com — [Reazioni: 18 | Dentro Anonymous. Come operano i guerrieri della rete impegnati a difesa de](https://www.facebook.com/Etabetaradio1/videos/dentro-anonymous-come-operano-i-guerrieri-della-rete-impegnati-a-difesa-dellucra/1078010332773465/) · copia: `undated/c1776fdb104b` (live) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [CURA LE TUE FONTI: COME POTENZIARE LA REDAZIONE CON GLOBALEAKS](https://www.festivaldelgiornalismo.com/cura-le-tue-fonti-come-potenziare-la-redazione-con-globaleaks/) · copia: `undated/f09e9636bd8b` (Web Archive 20240713) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [Digital whistleblowing nel giornalismo moderno #ijf15](https://www.festivaldelgiornalismo.com/digital-whistleblowing-nel-giornalismo-moderno/) · copia: `undated/5c26f085d372` (Web Archive 20230605) · licenza: terzi
@@ -383,6 +385,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **None** · festivaldelgiornalismo.com — [Tecniche di dissidenza e repressione digitale](https://www.festivaldelgiornalismo.com/tecniche-di-dissidenza-e-repressione-digitale-2/) · copia: `undated/663ab2708519` (Web Archive 20240725) · licenza: terzi
 - **None** · festivaldelgiornalismo.com — [Whistleblowing anonimo: come ricevere soffiate da fonti anonime via web](https://www.festivaldelgiornalismo.com/whistleblowing-anonimo-come-ricevere-soffiate-da-fonti-anonime-via-web/) · copia: `undated/85d6779aed13` (Web Archive 20240713) · licenza: terzi
 - **None** · gruppotim.it — [Responsible Disclosure |  Gruppo TIM](https://www.gruppotim.it/it/footer/responsible-disclosure.html) · copia: `undated/26ef630bc039` (Web Archive 20200812) · licenza: terzi
+- **None** · ilsole24ore.com — [La sfida di coniugare il dettato costituzionale e la ricerca tecnologica](https://www.ilsole24ore.com/art/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-AE5s8mLD) · copia: `undated/79470e043226` (Web Archive 20211207) · licenza: terzi
 - **None** · ilsussidiario.net — [Open Rousseau: hacker vs Casaleggio/ Contro-piattaforma per sostituire software M5s](https://www.ilsussidiario.net/news/open-rousseau-hacker-vs-casaleggio-contro-piattaforma-per-sostituire-software-m5s/2076827/) · copia: `undated/7ac3c3c830f2` (Web Archive 20201029) · licenza: terzi
 - **None** · infonodes.org — [info.nodes: Fabio Pietrosanti socio fondatore e tesoriere](https://www.infonodes.org/) · copia: `undated/6832dd803efb` (live) · licenza: terzi
 - **None** · journalismfestival.com — [Anonymous whistleblowing: how to receive information from anonymous sources via web](https://www.journalismfestival.com/programme/0/anonymous-whistleblowing-how-to-receive-information-from-anonymous-sources-via-web) · copia: `undated/090766fb9138` (live) · licenza: terzi
@@ -1177,6 +1180,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · Jornal de Notícias — [Jornalistas, eurodeputados e ONG em defesa de Rui Pinto](https://www.fcporto.ws/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/) · copia: `2019/1515921df5ce` (Web Archive 20200918) · licenza: terzi
 - **2019** · infoLibre — [La protección de los denunciantes es crucial para la lucha de Europa contra la corrupción](https://www.infolibre.es/politica/proteccion-denunciantes-crucial-lucha-europa-corrupcion_1_1170568.html) · copia: `2019/6df5e77422f0` (Web Archive 20211209) · licenza: terzi
 - **2019** · Jornal de Notícias — [Jornalistas, eurodeputados e ONG em defesa de Rui Pinto](https://www.jn.pt/justica/artigo/jornalistas-eurodeputados-e-ong-em-defesa-de-rui-pinto/10923035) · copia: `2019/9423417abeec` (live) · licenza: terzi
+- **2019** · lamescolanza.com — [Tor, come e perché diventare invisibili sul web - La Mescolanza](https://www.lamescolanza.com/2019/01/17/tor-web/) · copia: `2019/06a1a3aed351` (Web Archive 20210619) · licenza: terzi
 - **2019** · La Stampa (Raffaele Angius) — [Tor: come e perché diventare invisibili sul web](https://www.lastampa.it/archivio/2019/01/17/news/tor_come_e_perche_diventare_invisibili_sul_web-735790/) · copia: `2019/a21c934cc156` (live) · licenza: terzi
 - **2019** · La Stampa (Raffaele Angius) — [Viaggio nel CCCamp, dove gli hacker immaginano il futuro con filosofi e artisti](https://www.lastampa.it/archivio/2019/08/30/news/viaggio_nel_cccamp_dove_gli_hacker_immaginano_il_futuro_con_filosofi_e_artisti-782989/) · copia: `2019/4b4c631f7020` (live) · licenza: terzi
 - **2019** · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/) · copia: `2019/f197572afc0f` (Web Archive 20191122) · licenza: terzi
@@ -1228,6 +1232,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2020** · m.dagospia.com — [mentre nasce open rousseau, la piattaforma originale sospende i servizi perché non ha sold](https://m.dagospia.com/politica/mentre-nasce-open-rousseau-piattaforma-originale-sospende-i-servizi-perche-248686) · copia: `2020/3d857265efa0` (Web Archive 20250811) · licenza: terzi
 - **2020** · Nexa Center for Internet & Society (Poli — [Tracciamento dei contatti e democrazia: lettera aperta ai decisori](https://nexa.polito.it/lettera-aperta-app-covid19/) · copia: `2020/fecb07b890f6` (Web Archive 20200421) · licenza: terzi
 - **2020** · Bloomberg - Listen to the Story — [North Korea's Man in Spain](https://omny.fm/shows/listen-to-the-story/north-koreas-man-in-spain) · copia: `2020/d89f8f1c3c55` (Web Archive 20260206 · video locale `media.mp3` (26 MB, da caricare su Drive)) · licenza: terzi
+- **2020** · ParteciPa (consultazione Italia 2025) — [Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain - Proposal](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/404) · copia: `2020/89620f044012` (Web Archive 20240806) · licenza: terzi
 - **2020** · ParteciPa (Dipartimento della Funzione P — [Apertura della base dati del Registro Imprese in Open Data](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/423) · copia: `2020/f973695f7ec0` (Web Archive 20241007) · licenza: terzi
 - **2020** · ParteciPa (Italian government consultati — [Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424) · copia: `2020/d5a756e462d6` (Web Archive 20240808) · licenza: propria
 - **2020** · ParteciPa (Dipartimento della Funzione P — [Rafforzare Cybersecurity Nazionale con Misurazione proattiva](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/425) · copia: `2020/2afc1fa9d196` (Web Archive 20240806) · licenza: terzi

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1718**; dopo deduplica: **1249**
+- Risultati grezzi dalle ricerche: **1732**; dopo deduplica: **1254**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1194**
-- Verificati aprendo la pagina: **1178**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1199**
+- Verificati aprendo la pagina: **1183**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 266, tweet 132, Talk 102, Video 81, Citato 78, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, software 2, video_interview 2, institutional 2, repository 2, consultazione 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 270, tweet 132, Talk 102, Video 81, Citato 78, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -37,8 +37,8 @@ Per tipo (nuovi): Menzionato 266, tweet 132, Talk 102, Video 81, Citato 78, Post
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 91 | 91 |
 | 2018 | 0 | 89 | 89 |
-| 2019 | 0 | 80 | 80 |
-| 2020 | 0 | 184 | 184 |
+| 2019 | 0 | 81 | 81 |
+| 2020 | 0 | 185 | 185 |
 | 2021 | 0 | 94 | 94 |
 | 2022 | 0 | 74 | 74 |
 | 2023 | 0 | 20 | 20 |
@@ -592,7 +592,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2021** · article · dr-datenschutz.de — [Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss](https://www.dr-datenschutz.de/gesichtserkennungssoftware-pimeyes-clearview-unter-beschuss/)  
   Dr. Datenschutz (2021, copyrightYear nella pagina; data esatta assente): denunce contro PimEyes e Clearview AI; cita Fabio Pietrosanti, presidente dell'Hermes Center, sulla minaccia del riconoscimento facciale. verified via wayback; context: …Dr. Stefan Brink nicht so schnell von seinem Vorhaben ablassen wird, PimEyes an die Kette zu legen. Wichtig wäre ein solcher Erfolg allemal. Denn, wie sagte es Fabio Pietrosanti, Präsident des an der Initiative beteiligt…
 
-## 2020 — 184 voci, 184 nuove
+## 2020 — 185 voci, 185 nuove
 
 - 🆕 **2020-12-19** · tweet · Twitter — [Rigettata la seconda richiesta FOIA sulla Commissione voto elettronico](https://twitter.com/fpietrosanti/status/1340312125261148160)  
   Testo: «[ITA] La seconda richiesta FOIA sulla Commissione su Voto Elettronico è stata rigettata  La commissione voluta da @g_brescia continua ad operare nell’ombra.  All’estero solo audizioni pubbliche.  /cc @e_pagliarini @lastknight @quinta @mcanducci @raistolo   https://t.co/kRyAnElMP8» Link: https://eclecticismnow.wordpress.com/2020/12/19/commissione-voto-elettronico-rigetto-foia/. Wayback capture 20201219150559 (id_) di twitter.com/fpietrosanti/status/1340312125261148160.
@@ -930,6 +930,8 @@ Anni senza nessun risultato: nessuno
   Testo: «[ITA] In Estonia usano il voto online. Il Voto Online aumenta la partecipazione. Il M5S ispira le sue proposte di introduzione del voto all’Estonia. HAHAHAHAHAHAHAAHAHAHAHAHAHAAHHAAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAAHHAAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAAHHAAHAHA» Wayback capture 20200122223115 (id_) di twitter.com/fpietrosanti/status/1220109706640924682.
 - 🆕 **2020-01-19** · Citato · la Repubblica (Repubblica.it, rubrica #bravimabasta di Luca Bottura; anche edizione cartacea p. 46, sez. TV) — [Senza rete](https://www.repubblica.it/dossier/bravimabasta/2020/01/19/news/senza_rete-246107973/)  
   Found via ricerca.repubblica.it query "Fabio Pietrosanti" (Chrome). Article page opened; text contains: 'come ha scoperto subito dopo Fabio Pietrosanti del Centro Hermes'. Same column also in the print edition 19/01/2020 p. 46 (title '#bravimabasta', paywalled, quotidiano.repubblica.it searchdetail).
+- 🆕 **2020-01-16** · consultazione · ParteciPa (consultazione Italia 2025) — [Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain - Proposals - 2025 Strategia per l’innovazione tecnologica e la digitalizzazione del Paese - ParteciPa](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/404)  
+  verified via wayback; context: …hing else you think doesn't belong on ParteciPa. Additional comments Report 6 comments Order by: Older Best rated Recent Older Most discussed Conversation with Fabio Pietrosanti Fabio Pietrosanti 16/01/2020 22:38 ellipse…
 - 🆕 **2020-01-16** · Articolo scritto · ParteciPa (Italian government consultation platform) - 'Italia 2025' Strategia per l'innovazione tecnologica e la digitalizzazione del Paese — [Piattaforme informatiche centralizzate per Whistleblowing Anticorruzione e FOIA](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/424)  
   Proposal page shows author 'Fabio Pietrosanti'; date 16/01/2020 found in page markup. Grey literature (public consultation submission).
 - 🆕 **2020-01-16** · consultazione · ParteciPa (Dipartimento della Funzione Pubblica / Ministro per l'innovazione tecnologica) - consultazione 'Italia 2025' — [Apertura della base dati del Registro Imprese in Open Data](https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/423)  
@@ -963,7 +965,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
   verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
-## 2019 — 80 voci, 80 nuove
+## 2019 — 81 voci, 81 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -1111,6 +1113,8 @@ Anni senza nessun risultato: nessuno
   Copernicani working-group paper on crypto overlay networks / online voting; 'Gruppo di lavoro' lists Fabio Pietrosanti with Bertola, Quintarelli, Telmon, Zanero et al.; published_time 2019-02-09
 - 🆕 **2019-02-08** · Radio · Radio 24 (Il Sole 24 Ore) - 2024, con Enrico Pagliarini — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711)  
   Facial recognition segment: 'Enrico Pagliarini ne parla con Fabio Pietrosanti, presidente e cofondatore del Centro Hermes per la trasparenza e i diritti umani digitali.' Verified 2026-09-22 via the Radio 24 episode JSON (redis jsonget, which is what the page renders); old URL http://www.radio24.ilsole24ore.com/programma/2024/terapie-digitali--accordo-google-e-confindustria--riconoscimento-facciale-210510-gSLAKr6F1C 301-redirects here.
+- 🆕 **2019-01-17** · Menzionato · lamescolanza.com — [Tor, come e perché diventare invisibili sul web - La Mescolanza](https://www.lamescolanza.com/2019/01/17/tor-web/)  
+  verified via wayback; context: …, senza considerare che in Occidente diventa sempre più difficile ottenere riservatezza o effettuare una ricerca non filtrata da algoritmi», spiega a La Stampa Fabio Pietrosanti, fondatore del Centro Hermes per la traspa…
 - 🆕 **2019-01-17** · article · La Stampa (Raffaele Angius) — [Tor: come e perché diventare invisibili sul web](https://www.lastampa.it/archivio/2019/01/17/news/tor_come_e_perche_diventare_invisibili_sul_web-735790/)  
   Fuori periodo (bonus), letto direttamente. «... spiega a La Stampa Fabio Pietrosanti, fondatore del Centro Hermes per la trasparenza e i diritti umani digitali», con GlobaLeaks su Tor.
 - 🆕 **2019-01-16** · Comunicato · Hermes Center for Transparency and Digital Human Rights — [ANAC ed OpenWhistleblowing](https://hermescenter.org/anac-ed-openwhistleblowing/)  
@@ -2563,6 +2567,9 @@ Anni senza nessun risultato: nessuno
 - 🆕 Menzionato · pr-foundation.org — [La nostra Fondazione sospende le attività a seguito del lockdown per la pandemia - P&R Foundation](http://www.pr-foundation.org/la-nostra-fondazione-sospende-le-attivita-seguito-del-lockdown/)
 - 🆕 Menzionato · juniper.net — [SMB:EXPLOIT:SMBDIE](https://www.juniper.net/us/en/threatlabs/ips-signatures/detail.SMB:EXPLOIT:SMBDIE.html)
 - 🆕 Menzionato · borncity.com — [WhatsApp warnt 200 Nutzer vor gefälschter iPhone-App - BornCity](https://borncity.com/news/whatsapp-warnt-200-nutzer-vor-gefaelschter-iphone-app/)
+- 🆕 Menzionato · fabionatalucci.it — [Progetto SenzaFiltri.org smaschera la Pubblica Amministrazione](https://www.fabionatalucci.it/progetto-senzafiltri-org-smaschera-la-pubblica-amministrazione/)
+- 🆕 Menzionato · ilsole24ore.com — [La sfida di coniugare il dettato costituzionale e la ricerca tecnologica](https://www.ilsole24ore.com/art/la-sfida-coniugare-dettato-costituzionale-e-ricerca-tecnologica-AE5s8mLD)
+- 🆕 Menzionato · cosapubblica.it — [Ispettori volontari per ridurre i furti dei politici. Il nostro primo seminario a Sesto San Giovanni](https://www.cosapubblica.it/ispettori-volontari-per-ridurre-i-furti-dei-politici-seminario-sesto-san-giovanni/)
 - 🆕 Menzionato · repubblica.it — [Fabio Pietrosanti - la Repubblica.it](https://www.repubblica.it/protagonisti/Fabio_Pietrosanti/)
 - 🆕 documento · CRVD (copia preservata) — [Tag: italiani all'estero](https://hermescenter.github.io/crvd.org-preservation/tag/italiani-allestero/)
 - 🆕 encyclopedia · 360百科 (baike.so.com) — [GlobaLeaks_360百科](https://baike.so.com/doc/28375734-29802503.html)

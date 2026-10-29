@@ -1142,6 +1142,22 @@
   {
    "url": "https://www.slideshare.net/slideshow/mobile-app-security-a-review/72356831",
    "reason": "2026-10-29: solo riquadro slide correlate (WHYMCA 2010 già in archivio)"
+  },
+  {
+   "url": "https://www.dalchecco.it/tag/iisfa/page/2/",
+   "reason": "2026-10-29: pagina tag/indice di dalchecco.it; il post IISFA Forum 2017 è già in archivio (dalchecco.it/informatica-forense-conferenza-iisfa-forum-2017/)"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/livello-fisico-ieee-8023/1558432",
+   "reason": "2026-10-29: solo riquadro slide correlate (Webbit 2004 già in archivio)"
+  },
+  {
+   "url": "https://attivissimo.me/google-analytics-stop-anche-dal-garante/",
+   "reason": "2026-10-29: URL alternativo (nuovo dominio) del post già in archivio attivissimo.blogspot.com/2022/06/google-analytics-stop-anche-dal-garante.html"
+  },
+  {
+   "url": "https://monitora-pa.it/2022/07/07/1311_nuove_pec.html",
+   "reason": "2026-10-29: post Monitora PA che riproduce il modello di richiesta con dati personali di Fabio (luogo/data di nascita, codice fiscale); stessa linea degli atti FOIA con dati personali già esclusi — da rivedere con Fabio se lo vuole in archivio"
   }
  ],
  "override": [
@@ -1492,6 +1508,16 @@
     "year": 2026,
     "language": "es",
     "type": "quoted"
+   }
+  },
+  {
+   "url": "https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/404",
+   "set": {
+    "date": "2020-01-16",
+    "year": 2020,
+    "type": "consultazione",
+    "role": "author",
+    "outlet": "ParteciPa (consultazione Italia 2025)"
    }
   }
  ],

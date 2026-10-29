@@ -1115,46 +1115,12 @@
   "date": null,
   "year": null,
   "type": "mentioned",
-  "outlet": "partecipa.gov.it",
-  "title": "Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain - Proposals - 2025 Strategia per l’innovazione tecnologica e la digitalizzazione del Paese - ParteciPa",
-  "url": "https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/404",
-  "language": "it",
-  "role": "subject",
-  "note": "verified via wayback; context: …hing else you think doesn't belong on ParteciPa. Additional comments Report 6 comments Order by: Older Best rated Recent Older Most discussed Conversation with Fabio Pietrosanti Fabio Pietrosanti 16/01/2020 22:38 ellipse…",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass3_google_2026-10-29-2300"
-  ],
-  "on_old_site": false
- },
- {
-  "date": null,
-  "year": null,
-  "type": "mentioned",
   "outlet": "fabionatalucci.it",
   "title": "Progetto SenzaFiltri.org smaschera la Pubblica Amministrazione",
   "url": "https://www.fabionatalucci.it/progetto-senzafiltri-org-smaschera-la-pubblica-amministrazione/",
   "language": "it",
   "role": "subject",
   "note": "verified via wayback; context: …divulgate informazioni interessanti, su governi, vulnerabilità, tecniche di exploitation e molto altro. Quest’anno al 33c3 era presente un nostro connazionale Fabio Pietrosanti con un talk dal titolo: “ Robots txt abuses…",
-  "verified": true,
-  "known": false,
-  "_slices": [
-   "pass3_google_2026-10-29-2300"
-  ],
-  "on_old_site": false
- },
- {
-  "date": null,
-  "year": null,
-  "type": "mentioned",
-  "outlet": "dalchecco.it",
-  "title": "IISFA Archivi",
-  "url": "https://www.dalchecco.it/tag/iisfa/page/2/",
-  "language": "it",
-  "role": "subject",
-  "note": "verified via live; context: …ata 20 maggio ore 9.30 Aula Magna Emilio Alessandrini – Guido Galli Palazzo di Giustizia, Via Freguglia n. 1 Coordinano: Gerardo Costabile e Giuseppe Mazzaraco Fabio Pietrosanti – Naif – Security & Digital Forensics Cons…",
   "verified": true,
   "known": false,
   "_slices": [
@@ -9533,18 +9499,17 @@
   "type": "radio",
   "outlet": "Radio Radicale - Presi per il Web",
   "title": "Presi per il Web",
-  "url": "https://www.radioradicale.it/scheda/464793/presi-per-il-web",
+  "url": "https://www.radioradicale.it/scheda/464793/",
   "language": "it",
   "role": "interviewee",
-  "note": "Radio Radicale tech programme, 50 min audio",
+  "note": "Guest expert on Marco Carrai's appointment as government cybersecurity adviser; argues for competence-based selection",
   "verified": true,
   "known": false,
   "_slices": [
-   "pass3_google_2026-10-29-2300",
-   "slice6_media_archives"
+   "slice4_2016_2020"
   ],
   "mirrors": [
-   "https://www.radioradicale.it/scheda/464793/"
+   "https://www.radioradicale.it/scheda/464793/presi-per-il-web"
   ],
   "on_old_site": false
  },
@@ -14847,6 +14812,23 @@
   "known": false,
   "_slices": [
    "pass4_pyongyang_tweets_residui_2026-10-05"
+  ],
+  "on_old_site": false
+ },
+ {
+  "date": "2020-01-16",
+  "year": 2020,
+  "type": "consultazione",
+  "outlet": "ParteciPa (consultazione Italia 2025)",
+  "title": "Sviluppare l’identità digitale unica e decentralizzata su tecnologia blockchain - Proposals - 2025 Strategia per l’innovazione tecnologica e la digitalizzazione del Paese - ParteciPa",
+  "url": "https://partecipa.gov.it/processes/innovazione-tecnologica/f/20/proposals/404",
+  "language": "it",
+  "role": "author",
+  "note": "verified via wayback; context: …hing else you think doesn't belong on ParteciPa. Additional comments Report 6 comments Order by: Older Best rated Recent Older Most discussed Conversation with Fabio Pietrosanti Fabio Pietrosanti 16/01/2020 22:38 ellipse…",
+  "verified": true,
+  "known": false,
+  "_slices": [
+   "pass3_google_2026-10-29-2300"
   ],
   "on_old_site": false
  },

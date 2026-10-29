@@ -4073,6 +4073,70 @@
    "pages": 1,
    "note": "aggiunta 2026-10-29 18:00: coda esaurita; angoli mai interrogati (Android/iPhone, SMS/OpenBTS, Bitcoin/blockchain, deep/dark web, OSINT/IoT, Report/PresaDiretta, elezioni/voto, mafia/criminalità)",
    "done": "2026-10-29 23:00"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"webb.it\" OR webbit",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 20:00: coda esaurita; anni deboli 2003-08 e 2023-25 (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA)",
+   "done": "2026-10-29 20:00",
+   "found": 11
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Zfone OR ZRTP OR SRTP OR \"VoIP cifrato\"",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 20:00: coda esaurita; anni deboli 2003-08 e 2023-25 (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA)",
+   "done": "2026-10-29 20:00",
+   "found": 9
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Polizia Postale\" OR \"Guardia di Finanza\" OR carabinieri informatica",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 20:00: coda esaurita; anni deboli 2003-08 e 2023-25 (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA)",
+   "done": "2026-10-29 20:00",
+   "found": 13
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" OpenSSL OR \"certificati SSL\" OR Heartbleed OR TLS",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 20:00: coda esaurita; anni deboli 2003-08 e 2023-25 (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA)",
+   "done": "2026-10-29 20:00",
+   "found": 10
+  },
+  {
+   "query": "\"Pietrosanti\" Attivissimo \"Disinformatico\" OR naif",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 20:00: coda esaurita; anni deboli 2003-08 e 2023-25 (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA)",
+   "done": "2026-10-29 20:00",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" startup OR imprenditore OR \"fondatore di\" sicurezza",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 20:00: coda esaurita; anni deboli 2003-08 e 2023-25 (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA)",
+   "done": "2026-10-29 20:00",
+   "found": 8
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" pagoPA OR SPID OR \"identità digitale\" OR \"app IO\"",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 20:00: coda esaurita; anni deboli 2003-08 e 2023-25 (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA)",
+   "done": "2026-10-29 20:00",
+   "found": 14
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"intelligenza artificiale\" OR ChatGPT OR LLM",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-29 20:00: coda esaurita; anni deboli 2003-08 e 2023-25 (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA)",
+   "done": "2026-10-29 20:00",
+   "found": 9
   }
  ],
  "history": [
@@ -5104,6 +5168,14 @@
    "captcha": false,
    "confirmed_new": 7,
    "note": "BRAVE_API_KEY non impostata. Chrome connesso, 8 query pending (Android/iPhone, SMS/OpenBTS, Bitcoin, deep web, OSINT/IoT, Report/PresaDiretta, elezioni, antimafia), nessun robot check, 92 risultati, 83 URL distinti; scartati LinkedIn, nexa hyperkitty, lists.linux.it, forum.italia.it, habbolifeforum, infosecurity.ch, feed garr.tv. 69 verificati: 16 OK, 8 già esclusi, 1 escluso (slideshare riquadro correlati), 7 candidati nuovi al merge (radioradicale 464793 Presi per il Web, partecipa.gov.it commento 2020, lamescolanza 2019 Tor, fabionatalucci 33c3, dalchecco tag iisfa, Sole 24 Ore AWS, cosapubblica seminario OSINT) — da ricontrollare (possibili doppioni/pagine indice). Copie offline NON eseguite (limite d uso raggiunto): lanciare archive_copies al prossimo giro. Coda query esaurita: nessuna nuova query aggiunta in questo giro."
+  },
+  {
+   "date": "2026-10-29 20:00",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Ricontrollati i 7 candidati del giro 23:00: radioradicale 464793/presi-per-il-web era già in archivio come mirror (il merge aveva sovrascritto URL e nota: tolto dal file pass3, voce ripristinata), dalchecco tag/iisfa/page/2 → exclude (pagina tag), partecipa proposals/404 → override 2020-01-16 consultazione; restano nuovi partecipa 404, lamescolanza 2019, fabionatalucci 33c3, Sole 24 Ore AWS, cosapubblica OSINT. Coda esaurita: aggiunte ed eseguite 8 query nuove (Webb.it, VoIP cifrato, forze dell'ordine, TLS/OpenSSL, Attivissimo, startup, SPID/pagoPA, IA) con chiave localStorage gqr20261029-2000: nessun robot check, 84 risultati, 72 URL distinti; scartati senza verifica mailing list (pluto, autistici, voipsa, seclists, tor-talk, seul, dovecot, freeswitch), LinkedIn, social generici, pagine indice partecipa/IO/Amazon/Instagram. 42 verificati: 10 OK, 7 già in exclude, 3 aggiunti a exclude (slideshare livello-fisico riquadro correlati, attivissimo.me = URL alternativo del post blogspot già in archivio, monitora-pa 1311_nuove_pec con dati personali di Fabio — da rivedere con lui). Nessuna voce nuova dal giro; voci 1254. Copie offline eseguite (recuperate quelle saltate al giro 23:00): 1189 ottenute + 120 video, nessuna pendente. Coda di nuovo esaurita: il prossimo giro deve aggiungere query nuove."
   }
  ]
 }
