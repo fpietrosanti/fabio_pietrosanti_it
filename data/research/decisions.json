@@ -1174,6 +1174,14 @@
   {
    "url": "https://www.slideshare.net/slideshow/aspetti-di-sicurezza-dei-protocolli-wireless/56868",
    "reason": "2026-10-30: slide di terzi; il nome compare solo nella barra 'Recommended' di SlideShare (sue slide Smau 2002/Webbit 2004, già in archivio)"
+  },
+  {
+   "url": "https://www.slideshare.net/slideshow/wiretapping-presentation-and-security-pptx/276621093",
+   "reason": "2026-10-30: slide di terzi su SlideShare; il nome compare solo nei correlati ('Voice communication security', già in archivio)"
+  },
+  {
+   "url": "https://forum.italia.it/t/beta-osservatorio-nazionale-sovranita-digitale-della-pubblica-amministrazione-mxmap-italia/49033",
+   "reason": "2026-10-30: post di Fabio sul forum Developers Italia (18/06/2026, annuncio beta MXMap): i post di forum non sono pubblicazioni"
   }
  ],
  "override": [

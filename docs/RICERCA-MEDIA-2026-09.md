@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1745**; dopo deduplica: **1264**
+- Risultati grezzi dalle ricerche: **1745**; dopo deduplica: **1265**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1209**
-- Verificati aprendo la pagina: **1193**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1210**
+- Verificati aprendo la pagina: **1194**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 274, tweet 132, Talk 104, Video 85, Citato 78, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Podcast 16, documento 15, Slide 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 274, tweet 132, Talk 104, Video 85, Citato 78, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -44,11 +44,11 @@ Per tipo (nuovi): Menzionato 274, tweet 132, Talk 104, Video 85, Citato 78, Post
 | 2023 | 0 | 20 | 20 |
 | 2024 | 0 | 12 | 12 |
 | 2025 | 0 | 16 | 16 |
-| 2026 | 0 | 50 | 50 |
+| 2026 | 0 | 51 | 51 |
 
 Anni senza nessun risultato: nessuno
 
-## 2026 — 50 voci, 50 nuove
+## 2026 — 51 voci, 51 nuove
 
 - 🆕 **2026-11-14** · Talk · sfscon.it — [MXMap Italia: Observatory of Digital Sovereignty of Italian Public Agencies (SFSCON 2026, Digital Independence Day)](https://www.sfscon.it/talks/mxmap-italia-observatory-of-digital-sovereignty-of-italian-public-agencies/)  
   verified via live; context: …and a call to action to contribute to the project goals, improving the status of digital sovereignty with self-hosted infrastructure and free software. Speaker Fabio Pietrosanti (naif) Hermes Center for Transparency and …
@@ -62,6 +62,8 @@ Anni senza nessun risultato: nessuno
   Recap of the 生物极客闭门论坛 of 12/09/2026 at TimePie's 7th International Longevity Forum (Shanghai): «开源抗衰数据平台开发者Fabio Pietrosanti» among the 6 invited biohackers (Jose Cordeiro, Dave Pascoe, Brian M. Delaney, 刘革新...); his talk summarised as «结构化人体自我实验». Image post with 18 photos. Found via Sogou WeChat search in Fabio's Chrome on 2026-10-09; text copied from the DOM, photos downloaded from mmbiz.qpic.cn (copy 2026/0604b9f21c7c). Photo 10 is a captioned stage photo: «Fabio Pietrosanti — 生物极客、科技创业者» with the quote «开源数据与结构化人体自我实验» (first photo of the forum with his name in the caption).
 - 🆕 **2026-10-02** · Talk · cfp.romhack.io — [MXMap Italia: National Observatory for Digital Sovereignty (RomHack Camp 2026)](https://cfp.romhack.io/romhack-camp-2026/talk/GHQJFC/)  
   verificato 2026-10-14: sessione del 02/10/2026, 20 min, speaker "Fabio Pietrosanti (naif)" (pagina speaker /speaker/MKKXMV/); talk su mxmap.it e osservatorio.mxmap.it
+- 🆕 **2026-10-02** · Slide · RomHack Camp 2026 (CyberSaiyanIT/rhc2026-resources) — [MXMap Italia: National Observatory for Digital Sovereignty - slides (RomHack Camp 2026)](https://github.com/CyberSaiyanIT/rhc2026-resources/tree/main/mxmap-italia)  
+  verificato 2026-10-30 (Google): cartella ufficiale delle risorse RomHack Camp 2026, README "Speaker(s): Fabio Pietrosanti (naif)", lightning talk 02/10/2026, slides.pdf 392 KB; talk già in archivio (cfp.romhack.io GHQJFC)
 - 🆕 **2026-10-02** · Talk · RomHack Camp 2026 (romhack.io schedule) — [MXMap Italia: National Observatory for Digital Sovereignty](https://romhack.io/romhack-schedule/)  
   Alternate listing of the already-known RomHack talk GHQJFC (cfp.romhack.io): schedule JSON on page lists ["GHQJFC","MXMap Italia: National Observatory for Digital Sovereignty",... ["Fabio Pietrosanti (naif)"], 2026-10-02 15:10-15:30, en. Verified by curl+grep 2026-10-30. Same event as known item: add only as extra source URL.
 - 🆕 **2026-09-22** · Video · NetEase 网易 (时光派 account) — [七年探索，全球汇聚：三千余人、百余讲者，共同打开长寿时代的新图景｜第七届时光派国际长寿论坛·整体回顾](https://c.m.163.com/news/v/VG6GUA7FN.html)  

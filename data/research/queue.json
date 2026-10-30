@@ -4260,51 +4260,115 @@
   },
   {
    "query": "\"Pietrosanti\" naif \"Metro Olografix\" OR \"Hackit\" OR hackmeeting 1998 OR 1999",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 17:00",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" Linux OR \"software libero\" 1999 OR 2000 intervista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 17:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" virus OR worm OR vulnerabilità 2003",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 17:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Voice over IP\" OR VoIP OR Skype sicurezza 2006",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 17:00",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" GlobaLeaks 2023 OR 2024 intervista OR articolo",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 17:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" Tor OR anonimato OR crittografia 2024 OR 2025",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 17:00",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"sovranità digitale\" OR \"Osservatorio\" OR MXMap 2025 OR 2026",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 17:00",
+   "found": 10
   },
   {
    "query": "\"naif\" Pietrosanti talk OR conference 2023 OR 2024 OR 2025",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)",
+   "done": "2026-10-30 17:00",
+   "found": 10
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Bluetooth OR \"Bluesnarfing\" OR \"Bluebug\" 2004 OR 2005",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 12:00: coda esaurita; anni deboli 1998-1999, 2003, 2006, 2023-2025 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" phishing OR spam OR \"furto di identità\" 2005 OR 2006",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" BlackBerry OR \"cellulare intercettato\" OR \"SIM\" 2009 OR 2010",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"data retention\" OR \"conservazione dei dati\" 2007 OR 2008",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+  },
+  {
+   "query": "\"Pietrosanti\" naif \"Moby\" OR \"Smau\" OR \"Infosecurity\" 2002 OR 2004",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" whistleblowing PA OR comuni OR scuole 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Microsoft OR Google \"Cloud Act\" pubblica amministrazione",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" longevità OR biohacking OR \"HackingBiology\" 2025 OR 2026",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 17:00: coda esaurita; anni deboli 2002-2010 e 2025-26 (tabella docs/RICERCA-MEDIA-2026-09.md)"
   }
  ],
  "history": [
@@ -5368,6 +5432,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 7 query pending (s0ftpj/BFI 1998-2001, wardriving 2002-04, Smau/Moby 2003-05, Telecom/Tavaroli 2006-08, Winston Smith/e-privacy 2007-09, ANAC/d.lgs. 24 2023-24, Hermes podcast/webinar 2024-25), chiave localStorage gq20261030b_N: nessun robot check, 57 risultati, 52 URL unici. Scartati senza verifica LinkedIn, hyperkitty nexa (mailing list) e pagine indice (radioradicale soggetti, dicorinto tag, alessandrorodolfi home, monitora-pa home, amministrazione trasparente di una scuola, puntosicuro sommario/page-20, profilo slideshare). 38 verificati: quasi tutti già in archivio; 6 'OK' ma nessuno nuovo: 3 slide SlideShare di terzi dove il nome compare solo nella barra 'Recommended' (→ exclude), MOCA 2016 e DIG speaker già presenti (MOCA come mirror di una voce talk più ricca: rimosso dal raw per non sovrascriverla), InfoconDB già escluso da decisione. Fallite researchgate/academia (paper TI Italia whistleblowing, accesso bloccato). Voci invariate 1264. Copie offline rieseguite: 1195 ottenute + 124 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove per gli anni deboli (1998-99, 2000, 2003, 2006, 2023-26)."
+  },
+  {
+   "date": "2026-10-30 17:00",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 1,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (anni deboli 1998-99, 2000, 2003, 2006, 2023-26), chiave localStorage gq20261030c_N: nessun robot check, 78 risultati, 66 URL unici. Scartati senza verifica LinkedIn/X/Facebook, mailing list (hyperkitty nexa, lists.linux.it, autistici, seclists) e pagine indice (dicorinto, puntosicuro page-20, radioradicale soggetti, pr-foundation, poul, romhack speaker/schedule, fosdem events, partecipa, gijc13). 37 verificati: 22 già in archivio, 3 nome assente, 12 'OK' di cui 9 già in exclude; aggiunti a exclude slideshare wiretapping (nome solo nei correlati) e forum.italia.it annuncio beta MXMap 18/06/2026 (post di forum). Nuova voce: slide del lightning talk MXMap Italia a RomHack Camp 2026 (repo CyberSaiyanIT/rhc2026-resources, slides.pdf in copia). Voci 1264→1265. Copie offline: 1197 ottenute + 124 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (Bluetooth 2004-05, phishing 2005-06, BlackBerry/SIM 2009-10, data retention 2007-08, Moby/Smau 2002-04, whistleblowing PA 2025, Cloud Act PA, longevità/biohacking 2025-26)."
   }
  ]
 }

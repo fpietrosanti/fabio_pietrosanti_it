@@ -1,0 +1,18 @@
+[
+ {
+  "date": "2026-10-02",
+  "year": 2026,
+  "type": "slides",
+  "outlet": "RomHack Camp 2026 (CyberSaiyanIT/rhc2026-resources)",
+  "title": "MXMap Italia: National Observatory for Digital Sovereignty - slides (RomHack Camp 2026)",
+  "url": "https://github.com/CyberSaiyanIT/rhc2026-resources/tree/main/mxmap-italia",
+  "language": "en",
+  "role": "speaker",
+  "note": "verificato 2026-10-30 (Google): cartella ufficiale delle risorse RomHack Camp 2026, README \"Speaker(s): Fabio Pietrosanti (naif)\", lightning talk 02/10/2026, slides.pdf 392 KB; talk già in archivio (cfp.romhack.io GHQJFC)",
+  "verified": true,
+  "known": false,
+  "mirrors": [
+   "https://raw.githubusercontent.com/CyberSaiyanIT/rhc2026-resources/main/mxmap-italia/slides.pdf"
+  ]
+ }
+]

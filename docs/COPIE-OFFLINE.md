@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1263**; già processate: **1443**; ancora da processare: **0**
-- Licenza delle copie ottenute: **251** materiale proprio (ripubblicabile), **1078** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1195**
+- Voci in `data/media.json`: **1265**; già processate: **1445**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1078** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1197**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -51,7 +51,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2023 | 14 | 4 | 0 | 0 | 1 | 0 | 0 |
 | 2024 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025 | 9 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 2026 | 51 | 3 | 0 | 1 | 0 | 0 | 0 |
+| 2026 | 53 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## Da completare (non ancora processate)
 
@@ -1615,6 +1615,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · Digital Commons EDIC — [The Digital Commons EDIC adopts joint strategy to scale open-source alternatives](https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/) · copia: `2026/35ab140a4d05` (live) · licenza: terzi
 - **2026** · Fedimedia Italia — [Fedimedia e Digital Indipendence Day per l'indipendenza digitale il 14 novembre al SFSCON ](https://fedimedia.it/fedimedia-e-digital-indipendence-day-una-rete-per-lindipendenza-digitale-il-14-novembre-al-sfscon-2026/) · copia: `2026/192cae336d30` (live) · licenza: terzi
 - **2026** · Gappsy (software directory) — [GlobaLeaks Review, Pricing & Features](https://gappsy.com/tools/globaleaks/) · copia: `2026/041889ec2d15` (Web Archive 20260922) · licenza: terzi
+- **2026** · RomHack Camp 2026 (CyberSaiyanIT/rhc2026 — [MXMap Italia: National Observatory for Digital Sovereignty - slides (RomHack Camp 2026)](https://github.com/CyberSaiyanIT/rhc2026-resources/tree/main/mxmap-italia) · copia: `2026/b5fc186f2193` (live) · licenza: propria
 - **2026** · GitHub — [consorzio-logistico-latina-scalo: Sito web Consorzio Logistico Latina Scalo](https://github.com/fpietrosanti/consorzio-logistico-latina-scalo) · copia: `2026/9d2f7f839015` (live) · licenza: propria
 - **2026** · GitHub fpietrosanti — [infosecurity-ch](https://github.com/fpietrosanti/infosecurity-ch) · copia: `2026/60f47f5d7a64` (live) · licenza: propria
 - **2026** · GitHub — [secassure2026 (fork): Email Provider Dependencies and Email Security in Municipalities Acr](https://github.com/fpietrosanti/secassure2026) · copia: `2026/ea283ba1e5b4` (live) · licenza: propria
@@ -1628,6 +1629,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2026** · WeChat — 长寿科技情报站 (gh_15f7b20393cf) — [以自身试验探索生命边界：极客闭门论坛回顾](https://mp.weixin.qq.com/s?__biz=MzYzNjU5NDcyMg==&mid=2247487983&idx=1&sn=446098ba59feecf871d4690926b13bbd) · copia: `2026/0604b9f21c7c` (chrome-dom) · licenza: terzi
 - **2026** · Osservatorio Nazionale Sovranità Digital — [Osservatorio Nazionale Sovranità Digitale](https://osservatorio.mxmap.it/) · copia: `2026/a243d02057e1` (Web Archive 20260618) · licenza: propria
 - **2026** · quenube.com — [WhatsApp notifica a 200 usuarios que instalaron una aplicación falsa creada por el fabrica](https://quenube.com/whatsapp-notifica-a-200-usuarios-que-instalaron-una-aplicacion-falsa-creada-por-el-fabricante-italiano-de-software-espia-sio/) · copia: `2026/3a68c7a2b44c` (live) · licenza: terzi
+- **2026** · RomHack Camp 2026 (CyberSaiyanIT/rhc2026 — [MXMap Italia: National Observatory for Digital Sovereignty - slides (RomHack Camp 2026)](https://raw.githubusercontent.com/CyberSaiyanIT/rhc2026-resources/main/mxmap-italia/slides.pdf) · copia: `2026/accd9a37c57a` (live) · licenza: propria
 - **2026** · RomHack Camp 2026 (romhack.io schedule) — [MXMap Italia: National Observatory for Digital Sovereignty](https://romhack.io/romhack-schedule/) · copia: `2026/bce994af1656` (live) · licenza: terzi
 - **2026** · The Next Web (TNW) — [WhatsApp just caught an Italian spyware firm building a fake version of its app for iPhone](https://thenextweb.com/news/whatsapp-italian-spyware-fake-app-sio) · copia: `2026/adf88485fb4e` (Web Archive 20260401) · licenza: terzi
 - **2026** · 时光派 TimePie (WeChat official account) — [高纤维可替代少吃延寿，单纯增肌无法拯救肌少症？哈佛、复交顶尖学者齐聚 | 时光派国际长寿论坛盛大开幕](https://weixin.sogou.com/weixin?type=2&query=%E5%BC%80%E6%BA%90%E6%8A%97%E8%A1%B0%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0) · copia: `2026/9a1df4eb5776` (live) · licenza: terzi
