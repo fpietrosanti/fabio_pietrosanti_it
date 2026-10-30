@@ -52,8 +52,12 @@ sono tutti versionati qui. Quello che il clone non porta con sé:
   È ripartibile: ogni esecuzione riprende da dove si era interrotta.
 
 ## Stato dell'upload su Drive
-- Da caricare in tutto: **201 file, 52,6 GB**. Su Drive al 2026-10-29: **69 file, 10,6 GiB** (`data/drive_links.json`);
-  mancano **133 file** (~39 GiB).
+- Da caricare in tutto: **205 file, 52,9 GB**. Su Drive al 2026-10-30: **77 file, 11,9 GiB** (`data/drive_links.json`);
+  mancano **129 file** (~36 GiB). Spazio libero su Drive: 54,4 GiB.
+- Notte 2026-10-30 (01:08–06:31): caricati 8 file, ~1,3 GiB (più ~2 GiB di trasferimenti parziali persi
+  all'arresto). Velocità 130–160 KiB/s, nessun errore di quota. rclone fermato con taskkill alle 06:31, lo
+  script ha registrato da solo i link (69 → 77). Il totale da caricare è salito da 201 a 205 file per le nuove
+  voci della ricerca. Copie leggere pubblicate: 1174 voci, 452 MB in `copies/`. Controlli lingue e LinkedIn OK.
 - Notte 2026-10-29 (01:08–06:31): caricati 8 file, ~0,41 GB (più ~1,4 GB di trasferimenti parziali persi
   all'arresto). Velocità in calo verso il mattino (45–140 KiB/s), nessun errore di quota. rclone fermato con
   taskkill alle 06:31, lo script ha registrato da solo i link (61 → 69). Copie leggere pubblicate: 1159 voci,
