@@ -168,6 +168,11 @@ Stato generale: **923 voci** (809 verificate; il dettaglio che segue è del 28/0
   Medium «No Future for the North Korea Fixer», Substack «Once a Bitcoin Miner».
 - Radio Monte Carlo 2010: Fabio non ricorda → si continua a cercare nel Web Archive.
 
+- **Libro «Cybersicurezza e pubblica amministrazione» (ISBN 9791259766717)** — 2026-10-31: Google lo restituisce per
+  «"Fabio Pietrosanti" "pubblica amministrazione" sicurezza informatica» su una copia dokumen.pub non raggiungibile
+  (timeout, nessuna cattura Wayback). Non verificato: se Fabio sa di esserci citato (o vi ha scritto), dirlo; altrimenti
+  resta da cercare un'anteprima legale (Google Libri/editore).
+
 ### Cosa serve da Fabio
 - **Brave Search API**: creare la chiave su https://api-dashboard.search.brave.com/ (piano gratuito) e impostarla come
   variabile d'ambiente utente `BRAVE_API_KEY` (poi riavviare l'app Claude). Lo script `tools/brave_search.py` e il task
