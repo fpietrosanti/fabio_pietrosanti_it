@@ -4388,51 +4388,107 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" Huawei OR 5G sicurezza OR spionaggio",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati",
+   "done": "2026-10-30 23:50"
   },
   {
    "query": "\"Fabio Pietrosanti\" \"IT-alert\" OR \"allerta pubblica\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati",
+   "done": "2026-10-30 23:50"
   },
   {
    "query": "\"Fabio Pietrosanti\" LeakBox OR IrpiMedia OR \"giornalismo investigativo\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati",
+   "done": "2026-10-30 23:50"
   },
   {
    "query": "\"Fabio Pietrosanti\" DeepSeek OR ChatGPT privacy OR dati",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati",
+   "done": "2026-10-30 23:50"
   },
   {
    "query": "\"Fabio Pietrosanti\" \"Tor\" \"exit node\" OR \"nodo di uscita\" OR \"Tor2web\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati",
+   "done": "2026-10-30 23:50"
   },
   {
    "query": "\"Fabio Pietrosanti\" TrueCrypt OR \"cifratura del disco\" OR \"crittografia del disco\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati",
+   "done": "2026-10-30 23:50"
   },
   {
    "query": "\"Fabio Pietrosanti\" VoIP OR Skype intercettazione 2006 OR 2007 OR 2008",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati",
+   "done": "2026-10-30 23:50"
   },
   {
    "query": "\"Fabio Pietrosanti\" hacker intervista 2011 OR 2012",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati",
+   "done": "2026-10-30 23:50"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" IISFA OR \"informatica forense\" OR \"digital forensics\" convegno",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-30 21:00: coda esaurita; temi non ancora interrogati"
+   "note": "aggiunta 2026-10-30 23:50: coda esaurita; anni deboli (2003, 2006-08, 2023-25) e piste nate da questo giro (Foggia/IISFA, OSXCrypt, blog eclecticismnow)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Mac OR \"Mac OS X\" OR OSXCrypt 2007 OR 2008",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 23:50: coda esaurita; anni deboli (2003, 2006-08, 2023-25) e piste nate da questo giro (Foggia/IISFA, OSXCrypt, blog eclecticismnow)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" GSM OR \"telefonia cifrata\" OR \"crypto phone\" 2007 OR 2008",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 23:50: coda esaurita; anni deboli (2003, 2006-08, 2023-25) e piste nate da questo giro (Foggia/IISFA, OSXCrypt, blog eclecticismnow)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" spyware OR Pegasus OR Paragon 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 23:50: coda esaurita; anni deboli (2003, 2006-08, 2023-25) e piste nate da questo giro (Foggia/IISFA, OSXCrypt, blog eclecticismnow)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" PEC OR \"posta elettronica\" pubblica amministrazione 2025 OR 2026",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 23:50: coda esaurita; anni deboli (2003, 2006-08, 2023-25) e piste nate da questo giro (Foggia/IISFA, OSXCrypt, blog eclecticismnow)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" FOIA OR \"accesso civico\" OR eclecticismnow",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 23:50: coda esaurita; anni deboli (2003, 2006-08, 2023-25) e piste nate da questo giro (Foggia/IISFA, OSXCrypt, blog eclecticismnow)"
+  },
+  {
+   "query": "\"Pietrosanti\" naif convegno sicurezza Firenze OR Bologna OR Milano 2003 OR 2006",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 23:50: coda esaurita; anni deboli (2003, 2006-08, 2023-25) e piste nate da questo giro (Foggia/IISFA, OSXCrypt, blog eclecticismnow)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"pubblica amministrazione\" sicurezza informatica 2023 OR 2024",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-30 23:50: coda esaurita; anni deboli (2003, 2006-08, 2023-25) e piste nate da questo giro (Foggia/IISFA, OSXCrypt, blog eclecticismnow)"
   }
  ],
  "history": [
@@ -5512,6 +5568,14 @@
    "captcha": false,
    "confirmed_new": 1,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (Bluetooth 2004-05, phishing 2005-06, BlackBerry/SIM 2009-10, data retention 2007-08, Moby/Smau 2002-04, whistleblowing PA 2025, Cloud Act PA, longevità/biohacking 2025-26), chiave localStorage gq20261030d_N: nessun robot check, 86 risultati, 73 URL unici. Scartati senza verifica LinkedIn/X/Facebook, mail-archive sikurezza (mailing list), 9 inserzioni eBay e pagine indice/home (pr-foundation, dicorinto, alessandrorodolfi, radioradicale soggetti, partecipa, poul, monitora-pa, infosecurity.ch, biohack.it, hackingbiology news, personaldemocracy). 39 verificati: 22 già in archivio, 5 nome assente, 1 shell JS (Instagram); 11 'OK' di cui 9 già in exclude (commenti Schneier, mirror HandWiki, DIG IT, arXiv HTML Cryptocat, Unità 1997 'naif' aggettivo, slide correlate); aggiunte a exclude 2 slide SlideShare di terzi (nome solo nei correlati). Nuova voce: la Sentinella del Canavese 23/02/2015 'Datagate, violate milioni di Sim card' (citazione su Gemalto/GCHQ come presidente Hermes). Voci 1265→1266. Copie offline: 1198 ottenute + 124 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove (Huawei/5G, IT-alert, LeakBox/IrpiMedia, DeepSeek/ChatGPT, Tor exit/Tor2web, TrueCrypt, VoIP/Skype 2006-08, interviste hacker 2011-12)."
+  },
+  {
+   "date": "2026-10-30 23:50",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 4,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (Huawei/5G, IT-alert, LeakBox/IrpiMedia, DeepSeek/ChatGPT, Tor exit/Tor2web, TrueCrypt, VoIP/Skype 2006-08, interviste hacker 2011-12), chiave localStorage gq20261030e_N: nessun robot check (una disconnessione dell'estensione al primo batch, ripreso senza ripetere la query già fatta), 76 risultati, 65 URL unici. Scartati senza verifica LinkedIn/X/Facebook, mailing list (seclists, autistici, openwall, forum.italia.it), pagine indice/home (pr-foundation, partecipa, monitora-pa, dicorinto tag/tipologia, onionitalia, raiplaysound programma, dalchecco tag, fusolab) e un sito spam. 45 verificati: 13 'OK', di cui 7 già in exclude (Wikipedia it/zh GlobaLeaks, globaleaks people, DIG speaker, pagine IJF di altri relatori); aggiunti a exclude pagina IJF di Riccardo Coluccini (solo co-relatore) e slide SlideShare 'Anonymous security handbook' (nome solo nei correlati). Il raw ridotto alle sole 4 voci nuove: le voci escluse nel raw facevano sparire en.wikipedia GlobaLeaks al merge. Nuove voci: convegno GDPR Università di Foggia/IISFA 5/12/2019 (relazione su whistleblowing, GSM cifrato, trojan); post 'ZTE & Huawei' 5/2/2018 sul blog eclecticismnow firmato 'Fabio Pietrosanti (naif)' (conferma che il blog è suo); InsideOver 7/4/2018 su Kaspersky/Huawei con sua intervista; PMI.it 2008 su TrueCrypt per Mac (OSXCrypt). Voci 1266→1270. Copie offline: 1202 ottenute + 124 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove."
   }
  ]
 }

@@ -5,12 +5,12 @@ Confronto con il vecchio sito (Blogger, ultimo aggiornamento ottobre 2013).
 
 ## Riepilogo
 
-- Risultati grezzi dalle ricerche: **1746**; dopo deduplica: **1266**
+- Risultati grezzi dalle ricerche: **1750**; dopo deduplica: **1270**
 - Già presenti sul vecchio sito: **55** (su 35 voci elencate lì)
-- **Nuovi rispetto al vecchio sito: 1211**
-- Verificati aprendo la pagina: **1195**; solo da risultato di ricerca: **71**
+- **Nuovi rispetto al vecchio sito: 1215**
+- Verificati aprendo la pagina: **1199**; solo da risultato di ricerca: **71**
 
-Per tipo (nuovi): Menzionato 274, tweet 132, Talk 104, Video 85, Citato 79, Post sul blog infosecurity.ch 72, article 47, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
+Per tipo (nuovi): Menzionato 276, tweet 132, Talk 105, Video 85, Citato 79, Post sul blog infosecurity.ch 72, article 48, Altro 37, Progetto 34, Ricerca 31, Comunicato 28, Radio 27, social 23, Libro 22, Report 21, Articolo scritto 20, Slide 16, Podcast 16, documento 15, Paper 12, Intervista 10, TV 8, evento 8, pagina 7, programme 7, audio 7, Capitolo di libro 6, articolo 6, village 5, Brevetto 5, panel 4, workshop 4, code repository 4, Tesi 3, consultazione 3, software 2, video_interview 2, institutional 2, repository 2, cited 1, encyclopedia 1, web page 1, press_list 1, Wiki 1, libro 1, magazine 1, institutional letter (official reply) 1, web 1, Audizione 1, video (YouTube) 1, tweet (thread) 1, article (agency syndication) 1, newspaper 1, video (webinar) 1, website 1, article (syndicated repost) 1, article (rewrite of The Record) 1, news aggregator story 1, newsletter (weekly digest) 1, event 1
 
 ### Copertura per anno
 
@@ -26,7 +26,7 @@ Per tipo (nuovi): Menzionato 274, tweet 132, Talk 104, Video 85, Citato 79, Post
 | 2005 | 1 | 12 | 9 |
 | 2006 | 4 | 13 | 3 |
 | 2007 | 1 | 13 | 10 |
-| 2008 | 0 | 14 | 14 |
+| 2008 | 0 | 15 | 15 |
 | 2009 | 1 | 48 | 46 |
 | 2010 | 6 | 77 | 64 |
 | 2011 | 4 | 30 | 27 |
@@ -36,8 +36,8 @@ Per tipo (nuovi): Menzionato 274, tweet 132, Talk 104, Video 85, Citato 79, Post
 | 2015 | 0 | 50 | 50 |
 | 2016 | 0 | 29 | 29 |
 | 2017 | 0 | 91 | 91 |
-| 2018 | 0 | 90 | 90 |
-| 2019 | 0 | 84 | 84 |
+| 2018 | 0 | 92 | 92 |
+| 2019 | 0 | 85 | 85 |
 | 2020 | 0 | 186 | 186 |
 | 2021 | 0 | 94 | 94 |
 | 2022 | 0 | 75 | 75 |
@@ -977,7 +977,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2020** · Menzionato · controtuttelemafie.it — [Denuncio al mondo ed ai posteri](https://www.controtuttelemafie.it/libro%202020%20i%20partiti%201.htm)  
   verified via wayback; context: …ni di una parte del gruppo parlamentare, guidata dai cosiddetti �contiani�, che vorrebbe sganciare Casaleggio dal Movimento. Per quanto riguarda la tecnologia, Fabio Pietrosanti spiega cos� le specifiche tecniche di Open… | Raccolta di ritagli stampa 2020 (capitolo «I partiti») sul M5S/Rousseau: Fabio citato sulle specifiche tecniche della piattaforma.
 
-## 2019 — 84 voci, 84 nuove
+## 2019 — 85 voci, 85 nuove
 
 - 🆕 **2021-03-15** · Altro · Agenda Digitale — [Articoli di Fabio Pietrosanti, autore per Agenda Digitale (author page)](https://www.agendadigitale.eu/giornalista/fabio-pietrosanti/)  
   Author page: articles 2019-04-09, 2021-03-15 (x2); year was wrongly 2017
@@ -1001,6 +1001,8 @@ Anni senza nessun risultato: nessuno
   S1E117 with Peter Fleming (UTS) on digital whistleblowing infrastructure
 - 🆕 **2019-12-07** · tweet · Twitter (@fpietrosanti) — [“The FBI’s case against a famous hacker for allegedly trying to help North Korea use cryptocurrency to evade s…](https://twitter.com/fpietrosanti/status/1203105625267474433)  
   Full text: "“The FBI’s case against a famous hacker for allegedly trying to help North Korea use cryptocurrency to evade sanctions is ridiculous." https://t.co/BEBVvfMMUH" Text read 2026-10-04 from Twitter syndication endpoint (cdn.syndication.twimg.com/tweet-result, author screen_name fpietrosanti); Wayback capture 20191207193237 listed in CDX (Wayback HTML not opened: archive.org bot-flag).
+- 🆕 **2019-12-05** · Talk · Puglia Convegni (pugliaconvegni.it) — [La prova di resistenza della privacy (GDPR) — Università di Foggia / IISFA, Foggia 5/12/2019](https://www.pugliaconvegni.it/articolo-tecnologia.php?mo=1&yr=2027&id=4892&start=0)  
+  Annuncio del convegno (Università di Foggia, Dipartimento di Giurisprudenza, con IISFA, 5/12/2019): nel pomeriggio relazione di Fabio Pietrosanti su «Whistleblowing, reti GSM cifrate, Trojan, vulnerabilità». Verificato sulla pagina live.
 - 🆕 **2019-12-05** · tweet · Twitter (@fpietrosanti) — [Slide Foggia](https://web.archive.org/web/20191205121549/https://twitter.com/fpietrosanti/status/1202557955666849792)  
   Deleted tweet, read from Wayback capture 20191205121549 (page shows 'Fabio Pietrosanti'). Full text: «Slide Foggia» + link https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0 (data-time 1575547133 = 05/12/2019 12:58 CET). The Google Slides deck now returns HTTP 410 (deleted) and has no Wayback capture. Event not confirmed; best hypothesis: guest lecture in Stefano Aterno's 'Sicurezza informatica' course (LM Scienze Giuridiche della Sicurezza, Università di Foggia, I semestre 2019). Aterno co-wrote with Fabio the Agenda Digitale trojan article (Apr 2019).
 - 🆕 **2019-12-05** · Talk · Università di Foggia (lezione nel corso di Stefano Aterno) — [Lezione all'Università di Foggia su invito di Stefano Aterno (slide «Slide Foggia», deck cancellato)](https://docs.google.com/presentation/d/1Wz006pVki-KxWEF5yJFkB7gJ5Z3pRLGnoygXtZWZMt0)  
@@ -1148,7 +1150,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2019** · Menzionato · whistleblowing.fund — [Digital Whistleblowing Fund — Jury (Round 3)](https://whistleblowing.fund/jury/)  
   verificato 2026-10-14: Fabio Pietrosanti (GlobaLeaks) nella giuria del Round 3 del Digital Whistleblowing Fund (anno stimato ~2019; bandi 2017-2020)
 
-## 2018 — 90 voci, 90 nuove
+## 2018 — 92 voci, 92 nuove
 
 - 🆕 **2018-12-27** · village · 35C3 Chaos Communication Congress, Leipzig — [Assembly:Italian Hacker Embassy (35C3 wiki)](https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Italian_Hacker_Embassy) _(non verificato)_  
   Italian Hacker Embassy assembly at 35C3 (contact hackerembassy-orga@lists.italiangrappa.it); no member list, his name not shown - context only
@@ -1268,6 +1270,8 @@ Anni senza nessun risultato: nessuno
   Video of IJF18 session
 - 🆕 **2018-04-09** · Menzionato · Hermes Center — News & Press (sito in ripristino) — [Announcement: Hermes Center members and fellows participate at the International Journalism Festival 2018 #ijf18](https://www.hermescenter.org/announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18/)  
   names Fabio: …alists - Marco Calamari 15:45 - 17:00 Centro Servizi G. Alessi Italian privacy nightmare: tales of surveillance - Fabio Pietrosanti , Giovanni Pellerano and Riccardo Coluccini Thursday 12 April 2018 09:30 - 10:45 Hotel Brufani - Sala Priori Attacks, d… — restored in hermescenter/hermescenter.org-restoration id announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18
+- 🆕 **2018-04-07** · Menzionato · InsideOver — [Russia e Cina monopolizzano la sicurezza informatica europea](https://it.insideover.com/politica/russia-cina-monopolizzano-la-sicurezza-informatica-europea.html)  
+  Articolo (7/4/2018) su Kaspersky e Huawei in Europa che riprende un'intervista di Fabio Pietrosanti, presidente del Centro Hermes, sull'uso di antivirus russi nella PA italiana. Verificato via Wayback.
 - 🆕 **2018-04-06** · Intervista · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri)  
   Video interview: 'Kaspersky controlla tutto ma la Russia controlla Kaspersky'; Kaspersky in Italian ministries and police (Hermes)
 - 🆕 **2018-04-06** · TV · Euronews (en español) — [¿Rusia puede espiar a Italia gracias a la empresa de software Kaspersky?](https://es.euronews.com/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-)  
@@ -1304,6 +1308,8 @@ Anni senza nessun risultato: nessuno
   verified via wayback; context: …ra, insieme ad esperti del settore come Stefano Zanero (professore di sicurezza informatica e scienza dei dati), Stefano Fratepietro (ceo di Tesla Consulting), Fabio Pietrosanti (Globaleaks), Matteo Flora e la comunità h…
 - 🆕 **2018-02-06** · Video · FOSDEM (YouTube) — [Public money, public code, the Italian way Hacking Italian Administrations to get to the code (in a legal way)](https://www.youtube.com/watch?v=KizAo_22FYo)  
   Video recording of FOSDEM 2018 talk
+- 🆕 **2018-02-05** · article · Eclecticism Now! (blog, eclecticismnow.wordpress.com) — [ZTE & Huawei: Rischi per le Infrastrutture Critiche Italiane di Telecomunicazione](https://eclecticismnow.wordpress.com/2018/02/05/zte-huawei-rischi-per-le-infrastrutture-critiche-italiane-di-telecomunicazione/)  
+  Post firmato in chiusura «Fabio Pietrosanti (naif)», con aggiornamento del 9/2/2018 sugli USA: conferma che il blog eclecticismnow è suo (attribuzione finora 'da confermare' per gli altri post). Verificato via Wayback.
 - 🆕 **2018-02-04** · Altro · FOSDEM 2018 talk - IA mirror (collections FOSDEM2018/hackercons) — [Public money, public code, the Italian way: Hacking Italian Administrations to get to the code (in a legal way)](https://archive.org/details/youtube-KizAo_22FYo)  
   IA metadata: 'by Giovanni Battista Gallus and Fabio Pietrosanti (naif)'. Mirror of known YouTube video KizAo_22FYo / archive.fosdem.org event.
 - 🆕 **2018-02-04** · Video · video.fosdem.org — [Public money, public code, the Italian way (FOSDEM 2018 recording, mp4)](https://video.fosdem.org/2018/UA2.220/public_money_public_code.mp4)  
@@ -2212,7 +2218,7 @@ Anni senza nessun risultato: nessuno
 - 🆕 **2009** · Libro · R. Chiesa, S. Ducci, S. Ciappi, Profiling Hackers (CRC Press, 2009) - second IA copy — [Profiling hackers: the science of criminal profiling as applied to the world of hacking](https://archive.org/details/profili_chi_2009_00_8384)  
   IA FTS snippet: 'Alessandro Scartezzini, Antonis Anagnostopoulos, Fabio "Naif" Pietrosanti, Marco Tracina, Vittorio Pasteris...' (acknowledgements). Duplicate copy of known item profilinghackers0000chie.
 
-## 2008 — 14 voci, 14 nuove
+## 2008 — 15 voci, 15 nuove
 
 - 🆕 **2008-12-23** · pagina · infosecurity.ch (blog) - 'author' page — [author - infosecurity dot ch](https://web.archive.org/web/20081223045622/http://infosecurity.ch:80/author/)  
   Blog 'about the author' page, Wayback capture 20081223045622 (read 2026-10-23): '[IT] L'autore e' Fabio Pietrosanti (naif) la cui homepage personale e' all'indirizzo http://fabio.pietrosanti.it [EN] The author of this blog is Fabio Pietrosanti (naif)'. Earliest archived description of the blog's authorship (the 2008 site only had the Feb 2007 post 'Uno sguardo a...', already known). Low value: include only if own-blog profile pages are wanted.
@@ -2242,6 +2248,8 @@ Anni senza nessun risultato: nessuno
   Verbatim: "thanks to the Staff (being Orlando Bassotto, Matteo Flora and Fabio Pietrosanti) now you can play with it." Project-blog original of the announcement whose Full-Disclosure copy (seclists 2008/Jan/467) is already known; capture 20080127141237 read 2026-10-08. Parent may prefer to merge it into the known FD item.
 - 🆕 **2008-01-23** · Ricerca · OSXCrypt / Full Disclosure — [THIS IS NOT A SCAM: REAL TRUECRYPT FOR MACOS IS HERE!](https://seclists.org/fulldisclosure/2008/Jan/467)  
   OSXCrypt open-source release (Orlando Bassotto, Matteo Flora, Fabio Pietrosanti)
+- 🆕 **2008** · Menzionato · PMI.it — [TrueCrypt 5.0, dischi criptati ora anche per Mac Os X](https://www.pmi.it/tecnologia/14279/truecrypt-50-ora-supporta-anche-mac-os-x.html)  
+  Articolo sul porting di TrueCrypt su Mac OS X: tra gli artefici Matteo Flora, «Fabio Pietrosanti (aka naif)» e Orlando Bassotto (progetto OSXCrypt). Anno dedotto dall'uscita di TrueCrypt 5.0 (febbraio 2008). Verificato via Wayback.
 
 ## 2007 — 13 voci, 10 nuove
 

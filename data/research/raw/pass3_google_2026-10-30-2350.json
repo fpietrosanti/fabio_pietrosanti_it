@@ -1,0 +1,54 @@
+[
+ {
+  "date": "2019-12-05",
+  "year": 2019,
+  "type": "talk",
+  "outlet": "Puglia Convegni (pugliaconvegni.it)",
+  "title": "La prova di resistenza della privacy (GDPR) — Università di Foggia / IISFA, Foggia 5/12/2019",
+  "url": "https://www.pugliaconvegni.it/articolo-tecnologia.php?mo=1&yr=2027&id=4892&start=0",
+  "language": "it",
+  "role": "speaker",
+  "note": "Annuncio del convegno (Università di Foggia, Dipartimento di Giurisprudenza, con IISFA, 5/12/2019): nel pomeriggio relazione di Fabio Pietrosanti su «Whistleblowing, reti GSM cifrate, Trojan, vulnerabilità». Verificato sulla pagina live.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2018-02-05",
+  "year": 2018,
+  "type": "article",
+  "outlet": "Eclecticism Now! (blog, eclecticismnow.wordpress.com)",
+  "title": "ZTE & Huawei: Rischi per le Infrastrutture Critiche Italiane di Telecomunicazione",
+  "url": "https://eclecticismnow.wordpress.com/2018/02/05/zte-huawei-rischi-per-le-infrastrutture-critiche-italiane-di-telecomunicazione/",
+  "language": "it",
+  "role": "author",
+  "note": "Post firmato in chiusura «Fabio Pietrosanti (naif)», con aggiornamento del 9/2/2018 sugli USA: conferma che il blog eclecticismnow è suo (attribuzione finora 'da confermare' per gli altri post). Verificato via Wayback.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": "2018-04-07",
+  "year": 2018,
+  "type": "mentioned",
+  "outlet": "InsideOver",
+  "title": "Russia e Cina monopolizzano la sicurezza informatica europea",
+  "url": "https://it.insideover.com/politica/russia-cina-monopolizzano-la-sicurezza-informatica-europea.html",
+  "language": "it",
+  "role": "subject",
+  "note": "Articolo (7/4/2018) su Kaspersky e Huawei in Europa che riprende un'intervista di Fabio Pietrosanti, presidente del Centro Hermes, sull'uso di antivirus russi nella PA italiana. Verificato via Wayback.",
+  "verified": true,
+  "known": false
+ },
+ {
+  "date": null,
+  "year": 2008,
+  "type": "mentioned",
+  "outlet": "PMI.it",
+  "title": "TrueCrypt 5.0, dischi criptati ora anche per Mac Os X",
+  "url": "https://www.pmi.it/tecnologia/14279/truecrypt-50-ora-supporta-anche-mac-os-x.html",
+  "language": "it",
+  "role": "subject",
+  "note": "Articolo sul porting di TrueCrypt su Mac OS X: tra gli artefici Matteo Flora, «Fabio Pietrosanti (aka naif)» e Orlando Bassotto (progetto OSXCrypt). Anno dedotto dall'uscita di TrueCrypt 5.0 (febbraio 2008). Verificato via Wayback.",
+  "verified": true,
+  "known": false
+ }
+]

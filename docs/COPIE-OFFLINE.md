@@ -5,9 +5,9 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 
 ## Totali
 
-- Voci in `data/media.json`: **1266**; già processate: **1446**; ancora da processare: **0**
-- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1079** di terzi (**solo archivio privato**, mai linkate dal sito)
-- ✅ Copia locale, nome verificato nella copia: **1198**
+- Voci in `data/media.json`: **1270**; già processate: **1450**; ancora da processare: **0**
+- Licenza delle copie ottenute: **253** materiale proprio (ripubblicabile), **1083** di terzi (**solo archivio privato**, mai linkate dal sito)
+- ✅ Copia locale, nome verificato nella copia: **1202**
 - 🟡 Copia locale, nome NON trovato nella copia (paywall, JavaScript o capture sbagliata): **7**
 - 🔎 Copia locale completa, ma la pagina non contiene né il nome né «naif» (decisione di Fabio): **1**
 - 📚 Scheda di libro/paper: il nome sta nel testo interno (serve Google Books API o il PDF del capitolo): **1**
@@ -33,7 +33,7 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2005 | 11 | 2 | 0 | 0 | 0 | 0 | 1 |
 | 2006 | 13 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 2007 | 12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2008 | 14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2008 | 15 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2009 | 49 | 2 | 0 | 0 | 0 | 0 | 1 |
 | 2010 | 71 | 3 | 1 | 0 | 0 | 0 | 4 |
 | 2011 | 31 | 4 | 0 | 0 | 0 | 0 | 0 |
@@ -43,8 +43,8 @@ privata (`fabio_pietrosanti_it-copies/`, repo privato fpietrosanti/fabio_pietros
 | 2015 | 42 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 2016 | 24 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2017 | 88 | 5 | 3 | 0 | 0 | 0 | 0 |
-| 2018 | 77 | 17 | 1 | 0 | 0 | 0 | 0 |
-| 2019 | 98 | 5 | 2 | 0 | 0 | 0 | 2 |
+| 2018 | 79 | 17 | 1 | 0 | 0 | 0 | 0 |
+| 2019 | 99 | 5 | 2 | 0 | 0 | 0 | 2 |
 | 2020 | 177 | 12 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 86 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 2022 | 60 | 18 | 0 | 0 | 0 | 0 | 2 |
@@ -554,6 +554,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2008** · OSXCrypt.org (project blog, Web Archive) — [This is not a scam: Real Truecrypt for MacOs is here!](https://web.archive.org/web/20080127141237/http://www.osxcrypt.org:80/2008/01/23/this-is-not-a-scam-real-truecrypt-for-macos-is-here/) · copia: `2008/9ad0c397a981` (Web Archive 20080127) · licenza: terzi
 - **2008** · OSXCrypt.org (project website, Web Archi — [Staff - OSXCrypt.org (Truecrypt for MAC)](https://web.archive.org/web/20080128135401/http://www.osxcrypt.org:80/staff/) · copia: `2008/acb6ba842f08` (Web Archive 20080128) · licenza: terzi
 - **2008** · infosecurity.ch (blog) - 'author' page — [author - infosecurity dot ch](https://web.archive.org/web/20081223045622/http://infosecurity.ch:80/author/) · copia: `2008/10b3dbabac72` (Web Archive 20081223) · licenza: propria
+- **2008** · PMI.it — [TrueCrypt 5.0, dischi criptati ora anche per Mac Os X](https://www.pmi.it/tecnologia/14279/truecrypt-50-ora-supporta-anche-mac-os-x.html) · copia: `2008/2f2689fa5d4d` (Web Archive 20191117) · licenza: terzi
 - **2008** · Punto Informatico (PI Download review),  — [OsxCrypt review on PI Download (pidownload.it p.aspx?is=2179579)](https://www.punto-informatico.it/download/osxcrypt/) · copia: `2008/01494df52100` (Web Archive 20200804) · licenza: terzi
 - **2009** · e-privacy 2009 proceedings (urna.winston — [Voice security and privacy (atti, PDF)](http://urna.winstonsmith.org/materiali/2009/atti/ep2009_pietrosanti_voice_security_and_privacy.pdf) · copia: `2009/04a7c9bcf6e9` (Web Archive 20210605) · licenza: terzi
 - **2009** · e-privacy 2009 audio (urna.winstonsmith. — [Voice security and privacy (audio MP3)](http://urna.winstonsmith.org/materiali/2009/audio/ep2009_pietrosanti_voice_security_and_privacy.mp3) · copia: `2009/b982f1a71f8f` (Web Archive 20250227) · licenza: terzi
@@ -1016,6 +1017,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · e-privacy XXIII (2018 summer), Bologna - — [e-privacy XXIII - interventi: Big Brother Awards Italia 2018 (Fabio Pietrosanti, HERMES Ce](https://e-privacy.winstonsmith.org/e-privacy-XXIII-interventi.html) · copia: `2018/27927e782a57` (Web Archive 20200919) · licenza: terzi
 - **2018** · e-privacy XXIII (2018 summer), Bologna,  — [e-privacy XXIII - relatori (bio)](https://e-privacy.winstonsmith.org/e-privacy-XXIII-relatori.html) · copia: `2018/8cc2a1ae4777` (Web Archive 20200919) · licenza: terzi
 - **2018** · e-privacy 2018 (XXIII, Bologna) — [Big Brother Awards Italia 2018](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html) · copia: `2018/de6bba8ab6d7` (Web Archive 20181025) · licenza: terzi
+- **2018** · Eclecticism Now! (blog, eclecticismnow.w — [ZTE & Huawei: Rischi per le Infrastrutture Critiche Italiane di Telecomunicazione](https://eclecticismnow.wordpress.com/2018/02/05/zte-huawei-rischi-per-le-infrastrutture-critiche-italiane-di-telecomunicazione/) · copia: `2018/49969199f223` (Web Archive 20220204) · licenza: terzi
 - **2018** · Euronews (en español) — [¿Rusia puede espiar a Italia gracias a la empresa de software Kaspersky?](https://es.euronews.com/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-) · copia: `2018/1e0cc7e9fe57` (Web Archive 20180406) · licenza: terzi
 - **2018** · Euronews (en español) — [Cuidado con tus datos más íntimos: el negocio de las aplicaciones para la menstruación y e](https://es.euronews.com/2018/04/12/cuidado-con-tus-datos-mas-intimos-el-negocio-de-las-aplicaciones-para-la-menstruacion-y-el) · copia: `2018/fae27f73139d` (Web Archive 20180415) · licenza: terzi
 - **2018** · Euronews (en español) — [¿Rusia puede espiar a Italia gracias a la empresa de software Kaspersky?](https://es.euronews.com/video/2018/04/06/-rusia-puede-espiar-a-italia-gracias-a-la-empresa-de-software-kaspersky-) · copia: `2018/0ea32bb38ddd` (live) · licenza: terzi
@@ -1032,6 +1034,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2018** · Euronews (italiano) — [Forze dell'ordine e Ministeri italiani in balia dell'antivirus... di Mosca](https://it.euronews.com/2018/04/06/antivirus-sicurezza-italia-cyberattacchi-kaspersky-mosca-hermes-ministeri) · copia: `2018/961477acc443` (Web Archive 20180409) · licenza: terzi
 - **2018** · it.euronews.com — [Attenzione ai vostri dati più intimi: il business delle app per mestruazioni e gravidanza](https://it.euronews.com/2018/04/11/attenzione-ai-vostri-dati-piu-intimi-il-business-delle-app-per-mestruazioni-e-gravidanza) · copia: `2018/ddcc574a5b84` (Web Archive 20180414) · licenza: terzi
 - **2018** · Euronews (in italiano) — [La contromossa e la risposta di Kaspersky: accelera sull'operazione trasparenza](https://it.euronews.com/2018/05/15/anche-l-olanda-bandisce-kaspersky-dai-server-pubblici) · copia: `2018/e91a986a2ca9` (Web Archive 20180518) · licenza: terzi
+- **2018** · InsideOver — [Russia e Cina monopolizzano la sicurezza informatica europea](https://it.insideover.com/politica/russia-cina-monopolizzano-la-sicurezza-informatica-europea.html) · copia: `2018/a8c8f88fa9eb` (Web Archive 20201021) · licenza: terzi
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks](https://merge-it.net/2018/talks/globaleaks/) · copia: `2018/7e2f69f4b97b` (Web Archive 20250811) · licenza: terzi
 - **2018** · MERGE-it 2018, Torino — [GlobaLeaks - Storia, Evoluzione, Modello di Sostenibilità Economica (slides)](https://merge-it.net/2018/talks/globaleaks/slides.pdf) · copia: `2018/dc7a19230918` (live) · licenza: propria
 - **2018** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Cybersecurity - Il mondo di Tor - Accordo Sky-Netflix (audio MP3)](https://podcast-radio24.ilsole24ore.com/radio24_audio/2018/180302-2024.mp3) · copia: `2018/c539f62a311d` (live) · licenza: terzi
@@ -1188,6 +1191,7 @@ Solo il suo intervento (video + trascrizione automatica), da `tools/radioradical
 - **2019** · La Stampa (Raffaele Angius) — [Tor: come e perché diventare invisibili sul web](https://www.lastampa.it/archivio/2019/01/17/news/tor_come_e_perche_diventare_invisibili_sul_web-735790/) · copia: `2019/a21c934cc156` (live) · licenza: terzi
 - **2019** · La Stampa (Raffaele Angius) — [Viaggio nel CCCamp, dove gli hacker immaginano il futuro con filosofi e artisti](https://www.lastampa.it/archivio/2019/08/30/news/viaggio_nel_cccamp_dove_gli_hacker_immaginano_il_futuro_con_filosofi_e_artisti-782989/) · copia: `2019/4b4c631f7020` (live) · licenza: terzi
 - **2019** · lastampa.it — [Manovra, il M5S propone soldi per il fantasma del voto elettronico - La Stampa](https://www.lastampa.it/politica/2019/11/21/news/manovra-il-m5s-stanzia-soldi-per-il-fantasma-del-voto-elettronico-1.37928389/) · copia: `2019/f197572afc0f` (Web Archive 20191122) · licenza: terzi
+- **2019** · Puglia Convegni (pugliaconvegni.it) — [La prova di resistenza della privacy (GDPR) — Università di Foggia / IISFA, Foggia 5/12/20](https://www.pugliaconvegni.it/articolo-tecnologia.php?mo=1&yr=2027&id=4892&start=0) · copia: `2019/0a5f2a0f9788` (live) · licenza: terzi
 - **2019** · Radio 24 (Il Sole 24 Ore) - 2024, con En — [Terapie digitali - Accordo tra Google e Confindustria - Riconoscimento facciale](https://www.radio24.ilsole24ore.com/programmi/2024/puntata/terapie-digitali--accordo-tra-google-e-confindustria--riconoscimento-facciale-210510-2419246682955711) · copia: `2019/05160b2a3be4` (live) · licenza: terzi
 - **2019** · la Repubblica (repubblica.it, Tecnologia — [Non solo Android, un'app spia per iPhone dagli autori di Exodus](https://www.repubblica.it/tecnologia/sicurezza/2019/04/08/news/non_solo_android_un_app_spia_per_iphone_dagli_autori_di_exodus-223582128/) · copia: `2019/b3338b455a30` (Web Archive 20190409) · licenza: terzi
 - **2019** · repubblica.it — [Quando lo smartphone diventa una spia. "In Italia oltre mille vittime di stalkerware"](https://www.repubblica.it/tecnologia/sicurezza/2019/10/03/news/quando_lo_smartphone_diventa_una_spia_in_italia_oltre_mille_vittime_di_stalkerware_-237595997/) · copia: `2019/a64ddc934fe0` (Web Archive 20191004) · licenza: terzi
