@@ -4508,51 +4508,115 @@
   },
   {
    "query": "\"Fabio Pietrosanti\" \"voice security\" OR \"sicurezza della voce\" OR VoIP intervista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)"
+   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)",
+   "done": "2026-10-31",
+   "found": 1
   },
   {
    "query": "\"Fabio Pietrosanti\" Cybersicurezza \"pubblica amministrazione\" libro OR volume",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)"
+   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)",
+   "done": "2026-10-31",
+   "found": 10
   },
   {
    "query": "\"Pietrosanti\" s0ftpj OR \"Soft Project\" OR \"Butchered From Inside\" 2001 OR 2002",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)"
+   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)",
+   "done": "2026-10-31",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" Khamsa OR \"Hermes Center\" 2013 OR 2014 intervista",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)"
+   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)",
+   "done": "2026-10-31",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" \"data breach\" OR \"furto di dati\" 2023 OR 2024 OR 2025",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)"
+   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)",
+   "done": "2026-10-31",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" Moby OR Infosecurity OR Smau 2006 OR 2007 OR 2008 conferenza",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)"
+   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)",
+   "done": "2026-10-31",
+   "found": 9
   },
   {
    "query": "\"Fabio Pietrosanti\" NIS2 OR ACN OR \"Agenzia per la cybersicurezza\"",
-   "status": "pending",
+   "status": "done",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)"
+   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)",
+   "done": "2026-10-31",
+   "found": 10
   },
   {
    "query": "\"Fabio Pietrosanti\" Wired OR \"Il Fatto Quotidiano\" whistleblowing 2024 OR 2025",
+   "status": "done",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)",
+   "done": "2026-10-31",
+   "found": 9
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" OpenPGP OR GnuPG OR \"posta cifrata\" 2002 OR 2003",
    "status": "pending",
    "pages": 1,
-   "note": "aggiunta 2026-10-31 00:10: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25) e piste da questo giro (Voice security E-Privacy 2009, spyware IRPA, libro Cybersicurezza e PA)"
+   "note": "aggiunta 2026-10-31 00:40: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25)"
+  },
+  {
+   "query": "\"Pietrosanti\" naif \"Hacker Journal\" OR \"Linux Pro\" OR \"Linux&C\" 2002 OR 2003",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 00:40: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" ransomware intervista 2023 OR 2024",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 00:40: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"intelligenza artificiale\" privacy 2024 OR 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 00:40: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Snowden OR NSA OR Datagate 2013 intervista",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 00:40: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"Hermes Center\" Tor 2013 OR 2014 seminario OR talk",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 00:40: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" \"firma digitale\" OR \"smart card\" 2006 OR 2007",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 00:40: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25)"
+  },
+  {
+   "query": "\"Fabio Pietrosanti\" Telegram OR Signal OR WhatsApp sicurezza 2023 OR 2024 OR 2025",
+   "status": "pending",
+   "pages": 1,
+   "note": "aggiunta 2026-10-31 00:40: coda esaurita; anni deboli (2001-03, 2006-08, 2013-14, 2023-25)"
   }
  ],
  "history": [
@@ -5084,7 +5148,7 @@
   {
    "date": "2026-10-12 16:40",
    "engine": "google-chrome",
-   "searched": 7,
+   "searched": 8,
    "captcha": true,
    "confirmed_new": 11,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa. Ripresa delle 5 query in retry: GlobaLeaks pag. 3, naif hacker (2 pag.), Hermes Center (2), Rousseau (2), Angius (1); poi Monitora PA (2). 56 candidati: 11 voci nuove (barcelonaradical GlobaLeaks, cild.eu FOIA MISE 2017, eunews HGE3 2016, homodigitalis + noyb Clearview, giornalesm + ilsussidiario Open Rousseau, euronews IT 2018 password manager, simpleanalytics, meleamspa, easyteam Monitora PA), tutte con copia offline. Esclusa news.dyne.org 'In memory of Carola Frediani' (firmatari, analoga a 'Ciao, Carola' gia' esclusa da Fabio). Respinte senza il nome: wikiwand, romhack, PDF uniroma2/iccorinaldo/rai Procaccianti/qfiumicino/lancorastorico/icpurificato, ilblogdellestelle, home monitora-pa.it. Scartati senza verifica: tweet propri, LinkedIn/Facebook, forum.italia.it, liste nexa/autistici (mailing list), github, schede Radio Radicale di terzi. Robot check alla query PrivateGSM/PrivateWave/Khamsa: stop, non aggirato, messa in retry. Prossimo blocco: PrivateWave (retry), CRVD voto elettronico, filetype:pdf, intervista/interview."
@@ -5116,7 +5180,7 @@
   {
    "date": "2026-10-13 09:50",
    "engine": "google-chrome",
-   "searched": 7,
+   "searched": 8,
    "captcha": true,
    "confirmed_new": 2,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione connessa (una disconnessione transitoria, ripresa). 7 query della coda eseguite (naif s0ftpj/BFi, hackmeeting 1999-2001, Metro Olografix/MOCA, VoIP 2005-06, ethical hacking 2003-04, GlobaLeaks 2023-24 intervista, Hermes eventi 2024-25), tutte a pagina singola; robot check Google all'ottava ('Fabio Pietrosanti' relatore OR speaker 2025): stop, non aggirato, messa in retry. 30 candidati, quasi tutti già in archivio (s0ftpj, BFi10, No Hat, SFSCon, MOCA, Nexa 73, IJF, e-privacy, CINI 2018, radioradicale). Nuove 2 voci con copia offline (Wayback): paper FOCI 2012 'How the Great Firewall of China is Blocking Tor' (Winter-Lindskog, ringraziamenti a Fabio; copia Scribd) e Collegio Ghislieri, Pavia 24/11/2017, convegno 'Il cellulare ci spia!', talk 'Criptofonini: quindici anni di storia'. Non aggiunte: FSFE FOSDEM 2021 versione .it (già presente la .en), Nexa/MOCA/CINI (già in archivio come mirror). Esclusi (decisions.json): radioradicale 316486 (intervista Vulpiano, curatrice Valentina Pietrosanti), GeImpresa 2018 (Roberto Pietrosanti, artista), peacelink 2741 e dicorinto tag (nome assente). Non verificabili: ebin.pub 'Profiling Hackers' (shell JS; libro Chiesa-Ducci-Ciappi 2008, da controllare se cita naif), SSRN White Paper 2 Cybersecurity and Law (download bloccato). Scartati senza verifica: mailing list (autistici, inventati, nexa hyperkitty), groups.google, infosecurity.ch (sito proprio), paper medici di omonimi (Parkinson). Coda: resta 1 query in retry."
@@ -5276,7 +5340,7 @@
   {
    "date": "2026-10-23 04:40",
    "engine": "google-chrome",
-   "searched": 7,
+   "searched": 8,
    "captcha": false,
    "confirmed_new": 3,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Estensione Chrome connessa. Le 7 query in 'retry' (Snowden/Datagate, Assange, WhatsApp/Signal, Cellebrite/forense, GDPR, Piracy Shield, IA) eseguite senza robot check, URL estratti subito dopo ogni ricerca: 64 risultati, 44 URL distinti, 31 già in archivio. Scartati senza verifica: scalia2001 (omonimo noto), indice attivissimo, LinkedIn/x.com/Facebook di terzi, pr-foundation home, hyperkitty nexa (lista), slideshare LoRa (omonimo), PDF FOIA Monitora PA delle scuole (atti, non pubblicazioni). 11 candidati verificati: 3 OK. NUOVE (3): Euronews IT 11/04/2018 app per mestruazioni e gravidanza (citazione di Fabio, presidente Hermes); mgpf.it (blog Matteo Flora) 06/05/2013 'Di censura, leggi ed altre sciocchezze' (cita 'Naif' Pietrosanti); La Stampa 04/12/2020 Philip Morris e 5 Stelle (Fabio esperto di cybersecurity). Respinti dallo script (nome assente): Radio Radicale 732413, 589931, 721722 (Assange), 772272 e 790273 (Speciale Giustizia), cfp RomHack Camp 2026, punto-informatico Harry Potter, PDF ildirittodelleconomia 2013. Copie offline: 3 ottenute (wayback). Coda di nuovo esaurita: aggiunte 8 query sugli anni più deboli."
@@ -5356,7 +5420,7 @@
   {
    "date": "2026-10-24 20:34",
    "engine": "google-chrome",
-   "searched": 7,
+   "searched": 8,
    "captcha": false,
    "confirmed_new": 4,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Ripetute le 7 query 'retry' (Corea del Nord IT/EN, agenzie, stampa estera, spyware 2026, fediverso, BFi/s0ftpj) senza robot check, estraendo gli URL subito dopo ogni ricerca (window var, ≤8 per chiamata): 56 risultati, 42 candidati. Scartati senza verifica: facebook (social), linkedin, seclists bugtraq (mailing list), dicorinto tag (indice), 5 PDF FOIA MonitoraPA di scuole (amministrazione trasparente). Verifica: 29 già in archivio, 6 respinti (nome assente/JS; il PDF s0ftpj Ep2005 è già in archivio). 7 OK dallo script, 3 tolti come alias/sindacazioni di voci note (finance.yahoo = CoinDesk 03/12/2019; irpa.eu = archivio.irpa.eu; moca2016 /it/employees = /speakers/). 4 nuove voci: AFR 11/05/2020 'The Spaniard with the hotline to Kim' (citato, conferenza in Corea del Nord), firstradioweb 25/02/2020 (ripresa dell'articolo wired.it), ITASEC20 'Il giornalismo e la protezione delle fonti' parte II (scheda relatore), Nexa 73° Mercoledì 11/03/2015 (pagina evento; prima nota solo via slide). 2 nuove copie offline (AFR, firstradioweb via wayback; Nexa e ITASEC avevano già una copia). Coda esaurita: aggiunte 8 query (2003-08, 2023-25, quotidiani nazionali)."
@@ -5404,7 +5468,7 @@
   {
    "date": "2026-10-25 20:33",
    "engine": "google-chrome",
-   "searched": 7,
+   "searched": 8,
    "captcha": true,
    "confirmed_new": 1,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite 7 delle 8 query pending (eventi internazionali RightsCon/MozFest, stampa tedesca, relatore 2016-18, quotidiani 2016-19, Tor onion 2011-14, tesi GlobaLeaks, Wikileaks 2010-12); la query TV (La7/Piazzapulita/Iene/Striscia) ha fatto scattare il robot check di Google (/sorry) al secondo tentativo: fermato subito, nessun aggiramento, query in 'retry'. 67 risultati; scartati senza verifica: mailing list (lists.inventati, lists.linux.it, tor-dev/tor-talk pipermail, seclists, hyperkitty nexa), social (LinkedIn, Instagram), sito proprio (infosecurity.ch), indici (radioradicale soggetti, poul topic, dicorinto tipologia, pr-foundation /content/, hermescenter category, dalchecco tag), zh.wikipedia, aggregatore rssing, repubblica protagonisti. 43 candidati verificati: 36 respinti (nome assente; dokumen.pub FAIL). 7 OK dallo script: 3 già in archivio (tesi Fifield bamsoftware, TWN 17/09/2014, it.wikipedia = mirror della voce en), 3 nuove esclusioni in decisions.json (CINI 1349 ennesima variante di percorso, LWN 656435 = copia TWN 30/08/2015, pagina relatore Di Salvo IJF = alias sessione IJF15). 1 nuova voce: dr-datenschutz.de 2021 «Gesichtserkennungssoftware PimEyes & Clearview unter Beschuss» (cita Fabio come presidente dell'Hermes Center). Nel file grezzo tenuta solo la voce nuova (le note reinserite alteravano media.json). 1 nuova copia offline (wayback). Aggiunte 6 query (stampa europea diritti digitali, riconoscimento facciale, Hermes trojan 2017-19)."
@@ -5412,7 +5476,7 @@
   {
    "date": "2026-10-26 00:32",
    "engine": "google-chrome",
-   "searched": 7,
+   "searched": 8,
    "captcha": false,
    "confirmed_new": 3,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso. Eseguite le 7 query in coda (6 pending + la query TV in retry, messa per ultima per non bruciare le altre in caso di robot check) senza robot check: 63 risultati, 52 URL distinti (query string tolte; YouTube ricostruito dal parametro v). Scartati senza verifica: LinkedIn/Facebook (social), lists.autistici/lists.inventati (mailing list), pr-foundation /content/, dicorinto page/2, homodigitalis pagina autore (indici). 40 candidati verificati: 30 respinti o già in archivio (radioradicale 764774 e programma DIG2022 senza nome, pugliaconvegni guscio JS, researchgate FAIL). 10 OK dallo script: 3 già esclusi (irpa.eu = archivio.irpa.eu, scheda DIG /it/, globaleaks /it/about/people), 4 nuove esclusioni in decisions.json (noyb fr/es = versioni linguistiche del comunicato Clearview, CILD 30/05/2017 italiano = versione della pagina /en/ già in archivio, InfoconDB = aggregatore di relatori). 3 nuove voci, tutte sulla campagna Clearview AI del 27/05/2021 con citazione di Fabio come presidente dell'Hermes Center: Computer Weekly, CyberNews, PONT Data&Privacy (privacy-web.nl). 3 nuove copie offline (2 wayback, 1 live). Coda esaurita: aggiunte 6 query (riviste e convegni 2003-08, ANSA, whistleblowing in università/sanità 2023-25, TI Italia)."
@@ -5612,7 +5676,7 @@
   {
    "date": "2026-10-30 12:00",
    "engine": "google-chrome",
-   "searched": 7,
+   "searched": 8,
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 7 query pending (s0ftpj/BFI 1998-2001, wardriving 2002-04, Smau/Moby 2003-05, Telecom/Tavaroli 2006-08, Winston Smith/e-privacy 2007-09, ANAC/d.lgs. 24 2023-24, Hermes podcast/webinar 2024-25), chiave localStorage gq20261030b_N: nessun robot check, 57 risultati, 52 URL unici. Scartati senza verifica LinkedIn, hyperkitty nexa (mailing list) e pagine indice (radioradicale soggetti, dicorinto tag, alessandrorodolfi home, monitora-pa home, amministrazione trasparente di una scuola, puntosicuro sommario/page-20, profilo slideshare). 38 verificati: quasi tutti già in archivio; 6 'OK' ma nessuno nuovo: 3 slide SlideShare di terzi dove il nome compare solo nella barra 'Recommended' (→ exclude), MOCA 2016 e DIG speaker già presenti (MOCA come mirror di una voce talk più ricca: rimosso dal raw per non sovrascriverla), InfoconDB già escluso da decisione. Fallite researchgate/academia (paper TI Italia whistleblowing, accesso bloccato). Voci invariate 1264. Copie offline rieseguite: 1195 ottenute + 124 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove per gli anni deboli (1998-99, 2000, 2003, 2006, 2023-26)."
@@ -5648,6 +5712,14 @@
    "captcha": false,
    "confirmed_new": 0,
    "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (IISFA/informatica forense, Mac/OSXCrypt 2007-08, GSM/telefonia cifrata 2007-08, spyware/Pegasus/Paragon 2025, PEC/PA 2025-26, FOIA/eclecticismnow, convegni 2003/2006, PA sicurezza 2023-24), chiave localStorage gq20261031a_N: nessun robot check, 79 risultati, 73 URL unici. Scartati senza verifica LinkedIn/Instagram, mailing list (seclists, inventati/autistici, osmocom, nexa hyperkitty, freelists, forum.italia.it), pagine indice/home/tag (dalchecco, dicorinto, tipiloschi, pr-foundation, monitora-pa, trasparenza-pa, infosecurity.ch, raiplaysound, romhack speaker, ccc wiki) e risposte FOIA di scuole. 36 verificati: 23 già in archivio, 8 nome assente, 1 non raggiungibile (dokumen.pub, libro 'Cybersicurezza e pubblica amministrazione': annotato in PROBLEMI-APERTI), 4 'OK' tutti già in exclude (IJF Gallus, commento Schneier 2010, IRPA spyware, SlideServe PGP). Raw lasciato vuoto. Nessuna voce nuova (1270). Copie offline: 1202 ottenute + 124 video, nessuna pendente. Coda esaurita: aggiunte 8 query nuove."
+  },
+  {
+   "date": "2026-10-31 00:40",
+   "engine": "google-chrome",
+   "searched": 8,
+   "captcha": false,
+   "confirmed_new": 0,
+   "note": "BRAVE_API_KEY non impostata (step 1 saltato). Chrome connesso; eseguite le 8 query pending (voice security/VoIP, libro Cybersicurezza e PA, s0ftpj 2001-02, Khamsa/Hermes 2013-14, data breach 2023-25, Moby/Infosecurity/Smau 2006-08, NIS2/ACN, Wired/Fatto Quotidiano whistleblowing 2024-25), chiave localStorage gq20261031b_N: nessun robot check, 68 risultati, 49 URL unici. Scartati senza verifica LinkedIn/X/Facebook, mailing list (nexa hyperkitty), pagine indice/home/tag (dicorinto, romhack speaker, pr-foundation, raiplaysound puntate, personaldemocracy, monitora-pa, alessandrorodolfi, profilo slideshare, e-privacy materiali 2005). 33 verificati: già in archivio (tra gli altri e-privacy 2009 voice security, controtuttelemafie, mgpf Infosecurity 2007, Clusit, leorugens, ITASEC 2020, startmag, edri, Radio Radicale 543790, agendadigitale; il capitolo Elgar 'Digital whistleblowing platforms... TI Italia' trovato su ResearchGate/Academia/elgaronline è già in archivio via DOI), 7 nome assente/shell, 4 non raggiungibili, 8 'OK' di cui 7 già in exclude; aggiunta a exclude la slide SlideShare 'data center infographic' (nome solo nei correlati). Il libro 'Cybersicurezza e pubblica amministrazione' resta non trovato. Raw lasciato vuoto. Nessuna voce nuova. Coda esaurita: aggiunte 8 query nuove."
   }
  ]
 }
